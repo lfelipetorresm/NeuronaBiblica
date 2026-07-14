@@ -1,0 +1,76 @@
+---
+tipo: concordancia
+palabra: CELEBRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CELEBRAR
+
+- Éxo_5:1a mi pueblo a celebrarme fiesta en el
+- Éxo_12:14lo celebraréis como fiesta solemne paraH2287
+- Éxo_12:14por estatuto perpetuo lo celebraréisH2287
+- Éxo_12:48quisiere celebrar la pascua para JehováH6213
+- Éxo_12:48circuncindado todo varón...la celebraráH6213
+- Éxo_23:14veces en el año me celebraréis fiestaH2287
+- Éxo_31:16celebrándolo por sus generaciones porH8104
+- Éxo_34:22celebrarás la fiesta de las semanasH6213
+- Núm_9:2hijos de Israel celebrarán la pascuaH6213
+- Núm_9:3la celebraréis como fiesta solemne paraH6213
+- Núm_9:3y conforme a...sus leyes la celebraréisH6213
+- Núm_9:4y habló...para que celebracen la pascuaH6213
+- Núm_9:5celebraron la pascua en el mes primeroH6213
+- Núm_9:6algunos...no pudieron celebrar la pascuaH6213
+- Núm_9:10estuviere inmundo...celebrará la pascuaH6213
+- Núm_9:11mes, entre loas dos tardes, la celebraránH6213
+- Núm_9:12conforme a todos los ritos...celebraránH6213
+- Núm_9:13si dejare de celebrar la pascua, la talH6213
+- Núm_9:14y si...extranjero, y celebrare la pascuaH6213
+- Núm_9:14y conforme a sus leyes la celebrará
+- Núm_29:12y celebraréis fiesta solemne a JehováH2287
+- Deu_16:15celebrarás fiesta solemne a JehováH2287
+- Deu_29:1que celebrase con los hijos de IsraelH3772
+- Jos_5:10y celebraron la pascua a los 14 díasH6213
+- Jos_9:15y Josué hizo...celebró con ellos alianzaH6213
+- Rut_4:14cuyo nombre será celebrado en IsraelH7121
+- 1Sa_20:6familia celebran allá el sacrificio
+- 1Sa_20:29nuestra familia celebra sacrificio en
+- 1Re_12:32la fiesta...que se celebraba en Judá
+- 2Cr_6:11el pacto de Jehová que celebró conH3772
+- 2Cr_7:9habían celebrado la fiesta...siete díasH6213
+- 2Cr_30:1para celebrar la pascua a Jehová DiosH6213
+- 2Cr_30:2tomado consejo...para celebrarla pascuaH6213
+- 2Cr_30:3no la podían celebrar, por cuanto noH6213
+- 2Cr_30:5viniesen a celebrar la pascua a JehováH6213
+- 2Cr_30:5en mucho tiempo no la habían celebradoH6213
+- 2Cr_30:13se reunió en...para celebrar la fiestaH6213
+- 2Cr_30:21celebraron la fiesta...de los panes sinH6213
+- 2Cr_30:23celebrasen la fiesta por...siete díasH6213
+- 2Cr_30:23fiesta...la celebraron otros siete díasH6213
+- 2Cr_35:1Josías celebró la pascua a Jehová enH6213
+- 2Cr_35:8dieron a los...para celebrar la pascua
+- 2Cr_35:16preparado...día, para celebrar la pascuaH6213
+- 2Cr_35:17celebraron la pascua en aquel tiempoH6213
+- 2Cr_35:18nunca fue celebrada una pascua comoH6213
+- 2Cr_35:18celebró pascua tal como la que c elH6213
+- 2Cr_35:19esta pascua fue celebrada en el año 18H6213
+- Esd_3:4celebraron...la fiesta solemne de losH6213
+- Esd_6:19celebraron la pascua a los 14 días delH6213
+- Esd_6:22y celebraron con regocijo la fiestaH6213
+- Est_9:21ordenándoles que celebrasen el díaH6213
+- Est_9:27no dejarían de celebrar estos dos díasH6213
+- Est_9:28que estos días serían...celebrados porH6213
+- Sal_30:4celebrad la memoria de su santidadH3034
+- Sal_89:5celebrarán los cielos tus maravillasH3034
+- Sal_145:4generación a...celebrará tus obras, yH5046
+- Isa_30:29de noche en que se celebra pascuaH6942
+- Jer_34:18palabras del pacto que celebraronH3772
+- Nah_1:15celebra, oh Judá, tus fiestas, cumpleH2287
+- Zac_14:16subirán...celebrar la fiesta de losH2287
+- Zac_14:18-19no subieren a celebrar la fiestaH2287
+- Mat_14:6cuando se celebraba el cumpleaños deG71
+- Mat_26:2dentro de dos días se celebra la pascuaG3957
+- Mat_26:18en tu casa celebraré la pascua con misG4160
+- Jua_10:22celebrábase en Jerusalén la fiesta
+- 1Co_5:8celebremos la fiesta, no...levaduraG1858
+- Heb_11:28por la fe celebró la pascua...sangreG4160

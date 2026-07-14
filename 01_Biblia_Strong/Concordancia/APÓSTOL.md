@@ -1,0 +1,87 @@
+---
+tipo: concordancia
+palabra: APÓSTOL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# APÓSTOL
+
+- Mat_10:2los nombres de los doce a son estosG652
+- Mar_6:30entonces los a se juntaron con JesúsG652
+- Luc_6:13a doce...a los cuales también llamó aG652
+- Luc_9:10vueltos los a, le contaron todo lo queG652
+- Luc_11:49les enviaré profetas y a; y de ellos, aG652
+- Luc_17:5dijeron los a al Señor: Auméntanos la feG652
+- Luc_22:14hora, se sentó a la mesa, y con Él los aG652
+- Luc_24:10quienes dijeron estas cosas a los aG652
+- Hec_1:2dado...por el Espíritu Santo a los aG652
+- Hec_1:26Matías; y fue contado con los once aG652
+- Hec_2:37dijeron a Pedro y a los otros a: VaronesG652
+- Hec_2:42y perseveraban en la doctrina de los aG652
+- Hec_2:43muchas...señales eran hechas por los aG652
+- Hec_4:33los a daban testimonio de la resurrecciónG652
+- Hec_4:35y lo ponían a los pies de los a; y seG652
+- Hec_4:36José, a quien los a pusieron...BernabéG652
+- Hec_4:37el precio y lo puso a los pies de los aG652
+- Hec_5:2solo una parte, la puso a los pies de los aG652
+- Hec_5:12y por la mano de los a se hacían muchasG652
+- Hec_5:14echaron mano a los a y los pusieron en laG652
+- Hec_5:29los a, dijeron: Es necesario obedecer aG652
+- Hec_5:34que sacasen fuera por un momento a los aG652
+- Hec_5:40y llamando a los a, después de azotarlosG652
+- Hec_6:6los cuales presentaron ante los a, quienesG652
+- Hec_8:1todos fueron esparcidos por...salvo los aG652
+- Hec_8:14los a que estaban en Jerusalén oyeron queG652
+- Hec_8:18por la imposición de las manos de los aG652
+- Hec_9:27Bernabé, tomándole, lo trajo a los aG652
+- Hec_11:1oyeron los a y los...que estaban en JudeaG652
+- Hec_14:4unos estaban con los...y otros con los aG652
+- Hec_14:14cuando lo oyeron los a...rasgaron susG652
+- Hec_15:2subiesen Pablo y...a los a y los ancianosG652
+- Hec_15:4fueron recibidos por...a y los ancianosG652
+- Hec_15:6se reunieron los a...para conocer de esteG652
+- Hec_15:22pareció bien a los a y a los ancianosG652
+- Hec_15:23los a y los ancianos y...a los hermanosG652
+- Hec_16:4las ordenanzas que habían acordado los aG652
+- Rom_1:1Pablo...llamado a ser a, apartado paraG652
+- Rom_11:13cuanto yo soy a los gentiles, honro miG652
+- Rom_16:7y a Junias...muy estimados entre los aG652
+- 1Co_1:1Pablo, llamado a ser a de JesucristoG652
+- 1Co_4:9Dios nos ha exhibido a nosotros los a comoG652
+- 1Co_9:1¿no soy a? ¿No soy libre? ¿No he vistoG652
+- 1Co_9:2si para otros no soy a, para vosotrosG652
+- 1Co_9:5como también los otros a, y los...y CefasG652
+- 1Co_12:28puso...primeramente a, luego profetasG652
+- 1Co_12:29¿son todos a? ¿son todos profetas?[[G652]]
+- 1Co_15:7apareció a Jacobo, después a todos los aG652
+- 1Co_15:9soy el más pequeño de los a, que no soyG652
+- 1Co_15:9que no soy digno de ser llamado a, porqueG652
+- 2Co_1:1Pablo, a de Jesucristo por la voluntadG652
+- 2Co_11:5en nada he sido inferior a aquellos...aG652
+- 2Co_11:13estos son falsos a, obreros fraudulentosG5570
+- 2Co_11:13que se disfrazan como a de CristoG652
+- 2Co_12:11en nada he sido menos que aquellos...aG652
+- 2Co_12:12las señales de a han sido hechas entreG652
+- Gál_1:1Pablo, a (no de hombres ni por hombre)[[G652]]
+- Gál_1:17ni subí a...a los que eran a antes que yoG652
+- Gál_1:19pero no vi a ningún otro de los a, sinoG652
+- Efe_1:1Pablo, a de Jesucristo por la voluntadG652
+- Efe_2:20edificados sobre el fundamento de los aG652
+- Efe_3:5como ahora es revelado a sus santos a yG652
+- Efe_4:11y él mismo constituyó a unos, a; a otrosG652
+- Col_1:1Pablo, a de Jesucristo por la voluntadG652
+- 1Ts_2:6aunque podíamos seros carga como a deG652
+- 1Ti_1:1Pablo, a de Jesucristo por mandato deG652
+- 1Ti_2:7constituido predicador y a (digo verdadG652
+- 2Ti_1:1a de Jesucristo por la voluntad deñor el reyG652
+- 2Ti_1:11fui constituido predicador, a y maestroG652
+- Tit_1:1Pablo, siervo de Dios y a de JesucristoG652
+- Heb_3:1considerad al a y al sumo sacerdote deG652
+- 1Pe_1:1a de Jesucristo, a los expatriados deG652
+- 2Pe_1:1Simón Pedro, siervo y a de JesucristoG652
+- 2Pe_3:2y el mandamiento...dado por vuestros aG652
+- Jud_1:17palabras...dichas por los a de nuestroG652
+- Rev_2:2has probado a los que se dicen ser a, yG652
+- Rev_18:20alégrate sobre ellas, cielo, y...santos, aG652
+- Rev_21:14doce nombres de los doce a del corderoG652

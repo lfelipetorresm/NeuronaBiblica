@@ -1,0 +1,138 @@
+---
+tipo: concordancia
+palabra: DOCE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DOCE
+
+- Véase también Doce mil
+- Gén_14:4d años habían servido a QuedorlaomerH8147, [[H6240]]
+- Gén_17:20d príncipes engendrará, y haré de élH8147, [[H6240]]
+- Gén_25:16Ismael...d príncipes por sus familiasH8147, [[H6240]]
+- Gén_35:22ahora bien, los hijos de Israel fueron dH8147, [[H6240]]
+- Gén_42:13tus siervos somos d hermanos, hijos deH8147, [[H6240]]
+- Gén_42:32somos d hermanos, hijos de nuestro padreH8147, [[H6240]]
+- Gén_49:28éstos fueron las d tribus de IsraelH8147, [[H6240]]
+- Éxo_15:27Elim, donde había d fuentes de aguasH8147, [[H6240]]
+- Éxo_24:4y d columnas, según las d tribus deH8147, [[H6240]]
+- Éxo_28:21; Éxo_39:14piedras...d...según las d tribusH8147, [[H6240]]
+- Lev_24:5cocerás de ella d tortas; cada tortaH8147, [[H6240]]
+- Núm_1:44d varones, uno por cada casa de susH8147, [[H6240]]
+- Núm_7:3seis carros cubiertos y d bueyes; por cadaH8147, [[H6240]]
+- Núm_7:84para la dedicación...d platos de plataH8147, [[H6240]]
+- Núm_7:84d jarras de plata, d cucharas de oroH8147, [[H6240]]
+- Núm_7:86las d cucharas de oro llenas de inciensoH8147, [[H6240]]
+- Núm_7:87los bueyes...d becerros; d carnerosH8147, [[H6240]]
+- Núm_7:87d los corderos de...d los machos cabríosH8147, [[H6240]]
+- Núm_17:2d varas conforme a...casas de sus padresH8147, [[H6240]]
+- Núm_17:6los príncipes de ellos le dieron...d varasH8147, [[H6240]]
+- Núm_29:17d becerros de la vacada, dos carnerosH8147, [[H6240]]
+- Núm_33:9a Elim, donde había d fuentes de aguasH8147, [[H6240]]
+- Deu_1:23tomé d varones de entre vosotros, unH8147, [[H6240]]
+- Jos_3:12tomad...ahora d hombres de las tribusH8147, [[H6240]]
+- Jos_4:2tomad del...d hombres, uno de cada tribuH8147, [[H6240]]
+- Jos_4:3tomad...d piedras, las cuales pasaréis conH8147, [[H6240]]
+- Jos_4:4entonces Josué llamó a los d hombres aH8147, [[H6240]]
+- Jos_4:8tomaron d piedras de en medio del JordánH8147, [[H6240]]
+- Jos_4:9levantó d piedras en medio del Jordán, enH8147, [[H6240]]
+- Jos_4:20Josué erigió en Gilgal las d piedras queH8147, [[H6240]]
+- Jos_18:24Ofni y Geba, d ciudades con sus aldeasH8147, [[H6240]]
+- Jos_19:15abarca Catat...d ciudades con sus aldeasH8147, [[H6240]]
+- Jos_21:7Gad y de la tribu de Zabulón, d ciudadesH8147, [[H6240]]
+- Jos_21:40de Merari...por sus suertes d ciudadesH8147, [[H6240]]
+- Jue_19:29partió por sus huesos en d partesH8147, [[H6240]]
+- 2Sa_2:15pasaron...d de Benjamín...d de...DavidH8147, [[H6240]]
+- 2Sa_21:20d dedos en las manos, y otros d en los
+- 1Re_4:7tenía Salomón d gobernadores sobreH8147, [[H6240]]
+- 1Re_7:15y rodeaba a una y otra un...de d codosH8147, [[H6240]]
+- 1Re_7:25y descansaba sobre d bueyes; 3 mirabanH8147, [[H6240]]
+- 1Re_7:44un mar, con d bueyes debajo del marH8147, [[H6240]]
+- 1Re_10:20estaban también d leones puestos allíH8147, [[H6240]]
+- 1Re_11:30la capa nueva...la rompió en d pedazosH8147, [[H6240]]
+- 1Re_16:23Omri...reinó d años; en Tirsa reinó 6H8147, [[H6240]]
+- 1Re_18:31tomando Elías d piedras, conforme alH8147, [[H6240]]
+- 1Re_19:19halló a Eliseo...que araba con d yuntasH8147, [[H6240]]
+- 2Re_3:1Joram hijo de...comenzó...y reinó d añosH8147, [[H6240]]
+- 2Re_8:25en el año d de Joram hijo de Acab, reyH8147, [[H6240]]
+- 2Re_21:1de d años era Manasés cuando comenzó aH8147, [[H6240]]
+- 1Cr_6:63Gad...dieron por suerte d ciudadesH8147, [[H6240]]
+- 1Cr_25:9Gedalías...con sus hermanos...fueron dH8147, [[H6240]]
+- 1Cr_25:10-11, 1Cr_25:12-13, 1Cr_25:14-15, 1Cr_25:16-17, 1Cr_25:18-19, 1Cr_25:20-21, 1Cr_25:22-23, 1Cr_25:24-25, 1Cr_25:26-27, 1Cr_25:28-29, 1Cr_25:30-31con sus hijos y sus hermanos, dH8147, [[H6240]]
+- 2Cr_4:4asentado sobre d bueyes, tres de losH8147, [[H6240]]
+- 2Cr_4:15un mar, y los d bueyes debajo de élH8147, [[H6240]]
+- 2Cr_9:19d leones sobre las seis gradas, a uno yH8147, [[H6240]]
+- 2Cr_33:1de d años era Manasés cuando comenzó aH8147, [[H6240]]
+- 2Cr_34:3a los d años comenzó a limpiar a JudáH8147, [[H6240]]
+- Esd_6:17en la dedicación...d machos cabríos enH8648, [[H6236]]
+- Esd_8:24aparté luego a d de los principales deH8147, [[H6240]]
+- Esd_8:31partimos del río Ahava el d del mesH8147, [[H6240]]
+- Esd_8:35ofrecieron...d becerros por todo IsraelH8147, [[H6240]]
+- Esd_8:35y d machos cabríos por expiación, todoH8147, [[H6240]]
+- Neh_5:14hasta el año 32, d años, ni yo ni misH8147, [[H6240]]
+- Est_2:12después de haber estado d mesesH8147, [[H6240]]
+- Jer_52:20los d bueyes de bronce que estabanH8147, [[H6240]]
+- Jer_52:21columna...cordón de d codos la rodeabaH8147, [[H6240]]
+- Eze_29:1en el mes décimo, a los d días del mesH8147, [[H6240]]
+- Eze_43:16el altar tenía d codos de largo, y d deH8147, [[H6240]]
+- Eze_47:13repartiréis la tierra...las d tribusH8147, [[H6240]]
+- Dan_4:29al cabo de d meses, paseando...palacioH8648, [[H6236]]
+- Mat_9:20una mujer enferma...desde hacía d añosG1427
+- Mat_10:1llamando a sus d discípulos, les dioG1427
+- Mat_10:2los nombres de los d apóstoles son estosG1427
+- Mat_10:5a estos d envió...les dio instruccionesG1427
+- Mat_11:1de dar instrucciones a sus d discípulosG1427
+- Mat_14:20y recogieron lo que sobró de...d cestasG1427
+- Mat_19:28d tronos, para juzgar a las d tribus deG1427
+- Mat_20:17tomó a sus d discípulos aparte en elG1427
+- Mat_26:14uno de los d...fue a los principalesG1427
+- Mat_26:20la noche, se sentó a la mesa con los dG1427
+- Mat_26:47vino Judas, uno de los d, y con él muchaG1427
+- Mat_26:53me daría más de d legiones de ángelesG1427
+- Mar_3:14estableció a d, para que estuviesenG1427
+- Mar_4:10los que estaban cerca de él con los dG1427
+- Mar_5:25una mujer que desde hacía d años padecíaG1427
+- Mar_5:42la niña se levantó...pues tenía d añosG1427
+- Mar_6:7llamó a los d, y comenzó a enviarlos deG1427
+- Mar_6:43recogieron de...pedazos d cestas llenasG1427
+- Mar_8:19¿cuántas cestas llenas...ellos dijeron: DG1427
+- Mar_9:35y llamó a los d, y les dijo: Si algunoG1427
+- Mar_10:32volviendo a tomar a los d aparte lesG1427
+- Mar_11:11anochecía, se fue a Betania con los dG1427
+- Mar_14:10Judas Iscariote, uno de los d, fue aG1427
+- Mar_14:17cuando llegó la noche, vino él con los dG1427
+- Mar_14:20es uno de los d el que moja conmigoG1427
+- Mar_14:43vino Judas, qué era uno de los d, y conG1427
+- Luc_2:42cuando...d años, subieron a JerusalénG1427
+- Luc_6:13y escogió a d de ellos, a los cualesG1427
+- Luc_8:1Jesús iba por todas las...y los d con élG1427
+- Luc_8:42tenía una hija única, como de d años, queG1427
+- Luc_8:43padecía de flujo de...desde hacía d añosG1427
+- Luc_9:1habiendo reunido a sus d discípulos, lesG1427
+- Luc_9:12los d, le dijeron: Despide a la genteG1427
+- Luc_9:17lo que les sobró, d cestas de pedazosG1427
+- Luc_18:31tomando Jesús a los d, les dijo: Helo aquíG1427
+- Luc_22:3entró en Judas...uno del número de los dG1427
+- Luc_22:30en tronos juzgando a las d tribus deG1427
+- Luc_22:47judas, uno de los d, iba al frente deG1427
+- Jua_6:13llenaron d cestas de pedazos, que deG1427
+- Jua_6:67a los d: ¿Queréis acaso iros tambiénG1427
+- Jua_6:70he escogido yo a vosotros los d, y unoG1427
+- Jua_6:71le iba a entregar, y era uno de los dG1427
+- Jua_11:9respondió...¿No tiene el día d horas? ElG1427
+- Jua_20:24pero Tomás, uno de los d...no estaba conG1427
+- Hec_6:2los d convocaron a la multitud de losG1427
+- Hec_7:8circuncidó...y Jacob a los d patriarcasG1427
+- Hec_19:7eran por todos unos d hombresG1177
+- Hec_24:11no hace más de d días que subí a adorarG1177
+- Hec_26:7que han de alcanzar nuestras d tribusG1429
+- 1Co_15:5apareció a Cefas, y después a los dG1427
+- Stg_1:1Santiago...a las d tribus que están enG1427
+- Rev_12:1su cabeza una corona de d estrellasG1427
+- Rev_21:12d puertas; y en las puertas, d ángelesG1427
+- Rev_21:12son los de las d tribus de los hijos deG1427
+- Rev_21:14el muro de la ciudad tenía d cimientosG1427
+- Rev_21:14los d nombres de los d apóstoles delG1427
+- Rev_21:21las d puertas eran d perlas; cada unaG1427
+- Rev_22:2árbol de la vida, que produce d frutosG1427

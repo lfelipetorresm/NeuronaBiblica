@@ -1,0 +1,199 @@
+---
+tipo: concordancia
+palabra: PREPARAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PREPARAR
+
+- Gén_18:7al criado...se dio prisa a prepararloH6213
+- Gén_18:8leche, y el becerro que había preparadoH6213
+- Gén_24:31he preparado la casa, y el lugar paraH6437
+- Gén_27:17guisados y el pan que había preparadoH6213
+- Gén_43:16y degüella una res y prepárala, puesH3559
+- Gén_43:25prepararon el presente entretanto queH3559
+- Éxo_12:16preparéis lo que cada...haya de comer
+- Éxo_12:39tenido tiempo ni para prepararse comidaH6213
+- Éxo_15:17en el lugar...que tú has preparado, ohH3559
+- Éxo_16:5prepararán para guardar el doble de loH3559
+- Éxo_19:11y estén preparados para el día terceroH3559
+- Éxo_19:15estad preparados para el tercer día; noH3559
+- Éxo_23:20introduzca...lugar que yo he preparadoH3559
+- Éxo_34:2prepárate...y sube de mañana al monte deH3559
+- Lev_6:21sartén se preparará con aceite; fritaH6213
+- Lev_7:9todo lo que fuere preparado en sartén oH6213
+- Núm_23:1, Núm_23:29prepárame aquí siete becerros y 7H3559
+- Deu_1:41y os preparasteis para subir al monteH1951
+- Deu_32:35lo que les está preparado se apresura
+- Jos_1:11preparaos comida, porque dentro de 3H3559
+- Jue_6:19Gedeón, preparó un cabrito, y panesH6213
+- Jue_13:15detenerte, y os prepararemos un cabritoH6213
+- 1Sa_7:3y preparad vuestro corazón a JehováH3559
+- 1Sa_25:11he de tomar...mi carne que he preparado
+- 2Sa_12:4la preparó para aquel que había venidoH6213
+- 2Sa_13:5y prepare delante de mí alguna viandaH6213
+- 2Sa_13:10tomando...hojuelas que había preparadoH6213
+- 1Re_5:18prepararon la madera y la canteríaH3559
+- 1Re_17:12prepararlo para mí y para mi hijo, paraH6213
+- 1Re_18:23yo prepararé el otro buey, y lo pondréH6213
+- 1Re_18:25un buey, y preparadlo vosotros primeroH6213
+- 1Re_18:26ellos tomaron el buey...y lo prepararonH6213
+- 1Re_18:33preparó luego la leña, y cortó el bueyH6213
+- 2Re_6:23entonces se les preparó una...comidaH3739
+- 1Cr_12:36de Aser...y preparados para pelearH6186
+- 1Cr_12:39sus hermanos habían preparado para ellosH3559
+- 1Cr_15:3su lugar, el cual le había él preparadoH3559
+- 1Cr_15:12el arca...el lugar que le he preparadoH3559
+- 1Cr_22:3asimismo preparó David mucho hierro paraH3559
+- 1Cr_22:5y la casa...yo le prepararé lo necesarioH3559
+- 1Cr_22:14he preparado...cien mil talentos de oroH3559
+- 1Cr_22:14preparado madera y piedra, a lo cual túH3559
+- 1Cr_23:29lo preparado en sartén, para lo tostado
+- 1Cr_28:2y había ya preparado todo para edificarH3559
+- 1Cr_29:2he preparado para la casa de mi Dios, oroH3559
+- 1Cr_29:3cosas que he preparado para la casa delH3559
+- 1Cr_29:16toda esta abundancia...hemos preparadoH3559
+- 2Cr_1:4al lugar que él le había preparadoH3559
+- 2Cr_2:9me preparen mucha madera, porque la casaH3559
+- 2Cr_3:1lugar que...había preparado en la era deH3559
+- 2Cr_8:16obra de Salomón estaba preparada desdeH3559
+- 2Cr_16:14preparadas por expertos perfumistasH7543
+- 2Cr_26:14y Uzías preparó para todo el ejércitoH3559
+- 2Cr_27:6Jotam...preparó sus caminos delante deH3559
+- 2Cr_29:19hemos preparado...todos los utensiliosH3559
+- 2Cr_29:36que Dios hubiese preparado el puebloH3559
+- 2Cr_30:18ha preparado su corazón para buscar a
+- 2Cr_31:11preparasen cámaras en...y las prepararonH3559
+- 2Cr_35:4preparaos según las familias de...padresH3559
+- 2Cr_35:6preparad a vuestros hermanos para queH3559
+- 2Cr_35:10preparado...el servicio, los sacerdotesH3559
+- 2Cr_35:14(2)prepararon para ellos mismos y paraH3559
+- 2Cr_35:15hermanos los levitas preparaban paraH3559
+- 2Cr_35:16así fue preparado todo el servicio deH3559
+- Esd_7:10Esdras había preparado su corazón paraH3559
+- Neh_5:18que se preparaba para cada día eraH6213
+- Neh_5:18también eran preparados para mí aves, yH6213
+- Neh_8:10porciones a los que no tienen...preparadoH6213
+- Est_5:4vengan...al banquete que he preparadoH6213
+- Est_5:8Amán a otro banquete que les prepararéH6213
+- Est_5:14agradó esto a...e hizo preparar la horcaH6213
+- Est_6:4en la horca que él le tenía preparadaH3559
+- Est_7:10horca que él había hecho preparar paraH3559
+- Est_8:13judíos estuviesen preparados...aquel díaH6264
+- Job_15:23que le está preparado día de tinieblasH3559
+- Job_17:1días, y me está preparado el sepulcro
+- Job_18:12y a su lado...preparado quebrantamientoH3559
+- Job_20:29la porción que Dios prepara al...impío
+- Job_27:16como polvo, y prepare ropa como lodoH3559
+- Job_27:17la habrá preparado él, mas el justo seH3559
+- Job_28:27él...la preparó y la descubrió tambiénH3559
+- Job_29:7en la plaza hacía preparar mi asientoH3559
+- Job_30:12pies, y prepararon contra mí caminos deH5549
+- Job_36:16y te preparará mesa llena de grosuraH5183
+- Job_38:41¿quién prepara al cuervo su alimentoH3559
+- Sal_7:12armado...su arco, y lo ha preparadoH3559
+- Sal_7:13asimismo ha preparado armas de muerteH3559
+- Sal_61:7prepara misericordia y verdad para queH4487
+- Sal_65:9preparas el grano de ellos, cuando asíH3559
+- Sal_147:8que prepara la lluvia para la tierraH3559
+- Pro_6:8prepara en...verano su comida, y recoge
+- Pro_19:29preparados están juicios para losH3559
+- Pro_24:27prepara tus labores fuera, y disponlasH3559
+- Pro_30:25las hormigas...en el verano preparan suH3559
+- Isa_14:21preparad sus hijos para el mataderoH3559
+- Isa_30:33Tofet ya...está...preparado para el reyH3559
+- Isa_40:3voz que clama...Preparad camino a JehováH6437
+- Isa_40:19el artífice prepara la imagen de talla
+- Isa_44:16con parte de él come...prepara un asado
+- Jer_22:7prepararé contra ti destruidores, cadaH6942
+- Jer_23:19la tempestad que está preparada caerá
+- Jer_30:23la tempestad que se prepara, sobre la
+- Jer_46:3preparad escudo y pavés, y venid a la
+- Jer_46:14prepárate, porque espada devorará tuH3559
+- Jer_50:9se prepararán contra ella, y será tomada
+- Jer_50:42se prepararán contra ti como hombres a
+- Jer_51:27alzad bandera en la...preparad pueblosH6942
+- Jer_51:28preparad contra ella naciones...de MediaH6942
+- Eze_7:14prepararán todas las cosas, y no habráH3559
+- Eze_12:3prepárate enseres de marcha, y parte deH6213
+- Eze_21:15dispuesta está...preparada para degollarH4593
+- Eze_23:41y fue preparada mesa delante de él, yH6186
+- Eze_28:13flautas estuvieron preparados para tiH3559
+- Eze_38:7prepárate y apercíbete...sé tú su guardaH3559
+- Dan_2:9preparáis respuesta mentirosa...decidmeH2164
+- Ose_6:11para...Judá, está preparada una siegaH3559
+- Amó_4:12prepárate para...encuentro de tu DiosH3559
+- Jon_1:17Jehová tenía preparado un gran pezH4487
+- Jon_4:6y preparó Jehová Dios una calabacera, laH4487
+- Jon_4:7Dios preparó un gusano, el cual hirió laH4487
+- Jon_4:8preparó Dios un recio viento solano, y elH4487
+- Nah_2:3el día que se prepare, temblarán lasH3559
+- Nah_2:5se acordará...y la defensa se prepararáH3559
+- Sof_1:7porque Jehová ha preparado sacrificioH3559
+- Zac_5:11y cuando esté preparada la pondránH3559
+- Mal_3:1el cual preparará el camino delante deH6437
+- Mat_3:3clama en...Preparad el camino del SeñorG2090
+- Mat_11:10el cual preparará tu camino delante deG2680
+- Mat_20:23aquellos para quienes está preparadoG2090
+- Mat_22:4decid...He aquí, he preparado mi comidaG2090
+- Mat_22:8las bodas a la verdad están preparadasG2092
+- Mat_24:44por tanto...vosotros estad preparadosG2092
+- Mat_25:10las que estaban preparadas entraron conG2092
+- Mat_25:34venid...heredad el reino preparado paraG2090
+- Mat_25:41fuego...preparado para el diablo y susG2090
+- Mat_26:12a fin de prepararme para la sepultura
+- Mat_26:17¿dónde quieres que preparemos para queG2090
+- Mat_26:19y los discípulos...prepararon la pascuaG2090
+- Mar_1:2cual preparará tu camino delante de tiG2680
+- Mar_1:3preparad el camino del Señor; enderezadG2090
+- Mar_10:40aquellos para quienes está preparadoG2090
+- Mar_14:12que vayamos a preparar para que comasG2090
+- Mar_14:15aposento...preparad para nosotros allíG2092
+- Mar_14:16sus discípulos...y prepararon la pascuaG2090
+- Luc_1:17para preparar al Señor un pueblo bienG2680
+- Luc_1:76irás delante...para preparar sus caminosG2090
+- Luc_2:31has preparado en presencia de todos losG2090
+- Luc_3:4que clama...Preparad el camino del SeñorG2090
+- Luc_7:27cual preparará tu camino delante de tiG2680
+- Luc_12:40también estad preparados, porque a laG2092
+- Luc_12:47no se preparó, ni hizo...a su voluntadG2090
+- Luc_14:17envió a decir...ya todo está preparadoG2092
+- Luc_17:8prepárame la cena, cíñete, y sírvemeG2090
+- Luc_22:8id, preparadnos la pascua para que laG2090
+- Luc_22:9dijeron: ¿Dónde quieres...la preparemosG2090
+- Luc_22:12un gran aposento alto...preparad allíG2090
+- Luc_22:13fueron, pues...y prepararon la pascuaG2090
+- Luc_23:56vueltas...prepararon especias aromáticasG2090
+- Luc_24:1trayendo las especias...habían preparadoG2090
+- Jua_14:2voy...a preparar lugar para vosotrosG2090
+- Jua_14:3si me fuere y os preparare lugar, vendréG2090
+- Hec_10:10pero mientras le preparaban algo, leG3903
+- Hec_23:23preparasen para la hora tercera de laG2090
+- Hec_23:24y que preparasen cabalgaduras en queG3903
+- Hec_25:3preparando...una celada para matarte en
+- Rom_9:22soportó...los vasos de ira preparadosG4282
+- Rom_9:23los vasos de misericordia que él preparóG4282
+- 1Co_2:9Dios ha preparado para los que le amanG2090
+- 1Co_14:8si ¿quién se preparará para la batalla?[[G3903]]
+- 2Co_9:2está preparada desde el año pasadoG3903
+- 2Co_9:3que como lo he dicho, estéis preparadosG3903
+- 2Co_9:5preparasen primero vuestra generosidadG2092
+- 2Co_10:16para gloriarnos en lo que...preparadoG2092
+- 2Co_12:14vez estoy preparado para ir a vosotrosG2093
+- Efe_2:10las cuales Dios preparó de antemanoG4282
+- 2Ti_3:17sea perfecto, enteramente preparadoG1822
+- Flm_1:22prepárame también alojamiento; porqueG2090
+- Heb_10:5no quisiste; mas me preparaste cuerpoG2675
+- Heb_11:7por la fe Noé...con temor preparó el arcaG2680
+- Heb_11:16Dios...porque les ha preparado...ciudadG2090
+- 1Pe_1:5preparada para ser manifestada en elG2092
+- 1Pe_3:15preparados para presentar defensa conG2092
+- 1Pe_3:20mientras se preparaba el arca, en la cualG2680
+- 1Pe_4:5darán cuenta al que está preparado paraG2093
+- Rev_9:7a caballos preparados para la guerraG2090
+- Rev_9:15que estaban preparados para la hora, díaG2090
+- Rev_12:6tiene lugar preparado por Dios, para queG2090
+- Rev_16:12para que estuviese preparado el caminoG2090
+- Rev_18:6cáliz en que...preparó bebida, preparadle
+- Rev_19:7las bodas...y su esposa se ha preparadoG2090

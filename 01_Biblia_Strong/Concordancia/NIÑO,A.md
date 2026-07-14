@@ -1,0 +1,217 @@
+---
+tipo: concordancia
+palabra: NIÑO,A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NIÑO,A
+
+- Gén_21:8creció el n, y fue destetado; e hizoH3206
+- Gén_25:27crecieron los n, y Esaú fue diestro enH5288
+- Gén_33:1repartió él los n entre Lea y Raquel yH3206
+- Gén_33:2puso las siervas y sus n delante, luegoH3206
+- Gén_33:2luego a Lea y sus n, y a Raquel y a JoséH3206
+- Gén_33:5ojos y vio a las mujeres y los n dijoH3206
+- Gén_33:5son los n que Dios ha dado siervoH3206
+- Gén_33:6vinieron las siervas, ellas y sus n, yH3206
+- Gén_33:7vino Lea con sus n, y se inclinaron; yH3206
+- Gén_33:13mi señor sabe que los n son tiernosH3206
+- Gén_33:14y yo me iré...al paso de los n, hastaH3206
+- Gén_34:29llevaron cautivos a todos sus n y susH2945
+- Gén_43:8que vivamos y no muramos...y nuestros nH2945
+- Gén_45:19tomaos de la...carros para nuestros nH2945
+- Gén_46:5tomaron...a sus n, y a sus mujeres, enH2945
+- Gén_47:24vuestras...y para que coman vuestros nH2945
+- Gén_50:8dejaron en la tierra de Gosén sus n, yH2945
+- Éxo_1:17sino que preservaron la vida a los nH3206
+- Éxo_1:18que habéis preservado la vida a los n?[[H3206]]
+- Éxo_2:3arquilla...colocó en ella el n y lo pusoH3206
+- Éxo_2:6abrió, vio al n; y he aquí...el n llorabaH3206
+- Éxo_2:6dijo: De los n de los hebreos es ésteH3206
+- Éxo_2:7una nodriza de...para que te críe este n?[[H3206]]
+- Éxo_2:8fue la doncella, y llamó a la madre del nH3206
+- Éxo_2:9lleva a este n y...y la mujer tomó al nH3206
+- Éxo_2:10y cuando el n creció, ella lo trajo aH3206
+- Éxo_10:9hemos de ir con nuestros n y con...viejosH1121
+- Éxo_10:10a dejar ir a vosotros y a vuestros n?[[H2945]]
+- Éxo_10:24vayan también vuestros n con vosotrosH2945
+- Éxo_12:37como 600.000 hombres...sin contar los nH1121
+- Lev_12:3y al octavo día se circuncidará al n
+- Núm_14:3mujeres y nuestros n sean por presa?[[H2945]]
+- Núm_14:31pero a vuestros n...yo los introduciréH2945
+- Núm_31:9llevaron cautivas...madianitas, a sus nH1121
+- Núm_31:17matad...pues...los varones de entre los nH2945
+- Núm_31:18a todas las n...las dejaréis con vidaH2945
+- Núm_32:16edificaremos...ciudades para nuestros nH2945
+- Núm_32:17n quedarán en ciudades fortificadas aH2945
+- Núm_32:24edificaos ciudades para vuestros n, yH2945
+- Núm_32:26nuestros n...estarán...en las ciudadesH2945
+- Deu_1:39vuestros n...ellos entrarán allá, y aH1121
+- Deu_2:34destruimos todas...hombres, mujeres y nH2945
+- Deu_3:6matando en...ciudad a hombres, mujeres y nH2945
+- Deu_20:14y los n, y los animales, y todo lo queH2945
+- Deu_28:50fiera de rostro, que no...perdonará al nH5288
+- Deu_29:11vuestros n, vuestras mujeres, y tusH2945
+- Deu_31:12harás congregar al pueblo...mujeres y nH2945
+- Deu_32:10lo trajo...guardó como a la n de su ojoH380
+- Deu_32:25así...al n de pecho como al hombre canoH3243
+- Jos_1:14n y vuestros ganados quedarán en laH2945
+- Jos_8:35leer delante...de las mujeres, de los nH2945
+- Jue_13:5, Jue_13:7el n será nazareo a Dios desde suH5288
+- Jue_13:8lo que hayamos de hacer con el n que haH5288
+- Jue_13:12cómo debe ser la manera de vivir del nH5288
+- Jue_13:24y el n creció, y Jehová lo bendijoH1121, [[H5288]]
+- Jue_18:21pusieron los n...el bagaje por delanteH1121
+- Jue_21:10herid...moradores...como las mujeres y nH1121
+- 1Sa_1:22no subiré hasta que el n...destetadoH5288
+- 1Sa_1:24lo trajo a...en Silo; y el n era pequeñoH5288
+- 1Sa_1:25matando el becerro, trajeron el n a ElíH5288
+- 1Sa_1:27por este n oraba, y Jehová me dio lo queH5288
+- 1Sa_2:11y el n ministraba a Jehová delante delH5288
+- 1Sa_4:21llamó al n Icabod...¡Traspasada es laH5288
+- 1Sa_15:3mata a hombres...n, y aun los de pechoH3243
+- 1Sa_22:19hirió a...n hasta los de pecho, bueyesH3243
+- 2Sa_4:4huyendo...se le cayó el n y quedó cojo
+- 2Sa_12:15Jehová hirió al n que la mujer de UríasH3206
+- 2Sa_12:16entonces David rogó a Dios por el nH5588
+- 2Sa_12:18al séptimo día murió el n; y temían losH3206
+- 2Sa_12:18hacerle saber que el n había muertoH3206
+- 2Sa_12:18cuando el n aún vivía, le hablábamosH3206
+- 2Sa_12:18más...si le decimos que el n ha muerto?[[H3206]]
+- 2Sa_12:19que el n había muerto...¿Ha muerto el n?[[H3206]]
+- 2Sa_12:21¿qué...Por el n, viviendo aún, ayunabasH3206
+- 2Sa_12:22viviendo aún el n, yo ayunaba y llorabaH3206
+- 2Sa_12:22tendrá compasión de mi, y vivirá el n?[[H3206]]
+- 1Re_3:25partid por medio al n vivo, y dad laH3206
+- 1Re_3:26dad a ésta el n vivo, y no lo matéis; ellaH1121
+- 1Re_14:3te declare lo que ha de ser de este nH5288
+- 1Re_14:12y al poner tu pie en la...morirá el nH3206
+- 1Re_14:17entrando ella por el umbral...n murióH5288
+- 1Re_17:21y se tendió sobre el n tres veces, yH3206
+- 1Re_17:21que hagas volver el alma de este n a élH3206
+- 1Re_17:22y el alma del n volvió a él, y revivióH3206
+- 1Re_17:23tomando luego Ellas al n, lo trajo delH3206
+- 2Re_4:18el n creció...Pero aconteció un díaH3206
+- 2Re_4:29pondrás mi báculo sobre el rostro del nH5288
+- 2Re_4:30dijo la madre del n: Vive Jehová, y viveH5288
+- 2Re_4:31puesto el báculo sobre el rostro del nH5288
+- 2Re_4:31lo declaró, diciendo: El n no despiertaH5288
+- 2Re_4:32venido Elíseo a la...el n estaba muertoH5288
+- 2Re_4:34subió y se tendió sobre el n, poniendoH3206
+- 2Re_4:34tendió...el cuerpo del n entró en calorH3206
+- 2Re_4:35y el n estornudó siete veces, y abrióH5288
+- 2Re_5:14y su carne se volvió como la...de un nH5288
+- 2Re_8:12matarás a espada, y estrellarás a sus nH2030
+- 2Cr_20:13todo Judá estaba en pie...con sus nH1121
+- 2Cr_31:18inscritos con todos sus n, sus mujeresH2945
+- Esd_8:21camino derecho para...para nuestros nH2945
+- Esd_10:1se juntó a él...mujeres y n; y llorabaH3206
+- Neh_12:43se alegraron...las mujeres y los nH3206
+- Est_3:13con la orden de destruir...n y mujeresH2945
+- Est_8:11aun sus n y mujeres, y apoderarse de susH2945
+- Job_33:25su carne será más tierna que la del nH5290
+- Job_41:5¿jugarás con él...o lo atarás para tus n?[[H5291]]
+- Sal_8:2de la boca de los n y de los que mamanH3243
+- Sal_17:8guárdame como a la n de tus oJos..alasH380, [[H1323]]
+- Sal_131:2como un n...un n destetado está mi alma
+- Sal_137:9el que...estrellare tus n contra la peñaH5768
+- Sal_148:12los jóvenes y...los ancianos y los nH5288
+- Pro_7:2guarda...mi ley como las n de tus ojosH380
+- Pro_22:6instruye al n en su camino, y aun cuandoH5288
+- Isa_7:16antes que el n sepa desechar lo maloH5288
+- Isa_8:4antes que el n sepa decir: Padre mío, yH5288
+- Isa_9:6porque un n nos es nacido, hijo nos esH3206
+- Isa_10:19en número que un n los pueda contarH5288
+- Isa_11:6el león y la bestia...un n 105 pastorearáH5288
+- Isa_11:8el n de pecho jugará sobre la cueva de
+- Isa_13:16sus n serán estrellados delante de ellosH5768
+- Isa_13:18con arco tirarán a los n, y no tendránH1121
+- Isa_65:20no habrá allí n que muera de pocos díasH5764
+- Isa_65:20porque el n morirá de cien años, y elH5288
+- Jer_1:6he aquí, no sé hablar, porque soy nH5288
+- Jer_1:7dijo Jehová: No digas: Soy un n; porqueH5288
+- Jer_6:11la derramaré sobre los n en la calle, yH5768
+- Jer_9:21para exterminar a los n de las callesH5768
+- Jer_31:20Efraín...¿no es n en quien me deleito?[[H3206]]
+- Jer_40:7le había encomendado...mujeres y los nH2945
+- Jer_41:16mató a...hombres de guerra, mujeres, nH2945
+- Jer_43:6a hombres y mujeres y n, y a las hijasH2945
+- Jer_44:7destruidos...el muchacho y el n de pechoH5768
+- Lam_2:11desfallecía el n y el que mamaba, enH5768
+- Lam_2:18no descanses, ni cesen las n de tus ojosH1323
+- Lam_2:21n y viejos yacían por tierra en...callesH970
+- Lam_4:4la lengua del n de...se pegó a su paladarH5768
+- Eze_9:6matad a viejos, jóvenes y...n y mujeresH2945
+- Ose_13:16sus n serán estrellados, y...mujeresH2030
+- Joe_2:16congregad a los n y a los que mamanH5768
+- Joe_3:3los n por una ramera, y vendieron las nH3206
+- Miq_2:9sus n quitasteis mi perpetua alabanzaH5768
+- Zac_2:8el que os toca, toca a la n de su ojoH892
+- Mat_2:8id allá y averiguad con...acerca del nG3813
+- Mat_2:9hasta...se detuvo sobre donde estaba el nG3813
+- Mat_2:11al entrar en...vieron al n con su madreG3813
+- Mat_2:13toma al n y a su madre, y huye a EgiptoG3813
+- Mat_2:13que Herodes buscará al n para matarloG3813
+- Mat_2:14tomó...al n y a su madre...fue a EgiptoG3813
+- Mat_2:16matar a todos los n menores de dos añosG3816
+- Mat_2:20toma al n y a su madre, y vete a tierraG3813
+- Mat_2:20han muerto...procuraban la muerte del nG3813
+- Mat_2:21tomó al n y a su madre, y vino a tierraG3813
+- Mat_9:24porque la n no está muerta, sino duermeG2877
+- Mat_9:25tomó de la mano a la n, y, se levantóG2877
+- Mat_11:25los entendidos, y las revelaste a los nG3516
+- Mat_14:21como cinco mil...sin contar las...y los nG3813
+- Mat_18:2llamando Jesús a un n, lo puso en medioG3813
+- Mat_18:3si no os volvéis...como n, no entraréisG3813
+- Mat_18:4cualquiera que se humille como este nG3813
+- Mat_18:5cualquiera que reciba...a un n como esteG3813
+- Mat_19:13entonces le fueron presentados unos nG3813
+- Mat_19:14Jesús dijo: Dejad a los n venir a míG3813
+- Mat_21:16de la boca de los n y de los que mamanG3516
+- Mar_5:39dijo...la n no está muerta, sino duermeG3813
+- Mar_5:40tomó al padre y a la madre de la n, y aG3813
+- Mar_5:40tomó al padre...entró donde estaba la nG3813
+- Mar_5:41tomando la mano de la n...dijo: TalitaG3813
+- Mar_5:41traducido...n, a ti te digo, levántateG2877
+- Mar_5:42la n se levantó y andaba, pues tenía 12G2877
+- Mar_9:21¿cuánto tiempo hace...Y él dijo: Desde nG3812
+- Mar_9:36tomó a un n, y lo puso en medio de ellosG3813
+- Mar_9:37el que recibe en mi nombre a un n comoG3813
+- Mar_10:13y le presentaban n para que los tocaseG3813
+- Mar_10:14dejad a los n venir a mí, y no se loG3813
+- Mar_10:15que no reciba el reino de Dios como un nG3813
+- Luc_1:59vinieron para circuncidar al n; y leG3813
+- Luc_1:66¿quién, pues, será este n? Y la mano delG3813
+- Luc_1:76tú, n, profeta del Altísimo serás llamadoG3813
+- Luc_1:80el n crecía, y se fortalecía en espírituG3813
+- Luc_2:12esto...Hallaréis al n envuelto en pañalesG1025
+- Luc_2:16hallaron...al n acostado en el pesebreG1025
+- Luc_2:17lo que se les había dicho acerca del nG3813
+- Luc_2:21cumplidos...días para circuncidar al nG3813
+- Luc_2:27los padres del n Jesús lo trajeron alG3813
+- Luc_2:38hablaba del n a todos los que esperaban
+- Luc_2:40n crecia y se fortalecía, y se llenabaG3813
+- Luc_2:43quedó el n Jesús en Jerusalén, sin que loG3816
+- Luc_8:51a Pedro...y al padre y a la madre de la nG3816
+- Luc_9:47Jesús...tomó a un n y lo puso junto a síG3813
+- Luc_9:48dijo: Cualquiera que reciba a este n enG3813
+- Luc_10:21y las has revelado a los n...Sí, PadreG3516
+- Luc_11:7y mis n están conmigo en cama; no puedoG3813
+- Luc_18:15traían a él los n para que los tocaseG1025
+- Luc_18:16dejad a los n venir a mí, y no se loG3813
+- Luc_18:17el que no recibe el reino de...como un nG3813
+- Jua_16:21pero después que ha dado a luz un nG3813
+- Hec_7:19que expusiesen a la muerte a sus nG1025
+- Rom_2:20instructor de...indoctos, maestro de nG3516
+- 1Co_3:1como a carnales, como a n en CristoG3516
+- 1Co_13:11cuando yo era n, hablaba como n, pensabaG3516
+- 1Co_13:11como n, jugaba como n; mas cuando yaG3516
+- 1Co_13:11ya fui hombre, dejé lo que era de nG3516
+- 1Co_14:20no seáis n en...sino sed n en la maliciaG3515
+- Gál_4:1que el heredero es n, en nada difiereG3516
+- Gál_4:3cuando éramos n, estábamos en esclavitudG3516
+- Efe_4:14para que ya no seamos n fluctuantesG3516
+- Heb_5:13inexperto en la palabra...porque es nG3516
+- Heb_11:23te vieron n hermoso, y no temieron elG3813
+- 1Pe_2:2desead, como n...la leche espiritualG1025

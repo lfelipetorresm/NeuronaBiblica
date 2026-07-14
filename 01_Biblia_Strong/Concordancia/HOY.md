@@ -1,0 +1,349 @@
+---
+tipo: concordancia
+palabra: HOY
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HOY
+
+- Gén_4:14he aquí me echas h de la tierra, y deH3117
+- Gén_19:37Moab...es padre de los moabitas hasta hH3117
+- Gén_19:38cual es padre de los amonitas hasta hH3117
+- Gén_21:26no sé quién...ni yo lo he oído hasta hH3117
+- Gén_22:14tanto se dice h: En el monte de JehováH3117
+- Gén_24:12te ruego, el tener h buen encuentroH3117
+- Gén_24:42llegué, pues, h a la fuente, y dijeH3117
+- Gén_30:32pasaré h por todo tu rebaño, poniendoH3117
+- Gén_31:43puedo yo hacer h a estas mis hijas, oH3117
+- Gén_31:48este majano es testigo h entre nosotrosH3117
+- Gén_32:32hasta h día, del tendón que se contrajo
+- Gén_35:20es la señal de la sepultura...hasta hH3117
+- Gén_40:7¿por qué parecen h mal...semblantes?[[H3117]]
+- Gén_41:9diciendo: Me acuerdo h de mis faltasH3117
+- Gén_42:13, Gén_42:32el menor está h con nuestro padreH3117
+- Gén_47:23he aquí os he comprado h, a vosotros yH3117
+- Gén_47:26puso por ley hasta h sobre la tierraH3117
+- Gén_50:20lo encaminó...para hacer lo que vemos hH3117
+- Éxo_2:18¿por qué habéis venido h tan pronto?[[H3117]]
+- Éxo_5:14no habéis cumplido...tarea...ni ayer ni hH3117
+- Éxo_10:6desde...fueron sobre la tierra hasta hH3117
+- Éxo_13:4vosotros salís h en el mes de AbibH3117
+- Éxo_14:13y ved la salvación que Jehová hará hH3117
+- Éxo_14:13porque los egipcios que h habéis vistoH3117
+- Éxo_16:23lo que habéis de cocer, cocedlo h
+- Éxo_16:25comedlo h, porque h es día de reposo
+- Éxo_16:25h no hallaréis en el campo
+- Éxo_19:10al pueblo, y santifícalos h y mañanaH3117
+- Éxo_32:29H os habéis...que él dé bendición h sobre
+- Éxo_34:11guarda lo que yo te mando h; he aquíH3117
+- Lev_8:34de la manera que h se ha hecho, mandóH3117
+- Lev_9:4porque Jehová se aparecerá h a vosotrosH3117
+- Lev_10:19he aquí h han ofrecido su expiación yH3117
+- Lev_10:19si hubiera yo comido h del sacrificioH3117
+- Deu_1:10he aquí h...las estrellas del cielo
+- Deu_1:39hijos que no saben h lo bueno ni lo malo
+- Deu_2:18pasarás h el territorio de Moab, a ArH3117
+- Deu_2:22éstos, y habitaron en su lugar hasta hH3117
+- Deu_2:25H comenzaré a poner tu temor y tu espanto
+- Deu_2:30para entregarlo en tu mano, como hasta hH3117
+- Deu_3:14y la llamó...Basán-havot-jair, hasta hH3117
+- Deu_4:4que seguisteis a Jehová...estáis vivos hH3117
+- Deu_4:8ley que yo pongo h delante de vosotros?[[H3117]]
+- Deu_4:26pongo h por testigos al cielo y a laH3117
+- Deu_4:38y darte su tierra por heredad, como hH3117
+- Deu_4:39aprende...h, y reflexiona en tu corazónH3117
+- Deu_4:40estatutos y...los cuales yo te mando hH3117
+- Deu_5:1decretos que yo pronuncio h en vuestrosH3117
+- Deu_5:3con nosotros...que estamos aquí h vivosH3117
+- Deu_5:24h hemos visto...Jehová habla al hombreH3117
+- Deu_6:6palabras que yo te mando h, estarán sobreH3117
+- Deu_6:24que nos conserve la vida, como hasta hH3117
+- Deu_7:11guarda decretos que yo te mando h queH3117
+- Deu_8:1mandamiento que yo os ordeno h, para queH3117
+- Deu_8:11cumplir...estatutos que yo te ordeno hH3117
+- Deu_8:19lo afirmo h...que de cierto pereceréisH3117
+- Deu_9:1tú vas h a pasar el Jordán, para entrarH3117
+- Deu_9:3entiende...h, que es Jehová...el que pasaH3117
+- Deu_10:8y para bendecir en su nombre, hasta hH3117
+- Deu_10:13sus estatutos, que yo te prescribo hH3117
+- Deu_11:2comprended h, porque no hablo con...hijosH3117
+- Deu_11:4Egipto...y Jehová los destruyó hasta hH3117
+- Deu_11:8, Deu_11:13, Deu_11:27mandamientos que yo os prescribo hH3117
+- Deu_11:26pongo h delante de vosotros la bendición y
+- Deu_11:28apartareis del camino...yo os ordeno hH3117
+- Deu_11:32y decretos que yo presento h delanteH3117
+- Deu_13:18mandamientos que yo te mando h, paraH3117
+- Deu_15:5estos mandamientos que yo te ordeno hH3117
+- Deu_15:15rescató; por tanto yo te mando esto hH3117
+- Deu_19:9estos mandamientos que yo te prescribo hH3117
+- Deu_20:3os juntáis h en batalla contra vuestrosH3117
+- Deu_26:3declaro h...que he entrado en la tierraH3117
+- Deu_26:16te manda h que cumplas estos estatutosH3117
+- Deu_26:17has declarado...h que Jehová es tu DiosH3117
+- Deu_26:18ha declarado h que tú eres pueblo suyoH3117
+- Deu_27:1los mandamientos que yo os prescribo hH3117
+- Deu_27:4levantarás estas piedras que...mando hH3117
+- Deu_27:9h has venido a ser pueblo de Jehová tuH3117
+- Deu_27:10y sus estatutos, que yo te ordeno hH3117
+- Deu_28:1sus mandamientos que yo te prescribo hH3117
+- Deu_28:13los mandamientos...que yo te ordeno hH3117
+- Deu_28:14todas las palabras que yo te mando hH3117
+- Deu_28:15sus estatutos que yo te intimo h, queH3117
+- Deu_29:4hasta h Jehová no os ha dado corazón paraH3117
+- Deu_29:10todos estáis h en presencia de JehováH3117
+- Deu_29:12en el pacto...Dios concierta h contigoH3117
+- Deu_29:13para confirmarte h como su pueblo, yH3117
+- Deu_29:15sino con los que están aquí presentes hH3426, [[H3117]]
+- Deu_29:15los que no están aquí h con nosotrosH3117
+- Deu_29:18corazón se aparte h de Jehová nuestroH3117
+- Deu_29:28los arrojó a otra tierra, como h se veH3117
+- Deu_30:2obedecieres...todo lo que yo te mando hH3117
+- Deu_30:8sus mandamientos que yo te ordeno hH3117
+- Deu_30:11este mandamiento que yo te ordeno hH3117
+- Deu_30:15yo he puesto delante de ti h la vidaH3117
+- Deu_30:16te mando h que ames a Jehová tu DiosH3117
+- Deu_30:18os protesto h que de cierto pereceréisH3117
+- Deu_30:19a los cielos y a...llamó por testigos hH3117
+- Deu_31:27aún viviendo yo con vosotros h, soisH3117
+- Deu_32:46las palabras que yo os testifico hH3117
+- Deu_34:6y ninguno conoce...su sepultura hasta hH3117
+- Jos_4:9doce piedras...han estado allí hasta hH3117
+- Jos_5:9h he quitado de...el oprobio de EgiptoH3117
+- Jos_5:9el nombre...fue llamado Gilgal, hasta hH3117
+- Jos_6:25habitó...entre los israelitas hasta hH3117
+- Jos_7:26montón de piedras que permanece hasta hH3117
+- Jos_7:26lugar se llama el Valle de Acor, hasta hH3117
+- Jos_8:28escombros, asolada para siempre hasta hH3117
+- Jos_8:29montón de piedras que permanece hasta hH3117
+- Jos_9:27leñadores y aguadores...que son hasta hH3117
+- Jos_10:27piedras...las cuales permanecen hasta hH6106
+- Jos_13:13habitaron entre los israelitas hasta hH3117
+- Jos_14:10ahora, he aquí, h soy de edad de 85 añosH3117
+- Jos_14:14Hebrón...ser heredad de Caleb...hasta hH3117
+- Jos_15:63ha quedado el jebuseo en la...hasta hH3117
+- Jos_16:10quedó el cananeo en medio de...hasta hH3117
+- Jos_22:3no habéis dejado a...hasta el día de hH3117
+- Jos_22:16para apartaros h de seguir a JehováH3117
+- Jos_22:18os apartéis h de seguir a Jehová?[[H3117]]
+- Jos_22:18vosotros os rebeláis h contra JehováH3117
+- Jos_22:22si fue por rebelión...no nos salves hH3117
+- Jos_22:29que nos apartemos h de seguir a JehováH3117
+- Jos_22:31h hemos entendido que Jehová está entreH3117
+- Jos_23:8seguiréis, como habéis hecho hasta hH3117
+- Jos_23:9pues...hasta h nadie ha podido resistirH3117
+- Jos_23:14estoy para entrar h por el camino deH3117
+- Jos_24:15escogeos h a quien sirváis; si a losH3117
+- Jue_1:21el jebuseo habitó...Jerusalén hasta hH3117
+- Jue_1:26llamó Luz; y este es su nombre hasta hH3117
+- Jue_6:24el cual permanece hasta h en Ofra de losH3117
+- Jue_9:18os habéis levantado h contra la casa deH3117
+- Jue_9:19si con verdad y...habéis procedido h conH3117
+- Jue_10:4se llaman las ciudades de Jair hasta hH3117
+- Jue_11:27Jehová...juzgue h entre los...de IsraelH3117
+- Jue_12:3¿por qué, pues, habéis subido h contraH3117
+- Jue_15:19En-hacore, el cual está en Lehi hasta hH3117
+- Jue_18:12llamaron...campamento de Dan, hasta hH3117
+- Jue_19:30desde que...subieron...de Egipto hasta hH3117
+- Jue_21:3¿por qué...falte h de Israel una tribu?[[H3117]]
+- Jue_21:6y dijeron: Cortada es h de Israel unaH3117
+- Rut_2:19dijo su suegra: ¿Dónde has espigado h?[[H3117]]
+- Rut_2:19varón con quien h he trabajado es BoozH3117
+- Rut_3:18no descansará...que concluya el asunto hH3117
+- Rut_4:9sois testigos h, de que he adquirido deH3117
+- Rut_4:10tomo...a Rut...vosotros sois testigos hH3117
+- Rut_4:14que hizo que no te faltase h parienteH3117
+- 1Sa_4:3dijeron: ¿Por qué nos ha herido hH3117
+- 1Sa_4:16a Elí: Yo...he escapado h del combateH3117
+- 1Sa_5:5no pisan el umbral de Dagón en...hasta hH3117
+- 1Sa_6:18está en el campo de Josué de...hasta hH3117
+- 1Sa_8:8el día que los saqué de Egipto hasta hH3117
+- 1Sa_9:9al que h se llama profeta, entonces se leH3117
+- 1Sa_9:12h ha venido a...tiene h un sacrificio enH3117
+- 1Sa_9:19alto, y come h conmigo, y por la mañanaH3117
+- 1Sa_10:2h, después que te hayas apartado de míH3117
+- 1Sa_10:19habéis desechado h a vuestro Dios, queH3117
+- 1Sa_11:13no morirá h ninguno, porque h JehováH3117
+- 1Sa_14:28maldito...el hombre que tome h alimentoH3117
+- 1Sa_14:30el pueblo hubiera comido h del botínH3117
+- 1Sa_14:38ved en qué ha consistido este pecado hH3117
+- 1Sa_14:45Jonatán...pues que ha actuado h con DiosH3117
+- 1Sa_15:28ha rasgado h de ti el reino de IsraelH3117
+- 1Sa_17:10h yo he desafiado al campamento deH3117
+- 1Sa_17:46Jehová te entregará h en mi mano, yH3117
+- 1Sa_17:46daré h los cuerpos de los filisteos aH3117
+- 1Sa_18:21dijo, pues, Saúl...Tú serás mi yerno hH3117
+- 1Sa_20:27no ha venido...el hijo de Isaí h ni ayerH3117
+- 1Sa_21:5¿cuánto más no serán santos h...vasos?[[H3117]]
+- 1Sa_22:8para que me aceche, tal como lo hace h?[[H3117]]
+- 1Sa_22:13y me acechase, como lo hace h día?[[H3117]]
+- 1Sa_22:15¿he comenzado yo desde h a consultarH3117
+- 1Sa_24:10han visto h tus ojos cómo Jehová teH3117
+- 1Sa_24:10ha puesto h en mis manos en la cuevaH3117
+- 1Sa_24:18has mostrado h que has hecho conmigoH3117
+- 1Sa_25:10muchos siervos hay h que huyen de susH3117
+- 1Sa_25:32que te envió para que h me encontrasesH3117
+- 1Sa_25:33bendita tú, que me has estorbado h deH3117
+- 1Sa_26:8h ha entregado Dios a tu enemigo en tuH3117
+- 1Sa_26:19han arrojado h para que no tenga parteH3117
+- 1Sa_26:21mi vida ha sido estimada preciosa h aH3117
+- 1Sa_26:23te había entregado h en mi mano, masH3117
+- 1Sa_26:24tu vida ha sido estimada preciosa h aH3117
+- 1Sa_27:6Siclag vino a ser de...de Judá hasta hH3117
+- 1Sa_27:10decía Aquis: ¿Dónde habéis merodeadoH3117
+- 1Sa_28:18tú...por eso Jehová te ha hecho esto hH3117
+- 1Sa_29:3desde el día que se pasó a mí hasta h?[[H3117]]
+- 1Sa_29:6desde el día que viniste a mí hasta hH3117
+- 1Sa_29:8desde el día que estoy contigo hasta hH3117
+- 1Sa_30:13soy...y me dejó mi amo h hace tres díasH3117
+- 1Sa_30:25fue esto por ley y...en Israel hasta hH3117
+- 2Sa_3:8he hecho h misericordia con la casaH3117
+- 2Sa_3:8¿y tú me haces h cargo del pecado de estaH3117
+- 2Sa_3:38que un príncipe...ha caído h en Israel?[[H3117]]
+- 2Sa_3:39y yo soy débil h, aunque ungido reyH3117
+- 2Sa_4:3los beerotitas...moran...forasteros hasta hH3117
+- 2Sa_4:8Jehová ha vengado h a mi señor el rey, deH3117
+- 2Sa_6:8llamado aquel lugar Pérez-uza, hasta hH3117
+- 2Sa_6:20¡cuán honrado ha quedado h el rey deH3117
+- 2Sa_6:20descubriéndose h delante de las criadasH3117
+- 2Sa_7:6el día en que saqué a...Israel...hasta hH3117
+- 2Sa_11:12David dijo a Urías: Quédate aquí aún hH3117
+- 2Sa_14:22dijo: H ha entendido tu siervo que heH3117
+- 2Sa_15:20¿y he de hacer h que te muevas para irH3117
+- 2Sa_16:3h me devolverá la...el reino de mi padreH3117
+- 2Sa_16:12me dará...bien por sus maldiciones de hH3117
+- 2Sa_18:18ha llamado Columna de Absalón, hasta hH3117
+- 2Sa_18:20h no llevarás las...no darás h la nuevaH3117
+- 2Sa_18:31h Jehová ha defendido tu causa de laH3117
+- 2Sa_19:5h has avergonzado el rostro de todos tusH3117
+- 2Sa_19:5tus siervos, que h han librado tu vidaH3117
+- 2Sa_19:6h has declarado que nada te importan tusH3117
+- 2Sa_19:6h me has hecho ver....si Absalón vivieraH3117
+- 2Sa_19:20he venido h...recibir a mi señor el reyH3117
+- 2Sa_19:22¿qué...para que h me seáis adversarios?[[H3117]]
+- 2Sa_19:22¿ha de morir h alguno en Israel? ¿PuesH3117
+- 2Sa_19:22no sé yo que h soy rey sobre Israel?[[H3117]]
+- 1Re_1:25h ha descendido, y ha matado bueyesH3117
+- 1Re_1:30que como yo te he jurado...así lo haré hH3117
+- 1Re_1:48ha dado h quien se siente en mi tronoH3117
+- 1Re_1:51júreme h el rey Salomón que no mataráH3117
+- 1Re_2:24vive Jehová quien me...Adonías morirá hH3117
+- 1Re_2:26no te mataré h, por cuanto has llevadoH3117
+- 1Re_5:7bendito sea h Jehová, que dio hijo sabioH3117
+- 1Re_8:8sacaron las varas...así quedaron hasta hH3117
+- 1Re_8:28oyendo...la oración que tu siervo hace hH3117
+- 1Re_8:61sus mandamientos, como en el día de hH3117
+- 1Re_9:13puso...Cabul, nombre que tienen hasta hH3117
+- 1Re_9:21hizo...que sirviesen con tributo hasta hH3117
+- 1Re_10:12nunca...sándalo, ni se ha visto hasta hH3117
+- 1Re_12:7si tú fueres h siervo de este puebloH3117
+- 1Re_12:19se apartó Israel de...de David hasta hH3117
+- 1Re_18:15vive Jehová de...que h me mostraré a élH3117
+- 1Re_18:36sea h manifiesto que tú eres Dios enH3117
+- 1Re_20:13yo te la entregaré h en tu mano, paraH3117
+- 1Re_22:5que consultes h la palabra de JehováH3117
+- 2Re_2:3, 2Re_2:5que Jehová te quitará h a tu señorH3117
+- 2Re_2:22sanas las aguas hasta h, conforme a laH3117
+- 2Re_4:23él dijo: ¿Para qué vas a verle h? No esH3117
+- 2Re_6:28me dijo: Da acá tu hijo, y comámoslo hH3117
+- 2Re_6:31la cabeza de Eliseo...queda sobre él hH3117
+- 2Re_7:9h es día de buena nueva, y...callamosH3117
+- 2Re_8:22Edom se libertó del dominio de...hasta hH3117
+- 2Re_10:27lo convirtieron en letrinas hasta hH3117
+- 2Re_13:23Jehová...no quiso destruirlos...hasta hH5704
+- 2Re_14:7tomó a Sela...la llamó Jocteel, hasta hH3117
+- 2Re_16:6y los de Edom...habitaron allí hasta hH3117
+- 2Re_17:23Israel fue llevado cautivo...hasta hH3117
+- 2Re_17:34hasta h hacen como antes: ni temen aH3117
+- 2Re_17:41como hicieron sus padres, así...hasta hH3117
+- 2Re_20:17que tus padres han atesorado hasta hH3117
+- 2Re_21:15el día que salieron de Egipto hasta hH3117
+- 1Cr_4:41los destruyeron hasta h, y habitaronH3117
+- 1Cr_4:43destruyeron...y habitaron allí hasta hH3117
+- 1Cr_5:26los llevó a Halah, a Habor, a...hasta hH3117
+- 1Cr_13:11llamó aquel lugar Pérez-uza, hasta hH3117
+- 1Cr_17:5el día que saqué a los...Israel hasta hH3117
+- 1Cr_29:5quién quiere hacer h ofrenda voluntaria
+- 2Cr_5:9barras del arca...allí están hasta hH3117
+- 2Cr_8:8hijos...hizo Salomón tributarios hasta hH3117
+- 2Cr_10:19se apartó Israel de...de David hasta hH3117
+- 2Cr_18:4te ruego que consultes h la palabra deH3117
+- 2Cr_20:26llamaron...el valle de Beraca, hasta hH3117
+- 2Cr_21:10Edom se libertó del...de Judá hasta hH3117
+- 2Cr_35:21no vengo contra ti h, sino contra laH3117
+- 2Cr_35:25recitan esas lamentaciones...hasta hH3117
+- Esd_9:7entregados...a vergüenza...como h díaH3117
+- Neh_5:11que les devolváis h sus tierras, susH3117
+- Neh_9:36h somos siervos; henos aquí siervos enH3117
+- Est_5:4vengan h el rey y Amán al banquete queH3117
+- Est_9:13Susa, que hagan conforme a la ley de hH3117
+- Job_23:2dijo: H también hablaré con amarguraH3117
+- Sal_2:7mi hijo eres tú; yo te engendré hH3117
+- Sal_95:7-8si oyeres h su voz, no endurezcáisH3117
+- Sal_119:91subsisten todas las cosas hasta hH3117
+- Pro_7:14sacrificios de...h he pagado mis votosH3117
+- Pro_22:19te las he hecho saber h a ti tambiénH3117
+- Jer_7:25padres salieron de...Egipto hasta hH3117
+- Jer_11:7y sin cesar hasta el día de h
+- Jer_25:18para ponerlos en ruinas...como hasta hH3117
+- Jer_32:20has hecho nombre, como se ve...día deH3117
+- Jer_32:31desde el día que la edificaron hasta hH3117
+- Jer_34:15habíais h convertido, y hecho lo rectoH3117
+- Jer_35:14no lo han bebido hasta h, por obedecerH3117
+- Jer_36:2el día que comencé a hablarte...hasta hH3117
+- Jer_40:4yo te he soltado h de las cadenas queH3117
+- Jer_42:19sabed ciertamente que os lo aviso h
+- Jer_42:21y os lo he declarado h, y no habéis
+- Jer_44:2ellas están el día de h asoladas; no hayH3117
+- Jer_44:6puestas en soledad y en...como están hH3117
+- Jer_44:10no se han humillado hasta...h, ni hanH3117
+- Jer_44:22hasta quedar sin morador, como está hH3117
+- Jer_44:23sobre vosotros este mal; como hasta hH3117
+- Eze_20:29fue llamado...Bama hasta el día de hH3117
+- Eze_20:31contaminado con todos...ídolos hastaH3117
+- Dan_9:7el día de h lleva todo hombre de JudáH3117
+- Dan_9:15y te hiciste renombre cual lo tienes hH3117
+- Zac_9:12h...anuncio que os restauraré el dobleH3117
+- Mat_6:11el pan nuestro de cada día, dánoslo hG4594
+- Mat_6:30la hierba...que h es, y mañana se echaG4594
+- Mat_11:23habría permanecido hasta el día de hG4594
+- Mat_16:3y por la mañana: H habrá tempestad
+- Mat_21:28le dijo: Hijo, vé h a trabajar en miG4594
+- Mat_27:8se llama hasta...de h: Campo de sangreG4594
+- Mat_27:19h he padecido mucho...por causa de élG4594
+- Mat_28:15ha divulgado entre...hasta el día de hG4594
+- Mar_14:30h...antes que el gallo haya cantadoG4594
+- Luc_2:11os ha nacido h...un Salvador, que esG4594
+- Luc_4:21h se ha cumplido esta Escritura delanteG4594
+- Luc_5:26todos...decían: H hemos visto maravillasG4594
+- Luc_11:3el pan nuestro de cada día, dánoslo hG2596, [[G2250]]
+- Luc_12:28viste...la hierba que h está en el campoG4594
+- Luc_13:32hago curaciones h y mañana, y al tercerG4594
+- Luc_13:33es necesario que h y...siga mi caminoG4594
+- Luc_19:5h es necesario que pose yo en tu casaG4594
+- Luc_19:9h ha venido la salvación a esta casaG4594
+- Luc_22:34que el gallo no cantará h antes queG4594
+- Luc_23:43que h estarás conmigo en el paraísoG4594
+- Luc_24:21además...h es ya el tercer día que estoG4594
+- Hec_2:29su sepulcro está...hasta el día de hG2250
+- Hec_4:9puesto que h se nos interroga acerca delG4594
+- Hec_13:33mi hijo eres tú, yo te he engendrado hG4594
+- Hec_19:40que seamos acusados de...por esto de hG4594
+- Hec_20:26os protesto en el día de h, que estoyG2250
+- Hec_22:3celoso de Dios, como h los sois todosG4594
+- Hec_23:1yo...delante de Dios hasta el día de hG2250
+- Hec_24:21acerca de...soy juzgado h por vosotrosG4594
+- Hec_26:2que haya de defenderme h delante de tiG4594
+- Hec_26:22auxilio de...persevero hasta el día de hG2250
+- Hec_26:29sino también todos los que h me oyenG4594
+- Rom_11:8con que no oigan, hasta el día de hG2250
+- 2Co_3:14el día de h, cuando leen el antiguoG4594
+- 2Co_3:15el día de h, cuando se lee a Moisés, elG4594
+- Heb_1:5mi hijo eres tú, yo te he engendrado hG4594
+- Heb_3:7, Heb_3:15si oyereis h su voz, no endurezcáisG4594
+- Heb_3:13cada día, entre tanto que se dice: H; paraG4594
+- Heb_4:7otra vez determina un día: H, diciendoG4594
+- Heb_4:7dijo: Si oyereis h su voz, no endurezcáisG4594
+- Heb_5:5tu eres mi Hijo, yo te he engendrado hG4594
+- Heb_13:8Jesucristo es el mismo ayer, y h, y porG4594
+- Stg_4:13decís: H y mañana iremos a tal ciudadG4594

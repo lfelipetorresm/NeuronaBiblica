@@ -1,0 +1,135 @@
+---
+tipo: concordancia
+palabra: GOZO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GOZO
+
+- Deu_28:47no serviste a...Dios con g de corazónH2898
+- 2Sa_1:20que no salten de g las hijas de losH5937
+- 1Cr_29:22y comieron y bebieron...con gran gH8057
+- 2Cr_20:27les había dado g librándolos deH8055
+- 2Cr_23:18para ofrecer...con g y con cánticosH8057
+- 2Cr_30:21celebraron la fiesta...con grande gH8057
+- Esd_6:16hicieron la dedicación de...con gH2305
+- Neh_8:10el g de Jehová es vuestra fuerzaH2304
+- Neh_12:44era grande el g de Judá con respectoH8057
+- Est_8:16los judíos tuvieron luz...g y honraH8057
+- Est_8:17judíos tuvieron alegría y g, banqueteH8342
+- Est_9:22los hiciesen días de banquete y de gH8057
+- Job_8:19será el g de su camino; y del polvoH4885
+- Job_20:5breve, y el g del impío por un momentoH8057
+- Sal_16:11en tu presencia hay plenitud de gH8057
+- Sal_43:4al Dios de mi alegría y de mi g; y teH1524
+- Sal_45:15traídas con alegría y g; entrarán enH1524
+- Sal_48:2el g de toda la tierra, es el...de SiónH4885
+- Sal_51:8hazme oír g y alegría, y se recrearánH8342
+- Sal_51:12vuélveme el g de tu salvación, yH8342
+- Sal_81:1cantad con g a Dios, fortaleza nuestraH7321
+- Sal_92:4en las obras de tus manos me gH7442
+- Sal_105:43sacó a su pueblo con g, con júbilo aH8342
+- Sal_119:111testimonios...son el g de mi corazónH8342
+- Pro_15:8mas la oración de los rectos es su gH7522
+- Ecl_2:26hombre que le agrada, Dios le da...gH8057
+- Ecl_9:7come tu pan con g, y bebe tu vino conH8057
+- Ecl_11:8muchos años, y en todos ellos tenga gH8055
+- Cnt_3:11le coronó...día del g de su corazónH8057
+- Isa_12:3sacaréis con g aguas de las fuentesH8342
+- Isa_16:10quitado es el g y la alegría del campoH8057
+- Isa_22:13he aquí g y alegría, matando vacas yH8342
+- Isa_24:11g se oscureció, se desterró la alegríaH8057
+- Isa_35:10y g perpetuo será sobre sus cabezasH8342
+- Isa_35:10g y alegría, y huirán la tristeza yH8342
+- Isa_51:3hallará en ella alegría y g, alabanzaH8057
+- Isa_51:11g perpetuo...tendrán g y alegría, y elH8057
+- Isa_60:15haré que seas...g de todos los siglosH4885
+- Isa_61:3leo de g en lugar de luto, manto deH8342
+- Isa_61:7doble honra, y tendrán perpetuo gH8057
+- Isa_62:5y como el g del esposo con la esposaH4885
+- Isa_65:18a Jerusalén alegría, y a su pueblo gH4885
+- Isa_66:10llenaos con ella de g, todos los queH4885
+- Jer_7:34haré cesar...la voz de g y la voz deH8342
+- Jer_15:16tu palabra me fue por g y por alegríaH8057
+- Jer_16:9haré cesar...toda voz de g...de alegríaH8342
+- Jer_25:10desaparezca...la voz de g y la voz deH8342
+- Jer_31:12vendrán con gritos de g en lo alto deH7442
+- Jer_31:13cambiaré su lloro en g, y...consolaréH8342
+- Jer_33:9me será...por nombre de g, de alabanzaH8342
+- Jer_33:11ha de oírse aún voz de g y de alegríaH8342
+- Jer_49:25dejaron a la ciudad...ciudad de mi g![[H4885]]
+- Jer_51:48tierra...cantarán de g sobre BabiloniaH7442
+- Lam_2:15¿es esta la...el g de toda la tierra?[[H4885]]
+- Lam_5:15cesó el g de nuestro corazón; nuestraH4885
+- Eze_24:25el g de su gloria; el deleite de susH4885
+- Ose_2:11haré cesar todo su g, sus fiestasH4885
+- Ose_9:1hasta saltar de g como los pueblos, puesH1524
+- Joe_1:12se extinguió el g de los hijos de losH8342
+- Zac_8:19para la casa de Judá en g y alegríaH8342
+- Mat_2:10al ver...regocijaron con muy grande gG5479
+- Mat_13:20que oye la palabra...la recibe con gG5479
+- Mat_25:21, Mat_25:23bien...entra en el g de tu señorG5479
+- Mat_28:8saliendo del sepulcro con temor y...gG5479
+- Mar_4:16han oído la palabra...la reciben con gG5479
+- Luc_1:14y tendrás g...y muchos se regocijaránG5479
+- Luc_2:10porque he aquí os doy nuevas de gran gG5479
+- Luc_8:13habiendo oído, reciben la palabra con gG5479
+- Luc_8:40le recibió la multitud con g porque
+- Luc_10:17volvieron los setenta con g diciendoG5479
+- Luc_15:7habrá más g en el cielo por un pecadorG5479
+- Luc_15:10que hay g delante de los ángeles deG5479
+- Luc_24:41ellos, de g, no lo creian, y estabanG5479
+- Luc_24:52volvieron a Jerusalén con gran gG5479
+- Jua_3:29así pues, este mi g está cumplidoG5479
+- Jua_15:11mi g esté en vosotros...g sea cumplidoG5479
+- Jua_16:20vuestra tristeza se convertirá en gG5479
+- Jua_16:21por el g de que haya nacido un hombreG5479
+- Jua_16:22gozará...y nadie os quitará vuestro gG5479
+- Jua_16:24pedid...para que vuestro g sea cumplidoG5479
+- Jua_17:13que tengan mi g cumplido en sí mismosG5479
+- Hec_2:28me llenarás de g con tu presenciaG2167
+- Hec_8:8así que había gran g en aquella ciudadG5479
+- Hec_12:14reconoció la voz de Pedro, de g noG5479
+- Hec_13:52discípulos estaban llenos de g y delG5479
+- Hec_15:3causaban gran g a todos los hermanosG5479
+- Hec_20:24con tal que acabe mi carrera con gG5479
+- Hec_21:17los hermanos nos recibieron con gG780
+- Rom_14:17sino...paz y g en el Espíritu SantoG5479
+- Rom_15:13os llene de todo g y paz en el creerG5479
+- Rom_15:32para que con g llegue a vosotros porG5479
+- Rom_16:19así que me g de vosotrosG5463
+- 2Co_1:24sino que colaboramos para vuestro gG5479
+- 2Co_2:3todos que mi g es el de todos vosotrosG5479
+- 2Co_7:4sobreabunde de g en todas...tribulacionesG5479
+- 2Co_7:9ahora me g, no porque hayáis sido contristadosG5463
+- 2Co_7:13más nos gozamos por el g de Tito, queG5479
+- 2Co_7:16me g de que en todo tengo confianza enG5463
+- 2Co_8:2en grande prueba...la abundancia de su gG5479
+- 2Co_12:10por amor a Cristo me g en las debilidadesG2106
+- 2Co_13:11por lo demás, hermanos, tened g...pazG5463
+- Gál_5:22el fruto del Espíritu es amor, g, pazG5479
+- Flp_1:4rogando con g por todos vosotrosG5479
+- Flp_1:18Cristo es anunciado; y en esto me gG5463
+- Flp_1:25quedaré...para vuestro provecho y g deG5479
+- Flp_2:2completad mi g, sintiendo...mismo amorG5479
+- Flp_2:17me g y regocijo con todos vosotrosG5463
+- Flp_2:29recibidle, pues...con todo g, y tenedG5479
+- Flp_4:1así que, hermanos míos...g y corona míaG5479
+- Col_1:12con g dando gracias al Padre que nosG5479
+- Col_1:24me g en lo que padezco por vosotrosG5463
+- 1Ts_1:6recibiendo la palabra en...con g delG5479
+- 1Ts_2:19porque ¿cuál es nuestra esperanza, o gG5479
+- 1Ts_2:20vosotros sois nuestra gloria y gG5479
+- 1Ts_3:9todo el g con que nos gozamos a causaG5479
+- 2Ti_1:4deseando verte...para llenarme de gG5479
+- Flm_1:7tenemos...g y consolación en tu amorG5485
+- Heb_10:34despojo de...bienes sufristeis con gG5479
+- Heb_12:2por el g puesto delante de él sufrióG5479
+- Heb_12:11ninguna disciplina...ser causa de gG5479
+- Stg_1:2tened por sumo g cuando os halléis enG5479
+- Stg_4:9se convierta en...vuestro g en tristezaG5479
+- 1Pe_1:8alegráis con g inefable y gloriosoG5479
+- 1Jn_1:4escribimos, para que vuestro g seaG5479
+- 2Jn_1:12ir...para que nuestro g sea cumplidoG5479
+- 3Jn_1:4no tengo yo mayor g que este, el oírG5479

@@ -1,0 +1,408 @@
+---
+tipo: concordancia
+palabra: RECIBIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RECIBIR
+
+- Gén_4:11para recibir de tu mano la sangre deH3947
+- Gén_14:17salió el rey de Sodoma a recibirlo alH7125
+- Gén_18:2salió corriendo de...a recibirlos, y seH7125
+- Gén_19:1viéndolos Lot, se levantó a recibirlosH7125
+- Gén_19:21recibido también tu súplica sobre estoH5375
+- Gén_23:20posesión...recibida de los hijos de Het
+- Gén_29:13Labán, corrió a recibirlo, y lo abrazóH7125
+- Gén_32:6viene a recibirte, y 400 hombres con élH7125
+- Gén_33:10pues que con tanto favor me has recibidoH3947
+- Gén_37:35mas él no quiso recibir consuelo, y dijo
+- Gén_38:20para que éste recibiese la prenda de laH3947
+- Gén_43:23paz a vosotros...recibí vuestro dineroH935
+- Gén_46:29a recibir a Israel su padre en GosénH7125
+- Éxo_4:14él saldrá a recibirte, y al verte seH7125
+- Éxo_4:27vé a recibir a Moisés al desierto...Y élH7125
+- Éxo_18:7Moisés salió a recibir a su suegro, y seH7125
+- Éxo_19:17sacó del...al pueblo para recibir a DiosH7125
+- Éxo_22:15alquilada, reciba el dueño el alquilerH935
+- Éxo_23:8no recibirás presente...el presente ciegaH3947
+- Lev_7:33el que...recibirá la espaldilla derechaH3225
+- Núm_3:50y recibió de los primogénitos de losH3947
+- Núm_7:6Moisés recibió los carros y los bueyesH3947
+- Núm_18:28todos vuestros diezmos que recibáis deH3947
+- Núm_22:36salió a recibirlo a la ciudad de MoabH7125
+- Núm_23:20he aquí, he recibido orden de bendecirH3947
+- Núm_31:13salieron Moisés y...a recibirlos fueraH7123
+- Núm_31:51Moisés y el...recibieron el oro de ellosH3947
+- Núm_31:54recibieron, pues...el oro de los jefesH3947
+- Deu_9:9yo subí...recibir las tablas de piedraH3947
+- Deu_23:4no os salieron a recibir con pan y aguaH6923
+- Deu_27:25maldito el que recibiere soborno paraH3947
+- Deu_33:3en tus pasos, recibiendo dirección de tiH5375
+- Deu_33:11recibe con agrado la obra de sus manosH7521
+- Jos_13:8rubenitas...recibieron ya su heredadH3947
+- Jos_16:4recibieron...su heredad los hijos de José
+- Jos_18:7Gad...y Rubén...han recibido su heredadH3947
+- Jos_20:4le recibirán consigo dentro de la ciudadH622
+- Jos_21:20Coat, recibieron por suerte ciudades deH5892
+- Jue_4:18saliendo Jael a recibir a Sísara, leH7125
+- Jue_4:22Jael salió a recibirlo, y le dijo VenH7125
+- Jue_11:31cualquiera que saliere de...a recibirmeH7125
+- Jue_11:34volvió...su hija que salía a recibirleH7125
+- Jue_19:4el padre de la joven, salió a recibirleH7125
+- Jue_19:18voy...y no hay quien me reciba en casaH622
+- 1Sa_13:10y Saúl salió a recibirle...saludarleH622
+- 1Sa_16:4los ancianos...salieron a recibirle con
+- 1Sa_18:6para recibir al rey Saúl, con panderosH7125
+- 1Sa_25:35recibió David...lo que le había traídoH3947
+- 1Sa_25:39Jehová, que juzgó...mi afrenta recibida
+- 1Sa_30:21ellos salieron a recibir a David y alH7125
+- 2Sa_6:20y saliendo Mical a recibir a DavidH7125
+- 2Sa_16:1Siba...que salía a recibirle con un par deH7135
+- 2Sa_18:22si no recibirás premio por las nuevas?
+- 2Sa_18:31y dijo: Reciba nuevas mi señor el rey
+- 2Sa_19:15Judá vino a Gilgal para recibir al reyH7125
+- 2Sa_19:16descendió con...a recibir al rey DavidH7125
+- 2Sa_19:20he venido...a recibir a mi señor el reyH7125
+- 2Sa_19:24Mefi-boset...descendió a recibir al reyH7125
+- 2Sa_19:25vino él a Jerusalén a recibir al reyH7125
+- 2Sa_19:42¿hemos recibido de él algún regalo?
+- 1Re_2:8descendió a recibirme al Jordán, y yoH7125
+- 1Re_2:19rey se levantó a recibirla, y se inclinóH7125
+- 2Re_2:15vinieron a recibirle, y se postraronH7125
+- 2Re_4:26que vayas ahora corriendo a recibirlaH7125
+- 2Re_5:15te ruego que recibas algún presente deH3947
+- 2Re_5:21se bajó del cerro para recibirle, y dijoH7125
+- 2Re_5:26cuando el hombre volvió de...a recibirte?[[H7125]]
+- 2Re_8:8presente, y vé a recibir al varón de DiosH7125
+- 2Re_12:5recíbanlo los sacerdotes, cada uno deH3947
+- 1Cr_12:18David los recibió, y los puso entreH6901
+- 1Cr_19:5envió a recibirles, porque estaban muyH7125
+- 1Cr_29:14y de lo recibido de tu mano te damos
+- 2Cr_29:22los sacerdotes recibieron la sangreH6901
+- 2Cr_30:16esparcían la sangre que recibían deH6901
+- 2Cr_35:11sangre recibida de mano de los levitas
+- Esd_8:30recibieron el peso de la plata y del
+- Neh_10:37los levitas recibirían las décimas
+- Neh_10:38cuando...levitas recibiesen el diezmo
+- Neh_13:2cuanto no salieron a recibir a los hijosH6923
+- Job_2:10¿qué? ¿Recibiremos de Dios el bien, yH6901
+- Job_2:10bien, y el mal no lo recibiremos? EnH6901
+- Job_3:12¿por qué me recibieron las rodillas?
+- Job_7:3he recibido meses de calamidad, y noches
+- Job_27:13herencia que...violentos han de recibirH3947
+- Job_35:7darás a él? ¿O qué recibirá de tu mano?[[H3947]]
+- Sal_6:9ha oído...ha recibido Jehoyá mi oraciónH3947
+- Sal_24:5recibirá bendición de Jehová, y justiciaH5375
+- Sal_73:24me has...después me recibirás en gloriaH3947
+- Pro_1:3para recibir el consejo de prudenciaH3947
+- Pro_2:1hijo mío, si recibieres mis palabras, yH3947
+- Pro_4:10oye, hijo mío, y recibe mis razones, yH3947
+- Pro_8:10recibid mi enseñanza, y no plata; yH3947
+- Pro_10:8el sabio de...recibirá los mandamientosH3947
+- Pro_13:1hijo sabio recibe el consejo del padreH8085
+- Pro_13:18que guarda la corrección recibirá honra
+- Pro_19:20escucha...y recibe la corrección, paraH3947
+- Pro_22:3mas los simples pasan y reciben el daño
+- Isa_14:9que en tu venida saliesen a recibirteH7125
+- Isa_24:2al que da a logro, así al que lo recibe
+- Isa_33:15el que sacude sus manos para no recibir
+- Isa_40:2doble ha recibido de la mano de JehováH3947
+- Jer_2:30azotado...no han recibido correcciónH3947
+- Jer_5:3no les...no quisieron recibir correcciónH3947
+- Jer_9:20y vuestro oído reciba la palabra de suH3947
+- Jer_17:23oído...para no oír, ni recibir correcciónH3947
+- Jer_32:33no escucharon para recibir correcciónH3947
+- Eze_16:32lugar de su marido recibe a ajenosH3947
+- Eze_16:34tú das la paga, en lugar de recibirla
+- Eze_16:61recibas a tus hermanas, las mayores queH3947
+- Eze_18:17interés y usura no recibiere; guardareH3947
+- Eze_22:12precio recibieron en ti para derramarH3947
+- Eze_36:30nunca más recibáis oprobio de hambreH3947
+- Eze_47:8en el mar, recibirán sanidad las aguas
+- Eze_47:9y recibirán sanidad; y vivirá todo lo
+- Dan_2:6me mostrareis...recibiréis de mí donesH6902
+- Dan_7:18después recibirán el reino los santos delH6902
+- Dan_7:22llegó...y los santos recibieron el reinoH2631
+- Dan_12:13te levantarás para recibir tu heredad
+- Amó_5:11vejáis...recibís de él carga de trigoH3947
+- Amó_5:12que afligís al justo, y recibís cohechoH3947
+- Amó_5:22y si me ofreciereis...no los recibiré, niH7521
+- Sof_3:2ni recibió la corrección; no confió enH3947
+- Sof_3:7me temerá; recibirá corrección, y no seráH3947
+- Hag_1:6a jornal recibe su jornal en saco rotoH7936
+- Mat_1:20José hijo de...no temas recibir a MaríaG3880
+- Mat_1:24despertando José del...recibió a su mujerG3880
+- Mat_5:4los que lloran...ellos recibirán consolación
+- Mat_5:5porque ellos recibirán la tierra...heredad
+- Mat_7:8porque todo aquel que pide, recibe; y elG2983
+- Mat_10:8de gracia recibisteis, dad de graciaG2983
+- Mat_10:14y si alguno no os recibiere, ni oyereG1209
+- Mat_10:40el que a vosotros recibe, a mí me r; yG1209
+- Mat_10:40que me recibe a mí, r al que me envióG1209
+- Mat_10:41recibe...recompensa de profeta recibiráG2983
+- Mat_10:41y el que recibe a un justo por cuantoG2983
+- Mat_10:41es justo, recompensa de justo recibiráG2983
+- Mat_11:14si queréis recibirlo, él es aquel ElíasG1209
+- Mat_13:20oye la palabra, y...la recibe con gozoG2983
+- Mat_18:5reciba...a un niño como este...me recibeG1209
+- Mat_19:11no todos son capaces de recibir estoG5562
+- Mat_19:12sea capaz de recibir esto, que lo recibaG5562
+- Mat_19:29recibirá cien veces más, y heredará laG2983
+- Mat_20:7la viña, y recibiréis lo que sea justoG293
+- Mat_20:9los que...recibieron cada uno un denarioG2983
+- Mat_20:10pensaron que habían de recibir más; peroG2983
+- Mat_20:10ellos recibieron cada uno un denarioG2983
+- Mat_20:11y al recibirlo, murmuraban contra elG2983
+- Mat_20:34ojos, y en seguida recibieron la vistaG308
+- Mat_21:22que pidiereis...creyendo, lo recibiréisG2983
+- Mat_21:34envió...para que recibiesen sus frutosG2983
+- Mat_23:14por esto recibiréis mayor condenaciónG2983
+- Mat_25:1vírgenes...salieron a recibir al esposoG529
+- Mat_25:6clamor: ¡Aquí viene...salid a recibirle![[G529]]
+- Mat_25:16, Mat_25:20que había recibido cinco talentosG2983
+- Mat_25:17que había recibido dos, ganó...otros dosG2983
+- Mat_25:18el que había recibido uno fue y cavó enG2983
+- Mat_25:22que había recibido dos talentos, dijoG2983
+- Mat_25:24el que había recibido un talento, dijoG2983
+- Mat_25:27hubiera recibido lo que es mío con losG2865
+- Mar_4:16la palabra, al momento la reciben conG2983
+- Mar_4:20que oyen la palabra y la reciben, y danG3858
+- Mar_6:11si en algún lugar no os recibieren ni osG1209
+- Mar_9:37el que reciba...a un niño...me recibe a míG1209
+- Mar_9:37el que a mí me recibe, no me r a mí sinoG1209
+- Mar_10:15el que no reciba el reino de Dios comoG1209
+- Mar_10:30no reciba cien veces más ahora en esteG2983
+- Mar_11:24creed que lo recibiréis, y os vendráG2983
+- Mar_12:2para que recibiese de éstos del fruto deG2983
+- Mar_12:40devoran...recibirán mayor condenaciónG2983
+- Mar_16:19fue recibido arriba en el cielo, y seG353
+- Luc_6:34prestáis a...quienes esperáis recibirG618
+- Luc_6:34prestan a los...para recibir otro tantoG618
+- Luc_8:13los que habiendo oído, reciben la palabraG1209
+- Luc_8:40le recibió la multitud con gozo; porqueG588
+- Luc_9:5no os recibieren, salid de aquella ciudadG1209
+- Luc_9:11él les recibió, y les hablaba del reinoG1209
+- Luc_9:48que reciba a este niño...a mí me recibeG1209
+- Luc_9:48que me recibe a mí, r al que me envióG1209
+- Luc_9:51en que él había de ser recibido arribaG354
+- Luc_9:53no le recibieron, porque su aspecto eraG1209
+- Luc_10:8donde entréis, y os reciban, comed lo queG1209
+- Luc_10:10ciudad donde entréis, y no os recibanG1209
+- Luc_10:38una mujer...Marta le recibió en su casaG5264
+- Luc_11:10porque todo aquel que pide, recibe; yG2983
+- Luc_12:47no se preparó...recibirá muchos azotes
+- Luc_15:2éste a los pecadores recibe, y con ellosG4327
+- Luc_15:27padre...por haberle recibido bueno y sanoG618
+- Luc_16:4haré para que...me reciban en sus casasG1209
+- Luc_16:9que...os reciban en las moradas eternasG1209
+- Luc_16:25acuérdate que recibiste tus bienes enG618
+- Luc_18:17no recibe el reino de Dios como un niñoG1209
+- Luc_18:30que no haya de recibir mucho más en esteG618
+- Luc_18:41y él dijo: Señor, que reciba la vistaG308
+- Luc_18:42le dijo: Recíbela, tu fe te ha salvadoG308
+- Luc_19:6él descendió aprisa, y le recibió gozosoG5264
+- Luc_19:12se fue...para recibir un reino y volverG2983
+- Luc_19:15vuelto él, después de recibir el reinoG2983
+- Luc_19:23lo hubiera recibido con los intereses?
+- Luc_20:47devoran...recibirán mayor condenaciónG2983
+- Luc_23:41recibimos lo que merecieron nuestrosG618
+- Jua_1:11a lo suyo...los suyos no le recibieronG3880
+- Jua_1:12todos los que le recibieron, a los queG2983
+- Jua_3:11testificamos; y no recibís...testimonioG2983
+- Jua_3:27no puede el hombre recibir nada, si noG2983
+- Jua_3:32testifica; y nadie recibe su testimonioG2983
+- Jua_3:33que recibe su testimonio, éste atestiguaG2983
+- Jua_4:36y el que siega recibe salario, y recogeG2983
+- Jua_4:45cuando vino a Galilea, los...le recibieronG1209
+- Jua_4:51sus siervos salieron a recibirle, y leG528
+- Jua_5:34pero yo no recibo testimonio de hombreG2983
+- Jua_5:41gloria de los hombres no reciboG2983
+- Jua_5:43no me recibís; si otro...ése recibiréisG2983
+- Jua_5:44recibís gloria los unos de los otros, yG2983
+- Jua_6:21con gusto le recibieron en la barca, laG2983
+- Jua_7:23si recibe el hombre la circuncisión enG2983
+- Jua_7:39del Espíritu que habían de recibir losG2983
+- Jua_9:11vé al...fui, y me lavé, y recibí la vistaG308
+- Jua_9:15a preguntarle...había recibido la vistaG308
+- Jua_9:18no creían...que había recibido la vistaG308
+- Jua_9:18padres del que había recibido la vistaG308
+- Jua_10:18este mandamiento recibí de mi PadreG2983
+- Jua_12:13tomaron ramas...y salieron a recibirleG5222
+- Jua_12:18la gente a recibírle, porque había oídoG5221
+- Jua_12:48no recibe mis palabras, tiene quien leG2983
+- Jua_13:20que recibe al que yo enviare, me r a míG2983
+- Jua_13:20el que me recibe a mí, r al que me envioG2983
+- Jua_14:17al cual el mundo no puede recibir, porqueG2983
+- Jua_16:24pedid, y recibiréis, para que vuestroG2983
+- Jua_17:8y ellos las recibieron, y han conocidoG2983
+- Jua_19:27hora el discípulo la recibió en su casaG2983
+- Jua_20:22y les dijo: Recibid el Espíritu SantoG2983
+- Hec_1:2hasta el día en que fue recibido arribaG353
+- Hec_1:8pero recibiréis poder, cuando haya venidoG2983
+- Hec_1:9le recibió una nube que le ocultó de susG5274
+- Hec_1:22hasta el día en que...fue recibido arribaG353
+- Hec_2:33habiendo recibido del Padre la promesaG2983
+- Hec_2:38y recibiréis el don del Espíritu SantoG2983
+- Hec_2:41así...los que recibieron su palabra fueronG588
+- Hec_3:5atento, esperando recibir de ellos algoG2983
+- Hec_3:21es necesario que el cielo reciba hastaG1209
+- Hec_7:38que recibió palabras de vida que darnosG1209
+- Hec_7:45el cual, recibido...por nuestros padresG1237
+- Hec_7:53que recibisteis la ley por...de ángelesG2983
+- Hec_7:59decía: Señor Jesús, recibe mi espírituG1209
+- Hec_8:14que Samaria había recibido la palabraG1209
+- Hec_8:15oraron...que recibiesen el Espíritu SantoG2983
+- Hec_8:17las manos, y recibían el Espíritu SantoG2983
+- Hec_8:19a quien yo impusiere las manos reciba elG2983
+- Hec_9:17para que recibas la vista y seas lleno delG308
+- Hec_9:18los ojos...y recibió al instante la vistaG308
+- Hec_10:22ha recibido instrucciones de un santo
+- Hec_10:25salió Cornelio a recibirle, y...adoróG4876
+- Hec_10:43recibirán perdón de pecados...su nombreG2983
+- Hec_10:47que han recibido el Espíritu SantoG2983
+- Hec_11:1los gentiles habían recibido la palabraG1209
+- Hec_15:4recibidos por la iglesia y los apóstolesG588
+- Hec_16:21que no nos es lícito recibir ni hacerG3858
+- Hec_16:24recibido este mandato, los metió en elG2983
+- Hec_17:7a los cuales Jasón ha recibido; y todosG5264
+- Hec_17:11recibieron la palabra...toda solicitudG1209
+- Hec_17:15y habiendo recibido orden para Silas yG2983
+- Hec_18:27y escribieron a los...que le recibiesenG588
+- Hec_19:2¿recibisteis el Espíritu Santo cuandoG2983
+- Hec_20:24ministerio que recibí del Señor JesúsG2983
+- Hec_20:35más bienaventurado es dar que recibirG2983
+- Hec_21:17los hermanos nos recibieron con gozoG1209
+- Hec_22:5de quienes también recibí cartas paraG1209
+- Hec_22:13dijo: Hermano Saulo, recibe la vistaG308
+- Hec_22:18no recibirán tu testimonio acerca deG3858
+- Hec_24:3lo recibimos en todo tiempo y en todoG588
+- Hec_24:27recibió Félix...sucesor a Porcio Festo
+- Hec_26:10recibido poderes de los...sacerdotesG2983
+- Hec_26:18reciban, por la fe..perdón de pecadosG2983
+- Hec_27:21sólo para recibir este perjuicio y daño
+- Hec_28:2nos recibieron a...a causa de la lluviaG4355
+- Hec_28:7llamado Publio...nos recibió y hospedóG324
+- Hec_28:15salieron a recibirnos hasta el Foro deG529
+- Hec_28:21ni hemos recibido de Judea cartas acercaG1209
+- Hec_28:30y recibía a todos los que a él veníanG588
+- Rom_1:5recibimos la gracia y el apostoladoG2983
+- Rom_1:27recibiendo en sí mismos la retribuciónG618
+- Rom_4:11recibió la circuncisión como señal, comoG2983
+- Rom_5:11hemos recibido ahora la reconciliaciónG2983
+- Rom_5:17que reciben la abundancia de la graciaG2983
+- Rom_8:15no...recibido el espíritu de esclavitudG2983
+- Rom_8:15habéis recibido el espíritu de adopciónG2983
+- Rom_14:1recibid al débil en la fe, pero no paraG4355
+- Rom_14:3no juzgue...porque Dios le ha recibidoG4355
+- Rom_15:7recibíos los...también Cristo nos recibióG4355
+- Rom_16:2la recibáis en el Señor, como es dignoG4327
+- 1Co_2:12no hemos recibido el espíritu delG2983
+- 1Co_3:8cada uno recibirá su recompensa conformeG2983
+- 1Co_3:14si permaneciere la...recibirá recompensaG2983
+- 1Co_4:5y entonces cada uno recibirá su alabanza
+- 1Co_4:7qué tienes que no hayas recibido? Y siG2983
+- 1Co_4:7y si lo recibiste, ¿por qué te gloriasG2983
+- 1Co_4:7glorias como si no lo hubieras recibido?[[G2983]]
+- 1Co_9:10el que trilla, con esperanza de recibir
+- 1Co_9:25para recibir una corona corruptible, peroG2983
+- 1Co_11:23recibí...lo que también os he enseñadoG3880
+- 1Co_12:26si un miembro recibe honra, todos los
+- 1Co_14:5para que la iglesia reciba edificaciónG2983
+- 1Co_15:1el evangelio...el cual también recibisteisG3880
+- 1Co_15:3os he enseñado lo que asimismo recibíG3880
+- 2Co_4:1según la misericordia...hemos recibidoG1653
+- 2Co_5:10cada uno reciba según lo que haya hechoG2865
+- 2Co_6:1que no recibáis en vano la gracia de DiosG1209
+- 2Co_6:17no toquéis lo inmundo; y yo os recibiréG1523
+- 2Co_7:15cómo lo recibisteis con temor y temblorG1209
+- 2Co_8:17pues a la verdad recibió la exhortaciónG1209
+- 2Co_11:4recibís otro espíritu que el que...recibidoG2983
+- 2Co_11:8otras iglesias, recibiendo salario paraG2983
+- 2Co_11:16o de otra manera, recibidme como a locoG1209
+- 2Co_11:24cinco veces he recibido cuarenta azotesG2983
+- Gál_1:9diferente evangelio del...habéis recibidoG3880
+- Gál_1:12yo ni lo recibí ni lo aprendí de hombreG3880
+- Gál_3:2¿recibisteis el Espíritu por las obras deG2983
+- Gál_3:14fe recibiésemos la promesa del EspírituG2983
+- Gál_4:5de que recibiésemos la adopción de hijosG618
+- Gál_4:14me recibisteis como a un ángel de DiosG1209
+- Efe_4:16recibe su crecimiento...ir edificándose
+- Efe_6:8ése recibirá del Señor, sea siervo o seaG2865
+- Flp_2:29recibidle, pues, en el Señor, conG4327
+- Flp_4:9lo que...recibisteis y oísteis y visteisG3880
+- Flp_4:15en razón de dar y recibir, sino vosotrosG3028
+- Flp_4:18todo lo he recibido, y tengo abundanciaG1209
+- Flp_4:18habiendo recibido de Epafrodito lo queG1209
+- Col_2:6la manera que habéis recibido al SeñorG3880
+- Col_3:24que del Señor recibiréis la recompensaG618
+- Col_3:25el que...recibirá la injusticia que hiciereG2865
+- Col_4:10acerca del...habéis recibido mandamientosG1209
+- Col_4:10Marcos...si fuere a vosotros, recibidleG2983
+- Col_4:17cumplas el ministerio que recibiste enG3880
+- 1Ts_1:6recibiendo la palabra en medio de granG1209
+- 1Ts_1:9la manera en que nos recibisteis, y cómo
+- 1Ts_2:13cuando recibisteis la palabra de Dios queG3880
+- 1Ts_2:13recibisteis no como palabra de hombresG1209
+- 1Ts_4:17nubes para recibir al Señor en el aireG529
+- 2Ts_2:10no recibieron el amor de la verdadG1209
+- 2Ts_3:6no según la enseñanza que recibisteis deG3880
+- 1Ti_1:13fui recibido a misericordia porqueG1653
+- 1Ti_1:15palabra fiel y digna de ser recibida porG594
+- 1Ti_1:16pero por esto fui recibido a misericordiaG1653
+- 1Ti_3:16en el mundo, recibido arriba en gloriaG353
+- 1Ti_4:9palabra fiel es...y digna de ser recibidaG594
+- Flm_1:12tú, pues, recíbele como a mí mismoG4355
+- Flm_1:15quizás para que le recibieses para siempreG528
+- Flm_1:17por compañero, recíbele como a mí mismoG4355
+- Heb_2:2desobediencia recibió justa retribuciónG2983
+- Heb_6:7produce hierba...recibe bendición de DiosG3335
+- Heb_7:1salió a recibir a Abraham que volvía deG4876
+- Heb_7:5los que de...de Leví reciben el sacerdocioG2983
+- Heb_7:8ciertamente reciben los diezmos hombresG2983
+- Heb_7:9pagó el diezmo también Leví, que recibeG2983
+- Heb_7:11porque bajo él recibió el pueblo la leyG3549
+- Heb_9:15los llamados reciban la promesa de laG2983
+- Heb_10:26si pecáremos...después de haber recibidoG2983
+- Heb_11:8para salir al lugar que había de recibirG2983
+- Heb_11:11Sara...recibió fuerza para concebir; yG2983
+- Heb_11:13murieron todos...sin haber recibido loG2983
+- Heb_11:17había recibido las promesas ofrecía suG324
+- Heb_11:19figurado, también le volvió a recibirG2865
+- Heb_11:31habiendo recibido a los espías en pazG1209
+- Heb_11:35mujeres recibieron, sus muertos medianteG1983
+- Heb_11:39aunque...fe, no recibieron lo prometidoG2865
+- Heb_12:6y azota a todo el que recibe por hijoG3858
+- Heb_12:28así que, recibiendo nosotros un reinoG3880
+- Stg_1:7no piense...que recibirá cosa algunaG2983
+- Stg_1:12recibirá la corona de vida, que Dios haG2983
+- Stg_1:21recibid con mansedumbre la palabraG1209
+- Stg_2:25recibió a los mensajeros y los envió porG5264
+- Stg_3:1sabiendo que recibiremos...condenaciónG2983
+- Stg_4:3pedís, y no recibís, porque pedís malG2983
+- Stg_5:7con paciencia hasta que reciba la lluviaG2983
+- 1Pe_1:18cual recibisteis de vuestros padres
+- 1Pe_4:10cada uno según el don que ha recibidoG2983
+- 1Pe_5:4recibiréis la corona incorruptible deG2865
+- 2Pe_1:17cuando él recibió de Dios Padre honraG2983
+- 2Pe_2:13recibiendo el galardón de su injusticiaG2865
+- 1Jn_2:27la unción que vosotros recibisteisG2983
+- 1Jn_3:22cosa que pidiéremos la recibiremos de élG2983
+- 1Jn_5:9si recibimos el testimonio de los hombresG2983
+- 2Jn_1:4conforme al mandamiento que recibimosG2983
+- 2Jn_1:8que no...sino que recibáis galardón completoG618
+- 2Jn_1:10no trae esta doctrina, no lo recibáis enG2983
+- 3Jn_1:9escrito...pero Diótrefes...no nos recibeG1926
+- 3Jn_1:10no recibe a los hermanos, y a los queG1926
+- Rev_2:17ninguno conoce sino aquel...lo recibeG2983
+- Rev_2:27yo también la he recibido de mi PadreG2983
+- Rev_3:3acuérdate, pues, de lo que has recibidoG2983
+- Rev_4:11Señor, digno eres de recibir la gloria yG2983
+- Rev_14:9y recibe la marca en su frente o en suG293
+- Rev_14:11no tienen reposo...que reciba la marcaG2983
+- Rev_17:12diez reyes, que aún no han recibido reinoG2983
+- Rev_17:12por una hora recibirán autoridad comoG2983
+- Rev_18:4que no...ni recibáis parte de sus plagasG2983
+- Rev_19:20engañado a los que recibieron la marcaG2983
+- Rev_20:4los que recibieron facultad de juzgarG2983
+- Rev_20:4que no recibieron la marca en sus frentesG2983

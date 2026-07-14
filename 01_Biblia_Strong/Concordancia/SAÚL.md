@@ -1,0 +1,392 @@
+---
+tipo: concordancia
+palabra: SAÚL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SAÚL
+
+- 1 Rey de Edom, Gén_36:37-38; 1Cr_1:48-49H7586
+- 2 Descendiente de Simeón, Gén_46:10; Éxo_6:15; Núm_26:13; 1Cr_4:24H7586
+- 3 Rey de Israel
+- 1Sa_9:2y tenía él un hijo que se llamaba SH7586
+- 1Sa_9:3asnas de Cis, padre de S...dijo Cis a SH7586
+- 1Sa_9:5vinieron...S dijo a su criado que teníaH7586
+- 1Sa_9:7respondió S a su criado: Vamos ahoraH7586
+- 1Sa_9:8criado a responder a S...He aquí se hallaH7586
+- 1Sa_9:10dijo...S a su criado: Dices bien; andaH7586
+- 1Sa_9:15día antes que S viniese, Jehová habíaH7586
+- 1Sa_9:17y luego que Samuel vio a S, Jehová leH7586
+- 1Sa_9:18acercándose...S a Samuel en medio de laH7586
+- 1Sa_9:19Samuel respondió a S, diciendo: Yo soyH7586
+- 1Sa_9:21respondió...¡No soy yo hijo de BenjamínH7586
+- 1Sa_9:22entonces Samuel tomó a S y a su criadoH7586
+- 1Sa_9:24puso delante de S...y S comió aquel díaH7586
+- 1Sa_9:25descendido...hablé con S en el terradoH7586
+- 1Sa_9:26el alba, Samuel llamó a S...se levantó SH7586
+- 1Sa_9:27dijo Samuel a S: Dí al criado que seH7586
+- 1Sa_10:11-12¿S también entre los profetas?[[H7586]]
+- 1Sa_10:14un tío de S dijo a él y a su criadoH7586
+- 1Sa_10:15el tío de S: Yo te ruego me declaresH7586
+- 1Sa_10:16y S respondió a su tío: Nos declaróH7586
+- 1Sa_10:21de ella fue tomado S hijo de Cis...Y leH7586
+- 1Sa_10:26S también se fue a su casa en GabaaH7586
+- 1Sa_11:4llegando...a Gabaa de S, dijeron estasH7586
+- 1Sa_11:5he aquí S que venía del campo tras losH7586
+- 1Sa_11:5dijo S: ¿Qué tiene el pueblo, que llora?[[H7586]]
+- 1Sa_11:6al oír S...él se encendió en ira en granH7586
+- 1Sa_11:7que no saliere en pos de S y...de SamuelH7586
+- 1Sa_11:11dispuso S al pueblo en tres compañíasH7586
+- 1Sa_11:12los que decían: ¿Ha de reinar S sobreH7586
+- 1Sa_11:13S dijo: No morirá hoy ninguno, porqueH7586
+- 1Sa_11:15invistieron allí a S por rey delante deH7586
+- 1Sa_11:15se alegraron...S y todos los de IsraelH7586
+- 1Sa_13:1había ya reinado S un año; y cuando huboH7586
+- 1Sa_13:2de los cuales estaban con S dos mil enH7586
+- 1Sa_13:3hizo S tocar trompeta por todo el paísH7586
+- 1Sa_13:4que decía: S ha atacado a la guarniciónH7586
+- 1Sa_13:4juntó el pueblo en pos de S en GilgalH7586
+- 1Sa_13:7S permanecía aún en Gilgal, y todo elH7586
+- 1Sa_13:9entonces dijo S: Traedme holocausto yH7586
+- 1Sa_13:10y S salió a recibirle, para saludarleH7586
+- 1Sa_13:11S respondió: Porque vi que el puebloH7586
+- 1Sa_13:13Samuel dijo a S: Locamente has hechoH7586
+- 1Sa_13:15S contó la gente que se hallaba con élH7586
+- 1Sa_13:16S, pues, y Jonatán...quedaron en GabaaH7586
+- 1Sa_13:22en mano...del pueblo que estaba con SH7586
+- 1Sa_13:22excepto S y Jonatán su...que las teníanH7586
+- 1Sa_14:1que Jonatán hijo de S dijo a su criadoH7586
+- 1Sa_14:2S se hallaba al extremo de Gabaa, debajoH7586
+- 1Sa_14:16centinelas de S vieron desde Gabaa deH7586
+- 1Sa_14:17S dijo al pueblo...Pasad ahora revistaH7586
+- 1Sa_14:18S dijo a Ahías: Trae el arca de DiosH7586
+- 1Sa_14:19hablaba S con él...dijo S al sacerdoteH7586
+- 1Sa_14:20y juntando S a todo el pueblo que conH7586
+- 1Sa_14:21de los israelitas que estaban con S yH7586
+- 1Sa_14:24porque S había juramentado al puebloH7586
+- 1Sa_14:33dieron aviso a S, diciendo: El puebloH7586
+- 1Sa_14:34S: Esparcíos por el pueblo, y decidlesH7586
+- 1Sa_14:35y edificó S altar a Jehová; este altarH7586
+- 1Sa_14:36y dijo S: Descendamos de noche contraH7586
+- 1Sa_14:37S consultó a Dios: ¿Descenderé tras losH7586
+- 1Sa_14:38dijo S: Venid acá...los principales delH7586
+- 1Sa_14:40pueblo respondió a S: Haz lo que bienH7586
+- 1Sa_14:41S a Jehová...Y la suerte cayó sobre...SH7586
+- 1Sa_14:42y S...Echad suertes entre mí y JonatánH7586
+- 1Sa_14:43S dijo a Jonatán: Declárame lo que hasH7586
+- 1Sa_14:44S respondió: Así me haga Dios y aun meH7586
+- 1Sa_14:45pueblo dijo a S: ¿Ha de morir JonatánH7586
+- 1Sa_14:46S dejó de seguir a los filisteos; y losH7586
+- 1Sa_14:47S hizo guerra a todos sus enemigos enH7586
+- 1Sa_14:49los hijos de S fueron Jonatán, Isúi yH7586
+- 1Sa_14:50el nombre de la mujer de S era AbinoamH7586
+- 1Sa_14:50del general...Abner, hijo de Ner tío de SH7586
+- 1Sa_14:51Cis padre de S, y Ner...fueron hijos deH7586
+- 1Sa_14:52guerra...filisteos todo el tiempo de SH7586
+- 1Sa_14:52todo el que S veía que era...esforzadoH7586
+- 1Sa_15:1Samuel dijo a S: Jehová me envió a queH7586
+- 1Sa_15:4S, pues, convocó al pueblo y les pasóH7586
+- 1Sa_15:5viniendo S a la ciudad de Amalec, pusoH7586
+- 1Sa_15:6y dijo S a los ceneos: Idos, apartaosH7586
+- 1Sa_15:7S derrotó a los amalecitas desde HavilaH7586
+- 1Sa_15:9S y el pueblo perdonaron a Agag, y a loH7586
+- 1Sa_15:11pesa haber puesto por rey a S, porqueH7586
+- 1Sa_15:12madrugó luego...para ir a encontrar a SH7586
+- 1Sa_15:12a Samuel, diciendo: S ha venido a CarmelH7586
+- 1Sa_15:13vino, pues, Samuel a S, y S le dijoH7586
+- 1Sa_15:15S respondió: De Amalec los han traídoH7586
+- 1Sa_15:16dijo Samuel a S: Déjame declararte loH7586
+- 1Sa_15:20y S respondió a Samuel: Antes bien heH7586
+- 1Sa_15:24S dijo a Samuel: Yo he pecado; pues heH7586
+- 1Sa_15:26y Samuel respondió a S: No volveréH7586
+- 1Sa_15:31y volvió Samuel tras S, y adoró S aH7586
+- 1Sa_15:34fue...y S subió a su casa en Gabaa de SH7586
+- 1Sa_15:35nunca después vio...a S en toda su vidaH7586
+- 1Sa_15:35lloraba a S; y Jehová se arrepentía deH7586
+- 1Sa_15:35haber puesto a S por rey sobre IsraelH7586
+- 1Sa_16:1¿hasta cuándo llorarás a S...yo desechadoH7586
+- 1Sa_16:2y dijo Samuel...S lo supiera, me mataríaH7586
+- 1Sa_16:14el Espíritu de Jehová se apartó de SH7586
+- 1Sa_16:15y los criados de S le dijeron: He aquíH7586
+- 1Sa_16:17y S respondió a sus criados: BuscadmeH7586
+- 1Sa_16:19y S envió mensajeros a Isaí, diciendoH7586
+- 1Sa_16:20Isaí...lo envió a S por medio de DavidH7586
+- 1Sa_16:21viniendo David a S, estuvo delante deH7586
+- 1Sa_16:22S envió a decir a Isaí: Yo te ruego queH7586
+- 1Sa_16:23espíritu malo de parte...venía sobre SH7586
+- 1Sa_16:23David tomaba el arpa...y S tenía alivioH7586
+- 1Sa_17:2S y los hombres de Israel se juntaronH7586
+- 1Sa_17:8¿no soy yo...y vosotros los siervos de S?[[H7586]]
+- 1Sa_17:11oyendo S...estas palabras del filisteoH7586
+- 1Sa_17:12en el tiempo de S este hombre era viejoH7586
+- 1Sa_17:13habían ido para seguir a S a la guerraH7586
+- 1Sa_17:14siguieron, pues, los tres mayores a SH7586
+- 1Sa_17:15David había ido y vuelto, dejando a SH7586
+- 1Sa_17:19S y ellos...estaban en el valle de ElaH7586
+- 1Sa_17:31y las refirieron delante de S; y él loH7586
+- 1Sa_17:32y dijo David a S: No desmaye...ningunoH7586
+- 1Sa_17:33dijo S a David: No podrás tú ir contraH7586
+- 1Sa_17:34respondió a S: Tu siervo era pastor deH7586
+- 1Sa_17:37S a David: Vé, y Jehová esté contigoH7586
+- 1Sa_17:38S vistió a David con sus ropas, y pusoH7586
+- 1Sa_17:39dijo David a S: Yo no puedo andar conH7586
+- 1Sa_17:55S vio a David que salía a...el filisteoH7586
+- 1Sa_17:57Abner lo tomó y lo llevó delante de SH7586
+- 1Sa_17:58dijo S: Muchacho, ¿de quién eres hijo?[[H7586]]
+- 1Sa_18:1hubo acabado de hablar con S, el alma deH7586
+- 1Sa_18:2S le tomó aquel día, y no le dejó volverH7586
+- 1Sa_18:5y salía...a dondequiera que S le enviabaH7586
+- 1Sa_18:5lo puso S sobre gente de guerra, y eraH7586
+- 1Sa_18:5acepto...a los ojos de los siervos de SH7586
+- 1Sa_18:6y danzando para recibir al rey S, conH7586
+- 1Sa_18:7decían: S hirió a sus miles, y David aH7586
+- 1Sa_18:8se enojó S en gran manera...le desagradóH7586
+- 1Sa_18:9día S no miró con buenos ojos a DavidH7586
+- 1Sa_18:10al otro día...un espíritu malo...tomó a SH7586
+- 1Sa_18:10tocaba...y tenía S la lanza en la manoH7586
+- 1Sa_18:11arrojó S la lanza...Enclavaré a DavidH7586
+- 1Sa_18:12S estaba temeroso de David, por cuantoH7586
+- 1Sa_18:12cuanto Jehová...se había apartado de SH7586
+- 1Sa_18:13S lo alejó de sí, y le hizo jefe de milH7586
+- 1Sa_18:15viendo S...se portaba tan prudentementeH7586
+- 1Sa_18:17dijo S a David...te daré Merab mi hijaH7586
+- 1Sa_18:17mas S decía: No será mi mano contra élH7586
+- 1Sa_18:18David respondió a S: ¿Quién soy yo, oH7586
+- 1Sa_18:19que Merab hija de S se había de dar aH7586
+- 1Sa_18:20Mical la otra hija de S amaba a DavidH7586
+- 1Sa_18:20fue dicho a S...y le pareció bien a susH7586
+- 1Sa_18:21S dijo: Yo se la daré, para que le seaH7586
+- 1Sa_18:21dijo, pues, S a David por segunda vezH7586
+- 1Sa_18:22S a sus siervos: Hablad en secreto aH7586
+- 1Sa_18:23criados de S hablaron estas palabras aH7586
+- 1Sa_18:24los criados de S le dieron la respuestaH7586
+- 1Sa_18:25y S dijo: Decid así a David: El rey noH7586
+- 1Sa_18:25S pensaba hacer caer a David en manosH7586
+- 1Sa_18:27y S le dio su hija Mical por mujerH7586
+- 1Sa_18:28S, viendo...que Jehová estaba con DavidH7586
+- 1Sa_18:29fue S enemigo de David todos los díasH7586
+- 1Sa_18:30más éxito que todos los siervos de SH7586
+- 1Sa_19:1habló S a Jonatán su hijo, y a todos susH7586
+- 1Sa_19:1pero Jonatán hijo de S amaba a David enH7586
+- 1Sa_19:2S mi padre procura matarte; por tantoH7586
+- 1Sa_19:4Jonatán habló bien de David a S...padreH7586
+- 1Sa_19:6y escuchó S la voz de Jonatán, y juró SH7586
+- 1Sa_19:7le declaró...él mismo trajo a David a SH7586
+- 1Sa_19:9espíritu malo de parte de...vino sobre SH7586
+- 1Sa_19:10S procuró enclavar a David...a la paredH7586
+- 1Sa_19:10él se apartó de delante de S, el cualH7586
+- 1Sa_19:11S envió...mensajeros a casa de DavidH7586
+- 1Sa_19:14y cuando S envió...para prender a DavidH7586
+- 1Sa_19:15volvió S a enviar mensajeros para queH7586
+- 1Sa_19:17entonces S dijo a Mical: ¿Por qué meH7586
+- 1Sa_19:17Mical respondió a S: Porque él me dijoH7586
+- 1Sa_19:18dijo todo lo que S había hecho con élH7586
+- 1Sa_19:19dado aviso a S, diciendo...David está enH7586
+- 1Sa_19:20S envió mensajeros para que trajeranH7586
+- 1Sa_19:20el Espíritu...sobre los mensajeros de SH7586
+- 1Sa_19:21lo supo S, envió otros mensajeros, losH7586
+- 1Sa_19:21S volvió a enviar mensajeros por...vezH7586
+- 1Sa_19:24se dijo: ¿También S entre los profetas?[[H7586]]
+- 1Sa_20:25se sentó Abner al lado de S, y el lugarH7586
+- 1Sa_20:26mas aquel día S no dijo nada, porqueH7586
+- 1Sa_20:27S dijo a Jonatán su hijo: ¿Por qué noH7586
+- 1Sa_20:28Jonatán respondió a S: David me pidióH7586
+- 1Sa_20:30se encendió la ira de S contra JonatánH7586
+- 1Sa_20:32y Jonatán respondió a su padre S y leH7586
+- 1Sa_20:33S le arrojó una lanza para herirloH7586
+- 1Sa_21:7y estaba allí...uno de los siervos de SH7586
+- 1Sa_21:7Doeg...el principal de los pastores de SH7586
+- 1Sa_21:10David...huyó de la presencia de S, y seH7586
+- 1Sa_21:11hirió S a sus miles, y David a sus diezH7586
+- 1Sa_22:6oyó S que se sabía de David y de los queH7586
+- 1Sa_22:6y S estaba sentado en Gabaa, debajo deH7586
+- 1Sa_22:7dijo S a sus siervos...Oíd ahora, hijosH7586
+- 1Sa_22:9Doeg...el principal de los siervos de SH7586
+- 1Sa_22:12y S le dijo: Oye ahora, hijo de AhitobH7586
+- 1Sa_22:13le dijo S: ¿Por qué habéis conspiradoH7586
+- 1Sa_22:21y Abiatar dio aviso a David de cómo SH7586
+- 1Sa_22:22Doeg...él lo había de hacer saber a SH7586
+- 1Sa_23:7dado aviso a S que David había venido aH7586
+- 1Sa_23:7dijo S: Dios lo ha entregado en mi manoH7586
+- 1Sa_23:8convocó S a todo el pueblo a la batallaH7586
+- 1Sa_23:9entendiendo David que S ideaba el malH7586
+- 1Sa_23:10que S trata de venir contra Keila, aH7586
+- 1Sa_23:11descenderá S, como ha oído tu siervo?[[H7586]]
+- 1Sa_23:12dijo...¿Me entregarán...en manos de SH7586
+- 1Sa_23:13vino a S la nueva de que David se habíaH7586
+- 1Sa_23:14lo buscaba S todos los días, pero DiosH7586
+- 1Sa_23:15viendo, pues, David que S había salidoH7586
+- 1Sa_23:16se levantó Jonatán hijo de S y vino aH7586
+- 1Sa_23:17no te hallará la mano de S mi padre, yH7586
+- 1Sa_23:17reinarás...aun S mi padre así lo sabeH7586
+- 1Sa_23:19subieron los de Zif para decirle a SH7586
+- 1Sa_23:21y S dijo: Benditos seáis vosotros deH7586
+- 1Sa_23:24fueron a Zif delante de S...Pero DavidH7586
+- 1Sa_23:25se fue S con su gente a buscarlo; peroH7586
+- 1Sa_23:25cuando S oyó esto, siguió a David alH7586
+- 1Sa_23:26S iba por un lado del monte, y DavidH7586
+- 1Sa_23:26se daba prisa David para escapar de SH7586
+- 1Sa_23:26S y sus...habían encerrado a David y aH7586
+- 1Sa_23:27vino un mensajero a S, diciendo: VenH7586
+- 1Sa_23:28volvió, por...S de perseguir a David, yH7586
+- 1Sa_24:1S volvió de perseguir a los filisteos, leH7586
+- 1Sa_24:2tomando S tres mil hombres escogidos deH7586
+- 1Sa_24:3entró S en ella para cubrir sus piesH7586
+- 1Sa_24:4David...cortó la orilla del manto de SH7586
+- 1Sa_24:5había cortado la orilla del manto de SH7586
+- 1Sa_24:7así reprimió...que se levantasen contra SH7586
+- 1Sa_24:7y S, saliendo de la cueva, siguió suH7586
+- 1Sa_24:8David...dio voces detrás de S, diciendoH7586
+- 1Sa_24:8cuando S miró hacia atrás, David inclinóH7586
+- 1Sa_24:9David a S: ¿Por qué oyes las palabrasH7586
+- 1Sa_24:16David acabó de decir estas palabras a SH7586
+- 1Sa_24:16S dijo: ¿No es esta la voz tuya, hijoH7586
+- 1Sa_24:16hijo mío David? Y alzó S su voz y lloróH7586
+- 1Sa_24:22David juró a S...Y se fue S a su casaH7586
+- 1Sa_25:44S había dado a su hija Mical...a PaltiH7586
+- 1Sa_26:1vinieron los zifeos a S...diciendo: ¿NoH7586
+- 1Sa_26:2S...se levantó y descendió al desierto deH7586
+- 1Sa_26:3acampó S en el collado de Haquila, queH7586
+- 1Sa_26:3entendió que S le seguía en el desiertoH7586
+- 1Sa_26:4y supo con certeza que S había venidoH7586
+- 1Sa_26:5y vino al sitio donde S había acampadoH7586
+- 1Sa_26:5miró David el lugar donde dormían S yH7586
+- 1Sa_26:5estaba S durmiendo en el campamento, yH7586
+- 1Sa_26:6dijo...¿Quién descenderá conmigo a S enH7586
+- 1Sa_26:7he aquí que S estaba tendido durmiendoH7586
+- 1Sa_26:12la vasija de agua de la cabecera de SH7586
+- 1Sa_26:17y conociendo S la voz de David, dijoH7586
+- 1Sa_26:21dijo S: He pecado; vuélvete, hijo míoH7586
+- 1Sa_26:25S dijo a David: Bendito eres tú, hijoH7586
+- 1Sa_26:25David se fue...S se volvió a su lugarH7586
+- 1Sa_27:1al fin seré muerto...por la mano de SH7586
+- 1Sa_27:1fugarme...para que S no se ocupe de míH7586
+- 1Sa_27:4a S la nueva de que David había huidoH7586
+- 1Sa_28:3S había arrojado...a los encantadores yH7586
+- 1Sa_28:4S juntó a todo Israel, y acamparon enH7586
+- 1Sa_28:5cuando vio S el campamento de...filisteosH7586
+- 1Sa_28:6consultó S a Jehová; pero Jehová no leH7586
+- 1Sa_28:7S dijo a sus criados: Buscadme...mujerH7586
+- 1Sa_28:8se disfrazó S, y se puso otros vestidosH7586
+- 1Sa_28:9he aquí tú sabes lo que S ha hecho, cómoH7586
+- 1Sa_28:10S le juró por Jehová, diciendo: ViveH7586
+- 1Sa_28:12voz, y habló aquella mujer a S, diciendoH7586
+- 1Sa_28:13¿por qué me has engañado?...tú eres SH7586
+- 1Sa_28:13mujer respondió a S: He visto diosesH7586
+- 1Sa_28:14S entonces entendió que era Samuel, yH7586
+- 1Sa_28:15dijo a S: ¿Por qué me has inquietadoH7586
+- 1Sa_28:15S respondió: Estoy muy angustiado, puesH7586
+- 1Sa_28:20entonces S cayó en tierra cuan grandeH7586
+- 1Sa_28:21la mujer vino a S, y viéndole turbadoH7586
+- 1Sa_28:25lo trajo delante de S y de sus siervosH7586
+- 1Sa_29:3¿no es este David, el siervo de S rey deH7586
+- 1Sa_29:5S hirió a sus miles, y David a sus diezH7586
+- 1Sa_31:2y siguiendo los filisteos a S y a susH7586
+- 1Sa_31:2filisteos...mataron a Jonatán...hijos de SH7586
+- 1Sa_31:3y arreció la batalla contra S, y leH7586
+- 1Sa_31:4dijo S a su escudero: Saca tu espada, yH7586
+- 1Sa_31:4tomó S su propia espada y se echó sobreH7586
+- 1Sa_31:5viendo...a S muerto, él también se echóH7586
+- 1Sa_31:6así murió S en aquel día...sus tres hijosH7586
+- 1Sa_31:7que S y sus hijos habían sido muertosH7586
+- 1Sa_31:8hallaron a S y a sus tres hijos tendidosH7586
+- 1Sa_31:11oyendo los de...esto que...hicieron a SH7586
+- 1Sa_31:12quitaron el cuerpo de S y...de Bet-sánH7586
+- 2Sa_1:1aconteció después de la muerte de SH7586
+- 2Sa_1:2sucedió que vino uno del campamento de SH7586
+- 2Sa_1:4pueblo huyó...S y Jonatán su hijo murieronH7586
+- 2Sa_1:5¿cómo sabes que han muerto S y Jonatán suH7586
+- 2Sa_1:6hallé a S que se apoyaba sobre su lanzaH7586
+- 2Sa_1:12y ayunaron...por S y por Jonatán su hijoH7586
+- 2Sa_1:17y endechó David a S y a Jonatán su hijoH7586
+- 2Sa_1:21el escudo de S, como si no hubiera sidoH7586
+- 2Sa_1:22el arco...ni la espada de S volvió vacíaH7586
+- 2Sa_1:23S y Jonatán...inseparables en su vidaH7586
+- 2Sa_1:24hijas de Israel, llorad por S, quien osH7586
+- 2Sa_2:4los de Jabes de Galaad...sepultaron a SH7586
+- 2Sa_2:5que habéis hecho esta misericordia...con SH7586
+- 2Sa_2:7muerto S...los de la casa de Judá me hanH7586
+- 2Sa_2:8Abner...general del ejército de S, tomó aH7586
+- 2Sa_2:8tomó a Is-boset hijo de S, y lo llevó aH7586
+- 2Sa_2:10de cuarenta años era Is-boset hijo de SH7586
+- 2Sa_2:12con los siervos de Is-boset hijo de SH7586
+- 2Sa_2:15doce...de Is-boset hijo de S, y doce deH7586
+- 2Sa_3:1hubo larga guerra entre la casa de S y laH7586
+- 2Sa_3:1David...y la casa de S se iba debilitandoH7586
+- 2Sa_3:6como había guerra entre la casa de S y laH7586
+- 2Sa_3:6que Abner se esforzaba por la casa de SH7586
+- 2Sa_3:7había tenido S una concubina que...RizpaH7586
+- 2Sa_3:8misericordia con la casa de S tu padreH7586
+- 2Sa_3:10trasladando el reino de la casa de SH7586
+- 2Sa_3:13sin que...traigas a Mical la hija de SH7586
+- 2Sa_3:14envió...mensajeros a Is-boset hijo de SH7586
+- 2Sa_4:1que oyó el hijo de S que Abner había sidoH7586
+- 2Sa_4:2hijo de S tenía dos hombres, capitanesH7586
+- 2Sa_4:4Jonatán hijo de S tenía un hijo lisiadoH7586
+- 2Sa_4:4llegó...la noticia de la muerte de S y deH7586
+- 2Sa_4:8he aquí la cabeza de Is-boset hijo de SH7586
+- 2Sa_4:8ha vengado hoy a mi señor el rey, de SH7586
+- 2Sa_4:10diciendo...S ha muerto, imaginándose queH7586
+- 2Sa_5:2cuando S reinaba...eras tú quien sacabasH7586
+- 2Sa_6:16Mical hija de S miró desde una ventanaH7586
+- 2Sa_6:23Mical hija de S nunca tuvo hijos hastaH7586
+- 2Sa_7:15como la aparté de S, al cual quité deH7586
+- 2Sa_9:1David; ¿Ha quedado alguno de la casa de SH7586
+- 2Sa_9:2y había un siervo de la casa de S...SibaH7586
+- 2Sa_9:3¿no ha quedado nadie de la casa de S, aH7586
+- 2Sa_9:6Mefi-boset, hijo de Jonatán hijo de S, aH7586
+- 2Sa_9:7devolveré todas las tierras de S tu padreH7586
+- 2Sa_9:9rey llamó a Siba siervo de S, y le dijoH7586
+- 2Sa_9:9todo lo que fue de S...lo he dado al hijoH7586
+- 2Sa_12:7yo te ungí...y te libré de la mano de SH7586
+- 2Sa_16:5salía uno...de la casa de S, el cual seH7586
+- 2Sa_16:8pago de toda la sangre de la casa de SH7586
+- 2Sa_19:17venían...Siba, criado de la casa de SH7586
+- 2Sa_19:24Mefi-boset...de S descendió a recibir alH7586
+- 2Sa_21:1es por causa de S, y por aquella casaH7586
+- 2Sa_21:2S había procurado matarlos en su celoH7586
+- 2Sa_21:4no tenemos nosotros querella...con S yH7586
+- 2Sa_21:6para que los ahorquemoos...en Gabaa de SH7586
+- 2Sa_21:7de Jonatán, hijo de S, por el juramentoH7586
+- 2Sa_21:8de Rizpa...cuales ella había tenido de SH7586
+- 2Sa_21:8tomó...a cinco hijos de Mical hija de SH7586
+- 2Sa_21:11lo que hacía Rizpa hija...concubina deH7586
+- 2Sa_21:12David fue y tomó los huesos de S y losH7586
+- 2Sa_21:12los filisteos mataron a S en GilboaH7586
+- 2Sa_21:13e hizo llevar de allí los huesos de SH7586
+- 2Sa_21:14sepultaron los huesos de S y los de suH7586
+- 2Sa_22:1le había librado de...y de la mano de SH7586
+- 1Cr_5:10y en los días de S hicieron guerraH7586
+- 1Cr_8:33; 1Cr_9:39Cis engendró a S, y S...a JonatánH7586
+- 1Cr_10:2los filisteos siguieron a S y a sus hijosH7586
+- 1Cr_10:2y mataron los filisteos a...hijos de SH7586
+- 1Cr_10:3y arreciando la batalla contra S, leH7586
+- 1Cr_10:4dijo S a su escudero: Saca tu espada yH7586
+- 1Cr_10:4S tomó la espada, y se echó sobre ellaH7586
+- 1Cr_10:5su escudero vio a S muerto, él...se matóH7586
+- 1Cr_10:6así murieron S y sus tres hijos...con élH7586
+- 1Cr_10:7viendo...que S y sus hijos eran muertosH7586
+- 1Cr_10:8hallaron a S y a sus hijos tendidos en elH7586
+- 1Cr_10:11lo que los filisteos habían hecho de SH7586
+- 1Cr_10:12tomaron el cuerpo de S y...de sus hijosH7586
+- 1Cr_10:13murió S por su rebelión...contra jehováH7586
+- 1Cr_11:2antes de ahora, mientras S reinaba, túH7586
+- 1Cr_12:1estando él aún encerrado por causa de SH7586
+- 1Cr_12:2armados de arcos...De los hermanos de SH7586
+- 1Cr_12:19con los filisteos a la batalla contra SH7586
+- 1Cr_12:19con peligro de...se pasará a su señor SH7586
+- 1Cr_12:23traspasarle el reino de S, conforme aH7586
+- 1Cr_12:29hijos de Benjamín hermanos de S, 3.000H7586
+- 1Cr_12:29ellos se mantenían fieles a la casa de SH7586
+- 1Cr_13:3el tiempo de S no hemos hecho caso deH7586
+- 1Cr_15:29Mical, hija de S...vio al rey David queH7586
+- 1Cr_26:28había consagrado...S hijo de Cis, AbnerH7586
+- Sal 18 títH...el día que le libró...de mano de SH7586
+- Sal 52 títH...y dio cuenta a S diciéndole: David haH7586
+- Sal 54 títH...vinieron los zifeos y dijeron a SH7586
+- Sal 57 títH...cuando huyó...delante de S a la cuevaH7586
+- Sal 59 títH...cuando envió S, y vigilaron la casaH7586
+- Isa_10:29Ramá tembló; Gabaa de Saúl huyóH7586
+- Hec_13:21pidieron rey, y...les dio a S hijo deG4569
+- 4 Levita de los hijos de Coat, 1Cr_6:24G7586

@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: CALLE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CALLE
+
+- Gén_19:2que en la c nos quedaremos esta nocheH7339
+- 2Sa_22:43como lodo de las c los pisé y losH2351
+- Esd_10:13y no podemos estar en la c; ni la
+- Job_18:17tierra, y no tendrá nombre por las c
+- Sal_18:42los eché fuera como lodo de las cH2351
+- Pro_1:20la sabiduría clama en las c, alza suH7339
+- Pro_5:16¿se derramarán tus fuentes por las cH7339
+- Pro_7:8pasaba por la c, junto a la esquina, cH7784
+- Pro_7:12unas veces está en la c, otras veces enH7339
+- Pro_22:13león está fuera; seré muerto en la cH7339
+- Pro_26:13dice el perezoso...león está en las cH7339
+- Ecl_12:5los endechadores andarán...por las cH7784
+- Cnt_3:2rodearé...por las c y por las plazasH7784
+- Isa_5:25cadáveres fueron arrojados en...las cH2351
+- Isa_10:6para ser hollado como lodo de las cH2351
+- Isa_15:3se ceñirán de cilicio en sus c; en susH2351
+- Isa_24:11clamores por falta de vino en las cH2351
+- Isa_42:2alzará su voz, ni la hará oir en las cH2351
+- Jer_5:1recorred las c de Jerusalén, y miradH2351
+- Jer_6:11la derramaré sobre los niños en la c
+- Jer_7:17no ves lo que éstos hacen...en las c deH2351
+- Jer_7:34haré cesar...de las c de Jerusalén, laH2351
+- Jer_9:21para exterminar a los niños de las cH7339
+- Jer_11:6y en las c de Jerusalén, diciendo: OídH2351
+- Jer_11:13según el número de tus c...los altaresH2351
+- Jer_14:16y el pueblo...será echado en las c deH2351
+- Jer_33:10de Judá y en las c de Jerusalén, queH2351
+- Jer_37:21pan al día, de la c de los PanaderosH2351
+- Jer_44:6ira...se encendió...en las c de JerusalénH2351
+- Jer_44:9las maldades...que hicieron...en las c deH2351
+- Jer_44:21el incienso que ofrecisteis...en las cH2351
+- Jer_48:38sobre...terrados de Moab, y en sus cH7339
+- Jer_51:4caerán muertos...y alanceados en sus cH2351
+- Lam_2:12desfallecían...en las c de la ciudadH7339
+- Lam_2:19desfallecen de hambre en...todas las cH2351
+- Lam_2:21niños y...yacían por tierra en las cH2351
+- Lam_4:1esparcidas por las encrucijadas de...cH2351
+- Lam_4:5los que comían...fueron asolados en las cH2351
+- Lam_4:8es su aspecto; no los conocen por las cH2351
+- Lam_4:14titubearon como ciegos en las c, fueronH2351
+- Lam_4:18para que no anduviésemos por nuestras cH7339
+- Eze_7:19arrojarán su plata en las c, y su oroH2351
+- Eze_11:6ciudad, y habéis llenado de muertos...cH2351
+- Eze_26:11con...sus caballos hollará todas tus cH2351
+- Eze_28:23a ella pestilencia y sangre en sus cH2351
+- Amó_5:16en todas las c dirán: ¡Ay! i Ay!, y al
+- Miq_7:10ahora será hollada como lodo de las cH2351
+- Nah_2:4carros...estruendo rodarán por las cH2351
+- Nah_3:10pequeños fueron estrellados en las...cH2351
+- Sof_3:6hice desiertas sus c, hasta no quedarH2351
+- Zac_8:4aún han de morar ancianos...en las cH7339
+- Zac_8:5y las c de...estarán llenas de muchachosH7339
+- Zac_9:3amontonó plata...oro como lodo de las cH2351
+- Zac_10:5huellan al enemigo en el lodo de las cH2351
+- Mat_6:2como hacen los hipócritas en...las cG4505
+- Mat_6:5aman el orar...en las esquinas de las cG4113
+- Mat_12:19voceará, ni nadie oirá en las c su vozG4113
+- Mar_6:56en las c a los que estaban enfermosG58
+- Luc_10:10no os reciban, saliendo por sus cG4113
+- Luc_14:21vé pronto por...las c de la ciudad, yG4113
+- Hec_5:15sacaban los enfermos a las c, y losG4113
+- Hec_9:11dijo...vé a la c que se llama DerechaG4505
+- Hec_12:10pasaron una c, y luego el ángel seG4505
+- Rev_21:21y la c de la ciudad era de oro puro
+- Rev_22:2en medio de la c...estaba el árbol de la

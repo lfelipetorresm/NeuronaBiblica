@@ -1,0 +1,104 @@
+---
+tipo: concordancia
+palabra: MENTIRA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MENTIRA
+
+- Éxo_23:7de palabra de m te alejarás, y noH7901
+- Jue_16:10me has engañado, y me has dicho mH3577
+- Jue_16:13me engañas, y tratas conmigo con mH3576
+- 1Re_22:22yo saldré, y seré espíritu de m enH8267
+- 1Re_22:23espíritu de m en la boca de todos tusH8267
+- 2Re_9:12ellos dijeron: M; decláranoslo ahoraH8267
+- 2Cr_18:21saldré y seré espíritu de m en laH8267
+- 2Cr_18:22Jehová ha puesto espíritu de m en laH8267
+- Job_6:28y ved si digo m delante de vosotrosH3576
+- Job_13:4vosotros sois fraguadores de m; soisH8267
+- Job_31:5anduve con m, y si mi pie se apresuróH7723
+- Job_36:4porque de cierto no son m mis palabrasH8267
+- Sal_4:2amaréis la vanidad, y buscaréis la m?[[H3577]]
+- Sal_5:6destruirás a los que hablan m; al hombreH3577
+- Sal_12:2habla m cada uno con su prójimo; hablanH7723
+- Sal_40:4no mira...los que se desvían tras la mH3577
+- Sal_41:6si vienen a verme, hablan m; su corazónH7723
+- Sal_52:3amaste el mal...la m más que la verdadH8267
+- Sal_58:3se descarriaron hablando m desde queH3577
+- Sal_59:12y por la maldición y m que profierenH3585
+- Sal_62:4aman la m; con su boca bendicen, peroH3577
+- Sal_62:9vanidad son los...m los hijos de varónH3576
+- Sal_63:11boca de los que hablan m será cerradaH8267
+- Sal_101:7el que habla m no se afirmará delanteH8267
+- Sal_119:29aparta de mí el camino de la m, y enH8267
+- Sal_119:69contra mí forjaron m los soberbiosH8267
+- Sal_119:104tanto, he aborrecido todo camino de mH8267
+- Sal_119:128por eso...aborrecí todo camino de mH8267
+- Sal_119:163la m aborrezco y abomino; tu ley amoH8267
+- Sal_144:8, Sal_144:11y cuya diestra es diestra de mH8267
+- Pro_6:19el testigo falso que habla m, y el queH3577
+- Pro_13:5el justo aborrece la palabra de m; masH8267
+- Pro_14:5testigo...mas el testigo falso hablará mH3576
+- Pro_14:25el testigo...mas el engañoso hablará mH3577
+- Pro_19:5castigo, y el que habla m no escaparáH3577
+- Pro_19:9el testigo falso...que habla m pereceráH3577
+- Pro_20:17sabroso es al hombre el pan de m; peroH8267
+- Isa_9:15el profeta que enseña m, es la colaH8267
+- Isa_16:6su altivez; pero sus m no serán firmesH907
+- Isa_28:15hemos puesto nuestro refugio en la mH3577
+- Isa_28:17y granizo barrerá el refugio de la mH3577
+- Isa_30:10decidnos...halagüeñas, profetizad mH4123
+- Isa_44:20pura m lo que tengo en mi mano derecha?[[H8267]]
+- Isa_59:3vuestros labios pronuncian m, hablaH8267
+- Isa_59:13y proferir de corazón palabras de mH8267
+- Jer_5:31los profetas profetizaron m, y losH8267
+- Jer_7:4no fiéis en palabras de m, diciendoH8267
+- Jer_7:8vosotros confiáis en palabras de m, queH8267
+- Jer_8:8la ha cambiado en m la pluma mentirosaH8267
+- Jer_9:3hicieron que su lengua lanzara m comoH8267
+- Jer_9:5acostumbraron su lengua a hablar m, seH8267
+- Jer_13:25te olvidaste de mí y confiaste en la mH8267
+- Jer_16:19m poseyeron nuestros padres, vanidadH8267
+- Jer_20:6los...a los cuales has profetizado con mH8267
+- Jer_23:14andaban en m, y fortalecían las manosH8267
+- Jer_23:25profetizando m en mi nombre, diciendoH8267
+- Jer_23:26que profetizan m, y que profetizan elH8267
+- Jer_23:32y hacen errar a mi pueblo con sus m yH8267
+- Jer_27:10os profetizan m, para haceros alejarH8267
+- Jer_27:14, Jer_27:16no oigáis...porque os profetizan mH8267
+- Jer_28:15has hecho confiar en m a este puebloH8267
+- Jer_29:31yo no lo envié, y os hizo confiar en mH8267
+- Jer_43:2m dices; no te ha enviado Jehová...DiosH8267
+- Jer_51:17porque m es su ídolo, no tiene espírituH8267
+- Eze_13:8por cuanto vosotros...habéis visto mH3576
+- Eze_13:9profetas que ven vanidad y adivinan mH3576
+- Eze_13:19mintiendo a mi pueblo que escucha la mH3576
+- Eze_13:22entristecisteis con m el corazón delH8267
+- Eze_21:29adivinan m, para que la emplees sobreH3576
+- Eze_22:28y adivinándoles m, diciendo: Así haH3576
+- Dan_11:27en una misma mesa hablarán m; masH3576
+- Ose_7:3alegran al...a los príncipes con sus mH3585
+- Ose_7:13los redimí, y ellos hablaron m contra míH3576
+- Ose_10:13comeréis fruto de m, porque confiasteH3585
+- Ose_11:12rodeó Efraín de m, y la casa de IsraelH3585
+- Ose_12:1m y destrucción aumenta continuamenteH3576
+- Amó_2:4y les hicieron errar sus m, en pos deH3576
+- Miq_6:12sus moradores hablaron m, y su lenguaH8267
+- Nah_3:1¡ay de ti, ciudad...toda llena de m yH3585
+- Hab_2:18¿la estatua...que enseña m, para queH8267
+- Sof_3:13ni dirá m, ni en boca de ellos seH3576
+- Zac_10:2adivinos han visto m...sueños vanosH8267
+- Zac_13:3has hablado m en el nombre de JehováH8267
+- Mal_3:5seré pronto testigo contra...juran mH8267
+- Jua_8:44cuando habla m, de suyo habla; porqueG5579
+- Jua_8:44suyo...porque es mentiroso, y padre de mG846
+- Rom_1:25cambiaron la verdad de Dios por la mG5579
+- Rom_3:7por mi m la verdad de Dios abundó paraG5582
+- Efe_4:25desechando la m, hablad verdad cadaG5579
+- 2Ts_2:11Dios les envía...para que crean la mG5579
+- 1Jn_2:21porque ninguna m procede de...verdadG5579
+- 1Jn_2:27y no es m, según ella os ha enseñadoG5579
+- Rev_14:5en sus bocas no fue hallada m, puesG1388
+- Rev_21:27cosa...que hace abominación y m, sinoG5579
+- Rev_22:15fuera...y todo aquel que ama y hace mG5579

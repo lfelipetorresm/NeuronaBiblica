@@ -1,0 +1,115 @@
+---
+tipo: concordancia
+palabra: AMADO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AMADO, A
+
+- Véase también Amar
+- Deu_21:15tuviere dos mujeres, la una a y laH157
+- Deu_21:15y la a y la...le hubieran dado hijosH157
+- Deu_21:16dar...la primogenitura al hijo de la aH157
+- Deu_33:12el a de Jehová habitará confiado cercaH3039
+- Deu_33:24el a de sus hermanos, y moje en aceiteH7521
+- Sal_60:5para que se libren tus a, salva conH3039
+- Sal_108:6para que sean librados tus a, salvaH3039
+- Sal_127:2pues que a su a dará Dios el sueñoH3039
+- Cnt_1:13mi a es para mí un manojito de mirraH1730
+- Cnt_1:14racimo de flores de...es para mí mi aH1730
+- Cnt_1:16he aquí que tú eres hermoso, a mío, yH1730
+- Cnt_2:3el manzano...así es mi a entre los jóvenesH1730
+- Cnt_2:8¡la voz de mi a!...aquí él viene saltandoH1730
+- Cnt_2:9a es semejante al corzo, o al cervatilloH1730
+- Cnt_2:10a habló, y me dijo: Levántate oh amigaH1730
+- Cnt_2:16a es mío, y yo suya; él apacienta entreH1730
+- Cnt_2:17vuélvete, a mío; sé semejante al corzoH1730
+- Cnt_4:16venga mi a a su huerto, y coma de suH1730
+- Cnt_5:1comed, amigos; bebed en abundancia, oh aH1730
+- Cnt_5:2voz de mi a que llama: Ábreme, hermanaH1730
+- Cnt_5:4mi a metió su mano por la ventanillaH1730
+- Cnt_5:5levanté para abrir a mi a, y mis manosH1730
+- Cnt_5:6abrí yo a mi a; pero mi a se había idoH1730
+- Cnt_5:8si halláis a mi a, que le hagáis saberH1730
+- Cnt_5:9(2)¿qué es tu a más que otro a, oh la másH1730
+- Cnt_5:10mi a es blanco y rubio, señalado entreH1730
+- Cnt_5:16tal es mi a...mi amigo, oh doncellas deH1730
+- Cnt_6:1dónde se ha ido tu a, oh la más hermosaH1730
+- Cnt_6:1¿a dónde se apartó tu a, y lo buscaremosH1730
+- Cnt_6:2mi a descendió a su huerto, a las erasH1730
+- Cnt_6:3soy de mi a, y mi a es mío; él apacientaH1730
+- Cnt_7:9buen vino, que se entra a mi a suavementeH1730
+- Cnt_7:10yo soy de mi a, y conmigo tiene suH1730
+- Cnt_7:11a mío, salgamos al campo, moremos enH1730
+- Cnt_7:13que para ti, oh a mío, he guardadoH1730
+- Cnt_8:5esta que sube del...recostada sobre su aH1730
+- Cnt_8:14apresúrate, a mío, y sé semejante alH1730
+- Isa_5:1cantaré por mi a el cantar de mi aH3039
+- Isa_5:1tenía mi a una viña en una ladera fértilH3039
+- Jer_11:15¿qué derecho tiene mi a en mi casaH3039
+- Dan_10:11Daniel, varón muy a, está atento aH2530
+- Dan_10:19muy a, no temas; la paz sea contigoH2530
+- Mat_3:17que decía: Este es mi Hijo a, en quienG27
+- Mat_12:18aquí...mi A, en quien se agrada mi almaG27
+- Mat_17:5que decía: Este es mi Hijo a, en quienG27
+- Mar_1:11mi Hijo a; en ti tengo complacenciaG27
+- Mar_9:7que decía: Este es mi Hijo a; a él oídG27
+- Mar_12:6teniendo aún un hijo suyo a, lo envióG27
+- Luc_3:22mi Hijo a; en ti tengo complacenciaG27
+- Luc_9:35que decía: Este es mi Hijo a; a él oídG27
+- Luc_20:13dijo: ¿Qué haré? Enviaré a mi hijo aG27
+- Hec_15:25enviarlos...con nuestros a Bernabé yG27
+- Rom_12:19no os venguéis vosotros mismos, aG27
+- Rom_16:5saludad a Epeneto, a mío, que es elG27
+- Rom_16:8saludad a Amplias, a mío en el SeñorG27
+- Rom_16:9saludad a Urbano...y a Estaquis, a míoG27
+- 1Co_4:14para amonestaros como a hijos míos aG27
+- 1Co_4:17he enviado a Timoteo, que es mi hijo aG27
+- 1Co_10:14por tanto, a míos, huid de la idolatríaG27
+- 1Co_15:58así que, hermanos míos a, estad firmesG27
+- 2Co_7:1a, puesto que tenemos tales promesasG27
+- 2Co_12:19todo, muy a, para vuestra edificaciónG27
+- Efe_1:6con la cual nos hizo aceptos en el AG25
+- Efe_5:1sed...imitadores de Dios como hijos aG27
+- Efe_6:21Tíquico, hermano a y fiel ministro enG27
+- Flp_2:12a míos...siempre habéis obedecidoG27
+- Flp_4:1así...hermanos míos a y deseados, gozoG27
+- Flp_4:1mía, estad así firmes en el Señor, aG27
+- Col_1:7Epafras, nuestro consiervo a, queG27
+- Col_1:13nos ha...trasladado al reino de su a HijoG26
+- Col_3:12como escogidos de Dios, santos y a, deG25
+- Col_4:7lo hará saber Tíquico, a hermano y fielG27
+- Col_4:9con Onésimo, a y fiel hermano, que es unoG27
+- Col_4:14os saluda Lucas, el médico a, y DemasG27
+- 1Ts_1:4conocemos, hermanos a...elecciónG25
+- 1Ti_6:2creyentes y a los que se beneficianG27
+- 2Ti_1:2Timoteo, a hijo...misericordia y pazG27
+- Flm_1:1Pablo...el hermano Timoteo, al a FilemónG27
+- Flm_1:2a la a hermana Apia, y a Arquipo nuestroG27
+- Flm_1:16sino como hermano a, mayormente para míG27
+- Heb_6:9oh a, estamos persuadidos de cosasG27
+- Stg_1:16a hermanos míos, no erréisG27
+- Stg_1:19a hermanos, todo hombre sea pronto paraG27
+- Stg_2:5hermanos míos a, oíd: ¿No ha elegidoG27
+- 1Pe_2:11a, yo os ruego como a extranjeros yG27
+- 1Pe_4:12a, no os sorprendáis...fuego de pruebaG27
+- 2Pe_1:17este es mi Hijo a, en el cual tengoG27
+- 2Pe_3:1a...es la segunda carta que os escriboG27
+- 2Pe_3:8oh a, no ignoréis esto: que para con elG27
+- 2Pe_3:14oh a...procurad ser hallados por él conG27
+- 2Pe_3:15nuestro a hermano Pablo...os ha escritoG27
+- 2Pe_3:17a...guardaos, no sea que arrastrados porG27
+- 1Jn_3:2a, ahora somos hijos de Dios, y aúnG27
+- 1Jn_3:21a, si nuestro corazón no nos reprendeG27
+- 1Jn_4:1a, no creáis a todo espíritu, sino probadG27
+- 1Jn_4:7a, amémonos unos a otros; porque el amorG27
+- 1Jn_4:11a, si Dios nos ha amado así, debemosG27
+- 3Jn_1:1el anciano a Gayo, el a, a quien amo enG27
+- 3Jn_1:2a, yo deseo que tú seas prosperado en todasG27
+- 3Jn_1:5a, fielmente te conduces cuando prestasG27
+- 3Jn_1:11a, no imites lo malo, sino lo buenoG27
+- Jud_1:3a, por la gran solicitud que tenía deG27
+- Jud_1:17a, tened memoria de las palabras que antesG27
+- Jud_1:20a, edificándoos sobre nuestra santísima feG27
+- Rev_20:9rodearon el campamento...la ciudad aG25

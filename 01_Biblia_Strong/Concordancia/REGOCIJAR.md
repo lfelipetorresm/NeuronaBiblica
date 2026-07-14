@@ -1,0 +1,87 @@
+---
+tipo: concordancia
+palabra: REGOCIJAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REGOCIJAR
+
+- Éxo_32:6a beber, y se levantó a regocijarseH6711
+- Lev_23:40y os regocijaréis delante de JehováH8055
+- 1Sa_2:1mi corazón se regocija en Jehová, miH8055
+- 1Sa_6:13vieron el arca y se regocijaron cuandoH8055
+- 2Re_11:14el pueblo...se regocijaba, y tocabanH8055
+- 2Re_11:20el pueblo de la tierra se regocijó, yH8055
+- 1Cr_13:8se regocijaban delante de Dios conH8055
+- 2Cr_6:41tus santos se regocijen en tu bondadH8055
+- 2Cr_23:21y se regocijó todo el pueblo del paísH8055
+- Neh_12:43sacrificaron aquel día...regocijaronH8055
+- Est_8:15ciudad de Susa...se alegró y regocijóH6670
+- Job_21:12y se regocijan al son de la flautaH8055
+- Job_31:29si...me regocijé cuando le halló el malH8055
+- Job_38:7se regocijaban todos los hijos de Dios?
+- Sal_5:11se regocijen los que aman tu nombreH8055
+- Sal_9:2alegraré y me regocijaré en ti; cantaréH5970
+- Sal_35:9entonces...se regocijará, en su salvaciónH7797
+- Sal_60:8mi calzado; me regocijaré sobre FilisteaH7321
+- Sal_63:7en la sombra de tus alas me regocijaréH7442
+- Sal_85:6no...para que tu pueblo se regocije en ti?[[H8055]]
+- Sal_96:12regocíjese el campo, y todo lo que enH7442
+- Sal_97:1Jehová reina; regocíjese la tierraH1523
+- Sal_104:34dulce será mi...me regocijaré en JehováH8056
+- Sal_108:9calzado; me regocijaré sobre FilisteaH7321
+- Sal_109:28avergonzado, y regocíjese tu siervoH8055
+- Sal_119:16me regocijaré en tus estatutos; no meH8173
+- Sal_119:47y me regocijaré en tus mandamientosH8173
+- Sal_119:70sebo, mas yo en tu ley me he regocijadoH8173
+- Sal_119:117regocijaré siempre en tus estatutosH8159
+- Sal_119:162me regocijo en tu palabra como el queH7797
+- Sal_132:9de justicia, y se regocijen tus santosH7442
+- Sal_149:5regocíjense los santos por su gloria, yH5937
+- Pro_8:31me regocijo en la parte...de su tierraH7832
+- Pro_13:19el deseo cumplido regocija el alma; peroH6148
+- Pro_24:17cayere tu enemigo, no te regocijes, yH8055
+- Isa_5:14fausto, y el que en él se regocijabaH5938
+- Isa_8:6y se regocijó con Rezín y con el hijo deH4885
+- Isa_12:6regocíjate y canta, oh moradora de SionH6670
+- Isa_14:8aun los cipreses se regocijaron...de tiH8055
+- Isa_16:10viñas no cantarán, ni se regocijaránH7321
+- Isa_39:2y se regocijó con ellos Ezequías, y lesH8056
+- Isa_41:16te regocijarás en Jehová, te gloriarásH1523
+- Isa_54:1regocíjate, oh estéril, la que no dabaH7442
+- Jer_31:7regocijaos en Jacob con alegría, y dadH7442
+- Eze_35:14para que toda la tierra se regocijeH8055
+- Ose_10:5sacerdotes que en él se regocijabanH1523
+- Hab_1:15lo cual se alegrará y se regocijaráH8055
+- Sof_3:14gózate y regocíjate de todo corazónH5973
+- Sof_3:17amor, se regocijará sobre ti con cánticosH7797
+- Mat_2:10al ver...regocijaron con muy grande gozoG5463
+- Mat_18:13os digo que se regocija más por aquellaG5463
+- Luc_1:14muchos se regocijarán de su nacimientoG5463
+- Luc_1:47espíritu se regocija en Dios mi SalvadorG21
+- Luc_1:58oyeron los vecinos...regocijaron con ellaG4796
+- Luc_10:20no os regocijéis de que los espíritus seG5463
+- Luc_10:20sino regocijaos...nombres están escritosG5463
+- Luc_10:21hora Jesús se regocijó en el EspírituG21
+- Luc_12:19años; repósate, come, bebe, regocíjateG2165
+- Luc_13:17pero todo el pueblo se regocijaba porG5463
+- Luc_15:24es hallado...Y comenzaron a regocijarseG2165
+- Luc_15:32necesario hacer fiesta y regocijarnosG2165
+- Jua_5:35quisisteis regocijaros por un tiempoG21
+- Jua_14:28si me amarais, os habríais regocijadoG5463
+- Jua_20:20y los...se regocijaron viendo al SeñorG5463
+- Hec_7:41y en las obras de sus...se regocijaronG2165
+- Hec_11:23regocijó, y exhortó a todos a que conG5463
+- Hec_13:48gentiles, oyendo esto, se regocijabanG5463
+- Hec_15:31leído...regocijaron por la consolaciónG5463
+- Hec_16:34se regocijó con...de haber creído a DiosG21
+- 1Co_16:17regocijo con la venida de EstéfanasG5463
+- 2Co_7:7mí, de manera que me regocijé aún másG5463
+- Gál_4:27regocíjate, oh estéril, tú que no dasG2165
+- Flp_2:17me gozo y regocijo con todos vosotrosG4796
+- Flp_2:18gozaos y regocijaos...vosotros conmigoG4796
+- Flp_4:4regocijaos en el Señor siempre...digo: ¡R![[G5463]]
+- 2Jn_1:4mucho me regocijé porque he hallado aG5463
+- 3Jn_1:3regocijé cuando vinieron los hermanosG5463
+- Rev_11:10los moradores...tierra se regocijaránG5463

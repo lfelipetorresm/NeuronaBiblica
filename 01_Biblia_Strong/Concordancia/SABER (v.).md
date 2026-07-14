@@ -1,0 +1,871 @@
+---
+tipo: concordancia
+palabra: SABER (v.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SABER (v.)
+
+- Gén_3:5sino que sabe Dios...seréis como DiosH3045
+- Gén_3:5seréis como Dios, sabiendo el bien y elH3045
+- Gén_3:22como uno de nosotros, sabiendo el bienH3045
+- Gén_4:9respondió: No sé. ¿Soy yo acaso guardaH3045
+- Gén_9:24Noé...supo lo que le había hecho su hijoH3045
+- Gén_18:19sé que mandará a sus hijos y a su casaH3045
+- Gén_18:21si han consumado su...y si no, lo sabréH3045
+- Gén_20:6sé que con integridad de tu corazón hasH3045
+- Gén_20:7sabe que de cierto morirás tú, y todosH3045
+- Gén_21:26Abimelec: No sé quién haya hecho estoH3045
+- Gén_21:26tampoco tú me lo hiciste saber, ni yoH3045
+- Gén_24:21saber si Jehová había prosperado suH3045
+- Gén_24:28hizo saber en casa de su madre estasH5046
+- Gén_27:2ya soy viejo, no sé el día de mi muerteH3045
+- Gén_28:16Jehová está en este...y yo no lo sabíaH3045
+- Gén_30:26sabes los servicios que te he hechoH3045
+- Gén_30:29tú sabes cómo te he servido, y cómoH3045
+- Gén_31:6sabéis que con...mis fuerzas he servidoH3045
+- Gén_31:20engañó a Labán...no haciéndole saberH5046
+- Gén_31:27no me lo hiciste saber para que yo te despidieraH5046
+- Gén_31:32Jacob no sabía que Raquel los habíaH3045
+- Gén_33:13señor sabe que los niños son tiernosH3045
+- Gén_34:7vinieron del campo cuando lo supieronH8085
+- Gén_35:22fue Rubén...lo cual llegó a saber IsraelH8085
+- Gén_38:9y sabiendo Onán que la descendencia noH3045
+- Gén_38:16pues no sabía que era su nuera; y ellaH3045
+- Gén_41:39que Dios te ha hecho saber todo esto
+- Gén_42:23ellos no sabían que los entendía JoséH3045
+- Gén_42:34para que yo sepa que no sois espíasH3045
+- Gén_43:7¿acaso podíamos saber que él nos diríaH3045
+- Gén_43:22no sabemos quién haya puesto...dinero
+- Gén_44:15sabéis que un hombre...sabe adivinar?[[H3045]]
+- Gén_44:27vosotros sabéis que dos hijos me dioH3045
+- Gén_45:13haréis...saber a mi padre...mi gloria
+- Gén_46:30he visto tu rostro, y sé que aún vives
+- Gén_46:31y lo haré saber a Faraón, y le diré
+- Gén_47:1vino José y lo hizo saber a Faraón, yH5046
+- Gén_48:2y se le hizo saber a Jacob, diciendoH5046
+- Gén_48:19sé, hijo mío, lo s; también él vendráH3045
+- Éxo_3:19sé que el rey de Egipto no os dejaráH3045
+- Éxo_6:7sabréis que yo soy Jehová vuestro DiosH3045
+- Éxo_7:5y sabrán los egipcios que yo soy JehováH3045
+- Éxo_8:22a fin de que sepas que yo soy Jehová enH3045
+- Éxo_9:29para que sepas que de Jehová es la tierraH3045
+- Éxo_9:30yo sé que ni tú ni tus siervos temeréisH3045
+- Éxo_10:2señales...que sepáis que yo soy JehováH3045
+- Éxo_10:7no sabes...que Egipto está ya destruido?[[H3045]]
+- Éxo_10:26y no sabemos con qué hemos de servir aH3045
+- Éxo_11:7sepáis que Jehová hace diferencia entreH3045
+- Éxo_14:4, Éxo_14:18sabrán los egipcios que yo soy JehováH3045
+- Éxo_16:6la tarde sabréis que Jehová os ha sacadoH3045
+- Éxo_16:12saciaréis...y sabréis que yo soy JehováH3045
+- Éxo_16:15¿qué es esto? porque no sabían qué eraH3045
+- Éxo_16:22vinieron y...lo hicieron saber a MoisésH5046
+- Éxo_23:9sabéis cómo es el alma del extranjeroH3045
+- Éxo_31:13es señal...que sepáis que yo soy JehováH3045
+- Éxo_32:1, Éxo_32:23no sabemos qué le haya acontecidoH3045
+- Éxo_33:5para que yo sepa lo que te he de hacerH3045
+- Éxo_34:29no sabía Moisés, su rostro resplandecíaH3045
+- Éxo_36:1Jehová dio...para saber hacer toda la obraH3045
+- Lev_5:1testigo que...supo, y no lo denunciareH3045
+- Lev_5:2que no lo supiere, será inmunda y habrá
+- Lev_5:3después llegare a saberlo, será culpableH3045
+- Lev_23:43sepan...en tabernáculos hice yo habitarH3045
+- Núm_11:16tú sabes que son ancianos del puebloH3045
+- Núm_20:14tú has sabido todo el trabajo que nosH3045
+- Núm_22:6sé que el que tú bendigas será benditoH3045
+- Núm_22:19para que yo sepa qué me vuelve a decirH3045
+- Núm_22:34no sabía que tú te ponías delante de míH3045
+- Núm_24:16y el que sabe la ciencia del AltísimoH3045
+- Núm_32:23y sabed que vuestro pecado os alcanzaráH3045
+- Deu_1:39hijos que no saben...bueno ni lo maloH3045
+- Deu_2:7él sabe que andas por este gran desiertoH3045
+- Deu_3:19ganados (yo sé que tenéis mucho ganado)[[H3045]]
+- Deu_4:35para que supieses que Jehová es Dios, yH3045
+- Deu_8:2para saber lo que había en tu corazón, siH3045
+- Deu_8:3hacerte saber que no sólo de pan viviráH3045
+- Deu_9:6sabe que no es por tu justicia que...te daH3045
+- Deu_11:2con vuestros hijos que no han sabido niH3045
+- Deu_13:3para saber si amáis a Jehová...Dios conH3045
+- Deu_20:20el árbol que sepas que no lleva frutoH3045
+- Deu_21:1muerto...y no se supiere quién lo matóH3045
+- Deu_29:6supierais que yo soy Jehová vuestro DiosH3045
+- Deu_29:16sabéis cómo habitamos en la tierra deH3045
+- Deu_31:13los hijos de ellos que no supieron, oiganH3045
+- Deu_31:29porque yo sé que después de mi muerteH3045
+- Jos_2:4vinieron...pero no supe de dónde eranH3045
+- Jos_2:5hombres se salieron, y no sé a dónde hanH3045
+- Jos_2:9sé que Jehová os ha dado esta tierraH3045
+- Jos_3:4sepáis el camino por donde habéis de irH3045
+- Jos_8:14no sabiendo que estaba puesta emboscadaH3045
+- Jos_14:6sabes lo que Jehová dijo a Moisés, varónH3045
+- Jos_22:22Jehová...él sabe, y hace saber a IsraelH3045
+- Jos_23:13sabed que Jehová...Dios no arrojará másH3045
+- Jos_24:31sabían...obras que Jehová había hechoH3045
+- Jue_3:4probar con ellos a Israel, para saberH3045
+- Jue_13:16no sabía Manoa que aquél fuese ángelH3045
+- Jue_14:4mas...no sabían que esto venía de JehováH3045
+- Jue_15:11¿no sabes tú que los filisteos dominanH3045
+- Jue_16:9y no se supo el secreto de su fuerzaH3045
+- Jue_16:20él no sabía que Jehová...apartado de élH3045
+- Jue_17:13sé que Jehová me prosperará, porqueH3045
+- Jue_18:5pregunta...a Dios, para que sepamos siH3045
+- Jue_18:14¿no sabéis que en estas casas hay efodH3045
+- Jue_20:34no sabían...ya el desastre se acercabaH3045
+- Rut_2:11he sabido todo lo que has hecho con
+- Rut_3:11la gente de mi pueblo sabe que eres mujer virtuosaH3045
+- Rut_3:14dijo: No se sepa que vino mujer a laH3045
+- Rut_3:18que sepas cómo se resuelve el asuntoH3045
+- Rut_4:4y yo decidí hacértelo saber, y decirteH3045
+- Rut_4:4si no...decláramelo para que yo lo sepaH3045
+- 1Sa_3:13yo juzgaré...la iniquidad que él sabeH3045
+- 1Sa_4:6supieron que el arca...había sido traídaH3045
+- 1Sa_6:2hacednos saber de qué manera la hemosH3045
+- 1Sa_6:9sabremos que...esto ocurrió por accidenteH3045
+- 1Sa_14:1pasemos...y no lo hizo saber a su padreH5046
+- 1Sa_14:3no sabía el pueblo que Jonatán se habíaH3045
+- 1Sa_14:12subid a...y os haremos saber una cosa
+- 1Sa_14:38sabed...qué ha consistido este pecadoH3045
+- 1Sa_16:2dijo...Si Saúl lo supiera, me mataríaH8085
+- 1Sa_16:16que busquen a alguno que sepa tocar el arpaH3045
+- 1Sa_16:18que sabe tocar, y es valiente y vigoroso yH3045
+- 1Sa_17:46la tierra sabrá que hay Dios en IsraelH3045
+- 1Sa_17:47sabrá...esta congregación que Jehová noH3045
+- 1Sa_17:56vive tu alma, oh rey, que no lo sé
+- 1Sa_19:3hablaré a...y te haré saber lo que hayaH5046
+- 1Sa_19:21lo supo Saúl, envió otros mensajerosH5046
+- 1Sa_20:3padre sabe, dirá: No sepa esto JonatánH3045
+- 1Sa_20:7sabe que la maldad está determinada deH3045
+- 1Sa_20:9yo supiere que mi padre ha determinadoH3045
+- 1Sa_20:12si...enviaré a ti para hacértelo saber
+- 1Sa_20:13si no te lo hiciere saber y te enviare
+- 1Sa_20:30no sé yo que tú has elegido al hijo deH3045
+- 1Sa_21:2nadie sepa...del asunto a que te envíoH3045
+- 1Sa_22:1cuando...lo supieron, vinieron allí a élH8085
+- 1Sa_22:3hasta que sepa lo que Dios hará de míH3045
+- 1Sa_22:6oyó Saúl que se sabía de David y de losH8085
+- 1Sa_22:15porque tu siervo ninguna cosa sabe deH3045
+- 1Sa_22:17sabiendo...huía, no me lo descubrieronH3045
+- 1Sa_22:22sabía que estando allí aquel día DoegH3045
+- 1Sa_22:22Doeg...él lo había de hacer saber a SaúlH3045
+- 1Sa_23:17tú reinarás...Saúl mi padre así lo sabeH3045
+- 1Sa_25:7he sabido que tienes esquiladores. AhoraH8085
+- 1Sa_25:11darla a hombres que no sé de dónde son?[[H3045]]
+- 1Sa_26:4David...supo con certeza que Saúl habíaH3045
+- 1Sa_28:2bien, tú sabrás lo que hará tu siervoH3045
+- 1Sa_28:9tú sabes lo que Saúl ha hecho, cómo haH3045
+- 1Sa_29:9sé que tú eres bueno ante mis ojos, comoH3045
+- 2Sa_1:5dijo...¿Cómo sabes que han muerto SaúlH3045
+- 2Sa_1:10sabía que no podía vivir después de suH3045
+- 2Sa_2:26no sabes tú que el final será amargura?[[H3045]]
+- 2Sa_3:25venido...para saber todo lo que tú hacesH3045
+- 2Sa_3:26tras Abner...sin que David lo supieraH3045
+- 2Sa_3:28cuando David supo...dijo: Inocente soy yoH8085
+- 2Sa_3:36todo el pueblo supo esto, y le agradó
+- 2Sa_3:38¿no sabéis que un príncipe y...ha caídoH3045
+- 2Sa_7:11Jehová te hace saber que él te hará casaH5046
+- 2Sa_7:21has hecho...haciéndolas saber a tu siervoH3045
+- 2Sa_10:5se le hizo saber esto a David, envió aH5046
+- 2Sa_11:5a hacerlo saber a David...Estoy encintaH5046
+- 2Sa_11:10hicieron saber esto a David, diciendoH5046
+- 2Sa_11:16puso a Urías...donde sabía que estabanH3045
+- 2Sa_11:18envió Joab e hizo saber a David todosH5046
+- 2Sa_11:20¿no sabíais lo que suelen arrojar desdeH3045
+- 2Sa_12:18hacerle saber que el niño había muertoH5046
+- 2Sa_12:22¿quién sabe si Dios tendrá compasión deH3045
+- 2Sa_14:33vino...Joab al rey, y se lo hizo saberH5046
+- 2Sa_15:11iban en su sencillez, sin saber nadaH3045
+- 2Sa_17:8sabes que tu padre y...hombres valientesH3045
+- 2Sa_17:10todo Israel sabe que tu padre...valienteH3045
+- 2Sa_17:17y se lo hicieron saber al rey DavidH5046
+- 2Sa_17:18joven, el cual lo hizo saber a AbsalónH5046
+- 2Sa_17:19boca del pozo...y nada se supo del asuntoH3045
+- 2Sa_18:25atalaya dio voces...lo hizo saber al reyH5046
+- 2Sa_18:29vi yo un gran alboroto...no sé qué eraH3045
+- 2Sa_19:22no sé yo que hoy soy rey sobre Israel?[[H3045]]
+- 2Sa_24:2haz un censo...que yo sepa el número deH3045
+- 2Sa_24:13vino...Gad a David, y se lo hizo saberH3045
+- 1Re_1:11que reina Adonías...sin saberlo DavidH3045
+- 1Re_1:18ahora Adonías reina, y tú...no lo sabesH3045
+- 1Re_1:51se lo hicieron saber a Salomón, diciendoH3045
+- 1Re_2:5ya sabes tú lo que me ha hecho Joab hijo deH3045
+- 1Re_2:9y sabes cómo debes hacer con él; y harásH3045
+- 1Re_2:15él dijo: Tú sabes que el reino era míoH3045
+- 1Re_2:29le hizo saber a Salomón que Joab habíaH5046
+- 1Re_2:32mató a...sin que mi padre David supieseH3045
+- 1Re_2:37sabe de cierto que el día que salieres yH3045
+- 1Re_2:42que salieres...sabe de cierto que morirás?[[H3045]]
+- 1Re_2:44sabes todo el mal...tu corazón bien sabeH3045
+- 1Re_3:7yo soy joven, y no sé cómo entrar ni salirH3045
+- 1Re_5:3tú sabes que mi padre...no pudo edificarH3045
+- 1Re_5:6tú sabes...que ninguno hay entre nosotrosH3045
+- 1Re_8:60los pueblos de...sepan que Jehová es DiosH3045
+- 1Re_18:12de Jehová te llevará adonde yo no sepaH3045
+- 1Re_22:3dijo a...¿No sabéis que Ramot de GalaadH3045
+- 2Re_2:3, 2Re_2:5¿sabes que Jehová te quitará...lo séH3045
+- 2Re_4:1tú sabes que tu siervo era temeroso deH3045
+- 2Re_4:39cortó en la olla...no sabía lo que eraH3045
+- 2Re_5:6sabe...yo envío a ti a mi siervo NaamánH2009
+- 2Re_5:8a mí, y sabrá que hay profeta en IsraelH3045
+- 2Re_7:12saben que tenemos hambre, y han salidoH3045
+- 2Re_7:15volvieron los...y lo hicieron saber al reyH5046
+- 2Re_8:12porque sé el mal que harás a...de IsraelH3045
+- 2Re_10:10sabed...palabra que Jehová habló sobreH3045
+- 2Re_19:19que sepan todos los reinos...eres DiosH3045
+- 1Cr_12:32sabían lo que Israel debía hacerH3045
+- 1Cr_17:10te hago saber...Jehová te edificará casaH5046
+- 1Cr_21:2haced censo...el número...que yo lo sepaH3045
+- 1Cr_29:17sé...que tú escudriñas los corazones, yH3045
+- 2Cr_2:7un hombre hábil que sepa trabajar en oroH2450
+- 2Cr_2:8yo sé que tus siervos saben cortar maderaH3045
+- 2Cr_2:14el cual sabe trabajar en oro, plata, bronce yH3045
+- 2Cr_2:14asimismo sabe esculpir toda clase de figuras
+- 2Cr_4:18no pudo saberse el peso del bronceH3045
+- 2Cr_6:33y sepan que tu nombre es invocado sobreH3045
+- 2Cr_12:8que sepan lo que es servirme a mí, y queH3045
+- 2Cr_13:5sabéis...que Jehová...dio el reino a DavidH3045
+- 2Cr_20:12no sabemos qué hacer, y a ti volvemosH3045
+- 2Cr_25:16yo sé que Dios ha decretado destruirteH3045
+- 2Cr_32:13¿no habéis sabido lo que yo y mis padresH3045
+- 2Cr_32:31enviaron a él para saber del prodigioH3045
+- Esd_4:14hemos enviado a hacerlo saber al reyH3046
+- Esd_4:15sabrás que esta ciudad es ciudad rebeldeH3046
+- Esd_4:16hacemos saber al rey que si esta ciudadH3046
+- Esd_5:10para hacértelo saber, para escribirte losH3046
+- Esd_7:24os hacemos saber que a...los sacerdotesH3046
+- Neh_2:16no sabían...a dónde yo había ido, niH3045
+- Neh_4:11no sepan, ni vean, hasta que entremos enH3045
+- Neh_8:15que hiciesen saber, y pasar pregón porH8085
+- Neh_9:10porque sabías que habían procedido conH3045
+- Neh_13:7supe del mal que había hecho Eliasib porH995
+- Neh_13:24porque no sabían hablar judaico, sinoH5234
+- Est_1:13con todos los que sabían la ley y elH5234
+- Est_2:11para saber cómo le iba a Ester, y cómoH3045
+- Est_4:1luego que supo...todo lo que se había hechoH3045
+- Est_4:5mandó a...con orden de saber qué sucedíaH3045
+- Est_4:11saben que cualquier hombre o mujer queH3045
+- Est_4:14quién sabe si para esta hora has llegadoH3045
+- Job_3:23vida al hombre que no sabe por donde
+- Job_5:24sabrás...hay paz en tu tienda; visitarásH3045
+- Job_8:9nosotros somos de ayer, y nada sabemosH3045
+- Job_9:2yo sé que es así: ¿y cómo se justificaráH3045
+- Job_9:5arranca...y no saben quién los trastornóH3045
+- Job_9:28turban...sé que no me tendrás por inocenteH3045
+- Job_10:7aunque tú sabes que no soy impío, y queH1847
+- Job_10:13estas cosas, sé que están cerca de tiH3045
+- Job_13:2como vosotros lo sabéis, lo sé yo; no soyH1847
+- Job_13:18yo expusiere...sé que seré justificadoH3045
+- Job_14:21tendrán honores, pero él no lo sabráH3045
+- Job_15:9¿qué sabes tú que no sepamos?...entiendesH3045
+- Job_15:23sabe...está preparado día de tinieblasH3045
+- Job_19:6sabed ahora que Dios me ha derribado, yH3045
+- Job_19:25yo sé que mi Redentor vive, y al fin seH3045
+- Job_19:29furor...para que sepáis que hay un juicioH3045
+- Job_20:4¿no sabes...que así fue siempre, desdeH3045
+- Job_22:13¿y dirás tú: ¿Qué sabe Dios? ¿CómoH3045
+- Job_23:3me diera el saber dónde hallar a Dios![[H3045]]
+- Job_23:5yo sabría lo que él me respondiese, yH3045
+- Job_30:23sé que me conduces a la muerte, y a laH3045
+- Job_32:22porque no sé hablar lisonjasH3045
+- Job_33:3y lo que saben mis labios, lo hablaránH1847
+- Job_34:33retribuirá...dí, si no, lo que tú sabesH3045
+- Job_37:15¿sabes tú...Dios las pone en conciertoH3045
+- Job_38:4házmelo saber, si tienes inteligenciaH5046
+- Job_38:5¿quién ordenó sus medidas, si lo sabes?[[H3045]]
+- Job_38:18¿has considerado tú...Declara si sabesH3045
+- Job_38:21¡tú lo sabes! Pues entonces ya habíasH3045
+- Job_38:33¿supiste tú las ordenanzas de...cielosH3045
+- Job_39:1¿sabes tú el tiempo en que paren lasH3045
+- Job_39:2y sabes el tiempo cuando han de parir?[[H3045]]
+- Sal_4:3sabed...Jehová ha escogido al piadosoH3045
+- Sal_35:8el quebrantamiento sin que lo sepa, y laH3045
+- Sal_35:11malvados; de lo que no sé me preguntanH3045
+- Sal_39:4hazme saber, Jehová, mi fin, y cuánta seaH3045
+- Sal_39:4de mis días; sepa yo cuán frágil soyH3045
+- Sal_39:6amontona...y no sabe quien las recogeráH3045
+- Sal_40:9aquí, no refrené mis labios, tú lo sabesH3045
+- Sal_56:9vueltos...esto sé, que Dios está por míH3045
+- Sal_59:13sépase que Dios gobierna en Jacob hastaH3045
+- Sal_69:19tú sabes mi afrenta, mi confusión y miH3045
+- Sal_71:15boca publicará...aunque no sé su númeroH3045
+- Sal_73:11¿cómo sabe Dios? ¿Y hay conocimientoH3045
+- Sal_73:16cuando pensé para saber esto, fue duroH3045
+- Sal_74:9ni entre nosotros hay quien sepa hastaH3045
+- Sal_78:6para que lo sepa la generación venideraH3045
+- Sal_82:5no saben, no entienden...tiemblan todosH3045
+- Sal_89:15bienaventurado el que sabe aclamarteH3045
+- Sal_92:6el hombre necio no sabe, y el insensatoH3045
+- Sal_94:10¿no sabrá el que enseña al hombre la
+- Sal_135:5yo sé que Jehová es grande, y el SeñorH3045
+- Sal_139:4y he aquí, oh Jehová, tú la sabes todaH3045
+- Sal_139:14estoy maravillado, y mi alma lo sabeH3045
+- Sal_140:12yo sé que Jehová tomará a su cargo laH3045
+- Sal_143:8hazme saber el camino por donde andeH3045
+- Sal_145:12para hacer saber...Sus poderosos hechosH3045
+- Pro_1:23volveos...y os haré saber mis palabrasH3045
+- Pro_4:19la oscuridad; no saben en qué tropiezanH3045
+- Pro_7:23y no sabe que es contra su vida, hastaH3045
+- Pro_9:18no saben que allí están los muertos; queH3045
+- Pro_10:32los labios del justo saben hablar lo que agradaH3045
+- Pro_22:19te las he hecho saber hoy a ti tambiénH3045
+- Pro_22:21para hacerte saber la certidumbre de lasH3045
+- Pro_24:12si dijeres: Ciertamente no lo supimosH3045
+- Pro_25:8no sea que no sepas qué hacer al fin
+- Pro_26:16más sabio que siete que sepan aconsejar
+- Pro_27:1porque no sabes qué dará de sí el díaH3045
+- Pro_28:22y no sabe que te ha de venir pobrezaH3045
+- Pro_30:4¿cuál es su nombre, y...hijo, si sabes?
+- Pro_30:18son ocultas; aun tampoco sé la cuartaH3045
+- Ecl_2:19¿quién sabe si será sabio o necio elH3045
+- Ecl_3:21¿quién sabe que el espíritu de...hombresH3045
+- Ecl_5:1los necios; porque no saben que hacen malH3045
+- Ecl_6:8pobre que supo caminar entre los vivos?[[H3045]]
+- Ecl_6:10y se sabe que es hombre y que no puedeH3045
+- Ecl_6:12¿quién sabe cuál es el bien del hombreH3045
+- Ecl_7:22corazón sabe que tú también dijiste malH3045
+- Ecl_7:25fijé mi corazón para saber y examinarH3045
+- Ecl_8:1¿y quién como el que sabe la declaraciónH3045
+- Ecl_8:7pues no sabe lo que ha de ser; y el cuándoH3045
+- Ecl_8:12sé...les irá bien a los que a Dios temenH3045
+- Ecl_9:1que sea amor o...no lo saben los hombresH3045
+- Ecl_9:5los que viven saben...los muertos nada sH3045
+- Ecl_10:14aunque no sabe nadie lo que ha de ser
+- Ecl_10:14¿y quién le hará saber lo que después
+- Ecl_10:15los necios...no saben por dónde ir a laH3045
+- Ecl_10:20que tienen alas harán saber la palabraH5046
+- Ecl_11:2porque no sabes el mal que vendrá sobreH3045
+- Ecl_11:5tú no sabes cuál es el camino del vientoH3045
+- Ecl_11:6porque no sabes cuál es lo mejor, si estoH3045
+- Ecl_11:9pero sabe, que sobre todas estas cosasH3045
+- Cnt_1:7hazme saber...dónde apacientas, dóndeH5046
+- Cnt_1:8si tú no lo sabes, oh hermosa...vé, sigueH3045
+- Cnt_5:8que le hagáis saber que estoy enferma deH5046
+- Cnt_6:12antes que lo supiera, mi alma me pusoH3045
+- Isa_5:19venga el consejo...para que lo sepamosH3045
+- Isa_7:15hasta que sepa desechar lo malo y escoger lo buenoH3045
+- Isa_7:16sepa desechar lo malo y escoger lo buenoH3045
+- Isa_8:4antes que el niño sepa decir: Padre mío, yH3045
+- Isa_9:9y la sabrá todo el pueblo, Efraín y losH3045
+- Isa_12:5hecho...sea sabido esto por toda la tierraH3045
+- Isa_19:12o te hagan saber qué es lo que JehováH3045
+- Isa_21:6pon centinela que haga saber lo que veaH5046
+- Isa_29:11el cual si dieren al que sabe leer, y le dijeren
+- Isa_29:12al que no sabe leer...dirá: No sé leer
+- Isa_32:4corazón de...necios entenderá para saberH1847
+- Isa_39:1porque supo que había estado enfermo, yH8085
+- Isa_40:21¿no sabéis? ¿No habéis oído? ¿Nunca osH3045
+- Isa_40:28¿no has sabido...que el Dios eterno esH3045
+- Isa_41:22dígannos...sepamos también...postrimeríaH3045
+- Isa_41:23que sepamos que vosotros sois diosesH3045
+- Isa_41:26desde el principio, para que sepamosH3045
+- Isa_42:16a los ciegos por camino que no sabíanH3045
+- Isa_44:18no saben ni entienden; porque cerradosH3045
+- Isa_45:3que sepas que yo soy Jehová, el Dios deH3045
+- Isa_45:6que se sepa desde el nacimiento del solH3045
+- Isa_47:11vendrá...mal, cuyo nacimiento no sabrásH3045
+- Isa_47:11y destrucción que no sepas vendrá deH3045
+- Isa_48:6te he hecho oír cosas...que tú no sabíasH3045
+- Isa_48:7que no digas: He aquí que yo lo sabíaH3045
+- Isa_48:8porque sabía que siendo desleal habíasH3045
+- Isa_50:4para saber hablar palabras al cansadoH3045
+- Isa_50:7pedernal, y sé que no seré avergonzadoH3045
+- Isa_52:6pueblo sabrá mi nombre por esta causa enH3045
+- Isa_56:11y los pastores mismos no saben entender
+- Isa_58:2me buscan...y quieren saber mis caminosH1847
+- Jer_1:6he aquí, no sé hablar, porque soy niñoH3808
+- Jer_2:19sabe, pues, y ve cuán malo y amargoH3045
+- Jer_4:22el mal, pero hacer el bien no supieronH3045
+- Jer_6:15ni aun saben tener vergüenza
+- Jer_8:12ni supieron avergonzarse; caerán, por tanto
+- Jer_11:18y Jehová me lo hizo saber, y lo conocíH3045
+- Jer_13:12¿no sabemos que toda tinaja se llenaráH3045
+- Jer_15:15tú lo sabes...s que por amor de ti sufroH3045
+- Jer_16:21y mi poder, y sabrán que mi nombre esH3045
+- Jer_17:16ni deseé día de calamidad, tú lo sabesH3045
+- Jer_26:15mas sabed de cierto que si me matáisH3045
+- Jer_29:11sé los pensamientos que tengo acerca deH3045
+- Jer_29:23lo cual yo sé y testifico, dice JehováH3045
+- Jer_31:10hacedlo saber en las costas que estánH5046
+- Jer_36:19vé y escóndete...nadie sepa dónde estáisH3045
+- Jer_38:24a Jeremías: Nadie sepa estas palabrasH3045
+- Jer_40:14¿no sabes que Baalis rey de los hijosH3045
+- Jer_40:15mataré a Ismael hijo...ningún...lo sabráH3045
+- Jer_41:4día después...cuando nadie lo sabía aúnH3045
+- Jer_42:19no vayáis a Egipto; sabed ciertamenteH3045
+- Jer_42:20haznos saber todas las cosas...dijereH5046
+- Jer_42:22sabed de cierto que a espada, de hambreH3045
+- Jer_44:15sabían que sus mujeres habían ofrecidoH3045
+- Jer_44:28sabrá...el resto de Judá que ha entradoH3045
+- Jer_44:29sepáis que de cierto permanecerán misH3045
+- Jer_46:14haced saber en Migdol; haced s...MenfisH5046
+- Jer_48:17todos los que sabéis su nombre, decidH3045
+- Jer_50:2anunciad en las naciones, y haced saberH5046
+- Jer_50:24fuiste tomada, oh...y tú no lo supisteH3045
+- Eze_5:13y sabrán que yo Jehová he hablado enH3045
+- Eze_6:7los muertos caerán...y sabréis que yo soyH3045
+- Eze_6:10y sabrán que yo soy Jehová; no en vanoH3045
+- Eze_6:13y sabréis que yo soy Jehová, cuando susH3045
+- Eze_7:4ojo no te perdonará...sabréis que yo soyH3045
+- Eze_7:9sabréis que yo Jehová soy el que castigaH3045
+- Eze_7:27los juzgaré; y sabrán que yo soy JehováH3045
+- Eze_11:10os juzgaré, y sabréis que yo soy JehováH3045
+- Eze_11:12y sabréis que yo soy Jehová; porque noH3045
+- Eze_12:15y sabrán que yo soy Jehová, cuando losH3045
+- Eze_12:16escapen de...y sabrán que yo soy JehováH3045
+- Eze_12:20será asolada; y sabréis que...soy JehováH3045
+- Eze_13:9ni...volverán; sabréis que yo soy JehováH3045
+- Eze_13:14consumidos...y sabréis que yo soy JehováH3045
+- Eze_13:21libraré a mi pueblo...y sabréis que yoH3045
+- Eze_13:23libraré mi...sabrás que yo soy JehováH3045
+- Eze_14:8lo cortaré...y sabréis que yo soy JehováH3045
+- Eze_15:7mi rostro...y sabréis que yo soy JehováH3045
+- Eze_16:62por mi pacto...y sabrás que yo soy JehováH3045
+- Eze_17:21y sabréis que yo Jehová he habladoH3045
+- Eze_17:24y sabrán...que yo Jehová abatí el árbolH3045
+- Eze_20:12para que supiesen que yo soy Jehová queH3045
+- Eze_20:20sepáis que yo soy Jehová vuestro DiosH3045
+- Eze_20:26desolarlos y hacerles saber que yo soyH3045
+- Eze_20:38entrarán; y sabréis que yo soy JehováH3045
+- Eze_20:42y sabréis que yo soy Jehová, cuando osH3045
+- Eze_20:44sabréis que yo soy Jehová...cuando hagaH3045
+- Eze_21:5y sabrá toda carne que yo Jehová saquéH3045
+- Eze_22:16degradada...y sabrás que yo soy JehováH3045
+- Eze_22:22y sabréis que yo Jehová habré derramadoH3045
+- Eze_23:49idolatría; y sabréis que yo soy JehováH3045
+- Eze_24:24esto ocurra, sabréis que yo soy JehováH3045
+- Eze_24:27por señal, y sabrán que yo soy JehováH3045
+- Eze_25:5pondré a Rabá por...y sabréis que yo soyH3045
+- Eze_25:7te cortaré...y sabrás que yo soy JehováH3045
+- Eze_25:11Moab haré juicios, y sabrán que yo soyH3045
+- Eze_25:17sabrán que yo soy Jehová, cuando hagaH3045
+- Eze_26:6serán muertas...sabrán que yo soy JehováH3045
+- Eze_28:22sabrán que yo soy Jehová, cuando hagaH3045
+- Eze_28:23con espada...y sabrán que yo soy JehováH3045
+- Eze_28:24nunca más...y sabrán que yo soy JehováH3045
+- Eze_28:26haga...sabrán que yo soy Jehová su DiosH3045
+- Eze_29:6y sabrán...de Egipto que yo soy JehováH3045
+- Eze_29:9y sabrán que yo soy Jehová; por cuantoH3045
+- Eze_29:16haga recordar...sabrán que yo soy JehováH3045
+- Eze_29:21y abriré tu boca...y sabrán que yo soyH3045
+- Eze_30:8sabrán que yo soy Jehová, cuando pongaH3045
+- Eze_30:19en Egipto, y sabrán que yo soy JehováH3045
+- Eze_30:25y sabrán que yo soy Jehová, cuando yoH3045
+- Eze_30:26dispersaré...y sabrán que yo soy JehováH3045
+- Eze_32:15cuando mate...sabrán que yo soy JehováH3045
+- Eze_33:29y sabrán que yo soy Jehová...conviertaH3045
+- Eze_33:33sabrán que hubo profeta entre ellosH3045
+- Eze_34:27seguridad; y sabrán que yo soy JehováH3045
+- Eze_34:30sabrán que yo Jehová...estoy con ellosH3045
+- Eze_35:4serás asolado...sabrás que yo soy JehováH3045
+- Eze_35:9te pondré...y sabréis que yo soy JehováH3045
+- Eze_35:12sabrás que...he oído todas tus injuriasH3045
+- Eze_35:15asolado será...sabrán que yo soy JehováH3045
+- Eze_36:11haré morar...sabréis que yo soy JehováH3045
+- Eze_36:23sabrán las naciones que yo soy JehováH3045
+- Eze_36:32no lo hago por vosotros...sabedlo bienH3045
+- Eze_36:36sabrán que yo reedifiqué lo que estabaH3045
+- Eze_36:38de hombres; y sabrán que yo soy JehováH3045
+- Eze_37:3¿vivirán estos...Señor Jehová, tú lo sabesH3045
+- Eze_37:6y viviréis; y sabréis que yo soy JehováH3045
+- Eze_37:13sabréis que yo soy Jehová, cuando abraH3045
+- Eze_37:14sabréis que yo Jehová hablé, y lo hiceH3045
+- Eze_37:28y sabrán...yo Jehová santifico a IsraelH3045
+- Eze_38:14habite con seguridad, ¿no lo sabrás tú?[[H3045]]
+- Eze_38:23seré conocido...sabrán que yo soy JehováH3045
+- Eze_39:6enviaré fuego...sabrán que yo soy JehováH3045
+- Eze_39:7sabrán...que yo soy Jehová, el Santo enH3045
+- Eze_39:22sabrá la casa de Israel que yo...su DiosH3045
+- Eze_39:23sabrán las, que la casa de Israel fueH3045
+- Eze_39:28y sabrán que yo soy...su Dios, cuandoH3045
+- Dan_2:3mi espíritu se ha turbado por saber elH3045
+- Dan_2:9sepa que me podéis dar su interpretaciónH3045
+- Dan_2:15Arioc hizo saber a Daniel lo que habíaH3046
+- Dan_2:17fue...e hizo saber lo que había a AnaníaH3046
+- Dan_2:28él ha hecho saber al rey NabucodonosorH3046
+- Dan_2:29oh rey...por saber lo que había de serH3046
+- Dan_3:18sepas, oh rey, que no serviremos a tusH3046
+- Dan_5:22no has humillado tu...sabiendo todo estoH3046
+- Dan_5:23ni ven, ni oyen, ni saben; y al Dios enH3046
+- Dan_6:10supo que el edicto había sido firmadoH3046
+- Dan_6:15sepas, oh rey, que es ley de Media y deH3046
+- Dan_7:19tuve deseo de saber la verdad acerca deH3046
+- Dan_9:25sabe...y entiende, que desde la salida deH3045
+- Dan_10:14para hacerte saber lo que ha de venirH995
+- Dan_10:20me dijo: ¿Sabes por qué he venido a ti?[[H3045]]
+- Ose_7:9canas le han cubierto, y él no lo supoH3045
+- Ose_7:9devoraron extraños su fuerza...no lo supoH3045
+- Ose_8:4constituyeron príncipes...yo no lo supeH3045
+- Ose_14:9¿quién es...y prudente para que lo sepa?[[H3045]]
+- Joe_2:14¿quién sabe si volverá y...arrepentiráH3045
+- Amó_3:10no saben hacer lo recto, dice JehováH3045
+- Amó_5:12yo sé de vuestras muchas rebeliones, yH3045
+- Amó_5:12yo...sé que afligís al justo, y recibísH3045
+- Amó_5:16y a endecha a los que sepan endecharH3045
+- Jon_1:7que sepamos por causa de quién nos haH3045
+- Jon_1:10sabían que huía...la presencia de JehováH3045
+- Jon_1:12sé que por mi causa ha venido esta granH3045
+- Jon_3:9¿quién sabe si se volverá y...arrepentirá
+- Jon_4:2porque sabía yo que tú eres Dios clementeH3045
+- Jon_4:11personas que no saben discernir entre suH3808
+- Miq_3:1¿no concierne a vosotros saber lo queH3045
+- Zac_2:9sabréis que Jehová de los...me envióH3045
+- Zac_4:5me dijo: ¿No sabes qué es esto? Y dijeH3045
+- Zac_4:13¿no sabes qué es esto? Y dije: Señor míoH3045
+- Mal_2:4sabréis que yo os envié...mandamientoH3045
+- Mat_2:8y cuando le halléis, hacédmelo saber
+- Mat_6:3des limosna, no sepa tu izquierda lo queG1097
+- Mat_6:8Padre sabe de qué cosas tenéis necesidadG1492
+- Mat_6:32vuestro Padre celestial sabe que tenéisG1492
+- Mat_7:11si vosotros...sabéis dar buenas dádivasG1492
+- Mat_9:6que sepáis que el Hijo del Hombre tieneG1492
+- Mat_9:30les encargó...Mirad que nadie lo sepaG1097
+- Mat_10:26nada...ni oculto, que no haya de saberseG1097
+- Mat_11:4y haced saber a Juan las cosas que oís
+- Mat_12:7si supieseis qué significa: MisericordiaG1097
+- Mat_12:15sabiendo esto Jesús, se apartó de allíG1097
+- Mat_12:25sabiendo Jesús los pensamientos de ellosG1492
+- Mat_13:11es dado saber los misterios del reinoG1097
+- Mat_15:12¿sabes que los fariseos se ofendieronG1492
+- Mat_16:3sabéis distinguir el aspecto del cieloG1097
+- Mat_20:22no sabéis lo que pedís...¿Podéis beberG1492
+- Mat_20:25dijo: Sabéis que los gobernantes de lasG1492
+- Mat_21:27y respondiendo a...dijeron: No sabemos
+- Mat_22:16sabemos que eres amante de la verdadG1492
+- Mat_24:32brotan...sabéis que el verano está cercaG1097
+- Mat_24:36del día y la hora nadie sabe, ni aun losG1492
+- Mat_24:42porque no sabéis a qué hora ha de venirG1492
+- Mat_24:43sabed esto, que si el padre de familiaG1097
+- Mat_24:43supiese a qué hora el ladrón habría deG1492
+- Mat_24:50vendrá el señor...a la hora que no sabeG1097
+- Mat_25:13no sabéis el día ni la hora en que elG1492
+- Mat_25:26sabías que siego donde no sembré, y queG1492
+- Mat_26:2sabéis que dentro de dos días se celebraG1492
+- Mat_26:70él negó...diciendo: No sé lo que dicesG1492
+- Mat_27:18sabía...por envidia le habían entregadoG1492
+- Mat_27:65les dijo...id...aseguradlo como sabéisG1492
+- Mat_28:5porque yo sé que buscáis a Jesús, el queG1492
+- Mar_1:24tienes...Jesús nazareno?...Sé quién eresG1492
+- Mar_2:10para que sepáis que el Hijo del HombreG1492
+- Mar_4:11os es dado saber el misterio del reinoG1097
+- Mar_4:13y les dijo: ¿No sabéis esta parábola?[[G1492]]
+- Mar_4:27la semilla...crece sin que él sepa cómoG1492
+- Mar_5:33la mujer...sabiendo lo que en ella habíaG1492
+- Mar_5:43les mandó mucho que nadie lo supiese, yG1097
+- Mar_6:20sabiendo que era varón justo y santo, yG1492
+- Mar_6:38al saberlo, dijeron: Cinco, y dos pecesG1097
+- Mar_7:24no quiso que nadie lo supiese; pero noG1097
+- Mar_9:6no sabía lo que hablaba, pues estabanG1492
+- Mar_9:30salido...no quería que nadie lo supieseG1097
+- Mar_10:19los mandamientos sabes: No adulteresG1492
+- Mar_10:38no sabéis lo que pedís...¿Podéis beberG1492
+- Mar_10:42les dijo: Sabéis que los que son tenidosG1492
+- Mar_11:33dijeron a Jesús: No sabemos...Entonces
+- Mar_12:14Maestro, sabemos que eres hombre verazG1492
+- Mar_12:28y sabía que les había respondido bienG1492
+- Mar_13:28brotan las hojas, sabéis que el veranoG1097
+- Mar_13:32de aquel día y de la hora nadie sabe, niG1492
+- Mar_13:33porque no sabéis cuándo será el tiempoG1492
+- Mar_13:35no sabéis cuándo vendrá el señor de laG1492
+- Mar_14:40durmiendo...y no sabían qué responderleG1492
+- Mar_14:68negó...No le conozco, ni sé lo que dicesG1492
+- Mar_16:10lo hizo saber a los que habían estadoG518
+- Mar_16:13ellos fueron y lo hicieron saber a losG518
+- Luc_2:43se quedó...sin que lo supiesen José yG1097
+- Luc_2:49¿no sabíais que en los negocios de miG1492
+- Luc_4:41demonios...sabían que él era el Cristo
+- Luc_5:24para que sepáis que el Hijo del HombreG1492
+- Luc_7:22haced saber a Juan lo que habéis vistoG518
+- Luc_7:37al saber que Jesús estaba a la mesa enG1921
+- Luc_8:53se burlaban...sabiendo que estaba muertaG1492
+- Luc_9:11cuando la gente lo supo, le siguió; y élG1097
+- Luc_9:33Pedro dijo a...no sabiendo lo que decíaG1492
+- Luc_9:55vosotros no sabéis de qué espíritu soisG1492
+- Luc_10:11pero esto sabed, que el reino de DiosG1097
+- Luc_11:13si vosotros...sabéis dar buenas dádivasG1492
+- Luc_11:44hombres que andan encima no lo sabenG1492
+- Luc_12:2nada...ni oculto, que no haya de saberseG1097
+- Luc_12:30Padre sabe que tenéis necesidad de estasG1492
+- Luc_12:39sabed esto, que si supiese el padre deG1097
+- Luc_12:46vendrá el señor...a la hora que no sabeG1097
+- Luc_12:56sabéis distinguir el aspecto del cieloG1381
+- Luc_13:25respondiendo...dirá: No sé de dónde soisG1492
+- Luc_13:27dirá: Os digo que no sé de dónde soisG1492
+- Luc_14:21el siervo, hizo saber estas cosas a su
+- Luc_16:4ya sé lo que haré para que cuando se meG1097
+- Luc_18:20los mandamientos sabes...no matarás; noG1492
+- Luc_19:15saber lo que había negociado cada unoG1097
+- Luc_19:22juzgo...Sabías que yo era hombre severoG1492
+- Luc_20:7respondieron que no sabían de dónde fuese
+- Luc_20:21sabemos que dices y enseñas rectamenteG1492
+- Luc_21:20sabed...que su destrucción ha llegadoG1097
+- Luc_21:30sabéis por...que el verano está ya cercaG1097
+- Luc_21:31sabed que está cerca el reino de DiosG1097
+- Luc_22:60Pedro dijo: Hombre, no sé lo que dicesG1492
+- Luc_23:7al saber que era de la jurisdicción deG1921
+- Luc_23:34Padre, perdónalos...no saben lo que hacenG1492
+- Luc_24:18no has sabido las cosas que en ella hanG1097
+- Jua_2:9sin saber él...lo sabían los sirvientesG1492
+- Jua_2:25pues él sabía lo que había en el hombreG1097
+- Jua_3:2Rabí, sabemos que has venido de Dios comoG1492
+- Jua_3:8mas ni sabes de dónde viene, ni a dónde
+- Jua_3:10¿eres tú maestro de...y no sabes esto?[[G1097]]
+- Jua_3:11lo que sabemos hablamos, y lo que hemosG1492
+- Jua_4:22adoráis lo que no sabéis; nosotrosG1492
+- Jua_4:22nosotros adoramos lo que sabemos; porqueG1492
+- Jua_4:25sé que ha de venir el Mesías, llamado elG1492
+- Jua_4:32yo tengo una comida...vosotros no sabéisG1492
+- Jua_4:42sabemos...éste es el Salvador del mundoG1492
+- Jua_5:6supo que llevaba ya mucho tiempo así, leG1097
+- Jua_5:13el que había sido sanado no sabía quiénG1492
+- Jua_5:32y sé que el testimonio que da de mí esG1492
+- Jua_6:6porque él sabía lo que había de hacerG1492
+- Jua_6:61sabiendo...discípulos murmuraban de estoG1492
+- Jua_6:64sabía...quiénes eran los que no creían, yG1492
+- Jua_7:15sabe éste letras, sin haber estudiado?[[G1492]]
+- Jua_7:27éste, sabemos de dónde es; mas cuandoG1492
+- Jua_7:27venga el Cristo, nadie sabrá de dóndeG1097
+- Jua_7:28a mí me conocéis, y sabéis de dónde soyG1492
+- Jua_7:49esta gente que no sabe la ley, malditaG1097
+- Jua_7:51si...no le oye, y sabe lo que ha hecho?[[G1097]]
+- Jua_8:14porque sé de dónde he venido y a dóndeG1492
+- Jua_8:14no sabéis de dónde vengo, ni a dónde voyG1492
+- Jua_8:37sé que sois descendientes de AbrahamG1097
+- Jua_9:12dijeron: ¿Dónde está él? El dijo: No séG1492
+- Jua_9:20sabemos que éste es nuestro hijo, y queG1492
+- Jua_9:21cómo vea ahora, no lo sabemos; o quiénG1492
+- Jua_9:21nosotros tampoco lo sabemos; edad tieneG1492
+- Jua_9:24nosotros sabemos...ese hombre es pecadorG1492
+- Jua_9:25no lo sé; una cosa sé, que habiendo yoG1492
+- Jua_9:29sabemos que Dios ha hablado a MoisésG1492
+- Jua_9:29respecto a ése, no sabemos de dónde seaG1492
+- Jua_9:30que...no sepáis de dónde sea, y a mí meG1492
+- Jua_9:31sabemos que Dios no oye a los pecadoresG1492
+- Jua_11:22sé ahora que todo lo que pidas a DiosG1492
+- Jua_11:24yo sé que resucitará en la resurrecciónG1492
+- Jua_11:42yo sabía que siempre me oyes; pero loG1492
+- Jua_11:49Caifás...dijo: Vosotros no sabéis nadaG1492
+- Jua_11:57de que si alguno supiese dónde estabaG1097
+- Jua_12:9los judíos supieron...que él estaba allíG1097
+- Jua_12:35anda en tinieblas, no sabe a dónde vaG1492
+- Jua_12:50y sé que su mandamiento es vida eternaG1492
+- Jua_13:1sabiendo Jesús que su hora había llegadoG1492
+- Jua_13:3sabiendo Jesús que el Padre le había dadoG1492
+- Jua_13:11sabía quién le iba a entregar; por esoG1492
+- Jua_13:12y les dijo: ¿Sabéis lo que os he hecho?[[G1097]]
+- Jua_13:17si sabéis estas cosas, bienaventuradosG1492
+- Jua_13:18yo sé a quienes he elegido; mas para queG1492
+- Jua_14:4y sabéis a dónde voy, y s el caminoG1492
+- Jua_14:5dijo Tomás: Señor, no sabemos a dónde vasG1492
+- Jua_14:5cómo, pues, podemos saber el camino?
+- Jua_15:15porque el siervo no sabe lo que hace su señorG1492
+- Jua_15:18sabed que a mí me ha aborrecido antesG1097
+- Jua_16:13os hará saber las cosas que...de venirG1097
+- Jua_16:14-15tomará de lo mío, y os lo hará saber
+- Jua_16:30entendemos que sabes todas las cosasG1492
+- Jua_18:4Jesús, sabiendo todas las cosas que leG1492
+- Jua_18:21he aquí, ellos saben lo que yo he dichoG1492
+- Jua_19:10hablas? ¿No sabes que tengo autoridadG1492
+- Jua_19:28sabiendo Jesús...todo estaba consumadoG1492
+- Jua_19:35y él sabe que dice verdad, para queG1492
+- Jua_20:2llevado...no sabemos dónde le han puestoG1492
+- Jua_20:13han llevado...no sé dónde le han puestoG1492
+- Jua_20:14y vio a Jesús...no sabía que era JesúsG1492
+- Jua_21:4los discípulos no sabían que era JesúsG1492
+- Jua_21:12quién eres? sabiendo que era el SeñorG1492
+- Jua_21:15-16, Jua_21:17¿me amas?...tú sabes que te amoG1492
+- Jua_21:24sabemos que su testimonio es verdaderoG1492
+- Hec_1:7no os toca a vosotros saber...tiemposG1097
+- Hec_2:22Dios hizo..como vosotros mismos sabéisG1492
+- Hec_2:30sabiendo que con juramento Dios le habíaG1492
+- Hec_2:36sepa...toda la casa de Israel, que a esteG1097
+- Hec_3:17sé que por ignorancia lo habéis hechoG1492
+- Hec_4:13sabiendo que eran hombres sin letras, yG2638
+- Hec_5:2sustrajo del precio, sabiéndolo tambiénG4894
+- Hec_5:7entró...no sabiendo lo que había acontecidoG1492
+- Hec_7:40este...no sabemos qué le haya acontecidoG1492
+- Hec_9:30supieron esto los hermanos, le llevaronG1921
+- Hec_10:28vosotros sabéis cuán abominable es paraG1987
+- Hec_10:37sabéis lo que se divulgó por toda JudeaG1492
+- Hec_12:9no sabía que era verdad lo que hacía elG1492
+- Hec_12:17y dijo: Haced saber esto a Jacobo y a
+- Hec_13:38sabed, pues, esto, varones hermanos; queG1110
+- Hec_14:6habiéndolo sabido, huyeron a Listra y
+- Hec_15:7sabéis cómo...Dios escogió que...gentilesG1987
+- Hec_15:27Silas, los cuales...harán saber lo mismoG518
+- Hec_16:3todos sabían que su padre era griegoG1492
+- Hec_16:36el carcelero hizo saber estas...a PabloG518
+- Hec_16:38saber estas palabras a los magistradosG312
+- Hec_17:13supieron que...en Berea era anunciada laG1097
+- Hec_17:19¿podremos saber qué es...de que hablas?[[G1097]]
+- Hec_17:20queremos...saber qué quiere decir estoG1097
+- Hec_19:15a Jesús conozco, y sé quién es PabloG1987
+- Hec_19:25sabéis que de este oficio obtenemosG1987
+- Hec_19:32más no sabían por qué se habían reunidoG1492
+- Hec_19:35no sabe que la ciudad de los efesios esG1492
+- Hec_20:18vosotros sabéis cómo me he comportadoG1987
+- Hec_20:22sin saber lo que allá me ha de acontecerG1492
+- Hec_20:25sé que ninguno de...verá más mi rostroG1492
+- Hec_20:29sé que después de mi partida entraránG1492
+- Hec_20:34sabéis que para lo que...sido necesarioG1097
+- Hec_21:37me permite...Y el dijo: ¿Sabes griego?[[G1097]]
+- Hec_22:19Señor, ellos saben que yo encarcelaba yG1987
+- Hec_22:24para saber por qué causa clamaban asíG1921
+- Hec_22:29el tribuno, al saber que era ciudadanoG1921
+- Hec_22:30saber de cierto la causa por la cual leG1097
+- Hec_23:5dijo: No sabía...era el sumo sacerdoteG1492
+- Hec_23:27yo...habiendo sabido que era ciudadanoG3129
+- Hec_23:28y queriendo saber la causa por qué leG1097
+- Hec_24:10sé que desde hace muchos años eres juezG1987
+- Hec_25:10he hecho ningún agravio, como tú sabesG1921
+- Hec_26:5también saben que yo desde el principioG4267
+- Hec_26:26pues el rey sabe estas cosas, delanteG1987
+- Hec_26:27¿crees, oh rey Agripa...Yo sé que creesG1492
+- Hec_28:1ya...supimos que la isla se llamaba MaltaG1921
+- Hec_28:28sabed...a los gentiles es enviada estaG1110
+- Rom_2:2sabemos que el juicio de DiosG1492
+- Rom_3:19sabemos que todo lo que la ley dice, loG1492
+- Rom_5:3sabiendo...tribulación produce pacienciaG1492
+- Rom_6:3¿o no sabéis que todos los que hemos sidoG50
+- Rom_6:6sabiendo esto...fue crucificado juntamente conG1097
+- Rom_6:9sabiendo que Cristo, habiendo resucitadoG1492
+- Rom_6:16¿no sabéis que si os sometéis a alguienG1492
+- Rom_7:14sabemos que la ley es espiritual; mas yoG1492
+- Rom_7:18y yo sé que en mí, esto es, en mi carneG1492
+- Rom_8:22sabemos que toda la creación gime a unaG1492
+- Rom_8:26pues qué hemos de pedir...no lo sabemosG1492
+- Rom_8:27sabe cuál es la intención del EspírituG1492
+- Rom_8:28sabemos que a los que aman a Dios, todasG1492
+- Rom_11:2no sabéis qué dice de Elías la EscrituraG1492
+- Rom_11:18sabe que no sustentas tú a la raíz, sino
+- Rom_14:14yo sé, y confío en el Señor JesúsG1492
+- Rom_15:29sé que cuando vaya a vosotros, llegaréG1492
+- 1Co_1:16no sé si he bautizado a algún otroG1492
+- 1Co_2:2me propuse no saber...cosa alguna sino aG1492
+- 1Co_2:11¿quién de los...sabe las cosas del hombreG1492
+- 1Co_2:12que sepamos lo que Dios nos ha concedidoG1492
+- 1Co_3:16¿no sabéis que sois templo de Dios, y queG1492
+- 1Co_5:6¿no sabéis que un poco de levadura leudaG1492
+- 1Co_6:2no sabéis que los santos han de juzgar alG1492
+- 1Co_6:3¿o no sabéis que hemos de juzgar a losG1492
+- 1Co_6:9¿no sabéis que los injustos no heredaránG1492
+- 1Co_6:15¿no sabéis que vuestros cuerpos sonG1492
+- 1Co_6:16¿o no sabéis que el que se une con unaG1492
+- 1Co_7:16(2)¿qué sabes tú...si quizá harás salvoG1492
+- 1Co_8:1sabemos que todos tenemos conocimientoG1492
+- 1Co_8:2si alguno se imagina que sabe algo, aúnG1492
+- 1Co_8:2si...aún no sabe nada como debe saberloG1097
+- 1Co_8:4sabemos que un ídolo nada es en el mundoG1492
+- 1Co_9:13¿no sabéis que los que trabajan en lasG1492
+- 1Co_9:24sabéis que los que corren en el estadioG1492
+- 1Co_11:3quiero que sepáis que Cristo es la cabezaG1492
+- 1Co_12:2sabéis que cuando erais gentiles, se osG1492
+- 1Co_12:3os hago saber que nadie que hable por elG1492
+- 1Co_14:7si no...¿cómo se sabrá lo que se toca conG1097
+- 1Co_14:16¿cómo dirá el...no sabe lo que has dichoG1097
+- 1Co_15:58sabiendo...vuestro trabajo...no es en vanoG1492
+- 1Co_16:15sabéis que la familia de Estéfanas esG1492
+- 2Co_1:7sabemos que así como sois compañerosG1492
+- 2Co_2:4que supieseis cuán grande es el amor queG1097
+- 2Co_4:14sabiendo que el que resucitó al SeñorG1492
+- 2Co_5:1sabemos que si nuestra morada terrestreG1492
+- 2Co_5:6sabiendo que entre tanto que estamos enG1492
+- 2Co_7:7haciéndonos saber vuestro gran afectoG312
+- 2Co_8:1os hacemos saber la gracia de Dios que seG1107
+- 2Co_11:11qué? ¿Porque no os amo? Dios lo sabeG1492
+- 2Co_11:31el Dios y Padre de...sabe que no mientoG1492
+- 2Co_12:2si en el cuerpo, no lo sé; si fuera delG1492
+- 2Co_12:2fuera del cuerpo, no lo sé; Dios lo sabeG1492
+- 2Co_12:3si en el cuerpo...no lo sé; Dios lo sabeG1492
+- Gál_1:11mas os hago saber, hermanos, que elG1107
+- Gál_2:16sabiendo que el hombre no es justificadoG1492
+- Gál_3:2quiero saber de vosotros: ¿Recibisteis elG3129
+- Gál_3:7sabed...que los que son de fe, éstos sonG1097
+- Gál_4:13sabéis que a causa de una enfermedad delG1492
+- Efe_1:18para que sepáis cuál es la esperanzaG1492
+- Efe_5:5sabéis...que ningún fornicario, o inmundoG1097
+- Efe_6:8sabiendo que el bien que cada uno hiciereG1492
+- Efe_6:9sabiendo que el Señor de ellos y vuestroG1492
+- Efe_6:21que...sepáis mis asuntos, y lo que hagoG1492
+- Efe_6:21que hago, todo os lo hará saber TíquicoG1107
+- Efe_6:22para que sepáis lo tocante a nosotrosG1097
+- Flp_1:12que sepáis...que las cosas que me hanG1097
+- Flp_1:17sabiendo que estoy...para la defensa delG1492
+- Flp_1:19sé que por vuestra oración...resultará enG1492
+- Flp_1:22no sé entonces qué escogerG1107
+- Flp_1:25y confiado en esto, sé que quedaré, queG1492
+- Flp_2:19de buen ánimo al saber de vuestro estadoG1097
+- Flp_4:12sé vivir humildemente, y s...abundanciaG1492
+- Flp_4:15sabéis también...que al principio de laG1492
+- Col_2:1que sepáis cuán gran lucha sostengoG1492
+- Col_3:24sabiendo que del Señor recibiréis laG1492
+- Col_4:1sabiendo que...tenéis un Amo en los cielosG1492
+- Col_4:6para que sepáis cómo debéis responder aG1492
+- Col_4:7os lo hará saber Tíquico, amado hermanoG1107
+- Col_4:9todo lo que acá pasa, os lo harán saberG1107
+- 1Ts_1:5sabéis cuáles fuimos entre vosotrosG1492
+- 1Ts_2:1sabéis, hermanos, que nuestra visita aG1492
+- 1Ts_2:2sabéis, tuvimos denuedo en nuestro DiosG1492
+- 1Ts_2:5de palabras lisonjeras, como sabéis, niG1492
+- 1Ts_2:11sabéis de qué modo, como...exhortábamosG1492
+- 1Ts_3:3sabéis que para esto estamos puestosG1492
+- 1Ts_3:4que íbamos a...como ha acontecido y sabéisG1492
+- 1Ts_4:2sabéis qué instrucciones os dimos por elG1492
+- 1Ts_4:4sepa tener su propia esposa en santidad y honorG1492
+- 1Ts_5:2sabéis...que el día del Señor vendrá asíG1492
+- 2Ts_2:6sabéis lo que lo detiene, a fin de queG1492
+- 2Ts_3:7sabéis de qué manera debéis imitarnosG1492
+- 1Ti_1:8sabemos que la ley es buena, si unoG1492
+- 1Ti_3:5el que no sabe gobernar su propia casaG1492
+- 1Ti_3:15sepas cómo debes conducirte en la casaG1492
+- 1Ti_6:4envanecido...nada sabe, y delira acerca deG1987
+- 2Ti_1:12sé a quién he creído, y estoy seguroG1492
+- 2Ti_1:15ya sabes...que me abandonaron todos losG1492
+- 2Ti_1:18cuánto nos ayudó en Efeso, tú lo sabesG1492
+- 2Ti_2:23pero...sabiendo que engendran contiendasG1492
+- 2Ti_3:1debes saber...que en los postreros díasG1097
+- 2Ti_3:14persiste...sabiendo de quién has aprendidoG1492
+- 2Ti_3:15desde la niñez has sabido las SagradasG1492
+- Tit_3:11sabiendo que el tal se ha pervertidoG1492
+- Flm_1:21sabiendo que harás aún más de lo que teG1492
+- Heb_10:34sabiendo que tenéis...herencia en losG1097
+- Heb_11:8fe Abraham...salió sin saber a dónde ibaG1987
+- Heb_12:17sabéis que...después, deseando heredarG2467
+- Heb_13:2algunos, sin saberlo, hospedaron ángelesG2990
+- Heb_13:23sabed que está en libertad...Timoteo, conG1097
+- Stg_1:3sabiendo que la prueba de vuestra feG1097
+- Stg_2:20quieres saber...la fe sin obras es muertaG1097
+- Stg_3:1sabiendo...recibiremos mayor condenaciónG1497
+- Stg_4:4¿no sabéis que la amistad del mundo esG1492
+- Stg_4:14no sabéis lo que será mañana...PorqueG1987
+- Stg_4:17y al que sabe hacer lo bueno,...le es pecadoG1492
+- Stg_5:20sepa que el que haga volver al pecadorG1097
+- 1Pe_1:18sabiendo que fuisteis rescatados deG1492
+- 1Pe_3:9sabiendo que fuisteis llamados para queG1492
+- 1Pe_5:9sabiendo que los mismos padecimientos seG1492
+- 2Pe_1:12recordaros siempre...aunque...las sepáisG1492
+- 2Pe_1:14sabiendo que...debo abandonar el cuerpoG1492
+- 2Pe_2:9sabe el Señor librar de tentación a losG1492
+- 2Pe_3:3sabiendo...en los postreros días vendránG1097
+- 2Pe_3:17sabiéndolo de antemano, guardaos, no seaG4267
+- 1Jn_2:3y en esto sabemos que, le conocemosG1097
+- 1Jn_2:5amor...por esto sabemos que estamos en élG1097
+- 1Jn_2:11y no sabe a dónde va, porque...tinieblasG1492
+- 1Jn_2:29si sabéis que él es justo, sabed tambiénG1492
+- 1Jn_3:2pero sabemos que cuando él se manifiesteG1492
+- 1Jn_3:5y sabéis que él apareció para quitarG1492
+- 1Jn_3:14sabemos...hemos pasado de muerte a vidaG1492
+- 1Jn_3:15y sabéis que ningún homicida tiene vidaG1492
+- 1Jn_3:20mayor...es Dios, y él sabe todas las cosasG1097
+- 1Jn_3:24sabemos que él permanece en nosotros, porG1097
+- 1Jn_5:13para que sepáis que tenéis vida eternaG1492
+- 1Jn_5:15si sabemos que él nos oye...s que tenemosG1492
+- 1Jn_5:18sabemos que todo aquel que ha nacido deG1492
+- 1Jn_5:19sabemos que somos de Dios, y el mundoG1492
+- 1Jn_5:20sabemos que el Hijo de Dios ha venidoG1492
+- 3Jn_1:12sabéis que...testimonio es verdaderoG1492
+- Jud_1:5una vez lo habéis sabido, que el SeñorG1492
+- Rev_2:23sabrán que yo soy el que escudriña laG1097
+- Rev_3:3y no sabrás a qué hora vendré sobre tiG1097
+- Rev_3:17y no sabes que tú eres un desventuradoG1492
+- Rev_7:14dije: Señor, tú lo sabes...Y él me dijoG1492
+- Rev_12:12gran ira, sabiendo que tiene poco tiempoG1492

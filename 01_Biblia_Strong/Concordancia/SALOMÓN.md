@@ -1,0 +1,310 @@
+---
+tipo: concordancia
+palabra: SALOMÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SALOMÓN
+
+- Rey de Israel, hijo y sucesor de David
+- 2Sa_5:14le nacieron...Samúa, Sobab, Natán, SH8010
+- 2Sa_12:24llamó su nombre S, al cual amó JehováH8010
+- 1Re_1:10pero no convidó al...ni a S su hermanoH8010
+- 1Re_1:11a Betsabé madre de S, diciendo: ¿No hasH8010
+- 1Re_1:12que conserves tu vida, y la de tu hijo SH8010
+- 1Re_1:13, 1Re_1:17S tu hijo reinará después de mí, y élH8010
+- 1Re_1:19Joab...mas a S tu siervo no ha convidadoH8010
+- 1Re_1:21yo y mi hijo S...tenidos por culpablesH8010
+- 1Re_1:26ni a mí...ni a S tu siervo, ha convidadoH8010
+- 1Re_1:30tu hijo S reinará después de mí, y él seH8010
+- 1Re_1:33a S mi hijo en mi mula, y llevadlo aH8010
+- 1Re_1:34y tocaréis...diciendo: ¡Viva el rey S![[H8010]]
+- 1Re_1:37esté con S, y haga mayor su trono que elH8010
+- 1Re_1:38y montaron a S en la mula del rey DavidH8010
+- 1Re_1:39ungió a S; y tocaron trompeta, y dijoH8010
+- 1Re_1:39y dijo todo el pueblo: ¡Viva el rey S![[H8010]]
+- 1Re_1:43nuestro señor...David ha hecho rey a SH8010
+- 1Re_1:46también S se ha sentado en el trono delH8010
+- 1Re_1:47Dios haga bueno el nombre de S más queH8010
+- 1Re_1:50Adonías, temiendo de la presencia de SH8010
+- 1Re_1:51se lo hicieron saber a S, diciendo: HeH8010
+- 1Re_1:51Adonías tiene miedo del rey S, pues seH8010
+- 1Re_1:51júreme hoy el rey S que no matará a suH8010
+- 1Re_1:52S dijo: Si él fuere hombre de bien, niH8010
+- 1Re_1:53envió el rey S, y lo trajeron del altarH8010
+- 1Re_1:53se inclinó ante el rey S...Y S le dijoH8010
+- 1Re_2:1que David...ordenó a S su hijo, diciendoH8010
+- 1Re_2:12se sentó S en el trono de David su padreH8010
+- 1Re_2:13Adonías hijo...vino a Betsabé madre de SH8010
+- 1Re_2:17dijo: Yo te ruego que hables al rey SH8010
+- 1Re_2:19Betsabé al rey S...hablarle por AdoníasH8010
+- 1Re_2:22rey S respondió...¿Por qué pides a AbisagH8010
+- 1Re_2:23el rey S juró por Jehová, diciendo: AsíH8010
+- 1Re_2:25el rey S envió por mano de Benaía hijoH8010
+- 1Re_2:27así echó S a Abiatar del sacerdocio deH8010
+- 1Re_2:29y se le hizo saber a S que Joab habíaH8010
+- 1Re_2:29envió S a Benaía hijo...diciendo: Vé, yH8010
+- 1Re_2:41luego fue dicho a S que Simei había idoH8010
+- 1Re_2:45rey S será bendito, y el trono de DavidH8010
+- 1Re_2:46el reino fue confirmado en la mano de SH8010
+- 1Re_3:1S...parentesco con Faraón rey de EgiptoH8010
+- 1Re_3:3S amó a Jehová, andando en los estatutosH8010
+- 1Re_3:4mil holocaustos sacrificaba S sobre aquelH8010
+- 1Re_3:5se le apareció Jehová a S en Gabaón unaH8010
+- 1Re_3:6S dijo: Tú hiciste gran misericordia a tuH8010
+- 1Re_3:10agradó delante del Señor que S pidieseH8010
+- 1Re_3:15cuando S despertó, vio que era sueñoH8010
+- 1Re_4:1reinó, pues, el rey S sobre todo IsraelH8010
+- 1Re_4:7S doce gobernadores sobre todo Israel, losH8010
+- 1Re_4:11éste tenía por mujer a Tafat hija de SH8010
+- 1Re_4:15también por mujer a Basemat hija de SH8010
+- 1Re_4:21S señoreaba sobre todos los reinos desdeH8010
+- 1Re_4:21sirvieron a S todos los días que vivióH8010
+- 1Re_4:22la provisión de S para...era de 30 corosH8010
+- 1Re_4:25Judá e Israel vivían seguros...días de SH8010
+- 1Re_4:26además de esto, S tenía 40.000 caballosH8010
+- 1Re_4:27y estos gobernadores mantenían al rey SH8010
+- 1Re_4:27todos los que a la mesa del rey S veníanH8010
+- 1Re_4:29Dios dio a S sabiduría y prudencia muyH8010
+- 1Re_4:30mayor la sabiduría de S que la de todosH8010
+- 1Re_4:34y para oír la sabiduría de S venían deH8010
+- 1Re_5:1Hiram rey...envió también sus siervos a SH8010
+- 1Re_5:2entonces S envió a decir a HiramH8010
+- 1Re_5:7Hiram oyó las palabras de S, se alegró enH8010
+- 1Re_5:8envió Hiram a decir a S: He oído lo queH8010
+- 1Re_5:10dio, pues, Hiram a S madera de cedro yH8010
+- 1Re_5:11y S daba a Hiram 20.000 coros de trigoH8010
+- 1Re_5:11de aceite puro...daba S a Hiram cada añoH8010
+- 1Re_5:12Jehová, pues, dio a S sabiduría como leH8010
+- 1Re_5:12paz entre Hiram y S, e hicieron pactoH8010
+- 1Re_5:13el rey S decretó leva en todo Israel, yH8010
+- 1Re_5:15tenía...S 70.000 que llevaban las cargasH8010
+- 1Re_5:16sin los principales oficiales de S queH8010
+- 1Re_5:18los albañiles de S...prepararon la maderaH8010
+- 1Re_6:1del principio del reino de S sobre IsraelH8010
+- 1Re_6:2casa que el rey S edificó a Jehová teníaH8010
+- 1Re_6:11y vino palabra de Jehová a S, diciendoH8010
+- 1Re_6:14así, pues, S labró la casa y la terminóH8010
+- 1Re_6:21S cubrió de oro puro la casa por dentroH8010
+- 1Re_7:1edificó S su propia casa en trece añosH8010
+- 1Re_7:8edificó también S para la hija de FaraónH8010
+- 1Re_7:13el rey S, e hizo venir de Tiro a HiramH8010
+- 1Re_7:14pues, vino al rey S, e hizo toda su obraH8010
+- 1Re_7:40terminó toda la obra que hizo a S paraH8010
+- 1Re_7:45los utensilios que Hiram hizo al rey SH8010
+- 1Re_7:47y no inquirió S el peso del bronce deH8010
+- 1Re_7:48hizo S...los enseres que pertenecían a laH8010
+- 1Re_7:51la obra que dispuso hacer el rey S paraH8010
+- 1Re_7:51metió S lo que David su...había dedicadoH8010
+- 1Re_8:1S reunió ante sí...los ancianos de IsraelH8010
+- 1Re_8:2reunieron con el rey S todos los varonesH8010
+- 1Re_8:5rey S, y toda...Israel...delante del arcaH8010
+- 1Re_8:12dijo S: Jehová ha dicho...habitaría en laH8010
+- 1Re_8:22se puso S delante del altar de Jehová, enH8010
+- 1Re_8:54cuando acabó S de hacer toda esta oraciónH8010
+- 1Re_8:63ofreció S sacrificios de paz, los cualesH8010
+- 1Re_8:65en aquel tiempo S hizo fiesta, y con élH8010
+- 1Re_9:1cuando S hubo acabado...que S quiso hacerH8010
+- 1Re_9:2Jehová apareció a S la segunda vez, comoH8010
+- 1Re_9:10S ya había edificado las dos casas, laH8010
+- 1Re_9:11Hiram rey de...había traído a S madera deH8010
+- 1Re_9:11que el rey S dio a Hiram veinte ciudadesH8010
+- 1Re_9:12para ver las ciudades que S le había dadoH8010
+- 1Re_9:15la razón de la leva que el rey S impusoH8010
+- 1Re_9:16la dio en dote a su hija la mujer de SH8010
+- 1Re_9:17restauró...S a Gezer y a la...Bet-horónH8010
+- 1Re_9:19las ciudades donde S tenía provisionesH8010
+- 1Re_9:19todo lo que S quiso edificar en JerusalénH8010
+- 1Re_9:21hizo S que sirviesen con tributo hastaH8010
+- 1Re_9:22a ninguno de...Israel impuso S servicioH8010
+- 1Re_9:23los que S había hecho jefes...eran 550H8010
+- 1Re_9:24la hija de Faraón...a su casa que S leH8010
+- 1Re_9:25ofrecía S tres veces cada año holocaustos yH8010
+- 1Re_9:26también el rey S naves en Ezión-geberH8010
+- 1Re_9:27y envió Hiram en...con los siervos de SH8010
+- 1Re_9:28tomaron de allí oro...trajeron al rey SH8010
+- 1Re_10:1oyendo la reina de Sabá la fama que SH8010
+- 1Re_10:2cuando vino a S, le expuso todo lo queH8010
+- 1Re_10:3y S le contestó todas sus preguntas, yH8010
+- 1Re_10:4la reina de...vio toda la sabiduría de SH8010
+- 1Re_10:10especias...la reina de Sabá dio al rey SH8010
+- 1Re_10:13el rey S dio a la reina...que ella quisoH8010
+- 1Re_10:13a la reina...además de lo que S le dioH8010
+- 1Re_10:14del oro que S tenía de renta cada añoH8010
+- 1Re_10:16hizo...rey S 200 escudos grandes de oroH8010
+- 1Re_10:21los vasos de beber del rey S eran de oroH8010
+- 1Re_10:21plata...en tiempo de S no era apreciadaH8010
+- 1Re_10:23excedía el rey S a todos los reyes de laH8010
+- 1Re_10:24la tierra procuraba ver la cara de SH8010
+- 1Re_10:26y juntó S carros y gente de a caballoH8010
+- 1Re_10:28traían de Egipto caballos y lienzos a SH8010
+- 1Re_11:1rey S amó, además de la hija de FaraónH8010
+- 1Re_11:2a éstas, pues, se juntó S con amorH8010
+- 1Re_11:4S era ya viejo, sus mujeres inclinaronH8010
+- 1Re_11:5porque S siguió a Astoret, diosa de losH8010
+- 1Re_11:6hizo S lo malo ante los ojos de JehováH8010
+- 1Re_11:7edificó S un lugar alto a Quemos, ídoloH8010
+- 1Re_11:9y se enojó Jehová contra S, por cuantoH8010
+- 1Re_11:11dijo Jehová a S: Por cuanto ha habidoH8010
+- 1Re_11:14Jehová suscitó...adversario a S: HadadH8010
+- 1Re_11:23por adversario contra S a Rezón hijo deH8010
+- 1Re_11:25y fue adversario...todos los días de SH8010
+- 1Re_11:26Jeroboam...siervo de S, cuya madre seH8010
+- 1Re_11:27esta: S, edificando a Milo, cerró elH8010
+- 1Re_11:28y viendo S...que era hombre activo, leH8010
+- 1Re_11:31yo rompo el reino de la mano de S, yH8010
+- 1Re_11:40por esto S procuró matar a JeroboamH8010
+- 1Re_11:40estuvo en Egipto hasta la muerte de SH8010
+- 1Re_11:41los demás hechos de S, y todo lo queH8010
+- 1Re_11:41¿no está...el libro de los hechos de S?[[H8010]]
+- 1Re_11:42los días que S reinó...fueron 40 añosH8010
+- 1Re_11:43durmió S con sus padres, y, sepultadoH8010
+- 1Re_12:2en Egipto, adonde había huido...del rey SH8010
+- 1Re_12:6ancianos que habían estado delante de SH8010
+- 1Re_12:21volver el reino a Roboam hijo de SH8010
+- 1Re_12:23habla a Roboam hijo de S, rey de JudáH8010
+- 1Re_14:21Roboam hijo de S reinó en Judá...De 41H8010
+- 1Re_14:26los escudos de oro que S había hechoH8010
+- 2Re_21:7Jehová había dicho a David y a Y suH8010
+- 2Re_23:13S rey...había edificado a Astoret ídoloH8010
+- 2Re_24:13los utensilios de oro que había hecho SH8010
+- 2Re_25:16basas que S había hecho para la casa deH8010
+- 1Cr_3:5cuatro le nacieron en Jerusalén...y SH8010
+- 1Cr_3:10hijo de S fue Roboam, cuyo hijo...AbíasH8010
+- 1Cr_6:10el sacerdocio en la casa que S edificóH8010
+- 1Cr_6:32hasta que S edificó la casa de JehováH8010
+- 1Cr_14:4que le nacieron en Jerusalén...Natán, SH8010
+- 1Cr_18:8con el que S hizo el mar de bronce, lasH8010
+- 1Cr_22:5y dijo David: S mi hijo es muchacho y deH8010
+- 1Cr_22:6llamó entonces David a S su hijo, y leH8010
+- 1Cr_22:7David a S: Hijo mío, en mi corazón tuveH8010
+- 1Cr_22:9nombre será S, y yo daré paz y reposoH8010
+- 1Cr_22:17mandó David...que ayudasen a S su hijoH8010
+- 1Cr_23:1David ya viejo y...hizo a S su hijo reyH8010
+- 1Cr_28:5eligió a mi hijo S para que se sienteH8010
+- 1Cr_28:6S tu hijo, él edificará mi casa y misH8010
+- 1Cr_28:9y tú, S...reconoce al Dios de tu padreH8010
+- 1Cr_28:11dio a S su hijo el plano del pórticoH8010
+- 1Cr_28:20dijo además David a S su hijo: AnímateH8010
+- 1Cr_29:1S mi hijo ha elegido Dios; él es jovenH8010
+- 1Cr_29:19da a mi hijo S corazón perfecto, paraH8010
+- 1Cr_29:22dieron...la investidura del reino a SH8010
+- 1Cr_29:23sentó S por rey en el trono de JehováH8010
+- 1Cr_29:24todos los...prestaron homenaje al rey SH8010
+- 1Cr_29:25Jehová engrandeció...a S a ojos de todoH8010
+- 1Cr_29:28y murió...y reinó en su lugar S su hijoH8010
+- 2Cr_1:1S hijo de...fue afirmado en su reinoH8010
+- 2Cr_1:2y convocó S a todo Israel, a jefes deH8010
+- 2Cr_1:3fue S...al lugar alto que había en GabaónH8010
+- 2Cr_1:5tabernáculo de...al cual fue a consultar SH8010
+- 2Cr_1:6subió, pues, S allá delante de Jehová, alH8010
+- 2Cr_1:7apareció Dios a S y le dijo: Pídeme lo queH8010
+- 2Cr_1:8S dijo a Dios: Tú has tenido con David miH8010
+- 2Cr_1:11dijo Dios a S: Por cuanto hubo esto enH8010
+- 2Cr_1:13volvió S a Jerusalén, y reinó...IsraelH8010
+- 2Cr_1:14y juntó S carros y gente de a caballoH8010
+- 2Cr_1:16compraban...caballos y lienzos...para SH8010
+- 2Cr_2:1determinó...S edificar casa al nombre deH8010
+- 2Cr_2:2designó S 70.000 hombres que llevasenH8010
+- 2Cr_2:3y envió a decir S a Hiram rey de TiroH8010
+- 2Cr_2:11Hiram rey...respondió por escrito...a SH8010
+- 2Cr_2:17contó S todos los hombres extranjerosH8010
+- 2Cr_3:1comenzó S a edificar la casa de JehováH8010
+- 2Cr_3:3medidas que dio S a los cimientos de laH8010
+- 2Cr_4:11acabó Hiram la obra que hacía al rey SH8010
+- 2Cr_4:16hizo...enseres Hiram-abi al rey S para laH8010
+- 2Cr_4:18S hizo...enseres en número tan grande queH8010
+- 2Cr_4:19hizo S...los utensilios para la casa deH8010
+- 2Cr_5:1acabada toda la obra que hizo S para laH8010
+- 2Cr_5:1metió S las cosas...padre había dedicadoH8010
+- 2Cr_5:2S reunió en Jerusalén a los ancianos deH8010
+- 2Cr_5:6rey S, y toda la congregación de IsraelH8010
+- 2Cr_6:1dijo S: Jehová ha dicho que él habitaríaH8010
+- 2Cr_6:12puso...S delante del altar de Jehová, enH8010
+- 2Cr_6:13S había hecho un estrado de bronce deH8010
+- 2Cr_7:1S acabó de orar, descendió fuego de losH8010
+- 2Cr_7:5y ofreció el rey S en sacrificio 22.000H8010
+- 2Cr_7:7S consagró la parte central del atrio queH8010
+- 2Cr_7:7en el altar de bronce que S había hechoH8010
+- 2Cr_7:8hizo S fiesta siete días, y con él todoH8010
+- 2Cr_7:10beneficios que Jehová había hecho...a SH8010
+- 2Cr_7:11terminó, pues, S la casa de Jehová, y laH8010
+- 2Cr_7:11lo que S se propuso hacer en la casa deH8010
+- 2Cr_7:12apareció Jehová a S de noche, y le dijoH8010
+- 2Cr_8:1S había edificado la casa de Jehová y suH8010
+- 2Cr_8:2reedificó S las ciudades que Hiram...dadoH8010
+- 2Cr_8:3después vino S a Hamat de Soba y la tomóH8010
+- 2Cr_8:6las ciudades de provisiones que S teníaH8010
+- 2Cr_8:6lo que S quiso edificar en Jerusalén, enH8010
+- 2Cr_8:8los hijos...hizo S tributarios hasta hoyH8010
+- 2Cr_8:9de Israel no puso S siervos en su obraH8010
+- 2Cr_8:10y tenía S 250 gobernadores principalesH8010
+- 2Cr_8:11pasó S a la hija de Faraón, de la ciudadH8010
+- 2Cr_8:12ofreció S holocaustos a Jehová sobre elH8010
+- 2Cr_8:16la obra de S estaba preparada desde elH8010
+- 2Cr_8:17entonces S fue a Ezión-geber y a Elot, aH8010
+- 2Cr_8:18cuales fueron con los siervos de S a OfirH8010
+- 2Cr_8:18talentos de oro, y los trajeron al rey SH8010
+- 2Cr_9:1oyendo la reina de Sabá la fama de S, vinoH8010
+- 2Cr_9:1la reina de Sabá...vino...para probar a SH8010
+- 2Cr_9:1luego que vino a S, habló con él todo loH8010
+- 2Cr_9:2S le respondió a todas sus preguntas, yH8010
+- 2Cr_9:2y nada hubo que S no le contestaseH8010
+- 2Cr_9:3viendo la reina...la sabiduría de S, y laH8010
+- 2Cr_9:9como las que dio la reina de Sabá al rey SH8010
+- 2Cr_9:10siervos de S, que había traído el oro deH8010
+- 2Cr_9:12S dio a la reina de...lo que ella quisoH8010
+- 2Cr_9:13el peso del oro que venía a S cada añoH8010
+- 2Cr_9:14los gobernadores...traían oro y plata a SH8010
+- 2Cr_9:15hizo...el rey S doscientos paveses de oroH8010
+- 2Cr_9:20la vajilla del rey S era de oro, y toda laH8010
+- 2Cr_9:20los días de S la plata no era apreciadaH8010
+- 2Cr_9:22excedió el rey S a todos los reyes de laH8010
+- 2Cr_9:23los reyes procuraban ver el rostro de SH8010
+- 2Cr_9:25tuvo...S cuatro mil caballerizas para susH8010
+- 2Cr_9:28traían...caballos para S, de Egispto y deH8010
+- 2Cr_9:29los demás hechos de S...¿no están todosH8010
+- 2Cr_9:30reinó S en Jerusalén...todo Israel 40H8010
+- 2Cr_9:31durmió S con sus padres, y lo sepultaronH8010
+- 2Cr_10:2Jeroboam...había huido a causa del rey SH8010
+- 2Cr_10:6ancianos que había estado delante del SH8010
+- 2Cr_11:3habla a Roboam hijo de S, rey de JudáH8010
+- 2Cr_11:17y confirmaron a Roboam hijo de S, porH8010
+- 2Cr_11:17años anduvieron en el camino de...de SH8010
+- 2Cr_12:9tomó los escudos de...que S habíaH8010
+- 2Cr_13:6pero Jeroboam...siervo de S...se levantóH8010
+- 2Cr_13:7y pudieron más que Roboam hijo de SH8010
+- 2Cr_30:26desde los días de S hijo de David reyH8010
+- 2Cr_33:7había dicho Dios a David y a S su hijoH8010
+- 2Cr_35:3el arca santa en la casa que edificó SH8010
+- 2Cr_35:4como lo ordenaron David rey...y S su hijoH8010
+- Esd_2:55hijos de los siervos de S: los hijosH8010
+- Esd_2:58todos los...hijos de los siervos de S, 392H8010
+- Neh_7:57hijos de los siervos de S: los hijosH8010
+- Neh_7:60todos los...hijos de los siervos de S, 392H8010
+- Neh_11:3templo y los hijos de los siervos de SH8010
+- Neh_12:45conforme al estatuto de David y de SH8010
+- Neh_13:26¿no pecó por esto S, rey de Israel?[[H8010]]
+- Sal 72,127 títsH...para SH8010
+- Pro_1:1proverbios de S, hijo de David, rey deH8010
+- Pro_10:1proverbios de S...El hijo sabio alegra alH8010
+- Pro_25:1también estos son proverbios de S, losH8010
+- Cnt_1:1cantar de los cantares, el cual es de SH8010
+- Cnt_1:5pero codiciable...como las cortinas de SH8010
+- Cnt_3:7es la litera de S; sesenta valientes laH8010
+- Cnt_3:9el rey S se hizo una carroza de madera delH8010
+- Cnt_3:11y ved al rey S con la corona con que leH8010
+- Cnt_8:11S tuvo una viña en Baal-hamón, la cualH8010
+- Cnt_8:12las mil serán tuyas, oh S, y doscientasH8010
+- Jer_52:20había hecho el rey S en la casa deH8010
+- Mat_1:6David engendró a S de la que fue mujerG8010
+- Mat_1:7S engendró a Roboam, Roboam a Abías, yG4672
+- Mat_6:29ni aun S con toda su gloria se vistióG4672
+- Mat_12:42oír la sabiduría de S...aquí más que SG4672
+- Luc_11:31sabiduría de S, y he aquí más que SG4672
+- Luc_12:27ni aun S con toda su gloria se vistióG4672
+- Jua_10:23Jesús andaba en...por el pórtico de SG4672
+- Hec_3:11concurrió a ellos al pórtico...de SG4672
+- Hec_5:12y estaban...unánimes en el pórtico de SG4672
+- Hec_7:47mas S le edificó casaG4672

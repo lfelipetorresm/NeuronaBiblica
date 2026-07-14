@@ -1,0 +1,130 @@
+---
+tipo: concordancia
+palabra: BATALLA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BATALLA
+
+- Gén_14:8y ordenaron contra ellos b en...SidimH4421
+- Núm_21:14dice en el libro de las b de JehováH4421
+- Deu_20:3os juntáis hoy en b contra vuestrosH4421
+- Deu_20:5-6, Deu_20:7vuélvase...no sea que muera en la bH4421
+- Jue_3:10salió a b y Jehová entregó en suH4421
+- Jue_8:13Gedeón hijo de Joás volvió de la b antesH4421
+- Jue_10:18¿quién comenzará la b contra...Amón?[[H3898]]
+- Jue_20:20los varones de Israel ordenaron la bH4421
+- Jue_20:22volvieron a ordenar la b...mismo lugarH4421
+- Jue_20:30ordenaron la b delante de Gabaa, comoH6186
+- Jue_20:33pusieron en orden de b en Baal-tamarH6186
+- Jue_20:34y la b arreciaba; mas ellos no sabíanH4421
+- Jue_20:39los de Israel retrocedieron en la bH4421
+- Jue_20:39ellos han caído...como en la primera bH4421
+- Jue_20:42la b los alcanzó, y los que salían deH4421
+- 1Sa_4:1salió Israel a encontrar en b a losH4421
+- 1Sa_4:2los filisteos presentaron la b a IsraelH4421
+- 1Sa_4:2hirieron en la b...como a 4.000 hombresH5221
+- 1Sa_4:12corriendo de la b un hombre de...a SiloH4634
+- 1Sa_4:16aquel hombre a Elí: Yo vengo de la bH4634
+- 1Sa_13:22el día de la b no se halló espada niH4421
+- 1Sa_14:20llegaron hasta el lugar de la b; y heH4421
+- 1Sa_14:22ellos los persiguieron en aquella bH4421
+- 1Sa_14:23así salvó...Y llegó la b hasta Bet-avénH4421
+- 1Sa_17:2se pusieron en orden de b contra losH4421
+- 1Sa_17:8para qué os habéis puesto en orden de b?[[H4421]]
+- 1Sa_17:20cuando el ejército salía en orden de bH4421
+- 1Sa_17:21se pusieron en orden de b Israel y losH6186
+- 1Sa_17:28conozco...que para ver la b has venidoH4421
+- 1Sa_17:47de Jehová es la b, y él os entregará enH4421
+- 1Sa_17:48corrió a la...de b contra el filisteoH4634
+- 1Sa_18:17con tal que...y pelees las b de JehováH4421
+- 1Sa_23:8convocó Saúl a todo el pueblo a la bH4634
+- 1Sa_25:28cuanto mi señor pelea las b de JehováH4421
+- 1Sa_26:10que muera, o descendiendo en b perezcaH4421
+- 1Sa_29:4no venga...a la b, no sea que en la b seH4421
+- 1Sa_29:9han dicho: No venga con nosotros a la bH4421
+- 1Sa_30:24a la parte del que desciende a la bH4421
+- 1Sa_31:3arreció la b contra Saúl, y...flecherosH4421
+- 2Sa_1:4él respondió: El pueblo huyó de la bH4421
+- 2Sa_1:25¡cómo han caído los...en medio de la b![[H4421]]
+- 2Sa_2:17la b fue muy reñida aquel día, y AbnerH4421
+- 2Sa_3:30él había dado muerte a Asael...en la b deH4421
+- 2Sa_10:8se pusieron en orden de b a la entradaH4421
+- 2Sa_10:9viendo...Joab que se le presentaba la bH4421
+- 2Sa_10:9se puso en orden de b contra los siriosH4421
+- 2Sa_10:17los sirios se pusieron en orden de bH6186
+- 2Sa_11:15poned a Urías...en lo más recio de la bH4421
+- 2Sa_17:11mar, y que tú en persona vayas a la bH7128
+- 2Sa_18:6se libró la b en el bosque de EfraínH4421
+- 2Sa_18:8y la b se extendió por todo el paísH4421
+- 2Sa_19:3pueblo avergonzado que ha huido de la bH4421
+- 2Sa_19:10y Absalón, a quien...ha muerto en la bH4421
+- 2Sa_21:17nunca más...saldrás con nosotros a la bH4421
+- 2Sa_22:35quien adiestra mis manos para la bH4421
+- 2Sa_23:9que se habían reunido allí para la bH4421
+- 1Re_8:44si tu pueblo saliere en b contra susH4421
+- 1Re_16:16sobre Israel a Omri...en el campo de bH4264
+- 1Re_20:14y dijo Acab: ¿Quién comenzará la b?[[H4421]]
+- 1Re_20:29al séptimo día se dio la b; y los hijosH4421
+- 1Re_20:39dijo: Tu siervo salió en medio de la bH4421
+- 1Re_22:30me disfrazaré...en la b...entró en la bH4421
+- 1Re_22:35pero la b había arreciado aquel díaH4421
+- 2Re_3:26de Moab vio que era vencido en la bH4421
+- 2Re_14:7tomó a Sela en b, y la llamó JocteelH4421
+- 1Cr_5:18de Rubén...eran 44:760 que salían a bH6635
+- 1Cr_10:3arreciando la b...Saúl, le alcanzaron losH4421
+- 1Cr_11:13estando allí juntos en b los filisteosH4421
+- 1Cr_12:19cuando vino con los filisteos a la bH4421
+- 1Cr_14:15sal luego a la b, porque Dios saldráH4421
+- 1Cr_19:9ordenaron la b a entrada de la ciudadH4421
+- 1Cr_19:11y los ordenó en b contra los amonitasH6186
+- 1Cr_19:17vino a ellos, y ordenó b contra ellosH4421
+- 2Cr_13:3Abías ordenó b...y Jeroboam ordenó bH4421
+- 2Cr_13:14tenían b por delante y a las espaldasH4421
+- 2Cr_14:10ordenaron la b en el valle de SefataH4421
+- 2Cr_18:29me disfrazaré...en la b...entró en la bH4421
+- 2Cr_18:34y arreció la b aquel día, por lo queH4421
+- 2Cr_25:21se vieron cara a...en la b de Bet-semesH1053
+- 2Cr_32:8para ayudarnos y pelear nuestras bH4421
+- 2Cr_35:22Josías...que se disfrazó para darle bH3898
+- 2Cr_35:22vino a darle b en el campo de MeguidoH3898
+- Job_15:24se esforzarán...como un rey...para la bH3593
+- Job_38:23para el día de la guerra y de la b?[[H7128]]
+- Job_39:25y desde lejos huele la b, el grito deH4421
+- Job_41:8acordarás de la b, y nunca más volverásH4421
+- Sal_18:34quien adiestra mis manos para la bH4421
+- Sal_24:8Jehová el fuerte y...el poderoso en bH4421
+- Sal_78:9volvieron las espaldas en el día de la bH7128
+- Sal_89:43su espada, y no lo levantaste en la bH4421
+- Sal_140:7a cubierto mi cabeza en el día de bH5402
+- Sal_144:1quien adiestra mis manos para la b, yH4421
+- Pro_21:31caballo se alista para el día de la bH4421
+- Isa_9:5que lleva el guerrero en el...de la bH5430
+- Isa_13:4pasa revista a las tropas para la bH4421
+- Isa_21:15huye, ante la espada...el peso de la bH4421
+- Isa_27:4¿quién pondrá contra mí en b espinos yH4421
+- Isa_28:6por fuerzas a los que rechacen la b enH4421
+- Isa_30:32en b tumultuosa peleará contra ellosH4421
+- Jer_8:6caballo que arremete con ímpetu a la bH4421
+- Jer_49:14y venid contra ella, y subid a la bH4421
+- Eze_7:14tocarán...y no habrá quien vaya a la bH4421
+- Eze_13:5que resista firme en la b en el día deH4421
+- Eze_17:17ni...hará Faraón nada por él en la bH4421
+- Dan_11:20será quebrantado...no en ira, ni en bH4421
+- Ose_1:7no los salvaré...con b, ni con caballosH4421
+- Ose_10:9no los tomó la b en Gabaa contra losH4421
+- Ose_10:14destruyó Salmán a...en el día de la bH4421
+- Joe_2:5como pueblo fuerte dispuesto para la bH4421
+- Amó_1:14consumirá sus palacios...día de la bH4421
+- Abd_1:1levantémonos contra este pueblo en bH4421
+- Zac_10:5como valientes que en la b huellanH4421
+- Zac_14:3peleará...como peleó en el día de la bH7128
+- 1Co_14:8si...¿quién se preparará para la b?[[G4171]]
+- 1Ti_6:12pelea la buena b de la fe, echa manoG73
+- 2Ti_4:7he peleado la buena b, he acabado laG73
+- Heb_11:34se hicieron fuertes en b, pusieron enG4171
+- Rev_9:9carros de caballos corriendo a la bG4171
+- Rev_12:7hubo una gran b en el cielo: Miguel yG4171
+- Rev_16:14van a los reyes...para reunirlos a la bG4171
+- Rev_20:8engañar...a fin de reunirlos para la bG4171

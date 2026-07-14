@@ -20,7 +20,7 @@ IV. ¿Es destructiva para su cuerpo? (1 Cor. 6:19,20; 10:3).
 V. ¿Se halla en conflicto con sus deberes como cristiano? (Mat. 6:33; 2 Tim. 2:4). 
 VI. ¿Suscita ésta un desordenado apetito carnal? (Col. 2:20,23; Tito 2:11-13; Col. 3:5,6). 
 VII. ¿Le induce a usted a asociarse con gentes que pueden de bilitar su [[fe]] sucumbiendo a influencias malignas? (1 Cor. 15:33; 1 Tes. 5:21,22). 
-VIII. ¿Hace que usted se sujete a un yugo desigual y lo sitúa a usted desventajosamente para servir al Señor? (2 Cor. 6:14-18). 
+VIII. ¿Hace que usted se sujete a un [[yugo desigual]] y lo sitúa a usted desventajosamente para servir al Señor? (2 Cor. 6:14-18). 
 Conclusión: Si las cuestiones propuestas o cualquiera de ellas tienen que ser contestadas en la afirmativa cuando se aplican a los placeres y al recreo en los cuales uno toma parte, entonces el evangelio de [[Cristo]] demanda que tal o tales cosas se dejen a un lado. Ponga usted su propia vida a prueba. 
 Preguntas 
  1. ¿Cómo afecta la impureza de la [[iglesia]] su identidad?  2. ¿Qué debemos hacer con nuestros cuerpos? (Rom. 12:1,2).  3. ¿Cómo debe uno considerar siempre su conciencia?

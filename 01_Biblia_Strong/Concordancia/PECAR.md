@@ -1,0 +1,220 @@
+---
+tipo: concordancia
+palabra: PECAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PECAR
+
+- Gén_20:6también te detuve de pecar contra míH2398
+- Gén_20:9¿y en qué pequé yo contra ti, que hasH2401
+- Gén_39:9haría yo este...y pecaría contra Dios?[[H2398]]
+- Gén_42:21hemos pecado contra nuestro hermanoH816
+- Gén_42:22y dije: No pequéis contra el joven, yH2398
+- Éxo_9:27he pecado esta vez; Jehová es justo, yH2398
+- Éxo_9:34se obstinó en pecar, y endurecieron suH2398
+- Éxo_10:16he pecado contra Jehová vuestro DiosH2398
+- Éxo_20:20que su temor esté...para que no pequéisH2398
+- Éxo_23:33que te hagan pecar contra mí sirviendoH2398
+- Éxo_32:33al que pecare contra mí, a éste raeréH2398
+- Lev_4:2cuando alguna persona pecare por yerroH2398
+- Lev_4:3ungido pecare según el pecado del puebloH2398
+- Lev_4:22pecare un jefe, e hiciere por yerro algoH2398
+- Lev_4:22cosas que no se han de hacer, y pecareH2398
+- Lev_4:27si alguna persona del...pecare por yerroH2398
+- Lev_5:1si alguno pecare por haber sido llamado aH2398
+- Lev_5:5pecare en...confesará aquello en que pecóH2398
+- Lev_5:11el que pecó traerá como ofrenda...harinaH2403
+- Lev_5:15y pecare por yerro en las cosas santasH2398
+- Lev_5:17si una persona pecare, o hiciere algunaH2398
+- Lev_6:2una persona pecare e hiciere prevaricaciónH2398
+- Lev_6:3en...cosas en que suele pecar el hombreH2398
+- Lev_6:4habiendo pecado...restituirá aquello queH2398
+- Núm_5:7y lo dará a aquel contra quien pecóH2403
+- Núm_6:11hará...de lo que pecó a causa del muertoH2403
+- Núm_12:11locamente hemos actuado, y...pecadoH2403
+- Núm_14:40henos aquí para subir al...hemos pecadoH2403
+- Núm_15:27una persona pecare por yerro, ofreceráH2398
+- Núm_15:28hará expiación por la...que haya pecadoH7683
+- Núm_15:28pecare por yerro delante de Jehová, laH2398
+- Núm_16:22¿no es un solo hombre el que pecó? ¿PorH2398
+- Núm_16:38los incensarios de estos que pecaronH2400
+- Núm_21:7hemos pecado por haber hablado contraH2398
+- Núm_22:34he pecado, porque no sabía que tú teH2398
+- Núm_32:23habréis pecado ante Jehová; y sabed queH2398
+- Deu_1:41dijisteis: Hemos pecado contra JehováH2398
+- Deu_9:16y miré, y...habíais pecado contra JehováH2398
+- Deu_20:18y pequéis contra Jehová vuestro DiosH2398
+- Deu_32:51porque pecasteis contra mí en medio deH4603
+- Jos_7:11Israel ha pecado, y...han quebrantadoH2398
+- Jos_7:20Acán respondió...he pecado contra JehováH2398
+- Jue_10:10hemos pecado...hemos dejado a...DiosH2398
+- Jue_10:15hemos pecado; haz tú...como...te parezcaH2398
+- Jue_11:27nada he pecado contra ti, mas tú hacesH2398
+- 1Sa_2:24pues hacéis pecar al pueblo de JehováH2398
+- 1Sa_2:25si pecare el hombre contra el hombre, losH2398
+- 1Sa_2:25si alguno pecare contra Jehová, ¿quiénH2398
+- 1Sa_7:6dijeron allí: Contra Jehová hemos pecadoH2398
+- 1Sa_12:10hemos pecado...hemos dejado a JehováH2398
+- 1Sa_12:23lejos sea de mí que peque yo contraH2398
+- 1Sa_14:33el pueblo peca contra Jehová, comiendoH2398
+- 1Sa_14:34no pequéis contra Jehová comiendo laH2398
+- 1Sa_15:24yo he pecado; pues he quebrantado elH2398
+- 1Sa_15:30dijo: Yo he pecado; pero te ruego queH2398
+- 1Sa_19:4no peque el rey contra su siervo DavidH2398
+- 1Sa_19:5pues, pecarás contra la sangre inocenteH2398
+- 1Sa_24:11ni he pecado contra ti; sin embargo, túH2398
+- 1Sa_26:21he pecado; vuélvete, hijo mío David, queH2398
+- 2Sa_12:13David a Natán: Pequé contra JehováH2398
+- 2Sa_19:20reconozco haber pecado, y he venido hoyH2398
+- 2Sa_24:10yo he pecado gravemente por haber hechoH2398
+- 2Sa_24:17David dijo...Yo pequé, yo hice la maldadH2398
+- 1Re_8:31si alguno pecare contra su prójimoH2398
+- 1Re_8:33derrotado...por haber pecado contra tiH2398
+- 1Re_8:35y no lloviere, por haber ellos pecadoH2398
+- 1Re_8:46si pecaren...no hay hombre que no pequeH2398
+- 1Re_8:47y dijeron: Pecamos, hemos hecho lo maloH2398
+- 1Re_8:50perdonarás a tu pueblo que había pecadoH2398
+- 1Re_14:16cual pecó, y ha hecho pecar a IsraelH2398
+- 1Re_15:26pecados con que hizo pecar a IsraelH2398
+- 1Re_15:30y con los cuales hizo pecar a IsraelH2398
+- 1Re_15:34su pecado con que hizo pecar a IsraelH2398
+- 1Re_16:2y has hecho pecar a mi pueblo IsraelH2398
+- 1Re_16:13pecaron e hicieron pecar a IsraelH2398
+- 1Re_16:19que cometió, haciendo pecar a IsraelH2398
+- 1Re_16:26pecado...el cual hizo pecar a IsraelH2398
+- 1Re_18:9¿en qué he pecado, para que entreguesH2398
+- 1Re_21:22y con que has hecho pecar a IsraelH2398
+- 1Re_22:52de Jeroboam...que hizo pecar a IsraelH2398
+- 2Re_3:3; 2Re_10:29, 2Re_10:31; 2Re_13:2, 2Re_13:6, 2Re_13:11; 2Re_14:24; 2Re_15:9, 2Re_15:18, 2Re_15:24, 2Re_15:28Jeroboam...que hizo pecar a IsraelH2398
+- 2Re_17:7hijos de Israel pecaron contra JehováH2398
+- 2Re_18:14yo he pecado; apártate de mí, y haréH2398
+- 2Re_21:11ha hecho pecar a Judá con sus ídolosH2398
+- 2Re_21:16su pecado con que hizo pecar a JudáH2398
+- 2Re_23:15Jeroboam...el que hizo pecar a IsraelH2398
+- 1Cr_21:8he pecado gravemente al hacer estoH2398
+- 1Cr_21:17yo...soy el que pequé...he hecho malH2398
+- 2Cr_6:22si alguno pecare contra su prójimoH2398
+- 2Cr_6:26cielos se cortaron...por haber pecadoH2398
+- 2Cr_6:36si pecaron...no hay hombre que no pequeH2398
+- 2Cr_6:37oraren a ti...y dijeron: Pecamos, hemosH2398
+- 2Cr_6:39perdonarás a tu pueblo que pecó contraH2398
+- 2Cr_19:10no pequen...Haciendo así, no pecaréisH816
+- 2Cr_28:10mas ¿no habéis pecado...contra JehováH819
+- Esd_10:2nosotros hemos pecado contra nuestroH4603
+- Esd_10:10pecado, por cuanto tomasteis mujeresH4603
+- Esd_10:13somos muchos los que hemos pecado enH6586
+- Neh_1:6yo y la casa de mi padre hemos pecadoH2398
+- Neh_1:8si vosotros pecareis, yo os dispersaréH4603
+- Neh_6:13que pecase, y les sirviera de mal nombreH2398
+- Neh_9:29pecaron contra tus juicios, los cualesH2398
+- Neh_13:26no pecó por esto Salomón, rey deH2398
+- Neh_13:26aun a él le hicieron pecar las mujeresH2398
+- Est_1:16no solamente contra el rey ha pecadoH5753
+- Job_1:5decía...Quizá habrán pecado mis hijosH2398
+- Job_1:22en todo esto no pecó Job, ni atribuyó aH2398
+- Job_2:10en todo esto no pecó Job con sus labiosH2398
+- Job_7:20si he pecado, ¿qué puedo hacerte a tiH2398
+- Job_8:4si tus hijos pecaron contra él, él losH2398
+- Job_10:14si pequé, tú me has observado, y no meH2398
+- Job_33:27y al que dijere: Pequé, y pervertí loH2398
+- Job_35:3qué provecho tendré de no haber pecado?[[H2403]]
+- Job_35:6si pecares, ¿qué habrás logrado contraH2398
+- Sal_4:4temblad, y no pequéis; meditad enH2398
+- Sal_39:1atenderé...para no pecar con mi lenguaH2398
+- Sal_41:4sana mi alma, porque contra ti he pecadoH2398
+- Sal_51:4contra ti solo he pecado, y he hecho loH2398
+- Sal_78:17pero aún volvieron a pecar contra élH2398
+- Sal_78:32pecaron aún, y no dieron crédito a susH2398
+- Sal_106:6pecamos nosotros, como nuestros padresH2398
+- Sal_119:11he guardado tus dichos, para no pecarH2398
+- Pro_8:36que peca contra mí, defrauda su almaH2398
+- Pro_14:21peca el que menosprecia a su prójimoH2398
+- Pro_19:2aquel que se apresura con los pies, pecaH2398
+- Pro_20:2el que lo enfurece peca contra sí mismoH2398
+- Pro_29:22levanta...el furioso muchas veces pecaH6588
+- Ecl_5:6no dejes que tu boca te haga pecar, niH2398
+- Ecl_7:20no hay...que haga el bien y nunca pequeH2398
+- Ecl_9:2como al bueno, así al que peca; al queH2398
+- Isa_29:21que hacen pecar al hombre en palabraH2398
+- Isa_42:24¿no fue Jehová, contra quien pecamos?[[H2398]]
+- Isa_43:27tu primer padre pecó, y tus enseñadoresH2398
+- Isa_64:5tú te enojaste porque pecamos; en losH2398
+- Jer_2:35juicio...porque dijiste: No he pecadoH2398
+- Jer_3:25porque pecamos contra Jehová nuestroH2398
+- Jer_8:14aguas de hiel, porque pecamos contraH2398
+- Jer_14:7Jehová, actúa...contra ti hemos pecadoH2398
+- Jer_14:20padres; porque contra ti hemos pecadoH2398
+- Jer_32:35abominación, para hacer pecar a JudáH2398
+- Jer_33:8y su maldad con que pecaron contra míH2398
+- Jer_33:8sus pecados con que contra mí pecaronH2398
+- Jer_37:18¿en qué pequé contra ti, y contra tusH2398
+- Jer_40:3pecasteis contra Jehová, y no oísteisH2398
+- Jer_44:23incienso y pecasteis contra Jehová, yH2398
+- Jer_50:7no pecaremos, porque ellos pecaron contraH2398
+- Jer_50:14no escatiméis las saetas, porque pecóH2398
+- Lam_5:7nuestros padres pecaron, y han muertoH2398
+- Lam_5:16¡ay ahora de nosotros! porque pecamosH2398
+- Eze_3:21si al justo...que no peque, y no pecareH2398
+- Eze_14:13la tierra pecare contra mí rebelándoseH2398
+- Eze_18:4, Eze_18:20el alma que pecare, esa moriráH2398
+- Eze_18:31transgresiones con que habéis pecadoH6586
+- Eze_22:4en tu sangre que derramaste has pecadoH816
+- Eze_28:16fuiste lleno de iniquidad, y pecasteH2398
+- Eze_33:12justo no podrá vivir...el día que pecareH2398
+- Eze_37:23sus rebeliones con las cuales pecaronH2398
+- Eze_45:20harás...para los que pecaron por errorH7686
+- Dan_9:5hemos pecado, hemos cometido iniquidadH2398
+- Dan_9:8la confusión de rostro...contra ti pecamosH2398
+- Dan_9:11la maldición...porque contra él pecamosH2398
+- Dan_9:15hemos pecado, hemos hecho impíamenteH2398
+- Ose_4:7conforme a su...así pecaron contra míH2398
+- Ose_4:15si fornicas tú...a lo menos no peque JudáH816
+- Ose_8:11altares para pecar, tuvo altares para pH816
+- Ose_10:9desde los días de Gabaa has pecado, ohH2398
+- Ose_13:1exaltado en...mas pecó en Baal, y murióH816
+- Miq_7:9ira...soportaré, porque pequé contra élH2398
+- Hab_2:10asolaste...has pecado contra tu vidaH2398
+- Sof_1:17ciegos, porque pecaron contra JehováH2398
+- Mat_18:15si tu hermano peca contra ti, vé yG264
+- Mat_18:21veces perdonaré a...que peque contra mí?[[G264]]
+- Mat_27:4yo he pecado entregando sangre inocenteG264
+- Luc_15:18, Luc_15:21padre, he pecado contra el cieloG264
+- Luc_17:3tu hermano pecare contra ti, repréndeloG264
+- Luc_17:4si siete veces al día pecare contra tiG264
+- Jua_5:14mira, has sido sanado; no peques másG264
+- Jua_8:11ni yo te condeno; vete, y no peques másG264
+- Jua_9:2¿quién pecó, éste o sus padres, para queG264
+- Jua_9:3no es que pecó éste, ni sus padres, sinoG264
+- Hec_25:8ni contra...ni contra César he pecadoG264
+- Rom_2:12todos los que sin ley han pecado, sinG264
+- Rom_2:12bajo la ley han pecado...serán juzgadosG264
+- Rom_3:23todos pecaron, y están destituidos de laG264
+- Rom_5:12así la muerte...por cuanto todos pecaronG264
+- Rom_5:14aun en los que no pecaron a la manera deG264
+- Rom_5:16como en el caso de aquel uno que pecóG264
+- Rom_6:15¿pecaremos, porque no estamos bajo laG264
+- 1Co_6:18que fornica, contra su...cuerpo pecaG264
+- 1Co_7:28si te casas, no pecas...se casa, no pecaG264
+- 1Co_7:36haga lo que quiera, no peca; que se casenG264
+- 1Co_8:12pecando contra los...contra Cristo pecáisG264
+- 1Co_15:34velad...y no pequéis; porque algunos noG264
+- 2Co_11:7¿pequé yo humillándome a mí mismoG266
+- 2Co_12:21llorar por...los que antes han pecadoG4258
+- 2Co_13:2lo escribo a los que antes pecaron, y aG4258
+- Efe_4:26airaos, pero no pequéis; no se pongaG264
+- 1Ti_5:20que persisten en pecar, repréndelosG264
+- Tit_3:11el tal...peca y está condenado por suG264
+- Heb_3:17fue con los que pecaron, cuyos cuerposG264
+- Heb_10:26si pecáremos voluntariamente después deG264
+- 1Pe_2:20¿qué gloria...pecando sois abofeteadosG264
+- 2Pe_2:4no perdonó a los ángeles que pecaronG264
+- 2Pe_2:14no se sacian de pecar, seducen a lasG266
+- 1Jn_1:10si decimos que no hemos pecado, leG264
+- 1Jn_2:1hijitos...os escribo para que no pequéisG264
+- 1Jn_2:1si alguno hubiere pecado, ahogado tenemosG264
+- 1Jn_3:6todo aquel que permanece en él, no pecaG264
+- 1Jn_3:6todo aquel que peca, no le ha visto, niG264
+- 1Jn_3:8porque el diablo peca desde el principioG264
+- 1Jn_3:9no puede pecar, porque es nacido de DiosG264

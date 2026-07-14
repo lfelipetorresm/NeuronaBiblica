@@ -1,0 +1,291 @@
+---
+tipo: concordancia
+palabra: BABILONIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BABILONIA
+
+- Ciudad principal de Mesopotamia de la antigüedad, o el distrito de esa ciudad, o el imperio que encabezó
+- 2Re_17:24trajo el rey de Asiria gente de BH894
+- 2Re_17:30los de B hicieron a Sucot-benot, losH894
+- 2Re_20:12rey de B envió mensajeros con cartasH894
+- 2Re_20:14de lejanas tierras han venido, de BH894
+- 2Re_20:17atesorado hasta hoy, será llevado a BH894
+- 2Re_20:18serán eunucos...palacio del rey de BH894
+- 2Re_24:1subió en campaña Nabucodonosor rey de BH894
+- 2Re_24:7el rey de B le tomó todo lo que era suyoH894
+- 2Re_24:10subieron contra Jerusalén...rey de BH894
+- 2Re_24:11vino también...rey de B contra la ciudadH894
+- 2Re_24:12salió Joaquín rey de Judá al rey de BH894
+- 2Re_24:12lo prendió el rey de B en el octavo añoH894
+- 2Re_24:15cautivos a B a Joaquín, a la madre delH894
+- 2Re_24:15cautivos los llevó de Jerusalén a BH894
+- 2Re_24:16todos los...llevó cautivos el rey de BH894
+- 2Re_24:17el rey de B puso por rey en lugar deH894
+- 2Re_24:20Sedequías se rebeló contra el rey de BH894
+- 2Re_25:1rey de B vino con todo su ejércitoH894
+- 2Re_25:6preso...le trajeron al rey de B en RiblaH894
+- 2Re_25:7y atado con cadenas lo llevaron a BH894
+- 2Re_25:8el año 19 de Nabucodonosor rey de BH894
+- 2Re_25:8Nabuzaradán, capitán de...del rey de BH894
+- 2Re_25:11los que se habían pasado al rey de BH894
+- 2Re_25:13los caldeos...llevaron el bronce a BH894
+- 2Re_25:20tomó...y los llevó a Ribla al rey de BH894
+- 2Re_25:21el rey de B los hirió y mató en RiblaH894
+- 2Re_25:22pueblo que...rey de B dejó en tierra deH894
+- 2Re_25:23rey de B había puesto por...a GedalíasH894
+- 2Re_25:24y servid al rey de B, y os irá bienH894
+- 2Re_25:27rey de B...libertó a Joaquín rey de JudáH894
+- 2Re_25:28de los reyes que estaban con él en BH894
+- 1Cr_9:1los de Judá fueron transportados a BH894
+- 2Cr_32:31los mensajeros de los...de B, queH894
+- 2Cr_33:11a Manasés, y atado...lo llevaron a BH894
+- 2Cr_36:6subió...rey de B, y lo llevó a B atadoH894
+- 2Cr_36:7llevó...a B...los puso en su templo en BH894
+- 2Cr_36:10lo hizo llevar a B, juntamente con losH894
+- 2Cr_36:18los tesoros de la...todo lo llevó a BH894
+- 2Cr_36:20la espada fueron llevados cautivos a BH894
+- Esd_1:11los hizo llevar...de B a JerusalénH894
+- Esd_2:1rey de B había llevado cautivos a B, yH894
+- Esd_4:9de B de Susa, esto es, los elamitasH894
+- Esd_5:12los entregó en mano de...rey de B, caldeoH895
+- Esd_5:12el cual...llevó cautivo al pueblo a BH895
+- Esd_5:13en el año primero de Ciro rey de B, elH895
+- Esd_5:14y los había llevado al templo de BH895
+- Esd_5:14el rey Ciro los sacó del templo de BH895
+- Esd_5:17búsquese en la casa...que está allí en BH895
+- Esd_6:1donde guardaban los tesoros allí en BH895
+- Esd_6:5y los pasó a B, sean devueltos y vayanH895
+- Esd_7:6Esdras subió de B, Era escriba...en la leyH894
+- Esd_7:9fue el principio de la partida de B, yH894
+- Esd_7:16plata y el oro que halles en toda...BH895
+- Esd_8:1genealogía de aquellos que subieron...BH894
+- Neh_7:6los que llevó cautivos...rey de B, yH894
+- Neh_13:6el año 32 de Artajerjes rey de B fui alH894
+- Est_2:6hizo transportar Nabucodonosor...de BH894
+- Sal_87:4yo me acordaré de Rahab y de B entreH894
+- Sal_137:1junto a los ríos de B...nos sentábamosH894
+- Sal_137:8hija de B la desolada, bienaventuradoH894
+- Isa_13:1profecía sobre B, revelada a IsaíasH894
+- Isa_13:19B...será como Sodoma y Gomorra, a lasH894
+- Isa_14:4proverbio contra el rey de B, y dirásH894
+- Isa_14:22raeré de B el nombre y el remanenteH894
+- Isa_21:9después habló y dijo: Cayó, cayó BH894
+- Isa_39:1rey de B, envió cartas y presentes aH894
+- Isa_39:3de tierra muy lejana han venido...de BH894
+- Isa_39:6llevado a B todo lo que hay en tu casaH894
+- Isa_39:7tus hijos...serán eunucos...del rey de BH894
+- Isa_43:14vosotros envié a B, e hice descenderH894
+- Isa_47:1siéntate en el polvo, virgen hija de BH894
+- Isa_48:14ejecutará su voluntad en B, y su brazoH894
+- Isa_48:20salid de B, huid de entre los caldeosH894
+- Jer_20:4Judá entregaré en manos del rey de BH894
+- Jer_20:4los llevará cautivos a B, y los mataráH894
+- Jer_20:5tesoros...los tomarán y los llevarán a BH894
+- Jer_20:6tú, Pasur...entrarás en B, y allí morirásH894
+- Jer_21:2rey de B hace guerra contra nosotrosH894
+- Jer_21:4vosotros peleáis contra el rey de BH894
+- Jer_21:7a Sedequías rey...en mano de...rey de BH894
+- Jer_21:10en mano del rey de B será entregadaH894
+- Jer_22:25sí, en mano de Nabucodonosor rey de BH894
+- Jer_24:1transportado...rey de B a Jeconías hijoH894
+- Jer_24:1haberlos llevado a B, me mostró JehováH894
+- Jer_25:1el cual era el año primero de...rey de BH894
+- Jer_25:9y a Nabucodonosor rey de B, mi siervoH894
+- Jer_25:11y servirán estas naciones al rey de BH894
+- Jer_25:12castigaré al rey de B y a...naciónH894
+- Jer_25:26y el rey de B beberá después de ellosH8347
+- Jer_27:6puesto...tierras en mano de...rey de BH894
+- Jer_27:8y al reino que no sirviere a...rey de BH894
+- Jer_27:8su cuello debajo del yugo del rey de BH894
+- Jer_27:9, Jer_27:14diciendo: No serviréis al rey de BH894
+- Jer_27:11que sometiere su...al yugo del rey de BH894
+- Jer_27:12someted...cuellos al yugo del rey de BH894
+- Jer_27:13la nación que no sirviere al rey de BH894
+- Jer_27:16los utensilios de la casa...volverán de BH894
+- Jer_27:17servid al rey de B y vivid; ¿por quéH894
+- Jer_27:18utensilios que han quedado...no vayan a BH894
+- Jer_27:20rey de B cuando...a B a Jeconías hijoH894
+- Jer_27:22a B serán transportados, y allí estaránH894
+- Jer_28:2habló...Quebranté el yugo del rey de BH894
+- Jer_28:3rey de B tomó de...para llevarlos a BH894
+- Jer_28:4los transportados...que entraron en BH894
+- Jer_28:4yo quebrantaré el yugo del rey de BH894
+- Jer_28:6han de ser devueltos de B a este lugarH894
+- Jer_28:11manera romperé el yugo de...rey de BH894
+- Jer_28:14sirvan a...rey de B, y han de servirleH894
+- Jer_29:1que...llevó cautivo de Jerusalén a BH894
+- Jer_29:3a quienes envió...Judá a B, a...rey de BH894
+- Jer_29:4que hice transportar de Jerusalén a BH894
+- Jer_29:10cuando en B se cumplan los 70 añosH894
+- Jer_29:15Jehová nos ha levantado profetas en BH894
+- Jer_29:20los transportados que envié de...a BH894
+- Jer_29:21los entrego yo...Nabucodonosor rey de BH894
+- Jer_29:22transportados de Judá que están en BH894
+- Jer_29:22a quienes asó al fuego el rey de BH894
+- Jer_29:28nos envió a decir en B: Largo será elH894
+- Jer_32:2el ejército del rey de B tenía sitiadaH894
+- Jer_32:3, Jer_32:28esta ciudad en mano del rey de BH894
+- Jer_32:4, Jer_32:36será entregado en mano del rey de BH894
+- Jer_32:5y hará llevar a Sedequías a B, y alláH894
+- Jer_34:1cuando Nabucodonosor rey de B y todo suH894
+- Jer_34:2yo entregaré esta ciudad al rey de BH894
+- Jer_34:3tus ojos verán...rey de B...en B entrarásH894
+- Jer_34:7el ejército del rey de B peleaba contraH894
+- Jer_34:21y en mano del ejército del rey de BH894
+- Jer_35:11rey de B subió a la tierra, dijimosH894
+- Jer_36:29vendrá el rey de B, y destruirá estaH894
+- Jer_37:1Nabucodonosor rey de B constituyó porH894
+- Jer_37:17en mano del rey de B serás entregadoH894
+- Jer_37:19no vendrá el rey de B contra vosotrosH894
+- Jer_38:3en mano del ejército del rey de B, yH894
+- Jer_38:17si te entregas...a los...del rey de BH894
+- Jer_38:18no te entregas a los príncipes...de BH894
+- Jer_38:22sacadas a los príncipes del rey de BH894
+- Jer_38:23por mano del rey de B serás apresadoH894
+- Jer_39:1vino Nabucodonosor rey de B...JerusalénH894
+- Jer_39:3(2)todos los príncipes del rey de BH894
+- Jer_39:5donde estaba Nabucodonosor rey de B, yH894
+- Jer_39:6y degolló el rey de B a los hijos deH894
+- Jer_39:6degollar el rey de B a todos los noblesH894
+- Jer_39:7y le aprisionó con...para llevarle a BH894
+- Jer_39:9capitán de la guardia...transportó a BH894
+- Jer_39:13y todos los príncipes del rey de BH894
+- Jer_40:1los cautivos...que iban deportados a BH894
+- Jer_40:4(2)te parece bien venir conmigo a BH894
+- Jer_40:5el rey de B ha puesto sobre todas lasH894
+- Jer_40:7oyeron que el rey de B había puesto aH894
+- Jer_40:7pobres de...no fueron transportados a BH894
+- Jer_40:9y servid al rey de B, y os irá bienH894
+- Jer_40:11decir que el rey de B había dejado aH894
+- Jer_41:2aquel a quien el rey de B había puestoH894
+- Jer_41:18el rey de B había puesto para gobernarH894
+- Jer_42:11no temáis de la presencia del rey de BH894
+- Jer_43:3para matarnos y hacernos transportar a BH894
+- Jer_43:10tomaré...rey de B, mi siervo, y pondréH894
+- Jer_44:30en mano de Nabucodonosor rey de B, suH894
+- Jer_46:2a quien destruyó Nabucodonosor rey de BH894
+- Jer_46:13acerca de la venida de...rey de B, paraH894
+- Jer_46:26los entregaré en mano de...rey de B yH894
+- Jer_49:28los cuales asoló Nabucodonosor rey de BH894
+- Jer_49:30tomó consejo...Nabucodonosor rey de BH894
+- Jer_50:1palabra que habló Jehová contra BH894
+- Jer_50:2decid: Tomada es B, Bel es confundidoH894
+- Jer_50:8huid de en medio de B, y salid de laH894
+- Jer_50:9hago subir contra B reunión de grandesH894
+- Jer_50:13hombre que pasare por B se asombraráH894
+- Jer_50:14poneos en orden contra B alrededorH894
+- Jer_50:16destruid en B al que siembra, y al queH894
+- Jer_50:17Nabucodonosor rey de B lo deshuesóH894
+- Jer_50:18yo castigo al rey de B y a su tierraH894
+- Jer_50:23se convirtió B en desolación entre lasH894
+- Jer_50:24te puse lazos, y fuiste tomada, oh BH894
+- Jer_50:28voz de los que huyen y escapan de...BH894
+- Jer_50:29haced juntar contra B flecheros...arcoH894
+- Jer_50:34reposar la tierra, y turbar a los...de BH894
+- Jer_50:35espada...y contra los moradores de BH894
+- Jer_50:42se prepararán contra ti...oh hija de BH894
+- Jer_50:43oyó la noticia el rey de B, y...dolorH894
+- Jer_50:45oíd...que Jehová ha acordado contra BH894
+- Jer_50:46al grito de la toma de B la...temblóH894
+- Jer_51:1levanto un viento destruidor contra BH894
+- Jer_51:2enviaré a B aventadores que la avientenH894
+- Jer_51:6huid de en medio de B, y librad cada unoH894
+- Jer_51:7copa de oro fue B en la mano de JehováH894
+- Jer_51:8en un momento cayó B, y se despedazóH894
+- Jer_51:9curamos a B, y no ha sanado; dejadla, yH894
+- Jer_51:11porque contra B es su pensamiento paraH894
+- Jer_51:12levantad bandera sobre los muros de BH894
+- Jer_51:12ha dicho contra los moradores de BH894
+- Jer_51:24pagaré a B y a todos los moradores deH894
+- Jer_51:29es confirmado contra B...el pensamientoH894
+- Jer_51:29para poner la tierra de B en soledadH894
+- Jer_51:30los valientes de B dejaron de pelearH894
+- Jer_51:31anunciar al rey de B que su ciudad esH894
+- Jer_51:33la hija de B es como una era cuandoH894
+- Jer_51:34me desmenuzó Nabucodonosor rey de BH894
+- Jer_51:35sobre B caiga la violencia hecha a míH894
+- Jer_51:37será B montones de ruinas, morada deH894
+- Jer_51:41fue apresada B...vino a ser B objeto deH894
+- Jer_51:42subió el mar sobre B; de la multitudH894
+- Jer_51:44juzgaré a Bel en B...el muro de B caeráH894
+- Jer_51:47destruiré los ídolos de B, y toda suH894
+- Jer_51:48los cielos...cantarán de gozo sobre BH894
+- Jer_51:49caerá B, como por B cayeron...muertosH894
+- Jer_51:53aunque suba B hasta el cielo, y seH894
+- Jer_51:54óyese el clamor de B...quebrantamientoH894
+- Jer_51:55porque Jehová destruirá a B, y quitaráH894
+- Jer_51:56vino destruidor contra ella, contra BH894
+- Jer_51:58el muro ancho de B será derribadoH894
+- Jer_51:59iba con Sedequías rey de Judá a B, enH894
+- Jer_51:60todo el mal que había de venir sobre BH894
+- Jer_51:60palabras que están escritas contra BH894
+- Jer_51:61cuando llegues a B, y veas y leas todasH894
+- Jer_51:64así se hundirá B, y no se levantaráH894
+- Jer_52:3se rebeló Sedequías contra el rey de BH894
+- Jer_52:4vino...rey de B, él y todo su ejércitoH894
+- Jer_52:9le hicieron venir al rey de B, a RiblaH894
+- Jer_52:10y degolló el rey de B a los hijos deH894
+- Jer_52:11el rey de B...sacó los ojos a SedequíasH894
+- Jer_52:11y lo hizo llevar a B; y lo puso en laH894
+- Jer_52:12del reinado de Nabucodonosor rey de BH894
+- Jer_52:12que solía estar delante del rey de BH894
+- Jer_52:15que se habían pasado al rey de B, y aH894
+- Jer_52:17caldeos...llevaron todo el bronce a BH894
+- Jer_52:26tomó...los llevó al rey de B en RiblaH894
+- Jer_52:27el rey de B los hirió, y los mató enH894
+- Jer_52:31Evil-merodac rey de B...lo sacó de laH894
+- Jer_52:32tronos de los reyes que estaban...en BH894
+- Jer_52:34daba una ración de parte del rey de BH894
+- Eze_12:13llevarlo a B, a tierra de caldeosH894
+- Eze_17:12rey de B...vino...y los llevó consigo a BH894
+- Eze_17:16que morirá en medio de B, en el lugarH894
+- Eze_17:20y lo haré venir a B, y allí entraré enH894
+- Eze_19:9con cadenas, y lo llevaron al rey de BH894
+- Eze_21:19por donde venga la espada del rey de BH894
+- Eze_21:21porque el rey de B se ha detenido enH894
+- Eze_23:15manera de los hombres de B, de CaldeaH894
+- Eze_23:17se llegaron a ella los hombres de BH894
+- Eze_23:23los de B, y todos los caldeos, los deH894
+- Eze_24:2el rey de B puso sitio a Jerusalén esteH894
+- Eze_26:7norte traigo yo contra Tiro a...rey de BH894
+- Eze_29:18rey ue B hizo a su ejército prestar unH894
+- Eze_29:19doy a...rey de B, la tierra de EgiptoH894
+- Eze_30:10destruiré...Egipto por mano...rey de BH894
+- Eze_30:24-25fortaleceré los brazos del rey de BH894
+- Eze_30:25ponga mi espada en la...del rey de BH894
+- Eze_32:11la espada del rey de B vendrá sobre tiH894
+- Dan_1:1vino...rey de B a Jerusalén, y la sitióH894
+- Dan_2:12mandó que matasen a...los sabios de BH895
+- Dan_2:14salido para matar a los sabios de BH895
+- Dan_2:18no pereciesen con los otros sabios de BH895
+- Dan_2:24puesto para matar a los sabios de B, yH895
+- Dan_2:24no mates a los sabios de B; llévame aH895
+- Dan_2:48gobernador de toda la provincia de BH895
+- Dan_2:48jefe supremo de todos los sabios de BH895
+- Dan_2:49pusiera sobre los negocios...B a SadracH895
+- Dan_3:1levantó en...Dura, en la provincia de BH895
+- Dan_3:12cuales pusiste sobre los negocios de...BH895
+- Dan_3:30el rey engrandeció a Sadrac...en la...de BH895
+- Dan_4:6vinieran delante de mí...los sabios de BH895
+- Dan_4:29meses, paseando en el palacio real de BH895
+- Dan_4:30¿no es ésta la gran B que yo edifiquéH895
+- Dan_5:7dijo...a los sabios de B: Cualquiera queH895
+- Dan_7:1el primer año de Belsasar rey de B tuvoH895
+- Miq_4:10ahora saldrás de...y llegarás hasta BH894
+- Zac_2:7Sion, la que moras con la hija de BH894
+- Zac_6:10toma de los...los cuales volvieron de BH894
+- Mat_1:11en el tiempo de la deportación a BG897
+- Mat_1:12después de la deportación a B, JeconíasG897
+- Mat_1:17desde David hasta la deportación a BG897
+- Mat_1:17deportación a B hasta Cristo, catorceG897
+- Hec_7:43os transportaré, pues, más allá de BG897
+- 1Pe_5:13la iglesia que está en B...os saludanG897
+- Rev_14:8ha caído, ha caído B, la gran ciudad![[G897]]
+- Rev_16:19gran B vino en memoria delante de DiosG897
+- Rev_17:5B la grande, la madre de las ramerasG897
+- Rev_18:2ha caído, ha caído la gran B, y se haG897
+- Rev_18:10ay, de la gran ciudad de B, la ciudadG897
+- Rev_18:21con el mismo ímpetu será derribada BG897

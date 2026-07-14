@@ -1,0 +1,445 @@
+---
+tipo: concordancia
+palabra: PRÍNCIPE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRÍNCIPE
+
+- Gén_12:15la vieron los p de Faraón...alabaronH8269
+- Gén_17:20doce p engendrará, y haré de él unaH5387
+- Gén_21:22Abimelec, y Ficol p de su ejército, a
+- Gén_21:32Abimelec, y Ficol p...volvieron a tierra
+- Gén_23:6eres un p de Dios entre nosotros; en loH5387
+- Gén_25:16hijos de Ismael...12 p por sus familiasH5387
+- Gén_34:2la vio Siquem...p de aquella tierra, y laH5387
+- Éxo_2:14¿quién te ha puesto a ti por p y juezH8269
+- Éxo_16:22los p de la...lo hicieron saber a MoisésH5387
+- Éxo_22:28jueces, ni maldecirás al p de tu puebloH5387
+- Éxo_24:11no extendió su mano sobre los p de losH678
+- Éxo_34:31los p de la congregación volvieron aH5387
+- Éxo_35:27los p trajeron piedras de ónice, y lasH5387
+- Núm_1:16p de...tribus de sus padres, capitanesH5387
+- Núm_1:44los cuales contaron...con los p de IsraelH5387
+- Núm_7:2p de Israel...p de las tribus...ofrecieronH5387
+- Núm_7:3cada dos p un carro, y cada uno un bueyH5387
+- Núm_7:10p trajeron ofrendas para la dedicaciónH5387
+- Núm_7:10ofreciendo los p su...delante del altarH5387
+- Núm_7:11ofrecerán...un p un día, y otro p otroH5387
+- Núm_7:18día ofreció Natanael hijo de Zuar, p deH5387
+- Núm_7:24Eliab hijo...p de los hijos de ZabulónH5387
+- Núm_7:30Elisur hijo de...p de los hijos de RubénH5387
+- Núm_7:36Selumiel hijo...p de los hijos de SimeónH5387
+- Núm_7:42Eliasaf hijo de...p de los hijos de GadH5387
+- Núm_7:48p de los hijos de Efraín, Elisama hijoH5387
+- Núm_7:54el p de los hijos de Manasés, GamalielH5387
+- Núm_7:60el p de los hijos de Benjamín, AbidánH5387
+- Núm_7:66el décimo día, el p de los hijos de DanH5387
+- Núm_7:72el undécimo...el p de los hijos de AserH5387
+- Núm_7:78el p de los hijos de Neftalí, Ahira hijoH5387
+- Núm_7:84fue la ofrenda que los p de...ofrecieronH5387
+- Núm_10:4congregarán ante ti los p, los jefes deH5387
+- Núm_13:2de cada tribu...cada uno p entre ellosH5387
+- Núm_13:3todos aquellos varones eran p...IsraelH5387
+- Núm_16:2se levantaron contra Moisés con 250...pH5387
+- Núm_17:2una vara...de todos los p de ellos, doceH5387
+- Núm_17:6los p...le dieron varas; cada p por lasH5387
+- Núm_21:18pozo, el cual...cavaron los p del puebloH8269
+- Núm_22:8así los p de Moab se quedaron con BalaamH8269
+- Núm_22:13así Balaam se levantó...y dijo a los pH8269
+- Núm_22:14p de Moab...vinieron a Balac y dijeronH8269
+- Núm_22:15volvió Balac a enviar otra vez más pH8269
+- Núm_22:21así Balaam se...fue con los p de MoabH8269
+- Núm_22:35vé...Así Balaam fue con los p de BalacH8269
+- Núm_22:40hizo matar bueyes...y envió a...y a los pH8269
+- Núm_23:6junto a su holocausto, él y todos los pH8269
+- Núm_23:17que él estaba...y con él los p de MoabH8269
+- Núm_25:4toma a...los p del pueblo, y ahórcalosH7218
+- Núm_25:15de Zur, p de pueblos, padre de familiaH8269
+- Núm_25:18lo tocante a Cozbi hija del p de MadiánH8269
+- Núm_27:2presentaron...delante de los p y de todaH8269
+- Núm_30:1habló Moisés a los p de las tribus de losH8269
+- Núm_31:13y salieron...los p de la congregación, aH5387
+- Núm_32:2y hablaron...a los p de la congregaciónH5387
+- Núm_32:28y a Josué hijo...y los p de los padresH7218
+- Núm_34:18tomaréis también de cada tribu un pH5387
+- Núm_34:22de la tribu de...Dan, el p Buqui hijo deH5387
+- Núm_34:23de Manasés, el p Haniel hijo de EfodH5387
+- Núm_34:24de Efraín, el p Kemuel hijo de SiftánH5387
+- Núm_34:25Zabulón, el p Elizafán hijo de ParnacH5387
+- Núm_34:26de Isacar, el p Paltiel hijo de AzánH5387
+- Núm_34:27de la...Aser, el p Ahiud hijo de SelomiH5387
+- Núm_34:28de Neftalí, el p Pedael hijo de AmiudH5387
+- Núm_36:1llegaron los p de los padres...de GalaadH7218
+- Núm_36:1hablaron delante de Moisés y de los pH5387
+- Deu_5:23vinisteis a mí, todos los p...tribusH7218
+- Deu_33:16de aquel que es p entre sus hermanosH7218
+- Jos_5:14p del ejército de Jehová he venidoH8269
+- Jos_5:15p...de Jehová respondió a Josué: QuitaH8269
+- Jos_9:15lo juraron los p de la congregaciónH5387
+- Jos_9:18los p de...les habían jurado por JehováH5387
+- Jos_9:18la congregación murmuraba contra los pH5387
+- Jos_9:19los p respondieron a...la congregaciónH5387
+- Jos_9:21dijeron...de ellos los p: Dejadlos vivirH5387
+- Jos_9:21vida, según les habían prometido los pH5387
+- Jos_13:3los cinco p de los filisteos, el asdodeoH5633
+- Jos_13:21derrotó a...los p de Madián...p de SebónH5387
+- Jos_17:4estas vinieron delante...los p, y dijeronH5387
+- Jos_22:14y a diez p con él: un p por cada casaH5387
+- Jos_22:30oyendo...los p de la congregación, y losH5387
+- Jos_22:32Finees...y los p, dejaron a los hijosH5387
+- Jos_23:2llamó a todo Israel...sus p, sus juecesH7218
+- Jos_24:1llamó a los ancianos...sus p, sus juecesH7218
+- Jue_3:3cinco p de los filisteos, todos losH5633
+- Jue_5:3oíd, reyes; escuchad, oh p; yo cantaré aH7336
+- Jue_5:14de Maquir descendieron p, y de ZabulónH2710
+- Jue_7:25a dos p de los madianitas, Oreb y ZeebH8269
+- Jue_8:3Dios ha entregado...a Oreb...p de MadiánH8269
+- Jue_10:18los p...Galaad dijeron el uno al otroH8269
+- Jue_16:5vinieron a ella los p de los filisteosH5633
+- Jue_16:8los p de los...le trajeron siete mimbresH5633
+- 1Sa_2:8para hacerle sentarse con p y heredarH5081
+- 1Sa_5:8convocaron...todos los p de los filisteosH5633
+- 1Sa_5:11reunieron a todos los p de los filisteosH5633
+- 1Sa_6:4conforme al número de...p de los filisteosH5633
+- 1Sa_6:4plaga ha afligido a todos...a vuestros pH5633
+- 1Sa_6:12los p de los filisteos fueron tras ellasH5633
+- 1Sa_6:16vieron esto los cinco p de los filisteosH5633
+- 1Sa_6:18ciudades...pertenecientes a los cinco pH5633
+- 1Sa_7:7subieron los p...contra Israel; y al oírH5633
+- 1Sa_9:16al cual ungirás por p sobre mi puebloH5057
+- 1Sa_10:1¿no te ha ungido Jehová por p sobre suH5057
+- 1Sa_13:14ha designado para que sea p sobre suH5057
+- 1Sa_18:30salieron a campaña los p de...filisteosH8269
+- 1Sa_25:30ti, y te establezca por p sobre IsraelH5057
+- 1Sa_29:2los p de los filisteos pasaban revistaH5633
+- 1Sa_29:3dijeron los p...Aquis respondió a los pH8269
+- 1Sa_29:4los p de los filisteos se enojaron contraH8269
+- 1Sa_29:6hoy; mas a los ojos de los p no agradasH5633
+- 1Sa_29:7vete en paz, para no desagradar a los pH5633
+- 1Sa_29:9los p de los filisteos me han dicho: NoH8269
+- 2Sa_3:38¿no sabéis que un p y...ha caído hoyH8269
+- 2Sa_5:2Jehová te ha dicho...serás p sobre IsraelH5057
+- 2Sa_6:21para constituirme por p sobre el puebloH5057
+- 2Sa_7:8yo te tomé del...para que fueses p sobreH5057
+- 2Sa_8:18peleteos; y los hijos de David eran los p
+- 2Sa_10:3los p de los hijos de Amón dijeron aH8269
+- 2Sa_19:6que nada te importan tus p y siervosH8269
+- 1Re_1:35que sea p sobre Israel y sobre JudáH5057
+- 1Re_9:22sus p, sus capitanes, comandantes de susH8269
+- 1Re_14:7yo te...te hice p sobre mi pueblo IsraelH5057
+- 1Re_15:20envió los p de los ejércitos que teníaH8269
+- 1Re_16:2y te puse por p sobre mi pueblo IsraelH5057
+- 1Re_20:14por mano de los siervos de los p de lasH8269
+- 1Re_20:15él pasó revista a los siervos de los pH8269
+- 1Re_20:17y los siervos de los p...los primerosH8269
+- 1Re_20:19salieron, pues...los siervos de los pH8269
+- 2Re_7:2p sobre cuyo brazo el rey se apoyabaH3068
+- 2Re_7:17el rey puso a la puerta a aquel p sobre
+- 2Re_7:19aquel p había respondido al varón de DiosH3068
+- 2Re_9:5él entró, he aquí los p...estaban sentadosH8269
+- 2Re_9:5dijo: P, una palabra tengo que...A ti, pH8269
+- 2Re_10:11mató...de la casa de Acab...todos sus pH3045
+- 2Re_11:14los p...junto al rey; y todo el puebloH8269
+- 2Re_20:5vuelve, y di a Ezequías, p de mi puebloH3068
+- 2Re_24:12salió Joaquín rey...sus p y sus oficialesH8269
+- 2Re_24:14y llevó en cautiverio a...a todos los pH8269
+- 2Re_25:9todas las casas de los p quemó a fuegoH3068
+- 2Re_25:23oyendo todos los p del ejército, ellosH8269
+- 1Cr_2:10engendró a Naasón, p de los...de JudáH5387
+- 1Cr_5:2Judá llegó a ser el mayor sobre...y el pH5057
+- 1Cr_5:7sus hermanos...tenían por p a Jeiel y aH7218
+- 1Cr_7:3los hijos de Israhías...por todos, cinco pH7218
+- 1Cr_7:40éstos fueron hijos de Aser...jefes de pH5387
+- 1Cr_9:11hijo de Ahitob, p de la casa de DiosH5057
+- 1Cr_11:2serás p sobre Israel mi pueblo IsraelH5057
+- 1Cr_11:42Adina hijo de Siza rubenita, p de los rubenitasH7218
+- 1Cr_12:20se pasaron a él...p de millares de losH7218
+- 1Cr_12:27Joiada, p de los del linaje de AarónH5057
+- 1Cr_17:7yo te tomé...que fueses p sobre mi puebloH5057
+- 1Cr_18:17los hijos de David eran los p cerca delH7223
+- 1Cr_19:3p de los hijos de Amón dijeron a HanúnH8269
+- 1Cr_21:2dijo David a...y a los p del pueblo: IdH7223
+- 1Cr_24:5hubo p del santuario, y p de la casa deH8269
+- 1Cr_24:6escribió...presencia del rey y de los pH8269
+- 1Cr_28:21los p, y todo el pueblo para ejecutarH8269
+- 1Cr_29:6los p de las tribus de Israel, jefes deH8269
+- 1Cr_29:22y ante Jehová le ungieron por p, y aH5057
+- 1Cr_29:24p...prestaron homenaje al rey SalomónH8269
+- 2Cr_1:2convocó...los p de todo Israel, jefesH5387
+- 2Cr_5:2reunió...a todos los p de las tribus, losH5387
+- 2Cr_6:5ni he escogido varón que fuese p sobre miH5057
+- 2Cr_11:22a Abías hijo de...por p de sus hermanosH5057
+- 2Cr_12:5Semaías a Roboam y a los p de Judá, queH8269
+- 2Cr_12:6los p de Israel y el rey se humillaronH8269
+- 2Cr_17:7al tercer año de su reinado envió sus pH8269
+- 2Cr_19:11y Zebadías...p de la casa de Judá, enH5057
+- 2Cr_21:4Joram...mató a espada...de los p de IsraelH8269
+- 2Cr_21:9pasó Joram con sus p, y todos sus carrosH8269
+- 2Cr_22:8halló a los p de Judá, y a los hijos deH8269
+- 2Cr_23:2reunieron...a los p de las familias deH7218
+- 2Cr_23:13los p y los trompeteros junto al reyH8269
+- 2Cr_24:17vinieron los p de Judá y ofrecieronH8269
+- 2Cr_28:14los cautivos y el botín delante de los pH8269
+- 2Cr_28:21despojó...la casa real, y las de los pH8269
+- 2Cr_29:30Ezequías y los p dijeron a los levitasH8269
+- 2Cr_30:2y el rey había tomado consejo con sus pH8269
+- 2Cr_30:6con cartas de mano al rey y de sus p porH8269
+- 2Cr_30:12cumplir el mensaje del rey y de los pH8269
+- 2Cr_30:24los p dieron al pueblo mil novillos yH8269
+- 2Cr_31:8y los p vinieron y vieron los montonesH8269
+- 2Cr_31:13rey...y de Azarías, p de la casa de DiosH8269
+- 2Cr_32:3consejo con sus p y con sus...valientesH5057
+- 2Cr_32:31lo referente a los mensajeros de los pH8269
+- 2Cr_35:8sus p dieron con liberalidad al puebloH8269
+- 2Cr_36:18tesoros...del rey y de sus p...lo llevóH8269
+- Esd_1:8dio por cuenta a Sesbasar p de JudáH5387
+- Esd_7:28delante del rey y de...los p poderososH8269
+- Esd_8:20a quienes David con los p puso para elH8269
+- Esd_8:25ofrecido el rey...y sus p, y todo IsraelH8269
+- Esd_8:29hasta que los peséis delante de los p deH8269
+- Esd_9:1los p vinieron a mí, diciendo: El puebloH8269
+- Esd_9:2la mano de los p y de los gobernadores haH8269
+- Esd_10:5y juramentó a los p de los sacerdotesH8269
+- Esd_10:8conforme al acuerdo de los p y de losH8269
+- Esd_10:14sean nuestros p los que se queden enH8269
+- Neh_9:32él sufrimiento que ha alcanzado a...pH8269
+- Neh_9:34nuestros p...no pusieron por obra tu leyH8269
+- Neh_9:38firmada por nuestros p, por...levitas yH8269
+- Neh_11:11hijo de Ahitob, p de la casa de DiosH5057
+- Neh_12:7estos eran los p de los sacerdotes y susH7218
+- Neh_12:31hice luego subir a los p de Judá sobreH8269
+- Neh_12:32iba tras...Osaías con la mitad de los pH8269
+- Est_1:3banquete a todos sus p y cortesanosH8269
+- Est_1:3delante...gobernadores y p de provinciasH8269
+- Est_1:11mostrar a...pueblos y a los p su bellezaH8269
+- Est_1:14y estaban...siete p de Persia y de MediaH8269
+- Est_1:16dijo Memucán delante del rey y de los pH8269
+- Est_1:16sino contra todos los p, y contra todosH8269
+- Est_1:18y entonces dirán...a todos los p del reyH8269
+- Est_1:21agradó...a los ojos del rey y de los pH8269
+- Est_2:18hizo...banquete a todos sus p y siervosH8269
+- Est_3:1honró, y puso su silla sobre todos los pH8269
+- Est_3:12mandó...a los p de cada pueblo, a cadaH6346
+- Est_5:11con que le había honrado sobre los p yH8269
+- Est_6:9en mano de alguno de los p más nobles delH8269
+- Est_8:9se escribió...a los...p de las provinciasH8269
+- Est_9:3y todos los p de...apoyaban a los judíosH8269
+- Job_3:15o con los p que poseían el oro, queH8269
+- Job_12:19lleva despojados a los p, y trastornaH3548
+- Job_12:21él derrama menosprecio sobre los p, yH5081
+- Job_21:28¿qué hay de la casa del p, y qué de laH5081
+- Job_29:9los p detenían sus palabras; ponían laH8269
+- Job_31:37pasos, y como p me presentaría ante élH5057
+- Job_34:18al rey: Perverso; y a los p: Impíos?[[H5081]]
+- Job_34:19que no hace acepción de persona de pH8269
+- Sal_2:2p consultarán unidos contra Jehová yH7336
+- Sal_45:16a quienes harás p en toda la tierraH8269
+- Sal_47:9los p de los pueblos se reunieron comoH5081
+- Sal_68:27p de Judá...p de Zabulón...p de NeftalíH8269
+- Sal_68:31vendrán p de Egipto...se apresurará aH2831
+- Sal_76:12cortará él el espíritu de...p; temibleH5057
+- Sal_82:7pero...como cualquiera de los p caeréisH8269
+- Sal_83:11como a Zeba y Zalmuna a todos sus pH5257
+- Sal_107:40él esparce menosprecio sobre los p, yH5081
+- Sal_113:8sentar con los p, con los p de su puebloH5081
+- Sal_118:9mejor es confiar en Jehová que...en pH5081
+- Sal_119:23p también se sentaron y hablaron contraH8269
+- Sal_119:161p me han perseguido sin causa, peroH8269
+- Sal_146:3no confiéis en los p, ni en hijo deH5981
+- Sal_148:11los p y todos los jueces de la tierraH8269
+- Pro_8:15los reyes, y los p determinan justiciaH7336
+- Pro_8:16por mí dominan los p, y...los gobernadoresH8269
+- Pro_14:28la falta de pueblo la debilidad del pH7333
+- Pro_17:7¡cuánto menos al p el labio mentiroso![[H5081]]
+- Pro_19:10¡cuánto menos al siervo ser señor...p![[H8269]]
+- Pro_25:7y no que seas humillado delante del pH5081
+- Pro_25:15con larga paciencia se aplaca el p, yH7101
+- Pro_28:2por la rebelión de la tierra sus p sonH8269
+- Pro_28:15león...el p impío sobre el pueblo pobreH4910
+- Pro_28:16p falto de entendimiento...la extorsiónH5057
+- Pro_29:26muchos buscan el favor del p; mas deH4910
+- Pro_31:4no es de los reyes...de los p la sidraH7336
+- Ecl_10:4espíritu del p se exaltare contra tiH4910
+- Ecl_10:5un mal...a manera de error emanado del pH7989
+- Ecl_10:7y p que andaban como siervos sobre laH8269
+- Ecl_10:16tu rey...y tus p banquetean de mañana![[H8369]]
+- Ecl_10:17y tus p comen a su hora, para reponerH8269
+- Cnt_7:1hermosos son tus pies...oh hija de p![[H5081]]
+- Isa_1:10p de Sodoma, oíd la palabra de JehováH7101
+- Isa_1:23tus p, prevaricadores y compañeros deH8269
+- Isa_3:4pondré jóvenes por p, y muchachos seránH8269
+- Isa_3:6tú serás nuestro p, y toma en tus manosH7101
+- Isa_3:7diciendo: No...no me hagáis p del puebloH7101
+- Isa_3:14Jehová vendrá a juicio...y contra sus pH8269
+- Isa_9:6se llamará su nombre...eterno, p de pazH8269
+- Isa_10:8él dice: Mis p, ¿no son todos reyes?[[H8269]]
+- Isa_13:2alzad...para que entren por puertas de pH5081
+- Isa_14:9levantar de...a todos los p de la tierraH4428
+- Isa_19:11ciertamente son necios los p de ZoánH8269
+- Isa_19:13los p de Zoán, se han engañado los p deH8269
+- Isa_19:20les enviará salvador y p que los libre
+- Isa_21:5¡levantaos, oh p, ungid el escudo![[H8269]]
+- Isa_22:3todos tus p juntos huyeron del arcoH7101
+- Isa_23:8negociantes eran p, cuyos mercaderesH8269
+- Isa_30:4estén sus p en Zoán, y sus embajadoresH8269
+- Isa_31:9sus p, con pavor, dejarán sus banderasH8269
+- Isa_32:1reinará un rey, y p presidirán en juicioH8269
+- Isa_34:12llamarán a sus p, p sin reino; y todosH8269
+- Isa_41:25pisoteará p como lodo, y como pisa elH5461
+- Isa_43:28yo profané los p del santuario, y puseH8269
+- Isa_49:7verán reyes, y se levantarán p...porqueH8269
+- Jer_1:18yo te he puesto...contra los reyes...pH8269
+- Jer_2:26se avergonzará la...sus p, sus sacerdotesH8269
+- Jer_4:9desfallecerá...el corazón de los p, y losH8269
+- Jer_8:1sacarán...los huesos de sus p...fuera deH8269
+- Jer_17:25entrarán...sus p, los varones de Judá yH8269
+- Jer_20:1el sacerdote Pasur...que presidía como pH5057
+- Jer_24:1de haber transportado...a los p de JudáH8269
+- Jer_24:8pondré a...sus p y al resto de JerusalénH8269
+- Jer_25:18reyes, a sus p, para ponerlos en ruinasH8269
+- Jer_25:19a Faraón rey...a sus siervos, a sus p yH8269
+- Jer_26:10y los p de Judá oyeron estas cosas, yH8269
+- Jer_26:11hablaron...a los p y a todo el puebloH8269
+- Jer_26:12habló Jeremías a todos los p y a todoH8269
+- Jer_26:16y dijeron los p y todo el pueblo a losH8269
+- Jer_26:21y oyeron sus palabras el rey...sus p, yH8269
+- Jer_29:2después que salió el rey...los p de JudáH8269
+- Jer_30:21de ella saldrá su p, y de en medio deH8269
+- Jer_32:32la maldad de...sus p, sus sacerdotes yH8269
+- Jer_34:10oyeron todos los p, y todo el puebloH8269
+- Jer_34:19los p de Judá y a los p de JerusalénH8269
+- Jer_34:21a sus p los entregaré en mano de susH8269
+- Jer_35:4estaba junto al aposento de los p, queH8269
+- Jer_36:12p estaban allí sentados...todos los pH8269
+- Jer_36:14enviaron todos los p a Jehudí hijo deH8269
+- Jer_36:19dije rol, los p a Baruc: Vé y escóndeteH8269
+- Jer_36:21oídos de todos los p que junto al reyH8269
+- Jer_37:14sino prendió...lo llevó delante de los pH8269
+- Jer_37:15los p se airaron contra Jeremías, y leH8269
+- Jer_38:4dijeron los p al rey: Muera ahora esteH8269
+- Jer_38:17si te entregas en seguida a los p delH8269
+- Jer_38:18si no te entregas a los p del rey deH8269
+- Jer_38:22las mujeres...serán sacadas a los p delH8269
+- Jer_38:25los p oyeren que yo he hablado contigoH8269
+- Jer_38:27vinieron luego todos los p a JeremíasH8269
+- Jer_39:3y entraron todos los p del rey...demás pH8269
+- Jer_39:13el Rabmag y...los p del rey de BabiloniaH8269
+- Jer_40:13los p de la gente de guerra que estabanH8269
+- Jer_41:1algunos p del rey y diez hombres con élH7227
+- Jer_41:11y oyeron...los p de la gente de guerraH8269
+- Jer_44:17como hemos hecho...reyes y nuestros pH8269
+- Jer_44:21y vuestros p y el pueblo de la tierra?[[H8269]]
+- Jer_48:7en cautiverio, sus sacerdotes y sus pH8269
+- Jer_49:3Mileom fue llevado en cautiverio...sus pH8269
+- Jer_49:38en Elam, y destruiré a su rey y a su pH8269
+- Jer_50:35espada contra...p y contra sus sabiosH8269
+- Jer_51:23a jefes y a p quebrantaré por medio deH6346
+- Jer_51:28de Media, sus capitanes y todos sus pH6346
+- Jer_51:57y embriagaré a sus p y a sus sabios, aH8269
+- Jer_52:10degolló en Ribla a todos los p de JudáH8269
+- Lam_1:5sus enemigos han sido hechos p, susH7218
+- Lam_1:6sus p fueron como ciervos que no hallanH8269
+- Lam_2:2por tierra...humilló al reino y a sus pH8269
+- Lam_2:9su rey y sus p están entre las nacionesH8269
+- Lam_5:12los p colgaron de las manos...los viejosH8269
+- Eze_7:27el rey se enlutará, y el p se vestiráH5387
+- Eze_12:10profecía se refiere al p en JerusalénH5387
+- Eze_12:12p que está en medio de ellos llevaránH5387
+- Eze_17:12y tomó a...a sus p, y los llevó consigoH8269
+- Eze_19:1levanta endecha sobre los p de IsraelH5387
+- Eze_21:12será ella sobre todos los p de IsraelH5387
+- Eze_21:25impío p de Israel, cuyo día ha llegadoH5387
+- Eze_22:6los p de Israel...esfuerzan en derramarH5387
+- Eze_22:27sus p en...son como lobos que arrebatanH8269
+- Eze_26:16los p del mar descenderán de sus tronosH5387
+- Eze_27:21los p de Cedar traficaban contigo enH5387
+- Eze_28:2hijo de hombre, di al p de Tiro: Así haH5057
+- Eze_30:13no habrá más p de la tierra de EgiptoH5387
+- Eze_32:29todos sus p, los cuales con su poderíoH5387
+- Eze_32:30los p del norte, todos ellos, y todosH5257
+- Eze_34:24y mi siervo David p en medio de ellosH5387
+- Eze_37:25y mi siervo David será p de ellos paraH5387
+- Eze_38:2de Magog, p soberano de Mesec y TubalH5387
+- Eze_38:3he aquí, yo estoy contra ti, oh Gog, pH5387
+- Eze_38:13y todos sus p, te dirán: ¿Has venido aH3715
+- Eze_39:1yo estoy contra ti, oh Gog, p soberanoH5387
+- Eze_39:18y beberéis sangre de p de la tierraH5387
+- Eze_44:3cuanto al p, por ser el p, él se sentaráH5387
+- Eze_45:7y la parte del p estará junto a lo queH5387
+- Eze_45:8nunca más mis P oprimirán a mi puebloH5387
+- Eze_45:9así ha dicho...¡Basta ya, oh p de Israel![[H5387]]
+- Eze_45:16dar esta ofrenda para el p de IsraelH5387
+- Eze_45:17p corresponderá el dar el holocaustoH5387
+- Eze_45:22día el p sacrificará por sí mismo y porH5387
+- Eze_46:2y el p entrará por el camino del portalH5387
+- Eze_46:4el holocausto que el p ofrecerá a JehováH5387
+- Eze_46:8y cuando el p entrare, entrará por elH5387
+- Eze_46:10el p, cuando...entrará en medio de ellosH5387
+- Eze_46:12mas cuando el p...hiciere holocaustoH5397
+- Eze_46:16si el p diere parte de su heredad a susH5387
+- Eze_46:17hasta el año del jubileo, y volverá al pH5387
+- Eze_46:18y el p no tomará nada de la herenciaH5387
+- Eze_48:21del p será lo que quedare a uno y otroH5387
+- Eze_48:21delante de las partes dichas será del PH5387
+- Eze_48:22parte del p será la comprendida desdeH5387
+- Dan_1:3trajese de...del linaje real de los pH6579
+- Dan_2:10además...ningún rey, p ni señor preguntóH7990
+- Dan_5:1rey...hizo un gran banquete a mil de sus pH7261
+- Dan_5:3y bebieron en ellos el rey y sus p, susH7261
+- Dan_5:9el rey Belsasar...y sus p estaban perplejosH7261
+- Dan_5:10por las palabras del rey y de sus p, entróH7261
+- Dan_6:7p y capitanes han acordado por consejoH324
+- Dan_6:17selló el rey...y con el anillo de sus pH7261
+- Dan_8:11aun se engrandeció contra el p de losH8269
+- Dan_8:25se levantará contra el P de los p, peroH8269
+- Dan_9:6que en tu nombre hablaron a...nuestros pH8269
+- Dan_9:8la confusión de rostro...de nuestros p yH8269
+- Dan_9:25hasta el Mesías P, habrá siete semanasH5057
+- Dan_9:26pueblo de un p que ha de venir destruiráH5057
+- Dan_10:13mas el p del reino de Persia se me opusoH8269
+- Dan_10:13Miguel, uno de los principales p, vinoH8269
+- Dan_10:20para pelear contra el p de Persia; y alH8269
+- Dan_10:20al terminar con...el p de Grecia vendráH8269
+- Dan_10:21ayuda contra él, sino Miguel vuestro PH8269
+- Dan_11:5mas uno de sus p será más fuerte que élH8269
+- Dan_11:18mas un p hará cesar su afrenta, y aunH7101
+- Dan_11:22destruidos, junto con el p del pactoH5057
+- Dan_12:1Miguel, el gran p que está de parte deH8269
+- Ose_3:4Israel sin rey, sin p, sin sacrificioH8269
+- Ose_4:18fornicaron...p amaron lo que avergüenzaH4043
+- Ose_5:10p de Judá fueron como los que traspasanH8269
+- Ose_7:3con su maldad alegran al rey, y a los pH8269
+- Ose_7:5los p lo hicieron enfermar con copas deH8269
+- Ose_7:16cayeron sus p a espada por la soberbiaH8269
+- Ose_8:4constituyeron p, mas yo no lo supe; de suH8269
+- Ose_8:10afligidos...la carga del rey y de los pH8269
+- Ose_9:15no los amaré más...sus p son deslealesH8269
+- Ose_13:10de los cuales dijiste: Dame rey y p?[[H8269]]
+- Amó_1:15su rey irá en cautiverio, él y...sus pH8269
+- Amó_2:3mataré con él a todos sus p, dice JehováH8269
+- Miq_3:1oíd ahora, p de Jacob, y jefes de laH7101
+- Miq_7:3el p demanda...juez juzga por recompensaH8269
+- Miq_7:5no creáis en amigo, ni confiéis en p; deH8269
+- Nah_3:17tus p serán como langostas, y tusH4502
+- Hab_1:10de los p hará burla; se reirá de todaH7336
+- Sof_1:8día del sacrificio...castigaré a los pH8269
+- Sof_3:3p en medio de ella son leones rugientesH8269
+- Mal_1:8preséntalo, pues, a tu p; ¿acaso seH6346
+- Mat_2:6no eres la más pequeña entre los p deG2232
+- Mat_9:34por el p de los demonios echa fuera losG758
+- Mat_12:24no...sino por Beelzebú, p de los demoniosG758
+- Mar_3:22por el p de los demonios echaba fueraG758
+- Mar_6:21daba una cena a sus p y tribunos y a losG3175
+- Luc_11:15por Beelzebú, p de los demonios, echaG758
+- Jua_12:31el p de este mundo será echado fueraG758
+- Jua_14:30porque viene el p de este mundo, y élG758
+- Jua_16:11el p de este mundo ha sido ya juzgadoG758
+- Hec_4:26y los p se juntaron en uno contra elG758
+- Hec_5:31Dios ha exaltado con...por P y SalvadorG747
+- Hec_23:5está: No maldecirás a un p de tu puebloG758
+- 1Co_2:6de los p de este siglo, que perecenG758
+- 1Co_2:8ninguno de los p de este siglo conocióG758
+- Efe_2:2conforme al p de la potestad del aireG758
+- 1Pe_5:4cuando aparezca el P de los pastoresG750

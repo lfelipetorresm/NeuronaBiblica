@@ -1,0 +1,194 @@
+---
+tipo: concordancia
+palabra: BESTIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BESTIA
+
+- Gén_1:24produzca...b y serpientes y animalesH2416
+- Gén_1:26señoree...en las b, en toda la tierraH929
+- Gén_1:28en todas las b que se mueven sobre la
+- Gén_1:30toda b de la tierra, y a todas las avesH2416
+- Gén_2:19formó...de la tierra toda b del campoH2416
+- Gén_2:20y puso Adán nombre a toda b y ave deH2416
+- Gén_3:14maldita serás entre todas las b y entreH2416
+- Gén_6:7el hombre hasta la b, y hasta el reptilH929
+- Gén_6:20las b según su especie, de todo reptilH929
+- Gén_7:21murió...de aves corno de ganado y de bH929
+- Gén_7:23destruido...desde el hombre hasta la bH929
+- Gén_8:1se acordó Dios de Noé...y de todas las bH929
+- Gén_8:17de aves y de b y de todo reptil que seH929
+- Gén_9:10aves, animales y toda b de la tierra queH929
+- Gén_34:23sus bienes y todas sus b serán nuestrosH4735
+- Gén_36:6Esaú tomó...sus b, y todo cuanto habíaH4735
+- Gén_37:20, Gén_37:33alguna mala b lo devoróH2416
+- Gén_45:17cargad vuestras b, e id, volved a laH1165
+- Éxo_8:17-18piojos...los hombres como en las bH929
+- Éxo_9:9-10úlceras en los hombres y en las bH929
+- Éxo_9:22venga granizo en...Egipto...sobre las b, yH929
+- Éxo_9:25aquel granizo hirió en...hombres como bH929
+- Éxo_11:5morirá todo...todo primogénito de las bH929
+- Éxo_11:7hombre hasta la b, ni un perro moverá suH929
+- Éxo_12:12heriré...de los hombres como de las bH929
+- Éxo_13:15hizo morir en...el primogénito de la bH929
+- Éxo_20:10no hagas en él obra alguna, tú...ni tu bH929
+- Éxo_22:5si alguno...metiere su b en campo de otroH1165
+- Éxo_22:14si alguno hubiere tomado prestada b de
+- Éxo_22:19cualquiera...cohabitare con b, moriráH929
+- Éxo_23:11lo que quedare comerán las b del campoH2416
+- Lev_5:2sea cadáver de b inmunda, o,...de animalH2416
+- Lev_7:26ninguna sangre comeréis...de aves ni de bH929
+- Lev_11:46esta es la ley acerca de las b, y lasH929
+- Lev_20:15tuviere cópula con b...mataréis a la bH929
+- Lev_25:7a la b que hubiere en tu tierra, seráH2416
+- Lev_26:6quitar de vuestra tierra las malas bH2416
+- Lev_26:22enviaré contra vosotros b fieras queH2416
+- Núm_20:4muramos aquí nosotros y nuestras b?[[H1165]]
+- Núm_20:8sacarás aguas y...darás de beber...a sus bH1165
+- Núm_20:11peña...y bebió la congregación, y sus bH1165
+- Núm_31:9de Israel llevaron cautivas...todas sus bH929
+- Núm_31:11y tomaron todo...de hombres como de bH929
+- Núm_31:26cuenta...de las personas como de las bH929
+- Núm_32:26nuestras b, estarán...en las ciudadesH929
+- Núm_35:3y los ejidos de ellas serán para...sus bH929
+- Deu_27:21maldito el que se ayuntare con...bH929
+- Deu_28:4bendito...el fruto de tus b, la cría deH929
+- Deu_28:11en el fruto de tu b, y en el fruto deH929
+- Deu_28:51comerá el fruto de tu b y el truto deH929
+- Deu_30:9te hará...abundar...en el fruto de tu bH929
+- Jos_8:2sus despojos y sus b tomaréis paraH929
+- Jos_8:27los israelitas tomaron para sí las b yH929
+- Jos_11:14tomaron...y las b de aquellas ciudadesH929
+- Jue_20:48hirieron...las b y todo lo...halladoH929
+- 1Sa_17:44y daré tu carne...a las b del campoH929
+- 1Sa_17:46daré...filisteos...a las b de la tierraH2416
+- 1Re_4:28cebada y paja para...las b de cargaH7409
+- 1Re_18:5hierba...para que no nos quedemos sin bH929
+- 2Re_3:9faltó agua...para las b que los seguíanH929
+- 2Re_3:17agua, y beberéis vosotros, y vuestras bH4735
+- 2Cr_32:28hizo...establos para toda clase de bH929
+- Job_12:7pregunta ahora a las b, y ellas teH929
+- Job_18:3¿por qué somos tenidos por b, y...viles?[[H929]]
+- Job_35:11nos enseña más que a las b de la tierraH929
+- Job_37:8las b entran en su escondrijo, y se estánH2416
+- Job_39:15y que puede quebrarlos la b del campoH2416
+- Job_40:20montes...y toda b del campo retoza alláH2416
+- Sal_8:7todo ello, y asimismo las b del campoH929
+- Sal_49:12hombre...semejante a las b que perecenH929
+- Sal_49:20y no entiende, semejante es a las bH929
+- Sal_50:10porque mía es toda b del bosque, y losH2416
+- Sal_73:22tan torpe era...como una b delante de tiH929
+- Sal_78:48entregó al pedrisco sus b, y...ganadosH1565
+- Sal_79:2la carne de tus santos a las b de laH2416
+- Sal_80:13la destroza...la b del campo la devoraH2123
+- Sal_104:11dan de beber a todas las b del campoH2416
+- Sal_104:14él hace producir el heno para las bH929
+- Sal_104:20en ella corretean todas las b de laH2416
+- Sal_135:8hizo morir...desde el hombre hasta la bH929
+- Sal_147:9él da a la b su mantenimiento, y a losH929
+- Sal_148:10b y todo animal, reptiles y volátilesH929
+- Pro_12:10el justo cuida de la vida de su bH929
+- Ecl_3:18que ellos mismos son semejantes a las bH929
+- Ecl_3:19lo que sucede a las b, un mismo sucesoH929
+- Ecl_3:19ni tiene más el hombre que la b; porqueH929
+- Isa_11:6el león y la b, andarán juntos, y unH4806
+- Isa_18:6serán dejados...para las b de la tierraH929
+- Isa_18:6e invernarán todas las b de la tierraH929
+- Isa_30:6sobre las b del Neguev: Por tierra deH929
+- Isa_46:1imágenes fueron puestas sobre b, sobreH2416
+- Isa_46:1alzadas cual carga, sobre las b cansadasH929
+- Isa_56:9las b del campo, todas las fieras, venidH2416
+- Isa_63:14pastoreó, como a una b que desciendeH929
+- Jer_7:33para comida de...las b de la tierraH929
+- Jer_9:10hasta las b de la tierra huyeron, y seH4735
+- Jer_15:3y aves del cielo y b de la tierra paraH929
+- Jer_16:4; Jer_19:7para comida a las aves...y a las bH929
+- Jer_21:6hombres y las b morirán de pestilenciaH929
+- Jer_27:5yo hice...las b que están sobre la faz deH929
+- Jer_27:6; Jer_28:14aun las b del campo le he dadoH2416
+- Jer_34:20serán comida...de las b de la tierraH929
+- Eze_5:17enviaré...sobre vosotros...b ferocesH2416
+- Eze_8:10toda forma de reptiles y b abominablesH929
+- Eze_14:13, Eze_14:17, Eze_14:19, Eze_14:21y cortar de ella hombres y bH929
+- Eze_14:15hiciere pasar b feroces por la tierraH2416
+- Eze_25:13cortaré de ella hombres y b...asolaréH929
+- Eze_29:8espada, y cortaré de ti hombres y bH929
+- Eze_31:6debajo de su ramaje parían todas las bH2416
+- Eze_31:13sobre sus ramas estarán todas las bH2416
+- Eze_32:13b destruiré de sobre las muchas aguasH929
+- Eze_32:13hombre, ni pezuña de b las enturbiaráH929
+- Eze_38:20las b del campo y toda serpiente queH2416
+- Dan_2:38habitan...b del campo y aves del cieloH2423
+- Dan_4:12se ponían a la sombra las b del campoH2423
+- Dan_4:14váyanse las b que están debajo de élH2423
+- Dan_4:15con las b sea su parte entre la hierbaH2423
+- Dan_4:16sea dado corazón de b, y pasen sobre élH2423
+- Dan_4:21debajo del cual moraban las b del campoH2423
+- Dan_4:23con las b del campo sea su parte, hastaH2423
+- Dan_4:25, Dan_4:32con las b del campo será tuH2423
+- Dan_5:21mente se hizo semejante a la de las bH2423
+- Dan_7:3cuatro b grandes, diferentes la una de laH2423
+- Dan_7:5segunda b, semejante a un oso, la cualH2423
+- Dan_7:6tenía también esta b cuatro cabezasH2423
+- Dan_7:7la cuarta b, espantosa y terrible y enH2423
+- Dan_7:7era muy diferente de todas las b que viH2423
+- Dan_7:11miraba hasta que mataron a la b, y suH2423
+- Dan_7:12quitado a las otras b su dominio, peroH2423
+- Dan_7:17cuatro grandes b son cuatro reyes queH2423
+- Dan_7:19saber la verdad acerca de la cuarta bH2423
+- Dan_7:23la cuarta b será un cuarto reino en laH2423
+- Dan_8:4que ninguna b podía parar delante de élH2416
+- Ose_2:12un matorral, y las comerán las b delH2416
+- Ose_2:18haré para ti pacto con las b del campoH2416
+- Ose_4:3se extenuará...con las b del campo y lasH2416
+- Joe_1:18¡cómo gimieron las b! ¡cuán turbadosH929
+- Joe_1:20las b del campo bramarán también a tiH929
+- Miq_1:13uncid al carro b veloces...moradores
+- Miq_5:8como el león entre las b de la selvaH929
+- Sof_1:3destruiré los hombres y las b...avesH929
+- Sof_2:14harán en ella majada...las b del campoH2416
+- Hag_1:11sobre los hombres y sobre las b, yH929
+- Zac_8:10no ha habido paga de...ni paga de bH929
+- Zac_14:15será la plaga de los...y de todas las bH929
+- 1Co_15:39otra carne la de las b, otra la deG2934
+- Tit_1:12los cretenses...mentirosos, malas bG2342
+- Heb_12:20si aun una b tocare el monte, seráG2342
+- Stg_3:7naturaleza de b...se doma y ha sidoG2342
+- 2Pe_2:16muda b...hablando con voz de hombreG880
+- Rev_11:7la b que sube del abismo hará guerraG2342
+- Rev_13:1vi subir del mar una b que tenía sieteG2342
+- Rev_13:2la b que vi era semejante a un leopardoG2342
+- Rev_13:3maravilló toda la tierra en pos de la bG2342
+- Rev_13:4dado autoridad a la b, y adoraron a la bG2342
+- Rev_13:4¿quién como la b, y quién podrá lucharG2342
+- Rev_13:11después vi otra b que subía de la tierraG2342
+- Rev_13:12ejerce...la autoridad de la primera bG2342
+- Rev_13:12hace que...adoren a la primera b, cuyaG2342
+- Rev_13:14con las señales...en presencia de la bG2342
+- Rev_13:14que le hagan imagen a la b que tieneG2342
+- Rev_13:15infundir aliento a la imagen de la bG2342
+- Rev_13:17tuviese la marca o el nombre de la bG2342
+- Rev_13:18cuente el número de la b...número es 666G2342
+- Rev_14:9si alguno adora a la b y a su imagen, yG2342
+- Rev_14:11no tienen reposo...los que adoran a la bG2342
+- Rev_15:2habían alcanzado la victoria sobre la bG2342
+- Rev_16:2sobre los...que tenían la marca de la bG2342
+- Rev_16:10derramó su copa sobre el trono de la bG2342
+- Rev_16:13vi salir...de la boca de la b, y de laG2342
+- Rev_17:3y vi a una mujer sentada sobre una bG2342
+- Rev_17:7te diré el misterio...de la b que la traeG2342
+- Rev_17:8b que has visto, era, y no es; y estáG2342
+- Rev_17:8se asombrarán viendo la b que era y noG2342
+- Rev_17:11la b que era, y no es, es...el octavoG2342
+- Rev_17:12una hora recibirán autoridad...con la bG2342
+- Rev_17:13entregarán su...y su autoridad a la bG2342
+- Rev_17:16y los diez cuernos que viste en la bG2342
+- Rev_17:17y dar su reino a la b, hasta que seG2342
+- Rev_18:13trigo, b, ovejas, caballos y carrosG2342
+- Rev_19:19vi a la b, a los reyes de la tierraG2342
+- Rev_19:20la b fue apresada, y con ella el falsoG2342
+- Rev_19:20a los que recibieron la marca de la bG2342
+- Rev_20:4los que no habían adorado a la b ni a suG2342
+- Rev_20:10donde estaban la b y el falso profetaG2342

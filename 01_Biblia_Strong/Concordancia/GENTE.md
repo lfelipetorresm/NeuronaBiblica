@@ -1,0 +1,256 @@
+---
+tipo: concordancia
+palabra: GENTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GENTE
+
+- Gén_12:20Faraón dio...a su g acerca de AbramH582
+- Gén_14:16recobró a...y a las mujeres y demás gH5971
+- Gén_17:4pacto...y serás padre de muchedumbre de gH1471
+- Gén_17:5porque te he puesto por padre de...de gH1471
+- Gén_33:15dejaré ahora contigo de la g que vieneH5971
+- Gén_50:9subieron con él carros y g de a caballoH6571
+- Éxo_12:38subió...multitud de toda clase de gH6154
+- Éxo_14:9su g de a caballo, y todo su ejércitoH6571
+- Éxo_14:18me glorifique en...en su g de a caballoH6571
+- Éxo_14:23entraron...carros y su g de a caballoH6571
+- Éxo_14:18me glorifique en...en su g de a caballoH6571
+- Éxo_14:23entraron...carros y su g de a caballoH6571
+- Éxo_15:19cabalgando con sus...y su g de a caballoH6571
+- Éxo_19:6me seréis un reino de sacerdotes, y gH1471
+- Éxo_33:13ojos, y mira que esta g es pueblo tuyoH1471
+- Lev_25:44tu esclavo...serán de las g que estánH1471
+- Núm_11:4la g extranjera...tuvo un vivo deseoH628
+- Núm_14:12y a ti te pondré sobre g más grande yH1471
+- Núm_14:15g que hubieran oído tu fama hablaránH1471
+- Núm_16:1Coré hijo de Izhar...y Datán...tomaron g
+- Núm_21:35hirieron a él...y a toda su g, sin queH5971
+- Núm_22:4lamerá esta g todos nuestros contornosH3605
+- Deu_28:50g fiera de rostro...no tendrá respetoH1471
+- Jos_4:1la g hubo acabado de pasar el JordánH1471
+- Jos_5:8y cuando acabaron de circuncidar...la gH1471
+- Jos_8:1toma contigo toda la g de guerra...a HaiH5971
+- Jos_8:3se levantaron Josué y toda la g de guerraH5971
+- Jos_8:11toda la g de guerra...subió y se acercóH5971
+- Jos_10:13hasta que la g se hubo vengado de susH1471
+- Jos_10:24dijo a...g de guerra que hablan venidoH376
+- Jos_11:4salieron...mucha g, como la arena queH5971
+- Jos_11:7y Josué, y toda la g de guerra...vino deH5971
+- Jue_3:18despidió a la g que lo había traídoH5971
+- Jue_4:6vé, Junta a tu g en el monte de TaborH376
+- Jue_7:7váyase...la demás g cada uno a su lugarH5971
+- Jue_7:11los puestos avanzados de la g armada queH2571
+- Jue_8:5os ruego que deis a la g...bocados de panH5971
+- Jue_9:36he allí g que desciende de las cumbresH5971
+- Jue_9:37he allí g que desciende de en medio deH5971
+- Jue_9:43tomando g, la repartió en 3 compañíasH5971
+- Jue_9:48Abimelec...y toda la g que con 61 estabaH5971
+- Jue_11:20reuniendo Sehón toda su g, acampó enH5971
+- Jue_18:23de Dan...¿Qué tienes, que has juntado g?[[H2199]]
+- Jue_20:16de toda aquella g había 700 hombresH5971
+- Jue_20:39comenzaron a...matar a la g de IsraelH376
+- Rut_3:11la g de...sabe que eres mujer virtuosaH5971
+- 1Sa_8:11los pondrá...y en su g de a caballoH6571
+- 1Sa_13:15Saúl contó la g que se hallaba con élH5971
+- 1Sa_14:2y la g que estaba con él era como 600H5971
+- 1Sa_14:15hubo pánico en...la g de la guarniciónH5971
+- 1Sa_18:5lo puso Saúl sobre g de guerra, y eraH5971
+- 1Sa_18:27David y se fue con su g, y mató a 200H376
+- 1Sa_22:17y dijo el rey a la g de su guardia queH7323
+- 1Sa_23:24David y su g estaban en el desierto deH376
+- 1Sa_23:25se fue Saúl con su g a buscarlo; peroH376
+- 1Sa_23:26habían encerrado a David y a su g paraH376
+- 1Sa_30:4David y la g...alzaron su voz y lloraronH5971
+- 1Sa_30:15júrame por Dios...yo te llevaré a esa gH1416
+- 1Sa_30:21cuando David llegó a la g, les saludóH5971
+- 2Sa_1:6venían tras él carros y g de a caballoH1167, [[H6571]]
+- 2Sa_10:18y David mató de...a la g de 700 carros
+- 2Sa_12:31sacó además a la g que estaba en ellaH5971
+- 2Sa_13:34he aquí mucha g que venía por el caminoH5971
+- 2Sa_15:23pasó...toda la g el torrente de CedrónH5971
+- 2Sa_16:15Absalón...la g...entraron en JerusalénH5971
+- 2Sa_17:24Absalón pasó el Jordán con toda la gH376
+- 2Sa_24:2haz un censo...yo sepa el número de la gH5971
+- 1Re_1:5se hizo de carros y de g de a caballoH6571
+- 1Re_1:40y cantaba la g con flautas, y hacíanH5971
+- 1Re_9:19y las ciudades de la g de a caballo, yH6571
+- 1Re_9:22que eran...capitanes...o su g de a caballoH6571
+- 1Re_10:26juntó Salomón carros y g de a caballoH6571
+- 1Re_11:2g de las cuales Jehová había dicho aH1471
+- 1Re_11:24había juntado g contra él, y se habíaH376
+- 1Re_20:20se escapó...con alguna g de caballeríaH6571
+- 1Re_20:21salió...hirió la g de a caballo, y los
+- 2Re_2:12carro de Israel y su g de a caballo![[H6571]]
+- 2Re_4:41dijo: Da de comer a la g. Y no hubo másH5971
+- 2Re_4:42trigo...él dijo: Da a la g para que comaH5971
+- 2Re_4:43da a la g para que coma, porque así haH5971
+- 2Re_6:14envió el rey...g de a caballo, y carros
+- 2Re_6:15sitiada la...con g de a caballo y carros
+- 2Re_6:17el monte estaba lleno de g de a caballo
+- 2Re_6:18ruego que hieras con ceguera a esta gH1471
+- 2Re_9:25tú y yo íbamos juntos con la g de Acab
+- 2Re_10:2los que tienen carros y g de a caballo
+- 2Re_11:4envió Joiada y tomó...y g de la guardia
+- 2Re_13:7no le había quedado g a Joacaz, sino 50H5971
+- 2Re_13:14carro de Israel y su g de a caballo![[H6571]]
+- 2Re_17:24trajo el rey...g de Babilonia, de Cuta
+- 2Re_17:26las g que tú trasladaste y pusiste enH1471
+- 2Re_17:41así temieron a Jehová aquellas g, y alH1471
+- 2Re_18:24confiado en Egipto...su g de a caballo?[[H6571]]
+- 2Re_25:11los que habían quedado de la g comúnH5971
+- 2Re_25:19llevaba el registro de la g del paísH5971
+- 2Re_25:23oyendo todos los príncipes...ellos y su gH376
+- 1Cr_16:24cantad entre las g su gloria, y enH1471
+- 1Cr_19:6tomar a sueldo carros y g de a caballoH6571
+- 1Cr_19:11puso luego el resto de la g en mano deH5971
+- 2Cr_1:14juntó Salomón...y g de a caballo; yH6571
+- 2Cr_8:6ciudades de...y las de la g de a caballoH6571
+- 2Cr_8:9de los hijos de Israel...su g de a caballoH6571
+- 2Cr_8:10los cuales mandaban sobre aquella gH5971
+- 2Cr_13:17Abías y su g hicieron...una gran matanzaH5971
+- 2Cr_15:6una g destruía a otra, y una ciudad a laH1471
+- 2Cr_16:8etíopes...carros y mucha g de a caballo?[[H6571]]
+- 2Cr_17:2y colocó g de guarnición en tierra deH2428
+- 2Cr_18:2bueyes para él y para la g que con élH5971
+- 2Cr_20:21cantasen...mientras salía la g armadaH5971
+- 2Cr_23:12Atalía oyó el estruendo de la g queH5971
+- 2Cr_24:24el...de Siria había venido con poca gH376
+- 2Cr_25:10Amasías apartó...la g que había venidoH1416
+- 2Cr_30:13reunió...mucha g para celebrar la fiestaH5971
+- Esd_6:21las inmundicias de las g de la tierraH1471
+- Esd_8:22tuve vergüenza de pedir al rey tropa y gH6571
+- Neh_2:9el rey envió conmigo...g de a caballoH6571
+- Neh_4:23ni la g de guardia que me seguía, nosH376
+- Neh_7:3aunque haya g allí, cerrad las puertasH1992
+- Job_30:5arrojados de entre las g, y todos les
+- Sal_2:1¿por qué se amotinan las g...pueblosH1471
+- Sal_3:6no temeré a diez millares de g...contra míH5971
+- Sal_9:17Seol, todas las g que se olvidan de DiosH1471
+- Sal_35:15se juntaron contra mí g despreciables
+- Sal_43:1líbrame de g impía...engañoso e inicuoH1471
+- Sal_68:30reprime la reunión de g armadas, laH5971
+- Sal_79:10dirán las g: ¿Dónde está su Dios? SeaH1471
+- Sal_79:10notoria en las g, delante de nuestrosH1471
+- Sal_115:2han de decir las g: ¿Dónde está ahoraH1471
+- Isa_1:4g pecadora, pueblo cargado de maldadH1471
+- Isa_9:3multiplicaste la g, y aumentaste...alegríaH1471
+- Isa_11:10raíz de Isaí...será buscada por las gH1471
+- Isa_18:2, Isa_18:7g fuerte y conquistadora, cuya tierraH5971
+- Isa_25:3te dará...temerá la ciudad de g robustasH5971
+- Isa_26:2abrid las puertas, y entrará la g justaH1471
+- Isa_36:9confiado en Egipto...su g de a caballo?[[H6571]]
+- Isa_55:5llamarás a g que no conociste, y g queH1471
+- Isa_58:2como g que hubiese hecho justicia, y queH1471
+- Isa_62:2verán las g tu justicia, y todos losH1471
+- Isa_65:1a g que no invocaba mi nombre: HemeH1471
+- Jer_4:29al estruendo de la g de a caballo yH6571
+- Jer_5:15yo traigo sobre vosotros g de lejos, ohH1471
+- Jer_5:15g robusta, g antigua, g cuya lenguaH1471
+- Jer_5:29¿no...y de tal g no se vengará mi alma?[[H1471]]
+- Jer_18:9y en un instante hablaré de la g y delH1471
+- Jer_22:8y muchas g pasarán junto a esta ciudadH1471
+- Jer_40:13todos los príncipes de la g de guerraH2428
+- Jer_41:11oyeron...los príncipes de la g de guerraH2428
+- Jer_41:13, Jer_41:16los capitanes de la g de guerra queH2428
+- Jer_42:1vinieron todos los oficiales de la gH2428
+- Jer_42:8llamó a...los oficiales de la g de guerraH2428
+- Jer_43:4los oficiales de la g de guerra y todoH2428
+- Jer_43:5tomó...los oficiales de la g de guerraH2428
+- Jer_52:15la otra g del pueblo que había quedadoH5971
+- Eze_2:3te envío...a g rebelde que se rebelaronH1471
+- Eze_16:40harán subir contra ti muchedumbre de gH6951
+- Eze_17:9mucha g para arrancarla de sus raícesH5971
+- Eze_17:15para que le diese caballos y mucha gH5971
+- Eze_19:8arremetieron...las g de las provinciasH1471
+- Eze_23:42con los varones de la g común fueronH120
+- Eze_26:17¿cómo pereciste tú, poblada por g de
+- Eze_32:23y su g está por los alrededores de suH6951
+- Eze_38:11iré contra g tranquilas que habitan
+- Dan_11:23subirá, y saldrá vencedor con poca gH1471
+- Dan_11:40se levantará...carros y g de a caballoH6571
+- Dan_12:1cual nunca fue desde que hubo g hastaH5971
+- Joe_2:4aspecto...como g de a caballo correránH6571
+- Hab_2:5antes reunió para sí todas las g, yH5971
+- Hab_3:6miró, e hizo temblar las g; los montesH1471
+- Hag_2:14así es...esta g delante de mí, diceH1471
+- Mat_4:25le siguió mucha g de Galilea...JudeaG2992
+- Mat_7:28Jesús...la g se admiraba de su doctrinaG3793
+- Mat_8:1cuando descendió Jesús...le seguía mucha gG3793
+- Mat_8:18viéndose Jesús rodeado de mucha g, mandóG3793
+- Mat_9:8la g, al verlo, se maravilló y glorificóG3793
+- Mat_9:23Jesús...viendo...la g que hacía alborotoG3793
+- Mat_9:25pero cuando la g había sido echada fueraG3793
+- Mat_9:33la g se maravillaba, y decía: Nunca seG3793
+- Mat_11:7comenzó Jesús a decir de Juan a la gG3793
+- Mat_12:15y le siguió mucha g, y sanaba a todosG3793
+- Mat_12:23y toda la g estaba atónita, y decíaG3793
+- Mat_12:46mientras él aún hablaba a la g, he aquíG3793
+- Mat_13:2se le juntó mucha g; y entrando él en laG3793
+- Mat_13:2sentó; y toda la g estaba en la playaG3793
+- Mat_13:34esto habló Jesús por parábolas a la gG3793
+- Mat_13:36despedida la g, entró Jesús en la casaG3793
+- Mat_14:13y cuando la g lo oyó, le siguió a pieG3793
+- Mat_14:19entonces mandó a la g recostarse sobreG3793
+- Mat_15:30se le acercó mucha g que traía...cojosG3793
+- Mat_15:32tengo compasión de la g, porque ya haceG3793
+- Mat_15:39despedida la g, entró en la barca, yG3793
+- Mat_20:31la g les reprendió para que callasenG3793
+- Mat_21:9y la g...aclamaba, diciendo: ¡Hosanna alG3793
+- Mat_21:11la g decía: Este es Jesús el profetaG3793
+- Mat_21:43será dado a g que produzca los frutosG1484
+- Mat_22:33oyendo esto la g, se admiraba de suG3793
+- Mat_23:1habló Jesús a la g y a sus discípulosG3793
+- Mat_24:9seréis aborrecidos de todas las g porG1484
+- Mat_26:47y con él mucha g con espadas y palosG3793
+- Mat_26:55aquella hora dijo Jesús a la g: ¿ComoG3793
+- Mar_2:13toda la g venía a él, y les enseñabaG3793
+- Mar_3:20y se agolpó de nuevo la g, de modo queG3793
+- Mar_3:32la g...le dijo: Tu madre y tus hermanosG3793
+- Mar_4:1se reunió alrededor de él mucha g, tantoG3793
+- Mar_4:1toda la g estaba en tierra junto al marG3793
+- Mar_6:54saliendo...de la barca...la g le conoció
+- Mar_7:33y tomándole aparte de la g, metió losG3793
+- Mar_8:2tengo compasión de la g...hace tres díasG3793
+- Mar_8:34llamando a la g y a sus discípulos, lesG3793
+- Mar_9:15la g, viéndole, se asombró, y corriendoG3793
+- Mar_14:43y con él mucha g con espadas y palosG3793
+- Luc_3:10y la g le preguntaba...¿qué haremos?[[G3793]]
+- Luc_4:42g le buscaba, y llegando a donde estabaG3793
+- Luc_5:15y se reunía mucha g para oírle, y paraG3793
+- Luc_6:17de una gran multitud de g de toda JudeaG2992
+- Luc_6:19y toda la g procuraba tocarle, porqueG3793
+- Luc_7:9dijo a la g que le seguía: Os digo que niG3793
+- Luc_7:12y había con ella mucha g de la ciudadG3793
+- Luc_9:11y cuando la g lo supo, le siguió; y élG3793
+- Luc_9:12despide a la g, para que vayan a lasG3793
+- Luc_9:16para que los pusiesen delante de la gG3793
+- Luc_9:18diciendo: ¿Quién dice la g que soy yo?[[G3793]]
+- Luc_11:14el mudo habló; y la g se maravillóG3793
+- Luc_12:30todas estas cosas buscan...g del mundoG1484
+- Luc_13:14dijo a la g: Seis días hay en que seG3793
+- Luc_21:25habrá...en la tierra angustia de las gG1484
+- Luc_23:4Pilato dijo a...y a la g: Ningún delitoG3793
+- Jua_5:13Jesús se había apartado de la g queG3793
+- Jua_6:10haced recostar la g. Y había...hierbaG444
+- Jua_6:22g que estaba al otro lado del mar vioG3793
+- Jua_6:24cuando vio...g que Jesús no estaba allíG3793
+- Jua_7:32los fariseos oyeron a la g que murmurabaG3793
+- Jua_7:43hubo...disensión entre la g a causa de élG3793
+- Jua_7:49esta g que no sabe la ley, maldita esG3793
+- Jua_12:17daba testimonio la g que estaba con élG3793
+- Jua_12:18había venido la g a recibirle, porqueG3793
+- Jua_12:34le respondió la g: Nosotros hemos oídoG3793
+- Hec_4:25¿por qué se amotinan las g, y losG1484
+- Hec_8:6la g, unánime, escuchaba...las cosas queG3793
+- Hec_8:9Simón...había engañado a la g de SamariaG1484
+- Hec_11:26se congregaron...y enseñaron a mucha gG3793
+- Hec_14:4la g de la ciudad estaba dividida: unosG3793
+- Hec_14:11la g, visto lo que Pablo había hechoG3793
+- Hec_14:16ha dejado a todas las g andar en susG1484
+- Hec_19:26ha apartado a muchas g...diciendo queG3793
+- Rom_4:17te he Puesto por padre de muchas gG1484
+- Rom_4:18llegar a ser padre de mucha g, conformeG1484
+- Rom_16:26se ha dado a conocer a todas las g paraG1484

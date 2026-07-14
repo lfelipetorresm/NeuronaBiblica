@@ -1,0 +1,180 @@
+---
+tipo: concordancia
+palabra: DERECHO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DERECHO, A
+
+- Gén_13:9si...yo iré a la d; y si tú a la d, yoH3231, [[H3225]]
+- Gén_37:7que mi manojo se levantaba y estaba dH5324
+- Gén_48:13Efraín a su d...y Manasés...d de IsraelH3225
+- Gén_48:14Israel extendió su mano d, y la pusoH3225
+- Gén_48:17que ponía la mano d sobre la cabeza deH3225
+- Gén_48:18éste es...pon tu mano d sobre su cabezaH3225
+- Éxo_14:22, Éxo_14:29las aguas como muro a su d y aH3225
+- Éxo_23:6no pervertirás el d de tu mendigo en suH4941
+- Éxo_26:15tablas de madera de acacia, que estén dH5975
+- Éxo_29:9y tendrán el sacerdocio por d perpetuoH2708
+- Éxo_29:20sangre y la pondrás sobre...la oreja dH3233
+- Éxo_29:20sobre el dedo pulgar de las manos dH3225
+- Éxo_29:20y sobre el dedo pulgar de los pies dH3225
+- Éxo_29:22tomarás del carnero...y la espaldilla dH3225
+- Éxo_36:20hizo...las tablas de madera de acacia, dH5975
+- Lev_7:32daréis al sacerdote...la espaldilla dH3225
+- Lev_7:33recibirá la espaldilla d como porciónH3225
+- Lev_8:23sobre el lóbulo de la oreja d de AarónH3233
+- Lev_8:23sobre el dedo pulgar de su mano d, yH3225
+- Lev_8:23y sobre el dedo pulgar de su pie dH3225
+- Lev_8:24sangre sobre el lóbulo de sus orejas dH3225
+- Lev_8:24puso...sobre los pulgares de sus manos dH3225
+- Lev_8:24puso...sobre los pulgares de sus pies dH3225
+- Lev_8:25riñones y la grosura...y la espaldilla dH3225
+- Lev_8:26con la grosura y con la espaldilla dH3225
+- Lev_9:21la espaldilla d, los meció Aarón comoH3225
+- Lev_10:14porque por d son tuyos y de tus hijosH2706
+- Lev_10:15será por d perpetuo tuyo y de tus hijosH3225
+- Lev_13:55esté lo raído en el d o en el revés deH7146
+- Lev_14:14, Lev_14:17, Lev_14:25sobre el lóbulo de la oreja dH3233
+- Lev_14:14, Lev_14:17, Lev_14:25pulgar de su mano d y...de su pie dH3225
+- Lev_14:16mojará su dedo d en el aceite que tieneH3225
+- Lev_14:27con su dedo d...rociará del aceite queH3225
+- Lev_14:28pondrá del aceite...sobre...la oreja dH3225
+- Lev_14:28el pulgar de su mano d y...de su pie dH3225
+- Lev_24:9será de Aarón y de sus...por d perpetuoH2706
+- Núm_18:18la carne...la espaldilla d, será tuyaH3225
+- Núm_22:26para apartarse ni a d ni a izquierdaH3225
+- Núm_27:11por estatuto de d, como Jehová mandóH4941
+- Núm_35:29estas cosas...serán por ordenanza de dH3225
+- Deu_16:19no tuerzas el d; no hagas acepciónH3225
+- Deu_17:8otra, entre una clase de d legal y otraH3225
+- Deu_18:3y este será el d de los sacerdotes deH3225
+- Deu_21:16no podrá dar el d de primogenitura al
+- Deu_24:17no torcerás el d del extranjero ni delH4941
+- Deu_27:19maldito el que pervirtiere el d...viudaH3225
+- Deu_33:2vino...con la ley de fuego a su mano dH3225
+- Jos_6:5subirá el pueblo, cada uno d haciaH5048
+- Jos_6:20pueblo subió...cada uno d hacia adelanteH3225
+- Jue_3:16y se lo ciñó debajo de...a su lado dH3225
+- Jue_3:21alargó Aod...tomó el puñal de su lado dH3225
+- Jue_7:20en la d las trompetas con que tocabanH3225
+- Jue_16:29su mano d sobre una y...sobre la otraH3225
+- Rut_4:6respondió...redime tú, usando de mi dH1353
+- 1Sa_6:12sin apartarse ni a d ni a izquierdaH3225
+- 1Sa_8:3dejándose sobornar y pervirtiendo el dH4941
+- 1Sa_11:2que a cada uno de todos...saque el ojo dH3225
+- 2Sa_2:19siguió Asael...sin apartarse ni a dH3225
+- 2Sa_2:21dijo: Apártate a la d o a la izquierdaH3225
+- 2Sa_14:19hay que apartarse a d ni a izquierdaH3231
+- 2Sa_16:6los hombres valientes estaban a su dH3225
+- 2Sa_19:28¿qué d...tengo aún para clamar más alH6666
+- 1Re_6:8puerta...estaba al lado d de la casaH3233
+- 1Re_7:21alzado la columna del lado d, le pusoH3225
+- 1Re_7:39basas a la mano d...mar al lado d de laH3225
+- 1Re_7:49cinco candeleros de oro...a la mano dH3225
+- 1Re_10:9te ha puesto por rey, para que hagas dH4941
+- 1Re_22:19el ejército de los cielos...a su d y aH3225
+- 2Re_11:11desde el lado d de la casa hastaH3233
+- 2Re_12:9arca...puso junto al altar, a la mano dH3225
+- 2Re_17:37y d y ley y...que os dio por escritoH2706
+- 2Re_22:2anduvo en todo...sin apartarse a d ni aH3225
+- 2Re_23:13lugares altos...a la mano d del monteH3225
+- 1Cr_5:1sus d de primogenitura fueron dadosH1062
+- 1Cr_5:2mas el d de primogenitura fue de JoséH3225
+- 1Cr_6:39su hermano Asaf...estaba a su mano dH3225
+- 2Cr_3:17una a la mano d...la de la mano dH3227
+- 2Cr_4:6fuentes...cinco a la d y 5 a la izquierdaH3225
+- 2Cr_4:7candeleros...5 a la d y 5 a la izquierdaH3225
+- 2Cr_4:8diez mesas...5 a la d y 5 a la izquierdaH3225
+- 2Cr_4:10y colocó el mar al lado d, hacia elH3233
+- 2Cr_18:18todo el ejército...estaba a su mano dH3225
+- 2Cr_23:10desde el rincón d del templo hasta elH3233
+- 2Cr_34:2anduvo en...sin apartarse a la d ni a laH3225
+- Esd_8:21para solicitar de él camino d paraH3477
+- Neh_2:20vosotros no tenéis...ni d ni memoriaH6666
+- Neh_8:4estaban Matatías...y Maasías a su mano dH3225
+- Neh_12:31uno a la d, sobre el muro, hacia laH3225
+- Est_1:13todos los que sabían la ley y el dH1779
+- Job_8:3¿acaso torcerá Dios el d, o pervertiráH4941
+- Job_27:2vive Dios, que ha quitado mi d, y elH3225
+- Job_30:12a la mano d se levantó el populachoH3225
+- Job_31:13si...tenido en poco el d de mi siervoH4941
+- Job_32:9no son...ni los ancianos entienden el dH3225
+- Job_34:5Job ha dicho...Dios me ha quitado mi dH3225
+- Job_34:12y el Omnipotente no pervertirá el dH3225
+- Job_36:6impío, pero a los afligidos dará su dH3225
+- Sal_9:4porque has mantenido mi d y mi causaH3225
+- Sal_37:6como la luz, y tu d como el mediodíaH3225
+- Sal_73:23estuve contigo; me tomaste de la mano dH3225
+- Sal_78:54los trajo a...monte que ganó su mano dH3225
+- Sal_103:6y d a todos los que padecen violenciaH4941
+- Sal_107:7los dirigió por camino d, para queH3477
+- Sal_140:12a su cargo...el d de los necesitadosH4941
+- Pro_2:13que dejan los caminos d, para andarH3476
+- Pro_3:16largura de días está en su mano d; enH3225
+- Pro_4:11por...y por veredas d te he hecho andarH3476
+- Pro_4:27no te desvíes a la d ni a la izquierdaH3225
+- Pro_9:15llamar a los...que van por sus caminos dH3474
+- Pro_12:15el camino del necio es d en su opiniónH3477
+- Pro_14:12hay camino que al hombre le parece dH3225
+- Pro_16:8poco...que la muchedumbre de frutos sin dH4941
+- Pro_16:25camino que parece d al hombre, pero suH3477
+- Pro_18:5pervertir el d del justo, no es buenoH6662
+- Ecl_5:8perversión de d y de justicia vieres enH4941
+- Ecl_10:2el corazón del sabio está a su mano dH3225
+- Cnt_2:6; Cnt_8:3su izquierda está...su d me abraceH3225
+- Isa_5:23justifican al...y al justo quitan su d![[H6666]]
+- Isa_10:2y para quitar el d a los afligidos deH4941
+- Isa_24:5falsearon el d, quebrantaron el pactoH8451
+- Isa_30:21y no echéis a la mano d ni tampocoH541
+- Isa_41:13tu Dios, quien te sostiene de tu mano dH3225
+- Jer_10:5d están como palmera, y no hablanH4749
+- Lam_2:4entesó su arco...afirmó su mano d comoH3225
+- Eze_1:7los pies de ellos eran d, y la plantaH3477
+- Jon_4:11no saben discernir entre su mano d yH3225
+- Miq_3:9que abomináis el...y perviertes todo el dH3477
+- Hab_2:16cáliz de la mano d de Jehová vendráH3225
+- Zac_3:1y Satanás...a su mano d para acusarleH3225
+- Zac_4:3uno a la d del despojo, y el otro a suH3225
+- Zac_4:11estos dos olivos a la d del candelabroH3225
+- Zac_11:17y Su ojo d ser: enteramente oscurecidoH3225
+- Zac_11:17hiera la espada su brazo, y su ojo dH3225
+- Mat_5:29si tu ojo d te es ocasión de caer, sácaloG1188
+- Mat_5:30si tu mano d te es ocasión de caer, córtalaG1188
+- Mat_5:39cualquiera que te hiera en la mejilla dG1188
+- Mat_6:3no sepa tu izquierda lo que hace tu dG1188
+- Mat_20:21uno a tu d, y el otro a tu izquierdaG1188
+- Mat_20:23el sentaros a mi d y...no es mío darloG1188
+- Mat_22:44siéntate a mi d, hasta que ponga a tusG1188
+- Mat_25:34entonces e] Rey dirá a los de su dG1188
+- Mat_27:29una caja en su mano d; e hincando laG1188
+- Mat_27:38a dos ladrones, uno a la d, y otro a laG1188
+- Mar_10:37sentemos el uno a tu d, y el otro aG1188
+- Mar_10:40el sentaros a mi d y a mi izquierda, noG1188
+- Mar_15:27uno a su d, y el otro a su izquierdaG1188
+- Mar_16:5a un joven sentado al lado d, cubiertoG1188
+- Luc_1:11ángel...a la d del altar del inciensoG1188
+- Luc_6:6allí un hombre que tenía seca la mano dG1188
+- Luc_22:50hirió a un siervo...le cortó la oreja dG1188
+- Luc_23:33los malhechores, uno a la d, y otro aG1188
+- Jua_18:10hirió al siervo...le cortó la oreja dG1188
+- Jua_21:6dijo: Echad la red a la d de la barcaG1188
+- Hec_3:7y tomándole por la mano d le levantóG1188
+- Hec_9:11vé a la calle que se llama D, y buscaG2117
+- Hec_14:10a gran voz: Levántate d sobre tus piesG3717
+- Hec_18:14oh judíos, conforme a d yo os toleraríaG3056
+- 1Co_9:4¿acaso no tenemos d de comer y beber?[[G1849]]
+- 1Co_9:5¿no tenemos d de traer con...una hermanaG1849
+- 1Co_9:6solo yo y...no tenemos d de no trabajar?[[G1849]]
+- 1Co_9:12si otros participan de este d sobreG1849
+- 1Co_9:12pero no hemos usado de este d, sino queG1849
+- 1Co_9:18para no abusar de mi d en el evangelioG1849
+- 2Ts_3:9no porque no tuviésemos d, sino porG1849
+- Heb_12:13y haced sendas d para vuestros piesG3717
+- Heb_13:10altar, del cual no tienen d de comer losG1849
+- Rev_5:1vi en la mano d del que estaba sentadoG1188
+- Rev_5:7y vino, y tomó el libro de la mano d delG1188
+- Rev_10:2pie d sobre el mar, y el izquierdo sobreG1188
+- Rev_13:16se les pusiese una marca en la mano dG1188
+- Rev_22:14para tener d al árbol de la vida yG1188

@@ -1,0 +1,205 @@
+---
+tipo: concordancia
+palabra: ALEGRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ALEGRAR
+
+- Gén_43:34José...bebieron, y se alegraron con élH7937
+- Éxo_4:14y al verte se alegrará en su corazónH8055
+- Éxo_18:9y se alegró Jetro de todo el bien queH2302
+- Deu_12:7y os alegraréis...y vuestras familiasH8055
+- Deu_12:12os alegraréis delante de Jehová...DiosH8055
+- Deu_12:18te alegrarás delante de Jehová tu DiosH8055
+- Deu_14:26comerás...te alegrarás tú y tu familiaH8055
+- Deu_16:11te alegrarás delante de Jehová tu DiosH8055
+- Deu_16:14y te alegrarás en tus fiestas solemnesH8055
+- Deu_24:5un año, para alegrar a la mujer que tomóH8055
+- Deu_26:11te alegrarás en todo el bien que JehováH8055
+- Deu_27:7te alegrarás delante de Jehová tu DiosH8055
+- Deu_33:18alégrate, Zabulón, cuando salieres; y túH8055
+- Jue_9:13mi mosto, que alegra a Dios y a losH8055
+- Jue_16:23ofrecer sacrificio a...y para alegrarseH8057
+- Jue_18:20y se alegró el corazón del sacerdoteH3190
+- Jue_19:6pasar...la noche...se alegrará tu corazónH3190
+- Jue_19:9duerme...para que se alegre tu corazónH3190
+- 1Sa_2:1por cuanto me alegré en tu salvaciónH8055
+- 1Sa_11:9a los de Jabes, los cuales se alegraronH8055
+- 1Sa_11:15se alegraron...Saúl y todos los de IsraelH8055
+- 1Sa_19:5tú lo viste, y te alegraste; ¿por quéH8055
+- 2Sa_1:20para que no se alegren las hijas deH8055
+- 1Re_4:20comiendo, bebiendo y alegrándoseH8056
+- 1Re_5:7Hiram...se alegró en gran manera, y dijoH8056
+- 1Re_21:7levántate, y come y alégrate; yo te daréH3190
+- 1Cr_16:10alégrese el corazón de los que buscanH8055
+- 1Cr_16:31alégrense los cielos, y gócese la tierraH8055
+- 1Cr_16:32alégrese el campo, y todo lo que contieneH5970
+- 1Cr_29:9se alegró el pueblo por haber contribuidoH8055
+- 1Cr_29:9se alegró mucho el rey DavidH8057
+- 2Cr_15:15todos los de Judá se alegraron deH8055
+- 2Cr_29:36se alegró Ezequías con todo el puebloH8055
+- 2Cr_30:25se alegró...toda la congregación de JudáH8055
+- Esd_6:22por cuanto Jehová los había alegradoH8055
+- Neh_12:43se alegraron...las mujeres y los niñosH8055
+- Est_8:15la ciudad de Susa...alegró y regocijóH8055
+- Job_3:22que se alegran sobremanera, y se gozanH8056
+- Job_31:25si me alegré de que mis riquezas seH8055
+- Job_31:29si me alegré en el quebrantamiento delH8055
+- Job_39:21escarba la tierra...alegra en su fuerzaH7797
+- Sal_2:11servid a Jehová con temor, y alegraosH1523
+- Sal_5:11alégrense todos los que en ti confíanH8055
+- Sal_9:2me alegraré y me regocijaré en ti; cantaréH5970
+- Sal_13:4enemigos se alegrarían, si yo resbalaraH1523
+- Sal_13:5mi corazón se alegrará en tu salvaciónH1523
+- Sal_14:7se gozará Jacob, y se alegrará IsraelH1523
+- Sal_16:9se alegró por tanto mi corazón, y se gozóH8055
+- Sal_19:5se alegra cual gigante para correr elH7797
+- Sal_19:8los mandamientos de...alegran el corazónH8055
+- Sal_20:5nosotros nos alegraremos en tu salvaciónH7442
+- Sal_21:1el rey se alegra en tu poder, oh JehováH8055
+- Sal_25:2Dios...no se alegren de mí mis enemigosH5970
+- Sal_30:1no...que mis enemigos se alegraran de míH8055
+- Sal_31:7me gozaré y alegraré en tu misericordiaH8055
+- Sal_32:11alegraos en Jehová y gozaos, justosH8055
+- Sal_33:1alegraos, oh justos, en Jehová, en losH7442
+- Sal_33:21por...en él se alegrará nuestro corazónH8055
+- Sal_34:2lo oirán los mansos, y se alegraránH8055
+- Sal_35:9entonces mi alma se alegrará en JehováH1523
+- Sal_35:15pero ellos se alegraron en mi adversidadH8055
+- Sal_35:19no se alegren de mí los que sin causaH8055
+- Sal_35:24júzgame...Dios...y no se alegren de míH8055
+- Sal_35:26a una los que de mi mal se alegranH8056
+- Sal_35:27alégrense los que están a favor de miH8055
+- Sal_38:16no se alegren...cuando mi pie resbaleH8055
+- Sal_40:16alégrense en ti todos los que te buscanH8055
+- Sal_46:4del río sus corrientes alegran la ciudadH8055
+- Sal_48:11alegrará el monte de Sion; se gozaránH8055
+- Sal_53:6se gozará Jacob, y se alegrará IsraelH8055
+- Sal_58:10se alegrará el justo cuando viere laH8055
+- Sal_60:6dicho en su santuario: Yo me alegraréH5937
+- Sal_63:11pero el rey se alegrará en Dios; seráH8055
+- Sal_64:10alegrará el justo en Jehová, y confiaráH8055
+- Sal_65:8haces alegrar las salidas de la mañanaH7442
+- Sal_66:6por el río pasaron...en él nos alegramosH8055
+- Sal_67:4alégrense y gócense las naciones, porqueH8055
+- Sal_68:3mas los justos se alegrarán; se gozaránH8055
+- Sal_68:4JAH es su nombre; alegraos delante de élH5937
+- Sal_70:4alégrense en ti todos los que te buscanH8055
+- Sal_71:23mis labios se alegrarán cuando cante aH7442
+- Sal_86:4alegra el alma de tu siervo, porque a tiH8055
+- Sal_89:16en tu nombre se alegrará todo el díaH1523
+- Sal_89:42has alegrado a todos sus adversariosH8055
+- Sal_90:14y nos alegraremos todos nuestros díasH8055
+- Sal_90:15alégranos conforme a los días que nosH8055
+- Sal_92:4me has alegrado, oh Jehová, con tus obrasH8055
+- Sal_94:19tus consolaciones alegraban mi almaH8173
+- Sal_96:11alégrense los cielos, y gócese la tierraH8055
+- Sal_97:1regocíjese la tierra; alégrense...costasH1523
+- Sal_97:8oyó Sion, y se alegró; y las hijas deH8055
+- Sal_97:12alegraos, justos, en Jehová, y alabadH8055
+- Sal_104:15y el vino que alegra el corazón delH8055
+- Sal_104:31sea la...alégrese Jehová en sus obrasH8055
+- Sal_105:3alégrese el corazón de los que buscanH8055
+- Sal_105:38Egipto se alegró de que salieranH8055
+- Sal_107:30se alegran, porque se apaciguaronH8055
+- Sal_107:42véanlo los rectos, y alégrense, y todosH8055
+- Sal_108:7dicho en su santuario: Yo me alegraréH5937
+- Sal_118:24día...nos gozaremos y alegraremos en élH8055
+- Sal_119:74que te temen me verán, y se alegraránH8055
+- Sal_122:1yo me alegré con los que me decíanH8055
+- Sal_149:2alégrese Israel en su Hacedor; los hijosH8055
+- Pro_2:14que se alegran haciendo el mal, queH8056
+- Pro_5:18y alégrate con la mujer de tu juventudH8055
+- Pro_7:18embriaguémonos...alegrémonos en amoresH5965
+- Pro_10:1el hijo sabio alegra al padre, pero elH8055
+- Pro_11:10en el bien de los...la ciudad se alegraH5970
+- Pro_12:25abate; mas la buena palabra lo alegraH8055
+- Pro_13:9la luz de los justos se alegrará; mas seH8055
+- Pro_15:20el hijo sabio alegra al padre; mas elH8055
+- Pro_15:23el hombre se alegra con la respuesta deH8057
+- Pro_15:30la luz de los ojos alegra el corazónH8055
+- Pro_17:5y el que se alegra de la calamidad noH8056
+- Pro_17:21y el padre del necio no se alegraráH8055
+- Pro_23:15también a mí se me alegrará el corazónH8055
+- Pro_23:16mis entrañas también se alegraránH5937
+- Pro_23:24mucho se alegrará el padre del justoH1523
+- Pro_23:25alégrense tu padre y...madre, y góceseH8055
+- Pro_24:17y cuando tropezare, no se alegre tuH8055
+- Pro_27:9y el perfume alegran el corazón, y elH8055
+- Pro_27:11sé sabio, hijo mío, y alegra mi corazónH8055
+- Pro_28:12justos se alegran, grande es la gloriaH5970
+- Pro_29:2los justos dominan, el pueblo se alegraH8055
+- Pro_29:3el hombre que ama la sabiduría alegra aH8055
+- Pro_29:6lazo; mas el justo cantará y se alegraráH8055
+- Ecl_2:24y que su alma se alegre en su trabajoH2896
+- Ecl_3:12, Ecl_3:22que no hay...cosa mejor que alegrarseH8055
+- Ecl_8:15sino que coma y beba y se alegre; y queH8055
+- Ecl_10:19el vino alegra a los vivos; y el dineroH8055
+- Ecl_11:9alégrate, joven, en tu juventud, y tomeH8055
+- Cnt_1:4nos gozaremos y alegraremos en ti; nosH8055
+- Isa_9:3alegrarán...como se alegran en la siegaH8055, [[H8057]]
+- Isa_13:3ira, a los que se alegran con mi gloriaH5947
+- Isa_14:29no te alegres tú, Filistea toda, porH8055
+- Isa_23:12no te alegrarás más, oh oprimida hijaH5937
+- Isa_24:8se acabó el...de los que se alegran, cesóH5947
+- Isa_25:9nos gozaremos y nos alegraremos en suH8055
+- Isa_35:1se alegrarán el desierto y la soledadH1523
+- Isa_35:2alegrará y cantará con júbilo; la gloriaH1523
+- Isa_49:13cantad...oh cielos, y alégrate, tierraH1523
+- Isa_52:9cantad alabanzas, alegraos juntamenteH7442
+- Isa_61:10mi alma se alegrará en mi Dios; porqueH1523
+- Isa_65:13he aquí que mis siervos se alegraránH8055
+- Isa_65:18os alegraréis para siempre en las cosasH1523
+- Isa_65:19me alegraré con Jerusalén, y me gozaréH1523
+- Isa_66:10alegraos con Jerusalén, y gozaos conH8055
+- Isa_66:14veréis, y se alegrará vuestro corazónH7797
+- Jer_20:15te ha nacido, haciéndole alegrarseH8055
+- Jer_31:13la virgen se alegrará en la danza, losH8055
+- Jer_31:13y los consolaré, y los alegraré de suH8055
+- Jer_32:41me alegraré con ellos haciéndoles bienH7797
+- Jer_41:13que cuando...vio a Jonatán...se alegraronH8055
+- Jer_50:11os alegrasteis, porque os gozasteisH8055
+- Jer_51:39que se embriaguen, para que se alegrenH5937
+- Lam_1:21enemigos han oído mi mal, se alegranH7797
+- Lam_2:17ha hecho que el enemigo se alegre sobreH8055
+- Lam_4:21gózate y alégrate, hija de Edom, la queH8055
+- Eze_7:12compra, no se alegre, y el que vendeH8055
+- Eze_21:10¿hemos de alegrarnos? Al cetro de miH7797
+- Eze_35:15cuando te alegraste sobre la heredadH8057
+- Dan_6:23alegró el rey en gran manera a causaH2868
+- Ose_7:3con su maldad alegran al rey, y a losH8055
+- Ose_9:1no te alegres, oh Israel, hasta saltar deH8055
+- Joe_2:21tierra, no temas, alégrate y gózateH1523
+- Joe_2:23hijos de Sion, alegraos y...en JehováH1523
+- Amó_6:13vosotros que os alegráis en nada, queH8055
+- Abd_1:12haberte alegrado de los hijos de JudáH8055
+- Jon_4:6y Jonás se alegró...por la calabaceraH8057
+- Miq_7:8tú, enemiga mía, no te alegres de míH8055
+- Hab_1:15lo cual se alegrará y se regocijaráH8055
+- Hab_3:18yo me alegraré en Jehová, y me gozaré enH5937
+- Sof_3:11quitaré...a los que se alegran en tuH5947
+- Zac_2:10canta y alégrate, hija de Sion...vengoH8055
+- Zac_4:10los que menospreciaron el...se alegraránH8055
+- Zac_9:9alégrate mucho, hija de Sion; da voces deH1523
+- Zac_9:17trigo alegrará a los jóvenes, y el vinoH5107
+- Zac_10:7se alegrará su corazón como a causa deH8055
+- Zac_10:7sus hijos también verán, y se alegraránH8055
+- Mat_5:12y alegraos, porque vuestro galardónG5463
+- Mar_14:11alegraron, y prometieron darle dineroG5463
+- Luc_6:23alegraos...vuestro galardón es grandeG5463
+- Luc_22:5alegraron; y convinieron en darle dineroG5463
+- Luc_23:8Herodes, viendo a Jesús, se alegró muchoG5463
+- Jua_11:15me alegro...de no haber estado allíG5463
+- Jua_16:20lloraréis...y el mundo se alegrará; peroG5463
+- Hec_2:26por lo cual mi corazón se alegró, yG2165
+- Rom_15:10alegraos, gentiles, con su puebloG2165
+- 1Co_7:30se alegran, como si no se alegrasenG5463
+- 2Co_2:2¿quién será luego el que me alegreG2165
+- 1Pe_1:6lo cual vosotros os alegráis, aunqueG21
+- 1Pe_1:8en quien...os alegráis con gozo inefableG21
+- Rev_11:10moradores de la tierra...se alegraránG5463
+- Rev_12:12por lo cual alegraos, cielos, y losG2165
+- Rev_18:20alégrate sobre ella, cielo, y vosotrosG2165
+- Rev_19:7y alegrémonos y démosle gloria; porqueG21

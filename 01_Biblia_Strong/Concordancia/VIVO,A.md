@@ -1,0 +1,104 @@
+---
+tipo: concordancia
+palabra: VIVO,A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VIVO,A
+
+- Gén_7:3para conservar v la especie sobre laH2421
+- Gén_26:19cavaron...y hallaron...un pozo de aguas vH2416
+- Éxo_21:35venderán el buey v y partirán...dineroH2416
+- Éxo_22:4con el hurto en la mano, v, sea buey o
+- Lev_13:10si...y se descubre asimismo la carne vH2416
+- Lev_13:14el día que apareciere en él la carne vH2416
+- Lev_13:15mirará la carne v...inmunda la carne vH2416
+- Lev_13:16carne v cambiare y se volviere blancaH2416
+- Lev_14:4que se tomen...dos avecillas v, limpiasH2416
+- Lev_14:6después tomará la avecilla v, el cedroH2416
+- Lev_14:6mojará con la avecilla v en la sangreH2416
+- Lev_14:7lepra...soltará la avecilla v en el campoH2416
+- Lev_14:51tomará...la avecilla v, y los mojará enH2416
+- Lev_14:52purificará la casa...con la avecilla vH2416
+- Lev_14:53luego soltará la avecilla v fuera de laH2416
+- Lev_16:10lo presentará v delante de Jehová paraH2416
+- Lev_16:20acabado...hará traer el macho cabrío vH2416
+- Lev_16:21sobre la cabeza del macho cabrío v, yH2416
+- Núm_11:4la gente extranjera...tuvo un v deseo
+- Núm_16:30los tragare...y descendieren v al SeolH2416
+- Núm_16:33descendieron v al Seol, y los cubrióH2416
+- Núm_16:48puso entre los muertos y los v; y cesóH2416
+- Núm_22:33te mataría a ti, y a ella dejaría vH2421
+- Deu_4:4que seguisteis a Jehová...estáis v hoyH2416
+- Deu_5:3con nosotros todos que estamos aquí hoy vH2416
+- Jos_8:23pero tomaron v al rey de Hai, y loH2416
+- Jue_21:14les dieron...las que habían guardado vH2421
+- Rut_2:20no ha rehusado a los v la benevolenciaH2416
+- 1Sa_15:8tomó v a Agag rey de Amalec, pero aH2421
+- 2Sa_18:14Absalón...estaba aún v en medio de laH2421
+- 1Re_3:25el rey dijo: Partid...al niño v, y dadH2416
+- 1Re_3:26la mujer de quien era el hijo v, hablóH2416
+- 1Re_3:26rey...Dad a ésta el niño v, y no lo matéisH2416
+- 1Re_3:27respondió...Dad a aquélla el hijo v, y noH2416
+- 1Re_19:10, 1Re_19:14he sentido un v celo por Jehová DiosH2416
+- 1Re_20:18si han salido por paz, tomadlos v; y siH2416
+- 1Re_20:18si han salido para pelear, tomadlos vH2416
+- 2Re_7:12los tomaremos v, y entraremos en laH2416
+- 2Re_10:14él dijo: Prendedlos v...Y...los tomaron vH2416
+- 2Re_10:24dejare v a alguno de aquellos hombresH2416
+- 2Cr_25:12de Judá tomaron v a otros diez milH2416
+- Sal_38:19mis enemigos están v y fuertes, y seH2416
+- Sal_42:2mi alma tiene sed de Dios, del Dios vH2416
+- Sal_55:15muerte les sorprenda; desciendan v alH2416
+- Sal_58:9así v, así airados, los arrebatará élH2416
+- Sal_84:2mi corazón y mi carne cantan al Dios vH2416
+- Sal_124:3v nos habrían tragado entonces...furorH2416
+- Pro_1:12tragaremos v como el Seol, y enterosH2416
+- Ecl_6:8el pobre que supo caminar entre los v?[[H2416]]
+- Ecl_9:4hay esperanza para...que está entre los vH2416
+- Ecl_9:4porque mejor es perro v que león muertoH2416
+- Ecl_10:19el banquete, y el vino alegra a los vH2416
+- Cnt_4:15pozo de aguas v, que corren del LíbanoH2416
+- Isa_8:19¿consultará a los muertos por los v?[[H2416]]
+- Isa_37:4su señor envió para blasfemar al Dios vH2416
+- Jer_2:13me dejaron a mí, fuente de agua v, yH2416
+- Jer_10:10mas Jehová es el...es Dios v y Rey eternoH2416
+- Jer_17:13dejaron a Jehová, manantial de aguas vH2416
+- Jer_42:17todos...no habrá de ellos quien quede vH2416
+- Jer_44:14quien quede v para volver a la tierraH2416
+- Lam_2:22no hubo quien escapase ni quedase vH2416
+- Eze_7:13no volverá...vendido, aunque queden vH2416
+- Zac_14:8que saldrán de Jerusalén aguas v, laH2416
+- Mat_22:32; Mar_12:27; Luc_20:38Dios no es Dios de muertos, sino de vG2198
+- Jua_4:10tú le pedirías, y él te daría agua vG2198
+- Jua_4:11pozo...¿De dónde, pues, tienes el agua v?[[G2198]]
+- Jua_6:51yo soy el pan v que descendió del cieloG2198
+- Jua_7:38de su interior correrán ríos de agua vG2198
+- Hec_1:3presentó v con...pruebas indubitablesG2198
+- Hec_9:41llamando a los santos y...la presentó vG2198
+- Hec_10:42el que Dios ha puesto por Juez de v yG2198
+- Hec_14:15convirtáis al Dios v, que hizo el cieloG2198
+- Hec_20:10Pablo...dijo: No os alarméis, pues está vG2198
+- Hec_20:12y llevaron al joven v, y...consoladosG2198
+- Hec_25:19Jesús...el que Pablo afirmaba estar vG2198
+- Rom_6:11pero v para Dios en Cristo Jesús, SeñorG2198
+- Rom_6:13presentaos...a Dios como v de entre losG2198
+- Rom_12:1vuestros cuerpos en sacrificio v, santoG2198
+- 2Co_3:3escrita...con el Espíritu del Dios vG2198
+- 1Ts_1:9Dios, para servir al Dios v y verdaderoG2198
+- 1Ti_6:17sino en el Dios v, que nos da todasG2198
+- 2Ti_4:1que juzgará a los v y a los muertosG2198
+- Heb_3:12corazón malo de...apartarse del Dios vG2198
+- Heb_4:12la palabra de Dios es v y eficaz, y másG2198
+- Heb_9:14obras muertas para que sirváis al Dios v?[[G2198]]
+- Heb_10:20por el camino nuevo y v que él nos abrióG2198
+- Heb_10:31cosa es caer en las manos del Dios v![[G2198]]
+- Heb_12:22monte de Sion, a la ciudad del Dios vG2198
+- 1Pe_1:3nos hizo renacer para una esperanza vG2198
+- 1Pe_2:4acercándoos a él, piedra v, desechadaG2198
+- 1Pe_2:5como piedras v, sed edificados como casaG2198
+- 1Pe_4:5está preparado para juzgar a los v y a losG2198
+- Rev_7:2y tenía el sello del Dios v; y clamó aG2198
+- Rev_16:3y murió todo ser v que había en el marG2198
+- Rev_19:20lanzados v dentro de un lago de fuegoG2198

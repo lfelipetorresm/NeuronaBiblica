@@ -1,0 +1,71 @@
+---
+tipo: concordancia
+palabra: ACOSTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ACOSTAR
+
+- Gén_19:4antes que se acostasen, rodearon laH7901
+- Gén_19:33él no sintió cuándo se acostó ella, niH7901
+- Gén_19:35no echó de ver cuándo se acostó ellaH7901
+- Gén_28:11durmió allí...se acostó en aquel lugarH7901
+- Gén_28:13la tierra en que estás acostado te laH7901
+- Gén_34:2Siquem...acostó con ella, y la deshonróH7901
+- Gén_34:7hizo vileza...acostándose con la hija deH7901
+- Gén_39:10acostarse al lado de ella, para estarH7901
+- Lev_15:4toda cama en que se acostare el queH7901
+- Lev_15:20todo aquello sobre que ella se acostareH7901
+- Deu_6:7hablarás de ellas...andando...acostarteH7901
+- Deu_11:19hablando de ellas...cuando te acuestesH7901
+- Deu_22:22sorprendido...acostado con una mujerH7901
+- Deu_22:22morirán, el hombre que se acostó conH7901
+- Deu_22:23la hallare en...y se acostare con ellaH7901
+- Deu_22:25la forzare aquel...acostándose con ellaH7901
+- Deu_22:25morirá...hombre que se acostó con ellaH7901
+- Deu_22:28la tomare, y se acostare con ella, yH7901
+- Deu_22:29el hombre que se acostó con ella daráH7901
+- Deu_24:12no te acostarás reteniendo...su prendaH7901
+- Deu_27:20maldito...se acostare con la mujer deH7901
+- Deu_27:22maldito el...se acostare con su hermanaH7901
+- Deu_27:23maldito el...se acostare con su suegraH7901
+- Rut_3:4se acueste, notarás...donde se acuestaH7901
+- Rut_3:4irás...y te acostarás allí; y él te diráH7901
+- Rut_3:7vino...le descubrió los pies y se acostóH7901
+- Rut_3:8una mujer estaba acostada a sus piesH7901
+- 1Sa_3:2estando Elí acostado en su aposentoH7901
+- 1Sa_3:5acuéstate. Y él se volvió y se acostóH7901
+- 1Sa_3:6hijo...no he llamado; vuelve y acuéstateH7901
+- 1Sa_3:9vé y acuéstate; y si te llamare, dirásH7901
+- 1Sa_3:9se fue Samuel, y se acostó en su lugarH7901
+- 1Sa_3:15Samuel estuvo acostado hasta la mañanaH7901
+- 2Sa_12:16y pasó la noche acostado en tierraH7901
+- 2Sa_13:5le dijo: Acuéstate en tu cama, y fingeH7901
+- 2Sa_13:6se acostó...Amnón, y fingió que estabaH7901
+- 2Sa_13:8Tamar...Amnón, el cual estaba acostadoH7901
+- 2Sa_13:11ven, hermana mía, acuéstate conmigoH7901
+- 2Sa_13:14mas él...la forzó, y se acostó con ellaH7901
+- 1Re_3:19murió, porque ella se acostó sobreH7901
+- 1Re_21:4acostó en su cama, y volvió su rostroH7901
+- Job_7:4acostado, digo: ¿Cuándo me levantaré?[[H7901]]
+- Job_11:19te acostarás, y no...quién te espanteH7257
+- Job_27:19rico se acuesta, pero por última vezH7901
+- Sal_3:5me acosté y dormí, y desperté, porqueH7901
+- Sal_4:8en paz me acostaré, y...dormiré; porqueH7901
+- Pro_3:24cuando te acuestes, no tendrás temorH7901
+- Pro_3:24que te acostarás, y tu sueño será gratoH7901
+- Isa_11:6leopardo con el cabrito se acostaráH7257
+- Isa_14:30menesterosos se acostarán confiadosH7257
+- Eze_4:4te acostarás sobre tu lado izquierdoH7901
+- Eze_4:6te acostarás sobre tu lado derecho...vezH7901
+- Eze_4:9el número de los días que te acuestesH7901
+- Dan_6:18rey...se acostó ayuno; ni instrumentosH956
+- Amó_2:8se acuestan junto a cualquier altarH5186
+- Mar_1:30la suegra de Simón estaba acostadaG2621
+- Mar_7:30halló...a la hija acostada en la camaG906
+- Luc_2:7acostó en un pesebre, porque no habíaG347
+- Luc_2:12y hallaréis al niño...acostado...pesebreG2749
+- Luc_2:16José, y al niño acostado en el pesebreG2749
+- Luc_5:25tomando el lecho en que...acostadoG2621
+- Jua_5:6cuando Jesús lo vio acostado, y supoG2621

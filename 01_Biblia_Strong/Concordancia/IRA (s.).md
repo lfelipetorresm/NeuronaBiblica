@@ -1,0 +1,334 @@
+---
+tipo: concordancia
+palabra: IRA (s.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# IRA (s.)
+
+- Gén_27:45aplaque la i de tu hermano contra tiH639
+- Gén_32:20apaciguaré su i con el presente que
+- Gén_49:7maldito su furor...Y Su i, que fue duraH5678
+- Éxo_15:7enviaste tu i; los consumió como aH2740
+- Éxo_32:10déjame que se encienda mi i en ellosH639
+- Éxo_32:12vuélvete del ardor de tu i...de este malH639
+- Éxo_32:19ardió la i de Moisés, y arrojó lasH639
+- Éxo_34:6tardo...la i, y grande en misericordiaH639
+- Lev_10:6se levante la i sobre...congregaciónH7107
+- Lev_26:28yo procederé en contra de...con i, y osH2534
+- Núm_1:53que no haya i sobre la congregaciónH7110
+- Núm_11:1ardió su i, y se encendió en ellos fuegoH639
+- Núm_11:10y la i de Jehová se encendió en granH639
+- Núm_11:33la i de Jehová se encendió en el puebloH639
+- Núm_12:9la i de Jehová se encendió contra ellosH639
+- Núm_14:18Jehová, tardo para la i...que perdonaH639
+- Núm_18:5no venga más la i sobre los...de IsraelH7110
+- Núm_22:22la i de Dios se encendió porque él ibaH639
+- Núm_24:10encendió la i de Balac contra BalaamH639
+- Núm_25:4de la i de Jehová se apartará de IsraelH639
+- Núm_32:10y la i de Jehová se encendió...y juróH639
+- Núm_32:13i de Jehová se encendió contra IsraelH639
+- Núm_32:14para añadir aún a la i de Jehová contraH639
+- Deu_9:7has provocado la i de Jehová tu DiosH7107
+- Deu_9:8en Horeb provocasteis a i a Jehová, y seH7107
+- Deu_9:19temí...la i con que Jehová estaba enojadoH639
+- Deu_9:22en Tabera, en...provocasteis a i a JehováH7107
+- Deu_13:17Jehová se aparte del ardor de su i, yH639
+- Deu_29:20humeará la i de Jehová...sobre el talH639
+- Deu_29:23las cuales Jehová destruyó en su...su iH639
+- Deu_29:24qué significa el ardor de esta gran i?[[H639]]
+- Deu_29:27encendió la i de Jehová contra estaH639
+- Deu_29:28los desarraigó de su tierra con i, conH2354
+- Deu_32:16lo provocaron a i con abominacionesH3707
+- Deu_32:19y lo vio Jehová, y se encendió en iH5006
+- Deu_32:21me provocaron a i con sus ídolos; yoH3707
+- Deu_32:21provocaré a i con una nación insensataH3707
+- Deu_32:22porque fuego se ha encendido en mi iH639
+- Jos_7:1la i de Jehová se encendió contra losH639
+- Jos_7:26y Jehová se volvió del ardor de su iH639
+- Jos_9:20para que no venga i sobre nosotros porH7110
+- Jos_22:20vino i sobre toda la congregación deH7110
+- Jos_23:16entonces la i de Jehová se encenderáH639
+- Jue_2:12adoraron; y provocaron a i a JehováH3707
+- Jue_2:20i de Jehová se encendió contra IsraelH639
+- Jue_3:8i de Jehová se encendió contra IsraelH639
+- Jue_6:39no se encienda tu i contra mí, si aúnH639
+- Jue_9:30cuando Zebul...oyó las...se encendió en iH639
+- Jue_10:7encendió la i de Jehová contra IsraelH639
+- 1Sa_11:6él se encendió en i en gran maneraH639
+- 1Sa_17:28se encendió en i contra David y dijoH639
+- 1Sa_20:30encendió la i de Saúl contra JonatánH639
+- 1Sa_20:34se levantó Jonatán de...con exaltada iH639
+- 1Sa_28:18ni cumpliste el ardor de su i contraH639
+- 2Sa_24:1volvió a encenderse la i de JehováH639
+- 1Re_16:2provocándome a i con tus pecadosH3707
+- 1Re_16:7provocándole a i con las obras de susH3707
+- 1Re_16:26provocando a i a Jehová...con sus ídolosH3707
+- 1Re_16:33para provocar la i de Jehová Dios deH3707
+- 1Re_21:22la rebelión con que me provocaste a iH3707
+- 1Re_22:53y provocó a i a Jehová Dios de IsraelH3707
+- 2Re_17:11malas para provocar a i a JehováH3707
+- 2Re_17:17hacer lo malo ante...provocándole a iH3707
+- 2Re_21:6el hacer lo malo...para provocarlo a iH3707
+- 2Re_21:15y me han provocado a i, desde el díaH3707
+- 2Re_22:13grande es la i de...que se ha encendidoH2534
+- 2Re_22:17provocándome a i con toda la obra deH3707
+- 2Re_22:17mi i se ha encendido contra este lugarH2534
+- 2Re_23:19los lugares altos...para provocar a iH3707
+- 2Re_23:26con que su gran i se había encendidoH639
+- 2Re_24:20vino...la i de Jehová contra JerusalénH639
+- 2Cr_12:7los salvaré...no se derramará mi iH2534
+- 2Cr_12:12la i de Jehová se apartó de él, paraH639
+- 2Cr_19:2ha salido...Jehová i contra ti por estoH7110
+- 2Cr_19:10para que no venga i sobre vosotros yH7110
+- 2Cr_21:16contra Joram la i de los filisteos yH7307
+- 2Cr_24:18la i de Dios vino sobre Judá por esteH7110
+- 2Cr_25:15encendió la i de Jehová contra AmasíasH639
+- 2Cr_26:19Uzías...se llenó de i; y en su i contraH2196
+- 2Cr_28:9vosotros los habéis matado con i que haH2534
+- 2Cr_28:13grande...el ardor de la i contra IsraelH639
+- 2Cr_28:25provocando así a i a Jehová el Dios deH3707
+- 2Cr_29:8la i de Jehová ha venido sobre Judá yH7110
+- 2Cr_29:10aparte de nosotros el ardor de su iH639
+- 2Cr_30:8ardor de su i se apartará de vosotrosH639
+- 2Cr_32:25vino la i contra él, y contra Judá yH7110
+- 2Cr_32:26no vino sobre ellos la i de Jehová enH7110
+- 2Cr_33:6excedió en hacer...hasta encender su iH3707
+- 2Cr_34:21porque grande es la i de Jehová que haH2534
+- 2Cr_34:25provocándome a i con...derramará mi iH2534
+- 2Cr_36:16hasta que subió la i de Jehová contraH2534
+- Esd_5:12provocaron a i al Dios de los cielosH7265
+- Esd_7:23¿por qué habría de ser su i contra elH7109
+- Esd_10:14apartemos...el ardor de la i de...DiosH639
+- Neh_9:17piadoso, tardo para la i, y grandeH639
+- Neh_9:26pero te provocaron a i, y se rebelaronH5007
+- Neh_13:18añadís i sobre Israel profanando el díaH2740
+- Est_1:12el rey se enojó...y se encendió en iH2534
+- Est_2:1sosegada...la i del rey Asuero, se acordóH2534
+- Est_3:5vio Amán que Mardoqueo...y se llenó de iH2534
+- Est_5:9salió Amán...llenó de i contra MardoqueoH2534
+- Est_7:7luego el rey se levantó...encendido en iH2534
+- Est_7:10colgaron a...y se apaciguó la i del reyH2534
+- Job_4:9y por el soplo de su i son consumidosH639
+- Job_5:2es cierto que al necio lo mata la i, yH3708
+- Job_9:13Dios no volverá atrás su i, y debajo deH639
+- Job_14:13me encubrieses hasta apaciguarse tu iH639
+- Job_20:23Dios enviará sobre él el ardor de su iH639
+- Job_21:17y Dios en su i les reparte dolores![[H639]]
+- Job_21:20verán...beberá de la i del TodopoderosoH2534
+- Job_21:30malo...guardado será en el día de la iH5678
+- Job_32:2encendió en i contra Job...i, por cuantoH639
+- Job_32:3se encendió en i Contra sus tres amigosH639
+- Job_32:5pero viendo Eliú que...se encendió en iH639
+- Job_35:15mas ahora, porque en su i no castigaH639
+- Job_36:13los hipócritas...atesoran para sí la iH639
+- Job_36:18no sea que en su i te quite con golpeH2534
+- Job_36:33la tempestad proclama su i contra la
+- Job_40:11derrama el ardor de tu i; mira a todoH639
+- Job_42:7mi i se encendió contra ti y tus dosH639
+- Sal_2:5en su furor, y los turbará con su iH639
+- Sal_2:12enoje...pues se inflama de pronto su iH639
+- Sal_6:1Jehová, no me...ni me castigues con tu iH639
+- Sal_7:6levántate, oh Jehová, en tu i; álzateH639
+- Sal_21:9horno de fuego en el tiempo de tu iH6440
+- Sal_21:9Jehová los deshará en su i, y fuego losH639
+- Sal_27:9no apartes con i a tu siervo; mi ayudaH639
+- Sal_30:5por un momento será su i, pero su favorH639
+- Sal_34:16i de Jehová contra los que hacen malH6440
+- Sal_37:8deja la i, y desecha el enojo; no teH639
+- Sal_38:1me reprendas...ni me castigues en tu iH7110
+- Sal_38:3nada hay sano en mi...a causa de tu iH2195
+- Sal_69:24derrama sobre ellos tu i, y el furor deH639
+- Sal_76:7estar en pie...cuando se encienda tu i?[[H639]]
+- Sal_76:10ciertamente la i del hombre te alabaráH2534
+- Sal_76:10tú reprimirás el resto de las iH2534
+- Sal_77:9Dios...ha encerrado con i sus piedades?[[H639]]
+- Sal_78:38apartó muchas veces su i, y...su enojoH639
+- Sal_78:49envió sobre ellos el ardor de su iH639
+- Sal_79:6derrama tu i sobre las naciones que noH2534
+- Sal_85:3enojo; te apartaste del ardor de tu iH639
+- Sal_85:4Dios...haz cesar tu i de sobre nosotrosH3708
+- Sal_85:5¿extenderás tu i de generación enH639
+- Sal_86:15mas tú, Señor, Dios...lento para la iH639
+- Sal_88:7sobre mí reposa tu i, y me has afligidoH2534
+- Sal_88:16sobre mí han pasado tus i...tus terroresH2740
+- Sal_89:46siempre? ¿arderá tu i como el fuego?[[H2534]]
+- Sal_90:7con tu furor...con tu i somos turbadosH639
+- Sal_90:9nuestros días declinan a causa de tu iH5678
+- Sal_90:11¿quién conoce el poder de tu i, y tuH639
+- Sal_102:10a causa de tu enojo y de tu i; puesH7110
+- Sal_103:8Jehová, lento para la i, y grande enH639
+- Sal_106:29provocaron la i de Dios con sus obrasH3707
+- Sal_110:5quebrantará...reyes en el día de su iH639
+- Sal_138:7contra la i de mis enemigos...tu manoH639
+- Sal_145:8Jehová, lento para la i, y grande enH639
+- Pro_11:4no aprovecharán las...en el día de la iH5678
+- Pro_12:16el necio al punto da a conocer su iH3708
+- Pro_15:1la blanda respuesta quita la i; mas laH639
+- Pro_16:14la i del rey es mensajero de muerteH2534
+- Pro_19:12como rugido de...león es la i del reyH2197
+- Pro_19:19el de grande i llevará la pena; y siH2534
+- Pro_21:14calma...el don en el seno, la fuerte iH639
+- Pro_26:17se deja llevar de la i en pleito ajeno
+- Pro_27:3la i del necio es más pesada que ambasH3708
+- Pro_27:4cruel es la i, e impetuoso el furor; masH639
+- Pro_29:8en llamas; mas los sabios apartan la iH639
+- Pro_29:11el necio da rienda suelta a toda su iH7307
+- Pro_30:33el que provoca la i causará contiendaH639
+- Isa_1:4provocaron a i al Santo de Israel, seH5006
+- Isa_7:4por el ardor de la i de Rezín y de SiriaH639
+- Isa_9:19la i de Jehová...se oscureció la tierraH5678
+- Isa_10:5oh Asiria...en su mano he puesto mi iH639
+- Isa_10:6sobre el pueblo de mi i le enviaré, paraH5678
+- Isa_13:3llamé a mis valientes para mi i, a losH639
+- Isa_13:5Jehová y los instrumentos de su i, paraH2195
+- Isa_13:9y ardor de i, para convertir la tierraH639
+- Isa_13:13la tierra se moverá...el día...de su iH639
+- Isa_14:6que se enseñoreaba de las naciones con iH639
+- Isa_30:27labios llenos de i, y su lengua comoH639
+- Isa_42:25derramó sobre él el ardor de su i, yH639
+- Isa_48:9por amor de mi nombre diferiré mi iH639
+- Isa_51:17de la mano de Jehová el cáliz de su iH2534
+- Isa_51:20llenos de la indignación...i del DiosH2534
+- Isa_51:22he quitado de tu mano...cáliz de mi iH2534
+- Isa_54:8con un poco de i escondí mi rostro deH7110
+- Isa_59:18para retribuir con i a sus enemigosH2534
+- Isa_60:10en mi i te castigué, mas en mi buenaH7110
+- Isa_63:3pisé con mi i, y los hollé con mi furorH639
+- Isa_63:5y me salvó mí brazo, y me sostuvo mi iH2534
+- Isa_63:6mi i hollé los pueblos, y los embriaguéH639
+- Isa_65:3en mi rostro me provoca de continuo a iH3707
+- Isa_66:15vendrá...para descargar su i con furorH639
+- Jer_2:35soy inocente...su i se apartó de míH639
+- Jer_3:12vuélvete...no haré caer mi i sobre tiH6440
+- Jer_4:4no sea que mi i salga como fuego, y seH2534
+- Jer_4:8porque la i de Jehová no se ha apartadoH639
+- Jer_4:26eran asoladas...delante del ardor de su iH639
+- Jer_6:11tanto, estoy lleno de la i de JehováH2534
+- Jer_7:18a dioses ajenos, para provocarme a iH3707
+- Jer_7:19me provocarán ellos a i? dice JehováH3707
+- Jer_7:20que mi furor y mi i se derramarán sobreH639
+- Jer_7:29y dejado la generación objeto de su iH5678
+- Jer_10:10a su i tiembla la tierra, y...nacionesH7110
+- Jer_11:17provocándome a i con incensar a BaalH3707
+- Jer_12:13a causa de la ardiente i de JehováH639
+- Jer_18:20me puse delante...apartar de ellos tu iH2534
+- Jer_21:5pelearé...con furor y enojo e i grandeH7110
+- Jer_21:12para que mi i no salga como fuego, yH2534
+- Jer_25:6ni me provoquéis a i con la obra deH3707
+- Jer_25:7provocarme a i con la obra de...manosH3707
+- Jer_25:37serán destruidos por el ardor de la iH639
+- Jer_25:38asolada fue la...por la i del opresorH639
+- Jer_30:24no se calmará el...de la i de JehováH639
+- Jer_32:29libaciones a dioses, para provocarme a iH3707
+- Jer_32:30no han hecho más que provocarme a iH3707
+- Jer_32:31y para i mía me ha sido esta ciudadH639
+- Jer_33:5a los cuales herí yo con mi furor y...iH639
+- Jer_36:7grande es el furor y la i que...JehováH639
+- Jer_42:18se derramó mi enojo y mi i sobre losH639
+- Jer_42:18así se derramará mi i sobre vosotrosH2534
+- Jer_44:6se derramó, por tanto, mi i y mi furorH639
+- Jer_49:37traeré sobre ellos...el ardor de mi iH639
+- Jer_50:13por la i de Jehová no será habitadaH7110
+- Jer_51:45salvad...su vida del ardor de la i deH639
+- Jer_52:3a causa de la i de Jehová contra...JudáH639
+- Lam_2:3cortó con el ardor de su i...el poderíoH639
+- Lam_2:6en el ardor de su i ha desechado al reyH639
+- Lam_3:43desplegaste la i y nos perseguisteH639
+- Lam_4:11cumplió...enojo, derramó el ardor de su iH639
+- Lam_4:16i de Jehová los apartó, no los miraráH6440
+- Eze_5:15cuando yo haga en ti juicios con...iH639
+- Eze_7:8ahora pronto derramaré mi i sobre ti, yH639
+- Eze_7:12, Eze_7:14la i está sobre toda la multitudH2740
+- Eze_13:13haré que la rompa viento...con mi i, yH639
+- Eze_14:19derramare mi i sobre ellas en sangreH2534
+- Eze_16:38traeré sobre ti sangre de i y de celosH2534
+- Eze_16:42saciaré mi i sobre ti, y se apartaráH2534
+- Eze_16:43me provocaste a i en todo esto, por esoH7264
+- Eze_19:12pero fue arrancada con i, derribada enH2534
+- Eze_20:8, Eze_20:13, Eze_20:21que derramaría mi i sobre ellosH639
+- Eze_21:17batiré mi mano...y haré reposar mi iH2534
+- Eze_21:31derramaré sobre ti mi i; el fuego deH5678
+- Eze_22:20así os juntaré en mi furor y en mi iH639
+- Eze_22:31por tanto, derramé sobre ellos mi iH2195
+- Eze_22:31con el ardor de mi i los consumí; hiceH5678
+- Eze_24:8hecho subir la i para hacer venganzaH2534
+- Eze_24:13nunca...hasta que yo sacie mi i sobre tiH2534
+- Eze_25:14harán en Edom según...conforme a mi iH639
+- Eze_25:17haré...venganzas con reprensiones de iH2534
+- Eze_30:15y derramaré mi i sobre Sin, fortalezaH2534
+- Eze_35:11haré conforme a tu i, y conforme a tuH639
+- Eze_36:18derramé mi i sobre ellos por la sangreH2534
+- Eze_38:18dijo Jehová...subirá mi i y mi enojoH2534
+- Eze_38:19he hablado en...y en el fuego de mi iH5678
+- Dan_2:12rey con i...mandó que matasen a todosH1149
+- Dan_3:13Nabucodonosor dijo con i...que trajesenH7266
+- Dan_3:19entonces Nabucodonosor se llenó de iH2528
+- Dan_8:19que ha de venir al fin de la i; porqueH2195
+- Dan_9:16apártese ahora tu i y tu furor de sobreH639
+- Dan_11:20será quebrantado, aunque no en i, niH639
+- Dan_11:36prosperará, hasta...sea consumada la iH2195
+- Dan_11:44saldrá con gran i para destruir y matarH2534
+- Ose_5:10derramaré sobre ellos como agua mi iH5678
+- Ose_11:9no ejecutaré el ardor de...i, ni volveréH639
+- Ose_13:11te di rey en mi furor...quité en mi iH639
+- Ose_14:4amaré...porque mi i se apartó de ellosH639
+- Joe_2:13Jehová vuestro Dios...tardo para la iH639
+- Jon_3:9se apartará del ardor de su i, y noH639
+- Miq_5:15con i y con furor haré venganza enH639
+- Miq_7:9la i de Jehová soportaré, porque pequéH2197
+- Nah_1:3es tardo para la i y grande en poderH639
+- Nah_1:6¿quién permanecerá delante de su i? ¿yH639
+- Nah_1:6su i se derrama como fuego, y por él seH2534
+- Hab_3:2en la i acuérdate de la misericordiaH7267
+- Hab_3:8¿fue tu i contra el mar cuando montasteH639
+- Hab_3:12con i hollaste la tierra, con furorH639
+- Sof_1:15día de i aquel día, día de angustiaH5678
+- Sof_1:18ni su oro...librarlos en el día de la iH5678
+- Sof_2:2venga sobre vosotros el furor de la i deH639
+- Sof_2:2antes que el día de la i de Jehová vengaH639
+- Sof_3:8para derramar sobre ellos mi enojo...iH639
+- Zac_8:2celé a Sion con...con gran i la celéH2534
+- Zac_8:14haceros mal cuando...me provocaron a iH7107
+- Mat_3:7; Luc_3:7huir de la i venidera?[[G3709]]
+- Luc_4:28todos en la sinagoga se llenaron de iG2372
+- Luc_21:23gran calamidad...e i sobre este puebloG3709
+- Jua_3:36sino que la i de Dios está sobre élG3709
+- Hec_19:28llenaron de i, y gritaron, diciendoG2372
+- Rom_1:18la i de Dios se revela desde el cieloG3709
+- Rom_2:5atesoras para ti...i para el día de la iG3709
+- Rom_2:8i y enojo a los que son contenciosos yG3709
+- Rom_4:15ley produce i; pero donde no hay leyG3709
+- Rom_5:9sangre, por él seremos salvos de la iG3709
+- Rom_9:22mostrar su i...soportó...los vasos de iG3709
+- Rom_10:19con pueblo insensato os provocaré a iG3949
+- Rom_12:19no...sino dejad lugar a la i de DiosG3709
+- 2Co_12:20haya entre vosotros...envidias, iG2372
+- Gál_5:20i, contiendas, disensiones, herejíasG2372
+- Efe_2:3éramos por naturaleza hijos de i, loG3709
+- Efe_4:31quítense de vosotros toda amargura, iG3709
+- Efe_5:6por estas cosas viene la i de Dios sobreG3709
+- Efe_6:4no provoquéis a i a vuestros hijos, sinoG3949
+- Col_3:6las cuales la i de Dios viene sobreG3709
+- Col_3:8dejad...vosotros todas estas cosas: iG3709
+- 1Ts_1:10a Jesús, quien nos libra de la iG3709
+- 1Ts_2:16vino sobre ellos la i hasta el extremoG3709
+- 1Ts_5:9no nos ha puesto Dios para i, sino paraG3709
+- 1Ti_2:8levantando manos santas, sin i niG3709
+- Heb_3:11; Heb_4:3juré en mi i: No entrarán en miG3709
+- Heb_11:27dejó a Egipto, no temiendo la i delG2372
+- Stg_1:20la i del hombre no obra la justiciaG3709
+- Rev_6:16escondednos del...de la i del CorderoG3709
+- Rev_6:17gran día de su i ha llegado; ¿y quiénG3709
+- Rev_11:18tu i ha venido, y el tiempo de juzgarG3709
+- Rev_12:12el diablo ha descendido a...con gran iG2372
+- Rev_12:17dragón se llenó de i contra la mujerG3710
+- Rev_14:10beberá del vino de la i de Dios, queG2372
+- Rev_14:10sido vaciado puro en el cáliz de su iG2372
+- Rev_14:19uvas en el gran lagar de la i de DiosG2372
+- Rev_15:1en ellas se consumaba la i de DiosG2372
+- Rev_15:7siete copas de...llenas de la i de DiosG2372
+- Rev_16:1derramad...siete copas de la i de DiosG2372
+- Rev_16:19el cáliz del vino del ardor de su iG3709
+- Rev_19:15y él pisa el lagar...de la i del DiosG3709

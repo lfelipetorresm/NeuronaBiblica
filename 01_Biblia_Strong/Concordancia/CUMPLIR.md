@@ -1,0 +1,240 @@
+---
+tipo: concordancia
+palabra: CUMPLIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CUMPLIR
+
+- Gén_25:24cuando se cumplieron sus dias paraH4390
+- Gén_29:21porque mi tiempo se ha cumplido, paraH4390
+- Gén_29:27cumple la semana de ésta, y se te daráH4390
+- Gén_29:28Jacob...y cumplió la semana de aquéllaH4390
+- Gén_41:53así se cumplieron los siete años de laH3615
+- Gén_50:3le cumplieron 40 días...así cumplían losH4390
+- Éxo_5:14¿por qué no habéis cumplido...tarea deH3615
+- Éxo_7:25y se cumplieron siete días después queH4390
+- Lev_8:33cumplan los días de...consagracionesH4390
+- Lev_12:4cumplidos los días de su purificaciónH4390
+- Lev_12:6los días...fueren cumplidos, por hijo oH4390
+- Lev_22:21alguno ofreciere...para cumplir un votoH6381
+- Lev_22:31guardad...mandamientos, y cumplidlosH6213
+- Lev_23:15y contaréis...siete semanas cumplidasH8549
+- Núm_6:5hasta que sean cumplidos los días deH4390
+- Núm_6:13el día que se cumpliere...su nazareatoH4390
+- Núm_11:23verás si se cumple mi palabra, o noH7136
+- Deu_6:24que cumplamos todos estos estatutosH6213
+- Deu_7:11decretos que yo te mando...que cumplasH8104
+- Deu_8:11cuídate...para cumplir sus mandamientosH8104
+- Deu_11:22estos mandamientos...que los cumpláisH6213
+- Deu_11:32cuidaréis, pues, de cumplir todos losH6213
+- Deu_13:2si se cumpliere la señal o prodigio queH935
+- Deu_15:5y cumplir todos estos mandamientos queH6213
+- Deu_16:12guardarás y cumplirás estos estatutosH6213
+- Deu_18:22hablare...y no se cumpliere lo que dijoH935
+- Deu_23:23lo cumplirás, conforme lo prometisteH6213
+- Deu_26:16que cumplas estos estatutos y decretosH6213
+- Deu_27:10oirás...y cumplirás sus mandamientos yH6213
+- Deu_28:13te ordeno...que los guardes y cumplasH6213
+- Deu_28:15para procurar cumplir...mandamientosH6213
+- Deu_29:29que cumplamos...las palabras de esta leyH6213
+- Deu_30:12nos lo hará oir para que lo cumplamos?[[H6213]]
+- Deu_30:13lo traiga...a fin de que lo cumplamos?[[H6213]]
+- Deu_30:14muy cerca de ti...para que la cumplasH6213
+- Deu_31:12; Deu_32:46de cumplir todas las palabrasH6213
+- Deu_33:9ellos guardaron...y cumplieron tu pactoH5341
+- Deu_34:8así se cumplieron los días del lloro yH8552
+- Jos_14:8yo cumplí siguiendo a Jehová mi DiosH4390
+- Jos_14:9por cuanto cumpliste siguiendo a JehováH4390
+- Jos_21:45no faltó palabra de...todo se cumplióH935
+- Jos_22:5cuidéis de cumplir el mandamiento y laH6213
+- Jue_13:12dijo: Cuando tus palabras se cumplanH935
+- Jue_13:17para que cuando se cumpla tu palabraH935
+- Rut_2:12remuneración sea cumplida de parte deH8003
+- 1Sa_1:20al cumplirse el tiempo, después deH1961
+- 1Sa_1:23solamente que cumpla Jehová su palabraH6213
+- 1Sa_3:12yo cumpliré contra Elí todas las cosasH6965
+- 1Sa_15:11a Saúl...y no ha cumplido mis palabrasH6965
+- 1Sa_15:13yo he cumplido la palabra de JehováH6965
+- 1Sa_18:26David...antes que el plazo se cumplieseH4390
+- 1Sa_28:18ni cumpliste el ardor de su ira contraH6213
+- 2Sa_7:12tus días sean cumplidos, y duermasH4390
+- 1Re_2:27que se cumpliese la palabra de JehováH4390
+- 1Re_5:9tú cumplirás mi deseo al dar de comer aH6213
+- 1Re_6:12cumpliré contigo mi palabra que habléH8104
+- 1Re_8:15que habló...que con su mano ha cumplidoH4390
+- 1Re_8:20Jehová ha cumplido su palabra que habíaH6965
+- 1Re_8:24que has cumplido...lo que le prometisteH8104
+- 1Re_8:24tu boca, y con tu mano lo has cumplidoH4390
+- 1Re_8:25cumple a tu siervo David mi padre lo queH8104
+- 1Re_8:26cúmplase la palabra...dijiste a tu siervoH539
+- 2Re_23:3que cumplirían las palabras del pactoH6965
+- 2Re_23:24para cumplir las palabras de la ley queH6965
+- 1Cr_17:11y cuando tus días sean cumplidosH4390
+- 2Cr_6:4su mano ha cumplido lo que prometióH4390
+- 2Cr_6:10Jehová ha cumplido su palabra que habíaH6965
+- 2Cr_6:15con tu mano lo has cumplido, como se veH4390
+- 2Cr_6:16cumple a...David, lo que le has prometidoH8104
+- 2Cr_6:17cúmplase tu palabra...dijiste a tu siervoH539
+- 2Cr_10:15para que Jehová cumpliera la palabraH6965
+- 2Cr_30:12para cumplir el mensaje del rey y deH6213
+- 2Cr_34:16tus siervos han cumplido todo lo que lesH6213
+- 2Cr_36:21-22para que se cumpliese la palabra deH4390
+- 2Cr_36:21que los setenta años fueron cumplidosH4390
+- Esd_1:1que se cumpliese la palabra de JehováH3615
+- Esd_6:12yo Darío he...sea cumplido prontamenteH5648
+- Esd_7:10para inquirir la ley de...para cumplirlaH6213
+- Esd_7:26que no cumpliere la ley de tu Dios, y laH5648
+- Neh_5:13a todo hombre que no cumpliere estoH6965
+- Neh_9:8cumpliste tu palabra, porque eres justoH6965
+- Neh_10:29y cumplirían todos los mandamientosH6213
+- Neh_12:45habían cumplido el servicio de su DiosH8104
+- Est_1:5cumplidos estos días, hizo el rey otroH4390
+- Est_1:15por cuanto no había cumplido la ordenH6213
+- Est_2:12así se cumplía el tiempo de sus atavíosH4390
+- Sal_20:4deseo de...y cumpla todo tu consejoH4390
+- Sal_78:29saciaron; les cumplió, pues, su deseoH935
+- Sal_105:19la hora que se cumplió su palabra, elH935
+- Sal_105:45que guardasen...y cumpliesen sus leyesH5341
+- Sal_119:34tu ley, y la cumpliré de todo corazónH8104
+- Sal_119:112mi corazón incliné a cumplir tusH6213
+- Sal_138:8Jehová cumplirá su propósito en mí; tuH1584
+- Sal_145:19cumplirá el deseo de los que le temenH6213
+- Pro_13:12árbol de vida es el deseo cumplidoH935
+- Pro_13:19el deseo cumplido regocija el almaH1961
+- Ecl_5:4no tardes en cumplirla...Cumple lo queH7999
+- Ecl_5:5mejor es...no que prometas y no cumplasH7999
+- Isa_19:21harán votos a Jehová y los cumpliránH7999
+- Isa_40:2decidle...que su tiempo es ya cumplidoH4390
+- Isa_42:9se cumplieron las cosas primeras, y yoH935
+- Isa_44:26y cumple el consejo de sus mensajerosH7999
+- Isa_44:28Ciro...cumplirá todo lo que yo quieroH7999
+- Isa_60:22yo Jehová...haré que esto sea cumplidoH2363
+- Isa_65:20niño...ni viejo que sus días no cumplaH4390
+- Jer_11:4oíd mi voz, y cumplid mis palabrasH6213
+- Jer_11:8mandé que cumpliesen, y no lo cumplieronH6213
+- Jer_17:15¿dónde está la...¡Qué se cumpla ahora![[H935]]
+- Jer_23:20cumplido los pensamientos de su corazónH6965
+- Jer_25:12cuando sean cumplidos los setenta añosH4390
+- Jer_25:34cumplidos son vuestros días para queH4390
+- Jer_28:9cuando se cumpla la palabra del profetaH935
+- Jer_29:10cuando...se cumplan los setenta años, yoH6965
+- Jer_30:24haya hecho...cumplido los pensamientosH6965
+- Jer_44:25cumpliremos nuestros votos que hicimosH4390
+- Lam_2:17cumplido su palabra, la cual él habíaH1214
+- Lam_4:11cumplió Jehová su enojo, derramó...su iraH3615
+- Lam_4:18se acercó...se cumplieron nuestros díasH4390
+- Lam_4:22se ha cumplido tu castigo, oh hija deH8552
+- Eze_4:6cumplidos éstos, te acostarás sobre tuH3615
+- Eze_4:8hasta que hayas cumplido los días de tuH3615
+- Eze_5:2quemarás a fuego...cuando se cumplan losH4390
+- Eze_5:13se cumplirá mi furor y saciaré en ellosH3615
+- Eze_5:13sabrán que...he hablado, cuando cumplaH3615
+- Eze_6:12hambre; así cumpliré en ellos mi enojoH3615
+- Eze_7:8y cumpliré en ti mi furor, y te juzgaréH3615
+- Eze_11:20y guarden mis decretos y los cumplanH6213
+- Eze_12:25y se cumplirá la palabra...la cumpliréH6213
+- Eze_12:28que la palabra que yo hable se cumpliráH6213
+- Eze_13:15cumpliré así mi furor en la pared y enH3615
+- Eze_18:19guardó...mis estatutos y los cumplió, deH6213
+- Eze_20:8para cumplir mi enojo en ellos en medioH3615
+- Eze_20:11, Eze_20:13, Eze_20:21el hombre que los cumpliere viviráH6213
+- Eze_20:21cumplir mi enojo en ellos en el desiertoH3615
+- Eze_39:8aquí viene, y se cumplirá, dice JehováH1961
+- Dan_3:28y que no cumplieron el edicto del reyH8133
+- Dan_4:33cumplió la palabra sobre NabucodonosorH5487
+- Dan_9:2que habían de cumplirse las desolacionesH4390
+- Dan_9:12ha cumplido la palabra que habló contraH6965
+- Dan_10:3hasta que se cumplieron...tres semanasH4390
+- Dan_11:14se levantarán para cumplir la visiónH5975
+- Dan_11:36ira; porque lo determinado se cumpliráH6213
+- Dan_12:7acabe...todas estas cosas serán cumplidasH3615
+- Miq_7:20cumplirás la verdad a Jacob...AbrahamH5414
+- Nah_1:15cumple tus votos; porque nunca másH7999
+- Mat_1:22esto aconteció para que se cumplieseG4137
+- Mat_2:15que se cumpliese lo que dijo el SeñorG4137
+- Mat_2:17entonces se cumplió lo que fue dicho porG4137
+- Mat_2:23para que se cumpliese lo que fue dichoG4137
+- Mat_3:15así conviene que cumplamos toda justiciaG4137
+- Mat_4:14que se cumpliese lo dicho por...IsaíasG4137
+- Mat_5:17no he venido para abrogar...para cumplirG4137
+- Mat_5:18la ley, hasta que todo se haya cumplidoG1096
+- Mat_5:33sino cumplirás al Señor tus juramentosG591
+- Mat_8:17; Mat_12:17se cumpliese lo dicho por...IsaíasG4137
+- Mat_13:14que se cumple en ellos la profecía deG378
+- Mat_13:35; Mat_21:4cumpliese lo dicho por el profetaG4137
+- Mat_26:54¿pero cómo...cumplirían las EscriturasG4137
+- Mat_26:56para que se cumplan las Escrituras deG4137
+- Mat_27:9así se cumplió lo dicho por el profetaG4137
+- Mat_27:35para que se cumpliese lo dicho por elG4137
+- Mar_1:15el tiempo se ha cumplido, y el reinoG4137
+- Mar_13:4qué señal...cuando...hayan de cumplirse?[[G4931]]
+- Mar_14:49así, para que se cumplan las EscriturasG4137
+- Mar_15:28cumplió la Escritura que dice: Y fueG4137
+- Luc_1:20las cuales se cumplirán a su tiempoG4137
+- Luc_1:23y cumplidos los días de su ministerioG4130
+- Luc_1:45se cumplirá lo que le fue dicho de parteG5050
+- Luc_1:57a Elizabet se le cumplió el tiempo deG4130
+- Luc_2:6cumplieron los días de su alumbramientoG4130
+- Luc_2:21cumplidos...ocho días para circuncidarG4130
+- Luc_2:22cumplieron los días de la purificaciónG4130
+- Luc_2:39de haber cumplido con todo lo prescritoG5055
+- Luc_4:21se ha cumplido esta Escritura delante deG4137
+- Luc_9:31que iba Jesús a cumplir en JerusalénG4137
+- Luc_9:51se cumplió el tiempo en que él había deG4845
+- Luc_12:50cómo me angustio hasta que se cumpla![[G5055]]
+- Luc_18:31se cumplirán todas las cosas escritasG5055
+- Luc_21:22para que se cumplan todas las cosas queG4137
+- Luc_21:24los tiempos de los gentiles se cumplanG4137
+- Luc_22:16hasta que se cumpla en el reino de DiosG4137
+- Luc_22:37os digo que es necesario que se cumplaG5055
+- Luc_24:44era necesario que se cumpliese todo loG4137
+- Jua_3:29así pues, este mi gozo está cumplidoG4137
+- Jua_5:36que el Padre me dio para que cumplieseG5048
+- Jua_7:8porque mi tiempo aún no se ha cumplidoG4137
+- Jua_7:19y ninguno de vosotros cumple la ley?[[G4160]]
+- Jua_12:38para que se cumpliese la palabra delG4137
+- Jua_13:18que se cumpla la Escritura: El que comeG4137
+- Jua_15:11para que...y vuestro gozo sea cumplidoG4137
+- Jua_15:25para que se cumpla la palabra que estáG4137
+- Jua_16:24para que vuestro gozo sea cumplidoG4137
+- Jua_17:12para que la Escritura se cumplieseG4137
+- Jua_17:13para que tengan mi gozo cumplido en síG4137
+- Jua_18:9que se cumpliese aquello que había dichoG4137
+- Jua_18:32que se cumpliese la palabra que JesúsG4137
+- Jua_19:24, Jua_19:28, Jua_19:36que se cumpliese la EscrituraG4137, [[G5048]],4137
+- Hec_1:16era necesario que se cumpliese laG4137
+- Hec_3:18pero Dios ha cumplido así lo que habíaG4137
+- Hec_7:23cuando hubo cumplido la...cuarenta añosG4137
+- Hec_12:25Saulo, cumplido su servicio, volvieronG4137
+- Hec_13:27se leen...las cumplieron al condenarleG4137
+- Hec_13:29habiendo cumplido todas las cosas queG5055
+- Hec_13:33la cual Dios ha cumplido a los hijosG1603
+- Hec_14:26Dios para la obra que habían cumplidoG4137
+- Hec_21:5cumplidos aquellos días, salimosG1822
+- Hec_21:23que tienen obligación de cumplir voto
+- Hec_21:27estaban para cumplirse los siete díasG4931
+- Rom_8:4la justicia de la ley se cumpliese enG4137
+- Rom_13:8que ama al prójimo, ha cumplido la leyG4137
+- 1Co_7:3marido cumpla con...el deber conyugalG591
+- 1Co_15:54se cumplirá la palabra que está escritaG1096
+- 2Co_8:11lo estéis en cumplir conforme a loG2005
+- Gál_5:14la ley en esta sola palabra se cumpleG4137
+- Gál_6:2los otros, y cumplid así la ley de CristoG378
+- Col_1:24cumplo en mi carne lo que falta deG466
+- Col_4:17cumplas el ministerio que recibiste enG4137
+- 2Ts_1:11y cumpla todo propósito de bondad yG4137
+- 2Ti_4:5tú sé sobrio...cumple tu ministerioG4135
+- 2Ti_4:17que por mí fuese cumplida la predicaciónG4135
+- Heb_9:6para cumplir los oficios del cultoG2005
+- Stg_2:8si...cumplís la ley real, conforme aG5055
+- Stg_2:23cumplió la Escritura...Abraham creyó aG4137
+- 1Pe_5:9van cumpliendo en vuestros hermanosG2005
+- 1Jn_1:4para que vuestro gozo sea cumplidoG4137
+- 2Jn_1:12para que nuestro gozo sea cumplidoG4137
+- Rev_15:8se hubiesen cumplido las siete plagasG5055
+- Rev_17:17hasta que se cumplan las palabras deG5055
+- Rev_20:3hasta que fuesen cumplidos mil añosG5055
+- Rev_20:5vivir hasta que se cumplieron mil añosG5055
+- Rev_20:7mil años se cumplan, Satanás será sueltoG5055

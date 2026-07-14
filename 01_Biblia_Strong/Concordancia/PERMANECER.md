@@ -1,0 +1,154 @@
+---
+tipo: concordancia
+palabra: PERMANECER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PERMANECER
+
+- Gén_8:22mientras la tierra permanezca, noH3117
+- Lev_12:4permanecerá 33 días purificándose deH3427
+- Núm_9:18nube estaba...permanecían acampadosH2583
+- Núm_9:22nube se detenía...permaneciendo sobre élH7931
+- Núm_31:19permaneced fuera del campamento 7 días
+- Jos_7:26montón de piedras, que permanece...hoy
+- Jos_8:29montón de piedras...permanece hasta hoy
+- Jos_10:27grandes piedras...las cuales permanecen
+- Jue_6:24el cual permanece hasta hoy en Ofra
+- Jue_17:12levita...permaneció en casa de Micaía
+- 1Sa_13:7Saúl permanecía aún en Gilgal, y todoH5750
+- 2Sa_7:29para que permanezca...delante de tiH1961
+- 1Re_8:11los sacerdotes no pudieron permanecerH5975
+- 2Re_13:6la imagen de...permaneció en SamariaH5975
+- 1Cr_17:24permanezca...engrandecido tu nombreH539
+- 1Cr_17:27la casa de tu siervo...que permanezca
+- Neh_4:22cada uno con su criado permanezcaH3885
+- Job_8:15no permanecerá ella en pie; se asiráH5975
+- Job_14:2y huye como la sombra y no permaneceH5975
+- Job_29:19raíz...en mis ramas permanecía el rocíoH3885
+- Sal_9:7pero Jehová permanecerá para siempreH3427
+- Sal_19:9el temor de Jehová es limpio...permaneceH5975
+- Sal_33:11el consejo de Jehová permanecerá paraH5975
+- Sal_49:12mas el hombre no permanecerá en honraH3885
+- Sal_55:19el que permanece desde la antigüedadH3427
+- Sal_102:12tú, Jehová, permanecerás para siempreH3427
+- Sal_102:26ellos perecerán, mas tú permanecerásH5975
+- Sal_111:3y su justicia permanece para siempreH5975
+- Sal_111:10tienen...su loor permanece para siempreH5975
+- Sal_112:3, Sal_112:9su justicia permanece para siempreH5975
+- Sal_119:89permanece tu palabra en los cielosH5324
+- Sal_125:1no se mueve, sino que permanece paraH3427
+- Pro_2:21y los perfectos permanecerán en ellaH3498
+- Pro_10:25como pasa el...así el malo no permanece
+- Pro_10:25mas el justo permanece para siempreH5769
+- Pro_12:7la casa de los justos permanecerá firmeH5975
+- Pro_12:19el labio veraz permanecerá para siempreH3559
+- Pro_19:21mas el consejo de Jehová permaneceráH6965
+- Pro_21:28el hombre que oye, permanecerá en suH5331
+- Pro_28:2por el hombre...sabio permanece estableH748
+- Ecl_1:4viene; mas la tierra siempre permaneceH5975
+- Isa_7:9vosotros no creyereis..no permaneceréisH539
+- Isa_40:8palabra del Dios nuestro permanece paraH6965
+- Isa_46:10mi consejo permanecerá, y haré todo loH6965
+- Isa_51:8mi justicia permanecerá perpetuamente
+- Isa_66:22nueva tierra que yo hago permaneceránH5975
+- Isa_66:22así permanecerá vuestra descendencia yH5975
+- Jer_2:22la mancha de tu pecado permaneceráH3799
+- Jer_33:25si no permanece mi pacto con el día y
+- Jer_44:28la palabra de quién ha de permanecerH6965
+- Jer_44:29de cierto permanecerán mis palabrasH6965
+- Lam_5:19tú, Jehová, permanecerás para siempreH3427
+- Eze_3:15y allí permanecí siete días atónitoH3427
+- Eze_17:14que guardando el pacto, permanecieseH5975
+- Eze_36:34en lugar de haber permanecido asolada
+- Dan_2:44el reino...él permanecerá para siempreH6966
+- Dan_6:26él es el Dios viviente y permanece porH7011
+- Dan_11:6ni permanecerá él, ni su brazo; porqueH5975
+- Dan_11:17pero no permanecerá, ni tendrá éxitoH5975
+- Nah_1:6¿quién permanecerá delante de su ira?[[H5975]]
+- Hab_2:5hombre soberbio, que no permanecerá
+- Zac_5:4permanecerá en medio de su casa y laH3885
+- Mat_2:13permanece allá hasta que yo te diga
+- Mat_11:23habría permanecido hasta el día de hoyG3306
+- Mat_12:25o casa dividida contra...no permaneceráG2476
+- Mat_12:26si...¿cómo, pues, permanecerá su reino?[[G2476]]
+- Mar_3:24dividido...tal reino no puede permanecerG2476
+- Mar_3:25dividida...tal casa no puede permanecerG2476
+- Mar_3:26y se divide, no puede permanece sinoG2476
+- Luc_1:22hablaba por señas, y permaneció mudoG1265
+- Luc_9:32mas permaneciendo despiertos, vieron la
+- Luc_11:18Satanás...¿cómo permanecerá su reino?[[G2476]]
+- Luc_22:28los que habéis permanecido conmigo enG1265
+- Jua_1:32como paloma, y permaneció sobre élG3306
+- Jua_1:33descender el...y que permanece sobre élG3306
+- Jua_6:27la comida que a vida eterna permaneceG3306
+- Jua_6:56el que come mi carne y...en mí permaneceG3306
+- Jua_8:31vosotros permaneciereis en mi palabraG3306
+- Jua_8:44no ha permanecido en la verdad, porqueG2476
+- Jua_9:41decís: Vemos, vuestro pecado permaneceG3306
+- Jua_12:34que el Cristo permanece para siempreG3306
+- Jua_12:46cree en mí no permanezca en tinieblasG3306
+- Jua_15:4permaneced en mí, y yo en vosotros. ComoG3306
+- Jua_15:4llevar fruto...si no permanece en la vidG3306
+- Jua_15:4tampoco vosotros, si no permanecéis enG3306
+- Jua_15:5que permanece en mí...lleva mucho frutoG3306
+- Jua_15:6el que en mí no permanece, será echadoG3306
+- Jua_15:7permanecéis...y mis palabras permanecenG3306
+- Jua_15:9yo os he amado; permaneced en mi amorG3306
+- Jua_15:10permaneceréis en mi amor; así como yoG3306
+- Jua_15:10yo he guardado...permanezco en su amorG3306
+- Jua_15:16y vuestro fruto permanezca; para queG3306
+- Hec_11:23que...permaneciesen fieles al SeñorG4347
+- Hec_14:22exhortándoles a que permaneciesen enG1696
+- Hec_21:10permaneciendo nosotros allí...descendióG1961
+- Hec_27:31dijo...Si éstos no permanecen en la naveG3306
+- Hec_27:33permanecéis en ayunas, sin comer nadaG1300
+- Hec_28:30Pablo permaneció dos años enteros enG3306
+- Rom_9:11permaneciese, no por las obras sinoG3306
+- Rom_11:22la bondad...si permaneces en esa bondadG1961
+- Rom_11:23no permanecieren en incredulidad, seránG1961
+- 1Co_3:14si permaneciere la obra de algunoG3306
+- 1Co_7:24llamado, así permanezca para con DiosG3306
+- 1Co_13:13ahora permanecen la fe, la esperanza yG3306
+- 2Co_3:11más glorioso será lo que permaneceG3306
+- 2Co_9:9dio...su justicia permanece para siempreG3306
+- Gál_1:18Pedro, y permanecí con él quince díasG1961
+- Gál_2:5que la verdad del evangelio permanecieseG1265
+- Gál_3:10maldito todo aquel que no permaneciereG1696
+- Flp_1:25sé que quedaré, que aún permaneceréG4839
+- Col_1:23si en verdad permanecéis fundados yG1961
+- 1Ti_2:15se salvará...si permaneciere en feG3306
+- 1Ti_4:15ocúpate en...cosas; permanece en ellasG2468
+- 1Ti_5:25obras; y...no pueden permanecer ocultas
+- 2Ti_2:13si fuéremos infieles, él permaneceG3306
+- Heb_1:11ellos perecerán, mas tú permanecesG1265
+- Heb_4:1permaneciendo aún la promesa de entrar
+- Heb_7:3hecho...permanece sacerdote para siempreG3306
+- Heb_7:24por cuanto permanece para siempre, tieneG3306
+- Heb_8:9ellos no permanecieron en mi pacto, y yoG1696
+- Heb_13:1permanezca el amor fraternalG3306
+- 1Pe_1:23palabra de Dios que vive y permaneceG3306
+- 1Pe_1:25mas la palabra del Señor permanece paraG3306
+- 2Pe_3:4las cosas permanecen así como desde elG1265
+- 1Jn_2:6dice que permanece en él, debe andarG3306
+- 1Jn_2:10ama a su hermano, permanece en la luzG3306
+- 1Jn_2:14la palabra de Dios permanece en vosotrosG3306
+- 1Jn_2:17que hace la voluntad de Dios permaneceG3306
+- 1Jn_2:19si hubiesen sido...habrían permanecidoG3306
+- 1Jn_2:24lo que habéis oído desde el...permanezcaG3306
+- 1Jn_2:24si lo que...oído...permanece en vosotrosG3306
+- 1Jn_2:24vosotros permaneceréis en el Hijo y enG3306
+- 1Jn_2:27pero la unción...permanece en vosotrosG3306
+- 1Jn_2:27según ella os ha enseñado, permaneced enG3306
+- 1Jn_2:28ahora, hijitos, permaneced en él, paraG3306
+- 1Jn_3:6todo aquel que permanece en él, no pecaG3306
+- 1Jn_3:9la simiente de Dios permanece en él; y noG3306
+- 1Jn_3:14el que no ama a su...permanece en muerteG3306
+- 1Jn_3:24y el que guarda sus...permanece en DiosG3306
+- 1Jn_3:24sabemos que él permanece en nosotrosG3306
+- 1Jn_4:12Dios permanece en nosotros, y su amorG3306
+- 1Jn_4:13esto conocemos que permanecemos en élG3306
+- 1Jn_4:15Hijo...Dios permanece en él, y él en DiosG3306
+- 1Jn_4:16y el que permanece en amor, p en DiosG3306
+- 2Jn_1:2a causa de la verdad que permanece enG3306

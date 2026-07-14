@@ -1,0 +1,149 @@
+---
+tipo: concordancia
+palabra: JUAN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUAN
+
+- 1 El Bautista
+- Mat_3:1en aquellos días vino J el BautistaG2491
+- Mat_3:4J estaba vestido de pelo de camello, yG2491
+- Mat_3:13Jesús vino de Galilea a J al Jordán, paraG2491
+- Mat_3:14J se le oponía, diciendo: Yo necesitoG2491
+- Mat_4:12Jesús oyó que J estaba preso, volvió aG2491
+- Mat_9:14vinieron...los discípulos de J, diciendoG2491
+- Mat_11:2al oir J, en la cárcel, los hechos deG2491
+- Mat_11:4id, y haced saber a J las cosas que oísG2491
+- Mat_11:7comenzó Jesús a decir de J a la genteG2491
+- Mat_11:11no se ha levantado otro mayor que J elG2491
+- Mat_11:12desde los días de J...el reino de losG2491
+- Mat_11:13los profetas y...profetizaron hasta JG2491
+- Mat_11:18vino J, que ni comía ni bebía, y dicenG2491
+- Mat_14:2este es J el Bautista; ha resucitado deG2491
+- Mat_14:3Herodes había prendido a J, y le habíaG2491
+- Mat_14:4J le decía: No te es lícito tenerlaG2491
+- Mat_14:5temía al pueblo...tenían a J por profetaG2491
+- Mat_14:8dame aquí en...la cabeza de J el BautistaG2491
+- Mat_14:10y ordenó decapitar a J en la cárcelG2491
+- Mat_16:14unos, J el Bautista; otros...JeremíasG2491
+- Mat_17:13que les había hablado de J el BautistaG2491
+- Mat_21:25el bautismo de J, ¿de dónde era? ¿DelG2491
+- Mat_21:26porque todos tienen a J por profetaG2491
+- Mat_21:32porque vino a vosotros J en camino deG2491
+- Mar_1:4bautizaba J en el desierto, y predicabaG2491
+- Mar_1:6y J estaba vestido de pelo de camelloG2491
+- Mar_1:9Jesús...fue bautizado por J en el JordánG2491
+- Mar_1:14después que J fue encarcelado, JesúsG2491
+- Mar_2:18los discípulos de J...ayunaban; y vinieronG2491
+- Mar_2:18¿por qué los discípulos de J y...ayunanG2491
+- Mar_6:14dijo: J el Bautista ha resucitado de losG2491
+- Mar_6:16este es J, el que yo decapité, que haG2491
+- Mar_6:17Herodes había enviado y prendido a JG2491
+- Mar_6:18J decía a Herodes: No te es lícito tenerG2491
+- Mar_6:20porque Herodes temía a J, sabiendo queG2491
+- Mar_6:24ella le dijo: La cabeza de J el BautistaG2491
+- Mar_6:25me des en...la cabeza de J el BautistaG2491
+- Mar_6:27mandó que fuese traída la cabeza de JG2491
+- Mar_8:28ellos respondieron: Unos, J el BautistaG2491
+- Mar_11:30el bautismo de J, ¿era del cielo, o deG2491
+- Mar_11:32tenían a J como un verdadero profetaG2491
+- Luc_1:13a luz un hijo, y llamarás su nombre JG2491
+- Luc_1:60pero...su madre, dijo: No; se llamará JG2491
+- Luc_1:63escribió, diciendo: J es su nombreG2491
+- Luc_3:2palabra de Dios a J, hijo de Zacarías, enG2491
+- Luc_3:15preguntándose...acaso J sería el CristoG2491
+- Luc_3:16respondió J...Yo a la verdad os bautizoG2491
+- Luc_3:19Herodes...siendo reprendido por J a causaG2491
+- Luc_3:20añadió...esta: encerró a J en la cárcelG2491
+- Luc_5:33¿por qué los discípulos de J ayunanG2491
+- Luc_7:18los discípulos de J le dieron las nuevasG2491
+- Luc_7:18cosas. Y llamó J a dos de sus discípulosG2491
+- Luc_7:20J el Bautista nos ha enviado a ti, paraG2491
+- Luc_7:22haced saber a J lo que habéis visto yG2491
+- Luc_7:24se fueron los mensajeros de J, comenzóG2491
+- Luc_7:24a decir de J...¿Qué salisteis a ver alG2491
+- Luc_7:28no hay mayor profeta que J el BautistaG2491
+- Luc_7:29a Dios, bautizándose con el bautismo de JG2491
+- Luc_7:30desecharon...no siendo bautizados por JG2491
+- Luc_7:33vino J el Bautista, que ni comía pan niG2491
+- Luc_9:7decían...J ha resucitado de los muertosG2491
+- Luc_9:9dijo Herodes: A J yo le hice decapitarG2491
+- Luc_9:19ellos respondieron: Unos, J el BautistaG2491
+- Luc_11:1como también J enseñó a sus discípulosG2491
+- Luc_16:16ley y los profetas eran hasta J; desdeG2491
+- Luc_20:4el bautismo de J, ¿era del cielo, o deG2491
+- Luc_20:6están persuadidos de que J era profetaG2491
+- Jua_1:6hubo un hombre...el cual se llamaba JG2491
+- Jua_1:15J dio testimonio 4 él, y clamó diciendoG2491
+- Jua_1:19este es el testimonio de J, cuando losG2491
+- Jua_1:26J les respondió...Yo bautizo con aguaG2491
+- Jua_1:28al otro lado...donde J estaba bautizandoG2491
+- Jua_1:32también dio J testimonio, diciendo: ViG2491
+- Jua_1:35vez estaba J, y dos de sus discípulosG2491
+- Jua_1:40Andrés...de los dos que habían oído a JG2491
+- Jua_3:23J bautizaba también en Enón, junto aG2491
+- Jua_3:24porque J no había sido aún encarceladoG2491
+- Jua_3:25hubo discusión entre los discípulos de JG2491
+- Jua_3:26vinieron a J y le dijeron: Rabí, miraG2491
+- Jua_3:27respondió J...No puede el hombre recibirG2491
+- Jua_4:1Jesús hace y bautiza más discípulos que JG2491
+- Jua_5:33vosotros enviasteis mensajeros a J, yG2491
+- Jua_5:36yo tengo mayor testimonio que el de JG2491
+- Jua_10:40al lugar donde primero había estado...JG2491
+- Jua_10:41J, a la verdad, ninguna señal hizo; peroG2491
+- Jua_10:41todo lo que J dijo de éste, era verdadG2491
+- Hec_1:5J ciertamente bautizó con agua, masG2491
+- Hec_1:22desde el bautismo de J hasta el día enG2491
+- Hec_10:37después del bautismo que predicó JG2491
+- Hec_11:16dijo: J ciertamente bautizó en aguaG2491
+- Hec_13:24antes de su...predicó J el bautismo deG2491
+- Hec_13:25cuando J terminaba su carrera, dijoG2491
+- Hec_18:25solamente conocía el bautismo de JG2491
+- Hec_19:3¿en...Ellos dijeron: En el bautismo de JG2491
+- Hec_19:4J bautizó...bautismo de arrepentimientoG2491
+- 2 Apóstol
+- Mat_4:21a otros dos...Jacobo...y J su hermanoG2491
+- Mat_10:2Jacobo hijo de Zebedeo, y J su hermanoG2491
+- Mat_17:1Jesús tomó a Pedro, a Jacobo y a J suG2491
+- Mar_1:19vio...y a J su hermano, también ellosG2491
+- Mar_1:29vinieron a casa de Simón y...Jacobo y JG2491
+- Mar_3:17a Jacobo hijo...y a J hermano de JacoboG2491
+- Mar_5:37Pedro, Jacobo, y J hermano de JacoboG2491
+- Mar_9:2Jesús tomó a Pedro, a Jacobo y a J, y losG2491
+- Mar_9:38J le respondió...Maestro, hemos visto aG2491
+- Mar_10:35Jacobo y J...se le acercaron, diciendoG2491
+- Mar_10:41diez, comenzaron a enojarse...y contra JG2491
+- Mar_13:3Jacobo, J y Andrés le preguntaron aparteG2491
+- Mar_14:33tomó consigo a Pedro, a Jacobo y a JG2491
+- Luc_5:10de Jacobo y J, hijos de ZebedeoG2491
+- Luc_6:14Simón...Jacobo y J, Felipe y BartoloméG2491
+- Luc_8:51entrar...sino a Pedro...a J, y al padreG2491
+- Luc_9:28tomó...a J y a Jacobo, y subió al monteG2491
+- Luc_9:49J, dijo: Maestro, hemos visto a uno queG2491
+- Luc_9:54viendo esto sus discípulos Jacobo y JG2491
+- Luc_22:8y Jesús envió a Pedro y a J, diciendoG2491
+- Hec_1:13moraban Pedro y Jacobo, J, AndrésG2491
+- Hec_3:1Pedro y J subían juntos al templo a laG2491
+- Hec_3:3vio a Pedro y a J que iban a entrar enG2491
+- Hec_3:4Pedro, con J, fijando en él los ojos, leG2491
+- Hec_3:11teniendo asidos a Pedro y a J el cojoG2491
+- Hec_4:13viendo el denuedo de Pedro y de J, yG2491
+- Hec_4:19y J respondieron...Juzgad si es justoG2491
+- Hec_8:14apóstoles...enviaron allá a Pedro y a JG2491
+- Hec_12:2mató a espada a Jacobo, hermano de JG2491
+- Gál_2:9Cefas y J, que eran considerados comoG2491
+- Rev_1:1por medio de su ángel a su siervo JG2491
+- Rev_1:4J, a las siete iglesias que están en AsiaG2491
+- Rev_1:9yo J...estaba en la isla llamada PatmosG2491
+- Rev_21:2y yo J vi la santa ciudad, la nuevaG2491
+- Rev_22:8yo J soy el que oyó y vio estas cosasG2491
+- 3 Pariente del sumo sacerdote
+- Hec_4:6J y Alejandro, y todos los que eranG2491
+- 4 Juan Marcos (=Marcos)
+- Hec_12:12a casa de María la madre de J, elG2491
+- Hec_12:25volvieron de Jerusalén...consigo a JG2491
+- Hec_13:5judíos. Tenían también a J de ayudanteG2491
+- Hec_13:13pero J, apartándose de ellos, volvióG2491
+- Hec_15:37Bernabé quería que llevasen...a J, elG2491

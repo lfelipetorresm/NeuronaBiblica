@@ -1,0 +1,486 @@
+---
+tipo: concordancia
+palabra: HABITAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HABITAR
+
+- Gén_4:16salió...Caín...y habitad en tierra deH3427
+- Gén_4:20fue padre de los que habitan en tiendasH3427
+- Gén_9:27a Jafet, y habite en las tiendas de SemH7931
+- Gén_10:30la tierra en que habitaron fue desdeH4186
+- Gén_13:6no era suficiente para que habitasenH3427
+- Gén_13:7el cananeo y...habitaban entonces en laH3427
+- Gén_13:12que Lot habitó en las ciudades de laH3427
+- Gén_14:7amorreo que habitaba en Hazezon-tamarH3427
+- Gén_14:13que habitaba en el encinar de Mamre elH7931
+- Gén_16:3diez años que había habitado Abram enH3427
+- Gén_16:12delante de todos sus hermanos habitaráH7931
+- Gén_19:9vino este...para habitar entre nosotrosH1481
+- Gén_19:30habitó en una cueva él y sus dos hijasH3427
+- Gén_20:1Shur, y habitó como forastero en GerarH3427
+- Gén_20:15tierra...habita donde bien te parezcaH3427
+- Gén_21:20creció, y habitó en el desierto, y fueH3427
+- Gén_21:21habitó en el desierto de Parán; y suH3427
+- Gén_22:19fueron...y habitó Abraham en BeersebaH3427
+- Gén_24:3los cananeos, entre los cuales yo habitoH3427
+- Gén_24:37de los cananeos, en cuya tierra habitoH3427
+- Gén_24:62venía Isaac...él habitaba en el NeguevH3427
+- Gén_25:11y habitó Isaac junto el pozo delH3427
+- Gén_25:18habitaron desde Havila hasta Shur, queH7931
+- Gén_25:27varón quieto, que habitaba en tiendasH3427
+- Gén_26:2habita en la tierra que yo te diréH7931
+- Gén_26:3habita como forastero en esta tierra, yH1481
+- Gén_26:6habitó pues, Isaac en GerarH3427
+- Gén_26:17en el valle de Gerar, y habitó allíH3427
+- Gén_34:10habitad con nosotros, porque la tierraH3427
+- Gén_34:16habitaremos con vosotros, y seremos unH3427
+- Gén_34:21estos varones...habitarán en el paísH3427
+- Gén_34:22consentirán...en habitar con nosotrosH3427
+- Gén_34:23convengamos...y habitarán con nosotrosH3427
+- Gén_35:27Arba...donde habitaron Abraham e IsaacH1481
+- Gén_36:7no podían habitar juntos, ni la tierraH3427
+- Gén_36:8Esaú habitó en el monte de Seir; EsaúH3427
+- Gén_37:1habitó Jacob en la tierra donde habíaH3427
+- Gén_45:10habitarás en la tierra de Gosén, yH3427
+- Gén_47:4que habiten tus siervos en la tierraH3427
+- Gén_47:6haz habitar a tu padre...habitenH3427
+- Gén_47:11José hizo habitar a su padre y a susH3427
+- Gén_47:27habitó Israel en tierra de EgiptoH3427
+- Gén_49:13Zabulón en puertos de mar habitaráH7931
+- Gén_50:22habitó José en Egipto, él y la casa deH3427
+- Éxo_2:15huyó...y habitó en tierra de MadiánH3427
+- Éxo_6:4darles la tierra...en la cual habitaronH4033
+- Éxo_8:22de Gosén, en la cual habita mi puebloH5975
+- Éxo_9:24cual nunca hubo...desde que fue habitadaH1471
+- Éxo_12:40tiempo que...hijos de Israel habitaronH3427
+- Éxo_12:49ley...y para el extranjero que habitareH1481
+- Éxo_16:35hasta que llegaron a tierra habitadaH3427
+- Éxo_23:33en tu tierra no habitarán, no sea queH3427
+- Éxo_25:8harán un santuario...y habitaré en medioH7931
+- Éxo_29:45habitaré entre los hijos de Israel, yH7931
+- Éxo_29:46saqué...para habitar en medio de ellosH7931
+- Lev_3:17estatuto...dondequiera que habitéisH4186
+- Lev_7:26ninguna sangre comeréis...donde habitéisH4186
+- Lev_13:46y habitará solo; fuera del campamentoH3427
+- Lev_18:28vomitó a la nación que la habitó antes
+- Lev_20:22os introduzco para que habitéis en ellaH3427
+- Lev_23:3día de reposo...dondequiera que habitéisH4186
+- Lev_23:14, Lev_23:21estatuto...dondequiera que habitéisH4186
+- Lev_23:31vuestras...dondequiera que habitéisH4186
+- Lev_23:42en tabernáculos habitaréis siete díasH3427
+- Lev_23:42todo natural...habitará en tabernáculosH3427
+- Lev_23:43en tabernáculos hice yo habitar a losH3427
+- Lev_25:18ejecutad...y habitaréis en la tierraH3427
+- Lev_25:19dará...y habitaréis en ella con seguridadH3427
+- Lev_26:5y habitaréis seguros en vuestra tierraH3427
+- Lev_26:35los días de...cuando habitabais en ellaH3427
+- Núm_5:3no contaminen el campamento...habitoH7931
+- Núm_13:18observad...el pueblo que la habita, siH3427
+- Núm_13:19cómo es la tierra habitada, si es buenaH3427
+- Núm_13:19y cómo son las ciudades habitadas, siH3427
+- Núm_13:28el pueblo que habita...tierra es fuerteH3427
+- Núm_13:29Amalec habita el Neguev, y el heteo, elH3427
+- Núm_13:29heteo...y el amorreo habitan en el monteH3427
+- Núm_13:29el cananeo habita junto al mar, y a laH3427
+- Núm_14:25el amalecita y el cananeo habitan enH3427
+- Núm_14:30cual...juré que os haría habitar en ellaH7931
+- Núm_14:45el cananeo que habitaban en aquel monteH3427
+- Núm_15:14cuando habitare con vosotros extranjeroH1481
+- Núm_15:29el extranjero que habitare entre ellosH1481
+- Núm_21:1cananeo...que habitaba en el Neguev, oyóH3427
+- Núm_21:25y habitó Israel en todas las ciudadesH3427
+- Núm_21:31habitó Israel en la tierra del amorreoH3427
+- Núm_21:34de Sehón rey...que habitaba en HesbónH3427
+- Núm_22:5pueblo ha salido...habita delante de míH3427
+- Núm_23:9he aquí un pueblo que habitará confiadoH7931
+- Núm_32:40Moisés dio Galaad a Maquir...habitó enH3427
+- Núm_33:40el cananeo...que habitaba en el NeguevH3427
+- Núm_33:53echaréis a los...y habitaréis en ellaH3427
+- Núm_33:55la tierra en que vosotros habitaréisH3427
+- Núm_35:2a los levitas...ciudades en que habitenH3427
+- Núm_35:3tendrán ellos las ciudades para habitarH3427
+- Núm_35:28en su ciudad de...deberá aquél habitarH3427
+- Núm_35:34la tierra donde habitáis...yo habitoH7931
+- Núm_35:34yo Jehová habito en medio...de IsraelH7931
+- Deu_1:4Sehón rey de los...habitaba en HesbónH3427
+- Deu_1:4a Og...que habitaba en Astarot en EdreiH3427
+- Deu_1:44amorreo, que habitaba en aquel monteH3427
+- Deu_2:4vuestros hermanos...que habitan en SeirH3427
+- Deu_2:8nuestros hermanos...que habitaban en SeirH3427
+- Deu_2:10emitas habitaron en ella antes, puebloH3427
+- Deu_2:12y en Seir habitaron antes los horeosH3427
+- Deu_2:12habitaron en lugar de ellos, como hizoH3427
+- Deu_2:20habitaron en ella gigantes en...tiempoH3427
+- Deu_2:21sucedieron a...y habitaron en su lugarH3427
+- Deu_2:22, Deu_2:29hijos de Esaú que habitaban en SeirH3427
+- Deu_2:22Esaú...y habitaron en su lugar hasta hoyH3427
+- Deu_2:23y a los aveos que habitaban en aldeasH3427
+- Deu_2:23destruyeron, y habitaron en su lugarH3427
+- Deu_2:29los moabitas que habitaban en Ar; hastaH3427
+- Deu_3:2con Sehón rey...que habitaba en HesbónH3427
+- Deu_4:46Sehón rey de...que habitaba en HesbónH3427
+- Deu_8:12edifiques buenas casas en que habitesH3427
+- Deu_11:30que habita en el rabá frente a GilgalH3427
+- Deu_11:31ir...la tomaréis, y habitaréis en ellaH3427
+- Deu_12:10habitaréis en la tierra que Jehová osH3427
+- Deu_12:10él os dará reposo...habitaréis segurosH3427
+- Deu_12:12, Deu_12:18el levita que habite en...poblaciones
+- Deu_12:29las heredes, y habites en su tierraH3427
+- Deu_14:27no desampararás al levita que habitare
+- Deu_16:2, Deu_16:6lugar...para que habite allí su nombreH7931
+- Deu_16:11el levita que habitare en tus ciudades
+- Deu_17:14y tomes posesión de ella y la habitesH3427
+- Deu_19:1cuando...habites en sus ciudades, y enH3427
+- Deu_24:14extranjeros que habitan en tu tierra
+- Deu_25:5hermanos habitaren juntos, y muriereH3427
+- Deu_26:1y tomes posesión de ella y la habitesH3427
+- Deu_26:2al lugar...hacer habitar allí su nombreH7931
+- Deu_26:5cual descendió a Egipto y habitó allíH1481
+- Deu_28:30edificarás...y no habitarás en ellaH3427
+- Deu_29:11extranjeros que habitan en medio de tu
+- Deu_29:16sabéis cómo habitamos en la...de EgiptoH3427
+- Deu_30:20que habites sobre la tierra que juróH3427
+- Deu_33:12el amado de Jehová habitará confiadoH7931
+- Deu_33:16la gracia del que habitó en la zarzaH7931
+- Deu_33:28Israel habitará confiado...h sola enH7931
+- Jos_6:25Rahab...habitó...entre los israelitasH3427
+- Jos_9:7quizás habitáis en medio de nosotrosH3427
+- Jos_9:16vecinos, y...habitaban en medio de ellosH3427
+- Jos_9:22diciendo: Habitamos...lejos de vosotrosH3427
+- Jos_10:6amorreos que habitan en las montañasH3427
+- Jos_12:2Sehón rey de...que habitaba en SehónH3427
+- Jos_12:4Og rey...habitaba en Astarot y en EdreiH3427
+- Jos_13:6todos los que habitan en las montañasH3427
+- Jos_13:13Maaca habitaron entre los israelitasH3427
+- Jos_13:21príncipes de Sehón que habitaban enH3427
+- Jos_15:63los jebuseos que habitaban en JerusalénH3427
+- Jos_16:10no arrojaron al cananeo que habitabaH3427
+- Jos_17:7va al...hasta los que habitan en TapúaH3427
+- Jos_17:12y el cananeo persistió en habitar enH3427
+- Jos_17:16los cananeos que habitan la tierra deH3427
+- Jos_19:47tomaron posesión...y habitaron en ellaH3427
+- Jos_19:50reedificó la ciudad y habitó en ellaH3427
+- Jos_20:4darán lugar para que habite con ellosH3427
+- Jos_21:2nos fuesen dadas ciudades donde habitarH3427
+- Jos_21:43dio...la poseyeron y habitaron en ellaH3427
+- Jos_22:33la tierra en que habitaban los...de GadH3427
+- Jos_24:2vuestros padres habitaron...al otro ladoH3427
+- Jos_24:8que habitaban al otro lado del JordánH3427
+- Jos_24:15los dioses de...en cuya tierra habitasH3427
+- Jos_24:18y al amorreo que habitaba en la tierraH3427
+- Jue_1:9contra el cananeo que habitaba en lasH3427
+- Jue_1:10Judá contra el cananeo que habitaba enH3427
+- Jue_1:11de allí fue a los que habitaban en SeirH3427
+- Jue_1:16los hijos del ceneo...fueron y habitaronH3427
+- Jue_1:17al cananeo que habitaba en Sefat, y laH3427
+- Jue_1:19no pudo arrojar a los que habitaban enH3427
+- Jue_1:21al jebuseo que habitaba en Jerusalén noH3427
+- Jue_1:21el jebuseo habitó con los...de BenjamínH3427
+- Jue_1:27a los que habitan en Meguido y en susH3427
+- Jue_1:27persistía en habitar en aquella tierraH3427
+- Jue_1:29cananeo que habitaba...habitó...en GezerH3427
+- Jue_1:30tampoco...arrojó a los que habitaban enH3427
+- Jue_1:30ni a los que habitaban en Naalal, sinoH3427
+- Jue_1:30el cananeo habitó en medio de él, y leH3427
+- Jue_1:31tampoco Aser...los que habitaban en AcoH3427
+- Jue_1:31los que habitaban en Sidón, en AblabH3427
+- Jue_1:32Aser entre los cananeos que habitabanH3427
+- Jue_1:33tampoco...arrojó a los que habitaban enH3427
+- Jue_1:33ni a los que habitaban en Bet-anatH3427
+- Jue_1:33moró entre los cananeos que habitabanH3427
+- Jue_1:35y el amorreo persistió en habitar...HeresH3427
+- Jue_3:3y los heveos que habitaban en el monteH3427
+- Jue_3:5los hijos de Israel habitaban entre losH3427
+- Jue_4:2Sísara, el cual habitaba en Haroset-goimH3427
+- Jue_6:10los amorreos, en cuya tierra habitáisH3427
+- Jue_8:11camino de los que habitaban en tiendasH7931
+- Jue_8:29Jerobaal hijo...fue y habitó en su casaH3427
+- Jue_10:1Zola...habitaba en Samir en el monte deH3427
+- Jue_10:18será caudillo sobre...los que habitanH3427
+- Jue_11:3huyó...Jefté...y habitó en tierra de TobH3427
+- Jue_11:21amorreos que habitaban en aquel paísH3427
+- Jue_11:26Israel ha estado habitando...300 añosH3427
+- Jue_15:8habitó en la cueva de la peña de EtamH3427
+- Jue_18:1de Dan buscaba posesión...donde habitarH3427
+- Jue_18:7el pueblo que habitaba...estaba seguroH3427
+- Jue_18:22habitaban...cercanas a...casa de Micaía
+- Jue_18:28reedificaron la ciudad, y habitaron enH3427
+- Jue_21:23reedificaron las...y habitaron en ellasH3427
+- Rut_1:4cuales...habitaron allá unos diez añosH3427
+- 1Sa_12:8y los hicieron habitar en este lugarH3427
+- 1Sa_12:11Jehová...os libró...habitasteis segurosH3427
+- 1Sa_22:4habitaron...el tiempo que David estuvoH3427
+- 1Sa_23:14habitaba en un monte en el desierto deH3427
+- 1Sa_23:29David...habitó en los lugares fuertesH3427
+- 1Sa_27:5séame dado lugar...para que habite allíH3427
+- 1Sa_27:7los días que David habitó en la tierraH3427
+- 1Sa_27:8éstos habitaban...largo tiempo la tierraH3427
+- 1Sa_31:7y los filisteos vinieron y habitaronH3427
+- 2Sa_7:1cuando ya el rey habitaba en su casaH3427
+- 2Sa_7:2mira ahora, yo habito en casa de cedroH3427
+- 2Sa_7:6no he habitado en casas desde el día enH3427
+- 2Sa_7:10que habite en su lugar y nunca más seaH7931
+- 1Re_2:38y habitó Simei en Jerusalén muchosH3427
+- 1Re_6:13habitaré en ella en medio de los hijosH7931
+- 1Re_8:12dicho que él habitaría en la oscuridadH7931
+- 1Re_8:13sitio en que tú habites para siempreH2073
+- 1Re_8:37sitiaren en la tierra en donde habitenH8179
+- 1Re_9:16dio muerte a...cananeos que habitabanH3427
+- 1Re_11:16porque seis meses habitó allí Joab, yH3427
+- 1Re_11:24fueron a Damasco y habitaron allí, yH3427
+- 1Re_12:2había huido de...y habitaba en EgiptoH3427
+- 1Re_12:25reedificó...a Siquem...y habitó en ellaH3427
+- 1Re_13:25la ciudad donde el...profeta habitabaH3427
+- 2Re_4:13ella respondió: Yo habito en medioH3427
+- 2Re_6:2y hagamos allí lugar en que habitemosH3427
+- 2Re_13:5habitaron...en sus tiendas, como antesH3427
+- 2Re_15:5habitó en casa separada, y Jotam hijoH3427
+- 2Re_16:6y los de Edom...habitaron allí hasta hoyH3427
+- 2Re_17:24a Samaria, y habitaron en sus ciudadesH3427
+- 2Re_17:25cuando comenzaron a habitar allí, queH3427
+- 2Re_17:27habite allí, y les enseñe la ley del DiosH3427
+- 2Re_17:28vino...y habitó en Bet-el, y les enseñóH3427
+- 2Re_17:29cada nación en su ciudad donde habitabaH3427
+- 2Re_25:24habitad en la tierra, y servid al reyH3427
+- 1Cr_4:28y habitaron en Beerseba... Hazar-sualH3427
+- 1Cr_4:40porque los de Cam la habitaron antesH3427
+- 1Cr_4:41destruyeron, y habitaron allí en lugarH3427
+- 1Cr_4:43destruyeron a...Amalec, y habitaron allíH3427
+- 1Cr_5:8Bela hijo de...habitó en Aroer hasta NeboH3427
+- 1Cr_5:9habitó...el oriente hasta...del desiertoH3427
+- 1Cr_5:10ellos habitaron en sus tiendas en todaH3427
+- 1Cr_5:11los hijos de Gad habitaron enfrente deH3427
+- 1Cr_5:16habitaron en Galaad, en Basán y en susH3427
+- 1Cr_5:22y habitaron en sus lugares hasta elH3427
+- 1Cr_5:23Manasés...habitaron en la tierra desdeH3427
+- 1Cr_7:29en...lugares habitaron los hijos de JoséH3427
+- 1Cr_8:6los hijos de Aod...que habitaron en GebaH3427
+- 1Cr_8:28sus linajes, y habitaron en JerusalénH3427
+- 1Cr_8:29en Gabaón habitaron Abigabaón...MaacaH3427
+- 1Cr_8:32éstos también habitaron...en JerusalénH3427
+- 1Cr_9:3habitaron en Jerusalén, de los hijos deH3427
+- 1Cr_9:16Elcana, el cual habitó en las aldeas deH3427
+- 1Cr_9:34los levitas...que habitaban en JerusalénH3427
+- 1Cr_9:35Gabaón habitaba Jehiel padre de GabaónH3427
+- 1Cr_9:38estos habitaban también en JerusalénH3427
+- 1Cr_10:7viendo...los que habitaban en el valleH3427
+- 1Cr_10:7vinieron los filisteos y habitaron enH3427
+- 1Cr_11:4jebuseos habitaban en aquella tierraH3427
+- 1Cr_11:7y David habitó en la fortaleza, y porH3427
+- 1Cr_17:1yo habito en casa de cedro, y al arcaH3427
+- 1Cr_17:4tú no me edificarás casa en que habiteH3427
+- 1Cr_17:5no he habitado en casa alguna desde elH3427
+- 1Cr_17:9y lo he plantado para que habite en élH7931
+- 1Cr_23:25él habitará en Jerusalén para siempreH7931
+- 2Cr_6:1dicho...él habitaría en la oscuridadH7931
+- 2Cr_6:18mas ¿es verdad que Dios habitará con elH3427
+- 2Cr_6:41levántate...para habitar en tu reposo
+- 2Cr_10:17sobre los...que habitaban en...de JudáH3427
+- 2Cr_11:5habitó Roboam en Jerusalén, y edificóH3427
+- 2Cr_19:4habitó...Josafat en Jerusalén...y salíaH3427
+- 2Cr_19:10hermanos que habitan en las ciudadesH3427
+- 2Cr_20:8ellos han habitado en ella, y te hanH3427
+- 2Cr_26:7los árabes que habitaban en Gur-baalH3427
+- 2Cr_26:21habitó leproso en una casa apartadaH3427
+- 2Cr_28:18los filisteos...y habitaban en ellasH3427
+- 2Cr_30:25Israel, y los que habitaban en JudáH3427
+- 2Cr_31:4al pueblo que habitaba en JerusalénH3427
+- 2Cr_31:6de Israel y de Judá, que habitaban enH3427
+- Esd_2:70habitaron los sacerdotes...ciudadesH3427
+- Esd_4:10hizo habitar en...ciudades de SamariaH3488
+- Esd_4:17a los demás...que habitan en SamariaH3488
+- Esd_6:12Dios que hizo habitar allí su nombreH7932
+- Neh_1:9para hacer habitar allí mi nombreH7931
+- Neh_3:26los sirvientes...que habitaban en elH3427
+- Neh_4:12venían los judíos que habitaban entreH3427
+- Neh_7:73habitaron los sacerdotes, los levitasH3427
+- Neh_8:14que habitasen...en tabernáculos en laH3427
+- Neh_8:17en tabernáculos habitó; porque desdeH3427
+- Neh_11:1habitaron los jefes...en Jerusalén; masH3427
+- Neh_11:3Judá habitaron cada uno en su posesiónH3427
+- Neh_11:4en Jerusalén, pues, habitaron algunosH3427
+- Neh_11:21los sirvientes del...habitaban en OfelH3427
+- Neh_11:25algunos de...habitaron en Quiriat-arbaH3427
+- Neh_11:30y habitaron desde Beerseba hasta elH2583
+- Neh_11:31de Benjamín habitaron desde Geba, en
+- Est_9:19los judíos...que habitan en las villasH3427
+- Job_4:19en los que habitan en casas de barroH7931
+- Job_15:28habitó las ciudades asoladas...casasH7931
+- Job_22:8tierra, y habitó en ella el distinguidoH3427
+- Job_28:4abren minas lejos de lo habitado, enH1481
+- Job_30:6habitaban en las barrancas de...arroyosH7931
+- Job_39:28ella habita y mora en la peña, en laH7931
+- Sal_5:4maldad; el malo no habitará junto aH1481
+- Sal_9:11cantad a Jehová, que habita en SionH3427
+- Sal_15:1¿quién habitará en tu tabernáculo?[[H1481]]
+- Sal_22:3tú que habitas entre las alabanzas deH3427
+- Sal_24:1el mundo, y los que en él habitanH3427
+- Sal_37:3haz el bien; y habitarás en la tierraH7931
+- Sal_61:4yo habitaré en tu tabernáculo...siempreH1481
+- Sal_65:4a ti, para que habite en tus atriosH7931
+- Sal_68:6Dios hace habitar en familia a losH3427
+- Sal_68:6mas los rebeldes habitan en tierra secaH7931
+- Sal_68:16Jehová habitará en él para siempreH7931
+- Sal_68:18para que habite entre ellos JAH DiosH7931
+- Sal_69:35Judá; y habitarán allí, y la poseeránH3427
+- Sal_69:36los que aman su nombre habitarán enH7931
+- Sal_74:2este monte de Sion, donde has habitadoH7931
+- Sal_78:55e hizo habitar en sus moradas a lasH7931
+- Sal_78:60dejó...la tienda en que habitó entreH7931
+- Sal_84:4bienaventurados los que habitan en tuH3427
+- Sal_84:10que habitar en las moradas de maldadH1752
+- Sal_85:9que habite la gloria en nuestra tierraH7931
+- Sal_91:1el que habita al abrigo del AltísimoH3427
+- Sal_98:7mar...el mundo y los que en él habitanH3427
+- Sal_101:7no habitará dentro de mi casa el queH3427
+- Sal_102:28los hijos de tus...habitarán segurosH7931
+- Sal_104:12sus orillas habitan las aves de losH7931
+- Sal_107:34por la maldad de los que la habitanH3427
+- Sal_113:9hace habitar en familia a la estérilH3427
+- Sal_120:5y habito entre las tiendas de Cedar![[H7931]]
+- Sal_123:1alcé...a ti que habitas en los cielosH3427
+- Sal_132:14aquí habitaré, porque la he queridoH3427
+- Sal_133:1cuán delicioso es habitar...en armonía![[H3427]]
+- Sal_139:9alba y habitare en el extremo del marH7931
+- Sal_143:3me ha hecho habitar en tinieblas comoH3427
+- Pro_1:33que me oyere, habitará confiadamenteH7931
+- Pro_2:21porque los rectos habitarán la tierraH7931
+- Pro_3:29prójimo que habita confiado junto a tiH3427
+- Pro_8:12yo, la sabiduría, habito con la corduraH7931
+- Pro_10:30pero los impíos no habitarán la tierraH7931
+- Cnt_8:13oh, tú que habitas en los huertosH3427
+- Isa_1:21en ella habitó la equidad; pero ahoraH3885
+- Isa_5:8¿habitaréis vosotros solos en medio de laH3427
+- Isa_6:5habitando en medio de pueblo que tieneH3427
+- Isa_7:20con los que habitan al otro lado del río
+- Isa_13:20nunca más será habitada ni elH3427
+- Isa_13:21de hurones; allí habitarán avestrucesH7931
+- Isa_27:10la ciudad habitada será abandonada yH5116
+- Isa_29:1de Ariel, ciudad donde habitó David![[H2583]]
+- Isa_32:16habitará el juicio en el desierto, y enH7931
+- Isa_32:18y mi pueblo habitará en morada de pazH3427
+- Isa_33:14quién...habitará con las llamas eternas?[[H1481]]
+- Isa_33:16éste habitará en las alturas; fortalezaH7931
+- Isa_42:11las aldeas donde habita Cedar; cantenH3427
+- Isa_44:26que dice a Jerusalén: Serás habitadaH3427
+- Isa_45:18Dios...para que fuese habitada la creóH3427
+- Isa_54:3tu descendencia...habitará las ciudadesH3427
+- Isa_57:15así dijo el...el que habita la eternidadH7931
+- Isa_57:15yo habito en la altura y la santidadH7931
+- Isa_58:12restaurador de calzadas para habitarH3427
+- Isa_65:9poseerán...y mis siervos habitarán allíH7931
+- Isa_65:22no edificarán para que otro habite, niH3427
+- Jer_2:6pasó varón, ni allí habitó hombre?[[H3427]]
+- Jer_17:25esta ciudad será habitada para siempreH3427
+- Jer_22:23habitaste en el Líbano, hiciste...nidoH3427
+- Jer_23:6Israel habitará confiado y este seráH7931
+- Jer_23:8que hizo subir...habitarán en su tierraH3427
+- Jer_25:24de pueblos mezclados que habitan en elH7931
+- Jer_29:5, Jer_29:28edificad casas, y habitadlas...comedH3427
+- Jer_31:24habitará allí Judá, y también en todasH3427
+- Jer_32:37haré volver...haré habitar seguramenteH3427
+- Jer_33:16y Jerusalén habitará segura, y se leH7931
+- Jer_35:7obre la faz...donde vosotros habitáisH3427
+- Jer_40:6habitó con él en medio del pueblo queH3427
+- Jer_40:9habitad en la tierra, y servid al reyH3427
+- Jer_40:10habito en Mizpa, para estar delante deH3427
+- Jer_41:17y fueron y habitaron en Gerut-quimamH3427
+- Jer_44:14entraron en...Egipto para habitar allíH1481
+- Jer_44:14la cual suspiran ellos para habitar allíH3427
+- Jer_44:15todo el pueblo que habitaba en tierraH3427
+- Jer_44:26Judá que habitáis en tierra de EgiptoH3427
+- Jer_46:26será habitado como en los días pasadosH7931
+- Jer_48:28habitad en peñascos, oh moradores deH7931
+- Jer_49:8huid...habitad en lugares profundos, ohH3427
+- Jer_49:16tú que habitas en cavernas de peñasH7931
+- Jer_49:18nadie, ni la habitará hijo de hombreH1481
+- Jer_49:30huid, idos...lejos, habitad en lugaresH3427
+- Jer_49:33ninguno morará allí, ni la habitaráH4583
+- Jer_50:13por la ira de Jehová no será habitadaH3427
+- Jer_50:39ni se habitará por generaciones yH3427
+- Jer_50:40no morará allí hombre...ni...la habitaráH3427
+- Lam_1:3habitó entre las naciones, y no hallóH3427
+- Lam_4:12ni todos los que habitan en el mundoH3427
+- Lam_4:21alégrate...que habitas en tierra de luzH3427
+- Eze_6:6dondequiera...habites, serán decenasH4186
+- Eze_6:14dondequiera que habiten haré la tierraH4186
+- Eze_12:2tu habitas en medio de gente rebelde, losH3427
+- Eze_12:20ciudades habitadas quedarán desiertasH3427
+- Eze_16:46sus hijas, que habitan al norte de tiH3427
+- Eze_16:46sus hijas, la cual habita al sur de tiH3427
+- Eze_17:16donde habita el rey que le hizo reinar
+- Eze_17:23habitarán debajo de él todas las avesH7931
+- Eze_17:23a la sombra de sus ramas habitaránH7931
+- Eze_26:19como las ciudades que no se habitanH3427
+- Eze_28:25habitarán en su tierra, la cual di aH3427
+- Eze_28:26habitarán en ella seguros...plantaránH3427
+- Eze_29:11ni será habitada, por cuarenta añosH3427
+- Eze_31:6a su sombra habitaran muchas nacionesH3427
+- Eze_31:13sobre su ruina habitarán...las aves delH7931
+- Eze_33:24que habitan aquellos lugares asoladosH3427
+- Eze_34:13las apacentaré en...lugares habitadosH4186
+- Eze_34:25habitarán en el desierto con seguridadH3427
+- Eze_34:28habitarán con seguridad, y no habráH3427
+- Eze_36:10haré...y las ciudades serán habitadasH3427
+- Eze_36:28habitaréis en la tierra que di...padresH3427
+- Eze_36:33haré...que sean habitadas las ciudadesH3427
+- Eze_36:35ciudades...están fortificadas y habitadasH3427
+- Eze_37:25habitarán...la tierra...la cual habitaronH3427
+- Eze_37:25ella habitarán ellos, sus hijos y losH3427
+- Eze_38:11contra gentes...habitan confiadamenteH3427
+- Eze_38:11ellas habitan sin muros, y no tienenH3427
+- Eze_38:14mi pueblo Israel habitó con seguridadH3427
+- Eze_39:26habiten en su tierra con seguridad, yH3427
+- Eze_43:7en el cual habitaré entre los hijos deH7931
+- Eze_43:9y habitaré en medio de ellos...siempreH7931
+- Dan_2:38dondequiera...habitan hijos de hombresH1753
+- Dan_6:25escribió a todos...que habitan en todaH1753
+- Ose_11:11los haré habitar en sus casas, diceH3427
+- Joe_3:17que yo soy Jehová...que habito en SionH7931
+- Joe_3:20pero Judá será habitada para siempreH3427
+- Amó_5:11edificasteis casas...no las habitaréisH3427
+- Amó_9:14edificarán ellos las...y las habitaránH3427
+- Nah_1:5mundo, y todos los que en él habitanH3427
+- Hab_2:8de las ciudades y...los que habitan enH3427
+- Hab_2:17ciudad y...los que en ellas habitabanH3427
+- Sof_1:13edificarán casas...no las habitaránH3427
+- Hag_1:4¿es...tiempo...de habitar en vuestrasH3427
+- Zac_2:4será habitada Jerusalén, a causa deH3427
+- Zac_7:7Jerusalén estaba habitada y tranquilaH3427
+- Zac_7:7y la Sefela estaban también habitados?[[H3427]]
+- Zac_8:8y los traeré, y habitarán en...JerusalénH7931
+- Zac_9:5perecerá el...y Ascalón no será habitadaH3427
+- Zac_9:6habitará en Asdod un extranjero, y...finH3427
+- Zac_12:6Jerusalén será otra vez habitada en suH3427
+- Zac_14:10esta será...habitada en su lugar desdeH3427
+- Zac_14:11Jerusalén será habitada confiadamenteH3427
+- Mat_2:23y habitó en la...que se llama NazaretG2730
+- Mat_4:13y habitó en Capernaún, ciudad marítimaG2730
+- Mat_23:21por el templo...y por el que lo habitaG2730
+- Luc_1:79dar luz a los que habitan en tinieblasG2521
+- Luc_13:4los hombres que habitan en Jerusalén?[[G2730]]
+- Luc_21:35sobre todos los que habitan sobre laG2521
+- Jua_1:14hecho carne, y habitó entre nosotrosG4637
+- Hec_2:9y los que habitamos en MesopotamiaG2730
+- Hec_2:14y todos los que habitáis en JerusalénG2730
+- Hec_7:4habitó en Harán; y de allí...le trasladoG2730
+- Hec_7:4esta tierra, en la cual vosotros habitáisG2730
+- Hec_7:48no habita en templos hechos de manoG2730
+- Hec_9:32vino...a los santos que habitaban en LidaG2730
+- Hec_9:35vieron todos los que habitaban en LidaG2730
+- Hec_11:28gran hambre en toda la tierra habitada
+- Hec_11:29socorro los...que habitaban en JudeaG2730
+- Hec_17:24no habita en templos hechos por manosG2730
+- Hec_17:26para que habiten la faz de la tierraG2730
+- Hec_19:10todos los que habitaban en Asia, judíos yG2730
+- Hec_19:17notorio a...los que habitaban en EfesoG2730
+- 2Co_6:16habitaré y andaré entre ellos, yG1774
+- Efe_3:17para que habite Cristo por la fe enG2730
+- Col_1:19agradó al Padre que en él habitaseG2730
+- Col_2:9en él habita corporalmente...la plenitudG2730
+- 1Ti_6:16habita en luz inaccesible; a quienG3611
+- 2Ti_1:5la cual habitó primero en tu abuelaG1774
+- Heb_11:9por la fe habitó como extranjero enG2730

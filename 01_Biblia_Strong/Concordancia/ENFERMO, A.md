@@ -1,0 +1,81 @@
+---
+tipo: concordancia
+palabra: ENFERMO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENFERMO, A
+
+- Gén_48:1tu padre está e. Y él tomó consigo aH2470
+- 1Sa_19:14Saúl envió...ella respondió: Está eH2470
+- 1Sa_30:13y me dejó mi amo...porque estaba yo eH2470
+- 2Sa_13:5acuéstate en tu...y finge que estás eH2470
+- 2Sa_13:6se acostó...Amnón, y fingió que estaba eH2470
+- 1Re_14:1tiempo Abías hijo de Jeroboam cayó eH2470
+- 1Re_14:5a consultarte por su hijo, que está eH2470
+- 1Re_17:17que cayó e el hijo del ama de la casaH2470
+- 2Re_1:2y estando e, envió mensajeros, y lesH2470
+- 2Re_8:7Ben-adad rey de Siria estaba e, al cualH2470
+- 2Re_8:29visitar a Joram hijo...porque estaba eH2470
+- 2Re_9:16a Jezreel, porque Joram estaba allí e
+- 2Re_13:14estaba Eliseo e de la enfermedad de queH2470
+- 2Re_20:1en aquellos días Ezequías...e de muerteH2470
+- 2Re_20:12había oído que Ezequías había caído eH2470
+- 2Cr_22:6visitar a Joram hijo de...estaba eH2470
+- Neh_2:2¿por qué está triste tu...no estás eH2470
+- Sal_6:2ten misericordia de...porque estoy eH536
+- Sal_105:37los sacó...y no hubo en sus tribus eH3782
+- Cnt_2:5con manzanas, porque estoy e de amorH2470
+- Cnt_5:8que le hagáis saber que estoy e de amorH2470
+- Isa_1:5toda cabeza está e, y...corazón dolienteH2483
+- Isa_33:24no dirá el morador: Estoy e; al puebloH2470
+- Isa_39:1a Ezequías; porque supo que...estado eH2470
+- Jer_14:18si entro en la ciudad...e de hambreH8463
+- Eze_34:4no fortalecisteis...ni curasteis la eH2470
+- Dan_8:27y yo Daniel...y estuve e algunos díasH2470
+- Mal_1:8cuando ofrecéis el cojo o el e, ¿noH2470
+- Mal_1:13trajisteis...e, y presentasteis ofrendaH2470
+- Mat_8:16y con la palabra...sanó a todos los eG2192, [[G2560]]
+- Mat_9:12tienen necesidad de médico, sino los eG2192, [[G2560]]
+- Mat_9:20he aquí una mujer e de flujo de sangre
+- Mat_10:8sanad e, limpiad leprosos, resucitadG770
+- Mat_14:14y sanó a los que de ellos estaban eG732
+- Mat_14:35enviaron...y trajeron a él todos los eG2192, [[G2560]]
+- Mat_15:30gente que traía consigo...otros muchos e
+- Mat_25:36estuve desnudo...e, y me visitasteis; enG770
+- Mat_25:39¿o cuándo te vimos e, o en la cárcel, yG772
+- Mat_25:43no me cubristeis; e, y en la cárcel, y noG772
+- Mat_25:44e, o en la cárcel, y no te servimos?[[G772]]
+- Mar_1:34sanó a muchos que estaban e de diversasG2192, [[G2560]]
+- Mar_2:17tienen necesidad de médico, sino los eG2192, [[G2560]]
+- Mar_6:5milagro, salvo que sanó a unos pocos eG732
+- Mar_6:13y ungían con aceite a muchos e, y losG732
+- Mar_6:55comenzaron a traer de todas partes e enG2192, [[G2560]]
+- Mar_6:56ponían en las calles a los que estaban eG770
+- Mar_16:18daño; sobre los e pondrán sus manos, yG732
+- Luc_4:40los que tenían e de...los traían a élG770
+- Luc_5:31tienen necesidad de médico, sino los eG2192, [[G2560]]
+- Luc_7:2el siervo de un centurión...estaba e y aG2192, [[G2560]]
+- Luc_7:10hallaron sano al...que había estado eG770
+- Luc_9:2los envió a predicar...y a sanar a los eG770
+- Luc_10:9sanad a...e que en ella haya, y decidlesG772
+- Jua_4:46oficial del rey, cuyo hijo estaba eG770
+- Jua_5:3yacía una multitud de e, ciegos, cojosG770
+- Jua_5:5un hombre que hacía 38 años que estaba eG769
+- Jua_5:7respondió el e, no tengo quien me metaG770
+- Jua_6:2le...veían las señales que hacía en los eG770
+- Jua_11:1estaba entonces e uno llamado LázaroG770
+- Jua_11:2María, cuyo hermano Lázaro estaba e, fueG770
+- Jua_11:3para decir...he aquí el que amas está eG770
+- Jua_11:6cuando oyó...que estaba e, se quedó dosG770
+- Hec_4:9del beneficio hecho a un hombre eG772
+- Hec_5:15que sacaban los e a las calles, y losG772
+- Hec_5:16trayendo e y atormentados de espíritusG772
+- Hec_19:12que aun se llevaban a los e los pañosG770
+- Hec_28:8que el padre de Publio estaba en cama, eG4912
+- 1Co_11:30hay muchos e y debilitados entreG732
+- Flp_2:27en verdad estuvo e, a punto de morirG770
+- 2Ti_4:20quedó...y a Trófimo dejé en Mileto eG770
+- Stg_5:14alguno e entre vosotros? Llame a losG770
+- Stg_5:15y la oración de fe salvará al e, y elG2577

@@ -1,0 +1,2314 @@
+---
+tipo: concordancia
+palabra: TENER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TENER
+
+- Gén_3:10oí tu voz en el huerto, y tuve miedo
+- Gén_6:19el arca, para que tengan vida contigoH8104
+- Gén_6:20entrarán contigo, para que tengan vidaH8104
+- Gén_7:22todo lo que tenía aliento de espíritu
+- Gén_9:23teniendo vueltos sus rostros, y así no vieron la desnudez
+- Gén_11:1tenía...toda la tierra una sola lengua y
+- Gén_11:6y todos éstos tienen un solo lenguaje
+- Gén_11:30mas Sara era estéril, y no tenía hijo
+- Gén_12:8teniendo a Bet-el al occidente y Hai al
+- Gén_12:16él tuvo ovejas, vacas, asnos, siervosH1961
+- Gén_12:20le acompañaron...con todo lo que tenía
+- Gén_13:1él y su mujer, con todo lo que tenía, y
+- Gén_13:5Lot, que...tenía ovejas, vacas y tiendasH1961
+- Gén_15:13ten por cierto...tu descendencia moraráH3045
+- Gén_16:1tenía una sierva egipcia, que se llamaba
+- Gén_16:2a mi sierva; quizá tendré hijos de ellaH1129
+- Gén_18:10aquí que Sara tu mujer tendrá un hijo
+- Gén_18:12¿después...he envejecido tendré deleite
+- Gén_18:14según el tiempo de...Sara tendrá un hijo
+- Gén_18:15diciendo: No me reí; porque tuvo miedo
+- Gén_19:8yo tengo dos hijas que no han conocido
+- Gén_19:12¿tienes aquí alguno más? Yernos, y tus
+- Gén_19:12lo que tienes en la ciudad, sácalo de
+- Gén_19:30porque tuvo miedo de quedarse en Zoar
+- Gén_20:17Dios sanó a...siervas, y tuvieron hijosH3205
+- Gén_21:17el ángel...le dijo: ¿Qué tienes, Agar?
+- Gén_23:8si tenéis voluntad de que yo sepulte mi
+- Gén_23:9que tiene al extremo de su heredad, que
+- Gén_24:2el que gobernaba en todo lo que tenía
+- Gén_24:12te ruego, el tener hoy buen encuentro
+- Gén_24:29Rebeca tenía un hermano que se...Labán
+- Gén_24:36quien...ha dado a él todo cuanto tiene
+- Gén_25:5Abraham dio todo cuanto tenía a Isaac
+- Gén_26:7porque tuvo miedo de decir: Es mi mujer
+- Gén_26:14y tuvo hato de ovejas, y hato de vacas
+- Gén_26:14y los filisteos le tuvieron envidia
+- Gén_27:12me palpará...y me tendrá por burlador
+- Gén_27:15vestidos de Esaú...ella tenía en casa
+- Gén_27:16de su cuello donde no tenía vello, con
+- Gén_27:38¿no tienes más que una sola bendición
+- Gén_27:46fastidio tengo de mi vida, a causa de
+- Gén_28:17tuvo miedo, y dijo: ¡Cuán terrible es
+- Gén_29:16y Labán tenía dos hijas: el nombre de
+- Gén_30:1tuvo envidia de su hermana, y decía a
+- Gén_30:3Bilba...yo también tendré hijos de ella
+- Gén_30:30porque poco tenías antes de mi venida
+- Gén_30:33toda...se me ha de tener como de hurto
+- Gén_30:35aquella que tenía en sí algo de blanco
+- Gén_30:43y se enriqueció...y tuvo muchas ovejasH1961
+- Gén_31:14¿tenemos acaso parte o heredad en la
+- Gén_31:15¿no nos tiene ya como por extrañas, puesH2803
+- Gén_31:21huyó, pues, con todo lo que tenía; y se
+- Gén_31:30porque tenías deseo de la casa de tu
+- Gén_31:31tuve miedo; pues pensé que quizá me quitarías
+- Gén_31:32delante...reconoce lo que yo tenga tuyo
+- Gén_32:5tengo vacas, asnos, ovejas, y siervosH1961
+- Gén_32:7Jacob tuvo gran temor, y se angustió
+- Gén_32:7disbribuyó el pueblo que tenía consigo
+- Gén_32:23pasar el arroyo a...a todo lo que tenía
+- Gén_33:9suficiente tengo yo, hermano mío; seaH3426
+- Gén_33:13que tengo ovejas y vacas paridas; y si
+- Gén_34:30teniendo yo pocos hombres, se juntarán
+- Gén_35:17no temas, que también tendrás este hijo
+- Gén_37:3José...porque lo había tenido en su vejez
+- Gén_37:11y sus hermanos le tenían envidia, mas
+- Gén_37:23túnica de colores que tenía sobre sí
+- Gén_38:15y la vio Judá, y la tuvo por ramera
+- Gén_38:18tu cordón, y tu báculo que tienes en
+- Gén_38:30después salió...el que tenía...el hilo
+- Gén_39:4entregó en su poder todo lo que teníaH3426
+- Gén_39:5le dio el encargo...de todo lo que teníaH3426
+- Gén_39:5bendición de Jehová...todo lo que teníaH3426
+- Gén_39:6dejó todo lo que tenía en mano de José
+- Gén_39:8ha puesto en mi mano todo lo que tieneH3426
+- Gén_40:5tuvieron un sueño, cada uno su propio
+- Gén_40:8hemos tenido un sueño, y no hay quien lo
+- Gén_40:14acuérdate...de mí cuando tengas ese bien
+- Gén_41:1pasados dos años tuvo Faraón un sueño
+- Gén_41:11tuvimos un sueño en la misma noche, y
+- Gén_41:11cada sueño tenía su propio significado
+- Gén_41:15he tenido un sueño, y no hay quien lo
+- Gén_41:49poderse contar, porque no tenía número
+- Gén_42:9acordó...de los sueños que había tenido
+- Gén_42:35viendo ellos...su dinero, tuvieron temor
+- Gén_43:6declarando al...que teníais otro hermano?
+- Gén_43:7nos preguntó...¿Tenéis otro hermano?[[H3426]]
+- Gén_43:18tuvieron temor, cuando fueron llevados
+- Gén_43:26lo trajeron el presente que tenían en
+- Gén_43:29Dios tenga misericordia de ti, hijo mío
+- Gén_44:19preguntó a...¿Tenéis padre o hermano?[[H3426]]
+- Gén_44:20respondimos: Tenemos un padre ancianoH3426
+- Gén_45:10tú y tus hijos...y todo lo que tienes
+- Gén_45:11que no perezcas...y todo lo que tienes
+- Gén_46:1salió Israel con todo lo que tenía, y
+- Gén_46:32han traído sus...y todo lo que tenían
+- Gén_47:1mi padre y mis...con todo lo que tienen
+- Gén_47:22los sacerdotes tenían ración de Faraón
+- Gén_50:21no tengáis miedo; yo os sustentaré a
+- Éxo_2:2hermoso, le tuvo escondido tres meses
+- Éxo_2:6teniendo compasión de él, dijo: De los
+- Éxo_2:14Moisés tuvo miedo, y dijo: Ciertamente
+- Éxo_2:16siete hijas que tenía el sacerdote de
+- Éxo_3:6Moisés cubrió su rostro...tuvo miedo de
+- Éxo_4:2¿qué es eso que tienes en tu mano? Y él
+- Éxo_5:6los cuadrilleros...que lo tenían a su cargo
+- Éxo_7:17yo golpearé con la vara que tengo en mi
+- Éxo_7:18egipcios tendrán asco de beber el agua
+- Éxo_9:19recoger...todo lo que tienes en el campo
+- Éxo_9:20que tuvo temor de la palabra de Jehová
+- Éxo_10:23los hijos de Israel tenían luz en susH1961
+- Éxo_11:3Moisés era tenido por gran varón en la
+- Éxo_12:16séptimo día tendréis una...convocación
+- Éxo_12:39tenido tiempo...para prepararse comida
+- Éxo_13:3tened memoria de este día, en el cual
+- Éxo_14:22entraron...teniendo las aguas como muro
+- Éxo_14:29fueron...teniendo las aguas por muro a
+- Éxo_17:3pueblo tuvo allí sed, y murmuró contra
+- Éxo_17:16dijo...Jehová tendrá guerra con Amalec
+- Éxo_18:16cuando tienen asuntos, vienen a mí; yH1961
+- Éxo_20:3no tendrás dioses ajenos delante de mí
+- Éxo_21:3tenía mujer, saldrá él y su mujer con él
+- Éxo_22:3si no tuviere con qué, será vendido por
+- Éxo_24:14el que tuviere asuntos, acuda a ellos
+- Éxo_26:2las cortinas tendrán una misma medida
+- Éxo_26:8misma medida tendrán las once cortinas
+- Éxo_26:17dos espigas tendrá cada tabla, para
+- Éxo_27:9al sur, tendrá el atrio cortinas de lino
+- Éxo_27:12el ancho...tendrá cortinas de 50 codos
+- Éxo_28:7tendrá dos hombreras que se junten a susH1961
+- Éxo_28:32tendrá un borde...de obra tejida, comoH1961
+- Éxo_29:9y tendrán el sacerdocio por derecho
+- Éxo_30:21lo tendrán por estatuto perpetuo él y
+- Éxo_30:32santo...por santo lo tendréis vosotros
+- Éxo_32:3apartó los zarcillos de oro que tenían
+- Éxo_32:24¿quién tiene oro? Apartadlo. Y me lo
+- Éxo_33:19tendré misericordia del que t...y seré
+- Éxo_34:7de ningún modo tendrá por inocente al
+- Éxo_34:30su rostro...tuvieron miedo de acercarse
+- Éxo_35:23todo hombre que tenía azul, púrpura
+- Éxo_35:24el que tenía madera de acacia la traía
+- Éxo_35:29que tuvieron corazón voluntario para
+- Éxo_36:7tenían material abundante para hacer todaH1961
+- Éxo_36:15las once cortinas tenían una...medida
+- Éxo_36:22tabla tenía dos espigas, para unirlas
+- Éxo_38:17las columnas del atrio tenían molduras
+- Lev_4:26por él la expiación...y tendrá perdón
+- Lev_5:7, Lev_5:11si no tuviere lo suficiente...traerá
+- Lev_7:7una misma ley tendrán; será del sacerdote
+- Lev_11:3todo el que tiene pezuña hendida y que
+- Lev_11:4de los que rumian o que tienen pezuña
+- Lev_11:4-5, Lev_11:6no tiene pezuña...lo tendréis por inmundo
+- Lev_11:7el cerdo...tiene pezuñas, y es de pezuñas
+- Lev_11:7pero no rumia, lo tendréis por inmundo
+- Lev_11:8no comeréis...los tendréis por inmundos
+- Lev_11:9los que tienen aletas y escamas en las
+- Lev_11:10no tienen...los tendréis en abominación
+- Lev_11:12no tuviere...lo tendréis en abominación
+- Lev_11:13las aves, éstas tendréis en abominación
+- Lev_11:20insecto alado...tendréis en abominación
+- Lev_11:21insecto...tuviere piernas...para saltar
+- Lev_11:23insecto alado que tenga cuatro patas
+- Lev_11:23todo insecto...tendréis en abominación
+- Lev_11:26no tiene pezuña...tendréis por inmundo
+- Lev_11:27tendréis por inmundo a cualquiera que
+- Lev_11:28que llevare...los tendréis por inmundos
+- Lev_11:29tendréis por inmundos a estos animales
+- Lev_11:31éstos tendréis por inmundos de entre
+- Lev_11:35inmundos, y por inmundos los tendréis
+- Lev_11:38cayere algo...la tendréis por inmunda
+- Lev_11:39animal que tuviereis para comer muriere
+- Lev_12:8no tiene lo suficiente para un cordero
+- Lev_13:2cuando el hombre tuviere en la piel deH1961
+- Lev_13:17declarará limpio al que tenía la llaga
+- Lev_13:33encerrará...7 días al que tiene la tiña
+- Lev_13:38mujer tuviere en la piel de su cuerpo
+- Lev_13:44lo declarará...en su cabeza tiene la llaga
+- Lev_14:16mojará...en el aceite que tiene en su mano
+- Lev_14:17lo que...del aceite que tiene en su mano
+- Lev_14:18que tiene en su mano, lo pondrá sobre
+- Lev_14:21fuere pobre, y no tuviere para tanto
+- Lev_14:27rociará del aceite que tiene en su mano
+- Lev_14:28pondrá del aceite que tiene en su mano
+- Lev_14:29sobre del aceite que...tiene en su mano
+- Lev_14:32ley para el que hubiere tenido plaga
+- Lev_14:32y no tuviere más para su purificación
+- Lev_15:2cualquier varón, cuando tuviere flujo deH1961
+- Lev_15:4en que se acostare el que tuviere flujo
+- Lev_15:6el que tiene flujo, lavará sus vestidos
+- Lev_15:7que tocare el cuerpo del que tiene flujo
+- Lev_15:8si el que tiene flujo escupiere sobre el
+- Lev_15:9sobre que cabalgare el que tuviere flujo
+- Lev_15:11el que tiene flujo, y no lavare con agua
+- Lev_15:12vasija...que tocare el que tiene flujo
+- Lev_15:13el que tiene flujo, contará...desde su
+- Lev_15:16tuviere emisión de semen, lavará en agua
+- Lev_15:18hombre yaciere con...y tuviere emisión
+- Lev_15:19la mujer tuviere flujo de sangre, y suH1961
+- Lev_15:25o cuando tuviere flujo de sangre más deH1961
+- Lev_15:32esta es la ley para el que tiene flujo
+- Lev_15:32y para el que tiene emisión de semen
+- Lev_15:33y para el que tuviere flujo, sea varón
+- Lev_16:4sobre su cuerpo tendrá calzoncillos deH1961
+- Lev_16:29, Lev_16:34esto tendréis por estatuto perpetuo
+- Lev_17:7tendrán esto por estatuto perpetuo por
+- Lev_18:20no tendrás acto carnal con la mujer de
+- Lev_18:23con ningún animal tendrás ayuntamiento
+- Lev_19:14sino que tendrás temor de tu Dios. Yo
+- Lev_19:30y mi santuario tendréis en reverencia
+- Lev_19:32y de tu Dios tendrás temor. Yo Jehová
+- Lev_19:34como...natural...tendréis al extranjero
+- Lev_19:36pesas justas y medidas justas tendréisH1961
+- Lev_20:15que tuviere cópula con bestia, ha de ser
+- Lev_20:23ellos hicieron...los tuve en abominación
+- Lev_21:3hermana...la cual no haya tenido maridoH1961
+- Lev_21:17tus descendientes...tenga algún defectoH1961
+- Lev_21:19o varón que tenga quebradura de pie o
+- Lev_21:20que tenga nube en el ojo, o que t sarna
+- Lev_22:3acercare...teniendo inmundicia sobre sí
+- Lev_22:4hubiere tenido derramamiento de semen
+- Lev_22:13no tuviere prole y se hubiere vuelto a
+- Lev_22:23o carnero que tenga de más o de menos
+- Lev_23:7el primer día tendréis santa convocaciónH1961
+- Lev_23:24primero del mes tendréis día de reposoH1961
+- Lev_23:27expiación; tendréis santa convocación
+- Lev_23:36octavo día tendréis santa convocación
+- Lev_24:22estatuto tendréis para el extranjeroH1961
+- Lev_25:4el séptimo año la tierra tendrá descanso
+- Lev_25:26cuando el hombre no tuviere rescatadorH1961
+- Lev_25:29tendrá facultad de redimirla hasta el
+- Lev_25:31las casas de las aldeas que no tienen muro
+- Lev_25:36usura ni...sino tendrás temor de tu Dios
+- Lev_25:43dureza, sino tendrás temor de tu Dios
+- Lev_25:44tu esclavo...que tuvieres, serán de lasH1961
+- Lev_25:45los cuales podréis tener por posesión
+- Lev_26:2y tened en reverencia mi santuario. Yo
+- Lev_27:25conforme al siclo...tiene veinte geras
+- Lev_27:28de todo lo que tuviere, de hombres y
+- Núm_1:53y los levitas tendrán la guarda delH8104, [[H0]]
+- Núm_3:4Nadab y Abiú murieron...no tuvieron hijosH1961
+- Núm_3:28número...era 8.600, que tenían la guardaH8104
+- Núm_3:32Aarón, jefe de los que tienen la guardaH8104
+- Núm_3:38hijos, teniendo la guarda del santuarioH8104
+- Núm_3:47cinco siclos...siclo tiene veinte geras
+- Núm_4:32los utensilios...ellos tienen que transportar
+- Núm_4:47tener cargo de obra en el tabernáculo
+- Núm_5:8aquel hombre no tuviere pariente al cual
+- Núm_5:14y tuviere celos de su mujer, habiéndose
+- Núm_5:14, Núm_5:30celos, y tuviere celos de su mujer
+- Núm_5:18el sacerdote tendrá en la mano las aguasH1961
+- Núm_6:7la consagración...tiene sobre su cabeza
+- Núm_6:25su rostro...y tenga de ti misericordia
+- Núm_9:14un. rito tendréis, tanto el extranjeroH1961, [[H0]]
+- Núm_10:8las tendréis por estatuto perpetuo por
+- Núm_10:32cuando tengamos el bien que Jehová nos
+- Núm_11:4la gente extranjera...tuvo un vivo deseo
+- Núm_11:22peces del mar para que tengan abasto?
+- Núm_11:29le respondió: ¿Tienes tú celos por mí?
+- Núm_12:8¿por qué...no tuvisteis temor de hablar
+- Núm_12:12al salir del vientre...tiene ya medio
+- Núm_14:18de ningún modo tendrá por inocente al
+- Núm_14:24su descendencia la tendrá en posesiónH1961
+- Núm_15:15un mismo estatuto tendréis vosotros de
+- Núm_15:16misma ley y un mismo decreto tendréis
+- Núm_15:29una...ley tendréis para el que hiciereH1961, [[H0]]
+- Núm_15:31tuvo en poco la palabra de Jehová, y
+- Núm_16:33con todo lo que tenían, descendieron
+- Núm_17:3cada jefe de familia...tendrá una vara
+- Núm_18:4y tendrán el cargo del tabernáculo deH8104
+- Núm_18:5tendréis el cuidado del santuario, y elH8104
+- Núm_18:20de la tierra de...no tendrás heredad, niH1961
+- Núm_18:20heredad, ni entre ellos tendrás parte
+- Núm_21:5nuestra alma tiene fastidio de este pan
+- Núm_21:26había tenido guerra antes con el rey de
+- Núm_21:34no le tengas miedo, porque en tu mano
+- Núm_22:3Moab tuvo gran temor a causa del pueblo
+- Núm_22:24se puso en una senda...que tenía pared
+- Núm_22:29¡ojalá tuviera espada en mi mano, que
+- Núm_22:30desde que tú me tienes hasta este día
+- Núm_22:31ángel...tenía su espada desnuda en su
+- Núm_23:22sacado...tiene fuerzas como de búfalo
+- Núm_23:26Jehová me diga, eso tengo que hacer?
+- Núm_24:8tiene fuerzas como de búfalo. Devorará
+- Núm_25:13y tendrá él...el pacto del sacerdocioH1961
+- Núm_25:13tuvo celo por su Dios e hizo expiación
+- Núm_26:33y Zelofehad...no tuvo hijos sino hijasH1961
+- Núm_27:3que en su...pecado murió, y no tuvo hijosH1961
+- Núm_27:4será quitado...por no haber tenido hijo?
+- Núm_27:9si no tuviere hija, daréis su herencia
+- Núm_27:10y si no tuviere hermanos, daréis su
+- Núm_27:11su padre no tuviere hermanos, daréis
+- Núm_28:25séptimo día tendréis santa convocaciónH1961
+- Núm_28:26el día de...tendréis santa convocaciónH1961
+- Núm_29:1primero del mes, tendréis...convocaciónH1961
+- Núm_29:7mes séptimo tendréis santa convocaciónH1961
+- Núm_29:12quince días del mes séptimo tendréisH1961
+- Núm_29:35el octavo día tendréis solemnidad...obraH1961
+- Núm_31:30los levitas, que tienen la guarda delH8104
+- Núm_31:47los levitas, que tenían la guarda delH8104
+- Núm_32:1tenían...inmensa muchedumbre de ganadoH1961
+- Núm_32:4de ganado, y tus siervos tienen ganado
+- Núm_32:19cuanto tendremos ya nuestra heredad a
+- Núm_32:30si no pasan armados...tendrán posesión
+- Núm_33:14Refidim, donde el pueblo no tuvo aguas
+- Núm_33:54donde le cayere la suerte...la tendrá
+- Núm_34:3tendréis al lado del sur...Zin hasta la
+- Núm_35:3tendrán ellos las ciudades para habitar
+- Núm_35:5tendrán por los ejidos de las ciudades
+- Núm_35:8del que tiene mucho tomaréis mucho, y
+- Núm_35:8del que tiene poco tomaréis poco; cada
+- Núm_35:11ciudades de refugio tendréis, donde
+- Núm_35:13pues...tendréis seis ciudades de refugio
+- Núm_36:8hija que tenga heredad en las tribus deH3423
+- Deu_1:17no tendréis temor de ninguno, porque
+- Deu_1:29no temáis, ni tengáis miedo de ellos
+- Deu_2:4hijos de Esaú...tendrán miedo de vosotros
+- Deu_2:11por gigantes eran ellos tenidos también
+- Deu_2:20por tierra de gigantes fue...ella tenida
+- Deu_3:2no tengas temor de él, porque en tu mano
+- Deu_3:16teniendo por límite el medio del valle
+- Deu_3:19ganados (yo sé que tenéis mucho ganado)
+- Deu_4:7¿qué nación grande hay que tenga dioses
+- Deu_4:8¿qué nación...hay que tenga estatutos y
+- Deu_4:42matase...sin haber tenido enemistad con
+- Deu_5:5vosotros tuvisteis temor del fuego, y no
+- Deu_5:7no tendrás dioses ajenos delante de míH1961
+- Deu_5:29tuviesen tal corazón, que me temiesen
+- Deu_5:33y tengáis largos días en la tierra que
+- Deu_6:25y tendremos justicia cuando cuidemos de
+- Deu_7:2alianza, ni tendrás de ellas misericordia
+- Deu_7:18no tengas temor de ellas; acuérdate bien
+- Deu_8:3te hizo tener hambre, y te sustentó con
+- Deu_8:13vacas...todo lo que tuvieres se aumente
+- Deu_9:2de los cuales tienes tú conocimiento, y
+- Deu_10:6suyo tuvo el sacerdocio su hijo Eleazar
+- Deu_10:9Leví no tuvo parte ni heredad con susH1961
+- Deu_10:13guardes...para que tengas prosperidad?
+- Deu_12:12no tiene parte ni heredad con vosotros
+- Deu_13:8consentirás...ni le tendrás misericordia
+- Deu_13:17que Jehová...tenga de ti misericordia
+- Deu_14:6animal...que tiene hendidura de dos uñas
+- Deu_14:7o entre los que tienen pezuña hendida
+- Deu_14:7rumian, mas no tienen pezuña hendida
+- Deu_14:8ni cerdo...tiene pezuña hendida, mas no
+- Deu_14:9podréis comer: todo lo que tiene aleta
+- Deu_14:10lo que no tiene aleta y...no comeréis
+- Deu_14:27, Deu_14:29levita...no tiene parte ni heredad
+- Deu_15:3que...tuviere tuyo, lo perdonará tu ojo
+- Deu_15:6tendrás dominio...sobre ti no tendrán
+- Deu_15:9guárdate de tener...pensamiento perverso
+- Deu_17:19lo tendrá consigo, y leerá en él todos
+- Deu_18:1toda la tribu de Leví, no tendrán parte
+- Deu_18:2no tendrán...heredad entre sus hermanos
+- Deu_18:20el profeta que tuviere la presunción de
+- Deu_18:22con presunción...no tengas temor de él
+- Deu_19:4que hiriere...sin haber tenido enemistad
+- Deu_19:6que...no tenía enemistad con su prójimo
+- Deu_20:1si vieres caballos...no tengas temor de
+- Deu_21:15un hombre tuviere dos mujeres, la unaH1961
+- Deu_21:16que hiciere heredar a...lo que tuviereH1961
+- Deu_21:18si alguno tuviere un hijo contumaz yH1961
+- Deu_22:19le multarán en...y la tendrá por mujer
+- Deu_23:1que tenga magullados los testículos, o
+- Deu_23:12tendrás un lugar fuera...adonde salgasH1961
+- Deu_23:13tendrás...entre tus armas una estacaH1961
+- Deu_23:16morará contigo...donde a bien tuviere
+- Deu_24:8ten cuidado de observar diligentemente
+- Deu_25:5y muriere...y no tuviere hijo, la mujer
+- Deu_25:13no tendrás en tu bolsa pesa grande yH1961
+- Deu_25:14ni tendrás en tu casa efa grande y efa
+- Deu_25:15pesa exacta y justa tendrás; efa cabalH1961
+- Deu_25:15efa cabal y justo tendrás, para que tusH1961
+- Deu_25:18salió...y no tuvo ningún temor de Dios
+- Deu_28:31dadas...no tendrás quien te las rescate
+- Deu_28:40tendrás olivos...mas no te ungirás conH1961
+- Deu_28:50fiera...que no tendrá respeto al anciano
+- Deu_28:65ni la planta de tu pie tendrá reposoH1961
+- Deu_28:66y tendrás tu vida como algo que pende
+- Deu_28:66pende...no tendrás seguridad de tu vida
+- Deu_29:17visto...sus ídolos...que tienen consigo
+- Deu_29:19tendré paz, aunque ande en la dureza
+- Deu_30:3y tendrá misericordia de ti, y volverá
+- Deu_31:6no temáis, ni tengáis miedo de ellos
+- Deu_32:32las uvas...racimos muy amargos tienen
+- Deu_32:34¿no tengo yo esto guardado conmigo
+- Jos_2:6los...que tenía puestos en el terrado
+- Jos_5:12Israel nunca más tuvieron maná sinoH1961
+- Jos_5:13el cual tenía una espada...en su mano
+- Jos_6:25todo lo que ella tenía; y habitó ella
+- Jos_7:15será quemado, él y todo lo que tiene
+- Jos_7:24todo cuanto tenía, y lo llevaron todo
+- Jos_8:18extiende la lanza que tienes en tu mano
+- Jos_8:18extendió...la lanza que en su mano tenía
+- Jos_10:2tuvo gran temor; porque Gabaón era una
+- Jos_10:8dijo a Josué: No tengas temor de ellos
+- Jos_10:28, Jos_10:30, Jos_10:32, Jos_10:35, Jos_10:37(2)todo lo que en ella tenía
+- Jos_10:39todo lo que allí dentro tenía vida
+- Jos_10:40todo lo que tenía vida lo mató, como
+- Jos_11:6Jehová dijo...No tengas temor de ellos
+- Jos_11:11y mataron...cuanto en ella tenía vida
+- Jos_11:18por mucho tiempo tuvo guerra Josué con
+- Jos_15:1de Edom, teniendo el desierto de Zin al
+- Jos_15:18se bajó...Y Caleb le dijo: ¿Qué tienes?
+- Jos_17:1Maquir...hombre de guerra, tuvo GalaadH1961
+- Jos_17:3pero Zelofehad...no tuvo hijos sino hijasH1961
+- Jos_17:6tuvieron heredad entre sus hijos; y laH1961
+- Jos_17:11tuvo también Manasés...Bet-seán y susH1961
+- Jos_17:16los cananeos...tienen carros herrados
+- Jos_17:17tú eres gran pueblo, y tienes grande
+- Jos_17:17gran pueblo...no tendrás una sola parteH1961
+- Jos_17:18tú arrojarás al cananeo, aunque tengaH1961
+- Jos_18:7los levitas ninguna parte tienen entreH1961
+- Jos_19:2tuvieron en su heredad a Beerseba, Seba
+- Jos_19:9hijos de Simeón tuvieron su heredad en
+- Jos_20:5no tuvo con él ninguna enemistad antes
+- Jos_22:24¿qué tenéis vosotros con Jehová Dios
+- Jos_22:25, Jos_22:27no tenéis vosotros parte en Jehová
+- Jue_1:14bajó...y Caleb le dijo: ¿Qué tienes?
+- Jue_1:19en los llanos...tenían carros herrados
+- Jue_2:15contra ellos...y tuvieron gran aflicción
+- Jue_3:19una palabra secreta tengo que decirte
+- Jue_3:20Aod dijo: Tengo palabra de Dios para ti
+- Jue_4:3aquél tenía novecientos carros herrados
+- Jue_4:18dijo: Ven, señor mío...no tengas temor
+- Jue_4:19te ruego me des de beber...pues tengo sed
+- Jue_5:14de Zabulón los que tenían vara de mando
+- Jue_6:21extendiendo...el báculo que tenía en su
+- Jue_6:23dijo: Paz...no tengas temor, no morirás
+- Jue_6:25derriba el altar de Baal...padre tiene
+- Jue_7:1tenía el campamento de los madianitas al
+- Jue_7:8tenía el campamento de Madián abajo en
+- Jue_7:10si tienes temor de descender, baja tú
+- Jue_8:18¿Qué aspecto tenían aquellos hombres
+- Jue_8:20porque tenía temor...era aún muchacho
+- Jue_8:30tuvo Gedeón 70 hijos...t muchas mujeresH1961
+- Jue_9:38¿no es...el pueblo que tenías en poco?
+- Jue_10:4éste tuvo treinta hijos, que cabalgabanH1961
+- Jue_11:12¿qué tienes tú conmigo...hacer guerra
+- Jue_11:25¿tuvo él cuestión contra Israel, o hizo
+- Jue_11:34hija única; no tenía fuera de ella hijo
+- Jue_12:2teníamos una gran contienda con...Amón
+- Jue_12:9tuvo treinta hijos y treinta hijas, lasH1961
+- Jue_12:14tuvo cuarenta hijos y treinta nietosH1961
+- Jue_13:2su mujer era...nunca había tenido hijos
+- Jue_13:3nunca has tenido hijos; pero concebirás
+- Jue_14:6despedazó al...sin tener nada en su mano
+- Jue_14:17lloró...7 días que...tuvieron banquete
+- Jue_15:18y teniendo gran sed, clamó...a Jehová
+- Jue_16:9tenía hombres en acecho en el aposento
+- Jue_17:5este hombre Micaía tuvo casa de dioses
+- Jue_17:13porque tengo un levita por sacerdoteH1961
+- Jue_18:1no había tenido posesión entre...tribus
+- Jue_18:3le dijeron...¿y qué tienes tú por aquí?
+- Jue_18:7lejos...y no tenían negocios con nadie
+- Jue_18:23¿qué tienes, que has juntado gente?
+- Jue_18:24¿por qué, pues, me decís: ¿Qué tienes?
+- Jue_18:27juntamente con el sacerdote que teníaH1961
+- Jue_18:28lejos de...no tenían negocios con nadie
+- Jue_18:31así tuvieron levantada entre ellos la
+- Jue_19:19tenemos paja y forraje...t pan y vino
+- Jue_21:15el pueblo tuvo compasión de Benjamín
+- Jue_21:17tenga Benjamín herencia en los que han
+- Rut_1:11¿tengo yo más hijos en el vientre
+- Rut_1:12porque...ya soy vieja para tener marido
+- Rut_1:12aunque dijese: Esperanza tengo, y esta
+- Rut_1:13mayor amargura tengo yo que vosotras
+- Rut_2:1tenía Noemí un pariente de su marido
+- Rut_2:9cuando tengas sed, vé a las vasijas, y
+- Rut_2:20la benevolencia que tuvo para con los
+- Rut_3:15quítate el manto que...sobre ti, y tenloH270
+- Rut_3:15teniéndolo ella, él midió seis medidas deH270
+- Rut_4:3vende una parte de las tierras que tuvo
+- 1Sa_1:2tenía él dos mujeres; el nombre deH1961
+- 1Sa_1:2y Penina tenía hijos, mas Ana no los t
+- 1Sa_1:5-6no le había concedido tener hijos
+- 1Sa_1:13voz no se oía; y Elí la tuvo por ebria
+- 1Sa_1:16no tengas a tu sierva por...mujer impíaH5414
+- 1Sa_2:5los hambrientos dejaron de tener hambre
+- 1Sa_2:5y la que tenía muchos hijos languidece
+- 1Sa_2:12hijos...no tenían conocimiento de Jehová
+- 1Sa_2:30los que me desprecian...tenidos en poco
+- 1Sa_4:7y los filisteos tuvieron miedo...decían
+- 1Sa_4:20no tengas temor...has dado a luz un hijo
+- 1Sa_7:7al oír...tuvieron temor de los filisteos
+- 1Sa_8:5un rey...como tienen todas las naciones
+- 1Sa_9:2y tenía él un hijo que se llamaba SaúlH1961
+- 1Sa_9:5dijo a su criado que tenía consigo: Ven
+- 1Sa_9:7y no tenemos qué ofrecerle al...¿Qué t?
+- 1Sa_9:12que el pueblo tiene hoy un sacrificio
+- 1Sa_10:27le tuvieron en poco, y no le trajeron
+- 1Sa_11:5Saúl: ¿Qué tiene el pueblo, que llora?
+- 1Sa_12:18tuvo gran temor de Jehová y de Samuel
+- 1Sa_13:20los de Israel tenían que descender a
+- 1Sa_13:22excepto Saúl y Jonatán...las tenían
+- 1Sa_14:7haz todo lo que tienes en tu corazón; vé
+- 1Sa_14:15también ellos tuvieron pánico, y la
+- 1Sa_15:3y destruye todo lo que tiene, y no te
+- 1Sa_16:16él toque con su mano, y tengas alivio
+- 1Sa_16:23tocaba...y Saúl tenía alivio y estaba
+- 1Sa_17:4tenía de altura seis codos y un palmo
+- 1Sa_17:7tenía el hierro de su lanza 600 siclos
+- 1Sa_17:11oyendo...se turbaron y tuvieron...miedo
+- 1Sa_17:12Isaí, el cual tenía ocho hijos; y en el
+- 1Sa_17:24varones de Israel...tenían gran temor
+- 1Sa_17:42cuando...vio a David, le tuvo en poco
+- 1Sa_17:50lo mató, sin tener David espada en su
+- 1Sa_17:57teniendo David la cabeza del filisteo
+- 1Sa_18:10David tocaba...tenía Saúl la lanza en
+- 1Sa_18:15viendo Saúl que se...tenía temor de él
+- 1Sa_18:29tuvo más temor de David; y fue Saúl
+- 1Sa_18:30salían, David tenía más éxito que todos
+- 1Sa_19:9tenía una lanza a mano, mientras David
+- 1Sa_20:7si dijere: Bien...tendrá paz tu siervo
+- 1Sa_20:21tú vendrás, porque paz tienes, y nada
+- 1Sa_20:34porque tenía dolor a causa de David
+- 1Sa_21:3¿qué tienes a mano? Dame...lo que tengas
+- 1Sa_21:4no tengo pan común a la...t pan sagrado
+- 1Sa_21:8¿no tienes aquí a mano lanza o espada?
+- 1Sa_21:12y tuvo gran temor de Aquis rey de Gat
+- 1Sa_22:2y tuvo consigo...cuatrocientos hombres
+- 1Sa_22:6tenía su lanza en su mano, y todos sus
+- 1Sa_23:10siervo tiene entendido que Saúl trata
+- 1Sa_23:21benditos...que habéis tenido compasión
+- 1Sa_25:2había un hombre que tenía su hacienda
+- 1Sa_25:2y tenía tres mil ovejas y mil cabras
+- 1Sa_25:6sea paz a ti...paz a todo cuanto tienes
+- 1Sa_25:7he sabido que tienes esquiladores. Ahora
+- 1Sa_25:8te ruego que des lo que tuvieres a mano
+- 1Sa_25:21todo lo que éste tiene en el desiertoH1961
+- 1Sa_25:31señor mío, no tendrás motivo de pena
+- 1Sa_25:35he oído tu voz, y te he tenido respeto
+- 1Sa_25:36él tenía banquete en su casa como...rey
+- 1Sa_26:19para que no tenga parte en la heredad
+- 1Sa_27:2con los 600 hombres que tenía...se pasó
+- 1Sa_28:1ten entendido que has de salir conmigo
+- 1Sa_28:5vio Saúl el campamento de...tuvo miedo
+- 1Sa_28:7buscadme una mujer que tenga espíritu deH1172
+- 1Sa_28:7una mujer en Endor que tiene espíritu deH1172
+- 1Sa_28:20y tuvo gran temor por las palabras de
+- 1Sa_28:24tenía en su casa un ternero engordado
+- 1Sa_31:3flecheros, y tuvo gran temor de ellos
+- 1Sa_31:4su escudero no quería...tenía gran temor
+- 2Sa_1:10y tomé la corona...tenía en su cabeza
+- 2Sa_1:14¿cómo no tuviste temor de extender tu
+- 2Sa_1:26angustia tengo por ti, hermano...Jonatán
+- 2Sa_3:7había tenido Saúl una concubina que se
+- 2Sa_3:29nunca falte...quien tenga falta de pan
+- 2Sa_4:2y el hijo de Saúl tenía dos...capitanesH1961
+- 2Sa_4:4Jonatán hijo de...tenía un hijo lisiado
+- 2Sa_4:4tenía cinco años de edad cuando llegó
+- 2Sa_6:2y partió...con todo el pueblo que tenía
+- 2Sa_6:12Jehová ha bendecido...todo lo que tiene
+- 2Sa_6:23y Mical...nunca tuvo hijos hasta el día
+- 2Sa_7:29ten ahora a bien bendecir la casa de tu
+- 2Sa_9:7no tengas temor, porque yo a la verdad
+- 2Sa_9:10para que el hijo de tu señor tenga panH1961
+- 2Sa_9:10y tenía Siba quince hijos y 20 siervos
+- 2Sa_9:12tenía Mofi-boset un hijo pequeño, que
+- 2Sa_11:25dirás a Joab: No tengas pesar por esto
+- 2Sa_12:2el rico tenía numerosas ovejas y vacasH1961
+- 2Sa_12:3pero el pobre no tenía más que una solaH1961
+- 2Sa_12:3corderita...y la tenía como a una hija
+- 2Sa_12:6hizo tal cosa, y no tuvo misericordia
+- 2Sa_12:9tuviste en poco la palabra de Jehová
+- 2Sa_12:22Dios tendrá compasión de mí, y vivirá
+- 2Sa_12:30la corona de...tenía piedras preciosas
+- 2Sa_13:1teniendo Absalón...una hermana hermosa
+- 2Sa_13:3Amnón tenía un amigo...Jonadab, hijo de
+- 2Sa_13:23años, que Absalón tenía esquiladores
+- 2Sa_13:24tu siervo tiene ahora esquiladores; yo
+- 2Sa_14:5le dijo: ¿Qué tienes? Y ella respondió
+- 2Sa_14:6tu sierva tenía dos hijos, y...riñeron
+- 2Sa_14:30y tiene allí cebada...prendedle fuego
+- 2Sa_15:2cualquiera que tenía pleito y venía alH1961
+- 2Sa_15:3no tienes quien te oiga de parte del rey
+- 2Sa_15:4que viniesen a mí todos los que tienen
+- 2Sa_15:30todo el pueblo que tenía consigo cubrió
+- 2Sa_16:4sea tuyo todo lo que tiene Mofi-boset
+- 2Sa_16:10¿qué tengo yo con vosotros, hijos de
+- 2Sa_17:18tenía en su patio un pozo, dentro del
+- 2Sa_18:1David...pasó revista al pueblo que tenía
+- 2Sa_18:18no tengo hijo que conserve...mi nombre
+- 2Sa_19:2oyó decir...el rey tenía dolor por su hijo
+- 2Sa_19:19ni tengas memoria de los males que tu
+- 2Sa_19:22¿qué tengo yo con vosotros, hijos de
+- 2Sa_19:28¿qué derecho...tengo aún para clamar alH3426
+- 2Sa_19:43tenemos en el rey diez partes, y en el
+- 2Sa_19:43¿por qué...nos habéis tenido en poco?
+- 2Sa_20:1no tenemos nosotros parte en David, ni
+- 2Sa_20:8tenía pegado a sus lomos el cinto con
+- 2Sa_21:4no tenemos...querella sobre plata...Saúl
+- 2Sa_21:8a dos hijos...ella había tenido de SaúlH3205
+- 2Sa_21:8los cuales ella había tenido de AdrielH3205
+- 2Sa_21:20hombre...tenía doce dedos en las manos
+- 2Sa_23:8los nombres de los valientes que tuvo David
+- 2Sa_23:21tenía el egipcio una lanza en su mano
+- 1Re_1:16inclinó...Y el rey dijo: ¿Qué tienes?
+- 1Re_1:21mi hijo...seremos tenidos por culpables
+- 1Re_1:51que Adonías tiene miedo del rey Salomón
+- 1Re_2:5en el talabarte que tenía...zapatos que t
+- 1Re_2:8también tienes contigo a Simei hijo de
+- 1Re_2:14una palabra tengo que decirte. Y ella
+- 1Re_2:22ya tiene también al sacerdote Abiatar
+- 1Re_4:2fueron los jefes que tuvo: Azarías hijo
+- 1Re_4:7tenía Salomón doce gobernadores sobre
+- 1Re_4:10éste tenía...a Soco y...la tierra de Hefer
+- 1Re_4:11tenía por mujer a Tafat hija de Salomón
+- 1Re_4:13éste tenía...las ciudades de Jair hijo
+- 1Re_4:13tenía...la provincia a Argob...en Basán
+- 1Re_4:24y tuvo paz por todos lados alrededorH1961
+- 1Re_4:26Salomón tenía 40.000 caballos en sus
+- 1Re_4:28cada uno conforme al turno que tenía
+- 1Re_5:15tenía...Salomón 70.000 que llevaban lasH1961
+- 1Re_5:16los cuales tenían a cargo el pueblo que
+- 1Re_6:2la casa...tenía sesenta codos de largo y
+- 1Re_6:3el pórtico...tenía veinte codos de largo
+- 1Re_6:17la casa...templo...tenía cuarenta codos
+- 1Re_6:18casa...tenía entalladuras de calabazas
+- 1Re_6:20el lugar santísimo...tenía veinte codos
+- 1Re_6:24una ala del querubín tenía cinco codos
+- 1Re_6:25otro querubín tenía diez codos; porque
+- 1Re_7:2la cual tenía cien codos de longitud, 50
+- 1Re_7:3vigas...cada hilera tenía quince columnas
+- 1Re_7:6un pórtico...que tenía 50 codos de largo
+- 1Re_7:19los capiteles...tenían forma de lirios
+- 1Re_7:20tenían...los capiteles...200 granadas en
+- 1Re_7:28tenían unos tableros, los cuales estaban
+- 1Re_7:30cada basa tenía cuatro ruedas de bronce
+- 1Re_8:7los querubines tenían extendidas las alas
+- 1Re_8:17padre tuvo en su corazón edificar casa
+- 1Re_8:18a haber tenido en tu corazón edificar
+- 1Re_8:18casa...bien has hecho en tener tal deseo
+- 1Re_8:50harás que tengan de ellos misericordia
+- 1Re_9:13tierra de Cabul, nombre que tiene hasta
+- 1Re_9:19las ciudades donde...tenía provisionesH1961
+- 1Re_10:2expuso todo lo que en su corazón tenía
+- 1Re_10:14el peso del oro que Salomón tenía de
+- 1Re_10:19seis gradas tenía el trono, y la parte
+- 1Re_10:19tenía brazos cerca del asiento, junto
+- 1Re_10:22rey tenía en el mar una flota de naves
+- 1Re_10:26tenía 1.400 carros, y 12.000 jinetes
+- 1Re_11:3tuvo 700...reinas y 300 concubinas; y susH1961
+- 1Re_11:30tomando Ahías la capa nueva que tenía
+- 1Re_11:32él tendrá una tribu por amor a DavidH1961
+- 1Re_11:36para que mi siervo David tenga lámpara
+- 1Re_12:16¿qué parte tenemos...No t heredad en el
+- 1Re_12:28y habiendo tenido consejo, hizo el rey
+- 1Re_15:20los príncipes de los ejércitos que tenía
+- 1Re_15:27porque Nadab y todo Israel tenían sitiado
+- 1Re_17:12vive Jehová...que no tengo pan cocidoH3426
+- 1Re_17:12un puñado de harina tengo en la tinaja
+- 1Re_17:13no tengas temor; vé, haz como has dicho
+- 1Re_17:18¿qué tengo yo contigo, varón de Dios?
+- 1Re_18:27o tiene algún trabajo, o va de camino
+- 1Re_19:19con doce yuntas...y él tenía la última
+- 1Re_20:4el rey...yo soy tuyo, y todo lo que tengo
+- 1Re_20:6y llevarán todo lo precioso que tengas
+- 1Re_21:1que Nabot...tenía allí una viña junto alH1961
+- 1Re_22:17vi...como ovejas que no tienen pastor
+- 1Re_22:17éstos no tienen señor; vuélvase cada
+- 2Re_1:2sala de la casa que tenía en Samaria
+- 2Re_1:8varón que tenía vestido de pelo, y ceñía
+- 2Re_1:15desciende con él; no tengas miedo de él
+- 2Re_1:17reinó en...porque Ocozías no tenía hijoH1961
+- 2Re_3:12Josafat...Este tendrá palabra de Jehová
+- 2Re_3:13Eliseo dijo al...¿Qué tengo yo contigo?
+- 2Re_3:14que si no tuviese respeto al rostro de
+- 2Re_4:2le dijo...Declárame qué tienes en casaH3426
+- 2Re_4:2sierva ninguna cosa tienes en casa, sino
+- 2Re_4:14que ella no tiene hijo, y su marido es
+- 2Re_4:31pero no tenía voz ni sentido, y así se
+- 2Re_5:1lo tenía en alta estima, porque por medioH1961
+- 2Re_6:8tenía el...de Siria guerra contra Israel
+- 2Re_6:15el ejército que tenía sitiada la ciudad
+- 2Re_6:16dijo: No tengas miedo, porque más son
+- 2Re_6:28y le dijo el rey: ¿Qué tienes? Ella
+- 2Re_7:12saben que tenemos hambre, y han salido
+- 2Re_9:5dijo: Príncipe, una palabra tengo que decirte
+- 2Re_9:18-19¿qué tienes tú que ver con la paz?
+- 2Re_10:1tenía Acab en Samaria 70 hijos; y Jehú
+- 2Re_10:2los que tenéis a los hijos de vuestro
+- 2Re_10:2que tienen carros y gente de a caballo
+- 2Re_10:4tuvieron gran temor, y dijeron: He aquí
+- 2Re_10:19pues...tengo un gran sacrificio para Baal
+- 2Re_10:22al que tenía el cargo de las vestiduras
+- 2Re_11:5tendrá la guardia de la casa del rey el
+- 2Re_11:7tendréis la guardia de la casa de JehováH8104
+- 2Re_11:8, 2Re_11:11teniendo cada uno sus armas en lasH8104
+- 2Re_12:8tener el cargo de reparar las grietas
+- 2Re_12:11a los que tenían a su cargo la casa de
+- 2Re_13:23mas Jehová tuvo misericordia de ellos
+- 2Re_15:5Jotam hijo...tenía el cargo del palacio
+- 2Re_18:20consejo tengo y fuerzas para la guerra
+- 2Re_19:3día...y la que da a luz no tiene fuerzas
+- 2Re_19:25desde...la antigüedad lo tengo ideado?
+- 2Re_20:8¿qué señal tendré...que Jehová me sanará
+- 2Re_20:9señal tendrás de Jehová, de que Jehová
+- 2Re_22:5, 2Re_22:9que tienen a su cargo el arreglo de la
+- 2Re_23:11el cual tenía a su cargo los ejidos
+- 2Re_24:11cuando sus siervos la tenían sitiada
+- 2Re_25:17tenía encima un capitel de bronce; la
+- 2Re_25:19tomó un oficial que tenía a su cargo
+- 1Cr_2:22Jair, el cual tuvo 23 ciudades enH1961
+- 1Cr_2:26tuvo Jerameel otra mujer...Atara, que
+- 1Cr_2:34Sesán no tuvo hijos, sino hijas; peroH1961
+- 1Cr_2:34tenía Sesán un siervo egipcio llamado
+- 1Cr_4:5padre de Tecoa tuvo dos mujeres, Hela yH1961
+- 1Cr_4:27sus hermanos no tuvieron muchos hijos
+- 1Cr_5:7y sus hermanos por...tenían por príncipes
+- 1Cr_5:9porque tenía mucho ganado en la tierra
+- 1Cr_5:19tuvieron guerra contra los agarenos, yH6213
+- 1Cr_6:10a Azarías, el que tuvo, el sacerdocio en
+- 1Cr_6:31la casa...después que el arca tuvo reposo
+- 1Cr_7:4porque tuvieron muchas mujeres e hijos
+- 1Cr_7:15cuya hermana tuvo por nombre Maaca; yH1961
+- 1Cr_7:15fue Zelofehad. Y Zelofehad tuvo hijas
+- 1Cr_8:40cuales tuvieron muchos hijos y nietos
+- 1Cr_9:19coreítas...tuvieron a su cargo la obra
+- 1Cr_9:26y tenían a su cargo las cámaras y los
+- 1Cr_9:27porque tenían el cargo de guardarla, y
+- 1Cr_9:28tenían a su cargo los utensilios para el
+- 1Cr_9:29de ellos tenían el cargo de la vajilla
+- 1Cr_9:31Matatías...tenía a su cargo las cosas que
+- 1Cr_9:32de Coat...tenían a su cargo los panes de
+- 1Cr_9:44y Azel tuvo seis hijos, los nombres de
+- 1Cr_10:4su escudero no quiso, porque tenía mucho
+- 1Cr_11:10son los...los valientes que David tuvo
+- 1Cr_11:11número de los valientes que David tuvo
+- 1Cr_12:14el menor tenía cargo de cien hombres
+- 1Cr_13:11David tuvo pesar, porque Jehová había
+- 1Cr_13:14bendijo Jehová la...y todo lo que tenía
+- 1Cr_15:21tenían arpas afinadas en la octava para
+- 1Cr_18:10Toi tenía guerra contra Hadad-ezerH1961
+- 1Cr_19:14se acercó Joab y el pueblo que tenía
+- 1Cr_20:6un hombre...tenía seis dedos en pies y
+- 1Cr_22:7en mi corazón tuve el edificar templo
+- 1Cr_22:15tú tienes...muchos obreros, canteros
+- 1Cr_23:11no tuvieron muchos hijos, por lo cual
+- 1Cr_23:17Eliezer no tuvo otros hijos; mas losH1961
+- 1Cr_23:22y murió Eleazar sin hijos; pero tuvoH1961
+- 1Cr_23:26los levitas no tendrán que llevar más
+- 1Cr_23:32tuviesen la guarda del tabernáculo deH8104
+- 1Cr_24:2Nadab y...murieron...y no tuvieron hijosH1961
+- 1Cr_24:28de Mahli, Eleazar, quien no tuvo hijosH1961
+- 1Cr_26:20Ahías tenía cargo de los tesoros de la
+- 1Cr_26:22tuvieron cargo de los tesoros de la
+- 1Cr_26:26tenían a su cargo todos los tesoros de
+- 1Cr_27:25tenía a su cargo los tesoros del rey
+- 1Cr_28:2tenía el propósito de edificar una casa
+- 1Cr_28:12plano de...las cosas que tenía en mente
+- 1Cr_29:3tengo mi afecto en la casa de mi DiosH3426
+- 1Cr_29:8el que tenía piedras preciosas las dio
+- 1Cr_29:25tal gloria en...cual ningún rey la tuvoH1961
+- 2Cr_1:8has tenido con David...misericordia
+- 2Cr_1:12como nunca tuvieron los reyes que han
+- 2Cr_1:12antes de ti, ni tendrán los que venganH1961
+- 2Cr_1:14tuvo 1.400 carros y 12.000 jinetes, los
+- 2Cr_2:4yo tengo que...al nombre de Jehová mi Dios
+- 2Cr_2:5, 2Cr_2:9y la casa que tengo que edificar, ha
+- 2Cr_3:13querubines tenían las alas extendidas por
+- 2Cr_4:2un mar...tenía diez codos de un borde a
+- 2Cr_4:5y tenía de grueso un palmo menor, y el
+- 2Cr_4:5el borde tenía la forma...de un cáliz, o
+- 2Cr_6:7David...tuvo en su corazón edificar casa
+- 2Cr_6:8a haber tenido...deseo de edificar casa
+- 2Cr_6:8bien has hecho en haber tenido esto en
+- 2Cr_8:6a todas las ciudades...que Salomón teníaH1961
+- 2Cr_8:10y tenía...250 gobernadores principales
+- 2Cr_9:1habló con él...lo que en su corazón tenía
+- 2Cr_9:15los cuales tenía seiscientos siclos deH6213
+- 2Cr_9:16teniendo cada escudo 300 siclos de oro
+- 2Cr_9:18trono tenía seis gradas, y un estrado
+- 2Cr_9:25tuvo...Salomón 4.000 caballerizas paraH1961
+- 2Cr_9:26tuvo dominio sobre todos los reyes desde
+- 2Cr_10:16¿qué parte tenemos...no t herencia en
+- 2Cr_10:18a Adoram...tenía cargo de los tributos
+- 2Cr_12:3pueblo que venía con el...no tenía número
+- 2Cr_13:8tenéis...los becerros de oro...por dioses
+- 2Cr_13:14que tenía batalla por delante y a las espaldas
+- 2Cr_13:20y nunca más tuvo Jeroboam poder en losH6113
+- 2Cr_14:1Asa, en cuyos días tuvo sosiego el país
+- 2Cr_14:8tuvo...Asa ejército que traía escudos yH1961
+- 2Cr_14:11al poderoso o al que no tiene fuerzas!
+- 2Cr_14:15las cabañas de los que tenían ganado
+- 2Cr_16:3vengas y deshagas la alianza que tienes
+- 2Cr_16:9de los que tienen corazón perfecto para
+- 2Cr_17:5y tuvo riquezas y gloria en abundanciaH1961
+- 2Cr_17:9enseñaron...teniendo...el libro de la ley
+- 2Cr_17:13tuvo muchas provisiones en las ciudadesH1961
+- 2Cr_18:1tenía, pues, Josafat riquezas y gloriaH1961
+- 2Cr_18:16y dijo Jehová: Estos no tienen señor
+- 2Cr_18:30los capitanes de los carros que tenía
+- 2Cr_20:3tuvo temor; y Josafat humilló su rostro
+- 2Cr_20:6y tienes dominio sobre todos los reinos
+- 2Cr_20:30el reino de Josafat tuvo paz, porque su
+- 2Cr_21:2tuvo por hermanos, hijos de Josafat, a
+- 2Cr_21:6porque tenía por mujer a la hija de AcabH1961
+- 2Cr_21:14Jehová herirá a...y a todo cuanto tienes
+- 2Cr_22:9y la casa de Ocozías no tenía fuerzas
+- 2Cr_23:7y cada uno tendrá sus armas en la mano
+- 2Cr_23:10teniendo cada uno su espada en la mano
+- 2Cr_25:5escogidos...que tenían lanza y escudo
+- 2Cr_26:1a Uzías, el cual tenía 16 años de edad
+- 2Cr_26:10tuvo muchos ganados, así en la SefelaH1961
+- 2Cr_26:11tuvo...Uzías un ejército de guerreros
+- 2Cr_26:19teniendo en la mano un incensario para
+- 2Cr_26:21y Jotam su hijo tuvo cargo de la casa
+- 2Cr_27:5tuvo él guerra con el rey de...de Amón
+- 2Cr_30:9delante de los que los tienen cautivos
+- 2Cr_30:22levitas que tenían buena inteligencia
+- 2Cr_31:14Coré hijo...tenía cargo de las ofrendas
+- 2Cr_31:19varones nombrados tenían cargo de dar
+- 2Cr_32:3tuvo consejo con sus príncipes y con sus
+- 2Cr_32:7ni tengáis miedo del rey de Asiria, ni
+- 2Cr_32:8el pueblo tuvo confianza en...de Ezequías
+- 2Cr_32:27tuvo Ezequías riquezas y gloria...oroH1961
+- 2Cr_35:21¿qué tengo yo contigo, rey de Judá? Yo
+- 2Cr_35:24pusieron en un segundo carro que tenía
+- 2Cr_36:15él tenía misericordia de su pueblo y de
+- Esd_2:65y tenían 200 cantores y cantoras
+- Esd_3:3porque tenían miedo de los pueblos de las
+- Esd_6:8tiene del tributo del otro lado del río
+- Esd_7:25conforme a la sabiduría que tienes de
+- Esd_8:22tuve vergüenza de pedir al rey tropa y
+- Neh_2:20vosotros no tenéis parte ni derecho
+- Neh_4:6porque...pueblo tuvo ánimo para trabajarH1961
+- Neh_4:16y la otra mitad tenía lanzas, escudosH2388
+- Neh_4:17cargaban...y en la otra tenían la espadaH2388
+- Neh_4:18cada uno tenía su espada ceñida a sus
+- Neh_4:21y la mitad de ellos tenían lanzas desdeH2388
+- Neh_5:5y no tenemos posibilidad de rescatarlas
+- Neh_5:8callaron, pues no tuvieron qué responderH4672
+- Neh_8:10y enviad porciones a los que no tienen
+- Neh_9:21de ninguna cosa tuvieron necesidad; sus
+- Neh_9:28pero una vez que tenían paz, volvían a
+- Neh_9:32no sea tenido en poco delante de ti todo
+- Neh_10:28hijas, todo el que tenía comprensión yH1961
+- Neh_11:21y Ziha y Gispa tenían autoridad sobre
+- Neh_13:13tenidos por fieles...tenían que repartir
+- Est_1:3teniendo delante de él a los...poderosos
+- Est_1:17tendrán en poca estima a sus maridos
+- Est_3:6tuvo en poco poner mano en Mardoqueo
+- Est_4:3tenían los judíos...luto, ayuno, lloro y
+- Est_4:4reina tuvo gran dolor, y envió vestidos
+- Est_5:2extendió a Ester el cetro...que tenía en
+- Est_5:3dijo el rey: ¿Qué tienes, reina Ester, y
+- Est_6:4a Mardoqueo en la horca que él le tenía
+- Est_8:16-17los judíos tuvieron alegría y gozo
+- Est_9:22días en que los judíos tuvieron paz de
+- Job_1:10cercado...casa y a todo lo que tiene?
+- Job_1:11y toca todo lo que tiene, y verás si no
+- Job_1:12aquí, todo lo que tiene está en tu mano
+- Job_2:4lo que el hombre tiene dará por su vida
+- Job_3:13dormiría, y entonces tendría descanso
+- Job_3:26no he tenido paz, no...ni estuve reposado
+- Job_5:23aun con las piedras...tendrás tu pacto
+- Job_6:11cuál mi fin para que tenga...paciencia?
+- Job_7:15alma tuvo por mejor la estrangulación
+- Job_9:28me turban...no me tendrás por inocente
+- Job_10:4¿tienes tú acaso ojos de carne? ¿Ves tú
+- Job_10:13estas cosas tienes...en tu corazón; yo
+- Job_10:14y no me tendrás por limpio...iniquidad
+- Job_11:2las...palabras no han de tener respuesta?
+- Job_11:18tendrás confianza, porque hay esperanza
+- Job_11:20no tendrán refugio; y su esperanza será
+- Job_12:3tengo yo entendimiento como vosotros; no
+- Job_12:6cuyas manos él ha puesto cuanto tienen
+- Job_13:23¿cuántas iniquidades...tengo yo? Hazme
+- Job_14:15tendrás afecto...hechura de tus manos
+- Job_14:17tienes sellada en saco...prevaricación
+- Job_14:17en saco...y tienes cosida mi iniquidad
+- Job_14:21tendrán honores, pero él no lo sabrá
+- Job_15:11¿en tan poco tienes las consolaciones
+- Job_16:3¿tendrán fin las palabras vacías? ¿O qué
+- Job_18:3¿por qué somos tenidos por bestias, y a
+- Job_18:17y no tendrá nombre por las calles
+- Job_18:19no tendrá hijo ni nieto en su pueblo
+- Job_19:15y mis criadas me tuvieron por extraño
+- Job_19:21tened compasión de mí, t compasión de
+- Job_20:20tanto, no tendrá sosiego en su vientre
+- Job_21:21porque ¿qué deleite tendrá él de...casa
+- Job_22:3¿tiene contentamiento el Omnipotente en
+- Job_22:5por cierto...tus maldades no tienen fin
+- Job_22:8pero el hombre pudiente tuvo la tierra
+- Job_22:21vuelve...amistad con él, y tendrás paz
+- Job_22:24tendrás más oro que tierra, y...de Ofir
+- Job_22:25defensa, y tendrás plata en abundancia
+- Job_24:7ropa, sin tener cobertura contra el frío
+- Job_25:3¿tienen sus ejércitos número? ¿Sobre
+- Job_26:2¿en qué ayudaste al que no tiene poder?
+- Job_26:3qué aconsejaste al que no tiene ciencia
+- Job_26:6el Seol...y el Abadón no tiene cobertura
+- Job_27:6mi justicia tengo asida, y no la cederéH2388
+- Job_27:19pero...abrirá sus ojos, y nada tendrá
+- Job_28:1ciertamente la plata tiene sus veneros
+- Job_30:2me serviría ni...No tienen fuerza alguna
+- Job_31:13si hubiera tenido en poco el derecho de
+- Job_31:23Dios, contra cuya...yo no tendría poderH3201
+- Job_31:34porque tuve temor de la gran multitud
+- Job_32:6he tenido miedo, y he temido declararos
+- Job_32:19como el vino que no tiene respiradero
+- Job_33:10contra mí, y me tiene por su enemigoH2803
+- Job_33:23si tuviese cerca de él algún elocuente
+- Job_33:24diga que Dios tuvo de él misericordia
+- Job_33:32si tienes razones, respóndeme; hablaH3426
+- Job_35:3qué provecho tendré de no haber pecado?
+- Job_36:2todavía tengo razones en defensa de Dios
+- Job_38:4házmelo saber, si tienes inteligencia
+- Job_38:23que tengo reservados para el tiempo de
+- Job_38:28¿tiene la lluvia padre...gotas de rocío?[[H3426]]
+- Job_40:9¿tienes tú un brazo como el de Dios?
+- Job_41:25de su grandeza tienen temor los fuertes
+- Job_41:29tiene toda arma por hojarasca, y del
+- Job_41:30debajo tiene agudas conchas; imprime
+- Job_42:12tuvo 14.000 ovejas, seis mil camellosH1961
+- Job_42:13y tuvo siete hijos y tres hijasH1961
+- Sal_4:1ten misericordia de...y oye mi oración
+- Sal_6:2ten misericordia de mí, oh Jehová, porque
+- Sal_7:12armado tiene ya su arco...lo ha preparado
+- Sal_8:4¿qué es el hombre, para que tengas de él
+- Sal_9:13ten misericordia de mí, Jehová; mira mi
+- Sal_10:5juicios los tiene muy lejos de su vista
+- Sal_11:4Jehová tiene en el cielo su trono; sus
+- Sal_14:4¿no tienen discernimiento todos los que
+- Sal_17:11tienen puestos sus ojos para echarnos
+- Sal_17:14cuya porción la tienen en esta vida
+- Sal_20:7del nombre...Dios tendremos memoria
+- Sal_27:7ten misericordia de mí, y respóndeme
+- Sal_31:9ten misericordia de mí...Jehová, porque
+- Sal_34:10leoncillos necesitan, y tienen hambre
+- Sal_34:10pero...no tendrán falta de ningún bien
+- Sal_37:1ni tengas envidia...que hacen iniquidad
+- Sal_37:21mas el justo tiene misericordia, y da
+- Sal_37:26en todo tiempo tiene misericordia, y
+- Sal_42:2mi alma tiene sed de Dios, del Dios vivo
+- Sal_50:12yo tuviese hambre, no te lo diría a ti
+- Sal_50:16¿qué tienes tú que hablar de mis leyes
+- Sal_51:1ten piedad de mí, oh Dios, conforme a tu
+- Sal_51:4justo...y tenido por puro en tu juicio
+- Sal_53:4¿no tienen conocimiento todos los que
+- Sal_56:1ten misericordia de mí, oh Dios, porque
+- Sal_57:1ten misericordia de mí, oh Dios, t...mí
+- Sal_58:4veneno tienen como...de serpiente; son
+- Sal_59:5no tengas misericordia de...los que se
+- Sal 60 tít.de David...cuando tuvo guerra contra
+- Sal_63:1mi alma tiene sed de ti, mi carne te
+- Sal_67:1Dios tenga misericordia de nosotros, y
+- Sal_69:4los que me destruyen sin tener por qué
+- Sal_69:31o becerro que tiene cuernos y pezuñas
+- Sal_72:12y al afligido que no tuviere quien le
+- Sal_72:13tendrá misericordia del pobre y del
+- Sal_73:3porque tuve envidia de los arrogantes
+- Sal_73:4no tienen congojas por su muerte, pues
+- Sal_73:25¿a quién tengo yo en los cielos sino
+- Sal_76:8la tierra tuvo temor y quedó suspensa
+- Sal_77:9ha olvidado Dios el tener misericordia?[[H2589]]
+- Sal_78:53guió con seguridad...no tuvieran temor
+- Sal_84:5bienaventurado el...que tiene en ti sus
+- Sal_86:3ten misericordia de mí...Jehová; porque
+- Sal_86:16mírame, y ten misericordia de mí; da
+- Sal_89:9tú tienes dominio sobre la braveza del
+- Sal_102:13tendrás misericordia de Sion, porque
+- Sal_102:14y del polvo de ella tienen compasión
+- Sal_106:16tuvieron envidia de Moisés en el
+- Sal_106:46tuviesen de ellos misericordia todos
+- Sal_106:46todos los que los tenían cautivos
+- Sal_109:11acreedor se apodere de...lo que tiene
+- Sal_109:12no tenga quien te haga misericordia
+- Sal_109:12ni haya quien tenga compasión de sus
+- Sal_110:3desde...tienes tú el rocío de tu juventud
+- Sal_111:10Buen...tienen todos los que...sus mandamientos
+- Sal_112:5el hombre de bien tiene misericordia
+- Sal_112:7no tendrá temor de malas noticias: su
+- Sal_114:5¿qué tuviste, oh mar, que huiste? ¿Y
+- Sal_115:5tienen boca, mas no hablan; t ojos, mas
+- Sal_115:6orejas tienen, mas no oyen; t narices
+- Sal_115:7manos tienen, mas no palpan; t pies
+- Sal_119:35la senda...en ella tengo mi voluntad
+- Sal_119:56estas bendiciones tuve porque guardéH1961
+- Sal_119:58ten misericordia de...según tu palabra
+- Sal_119:120de ti, y de tus juicios tengo miedo
+- Sal_119:132mírame, y ten misericordia de mí, como
+- Sal_119:161corazón tuvo temor de tus palabras
+- Sal_119:165paz tienen los que aman tu ley, y no
+- Sal_123:2que tenga misericordia de nosotros
+- Sal_123:3ten misericordia de...t misericordia de
+- Sal_125:2como Jerusalén tiene montes alrededor de
+- Sal_135:16tienen boca, y no hablan; t ojos, y no
+- Sal_135:17tienen orejas, y no oyen; tampoco hay
+- Sal_139:22los aborrezco...los tengo por enemigos
+- Sal_142:4no tengo refugio, ni hay quien cuide
+- Sal_144:14no tengamos asalto, ni...hacer salida
+- Sal_144:15bienaventurado el pueblo...tiene esto
+- Sal_149:4porque Jehová tiene contentamiento en
+- Pro_1:14tu suerte...tengamos todos una bolsaH1961
+- Pro_3:24cuando te acuestes, no tendréis temor
+- Pro_3:25no tendrás temor de pavor repentino, ni
+- Pro_3:27bien...cuando tuvieres poder para hacerlo
+- Pro_3:28digas...cuando tienes contigo qué darleH3426
+- Pro_3:30no tengas pleito con nadie sin razón, si
+- Pro_4:25tus párpados hacia lo que tienes delante
+- Pro_6:7la cual no teniendo capitán, ni...señor
+- Pro_6:30no tienen en poco al ladrón si hurta para
+- Pro_6:30saciar su apetito cuando tiene hambre
+- Pro_8:21que los que me aman tengan su heredad
+- Pro_8:23eternamente tuve el principado, desde
+- Pro_8:30teniendo solaz delante...en todo tiempo
+- Pro_11:16la mujer agraciada tendrá honra, y losH8551
+- Pro_11:16honra, y los fuertes tendrán riquezasH8551
+- Pro_11:18que siembra justicia tendrá galardón
+- Pro_12:9más vale el...que tiene servidores, que
+- Pro_13:3mucho abre sus labios tendrá calamidad
+- Pro_13:7pretenden ser ricos, y no tienen nada
+- Pro_13:7pretenden ser pobres, y tienen muchas
+- Pro_13:18pobreza...tendrá el que menosprecia el
+- Pro_13:25vientre de los impíos tendrá necesidad
+- Pro_14:13aun en la risa tendrá dolor el corazón
+- Pro_14:21que tiene misericordia de los pobres
+- Pro_14:26Jehová...y esperanza tendrán sus hijosH1961
+- Pro_14:31el que tiene misericordia del pobre, lo
+- Pro_14:32el justo en su muerte tiene esperanza
+- Pro_15:15de corazón contento tiene un banquete
+- Pro_15:32el que tiene en poco la disciplina
+- Pro_15:32el que escucha la...tiene entendimientoH7069
+- Pro_17:16qué sirve...no teniendo entendimiento?
+- Pro_17:27que ahorra sus palabras tiene sabiduría
+- Pro_18:5tener respeto a la persona del impío
+- Pro_18:24que tiene amigos ha de mostrarse amigo
+- Pro_22:11de sus labios tendrá la amistad del rey
+- Pro_22:27si no tuvieres para pagar, ¿por qué han
+- Pro_23:2pon cuchillo a...si tienes gran apetito
+- Pro_23:17no tenga tu...envidia de los pecadores
+- Pro_24:1no tengas envidia de los hombres malos
+- Pro_24:14si la hallares tendrás recompensa, y al
+- Pro_24:19no te...ni tengas envidia de los impíos
+- Pro_24:25que lo reprendieren tendrán felicidad
+- Pro_25:12reprende al sabio que tiene oído dócil
+- Pro_25:21si el...tuviere hambre, dale de comer
+- Pro_25:21y si tuviere sed, dale de beber agua
+- Pro_25:28el hombre cuyo espíritu no tiene rienda
+- Pro_27:11tendré qué responder al que me agravie
+- Pro_27:18mira por los intereses de...tendrá honra
+- Pro_28:12cuando se levantan...tienen que esconderse
+- Pro_28:20el hombre de verdad tendrá...bendiciones
+- Pro_28:27el que da al pobre no tendrá pobreza
+- Pro_28:27que aparta sus ojos tendrá... maldiciones
+- Pro_29:9se enoje o que se ría, no tendrá reposo
+- Pro_30:2rudo...ni tengo entendimiento de hombre
+- Pro_30:15sanguijuela tiene dos hijas que dicen
+- Pro_30:27langostas, que no tienen rey, y salen
+- Pro_31:21no tiene temor de la...por su familia
+- Ecl_1:3¿qué provecho tiene el hombre de todo
+- Ecl_2:7siervas, y tuve siervos nacidos en casaH1961
+- Ecl_2:7también tuve posesión grande de vacas yH1961
+- Ecl_2:14sabio tiene sus ojos en su cabeza, mas
+- Ecl_2:18cual tendré que dejar a otro que vendrá
+- Ecl_2:22¿qué tiene el hombre de todo su trabajoH1933
+- Ecl_3:1todo tiene su tiempo, y todo...t su hora
+- Ecl_3:9¿qué provecho tiene el que trabaja, de
+- Ecl_3:19una misma respiración tienen todos; ni
+- Ecl_3:19ni tiene más el hombre que la bestia
+- Ecl_4:1oprimidos, sin tener quien los consuele
+- Ecl_4:3y tuve por más feliz...al que no ha sido
+- Ecl_4:8un hombre...que no tiene hijo ni hermano
+- Ecl_4:9porque tienen mejor paga de su trabajoH3426
+- Ecl_4:16no tenía fin la muchedumbre del pueblo
+- Ecl_5:10y el que ama el mucho tener, no sacará
+- Ecl_5:11¿qué bien...tendrá su dueño, sino verlos
+- Ecl_5:15y nada tiene de su trabajo para llevar
+- Ecl_6:5además...más reposo tiene éste que aquél
+- Ecl_6:8¿qué más tiene el sabio que el necio?
+- Ecl_6:8¿qué más tiene el pobre que supo caminar
+- Ecl_6:10ya ha mucho que tiene nombre, y se sabe
+- Ecl_6:11la vanidad. ¿Qué más tiene el hombre?
+- Ecl_8:8no hay hombre que tenga potestad sobre el
+- Ecl_8:15no tiene el hombre bien debajo del sol
+- Ecl_9:5muertos nada saben, ni tienen más paga
+- Ecl_9:6nunca más tendrán parte en...que se hace
+- Ecl_10:20que tienen alas harán saber la palabraH1167
+- Ecl_11:8y en todos ellos tenga gozo, acuérdese
+- Ecl_12:1digas: No tengo en ellos contentamiento
+- Cnt_3:8todos ellos tienen espadas, diestrosH270
+- Cnt_7:10soy...y conmigo tiene su contentamiento
+- Cnt_8:5tuvo tu madre dolores, allí t dolores la
+- Cnt_8:8tenemos una pequeña hermana, que no
+- Cnt_8:8no tiene pechos; ¿qué haremos a nuestra
+- Cnt_8:11Salomón tuvo una viña en Baal-hamón, la
+- Isa_1:3Israel...pueblo no tiene conocimiento
+- Isa_1:14fiestas...las tiene aborrecidas mi alma
+- Isa_2:7plata y oro, sus tesoros no tienen fin
+- Isa_3:6le dijere: Tú tienes vestido, tú serás
+- Isa_5:1tenía mi amado una viña en una ladera
+- Isa_5:13cautivo, porque no tuvo conocimiento
+- Isa_6:2había serafines; cada uno tenía seis alas
+- Isa_6:5en medio de...que tiene labios inmundos
+- Isa_6:6teniendo en su mano un carbón encendido
+- Isa_8:12temáis lo que ellos...ni tengáis miedo
+- Isa_8:21y acontecerá que teniendo hambre, se
+- Isa_9:7de su imperio y la paz no tendrán límite
+- Isa_9:17ni de sus...y viudas tendrá misericordia
+- Isa_9:19hombre no tendrá piedad de su hermano
+- Isa_9:20tendrá hambre, y comerá a la izquierda
+- Isa_11:13Efraín no tendrá envidia de Judá, ni
+- Isa_13:8tendrán dolores como mujer de parto; se
+- Isa_13:18no tendrán misericordia del fruto del
+- Isa_13:20árabe, ni pastores tendrán allí majada
+- Isa_14:1porque Jehová tendrá piedad de Jacob, y
+- Isa_16:4el devastador tendrá fin, el pisoteador
+- Isa_18:6sobre ellos tendrán el verano las aves
+- Isa_22:1¿qué tienes ahora, que con todos los
+- Isa_22:11y no tuvisteis respeto al que lo hizo
+- Isa_22:16¿qué tienes tú aquí, o a quién t aquí
+- Isa_23:5cuando llegue la noticia...tendrán dolor
+- Isa_23:10Tarsis, porque no tendrás ya más poder
+- Isa_23:12a Quitim, y aun allí no tendrás reposo
+- Isa_26:1fuerte ciudad tenemos; salvación puso
+- Isa_26:18tuvimos dolores de parto, dimos a luz
+- Isa_27:10allí tendrá su majada, y acabará sus
+- Isa_27:11su Hacedor no tendrá de él misericordia
+- Isa_28:2Jehová tiene uno...es fuerte y poderoso
+- Isa_28:4la traga tan luego como la tiene a mano
+- Isa_28:15Pacto tenemos hecho con la muerte...con
+- Isa_29:8y les sucederá como el que tiene hambre
+- Isa_29:8que tiene sed y sueña, y le parece que
+- Isa_30:18Jehová esperará para tener piedad de
+- Isa_30:18será exaltado teniendo...misericordia
+- Isa_30:19el que tiene misericordia se apiadará
+- Isa_30:29tendréis cántico como de noche en queH1961
+- Isa_32:10de aquí a...de un año tendréis espanto
+- Isa_33:2oh Jehová, ten misericordia de nosotros
+- Isa_33:8aborreció las ciudades, tuvo en nada aH2803
+- Isa_34:6Jehová tiene sacrificios en Bosra, y
+- Isa_34:14la lechuza también tendrá allí morada
+- Isa_34:17para siempre la tendrán por heredad; deH3423
+- Isa_35:10y tendrán gozo y alegría, y huirán la
+- Isa_37:3que...la que da a luz no tiene fuerzas
+- Isa_37:26desde...la antigüedad lo tengo ideado?
+- Isa_38:22¿qué señal tendré de que subiré a la
+- Isa_40:6Y yo respondí: ¿Qué tengo que decir a voces?
+- Isa_40:24como si nunca...hubiera tenido raíz en
+- Isa_40:29multiplica las fuerzas al que no tiene
+- Isa_40:31pero los que esperan a Jehová tendrán
+- Isa_41:5las costas vieron, y tuvieron temor; los
+- Isa_41:12buscarás a los que tienen contienda
+- Isa_41:23haced bien, o mal...tengamos qué contar
+- Isa_42:1en quien mi alma tiene contentamiento
+- Isa_43:8sacad al pueblo ciego que tiene ojos, yH3426
+- Isa_43:8sacad...y a los sordos que tienen oídos
+- Isa_44:12tiene hambre, y le faltan las fuerzas
+- Isa_44:13forma de varón...para tenerlo en casaH3427
+- Isa_44:19no tiene sentido ni entendimiento para
+- Isa_44:20pura mentira lo que tengo en mi mano
+- Isa_45:9¿qué haces? o tu obra: No tiene manos?
+- Isa_45:20no tienen conocimiento...que erigen el
+- Isa_45:21y lo tiene dicho desde entonces, sino yo
+- Isa_46:2tuvieron ellos...que ir en cautiverio
+- Isa_46:8acordaos de esto, y tened vergüenza
+- Isa_47:6los entregué...no les tuviste compasión
+- Isa_48:21no tuvieron sed cuando los llevó por
+- Isa_49:1llamó desde...tuvo mi nombre en memoria
+- Isa_49:9en todas las alturas tendrán sus pastos
+- Isa_49:10no tendrán hambre ni sed, ni el calor
+- Isa_49:10el que tiene de ellos misericordia los
+- Isa_49:13y de sus pobres tendrá misericordia
+- Isa_49:16palmas de las manos te tengo esculpida
+- Isa_51:11tendrán gozo y alegría, y el dolor y elH5381
+- Isa_51:12¿quién eres tú para que tengas temor
+- Isa_53:4y nosotros le tuvimos por azotado, por
+- Isa_54:4y de la afrenta de...no tendrás...memoria
+- Isa_54:8con misericordia eterna tendré compasión
+- Isa_54:10dijo Jehová, el que tiene misericordia
+- Isa_55:1que no tienen dinero, venid, comprad y
+- Isa_55:7vuélvase a Jehová, el cual tendrá de él
+- Isa_57:13el que en mí confía tendrá la tierraH5157
+- Isa_60:10mas en mi buena voluntad tendré de ti
+- Isa_61:7doble honra, y tendrán perpetuo gozo
+- Isa_64:9Jehová, ni tengas perpetua memoria de
+- Isa_65:13comerán, y vosotros tendréis hambre
+- Isa_65:13mis...beberán, y vosotros tendréis sed
+- Jer_2:8los que tenían la ley no me conocieron
+- Jer_2:18¿qué tienes tú en el camino de Egipto
+- Jer_2:18¿y qué tienes tú en el camino de Asiria
+- Jer_3:3tenido frente de ramera, y no quisiste
+- Jer_3:3de ramera, y no quisiste tener vergüenza
+- Jer_3:8no tuvo temor la rebelde Judá su hermana
+- Jer_4:10has engañado a...diciendo: Paz tendréisH1961
+- Jer_5:21que tiene ojos y no ve, que t oídos y no
+- Jer_5:23pueblo tiene corazón falso y rebelde; se
+- Jer_6:15ni aun saben tener vergüenza; por tanto
+- Jer_6:23crueles son, y no tendrán misericordia
+- Jer_8:9los sabios se...¿y qué sabiduría tienen?
+- Jer_9:4en ningún hermano tenga confianza; porque
+- Jer_10:2ni de...señales del cielo tengáis temor
+- Jer_10:5no tengáis temor...para hacer bien t poder
+- Jer_11:15¿qué derecho tiene mi amada en mi casa
+- Jer_12:1y tienen bien todos los que se portan
+- Jer_12:13tuvieron la heredad...no aprovecharon
+- Jer_12:15volveré y tendré misericordia de ellos
+- Jer_13:14no...ni tendré piedad ni misericordia
+- Jer_15:5tendrá compasión de ti, oh Jerusalén?
+- Jer_16:2ni tendrás hijos ni hijas en este lugar
+- Jer_20:11tendrán perpetua confusión que jamás
+- Jer_21:4, Jer_21:9los caldeos que...os tienen sitiados
+- Jer_21:7ni tendrá compasión de ellos, ni t de
+- Jer_23:17dicen...Jehová dijo: Paz tendréis; y aH1961
+- Jer_23:28profeta que tuviere un sueño, cuente
+- Jer_23:28¿Qué tiene que ver la paja con el trigo?
+- Jer_24:2tenía higos muy buenos...t higos...malos
+- Jer_25:31porque Jehová tiene juicio contra las
+- Jer_26:21entendiendo lo cual Urías, tuvo temor
+- Jer_29:6maridos...para que tengan hijos e hijasH3205
+- Jer_29:7rogad...en su paz tendréis vosotros paz
+- Jer_29:11los pensamientos que tengo acerca deH2803
+- Jer_29:32no tendrá varón que more entre esteH1961
+- Jer_30:6todo hombre tenía las manos sobre sus
+- Jer_30:18de sus tiendas tendré misericordia, y
+- Jer_31:12su alma será...nunca más tendrán dolor
+- Jer_31:19que me aparté tuve arrepentimiento, y
+- Jer_31:20ciertamente tendré de él misericordia
+- Jer_31:28así como tuve cuidado...tendré cuidado
+- Jer_31:29uvas agrias y...hijos tienen la dentera
+- Jer_31:30comiere las uvas...tendrán la dentera
+- Jer_32:2el ejército...tenía sitiada a Jerusalén
+- Jer_32:7tú tienes derecho a ella para comprarla
+- Jer_32:39tengan bien ellos, y sus hijos después
+- Jer_33:21para que deje de tener hijo que reineH1961
+- Jer_33:24han tenido en poco...hasta no tenerlo
+- Jer_33:26haré volver sus cautivos, y tendré de
+- Jer_35:9no tener viña, ni heredad, ni sementeraH1961
+- Jer_35:16hijos de Jonadab...tuvieron por firme el
+- Jer_36:24y no tuvieron temor ni rasgaron sus
+- Jer_36:30no tendrá quien se siente sobre el tronoH1961
+- Jer_37:5a oídos de los caldeos que tenían sitiada
+- Jer_38:19tengo temor de los judíos que se han
+- Jer_39:10pobres del pueblo que no tenían nada
+- Jer_39:18tuviste confianza en mí, dice Jehová
+- Jer_40:4de las cadenas que tenías en tus manos
+- Jer_40:9no tengáis temor de servir a...caldeos
+- Jer_41:8tenemos en el campo tesoros de trigos yH3426
+- Jer_42:11la presencia del rey...del cual tenéis
+- Jer_42:12tendré de...misericordia, y él tendrá
+- Jer_42:16y el hambre de que tenéis temor, allá
+- Jer_44:10ni han tenido temor, ni han caminado en
+- Jer_44:17tuvimos abundancia de pan, y estuvimosH1961
+- Jer_44:29esto tendréis por señal...en este lugar
+- Jer_46:23más numerosos que...no tendrán número
+- Jer_48:30conozco...su cólera...no tendrá efecto
+- Jer_49:1¿no tiene hijos Israel? ¿No t heredero?
+- Jer_49:16habitas en...tienes la altura del monteH8610
+- Jer_49:31nación...ni tiene puertas ni cerrojos
+- Jer_50:32y caerá, y no tendrá quien lo levante
+- Jer_50:42serán crueles, y no tendrán compasión
+- Jer_51:17hombre...infatuado, y no tiene ciencia
+- Lam_1:2no tiene quien la consuele de todos
+- Lam_1:4las calzadas de Sion tienen luto, porque
+- Lam_1:4están afligidas, y ella tiene amargura
+- Lam_1:7las cosas agradables que tuvo desde losH1961
+- Lam_1:9descendido...no tiene quien la consuele
+- Lam_1:17sus manos; no tiene quien la consuele
+- Lam_2:17ha hecho lo que tenía determinado; ha
+- Lam_3:20tendré aún en memoria, porque mi alma
+- Lam_4:2¡cómo son tenidos por vasijas de barro
+- Lam_4:16no...ni tuvieron compasión de los viejos
+- Lam_4:20dicho: A su sombra tendremos vida entre
+- Eze_1:6cada uno tenía cuatro caras y cuatro
+- Eze_1:8sus cuatro lados, tenían manos de hombre
+- Eze_1:11tenían sus alas extendidas por encima
+- Eze_1:16las cuatro tenían una misma semejanza
+- Eze_1:23cada uno tenía dos alas que cubrían su
+- Eze_1:27fuego, y que tenía resplandor alrededor
+- Eze_2:6(2)no tengas miedo de sus palabras
+- Eze_3:9temas, ni tengas miedo delante de ellos
+- Eze_5:11perdonará, ni...tendré yo misericordia
+- Eze_6:8tengáis entre las naciones algunos queH1961
+- Eze_7:4, Eze_7:9; Eze_8:18mi ojo no...perdonará, ni tendré
+- Eze_9:3llamó Jehová al...que tenía a su cintura
+- Eze_9:5no perdone...ojo, ni tengáis misericordia
+- Eze_9:10ojo no perdonará, ni tendré misericordia
+- Eze_9:11el varón...tenía el tintero a su cintura
+- Eze_10:14cada uno tenía cuatro caras...querubín
+- Eze_10:21cada uno tenía cuatro caras y cada uno
+- Eze_12:2tienen ojos...y no ven, t oídos...no oyen
+- Eze_12:22refrán es este que tenéis vosotros en
+- Eze_16:5teniendo de ti misericordia; sino que
+- Eze_16:49abundancia de ociosidad tuvieron ella
+- Eze_16:60antes yo tendré memoria de mi pacto que
+- Eze_18:2dientes de los hijos tienen la dentera
+- Eze_18:3nunca más tendréis por qué...este refrán
+- Eze_18:24ninguna de las...serán tenidas en cuenta
+- Eze_19:11ella tuvo varas fuertes para cetros deH1961
+- Eze_21:11y la dio a pulir para tenerla a mano
+- Eze_23:15teniendo...ellos apariencia de capitanes
+- Eze_24:14volveré atrás, ni tendré misericordia
+- Eze_29:15no vuelvan a tener dominio sobre las
+- Eze_30:9tendrán espanto como en el día de Egipto
+- Eze_30:16Egipto: Sin tendrá gran dolor, y Tebas
+- Eze_30:16y Menfis tendrá continuas angustias
+- Eze_31:9los árboles del...tuvieron de él envidia
+- Eze_32:10sus reyes tendrán horror...causa de ti
+- Eze_35:5por cuanto tuviste enemistad perpetua
+- Eze_36:21he tenido dolor al ver mi santo nombre
+- Eze_37:24y todos ellos tendrán un solo pastorH1961
+- Eze_38:4y escudos, teniendo todos ellos espadas
+- Eze_38:11muros, y no tienen cerrojos ni puertas
+- Eze_39:25y tendré misericordia de toda...Israel
+- Eze_40:3y tenía un cordel de lino en su mano, y
+- Eze_40:5la caña de medir que...tenía en la mano
+- Eze_40:7cada cámara tenía una caña de largo, y
+- Eze_40:10la puerta oriental tenía tres cámaras
+- Eze_40:12y cada cámara tenía seis codos por un
+- Eze_40:25, Eze_40:29, Eze_40:33tenía sus ventanas y sus arcos
+- Eze_40:26tenía palmeras, una de un lado, y otra
+- Eze_41:7subía...la casa tenía más anchura arriba
+- Eze_41:18y cada querubín tenía dos rostros
+- Eze_41:23el templo y el santuario tenían dos
+- Eze_42:6no tenían columnas como...de los atrios
+- Eze_42:7el muro...tenía cincuenta codos de largo
+- Eze_42:20cuatro lados lo midió; tenía un muro
+- Eze_43:16el altar tenía doce codos de largo, y
+- Eze_44:18turbantes de lino tendrán...sus cabezasH1961
+- Eze_44:25hermana que no haya tenido marido, síH1961
+- Eze_45:8tendrá por posesión en Israel, y nunca
+- Eze_45:10balanzas...efa...y bato justo tendréisH1961
+- Eze_45:11que el bato tenga la décima parte delH5375
+- Eze_45:21tendréis la pascua, fiesta de sieteH1961
+- Eze_46:22patios...misma medida tenían los cuatro
+- Eze_47:13repartiréis la..José tendrá dos partes
+- Eze_47:22los tendréis como naturales entre los
+- Eze_47:22suertes...para tener heredad entre losH5307
+- Eze_48:1Hamat, tendrá Dan una parte, desde el
+- Eze_48:2el lado del mar, tendrá Aser una parte
+- Eze_48:9tendrá de longitud veinticinco mil cañas
+- Eze_48:12ellos tendrán como parte santísima la
+- Eze_48:23lado del...tendrá Benjamín una porción
+- Eze_48:35en derredor tendrá 18.000 cañas. Y el
+- Dan_1:17Daniel tuvo entendimiento en...visión
+- Dan_2:1tuvo Nabucodonosor sueños, y se perturbó
+- Dan_2:3he tenido un sueño, y mi espíritu se ha
+- Dan_2:28tu sueño, y las visiones que has tenido
+- Dan_3:20mandó a hombres...tenía en su ejército
+- Dan_3:27el fuego no había tenido poder alguno
+- Dan_3:27cómo...ni siquiera olor de fuego tenían
+- Dan_4:25, Dan_4:32que el Altísimo tiene dominio en el
+- Dan_5:21Dios tiene dominio sobre el reino de los
+- Dan_7:1tuvo Daniel un sueño, y visiones de suH2370
+- Dan_7:4era como león, y tenía alas de águila
+- Dan_7:5y tenía en su boca tres costillas entre
+- Dan_7:6tenía también esta bestia cuatro cabezas
+- Dan_7:7cual tenía unos dientes grandes de hierro
+- Dan_7:7diferente de todas...y tenía diez cuernos
+- Dan_7:8este cuerno tenía ojos como de hombre, y
+- Dan_7:19tuve deseo de saber la verdad acerca de
+- Dan_7:19tenía dientes de hierro y uñas de bronce
+- Dan_7:20los diez cuernos que tenía en su cabeza
+- Dan_7:20y este mismo cuerno tenía ojos, y boca
+- Dan_8:3tenía dos cuernos; y aunque los cuernos
+- Dan_8:5tenía un cuerno notable entre sus ojos
+- Dan_8:7el carnero no tenía fuerza para pararse
+- Dan_8:20tenía dos cuernos, éstos son los reyesH1167
+- Dan_8:21y el cuerno...que tenía entre sus ojos
+- Dan_9:9de Jehová...Dios es el tener misericordia
+- Dan_9:15te hiciste renombre cual lo tienes hoy
+- Dan_10:1pero él...tuvo inteligencia en la visión
+- Dan_10:8no quedó fuerza...no tuve vigor algunoH6113
+- Dan_10:18y aquel que tenía semejanza de hombre
+- Dan_10:20tengo que volver para pelear contra el
+- Dan_11:17pero no permanecerá, ni tendrá éxito
+- Dan_11:45a su fin, y no tendrá quien le ayude
+- Ose_1:7de la casa de Judá tendré misericordia
+- Ose_2:4ni tendré misericordia de...hijos, porque
+- Ose_2:23tendré misericordia de Lo-ruhama, y diré
+- Ose_4:13álamos y olmos que tuviesen buena sombra
+- Ose_7:2tengo en memoria toda su maldad; ahora
+- Ose_8:7no tendrán mies, ni su espiga hará harina
+- Ose_8:11porque...Efraín...tuvo altares para pecar
+- Ose_8:12ley, y fueron tenidas por cosa extraña
+- Ose_10:3no tenemos rey, porque no temimos a
+- Ose_12:2pleito tiene...con Judá para castigar a
+- Ose_12:7mercader que tiene en su mano peso falso
+- Ose_14:8¿qué más tendré ya con los ídolos? Yo
+- Joe_1:18turbados...porque no tuvieron pastos!
+- Joe_3:4¿qué tengo yo con vosotras, Tiro y Sidón
+- Amó_5:15quizá Jehová Dios de...tendrá piedad
+- Amó_5:20luz; oscuridad, que no tiene resplandor?
+- Jon_1:5los marineros tuvieron miedo, y cada
+- Jon_1:6dijo: ¿Qué tienes, dormilón? Levántate
+- Jon_1:8¿qué oficio tienes, y de dónde vienes?
+- Jon_1:17Jehová tenía preparado un gran pez que
+- Jon_4:10tuviste tú lástima de la calabacera, en
+- Jon_4:11no tendré yo piedad de Nínive...ciudad
+- Miq_2:1lo ejecutan...tienen en su mano el poder
+- Miq_3:5y claman: Paz, cuando tienen...que comer
+- Miq_6:2porque Jehová tiene pleito con su pueblo
+- Miq_6:11por inocente al que tiene balanza, falsa
+- Miq_7:19volverá a tener misericordia de nosotros
+- Nah_1:3y no tendrá por inocente al culpable
+- Nah_1:12aunque reposo tengan...serán talados, y
+- Hab_1:14como reptiles que no tienen quien los
+- Hab_1:17no tendrá piedad de aniquilar naciones
+- Hab_3:10te vieron y tuvieron temor los montes
+- Sof_2:2antes que tenga efecto el decreto, y
+- Zac_1:12¿hasta cuándo no tendrás piedad de
+- Zac_2:1un varón que tenía en su mano un cordel
+- Zac_5:9tenían alas como de cigüeña, y alzaron
+- Zac_10:2el pueblo...sufre porque no tiene pastor
+- Zac_10:6porque de ellos tendré piedad, y serán
+- Zac_11:5matan sus...y no se tienen por culpables
+- Zac_11:5ni sus pastores tienen piedad de ellas
+- Zac_11:6no tendré ya...piedad de los moradores
+- Zac_12:5dirán...Tienen fuerza los habitantes de
+- Mal_1:9orad por...que tenga piedad de nosotros
+- Mal_1:10no tengo complacencia en vosotros, dice
+- Mal_1:14teniendo machos en su rebaño, promete
+- Mal_2:5tuvo temor de mí, y delante de mi nombre
+- Mal_2:10¿no tenemos todos un mismo padre? ¿No
+- Mal_3:5no teniendo temor de mí, dice Jehová de
+- Mat_2:22tuvo temor de ir allá; pero avisado
+- Mat_3:4tenía un cinto de cuero alrededor de susG2192
+- Mat_3:9Abraham tenemos por padre; porque yo osG2192
+- Mat_3:17es mi Hijo...en quien tengo complacencia
+- Mat_4:2y después de haber ayunado...tuvo hambre
+- Mat_4:24trajeron todos los que tenían dolencias
+- Mat_5:6bienaventurados los que tienen hambre y
+- Mat_5:23de que tu hermano tiene algo contra tiG2192
+- Mat_5:46si amáis a...¿qué recompensa tendréis?[[G2192]]
+- Mat_6:1no tendréis recompensa de vuestro PadreG2192
+- Mat_6:2, Mat_6:5, Mat_6:16digo que ya tienen su recompensaG568
+- Mat_6:8Padre sabe de qué cosas tenéis necesidadG2192
+- Mat_6:32sabe que tenéis necesidad de...estas cosas
+- Mat_7:29les enseñaba como quien tiene autoridadG2192
+- Mat_8:9tengo bajo mis órdenes soldados; y digoG2192
+- Mat_8:20las zorras tienen guaridas, y las aves
+- Mat_8:20mas el...no tiene dónde recostar su cabezaG2192
+- Mat_8:29¿qué tienes con nosotros, Jesús, Hijo
+- Mat_9:6el Hijo del Hombre tiene potestad en laG2192
+- Mat_9:12los sanos no tienen necesidad de médico
+- Mat_9:15¿acaso pueden los...de bodas tener luto
+- Mat_9:22ten ánimo, hija; tu fe te ha salvado
+- Mat_9:27¡ten misericordia de nosotros, Hijo de
+- Mat_9:36dispersas...ovejas que no tienen pastorG2192
+- Mat_11:15el que tiene oídos para oír, oigaG2192
+- Mat_11:18vino Juan, que...y dicen: Demonio tieneG2192
+- Mat_12:1día de...sus discípulos tuvieron hambre
+- Mat_12:3David, cuando él y los...tuvieron hambre
+- Mat_12:10había allí uno que tenía seca una manoG2192
+- Mat_12:11¿qué hombre...que tenga una oveja, y siG2192
+- Mat_12:14fariseos, tuvieron consejo contra JesúsG2983
+- Mat_13:5brotó...no tenía profundidad de tierraG2192
+- Mat_13:6se quemó...porque no tenía raíz, se secó
+- Mat_13:9el que tiene oídos para oír, oigaG2192
+- Mat_13:12tiene, se le dará, y tendrá más; peroG2192
+- Mat_13:12al que no tiene, aun lo que t le seráG2192
+- Mat_13:21no tiene raíz en...es de corta duraciónG2192
+- Mat_13:27señor...¿De dónde, pues, tiene cizaña?[[G2192]]
+- Mat_13:43el que tiene oídos para oír, oigaG2192
+- Mat_13:44gozoso...va y vende todo lo que tieneG2192
+- Mat_13:46vendió todo lo que tenía, y la compróG2192
+- Mat_13:54¿de dónde tiene éste esta sabiduría y
+- Mat_13:56dónde...tiene éste todas estas cosas?
+- Mat_14:4Juan le decía: No te es lícito tenerlaG2192
+- Mat_14:5pero temía...tenían a Juan por profeta
+- Mat_14:14saliendo Jesús...tuvo compasión...y sanó
+- Mat_14:16les dijo: No tienen necesidad de irse
+- Mat_14:17no tenemos aquí sino cinco panes y dosG2192
+- Mat_14:27habló...Tened ánimo; yo soy, no temáis!
+- Mat_14:30tuvo miedo; y comenzando a hundirse, dio
+- Mat_15:22Hijo de David, ten misericordia de mí!
+- Mat_15:32tengo compasión de la gente, porque yaG2192
+- Mat_15:32y no tienen qué comer; y enviarlos en
+- Mat_15:33¿de dónde tenemos...tantos panes en el
+- Mat_15:34¿cuántos panes tenéis? Y ellos dijeronG2192
+- Mat_16:2buen tiempo...el cielo tiene arreboles
+- Mat_16:3habrá tempestad...tiene arreboles el cielo
+- Mat_16:8qué pensáis dentro...que no tenéis pan?
+- Mat_16:22diciendo: Señor, ten compasión de ti
+- Mat_17:5es mi Hijo...en quien tengo complacencia
+- Mat_17:6postraron sobre...y tuvieron gran temor
+- Mat_17:15Señor, ten misericordia de mi hijo, que
+- Mat_17:20tuviereis fe como un grano de mostazaG2192
+- Mat_18:8que teniendo dos manos...ser echado enG2192
+- Mat_18:9que teniendo dos ojos ser echado en elG2192
+- Mat_18:12si un hombre tiene cien ovejas, y seG2192
+- Mat_18:17y si no oyere a la iglesia, tenle por
+- Mat_18:25venderle...y todo lo que tenía, paraG2192
+- Mat_18:26, Mat_18:29ten paciencia conmigo...lo pagaré
+- Mat_18:33tener misericordia de tu...como yo tuve
+- Mat_19:16bien haré para tener la vida eterna?[[G2192]]
+- Mat_19:21vende lo que tienes, y dalo a..pobresG5224
+- Mat_19:21y tendrás tesoro en el cielo; y ven yG2192
+- Mat_19:22se fue triste...tenía muchas posesiones
+- Mat_19:27lo hemos dejado todo...¿qué...tendremos?[[G2701]]
+- Mat_20:15tienes tú envidia, porque...soy bueno?
+- Mat_20:30-31Hijo de David, ten misericordia de
+- Mat_21:18volviendo a la ciudad, tuvo hambre
+- Mat_21:21que si tuviereis fe, y no dudareis, noG2192
+- Mat_21:26porque todos tienen a Juan por profetaG2192
+- Mat_21:28hombre tenía dos hijos, y acercándose
+- Mat_21:37diciendo: Tendrán respeto a mi hijo
+- Mat_21:46temían al pueblo...le tenía por profeta
+- Mat_22:25y no teniendo descendencia, dejó su
+- Mat_22:28¿de cuál de...ya que todos la tuvieron?[[G2192]]
+- Mat_25:20tienes, he ganado otros cinco talentos
+- Mat_25:22aquí tienes, he ganado...dos talentos
+- Mat_25:25tuve miedo, y fui y escondí tu talento
+- Mat_25:25tu talento...aquí tienes lo que es tuyoG2192
+- Mat_25:28y dadlo al que tiene diez talentosG2192
+- Mat_25:29al que tiene, le será dado, y tendráG2192
+- Mat_25:29al que no tiene, aun lo que t le seráG2192
+- Mat_25:35tuve hambre, y me disteis de comer
+- Mat_25:35tuve sed, y me disteis de beber; fui
+- Mat_25:42tuve hambre, y no me disteis de comer
+- Mat_25:42tuve sed, y no me disteis de beber
+- Mat_26:4tuvieron consejo para prender...a Jesús
+- Mat_26:11siempre tendréis pobres con vosotrosG2192
+- Mat_26:11pobres...a mí no siempre me tendréisG2192
+- Mat_26:65¿qué...necesidad tenemos de testigos?[[G2192]]
+- Mat_27:16tenían...preso famoso llamado BarrabásG2192
+- Mat_27:19no tengas nada que ver con ese justo
+- Mat_27:65ahí tenéis una guardia; id, aseguradlo
+- Mar_1:6tenía un cinto de cuero alrededor de
+- Mar_1:11mi Hijo amado; en ti tengo complacencia
+- Mar_1:22enseñaba como quien tiene autoridad, yG2192
+- Mar_1:24qué tienes con nosotros, Jesús nazareno?
+- Mar_1:32le trajeron...los que tenían enfermedades
+- Mar_1:41teniendo misericordia de él, extendió la
+- Mar_2:10que el Hijo del Hombre tiene potestadG2192
+- Mar_2:17los sanos no tienen necesidad de médico
+- Mar_2:19entre tanto que tienen consigo al esposo
+- Mar_2:25lo que hizo David cuando tuvo necesidadG2192
+- Mar_3:1había...un hombre que tenía seca una manoG2192
+- Mar_3:3entonces dijo al...que tenía la mano secaG2192
+- Mar_3:9que le tuviesen siempre lista la barca
+- Mar_3:10cuantos tenían plagas caían sobre élG2192
+- Mar_3:15tuviesen...para sanar enfermedades y para echar
+- Mar_3:22escribas...decían que tenía a BeelzebúG2192
+- Mar_3:29no tiene jamás perdón, sino que es reoG2192
+- Mar_3:30habían dicho: Tiene espíritu inmundoG2192
+- Mar_4:5cayó en...donde no tenía mucha tierra; yG2192
+- Mar_4:5porque no tenía profundidad de tierraG2192
+- Mar_4:6quemó; y porque no tenía raíz, se secóG2192
+- Mar_4:9dijo: El que tiene oídos para oír, oiga
+- Mar_4:17pero no tienen raíz en sí, sino que son
+- Mar_4:23si alguno tiene oídos para oír, oiga
+- Mar_4:25porque al que tiene, se le dará; y al queG2192
+- Mar_4:25que no tiene, aun lo que t se le quitaráG2192
+- Mar_4:38Maestro, ¿no tienes cuidado...perecemos?
+- Mar_4:40les dijo: ¿Por qué...¿Cómo no tenéis fe?[[G2192]]
+- Mar_5:3que tenía su morada en los sepulcros, yG2192
+- Mar_5:7dijo: ¿Qué tienes conmigo, Jesús, Hijo
+- Mar_5:15y que había tenido la legión, sentadoG2192
+- Mar_5:15y ven al...atormentado...y tuvieron miedo
+- Mar_5:16al que había tenido el demonio, y lo de
+- Mar_5:19el Señor...y cómo ha tenido misericordia
+- Mar_5:26había sufrido...gastado todo lo que teníaG3844
+- Mar_5:42la niña se levantó y...tenía doce años
+- Mar_6:2decían: ¿De dónde tiene éste estas cosas?
+- Mar_6:18decía...No te es lícito tener la mujer deG2192
+- Mar_6:31porque...ni aun tenían tiempo para comer
+- Mar_6:34y tuvo compasión de ellos, porque eran
+- Mar_6:34eran como ovejas que no tenían pastorG2192
+- Mar_6:36compren pan, pues no tienen qué comerG2192
+- Mar_6:38¿cuántos panes tenéis? Id y vedlo. Y alG2192
+- Mar_6:50dijo: ¡Tened ánimo; yo soy, no temáis!
+- Mar_7:16si alguno tiene oídos para oír, oigaG2192
+- Mar_7:25cuya hija tenía un espíritu inmundoG2192
+- Mar_8:1no tenían qué comer, Jesús llamó a susG2192
+- Mar_8:2tengo compasión de la gente, porque ya
+- Mar_8:2ya hace tres días...no tienen qué comerG2192
+- Mar_8:5¿cuántos panes tenéis?...dijeron: SieteG2192
+- Mar_8:7tenían también unos pocos pececillos; yG2192
+- Mar_8:14tenían sino un pan consigo en la barcaG2192
+- Mar_8:17¿qué discutís, porque no tenéis pan?[[G2192]]
+- Mar_8:17aún tenéis endurecido vuestro corazón?[[G2192]]
+- Mar_8:18¿teniendo ojos no veis, y t oídos no oís?[[G2192]]
+- Mar_9:12que padezca mucho y sea tenido en nada?
+- Mar_9:17a ti mi hijo, que tiene un espíritu mudoG2192
+- Mar_9:32ellos no...y tenían miedo de preguntarle
+- Mar_9:43que teniendo dos manos ir al infiernoG2192
+- Mar_9:45que teniendo dos pies ser echado en elG2192
+- Mar_9:47ojo, que teniendo dos ojos ser echadoG2192
+- Mar_9:50tened sal en vosotros...y t paz los unosG2192
+- Mar_10:21vende todo lo que tienes, y dalo a losG2192
+- Mar_10:21los pobres, y tendrás tesoro en el cieloG2192
+- Mar_10:22se fue triste...tenía muchas posesiones
+- Mar_10:23difícilmente...los que tienen riquezas![[G2192]]
+- Mar_10:42los que son tenidos por gobernantes deG1380
+- Mar_10:47¡Jesús, Hijo...ten misericordia de mí!
+- Mar_10:48clamaba...más...ten misericordia de mí!
+- Mar_10:49ten confianza; levántate, te llama
+- Mar_11:12cuando salieron de Betania, tuvo hambre
+- Mar_11:13y viendo...una higuera que tenía hojasG2192
+- Mar_11:18tenían miedo, por cuanto todo el pueblo
+- Mar_11:22respondiendo...dijo: Tened fe en DiosG2192
+- Mar_11:25perdonad, si tenéis algo contra algunoG2192
+- Mar_11:32tenían a Juan como...verdadero profeta
+- Mar_12:6teniendo aún un hijo...amado, lo envióG2192
+- Mar_12:6hijo...diciendo: Tendrán respeto a mi hijo
+- Mar_12:23ya que los siete la tuvieron por mujer?[[G2192]]
+- Mar_12:44ésta...echó todo lo que tenía, todo suG2192
+- Mar_14:7tendréis a los pobres con vosotros, yG2192
+- Mar_14:7bien; pero a mí no siempre me tendréisG2192
+- Mar_14:63¿qué...necesidad tenemos de testigos?
+- Mar_15:1habiendo tenido consejo los principales
+- Mar_16:8ni decían...a nadie, porque tenían miedo
+- Luc_1:7no tenían hijo...Elisabet era estérilG1510
+- Luc_1:14y tendrás gozo y alegría, y muchos seG2071
+- Luc_1:33reinará sobre...y su reino no tendrá fin
+- Luc_2:9gloria...los rodeó...tuvieron gran temor
+- Luc_2:42cuando tuvo doce años, subieron a Jerusalén
+- Luc_3:8tenemos a Abraham por padre; porque osG2192
+- Luc_3:11que tiene dos túnicas, dé al que no tG2192
+- Luc_3:11y el que tiene qué comer, haga lo mismoG2192
+- Luc_3:22mi Hijo amado; en ti tengo complacencia
+- Luc_4:2días, pasados los cuales, tuvo hambre
+- Luc_4:33hombre que tenía un espíritu de demonioG2192
+- Luc_4:34qué tienes con nosotros, Jesús nazareno?
+- Luc_4:38suegra de Simón tenía una gran fiebreG4912
+- Luc_4:40todos los que tenían enfermos...traíanG2192
+- Luc_5:24que el Hijo del Hombre tiene potestadG2192
+- Luc_5:31los sanos no tienen necesidad de médico
+- Luc_6:3lo que hizo David cuando tuvo hambre él
+- Luc_6:6un hombre que tenía seca la mano derecha
+- Luc_6:8dijo al hombre que tenía la mano secaG2192
+- Luc_6:21que ahora tenéis hambre, porque seréis
+- Luc_6:24¡ay...porque ya tenéis vuestro consuelo
+- Luc_6:25i ay de vosotros, los...tendréis hambre!
+- Luc_6:32-33, Luc_6:34si...¿qué mérito tenéis? PorqueG2076
+- Luc_7:7ni aun me tuve por digno de venir a ti
+- Luc_7:8tengo soldados bajo mis órdenes; y digoG2192
+- Luc_7:16tuvieron miedo, y glorificaban a Dios
+- Luc_7:25que tienen vestidura preciosa y viven
+- Luc_7:33ni bebía vino, y decís: Demonio tieneG2192
+- Luc_7:40Simón, una cosa tengo que decirte. Y élG2192
+- Luc_7:41un acreedor tenía dos deudores: el unoG1510
+- Luc_7:42no teniendo...con qué pagar, perdonó aG2192
+- Luc_8:6nacida, se secó, porque no tenía humedad
+- Luc_8:8decía...El que tiene oídos para oír, oigaG2192
+- Luc_8:13pero éstos no tienen raíces; creen porG2192
+- Luc_8:18porque a todo el que tiene, se le daráG2192
+- Luc_8:18que no tiene, aun lo que piensa tenerG2192
+- Luc_8:28¿qué tienes conmigo, Jesús, Hijo del
+- Luc_8:35y hallaron al hombre...y tuvieron miedo
+- Luc_8:37se marchase de...pues tenían gran temor
+- Luc_8:42tenía una hija...que se estaba muriendoG1510
+- Luc_8:43gastado en médicos todo cuanto tenía, y
+- Luc_9:13no tenemos más que cinco panes y dosG1526, [[G3756]]
+- Luc_9:34y tuvieron temor al entrar en la nube
+- Luc_9:38veas a mi hijo...es el único que tengo
+- Luc_9:58las zorras tienen guaridas, y las avesG2192
+- Luc_9:58mas el Hijo del Hombre no tiene dóndeG2192
+- Luc_10:39tenía una hermana que se llamaba MaríaG1510
+- Luc_11:5¿quién de...que tenga un amigo, va a élG2192
+- Luc_11:6venido...y no tengo qué ponerle delanteG2192
+- Luc_11:36no teniendo parte alguna de tinieblasG2192
+- Luc_11:41pero dad limosna de lo que tenéis, yG1751
+- Luc_12:5tiene poder de echar en el infierno: síG2192
+- Luc_12:17porque no tengo dónde guardar...frutos?[[G2192]]
+- Luc_12:19muchos bienes tienes guardados para muchosG2192
+- Luc_12:24que ni tienen despensa, ni granero, yG2076
+- Luc_12:30que tenéis necesidad de estas cosas
+- Luc_12:50De un bautismo tengo que ser bautizadoG2192
+- Luc_13:6tenía un hombre una higuera plantada enG2192
+- Luc_13:11hacía dieciocho años tenía espíritu deG2192
+- Luc_14:10entonces tendrás gloria delante de losG2071
+- Luc_14:28gastos, a ver si tiene lo que necesitaG2192
+- Luc_14:35el que tiene oídos para oír, oigaG2192
+- Luc_15:4teniendo cien ovejas, si pierde una deG2192
+- Luc_15:8o qué mujer que tiene diez dracmas, siG2192
+- Luc_15:11también dijo: Un hombre tenía dos hijosG2192
+- Luc_15:17en casa de mi padre tienen abundancia
+- Luc_16:1un hombre rico que tenía un mayordomoG2192
+- Luc_16:15lo que los hombres tienen por sublime
+- Luc_16:24padre Abraham, ten misericordia de mí
+- Luc_16:28porque tengo cinco hermanos, para queG2192
+- Luc_16:29dijo: A Moisés y a los profetas tienenG2192
+- Luc_17:6dijo: Si tuvierais fe como un grano deG2192
+- Luc_17:7teniendo un siervo que ara o apacientaG2192
+- Luc_17:13¡Jesús...ten misericordia de nosotros!
+- Luc_18:4ni temo a...ni tengo respeto a hombre
+- Luc_18:22vende todo lo que tienes, y dalo a losG2192
+- Luc_18:22y tendrás tesoro en el cielo; y venG2192
+- Luc_18:24difícilmente entrarán...los que tienen
+- Luc_18:38-39¡Hijo de David, ten misericordia de
+- Luc_19:17tendrás autoridad sobre diez ciudadesG2192
+- Luc_19:20cual he tenido guardada en un pañuelo
+- Luc_19:21porque tuve miedo de ti, por cuanto eres
+- Luc_19:24y dadla al que tiene las diez minasG2192
+- Luc_19:25ellos le dijeron: Señor, tiene diez minasG2192
+- Luc_19:26a todo el que tiene, se le dará; mas alG2192
+- Luc_19:26no tiene, aun lo que t se le quitaráG2192
+- Luc_20:13cuando le vean a él, le tendrán respeto
+- Luc_20:24¿de quién tiene la...y la inscripción?[[G2192]]
+- Luc_20:28muriere teniendo mujer, y no dejareG2192
+- Luc_20:33ya que los siete la tuvieron por mujer?[[G2192]]
+- Luc_20:35mas los que fueren tenidos por dignos
+- Luc_21:4ésta...echó todo el sustento que teníaG2192
+- Luc_21:36seáis tenidos por dignos de escapar deG2661
+- Luc_22:25y los que sobre ellas tienen autoridad
+- Luc_22:36el que tiene bolsa, tómela, y tambiénG2192
+- Luc_22:36el que no tiene espada, venda su capaG2192
+- Luc_22:37lo...escrito de mí, tiene cumplimientoG2192
+- Luc_23:17y tenía necesidad de soltarles uno en
+- Luc_24:5tuvieron temor, y bajaron el rostro a
+- Luc_24:17¿qué pláticas son estas que tenéis entreG474
+- Luc_24:39no tiene carne...como veis que yo tengoG2192
+- Luc_24:41les dijo: ¿Tenéis aquí algo de comer?[[G2192]]
+- Jua_2:3madre de Jesús le dijo: No tienen vinoG2192
+- Jua_2:4dijo: ¿Qué tienes conmigo, mujer? Aún no
+- Jua_2:25no tenía necesidad de...diese testimonio
+- Jua_3:15-16no se pierda, mas tenga vida eternaG2192
+- Jua_3:29el que tiene la esposa, es el esposoG2192
+- Jua_3:36el que cree en el Hijo tiene vida eternaG2192
+- Jua_4:11no tienes con qué sacarla, y el pozo esG2192
+- Jua_4:11¿de dónde, pues, tienes el agua viva?[[G2192]]
+- Jua_4:13bebiere de...agua, volverá a tener sed
+- Jua_4:14el que bebiere del agua...no tendrá sed
+- Jua_4:15dame esa agua, para que no tenga yo sed
+- Jua_4:17respondió la mujer y...No tengo marido
+- Jua_4:17le dijo: Bien has dicho: No tengo maridoG2192
+- Jua_4:18porque cinco maridos has tenido, y elG2192
+- Jua_4:18y el que ahora tienes no es tu maridoG2192
+- Jua_4:32les dijo: Yo tengo una comida que comerG2192
+- Jua_4:44el profeta no tiene honra en su propiaG2192
+- Jua_5:2un estanque...el cual tiene cinco pórticosG2192
+- Jua_5:4sano de cualquier enfermedad que tuvieseG2722
+- Jua_5:7no tengo quien me meta en el estanqueG2192
+- Jua_5:24cree al que me envió, tiene vida eternaG2192
+- Jua_5:26como el Padre tiene vida en sí mismoG2192
+- Jua_5:26también ha dado al Hijo el tener vidaG2192
+- Jua_5:36tengo mayor testimonio que el de JuanG2192
+- Jua_5:38tenéis su palabra morando en vosotrosG2192
+- Jua_5:39os parece que en ellas tenéis la vidaG2192
+- Jua_5:40y no queréis venir a...que tengáis vidaG2192
+- Jua_5:42que no tenéis amor de Dios en vosotrosG2192
+- Jua_5:45quien os acusa, Moisés, en quien tenéis
+- Jua_6:9está un muchacho, que tiene cinco panesG2192
+- Jua_6:19Jesús que andaba sobre...y tuvieron miedo
+- Jua_6:35el que a mí viene, nunca tendrá hambre
+- Jua_6:35el que en mí cree, no tendrá sed jamás
+- Jua_6:40aquel que ve al Hijo...tenga vida eternaG2192
+- Jua_6:47el que cree en mí, tiene vida eternaG2192
+- Jua_6:53y bebéis su sangre, no tenéis vida enG2192
+- Jua_6:54tiene vida eterna; y yo le resucitaréG2192
+- Jua_6:68Señor...tú tienes palabras de vida eternaG2192
+- Jua_7:20demonio tienes; ¿quién procura matarte?[[G2192]]
+- Jua_7:37si alguno tiene sed, venga a mí y beba
+- Jua_8:12no...sino que tendrá la luz de la vidaG2192
+- Jua_8:26muchas cosas tengo que decir y juzgar
+- Jua_8:41dijeron...un padre tenemos, que es DiosG2192
+- Jua_8:48eres samaritano, y que tienes demonio?[[G2192]]
+- Jua_8:49yo no tengo demonio, antes honro a miG2192
+- Jua_8:52conocemos que tienes demonio. AbrahamG2192
+- Jua_8:57no tienes cincuenta años, ¿y has visto
+- Jua_9:21sabemos; edad tiene, preguntadle a él
+- Jua_9:22tenían miedo de los judíos, por cuanto
+- Jua_9:23dijeron...Edad tiene, preguntadle a él
+- Jua_9:41Si fuerais ciegos, no tendríais pecado; mas ahora
+- Jua_10:10yo he venido para que tengan vida, yG2192
+- Jua_10:10y para que la tengan en abundanciaG2192
+- Jua_10:16tengo otras ovejas que no son de esteG2192
+- Jua_10:18tengo poder para ponerla, y t poderG2192
+- Jua_10:20decían: Demonio tiene, y está fuera deG2192
+- Jua_11:9respondió...¿No tiene el día doce horas?
+- Jua_11:38una cueva, y tenía una piedra puesta
+- Jua_12:6y teniendo la bolsa, sustraía de lo queG2192
+- Jua_12:8a los pobres siempre los tendréis conG2192
+- Jua_12:8los pobres...a mí no siempre me tendréisG2192
+- Jua_12:35andad entre tanto que tenéis luz, paraG2192
+- Jua_12:36entre tanto que tenéis la luz, creed enG2192
+- Jua_12:48y no recibe mis...tiene quien le juzgueG2192
+- Jua_13:8no te lavare, no tendrás parte conmigoG2192
+- Jua_13:29puesto que Judas tenía la bolsa, queG2192
+- Jua_13:35tuviereis amor los unos con los otrosG2192
+- Jua_14:21el que tiene mis mandamientos, y losG2192
+- Jua_14:27no se turbe...corazón, ni tenga miedo
+- Jua_14:30viene el príncipe...él nada tiene en míG2192
+- Jua_15:13nadie tiene mayor amor que este, queG2192
+- Jua_15:22no hubiera venido...no tendrían pecado
+- Jua_15:22ahora no tienen excusa por su pecadoG2192
+- Jua_15:24si yo no hubiese...no tendrían pecado
+- Jua_16:1he hablado, para que no tengáis tropiezoG2192
+- Jua_16:12tengo muchas cosas que deciros, peroG2192
+- Jua_16:15todo lo que tiene el Padre es mío; porG2192
+- Jua_16:21la mujer cuando da a luz, tiene dolorG2192
+- Jua_16:22también vosotros ahora tenéis tristezaG2192
+- Jua_16:33he hablado para que en mí tengáis pazG2192
+- Jua_16:33en el mundo tendréis aflicción; peroG2192
+- Jua_17:5aquella gloria que tuve contigo antesG2192
+- Jua_17:13tengan mi gozo cumplido en sí mismosG2192
+- Jua_18:10Simón Pedro, que tenía una espada, laG2192
+- Jua_18:39tenéis la costumbre de que os suelte
+- Jua_19:7tenemos una ley, y según...debe morir
+- Jua_19:8Pilato oyó decir esto, tuvo más miedo
+- Jua_19:10que tengo autoridad para crucificarte
+- Jua_19:10y que tengo autoridad para soltarte?
+- Jua_19:11ninguna autoridad tendrías contra mí
+- Jua_19:11me ha entregado, mayor pecado tieneG2192
+- Jua_19:15respondieron...No tenemos mas rey que
+- Jua_19:28la Escritura se cumpliese: Tengo sed
+- Jua_20:31creyendo, tengáis vida en su nombreG2192
+- Jua_21:5dijo: Hijitos, ¿tenéis algo de comer?[[G2192]]
+- Hec_1:17era...y tenía parte en este ministerio
+- Hec_1:23José...que tenía por sobrenombre justo
+- Hec_2:44todos...tenían en común todas las cosasG2192
+- Hec_2:47y teniendo favor con todo el puebloG2192
+- Hec_3:6no tengo plata ni oro...lo que t te doyG5225
+- Hec_3:11Y teniendo asidos a Pedro y a Juan el cojo
+- Hec_4:22el hombre...tenía más de cuarenta años
+- Hec_4:32sino que tenían todas las cosas en comúnG1510
+- Hec_4:37tenía una heredad, la vendió y trajo el
+- Hec_5:41tenidos por dignos de padecer afrenta
+- Hec_7:5le prometió...cuando él aún no tenía hijoG5607
+- Hec_7:44tuvieron nuestros padres el tabernáculoG1510
+- Hec_8:7de muchos que tenían espíritus inmundos
+- Hec_8:21no tienes tú parte ni...en este asuntoG2076
+- Hec_9:14aquí tiene autoridad de los principalesG2192
+- Hec_9:26todos le tenían miedo, no creyendo que
+- Hec_9:31las iglesias tenían paz por toda JudeaG2192
+- Hec_10:5, Hec_10:32el que tiene por sobrenombre Pedro
+- Hec_10:6que tiene su casa junto al mar; él te
+- Hec_10:10tuvo gran hambre, y quiso comer; pero
+- Hec_10:18Simón que tenía por sobrenombre Pedro
+- Hec_10:22que tiene buen testimonio en toda la
+- Hec_11:13a Simón, el que tiene por sobrenombre
+- Hec_11:29cada uno conforme a lo que tenía...enviarG2141
+- Hec_12:12, Hec_12:25el que tenía por sobrenombre Marcos
+- Hec_13:5tenían también a Juan de ayudanteG2192
+- Hec_13:15hermanos, si tenéis alguna palabra deG2076
+- Hec_14:9y viendo que tenía fe para ser sanadoG2192
+- Hec_15:2Pablo y Bernabé tuviesen una discusión
+- Hec_15:21Moisés...tiene en cada ciudad quien loG2192
+- Hec_15:22Judas...tenía por sobrenombre Barsabás
+- Hec_15:37a Juan, el que tenía por sobrenombre
+- Hec_16:16que tenía espíritu de adivinación, la
+- Hec_16:38tuvieron miedo al oír que eran romanos
+- Hec_17:5los judíos que no creían, teniendo celos
+- Hec_18:10yo tengo mucho pueblo en esta ciudadG2076
+- Hec_18:18rapado la cabeza en...tenía hecho votoG2192
+- Hec_19:13sobre los que tenían espíritus malosG2192
+- Hec_19:17notorio...y tuvieron temor todos ellos
+- Hec_19:38Demetrio...tienen pleito contra algunoG2192
+- Hec_20:32que tiene poder para sobreedificaros y
+- Hec_21:9éste tenía cuatro hijas doncellas queG1510
+- Hec_21:23que tienen obligación de cumplir votoG2192
+- Hec_22:12que tenía buen testimonio de todos los
+- Hec_22:29también tuvo temor por haberle atado
+- Hec_23:10el tribuno, teniendo temor de que Pablo
+- Hec_23:11ten ánimo...como has testificado de mí
+- Hec_23:17porque tiene cierto aviso que darleG2192
+- Hec_23:18este joven, que tiene algo que hablarteG2192
+- Hec_23:19le...¿Qué es lo que tienes que decirme?[[G2192]]
+- Hec_23:29ningún delito tenía digno de muerte oG2192
+- Hec_23:30traten delante de ti lo que tengan
+- Hec_24:15teniendo esperanza en Dios, la cualG2192
+- Hec_24:16procuro tener...conciencia sin ofensaG2192
+- Hec_24:19y acusarme, si contra mí tienen algoG2192
+- Hec_24:25cuando tenga oportunidad te llamaréG3335
+- Hec_25:16antes que el acusado tenga delante aG2192
+- Hec_25:19que tenían contra él ciertas cuestionesG2192
+- Hec_25:24aquí tenéis a este hombre, respecto del
+- Hec_25:26como no tengo cosa cierta que escribirG2192
+- Hec_25:26que después de...tenga yo qué escribir
+- Hec_26:2me tengo por dichoso, oh rey Agripa, deG2233
+- Hec_27:13que ya tenían lo que deseaban, levaron
+- Hec_27:17y teniendo temor de dar en la Sirte
+- Hec_27:22os exhorto a tener buen ánimo, pues no
+- Hec_27:25tened buen ánimo; porque yo confío en
+- Hec_27:36todos, teniendo ya mejor ánimo, comieron
+- Hec_27:39veían una ensenada que tenía playa, en
+- Hec_28:9otros que...tenían enfermedades, veníanG2192
+- Hec_28:11cual tenía por enseña a Cástor y Pólux
+- Hec_28:19porque tenga de qué acusar a mi naciónG2192
+- Hec_28:29fueron, teniendo gran discusión entreG2192
+- Rom_1:10tenga al fin...próspero viaje para ir
+- Rom_1:13para tener...entre vosotros algún frutoG2192
+- Rom_1:20visibles...de modo que no tienen excusa
+- Rom_1:28ellos no aprobaron tener en cuenta a Dios
+- Rom_2:14los gentiles que no tienen ley, hacenG2192
+- Rom_2:14aunque no tengan ley, son ley para síG2192
+- Rom_2:17tú tienes el sobrenombre de judía y te
+- Rom_2:20tienes en la ley la forma de la cienciaG2192
+- Rom_2:26¿no será tenida su incircuncisión como
+- Rom_3:1¿qué ventaja tiene, pues, el judío? ¿o de
+- Rom_4:2tiene de qué gloriarse, pero no para conG2192
+- Rom_4:11la fe que tuvo estando aún incircunciso
+- Rom_4:12de la fe que tuvo nuestro padre Abraham
+- Rom_5:1tenemos paz para con Dios por medio deG2192
+- Rom_5:2tenemos entrada por la fe a esta graciaG2192
+- Rom_6:21qué fruto teníais de aquellas cosas deG2192
+- Rom_6:22tenéis por...fruto la santificación, yG2192
+- Rom_8:9si alguno no tiene el Espíritu de CristoG2192
+- Rom_8:18tengo por cierto que las aflicciones del
+- Rom_8:23que tenemos las primicias del EspírituG2192
+- Rom_9:2tengo gran tristeza y continuo dolor enG2076
+- Rom_9:9este tiempo vendré, y Sara tendrá un hijoG2071
+- Rom_9:15tendré misericordia del que yo tenga
+- Rom_9:16no...sino de Dios que tiene misericordia
+- Rom_9:18de quien quiere, tiene misericordia, y-0
+- Rom_9:21no tiene potestad el alfarero sobre elG2192
+- Rom_10:2les doy testimonio de que tienen celo deG2192
+- Rom_11:32sujetó a todos...para tener misericordia
+- Rom_12:3cada cual...que no tenga más alto concepto
+- Rom_12:3concepto de sí que el que debe tener
+- Rom_12:4en un cuerpo tenemos muchos miembrosG2192
+- Rom_12:4no todos los miembros tienen la mismaG2192
+- Rom_12:6que teniendo diferentes dones, según laG2192
+- Rom_12:20si tu enemigo tuviere hambre, dale de
+- Rom_12:20tu enemigo...tuviere sed, dale de beber
+- Rom_13:3haz lo bueno, y tendrás alabanza de ellaG2192
+- Rom_14:22¿tienes tú fe? Tenla...delante de DiosG2192
+- Rom_15:4por la paciencia y...tengamos esperanzaG2192
+- Rom_15:17tengo, pues, de qué gloriarme en CristoG2192
+- Rom_15:23ahora, no teniendo más campo en estasG2192
+- Rom_15:26tuvieron a bien hacer una ofrenda para
+- 1Co_2:16nosotros tenemos la mente de CristoG2192
+- 1Co_4:1téngannos los hombres por servidores deG3049
+- 1Co_4:3yo en muy poco tengo el ser juzgado por
+- 1Co_4:4aunque de nada tengo mala conciencia, no
+- 1Co_4:7qué tienes que no hayas recibido? Y siG2192
+- 1Co_4:11hambre, tenemos sed...y no t morada fija
+- 1Co_4:15aunque tengáis diez mil ayos en CristoG2192
+- 1Co_4:15no tendréis muchos padres...os engendré
+- 1Co_5:1que alguno tiene la mujer de su padreG2192
+- 1Co_5:12¿qué razón tendría yo para juzgar a los
+- 1Co_6:1vosotros, cuando tiene algo contra otroG2192
+- 1Co_6:4tenéis juicios sobre cosas de esta vidaG2192
+- 1Co_6:7es ya una falta en...que tengáis pleitos
+- 1Co_6:19el cual tenéis de Dios, y que no soisG2192
+- 1Co_7:2uno tenga su propia mujer...t su...maridoG2192
+- 1Co_7:4mujer no tiene potestad sobre su propio
+- 1Co_7:4tampoco tiene el marido potestad sobre
+- 1Co_7:7pero cada uno tiene su propio don de DiosG2192
+- 1Co_7:9si no tienen don de continencia, cásense
+- 1Co_7:12hermano tiene mujer que no sea creyenteG2192
+- 1Co_7:13mujer tiene marido que no sea creyenteG2192
+- 1Co_7:25a las vírgenes no tengo mandamiento delG2192
+- 1Co_7:26tengo, pues, esto por bueno a causa de
+- 1Co_7:28tales tendrán aflicción de la carne, yG2192
+- 1Co_7:29tienen esposa...como si no la tuviesenG2192
+- 1Co_7:32, 1Co_7:34tiene cuidado de las cosas del SeñorG3309
+- 1Co_7:33-34tiene cuidado de las cosas del mundoG3309
+- 1Co_7:37el que está firme...sin tener necesidadG2192
+- 1Co_7:40que también yo tengo el Espíritu de DiosG2192
+- 1Co_8:1sabemos que todos tenemos conocimiento
+- 1Co_8:10a ti, que tienes conocimiento, sentadoG2192
+- 1Co_9:4no tenemos derecho de comer y beber?[[G2192]]
+- 1Co_9:5¿no tenemos derecho de traer..por mujerG2192
+- 1Co_9:6¿o sólo yo y Bernabé no tenemos derechoG2192
+- 1Co_9:9la ley...¿Tiene Dios cuidado de los bueyes
+- 1Co_9:16no tengo por qué gloriarme; porque me esG2076
+- 1Co_9:17si lo hago de...recompensa tendré; peroG2192
+- 1Co_11:10la mujer debe tener señal de autoridadG2192
+- 1Co_11:16nosotros no tenemos tal costumbre, niG2192
+- 1Co_11:21y uno tiene hambre, y otro se embriaga
+- 1Co_11:22qué, ¿no tenéis casas en que comáis yG2192
+- 1Co_11:22avergonzáis a los que no tienen nada?[[G2192]]
+- 1Co_11:34alguno tuviere hambre, coma en su casa
+- 1Co_12:12cuerpo es uno, y tiene muchos miembrosG2192
+- 1Co_12:21cabeza a los pies: No tengo necesidadG2192
+- 1Co_12:24son más decorosos, no tienen necesidadG2192
+- 1Co_12:28los que ayudan...tienen don de lenguas
+- 1Co_12:30¿tienen todos dones de sanidad? ¿hablanG2192
+- 1Co_13:1si...y no tengo amor, vengo a ser comoG2192
+- 1Co_13:2si tuviese profecía, y entendiese todosG2192
+- 1Co_13:2si tuviese toda la fe...y no tengo amorG2192
+- 1Co_13:3ser quemado, y no tengo amor, de nadaG2192
+- 1Co_13:4el amor no tiene envidia, el amor no es
+- 1Co_14:26cada uno de...tiene salmo, t doctrinaG2192
+- 1Co_14:26de vosotros...tiene lengua, t revelaciónG2192
+- 1Co_14:26tiene interpretación. Hágase todo paraG2192
+- 1Co_15:31por la gloria que de vosotros tengo enG2192
+- 1Co_16:5iré...pues por Macedonia tengo que pasar
+- 1Co_16:11por tanto, nadie le tenga en poco, sino
+- 1Co_16:12de ninguna manera tuvo voluntad de ir
+- 1Co_16:12ahora; pero irá cuando tenga oportunidad
+- 2Co_1:9tuvimos en nosotros mismos sentenciaG2192
+- 2Co_1:15para que tuvieseis una segunda graciaG2192
+- 2Co_2:3no tenga tristeza de parte de aquellosG2192
+- 2Co_2:4supieseis cuán grande...amor que os tengoG2192
+- 2Co_2:9para tener la prueba de si vosotros soisG1097
+- 2Co_2:13no tuve reposo en mi espíritu, por noG2192
+- 2Co_3:1¿o tenemos necesidad, como algunos, de
+- 2Co_3:4y tal confianza tenemos mediante CristoG2192
+- 2Co_3:11si lo que perece tuvo gloria, mucho más
+- 2Co_3:12que, teniendo tal esperanza, usamos deG2192
+- 2Co_4:1teniendo nosotros este ministerio segúnG2192
+- 2Co_4:7tenemos este tesoro en vasos de barroG2192
+- 2Co_4:13pero teniendo el mismo espíritu de feG2192
+- 2Co_5:1tenemos de Dios un edificio, una casa noG2192
+- 2Co_5:12para que tengáis con qué responder a losG2192
+- 2Co_6:10no teniendo nada, mas poseyéndolo todoG2192
+- 2Co_6:14¿qué compañerismo tiene la justicia con
+- 2Co_7:1que tenemos tales promesas, limpiémonos
+- 2Co_7:4franqueza tengo con vosotros...me glorío
+- 2Co_7:5ningún reposo tuvo nuestro cuerpo, sinoG2192
+- 2Co_7:12nuestra solicitud...tenemos por vosotros
+- 2Co_7:16me gozo de que en todo tengo confianza
+- 2Co_8:11en cumplir conforme a lo que tengáisG2192
+- 2Co_8:12será acepta según lo que uno tiene, noG2192
+- 2Co_8:12será acepta...no según lo que no tieneG2192
+- 2Co_8:15el que recogió mucho, no tuvo más, y el
+- 2Co_8:15que recogió...el que poco, no tuvo menos
+- 2Co_8:22mucha confianza que tiene en vosotros
+- 2Co_9:5por tanto, tuve por necesario exhortar aG2233
+- 2Co_9:8que, teniendo...en todas las cosas todo loG2192
+- 2Co_10:2no tenga que usar de aquella osadía con
+- 2Co_10:2nos tienen como si anduviésemos según la
+- 2Co_10:11esto tenga en cuenta tal persona, que
+- 2Co_11:9y tuve necesidad, a ninguno fui carga
+- 2Co_11:16vez digo: Que nadie me tenga por locoG1380
+- 2Co_11:21que otro tenga osadía...yo tengo osadía
+- 2Co_12:21quizá tenga que llorar por muchos de
+- 2Co_13:11por lo demás, hermanos, tened gozo
+- Gál_2:2en privado a los que tenían...reputación
+- Gál_2:4espiar nuestra libertad que tenemos enG2192
+- Gál_2:6de los que tenían reputación de ser algo
+- Gál_2:12tenía miedo de los de la circuncisión
+- Gál_4:14no...por la prueba que tenía en mi cuerpo
+- Gál_4:17tienen celo por vosotros, pero no para
+- Gál_4:17para que vosotros tengáis celo por ellos
+- Gál_4:22está escrito que Abraham tuvo dos hijosG2192
+- Gál_4:27clama, tú que no tienes dolores de parto
+- Gál_4:27más son los...que de la que tiene maridoG2192
+- Gál_6:4tendrá motivo de gloriarse sólo respectoG2192
+- Gál_6:10tengamos oportunidad, hagamos bien aG2192
+- Efe_1:7quien tenemos redención por su sangreG2192
+- Efe_1:11en él...tuvimos herencia, habiendo sido
+- Efe_2:18tenemos entrada por un mismo EspírituG2192
+- Efe_3:12en quien tenemos seguridad y acceso conG2192
+- Efe_4:18teniendo el entendimiento entenebrecido
+- Efe_4:28para que tenga qué compartir con el queG2192
+- Efe_5:5ningún fornicario...tiene herencia en elG2192
+- Efe_5:27que no tuviese mancha ni arruga ni cosaG2192
+- Efe_6:12no tenemos lucha contra sangre y carne
+- Flp_1:7por cuanto os tengo en el corazónG2192
+- Flp_1:23teniendo deseo de partir y estar conG2192
+- Flp_1:30teniendo el mismo conflicto que...vistoG2192
+- Flp_2:2gozo...teniendo el mismo amor, unánimesG2192
+- Flp_2:20a ninguno tengo del mismo ánimo, y queG2192
+- Flp_2:25tuve por necesario enviaros a...hermano
+- Flp_2:26porque él tenía gran deseo de veros a
+- Flp_2:27pero Dios tuvo misericordia de él, y noG2192
+- Flp_2:27para que yo no tuviese tristeza sobre
+- Flp_2:29tened en estima a los que son como él
+- Flp_3:3nos gloriamos...no teniendo confianza en
+- Flp_3:4aunque yo tengo también de qué confiar enG2192
+- Flp_3:4si alguno piensa que tiene de qué confiar
+- Flp_3:8lo tengo por basura, para ganar a Cristo
+- Flp_3:9no teniendo mi propia justicia, que esG2192
+- Flp_3:17según el ejemplo que tenéis en nosotrosG2192
+- Flp_4:11no lo digo porque tenga escasez, pues
+- Flp_4:12humildemente, y sé tener abundancia; en
+- Flp_4:12tener hambre, así para t abundancia
+- Flp_4:18todo lo he recibido, y tengo abundanciaG568
+- Col_1:4oído...amor que tenéis a...los santos
+- Col_1:14quien tenemos redención por su sangreG2192
+- Col_1:18para que en todo tenga la preeminencia
+- Col_2:23tales cosas tienen...cierta reputación
+- Col_2:23no tienen valor...contra los apetitos de
+- Col_3:13perdonándoos...si alguno tuviere quejaG2192
+- Col_4:1sabiendo que...tenéis un Amo en los cielosG2192
+- Col_4:13que tiene gran solicitud por vosotrosG2192
+- 1Ts_1:8no tenemos necesidad de hablar nada
+- 1Ts_2:2padecido...tuvimos denuedo en nuestro Dios
+- 1Ts_4:4cada uno de...sepa tener su propia esposaG2932
+- 1Ts_4:9no tenéis necesidad de que os escriba
+- 1Ts_4:11y que procuréis tener tranquilidad, y
+- 1Ts_4:12afuera, y no tengáis necesidad de nadaG2192
+- 1Ts_4:13os entristezcáis...no tienen esperanza
+- 1Ts_5:1no tenéis necesidad...que yo os escribaG2192
+- 1Ts_5:13lo tengáis en mucha estima y amor por
+- 1Ts_5:13de su obra. Tened paz entre vosotros
+- 2Ts_1:5seáis tenidos por dignos del reino
+- 2Ts_1:11nuestro Dios os tenga por dignos de su
+- 2Ts_3:4y tenemos confianza respecto a vosotros
+- 2Ts_3:9no porque no tuviésemos derecho, sino porG2192
+- 2Ts_3:15no lo tengáis por enemigo...amonestadlo
+- 1Ti_1:12me tuvo por fiel, poniéndome en elG2233
+- 1Ti_3:4tenga a sus hijos en sujeción con toda
+- 1Ti_3:7tenga buen testimonio de los de afueraG2192
+- 1Ti_3:14aunque tengo la esperanza de ir...verte
+- 1Ti_4:2que, teniendo cauterizada la conciencia
+- 1Ti_4:8tiene promesa de esta vida presente, y
+- 1Ti_4:12ninguno tenga en poco tu juventud, sino
+- 1Ti_4:16ten cuidado de ti...y de la doctrina
+- 1Ti_5:4pero si alguna viuda tiene hijos, o nietosG2192
+- 1Ti_5:10tenga testimonio de buenas obras: si ha
+- 1Ti_5:16tiene viudas, que las mantenga, y no seaG2192
+- 1Ti_5:17sean tenidos por dignos de doble honor
+- 1Ti_6:1tengan a sus amos por dignos de...honorG2233
+- 1Ti_6:2y los que tienen amos creyentes, no losG2192
+- 1Ti_6:2no los tengan en menos por ser hermanos
+- 1Ti_6:8que, teniendo sustento y abrigo, estemosG2192
+- 1Ti_6:16el único que tiene inmortalidad, que
+- 2Ti_1:16tenga el Señor misericordia de la casaG1325
+- 2Ti_2:15obrero que no tiene de qué avergonzarse
+- 2Ti_2:19teniendo este sello: Conoce el Señor aG2192
+- 2Ti_3:5que tendrán apariencia de piedad, peroG2192
+- 2Ti_4:3sino que teniendo comezón de oír, se
+- Tit_1:6y tenga hijos creyentes que no esténG2192
+- Tit_2:8no tenga nada malo que decir de vosotrosG2192
+- Flm_1:5oigo del amor y...tienes hacia el Señor
+- Flm_1:7porque tenemos gran gozo y consolación enG2192
+- Flm_1:8tengo...libertad en Cristo para mandarte lo
+- Flm_1:17si me tienes por compañero, recíbele comoG2192
+- Flm_1:20tenga yo algún provecho de ti en el Señor
+- Heb_2:14destruir...al que tenía el imperio deG2192
+- Heb_3:3tiene mayor honra que la casa el que laG2192
+- Heb_4:13ojos de aquel a quien tenemos que dar
+- Heb_4:14tanto, teniendo un gran sumo sacerdoteG2192
+- Heb_4:15porque no tenemos un sumo sacerdote queG2192
+- Heb_5:11acerca de esto tenemos mucho que decir
+- Heb_5:12tenéis necesidad de que se os vuelva aG2192
+- Heb_5:12que tenéis necesidad de leche, y no deG2192
+- Heb_5:14los que por el uso tienen los sentidosG2192
+- Heb_6:18tengamos un fortísimo consuelo los queG2192
+- Heb_6:19la cual tenemos como segura...ancla delG2192
+- Heb_7:3que ni tiene principio de días, ni fin deG2192
+- Heb_7:5tienen mandamiento de tomar del puebloG2192
+- Heb_7:6tomó...y bendijo al que tenía las promesasG2192
+- Heb_7:24mas éste...tiene un sacerdocio inmutableG2192
+- Heb_7:27que no tiene necesidad cada día, como
+- Heb_8:1que tenemos tal sumo sacerdote, el cual
+- Heb_8:3es necesario que...tenga algo que ofrecerG2192
+- Heb_9:1el primer pacto tenía ordenanzas de cultoG2192
+- Heb_9:4el cual tenía un incensario de oro y elG2192
+- Heb_10:1la ley, teniendo la sombra de los bienesG2192
+- Heb_10:2no tendrían ya más conciencia de pecadoG2192
+- Heb_10:19así que...teniendo libertad para entrarG2192
+- Heb_10:21y teniendo un gran sacerdote sobre la
+- Heb_10:25congregarnos, como algunos tienen por
+- Heb_10:29y tuviere por inmunda la sangre delG2192
+- Heb_10:34que tenéis en...herencia en los cielosG2192
+- Heb_10:35confianza, que tiene grande galardónG2192
+- Heb_10:39tienen fe para preservación del alma
+- Heb_11:5tuvo testimonio...haber agradado a Dios
+- Heb_11:10la ciudad que tiene fundamentos, cuyoG2192
+- Heb_11:15ciertamente tenían tiempo de volverG2192
+- Heb_11:26teniendo por...riquezas el vituperio deG2233
+- Heb_11:26tenía puesta la mirada en el galardón
+- Heb_12:1teniendo...tan grande nube de testigos
+- Heb_12:1y corramos...la carrera que tenemos por
+- Heb_12:9tuvimos a nuestros padres terrenales queG2192
+- Heb_12:28así...tengamos gratitud, y mediante ella
+- Heb_13:5avaricia, contentos con lo que tenéis
+- Heb_13:10tenemos un altar, del cual no tienen
+- Heb_13:14porque no tenemos...ciudad permanenteG2192
+- Heb_13:18confiamos en que tenemos...conciencia
+- Stg_1:2tened por sumo gozo cuando os halléisG2233
+- Stg_1:4mas tenga la paciencia su obra completaG2192
+- Stg_1:5y si alguno de...tiene falta de sabiduría
+- Stg_2:14alguno dice que tiene fe, y no t obras?[[G2192]]
+- Stg_2:15y tienen necesidad del mantenimiento de
+- Stg_2:17la fe, si no tiene obras, es muerta enG2192
+- Stg_2:18dirá: Tú tienes fe, y yo tengo obrasG2192
+- Stg_3:14si tenéis celos amargos y contención enG2192
+- Stg_4:2codiciáis, y no tenéis; matáis y ardéisG2192
+- Stg_4:2lucháis, pero no tenéis lo que deseáisG2192
+- Stg_5:7tened paciencia hasta...venida del Señor
+- Stg_5:8tened...paciencia, y afirmad...corazones
+- Stg_5:11tenemos por bienaventurados a los queG3106
+- 1Pe_1:6tengáis que ser afligidos en...pruebas
+- 1Pe_1:14los deseos que antes teníais estando en
+- 1Pe_2:16tienen la libertad como pretexto para
+- 1Pe_3:7que vuestras oraciones no tengan estorbo
+- 1Pe_3:16teniendo buena conciencia, para que enG2192
+- 1Pe_4:8todo, tened entre vosotros ferviente amorG2192
+- 1Pe_5:3no como teniendo señorío sobre los que
+- 1Pe_5:7él, porque él tiene cuidado de vosotros
+- 1Pe_5:12de Silvano, a quien tengo por hermano
+- 2Pe_1:9no tiene estas cosas t la vista muy
+- 2Pe_1:13tengo por justo, en tanto...despertarosG2233
+- 2Pe_1:15podáis en...tener memoria de estas cosas
+- 2Pe_1:17mi Hijo...en el cual tengo complacencia
+- 2Pe_1:19tenemos también la palabra proféticaG2192
+- 2Pe_2:13tienen por delicia el gozar de deleites
+- 2Pe_2:14tienen los ojos llenos de adulterio, noG2192
+- 2Pe_2:14tienen el corazón habituado a...codicia
+- 2Pe_3:2que tengáis memoria de las palabras queG2233
+- 2Pe_3:9no...según algunos la tienen por tardanzaG2233
+- 2Pe_3:15y tened entendido que la paciencia deG2233
+- 1Jn_1:3que...tengáis comunión con nosotrosG2192
+- 1Jn_1:6si decimos que tenemos comunión con élG2192
+- 1Jn_1:7pero si...tenemos comunión unos con otrosG2192
+- 1Jn_1:8si decimos que no tenemos pecado, nosG2192
+- 1Jn_2:1y si...abogado tenemos para con el PadreG2192
+- 1Jn_2:7sino el mandamiento...que habéis tenidoG2192
+- 1Jn_2:20vosotros tenéis la unción del Santo, yG2192
+- 1Jn_2:23niega al Hijo, tampoco tiene al PadreG2192
+- 1Jn_2:23que confiesa al Hijo, tiene...al PadreG2192
+- 1Jn_2:27no tenéis necesidad de...nadie os enseñe
+- 1Jn_2:28se manifieste, tengamos confianza, paraG2192
+- 1Jn_3:3todo aquel que tiene esta esperanza en élG2192
+- 1Jn_3:15que ningún homicida tiene vida eternaG2192
+- 1Jn_3:17el que tiene bienes de este mundo y veG2192
+- 1Jn_3:17a su hermano tener necesidad, y cierra
+- 1Jn_3:21no nos reprende, confianza tenemos enG2192
+- 1Jn_4:16creído el amor que Dios tiene para conG2192
+- 1Jn_4:17para que tengamos confianza en el díaG2192
+- 1Jn_4:21tenemos este mandamiento de él: El queG2192
+- 1Jn_5:10el que cree...tiene el testimonio en síG2192
+- 1Jn_5:12el que tiene al Hijo, t la vida; el queG2192
+- 1Jn_5:12el que no tiene al Hijo...no t la vidaG2192
+- 1Jn_5:13para que sepáis que tenéis vida eternaG2192
+- 1Jn_5:14esta es la confianza que tenemos en élG2192
+- 1Jn_5:15sabemos que tenemos las peticiones queG2192
+- 2Jn_1:5el que hemos tenido desde el principioG2192
+- 2Jn_1:9no persevera en la...no tiene a Dios; el queG2192
+- 2Jn_1:9que persevera...sí tiene al Padre y al HijoG2192
+- 2Jn_1:12tengo muchas cosas que escribiros, peroG2192
+- 3Jn_1:2y que tengas salud, así como prospera
+- 3Jn_1:4no tengo yo mayor gozo que este, el oír queG2192
+- 3Jn_1:9le gusta tener el primer lugar entre ellos
+- 3Jn_1:13yo tenía muchas cosas que escribirte, peroG2192
+- Jud_1:3gran solicitud que tenía de escribiros
+- Jud_1:17tened memoria de las palabras que antes
+- Jud_1:19los sensuales, que no tienen al EspírituG2192
+- Jud_1:23y de otros tened misericordia con temor
+- Rev_1:16tenía en su diestra siete estrellasG2192
+- Rev_1:18y tengo las llaves de la muerte y...HadesG2192
+- Rev_2:1el que tiene las siete estrellas en suG2902
+- Rev_2:3y has tenido paciencia, y has trabajadoG2192
+- Rev_2:4pero tengo contra ti, que has dejado tuG2192
+- Rev_2:6tienes esto, que aborreces las obras deG2192
+- Rev_2:7, Rev_2:11, Rev_2:17, Rev_2:29el que tiene oído, oiga lo queG2192
+- Rev_2:10tendréis tribulación por diez días. SéG2192
+- Rev_2:12el que tiene la espada aguda...dice estoG2192
+- Rev_2:14, Rev_2:20pero tengo unas pocas cosas contra tiG2192
+- Rev_2:14-15tienes...los que retienen la doctrinaG2192
+- Rev_2:18el que tiene ojos como llama de fuegoG2192
+- Rev_2:24a cuantos no tienen esa doctrina, y no
+- Rev_2:25pero lo que tenéis, retenedlo hasta queG2192
+- Rev_3:1el que tiene los siete espíritus de DiosG2192
+- Rev_3:1que tienes nombre de que vives, y estásG2192
+- Rev_3:4tienes unas pocas personas en Sardis queG2192
+- Rev_3:6, Rev_3:13, Rev_3:22el que tiene oído, oiga lo que elG2192
+- Rev_3:7esto dice...el que tiene la llave de DavidG2192
+- Rev_3:8aunque tienes poca fuerza, has guardadoG2192
+- Rev_3:11retén lo que tienes, para que ningunoG2192
+- Rev_3:17y de ninguna cosa tengo necesidad; y noG2192
+- Rev_4:7el tercero tenía rostro como de hombreG2192
+- Rev_4:8seres vivientes tenían cada uno seis alasG2192
+- Rev_5:6un Cordero como...que tenía siete cuernosG2192
+- Rev_5:8tenían arpas, y copas de oro llenas deG2192
+- Rev_6:2y el que lo montaba tenía un arco; y leG2192
+- Rev_6:5el que lo montaba tenía una balanza enG2192
+- Rev_6:8que lo montaba tenía por nombre MuerteG2192
+- Rev_6:9muertos...y por el testimonio que tenían
+- Rev_7:2y tenía el sello del Dios vivo; y clamóG2192
+- Rev_7:16ya no tendrán hambre ni sed, y el sol no
+- Rev_8:6siete ángeles que tenían las siete trompetasG2192
+- Rev_9:3como tienen poder los escorpiones de laG2192
+- Rev_9:4los hombres que no tuviesen el sello deG2192
+- Rev_9:7en las cabezas tenían como coronas de oro
+- Rev_9:8tenían cabello como cabello de mujer; sus
+- Rev_9:9tenían corazas como corazas de hierro; elG2192
+- Rev_9:10tenían colas como...en sus colas t poderG2192
+- Rev_9:11y tienen por rey...al ángel del abismoG2192
+- Rev_9:14al sexto ángel que tenía la trompetaG2192
+- Rev_9:17los cuales tenían corazas de fuego, deG2192
+- Rev_9:19sus colas...tenían cabezas, y con ellas
+- Rev_10:2tenía en su mano un librito abierto; yG2192
+- Rev_11:6éstos tienen poder para cerrar el cieloG2192
+- Rev_11:6y tienen poder sobre las aguas paraG2192
+- Rev_12:3gran dragón...que tenía siete cabezas yG2192
+- Rev_12:6tiene lugar preparado por Dios, para queG2192
+- Rev_12:12ira, sabiendo que tiene poco tiempoG2192
+- Rev_12:17y tienen el testimonio de JesucristoG2192
+- Rev_13:1vi...una bestia que tenía siete cabezasG2192
+- Rev_13:9si alguno tiene oído, oigaG2192
+- Rev_13:11tenía dos cuernos semejantes a los deG2192
+- Rev_13:14a la bestia que tiene la herida de espadaG2192
+- Rev_13:17el que tuviese la marca o el nombre deG2192
+- Rev_13:18el que tiene entendimiento, cuente elG2192
+- Rev_14:1que tenían el nombre de él y el de suG2192
+- Rev_14:6vi...otro ángel, que tenía el evangelioG2192
+- Rev_14:11y no tienen reposo de día ni de nocheG2192
+- Rev_14:14tenía en la cabeza una corona de oroG2192
+- Rev_14:17ángel...teniendo también una hoz aguda
+- Rev_14:18ángel, que tenía poder sobre el fuegoG2192
+- Rev_14:18y llamó a...al que tenía la hoz agudaG2192
+- Rev_15:1, Rev_15:6ángeles que tenían las siete plagasG2192
+- Rev_16:2sobre los hombres que tenían la marcaG2192
+- Rev_16:9que tiene poder sobre estas plagas, y
+- Rev_17:1uno de los...que tenían las siete copasG2192
+- Rev_17:3que tenía siete cabezas y diez cuernosG2192
+- Rev_17:4tenía en la mano un cáliz de oro llenoG2192
+- Rev_17:7la cual tiene las siete cabezas y losG2192
+- Rev_17:9esto, para la mente que tenga sabiduríaG2192
+- Rev_17:13tienen...mismo propósito, y entregaránG2192
+- Rev_18:19todos los que tenían naves en el marG2192
+- Rev_19:12y tenía un nombre escrito que ningunoG2192
+- Rev_19:16muslo tiene escrito este nombre: ReyG2192
+- Rev_20:6bienaventurado...el que tiene parte en laG2192
+- Rev_20:6segunda muerte no tiene potestad sobreG2192
+- Rev_21:6que tuviere sed...daré gratuitamente de
+- Rev_21:8tendrán su parte en el lago que arde con
+- Rev_21:9que tenían las siete copas llenas de lasG2192
+- Rev_21:11teniendo la gloria de Dios. Y su fulgorG2192
+- Rev_21:12tenía un muro grande...con doce puertasG2192
+- Rev_21:14muro de la ciudad tenía doce cimientosG2192
+- Rev_21:15el que hablaba conmigo tenía una cañaG2192
+- Rev_21:23la ciudad no tiene necesidad de sol niG2192
+- Rev_22:5no tienen necesidad de luz de lámpara
+- Rev_22:14para tener derecho al árbol de la vidaG2071
+- Rev_22:17que tiene sed, venga: y el que quiera

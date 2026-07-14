@@ -1,0 +1,131 @@
+---
+tipo: concordancia
+palabra: CORRER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CORRER
+
+- Gén_18:2salió corriendo de la puerta de suH7323
+- Gén_18:7corrió Abraham a las vacas, y tomó unH7323
+- Gén_24:17el criado corrió hacia ella, y dijoH7323
+- Gén_24:20y corrió otra vez al pozo para sacarH7323
+- Gén_24:28doncella corrió, e hizo saber en casaH7323
+- Gén_24:29Labán...corrió afuera hacia el hombreH7323
+- Gén_29:12y ella corrió, y dio las nuevas a suH7323
+- Gén_29:13Labán...corrió a recibirlo, y lo abrazóH7323
+- Gén_33:4Esaú corrió a su encuentro y le abrazóH7323
+- Núm_11:27corrió un joven y dio aviso a MoisésH7323
+- Núm_16:47corrió en medio de la congregaciónH7323
+- Jos_4:18corriendo...sobre todos sus bordesH1980
+- Jos_7:22envió mensajeros...corriendo a la tiendaH7323
+- Jos_8:19corrieron luego que él alzó su manoH7323
+- Jue_7:21ejército echó a correr dando gritosH7323
+- Jue_13:10mujer corrió...a avisarle a su maridoH7323
+- 1Sa_3:5y corriendo luego a Elí, dijo: HemeH7323
+- 1Sa_4:12y corriendo de la batalla un hombre deH7323
+- 1Sa_8:11para que corran delante de su carroH7323
+- 1Sa_14:26y he aquí que la miel corría; pero noH1982
+- 1Sa_17:22y corrió al ejército, y cuando llegóH7323
+- 1Sa_17:48David...corrió a la línea de batallaH7323
+- 1Sa_17:51entonces corrió David y se puso sobreH7323
+- 1Sa_20:6rogó...que lo dejase ir corriendo a BelénH7323
+- 1Sa_20:36al muchacho: Corre y busca las saetasH7323
+- 1Sa_20:36y cuando el muchacho iba corriendo, élH7323
+- 1Sa_20:38gritar...corre, date prisa, no te paresH2363
+- 1Sa_21:13dejaba correr la saliva por su barbaH3381
+- 2Sa_15:1se hizo de 50 hombres que corriesenH7323
+- 2Sa_18:19¿correré...y daré al rey las nuevas deH7323
+- 2Sa_18:21y el etíope hizo reverencia...y corrióH7323
+- 2Sa_18:22yo correré...¿para qué has de correrH7323
+- 2Sa_18:23respondió: Sea como fuere, yo correréH7323
+- 2Sa_18:23le dijo: Corre...Corrió, pues, AhimaasH7323
+- 2Sa_18:24y...miró, y vio a uno que corría soloH7323
+- 2Sa_18:26vio el atalaya a otro que corría; y dioH7323
+- 2Sa_18:26he aquí otro hombre que corre soloH7323
+- 2Sa_18:27parece el correr del primero como el cH4794
+- 1Re_1:5y de 50 hombres que corriesen delanteH7323
+- 1Re_18:35el agua corría alrededor del altar, yH1980
+- 1Re_18:46Elías...corrió delante de Acab hastaH7323
+- 1Re_19:20vino corriendo en pos de Elias, y dijoH7323
+- 1Re_22:35la sangre corría...por el fondo del carroH3332
+- 2Re_4:22que yo vaya corriendo al varón de DiosH7323
+- 2Re_4:26que vayas ahora corriendo a recibirlaH7323
+- 2Re_5:20correré yo...y tomaré de él alguna cosaH7323
+- 2Re_5:21vio Naamán que venía corriendo tras élH7323
+- 2Re_23:12corrió y arrojó el polvo al arroyo delH7323
+- 2Cr_23:12Atalía oyó...de la gente que corríaH7323
+- 2Cr_32:4cegaron...el arroyo que corría a travésH7857
+- Job_3:24mi pan...mis gemidos corren como aguasH5414
+- Job_15:26corrió contra él con cuello erguidoH7323
+- Job_16:14me...corrió contra mí como un giganteH7323
+- Sal_19:5se alegra cual gigante para correr elH7323
+- Sal_50:18si veías al ladrón, tú corrías con élH7521
+- Sal_58:7sean disipados como aguas que correnH1980
+- Sal_59:4sin delito mío corren y se apercibenH7323
+- Sal_105:41corrieron por los sequedales como unH1980
+- Sal_119:32el camino de tus mandamientos correréH7323
+- Sal_147:15él envía...velozmente corre su palabraH7323
+- Pro_1:16porque sus pies corren hacia el malH7323
+- Pro_4:12tus pasos, y si corrieras, no tropezarásH7323
+- Pro_6:18los pies presurosos para correr al malH7323
+- Ecl_1:7ríos...allí vuelven para correr de nuevoH1980
+- Cnt_1:4atráeme; en pos de ti correremosH7323
+- Cnt_4:15pozo de aguas vivas...corren del LíbanoH4480
+- Cnt_5:5gotearon mirra...que corría...la manecillaH5197
+- Isa_2:2y correrán a él todas las nacionesH5102
+- Isa_8:6las aguas de Siloé, que corren mansamenteH1980
+- Isa_33:4correrán...como...corren las langostasH4944
+- Isa_40:31correrán, y no se cansarán; caminaránH7323
+- Isa_48:21abrió la peña, y corrieron las aguasH2100
+- Isa_55:5correrán a tí, por causa de Jehová tuH7323
+- Isa_59:7sus pies corren al mal, se apresuranH7323
+- Jer_12:5corriste con los de a pie, y te cansaronH7323
+- Jer_18:14las aguas frías que corren de lejanasH5140
+- Jer_23:21no envié...profetas, pero ellos corríanH7323
+- Jer_31:12y correrán al bien de Jehová, al panH5102
+- Eze_1:14los seres vivientes corrían y volvíanH7519
+- Eze_24:16no...ni llores, ni corran tus lágrimasH935
+- Eze_31:4sus ríos corrían alrededor de su pie, yH1980
+- Eze_32:14haré correr sus ríos como aceite, diceH1980
+- Dan_8:6y corrió contra él con la furia de suH7323
+- Dan_12:4muchos correrán de aquí para allá, y laH7751
+- Joe_2:4y como gente de a caballo correránH7323
+- Joe_2:7como valientes correrán como hombres deH7323
+- Joe_2:9correrán por el muro, subirán por lasH7323
+- Joe_3:18por todos los arroyos...correrán aguasH1980
+- Amó_5:24pero corra el juicio como las aguasH1556
+- Amó_6:12¿correrán los caballos por las peñas?[[H7323]]
+- Miq_1:4las aguas que corren por un precipicioH5064
+- Miq_4:1el monte de...correrán a él los pueblosH5102
+- Nah_2:4los carros...correrán como relámpagosH7323
+- Hab_2:2para que corra el que leyera en ellaH7323
+- Hag_1:9y cada uno de...corre a su propia casaH7323
+- Zac_2:4y le dijo: Corre habla a este jovenH7323
+- Mat_27:48corriendo uno de ellos, tomó...esponjaG5143
+- Mat_28:8fueron corriendo a dar las nuevas a suG5143
+- Mar_5:6vio...a Jesús...corrió, y se arrodillóG5143
+- Mar_9:15la gente...corriendo a él, le saludaronG4370
+- Mar_10:17vino uno corriendo, e hincando la rodillaG4370
+- Mar_15:36corrió uno, y empapando una esponja enG5143
+- Luc_15:20corrió, y se echó sobre su cuello, yG5143
+- Luc_19:4y corriendo delante, subió a un árbolG4390
+- Jua_7:38de su interior correrán ríos de aguaG4482
+- Jua_20:2corrió, y fue a Simón Pedro y al otroG5143
+- Jua_20:4corrían los dos...corrió más aprisa queG5143
+- Hec_12:14corriendo adentro, dio la nueva deG1532
+- Hec_21:32tomando luego soldados...corrió a ellosG2701
+- Hec_27:16habiendo corrido a sotavento de unaG5295
+- Rom_9:16que no depende del que...corre, sinoG5143
+- 1Co_9:24¿no sabéis que los que corren en elG5143
+- 1Co_9:24todos a la verdad corren, pero uno soloG5143
+- 1Co_9:24corred de tal manera que lo obtengáisG5143
+- 1Co_9:26yo de esta manera corro, no como a laG5143
+- Gál_2:2para no correr o haber corrido en vanoG5143
+- Gál_5:7corríais bien; ¿quién os estorbó para noG5143
+- Flp_2:16pueda gloriarme de que no he corridoG5143
+- 2Ts_3:1la palabra...corra y sea glorificadaG5143
+- Heb_12:1corramos con paciencia la carrera queG5143
+- 1Pe_4:4cosa extraña que...no corráis con ellosG4936
+- Rev_9:9estruendo de muchos carros...corriendoG5143

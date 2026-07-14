@@ -1,0 +1,80 @@
+---
+tipo: concordancia
+palabra: RESTAURAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RESTAURAR
+
+- Rut_4:5restaures el nombre del muerto sobreH6965
+- Rut_4:10por mi mujer a Rut..restaurar el nombreH6965
+- 1Re_9:17restauró pues, Salomón a Gezer y aH1129
+- 1Re_13:6mano me sea restaurada...se le restauróH7725
+- 2Re_5:10lávate...y tu carne se te restauraráH7725
+- 2Re_14:25restauró los límites de Israel desde laH7725
+- 2Cr_24:4decidió restaurar la casa de JehováH2318
+- 2Cr_24:13y por sus manos la obra fue restaurado
+- 2Cr_33:13Dios oyó su...y lo restauró a JerusalénH7725
+- 2Cr_34:10obra...para reparar y restaurar el temploH918
+- Esd_9:9para...restaurar sus ruinas, y darnosH5975
+- Neh_3:4junto a ellos restauró Meremot hijo deH2388
+- Neh_3:4al lado de ellos restauró; Mesulam hijo deH2388
+- Neh_3:4junto a...restauró Sadoc hijo de BaanaH2388
+- Neh_3:5e inmediato a...restauraron los tecoítasH2388
+- Neh_3:6la puerta Vieja fue restaurada por JoiadaH2388
+- Neh_3:7junto a ellos restauró Melatías gabaonitaH2388
+- Neh_3:8restauró Uziel hijo de Harhaía, de losH2388
+- Neh_3:8cual restauró también Hananías, hijo deH2388
+- Neh_3:9junto a ellos restauró también RefaíasH2388
+- Neh_3:10restauró junto a ellos...Jedaías hijo deH2388
+- Neh_3:10junto...restauró Hatús hijo de HasabníasH2388
+- Neh_3:11restauraron otro tramo, y la torre de losH2388
+- Neh_3:12junto a...restauró Salum hijo de HalohesH2388
+- Neh_3:13puerta del Valle la restauró Hanún conH2388
+- Neh_3:15Salum...restauró la puerta de la FuenteH2388
+- Neh_3:16después de él restauró Nehemías hijo deH2388
+- Neh_3:17tras él restauraron los levitas; RehumH2388
+- Neh_3:17junto a él restauró Hasabías, gobernadorH2388
+- Neh_3:18después de él restauraron sus hermanosH2388
+- Neh_3:19restauró Ezer hijo de Jesúa, gobernadorH2388
+- Neh_3:20Baruc hijo...restauró otro tramo, desdeH2388
+- Neh_3:21tras él restauró Meremot hijo de UríasH2388
+- Neh_3:22restauraron los sacerdotes, los varonesH2388
+- Neh_3:23después de...restauraron Benjamín y HasubH2388
+- Neh_3:23después de éstos restauró Azarías hijoH2388
+- Neh_3:24después restauró Binúi hijo de HenadadH2388
+- Neh_3:26restauraron hasta enfrente de la puertaH2388
+- Neh_3:27después...restauraron los tecoítas otroH2388
+- Neh_3:28la puerta de los Caballos restauraron losH2388
+- Neh_3:29después de ellos restauró Sadoc hijo deH2388
+- Neh_3:29después de él restauró Semaías hijo deH2388
+- Neh_3:30Hanún hijo sexto...restauraron otro tramoH2388
+- Neh_3:30después de ellos restauró Mesulam hijoH2388
+- Neh_3:31después de él restauró Malquías hijo delH2388
+- Neh_3:32la puerta...restauraron los plateros y losH2388
+- Neh_5:16la obra de este muro restauré mi parteH2388
+- Job_33:26y restaurará al hombre su justiciaH7725
+- Sal_80:3Dios, restáuranos; haz resplandecerH7725
+- Sal_80:7, Sal_80:19Dios de los ejércitos, restáuranosH7725
+- Sal_85:4restáuranos...Dios de nuestra salvacionH7725
+- Ecl_3:15fue ya; y Dios restaura lo que pasóH1245
+- Isa_1:26restauraré...jueces como al principioH7725
+- Isa_49:6para que restaures el remanente de IsraelH7725
+- Isa_49:8por pacto...para que restaures la tierraH6965
+- Isa_61:4restaurarán las ciudades arruinadas, losH2318
+- Jer_15:19si te convirtieres, yo te restauraréH7725
+- Jer_19:11una vasija...que no se puede restaurarH7495
+- Jer_27:22después los traeré y los restauraré aH7722
+- Eze_35:9tus ciudades nunca más se restauraránH7725
+- Dan_9:25la orden para restaurar...a JerusalénH7725
+- Nah_2:2Jehová restaurará la gloria de JacobH7725
+- Zac_8:3yo he restaurado a Sion, y moraré enH7725
+- Zac_9:12os anuncio que os restauraré el dobleH7725
+- Mat_12:13le fue restaurada sana como la otraG600
+- Mat_17:11Elías viene primero, y restaurará todasG600
+- Mar_3:5extendió, y la mano le fue restauradaG600
+- Mar_9:12Elías viene primero, restaurará todasG600
+- Luc_6:10lo hizo así, y su mano fue restauradaG600
+- Hec_1:6Señor, ¿restaurarás el reino a IsraelG600
+- Gál_6:1que sois espirituales, restauradle conG2675

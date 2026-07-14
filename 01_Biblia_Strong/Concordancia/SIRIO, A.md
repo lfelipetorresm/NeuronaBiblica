@@ -1,0 +1,76 @@
+---
+tipo: concordancia
+palabra: SIRIO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SIRIO, A
+
+- Habitante de Siria (=arameo)
+- 2Sa_8:5vineron los s...David hirió de los sH758
+- 2Sa_8:6y los s fueron hechos siervos de DavidH758
+- 2Sa_8:12los s, de los moabitas, de los amonitasH758
+- 2Sa_8:13regresaba de derrotar a los s, destrozóH758
+- 2Sa_10:6tomaron a sueldo a los s de Bet-rehobH758
+- 2Sa_10:6a los s de Soba, veinte mil hombres deH758
+- 2Sa_10:8pero los s...estaban aparte en el campoH758
+- 2Sa_10:9puso en orden de batalla contra los sH758
+- 2Sa_10:11dijo: Si los s pudieren más que yo, túH758
+- 2Sa_10:13pelear contra los s; mas ellos huyeronH758
+- 2Sa_10:14viendo que los s habían huido, huyeronH758
+- 2Sa_10:15los s, viendo que habían sido derrotadosH758
+- 2Sa_10:16hizo salir a los s que estaban al otroH758
+- 2Sa_10:17los s se pusieron en orden de batallaH758
+- 2Sa_10:18los s huyeron delante de Israel; y DavidH758
+- 2Sa_10:18David mató de los s a la gente de 700H758
+- 2Sa_10:19s temieron ayudar más a los...de AmónH758
+- 1Re_20:20huyeron los s, siguiéndoles los deH758
+- 1Re_20:21Israel...y deshizo a los s causándolesH758
+- 1Re_20:26revista al ejército de los s, y vino aH758
+- 1Re_20:27de Israel...y los s llenaban la tierraH758
+- 1Re_20:28por cuanto los s han dicho: Jehová esH758
+- 1Re_20:29mataron de los s...cien mil hombres deH758
+- 1Re_22:1años pasaron sin guerra entre los s eH758
+- 1Re_22:11éstos acornearás a los s hasta acabarlosH758
+- 1Re_22:35rey estuvo en su carro delante de los sH758
+- 2Re_5:20aquí mi señor estorbó a este s NaamánH761
+- 2Re_6:9no pases por tal lugar...los s van allíH758
+- 2Re_6:18luego que los s descendieron a él, oróH758
+- 2Re_7:4vamos...y pasemos al campamento de los sH758
+- 2Re_7:5ir al campamento de los s; y llegando aH758
+- 2Re_7:5a la entrada del campamento de los s, noH758
+- 2Re_7:6que en el campamento de los s se oyeseH758
+- 2Re_7:10nosotros fuimos al campamento de los sH758
+- 2Re_7:12os declararé lo que nos han hecho los sH758
+- 2Re_7:14y envió el rey al campamento de los sH758
+- 2Re_7:15enseres que los s habían arrojado por laH758
+- 2Re_7:16salió, y saqueó el campamento de los sH758
+- 2Re_8:28fue a la guerra...los s hirieron a JoramH758
+- 2Re_8:29heridas que los s le hicieron frente aH758
+- 2Re_9:15las heridas que los s le habían hechoH758
+- 2Re_13:5a Israel, y salieron del poder de los sH758
+- 2Re_13:17porque herirás a los s en Afec hastaH758
+- 2Re_24:2envió contra Joacim tropas...tropas de sH758
+- 1Cr_7:14Asriel, al cual dio a luz...la s, laH761
+- 1Cr_18:5y viniendo los s de Damasco en ayuda deH758
+- 1Cr_18:6y los s fueron hechos siervos de DavidH758
+- 1Cr_19:10ellos ordenó su ejército contra los sH758
+- 1Cr_19:12si los s fueren más fuertes que yo, túH758
+- 1Cr_19:14acercó Joab...para pelear contra los sH758
+- 1Cr_19:15de Amón, viendo que los s habían huidoH758
+- 1Cr_19:16viendo los s que habían caído delanteH758
+- 1Cr_19:16trajeron a los s que estaban al otroH758
+- 1Cr_19:17David hubo...pelearon contra él los sH758
+- 1Cr_19:18mas el pueblo s huyó delante de IsraelH758
+- 1Cr_19:18mató David de los s a 7.000 hombres deH758
+- 1Cr_19:19viendo los s...que habían caído delanteH758
+- 1Cr_19:19el pueblo s nunca más quiso ayudar a losH758
+- 2Cr_18:10con éstos acornearás a los s hastaH758
+- 2Cr_18:34en el carro enfrente de los s hasta laH758
+- 2Cr_22:5a Ramot de...donde los s hirieron a JoramH761
+- 2Cr_24:25y cuando se fueron los s, lo dejaronH758
+- 2Cr_28:5Dios lo entregó en manos del rey de los sH758
+- Isa_7:5ha acordado maligno consejo...el s, conH758
+- Isa_9:12del oriente los s...y los filisteos delH758
+- Luc_4:27ninguno...fue limpiado, sino Naamán el sG4948

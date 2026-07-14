@@ -1,0 +1,202 @@
+---
+tipo: concordancia
+palabra: JORDÁN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JORDÁN
+
+- Río principal de Palestina
+- Gén_13:10Lot...vio toda la llanura del J, queH3383
+- Gén_13:11Lot escogió para sí...la llanura del JH3383
+- Gén_32:10pues con mi cayado pasé este J, y ahoraH3383
+- Gén_50:10era de Atad...está al otro lado del JH3383
+- Gén_50:11Abel-mizraim...está al otro lado del JH3383
+- Núm_13:29el cananeo habita...a la ribera del JH3383
+- Núm_22:1acamparon...junto al J, frente a JericóH3383
+- Núm_26:3hablaron...junto al J frente a JericoH3383
+- Núm_26:63contaron...hijos de Israel...junto al JH3383
+- Núm_31:12llanos de Moab, que están junto al JH3383
+- Núm_32:5esta tierra...y no nos hagas pasar el JH3383
+- Núm_32:19no tomaremos heredad...otro lado del JH3383
+- Núm_32:19nuestra heredad a este otro lado del JH3383
+- Núm_32:21pasáis armados el J delante de JehováH3383
+- Núm_32:29hijos de Rubén pasan con vosotros el JH3383
+- Núm_32:32nuestra heredad será a este lado del JH3383
+- Núm_33:48de Moab, junto al J, frente a JericóH3383
+- Núm_33:49finalmente acamparon junto al J, desdeH3383
+- Núm_33:50habló Jehová a Moisés en...junto al JH3383
+- Núm_33:51cuando hayáis pasado el J entrando enH3383
+- Núm_34:12después descenderá este límite al JH3383
+- Núm_34:15tomaron su heredad a este lado del JH3383
+- Núm_35:1habló Jehová a Moisés en...junto al JH3383
+- Núm_35:10hayáis pasado al otro lado del J a laH3383
+- Núm_35:14tres ciudades daréis a este lado del JH3383
+- Núm_36:13y los estatutos que mandó...junto al JH3383
+- Deu_1:1palabras que habló...a este lado del JH3383
+- Deu_1:5lado del J, en...resolvió Moisés declararH3383
+- Deu_2:29que cruce el J a la tierra que nos daH3383
+- Deu_3:8amorreos que estaban a este lado del JH3383
+- Deu_3:17también el Arabá, con el J como límiteH3383
+- Deu_3:20vuestro Dios les da al otro lado del JH3383
+- Deu_3:25vea aquella tierra...está mas allá del JH3383
+- Deu_3:27y mira con tus...porque no pasarás el JH3383
+- Deu_4:21y Jehová...juró que yo no pasaría el JH3383
+- Deu_4:22voy a morir en esta...y no pasaré el JH3383
+- Deu_4:26tierra hacia la cual pasáis el J paraH3383
+- Deu_4:41apartó...tres ciudades a este lado del JH3383
+- Deu_4:46a este lado del J, en el valle delanteH3383
+- Deu_4:47reyes...que estaban de este lado del JH3383
+- Deu_4:49el Arabá de este lado del J, al orienteH3383
+- Deu_9:1tú vas hoy a pasar el J, para entrar aH3383
+- Deu_11:30los cuales están al otro lado del JH3383
+- Deu_11:31pasáis el J para ir a poseer la tierraH3383
+- Deu_12:10pasaréis el J, y habitaréis...la tierraH3383
+- Deu_27:2que pases el J a la tierra que JehováH3383
+- Deu_27:4pasado el J, levantarás estas piedrasH3383
+- Deu_27:12hayas pasado el J, estos estarán sobreH3383
+- Deu_30:18pasando el J, para entrar en posesiónH3383
+- Deu_31:2Jehová me ha dicho: No pasarás este JH3383
+- Deu_31:13; Deu_32:47pasando el J...tomar posesión deH3383
+- Jos_1:2ahora, pues, levántate y pasa este JH3383
+- Jos_1:11pasaréis el J para entrar a poseer laH3383
+- Jos_1:14la tierra...os ha dado a este lado del JH3383
+- Jos_1:15este lado del J hacia donde nace el solH3383
+- Jos_2:7tras ellos por el camino del J, hasta losH3383
+- Jos_2:10dos reyes...al otro lado del J, a SehónH3383
+- Jos_3:1Israel partieron...y vinieron hasta el JH3383
+- Jos_3:8borde del agua del J...pararéis en el JH3383
+- Jos_3:11el arca...pasará delante...en medio del JH3383
+- Jos_3:13cuando...se asienten en las aguas del JH3383
+- Jos_3:13las aguas del J se dividirán; porque lasH3383
+- Jos_3:14cuando partió el pueblo...para pasar el JH3383
+- Jos_3:15que llevaban el arca entraron en el JH3383
+- Jos_3:15el J suele desbordarse por todas susH3383
+- Jos_3:17los sacerdotes...firmes en medio del JH3383
+- Jos_3:17el pueblo hubo acabado de pasar el JH3383
+- Jos_4:1cuando toda...hubo acabado de pasar el JH3383
+- Jos_4:3diciendo: Tomad de aquí de en medio del JH3383
+- Jos_4:5pasad delante del arca...la mitad del JH3383
+- Jos_4:7las aguas del J fueron divididas delanteH3383
+- Jos_4:7cuando ella pasó el J, las aguas del JH3383
+- Jos_4:8tomaron doce piedras de en medio del JH3383
+- Jos_4:9levantó doce piedras en medio del J, enH3383
+- Jos_4:10los sacerdotes...pararon en medio del JH3383
+- Jos_4:16manda a los sacerdotes...que suban del JH3383
+- Jos_4:17Josué mandó a los...diciendo: Subid del JH3383
+- Jos_4:18que cuando...subieron de en medio del JH3383
+- Jos_4:18las aguas del J se volvieron a su lugarH3383
+- Jos_4:19pueblo subió del J el día diez del mesH3383
+- Jos_4:20las doce piedras que habían traído del JH3383
+- Jos_4:22hijos...Israel pasó en seco por este JH3383
+- Jos_4:23Dios secó las aguas del J delante deH3383
+- Jos_5:1los reyes de...al otro lado del J...oyeronH3383
+- Jos_5:1cómo Jehová había secado las aguas del JH3383
+- Jos_7:7¿por qué hiciste pasar a este pueblo el JH3383
+- Jos_7:7hubiéramos quedado al otro lado del J!
+- Jos_9:1los reyes que estaban a este lado del JH3383
+- Jos_9:10reyes...que estaban al otro lado del JH3383
+- Jos_12:1cuya tierra poseyeron al otro lado del JH3383
+- Jos_12:7reyes...que derrotaron...este lado del JH3383
+- Jos_13:8recibieron...heredad...al otro lado del JH3383
+- Jos_13:23y el J fue el límite del territorio deH3383
+- Jos_13:27el J y su límite hasta el extremo delH3383
+- Jos_13:27Cineret al otro lado del J, al orienteH3383
+- Jos_13:32Moisés repartió en...al otro lado del JH3383
+- Jos_14:3había dado...heredad al otro lado del JH3383
+- Jos_15:5el límite...hasta la desembocadura del JH3383
+- Jos_15:5desde la bahía...la desembocadura del JH3383
+- Jos_16:1desde el J de Jericó hasta las aguas deH3383
+- Jos_16:7desciende a...y toca Jericó y sale al JH3383
+- Jos_17:5y de Basán que está al otro lado del JH3383
+- Jos_18:7recibido su heredad al otro lado del JH3383
+- Jos_18:12limite de ellos al...norte desde el JH3383
+- Jos_18:19y termina...a la extremidad sur del JH3383
+- Jos_18:20el J era el límite al lado del orienteH3383
+- Jos_19:22y termina en el J; 16 ciudades con susH3383
+- Jos_19:33su territorio desde Helef...y sale al JH3383
+- Jos_19:34Judá por el J hacia donde nace el solH3383
+- Jos_20:8al otro lado del J...señalaron a BeserH3383
+- Jos_22:4que Moisés...os dio al otro lado del JH3383
+- Jos_22:7Josué...a este lado del J, al occidenteH3383
+- Jos_22:10llegando a los límites del J que estáH3383
+- Jos_22:10edificaron allí un altar junto al J, unH3383
+- Jos_22:11altar frente a la...en los límites del JH3383
+- Jos_22:25Jehová ha puesto por lindero el J entreH3383
+- Jos_23:4desde el J hasta el Mar Grande, haciaH3383
+- Jos_24:8amorreos...habitaban al otro lado del JH3383
+- Jos_24:11pasasteis el J, y vinisteis a JericóH3383
+- Jue_3:28tomaron los vados del J a Moab, y noH3383
+- Jue_5:17Galaad...quedó al otro lado del J; y DanH3383
+- Jue_7:24vados del J...tomaron los vados...y del JH3383
+- Jue_7:25trajeron...a Gedeón al otro lado del JH3383
+- Jue_8:4y vino Gedeón al J, y pasó él y los 300H3383
+- Jue_10:8Israel que estaban al otro lado del JH3383
+- Jue_10:9hijos de Amón pasaron el J para hacerH3383
+- Jue_11:13tomó...desde Amón hasta Jaboc y el JH3383
+- Jue_11:22se apoderaron...el desierto hasta el JH3383
+- Jue_12:5tomaron los vados del J a los de EfraínH3383
+- Jue_12:6le degollaban junto a los vados del JH3383
+- 1Sa_13:7algunos...pasaron el J a la tierraH3383
+- 1Sa_31:7los de Israel que...del otro lado del JH3383
+- 2Sa_2:29y pasando el J cruzaron por...BitrónH3383
+- 2Sa_10:17David...pasando el J vino a Helam; y losH3383
+- 2Sa_17:16pasa...el J, para que no sea destruidoH3383
+- 2Sa_17:22pasaron el J antes que amaneciese; niH3383
+- 2Sa_17:22siquiera faltó uno que no pasase el JH3383
+- 2Sa_17:24Absalón pasó el J con toda la gente deH3383
+- 2Sa_19:15volvió, pues, el rey, y vino hasta el JH3383
+- 2Sa_19:15Judá vino a...para hacerle pasar el JH3383
+- 2Sa_19:17los cuales pasaron el J delante del reyH3383
+- 2Sa_19:18se postró...cuando él hubo pasado el JH3383
+- 2Sa_19:31pasó el J con el rey...otro lado del JH3383
+- 2Sa_19:36pasará...un poco más allá del J con elH3383
+- 2Sa_19:39todo el pueblo pasó el J; y luego queH3383
+- 2Sa_19:41hecho pasar el J al rey y a su familiaH3383
+- 2Sa_20:2siguieron...desde el J hasta JerusalénH3383
+- 2Sa_24:5y pasando el J acamparon en Aroer, alH3383
+- 1Re_2:8él mismo descendió a recibirme al JH3383
+- 1Re_7:46hizo fundir el rey en la llanura del JH3383
+- 1Re_17:3arroyo de Querit, que está frente al JH3383
+- 1Re_17:5junto al arroyo de Querit...frente al JH3383
+- 2Re_2:6te quedes...Jehová me ha enviado al JH3383
+- 2Re_2:7lejos; y ellos dos se pararon junto al JH3383
+- 2Re_2:13y volvió, y se paró a la orilla del JH3383
+- 2Re_5:10vé y lávate siete veces en el J, y tuH3383
+- 2Re_5:14zambulló siete veces en el J, conformeH3383
+- 2Re_6:2vamos ahora al J, y tomemos de allí cadaH3383
+- 2Re_6:4cuando llegaron al J, cortaron la maderaH3383
+- 2Re_7:15ellos fueron, y los siguieron hasta el JH3383
+- 2Re_10:33desde el J al nacimiento del sol, todaH3383
+- 1Cr_6:78otro lado del J...al oriente del JH3383
+- 1Cr_12:15estos pasaron el J en el mes primeroH3383
+- 1Cr_12:37del otro lado del J...120.000 con todaH3383
+- 1Cr_19:17cruzando el J vino a ellos, y ordenóH3383
+- 1Cr_26:30gobernaban a Israel al otro lado del JH3383
+- 2Cr_4:17fundió el rey en los llanos del JH3383
+- Job_40:23todo un J se estrelle contra su bocaH3383
+- Sal_42:6me acordaré...desde la tierra del JH3383
+- Sal_114:3el mar lo vio, y...el J se volvió atrásH3383
+- Sal_114:5¿y tú, oh J, que te volviste atrás?[[H3383]]
+- Isa_9:1lado del J, en Galilea de los gentilesH3383
+- Jer_12:5¿cómo harás en la espesura del J?[[H3383]]
+- Jer_49:19de la espesura del J contra la bellaH3383
+- Jer_50:44como león subirá de la espesura del JH3383
+- Eze_47:18medio de Haurán y de Damasco...al JH3383
+- Zac_11:3porque la gloria del J es destruidaH3383
+- Mat_3:5salía a él...toda la provincia...del JG2446
+- Mat_3:6bautizados por él en el J, confesando susG2446
+- Mat_3:13Jesús vino de Galilea a Juan al J, paraG2446
+- Mat_4:15camino del mar, al otro lado del JG2446
+- Mat_4:25le siguió mucha gente...otro lado del JG2446
+- Mat_19:1las regiones de Judea al otro lado del JG2446
+- Mar_1:5y eran bautizados por él en el río JG2446
+- Mar_1:9Jesús...fue bautizado por Juan en el JG2446
+- Mar_3:8otro lado del J, y de los alrededores deG2446
+- Mar_10:1vino a la región de...al otro lado del JG2446
+- Luc_3:3fue por toda la región contigua al JG2446
+- Luc_4:1Jesús...volvió del J, y fue llevado por elG2446
+- Jua_1:28Betábara, al otro lado del J, dondeG2446
+- Jua_3:26que estaba contigo al otro lado del JG2446
+- Jua_10:40y se fue de nuevo al otro lado del JG2446

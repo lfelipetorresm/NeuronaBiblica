@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: GROSURA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GROSURA
+
+- Gén_27:28Dios, pues, te dé...g de la tierraH4924
+- Gén_27:39será tu habitación en g de la tierraH4924
+- Éxo_23:18ni la g de mi víctima quedará de laH2459
+- Éxo_29:13tomarás...la g...g de sobre el hígadoH2459
+- Éxo_29:13riñones, y la g que está sobre ellosH2459
+- Éxo_29:22la g...y la g que cubre los intestinosH2459
+- Éxo_29:22g del hígado...dos riñones, y la g queH2459
+- Lev_1:8, Lev_1:12cabeza y la g de los intestinos, sobreH6309
+- Lev_3:3, Lev_3:14la g que cubre los intestinos...la gH2459
+- Lev_3:4riñón y la g...la g de los intestinosH2459
+- Lev_3:9ofrecerá...la g...la g que cubre todos losH2459
+- Lev_3:10, Lev_3:15riñones y la g...g de...el hígadoH2459
+- Lev_3:16hará arder...toda la g es de JehováH2459
+- Lev_3:17ninguna g ni ninguna sangre comeréisH2459
+- Lev_4:8y tomará del becerro...toda su g, la queH2459
+- Lev_4:9dos riñones sobre él las g de...sacrificiosH2459
+- Lev_4:19le quitará toda la g y la hará arderH2459
+- Lev_4:26quemará toda su g sobre el altar, como la gH2459
+- Lev_4:31quitará toda su g, de...que fue quitada la g
+- Lev_4:35le quitará toda su g,como...la g del sacrificioH2459
+- Lev_6:12quemará sobre él las g de los sacrificios de pazH2459
+- Lev_7:3ofrecerá toda su g, la cola, y la g queH2459
+- Lev_7:4dos riñones, la g...g de sobre el hígadoH2459
+- Lev_7:23g de buey ni de cordero ni...comeréisH2459
+- Lev_7:24la g de animal muerto, y la g del queH2459
+- Lev_7:25cualquiera que comiere g de animal, delH2459
+- Lev_7:30sus manos traerá la g con el pecho; elH2459
+- Lev_7:31la g la hará arder el sacerdote en elH2459
+- Lev_7:33ofreciere la sangre...y la g, recibiráH2459
+- Lev_8:16la g que estaba sobre los intestinosH2459
+- Lev_8:16tomó...la g del hígado...riñones, y la gH2459
+- Lev_8:20Moisés hizo arder...los trozos, y la gH6309
+- Lev_8:25después tomó la g, la cola, toda la gH2459
+- Lev_8:25la g del hígado, los dos riñones y la gH2459
+- Lev_8:26una hojaldre, y lo puso con la g y conH2459
+- Lev_9:10arder...la g con los riñones y la g delH2459
+- Lev_9:19y las g del buey y...la g que cubre losH2459
+- Lev_9:19cola, la g que cubre...y la g del hígadoH2459
+- Lev_9:20pusieron las g sobre los pechos, y élH2459
+- Lev_9:24consumió el holocausto con las g sobreH2459
+- Lev_10:15con las ofrendas de las g...traerán laH2459
+- Lev_16:25quemará...la g del sacrificio por elH2459
+- Lev_17:6quemará la g en olor grato a JehováH2459
+- Núm_18:17y quemarás la g de ellos, ofrendaH2459
+- Deu_32:14leche de ovejas, con g de corderosH2459
+- Deu_32:38que comían la g de sus sacrificios, yH2459
+- 1Sa_2:15de quemar la g, venía el criado delH2459
+- 1Sa_2:16quemen la g primero, y después tomaH2459
+- 1Sa_15:22el prestar atención que la g de losH2459
+- 2Sa_1:22sin sangre de...sin g de los valientesH2459
+- 1Re_8:64y no cabían...la g de los sacrificiosH2459
+- 2Cr_7:7ofrecido allí...la g de las ofrendasH2459
+- 2Cr_7:7en el altar de...no podían caber...las gH2459
+- 2Cr_29:35abundancia de holocaustos, con g deH2459
+- 2Cr_35:14en el...de los holocaustos y de las gH2459
+- Neh_8:10id, comed g, y bebed vino dulce, yH4924
+- Job_36:16libre...y te preparará mesa llena de gH1880
+- Sal_17:10envueltos están con su g; con suH2459
+- Sal_36:8saciados de la g de tu casa, y tú losH1880
+- Sal_63:5como de...y de g será saciada mi almaH1880
+- Sal_65:11tus bienes, y tus nubes destilan gH1880
+- Isa_17:4Jacob...enflaquecerá la g de su carneH4924
+- Isa_34:6engrasada está de g...de g de riñonesH2459
+- Isa_34:7sangre, y u polvo se engrasará de gH2459
+- Isa_43:24ni me saciaste con la g...sacrificiosH2459
+- Isa_55:2oídme...se deleitará vuestra alma con gH1880
+- Eze_34:3coméis la g, y os vestid de la lanaH2459
+- Eze_39:19comeréis g hasta saciaros, y beberéisH2459
+- Eze_44:7de ofrecer mi pan, la grosura y la sangre, yH2459
+- Eze_44:15ante mí...estarán para ofrecerme la gH2459

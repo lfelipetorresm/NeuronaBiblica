@@ -1,0 +1,87 @@
+---
+tipo: concordancia
+palabra: LLUVIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LLUVIA
+
+- Gén_7:12hubo ll sobre la tierra cuarenta díasH1653
+- Gén_8:2cielos; y la ll de los cielos fue detenidaH1653
+- Éxo_9:33y la ll no cayó más sobre la tierraH4306
+- Éxo_9:34y viendo Faraón que la ll había cesadoH4306
+- Lev_26:4yo daré vuestra ll en su tiempo, y laH1653
+- Deu_11:11que bebe las aguas de la ll del cieloH4306
+- Deu_11:14daré la ll de vuestra tierra a su tiempoH4306
+- Deu_11:17cierre los cielos, y no haya ll, ni laH4306
+- Deu_28:12enviar la ll a tu tierra en su tiempoH4306
+- Deu_28:24dará Jehová por ll a tu tierra polvoH4306
+- Deu_32:2como la ll mi enseñanza; destilará comoH4306
+- 1Sa_12:17yo clamaré...y él dará truenos y llH4306
+- 1Sa_12:18Jehová dio truenos y ll en aquel díaH4306
+- 2Sa_1:21ni rocío ni ll caiga sobre vosotrosH4306
+- 2Sa_23:4como la ll que hace brotar la hierba deH4306
+- 1Re_8:36y darás ll sobre tu tierra, la cualH4306
+- 1Re_17:1que no habrá ll ni rocío en estos añosH4306
+- 1Re_18:41come y bebe, porque una ll grande se oyeH1653
+- 1Re_18:44desciende, para que la ll no te atajeH1653
+- 1Re_18:45con nubes y viento, y hubo una gran llH1653
+- 2Re_3:17ni veréis ll; pero este valle seráH1653
+- 2Cr_6:26cielos se cerraren y no hubiere llH4306
+- 2Cr_6:27darás ll sobre tu tierra, que diste porH4306
+- 2Cr_7:13cerrare los cielos para que no haya llH4306
+- Esd_10:9se sentó...temblando...a causa de la llH1653
+- Job_5:10da la ll sobre la faz de la tierra, yH4306
+- Job_24:8con las ll de los montes se mojan, yH2230
+- Job_28:26cuando él dio ley a la ll, y camino alH4306
+- Job_29:23me esperaban como a la ll, y abrían suH4306
+- Job_29:23y abrían su boca como a la ll tardíaH4456
+- Job_36:27aguas, al transformarse el vapor en llH4306
+- Job_38:28¿tiene la ll padre? ¿0 quién engendróH4306
+- Sal_65:10la ablandas con ll, bendices susH7241
+- Sal_68:9abundante ll esparciste, oh Dios; a tuH1653
+- Sal_72:6descenderá como la ll sobre la hierbaH4306
+- Sal_84:6fuente, cuando la ll llena los estanquesH4175
+- Sal_105:32les dio granizo por ll, y llamas deH1653
+- Sal_135:7hace los relámpagos para la ll; sacaH4306
+- Sal_147:8el que prepara la ll para la tierraH4306
+- Pro_16:15su benevolencia es como nube de llH4456
+- Pro_25:14como nubes y vientos sin ll, así es elH1653
+- Pro_25:23el viento del norte ahuyenta la ll, y elH1653
+- Pro_26:1como no conviene...ni la ll en la siegaH4306
+- Pro_27:15gotera continua en tiempo de ll y laH5464
+- Pro_28:3es como ll torrencial que deja sin panH4306
+- Ecl_12:2antes que...vuelvan las nubes tras la llH1653
+- Cnt_2:11invierno, se ha mudado, la ll se fueH1653
+- Isa_5:6a las nubes mandaré que no derramen llH4305
+- Isa_18:4como sol claro después de la ll, como
+- Isa_30:23dará el Señor ll a...sementera, cuandoH4306
+- Isa_44:14planta pino, que se críe con la llH1653
+- Isa_55:10como desciende de los cielos la ll y laH1653
+- Jer_3:3por esta causa...y faltó la ll tardíaH4456
+- Jer_5:24que da ll temprana y tardía en su tiempoH1653
+- Jer_10:13hace los relámpagos con la ll, y sacaH4306
+- Jer_14:22¿y darán los cielos ll? ¿No eres túH1653
+- Jer_51:16hace relámpagos con la ll, y saca elH4306
+- Eze_13:11ll torrencial, y enviaré piedras deH1653
+- Eze_13:13ira, y ll torrencial vendrá con mi furor
+- Eze_22:24ni rociada con ll en el día del furorH1656
+- Eze_34:26haré descender la ll...ll de bendiciónH1653
+- Eze_38:22haré llover...impetuosa ll, y piedrasH4305
+- Ose_6:3vendrá...como la ll, como la ll tardíaH1653, [[H3384]]
+- Joe_2:23os ha dado la primera ll a su tiempoH4175
+- Joe_2:23y hará descender...ll temprana y tardíaH4175, [[H4456]]
+- Amó_4:7os detuve la ll tres meses antes de laH1653
+- Miq_5:7será...como las ll sobre la hierba, lasH7241
+- Hag_1:10por eso se detuvo de...vosotros la llH2919
+- Zac_10:1pedid a Jehová ll...la estación tardíaH4306
+- Zac_10:1os dará ll abundante, y hierba verde enH1653
+- Zac_14:17no subieren...no vendrá sobre ellos llH1653
+- Zac_14:18y no viniere, sobre ellos no habrá ll
+- Mat_7:25, Mat_7:27descendió ll, y vinieron ríos, yG1028
+- Hec_14:17ll del cielo y tiempos fructíferosG5205
+- Hec_28:2nos recibieron a todos, a causa de la llG5205
+- Heb_6:7la tierra que bebe la ll que...cae sobreG5205
+- Stg_5:7con paciencia hasta que reciba la llG5205
+- Stg_5:18otra vez oró, y el cielo dio ll, y laG5205

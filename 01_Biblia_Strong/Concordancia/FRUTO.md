@@ -1,0 +1,269 @@
+---
+tipo: concordancia
+palabra: FRUTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FRUTO
+
+- Gén_1:11árbol de f que dé f según su géneroH6529
+- Gén_1:12produjo...la tierra...y árbol que da fH6529
+- Gén_1:29árbol en que hay f y que da semillaH6529
+- Gén_3:2del f de los árboles del...podemos comerH6529
+- Gén_3:3del f del árbol...dijo Dios: No comeréisH6529
+- Gén_3:6tomó de su f y comió; y dio a su maridoH6529
+- Gén_4:3Caín trajo del f de...una ofrenda a JehováH6529
+- Gén_19:25destruyó las ciudades...f de la tierraH6780
+- Gén_30:2Dios, que te impidió el f de tu vientre?[[H6529]]
+- Gén_47:24de los f daréis el quinto a faraónH8393
+- Éxo_10:15consumió todo el f de los árbolesH6529
+- Éxo_23:16hayas recogido de los f de tus laboresH1061
+- Éxo_23:16siega los primeros f de tus labores
+- Éxo_23:19; Éxo_34:26las primicias de los primeros fH1061
+- Lev_19:10ni recogerás el f caído de tu viñaH6528
+- Lev_19:23como incircunciso lo primero de su fH6529
+- Lev_19:25comeréis el f...que os haga crecer su fH6529, [[H8393]]
+- Lev_23:10primicia de los primeros f de vuestraH7225
+- Lev_23:39mes...hayáis recogido el f de la tierraH8393
+- Lev_23:40ramas con f de árbol hermoso, ramas de
+- Lev_25:3años podarás tu viña y recogerás sus fH8393
+- Lev_25:7la bestia...todo el f de ella para comerH8393
+- Lev_25:15conforme al número de...años de los fH8393
+- Lev_25:19la tierra dará su f, y comeréis hastaH6529
+- Lev_25:20aquí...ni hemos de recoger nuestros fH8393
+- Lev_25:21mi bendición...y ella hará que haya fH8393
+- Lev_25:22y comeréis del f añejo; hasta el añoH8393
+- Lev_25:22que venga su f, comeréis del añejoH8393
+- Lev_26:4yo daré...y el árbol del campo dará su fH6529
+- Lev_26:20los árboles de la tierra no darán su fH6529
+- Lev_27:30así de la simiente de la...como del fH6529
+- Núm_13:20y esforzaos, y tomad del f del paísH6529
+- Núm_13:26y les mostraron el f de la tierraH6529
+- Núm_13:27llegamos a la tierra...y este es el fH6529
+- Deu_1:25tomaron en sus manos del f del paísH6529
+- Deu_7:13el f de tu vientre y el f de tu tierraH6529
+- Deu_11:17no...ni la tierra dé su f, y perezcáisH2981
+- Deu_16:15habrá bendecido...Dios en todos tus fH8393
+- Deu_20:20árbol...no lleva f podrás destruirloH3978
+- Deu_22:9se pierda...tanto la semilla...como el fH8393
+- Deu_26:2tomarás de las primicias de todos los fH6529
+- Deu_26:10he traído las primicias del f de laH6529
+- Deu_26:12de diezmar todo el diezmo de tus f enH8393
+- Deu_28:4bendito el f de tu vientre, el f de tuH6529
+- Deu_28:4bendito...el f de tus bestias, la críaH6529
+- Deu_28:11sobreabundar en...en el f de tu vientreH6529
+- Deu_28:11en el f de tu bestia, y en el f de tuH6529
+- Deu_28:18maldito el f de tu vientre, el f de tuH6529
+- Deu_28:33el f...comerá pueblo que no conocisteH6529
+- Deu_28:42y el f de tu tierra serán consumidosH6529
+- Deu_28:51comerá el f de tu bestia y el f de tuH6529
+- Deu_28:53comerás el f de tu vientre, la carneH6529
+- Deu_30:9te hará...abundar...en el f de tu vientreH6529
+- Deu_30:9f de tu bestia, y en el f de tu tierraH6529
+- Deu_32:13lo hizo subir...y comió los f del campoH8570
+- Deu_32:22arderá...devorará la tierra y sus f yH2981
+- Deu_33:14con los más escogidos f del sol, conH8393
+- Deu_33:15el f más fino de los montes antiguosH4022
+- Jos_5:11al otro día de...comieron del f de laH5669
+- Jos_5:12comenzaron a comer del f de la tierraH5669
+- Jos_5:12sino que comieron de los f de la tierraH8393
+- Jue_6:4destruían los f de la tierra, hastaH2981
+- Jue_9:11¿he de dejar...mi buen f para ir a serH8570
+- 2Sa_9:10almacenarás los f, para que el hijo
+- 2Re_8:6hazle devolver...los f de sus tierrasH8393
+- 2Re_19:29plantaréis viñas, y comeréis el f deH6529
+- 2Re_19:30de la casa de Judá...llevará f arribaH6529
+- 1Cr_27:27del f de las viñas para las bodegas
+- 2Cr_31:5dieron...de todos los f de la tierraH8393
+- Neh_9:36padres...que comiesen su f y su bienH6529
+- Neh_9:37se multiplica su f para los reyes queH8393
+- Neh_10:35y las primicias del f de todo árbolH6529
+- Neh_10:37del f de todo árbol, y del vino y delH6529
+- Sal_1:3su f en su tiempo, y su hoja no caeH6529
+- Sal_21:10su f destruirás de la tierra, y suH6529
+- Sal_67:6la tierra dará su f; nos bendecirá DiosH2981
+- Sal_72:16su f hará ruido como el Líbano, y losH6529
+- Sal_78:46dio también a la oruga sus f, y susH2981
+- Sal_85:12Jehová dará...nuestra tierra dará su yH2981
+- Sal_104:13del f de sus obras se sacia la tierraH6529
+- Sal_105:35hierba...y devoraron el f de su tierraH6529
+- Sal_107:37plantan viñas, y rinden abundante fH6529
+- Sal_127:3son...cosa de estima el f del vientreH6529
+- Sal_128:3vid que lleva f a los lados de tu casaH6509
+- Sal_148:9montes...árbol de f y todos los cedrosH6529
+- Pro_1:31comerán del f de su camino, y seránH6529
+- Pro_3:9honra...con las primicias de todos tus fH8393
+- Pro_3:14es mejor que...sus f más que el oro finoH8393
+- Pro_8:19mejor es mi f que el oro, y que el oroH6529
+- Pro_10:16vida; mas el f del impío es para pecadoH8393
+- Pro_11:30el f del justo es árbol de vida, y elH6529
+- Pro_12:12red...mas la raíz de los justos dará f
+- Pro_12:14será saciado de bien del f de su bocaH6529
+- Pro_13:2f de su boca el hombre comerá el bienH6529
+- Pro_14:23en toda labor hay f; mas las vanasH4195
+- Pro_16:8que la muchedumbre de f sin derechoH8393
+- Pro_18:20f de la boca del hombre se llenará suH6529
+- Pro_18:21lengua, y el que la ama comerá de sus fH6529
+- Pro_27:18quien cuida la higuera comerá su f, yH6529
+- Pro_31:16la compra, y planta viña del f de susH6529
+- Pro_31:31dadle del f de sus manos, y alábenlaH6529
+- Ecl_2:5hice...planté en ellos árbol de todo fH6529
+- Ecl_5:10el que ama el mucho tener, no sacará fH8393
+- Cnt_2:3senté, y su f fue dulce a mi paladarH6529
+- Cnt_4:13tus renuevos son paraíso...con f suavesH6529
+- Cnt_4:16venga mi amado a...y coma de su dulce fH6529
+- Cnt_6:11descendí a ver los f del valle, y paraH3
+- Cnt_8:11traer mil monedas de plata por su fH6529
+- Cnt_8:12doscientas para los que guardan su fH6529
+- Isa_3:10porque comerá de los f de sus manosH6529
+- Isa_4:2el f de la tierra para grandeza y honraH6529
+- Isa_10:12castigará el f de la soberbia...AsiriaH6529
+- Isa_13:18y no tendrán misericordia del fH6529
+- Isa_14:29de la raíz de la...saldrá áspid y su fH6529
+- Isa_17:6dos tres f en la punta de las ramas; 4H1620
+- Isa_17:9como los f quedan en los renuevos
+- Isa_18:5porque antes de la siega, cuando el fH6525
+- Isa_18:5perfecto, y pasada la...se maduren los fH5328
+- Isa_27:6Israel, y la faz del mundo llenará de fH8570
+- Isa_27:9será todo el f, la remoción de su pecadoH6529
+- Isa_30:23y dará pan del f de la tierra, y seráH8393
+- Isa_37:30y plantaréis viñas, y comeréis su fH6529
+- Isa_37:31volverá a echar raíz abajo, y dará fH6529
+- Isa_53:11verá el f de la aflicción de su alma
+- Isa_57:19produciré f de labios: Paz, paz al queH5108
+- Isa_62:8ni beberán los extraños el vino que es f
+- Isa_65:21plantarán viñas, y comerán el f de ellasH6529
+- Jer_2:3era Israel...primicias de sus nuevos fH8393
+- Jer_2:7os introduje en...para que comieseis su fH6529
+- Jer_6:19yo traigo mal...el f de sus pensamientosH6529
+- Jer_7:20que mi furor...sobre los f de la tierraH6529
+- Jer_11:16olivo verde, hermoso en su f y en suH6529
+- Jer_11:19diciendo: Destruyamos el árbol con su fH3899
+- Jer_12:2crecieron y dieron f; cercano estás túH6529
+- Jer_12:13se avergonzarán de sus f, a causa deH8393
+- Jer_17:8año...no se fatigará, ni dejará de dar fH6529
+- Jer_17:10para dar a cada uno...el f de sus obrasH6529
+- Jer_21:14os castigaré conforme al f de...obrasH6529
+- Jer_29:5, Jer_29:28plantad huertos, y comed del f deH6529
+- Jer_32:19dar a cada uno...según el f de sus obrasH6529
+- Jer_40:10el vino los f del verano y el aceiteH7019
+- Jer_40:12Judá...recogieron vino y abundantes fH7019
+- Lam_2:20¿han de comer...el f de sus entrañasH6529
+- Lam_4:9murieron...por falta de los f de la tierraH8570
+- Eze_17:8diese f, y para que fuese vid robustaH6529
+- Eze_17:9¿no...y destruirá su f, y se secará?[[H6529]]
+- Eze_17:23y dará f, y se hará magnífico cedroH6529
+- Eze_19:10dando f y echando vástagos a causa deH6509
+- Eze_19:12el viento solano secó su f; sus ramasH6529
+- Eze_19:14ha salido fuego...que ha consumido su fH6529
+- Eze_23:29y tomarán todo el f de tu labor, y te
+- Eze_34:27el árbol...dará su f, y la tierra...su fH6529
+- Eze_36:8y llevaréis vuestro f para mi puebloH6529
+- Eze_36:30f de los árboles, y el f de los camposH6529
+- Eze_44:30las primicias de todos los primeros fH1061
+- Eze_47:12sus hojas nunca caerán, ni faltará su fH6529
+- Eze_47:12su f será para comer, y su hoja paraH6529
+- Dan_4:12f abundante, y había en él alimentoH4
+- Dan_4:14quitadle el follaje, y dispersad su fH4
+- Dan_4:21f abundante, y en que había alimentoH4
+- Ose_9:16raíz está seca, no dará más f; aunqueH6529
+- Ose_10:1Israel es...da abundante f para sí mismoH6529
+- Ose_10:1abundancia de su f multiplicó...altaresH6529
+- Ose_10:13arado impiedad...comeréis f de mentiraH6529
+- Ose_14:8oiré, y miraré...de mí será hallado tu fH6529
+- Joe_2:22porque los árboles llevarán su f, laH6529
+- Joe_2:22porque...la higuera y la vid darán sus fH6529
+- Amó_2:9destruí su f arriba y sus raíces abajoH6529
+- Amó_6:12convertido...el f de justicia en ajenjo?[[H6529]]
+- Amó_8:1mostrado...un canastillo de f de veranoH7019
+- Amó_9:14harán huertos, y comerán el f de ellosH6529
+- Miq_6:7el f de mis entrañas por el pecado deH6529
+- Miq_7:1como cuando han recogido...f del veranoH7019
+- Miq_7:1¡ ay de mí...mi alma deseó los primeros fH1063
+- Miq_7:13y será asolada...por el f de sus obrasH6529
+- Hab_3:17no florezca, ni en las vides haya fH2981
+- Hag_1:10la lluvia, y la tierra detuvo sus fH2981
+- Zac_8:12la vid dará su f, y dará su productoH6529
+- Mal_3:11y no os destruirá el f de la tierraH6529
+- Mat_3:8haced, pues, f dignos de arrepentimientoG2590
+- Mat_3:10todo árbol que no da buen f es cortadoG2590
+- Mat_7:16por sus f los conoceréis. ¿Acaso seG2590
+- Mat_7:17buen árbol da buenos f...malo da f malosG2590
+- Mat_7:18no puede el buen árbol dar malos f, niG2590
+- Mat_7:18no puede...ni el árbol malo dar f buenosG2590
+- Mat_7:19todo árbol que no da buen f, es cortadoG2590
+- Mat_7:20así que, por sus f los conoceréisG2590
+- Mat_12:33o haced el árbol bueno, y su f buenoG2590
+- Mat_12:33su f malo...por el f se conoce el árbolG2590
+- Mat_13:8pero parte cayó en buena tierra, y dio fG2590
+- Mat_13:23que oye y entiende la palabra, y da fG2592
+- Mat_13:26y dio f, entonces apareció...la cizañaG2590
+- Mat_21:19nunca jamás nazca de ti f. Y luego seG2590
+- Mat_21:34y cuando se acercó el tiempo de los fG2590
+- Mat_21:34envió sus...para que recibiesen sus fG2590
+- Mat_21:41otros...que le paguen el f a su tiempoG2590
+- Mat_21:43dado a gente que produzca los f de élG2590
+- Mat_26:29ahora no beberé más de este f de la vidG1081
+- Mar_4:7los espinos...la ahogaron, y no dio fG2590
+- Mar_4:8y dio f, pues brotó y creció, y produjoG2590
+- Mar_4:20dan f a treinta, a sesenta, y a cientoG2592
+- Mar_4:28suyo lleva f la tierra, primero hierbaG2592
+- Mar_4:29cuando el f está maduro...se mete la hozG2590
+- Mar_11:14dijo...Nunca jamás coma nadie f de tiG2590
+- Mar_12:2que recibiese de éstos del f de la viñaG2590
+- Mar_14:25digo que no beberé más del f de la vidG1081
+- Luc_1:42bendita...y bendito el f de tu vientreG2590
+- Luc_3:8haced, pues, f dignos de arrepentimientoG2590
+- Luc_3:9todo árbol que no da buen f se corta yG2590
+- Luc_6:43no es buen árbol el que da malos f, niG2590
+- Luc_6:43no es...ni árbol malo el que da buen fG2590
+- Luc_6:44cada árbol se conoce por su f; pues noG2590
+- Luc_8:8otra...nació y llevó f a ciento por unoG2590
+- Luc_8:14ahogados por los afanes...y no llevan fG5052
+- Luc_8:15retiene la...y dan f con perseveranciaG2592
+- Luc_12:17porque no tengo donde guardar mis fG2590
+- Luc_12:18allí guardaré todos mis f y mis bienesG1081
+- Luc_13:6vino a buscar f en ella y no lo hallóG2590
+- Luc_13:7vengo a buscar f en esa higuera, y noG2590
+- Luc_13:9si diere f, bien; y si no, la cortarásG2590
+- Luc_20:10envió...para que le diesen del f de laG2590
+- Luc_22:18digo que no beberé más del f de la vidG1081
+- Jua_4:36que siega...recoge f para vida eternaG2590
+- Jua_12:24queda solo; pero si muere, lleva...fG2590
+- Jua_15:2todo pámpano que en mí no lleva f, loG2590
+- Jua_15:2lleva f, lo limpiará...que lleve más fG2590
+- Jua_15:4como el pámpano no puede llevar f porG2590
+- Jua_15:5el que permanece en mí...lleva mucho fG2590
+- Jua_15:8en que llevéis mucho f, y seáis así misG2590
+- Jua_15:16y llevéis f, y vuestro f permanezcaG2590
+- Rom_1:13tener también entre vosotros algún fG2590
+- Rom_6:21¿pero qué f teníais de aquellas cosasG2590
+- Rom_6:22tenéis por vuestro f la santificaciónG2590
+- Rom_7:4seáis...a fin de que llevemos f para DiosG2592
+- Rom_7:5las pasiones pecaminosas...f para muerteG2592
+- Rom_15:28cuando...haya entregado este f, pasaréG2590
+- Rom_16:5a Epeneto...que es el primer f de AcayaG536
+- 1Co_9:7¿quién planta viña y no come de su f?[[G2590]]
+- 1Co_9:10trilla, con esperanza de recibir del f
+- 1Co_14:14ora, pero mi entendimiento queda sin fG175
+- 2Co_9:10aumentará los f de vuestra justiciaG1081
+- Gál_5:22el f del Espíritu es amor, gozo, pazG2590
+- Efe_5:9el f del Espíritu es en toda bondadG2590
+- Flp_1:11llenos de f de justicia que son porG2590
+- Flp_4:17que busco f que abunde en vuestra cuentaG2590
+- Col_1:6lleva f y crece también en vosotrosG2592
+- Col_1:10en todo, llevando f en toda buena obraG2592
+- 2Ti_2:6el labrador, para participar de los fG2590
+- Tit_3:14ocuparse en...para que no sean sin fG175
+- Heb_12:11después da f apacible de justicia aG2590
+- Heb_13:15f de labios que confiesan su nombreG2590
+- Stg_3:17llena...de buenos f, sin incertidumbreG2590
+- Stg_3:18el f de justicia se siembra en paz paraG2590
+- Stg_5:7el labrador espera el precioso f de laG2590
+- Stg_5:18dio lluvia, y la tierra produjo su fG2590
+- 2Pe_1:8no os dejarán estar ociosos ni sin fG175
+- 2Jn_1:8que no perdáis el f de vuestro trabajoG3739
+- Jud_1:12árboles...sin f, dos veces muertos yG175
+- Rev_18:14los f codiciados...se apartaron de tiG3703
+- Rev_22:2que produce doce f, dando cada mes su fG2590

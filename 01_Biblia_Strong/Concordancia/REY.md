@@ -1,0 +1,2533 @@
+---
+tipo: concordancia
+palabra: REY
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REY
+
+- Gén_14:1días de Amrafel r de Sinar, Arioc rH4428
+- Gén_14:1Quedorlaomer r de Elam, y Tidal r deH4428
+- Gén_14:2éstos...guerra contra Bera r de SodomaH4428
+- Gén_14:2Birsa r de Gomorra, contra Sinab r deH4428
+- Gén_14:2Semeber r de Zeboim, y contra el r deH4428
+- Gén_14:5vino...y los r que estaban de su parteH4428
+- Gén_14:8el r de Sodoma, el r de Gomorra, el rH4428
+- Gén_14:8de Adma, el r de Zeboim y el r de BelaH4428
+- Gén_14:9esto es, contra Quedorlaomer r de ElamH4428
+- Gén_14:9Tidal r de Goim, Amrafel r de Sinar, yH4428
+- Gén_14:9Arioe r de Elasari cuatro r contra cincoH4428
+- Gén_14:10huyeron el r de Sodoma y el de GomorraH4428
+- Gén_14:17volvía de la derrota de...y de los r queH4428
+- Gén_14:17salió...r de Sodoma a recibirlo al valleH4428
+- Gén_14:17al valle de Saye, que es el Valle del RH4428
+- Gén_14:18Melquisedec, r de Salem y sacerdote delH4428
+- Gén_14:21el r de Sodonia dijo a Abram: Dame lasH4428
+- Gén_14:22y respondió Abram al r de Sodoma: HeH4428
+- Gén_17:6haré naciones de ti, y r saldrán de tiH4428
+- Gén_17:16ser madre...r de pueblos vendrán de ellaH4428
+- Gén_20:2Abimelec r de Gerar envió y tomó a SaraH4428
+- Gén_26:1a Abimelec r de los filisteos, en GerarH4428
+- Gén_26:8Abimelec, r de los filisteos, mirando porH4428
+- Gén_35:11una nación y...y r saldrán de tus lomosH4428
+- Gén_36:31los r que reinaron en la tierra de EdomH4428
+- Gén_36:31que reinase r sobre los hijos de IsraelH4428
+- Gén_39:20cárcel, donde estaban los presos del rH4428
+- Gén_40:1el copero del r y...contra su señor el rH4428
+- Gén_40:5el copero y el panadero del r de EgiptoH4428
+- Gén_40:20r hizo banquete a todos sus sirvientes
+- Gén_41:46fue presentado delante de Faraón r deH4428
+- Gén_49:20el pan de Aser...él dará deleites al rH4428
+- Éxo_1:8se levantó sobre Egipto un nuevo r queH4428
+- Éxo_1:15habló el r de Egipto a las parteras deH4428
+- Éxo_1:17y no hicieron como les mandó el r, sinoH4428
+- Éxo_1:18r de Egipto hizo llamar a las parterasH4428
+- Éxo_2:23después de...días murió el r de EgiptoH4428
+- Éxo_3:18irás tú, y los ancianos de Israel, al rH4428
+- Éxo_3:19yo sé que el r de Egipto no os dejará irH4428
+- Éxo_5:4r de Egipto les dijo: Moisés y Aarón, ¿porH4428
+- Éxo_6:11y habla a Faraón r de Egipto, que dejeH4428
+- Éxo_6:13mandamiento...y para Faraón r de EgiptoH4428
+- Éxo_6:27estos son los que hablaron a Faraón r deH4428
+- Éxo_6:29di a Faraón r de Egipto todas las cosasH4428
+- Éxo_14:5dado aviso al r de Egipto, que el puebloH4428
+- Éxo_14:8endureció Jehová el corazón de Faraón rH4428
+- Núm_20:14embajadores al r de Edom desde CadesH4428
+- Núm_21:1cananeo, el r de Arad, que habitaba enH4428
+- Núm_21:21embajadores a Sehón r de los amorreosH4428
+- Núm_21:26Hesbón era la ciudad de Sehón r de losH4428
+- Núm_21:26tenido guerra antes con el r de MoabH4428
+- Núm_21:29en huida...por Sebón r de los amorreosH4428
+- Núm_21:33salió contra ellos Og r de Basán, él yH4428
+- Núm_21:34harás de él como hiciste de Sehón r deH4428
+- Núm_22:4Balac hijo de...era entonces r de MoabH4428
+- Núm_22:10Balac...r de Moab, ha enviado a decirmeH4428
+- Núm_23:7dijo: De Aram me trajo Balac, r de MoabH4428
+- Núm_23:21Dios está con él, y júbilo de r en élH4428
+- Núm_24:7enaltecerá su r más que Agag, y su reinoH4428
+- Núm_31:8mataron, los r de Madián, Evi, RequemH4428
+- Núm_31:8mataron...cinco r de Madián; también aH4428
+- Núm_32:33el reino de Sehón r amorreo...de Og r deH4428
+- Núm_33:40el cananeo, r de Arad, que habitaba enH4428
+- Deu_1:4que derrotó a Sebón r de los amorreosH4428
+- Deu_1:4a Og r de Basán que habitaba en AstarotH4428
+- Deu_2:24aquí he entregado en tu mano a Sehón rH4428
+- Deu_2:26y envié mensajeros...a Sehón r de HesbónH4428
+- Deu_2:30Sehón r de Hesbón no quiso...pasásemosH4428
+- Deu_3:1nos salió al encuentro Og r de Basán paraH4428
+- Deu_3:2y harás con él como hiciste con Sehón rH4428
+- Deu_3:6las destruimos, como...a Sehón r de HesbónH4428
+- Deu_3:8tomamos...de manos de los dos r amorreosH4428
+- Deu_3:11Og r de Basán había quedado del resto deH4428
+- Deu_3:21lo que...Dios ha hecho a aquellos dos rH4428
+- Deu_4:46en la tierra de Sehón r de los amorreosH4428
+- Deu_4:47poseyeron su tierra, y la tierra de Og rH4428
+- Deu_4:47dos r...estaban de este lado del JordánH4428
+- Deu_7:8y os ha rescatado...de Faraón r de EgiptoH4428
+- Deu_7:24entregará sus r en tu mano...destruirásH4428
+- Deu_11:3obras que hizo en...a Faraón r de EgiptoH4428
+- Deu_17:14pondré un r sobre mí, como todas lasH4428
+- Deu_17:15pondrías por r...que Jehová...escogiereH4428
+- Deu_17:15de entre tus hermanos pondréis r sobreH4428
+- Deu_28:36te llevará a ti, y al r que hubieresH4428
+- Deu_29:7y salieron Sehón r de Hesbón y Og r deH4428
+- Deu_31:4con Sehón y con Og, r de los amorreosH4428
+- Deu_33:5fue r en Jesurún...las tribus de IsraelH4428
+- Jos_2:2dado aviso al r de Jericó, diciendoH4428
+- Jos_2:3el r...envió a decir a Rahab: Saca a losH4428
+- Jos_2:10lo que habéis hecho a los dos r de losH4428
+- Jos_5:1todos los r de los amorreos...oyeron comoH4428
+- Jos_5:1r de los cananeos que estaban cerca delH4428
+- Jos_6:2entregado en tu mano a Jericó y a su rH4428
+- Jos_8:1he entregado en tu mano al r de Hai, a suH4428
+- Jos_8:2y Hai ya su r...hiciste a Jericó y a su rH4428
+- Jos_8:14viéndolo el r de Hai, él y su pueblo seH4428
+- Jos_8:23tomaron vivo al r de Hai, y lo trajeronH4428
+- Jos_8:29al r de Hai lo colgó de un madero hastaH4428
+- Jos_9:1cuando oyeron...r que estaban a este ladoH4428
+- Jos_9:10lo que hizo a los dos r de los amorreosH4428
+- Jos_9:10a Sehón r de Hesbón, y a Og r de BasánH4428
+- Jos_10:1cuando Adonisedec r de Jerusalén oyó queH4428
+- Jos_10:1Jericó y a su r, así hizo a Hai y a su rH4428
+- Jos_10:3Adonisedec r de Jerusalén envió a HohamH4428
+- Jos_10:3envió a Hoham r de Hebrón, a Piream r deH4428
+- Jos_10:3Jafía r de Laquis y a Debir r de EglónH4428
+- Jos_10:5y 5 r de los amorreos...el r de JerusalénH4428
+- Jos_10:5el r de Hebrón, el r de Jarmut, el r deH4428
+- Jos_10:5y el r de Eglón, se juntaron y subieronH4428
+- Jos_10:6todos los r de los amorreos...han unidoH4428
+- Jos_10:16los cinco r huyeron, y se escondieronH4428
+- Jos_10:17cinco r habían sido hallados escondidosH4428
+- Jos_10:22abrid...cueva, y sacad...a esos cinco rH4428
+- Jos_10:23cinco r...r de Jerusalén...r de HebrónH4428
+- Jos_10:23r de Jarmut...r de Laquis...r de EglónH4428
+- Jos_10:24Poned vuestros pies sobre...de estos rH4428
+- Jos_10:28día tomó Josué a Maceda...y mató a su rH4428
+- Jos_10:28hizo al r de Maceda como...r de JericóH4428
+- Jos_10:30Jehová la entregó...y a su r en manos deH4428
+- Jos_10:30e hizo a su r de...como...al r de JericóH4428
+- Jos_10:33r de Gezer subió en ayuda de Laquis; masH4428
+- Jos_10:37la hirieron a filo de espada, a su r y aH4428
+- Jos_10:39tomó, y a su r...y a todas sus ciudadesH4428
+- Jos_10:39Libna y a su r, así...a Debir y a su rH4428
+- Jos_10:40hirió...y a todos sus r...sin dejar nadaH4428
+- Jos_10:42todos estos r y...tomó Josué de una vezH4428
+- Jos_11:1cuando oyó esto Jabín r de Hazor, envióH4428
+- Jos_11:1Jabín...envió mensaje a Jobab r de MadónH4428
+- Jos_11:1mensaje...al r de Simrón, al r de AcsafH4428
+- Jos_11:2y a los r que estaban en la región delH4428
+- Jos_11:5todos estos r se reunieron, y vinieronH4428
+- Jos_11:10tomó...a Hazor, y mató a espada a su rH4428
+- Jos_11:12las ciudades de aquellos r, y a...los rH4428
+- Jos_11:17tomó...todos sus r, y los hirió y matóH4428
+- Jos_11:18mucho tiempo tuvo guerra Josué con, rH4428
+- Jos_12:1estos son los r...que...Israel derrotaronH4428
+- Jos_12:2Sehón r de los...que habitaba en HesbónH4428
+- Jos_12:4el territorio de Og r de Basán, que habíaH4428
+- Jos_12:5mitad de Galaad, territorio de Sehón rH4428
+- Jos_12:7r de la tierra que derrotaron Josué y losH4428
+- Jos_12:9r de Jericó, tino: el r de Hai, que estáH4428
+- Jos_12:10el r de Jerusalén, otro; el r de HebrónH4428
+- Jos_12:11r de Jarmut, otro; el r de Laquis, otroH4428
+- Jos_12:12el r de Eglón, otro; el r de Gezer, otroH4428
+- Jos_12:13r de Debir, otro; el r de Geder, otroH4428
+- Jos_12:14el r de Horma, otro; el r de Arad, otroH4428
+- Jos_12:15r de Libna, otro; el r de Adulam, otroH4428
+- Jos_12:16r de Maceda, otro; el r de Bet-el, otroH4428
+- Jos_12:17el r de Tapúa, otro; el r de Hefer, otroH4428
+- Jos_12:19el r de Afee, otro; el r de Sarón, otroH4428
+- Jos_12:19el r de Madón, otro; el r de Hazor, otroH4428
+- Jos_12:20r de Simron-merón...el r de Acsaf, otroH4428
+- Jos_12:21el r de Taanac, otro; el r de MeguidoH4428
+- Jos_12:22r de Cedes, otro; el r de Jocneam, otroH4428
+- Jos_12:23r de Dor...otro; el r de Goim en GilgalH4428
+- Jos_12:24el r de Tirsa, otro; treinta y un r porH4428
+- Jos_13:10las ciudades de Sehón r de los amorreosH4428
+- Jos_13:21todo el reino de Sehón r de los amorreosH4428
+- Jos_13:27resto del reino de Sehón r de HesbónH4468
+- Jos_13:30el reino de Og r de Basán, y todas lasH4428
+- Jos_24:9se levantó Balac...r de los moabitas, yH4428
+- Jos_24:12arrojaron...a los dos r de los amorreosH4428
+- Jue_1:7setenta r, cortados los pulgares deH4428
+- Jue_3:8los vendió en manos de...r de MesopotamiaH4428
+- Jue_3:10entregó en...a Cusan-risataim r de SiriaH4428
+- Jue_3:12y Jehová fortaleció a Eglón r de MoabH4428
+- Jue_3:14sirvieron...a Eglón r de los moabitas 18H4428
+- Jue_3:15enviaron con él un presente a Eglón r deH4428
+- Jue_3:17y entregó el presente a Eglón r de MoabH4428
+- Jue_3:19dijo: R, una palabra secreta tengo queH4428
+- Jue_3:24vinieron los siervos de, r, los cuales
+- Jue_4:2los vendió en mano de Jabín r de CanaánH4428
+- Jue_4:17había paz entre Jabín r de Hazor y laH4428
+- Jue_4:23Así abatió Dios...a Jabín, r de CanaánH4428
+- Jue_4:24fue endureciéndose...contra Jabín r deH4428
+- Jue_5:3oíd, r...escuchad, oh príncipes; yo cantaréH4428
+- Jue_5:19vinieron r y pelearon...pelearon los r deH4428
+- Jue_8:5yo persigo a Zeba y Zalmuna, r de MadiánH4428
+- Jue_8:12y prendió a los dos r de Madián, Zeba yH4428
+- Jue_8:18eran ellos...cada uno parecía hijo de rH4428
+- Jue_8:26de púrpura que traían los r de MadiánH4428
+- Jue_9:6y fueron y eligieron a Abimelec por rH4428
+- Jue_9:8fueron una vez los árboles a elegir rH4428
+- Jue_9:15si en...me elegís por r sobre vosotrosH4428
+- Jue_9:16habéis procedido en hacer r a AbimelecH4427
+- Jue_9:18habéis puesto por r...Abimelec hijo deH4427
+- Jue_11:12Jefté mensajeros al r de los amonitasH4428
+- Jue_11:13el r de los amonitas respondió a losH4428
+- Jue_11:14volvió a enviar otros mensajeros al rH4428
+- Jue_11:17Israel envió mensajeros al r de EdomH4428
+- Jue_11:17pasar...pero el r de Edom no los escuchóH4428
+- Jue_11:17también al r de Moab, el cual tampocoH4428
+- Jue_11:19a Sehón r de los amorreos, r de HesbónH4428
+- Jue_11:25tú...que Bulac hijo de Zipor, r de Moab?[[H4428]]
+- Jue_11:28el r de...Amón no atendió a las razonesH4428
+- Jue_17:6; Jue_18:1aquellos días no había r en IsraelH4428
+- Jue_19:1en aquellos días, cuando no había r enH4428
+- Jue_21:25no había r en Israel; cada uno hacía loH4428
+- 1Sa_2:10poder a su R!...y exaltará el poderíoH4428
+- 1Sa_8:5constitúyenos ahora un r que nos juzgueH4428
+- 1Sa_8:6no agradó a Samuel...que dijeron: Danos un rH4428
+- 1Sa_8:9y muéstrales como les tratará el r queH4428
+- 1Sa_8:10Jehová al pueblo que le había pedido rH4428
+- 1Sa_8:11así hará el r que reinará sobre vosotrosH4428
+- 1Sa_8:18clamaréis...a causa de vuestro r que osH4428
+- 1Sa_8:19dijo: No, sino...habrá r sobre nosotrosH4428
+- 1Sa_8:20naciones, y nuestro r nos gobernará, yH4428
+- 1Sa_8:22dijo a...Oye su voz, y pon r sobre ellosH4428
+- 1Sa_10:19habéis dicho...sino pon r sobre nosotrosH4428
+- 1Sa_10:24el pueblo clamo...diciendo: ¡Viva el r![[H4428]]
+- 1Sa_11:15invistieron allí a Saúl por r delanteH4427
+- 1Sa_12:1yo he oído vuestra voz...y os he puesto rH4428
+- 1Sa_12:2aquí, vuestro r va delante de vosotrosH4428
+- 1Sa_12:9y él los vendió...en mano del r de MoabH4428
+- 1Sa_12:12que Nahas r de los hijos de Amón veníaH4428
+- 1Sa_12:12que ha de reinar sobre nosotros un rH4428
+- 1Sa_12:12que Jehová vuestro Dios era vuestro rH4428
+- 1Sa_12:13aquí el r...veis que Jehová ha puesto rH4428
+- 1Sa_12:14si tanto vosotros como el r...servís aH4428
+- 1Sa_12:17maldad que...pidiendo para vosotros rH4428
+- 1Sa_12:19hemos afiadido este mal de pedir r paraH4428
+- 1Sa_12:25mal, vosotros y vuestro r pereceréisH4428
+- 1Sa_14:47Saúl hizo guerra...contra los r de SobaH4428
+- 1Sa_15:1Jehová me envió a que te ungiese por rH4428
+- 1Sa_15:8y tomó vivo a Agag r de Amalec, pero aH4428
+- 1Sa_15:11pesa haber puesto por r a Saúl, porqueH4428
+- 1Sa_15:17Jehová te ha ungido por r sobre Israel?[[H4428]]
+- 1Sa_15:20y fui a...y he traído a Agag r de AmalecH4428
+- 1Sa_15:23, 1Sa_15:26te ha desechado para que no seas rH4428
+- 1Sa_15:32traedme a Agag r de Amalec. Y Agag vinoH4428
+- 1Sa_15:35haber puesto a Saúl por r sobre IsraelH4427
+- 1Sa_16:1a Isaí...de sus hijos me he provisto de rH4428
+- 1Sa_17:25al que le venciere, el r le enriqueceráH4428
+- 1Sa_17:56tu alma, oh r, que no lo sé. Y el r dijoH4428
+- 1Sa_18:6para recibir al r Saúl, con cánticos deH4428
+- 1Sa_18:18¿quién soy yo...que yo sea yerno del r?[[H4428]]
+- 1Sa_18:22el r te ama, y...sé, pues, yerno del rH4428
+- 1Sa_18:23¿os parece...que es poco ser yerno del rH4428
+- 1Sa_18:25así a David: El r no desea la dote, sinoH4428
+- 1Sa_18:25tomada venganza de los enemigos del rH4428
+- 1Sa_18:26pareció bien la...para ser yerno del rH4428
+- 1Sa_18:27entregó todos al r...hacerse yerno del rH4428
+- 1Sa_19:4dijo: No peque el r contra...siervo DavidH4428
+- 1Sa_20:5yo acostumbro sentarme con el r a comerH4428
+- 1Sa_20:24nueva luna, se sentó el r a comer panH4428
+- 1Sa_20:25el r que se sentó en su silla, como solíaH4428
+- 1Sa_20:29por esto...no ha venido a la mesa del rH4428
+- 1Sa_21:2el r me encomendó un asunto, y me dijoH4428
+- 1Sa_21:8por cuanto la orden del r era apremianteH4428
+- 1Sa_21:10David...huyó..y se fue a Aquis r de GatH4428
+- 1Sa_21:11¿no es éste David, el r de la tierra?[[H4428]]
+- 1Sa_21:12y David...tuvo gran temor de Aquis r deH4428
+- 1Sa_22:3y se fue David de...y dijo al r de MoabH4428
+- 1Sa_22:4los trajo, pues, a la presencia del rH4428
+- 1Sa_22:11el r envió por...y todos vinieron al rH4428
+- 1Sa_22:14entonces Abimelec respondió al r, yH4428
+- 1Sa_22:14yerno también del r, que sirve a tusH4428
+- 1Sa_22:15culpe el r de cosa alguna a su siervoH4428
+- 1Sa_22:16el r dijo: Sin duda morirás, AhimelecH4428
+- 1Sa_22:17dijo el r a la gente de su guardia queH4428
+- 1Sa_22:17los siervos del r no quisieron...matarH4428
+- 1Sa_22:18r a Doeg: Vuelve tú, y arremete contraH4428
+- 1Sa_23:20por tanto, r, desciende pronto ahoraH4428
+- 1Sa_23:20nosotros lo entregaremos en la...del rH4428
+- 1Sa_24:8¡mi señor el r!...Saúl miró hacia atrásH4428
+- 1Sa_24:14¿tras quién ha salido el r de Israel?[[H4428]]
+- 1Sa_25:36Nabal...en su casa como banquete de rH4428
+- 1Sa_26:14dijo: ¿Quién eres tú que gritas al r?[[H4428]]
+- 1Sa_26:15¿por qué, pues, no has guardado al rH4428
+- 1Sa_26:15uno...ha entrado a matar a tu señor el rH4428
+- 1Sa_26:16mira pues...dónde está la lanza del rH4428
+- 1Sa_26:17y David respondió: Mi voz es, r señorH4428
+- 1Sa_26:19ruego...que el r mi señor oiga ahora lasH4428
+- 1Sa_26:20ha salido el r de...a buscar una pulgaH4428
+- 1Sa_26:22he aquí la lanza del r; pase acá uno deH4428
+- 1Sa_27:2se pasó a Aquis hijo de Maoc, r de GatH4428
+- 1Sa_27:6Sielag vino a ser de los r de Judá hastaH4428
+- 1Sa_28:13el r le dijo: No temas...¿Qué has visto?[[H4428]]
+- 1Sa_29:3¿no es éste David, el siervo de Saúl rH4428
+- 1Sa_29:8contra los enemigos de mi señor el r?[[H4428]]
+- 2Sa_2:4ungieron allí a David por r sobre laH4428
+- 2Sa_2:7de Judá me han ungido por r sobre ellosH4428
+- 2Sa_2:9y lo hizo r sobre Galaad, sobre GesuriH4427
+- 2Sa_3:3Absalón hijo de Maaca, hija de Talmai rH4428
+- 2Sa_3:17ya tiempo procurabais que David fuese rH4428
+- 2Sa_3:21y juntaré a mi señor el r a todo IsraelH4428
+- 2Sa_3:23Abner hijo de Ner ha venido al r, y élH4428
+- 2Sa_3:24vino al r, y le dijo: ¿Qué has hecho?[[H4428]]
+- 2Sa_3:31y el r David iba detrás del féretroH4428
+- 2Sa_3:32y alzando el r su voz, lloró junto alH4428
+- 2Sa_3:33y endechando el r al mismo Abner, decíaH4428
+- 2Sa_3:36todo lo que el r hacía agradaba a todoH4428
+- 2Sa_3:37que no había procedido del r el matar aH4428
+- 2Sa_3:38dijo el r a sus siervos: ¿No sabéis queH4428
+- 2Sa_3:39y yo soy débil hoy, aunque ungido r; yH4428
+- 2Sa_4:8al r: He aquí la cabeza de Is-boset hijoH4428
+- 2Sa_4:8Jehová ha vengado hoy a mi señor el r, deH4428
+- 2Sa_5:3vinieron...al r...el r David hizo pacto conH4428
+- 2Sa_5:3y ungieron a David por r sobre IsraelH4428
+- 2Sa_5:6marchó el r con sus hombres a JerusalénH4428
+- 2Sa_5:11Hiram r...Tiro envió embajadores a DavidH4428
+- 2Sa_5:12Jehová le había confirmado por r sobreH4428
+- 2Sa_5:17David había sido ungido...r sobre IsraelH4428
+- 2Sa_6:12dado aviso al r David, diciendo: JehováH4428
+- 2Sa_6:16que Mical...vio al r David que saltabaH4428
+- 2Sa_6:20¡cuán honrado ha quedado...el r de IsraelH4428
+- 2Sa_7:1que cuando ya el r habitaba en su casaH4428
+- 2Sa_7:2dijo el r al profeta Natán: Mira ahoraH4428
+- 2Sa_7:3y Natán dijo al r: Anda, y haz todo loH4428
+- 2Sa_7:18entró el r...se puso delante de JehováH4428
+- 2Sa_8:3derrotó...a Hadad-ezer...r de Soba, al irH4428
+- 2Sa_8:5para dar ayuda a Hadad-ezer r de SobaH4428
+- 2Sa_8:8de Beta...tomó el r...cantidad de bronceH4428
+- 2Sa_8:9oyendo Toi r de Hamat, que David habíaH4428
+- 2Sa_8:10envió Toi a Joram su hijo al r DavidH4428
+- 2Sa_8:11los cuales el r David dedicó a JehováH4428
+- 2Sa_8:12del botín de Hadad-ezer hijo...r de SobaH4428
+- 2Sa_9:2el r le dijo: ¿Eres tú Siba?...Tu siervoH4428
+- 2Sa_9:3el r le dijo: ¿No ha quedado nadie de laH4428
+- 2Sa_9:3y Siba respondió al r: Aún ha quedado unH4428
+- 2Sa_9:4entonces el r le preguntó: ¿Dónde está?[[H4428]]
+- 2Sa_9:4y Siba respondió al r: He aquí, está enH4428
+- 2Sa_9:5entonces envió el r David, y le trajo deH4428
+- 2Sa_9:9el r llamó a Siba...y le dijo: Todo lo queH4428
+- 2Sa_9:11respondió Siba al r: Conforme a todo loH4428
+- 2Sa_9:11todo lo que ha mandado...el r a su siervoH4428
+- 2Sa_9:11Mefi-boset, dijo el r, comerá a mi mesaH4428
+- 2Sa_9:11a mi mesa, como uno de los hijos del rH4428
+- 2Sa_9:13moraba Mefí-boset...comía...la mesa del rH4428
+- 2Sa_10:1que murió el r de los hijos de Amón, yH4428
+- 2Sa_10:5el r mandó...Quedaos en Jericó hasta queH4428
+- 2Sa_10:6tomaron...del r de Maaca mil hombres, yH4428
+- 2Sa_10:19todos los r que ayudaban a Hadad-ezerH4428
+- 2Sa_11:1el tiempo que salen los r a la guerraH4428
+- 2Sa_11:8saliendo Urías de la casa del r, le fueH4428
+- 2Sa_11:9durmió a la puerta de la casa del r conH4428
+- 2Sa_11:19acabes de contar al r...los asuntos deH4428
+- 2Sa_11:20el r comenzare a enojarse, y te dijereH4428
+- 2Sa_11:24murieron algunos de los siervos del rH4428
+- 2Sa_12:7te ungí por r sobre Israel, y te libréH4428
+- 2Sa_12:30quitó la corona de la cabeza de su rH4428
+- 2Sa_13:4hijo del r, ¿por qué de día en día vasH4428
+- 2Sa_13:6se acostó...Amnón...y vino el r a visitarleH4428
+- 2Sa_13:6dijo Amnón al r: Yo te ruego que vengaH4428
+- 2Sa_13:13hables al r, que él no me negará a tiH4428
+- 2Sa_13:18que vestían las hijas vírgenes de los rH4428
+- 2Sa_13:21luego que el r David oyó todo esto, seH4428
+- 2Sa_13:23convidó Absalón a todos los hijos del rH4428
+- 2Sa_13:24vino Absalón al r, y dijo: He aquí, tuH4428
+- 2Sa_13:25respondió el r a Absalón: No, hijo míoH4428
+- 2Sa_13:26el r le respondió: ¿Para qué ha de irH4428
+- 2Sa_13:27dejó ir con él...a todos los hijos del rH4428
+- 2Sa_13:29se levantaron todos los hijos del r, yH4428
+- 2Sa_13:30ha dado muerte a todos los hijos del rH4428
+- 2Sa_13:32no diga...han dado muerte a...hijos del rH4428
+- 2Sa_13:33no ponga mi señor el r en su corazónH4428
+- 2Sa_13:33todos los hijos del r han sido muertosH4428
+- 2Sa_13:35dijo...al r: He allí los hijos del r queH4428
+- 2Sa_13:36he aquí los hijos del r que vinieronH4428
+- 2Sa_13:36el mismo r y todos sus siervos lloraronH4428
+- 2Sa_13:37Absalón huyó...fue a Talmai...r de GesurH4428
+- 2Sa_13:39el r David deseaba ver a Absalón; puesH4428
+- 2Sa_14:1corazón del r se inclinaba por AbsalónH4428
+- 2Sa_14:3y entrarás al r, y le hablarás de estaH4428
+- 2Sa_14:4entró...al r, y postrándose en tierraH4428
+- 2Sa_14:4y postrándose en...dijo: ¡Socorro, oh rH4428
+- 2Sa_14:5el r le dijo: ¿Qué tienes? Y...respondióH4428
+- 2Sa_14:8el r dijo a la mujer: Vete a tu casa, yH4428
+- 2Sa_14:9mujer...dijo al r: R señor mío, la maldadH4428
+- 2Sa_14:9sea...mas el r y su trono sean sin culpaH4428
+- 2Sa_14:10y el r dijo: Al que hablare contra tiH4428
+- 2Sa_14:11oh r, que te acuerdes de Jehová tu DiosH4428
+- 2Sa_14:12que tu sierva hable...a mi señor el rH4428
+- 2Sa_14:13porque hablando el r esta palabra, seH4428
+- 2Sa_14:13el r no hace volver a su desterradoH4428
+- 2Sa_14:15yo venido ahora para decir esto al r miH4428
+- 2Sa_14:15hablaré ahora al r, quizá él hará lo queH4428
+- 2Sa_14:16el r oirá, para librar a su sierva deH4428
+- 2Sa_14:17consuelo la respuesta de mi señor el rH4428
+- 2Sa_14:17mi señor el r es como un ángel de DiosH4428
+- 2Sa_14:18y la mujer dijo: Hable mi señor el rH4428
+- 2Sa_14:19y el r dijo: ¿No anda la mano de JoabH4428
+- 2Sa_14:19vive tu alma, r señor mío, que no hayH4428
+- 2Sa_14:19de todo lo que mi señor el r ha habladoH4428
+- 2Sa_14:21el r dijo a Joab: He aquí yo hago estoH4428
+- 2Sa_14:22después que bendijo al r, dijo: Hoy haH4428
+- 2Sa_14:22r señor mío, pues ha hecho el r lo queH4428
+- 2Sa_14:24r dijo: Váyase a su casa, y no vea miH4428
+- 2Sa_14:24, 2Sa_14:28Absalón...no vio el rostro del rH4428
+- 2Sa_14:29mandó Absalón por Joab...enviarlo al rH4428
+- 2Sa_14:32el fin de enviarte al r para decirleH4428
+- 2Sa_14:32vea yo ahora el rostro del r; y si hayH4428
+- 2Sa_14:33vino, pues, Joab al r, y...lo hizo saberH4428
+- 2Sa_14:33llamó a Absalón, el cual vino al r, eH4428
+- 2Sa_14:33se inclinó...delante del r; y el r besó aH4428
+- 2Sa_15:2pleito y venía al r a juicio...le llamabaH4428
+- 2Sa_15:3no tienes quien te oiga de parte del rH4428
+- 2Sa_15:6hacía con...los israelitas que venían al rH4428
+- 2Sa_15:7Absalón dijo al r...me permitas que vayaH4428
+- 2Sa_15:9el r le dijo: Vé en paz...Y él se levantóH4428
+- 2Sa_15:15los siervos del r dijeron al r: He aquíH4428
+- 2Sa_15:15a todo lo que nuestro señor el r decidaH4428
+- 2Sa_15:16el r entonces salió, con toda su familiaH4428
+- 2Sa_15:16dejó el r diez mujeres concubinas, paraH4428
+- 2Sa_15:17y salió, pues, el r con todo el puebloH4428
+- 2Sa_15:18y todos los geteos...iban delante del rH4428
+- 2Sa_15:19el r a Itai geteo: ¿Para qué vienes túH4428
+- 2Sa_15:19vuélvete y quédate con el r; porque túH4428
+- 2Sa_15:21respondió Itai al r, Vive Dios, y viveH4428
+- 2Sa_15:21y vive mi señor el r, que...o para muerteH4428
+- 2Sa_15:21mi señor el r estuviere, allí estaráH4428
+- 2Sa_15:23asimismo pasó el r, y todo el pueblo alH4428
+- 2Sa_15:25el r a Sadoc: Vuelve el arca de Dios aH4428
+- 2Sa_15:27además el r...¿No eres tú el vidente?[[H4428]]
+- 2Sa_15:34y dijeres...R, yo seré tu siervo; comoH4428
+- 2Sa_15:35lo que oyeres en la casa del r, se loH4428
+- 2Sa_16:2dijo el r a Siba: ¿Qué es esto? Y SibaH4428
+- 2Sa_16:2asnos...para que monte la familia del rH4428
+- 2Sa_16:3dijo el r: ¿Dónde...Siba respondió al rH4428
+- 2Sa_16:4el r dijo a Siba: He aquí, sea tuyo todoH4428
+- 2Sa_16:4r señor mío, halle yo gracia delante deH4428
+- 2Sa_16:5vino el r David hasta Bahurim; y he aquíH4428
+- 2Sa_16:6piedras contra...los siervos del r DavidH4428
+- 2Sa_16:9dijo al r: ¿Por qué maldice este perroH4428
+- 2Sa_16:9maldice...perro muerto a mi señor el r?[[H4428]]
+- 2Sa_16:10r respondió: ¿Qué tengo yo con vosotrosH4428
+- 2Sa_16:14el r y...el pueblo...llegaron fatigadosH4428
+- 2Sa_16:16vino...dijo Husai: Viva el r, viva el r![[H4428]]
+- 2Sa_17:2todo el pueblo...huirá, y mataré al r soloH4428
+- 2Sa_17:16no sea destruido el r y todo el puebloH4428
+- 2Sa_17:17fueron y...lo hicieron saber al r DavidH4428
+- 2Sa_17:21y dieron aviso al r David, diciéndoleH4428
+- 2Sa_18:2dijo el r al pueblo: Yo también saldréH4428
+- 2Sa_18:4el r les dijo: Yo haré lo que bien osH4428
+- 2Sa_18:4se puso el r a la entrada de la puertaH4428
+- 2Sa_18:5y el r mandó a Joab, a Abisal y a ItaiH4428
+- 2Sa_18:5pueblo oyó cuando dio el r orden acercaH4428
+- 2Sa_18:12no extendería yo...contra el hijo del rH4428
+- 2Sa_18:12cuando el r te mandó...diciendo: MiradH4428
+- 2Sa_18:13que al r nada se le esconde, y tú mismoH4428
+- 2Sa_18:18erigido una columna...en el valle del rH4428
+- 2Sa_18:19¿correré...y daré al r las nuevas de queH4428
+- 2Sa_18:20nueva, porque el hijo del r ha muertoH4428
+- 2Sa_18:21vé tú, y di al r lo que has visto. Y elH4428
+- 2Sa_18:25atalaya dio...voces...lo hizo saber al rH4428
+- 2Sa_18:25el r dijo: Si viene solo, buenas nuevasH4428
+- 2Sa_18:26y el r dijo: Este también es mensajeroH4428
+- 2Sa_18:27respondió el r: Ese es hombre de bienH4428
+- 2Sa_18:28Ahimaas dijo en alta voz al r: PazH4428
+- 2Sa_18:28inclinó a tierra delante del r, y dijoH4428
+- 2Sa_18:28habían levantado sus manos contra...el rH4428
+- 2Sa_18:29el r dijo: ¿El joven Absalón está bien?[[H4428]]
+- 2Sa_18:29cuando envió Joab al siervo del r y aH4428
+- 2Sa_18:30el r dijo: Pasa, y ponte allí. Y él pasóH4428
+- 2Sa_18:31reciba nuevas mi señor el r, que hoyH4428
+- 2Sa_18:32el r...dijo al etíope: ¿El joven AbsalónH4428
+- 2Sa_18:32como aquel...sean los enemigos de...el rH4428
+- 2Sa_18:33el r se turbó, y subió a la sala de laH4428
+- 2Sa_19:1que el r llora, y hace duelo por AbsalónH4428
+- 2Sa_19:2oyó decir...el r tenía dolor por su hijoH4428
+- 2Sa_19:4r, cubierto el rostro, clamaba en altaH4428
+- 2Sa_19:5Joab vino al r en la casa, y dijo: HoyH4428
+- 2Sa_19:8se levantó el r y se sentó a la puertaH4428
+- 2Sa_19:8he aquí el r está sentado a la puertaH4428
+- 2Sa_19:8vino todo el pueblo delante del r; peroH4428
+- 2Sa_19:9el r nos ha librado de mano de...enemigosH4428
+- 2Sa_19:10estáis callados...de hacer volver al r?[[H4428]]
+- 2Sa_19:11el r David envió a los sacerdotes SadocH4428
+- 2Sa_19:11los postreros en hacer volver el r a suH4428
+- 2Sa_19:11ha venido al r para hacerle volver a suH4428
+- 2Sa_19:12seréis...postreros en hacer volver al r?[[H4428]]
+- 2Sa_19:14para que enviasen a decir al r: VuelveH4428
+- 2Sa_19:15volvió...el r, y vino hasta el JordánH4428
+- 2Sa_19:15y Judá vino a Gilgal para recibir al rH4428
+- 2Sa_19:16y descendió con...a recibir al r DavidH4428
+- 2Sa_19:17cuales pasaron el Jordán delante del rH4428
+- 2Sa_19:18para pasar a la familia del r, y paraH4428
+- 2Sa_19:18Simei hijo de...se postró delante del rH4428
+- 2Sa_19:19al r: No me culpe mi señor de iniquidadH4428
+- 2Sa_19:19en que mi señor el r salió de JerusalénH4428
+- 2Sa_19:19males...no los guarde el r en su corazónH4428
+- 2Sa_19:20y he venido...a recibir a mi señor el rH4428
+- 2Sa_19:23dijo el r...No morirás. Y el r se lo juróH4428
+- 2Sa_19:24Mefi-boset...descendió a recibir al rH4428
+- 2Sa_19:24desde el día en que el r salió hasta elH4428
+- 2Sa_19:25vino él...a recibir al r, el r le dijoH4428
+- 2Sa_19:26r señor mío, mi siervo me engañó; puesH4428
+- 2Sa_19:26un asno, y montaré en él, e iré al rH4428
+- 2Sa_19:27calumniado a tu siervo delante de...el rH4428
+- 2Sa_19:27mi señor el r es como un ángel de DiosH4428
+- 2Sa_19:28era digna de muerte delante de...el rH4428
+- 2Sa_19:28¿qué derecho...aún para clamar más al rH4428
+- 2Sa_19:29el r le dijo: ¿Para qué más palabras?[[H4428]]
+- 2Sa_19:30Mefi-boset dijo al r: Deja que él lasH4428
+- 2Sa_19:30pues que mi señor el r ha vuelto en pazH4428
+- 2Sa_19:31Barzilai...pasó el Jordán con el r, paraH4428
+- 2Sa_19:32él había dado provisiones al r cuandoH4428
+- 2Sa_19:33el r dijo a Barzilai: Pasa conmigo, yH4428
+- 2Sa_19:34Barzilai dijo al r: ¿Cuántos años másH4428
+- 2Sa_19:34para que yo suba con el r a Jerusalén?[[H4428]]
+- 2Sa_19:35de ser...una carga para mi señor el r?[[H4428]]
+- 2Sa_19:36un poco más allá del Jordán con el rH4428
+- 2Sa_19:36por qué me ha de dar el r...recompensa?[[H4428]]
+- 2Sa_19:37que pase él con mi señor el r, y hazH4428
+- 2Sa_19:38y el r dijo: Pues pase conmigo QuimamH4428
+- 2Sa_19:39el r hubo...pasado, el r besó a BarzilaiH4428
+- 2Sa_19:40r...pasó a Gilgal, y con él pasó QuimamH4428
+- 2Sa_19:40todo el pueblo de Judá acompañaba al rH4428
+- 2Sa_19:41los hombres de Israel vinieron al rH4428
+- 2Sa_19:41han hecho pasar el Jordán al r y a suH4428
+- 2Sa_19:42Israel: Porque el r es nuestro parienteH4428
+- 2Sa_19:42mas...¿hemos nosotros comido algo del rH4428
+- 2Sa_19:43tenemos en el r diez partes, y en elH4428
+- 2Sa_19:43respecto de hacer volver a nuestro r?[[H4428]]
+- 2Sa_20:2mas los de Judá siguieron a su r desdeH4428
+- 2Sa_20:3tomó el r las diez mujeres concubinasH4428
+- 2Sa_20:4después dijo el r a Amasa: Convócame aH4428
+- 2Sa_20:21ha levantado su mano contra el r DavidH4428
+- 2Sa_20:22tocó...Y Joab se volvió al r a JerusalénH4428
+- 2Sa_21:2el r llamó a los gabaonitas, y les hablóH4428
+- 2Sa_21:5respondieron al r: De aquel hombre queH4428
+- 2Sa_21:6los ahorquemos...el r dijo: Yo los daréH4428
+- 2Sa_21:7perdonó el r a Mefi-boset...de JonatánH4428
+- 2Sa_21:8tomó el r a dos hijos de Rizpa hija deH4428
+- 2Sa_21:14hicieron todo lo que el r había mandadoH4428
+- 2Sa_22:51él salva gloriosamente a su r, y usaH4428
+- 2Sa_24:2dijo el r a Joab...Recorre ahora todasH4428
+- 2Sa_24:3Joab respondió al r: Añada Jehová tuH4428
+- 2Sa_24:3cien veces...y que lo vea mi señor el rH4428
+- 2Sa_24:3¿por qué se complace en esto mi...el r?[[H4428]]
+- 2Sa_24:4la palabra del r prevaleció sobre JoabH4428
+- 2Sa_24:4salió, pues, Joab, con...de delante del rH4428
+- 2Sa_24:9y Joab dio el censo del pueblo al rH4428
+- 2Sa_24:20Arauna...vio al r y a sus siervos queH4428
+- 2Sa_24:20inclinó delante del r rostro a tierraH4428
+- 2Sa_24:21dijo: ¿Por qué viene...el r a su siervo?[[H4428]]
+- 2Sa_24:22ofrezca...el r lo que bien le pareciereH4428
+- 2Sa_24:23todo esto, oh r, Arauna lo da al rH4428
+- 2Sa_24:23dijo Arauna al r: Jehová tu Dios te seaH4428
+- 2Sa_24:24el r dijo a Arauna: No, sino por precioH4428
+- 1Re_1:1r David era viejo y avanzado en díasH4428
+- 1Re_1:2busquen para mi señor el r...joven virgenH4428
+- 1Re_1:2para que esté delante del r y lo abrigueH4428
+- 1Re_1:2abrigue...entrará en calor mi señor el rH4428
+- 1Re_1:3a Abisag sunamita, y la trajeron al rH4428
+- 1Re_1:4ella abrigaba al r...el r nunca la conocióH4428
+- 1Re_1:9convidó a...hijos del r, y...siervos del rH4428
+- 1Re_1:13y entra al r David, y dile: R señor míoH4428
+- 1Re_1:14y estando tú aún hablando con el r, yoH4428
+- 1Re_1:15a la cámara del r; y el r era muy viejoH4428
+- 1Re_1:16hizo reverencia al r. Y el r dijo: ¿QuéH4428
+- 1Re_1:18Adonías reina, y tú...señor r...no lo sabesH4428
+- 1Re_1:19, 1Re_1:25convidado a todos los hijos del rH4428
+- 1Re_1:20r señor mío, los ojos de todo IsraelH4428
+- 1Re_1:20, 1Re_1:27sentar en el trono de mi señor el rH4428
+- 1Re_1:21cuando mi señor el r duerma con...padresH4428
+- 1Re_1:22mientras aún hablaba ella con el r, heH4428
+- 1Re_1:23dieron aviso al r, diciendo: He aquí elH4428
+- 1Re_1:23Natán...entró al r...postró delante del rH4428
+- 1Re_1:24y dijo Natán: R señor mío, ¿has dicho túH4428
+- 1Re_1:25y ha convidado a todos los hijos del rH4428
+- 1Re_1:25de él, y han dicho: ¡Viva el r Adonías![[H4428]]
+- 1Re_1:27¿es este...ordenado por mi señor el r, sinH4428
+- 1Re_1:28entonces el r...dijo: Llamadme a BetsabéH4428
+- 1Re_1:28ella entró...r, y se puso delante del rH4428
+- 1Re_1:29el r juró diciendo: Vive Jehová, que haH4428
+- 1Re_1:31ante el r...haciendo reverencia al r, dijoH4428
+- 1Re_1:31viva mi señor el r David para siempreH4428
+- 1Re_1:32el r David dijo: Llamadme al sacerdoteH4428
+- 1Re_1:32y ellos entraron a la presencia del rH4428
+- 1Re_1:33y el r les dijo: Tomad con vosotros losH4428
+- 1Re_1:34y allí lo ungirán...como r sobre IsraelH4428
+- 1Re_1:34trompeta, diciendo: ¡Viva el r Salomón![[H4428]]
+- 1Re_1:36Benaía hijo...respondió al r y dijo: AménH4428
+- 1Re_1:36así lo diga Jehová, Dios de mi señor el rH4428
+- 1Re_1:37que Jehová ha estado con mi señor el rH4428
+- 1Re_1:37mayor su trono que el...de mi señor el rH4428
+- 1Re_1:38montaron a Salomón en la mula del r, y loH4428
+- 1Re_1:39dijo todo el pueblo: ¡Viva el r Salomón![[H4428]]
+- 1Re_1:43y dijo...el r David ha hecho r a SalomónH4428
+- 1Re_1:44r ha enviado con él a...en la mula del rH4428
+- 1Re_1:45Sadoe y el...lo han ungido por r en GibónH4428
+- 1Re_1:47siervos del r han venido a bendecir...rH4428
+- 1Re_1:47haga mayor su...Y el r adoró en la camaH4428
+- 1Re_1:48r ha dicho así: Bendito sea Jehová DiosH4428
+- 1Re_1:51Adonías tiene miedo del r Salomón, puesH4428
+- 1Re_1:53envió el r...vino, y se inclinó ante el rH4428
+- 1Re_2:17dijo: Yo te ruego que hables al r SalomónH4428
+- 1Re_2:18Betsabé dijo: Bien...hablaré por ti a rH4428
+- 1Re_2:19vino Betsabé al r...Y el r se levantó aH4428
+- 1Re_2:20r le dijo: Pide, madre mía, que yo no teH4428
+- 1Re_2:22el r Salomón respondió...¿Por qué pidesH4428
+- 1Re_2:23el r Salomón juró por Jehová, diciendoH4428
+- 1Re_2:25el r...envió por mano de Benaía hijo deH4428
+- 1Re_2:26el r dijo al sacerdote Abiatar: Vete aH4428
+- 1Re_2:30el r ha dicho que salgas. Y él dijo: NoH4428
+- 1Re_2:30y Benaía volvió con esta respuesta al rH4428
+- 1Re_2:31r le dijo: Haz como él ha dicho; mátaleH4428
+- 1Re_2:35el r puso en su lugar a Benaía hijo deH4428
+- 1Re_2:35a Sadoc puso el r por sacerdote en lugarH4428
+- 1Re_2:36después envió el r e hizo venir a SimeiH4428
+- 1Re_2:38y Simei dijo al r: La palabra es buenaH4428
+- 1Re_2:38como el r...dicho, así lo hará tu siervoH4428
+- 1Re_2:39dos siervos...huyeron a Aquis...r de GatH4428
+- 1Re_2:42r envió e hizo venir a Simei, y le dijoH4428
+- 1Re_2:44dijo...el r a Simei: Tú sabes todo el malH4428
+- 1Re_2:45y el r Salomón será bendito, y el tronoH4428
+- 1Re_2:46el r mandó a Benaía...el cual salió y loH4428
+- 1Re_3:1Salomón hizo parentesco con Faraón r deH4428
+- 1Re_3:4e iba el r a Gabaón...aquél era el lugarH4428
+- 1Re_3:7me has puesto...por r en lugar de DavidH4427
+- 1Re_3:13que entre los r ninguno haya como tú enH4428
+- 1Re_3:16vinieron al r dos mujeres rameras, y seH4428
+- 1Re_3:22otra mujer...Así hablaban delante del rH4428
+- 1Re_3:23el r entonces dijo: Esta dice: Mi hijoH4428
+- 1Re_3:24el r: Traedme una espada. Y trajeron al rH4428
+- 1Re_3:25el r dijo: Partid por medio al niño vivoH4428
+- 1Re_3:26habló al r...y dijo: ¡Ah, señor mio! dadH4428
+- 1Re_3:27el r respondió y dijo: Dad a aquélla elH4428
+- 1Re_3:28Israel oyó...juicio que había dado el rH4428
+- 1Re_3:28y temieron al r...había en él sabiduríaH4428
+- 1Re_4:1reinó, pues, el r Salomón sobre...IsraelH4428
+- 1Re_4:5Zabud...ministro principal y amigo del rH4428
+- 1Re_4:7gobernadores...mantenían al r y a su casaH4428
+- 1Re_4:19la tierra de Sehón r de los amorreos yH4428
+- 1Re_4:19y de Og r de Basán; éste era el únicoH4428
+- 1Re_4:24señoreaba...sobre todos los r al oesteH4428
+- 1Re_4:27gobernadores mantenían al r Salomón, yH4428
+- 1Re_4:27todos los que a la mesa del r...veníanH4428
+- 1Re_4:34venían de...de todos los r de la tierraH4428
+- 1Re_5:1Hiram r de Tiro envió también sus siervosH4428
+- 1Re_5:1oyó que lo habían ungido por r en lugarH4428
+- 1Re_5:13el r...decretó leva en todo Israel, y laH4428
+- 1Re_5:17mandó el r que trajesen piedras grandesH4428
+- 1Re_6:2casa que el r Salomón edificó a JehováH4428
+- 1Re_7:13envió el r...hizo venir de, Tiro a HiramH4428
+- 1Re_7:14vino al r Salomón, e hizo toda su obraH4428
+- 1Re_7:45utensilios que Hiram hizo al r SalomónH4428
+- 1Re_7:46todo lo hizo fundir el r en la llanuraH4428
+- 1Re_7:51la obra que dispuso hacer el r SalomónH4428
+- 1Re_8:2se reunieron con el r Salomón todos losH4428
+- 1Re_8:5el r Salomón...estaban...delante del arcaH4428
+- 1Re_8:14volviendo el r su rostro, bendijo a todaH4428
+- 1Re_8:62r, y todo Israel...sacrificaron víctimasH4428
+- 1Re_8:63así dedicaron el r y...Israel la casa deH4428
+- 1Re_8:64día santificó el r el medio del atrio, elH4428
+- 1Re_8:66y ellos, bendiciendo al r, se fueron aH4428
+- 1Re_9:11Hiram r de Tiro había traído a SalomónH4428
+- 1Re_9:11el r Salomón dio a Hiram veinte ciudadesH4428
+- 1Re_9:14había enviado al r 120 talentos de oroH4428
+- 1Re_9:15es la razón de la leva que el r...impusoH4428
+- 1Re_9:16Faraón el r de Egipto había subido yH4428
+- 1Re_9:26hizo...el r Salomón naves en Ezión-geberH4428
+- 1Re_9:28tomaron...oro...lo trajeron al r SalomónH4428
+- 1Re_10:3y nada hubo que el r no le contestaseH4428
+- 1Re_10:6al r: Verdad es lo que oí en mi tierraH4428
+- 1Re_10:9puesto por r, para que hagas derecho yH4428
+- 1Re_10:10y dio ella al r 120 talentos de oro, yH4428
+- 1Re_10:10como la reina de Sabá dio al r SalomónH4428
+- 1Re_10:12hizo el r balaustres para la casa deH4428
+- 1Re_10:13y el r Salomón dio a la reina de SabáH4428
+- 1Re_10:15lo de todos los r de Arabia, y de losH4428
+- 1Re_10:16hizo...el r Salomón 200 escudos grandesH4428
+- 1Re_10:17y el r los puso en la casa del bosqueH4428
+- 1Re_10:18hizo...el r un gran trono de marfil, elH4428
+- 1Re_10:21los vasos de beber del r...eran de oroH4428
+- 1Re_10:22el r tenía en el mar una flota de navesH4428
+- 1Re_10:23excedía el r Salomón a todos los r deH4428
+- 1Re_10:26en las ciudades...con el r en JerusalénH4428
+- 1Re_10:27e hizo el r que en Jerusalén la plataH4428
+- 1Re_10:28los mercaderes del r compraba caballosH4428
+- 1Re_10:29así los adquirían...los r de los heteosH4428
+- 1Re_11:1el r Salomón amó...mujeres extranjerasH4428
+- 1Re_11:18vinieron...a Faraón r de Egipto, el cualH4428
+- 1Re_11:23huido de su amo Hadad-ezer, r de SobaH4428
+- 1Re_11:24a Damasco...y le hicieron r en DamascoH4428
+- 1Re_11:26Jeroboam hijo...alzó su mano contra el rH4428
+- 1Re_11:27la causa...éste alzó su mano contra el rH4428
+- 1Re_11:34lo retendré por r todos los días de suH5387
+- 1Re_11:37y tú reinarás...y serás r sobre IsraelH4428
+- 1Re_11:40Jeroboam...huyó a...a Sisac r de EgiptoH4428
+- 1Re_12:1había venido a Siquem para hacerle rH4427
+- 1Re_12:2huido delante del r Salomón, y habitabaH4428
+- 1Re_12:6el r...pidió consejo de los ancianos queH4428
+- 1Re_12:12a Roboam, según el r lo había mandadoH4428
+- 1Re_12:13y el r respondió al pueblo duramenteH4428
+- 1Re_12:15y no oyó el r al pueblo; porque eraH4428
+- 1Re_12:16pueblo vio que el r no les había oídoH4428
+- 1Re_12:18el r Roboam se apresuró a subirse enH4428
+- 1Re_12:20y le hicieron r sobre todo Israel, sinH4427
+- 1Re_12:23habla a Roboam...r de Judá, y a toda laH4428
+- 1Re_12:27volverán a su señor Roboam r de JudáH4428
+- 1Re_12:27a mí, y se volverán a Roboam r de JudáH4428
+- 1Re_12:28hizo el r dos becerros de oro, y dijoH4428
+- 1Re_13:4el r Jeroboam oyó la palabra del varónH4428
+- 1Re_13:6respondiendo el r, dijo al varón de DiosH4428
+- 1Re_13:6oró a...y la mano del r se le restauróH4428
+- 1Re_13:7el r dijo al varón de Dios: Ven conmigoH4428
+- 1Re_13:8pero el varón de Dios dijo al r: AunqueH4428
+- 1Re_13:11las palabras que había hablado al rH4428
+- 1Re_14:2que yo había de ser r sobre este puebloH4428
+- 1Re_14:14y Jehová levantará...un r sobre IsraelH4428
+- 1Re_14:19en el libro de las historias de los rH4428
+- 1Re_14:25quinto año del r Roboam subió Sisac rH4428
+- 1Re_14:27hizo el r Roboam escudos de bronce, yH4428
+- 1Re_14:28cuando el r entraba en la casa de JehováH4428
+- 1Re_15:1el año 18 del r Jeroboam hijo de NabatH4428
+- 1Re_15:9el año 20 de Jeroboam r de Israel, AsaH4428
+- 1Re_15:16, 1Re_15:32guerra entre Asa y Baasa r de IsraelH4428
+- 1Re_15:17y subió Baasa r de Israel contra JudáH4428
+- 1Re_15:17para no dejar...salir ni entrar a Asa rH4428
+- 1Re_15:18envió el r Asa a Ben-adad...r de SiriaH4428
+- 1Re_14:29; 1Re_15:7, 1Re_15:23, 1Re_15:31; 1Re_16:5, 1Re_16:14, 1Re_16:20, 1Re_16:27; 1Re_22:39, 1Re_22:45en el libro de las crónicas de los rH4428
+- 1Re_15:19rompe tu pacto con Baasa r de IsraelH4428
+- 1Re_15:20y Ben-adad consintió con el r Asa, yH4428
+- 1Re_15:22entonces el r Asa convocó a todo JudáH4428
+- 1Re_15:22y edificó el r Asa con ello a Geba deH4428
+- 1Re_15:25en el segundo año de Asa r de Judá; yH4428
+- 1Re_15:28lo mató...el tercer año de Asa r de JudáH4428
+- 1Re_15:33tercer año de Asa r de Judá, comenzó aH4428
+- 1Re_16:8en el año 26 de Asa r de Judá comenzó aH4428
+- 1Re_16:10lo mató, en el año 27 de Asa r de JudáH4428
+- 1Re_16:15el año 27 de Asa r de Judá, comenzó aH4428
+- 1Re_16:16oyó decir: Zimri...ha dado muerte al rH4428
+- 1Re_16:16puso aquel mismo día por r sobre IsraelH4427
+- 1Re_16:21seguía a Tibni hijo de...para hacerlo rH4427
+- 1Re_16:22pudo más...y Tibni murió, y Omri fue rH4428
+- 1Re_16:23el año 31 de Asa r de Judá, comenzó aH4428
+- 1Re_16:29a reinar Acab...año 38 de Asa r de JudáH4428
+- 1Re_16:31por mujer a Jezabel, hija de Et-baal rH4428
+- 1Re_16:33haciendo así Acab más que todos los rH4428
+- 1Re_19:15vé...y ungirás a Hazacl por r de SiriaH4428
+- 1Re_19:16a Jehú hijo...ungirás por r sobre IsraelH4428
+- 1Re_20:1Ben-adad r de Siria juntó con él..32 rH4428
+- 1Re_20:2y envió mensajeros...a Acab r de IsraelH4428
+- 1Re_20:4el r de Israel...dijo: Como tú dices, rH4428
+- 1Re_20:7r de Israel llamó a todos los ancianosH4428
+- 1Re_20:9decid al r...Haré todo lo que mandasteH4428
+- 1Re_20:11el r de Israel respondió...no se alabeH4428
+- 1Re_20:12oyó esta...estando bebiendo con los rH4428
+- 1Re_20:13un profeta vino a Acab r de Israel, yH4428
+- 1Re_20:16Ben-adad bebiendo...y los r, los 32 aH4428
+- 1Re_20:20el r de Siria...se escapó en un caballoH4428
+- 1Re_20:21el r de Israel, e hirió la gente de aH4428
+- 1Re_20:22vino luego el profeta al r de IsraelH4428
+- 1Re_20:22pasado un año, el r de Siria vendráH4428
+- 1Re_20:23los siervos del r de Siria le dijeronH4428
+- 1Re_20:24saca a los r cada uno de su puesto, yH4428
+- 1Re_20:28vino...el varón de Dios al r de IsraelH4428
+- 1Re_20:31hemos oído de los r...son r clementesH4428
+- 1Re_20:31salgamos al r de Israel, a ver si porH4428
+- 1Re_20:32vinieron al r de Israel y le dijeronH4428
+- 1Re_20:38y se puso delante del r en el caminoH4428
+- 1Re_20:39cuando el r pasaba, él dio voces al rH4428
+- 1Re_20:40el r...le dijo: Esa será tu sentenciaH4428
+- 1Re_20:41el r...conoció que era de los profetasH4428
+- 1Re_20:43el r de Israel se fue a su casa tristeH4428
+- 1Re_21:1junto al palacio de Acab r de SamariaH4428
+- 1Re_21:7le dijo: ¿Eres tú ahora r sobre Israel?
+- 1Re_21:10digan: Tú has blasfemado a Dios y al rH4428
+- 1Re_21:13diciendo...ha blasfemado a Dios y al rH4428
+- 1Re_21:18encontrarte con Acab r de Israel, queH4428
+- 1Re_22:2que Josafat r de Judá descendió al r deH4428
+- 1Re_22:3el r de Israel dijo a sus siervos: ¿NoH4428
+- 1Re_22:3para tomarla de mano del r de Siria?[[H4428]]
+- 1Re_22:4y Josafat respondió al r de Israel: YoH4428
+- 1Re_22:5Josafat al r de Israel: Yo te ruego queH4428
+- 1Re_22:6r de Israel reunió a los profetas, comoH4428
+- 1Re_22:6, 1Re_22:12, 1Re_22:15Jehová la entregará en mano del rH4428
+- 1Re_22:8r de Israel respondió...Aún hay un varónH4428
+- 1Re_22:8mal...Y Josafat dijo: No hable el r asíH4428
+- 1Re_22:9el r de...llamó a un oficial, y le dijoH4428
+- 1Re_22:10el r de Israel y Josafat r...sentadosH4428
+- 1Re_22:13a una voz anuncian al r cosas buenasH4428
+- 1Re_22:15al r, y el r le dijo: Micaías, ¿iremosH4428
+- 1Re_22:16el r le dijo: ¿Hasta cuántas veces heH4428
+- 1Re_22:18el r de Israel dijo a Josafat: ¿No teH4428
+- 1Re_22:26el r de Israel dijo: Toma a Micaías, yH4428
+- 1Re_22:26a Micaía...llévalo...a Joás hijo del rH4428
+- 1Re_22:27así ha dicho el r: Echad a éste en laH4428
+- 1Re_22:29subió...el r de Israel con Josafat r deH4428
+- 1Re_22:30y el r de Israel dijo a Josafat: Yo meH4428
+- 1Re_22:30y el r de Israel se disfrazó, y entróH4428
+- 1Re_22:31el r de Siria había mandado a sus 32H4428
+- 1Re_22:31chico, sino sólo contra el r de IsraelH4428
+- 1Re_22:32es el r de Israel...el r Josafat gritóH4428
+- 1Re_22:33viendo...que no era el r de Israel, seH4428
+- 1Re_22:34e hirió al r...por entre las junturas deH4428
+- 1Re_22:35el r estuvo en su carro delante de losH4428
+- 1Re_22:37murió, pues, el r...y sepultaron al rH4428
+- 1Re_22:41en el cuarto año de Acab r de IsraelH4428
+- 1Re_22:44y Josafat hizo paz con el r de IsraelH4428
+- 1Re_22:47no había...r en Edom; había gobernadorH4428
+- 1Re_22:47Edom; había gobernador en lugar de rH4428
+- 1Re_22:51a reinar sobre...el año 17 de Josafat rH4428
+- 2Re_1:3encontrarte con los mensajeros del rH4428
+- 2Re_1:5cuando los mensajeros se volvieron al r
+- 2Re_1:6y volveos al r que os envió, y decidleH4428
+- 2Re_1:9, 2Re_1:11dijo: Varón de Dios, el r ha dichoH4428
+- 2Re_1:11volvió el r a enviar a él otro capitán
+- 2Re_1:15él se levantó, y descendió con él al rH4428
+- 2Re_1:17año de Joram hijo de Josafat, r de JudáH4428
+- 2Re_1:18; 2Re_8:23; 2Re_10:34; 2Re_12:19; 2Re_13:8, 2Re_13:12; 2Re_14:15, 2Re_14:18, 2Re_14:28; 2Re_15:6, 2Re_15:11, 2Re_15:15, 2Re_15:21, 2Re_15:26, 2Re_15:31, 2Re_15:36; 2Re_16:19; 2Re_20:20; 2Re_21:17, 2Re_21:25; 2Re_23:28; 2Re_24:5en el libro de las crónicas de los rH4428
+- 2Re_3:1Joram...comenzó...el año 18 de Josafat rH4428
+- 2Re_3:4entonces Mesa r de Moab era propietarioH4428
+- 2Re_3:4pagaba al r de Israel cien mil corderosH4428
+- 2Re_3:5r de Moab se rebeló contra el r de IsraelH4428
+- 2Re_3:6salió entonces de Samaria el r Joram, yH4428
+- 2Re_3:7decir a Josafat r de Judá: El r de MoabH4428
+- 2Re_3:9salieron...el r de Israel, el r de JudáH4428
+- 2Re_3:9salieron...el r de Edom...por el desiertoH4428
+- 2Re_3:10el r de Israel dijo: ¡Ah! que ha llamadoH4428
+- 2Re_3:10ha llamado Jehová a estos tres r paraH4428
+- 2Re_3:11y uno de los siervos del r...respondióH4428
+- 2Re_3:12descendieron...el r de Israel...r de EdomH4428
+- 2Re_3:13Elíseo dijo al r de Israel: ¿Qué tengoH4428
+- 2Re_3:13el r...le respondió: No; porque JehováH4428
+- 2Re_3:13reunido a estos tres r para entregarlosH4428
+- 2Re_3:14no tuviese respeto al rostro...r de JudáH4428
+- 2Re_3:21oyeron...r subían a pelear contra ellosH4428
+- 2Re_3:23los r se han vuelto uno contra otro, yH4428
+- 2Re_3:26el r de Moab vio que era vencido en laH4428
+- 2Re_3:26atacar al r de Edom; mas no pudieronH4428
+- 2Re_4:13¿necesitas que hable por ti al r, o alH4428
+- 2Re_5:1Naamán, general...ejército del r de SirlaH4428
+- 2Re_5:5le dijo el r...yo enviaré cartas al r deH4428
+- 2Re_5:6cartas para el r de Israel, que decíanH4428
+- 2Re_5:7que el r de Israel leyó las cartas, rasgóH4428
+- 2Re_5:8r de Israel había rasgado sus vestidosH4428
+- 2Re_5:8Eliseo...envió a decir al r: ¿Por qué hasH4428
+- 2Re_5:18que cuando...el r entrare en el templo
+- 2Re_6:8tenía el r de Siria guerra contra IsraelH4428
+- 2Re_6:9el varón de Dios...a decir al r de IsraelH4428
+- 2Re_6:10el r de Israel envió a aquel lugar queH4428
+- 2Re_6:11el corazón del r de Siria se turbó porH4428
+- 2Re_6:11quién de...nuestros es del r de Israel?[[H4428]]
+- 2Re_6:12no, r...sino que el profeta Elíseo estáH4428
+- 2Re_6:12declara al r...las palabras que tú hablasH4428
+- 2Re_6:14envió el r allá gente de a caballo, yH4428
+- 2Re_6:21cuando el r de Israel...hubo visto, dijoH4428
+- 2Re_6:24que Ben-adad r de Siria reunió todo suH4428
+- 2Re_6:26pasando el r...por el muro, una mujer leH4428
+- 2Re_6:26una mujer le...dijo: Salva, r señor míoH4428
+- 2Re_6:28dijo el r: ¿Qué tienes? Ella respondióH4428
+- 2Re_6:30el r oyó las palabras de aquella mujerH4428
+- 2Re_6:32el r envió a él un hombre...Mas antes que
+- 2Re_7:2y un príncipe...cuyo brazo el r se apoyabaH4428
+- 2Re_7:6el r de Israel ha tomado a sueldo contraH4428
+- 2Re_7:6a los r de los heteos y a los r de losH4428
+- 2Re_7:9entremos y demos la nueva en casa del rH4428
+- 2Re_7:11anunciaron dentro, en el palacio del rH4428
+- 2Re_7:12se levantó el r de noche, y dijo a susH4428
+- 2Re_7:14envió el r al campamento de los siriosH4428
+- 2Re_7:15volvieron los...y lo hicieron saber al rH4428
+- 2Re_7:17el r puso a la puerta a aquel príncipeH4428
+- 2Re_7:17había dicho...cuando el r descendió a élH4428
+- 2Re_7:18había hablado al r, diciendo: Dos seahsH4428
+- 2Re_8:3, 2Re_8:5para implorar al r por su casa y porH4428
+- 2Re_8:4había el r hablado con Giezi, criado delH4428
+- 2Re_8:5contando al r cómo había hecho vivir aH4428
+- 2Re_8:5dijo Giezi: R señor mío, esta es la mujerH4428
+- 2Re_8:6preguntando el r a la...ella se lo contóH4428
+- 2Re_8:6el r ordenó a un oficial, al cual dijoH4428
+- 2Re_8:7y Ben-adad r de Siria estaba enfermo, alH4428
+- 2Re_8:8y el r dijo a Hazael: Toma en tu mano unH4428
+- 2Re_8:9tu hijo Ben-adad r de Siria me ha enviadoH4428
+- 2Re_8:13me ha mostrado que tú serás r de SiriaH4428
+- 2Re_8:16año de Joram hijo de Acab, r de IsraelH4428
+- 2Re_8:16y siendo Josafat r de Judá, comenzó aH4428
+- 2Re_8:16reinar Joram hijo de Josafat, r de JudáH4428
+- 2Re_8:18anduvo en el camino de los r de Israel
+- 2Re_8:20se rebeló Edom...y pusieron r sobre ellosH4428
+- 2Re_8:25doce de Joram hijo de Acab, r de IsraelH4428
+- 2Re_8:25reinar Ocozías hijo de Joram, r de JudáH4428
+- 2Re_8:26su madre fue Atalía, hija de Omri r deH4428
+- 2Re_8:28a la guerra...contra Hazael r de SiriaH4428
+- 2Re_8:29y el r Joram se volvió a Jezreel paraH4428
+- 2Re_8:29cuando peleó contra Hazael r de SiriaH4428
+- 2Re_8:29y descendió Ocozías hijo de Joram r deH4428
+- 2Re_9:3, 2Re_9:6, 2Re_9:12yo te he ungido por r sobre IsraelH4428
+- 2Re_9:13y tocaron corneta, y dijeron: Jehú es rH4427
+- 2Re_9:14Ramot...por causa de Hazael r de SiriaH4428
+- 2Re_9:15se había vuelto el r Joram a JezreelH4428
+- 2Re_9:15Joram...peleando contra Hazael r de SiriaH4428
+- 2Re_9:16Ocozías r de Judá, que había descendidoH4428
+- 2Re_9:18-19dijo: El r dice así: ¿Hay paz? Y JehúH4428
+- 2Re_9:21salieron Joram r de Israel y Ocozías rH4428
+- 2Re_9:27viendo esto Ocozías r de Judá, huyó porH4428
+- 2Re_9:34id ahora...sepultadia, pues es hija de rH4428
+- 2Re_10:4he aquí, dos r no pudieron resistirleH4428
+- 2Re_10:5no elegiremos por r a ninguno, haz lo queH4427
+- 2Re_10:6hijos del r...estaban con los principalesH4428
+- 2Re_10:7tomaron a los hijos del r, y degollaronH4428
+- 2Re_10:8traído las cabezas de los hijos del rH4428
+- 2Re_10:13halló...hermanos de Ocozías r de JudáH4428
+- 2Re_10:13hemos venido a saludar a...hijos del rH4428
+- 2Re_11:2Josaba hija del r Joram...tomó a JoásH4428
+- 2Re_11:2y los sacó...de entre los hijos del r aH4428
+- 2Re_11:4los metió...y les mostró el hijo del rH4428
+- 2Re_11:5tendrá la guardia de la casa del r elH4428
+- 2Re_11:7guardia de la casa de Jehová junto al rH4428
+- 2Re_11:8estaréis alrededor del r...todos ladosH4428
+- 2Re_11:8con el r cuando salga, y cuando entreH4428
+- 2Re_11:10los escudos que habían sido del r DavidH4428
+- 2Re_11:11se pusieron en fila...en derredor del rH4428
+- 2Re_11:12al hijo del r...le hicieron r ungiéndoleH4428
+- 2Re_11:12batiendo las manos dijeron: ¡Viva el r![[H4428]]
+- 2Re_11:14r estaba junto a la columna, conformeH4428
+- 2Re_11:14príncipes y los trompeteros junto al rH4428
+- 2Re_11:16donde entran los de a...a la casa del rH4428
+- 2Re_11:17pacto entre Jehová y el r y el puebloH4428
+- 2Re_11:17pacto...asimismo entre el r y el puebloH4428
+- 2Re_11:19llevaron al r desde la casa de JehováH4428
+- 2Re_11:19vinieron por el...a la casa del r; y, seH4428
+- 2Re_11:19y se sentó el r en el trono de los rH4428
+- 2Re_11:20Atalía muerta a...junto a la casa del rH4428
+- 2Re_12:6en el año 23 del r Joás aún no habíanH4428
+- 2Re_12:7llamó...r Joás al sumo sacerdote JoiadaH4428
+- 2Re_12:10venía el secretario del r...y contabanH4428
+- 2Re_12:17Hazael r de Siria, y peleó contra GatH4428
+- 2Re_12:18tomó Joás r de Judá...las ofrendas queH4428
+- 2Re_12:18Josafat y Joram y Ocozías...r de JudáH4428
+- 2Re_12:18el oro que se halló...en la casa del rH4428
+- 2Re_12:18el oro...y lo envió a Hazael r de SiriaH4428
+- 2Re_13:1en el año 23 de Joás hijo de Ocozías, rH4428
+- 2Re_13:3los entregó en mano de Hazael r de SiriaH4428
+- 2Re_13:4Joacaz oró en...el r de Siria los afligíaH4428
+- 2Re_13:7pues el r de Siria los había destruidoH4428
+- 2Re_13:10el año 37 de Joás r de Judá, conienzó aH4428
+- 2Re_13:12que guerreó contra Amasías r de JudáH4428
+- 2Re_13:13fue sepultado en...con los r de IsraelH4428
+- 2Re_13:14y descendió a él Joás r de Israel, yH4428
+- 2Re_13:16dijo Elíseo al r...Pon tu mano sobre elH4428
+- 2Re_13:16puso...sus manos sobre las manos del rH4428
+- 2Re_13:18el r de Israel las hubo tomado, le dijoH4428
+- 2Re_13:22Hazael...r de Siria, afligió a IsraelH4428
+- 2Re_13:24murió Hazael r de Siria, y reinó en suH4428
+- 2Re_14:1el año segundo de Joás hijo de Joacaz rH4428
+- 2Re_14:1a reinar Amasías hijo de Joás r de JudáH4428
+- 2Re_14:5siervos que habían dado muerte al r suH4428
+- 2Re_14:9mensajeros a Joás...hijo de r de IsraelH4428
+- 2Re_14:9Joás r de...envió a Amasías r...respuestaH4428
+- 2Re_14:11por lo cual subió Joás r de Israel, yH4428
+- 2Re_14:11se vieron las caras él y...r de Judá, enH4428
+- 2Re_14:13Joás r de Israel tomó a Amasías r deH4428
+- 2Re_14:14tomó todo...los tesoros de la casa del rH4428
+- 2Re_14:15y cómo peleó contra Amasías r de JudáH4428
+- 2Re_14:16fue sepultado en...con los r de IsraelH4428
+- 2Re_14:17hijo de Joás, r de Judá, vivió despuésH4428
+- 2Re_14:17muerte de Joás hijo de Joacaz...r deH4428
+- 2Re_14:21y lo hicieron r en lugar de Amasías suH4427
+- 2Re_14:22después que el r durmió con sus padresH4428
+- 2Re_14:23el año 15 de Amasías hijo de Joás r deH4428
+- 2Re_14:29durmió Jeroboam con...los r de IsraelH4428
+- 2Re_15:1año 27 de Jeroboam r de Israel, comenzóH4428
+- 2Re_15:1a reinar Azarías hijo de Amasías, r deH4428
+- 2Re_15:5hirió al r con lepra, y estuvo leprosoH4428
+- 2Re_15:5Jotam hijo del r tenía el cargo...palacioH4428
+- 2Re_15:8en el año 38 de Azarías r de Judá, reinóH4428
+- 2Re_15:13reinar en el año 39 de Uzías r de JudáH4428
+- 2Re_15:17el año 39 de Azarías r de Judá, reinóH4428
+- 2Re_15:19vino Pul r de Asiria a atacar la tierraH4428
+- 2Re_15:20para dar al r de...r de Asiria se volvióH4428
+- 2Re_15:23el año 50 de Azarías r de Judá, reinóH4428
+- 2Re_15:27el año 52 de Azarías r de Judá, reinóH4428
+- 2Re_15:29en los días de Peka r de Israel, vinoH4428
+- 2Re_15:29vino Tiglat-pileser r de los asiriosH4428
+- 2Re_15:32demás hechos de Peka hijo de Remalías rH4428
+- 2Re_15:32a reinar Jotam hijo de Uzías r de JudáH4428
+- 2Re_15:37enviar contra Judá a Rezín r de SiriaH4428
+- 2Re_16:1comenzó a reinar Acaz hijo de Jotam r deH4428
+- 2Re_16:3anduvo en el camino de los r de IsraelH4428
+- 2Re_16:5Rezín r de Siria y Peka hijo...r de IsraelH4428
+- 2Re_16:6el r de Edoni recobró Elat para Edom, yH4428
+- 2Re_16:7Acaz envió embajadores a...r de AsiriaH4428
+- 2Re_16:7defiéndeme de mano del r de Siria, y deH4428
+- 2Re_16:7defiéndeme de...y de mano del r de IsraelH4428
+- 2Re_16:8Acaz...envió al r de Asiria un presenteH4428
+- 2Re_16:9atendió al r de Asiria; pues subió el rH4428
+- 2Re_16:10fue el r Acaz a encontrar...r de AsiriaH4428
+- 2Re_16:10vio el r Acaz el altar que estaba enH4428
+- 2Re_16:11a todo lo que el r Acaz había enviadoH4428
+- 2Re_16:11entre tanto...el r Acaz venía de DamascoH4428
+- 2Re_16:12r vino...y vio el altar, se acercó el rH4428
+- 2Re_16:15el r Acaz...diciendo: En el gran altarH4428
+- 2Re_16:15y el holocausto del r y su ofrenda, yH4428
+- 2Re_16:16todas las cosas que el r Acaz le mandóH4428
+- 2Re_16:17cortó el r...los tableros de las basasH4428
+- 2Re_16:18pasadizo...del r, los quitó del temploH4428
+- 2Re_16:18los quitó del...por causa del r de AsiríaH4428
+- 2Re_16:20durmió el r Acaz con sus padres, y fue
+- 2Re_17:1año...de Acaz r Je Judá, comenzó a reinarH4428
+- 2Re_17:2lo malo...aunque no como los r de IsraelH4428
+- 2Re_17:3contra éste subió Salmanasar r de losH4428
+- 2Re_17:4el r de...descubrió que Oseas conspirabaH4428
+- 2Re_17:4porque había enviado embajadores a So, rH4428
+- 2Re_17:4y no pagaba tributo al r de Asiria, comoH4428
+- 2Re_17:4por lo que el r de Asiría le detuvo, yH4428
+- 2Re_17:5y el r de Asiría invadió todo el país, yH4428
+- 2Re_17:6el r de Asiría tomó Samaria, y llevó aH4428
+- 2Re_17:7sacó...bajo la mano de Faraón r de EgiptoH4428
+- 2Re_17:8los estatutos que hicieron los r de IsraelH4428
+- 2Re_17:21ellos hicieron r a Jeroboam hijo de NabatH4427
+- 2Re_17:24trajo el r de Asiria gente de...Cuta, deH4428
+- 2Re_17:26dijeron...al r de Asiria: Las gentes queH4428
+- 2Re_17:27el r de Asiría mandó, diciendo: LlevadH4428
+- 2Re_18:1en el tercer año de Oseas...r de IsraelH4428
+- 2Re_18:1a reinar Ezequías hijo de Acaz r de JudáH4428
+- 2Re_18:5ni antes de él...entre todos los r de JudáH4428
+- 2Re_18:7se rebeló contra el r de Asiría, y no leH4428
+- 2Re_18:9el cuarto año del r Ezequías, que era elH4428
+- 2Re_18:9el año séptimo de Oseas hijo de Ela, r deH4428
+- 2Re_18:9subió Salmanasar r de los asirios contraH4428
+- 2Re_18:10era el año noveno de Oseas r de IsraelH4428
+- 2Re_18:11el r de Asiría llevó cautivo a IsraelH4428
+- 2Re_18:13los catorce años del r Ezequías, subióH4428
+- 2Re_18:13Senaquerib r de Asiría contra todas lasH4428
+- 2Re_18:14Ezequías r de Judá envió a decir al rH4428
+- 2Re_18:14y el r de Asiría impuso a Ezequías r deH4428
+- 2Re_18:16los quiciales que el mismo r...cubiertoH4428
+- 2Re_18:16quitó el oro de...y lo dio al r de AsiríaH4428
+- 2Re_18:17el r de...envió contra el r Ezequías alH4428
+- 2Re_18:18llamaron luego al r, y salió a ellosH4428
+- 2Re_18:19a Ezequías: Así dice el gran r de AsiriaH4428
+- 2Re_18:21tal es Faraón r de Egipto para todos queH4428
+- 2Re_18:23ruego que des rehenes a...el r de AsiriaH4428
+- 2Re_18:28la palabra del gran r, el r de AsiriaH4428
+- 2Re_18:29así ha dicho el r: No os engañe EzequíasH4428
+- 2Re_18:30ciudad no será entregada en mano del rH4428
+- 2Re_18:31dice el r de Asiria: Haced conmigo pazH4428
+- 2Re_18:33ha librado su tierra...del r de Asiria?[[H4428]]
+- 2Re_18:36había mandamiento del r...había dichoH4428
+- 2Re_19:1cuando el r Ezequías lo oye, rasgó susH4428
+- 2Re_19:4a quien el r de los asirios su señor haH4428
+- 2Re_19:5vinieron...los siervos del r Ezequías aH4428
+- 2Re_19:6me han blasfemado los siervos del r deH4428
+- 2Re_19:8halló al r de Asiría combatiendo contraH4428
+- 2Re_19:9Tirhaca r de Etiopía había salido paraH4428
+- 2Re_19:10así diréis a Ezequías r de Judá: No teH4428
+- 2Re_19:10Jerusalén no será entregada en...del rH4428
+- 2Re_19:11han hecho los r de Asiría a todas lasH4428
+- 2Re_19:13¿dónde está el r de Hamat, el r de...Iva?[[H4428]]
+- 2Re_19:13¿dónde...el r de la ciudad de SefarvaimH4428
+- 2Re_19:17que los r de Asiría han destruido lasH4428
+- 2Re_19:20que me pediste acerca de Senaquerib rH4428
+- 2Re_19:32así dice Jehová acerca del r de AsiriaH4428
+- 2Re_19:36Senaquerib r de Asiria se fue...a NíniveH4428
+- 2Re_20:6te libraré a ti...de mano del r de AsiriaH4428
+- 2Re_20:12r de Babilonia, envió mensajeros conH4428
+- 2Re_20:14Isaías vino al r Ezequías, y le dijoH4428
+- 2Re_20:18y serán eunucos en el palacio del r deH4428
+- 2Re_21:3una imagen de...como había hecho Acab rH4428
+- 2Re_21:11por cuanto Manasés r de Judá ha hechoH4428
+- 2Re_21:23los siervos de Amón...mataron al r enH4428
+- 2Re_21:24mató a todos los...conspirado contra el rH4428
+- 2Re_21:24puso el pueblo...r en su lugar a JosíasH4427
+- 2Re_22:3los 18 años del r Josías...envió el r aH4428
+- 2Re_22:9viniendo...Safán al r, dio cuenta al rH4428
+- 2Re_22:10escriba Safán declaró al r, diciendoH4428
+- 2Re_22:10libro. Y lo leyó Safán delante del rH4428
+- 2Re_22:11cuando el r hubo oído las palabras delH4428
+- 2Re_22:12el r dio orden...a Asaías siervo del rH4428
+- 2Re_22:16este libro que ha leído el r de JudáH4428
+- 2Re_22:18al r de Judá...diréis...ha dicho JehováH4428
+- 2Re_22:20y ellos dieron al r la respuestaH4428
+- 2Re_23:1el r mandó reunir...a todos los ancianosH4428
+- 2Re_23:2subió el r a la casa de Jehová con todosH4428
+- 2Re_23:3y poniéndose el r en pie...hizo pactoH4428
+- 2Re_23:4mandó el r al sumo sacerdote Hilcías, aH4428
+- 2Re_23:5sacerdotes idólatras que...puesto los rH4428
+- 2Re_23:11los caballos que los r...dedicado al solH4428
+- 2Re_23:12derribó...el r los altares que estabanH4428
+- 2Re_23:12altares...que los r de Judá habían hechoH4428
+- 2Re_23:13profanó el r de los lugares altos queH4428
+- 2Re_23:13Salomón r de...había edificado a AstoretH4428
+- 2Re_23:19lugares altos que...habían hecho los rH4428
+- 2Re_23:21mandó el r...Haced la pascua a JehováH4428
+- 2Re_23:22tiempos de los r de Israel...r de JudáH4428
+- 2Re_23:23a los 18 años del r Josias fue hechaH4428
+- 2Re_23:25no hubo otro r antes de él...ni despuésH4428
+- 2Re_23:29Necao r de Egipto subió contra el r deH4428
+- 2Re_23:29Faraón...y salió contra él el r JosíasH4428
+- 2Re_23:30tomó a Joacaz...y lo pusieron por r enH4427
+- 2Re_23:34Faraón...puso por r a Eliaquim hijo deH4427
+- 2Re_24:1subió en...Nabucodonosor r de BabiloniaH4428
+- 2Re_24:7y nunca más el r de Egipto salió de suH4428
+- 2Re_24:7el r de Babilonia te tomó todo lo...suyoH4428
+- 2Re_24:10subieron...los siervos de...r de BabiloniaH4428
+- 2Re_24:11vino...r de Babilonia contra la ciudadH4428
+- 2Re_24:12salió...r de Judá al r de Babilonia, élH4428
+- 2Re_24:12y lo prendió el r de Babilonia en elH4428
+- 2Re_24:13que había hecho Salomón r de Israel enH4428
+- 2Re_24:15cautivos a...madre del r...mujeres del rH4428
+- 2Re_24:16los...llevó, cautivos el r de Babilonia
+- 2Re_24:17el r...puso por r en lugar de Joaquín aH4427
+- 2Re_24:20y Sedequías se rebeló contra el r deH4428
+- 2Re_25:1Nabucodonosor r de Babilonia vino conH4428
+- 2Re_25:2hasta el año undécimo del r SedequíasH4428
+- 2Re_25:4los dos muros, junto a los huertos del rH4428
+- 2Re_25:4y el r se fue por el camino del Arabá
+- 2Re_25:5el ejército de los caldeos siguió al rH4428
+- 2Re_25:6preso, pues, el r, le trajeron al r deH4428
+- 2Re_25:8siendo el año 19 de Nabucodonosor r deH4428
+- 2Re_25:8vino a Jerusalén Nabuzaradán...del r deH4428
+- 2Re_25:9quemó...la casa del r, y todas las casasH4428
+- 2Re_25:11que se babían pasado al r de BabiloniaH4428
+- 2Re_25:19cinco varones de los consejeros del rH4428
+- 2Re_25:20y los llevó a Ribla al r de BabiloniaH4428
+- 2Re_25:21el r de...los hirió y mató en Ribla, enH4428
+- 2Re_25:22al pueblo que...r de Babilonia dejó enH4428
+- 2Re_25:23que el r...había puesto por gobernadorH4428
+- 2Re_25:24servid al r de Babilonia, y os irá bienH4428
+- 2Re_25:27del cautiverio de Joaquín r de Judá, enH4428
+- 2Re_25:27r de Babilonia...libertó a Joaquín r deH4428
+- 2Re_25:28trono más alto que los tronos de los rH4428
+- 2Re_25:30le fue dada su comida de parte del rH4428
+- 1Cr_1:43éstos son los r que reinaron...EdomH4428
+- 1Cr_1:43antes que reinase r sobre los...IsraelH4428
+- 1Cr_3:2Absalón hijo de Maaca, hija de Talmai rH4428
+- 1Cr_4:23moraban allá con el r, ocupados en suH4428
+- 1Cr_4:41vinieron en días de Ezequías r de JudáH4428
+- 1Cr_5:6fue transportado por Tiglat-pileser r deH4428
+- 1Cr_5:17fueron contados por...en días de Jotam rH4428
+- 1Cr_5:17contados...días de Jeroboam r de IsraelH4428
+- 1Cr_5:26el Dios de...excitó el espíritu de Pul rH4428
+- 1Cr_5:26y el espíritu de Tigiat-pileser r de losH4428
+- 1Cr_9:1escritos en el libro de los r de IsraelH4428
+- 1Cr_9:18han sido...porteros en la puerta del rH4428
+- 1Cr_11:3vinieron...los ancianos...al r en HebrónH4428
+- 1Cr_11:3y ungieron a David por r sobre IsraelH4428
+- 1Cr_11:10hacerle r sobre Israel, conforme a laH4427
+- 1Cr_12:31lista para venir a poner a David por rH4427
+- 1Cr_12:38poner a David por r sobre todo IsraelH4427
+- 1Cr_12:38mismo ánimo para poner a David por rH4427
+- 1Cr_14:1Hiram r de...envió a David embajadoresH4428
+- 1Cr_14:2Jehová lo había confirmado como r sobreH4428
+- 1Cr_14:8filisteos que David había sido ungido rH4428
+- 1Cr_15:29Mical, hija...vio al r David que saltabaH4428
+- 1Cr_16:21antes por amor de ellos castigó a los rH4428
+- 1Cr_17:16y entró el r David...delante de JehováH4428
+- 1Cr_18:3derrotó David a Hadad-ezer r de Soba, enH4428
+- 1Cr_18:5los sirios de...en ayuda de Hadad-ezer rH4428
+- 1Cr_18:9y oyendo Toi r de Hamat que David habíaH4428
+- 1Cr_18:9deshecho todo el ejército de...r de SobaH4428
+- 1Cr_18:10envió a Adoram su hijo al r David, paraH4428
+- 1Cr_18:11los cuales el r David dedicó a JehováH4428
+- 1Cr_18:17hijos...eran los príncipes cerca del rH4428
+- 1Cr_19:1que murió Nahas r de los hijos de AmónH4428
+- 1Cr_19:5el r mandó que les dijeran: Estaos enH4428
+- 1Cr_19:7tomaron a sueldo...al r de Maaca y a suH4428
+- 1Cr_19:9los r que habían venido estaban aparte enH4428
+- 1Cr_20:1que suelen los r salir a la guerra, queH4428
+- 1Cr_20:2tomó David la corona de...del r de RabáH4428
+- 1Cr_21:3añada Jehová a su pueblo...r señor míoH4428
+- 1Cr_21:4la orden del r pudo más que Joab...SalióH4428
+- 1Cr_21:6la orden del r era abominable a JoabH4428
+- 1Cr_21:23mi señor el r lo que bien le parezcaH4428
+- 1Cr_21:24el r David dijo it Ornán: No, sino queH4428
+- 1Cr_23:1hizo a Salomón su hijo r sobre IsraelH4427
+- 1Cr_24:6escribió sus nombres en presencia del rH4428
+- 1Cr_24:31echaron suertes...delante del r DavidH4428
+- 1Cr_25:2cual profetizaba bajo las órdenes del rH4428
+- 1Cr_25:5Hemán, vidente del r en las cosas de DiosH4428
+- 1Cr_25:6y Hemán estaban por disposición del rH4428
+- 1Cr_26:26que había consagrado el r David, y losH4428
+- 1Cr_26:30obra de Jehová, y en el servicio del rH4428
+- 1Cr_26:32los cuales el r David constituyo sobreH4428
+- 1Cr_26:32las cosas de Dios Y los negocios del rH4428
+- 1Cr_27:1que servían al r en todos los negociosH4428
+- 1Cr_27:24no fue puesto en...crónicas del r DavidH4428
+- 1Cr_27:25Azmavet...a su cargo los tesoros del rH4428
+- 1Cr_27:31eran administradores de la...del r DavidH4428
+- 1Cr_27:32Jebiel hijo...estaba con los hijos del rH4428
+- 1Cr_27:33consejero del r, y Husai...amigo del rH4428
+- 1Cr_27:34Joab era el general del ejército del rH4428
+- 1Cr_28:1reunió David...jefes...que servían al rH4428
+- 1Cr_28:1toda la hacienda y posesión del r y deH4428
+- 1Cr_28:2y levantándose el r David...dijo: OídmeH4428
+- 1Cr_28:4Dios de Israel me eligió...r sobre IsraelH4427
+- 1Cr_28:4se agradó de mí para ponerme por r sobreH4428
+- 1Cr_29:1después dijo el r David a...la asambleaH4428
+- 1Cr_29:6administradores de la hacienda del rH4428
+- 1Cr_29:10alegró mucho el r David, y bendijo a
+- 1Cr_29:20adoraron delante de Jehová y del rH4428
+- 1Cr_29:23se sentó Salomón por r en el trono deH4428
+- 1Cr_29:24los hijos del r...homenaje al r SalomónH4428
+- 1Cr_29:25dio tal gloria, cual ningún r la tuvoH4428
+- 1Cr_29:29hechos del r David, están escritos enH4428
+- 2Cr_1:8mí me has puesto por r en lugar suyoH4427
+- 2Cr_1:9tú me has puesto por r sobre un puebloH4427
+- 2Cr_1:11pueblo...sobre el cual te he puesto por rH4427
+- 2Cr_1:12y gloria, como nunca tuvieron los r queH4428
+- 2Cr_1:14los cuales puso...con el r en JerusalénH4428
+- 2Cr_1:15y acumuló el r plata y oro en JerusalénH4428
+- 2Cr_1:16mercaderes del r compraban por contratoH4428
+- 2Cr_1:17así compraban...los r...heteos...r de SiriaH4428
+- 2Cr_2:3envió a decir Salomón a Hiram r de TiroH4428
+- 2Cr_2:11Hiram r de Tiro respondió por escritoH4428
+- 2Cr_2:11Jehová te ha puesto por r sobre ellosH4428
+- 2Cr_2:12dio al r David un hijo sabio, entendidoH4428
+- 2Cr_4:11y acabó Hiram la obra que hacía al rH4428
+- 2Cr_4:16hizo...sus enseres Hiram-abi al r SalomónH4428
+- 2Cr_4:17los fundió el r en los llanos del JordánH4428
+- 2Cr_5:3se congregaron con el r...los varones deH4428
+- 2Cr_5:6y el r...y toda tu congregación de IsraelH4428
+- 2Cr_6:3volviendo el r su rostro, bendijo a todaH4428
+- 2Cr_7:4r y todo el pueblo sacrificaron víctimasH4428
+- 2Cr_7:5y ofreció el r Salomón en...22.000 bueyesH4428
+- 2Cr_7:5dedicaron la casa de Dios el r y todo elH4428
+- 2Cr_7:6los instrumentos...había hecho el r DavidH4428
+- 2Cr_7:11terminó, pues, Salomón...la casa del rH4428
+- 2Cr_8:11mujer no morará en la casa de David rH4428
+- 2Cr_8:15no se apartaron del mandamiento del rH4428
+- 2Cr_8:18talentos de oro, y los trajeron al rH4428
+- 2Cr_9:5y dijo al r: Verdad es lo que había oídoH4428
+- 2Cr_9:8para ponerte sobre...como r para JehováH4428
+- 2Cr_9:9y dio al r 120 talentos de oro, y granH4428
+- 2Cr_9:9como las que dio la reina de Sabá al rH4428
+- 2Cr_9:11de la madera de sándalo el r hizo gradasH4428
+- 2Cr_9:12el r Salomón dio a la reina de Sabá todoH4428
+- 2Cr_9:12dio...más de lo que ella había traído al rH4428
+- 2Cr_9:14los r de Arabia...oro y plata a SalomónH4428
+- 2Cr_9:15el r Salomón 200 paveses de oro batidoH4428
+- 2Cr_9:16los puso el r en la casa del bosque delH4428
+- 2Cr_9:17hizo además el r un gran trono de marfilH4428
+- 2Cr_9:20la vajilla del r...era de oro, y toda laH4428
+- 2Cr_9:21porque la flota del r iba a Tarsis conH4428
+- 2Cr_9:22excedió el r Salomón a todos los r de laH4428
+- 2Cr_9:23r...procuraban ver el rostro de SalomónH4428
+- 2Cr_9:25jinetes...puso en...con el r en JerusalénH4428
+- 2Cr_9:26y tuvo dominio sobre todos los r desdeH4428
+- 2Cr_9:27y acumuló el r plata en...como piedras, yH4428
+- 2Cr_10:1se había reunido...Israel para hacerlo rH4427
+- 2Cr_10:2Jeroboam...huido a causa del r SalomónH4428
+- 2Cr_10:6el r...tomó consejo con los ancianos queH4428
+- 2Cr_10:12según el r les había mandado diciendoH4428
+- 2Cr_10:13el r les respondió ásperamente; puesH4428
+- 2Cr_10:13pues dejó el r Roboani el consejo de losH4428
+- 2Cr_10:15y no escuchó el r al pueblo; porque laH4428
+- 2Cr_10:16viendo todo...que el r no les había oídoH4428
+- 2Cr_10:16respondió el pueblo al r...¿Qué parteH4428
+- 2Cr_10:18envió luego el r Roboam a Adoram, queH4428
+- 2Cr_10:18se apresuró el r, y...huyó a JerusalénH4428
+- 2Cr_11:3habla a Roboam hijo de Salomón, r deH4428
+- 2Cr_11:22puso Roboam a Abías...quería hacerle rH4428
+- 2Cr_12:2el quinto año del r...subió Sisac r deH4428
+- 2Cr_12:6los príncipes de...y el r se humillaronH4428
+- 2Cr_12:9subió...Sisac r de Egipto a Jerusalén, yH4428
+- 2Cr_12:9y tomó...y los tesoros de la casa del rH4428
+- 2Cr_12:10hizo el r Roboam escudos de bronce, yH4428
+- 2Cr_12:10custodiaban la entrada de la casa del rH4428
+- 2Cr_12:11el r iba a la casa de Jehová, venían losH4428
+- 2Cr_13:1a los 18 años del r...reinó Abías sobreH4428
+- 2Cr_15:16aun a Maaca madre del r Asa...la depusoH4428
+- 2Cr_16:1subió Baasa r de Israel contra Judá, yH4428
+- 2Cr_16:1salir ni entrar a ninguno al r Asa, r deH4428
+- 2Cr_16:2sacó Asa...y envió a Ben-adad r de SiriaH4428
+- 2Cr_16:3alianza que tienes con Baasa r de IsraelH4428
+- 2Cr_16:4consintió Ben-adad con el r Asa, y envióH4428
+- 2Cr_16:6el r Asa tomó a todo Judá, y se llevaronH4428
+- 2Cr_16:7vino el vidente Hanani a Asa r de JudáH4428
+- 2Cr_16:7cuanto te has apoyado en el r de SiriaH4428
+- 2Cr_16:7el ejército del r de Siria ha escapadoH4428
+- 2Cr_16:11escritos en el libro de los r de JudáH4428
+- 2Cr_17:19éstos eran siervos del r, sin los queH4428
+- 2Cr_17:19que el r había puesto en las ciudadesH4428
+- 2Cr_18:3dijo Acab r de Israel a Josafat r de JudáH4428
+- 2Cr_18:4dijo Josafat al r de Israel: Te ruegoH4428
+- 2Cr_18:5el r de Israel reunió a 400 profetas, yH4428
+- 2Cr_18:5porque Dios los entregará en mano del rH4428
+- 2Cr_18:7el r de Israel respondió a Josafat: AúnH4428
+- 2Cr_18:7y respondió Josafat: No hable así el rH4428
+- 2Cr_18:8el r de Israel llamó a un oficial, y leH4428
+- 2Cr_18:9el r de Israel y Josafat r de...sentadosH4428
+- 2Cr_18:11Jehová la entregará en mano del rH4428
+- 2Cr_18:12a una voz anuncian al r cosas buenasH4428
+- 2Cr_18:13mi Dios me dijere...hablaré. Y vino al rH4428
+- 2Cr_18:14el r le dijo: Micaías, ¿iremos a pelearH4428
+- 2Cr_18:15el r le dijo: ¿Hasta cuántas veces teH4428
+- 2Cr_18:17el r de Israel dijo a Josafat: ¿No teH4428
+- 2Cr_18:19¿quién inducirá a Acab r de Israel, paraH4428
+- 2Cr_18:25el r de Israel dijo: Tomad a MicaíasH4428
+- 2Cr_18:25y llevadlo a Amón...y a Joás hijo del rH4428
+- 2Cr_18:26el r ha dicho así: Poned a éste en laH4428
+- 2Cr_18:28subieron...el r de Israel, y Josafat rH4428
+- 2Cr_18:29dijo el r de Israel a Josafat: Yo meH4428
+- 2Cr_18:29y se disfrazó el r de Israel, y entróH4428
+- 2Cr_18:30el r de Siria mandado a los capitanesH4428
+- 2Cr_18:30con grande, sino sólo con el r de IsraelH4428
+- 2Cr_18:31dijeron: Este es el r de Israel. Y loH4428
+- 2Cr_18:32viendo los...que no era el r de IsraelH4428
+- 2Cr_18:33hirió al r de...entre las junturas y elH4428
+- 2Cr_18:34que estuvo el r de Israel en pie en elH4428
+- 2Cr_19:1Josafat r de Judá volvió en paz a su casaH4428
+- 2Cr_19:11Zebadías...en todos los negocios del rH4428
+- 2Cr_20:15oíd, Judá...y tú, r Josafat...Jehová osH4428
+- 2Cr_20:34se hace mención en el libro de los rH4428
+- 2Cr_20:35Josafat r...trabó amistad con Ocozías rH4428
+- 2Cr_21:2estos fueron hijos de Josafat r de JudáH4428
+- 2Cr_21:6anduvo en el camino de los r de IsraelH4428
+- 2Cr_21:8rebeló Edom contra...y pusieron r sobre síH4428
+- 2Cr_21:12no...ni en los caminos de Asa r de JudáH4428
+- 2Cr_21:13has andado el camino de los r de IsraelH4428
+- 2Cr_21:17todos los bienes que...en la casa del rH4428
+- 2Cr_21:20sepultaron...no en los sepulcros de...rH4428
+- 2Cr_22:1hicieron r en lugar de Joram a OcozíasH4428
+- 2Cr_22:1reinó Ocozías, hijo de Joram r de JudáH4428
+- 2Cr_22:5fue a la guerra con Joram...r de IsraelH4428
+- 2Cr_22:5fue a la guerra...contra Hazaci r de SiriaH4428
+- 2Cr_22:6en Ramot, peleando contra Hazael r deH4428
+- 2Cr_22:6descendió Ocozías hijo de Joram, r deH4428
+- 2Cr_22:11Josabet, hija del r, tomó a Joás hijoH4428
+- 2Cr_22:11tomó...de entre los demás hijos del rH4428
+- 2Cr_22:11así lo escondió Josabet, hija del rH4428
+- 2Cr_23:3pacto con el r...He aquí el hijo del rH4428
+- 2Cr_23:5otra tercera parte, a la casa del r; yH4428
+- 2Cr_23:7rodearán al r por...y estaréis con el rH4428
+- 2Cr_23:9escudos que habían sido del r David, yH4428
+- 2Cr_23:10puso...alrededor del r por todas partesH4428
+- 2Cr_23:11sacaron al hijo del r...lo proclamaron rH4428
+- 2Cr_23:11lo ungieron, diciendo luego: ¡Viva el r![[H4428]]
+- 2Cr_23:12estruendo...de los que aclamaban al rH4428
+- 2Cr_23:13vio al r...y los trompeteros junto al rH4428
+- 2Cr_23:15pasado la entrada de...de la casa del rH4428
+- 2Cr_23:16pacto entre sí y todo el pueblo y el rH4428
+- 2Cr_23:20conducir al r desde la casa de JehováH4428
+- 2Cr_23:20la casa del r, sentaron al r sobre elH4428
+- 2Cr_24:6el r llamó al sumo sacerdote Joiada yH4428
+- 2Cr_24:8mandó, pues, el r que hiciesen un arcaH4428
+- 2Cr_24:11llevar el arca al secretario del r porH4428
+- 2Cr_24:11venía el escriba del r...y llevaban elH4428
+- 2Cr_24:12el r y Joiada lo daban a los que hacíanH4428
+- 2Cr_24:14trajeron al r...que quedaba del dineroH4428
+- 2Cr_24:16y lo sepultaron...con los r, por cuantoH4428
+- 2Cr_24:17los príncipes de...al r; y el r los oyóH4428
+- 2Cr_24:21por mandato del r lo apedrearon hastaH4428
+- 2Cr_24:22así el r Joás no se acordó de...JoiadaH4428
+- 2Cr_24:23enviaron todo el botín al r a DamascoH4428
+- 2Cr_24:25David, pero no en los sepulcros de los rH4428
+- 2Cr_24:27escrito en la historia del...de los rH4428
+- 2Cr_25:3mató a los...que habían matado al r suH4428
+- 2Cr_25:7dijo: R, no vaya contigo el ejército deH4428
+- 2Cr_25:16te han puesto a ti por consejero del r?[[H4428]]
+- 2Cr_25:17Amasías r de...envió a decir a Joás...rH4428
+- 2Cr_25:18Joás r de...envió a decir a Amasías rH4428
+- 2Cr_25:21Joás r de...se vieron...él y Amasías rH4428
+- 2Cr_25:23y Joás r de Israel apresó...a Amasías rH4428
+- 2Cr_25:24tomó...los tesoros de la casa del r, yH4428
+- 2Cr_25:25vivió Amasías...r...la muerte de Joás...rH4428
+- 2Cr_25:26; 2Cr_27:7; 2Cr_32:32; 2Cr_35:27; 2Cr_36:8escritos en el libro de los rH4428
+- 2Cr_26:1y lo pusieron por r en lugar de AmasíasH4428
+- 2Cr_26:2y la restituyó a Judá después que el rH4428
+- 2Cr_26:11y de Hananías, uno de los jefes del rH4428
+- 2Cr_26:13para ayudar al r contra los enemigosH4428
+- 2Cr_26:18y se pusieron contra el r Uzías, y leH4428
+- 2Cr_26:21el r Uzías fue leproso hasta el día deH4428
+- 2Cr_27:5él guerra con el r de los hijos de AmónH4428
+- 2Cr_28:2anduvo en los caminos de los r de IsraelH4428
+- 2Cr_28:5lo entregó en manos del r de los siriosH4428
+- 2Cr_28:5entregado en manos del r de Israel, elH4428
+- 2Cr_28:7además Zicri...mató a Maasías hijo del rH4428
+- 2Cr_28:7mató...y a Elcana, segundo después del rH4428
+- 2Cr_28:16a pedir el r Acaz a los r de Asiría queH4428
+- 2Cr_28:19humillado a Judá por causa de Acaz r deH4428
+- 2Cr_28:20vino contra él Tiglat-pileser r de losH4428
+- 2Cr_28:21despojó...para dar al r de los asiriosH4428
+- 2Cr_28:22además el r Acaz...añadió mayor pecadoH4428
+- 2Cr_28:23los dioses de los r de Siria les ayudanH4428
+- 2Cr_28:26escritos en el libro de los r de JudáH4428
+- 2Cr_28:27Acaz, no...en los sepulcros de los rH4428
+- 2Cr_29:15conforme al mandamiento del r y lasH4428
+- 2Cr_29:18vinieron al r Ezequías y le dijeronH4428
+- 2Cr_29:19todos los...había desechado el r AcazH4428
+- 2Cr_29:20el r Ezequías reunió los principalesH4428
+- 2Cr_29:23acercar delante del r...machos cabríosH4428
+- 2Cr_29:24mandó el r hacer el holocausto y laH4428
+- 2Cr_29:25al mandamiento...de Gad vidente del rH4428
+- 2Cr_29:27los instrumentos de David r de IsraelH4428
+- 2Cr_29:29se inclinó el r, y todos los que conH4428
+- 2Cr_29:30el r Ezequías y los príncipes dijeronH4428
+- 2Cr_30:2y el r había tomado consejo...príncipesH4428
+- 2Cr_30:4esto agradó al r y a toda la multitudH4428
+- 2Cr_30:6correos con cartas de mano del r y deH4428
+- 2Cr_30:6con cartas...como el r lo había mandadoH4428
+- 2Cr_30:6quedado de la mano de los r de AsiríaH4428
+- 2Cr_30:12para cumplir el mensaje del r y deH4428
+- 2Cr_30:24porque Ezequías r de Judá había dadoH4428
+- 2Cr_30:26de Salomón hijo de David r de IsraelH4428
+- 2Cr_31:3el r contribuyó de su propia haciendaH4428
+- 2Cr_31:13por mandamiento del r Ezequías y deH4428
+- 2Cr_32:1Senaquerib r de los asirios e invadióH4428
+- 2Cr_32:4¿por qué han de hallar los r...aguasH4428
+- 2Cr_32:7ni tengáis miedo del r de Asiria, ni deH4428
+- 2Cr_32:8confianza en las palabras de Ezequías rH4428
+- 2Cr_32:9Senaquerib r de...para decir a Ezequías rH4428
+- 2Cr_32:10así ha dicho Senaquerib r de los asiriosH4428
+- 2Cr_32:11nos librará de la mano del r de Asiría?[[H4428]]
+- 2Cr_32:20mas el r Ezequías y el...oraron por estoH4428
+- 2Cr_32:21destruyó...el campamento del r de AsiríaH4428
+- 2Cr_32:22salvó Jehová...de las manos...r de AsiriaH4428
+- 2Cr_33:11contra él los generales...del r de losH4428
+- 2Cr_33:18está escrito en las actas de los r deH4428
+- 2Cr_33:25mató a todos los...conspirado contra el rH4428
+- 2Cr_33:25el pueblo...por r en su lugar a JosíasH4428
+- 2Cr_34:11edificios que habían destruido los r deH4428
+- 2Cr_34:16y Safán lo llevó al r, y le contó elH4428
+- 2Cr_34:18Safán al r...El sacerdote Hilcías me dio unH4428
+- 2Cr_34:18libro...Y leyó Safán en él delante del rH4428
+- 2Cr_34:19luego que el r oyó las palabras de laH4428
+- 2Cr_34:20mandó...a Asaías siervo del r, diciendoH4428
+- 2Cr_34:22y los del r fueron a Hulda profetisaH4428
+- 2Cr_34:24en el libro que leyeron delante del rH4428
+- 2Cr_34:26mas al r de Judá, que os ha enviado aH4428
+- 2Cr_34:28y ellos refirieron al r la respuestaH4428
+- 2Cr_34:29el r envió y reunió a todos los ancianosH4428
+- 2Cr_34:30subió el r a la casa de Jehová, y con élH4428
+- 2Cr_34:31estando el r en pie en su sitio, hizoH4428
+- 2Cr_35:3la casa que edificó Salomón...r de IsraelH4428
+- 2Cr_35:4lo ordenaron David r de Israel y SalomónH4428
+- 2Cr_35:7dio el r Josías a...de la hacienda del rH4428
+- 2Cr_35:10turnos, conforme al mandamiento del rH4428
+- 2Cr_35:15al mandamiento...Jedutún vidente del rH4428
+- 2Cr_35:18ni ningún r...como la que celebró el rH4428
+- 2Cr_35:19fue celebrada en el año 18 del r JosíasH4428
+- 2Cr_35:20r de Egipto subió para hacer guerra enH4428
+- 2Cr_35:21¿qué tengo yo contigo, r de Judá? Yo noH4428
+- 2Cr_35:23los flecheros tiraron contra el r JosíasH4428
+- 2Cr_35:23dijo el r a sus siervos: Quitadme deH4428
+- 2Cr_36:1a Joacaz hijo de Josías, y lo hizo r enH4428
+- 2Cr_36:3y el r de Egipto lo quitó de JerusalénH4428
+- 2Cr_36:4y estableció el r de...a Eliaquim...por rH4428
+- 2Cr_36:6contra él Nabucodonosor r de BabiloniaH4428
+- 2Cr_36:10constituyó a Sedequías...r sobre JudáH4428
+- 2Cr_36:17trajo contra ellos al r de los caldeosH4428
+- 2Cr_36:18los tesoros de la casa del r...lo llevóH4428
+- 2Cr_36:22el primer año de Ciro r de los persasH4428
+- 2Cr_36:22Jehová despertó el espíritu de Ciro rH4428
+- 2Cr_36:23así dice Ciro, r de los persas: JehováH4428
+- Esd_1:1en el primer año de Ciro r de PersiaH4428
+- Esd_1:1despertó Jehová el espíritu de Ciro r deH4428
+- Esd_1:2así ha dicho Ciro r de Persia: Jehová elH4428
+- Esd_1:7el r Ciro sacó los utensilios de la casaH4428
+- Esd_1:8los sacó...Ciro r de Persia, por mano deH4428
+- Esd_2:1que Nabucodonosor r de...llevado cautivosH4428
+- Esd_3:7conforme a...voluntad de Ciro r de PersiaH4428
+- Esd_3:10según la ordenanza de David r de IsraelH4428
+- Esd_4:2a él ofrecemos...desde los días de...r deH4428
+- Esd_4:3como nos mandó el r Ciro, r de PersiaH4428
+- Esd_4:5sobornaron...el tiempo de Ciro r de PersiaH4428
+- Esd_4:5y hasta el reinado de Darío r de PersiaH4428
+- Esd_4:7escribieron...a Artajerjes r de Persia; yH4428
+- Esd_4:8escribieron una carta...al r ArtajerjesH4430
+- Esd_4:11al r Artajerjes: Tus siervos...saludanH4430
+- Esd_4:12sea notorio al r, que los judíos queH4430
+- Esd_4:13sea notorio al r, que si aquella ciudadH4430
+- Esd_4:13y el erario de los r será menoscabadoH4430
+- Esd_4:14no nos es justo ver...menosprecio del rH4430
+- Esd_4:14cual hemos enviado a hacerlo saber al rH4430
+- Esd_4:15es ciudad rebelde, y perjudicial a los rH4430
+- Esd_4:16hacemos saber al r que si esta ciudadH4430
+- Esd_4:17r envió esta respuesta: A Rehum...SaludH4430
+- Esd_4:19se levanta contra los r y se rebela, yH4430
+- Esd_4:20hubo...r fuertes que dominaron en todo loH4430
+- Esd_4:22de crecer el daño en perjuicio de los r?[[H4430]]
+- Esd_4:23copia la carta del r Artajerjes fue leídaH4430
+- Esd_4:24el año segundo del reinado de Darío rH4430
+- Esd_5:6la carta que Tatnai...enviaron al r DaríoH4430
+- Esd_5:7estaba escrito en ella: Al r Darío...pazH4430
+- Esd_5:8sea notorio al r, que fuimos a la...casaH4430
+- Esd_5:11edificó y terminó el gran r de IsraelH4430
+- Esd_5:12los entregó en mano de...r de BabiloniaH4430
+- Esd_5:13el año primero de Ciro r de BabiloniaH4430
+- Esd_5:13r Ciro dio orden para que esta casa deH4430
+- Esd_5:14r Ciro los sacó del templo de BabiloniaH4430
+- Esd_5:17y ahora, si al r parece bien, búsqueseH4430
+- Esd_5:17la casa de los tesoros del r que está enH4430
+- Esd_5:17por el r Ciro había sido dada la ordenH4430
+- Esd_5:17se nos envíe a decir la voluntad del rH4430
+- Esd_6:1el r Darío dio la orden de buscar en laH4430
+- Esd_6:3en el año primero del r Ciro, el mismo rH4430
+- Esd_6:4el gasto sea pagado por el tesoro del rH4430
+- Esd_6:8que de la hacienda del r, que...sean dadosH4430
+- Esd_6:10oren por la vida del r y por sus hijosH4430
+- Esd_6:12destruya a todo r y pueblo que pusiereH4430
+- Esd_6:13hicieron...según el r Darío había ordenadoH4430
+- Esd_6:14por mandato...de Artajerjes r de PersiaH4430
+- Esd_6:15era el sexto año del reinado del r DaríoH4430
+- Esd_6:22había vuelto el corazón del r de AsiriaH4428
+- Esd_7:1en el reinado de Artajerjes r de PersiaH4428
+- Esd_7:6concedió el r todo lo que pidió, porqueH4428
+- Esd_7:7Jerusalén...séptimo año del r ArtajerjesH4428
+- Esd_7:8en el mes quinto del año séptimo del rH4428
+- Esd_7:11copia de la carta que dio el r ArtajeriesH4428
+- Esd_7:12Artajerjes r de r, a Esdras, sacerdoteH4428
+- Esd_7:14de parte del r y de sus siete consejerosH4428
+- Esd_7:15llevar...el oro que el r y sus consejerosH4428
+- Esd_7:20lo darás de la casa de los tesoros del rH4428
+- Esd_7:21y por mí, Artajerjes r, es dada orden aH4428
+- Esd_7:23contra el reinado del r y de sus hijos?[[H4428]]
+- Esd_7:26que no cumpliere la ley...y la ley del rH4428
+- Esd_7:27que puso tal cosa en el corazón del rH4428
+- Esd_7:28delante del r y de sus consejeros, y deH4428
+- Esd_7:28de todos los príncipes poderosos del rH4428
+- Esd_8:1de Babilonia, reinando el r ArtajerjesH4428
+- Esd_8:22vergüenza de pedir al r tropa y genteH4428
+- Esd_8:22porque habíamos hablado al r, diciendoH4428
+- Esd_8:25ofrenda que...habían ofrecido el r y susH4428
+- Esd_8:36y entregaron los despachos del r a susH4428
+- Esd_9:7nuestros r y nuestros sacerdotes hemosH4428
+- Esd_9:7hemos sido entregados en manos de los rH4428
+- Esd_9:9misericordia delante de los r de PersiaH4428
+- Neh_1:11tu siervo, yo servía de copero al rH4428
+- Neh_2:1Nisán, en el año veinte del r ArtajerjesH4428
+- Neh_2:1en el mes...tomé el vino y los serví al rH4428
+- Neh_2:2dijo el r: ¿Por qué está triste tu rostro?[[H4428]]
+- Neh_2:3dije al r: Para siempre viva el r...¿CómoH4428
+- Neh_2:4me dijo el r: ¿Qué cosa pides? EntoncesH4428
+- Neh_2:5dije al r: Si le place al r, y tu siervoH4428
+- Neh_2:6el r me dijo (y la reina estaba sentadaH4428
+- Neh_2:6agradó al r enviarme, después que yo leH4428
+- Neh_2:7dije al r: Si le place al r, que se me denH4428
+- Neh_2:8carta para Asaf guarda del bosque del rH4428
+- Neh_2:8lo concedió el r, según la...mano de JehováH4428
+- Neh_2:9vine luego a...y les di las cartas del rH4428
+- Neh_2:9y el r envió...capitanes del ejército yH4428
+- Neh_2:14pasé...al estanque del R; pero no habíaH4428
+- Neh_2:18declaré...las palabras que el r me habíaH4428
+- Neh_2:19¿qué es esto...¿Os rebeláis contra el rH4428
+- Neh_3:15estanque de Siloé hacia el huerto del rH4428
+- Neh_3:25y la torre...que sale de la casa del rH4428
+- Neh_5:4tomado prestado dinero...el tributo del rH4428
+- Neh_5:14mandó el r que fuese gobernador de ellosH4428
+- Neh_5:14el año veinte del r Artajerjes hasta elH4428
+- Neh_6:6edificas tú...con la mira...de ser tú su rH4428
+- Neh_6:7¡hay r en Judá! Y ahora serán oídas del rH4428
+- Neh_7:6de los que llevó cautivos Nabucodonosor rH4428
+- Neh_9:22y poseyeron...la tierra del r de HesbónH4428
+- Neh_9:22poseyeron...la tierra de Og r de BasánH4428
+- Neh_9:24y a sus r, y a los pueblos de la tierraH4428
+- Neh_9:32el sufrimiento que ha alcanzado a...r, aH4428
+- Neh_9:32días de los r de Asiria hasta este díaH4428
+- Neh_9:34nuestros r...no pusieron por obra tu leyH4428
+- Neh_9:37y se multiplica su fruto para los r queH4428
+- Neh_11:23porque había mandamiento del r acercaH4428
+- Neh_11:24y Petaías...estaba al servicio del r enH4428
+- Neh_13:6en el año 32 de Artajerjes r de...fui al rH4428
+- Neh_13:6cabo de algunos días pedí permiso al rH4428
+- Neh_13:26¿no pecó por esto Salomón, r de Israel?[[H4428]]
+- Neh_13:26en muchas naciones no hubo r como élH4428
+- Neh_13:26Dios lo había puesto por r sobre todoH4428
+- Est_1:2cuando fue afirmado el r Asuero sobreH4428
+- Est_1:5hizo el r otro banquete por siete días enH4428
+- Est_1:7vino...de acuerdo con la generosidad del rH4428
+- Est_1:8porque así lo había mandado el r a todosH4428
+- Est_1:9banquete...en la casa real del r AsueroH4428
+- Est_1:10estando el corazón del r alegre del vinoH4428
+- Est_1:10siete eunucos que servían delante del rH4428
+- Est_1:11trajesen a...Vasti a la presencia del rH4428
+- Est_1:12Vasti no quiso comparecer a la orden rH4428
+- Est_1:12r se enojó mucho, y se encendió en iraH4428
+- Est_1:13preguntó entonces el r a los sabios queH4428
+- Est_1:13así acostumbraba el r con todos los queH4428
+- Est_1:14siete príncipes...que veían la cara del rH4428
+- Est_1:15no había cumplido la orden del r AsueroH4428
+- Est_1:16y dijo Memucán delante del r y de losH4428
+- Est_1:16no solamente contra el r ha pecado laH4428
+- Est_1:16pueblos...en todas las provincias del rH4428
+- Est_1:17el r Asuero mandó traer delante de sí aH4428
+- Est_1:18dirán esto...a todos los príncipes del rH4428
+- Est_1:19si parece bien al r, salga un decretoH4428
+- Est_1:19Vasti no venga más delante del r AsueroH4428
+- Est_1:19y el r haga reina a otra que sea mejorH4428
+- Est_1:20el decreto que dicte el r será oído enH4428
+- Est_1:21agradó...a los ojos del r y...los príncipesH4428
+- Est_1:21hizo el r conforme al dicho de MemucánH4428
+- Est_1:22envió cartas a todas las provincias del rH4428
+- Est_2:1sosegada...ira del r Asuero, se acordó deH4428
+- Est_2:2y dijeron los criados del r...cortesanosH4428
+- Est_2:2busquen para el r jóvenes vírgenes deH4428
+- Est_2:3ponga el r personas en...las provincias deH4428
+- Est_2:3al cuidado de Hegai eunuco del r, guardaH4428
+- Est_2:4la doncella que agrade a los ojos del rH4428
+- Est_2:4esto agradó a los ojos del r, y lo hizoH4428
+- Est_2:6fueron llevados con Jeconías r de Judá, aH4428
+- Est_2:6a quien hizo transportar Nabucodonosor rH4428
+- Est_2:8cuando se divulgó el mandamiento...del rH4428
+- Est_2:8Ester también fue llevada a la casa del rH4428
+- Est_2:9le dio...siete doncellas...de la casa del rH4428
+- Est_2:12tiempo de cada...para venir al r AsueroH4428
+- Est_2:13la doncella venía así al r...Todo lo queH4428
+- Est_2:13ataviada con ello...hasta la casa del rH4428
+- Est_2:14casa...al cargo de Saasgaz eunuco del rH4428
+- Est_2:14no venía...al r, salvo si el r la queríaH4428
+- Est_2:15llegó a Ester...el tiempo de venir al rH4428
+- Est_2:15lo que dijo Hegai eunuco del r, guardaH4428
+- Est_2:16fue, pues, Ester llevada al r Asuero aH4428
+- Est_2:17r amó a Ester más que a todas las otrasH4428
+- Est_2:18hizo...el r un gran banquete a todos susH4428
+- Est_2:19, Est_2:21Mardoqueo...sentado a la puerta del rH4428
+- Est_2:21se enojaron...dos eunucos del r, de laH4428
+- Est_2:21y procuraban poner mano en el r AsueroH4428
+- Est_2:22lo dijo al r en nombre de MardoqueoH4428
+- Est_2:23caso en el libro de las crónicas del rH4428
+- Est_3:1el r Asuero engrandeció a Amán hijo deH4428
+- Est_3:2los siervos del r...a la puerta del r seH4428
+- Est_3:2así lo había mandado el r; pero MardoqueoH4428
+- Est_3:3los siervos del r que estaban a la puertaH4428
+- Est_3:3¿por qué traspasas el mandamiento del r?[[H4428]]
+- Est_3:7el año duodécimo del r Asuero, fue echadaH4428
+- Est_3:8y dijo Amán al r Asuero: Hay un puebloH4428
+- Est_3:8no guardan las leyes del r, y al r nadaH4428
+- Est_3:9place al r, decrete que sean destruidosH4428
+- Est_3:9para que sean traídos a los tesoros del rH4428
+- Est_3:10el r quitó el anillo de su mano, y lo dioH4428
+- Est_3:12fueron llamados los escribanos del r enH4428
+- Est_3:12lo que mandó Amán, a los sátrapas del rH4428
+- Est_3:12en nombre del r Asuero fue escrito, yH4428
+- Est_3:12escrito, y sellado con el anillo del rH4428
+- Est_3:13de correos a todas las provincias del rH4428
+- Est_3:15salieron los correos...por mandato del rH4428
+- Est_3:15y el r y Amán se sentaron a beber; peroH4428
+- Est_4:2y vino hasta delante de la puerta del rH4428
+- Est_4:2no era lícito pasar...de la puerta del rH4428
+- Est_4:3donde el mandamiento del r y su decretoH4428
+- Est_4:5llamó a Hatac, uno de los eunucos del rH4428
+- Est_4:6a la plaza de, delante de la puerta del rH4428
+- Est_4:7la plata que Aman...para los tesoros del rH4428
+- Est_4:8fuese ante el r a suplicarle...intercederH4428
+- Est_4:11todos los siervos del r, y el pueblo deH4428
+- Est_4:11pueblo de las provincias del r, saben queH4428
+- Est_4:11en el patio interior para ver al r, sinH4428
+- Est_4:11aquel a quien el r extendiere el cetro deH4428
+- Est_4:11no he sido llamada para ver al r estosH4428
+- Est_4:13que escaparás en la casa del r más queH4428
+- Est_4:16entonces entraré a ver al r, aunque noH4428
+- Est_5:1entró...el patio interior de la casa del rH4428
+- Est_5:1del aposento del r; y estaba el r sentadoH4428
+- Est_5:2y el r extendió a Ester el cetro de oroH4428
+- Est_5:3dijo el r: ¿Qué tienes, reina Ester, yH4428
+- Est_5:4si place al r, vengan hoy el r y Amán alH4428
+- Est_5:4al banquete que he preparado para el rH4428
+- Est_5:5respondió el r: Daos prisa, llamad a AmánH4428
+- Est_5:5vino, pues, el r con Amán al banquete queH4428
+- Est_5:6dijo el r a Ester...¿Cuál es tu peticiónH4428
+- Est_5:8si he hallado gracia ante los ojos del rH4428
+- Est_5:8si place al r...que venga el r con Amán aH4428
+- Est_5:8haré conforme a lo que el r ha mandadoH4428
+- Est_5:9vio a Mardoqueo a la puerta del...del rH4428
+- Est_5:11con que el r le había engrandecido, yH4428
+- Est_5:11había honrado sobre los, siervos del rH4428
+- Est_5:12Ester a ninguno hizo venir con el r alH4428
+- Est_5:12mañana estoy convidado por ella con el rH4428
+- Est_5:13veo...Mardoqueo sentado a la puerta del rH4428
+- Est_5:14al r que cuelguen a Mardoqueo en ellaH4428
+- Est_5:14y entra alegre con el r al banqueteH4428
+- Est_6:1se le fue el sueño al r, y dijo que leH4428
+- Est_6:2el complot de...dos eunucos del r, de laH4428
+- Est_6:2que habían procurado poner mano en el rH4428
+- Est_6:3dijo el r: ¿Qué honra o qué distinciónH4428
+- Est_6:3respondieron los servidores del r, susH4428
+- Est_6:4el r: ¿Quién está en el patio? Y AmánH4428
+- Est_6:4hablarle al r para que hiciese colgar aH4428
+- Est_6:5y los servidores del r le respondieronH4428
+- Est_6:5Amán está en el...Y el r dijo: Que entreH4428
+- Est_6:6el r le dijo: ¿Qué se hará al hombre cuyaH4428
+- Est_6:6se hará al hombre cuya honra desea el r?[[H4428]]
+- Est_6:6a quién deseará el r honrar más que a mí?[[H4428]]
+- Est_6:7al r: Para el varón cuya honra desea el rH4428
+- Est_6:8traigan el vestido...de que el r se visteH4428
+- Est_6:8caballo en que el r cabalga, y la coronaH4428
+- Est_6:9alguno de los príncipes más nobles del rH4428
+- Est_6:9vistan a aquel varón cuya honra desea el rH4428
+- Est_6:9, Est_6:11se hará al varón cuya honra desea el rH4428
+- Est_6:10entonces el r dijo a Amán: Date prisaH4428
+- Est_6:14los eunucos de, r llegaron apresuradosH4428
+- Est_7:1fue, pues, el r con Amán al banquete deH4428
+- Est_7:2dijo el r a Ester: ¿Cuál es tu peticiónH4428
+- Est_7:3oh r, si he hallado gracia en tus ojosH4428
+- Est_7:3y si al r place, séame dada mi vida porH4428
+- Est_7:4nuestra muerte sería para el r un dañoH4428
+- Est_7:5respondió el r Asuero, y dijo...¿Quién esH4428
+- Est_7:6turbó Amán delante del r y de la reinaH4428
+- Est_7:7r se levantó del banquete, encendido enH4428
+- Est_7:7estaba resuelto...el mal de parte del rH4428
+- Est_7:8después el r volvió del huerto del palacioH4428
+- Est_7:8dijo el r: ¿Querrás también violar a laH4428
+- Est_7:8al proferir el r esta palabra...cubrieronH4428
+- Est_7:9dijo uno de los eunucos que servían al rH4428
+- Est_7:9Mardoqueo...había hablado bien por el rH4428
+- Est_7:9entonces el r dijo: Colgadlo en ellaH4428
+- Est_7:10colgaron a...y se apaciguó la ira del rH4428
+- Est_8:1el r Asuero dio a la reina Ester la casaH4428
+- Est_8:1y Mardoqueo vino delante del r, porqueH4428
+- Est_8:2se quitó el r el anillo que recogió deH4428
+- Est_8:3volvió, Ester a hablar delante del r, yH4428
+- Est_8:4el r extendió a Ester el cetro de oroH4428
+- Est_8:4levantó, y se puso en pie delante del rH4428
+- Est_8:5si place al r, y si he hallado graciaH4428
+- Est_8:5y si le parece acertado al r, y yo soyH4428
+- Est_8:5los judíos...en todas las provincias del rH4428
+- Est_8:7respondió el r Asuero a la reina Ester yH4428
+- Est_8:8escribid, en nombre del r, y selladlo conH4428
+- Est_8:8y selladlo con el anillo del r, porque unH4428
+- Est_8:8del r, y se sella con el anillo del r, noH4428
+- Est_8:9fueron llamados los escribanos del r enH4428
+- Est_8:10y escribió en nombre del r Asuero, y loH4428
+- Est_8:10y lo selló con el anillo del r, y envióH4428
+- Est_8:11que el r daba facultad a los judíos queH4428
+- Est_8:12día en todas las provincias del r AsueroH4428
+- Est_8:14correos...salieron...por la orden del rH4428
+- Est_8:15y salió Mardoqueo de delante del r conH4428
+- Est_8:17ciudad donde llegó el mandamiento del rH4428
+- Est_9:1debía ser ejecutado el mandamiento del rH4428
+- Est_9:2judíos se reunieron en...provincias del rH4428
+- Est_9:3y oficiales del r, apoyaban a los judíosH4428
+- Est_9:4Mardoqueo era grande en la casa del rH4428
+- Est_9:11le dio cuenta al r acerca del número deH428
+- Est_9:12y dijo el r a la reina Ester: En SusaH428
+- Est_9:12¿qué habrán hecho en...provincias del r?[[H4428]]
+- Est_9:13si place al r, concédase...a los judíosH4428
+- Est_9:14y mandó el r que se hiciese así...Se dioH4428
+- Est_9:16los otros judíos...en las provincias del rH4428
+- Est_9:20que estaban en todas las provincias del rH4428
+- Est_9:25cuando Ester vino a la presencia del rH4428
+- Est_9:30cartas...a las 127 provincias del r, conH4428
+- Est_10:1r Asuero impuso tributo sobre la tierraH4428
+- Est_10:2la grandeza, con que el r le engrandecioH4428
+- Est_10:2en el libro de las crónicas de los r deH4428
+- Est_10:3Mardoqueo...fue el segundo después del rH4428
+- Job_3:14con los r y con los consejeros de laH4428
+- Job_15:24esforzarán...como un r dispuesto para laH4428
+- Job_18:14y al r de los espantos será conducidoH4428
+- Job_29:25el jefe, y moraba como r en el ejércitoH4428
+- Job_34:18dirá al r: Perverso; y a los príncipesH4428
+- Job_36:7bien con los r los pondrá en trono paraH4428
+- Job_41:34alta; es r sobre todos los soberbiosH4428
+- Sal_2:2se levantarán los r de la tierra, yH4428
+- Sal_2:6yo he puesto mi r sobre Sion, mi santoH4428
+- Sal_2:10ahora, pues, oh r, sed prudentes; admitidH4428
+- Sal_5:2está atento a la voz...R mío y Dios míoH4428
+- Sal_10:16Jehová es R eternamente y para siempreH4428
+- Sal_18:50triunfos da a su r, y hace misericordiaH4428
+- Sal_20:9salva, Jehová; que el R nos oiga en el díaH4428
+- Sal_21:1el r se alegra en tu poder, oh JehováH4428
+- Sal_21:7por cuanto el r confía en Jehová, y enH4428
+- Sal_24:7, Sal_24:9oh puertas...y entrará el R de gloriaH4428
+- Sal_24:8, Sal_24:10¿quién es este R de gloria? JehováH4428
+- Sal_24:10Jehová de los...él es el R de la gloriaH4428
+- Sal_29:10y se sienta Jehová como r para siempreH4428
+- Sal_33:16el r no se salva por la...del ejércitoH4428
+- Sal_44:4tú oh Dios, eres mi r; manda salvaciónH4428
+- Sal_45:1dirijo al r mi canto; mi lengua es plumaH4428
+- Sal_45:5tus saetas...penetrarán...enemigos del rH4428
+- Sal_45:9hijas de r están entre tus ilustres: estáH4428
+- Sal_45:11deseará el r tu hermosura; e inclínateH4428
+- Sal_45:13toda gloriosa es la hija del r en suH4428
+- Sal_45:14con vestidos bordados será llevada al rH4428
+- Sal_45:15y gozo; entrarán en el palacio del rH4428
+- Sal_47:2temible; R grande sobre toda la tierraH4428
+- Sal_47:6cantad a Dios, cantad; cantad a nuestro RH4428
+- Sal_47:7porque Dios es el R de toda la tierraH4428
+- Sal_48:2el monte de Sion...la ciudad del gran RH4428
+- Sal_48:4he aquí los r de la tierra se reunieronH4428
+- Sal_61:6días sobre días añadirás al r; sus añosH4428
+- Sal_63:11el r se alegrará en Dios; será alabadoH4428
+- Sal_68:12huyeron, huyeron r de ejércitos, y lasH4428
+- Sal_68:14cuando esparció...los r allí, fue comoH4428
+- Sal_68:24los caminos de mi Dios, de mi R, en elH4428
+- Sal_68:29por razón de...los r te ofrecerán donesH4428
+- Sal_72:1da tus juicios al r, y...al hijo del rH4428
+- Sal_72:10los r de Tarsis y de...traerán presentesH4428
+- Sal_72:10los r de Sabá y de Seba ofrecerán donesH4428
+- Sal_72:11todos los r se postrarán delante de élH4428
+- Sal_74:12pero Dios es mi r desde tiempo antiguoH4428
+- Sal_76:12cortará él...temible es a los r de laH4428
+- Sal_84:3cerca de tus altares, oh Jehová...R míoH4428
+- Sal_89:18Jehová es nuestre escudo, y nuestro rH4428
+- Sal_89:27el más excelso de los r de la tierraH4428
+- Sal_95:3Jehová...R grande sobre todos los diosesH4428
+- Sal_98:6sonidos de bocina, delante del r JehováH4428
+- Sal_99:4la gloria del r ama el juicio...rectitudH4428
+- Sal_102:15y todos los r de la tierra tu gloriaH4428
+- Sal_105:14y por causa de ellos castigó a los rH4428
+- Sal_105:20envió el r, y le soltó; el señor de losH4428
+- Sal_105:30ranas hasta en las cámaras de sus rH4428
+- Sal_110:5quebrantará a los r en el día de su iraH4428
+- Sal_119:46hablaré de...delante de los r, y no meH4428
+- Sal_135:10destruyó a muchas...mató a r poderososH4428
+- Sal_135:11a Sehón r amorreo, a Og r de BasánH4428
+- Sal_135:11de Basán, y a todos los r de CanaánH4428
+- Sal_136:17al que hirió a grandes r, porque paraH4428
+- Sal_136:18a r poderosos, porque para siempre esH4428
+- Sal_136:19a Sebón r amorreo, porque para siempreH4428
+- Sal_136:20y a Og r de Basán, porque para siempreH4428
+- Sal_138:4te alabarán...todos los r de la tierraH4428
+- Sal_144:10tú, el que da victoria a los r, el queH4428
+- Sal_145:1te exaltaré, mi Dios, mi R, y bendeciréH4428
+- Sal_148:11los r de la tierra y todos los pueblosH4428
+- Sal_149:2Israel...hijos de Sion se gocen en su RH4428
+- Sal_149:8para aprisionar a sus r con grillos, yH4428
+- Pro_1:1de Salomón, hijo de David, r de IsraelH4428
+- Pro_8:15por mí reinan los r, y los príncipesH4428
+- Pro_14:28en la multitud de...está la gloria del rH4428
+- Pro_14:35benevolencia del r es para...entendidoH4428
+- Pro_16:10oráculo hay en los labios del r...juicioH4428
+- Pro_16:12abominación es a los r hacer impiedadH4428
+- Pro_16:13labios justos...contentamiento de los rH4428
+- Pro_16:14la ira del r es mensajero de muerte, masH4428
+- Pro_16:15en la alegría del...del r está la vidaH4428
+- Pro_19:12como rugido de...de león es la ira del rH4428
+- Pro_20:2como rugido...de león es el terror del rH4428
+- Pro_20:8el r que...con su mirar disipa todo malH4428
+- Pro_20:26r sabio avienta a los impíos, y sobreH4428
+- Pro_20:28misericordia y verdad guardan al r, yH4428
+- Pro_21:1así está el corazón del r en la mano deH4428
+- Pro_22:11por la gracia...tendrá la amistad del rH4428
+- Pro_22:29visto hombre...Delante de los r estaráH4428
+- Pro_24:21teme a Jehová, hijo mío, y al r; no teH4428
+- Pro_25:1copiaron los varones de Ezequías, r deH4428
+- Pro_25:2Dios...pero honra del r es escudriñarloH4428
+- Pro_25:3corazón de los r, no hay investigaciónH4428
+- Pro_25:5aparta al impío de la presencia del rH4428
+- Pro_25:6no te alabes delante del r, ni estés enH4428
+- Pro_29:4el r con el juicio afirma la tierra; masH4428
+- Pro_29:14del r que juzga con verdad a los pobresH4428
+- Pro_30:27las langostas, que no tienen r, y salenH4428
+- Pro_30:28la araña que...y está en palacios de rH4428
+- Pro_30:31cabrío, y el r, a quien nadie resisteH4428
+- Pro_31:1palabras del r Lemuel; la profecía conH4428
+- Pro_31:3ni tus caminos a lo que destruye a los rH4428
+- Pro_31:4no es de los r, oh...de los r beber vinoH4428
+- Ecl_1:1palabras del Predicador...de David, r enH4428
+- Ecl_1:12yo el Predicador fui r sobre Israel enH4428
+- Ecl_2:8me amontoné...tesoros preciados de r y deH4428
+- Ecl_2:12podrá hacer el...que venga después del r?[[H4428]]
+- Ecl_4:13muchacho pobre...que el r viejo y necioH4428
+- Ecl_5:9todos; el r mismo está sujeto a los camposH4428
+- Ecl_8:2aconsejo...guardes el mandamiento del rH4428
+- Ecl_8:4pues la palabra del r es con potestadH4428
+- Ecl_9:14viene contra ella un gran r, y la asediaH4428
+- Ecl_10:16¡ay de ti, tierra...tu r es muchacho, yH4428
+- Ecl_10:17¡bienaventurada...tu r es hijo de noblesH4428
+- Ecl_10:20ni aun en...pensamiento digas mal del rH4428
+- Cnt_1:4el r me ha metido en sus cámaras; nosH4428
+- Cnt_1:12mientras el r estaba en su reclinatorioH4428
+- Cnt_3:9r Salomón se hizo una carroza de maderaH4428
+- Cnt_3:11ved al r Salomón con la corona con queH4428
+- Cnt_7:5como la púrpura del r suspendida en losH4428
+- Isa_1:1de Uzías, Jotam, Acaz y Ezequías, r deH4428
+- Isa_6:1en el año que murió el r Uzías vi yo alH4428
+- Isa_6:5porque han visto mis ojos al R, Jehová deH4428
+- Isa_7:1aconteció en los días de Acaz...r de JudáH4428
+- Isa_7:1que Rezín r de Siria y Peka...r de IsraelH4428
+- Isa_7:6en medio de ella por r al hijo de TabeelH4428
+- Isa_7:16la tierra de los dos r que tú temes seráH4428
+- Isa_7:17Jehová hará venir sobre...al r de AsiriaH4428
+- Isa_7:20con el r de Asiria, cabeza y pelo de losH4428
+- Isa_8:4los despojos de Samaria delante del r deH4428
+- Isa_8:7esto es, al r de Asiria con todo su poderH4428
+- Isa_8:21se enojarán y maldecirán a su r y a suH4428
+- Isa_10:8dice: Mis príncipes, ¿no son todos r?[[H4428]]
+- Isa_10:12la soberbia del corazón del r de AsiriaH4428
+- Isa_14:4pronunciarás este proverbio contra el rH4428
+- Isa_14:9hizo levantar de...r de las nacionesH4428
+- Isa_14:18todos los r de las naciones...yacen conH4428
+- Isa_14:28en el año que murió el r Acaz fue estaH4428
+- Isa_19:4r violento se enseñoreará de ellos, diceH4428
+- Isa_19:11yo soy hijo de los sabios...r antiguos?[[H4428]]
+- Isa_20:1cuando lo envió Sargón r de Asiria, yH4428
+- Isa_20:4llevará el r de Asiria a los cautivos deH4428
+- Isa_20:6libres de la presencia del r de AsiriaH4428
+- Isa_23:15Tiro será puesta en...como días de un rH4428
+- Isa_24:21castigará...a los r de la tierra sobreH4428
+- Isa_30:33Tofet ya de...está dispuesto...para el rH4428
+- Isa_32:1para justicia reinará un r, y príncipesH4428
+- Isa_33:17tus ojos verán al R en su hermosuraH4428
+- Isa_33:22porque...Jehová es nuestro R; él mismoH4428
+- Isa_36:1el año catorce del r...r de Asiria subióH4428
+- Isa_36:2r de Asiria envió...contra el r EzequíasH4428
+- Isa_36:4gran r, el r de Asiria, dice así: ¿QuéH4428
+- Isa_36:6tal es Faraón r de Egipto para con todosH4428
+- Isa_36:8te ruego que des rehenes al r de AsiriaH4428
+- Isa_36:13palabras del gran rey, el r de AsiriaH4428
+- Isa_36:14el r dice así: No os engañe EzequíasH4428
+- Isa_36:15esta ciudad en manos del r de AsiriaH4428
+- Isa_36:16así dice el r de Asiria: Haced conmigoH4428
+- Isa_36:18su tierra de la mano del r de Asiria?[[H4428]]
+- Isa_36:21r así lo había mandado, diciendo: No leH4428
+- Isa_37:1cuando el r Ezequías oyó esto, rasgó suH4428
+- Isa_37:4al cual el r de Asiria su señor envióH4428
+- Isa_37:6blasfemado los siervos del r de AsiríaH4428
+- Isa_37:8al r de Asiría que combatía contra LibnaH4428
+- Isa_37:9mas oyendo decir de Tirhaca r de EtiopíaH4428
+- Isa_37:10no será entregada en mano del r de AsiriaH4428
+- Isa_37:11oíste lo que han hecho los r de AsirlaH4428
+- Isa_37:13el r de Hamat, el r de Arfad, y el r deH4428
+- Isa_37:18los r de Asiria destruyeron...comarcasH4428
+- Isa_37:21me rogaste sobre Senaquerib r de AsiriaH4428
+- Isa_37:33así dice Jehová acerca del r de AsiriaH4428
+- Isa_37:37entonces Senaquerib r de Asiria se fueH4428
+- Isa_38:6y te libraré a...de mano del r de AsiríaH4428
+- Isa_39:1Merodac-baladán hijo...r...envió cartas yH4428
+- Isa_39:3el profeta Isaías vino al r Ezequías, yH4428
+- Isa_39:7y serán eunucos en el palacio del r deH4428
+- Isa_41:2le hizo enseñorear de r; los entregó aH4428
+- Isa_41:21presentad...pruebas, dice el r de JacobH4428
+- Isa_43:15Jehová...Creador de Israel, vuestro RH4428
+- Isa_44:6dice Jehová R de Israel, y su RedentorH4428
+- Isa_45:1sujetar naciones...y desatar lomos de rH4428
+- Isa_49:7verán r, y se levantarán príncipes, yH4428
+- Isa_49:23r serán tus ayos, y...reinas tus nodrizasH4428
+- Isa_52:15los r cerrarán ante él la boca, porqueH4428
+- Isa_57:9al r con ungüento, y multiplicaste tusH4428
+- Isa_60:3y los r al resplandor de tu nacimientoH4428
+- Isa_60:10extranjeros edificarán...r te serviránH4428
+- Isa_60:11a ti sean traídas...y conducidos...sus rH4428
+- Isa_60:16el pecho de los r mamarás; y conocerásH4428
+- Isa_62:2entonces verán...todos los r tu gloriaH4428
+- Jer_1:2vino en los días de Josías...r de JudáH4428
+- Jer_1:3le vino también en días de Joacim...r deH4428
+- Jer_1:3de Sedequías hijo de Josías, r de JudáH4428
+- Jer_1:18yo te he puesto...contra los r de JudáH4428
+- Jer_2:26se avergonzará la...sus r, sus príncipesH4428
+- Jer_3:6dijo Jehová en días del r Josías: ¿HasH4428
+- Jer_4:9aquel día...desfallecerá el corazón del rH4428
+- Jer_8:1sacarán los huesos de los r de Judá, y losH4428
+- Jer_8:19no está Jehová en Sion?...en ella su R?[[H4428]]
+- Jer_10:7¿quién no te temerá, oh R de...naciones?[[H4428]]
+- Jer_10:10él es Dios vivo y R eterno; a su iraH4428
+- Jer_13:13a los r de la estirpe de David que seH4428
+- Jer_13:18al r y a la reina: Humillaos, sentaosH4428
+- Jer_15:4a causa de Manasés hijo de...r de JudáH4428
+- Jer_17:19por la cual entran y salen los r de JudáH4428
+- Jer_17:20oíd la palabra de Jehová, r de Judá, yH4428
+- Jer_17:25entrarán...los r y los príncipes que seH4428
+- Jer_19:3dirás, pues: Oíd palabra de Jehová, oh rH4428
+- Jer_19:4a dioses...no habían conocido...ni los rH4428
+- Jer_19:13las casas de los r de...serán como...TofetH4428
+- Jer_20:4a todo Judá entregaré en manos del r deH4428
+- Jer_20:5daré todos los tesoros de los r de JudáH4428
+- Jer_21:1el r Sedequías envió a él a Pasur hijoH4428
+- Jer_21:2Nabucodonosor r de...hace guerra contraH4428
+- Jer_21:4las armas...con que peleáis contra el rH4428
+- Jer_21:7Sedequías r...en mano de...r de BabiloniaH4428
+- Jer_21:10esta ciudad...en mano del r de BabiloniaH4428
+- Jer_21:11y a la casa del r de Judá dirás: OídH4428
+- Jer_22:1dijo...Desciende a la casa del r de JudáH4428
+- Jer_22:2di: Oye palabra de Jehová, oh r de JudáH4428
+- Jer_22:4si...obedeciereis esta palabra, los r queH4428
+- Jer_22:6dicho...acerca de la casa del r de JudáH4428
+- Jer_22:11acerca de Salum hijo de Josías, r deH4428
+- Jer_22:18acerca de Joacim hijo de Josías, r deH4428
+- Jer_22:24Conías hijo de Joacim r de Judá fueraH4428
+- Jer_22:25te entregaré en mano de...r de BabiloniaH4428
+- Jer_23:5levantaré a...renuevo...y reinará como RH4428
+- Jer_24:1r de Babilonia a Jeconías...r de JudáH4428
+- Jer_24:8así...pondré a Sedequías r de Judá, a susH4428
+- Jer_25:1el año cuarto de Joacim hijo...r de JudáH4428
+- Jer_25:1era el año primero de Nabucodonosor r deH4428
+- Jer_25:3el año trece de Josías...r de Judá, hastaH4428
+- Jer_25:9tomaré a...r de Babilonia, mi siervo, yH4428
+- Jer_25:11servirán...naciones al r de BabiloniaH4428
+- Jer_25:12castigaré al r de Babilonia y...naciónH4428
+- Jer_25:14ellas serán sojuzgadas por...grandes rH4428
+- Jer_25:18a las ciudades de Judá y a sus r, y aH4428
+- Jer_25:19a Faraón r de Egipto, a sus siervos, aH4428
+- Jer_25:20todos los r...de Uz, y a todos los r deH4428
+- Jer_25:22todos los r de Tiro, a...los r de SidónH4428
+- Jer_25:22r de las costas que están de ese ladoH4428
+- Jer_25:24r de Arabia, a todos los r de pueblosH4428
+- Jer_25:25los r de Zimri...r de Elam...r de MediaH4428
+- Jer_25:26los r del...y el r de Babilonia beberáH4428
+- Jer_26:1reinado de Joacim hijo de Josías, r deH4428
+- Jer_26:10subieron de la casa del r a la casa deH4428
+- Jer_26:18profetizó en tiempo de Ezequías r deH4428
+- Jer_26:19¿acaso lo mataron Ezequías r de JudáH4428
+- Jer_26:21oyeron...el r Joacim...r procuró matarleH4428
+- Jer_26:22el r Joacim envió hombres a Egipto, aH4428
+- Jer_26:23trajeron al r Joacim, el cual lo mató aH4428
+- Jer_27:1reinado de Joacim hijo de Josías, r deH4428
+- Jer_27:3enviarás al r de Edom, y al r de Moab, yH4428
+- Jer_27:3r de los hijos de Amón, y al r de TiroH4428
+- Jer_27:3y al r de Sidón...vienen...a Sedequías rH4428
+- Jer_27:6he puesto...en mano de Nabucodonosor rH4428
+- Jer_27:7y la reduzcan a servidumbre...grandes rH4428
+- Jer_27:8reino que no sirviere a Nabucodonosor rH4428
+- Jer_27:8no...debajo del yugo del r de BabiloniaH4428
+- Jer_27:9, Jer_27:14os hablan diciendo: No serviréis al rH4428
+- Jer_27:11que sometiere su cuello al yugo del rH4428
+- Jer_27:12hablé...a Sedequías r de Judá conformeH4428
+- Jer_27:12cuellos al yugo del r de Babilonia, yH4428
+- Jer_27:13dicho...de la nación que no sirviere al rH4428
+- Jer_27:17servid al r de Babilonia y vivid; ¿porH4428
+- Jer_27:18los utensilios...en la casa del r de JudáH4428
+- Jer_27:20no quitó Nabucodonosor r de BabiloniaH4428
+- Jer_27:20transportó...a Jeconías hijo...r de JudáH4428
+- Jer_27:21que quedaron...en la casa del r de JudáH4428
+- Jer_28:1de Sedequías r de Judá, en el año cuartoH4428
+- Jer_28:2quebranté el yugo del r de BabiloniaH4428
+- Jer_28:3los utensilios...r de Babilonia tomó deH4428
+- Jer_28:4y yo haré volver...a Jeconías...r de JudáH4428
+- Jer_28:4quebrantaré el yugo del r de BabiloniaH4428
+- Jer_28:11romperé el yugo de Nabucodonosor r deH4428
+- Jer_28:14que sirvan a...r de Babilonia, y han deH4428
+- Jer_29:2que salió el r Jeconías, la reina, losH4428
+- Jer_29:3a quienes envió Sedequías r de Judá aH4428
+- Jer_29:3envió...a Nabucodonosor r de BabiloniaH4428
+- Jer_29:16ha dicho Jehová acerca del r que estáH4428
+- Jer_29:21los entrego yo en mano...r de BabiloniaH4428
+- Jer_29:22a Acab, a quienes asó al fuego el r deH4428
+- Jer_30:9servirán a Jehová...Dios y a David su rH4428
+- Jer_32:1año décimo de Sedequías r de Judá, queH4428
+- Jer_32:2entonces el ejército del r de BabiloniaH4428
+- Jer_32:2de la cárcel que estaba en la casa del rH4428
+- Jer_32:3Sedequías r...Judá lo había puesto presoH4428
+- Jer_32:3yo entrego...en mano del r de BabiloniaH4428
+- Jer_32:4Sedequías r de Judá no escapará de laH4428
+- Jer_32:4será entregado en mano...r de BabiloniaH4428
+- Jer_32:28ciudad...en mano de Nabucodonosor r deH4428
+- Jer_32:32sus r, sus príncipes, sus sacerdotes yH4428
+- Jer_32:36entregada...en mano del r de BabiloniaH4428
+- Jer_33:4las casas de los r de Judá, derribadasH4428
+- Jer_34:1Nabucodonosor r de Babilonia y todo suH4428
+- Jer_34:2vé y habla a Sedequías r de Judá, y dileH4428
+- Jer_34:2yo entregaré...ciudad al r de BabiloniaH4428
+- Jer_34:3ojos verán los ojos del r de BabiloniaH4428
+- Jer_34:4palabra de Jehová, Sedequías r de JudáH4428
+- Jer_34:5como quemaron especias por...r primerosH4428
+- Jer_34:6habló...Jeremías a Sedequías r de JudáH4428
+- Jer_34:7el ejército del r de Babilonia peleabaH4428
+- Jer_34:21Sedequías r de Judá...los entregaré enH4428
+- Jer_34:21en mano del ejército del r de BabiloniaH4428
+- Jer_35:1en días de Joacim hijo de Josías, r deH4428
+- Jer_35:11que cuando...r de Babilonia subió a laH4428
+- Jer_36:1cuarto año de Joacim hijo de Josías, rH4428
+- Jer_36:9el año quinto de Joacim hijo...r de JudáH4428
+- Jer_36:12descendió a la casa del r, al aposentoH4428
+- Jer_36:16sin duda contaremos al r todas estasH4428
+- Jer_36:20entraron a...r...contaron a oídos del rH4428
+- Jer_36:21y envió el r a Jehudí a que tomase elH4428
+- Jer_36:21a oídos del r...que junto al r estabanH4428
+- Jer_36:22el r estaba en la casa de invierno enH4428
+- Jer_36:23lo rasgó el r con un cortaplumas deH4428
+- Jer_36:24r y todos sus siervos que oyeron todasH4428
+- Jer_36:25rogaron al r...no quemase aquel rolloH4428
+- Jer_36:26mandó el r...que prendiesen a Baruc elH4428
+- Jer_36:27y vino palabra...después que el r quemóH4428
+- Jer_36:28en el primer rollo que quemó Joacim rH4428
+- Jer_36:29dirás a...r de Judá...quemaste este rolloH4428
+- Jer_36:29vendrá el r de Babilonia, y destruiráH4428
+- Jer_36:30acerca de Joacim r de Judá: No tendráH4428
+- Jer_36:32libro que quemó en el fuego Joacim rH4428
+- Jer_37:1reinó el r Sedequías hijo de Josías, alH4428
+- Jer_37:1Nabucodonosor r...constituyó por r en laH4428
+- Jer_37:3y envió el r Sedequías a Jucal hijo deH4428
+- Jer_37:7diréis así al r de Judá, que os envío aH4428
+- Jer_37:17r envió y le sacó; y le preguntó el rH4428
+- Jer_37:17y dijo más: En mano del r de BabiloniaH4428
+- Jer_37:18Jeremías al r Sedequías: ¿En qué pequéH4428
+- Jer_37:19diciendo: No vendrá el r de BabiloniaH4428
+- Jer_37:20ahora pues, oye, te ruego, oh r mi señorH4428
+- Jer_37:21dio orden el r Sedequías, y custodiaronH4428
+- Jer_38:3esta ciudad en manos del ejército del rH4428
+- Jer_38:4dijeron...al r: Muera ahora este hombreH4428
+- Jer_38:5dijo el r...el r nada puede hacer contraH4428
+- Jer_38:7y estando sentado el r a la puerta deH4428
+- Jer_38:8Ebed-melec...de la casa del r y habló al rH4428
+- Jer_38:9señor el r, mal hicieron estos varonesH4428
+- Jer_38:10mandó el r al mismo etíope Ebed-melecH4428
+- Jer_38:11y entró a la casa del r debajo de laH4428
+- Jer_38:14envió el r...Y dijo el r a Jeremías: TeH4428
+- Jer_38:16el r Sedequías en secreto a JeremíasH4428
+- Jer_38:17si te entregas...a los príncipes del rH4428
+- Jer_38:18no te entregas a los príncipes del rH4428
+- Jer_38:19y dijo el r Sedequías...Tengo temor deH4428
+- Jer_38:22que han quedado en casa del r de JudáH4428
+- Jer_38:22serán sacadas a los príncipes del r deH4428
+- Jer_38:23que por mano del r de Babilonia serásH4428
+- Jer_38:25qué hablaste con el r...qué te dijo el rH4428
+- Jer_38:26supliqué al r que no me hiciese volverH4428
+- Jer_38:27respondió conforme a todo lo que el rH4428
+- Jer_39:1en el noveno año de Sedequías r de JudáH4428
+- Jer_39:1vino Nabucodonosor r de Babilonia conH4428
+- Jer_39:3y entraron...príncipes del r de BabiloniaH4428
+- Jer_39:3los demás príncipes del r de BabiloniaH4428
+- Jer_39:4Sedequías r de...huyeron...huerto del rH4428
+- Jer_39:4y salió el r por el camino del ArabáH4428
+- Jer_39:5estaba Nabucodonosor r...y le sentencióH4428
+- Jer_39:6degolló el r...a los hijos de SedequíasH4428
+- Jer_39:6degollar el r de Babilonia a todos losH4428
+- Jer_39:7y sacó los ojos del r Sedequías, y leH4428
+- Jer_39:8caldeos pusieron a fuego la casa del rH4428
+- Jer_39:13envió...los príncipes del r de BabiloniaH4428
+- Jer_40:5al cual el r, ha puesto sobre todas lasH4428
+- Jer_40:7que el r...había puesto a Gedalías hijo deH4428
+- Jer_40:9servid al r de Babilonia, y os irá bienH4428
+- Jer_40:11r de Babilonia había dejado a algunosH4428
+- Jer_40:14¿no sabes que Baalis r de los hijos deH4428
+- Jer_41:1algunos príncipes del r y diez hombresH4428
+- Jer_41:2, Jer_41:18el r de Babilonia había puesto paraH4428
+- Jer_41:9había hecho el r Asa a causa de Baasa rH4428
+- Jer_41:10llevó Ismael cautivo...las hijas del rH4428
+- Jer_42:11no temáis de la presencia del r deH4428
+- Jer_43:6a las hijas del r y a toda persona queH4428
+- Jer_43:10tomaré a Nabucodonosor r de BabiloniaH4428
+- Jer_44:9de las maldades de los r de Judá, de lasH4428
+- Jer_44:17nuestros r y nuestros príncipes, en lasH4428
+- Jer_44:21incienso que ofrecisteis...vuestros rH4428
+- Jer_44:30entrego a...r de Egipto en mano de susH4428
+- Jer_44:30a Sedequías r...en mano...r de BabiloniaH4428
+- Jer_45:1el año cuarto de Joacim hijo de Josías rH4428
+- Jer_46:2contra el ejército de Faraón Necao r deH4428
+- Jer_46:2destruyó Nabucodonosor r de BabiloniaH4428
+- Jer_46:2en el año cuarto de Joacim...r de JudáH4428
+- Jer_46:13habló...de la venida de...r de BabiloniaH4428
+- Jer_46:17Faraón r de Egipto es destruido; dejóH4428
+- Jer_46:18dice el R, cuyo nombre es Jehová de losH4428
+- Jer_46:25yo castigo...a Egipto...dioses y a sus rH4428
+- Jer_46:26entregaré...en mano de Nabucodonosor rH4428
+- Jer_48:15destruido fue Moab...ha dicho el R, cuyoH4428
+- Jer_49:28Hazor, los cuales asoló Nabucodonosor rH4428
+- Jer_49:30porque tomó consejo...Nabucodonosor rH4428
+- Jer_49:34en el...reinado de Sedequías r de JudáH4428
+- Jer_49:38destruiré a su r y a príncipe, diceH4428
+- Jer_50:17Israel...r de Asiria lo devoró primeroH4428
+- Jer_50:17Nabocodonosor r de...lo deshuesó despuésH4428
+- Jer_50:18yo castigo al r...como castigaré al r deH4428
+- Jer_50:41viene un...una nación grande y muchos rH4428
+- Jer_50:43oyó la noticia el r de Babilonia, y susH4428
+- Jer_51:11ha despertado...el espiritu de los r deH4428
+- Jer_51:28los r de Media, sus capitanes y todosH4428
+- Jer_51:31para anunciar al r de Babilonia que suH4428
+- Jer_51:34devoró, me desmenuzó Nabucodonosor rH4428
+- Jer_51:57dice el R, cuyo nombre es Jehová de losH4428
+- Jer_51:59iba con Sedequías r de Judá a BabiloniaH4428
+- Jer_52:3y se rebeló Sedequías contra el r deH4428
+- Jer_52:4vino...r de Babilonia, él y su ejércitoH4428
+- Jer_52:5hasta el úndecimo año del r SedequíasH4428
+- Jer_52:7muros que había cerca del jardín del rH4428
+- Jer_52:8el ejército...siguió al r, y alcanzaron aH4428
+- Jer_52:9prendieron al r...hicieron venir al r deH4428
+- Jer_52:10degolló el r de Babilonia a los hijosH4428
+- Jer_52:11el r de...le sacó los ojos a SedequíasH4428
+- Jer_52:12el año diecinueve...de Nabucodonosor rH4428
+- Jer_52:12solía estar delante del r de BabiloniaH4428
+- Jer_52:13quemó...la casa del r, y todas las casasH4428
+- Jer_52:15que se habían pasado al r de BabiloniaH4428
+- Jer_52:20había hecho el r Salomón en la casa deH4428
+- Jer_52:25siete hombres de los consejeros...del rH4428
+- Jer_52:26y los llevó al r de Babilonia en RibiaH4428
+- Jer_52:27el r de Babilonia los hirió, y los matóH4428
+- Jer_52:31del cautiverio de Joaquín r de Judá, enH4428
+- Jer_52:31Evil-merodae r de...lo sacó de la cárcelH4428
+- Jer_52:31alzó la cabeza de Joaquín r de Judá y loH4428
+- Jer_52:32sobre los tronos de los r que estabanH4428
+- Jer_52:33y comía pan en la mesa del r siempreH4428
+- Jer_52:34una ración de parte del r de BabiloniaH4428
+- Lam_2:6en el ardor de su ira ha desechado al rH4428
+- Lam_2:9su r y sus príncipes...entre las nacionesH4428
+- Lam_4:12nunca los r de la tierra, ni todos losH4428
+- Eze_1:2año de la deportación del r Joaquín, aH4428
+- Eze_7:27El r se enlutará, y el príncipe se vestirá deH4428
+- Eze_17:12que el r de Babilonia vino a JerusalénH4428
+- Eze_17:12y tomó a tu r y a sus príncipes, y losH4428
+- Eze_17:16donde habita el r que le hizo reinarH4428
+- Eze_19:9llevaron al r de Babilonia; lo pusieronH4428
+- Eze_19:11ella tuvo varas fuertes para cetros de rH4428
+- Eze_19:14y no ha quedado...vara...para cetro de rH4428
+- Eze_21:19donde venga la espada del r de BabiloniaH4428
+- Eze_21:21el r de Babilonia se ha detenido en unaH4428
+- Eze_24:2el r de Babilonia puso sitio a JerusalénH4428
+- Eze_26:7contra Tiro a...r de Babilonia, r de rH4428
+- Eze_27:33a los r de la tierra enriqueciste con laH4428
+- Eze_27:35sus r temblarán de espanto; demudaránH4428
+- Eze_28:12levanta endechas sobre el r de Tiro, yH4428
+- Eze_28:17delante de los r te pondré...miren en tiH4428
+- Eze_29:2pon tu rostro contra Faraón r de EgiptoH4428
+- Eze_29:3yo estoy contra ti, Faraón r de EgiptoH4428
+- Eze_29:18Nabucodonosor r de Babilonia hizo a suH4428
+- Eze_29:19yo doy a...r de Babilonia, la tierra deH4428
+- Eze_30:10de Egipto por mano de Nabucodonosor rH4428
+- Eze_30:21he quebrado el brazo de...r de EgiptoH4428
+- Eze_30:22heme aquí contra Faraón r de Egipto, yH4428
+- Eze_30:24-25fortaleceré los brazos del r deH4428
+- Eze_30:25yo ponga mi espada en la mano del r deH4428
+- Eze_31:2di a Faraón r de Egipto, y a su puebloH4428
+- Eze_32:2levanta endechas sobre...r de Egipto, yH4428
+- Eze_32:10sus r tendrán horror grande a causa deH4428
+- Eze_32:11espada del r de Babilonia vendrá sobreH4428
+- Eze_32:29allí Edom, sus r y todos sus príncipesH4428
+- Eze_37:22un r será a todos ellos por r; y nuncaH4428
+- Eze_37:24mi siervo David será r sobre ellos, yH4428
+- Eze_43:7nunca más profanará...ni ellos ni sus rH4428
+- Eze_43:7ni con los cuerpos muertos de sus r enH4428
+- Eze_43:9arrojarán...los cuerpos muertos de sus rH4428
+- Dan_1:1el año tercero del reinado de Joacim rH4428
+- Dan_1:1vino Nabucodonosor r de Babilonia...sitióH4428
+- Dan_1:2el Señor entregó en sus manos a Joacim rH4428
+- Dan_1:3dijo el r a Aspenaz, jefe de sus eunucosH4428
+- Dan_1:4e idóneos para estar en el palacio del rH4428
+- Dan_1:5les señaló el r ración...de la comida del rH4428
+- Dan_1:5al fin de...se presentasen delante del rH4428
+- Dan_1:8no contaminarse con...de la comida del rH4428
+- Dan_1:10temo a mi señor el r, que señaló vuestraH4428
+- Dan_1:10pues...condenaréis para con el r mi cabezaH4428
+- Dan_1:13muchachos que comen...de la comida del rH4428
+- Dan_1:15de los...que comían de la...comida del rH4428
+- Dan_1:18días...había dicho el r que los trajesenH4428
+- Dan_1:19r habló con ellos, y no fueron halladosH4428
+- Dan_1:19así, pues, estuvieron delante del rH4428
+- Dan_1:20en todo asunto de...que el r les consultóH4428
+- Dan_1:21Daniel hasta el año primero del r CiroH4428
+- Dan_2:2llamar el r a magos, astrólogos...caldeosH4428
+- Dan_2:2vinieron...y se presentaron delante del rH4428
+- Dan_2:3el r les dijo: He tenido un sueño, y miH4428
+- Dan_2:4hablaron...caldeos al r en lengua arameaH4428
+- Dan_2:4r, para siempre vive; di el sueño a tusH4430
+- Dan_2:5respondió el r...El asunto lo olvidé; siH4430
+- Dan_2:7diga el r el sueño a sus siervos, y leH4430
+- Dan_2:8r respondió...Yo conozco ciertamente queH4430
+- Dan_2:10respondieron delante del r, y dijeronH4430
+- Dan_2:10no hay...pueda declarar el asunto del rH4430
+- Dan_2:10ningún r...señor preguntó cosa semejanteH4430
+- Dan_2:11el asunto que el r demanda es difícil, yH4430
+- Dan_2:11y no hay quien lo pueda declarar al rH4430
+- Dan_2:12el r con ira...mandó que matasen a todosH4430
+- Dan_2:14Arioc, capitán de la guardia del r, queH4430
+- Dan_2:15dijo a Arioc capitán del r: ¿Cuál es laH4430
+- Dan_2:15este edicto se publique de parte del rH4430
+- Dan_2:16y pidió al r que le diese tiempo, y queH4430
+- Dan_2:16que él mostraría la interpretación al rH4430
+- Dan_2:21él...quita r, y pone r; da la sabiduríaH4430
+- Dan_2:23nos has dado a conocer el asunto del rH4430
+- Dan_2:24al cual el r había puesto para matar aH4430
+- Dan_2:24llévame a la presencia del r, y yo leH4430
+- Dan_2:25llevó prontamente a Daniel ante el r, yH4430
+- Dan_2:25he hallado...dará al r la interpretaciónH4430
+- Dan_2:26respondió el r y dijo a Daniel, al cualH4430
+- Dan_2:27Daniel respondió delante del r, diciendoH4430
+- Dan_2:27el misterio que el r demanda, ni sabiosH4430
+- Dan_2:27magos ni adivinos lo pueden revelar al rH4430
+- Dan_2:28y él ha hecho saber al r NabucodonosorH4430
+- Dan_2:29estando...oh r, en tu cama, te vinieronH4430
+- Dan_2:30sino para que se dé a conocer al r laH4430
+- Dan_2:31oh r, veías, y he aquí una gran imagenH4430
+- Dan_2:36interpretación de él...en presencia del rH4430
+- Dan_2:37tú, oh r, eres r de r; porque el Dios delH4430
+- Dan_2:44en los días de estos r el Dios del cieloH4430
+- Dan_2:45el gran Dios ha mostrado al r lo que haH4430
+- Dan_2:46el r Nabucodonosor se postró sobre suH4430
+- Dan_2:47el r habló a Daniel, y dijo: CiertamenteH4430
+- Dan_2:47y Señor de los r, y el que revela losH4430
+- Dan_2:48entonces el r engrandeció a Daniel, y leH4430
+- Dan_2:49Daniel solicitó del r...que pusiera sobreH4430
+- Dan_2:49y Daniel estaba en la corte del rH4430
+- Dan_3:1r Nabucodonosor hizo una estatua de oroH4430
+- Dan_3:2envió el r...que se reuniesen los sátrapasH430
+- Dan_3:2-3(2),5,7la estatua que el r...levantadoH4430
+- Dan_3:9al r Nabucodonosor: R, para siempre viveH4430
+- Dan_3:10oh r, has dado una ley que todo hombreH4430
+- Dan_3:12estos varones, oh r, no te han respetadoH4430
+- Dan_3:13traídos estos varones delante del rH4430
+- Dan_3:16respondieron al r...No es necesario queH4430
+- Dan_3:17Dios...y de tu mano, oh r, nos libraráH4430
+- Dan_3:18y si no, sepas, oh r, que no serviremos aH4430
+- Dan_3:22como la orden del r era apremiante, y loH4430
+- Dan_3:24entonces el r...se espantó, y se levantóH4430
+- Dan_3:24ellos respondieron al r: Es verdad, oh rH4430
+- Dan_3:27se juntaron...los consejeros del r, paraH4430
+- Dan_3:28y que no cumplieron el edicto del r, yH4430
+- Dan_3:30el r engrandeció a Sadrac...y Abed-negoH4430
+- Dan_4:1Nabucodonosor r, a todos los pueblos...PazH4430
+- Dan_4:18el r Nabucodonosor he visto este sueñoH4430
+- Dan_4:19r habló y dijo: Beltsasar, no te turbesH4430
+- Dan_4:22tú mismo eres, oh r, que creciste y teH4430
+- Dan_4:23a lo que vio el r, un vigilante y santoH4430
+- Dan_4:24esta es la interpretación, oh r, y laH4430
+- Dan_4:24la sentencia...venido sobre mi señor el rH4430
+- Dan_4:27r, acepta mi consejo: tus pecados redimeH4430
+- Dan_4:28todo esto vino sobre el r NabucodonosorH4430
+- Dan_4:30habló el r y dijo: ¿No es ésta la granH4430
+- Dan_4:31aún estaba la palabra en la boca del rH4430
+- Dan_4:31se te dice, r...El reino ha sido quitadoH4430
+- Dan_4:37y glorifico al R del cielo, porque todasH4430
+- Dan_5:1el r Belsasar hizo un gran banquete a milH4430
+- Dan_5:2que bebiesen en ellos el r y sus grandesH4430
+- Dan_5:3y bebieron en ellos el r y sus príncipesH4430
+- Dan_5:5una mano...el r veía la mano que escribíaH4430
+- Dan_5:6el r palideció, y sus pensamientos loH4430
+- Dan_5:7el r gritó en alta voz que hiciesen venirH4430
+- Dan_5:7dijo el r a los sabios de...Cualquiera queH4430
+- Dan_5:8introducidos todos los sabios del r; peroH4430
+- Dan_5:8leer...ni mostrar al r su interpretaciónH4430
+- Dan_5:9r Belsasar se turbó...y palideció, y susH4430
+- Dan_5:10la reina, por las palabras del r y de susH4430
+- Dan_5:10r, vive para siempre; no te turben tusH4430
+- Dan_5:11el r...tu padre, oh r, constituyó jefeH4430
+- Dan_5:12al cual el r puso por nombre BeltsasarH4430
+- Dan_5:13Daniel fue...delante del r...Y dijo el r aH4430
+- Dan_5:17Daniel...dijo delante del r: Tus donesH4430
+- Dan_5:17leeré la escritura al r, y le daré laH4430
+- Dan_5:18Dios, oh r, dio a Nabucodonosor tu padreH4430
+- Dan_5:30la misma noche fue muerto Belsasar r deH4430
+- Dan_6:2diesen cuenta...el r no fuese perjudicadoH4430
+- Dan_6:3el r pensó en ponerlo sobre todo el reinoH4430
+- Dan_6:6se juntaron delante del r, y le dijeronH4430
+- Dan_6:6le dijeron...¡R Darío, para siempre vive![[H4430]]
+- Dan_6:7, Dan_6:12de cualquier...hombre fuera de ti, oh rH4430
+- Dan_6:8oh r, confirma el edicto y fírmalo, paraH4430
+- Dan_6:9firmó, pues, el r Darío el edicto y laH4430
+- Dan_6:12fueron luego ante el r y le hablaron delH4430
+- Dan_6:12respondió el r...Verdad es, conforme a laH4430
+- Dan_6:13dijeron delante del r: Daniel, que es deH4430
+- Dan_6:13no te respeta a ti, oh r, ni acata elH4430
+- Dan_6:14cuando el r oyó el asunto, le pesó enH4430
+- Dan_6:15rodearon al r y le dijeron: Sepas, oh rH4430
+- Dan_6:15ningún edicto...que el r confirme puedeH4430
+- Dan_6:16el r mandó, y trajeron a Daniel, y leH4430
+- Dan_6:16r dijo a Daniel: El Dios tuyo, a quienH4430
+- Dan_6:17la cual selló el r con su anillo y conH4430
+- Dan_6:18r se fue a su palacio, y se acostó ayunóH430
+- Dan_6:19el r...se levantó muy de mañana, y fueH4430
+- Dan_6:21respondió al r...Oh r, vive para siempreH4430
+- Dan_6:22aun delante de ti, oh r, yo no he hechoH4430
+- Dan_6:24dio orden el r, y fueron traídos aquellosH4430
+- Dan_6:25el r Darío escribió a todos los pueblosH4430
+- Dan_7:1el primer año de Belsasar r de BabiloniaH4430
+- Dan_7:17cuatro grandes bestias son cuatro r queH4430
+- Dan_7:24los diez cuernos...se levantarán diez rH4430
+- Dan_7:24se levantará otro...y a tres r derribaráH4430
+- Dan_8:1el año tercero del reinado del r BelsasarH4428
+- Dan_8:20cuernos...son los r de Media y de PersiaH4428
+- Dan_8:21el macho cabrío es el r de Grecia, y elH4428
+- Dan_8:21y el cuerno grande que...es el r primeroH4428
+- Dan_8:23se levantará un r altivo de rostro yH4428
+- Dan_8:27atendí los negocios del r; pero estabaH4428
+- Dan_9:1que vino a ser r sobre el reino de losH4427
+- Dan_9:6que en tu nombre hablaron a nuestros r, aH4428
+- Dan_9:8de nuestros r, de nuestros príncipes y deH4428
+- Dan_10:1el año tercero de Ciro r de Persia fueH4428
+- Dan_10:13vino...y quedé allí con los r de PersiaH4428
+- Dan_11:2aún habrá tres r en Persia, y el cuartoH4428
+- Dan_11:3se levantará luego un r valiente, el cualH4428
+- Dan_11:5se hará fuerte el r del sur; mas uno deH4428
+- Dan_11:6y la hija del r del sur vendrá al r delH4428
+- Dan_11:7con ejército contra el r del norte, yH4428
+- Dan_11:8por años se mantendrá él contra el r delH4428
+- Dan_11:9así entrará en el reino el r del sur, yH4428
+- Dan_11:11por lo cual se enfurecerá el r del sur, yH4428
+- Dan_11:11saldrá y peleará contra el r del norteH4428
+- Dan_11:13r del norte volverá a poner en campanaH4428
+- Dan_11:14levantarán muchos contra el r del surH4428
+- Dan_11:15el r del norte, y levantará baluartesH4428
+- Dan_11:25fuerzas y su ardor contra el r del surH4428
+- Dan_11:25y el r del sur se empeñará en la guerraH4428
+- Dan_11:27corazón de estos dos r será para hacerH4428
+- Dan_11:36r hará su voluntad, y se ensoberbeceráH4428
+- Dan_11:40el r del sur contenderá con él; y el rH4428
+- Ose_1:1en días de Uzías...Ezequías, r de JudáH4428
+- Ose_1:1en días de Jeroboam hijo de...r de IsraelH4428
+- Ose_3:4muchos días estarán los hijos de...sin rH4428
+- Ose_3:5buscarán a Jehová su Dios, y a David su rH4428
+- Ose_5:1y estad atentos...y casa del r, escuchadH4428
+- Ose_5:13enviará al r Jareb; mas él no os podráH4428
+- Ose_7:3su maldad alegran al r, y a los príncipesH4428
+- Ose_7:5en el día de nuestro r los príncipes loH4428
+- Ose_7:7cayeron todos sus r; no hay entre ellosH4428
+- Ose_8:4ellos establecieron r, pero no escogidosH4428
+- Ose_8:10serán afligidos...por la carga del r y deH4428
+- Ose_10:3no tenemos r, porque no temimos a JehováH4428
+- Ose_10:3dirán...¿y qué haría el r por nosotros?[[H4428]]
+- Ose_10:6será él llevado a...presente al r JarebH4428
+- Ose_10:7de Samaria fue cortado su r como espumaH4428
+- Ose_10:15a la mañana será del todo cortado el rH4428
+- Ose_11:5el asirio mismo será su r, porque no seH4428
+- Ose_13:10¿dónde está tu r, para que te guardeH4428
+- Ose_13:11te di r en mi furor, y te lo quité enH4428
+- Amó_1:1profetizó...en días de Uzías r de JudáH4428
+- Amó_1:1y en días de Jeroboam hijo de Joás, r deH4428
+- Amó_1:15su r irá en cautiverio, él y todos susH4428
+- Amó_2:1porque quemó los huesos del r de EdomH4428
+- Amó_7:1heno tardío después de las siegas del rH4428
+- Amó_7:10a decir a Jeroboam r de Israel: Amós seH4428
+- Amó_7:13no profetices más en...es santuario del rH4428
+- Jon_3:6llegó la noticia hasta el r de NíniveH4428
+- Jon_3:7e hizo proclamar...por mandato del r y deH4428
+- Miq_1:1a Miqueas...en días de Jotam...r de JudáH4428
+- Miq_1:14las casas de Aczib...para engaño a los rH4428
+- Miq_2:13y su r pasará delante de ellos, y a laH4428
+- Miq_4:9¿no hay r en ti? ¿Pereció tu consejeroH4428
+- Miq_6:5acuérdate...qué aconsejó Balac r de MoabH4428
+- Nah_3:18durmieron...pastores, oh r de AsiriaH4428
+- Hab_1:10escarnecerá a los r, y de...príncipesH4428
+- Sof_1:1en días de Josías hijo de Amón, r deH4428
+- Sof_1:8castigaré...a los hijos del r, y a todosH4428
+- Sof_3:15Jehová es R de Israel en medio de tiH4428
+- Hag_1:1el año segundo del r Darío, en el mesH4428
+- Hag_1:15del mes sexto...segundo año del r DaríoH4428
+- Zac_7:1el año cuarto del r Darío vino palabraH4428
+- Zac_9:5perecerá el r de Gaza, y Ascalón no seráH4428
+- Zac_9:9aquí tu r vendrá a ti, justo y salvadorH4428
+- Zac_11:6entregaré los hombres...en mano de su rH4428
+- Zac_14:5del terremoto en los días de Uzías r deH4428
+- Zac_14:9Jehová será r sobre toda la tierra...EnH4428
+- Zac_14:10desde la torre...hasta los lagares del rH4428
+- Zac_14:16subirán de año en año para adorar al RH4428
+- Zac_14:17no subieren...para adorar al R, JehováH4428
+- Mal_1:14porque yo soy Gran R, dice Jehová deH4428
+- Mat_1:6Isaí engendró al r David, y el r DavidG935
+- Mat_2:1cuando Jesús nació...en días del r HerodesG935
+- Mat_2:2¿dónde está el r de los judíos...nacido?[[G935]]
+- Mat_2:3oyendo esto, el r Herodes se turbó, y todaG935
+- Mat_2:9habiendo oído al r, se fueron; y he aquíG935
+- Mat_5:35ni por Jerusalén...la ciudad del gran RG935
+- Mat_10:18ante gobernadores y r seréis llevadosG935
+- Mat_11:8delicadas, en las casas de los r estánG935
+- Mat_14:9el r se entristeció; pero a causa delG935
+- Mat_17:25los r de la tierra, ¿de quiénes cobranG935
+- Mat_18:23reino de los cielos es semejante a un rG935
+- Mat_21:5la hija de Sion: He aquí, tu R viene a tiG935
+- Mat_22:2reino de los cielos es semejante a un rG935
+- Mat_22:7al oírlo el r, se enojó; y enviando susG935
+- Mat_22:11y entró el r para ver a los convidadosG935
+- Mat_22:13el r dijo a los que servían: Atadle deG935
+- Mat_25:34el R dirá a los de su derecha: VenidG935
+- Mat_25:40el R, les dirá: De cierto os digo queG935
+- Mat_27:11¿eres tú el R de los judíos? Y JesúsG935
+- Mat_27:29escarnecían...¡Salve, R de los judíos![[G935]]
+- Mat_27:37ESTE ES JESÚS, EL R DE LOS JUDÍOSG935
+- Mat_27:42si es el R de Israel, descienda ahoraG935
+- Mar_6:14oyó el r Herodes la fama de JesúsG935
+- Mar_6:22el r dijo a la muchacha: Pídeme lo queG935
+- Mar_6:25entró...al r, y pidió diciendo: Quiero queG935
+- Mar_6:26el r se entristeció mucho; pero a causaG935
+- Mar_6:27r, enviando uno de la guardia, mandóG935
+- Mar_13:9y delante de gobernadores y de r osG935
+- Mar_15:2preguntó: ¿Eres tú el R de los judíos?[[G935]]
+- Mar_15:9¿queréis...os suelte al R de los judíos?[[G935]]
+- Mar_15:12haga del que llamáis R de los judíos?[[G935]]
+- Mar_15:18a saludarle: ¡Salve, R de los judíos![[G935]]
+- Mar_15:26de su causa era: EL R DE LOS JUDÍOSG935
+- Mar_15:32el Cristo, R de Israel, descienda ahoraG935
+- Luc_1:5en los días de Herodes, r de Judea, unG935
+- Luc_7:25los que...en los palacios de los r estánG935
+- Luc_10:24muchos profetas y r desearon ver lo queG935
+- Luc_14:31¿o qué r, al marchar a...contra otro rG935
+- Luc_19:38¡bendito el r que viene en el nombre delG935
+- Luc_21:12seréis llevados ante r y...gobernadoresG935
+- Luc_22:25los r de las naciones se enseñorean deG935
+- Luc_23:2diciendo que él mismo es el Cristo...rG935
+- Luc_23:3preguntó...¿Eres tú el R de los judíos?[[G935]]
+- Luc_23:37si tú eres el R de los judíos, sálvateG935
+- Luc_23:38un título...ESTE ES EL R DE LOS JUDÍOSG935
+- Jua_1:49eres el Hijo de Dios; tú eres el R deG935
+- Jua_4:46en Capernaum un oficial del r, cuyo hijoG935
+- Jua_4:49oficial del r le dijo: Señor, desciendeG935
+- Jua_6:15venir para apoderarse de él y hacerle rG935
+- Jua_12:13¡bendito el que viene...el R de Israel![[G935]]
+- Jua_12:15tu R viene, montado sobre un pollino deG935
+- Jua_18:33le dijo: ¿Eres tú el r de los judíos?[[G935]]
+- Jua_18:37le dijo...Pilato: ¿Luego, eres tú r?[[G935]]
+- Jua_18:37respondió Jesús: Tú dices que yo soy rG935
+- Jua_18:39pues, que os suelte al R de los judíos?[[G935]]
+- Jua_19:3y le decían: ¡Salve, R de los judíos![[G935]]
+- Jua_19:12todo el que se hace r, a César se oponeG935
+- Jua_19:14dijo a los judíos: He aquí vuestro R![[G935]]
+- Jua_19:15les dijo: ¿A vuestro R he de crucificar?[[G935]]
+- Jua_19:15sacerdotes: No tenemos más r que CésarG935
+- Jua_19:19decía: Jesús nazareno, R de los judíosG935
+- Jua_19:21no escribas: R de los judíos; sino, queG935
+- Jua_19:21sino, que él dijo: Soy R de los judíosG935
+- Hec_4:26se reunieron los r de la tierra, y losG935
+- Hec_7:10gracia y...delante de Faraón r de EgiptoG935
+- Hec_7:18que se levantó en Egipto otro r que noG935
+- Hec_9:15llevar mi nombre en presencia de...de rG935
+- Hec_12:1el r Herodes echó mano a algunos de laG935
+- Hec_12:20Blasto, que era camarero mayor del rG935
+- Hec_12:20territorio era abastecido por...del rG935
+- Hec_13:21pidieron r, y Dios les dio a Saúl hijoG935
+- Hec_13:22les levantó por r a David, de quien dioG935
+- Hec_17:7de César, diciendo que hay otro r, JesúsG935
+- Hec_25:13días, el r Agripa y Berenice vinieronG935
+- Hec_25:14Festo expuso al r la causa de PabloG935
+- Hec_25:24dijo: R Agripa, y todos los varones queG935
+- Hec_25:26he traído ante...ti, oh r Agripa, paraG935
+- Hec_26:2me tengo por dichoso, oh r Agripa, de queG935
+- Hec_26:7por esta esperanza, oh r...soy acusadoG935
+- Hec_26:13oh r, yendo por el camino, vi una luzG935
+- Hec_26:19por lo cual, oh r...no fui rebelde a laG935
+- Hec_26:26pues el r sabe estas cosas, delante deG935
+- Hec_26:27¿crees, oh r Agripa, a los profetas?[[G935]]
+- Hec_26:30se levantó el r, y el gobernador, yG935
+- 2Co_11:32el gobernador de la provincia del rG935
+- 1Ti_1:17R de los siglos, inmortal, invisibleG935
+- 1Ti_2:2por los r y por todos los que están enG935
+- 1Ti_6:15Soberano, R de r, y Señor de señoresG935
+- Heb_7:1Melquisedec, r de Salem, sacerdote delG935
+- Heb_7:1que volvía de la derrota de los r, y leG935
+- Heb_7:2cuyo nombre significa...R de justicia, yG935
+- Heb_7:2y también R de Salem, esto es, R de pazG935
+- Heb_11:23vieron...y no temieron el decreto del rG935
+- Heb_11:27dejó a Egipto no temiendo la ira del rG935
+- 1Pe_2:13someteos...sea el r, como a superiorG935
+- 1Pe_2:17amad a los...Temed a Dios...Honrad al rG935
+- Rev_1:5y el soberano de los r de la tierraG935
+- Rev_1:6y nos hizo r y sacerdotes para Dios, suG935
+- Rev_5:10nos has hecho para...Dios r y sacerdotesG935
+- Rev_6:15y los r de la tierra...se escondieron enG935
+- Rev_9:11tienen por r...al ángel del abismo, cuyoG935
+- Rev_10:11profetices otra vez sobre muchos...y rG935
+- Rev_15:3justos y...tus caminos, R de los santosG935
+- Rev_16:12preparado el camino a los r del orienteG935
+- Rev_16:14y van a los r de la tierra en todo elG4428
+- Rev_17:2con la cual han fornicado los r de laG4428
+- Rev_17:10y son siete r...Cinco de ellos han caídoG4428
+- Rev_17:12y los diez cuernos...son diez r, que aúnG4428
+- Rev_17:12por una hora recibirán autoridad como rG4428
+- Rev_17:14los vencerá, porque él es Señor...R de rG4428
+- Rev_17:18es la gran ciudad que reina sobre los rG4428
+- Rev_18:3, Rev_18:9r de la tierra han fornicado con ellaG4428
+- Rev_19:16escrito este nombre: R DE R Y SEÑOR DEG4428
+- Rev_19:18que comáis carnes de r y de capitanesG4428
+- Rev_19:19vi a la bestia, a los r de la tierra y aG4428
+- Rev_21:24y los r de la tierra traerán su gloriaG4428

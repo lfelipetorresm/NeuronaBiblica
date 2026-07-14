@@ -1,0 +1,159 @@
+---
+tipo: concordancia
+palabra: HAMBRE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HAMBRE
+
+- Gén_12:10hubo...h en la tierra...era grande el hH7458
+- Gén_26:1h en la tierra, además de la primera hH7458
+- Gén_41:27las siete vacas...siete años serán de hH7458
+- Gén_41:30y tras ellos seguirán siete años de hH7458
+- Gén_41:30de Egipto, y el h consumirá la tierraH7458
+- Gén_41:31no se echará de ver, a causa del hH7458
+- Gén_41:36los siete años de h...no perecerá de hH7458
+- Gén_41:50antes que viniese el primer año de hH7458
+- Gén_41:54comenzaron...siete años del h...y hubo hH7458
+- Gén_41:55se sintió el h en...la tierra de EgiptoH7456
+- Gén_41:56el h estaba por toda la extensión delH7458
+- Gén_41:56porque había crecido el h en la tierraH7458
+- Gén_41:57por toda la tierra había crecido el hH7458
+- Gén_42:5porque había h en la tierra de CanaánH7458
+- Gén_42:19llevad alimento para el h de vuestraH7459
+- Gén_42:33tomad para el h de vuestras casas, yH7459
+- Gén_43:1el h era grande en la tierraH7458
+- Gén_45:6ya ha habido dos años de h en medio deH7458
+- Gén_45:11pues aún quedan cinco años de h, paraH7458
+- Gén_47:4pues el h es grave en la tierra de CanaánH7458
+- Gén_47:13no había pan en...y el h era muy graveH7458
+- Gén_47:13desfalleció de h la tierra de EgiptoH7458
+- Gén_47:20porque se agravó el h sobre ellos; yH7458
+- Éxo_16:3para matar de h a toda esta multitudH7458
+- Deu_8:3hizo tener h, y te sustentó con manáH7456
+- Deu_28:48con h y con sed y con desnudez, y conH7458
+- Deu_32:24consumidos serán de h, y devorados deH7458
+- Rut_1:1aconteció en...que hubo h en la tierraH7458
+- 1Sa_2:5los hambrientos dejaron de tener hH7457
+- 2Sa_21:1h en los días de David por tres añosH7458
+- 2Sa_24:13vengan siete años de h en tu tierra?[[H7458]]
+- 1Re_8:37en la tierra hubiere h, pestilenciaH7458
+- 1Re_18:2fue, pues...Y el h era grave en SamariaH7458
+- 2Re_4:38volvió a Gilgal cuando había una...hH7458
+- 2Re_6:25hubo gran h en Samaria, a consecuenciaH7458
+- 2Re_7:4tratáramos de entrar...por el h que hayH7458
+- 2Re_7:12ellos saben que tenemos h, y han salidoH7457
+- 2Re_8:1Jehová ha llamado el h...por siete añosH7458
+- 2Re_25:3prevaleció el h en la ciudad, hasta queH7458
+- 1Cr_21:12escoge para ti: o tres años de hH7458
+- 2Cr_6:28si hubiere h en la tierra o plagaH7458
+- 2Cr_20:9si...o h, nos presentaremos delante deH7458
+- 2Cr_32:11para entregaros a muerte, a h y a sedH7458
+- Neh_5:3hemos empeñado...casas...a causa del hH7458
+- Neh_9:15les diste pan del cielo en su h, y enH7458
+- Job_5:20en el h te salvará de la muerte, y delH7458
+- Job_5:22de la destrucción y del h te reirás, yH3720
+- Job_18:12serán gastadas de h sus fuerzas, y a suH7457
+- Job_30:3por causa...del h andaban solos; huían aH3720
+- Job_38:39león? ¿Saciarás el h de los leoncillosH2416
+- Sal_33:19para darles vida en tiempo de hH7458
+- Sal_34:10los leoncillos necesitan, y tienen hH7456
+- Sal_37:19mal...y en los días de h serán saciadosH7459
+- Sal_50:12si yo tuviese h, no te lo diría a tiH7456
+- Sal_105:16trajo h sobre la tierra, y quebrantóH7458
+- Pro_6:30hurta para saciar su apetito...tiene hH7456
+- Pro_10:3Jehová no dejará padecer h al justo; masH7456
+- Pro_19:15hace...y el alma negligente padecerá hH7456
+- Pro_25:21si el que te aborrece tuviere h, daleH7457
+- Isa_5:13pereció de h, y su multitud de sedH7458
+- Isa_8:21acontecerá que teniendo h, se enojaránH7456
+- Isa_9:20hurtará a la mano derecha, y tendrá hH7456
+- Isa_14:30haré morir de h tu raíz, y destruiréH7458
+- Isa_29:8les sucederá como el que tiene h y sueñaH7457
+- Isa_44:12luego tiene h, y le faltan las fuerzasH7456
+- Isa_49:10no tendrán h ni sed, ni el calor ni elH7456
+- Isa_51:19h y espada. ¿Quién se dolerá de ti?[[H7458]]
+- Isa_65:13siervos comerán, y vosotros tendréis hH7456
+- Jer_5:12no vendrá mal...ni veremos espada ni hH7458
+- Jer_11:22sus hijos y sus hijas morirán de hH7458
+- Jer_14:12los consumiré...con h y con pestilenciaH7458
+- Jer_14:13les dicen: No veréis espada, ni habrá hH7458
+- Jer_14:15que dicen: Ni espada ni h habrá en estaH7458
+- Jer_14:15con h serán consumidos esos profetasH7458
+- Jer_14:16echado en las calles de Jerusalén por hH7458
+- Jer_14:18en la ciudad, he aquí enfermos de hH7458
+- Jer_15:2el que a h, a h; y el que a cautiverioH7458
+- Jer_16:4con espada y con h serán consumidos, yH7458
+- Jer_18:21entrega sus hijos a h, dispérsalos porH7458
+- Jer_21:7entregaré...a los que queden...del h enH7458
+- Jer_21:9que quedare en esta ciudad morirá...de hH7458
+- Jer_24:10enviaré sobre ellos...h y pestilenciaH7458
+- Jer_27:8castigaré a...nación con espada y con hH7458
+- Jer_27:13¿por qué moriréis tú y tu pueblo...de hH7458
+- Jer_29:17contra ellos espada, h y pestilenciaH7458
+- Jer_29:18los perseguiré...con h y con pestilenciaH7458
+- Jer_32:24a causa de...del h y de la pestilenciaH7458
+- Jer_32:36entregada será en mano...a espada, a hH7458
+- Jer_34:17yo promulgo libertad...a la espada...al hH7458
+- Jer_38:2morirá a espada,o...h, o de pestilenciaH7458
+- Jer_38:9morirá de h, pues no hay más pan en laH7458
+- Jer_42:14no...ni padeceremos h, y allá moraremosH7456
+- Jer_42:16el h de que tenéis temor...perseguiráH7458
+- Jer_42:17morirán a espada, de h y...pestilenciaH7458
+- Jer_42:22de h y de pestilencia moriréis en elH7458
+- Jer_44:12consumidos de h...de h morirán desde elH7458
+- Jer_44:13castigaré a...con h y con pestilenciaH7458
+- Jer_44:18y a espada y de h somos consumidosH7458
+- Jer_44:27consumidos a espada y de h, hasta queH7458
+- Jer_52:6en el mes cuarto...prevaleció el h en laH7458
+- Lam_2:19desfallecen de h en...todas las callesH7458
+- Lam_4:9más dichosos...que los muertos por el hH7458
+- Lam_5:10se ennegreció...a causa del ardor del hH7458
+- Eze_5:12y será consumida de h en medio de tiH7458
+- Eze_5:16sobre ellos las perniciosas saetas del hH7458
+- Eze_5:17sobre vosotros h, y bestias ferocesH7458
+- Eze_6:11con espada y con h y con pestilencia caeránH7458
+- Eze_6:12y el que quede y sea asediado morirá de hH7458
+- Eze_7:15de fuera espada, de dentro pestilencia y hH7458
+- Eze_12:16ellos escapen de la espada, del h yH7458
+- Eze_14:13el sustento del pan, y enviare en ella hH7458
+- Eze_14:21mis cuatro...espada, h, fieras y pestilenciaH7458
+- Eze_34:29no serán ya más consumidos de h en la tierraH7457
+- Eze_36:29llamaré al trigo...y no os daré hH7458
+- Eze_36:30recibáis oprobio de h entre las nacionesH7458
+- Amó_8:11vienen días...en los cuales enviaré hH7458
+- Amó_8:11no h de pan...sino de oír la palabra deH7458
+- Mat_4:2después de haber ayunado...días tuvo hG3983
+- Mat_5:6bienaventurados los que tienen h y sedG3983
+- Mat_12:1sus discípulos tuvieron h, y comenzaronG3983
+- Mat_12:3hizo David, cuando él y los...tuvieron hG3983
+- Mat_21:18mañana, volviendo a la ciudad, tuvo hG3983
+- Mat_24:7y habrá pestes, y h, y terremotos enG3042
+- Mat_25:35tuve h, y me disteis de comer; tuveG3983
+- Mat_25:42tuve h, y no me disteis de comer; tuveG3983
+- Mar_2:25lo que hizo David cuando...sintió hG3983
+- Mar_11:12día...cuando salieron de Betania, tuvo hG3983
+- Mar_13:8h y alborotos; principios de dolores sonG3042
+- Luc_4:2no comió...pasados los cuales, tuvo hG3983
+- Luc_4:25y hubo una gran h en toda la tierraG3042
+- Luc_6:3lo que hizo David cuando tuvo h él, y losG3983
+- Luc_6:21bienaventurados los que ahora tenéis hG3983
+- Luc_6:25¡ay de vosotros los...porque tendréis hG3983
+- Luc_15:14vino una gran h en aquella provinciaG3042
+- Luc_15:17abundancia de pan, y yo...perezco de h![[G3042]]
+- Luc_21:11en diferentes lugares h y pestilenciaG3042
+- Jua_6:35el que a mí viene, nunca tendrá h; yG3983
+- Hec_7:11vino entonces h en toda la tierraG3042
+- Hec_10:10gran h, y quiso comer; pero mientrasG4361
+- Hec_11:28vendría una gran h en toda la tierraG3042
+- Rom_8:35o h, o desnudez, o peligro, o espada?[[G3042]]
+- Rom_12:20si tu enemigo tuviere h, dale de comerG3983
+- 1Co_4:11esta hora padecemos h, tenemos sedG3983
+- 1Co_11:21cena; y uno tiene h, y otro se embriagaG3983
+- 1Co_11:34si alguno tuviere h, coma en su casaG3983
+- 2Co_11:27en h y sed, en muchos ayunos, enG3042
+- Flp_4:12para estar saciado como para tener hG3983
+- Rev_6:8fue dada potestad...para matar...con hG3042
+- Rev_7:16no tendrán h ni sed, y el sol no caeráG3983
+- Rev_18:8en un solo día vendrán sus...llanto y hG3042

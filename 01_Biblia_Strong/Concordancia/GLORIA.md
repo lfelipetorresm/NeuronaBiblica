@@ -1,0 +1,382 @@
+---
+tipo: concordancia
+palabra: GLORIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GLORIA
+
+- Gén_45:13haréis...saber...toda mi g en EgiptoH3519
+- Éxo_16:7y a la mañana veréis la g de JehováH3519
+- Éxo_16:10aquí la g de Jehová apareció en la nubeH3519
+- Éxo_24:16la g de Jehová reposó sobre el monteH3519
+- Éxo_24:17apariencia de la g de Jehová era comoH3519
+- Éxo_29:43y el lugar será santificado con mi gH3519
+- Éxo_33:18dijo: Te ruego que me muestres tu gH3519
+- Éxo_33:22cuando pase mi g, yo te pondré en unaH3519
+- Éxo_40:34y la g de Jehová llenó el tabernáculoH3519
+- Éxo_40:35tabernáculo...la g de Jehová lo llenabaH3519
+- Lev_9:6hacedlo...la g de Jehová se os apareceráH3519
+- Lev_9:23y la g de Jehová se apareció a todo elH3519
+- Núm_14:10pero la g de Jehová se mostró en elH3519
+- Núm_14:21vivo yo, y mi g llena toda la tierraH3519
+- Núm_14:22los que vieron mi g y mis señales queH3519
+- Núm_16:19g de Jehová apareció...la congregaciónH3519
+- Núm_16:42miraron...nube...apareció la g de JehováH3519
+- Núm_20:6y la g de Jehová apareció sobre ellosH3519
+- Deu_5:24nos ha mostrado su g y su grandezaH3519
+- Deu_26:19exaltarte sobre...para loor y fama y gH8597
+- Deu_33:17como el primogénito de su toro es su gH1926
+- Jos_7:19mío, da g a Jehová el Dios de IsraelH3519
+- Jue_4:9mas no será tuya la g de la jornadaH8597
+- 1Sa_4:21-22¡traspasada es la g de Israel![[H3519]]
+- 1Sa_6:5figuras de...y daréis g al Dios de IsraelH3519
+- 1Sa_15:29el que es la g de Israel no mentirá, niH5331
+- 2Sa_1:19¡ha perecido la G de Israel sobre tusH6643
+- 1Re_3:13aun también te he dado...riquezas y gH3519
+- 1Re_8:11la g de Jehová había llenado la casa deH3519
+- 1Cr_16:24cantad entre las gentes su g, y enH3519
+- 1Cr_16:28tributad a Jehová...a Jehová g y poderH3519
+- 1Cr_29:11tuya es, oh Jehová...el poder, la g, laH8597
+- 1Cr_29:12las riquezas y la g proceden de ti, yH3519
+- 1Cr_29:25a Salomón...y le dio tal g en su reinoH1935
+- 1Cr_29:28murió en...vejez, lleno de días...y de gH3519
+- 2Cr_1:11y no pediste riquezas, bienes o gH3519
+- 2Cr_1:12también te daré riquezas, bienes y gH3519
+- 2Cr_5:14la g de Jehová había llenado la casa deH3519
+- 2Cr_7:1fuego de...y la g de Jehová llenó la casaH3519
+- 2Cr_7:2porque la g de Jehová había llenado laH3519
+- 2Cr_7:3el fuego y la g de Jehová sobre la casaH3519
+- 2Cr_17:5Josafat...tuvo riquezas y g en abundanciaH3519
+- 2Cr_18:1tenía, pues, Josafat riquezas y g enH3519
+- 2Cr_26:18y no te será para g delante de JehováH3519
+- 2Cr_32:27tuvo Ezequías riquezas, y g, muchas enH3519
+- Esd_10:11g a Jehová Dios de vuestros padresH8426
+- Est_1:4para mostrar...de la g de su reino, elH3519
+- Est_5:11les refirió Amán la g de sus riquezasH3519
+- Job_19:9me ha despojado de mi g, y quitado laH3519
+- Job_41:15la g de su vestido son escudos fuertesH1346
+- Sal_3:3eres...mi g, y el que levanta mi cabezaH3519
+- Sal_8:1Señor...has puesto tu g sobre los cielosH1935
+- Sal_8:5has hecho...lo coronaste de g y de honraH3519
+- Sal_19:1los cielos cuentan la g de Dios, y elH3519
+- Sal_21:5grande es su g en tu salvación; honraH3519
+- Sal_24:7, Sal_24:9alzad, oh...y entrará el Rey de gH3519
+- Sal_24:8, Sal_24:10¿quién es este Rey de g? Jehová deH3519
+- Sal_24:10Jehová de los...él es el Rey de la gH3519
+- Sal_26:8casa...y el lugar de la morada de tu gH3519
+- Sal_29:1tributad...dad a Jehová la g y el poderH3519
+- Sal_29:2dad a Jehová la g debida a su nombreH3519
+- Sal_29:3truena el Dios de g, Jehová sobre lasH3519
+- Sal_29:4voz de Jehová con...voz de Jehová con gH3519
+- Sal_29:9voz de...en su templo todo proclama su gH3519
+- Sal_30:12ti cantaré, g mía, y no estaré calladoH3519
+- Sal_45:3oh valiente, con tu g y con tu majestadH1935
+- Sal_45:4en tu g sé prosperado; cabalga sobreH1926
+- Sal_49:16temas...cuando aumenta la g de su casaH3519
+- Sal_49:17no llevará, ni descenderá tras él su gH3519
+- Sal_57:5, Sal_57:11Dios; sobre toda la tierra sea tu gH3519
+- Sal_62:7Dios está mi salvación y mi g; en DiosH3519
+- Sal_63:2para ver tu poder y tu g, así como te heH3519
+- Sal_66:2cantad la g de su nombre; poned g en suH3519
+- Sal_71:8sea llena mi boca...de tu g todo el díaH8597
+- Sal_72:19toda la tierra sea llena de su g. AménH3519
+- Sal_73:24has guiado...y después me recibirás en gH3519
+- Sal_78:61entregó su...y su g en mano del enemigoH8597
+- Sal_79:9ayúdanos, oh...por la g de tu nombre; yH3519
+- Sal_84:11sol y escudo...gracia y g dará JehováH3519
+- Sal_85:9para que habite la g en nuestra tierraH3519
+- Sal_89:17porque tú eres la g de su potencia, yH8597
+- Sal_89:44hiciste cesar su g, y echaste su tronoH2892
+- Sal_90:16aparezca en tus...y tu g sobre sus hijosH1926
+- Sal_96:3proclamad entre las naciones su g, enH3519
+- Sal_96:6alabanza y...poder y g en su santuarioH8597
+- Sal_96:7tributad...dad a Jehová la g y el poderH3519
+- Sal_97:6cielos...todos los pueblos vieron su gH3519
+- Sal_99:4g del rey ama el juicio; tú confirmasH3519
+- Sal_102:15y todos los reyes de la tierra tu gH3519
+- Sal_102:16habrá edificado...en su g será vistoH3519
+- Sal_104:1te has vestido de g y de magnificenciaH1935
+- Sal_104:31la g de Jehová para siempre; alégreseH3519
+- Sal_106:20así cambiaron su g por la imagen deH3519
+- Sal_108:1cantaré y entonaré salmos; esta es mi gH3519
+- Sal_108:5sobre...la tierra sea enaltecida tu gH3519
+- Sal_111:3g y hermosura es su obra...su justiciaH1935
+- Sal_112:9siempre; su poder será exaltado en gH3519
+- Sal_113:4excelso...Jehová sobre los cielos su gH3519
+- Sal_115:1no a nosotros, sino a tu nombre da gH3519
+- Sal_138:5cantarán de, la g de Jehová es grandeH3519
+- Sal_145:5hermosura de la g de tu magnificenciaH1926
+- Sal_145:11la g de tu reino digan, y hablen deH3519
+- Sal_145:12para hacer saber...la g...de su reinoH3519
+- Sal_148:13Jehová...su g es sobre tierra y cielosH1935
+- Sal_149:5regocíjense los santos por su g, yH3519
+- Sal_149:9g será esto para...sus santos. AleluyaH1926
+- Pro_14:28en la multitud de...está la g del reyH1927
+- Pro_20:29la g de los jóvenes es su fuerza, y laH8597
+- Pro_25:2g de Dios es encubrir un asunto; peroH3519
+- Pro_25:27miel no...ni el buscar la propia g es gH3519
+- Pro_28:12los justos se alegran, grande es la gH8597
+- Isa_4:2el renuevo de Jehová será para...g, y elH3519
+- Isa_4:5nube...porque sobre toda g habrá un doselH3519
+- Isa_5:13su g pereció de hambre, y su multitudH3519
+- Isa_5:14y allá descenderá la g de ellos, y suH1926
+- Isa_6:3santo...toda la tierra está llena de su gH3519
+- Isa_9:1al fin llenará de g el camino del marH3513
+- Isa_10:3¿a quién...¿En dónde dejaréis vuestra g?[[H3519]]
+- Isa_10:12fruto...la g de la altivez de sus ojosH8597
+- Isa_10:16debajo de su g encenderá una hogueraH3519
+- Isa_10:18la g de...de su campo fértil consumiráH3519
+- Isa_13:3llamé...a los que se alegran con mi gH1346
+- Isa_16:14será abatida la g de Moab, con toda suH3519
+- Isa_17:3será como la g de los hijos de IsraelH3519
+- Isa_17:4aquel tiempo la g de Jacob se atenuaráH3519
+- Isa_20:5se avergonzarán de Etiopía...Egipto su gH8597
+- Isa_21:16año...toda la g de Cedar será deshechaH3519
+- Isa_22:18y allá estarán los carros de tu g, ohH3519
+- Isa_23:9para envilecer la soberbia de toda gH6643
+- Isa_24:16oímos cánticos: g al justo. Y yo dijeH6643
+- Isa_25:3por esto te dará g el pueblo fuerte, teH3513
+- Isa_28:1, Isa_28:4flor caduca de la hermosura de su gH6643
+- Isa_28:5Jehová...será por corona de g y diademaH6643
+- Isa_35:2florecerá...la g del Líbano le será dadaH3519
+- Isa_35:2ellos verán la g de Jehová, la hermosuraH3519
+- Isa_40:5se manifestará la g de Jehová, y todaH3519
+- Isa_40:6toda carne es...su g como flor del campoH2617
+- Isa_42:8y a otro no daré mi g, ni mi alabanzaH3519
+- Isa_42:12den g a Jehová, y anuncien sus looresH3519
+- Isa_43:7para g mía los he creado, los formé yH3519
+- Isa_46:13y pondré salvación en Sion, y mi g enH8597
+- Isa_58:8ti, y la g de Jehová será tu retaguardiaH3519
+- Isa_59:19y desde el nacimiento del sol su gH3519
+- Isa_60:1luz, y la g de Jehová ha nacido sobre tiH3519
+- Isa_60:2amanecerá...y sobre ti será vista su gH3519
+- Isa_60:7mi altar, y glorificaré la casa de mi gH8597
+- Isa_60:13la g del Líbano vendrá a ti, cipresesH3519
+- Isa_60:15haré que seas una g eterna, el gozo deH1347
+- Isa_60:19será por luz...y el Dios tuyo por tu gH8597
+- Isa_61:3que a los afligidos de Sion se les dé gH6287
+- Isa_61:3y serán...plantío de Jehová, para g suyaH6286
+- Isa_61:6las naciones, y con su g seréis sublimesH3519
+- Isa_62:2verán las gentes...todos los reyes tu gH3519
+- Isa_62:3serás corona de g en la mano de JehováH8597
+- Isa_63:12los guió por la...con el brazo de su gH8597
+- Isa_64:11la casa de nuestro santuario y de...gH8597
+- Isa_66:11os deleitéis con el resplandor de su gH3519
+- Isa_66:12la g de las naciones como torrente queH3519
+- Isa_66:18las naciones y...vendrán, y verán mi gH3519
+- Isa_66:19las costas lejanas que...ni vieron mi gH3519
+- Isa_66:19y publicarán mi g entre las nacionesH3519
+- Jer_2:11trocado su g por lo que no aprovechaH3519
+- Jer_13:16dad g a Jehová Dios vuestro, antes queH3519
+- Jer_13:18porque la corona de vuestra g ha caídoH3519
+- Jer_17:12trono de g, excelso desde el principioH3519
+- Jer_33:9me será a mí por nombre de gozo...y de gH8597
+- Jer_48:18desciende de la g, siéntate en tierraH3519
+- Eze_1:28esta fue la visión...de la g de JehováH3519
+- Eze_3:12bendita...la g de Jehová desde su lugarH3519
+- Eze_3:23estaba la g...como la g que había vistoH3519
+- Eze_7:20cuanto convirtieron la g de...en soberbiaH6643
+- Eze_8:4estaba la g del Dios de Israel, como laH3519
+- Eze_9:3g del Dios de Israel se elevó de encimaH3519
+- Eze_10:4, Eze_10:18la g de Jehová se elevó de encimaH3519
+- Eze_10:4y el atrio se llenó...de la g de JehováH3519
+- Eze_10:19la g del Dios de Israel...sobre ellosH3519
+- Eze_11:22la g del Dios de Israel estaba sobreH3519
+- Eze_11:23la g de Jehová se elevó de en medio deH3519
+- Eze_24:21la g de vuestro poderío, el deseo deH1347
+- Eze_24:25el gozo de su g, el deleite de sus ojosH8597
+- Eze_26:20y daré g en la tierra de los vivientesH6643
+- Eze_31:18¿a quién te has comparado así en g yH3519
+- Eze_39:21pondré mi g entre las naciones, y todasH3519
+- Eze_43:2y he aquí la g del Dios de Israel, queH3519
+- Eze_43:2la tierra resplandecía a causa de su gH3519
+- Eze_43:4la g de Jehová entró en la casa por laH3519
+- Eze_43:5he aquí...la g de Jehová llenó la casaH3519
+- Eze_44:4aquí la g de Jehová había llenado la casaH3519
+- Dan_2:31cuya g era muy sublime, estaba en pieH2122
+- Dan_4:30que yo edifiqué...para g de mi majestad?[[H3367]]
+- Dan_5:18dio a...la grandeza, la g y la majestadH3367
+- Dan_5:20fue depuesto del...y despojado de su gH3367
+- Dan_7:14le fue dado dominio, g y reino, para queH3367
+- Dan_11:20pasar un cobrador...por la g del reinoH1925
+- Ose_9:11g de Efraín volará cual ave, de modoH3519
+- Ose_10:5en él se regocijaban por su g, la cualH3519
+- Ose_14:6sus ramas, y será su g como la del olivoH1935
+- Amó_8:7juró por la g de Jacob: No me olvidaréH1347
+- Nah_2:2restaurará la g de Jacob como la g deH1347
+- Hab_2:14tierra será llena...de la g de JehováH3519
+- Hab_2:16el cáliz...y vómito de afrenta sobre tu gH3519
+- Hab_3:3su g cubrió los cielos, y la tierra seH1935
+- Hag_2:3haya visto esta casa en su g primeraH3519
+- Hag_2:7llenaré de g esta casa, ha dicho JehováH3519
+- Hag_2:9la g postrera de esta casa será mayor queH3519
+- Zac_2:5muro...para g estaré en medio de ellaH3519
+- Zac_2:8tras la g me enviará él a las nacionesH3519
+- Zac_6:13él llevará g, y se sentará y dominaráH1935
+- Zac_11:3voz...porque la g del Jordán es destruidaH155
+- Zac_12:7para que la g de la casa de David y delH8597
+- Mal_2:2decidís de corazón dar g a mi nombreH3519
+- Mat_4:8le mostró...los reinos del mundo y la gG1391
+- Mat_6:13tuyo es el reino, y el poder, y la gG1391
+- Mat_6:29ni aún Salomón con toda su g se vistióG1391
+- Mat_16:27el Hijo del Hombre vendrá en la g de suG1391
+- Mat_19:28el Hijo...se siente en el trono de su gG1391
+- Mat_24:30viniendo sobre las...con poder y gran gG1391
+- Mat_25:31cuando el Hijo...venga en su g, y todosG1391
+- Mat_25:31entonces se sentará en su trono de gG1391
+- Mar_8:38cuando venga en la g de su Padre conG1391
+- Mar_10:37concédenos que en tu g nos sentemosG1391
+- Mar_13:26vendrá en las nubes con gran poder y gG1391
+- Luc_2:9la g del Señor los rodeó de resplandorG1391
+- Luc_2:14¡g a Dios en las alturas, y en la tierraG1391
+- Luc_2:32los gentiles, y g de tu pueblo IsraelG1391
+- Luc_4:6a ti te daré toda esta potestad, y la gG1391
+- Luc_9:26cuando venga en su g, y en la del PadreG1391
+- Luc_9:31aparecieron rodeados de g, y hablabanG1391
+- Luc_9:32vieron la g de Jesús, y...dos varonesG1391
+- Luc_12:27que ni aun Salomón con toda su g seG1391
+- Luc_14:10entonces tendrás g delante de los queG1391
+- Luc_17:18quien volviese y diese g a Dios sinoG1391
+- Luc_19:38paz en el cielo, y g en las alturas![[G1391]]
+- Luc_21:27vendrá en una nube con poder y gran gG1391
+- Luc_23:47dio g a Dios, diciendo: VerdaderamenteG1392
+- Luc_24:26Cristo padeciera...y entrara en su g?[[G1391]]
+- Jua_1:14vimos su g, g como del unigénito delG1391
+- Jua_2:11y manifestó su G; y sus discípulosG1391
+- Jua_5:41g de los hombres no reciboG1391
+- Jua_5:44pues recibís g los unos de los otrosG1391
+- Jua_5:44y no buscáis la g que viene del DiosG1391
+- Jua_7:18el que habla por su...su propia g buscaG1391
+- Jua_7:18pero el que busca la g del que le envióG1391
+- Jua_8:50yo no busco mi G; hay quien la busca, yG1391
+- Jua_8:54glorifico a mí mismo, mi g nada esG1391
+- Jua_9:24da g a Dios; nosotros sabemos que eseG1391
+- Jua_11:4sino para la g de Dios, para que elG1391
+- Jua_11:40que si crees, verás la g de Dios?[[G1391]]
+- Jua_12:41Isaías dijo esto cuando vio su g, yG1391
+- Jua_12:43amaban más la g de...que la g de DiosG1391
+- Jua_17:5glorifícame...con aquella g que tuve alG1391
+- Jua_17:22g que me diste, yo les he dado, paraG1391
+- Jua_17:24para que vean mi g que me has dadoG1391
+- Hec_7:2Dios de la g apareció a nuestro padreG1391
+- Hec_7:55vio la g de Dios, y a Jesús que estabaG1391
+- Hec_12:23hirió, por cuanto no dio la g a DiosG1391
+- Hec_22:11yo no veía a causa de la g de la luzG1391
+- Rom_1:23cambiaron la g del Dios incorruptibleG1391
+- Rom_2:7hacer, buscan g y honra e inmortalidadG1391
+- Rom_2:10pero g y...a todo el que hace lo buenoG1391
+- Rom_3:7si...la verdad de Dios abundó para su gG1391
+- Rom_3:23y están destituidos de la g de DiosG1391
+- Rom_4:20que se fortaleció en fe, dando g a DiosG1391
+- Rom_5:2y nos gloriamos en la...de la g de DiosG1391
+- Rom_6:4Cristo resucitó de los muertos por la gG1391
+- Rom_8:18no son comparables con la g venideraG1391
+- Rom_9:4de los cuales son...la g, el pacto, laG1391
+- Rom_9:23hacer notorias las riquezas de su gG1391
+- Rom_9:23como los vasos...que él preparó...para gG1391
+- Rom_11:36a él sea la g por los siglos. AménG1391
+- Rom_15:7también Cristo nos recibió, para g deG1391
+- Rom_16:27sabio Dios, sea g mediante JesucristoG1391
+- 1Co_2:7antes de los siglos para nuestra gG1391
+- 1Co_2:8nunca habrían crucificado al Señor de RG1391
+- 1Co_9:15antes que nadie desvanezca esta mi gG2745
+- 1Co_10:31cosa, hacedlo todo para la g de DiosG1391
+- 1Co_11:7porque el varón...es imagen y g de DiosG1391
+- 1Co_11:7de Dios; pero la mujer es g del varónG1391
+- 1Co_15:31la g que de vosotros tengo en nuestroG2746
+- 1Co_15:40pero una es la g de los celestialesG1391
+- 1Co_15:41una es la g del sol, otra la g de laG1391
+- 1Co_15:41otra la g de las estrellas, pues unaG1391
+- 1Co_15:41una estrella es diferente de otra en gG1391
+- 1Co_15:43siembra en deshonra, resucitará en gG1391
+- 2Co_1:12nuestra g es esta: el testimonio deG2746
+- 2Co_1:14habéis entendido que somos vuestra gG2745
+- 2Co_1:20en él sí, y...Amén, para la g de DiosG1391
+- 2Co_3:7si el misterio de muerte...fue con gG1391
+- 2Co_3:7a causa de la g de su rostro, la cualG1391
+- 2Co_3:8¿cómo no será...con g el ministerio delG1391
+- 2Co_3:9el ministerio de condenación fue con gG1391
+- 2Co_3:9mucho más abundará en g el ministerioG1391
+- 2Co_3:10en comparación con la g más eminenteG1391
+- 2Co_3:11si lo que perece tuvo g, mucho másG1391
+- 2Co_3:18mirando...en un espejo la g del SeñorG1391
+- 2Co_3:18somos transformados de g en g en laG1391
+- 2Co_4:4no les resplandezca...de la g de CristoG1391
+- 2Co_4:6conocimiento de la g de Dios en la fazG1391
+- 2Co_4:15la acción de gracias...para g de DiosG1391
+- 2Co_4:17vez más excelente y eterno peso de gG1391
+- 2Co_8:19que es administrado...para g del SeñorG1391
+- 2Co_8:23son mensajeros de las...y g de CristoG1391
+- 2Co_11:10no se me impedirá esta mi g en lasG2746
+- Gál_1:5a quien sea la g por los siglos de losG1391
+- Efe_1:6para alabanza de la g de su graciaG1391
+- Efe_1:12de que seamos para alabanza de su gG1391
+- Efe_1:14de la posesión...para alabanza de su gG1391
+- Efe_1:17que el...Padre de g, os dé espíritu deG1391
+- Efe_1:18las riquezas de la g de su herencia enG1391
+- Efe_3:13tribulaciones...las cuales son vuestra gG1391
+- Efe_3:16os dé, conforme a las riquezas de su gG1391
+- Efe_3:21él sea g en la iglesia en Cristo JesúsG1391
+- Flp_1:11llenos de frutos...para g y alabanzaG1391
+- Flp_1:26que abunde vuestra g de mi en CristoG2745
+- Flp_2:11que Jesucristo es el Señor, para g deG1391
+- Flp_3:19es el vientre, y cuya g es su vergüenzaG1391
+- Flp_3:21sea semejante al cuerpo de la g suyaG1391
+- Flp_4:19suplirá...conforme a sus riquezas en gG1391
+- Flp_4:20al Dios y Padre nuestro sea g por losG1391
+- Col_1:11conforme a la potencia de su g, paraG1391
+- Col_1:27dar a conocer las riquezas de la g deG1391
+- Col_1:27Cristo en vosotros, la esperanza de gG1391
+- Col_3:4también seréis manifestados con él en gG1391
+- 1Ts_2:6ni buscamos g de los hombres; ni deG1391
+- 1Ts_2:12de Dios, que os llamó a su reino y gG1391
+- 1Ts_2:20vosotros sois nuestra g y gozoG1391
+- 2Ts_1:9excluidos de...y de la g de su poderG1391
+- 2Ts_2:14para alcanzar la g de nuestro SeñorG1391
+- 1Ti_1:17sea honor y g por los siglos de losG1391
+- 1Ti_3:16creído...mundo; recibido arriba en gG1391
+- 2Ti_2:10salvación que es en...con g eternaG1391
+- 2Ti_4:18a él sea g por los siglos de los siglosG1391
+- Heb_1:3el cual, siendo el resplandor de su gG1391
+- Heb_2:7coronaste de g y de honra, y le pusisteG1391
+- Heb_2:9vemos...Jesús, coronado de g y de honraG1391
+- Heb_2:10habiendo de llevar muchos hijos a la gG1391
+- Heb_3:3porque de tanto mayor g que Moisés esG1391
+- Heb_9:5sobre ella...querubines de g que cubríanG1391
+- Heb_13:21al cual sea la g por los siglos de losG1391
+- 1Pe_1:7vuestra fe...sea hallada en...g y honraG1391
+- 1Pe_1:11el cual anunciaba...las g que vendríanG1391
+- 1Pe_1:21quien le resucitó de...y le ha dado gG1391
+- 1Pe_1:24toda la g del hombre como flor de laG1391
+- 1Pe_2:20¿qué g...si pecando sois abofeteadosG2811
+- 1Pe_4:11a quien pertenecen la g y el imperioG1391
+- 1Pe_4:13en la revelación de su g os gocéis conG1391
+- 1Pe_5:1participante de la g que será reveladaG1391
+- 1Pe_5:4recibiréis la corona de g incorruptibleG1391
+- 1Pe_5:10mas el Dios de...que nos llamó a su gG1391
+- 1Pe_5:11él sea la g y el imperio por los siglosG1391
+- 2Pe_1:3que nos llamó por su g Y excelenciaG1391
+- 2Pe_1:17cuando él recibió de Dios Padre...g, leG1391
+- 2Pe_1:17le fue enviada desde la...g una voz queG1391
+- 2Pe_3:18a él sea g ahora y hasta el día de laG1391
+- Jud_1:24presentaros sin mancha delante de su gG1391
+- Jud_1:25al único y sabio Dios...sea g y majestadG1391
+- Rev_1:6a él sea g e imperio por los siglos deG1391
+- Rev_4:9aquellos seres vivientes dan g y honraG1391
+- Rev_4:11digno eres de recibir la g y la honraG1391
+- Rev_5:12es digno de tomar...la g y la alabanzaG1391
+- Rev_5:13al Cordero, sea...la g y el poder, porG1391
+- Rev_7:12g...sean a nuestro Dios por los siglosG1391
+- Rev_11:13los demás...dieron g al Dios del cieloG1391
+- Rev_14:7temed a Dios, y dadle g, porque la horaG1391
+- Rev_15:8el templo se llenó de humo por la g deG1391
+- Rev_16:9y no se arrepintieron para darle gG1391
+- Rev_18:1ángel...la tierra fue alumbrada con su gG1391
+- Rev_19:1y g y poder son del Señor Dios nuestroG1391
+- Rev_19:7démosle g...han llegado las bodas delG1391
+- Rev_21:11teniendo la g de Dios. Y su fulgorG1391
+- Rev_21:23la g de Dios la ilumina, y el CorderoG1391
+- Rev_21:24los reyes...traerán su g y honor a ellaG1391
+- Rev_21:26y llevarán la g y la honra de...a ellaG1391

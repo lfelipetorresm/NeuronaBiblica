@@ -1,0 +1,120 @@
+---
+tipo: concordancia
+palabra: SUR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SUR
+
+- Gén_13:14y mira desde...hacia el norte y el sH5045
+- Gén_28:14te extenderás...oriente, al norte y al sH5045
+- Éxo_26:18veinte tablas al...del mediodía, al sH5045
+- Éxo_26:35el candelero...al lado s del tabernáculoH5045
+- Éxo_27:9al s, tendrá el atrio cortinas de linoH5045
+- Éxo_36:23veinte tablas al...del s, al mediodíaH5045
+- Éxo_38:9del lado s, al mediodía, las cortinas delH5045
+- Éxo_40:24el candelero...al lado s de la cortinaH5045
+- Núm_2:10la bandera del...de Rubén estará al sH5045
+- Núm_3:29las familias...de Coat acamparán...al sH5045
+- Núm_10:6moverán...los que están acampados al sH5045
+- Núm_34:3al lado del s desde el desierto de ZinH5045
+- Núm_34:3límite del s al extremo del Mar SaladoH5045
+- Núm_34:4este límite os irá rodeando desde el sH5045
+- Núm_34:4y se extenderá del s a Cades-barneaH5045
+- Núm_35:5al lado del s dos mil codos, al lado delH5045
+- Deu_3:27alza tus ojos...s, y al este, y miraH5045
+- Deu_33:23a Neftalí...posee el occidente y el sH5045
+- Jos_11:2reyes...en el Arabá al s de CineretH5045
+- Jos_12:3y desde el s al pie de las laderas delH8486
+- Jos_13:4al s toda la tierra de los cananeos, yH8486
+- Jos_15:1teniendo el desierto de Zin al s comoH5045
+- Jos_15:2su límite por el lado del s fue desdeH5045
+- Jos_15:2Mar...desde la bahía que mira hacia el sH5045
+- Jos_15:3hacia el s de...el s hasta Cades-barneaH5045
+- Jos_15:4este, pues, os será el límite del sH5045
+- Jos_15:7la subida de Adumín, que está al s delH5045
+- Jos_15:8y sube este límite...lado s del jebuseoH5045
+- Jos_15:21las ciudades...de Judá en el extremo sH5045
+- Jos_17:7va al s, hasta los que habitan en Tapúa
+- Jos_17:9al arroyo de Caná, hacia el s del arroyoH5045
+- Jos_17:10Efraín al s, y Manasés al norte, y elH5045
+- Jos_18:5y Judá quedará en su territorio al s, yH5045
+- Jos_18:13pasa...lado s de Luz...al s de Bet-horónH5045
+- Jos_18:14y tuerce...por el lado s del monte queH5045
+- Jos_18:14monte...está delante de Bet-horón al sH5045
+- Jos_18:15el lado del s es desde el extremo deH5045
+- Jos_18:16desciende luego...al lado s del jebuseoH5045
+- Jos_18:19a la extremidad s del Jordán...límite sH5045
+- Jos_19:34el límite...llegaba hasta Zabulón al sH5045
+- Jue_21:19hay fiesta...en Silo...al s de LebonaH5045
+- 1Sa_14:5uno...al norte...otro al s, hacia GabaaH5045
+- 1Sa_20:41se levantó David del lado del s, y seH5045
+- 1Sa_23:19las peñas de Hores...al s del desierto?[[H5045]]
+- 1Sa_23:24de Maón, en el Arabá al s del desiertoH5045
+- 2Sa_24:5al s de la ciudad que está en medioH5045
+- 1Re_7:25tres miraban al s, y tres miraban alH5045
+- 1Re_7:39y colocó el mar...al oriente, hacia el sH5045
+- 1Cr_9:24estaban los porteros...norte y al sH5045
+- 1Cr_26:15y para Obed-edom la puerta del s, y aH5045
+- 1Cr_26:17norte cuatro de día; al s cuatro de díaH5045
+- 2Cr_4:4bueyes...tres al s, y tres al orienteH5045
+- Job_9:9él hizo la Osa...lugares secretos del sH8486
+- Job_23:9no lo...al s se esconderá, y no lo veré
+- Job_37:9del s viene el torbellino, y el frío deH2315
+- Job_37:17sosiega la tierra con el viento del s?[[H1864]]
+- Job_39:26¿vuela...extiende hacia el s sus alas?[[H8486]]
+- Sal_78:26y trajo con su poder el viento sH8486
+- Sal_89:12norte y el s, tú los creaste; el TaborH3225
+- Sal_107:3los ha congregado...del norte y del sH3220
+- Ecl_1:6el viento tira hacia el s, y rodea alH1864
+- Ecl_11:3si el árbol cayere al s, o...allí quedaráH1864
+- Isa_43:6al s: No detengas; trae de lejos misH8486
+- Eze_16:46con sus hijas, la cual habita al s
+- Eze_20:46pon tu rostro hacia el s, derrama tuH8486
+- Eze_20:47quemados en ella...rostros, desde el sH5045
+- Eze_21:4contra toda carne, desde el s hasta elH5045
+- Eze_40:2edificio parecido a...hacia la parte sH5045
+- Eze_40:24hacia el s, y...una puerta hacia el sH1864
+- Eze_40:27puerta hacia el s del atrio interiorH1864
+- Eze_40:27puerta a puerta hacia el s cien codosH1864
+- Eze_40:28el atrio de adentro a la puerta del sH1864
+- Eze_40:28midió la puerta del s conforme a estasH1864
+- Eze_40:44cámaras...las cuales miraban hacia el sH1864
+- Eze_40:45la cámara que mira hacia el s es de losH1864
+- Eze_41:11otra puerta hacia el s; y el ancho delH1864
+- Eze_42:12las puertas de las cámaras...hacia el sH1864
+- Eze_42:13las cámaras del norte y las del s, queH1864
+- Eze_42:18midió al lado del s, quinientas cañasH1864
+- Eze_46:9del norte saldrá por la puerta del s, yH5045
+- Eze_46:9que entrare por la puerta del s saldráH5045
+- Eze_47:1las aguas descendían de...al s del altarH5045
+- Eze_47:19del lado meridional, hacia el s, desdeH5045
+- Eze_47:19y esto será el lado meridional, al sH8446
+- Eze_48:10y de veinticinco mil de longitud al sH5045
+- Eze_48:16lado del s cuatro mil quinientas cañasH5045
+- Eze_48:17s de doscientas cincuenta, al orienteH5045
+- Eze_48:28al lado meridional al s, será el límiteH5045
+- Eze_48:33lado del s, cuatro mil quinientas cañasH5045
+- Dan_8:4que el carnero hería...al norte y al sH5045
+- Dan_8:9un cuerno pequeño, que creció mucho al sH5045
+- Dan_11:5se hará fuerte el rey del s; mas uno deH5045
+- Dan_11:6la hija del rey del s vendrá al rey delH5045
+- Dan_11:9así entrará en el reino el rey del s, yH5045
+- Dan_11:11por lo cual se enfurecerá el rey del sH5045
+- Dan_11:14levantarán muchos contra el rey del sH5045
+- Dan_11:15las fuerzas del s no podrán sostenerseH5045
+- Dan_11:25contra el rey del s con gran ejércitoH5045
+- Dan_11:25el rey del s se empeñará en la guerraH5045
+- Dan_11:29al tiempo señalado volverá al s; mas noH5045
+- Dan_11:40el rey del s contenderá con él; y el reyH5045
+- Zac_6:6overos salieron hacia la tierra del sH8446
+- Zac_14:4se apartará...y la otra mitad hacia el sH5045
+- Zac_14:10llanura desde Geba hasta Rimón al s deH5045
+- Mat_12:42; Luc_11:31reina del S se levantaráG3558
+- Luc_12:55y cuando sopla el viento del s, decísG3558
+- Luc_13:29vendrán...norte y del s, y se sentaránG3558
+- Hec_8:26y vé hacia el s, por el camino queG3314
+- Hec_27:13soplando...brisa del s, pareciéndolesG3314
+- Hec_28:13día...soplando el viento s, llegamos alG3314
+- Rev_21:13al s tres puertas; al occidente tresG3314

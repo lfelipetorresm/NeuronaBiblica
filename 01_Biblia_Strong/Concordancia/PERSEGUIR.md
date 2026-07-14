@@ -1,0 +1,107 @@
+---
+tipo: concordancia
+palabra: PERSEGUIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PERSEGUIR
+
+- Gén_35:5no persiguieron a los hijos de JacobH7291
+- Éxo_15:9dijo: Perseguiré, apresaré, repartiréH7291
+- Lev_26:7y persiguiréis a vuestros enemigos, yH7291
+- Lev_26:8cinco de...perseguirán a ciento, y cientoH7291
+- Lev_26:8ciento de vosotros perseguirán a 10.000H7291
+- Lev_26:17huiréis sin que haya quien os persigaH7291
+- Lev_26:36el sonido de una hoja...los perseguiráH7291
+- Lev_26:36hoja...y caerán sin que nadie los persigaH7291
+- Lev_26:37si huyeran...aunque nadie los persigaH7291
+- Núm_14:45los derrotaron, persiguiéndolos hastaH3807
+- Deu_1:44os persiguieron como hacen las avispasH7291
+- Deu_19:6que el vengador de...persiga al homicidaH7291
+- Deu_28:22y te perseguirán hasta que perezcasH7291
+- Deu_28:45te perseguirán, y te alcanzarán hastaH7291
+- Deu_30:7sobre tus enemigos...que te persiguieronH7291
+- Deu_32:30¿cómo podría perseguir uno a mil, y dosH7291
+- Jos_2:22que volvieron los que los perseguíanH7291
+- Jos_2:22los que los persiguieron buscaron porH7291
+- Jos_8:24desierto a donde los habían perseguidoH7291
+- Jos_23:10un varón de vosotros perseguirá a milH7291
+- Jue_8:4cansados, mas todavía persiguiendoH7291
+- Jue_8:5y yo persigo a Zeba y Zalmuna, reyes deH7291
+- Jue_9:40mas lo persiguió Abimelec, y Gaal huyóH7291
+- Jue_20:45y fueron persiguiéndolos...hasta GidomH1692
+- 1Sa_14:22los persiguieron en aquella batallaH1692
+- 1Sa_23:28volvió, por...Saúl de perseguir a DavidH7291
+- 1Sa_24:1cuando Saúl volvió de perseguir a losH310
+- 1Sa_24:14el rey...¿A quién persigues? ¿A un perroH7291
+- 1Sa_25:29se haya levantado para perseguirte yH7291
+- 1Sa_26:18¿por qué persigue así mi señor a suH7291
+- 1Sa_26:20como quien persigue una perdiz por losH7291
+- 1Sa_30:8¿perseguiré a estos merodeadores? ¿LosH7291
+- 2Sa_2:26vuelva de perseguir a sus hermanos?[[H310]]
+- 2Sa_2:28el pueblo se detuvo, y no persiguió másH7291
+- 2Sa_2:30también volvió de perseguir a Abner, yH310
+- 2Sa_22:38perseguiré a mis enemigos...destruiréH7291
+- 2Sa_24:13¿o que huyas...y que ellos te persigan?[[H7291]]
+- 2Re_3:24persiguieron matando a los de Moab
+- 2Re_14:19pero le persiguieron hasta Laquis, y
+- 2Cr_14:13Asa...los persiguieron hasta GerarH7291
+- Job_13:25y a una paja seca has de perseguir?[[H7291]]
+- Job_19:22¿por qué me perseguía como Dios, y niH7291
+- Job_19:28decir: ¿Por qué le perseguimos? ya queH7291
+- Job_30:21con el poder de tu mano me persiguesH7852
+- Sal_7:1sálvame de todos los que me persiguenH7291
+- Sal_7:5persiga el enemigo mi alma, y alcáncelaH7291
+- Sal_10:2con arrogancia el malo persigue al pobreH1814
+- Sal_10:15persigue la maldad del malo hasta queH1875
+- Sal_18:37perseguí a mis enemigos, y los alcancéH7291
+- Sal_35:6sea...y el ángel de Jehová los persigaH7291
+- Sal_55:3iniquidad, y con furor me persiguenH7852
+- Sal_69:26porque persiguieron al que tú heristeH7291
+- Sal_71:11perseguidle y tomadle, porque no hayH7291
+- Sal_83:15persíguelos así con tu tempestad, yH7291
+- Sal_109:16y persiguió al...afligido y menesterosoH7291
+- Sal_119:84juicio contra los que me persiguen?[[H7291]]
+- Sal_119:86todos...sin causa me persiguen; ayúdameH7291
+- Sal_119:150se acercaron...los que me persiguenH7291
+- Sal_119:161príncipes me han perseguido sin causaH7291
+- Sal_142:6líbrame de los que me persiguen, porqueH7291
+- Sal_143:3ha perseguido el enemigo mi alma; haH7291
+- Pro_13:21mal perseguirá a los pecadores, masH7291
+- Pro_28:1huye el impío sin que nadie lo persigaH7291
+- Isa_13:14como gacela perseguida, y como ovejaH5080
+- Isa_14:6que hería...y las perseguía con crueldadH4783
+- Jer_17:18avergüéncense los que me persiguenH7291
+- Jer_20:11los que me persiguen tropezarán, y noH7291
+- Jer_29:18los perseguiré con espada, con hambreH7291, [[H310]]
+- Jer_42:16el hambre...allá en Egipto os perseguiráH1692
+- Lam_3:43desplegaste la ira y nos perseguisteH7291
+- Lam_3:66persíguelos en tu furor, y quebrántalosH7291
+- Lam_4:19sobre los montes nos persiguieron, enH1814
+- Eze_35:6sangre te destinaré, y te perseguiráH7291
+- Eze_35:6la sangre no aborreciste...te perseguiráH7291
+- Ose_8:3Israel desechó...enemigo lo perseguiráH7291
+- Amó_1:11porque persiguió a espada a...hermanoH7291
+- Nah_1:8tinieblas perseguirán a sus enemigosH7291
+- Mat_5:11mi causa os vituperen y os persiganG1377
+- Mat_5:12porque así persiguieron a los profetasG1377
+- Mat_5:44orad por los...ultrajan y os persiguenG1377
+- Mat_10:23os persigan en esta ciudad, huid a laG1377
+- Mat_23:34unos...perseguiréis de ciudad en ciudadG1377
+- Luc_11:49unos matarán y a otros perseguiránG1559
+- Luc_21:12os echarán mano, y os perseguirán, yG1377
+- Jua_5:16causa los judíos perseguían a JesúsG1377
+- Jua_15:20a mí me han perseguido...os perseguiránG1377
+- Hec_7:52cuál de los profetas no persiguieronG1377
+- Hec_9:4; Hec_22:7; Hec_26:14Saulo, ¿por qué me persigues?[[G1377]]
+- Hec_9:5; Hec_22:8; Hec_26:15yo soy Jesús...quien tú persiguesG1377
+- Hec_22:4perseguía yo...Camino hasta la muerteG1377
+- Hec_26:11enfurecido...los perseguí hasta en lasG1377
+- Rom_12:14bendecid a los que os persiguenG1377
+- 1Co_15:9porque perseguí a la iglesia de DiosG1377
+- 2Co_4:9perseguidos, mas no desamparadosG1377
+- Gál_1:13que perseguía...a la iglesia de DiosG1377
+- Gál_1:23aquel que en otro tiempo nos perseguíaG1377
+- Gál_4:29perseguía al que había nacido según elG1377
+- Rev_12:13el dragón...persiguió a la mujer queG1377

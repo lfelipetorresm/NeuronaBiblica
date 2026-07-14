@@ -1,0 +1,186 @@
+---
+tipo: concordancia
+palabra: ENCENDER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENCENDER
+
+- Gén_3:24una espada encendida que se revolvíaH3858
+- Gén_39:19cuando oyó el amo...encendió su furorH2734
+- Gén_44:18se encienda tu enojo contra tu siervoH2734
+- Éxo_22:6encendió el fuego pagará lo quemadoH1197
+- Éxo_22:24mi furor se encenderá, y os mataré aH2734
+- Éxo_25:37lamparillas, las cuales encenderás paraH5927
+- Éxo_29:25arder...Es ofrenda encendida a JehováH801
+- Éxo_29:41cordero...ofrenda encendida a JehováH801
+- Éxo_30:8cuando Aarón encienda las lámparas alH5927
+- Éxo_30:20para quemar la ofrenda encendida paraH801
+- Éxo_32:10déjame que se encienda mi ira en ellosH2734
+- Éxo_32:11¿por qué se encenderá tu furor contraH2734
+- Éxo_35:3no encenderéis fuego...el día de reposoH1197
+- Éxo_40:4el candelero y encenderás sus lámparasH5927
+- Éxo_40:25encendió las lámparas delante de JehováH5927
+- Lev_1:9, Lev_1:13, Lev_1:17; Lev_2:2, Lev_2:9es ofrenda encendida de olor gratoH801
+- Lev_2:16arder...es ofrenda encendida para JehováH801
+- Lev_3:3, Lev_3:9ofrenda encendida a Jehová la grosuraH801
+- Lev_3:11vianda es de ofrenda encendida paraH801
+- Lev_3:14ofrecerá de ella su ofrenda encendidaH801
+- Lev_4:35hará arder...sobre la ofrenda encendidaH801
+- Lev_5:12arder...sobre las ofrendas encendidasH801
+- Lev_6:9el holocausto...sobre el fuego encendidoH4169
+- Lev_6:12el fuego encendido sobre el altar noH3344
+- Lev_6:17su porción de mis ofrendas encendidasH801
+- Lev_6:18a las ofrendas encendidas para JehováH801
+- Lev_7:5arder sobre el altar, ofrenda encendidaH801
+- Lev_7:25se ofrece a Jehová ofrenda encendidaH801
+- Lev_7:35de las ofrendas encendidas a JehováH801
+- Lev_8:21olor grato, ofrenda encendida para JehováH801
+- Lev_8:28hizo arder...ofrenda encendida a JehováH801
+- Lev_10:12que queda de las ofrendas encendidasH801
+- Lev_10:13la comeréis...de las ofrendas encendidasH801
+- Lev_21:6las ofrendas encendidas para Jehová yH801
+- Lev_21:21para ofrecer las ofrendas encendidasH801
+- Lev_22:22ni de ellos pondréis ofrenda encendidaH801
+- Lev_22:27será acepto para...sacrificio encendidoH801
+- Lev_23:8ofreceréis a...7 días ofrenda encendidaH801
+- Lev_23:13ofrenda encendida a Jehová...olor gratoH801
+- Lev_23:18ofrenda encendida de olor grato paraH801
+- Lev_23:25, Lev_23:27, Lev_23:36(2),37ofreceréis ofrenda encendida a JehováH801
+- Lev_24:7incienso puro...ofrenda encendida a JehováH801
+- Lev_24:9comerán...de las ofrendas encendidas aH801
+- Núm_8:2cuando enciendas las lámparas, las 7H5927
+- Núm_8:3hizo así; encendió hacia la parte anteriorH5927
+- Núm_11:1y se encendió en ellos fuego de JehováH1197
+- Núm_11:3el fuego de Jehová se encendió en ellosH1197
+- Núm_11:10, Núm_11:33; Núm_12:9la ira de Jehová se encendióH2734
+- Núm_15:3y hagáis ofrenda encendida a JehováH801
+- Núm_15:10, Núm_15:13-14ofrenda encendida de olor gratoH801
+- Núm_15:25traerán sus...ofrenda encendida a JehováH801
+- Núm_18:17ofrenda encendida en olor...a JehováH801
+- Núm_22:22la ira de Dios se encendió porque élH2734
+- Núm_24:10se encendió la ira de Balac...BalaamH2734
+- Núm_25:3el furor de Jehová se encendió contraH2734
+- Núm_28:2mi pan con mis ofrendas encendidas enH801
+- Núm_28:3es la ofrenda encendida que ofreceréisH801
+- Núm_28:6holocausto...ofrenda encendida a JehováH801
+- Núm_28:8ofrenda encendida...olor grato a JehováH801
+- Núm_28:13olor grato, ofrenda encendida a JehováH801
+- Núm_28:19y ofreceréis como ofrenda encendida enH801
+- Núm_28:24vianda y ofrenda encendida...olor gratoH801
+- Núm_29:6como ofrenda encendida a Jehová en olorH801
+- Núm_29:13ofreceréis...ofrenda encendida a JehováH801
+- Núm_29:36en ofrenda encendida de olor grato aH801
+- Núm_32:10la ira de Jehová se encendió...y juróH2734
+- Núm_32:13la ira de Jehová se encendió contra IsraelH2734
+- Deu_7:4el furor de Jehová se encenderá sobreH2734
+- Deu_11:17se encienda el furor de Jehová sobreH2734
+- Deu_29:27encendió la ira de Jehová contra estaH2734
+- Deu_31:17y se encenderá mi furor contra él enH2734
+- Deu_32:19y lo vio Jehová, y se encendió en ira
+- Deu_32:22porque fuego se ha encendido en mi iraH6919
+- Jos_7:1ira...se encendió contra los hijos deH2734
+- Jos_23:16la ira...se encenderá contra vosotrosH2734
+- Jue_2:14se encendió contra Israel el furorH2734
+- Jue_2:20; Jue_3:8ira de Jehová se encendió contraH2734
+- Jue_6:39no se encienda tu ira contra mí, si aúnH2734
+- Jue_9:30cuando Zebul...oyó...se encendió en iraH2734
+- Jue_10:7y se encendió la ira de Jehová contraH2734
+- Jue_14:19y encendido en enojo se volvió a laH2734
+- Jue_15:5encendiendo las teas, soltó las zorrasH1197
+- 1Sa_11:6él se encendió en ira en gran maneraH2734
+- 1Sa_17:28oyéndole...Eliab...encendió en ira contraH2734
+- 1Sa_20:30entonces se encendió la ira de SaúlH2734
+- 2Sa_6:7el furor de Jehová se encendió contraH2734
+- 2Sa_12:5se encendió el furor de David en granH2734
+- 2Sa_22:9, 2Sa_22:13carbones fueron por él encendidosH1197
+- 2Sa_24:1volvió a encenderse la ira de JehováH2734
+- 2Re_13:3encendió el furor de Jehová contraH2734
+- 2Re_16:13y encendió su holocausto y su ofrendaH6999
+- 2Re_16:15encenderás el holocausto de la mañanaH6999
+- 2Re_22:13grande es la ira...que se ha encendidoH3341
+- 2Re_22:17ira se ha encendido contra este lugarH3341
+- 2Re_23:26su gran ira se había encendido contraH2734
+- 1Cr_13:10y el furor de Jehová se encendióH2734
+- 2Cr_4:20las encendiesen delante del lugarH1197
+- 2Cr_21:19no encendieron fuego en su honor, comoH8316
+- 2Cr_25:15se encendió la ira de Jehová contraH2734
+- 2Cr_33:6se excedió en...hasta encender su iraH3707
+- Est_1:12el rey se enojó...se encendió en iraH1197
+- Est_7:7el rey se levantó del...encendido en ira
+- Job_32:2Eliú...se encendió en ira contra JobH2734
+- Job_32:2Eliú...se encendió en ira, por cuanto seH2734
+- Job_32:3encendió en ira contra sus tres amigosH2734
+- Job_32:5viendo Eliú que no...se encendió en iraH2734
+- Job_41:18con sus estornudos enciende lumbre, yH1984
+- Job_41:21su aliento enciende los carbones, y deH3857
+- Job_42:7mi ira se encendió contra ti y tus dosH2734
+- Sal_18:8carbones fueron por él encendidosH1197
+- Sal_18:28encenderás mi lámpara; Jehová mi DiosH215
+- Sal_39:3en mi meditación se encendió fuego, yH1197
+- Sal_74:1encendido tu furor contra las ovejas deH6225
+- Sal_76:7delante de ti cuando se encienda tu ira?
+- Sal_78:21se encendió el fuego contra Jacob, y elH5400
+- Sal_106:18y se encendió fuego en su junta; laH1197
+- Sal_106:40se encendió...furor de Jehová sobre suH2734
+- Sal_124:3se encendió su furor contra nosotrosH2734
+- Pro_26:21rencilloso para encender contiendaH2787
+- Isa_1:31y ambos serán encendidos juntamenteH1197
+- Isa_5:11noche, hasta que el vino los enciende![[H1814]]
+- Isa_5:25por esta causa se encendió el furor deH2734
+- Isa_6:6y voló...en su mano un carbón encendidoH7531
+- Isa_9:18la maldad se encendió como fuego, cardosH1197
+- Isa_9:18y se encenderá en lo espeso del bosqueH3341
+- Isa_10:16y debajo de su gloria encenderá unaH3344
+- Isa_27:11mujeres vendrán a encenderlas; porqueH215
+- Isa_30:27su rostro encendido, y con llamas deH1197
+- Isa_30:33como torrente de azufre, lo enciendeH1197
+- Isa_44:15enciende...horno, y cuece panes; haceH1197
+- Isa_50:11todos vosotros encendéis fuego, y osH6919
+- Isa_50:11fuego, y de las teas que encendisteisH1197
+- Isa_62:1salvación se encienda como una antorchaH1197
+- Jer_4:4se encienda y no haya quien la apagueH1197
+- Jer_7:18la leña, los padres encienden el fuegoH1197
+- Jer_7:20mi furor y mi ira...se encenderán, y noH1197
+- Jer_11:16a la voz de...hizo encender fuego sobreH3341
+- Jer_15:14fuego se ha encendido en mi furor, yH6919
+- Jer_17:4fuego habéis encendido en mi furor, queH6919
+- Jer_21:12para que mi ira no...se encienda y noH1197
+- Jer_21:14y haré encender fuego en su bosque, yH3341
+- Jer_33:18ni...faltará varón que...encienda ofrendaH6999
+- Jer_44:6y se encendió en las ciudades de JudáH1197
+- Jer_49:27encender fuego en el muro de DamascoH3341
+- Jer_50:32y encenderé fuego en sus ciudades, yH3341
+- Lam_2:3encendió en Jacob como llama de fuegoH1197
+- Lam_4:11y encendió en Sion fuego que consumióH3341
+- Eze_1:13como de carbones de fuego encendidosH1197
+- Eze_1:13como visión de hachones encendidos que
+- Eze_10:2llena tus manos de carbones encendidosH784
+- Eze_20:47que yo enciendo en ti fuego, el cualH3341
+- Eze_20:48verá toda carne que yo...lo encendí; noH1197
+- Eze_21:31el fuego de mi...haré encender sobre tiH6315
+- Eze_22:20encender fuego en él para fundirlosH5301
+- Eze_24:5enciende los huesos debajo de ella; hazH1754
+- Eze_24:10encendiendo el fuego para consumir laH1814
+- Eze_39:9y encenderán y quemarán armas, escudosH1197
+- Ose_7:4son como horno encendido por el horneroH1197
+- Ose_7:6a la mañana está encendido como llama deH1197
+- Ose_8:5se encendió mi enojo contra ellos, hastaH2734
+- Amó_1:14encenderé fuego en el muro de Rabá, yH3341
+- Nah_2:4su aspecto...como antorchas encendidas
+- Nah_2:13encenderé y reduciré a humo tus carrosH1197
+- Hab_3:5sus pies salían carbones encendidosH7565
+- Zac_10:3contra los pastores se ha encendidoH2734
+- Mat_5:15ni se enciende una luz y se pone debajoG2545
+- Luc_8:16nadie que enciende una luz la cubreG681
+- Luc_11:33nadie pone en oculto la luz encendidaG681
+- Luc_12:35estén...vuestras lámparas encendidasG2545
+- Luc_12:49¿y qué quiero, si ya se ha encendido?[[G381]]
+- Luc_15:8no enciende la lámpara, y barre la casaG681
+- Luc_22:55habiendo ellos encendido fuego en medioG681
+- Jua_18:18los alguaciles que habían encendidoG4160
+- Hec_28:2encendiendo un fuego...nos recibieronG381
+- Rom_1:27se encendieron en su lascivia unosG1572
+- Stg_3:5¡cuán grande bosque enciende...fuego![[G381]]
+- 2Pe_3:12en el cual los cielos, encendiéndoseG4448

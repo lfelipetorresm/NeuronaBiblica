@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: PASCUA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PASCUA
+
+- Éxo_12:11lo comeréis así...es la P de JehováH6453
+- Éxo_12:21tomaos corderos por...y sacrificad la pH6453
+- Éxo_12:27responderéis: Es la víctima de la p deH6453
+- Éxo_12:43es la ordenanza de la p; ningún extrañoH6453
+- Éxo_12:48extranjero...y quisiere celebrar la pH6453
+- Éxo_34:25nada del sacrificio de la fiesta de la pH6453
+- Lev_23:5entre las dos tardes, p es de JehováH6453
+- Núm_9:2de Israel celebrarán la p a su tiempoH6453
+- Núm_9:4habló Moisés...para que celebrasen la pH6453
+- Núm_9:5celebraron la p en el mes primero, a losH6453
+- Núm_9:6pero...no pudieron celebrar la p aquel díaH6453
+- Núm_9:10que estuviere inmundo...celebrará la pH6453
+- Núm_9:12conforme a todos los ritos de la p laH6453
+- Núm_9:13mas el que...si dejare de celebrar la pH6453
+- Núm_9:14la p a Jehová, conforme al rito de la pH6453
+- Núm_28:16a los 14 días del mes...la p de JehováH6453
+- Núm_33:3segundo día de la p salieron los hijosH6453
+- Deu_16:1el mes de Abib, y harás p a Jehová tuH6453
+- Deu_16:2sacrificarás la p a Jehová tu Dios, deH6453
+- Deu_16:5no podrás sacrificar la p en cualquieraH6453
+- Deu_16:6sacrificarás la p por la tarde a la...solH6453
+- Jos_5:10los hijos de Israel...celebraron la pH6453
+- Jos_5:11al otro día de la p comieron del frutoH6453
+- 2Re_23:21haced la p a Jehová vuestro DiosH6453
+- 2Re_23:22no había sido hecha tal p desde losH6453
+- 2Re_23:23hecha aquella p a Jehová en JerusalénH6453
+- 2Cr_30:1para celebrar la p a Jehová Dios deH6453
+- 2Cr_30:2para ceebrar la p en el mes segundoH6453
+- 2Cr_30:5viniesen a celebrar la p a Jehová DiosH6453
+- 2Cr_30:15sacrificaron la p, a los 14 días delH6453
+- 2Cr_30:17sacrificaban la p por todos los que noH6453
+- 2Cr_30:18y comieron la p no conforme a lo queH6453
+- 2Cr_35:1Josías celebró la p...sacrificaron la pH6453
+- 2Cr_35:6sacrificad luego la p; y después deH6453
+- 2Cr_35:7dio el rey...ovejas, corderos...para la pH6453
+- 2Cr_35:8a los sacerdotes, para celebrar la pH6453
+- 2Cr_35:9dieron a...para los sacrificios de la pH6453
+- 2Cr_35:11y sacrificaron la p; y esparcían losH6453
+- 2Cr_35:13y asaron la p al fuego conforme a laH6453
+- 2Cr_35:16para celebrar la p y para sacrificarH6453
+- 2Cr_35:17allí celebraron la p en aquel tiempoH6453
+- 2Cr_35:18nunca fue celebrada una p como esta enH6453
+- 2Cr_35:18ningún rey...celebró p tal como la queH6453
+- 2Cr_35:19esta p fue celebrada en el año 18 delH6453
+- Esd_6:19los de la cautividad celebraron la pH6453
+- Esd_6:20sacrificaron la p por todos los hijos deH6453
+- Isa_30:29como de noche en que se celebra p, yH2282
+- Eze_45:21tendréis la p, fiesta de siete díasH6453
+- Mat_26:2que dentro de dos días se celebra la pG3957
+- Mat_26:17¿dónde...preparemos para que comas la pG3957
+- Mat_26:18está cerca; en tu casa celebraré la pG3957
+- Mat_26:19discípulos hicieron...y prepararon la pG3957
+- Mar_14:1dos días después era la p, y la fiestaG3957
+- Mar_14:12cuando sacrificaban el cordero de la pG3957
+- Mar_14:12vayamos a preparar para que comas la p?[[G3957]]
+- Mar_14:14el aposento donde he de comer la p conG3957
+- Mar_14:16fueron sus discípulos...prepararon la pG3957
+- Luc_2:41iban...Jerusalén en la fiesta de la pG3957
+- Luc_22:1la fiesta de los panes...que se llama la pG3957
+- Luc_22:7necesario sacrificar el cordero de la pG3957
+- Luc_22:8id, preparadnos la p para que la comamosG3957
+- Luc_22:11el aposento donde he de comer la p conG3957
+- Luc_22:13fueron...y hallaron...y prepararon la pG3957
+- Luc_22:15he deseado comer...p antes que padezca![[G3957]]
+- Jua_2:13estaba cerca la p de los judíos; yG3957
+- Jua_2:23en la fiesta de la p, muchos creyeronG3957
+- Jua_6:4estaba cerca la p, la fiesta de...judíosG3957
+- Jua_11:55y estaba cerca la p de los judíos; yG3957
+- Jua_11:55subieron de...a Jerusalén antes de la pG3957
+- Jua_12:1seis días antes de la p, vino Jesús aG3957
+- Jua_13:1antes de la fiesta...p, sabiendo JesúsG3957
+- Jua_18:28no contaminarse, y...poder comer la pG3957
+- Jua_18:39costumbre de que os suelte uno en la pG3957
+- Jua_19:14era la víspera de la p, y como la horaG3957
+- Jua_19:31por cuanto era la víspera de la p, a finG4521
+- Jua_19:42causa de la preparación de la p de losG2453
+- Hec_12:4sacarle al pueblo después de la pG3957
+- 1Co_5:7p, que es Cristo, ya fue sacrificadaG3957
+- Heb_11:28por fe celebró la p y la aspersión deG3957

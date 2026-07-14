@@ -1,0 +1,288 @@
+---
+tipo: concordancia
+palabra: JUICIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUICIO
+
+- Gén_18:19que guarden...haciendo justicia y jH4941
+- Éxo_6:6con brazo extendido, y con j grandesH8201
+- Éxo_7:4sacaré a mis...de Egipto, con grandes jH8201
+- Éxo_12:12y ejecutaré mis j en todos los diosesH8201
+- Éxo_21:31acorneado a...conforme a este j se haráH4941
+- Éxo_28:15el pectoral del j de obra primorosaH4941
+- Éxo_28:29los nombres de...en el pectoral del jH4941
+- Éxo_28:30y pondrás en el pectoral del j Urim yH4941
+- Éxo_28:30llevará siempre Aarón el j de...IsraelH4941
+- Lev_19:15no harás injusticia en el j...pobreH4941
+- Lev_19:35no hagáis injusticia en j, en medidaH4941
+- Núm_27:21consultará por el j del Urim delanteH4941
+- Núm_33:4había hecho Jehová j contra sus diosesH8201
+- Núm_35:12entre en j delante de la congregaciónH4941
+- Deu_1:17no hagáis distinción de persona en...jH4941
+- Deu_1:17no tendréis temor de...el j es de DiosH4941
+- Deu_4:8¿qué nación...hay que tenga...j justos comoH4941
+- Deu_4:14os enseñase...j, para que los pusieseisH4941
+- Deu_16:18cuales juzgarán al pueblo con justo jH4941
+- Deu_17:8cosa te fuere difícil en el j, entre unaH4941
+- Deu_17:9y ellos te enseñarán la sentencia del jH4941
+- Deu_17:11según el j que te digan, harás; no teH4941
+- Deu_32:41echare mano del j, yo tomaré venganzaH4941
+- Deu_33:10ellos enseñarán tus j a Jacob, y tu leyH4941
+- Jos_20:6quedará...hasta que comparezca en jH4941
+- Jue_4:5los hijos de Israel subían a ella a jH4941
+- Jue_5:10los que presidís en j, y vosotros losH4055
+- 2Sa_15:2y a cualquiera que...venía al rey a jH4941
+- 2Sa_15:6hacía con todos...que venían al rey a jH4941
+- 1Re_3:11demandaste...inteligencia para oír jH4941
+- 1Re_3:28todo Israel oyó aquel j que había dadoH4941
+- 1Re_7:7hizo...el pórtico del j, y lo cubrió deH4941
+- 1Cr_16:12de sus prodigios, y de los j de suH4941
+- 1Cr_16:14es nuestro Dios; sus j están en toda laH4941
+- 2Cr_9:8por rey...para que hagas j y justiciaH4941
+- 2Cr_19:8para el j de Jehová y para las causasH4941
+- 2Cr_22:8haciendo j Jehú contra la casa de AcabH8199
+- 2Cr_24:24de Siria...Así ejecutaron/ contra JoásH8201
+- Esd_10:17terminaron el j de todos aquellos
+- Neh_3:31enfrente de la puerta del j, y hastaH4663
+- Neh_9:13les diste j rectos, leyes verdaderas, yH4941
+- Neh_9:29pecaron contra tus j, los cuales si elH4941
+- Job_9:19habláremos...j, ¿quién me emplazará?[[H4941]]
+- Job_9:32le responda, y vengamos juntamente a jH4941
+- Job_11:10si...a j, ¿quién podrá contrarrestarle?
+- Job_14:3¿sobre éste abres tus...y me traes a jH4941
+- Job_19:7no seré oído; daré voces, y no habrá jH4941
+- Job_19:29espada...para que sepáis que hay un jH1779
+- Job_22:4¿acaso te castiga, o viene a j contigoH4941
+- Job_29:7cuando yo salía a la puerta a j, y en
+- Job_32:17responderé...también yo declararé mi jH1843
+- Job_34:4escojamos para nosotros el j...lo buenoH4941
+- Job_34:17¿gobernará el que aborrece j?[[H4941]]
+- Job_34:23lo justo, para que vaya con Dios a jH4941
+- Job_36:17mas tú has llenado el j del impío, enH1779
+- Job_36:17en vez de sustentar el j y la justiciaH1779
+- Job_37:23y en j y en multitud de justicia noH4941
+- Job_40:8¿invalidarás tú también mi j? ¿Me...a míH4941
+- Sal_1:5no se levantarán los malos en el jH4941
+- Sal_7:6álzate...y despierta en favor mío el jH4941
+- Sal_9:7pero Jehová, ha dispuesto su trono para jH4941
+- Sal_9:16Jehová se ha hecho conocer en el j queH4941
+- Sal_10:5tus j los tiene muy lejos de su vistaH4941
+- Sal_18:22todos sus j estuvieron delante de míH4941
+- Sal_19:9los j de Jehová son verdad, todos justosH4941
+- Sal_25:9encaminará a los humildes por el j, yH4941
+- Sal_33:5ama justicia y j; de la misericordia deH4941
+- Sal_36:6justicia es como...tus j, abismo grandeH4941
+- Sal_48:11se gozarán las hijas de Judá por tus jH4941
+- Sal_51:4reconocido...y tenido por puro en tu jH8199
+- Sal_72:1Dios, da tus j al rey, y tu justicia alH4941
+- Sal_72:2juzgará a tu...y a tus afligidos con jH4941
+- Sal_76:8los cielos hiciste oír j; la tierra tuvoH1779
+- Sal_89:14justicia y j...el cimiento de tu tronoH4941
+- Sal_89:30si dejaren...y no anduvieren en mis jH4941
+- Sal_94:15que el j será vuelto a la justicia, yH4941
+- Sal_97:2justicia y j...el cimiento de tu tronoH4941
+- Sal_97:8las hijas de Judá...se gozaron por tus jH4941
+- Sal_99:4la gloria del rey ama el j; tú confirmasH4941
+- Sal_99:4tú has hecho en Jacob j y justiciaH4941
+- Sal_101:1misericordia y j cantaré...cantaré yoH4941
+- Sal_105:5de sus prodigios y de los j de su bocaH4941
+- Sal_105:7es...Dios; en toda la tierra están sus jH4941
+- Sal_106:3dichosos los que guardan j, los queH4941
+- Sal_106:30entonces se levantó Finees e hizo jH6419
+- Sal_111:7las obras de sus manos son verdad y jH4941
+- Sal_112:5y presta; gobierna sus asuntos con jH4941
+- Sal_119:7alabaré...cuando aprendiere tus justos jH4941
+- Sal_119:13con mis labios he contado todos los jH4941
+- Sal_119:20quebrantada...de desear tus j en todoH4941
+- Sal_119:30verdad; he puesto tus j delante de míH4941
+- Sal_119:39quita de mí...porque buenos son tus jH4941
+- Sal_119:43no quites de...porque en tus j esperoH4941
+- Sal_119:52acordé, oh Jehová, de tus j antiguosH4941
+- Sal_119:62me levanto...alabarte por tus justos jH4941
+- Sal_119:75conozco...que tus j son justos, y queH4941
+- Sal_119:84harás j contra los que me persiguen?[[H4941]]
+- Sal_119:102no me aparté de tus j, porque tú meH4941
+- Sal_119:106juré y...que guardaré tus justos jH4941
+- Sal_119:108ruego, oh Jehová...me enseñes tus jH4941
+- Sal_119:120temor de ti, y de tus j tengo miedoH4941
+- Sal_119:121j y justicia he...no me abandones aH4941
+- Sal_119:137justo eres...Jehová, y rectos tus jH4941
+- Sal_119:149, Sal_119:156vivifícame conforme a tu jH4941
+- Sal_119:160y eterno es todo j de tu justiciaH4941
+- Sal_119:164día te alabo a causa de tus justos jH4941
+- Sal_119:175viva mi alma y te...y tus j me ayudenH4941
+- Sal_122:5allá están las sillas del j, los tronosH4941
+- Sal_143:2no entres en j con tu siervo; porque noH4941
+- Sal_147:19ha manifestado sus...y sus j a IsraelH4941
+- Sal_147:20en cuanto a sus j, no los conocieronH4941
+- Sal_149:9para ejecutar en ellos el j decretadoH4941
+- Pro_1:3para recibir el consejo...j y equidadH4941
+- Pro_2:8que guarda las veredas del j, y preservaH4941
+- Pro_2:9entenderás justicia, j y equidad, y todoH4941
+- Pro_8:14conmigo está el consejo y el buen j; yoH8454
+- Pro_8:20guiaré, por en medio de sendas de jH4941
+- Pro_13:23de pan; mas se pierde por falta de jH4941
+- Pro_16:10del rey; en j no prevaricará su bocaH4941
+- Pro_19:28el testigo perverso se burlará del jH4941
+- Pro_19:29preparados...j para los escarnecedoresH4941
+- Pro_20:8el rey que se sienta en el trono de jH1779
+- Pro_21:3justicia y j es a Jehová más agradableH4941
+- Pro_21:7destruirá...cuanto no quisieron hacer jH4941
+- Pro_21:15alegría es para el justo el hacer jH4941
+- Pro_24:23hacer acepción de...en el j no es buenoH4941
+- Pro_28:5los hombres malos no entienden el j; masH4941
+- Pro_29:4el rey con el j afirma la tierra; masH4941
+- Pro_29:26mas de Jehová viene el j de cada unoH4941
+- Pro_31:8abre tu boca por el mudo en el j deH1779
+- Ecl_3:16en lugar del j, allí impiedad; y enH4941
+- Ecl_8:5el corazón...discierne el tiempo y el jH4941
+- Ecl_8:6para todo lo que quisieres hay tiempo y jH4941
+- Ecl_12:14Dios traerá toda obra a j...sea buena oH4941
+- Isa_1:17buscad el j, restituid al agraviadoH4941
+- Isa_1:27Sion será rescatada con j, y...justiciaH4941
+- Isa_3:14Jehová vendrá a j contra los ancianosH4941
+- Isa_4:4con espíritu de j y con...de devastaciónH4941
+- Isa_5:7esperaba j, y he aquí vileza; justiciaH4941
+- Isa_5:16Jehová de los ejércitos...exaltado en jH4941
+- Isa_9:7confirmándolo en j y en justicia desdeH4941
+- Isa_10:2para apartar del j a los pobres, y paraH1779
+- Isa_16:3haz j; pon tu sombra en medio del díaH6415
+- Isa_26:8también en el camino de tus j, oh JehováH4941
+- Isa_26:9luego que hay j tuyos en la tierra, losH4941
+- Isa_28:6por espíritu de j al que se sienta en jH4941
+- Isa_28:7erraron en la visión, tropezaron en el jH6417
+- Isa_28:17ajustaré el j a cordel, y a nivel laH4941
+- Isa_32:1reinará un...y príncipes presidirán en jH4941
+- Isa_32:7trama...para hablar en j contra el pobreH2254
+- Isa_32:16habitará el j en el desierto, y en elH4941
+- Isa_33:5Jehová...llenó a Sion de j y de justiciaH4941
+- Isa_34:5descenderá sobre Edom en j, y sobre elH4941
+- Isa_40:14¿quién le enseñó el camino del j, o leH4941
+- Isa_40:27escondido de...y de mi Dios pasó mi j?[[H4941]]
+- Isa_41:1entonces hablen; estemos juntamente a jH4941
+- Isa_43:26hazme recordar, entremos en j...habla túH8199
+- Isa_53:8por cárcel y por j fue quitado; y suH4941
+- Isa_54:17lengua que se levante contra ti en jH4941
+- Isa_58:2me piden justos j, y quieren acercarseH4941
+- Jer_1:16proferiré mis j contra los que meH4941
+- Jer_2:35entraré en j contigo, porque dijisteH8199
+- Jer_4:2vive Jehová, en verdad, en j y...justiciaH4941
+- Jer_4:12y ahora yo pronunciaré j contra ellosH4941
+- Jer_5:4no conocen el camino de Jehová, el j deH4941
+- Jer_5:5ellos conocen el camino...el j de su DiosH4941
+- Jer_8:7pero mi pueblo no conoce el j de JehováH4941
+- Jer_9:24yo soy Jehová, que hago...j y justiciaH4941
+- Jer_10:24castígame, oh Jehová, mas con j; noH4941
+- Jer_21:12así dijo Jehová: Haced de mañana j, yH4941
+- Jer_22:3ha dicho...haced j y justicia, y libradH4941
+- Jer_22:15padre, e hizo j y justicia, y entoncesH4941
+- Jer_23:5Rey...y hará j y justicia en la tierraH4941
+- Jer_25:31Jehová tiene j contra las naciones; élH7379
+- Jer_33:15un Renuevo...y hará j y justicia en laH4941
+- Jer_48:21vino j sobre la tierra de la llanuraH4941
+- Jer_48:47de Moab...Hasta aquí es el j de MoabH4941
+- Jer_51:9porque ha llegado hasta el cielo su jH4941
+- Eze_5:8haré j en medio de ti ante los ojos deH4941
+- Eze_5:10haré en ti j, y esparciré a todos losH8201
+- Eze_5:15yo haga en ti j con furor e indignaciónH8201
+- Eze_7:27haré...y con los j de ellos los juzgaréH4941
+- Eze_11:9os entregaré en...haré j entre vosotrosH8201
+- Eze_14:21enviare contra...mis cuatro j terriblesH8201
+- Eze_16:41harán en ti j en presencia de muchasH8201
+- Eze_17:20j con él por su prevaricación con queH8199
+- Eze_18:8e hiciere j verdadero entre hombre yH4941
+- Eze_23:24yo pondré delante de ellos el j, y porH4941
+- Eze_25:11también en Moab haré j, y sabrán queH8201
+- Eze_28:22cuando haga en ella j, y en ella meH8201
+- Eze_28:26haga j en todos los que los despojanH8201
+- Eze_30:14pondré fuego a Zoán, y haré j en TebasH8201
+- Eze_30:19haré, pues, j en Egipto, y sabrán queH8201
+- Eze_39:21las naciones verán mi j que habré hechoH4941
+- Eze_44:24conforme a mis j juzgarán; y mis leyesH4941
+- Eze_45:9haced j y justicia; quitad vuestrasH4941
+- Dan_7:22se dio el j a los santos del AltísimoH1780
+- Ose_2:19te desposaré conmigo en justicia, jH4941
+- Ose_4:11fornicación, vino y mosto quitan el jH3820
+- Ose_5:1para vosotros es el j, pues habéis sidoH4941
+- Ose_5:11Efraín es vejado, quebrantado en jH4941
+- Ose_6:5maté; y tus j serán como luz que saleH4941
+- Ose_10:4el j florecerá como ajenjo en los surcosH4941
+- Ose_12:6guarda misericordia y j, y en tu DiosH4941
+- Joe_3:2allí entraré en j con ellas a causa deH8199
+- Amó_5:7los que convertís en ajenjo el j, y laH4941
+- Amó_5:15el bien, y estableced la justicia en jH4941
+- Amó_5:24pero corra el j como las aguas, y laH4941
+- Amó_6:12habéis...convertido el j en veneno, y elH4941
+- Miq_3:8estoy lleno de poder...de j y de fuerzaH4941
+- Miq_3:9que abomináis el j, y pervertís todo elH4941
+- Hab_1:4la ley...el j no sale según la verdadH4941
+- Hab_1:12oh Jehová, para j lo pusiste; y tú, ohH4941
+- Sof_2:3todos...los que pusisteis por obra su jH4941
+- Sof_3:5Jehová en...de mañana sacará a luz su jH4941
+- Sof_3:15Jehová ha apartado tus j, ha echadoH4941
+- Mal_3:5y vendré a vosotros para j; y seréH4941
+- Mat_5:21fue dicho...matare será culpable de jG2920
+- Mat_5:22se enoje contra...será culpable de j; yG2920
+- Mat_7:2con el j con que juzgáis, seréis juzgadosG2917
+- Mat_10:15; Mat_11:22, Mat_11:24el día del j, será más tolerable el castigoG2920
+- Mat_12:18sobre él, y a los gentiles anunciará jG2920
+- Mat_12:20caña...hasta que saque a victoria el jG2920
+- Mat_12:36de ella darán cuenta en el día del jG2920
+- Mat_12:41los...de Nínive se levantarán en el j conG2920
+- Mat_12:42la reina del Sur se levantará en el jG2920
+- Mar_3:29perdón, sino que es reo de j eternoG2920
+- Mar_5:15ven...sentado, vestido y en su j cabalG2920
+- Mar_6:11en el día del j, será más tolerable elG2920
+- Luc_8:35sentado a...vestido, y en su cabal jG2920
+- Luc_10:14en el j será más tolerable el castigoG2920
+- Luc_11:31la reina del sur se levantará en el jG2920
+- Luc_11:32Nínive se levantarán en el j con estaG2920
+- Jua_5:22nadie juzga, sino que todo el j dioG2920
+- Jua_5:27y también le dio autoridad de hacer jG2920
+- Jua_5:30juzgo; y mi j es justo, porque no buscoG2920
+- Jua_7:24no juzguéis según...juzgad con justo jG2920
+- Jua_8:16si yo juzgo, mi j es verdadero; porqueG2920
+- Jua_9:39para j he venido yo a este mundo; paraG2917
+- Jua_12:31ahora es el j de este mundo; ahora elG2920
+- Jua_16:8convencerá al mundo de pecado...y de jG2920
+- Jua_16:11de j, por cuanto el príncipe de esteG2920
+- Hec_24:25al disertar Pablo...del j venideroG2917
+- Hec_26:6por la esperanza de...soy llamado a jG2919
+- Rom_1:32habiendo entendido el j de Dios, queG1345
+- Rom_2:2sabemos que el j de Dios contra los queG2917
+- Rom_2:3¿y piensas...tú escaparás del j de Dios?[[G2917]]
+- Rom_2:5el día de la ira y...del justo j de DiosG1341
+- Rom_3:19todo el mundo quede bajo el j de DiosG5267
+- Rom_5:16j vino a causa de un solo pecado paraG2917
+- Rom_11:33de Dios! ¡Cuán insondables son sus jG2917
+- 1Co_6:1¿osa...ir a j delante de los injustosG2919
+- 1Co_6:4si...tenéis j sobre cosas de esta vidaG2922
+- 1Co_6:6el hermano con el hermano pleitea en jG2919
+- 1Co_7:40a mi j, más dichosa será si se quedareG1106
+- 1Co_11:29sin discernir...j come y bebe para síG2917
+- 1Co_11:34su casa, para que no os reunáis para jG2917
+- 2Ts_1:5es demostración del justo j de DiosG2920
+- 1Ti_5:24patentes antes que ellos vengan a jG2920
+- Tit_3:11peca y está condenado por su propio jG843
+- Heb_6:2la resurrección de los...y del j eternoG2917
+- Heb_9:27una sola vez, y después de esto el jG2920
+- Heb_10:27sino una horrenda expectación de j, yG2920
+- Stg_2:13j...se hará con aquel que no hiciereG2920
+- Stg_2:13y la misericordia triunfa sobre el jG2920
+- 1Pe_4:17es tiempo de que el j comience porG2917
+- 2Pe_2:4entregó a...para ser reservados al jG2920
+- 2Pe_2:9para ser castigados en el día del jG2920
+- 2Pe_2:11no pronuncian j de maldición contraG2920
+- 2Pe_3:7guardados para el fuego en el día del jG2920
+- 1Jn_4:17tengamos confianza en el día del jG2920
+- Jud_1:6los ha guardado...para el j del gran díaG2920
+- Jud_1:9no se atrevió a proferir j de maldiciónG2920
+- Jud_1:15hacer j contra todos, y dejar convictos aG2920
+- Rev_14:7la hora de su j ha llegado; y adoradG2920
+- Rev_15:4te adorarán...tus j se han manifestadoG1345
+- Rev_16:7Señor...tus j son verdaderos y justosG2920
+- Rev_18:10¡ay, ay de la...en una hora vino tu j![[G2920]]
+- Rev_19:2porque sus j son verdaderos y justosG2920

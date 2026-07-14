@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: TRIGO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TRIGO
+
+- Gén_27:28te dé...y abundancia de t y de mostoH1715
+- Gén_27:37de t y de vino le he provisto; ¿quéH1715
+- Gén_30:14Rubén en tiempo de la siega de los tH2406
+- Gén_41:35y recojan el t bajo la mano de FaraónH1250
+- Gén_41:49recogió José t como arena del marH1250
+- Gén_42:3descendieron los...a comprar t en EgiptoH1250
+- Gén_42:25mandó...que llenaran sus sacos de t, yH1250
+- Gén_42:26y ellos pusieron su t sobre sus asnosH7668
+- Gén_43:2acabaron de comer el t que trajeron deH7668
+- Gén_44:2pondrás mi copa...con el dinero de su tH7668
+- Gén_45:23diez asnos...y diez asnas cargadas de tH1250
+- Éxo_9:32t y el centeno no fueron destrozadosH2406
+- Éxo_29:2panes...las harás de flor de harina de tH2406
+- Éxo_34:22la de las primicias de la siega del tH2406
+- Núm_18:12de aceite, de mosto y de t, todo loH1715
+- Deu_8:8tierra de t y cebada, de vides, higuerasH2406
+- Deu_32:14con lo mejor del t y de la sangre deH2406
+- Jue_6:11su hijo Gedeón estaba sacudiendo el tH2406
+- Jue_15:1que en los días de la siega del t SansónH2406
+- Rut_2:23hasta que se acabó la siega...la del tH2406
+- 1Sa_6:13los de Bet-semes segaban el t en elH2406
+- 1Sa_12:17¿no es ahora la siega del t...clamaréH2406
+- 2Sa_4:6la portera...había estado limpiando tH2406
+- 2Sa_17:28trajeron a David y...t, cebada, harinaH2406
+- 1Re_5:11daba a Hiram 20.000 coros de t paraH2406
+- 2Re_4:42trajo al varón...t nuevo en su espigaH3759
+- 1Cr_21:20vio al ángel...Ornán trillaba el tH2406
+- 1Cr_21:23bueyes...y t para la ofrenda; yo lo doyH2406
+- 2Cr_2:10he dado 20.000 coros de t en granoH2406
+- 2Cr_2:15envíe mi señor...el t y cebada, y aceiteH2406
+- 2Cr_27:5dieron los...de Amón...diez mil coros de tH2406
+- Esd_6:9t, sal, vino y aceite, conforme a loH2591
+- Esd_7:22cien coros de t, cien batos de vino, yH2591
+- Job_5:26gavilla de t que se recoge a su tiempo
+- Job_31:40lugar de t me nazcan abrojos, y espinosH2406
+- Sal_78:24hizo llover...les dio t de los cielosH1715
+- Sal_81:16les sustentaría Dios con lo mejor del tH2406
+- Sal_147:14él...te hará saciar con lo mejor del tH2406
+- Pro_27:22majes al necio en...entre granos de tH7383
+- Cnt_7:2tu vientre como montón de t cercado deH2406
+- Isa_28:25pone el t en hileras, y la cebada enH2406
+- Isa_62:8jamás daré tu t por comida a...enemigosH1715
+- Jer_12:13sembraron t, y segaron espinosH2406
+- Jer_23:28¿qué tiene que ver la paja con el t?[[H1250]]
+- Jer_41:8porque tenemos en el campo tesoros de tH2406
+- Lam_2:12decían...¿Dónde está el t y el vino?[[H1715]]
+- Eze_4:9toma para ti t, cebada, habas, lentejasH2406
+- Eze_16:13comiste flor de harina de t, miel y
+- Eze_27:17con t de Minit y Panag...negociaban enH2406
+- Eze_36:29llamaré al t, y lo multiplicaré, y noH1715
+- Eze_45:13la sexta parte...por cada homer del tH2406
+- Ose_2:8ella no reconoció que yo le daba el tH1715
+- Ose_2:9volveré y tomaré mi t a su tiempo, y miH1715
+- Ose_2:22la tierra responderá al t, al vino y alH1715
+- Ose_7:14para el t y el mosto se congregaronH1715
+- Ose_9:1salario de ramera en todas las eras de t
+- Ose_14:7serán vivificados como t, y floreceránH1715
+- Joe_1:10el t fue destruido, se secó el mostoH1715
+- Joe_1:11gemid, viñeros, por el t y la cebadaH2406
+- Joe_1:17los alfolíes destruidos...se secó el tH1715
+- Joe_2:24las eras se llenarán de t, y los lagaresH1250
+- Amó_5:11que vejáis al pobre y recibís de él...tH1250
+- Amó_8:5¿cuándo pasará el mes, y venderemos el tH1250
+- Amó_8:6dinero...y venderemos los desechos del t?[[H1250]]
+- Hag_1:11y llamé la sequía...sobre el t, sobreH1715
+- Zac_9:17t alegrará a los jóvenes, y el vinoH1715
+- Mat_3:12su era; y recogerá su t en el graneroG4621
+- Mat_13:25su enemigo y sembró cizaña entre el tG4621
+- Mat_13:29que...arranquéis también con ella el tG4621
+- Mat_13:30diré...pero recoged el t en mi graneroG4621
+- Luc_3:17su era, y recogerá el t en su graneroG4621
+- Luc_16:7él dijo: Cien medidas de t. El le dijoG4621
+- Luc_22:31os ha pedido para zarandearos como a tG4621
+- Jua_12:24si el grano de t no cae en la tierraG4621
+- Hec_7:12oyó Jacob que había t en Egipto, envióG4621
+- Hec_27:38aligeraron la nave, echando el t al marG4621
+- 1Co_15:37el grano desnudo, ya sea de t o deG4621
+- Rev_6:6dos libras de t por un denario, y seisG4621
+- Rev_18:13t, bestias, ovejas, caballos y carrosG4621

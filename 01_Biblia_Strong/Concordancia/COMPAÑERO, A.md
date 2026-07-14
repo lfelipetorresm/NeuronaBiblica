@@ -1,0 +1,106 @@
+---
+tipo: concordancia
+palabra: COMPAÑERO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# COMPAÑERO, A
+
+- Gén_3:12la mujer que me diste por c me dioH5978
+- Gén_11:7ninguno entienda el habla de su cH7453
+- Éxo_33:11cara, como habla cualquiera a su cH7453
+- Jue_7:13un hombre estaba contando a su c unH7453
+- Jue_7:14su c respondió y dijo: Esto no es otraH7453
+- Jue_7:22Jehová puso la espada de...contra su cH7453
+- Jue_11:37y lloré mi virginidad, yo y mis cH7464
+- Jue_11:38fue con sus c, y lloró su virginidadH7464
+- Jue_14:11treinta c para que estuviesen con élH4828
+- Jue_14:20y la mujer de Sansón fue dada a su cH4828
+- Jue_15:2la di a tu c. Mas su hermana menor, ¿noH4828
+- Jue_15:6porque le quitó su mujer y la dio a su cH4828
+- Rut_4:7se quitaba el zapato y lo daba a su cH7453
+- 1Sa_14:20la espada de cada uno...contra su cH7453
+- 1Sa_28:17el reino de...lo ha dado a tu c, DavidH7453
+- 1Re_20:35un varón...dijo a su c por palabraH7453
+- 2Re_3:23y cada uno ha dado muerte a su cH7453
+- 2Cr_20:23cual ayudó a la destrucción de su cH7453
+- Esd_4:7escribieron Bislam...los demás c suyosH3674
+- Esd_4:9escribieron Rehum...y los demás c suyosH3675
+- Esd_4:17y a los demás c suyos que...Salud y pazH3675
+- Esd_4:23fue leída delante de Rehum, y...y sus cH3675
+- Esd_5:3Tatnai...Setar-Boznai y sus c...dijeronH3675
+- Esd_5:6sus c los gobernadores...enviaron al reyH3675
+- Esd_6:6y vuestros c los gobernadores que estáisH3675
+- Esd_6:13y sus c, hicieron...según el rey DaríoH3675
+- Job_6:14el atribulado es consolado por su cH7453
+- Job_30:29venido a ser hermano...c de avestrucesH7453
+- Job_35:4responderé razones, y a tus c contigoH7453
+- Job_41:6¿harán de él banquete los c...repartiránH2271
+- Job_42:7mi ira se encendió contra ti y tus dos cH7453
+- Sal_35:14como por mi c como por mi...andabaH7453
+- Sal_38:11mis c se mantienen lejos de mi plagaH7453
+- Sal_45:7ungió...óleo de alegría más que a tus cH2270
+- Sal_45:14vírgenes...c suyas serán traídas aH7464
+- Sal_88:18has alejado de mí al amigo y al cH7453
+- Sal_119:63c soy yo de todos los que te temenH2270
+- Sal_122:8por amor de mis hermanos y...c diré yoH7453
+- Pro_2:17la cual abandona al c de su juventudH441
+- Pro_25:9trata tu causa con tu c, y no descubrasH7453
+- Pro_28:7el que es c de glotones avergüenza a suH7462
+- Pro_28:24que roba...c es del hombre destruidorH2270
+- Ecl_4:10si cayeren, el uno levantará a su cH2270
+- Cnt_1:7errante junto a los rebaños de tus cH2270
+- Cnt_8:13los c escuchan tu voz; házmela oírH2270
+- Isa_1:23tus príncipes...c de ladrones; todosH2270
+- Isa_13:8se asombrará cada cual al mirar a su cH7453
+- Isa_34:14y la cabra salvaje gritará a su cH7453
+- Isa_34:15juntarán...buitres, cada uno con su cH7468
+- Isa_34:16inquirid en el...ninguno faltó con su cH7468
+- Jer_3:20como la esposa infiel abandona a su cH1167
+- Jer_6:21tropiezos...el vecino y su c pereceránH7453
+- Jer_9:4guárdese cada uno de su c, y...hermanoH7453
+- Jer_9:4con falacia, y todo c anda calumniandoH7453
+- Jer_22:8gentes pasarán...dirán cada uno a su cH7453
+- Jer_23:27sus sueños que cada uno cuenta a su cH7453
+- Jer_23:35diréis cada cual a su c, y cada cual aH7453
+- Jer_34:17promulgar cada uno libertad...a su cH7453
+- Jer_36:16se volvió espantado a su c, y dijeronH7453
+- Jer_46:16cada uno cayó sobre su c; y dijeronH7453
+- Eze_37:16para Judá, y...hijos de Israel sus cH2270
+- Eze_37:16y para toda la casa de Israel sus cH2270
+- Eze_37:19y a las tribus de Israel sus c, y losH2270
+- Dan_2:13buscaron a Daniel y...c para matarlosH2269
+- Dan_2:17Daniel...hizo saber lo que había...sus cH2269
+- Dan_2:18fin de que Daniel y sus c no pereciesenH2269
+- Dan_7:20cuerno...parecía más grande que sus cH2273
+- Ose_3:1ama a una mujer amada de su c, aunqueH7453
+- Joe_2:8ninguno estrechará a su c, cada uno iráH251
+- Jon_1:7dijeron...uno a su c: Venid y echemosH7453
+- Zac_3:10cada uno de vosotros convidará a su cH7453
+- Zac_8:10dejé a...hombres cada cual contra su cH7453
+- Zac_11:6entregaré...cada cual en mano de su c yH7453
+- Zac_11:9que cada uno coma la carne de su cH7468
+- Zac_13:7levántate, oh...contra el hombre c míoH5997
+- Zac_14:13trabará cada uno de la mano de su cH7453
+- Zac_14:13levantará su mano contra la...de su cH7453
+- Mal_2:14siendo ella tu c, y la mujer de tuH2278
+- Mal_3:16hablaron cada uno a su c; y JehováH7453
+- Mat_11:16que se sientan...y dan voces a sus cG2083
+- Mar_15:7Barrabás, preso con sus c de motínG4955
+- Luc_5:7hicieron señas a los c que estaban enG3353
+- Luc_5:10Jacobo y Juan, hijos...eran c de SimónG2844
+- Hec_13:13Pablo y sus c arribaron a Perge deG4012
+- Hec_19:29y a Aristarco, macedonios, c de PabloG4989
+- Rom_16:7saludad...Junias...mis c de prisionesG4869
+- 2Co_1:7así como sois c en las afliccionesG2844
+- 2Co_8:19como c de nuestra peregrinación paraG4898
+- 2Co_8:23en cuanto a Tito, es mi c y colaboradorG2844
+- Flp_2:25a Epafrodito, mi...colaborador y c deG4904
+- Flp_4:3ruego también a ti, c fiel, que ayudes aG4805
+- Col_4:10Aristarco, mi c de prisiones, osG4869
+- Flm_1:2y a Arquipo nuestro c de milicia, y aG4961
+- Flm_1:17si me tienes por c, recíbelo como a míG2844
+- Flm_1:23te saludan Epafras, mi c de prisionesG4869
+- Heb_1:9con óleo de alegría más que a sus cG3353
+- Heb_10:33llegasteis a ser c de los que estabanG2844

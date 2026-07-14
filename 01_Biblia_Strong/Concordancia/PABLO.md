@@ -1,0 +1,175 @@
+---
+tipo: concordancia
+palabra: PABLO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PABLO
+
+- Apóstol
+- Hec_13:9Saulo, que también es P, lleno delG3972
+- Hec_13:13P y sus compañeros arribaron a PergeG3972
+- Hec_13:16entonces P, levantándose, hecha señalG3972
+- Hec_13:43muchos de los judíos...siguieron a P yG3972
+- Hec_13:45rebatían lo que P decía, contradiciendoG3972
+- Hec_13:46P y...hablando con denuedo, dijeron: AG3972
+- Hec_13:50pero...levantaron persecución contra PG3972
+- Hec_14:9oyó hablar a P, el cual, fijando en élG3972
+- Hec_14:11la gente, visto lo que P había hechoG3972
+- Hec_14:12y a P, Mercurio, porque éste era el queG3972
+- Hec_14:14cuando lo oyeron...Bernabé y P, rasgaronG3972
+- Hec_14:19apedreado a P, le arrastraron fuera deG3972
+- Hec_15:2como P y Bernabé tuviesen una discusiónG3972
+- Hec_15:2que subiesen P y Bernabé a Jerusalén, yG3972
+- Hec_15:12y oyeron a Bernabé y a P, que contabanG3972
+- Hec_15:22enviarlos a Antioquía con P y BernabéG3972
+- Hec_15:25enviarlos a vosotros con...Bernabé y PG3972
+- Hec_15:35P y Bernabé continuaron en AntioquíaG3972
+- Hec_15:36P dijo a Bernabé: Volvamos a visitarG3972
+- Hec_15:38a P no le parecía bien llevar...al queG3972
+- Hec_15:40y P, escogiendo a Silas, salióG3972
+- Hec_16:3quiso P...éste fuese con él; y tomándoleG3972
+- Hec_16:9se le mostró a P una visión de noche; unG3972
+- Hec_16:14que estuviese atenta a lo que P decíaG3972
+- Hec_16:17siguiendo a P y...daba Voces, diciendoG3972
+- Hec_16:18desagradando a P, éste se volvió y dijoG3972
+- Hec_16:19sus amos...prendieron a P y a Silas, yG3972
+- Hec_16:25medianoche, orando P y Silas, cantabanG3972
+- Hec_16:28mas P clamó a gran voz, diciendo: No teG3972
+- Hec_16:29se postró a los pies de P y de SilasG3972
+- Hec_16:36el carcelero hizo saber...palabras a PG3972
+- Hec_16:37pero P les dijo: Después de azotarnosG3972
+- Hec_17:2y P, como acostumbraba, fue a ellos, yG3972
+- Hec_17:4creyeron, y se juntaron con P y...SilasG3972
+- Hec_17:10enviaron de noche a P y a Silas hastaG3972
+- Hec_17:13era anunciada la palabra de Dios por PG3972
+- Hec_17:14pero...enviaron a P que fuese hacia el marG3972
+- Hec_17:15encargado de conducir a P le llevaronG3972
+- Hec_17:16mientras P los esperaba en Atenas, suG3972
+- Hec_17:22P, puesto en pie en medio del AreópagoG3972
+- Hec_17:33y así P salió de en medio de ellosG3972
+- Hec_18:1cosas, P salió de Atenas y fue a CorintoG3972
+- Hec_18:5P estaba entregado por...a la predicaciónG3972
+- Hec_18:9el Señor dijo a P en visión de...No temasG3972
+- Hec_18:12los judíos se levantaron de...contra PG3972
+- Hec_18:14al comenzar P a hablar, Galión dijo aG3972
+- Hec_18:18P, habiéndose detenido aún muchos díasG3972
+- Hec_19:1P...vino a Éfeso, y hallando a ciertosG3972
+- Hec_19:4dijo P: Juan bautizó con bautismo deG3972
+- Hec_19:6habiéndoles impuesto P las manos, vinoG3972
+- Hec_19:8y entrando P en la sinagoga, habló con
+- Hec_19:9multitud, se apartó P de ellos y separó
+- Hec_19:11y hacía Dios milagros...por mano de PG3972
+- Hec_19:13os conjuro por Jesús, el que predica PG3972
+- Hec_19:15a Jesús conozco, y sé quien es P; peroG3972
+- Hec_19:21P se propuso...ir a Jerusalén, despuésG3972
+- Hec_19:26este P, no solamente en Éfeso, sino enG3972
+- Hec_19:29a Gayo y...macedonios, compañeros de P
+- Hec_19:30queriendo P salir al pueblo, los...no loG3972
+- Hec_20:1llamó P a los discípulos...y salió paraG3972
+- Hec_20:7P les enseñaba, habiendo de salir al díaG3972
+- Hec_20:9cuanto P disertaba largamente, vencidoG3972
+- Hec_20:10entonces descendió P y se echó sobre élG3972
+- Hec_20:13navegamos a Asón para recoger allí a PG3972
+- Hec_20:16P se había propuesto pasar de largo aG3972
+- Hec_20:37echándose al cuello de P, le besabanG3972
+- Hec_21:4a P por el Espíritu, que no subiese aG3972
+- Hec_21:8otro día, saliendo P...fuimos a CesareaG3972
+- Hec_21:11tomó el cinto de P, y atándose los piesG3972
+- Hec_21:13P respondió: ¿Qué hacéis llorando yG3972
+- Hec_21:18P entró con nosotros a ver a JacoboG3972
+- Hec_21:26P tomó consigo a aquellos hombres, yG3972
+- Hec_21:29quien pensaban que P había metido enG3972
+- Hec_21:30y apoderándose de P, le arrastraronG3972
+- Hec_21:32ellos vieron...dejaron de golpear a PG3972
+- Hec_21:37a meter a P en la fortaleza, dijo alG3972
+- Hec_21:39dijo P: Yo de cierto soy hombre judíoG3972
+- Hec_21:40P, estando en pie en las gradas, hizoG3972
+- Hec_22:25P dijo al centurión...es lícito azotarG3972
+- Hec_22:28P dijo: Pero yo lo soy de nacimientoG3972
+- Hec_22:30y sacando a P, le presentó ante ellosG3972
+- Hec_23:1P, mirando fijamente al concilio, dijoG3972
+- Hec_23:3entonces P le dijo: ¡Dios te golpeará aG3972
+- Hec_23:5P dijo: No sabía, hermanos, que era elG3972
+- Hec_23:6P, notando que una parte era de saduceosG3972
+- Hec_23:10temor de que P fuese despedazado porG3972
+- Hec_23:11ten ánimo, P, pues como has testificadoG3972
+- Hec_23:12no...hasta que hubiesen dado muerte a PG3972
+- Hec_23:14nada hasta que hayamos dado muerte a PG3972
+- Hec_23:16mas el hijo de la hermana de P, oyendoG3972
+- Hec_23:16entró en la fortaleza, y dio aviso a PG3972
+- Hec_23:17P, llamando a uno de los centurionesG3972
+- Hec_23:18P me llamó y me rogó que trajese anteG3972
+- Hec_23:20que mañana lleves a P ante el concilioG3972
+- Hec_23:24cabalgaduras en que poniendo a P, leG3972
+- Hec_23:31soldados, tomando a P como se les ordenóG3972
+- Hec_23:33presentaron también a P delante de élG3972
+- Hec_24:1ancianos...ante el gobernador contra PG3972
+- Hec_24:10habiéndole hecho señal...a P para queG3972
+- Hec_24:23mandó al centurión...se custodiase a PG3972
+- Hec_24:24llamó a P, y le oyó acerca de la fe enG3972
+- Hec_24:25al disertar P acerca de la justicia, del
+- Hec_24:26P le diera dinero para que le soltaseG3972
+- Hec_24:27congraciarse con los...dejó preso a PG3972
+- Hec_25:2se presentaron ante él contra P, y leG3972
+- Hec_25:4P estaba custodiado en Cesarea, adondeG3972
+- Hec_25:6sentó en el...y mandó que fuese traído PG3972
+- Hec_25:8alegando P en su defensa: Ni contra la
+- Hec_25:9respondiendo a P dijo: ¿Quieres subir aG3972
+- Hec_25:10P dijo: Ante el tribunal de César estoyG3972
+- Hec_25:14expuso al rey la causa de P, diciendo
+- Hec_25:19ya muerto, al que P afirmaba estar vivoG3972
+- Hec_25:21como P apeló para que se le reservaseG3972
+- Hec_25:23día...por mandato de Festo fue traído PG3972
+- Hec_26:1Agripa dijo a P: Se te permite hablarG3972
+- Hec_26:1P...extendiendo la mano, comenzó así suG3972
+- Hec_26:24Festo a gran voz dijo: Estás loco, PG3972
+- Hec_26:28entonces Agripa dijo a P: Por poco meG3972
+- Hec_26:29P dijo: ¡Quisiera Dios que por poco oG3972
+- Hec_27:1entregaron a P...a un centurión llamadoG3972
+- Hec_27:3tratando humanamente a P, le permitióG3972
+- Hec_27:9siendo ya peligrosa la...P les amonestabaG3972
+- Hec_27:11daba más crédito...que a lo que P decíaG3972
+- Hec_27:21P, como hacía ya mucho que no comíamosG3972
+- Hec_27:24diciendo: P, no temas; es necesario queG3972
+- Hec_27:31P dijo al centurión y a los soldadosG3972
+- Hec_27:33P exhortaba a todos...comiesen, diciendoG3972
+- Hec_27:43queriendo salvar a P, les impidió esteG3972
+- Hec_28:3habiendo recogido P algunas ramas secasG3972
+- Hec_28:8y entró P a verle, y después de...oradoG3972
+- Hec_28:15al verlos, P dio gracias a Dios y cobróG3972
+- Hec_28:16a P se le permitió vivir aparte, con unG3972
+- Hec_28:17P convocó a los principales de...judíosG3972
+- Hec_28:25les dijo P esta palabra: Bien habló elG3972
+- Hec_28:30y P permaneció dos años...en una casaG3972
+- Rom_1:1P, siervo de Jesucristo, llamadoG3972
+- 1Co_1:1P, llamado a...apóstol de JesucristoG3972
+- 1Co_1:12dice: Yo soy de P; y yo de Apolos; y yoG3972
+- 1Co_1:13¿acaso...Fue crucificado P por vosotros?[[G3972]]
+- 1Co_1:13fuisteis bautizados en el nombre de P?[[G3972]]
+- 1Co_3:4diciendo el uno: Yo...soy de P; y el otroG3972
+- 1Co_3:5¿qué, pues, es P, y qué es Apolos?[[G3972]]
+- 1Co_3:22P, sea Apolos, sea Cefas, sea el mundoG3972
+- 1Co_16:21yo, P, os escribo esta salutación deG3972
+- 2Co_1:1P, apóstol de Jesucristo...yG3972
+- 2Co_10:1P os ruego por la mansedumbre y ternuraG3972
+- Gál_1:1P, apóstol (no de hombres ni porG3972
+- Gál_5:2yo P os digo que si os circuncidáis, deG3972
+- Efe_1:1P, apóstol de Jesucristo por...de DiosG3972
+- Efe_3:1por esta causa yo P, prisionero de CristoG3972
+- Flp_1:1P y Timoteo, siervos de Jesucristo, aG3972
+- Col_1:1P, apóstol de Jesucristo por...de DiosG3972
+- Col_1:23del evangelio...yo P fui hecho ministroG3972
+- Col_4:18la salutación de mi propia mano, de PG3972
+- 1Ts_1:1P, Silvano y Timoteo, a la iglesia deG3972
+- 1Ts_2:18ir a vosotros, yo P...una y otra vezG3972
+- 2Ts_1:1P, Silvano y Timoteo, a la iglesiaG3972
+- 2Ts_3:17salutación es de mi propia mano, de PG3972
+- 1Ti_1:1P, apóstol de Jesucristo por mandatoG3972
+- 2Ti_1:1P, apóstol...por la voluntad de DiosG3972
+- Tit_1:1P, siervo de...y apóstol de JesucristoG3972
+- Flm_1:1P, prisionero de Jesucristo...al...TimoteoG3972
+- Flm_1:9P ya anciano, y...prisionero de JesucristoG3972
+- Flm_1:19yo P lo escribo de mi mano, yo lo pagaréG3972
+- 2Pe_3:15nuestro amado hermano P...ha escritoG3972

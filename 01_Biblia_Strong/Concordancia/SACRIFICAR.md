@@ -1,0 +1,123 @@
+---
+tipo: concordancia
+palabra: SACRIFICAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SACRIFICAR
+
+- Éxo_8:26si sacrificáramos la...de los egipciosH2076
+- Éxo_10:25nos darás...holocaustos que sacrifiquemosH2077
+- Éxo_12:21tomaos corderos...sacrificad la pascuaH7819
+- Éxo_13:15por esta causa yo sacrifico para JehováH2076
+- Éxo_20:24sacrificarás sobre él tus holocaustosH2076
+- Éxo_40:29el altar...sacrificó sobre él holocaustoH5927
+- Lev_17:5traigan...los que sacrifican en medioH2077
+- Lev_17:5y sacrifiquen ellos sacrificios de pazH2076
+- Lev_17:7nunca más sacrificarán...a los demoniosH2077
+- Lev_22:29sacrificaréis de manera...sea aceptableH2077
+- Núm_9:12no dejarán del animal sacrificado para
+- Deu_15:21hubiere...defecto...no lo sacrificarásH2076
+- Deu_16:2sacrificarás la pascua a Jehová tu DiosH2076
+- Deu_16:5sacrificar la pascua en cualquiera de lasH2076
+- Deu_16:6sacrificarás la pascua por la tarde a laH2076
+- Deu_27:7sacrificarás ofrendas de paz, y comerásH2076
+- Deu_32:17sacrificaron a los demonios, y no a DiosH2076
+- Deu_33:19allí sacrificarán sacrificios de justiciaH2076
+- Jos_8:31altar...y sacrificaron ofrendas de pazH2076
+- Jos_22:23o para sacrificar holocausto u ofrendaH5927
+- Jue_6:26tomando el segundo toro, sacrifícalo
+- 1Sa_2:15y decía al que sacrificaba: Da carneH2076
+- 1Sa_6:15de Bet-semes sacrificaron holocaustos yH2076
+- 1Sa_7:9Samuel tomó un cordero de...y lo sacrificóH5927
+- 1Sa_7:10Samuel sacrificaba el holocausto, losH5927
+- 1Sa_10:8descenderé yo a...sacrificar ofrendas deH2077
+- 1Sa_11:15y sacrificaron allí ofrendas de pazH2076
+- 1Sa_15:15lo mejor de para sacrificarlas a JehováH2076
+- 2Sa_6:13él sacrificó un buey y un carneroH2076
+- 2Sa_6:17sacrificó David holocaustos y ofrendasH5927
+- 2Sa_24:25y sacrificó holocaustos y ofrendas deH5927
+- 1Re_3:2el pueblo sacrificaba en los lugaresH2076
+- 1Re_3:3solamente sacrificaba y quemaba inciensoH2076
+- 1Re_3:4y sacrificaba...mil holocaustos s SalomónH2076
+- 1Re_3:15y sacrificó holocaustos y...sacrificiosH6213
+- 1Re_8:5sacrificando ovejas y bueyes, que por laH2076
+- 1Re_8:62sacrificaron víctimas delante de JehováH2077
+- 1Re_12:32Jeroboam...y sacrificó sobre un altarH5927
+- 1Re_12:33sacrificó, pues, sobre el altar que élH5927
+- 1Re_13:2sacrificará sobre ti a los sacerdotes deH2076
+- 1Re_22:43el pueblo sacrificaba aún, y quemabaH2076
+- 2Re_3:27lo sacrificó en holocausto sobre elH5927
+- 2Re_5:17tu siervo no sacrificará...a otros diosesH6213
+- 2Re_12:3; 2Re_14:4; 2Re_15:4, 2Re_15:35el pueblo aún sacrificaba y quemaba inciensoH2076
+- 2Re_16:4sacrificó y quemó incienso en los lugaresH2076
+- 2Re_17:32sacerdotes...sacrificaban para ellos enH6213
+- 1Cr_15:26sacrificaron siete novillos y sieteH2076
+- 1Cr_16:40que sacrificasen...holocaustos a JehováH5927
+- 1Cr_21:24ni sacrificaré holocausto que nada meH5927
+- 1Cr_29:21y sacrificaron víctimas a Jehová, yH2076
+- 2Cr_5:6sacrificaron ovejas y bueyes, que porH2076
+- 2Cr_7:4sacrificaron víctimas delante de JehováH2077
+- 2Cr_15:11sacrificaron para Jehová, del botín queH2076
+- 2Cr_24:14sacrificaban holocaustos...en la casa deH5927
+- 2Cr_28:4sacrificó y quemó...en los lugares altosH2076
+- 2Cr_29:7ni sacrificaron holocausto en...al DiosH5927
+- 2Cr_29:27entonces mandó Ezequías sacrificar elH5927
+- 2Cr_30:15sacrificaron la pascua, a los 14 díasH7819
+- 2Cr_30:17sacrificaban la pascua por todos los queH7821
+- 2Cr_30:22de lo sacrificado en la fiesta solemneH2077
+- 2Cr_33:16sacrificó sobre él sacrificios...de pazH2076
+- 2Cr_33:17el pueblo aún sacrificaba en los...altosH2076
+- 2Cr_35:1sacrificaron la pascua a los 14 días delH7819
+- 2Cr_35:6sacrificad luego la pascua; y después deH7819
+- 2Cr_35:11sacrificaron la pascua; y esparcían laH7811
+- 2Cr_35:16para sacrificar los holocaustos sobreH5927
+- Esd_6:20sacrificaron la pascua por todos losH7819
+- Neh_12:43sacrificaron...día numerosas víctimasH2076
+- Sal_27:6y yo sacrificaré en su tabernáculoH2076
+- Sal_50:14sacrifica a Dios alabanza, y paga tusH2076
+- Sal_50:23el que sacrifica alabanza me honraráH2076
+- Sal_54:6sacrificaré a ti; alabaré tu nombre, ohH2076
+- Sal_106:37sacrificaron sus hijos y sus hijas aH2076
+- Ecl_9:2al que sacrifica, y al que no s; comoH2076
+- Isa_57:5que sacrificáis los hijos en los vallesH7819
+- Isa_65:3ira, sacrificando en huertos, y quemandoH2076
+- Isa_66:3el que sacrifica buey es como si mataseH5927
+- Isa_66:3el que sacrifica oveja, como si...perroH2076
+- Jer_48:35quien sacrifique sobre los lugaresH5927
+- Eze_16:20tus hijos...los sacrificaste a ellasH2076
+- Eze_20:28allí sacrificaron sus víctimas, y allíH2076
+- Eze_23:39habiendo sacrificado sus hijos a susH7819
+- Eze_39:17sacrifico...sacrificio grande sobre losH2076
+- Eze_39:19víctimas que para vosotros sacrifiquéH2076
+- Eze_43:25sacrificarán un macho cabrío cada díaH6213
+- Eze_43:25sacrificarán el becerro de la vacada yH6213
+- Eze_43:27sacerdotes sacrificarán sobre el altarH6213
+- Eze_45:22el príncipe sacrificará por sí mismo yH6213
+- Eze_46:13un cordero...cada mañana lo sacrificarásH6213
+- Ose_4:13las cimas de los montes sacrificaronH2076
+- Ose_4:14se van...y con malas mujeres sacrificanH2076
+- Ose_8:13en los sacrificios...sacrificaron carneH2076
+- Ose_11:2los baales sacrificaban, y a los ídolosH2076
+- Ose_12:11en Gilgal sacrificaron bueyes, y susH2076
+- Ose_13:2dicen a los hombres que sacrifican, queH2076
+- Zac_14:21todos los que sacrificaren vendránH2076
+- Mal_1:14el que...sacrifica a Jehová lo dañadoH2076
+- Mal_2:3el estiércol de...animales sacrificados
+- Mar_14:12cuando sacrificaban el cordero de laG2380
+- Luc_22:7era necesario sacrificar el cordero deG2380
+- Hec_15:29abstengáis de lo sacrificado a losG1494
+- Hec_21:25que se abstengan de lo sacrificado a losG1494
+- 1Co_5:7nuestra pascua...ya fue sacrificada porG2380
+- 1Co_8:1en cuanto a lo sacrificado a los ídolosG1494
+- 1Co_8:4las viandas que se sacrifican a los ídolosG1494
+- 1Co_8:7comen como sacrificado a ídolos, y suG1494
+- 1Co_8:10a comer de lo sacrificado a los ídolos?[[G1494]]
+- 1Co_10:19o que sea algo lo que se sacrifica a losG1494
+- 1Co_10:20lo que los gentiles sacrifican, a losG2380
+- 1Co_10:20gentiles...a los demonios lo sacrificanG2380
+- 1Co_10:28esto fue sacrificado a los ídolos; noG1494
+- 2Ti_4:6yo ya estoy para ser sacrificado, yG4689
+- Rev_2:14a comer de cosas sacrificadas a losG1494
+- Rev_2:20a comer cosas sacrificadas a los ídolosG1494

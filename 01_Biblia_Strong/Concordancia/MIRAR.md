@@ -1,0 +1,565 @@
+---
+tipo: concordancia
+palabra: MIRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MIRAR
+
+- Gén_4:4miró Jehová con agrado a Abel y a suH8159
+- Gén_4:5no miró con agrado a Caín y a su ofrendaH8159
+- Gén_6:12y miró Dios la tierra, y he aquí queH7200
+- Gén_8:13quitó Noé la cubierta del arca, y miróH7200
+- Gén_13:14alza ahora tus ojos, y mira desde elH7200
+- Gén_15:3Abram: Mira que no me has dado prole, yH2005
+- Gén_15:5dijo: Mira ahora los cielos, y cuentaH5027
+- Gén_16:4Agar...miraba con desprecio a su señoraH5869
+- Gén_16:5me mira con desprecio; juzgue JehováH5869
+- Gén_18:2alzó sus ojos y miró, y he aquí tresH7200
+- Gén_18:16miraron hacia Sodoma; y Abraham ibaH8259
+- Gén_19:17escapa por tu vida; no mires tras tiH5027
+- Gén_19:26la mujer de Lot miró atrás, a espaldasH5027
+- Gén_19:28miró hacia Sodoma...aquella llanura mH8259
+- Gén_20:16mira que él te es como un velo para losH2029
+- Gén_22:13alzó Abraham sus ojos y miró, y he aquíH7200
+- Gén_24:63miró, y he aquí los camellos...veníanH7200
+- Gén_26:8mirando por una ventana, vio a Isaac queH8259
+- Gén_27:27mira, el olor de mi hijo, como el olorH7200
+- Gén_29:2miró, y vio un pozo en el campo; y heH7200
+- Gén_29:32dijo: Ha mirado Jehová mi aflicciónH7200
+- Gén_30:34dijo...Labán: Mira, sea como tú dicesH2005
+- Gén_31:2miraba...Jacob el semblante de Labán, yH7200
+- Gén_31:50mira, Dios es testigo entre nosotrosH7200
+- Gén_33:1alzando Jacob sus ojos, miró, y...EsaúH7200
+- Gén_37:14vé...mira cómo están tus hermanos yH2009
+- Gén_37:25ojos miraron, y he aquí una compañía deH7200
+- Gén_38:25mira ahora de quién son estas cosas, elH5234
+- Gén_39:14mirad, nos ha traído un hebreo para queH7200
+- Gén_40:6los miró, y he aquí que estaban tristesH7200
+- Gén_42:1dijo a sus...¿Por qué os estáis mirando?[[H7200]]
+- Gén_43:33estaban...atónitos mirándose el uno al
+- Éxo_2:12miró a todas partes, y viendo que noH6437
+- Éxo_2:25miró Dios a los hijos de Israel, y losH7200
+- Éxo_3:2y él miró, y vio que la zarza ardía enH7200
+- Éxo_3:6Moisés cubrió su...miedo de mirar a DiosH5027
+- Éxo_4:21mira que hagas delante de Faraón todasH7200
+- Éxo_5:21mire Jehová sobre vosotros, y juzgueH7200
+- Éxo_7:1Moisés: Mira, yo te he constituido diosH7200
+- Éxo_10:10mirad...el mal está delante de vosotros![[H7200]]
+- Éxo_14:24Jehová miró el campamento de...egipciosH8259
+- Éxo_16:10miraron hacia el desierto...la gloria deH6437
+- Éxo_16:29mirad...Jehová os dio el día de reposoH7200
+- Éxo_25:20mirando al propiciatorio los rostros
+- Éxo_25:40mira y hazlos conforme al modelo queH7200
+- Éxo_31:2mira...he llamado por nombre a BezaleelH7200
+- Éxo_33:8miraban en pos de Moisés, hasta que élH6437
+- Éxo_33:12mira...me dices a mí: Saca este puebloH7200
+- Éxo_33:13y mira que esta gente es pueblo tuyoH7200
+- Éxo_34:30y Aarón y...de Israel miraron a MoisésH7200
+- Éxo_34:35al mirar los hijos de Israel el rostroH7200
+- Éxo_35:30mirad, Jehová ha nombrado a BezaleelH7200
+- Éxo_37:9rostros...miraban hacia el propiciatorio
+- Lev_13:3, Lev_13:30, Lev_13:32el sacerdote mirará la llagaH7200
+- Lev_13:5el sacerdote lo mirará; y si la HagaH7200
+- Lev_13:10éste lo mirará, y si apareciere tumorH7200
+- Lev_13:15y el sacerdote mirará la carne viva, yH7200
+- Lev_13:17el sacerdote mirará, y si la llaga seH7200
+- Lev_13:20y el sacerdote mirará; y si pareciereH7200
+- Lev_13:25el sacerdote la mirará; y si el pelo seH7200
+- Lev_13:26el sacerdote la mirare, y no apareciereH7200
+- Lev_13:31el sacerdote hubiere mirado la llaga deH7200
+- Lev_13:34mirará el sacerdote la tiña; y si laH7200
+- Lev_13:36el sacerdote la mirará; y si la tiñaH7200
+- Lev_13:39el sacerdote mirará, y si en la piel deH7200
+- Lev_13:43el sacerdote lo mirará, y si pareciereH7200
+- Lev_13:50sacerdote mirará la plaga, y encerraráH7200
+- Lev_13:51y al séptimo día mirará la plaga; y siH7200
+- Lev_13:53si el sacerdote mirare, y no pareciereH7200
+- Lev_13:55sacerdote mirará después que la plagaH7200
+- Lev_14:36casa antes que entre a mirar la plagaH7200
+- Lev_27:33no mirará si es bueno o malo, ni loH1239
+- Núm_12:10miró Aarón a María...estaba leprosaH6437
+- Núm_15:39y no miréis en pos de vuestro corazónH7200
+- Núm_16:15dijo a Jehová: No mires a su ofrendaH6437
+- Núm_16:42miraron...el tabernáculo de reunión, yH6437
+- Núm_21:8fuere mordido y mirare a ella, viviráH7200
+- Núm_21:9mordía...miraba a la serpiente...y vivíaH5027
+- Núm_21:20la cumbre...que mira hacia el desiertoH8259
+- Núm_23:9y desde los collados lo miraré; he aquíH7200
+- Núm_23:28a la cumbre de Peor, que mira hacia elH8259
+- Núm_24:17lo veré, mas...miraré, mas no de cercaH7200
+- Deu_1:8mirad, yo os he entregado la tierraH7200
+- Deu_1:21mira, Jehová...te ha entregado la tierraH7200
+- Deu_3:27y mira con tus propios ojos...no pasarásH7200
+- Deu_4:5mirad...he enseñado estatutos y decretosH7200
+- Deu_5:32mirad...que hagáis como Jehová...Dios osH8104
+- Deu_9:16y miré, y he aquí habíais pecado contraH7200
+- Deu_9:27no mires a la dureza de este pueblo, niH6437
+- Deu_15:9año...y mires con malos ojos a tu hermano
+- Deu_26:15mira desde tu morada santa, desde elH8259
+- Deu_28:54mirará con malos ojos a su hermano, y
+- Deu_28:56mirará con malos ojos al marido de su
+- Deu_30:15mira, yo he puesto delante de ti hoy laH7200
+- Deu_32:49sube...y mira la tierra de Canaán, queH7200
+- Jos_1:9mira que te mando que te esfuerces y
+- Jos_6:2dijo...Mira, yo he entregado en tu mano aH7200
+- Jos_8:1mira, yo he entregado en tu mano al reyH7200
+- Jos_8:8conforme a...mirad que os lo he mandadoH7200
+- Jos_8:20al mirar...el humo de la ciudad subía alH6437
+- Jos_15:2desde la bahía que mira hacia el surH6437
+- Jos_15:7y al norte mira sobre Gilgal, que estáH6437
+- Jos_22:28mirad el símil del altar de Jehová, elH7200
+- Jue_6:14y mirándole Jehová, le dijo: Vé conH6437
+- Jue_7:17miradme a mí, y haced como hago yo; heH7200
+- Jue_9:43miró...el pueblo que salía de la ciudadH7200
+- Jue_13:10mira...se me ha aparecido aquel varónH2009
+- Jue_16:27estaban mirando el escarnio de SansónH7200
+- Jue_18:14mirad, por tanto...que habéis de hacerH6258
+- Jue_20:40los de Benjamín miraron hacia atrás; yH6437
+- Rut_2:9mira...el campo que sieguen, y síguelasH5869
+- 1Sa_1:11si te dignares mirar a la aflicciónH7200
+- 1Sa_6:19habían mirado dentro del arca de JehováH7200
+- 1Sa_9:16yo he mirado a mi pueblo, por cuanto suH7200
+- 1Sa_12:16mirad esta gran cosa que Jehová haráH7200
+- 1Sa_13:18la región que mira al valle de ZeboimH8259
+- 1Sa_16:7no mires a su parecer, ni a lo grande deH5027
+- 1Sa_16:7Jehová no mira lo que m el hombre; puesH7200
+- 1Sa_16:7el hombre mira...pero Jehová m el corazónH7200
+- 1Sa_17:18mira si tus hermanos están buenos, yH6485
+- 1Sa_17:42el filisteo miró y vio a David, le tuvoH5027
+- 1Sa_18:9día Saúl no miró con buenos ojos a DavidH5770
+- 1Sa_24:8Saúl miró...David inclinó su rostro aH5027
+- 1Sa_24:9dicen: Mira que David procura tu mal?[[H2009]]
+- 1Sa_24:11y mira, padre mío, m la orilla de tuH7200
+- 1Sa_25:35sube en paz...mira que he oído tu vozH7200
+- 1Sa_26:5miró David el lugar donde dormían SaúlH7200
+- 1Sa_26:16mira...dónde está la lanza del rey, yH7200
+- 2Sa_1:7mirando él hacia atrás, me vio y meH6437
+- 2Sa_2:20miró atrás Abner, y dijo: ¿No eres túH6437
+- 2Sa_6:16Mical...miró desde una ventana, y vio alH8259
+- 2Sa_7:2mira ahora, yo habito en casa de cedroH7200
+- 2Sa_9:8para que mires a un perro muerto como yoH6437
+- 2Sa_13:28que miréis cuando el corazón de AmnónH7200
+- 2Sa_13:34miró, y he aquí mucha gente que veníaH7200
+- 2Sa_14:30mirad, el campo de Joab está junto alH7200
+- 2Sa_15:3mira, tus palabras son buenas y justasH7200
+- 2Sa_15:28mirad, yo me detendré en los vados delH7200
+- 2Sa_16:12quizá mirará Jehová mi aflicción, y meH7200
+- 2Sa_18:12mirad...ninguno toque al joven AbsalónH8104
+- 2Sa_18:24y...miró, y vio a uno que corría soloH7200
+- 2Sa_24:13piensa...y mira qué responderé al que meH7200
+- 2Sa_24:20Arauna miró, y vio al rey y...siervosH8259
+- 1Re_7:25tres miraban al norte, tres m alH6437
+- 1Re_7:25tres miraban al sur, y tres m al orienteH6437
+- 1Re_17:23y le dijo Elías: Mira, tu hijo viveH7200
+- 1Re_18:43mira hacia el mar. Y él subió, y miróH5027
+- 1Re_19:6miró, y he aquí a su cabecera una tortaH5027
+- 1Re_20:22considera y mira lo que hagas; porqueH7200
+- 2Re_2:24mirando él atrás...vio, y los maldijoH7200
+- 2Re_3:14no tuviese respeto...no te mirara a tiH5027
+- 2Re_6:9mira que no pases por tal lugar, porqueH8104
+- 2Re_6:13mirad dónde está, para que yo envíe aH7200
+- 2Re_6:17y miró...el monte estaba lleno de genteH7200
+- 2Re_6:20y miraron, y se hallaban en...de SamariaH7200
+- 2Re_6:32mirad...y cuando viniere el mensajeroH7200
+- 2Re_8:11y el varón de Dios le miró fijamenteH5975
+- 2Re_10:23mirad y...no haya aquí entre vosotrosH7200
+- 2Re_11:14cuando miró...el rey estaba junto a laH7200
+- 2Re_13:4miró la aflicción de Israel, pues elH7200
+- 2Re_13:23y los miró, a causa de su pacto conH6437
+- 2Re_14:26Jehová miró la...aflicción de IsraelH7200
+- 2Re_19:16oye; abre, oh Jehová, tus ojos, y miraH7200
+- 1Cr_15:29Mical...mirando por una ventana, vioH8259
+- 1Cr_17:17has mirado como a un hombre excelenteH7200
+- 1Cr_21:12mira, pues, qué responderé al que meH7200
+- 1Cr_21:15miró Jehová y se arrepintió de aquelH7200
+- 1Cr_21:21miró Ornán, y vio a David...se postróH5027
+- 1Cr_28:10mira...que Jehová te ha elegido paraH7200
+- 2Cr_4:4doce bueyes, tres...miraban al norteH6437
+- 2Cr_6:19mirarás a la oración de tu siervo, y aH8085
+- 2Cr_10:16¡David, mira ahora por tu casa! Así seH7200
+- 2Cr_13:14miró Judá, he aquí que tenía batallaH6437
+- 2Cr_19:6dijo a los jueces: Mirad lo que hacéisH7200
+- 2Cr_19:7mirad lo que hacéis, porque con JehováH8104
+- 2Cr_20:24miraron hacia la multitud, y he aquíH6437
+- 2Cr_23:13mirando, vio al rey que estaba juntoH7200
+- 2Cr_26:20le miró el sumo sacerdote Azarías, yH6437
+- 2Cr_33:6miraba en agúeros, era...adivinacionesH6049
+- Esd_4:22y mirad que no seáis negligentes enH2095
+- Neh_4:14después miré...y dije a los nobles yH7200
+- Neh_9:9miraste la aflicción de nuestros padresH7200
+- Job_6:19miraron los caminantes de Temán, losH5027
+- Job_6:28miradme, y ved si digo mentira delanteH6437
+- Job_11:18mirarás alrededor, y dormirás seguroH2658
+- Job_21:5miradme, y espantaos, y poned la manoH6437
+- Job_22:12mira lo encumbrado de las estrellasH7200
+- Job_28:24él mira hasta los fines de la tierraH5027
+- Job_31:1¿cómo...había yo de mirar a una virgen?[[H995]]
+- Job_31:26si he mirado al sol cuando resplandecíaH7200
+- Job_33:27él mira sobre los hombres; y al queH7789
+- Job_34:29escondiere el rostro, ¿quién lo mirará?[[H7789]]
+- Job_35:5mira a los cielos, y ve, y considera queH5027
+- Job_35:13la vanidad, ni la mirará el OmnipotenteH7789
+- Job_36:25la ven; la mira el hombre de lejosH2372
+- Job_37:21mas ahora ya no se puede mirar la luzH7200
+- Job_39:1¿o miraste tú las ciervas cuando estánH8104
+- Job_40:11tu ira; mira a todo altivo, y abáteloH7200
+- Job_40:12mira a todo soberbio, y humíllalo, yH7200
+- Sal_9:13mira mi aflicción...a causa de los queH7200
+- Sal_10:14miras el trabajo y la vejación, paraH7200
+- Sal_11:7justo...el hombre recto mirará su rostroH2372
+- Sal_13:3mira, respóndeme, oh Jehová Dios míoH5027
+- Sal_14:2Jehová miró desde los cielos sobre losH8259
+- Sal_22:17entre tanto...me miran y me observanH5027
+- Sal_25:16mírame, y ten misericordia de mí...soloH6437
+- Sal_25:18mira mi aflicción y mi trabajo, yH7200
+- Sal_25:19mira mis enemigos...se han multiplicadoH7200
+- Sal_33:13desde los cielos miró Jehová; vio aH5027
+- Sal_33:14miró sobre todos los moradores de laH7688
+- Sal_34:5los que miraron a él fueron alumbradosH5027
+- Sal_37:37considera al íntegro, y mira al justoH7200
+- Sal_40:4no mira a los soberbios, ni a los queH6437
+- Sal_45:10oye, hija, y mira, e inclina tu oídoH7200
+- Sal_48:13mirad sus palacios...que lo contéis aH6448
+- Sal_53:2Dios desde los cielos miró sobre losH8259
+- Sal_56:6miran atentamente mis pasos...acechanH8104
+- Sal_59:4despierta para...a mi encuentro, y miraH7200
+- Sal_63:2así como te he mirado en el santuarioH2372
+- Sal_66:18si...hubiese yo mirado a la iniquidadH7200
+- Sal_69:16mírame conforme a la multitud de tusH6437
+- Sal_74:20mira al pacto, porque los lugaresH5027
+- Sal_80:14mira desde el cielo, y considera, yH5027
+- Sal_84:9mira, oh Dios, escudo nuestro, y pon losH5027
+- Sal_85:11y la justicia mirará desde los cielosH8259
+- Sal_86:16mírame, y ten misericordia de mí; daH6437
+- Sal_91:8ciertamente con...ojos mirarás y verásH5027
+- Sal_92:11mirarán mis ojos sobre mis enemigosH5027
+- Sal_102:19miró desde lo alto de su santuarioH8259
+- Sal_102:19miró desde los cielos a la tierraH8259
+- Sal_104:32él mira a la tierra, y ella tiemblaH5027
+- Sal_106:44él miraba cuando estaban en angustiaH7200
+- Sal_109:25me miraban, y burlándose meneaban suH7200
+- Sal_113:6que se humilla a mirar en el cielo y enH7200
+- Sal_119:18abre mis ojos, y miraré...de tu leyH5027
+- Sal_119:132mírame, y ten misericordia de míH6437
+- Sal_119:153mira mi aflicción, y líbrame, porqueH7200
+- Sal_119:159mira, oh, que amo tus mandamientosH7200
+- Sal_123:2como los ojos de...miran a la mano de
+- Sal_123:2así nuestros ojos miran a Jehová...Dios
+- Sal_130:3JAH, si mirares a los pecados, ¿quiénH8104
+- Sal_133:1¡mirad cuán bueno y cuán delicioso esH2009
+- Sal_134:1mirad, bendecid a Jehová, vosotros todosH2009
+- Sal_138:6atiende...mas al altivo mira de lejosH7200
+- Sal_141:8ti, oh Jehová, Señor, miran mis ojos
+- Sal_142:4mira a mi diestra y observa, pues noH5027
+- Pro_4:25tus ojos miren lo recto, y diríjanseH5027
+- Pro_6:6la hormiga...mira sus caminos, y sé sabioH7200
+- Pro_7:6porque mirando yo por la ventana de miH8259
+- Pro_14:15mas el avisado mira bien sus pasosH995
+- Pro_15:3ojos...mirando a los malos y a los buenosH6822
+- Pro_20:8el rey que...con su mirar disipa todo malH5869
+- Pro_23:26hijo...y miren tus ojos por mis caminosH5341
+- Pro_23:31no mires al vino cuando rojea, cuandoH7200
+- Pro_23:33tus ojos mirarán cosas extrañas, y tuH7200
+- Pro_24:12que mira por tu alma, él lo conoceráH2005
+- Pro_24:18sea que Jehová lo mire, y le desagradeH7200
+- Pro_24:32miré, y lo puse en mi corazón; lo viH7200
+- Pro_25:7del príncipe a quien han mirado tus ojosH7200
+- Pro_27:18y el que mira por los intereses de suH8104
+- Pro_27:23sé...y mira con cuidado por tus rebañosH7896
+- Ecl_1:14miré...obras que se hacen debajo delH7200
+- Ecl_2:11miré yo...las obras que habían hecho misH6437
+- Ecl_2:12volví yo a mirar para ver la sabiduríaH7200
+- Ecl_7:13mira la obra de Dios; porque ¿quiénH7200
+- Ecl_11:4y el que mira a las nubes, no segaráH8104
+- Ecl_12:3se oscurecerán los que miran por lasH7200
+- Cnt_1:6que soy morena, porque el sol me miróH7805
+- Cnt_2:9mirando por las ventanas, atisbando porH7688
+- Cnt_4:8mira desde la cumbre de Amana, desde laH7789
+- Cnt_6:13oh sulamita...vuélvete, y te miraremosH2372
+- Cnt_7:4como la torre...que mira hacia DamascoH6822
+- Isa_5:12y vino, y no miran la obra de JehováH5027
+- Isa_5:30mirará...la tierra, y he aquí tinieblasH5027
+- Isa_8:22y mirarán a la tierra, y...tribulaciónH5027
+- Isa_13:8se asombrará cada cual al mirar a su
+- Isa_13:14cada cual mirará hacia su pueblo...huiráH6437
+- Isa_17:7aquel día mirará el hombre a su HacedorH8159
+- Isa_17:8no mirará a los altares que hicieron susH8159
+- Isa_17:8ni mirará a lo que hicieron sus dedosH7200
+- Isa_18:3se levante bandera en los montes, miradH7200
+- Isa_18:4y los miraré desde mi morada, como solH5027
+- Isa_20:6mirad qué tal fue nuestra esperanza, aH2009
+- Isa_21:7sobre camellos; y miró más atentamenteH7200
+- Isa_22:8miraste en aquel día hacia la casa deH5027
+- Isa_22:11ni mirasteis de lejos al que lo labróH5027
+- Isa_23:13mira la tierra de los caldeos. EsteH2005
+- Isa_26:10y no mirará a la majestad de JehováH7200
+- Isa_28:4la cual, apenas la ve el que la mira, seH7200
+- Isa_31:1no miran al Santo de Israel, ni buscanH8159
+- Isa_33:20mira a Sion, ciudad de nuestras fiestasH2372
+- Isa_36:18mirad...no os engañe Ezequías diciendo
+- Isa_37:17abre, oh Jehová, tus ojos, y mira; yH7200
+- Isa_40:26mirad quién creó estas cosas; él sacaH7200
+- Isa_41:28miré, y no había ninguno; y preguntéH7200
+- Isa_42:18oíd, y vosotros, ciegos, mirad para verH5027
+- Isa_45:22mirad a mí, y sed salvos, todos losH6437
+- Isa_49:18alza tus ojos alrededor, y mira: todosH7200
+- Isa_51:1mirad a la piedra de donde...cortados, yH5027
+- Isa_51:2mirad a Abraham vuestro padre, y a SaraH5027
+- Isa_51:6alzad...ojos, y mirad abajo a la tierraH5027
+- Isa_60:4alza tus ojos alrededor y mira, todosH7200
+- Isa_63:5miré, y no había quien ayudara, y meH5027
+- Isa_63:15mira desde el cielo, y contempla desdeH5027
+- Isa_64:9he aquí, mira ahora, pueblo tuyo somosH5027
+- Isa_66:2miraré a aquel que es pobre y humildeH5027
+- Jer_1:10mira...te he puesto en este día sobreH7200
+- Jer_2:10pasad a la costas de Quitim y miradH7200
+- Jer_2:23mira tu proceder en el valle, conoce loH7200
+- Jer_4:23miré a la tierra, y he aquí que estabaH7200
+- Jer_4:24miré a los montes...temblaban, y todosH7200
+- Jer_4:25miré, y no había hombre, y todas lasH7200
+- Jer_4:26miré, y...el campo fértil era un desiertoH7200
+- Jer_5:1recorred las calles de Jerusalén, y miradH7200
+- Jer_5:3Jehová, ¿no miran tus ojos a la verdad?
+- Jer_6:16y mirad, y preguntad por las sendasH7200
+- Jer_18:19oh Jehová, mira por mí, y oye la vozH7181
+- Jer_20:10todos mis amigos miraban si claudicaríaH8104
+- Jer_24:5así miraré a los transportados de JudáH5234
+- Jer_30:6inquirid...y mirad si el varón da a luzH7200
+- Jer_40:4mira, toda la tierra está delante deH7760
+- Jer_46:5valientes...huyeron sin volver a mirarH6437
+- Jer_48:19párate...y mira, oh moradora de AroerH6822
+- Lam_1:7la miraron los enemigos, y se burlaronH7200
+- Lam_1:9mira, oh Jehová, mi aflicción, porque elH7200
+- Lam_1:11mira, oh Jehová, y ve que estoy abatidaH7200
+- Lam_1:12mirad, y ved si hay dolor como mi dolorH5027
+- Lam_1:20mira, oh Jehová, estoy atribulada, misH7200
+- Lam_2:20mira, oh Jehová, y considera a quién hasH7200
+- Lam_3:50que Jehová mire y vea desde los cielosH8259
+- Lam_3:63su sentarse y su levantarse mira; yo soyH5027
+- Lam_4:16ira de...los apartó, no los mirará másH5027
+- Lam_5:1acuérdate...mira, y ve nuestro oprobioH7200
+- Eze_1:4y miré, y...venía del norte un vientoH7200
+- Eze_1:15mientras yo miraba los seres vivientesH7200
+- Eze_2:9miré, y he aquí una mano extendida haciaH7200
+- Eze_4:17se miren unos a otros con espanto, y se
+- Eze_8:2miré, y he aquí una figura que parecía deH7200
+- Eze_8:3la puerta de adentro que mira hacia elH6437
+- Eze_8:7me llevó a la entrada del atrio, y miréH7200
+- Eze_8:10entré...y miré; y he aquí toda forma deH7200
+- Eze_9:2puerta de arriba que mira hacia el norteH2009
+- Eze_10:1miré...en la expansión que había sobreH7200
+- Eze_10:9miré, y he aquí cuatro ruedas junto aH7200
+- Eze_11:1la puerta oriental...la cual mira haciaH6437
+- Eze_12:6y cubrirás tu rostro, y no mirarás laH7200
+- Eze_16:8y te miré, y he aquí que tu tiempo eraH7200
+- Eze_17:6ramas miraban al águila, y sus raícesH6437
+- Eze_18:28miró y se apartó de...sus transgresionesH7200
+- Eze_20:28miraron a todo collado alto y a todoH7200
+- Eze_21:21consultó a sus ídolos, miró el hígadoH7200
+- Eze_28:17reyes te pondré para que miren en tiH7200
+- Eze_28:18puse...a los ojos de...los que te miranH7200
+- Eze_29:16recordar el pecado de mirar en pos deH6437
+- Eze_37:8y miré, y he aquí tendones sobre ellosH7200
+- Eze_40:4mira con tus ojos, y oye con tus oídosH7200
+- Eze_40:6después vino a la puerta que mira haciaH6440
+- Eze_40:44cámaras...cuales miraban hacia el norteH6440
+- Eze_40:44del oriente que miraba hacia el norteH6440
+- Eze_40:45esta cámara que mira hacia el sur es deH6440
+- Eze_40:46y la cámara que mira hacía el norte esH6440
+- Eze_41:8y miré la altura de la casa alrededorH7200
+- Eze_42:15camino de la puerta que miraba haciaH6440
+- Eze_43:1a la puerta que mira hacia el orienteH6437
+- Eze_44:1puerta...la cual mira hacia el orienteH6437
+- Eze_44:4y miré, y he aquí la gloria de JehováH7200
+- Eze_44:5mira con tus ojos, y oye con tus oídosH7200
+- Eze_46:1puerta del atrio...que mira al orienteH6437
+- Eze_46:12abrirán la puerta que mira al orienteH6437
+- Eze_46:19cámaras...las cuales miraban al norteH6437
+- Eze_47:2camino de la que mira al oriente; y viH6437
+- Dan_2:34estabas mirando, hasta que una piedraH2370
+- Dan_3:27se juntaron...para mirar a estos varonesH2370
+- Dan_7:2dijo: Miraba yo en mi visión de noche, yH2370
+- Dan_7:4estaba mirando hasta que sus alas fueronH2370
+- Dan_7:6después de esto miré, y he aquí otraH2370
+- Dan_7:7miraba yo en las visiones de la nocheH2370
+- Dan_7:9estuve mirando hasta que fueron puestosH2370
+- Dan_7:11yo entonces miraba a causa del sonidoH2370
+- Dan_7:11miraba hasta que mataron a la bestiaH2370
+- Dan_7:13miraba yo en la visión de la noche, yH2370
+- Dan_8:3y miré, y he aquí un carnero que estabaH7200
+- Dan_9:2miré...los libros el número de los añosH995
+- Dan_9:18abre...y mira nuestras desolaciones, yH7200
+- Dan_10:5y miré, y he aquí un varón vestido deH7200
+- Dan_12:5y yo Daniel miré, y he aquí otros dosH7200
+- Ose_3:1miran a dioses ajenos, y aman tortasH6437
+- Ose_14:8lo oiré, y miraré; yo seré a él comoH7789
+- Amó_5:22ni miraré a las ofrendas de paz deH5027
+- Amó_6:2pasad a Calne, y mirad; y de allí id aH7200
+- Abd_1:12no...haber estado mirando en el día deH7200
+- Abd_1:13no debiste haber mirado su mal en el díaH7200
+- Miq_7:7yo a Jehová miraré, esperaré al DiosH6822
+- Nah_2:8¡deteneos, deteneos!...ninguno miraH6437
+- Hab_1:5mirad entre las naciones, y ved, yH7200
+- Hab_2:15y le embriagas para mirar su desnudezH5027
+- Hab_3:6tierra; miró, e hizo temblar las gentesH7200
+- Zac_1:18alcé...miré, y he aquí cuatro cuernosH7200
+- Zac_2:1miré, y he aquí un varón que tenía en suH7200
+- Zac_3:4mira que he quitado de ti tu pecado, yH7200
+- Zac_4:2he mirado, y...un candelabro todo de oroH7200
+- Zac_5:1alcé mis ojos y miré, y he aquí un rolloH7200
+- Zac_5:5alza ahora tus ojos, y mira qué es estoH7200
+- Zac_5:9miré, y he aquí dos mujeres que salíanH7200
+- Zac_6:1miré, y he aquí cuatro carros que salíanH7200
+- Zac_6:8mira, los que salieron hacia la tierraH7200
+- Zac_9:1porque a Jehová deben mirar los ojos de
+- Zac_9:8y no pasará...ahora miraré con mis ojosH7200
+- Zac_11:11así conocieron los...que miraban a míH8104
+- Zac_12:10mirarán a mí, a quien traspasaron, yH5027
+- Mal_2:13así que no miraré más a la ofrendaH6437
+- Mat_5:28cualquiera que mira a una mujer paraG991
+- Mat_6:26mirad las aves del cielo...no siembranG1689
+- Mat_7:3¿y por qué miras la paja que está en elG991
+- Mat_8:4Jesús le dijo: Mira, no lo digas a nadieG3708
+- Mat_9:22Jesús...mirándola, dijo: Ten ánimo, hijaG1492
+- Mat_9:30les encargó...Mirad que nadie lo sepaG3708
+- Mat_16:6mirad, guardaos de la levadura de losG3708
+- Mat_18:10mirad que no menospreciéis a uno deG3708
+- Mat_19:26mirándolos Jesús, les dijo: Para losG1689
+- Mat_22:16no miras la apariencia de los hombresG991
+- Mat_24:4Jesús...dijo: Mirad que nadie os engañeG991
+- Mat_24:6mirad que no os turbéis...es necesarioG3708
+- Mat_24:23mirad, aquí está...o m, allí está, noG2400
+- Mat_24:26mirad, está en el desierto, no salgáisG2400
+- Mat_24:26o mirad, está en los aposentos, no loG2400
+- Mat_27:55estaban allí...mujeres mirando de lejosG2334
+- Mar_1:44mira, no digas a nadie nada, sino véG3708
+- Mar_2:24dijeron: Mira, ¿por qué hacen en el díaG2396
+- Mar_3:5mirándolos...con enojo...dijo al hombreG4017
+- Mar_3:34mirando a los que estaban sentados...dijoG4017
+- Mar_4:24mirad lo que oís; porque con la medidaG991
+- Mar_5:32él miraba...para ver quién había hechoG4017
+- Mar_8:15mirad, guardaos de la levadura de losG3708
+- Mar_8:24él, mirando, dijo: Veo los hombres comoG308
+- Mar_8:25le hizo que mirase; y fue restablecidoG308
+- Mar_8:33mirando a los discípulos, reprendió aG1492
+- Mar_9:8miraron, no vieron más a nadie consigoG4017
+- Mar_10:21Jesús, mirándole, le amó, y le dijoG1689
+- Mar_10:23mirando alrededor, dijo a...discípulosG4017
+- Mar_10:27entonces Jesús, mirándolos, dijo: ParaG1689
+- Mar_11:11y habiendo mirado alrededor todas lasG4017
+- Mar_11:21mira, la higuera que maldijiste se haG2396
+- Mar_12:14no miras la apariencia de los hombresG991
+- Mar_12:41miraba cómo el pueblo echaba dinero enG2334
+- Mar_13:1Maestro, mira qué piedras, y...edificiosG2396
+- Mar_13:5comenzó a decir: Mirad que nadie osG991
+- Mar_13:9mirad por vosotros mismos; porque osG991
+- Mar_13:21mirad, aquí está el Cristo; o, m, allíG2400
+- Mar_13:23vosotros mirad; os lo he dicho todoG991
+- Mar_13:33mirad, velad y orad; porque no sabéisG991
+- Mar_14:67cuando vio a Pedro...mirándole, dijo: TúG1492
+- Mar_15:4¿nada respondes? Mira de cuántas cosasG2396
+- Mar_15:35decían, al oírlo: Mirad, llama a ElíasG2400
+- Mar_15:40había algunas mujeres mirando de lejosG2334
+- Mar_15:47María madre...miraban dónde lo poníanG2334
+- Mar_16:4pero cuando miraron, vieron removida laG308
+- Mar_16:6mirad el lugar en donde le pusieronG2396
+- Luc_1:48ha mirado la bajeza de su sierva; puesG1914
+- Luc_6:10y mirándolos a todos...dijo al hombreG4017
+- Luc_6:41¿por qué miras la paja que está en elG991
+- Luc_6:42no mirando tú la viga...en el ojo tuyo?[[G991]]
+- Luc_8:18mirad, pues, cómo oís; porque a todo elG991
+- Luc_9:62que poniendo su mano...mira hacia atrásG991
+- Luc_11:35mira...no suceda que la luz que en tiG4648
+- Luc_12:15mirad, y guardaos de toda avariciaG3708
+- Luc_17:3mirad...vosotros mismos. Si tu hermanoG4337
+- Luc_19:5Jesús...mirando hacia arriba, le vio, yG308
+- Luc_20:17mirándolos, dijo: ¿Qué, pues, es lo queG1689
+- Luc_21:8mirad que no seáis engañados; porqueG991
+- Luc_21:29mirad la higuera y todos los árbolesG1492
+- Luc_21:34mirad también por vosotros mismos queG4337
+- Luc_22:61vuelto el Señor, miró a Pedro; y PedroG1689
+- Luc_23:35y el pueblo estaba mirando; y aun losG2334
+- Luc_23:49y las mujeres...estaban lejos mirandoG3708
+- Luc_24:12y cuando miró dentro, vio los lienzosG3879
+- Luc_24:39mirad mis manos y mis pies, que yoG1492
+- Jua_1:36mirando a Jesús que andaba por allíG1689
+- Jua_1:42y mirándole Jesús, dijo: Tú eres SimónG1689
+- Jua_3:26mira que el que estaba contigo al otroG2396
+- Jua_4:35alzad vuestros ojos y mirad los camposG2400
+- Jua_5:14mira, has sido sanado; no peques másG2396
+- Jua_7:26pues mirad, habla públicamente, y no leG2396
+- Jua_11:36dijeron...judíos: Mirad cómo le amabaG2396
+- Jua_12:19dijeron...Mirad, el mundo se va tras élG2396
+- Jua_13:22los discípulos se miraban unos a otrosG991
+- Jua_19:4dijo: Mirad, os lo traigo fuera, paraG2396
+- Jua_19:37y también...Mirarán al que traspasaronG3700
+- Jua_20:5y bajándose a mirar, vio los lienzos
+- Jua_20:11inclinó para mirar dentro del sepulcro
+- Jua_20:27pon aquí tu dedo, y mira mis manos; yG2396
+- Hec_1:11¿por qué estáis mirando al cielo?[[G1689]]
+- Hec_2:7mirad, ¿no son galileos todos estos queG2400
+- Hec_3:4fijando en él los ojos...dijo: MíranosG991
+- Hec_4:29Señor, mira sus amenazas, y concede aG1896
+- Hec_5:35mirad...lo que vais a hacer respecto aG4337
+- Hec_7:31Moisés, mirando, se maravilló de laG2657
+- Hec_7:32Moisés, temblando, no se atrevía a mirarG2657
+- Hec_10:4él, mirándole...dijo: ¿Qué es, Señor?[[G816]]
+- Hec_13:40mirad...no venga sobre vosotros lo queG991
+- Hec_13:41mirad...menospreciadores, y asombraosG1492
+- Hec_17:23pasando y mirando vuestros santuariosG333
+- Hec_20:28por tanto, mirad por vosotros, y porG4337
+- Hec_22:13yo en...hora recobré la vista y lo miréG308
+- Hec_23:1Pablo, mirando fijamente al concilioG816
+- Hec_27:12puerto de Creta que mira al nordesteG991
+- Rom_11:22mira...bondad y la severidad de DiosG1492
+- 1Co_1:26mirad, hermanos, vuestra vocaciónG991
+- 1Co_3:10pero cada uno mire cómo sobreedificaG991
+- 1Co_8:9mirad que esta libertad...no venga a serG991
+- 1Co_10:12piensa estar firme, mire que no caigaG991
+- 1Co_10:18mirad a Israel según la carne; los queG991
+- 1Co_16:10mirad que esté con...con tranquilidadG991
+- 2Co_3:18mirando a cara descubierta como enG2734
+- 2Co_4:18no mirando...las cosas que se ven, sinoG4648
+- 2Co_10:7miráis las cosas según la aparienciaG991
+- Gál_5:15mirad...no os consumáis unos a otrosG991
+- Gál_6:11mirad...cuán grandes letras os escriboG1492
+- Efe_5:15mirad...con diligencia cómo andéis, noG991
+- Flp_2:4no mirando cada uno por lo suyo propioG4648
+- Flp_3:17mirad a los que así se conducen segúnG4648
+- Col_2:5mirando vuestro buen orden...firmezaG991
+- Col_2:8mirad que nadie os engañe por medio deG991
+- Col_4:17Arquipo: mira que cumplas el ministerioG991
+- 1Ts_5:15mirad que ninguno pague a otro malG3708
+- Heb_3:12mirad...que no haya...corazón malo deG991
+- Heb_8:5mira, haz todas las cosas conforme alG3708
+- Heb_11:13mirándolo de lejos, y creyéndolo, yG1492
+- Heb_12:15mirad bien, no sea que alguno deje deG1983
+- Heb_12:25mirad que no desechéis al que hablaG991
+- Stg_1:25mas el que mira...en la perfecta leyG3879
+- Stg_2:3y miráis con agrado al que trae la ropaG1914
+- Stg_3:4mirad...las naves; aunque tan grandes, yG2400
+- Stg_5:7mirad cómo el labrador espera el...frutoG2400
+- 1Pe_1:12cosas en las cuales anhelan mirarG3879
+- 1Jn_3:1mirad cuál amor nos ha dado el PadreG1492
+- 2Jn_1:8mirad por vosotros mismos, para que noG991
+- Rev_4:1miré, y he aquí una puerta abierta enG2400
+- Rev_5:3ninguno...podía abrir el...ni aun mirarloG991
+- Rev_5:4digno de abrir el libro...ni de mirarloG991
+- Rev_5:6miré, y vi que en medio del trono y deG1492
+- Rev_5:11y miré, y oí la voz de muchos ángelesG1492
+- Rev_6:1oí a uno de los cuatro seres...Ven y miraG991
+- Rev_6:2miré, y he aquí un caballo blanco; y elG1492
+- Rev_6:3oí al segundo ser...que decía: Ven y miraG991
+- Rev_6:5decía: Ven y mira. Y miré, y he aquí unG991, [[G1492]]
+- Rev_6:7la voz del cuarto ser...decía: Ven y miraG991
+- Rev_6:8miré, y he aquí un caballo amarillo, y elG1492
+- Rev_6:12miré cuando abrió el sexto sello, y heG1492
+- Rev_7:9esto miré, y he aquí una gran multitudG1492
+- Rev_8:13miré, y oí a un ángel volar...en medioG1492
+- Rev_14:1miré, y he aquí el Cordero estaba en pieG1492
+- Rev_14:14miré...una nube blanca; y sobre la nubeG1492
+- Rev_15:5miré, y he aquí fue abierto en el cieloG1492
+- Rev_19:10mira, no lo hagas; yo soy consiervoG3708
+- Rev_22:9él me dijo: Mira, no lo hagas; porqueG3708

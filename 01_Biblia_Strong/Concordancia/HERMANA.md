@@ -1,0 +1,136 @@
+---
+tipo: concordancia
+palabra: HERMANA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HERMANA
+
+- Véase también Hermano
+- Gén_4:22Zila...y la h de Tubal-caín fue NaamaH269
+- Gén_12:13ahora, pues, dí que eres mi h, paraH269
+- Gén_12:19¿por qué dijiste: Es mi h, poniéndomeH269
+- Gén_20:2dijo Abraham de Sara su mujer: Es mi hH269
+- Gén_20:5dijo él: Mi h es; y ella también dijoH269
+- Gén_20:12mi h, hija de mi padre, mas no hija deH269
+- Gén_24:30y los brazaletes en las manos de su hH269
+- Gén_24:59entonces dejaron ír a Rebeca su h, y aH269
+- Gén_24:60h nuestra, sé madre de millares deH269
+- Gén_25:20por mujer a Rebeca...h de Labán arameoH269
+- Gén_26:7respondió: Es mi h; porque tuvo miedoH269
+- Gén_26:9tu mujer. ¿Cómo, pues, dijiste: Es mi h?[[H269]]
+- Gén_28:9tomó por mujer a Mahalat...h de NebaiotH269
+- Gén_29:13oyó...las nuevas de Jacob, hijo de su hH269
+- Gén_30:1tuvo envidia de su h, y decía a JacobH269
+- Gén_30:8he contendido con mi h, y he vencidoH269
+- Gén_34:13cuanto había amancillado a Dina su hH269
+- Gén_34:14no podemos hacer esto de dar nuestra hH269
+- Gén_34:27por cuanto habían amancillado a su hH269
+- Gén_34:31¿había él de tratar a nuestra h como aH269
+- Gén_36:3a Basemat hija de Ismael, h de NebaiotH269
+- Gén_36:22hijos de Lotán...Timna fue h de LotánH269
+- Gén_46:17los hijos de Aser...y Sera h de ellosH269
+- Éxo_2:4h suyo se puso a lo lejos, para ver loH269
+- Éxo_2:7entonces su h dijo a la hija de FaraónH269
+- Éxo_6:23tomó Aarón por...a Elisabet...h de NaasónH269
+- Éxo_15:20María...h de Aarón, tomó un pandero enH269
+- Lev_18:9la desnudez de tu h...no descubrirásH269
+- Lev_18:11hija...engendrada de tu padre, tu h esH269
+- Lev_18:12la desnudez de la h de tu padre noH269
+- Lev_18:13la desnudez de la h de tu madre noH269
+- Lev_18:18no tomarás mujer juntamente con su hH269
+- Lev_20:17alguno tomare a su h, hija de su padreH269
+- Lev_20:17viere su...descubrió la desnudez de su hH269
+- Lev_20:19la h de tu madre, o de la h de tu padreH269
+- Lev_21:3por su h virgen, a él cercana, la cualH269
+- Núm_6:7ni por su h, podrá contaminarse cuandoH269
+- Núm_25:18su h, la cual fue muerta el día de laH269
+- Núm_26:59dio a luz de...a Moisés, y a María su hH269
+- Deu_27:22maldito el que se acostare con su hH269
+- Jos_2:13salvaréis la vida...a mis...h, y a todoH269
+- Jue_15:2h menor, ¿no es más hermosa que ella?[[H269]]
+- 2Sa_13:1teniendo Absalón...un h hermosa queH269
+- 2Sa_13:2angustiado...por Tamar su h, pues por serH269
+- 2Sa_13:4amo a Tamar la h de Absalón mi hermanoH269
+- 2Sa_13:5-6te ruego que venga mi h TamarH269
+- 2Sa_13:11le dijo: Ven, h mía, acuéstate conmigoH269
+- 2Sa_13:20pues calle ahora, h mía; tu hermano esH269
+- 2Sa_13:22Amnón, porque había forzado a Tamar suH269
+- 2Sa_13:32el día en que Amnón forzó a Tamar su hH269
+- 2Sa_17:25a Abigail...h de Sarvia madre de JoabH269
+- 1Re_11:19le dio...la h de su esposa, la h deH269
+- 1Re_11:20la h de Tahpenes le dio a luz su hijoH269
+- 2Re_11:2Josaba...h de Ocozías, tomó a JoásH269
+- 1Cr_1:39hijos de Lotán...Timna fue h de LotánH269
+- 1Cr_2:16de los cuales Sarvia y Abigail fueron hH269
+- 1Cr_3:9hijos de David...Y Tamar fue h de ellosH269
+- 1Cr_3:19los hijos de Zorobabel...y Selomit su hH269
+- 1Cr_4:3y el nombre de su h fue Haze-lelponiH269
+- 1Cr_4:19los hijos de la mujer de Hodías, h deH269
+- 1Cr_7:15y Supim, cuya h tuvo por nombre MaacaH269
+- 1Cr_7:18y su h Hamolequet dio a luz a...AbiezerH269
+- 1Cr_7:30los hijos de Aser...Bería, y su h SeraH269
+- 1Cr_7:32y Heber engendró a...y Súa h de ellosH269
+- 2Cr_22:11Josabet, hija del...era h de OcozíasH269
+- Job_1:4y enviaban a llamar a sus tres h paraH269
+- Job_17:14dicho...a los gusanos: Mi madre y mi hH269
+- Job_42:11vinieron a él...hermanos y todas sus hH269
+- Pro_7:4di a la sabiduría: Tú eres mi h, y a laH269
+- Cnt_4:9prendiste mi corazón, h, esposa míaH269
+- Cnt_4:10hermosos son tus amores, h, esposa míaH269
+- Cnt_4:12huerto cerrado eres, h mía, esposa míaH269
+- Cnt_5:1yo vine a mi huerto, oh h, esposa míaH269
+- Cnt_5:2ábreme, h mía, amiga mía, paloma míaH269
+- Cnt_8:8tenemos una pequeña h...no tiene pechosH269
+- Cnt_8:8¿qué haremos a nuestra h cuando de ellaH269
+- Jer_3:7no se volvió...lo vio su h la rebeldeH269
+- Jer_3:8pero no tuvo temor la rebelde Judá su hH269
+- Jer_3:10su h la rebelde Judá no se volvió a míH269
+- Jer_22:18diciendo: ¡Ay, hermano mío! y ¡Ay, h![[H269]]
+- Eze_16:45h eres tú de tus h, que desecharonH269
+- Eze_16:46h mayor es Samaria, ella y sus hijasH269
+- Eze_16:46y tu h menor es Sodoma con sus hijasH269
+- Eze_16:48Sodoma tu h y sus hijas no han hechoH269
+- Eze_16:49que esta fue la maldad de Sodoma tu hH269
+- Eze_16:51has justificado a tus h con todas lasH269
+- Eze_16:52juzgaste a tus h, lleva tu vergüenzaH269
+- Eze_16:52por cuanto has justificado a tus hH269
+- Eze_16:55y tus h...volverán a su primer estadoH269
+- Eze_16:56no era tu h Sodoma digna de mención enH269
+- Eze_16:61cuando recibas a tus h, las mayores queH269
+- Eze_22:11violó en ti a su h, hija de su padreH269
+- Eze_23:4y su h, Aholiba, las cuales llegaron aH269
+- Eze_23:11y lo vio su h Aholiba, y enloqueció deH269
+- Eze_23:11sus fornicaciones...más que las...de su hH269
+- Eze_23:18se había ya hastiado mi alma de su hH269
+- Eze_23:31el camino de tu h anduviste; yo, puesH269
+- Eze_23:32el hondo y ancho cáliz de tu h, que esH269
+- Eze_23:33llena de...por el cáliz de tu h SamariaH269
+- Eze_44:25por padre...o h...podrán contaminarseH269
+- Ose_2:1decid a...Ammi; y a vuestras h: RuhamaH269
+- Mat_12:50hace la voluntad de mi...ese es...mi hG79
+- Mat_13:56¿no están todas sus h con nosotros?[[G79]]
+- Mat_19:29que haya dejado...hermanos, o h, o padreG79
+- Mar_3:35ése es mi hermano, y mi h, y mi madreG79
+- Mar_6:3están también aquí con nosotros sus hG79
+- Mar_10:29que haya dejado...hermanos, o h, o padreG79
+- Mar_10:30hermanos, h, madres, hijos, y tierrasG79
+- Luc_10:39tenía una h que se llamaba María, laG79
+- Luc_10:40mi h me deje servir sola? Dile, puesG79
+- Luc_14:26no aborrece a su padre...hermanos, y hG79
+- Jua_11:1de...la aldea de María y de Marta su hG79
+- Jua_11:3enviaron, pues, las h para decir a JesúsG79
+- Jua_11:5amaba Jesús a Marta, a su h y a LázaroG79
+- Jua_11:28a María su h, diciéndole en secreto: ElG79
+- Jua_11:39Marta, la h del que había muerto, leG79
+- Jua_19:25junto a la cruz...h de su madre, MaríaG79
+- Hec_23:16mas el hijo de la h de Pablo, oyendoG79
+- Rom_16:1os recomiendo además nuestra h FebeG79
+- Rom_16:15saludad a Nereo y a su h, a Olimpas yG79
+- 1Co_7:15no está el hermano o la h sujeto aG79
+- 1Co_9:5derecho de traer con nosotros una h porG79
+- 1Ti_5:2las jovencitas, como a h, con todaG79
+- Flm_1:2a la amada h Apia, y a Arquipo nuestro
+- Stg_2:15si un hermano o una h están desnudosG79
+- 2Jn_1:13los hijos de tu h...te saludan. AménG79

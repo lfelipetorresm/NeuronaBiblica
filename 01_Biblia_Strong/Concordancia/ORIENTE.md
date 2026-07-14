@@ -1,0 +1,147 @@
+---
+tipo: concordancia
+palabra: ORIENTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ORIENTE
+
+- Gén_2:8Dios plantó un huerto en Edén, al oH6924
+- Gén_2:14es Hidekel...es el que va al o de AsiríaH6926
+- Gén_3:24puso al o del huerto de Edén querubinesH6924
+- Gén_4:16habitó en tierra de Nod, al o de EdénH6926
+- Gén_10:30fue...hasta la región montañosa del oH6924
+- Gén_11:2salieron de o, hallaron una llanura enH6924
+- Gén_12:8pasó de allí a un monte al o de Bet-elH6924
+- Gén_12:8teniendo a...Hai al o...edificó allí altarH6924
+- Gén_13:11Lot escogió...y se fue Lot hacia el oH6924
+- Gén_13:14alza ahora tus ojos, y mira...al o y alH6924
+- Gén_23:17que estaba en Macpela al o de Mamre, laH6440
+- Gén_23:19la cueva de la heredad...al o de Mamre
+- Gén_25:6los envió lejos...hacia el o, a la tierraH6924
+- Gén_28:14y te extenderás al occidente, al o, alH6924
+- Gén_49:30de Macpela, al o de Mamre en...Canaán
+- Gén_50:13en la cueva...de Macpela...al o de Mamre
+- Éxo_27:13el ancho del atrio por el lado del oH4217
+- Lev_1:16el buche y las plumas...hacia el o, enH6924
+- Núm_2:3acamparán al o, al este: la bandera delH6924
+- Núm_3:38acamparán delante del tabernáculo al oH6924
+- Núm_10:5moverán...los que están acampados al oH6924
+- Núm_23:7de Aram me trajo Balac...los montes del oH6924
+- Núm_32:19tendremos ya nuestra heredad a...al oH4217
+- Núm_34:3al extremo del Mar Salado hacia el oH6924
+- Núm_34:10por límite al o...Hazar-enán hasta SefamH6924
+- Núm_34:11este límite desde Sefam a Ribla, al oH6924
+- Núm_34:11a la costa del mar de Cineret, al oH6924
+- Núm_34:15tomaron su heredad a este lado...al oH6924
+- Núm_35:5mediréis...al lado del o dos mil codosH6924
+- Deu_3:17al pie de las laderas del Pisga al oH4217
+- Deu_4:47reyes de los amorreos que estaban...al o
+- Deu_4:49y todo el Arabá...al o, hasta el mar delH4217
+- Jos_7:2junto a Bet-ayén hacia el o de Bet-elH6924
+- Jos_11:3cananeo que estaba al o y al occidenteH4217
+- Jos_11:8siguieron hasta...el llano de Mizpa al oH4217
+- Jos_12:1el arroyo de Arnón...todo el Arabá al oH4217
+- Jos_12:3el Arabá hasta el mar de Cineret, al oH4217
+- Jos_12:3el mar Salado, al o, por el camino deH4217
+- Jos_13:3Sihor, que está al o de Egipto, hasta el
+- Jos_13:8heredad...al otro lado del Jordán al oH4217
+- Jos_13:27Cineret al otro lado del Jordán, al oH4217
+- Jos_13:32al otro lado del Jordán de Jericó, al oH4217
+- Jos_16:1hasta las aguas de Jericó hacia el oH4217
+- Jos_16:5límite de su heredad al lado del o fueH4217
+- Jos_16:6el límite...da vuelta hacia el o hastaH4217
+- Jos_17:10con Aser al norte, y con Isacar al oH4217
+- Jos_18:7han recibido su heredad...al o, la cualH4217
+- Jos_18:20el Jordán era el límite al lado del oH6924
+- Jos_19:12gira de Sarid hacia el o, hacia dondeH6924
+- Jos_19:27vuelta hacia el o a Bet-dagón y llegaH6924
+- Jos_20:8al o de Jericó, señalaron a Beser en elH4217
+- Jue_6:3subían...los hijos del o contra ellosH6924
+- Jue_6:33los del o se juntaron a una, y pasandoH6924
+- Jue_7:12los hijos del o estaban tendidos en elH6924
+- Jue_8:10de todo el ejército de los hijos del oH6924
+- Jue_8:11subiendo, pues, Gedeón...al o de NobaH6924
+- 1Sa_13:5subieron y acamparon en Micmas, al oH6926
+- 1Sa_15:7llegar a Shur, que está al o de Egipto
+- 1Sa_26:1David escondido en...al o del desierto?
+- 1Sa_26:3y acampó Saúl en el...al o del desierto
+- 1Re_7:25y tres miraban al o; sobre éstos seH4217
+- 1Re_7:39y colocó el mar al lado...o, hacia el surH6924
+- 1Re_17:3apártate de aquí, y vuélvete al o, yH6924
+- 2Re_13:17y dijo: Abre la ventana que da al oH6924
+- 1Cr_4:39y llegaron hasta...Gedor hasta el oH6924
+- 1Cr_5:9habitó...desde el o hasta la entrada delH4217
+- 1Cr_6:78al o del Jordán, dieron de la tribu deH4217
+- 1Cr_7:28y hacia el o Naarán...Gezer y sus aldeasH4217
+- 1Cr_9:18los porteros en la puerta del rey...al oH4217
+- 1Cr_9:24estaban los porteros...al o...al norte yH4217
+- 1Cr_12:15e hicieron huir a...al o y al ponienteH4217
+- 1Cr_26:14la suerte para la del o cayó a SelemíasH4217
+- 1Cr_26:17al o seis levitas, al norte cuatro deH4217
+- 2Cr_4:4sobre doce bueyes, tres...y tres al oH4217
+- 2Cr_5:12y los levitas cantores...al o del altarH4217
+- Neh_3:26hasta enfrente de la puerta de...al oH4217
+- Neh_12:37casa...hasta la puerta de las Aguas, al oH4217
+- Job_18:20su día...y pavor caerá sobre los de o
+- Job_23:8he aquí yo iré al o, y no lo hallare; y
+- Sal_75:6porque ni de o ni de occidente, ni delH4628
+- Sal_103:12cuanto está lejos el o del occidenteH4628
+- Sal_107:3ha congregado...del o y del occidenteH4628
+- Isa_2:6llenos de costumbres traídas del o, yH6924
+- Isa_9:12o los sitios, y...filisteos del ponienteH6924
+- Isa_11:14saquearán también a los de o; Edom yH3220
+- Isa_41:2despertó del o al justo, lo llamó paraH4217
+- Isa_43:5a traeré tu generación, y del occidenteH4217
+- Isa_46:11que llamo desde el o al ave, y de tierraH4217
+- Jer_31:40la puerta de los caballos al o, seráH4217
+- Jer_49:28subid...y destruid a los hijos del oH6924
+- Eze_8:16como 25 varones...rostros hacia el oH6924
+- Eze_8:16adoraban al sol, postrándose hacia el oH6924
+- Eze_11:1puerta orienta¡...la cual mira hacia el oH6931
+- Eze_11:23se puso sobre el monte que está al o deH6924
+- Eze_25:10los hijos del o contra los hijos de AmónH6924
+- Eze_39:11el valle de los que pasan al o del marH6926
+- Eze_40:6vino a la puerta que mira hacia el o, yH6921
+- Eze_40:19la anchura...de cien codos hacia el oH6921
+- Eze_40:22a la medida de la puerta...hacia el oH6921
+- Eze_40:23al o; y midió de puerta a puerta, cienH6921
+- Eze_40:32me llevó al atrio interior hacia el oH6921
+- Eze_40:44una estaba al lado de la puerta del oH6921
+- Eze_41:14el ancho del...y del espacio abierto al oH6921
+- Eze_42:10hacia el o, enfrente del espacio abiertoH6921
+- Eze_42:15por...la puerta que miraba hacia el oH6921
+- Eze_43:1luego a la puerta...que mira hacia el oH6921
+- Eze_43:2he aquí la gloria del Dios...venía del oH6921
+- Eze_43:4por la vía de la puerta que daba al oH6921
+- Eze_43:17el descanso...y sus gradas estaban al oH6921
+- Eze_44:1hacia la puerta...la cual mira hacia el oH6921
+- Eze_46:1puerta del atrio interior que mira al oH6921
+- Eze_46:12le abrirán la puerta que mira al o, yH6921
+- Eze_47:1aguas que salían de debajo...hacia el oH6921
+- Eze_47:1la fachada de la casa estaba al o, y lasH6921
+- Eze_47:2me sacó...al camino de la que mira al oH6921
+- Eze_47:3salió el varón hacia el o, llevando unH6921
+- Eze_47:8estas aguas salen a la región del o, yH6930
+- Eze_47:18del lado del o, en medio de Haurán y deH6921
+- Eze_48:2-3, Eze_48:4-5, Eze_48:6-7, Eze_48:8(2),23,24,25,26,27desde el lado del o hasta el lado del marH6921
+- Eze_48:10porción santa...diez mil de anchura al oH6921
+- Eze_48:16y al lado del o cuatro mil quinientasH6921
+- Eze_48:17el ejido...al o de doscientas cincuentaH6921
+- Eze_48:18lo que quedare de...diez mil cañas al oH6921
+- Dan_8:9creció mucho al sur, y al o, y hacia laH4217
+- Dan_11:44noticias del o y del...lo atemorizaránH4217
+- Amó_8:12norte hasta el o discurrirán buscandoH4217
+- Jon_4:5salió Jonás...y acampó hacia el o de laH6924
+- Zac_8:7salvo a mi pueblo de la tierra del oH4217
+- Zac_14:4el monte de los Olivos, que está...al oH6924
+- Zac_14:4partirá por en medio, hacia el o y haciaH4217
+- Mat_2:1vinieron del o a Jerusalén unos magosG395
+- Mat_2:2porque su estrella hemos visto en el oG395
+- Mat_2:9la estrella que habían visto en el o ibaG395
+- Mat_8:11que vendrán muchos del o y del occidenteG395
+- Mat_24:27como el relámpago que sale del o y seG395
+- Luc_13:29vendrán del o y del occidente, delG395
+- Rev_16:12preparado el camino a los reyes del oG395
+- Rev_21:13o tres puertas; al norte tres puertasG395

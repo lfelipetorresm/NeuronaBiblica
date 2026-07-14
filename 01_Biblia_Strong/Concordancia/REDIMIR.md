@@ -1,0 +1,93 @@
+---
+tipo: concordancia
+palabra: REDIMIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REDIMIR
+
+- Éxo_6:6os redimiré con brazo extendido, y conH1350
+- Éxo_13:13todo primogénito de asno redimirás conH6299
+- Éxo_13:13no lo redimieres, quebrarás su cervizH6299
+- Éxo_13:13redimirás al primogénito de tus hijosH6299
+- Éxo_13:15yo...redimo al primogénito de mis hijosH6299
+- Éxo_15:13condujiste...este pueblo que redimisteH1350
+- Éxo_34:20redimirás con cordero el primogénito delH6299
+- Éxo_34:20no lo redimieres, quebrarás su cervizH6299
+- Éxo_34:20redimirás todo primogénito de tus hijosH6299
+- Lev_25:29tendrá facultad de redimirla hasta elH1353
+- Lev_25:29año será el término de poderse redimirH1353
+- Lev_27:2de las personas que se hayan de redimir
+- Lev_27:19si el que dedicó la...quisiere redimirlaH1350
+- Núm_3:49que excedían el número de los redimidosH6306
+- Núm_18:15harás que se redima el primogénito delH6299
+- Núm_18:15harás redimir el primogénito de animalH6299
+- Núm_18:17el primogénito de cabra, no redimirásH6299
+- Deu_9:26y a tu heredad que has redimido con tuH6299
+- Deu_21:8perdona a tu pueblo...el cual redimisteH6299
+- Rut_2:20es...uno de los que pueden redimirnosH1350
+- Rut_3:13si él te redimiere, bien, redímate; masH1350
+- Rut_3:13no te quisiere redimir, yo te redimiréH6299
+- Rut_4:4si tú quieres redimir, redime; y si noH6299
+- Rut_4:4si no quieres redimir, decláramelo paraH1350
+- Rut_4:4no hay otro que redima sino...Yo redimiréH1350
+- Rut_4:6respondió...No puedo redimir para mí, noH1350
+- Rut_4:6redime tú...porque yo no podré redimirH1350
+- 2Sa_4:9vive Jehová que ha redimido mi almaH6299
+- 1Re_1:29vive Jehová, que ha redimido mi almaH6299
+- 1Cr_17:21cuyo Dios fuese y se redimiese unH6299
+- Neh_1:10los cuales redimiste con tu gran poderH6299
+- Job_6:23dicho redimidme del poder...violentos?[[H6299]]
+- Job_33:28Dios redimirá su alma para que no paseH6299
+- Sal_25:22redime, oh Dios, a Israel de todasH6299
+- Sal_26:11mas...redímeme, y ten misericordia de míH6299
+- Sal_31:5tú me has redimido, oh Jehová, Dios deH6299
+- Sal_34:22Jehová redime el alma de sus siervosH6299
+- Sal_44:26redímenos por causa de tu misericordiaH6299
+- Sal_49:7en manera alguna redimir al hermano, niH6299
+- Sal_49:15Dios redimirá...vida del poder del SeolH6299
+- Sal_55:18él redimirá en paz mi alma de la guerraH6299
+- Sal_69:18acércate a mi alma, redímela; líbrameH1350
+- Sal_71:23alegrarán...mi alma, la cual redimisteH6299
+- Sal_72:14de engaño y de violencia redimirá susH1350
+- Sal_74:2la que redimiste para hacerla la tribuH1350
+- Sal_77:15con tu brazo redimiste a tu pueblo, aH1350
+- Sal_78:42del día que los redimió de la angustiaH6299
+- Sal_107:2díganlo los redimidos de Jehová, los queH1350
+- Sal_107:2que ha redimido del poder del enemigoH1350
+- Sal_119:154defiende mi causa, y redímemeH1350
+- Sal_130:8redimirá a Israel de todos sus pecadosH6299
+- Sal_144:7redímeme, y sácame de las muchas aguasH5337
+- Isa_29:22Jehová, que redimió a Abrabam, diceH6299
+- Isa_35:9ni fiera...para que caminen los redimidosH1350
+- Isa_35:10y los redimidos de Jehová volverán, yH6299
+- Isa_43:1no temas, porque yo te redimí; te puseH1350
+- Isa_44:22yo...vuélvete a mí, porque yo te redimíH1350
+- Isa_44:23Jehová redimió a Jacob, y en Israel seráH1350
+- Isa_48:20redimió Jehová a Jacob su siervoH1350
+- Isa_50:2se ha acortado mi mano para no redimir?[[H6304]]
+- Isa_51:10del mar para que pasaran los redimidos?[[H1350]]
+- Isa_51:11ciertamente volverán los redimidos deH6299
+- Isa_52:9ha consolado a...a Jerusalén ha redimidoH1350
+- Isa_62:12les llamarán...Redimidos de Jehová; y aH1350
+- Isa_63:4día...el año de mis redimidos ha llegadoH1350
+- Isa_63:9en su amor y en su clemencia los redimióH1350
+- Jer_15:21redimiré de la mano de los fuertesH6299
+- Jer_31:11Jehová redimió a Jacob, lo r de manoH6299
+- Lam_3:58abogaste...la causa...redimiste mi vidaH1350
+- Dan_4:27tus pecados redime con justicia, y tusH6562
+- Ose_7:13los redimí, y ellos hablaron mentirasH6299
+- Ose_13:14de la mano del Seol los redimiré, losH1350
+- Miq_4:10te redimirá Jehová de la mano de tusH1350
+- Miq_6:4yo...de la casa de servidumbre te redimíH6299
+- Zac_10:8los reuniré, porque los he redimidoH6299
+- Luc_1:68que ha visitado y redimido a su puebloG4160, [[G3085]]
+- Luc_24:21él era el que había de redimir a IsraelG3084
+- Gál_3:13Cristo nos redimió de la maldición deG1805
+- Gál_4:5redimiese a los que estaban bajo la leyG1805
+- Col_4:5con los de afuera, redimiendo el tiempoG1805
+- Tit_2:14se dio...redimirnos de toda iniquidadG3084
+- Rev_5:9y con tu sangre nos has redimido paraG59
+- Rev_14:3aquellos...que fueron redimidos de entreG59
+- Rev_14:4estos fueron redimidos...como primiciasG59

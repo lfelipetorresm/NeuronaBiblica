@@ -1,0 +1,89 @@
+---
+tipo: concordancia
+palabra: FIRME
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FIRME
+
+- Gén_41:32que la cosa es f de parte de DiosH3559
+- Éxo_14:13f, y ved la salvación que Jehová haráH3320
+- Núm_30:4los votos de ella serán f, y...f seráH6965
+- Núm_30:5mas si su padre le vedare...no serán fH6965
+- Núm_30:7callare a ello...votos de ella serán fH6965
+- Núm_30:7obligación con que ligó su alma, f seráH6965
+- Núm_30:9todo voto de viuda o repudiada...será fH6965
+- Núm_30:11y no le vedó...todos sus votos serán fH6965
+- Núm_30:11con que hubiere ligado su alma, f seráH6965
+- Deu_12:23que te mantengas f en no comer sangreH2388
+- Jos_3:17en seco, f en medio del Jordán, hastaH3559
+- Jos_4:3tomad...del lugar donde están f los piesH3559
+- Jue_7:21estuvieron f cada uno en su puestoH5975
+- 1Sa_2:35y yo le edificaré casa f, y andaráH539
+- 1Sa_20:31viviere...ni tú estarás f, ni tu reinoH3559
+- 1Sa_24:20que el reino...ha de ser en tu manoH6965
+- 2Sa_7:26que la casa de tu siervo David sea fH3559
+- 2Sa_22:34y me hace estar f sobre mis alturasH5975
+- 1Re_2:12sentó...su reino fue f en gran maneraH3559
+- 1Re_2:45el trono de David será f perpetuamenteH3559
+- 1Re_11:38estaré contigo y te edificaré casa fH539
+- 1Cr_17:14lo confirmaré...y su trono será fH3559
+- 1Cr_17:23la palabra que has...sea f para siempreH539
+- 1Cr_17:24casa de tu siervo David f delante de tiH539
+- Esd_6:3que sus paredes fuesen f; su alturaH5446
+- Est_3:4ver si...se mantendría f en su dichoH5975
+- Job_22:28determinarás...una cosa, y te será fH6965
+- Job_37:18los cielos, f como un espejo fundido?[[H2389]]
+- Job_41:23carne...están en él f, y no se muevenH3332
+- Job_41:24corazón es f como una piedra, y fuerteH3332
+- Sal_18:33me hace estar f sobre mis alturasH5975
+- Sal_78:37con él, ni estuvieron f en su pactoH539
+- Sal_89:28conservaré...y mi pacto será f con élH539
+- Sal_89:37como la luna será f para siempre, yH3559
+- Sal_93:2f es tu trono desde entonces; tú eresH3559
+- Sal_93:5tus testimonios son muy f; la santidadH539
+- Sal_112:7su corazón está f, confiado en JehováH3559
+- Sal_140:11el hombre deslenguado no será f en laH3559
+- Pro_11:18siembra justicia tendrá galardón fH571
+- Pro_12:7pero la casa de los justos permanecerá fH5975
+- Pro_29:14que juzga con verdad...el trono será fH3559
+- Isa_8:10y no será f...Dios está con nosotrosH6965
+- Isa_16:6altivez; pero sus mentiras no serán fH3651
+- Isa_22:23y lo hincaré como clavo en lugar fH539
+- Isa_22:25clavo hincado en lugar f será quitadoH539
+- Isa_55:3pacto eterno, misericordias f a DavidH539
+- Jer_35:14fue f la palabra de Jonadab hijo deH6965
+- Jer_35:16tuvieron por f el mandamiento que lesH6965
+- Jer_46:15no pudo mantenerse f, porque Jehová laH5975
+- Eze_13:5para que resista f en la batalla en
+- Eze_22:14¿estará f tu corazón? ¿Serán fuertesH5975
+- Dan_4:26significa que tu reino te quedará fH7011
+- Rom_4:16fin de que la promesa sea f para todaG949
+- Rom_5:2la fe a esta gracia en la cual estamos fG2476
+- Rom_14:4estará f, porque poderoso es el SeñorG2476
+- Rom_14:4poderoso es el Señor...hacerle estar fG2476
+- 1Co_7:37pero el que está f en su corazón, sinG1476
+- 1Co_10:12que piensa estar f, mire que no caigaG2476
+- 1Co_15:58así que, hermanos míos amados, estad fG1476
+- 1Co_16:13estad f en la fe; portaos varonilmenteG4739
+- 2Co_1:7esperanza respecto de vosotros es fG949
+- 2Co_1:24vuestro gozo, porque por la fe estáis fG2476
+- Gál_5:1estad...f en la libertad con que CristoG4739
+- Efe_6:11podáis estar f contra las asechanzasG2476
+- Efe_6:13resistir...habiendo acabado todo estar fG2476
+- Efe_6:14estad, pues f, ceñidos vuestros lomosG2476
+- Flp_1:27oiga de vosotros que estáis f en unG4739
+- Flp_4:1hermanos míos...estad así f en el SeñorG4739
+- Col_1:23si en verdad permanecéis...f en la feG1476
+- Col_4:12rogando...para que estéis f, perfectosG2476
+- 1Ts_3:8ahora vivimos, si vosotros estáis fG4739
+- 2Ts_2:15estad f, y retened la doctrina queG4739
+- 2Ti_2:19pero el fundamento de Dios está fG4731
+- Heb_2:2palabra dicha por...los ángeles fue fG949
+- Heb_3:6si retenemos f hasta el fin la confianzaG949
+- Heb_3:14que retengamos f hasta el fin...confianzaG949
+- Heb_6:19la cual tenemos como...f ancla del almaG949
+- Heb_10:23mantengamos f...la profesión de nuestraG2722
+- 1Pe_5:9al cual resistid f en la fe, sabiendoG4731
+- 2Pe_1:10procurad hacer f vuestra vocaciónG949

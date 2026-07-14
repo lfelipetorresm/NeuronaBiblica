@@ -1,0 +1,220 @@
+---
+tipo: concordancia
+palabra: VESTIDO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VESTIDO
+
+- Véase también Vestir
+- Gén_24:53sacó...alhajas...y v, y dio a RebecaH899
+- Gén_27:15y tornó Rebeca los v de Esaú su hijoH899
+- Gén_27:27olió Isaac el olor de sus v...bendijoH899
+- Gén_28:20diere pan para comer y v para vestirH899
+- Gén_35:2quitad...y limpiaos, y mudad vuestros vH8071
+- Gén_37:29Rubén...no halló a José...y rasgó sus vH899
+- Gén_37:34Jacob rasgó sus v, y puso cilicio sobreH8071
+- Gén_38:14se quitó ella los v de su viudez, y seH899
+- Gén_41:14afeitó, y mudó sus v, y vino a FaraónH8071
+- Gén_44:13ellos rasgaron sus v, y cargó cada unoH8071
+- Gén_45:22dio mudas de v, y a Benjamín dio...de vH8071
+- Gén_49:11lavó en el vino su v, y en la sangreH5477
+- Éxo_3:22pedirá...v, los cuales pondréis sobreH8071
+- Éxo_12:35pidiendo de los egipcios...de oro, y vH8071
+- Éxo_19:10al pueblo, y santifícalos...laven sus vH8071
+- Éxo_19:14y santificó al pueblo; y lavaron sus vH8071
+- Éxo_21:10no disminuirá su alimento, ni su v, niH3682
+- Éxo_22:9en toda clase de fraude, sobre buey...vH8009
+- Éxo_22:26tomares en prenda el v de tu prójimoH8009
+- Éxo_22:27eso es su...su v para cubrir su cuerpoH8071
+- Éxo_31:10v del servicio, las vestiduras santasH899
+- Lev_6:27y si salpicare su sangre sobre el vH899
+- Lev_10:6ni rasguéis vuestros v en señal de dueloH899
+- Lev_11:25, Lev_11:28, Lev_11:40(2)lavará sus v, y será inmundoH899
+- Lev_11:32cosa de...v, piel, saco, sea cualquierH899
+- Lev_13:6, Lev_13:34y lavará sus v, y será limpioH899
+- Lev_13:45y el leproso...llevará v rasgados y suH899
+- Lev_13:47en un v...ya sea v de lana, o de hiloH899
+- Lev_13:49en v o en cuero, en urdimbre o en tramaH899
+- Lev_13:51si se hubiere extendido...en el v, en laH899
+- Lev_13:52será quemado el v, la urdimbre o tramaH899
+- Lev_13:53que la plaga se haya extendido en el vH899
+- Lev_13:56la plaga...la cortará del v, del cueroH899
+- Lev_13:57y si apareciere de nuevo en el v, laH899
+- Lev_13:58el v...se lavará segunda vez, y entoncesH899
+- Lev_13:59la ley para la plaga de la lepra del vH899
+- Lev_14:8que se purifica lavará sus v, y raeráH899
+- Lev_14:9lavará sus v, y lavará su cuerpo en aguaH899
+- Lev_14:47durmiere en aquella casa, lavará sus vH899
+- Lev_14:47el que comiere en la casa lavará sus vH899
+- Lev_14:55y de la lepra del v, y de la casaH899
+- Lev_15:5-6, Lev_15:7-8, Lev_15:10-11, Lev_15:21-22, Lev_15:27lavará sus v...será inmundo hasta la nocheH899
+- Lev_15:13lavará sus v, y lavará su cuerpo enH899
+- Lev_16:24y después de ponerse sus v saldrá, yH899
+- Lev_16:26llevado el macho cabrío...lavará sus vH899
+- Lev_16:28el que los quemare lavará sus v, lavaráH899
+- Lev_17:15lavará sus v y a sí misma se lavará conH899
+- Lev_19:19y no te pondrás v con mezcla de hilosH899
+- Lev_21:10y el sumo sacerdote...ni rasgará sus vH899
+- Núm_8:7y lavarán sus v, y serán purificadosH899
+- Núm_8:21levitas se purificaron, y lavaron sus vH899
+- Núm_14:6y Josué hijo...y Caleb...rompieron sus vH899
+- Núm_15:38hagan franjas en los bordes de sus vH899
+- Núm_19:7el sacerdote lavará luego sus v lavaráH899
+- Núm_19:8asimismo el que la quemó lavará sus v enH899
+- Núm_19:10lavará sus v, y será inmundo hasta laH899
+- Núm_19:19él lavará luego sus v, y a sí mismo seH899
+- Núm_19:21el que rociare el agua...lavará sus vH899
+- Núm_31:20purificaréis todo v, y toda prenda deH899
+- Núm_31:24lavaréis vuestros v el séptimo día, yH899
+- Deu_8:4tu v nunca se envejeció sobre ti, ni elH8071
+- Deu_10:18ama...al extranjero dándole pan y vH8071
+- Deu_21:13se quitará el v de su cautiverio, y seH8071
+- Deu_22:3así harás también con su v, y lo mismoH8071
+- Deu_29:5vuestros v no se han envejecido sobreH8005
+- Jos_7:6Josué rompió sus v, y se postró enH8071
+- Jos_9:5con v viejos sobre sí; y todo el pan queH8008
+- Jos_9:13nuestros v...están ya viejos a causa deH8008
+- Jos_22:8volved...con plata, con oro...y muchos vH8008
+- Jue_3:16se lo ciñó debajo de sus v a su ladoH4055
+- Jue_8:26y v de púrpura que traían los reyes deH899
+- Jue_11:35rompió sus v, diciendo: ¡Ay, hija míaH899
+- Jue_14:12treinta v de lino y treinta v de fiestaH899
+- Jue_14:13mí los 30 v de lino y los v de fiestaH899
+- Jue_14:19mudas de v a los que habían explicado
+- Jue_17:10daré diez siclos de plata...v y comidaH899
+- Rut_3:3vistiéndote tus v, irás a la era; masH8071
+- 1Sa_4:12rotos sus v y tierra sobre su cabezaH4055
+- 1Sa_17:39ciñó...su espada sobre sus v, y probóH4055
+- 1Sa_19:24y él...se despojó de sus v, y profetizóH899
+- 1Sa_28:8y se disfrazó Saúl, y se puso otros v, yH899
+- 2Sa_1:2vino uno del campamento...rotos sus vH899
+- 2Sa_1:11David, asiendo de sus v, los rasgó; y loH899
+- 2Sa_3:31dijo David a Joab...Rasgad vuestros vH899
+- 2Sa_10:4les cortó los v por la mitad hasta lasH4063
+- 2Sa_13:18llevaba ella un v de diversos coloresH3801
+- 2Sa_13:31David, rasgó sus v, y...rasgaron sus vH899
+- 2Sa_15:32Husai...rasgados sus v, y tierra sobreH899
+- 2Sa_19:24ni tampoco había lavado sus v, desdeH899
+- 1Re_10:5estado y los v de los que le servíanH4403
+- 1Re_10:25todos le llevaban...v, armas, especiasH8008
+- 1Re_21:27rasgó sus v y puso cilicio sobre suH899
+- 1Re_22:30tú ponte tus v...Y el rey de Israel seH899
+- 2Re_1:8un varón que tenía v de pelo, y ceñíaH1167, [[H8181]]
+- 2Re_2:12vio; y tomando sus v, los rompió en dosH899
+- 2Re_5:5llevando consigo...oro, y diez mudas de vH899
+- 2Re_5:7leyó...rasgó sus v, y dijo: ¿Soy yo DiosH899
+- 2Re_5:8que el rey de Israel había rasgado sus vH899
+- 2Re_5:8¿por qué has rasgado tus v? Venga ahoraH899
+- 2Re_5:22te ruego que les des un...y dos v nuevosH899
+- 2Re_5:23y dos v nuevos, y lo puso...a cuestas aH899
+- 2Re_5:26¿es tiempo de tomar plata...v, olivaresH899
+- 2Re_6:30rey...rasgó sus v, y pasó así por el muroH899
+- 2Re_7:8y tomaron de allí plata...y v, y fueronH899
+- 2Re_7:15el camino estaba lleno de v y enseresH899
+- 2Re_11:14Atalía, rasgando sus v, clamó a voz enH899
+- 2Re_18:37vinieron a Ezequías, rasgados sus v, y leH899
+- 2Re_19:1oyó, rasgó sus v y se cubrió de cilicioH899
+- 2Re_22:11el rey hubo oído...la ley, rasgó sus vH899
+- 2Re_22:19rasgaste tus v, y lloraste...te he oídoH899
+- 2Re_25:29le cambió los v de prisionero, y comióH899
+- 1Cr_19:4Hanún...les cortó los v por la mitadH4063
+- 2Cr_9:4v de ellos, sus maestresalas y sus vH4403
+- 2Cr_9:24cada uno de éstos traía...Oro, v, armasH8008
+- 2Cr_20:25entre los cadáveres...así v como alhajasH5337
+- 2Cr_23:13Atalía rasgó sus v, y dijo: ¡Traición![[H899]]
+- 2Cr_34:19luego que el rey oyó...ley, rasgó sus vH899
+- 2Cr_34:27humillaste...rasgaste tus v, y llorasteH899
+- Esd_9:3oí...rasgué mi v y mi manto, y arranquéH899
+- Esd_9:5y habiendo rasgado mi v y mi manto, meH899
+- Neh_4:23ni la gente, nos quitamos nuestro vH899
+- Neh_5:13sacudí mi v, y dije: Así sacuda Dios deH2684
+- Neh_9:21v no se envejecieron, ni se hincharonH8005
+- Est_4:1rasgó sus v, se vistió de cilicio y deH899
+- Est_4:2no era lícito pasar adentro v de cilicioH3830
+- Est_4:4y envió v para hacer vestir a MardoqueoH3847
+- Est_5:1se vistió Ester su v real, y entró en elH899
+- Est_6:8traigan el v real de que el rey se visteH3830
+- Est_6:9den el v y el caballo en mano de algunoH3830
+- Est_6:10prisa, toma el v y el caballo, como túH3830
+- Est_6:11Amán tomó el v y el caballo, y vistió aH3830
+- Est_8:15salió Mardoqueo de...con v real de azulH3830
+- Job_9:31hoyo, y mis propios v me abominaránH8008
+- Job_13:28y mi cuerpo...como v que roe la polillaH899
+- Job_24:10al desnudo hacen andar sin v, y a losH3830
+- Job_31:19si he visto que pereciera alguno sin vH3830
+- Job_37:17¿por qué están calientes tus v cuandoH899
+- Job_41:15la gloria de su v son escudos fuertesH1346
+- Sal_22:18repartieron entre sí mis v, y sobreH899
+- Sal_45:8mirra, áloe y casia exhalan todos tus vH899
+- Sal_45:13es la hija...de brocado de oro es su vH3830
+- Sal_45:14con v bordados será llevada al reyH7553
+- Sal_69:11puse además cilicio por mi v, y vine aH3830
+- Sal_73:6por tanto...se cubren de v de violenciaH7897
+- Sal_102:26como...v los mudarás, y serán mudadosH899
+- Sal_104:6con el abismo, como con v, la cubristeH3830
+- Sal_109:18se vistió de maldición como de su vH4055
+- Sal_109:19como v con que se cubra, y en lugar deH899
+- Pro_6:27tomará...fuego...sin que sus v ardan?[[H899]]
+- Pro_23:21porque...el sueño hará vestir v rotosH3847
+- Pro_27:26corderos son para tus v, y los cabritosH3830
+- Pro_31:22hace tapices; de lino y púrpura es su vH899
+- Ecl_9:8en todo tiempo sean blancos tus v, yH899
+- Cnt_4:11y el olor de tus v como el olor delH8008
+- Isa_3:6tú tienes v, tú serás nuestro príncipeH8071
+- Isa_14:19echado eres de tu sepulcro...como v deH3830
+- Isa_36:22vinieron a Ezequías, rasgados sus v, yH899
+- Isa_37:1cuando el rey Ezequías oyó...rasgó sus vH899
+- Isa_63:1es éste que viene de Edom...con v rojos?[[H899]]
+- Isa_63:1¿éste hermoso en su v, que marcha en laH3830
+- Isa_63:2¿por qué es rojo tu v, y tus ropas comoH899, [[H3830]]
+- Isa_63:3su sangre salpicó mis v, y manché todasH899
+- Jer_36:24no...temor ni rasgaron sus v el reyH899
+- Jer_52:33le hizo mudar...los v de prisionero, yH899
+- Eze_16:13v era de lino fino, seda y bordadoH4403
+- Eze_16:16tomaste de tus v, y te hiciste...altosH899
+- Eze_16:18y tomaste tus v...y las cubriste; y miH899
+- Eze_18:7hambriento y cubriere al desnudo con vH899
+- Eze_18:16de su pan, y cubriere con v al desnudoH899
+- Eze_23:26despojarán de tus v, y te arrebataránH899
+- Eze_27:16con perlas, púrpura, v bordados, linos
+- Eze_42:14vestirán otros v, y así se acercaránH899
+- Eze_44:19otros v, para no santificar al puebloH899
+- Dan_3:21atados con sus mantos...y sus vH3831
+- Dan_7:9v era blanco como la nieve, y el pelo deH3831
+- Joe_2:13rasgad vuestro corazón, y no vuestros vH899
+- Jon_3:6rey...se despojó de su v, y se cubrióH155
+- Miq_2:8de sobre el v quitasteis las capasH145
+- Sof_1:8y a todos los que visten v extranjeroH3847
+- Mal_2:16al que cubre de iniquidad su v, dijoH3830
+- Mat_6:25¿no es la...y el cuerpo más que el v?[[G1742]]
+- Mat_6:28el v, ¿por qué os afanáis? ConsideradG1742
+- Mat_7:15que vienen a vosotros con v de ovejasG1742
+- Mat_9:16pone remiendo de paño nuevo en v viejoG2440
+- Mat_9:16tal remiendo tira del v, y se hace peorG2440
+- Mat_17:2y sus v se hicieron blancos como la luzG2440
+- Mat_27:31le pusieron sus v, y le llevaron paraG2440
+- Mat_27:35crucificado, repartieron entre sí sus vG2440
+- Mat_27:35partieron entre sí mis v, y sobre miG2440
+- Mat_28:3su aspecto...su v blanco como la nieveG1742
+- Mar_2:21remiendo de paño nuevo en v viejo: deG2440
+- Mar_5:30Jesús...dijo: ¿Quién ha tocado mis v?[[G2440]]
+- Mar_9:3sus v se volvieron resplandecientes, muyG2440
+- Mar_15:20pusieron sus propios v, y le sacaronG2440
+- Mar_15:24crucificado, repartieron entre sí sus vG2440
+- Luc_5:36pedazo de un v nuevo...en un v viejoG2440
+- Luc_9:29otra, y su v blanco y resplandecienteG2440
+- Luc_12:23vida es más que...y el cuerpo que el vG1742
+- Luc_15:22sacad el mejor v, y vestidle; y ponedG4749
+- Luc_23:34y repartieron entre sí sus v, echandoG2440
+- Jua_19:23tomaron...v, e hicieron cuatro partesG2440
+- Jua_19:24repartieron entre sí mis v, y sobre miG2440
+- Hec_9:39y mostrando...los v que Dorcas hacíaG2440
+- Hec_10:30puso...un varón con v resplandecienteG2066
+- Hec_18:6les dijo, sacudiéndose los v: VuestraG2440
+- Hec_20:33plata ni oro ni v de nadie he codiciadoG2441
+- 1Ti_2:9con...oro, ni perlas, ni v costososG2441
+- Heb_1:12y como un v los envolverás, y seránG4018
+- Stg_2:2también entra un pobre con v andrajosoG2066
+- 1Pe_3:3no sea adornos de oro o de v lujososG2440

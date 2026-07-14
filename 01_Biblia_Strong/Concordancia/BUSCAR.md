@@ -1,0 +1,362 @@
+---
+tipo: concordancia
+palabra: BUSCAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BUSCAR
+
+- Gén_19:11que se fatigaban buscando la puertaH4672
+- Gén_27:5fue Esaú al campo para buscar la cazaH6679
+- Gén_31:34buscó Labán en toda la tienda, y noH4959
+- Gén_31:35y él buscó, pero no halló los ídolosH2664
+- Gén_31:37has buscado en todas mis cosas, ¿quéH4959
+- Gén_37:15y le preguntó...diciendo: ¿Qué buscas?[[H1245]]
+- Gén_37:16José respondió: Busco a mis hermanosH1245
+- Gén_43:30buscó dónde llorar; y entró...cámaraH1245
+- Gén_44:12buscó; desde el mayor comenzó, y acabóH2664
+- Éxo_33:7cualquiera que buscaba a Jehová salíaH1245
+- Lev_13:36no busque el sacerdote...es inmundoH1239
+- Lev_26:25si buscareis refugio en...ciudades, yoH622
+- Núm_10:33fue...buscándoles lugar de descansoH8446
+- Deu_4:29mas si desde allí buscares a JehováH1245
+- Deu_4:29si lo buscares de todo tu corazón y deH1875
+- Deu_12:5el lugar...ése buscaréis y allá iréisH1875
+- Deu_13:14buscarás y preguntarás con diligenciaH1875
+- Deu_22:2contigo hasta que tu hermano lo busqueH1875
+- Jos_2:22buscaron por todo...no los hallaronH1245
+- Jue_4:22te mostraré al varón que tú buscasH1245
+- Jue_6:29buscando...les dijeron: Gedeón hijo deH1875
+- Jue_14:4él buscaba ocasión contra los filisteosH1245
+- Jue_18:1tribu de Dan buscaba posesión para síH1245
+- Rut_3:1¿no he de buscar hogar para ti, paraH1245
+- 1Sa_9:3y levántate, y vé a buscar las asnasH1245
+- 1Sa_10:2las asnas que habías ido a buscar se hanH1245
+- 1Sa_10:14y él respondió: A buscar las asnasH1245
+- 1Sa_10:21Saúl...le buscaron, pero no fue halladoH1245
+- 1Sa_13:14se ha buscado un varón conforme a suH1245
+- 1Sa_16:16busquen a alguno que sepa tocar el arpaH1245
+- 1Sa_16:17Saúl respondió...Buscadme, pues, ahoraH7200
+- 1Sa_20:1es mi pecado...para que busque mi vida?[[H1245]]
+- 1Sa_20:21luego enviaré...vé, busca las saetasH4672
+- 1Sa_20:36corre y busca las saetas que yo tirareH4672
+- 1Sa_22:23quien buscare mi vida, buscará...tuyaH1245
+- 1Sa_23:14lo buscaba Saúl todos los días, peroH1245
+- 1Sa_23:23le buscaré entre todos los millares deH2664
+- 1Sa_23:25se fue Saúl con su gente a buscarloH1245
+- 1Sa_26:2Saúl...descendió...para buscar a DavidH1245
+- 1Sa_26:20ha salido el rey...a buscar una pulgaH1245
+- 1Sa_27:1para que Saúl no...no me ande buscandoH1245
+- 1Sa_27:4vino a Saúl la nueva...y no lo buscó másH1245
+- 1Sa_28:7buscadme una mujer que tenga espírituH1245
+- 2Sa_5:17los filisteos para buscar a DavidH1245
+- 2Sa_17:3pues tú buscas...la vida de un hombreH1245
+- 2Sa_17:20ellos los buscaron y no los hallaronH1245
+- 1Re_1:2busquen para...el rey una joven virgenH1245
+- 1Re_1:3buscaron una joven hermosa por toda laH1245
+- 1Re_2:40Simei...fue...para buscar a sus siervosH1245
+- 1Re_18:10mi señor no haya enviado a buscarteH1245
+- 1Re_19:10, 1Re_19:14me buscan para quitarme la vidaH1245
+- 1Re_20:7ved ahora cómo éste no busca sino malH1245
+- 2Re_2:16vayan ahora y busquen a tu señorH1245
+- 2Re_2:17buscaron tres días, mas no lo hallaronH1245
+- 2Re_5:7ahora...ved cómo busca ocasión contra míH579
+- 2Re_6:19y yo os guiaré al hombre que buscáisH1245
+- 1Cr_4:39buscando pastos para sus ganadosH1245
+- 1Cr_15:13no le buscamos según su ordenanzaH1875
+- 1Cr_16:10el corazón de los que buscan a JehováH1245
+- 1Cr_16:11buscad a Jehová...poder; b su rostroH1875
+- 1Cr_22:19vuestros ánimos en buscar a JehováH1875
+- 1Cr_28:9si tú le buscares, lo hallarás; mas siH1875
+- 2Cr_7:14oraren, y buscaren mi rostro, y seH1245
+- 2Cr_11:16puesto su corazón en buscar a JehováH1245
+- 2Cr_12:14no dispuso su...para buscar a JehováH1245
+- 2Cr_14:4mandó a Judá que buscase a Jehová elH1245
+- 2Cr_14:7hemos buscado a Jehová...le hemos b, yH1875
+- 2Cr_15:2le buscareis, será hallado de vosotrosH1875
+- 2Cr_15:4y le buscaron, él fue hallado de ellosH1245
+- 2Cr_15:12prometieron...que buscarían a JehováH1245
+- 2Cr_15:13cualquiera que no buscase a Jehová elH1245
+- 2Cr_15:15de toda su voluntad lo buscaban, y fueH1245
+- 2Cr_16:12y en su enfermedad no buscó a JehováH1875
+- 2Cr_17:3anduvo en los...y no buscó a los baalesH1875
+- 2Cr_17:4sino que buscó al Dios de su padre, yH1875
+- 2Cr_19:3has dispuesto tu corazón para buscar aH1875
+- 2Cr_22:9buscando a Ocozías...lo hallaron y loH1245
+- 2Cr_22:9de todo su corazón buscó a JehováH1875
+- 2Cr_25:15¿por qué has buscado los dioses deH1875
+- 2Cr_25:20habían buscado los dioses de EdomH1875
+- 2Cr_26:5persistió en buscar a Dios en los díasH1875
+- 2Cr_26:5días en que buscó a Jehová...prosperóH1875
+- 2Cr_30:18preparado su corazón...buscar a DiosH1875
+- 2Cr_31:21en todo...buscó a su Dios, lo hizo deH1875
+- 2Cr_34:3comenzó a buscar al Dios de David suH1875
+- Esd_2:62buscaron su registro de genealogíasH1245
+- Esd_4:2como vosotros, buscamos a vuestro DiosH1875
+- Esd_4:15se busque en el libro de las memoriasH1240
+- Esd_4:19fue dada orden y buscaron; y hallaronH1240
+- Esd_5:17búsquese en la casa de los tesoros delH1240
+- Esd_6:1Darío dio la orden de buscar en la casaH1240
+- Esd_6:21para buscar a Jehová Dios de IsraelH1875
+- Esd_8:15habiendo buscado entre el pueblo y entreH995
+- Esd_8:22sobre todos los que le buscan; mas suH1245
+- Neh_7:64buscaron su registro de genealogíasH1245
+- Neh_12:27buscaron a los levitas de todos susH1245
+- Est_2:2busquen para el rey jóvenes vírgenesH1245
+- Job_3:21la muerte...la buscan más que tesorosH2658
+- Job_5:8yo buscaría a Dios, y encomendaría a élH1875
+- Job_7:21si me buscares de mañana...no existiréH7836
+- Job_8:5tú de mañana buscares a Dios, y rogaresH7836
+- Job_10:6inquieras mi iniquidad, y busques miH1875
+- Job_32:11he escuchado...en tanto que buscabaisH2713
+- Job_33:10aquí que él buscó reproches contra míH4672
+- Job_39:8pasto, y anda buscando toda cosa verdeH1875
+- Sal_4:2¿hasta cuándo...buscaréis la mentira?[[H1245]]
+- Sal_9:10no desamparaste a los que te buscaronH1875
+- Sal_10:4malo...no busca a Dios, no hay Dios enH1875
+- Sal_14:2algún entendido, que buscara a DiosH1875
+- Sal_17:9de mis enemigos que buscan mi vidaH5362
+- Sal_22:26alabarán a Jehová los que le buscanH1875
+- Sal_24:6los que le buscan...que b tu rostro, ohH1245
+- Sal_27:4una cosa he demandado a...ésta buscaréH1245
+- Sal_27:8buscad mi rostro. Tú rostro buscaréH1245
+- Sal_34:4busqué a Jehová, y él oyó y meH1875
+- Sal_34:10que buscan a Jehová no tendrán faltaH1875
+- Sal_34:14haz el bien; busca la paz, y síguelaH1245
+- Sal_35:4avergonzados...los que buscan mi vidaH1245
+- Sal_37:36él pasó...lo busqué, y no fue halladoH1245
+- Sal_38:12los que buscan mi vida arman lazosH1245
+- Sal_40:14los que buscan mi vida para destruirlaH1245
+- Sal_40:16y alégrense todos los que te buscanH1245
+- Sal_53:2si había algún entendido que buscaraH1875
+- Sal_54:3hombres violentos buscan mi vidaH1245
+- Sal_63:1de madrugada te buscaré; mi alma tieneH7836
+- Sal_63:9los que...buscaron mi alma caerán en losH1245
+- Sal_69:6no sean confundidos...los que te buscanH1245
+- Sal_69:32buscad a Dios, y vivirá vuestro corazónH1875
+- Sal_70:2y confundidos los que buscan mi vidaH1245
+- Sal_70:4gócense...en ti todos los que te buscanH1245
+- Sal_71:13de confusión los que mi mal buscanH1245
+- Sal_77:2al Señor busqué en el día de mi angustiaH1875
+- Sal_78:34si los hacía morir...buscaban a DiosH1875
+- Sal_83:16de vergüenza, y busquen tu nombre, ohH1245
+- Sal_86:14y conspiración de...ha buscado mi vidaH1245
+- Sal_104:21rugen para buscar de Dios su comidaH1245
+- Sal_105:3el corazón de los que buscan a JehováH1245
+- Sal_105:4buscad a Jehová...b siempre su rostroH1875
+- Sal_111:2buscadas de todos los que las quierenH1875
+- Sal_119:2los que...con todo el corazón le buscanH1875
+- Sal_119:10con todo mi corazón te he buscadoH1875
+- Sal_119:45andaré en...busqué tus mandamientosH1875
+- Sal_119:94porque he buscado tus mandamientosH1875
+- Sal_119:155los impíos...no buscan tus estatutosH1875
+- Sal_119:176busca a tu siervo, porque no me heH1245
+- Sal_122:9por amor a la casa de...buscaré tu bienH1245
+- Pro_1:28buscarán de mañana, y no me hallaránH7636
+- Pro_2:4si como a la plata la buscares, y laH1245
+- Pro_7:15buscando diligentemente tu rostro, yH1245
+- Pro_8:17me hallan los que temprano me buscanH1245
+- Pro_11:27el que procura el bien buscará favorH7836
+- Pro_11:27al que busca el mal, éste le vendráH1875
+- Pro_14:6busca el escarnecedor la sabiduría y noH1245
+- Pro_15:14corazón entendido busca la sabiduríaH1245
+- Pro_17:9el que cubre la falta busca amistadH1245
+- Pro_17:11el rebelde no busca sino el mal, yH1245
+- Pro_17:19el que abre...la puerta busca su ruinaH1245
+- Pro_18:1su deseo busca el que se desvía, y seH1245
+- Pro_18:15el oído de los sabios busca la cienciaH1245
+- Pro_19:6muchos buscan el favor del generoso, y
+- Pro_19:7buscará la palabra, y no la hallaráH7291
+- Pro_21:6aliento fugaz de aquellos que buscan laH1245
+- Pro_23:30para los que van buscando la misturaH2713
+- Pro_23:35despertare, aún lo volveré a buscarH1245
+- Pro_25:27ni el buscar la...gloria es gloriaH2714
+- Pro_28:5mas los que buscan a Jehová entiendenH1245
+- Pro_29:10los rectos buscan su contentamientoH1245
+- Pro_29:26muchos buscan el favor del príncipeH1245
+- Pro_31:13busca lana...con voluntad trabaja conH1875
+- Ecl_1:13mi corazón a...a buscar con sabiduríaH1875
+- Ecl_3:6tiempo de buscar, y tiempo de perderH1245
+- Ecl_7:28aún busca mi alma, y no lo encuentraH1245
+- Ecl_7:29pero ellos buscaron muchas perversionesH1245
+- Ecl_8:17por mucho que trabaje...buscándola, noH1245
+- Cnt_3:1busqué...al que ama mi alma: lo b yH1245
+- Cnt_3:2buscaré al que ama mi alma; lo busquéH1245
+- Cnt_5:6lo busqué, y no lo hallé; lo llamé, yH1245
+- Cnt_6:1¿a dónde se...y lo buscaremos contigo?[[H1245]]
+- Isa_1:17buscad el juicio,...haced justicia alH1875
+- Isa_9:13no...ni buscó a Jehová de los ejércitosH1875
+- Isa_11:10la raíz de...será buscada por las gentesH1875
+- Isa_16:5se sentará...juzgue y busque el juicioH1875
+- Isa_26:9madrugaré a buscarte; porque luego queH7836
+- Isa_26:16Jehová, en la tribulación te buscaronH6485
+- Isa_31:1no miran al Santo...ni buscan a JehováH1875
+- Isa_40:20busca un maestro sabio, que le haga unaH1245
+- Isa_41:12buscarás a los que tienen contiendaH1245
+- Isa_41:17menesterosos buscan las aguas, y no lasH1245
+- Isa_45:19no dije a...Jacob: En vano me buscáisH1245
+- Isa_51:1oídme, los que...los que buscáis a JehováH1245
+- Isa_55:6buscad a Jehová mientras...ser halladoH1875
+- Isa_56:11siguen sus...buscando cada uno su propioH6437
+- Isa_58:2que me buscan cada día, y quieren saberH1875
+- Isa_58:3buscáis vuestro propio gusto, y oprimísH4672
+- Isa_58:13ni buscando tu voluntad, ni hablandoH4672
+- Isa_65:1fui buscado por los que no preguntabanH1875
+- Isa_65:1fui hallado por los que no me buscabanH1245
+- Isa_65:10de Acor...para mi pueblo que me buscóH1875
+- Jer_2:24los que la buscaren no se fatigaránH1245
+- Jer_4:30te menospreciarán tus...buscarán tu vidaH1245
+- Jer_5:1buscad en sus...a ver si halláis hombreH1245
+- Jer_5:1mirad...si hay alguno...que busque verdadH1245
+- Jer_9:17plañideras...buscad a las hábiles en suH7971
+- Jer_10:21los pastores...y no buscaran a JehováH1875
+- Jer_11:21varones de Anatot que buscan tu vidaH1245
+- Jer_19:7las manos de los que buscan sus vidasH1245
+- Jer_19:9; Jer_21:7mano...de los que buscan sus vidasH1245
+- Jer_22:25en mano de los que buscan tu vida, yH1245
+- Jer_29:13me buscaréis y me hallaréis, porqueH1875
+- Jer_29:13me buscaréis de todo vuestro corazónH1245
+- Jer_30:14enamorados te olvidaron; no te buscanH1875
+- Jer_34:20-21en mano de los que buscan su vidaH1245
+- Jer_38:4hombre no busca la paz de este puebloH1875
+- Jer_38:16en mano de estos varones que buscan tuH1245
+- Jer_44:30yo entrego a Faraón...que buscan su vidaH1245
+- Jer_44:30entregué a Sedequías...buscaba su vidaH1245
+- Jer_45:5y tú buscas...grandezas? No las busquesH1245
+- Jer_46:26en mano de los que buscan su vida, enH1245
+- Jer_49:37Elam se intimide...de los que buscan suH1245
+- Jer_50:4irán andando y llorando, y buscarán aH1245
+- Jer_50:20la maldad de Israel será buscada, y noH1245
+- Lam_1:11todo su pueblo buscó su pan suspirandoH1245
+- Lam_1:19buscando comida para sí con que,...su vidaH1245
+- Lam_3:25bueno es Jehová...al alma que le buscaH1875
+- Lam_3:40y busquemos, y volvámonos a JehováH2664
+- Eze_7:25destrucción viene; y buscarán la pazH1245
+- Eze_7:26buscarán respuesta del profeta, mas laH1245
+- Eze_22:30y busqué...hombre que hiciese valladoH1245
+- Eze_26:21serás buscada, y nunca...serás halladaH1245
+- Eze_34:4ni buscasteis la perdida, sino que osH1245
+- Eze_34:6perdidas...y no hubo quien las buscaseH1245
+- Eze_34:8ni mis pastores buscaron mis ovejasH1875
+- Eze_34:11yo, yo mismo iré a buscar mis ovejasH1239
+- Eze_34:16buscaré la perdida, y haré volver alH1245
+- Dan_2:13buscaron a Daniel y a sus compañerosH1158
+- Dan_4:36y mis consejeros me buscaron, y fuiH1158
+- Dan_6:4buscaban ocasión para acusar a Daniel enH1158
+- Dan_9:3volví mi rostro a...buscándole en oraciónH1245
+- Ose_2:7seguirá...los buscará, y no los hallaráH1245
+- Ose_3:5buscarán a Jehová su Dios, y a David suH1245
+- Ose_5:6con sus vacas andarán buscando a JehováH1245
+- Ose_5:15reconozcan su pecado y busquen mi rostroH1245
+- Ose_5:15mi rostro. En su angustia me buscaránH7836
+- Ose_7:10a Jehová...ni lo buscaron con todo estoH1245
+- Ose_10:12porque es el tiempo de buscar a JehováH1875
+- Amó_5:4así dice Jehová...Buscadme, y viviréisH1875
+- Amó_5:5y no busquéis a Bet-el, ni entréis enH1875
+- Amó_5:6buscad a Jehová, y vivid; no sea queH1875
+- Amó_5:8buscad al que hace las Pléyades...Orión
+- Amó_5:14buscad lo bueno, y no lo malo, para queH1875
+- Amó_8:12errantes...buscando palabra de JehováH1875
+- Amó_9:3allí los buscaré y los tomaré y aunqueH2664
+- Abd_1:6sus tesoros escondidos fueron buscadosH1156
+- Miq_7:14busque pasto en Basán y Galaad como
+- Nah_3:7¿dónde te buscaré consoladores?[[H1245]]
+- Nah_3:11buscarás refugio a causa del enemigoH1245
+- Sof_1:6los que no buscaron a Jehová, ni leH1245
+- Sof_2:3buscad a Jehová todos los humildes deH1245
+- Sof_2:3buscad justicia, b mansedumbre; quizáH1245
+- Hag_1:9buscáis...y halláis poco...lo disiparéH6437
+- Zac_8:21a buscar a Jehová de los ejércitosH1245
+- Zac_8:22y vendrán...naciones a buscar a JehováH1245
+- Zac_11:16ni buscará la pequeña, ni curará laH1245
+- Mal_2:7de su boca el pueblo buscará la leyH1245
+- Mal_2:15porque buscaba una descendencia paraH1245
+- Mal_3:1vendrá...Señor a quien vosotros buscáisH1245
+- Mat_2:13Herodes buscará al niño para matarloG2212
+- Mat_6:32los gentiles buscan todas estas cosasG1934
+- Mat_6:33buscad primeramente el reino de Dios yG2212
+- Mat_7:7buscad, y hallaréis; llamad...os abriráG2212
+- Mat_7:8el que busca, halla y al que llama, seG2212
+- Mat_12:43anda...buscando reposo, y no lo hallaG2212
+- Mat_13:45a un mercader que busca buenas perlasG2212
+- Mat_18:12a buscar la que se había descarriado?[[G2212]]
+- Mat_21:46al buscar cómo echarle mano, temían alG2212
+- Mat_26:16buscaba oportunidad para entregarleG2212
+- Mat_26:59el concilio, buscaban falso testimonioG2212
+- Mat_28:5yo sé que buscáis a Jesús, el que fueG2212
+- Mar_1:36y le buscó Simón, y los que con élG2614
+- Mar_1:37hallándole, le dijeron: Todos te buscanG2212
+- Mar_3:32tus hermanos están afuera, y te buscanG2212
+- Mar_11:18lo oyeron los...y buscaban cómo matarleG2212
+- Mar_14:1buscaban...los escribas cómo prenderleG2212
+- Mar_14:11buscaba oportunidad para entregarleG2212
+- Mar_14:55todo el concilio buscaban testimonioG2212
+- Mar_16:6buscáis a Jesús...que fue crucificadoG2212
+- Luc_2:44y le buscaban entre los parientes yG327
+- Luc_2:45pero...volvieron a Jerusalén buscándoleG2212
+- Luc_2:48he aquí, tu padre y yo te hemos buscadoG2212
+- Luc_2:49él les dijo: ¿Por qué me buscabais?[[G2212]]
+- Luc_4:42la gente le buscaba, y llegando a dondeG2212
+- Luc_11:9buscad, y hallaréis; llamad, y se osG2212
+- Luc_11:10y el que busca, halla, y al que llamaG2212
+- Luc_11:24anda...buscando reposo; y no hallándoloG2212
+- Luc_12:30todas estas cosas buscan las gentes delG1934
+- Luc_12:31mas buscad el reino de Dios, y todasG2212
+- Luc_13:6y vino a buscar fruto en ella, y no loG2212
+- Luc_13:7vengo a buscar fruto en esta higueraG2212
+- Luc_15:8busca con diligencia hasta encontrarla?[[G2212]]
+- Luc_19:10el Hijo...vino a buscar y a salvar lo queG2212
+- Luc_22:2buscaban cómo matarle; porque temían alG2212
+- Luc_22:6buscaba una oportunidad...entregárseloG2212
+- Luc_24:5¿por qué buscáis entre los muertos alG2212
+- Jua_1:38y volviéndose Jesús...¿Qué buscáis?[[G2212]]
+- Jua_4:23el Padre tales adoradores busca que leG2212
+- Jua_5:30no busco mi voluntad, sino la voluntadG2212
+- Jua_5:44no buscáis la gloria que viene del DiosG2212
+- Jua_6:24y fueron a Capernaum, buscando a JesúsG2212
+- Jua_6:26me buscáis, no porque habéis visto lasG2212
+- Jua_7:11y le buscaban los judíos en la fiestaG2212
+- Jua_7:18el que habla por...su propia gloria buscaG2212
+- Jua_7:18el que busca la gloria del que le envióG2212
+- Jua_7:25no es éste a quien buscan para matarle?[[G2212]]
+- Jua_7:34, Jua_7:36me buscaréis, y no me hallaréis; y aG2212
+- Jua_8:21dijo Jesús: Yo me voy, y me buscaréisG2212
+- Jua_8:50no busco mi gloria; hay quien la buscaG2212
+- Jua_11:56buscaban a Jesús, y...se preguntabanG2212
+- Jua_13:33buscaréis; pero como dije a los judíosG2212
+- Jua_18:4adelantó y les dijo: ¿A quién buscáis?[[G2212]]
+- Jua_18:7volvió...preguntarles: ¿A quién buscáis?[[G2212]]
+- Jua_18:8si me buscáis a mí, dejad ir a éstosG2212
+- Jua_20:15¿por qué lloras? ¿A quién buscas?[[G2212]]
+- Hec_6:3buscad, pues...de entre vosotros a 7G1980
+- Hec_9:11busca en casa de Judas a uno...Saulo, deG2212
+- Hec_10:19dijo...He aquí, tres hombres te buscanG2212
+- Hec_10:21soy el que buscáis; ¿cuál es la causaG2212
+- Hec_11:25fue Bernabé a Tarso para buscar a SauloG327
+- Hec_12:19mas Herodes, habiéndole buscado sinG1934
+- Hec_13:11buscaba quien le condujese de la manoG2212
+- Hec_15:17para que el resto de...busque al SeñorG1567
+- Hec_17:27para que busquen a Dios, si en algunaG2212
+- Rom_2:7a los que, perseverando...buscan gloriaG2212
+- Rom_3:11entienda, no hay quien busque a DiosG1567
+- Rom_10:20fui hallado de los que no me buscabanG2212
+- Rom_11:7¿qué pues? Lo que buscaba Israel, no loG1934
+- 1Co_1:22judíos...los griegos buscan sabiduríaG2212
+- 1Co_10:24ninguno busque su propio bien, sino elG2212
+- 1Co_13:5no busca lo suyo, no se irrita...rencorG2212
+- 2Co_12:14porque no busco lo vuestro, sinoG2212
+- 2Co_13:3buscáis una prueba de que habla CristoG2212
+- Gál_1:10¿busco ahora el favor de los hombresG2212
+- Gál_2:17si buscando ser justificados en CristoG2212
+- Flp_2:21todos buscan lo suyo propio, no lo queG2212
+- Flp_4:17no es que busque dádivas...busco frutoG1934
+- Col_3:1buscad las cosas de arriba, donde estáG2212
+- 1Ts_2:6ni buscamos gloria de los hombresG2212
+- 2Ti_1:17me buscó solícitamente y me hallóG2212
+- Heb_11:6es galardonador de los que le buscanG1567
+- Heb_11:14dan a entender que buscan una patriaG1934
+- Heb_13:14una ciudad...que buscamos la por venirG1934
+- 1Pe_3:11el mal, y haga el bien; busque la pazG2212
+- 1Pe_5:8diablo..., anda alrededor buscando a quienG2212
+- Rev_9:6en aquellos días...buscarán la muerteG2212

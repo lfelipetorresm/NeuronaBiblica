@@ -1,0 +1,373 @@
+---
+tipo: concordancia
+palabra: PRIMERO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRIMERO, A
+
+- Gén_8:5el p del mes, se descubrieron las cimasH259
+- Gén_8:13en el mes p, el día p del mes, las aguasH7223
+- Gén_10:8Nimrod, quien llegó a ser el p poderoso
+- Gén_25:25y salió el p rubio, y era todo velludoH7223
+- Gén_26:1además de la p hambre que hubo en losH7223
+- Gén_28:19aunque Luz era el nombre de la ciudad pH7223
+- Gén_32:17y mandó al p...Si Esaú mi hermano teH7223
+- Gén_38:28ató a su mano...diciendo: Este salió pH7223
+- Gén_41:20vacas flacas...devoraban a las siete pH7223
+- Gén_41:50antes que viniese el p año del hambre
+- Gén_43:18por el dinero que fue devuelto...p vezH8462
+- Éxo_4:8ni obedecieren a la voz de la p señalH7223
+- Éxo_12:2mes...será éste el p en los meses del añoH7223
+- Éxo_12:15el p día haréis que no haya levadura enH7223
+- Éxo_12:15comiere leudado desde el p día hasta elH7223
+- Éxo_12:16el p día habrá santa convocación, yH7223
+- Éxo_12:18mes p comeréis los panes sin levaduraH7223
+- Éxo_13:12asimismo todo p nacido de tus animalesH6363
+- Éxo_23:16p frutos de tus labores, que hubieresH1061
+- Éxo_23:19de los p frutos...traerás a la casa deH7225
+- Éxo_26:4de la última cortina de la p unión; lo
+- Éxo_26:5cincuenta lazadas harás en la p cortina
+- Éxo_34:1alísate dos tablas de piedra como las pH7223
+- Éxo_34:1las palabras que estaban en las tablas pH7223
+- Éxo_34:4alisó dos tablas de piedra como las pH7223
+- Éxo_34:19todo p nacido, mío es; y de tu ganadoH6363
+- Éxo_34:26primicias de los p frutos de tu tierraH7223
+- Éxo_36:11hizo lazadas...al extremo de la p serie
+- Éxo_36:12cincuenta lazadas hizo en la p cortina
+- Éxo_36:17cortina final al extremo de la p serie
+- Éxo_39:10la p hilera era un sardio...la p hileraH259
+- Éxo_40:2en el p día del mes p harás levantar elH259
+- Éxo_40:17el día p del p mes, en el segundo añoH259
+- Lev_4:21y lo quemará como quemó el p becerroH7223
+- Lev_5:8cual ofrecerá p el que es para expiaciónH7223
+- Lev_9:15y lo ofreció por el pecado como el pH7223
+- Lev_19:23incircunciso lo p de su fruto; 3 años
+- Lev_23:5el mes p, a los catorce del mes, entreH7223
+- Lev_23:7p día tendréis santa convocación; ningúnH7223
+- Lev_23:10traeréis...por primicia de los p frutosH7225
+- Lev_23:24al p del mes tendréis día de reposo, unaH259
+- Lev_23:35p día habrá santa convocación; ningúnH7223
+- Lev_23:39p día será de reposo, y el octavo díaH7223
+- Lev_23:40y tomaréis el p día ramas con fruto deH7223
+- Núm_1:1habló Jehová...el día p del mes segundoH259
+- Núm_1:18reunieron a...en el día p del mes segundoH259
+- Núm_3:12los p nacidos entre los hijos de IsraelH1060
+- Núm_6:12y los días p serán anulados, por cuantoH1121
+- Núm_7:12y el que ofreció, el p día fue NaasonH7223
+- Núm_8:16son dedicados...en lugar de todo p nacidoH1060
+- Núm_9:1habló Jehová a Moisés...mes p, diciendoH7223
+- Núm_9:5celebraron la pascua en el mes p, a losH7223
+- Núm_10:13partieron la p vez al mandato de JehováH7223
+- Núm_10:14bandera...de Judá comenzó a marchar pH7223
+- Núm_13:20cómo es...Y era el tiempo de las p uvas
+- Núm_15:20lo p que amaséis, ofreceréis una tortaH7225
+- Núm_20:1llegaron...desierto de Zin, en el mes pH7223
+- Núm_24:1Balaam...no fue, como la p y segunda vez
+- Núm_28:16en el mes p...será la pascua de JehováH7223
+- Núm_28:18p día será santa convocación; ningunaH7223
+- Núm_29:1p del mes, tendréis santa convocaciónH259
+- Núm_33:3de Ramesés salieron en el mes p, a losH7223
+- Núm_33:3salieron...a los quince días del mes pH7223
+- Núm_33:38el sacerdote Aarón...murió...el p del mesH259
+- Deu_1:3p del mes, Moisés habló a los...de IsraelH259
+- Deu_10:1lábrate dos tablas de piedra como las pH7223
+- Deu_10:2las palabras que estaban en las p tablasH7223
+- Deu_10:3labré dos tablas de...como las p, y subíH7223
+- Deu_10:4escribió en...conforme a la p escrituraH7223
+- Deu_10:10yo estuve en el monte como los p díasH7223
+- Deu_13:9tu mano se alzará p sobre él para matarleH7223
+- Deu_16:4carne que matares en la tarde del p díaH7223
+- Deu_17:7la mano de los testigos caerá p sobre élH7223
+- Deu_24:4no podrá su p marido...volverla a tomarH7223
+- Jos_4:19pueblo subió...el día diez del mes pH7223
+- Jos_8:6dirán: Huyen de nosotros como la p vezH7223
+- Jos_21:10para ellos fue la suerte en p lugarH7223
+- Jue_1:1¿quién...subirá p a pelear contra losH8462
+- Jue_20:18¿quién subirá...el p en la guerra contraH8462
+- Jue_20:18y Jehová respondió: Judá será el pH8462
+- Jue_20:22lugar donde la habían ordenado el p díaH7223
+- Jue_20:39ellos han caído...como en la p batallaH7223
+- Rut_3:10mejor tu postrera bondad que la p, noH7223
+- 1Sa_2:16quemen la grosura p, y después toma
+- 1Sa_14:14la p matanza que hicieron Jonatán y suH7223
+- 1Sa_14:35este altar fue el p que edificó a JehováH2490
+- 2Sa_3:13no me vengas a ver...p traigas a MicalH6440
+- 2Sa_18:27parece el correr del p como el correrH7223
+- 2Sa_19:20he venido...el p de toda la casa de JoséH7223
+- 2Sa_19:43¿no hablamos...los p, respecto de hacerH7223
+- 2Sa_21:9siete...muertos en los p días de la siegaH7223
+- 2Sa_23:19ser su jefe; mas no igualó a los tres p
+- 2Sa_23:23renombrado...pero no igualó a los tres p
+- 1Re_7:6este pórtico estaba delante de las p
+- 1Re_17:13pero hazme a mí p...una pequeña tortaH7223
+- 1Re_18:25y preparadlo vosotros p, pues que soisH7223
+- 1Re_20:17y los siervos de los...salieron los pH7223
+- 2Re_1:14y ha consumido a los dos p capitanesH7223
+- 2Re_25:18tomó entonces...al p sacerdote Seraías
+- 2Re_25:27p año de su reinado, libertó a Joaquín
+- 1Cr_9:2los p...que entraron en sus posesionesH7223
+- 1Cr_11:6que p derrote a los jebuseos será...jefeH7223
+- 1Cr_11:6Joab hijo...subió el p, y fue hecho jefeH7223
+- 1Cr_11:21, 1Cr_11:25el más...pero no igualó a los tres p
+- 1Cr_12:9Ezer el p, Obadías el segundo, Eliab elH7218
+- 1Cr_12:15éstos pasaron el Jordán en el mes pH7223
+- 1Cr_15:13pues por no haberlo hecho así la p vezH7223
+- 1Cr_16:5Asaf el p; el segundo después...ZacaríasH7218
+- 1Cr_23:8los hijos de Laadán, tres: Jehiel el pH7218
+- 1Cr_23:11Jahat era el p, y Zina el segundo; peroH7218
+- 1Cr_24:7la p suerte tocó a Joiarib, la segunda aH7223
+- 1Cr_25:9la p suerte salió por Asaf, para JoséH7223
+- 1Cr_27:2sobre la p división del p mes...JasobeamH7223
+- 1Cr_27:3él fue jefe de...las compañías del p mesH7223
+- 1Cr_29:29los hechos del rey David, p y postrerosH7223
+- 2Cr_3:3la p, la longitud, de sesenta codosH7223
+- 2Cr_9:29demás hechos de Salomón, p y postrerosH7223
+- 2Cr_12:15las cosas de Roboam, p y postreras, ¿noH7223
+- 2Cr_16:11los hechos de Asa, p y postreros, estánH7223
+- 2Cr_17:3porque anduvo en los p caminos de DavidH7223
+- 2Cr_20:34demás hechos de Josafat, p y postrerosH7223
+- 2Cr_25:26hechos de Amasías, p y postreros, ¿noH7223
+- 2Cr_26:22demás hechos de Uzías, p y postrerosH7223
+- 2Cr_28:26todos sus caminos, p y postreros, heH7223
+- 2Cr_29:3en el p año de su reinado, en el mes pH7223
+- 2Cr_29:17a santificarse el día p del mes p, yH7223
+- 2Cr_29:17y en el día 16 del mes p terminaronH7223
+- 2Cr_35:1la pascua a los catorce días del mes pH7223
+- 2Cr_35:27y sus hechos, p y postreros, he aquíH7223
+- 2Cr_36:22mas al p año de Ciro rey de los persasH259
+- Esd_1:1el p año de Ciro rey de Persia, paraH259
+- Esd_3:6desde el p día del mes séptimo comenzaronH259
+- Esd_3:12muchos de...que habían visto la casa pH7223
+- Esd_5:13en el año p de Ciro rey de Babilonia, elH2298
+- Esd_6:3el año p del rey Ciro, el mismo rey CiroH2298
+- Esd_6:19la pascua a los catorce días del mes pH7223
+- Esd_7:5de Eleazar, hijo de Aarón, p sacerdoteH7218
+- Esd_7:9el día p del mes fue el principio de laH259
+- Esd_7:9y al p del mes quinto llegó a JerusalénH7223
+- Esd_8:31partimos...el doce del mes p, para ir aH7223
+- Esd_9:2mano...ha sido la p en cometer este pecadoH7223
+- Esd_10:16sentaron el p día del mes décimo paraH259
+- Esd_10:17terminaron el juicio...p día del mes pH259
+- Neh_5:15los p gobernadores que fueron antesH7223
+- Neh_8:2trajo la ley...el p día del mes séptimoH259
+- Neh_8:18y leyó...desde el p día hasta el últimoH7223
+- Est_1:14príncipes...sentaban los p del reinoH7223
+- Est_3:7en el mes p, que es el mes de Nisán, enH7223
+- Est_3:12escribanos del rey en el mes p, al díaH7223
+- Job_8:12con todo, se seca p que toda hierbaH6440
+- Job_15:7¿naciste tú p que Adán...formado antesH7223
+- Job_41:11¿quién me ha dado a mí p, para que yo
+- Job_42:12bendijo...postrer estado...más que el pH7225
+- Job_42:14llamó el nombre de la p, Jemima, el deH7223
+- Pro_18:17justo parece el p que aboga...causaH7223
+- Isa_9:1la p vez a la tierra de Zabuló y a laH7223
+- Isa_28:4la fruta temprana, la p del verano, laH7223
+- Isa_41:4yo Jehová, el p, y yo...con los postrerosH7223
+- Isa_41:27yo soy el p que he enseñado estas cosasH7223
+- Isa_42:9se cumplieron las cosas p, y yo anuncioH7223
+- Isa_43:9¿quién de...que nos haga oír las cosas p?[[H7223]]
+- Isa_43:27tu p padre pecó, y tus enseñadoresH7223
+- Isa_44:6soy el p, y yo soy el postrero, y fueraH7223
+- Isa_48:12yo mismo...el p, yo también el postreroH7223
+- Isa_61:4levantarán los asolamientos p...ciudadesH7223
+- Isa_65:16porque las angustias p serán olvidadasH7223
+- Isa_65:17yo crearé...y de lo p no habrá memoriaH7223
+- Jer_11:10han vuelto a las maldades de sus p
+- Jer_16:18pero p pagaré al doble su iniquidad y su pecado
+- Jer_25:1el cual era el año p de Nabucodonosor reyH7224
+- Jer_34:5como quemaron especias por...los reyes pH7223
+- Jer_36:28las palabras p que estaban en el p rolloH7223
+- Jer_50:17es Israel...el rey de Asiría lo devoró pH7223
+- Jer_52:31el año p de su reinado, alzó la cabeza
+- Eze_10:11lugar adonde se volvía la p, en pos
+- Eze_10:14la p era rostro de querubín; la segundaH259
+- Eze_16:55con sus hijas, volverán a su p estadoH6927
+- Eze_16:55también...volveréis a vuestro p estadoH6927
+- Eze_23:16se enamoró de ellos a p vista, y les
+- Eze_26:1aconteció...el día p del mes, que vinoH259
+- Eze_29:17aconteció...el mes p, el día p del mesH7223
+- Eze_30:20en el mes p, a los siete días del mesH7223
+- Eze_31:1el día p del mes, que vino a mí palabraH259
+- Eze_32:1el día p del mes, que vino a mí palabra de JehováH259
+- Eze_40:21eran como la medida de la puerta p; 50H7223
+- Eze_44:30y las primicias de todos los p frutosH7225
+- Eze_45:18el mes p, el día p del mes, tomarás deH7223
+- Eze_45:21el mes p, a los catorce días del mesH7223
+- Dan_1:21y continuó Daniel hasta el año p delH259
+- Dan_7:1en el p año de Belsasar rey de BabiloniaH2298
+- Dan_7:4p era como león, y tenía alas de águilaH6933
+- Dan_7:8fueron arrancados tres cuernos de los pH6933
+- Dan_7:24otro, el cual será diferente de los pH6933
+- Dan_8:21el cuerno grande que tenía...es el rey pH7223
+- Dan_9:1en el año p de Darío hijo de Asuero, deH259
+- Dan_9:2en el año p de su reinado, yo Daniel miréH259
+- Dan_10:4el día veinticuatro del mes p estaba yoH7223
+- Dan_10:12el p día que dispusiste tu corazón aH7223
+- Dan_11:1el año p de Darío el medo, estuve paraH259
+- Dan_11:13en campaña una multitud mayor que la pH7223
+- Dan_11:29no será la postrera venida como la pH7223
+- Ose_2:7iré y me volveré a mi p marido; porqueH7223
+- Joe_2:23os ha dado la p lluvia a su tiempo, yH7223
+- Miq_4:8hasta ti vendrá el señorío p, el reinoH7223
+- Miq_7:1para comer; mi alma deseó los p frutos
+- Hag_1:1p día del mes, vino palabra de JehováH259
+- Hag_2:3que haya visto esta casa en su gloria pH7223
+- Hag_2:9la gloria postrera...será mayor que la pH7223
+- Zac_1:4a los cuales clamaron los p profetasH7223
+- Zac_4:7él sacará la p piedra con aclamaciones deH7222
+- Zac_6:2en el p carro había caballos alazanes, enH7223
+- Zac_7:7proclamó Jehová por medio de...profetas p
+- Zac_7:12enviaba por...por medio de los profetas pH7223
+- Zac_12:7y librará Jehová las tiendas de Judá pH7223
+- Zac_14:10hasta el lugar de la puerta p, hastaH7223
+- Mat_5:24anda, reconcíliate p con tu hermanoG4412
+- Mat_7:5saca p la viga de tu propio ojo...verasG4412
+- Mat_8:21permíteme...vaya p y entierre a mi padreG4412
+- Mat_10:2estos: p Simón, llamado Pedro, y AndrésG4413
+- Mat_12:29entrar en la casa del...si p no le ata?[[G4412]]
+- Mat_12:45el postrer estado...a ser peor que el pG4413
+- Mat_13:30diré a...Recoged p la cizaña, y atadlaG4412
+- Mat_14:8instruida p por su madre, dijo: Dame aquíG4264
+- Mat_17:10dicen...es necesario que Elías venga p?[[G4412]]
+- Mat_17:11Elías viene p, y restaurará todas lasG4412
+- Mat_17:25le habló p, diciendo: ¿Qué te pareceG4399
+- Mat_17:27p pez que saques, tómalo, y al abrirleG4413
+- Mat_19:30muchos p serán postreros, y postreros, pG4412
+- Mat_20:8comenzando...los postreros hasta los pG4413
+- Mat_20:10al venir también los p, pensaron queG4413
+- Mat_20:16p serán postreros, y los postreros pG4413
+- Mat_20:27el que quiera ser el p entre vosotrosG4413
+- Mat_21:28y acercándose al p, le dijo: Hijo, véG4413
+- Mat_21:31hizo la voluntad de...Dijeron ellos: El pG4413
+- Mat_21:36de nuevo otros siervos, más que los pG4413
+- Mat_22:25el p se casó, y murió; y no teniendoG4413
+- Mat_22:38este es el p y grande mandamientoG4413
+- Mat_23:6y aman los p asientos...y las p sillasG4411
+- Mat_23:26limpia p lo de dentro del vaso y delG4412
+- Mat_26:17el p día de la fiesta de los panes sinG4413
+- Mat_27:64y será el postrer error peor que el pG4413
+- Mat_28:1día...al amanecer del p día de la semanaG3391
+- Mar_4:28p hierba, luego espiga, después granoG4412
+- Mar_7:27deja p que se sacien los hijos, porqueG4412
+- Mar_9:11dicen...es necesario que Elías venga p?[[G4412]]
+- Mar_9:12Elías...vendrá p, y restaurará todas lasG4412
+- Mar_9:35si...quiere ser el p, será el postreroG4413
+- Mar_10:31p serán postreros, y los postreros, pG4413
+- Mar_10:44el que...quiera ser el p, será siervo de
+- Mar_12:20el p tomó esposa, y murió sin dejarG4413
+- Mar_12:28¿cuál es el p mandamiento de todos?[[G4413]]
+- Mar_12:29el p mandamiento...es: Oye, Israel; elG4413
+- Mar_12:39las p sillas...y los p asientos en lasG4410, [[G4411]]
+- Mar_14:12el p día de la fiesta de los panes sinG4413
+- Mar_16:2muy de mañana, el p día de la semanaG3391
+- Mar_16:9habiendo...resucitado...p día de la semanaG4413
+- Luc_2:2este p censo se hizo siendo...gobernadorG4413
+- Luc_6:42saca p la viga de tu...ojo, y entoncesG4412
+- Luc_9:59déjame que p vaya y entierre a mi padreG4412
+- Luc_9:61que me despida p de los que están en miG4412
+- Luc_11:26el postrer estado...ser peor que el pG4413
+- Luc_11:43que amáis las p sillas en las sinagogasG4410
+- Luc_13:30postreros que serán p, y p que seránG4413
+- Luc_14:7cómo escogían los p asientos a la mesaG4411
+- Luc_14:8no te sientes en el p lugar, no sea queG4411
+- Luc_14:18el p dijo: He comprado una hacienda, yG4413
+- Luc_14:28no se sienta p y calcula los gastos, aG4412
+- Luc_14:31rey, no se sienta p y considera si puedeG4412
+- Luc_16:5amo, dijo al p: ¿Cuánto debes a mi amo?[[G4413]]
+- Luc_17:25pero p es necesario que padezca muchoG4412
+- Luc_19:16vino el p, diciendo: Señor, tu mina haG4413
+- Luc_20:29y el p tomó esposa, y murió sin hijosG4413
+- Luc_20:46las p sillas...y los p asientos en lasG4411
+- Luc_21:9necesario que estas cosas acontezcan pG4412
+- Luc_24:1el p día de la semana, muy de mañanaG3891
+- Jua_1:15, Jua_1:30antes de mí; porque era p que yoG1715, [[G4413]]
+- Jua_1:41éste halló p a su hermano Simón, y leG4413
+- Jua_2:10dijo: Todo hombre sirve p el buen vinoG4412
+- Jua_5:4y el que p descendía al...quedaba sano deG4413
+- Jua_6:62viereis al Hijo...subir adonde estaba p?[[G4386]]
+- Jua_7:51¿juzga...ley a un hombre si p no le oye
+- Jua_8:7sea el p en arrojar la piedra contra ellaG4413
+- Jua_10:40donde p había estado bautizando JuanG4412
+- Jua_19:32soldados, y quebraron las piernas al pG4413
+- Jua_20:1el p día de la semana, María MagdalenaG3391
+- Jua_20:4corrió más aprisa...llegó p al sepulcroG4413
+- Jua_20:8entró el...que había venido p al sepulcroG4413
+- Jua_20:19de aquel mismo día, el p de la semanaG3391
+- Hec_1:1en el p tratado, oh Teófilo, habléG4413
+- Hec_7:12trigo...envió a nuestros padres la p vezG4412
+- Hec_11:26se les llamó cristianos por p vez enG4412
+- Hec_12:10habiendo pasado la p...segunda guardiaG4413
+- Hec_13:46que se os hablase p la palabra de DiosG4412
+- Hec_15:14Dios visitó por p vez a los gentilesG4412
+- Hec_16:12y de allí a Filipos, que es la p ciudadG4413
+- Hec_20:7el p día de la semana, reunidos losG3391
+- Hec_20:18cómo me he comportado...desde el p díaG4413
+- Hec_26:23y ser el p de la resurrección de losG4413
+- Hec_27:43se echasen los p, y saliesen a tierraG4413
+- Rom_3:2p...que les ha sido confiada la palabraG4412
+- Rom_11:35quién le dio a él p, para que le fueseG4272
+- Rom_16:5a Epeneto...que es el p fruto de AcayaG536
+- 1Co_11:18en p lugar, cuando os reunís comoG4412
+- 1Co_14:30le fuere revelado a otro...calle el pG4413
+- 1Co_15:45hecho el p hombre Adán alma vivienteG4413
+- 1Co_15:46lo espiritual no es p, sino lo animalG4412
+- 1Co_15:47el p hombre es de la tierra, terrenalG4413
+- 1Co_16:2p día de la semana cada uno de vosotrosG3391
+- 2Co_1:15con esta confianza...ir p a vosotrosG4386
+- 2Co_8:12p hay la voluntad dispuesta, será aceptaG4295
+- 2Co_9:5exhortar a los hermanos que fuesen p aG4281
+- 2Co_9:5y preparasen p vuestra generosidad antesG4294
+- 2Co_10:14fuimos los p en llegar hasta vosotros
+- Efe_4:9sino que también había descendido p aG4412
+- Efe_6:2honra...es el p mandamiento con promesaG4413
+- Flp_1:5vuestra comunión en...desde el p díaG4413
+- 1Ts_4:16los muertos en Cristo resucitarán pG4412
+- 1Ti_1:15salvar a...de los cuales yo soy el pG4413
+- 1Ti_1:16mostrase en mí el p toda su clemenciaG4413
+- 1Ti_2:13porque Adán fue formado p, después EvaG4413
+- 1Ti_3:10sean sometidos a prueba p, y entoncesG4412
+- 1Ti_5:4aprendan éstos p a ser piadosos para conG4412
+- 1Ti_5:12condenación...haber quebrantado su p feG4413
+- 2Ti_1:5la cual habitó p en tu abuela LoidaG4412
+- 2Ti_2:6para participar de los...debe trabajar pG4413
+- 2Ti_4:16en mi p defensa ninguno estuvo a mi ladoG4413
+- Heb_4:6aquellos a quienes p se les anunció laG4386
+- Heb_5:12enseñar cuáles son los p rudimentos deG746
+- Heb_7:27necesidad...de ofrecer p sacrificios porG4386
+- Heb_8:7p hubiera sido sin defecto, ciertamenteG4413
+- Heb_8:13nuevo pacto, ha dado por viejo al pG4413
+- Heb_9:1aun el p pacto tenía ordenanzas de cultoG4413
+- Heb_9:2en la p parte...estaba el candelabro, laG4413
+- Heb_9:6en la p parte del tabernáculo entran losG4413
+- Heb_9:8p parte del tabernáculo estuviese en pieG4413
+- Heb_9:15de las transgresiones...bajo el p pactoG4413
+- Heb_9:18ni aun el p pacto fue instituido sinG4413
+- Heb_10:8diciendo p: Sacrificio y ofrendaG511
+- Heb_10:9quita lo p, para establecer esto últimoG4413
+- 1Pe_4:17y si p comienza por nosotros, ¿cuálG4412
+- 2Pe_1:20entendiendo p, que ningúna profecíaG4412
+- 2Pe_2:20su postrer estado...a ser peor que el pG4413
+- 2Pe_3:3sabiendo p esto: que en los postreros díasG4412
+- 1Jn_4:19le amamos a él, porque él nos amó pG4413
+- 3Jn_1:9Diótrefes...le gusta tener el p lugarG5383
+- Rev_1:11yo soy el Alta y la Omega, el p y elG4413
+- Rev_1:17él...No temas; yo soy el p y el últimoG4413
+- Rev_2:4tengo contra ti, que has dejado tu p amorG4413
+- Rev_2:5y arrepiéntete, y haz las p obras; puesG4413
+- Rev_2:8el p y el postrero, el que estuvo muertoG4413
+- Rev_2:19tus obras postreras son más que las pG4413
+- Rev_4:1y la p voz que oí, como de trompeta...dijoG4413
+- Rev_4:7el p ser viviente era semejante a un leónG4413
+- Rev_8:7p ángel tocó la trompeta, y hubo granizoG4413
+- Rev_9:12p ay pasó; he aquí, vienen aún dos ayes
+- Rev_13:12y ejerce...la autoridad de la p bestiaG4413
+- Rev_13:12hace que...adoren a la p bestia, cuyaG4413
+- Rev_16:2el p, y derramó su copa sobre la tierraG4413
+- Rev_20:5mil años. Esta es la p resurrecciónG4413
+- Rev_20:6el que tiene parte en la p resurrecciónG4413
+- Rev_21:1el p cielo y la p tierra pasaron, y elG4413
+- Rev_21:4ni dolor; porque las p cosas pasaronG4413
+- Rev_21:19el p cimiento era jaspe; el segundoG4413
+- Rev_22:13yo soy el Alfa y la Omega, el p y elG4413

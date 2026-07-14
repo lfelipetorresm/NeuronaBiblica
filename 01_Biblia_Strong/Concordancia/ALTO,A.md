@@ -1,0 +1,246 @@
+---
+tipo: concordancia
+palabra: ALTO,A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ALTO,A
+
+- Véase también el Apéndice
+- Gén_7:19todos los montes a...fueron cubiertosH1364
+- Gén_7:20Quince codos más a subieron las aguas
+- Gén_28:13he aquí Jehová estaba en lo a de ellaH5921
+- Éxo_26:24se juntarán por su a con un gozneH5921
+- Lev_26:30destruiré...lugares a, y derribaréH1116
+- Núm_33:52y destruiréis todos sus lugares aH1116
+- Deu_1:28pueblo es mayor y más a que nosotrosH7311
+- Deu_2:10, Deu_2:21pueblo grande y numeroso, y a comoH7311
+- Deu_3:5eran ciudades fortificadas con muros aH1364
+- Deu_9:2pueblo grande y a, hijos de los anaceosH7311
+- Deu_12:2sirvieron...dioses, sobre los montes aH7311
+- Deu_28:43extranjero...se elevará sobre ti muy aH4605
+- Deu_28:52sitio a...hasta que caigan tus muros aH1364
+- Jue_16:27y en el piso a...tres mil hombres
+- 1Sa_9:12tiene hoy un sacrificio en el lugar aH1116
+- 1Sa_9:13antes que suba al lugar a a comer; puesH1116
+- 1Sa_9:14he aquí Samuel venía...subir al lugar aH1116
+- 1Sa_9:19sube delante de mí al lugar a, y comeH1116
+- 1Sa_9:25cuando hubieron descendido del lugar aH1116
+- 1Sa_10:5de profetas que descienden del lugar aH1116
+- 1Sa_10:13cesó de profetizar, y llegó al lugar aH1116
+- 1Sa_10:23desde los...era más a que todo el puebloH1361
+- 1Sa_22:6Saúl estaba...de un tamarisco sobre un aH7414
+- 1Sa_28:12y viendo la mujer a...clamó en a voz, yH1419
+- 2Sa_2:25hicieron a en la cumbre del colladoH5975
+- 2Sa_15:23todo el país lloró en a voz; pasó luegoH1419
+- 2Sa_18:28Ahimaas dijo en a voz al rey: Paz
+- 2Sa_19:4mas el rey...clamaba en a voz: ¡Hijo míoH1419
+- 2Sa_22:3mi escudo, y el fuerte de...mi a refugioH4869
+- 2Sa_22:17envió desde lo a y me tomó; me sacóH4791
+- 2Sa_23:1dijo aquel varón que fue levantado en aH5920
+- 1Re_3:2el pueblo sacrificaba en los lugares aH1116
+- 1Re_3:3y quemaba incienso en los lugares aH1116
+- 1Re_3:4Gabaón...aquel era el lugar a principalH1116
+- 1Re_6:2sesenta codos de...y treinta codos de aH6967
+- 1Re_6:16de cedro desde el suelo hasta lo más aH7023
+- 1Re_7:35y en lo a de la basa había una piezaH7218
+- 1Re_7:41capiteles redondos que estaban en lo aH7218
+- 1Re_8:55bendijo a...Israel, diciendo en voz aH1419
+- 1Re_10:19la parte a era redonda por el respaldoH7218
+- 1Re_11:7edificó Salomón un lugar a a QuemosH1116
+- 1Re_12:31hizo...casas sobre los lugares a, e hizoH1116
+- 1Re_12:32ordenó...sacerdotes para los lugares aH1116
+- 1Re_13:2a los sacerdotes de los lugares a queH1116
+- 1Re_13:32contra todas las casas de los lugares aH1116
+- 1Re_13:33a hacer sacerdotes de los lugares a deH1116
+- 1Re_13:33fuese de...sacerdotes de los lugares aH1116
+- 1Re_14:23se edificaron lugares a, estatuas, eH1116
+- 1Re_14:23e imágenes de Asera, en todo collado aH1364
+- 1Re_15:14embargo, los lugares a no se quitaronH1116
+- 1Re_18:27diciendo: Gritad en a voz, porque diosH1419
+- 1Re_22:43los lugares a no fueron quitados; porqueH1116
+- 2Re_9:13lo puso debajo de Jehú en un trono aH1634
+- 2Re_12:3los lugares a no se quitaron, porque elH1116
+- 2Re_12:3pueblo aún sacrificaba...en los lugares aH1116
+- 2Re_14:4con todo eso, los lugares a no fueronH1116
+- 2Re_14:4pueblo...quemaba incienso en...lugares aH1116
+- 2Re_15:4los lugares a no se quitaron, porque elH1116
+- 2Re_15:4, 2Re_15:35y quemaba incienso en los lugares aH1116
+- 2Re_15:35los lugares a no fueron quitados, porqueH1116
+- 2Re_15:35edificó él la puerta más a de la casaH1116
+- 2Re_16:4quemó incienso en los lugares a, y sobreH1116
+- 2Re_17:9edificándose lugares a en...sus ciudadesH1116
+- 2Re_17:10estatuas...de Asera en todo collado aH1364
+- 2Re_17:11quemaron...incienso en...los lugares aH1116
+- 2Re_17:29los templos de los lugares a que habíanH1116
+- 2Re_17:32e hicieron...sacerdotes de los lugares aH1116
+- 2Re_17:32sacrificaban para ellos en...lugares aH1116
+- 2Re_18:4él quitó los lugares a, y quebró lasH1116
+- 2Re_18:22es éste aquel cuyos lugares a y altaresH1116
+- 2Re_19:22contra quién...levantado en a tus ojos?[[H4791]]
+- 2Re_19:23cortaré sus a cedros, sus cipreses másH6967
+- 2Re_21:3porque volvió a edificar los lugares aH1116
+- 2Re_23:5que quemasen incienso en los lugares aH1116
+- 2Re_23:8profanó los lugares a donde...quemabanH1116
+- 2Re_23:9sacerdotes de los lugares a no subíanH1116
+- 2Re_23:13profanó...los lugares a...de JerusalénH1116
+- 2Re_23:15lugar a que había hecho Jeroboam hijoH1116
+- 2Re_23:15aquel altar y el lugar a destruyó, y loH1116
+- 2Re_23:19las casas de los lugares a...las quitóH1116
+- 2Re_23:20mató...los sacerdotes de los lugares aH1116
+- 1Cr_16:39en el lugar a que estaba en GabaónH1116
+- 1Cr_21:29el altar del...en el lugar a de GabaónH1116
+- 2Cr_1:3fue Salomón...al lugar a que había enH1116
+- 2Cr_1:13y desde el lugar a que había en GabaónH1116
+- 2Cr_11:15sacerdotes para los lugares a, y paraH1116
+- 2Cr_14:3quitó los altares del...y los lugares aH1116
+- 2Cr_14:5de Judá los lugares a y las imágenes deH1116
+- 2Cr_15:17los lugares a no eran quitados de IsraelH1116
+- 2Cr_17:6quitó los lugares a y las imágenes deH1116
+- 2Cr_20:19alabar a Jehová...con fuerte y a vozH1419
+- 2Cr_20:33eso, los lugares a no fueron quitadosH1116
+- 2Cr_21:11hizo lugares a en los montes de JudáH1116
+- 2Cr_24:20pie, donde estaba más a que el puebloH5921
+- 2Cr_28:4y quemó incienso en los lugares a, enH1116
+- 2Cr_28:25hizo...lugares a en todas las ciudadH1116
+- 2Cr_31:1derribaron los lugares a y los altaresH1116
+- 2Cr_32:12mismo que ha quitado sus lugares a yH1116
+- 2Cr_33:3reedificó los lugares a que EzequíasH1116
+- 2Cr_33:14elevó el muro muy a: y puso capitanesH1361
+- 2Cr_33:17sacrificaba en los lugares a, aunqueH1116
+- 2Cr_33:19los sitios donde edificó lugares a yH1116
+- 2Cr_34:3a limpiar a Judá y a...de los lugares aH1116
+- Esd_3:12lloraban en a voz, mientras muchosH1419
+- Esd_10:12dijeron en a voz: Así se haga conformeH1419
+- Neh_3:25la torre a que sale de la casa del reyH5945
+- Neh_8:5porque estaba más a que todo el puebloH5921
+- Neh_9:4y clamaron en voz a a Jehová su DiosH1419
+- Neh_9:5tuyo, glorioso y a sobre toda bendiciónH7311
+- Neh_12:42y los cantores cantaban en a voz, eH8085
+- Job_11:8es más a que los cielos; ¿qué harás?[[H1363]]
+- Job_35:5considera que las nubes son más a que túH1361
+- Job_39:18se levanta en a, se burla del caballoH4791
+- Job_39:27¿se remonta el...y pone en a su nidoH7311
+- Job_41:34menosprecia toda cosa a; es rey sobreH1364
+- Sal_7:7y sobre ella vuélvete a sentar en aH4791
+- Sal_18:2la fuerza de mi salvación, mi a refugioH4869
+- Sal_18:16envió desde lo a; me tomó, me sacó deH4791
+- Sal_27:5morada; sobre una roca me pondrá en aH7311
+- Sal_61:2llévame a la roca que es más a que yoH7311
+- Sal_68:15monte de Dios es...monte a el de BasánH1386
+- Sal_68:16¿por qué observáis, oh montes a, alH1386
+- Sal_68:18subiste a lo a, cautivaste la cautividadH4791
+- Sal_69:29tu salvación, oh Dios, me ponga en aH7682
+- Sal_78:58le enojaron con sus lugares a, y leH1116
+- Sal_91:14Le pondré en a, por cuanto ha conocidoH7682
+- Sal_102:19porque miró desde lo a de su santuarioH4791
+- Sal_104:18los montes a para las cabras montesesH1364
+- Sal_139:6para mí; a es, no lo puedo comprenderH7682
+- Sal_144:7envía tu mano desde lo a; redímeme, yH4791
+- Pro_9:3sobre lo más a de la ciudad clamóH4791
+- Pro_9:14se sienta...en los lugares a de la ciudadH4791
+- Pro_18:11y como un muro a en su imaginaciónH7682
+- Pro_19:11y su honra es pasar por a la ofensaH5921
+- Pro_24:7a está para el insensato la sabiduríaH7311
+- Pro_27:14el que bendice a su amigo en a vozH1419
+- Ecl_5:8sobre el a...otro más a, y uno más aH1364
+- Ecl_12:5cuando también temerán de lo que es aH1364
+- Isa_2:13sobre todos los cedros del Líbano aH7311
+- Isa_2:14sobre todos los montes a, y...colladosH7311
+- Isa_2:15sobre toda torre a, y...todo muro fuerteH1364
+- Isa_6:1vi yo al Señor sentado sobre un trono aH7311
+- Isa_7:11ya sea de abajo en...o de arriba en lo aH1361
+- Isa_8:21maldecirán...levantando el rostro en aH4605
+- Isa_10:33cortados, y los a serán humilladosH1364
+- Isa_13:2levantad bandera sobre un a monte; alzadH8192
+- Isa_14:13en lo a, junto a...levantaré mi tronoH4605
+- Isa_15:2subió a Bayit y a Dibón, lugares a, aH1116
+- Isa_16:12apareciere Moab...sobre los lugares aH1116
+- Isa_19:16temerán en la presencia de la mano a...5921
+- Isa_22:16el que en lugar a labra su sepulturaH4791
+- Isa_24:4enfermaron los a pueblos de la tierraH4791
+- Isa_24:18de lo a se abrirán ventanas, y temblaránH4791
+- Isa_24:21castigará al ejército de los...en lo aH4791
+- Isa_25:12y abatirá la fortaleza de tus a murosH4869
+- Isa_30:25y sobre todo monte a...ríos y corrientesH1364
+- Isa_32:15que...sea derramado el Espíritu de lo aH4791
+- Isa_36:7es éste aquel cuyos lugares a y altaresH1116
+- Isa_37:23¿contra quién has alzado tu voz...en a?[[H4791]]
+- Isa_37:24cortaré sus a cedros, sus cipresesH6967
+- Isa_38:14me quejaba; gemía...alzaba en a mis ojosH4791
+- Isa_40:9súbete sobre un monte a, anunciadora deH1364
+- Isa_40:26levantad en a vuestros ojos, y miradH4791
+- Isa_52:13mi siervo será prosperado...muy en aH3966
+- Isa_55:9como son más a los cielos que la tierraH1361
+- Isa_55:9mis caminos más a que vuestros caminosH1361
+- Isa_57:7sobre el monte a y empinado pusiste tuH1364
+- Isa_57:15porque así dijo el A y Sublime, el queH4791
+- Jer_2:20con todo eso, sobre todo collado a yH1364
+- Jer_3:6se va sobre todo monte a y debajo de todoH1364
+- Jer_7:31y han edificado los lugares a de TofetH1116
+- Jer_17:2junto a los árboles...en los collados aH1364
+- Jer_17:3por el pecado de tus lugares a en todoH1116
+- Jer_19:5edificaron lugares a a Baal para quemarH1116
+- Jer_25:30Jehová rugirá desde lo a, y desde suH4791
+- Jer_31:12vendrán con gritos de gozo en lo a deH4791
+- Jer_31:21establécete señales, ponte majanos aH8564
+- Jer_32:35edificaron lugares a a Baal...de HinomH1116
+- Jer_48:35quien sacrifique sobre los lugares aH1116
+- Jer_51:58sus a puertas serán quemadas a fuegoH1364
+- Lam_1:13desde lo a envió fuego que consume misH4791
+- Eze_1:18sus aros eran a y espantosos, y llenosH1363
+- Eze_6:3espada, y destruiré vuestros lugares aH1116
+- Eze_6:6lugares a serán asolados, para que seanH1116
+- Eze_6:13todo collado a, en todas las cumbres deH7311
+- Eze_16:16hiciste diversos lugares a, y fornicasteH1116
+- Eze_16:24te edificaste lugares a, y te hicisteH7413
+- Eze_16:25toda cabeza de camino edificaste lugar aH7413
+- Eze_16:31tus lugares a en toda cabeza de caminoH1354
+- Eze_16:39destruirán tus lugares a, y derribaránH1354
+- Eze_17:22tomaré yo del cogollo de aquel a cedroH7311
+- Eze_17:22lo plantaré sobre el monte a y sublimeH1364
+- Eze_17:23en el monte a de Israel lo plantaréH4791
+- Eze_20:28miraron a todo collado a y a todo árbolH7311
+- Eze_20:29es ese lugar a adonde vosotros vais?[[H1116]]
+- Eze_20:40el a monte de Israel...allí me serviráH4791
+- Eze_21:26sea exaltado lo bajo, y humillado lo aH1364
+- Eze_34:6anduvieron perdidas...en todo collado aH7311
+- Eze_34:14en los a montes de...estará su apriscoH4791
+- Eze_40:2me puso sobre un monte muy a, sobre elH1364
+- Eze_42:5y las cámaras más a eran más estrechasH3201
+- Eze_43:7los cuerpos muertos de...en sus lugares aH1116
+- Dan_3:4pregonero anunciaba en a voz: MándaseH2429
+- Dan_5:7el rey gritó en a voz que hiciesen venirH2429
+- Dan_8:3los cuernos eran a, uno era más a que elH1364
+- Dan_8:3dos cuernos...y el más a creció despuésH1364
+- Ose_10:8los lugares a de Avén serán destruidosH1116
+- Amó_7:9los lugares a de Isaac serán destruidosH1116
+- Miq_1:5¿y cuáles son los lugares a de Judá?[[H1116]]
+- Miq_4:1monte de la casa...más a que los colladosH1389
+- Hab_2:9que codicia...para poner en a su nidoH4791
+- Hab_3:10abismo dio su voz; a lo a alzó sus manosH7315
+- Sof_1:16día de trompeta...sobre las a torresH1364
+- Mat_4:8le llevó el diablo a un monte muy aG5308
+- Mat_17:1tomó a...y los llevó aparte a un monte aG5308
+- Mar_9:2y los llevó aparte solos a un monte aG5308
+- Mar_14:15él os mostrará un gran aposento a yaG508
+- Luc_1:78con que nos visitó desde lo a la auroraG5311
+- Luc_4:5llevó el diablo a un a monte y le mostróG5308
+- Luc_11:42y pasáis por a la justicia y el amorG3928
+- Luc_22:12él os mostrará un gran aposento a yaG508
+- Luc_24:49seáis investidos de poder de lo aG5311
+- Jua_11:41Jesús, alzando los ojos a lo a, dijoG507
+- Hec_1:13y entrados, subieron al aposento aG5253
+- Hec_17:30habiendo pasado por a los tiempos deG5237
+- Hec_20:8había muchas lámparas en el aposento aG5253
+- Hec_24:21que...prorrumpí en a voz: Acerca de laG2896
+- 2Co_11:25he estado como náufrago en a marG1037
+- Efe_4:8dice: Subiendo a lo a, llevó cautiva laG5311
+- Stg_1:17todo don perfecto desciende de lo aG509
+- Stg_3:15esta sabiduría no desciende...de lo aG509
+- Stg_3:17la sabiduría que es de lo a es...puraG509
+- Rev_21:10me llevó en...a un monte grande y aG5308
+- Rev_21:12tenía un muro grande y a con 12 puertasG5308
+- [Entrada procedente del Apéndice]
+- Gn 7.20; 28.13; 40.17 Éx 26.24 Dt 1.28; 2.10, 21; 9.2; 28.43 Jue 16.27 1 S 9.12, 13, 14, 19, 25; 10.5, 13, 23; 22.6 2 S 2.25; 22.3, 17; 23.1 1 R 3.4; 6.2, 16; 7.35, 41; 11.7; 14.23 2 R 9.13; 17.10; 19.22; 23.15(2); 25.28 1 Cr 16.39; 21.29 2 Cr 1.3, 13; 24.20; 33.14 Neh 8.5; 9.5 Job 39.18, 27 Sal 7.7; 18.2, 16; 27.5; 68.15, 18; 69.29; 91.14; 102.19; 139.6; 144.7 Pr 9.3; 18.11; 19.11; 30.13 Ec 5.8(3); 12.5 Is 6.1; 7.11; 8.21; 13.2; 14.13; 22.16; 24.18, 21; 30.25; 32.15; 37.23; 38.14; 40.9, 26; 52.13; 57.7, 15; 58.4 Jer 2.20; 3.6; 25.30; 31.12 Lm 1.13 Ez 6.13; 16.25; 17.22(2), 23; 20.28, 29, 40; 21.26; 34.6; 40.2; 41.7 Dn 8.3(2) Miq 4.1 Hab 2.9; 3.10 Mt 4.8; 17.1 Mc 9.2; 14.15 Lc 1.78; 4.5; 11.42; 22.12; 24.49 Jn 11.41 Hch 1.13; 17.30; 20.8 Ro 3.25; 8.39; 12.3 Ef 4.8 Stg 1.17; 3.15, 17 Ap 21.10, 12

@@ -1,0 +1,297 @@
+---
+tipo: concordancia
+palabra: ÁNGEL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ÁNGEL
+
+- Gén_16:7halló el á de Jehová junto a una fuenteH4397
+- Gén_16:9y le dijo el á de Jehová: Vuélvete a tuH4397
+- Gén_16:10le dijo...el á de Jehová: MultiplicaréH4397
+- Gén_16:11le dijo el á de Jehová: He aquí que hasH4397
+- Gén_19:1llegaron, pues, los dos á a Sodoma a laH4397
+- Gén_19:15rayar el alba, los á daban prisa a LotH4397
+- Gén_21:17á de Dios llamó a Agar desde el cieloH4397
+- Gén_22:11á de Jehová le dio voces desde el cieloH4397
+- Gén_22:15el á de Jehová a Abraham segunda vezH4397
+- Gén_24:7Jehová, Dios...enviará su á delante de tiH4397
+- Gén_24:40Jehová...enviará su á...y prosperará tuH4397
+- Gén_28:12aquí á de Dios que subían y descendíanH4397
+- Gén_31:11me dijo el á de Dios en sueños: JacobH4397
+- Gén_32:1y le salieron al encuentro á de DiosH4397
+- Gén_48:16el A que me liberta de todo mal, bendigaH4397
+- Éxo_3:2le apareció el A de Jehová en una llamaH4397
+- Éxo_14:19el á de Dios que iba delante...de IsraelH4397
+- Éxo_23:20he aquí yo envío mi A delante de ti paraH4397
+- Éxo_23:23mi A irá delante de ti, y te llevará aH4397
+- Éxo_32:34he aquí mi á irá delante de ti; pero enH4397
+- Éxo_33:2yo enviaré delante de ti el á, y echaréH4397
+- Núm_20:16y envió un á, y nos sacó de EgiptoH4397
+- Núm_22:22el á de Jehová se puso en el camino porH4397
+- Núm_22:23el asna vio al á de Jehová que estabaH4397
+- Núm_22:24el á...se puso en una senda de viñas queH4397
+- Núm_22:25, Núm_22:27viendo el asna al á de Jehová, seH4397
+- Núm_22:26el á de Jehová pasó más allá, y se pusoH4397
+- Núm_22:31abrió los ojos de...y vio al á de JehováH4397
+- Núm_22:32el á de Jehová le dijo: ¿Por qué hasH4397
+- Núm_22:34Balaam dijo al á...He pecado, porque noH4397
+- Núm_22:35y el á de Jehová dijo a Balaam: Vé conH4397
+- Jue_2:1a de Jehová subió de Gilgal a BoquimH4397
+- Jue_2:4á de Jehová habló estas palabras a todosH4397
+- Jue_5:23maldecid a Meroz, dijo el á de JehováH4397
+- Jue_6:11vino el á de Jehová, y se sentó debajoH4397
+- Jue_6:12y el á de Jehová se le apareció, y leH4397
+- Jue_6:20el á de Dios le dijo: Toma la carne yH4397
+- Jue_6:21extendiendo el á...el báculo que tenía enH4397
+- Jue_6:21el á de Jehová desapareció de su vistaH4397
+- Jue_6:22viendo...Gedeón que era el á de JehováH4397
+- Jue_6:22que he visto al á de Jehová cara a caraH4397
+- Jue_13:3a esta mujer apareció el á de JehováH4397
+- Jue_13:6cuyo aspecto era como el aspecto de un áH4397
+- Jue_13:9el á de Dios volvió otra vez a la mujerH4397
+- Jue_13:13y el á...respondió a Manoa: La mujer seH4397
+- Jue_13:15Manoa dijo al á de Jehová: Te ruego nosH4397
+- Jue_13:16el á de...respondió a Manoa: Aunque meH4397
+- Jue_13:16no sabía Manoa que aquél fuese á deH4397
+- Jue_13:17dijo Manoa al á...¿Cuál es tu nombreH4397
+- Jue_13:18el á...respondió: ¿Por qué preguntas porH4397
+- Jue_13:19á hizo milagro ante los ojos de ManoaH4397
+- Jue_13:20á de Jehová subió en la llama del altarH4397
+- Jue_13:21y el á de...no volvió a aparecer a ManoaH4397
+- Jue_13:21conoció Manoa que era el á de JehováH4397
+- 1Sa_29:9eres bueno ante mis ojos, como un áH4397
+- 2Sa_14:17mi señor el rey es como un á de DiosH4397
+- 2Sa_14:20sabio conforme a la sabiduría de un áH4397
+- 2Sa_19:27mi señor el rey es como un á de DiosH4397
+- 2Sa_24:16el á extendió su mano sobre JerusalénH4397
+- 2Sa_24:16Jehová...dijo al á que destruía al puebloH4397
+- 2Sa_24:16el á...estaba junto a la era de AraunaH4397
+- 2Sa_24:17David dijo a Jehová, cuando vio al áH4397
+- 1Re_13:18y un á me ha hablado por palabra deH4397
+- 1Re_19:5un á le tocó y le dijo: Levántate, comeH4397
+- 1Re_19:7volviendo el á...la segunda vez, lo tocóH4397
+- 2Re_1:3el á de Jehová habló a Elías tisbitaH4397
+- 2Re_1:15el á de Jehová dijo a Elías: DesciendeH4397
+- 2Re_19:35que aquella...noche salió el á de JehováH4397
+- 1Cr_21:12que el á de Jehová haga destrucciónH4397
+- 1Cr_21:15y envió Jehová el á a Jerusalén paraH4397
+- 1Cr_21:15dijo al á que destruía: Basta ya; deténH4397
+- 1Cr_21:15el á...estaba junto a la era de OrnánH4397
+- 1Cr_21:16vio al á de Jehová, que estaba entre elH4397
+- 1Cr_21:18el á...ordenó a Gad que dijese a DavidH4397
+- 1Cr_21:20vio al á, por lo que se escondieron 4H4397
+- 1Cr_21:27habló al á, y éste volvió su espada aH4397
+- 1Cr_21:30estaba atemorizado...de la espada del áH4397
+- 2Cr_32:21envió un á, el cual destruyó a todoH4397
+- Job_4:18sus siervos...y notó necedad en sus áH4397
+- Sal_8:5le has hecho poco menor que los áH430
+- Sal_34:7el á de Jehová acampa alrededor de losH4397
+- Sal_35:5-6sean como...y el á de Jehová los acoseH4397
+- Sal_78:49envió...un ejército de á destructoresH4397
+- Sal_91:11a sus á mandará acerca de ti, que teH4397
+- Sal_103:20bendecid a Jehová, vosotros sus áH4397
+- Sal_148:2alabadle, vosotros todos sus á; alabadleH4397
+- Ecl_5:6ni digas delante del á...fue ignoranciaH4397
+- Isa_37:36salió el á de Jehová y mató...asiriosH4397
+- Isa_63:9y el á de su faz los salvó; en su amorH4397
+- Dan_3:28bendito sea el Dios de...que envió su áH4398
+- Dan_6:22Dios envió su á, el cual cerró la bocaH4398
+- Ose_12:3su hermano, y con su poder venció al áH4397
+- Ose_12:4venció al á, y prevaleció, lloró, y leH4397
+- Zac_1:9dijo el á que hablaba conmigo: Yo teH4397
+- Zac_1:11ellos hablaron a aquel á de Jehová queH4397
+- Zac_1:12respondió el á...y dijo...¿hasta cuándo noH4397
+- Zac_1:13Jehová respondió...á que hablaba conmigoH4397
+- Zac_1:14dijo el á...Clama diciendo: Así ha dichoH4397
+- Zac_1:19dije al á que hablaba conmigo: ¿Qué sonH4397
+- Zac_2:3salía aquel á...otro á le salió al encuentroH4397
+- Zac_3:1Josué...estaba delante del á de JehováH4397
+- Zac_3:3Josué estaba vestido de...delante del áH4397
+- Zac_3:4y habló el á, y mandó a los que estaban
+- Zac_3:5las ropas. Y el á de Jehová estaba en pieH4397
+- Zac_3:6el á de Jehová amonestó a Josué, diciendoH4397
+- Zac_4:1volvió el á...estaba conmigo, y me despertóH4397
+- Zac_4:4diciendo a aquel á que hablaba conmigoH4397
+- Zac_4:5el á que hablaba conmigo respondió y meH4397
+- Zac_5:5salió aquel á que hablaba conmigo, y meH4397
+- Zac_5:10dije al á que...¿A dónde llevan el efa?[[H4397]]
+- Zac_6:4dije al á que...Señor mío, ¿qué es esto?[[H4397]]
+- Zac_6:5el á me respondió...Estos son los cuatroH4397
+- Zac_12:8como el á de Jehová delante de ellosH4397
+- Mal_3:1yo envio...á del pacto, a quien deseáisH4397
+- Mat_1:20un á del Señor le apareció en sueñosG32
+- Mat_1:24José...hizo como el á...le había mandadoG32
+- Mat_2:13, Mat_2:19un á del Señor apareció en sueños aG32
+- Mat_4:6escrito está: A sus á mandará acerca deG32
+- Mat_4:11dejó; y he aquí vinieron á y le servíanG32
+- Mat_13:39del siglo; y los segadores son los áG32
+- Mat_13:41enviará el Hijo del Hombre a sus áG32
+- Mat_13:49saldrán los á, y apartarán a los malosG32
+- Mat_16:27vendrá en la gloria de su Padre con...áG32
+- Mat_18:10á...ven siempre el rostro de mi PadreG32
+- Mat_22:30serán como los á de Dios en el cieloG32
+- Mat_24:31enviará sus á con gran voz de trompetaG32
+- Mat_24:36ni aun los á de los cielos, sino sóloG32
+- Mat_25:31el Hijo del...y todos los santos á con élG32
+- Mat_25:41fuego eterno...para el diablo y sus áG32
+- Mat_26:53no me daría más de doce legiones de á?[[G32]]
+- Mat_28:2un á del Señor, descendiendo del cieloG32
+- Mat_28:5el á, respondiendo, dijo a las mujeresG32
+- Mar_1:13con las fieras; y los á le servíanG32
+- Mar_8:38venga en la gloria de...con los santos áG32
+- Mar_12:25serán como los á que están en los cielosG32
+- Mar_13:27entonces enviará a sus á, y juntará aG32
+- Mar_13:32nadie sabe, ni aún los á que están enG32
+- Luc_1:11y se le apareció un á del Señor puestoG32
+- Luc_1:13pero el á le dijo: Zacarías, no temasG32
+- Luc_1:18dijo Zacarías al á: ¿En qué conoceré esto?[[G32]]
+- Luc_1:19respondiendo el á, le dijo...soy GabrielG32
+- Luc_1:28entrando el á en donde ella estaba, dijoG32
+- Luc_1:30el á le dijo: María, no temas, porqueG32
+- Luc_1:34María dijo al á: ¿Cómo será esto? puesG32
+- Luc_1:35el á, le dijo: El Espíritu Santo vendráG32
+- Luc_1:38hágase la...Y el á se fue de su presenciaG32
+- Luc_2:9un á del Señor, y la gloria del Señor losG32
+- Luc_2:10el á les dijo: No temáis; porque he aquíG32
+- Luc_2:13apareció con el á una multitud de lasG32
+- Luc_2:15que cuando los á se fueron de ellos alG32
+- Luc_2:21le había sido puesto por el á antes queG32
+- Luc_4:10a sus á mandará acerca de ti, que teG32
+- Luc_9:26y en la del Padre, y de los santos áG32
+- Luc_12:8le confesará delante de los á de DiosG32
+- Luc_12:9será negado delante de los á de DiosG32
+- Luc_15:10hay gozo delante de los á de Dios porG32
+- Luc_16:22fue llevado por los á al seno de AbrahamG32
+- Luc_20:36son iguales a los á, y son hijos de DiosG2465
+- Luc_22:43y se le apareció un á del cielo paraG32
+- Luc_24:23visión de á, quienes dijeron que él vivíaG32
+- Jua_1:51los á de Dios que suben y desciendenG32
+- Jua_5:4porque un á descendía de tiempo en tiempoG32
+- Jua_12:29otros decían: Un á le ha habladoG32
+- Jua_20:12y vio a dos á con vestiduras blancasG32
+- Hec_5:19un á del Señor, abriendo de noche lasG32
+- Hec_6:15vieron su rostro como el rostro de un áG32
+- Hec_7:30un á se le apareció en el desierto delG32
+- Hec_7:35por mano del á que se le apareció en laG32
+- Hec_7:38aquel Moisés que estuvo en la...con el áG32
+- Hec_7:53recibisteis la ley por disposición de áG32
+- Hec_8:26un á del Señor habló a Felipe, diciendoG32
+- Hec_10:3que un á de Dios entraba donde él estabaG32
+- Hec_10:7ido el á que hablaba con Cornelio, ésteG32
+- Hec_10:22ha recibido instrucciones de un santo áG32
+- Hec_11:13cómo había visto en su casa un á, queG32
+- Hec_12:7se presentó un á del Señor, y una luzG32
+- Hec_12:8dijo el á: Cíñete, y átate las sandaliasG32
+- Hec_12:9no sabía que era verdad lo que hacía el áG32
+- Hec_12:10pasaron...y luego el á se apartó de élG32
+- Hec_12:11que el Señor ha enviado su á, y me haG32
+- Hec_12:15loca...Entonces ellos decían: ¡Es su á![[G32]]
+- Hec_12:23á del Señor le hirió, por cuanto no dioG32
+- Hec_23:8dicen que no hay resurrección ni á, niG32
+- Hec_23:9le ha hablado, o un á, no resistamos aG32
+- Hec_27:23noche ha estado conmigo el á del DiosG32
+- Rom_8:38ni á, ni principados, ni potestadesG32
+- 1Co_4:9a ser espectáculo al mundo, a los áG32
+- 1Co_6:3¿o no sabéis que hemos de juzgar a los á?[[G32]]
+- 1Co_11:10sobre su cabeza, por causa de los áG32
+- 2Co_11:14Satanás se disfraza como á de luzG32
+- Gál_1:8si aun nosotros, o un á...anunciare otroG32
+- Gál_3:19fue ordenada por medio de á en mano deG32
+- Gál_4:14bien me recibisteis como a un á de DiosG32
+- Col_2:18afectando humildad y culto a los áG32
+- 2Ts_1:7se manifieste...con los á de su poderG32
+- 1Ti_3:16fue...visto de los á, predicado a losG32
+- 1Ti_5:21te encarezco delante de Dios y...sus áG32
+- Heb_1:4hecho tanto superior a los á, cuantoG32
+- Heb_1:5¿a cuál de los á dijo Dios...Mi Hijo eresG32
+- Heb_1:6y otra vez...Adórenle todos los á de DiosG32
+- Heb_1:7de los á...El que hace a sus á espíritusG32
+- Heb_1:13¿a cuál de los á dijo Dios...Siéntate aG32
+- Heb_2:2si la palabra dicha por...los á fue firmeG32
+- Heb_2:5porque no sujetó a...á el mundo venideroG32
+- Heb_2:7le hiciste un poco menor que los á, leG32
+- Heb_2:9que fue hecho un poco menor que los áG32
+- Heb_2:16ciertamente no socorrió a los á, sinoG32
+- Heb_12:22a la compañía de muchos millares de áG32
+- Heb_13:2ella algunos, sin saberlo, hospedaron áG32
+- 1Pe_1:12en las cuales anhelan mirar los áG32
+- 1Pe_3:22y a él están sujetos á, autoridades yG32
+- 2Pe_2:4si Dios no perdonó a los á que pecaronG32
+- 2Pe_2:11los á...no pronuncian juicio de maldiciónG32
+- Jud_1:6y a los á que no guardaron su dignidadG32
+- Rev_1:1y la declaró...por medio de su á a...JuanG32
+- Rev_1:20siete estrellas son los á de las sieteG32
+- Rev_2:1escribe al á de la iglesia en EfesoG32
+- Rev_2:8escribe al á de la iglesia en EsmirnaG32
+- Rev_2:12escribe al á de la iglesia en PérgamoG32
+- Rev_2:18escribe al á de la iglesia en TiatiraG32
+- Rev_3:1escribe al á de la iglesia en SardisG32
+- Rev_3:5confesaré su nombre...delante de sus áG32
+- Rev_3:7escribe al á de la iglesia en FiladelfiaG32
+- Rev_3:14escribe al á de la iglesia en LaodiceaG32
+- Rev_5:2a un á fuerte que pregonaba a gran vozG32
+- Rev_5:11la voz de muchos á alrededor del tronoG32
+- Rev_7:1después de esto vi a cuatro á en pie sobreG32
+- Rev_7:2vi...a otro á que subía de donde sale elG32
+- Rev_7:2los cuatro á, a quienes se les había dadoG32
+- Rev_7:11los á estaban en pie alrededor del tronoG32
+- Rev_8:2los siete á que estaban en pie ante DiosG32
+- Rev_8:3á vino entonces y se paró ante el altarG32
+- Rev_8:4de la mano del á subió...humo del inciensoG32
+- Rev_8:5el á tomó el incensario, y lo llenó delG32
+- Rev_8:6los siete á que tenían las siete trompetasG32
+- Rev_8:7el primer á tocó la trompeta, y huboG32
+- Rev_8:8el segundo á tocó la trompeta, y como unaG32
+- Rev_8:10el tercer á tocó la trompeta, y cayó delG32
+- Rev_8:12cuarto á tocó la trompeta, y fue heridaG32
+- Rev_8:13oí a un á volar por en medio del cieloG32
+- Rev_8:13toques de...están para sonar los tres á![[G32]]
+- Rev_9:1el quinto á tocó la trompeta, y vi unaG32
+- Rev_9:11y tienen por rey...al á del abismo, cuyoG32
+- Rev_9:13el sexto á tocó la trompeta, y oí una vozG32
+- Rev_9:14al sexto á...Desata a los cuatro á queG32
+- Rev_9:15y fueron desatados los 4 á que estabanG32
+- Rev_10:1vi descender del cielo a otro á fuerteG32
+- Rev_10:5el á que vi en pie...levantó su mano alG32
+- Rev_10:7que en los días de la voz del séptimo áG32
+- Rev_10:8el librito que está...en la mano del áG32
+- Rev_10:9al á, diciéndole que me diese el libritoG32
+- Rev_10:10tomé el librito de la mano del á, y loG32
+- Rev_11:15el séptimo á tocó la trompeta, y huboG32
+- Rev_12:7Miguel y sus á...y...el dragón y sus áG32
+- Rev_12:9Satanás...y sus á fueron arrojados con élG32
+- Rev_14:6vi volar...otro á que tenia el evangelioG32
+- Rev_14:8otro á le siguió, diciendo: Ha caídoG32
+- Rev_14:9el tercer á los siguió, diciendo a granG32
+- Rev_14:10atormentado...delante de los santos áG32
+- Rev_14:15y del templo salió otro á clamando aG32
+- Rev_14:17salió otro á del templo que está en elG32
+- Rev_14:18salió del altar otro á, que tenía poderG32
+- Rev_14:19y el á arrojó su hoz en la tierra, yG32
+- Rev_15:1vi...siete á que tenían las siete plagasG32
+- Rev_15:6y del templo salieron los siete á queG32
+- Rev_15:7dio a los siete á siete copas de oroG32
+- Rev_15:8cumplido las siete plagas de los siete áG32
+- Rev_16:1una gran voz que decía...a los siete áG32
+- Rev_16:3el segundo á derramó su copa sobre el marG32
+- Rev_16:4tercer á derramó su copa sobre los ríosG32
+- Rev_16:5oí al á de las aguas, que decía: JustoG32
+- Rev_16:8el cuarto á derramó su copa sobre el solG32
+- Rev_16:10quinto á derramó su copa sobre el tronoG32
+- Rev_16:12el sexto á derramó su copa sobre el granG32
+- Rev_16:17el séptimo á derramó su copa por el aireG32
+- Rev_17:1vino...uno de los siete á que tenían lasG32
+- Rev_17:7y el á me dijo: ¿Por qué te asombras?[[G32]]
+- Rev_18:1otro á descender del cielo con gran poderG32
+- Rev_18:21un á poderoso tomó una piedra, como unG32
+- Rev_19:9el á me dijo: Escribe: Bienaventurados
+- Rev_19:17vi a un á que estaba en pie en el solG32
+- Rev_20:1á que descendía del cielo, con la llaveG32
+- Rev_21:9vino entonces a mi uno de los siete áG32
+- Rev_21:12y en las puertas, doce á, y nombresG32
+- Rev_21:17de medida de hombre, la cual es de áG32
+- Rev_22:6enviado su á, para mostrar a sus siervosG32
+- Rev_22:8me postré para adorar a los pies del áG32
+- Rev_22:16he enviado mi á para daros testimonioG32

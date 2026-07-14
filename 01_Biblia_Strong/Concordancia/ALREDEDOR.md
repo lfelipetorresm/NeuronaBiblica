@@ -1,0 +1,254 @@
+---
+tipo: concordancia
+palabra: ALREDEDOR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ALREDEDOR
+
+- Véase también Alrededores
+- Gén_37:7que vuestros manojos estaban aH5437
+- Éxo_7:24en todo Egipto hicieron pozos aH5439
+- Éxo_25:11sobre ella una cornisa de oro aH5439
+- Éxo_25:24le harás una cornisa de oro aH5439
+- Éxo_25:25harás también una moldura aH5439
+- Éxo_25:25la moldura una cornisa de oro aH5439
+- Éxo_27:17todas las columnas a del atrioH5439
+- Éxo_28:11les harás a engastes de oro
+- Éxo_28:32la cual tendrá un borde a deH5439
+- Éxo_28:33de azul, púrpura y carmesí aH5439
+- Éxo_28:33ellas campanillas de oro aH5439
+- Éxo_28:34en toda la orla del manto aH5439
+- Éxo_29:16rociarás sobre el altar aH5439
+- Éxo_29:20la sangre sobre el altar aH5439
+- Éxo_37:11y le hizo una cornisa de oro aH5439
+- Éxo_37:12de un palmo menor de anchura aH5439
+- Éxo_37:26su cubierta y sus paredes aH5439
+- Éxo_37:26y le hizo una cornisa de oro aH5439
+- Éxo_38:16todas las cortinas del atrio aH5439
+- Éxo_38:20del tabernáculo y del atrio aH5439
+- Éxo_38:31las basas del atrio aH5439
+- Éxo_38:31y todas las estacas del atrio aH5439
+- Éxo_39:23con un borde a de la aberturaH5439
+- Éxo_39:25en las orillas del manto, aH5439
+- Éxo_39:26campanilla y otra granada aH5439
+- Éxo_40:8finalmente pondrás el atrio aH5439
+- Éxo_40:33finalmente erigió el atrio aH5439
+- Lev_1:5y la rociarán a sobre elH5439
+- Lev_1:11su sangre sobre el altar aH5439
+- Lev_3:2su sangre sobre el altar aH5439
+- Lev_3:8su sangre sobre el altar aH5439
+- Lev_3:13su sangre sobre el altar aH5439
+- Lev_7:2y rociará su sangre a sobre elH5439
+- Lev_8:15sobre los cuernos del altar aH5439
+- Lev_8:19la sangre sobre el altar aH5439
+- Lev_8:24la sangre sobre el altar aH5439
+- Lev_9:12la cual roció él a sobre elH5439
+- Lev_9:18roció él sobre el altar aH5439
+- Lev_14:41raspar la casa por dentro aH5439
+- Lev_16:18sobre los cuernos del altar aH5439
+- Lev_25:31las aldeas que no tienen muro aH5439
+- Lev_25:44gentes que están en vuestro aH5439
+- Núm_1:50y acamparán a delH5439
+- Núm_1:53pero los levitas acamparán aH5439
+- Núm_2:2a del tabernáculo de reunión
+- Núm_3:26tabernáculo y junto al altar aH5439
+- Núm_3:37y las columnas a del atrio, susH5439
+- Núm_4:26y cerca del altar aH5439
+- Núm_4:32las columnas del atrio a y susH5439
+- Núm_11:24y los hizo estar a delH5439
+- Núm_11:31a del campamento, y casi dosH5439
+- Núm_11:32para sí a lo largo a delH5439
+- Núm_32:33las ciudades del país aH5439
+- Núm_34:12tierra por sus límites aH5439
+- Núm_35:2los ejidos de esas ciudades aH5439
+- Núm_35:4los levitas serán mil codos aH5439
+- Deu_12:10de todos vuestros enemigos aH5439
+- Deu_21:2las ciudades que están a delH5439
+- Deu_25:19de todos tus enemigos aH5439
+- Deu_32:10de horrible soledad; o trajo a
+- Jos_6:3yendo a de la ciudad una vez; yH5362
+- Jos_6:11de Jehová diera una vuelta aH5362
+- Jos_6:15este día dieron vuelta a deH5362
+- Jos_18:20de Benjamín por sus límites aH5439
+- Jos_19:8todas las aldeas que estaban aH5439
+- Jos_21:42cada cual con sus ejidos a deH5439
+- Jos_21:44y Jehová les dio reposo aH5439
+- Jos_23:1Israel de todos sus enemigos aH5439
+- Jue_2:14en mano de sus enemigos de aH5439
+- Jue_7:18entonces las trompetas a de
+- Jue_20:29y puso Israel emboscadas a deH5439
+- 1Sa_22:6y todos sus siervos estaban a
+- 1Sa_22:7a sus siervos que estaban a de
+- 1Sa_22:17de su guardia que estaba a de
+- 1Sa_26:7el ejército estaban tendidos aH5439
+- 2Sa_5:9y edificó a desde Milo haciaH5439
+- 2Sa_22:12tinieblas por su escondedero aH5439
+- 1Re_3:1y los muros de Jerusalén aH5439
+- 1Re_4:24y tuvo paz por todos lados aH5439
+- 1Re_4:31entre todas las naciones de aH5439
+- 1Re_6:5al muro de la casa aposentos aH5439
+- 1Re_6:5las paredes de la casa a delH5439
+- 1Re_6:5e hizo cámaras laterales aH5439
+- 1Re_6:6hecho disminuciones a la casa aH5439
+- 1Re_6:10asimismo el aposento a de toda
+- 1Re_6:29todas las paredes de la casa aH4524
+- 1Re_7:12y en el gran atrio a había tresH5439
+- 1Re_7:18dos hileras de granadas a deH5439
+- 1Re_7:20granadas en dos hileras a enH5439
+- 1Re_7:23y lo ceñía a un cordón deH5696
+- 1Re_7:24mar por debajo de su borde aH5439
+- 1Re_7:24que ceñían el mar a en dosH5439
+- 1Re_7:36y a otros adornosH5439
+- 1Re_18:32después hizo una zanja a del
+- 1Re_18:35de manera que el agua corría aH5439
+- 2Re_6:17y de carros de fuego a deH5439
+- 2Re_11:8Y estaréis a del rey por todosH5439
+- 2Re_17:15de las naciones que estaban aH5439
+- 2Re_25:1y levantó torres contra ella aH5439
+- 2Re_25:4estando los caldeos a de laH5439
+- 2Re_25:10derribó los muros a deH5439
+- 2Re_25:17había una red y granadas aH5439
+- 1Cr_6:55y sus ejidos a de ellaH5439
+- 1Cr_9:27Estos moraban a de la casa deH5439
+- 1Cr_11:8Y edificó la ciudad aH5439
+- 1Cr_28:12para todas las cámaras aH5439
+- 2Cr_4:2codos de largo lo ceñía aH5439
+- 2Cr_4:3diez en cada codo aH5439
+- 2Cr_14:14también todas las ciudades aH5439
+- 2Cr_17:10de las tierras que estaban aH5439
+- 2Cr_23:10a del rey por todas partesH5439
+- 2Cr_34:6y en los lugares asolados aH5439
+- Neh_5:17de las naciones que había a
+- Neh_6:16las naciones que estaban a de
+- Neh_12:28así de la región a deH5439
+- Neh_12:29se habían edificado aldeas aH5439
+- Job_1:10No le has cercado a a él y a su
+- Job_11:18hay esperanza; Mirarás a
+- Job_15:23vaga a tras el pan, diciendo
+- Job_22:10hay lazos a de ti, y te turbaH5439
+- Job_29:5y mis hijos a de mí
+- Sal_3:3eres escudo a de mí; mi
+- Sal_18:11por cortina suya a de síH5439
+- Sal_26:6y así andaré a de tu altar
+- Sal_34:7el ángel de Jehová acampa a deH5439
+- Sal_48:12andad a de Sion, y rodeadlaH5362
+- Sal_76:11todos los que están a de élH5439
+- Sal_78:28a de sus tiendasH5439
+- Sal_89:7sobre todos cuantos están a
+- Sal_97:2nubes y oscuridad a de élH5439
+- Sal_97:3y abrasará a sus enemigos aH5439
+- Sal_125:2como Jerusalén tiene montes aH5439
+- Sal_125:2así Jehová está a de suH5439
+- Sal_128:3hijos como plantas de olivo aH5439
+- Sal_139:11aun la noche resplandecerá a
+- Ecl_12:5y los endechadores andarán a
+- Isa_29:3porque acamparé contra ti aH1754
+- Isa_49:18alza tus ojos aH5439
+- Isa_60:4alza tus ojos a y mira, todosH5439
+- Jer_6:3a ella plantarán sus tiendas aH5439
+- Jer_21:14consumirá todo lo que está aH5439
+- Jer_33:13y a de Jerusalén y en las
+- Jer_48:17de él todos los que estáis a
+- Jer_49:29clamarán contra ellos: Miedo a
+- Jer_50:14en orden contra Babilonia aH5439
+- Jer_50:29arco; acampad contra ella aH5439
+- Jer_52:7los caldeos junto a la ciudad aH5439
+- Jer_52:22con una red y granadas a delH5439
+- Jer_52:23eran ciento sobre la red aH5439
+- Lam_2:3de fuego que ha devorado aH5439
+- Eze_1:4y a de él un resplandor, y en
+- Eze_1:18y llenos de ojos a en lasH5439
+- Eze_1:27y que tenía resplandor aH5439
+- Eze_1:28era el parecer del resplandor aH5439
+- Eze_4:2contra ella arietes aH5439
+- Eze_5:2y la cortarás con espada a de
+- Eze_5:5naciones y de las tierras a deH5439
+- Eze_5:6que las tierras que están aH5439
+- Eze_5:7que las naciones que están aH5439
+- Eze_5:7de las naciones que están aH5439
+- Eze_5:12parte caerá a espada a de tiH5439
+- Eze_5:14las naciones que están a deH5439
+- Eze_5:15a las naciones que están a deH5439
+- Eze_8:10pintados en la pared por todo aH5439
+- Eze_10:12estaban llenos de ojos a enH5439
+- Eze_12:14y a todos los que estuvieren a
+- Eze_13:5ni habéis edificado un muro a
+- Eze_16:37y los reuniré a de ti y lesH5439
+- Eze_19:8gentes de las provincias de a
+- Eze_27:11estuvieron sobre tus muros aH5439
+- Eze_27:11colgaron sobre tus muros aH5439
+- Eze_31:4sus ríos corrían a de su pieH5439
+- Eze_36:4de las otras naciones aH5439
+- Eze_36:7que están a vuestro a han de
+- Eze_40:16por dentro de la puerta aH5439
+- Eze_40:16y las ventanas estaban a porH5439
+- Eze_40:17treinta cámaras había a enH5439
+- Eze_40:25sus ventanas y sus arcos aH5439
+- Eze_40:29sus ventanas y sus arcos aH5439
+- Eze_40:30Los arcos a eran de veinticincoH5439
+- Eze_40:33sus ventanas y sus arcos aH5439
+- Eze_40:36sus arcos y sus ventanas aH5439
+- Eze_41:5cámaras, en torno de la casa aH5439
+- Eze_41:6en la pared de la casa aH5439
+- Eze_41:7de la casa subía muy alto aH5439
+- Eze_41:8y miré la altura de la casa aH5439
+- Eze_41:10veinte codos por todos lados aH5439
+- Eze_41:11era de cinco codos por todo aH5439
+- Eze_41:12de cinco codos de grueso aH5439
+- Eze_41:16estrechas y las cámaras a deH5439
+- Eze_41:19otro lado, por toda la casa aH5439
+- Eze_42:15el oriente, y lo midió todo aH5439
+- Eze_42:16-17cañas de la caña de medir aH5439
+- Eze_42:20midió; tenía un muro todo aH5439
+- Eze_43:13y su remate por su borde aH5439
+- Eze_43:17y de medio codo el borde a
+- Eze_43:20del descanso, y en el borde aH5439
+- Eze_45:1en todo su territorio aH5439
+- Eze_45:2de ancho, en cuadro aH5439
+- Eze_46:23y había una pared a de ellosH5439
+- Eze_46:23a de los cuatro, y abajoH5439
+- Eze_46:23y abajo fogones a de lasH5439
+- Joe_3:11y venid, naciones todas de aH5439
+- Joe_3:12a todas las naciones de aH5439
+- Zac_9:8entonces acamparé a de mi casa
+- Zac_12:2a todos los pueblos de aH5439
+- Zac_12:6siniestra a todos los pueblos aH5439
+- Zac_14:14de todas las naciones de aH5439
+- Mat_3:4y tenía un cinto de cuero a de
+- Mat_3:5y toda la provincia de a delG4066
+- Mat_14:35por toda aquella tierra aG4066
+- Mat_27:27y reunieron a de él a toda la
+- Mar_1:6y tenía un cinto de cuero a de
+- Mar_1:28su fama por toda la provincia aG4066
+- Mar_3:5mirándolos a con enojoG4017
+- Mar_3:32y la gente que estaba sentada a
+- Mar_3:34a los que estaban sentados aG2943, [[G2945]]
+- Mar_4:1y se reunió a de él mucha
+- Mar_5:21se reunió a de él una gran
+- Mar_5:32pero él miraba a para verG4017
+- Mar_6:6y recorría las aldeas de aG2943, [[G2945]]
+- Mar_6:36a los campos y aldeas de aG2943, [[G2945]]
+- Mar_6:55recorriendo toda la tierra de aG4066
+- Mar_9:14vio una gran multitud a de
+- Mar_10:23entonces Jesús, mirando aG4017
+- Mar_11:11y habiendo mirado a todas lasG4017
+- Luc_4:14su fama por toda la tierra de aG4066
+- Luc_6:10y mirándolos a todos a
+- Luc_7:17y por toda la región de aG4066
+- Luc_8:37la multitud de la región a deG4066
+- Luc_9:12a las aldeas y campos de aG2943, [[G2945]]
+- Luc_13:8hasta que yo cave a de ella, y
+- Luc_22:55medio del patio, se sentaron a
+- Jua_11:42de la multitud que está aG4026
+- Hec_13:11y tinieblas; y andando aG4013
+- Hec_28:13de allí, costeando a
+- 1Pe_5:8anda a buscando a quien
+- Rev_4:3y había a del trono un arcoG2943
+- Rev_4:4y a del trono habíaG2943
+- Rev_4:6y a del trono, cuatro seresG2943, [[G2945]]
+- Rev_4:8y a y por dentro estaban llenos
+- Rev_5:11oí la voz de muchos ángeles aG2943, [[G2945]]
+- Rev_7:11los ángeles estaban en pie aG2943, [[G2945]]
+- Rev_15:6y ceñidos a del pecho con

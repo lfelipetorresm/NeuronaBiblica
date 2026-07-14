@@ -1,0 +1,808 @@
+---
+tipo: concordancia
+palabra: JUDÁ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUDÁ
+
+- 1 Cuarto hijo de Jacob y la tribu que formó su posteridad; también el reino formado principalmente por la tribu de Judá
+- Gén_29:35llamó su nombre J; y dejó de dar aH3063
+- Gén_35:23hijos de Lea...Simeón, Leví, J, Isacar yH3063
+- Gén_37:26J...¿Qué Provecho hay en que matemos aH3063
+- Gén_38:1J se apartó de sus hermanos, y se fueH3063
+- Gén_38:2y vio allí J la hija de un...cananeo, elH3063
+- Gén_38:6J tomó mujer para su primogénito Er, laH3063
+- Gén_38:7Er, el primogénito de J, fue malo anteH3063
+- Gén_38:8J dijo a Onán: Llégate a la mujer de tuH3063
+- Gén_38:11J dijo a Tamar su nuera: Quédate viudaH3063
+- Gén_38:12y murió la hija de Súa, mujer de JH3063
+- Gén_38:12después J se consoló, y subía a losH3063
+- Gén_38:15la vio J, y la tuvo por ramera, porqueH3063
+- Gén_38:18entonces J dijo: ¿Qué prenda te daré?[[H3063]]
+- Gén_38:20J envió el cabrito de las cabras porH3063
+- Gén_38:22volvió a J, y dijo: No la he halladoH3063
+- Gén_38:23J dijo: Tómeselo para sí, para que noH3063
+- Gén_38:24fue dado aviso a J...y J dijo: SacadlaH3063
+- Gén_38:26J los reconoció, y dijo: Más Justa esH3063
+- Gén_43:3respondió J, diciendo: Aquel varón nosH3063
+- Gén_43:8J dijo a...su padre: Envía al...conmigoH3063
+- Gén_44:14vino J con sus hermanos a casa de JoséH3063
+- Gén_44:16dijo J: ¿Qué diremos a mi señor? ¿QuéH3063
+- Gén_44:18J se acercó a él, y dijo: Ay, señor míoH3063
+- Gén_46:12los hijos de J: Er, Onán, Sela, FaresH3063
+- Gén_46:28envió Jacob a J delante de sí a JoséH3063
+- Gén_49:8J, te alabarán tus hermanos; tu mano enH3063
+- Gén_49:9cachorro de león, J; de la presa subisteH3063
+- Gén_49:10no será quitado el cetro de J, ni elH3063
+- Éxo_1:2Rubén, Simeón, Leví, JH3063
+- Éxo_31:2; Éxo_35:30Bezaleel hijo...de la tribu de JH3063
+- Éxo_38:22Bezaleel...de la tribu de J, hizo todasH3063
+- Núm_1:7de J, Naasón hijo de AminadabH3063
+- Núm_1:26de los hijos de J, por su descendenciaH3063
+- Núm_1:27los contados de la tribu de J fueronH3063
+- Núm_2:3la bandera del campamento de J, por susH3063
+- Núm_2:3el jefe de los hijos de J, Naasón hijoH3063
+- Núm_2:9contados en el campamento de J, 186.400H3063
+- Núm_7:12Naasón...de Aminadab, de la tribu de JH3063
+- Núm_10:14la bandera...de los hijos de J comenzóH3063
+- Núm_13:6de la tribu de J, Caleb hijo de JefoneH3063
+- Núm_26:19los hijos de J: Er, y Onán; y Er y OnánH3063
+- Núm_26:20hijos de J por sus familias; de SelaH3063
+- Núm_26:22estas son las familias de J, y fueronH3063
+- Núm_34:19de la tribu de J, Caleb hijo de JefoneH3063
+- Deu_27:12estarán...J, Isacar, José y BenjamínH3063
+- Deu_33:7esta bendición profirió para J. Dijo asíH3063
+- Deu_33:7oye, oh Jehová, la voz de J, y llévaloH3063
+- Deu_34:2la tierra de J hasta el mar occidentalH3063
+- Jos_7:1Acán...la tribu de J, tomó del anatemaH3063
+- Jos_7:16hizo acercar...fue tomada la tribu de JH3063
+- Jos_7:17y haciendo acercar a la tribu de J, fueH3063
+- Jos_7:18tomado Acán hijo de Carmi...la tribu de JH3063
+- Jos_11:21de todos los montes de J y de todos losH3063
+- Jos_14:6hijos de J vinieron a Josué en GilgalH3063
+- Jos_15:1que tocó en suerte a...los hijos de JH3063
+- Jos_15:12este fue el límite de los hijos de JH3063
+- Jos_15:13a Caleb...dio su parte entre los...de JH3063
+- Jos_15:20es la heredad de la tribu...hijos de JH3063
+- Jos_15:21fueron las ciudades...de los hijos de JH3063
+- Jos_15:63los hijos de J no pudieron arrojarlosH3063
+- Jos_15:63ha quedado...con los hijos de J hastaH3063
+- Jos_18:5J quedará en su territorio al sur, y losH3063
+- Jos_18:11quedó entre los hijos de J y...de JoséH3063
+- Jos_18:14Quiriat-baal...ciudad de los hijos de JH3063
+- Jos_19:1su heredad fue en medio de...hijos de JH3063
+- Jos_19:9de la suerte de los...de J fue sacada laH3063
+- Jos_19:9la parte de los hijos de J era excesivaH3063
+- Jos_19:9tuvieron...heredad en medio de la de JH3063
+- Jos_19:34con J por el Jordán hacia donde naceH3063
+- Jos_20:7Quiriat-arba...Hebrón en el monte de JH3063
+- Jos_21:4obtuvieron por suerte de la tribu de JH3063
+- Jos_21:9de la tribu de los hijos de J, y de laH3063
+- Jos_21:11les dieron Quiriat-arba...el monte de JH3063
+- Jue_1:2Jehová respondió: J subirá; he aquíH3063
+- Jue_1:3y J dijo a Simeón su...Sube conmigo alH3063
+- Jue_1:4subió J, y Jehová entregó en sus manosH3063
+- Jue_1:8y combatieron los hijos de J a JerusalénH3063
+- Jue_1:9los hijos de J descendieron para pelearH3063
+- Jue_1:10marchó J contra el cananeo...en HebrónH3063
+- Jue_1:16con los hijos de J al desierto de J, queH3063
+- Jue_1:17J con su hermano Simeón, y derrotaronH3063
+- Jue_1:18tomó también J a Gaza...Ascalón...EcrónH3063
+- Jue_1:19y Jehová estaba con J, quien arrojó aH3063
+- Jue_10:9hacer también guerra contra J y contraH3063
+- Jue_15:9filisteos subieron y acamparon en J, yH3063
+- Jue_15:10los varones de J les dijeron: ¿Por quéH3063
+- Jue_15:11vinieron 3.000 hombres de J a la cuevaH3063
+- Jue_17:7un joven de Belén de J, de la tribu de JH3063
+- Jue_17:8este hombre partió de...Belén de J paraH3063
+- Jue_17:9soy de Belén de J, y voy a vivir dondeH3063
+- Jue_18:12acamparon en Quiriat-jearim en J, porH3063
+- Jue_19:1había tomado para sí mujer...Belén de JH3063
+- Jue_19:2fue de él a casa...padre, a Belén de JH3063
+- Jue_19:18de Belén de J...había ido a Belén de JH3063
+- Jue_20:18y Jehová respondió: J será el primeroH3063
+- Rut_1:1varón de Belén de J fue a morar...MoabH3063
+- Rut_1:2aquel varón era...efrateos de Belén de JH3063
+- Rut_1:7caminar para volverse a la tierra de JH3063
+- Rut_4:12casa de Fares, el que Tamar dio a luz a JH3063
+- 1Sa_11:8fueron treinta mil los hombres de JH3063
+- 1Sa_15:4les pasó revista...10.000 hombres de JH3063
+- 1Sa_17:1y se congregaron en Soco, que es de JH3063
+- 1Sa_17:12David era hijo...efrateo de Belén de JH3063
+- 1Sa_17:52levantándose...y los de J, gritaron, yH3063
+- 1Sa_18:16todo Israel y J amaba a David, porqueH3063
+- 1Sa_22:5Gad dijo a David...y vete a tierra de JH3063
+- 1Sa_23:3aquí en J estamos con miedo; ¿cuanto másH3063
+- 1Sa_23:23buscaré entre todos los millares de JH3063
+- 1Sa_27:6cual Siclag vino a ser de los reyes de JH3063
+- 1Sa_27:10David decía: En el Neguev de J, y elH3063
+- 1Sa_30:14a la parte del Neguev que es de...de JH3063
+- 1Sa_30:16gran botín...tomado...de la tierra de JH3063
+- 1Sa_30:26envió del botín a los ancianos de J, susH3063
+- 2Sa_1:18que debía enseñarse a los hijos de JH3063
+- 2Sa_2:1¿subiré a alguna de las ciudades de J?[[H3063]]
+- 2Sa_2:4vinieron los varones de J y ungieron allíH3063
+- 2Sa_2:4ungieron allí...por rey sobre la casa de JH3063
+- 2Sa_2:7los de la casa de J me han ungido por reyH3063
+- 2Sa_2:10los de la casa de J siguieron a DavidH3063
+- 2Sa_2:11que David reinó en...sobre la casa de JH3063
+- 2Sa_3:8¿soy...cabeza de perro que pertenezca a J?[[H3063]]
+- 2Sa_3:10confirmando el trono de David...sobre JH3063
+- 2Sa_5:5en Hebrón reinó sobre J siete años y seisH3063
+- 2Sa_5:5en Jerusalén reinó 33 años...Israel y JH3063
+- 2Sa_6:2se levantó David y partió de Baala de JH3063
+- 2Sa_11:11arca e Israel y J están bajo tiendasH3063
+- 2Sa_12:8además te di la casa de Israel y de JH3063
+- 2Sa_19:11hablad a los ancianos de J, y decidlesH3063
+- 2Sa_19:14inclinó el corazón de...los varones de JH3063
+- 2Sa_19:15J vino a Gilgal para recibir al rey yH3063
+- 2Sa_19:16Simei...descendió con los hombres de JH3063
+- 2Sa_19:40todo el pueblo de J acompañaba al reyH3063
+- 2Sa_19:41¿Por qué los...de J...te han llevado, yH3063
+- 2Sa_19:42los hombres de J respondieron a...IsraelH3063
+- 2Sa_19:43los de J: Nosotros tenemos en el reyH3063
+- 2Sa_19:43las palabras de...J fueron más violentasH3063
+- 2Sa_20:2mas los de J siguieron a su rey desdeH3063
+- 2Sa_20:4convócame a los...de J para dentro deH3063
+- 2Sa_20:5fue...Amasa para convocar a los de JH3063
+- 2Sa_21:2en su celo por los...de Israel y de JH3063
+- 2Sa_24:1dijese: Vé, haz un censo de Israel y de JH3063
+- 2Sa_24:7y salieron al Neguev de J en BeersebaH3063
+- 2Sa_24:9de Israel...y los de J 500.000 hombresH3063
+- 1Re_1:9convidó a...a todos los varones de JH3063
+- 1Re_1:35que sea príncipe sobre Israel y sobre JH3063
+- 1Re_2:32Amasa hijo...general del ejército de JH3063
+- 1Re_4:20J e Israel eran muchos, como la arenaH3063
+- 1Re_4:25y J e Israel vivían seguros, cada unoH3063
+- 1Re_12:17reinó Roboam sobre...las ciudades de JH3063
+- 1Re_12:20quedar tribu...sino sólo la tribu de JH3063
+- 1Re_12:21Roboam...reunió a toda la casa de J yH3063
+- 1Re_12:23habla...rey de J, y a toda la casa de JH3063
+- 1Re_12:27se volverá a su señor Roboam rey de JH3063
+- 1Re_12:32conforme a la...que se celebraba en JH3063
+- 1Re_13:1que un varón de Dios...vino de J a Bet-elH3063
+- 1Re_13:12el varón de Dios que había venido de JH3063
+- 1Re_13:14¿eres tú el varón de...que vino de J?[[H3063]]
+- 1Re_13:21y clamó al varón de Dios...venido de JH3063
+- 1Re_14:21Roboam hijo de...reinó en J. De 41 añosH3063
+- 1Re_14:22J hizo lo malo ante los ojos de JehováH3063
+- 1Re_14:29; 1Re_15:7, 1Re_15:23; 1Re_22:45; 2Re_8:23; 2Re_12:19; 2Re_14:18; 2Re_15:6, 2Re_15:36; 2Re_16:19; 2Re_20:20; 2Re_21:17, 2Re_21:25; 2Re_23:28; 2Re_24:5en...las crónicas de los reyes de JH3063
+- 1Re_15:1...Abiam comenzó a reinar sobre JH3063
+- 1Re_15:9año 20 de...Asa comenzó a reinar sobre JH3063
+- 1Re_15:17subió Baasa rey...contra J, y edificó aH3063
+- 1Re_15:17no dejar a...ni entrar a Asa rey de JH3063
+- 1Re_15:22entonces el rey Asa convocó a todo JH3063
+- 1Re_15:25el segundo año de Asa rey de J; y reinóH3063
+- 1Re_15:28el tercer año de Asa rey de J, y reinóH3063
+- 1Re_15:33el tercer año de Asa rey de J comenzó aH3063
+- 1Re_16:8en el año 26 de Asa rey de J comenzó aH3063
+- 1Re_16:10lo mató, en el año 27 de Asa rey de JH3063
+- 1Re_16:15año 27 de Asa rey de J...reinar ZimriH3063
+- 1Re_16:23el año 31 de Asa rey de J...Omri sobreH3063
+- 1Re_16:29reinar Acab...el año 38 de Asa rey de JH3063
+- 1Re_19:3vino a Beerseba, que está en J, y dejóH3063
+- 1Re_22:2que Josafat rey de J descendió al rey deH3063
+- 1Re_22:10Josafat rey de J estaban sentados cadaH3063
+- 1Re_22:29el rey de Israel con Josafat rey de JH3063
+- 1Re_22:41Josafat...comenzó a reinar sobre J enH3063
+- 1Re_22:51comenzó...el año 17 de Josafat rey de JH3063
+- 2Re_1:17de Joram hijo de Josafat, rey de JH3063
+- 2Re_3:1comenzó...el año 18 de Josafat rey de JH3063
+- 2Re_3:7envió a decir a Josafat rey de J: El reyH3063
+- 2Re_3:9salieron...el rey de J, y el rey de EdomH3063
+- 2Re_3:14respeto al...rey de J, no te mirara a tiH3063
+- 2Re_8:16siendo Josafat rey de J, comenzó...JoramH3063
+- 2Re_8:16reinar Joram hijo de Josafat, rey de JH3063
+- 2Re_8:19Jehová no quiso destruir a J, por amorH3063
+- 2Re_8:20se rebeló Edom contra el dominio de JH3063
+- 2Re_8:22Edom se libertó del dominio de J, hastaH3063
+- 2Re_8:25a reinar Ocozías hijo de Joram, rey de JH3063
+- 2Re_8:29y descendió Ocozías hijo de...rey de J, aH3063
+- 2Re_9:16también estaba Ocozías rey de J, queH3063
+- 2Re_9:21salieron Joram rey...y Ocozías rey de JH3063
+- 2Re_9:27Ocozías rey de J, huyó por el camino deH3063
+- 2Re_9:29año...comenzó a reinar Ocozías sobre JH3063
+- 2Re_10:13halló...los hermanos de Ocozías rey de JH3063
+- 2Re_12:18tomó Joás rey de J...las ofrendas queH3063
+- 2Re_12:18Josafat y Joram y Ocozías...reyes de JH3063
+- 2Re_13:1año 23 de Joás hijo de Ocozías, rey de JH3063
+- 2Re_13:10el año 37 de Joás rey de J, comenzó aH3063
+- 2Re_13:12con que guerreó contra Amasías rey de JH3063
+- 2Re_14:1a reinar Amasías hijo de Joás rey de JH3063
+- 2Re_14:9Joás...envió a...rey de J esta respuestaH3063
+- 2Re_14:10mal, para que caigas tú y J contigo?[[H3063]]
+- 2Re_14:11y se vieron las caras él y...rey de JH3063
+- 2Re_14:11se vieron...en Bet-semes, que es de JH3063
+- 2Re_14:12J cayó delante de Israel, y huyeronH3063
+- 2Re_14:13Joás rey de...tomó a Amasías rey de JH3063
+- 2Re_14:15y cómo peleó contra Amasías rey de JH3063
+- 2Re_14:17Amasías...rey de J, vivió después deH3063
+- 2Re_14:21pueblo de J tomó a Azarías, que eraH3063
+- 2Re_14:22reedificó...Elat, y la restituyó a JH3063
+- 2Re_14:23año quince de Amasías...de Joás rey de JH3063
+- 2Re_14:28Damasco y...que habían pertenecido a JH3063
+- 2Re_15:1a reinar Azarías...de Amasías, rey de JH3063
+- 2Re_15:8en el año 38 de Azarías rey de J, reinóH3063
+- 2Re_15:13reinar en el año 39 de Uzías rey de JH3063
+- 2Re_15:17el año 39 de Azarías rey de J, reinóH3063
+- 2Re_15:23el año 50 de Azarías rey de J, reinóH3063
+- 2Re_15:27el año 52 de Azarías rey de J, reinóH3063
+- 2Re_15:32reinar Jotam hijo de Uzías rey de JH3063
+- 2Re_15:37enviar contra J a Rezín rey de SiriaH3063
+- 2Re_16:1a reinar Acaz hijo de Jotam rey de JH3063
+- 2Re_16:6echó de Elat a los hombres de J; y losH3063
+- 2Re_17:1en el año...de Acaz rey de J, comenzó aH3063
+- 2Re_17:13amonestó entonces...a J por medio deH3063
+- 2Re_17:18quitó...no quedó sino sólo la tribu de JH3063
+- 2Re_17:19mas ni aun J guardó los mandamientosH3063
+- 2Re_18:1reinar Ezequías hijo de Acaz rey de JH3063
+- 2Re_18:5otro como él entre todos los reyes de JH3063
+- 2Re_18:13subió...contra todas las ciudades...de JH3063
+- 2Re_18:14Ezequías rey de J envió a decir al reyH3063
+- 2Re_18:14de Asiria impuso a Ezequías rey de JH3063
+- 2Re_18:22y ha dicho a J...Delante de este altarH3063
+- 2Re_18:26no hables con nosotros en lengua de JH3063
+- 2Re_18:28el Rabsaces...a gran voz en lengua de JH3063
+- 2Re_19:10así diréis a Ezequías rey de J: No teH3063
+- 2Re_19:30que hubiere quedado de la casa de JH3063
+- 2Re_21:11por cuanto Manasés rey de J ha hechoH3063
+- 2Re_21:11Manasés...hecho pecar a J con sus ídolosH3063
+- 2Re_21:12yo traigo tal mal sobre Jerusalén y...JH3063
+- 2Re_21:16su pecado con que hizo pecar a J, paraH3063
+- 2Re_22:13preguntad a Jehová por mí, y...todo JH3063
+- 2Re_22:16este libro que ha leído el rey de JH3063
+- 2Re_22:18al rey de J...diréis así: Así ha dichoH3063
+- 2Re_23:1el rey mandó reunir...los ancianos de JH3063
+- 2Re_23:2y subió el rey...todos los varones de JH3063
+- 2Re_23:5a los sacerdotes...puesto los reyes de JH3063
+- 2Re_23:5quemasen incienso...en las ciudades de JH3063
+- 2Re_23:8hizo venir todos los sacerdotes...de JH3063
+- 2Re_23:11los caballos que los reyes de J habíanH3063
+- 2Re_23:12altares que...reyes de J habían hechoH3063
+- 2Re_23:17es el...del varón de Dios que vino de JH3063
+- 2Re_23:22en todos los tiempos...de los reyes de JH3063
+- 2Re_23:24barrió...abominaciones...la tierra de JH3063
+- 2Re_23:26gran ira se había encendido contra JH3063
+- 2Re_23:27dijo Jehová...quitaré de mi presencia a JH3063
+- 2Re_24:2envió contra J para que la destruyesenH3063
+- 2Re_24:3vino esto contra J por mandato de JehováH3063
+- 2Re_24:12Joaquín rey de J al rey de BabiloniaH3063
+- 2Re_24:20vino, pues, la ira de Jehová contra...JH3063
+- 2Re_25:21llevado cautivo J de sobre su tierraH3063
+- 2Re_25:22rey de Babilonia dejó en tierra de JH3063
+- 2Re_25:25también a los de J y a los caldeos queH3063
+- 2Re_25:27años del cautiverio de Joaquín rey de JH3063
+- 2Re_25:27Evil-merodac rey...libertó a...rey de JH3063
+- 1Cr_2:1los hijos de Israel: Rubén...Leví, JH3063
+- 1Cr_2:3los hijos de J: Er, Onán y Sela. EstosH3063
+- 1Cr_2:3y Er, primogénito de J, fue malo delanteH3063
+- 1Cr_2:4a Zera. Todos los hijos de J fueron cincoH3063
+- 1Cr_2:10a Naasón, príncipe de los hijos de JH3063
+- 1Cr_4:1hijos de J: Fares, Hezrón, Carmi, HurH3063
+- 1Cr_4:21los hijos de Sela hijo de J: Er padreH3063
+- 1Cr_4:27ni multiplicaron...como los hijos de JH3063
+- 1Cr_4:41vinieron en días de Ezequías rey de JH3063
+- 1Cr_5:2bien que J llegó a ser el mayor sobreH3063
+- 1Cr_5:17fueron contados...días de Jotam rey de JH3063
+- 1Cr_6:15cautivo cuando Jehová transportó a JH3063
+- 1Cr_6:55dieron, pues, Hebrón en tierra de J, yH3063
+- 1Cr_6:57de J dieron a los hijos de Aarón laH3063
+- 1Cr_6:65dieron...de la tribu de los hijos de JH3063
+- 1Cr_9:1los de J fueron transportados a BabiloniaH3063
+- 1Cr_9:3habitaron en Jerusalén...hijos de J, deH3063
+- 1Cr_9:4Bani, de los hijos de Fares hijo de JH3063
+- 1Cr_12:16de los hijos...de J vinieron a DavidH3063
+- 1Cr_12:24de J que...6.800, listos para la guerraH3063
+- 1Cr_13:6subió David con...a Baala...que está en JH3063
+- 1Cr_21:5J 470.000 hombres que sacaban espadaH3063
+- 1Cr_27:18J, Eliú, uno de los hermanos de DavidH3063
+- 1Cr_28:4porque a J escogió...y de la casa de JH3063
+- 2Cr_2:7sepa esculpir con los maestros...en JH3063
+- 2Cr_9:11nunca en la tierra de J se había vistoH3063
+- 2Cr_10:17los...que habitaban en las ciudades de JH3063
+- 2Cr_11:1vino Roboam a...reunió de la casa de J yH3063
+- 2Cr_11:3habla a...rey de J, y a todos los...en JH3063
+- 2Cr_11:5y edificó ciudades para fortificar a JH3063
+- 2Cr_11:10Zora...eran ciudades fortificadas de JH3063
+- 2Cr_11:12puso...y J y Benjamín le estaban sujetosH3063
+- 2Cr_11:14los levitas...venían a J y a JerusalénH3063
+- 2Cr_11:17fortalecieron el reino de J...RoboamH3063
+- 2Cr_11:23esparció a todos sus hijos por...de JH3063
+- 2Cr_12:4y tomó las ciudades fortificadas de JH3063
+- 2Cr_12:5profeta Semaías...a los príncipes de JH3063
+- 2Cr_12:12y también en J las cosas fueron bienH3063
+- 2Cr_13:1del rey Jeroboam, reinó Abías sobre JH3063
+- 2Cr_13:13la emboscada estaba a espaldas de JH3063
+- 2Cr_13:14miró J, he aquí que tenía batalla porH3063
+- 2Cr_13:15los de J gritaron con fuerza; y así queH3063
+- 2Cr_13:15desbarató a...delante de Abías y de JH3063
+- 2Cr_13:16y huyeron los...de Israel delante de JH3063
+- 2Cr_13:18los hijos de J prevalecieron, porqueH3063
+- 2Cr_14:4mandó a J que buscase a Jehová el DiosH3063
+- 2Cr_14:5quitó...las ciudades de J...las imágenesH3063
+- 2Cr_14:6edificó ciudades fortificadas en J, porH3063
+- 2Cr_14:7dijo...a J: Edifiquemos estas ciudadesH3063
+- 2Cr_14:8tuvo...Asa ejército...de J trescientos milH3063
+- 2Cr_14:12deshizo a los etíopes delante de...de JH3063
+- 2Cr_15:2le dijo: Oídme, Asa y todo J y BenjamínH3063
+- 2Cr_15:8Asa...quitó los ídolos abominables...de JH3063
+- 2Cr_15:9reunió a todo J y Benjamín, y con ellosH3063
+- 2Cr_15:15los de J se alegraron de este juramentoH3063
+- 2Cr_16:1subió Baasa rey...contra J, y fortificóH3063
+- 2Cr_16:1salir ni entrar a ninguno al rey...de JH3063
+- 2Cr_16:6el rey Asa tomó a todo J, y se llevaronH3063
+- 2Cr_16:7vino el vidente Hanani a Asa rey de JH3063
+- 2Cr_16:11; 2Cr_25:26; 2Cr_27:7; 2Cr_28:26; 2Cr_32:32; 2Cr_35:27; 2Cr_36:8escrito en el libro de los reyes de JH3063
+- 2Cr_17:2ejércitos en todas las ciudades...de JH3063
+- 2Cr_17:2puso...gente de guarnición en tierra de JH3063
+- 2Cr_17:5todo J dio a Josafat presentes; y tuvoH3063
+- 2Cr_17:6quitó...las imágenes...de en medio de JH3063
+- 2Cr_17:7para que enseñasen en las ciudades de JH3063
+- 2Cr_17:9enseñaron en J...todas las ciudades de JH3063
+- 2Cr_17:10pavor de Jehová sobre...alrededor de JH3063
+- 2Cr_17:12iba...Josafat...y edificó en J fortalezasH3063
+- 2Cr_17:13tuvo muchas provisiones en las...de JH3063
+- 2Cr_17:14de los jefes de los millares de J, elH3063
+- 2Cr_17:19que el rey había puesto en...en todo JH3063
+- 2Cr_18:3dijo Acab rey de...a Josafat rey de JH3063
+- 2Cr_18:9y Josafat rey de J estaban sentados cadaH3063
+- 2Cr_18:28subieron...Israel, y Josafat rey de JH3063
+- 2Cr_19:1Josafat rey de J volvió en paz a su casaH3063
+- 2Cr_19:5puso jueces en todas las ciudades...de JH3063
+- 2Cr_19:11Zebadías hijo...príncipe de la casa de JH3063
+- 2Cr_20:3Josafat...hizo pregonar ayuno a todo JH3063
+- 2Cr_20:4reunieron los de J para pedir socorroH3063
+- 2Cr_20:4de todas las ciudades de J vinieron aH3063
+- 2Cr_20:5se puso en pie en la asamblea de J y deH3063
+- 2Cr_20:13todo J estaba en pie delante de JehováH3063
+- 2Cr_20:15oíd, J todo, y vosotros moradores deH3063
+- 2Cr_20:17J y Jerusalén, no temáis...salid mañanaH3063
+- 2Cr_20:18Josafat se inclinó...y asimismo todo JH3063
+- 2Cr_20:20dijo: Oídme, J y moradores de JerusalénH3063
+- 2Cr_20:22de ellos mismos que venían contra JH3063
+- 2Cr_20:24vino J a la torre del desierto, miraronH3063
+- 2Cr_20:27todo J y los...volvieron para regresarH3063
+- 2Cr_20:31reinó Josafat sobre J; de 35 años eraH3063
+- 2Cr_20:35Josafat rey de J trabó amistad con...reyH3063
+- 2Cr_21:2estos fueron hijos de Josafat rey de JH3063
+- 2Cr_21:3había dado...ciudades fortificadas en JH3063
+- 2Cr_21:8se rebeló Edom contra el dominio de JH3063
+- 2Cr_21:10Edom se libertó del dominio de J, hastaH3063
+- 2Cr_21:11hizo lugares altos en los montes de JH3063
+- 2Cr_21:11fornicasen tras...y a ello impelió a JH3063
+- 2Cr_21:12no has andado...caminos de Asa rey de JH3063
+- 2Cr_21:13hecho que fornicase J y los moradoresH3063
+- 2Cr_21:17y subieron contra J, e invadieron laH3063
+- 2Cr_22:1reinó Ocozías, hijo de Joram rey de JH3063
+- 2Cr_22:6descendió Ocozías rey de J...visitar aH3063
+- 2Cr_22:8a los príncipes de J, y a los hermanosH3063
+- 2Cr_22:10Atalía...exterminó toda...la casa de JH3063
+- 2Cr_23:2los cuales recorrieron el país de J, yH3063
+- 2Cr_23:2reunieron a los levitas...de J y a losH3063
+- 2Cr_23:8todo J lo hicieron todo como lo habíaH3063
+- 2Cr_24:5salid por las ciudades de J, y recogedH3063
+- 2Cr_24:6los levitas traigan de J y de JerusalénH3063
+- 2Cr_24:9hicieron pregonar en J y en JerusalénH3063
+- 2Cr_24:17vinieron los príncipes de J y...al reyH3063
+- 2Cr_24:18la ira de Dios vino sobre J...por esteH3063
+- 2Cr_24:23de Siria; y vinieron a J y a JerusalénH3063
+- 2Cr_25:5reunió...Amasías a J, y con arreglo a lasH3063
+- 2Cr_25:5les puso jefes...sobre todo J y BenjamínH3063
+- 2Cr_25:10de Efraín...ellos se enojaron...contra JH3063
+- 2Cr_25:12hijos de J tomaron vivos a otros 10.000H3063
+- 2Cr_25:13ejército...invadieron las ciudades de JH3063
+- 2Cr_25:17y Amasías rey de J, después de tomarH3063
+- 2Cr_25:18Joás...envió a decir a Amasías rey de JH3063
+- 2Cr_25:19mal en que puedas caer tú y J contigo?[[H3063]]
+- 2Cr_25:21se vieron...él y Amasías rey de J en laH3063
+- 2Cr_25:21batalla de Bet-semes, la cual es de JH3063
+- 2Cr_25:22pero cayó J delante de Israel, y huyóH3063
+- 2Cr_25:23apresó...a Amasías rey de J, hijo deH3063
+- 2Cr_25:25vivió Amasías...rey de J, quince añosH3063
+- 2Cr_25:28lo sepultaron con...en la ciudad de JH3063
+- 2Cr_26:1todo el pueblo de J tomó a Uzías, el cualH3063
+- 2Cr_26:2y la restituyó a J después que el reyH3063
+- 2Cr_27:4edificó ciudades en las montañas de JH3063
+- 2Cr_28:6Peka hijo...mató en J en un día 120.000H3063
+- 2Cr_28:9por el enojo contra J, los ha entregadoH3063
+- 2Cr_28:10determinado sujetar a vosotros a J yH3063
+- 2Cr_28:17los edomitas habían...atacado a los de JH3063
+- 2Cr_28:18por las ciudades de...del Neguev de JH3063
+- 2Cr_28:19Jehová había humillado a J por...AcazH3063
+- 2Cr_28:19había actuado desenfrenadamente en JH3063
+- 2Cr_28:25lugares altos en...las ciudades de JH3063
+- 2Cr_29:8la ira de Jehová ha venido sobre J yH3063
+- 2Cr_29:21para expiación por el reino...y por JH3063
+- 2Cr_30:1envió...Ezequías por todo Israel y J, yH3063
+- 2Cr_30:6correos con cartas...por todo Israel y JH3063
+- 2Cr_30:12en J también estuvo la mano de DiosH3063
+- 2Cr_30:24porque Ezequías rey de J había dado aH3063
+- 2Cr_30:25se alegró...toda la congregación de JH3063
+- 2Cr_30:25de Israel, y los que habitaban en JH3063
+- 2Cr_31:1por las ciudades de J, y quebraron lasH3063
+- 2Cr_31:1derribaron los...y los altares por todo JH3063
+- 2Cr_31:6los hijos...de J...en las ciudades de JH3063
+- 2Cr_31:20de esta manera hizo Ezequías en todo JH3063
+- 2Cr_32:1vino Senaquerib rey de...e invadió a JH3063
+- 2Cr_32:8tuvo confianza en...de Ezequías rey de JH3063
+- 2Cr_32:9decir a Ezequías rey de J, y a...los de JH3063
+- 2Cr_32:12ha quitado...sus altares, y ha dicho a JH3063
+- 2Cr_32:23trajeron...ricos presentes a...rey de JH3063
+- 2Cr_32:25vino la ira...y contra J y JerusalénH3063
+- 2Cr_32:33honrándole en...todo J y toda JerusalénH3063
+- 2Cr_33:9Manasés, pues, hizo extraviarse a J y aH3063
+- 2Cr_33:14capitanes...en todas las ciudades...de JH3063
+- 2Cr_33:16mandó a J que sirviesen a Jehová DiosH3063
+- 2Cr_34:3comenzó a limpiar a J y a Jerusalén deH3063
+- 2Cr_34:5quemó...sobre sus altares, y limpió a JH3063
+- 2Cr_34:9habían recogido...de todo J y BenjamínH3063
+- 2Cr_34:11que habían destruido los reyes de JH3063
+- 2Cr_34:21consultad...por el remanente de...y de JH3063
+- 2Cr_34:24libro que leyeron delante del rey de JH3063
+- 2Cr_34:26mas al rey de J, que os ha enviado aH3063
+- 2Cr_34:29reunió a todos los ancianos de J y deH3063
+- 2Cr_34:30subió el rey...todos los varones de JH3063
+- 2Cr_35:18celebró pascua como...toda J e IsraelH3063
+- 2Cr_35:21¿qué tengo yo contigo, rey de J? Yo noH3063
+- 2Cr_35:24todo J y Jerusalén hicieron duelo porH3063
+- 2Cr_36:4a Eliaquim...por rey sobre J y JerusalénH3063
+- 2Cr_36:10y constituyó a Sedequías...rey sobre JH3063
+- 2Cr_36:23; Esd_1:2que le edifique casa...en JH3063
+- Esd_1:3quien...suba a Jerusalén que está en JH3063
+- Esd_1:5levantaron los jefes de las casas...de JH3063
+- Esd_1:8dio por cuenta a Sesbasar príncipe de JH3063
+- Esd_2:1volvieron a Jerusalén y a J, cada uno aH3063
+- Esd_4:1oyendo los enemigos de J y de BenjamínH3063
+- Esd_4:4pero el pueblo...intimidó al pueblo de JH3063
+- Esd_4:6escribieron...contra los habitantes de JH3063
+- Esd_5:1profetizaron Hageo...a los judíos...en JH3063
+- Esd_9:9y darnos protección en J y en JerusalénH3063
+- Esd_10:7hicieron pregonar en J y en JerusalénH3063
+- Esd_10:9hombres de J y de Benjamín se reunieronH3063
+- Neh_1:2que vino Hanani...algunos varones de JH3063
+- Neh_2:5envíame a J, a la ciudad...de mis padresH3063
+- Neh_2:7me franqueen el paso hasta que llegue a JH3063
+- Neh_4:10dijo J: Las fuerzas...se han debilitadoH3063
+- Neh_4:16estaban los jefes de toda la casa de JH3063
+- Neh_5:14fuese gobernador de...en la tierra de JH3063
+- Neh_6:7diciendo: ¡Hay rey en J! Y ahora seránH3063
+- Neh_6:17iban muchas cartas de los...de J a TobíasH3063
+- Neh_6:18muchos en J se habían conjurado con élH3063
+- Neh_7:6y que volvieron a Jerusalén y a J, cadaH3063
+- Neh_11:3en las ciudades de J habitaron cada unoH3063
+- Neh_11:4habitaron algunos de los hijos de J y deH3063
+- Neh_11:4de los hijos de J: Ataías hijo de UzíasH3063
+- Neh_11:20en todas las ciudades de J, cada unoH3063
+- Neh_11:24de los hijos de Zera hijo de J, estabaH3063
+- Neh_11:25hijos de J habitaron en Quiriat-arbaH3063
+- Neh_11:36los repartimientos de J y de BenjamínH3063
+- Neh_12:31hice luego subir a los príncipes de JH3063
+- Neh_12:32iba...con la mitad de los príncipes de JH3063
+- Neh_12:44era grande el gozo de J con respecto aH3063
+- Neh_13:12todo J trajo el diezmo del grano, delH3063
+- Neh_13:15vi en J...pisaban en lagares en día deH3063
+- Neh_13:16y vendían en día de...a los hijos de JH3063
+- Neh_13:17reprendí a los señores de J y les dijeH3063
+- Est_2:6fueron llevados con Jeconías rey de JH3063
+- Sal_48:11gozarán...hijas de J por tus juiciosH3063
+- Sal_60:7; Sal_108:8mío es Galaad...J es mi legisladorH3063
+- Sal 63 tít.cuando estaba en el desierto de JH3063
+- Sal_68:27los príncipes de J en su congregaciónH3063
+- Sal_69:35a Sion, y reedificará las ciudades de JH3063
+- Sal_76:1Dios es conocido en J; en Israel...grandeH3063
+- Sal_78:68que escogió la tribu de J, el monte deH3063
+- Sal_97:8las hijas de J...gozaron por tus juiciosH3063
+- Sal_114:2J vino a ser su santuario, e Israel suH3063
+- Pro_25:1copiaron los...de Ezequías, rey de JH3063
+- Isa_1:1visión de Isaías hijo de...acerca de JH3063
+- Isa_1:1en días de...Acaz y Ezequías, reyes de JH3063
+- Isa_2:1lo que vio Isaías hijo de...acerca de JH3063
+- Isa_3:1quita...de J al sustentador y al fuerteH3063
+- Isa_3:8arruinada está Jerusalén, y J ha caídoH3063
+- Isa_5:3y varones de J, juzgad ahora entre mí yH3063
+- Isa_5:7los hombres de J planta deliciosa suyaH3063
+- Isa_7:1aconteció en los días de Acaz...rey de JH3063
+- Isa_7:6vamos contra J y aterroricémosla, y...reyH3063
+- Isa_7:17desde el día que Efraín se apartó de JH3063
+- Isa_8:8y pasando hasta J, inundará y pasaráH3063
+- Isa_9:21y Efraín a Manasés, y ambos contra JH3063
+- Isa_11:12y reunirá los esparcidos de J de losH3063
+- Isa_11:13y los enemigos de J serán destruidosH3063
+- Isa_11:13no tendrá envidia de J, ni J afligiráH3063
+- Isa_19:17la tierra de J será de espanto a EgiptoH3063
+- Isa_22:8desnudó la cubierta de J; y miraste enH3063
+- Isa_22:21será padre al morador...a la casa de JH3063
+- Isa_26:1cantarán este cántico en tierra de JH3063
+- Isa_36:1subió contra todas las ciudades...de JH3063
+- Isa_36:7dijo a J y a Jerusalén: Delante de esteH3063
+- Isa_36:11no hables con nosotros en lengua de JH3063
+- Isa_36:13se puso en pie y gritó...en lengua de JH3063
+- Isa_37:10así diréis a Ezequías rey de J: No teH3063
+- Isa_37:31lo que hubiere quedado de la casa de JH3063
+- Isa_40:9a las ciudades de J: ¡Ved aquí al DiosH3063
+- Isa_44:26las ciudades de J: Reconstruidas seránH3063
+- Isa_48:1los que salieron de las aguas de J, losH3063
+- Isa_65:9descendencia de Jacob, y de J herederoH3063
+- Jer_1:2le vino en los días de Josías...de JH3063
+- Jer_1:3vino también en días de Joacim...rey de JH3063
+- Jer_1:3de Sedequías hijo de Josías, rey de JH3063
+- Jer_1:15pondrá...contra todas las ciudades de JH3063
+- Jer_1:18yo te he puesto...contra los reyes de JH3063
+- Jer_2:28según el número...oh J, fueron tus diosesH3063
+- Jer_3:7no se volvió, y lo vio su hermana la...JH3063
+- Jer_3:8no tuvo temor la rebelde J su hermanaH3063
+- Jer_3:10su hermana la rebelde J no se volvió aH3063
+- Jer_3:11justa...en comparación con la desleal JH3063
+- Jer_3:18irán de la casa de J a la casa de IsraelH3063
+- Jer_4:3así dice Jehová a todo varón de J y deH3063
+- Jer_4:4el prepucio de...corazón, varones de J yH3063
+- Jer_4:5anunciad en J, y proclamad en JerusalénH3063
+- Jer_4:16lanzarán su voz contra...ciudades de JH3063
+- Jer_5:11se rebelaron contra mí...y la casa de JH3063
+- Jer_5:20haced que esto se oiga en J, diciendoH3063
+- Jer_7:2oíd palabra de Jehová, todo J, los queH3063
+- Jer_7:17¿no ves lo que éstos hacen en...J y enH3063
+- Jer_7:30los hijos de J han hecho lo malo anteH3063
+- Jer_7:34haré cesar de las ciudades de J, y deH3063
+- Jer_8:1sacarán los huesos de los reyes de J, yH3063
+- Jer_9:11convertiré las...de J en desolación enH3063
+- Jer_9:26a Egipto y a J, a Edom y a los hijos deH3063
+- Jer_10:22convertir en soledad...las ciudades de JH3063
+- Jer_11:2hablad a todo varón de J...de JerusalénH3063
+- Jer_11:6pregona...palabras en las ciudades de JH3063
+- Jer_11:9conspiración se ha hallado entre...de JH3063
+- Jer_11:10de Israel y...de J invalidaron mi pactoH3063
+- Jer_11:12irán las ciudades de J y los moradoresH3063
+- Jer_11:13según...tus ciudades...tus dioses, oh JH3063
+- Jer_11:17Israel y...J han hecho, provocándome aH3063
+- Jer_12:14arrancaré de en medio...a la casa de JH3063
+- Jer_13:9así haré podrir la soberbia de J, y laH3063
+- Jer_13:11así hice juntar a mí...toda la casa de JH3063
+- Jer_13:19toda J fue transportada, llevada enH3063
+- Jer_14:2enlutó J, y sus puertas se despoblaronH3063
+- Jer_14:19¿has desechado enteramente a J...a Sion?[[H3063]]
+- Jer_15:4causa de Manasés...rey de J, por lo queH3063
+- Jer_17:1el pecado de J escrito está con cincelH3063
+- Jer_17:19la cual entran y salen los reyes de JH3063
+- Jer_17:20oíd la palabra...reyes de J, y todo JH3063
+- Jer_17:25entrarán...los reyes...los varones de JH3063
+- Jer_17:26vendrán de las ciudades de J, de losH3063
+- Jer_18:11habla luego a todo hombre de J y a losH3063
+- Jer_19:3oíd palabra de Jehová, oh reyes de J, yH3063
+- Jer_19:4no habían conocido...ni los reyes de JH3063
+- Jer_19:7desvaneceré el consejo de J...JerusalénH3063
+- Jer_19:13las casas de los reyes de J, serán comoH3063
+- Jer_20:4a todo J entregaré en manos del rey deH3063
+- Jer_20:5daré...los tesoros de los reyes de J enH3063
+- Jer_21:7entregaré a Sedequías rey de J, a susH3063
+- Jer_21:11y a la casa del rey de J dirás: OídH3063
+- Jer_22:1dijo...Desciende a la casa del rey de JH3063
+- Jer_22:2di: Oye palabra de Jehová, oh rey de JH3063
+- Jer_22:6la casa del rey de J: Como Galaad eresH3063
+- Jer_22:11de Salum hijo de Josías, rey de J, elH3063
+- Jer_22:18Joacim hijo...rey de J: No lo lloraránH3063
+- Jer_22:24que si Conías hijo de Joacim rey de JH3063
+- Jer_22:30sentarse sobre el...ni reinar sobre JH3063
+- Jer_23:6sus días será salvo J, e Israel habitaráH3063
+- Jer_24:1Jeconías...rey de J, a los príncipes de JH3063
+- Jer_24:5así miraré a los transportados de J, aH3063
+- Jer_24:8así...pondré a Sedequías rey de J, a susH3063
+- Jer_25:1palabra...acerca de todo el pueblo de JH3063
+- Jer_25:1el año cuarto de Joacim hijo...rey de JH3063
+- Jer_25:2habló...Jeremías a todo el pueblo de JH3063
+- Jer_25:3trece de Josías...rey de J, hasta esteH3063
+- Jer_25:18a las ciudades de J y a sus reyes, yH3063
+- Jer_26:1reinado de Joacim...rey de J, vino estaH3063
+- Jer_26:2y habla a todas las ciudades de J, queH3063
+- Jer_26:10los príncipes de J oyeron estas cosasH3063
+- Jer_26:18tiempo de...rey de J, y habló a todo...JH3063
+- Jer_26:19lo mataron Ezequías rey de J y todo J?[[H3063]]
+- Jer_27:1del reinado de Joacim...rey de J, vinoH3063
+- Jer_27:3los mensajeros...a Sedequías rey de JH3063
+- Jer_27:12hablé...a Sedequías rey de J conforme aH3063
+- Jer_27:18, Jer_27:21utensilios...en la casa del rey de JH3063
+- Jer_27:20transportó...rey de J, y...nobles de JH3063
+- Jer_28:1de Sedequías rey de J, en el año cuartoH3063
+- Jer_28:4volver a...rey de J...transportados de JH3063
+- Jer_29:2salió...los príncipes de J y de JerusalénH3063
+- Jer_29:3a quienes envió Sedequías rey de J aH3063
+- Jer_29:22los transportados de J que están enH3063
+- Jer_30:3a los cautivos de mi pueblo Israel y JH3063
+- Jer_30:4palabras que habló Jehová acerca de...JH3063
+- Jer_31:23dirán esta palabra en la tierra de JH3063
+- Jer_31:24y habitará allí J, y también en todasH3063
+- Jer_31:27sembraré la casa...de J de simiente deH3063
+- Jer_31:31haré nuevo pacto...y con la casa de JH3063
+- Jer_32:1año décimo de Sedequías rey de J, queH3063
+- Jer_32:2estaba preso...en la casa del rey de JH3063
+- Jer_32:3Sedequías...de J lo había puesto presoH3063
+- Jer_32:4y Sedequías rey de J no escapará de laH3063
+- Jer_32:30hijos de J no han hecho sino lo maloH3063
+- Jer_32:32los hijos de J...y los varones de J yH3063
+- Jer_32:35esta abominación para hacer pecar a JH3063
+- Jer_32:44en las ciudades de J...yo haré regresarH3063
+- Jer_33:4las casas de los reyes de J, derribadasH3063
+- Jer_33:7y haré volver los cautivos de J y losH3063
+- Jer_33:10en las ciudades de J y en las callesH3063
+- Jer_33:13las ciudades de J, aún pasarán ganadosH3063
+- Jer_33:14la buena palabra que he hablado a...JH3063
+- Jer_33:16días J será salvo, y Jerusalén habitaráH3063
+- Jer_34:2vé y habla a Sedequías rey de J, y dileH3063
+- Jer_34:4oye palabra de Jehová, Sedequías...de JH3063
+- Jer_34:6habló...a Sedequías rey de J todas estasH3063
+- Jer_34:7las ciudades de J que...fortificadas de JH3063
+- Jer_34:19los príncipes de J y a los príncipesH3063
+- Jer_34:21y a Sedequías rey de J...los entregaréH3063
+- Jer_34:22reduciré a soledad las ciudades de JH3063
+- Jer_35:1a Jeremías en días de Joacim...rey de JH3063
+- Jer_35:13dí a los varones de J...los moradoresH3063
+- Jer_35:17traeré sobre J y...todos los moradoresH3063
+- Jer_36:1de Joacim...de J, que vino esta palabraH3063
+- Jer_36:2te he hablado contra Israel y contra JH3063
+- Jer_36:3quizá oiga la casa de J todo el mal queH3063
+- Jer_36:6las leerás...a oídos de todos los de JH3063
+- Jer_36:9el año quinto de Joacim...rey de J, queH3063
+- Jer_36:9venía de las ciudades de J a JerusalénH3063
+- Jer_36:28en el primer rollo que quemó...rey de JH3063
+- Jer_36:29a Joacim rey de J...quemaste este rolloH3063
+- Jer_36:30de Joacim rey de J: No tendrá quien seH3063
+- Jer_36:31sobre los varones de J todo el mal queH3063
+- Jer_36:32que quemó en el fuego Joacim rey de JH3063
+- Jer_37:1constituyó por rey en la tierra de JH3063
+- Jer_37:7diréis así al rey de J, que os envió aH3063
+- Jer_38:22que han quedado en la casa del rey de JH3063
+- Jer_39:1en el noveno año de Sedequías rey de JH3063
+- Jer_39:4viéndolos Sedequías rey de J y todos losH3063
+- Jer_39:6degollar el rey...a todos los nobles de JH3063
+- Jer_39:10quedar en tierra de J a los pobres delH3063
+- Jer_40:1los cautivos de...J que iban deportadosH3063
+- Jer_40:5ha puesto sobre todas las ciudades de JH3063
+- Jer_40:11el rey de...había dejado a algunos en JH3063
+- Jer_40:12vinieron a tierra de J, a Gedalías enH3063
+- Jer_40:15dispersarán, y perecerá el resto de JH3063
+- Jer_42:15la palabra de Jehová, remanente de JH3063
+- Jer_42:19Jehová habló sobre vosotros, oh...de JH3063
+- Jer_43:4no obedeció...quedarse en tierra de JH3063
+- Jer_43:5el remanente de J que se había vueltoH3063
+- Jer_43:5vuelto de...para morar en tierra de JH3063
+- Jer_43:9cúbrelas...a vista de los hombres de JH3063
+- Jer_44:2el mal que traje sobre...ciudades de JH3063
+- Jer_44:6se encendió en las ciudades de J y enH3063
+- Jer_44:7para ser destruidos...de en medio de JH3063
+- Jer_44:9olvidado...maldades de los reyes de JH3063
+- Jer_44:9maldades...hicieron en la tierra de JH3063
+- Jer_44:11vuelvo mi rostro...destruir a todo JH3063
+- Jer_44:12y tomaré el resto de J que volvieronH3063
+- Jer_44:14el resto de los de J que entraron enH3063
+- Jer_44:14ni quien quede vivo para volver a...JH3063
+- Jer_44:17en las ciudades de J y en las plazasH3063
+- Jer_44:21el incienso que ofrecisteis en...de JH3063
+- Jer_44:24oíd...los de J que están en tierra deH3063
+- Jer_44:26oíd palabra...J que habitáis en tierraH3063
+- Jer_44:26no será invocado...ningún hombre de JH3063
+- Jer_44:27los hombres de J...consumidos a espadaH3063
+- Jer_44:28volverán de...Egipto a la tierra de JH3063
+- Jer_44:28el resto de J que ha entrado en EgiptoH3063
+- Jer_44:30entregué a Sedequías rey de J en manoH3063
+- Jer_45:1; Jer_46:2el año cuarto de Joacim...rey de JH3063
+- Jer_49:34el principio del...de Sedequías rey de JH3063
+- Jer_50:4vendrán los hijos de Israel...hijos de JH3063
+- Jer_50:20y los pecados de J, y no se hallaránH3063
+- Jer_50:33oprimidos fueron los...los hijos de JH3063
+- Jer_51:5Israel y J no han enviudado de su DiosH3063
+- Jer_51:59iba con Sedequías rey de J a BabiloniaH3063
+- Jer_52:3la ira de Jehová contra Jerusalén y JH3063
+- Jer_52:10degolló en Ribla...los príncipes de JH3063
+- Jer_52:27así J fue transportada de su tierraH3063
+- Jer_52:28llevó cautivo...a 3:023 hombres de JH3063
+- Jer_52:30año...745 personas de los hombres de JH3063
+- Jer_52:31en...del cautiverio de Joaquín rey de JH3063
+- Jer_52:31alzó la cabeza de Joaquín rey de J yH3063
+- Lam_1:3J ha ido en cautiverio a causa de laH3063
+- Lam_1:15hollado el Señor a la virgen hija de JH3063
+- Lam_2:2echó por tierra las fortalezas de...de JH3063
+- Lam_2:5multiplicó en la hija de J la tristezaH3063
+- Lam_5:11a las vírgenes en las ciudades de JH3063
+- Eze_4:6y llevarás la maldad de la casa de JH3063
+- Eze_8:1ancianos de J estaban sentados delanteH3063
+- Eze_8:17dijo...¿Es cosa liviana para la casa de JH3063
+- Eze_9:9maldad de la casa de Israel y de J esH3063
+- Eze_21:20venga la espada...a J contra JerusalénH3063
+- Eze_25:3y llevada en cautiverio la casa de JH3063
+- Eze_25:8la casa de J es como todas las nacionesH3063
+- Eze_25:12hizo Edom, tomando venganza...de JH3063
+- Eze_27:17J y la tierra de Israel comerciabanH3063
+- Eze_37:16escribe...Para J, y para los hijos deH3063
+- Eze_37:19y los pondré con el palo de J, y losH3063
+- Eze_48:7desde...hasta el lado del mar, J, otraH3063
+- Eze_48:8junto al límite de J, desde el lado delH3063
+- Eze_48:22entre el límite de J y el límite deH3063
+- Eze_48:31puerta de J, otra; la puerta de LevíH3063
+- Dan_1:1en el año tercero...de Joacim rey de JH3063
+- Dan_1:2el Señor entregó en...a Joacim rey de JH3063
+- Dan_1:6entre éstos estaban...de los hijos de JH3063
+- Dan_2:25he hallado un...de los deportados de JH3063
+- Dan_5:13tú...de los hijos de la cautividad de JH3063
+- Dan_6:13Daniel, que es de...cautivos de J, no teH3063
+- Dan_9:7en el día de hoy lleva todo hombre de JH3063
+- Ose_1:1en días de Uzías...reyes de J, y en díasH3063
+- Ose_1:7mas de la casa de J tendré misericordiaH3063
+- Ose_1:11congregarán los hijos de J y de IsraelH3063
+- Ose_4:15a lo menos no peque J; y no entréis enH3063
+- Ose_5:5Israel...y J tropezará también con ellosH3063
+- Ose_5:10los príncipes de J fueron como los queH3063
+- Ose_5:12como polilla a...carcoma a la casa de JH3063
+- Ose_5:13verá...J su llaga; irá entonces Efraín aH3063
+- Ose_5:14y como cachorro de león a la casa de JH3063
+- Ose_6:4¿qué haré a ti, oh J? La piedad vuestraH3063
+- Ose_6:11para ti también, oh J, está preparadaH3063
+- Ose_8:14J multiplicó ciudades fortificadas; masH3063
+- Ose_10:11arará J, quebrará sus terrones JacobH3063
+- Ose_11:12J aún gobierna con Dios, y es fiel conH3063
+- Ose_12:2pleito tiene Jehová con J para castigarH3063
+- Joe_3:1en que haré volver la cautividad de JH3063
+- Joe_3:6vendisteis los hijos de J y los hijos deH3063
+- Joe_3:8venderé vuestros hijos...a los hijos de JH3063
+- Joe_3:18todos los arroyos de J correrán aguasH3063
+- Joe_3:19por la injuria hecha a los hijos de JH3063
+- Joe_3:20pero J será habitada para siempre, yH3063
+- Amó_1:1profetizó...en días de Uzías rey de JH3063
+- Amó_2:4por tres pecados de J, y por el cuartoH3063
+- Amó_2:5prenderé, por tanto, fuego en J, el cualH3063
+- Amó_7:12huye a tierra de J, y come allá tu panH3063
+- Abd_1:12haberte alegrado de los hijos de J enH3063
+- Miq_1:1palabra...en días de Jotam...reyes de JH3063
+- Miq_1:5¿y cuáles son los lugares altos de J?[[H3063]]
+- Miq_1:9su llaga es dolorosa, y llegó hasta JH3063
+- Miq_5:2pequeña para...entre las familias de JH3063
+- Nah_1:15celebra, oh J, tus fiestas, cumpleH3063
+- Sof_1:1días de Josías hijo de Amón rey de JH3063
+- Sof_1:4extenderé mi mano sobre J, y...JerusalénH3063
+- Sof_2:7lugar para el remanente de la casa de JH3063
+- Hag_1:1a Zorobabel hijo de...gobernador de JH3063
+- Hag_1:14espíritu de Zorobabel...gobernador de JH3063
+- Hag_2:2, Hag_2:21habla...a Zorobabel gobernador de JH3063
+- Zac_1:12no tendrás piedad de...ciudades de JH3063
+- Zac_1:19, Zac_1:21son los cuernos que dispersaron a JH3063
+- Zac_1:21alzaron el cuerno sobre la tierra de JH3063
+- Zac_2:12y Jehová poseerá a J su heredad en laH3063
+- Zac_8:13como fuisteis maldición...oh casa de JH3063
+- Zac_8:15he pensado hacer bien...a la casa de JH3063
+- Zac_8:19convertirán para la casa de J en gozoH3063
+- Zac_9:7serán como capitanes en J, y Ecrón seráH3063
+- Zac_9:13he entesado para mí a J como arco, eH3063
+- Zac_10:3Jehová...visitará su rebaño, la casa de JH3063
+- Zac_10:6fortaleceré la casa de J, y guardaré laH3063
+- Zac_11:14romper la hermandad entre J e IsraelH3063
+- Zac_12:2temblar a todos los pueblos...contra JH3063
+- Zac_12:4sobre la casa de J abriré mis ojos, yH3063
+- Zac_12:5los capitanes de J dirán en su corazónH3063
+- Zac_12:6los capitanes de J como brasero de fuegoH3063
+- Zac_12:7librará Jehová las tiendas de J primeroH3063
+- Zac_12:7la casa de...no se engrandezca sobre JH3063
+- Zac_14:5huisteis...en los días de Uzías rey de JH3063
+- Zac_14:14y J también peleará en JerusalénH3063
+- Zac_14:21y toda olla en...y J será consagrada aH3063
+- Mal_2:11prevaricó J...ha cometido abominaciónH3063
+- Mal_2:11J ha profanado el santuario de JehováH3063
+- Mal_3:4y será grata a Jehová la ofrenda de JH3063
+- Mat_1:2engendró...Jacob a J y a sus hermanosG2455
+- Mat_1:3J engendró de Tamar a Fares y a ZaraG2455
+- Mat_2:6tú, Belén, de la tierra de J, no eres laG2455
+- Mat_2:6la más pequeña entre los príncipes de JG2455
+- Luc_1:39María, fue de prisa...una ciudad de JG2455
+- Luc_3:33hijo de Esrom, hijo de Fares, hijo de JG2455
+- Heb_7:14nuestro Señor vino de la tribu de JG2455
+- Heb_8:8estableceré con...la casa de J un...pactoG2455
+- Rev_5:5el León de la tribu de J...ha vencidoG2455
+- Rev_7:5de la tribu de J, doce mil selladosG2455
+- 2 Levita (=Hodavías No. 4), Esd_3:9H3063
+- 3 Otro levita, Esd_10:23H3063
+- 4 Descendiente de Benjamín, Neh_11:9H3063
+- 5 Ascendiente de Petaías, Neh_11:24H3063
+- 6 Levita que regresó de Babilonia con Zorobabel, Neh_12:8H3063
+- 7 Príncipe de Judá en tiempo de Nehemías, Neh_12:34H3063
+- 8 Sacerdote y músico, Neh_12:36H3063
+- 9 Nombre de dos ascendientes de Jesucristo, Luc_3:26, Luc_3:30G2455

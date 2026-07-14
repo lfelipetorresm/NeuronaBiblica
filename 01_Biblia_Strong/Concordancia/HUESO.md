@@ -1,0 +1,114 @@
+---
+tipo: concordancia
+palabra: HUESO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HUESO
+
+- Gén_2:23dijo...Adán: Esto es ahora h de mis hH6106
+- Gén_29:14ciertamente h mío y carne mía eresH6106
+- Gén_50:25hizo jurar...haréis llevar de aquí mis hH6106
+- Éxo_12:46no llevarás...fuera...ni quebraréis hH6106
+- Éxo_13:19tomó...consigo Moisés los h de José, elH6106
+- Éxo_13:19haréis subir mis h de aquí con vosotrosH6106
+- Núm_9:12no dejarán del...ni quebrarán h de élH6106
+- Núm_19:16tocare...h humano...7 días será inmundoH6106
+- Núm_19:18y sobre aquel que hubiere tocado el hH6106
+- Núm_24:8desmenuzará sus h, y las traspasará conH6106
+- Jos_24:32enterraron en Siquem los h de JoséH6106
+- Jue_9:2que yo soy h vuestro, y carne vuestraH6106
+- Jue_19:29y la partió por sus h en doce partesH6106
+- 1Sa_31:13tomando sus h, los sepultaron debajoH6106
+- 2Sa_5:1henos aquí, h tuyo y carne tuya somosH6106
+- 2Sa_19:12mis hermanos; mis h y mi carne soisH6106
+- 2Sa_19:13Amasa: ¿no eres...h mío y carne mía?[[H6106]]
+- 2Sa_21:12tomó los h de Saúl y los h de JonatánH6106
+- 2Sa_21:13llevar de allí los h de Saúl y los hH6106
+- 2Sa_21:13y recogieron...los h de los ahorcadosH6106
+- 2Sa_21:14sepultaron los h de Saúl y los de suH6106
+- 1Re_13:2altar, altar...sobre ti quemarán h deH6106
+- 1Re_13:31muera...poned mis h junto a los suyosH6106
+- 2Re_13:21a tocar el muerto los h de EliseoH6106
+- 2Re_23:14y llenó el lugar de...de h de hombresH6106
+- 2Re_23:16sacó los h...los quemó sobre el altarH6106
+- 2Re_23:18él dijo: Dejadlo; ninguno mueva sus hH6106
+- 2Re_23:18fueron preservados sus h, y los h delH6106
+- 2Re_23:20mató...quemó sobre ellos h de hombresH6106
+- 1Cr_10:12y enterraron sus h debajo de unaH6106
+- 1Cr_11:1he aquí nosotros somos tu h y tu carneH6106
+- 2Cr_34:5quemó...los h de los sacerdotes sobreH6106
+- Job_2:5y toca su h y su carne, y verás si noH6106
+- Job_4:14un temblor, que estremeció todos mis hH6106
+- Job_7:15mi alma...quiso la muerte más que mis hH6106
+- Job_10:11y carne, y me tejiste con h y nerviosH6106
+- Job_19:20mi piel y mi carne se pegaron a mis hH6106
+- Job_20:11sus h están llenos de su juventud, masH6106
+- Job_21:24leche, y sus h serán regados de tuétanoH6106
+- Job_30:17la noche taladra mis h, y los doloresH6106
+- Job_30:30mi piel se ha...y mis h arden de calorH6106
+- Job_31:22caiga...el h de mi brazo sea quebradoH7070
+- Job_33:19castigado con dolor fuerte en...sus hH6106
+- Job_33:21sus h, que antes no se veían, aparecenH6106
+- Job_40:18sus h son fuertes como bronce, y susH6106
+- Sal_6:2sáname, oh Jehová...mis h se estremecenH6106
+- Sal_22:14aguas, y todos mis h se descoyuntaronH6106
+- Sal_22:17contar puedo todos mis h...ellos me miranH6106
+- Sal_31:10se agotan mis...y mis h se han consumidoH6106
+- Sal_32:3mientras callé, se envejecieron mis hH6106
+- Sal_34:20él guarda todos sus h; ni uno de ellosH6106
+- Sal_35:10todos mis h dirán: Jehová, ¿quién comoH6106
+- Sal_38:3ni hay paz en mis h, a causa de...pecadoH6106
+- Sal_42:10como quien hiere mis h, mis enemigosH6106
+- Sal_51:8y se recrearán los h que has abatidoH6106
+- Sal_53:5porque Dios ha esparcido los h del queH6106
+- Sal_102:3humo, y mis h cual tizón están quemadosH6106
+- Sal_102:5por la...mis h se han pegado a mi carneH6106
+- Sal_109:18entró como agua...como aceite en sus hH6106
+- Sal_141:7esparcidos nuestros h a la boca delH6106
+- Pro_3:8será medicina...y refrigerio para tus hH6106
+- Pro_12:4la mujer...mala, como carcoma en sus hH6106
+- Pro_14:30es vida...la envidia es carcoma de los hH6106
+- Pro_15:30luz...y la buena nueva conforta los hH6106
+- Pro_16:24suavidad al alma y medicina para los hH6106
+- Pro_17:22mas el espíritu triste seca los hH1634
+- Pro_25:15y la lengua blanda quebranta los hH1634
+- Ecl_11:5cómo crecen los h en el vientre deH6106
+- Isa_38:13como un león molió todos mis h; deH6106
+- Isa_58:11saciará tu alma, y dará vigor a tus hH6106
+- Isa_66:14vuestros h reverdecerán como la hierbaH6106
+- Jer_8:1sacarán los h de los reyes de JudáH6106
+- Jer_8:1h de sus príncipes...h de los sacerdotesH6106
+- Jer_8:1h de los profetas, y los h de...moradoresH6106
+- Jer_20:9como un fuego ardiente metido en mis hH6106
+- Jer_23:9a causa de los profetas...mis h tiemblanH6106
+- Lam_1:13desde...envió fuego que consume mis hH6106
+- Lam_3:4hizo envejecer...mi piel; quebrantó mis hH6106
+- Lam_4:8su piel está pegada a sus h, seca comoH6106
+- Eze_6:5vuestros h esparciré en derredor deH6106
+- Eze_24:4piezas de carne...llénala de h escogidosH6106
+- Eze_24:5también enciende los h debajo de ellaH6106
+- Eze_24:5bien; cuece también sus h dentro de ellaH6106
+- Eze_24:10hacer la salsa; y los h serán quemadosH6106
+- Eze_32:27sus pecados estarán sobre sus h, porH6106
+- Eze_37:1me llevó...valle que estaba lleno de hH6106
+- Eze_37:3¿vivirán estos h? Y dije: Señor JehováH6106
+- Eze_37:4profetiza sobre estos h, y diles: HH6106
+- Eze_37:5así ha dicho Jehová el Señor a estos hH6106
+- Eze_37:7y los h se juntaron cada h con su hH6106
+- Eze_37:11todos estos h son la casa de IsraelH6106
+- Eze_37:11h se secaron, y pereció...esperanza, yH6106
+- Eze_39:15que vea los h de algún hombre pondráH6106
+- Dan_6:24los leones se...quebraron todos sus hH1635
+- Amó_2:1porque quemó los h del rey de EdomH6106
+- Amó_6:10y lo quemará para sacar los h de casaH6106
+- Miq_3:2que les quitáis su piel...de sobre los hH6106
+- Miq_3:3les quebrantáis los h y los rompéis comoH6106
+- Hab_3:16pudrición entró en mis h, y dentro deH6106
+- Sof_3:3sus jueces, lobos...no dejan h para laH1633
+- Mat_23:27mas por dentro están llenos de h deG3747
+- Luc_24:39espíritu no tiene carne ni h, comoG3747
+- Jua_19:36la Escritura: No será quebrado h suyoG3747
+- Efe_5:30somos miembros...su carne y de sus hG3747
+- Heb_11:22y dio mandamiento acerca de sus hG3747

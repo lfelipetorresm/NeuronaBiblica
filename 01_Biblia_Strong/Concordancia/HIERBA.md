@@ -1,0 +1,83 @@
+---
+tipo: concordancia
+palabra: HIERBA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HIERBA
+
+- Gén_1:11produzca la tierra h verde, h que déH1877
+- Gén_1:12produjo, pues...h verde, h que da semillaH1877
+- Gén_2:5y toda h del campo antes que nacieseH6212
+- Éxo_9:22granizo...sobre toda la h del campoH6212
+- Éxo_9:25destrozó el granizo toda la h del campoH6212
+- Éxo_10:15consumió toda la h de la tierra, y todoH6212
+- Éxo_10:15no quedó cosa verde en árboles ni en hH6212
+- Éxo_12:8la carne asada...con h amargas lo comerán
+- Núm_9:11panes sin levadura y con h amargas la
+- Deu_11:15daré también h en tu campo para tusH6212
+- Deu_29:23no será sembrada...ni crecerá en ella hH6212
+- Deu_32:2la llovizna...y como las gotas sobre la hH1877
+- 2Sa_23:4como la lluvia que hace brotar la hH1877
+- 1Re_18:5a ver si acaso hallaremos h con queH2682
+- 2Re_4:39salió...al campo a recoger h, y hallóH219
+- 2Re_19:26vinieron a ser como la h del campo, yH6212
+- Job_5:25y tu prole como la h de la tierraH6212
+- Job_6:5¿acaso gime el asno montés junto a...h?[[H1877]]
+- Job_8:12con todo, se seca primero que toda hH2682
+- Job_38:27saciar la...hacer brotar la tierna h?[[H1877]]
+- Job_40:15aquí ahora behemot...h come como bueyH2682
+- Job_40:20los montes producen h para él; y todaH944
+- Sal_37:2porque como h serán pronto cortadosH2682
+- Sal_37:2cortados, y como la h verde se secaránH1877
+- Sal_72:6descenderá como la lluvia sobre la hH1488
+- Sal_72:16los de la ciudad florecerán como la hH6212
+- Sal_90:5son como...la h que crece en la mañanaH2682
+- Sal_92:7cuando brotan los impíos como la h, yH6212
+- Sal_102:4corazón está herido, y seco como la hH6212
+- Sal_102:11como sombra que...he secado como la hH6212
+- Sal_103:15el hombre, como la h son sus díasH2682
+- Sal_104:14y la h para el servicio del hombreH6213
+- Sal_105:35y comieron toda la h de su país, yH6212
+- Sal_106:20por la imagen de un buey que come hH6212
+- Sal_129:6serán como la h de los tejados, queH2682
+- Sal_147:8el que hace a los montes producir hH2682
+- Pro_19:12su favor como el rocío sobre la hH6212
+- Pro_27:25saldrá la grama, aparecerá la h, y seH1877
+- Pro_27:25grama...se segarán las h de los montesH6212
+- Isa_15:6se secará la h, se marchitarán losH1877
+- Isa_37:27fueron como h de campo y hortalizaH6212
+- Isa_40:6que toda carne es h, y...flor del campoH2682
+- Isa_40:7la h se seca, y la...como h es el puebloH2682
+- Isa_40:8sécase la h, marchitase la flor; mas laH2682
+- Isa_42:15haré secar toda su h; los ríos tornaréH6212
+- Isa_44:4brotarán entre h, como sauces junto aH2682
+- Isa_66:14vuestros huesos reverdecerán como la hH1877
+- Jer_12:4y marchita la h de todo el campo?[[H6212]]
+- Jer_14:5y dejaban la cría, porque no había hH1877
+- Jer_14:6sus ojos se ofuscaron porque no había hH6212
+- Jer_50:11os llenasteis como novilla sobre la hH1877
+- Eze_16:7hice multiplicar como la h del campoH6780
+- Dan_4:15, Dan_4:23con atadura...de bronce entre la hH1883
+- Dan_4:15sea su parte entre la h de la tierraH6211
+- Dan_4:25con h del campo te apacentarán como alH6211
+- Dan_4:33comía h como los bueyes, y su cuerpo seH6211
+- Dan_5:21h le hicieron comer como a buey, y suH6211
+- Amó_7:2que cuando acabó de comer la h de laH6212
+- Miq_5:7será en...como las lluvias sobre la hH6212
+- Zac_10:1os dará lluvia...h verde en el campoH6212
+- Mat_6:30si la h del campo...Dios la viste asíG5528
+- Mat_13:26cuando salió la h y dio fruto...cizañaG5528
+- Mat_14:19entonces mandó...recostarse sobre la hG5528
+- Mar_4:28primero h, luego espiga, después granoG5528
+- Mar_6:39recostar a todas por grupos sobre la hG5528
+- Luc_12:28si así viste Dios la h que hoy estáG5528
+- Jua_6:10y había mucha h en aquel lugar; y seG5528
+- Heb_6:7produce h provechosa a aquellos por losG1008
+- Stg_1:10porque...pasará como la flor de la hG5528
+- Stg_1:11cuando sale el sol con calor...h se secaG5528
+- 1Pe_1:24porque: Toda carne es como h, y todaG5528
+- 1Pe_1:24como flor de la h. La h se seca, y laG5528
+- Rev_8:7ángel tocó...y se quemó toda la h verdeG5528
+- Rev_9:4y se les mandó que no dañasen a la h deG5528

@@ -1,0 +1,135 @@
+---
+tipo: concordancia
+palabra: SUEÑO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SUEÑO
+
+- Gén_2:21Dios hizo caer s profundo sobre AdánH3462
+- Gén_15:12caída del sol sobrecogió el s a AbramH8639
+- Gén_20:3Dios vino a Abimelec en s de noche, y leH2472
+- Gén_20:6le dijo Dios en s: Yo también sé que conH2472
+- Gén_28:16despertó Jacob de su s...Jehová está enH8142
+- Gén_31:10vi en s...los machos...listados, pintadosH2472
+- Gén_31:11me dijo el ángel de Dios en s: JacobH2472
+- Gén_31:24vino Dios a Labán...en s aquella nocheH2472
+- Gén_31:40de noche la helada, y el s huía de misH8142
+- Gén_37:5soñó José un s y lo contó a...hermanosH2472
+- Gén_37:6les dijo: Oíd ahora este s que he soñadoH2472
+- Gén_37:8aborrecieron aun más a causa de sus sH2472
+- Gén_37:9soñó aun otro s...que he soñado otro sH2472
+- Gén_37:10le dijo: ¿Qué s es este que soñaste?[[H2472]]
+- Gén_37:20lo devoró; y veremos qué será de sus sH2472
+- Gén_40:5tuvieron un s, cada uno su propio s enH2472
+- Gén_40:8hemos tenido un s, y no hay quien loH2472
+- Gén_40:9el jefe de los coperos contó su s a JoséH2472
+- Gén_41:1que pasados dos años tuvo Faraón un sH2492
+- Gén_41:7y despertó Faraón, y he aquí que era sH2492
+- Gén_41:8y les contó Faraón sus s, mas no habíaH2492
+- Gén_41:11tuvimos un s...y cada s tenía su propioH2492
+- Gén_41:12nos interpretó nuestros s, y declaró...sH2492
+- Gén_41:15yo he tenido un s, y no hay quien loH2492
+- Gén_41:15he oído...que oyes s para interpretarlosH2492
+- Gén_41:17mi s me parecía que estaba a la orillaH2492
+- Gén_41:25el s de Faraón es uno mismo; Dios haH2492
+- Gén_41:26las espigas hermosas son...el s es unoH2492
+- Gén_41:32y el suceder el s a Faraón dos vecesH2492
+- Gén_42:9acordó José de los s que había tenidoH2492
+- Núm_12:6le apareceré en visión, en s hablaréH2492
+- Deu_13:1cuando se levantare...soñador de s, yH2492
+- Deu_13:3no darás oído...ni al tal soñador de sH2492
+- Deu_13:5profeta o soñador de s ha de ser muertoH2492
+- Jue_4:21pues él estaba cargado de s y cansadoH7290
+- Jue_7:13contando...un s, diciendo...yo soñé un sH2472
+- Jue_7:15cuando Gedeón oyó el relato del s y suH2472
+- Jue_16:14mas despertando él de su s, arrancó laH8142
+- Jue_16:20luego que despertó él de su s, se dijoH8142
+- 1Sa_26:12profundo s enviado de Jehová habíaH8639
+- 1Sa_28:6Jehová no le respondió ni por s, ni porH2472
+- 1Sa_28:15ni por medio de profetas ni por sH2472
+- 1Re_3:5se le apareció Jehová...una noche en sH2472
+- 1Re_3:15cuando Salomón despertó, vio que era sH2472
+- Est_6:1aquella...noche se le fue el s al reyH8142
+- Job_4:13nocturnas, cuando el s cae sobre losH8639
+- Job_7:14entonces me asustas con s, y me aterrasH2472
+- Job_14:12despertarán, ni se levantarán de su sH8142
+- Job_20:8como s volará, y no será hallado, y seH2472
+- Job_33:15por s, en visión nocturna, cuando elH2472
+- Job_33:15el s cae sobre los hombres, cuando se
+- Sal_73:20como s del que despierta, así, SeñorH2472
+- Sal_76:5fueron despojados, durmieron su s; noH8142
+- Sal_90:5son como s, como la hierba que crece enH8142
+- Sal_127:2pues que a su amado dará Dios el sH8142
+- Sal_132:4no daré s a mis ojos, ni a mis párpadosH8142
+- Pro_3:24que te acostarás, y tu s será gratoH8142
+- Pro_4:16y pierden el s si no han hecho caer aH8142
+- Pro_6:4no des s a tus ojos, ni a tus párpadosH8142
+- Pro_6:9perezoso...cuándo te levantarás de tu s?[[H8142]]
+- Pro_6:10un poco de s, un poco de dormitar, yH8142
+- Pro_19:15la pereza hace caer en profundo s, y elH3462
+- Pro_20:13no ames el s, para que no...empobrezcasH8142
+- Pro_23:21y el s hara vestir vestidos rotosH5124
+- Pro_24:33un poco de s, cabeceando otro pocoH8142
+- Ecl_5:3de la mucha ocupación viene el s, y deH2472
+- Ecl_5:7donde abundan los s, también abundan lasH2472
+- Ecl_5:12dulce es el s del trabajador...rico noH8142
+- Ecl_8:16ni de noche ni de día ve s en sus ojosH8142
+- Isa_5:27ninguno se dormirá, ni le tomará sH3463
+- Isa_29:7como s de visión nocturna la multitudH2472
+- Isa_29:10derramó sobre vosotros espíritu de sH8639
+- Jer_23:27olvide de mi nombre con sus s queH2472
+- Jer_23:28profeta que tuviere un s, cuente el sH2472
+- Jer_23:32profetizan s mentirosos, y los cuentanH2472
+- Jer_29:8no os engañen...ni atendáis a los s queH2492
+- Jer_31:26en esto me desperté, y vi, y mi s meH8142
+- Jer_51:39duerman eterno s y no despierten, diceH8142
+- Jer_51:57y dormirán s eterno y no despertaránH8142
+- Dan_1:17Daniel tuvo entendimiento...vision y sH2472
+- Dan_2:1tuvo Nabucodonosor s, y se perturbó suH2472
+- Dan_2:1perturbó su espíritu, y se le fue el sH8142
+- Dan_2:2el rey a magos...que le explicasen sus sH2472
+- Dan_2:3tenido un s, y mi espíritu se ha turbadoH2472
+- Dan_2:3mi espíritu se ha turbado por saber el sH2472
+- Dan_2:4di el s a tus siervos, y te mostraremosH2493
+- Dan_2:5no me mostráis el s y su interpretaciónH2493
+- Dan_2:6me mostrareis el s y su interpretaciónH2493
+- Dan_2:6decidme, pues...el s y su interpretaciónH2493
+- Dan_2:7dijeron: Diga el rey el s a sus siervosH2493
+- Dan_2:9si no me mostráis el s, una...sentenciaH2493
+- Dan_2:9decidme...el s, para que yo sepa que meH2493
+- Dan_2:26¿podrás tú hacerme conocer el s que viH2493
+- Dan_2:28he aquí tu s, y las visiones que hasH2493
+- Dan_2:36este es el s...la interpretación de élH2493
+- Dan_2:45Dios ha mostrado al rey...s es verdaderoH2493
+- Dan_4:5un s que me espantó, y tendido en camaH2493
+- Dan_4:6que me mostrasen la interpretación del sH2493
+- Dan_4:7dije el s, pero no me pudieron mostrarH2493
+- Dan_4:8entró...Daniel...Conté delante de él el sH2493
+- Dan_4:9declárame...visiones de mi s que he vistoH2493
+- Dan_4:18yo el rey Nabucodonosor he visto este sH2493
+- Dan_4:19te turben ni el s ni su interpretaciónH2493
+- Dan_4:19señor mío, el s sea para tus enemigosH2493
+- Dan_5:12en él mayor espíritu...para interpretar sH2493
+- Dan_6:18se fue a su palacio...y se le fue el sH8139
+- Dan_7:1tuvo Daniel un s, y visiones de su cabezaH2493
+- Dan_7:1escribió el s, y relató lo principal delH2493
+- Dan_10:9caí...en un profundo s, con mi rostro enH7290
+- Joe_2:28vuestros ancianos soñarán s...visionesH2472
+- Zac_4:1como un hombre...es despertado de su sH8142
+- Zac_10:2y los adivinos...han hablado s vanos, yH2472
+- Mat_1:20un ángel, le apareció en s y le dijoG3677
+- Mat_1:24y despertando José del s...hizo como elG5258
+- Mat_2:12siendo avisados por revelación en s queG3677
+- Mat_2:13, Mat_2:19un ángel del...apareció en s a JoséG3677
+- Mat_2:22avisado por revelación en s, se fue aG3677
+- Mat_26:43los ojos de ellos estaban cargados de sG916
+- Mat_27:19he padecido mucho en s por causa de élG3677
+- Mar_14:40ojos de ellos estaban cargados de sG916
+- Luc_9:32y Pedro y los...estaban rendidos de sG916
+- Jua_11:13y ellos pensaron que hablaba...del sG5258
+- Hec_2:17verán...vuestros ancianos soñarán sG1798
+- Hec_20:9Eutico, que...rendido de un s profundoG5258
+- Hec_20:9vencido del s cayó del tercer piso abajoG5258
+- Rom_13:11que es ya hora de levantarnos del sG5258

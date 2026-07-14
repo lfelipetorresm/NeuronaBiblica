@@ -1,0 +1,119 @@
+---
+tipo: concordancia
+palabra: PAGAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PAGAR
+
+- Gén_31:39arrebatado por las fieras; yo pagabaH2308
+- Éxo_2:9lleva...y críamelo, y yo te lo pagaréH7939
+- Éxo_21:23hubiere muerte...pagarás vida por vidaH5414
+- Éxo_21:32pagará su dueño 30 siclos de plata, yH5414
+- Éxo_21:34el dueño de la cisterna pagará el dañoH7725
+- Éxo_21:36pagará buey por buey, y el buey muertoH7999
+- Éxo_22:1por aquel buey pagará cinco bueyes, y porH7999
+- Éxo_22:4con el hurto en la mano...pagará el dobleH7999
+- Éxo_22:5de lo mejor de su campo y...viña pagaráH7999
+- Éxo_22:6que encendió el fuego pagará lo quemadoH7999
+- Éxo_22:7ladrón fuere hallado, pagará el dobleH7999
+- Éxo_22:9los jueces condenaren, pagará el dobleH7999
+- Éxo_22:11dueño lo aceptará, y el otro no pagaráH7999
+- Éxo_22:13sido arrebatado por fiera...y no pagaráH7999
+- Éxo_22:14tomado prestada bestia...deberá pagarlaH7999
+- Éxo_22:15el dueño estaba presente, no la pagaráH7999
+- Lev_5:16pagará lo que hubiere defraudadoH5414
+- Lev_25:27pagará lo que quedare al varón a quienH7725
+- Lev_27:8pero si fuere muy pobre para pagar tuH6187
+- Deu_23:21a Jehová...no tardes en pagarloH7999
+- Deu_23:23pagando la ofrenda...que prometiste conH5087
+- Deu_32:6¿así pagáis a Jehová, pueblo loco eH3808, [[H2450]]
+- Jue_1:7yo hice, así me ha pagado DiosH7999
+- Jue_9:16si le habéis pagado conforme a la obraH1576
+- Jue_9:56así pagó Dios a Abimelec el mal que hizoH7725
+- 1Sa_6:3enviáis el arca...pagadle la expiaciónH7725
+- 1Sa_6:4qué será la expiación que le pagaremos?[[H7725]]
+- 1Sa_6:8las joyas de oro que le habéis de pagarH7725
+- 1Sa_6:17los tumores...que pagaron los filisteosH7725
+- 1Sa_24:17me has pagado con bien...yo p con malH1580
+- 1Sa_24:19Jehová te pague con bien por lo que enH7999
+- 1Sa_26:23Jehová pague a cada uno su justicia yH7725
+- 2Sa_8:2los moabitas siervos...pagaron tributo
+- 2Sa_12:6debe pagar la cordera con cuatro tantosH7999
+- 2Sa_15:7pagar mi voto que he prometido a JehováH7999
+- 1Re_20:39vida será...o pagarás un talentoH8254
+- 1Re_21:2tu viña...te pagaré su valor en dineroH3701
+- 2Re_3:4Mesa rey de...pagaba al rey de IsraelH7725
+- 2Re_4:7dijo: Vé y vende el aceite, y paga a tusH7999
+- 2Re_12:11lo gastaban en pagar a los carpinterosH3318
+- 2Re_17:3Oseas fue...su siervo, y le pagaba tributoH7725
+- 2Re_17:4no pagaba tributo al rey de Asiria, como
+- 2Re_23:35Joacim pagó a Faraón la plata y el oroH3701
+- 2Cr_36:3a pagar cien talentos de plata y uno
+- Esd_4:13pagarán tributo, impuesto y rentasH5415
+- Esd_4:20y que se les pagaba tributo, impuesto yH3052
+- Esd_6:4el gasto sea pagado por el tesoro del reyH3052
+- Job_6:22¿os he dicho yo: Traedme, y pagad porH7809
+- Job_22:27y él te oirá; y tú pagarás tus votosH7999
+- Job_34:11él pagará al hombre según su obra, y leH7999
+- Sal_22:25mis votos pagaré delante de los queH7999
+- Sal_31:23y paga...al que procede con soberbiaH7999
+- Sal_37:21el impío toma prestado, y no paga; masH7999
+- Sal_38:20que pagan mal por bien me son contrariosH7999
+- Sal_50:14sacrifica...y paga tus votos al AltísimoH7999
+- Sal_61:8así cantaré...pagando mis votos cada díaH5888
+- Sal_62:12tú pagas a cada uno conforme a su obraH7999
+- Sal_65:1tuya es la...y a ti se pagarán los votos
+- Sal_66:13entraré en tu casa...te pagaré mis votosH7999
+- Sal_69:4se han...¿Y he de pagar lo que no robé?[[H7725]]
+- Sal_76:11prometed, y pagad a Jehová vuestro DiosH7999
+- Sal_103:10ni nos ha pagado conforme a nuestrosH1580
+- Sal_116:12¿qué pagaré a Jehová por todos susH7725
+- Sal_116:14pagaré mis votos a Jehová delante deH7999
+- Sal_116:18a Jehová pagaré...mis votos delante deH7999
+- Pro_6:31es sorprendido, pagará siete vecesH7999
+- Pro_7:14había prometido, hoy he pagado mis votos
+- Pro_9:12si fueres escarnecedor, pagarás tú soloH5375
+- Pro_12:14será pagado según la obra de sus manosH7725
+- Pro_19:17el bien...hecho, se lo volverá a pagarH7999
+- Pro_22:27si no tuvieres para pagar, ¿por qué hanH7999
+- Pro_25:22ascuas...cabeza, y Jehová te lo pagaráH7999
+- Isa_3:11según las obras de sus...será pagadoH1576
+- Jer_16:18primero pagaré al doble su iniquidadH7999
+- Jer_25:14y yo les pagaré conforme a sus hechosH7999
+- Jer_50:29pagadle según su obra; conforme a todoH7999
+- Jer_51:24pagaré a Babilonia y a todos...de CaldeaH7999
+- Eze_23:49y pagaréis los pecados de...idolatríaH5414
+- Ose_4:9castigaré...pagaré conforme a sus obrasH7725
+- Ose_12:2a Jacob...le pagará conforme a sus obrasH7725
+- Ose_12:14recaer...su Señor le pagará su oprobioH7725
+- Jon_1:3pagando su pasaje...para irse con ellosH5414
+- Jon_2:9pagaré lo que prometí...La salvación es deH7999
+- Mat_5:26no saldrás...hasta que pagues el últimoG591
+- Mat_16:27pagará a cada uno conforme a sus obrasG591
+- Mat_17:24¿vuestro Maestro no paga las...dracmas?[[G5055]]
+- Mat_18:25no pudo pagar, ordenó su señor venderleG591
+- Mat_18:25venderle, y...que se le pagase la deudaG591
+- Mat_18:26, Mat_18:29ten paciencia...y yo te lo pagaréG591
+- Mat_18:28él, le ahogaba...Págame lo que me debesG591
+- Mat_18:30en la cárcel, hasta que pagase la deudaG591
+- Mat_18:34hasta que pagase todo lo que le debíaG591
+- Mat_20:8llama a los obreros y págales el jornalG591
+- Mat_21:41labradores, que le paguen el fruto a suG591
+- Luc_7:42no teniendo...con qué pagar, perdonóG591
+- Luc_10:35de más, yo te lo pagaré cuando regreseG591
+- Luc_12:59que hayas pagado aun la última blancaG591
+- Hec_21:24paga sus...que se rasuren la cabezaG1159
+- Rom_2:6pagará a cada uno conforme a sus obrasG591
+- Rom_12:17paguéis a nadie mal por mal; procuradG591
+- Rom_12:19mía es la venganza, yo pagaré, dice elG457
+- Rom_13:6pues por esto pagáis también los tributosG5055
+- Rom_13:7pagad a todos lo que debéis: al queG591
+- 1Ts_5:15ninguno pague a otro mal por malG591
+- 2Ts_1:6es justo...pagar con tribulación a losG467
+- 2Ti_4:14el Señor le pague conforme...hechosG591
+- Flm_1:19yo Pablo lo escribo de...yo lo pagaréG661
+- Heb_7:9así, en Abraham pagó el diezmo...Leví
+- Stg_5:4no les ha sido pagado por vosotros
+- Rev_18:6pagadle doble según sus obras; en elG591

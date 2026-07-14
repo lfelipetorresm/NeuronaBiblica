@@ -1,0 +1,106 @@
+---
+tipo: concordancia
+palabra: EDOM
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EDOM
+
+- Los descendientes de Esaú y su territorio. Véase también Edomitas
+- Gén_25:30por tanto fue llamado su nombre EH123
+- Gén_32:3a Esaú...a la tierra de Seir, campo de EH123
+- Gén_36:1las generaciones de Esaú, el cual es EH123
+- Gén_36:8habitó en el monte de Seir; Esaú es EH123
+- Gén_36:9los linajes de Esaú, padre de E, en elH130
+- Gén_36:16-17son los jefes...en la tierra de EH123
+- Gén_36:19los hijos de Esaú, y sus jefes; él es EH123
+- Gén_36:21horeos, hijos de Seir, en la tierra de EH123
+- Gén_36:31reyes que reinaron en la tierra de EH123
+- Gén_36:32Bela hijo de Beor reinó en E...DinabaH123
+- Gén_36:43estos fueron los jefes de E según susH123
+- Gén_36:43E es el mismo Esaú, padre de...edomitas
+- Éxo_15:15los caudillos de E se turbarán; a losH123
+- Núm_20:14envió Moisés embajadores al rey de EH123
+- Núm_20:18E le respondió: No pasarás por mi paísH123
+- Núm_20:20y salió E contra él con mucho puebloH123
+- Núm_20:21no quiso, pues, E dejar pasar a IsraelH123
+- Núm_20:23habló a Moisés...en la frontera...de EH123
+- Núm_21:4partieron...para rodear la tierra de EH123
+- Núm_24:18tomada E, será también tomada Seir porH123
+- Núm_33:37acamparon...la extremidad del país de EH123
+- Núm_34:3el lado del sur...hasta la frontera de EH123
+- Jos_15:1Judá...llegaba hasta la frontera de EH123
+- Jos_15:21las ciudades...hacia la frontera de EH123
+- Jue_5:4cuando te marchaste de los campos de EH123
+- Jue_11:17Israel envió mensajeros al rey de EH123
+- Jue_11:17te ruego...el rey de E no los escuchóH123
+- Jue_11:18rodeó la tierra de E y la tierra de MoabH123
+- 1Sa_14:47Saúl hizo guerra...contra E, contraH123
+- 2Sa_8:14y puso guarnición en E; por todo EH123
+- 1Re_9:26junto a Elot en...en la tierra de EH123
+- 1Re_11:1Salomón amó...a las de E, a las de SidónH130
+- 1Re_11:14Hadad edomita, de...el cual estaba en EH123
+- 1Re_11:15cuando David estaba en E, y subió JoabH123
+- 1Re_11:15Joab...mató a todos los varones de EH123
+- 1Re_11:16acabado con...el sexo masculino en EH123
+- 1Re_22:47no había entonces rey en E...gobernadorH123
+- 2Re_3:8respondió...camino del desierto de EH123
+- 2Re_3:9salieron...el rey de E, y como anduvieronH123
+- 2Re_3:12y descendieron...Josafat, y el rey de EH123
+- 2Re_3:20aquí vinieron aguas por el camino de EH123
+- 2Re_3:26para atacar al rey de E; mas no pudieronH123
+- 2Re_8:20se rebeló E contra el dominio de JudáH123
+- 2Re_8:21levantándose de noche atacó a los de EH130
+- 2Re_8:22E se libertó del dominio de Judá, hastaH123
+- 2Re_14:10has derrotado a E, y tu corazón se haH123
+- 2Re_16:6rey de E recobró Elat para E, y echó deH758
+- 2Re_16:6y los de E vinieron a Elat y habitaronH758
+- 1Cr_1:43los reyes que reinaron en la...de EH123
+- 1Cr_1:51sucedieron en E los jefes Timna, AlvaH123
+- 1Cr_1:54e Iram. Estos fueron los jefes de EH123
+- 1Cr_18:11y el oro...de todas las naciones de EH123
+- 1Cr_18:13y puso guarnición en E, y todos losH123
+- 2Cr_8:17la costa del mar en la tierra de EH123
+- 2Cr_21:8los días de éste se rebeló E contra elH130
+- 2Cr_21:10no obstante, E se libertó del dominioH130
+- 2Cr_25:19dices: He aquí he derrotado a E; y tuH130
+- 2Cr_25:20cuanto habían buscado los dioses de EH123
+- Sal 60 tít.destrozó a 12.000 de E en el valleH123
+- Sal_60:8para lavarme; sobre E echaré mi calzadoH123
+- Sal_60:9la ciudad...¿quién me llevará hasta E?[[H123]]
+- Sal_108:9sobre E echaré mi calzado...regocijaréH123
+- Sal_108:10la ciudad...¿quién me guiará hasta E?[[H123]]
+- Sal_137:7recuerda contra los hijos de E el díaH123
+- Isa_11:14E y Moab les servirán, y los hijos deH123
+- Isa_34:5descenderá sobre E en juicio, y sobreH123
+- Isa_34:6tiene...grande matanza en tierra de EH123
+- Isa_63:1¿quién es éste que viene de E, de BosraH123
+- Jer_9:26a Egipto y a Judá, a E y a los hijosH123
+- Jer_25:21a E, a Moab y a los hijos de AmónH123
+- Jer_27:3y los enviarás al rey de E, y al rey deH123
+- Jer_40:11los judíos que estaban en...Amón, y en EH123
+- Jer_49:7acerca de E. Así ha dicho Jehová de losH123
+- Jer_49:17y se convertirá E en desolación; todoH123
+- Jer_49:20el consejo que...ha acordado sobre EH123
+- Jer_49:22el corazón de los valientes de E seráH123
+- Lam_4:21hija de E, la que habitas en tierraH123
+- Lam_4:22castigará tu iniquidad, oh hija de EH123
+- Eze_25:12por lo que hizo E, tomando venganzaH123
+- Eze_25:13yo también extenderé mi mano sobre EH123
+- Eze_25:14pondré mi venganza contra E en manosH123
+- Eze_25:14harán en E según mi enojo y conforme aH123
+- Eze_27:16E traficaba contigo por...tus productosH758
+- Eze_32:29allí E, sus reyes y todos sus príncipesH123
+- Eze_35:15asolado será el monte de Seir, y todo EH123
+- Eze_36:5en el fuego de mi celo...contra todo EH123
+- Dan_11:41éstos escaparán de su mano: E y MoabH123
+- Joe_3:19y E será vuelto en desierto asoladoH123
+- Amó_1:6llevó cautivo a...para entregarlo a EH123
+- Amó_1:9entregaron a todo un pueblo cautivo a EH123
+- Amó_1:11por tres pecados de E, y por el cuartoH123
+- Amó_2:1porque quemó...huesos del rey de E hastaH123
+- Amó_9:12para que aquellos...posean el resto de EH123
+- Abd_1:1Jehová el Señor ha dicho...en cuanto a EH123
+- Abd_1:8¿no haré que perezcan...los sabios de E, yH123
+- Mal_1:4E dijere: Nos hemos empobrecido, peroH123

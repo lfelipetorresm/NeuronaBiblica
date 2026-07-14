@@ -1,0 +1,84 @@
+---
+tipo: concordancia
+palabra: MACHO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MACHO
+
+- Gén_6:19que tengan vida contigo; m y hembraH2145
+- Gén_7:2tomarás siete parejas, m y su hembra; masH376
+- Gén_7:2no son limpias, una pareja, el m y suH376
+- Gén_7:3parejas, m y hembra, para conservar vivaH2145
+- Gén_7:9dos...m y hembra, como mandó Dios a NoéH2145
+- Gén_7:16m y hembra de toda carne vinieron, comoH2145
+- Gén_30:35Labán apartó...los m cabríos manchadosH5795
+- Gén_31:10los m que...eran listados, pintados yH6260
+- Gén_31:12todos los m que cubren a las hembrasH6260
+- Gén_32:14doscientas cabras y veinte m cabríosH8495
+- Éxo_12:5el animal será sin defecto, m de unH2145
+- Éxo_13:12primer nacido...los m serán de JehováH2145
+- Éxo_13:15sacrifico para Jehová...primogénito mH2145
+- Éxo_34:19mío es...todo primogénito...que sea mH2142
+- Lev_1:3, Lev_1:10ofrenda...m sin defecto lo ofreceráH2145
+- Lev_3:1de ganado...sea m o hembra, sin defectoH2145
+- Lev_3:6sea m o hembra, la ofrecerá sin defectoH2145
+- Lev_4:23por su ofrenda un m cabrío sin defectoH2145
+- Lev_4:24su mano sobre la cabeza del m cabrío
+- Lev_9:3tomad un m cabrío para expiación, y un
+- Lev_9:15el m cabrío que era para la expiación
+- Lev_10:16Moisés preguntó por el m cabrío de la
+- Lev_16:5tomará dos m cabríos para expiación, y
+- Lev_16:7tomará los dos m cabríos y...presentará
+- Lev_16:8echará suertes...sobre los dos m cabríos
+- Lev_16:9-10el m cabrío sobre el cual cayere la
+- Lev_16:15degollará el m cabrío en expiación por
+- Lev_16:18tomará de...y de la sangre del m cabrío
+- Lev_16:20expiar el...hará traer el m cabrío vivo
+- Lev_16:21dos manos sobre la cabeza del m cabrío
+- Lev_16:21poniéndolos así sobre la cabeza del m
+- Lev_16:22aquel m cabrío llevará sobre sí todas
+- Lev_16:22dejará ir el m cabrío por el desierto
+- Lev_16:26el que hubiere llevado el m cabrío a
+- Lev_16:27y sacarán fuera...el m cabrío inmolados
+- Lev_22:19ofreceréis m sin defecto de entre elH2145
+- Lev_23:19ofreceréis...un m cabrío por expiación
+- Núm_7:16, Núm_7:22, Núm_7:28, Núm_7:34, Núm_7:40, Núm_7:46, Núm_7:52, Núm_7:58, Núm_7:64, Núm_7:70, Núm_7:76, Núm_7:82un m cabrío para expiación
+- Núm_7:17, Núm_7:23, Núm_7:29, Núm_7:35, Núm_7:41, Núm_7:47, Núm_7:53, Núm_7:59, Núm_7:65, Núm_7:71, Núm_7:77, Núm_7:83cinco m cabríos y cinco corderosH6260
+- Núm_7:87todos...doce los m cabríos para expiación
+- Núm_7:88sesenta los m cabríos, y sesenta losH6260
+- Núm_15:24ofrecerá...y un m cabrío en expiación
+- Núm_28:15un m cabrío en expiación se ofrecerá
+- Núm_28:22; Núm_29:5, Núm_29:11, Núm_29:16, Núm_29:19, Núm_29:22, Núm_29:25, Núm_29:28, Núm_29:31, Núm_29:34, Núm_29:38y un m cabrío por expiación
+- Núm_28:30un m cabrío para hacer expiación por
+- Deu_15:19consagrarás...todo primogénito m deH2145
+- Deu_32:14carneros de Basán; también m cabríos
+- 2Cr_17:11trajeron ganados...y 7.700 m cabríosH8495
+- 2Cr_29:21siete m cabríos para expiación por elH6842
+- 2Cr_29:23hicieron acercar...los m cabríos paraH8163
+- Esd_6:17doce m cabríos en expiación por todoH6841
+- Esd_8:35y doce m cabríos por expiación, todo enH6842
+- Sal_50:9no tomaré de tu casa...ni m cabríosH6260
+- Sal_50:13¿he de...o beber sangre de m cabríos?
+- Sal_66:15te ofreceré en sacrificio...m cabríos
+- Pro_30:31el m cabrío; y el rey, a quien nadieH8495
+- Isa_1:11no quiero sangre de...ni de m cabríosH6260
+- Isa_34:6engrasada...de sangre de corderos y de m
+- Jer_50:8como los m cabríos que van delanteH6260
+- Jer_51:40haré traer...como carneros y m cabríosH6260
+- Eze_27:21traficaban contigo en...y m cabríos
+- Eze_34:17yo juzgo...entre carneros y m cabríosH6260
+- Eze_39:18beberéis sangre...m cabríos, de bueyes
+- Eze_43:22ofrecerás un m cabrío...para expiación
+- Eze_43:25sacrificarán un m cabrío cada día en
+- Eze_45:23y por el pecado un m cabrío cada día
+- Dan_8:5un m cabrío venía del lado del ponienteH6842
+- Dan_8:5aquel m cabrío tenía un cuerno notable
+- Dan_8:8el m cabrío se engrandeció sobremaneraH6842
+- Dan_8:21el m cabrío es el rey de Grecia, y el
+- Mal_1:14teniendo m en su rebaño, promete, yH2145
+- Heb_9:12y no por...m cabríos ni de
+- Heb_9:13si la sangre de los toros...m cabríos
+- Heb_9:19sangre de los becerros y de m cabríos
+- Heb_10:4sangre de los...m cabríos no puede quitar

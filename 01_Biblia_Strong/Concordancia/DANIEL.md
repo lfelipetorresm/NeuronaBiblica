@@ -1,0 +1,86 @@
+---
+tipo: concordancia
+palabra: DANIEL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DANIEL
+
+- 1 Hijo de David, 1Cr_3:1H1840
+- 2 Sacerdote en tiempo de Nehemías, Esd_8:2; Neh_10:6H1840
+- 3 Profeta
+- Eze_14:14, Eze_14:20estuviesen en medio...Noé, D y JobH1840
+- Eze_28:3eres más sabio que D; no hay secreto queH1840
+- Dan_1:6D, Ananías, Misael...los hijos de JudáH1840
+- Dan_1:7puso a D, Beltsasar; a Ananías, SadracH1840
+- Dan_1:8D propuso en su corazón no contaminarseH1840
+- Dan_1:9puso Dios a D en gracia...con el jefe deH1840
+- Dan_1:10dijo el jefe...a D: Temo a mi señor el reyH1840
+- Dan_1:11dijo D a Melsar, que estaba puesto porH1840
+- Dan_1:11estaba puesto...sobre D, Ananías, MisaelH1840
+- Dan_1:17y D tuvo entendimiento en toda visiónH1840
+- Dan_1:19no fueron hallados entre...otros como DH1840
+- Dan_1:21continuó D hasta el año primero del reyH1840
+- Dan_2:13y buscaron a D y a sus compañeros paraH1841
+- Dan_2:14D habló sabia y prudentemente a AriocH1841
+- Dan_2:15entonces Arioc hizo saber a D lo queH1841
+- Dan_2:16y D entró y pidió al rey que le dieseH1841
+- Dan_2:17luego se fue D a su casa e hizo saberH1841
+- Dan_2:18de que D y sus compañeros no pereciesenH1841
+- Dan_2:19fue revelado a D en...bendijo D al DiosH1841
+- Dan_2:20D habló y dijo: Sea bendito el nombre deH1841
+- Dan_2:24D a Arioc, al cual el rey había puestoH1841
+- Dan_2:25Arioc llevó...a D ante el rey, y le dijoH1841
+- Dan_2:26dijo a D...¿Podrás tú hacerme conocer elH1841
+- Dan_2:27D respondió delante del rey, diciendoH1841
+- Dan_2:46el rey Nabucodonosor...se humilló ante DH1841
+- Dan_2:47el rey habló a D, y dijo: CiertamenteH1841
+- Dan_2:48entonces el rey engrandeció a D, y leH1841
+- Dan_2:49y D solicitó del rey...que pusiera sobreH1841
+- Dan_2:49obtuvo...y D estaba en la corte del reyH1841
+- Dan_4:8que entró delante de mí D, cuyo nombreH1841
+- Dan_4:19D...quedó atónito casi una hora, y susH1841
+- Dan_5:12en D, al cual el rey puso por nombreH1841
+- Dan_5:12llámese, pues, ahora a D, y él te daráH1841
+- Dan_5:13entonces D fue traído delante del reyH1841
+- Dan_5:13dijo el rey a D: ¿Eres tú aquel D de losH1841
+- Dan_5:17D respondió y dijo...Tus dones sean paraH1841
+- Dan_5:29mandó Belsasar vestir a D de púrpura, yH1841
+- Dan_6:2tres gobernadores, de los cuales D eraH1841
+- Dan_6:3D mismo era superior a estos sátrapas yH1841
+- Dan_6:4para acusar a D en lo relacionado al reinoH1841
+- Dan_6:5no hallaremos contra...D ocasión algunaH1841
+- Dan_6:10cuando D supo que el edicto había sidoH1841
+- Dan_6:11hallaron a D orando...en presencia de suH1841
+- Dan_6:13D, que es de los hijos de los cautivosH1841
+- Dan_6:14resolvió librar a D; y hasta la puestaH1841
+- Dan_6:16trajeron a D, y le echaron en el foso deH1841
+- Dan_6:16el rey dijo a D: El Dios tuyo, a quienH1841
+- Dan_6:17el acuerdo acerca de D no se alteraseH1841
+- Dan_6:20llamó a voces a D con voz triste, y leH1841
+- Dan_6:20D, siervo del Dios viviente, el Dios tuyoH1841
+- Dan_6:21D respondió al rey: Oh rey, vive paraH1841
+- Dan_6:23mandó sacar a D...fue D sacado del fosoH1841
+- Dan_6:24traídos aquellos...que habían acusado a DH1841
+- Dan_6:26teman...ante la presencia del Dios de DH1841
+- Dan_6:27ha librado a D del poder de los leonesH1841
+- Dan_6:28D prosperó durante el reinado de DaríoH1841
+- Dan_7:1primer año...tuvo D un sueño, y visionesH1841
+- Dan_7:2D dijo: Miraba yo en mi visión de nocheH1841
+- Dan_7:15me turbó el espíritu a mí, D, en medioH1841
+- Dan_7:28en cuanto a mí, D, mis pensamientos seH1841
+- Dan_8:1apareció una visión a mí, D, después deH1840
+- Dan_8:15que mientras yo D consideraba la visiónH1840
+- Dan_8:27yo D quedé quebrantado, y estuve enfermoH1840
+- Dan_9:2yo D miré...en los libros el número de losH1840
+- Dan_9:22D, ahora he salido para darte sabiduríaH1840
+- Dan_10:1el año tercero...fue revelada palabra a DH1840
+- Dan_10:2yo D estuve afligido por espacio de tresH1840
+- Dan_10:7sólo yo, D, vi aquella visión, y no laH1840
+- Dan_10:11D, varón muy amado, está atento a lasH1840
+- Dan_10:12D, no temas; porque desde el primer díaH1840
+- Dan_12:4pero tú, D, cierra las palabras y sellaH1840
+- Dan_12:5y yo D miré, y he aquí otros dos queH1840
+- Dan_12:9respondió: Anda, D, pues estas palabrasH1840
+- Mat_24:15; Mar_13:14de que habló el profeta DG1158

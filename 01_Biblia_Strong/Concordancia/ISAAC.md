@@ -1,0 +1,141 @@
+---
+tipo: concordancia
+palabra: ISAAC
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ISAAC
+
+- Hijo de Abraham
+- Gén_17:19llamarás su nombre I; y confirmaréH3327
+- Gén_17:21yo estableceré mi pacto con I, el queH3327
+- Gén_21:3llamó Abraham el nombre de su hijo...IH3327
+- Gén_21:4circuncidó Abraham a...I de ocho díasH3327
+- Gén_21:5era Abraham de cien años cuando nació IH3327
+- Gén_21:8gran banquete el día que fue destetado IH3327
+- Gén_21:9el hijo de Agar...se burlaba de su hijo I
+- Gén_21:10el hijo...no ha de heredar con I mi hijoH3327
+- Gén_21:12porque en I...será llamada descendenciaH3327
+- Gén_22:2toma ahora tu hijo, tu...I, a quien amasH3327
+- Gén_22:3tomó consigo dos siervos suyos, y a IH3327
+- Gén_22:6la leña...la puso sobre I su hijo, y élH3327
+- Gén_22:7entonces habló I a Abraham su padre, yH3327
+- Gén_22:9ató a I su hijo, y lo puso en el altarH3327
+- Gén_24:4irás...y tomarás mujer para mi hijo IH3327
+- Gén_24:14que tú has destinado para tu siervo IH3327
+- Gén_24:62venía I del pozo...porque él habitabaH3327
+- Gén_24:63había salido I a meditar al campo, aH3327
+- Gén_24:64Rebeca...alzó sus ojos, y vio a I, yH3327
+- Gén_24:66el criado contó a I todo lo que habíaH3327
+- Gén_24:67y la trajo I a la tienda de su madreH3327
+- Gén_24:67consoló I...de la muerte de su madreH3327
+- Gén_25:5y Abraham dio todo cuanto tenía a IH3327
+- Gén_25:6los envió lejos de I su hijo, mientrasH3327
+- Gén_25:9lo sepultaron I e Ismael sus hijos enH3327
+- Gén_25:11muerto Abraham, que Dios bendijo a IH3327
+- Gén_25:11habitó I junto al pozo del VivienteH3327
+- Gén_25:19estos son...de I...Abraham engendró a IH3327
+- Gén_25:20era I de cuarenta años cuando tomóH3327
+- Gén_25:21oró I a Jehová por su mujer, que eraH3327
+- Gén_25:26era I de edad de sesenta años cuandoH3327
+- Gén_25:28amó I a Esaú, porque comía de su cazaH3327
+- Gén_26:1fue I a Abimelec rey de los filisteosH3327
+- Gén_26:6habitó, pues, I en GerarH3327
+- Gén_26:8a I que acariciaba a Rebeca su mujerH3327
+- Gén_26:9y llamó Abimelec a I, y dijo: He aquíH3327
+- Gén_26:9e I le respondió: Porque dije: QuizáH3327
+- Gén_26:12sembró I en aquella tierra, y cosechóH3327
+- Gén_26:16entonces dijo Abimelec a I: ApártateH3327
+- Gén_26:17I se fue de allí, y acampó en el valleH3327
+- Gén_26:18y volvió a abrir I los pozos de aguaH3327
+- Gén_26:19cuando los siervos de I cavaron enH3327
+- Gén_26:20Gerar riñeron con los pastores de IH3327
+- Gén_26:25y abrieron...los siervos de I un pozoH3327
+- Gén_26:27les dijo I: ¿Por qué venís a mí, puesH3327
+- Gén_26:31e I los despidió, y ellos se...en pazH3327
+- Gén_26:32que vinieron los criados de I, y leH3327
+- Gén_26:35fueron amargura de espíritu para I yH3327
+- Gén_27:1aconteció que cuando I envejeció, y susH3327
+- Gén_27:5oyendo, cuando hablaba I a Esaú su hijoH3327
+- Gén_27:18I respondió: Heme aquí; ¿quién eres
+- Gén_27:20entonces I dijo a su hijo ¿Cómo esH3327
+- Gén_27:21I dijo a Jacob: Acércate ahora, y teH3327
+- Gén_27:22se acercó Jacob a su padre I...palpóH3327
+- Gén_27:25y Jacob se la acercó, e I comió; le
+- Gén_27:26le dijo I su padre: Acércate ahora, yH3327
+- Gén_27:27olió I el olor de sus vestidos, y le
+- Gén_27:30luego que I acabó de bendecir a JacobH3327
+- Gén_27:30había salido Jacob de delante de IH3327
+- Gén_27:32entonces I su padre le dijo: ¿QuiénH3327
+- Gén_27:33se estremeció I grandemente, y dijoH3327
+- Gén_27:37I respondió y dijo a Esaú: He aquí yoH3327
+- Gén_27:39entonces I su padre habló y le dijoH3327
+- Gén_27:46dijo Rebeca a I: Fastidio tengo de miH3327
+- Gén_28:1entonces I llamó a Jacob, y lo bendijoH3327
+- Gén_28:5así envió I a Jacob, el cual fue aH3327
+- Gén_28:6y vio Esaú cómo I había bendecido aH3327
+- Gén_28:8las hijas de Canaán parecían mal a IH3327
+- Gén_28:13soy...el Dios de I; la tierra en queH3327
+- Gén_31:18volverse a I su padre en la tierra deH3327
+- Gén_31:42temor de I, no estuviera conmigo, deH3327
+- Gén_31:53Jacob juró por aquel a quien temía IH3327
+- Gén_32:9y Dios de mi padre I, Jehová, que meH3327
+- Gén_35:12la tierra que he dado a Abraham y a IH3327
+- Gén_35:27vino Jacob a I su padre a Mamre, a laH3327
+- Gén_35:27Hebrón, donde habitaron Abraham e IH3327
+- Gén_35:28y fueron los días de I 180 añosH3327
+- Gén_35:29exhaló I el espíritu, y murió, y fueH3327
+- Gén_46:1sacrificios al Dios de su padre IH3327
+- Gén_48:15el Dios en...anduvieron, Abraham e IH3327
+- Gén_48:16el nombre de mis padres Abraham e IH3327
+- Gén_49:31sepultaron a I y a Rebeca su mujerH3327
+- Gén_50:24la tierra que juró a Abraham, a I y aH3327
+- Éxo_2:24se acordó de su pacto con...I y JacobH3327
+- Éxo_3:6Dios de Abraham, Dios de I, y Dios deH3327
+- Éxo_3:15Dios de I y Dios de Jacob...enviado aH3327
+- Éxo_3:16el Dios de...I y de Jacob, me aparecióH3327
+- Éxo_4:5creerán que...ha aparecido...Dios de IH3327
+- Éxo_6:3y aparecí a...I...como Dios OmnipotenteH3327
+- Éxo_6:8jurando que la daría a...a I y a JacobH3327
+- Éxo_32:13acuérdate de Abraham, de I...IsraelH3327
+- Éxo_33:1tierra de la cual juré a Abraham, I yH3327
+- Lev_26:42yo me acordaré...de mi pacto con I, yH3327
+- Núm_32:11tierra que prometí con juramento...IH3327
+- Deu_1:8tierra que Jehová juró a...I y JacobH3327
+- Deu_6:10juró a tus padres Abraham, I y JacobH3327
+- Deu_9:5la palabra que Jehová juró a...I y JacobH3327
+- Deu_9:27acuérdate de tus siervos Abraham, I yH3327
+- Deu_29:13y como lo juró a...Abraham, I y JacobH3327
+- Deu_30:20tierra que juró Jehová a...I y JacobH3327
+- Deu_34:4esta es la tierra de que juré a...I y aH3327
+- Jos_24:3aumenté su descendencia, y le di IH3327
+- Jos_24:4a I di Jacob y Esaú. Y a Esaú di elH3327
+- 1Re_18:36Dios de Abraham, de I y de IsraelH3327
+- 2Re_13:23miró, a causa de su pacto con...IH3327
+- 1Cr_1:28los hijos de Abraham: I e IsmaelH3327
+- 1Cr_1:34engendró a I, y los hijos de I fueronH3327
+- 1Cr_16:16con Abraham, y de su juramento a IH3327
+- 1Cr_29:18Jehová, Dios de Abraham, de I...conservaH3327
+- 2Cr_30:6volveos a...Dios de Abraham, de IH3327
+- Sal_105:9la cual concertó con Abraham...a IH3446
+- Jer_33:26sobre la posteridad...I y de JacobH3446
+- Amó_7:9lugares altos de I serán destruidosH3446
+- Amó_7:16dices...ni hables contra la casa de IH3446
+- Mat_1:2Abraham engendró a I, I a Jacob, yG2464
+- Mat_8:11se sentarán con Abraham e I y Jacob enG2464
+- Mat_22:32; Mar_12:26yo soy el Dios...de I y elG2464
+- Luc_3:34hijo de I, hijo de Abraham...de TaréG2464
+- Luc_13:28cuando veáis...a I, a Jacob y a todosG2464
+- Luc_20:37llama al Señor...Dios de I y Dios deG2464
+- Hec_3:13el Dios de...I...ha glorificado a suG2464
+- Hec_7:8y así Abraham engendró a I...e I a JacobG2464
+- Hec_7:32soy el Dios, de I, y el Dios de JacobG2464
+- Rom_9:7en I te será llamada descendenciaG2464
+- Rom_9:10cuando Rebeca concibió de uno, de IG2464
+- Gál_4:28nosotros, como I, somos hijos de laG2464
+- Heb_11:9fe...morando en tiendas con I y JacobG2464
+- Heb_11:17cuando fue probado, ofreció a I; y elG2464
+- Heb_11:18en I te será llamada descendenciaG2464
+- Heb_11:20por la fe bendijo I a Jacob y a EsaúG2464
+- Stg_2:21ofreció a su hijo I sobre el altar?[[G2464]]

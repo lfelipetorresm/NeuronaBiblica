@@ -1,0 +1,102 @@
+---
+tipo: concordancia
+palabra: SEIS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SEIS
+
+- Véanse también Seiscientos, Seis mil, etc.
+- Gén_30:20le he dado a luz s hijos; y llamó suH8337
+- Gén_31:41y s años por tu ganado, y has cambiadoH8337
+- Éxo_16:26s días lo recogeréis; mas el séptimoH8337
+- Éxo_20:9s días trabajarás, y harás toda...obraH8337
+- Éxo_20:11en s días hizo Jehová los cielos y laH8337
+- Éxo_21:2comprares siervo hebreo, s años serviráH8337
+- Éxo_23:10s años sembrarás tu tierra...tu cosechaH8337
+- Éxo_23:12s días trabajarás, y al séptimo díaH8337
+- Éxo_24:16y la nube lo cubrió por s días; y alH8337
+- Éxo_25:32y saldrán s brazos de sus lados; tresH8337
+- Éxo_25:33, Éxo_25:35los s brazos que salen del candeleroH8337
+- Éxo_26:9y unirás...y las otras s cortinas aparteH8337
+- Éxo_26:22para el lado posterior...harás s tablasH8337
+- Éxo_28:10s de sus nombres en una...los otros s enH8337
+- Éxo_31:15s días se trabajará...séptimo es día deH8337
+- Éxo_31:17en s días hizo Jehová los cielos y laH8337
+- Éxo_34:21s días trabajarás, mas en el séptimoH8337
+- Éxo_35:2s días se trabajará, mas el día séptimoH8337
+- Éxo_36:16aparte, y las otras s cortinas aparteH8337
+- Éxo_36:27para el lado occidental del...s tablasH8337
+- Éxo_37:18sus lados salían s brazos; tres brazosH8337
+- Éxo_37:19los s brazos que salían del candeleroH8337
+- Éxo_37:21conforme a los s brazos que salían deH8337
+- Lev_23:3s días se trabajará, mas el séptimoH8337
+- Lev_24:6s en cada hilera, sobre la mesa limpiaH8337
+- Lev_25:3s años sembrarás...y s años podarás tuH8337
+- Núm_7:3s carros cubiertos y doce bueyes: porH8337
+- Núm_35:6s ciudades serán de refugio, las cualesH8337
+- Núm_35:13daréis, tendréis s ciudades de refugioH8337
+- Núm_35:15estas s ciudades serán de refugio paraH8337
+- Deu_5:13s días trabajarás, y harás toda...obraH8337
+- Deu_15:12te hubiere servido s años, al séptimoH8337
+- Deu_15:18por la mitad del costo...sirvió s añosH8337
+- Deu_16:8s días comerás pan sin levadura...fiestaH8337
+- Jos_6:3la ciudad...esto haréis durante s díasH8337
+- Jos_6:14de esta manera hicieron durante s díasH8337
+- Jos_15:59y Eltecón; s ciudades con sus aldeasH8337
+- Jos_15:62y En-gadi; s ciudades con sus aldeasH8337
+- Jue_12:7Jefté juzgó a Israel s años; y murióH8337
+- Rut_3:15él midió s medidas de cebada, y se lasH8337
+- Rut_3:17dijo: Estas s medidas de cebada me dioH8337
+- 1Sa_17:4y tenía de altura s codos y un palmoH8337
+- 2Sa_2:11David reinó en...siete años y s mesesH8337
+- 2Sa_5:5en Hebrón reinó...siete años y s meses, yH8337
+- 2Sa_6:13habían andado s pasos, él sacrificó unH8337
+- 1Re_6:6el de en medio de s codos de ancho, yH8337
+- 1Re_10:19s gradas tenía el trono, y la parte altaH8337
+- 1Re_10:20también doce leones...sobre las s gradasH8337
+- 1Re_11:16s meses habitó allí Joab, y todo IsraelH8337
+- 1Re_16:23y reinó 12 años; en Tirsa reinó s añosH8337
+- 2Re_11:3con ella escondido en la casa...s añosH8337
+- 2Re_13:19al dar...s golpes, hubieras derrotado aH8337
+- 2Re_15:8el año 38...reinó Zacarías hijo...s mesesH8337
+- 1Cr_3:4estos s le nacieron en Hebrón, dondeH8337
+- 1Cr_3:4Hebrón, donde reinó siete años y s mesesH8337
+- 1Cr_3:22los hijos de Semaías: Hatús...Safat, sH8337
+- 1Cr_4:27los hijos de Simei fueron 16, y s hijasH8337
+- 1Cr_8:38hijos de Azel fueron s, cuyos nombresH8337
+- 1Cr_9:44Azel tuvo s hijos, los nombres de losH8337
+- 1Cr_20:6el cual tenía s dedos en pies y manosH8337
+- 1Cr_25:3s, bajo la dirección de...padre JedutúnH8337
+- 1Cr_26:17al oriente s levitas, al norte cuatroH8337
+- 2Cr_9:18trono tenía s gradas, y un estradoH8337
+- 2Cr_9:19doce leones sobre las s gradas, a uno yH8337
+- 2Cr_22:12escondido en la casa de Dios s añosH8337
+- Neh_5:18se preparaba...era un buey y s ovejasH8337
+- Est_2:12s meses con óleo de mirra y s mesesH8337
+- Job_5:19en s tribulaciones te librará, y en laH8337
+- Pro_6:16s cosas aborrece Jehová, y aun sieteH8337
+- Isa_6:2había serafines; cada uno tenía s alasH8337
+- Jer_34:14servirá s años, y lo enviará libreH8337
+- Eze_9:2aquí s varones venían del camino de laH8337
+- Eze_40:5caña...era de s codos de a codo y palmoH8337
+- Eze_40:12s codos por un lado, y s codos por elH8337
+- Eze_41:1s codos de un lado, y s codos de otroH8337
+- Eze_41:3y la puerta, de s codos; y la anchuraH8337
+- Eze_41:5midió el muro de la casa, de s codosH8337
+- Eze_41:8cimientos...una caña entera de s codosH8337
+- Eze_46:1puerta del...estará cerrada los s díasH8337
+- Eze_46:4el holocausto...s corderos sin defectoH8337
+- Eze_46:6s corderos, y un carnero; deberán serH8337
+- Dan_3:1su anchura de s codos; la levantó enH8353
+- Mat_17:1; Mar_9:2s días...Jesús tomó a PedroG1803
+- Luc_4:25fue cerrado por tres años y s mesesG1803
+- Luc_13:14s días hay en que se debe trabajar; enG1803
+- Jua_2:6estaban...s tinajas de piedra para aguaG1803
+- Jua_12:1s días antes de la pascua, vino Jesús aG1803
+- Hec_11:12fueron...conmigo estos s hermanos, yG1803
+- Hec_18:11allí un año y s meses, enseñándoles laG1803
+- Stg_5:17y no llovió...por tres años y s mesesG1803
+- Rev_4:8tenían cada uno s alas, y alrededor yG1803
+- Rev_6:6decía...s libras de cebada por un denario

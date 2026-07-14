@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: ARREBATAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ARREBATAR
+
+- Gén_31:39te traje lo arrebatado por las fierasH2966
+- Éxo_22:13arrebatado por fiera...no pagará lo aH2966
+- Lev_26:22bestias...se arrebaten vuestros hijosH7921
+- Núm_31:9Israel...arrebataron todos sus bienesH962
+- Deu_28:31tu asno será arrebatado de delante deH1497
+- Deu_33:20como león reposa, y arrebata brazo yH2963
+- Jue_21:21y arrebatad cada uno mujer para síH2414
+- 2Sa_23:21arrebató al egipcio la lanza de laH1497
+- 2Re_3:27arrebató a su primogénito que habíaH3947
+- 1Cr_11:23arrebató al egipcio la lanza de laH1497
+- Job_9:12arrebatará; ¿quién le hará restituir?[[H2862]]
+- Job_13:25a la hoja arrebatada has de quebrantarH5086
+- Job_16:12arrebató por la cerviz y me despedazóH270
+- Job_21:18como el tamo que arrebata el torbellinoH1589
+- Job_24:19el calor arrebatan las aguas de la nieveH1497
+- Job_27:20él...torbellino lo arrebatará de nocheH1589
+- Job_27:21y tempestad lo arrebatará de su lugarH8175
+- Sal_1:4como el tamo que arrebata el vientoH5086
+- Sal_10:9acecha para arrebatar al pobre; arrebataH2414
+- Sal_26:9no arrebates con los pecadores mi almaH622
+- Sal_28:3no me arrebates...con los malos, y conH4900
+- Sal_58:9vivos...los arrebatarás él con tempestadH8175
+- Sal_88:5y que fueron arrebatados de tu manoH1504
+- Sal_90:5los arrebatas como con torrente de aguasH2229
+- Isa_5:29crujirá los dientes, y arrebatará laH270
+- Isa_10:6que quite despojos, y arrebate presa, yH962
+- Isa_17:11la cosecha será arrebatada en el día deH5062
+- Isa_28:19que comience a pasar, él os arrebataráH3947
+- Isa_33:23botín...los cojos arrebatarán el botínH962
+- Isa_41:2como hojarasca que su arco arrebata?[[H5086]]
+- Isa_49:25y el botín será arrebatado al tiranoH3947
+- Isa_57:13a todos ellos un soplo los arrebataráH5375
+- Jer_5:6que de ellas saliere será arrebatadoH2963
+- Jer_8:21quebrantado...espanto me ha arrebatadoH2388
+- Jer_12:3arrebatados como...para el degolladeroH5423
+- Eze_19:3, Eze_19:6aprendió a arrebatar la presaH2963
+- Eze_22:25como león rugiente que arrebata presaH2963
+- Eze_22:27son como lobos que arrebatan presaH2963
+- Eze_23:26y te arrebatarán todos los adornos deH3947
+- Eze_24:25el día que yo arrebate...su fortalezaH3947
+- Eze_29:19y arrebatará botín, y habrá paga paraH962
+- Eze_38:12arrebatar despojos y para tomar botínH962
+- Eze_38:13¿has venido a arrebatar despojos? ¿HasH962
+- Ose_5:14yo arrebataré, y me iré; tomaré, y noH2963
+- Ose_6:1él arrebató y nos curará; hirió, y nosH2963
+- Joe_1:16fue arrebatado el alimento de delanteH3772
+- Miq_5:8pasare...arrebatare, no hay quien escapeH2963
+- Nah_2:12el león arrebataba...para sus cachorrosH2963
+- Zac_3:2¿no es éste un tizón arrebatado delH5337
+- Mat_11:12el reino...los violentos lo arrebatanG726
+- Mat_13:19viene el malo, y arrebata lo...sembradoG726
+- Jua_10:12y el lobo arrebata las ovejas y lasG4650
+- Jua_10:28ni nadie las arrebatará de mi manoG726
+- Jua_10:29nadie las puede arrebatar de la mano deG726
+- Hec_6:12arrebataron, y le trajeron al concilioG4884
+- Hec_8:39el Espíritu del Señor arrebató a FelipeG726
+- Hec_19:29se lanzaron al...arrebatando a Gayo y aG4884
+- Hec_23:10y le arrebatasen de en medio de ellosG726
+- Hec_27:15siendo arrebatada la nave, y no pudiendoG4884
+- 2Co_12:2fue arrebatado hasta el tercer cieloG726
+- 2Co_12:4que fue arrebatado al paraíso, donde oyóG726
+- 1Ts_4:17seremos arrebatados juntamente conG726
+- Jud_1:23otros salvad, arrebatándolos del fuegoG726
+- Rev_12:5su hijo fue arrebatado por Dios y paraG726

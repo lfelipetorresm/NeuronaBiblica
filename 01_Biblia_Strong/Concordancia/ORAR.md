@@ -1,0 +1,183 @@
+---
+tipo: concordancia
+palabra: ORAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ORAR
+
+- Gén_20:7es profeta, y orará por ti, y vivirásH6419
+- Gén_20:17Abraham oró a...y Dios sanó a AbimelecH6419
+- Gén_25:21oró Isaac a Jehová por su mujer, que
+- Éxo_8:8orad a Jehová para que quite las ranasH6279
+- Éxo_8:9cuándo debo orar por ti, por tus siervosH6279
+- Éxo_8:28tal que no vayáis más lejos; orad por míH6279
+- Éxo_8:30salió de la presencia de Faraón, y oró
+- Éxo_9:28orad...para que cesen los truenos de Dios
+- Éxo_10:17os ruego...oréis a Jehová vuestro DiosH4994
+- Éxo_10:18salió Moisés de delante...oró a Jehová
+- Éxo_32:11Moisés oró en presencia de Jehová suH2470
+- Núm_11:2el pueblo clamó...y Moisés oró a JehováH6419
+- Núm_21:7hemos pecado...Moisés oró por el puebloH6419
+- Deu_3:23y oré a Jehová en...tiempo, diciendoH2603
+- Deu_9:20también oré por Aarón en aquel entoncesH6419
+- Deu_9:26oré a Jehová, diciendo: Oh Señor JehováH6419
+- Jue_13:8entonces oró Manoa a Jehová, y dijo
+- 1Sa_1:10ella con amargura de alma oró a JehováH6419
+- 1Sa_1:12mientras ella oraba...delante de JehováH6419
+- 1Sa_1:26aquella mujer que estuvo aquí...orandoH6419
+- 1Sa_1:27por este niño oraba, y Jehová me dio loH6419
+- 1Sa_2:1Ana oró y dijo: Mi corazón se regocija enH6419
+- 1Sa_7:5a todo Israel en Mizpa, y yo oraré porH6419
+- 1Sa_8:6pero no agradó a Samuel...y Samuel oró aH6419
+- 1Re_8:30cuando oren en este lugar...lo oirásH6419
+- 1Re_8:33y oraren y te...suplicaren en esta casaH6419
+- 1Re_8:42oirán de...y viniere a orar a esta casaH6419
+- 1Re_8:44y oraren a Jehová con el rostro haciaH6419
+- 1Re_8:47y oraren a ti en la tierra de los queH2607
+- 1Re_8:48oraren...con el rostro hacia su tierraH6419
+- 1Re_8:59mis palabras con que he orado delante deH2603
+- 1Re_13:6que ores por mí, para que mi mano me seaH6419
+- 1Re_13:6varón...oró a Jehová, y la mano del reyH2470
+- 2Re_4:33cerró la puerta tras ambos, y oró aH6419
+- 2Re_6:17oró Eliseo, y dijo...que abras sus ojosH4994
+- 2Re_6:18oró Eliseo a Jehová, y dijo: Te ruegoH4994
+- 2Re_13:4mas Joacaz oró en presencia de Jehová, yH2470
+- 2Re_19:15y oró Ezequías...diciendo: Jehová DiosH6419
+- 2Re_20:2él volvió su rostro a...y oró a JehováH6419
+- 1Cr_17:25hallado tu siervo motivo para orarH6419
+- 2Cr_6:19con que tu siervo ora delante de tiH8605
+- 2Cr_6:20la oración con que tu siervo ora en esteH8605
+- 2Cr_6:26haber pecado contra ti, si oraren a tiH6419
+- 2Cr_6:32extranjero que...orare hacia esta casaH6419
+- 2Cr_6:34y oraren a ti hacia esta ciudad que tú
+- 2Cr_6:37si se convirtieren, y oraren a ti en laH2603
+- 2Cr_6:38y oraren hacia la tierra que tú diste aH6419
+- 2Cr_7:1Salomón acabó de orar, descendió fuegoH6419
+- 2Cr_7:14y oraren, y buscaren mi rostro...yo oiréH6419
+- 2Cr_30:18mas Ezequías oró por ellos, diciendoH6419
+- 2Cr_32:20Ezequías y el profeta Isaías...oraronH6419
+- 2Cr_32:24oró a Jehová, quien le respondió, y leH6419
+- 2Cr_33:12fue puesto en angustias, oró a JehováH2470
+- 2Cr_33:13habiendo orado a él, fue atendido; puesH6419
+- Esd_6:10oren por la vida del rey y por susH6739
+- Esd_10:1mientras oraba Esdras...se juntó a él unaH6739
+- Neh_1:4y oré delante del Dios de los cielosH6739
+- Neh_2:4dijo el rey...oré al Dios de los cielosH6739
+- Neh_4:9oramos a nuestro Dios, y por causa de ellosH6739
+- Job_21:15de qué nos aprovechará que oremos aH6293
+- Job_22:27entonces orarás a él, y él te oiráH6279
+- Job_33:26orará a Dios, y éste le amará, y veráH6279
+- Job_42:8id...y mi siervo Job orará por vosotrosH6419
+- Job_42:10cuando él hubo orado por sus amigos, yH6419
+- Sal_5:2atento a la voz de...porque a ti oraréH6419
+- Sal_32:6orará a ti todo santo en el tiempo enH6419
+- Sal_55:17tarde y mañana y a mediodía oraré yH7878
+- Sal_69:13a ti oraba, oh Jehová, al tiempo de tuH8605
+- Sal_72:15se orará por él continuamente; todo elH6419
+- Sal_109:4me han sido adversarios; mas yo orabaH8605
+- Isa_16:12Moab...venga a su santuario a orar, noH6419
+- Isa_37:15entonces Ezequías oró a Jehová, diciendoH6419
+- Isa_53:12pecado...y orado por los transgresoresH6293
+- Jer_7:16; Jer_11:14no ores por este pueblo, niH6419
+- Jer_26:19oró en presencia de Jehová, y JehováH2470
+- Jer_27:18oren ahora a Jehová de los ejércitosH6293
+- Jer_29:12vendréis y oraréis a mí, y yo os oiréH6419
+- Jer_32:16después que di la carta...oré a JehováH6419
+- Jer_42:4voy a orar a Jehová vuestro Dios, comoH6419
+- Jer_42:20diciendo: Oro por nosotros a JehováH6419
+- Dan_6:10y oraba y daba gracias delante de suH6739
+- Dan_6:11hallaron a Daniel orando y rogando enH1156
+- Dan_9:4y oré a Jehová mi Dios e hice confesiónH6419
+- Dan_9:20estaba...orando, y confesando mi pecadoH6419
+- Jon_2:1oró Jonás a Jehová su Dios desde elH6419
+- Jon_4:2y oró a Jehová y dijo: Ahora, oh JehováH6419
+- Mal_1:9orad por el favor de Dios, para queH4994
+- Mat_5:44y orad por los que os ultrajan y osG4336
+- Mat_6:5cuando ores, no seas como los hipócritasG4336
+- Mat_6:5aman el orar en pie en las sinagogas y enG4336
+- Mat_6:6mas tú, cuando ores, entra en tu aposentoG4336
+- Mat_6:6y cerrada la puerta, ora a tu Padre queG4336
+- Mat_6:7orando, no uséis vanas repeticiones, comoG4336
+- Mat_6:9oraréis así: Padre nuestro que estás enG4336
+- Mat_14:23subió al monte a orar aparte, y cuandoG4336
+- Mat_19:13pusiere las manos sobre ellos, y oraseG4336
+- Mat_24:20orad, pues, que vuestra huida no sea enG4336
+- Mat_26:36sentaos aquí, entre tanto que voy...oroG4336
+- Mat_26:39se postró sobre su rostro, orando yG4336
+- Mat_26:41orad, para que no entréis en tentaciónG4336
+- Mat_26:42oró por segunda vez, diciendo: PadreG4336
+- Mat_26:44se fue...y oró por tercera vez, diciendoG4336
+- Mat_26:53¿acaso piensas que no puedo ahora orarG3870
+- Mar_1:35fue a un lugar desierto, y allí orabaG4336
+- Mar_6:46hubo despedido, se fue al monte a orarG4336
+- Mar_11:24que pidiereis orando, creed...y os vendráG4336
+- Mar_11:25y cuando estéis orando, perdonad, siG4336
+- Mar_13:18orad, pues, que vuestra huida no sea enG4336
+- Mar_13:33orad...no sabéis cuándo será el tiempoG4336
+- Mar_14:32sentaos aquí, entre tanto que yo oroG4336
+- Mar_14:35se postró en tierra, y oró que sí fueseG4336
+- Mar_14:38orad, para que no entréis en tentaciónG4336
+- Mar_14:39fue y oró, diciendo las mismas palabrasG4336
+- Luc_1:10fuera orando a la hora del inciensoG4336
+- Luc_3:21bautizado; y orando, el cielo se abrióG4336
+- Luc_5:16se apartaba a lugares desiertos, y orabaG4336
+- Luc_6:12al monte a orar, y pasó la noche orandoG4336
+- Luc_6:28bendecid...orad por los que os calumnianG4336
+- Luc_9:18Jesús oraba aparte, estaban con él losG4336
+- Luc_9:28ocho días después...subió al monte a orarG4336
+- Luc_9:29entre tanto que oraba, la apariencia deG4336
+- Luc_11:1estaba Jesús orando en...y cuando terminóG4336
+- Luc_11:1enséñanos a orar, como...Juan enseñó a susG4336
+- Luc_11:2cuando oréis, decid: Padre nuestro queG4336
+- Luc_18:1una parábola sobre la necesidad de orarG4336
+- Luc_18:10dos hombres subieron al templo a orarG4336
+- Luc_18:11fariseo, puesto en pie, oraba consigoG4336
+- Luc_21:36orando que seáis...dignos de escapar deG1189
+- Luc_22:40dijo: Orad que no entréis en tentaciónG4336
+- Luc_22:41él se apartó...y puesto de rodillas oróG4336
+- Luc_22:44en agonía, oraba más intensamente; yG4336
+- Luc_22:46orad para que no entréis en tentaciónG4336
+- Hec_1:24y orando, dijeron: Tú, Señor, queG4336
+- Hec_4:31cuando hubieron orado, el lugar...temblóG1189
+- Hec_6:6quienes, orando, les impusieron las manosG4336
+- Hec_8:15oraron...que recibiesen el Espíritu SantoG4336
+- Hec_9:11a uno llamado Saulo, de Tarso...él oraG4336
+- Hec_9:40todos, Pedro se puso de rodillas y oróG4336
+- Hec_10:2muchas limosnas...y oraba a Dios siempreG1189
+- Hec_10:9subió a la azotea para orar, cerca de laG4336
+- Hec_10:30mientras oraba en mi casa, vi que seG4336
+- Hec_11:5estaba yo...orando, y vi en éxtasis unaG4336
+- Hec_12:12donde muchos estaban reunidos orandoG4336
+- Hec_13:3habiendo...orado, les impusieron las manosG4336
+- Hec_14:23orado con ayunos, los encomendaron alG4336
+- Hec_16:25orando Pablo y Silas, cantaban himnosG4336
+- Hec_20:36puso de rodillas, y oró con todos ellosG4336
+- Hec_21:5puestos de rodillas en la playa, oramosG4336
+- Hec_22:17que orando en el templo me sobrevino unG4336
+- Hec_28:8y después de haber orado, le impuso lasG4336
+- Rom_15:30que me ayudéis orando por mí a DiosG4335
+- 1Co_11:4todo varón que ora...cabeza cubiertaG4336
+- 1Co_11:5toda mujer que ora o profetiza con laG4336
+- 1Co_11:13la mujer ore...sin cubrirse la cabeza?[[G4336]]
+- 1Co_14:14porque si yo oro en lengua desconocidaG4336
+- 1Co_14:15oraré con el espíritu, pero a tambiénG4336
+- 2Co_13:7oramos...que ninguna cosa mala hagáisG2172
+- 2Co_13:9y aun oramos por vuestra perfecciónG2172
+- Efe_6:18orando en todo tiempo con toda oraciónG4336
+- Col_1:3orando por vosotros, damos gracias aG4336
+- Col_1:9no cesamos de orar por vosotros, y deG4336
+- Col_4:3orando también...por nosotros, para queG4336
+- 1Ts_3:10orando...que veamos vuestro rostroG1189
+- 1Ts_5:17orad sin cesarG4336
+- 1Ts_5:25hermanos, orad por nosotrosG4336
+- 2Ts_1:11oramos siempre por vosotros, paraG4336
+- 2Ts_3:1por lo demás, hermanos, orad por nosotrosG4336
+- 1Ti_2:8que los hombres oren en todo lugarG4336
+- Heb_13:18orad por nosotros; pues confiamos enG4336
+- Stg_5:14llame a los ancianos...y oren por élG4336
+- Stg_5:16y orad unos por otros, para que seáisG4336
+- Stg_5:17Ellas...oró...para que no lloviese, y noG4336
+- Stg_5:18otra vez oró, y el cielo dio lluvia, yG4336
+- Jud_1:20vosotros...orando en el Espíritu SantoG4336

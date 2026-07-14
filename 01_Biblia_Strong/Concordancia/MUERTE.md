@@ -1,0 +1,348 @@
+---
+tipo: concordancia
+palabra: MUERTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MUERTE
+
+- Gén_24:67consoló Isaac...de la m de su madre
+- Gén_26:18habían cegado después...m de AbrahamH4194
+- Gén_27:2aquí ya soy viejo, no sé el día de mi mH4194
+- Gén_27:10para que él te bendiga antes de su mH4194
+- Gén_37:26matemos...hermano y encubramos su m?[[H1818]]
+- Gén_50:16tu padre mandó antes de su m, diciendoH4194
+- Éxo_4:19muerto todos los que procuraban tu mH4191
+- Éxo_21:22abortare...sin haber m, serán penadosH611
+- Éxo_21:23mas si hubiere m...pagarás vida por vidaH611
+- Éxo_22:2el que lo hirió no será culpado de su mH1818
+- Éxo_22:3el autor de la m será reo de homicidioH1818
+- Lev_16:1después de la m de los dos hijos deH4194
+- Lev_24:17el hombre que hiere de m a...sufra la mH5221, [[H4191]]
+- Lev_24:21que hiere de m a un hombre, que mueraH5221
+- Núm_11:15y si así lo...yo te ruego que me des mH2026
+- Núm_16:41vosotros habéis dado m al pueblo deH4191
+- Núm_23:10muera yo la m de los rectos, y miH4194
+- Núm_31:19cualquiera que haya dado m a personaH2026
+- Núm_33:4a los que Jehová había herido de m deH5221
+- Núm_35:11el homicida que hiriere a alguno de mH5221
+- Núm_35:15que hiriere de m a otro sin intenciónH5221
+- Núm_35:17con piedra en la mano, que pueda dar mH4191
+- Núm_35:18instrumento de palo...que pueda dar mH4191
+- Núm_35:19el vengador de...él dará m al homicidaH4191
+- Núm_35:24entre el que causó la m y el vengadorH5221
+- Núm_35:30diere m a alguno...morirá el homicidaH5221
+- Núm_35:31no tomaréis precio por...condenado a mH4191
+- Deu_19:6el vengador de la...le hiera de m, noH5221
+- Deu_19:6le hiera...no debiendo ser condenado a mH4191
+- Deu_19:11lo acechare...lo hiriere de m, y muriereH5221, [[H5315]]
+- Deu_21:22cometido algún crimen digno de m, y loH4194
+- Deu_22:26a la joven...no hay en ella culpa de mH4194
+- Deu_30:15hoy la vida y el bien, la m y el malH4194
+- Deu_30:19que os he puesto delante la vida y la mH4194
+- Deu_31:14he aquí se ha acercado el día de tu mH4191
+- Deu_31:29yo sé que después de mi m, ciertamenteH4194
+- Jos_1:1después de la m de Moisés siervo deH4194
+- Jos_2:13y que libraréis nuestras vidas de la mH4194
+- Jos_20:6hasta la m del que fuere sumo sacerdoteH4194
+- Jue_1:1aconteció después de la m de JosuéH4194
+- Jue_4:1después de la m de Aod...hijos de IsraelH4191
+- Jue_5:18pueblo de Zabulón expuso su vida a la mH4191
+- Jue_13:7niño será nazareo...hasta el día de su mH4194
+- Jue_16:24cual había dado m a muchos de nosotrosH7235
+- Jue_21:5gran juramento...diciendo: Sufrirá la inH4191
+- Rut_1:17sólo la m hará separación entre...dosH4194
+- Rut_2:11tu suegra después de la m de tu maridoH4194
+- 1Sa_4:21por la m de su suegro y de su marido
+- 1Sa_5:11consternación de m en toda la ciudadH4194
+- 1Sa_15:32dijo Agag...ya pasó la amargura de la mH4194
+- 1Sa_20:3que apenas hay un paso entre mí y la mH4194
+- 1Sa_22:21Saúl había dado m a los sacerdotes deH2026
+- 1Sa_22:22yo he ocasionado la m a...las personas
+- 1Sa_24:18hecho conmigo bien...no me has dado mH2026
+- 1Sa_26:16vive Jehová...sois dignos de m, porqueH4194
+- 1Sa_30:2cautivas a...pero a nadie habían dado mH4191
+- 2Sa_1:1después de la m de Saúl...vuelto DavidH4194
+- 2Sa_1:23vida, tampoco en su m fueron separadosH4194
+- 2Sa_3:27en venganza de la m de Asael su hermanoH1818
+- 2Sa_3:30Abner...había dado m a Asael hermano deH4191
+- 2Sa_4:4cuando llegó...la noticia de la m de Saúl y
+- 2Sa_6:23nunca tuvo hijos hasta el día de su mH4194
+- 2Sa_12:5dijo...que el que tal hizo es digno de mH4194
+- 2Sa_13:30Absalón ha dado m a todos los hijos delH5221
+- 2Sa_13:32no diga...han dado m a todos los hijosH4191
+- 2Sa_15:21para m o para vida, donde mi señor elH4194
+- 2Sa_19:28toda la casa de mi padre era digna de mH4194
+- 2Sa_22:5me rodearon ondas de m, y torrentes deH4194
+- 2Sa_22:6del Seol...tendieron sobre mí lazos de ti¡[[H4194]]
+- 1Re_2:26vete a Anatot...pues eres digno de mH4194
+- 1Re_2:32ha dado m a dos varones más justosH2026
+- 1Re_9:16y dio m a los cananeos que habitaban laH2026
+- 1Re_11:40estuvo en Egipto hasta la m de SalomónH4194
+- 1Re_16:16oyó decir: Zimri ha...ha dado m al reyH5221
+- 2Re_1:1después de la m de Acab, se rebelóH4194
+- 2Re_2:21no habrá más en ellas m ni enfermedadH4194
+- 2Re_3:23y cada uno ha dado m a su compañeroH5221
+- 2Re_4:40Ávarón de Dios, hay m en esa olla! Y noH4194
+- 2Re_7:4sirios; si ellos nos dieren...m, moriremosH4191
+- 2Re_10:9yo he conspirado contra...y le he dado mH2026
+- 2Re_10:9pero ¿quién ha dado m a todos éstos?[[H5221]]
+- 2Re_14:5mató a los...que habían dado m al rey suH5221
+- 2Re_14:6no mató a...hijos de los que le dieron mH4191
+- 2Re_14:17vivió después de la m de Joás hijo deH4194
+- 2Re_15:5y estuvo leproso hasta el día de su mH4194
+- 2Re_20:1Ezequías cayó enfermo de m. Y vino a élH4191
+- 1Cr_19:2que lo consolasen de la m de su padre
+- 1Cr_22:5David antes de su m hizo preparativosH4194
+- 2Cr_21:13y además has dado m a tus hermanosH2026
+- 2Cr_22:4después de la m de su padre, ellos leH4194
+- 2Cr_25:25vivió Amasías hijo...después de la m deH4194
+- 2Cr_26:21rey Uzías fue leproso hasta...de su mH4194
+- 2Cr_32:11para entregaros a m, a hambre y a sedH4191
+- 2Cr_32:24en aquel tiempo Ezequías enfermó de mH4191
+- 2Cr_32:33honrándole en su m todo Judá y todaH4194
+- Esd_7:26sea juzgado...sea a m, a destierro, aH4193
+- Est_7:4nuestra m sería para el rey un daño
+- Job_3:5aféenlo, sombra de ni; repose sobre élH6757
+- Job_3:21que esperan la m, y ella no llega, aunqueH4194
+- Job_5:20en el hambre te salvará de la m, y delH4194
+- Job_7:15mi alma...quiso la m más que mis huesosH4194
+- Job_10:21tierra de tinieblas y de sombra de mH6757
+- Job_10:22como sombra de m y sin orden, y cuyaH6757
+- Job_12:22descubre...y saca a luz la sombra de mH6757
+- Job_18:13sus...devorará el primogénito de la mH4194
+- Job_24:12claman las almas de los heridos de mH2491
+- Job_24:17es para todos ellos como sombra de mH6757
+- Job_24:17terrores de sombra de m los tomanH6757
+- Job_27:15de él quedaren, en m serán sepultadosH4194
+- Job_28:3las piedras que hay en...en sombra de mH6757
+- Job_28:22y la m dijeron: Su fama hemos oído conH4194
+- Job_30:23yo sé que me conduces a la m, y a laH4194
+- Job_33:22su alma...su vida a los que causan la mH4191
+- Job_34:22no hay tinieblas ni sombra de m dondeH6757
+- Job_38:17sido descubiertas las puertas de la mH4194
+- Job_38:17has visto las puertas de la sombra de m?[[H6757]]
+- Sal_6:5porque en la m no hay memoria de tiH4194
+- Sal_7:13ha preparado armas de m, y ha labradoH4194
+- Sal_9:13que me levantas de las puertas de la mH4194
+- Sal_13:3alumbra mis ojos...que no duerma de mH4194
+- Sal_18:4me rodearon ligaduras de m, y torrentesH4194
+- Sal_18:5me rodearon, me tendieron lazos de mH4194
+- Sal_22:15y me has puesto en el polvo de la mH4194
+- Sal_23:4aunque ande en valle de sombra de m, noH6757
+- Sal_30:9¿qué provecho...en mi m cuando desciendaH1818
+- Sal_33:19para librar sus almas de la m, y paraH4194
+- Sal_44:19que...y nos cubrieses con sombra de mH6757
+- Sal_48:14Dios...nos guiará aun más allá de la mH4192
+- Sal_49:14como a rebaños que...la m los pastorearáH4194
+- Sal_55:4mí, y terrores de m sobre mí han caídoH4194
+- Sal_55:15la m les sorprenda; desciendan vivos alH4194
+- Sal_56:13has librado mi alma de la m, y mis piesH4194
+- Sal_68:20de Jehová el Señor es el librar de la mH4194
+- Sal_73:4porque no tienen congojas por su m, puesH4194
+- Sal_78:50no eximió la vida de ellos de la m, sinoH4194
+- Sal_79:11brazo preserva a los sentenciados a mH8546
+- Sal_89:10tú quebrantaste a...como a herido de mH2491
+- Sal_89:48¿qué hombre vivirá y no verá m...Seol?[[H4194]]
+- Sal_102:20para soltar a los sentenciados a mH8546
+- Sal_105:36hirió de m a todos los primogénitos enH5221
+- Sal_107:10moraban en tinieblas y sombra de mH6757
+- Sal_107:14sacó de...de la sombra de m, y rompióH6757
+- Sal_107:18y llegaron hasta las puertas de la mH4194
+- Sal_109:16quebrantado de corazón, para darle mH4191
+- Sal_116:3me rodearon ligaduras de m...angustiasH4194
+- Sal_116:8tú has librado mi alma de la m, mis ojosH4194
+- Sal_116:15estimada es a los...la m de sus santosH4194
+- Sal_118:18me castigó...mas no me entregó a la mH4194
+- Pro_2:18su casa está inclinada a la m, y susH4194
+- Pro_5:5sus pies descienden a la m; sus pasosH4194
+- Pro_7:27casa, que conduce a las cámaras de la mH4194
+- Pro_8:36todos los que me aborrecen aman la mH4194
+- Pro_10:2de provecho; mas la justicia libra de mH4194
+- Pro_11:4riquezas...mas la justicia librará de mH4194
+- Pro_11:19el que sigue el mal lo hace para su mH4194
+- Pro_12:28la justicia...y en sus caminos no hay mH4194
+- Pro_13:14; Pro_14:27apartarse de los lazos de la mH4194
+- Pro_14:12le parece...pero su fin es caminos de mH4194
+- Pro_14:32mas el justo en su m tiene esperanzaH4194
+- Pro_16:14la ira del rey es mensajero de m; masH4194
+- Pro_16:25hay camino que...su fin es camino de mH4194
+- Pro_18:21la m y la...están en poder de la lenguaH4194
+- Pro_21:6es aliento...de aquellos que buscan la mH4194
+- Pro_24:11libra a los que son llevados a la mH4194
+- Pro_24:11salva a los que están en peligro de mH2027
+- Pro_26:18enloquece, y echa llamas y saetas y mH4194
+- Ecl_7:1mejor el día de la m que el día delH4194
+- Ecl_7:26hallado más amarga que la m a la mujerH4194
+- Ecl_8:8tenga...ni potestad sobre el día de la mH4194
+- Cnt_8:6porque fuerte es como la m el amorH4194
+- Isa_9:2que moraban en tierra de sombra de mH6757
+- Isa_25:8destruirá a la m para siempre...enjugaráH4194
+- Isa_28:15pacto tenemos hecho con la m, e hicimosH4194
+- Isa_28:18y será anulado vuestro pacto con la mH4194
+- Isa_38:1en aquellos días Ezequías enfermó de mH4191
+- Isa_38:18no te exaltará, ni te alabará la m; niH4194
+- Isa_53:9mas con los ricos fue en su ni; aunqueH4194
+- Isa_53:12por cuanto derramó su vida hasta la mH4194
+- Jer_2:6condujo...tierra seca y de sombra de mH6757
+- Jer_8:3escogerá la m antes que la vida todo elH4194
+- Jer_9:21la m ha subido por nuestras ventanas, haH4194
+- Jer_13:16os la vuelva en sombra de in y tinieblasH6757
+- Jer_15:2que a m, a m; el que a espada, a espadaH4194
+- Jer_18:21maridos sean puestos a m, y sus jóvenesH4194
+- Jer_18:23conoces...su consejo contra mí para mH4194
+- Jer_21:8delante de...camino de vida y camino de mH4194
+- Jer_26:11en pena de m ha incurrido este hombreH4194
+- Jer_26:16no ha incurrido...en pena de m, porqueH4194
+- Jer_41:18temían, por haber dado m Ismael hijoH5221
+- Jer_43:11los que a m, a m, y los que a cautiverioH4194
+- Jer_52:34todos los días...hasta el día de su mH4194
+- Lam_1:20por fuera...la espada; por dentro...la mH4194
+- Eze_18:23¿quiero...la m del impío? dice JehováH4194
+- Eze_18:32porque no quiero la m del que muereH4194
+- Eze_21:29la emplees sobre los...sentenciados a mH2491
+- Eze_28:8morirás con la m de los que mueren enH4191
+- Eze_28:10de m de incircuncisos morirás por manoH4194
+- Eze_30:24gemirá con gemidos de herido de mH2491
+- Eze_31:14porque todos están destinados a m, a loH4194
+- Eze_33:11no quiero la m del impío, sino que seH4194
+- Dan_2:13que los sabios fueran llevados a la mH6992
+- Ose_13:14los redimiré, los libraré de la mH4194
+- Ose_13:14m, yo seré tu m; y seré tu destrucciónH4194
+- Jon_4:3porque mejor me es la m que la vidaH4194
+- Jon_4:8deseaba la in, diciendo: Mejor sería...la mH4194
+- Jon_4:9él respondió: Mucho me enojo, hasta la mH4194
+- Hab_2:5es como la m, que no se saciará; antesH4194
+- Mat_2:15y estuvo allá hasta la m de HerodesG5054
+- Mat_2:20han muerto los que procuraban la m delG5590
+- Mat_4:16los asentados en región de sombra de mG2288
+- Mat_10:21el hermano entregará a la in al hermanoG2288
+- Mat_16:28que hay algunos...que no gustarán la mG2288
+- Mat_20:18será entregado a...y le condenarán a mG2288
+- Mat_26:38mi alma está muy triste, hasta la mG2288
+- Mat_26:59falso testimonio...entregarle a la mG2289
+- Mat_26:66y respondiendo...dijeron: ¡Es reo de m![[G2288]]
+- Mat_27:1en consejo contra Jesús...entregarle a mG2289
+- Mar_9:1no gustarán la m hasta que hayan vistoG2288
+- Mar_10:33y le condenarán a m, y le entregarán aG2288
+- Mar_13:12el hermano entregará a la m al hermanoG2288
+- Mar_14:34mi alma está muy triste, hasta la mG2288
+- Mar_14:55buscaban testimonio...entregarle a la mG2289
+- Mar_14:64condenaron, declarándole ser digno de mG2288
+- Luc_1:79luz a los que habitan en...sombra de mG2288
+- Luc_2:26no vería la m antes que viese al UngidoG2288
+- Luc_9:27que no gustarán la m hasta que vean elG2288
+- Luc_22:33ir...no sólo a la cárcel...también a la mG2288
+- Luc_23:15nada digno de m ha hecho este hombreG2288
+- Luc_23:22ningún delito digno de m he hallado en élG2288
+- Luc_24:20cómo le entregaron...a sentencia de mG2288
+- Jua_5:24no vendrá...mas ha pasado de m a vidaG2288
+- Jua_8:51el que guarda mi palabra, nunca verá mG2288
+- Jua_8:52que guarda mi palabra, nunca sufrirá mG2288
+- Jua_11:4esta enfermedad no es para m, sino paraG2288
+- Jua_11:13Jesús decía esto de la m de Lázaro; yG2288
+- Jua_12:10pero...acordaron dar m también a LázaroG615
+- Jua_12:33dando a entender de qué m iba a morirG2288
+- Jua_18:31a nosotros no nos está permitido dar mG615
+- Jua_18:32dando a entender de qué m iba a morirG2288
+- Jua_21:19con qué m había de glorificar a DiosG2288
+- Hec_2:24los dolores de la m, por cuanto eraG2288
+- Hec_7:19fin de que expusiesen a la m a sus niñosG3361, [[G2225]]
+- Hec_7:21pero siendo expuesto a la m, la hija de
+- Hec_8:1y Saulo consentía en su m. En aquel díaG336
+- Hec_8:32que leía...Como oveja a la m fue llevadoG4967
+- Hec_9:1respirando aún amenazas y m contra losG5408
+- Hec_12:19mas Herodes...ordenó llevarlos a la mG520
+- Hec_13:28y sin hallar en él causa digna de mG2288
+- Hec_22:4perseguía yo este Camino hasta la mG2288
+- Hec_22:20consentía en su m, y guardaba las ropasG336
+- Hec_23:12no...hasta que hubiesen dado m a PabloG615
+- Hec_23:14nada hasta que hayamos dado m a PabloG615
+- Hec_23:21no...ni beber hasta que le hayan dado mG337
+- Hec_23:29pero que ningún delito tenía digno de mG336
+- Hec_25:11o cosa alguna digna de m he hecho, noG336
+- Hec_25:16entregar alguno a la m antes que elG684
+- Hec_25:25que ninguna cosa digna de m ha hechoG336
+- Hec_26:31ninguna cosa digna ni de m ni de prisiónG2288
+- Hec_28:18por no haber en mí ninguna causa de mG2288
+- Rom_1:32practican tales cosas son dignos de mG2288
+- Rom_5:10reconciliados con Dios por la m de suG2288
+- Rom_5:12por el pecado la m, así la m pasó a todosG2288
+- Rom_5:14reinó la in desde Adán hasta Moisés, aunG2288
+- Rom_5:17por la transgresión de uno...reinó la mG2288
+- Rom_5:21para que así como el pecado reinó para mG2288
+- Rom_6:3los que...hemos sido bautizados en su m?[[G2288]]
+- Rom_6:4sepultados juntamente con él para m porG2288
+- Rom_6:5plantados...en la semejanza de su in, asíG2288
+- Rom_6:9no muere; la m no se enseñorea más de élG2288
+- Rom_6:16sea del pecado para m, o...la obedienciaG2288
+- Rom_6:21de aquellas cosas...el fin de ellas es mG2288
+- Rom_6:23porque la paga del pecado es m, mas laG2288
+- Rom_7:5pasiones...obraban...llevando fruto para mG2288
+- Rom_7:10mandamiento que...a mí me resultó para mG2288
+- Rom_7:13lo que es bueno, vino a ser m para mí?[[G2288]]
+- Rom_7:13sino que el pecado...produjo en mí la mG2288
+- Rom_7:24¿quién me librará de este cuerpo de m?[[G2288]]
+- Rom_8:2librado de la ley del pecado y de la mG2288
+- Rom_8:6porque el ocuparse de la carne es m, peroG2288
+- Rom_8:38de que ni la m, ni la vida, ni ángelesG2288
+- Rom_11:3Señor, a tus profetas han dado m, y tusG615
+- 1Co_3:22la vida, sea la m, sea lo presenteG2288
+- 1Co_4:9nos ha exhibido...como a sentenciados a mG1935
+- 1Co_11:26m del Señor anunciáis hasta que vengaG2288
+- 1Co_15:21por cuanto la m entró por un hombreG2288
+- 1Co_15:26el postrer enemigo...destruido es la mG2288
+- 1Co_15:54escrita: Sorbida es la m en victoriaG2288
+- 1Co_15:55¿dónde está, oh m, tu aguijón? ¿DóndeG2288
+- 1Co_15:56ya que el aguijón de la m es el pecadoG2288
+- 2Co_1:9tuvimos en nosotros...sentencia de mG2288
+- 2Co_1:10nos libra...nos librará, de tan gran mG2288
+- 2Co_2:16a éstos...olor de m para m, y a aquéllosG2288
+- 2Co_3:7si el ministerio de m grabado con letrasG2288
+- 2Co_4:10llevando en el cuerpo por...la m de JesúsG3500
+- 2Co_4:11entregados a m por causa de Jesús, paraG2288
+- 2Co_4:12de manera que la m actúa en nosotros, yG2288
+- 2Co_7:10pero la tristeza del mundo produce mG2288
+- 2Co_11:23yo más...en peligros de m muchas vecesG2288
+- Flp_1:20magnificado Cristo...por vida o por mG2288
+- Flp_2:8haciéndose obediente hasta la m, y m deG2288
+- Flp_2:30por la obra de...estuvo próximo a la mG2288
+- Flp_3:10llegando a ser semejante a él en su mG2288
+- Col_1:22en su cuerpo de...por medio de la mG2288
+- 2Ti_1:10el cual quitó la m y sacó a luz laG2288
+- Heb_2:9a causa del padecimiento de la m, paraG2288
+- Heb_2:9que por la gracia de Dios gustase la mG2288
+- Heb_2:14para destruir por medio de la m al queG2288
+- Heb_2:14al que tenía el imperio de la m, esto esG2288
+- Heb_2:15por el temor de la m estaban...sujetos aG2288
+- Heb_5:7lágrimas al que le podía librar de la mG2288
+- Heb_7:23debido a que por la m no podían continuarG2288
+- Heb_9:15interviniendo m para la remisión de lasG2288
+- Heb_9:16necesario que intervenga m del testadorG2288
+- Heb_9:17el testamento con la m se confirma; puesG3498
+- Heb_11:5la fe Enoc fue traspuesto para no ver mG2288
+- Stg_1:15el pecado; y el pecado...da a luz la mG2288
+- Stg_5:6habéis condenado y dado m al justo, y élG5407
+- Stg_5:20salvará de m un alma, y cubrirá multitudG2288
+- 1Jn_3:14sabemos que hemos pasado de m a vidaG2288
+- 1Jn_3:14que no ama a su hermano, permanece en mG2288
+- 1Jn_5:16cometer pecado que no sea de m, pediráG2288
+- 1Jn_5:16los que cometen pecado que no sea de mG2288
+- 1Jn_5:16hay pecado de m, por el cual yo no digoG2288
+- 1Jn_5:17toda...es pecado; pero hay pecado no de mG2288
+- Rev_1:18tengo las llaves de la m y del HadesG2288
+- Rev_2:10fiel hasta la m, y yo te daré la coronaG2288
+- Rev_2:11el que...no sufrirá daño de la segunda mG2288
+- Rev_2:23y a sus hijos heriré de m, y todas lasG2288
+- Rev_6:8el que lo montaba tenía por nombre M, yG2288
+- Rev_9:6buscarán la m...pero la m huirá de ellosG2288
+- Rev_12:11y menospreciaron sus vidas hasta la mG2288
+- Rev_13:3vi una de sus cabezas como herida de mG2288
+- Rev_18:8en un solo día vendrán sus plagas; mG2288
+- Rev_20:6segunda m no tiene potestad sobre éstosG2288
+- Rev_20:13la m y el Hades entregaron los muertosG2288
+- Rev_20:14m y el Hades fueron lanzados al lagoG2288
+- Rev_20:14al lago de fuego. Esta es la m segundaG2288
+- Rev_21:4ya no habrá m, ni habrá más llanto, niG2288
+- Rev_21:8el lago que arde...que es la m segundaG2288

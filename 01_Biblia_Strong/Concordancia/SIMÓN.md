@@ -1,0 +1,76 @@
+---
+tipo: concordancia
+palabra: SIMÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SIMÓN
+
+- 1 Descendiente de Judá, 1Cr_4:20H7889
+- 2 Simón Pedro, el apóstol. Véase también Pedro y Cefas
+- Mat_4:18vio a dos hermanos, S, llamado PedroG4613
+- Mat_10:2primero S, llamado Pedro, y Andrés suG4613
+- Mat_16:16S Pedro, dijo: Tú eres el Cristo, elG4613
+- Mat_16:17bienaventurado eres, S, hijo de JonásG4613
+- Mat_17:25te parece, S? Los reyes de la tierraG4613
+- Mar_1:16andando junto al...vio a S y a AndrésG4613
+- Mar_1:29de la sinagoga, vinieron a casa de S yG4613
+- Mar_1:30y la suegra de S estaba...con fiebre; yG4613
+- Mar_1:36y le buscó S, y los que con él estabanG4613
+- Mar_3:16S, a quien puso por sobrenombre PedroG4613
+- Mar_14:37S, ¿duermes? ¿No has podido velar unaG4613
+- Luc_4:38en casa de S...La suegra de S teníaG4613
+- Luc_5:3y entrando en una...la cual era de S, leG4613
+- Luc_5:4a S: Boga mar adentro, y echad...redesG4613
+- Luc_5:5S, le dijo: Maestro, toda la noche hemosG4613
+- Luc_5:8viendo esto S Pedro, cayó de rodillasG4613
+- Luc_5:10Jacobo y Juan...que eran compañeros de SG4613
+- Luc_5:10Jesús dijo a S: No temas; desde ahoraG4613
+- Luc_6:14S, a quien también llamó Pedro, a AndrésG4613
+- Luc_22:31S, S, he aquí Satanás os ha pedido paraG4613
+- Luc_24:34ha resucitado el...y ha aparecido a SG4613
+- Jua_1:40Andrés, hermano de S Pedro, era unoG4613
+- Jua_1:41éste halló...a su hermano S, y le dijoG4613
+- Jua_1:42Jesús, dijo: Tú eres S, hijo de JonásG4613
+- Jua_6:8uno...Andrés, hermano de S Pedro, le dijoG4613
+- Jua_6:68le respondió S...Señor, ¿a quién iremos?[[G4613]]
+- Jua_13:6vino a S Pedro; y Pedro le dijo: SeñorG4613
+- Jua_13:9le dijo S Pedro: Señor, no sólo mis piesG4613
+- Jua_13:24a éste, pues, hizo señas S Pedro, paraG4613
+- Jua_13:36le dijo S Pedro: Señor, ¿a dónde vas?[[G4613]]
+- Jua_18:10entonces S Pedro, que tenía una espadaG4613
+- Jua_18:15y seguían a Jesús S Pedro y...discípuloG4613
+- Jua_20:2fue a S Pedro y al otro discípulo, aquelG4613
+- Jua_20:6luego llegó S Pedro tras él, y entró enG4613
+- Jua_21:2estaban juntos S Pedro, Tomás llamadoG4613
+- Jua_21:3S Pedro les dijo: Voy a pescar...EllosG4613
+- Jua_21:7S Pedro, cuando oyó que era el Señor, seG4613
+- Jua_21:11subió S Pedro, y sacó la red a tierraG4613
+- Jua_21:15-16, Jua_21:17S, hijo de Jonás, ¿me amas?[[G4613]]
+- Hec_10:5envía, pues...a Jope, y haz venir a SG4613
+- Hec_10:18preguntaron si moraba allí un S queG4613
+- Hec_10:32venir a S el que tiene por sobrenombreG4613
+- Hec_11:13envía hombres a Jope, y haz venir a SG4613
+- Hec_15:14S ha contado cómo Dios visitó por...vezG4613
+- 2Pe_1:1S Pedro, siervo...de Jesucristo, a losG4613
+- 3 El cananita o Zelote, uno de los doce apóstoles, Mat_10:4; Mar_3:18; Luc_6:15; Hec_1:13G4613
+- 4 Hermano del Señor, Mat_13:55; Mar_6:3G4613
+- 5 Simón el leproso, Mat_26:6; Mar_14:3G4613
+- 6 Simón de Cirene, Mat_27:32; Mar_15:21; Luc_23:26G4613
+- 7 Fariseo
+- Luc_7:40S, una cosa tengo que decirte...Y élG4613
+- Luc_7:43S, dijo: Pienso que aquel a quien...masG4613
+- Luc_7:44dijo a S: ¿Ves esta mujer? Entré en tuG4613
+- 8 Padre de Judas Iscariote, Jua_6:71; Jua_12:4; Jua_13:2, Jua_13:26G4613
+- 9 Mago, de Samaria
+- Hec_8:9había un hombre llamado S, que antesG4613
+- Hec_8:13creyó S mismo, y habiéndose bautizadoG4613
+- Hec_8:18vio S que por la imposición de las manosG4613
+- Hec_8:24S, dijo: Rogad vosotros por mí al SeñorG4613
+- 10 Curtidor, de Jope
+- Hec_9:43se quedó...en casa de un...S, curtidorG4613
+- Hec_10:6éste posa en casa de cierto S curtidorG4613
+- Hec_10:17preguntando por la casa de S, llegaronG4613
+- Hec_10:32el cual mora en casa de S, un curtidorG4613
+- 11 Simón Niger, de Antioquía, Hec_13:1G4613

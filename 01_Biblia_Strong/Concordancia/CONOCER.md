@@ -1,0 +1,533 @@
+---
+tipo: concordancia
+palabra: CONOCER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONOCER
+
+- Gén_3:7ojos...y conocieron que estaban desnudosH3045
+- Gén_4:1conoció Adán a su mujer Eva...concibióH3045
+- Gén_4:17y conoció Caín a su mujer...y dio a luzH3045
+- Gén_4:25y conoció de nuevo Adán a su mujer, laH3045
+- Gén_12:11conozco que eres mujer de hermosoH3045
+- Gén_15:8Señor Jehová, ¿en qué conoceré que laH3045
+- Gén_19:5a Lot...sácalos, para que los conozcamosH3045
+- Gén_19:8dos hijas que no han conocido varón; osH3045
+- Gén_22:12conozco que temes a Dios, por cuantoH3045
+- Gén_24:14conoceré que habrás hecho misericordiaH3045
+- Gén_24:16virgen, a la que varón no había conocidoH3045
+- Gén_27:23no le conoció porque sus manos eranH5234
+- Gén_29:5¿conocéis a Labán hijo...Si, le conocemosH3045
+- Gén_38:26más justa es...Y nunca más la conocióH3045
+- Gén_41:21mas no se conocía que hubiesen entradoH3045
+- Gén_42:7conoció; mas hizo...que no los conocíaH5234
+- Gén_42:8José...conoció...ellos no le conocieronH5234
+- Gén_42:33esto conoceré que sois hombres honradosH3045
+- Gén_45:1nadie con él, al darse a conocer José aH3045
+- Éxo_1:8un nuevo rey que no conocía a JoséH3045
+- Éxo_3:7su clamor...pues he conocido sus angustiasH3045
+- Éxo_4:14conozco yo a tu hermano Aarón, levitaH3045
+- Éxo_5:2no conozco a Jehová, ni tampoco dejaré irH3045
+- Éxo_6:3en mi nombre Jehová no me di a conocerH3045
+- Éxo_7:17en esto conocerás que yo soy Jehová; heH3045
+- Éxo_8:10para que conozcas que no hay como JehováH3045
+- Éxo_18:11conozco que Jehova es mas grande queH3045
+- Éxo_29:46y conocerán que yo soy Jehova su DiosH3045
+- Éxo_32:22conoces al pueblo, que es inclinado aH3045
+- Éxo_33:12dices: Yo te he conocido por tu nombreH3045
+- Lev_4:14que llegue a ser conocido el pecadoH3045
+- Lev_4:23, Lev_4:28que conociere su pecado que cometióH3045
+- Núm_10:31tu conoces...donde hemos de acamparH3045
+- Núm_14:31vuestros niños...conocerán la tierra queH3045
+- Núm_14:34cuarenta años...y conoceréis mi castigoH3045
+- Núm_16:28en esto conoceréis que Jehová...enviadoH3045
+- Núm_31:17matada...mujer que haya conocido varónH3045
+- Núm_31:18no hayan conocido varón, las dejaréisH3045
+- Deu_7:9conoce...Jehová tu Dios es Dios, DiosH3045
+- Deu_7:15malas plagas de Egipto que tú conocesH3045
+- Deu_8:3maná, comida que no conocías tú, ni tusH3045
+- Deu_8:3, Deu_8:16maná...tus padres no habían conocidoH3045
+- Deu_9:24rebeldes...desde el día que yo os conozcoH3045
+- Deu_11:28de dioses ajenos que no habéis conocidoH3045
+- Deu_13:2vamos en pos de dioses...que no conocisteH3045
+- Deu_13:6a dioses ajenos, que ni tú...conocisteisH3045
+- Deu_13:13a dioses...que vosotros no conocisteisH3045
+- Deu_18:21dijeres...¿Cómo conoceremos la palabraH3045
+- Deu_22:2y si tu hermano no...o no lo conocierasH3045
+- Deu_28:33fruto...comerá pueblo que no conocisteH3045
+- Deu_28:36te llevará...a nación que no conocisteH3045
+- Deu_28:64a dioses ajenos que no conociste tú niH3045
+- Deu_29:26se inclinaron a...dioses que no conocíanH3045
+- Deu_31:21yo conozco lo que se proponen...antesH3045
+- Deu_31:27conozco tu rebelión, y tu dura cervizH3045
+- Deu_32:17dioses que no habían conocido, a nuevosH3045
+- Deu_33:9y no reconoció...ni a sus hijos conocióH3045
+- Deu_34:6ninguno conoce...su sepultura hasta hoyH3045
+- Deu_34:10quien haya conocido Jehová cara a caraH3045
+- Jos_3:10conoceréis que el Dios viviente estáH3045
+- Jos_4:24todos...conozcan que la mano de Jehová esH3045
+- Jue_2:10generación que no conocía a JehováH3045
+- Jue_3:1no habían conocido todas las guerras deH3045
+- Jue_3:2para que...de Israel conociese la guerraH3045
+- Jue_3:2a los que antes no la habían conocidoH3045
+- Jue_11:39hizo de ella...Y ella nunca conoció varónH3045
+- Jue_13:21conoció Manoa...era el ángel de JehováH3045
+- Jue_19:22saca al hombre...para que lo conozcamosH3045
+- Jue_21:11a toda mujer que haya conocido...varónH3045
+- Jue_21:12que no habían conocido ayuntamiento deH3045
+- Rut_2:11venido a un pueblo que no conocisteH3045
+- Rut_3:3no te darás a conocer al varón hasta queH3045
+- 1Sa_3:7Samuel no había conocido aún a JehováH3045
+- 1Sa_3:20Israel...conoció que Samuel era...profetaH3045
+- 1Sa_6:3conoceréis por qué no se apartó...su manoH3045
+- 1Sa_10:11los que le conocían antes vieron queH3045
+- 1Sa_12:17conozcáis...que es grande vuestra maldadH3045
+- 1Sa_17:28yo conozco tu soberbia y la malicia deH3045
+- 1Sa_23:22aseguraos más, conoced y ved el lugarH3045
+- 1Sa_24:11conoce...ve que no hay mal ni traiciónH3045
+- 1Sa_26:17conociendo Saúl la voz de David, dijoH5234
+- 2Sa_3:25tú conoces a Abner hijo de NerH3045
+- 2Sa_7:20tú conoces a tu siervo, Señor JehováH3045
+- 2Sa_14:1conociendo Joab...que el corazón del reyH3045
+- 2Sa_14:20para conocer lo que hay en la tierraH3045
+- 2Sa_22:44pueblo que yo no conocía me serviráH3045
+- 1Re_1:4abrigaba al rey...rey nunca la conocióH3045
+- 1Re_4:31fue conocido entre todas las naciones deH8034
+- 1Re_8:39cuyo corazón tú conoces...solo tú c elH3045
+- 1Re_8:43todos los pueblos de...conozcan tu nombreH3045
+- 1Re_14:2y disfrázate, para que no te conozcanH3045
+- 1Re_17:24conozco que tú eres varón de Dios, yH3045
+- 1Re_18:37conozca este pueblo que...eres el DiosH3045
+- 1Re_20:13, 1Re_20:28para que conozcas que yo soy JehováH3045
+- 1Re_20:41el rey...conoció que era de los profetasH5234
+- 2Re_5:15conozco que no hay Dios en...la tierraH3045
+- 2Re_9:11les dijo: Vosotros conocéis al hombreH3045
+- 2Re_17:26no conocen la ley del Dios de aquellaH3045
+- 2Re_19:27he conocido tu situación, tu salida yH3045
+- 1Cr_16:8a conocer en los pueblos sus obrasH3045
+- 1Cr_17:18¿qué más...Mas tú conoces a tu siervoH3045
+- 2Cr_6:29cualquiera que conociera su llaga yH3045
+- 2Cr_6:30conocido su corazón...sólo tú conoces elH3045
+- 2Cr_6:33todos los pueblos de la tierra conozcanH3045
+- 2Cr_32:31para probarle, para hacer conocer todoH3045
+- Esd_7:25los que conocen las leyes de tu DiosH3046
+- Esd_7:25y al que no las conoce, le enseñarásH3046
+- Neh_6:16conocieron que por nuestro Dios habíaH3046
+- Est_1:13los sabios que conozcan los tiemposH3046
+- Est_8:13darse por decreto...que fuese conocidoH1540
+- Job_2:12los ojos desde lejos, no lo conocieronH5234
+- Job_4:16un fantasma, cuyo rostro yo no conocíH5234
+- Job_5:27óyelo, y conócelo tú para tu provechoH3045
+- Job_7:10no volverá más...ni su lugar le conoceráH5234
+- Job_11:6conocerías...Dios te ha castigado menosH3045
+- Job_11:8es más profunda...¿cómo la conocerás?[[H3045]]
+- Job_11:11porque él conoce a los hombres vanosH3045
+- Job_18:21será el lugar del que no conoció a DiosH3045
+- Job_20:9nunca más...ni su lugar le conocerá másH7789
+- Job_21:19Dios...le dará su pago, para que conozcaH3045
+- Job_21:27conozco vuestros pensamientos, y lasH3045
+- Job_21:29y no habéis conocido su respuestaH5234
+- Job_23:10mas él conoce mi camino; me probaráH3045
+- Job_24:1qué los que le conocen no ven sus días?[[H3045]]
+- Job_24:13rebeldes...nunca conocieron sus caminosH5234
+- Job_24:16minan las casas...no conocen la luzH3045
+- Job_24:17si son conocidos, terrores...los tomanH5234
+- Job_26:3qué...inteligencia has dado a conocer?[[H3045]]
+- Job_28:7senda que nunca la conoció ave, ni ajoH3045
+- Job_28:13no conoce su valor el hombre, ni seH3045
+- Job_28:23Dios entiende el...y conoce su lugarH3045
+- Job_31:6pésame Dios...y conocerá mi integridadH3045
+- Job_34:4conozcamos...nosotros cuál sea lo buenoH3045
+- Job_36:9él les dará a conocer la obra de ellosH5046
+- Job_36:26aquí, Dios es grande...no le conocemosH3045
+- Job_37:16¿has conocido tú las diferencias de lasH3045
+- Job_42:2yo conozco que todo lo puedes, y que noH3045
+- Job_42:11vinieron...los que...le habían conocidoH3045
+- Sal_1:6Jehová conoce el camino de los justosH3045
+- Sal_9:10ti confiarán los que conocen tu nombreH3045
+- Sal_9:16Jehová se ha hecho conocer en el juicioH3045
+- Sal_9:20conozcan las naciones que no son sinoH3045
+- Sal_18:43pueblo que yo no conocía me sirvióH3045
+- Sal_20:6conozco que Jehová salva a su ungidoH3045
+- Sal_25:14temen, y a ellos hará conocer su pactoH3045
+- Sal_31:7has conocido mi alma en las angustiasH3045
+- Sal_36:10tu misericordia a los que te conocenH3045
+- Sal_37:18conoce Jehová...días de los perfectosH3045
+- Sal_41:11en esto conoceré que te he agradadoH3045
+- Sal_44:21él conoce los secretos del corazónH3045
+- Sal_46:10estad quietos, y conoced que yo soyH3045
+- Sal_48:3en sus palacios Dios es conocido porH3045
+- Sal_50:11conozco a todas las aves de los montesH3045
+- Sal_67:2que sea conocido en la tierra tu caminoH3045
+- Sal_69:5Dios, tú conoces mi insensatez, y misH3045
+- Sal_76:1Dios es conocido en Judá; en Israel esH3045
+- Sal_77:19y tus pisadas no fueron conocidasH3045
+- Sal_79:6derrama tu ira sobre...que no te conocenH3045
+- Sal_83:18y conozcan que tu nombre es JehováH3045
+- Sal_87:4de Babilonia entre los que me conocenH3045
+- Sal_90:11¿quién conoce el poder de tu ira, y tuH3045
+- Sal_91:14alto, por cuanto ha conocido mi nombreH3045
+- Sal_94:11Jehová conoce los pensamientos de losH3045
+- Sal_95:10digan...y no han conocido mis caminosH3045
+- Sal_101:4apartará de mí; no conoceré al malvadoH3045
+- Sal_103:14conoce nuestra condición, se acuerdaH3045
+- Sal_103:16pereció, y su lugar no la conoceráH5234
+- Sal_104:19hizo la luna...el sol conoce su ocasoH3045
+- Sal_105:1dad a conocer sus obras en los pueblosH3045
+- Sal_119:75conozco...que tus juicios son justosH3045
+- Sal_119:79que te temen y conocen tus testimoniosH3045
+- Sal_119:125dame entendimiento para conocer tusH3045
+- Sal_139:1Jehová, tú me has examinado y conocidoH3045
+- Sal_139:2conocido mi sentarme y mi levantarmeH3045
+- Sal_139:3y todos mis caminos te son conocidosH5532
+- Sal_139:23conoce mi corazón; pruébame y c misH3045
+- Sal_142:3dentro de mí, tú conociste mi sendaH3045
+- Sal_142:4pues no hay quien me quiera conocerH5234
+- Sal_147:20a sus juicios, no los conocieronH3045
+- Pro_1:2entender...conocer razones prudentesH3045
+- Pro_4:1estad atentos, para que conozcáis corduraH3045
+- Pro_5:6caminos...inestables; no los conocerásH3045
+- Pro_12:16el necio al punto da a conocer su iraH3045
+- Pro_14:10el corazón conoce la amargura de suH3045
+- Pro_14:33no es conocida en medio de los neciosH3045
+- Pro_20:11el muchacho es conocido por sus hechosH5234
+- Pro_24:12el que mira por tu alma...lo conoceráH3045
+- Pro_27:23sé diligente en conocer el estado deH3045
+- Pro_29:7conoce el justo la causa de los pobresH3045
+- Pro_30:3yo ni...ni conozco la ciencia del SantoH3045
+- Pro_31:23su marido es conocido en las puertasH3045
+- Ecl_1:17dediqué mi corazón a conocer...entenderH3045
+- Ecl_1:17conocí que aun esto era aflicción deH3045
+- Ecl_3:12yo he conocido que no hay...cosa mejorH3045
+- Ecl_6:5no ha visto el sol, ni lo ha conocidoH3045
+- Ecl_7:25para conocer la maldad de la insensatezH3045
+- Ecl_8:16dediqué mi corazón a conocer sabiduríaH3045
+- Ecl_8:17aunque diga el sabio que la conoce, noH3045
+- Ecl_9:12hombre tampoco conoce su tiempo; comoH3045
+- Isa_1:3el buey conoce a su dueño, y el asno elH3045
+- Isa_19:21Jehová será conocido de Egipto, y losH3045
+- Isa_19:21y los de Egipto conocerán a Jehová enH3045
+- Isa_29:15¿quién nos vé, y quién nos conoce?[[H3045]]
+- Isa_33:13vosotros los...cerca, conoced mi poderH3045
+- Isa_37:20reinos de la tierra conozcan que soloH3045
+- Isa_37:28he conocido tu condición, tu salida yH3045
+- Isa_41:20para que vean y conozcan, y adviertanH3045
+- Isa_42:16andar...sendas que no habían conocidoH3045
+- Isa_43:10escogí, para que me conozcáis y creáisH3045
+- Isa_43:19pronto saldrá a luz; ¿no la conoceréis?[[H3045]]
+- Isa_44:8no hay Dios sino yo...no conozco ningunoH3045
+- Isa_45:4te llamé por tu...aunque no me conocisteH3045
+- Isa_45:5yo te ceñiré, aunque tú no me conocisteH3045
+- Isa_47:8tú que dices en...ni conoceré orfandadH3045
+- Isa_48:4cuanto conozco que eres duro...tu cervizH3045
+- Isa_48:8sí, nunca lo habías oído, ni...conocidoH3045
+- Isa_49:23y conocerás que yo soy Jehová, que noH3045
+- Isa_49:26y conocerá todo hombre que yo JehováH3045
+- Isa_51:7que conocéis justicia, pueblo en cuyoH3045
+- Isa_55:5aquí, llamarás a gente que no conocesH3045
+- Isa_59:8no conocieron camino de paz, ni hayH3045
+- Isa_59:8que por ellas fuere, no conocerá pazH3045
+- Isa_59:12porque...y conocemos nuestros pecadosH3045
+- Isa_60:16y conocerás que...soy el Salvador tuyoH3045
+- Isa_61:9la descendencia de ellos será conocidaH3045
+- Isa_63:16nos ignora, e Israel no nos conoce; túH5234
+- Isa_66:14la mano de Jehová para...será conocidaH3045
+- Isa_66:18conozco sus obras y sus pensamiento
+- Jer_1:5antes que te formases en el...te conocíH3045
+- Jer_2:8los que tenían la ley no me conocieronH3045
+- Jer_2:23conoce lo que has hecho, dromedariaH3045
+- Jer_4:22mi pueblo es necio, no me conocieronH3045
+- Jer_5:4pues no conocen el camino de Jehová, elH3045
+- Jer_5:5a los grandes...ellos conocen el camino deH3045
+- Jer_6:27conocerás, pues, y examinarás el caminoH3045
+- Jer_7:9andado tras dioses...que no conocisteisH3045
+- Jer_8:7la cigüeña en el cielo conoce su tiempoH3045
+- Jer_8:7mi pueblo no conoce el juicio de JehováH3045
+- Jer_9:6muy engañadores no quisieron conocermeH3045
+- Jer_9:16que ni ellos ni sus padres conocieronH3045
+- Jer_9:24alábese en...en entenderme y conocermeH3045
+- Jer_10:23conozco, en Jehová, que el hombre no esH3045
+- Jer_10:25sobre los pueblos que no te conocen, yH3045
+- Jer_11:18y Jehová me lo hizo saber, y lo conocíH3045
+- Jer_12:3pero tú, oh Jehová, me conoces me visteH3045
+- Jer_15:14haré servir...en tierra que no conocesH3045
+- Jer_16:13ni vuestros padres habéis conocido, yH3045
+- Jer_16:21les enseñaré esta vez, les haré conocerH3045
+- Jer_17:4haré servir...en tierra que no conocisteH3045
+- Jer_17:9engañoso...perverso; ¿quién lo conocerá?[[H3045]]
+- Jer_18:23oh Jehová, conoces todo su consejoH3045
+- Jer_19:4incienso a dioses...no habían conocidoH3045
+- Jer_22:16él juzgó...¿No es esto conocerme a mí?[[H1847]]
+- Jer_22:28echados a tierra...no habían conocido?[[H3045]]
+- Jer_24:7para que me conozcan que yo soy JehováH3045
+- Jer_28:9conocido como el profeta que Jehová enH3045
+- Jer_31:34conoce a Jehová...todos me conoceránH3045
+- Jer_32:8entonces conocí...era palabra de JehováH3045
+- Jer_33:3y te enseñaré cosas...que tú no conocesH3045
+- Jer_44:3dioses ajenos que...no habían conocidoH3045
+- Jer_48:30yo conozco...su cólera, pero no tendráH3045
+- Lam_4:8oscuro...es su aspecto, no los conocenH5234
+- Eze_2:5conocerán que hubo profeta entre ellosH3045
+- Eze_6:14extenderé mi mano...conocerán que yo soyH3045
+- Eze_10:20los mismos...conocí que eran querubinesH3045
+- Eze_14:23conoceréis que no sin causa hice todoH3045
+- Eze_20:4hazles conocer las abominaciones de susH3045
+- Eze_20:5me di a conocer a ellos en la tierra deH3045
+- Eze_20:9las naciones...en cuyos ojos fui conocidoH3045
+- Eze_20:11les hice conocer mis decretos, por losH3045
+- Eze_25:14y conocerán mi venganza, dice JehováH3045
+- Eze_28:19todos los que te conocieron de entreH3045
+- Eze_32:9lleve...por las tierras que no conocisteH3045
+- Eze_35:11conocido en ellos, cuando te juzgueH3045
+- Eze_38:16las naciones me conozcan, cuando seaH3045
+- Eze_38:23seré conocido ante los ojos de muchasH3045
+- Dan_2:8conozco...que vosotros ponéis dilacionesH3046
+- Dan_2:22conoce lo que está en tinieblas, y conH3046
+- Dan_2:23nos has dado a conocer el asunto del reyH3046
+- Dan_2:26¿podrás tú hacerme conocer el sueño queH3046
+- Dan_2:30sino para que se dé a conocer al rey laH3046
+- Dan_4:17conozcan los vivientes que el AltísimoH3046
+- Dan_4:25conozcas que el Altísimo tiene dominioH3046
+- Dan_7:16y me hizo conocer la interpretación deH3046
+- Dan_11:32mas el pueblo que conoce a su Dios seH3045
+- Dan_11:38al dios...que sus padres no conocieronH3045
+- Ose_2:20y te desposaré...y conocerás a JehováH3045
+- Ose_5:3yo conozco a Efraín, e Israel no me esH3045
+- Ose_5:4no piensan en...y no conocen a JehováH3045
+- Ose_5:9tribus de Israel hice conocer la verdadH3045
+- Ose_6:3conoceremos, y proseguiremos en conocerH3045
+- Ose_8:2a mí clamará Israel...te hemos conocidoH3045
+- Ose_9:7días del castigo, e Israel lo conoceráH3045
+- Ose_11:3Efraín...y no conoció que yo le cuidabaH3045
+- Ose_13:4no conocerás...otro dios fuera de mí, niH3045
+- Ose_13:5yo te conocí en el desierto, en tierraH3045
+- Joe_2:27y conoceréis que en medio de IsraelH3045
+- Joe_3:17y conoceréis que yo soy Jehová...DiosH3045
+- Amó_3:2a vosotros...he conocido de todas lasH3045
+- Miq_4:12no conocieron los pensamientos deH3045
+- Miq_6:5para que conozcas las justicias de JehováH3045
+- Nah_1:7Jehová es bueno...y conoce a los queH3045
+- Nah_3:17y no se conoce el lugar donde estánH3045
+- Hab_3:2en medio de los tiempos hazla conocerH3045
+- Sof_3:5el perverso no conoce la vergüenzaH3045
+- Zac_2:11conocerás que Jehová...me ha enviadoH3045
+- Zac_4:9conocerás que Jehová de los...me envióH3045
+- Zac_6:15conoceréis que Jehová...me ha enviadoH3045
+- Zac_7:14por...las naciones que ellos no conocíanH3045
+- Zac_11:11conocieron los pobres del rebaño queH3045
+- Zac_14:7un día, el cual es conocido de JehováH3045
+- Mat_1:25no la conoció hasta que dio a luz aG1097
+- Mat_7:16, Mat_7:20por sus frutos los conoceréisG1921
+- Mat_7:23declararé: Nunca os conocí; apartaos deG1097
+- Mat_9:4y conociendo Jesús los pensamientos deG1492
+- Mat_11:27nadie conoce al Hijo...ni al Padre cG1921
+- Mat_12:33porque por el fruto se conoce el árbolG1097
+- Mat_14:35cuando le conocieron los hombres deG1921
+- Mat_17:12que Elías ya vino, y no le conocieronG1921
+- Mat_22:18Jesús, conociendo la malicia de ellosG1097
+- Mat_24:33conoced que está cerca, a las puertasG1097
+- Mat_25:12de cierto os digo, que no os conozcoG1492
+- Mat_25:24Señor, te conocía que eres hombre duroG1097
+- Mat_26:72él negó otra vez...No conozco al hombreG1492
+- Mat_26:74comenzó...a jurar: No conozco al hombreG1492
+- Mar_1:34no dejaba hablar...porque le conocíanG1492
+- Mar_2:8conociendo luego Jesús...que cavilaban deG1921
+- Mar_5:30conociendo...poder que había salido de élG1921
+- Mar_6:54y saliendo ellos de...la gente le conocióG1921
+- Mar_13:29conoced que está cerca, a las puertasG1097
+- Mar_14:68mas él negó, diciendo: No le conozcoG1492
+- Mar_14:71y a jurar: No conozco a este hombre deG1492
+- Mar_15:10conocía que por envidia le...entregadoG1097
+- Luc_1:4para que conozcas bien la verdad de lasG1921
+- Luc_1:18¿en qué conoceré esto? Porque yo soyG1097
+- Luc_1:34¿cómo será esto? pues no conozco varónG1097
+- Luc_2:17y al verlo, dieron a conocer lo que seG1232
+- Luc_4:34conozco quién eres, el Santo de IsraelG1492
+- Luc_5:22conociendo los pensamientos de ellosG1921
+- Luc_6:8mas él conocía los pensamientos de ellosG1492
+- Luc_6:44cada árbol se conoce por su frutoG1097
+- Luc_7:39conocería quién y qué clase de mujer esG1097
+- Luc_8:10él dijo: A vosotros os es dado conocerG1097
+- Luc_8:17haya de ser conocido, y de salir a luzG1097
+- Luc_8:46he conocido que ha salido poder de míG1097
+- Luc_10:22nadie conoce quién es el Hijo sino elG1097
+- Luc_11:17él, conociendo los pensamientos de ellosG1492
+- Luc_12:47siervo que conociendo la voluntad deG1097
+- Luc_12:48que sin conocerla hizo cosas dignas deG1097
+- Luc_16:15Dios conoce vuestros corazones; porqueG1097
+- Luc_19:42¡oh, si...conocieses, a lo menos en esteG1097
+- Luc_19:44por cuanto no conociste el tiempo de tuG1097
+- Luc_22:34tú niegues tres veces que me conocesG1492
+- Luc_22:57lo negó, diciendo: Mujer, no lo conozcoG1492
+- Luc_24:16velados, para que no le conociesenG1921
+- Jua_1:10en el mundo...el mundo no le conocióG1097
+- Jua_1:18el unigénito Hijo...le ha dado a conocerG1834
+- Jua_1:26está uno a quien vosotros no conocéisG1492
+- Jua_1:31yo no le conocía; mas para que fueseG1492
+- Jua_1:33yo no le conocía; pero el que me envióG1492
+- Jua_1:48le dijo Natanael: ¿De dónde me conoces?[[G1097]]
+- Jua_2:24no se fiaba de ellos...conocía a todosG1097
+- Jua_4:10si conocieras el don de Dios, y quién esG1492
+- Jua_5:42os conozco, que no tenéis amor de DiosG1097
+- Jua_6:42cuyo padre y madre nosotros conocemos?[[G1492]]
+- Jua_6:69hemos creído y conocemos que tú eres elG1097
+- Jua_7:4que procura darse a conocer hace algo enG3954
+- Jua_7:17conocerá si la doctrina es de Dios, o siG1097
+- Jua_7:28mí me conocéis, y sabéis de dónde soyG1492
+- Jua_7:28el que me envió...vosotros no conocéisG1492
+- Jua_7:29yo le conozco, porque de él procedo, yG1492
+- Jua_8:19ni a mí me conocéis, ni a mi Padre; siG1492
+- Jua_8:19si me conocieseis...mi Padre conoceríaisG1492
+- Jua_8:28entonces conoceréis que yo soy, y queG1097
+- Jua_8:32conoceréis la verdad, y...os hará libresG1097
+- Jua_8:52conocemos que tienes demonio. AbrahamG1097
+- Jua_8:55pero vosotros no le conocéis; mas yo leG1097
+- Jua_8:55yo le conozco, y si dijere que no le cG1492
+- Jua_8:55pero le conozco, y guardo su palabraG1492
+- Jua_10:4y las ovejas le siguen...conocen su vozG1492
+- Jua_10:5porque no conocen la voz de los extrañosG1492
+- Jua_10:14conozco mis ovejas, y...mías me conocenG1097
+- Jua_10:15Padre me conoce, y yo conozco al PadreG1097
+- Jua_10:27ovejas oyen mi voz, y yo las conozcoG1097
+- Jua_10:38que conozcáis...que el Padre está en míG1097
+- Jua_13:35conocerán todos que sois mis discípulosG1097
+- Jua_14:7me conocieseis...a mi Padre conoceríaisG1097
+- Jua_14:7ahora le conocéis, y le habéis vistoG1097
+- Jua_14:9tiempo...y no me has conocido, Felipe?[[G1097]]
+- Jua_14:17ni le conoce; pero vosotros le conocéisG1097
+- Jua_14:20conoceréis que yo estoy en mi PadreG1097
+- Jua_14:31para que el mundo conozca que amo alG1097
+- Jua_15:15las cosas que...os las he dado a conocerG1492
+- Jua_15:21porque no conocen al que me ha enviadoG1492
+- Jua_16:3y harán esto porque no conocen al PadreG1097
+- Jua_16:19Jesús conoció que querían preguntarleG1097
+- Jua_17:3conozcan a ti, el único Dios verdaderoG1097
+- Jua_17:7han conocido que todas las cosas que meG1097
+- Jua_17:8y han conocido...que salí de ti, y hanG1097
+- Jua_17:23que el mundo conozca que tú me enviasteG1097
+- Jua_17:25Padre...el mundo no te ha conocido, peroG1097
+- Jua_17:25yo te he conocido, y éstos han c que túG1097
+- Jua_17:26les he dado a conocer...lo daré a c aúnG1107
+- Jua_18:2el que le entregaba, conocía aquel lugarG1492
+- Jua_18:15este discípulo era conocido del sumoG1110
+- Jua_18:16salió...el discípulo que era conocidoG1110
+- Hec_1:24que conoces los corazones de todosG2589
+- Hec_2:28hiciste conocer los caminos de la vidaG1107
+- Hec_3:16a éste, que...conocéis, le ha confirmadoG1492
+- Hec_7:13José se dio a conocer a sus hermanosG319
+- Hec_7:18levantó...otro rey que no conocía a JoséG1492
+- Hec_13:27no conociendo a Jesús, ni...los profetasG50
+- Hec_15:6reunieron...para conocer de este asuntoG1492
+- Hec_15:8Dios, que conoce los corazones, les dioG2589
+- Hec_15:18hace conocer todo esto desde tiemposG1110
+- Hec_17:23esta inscripción; al Dios no conocidoG57
+- Hec_17:23al que...adoráis, pues, sin conocerleG50
+- Hec_18:25solamente conocía el bautismo de JuanG1987
+- Hec_19:15a Jesús conozco, y sé quien es PabloG1097
+- Hec_19:34cuando le conocieron que era JudíoG1921
+- Hec_22:14para que conozcas su voluntad, y veasG1097
+- Hec_24:22acabaré de conocer de vuestro asuntoG1231
+- Hec_26:3porque tú conoces todas las costumbresG1109
+- Hec_26:4mi vida...la conocen todos los judíosG2467
+- Rom_1:19que de Dios se conoce les es manifiestoG1110
+- Rom_1:21pues habiendo conocido a Dios, no leG1097
+- Rom_2:18y conoces su voluntad, e instruido porG1097
+- Rom_3:17y no conocieron camino de pazG1097
+- Rom_7:1pues hablo con los que conocen la leyG1097
+- Rom_7:7yo no conocí el pecado sino por la leyG1097
+- Rom_7:7tampoco conociera la codicia, si la leyG1492
+- Rom_8:29a los que antes conoció...los predestinóG4267
+- Rom_10:19digo: ¿No ha conocido esto Israel?[[G1097]]
+- Rom_11:2su pueblo, al cual desde antes conocióG4267
+- Rom_13:11conocido el tiempo, que es ya horaG1492
+- Rom_16:26ha dado a conocer a todas las gentesG5319
+- 1Co_1:21el mundo no conoció a Dios medianteG1097
+- 1Co_2:8que ninguno de los príncipes de...conocióG1097
+- 1Co_2:8si la hubieran conocido, nunca habríanG1097
+- 1Co_2:11nadie conoció las cosas de Dios, sinoG1492
+- 1Co_2:16¿quién conoció la mente del Señor?[[G1097]]
+- 1Co_3:20el Señor conoce los pensamientos de losG1097
+- 1Co_4:19y conoceré, no las palabras, sino elG1097
+- 1Co_8:3si alguno ama a Dios, es conocido por élG1097
+- 1Co_13:9porque en parte conocemos, y en parteG1097
+- 1Co_13:12conozco...conoceré como fui conocidoG1097, [[G1921]]
+- 1Co_15:34porque algunos no conocen a DiosG56
+- 2Co_3:2conocidas y leídas por...los hombresG1097
+- 2Co_5:11conociendo, pues, el temor del SeñorG1492
+- 2Co_5:16a nadie conocemos según la carne; y aunG1492
+- 2Co_5:16si a Cristo conocimos...no lo conocemosG1097
+- 2Co_5:21al que no conoció pecado, por nosotrosG1097
+- 2Co_6:9como desconocidos, pero bien conocidosG50, [[G1921]]
+- 2Co_8:9ya conoceré la gracia de nuestro SeñorG1097
+- 2Co_9:2pues conozco vuestra buena voluntad, deG1492
+- 2Co_12:2conozco a un hombre en Cristo, que haceG1492
+- 2Co_12:3conozco al tal hombre (si en el cuerpoG1492
+- 2Co_13:5no os conocéis a vosotros mismos, queG1921
+- 2Co_13:6conoceréis que...no estamos reprobadosG1097
+- Gál_1:22no era conocido de vista a las iglesiasG50
+- Gál_4:8no conociendo a Dios, servíais a los queG1492
+- Gál_4:9conociendo a Dios, o...siendo conocidosG1097
+- Efe_1:9dándonos a conocer el misterio de suG1107
+- Efe_3:5no se dio a conocer a los hijos de losG1107
+- Efe_3:10dada a conocer por medio de la iglesiaG1107
+- Efe_3:19conocer el amor de Cristo, que excede aG1097
+- Efe_6:19dar a conocer con denuedo el misterioG1107
+- Flp_2:22pero ya conocéis los méritos de élG1097
+- Flp_3:10a fin de conocerle, y el poder de suG1097
+- Flp_4:5vuestra gentileza sea conocida de todosG1097
+- Flp_4:6sino sean conocidas vuestras peticionesG1107
+- Col_1:6el día que oísteis y conocisteis laG1921
+- Col_1:27dar a conocer las riquezas de la gloriaG1107
+- Col_2:2de conocer el misterio de Dios el PadreG1922
+- Col_4:3de dar a conocer el misterio de CristoG2980
+- Col_4:8el cual he enviado...para que conozca loG1097
+- 1Ts_1:4conocemos, hermanos amados de DiosG1492
+- 1Ts_4:5como los gentiles que no conocen a DiosG1492
+- 2Ts_1:8retribución a los que no conocieronG1492
+- 1Ti_1:9conociendo esto, que la ley no fueG1492
+- 1Ti_4:3participasen...que han conocido la verdadG1921
+- 2Ti_2:19conoce el Señor a los que son suyosG1097
+- 2Ti_2:25se arrepientan para conocer la verdadG1922
+- Tit_1:16profesan conocer a Dios, pero con losG1492
+- Heb_3:10andan...y no han conocido mis caminosG1097
+- Heb_8:11conoce al Señor...todos me conoceránG1097
+- Heb_10:30pues conocemos al que dijo: Mía es laG1492
+- 2Pe_1:16no os hemos dado a conocer el poderG1107
+- 2Pe_2:21mejor...no haber conocido el camino deG1921
+- 2Pe_2:21después de haberlo conocido, volverseG1921
+- 1Jn_2:3en esto sabemos que...le conocemosG1097
+- 1Jn_2:4el que dice: Yo le conozco, y no guardaG1097
+- 1Jn_2:13conocéis al que es desde el principioG1097
+- 1Jn_2:13os escribo a...habéis conocido al PadreG1097
+- 1Jn_2:14conocido al que es desde el principioG1097
+- 1Jn_2:18esto conocemos que es el último tiempoG1097
+- 1Jn_2:20la unión...y conocéis todas las cosasG1492
+- 1Jn_2:21si ignoraseis...sino porque la conocéisG1492
+- 1Jn_3:1mundo no nos conoce...no le conoció a élG1097
+- 1Jn_3:6todo aquel que peca...ni te ha conocidoG1097
+- 1Jn_3:16en esto hemos conocido el amor, en queG1097
+- 1Jn_3:19en esto conocemos que somos de la verdadG1097
+- 1Jn_4:2en esto conoced el Espíritu de Dios: TodoG1097
+- 1Jn_4:6el que conoce a Dios, nos oye; el que noG1097
+- 1Jn_4:6en esto conocemos el espíritu de verdadG1097
+- 1Jn_4:7ama, es nacido de Dios, y conoce a DiosG1097
+- 1Jn_4:8el que no ama, no ha conocido a DiosG1097
+- 1Jn_4:13en esto conocemos que permanecemos enG1097
+- 1Jn_4:16hemos conocido y creído el amor que DiosG1097
+- 1Jn_5:2en esto conocemos que amamos a los hijosG1097
+- 1Jn_5:20conocer al que es verdadero; y estamosG1492
+- 2Jn_1:1todos los que han conocido la verdadG1097
+- Jud_1:10blasfeman de cuantas cosas no conocenG1492
+- Jud_1:10y en las que por naturaleza conocen, seG1987
+- Rev_2:2conozco tus obras, y tu arduo trabajoG1492
+- Rev_2:9yo conozco tus obras, y tu tribulaciónG1492
+- Rev_2:13conozco tus obras, y dónde moras, dondeG1492
+- Rev_2:17un nombre nuevo, el cual ninguno conoceG1097
+- Rev_2:19yo conozco tus obras, y amor, y fe, yG1492
+- Rev_2:24no han conocido...las profundidades deG1097
+- Rev_3:1yo conozco tus obras, que tienes nombreG1492
+- Rev_3:8yo conozco tus obras; he aquí, he puestoG1492
+- Rev_3:15yo conozco tus obras, que ni eres fríoG1492
+- Rev_19:12un nombre escrito que ninguno conocíaG1492

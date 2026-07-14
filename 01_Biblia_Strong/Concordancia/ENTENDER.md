@@ -1,0 +1,243 @@
+---
+tipo: concordancia
+palabra: ENTENDER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENTENDER
+
+- Gén_8:11entendió Noé que las aguas...retiradoH3045
+- Gén_11:7para que ninguno entienda el habla deH8085
+- Gén_42:23ellos no sabían que los entendía JoséH8085
+- Gén_47:6entiendes que hay entre ellos hombresH3045
+- Éxo_9:14entiendas que no hay otro como yo enH3045
+- Lev_5:4no lo entendiere...después lo entiendeH3045
+- Deu_9:3entiende...Jehová tu Dios el que pasaH3045
+- Deu_28:49una nación...cuya lengua no entiendasH8085
+- Deu_29:4no os ha dado corazón para entender, niH3045
+- Jos_3:7entiendan que como estuve con MoisésH3045
+- Jos_9:24como fue dado a entender a tus siervosH5046
+- Jos_22:31hemos entendido que Jehová está entreH3045
+- Jue_6:37entenderé que salvarás a Israel porH3045
+- 1Sa_3:8entendió Elí que Jehová llamaba alH995
+- 1Sa_20:33entendió...estaba resuelto a matar aH3045
+- 1Sa_20:39ninguna cosa entendió el muchachoH3045
+- 1Sa_20:39David entendían de lo que se tratabaH3045
+- 1Sa_23:9entendiendo David...Saúl ideaba el malH3045
+- 1Sa_23:10tu siervo tiene entendido que SaúlH8085
+- 1Sa_24:20como yo entiendo que tú has de reinarH3045
+- 1Sa_26:3David...entendió que Saúl le seguía enH7200
+- 1Sa_26:12no hubo nadie que viese, ni entendieseH3045
+- 1Sa_28:1ten entendido que has de salir conmigoH3045
+- 1Sa_28:14Saúl entonces entendió que era SamuelH3045
+- 2Sa_3:37Israel entendió...no había procedidoH3045
+- 2Sa_5:12entendió David que Jehová le había...reyH3045
+- 2Sa_12:19entendió que el niño había muerto; porH995
+- 2Sa_14:22ha entendido tu siervo que he halladoH3045
+- 1Re_8:43entiendan que tu nombre es invocadoH3045
+- 1Re_20:7entended, y ved...éste no busca sino malH3045
+- 2Re_4:9entiendo que éste...es varón santo deH3045
+- 2Re_18:26que hables...en arameo...lo entendemosH8085
+- 1Cr_12:32de Isacar, 200...entendidos en losH998
+- 1Cr_14:2entendió David que Jehová lo habíaH3045
+- 1Cr_28:9Jehová...entiende todo intento de losH995
+- 1Cr_28:19me hizo entender todas las obras delH7919
+- Neh_4:15cuando oyeron...lo habíamos entendidoH3045
+- Neh_6:12y entendí que Dios no lo había enviadoH5234
+- Neh_8:2la congregación...los que podían entenderH995
+- Neh_8:3en presencia de...los que podían entenderH995
+- Neh_8:7hacían entender al pueblo la ley; y elH995
+- Neh_8:8leían...de modo que entendiesen la lecturaH995
+- Neh_8:9los levitas que hacían entender al puebloH995
+- Neh_8:12habían entendido las palabras que lesH995
+- Neh_8:13para entender las palabras de la leyH7919
+- Est_2:22Mardoqueo entendió esto, lo denuncióH3045
+- Job_6:24hacedme entender en qué he erradoH995
+- Job_9:11no lo veré; pasará, y no lo entenderéH995
+- Job_10:2hazme entender...qué contiendes conmigoH3045
+- Job_12:9entiende que la mano de Jehová la hizo?[[H3045]]
+- Job_13:1cosas han...oído y entendido mis oídosH995
+- Job_13:23hazme entender mi transgresión...pecadoH3045
+- Job_14:21o serán humillados, y no entenderá deH995
+- Job_15:9¿qué entiendes tú que no se halle enH995
+- Job_18:2palabras? Entended, y después hablemosH995
+- Job_23:5sabría...y entendería lo que me dijeraH995
+- Job_28:23entiende el camino de ella, y conoceH995
+- Job_29:16la causa que no entendía, me informabaH3045
+- Job_32:8y el soplo del...le hace que entiendaH995
+- Job_32:9no...ni los ancianos entienden el derechoH995
+- Job_33:14habla Dios; pero el hombre no entiendeH7789
+- Job_37:5hace grandes cosas, que...no entendemosH3045
+- Job_38:20que...entiendas las sendas de su casa?[[H995]]
+- Job_42:3yo hablaba lo que no entendía; cosasH995
+- Sal_19:12¿quién podrá entender sus...errores?[[H995]]
+- Sal_32:8haré entender, y te enseñaré el caminoH7919
+- Sal_35:15y yo no lo entendía; me despedazabanH3045
+- Sal_49:20hombre que está en honra y no entiendeH995
+- Sal_50:22entended...los que os olvidáis de DiosH995
+- Sal_64:9temerán todos...y entenderán sus hechosH7919
+- Sal_73:22tan torpe era yo, que no entendía; eraH3045
+- Sal_78:3las cuales hemos oído y entendido; queH3045
+- Sal_81:5de Egipto. Oí lenguaje que no entendíaH3045
+- Sal_82:5no saben, no entienden...en tinieblasH995
+- Sal_92:6sabe, y el insensato no entiende estoH995
+- Sal_94:7no verá...ni entenderá el Dios de JacobH995
+- Sal_94:8entended, necios del pueblo; y vosotrosH995
+- Sal_101:2entenderé el camino de la perfecciónH7919
+- Sal_106:7padres en Egipto no entendieron tusH7919
+- Sal_107:43¿quién...entenderá las misericordiasH995
+- Sal_109:27y entiendan que esta es tu mano; queH3045
+- Sal_119:27hazme entender el camino de tusH995
+- Sal_119:73hazme entender, y...tus mandamientosH995
+- Sal_119:99más que...mis enseñadores he entendidoH7919
+- Sal_119:100más que los viejos he entendidoH995
+- Sal_119:130alumbra; hace entender a los simplesH995
+- Sal_119:152he entendido tus testimonios, queH3045
+- Sal_139:2entendido desde lejos mis pensamientosH3045
+- Pro_1:2para entender sabiduría y doctrina, paraH3045
+- Pro_1:6para entender proverbio y declaraciónH995
+- Pro_2:5entonces entenderás el temor de JehováH995
+- Pro_2:9entonces entenderás justicia, juicio yH995
+- Pro_8:5entended, oh simples, discreción; yH995
+- Pro_8:9todas ellas son rectas al que entiendeH995
+- Pro_14:8ciencia del prudente está en entenderH995
+- Pro_16:20el entendido en la palabra hallará elH7919
+- Pro_19:25y corrigiendo al...entenderá cienciaH995
+- Pro_20:24¿cómo...entenderá el hombre su camino?[[H995]]
+- Pro_24:12¿acaso no lo entenderá el que pesa losH3045
+- Pro_28:5los hombres malos no entienden el juicioH995
+- Pro_28:5mas los que buscan a Jehová entiendenH995
+- Pro_29:7conoce...el impío no entiende sabiduríaH995
+- Pro_29:19el siervo...entiende, mas no hace casoH995
+- Ecl_1:17también a entender las locuras y losH3045
+- Ecl_2:14entendí...un mismo suceso acontecerá alH3045
+- Ecl_3:11a entender la obra que ha hecho DiosH4672
+- Ecl_3:14he entendido que todo lo que Dios haceH3045
+- Isa_1:3Israel no entiende, mi pueblo no tieneH3045
+- Isa_6:9y di...Oíd bien, y no entendáis; ved porH995
+- Isa_6:10ni su corazón entienda, ni se conviertaH995
+- Isa_11:3le hará entender diligente en el temorH7306
+- Isa_28:9a quién se hará entender doctrina? ¿AH995
+- Isa_28:19y será...espanto el entender lo oídoH995
+- Isa_29:16¿dirá la vasija de aquel...No entendió?[[H995]]
+- Isa_32:4el corazón de los necios entenderá paraH995
+- Isa_33:19pueblo de lengua difícil de entenderH998
+- Isa_36:11arameo, porque nosotros lo entendemosH8085
+- Isa_41:20que vean...adviertan y entiendan todosH7919
+- Isa_41:22hacednos entender lo que ha de venirH8085
+- Isa_42:25puso fuego por todas...pero no entendióH3045
+- Isa_43:10creáis, y entendáis que yo mismo soyH995
+- Isa_44:9de que los ídolos no ven ni entiendenH3045
+- Isa_44:18no saben ni entienden; porque cerradosH995
+- Isa_44:18no ver, y su corazón para no entenderH7919
+- Isa_52:15y entenderán lo que jamás habían oídoH995
+- Isa_56:11los pastores mismos no saben entenderH995
+- Isa_57:1y no hay quien entienda que de delanteH995
+- Jer_5:15cuya lengua ignorarás, y no entenderásH8085
+- Jer_6:18por tanto, oíd, naciones, y entendedH3045
+- Jer_9:12¿quién es varón sabio que entienda esto?[[H995]]
+- Jer_9:24alábese en...en entenderme y conocermeH7919
+- Jer_11:19no entendía que maquinaban designiosH3045
+- Jer_14:18anduvieron vagando...y no entendieronH3045
+- Jer_23:20en los postreros días lo entenderéisH995
+- Jer_26:21entendiendo lo cual Urías, tuvo temorH8085
+- Jer_30:24el fin de los días entenderéis estoH995
+- Eze_3:6pueblos...cuyas palabras no entiendasH8085
+- Eze_11:5las cosas que suben...las he entendidoH3045
+- Eze_17:12¿no habéis entendido qué significanH3045
+- Eze_43:11hazles entender el diseño de la casaH3045
+- Dan_2:30para que entiendas los pensamientosH3046
+- Dan_4:9he entendido que hay en ti espíritu deH3046
+- Dan_8:17entiende, hijo...es para el tiempo del finH995
+- Dan_8:27pero estaba espantado...no la entendíaH995
+- Dan_9:13para convertirnos...entender tu verdadH7919
+- Dan_9:22hizo entender, y habló conmigo, diciendoH998
+- Dan_9:23entiende, pues, la orden, y e la visiónH995
+- Dan_9:25y entiende, que desde la salida de laH7919
+- Dan_10:12tu corazón a entender y a humillarteH995
+- Dan_11:30y se entenderá con los que abandonenH995
+- Dan_12:8yo oí, mas no entendí. Y dije: Señor míoH995
+- Dan_12:10ninguno de los impíos entenderá, peroH995
+- Ose_14:9¿quién es sabio para que entienda estoH995
+- Miq_4:12mas ellos...ni entendieron su consejoH995
+- Mat_13:13ven, y oyendo no oyen, ni entiendenG4920
+- Mat_13:14dijo: De oído oiréis, y no entenderéisG4920
+- Mat_13:15oigan...y con el corazón entiendan, y seG4920
+- Mat_13:19oye la palabra...y no la entiende, vieneG4920
+- Mat_13:23oye y entiende la palabra, y da frutoG4920
+- Mat_13:51¿habéis entendido todas estas cosas?[[G4920]]
+- Mat_15:10llamando a...les dijo: Oíd, y entendedG4920
+- Mat_15:17¿no entendéis que todo lo que entra enG3539
+- Mat_16:8entendiéndolo Jesús, les dijo: ¿Por quéG1097
+- Mat_16:9¿no entendéis aún, ni os acordáis de losG3539
+- Mat_16:11no entendéis que no fue por el pan queG3539
+- Mat_16:12entendieron que no les había dicho queG4920
+- Mat_21:45los fariseos, entendieron que hablaba deG1097
+- Mat_24:15la abominación...(el que lee, entienda)[[G3539]]
+- Mat_24:39no entendieron hasta...vino el diluvioG1097
+- Mat_26:10y entendiéndolo Jesús, les dijo: ¿PorG1097
+- Mar_4:12y oyendo, oigan y no entiendan; paraG4920
+- Mar_4:13¿cómo...entenderéis todas las parábolas?[[G1097]]
+- Mar_6:52aún no habían entendido lo de los panesG4920
+- Mar_7:14llamando a sí...Oídme todos, y entendedG4920
+- Mar_7:18¿no entendéis que todo lo de fuera queG801
+- Mar_8:17y entendiéndolo Jesús, les dijo: ¿QuéG1097
+- Mar_8:17dijo...¿No entendéis ni comprendéis?[[G4920]]
+- Mar_8:21y les dijo: ¿Cómo aún no entendéis?[[G4920]]
+- Mar_9:32pero ellos no entendían esta palabra, yG50
+- Mar_12:12porque entendían...decía contra ellosG1097
+- Mar_13:14la abominación...(el que lee, entienda)[[G3539]]
+- Luc_2:50mas ellos no entendieron las palabrasG4920
+- Luc_8:10viendo no vean, y oyendo no entiendanG4920
+- Luc_9:45mas ellos no entendían estas palabrasG50
+- Luc_9:45veladas para que no las entendiesenG50
+- Luc_18:34ellos...no entendían lo que se les decíaG4920
+- Jua_4:1Señor entendió que los fariseos habíanG1097
+- Jua_4:53entendió que aquella era la hora en queG1097
+- Jua_6:15entendiendo Jesús que iban a venir paraG1097
+- Jua_8:27pero no entendieron que les hablaba delG1097
+- Jua_8:43¿por qué no entendéis mi lenguaje?[[G1097]]
+- Jua_10:6no entendieron qué era lo que les decíaG1097
+- Jua_12:16cosas no las entendieron sus discípulosG1097
+- Jua_12:33dando a entender de qué muerte iba aG4591
+- Jua_12:40que no vean...entiendan con el corazónG3539
+- Jua_13:7lo que yo hago...lo entenderás despuésG1097
+- Jua_13:28ninguno...entendió por qué le dijo estoG1097
+- Jua_16:18un poco? No entendemos lo que hablaG1492
+- Jua_16:30entendemos que sabes todas las cosasG1492
+- Jua_18:32dando a entender de qué muerte iba aG4591
+- Jua_19:4entendáis que ningún delito hallo en élG1097
+- Jua_20:9aún no habían entendido la Escritura, queG1492
+- Jua_21:19dando a entender con qué muerte habíaG4591
+- Hec_7:25mas ellos no lo habían entendido asíG4920
+- Hec_8:30y dijo: Pero ¿entiendes lo que lees?[[G1097]]
+- Hec_11:28daba a entender por el Espíritu, queG4591
+- Hec_12:11entiendo...el Señor ha enviado su ángelG1492
+- Hec_21:34como no podía entender nada de ciertoG1097
+- Hec_22:9no entendieron la voz del que hablabaG191
+- Hec_23:34habiendo entendido que era de CiliciaG4441
+- Hec_28:26de oído oiréis, y no entenderéis; yG4920
+- Hec_28:27entiendan de corazón, y se conviertanG4920
+- Rom_1:20siendo entendidas por medio de lasG3539
+- Rom_1:32habiendo entendido el juicio de Dios, queG1921
+- Rom_3:11no hay quien entienda, no hay quienG4920
+- Rom_7:15lo que hago, no lo entiendo; pues noG1097
+- Rom_11:34¿quién entendió la mente del Señor?[[G1097]]
+- Rom_15:21que nunca han oído de él, entenderánG4920
+- 1Co_2:14son locura, y no las puede entenderG1097
+- 1Co_13:2entendiese todos los misterios y todaG1492
+- 1Co_14:2pues nadie le entiende, aunque por elG191
+- 1Co_14:9así...¿cómo se entenderá lo que decís?[[G2154]]
+- 2Co_1:13otras cosas de las que...entendéisG1921
+- 2Co_1:13espero que hasta el fin las entenderéisG1921
+- 2Co_1:14entendido que somos vuestra gloria, asíG1921
+- Efe_3:4leyendo lo cual podéis entender cuálG3539
+- Efe_3:20de lo que pedimos o entendemos, según elG3539
+- 1Ti_1:7sin entender ni lo que hablan ni loG4920
+- Heb_9:8dando...a entender...que aún no se habíaG1213
+- Heb_11:3la fe entendemos haber sido constituidoG3539
+- Heb_11:14dan a entender que buscaban una patriaG1718
+- 2Pe_1:20entendiendo...que ninguna profecía deG1097
+- 2Pe_2:12hablando mal de cosas que no entiendenG50
+- 2Pe_3:16hay algunas difíciles de entender, lasG1425

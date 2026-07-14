@@ -1,0 +1,76 @@
+---
+tipo: concordancia
+palabra: MANTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MANTO
+
+- Gén_49:11lavó en...en la sangre de uvas su mH3830
+- Éxo_28:4el m, la túnica bordada, la mitraH899
+- Éxo_28:31harás el m del efod todo de azulH4598
+- Éxo_28:34una campanilla...en toda la orla del mH4598
+- Éxo_29:5y vestirás a Aarón la túnica, el m delH899
+- Éxo_39:22hizo también el m del efod de obra deH4598
+- Éxo_39:24hicieron en las orillas del m granadasH4598
+- Éxo_39:25entre las granadas en...orillas del mH4598
+- Éxo_39:26en las orillas del m, para ministrarH4598
+- Lev_8:7le vistió después el m, y puso sobre élH4598
+- Deu_22:12te harás flecos en...puntas de tu mH3682
+- Jos_7:21entre los despojos un m babilónicoH155
+- Jos_7:24tomaron a Acán hijo...el m, el lingoteH155
+- Jue_8:25tendiendo un m, echó allí...zarcillosH8071
+- Rut_3:15dijo: Quítate el m que traes sobre tiH4304
+- 1Sa_15:27se asió de la punta de su m...rasgóH4598
+- 1Sa_18:4y Jonatán se quitó el m que llevaba, yH4598
+- 1Sa_24:4David...cortó la orilla del m de SaúlH4598
+- 1Sa_24:5había cortado la orilla del m de SaúlH3671
+- 1Sa_24:11la orilla de tu m...yo corté...de tu mH4598
+- 1Sa_28:14un hombre anciano...cubierto de un mH4598
+- 1Re_19:13Elías, cubrió su rostro con su m, yH155
+- 1Re_19:19pasando Elías por...echó sobre él su mH155
+- 2Re_2:8tomando entonces Elías su m, lo doblóH155
+- 2Re_2:13alzó...m de Elías que se le había caídoH155
+- 2Re_2:14tomando el m de Elías que...había caídoH155
+- 2Re_9:13cada uno tomó...su m, y lo puso debajoH899
+- Esd_9:3rasgué mi vestido y mi m, y arranquéH899
+- Esd_9:5y habiendo rasgado mi...m, me postré deH899
+- Est_8:15gran corona de oro, y un m de linoH8509
+- Job_1:20Job...rasgó su m, y rasuró su cabezaH4598
+- Job_2:12cada uno de ellos rasgó su m, y los tresH4598
+- Job_29:14me...com o m y diadema era mi rectitudH4598
+- Sal_109:29cubiertos de confusión como con mH4598
+- Cnt_5:7quitaron mi m de encima los guardasH7289
+- Isa_9:5m revolcado en sangre, serán quemadosH8071
+- Isa_59:17ropas...y se cubrió de celo como de mH899
+- Isa_61:3ordenar que a...se les dé...m de alegríaH4594
+- Isa_61:10me vistió...me rodeó de m de justiciaH4598
+- Eze_5:3tomarás...los atarás en la falda de tu mH3671
+- Eze_16:8pasé...y extendí mi m sobre ti, y cubríH3671
+- Eze_26:16y se quitarán sus m, y desnudarán susH4598
+- Eze_27:24en m de azul y bordados, y en cajas deH1545
+- Dan_3:21estos varones fueron atados con sus mH3831
+- Zac_8:23tomarán del m a un judío, diciendoH3671
+- Zac_13:4y nunca más vestirán el m velloso paraH155
+- Mat_9:20se le acercó...tocó el borde de su mG2440
+- Mat_9:21si tocare solamente su m, seré salvaG2440
+- Mat_14:36dejase tocar...el borde de su m; y todosG2440
+- Mat_21:7y pusieron sobre ellos sus m; y él seG2440
+- Mat_21:8la multitud...tendía sus m en el caminoG2440
+- Mat_23:5hacen...y extienden los flecos de sus mG2440
+- Mat_27:28le echaron encima un m de escarlataG5511
+- Mat_27:31después...le quitaron el m, le pusieronG5511
+- Mar_5:27vino por detrás entre...y tocó su mG2440
+- Mar_5:28tocare tan solamente su m, seré salvaG2440
+- Mar_6:56dejase tocar siquiera el borde de su mG2440
+- Mar_11:7y echaron sobre él sus m, y se sentóG2440
+- Mar_11:8muchos tendían sus m por el camino, yG2440
+- Luc_8:44se le acercó...tocó el borde de su mG2440
+- Luc_19:35habiendo echado sus m sobre el pollinoG2440
+- Luc_19:36a su paso tendían sus m por el caminoG2440
+- Jua_13:4se quitó su m, y tomando una toallaG2440
+- Jua_13:12tomó su m, volvió a la mesa, y...dijoG2440
+- Jua_19:2y le vistieron con un m de púrpuraG2440
+- Jua_19:5salió Jesús, llevando...el m de púrpuraG2440
+- Hec_12:8dijo: Envuélvete en tu m, y síguemeG2440

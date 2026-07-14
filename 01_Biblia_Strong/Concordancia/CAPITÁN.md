@@ -1,0 +1,129 @@
+---
+tipo: concordancia
+palabra: CAPITÁN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CAPITÁN
+
+- Gén_26:26Abimelec...y Ficol, c de su ejércitoH8269
+- Gén_37:36Potifar, oficial de...c de la guardiaH8269
+- Gén_39:1Potifar...c de la guardia...lo compró deH8269
+- Gén_40:3prisión en la casa del c de la guardiaH8269
+- Gén_40:4y el c de la...encargó de ellos a JoséH8269
+- Gén_41:10nos echó a...casa del c de la guardiaH8269
+- Gén_41:12hebreo, siervo del c de la guardiaH8269
+- Éxo_14:7carros de Egipto, y los c sobre ellosH7991
+- Éxo_15:4sus c escogidos fueron hundidos en elH7991
+- Núm_1:16eran los...c de los millares de IsraelH7218
+- Núm_14:4designemos un c, y volvámonos a EgiptoH7218
+- Núm_31:14y se enojó Moisés contra los c...jefesH8269
+- Deu_20:9los c del ejército tomarán el mandoH8269
+- Jue_4:2c de su ejército se llamaba SísaraH8269
+- Jue_4:7a Sísara, c del ejército de Jabín, conH8269
+- 2Sa_4:2hombres, c de bandas de merodeadoresH8269
+- 2Sa_18:5cuando dio el rey orden...a todos los cH8269
+- 2Sa_23:8Joseb-basebet el...principal de los cH7991
+- 2Sa_24:4palabra del rey prevaleció sobre...los cH8269
+- 2Sa_24:4salió...Joab, con los c del ejércitoH8269
+- 1Re_1:25y ha convidado...a los c del ejércitoH8269
+- 1Re_9:22sus c, comandantes de sus carros, o suH7991
+- 1Re_11:24y se había hecho c de una compañíaH8269
+- 1Re_14:27los dio a los c de los de la guardiaH8269
+- 1Re_20:24a los reyes...y pon c en lugar de ellosH6346
+- 1Re_22:31rey de Siria había mandado a sus 32 cH8269
+- 1Re_22:32los c de los carros vieron a JosafatH8269
+- 1Re_22:33viendo...los c de los carros que no eraH8269
+- 2Re_1:9envió a él un c de 50...y el c le dijoH8269
+- 2Re_1:10Elías dijo al c de cincuenta: Si yo soyH8269
+- 2Re_1:11volvió el rey a enviar a él otro c deH8269
+- 2Re_1:13volvió a enviar al tercer c de 50 conH8269
+- 2Re_1:13subiendo aquel tercer c de 50, se pusoH8269
+- 2Re_1:14ha consumido a los dos primeros c de 50H8269
+- 2Re_8:21atacó a los de...y a los c de los carrosH8269
+- 2Re_9:25Jehú a Bidcar su c: Tómalo, y échalo aH7991
+- 2Re_10:25dijo a...y a los c: Entrad, y matadlosH7991
+- 2Re_10:25mataron a espada...la guardia y los cH7991
+- 2Re_11:4Joiada...tomó...c, y jefe de la guardiaH3746
+- 2Re_11:19tomó a...los c, la guardia y todo elH3746
+- 2Re_15:25conspiró contra él Peka hijo...c suyoH7991
+- 2Re_18:24¿cómo, pues, podrás resistir a un cH6346
+- 2Re_25:8Nabuzaradán, c de la guardia, siervo delH7227
+- 2Re_25:10el c de la guardia, derribó los murosH7227
+- 2Re_25:11los llevó cautivos...c de la guardiaH7227
+- 2Re_25:12de los pobres de...dejó Nabuzaradán, cH7227
+- 2Re_25:15de plata...lo llevó el c de la guardiaH7227
+- 2Re_25:18Nabuzaradán, c de la guardia, siervo delH7227
+- 2Re_25:20tomó Nabuzaradán, c de la guardia,[[H7227]]
+- 2Re_25:26levantándose con los...c del ejércitoH8269
+- 1Cr_4:42llevando por c a Pelatías, NearíasH7218
+- 1Cr_9:20Finees hijo de...fue antes entre ellosH5057
+- 1Cr_12:14éstos fueron c del ejército de...de GadH7218
+- 1Cr_12:18David...puso entre los c de la tropaH7991
+- 1Cr_12:21valientes y fueron c en el ejércitoH8269
+- 1Cr_12:34de Neftalí, mil c, y con ellos 37.000H8269
+- 1Cr_13:1David tomó consejo con los c...los jefesH8269
+- 1Cr_15:25David...y los c de millares, fueron aH8269
+- 1Cr_19:16cuyo c era Sofac, general del ejércitoH8269
+- 1Cr_26:26los c de millares y de centenas, y losH8269
+- 1Cr_27:3jefe de todos los c de las compañíasH8269
+- 2Cr_8:9sus c, y comandantes de sus carrosH7991
+- 2Cr_11:11puso en ellas c, y provisiones, vinoH5057
+- 2Cr_16:4y envió los c de sus ejércitos contraH8269
+- 2Cr_18:30el rey...mandado a los c de los carrosH8269
+- 2Cr_18:31los c de los carros vieron a JosafatH8269
+- 2Cr_18:32viendo los c de los...que no era el reyH8269
+- 2Cr_32:6y puso c de guerra sobre el pueblo, yH8269
+- 2Cr_32:21un ángel...destruyó...a los jefes y c enH8269
+- 2Cr_33:14puso c de ejército en todas la ciudadesH8269
+- Esd_8:36a sus sátrapas y c del otro lado delH6346
+- Neh_2:9el rey envió conmigo c del ejércitoH8269
+- Est_3:12que mandó Amán...a los c que estabanH6346
+- Est_8:9y se escribió...a...los c y los príncipesH6346
+- Est_9:3los sátrapas, c y...apoyaban a los judíosH6346
+- Job_39:25hueles la batalla, el grito de los cH8269
+- Sal_83:11pon a sus c como a Oreb y a ZeebH5081
+- Pro_6:7la cual no teniendo c, ni gobernadorH7101
+- Isa_3:3el c de 50 y el hombre de respeto, elH8269
+- Isa_36:9podrás resistir a un c, al menor de losH6346
+- Jer_37:13allí un c que se llamaba Irías hijoH1167
+- Jer_39:9resto...c de la guardia los transportóH7227
+- Jer_39:10c de la guardia hizo quedar en tierraH7227
+- Jer_39:11ordenado a...c de la guardia acerca deH7227
+- Jer_39:13envió...Nabuzaradán c de la guardia, yH7227
+- Jer_40:1después que...c de la guardia el envióH7227
+- Jer_40:2tomó...el c de la guardia a Jeremías yH7227
+- Jer_40:5le dio el c de la guardia provisionesH7227
+- Jer_41:10cual había encargado...c de la guardiaH7227
+- Jer_41:13vio...los c de la gente de guerra queH8269
+- Jer_41:16los c de la gente de guerra que conH8269
+- Jer_43:6había dejado Nabuzaradán c de la guardiaH7227
+- Jer_51:27alzad bandera...señalad contra ella cH2951
+- Jer_51:28Media, sus c y todos sus príncipes, yH6346
+- Jer_51:57embriagaré...a sus c, a sus nobles y aH6346
+- Jer_52:12vino...Nabuzaradán c de la guardia, queH7227
+- Jer_52:14el ejército...que venía con el c de laH7227
+- Jer_52:15e hizo transportar Nabuzaradán c de laH7227
+- Jer_52:16dejó Nabuzaradán c de...para viñadoresH7227
+- Jer_52:19de plata...se llevó el c de la guardiaH7227
+- Jer_52:24tomó...el c de la guardia a Seraías elH7227
+- Jer_52:25a un oficial que era c de los hombresH6496
+- Jer_52:26los tomó...Nabuzaradán c de la guardiaH7227
+- Jer_52:30c de la guardia llevó cautivas a 745H7227
+- Eze_23:6y c, jóvenes codiciables todos ellosH6346
+- Eze_23:12c, vestidos de ropas y armas...jinetesH6346
+- Eze_23:15teniendo todos ellos apariencia de cH7991
+- Eze_23:23c, nobles y varones de renombre, queH6346
+- Dan_2:14habló...a Arioc, c de la guardia delH7229
+- Dan_2:15a Arioc c del rey: ¿Cuál es la causa deH7990
+- Dan_3:2que se reuniesen...c, oidores, tesorerosH6347
+- Dan_3:3fueron...reunidos...c, oidores, tesorerosH6347
+- Dan_3:27se juntaron...los c y los consejeros delH6347
+- Dan_6:7c han acordado por consejo...promulguesH6347
+- Miq_3:9oíd...jefes...y c de la casa de IsraelH7101
+- Zac_9:7y serán como c en Judá, y Ecrón seráH441
+- Zac_12:5y los c de Judá dirán en su corazónH441
+- Zac_12:6a los c de Judá como brasero de fuegoH441
+- Rev_6:15los c, los poderosos...se escondieronG5506
+- Rev_19:18que comáis carnes de reyes y de c, yG5506

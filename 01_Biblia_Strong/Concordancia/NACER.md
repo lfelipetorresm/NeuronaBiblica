@@ -1,0 +1,187 @@
+---
+tipo: concordancia
+palabra: NACER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NACER
+
+- Gén_2:5toda hierba del campo antes que nacieseH6779
+- Gén_2:9Dios hizo nacer de la tierra todo árbolH6779
+- Gén_4:18a Enoc le nació Irad, e Irad engendróH3205
+- Gén_4:26y a Sol también le nació un hijo...EnósH3205
+- Gén_6:1multiplicarse sobre...les nacieron hijasH3205
+- Gén_10:1a quienes nacieron...después del diluvioH3205
+- Gén_10:21también le nacieron hijos a Sem, padreH3205
+- Gén_10:25a Heber nacieron dos hijos: el nombreH3205
+- Gén_14:14armó a sus criados, los nacidos en suH3211
+- Gén_15:3será mi heredero un esclavo nacido en miH1121
+- Gén_17:12el nacido en casa, y el comprado porH3211
+- Gén_17:13debe ser circuncidado el nacido en tuH3211
+- Gén_17:17hombre de cien años ha de nacer hijo?[[H3205]]
+- Gén_17:23a todos los siervos nacidos en su casaH3211
+- Gén_17:27el siervo nacido en casa, y el compradoH3211
+- Gén_21:3el nombre de su hijo que le nació, queH3205
+- Gén_21:5Abraham de cien años cuando nació IsaacH3205
+- Gén_24:15Rebeca, que había nacido a Betuel, hijoH3205
+- Gén_35:26los hijos de Jacob, que le nacieron enH3205
+- Gén_36:5los hijos de Esaú...que le nacieron en laH3205
+- Gén_41:50y nacieron a José dos hijos antes queH3205
+- Gén_44:20un hermano...que le nació oro su vejezH3205
+- Gén_46:20nacieron a José en la tierra de EgiptoH3205
+- Gén_46:22hijos de Raquel...que nacieron a JacobH3205
+- Gén_46:27los hijos de José, que le nacieron enH3209
+- Gén_48:5hijos..que te nacieron en la tierra deH3205
+- Éxo_1:5las personas que le nacieron a JacobH3209
+- Éxo_1:22echad al río a todo hijo que nazca, yH3209
+- Éxo_13:12todo primer nacido de tus animales: losH6363
+- Éxo_34:19primer nacido, mío es; y de tu ganadoH6363
+- Lev_18:9tu hermana...nacida en casa o n fueraH4138
+- Lev_22:11el nacido en su casa podrá comer de suH3211
+- Lev_22:27el becerro...cuando naciere, siete díasH3205
+- Lev_25:5lo que de suyo naciere...no lo segarásH5599
+- Lev_25:11ni segaréis lo que naciere de suyo enH5599
+- Lev_25:45familias de...nacidos en vuestra tierraH3205
+- Núm_3:12primeros nacidos de entre los hijos deH6363
+- Núm_8:16levitas...en lugar de todo primer nacidoH6363
+- Núm_12:12no quede ella, como el que nace muerto
+- Núm_15:29el nacido entre los hijos de Israel, yH249
+- Núm_26:59Jocabed...que le nació a Leví en EgiptoH3205
+- Núm_26:60y a Aarón le nacieron Nadab...e ItamarH3205
+- Deu_23:8los hijos que nacieron...en la terceraH3205
+- Deu_28:57al recién nacido que sale de entre sus
+- Jos_1:15a este lado...hacia donde nace el sol
+- Jos_5:5el pueblo que había nacido en el desiertoH3209
+- Jos_12:1al otro lado del...hacia donde nace el solH4217
+- Jos_19:12gira de Sarid...hacia donde nace el sol
+- Jos_19:34por el Jordán hacia donde nace el sol
+- Jue_13:8de hacer con el niño que ha de nacerH3205
+- Jue_20:43enfrente de Gabaa hacia donde nace el
+- Rut_2:11que dejando...la tierra donde nacisteH4138
+- Rut_4:17diciendo: Le ha nacido un hijo a NoemíH3205
+- 1Sa_2:33los nacidos en tu casa morirán en laH4768
+- 2Sa_3:2y nacieron hijos a David en HebrónH3205
+- 2Sa_3:5éstos le nacieron a David en HebrónH3205
+- 2Sa_5:13David...y le nacieron más hijos e hijasH3205
+- 2Sa_5:14son los nombres de los que le nacieronH3209
+- 2Sa_10:3hasta que os vuelva a nacer la barbaH6779
+- 2Sa_12:14mas...el hijo que te ha nacido...moriráH3209
+- 2Sa_14:27le nacieron a Absalón tres hijos, y unaH3205
+- 1Re_1:6éste...había nacido después de Absalón
+- 1Re_4:33hasta el hisopo que nace en la paredH3318
+- 1Re_7:32los ejes de las...nacían en la misma basa
+- 1Re_13:2la casa de David nacerá un hijo llamadoH3205
+- 2Re_19:3los hijos están a punto de nacer, yH4866
+- 2Re_19:29este año comeréis lo que nacerá de suyoH5599
+- 2Re_19:29el segundo año lo que nacerá de suyoH7823
+- 2Re_23:25otro rey...ni después de él nació otroH6965
+- 1Cr_1:19Heber nacieron dos hijos; el nombreH3205
+- 1Cr_2:3estos tres le nacieron de la hija de SúaH3205
+- 1Cr_2:9los hijos que nacieron a Hezrón: JerameelH3205
+- 1Cr_3:1hijos de David que le nacieron en HebrónH3205
+- 1Cr_3:4estos seis le nacieron en Hebrón, dondeH3205
+- 1Cr_3:5estos 4 le nacieron en Jerusalén: SimeaH3205
+- 1Cr_14:4son los nombres de los que le nacieron
+- 1Cr_22:9he aquí te nacerá un hijo...varón de pazH3205
+- 1Cr_26:6de Semaías...nacieron hijos que fueronH3205
+- Esd_10:3las mujeres y los nacidos de ellasH3205
+- Job_1:2y le nacieron siete hijos y tres hijasH3205
+- Job_3:3el día en que yo nací, y la noche en queH3205
+- Job_5:7aire, así el hombre nace para la aflicciónH3205
+- Job_8:19el gozo...y del polvo mismo nacerán otrosH6779
+- Job_11:12un pollino de asno montés nazca hombreH3205
+- Job_14:1el hombre nacido de mujer, corto de díasH3205
+- Job_15:7¿naciste tú primero que Adán? ¿o fuisteH3205
+- Job_15:14que se justifique el nacido de mujer?[[H3205]]
+- Job_25:4cómo será limpio el que nace de mujer?[[H3205]]
+- Job_31:40en lugar de trigo me nazcan abrojos, yH3318
+- Job_38:21sabes! Pues entonces ya habías nacidoH3205
+- Sal_22:10sobre ti fui echado...antes de nacerH7358
+- Sal_22:31a pueblo no nacido aún, anunciarán queH3205
+- Sal_58:3descarriaron...mentira desde que nacieronH990
+- Sal_58:8como el que nace muerto, no vean el solH5309
+- Sal_78:6que lo sepa la, y los hijos que naceránH3205
+- Sal_81:4Filistea...con Etiopía; éste nació alláH3205
+- Sal_81:5se dirá: Esto y aquél han nacido en ellaH3205
+- Sal_87:6contará al inscribir a...Este nació allíH3205
+- Sal_90:2que naciesen los montes, y formases laH3205
+- Sal_102:18el pueblo que está por nacer alabaráH1254
+- Ecl_2:7tuve siervos nacidos en casa; tambiénH1121
+- Ecl_3:2tiempo de nacer, y tiempo de morirH3205
+- Ecl_4:14reinar, aunque en su reino nació pobreH3205
+- Isa_9:6un niño nos es nacido, hijo nos os dadoH3205
+- Isa_13:10el sol se oscurecerá al nacer, y la lunaH3318
+- Isa_37:3han llegado hasta el punto de nacer, yH4866
+- Isa_37:30comeréis este año lo que nace de suyoH5599
+- Isa_37:30y el año segundo lo que nace de suyoH7823
+- Isa_58:8entonces nacerá tu luz como el alba, yH1234
+- Isa_58:10en las tinieblas nacerá tu luz, y tuH2224
+- Isa_60:1la gloria de Jehová ha nacido sobre tiH2224
+- Isa_66:8¿nacerá una nación de una vez? Pues enH3205
+- Isa_66:9yo que hago dar a luz, ¿no haré nacer?[[H3205]]
+- Jer_1:5antes que nacieses te santifiqué, teH3318
+- Jer_16:3de las hijas que nazcan en este lugarH3205
+- Jer_20:14maldito el día en que nací...el día enH3205
+- Jer_20:15padre, diciendo: Hijo varón te ha nacidoH3205
+- Jer_22:10no volverá, ni verá la tierra...nació
+- Jer_22:26a tierra ajena en que no nacisteisH3205
+- Eze_16:4el día que naciste no fue cortado tuH3205
+- Eze_16:5arrojado sobre la...en el día que nacisteH3205
+- Ose_2:3yo...la ponga como el día en que nacióH3205
+- Ose_13:13no debiera detenerse al punto...de nacerH4866
+- Jon_4:10en espacio de una noche nació, y enH1431
+- Mal_1:11desde donde el sol nace hasta dondeH4217
+- Mal_4:2mas a vosotros...nacerá el Sol de justiciaH2224
+- Mat_1:16María, de la cual nació Jesús, llamadoG1080
+- Mat_2:1cuando Jesús nació en Belén de Judea enG1080
+- Mat_2:2diciendo: ¿Dónde está el rey...ha nacido?[[G5088]]
+- Mat_2:4preguntó dónde había de nacer el CristoG1080
+- Mat_11:11entre los que nacen de mujer no se haG1084
+- Mat_19:12eunucos que nacieron así del vientre deG1080
+- Mat_21:19le dijo: Nunca jamás nazca de ti frutoG1096
+- Mat_26:24; Mar_14:21bueno le...no haber nacidoG1080
+- Luc_1:35el Santo Ser que nacerá, será llamadoG1080
+- Luc_2:11os ha nacido hoy, en la ciudad de DavidG5088
+- Luc_7:28que entre los nacidos de mujeres, no hayG1084
+- Luc_8:6nacida, se secó, porque no tenía humedadG5453
+- Luc_8:7cayó...los espinos que nacieron...ahogaronG4855
+- Luc_8:8y nació y llevó fruto a ciento por unoG5453
+- Jua_3:3que no naciere de nuevo, no puede verG1080
+- Jua_3:4¿cómo puede...hombre nacer siendo viejo?[[G1080]]
+- Jua_3:4entrar...el vientre de su madre, y nacer?[[G1080]]
+- Jua_3:5el que no naciere de agua y del EspírituG1080
+- Jua_3:6lo que es nacido de la carne, carne es; yG1080
+- Jua_3:6que es nacido del Espíritu, espíritu esG1080
+- Jua_3:7te dije: Os es necesario nacer de nuevoG1080
+- Jua_3:8es todo aquel que es nacido del EspírituG1080
+- Jua_8:41nosotros no somos nacidos de fornicaciónG1080
+- Jua_9:2¿quién pecó...para que haya nacido ciego?[[G1080]]
+- Jua_9:19el que vosotros decís que nació ciego?[[G1080]]
+- Jua_9:20éste es nuestro hijo, y que nació ciegoG1080
+- Jua_9:32abriese los ojos a uno que nació ciegoG1080
+- Jua_16:21el gozo de que haya nacido un hombreG1080
+- Jua_18:37yo para esto he nacido, y para esto heG1080
+- Hec_2:8nuestra lengua en la que hemos nacido?[[G1080]]
+- Hec_7:20nació Moisés, y fue agradable a DiosG1080
+- Hec_22:3soy judío, nacido en Tarso de CiliciaG1080
+- Rom_9:11no habían aún nacido, ni habían hechoG1080
+- 1Co_11:12también el varón nace de la mujer
+- Gál_4:4Hijo, nacido de mujer y n bajo la leyG1096
+- Gál_4:23el de la esclava nació según la carneG1080
+- Gál_4:29había nacido según la carne perseguíaG1080
+- Gál_4:29al que había nacido según el Espíritu
+- 1Ti_1:5es el amor nacido de corazón limpio
+- 1Ti_6:4de las cuales nacen envidias, pleitos
+- Heb_11:23Moisés, cuando nació, fue escondidoG1080
+- Stg_1:18hizo nacer por la palabra de verdadG616
+- 1Pe_2:2desead, como niños recién nacidos, laG738
+- 2Pe_2:12irracionales, nacidos para presa yG1080
+- 1Jn_2:29el que hace justicia es nacido de élG1080
+- 1Jn_3:9aquel que es nacido de Dios, no practicaG1080
+- 1Jn_3:9no puede pecar, porque es nacido de DiosG1080
+- 1Jn_4:7todo aquel que ama, es nacido de DiosG1080
+- 1Jn_5:1todo aquel que cree...es nacido de DiosG1080
+- 1Jn_5:4lo que es nacido de Dios vence al mundoG1080
+- 1Jn_5:18ha nacido de Dios, no practica el pecadoG1080
+- Rev_12:4devorar a su hijo tan pronto...nacieseG5088

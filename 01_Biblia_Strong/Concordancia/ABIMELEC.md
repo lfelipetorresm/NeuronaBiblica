@@ -1,0 +1,77 @@
+---
+tipo: concordancia
+palabra: ABIMELEC
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ABIMELEC
+
+- 1 Rey de Gerar en tiempo de Abraham
+- Gén_20:2y A rey de Gerar envió y tomó a SaraH40
+- Gén_20:3Dios vino a A en sueños de noche, y leH40
+- Gén_20:4A no se había llegado a ella, y dijoH40
+- Gén_20:8A se levantó de mañana y llamó a todosH40
+- Gén_20:9después llamó A a Abraham, y le dijoH40
+- Gén_20:10A a Abraham: ¿Qué pensabas, para queH40
+- Gén_20:14A tomó ovejas y vacas, y siervos yH40
+- Gén_20:15A: He aquí mi tierra está delante de tiH40
+- Gén_20:17y Dios sanó a A y a su mujer, y a susH40
+- Gén_20:18cerrado...toda matriz de la casa de AH40
+- Gén_21:22A, y Ficol príncipe de su ejército, aH40
+- Gén_21:25y Abraham reconvino a A a causa de unH40
+- Gén_21:25que los siervos de A le habían quitadoH40
+- Gén_21:26y respondió A: No sé quién haya hechoH40
+- Gén_21:27tomó Abraham ovejas y vacas, y dio a AH40
+- Gén_21:29dijo A a Abraham: ¿Qué significan esasH40
+- Gén_21:32se levantó A, y Ficol príncipe de suH40
+- 2
+- Rey de Gerar en tiempo de Isaac
+- Gén_26:1se fue Isaac a A rey de los filisteosH40
+- Gén_26:8A, rey de los filisteos, mirando por unaH40
+- Gén_26:9llamó A a Isaac, y le dijo: He aquí ellaH40
+- Gén_26:10A dijo: ¿Por qué nos has hecho esto?[[H40]]
+- Gén_26:11A mandó a todo el pueblo, diciendo: ElH40
+- Gén_26:16dijo A a Isaac: Apártarte de nosotrosH40
+- Gén_26:26y A vino a él desde Gerar, y AhuzatH40
+- 3 Hijo de Gedeón
+- Jue_8:31dio un hijo, y le puso por nombre AH40
+- Jue_9:1A hijo de Jerobaal fue a Siquem, a losH40
+- Jue_9:3el corazón de...se inclinó a favor de AH40
+- Jue_9:4A alquiló hombres ociosos y vagabundosH40
+- Jue_9:6fueron y eligieron a A por rey, cerca deH40
+- Jue_9:16si...habéis procedido en hacer rey a AH40
+- Jue_9:18os habéis puesto por rey...a A hijo de suH40
+- Jue_9:19que gocéis de A, y él goce de vosotrosH40
+- Jue_9:20fuego salga de A...y fuego...consuma a AH40
+- Jue_9:21allí se estuvo por miedo de A su hermanoH40
+- Jue_9:22A hubo dominado sobre Israel tres añosH40
+- Jue_9:23mal espíritu entre A y los...de SiquemH40
+- Jue_9:23y los de Siquem se levantaron contra AH40
+- Jue_9:24y la sangre de ellos, recayera sobre AH40
+- Jue_9:25Siquem...de la cual fue dado aviso a AH40
+- Jue_9:27entrando en el templo...maldijeron a AH40
+- Jue_9:28¿quién es A, y qué es Siquem, para queH40
+- Jue_9:29yo arrojaría luego a A, y diría a AH40
+- Jue_9:31y envió secretamente mensajeros a AH40
+- Jue_9:34levantándose...A y todo el pueblo que conH40
+- Jue_9:35A y todo el pueblo...se levantaron de laH40
+- Jue_9:38¿quién es A para que le sirvamos? ¿NoH40
+- Jue_9:39Gaal salió...de Siquem, y peleó contra AH40
+- Jue_9:40mas lo persiguió A, y Gaal huyó...de élH40
+- Jue_9:41A se quedó en Aruma; y Zebul echó fueraH40
+- Jue_9:42el pueblo salió...y fue dado aviso a AH40
+- Jue_9:44A y la compañía...con él acometieron conH40
+- Jue_9:45A peleó contra la ciudad todo aquel díaH40
+- Jue_9:47y fue dado aviso a A, de que estabanH40
+- Jue_9:48subió A al monte...y tomó A un hacha enH40
+- Jue_9:49siguieron a A, y las pusieron junto aH40
+- Jue_9:50A se fue a Tebes, y puso sitio a TebesH40
+- Jue_9:52y vino A a la torre, y combatiéndolaH40
+- Jue_9:53caer un pedazo de una rueda...sobre...AH40
+- Jue_9:55y cuando...vieron muerto a A, se fueronH40
+- Jue_9:56pagó Dios a A el mal que hizo contraH40
+- Jue_10:1después de A se levantó para librar aH40
+- 2Sa_11:21¿quién hirió a A hijo de Jerobaal?[[H40]]
+- 4 Sacerdote (=Ahimelec No. 2), 1Cr_18:16H40
+- 5 Rey de Gad (=Aquis No. 1), Sal 34 títH40

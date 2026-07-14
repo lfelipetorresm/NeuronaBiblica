@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: POCO,A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# POCO,A
+
+- Véase también el Apéndice
+- Gén_30:30porque p tenías antes de mi venida, yH4592
+- Gén_47:9p y malos han sido los días de los años
+- Éxo_16:18no...ni faltó al que había recogido pH4591
+- Núm_13:18si es fuerte o débil, si p o numeroso
+- Núm_16:13¿es p que nos hayas hecho venir de unaH4592
+- Deu_4:27quedaréis p...entre las naciones a las
+- Deu_7:22Jehová...echará a estas naciones...p a pH4592
+- Deu_33:6viva Rubén, y...y no sean p sus varones
+- Jos_7:3no fatigues a todo el pueblo...son p
+- 1Sa_2:30que me desprecian serán tenidos en pH7043
+- 1Sa_10:27y le tuvieron en p, y no le trajeron
+- 1Sa_18:23¿os parece...que es p ser yerno del reyH7043
+- 2Sa_12:8y si esto fuera p, te habría añadidoH4592
+- 2Sa_12:9¿por qué, pues, tuviste en p la palabraH959
+- 2Sa_19:43¿por qué, pues, nos habéis tenido en p?[[H7043]]
+- 1Cr_16:19eran p en número, p y forasteros en
+- 1Cr_17:17y aun esto, oh Dios, te ha parecido pH4592
+- Neh_9:32no sea tenido en p...el sufrimiento queH4591
+- Job_10:20¿no son p mis días? Cesa, pues, yH4592
+- Job_15:11¿en tan p tienes las consolaciones deH4592
+- Job_31:13tenido en p el derecho de mi siervo yH4592
+- Sal_37:16mejor es lo p del justo, que lasH4592
+- Sal_105:12cuando ellos eran p...y forasteros en
+- Pro_6:30no tienen en p al ladrón si hurta paraH936
+- Pro_15:16mejor es lo p con el temor de JehováH4592
+- Pro_15:32tiene en p la disciplina menosprecia suH3988
+- Pro_16:8mejor es lo p con justicia que...frutosH4592
+- Isa_7:13¿os es p el ser molestos a los hombresH4592
+- Isa_16:14los sobrevivientes serán p, pequeños y
+- Isa_49:6p es para mí que tú seas mi siervo paraH7043
+- Jer_33:24han tenido en p a mi pueblo, hastaH5006
+- Jer_42:2de muchos hemos quedado unos p, como
+- Lam_4:9porque éstos murieron p a p por falta
+- Eze_5:3tomarás también de allí...p en número
+- Eze_16:47si esto fuera p y muy p, te corrompisteH4592, [[H6962]]
+- Hag_1:9buscáis...y halláis p; y encerráis en
+- Mat_20:16muchos son llamados, mas p escogidos
+- Mat_22:14muchos son llamados, y p escogidos
+- Mat_25:23sobre p has sido fiel, sobre mucho te
+- Luc_13:23dijo: Señor, ¿son p los que se salvan?
+- Luc_19:17cuanto en lo p has sido fiel, tendrásG1646
+- Jua_6:7para que cada uno de ellos tomase un pG1024
+- Jua_12:35aún por un p está la luz entre vosotrosG3398
+- Jua_13:33hijitos, aún estaré con vosotros un pG8040
+- Jua_14:19todavía un p, y el mundo no me veráG3397
+- Jua_16:16-17, Jua_16:19un p, y no me veréis; y de...un pG3397
+- Jua_16:18¿qué quiere decir con: Todavía un p?[[G3397]]
+- Hec_26:29por p o por mucho, no solamente túG3397
+- Hec_28:2los naturales nos trataron con no p humanidadG5177
+- 1Co_16:11por tanto, nadie le tenga en p, sinoG1848
+- 1Ti_4:12ninguno tenga en p tu juventud, sinoG7706
+- POCO
+- [Entrada procedente del Apéndice]
+- Gn 18.4; 24.17, 43; 26.10; 30.15, 30; 33.14(2); 43.2, 11(2); 44.25 Éx 16.18; 17.4; 23.30(2) Lv 25.52 Nm 13.18; 15.31; 16.9, 13; 35.8(2) Dt 7.22(2); 28.38 Jue 4.19; 9.38 1 S 2.30; 9.27; 10.27; 14.29, 43; 17.42; 18.23 2 S 7.19; 12.8, 9; 16.1; 19.36, 43 1 R 17.10, 12 2 R 10.18 1 Cr 17.17 Esd 9.8 Neh 7.4; 9.32 Est 3.6 Job 10.20; 15.11; 24.24; 31.13; 36.2 Sal 8.5; 37.10, 16; 73.2 Pr 6.10(3), 30; 15.16, 32; 16.8; 24.33(3) Ec 5.12 Cnt 3.4 Is 7.13; 10.25; 29.17; 49.6; 54.8; 63.18 Jer 33.24; 51.33 Lm 4.9(2) Ez 16.47(2); 34.18 Os 1.4; 8.10 Hag 1.6, 9; 2.6 Zac 1.15 Mt 25.21, 23; 26.39, 73 Mc 1.19; 6.31; 14.35, 70 Lc 5.3; 7.47(2); 12.48; 16.10(2); 19.17; 22.58 Jn 6.7; 7.33; 12.35; 13.33; 14.19; 16.16(2), 17(2), 18, 19(2) Hch 12.18; 26.28, 29; 27.28 1 Co 4.3; 5.6; 16.11 2 Co 8.15; 11.1 Gl 5.9 1 Ts 2.17; 5.14 1 Ti 4.8, 12; 5.23 Heb 2.7, 9 Stg 4.14 1 P 1.6; 5.10 Ap 6.11; 12.12; 20.3
+- POCA
+- [Entrada procedente del Apéndice]
+- 2 Cr 24.24 Est 1.17 Ez 16.20; 17.6 Dn 11.23 Mt 6.30; 8.26; 14.31; 16.8; 17.20 Lc 12.28 Hch 19.24; 28.2 Ap 3.8
+- POCOS
+- [Entrada procedente del Apéndice]
+- Gn 29.20; 34.30; 47.9 Nm 9.20; 33.54 Dt 4.27; 26.5; 28.62; 33.6 Jos 7.3 1 S 14.6 1 Cr 16.19(2) 2 Cr 29.34 Neh 2.12 Job 10.20 Sal 105.12; 109.8 Ec 9.14 Is 16.14; 41.14; 65.20 Jer 42.2; 44.28 Ez 5.3; 12.16 Dn 11.20 Mt 7.14; 9.37; 15.34; 20.16; 22.14 Mc 6.5; 8.7 Lc 10.2; 13.23 Hch 17.12 Heb 12.10
+- POCAS
+- [Entrada procedente del Apéndice]
+- 1 S 17.28 2 R 4.3 Ec 5.2 Is 10.7 Hch 17.4 1 P 3.20 Ap 2.14, 20; 3.4

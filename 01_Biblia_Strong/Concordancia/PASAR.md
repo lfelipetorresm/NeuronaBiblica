@@ -1,0 +1,691 @@
+---
+tipo: concordancia
+palabra: PASAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PASAR
+
+- Gén_7:4pasados aún siete días, yo haré llover
+- Gén_8:1hizo pasar Dios un viento sobre la tierraH5674
+- Gén_12:6pasó Abram por aquella tierra hasta elH5674
+- Gén_12:8se pasó de allí a un monte al oriente deH6275
+- Gén_15:17y una antorcha de fuego que pasaba porH5674
+- Gén_18:3Señor...ruego que no pases de tu siervoH5674
+- Gén_18:5y sustentad vuestro...y despues pasaréisH5674
+- Gén_18:5habéis pasado cerca de vuestro siervoH5674
+- Gén_19:34he aquí, yo dormí la noche pasada con mi padre
+- Gén_30:32pasaré hoy por todo tu rebaño...aparteH5674
+- Gén_31:21huyó...y se levantó y pasó el EufratesH5674
+- Gén_31:52ni yo pasaré de este...ni tú pasarás deH5674
+- Gén_32:10con mi cayado pasé este Jordán, y ahoraH5674
+- Gén_32:16pasad delante de mí, y poned espacioH5674
+- Gén_32:21pasó, pues, el presente delante de élH5674
+- Gén_32:22y se levantó...y pasó el vado de JabocH5674
+- Gén_32:23hizo pasar el arroyo a ellos y a todo
+- Gén_32:31cuando había pasado Peniel, le salió elH5674
+- Gén_33:3él pasó delante de ellos y se inclinó aH5674
+- Gén_33:14pase ahora mi señor delante de...siervoH5674
+- Gén_37:28cuando pasaban...madianitas mercaderesH5674
+- Gén_38:12pasaron muchos días, y murió la hija deH7235
+- Gén_41:1pasados dos años tuvo Faraón un sueño
+- Gén_43:27y dijo: ¿Vuestro padre...lo pasa bien?
+- Gén_47:21al pueblo lo hizo pasar a las ciudadesH5674
+- Gén_50:4pasados los días de su luto, habló JoséH5674
+- Éxo_12:12yo pasaré aquella noche por la tierra
+- Éxo_12:13y veré la sangre y pasaré de vosotrosH6452
+- Éxo_12:23Jehová pasará hiriendo a los egipciosH5674
+- Éxo_12:23la sangre...pasará Jehová aquella puertaH6452
+- Éxo_12:27el cual pasó por encima de las casas deH5674
+- Éxo_12:41pasados los 430 años, en el mismo día
+- Éxo_15:16haya pasado tu...haya p este pueblo queH5674
+- Éxo_15:19los hijos de Israel pasaron en seco porH1980
+- Éxo_17:5pasa delante del pueblo, y toma contigoH5674
+- Éxo_18:8trabajo que habían pasado en el caminoH8513
+- Éxo_26:28barra de en medio pasará por en medio
+- Éxo_32:27pasad y volved de puerta a puerta porH5674
+- Éxo_33:19haré pasar todo mi bien delante de tuH5674
+- Éxo_33:22y cuando pase mi gloria, yo te pondréH5674
+- Éxo_33:22te cubriré con...hasta que haya pasadoH5674
+- Éxo_34:6pasando Jehová por delante de...proclamóH5674
+- Éxo_36:33e hizo que la barra de en medio pasase
+- Éxo_36:34anillos...por donde pasasen las barras
+- Éxo_38:26los que pasaron por el censo, de edadH5674
+- Lev_26:6la espada no pasará por vuestro país
+- Lev_27:32diezmo...todo lo que pasa bajo la varaH5674
+- Núm_5:30marido sobre el cual pasare...de celos
+- Núm_6:5no pasará navaja sobre su cabeza; hastaH5674
+- Núm_8:7pasar la navaja sobre todo su cuerpo, y
+- Núm_12:15el pueblo no pasó adelante hasta queH5265
+- Núm_13:32; Núm_14:7la tierra por donde pasamos paraH5674
+- Núm_20:17te rogamos que pasemos por tu tierraH5674
+- Núm_20:17no pasaremos por labranza, ni por viñaH5674
+- Núm_20:17hasta que hayamos pasado tu territorioH5674
+- Núm_20:18Edom le respondió: No pasarás por miH5674
+- Núm_20:19déjame solamente pasar a pie, nada másH5674
+- Núm_20:20él respondió: No pasarás...Y salió EdomH5674
+- Núm_20:21no quiso Edom dejar pasar a Israel porH5674
+- Núm_21:22pasaré por tu tierra; no nos iremos porH5674
+- Núm_21:22camino real iremos, hasta que pasemosH5674
+- Núm_21:23mas Sehón no dejó pasar a Israel por suH5674
+- Núm_22:26el ángel...pasó más allá, y se puso enH5674
+- Núm_31:23que resiste...por fuego lo haréis pasarH5674
+- Núm_31:23y haréis pasar por agua todo lo que noH5674
+- Núm_32:5heredad, y no nos hagas pasar el Jordán
+- Núm_32:7desanimáis...no pasen a la tierra que les
+- Núm_32:21todos...pasáis armados el Jordán delante
+- Núm_32:27tus siervos...pasarán delante de JehováH5674
+- Núm_32:29de Rubén pasan con vosotros el JordánH5674
+- Núm_32:30mas si no pasan armados con vosotrosH5674
+- Núm_32:32pasaremos armados delante de Jehová aH5674
+- Núm_33:8pasaron...en medio del mar al desiertoH5265
+- Núm_33:51hayáis pasado el Jordán entrando en laH5674
+- Núm_34:4irá rodeando desde...y pasará hasta ZinH5674
+- Núm_34:4continuará a Hasar-adar, y pasará hastaH5674
+- Núm_35:10hayáis pasado al otro lado del JordánH5674
+- Deu_2:4pasando vosotros por el territorio deH5674
+- Deu_2:13pasad el arroyo de Zered. Y pasamos elH5674
+- Deu_2:14anduvimos...hasta cuando pasamos...ZeredH5674
+- Deu_2:18pasarás hoy el territorio de Moab, a ArH5674
+- Deu_2:24salid, y pasad el arroyo de Arnón, heH5674
+- Deu_2:27pasaré por tu tierra por el camino ; porH5674
+- Deu_2:28el agua también...¡solamente pasaré a pieH5674
+- Deu_2:30Sehón rey de...no quiso que pasásemos porH5674
+- Deu_3:21todos los reinos a los cuales pasarásH5674
+- Deu_3:25pase yo, te ruego, y vea aquella tierraH5674
+- Deu_3:27y mira con...porque no pasarás el JordánH5674
+- Deu_3:28manda a Josué...él ha de pasar delanteH5674
+- Deu_4:14tierra a la cual pasáis a tomar posesiónH5674
+- Deu_4:21y juró que yo no pasaría el Jordán, niH5674
+- Deu_4:22no pasaré el Jordán...vosotros pasaréisH5674
+- Deu_4:26la tierra hacia la cual pasáis el JordánH5674
+- Deu_4:32si en los tiempos pasados...se ha hechoH7223
+- Deu_6:1la tierra a la cual pasáis...para tomarlaH5674
+- Deu_9:1vas hoy a pasar el Jordán, para entrar aH5674
+- Deu_9:3Jehová...que pasa delante de ti como fuegoH5674
+- Deu_11:8, Deu_11:11tierra a la cual pasáis para tomarla
+- Deu_11:31pasáis el Jordán para ir a poseer la
+- Deu_12:10pasaréis el Jordán, y habitaréis en laH3427
+- Deu_18:10quien haga pasar a su hijo o a su hijaH4672
+- Deu_21:23no dejaréis que su cuerpo pase la nocheH3885
+- Deu_27:2el día que pases el Jordán a la tierraH5674
+- Deu_27:3hayas pasado para entrar en la tierra queH5674
+- Deu_27:4hayas pasado el Jordán, levantarás estasH5674
+- Deu_27:12hayas pasado el Jordán, estos estaránH5674
+- Deu_29:16cómo hemos pasado por en medio de lasH5674
+- Deu_29:16naciones por las cuales habéis pasadoH5674
+- Deu_30:13¿quién pasará por nosotros el mar, paraH5674
+- Deu_30:18pasando el Jordán...entrar en posesiónH5674
+- Deu_31:2Jehová me ha dicho: No pasarás...JordánH5674
+- Deu_31:3Jehová tu Dios, él pasa delante de tiH5674
+- Deu_31:3Josué será el que pasará delante de tiH5674
+- Deu_31:13; Deu_32:47pasando el Jordán, para tomarH5674
+- Deu_34:4he permitido verla...mas no pasarás alláH5674
+- Jos_1:2levántate y pasa este Jordán, tú y todoH5674
+- Jos_1:11pasad...en medio del campamento y mandaH5674
+- Jos_1:11dentro de tres días pasaréis el JordánH5674
+- Jos_1:14pasaréis armados delante de vuestrosH5674
+- Jos_2:23pasaron, y vinieron a Josué hijo de NunH5674
+- Jos_3:1Jordán, y reposaron allí antes de pasarloH5674
+- Jos_3:4no habéis pasado antes de ahora por esteH5674
+- Jos_3:6tomad el arca...pasad delante del puebloH5674
+- Jos_3:11el arca...pasará delante de vosotros enH5674
+- Jos_3:14partió el pueblo...para pasar el Jordán
+- Jos_3:16el pueblo pasó en dirección de JericóH5674
+- Jos_3:17de pasar el Jordán; y todo Israel pasóH5674
+- Jos_4:1cuando...hubo acabado de pasar el JordánH5674
+- Jos_4:3doce piedras, las cuales pasaréis con
+- Jos_4:3el lugar donde habéis de pasar la noche
+- Jos_4:5dijo...Pasad delante del arca de JehováH5674
+- Jos_4:7cuando ella pasó el Jordán, las aguasH5674
+- Jos_4:8y las pasaron al Jugar donde acamparonH5674
+- Jos_4:10pararon...el pueblo se dio prisa y pasóH5674
+- Jos_4:11el pueblo acabó de pasar...pasó el arcaH5674
+- Jos_4:12los hijos de Rubén y...pasaron armadosH5674
+- Jos_4:13cuarenta mil pasaron hacia la llanuraH5674
+- Jos_4:22Israel pasó en seco por este JordánH5674
+- Jos_4:23secó las aguas del...que habíais pasadoH5674
+- Jos_4:23el Mar Rojo, el cual secó...que pasamosH5674
+- Jos_5:1había secado...hasta que hubieron pasadoH5674
+- Jos_6:7dijo al pueblo: Pasad, y rodead la ciudadH5674
+- Jos_6:7están armados pasarán delante del arca deH5674
+- Jos_6:8sacerdotes...pasaron delante del arca deH5674
+- Jos_6:11volvieron luego...y allí pasaron la noche
+- Jos_7:7¿por qué hiciste pasar a este pueblo el
+- Jos_8:10Josué...pasó revista al pueblo, y subió
+- Jos_9:16pasados tres días después que...alianza
+- Jos_10:29de Maceda pasó Josué...a Libna; y peleóH5674
+- Jos_10:31Josué, y todo Israel...pasó de Libna aH5674
+- Jos_10:34de Laquis pasó Josué, y todo Israel conH5674
+- Jos_15:3pasando hasta Zin; y...pasaba a HezrónH5674
+- Jos_15:4de allí pasaba a Asmón, y salía al arroyoH5674
+- Jos_15:6y pasa al norte de Bet-arabá, y de aquíH5674
+- Jos_15:7pasa hasta las aguas de En-semes, y saleH5674
+- Jos_15:10pasa al lado del monte de Jearim haciaH5674
+- Jos_15:10desciende a Bet-semes, y pasa a TimnaH5674
+- Jos_15:11y pasa por el monte de Baala, y sale aH5674
+- Jos_16:2pasa a lo largo del territorio de losH5674
+- Jos_16:6hasta Taanat-silo, y de aquí pasa a JanoaH5674
+- Jos_18:13pasa en dirección de Luz, al lado sur
+- Jos_18:18y pasa al lado que...enfrente del ArabáH5674
+- Jos_18:19y pasa el límite al lado...de Bet-hoglaH5674
+- Jos_19:13pasando de allí hacia el lado orientalH5674
+- Jos_19:34de allí pasaba a Hucoe, y llegaba hastaH3318
+- Jos_22:19pasaos a la tierra de la posesión deH5674
+- Jos_24:11pasasteis el Jordán, y vinisteis aH5674
+- Jos_24:17pueblos por entre los cuales pasamosH5674
+- Jue_1:8y pasaron a sus habitantes a filo de
+- Jue_3:26pasando los ídolos, se puso a salvo enH5674
+- Jue_3:28los vados...y no dejaron pasar a ningunoH5674
+- Jue_6:33pasando acamparon en el valle de JezreelH5674
+- Jue_8:4vino Gedeón...y pasó él y los 300 hombresH5674
+- Jue_9:25robaban a todos los que pasaban junto aH5674
+- Jue_9:26Gaal...vino con...y se pasaron a SiquemH5674
+- Jue_10:9los hijos de Amón pasaron el Jordán paraH5674
+- Jue_11:17, Jue_11:19ruego...me dejes pasar por tu tierraH5674
+- Jue_11:29y pasó por Galaad...y de allí p a MizpaH5674
+- Jue_11:29y de Mizpa de...pasó a los hijos de AmónH5674
+- Jue_11:39pasados los dos meses volvió a su padre
+- Jue_12:1y pasaron hacia el norte, y dijeron aH5674
+- Jue_12:3arriesgué...pasé contra los hijos de AmónH5674
+- Jue_12:5cuando decían...de Efraín: Quiero pasarH5674
+- Jue_13:5navaja no pasará sobre su cabeza, porqueH5927
+- Jue_18:13pasaron al monte de Efraín, y vinieronH5674
+- Jue_19:6te ruego que quieras pasar aquí la nocheH3885
+- Jue_19:7insistió su suegro, y volvió a pasar allí la nocheH3885
+- Jue_19:9ruego que paséis aquí la noche; he aquíH3885
+- Jue_19:10el hombre no quiso pasar allí la nocheH3885
+- Jue_19:11ven...para que pasemos en ella la nocheH3885
+- Jue_19:12no iremos a...que pasaremos hasta GabaaH5674
+- Jue_19:13para pasar la noche en Gabaa o en RamáH3885
+- Jue_19:14pasando...caminaron, y se les puso elH5674
+- Jue_19:15entrar a pasar allí la noche en GabaaH3885
+- Jue_19:15no hubo quien los acogiese...para pasarH3885
+- Jue_19:18pasamos de Belén de Judá a la parte másH5674
+- Jue_19:20tal que no pases la noche en la plazaH3885
+- Jue_20:4llegué a Gabaa...para pasar allí la nocheH3885
+- Rut_2:8no vayas a espigar a...ni pases deH5674
+- Rut_3:13pasa aquí la noche, y cuando sea de díaH3885
+- Rut_4:1y he aquí pasaba aquel pariente de quienH2009
+- 1Sa_1:11y no pasará navaja sobre suH5927
+- 1Sa_5:8pásese el arca...y pasaron allá el arcaH5437
+- 1Sa_5:9que cuando la habían pasado, la mano deH5437
+- 1Sa_5:10han pasado a nosotros el arca del DiosH5674
+- 1Sa_7:2el arca...pasaron muchos días, veinte años
+- 1Sa_9:4pasó el monte de Efraín...pasaron luegoH5674
+- 1Sa_9:4pasaron por la tierra de Benjamín, y noH5674
+- 1Sa_13:7algunos de los hebreos pasaron el JordánH5674
+- 1Sa_14:1pasemos a la guarnición de los filisteos
+- 1Sa_14:4por donde Jonatán procuraba pasar a laH4569
+- 1Sa_14:6ven, pasemos a la guarnición de estosH5674
+- 1Sa_14:8Jonatán: Vamos a pasar a esos hombres, yH5674
+- 1Sa_14:17pasad ahora revista, y...pasaron revista
+- 1Sa_15:4convocó al...y les pasó revista en TelaimH8085
+- 1Sa_15:12Saúl...pasó adelante y descendió a Gilgal
+- 1Sa_15:32dijo...ya pasó la amargura de la muerteH5493
+- 1Sa_16:8lo hizo pasar delante de Samuel, el cualH5674
+- 1Sa_16:9hizo luego pasar Isaf a Sama...TampocoH5674
+- 1Sa_16:10e hizo pasar Isaí siete hijos suyos
+- 1Sa_20:36él tiraba...que pasara más allá de él
+- 1Sa_25:37a Nabal le habían pasado los efectosH3318
+- 1Sa_26:13pasó David al lado opuesto, y se pusoH5674
+- 1Sa_26:22pase acá uno de los criados y tómela
+- 1Sa_27:2David...se pasó a Aquib hijo de Maoc, reyH5674
+- 1Sa_29:2cuando...los filisteos pasaban revista aH5674
+- 1Sa_29:3desde el día que se pasó a mí hasta hoy
+- 1Sa_30:10no pudieron pasar el torrente de BesorH5674
+- 2Sa_2:15y pasaron en número igual, doce deH5674
+- 2Sa_2:29pasando el Jordán cruzaron por...BitrónH5674
+- 2Sa_6:2pasar de allí el arca de Dios, sobre la
+- 2Sa_10:17y pasando el Jordán vino a Helam; y losH5674
+- 2Sa_11:27pasado el luto, envió David y la trajoH5493
+- 2Sa_12:16David...pasó la noche acostado en tierra
+- 2Sa_13:23aconteció pasados dos años, que Absalón
+- 2Sa_15:18y todos sus siervos pasaban a su ladoH5674
+- 2Sa_15:22ven, pues, y pasa...Y pasó Ital geteoH5674
+- 2Sa_15:23pasó luego toda la gente el...p el reyH5674
+- 2Sa_15:23y todo el pueblo pasó al camino que vaH5674
+- 2Sa_15:33dijo...Si pasares conmigo, me serás cargaH5674
+- 2Sa_16:1David pasó...más allá de la cumbre delH5674
+- 2Sa_16:9me dejes pasar, y le quitaré la cabezaH5674
+- 2Sa_17:8tu padre es...no pasará la noche con el
+- 2Sa_17:16pasa luego el Jordán, para que no sea
+- 2Sa_17:20ya han pasado el vado de las aguasH5674
+- 2Sa_17:21daos prisa a pasar las aguas, porqueH5674
+- 2Sa_17:22pasaron el Jordán...uno que no pasaseH5674
+- 2Sa_17:24y Absalón pasó el Jordán con toda laH5674
+- 2Sa_18:1David, pues, pasó revista al pueblo que
+- 2Sa_18:9Absalón quedó...el mulo en que iba pasóH935
+- 2Sa_18:23corrió, pues...pasó delante del etíopeH5674
+- 2Sa_18:30rey dijo: Pasa, y ponte allí...Y él pasó
+- 2Sa_19:15a Gilgal...para hacerle pasar el Jordán
+- 2Sa_19:17los cuales pasaron el Jordán delante delH6743
+- 2Sa_19:18cruzaron...para pasar a la familia delH5674
+- 2Sa_19:18postró...cuando él hubo pasado el JordánH5674
+- 2Sa_19:31Barzilai...y pasó el Jordán con el reyH5674
+- 2Sa_19:33dijo...Pasa conmigo, y yo te sustentaréH5674
+- 2Sa_19:36pasará tu siervo...más allá del JordánH5674
+- 2Sa_19:37Quimam; que pase él con mi señor el reyH5674
+- 2Sa_19:38pase conmigo Quimam, y yo haré con él
+- 2Sa_19:39todo el pueblo pasó el Jordán; y luegoH5674
+- 2Sa_19:39el rey hubo...pasado...besó a Barzilai, yH5674
+- 2Sa_19:40pasó a Gilgal, y con él pasó QuimamH5674
+- 2Sa_19:41han hecho pasar el Jordán al rey y a su
+- 2Sa_20:12todo el que pasaba, al verle, se deteníaH5437
+- 2Sa_20:13pasaron todos los que seguían a JoabH3014
+- 2Sa_20:14pasó por todas las tribus de IsraelH5674
+- 2Sa_24:5y pasando el Jordán acamparon en AroerH5674
+- 1Re_2:37día que...pasares el torrente de CedrónH5674
+- 1Re_2:39pasados tres años, aconteció que dos
+- 1Re_9:8cualquiera que pase...se asombrará, y seH5674
+- 1Re_13:25unos que pasaban, y vieron el cuerpoH5674
+- 1Re_17:7pasados algunos días, se secó el arroyo
+- 1Re_18:1pasados muchos días...palabra de Jehová a
+- 1Re_18:29pasó el mediodía, y...siguieron gritanuo
+- 1Re_19:9metió en una cueva, donde pasó la noche
+- 1Re_19:11Jehová que pasaba, y un grande...vientoH5674
+- 1Re_19:19pasando Elías por delante de él, echóH5674
+- 1Re_20:15él pasó revista a los siervos de losH6485
+- 1Re_20:15luego pasó revista a todo el pueblo, aH6485
+- 1Re_20:22pasado un año, el rey de Siria vendrá
+- 1Re_20:26pasado un año, Ben-adad pasó revista al
+- 1Re_20:39cuando el rey pasaba, él dio voces alH5674
+- 1Re_21:1pasadas estas cosas, aconteció que Nabot
+- 1Re_22:1tres años pasaron sin guerra entre losH3427
+- 2Re_2:8apartaron...pasaron ambos por lo secoH5674
+- 2Re_2:9cuando habían pasado, Elías dijo a Eliseo
+- 2Re_2:14las aguas, se apartaron...y pasó EliseoH5674
+- 2Re_3:6rey Joram, y pasó revista a todo Israel
+- 2Re_4:8un día pasaba Eliseo por Sunem; y habíaH5674
+- 2Re_4:8cuando él pasaba por allí, venía a la casaH5674
+- 2Re_4:9éste que siempre pasa por nuestra casaH5674
+- 2Re_6:9mira que no pases por tal lugar, porqueH5674
+- 2Re_6:26pasando el rey...por el muro, una mujerH5674
+- 2Re_6:30rasgó sus vestidos, y pasó...por el muroH5674
+- 2Re_7:4pasemos al campamento de los sitios; si
+- 2Re_8:3pasado los siete años, la mujer volvió deH5674
+- 2Re_8:21Joram...pasó a Zair, y todos sus carrosH5674
+- 2Re_14:9y pasaron las fieras que...en el LíbanoH5674
+- 2Re_16:3hizo pasar por fuego a su hijo, según lasH5674
+- 2Re_17:17hicieron pasar a sus hijos...por fuegoH5674
+- 2Re_21:6y pasó a su hijo por fuego, y se dio aH5674
+- 2Re_23:10que ninguno pasase su hijo...por fuego aH5674
+- 2Re_25:11a los que se habían pasado al rey de
+- 1Cr_12:15estos pasaron el Jordán en el mesH5674
+- 1Cr_12:19se pasaron a David algunos de Manasés
+- 1Cr_12:19con peligro de...cabezas se pasará a su
+- 1Cr_12:20pasaron a él de los de Manasés, Adnas
+- 1Cr_13:6pasar de allí el arca de Jehová Dios, que
+- 1Cr_15:3que pasasen el arca de Jehová a su lugar
+- 1Cr_15:12pasad el arca de Jehová...al lugar queH5927
+- 1Cr_29:30tiempos que pasaron sobre él, y sobreH5674
+- 2Cr_7:21será espanto a todo el que pasareH5674
+- 2Cr_8:11pasó Salomón a la hija de Farón, de la
+- 2Cr_15:9muchos de Israel se habían pasado a élH6908
+- 2Cr_20:1pasadas estas...vinieron contra Josafat
+- 2Cr_20:10tierra no quisiste que pasase Israel
+- 2Cr_20:35pasadas estas cosas, Josafat...amistad
+- 2Cr_21:9pasó Joram con sus príncipes, y todosH5674
+- 2Cr_21:19pasar muchos días...los intestinos se le
+- 2Cr_23:15luego que ella hubo pasado la entradaH935
+- 2Cr_25:18fieras...pasaron, y hollaron el cardoH5674
+- 2Cr_28:3pasar a sus hijos por fuego, conforme a
+- 2Cr_30:5hacer pasar pregón por...Israel, desde
+- 2Cr_30:10pasaron, pues, los correos de ciudadH5674
+- 2Cr_33:6y pasó sus hijos por fuego en el valleH5674
+- Esd_6:5sacó del templo...los pasó a Babilonia
+- Esd_7:1pasadas estas cosas, en el reinado de
+- Neh_2:14pasé luego a la puerta de la FuenteH5674
+- Neh_2:14pero no había lugar por donde pasase laH935
+- Neh_8:15y pasar pregón por todas sus ciudadesH5674
+- Neh_9:11dividiste el mar...pasaron por medio de élH5674
+- Est_2:1pasadas estas cosas, sosegada ya la iraH310
+- Est_4:2pues no era lícito pasar adentro de la puerta del rey
+- Job_1:5habiendo pasado en...los días del conviteH5362
+- Job_4:15al pasar un espíritu por delante de míH2498
+- Job_6:15pero...pasan como corrientes impetuosasH5674
+- Job_8:8pregunta...a las generaciones pasadas, yH7223
+- Job_9:11pasará delante de mí...no lo veré; p, yH5674
+- Job_9:26pasaron cual naves veloces; como...águilaH2498
+- Job_11:10él pasa, y aprisiona, y llama a juicio
+- Job_11:16te acordarás de ella como...que pasaronH5674
+- Job_14:5pusiste límites, de los cuales no pasaráH5674
+- Job_15:19no pasó extraño por en medio de ellosH5674
+- Job_17:11pasaron mis días, fueron arrancados misH5674
+- Job_19:8cercó...mi camino, y no pasaré; y sobreH5674
+- Job_19:10ha hecho pasar mi esperanza como árbolH5422
+- Job_21:13pasan sus días en prosperidad, y en paz
+- Job_21:29¿no habéis preguntado a los que pasanH5674
+- Job_28:4abren minas lejos...donde el pie no pasa
+- Job_28:8nunca la pisaron...ni león pasó por ellaH5710
+- Job_29:2¡quién me volviese como...meses pasados![[H6924]]
+- Job_30:15honor, y mi prosperidad pasó como nubeH5674
+- Job_31:32el forastero no pasaba fuera la nocheH3885
+- Job_33:28redimirá su alma para que no pase alH5674
+- Job_34:20y pasarán, y sin mano será quitado elH5674
+- Job_36:12si no oyeren, serán pasados a espada
+- Job_37:21luego que pasa el viento y los limpiaH5674
+- Job_38:11hasta aquí llegarás, y no pasarás, y
+- Job_39:3hacen salir sus hijos, pasan...dolores
+- Sal_8:8cuanto pasa por los senderos del marH5674
+- Sal_18:12por el resplandor...sus nubes pasaronH5674
+- Sal_37:36pero él pasó, y he aquí ya no estabaH5674
+- Sal_42:7todas tus ondas y...han pasado sobre míH5674
+- Sal_48:4los reyes...se reunieron; pasaron todosH5674
+- Sal_57:1me ampararé...que pasen los quebrantosH5674
+- Sal_58:8pasen ellos como el caracol que se deslíeH1980
+- Sal_59:15no se sacian, pasen la noche quejándose
+- Sal_66:6por el río pasaron a pie; allí en él nosH5674
+- Sal_66:12pasamos por el fuego y por el agua, yH935
+- Sal_73:5no pasan trabajos como...otros mortalesH5674
+- Sal_78:13dividió el mar y los hizo pasar; detuvoH5674
+- Sal_80:12la vendimian todos los que pasan porH5674
+- Sal_88:5abandonado...como los pasados a espada
+- Sal_88:16sobre mí han pasado tus iras...terroresH5674
+- Sal_89:41lo saquean todos los que pasan por elH5674
+- Sal_90:4como el día de ayer, que pasó, y comoH5674
+- Sal_90:10años...porque pronto pasan, y volamos
+- Sal_103:16que pasó el viento por ella, y perecióH5674
+- Sal_124:4sobre nuestra alma hubiera pasado elH5674
+- Sal_124:5pasado sobre nuestra alma las aguasH5674
+- Sal_129:8ni dijeron los que pasaban: Bendición deH5674
+- Sal_136:14hizo pasar a Israel por en medio deH5674
+- Sal_141:10los impíos...mientras yo pasaré adelanteH3162
+- Sal_144:4sus días son como la sombra que pasaH5674
+- Pro_4:15no pases por...apártate de ella, pasaH5674
+- Pro_7:8el cual pasaba por la calle, junto a laH5674
+- Pro_9:15para llamar a los que pasan por el camino
+- Pro_10:25como pasa el torbellino, así el malo noH5674
+- Pro_19:11y su honra es pasar por alto la ofensaH5674
+- Pro_22:3mas los simples pasan y reciben el dañoH5674
+- Pro_24:30pasé junto al campo...hombre perezosoH5674
+- Pro_26:17que pasando se deja llevar de la iraH5674
+- Pro_27:12mas los simples pasan y llevan el dañoH5674
+- Ecl_3:15fue ya; y Dios restaura lo que pasóH7291
+- Ecl_6:9más vale vista de ojos que deseo que pasa
+- Ecl_6:12días...los cuales él pasa como sombra?[[H6213]]
+- Ecl_7:10que los tiempos pasados fueron mejoresH7223
+- Cnt_2:11porque he aquí ha pasado el inviernoH5674
+- Cnt_3:4apenas hube pasado...hallé luego al queH5674
+- Cnt_5:6pero mi amado...había ya pasado; y tras
+- Isa_8:7ríos, y pasará sobre todas sus riberasH1980
+- Isa_8:8y pasando hasta Judá, inundará y pasaráH2493
+- Isa_8:21y pasarán por la tierra fatigados yH5674
+- Isa_10:28vino hasta Ajat, pasó hasta Migrón; enH5674
+- Isa_10:29pasaron el vado; se alojaron en GebaH4569
+- Isa_11:15y hará que pasen por él con sandaliasH1869
+- Isa_13:4Jehová de los ejércitos pasa revista aH622
+- Isa_14:19vestido de muertos pasados a espada, queH2944
+- Isa_16:8extendieron sus plantas, pasaron el marH5674
+- Isa_18:5y pasada la flor se maduren los frutosH1580
+- Isa_21:13en el bosque pasaréis la noche en ArabiaH736
+- Isa_23:2Sidón, que pasando el mar te abastecíanH5674
+- Isa_23:6pasaos a Tarsis; aullad, moradores de laH5674
+- Isa_23:10pasa cual río de tu tierra, oh hija deH5674
+- Isa_23:12levántate para pasar a Quitim, y aunH5674
+- Isa_26:20entra...en tanto que pasa la indignaciónH5674
+- Isa_28:15, Isa_28:18cuando pase el turbión del azoteH5674
+- Isa_28:19que comience a pasar, él os arrebataráH5674
+- Isa_28:19de mañana en mañana pasará, de día y deH5674
+- Isa_28:27ni sobre el comino se pasa rueda de
+- Isa_29:5multitud de...fuertes como tamo que pasaH5674
+- Isa_31:9de miedo pasará su fortaleza, y...dejaránH5674
+- Isa_33:21no andará...ni por él pasará gran naveH5674
+- Isa_34:10asolada...jamás pasará nadie por ellaH5674
+- Isa_35:8no pasará inmundo por él, sino que élH5674
+- Isa_40:27mi camino...de mi Dios pasó mi juicio?[[H5674]]
+- Isa_41:3los siguió, pasó en paz por camino porH5674
+- Isa_41:22lo que ha pasado desde el principio, yH7223
+- Isa_43:2pases por las aguas...p por el fuego, noH5674
+- Isa_43:18no os acordéis de las cosas pasadas, niH7223
+- Isa_45:14sabeos...se pasarán a ti y serán tuyosH5674
+- Isa_45:14irán en pos de ti, pasarán con grillos
+- Isa_46:9acordaos de las cosas pasadas desde losH7223
+- Isa_47:2descubre las piernas, pasa los ríosH5674
+- Isa_48:3lo que pasó, ya antes lo dije, y de miH7223
+- Isa_48:7han sido creadas, no en días pasados, ni
+- Isa_51:9despiértate como, en los siglos pasados
+- Isa_51:10del mar para que pasaran los redimidosH5674
+- Isa_51:23inclínate, y pasaremos por encima de tiH5674
+- Isa_51:23cuerpo...como camino, para que pasaranH5674
+- Isa_52:4descendió a Egipto en tiempo pasado, paraH7223
+- Isa_54:9que nunca más las aguas de Noé pasaríanH5674
+- Isa_60:15que nadie pasaba por ti, haré que seasH5674
+- Isa_62:10pasad, p...las puertas; barred el caminoH5674
+- Isa_65:4y en lugares escondidos pasan la noche
+- Jer_2:6una tierra por la cual no pasó varónH5674
+- Jer_2:10pasad a las costas de Quitim y miradH5674
+- Jer_5:22bramarán sus ondas, mas no lo pasaránH5674
+- Jer_8:13y lo que les he dado pasará de ellosH5674
+- Jer_8:20pasó la siega...y...no hemos sido salvosH5674
+- Jer_9:10desolados hasta no quedar quien pase, niH5674
+- Jer_9:12desierto, hasta no haber quien pase?[[H5674]]
+- Jer_13:24yo los esparciré al...como tamo que pasaH5674
+- Jer_14:8y como...se retira para pasar la noche?[[H3885]]
+- Jer_18:16; Jer_19:8que pasare por ella se asombraráH5674
+- Jer_21:9el que saliere y se pasare a los caldeos
+- Jer_22:8pasarán junto a esta ciudad, y diránH5674
+- Jer_28:8profetas que fueron...en tiempos pasados
+- Jer_32:35para hacer pasar por el fuego sus hijosH5674
+- Jer_33:13pasarán ganados por las manos del queH5674
+- Jer_34:18dividiendo en dos...y pasando por medioH5674
+- Jer_34:19que pasaron entre las partes del becerroH5674
+- Jer_37:13diciendo: Tú te pasas a los caldeos
+- Jer_37:14Jeremías dijo: Falso; no me paso a los
+- Jer_38:2el que se pasare a los caldeos viviráH3318
+- Jer_38:19judíos que se han pasado a los caldeos
+- Jer_41:10se fue para pasarse a los hijos de AmónH3212
+- Jer_46:17Faraón...dejó pasar el tiempo señaladoH5674
+- Jer_46:26será habitado como en los días pasados
+- Jer_48:32tus sarmientos pasaron el mar, llegaronH5674
+- Jer_49:17que pasare por ella se asombrará, yH5674
+- Jer_50:13todo hombre que pasare por Babilonia seH5674
+- Jer_51:43morará nadie, ni pasará por ella hijoH5674
+- Jer_52:15los desertores que se habían pasado a
+- Jer_52:25pasaba revista al pueblo de la tierra
+- Lam_1:12¿no os conmueve a cuantos pasáis porH5674
+- Lam_2:15los que pasaban por el camino batieronH5674
+- Lam_3:44para que no pasase la oración nuestraH5674
+- Lam_5:2nuestra heredad ha pasado a extrañosH2015
+- Eze_5:1hazla pasar sobre tu cabeza y tu barbaH2015
+- Eze_5:17pestilencia y sangre pasarán por...de tiH5674
+- Eze_9:4pasa por en medio de la ciudad, por enH5674
+- Eze_9:5pasad por la ciudad en pos de él, y matadH5674
+- Eze_12:3pasarás de tu lugar a otro lugar a vistaH1540
+- Eze_14:15y si hiciere pasar bestias feroces porH5674
+- Eze_14:15que no haya quien pase a causa de lasH5674
+- Eze_14:17espada, pasa por la tierra; e hiciereH5674
+- Eze_16:6y yo pasé junto a ti, y te vi sucia enH5674
+- Eze_16:8pasé yo otra vez junto a ti, y te miréH5674
+- Eze_16:15tus fornicaciones a cuantos pasaronH5674
+- Eze_16:25hiciste...te ofreciste a cuantos pasabanH5674
+- Eze_20:26pasar por el fuego a todo primogénitoH5674
+- Eze_20:31haciendo pasar...hijos por el fuego, osH5674
+- Eze_20:37os haré pasar bajo la vara, y os haréH5674
+- Eze_23:37sus hijos...hicieron pasar por el fuegoH5674
+- Eze_29:11no pasará por ella pie de hombre, ni pieH5674
+- Eze_29:11pie de animal pasará, por ella, ni seráH5674
+- Eze_33:28asolados hasta que no haya quien paseH5674
+- Eze_36:34asolada a ojos...todos los que pasaronH5674
+- Eze_37:2me hizo pasar cerca de ellos por todo enH5674
+- Eze_38:17de quien hablé yo en tiempos pasadosH5674
+- Eze_39:11el valle de los que pasan al oriente del
+- Eze_39:15pasarán los que irán por el país, y elH5674
+- Eze_41:3y pasó al interior, y midió cada poste
+- Eze_47:3-4me hizo pasar por las aguas hasta los
+- Eze_47:5y era ya un río que yo no podía pasar
+- Eze_47:5que el río no se podía pasar sino a nadoH5674
+- Dan_1:18pasados, pues, los días al fin de losH7118
+- Dan_2:9respuesta mentirosa...que pasa el tiempo
+- Dan_4:16, Dan_4:23pasen sobre él siete tiemposH2499
+- Dan_4:25, Dan_4:32siete tiempos pasarán sobre ti, hastaH2499
+- Dan_7:14dominio eterno, que nunca pasará, y suH5709
+- Dan_11:10e inundará, y pasará adelante; luegoH5674
+- Dan_11:20hará pasar un cobrador de tributos porH5674
+- Dan_11:40entrará por las...e inundará, y pasaráH5674
+- Ose_10:11mas yo pasaré sobre su lozana cervizH5674
+- Ose_13:3como...rocío de la madrugada que se pasaH1980
+- Joe_3:17será santa, y extraños no pasarán másH5674
+- Amó_4:13y pasa sobre las alturas de la tierra
+- Amó_5:5ni paséis a Beerseba; porque Gilgal seráH5674
+- Amó_5:17habrá llanto; porque pasaré en medio deH5674
+- Amó_6:2pasad a Calne, y mirad; y de allí id a laH5674
+- Amó_8:5¿cuándo pasará el mes, y venderemos elH5674
+- Amó_9:11lo edificaré como en el tiempo pasadoH5769
+- Jon_2:3tus ondas y tus olas pasaron sobre míH5674
+- Miq_1:11pásate, oh morador de Safir, desnudoH5674
+- Miq_2:8quitasteis las capas...a los que pasabanH5674
+- Miq_2:13abrirán camino y pasarán la puerta, yH5674
+- Miq_2:13su rey pasará delante de ellos, y a laH5674
+- Miq_5:8como el cachorro de león...cual si pasare
+- Miq_7:14busque pasto...como en el tiempo pasadoH5769
+- Nah_1:12aun así serán talados, y él pasaráH5674
+- Nah_1:15porque nunca más volverá a pasar por tiH5674
+- Nah_3:19¿sobre quién no pasó continuamente tuH5674
+- Hab_1:11pasará como el huracán, y ofenderáH5674
+- Hab_3:10montes; pasó la inundación de las aguasH5674
+- Sof_2:2el día se pase como el tamo; antes queH5674
+- Sof_2:15cualquiera que pasare junto a...se burlaraH5674
+- Sof_3:6desiertas sus...hasta no quedar quien paseH5674
+- Zac_8:11ahora no lo haré...como...días pasadosH7223
+- Zac_9:8y no pasará más sobre ellos el opresorH5674
+- Zac_10:11y la tribulación pasará por el mar, yH5674
+- Mal_3:4será grata...como en los días pasadosH5769
+- Mat_4:21pasando de allí, vio a...dos hermanosG4260
+- Mat_5:18hasta que pasen el cielo y la tierra, niG3928
+- Mat_5:18una jota ni una tilde pasará de la leyG3928
+- Mat_8:18viéndose Jesús rodeado...mandó pasar elG565
+- Mat_8:28que nadie podía pasar por aquel caminoG3928
+- Mat_8:33lo que había pasado con los endemoniadosG1139
+- Mat_9:1pasó al otro lado y vino a su ciudadG1276
+- Mat_9:9pasando Jesús de allí, vio a un hombreG3855
+- Mat_9:27pasando Jesús de allí, le siguieron dosG3855
+- Mat_12:9pasando de allí, vino a la sinagoga deG3327
+- Mat_14:15lugar es desierto, y la hora ya pasadaG3928
+- Mat_15:29pasó Jesús de allí y vino junto al marG3327
+- Mat_17:20monte: Pásate de aquí allá, y se pasaráG3327
+- Mat_18:31viendo sus consiervos lo que pasaba, seG1096
+- Mat_18:31refirieron...todo lo que había pasadoG1096
+- Mat_19:24es más fácil pasar un camello por elG1330
+- Mat_20:30y dos ciegos...oyeron que Jesús pasabaG3855
+- Mat_24:34os digo, que no pasará esta generaciónG3928
+- Mat_24:35tierra pasarán, pero mis palabras no pG3928
+- Mat_26:39mío, si es posible, pase de mí esta copaG3928
+- Mat_26:42si no puede pasar de mí esta copa sinG3928
+- Mat_27:39que pasaban le injuriaban, meneando laG3898
+- Mat_28:1pasado el día de reposo, al amanecer del
+- Mar_1:19pasando de allí...vio a Jacobo hijo deG4260
+- Mar_2:14y al pasar, vio a Leví hijo de AlfeoG3855
+- Mar_2:23al pasar él por los sembrados un día deG1223
+- Mar_4:35la noche, les dijo: Pasemos al otro ladoG1330
+- Mar_5:21pasando otra vez Jesús en una barca a laG1276
+- Mar_7:31vino...pasando por la región de Decápolis
+- Mar_10:25más fácil es pasar un camello por el ojoG1525
+- Mar_11:20y pasando por la mañana, vieron que laG3899
+- Mar_13:30os digo, que no pasará esta generaciónG3928
+- Mar_13:31y la tierra pasarán...mis palabras no pG3928
+- Mar_14:35si fuese posible, pasase de él aquellaG3928
+- Mar_15:21y obligaron a uno que pasaba, Simón deG3855
+- Mar_15:29y los que pasaban le injuriaban...¡Bah![[G3899]]
+- Mar_16:1pasó el día de reposo, María MagdalenaG1230
+- Luc_2:15pasemos...hasta Belén, y veamos estoG1230
+- Luc_4:2no comió...pasados los cuales, tuvo hambre
+- Luc_4:30él pasó por en medio de ellos, y se fueG1330
+- Luc_6:1que pasando Jesús por los sembrados, susG1223
+- Luc_6:12al monte...y pasó la noche orando a Dios
+- Luc_8:22les dijo: Pasemos al otro lado del lagoG1330
+- Luc_9:6y saliendo, pasaban por todas las aldeasG1330
+- Luc_10:7posad en...No os paséis de casa en casaG3327
+- Luc_10:31un sacerdote...viéndole, pasó de largoG492
+- Luc_10:32un levita...y viéndole, pasó de largoG492
+- Luc_11:42pasáis por alto la justicia y el amorG3928
+- Luc_13:22pasaba Jesús por ciudades y aldeasG1279, [[G2596]]
+- Luc_13:33es necesario que...pasado mañana siga miG2192
+- Luc_16:17fácil es que pasen el cielo y la tierraG3928
+- Luc_16:26pasar de...no pueden, ni de allá p acáG1224
+- Luc_17:7luego le dice: Pasa, siéntate a la mesa?[[G3928]]
+- Luc_17:11yendo...pasaba entre Samaria y GalileaG1330
+- Luc_18:25es más fácil pasar un camello por el ojoG1525
+- Luc_18:36oír a la multitud que pasaba, preguntóG1279
+- Luc_18:37y le dijeron que pasaba Jesús nazarenoG3928
+- Luc_19:1Jesús en Jericó...pasando por la ciudadG1330
+- Luc_19:4verle; porque había de pasar por allíG1330
+- Luc_21:32no pasará esta generación hasta que todoG3928
+- Luc_21:33y la tierra pasarán...mis palabras no pG3928
+- Luc_22:42si quieres, pasa de mí esta copa; peroG3911
+- Jua_4:4y le era necesario pasar por SamariaG1330
+- Jua_5:24no vendrá a...ha pasado de muerte a vidaG3327
+- Jua_9:1al pasar Jesús, vio a un hombre ciego deG3855
+- Jua_13:1para que pasase de este mundo al Padre
+- Hec_5:7pasado un...tres horas...entró su mujer
+- Hec_5:15al pasar Pedro...su sombra cayese sobreG2064
+- Hec_7:30pasados cuarenta años, un ángel se leG4137
+- Hec_8:9magia...haciéndose pasar por algún grande
+- Hec_8:40pasando, anunciaba el evangelio en todasG1330
+- Hec_9:23pasados...días, los judíos resolvieron enG5618
+- Hec_11:19pasaron...Fenicia, Chipre y AntioquíaG1330
+- Hec_12:10pasado la primera y la segunda guardiaG1330
+- Hec_12:10pasaron una calle, y luego el ángel seG4281
+- Hec_13:14pasando de Perge, llegaron a Antioquía
+- Hec_14:16edades pasadas él ha dejado a todas lasG3944
+- Hec_14:24pasando luego por Pisidia, vinieron aG1330
+- Hec_15:3pasaron por Fenicia y Samaria, contandoG130
+- Hec_15:29que os abstengáis de lo...Pasadlo bien
+- Hec_15:33pasando algún tiempo allí...despedidosG4160
+- Hec_15:41pasó por Siria y Cilicia, confirmando aG1330
+- Hec_16:4al pasar por las ciudades...entregaban lasG1279
+- Hec_16:8y pasando junto a Misia, descendieron aG3928
+- Hec_16:9diciendo: Pasa a Macedonia y ayúdanosG1224
+- Hec_17:1pasando por Anfípolis y...a TesalónicaG1353
+- Hec_17:23pasando y...hallé también un altar en elG1330
+- Hec_17:30pero Dios, habiendo pasado por alto los
+- Hec_18:27queriendo él pasar a Acaya...le animaronG1330
+- Hec_19:21pasadas estas cosas, Pablo se propusoG1330
+- Hec_20:6nosotros, pasados los días de los panes
+- Hec_20:16había propuesto pasar de largo a Efeso
+- Hec_20:25he pasado predicando el reino de DiosG1330
+- Hec_21:2hallando un barco que pasaba a Fenicia
+- Hec_23:30traten delante de ti lo que...Pásalo bienG4517
+- Hec_24:17pero pasados algunos años, vine a hacerG1223
+- Hec_25:13pasados algunos días, el rey Agripa yG1230
+- Hec_26:4mi vida, pues, desde...pasé en mi nación
+- Hec_27:9habiendo pasado mucho tiempo, y siendo
+- Hec_27:9por haber pasado ya el ayuno, Pablo lesG3928
+- Hec_27:28pasando un...volviendo a echar la sonda
+- Hec_28:11pasados tres meses, nos hicimos a laG3326
+- Rom_3:25pasado por alto...los pecados pasadosG3929
+- Rom_5:12así la muerte pasó a todos los hombresG1330
+- Rom_15:24porque espero veros al pasar, y ser
+- Rom_15:28pasaré entre vosotros rumbo a EspañaG565
+- 1Co_7:31la apariencia de este mundo se pasaG3855
+- 1Co_7:36impropio para su hija virgen que pase ya de edadG5230
+- 1Co_10:1bajo la nube, y todos pasaron el marG1330
+- 1Co_16:5iré a...cuando haya pasado por MacedoniaG1330
+- 1Co_16:5pues por Macedonia tengo que pasarG1330
+- 1Co_16:6que me quede con...o aun pase el invierno
+- 2Co_1:16y por vosotros pasar a Macedonia, yG1330
+- 2Co_1:23que por ser indulgente con...no he pasadoG2064
+- 2Co_5:17las cosas viejas pasaron; he aquí todasG3928
+- 2Co_8:10también a quererlo, desde el año pasadoG4070
+- 2Co_9:2Acaya está preparada desde el año pasadoG4070
+- Gál_1:18pasados tres años, subí a JerusalénG2596
+- Gál_2:1después, pasados catorce años, subí otraG1223
+- Efe_4:22en cuanto a la pasada manera de vivirG4387
+- Col_4:9todo lo que acá pasa, os lo harán saber
+- 1Ts_3:4íbamos a pasar tribulaciones, como ha
+- 2Ts_2:4el templo...haciéndose pasar por Dios
+- Tit_3:12allí he determinado pasar el invierno
+- Heb_10:32traed a la memoria los días pasadosG4386
+- Heb_11:29por la fe pasaron el Mar Rojo como porG1224
+- Heb_12:20tocare el monte...será...pasada con dardoG2700
+- Stg_1:10él pasará como la flor de la hierbaG3928
+- 1Pe_4:3baste ya el tiempo pasado para haberG3928
+- 2Pe_3:10cielos pasarán con grande estruendoG3928
+- 1Jn_2:8las tinieblas van pasando, y la luzG3855
+- 1Jn_2:17y el mundo pasa, y sus deseos; pero elG3855
+- 1Jn_3:14sabemos que hemos pasado de muerte aG3327
+- Rev_9:12el primer ay pasó; he aquí, vienen aúnG565
+- Rev_11:14el segundo ay pasó; he aquí, el tercerG565
+- Rev_21:1el primer cielo y la...tierra pasaron, yG3928
+- Rev_21:4dolor; porque las primeras cosas pasaronG565

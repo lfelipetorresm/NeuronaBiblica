@@ -1,0 +1,173 @@
+---
+tipo: concordancia
+palabra: PERECER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PERECER
+
+- Gén_19:15perezcas en el castigo de la ciudadH5595
+- Gén_19:17escapa al monte, no sea que perezcasH5595
+- Gén_41:36depósito...el país no perecerá de hambreH3792
+- Gén_45:11que no perezcas de pobreza tú y tu casa
+- Lev_26:38pereceréis entre las naciones, y laH6
+- Núm_4:18no haréis que perezca la tribu de lasH3772
+- Núm_16:26que no perezcáis en todos sus pecadosH5595
+- Núm_16:33perecieron de en medio...congregaciónH6
+- Núm_17:13morirá...¿Acabaremos por perecer todos?[[H8552]]
+- Núm_20:3hubiéramos muerto cuando perecieronH1478
+- Núm_21:29¡ay de ti...Pereciste, pueblo de QuemosH6
+- Núm_21:30el reino de...pereció Hesbón hasta DibónH6
+- Núm_24:20Amalec...al fin perecerá para siempreH8
+- Núm_24:24mas él también perecerá para siempreH8
+- Deu_4:26que pronto pereceréis totalmente deH6
+- Deu_4:33¿ha oído...la voz de Dios...sin perecer?
+- Deu_7:20hasta que perezcan los que quedaren yH6
+- Deu_8:19lo afirmo hoy...que de cierto pereceréisH6
+- Deu_8:20así pereceréis, por cuanto no habréisH6
+- Deu_11:17perezcáis pronto de la buena tierra queH6
+- Deu_26:5arameo a punto de perecer fue mi padreH6
+- Deu_28:20y perezcas pronto a causa de la maldadH6
+- Deu_28:22y te perseguirán hasta que perezcasH6
+- Deu_28:24descenderán sobre...hasta que perezcasH8045
+- Deu_28:45te alcanzarán hasta que perezcas; porH8045
+- Deu_28:51y comerá el fruto...hasta que perezcasH8045
+- Deu_30:18protesto hoy que de cierto pereceréisH6
+- Deu_32:36cuando viere que la fuerza pereció, yH235
+- Jos_22:20aquel hombre no pereció solo en suH1478
+- Jos_23:13que perezcáis de esta buena tierra queH6
+- Jos_23:16pereceréis prontamente de esta...tierraH6
+- Jue_5:31así perezcan todos tus enemigos, ohH6
+- 1Sa_2:9mas los impíos perecen en tinieblasH1826
+- 1Sa_12:25mal, vosotros y vuestro rey pereceréisH5595
+- 1Sa_26:10que...o descendiendo en batalla perezcaH5595
+- 2Sa_1:19ha perecido la gloria de Israel sobreH2491
+- 2Sa_1:27cómo...han perecido las armas de guerra![[H6]]
+- 2Re_7:13perecerán como toda...ya ha perecidoH8552
+- 2Re_9:8perecerá...la casa de Acab, y destruiré deH6
+- Est_4:14tú y la casa de tu padre pereceréisH6
+- Est_4:16entraré a ver...si perezco, que perezcaH6
+- Job_3:3perezca el día en que yo nací, y laH6
+- Job_4:9perecen por el aliento de Dios, y por elH6
+- Job_4:11el león viejo perece por falta de presaH6
+- Job_8:13a Dios, y la esperanza del impío pereceráH6
+- Job_8:22y la habitación de los impíos pereceráH369
+- Job_14:10perecerá el hombre, ¿y dónde estará él?
+- Job_14:19haces...perecer la esperanza del hombreH6
+- Job_15:30y con el aliento de su boca pereceráH5493
+- Job_18:17su memoria perecerá de la tierra, y noH6
+- Job_19:10me arruinó por todos lados, y perezcoH5422
+- Job_20:7como su estiércol, perecerá para siempreH6
+- Job_31:19si he visto que pereciera alguno sinH6
+- Job_33:18alma...y su vida de que perezca a espadaH5674
+- Job_34:15toda carne perecería juntamente, y elH1478
+- Job_36:12si no oyeren...perecerán sin sabiduríaH5674
+- Sal_1:6mas la senda de los malos pereceráH6
+- Sal_2:12no se enoje, y perezcáis en el caminoH6
+- Sal_9:3atrás; cayeron y perecieron delante de tiH6
+- Sal_9:6los enemigos han perecido; han quedadoH6
+- Sal_9:6derribaste, su memoria pereció con ellasH5428
+- Sal_9:18ni la esperanza de los pobres pereceráH5428
+- Sal_10:16de su tierra han perecido las naciones 6
+- Sal_37:20los impíos perecerán, y los enemigosH6
+- Sal_39:13tomaré fuerzas, antes que...y perezca
+- Sal_41:5¿cuándo morirá, y perecerá su nombre?[[H6]]
+- Sal_49:10perecen del mismo modo que...el necioH6
+- Sal_49:12, Sal_49:20semejante a las bestias que perecenH1820
+- Sal_68:2así perecerán los impíos delante de DiosH6
+- Sal_71:13perezcan los adversarios de mi almaH3615
+- Sal_73:19perecieron, se consumieron de terroresH8552
+- Sal_73:27los que se alejan de ti perecerán; túH6
+- Sal_80:16perezcan por la reprensión de tu rostroH6
+- Sal_83:10que perecieron en Endor, fueron hechosH8045
+- Sal_83:17siempre; sean deshonrados, y perezcanH6
+- Sal_92:9he aquí, perecerán tus enemigos; seránH6
+- Sal_102:26ellos perecerán, mas tú permanecerásH6
+- Sal_103:16que pasó el viento por ella, y pereció
+- Sal_112:10el deseo de los impíos pereceráH6
+- Sal_119:92ya en mi aflicción hubiera perecidoH6
+- Sal_146:4ese mismo día perecen sus pensamientosH6
+- Pro_10:28la esperanza de los impíos pereceráH6
+- Pro_11:7muere el...impío, perece su esperanzaH6
+- Pro_11:7y la expectación de los malos pereceráH6
+- Pro_11:10cuando los impíos perecen hay fiestaH6
+- Pro_13:13que menosprecia el precepto pereceráH2254
+- Pro_19:9falso...y el que habla mentiras pereceráH6
+- Pro_21:28el testigo mentiroso perecerá; mas elH6
+- Pro_28:28perecen, los justos se multiplicanH6
+- Ecl_7:15justo hay que perece por su justiciaH6
+- Isa_5:13su gloria pereció de hambre...se secóH7458
+- Isa_14:8que tú pereciste, no ha subido cortadorH7901
+- Isa_15:6se marchitarán los...todo verdor pereceráH3615
+- Isa_29:14perecerá la sabiduría de sus sabiosH6
+- Isa_37:7haré que en su tierra perezca a espadaH5307
+- Isa_41:11perecerán los que contienden contigoH6
+- Isa_51:6la misma manera perecerán sus moradoresH4191
+- Isa_51:6para siempre, mi justicia no pereceráH2865
+- Isa_56:5perpetuo les daré, que nunca pereceráH3772
+- Isa_57:1perece el justo, y no hay quien pienseH6
+- Isa_59:15desagradó a...porque pereció el derecho
+- Isa_60:12el reino que no te sirviere pereceráH6
+- Jer_6:21el vecino y su compañero pereceránH6
+- Jer_7:28pereció la verdad, y de la...fue cortadaH6
+- Jer_8:14entremos en...y perezcamos allí; porqueH1826
+- Jer_8:14Jehová...Dios nos ha destinado a perecerH1826
+- Jer_9:12¿por qué causa la tierra ha perecido, haH6
+- Jer_10:15vana; al tiempo de su castigo pereceránH6
+- Jer_10:20hijos me han abandonado y perecieron
+- Jer_27:10y para que yo os arroje y perezcáisH6
+- Jer_27:15perezcáis vosotros y los profetas queH6
+- Jer_31:15acerca de sus hijos, porque perecieron
+- Jer_40:15se dispersarán, y perecerá el resto deH6
+- Jer_44:27serán consumidos...hasta que perezcanH3615
+- Jer_47:5Ascalón ha perecido, y el resto de suH1820
+- Jer_48:36perecieron...riquezas que habían hechoH6
+- Jer_48:46¡ay de ti, Moab! pereció el pueblo deH6
+- Jer_51:6que no perezcáis a causa de su maldadH1826
+- Jer_51:18en el tiempo del castigo pereceránH6
+- Lam_1:19mis ancianos en la ciudad perecieron
+- Lam_3:18perecieron mis fuerzas, y mi esperanzaH6
+- Eze_26:17pereciste tú, poblada por gente deH6
+- Eze_37:11secaron, y pereció nuestra esperanzaH6
+- Dan_2:18a fin de que Daniel y...no pereciesenH7
+- Joe_1:12la vid está seca, y pereció la higueraH535
+- Amó_1:8el resto de los filisteos perecerá, haH6
+- Amó_3:15heriré...y las casas de marfil pereceránH6
+- Abd_1:8¿no haré que perezcan en aquel día, diceH6
+- Jon_1:6él tendrá compasión...y no pereceremosH6
+- Jon_1:14que no perezcamos...por la vida de esteH6
+- Jon_3:9se apartará...de su ira, y no pereceremos?[[H6]]
+- Jon_4:10nació, y en espacio de otra noche perecióH6
+- Miq_4:9¿pereció...que te ha tomado dolor comoH6
+- Nah_1:15nunca más volverá...pereció del todoH3772
+- Zac_9:5y perecerá el rey de Gaza, y AscalónH6
+- Mat_2:18Raquel que llora...porque perecieron
+- Mat_8:25despertaron...sálvanos, que perecemos![[G622]]
+- Mat_8:32todo el hato...y perecieron en las aguasG599
+- Mat_26:52que tomen espada, a espada pereceránG622
+- Mar_4:38Maestro, ¿no...cuidado que perecemos?[[G622]]
+- Luc_8:24despertaron...Maestro, que perecemos![[G622]]
+- Luc_13:3, Luc_13:5si no os arrepentís, todos pereceréisG622
+- Luc_15:17de pan, y yo aquí perezco de hambre![[G622]]
+- Luc_21:18pero ni un cabello de...cabeza pereceráG622
+- Jua_6:27trabajad, no por la comida que pereceG622
+- Jua_10:28doy vida eterna; y no perecerán jamásG622
+- Jua_11:50muera...y no que toda la nación perezcaG622
+- Hec_5:37pereció también él, y todos los queG622
+- Hec_8:20tu dinero perezca contigo, porque hasG1519, [[G684]]
+- Hec_27:34pues ni aun un cabello de la...pereceráG4098
+- Rom_2:12han pecado, sin ley también pereceránG622
+- 1Co_2:6ni de los príncipes de...que perecenG2673
+- 1Co_10:9de ellos le tentaron, y perecieron porG622
+- 1Co_10:10algunos...perecieron por el destructorG622
+- 1Co_15:18los que durmieron en Cristo perecieronG622
+- 2Co_3:7la gloria...la cual había de perecer
+- 2Co_3:11si lo que perece tuvo gloria, mucho más
+- Heb_1:11ellos perecerán, mas tú permaneces; yG622
+- Heb_11:31por la fe Rahab la ramera no perecióG4881
+- Stg_1:11cae, y perece su hermosa aparienciaG622
+- 2Pe_2:12perecerán en su propia perdiciónG2704
+- 2Pe_3:6el mundo de entonces pereció anegado enG622
+- 2Pe_3:9no queriendo que ninguno perezca, sinoG622
+- Jud_1:11perecieron en la contradicción de CoréG622

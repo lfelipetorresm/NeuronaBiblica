@@ -1,0 +1,85 @@
+---
+tipo: concordancia
+palabra: ROMPER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ROMPER
+
+- Gén_7:11rotas todas las fuentes del...abismoH1234
+- Gén_19:9y se acercaron para romper la puertaH7665
+- Éxo_28:32de obra tejida...para que no se rompaH7167
+- Éxo_39:23con un borde...para que no se rompiese
+- Lev_26:13y rompí las coyundas de vuestro yugoH7665
+- Núm_14:6Jesús...Caleb...rompieron sus vestidosH7167
+- Jos_7:6entonces Josué rompió sus vestidos, yH7167
+- Jue_9:53dejó caer un...y le rompió el cráneoH7533
+- Jue_11:35cuando él la vio, rompió sus vestidosH7167
+- Jue_16:9y él rompió los mimbres, como se rompeH5423
+- Jue_16:12él las rompió de sus brazos como un hiloH5423
+- 1Re_11:11romperé de ti el reino...lo entregaréH7167
+- 1Re_11:12no lo...lo romperé de la mano de tu hijoH7167
+- 1Re_11:13no romperé todo el reino, sino que daréH7167
+- 1Re_11:30la capa nueva...rompió en doce pedazosH7167
+- 1Re_11:31yo rompo el reino de la mano de SalomónH7167
+- 1Re_13:5altar se rompió, y se derramó la cenizaH7167
+- 1Re_14:8y rompí el reino de la casa de David yH7167
+- 1Re_15:19rompe tu pacto con Baasa rey de IsraelH6565
+- 1Re_19:11poderoso viento que rompía los montesH7665
+- 1Re_22:48mas no fueron, porque se rompieron enH7665
+- 2Re_2:12sus vestidos...rompió en dos partesH7167
+- 2Re_14:13y rompió el muro de Jerusalén desde laH6555
+- 2Re_24:13rompió...todos los utensilios de oro queH7112
+- 1Cr_11:18rompieron por el campamento de losH1234
+- 1Cr_14:11Dios rompió...como se rompen las aguasH6555
+- 2Cr_20:37naves se rompieron, y no pudieron irH7665
+- 2Cr_26:6y rompió el muro de Gat, y el muro deH6555
+- 2Cr_36:19rompieron el muro de Jerusalén...fuegoH5422
+- Job_12:18él rompe las cadenas de los tiranosH6605
+- Job_26:8las nubes no se rompen debajo de ellasH1234
+- Job_32:19mi corazón...se rompe como odres nuevosH1234
+- Sal_2:3rompamos sus ligaduras, y echemos deH5423
+- Sal_89:39rompiste el pacto de tu siervo...coronaH5010
+- Sal_107:14los sacó de las...y rompió sus prisionesH5423
+- Sal_116:16siervo tuyo soy...has roto mis prisionesH6605
+- Sal_124:7se rompió el lazo, y escapamos nosotrosH7665
+- Sal_141:7como quien hiende y rompe la tierraH6398
+- Ecl_3:7tiempo de romper, y tiempo de coserH7167
+- Ecl_4:12y cordón de tres dobleces no se rompeH5423
+- Ecl_12:6se rompa el cuenco de oro, y el cántaroH7533
+- Ecl_12:6la fuente, y la rueda sea rota sobre elH7665
+- Isa_5:27ni se le romperá la correa...sandaliasH5423
+- Isa_19:10porque todas sus redes serán rotas; y seH1792
+- Isa_28:24¿romperá y...los terrones de la tierra?[[H7702]]
+- Isa_33:20no...ni ninguna de sus cuerdas será rotaH5423
+- Isa_58:6dejar ir libres...y que rompáis todo yugo?[[H5423]]
+- Isa_64:1si rompieses los cielos, y descendierasH7167
+- Jer_2:20desde muy atrás rompiste tu yugo yH7665
+- Jer_5:5quebraron el yugo, rompieron las coyundasH7665
+- Jer_28:11de esta manera romperé el yugo dé!...reyH7665
+- Jer_28:12Hananías rompió el yugo del cuello delH7665
+- Jer_30:8romperé tus coyundas, y extranjeros noH7665
+- Jer_48:12vaciarán sus vasijas, y romperán susH5310
+- Eze_13:11dí...y viento tempestuoso la romperáH1234
+- Eze_13:13haré que la rompa viento tempestuosoH1234
+- Eze_13:21romperé asimismo vuestros velos mágicosH7167
+- Eze_17:15el que rompió el pacto, ¿podrá escapar?[[H6565]]
+- Eze_17:16el rey...cuyo pacto hecho con él rompióH6565
+- Eze_29:7quebraste, y les rompiste todo el hombroH1234
+- Eze_29:7y les rompiste sus lomos enteramenteH7533
+- Eze_34:27cuando rompa las coyundas de su yugoH7665
+- Dan_2:40como el hierro...rompe todas las cosasH2827
+- Dan_5:28PERES: Tu reino ha sido roto, y dado aH6537
+- Miq_3:3y los rompéis como para el caldero, yH6746
+- Nah_1:13quebraré su...y romperé tus coyundasH7665
+- Zac_11:10para romper mi pacto...con...pueblosH6565
+- Zac_11:14para romper la hermandad entre Judá yH6565
+- Zac_11:16comerá la carne...y romperá sus pezuñasH6561
+- Mat_9:17odres se rompen, y el vino se derramaG4486
+- Mar_2:22vino nuevo rompe los odres, y el vinoG4486
+- Luc_5:6cantidad de peces, y su red se rompíaG1284
+- Luc_5:36no solamente rompe el nuevo, sino que elG4977
+- Luc_5:37manera, el vino nuevo romperá los odresG4486
+- Luc_8:29rompiendo las cadenas, era impelido porG1284
+- Jua_21:11siendo tantos, la red no se rompióG4977

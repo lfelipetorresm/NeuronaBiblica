@@ -1,0 +1,381 @@
+---
+tipo: concordancia
+palabra: VEZ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VEZ
+
+- Gén_4:15matare a Caín, siete v será castigadoH7659
+- Gén_4:24si siete v será vengado Caín, Lamec enH7659
+- Gén_4:24Lamec en verdad setenta v siete lo seráH7659
+- Gén_18:32si hablare solamente una v; quizá seH6471
+- Gén_22:15llamó el ángel de...a Abraham segunda vH8145
+- Gén_24:20corrió otra v al pozo para sacar aguaH5750
+- Gén_26:7tal v los hombres del lugar lo matarían
+- Gén_27:36Jacob, pues ya me ha suplantado dos vH6471
+- Gén_29:33-34, Gén_29:35concibió otra v, y dio a luz unH5750
+- Gén_29:34ahora esta v se unirá mi marido conmigoH6471
+- Gén_29:35y dijo: Esta v alabaré a Jehová; porH5750
+- Gén_30:7concibió otra v Bilha...sierva de RaquelH5750
+- Gén_30:19concibió Lea otra v, y dio a luz elH5750
+- Gén_30:41que cuantas v se hallaban en celo lasH7194
+- Gén_31:7me ha cambiado el salario diez v; peroH4489
+- Gén_31:41así...y has cambiado mi salario diez vH4489
+- Gén_33:3se inclinó a tierra siete v, hasta queH6471
+- Gén_35:9apareció otra v Dios a Jacob, cuandoH5750
+- Gén_38:4concibió otra v, y dio a luz un hijo, yH5750
+- Gén_41:5se durmió de nuevo, y soñó la segunda v
+- Gén_41:32el suceder el sueño...dos v, significaH8138
+- Gén_43:10si no nos...hubiéramos ya vuelto dos vH6471
+- Gén_43:18por el dinero...devuelto...la primera vH8462
+- Gén_43:34porción de Benjamín era cinco v mayorH3027
+- Éxo_8:32Faraón endureció aun esta v, su corazónH6471
+- Éxo_9:14yo enviaré esta v todas mis plagas a tuH6471
+- Éxo_9:27dijo: He pecado esta v; Jehová es justoH6471
+- Éxo_10:17perdonéis mi pecado solamente esta vH6471
+- Éxo_23:14tres v en el año me celebraréis fiesta
+- Éxo_23:17tres v en el año se presentará...varónH6471
+- Éxo_30:10hará Aarón expiación una v en el añoH259
+- Éxo_30:10una v en el año hará expiación sobre élH259
+- Éxo_34:23tres v en el año...presentará todo varónH7969, [[H6471]]
+- Éxo_34:24subas para presentarte...tres v en el añoH7969, [[H6471]]
+- Lev_4:6rociará de...siete v delante de JehováH6471
+- Lev_4:17rociará siete v delante de Jehová haciaH6471
+- Lev_8:11y roció de él sobre el altar siete vH6471
+- Lev_13:7deberá mostrarse otra v al sacerdoteH8145
+- Lev_13:54y lo encerrará otra v por siete días
+- Lev_13:58se lavará segunda v, y...será limpia
+- Lev_14:7rociará siete v...al que va a ser purificadoH6471
+- Lev_14:16esparcirá...aceite con su dedo siete vH6471
+- Lev_14:27del aceite...siete v delante de JehováH6471
+- Lev_14:51los mojará...y rociará la casa siete vH6471
+- Lev_16:14esparcirá...siete v de aquella sangreH6471
+- Lev_16:19esparcirá sobre él...la sangre...siete vH6471
+- Lev_16:34para hacer expiación una v al año porH259
+- Lev_25:8y contarás...siete v siete años, de modoH7676
+- Lev_26:18volveré a castigaros siete v más por
+- Lev_26:21añadiré sobre...siete v más plagas según
+- Lev_26:24y os heriré aún siete v por...pecados
+- Lev_26:28os castigaré aún siete v por...pecados
+- Núm_10:6y cuando tocareis alarma la segunda v
+- Núm_10:13partieron la primera v al mandato de
+- Núm_14:22otra v en el desierto y no han...obedecer mis
+- Núm_19:4rociará...con la sangre de ella siete v
+- Núm_20:11alzó Moisés...y golpeó la peña...dos vH6471
+- Núm_22:15Balac a enviar otra v más príncipes, y3254
+- Núm_22:28¿qué...que me has azotado estas tres v?
+- Núm_22:32¿por qué has azotado tu asna...tres v?
+- Núm_22:33se ha apartado luego...mí estas tres v
+- Núm_24:1no fue, como la...segunda v, en busca deH6471
+- Núm_24:10y he aquí los has bendecido ya tres v
+- Núm_24:23tomó su parábola otra v, y dijo: ¡Ay!
+- Núm_32:15provocar otra v la ira del Señor contra IsraelH3254
+- Deu_1:11os haga mil v más de lo que ahora soisH6471
+- Deu_5:25si oyéremos otra v la voz de...moriremos
+- Deu_9:19ira...pero Jehová me escuchó aun esta vH6471
+- Deu_10:10y Jehová también me escuchó esta v, yH3117
+- Deu_16:16tres v cada año aparecerá todo varónH6471
+- Jos_5:2y vuelve a circuncidar la segunda v aH7725
+- Jos_6:3yendo alrededor de la ciudad una v, y estoH259
+- Jos_6:15al séptimo día...dieron vuelta...siete vH6471
+- Jos_6:15dieron vuelta alrededor de la...siete vH6471
+- Jos_6:16cuando...tocaron la bocina la séptima vH6471
+- Jos_8:6dirán: Huyen de nosotros como la primera v
+- Jos_10:42todos estos reyes...tomó Josué de una vH6471
+- Jue_2:23dejó Jehová...sin arrojarlas de una v
+- Jue_6:39esta v harás que la lana quede seca y que elH6471
+- Jue_9:8fueron una v los árboles a elegir rey
+- Jue_13:9y su ángel se le apareció otra v a la mujerH5750
+- Jue_15:3sin culpa seré esta v respecto de los
+- Jue_16:15ya me has engañado tres v, y no me hasH6471
+- Jue_16:18venid esta v...me ha descubierto todo suH6471
+- Jue_16:20se dijo: Esta v saldré como las otrasH6471
+- Jue_16:28solamente esta v...una v tome venganzaH6471
+- Jue_20:30ordenaron la batalla...como las otras vH6471
+- Jue_20:31matándolos como las otras v por losH6471
+- Rut_1:14ellas alzaron otra v su voz y lloraronH5750
+- 1Sa_3:6y Jehová volvió a llamar...v a SamuelH3254
+- 1Sa_3:8Jehová, pues, llamó la tercera v a SamuelH3254
+- 1Sa_3:10y vino Jehová...y llamó como las otras vH6471
+- 1Sa_10:22preguntaron, pues, otra v a Jehová si
+- 1Sa_18:11enclavaré...Pero David lo evadió dos vH6471
+- 1Sa_18:21dijo...Saúl a David por segunda v: Tú
+- 1Sa_18:30v que salían, David tenía más éxito que
+- 1Sa_19:21y Saúl volvió a enviar...por tercera vH3254
+- 1Sa_20:17y Jonatán hizo jurar a David otra vH3254
+- 1Sa_20:41se inclinó tres v postrándose hasta laH6471
+- 2Sa_6:22y aun me haré más vil que esta v
+- 2Sa_14:25envió...segunda v, y no quiso venir
+- 2Sa_17:7el consejo que ha dado esta v AhitofelH6471
+- 2Sa_21:19hubo otra v guerra en Gob contra losH5750
+- 2Sa_24:3añada, al pueblo cien v tanto como son
+- 1Re_9:2apareció a Salomón la segunda v, como
+- 1Re_9:25ofrecía Salomón tres v cada año...de pazH6471
+- 1Re_10:22una v cada tres años venía la flota deH259
+- 1Re_11:9Jehová...que se le había aparecido dos vH6471
+- 1Re_17:21tendió sobre el niño tres v, y clamó aH6471
+- 1Re_18:27¡Tal v esté dormido y haya que despertarlo![[H194]]
+- 1Re_18:34hacedlo otra v; y otra v lo hicieron
+- 1Re_18:34tercera v; y lo hicieron la tercera v
+- 1Re_18:43él le volvió a decir: Vuelve siete vH6471
+- 1Re_18:44a la séptima v dijo: Yo veo una...nube
+- 1Re_19:7y volviendo el ángel...la segunda v, lo
+- 1Re_20:5los mensajeros otra v, dijeron: Así dijoH7725
+- 1Re_22:16¿hasta cuántas v he de exigirte que noH6471
+- 2Re_4:35el niño estornudó siete v, y abrióH6471
+- 2Re_5:10vé y lávate siete v en el Jordán, y tuH6471
+- 2Re_5:14descendió, y se zambulló siete v en elH6471
+- 2Re_6:10así lo hizo una y otra v con el fin deH8147
+- 2Re_10:6les escribió la segunda v, diciendo: Si
+- 2Re_13:18golpea...la golpeó tres v, y se detuvo
+- 2Re_13:19ahora sólo tres v derrotarás a Siria
+- 2Re_13:25tres v lo derrotó Joás, y restituyó lasH6471
+- 1Cr_11:11blandió su lanza una v contra 300H6471
+- 1Cr_15:13pues como la primera v no lo hicieron ustedesH7223
+- 1Cr_21:3aumente su pueblo cien v más de lo que es ahoraH6471
+- 1Cr_29:22dieron por segunda v la investidura del
+- 2Cr_8:13las fiestas solemnes tres v en el añoH6471
+- 2Cr_18:15le dijo: ¿Hasta cuántas v, te conjuraréH6471
+- Neh_4:12nos decían hasta diez v: De todos losH6471
+- Neh_6:4enviaron a mí...hasta cuatro v, y yo lesH6471
+- Neh_6:5para decir lo mismo por quinta v, con unaH6471
+- Neh_9:28una v que tenían paz, volvían a hacer
+- Neh_9:28clamaban otra v...muchas v los librasteH6256
+- Neh_13:20se...v a pasar la noche fuera de JerusalénH8147
+- Neh_13:21si lo hacéis otra v, os echaré manoH3138
+- Est_2:19las vírgenes eran reunidas la segunda v
+- Est_5:13cada vez que veo al judío Mardoqueo sentado
+- Job_16:2muchas v he oído cosas como estas
+- Job_19:3ya me habéis vituperado diez v; ¿no osH6471
+- Job_21:17cuántas v la lámpara de los impíos es
+- Job_24:22v que se levante, ninguno está seguro
+- Job_27:19rico se acuesta, pero por última v
+- Job_33:29hace Dios dos y tres v con el hombre
+- Job_36:17en v de sustentar el juicio y la justicia
+- Job_37:13unas v por azote, otras por causa de
+- Job_40:5ya he hablado una y otra v, y no tengo nadaH8147
+- Sal_12:6plata refinada...purificada siete v
+- Sal_62:11una v habló Dios; dos v he oído estoH259
+- Sal_74:8dijeron en su...Destruyámoslos de una v
+- Sal_78:38perdonaba la...y apartó muchas v su ira
+- Sal_78:40¡cuántas v se rebelaron contra él en
+- Sal_89:35una v he jurado por mi santidad, y noH259
+- Sal_106:43muchas v los libró; mas...se rebelaronH6471
+- Sal_119:164siete v al día te alabo a causa de
+- Pro_2:19ni seguirán otra v los senderos de la
+- Pro_6:31pero si es sorprendido, pagará siete vH7659
+- Pro_7:12unas v está en la calle, otras v en las
+- Pro_22:20¿no te he escrito tres v en consejos
+- Pro_24:16porque siete v cae el justo, y vuelve
+- Pro_29:22contiendas, y el furioso muchas v pecaH7227
+- Ecl_4:7volví otra v, y vi vanidad debajo delH7725
+- Ecl_6:6si...viviere mil años dos v, sin gustarH6471
+- Ecl_7:22que tú...dijiste mal de otros muchas v
+- Ecl_8:12el pecador haga mal cien v, y prolongue
+- Isa_3:24de cilicio, y quemadura en v de hermosuraH4228
+- Isa_8:5otra v volvió Jehová a hablarme, diciendoH3254
+- Isa_9:1tocaron la primera v a la tierra de Zabulón yH7223
+- Isa_11:11alzará otra v su mano para recobrarH3254
+- Isa_23:17y otra v fornicará con todos los reinos del mundoH2181
+- Isa_30:26la luz del sol siete v mayor, como laH7659
+- Isa_43:19otra v abriré camino en el desierto, y
+- Isa_60:15en v de estar abandonada y aborrecida
+- Isa_60:17en v de bronce traer oro, y por hierro
+- Isa_66:8¿nacerá una nación de una v? Pues enH6118
+- Jer_1:13vino a mí la palabra...por segunda v
+- Jer_10:18he aquí que esta v arrojaré con hondaH6471
+- Jer_13:3vino a mí segunda v palabra de Jehová
+- Jer_16:21les enseñaré esta v, les haré conocerH6471
+- Jer_20:8cuantas v hablo, doy voces...Violencia
+- Jer_28:13mas en v de ellos harás yugos de hierro
+- Jer_33:1vino palabra...a Jeremías la segunda v
+- Eze_4:6te acostarás...tu lado derecho segunda vH8145
+- Eze_5:4tomarás otra v de ellos, y los echarás enH5750
+- Eze_12:3por si tal v atienden, porque son casa
+- Eze_16:8y pasé yo otra v junto a ti, y te miré
+- Dan_1:20halló diez v mejores que todos los magos
+- Dan_2:7por segunda v, y dijeron: Diga el reyH8579
+- Dan_3:19el horno se calentase siete v más de lo
+- Dan_4:27tal vez será eso...de tu tranquilidad
+- Dan_6:10se arrodillaba tres v al día, y oraba yH2166
+- Dan_6:13sino que tres v al día hace su peticiónH2166
+- Dan_10:18aquel...me tocó otra v, y me fortalecióH3284
+- Ose_1:6concibió ella otra v, y dio a luz unaH5750
+- Ose_3:1dijo otra v Jehová: Ve, ama a una mujer
+- Jon_3:1vino palabra de...por segunda v a Jonás
+- Nah_1:9no tomará venganza dos v de...enemigosH6471
+- Hag_2:20vino por segunda v palabra...a HageoH8145
+- Zac_12:6Jerusalén será otra v habitada en suH5750
+- Mal_2:13y esta otra v haréis cubrir el altarH8145
+- Mat_4:8otra v le llevó el diablo a un monteG3825
+- Mat_9:14¿por qué nosotros y...ayunamos muchas v
+- Mat_13:48y una v llena, la sacan a la orilla; y
+- Mat_17:15muchas v cae en el fuego, y muchas enG4178
+- Mat_18:19otra v os digo, que si dos de vosotros
+- Mat_18:21¿cuántas v perdonaré a mi hermano queG4212
+- Mat_18:22siete, sino aun hasta setenta v sieteG2034
+- Mat_19:24otra v os digo, que es más fácil pasarG3825
+- Mat_19:29recibirá cien v más, y heredará la vidaG3825
+- Mat_20:5salió otra v cerca de las horas sexta yG3825
+- Mat_23:15una v hecho, le hacéis dos v más hijoG1366
+- Mat_23:37¡cuántas v quise juntar a tus hijosG4212
+- Mat_26:34que el gallo cante, me negarás tres vG5151
+- Mat_26:42otra v fue, y oró por segunda v...PadreG3825
+- Mat_26:43otra v y los halló durmiendo, porque losG3825
+- Mat_26:44oró por tercera v, diciendo las mismas
+- Mat_26:72Pero él negó otra v con juramento: No conozcoG3825
+- Mat_26:75que cante el gallo, me negarás tres vG5151
+- Mat_27:50Jesús, habiendo otra v clamado a granG3825
+- Mar_2:1Jesús otra v en Capernaum después deG3825
+- Mar_3:1otra v entró Jesús en la sinagoga; y habíaG3825
+- Mar_4:1otra v comenzó Jesús a enseñar junto alG3825
+- Mar_5:4muchas v había sido atado con grillos yG4178
+- Mar_5:21pasando otra v Jesús en una barca a laG3825
+- Mar_7:3si muchas v no se lavan las manos, noG4435
+- Mar_8:25le puso otra v las manos sobre los ojosG3825
+- Mar_9:22muchas v le echa en el fuego y...el aguaG4178
+- Mar_10:30que no reciba cien v más ahora en esteG1542
+- Mar_11:13fue a ver si tal v hallaba en ella algo
+- Mar_14:30haya cantado dos v, me negarás tres vG1364
+- Mar_14:39otra v fue y oró, diciendo las mismasG3825
+- Mar_14:40otra v los halló durmiendo, porque losG3825
+- Mar_14:41vino la tercera v, y les dijo: Dormid
+- Mar_14:69viéndole otra v, comenzó a decir a losG3825
+- Mar_14:70él negó otra v...Y poco después, los queG3825
+- Mar_14:70que estaban allí dijeron otra v a PedroG3825
+- Mar_14:72y el gallo cantó la segunda v...Entonces
+- Mar_14:72gallo cante dos v, me negarás tres vG1364, [[G5151]]
+- Mar_15:4otra v le preguntó Pilato...diciendoG3825
+- Mar_15:12les dijo otra v: ¿Qué, pues, queréisG3825
+- Luc_5:33ayunan muchas v y hacen oraciones, yG4437
+- Luc_13:34¡cuántas v quise juntar a tus hijosG4212
+- Luc_14:12que ellos a su v te vuelvan a convidarG479
+- Luc_17:4si siete v al día pecare contra ti, yG2034
+- Luc_17:4siete v al día volviere a ti, diciendoG2034
+- Luc_18:12ayuno dos v a la semana, doy diezmosG1364
+- Luc_22:32una v vuelto, confirma a tus hermanos
+- Luc_22:34que tú niegues tres v que me conocesG5151
+- Luc_22:61que el gallo cante, me negarás tres vG5151
+- Luc_23:20habló otra v Pilato, queriendo soltarG3825
+- Luc_23:22dijo por tercera v: ¿Pues qué mal ha
+- Jua_1:35el siguiente día otra v estaba JuanG3825
+- Jua_3:4¿puede acaso entrar por segunda v en elG1208
+- Jua_4:3salió de Judea, y se fue otra v a GalileaG3825
+- Jua_4:46vino, pues, Jesús otra v a Caná de GalileaG3825
+- Jua_8:12otra v Jesús les habló, diciendo: Yo soyG3825
+- Jua_8:21otra v les dijo Jesús: Yo me voy, y meG3825
+- Jua_9:27he dicho...¿por qué lo queréis oír otra v?[[G3825]]
+- Jua_10:39procuraron otra v prenderle, pero él seG3825
+- Jua_11:7a los discípulos: Vamos a Judea otra vG3825
+- Jua_11:8judíos apedrearle, ¿y otra v vas allá?[[G3825]]
+- Jua_11:38Jesús, profundamente conmovido otra vG3825
+- Jua_12:28glorificado, y lo glorificaré otra vG3825
+- Jua_13:38gallo, sin que me hayas negado tres vG5151
+- Jua_14:3si me fuere...vendré otra v, y os tomaréG3825
+- Jua_16:28otra v dejo el mundo, y voy al PadreG3825
+- Jua_18:2muchas v Jesús se había reunido allí conG4178
+- Jua_18:27negó Pedro otra v; y en seguida cantóG3825
+- Jua_18:38salió otra v a los judíos, y les dijoG3825
+- Jua_19:4Pilato salió otra v, y les dijo: MiradG3825
+- Jua_19:9y entró otra v en el pretorio, y dijo aG3825
+- Jua_20:21Jesús les dijo otra v: Paz a vosotrosG3825
+- Jua_20:26estaban otra v sus discípulos dentro, yG3825
+- Jua_21:1se manifestó otra v a sus discípulosG3825
+- Jua_21:14esta era ya la tercera v que Jesús se
+- Jua_21:16decirle la segunda v: Simón, hijo deG3825
+- Jua_21:17le dijo la tercera v: Simón, hijo de
+- Jua_21:17que le dijese la tercera v: ¿Me amas?
+- Hec_5:39seáis tal v hallados luchando contra
+- Hec_7:12oyó...envió a nuestros padres la primera vG4412
+- Hec_7:45recibido a su v por nuestros padres, lo
+- Hec_10:15volvió la voz a él la segunda v: Lo queG3825
+- Hec_10:16se hizo tres v; y aquel lienzo volvió aG5151
+- Hec_11:9la voz me respondió del...por segunda v
+- Hec_11:10y esto se hizo tres v, y volvió todo aG5151
+- Hec_11:26les llamó cristianos por primera v en AntioquíaG4412
+- Hec_15:14contado cómo Dios visitó por primera vG4412
+- Hec_17:32ya te oiremos acerca de esto otra vG3825
+- Hec_18:21pero otra v volveré a vosotros, si DiosG3825
+- Hec_24:26muchas v lo hacía venir y hablaba conG4437
+- Hec_26:11y muchas v, castigándolos...los forcé aG4178
+- Hec_27:17y una v subido a bordo usaron de
+- Rom_1:13muchas v...he propuesto ir a vosotrosG4178
+- Rom_6:10al pecado murió una v por todas; mas enG2178
+- Rom_8:15de esclavitud para estar otra v en temorG3825
+- Rom_15:10otra v dice: Alegraos, gentiles, con suG3825
+- Rom_15:11otra v: Alabad al Señor...los gentilesG3825
+- Rom_15:12otra v dice Isaías: Estará la raíz deG3825
+- Rom_15:22me he visto impedido muchas v de ir a
+- Rom_15:24iré...una v que haya gozado con vosotrosG4412
+- 1Co_3:20v: El Señor conoce los pensamientosG3825
+- 1Co_11:25haced esto...las v que la bebiereis, enG3740
+- 1Co_11:26todas las v que comiereis este pan, yG3740
+- 1Co_15:6apareció a más de quinientos...a la v, deG2178
+- 2Co_1:16pasar...desde Macedonia venir otra vG3825
+- 2Co_2:1no ir otra v a vosotros con tristezaG3825
+- 2Co_3:1¿comenzamos otra v a recomendarnos aG3825
+- 2Co_4:17un cada v más excelente y eterno peso de
+- 2Co_5:12no nos recomendamos, pues, otra v...sinoG3825
+- 2Co_8:22comprobado repetidas v en muchas cosasG4178
+- 2Co_11:16otra v digo: Que nadie me tenga por locoG3825
+- 2Co_11:23azotes...en peligros de muerte muchas vG4178
+- 2Co_11:24cinco v he recibido cuarenta azotesG3999
+- 2Co_11:25tres v he sido azotado con varas; unaG5151
+- 2Co_11:25una v apedreado; tres v he...naufragioG5151
+- 2Co_11:26caminos muchas v; en peligros de ríosG5151
+- 2Co_12:8tres v he rogado al Señor, que lo quiteG5151
+- 2Co_12:14por tercera v estoy preparado para ir
+- 2Co_13:1esta es la tercera v que voy a vosotros
+- 2Co_13:2digo otra v como si estuviera presenteG4302
+- 2Co_13:2que si voy otra v, no seré indulgenteG3825
+- Gál_2:1pasados...subí otra v a JerusalénG3825
+- Gál_3:15un pacto...una v ratificado, nadie lo
+- Gál_5:1libres, y no estéis otra v sujetos al yugoG3825
+- Gál_5:3y otra v testifico a todo hombre que seG3825
+- Flp_1:26mi presencia otra v entre vosotrosG3825
+- Flp_3:18dije muchas v...son enemigos de la cruzG3740
+- Flp_4:4regocijaos en...Otra v digo: ¡Regocijaos![[G3825]]
+- Flp_4:16a Tesalónica me enviasteis una y otra vG1364
+- 1Ts_2:18quisimos ir...yo Pablo...una y otra vG1364
+- 2Ts_2:7que él a su v sea quitado de en medio
+- 2Ti_1:16porque muchas v me confortó, y no seG4178
+- Heb_1:1habiendo hablado muchas v y de muchas
+- Heb_1:5otra v: Yo seré a él padre, y él me seráG3825
+- Heb_1:6otra v, cuando introduce al Primogénito enG3825
+- Heb_2:13y otra v: Yo confiaré en él...Y de nuevoG3825
+- Heb_4:5y otra v aquí: No entrarán en mi reposoG3825
+- Heb_4:7otra v determina un día: Hoy, diciendoG3825
+- Heb_6:1adelante...no echando otra v el fundamentoG3825
+- Heb_6:4que una v fueron iluminados y gustaron deG530
+- Heb_6:6otra v renovados para arrepentimientoG3825
+- Heb_6:7bebe la lluvia que muchas v cae sobre ellaG4178
+- Heb_7:27porque esto lo hizo una v para siempreG2178
+- Heb_9:7sólo el sumo sacerdote una v al año, noG530
+- Heb_9:12entró una v para siempre en el LugarG2178
+- Heb_9:25no para ofrecerse muchas v, como entraG4178
+- Heb_9:26padecer muchas v desde el principio delG4178
+- Heb_9:26una v para siempre por el sacrificio deG530
+- Heb_9:27mueran una sola v, y después de esto elG530
+- Heb_9:28fue ofrecido una sola v para llevar losG530
+- Heb_9:28y aparecerá por segunda v, sin relaciónG530
+- Heb_10:2limpios una v, no tendrían...concienciaG530
+- Heb_10:10ofrenda del cuerpo de Jesucristo una vG2178
+- Heb_10:11y ofreciendo muchas v los...sacrificiosG4178
+- Heb_10:12habiendo ofrecido una v para siempre unG3391
+- Heb_10:30y otra v: El Señor juzgará a su puebloG3825
+- Heb_12:26aún una v, y conmoveré no solamente laG530
+- Heb_12:27frase: Aún una v, indica la remoción deG530
+- Stg_3:2todos ofendernos muchas v...Si alguno no
+- Stg_5:18otra v oró, y el cielo dio lluvia, y laG3825
+- 1Pe_3:18también Cristo padeció una sola v porG530
+- 1Pe_3:20cuando una v esperaba la paciencia deG530
+- 2Pe_2:20enredándose otra v en...son vencidosG3825
+- Jud_1:3por la fe que ha sido una v dada a losG530
+- Jud_1:5que una v lo habéis sabido, que el SeñorG530
+- Jud_1:12sin fruto, dos v muertos y desarraigadosG1364
+- Rev_10:8la voz...habló otra v conmigo, y dijoG3825
+- Rev_10:11necesario que profetices otra v sobreG3825
+- Rev_11:6para herir la tierra...cuantas v quieranG4178
+- Rev_19:3otra v, dijeron: ¡Aleluya! Y el humo deG1208

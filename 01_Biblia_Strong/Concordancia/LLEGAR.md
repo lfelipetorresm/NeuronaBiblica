@@ -1,0 +1,510 @@
+---
+tipo: concordancia
+palabra: LLEGAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LLEGAR
+
+- Gén_6:4llegaron los hijos de Dios a las hijasH935
+- Gén_10:8Nimrod, quien llegó a ser...poderoso enH2490
+- Gén_11:4una torre, cuya cúspide llegue al cielo
+- Gén_12:5salieron...y a tierra de Canaán llegaronH935
+- Gén_15:16no ha llegado a su colmo la maldad delH2008
+- Gén_16:2ruego, pues, que te llegues a mi siervaH935
+- Gén_16:4y él se llegó a Agar, la cual concibióH935
+- Gén_19:1llegaron...los dos ángeles a Sodoma a laH935
+- Gén_19:22nada podré hacer hasta que hayas llegadoH935
+- Gén_19:23el sol salía...cuando Lot llegó a ZoarH935
+- Gén_20:4Abimelec no se había llegado a ella, yH7126
+- Gén_20:13en todos los lugares adonde lleguemosH935
+- Gén_22:9y cuando llegaron al lugar que Dios leH935
+- Gén_24:10llegó a Mesopotamia, a la ciudad deH1980
+- Gén_24:41cuando hayas llegado a mi familia; yH935
+- Gén_24:42llegué...hoy a la fuente, y dije: JehováH935
+- Gén_27:41llegarán los días del luto de mi padreH7126
+- Gén_28:3hasta llegar a ser multitud de pueblos
+- Gén_28:11llegó a un cierto lugar, y durmió allíH6293
+- Gén_29:23tomó a Lea su hija...él se llegó a ellaH935
+- Gén_29:30y se llegó también a Raquel, y la amóH935
+- Gén_30:3llégate a ella, y dará a luz sobre misH935
+- Gén_30:4le dio a Bilha...y Jacob se llegó a ellaH935
+- Gén_30:16llégate a mí, porque a la verdad te heH935
+- Gén_33:3inclinó...siete veces, hasta que llegó aH5066
+- Gén_33:7después llegó José y Raquel, y tambiénH5066
+- Gén_33:14iré...hasta que llegue a mi señor a SeirH935
+- Gén_33:18Jacob llegó...a la ciudad de Siquem, queH935
+- Gén_35:6llegó Jacob a Luz, que está en tierraH935
+- Gén_35:16para llegar a Efrata, cuando dio a luzH935
+- Gén_35:22durmió con Bilha...llegó a saber Israel
+- Gén_37:5ellos llegaron a aborrecerle más todavía
+- Gén_37:14lo envió del valle...y llegó a SiquemH935
+- Gén_37:18lo vieron...antes que llegara cerca deH7126
+- Gén_37:23que cuando llegó José a sus hermanosH935
+- Gén_38:2vio allí Judá...tomó, y se llegó a ellaH935
+- Gén_38:8Onán: Llégate a la mujer de tu hermanoH935
+- Gén_38:9que cuando se llegaba a la mujer de suH935
+- Gén_38:16déjame...llegarme a ti...llegarte a mí?[[H935]]
+- Gén_38:18y él se los dio, y se llegó a ella, yH935
+- Gén_42:6y llegaron los hermanos de José, y seH935
+- Gén_43:21que cuando llegamos al mesón y abrimosH935
+- Gén_44:24cuando llegamos a mi padre tu siervoH5927
+- Gén_45:25llegaron a la tierra de Canaán a JacobH935
+- Gén_46:28Jacob...y llegaron a la tierra de GosénH935
+- Gén_47:9no han llegado a los días de los años deH5381
+- Gén_47:29llegaron los días de Israel para morirH7126
+- Gén_50:10y llegaron hasta la era de Atad, queH935
+- Éxo_3:1Moisés...llegó hasta Horeb, monte deH935
+- Éxo_3:13aquí que llego yo a los hijos de IsraelH935
+- Éxo_10:26no sabemos...hasta que lleguemos alláH935
+- Éxo_15:23llegaron a Mara, y no pudieron beberH935
+- Éxo_15:27llegaron a Elim...había doce fuentes deH935
+- Éxo_16:35hasta que llegaron a tierra habitadaH935
+- Éxo_16:35hasta que llegaron...tierra de CanaánH935
+- Éxo_19:1mismo día llegaron al desierto de SinaíH935
+- Éxo_19:2salido...y llegaron al desierto de SinaíH935
+- Éxo_22:23llegas a afligirles, y ellos clamaren
+- Éxo_27:5y llegará la rejilla hasta la mitad delH5704
+- Éxo_28:1harás llegar delante de ti a Aarón tuH7126
+- Éxo_32:19llegó al campamento, y vio el becerroH7126
+- Lev_4:14que llegue a ser conocido el pecadoH935
+- Lev_5:3después llegare a saberlo, será culpable
+- Lev_18:6ningún...se llegue a parienta próximaH7126
+- Lev_18:14no llegarás a su mujer; es mujer delH7126
+- Lev_18:19no llegarás a la mujer...mientras estéH7126
+- Lev_20:16si una mujer se llegare a algún animalH7126
+- Núm_10:21entretanto que ellos llegaban, losH935
+- Núm_13:23llegaron hasta el arroyo de Escol, yH935
+- Núm_13:27nosotros llegamos a la tierra a la cualH935
+- Núm_20:1llegaron los hijos de Israel, toda laH935
+- Núm_22:7fueron...llegaron a Balaam y le dijeronH935
+- Núm_34:11y descenderá el límite, y llegará a laH4229
+- Núm_36:1llegaron los príncipes de los padres deH7126
+- Deu_1:19salidos...llegamos hasta Cades-barneaH935
+- Deu_1:20habéis llegado al monte del amorreo, elH935
+- Deu_1:22de las ciudades adonde hemos de llegarH935
+- Deu_1:24y llegaron hasta el valle de Escol, yH935
+- Deu_1:31habéis andado, hasta llegar a este lugarH935
+- Deu_2:37tierra de los hijos de Amón no llegamosH7126
+- Deu_8:19mas si llegares a olvidarte de Jehová y
+- Deu_11:5hasta que habéis llegado a este lugarH935
+- Deu_13:16llegará a ser un montón de ruinas para
+- Deu_21:13después podrás llegarte a ella, y túH935
+- Deu_22:13haberse llegado a ella la aborreciereH935
+- Deu_22:14me llegué a ella, y no la hallé virgenH7126
+- Deu_25:5su cuñado se llegará a ella, y la tomaráH935
+- Deu_26:5y allí creció y llegó a ser una nación grandeH1471
+- Deu_29:7y llegasteis a este lugar, y salieronH935
+- Jos_2:22caminando ellos, llegaron al monteH935
+- Jos_8:11la gente...llegaron delante de la ciudadH935
+- Jos_9:17al tercer día llegaron a las ciudades deH935
+- Jos_15:1Judá...llegaba hasta la frontera de Edom
+- Jos_19:11su límite sube...y llega hasta DabesetH5927
+- Jos_19:22y llega...límite hasta Tabor, SahazimaH6293
+- Jos_19:26llega hasta Carmelo al occidente, y aH6293
+- Jos_19:27después da vuelta...y llega a ZabulónH6293
+- Jos_19:34el límite...llegaba hasta Zabulón al surH6293
+- Jos_22:10llegando a los límites del Jordán queH935
+- Jos_24:6y cuando llegaron al mar, los egipciosH935
+- Jue_3:3de Baal-hermón hasta llegar a HamatH935
+- Jue_6:4destruían...frutos...hasta llegar a GazaH935
+- Jue_7:13cuando llegó Gedeón...un hombre estabaH935
+- Jue_7:13un pan...llegó a la tienda, y la golpeóH935
+- Jue_7:17llegue al extremo del campamento, haréisH935
+- Jue_7:19llegaron...Gedeón y los cien hombres queH935
+- Jue_7:24tomad los vados...antes que ellos lleguenH935
+- Jue_9:52llegó hasta la puerta de la torre paraH935
+- Jue_11:16Israel subió de Egipto...llegó a CadesH935
+- Jue_11:33desde Aroer hasta llegar a Minit, 20H935
+- Jue_14:5y cuando llegaron a las viñas de TimnatH935
+- Jue_16:1vio allí a una mujer...se llegó a ellaH935
+- Jue_16:17le dijo: Nunca a mi cabeza llegó navajaH5297
+- Jue_17:8y llegando...al monte de Efraín, vino aH935
+- Jue_18:3llegando...dijeron: ¿Quién te ha traídoH5493
+- Jue_18:10llegaréis a un pueblo confiado y a unaH935
+- Jue_18:15cuando llegaron...a la casa del jovenH935
+- Jue_18:27llegaron a Lais, al pueblo tranquilo yH935
+- Jue_19:10se fue...llegó hasta enfrente de JebúsH935
+- Jue_19:29y llegando a su casa, tomó un cuchilloH935
+- Jue_20:4yo llegué a Gabaa de...con mi concubinaH935
+- Rut_1:2llegaron, pues, a los campos de MoabH935
+- Rut_1:19anduvieron...hasta que llegaron a BelénH935
+- Rut_1:22llegaron a Belén al comienzo de la siegaH935
+- Rut_2:3y llegando, espigó en el campo en pos deH935
+- Rut_3:16cuando llegó a donde estaba su suegraH935
+- Rut_4:13Booz...se llegó a ella, y Jehová le dioH935
+- 1Sa_1:4cuando llegaba el día en que ElcanaH1961
+- 1Sa_1:19Elcana se llegó a Ana su mujer, y JehováH3045
+- 1Sa_4:5cuando el arca del...llegó al campamentoH935
+- 1Sa_4:12un hombre de...llegó el mismo día a SiloH935
+- 1Sa_4:13cuando llegó...Elí estaba sentado en unaH935
+- 1Sa_4:13llegado, pues, aquel hombre a la ciudadH935
+- 1Sa_7:2desde el día que llegó el arca...pasaronH3427
+- 1Sa_7:10filisteos llegaron para pelear con...IsraelH5066
+- 1Sa_9:13no comerá hasta que él haya llegado, porH935
+- 1Sa_9:16por cuanto su clamor ha llegado hastaH935
+- 1Sa_10:3llegues a la encina de Tabor, te saldránH935
+- 1Sa_10:5después de...llegarás al collado de DiosH935
+- 1Sa_10:10cuando llegaron allá...el Espíritu de Dios vinoH935
+- 1Sa_10:13cesó de profetizar, y llegó al lugarH935
+- 1Sa_10:21e hizo llegar la tribu de Benjamín porH7126
+- 1Sa_11:4llegando los mensajeros a Gabaa de SaúlH935
+- 1Sa_14:9esperad hasta que lleguemos a vosotrosH5060
+- 1Sa_14:20llegaron hasta el lugar de la batallaH935
+- 1Sa_14:23día. Y llegó la batalla hasta Bet-avénH5674
+- 1Sa_14:25llegó a un bosque, donde había miel enH935
+- 1Sa_14:26no hubo quien hiciera llegar su mano aH935
+- 1Sa_15:7Saúl derrotó...Havila hasta llegar a ShurH935
+- 1Sa_16:4luego que él llegó a Belén, los ancianosH935
+- 1Sa_17:20y llegó...cuando el ejército salía enH935
+- 1Sa_17:22corrió al...y cuando llegó, preguntó porH935
+- 1Sa_17:52siguieron a los...hasta llegar al valleH935
+- 1Sa_18:19llegado el tiempo en que Merab hija de
+- 1Sa_19:22llegando al gran pozo que está en SecúH935
+- 1Sa_19:23profetizando hasta que llegó a Naiot enH935
+- 1Sa_20:24llegó la nueva luna, se sentó el rey aH4428
+- 1Sa_20:37llegando el muchacho adonde...la saetaH935
+- 1Sa_24:3cuando llegó a un redil de ovejas en elH935
+- 1Sa_25:9cuando llegaron los jóvenes enviados porH935
+- 1Sa_26:10hiriere, o su día llegue para que mueraH935
+- 1Sa_30:9y llegaron hasta el torrente de BesorH935
+- 1Sa_30:21llegó a la gente, les saludó con pazH5066
+- 1Sa_30:26David llegó a Siclag, envió del botínH935
+- 2Sa_1:2llegando a David, se postró en tierraH935
+- 2Sa_2:24puso el sol cuando llegaron al colladoH935
+- 2Sa_2:29cruzaron...Bitrón y llegaron a MahanaimH935
+- 2Sa_3:7te has llegado a la concubina de mi padre?[[H935]]
+- 2Sa_3:23luego que llegó Joab y todo el ejércitoH935
+- 2Sa_4:4llegó de Jezreel la noticia de la muerte de Saúl yH935
+- 2Sa_5:25hirió...desde Geba hasta llegar a GezerH935
+- 2Sa_6:6cuando llegaron a la era de Nacón, UzaH935
+- 2Sa_6:16cuando el arca de...llegó a la ciudad deH935
+- 2Sa_10:2mas llegados los siervos de David a laH935
+- 2Sa_11:22llegando, contó a David todo aquelloH935
+- 2Sa_12:24llegándose a ella durmió con ella; y ellaH935
+- 2Sa_13:30llegó a David el rumor...dado muerte aH935
+- 2Sa_15:32David llegó a...para adorar allí a Dios
+- 2Sa_16:14y el rey y todo el...llegaron fatigadosH935
+- 2Sa_16:21llégate a las concubinas de tu padreH935
+- 2Sa_16:22se llegó Absalón a las concubinas deH935
+- 2Sa_17:18los dos...llegaron a casa de un hombreH935
+- 2Sa_17:20llegando luego los criados de AbsalónH935
+- 2Sa_17:24David llegó a Mahanaim; y Absalón pasóH935
+- 2Sa_17:25había llegado a Abigail hija de NahasH935
+- 2Sa_17:27que David llegó a Mahanaim, Sobi hijoH935
+- 2Sa_20:3que llegó David a su casa en JerusalénH935
+- 2Sa_20:3pero nunca más se llegó a ellas, sinoH935
+- 2Sa_21:17Abisai...llegó en su ayuda, e hirió al
+- 2Sa_22:7él oyó...y mi clamor llegó a sus oídos
+- 2Sa_23:19y llegó a ser su jefe; mas no igualó aH935
+- 1Re_2:1llegaron los días en que David habíaH7126
+- 1Re_4:34había llegado la fama de su sabiduríaH935
+- 1Re_10:27la plata llegara a ser como piedras, y
+- 1Re_11:2no os llegaréis a...ni ellas se llegaránH935
+- 1Re_16:11luego que llegó a reinar...mató a toda
+- 1Re_17:10cuando llegó...he aquí una mujer viudaH935
+- 1Re_18:36cuando llegó la hora de ofrecerse el
+- 1Re_18:46Elías...corrió...hasta llegar a JezreelH935
+- 1Re_19:15llegarás, y ungirás a Hazael por reyH935
+- 1Re_20:39y si llegare a huir, tu vida será por
+- 1Re_20:43el rey de...se fue...y llegó a SamariaH935
+- 1Re_22:28si llegas a volver en paz, Jehová no
+- 2Re_3:24pero cuando llegaron al campamentoH935
+- 2Re_4:27llegó a donde estaba el varón de DiosH935
+- 2Re_5:6cuando lleguen a ti estas cartas, sabeH935
+- 2Re_5:24así que llegó a un lugar secreto, él loH935
+- 2Re_6:4cuando llegaron al Jordán, cortaron laH935
+- 2Re_6:20cuando llegaron a Samaria, dijo EliseoH1961
+- 2Re_7:5llegando a la entrada...había allí nadieH935
+- 2Re_7:8llegaron a la entrada del campamentoH935
+- 2Re_8:9y llegando se puso delante de él, y dijoH935
+- 2Re_9:2llegues allá, verás allí a Jehú hijo deH935
+- 2Re_9:18mensajero llegó hasta ellos, y no vuelveH935
+- 2Re_9:19llegando a ellos, dijo: El rey dice asíH935
+- 2Re_9:20también éste llegó a ellos y no vuelveH935
+- 2Re_10:2que lleguen estas cartas a vosotros losH935
+- 2Re_10:7las cartas llegaron a ellos, tomaron aH935
+- 2Re_10:12llegó a...casa de esquileo de pastoresH1980
+- 2Re_10:17luego que Jehú hubo llegado a SamariaH935
+- 2Re_13:21cuando llegó...los huesos de Eliseo, revivió
+- 1Cr_1:10Nimrod; este llegó a ser poderosoH2490
+- 1Cr_4:39llegaron hasta la entrada de Gedor hastaH1980
+- 1Cr_5:2que Judá llegó a ser el mayor sobre susH935
+- 1Cr_7:23él se llegó a su mujer, y ella concibióH935
+- 1Cr_13:9cuando llegaron a la era de Quidón, UzaH935
+- 1Cr_15:29cuando el arca...llegó a la ciudad deH935
+- 1Cr_19:2cuando llegaron los siervos de David aH935
+- 1Cr_19:5cuando llegó a David la noticia sobre
+- 2Cr_3:11-12una ala...llegaba hasta la paredH5060
+- 2Cr_12:4tomó...de Judá, y llegó hasta JerusalénH935
+- 2Cr_21:12le llegó una carta del profeta ElíasH935
+- 2Cr_23:20llegaron a la mitad de la puerta mayorH935
+- 2Cr_28:9con ira que ha llegado hasta el cieloH935
+- 2Cr_30:27su oración llegó a la habitación de suH935
+- Esd_3:1cuando llegó el mes séptimo...se juntóH5060
+- Esd_7:8y llegó a Jerusalén en el mes quinto delH935
+- Esd_7:9y al primero del mes...llegó a JerusalénH935
+- Esd_8:32llegamos a Jerusalén, y reposamos allíH935
+- Neh_2:7franqueen el paso hasta que llegue aH935
+- Neh_2:11llegué...a Jerusalén, y después de estarH935
+- Neh_12:40llegaron...los dos coros a la casa deH5975
+- Est_1:17llegará a oídos de todas las mujeresH3318
+- Est_2:12cuando llegaba el tiempo de cada una deH5060
+- Est_2:15le llegó a Ester...el tiempo de venir alH5060
+- Est_4:3decreto llegaba, tenían los judíos granH5060
+- Est_4:14si para esta hora has llegado al reino?[[H5060]]
+- Est_6:14los eunucos del rey llegaron apresuradosH935
+- Est_8:17donde llegó el mandamiento del rey, losH5060
+- Job_3:21que esperan la muerte, y ella no llega
+- Job_4:5y cuando ha llegado hasta ti, te turbasH935
+- Job_11:7Dios? ¿llegarás tú a la perfección delH4672
+- Job_37:11regando también llega a disipar la densa
+- Job_38:11aquí llegarás, y no pasarás adelanteH935
+- Sal_18:6mi clamor llegó delante...a sus oídosH935
+- Sal_32:6en la inundación...no llegarán éstas a tiH5060
+- Sal_36:5hasta los cielos llega tu misericordia
+- Sal 51 tít.después que se llegó a Betsabé, vinoH935
+- Sal_55:23los...no llegarán a la mitad de sus díasH2673
+- Sal_79:11llegue delante de ti el gemido de losH935
+- Sal_88:2llegue mi oración a tu presencia...oídoH935
+- Sal_91:7caerán a tu lado mil...a ti no llegaráH5066
+- Sal_95:2lleguemos ante su presencia con alabanzaH6923
+- Sal_102:1Jehová, escucha...llegue a ti mi clamorH935
+- Sal_102:13es tiempo...porque el plazo ha llegadoH935
+- Sal_107:18y llegaron hasta las puertas de laH935
+- Sal_119:169llegue mi clamor delante de ti, ohH7126
+- Sal_119:170llegue mi oración delante de tiH935
+- Pro_1:27calamidad llegare como un torbellinoH935
+- Pro_2:19los que a ella se lleguen, no volveránH935
+- Pro_6:29así es el que se llega a la mujer de suH935
+- Ecl_12:1lleguen los años de los cuales digasH935
+- Isa_1:23ni llega a ellos la causa de la viudaH935
+- Isa_5:9llegado a mis oídos de parte de Jehová
+- Isa_7:25no llegarán allá por el temor de losH935
+- Isa_8:3llegué a la profetisa, la cual concibióH7126
+- Isa_8:8pasará...y llegará hasta la garganta; yH5060
+- Isa_13:22cercano a llegar está su tiempo, y susH935
+- Isa_14:10te debilitaste...y llegaste a ser como nosotros?[[H2470]]
+- Isa_15:8hasta Eglaim llegó su alarido, y hasta
+- Isa_16:8habían llegado hasta Jazer, y se habíanH5060
+- Isa_23:5cuando llegue la noticia...tendrán dolor
+- Isa_28:15turbión del azote, no llegará a nosotrosH935
+- Isa_30:4cuando...sus embajadores lleguen a HanesH5060
+- Isa_30:28cual torrente...llegará hasta el cuelloH2673
+- Isa_37:3los hijos han llegado hasta el punto deH935
+- Isa_37:24llegaré hasta sus...elevadas cumbresH5927
+- Isa_57:3mas vosotros llegaos acá, hijos de laH7126
+- Isa_63:4y el año de mis redimidos ha llegadoH935
+- Jer_5:31¿qué, pues, haréis cuando llegue el
+- Jer_25:31llegará el estruendo hasta el fin deH935
+- Jer_30:21le haré llegar cerca, y él se acercaráH7126
+- Jer_36:7quizá llegue la oración de ellos a laH5307
+- Jer_37:5y llegó noticia de ello a oídos de losH8085
+- Jer_41:7llegaron...ciudad, Ismael...los degollóH935
+- Jer_43:7y entraron en...y llegaron hasta TafnesH935
+- Jer_48:32tus sarmientos...llegaron hasta el marH5060
+- Jer_48:34el clamor de Hesbón llega hasta Eleale
+- Jer_51:9ha llegado hasta el cielo su juicio, yH5060
+- Jer_51:61cuando llegues a Babilonia, y veas yH935
+- Jer_52:3llegó a echarlos de su presencia
+- Lam_2:5llegó a ser como enemigo, destruyó a
+- Lam_4:18se cumplieron...porque llegó nuestro finH935
+- Lam_4:21aun hasta ti llegará la copa...vomitarásH5674
+- Eze_9:1los verdugos de la ciudad han llegadoH7126
+- Eze_11:16por...santuario en las...adonde lleguenH935
+- Eze_12:16cuenten...las naciones adonde llegaronH935
+- Eze_16:7llegaste a ser muy hermosa; tus pechosH935
+- Eze_16:13prosperaste hasta llegar a reinar
+- Eze_16:33se llegasen a ti en tus fornicacionesH935
+- Eze_18:6no...ni se llegare a la mujer monstruosaH7126
+- Eze_21:7por una noticia que cuando llegue haráH935
+- Eze_21:25impío príncipe de...cuyo día ha llegadoH935
+- Eze_22:4día, y has llegado al término de tus añosH935
+- Eze_23:4Aholiba; las cuales llegaron a ser mías
+- Eze_23:17se llegaron a ella los...de BabiloniaH935
+- Eze_27:25llegaste a ser opulenta...en gran manera
+- Eze_33:22sobre mí...antes de llegar el fugitivoH935
+- Eze_36:20cuando llegaron a las naciones adondeH935
+- Eze_36:22entre...naciones adonde habéis llegadoH935
+- Dan_4:11su copa llegaba hasta el cielo, y seH4291
+- Dan_4:20y cuya copa llegaba hasta el cielo, yH4291
+- Dan_4:22creció...y ha llegado hasta el cielo, yH4291
+- Dan_6:24aún no habían llegado al fondo del fosoH4291
+- Dan_7:22llegó el tiempo, y...recibieron el reinoH4291
+- Dan_8:7y lo vi que llegó junto al carnero, y seH5060
+- Dan_8:23cuando...transgresores lleguen al colmo
+- Dan_11:27porque el plazo aún no habrá llegado
+- Dan_11:45llegará a su fin, y no tendrá quien leH935
+- Dan_12:12el que espere, y llegue a 1:335 díasH5060
+- Ose_9:9llegaron hasta lo más...en su corrupción
+- Ose_9:12y si llegaren a grandes sus hijos, los
+- Amó_2:7hijo y su padre se llegan a la mismaH1980
+- Abd_1:7hasta los confines te hicieron llegarH7971
+- Jon_2:7mi oración llegó hasta ti en tu santoH935
+- Jon_3:6llegó la noticia hasta el rey de NíniveH5060
+- Miq_1:9llaga es dolorosa, y llegó hasta JudáH935
+- Miq_1:9llegó hasta la puerta de mi pueblo, hastaH5060
+- Miq_2:1mal, y cuando llega la mañana lo ejecutanH216
+- Miq_4:10saldrás de...y llegarás hasta BabiloniaH935
+- Hag_1:2no ha llegado aún el tiempo...la casaH935
+- Zac_14:5el valle...llegará hasta AzalH5060
+- Mat_2:9llegando, se detuvo sobre donde estabaG2064
+- Mat_8:16y cuando llegó la noche, trajeron a élG1096
+- Mat_8:28llegó a la otra orilla, a la tierra deG2064
+- Mat_9:28y llegado a la casa, vinieron a él losG2064
+- Mat_12:28ha llegado a vosotros el reino de DiosG5348
+- Mat_12:44y cuando llega, la halla desocupada yG2064
+- Mat_14:12llegaron sus discípulos, y tomaron elG4334
+- Mat_14:23y cuando llegó la noche, estaba allíG1096
+- Mat_16:5llegando sus discípulos al otro lado, seG2064
+- Mat_17:14cuando llegaron al gentío, vino a él unG2064
+- Mat_17:24cuando llegaron a Capernaum, vinieronG2064
+- Mat_20:8cuando llegó la noche, el señor de laG1096
+- Mat_25:20llegando el que había recibido cincoG4334
+- Mat_25:22, Mat_25:24llegando...el que había recibidoG4334
+- Mat_26:20llegó la noche, se sentó a la mesa conG1096
+- Mat_26:36llegó Jesús con ellos a un lugar que seG2064
+- Mat_26:45llegado la hora, y el Hijo del HombreG2064
+- Mat_27:33y cuando llegaron a un lugar llamadoG2064
+- Mat_27:57cuando llegó la noche, vino un hombreG1096
+- Mat_28:2un ángel...llegando, removió la piedraG4334
+- Mar_1:32cuando llegó la noche...trajeron todos
+- Mar_3:26Satanás...se divide...ha llegado su finG2192
+- Mar_4:29mete la hoz, porque la siega ha llegadoG3936
+- Mar_4:35cuando llegó la noche...dijo: Pasemos alG1096
+- Mar_6:2y llegado el día de reposo, comenzó aG1096
+- Mar_6:33fueron allá...llegaron antes que ellosG4281
+- Mar_7:30cuando llegó ella a su casa, halló queG565
+- Mar_9:14llegó a donde estaban los discípulos, vioG2064
+- Mar_9:33llegó a Capernaum; y cuando estuvo enG2064
+- Mar_11:13cuando llegó a...nada halló sino hojasG2064
+- Mar_11:19al llegar la noche, Jesús salió de laG1096
+- Mar_14:17y cuando llegó la noche, vino él conG2064
+- Mar_15:42llegó la noche...es decir, la vísperaG1096
+- Luc_1:44porque tan pronto como llegó la vozG1096
+- Luc_4:42y llegando adonde estaba, le deteníanG2064
+- Luc_6:16Iscariote, que llegó a ser el traidor
+- Luc_7:12cuando llegó cerca de la puerta de laG1448
+- Luc_8:19no podían llegar hasta él por causa deG4940
+- Luc_8:27al llegar él a tierra, vino...un hombreG1831
+- Luc_10:32llegando cerca de...y viéndole, pasó deG2064
+- Luc_11:20el reino de Dios ha llegado a vosotrosG5348
+- Luc_11:25llega, la halla barrida y adornadaG2064
+- Luc_12:33ladrón no llega, ni polilla destruyeG1448
+- Luc_12:36para que cuando llegue y llame, le abranG2064
+- Luc_13:31día llegaron unos fariseos, diciéndoleG4334
+- Luc_13:35llegue el tiempo en que digáis: BenditoG2240
+- Luc_15:6y al llegar a casa, reúne a sus amigosG2064
+- Luc_15:25cuando vino, y llegó cerca de la casaG2064
+- Luc_18:40traerle...y cuando llegó, le preguntóG1448
+- Luc_19:5Jesús llegó...mirando hacia arriba, le vioG2064
+- Luc_19:29llegando cerca de Betfagé y de BetaniaG1448
+- Luc_19:37cuando llegaban ya cerca de la bajadaG1448
+- Luc_19:41cuando llegó cerca de la ciudad, alG1448
+- Luc_20:1llegaron los principales sacerdotes yG2186
+- Luc_20:27llegando...de los saduceos, los cualesG4334
+- Luc_21:20sabed...que su destrucción ha llegadoG1448
+- Luc_22:7llegó el día de los panes sin levaduraG2064
+- Luc_22:40cuando llegó a aquel lugar, les dijoG1096
+- Luc_23:33y cuando llegaron al lugar llamado deG565
+- Luc_24:28llegaron a la aldea adonde iban, y élG1448
+- Jua_4:35cuatro meses para que llegue la siegaG2064
+- Jua_4:47oyó que Jesús había llegado de Judea aG2240
+- Jua_6:21en la barca, la cual llegó...a la tierraG1096
+- Jua_6:25le dijeron: Rabí, ¿cuándo llegaste acá?[[G1096]]
+- Jua_7:6les dijo: Mi tiempo aún no ha llegadoG3918
+- Jua_7:30; Jua_8:20porque aún no había llegado su horaG2064
+- Jua_11:32cuando llegó a donde estaba Jesús, alG2064
+- Jua_12:23ha llegado la hora para que el Hijo delG2064
+- Jua_12:27mas para esto he llegado a esta horaG2064
+- Jua_13:1sabiendo...que su hora había llegado paraG2064
+- Jua_16:4que cuando llegue la hora, os acordéisG2064
+- Jua_16:21tiene dolor, porque ha llegado su horaG2064
+- Jua_17:1Padre, la hora ha llegado; glorifica aG2064
+- Jua_19:33cuando llegaron a Jesús, como le vieronG2064
+- Jua_20:4corrió más...y llegó primero al sepulcroG2064
+- Jua_20:6llegó Simón Pedro tras él, y entró enG2064
+- Jua_20:19llegó la noche de aquel mismo día, el
+- Jua_20:26llegó Jesús...las puertas cerradas, y seG2064
+- Hec_2:1cuando llegó el día de PentecostésG4845
+- Hec_5:22cuando llegaron los alguaciles, no losG3854
+- Hec_8:36llegaron a cierta agua, y dijo el eunucoG2064
+- Hec_8:40el evangelio...hasta que llegó a CesareaG2064
+- Hec_9:3al llegar cerca de Damasco...resplandorG1096
+- Hec_9:24pero sus asechanzas llegaron a...de SauloG1097
+- Hec_9:26llegó a Jerusalén, trataba de juntarseG3854
+- Hec_9:39y cuando llegó: le llevaron a la salaG3854
+- Hec_10:17preguntando por...llegaron a la puertaG2186
+- Hec_10:32envía...y cuando llegue, él te hablaráG3854
+- Hec_11:11luego llegaron tres hombres a la casaG2186
+- Hec_11:22llegó la noticia...oídos de la iglesiaG191
+- Hec_11:23cuando llegó, y vio la gracia de DiosG3854
+- Hec_12:10llegaron a la puerta de hierro que dabaG2064
+- Hec_12:12llegó a casa de María la madre de JuanG2064
+- Hec_13:5y llegados a Salamina, anunciaban laG1096
+- Hec_13:14ellos...llegaron a Antioquía de PisidiaG3854
+- Hec_13:51sacudiendo...el polvo...llegaron a IconioG2064
+- Hec_14:27habiendo llegado...iglesia, refirieronG3854
+- Hec_15:4llegados a Jerusalén, fueron recibidosG3854
+- Hec_15:25habiendo llegado a un acuerdo, elegirG1096
+- Hec_16:1después llegó a Derbe y a Listra; y heG2658
+- Hec_16:7cuando llegaron a Misia, intentaron irG2064
+- Hec_17:1llegaron a Tesalónica, donde había unaG2064
+- Hec_17:10ellos, habiendo llegado, entraron en laG3854
+- Hec_18:19y llegó a Efeso, y los dejó allí: yG2658
+- Hec_18:24llegó entonces a Efeso un judío...ApolosG2658
+- Hec_18:27llegado él allá, fue de gran provechoG3854
+- Hec_20:2después...de exhortarles...llegó a GreciaG2064
+- Hec_20:15navegando de...llegamos delante de QuíoG2064
+- Hec_20:15al día siguiente llegamos a MiletoG2658
+- Hec_21:17llegamos a Jerusalén, los hermanos nosG1096
+- Hec_21:33llegando el tribuno, le prendió y leG1448
+- Hec_21:35al llegar a las gradas, aconteció queG1096
+- Hec_22:6que yendo yo, al llegar cerca de DamascoG1448
+- Hec_22:11llevado de la mano...llegué a DamascoG2064
+- Hec_23:15listos para matarle antes que llegueG1448
+- Hec_23:33cuando aquéllos llegaron a Cesarea, yG1525
+- Hec_25:1llegado...Festo a la provincia, subió deG1910
+- Hec_25:7éste llegó, lo rodearon los judíos queG3854
+- Hec_27:3al otro día llegamos a Sidón; y JulioG2609
+- Hec_27:7y llegando a duras penas frente a GnidoG1096
+- Hec_27:8llegamos a un lugar que llaman BuenosG2064
+- Hec_28:12y llegados a Siracusa, estuvimos allíG2609
+- Hec_28:13de allí, costeando...llegamos a RegioG2658
+- Hec_28:13sur, llegamos al segundo día a PuteoliG2064
+- Hec_28:16cuando llegamos a Roma, el centuriónG2064
+- Rom_4:18él creyó en...para llegar a ser padreG1096
+- Rom_7:13el pecado llegase a ser sobremaneraG1096
+- Rom_15:29llegaré con abundancia de la bendiciónG2064
+- Rom_15:32llegue a vosotros por la voluntad deG2064
+- 1Co_3:18hágase ignorante...llegue a ser sabioG1096
+- 1Co_4:9pues hemos llegado a ser espectáculo alG1096
+- 1Co_14:36de Dios, o solo a vosotros ha llegado?[[G1831]]
+- 1Co_16:2para que cuando yo llegue no se recojanG2064
+- 1Co_16:3llegado, a quienes hubiereis designadoG3854
+- 1Co_16:10si llega Timoteo, mirad que esté conG2064
+- 2Co_2:3que cuando llegue no tenga tristezaG2064
+- 2Co_2:12cuando llegué a Troas para predicar elG2064
+- 2Co_10:13para llegar también hasta vosotrosG2185
+- 2Co_10:14como si no llegásemos hasta vosotrosG2185
+- 2Co_10:14los primeros en llegar hasta vosotrosG5348
+- 2Co_12:20temo que cuando llegue, no os halleG2064
+- Efe_4:13todos lleguemos a la unidad de la feG2658
+- Flp_3:10llegando a ser semejante a él en su
+- Flp_3:11llegase a la resurrección de entre losG2658
+- Flp_3:16en aquello a que hemos llegado, sigamosG5348
+- Col_1:6ha llegado hasta vosotros, así comoG3918
+- 1Ts_1:5pues nuestro evangelio no llegó aG1096
+- 1Ts_2:8habéis llegado a sernos muy queridosG1096
+- 2Ti_3:7nunca pueden llegar al conocimientoG2064
+- Heb_5:12habéis llegado a ser tales que tenéisG1096
+- Heb_7:23otros sacerdotes llegaron a ser muchosG1526
+- Heb_10:33llegasteis a ser compañeros de los queG1096
+- 2Pe_1:4llegaseis a ser participantes de laG1096
+- Rev_1:13de una ropa que llegaba hasta los pies
+- Rev_6:17porque el gran día de su ira ha llegadoG2064
+- Rev_14:7porque la hora de su juicio ha llegadoG2064
+- Rev_14:15la hora de segar ha llegado, pues laG2064
+- Rev_18:5sus pecados han llegado hasta el cieloG190
+- Rev_19:7han llegado las bodas del Cordero, y suG2064

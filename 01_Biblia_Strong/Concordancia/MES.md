@@ -1,0 +1,261 @@
+---
+tipo: concordancia
+palabra: MES
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MES
+
+- Gén_7:11en el m segundo, a los 17 días del mH2320
+- Gén_8:4reposó el arca en el m séptimo, a los 17H2320
+- Gén_8:4los 17 días del m, sobre los montes deH2320
+- Gén_8:5hasta el m décimo...al primero del m, seH2320
+- Gén_8:13en el m Primero, el día primero del mH2320
+- Gén_8:14en el m segundo, a los 27 días del mH2320
+- Gén_29:14Labán le...Y estuvo con él durante un inH2320
+- Gén_38:24al cabo de unos tres m fue dado avisoH2320
+- Éxo_2:2era hermoso, le tuvo escondido tres mH3391
+- Éxo_12:2este m os será principio de los m; paraH2320
+- Éxo_12:2para vosotros será...el primero de los mH2320
+- Éxo_12:3en el diez de este m tómese cada uno unH2320
+- Éxo_12:6lo guardaréis hasta el día 14 de este mH2320
+- Éxo_12:18en el m primero comeréis los panes sinH2320
+- Éxo_12:18el día 14 del m...hasta el 21 del m porH2320
+- Éxo_13:4vosotros salís hoy en el m de AbibH2320
+- Éxo_13:5miel, harás esta celebración en este mH2320
+- Éxo_16:1quince días del segundo m después queH2320
+- Éxo_19:1el m tercero de la salida de los hijosH2320
+- Éxo_23:15te mandé, en el tiempo del m de AbibH2320
+- Éxo_34:18m de Abib...en el m de Abib saliste deH2320
+- Éxo_40:2primer día del m primero harás levantarH2320
+- Éxo_40:17en el día primero del primer m, en elH2320
+- Lev_16:29el m séptimo, a los diez días del mH2320
+- Lev_23:5en el m primero, a los 14 del m...pascuaH2320
+- Lev_23:6y a los 15 días de este m es la fiestaH2320
+- Lev_23:24el m séptimo, al primero del m...reposoH2320
+- Lev_23:27los diez días de este m séptimo seráH2320
+- Lev_23:32comenzando a los nueve días del m enH2320
+- Lev_23:34a los 15 días de este m séptimo será laH2320
+- Lev_23:39a los quince días del m séptimo, cuandoH2320
+- Lev_23:41haréis fiesta...el m séptimo la haréisH2320
+- Lev_25:9tocar...el m séptimo a los 10 días del mH2320
+- Lev_27:6y si fuere de un m hasta cinco añosH2320
+- Núm_1:1habló...en el día primero del m segundoH2320
+- Núm_1:18reunieron...el día primero del m segundoH2320
+- Núm_3:15contarás...los varones de un m arribaH2320
+- Núm_3:22, Núm_3:28, Núm_3:34, Núm_3:39los varones de un m arribaH2320
+- Núm_3:40, Núm_3:43primogénitos varones...de un m arribaH2320
+- Núm_9:1habló Jehová...en el m primero, diciendoH2320
+- Núm_9:3el decimocuarto día de este m, entre lasH2320
+- Núm_9:5celebraron la pascua en el m primero, aH2320
+- Núm_9:5a los catorce días del m entre las dosH2320
+- Núm_9:11el m segundo, a los catorce días del mH2320
+- Núm_9:22o un m, o...mientras la nube se deteníaH2320
+- Núm_10:10en los principios de...m, tocaréis lasH2320
+- Núm_10:11en el m segundo, a los 20 días del mH2320
+- Núm_11:20sino hasta un m entero, hasta que osH2320
+- Núm_11:21les daré carne, y comerán un m entero![[H2320]]
+- Núm_18:16de un m harás efectuar el rescate deH2320
+- Núm_20:1llegaron...en el m primero, y acampó elH2320
+- Núm_26:62levitas, todos varones de un m arribaH2320
+- Núm_28:11al comienzo de vuestros m ofreceréisH2320
+- Núm_28:14holocausto de cada m por todos los mH2320
+- Núm_28:16en el m primero, a los 14 días del noH2320
+- Núm_28:17los quince días de este m, la fiestaH2320
+- Núm_29:1séptimo m, el primero del m...convocaciónH2320
+- Núm_29:6del holocausto del m y su ofrenda, y elH2320
+- Núm_29:7en el diez de este m séptimo tendréisH2320
+- Núm_29:12a los 15 días del m...santa convocaciónH2320
+- Núm_33:3de Ramesés salieron en el m primero, aH2320
+- Núm_33:3los 15 días del m primero; el segundoH2320
+- Núm_33:38en el m quinto, en el primero del mH2320
+- Deu_1:3en el m undécimo, el primero del mH2320
+- Deu_16:1guardarás el m de Abib, y harás pascuaH2320
+- Deu_16:1el m de Abib te sacó Jehová...de EgiptoH2320
+- Deu_21:13y llorará a...y a su madre un m enteroH3391
+- Jos_4:19del Jordán el día diez del m primeroH2320
+- Jos_5:10celebraron la pascua...los 14 días del mH2320
+- Jue_11:37déjame por dos m que vaya y...lloreH2320
+- Jue_11:38y la dejó por dos m. Y ella fue conH2320
+- Jue_11:39pasados los dos m volvió a su padreH2320
+- Jue_19:2y su concubina...se fue de él...cuatro mH2320
+- Jue_20:47estuvieron en...peña de Rimón cuatro mH2320
+- 1Sa_6:1el arca de Jehová en...filisteos 7 mH2320
+- 1Sa_27:7David habitó en la, un año y cuatro mH2320
+- 2Sa_2:11David reinó en...siete años y seis mH2320
+- 2Sa_5:5en Hebrón reinó sobre Judá 7 años y 6 mH2320
+- 2Sa_6:11estuvo el arca de Jehová en casa...tres mH2320
+- 2Sa_24:8volvieron a...al cabo de 9 m y 20 díasH2320
+- 2Sa_24:13huyas tres m delante de tus enemigosH2320
+- 1Re_4:7estaba obligado a abastecerlo...un mH2320
+- 1Re_4:27cada uno un m, y hacían que nada faltaseH2320
+- 1Re_5:14los cuales enviaba...cada m por turnoH2320
+- 1Re_5:14un m en el Líbano, y dos m en sus casasH2320
+- 1Re_6:1m de Zif, que es el m segundo, comenzóH2320
+- 1Re_6:37el m de Zif, se echaron los cimientosH3391
+- 1Re_6:38y en el m de Bul, que es el m octavoH3391, [[H2320]]
+- 1Re_8:2en el m de Etanim, que es el m séptimoH3391
+- 1Re_11:16porque seis m habitó allí Joab...EdomH2320
+- 1Re_12:32fiesta solemne en el m octavo, a losH2320
+- 1Re_12:32los 15 días del m, conforme a la fiestaH2320
+- 1Re_12:33sacrificó...a los 15 días del m octavoH2320
+- 1Re_12:33m que él había inventado de su propioH2320
+- 2Re_15:8en el año 38...reinó Zacarías...seis mH2320
+- 2Re_15:13Salum hijo de...reinó un m en SamariaH3391
+- 2Re_23:31era Joacaz...reinó tres m en JerusalénH2320
+- 2Re_24:8era Joaquín...y reinó en Jerusalén tres mH2320
+- 2Re_25:1en el m décimo, a los diez días del mH2320
+- 2Re_25:3los nueve días del cuarto m prevalecióH2320
+- 2Re_25:8en el m quinto, a los siete días del mH2320
+- 2Re_25:25en el m séptimo vino Ismael hijo deH2320
+- 2Re_25:27en el m duodécimo, a los 27 días del mH2320
+- 1Cr_3:4Hebrón, donde reinó 7 años y seis mH2320
+- 1Cr_12:15estos pasaron el Jordán en el m primeroH2320
+- 1Cr_13:14el arca de Dios estuvo...en su casa, 3 mH2320
+- 1Cr_21:12o por tres m ser derrotado delante deH2320
+- 1Cr_27:1y salían cada m durante todo el añoH2320
+- 1Cr_27:2sobre la primera división del primer mH2320
+- 1Cr_27:3fue jefe de...las compañías del primer mH2320
+- 1Cr_27:4sobre la división del segundo m estabaH2320
+- 1Cr_27:5el jefe de...para el tercer m era BenaíaH2320
+- 1Cr_27:7cuarto jefe para el cuarto m era AsaelH2320
+- 1Cr_27:8quinto jefe para el quinto m era SamhutH2320
+- 1Cr_27:9el sexto para el sexto m era Ira hijoH2320
+- 1Cr_27:10para el séptimo m era Heles pelonitaH2320
+- 1Cr_27:11el octavo para el octavo m era SibecaiH2320
+- 1Cr_27:12el noveno para el noveno m era AbiezerH2320
+- 1Cr_27:13el décimo para el décimo m era MahariH2320
+- 1Cr_27:14el undécimo m era Benaía piratonitaH2320
+- 1Cr_27:15el duodécimo m era Heldai netofatitaH2320
+- 2Cr_3:2el m segundo, a los dos días del mH2320
+- 2Cr_5:3para la fiesta solemne del m séptimoH2320
+- 2Cr_7:10y a los 23 días del m séptimo envió alH2320
+- 2Cr_15:10se reunieron...en el m tercero del añoH2320
+- 2Cr_29:3en el m primero, abrió las puertas deH2320
+- 2Cr_29:17a santificarse el día primero del mH2320
+- 2Cr_29:17a los 8 días del...m vinieron al pórticoH2320
+- 2Cr_29:17en el día 16 del m primero terminaronH2320
+- 2Cr_30:2para celebrar la pascua en el m segundoH2320
+- 2Cr_30:13fiesta solemne de los panes...m segundoH2320
+- 2Cr_30:15sacrificaron la...a los 14 días del mH2320
+- 2Cr_31:7el m tercero comenzaron...el m séptimoH2320
+- 2Cr_35:1sacrificaron la pascua...14 días del mH2320
+- 2Cr_36:2era Joacaz...ares m reinó en JerusalénH2320
+- 2Cr_36:9reinó tres m y diez días en JerusalénH2320
+- Esd_3:1cuando llegó el m séptimo...se juntóH2320
+- Esd_3:6el primer día del m séptimo comenzaronH2320
+- Esd_3:8el m segundo, comenzaron Zorobabel hijoH2320
+- Esd_6:15terminada el tercer día del m de AdarH3393
+- Esd_6:19pascua a los catorce días del m primeroH2320
+- Esd_7:8llegó a...en el m quinto del año séptimoH2320
+- Esd_7:9el día primero del...m fue el principio deH2320
+- Esd_7:9al primero del m quinto llegó a JerusalénH2320
+- Esd_8:31partimos del río...el doce del m primeroH2320
+- Esd_10:9los 20 días del m, que era el m novenoH2320
+- Esd_10:16se sentaron el primer día del m décimoH2320
+- Esd_10:17y terminaron el...el primer día del mH2320
+- Neh_1:1en el m de Quisleu, en el año veinteH2320
+- Neh_2:1sucedió en el m de Nisán, en el año 20H2320
+- Neh_6:15fue terminado...el 25 del m de Elul, en
+- Neh_7:73venido el m séptimo...de Israel estabanH2320
+- Neh_8:2trajo la ley...primer día del m séptimoH2320
+- Neh_8:14tabernáculos en la fiesta solemne del mH2320
+- Neh_9:1el día 24 del mismo m se reunieron losH2320
+- Est_2:12haber estado 12 m conforme a la leyH2320
+- Est_2:12seis m con óleo de mirra y seis m conH2320
+- Est_2:16en el m décimo, que es el m de TebetH2320
+- Est_3:7en el m primero, que es el m de NisánH2320
+- Est_3:7suerte para cada día y cada m del añoH2320
+- Est_3:7y salió el m duodécimo, que es el m deH2320
+- Est_3:12los escribanos del rey en el m primeroH2320
+- Est_3:13del m duodécimo, que es el m de AdarH2320
+- Est_8:9llamados los escribanos...en el m terceroH2320
+- Est_8:9a los 23 días de ese m; y se escribió
+- Est_8:12; Est_9:1m duodécimo, que es el m de AdarH2320
+- Est_9:1a los 13 días del mismo m, cuando debíaH2320
+- Est_9:15en Susa se juntaron 14 del m de AdarH2320
+- Est_9:17esto fue en el día 13 del m de Adar, yH2320
+- Est_9:18se juntaron el día trece...del mismo m
+- Est_9:19hacen a los 14 del m de Adar el día deH2320
+- Est_9:21el día decimocuarto del m de Adar, yH2320
+- Est_9:22el m que de tristeza se les cambió enH2320
+- Job_3:6no sea...ni venga en el número de los mH3391
+- Job_7:3he recibido m de calamidad, y noches deH3391
+- Job_14:5y el número de sus m está cerca de tiH2320
+- Job_21:21sí, siendo cortado el número de sus m?[[H2320]]
+- Job_29:2me volviese como en los m pasados, comoH3391
+- Job_39:2¿contaste...los m de su preñez, y sabesH3391
+- Isa_47:13que cuentan los m, para pronosticarH2320
+- Isa_66:23de m en m, y de día de reposo en díaH2320
+- Jer_1:3hasta la cautividad...en el m quintoH2320
+- Jer_28:1el quinto m, que Hananías hijo de AzurH2320
+- Jer_28:17el mismo año murió Hananías, en el mH2320
+- Jer_36:9en el m noveno, que promulgaron ayunoH2320
+- Jer_36:22m noveno, y había un brasero ardiendoH2320
+- Jer_39:1en el m décimo, vino Nabucodonosor reyH2320
+- Jer_39:2el m cuarto, a los nueve días del m seH2320
+- Jer_41:1en el m séptimo que vino Ismael hijo deH2320
+- Jer_52:4en el m décimo, a los diez días del mH2320
+- Jer_52:6en el m cuarto, a los nueve días del mH2320
+- Jer_52:12en el m quinto, a los diez días del mH2320
+- Jer_52:31en el m duodécimo, a los 25 días del mH2320
+- Eze_1:1en el m cuarto, a los cinco días del mH2320
+- Eze_1:2en el quinto año...a los cinco días del mH2320
+- Eze_8:1en el m sexto, a los cinco días del mH2320
+- Eze_20:1en el m quinto, a los diez días del mH2320
+- Eze_24:1a mí palabra de Jehová...en el m décimoH2320
+- Eze_24:1palabra...los diez días del m, diciendoH2320
+- Eze_26:1aconteció en...en el día primero del mH2320
+- Eze_29:1en el m décimo, a los doce días del mH2320
+- Eze_29:17en el m primero, el día primero del mH2320
+- Eze_30:20el m primero, a los siete días del mH2320
+- Eze_31:1en el m tercero, el día primero del mH2320
+- Eze_32:1en el m duodécimo, el día primero del mH2320
+- Eze_32:17a los quince días del m, que vino a míH2320
+- Eze_33:21en el m décimo, a los cinco días del mH2320
+- Eze_39:12enterrando por siete m, para limpiar laH2320
+- Eze_39:14al cabo de siete m...el reconocimientoH2320
+- Eze_40:1los diez días del m, a los catorce añosH2320
+- Eze_45:18el m primero, el día primero del mH2320
+- Eze_45:20así harás el séptimo día del m para losH2320
+- Eze_45:21el m primero, a los catorce días del mH2320
+- Eze_45:25en el m séptimo, a los 15 días del mH2320
+- Dan_4:29al cabo de doce m, paseando...palacioH3393
+- Dan_10:4día veinticuatro del m primero estaba yoH2320
+- Ose_5:7en un solo m serán consumidos ellos yH2320
+- Amó_4:7os detuve la lluvia tres m antes de laH2320
+- Amó_8:5¿cuándo pasará el m, y venderemos...trigoH2320
+- Hag_1:1en el m sexto, en el primer día del mH2320
+- Hag_1:15el día veinticuatro del m sexto, en elH2320
+- Hag_2:1el m séptimo, a los veintiún días del mH2320
+- Hag_2:10a los veinticuatro días del noveno m, en
+- Hag_2:18desde el día 24 del noveno m, desde el
+- Hag_2:20palabra de...a los 24 días del mismo mH2320
+- Zac_1:1el octavo m del año segundo de DaríoH2320
+- Zac_1:7los 24 días del m...que es el m de SebatH2320
+- Zac_7:1palabra...a los cuatro días del m novenoH2320
+- Zac_7:3¿lloraremos en el m quinto? ¿HaremosH2320
+- Zac_7:5llorasteis en el quinto y en el séptimo mH2320
+- Zac_8:19ayuno del cuarto m, el ayuno del quinto
+- Zac_11:8y destruí a tres pastores en un m; puesH2320
+- Luc_1:24recluyó en casa por cinco m, diciendoG3376
+- Luc_1:26al sexto m el ángel Gabriel fue enviadoG3376
+- Luc_1:36el sexto m para ella, la que llamabanG3376
+- Luc_1:56y se quedó María con ella como tres mG3376
+- Luc_4:25cielo fue cerrado por tres años y seis mG3376
+- Jua_4:35cuatro m para que llegue la siega?[[G5072]]
+- Hec_7:20fue criado tres m en casa de su padreG3376
+- Hec_18:11detuvo allí un año y seis m, enseñandoG3376
+- Hec_19:8habló con denuedo por espacio de tres mG3376
+- Hec_20:3después de haber estado allí tres mG3376
+- Hec_28:11pasados tres m, nos hicimos a la velaG3376
+- Gál_4:10guardáis los días, los m, los tiemposG3376
+- Heb_11:23escondido por sus padres por tres mG5150
+- Stg_5:17y no llovió...por tres años y seis mG3376
+- Rev_9:5sino que los atormentasen cinco m; yG3376
+- Rev_9:10para dañar a los hombres durante cinco mG3376
+- Rev_9:15preparados para la hora, día, m y añoG3376
+- Rev_11:2y ellos hollarán la ciudad santa 42 mG3376
+- Rev_13:5se le dio autoridad para actuar 42 mG3376
+- Rev_22:2dando cada m su fruto; y las hojas delG3376

@@ -1,0 +1,159 @@
+---
+tipo: concordancia
+palabra: NUEVO, A (adj.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NUEVO, A (adj.)
+
+- Véase también Nueva (s.)
+- Éxo_1:8se levantó sobre Egipto un n rey queH2319
+- Lev_23:16entonces ofreceréis el n grano aH2319
+- Lev_26:10pondréis fuera lo...para guardar lo nH2319
+- Núm_11:8su sabor era como sabor de aceite nH3955
+- Núm_16:30si Jehová hiciere algo n, y la tierraH1278
+- Núm_28:26cuando presentéis ofrenda n a JehováH2319
+- Deu_20:5¿quién ha edificado casa n, y no la haH2319
+- Deu_22:8cuando edifiques casa n, harás pretil aH2319
+- Deu_32:17los demonios...n dioses venidos de cercaH2319
+- Jos_5:11y en el mismo día espigas n tostadas
+- Jos_9:13cueros de vino también los llenamos nH2319
+- Jue_5:8cuando escogían n dioses, la guerraH2319
+- Jue_15:13entonces le ataron con dos cuerdas nH2319
+- Jue_16:11si me ataren...con cuerdas n que no seH2319
+- Jue_16:12y Dalila tomó cuerdas n, y le ató conH2319
+- 1Sa_6:7haced, pues, ahora un carro n, y tomadH2319
+- 1Sa_20:5que mañana será n luna, y yo acostumbroH2320
+- 1Sa_20:18le dijo Jonatán: Mañana es n luna, y túH2320
+- 1Sa_20:24la n luna, se sentó el rey a comer panH2320
+- 1Sa_20:27el segundo día de la n luna, aconteció
+- 1Sa_20:34ira, y no comió pan el...día de la n luna
+- 2Sa_6:3pusieron el arca de...sobre un carro nH2319
+- 2Sa_6:3Uza y Ahío, hijos de...guiaban el carro nH2319
+- 2Sa_21:16quien estaba ceñido con una espada nH2319
+- 1Re_11:29éste estaba cubierto con una capa nH2319
+- 1Re_11:30tomando Ahías la capa n que tenía sobreH2319
+- 2Re_2:20traedme una vasija n, y poned en...salH2319
+- 2Re_4:23vas...hoy? No es n luna, ni día de reposoH2320
+- 2Re_4:42al varón de Dios trigo n en su espiga
+- 2Re_5:22te ruego que les des...y dos vestidos nH2487
+- 2Re_5:23plata...y dos vestidos n, y lo puso todoH2487
+- 1Cr_13:7llevaron el arca de Dios...un carro nH2319
+- 1Cr_23:31los días de reposo, lunas n y fiestasH2320
+- 2Cr_2:4n lunas, y festividades de JehováH2320
+- 2Cr_8:13que ofreciesen cada cosa...en las n lunasH2320
+- 2Cr_20:5Josafat se puso en...delante del atrio nH2319
+- 2Cr_31:3holocaustos...n lunas y fiestas solemnesH2320
+- Esd_3:5además...n lunas, y todas las fiestasH2320
+- Esd_4:21no...hasta que por mí sea dada n orden
+- Esd_6:4tres hileras de piedras...y una de madera nH2323
+- Neh_10:33las n lunas, las festividades, y paraH2320
+- Job_14:9reverdecerá, y hará copa como planta n
+- Job_32:19mi corazón está...se rompe como odres nH2319
+- Sal_33:3cantadle cántico n; hacedlo...júbiloH2319
+- Sal_40:3luego en mi boca cántico n, alabanza aH2319
+- Sal_81:3tocad la trompeta en la n luna, en elH2320
+- Sal_96:1; Sal_98:1; Sal_149:1cantad a Jehová cántico nH2319
+- Sal_144:9oh Dios, a ti cantaré cántico n; conH2319
+- Pro_19:19si usa de violencias, añadirá n males
+- Ecl_1:6y a sus giros vuelve el viento de nH7725
+- Ecl_1:7vinieron, allí vuelven para correr de nH7725
+- Ecl_1:9lo mismo que...y nada hay n debajo del solH2319
+- Ecl_1:10que se puede decir: He aquí esto es n?[[H2319]]
+- Cnt_7:13toda suerte de...frutas, n y añejasH2319
+- Isa_1:13luna n y...reposo...no lo puedo sufrirH2320
+- Isa_1:14vuestras lunas n y...fiestas solemnes lasH2320
+- Isa_40:31que esperan a Jehová tendrán n fuerzasH2498
+- Isa_41:15trillo n, lleno de dientes; trillarásH2319
+- Isa_42:9anuncio cosas n; antes que salgan a luzH2319
+- Isa_42:10cantad a Jehová un n cántico...la tierraH2319
+- Isa_43:19que yo hago cosa n; pronto saldrá a luzH2319
+- Isa_48:6te he hecho oír cosas n y ocultas que túH2319
+- Isa_62:2te será puesto un nombre n, que la bocaH2319
+- Isa_65:17yo crearé n cielos y n tierra; y de loH2319
+- Isa_66:22como los cielos n y la n tierra que yoH2319
+- Jer_2:3era Israel...primicias de sus n frutosH7225
+- Jer_26:10de la puerta n de la casa de JehováH2319
+- Jer_31:22creará una cosa n sobre la tierra; laH2319
+- Jer_31:31días...en los cuales haré n pacto con laH2319
+- Jer_36:10a la entrada de la puerta n de la casaH2319
+- Lam_3:23n son cada mañana; grande...fidelidadH2319
+- Eze_11:19un espíritu n pondré dentro de ellosH2319
+- Eze_18:31y haceos un corazón n y un espíritu nH2319
+- Eze_23:21trajiste de n a la memoria la lujuria
+- Eze_36:26os daré corazón n, y pondré espíritu nH2319
+- Eze_45:17dar el holocausto...en las lunas n, enH2320
+- Eze_46:1se abrirá también el día de la luna nH2320
+- Eze_46:3adorará el pueblo de la...en las lunas nH2320
+- Eze_46:6día de la luna n, un becerro sin tachaH2320
+- Ose_2:11haré cesar...sus n lunas y sus días deH2320
+- Miq_1:15os traeré n poseedor, oh moradores de
+- Zac_4:12hablé aún de n, y le...¿Qué significanH8145
+- Zac_6:1de n alcé mis ojos y miré, y he aquí 4H7725
+- Mat_9:16remiendo de paño n en vestido viejoG46
+- Mat_9:17ni echan vino n en odres viejos; deG3501
+- Mat_9:17echan el vino n en odres n, y lo uno yG2537
+- Mat_13:44un hombre halla, y lo esconde de n; y
+- Mat_13:52que saca de su tesoro cosas n y cosasG2537
+- Mat_26:28porque esto es mi sangre del n pactoG2537
+- Mat_26:29aquel día en que lo beba n con vosotrosG2537
+- Mat_26:44se fue de n, y oró por tercera vezG3825
+- Mat_27:60y lo puso en su sepulcro n, que habíaG2537
+- Mar_1:27¿qué es esto? ¿Qué n doctrina es estaG2537
+- Mar_2:21nadie pone remiendo de paño n en vestidoG46
+- Mar_2:21remiendo n tira de lo viejo...hace peorG2537
+- Mar_2:22y nadie echa vino n en odres viejos; deG3501
+- Mar_2:22otra manera, el vino n rompe los odresG3501
+- Mar_2:22y el vino n en odres n se ha de echarG2537
+- Mar_3:20y se agolpó de n la gente, de modo queG3825
+- Mar_10:1pueblo...y de n les enseñaba como solíaG3825
+- Mar_14:24esto es mi sangre del n pacto, que porG2537
+- Mar_14:25en que lo beba n en el reino de DiosG2537
+- Mar_16:17señales seguirán a...hablarán n lenguasG2537
+- Luc_5:36nadie corta un pedazo de un vestido nG2537
+- Luc_5:36pues...no solamente rompe el n, sino queG2537
+- Luc_5:37y nadie echa vino n en odres viejos; deG3501
+- Luc_5:37otra manera, el vino n romperá los odresG3501
+- Luc_5:38vino n en odres n se ha de echar; y loG3501
+- Luc_5:39que beba del añejo, quiere luego el nG2537
+- Luc_22:20esta copa es el n pacto en mi sangreG2537
+- Jua_3:3el que no naciere de n, no puede ver elG509
+- Jua_3:7que te dije: Os es necesario nacer de nG509
+- Jua_8:8inclinándose de n hacia el suelo, siguióG3825
+- Jua_10:40y se fue de n al otro lado del JordánG3825
+- Jua_13:34un mandamiento n os doy: Que os améisG2537
+- Jua_19:41en el huerto un sepulcro n, en el cualG2537
+- Hec_17:18parece que es predicador de n diosesG3585
+- Hec_17:19qué es esta n enseñanza de que hablas?[[G2537]]
+- Hec_17:21interesaban...en decir o en oír algo nG2537
+- Rom_6:4así también nosotros andemos en vida nG2538
+- Rom_7:6sirvamos bajo el régimen n del EspírituG2538
+- 1Co_5:7seáis n masa, sin levadura como soisG3501
+- 1Co_11:25esta copa es el n pacto en mí sangreG2537
+- 2Co_3:6nos hizo ministros...de un n pacto, noG2537
+- 2Co_5:17n criatura es...aquí todas son hechas nG2537
+- Gál_2:6los de reputación nada n me comunicaronG4323
+- Gál_6:15vale nada, ni la...sino una n creaciónG2537
+- Efe_2:15crear...de los dos un solo y n hombreG2537
+- Efe_4:24vestíos del n hombre, creado según DiosG2537
+- Flp_2:28para que al verle de n, os gocéis, yG3825
+- Col_2:16nadie os juzgue...en cuanto a...luna nG3561
+- Col_3:10revestido del n, el cual conforme a laG3501
+- Heb_8:8estableceré con la casa de...un n pactoG2537
+- Heb_8:13al decir: N pacto, ha dado por viejo alG2537
+- Heb_9:15que, por eso es mediador de un n pactoG2537
+- Heb_10:20el camino n y vivo que él nos abrió aG4372
+- Heb_12:24a Jesús el Mediador del n pacto, y aG3501
+- 2Pe_3:13esperamos...cielos n y tierra n, enG2537
+- 1Jn_2:7no os escribo mandamiento n, sino elG2537
+- 1Jn_2:8un mandamiento n, que es verdadero en élG2537
+- 2Jn_1:5no como escribiéndote un n mandamientoG2537
+- Rev_2:17en la piedrecita escrito un nombre nG2537
+- Rev_3:12venciere...escribiré sobre él...nombre nG2537
+- Rev_3:12n Jerusalén, la cual desciende del cieloG2537
+- Rev_5:9cantaban un n cántico, diciendo: DignoG2537
+- Rev_14:3cantaban un cántico n delante del tronoG2537
+- Rev_21:1vi un cielo n y una tierra n; porque elG2537
+- Rev_21:2yo Juan vi la...ciudad, la n JerusalénG2537
+- Rev_21:5dijo: He aquí, yo hago n todas las cosasG2537

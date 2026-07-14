@@ -1,0 +1,187 @@
+---
+tipo: concordancia
+palabra: BENJAMÍN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BENJAMÍN
+
+- 1 Hijo menor de Jacob y la tribu que formó su posteridad
+- Gén_35:18llamó su nombre su padre lo llamó BH1144
+- Gén_35:24los hijos de Raquel: José y BH1144
+- Gén_42:4mas Jacob no envió a B, hermano de JoséH1144
+- Gén_42:36a B le llevaréis; contra mí son todasH1144
+- Gén_43:14suelte al otro...hermano, y a este BH1144
+- Gén_43:15doble cantidad de dinero, y a B; y seH1144
+- Gén_43:16y vio José a B con ellos, y dijo alH1144
+- Gén_43:29y alzando José sus ojos vio a B suH1144
+- Gén_43:34la porción de B era cinco veces mayorH1144
+- Gén_44:12la copa fue hallada en el costal de BH1144
+- Gén_45:12ojos ven, y los ojos de mi hermano BH1144
+- Gén_45:14sobre el cuello de B...también B lloróH1144
+- Gén_45:22a B dio trescientas piezas de plataH1144
+- Gén_46:19los hijos de Raquel, mujer de Jacob BH1144
+- Gén_46:21hijos de B fueron Bela, Bequer, AsbelH1144
+- Gén_49:27B es lobo arrebatador...comerá la presaH1144
+- Éxo_1:3Isacar, Zabulón, BH1144
+- Núm_1:11de B, Abidán hijo de GedeoniH1144
+- Núm_1:36de los hijos de B, por su descendenciaH1144
+- Núm_1:37contados de la tribu de B fueron 35.400H1144
+- Núm_2:22y la tribu de B; y el jefe de los...de BH1144
+- Núm_7:60el príncipe de los hijos de B, AbidánH1144
+- Núm_10:24sobre...los hijos de B, Abidán hijo deH1144
+- Núm_13:9de la tribu de B, Palti hijo de RafúH1144
+- Núm_26:38los hijos de B por sus familias: deH1144
+- Núm_26:41son los hijos de B por sus familiasH1144
+- Núm_34:21la tribu de B, Elidad hijo de QuislónH1144
+- Deu_27:12bendecir al pueblo...Isacar, José y BH1144
+- Deu_33:12a B dijo: El amado de Jehová habitaráH1144
+- Jos_18:11se sacó la suerte de la tribu...de BH1144
+- Jos_18:20esta es la heredad de los hijos de BH1144
+- Jos_18:21ciudades de la tribu de los hijos de BH1144
+- Jos_18:28esta es la heredad de los hijos de BH1144
+- Jos_21:4obtuvieron por suerte...de la tribu de BH1144
+- Jos_21:17la tribu de B, Gabaón con sus ejidosH1144
+- Jue_1:21no lo arrojaron los hijos de B, y elH1144
+- Jue_1:21el jebuseo habitó con los hijos de BH1144
+- Jue_5:14en pos de ti, B, entre tus pueblos; deH1144
+- Jue_10:9guerra...contra B y la casa de EfraínH1144
+- Jue_19:14se les puso el sol junto a Gabaa...de BH1144
+- Jue_19:16pero los moradores de...eran hijos de BH1144
+- Jue_20:3y los hijos de B oyeron que...de IsraelH1144
+- Jue_20:4llegué a Gabaa de B...para pasar allí laH1144
+- Jue_20:10para que yendo a Gabaa de B le haganH1144
+- Jue_20:12enviaron varones por toda la tribu de BH1144
+- Jue_20:13los de B no quisieron oír la voz de susH1144
+- Jue_20:14de B se juntaron...para salir a pelearH1144
+- Jue_20:15fueron contados en...los hijos de B deH1144
+- Jue_20:17contados...fuera de B, 400.000 hombresH1144
+- Jue_20:18en la guerra contra los hijos de B?[[H1144]]
+- Jue_20:20salieron...de Israel a combatir contra BH1144
+- Jue_20:21los hijos de B, derribaron...día 22.000H1144
+- Jue_20:23¿volveremos a pelear con los hijos de BH1144
+- Jue_20:24se acercaron, contra los hijos de BH1144
+- Jue_20:25aquel segundo día, saliendo B de GabaaH1144
+- Jue_20:28a salir contra los hijos de B nuestrosH1144
+- Jue_20:30contra los hijos de B el tercer díaH1144
+- Jue_20:31salieron los hijos de B al encuentroH1144
+- Jue_20:32los hijos de B decían: Vencidos sonH1144
+- Jue_20:35derrotó Jehová a B delante de IsraelH1144
+- Jue_20:35mataron 25:100 hombres de B, todos loH1145
+- Jue_20:36vieron los...de B que eran derrotadosH1144
+- Jue_20:36los hijos de Israel cedieron campo a BH1145
+- Jue_20:39los de B comenzaron a herir y matar aH1144
+- Jue_20:40los de B miraron hacia atrás...el humoH1145
+- Jue_20:41los de B se llenaron de temor...vieronH1144
+- Jue_20:43así cercaron a los de B, y los acosaronH1145
+- Jue_20:44y cayeron de B diciocho mil hombresH1144
+- Jue_20:46B murieron aquel día, 25.000 hombresH1144
+- Jue_20:48volvieron sobre los hijos de B, y losH1144
+- Jue_21:1ninguno de...dará su hija a los de B porH1144
+- Jue_21:6de Israel se arrepintieron a causa de BH1144
+- Jue_21:13envió...a hablar a los hijos de B queH1144
+- Jue_21:14y volvieron entonces los de B, y lesH1144
+- Jue_21:15el pueblo tuvo compasión de B, porqueH1144
+- Jue_21:16porque fueron muertas...mujeres de BH1144
+- Jue_21:17tenga B herencia en los que...escapadoH1144
+- Jue_21:20mandaron a los hijos de B, diciendoH1144
+- Jue_21:21arrebatad cada uno...idos a tierra de BH1144
+- Jue_21:23hijos de B lo hicieron así; y tomaronH1144
+- 1Sa_4:12corriendo...un hombre de B, llegó elH1144
+- 1Sa_9:1había un varón de B, hombre valeroso, elH1144
+- 1Sa_9:4por la tierra de B, y no las encontraronH1145
+- 1Sa_9:16enviaré a ti un varón de la tierra de BH1144
+- 1Sa_9:21Saúl respondió...¿No soy yo hijo de BH1145
+- 1Sa_9:21de la más pequeña...de la tribu de B?[[H1144]]
+- 1Sa_10:2dos hombres...en el territorio de B, enH1144
+- 1Sa_10:20de Israel, fue tomada la tribu de BH1144
+- 1Sa_10:21e hizo llegar la tribu de B por susH1144
+- 1Sa_13:2mil estaban con Jonatán en Gabaa de BH1144
+- 1Sa_13:15Samuel, subió de Gilgal a Gabaa de BH1144
+- 1Sa_13:16Saúl, pues...se quedaron en Gabaa de BH1144
+- 1Sa_14:16vieron desde Gabaa de B...la multitudH1144
+- 1Sa_22:7oíd ahora, hijos de B; ¿Os dará tambiénH1145
+- 2Sa_2:9lo hizo rey sobre...B y...todo IsraelH1144
+- 2Sa_2:15doce de B por parte de Is-boset hijo deH1144
+- 2Sa_2:25se juntaron los hijos de B en pos deH1144
+- 2Sa_2:31hirieron de los de B y de los de AbnerH1144
+- 2Sa_3:19habló también Abner a los de B; y fueH1144
+- 2Sa_3:19que parecía bien a...toda la casa de BH1144
+- 2Sa_4:2de los hijos de B (porque Beerot era...BH1144
+- 2Sa_16:11vida; ¿cuánto más ahora un hijo de B?[[H1145]]
+- 2Sa_19:16y Simei hijo de Gera, hijo de B, queH1145
+- 2Sa_19:17con él venían mil hombres de B...SibaH1144
+- 2Sa_20:1hombre de B, el cual tocó la trompetaH1145
+- 2Sa_21:14sepultaron...de Jonatán en tierra de BH1144
+- 2Sa_23:29Itai hijo...de Gabaa de los hijos de BH1144
+- 1Re_2:8Simei...de B, de Bahurim...me maldijoH1145
+- 1Re_4:18Simei hijo de Ela, en BH1144
+- 1Re_12:21Roboam...reunió a toda...a las tribu de BH1144
+- 1Re_12:23habla a Roboam...a toda la casa de...BH1144
+- 1Re_15:22edificó el rey Asa...a Geba de B, y aH1144
+- 1Cr_2:2Dan, José, B, Neftalí, Gad y AserH1144
+- 1Cr_6:60de la tribu de B, Geba con sus ejidosH1144
+- 1Cr_6:65dieron...de la tribu de los hijos de BH1144
+- 1Cr_7:6los hijos de B fueron tres: Bela, BequerH1144
+- 1Cr_8:1B engendró a Bela su...Asbel el segundoH1144
+- 1Cr_8:40todos éstos fueron de los hijos de BH1144
+- 1Cr_9:3habitaron en Jerusalén...los hijos de BH1144
+- 1Cr_9:7de los hijos de B: Salú hijo de MesulamH1144
+- 1Cr_11:31Itai hijo de Ribai...de los hijos de BH1144
+- 1Cr_12:2con arco. De los hermanos de Saúl de BH1144
+- 1Cr_12:16de los hijos de B...vinieron a David alH1144
+- 1Cr_12:29de los hijos de B...tres mil; porqueH1144
+- 1Cr_21:6no fueron contados...ni los hijos de BH1144
+- 1Cr_27:21de los de B, Jaasiel hijo de AbnerH1144
+- 2Cr_11:1vino Roboam...reunió...de Judá y de BH1144
+- 2Cr_11:3habla a todos los israelitas en Judá y BH1144
+- 2Cr_11:10eran ciudades fortificadas de Judá y BH1144
+- 2Cr_11:12fortificó...Judá y B le estaban sujetosH1144
+- 2Cr_11:23esparció a todos sus hijos por...de BH1144
+- 2Cr_14:8ejército...de B doscientos ochenta milH1144
+- 2Cr_15:2Asa y todo Judá y B: Jehová estará conH1144
+- 2Cr_15:8Asa...quitó los ídolos...de Judá y de BH1144
+- 2Cr_15:9después reunió a todo Judá y B, y conH1144
+- 2Cr_17:17de B, Eliada, hombre muy valeroso, yH1144
+- 2Cr_25:5les puso jefes de...sobre todo Judá y BH1144
+- 2Cr_31:1derribaron...los altares por todo Judá y BH1144
+- 2Cr_34:9el dinero...recogido...de todo Judá y BH1144
+- 2Cr_34:32se obligaran...los que estaban en...BH1144
+- Esd_1:5levantaron los jefes...de Judá y de BH1144
+- Esd_4:1oyendo los enemigos de Judá y de B queH1144
+- Esd_10:9todos los hombres...de B se reunieronH1144
+- Neh_11:4habitaron algunos de los...hijos de BH1144
+- Neh_11:7estos son los hijos de B: Salú hijo deH1144
+- Neh_11:31y los hijos de B habitaron desde GebaH1144
+- Neh_11:36en los repartimientos de Judá y de BH1144
+- Est_2:5de Simei, hijo de Cis, del linaje de BH1145
+- Sal 7 tít.de las palabras de Cus hijo de BH1145
+- Sal_68:27estaba el joven B, señoreador de ellosH1144
+- Sal_80:2despierta tu poder delante de...B y deH1144
+- Jer_1:1estuvieron en Anatot, en tierra de BH1144
+- Jer_6:1huid, hijos de B, de en medio de JerusalénH1144
+- Jer_17:26vendrán...de Judá...de tierra de B, de laH1144
+- Jer_32:8compra...heredad...Anatot en tierra de BH1144
+- Jer_32:44en tierra de B y en los contornos deH1144
+- Jer_33:13en la tierra de B...aún pasarán ganadosH1144
+- Jer_37:12salía Jeremías de...irse a tierra de BH1144
+- Eze_48:22el límite de Judá y el límite de BH1144
+- Eze_48:23el lado del mar, tendrá B una porciónH1144
+- Eze_48:24junto al límite de B, desde el ladoH1144
+- Eze_48:32la puerta de B, otra; la puerta de DanH1144
+- Ose_5:8tocad bocina en Gabaa...tiembla, oh BH1144
+- Abd_1:19poseerán el monte de Esaú...B a GalaadH1144
+- Hec_13:21Saúl hijo...varón de la tribu de BG958
+- Rom_11:1yo soy israelita...de la tribu de BG958
+- Flp_3:5de la tribu de B, hebreo de hebreosG958
+- Rev_7:8de la tribu de B, doce mil selladosG958
+- 2 Nieto de No.1, 1Cr_7:10G1144
+- 3 Uno de los que se casaron con mujeres extranjeras en tiempo de Esdras, Esd_10:32G1144
+- 4 Uno que ayudó en la reparación del muro de Jerusalén, Neh_3:23G1144
+- 5 Príncipe de Judá en tiempo de Nehemías (posiblemente =No.4), Neh_12:34G1144
+- 6 «Puerta de Benjamín», una puerta de JerusalénG1144
+- Jer_20:2el cepo...en la puerta superior de BH1144
+- Jer_37:13fue a la puerta de B, estaba allí unH1144
+- Jer_38:7estando sentado el rey a la puerta de BH1144
+- Zac_14:10desde la puerta de B hasta el lugarH1144

@@ -1,0 +1,1100 @@
+---
+tipo: concordancia
+palabra: VOLVER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VOLVER
+
+- Gén_3:19el pan hasta que vuelvas a la tierraH7725
+- Gén_3:19pues polvo eres, y al polvo volverásH7725
+- Gén_4:12cuando labres...no te volverá a dar su
+- Gén_8:7cuervo...estuvo yendo y volviendo hastaH7725
+- Gén_8:9y volvió a él al arca, porque las aguasH7725
+- Gén_8:10días, y volvió a enviar la paloma fueraH3254
+- Gén_8:11la paloma volvió a él a la hora de laH7725
+- Gén_8:12envió la paloma, la cual no volvió yaH7725
+- Gén_8:21no volveré más a maldecir la tierra porH3254
+- Gén_8:21no...ni volveré más a destruir todo serH3254
+- Gén_9:23vueltos sus rostros, y así no vieron laH322
+- Gén_13:3volvió por sus jornadas desde el NeguevH7725
+- Gén_14:7volvieron y vinieron a En-mispat, que esH7725
+- Gén_14:17volvía de la derrota de QuedorlaomerH7725
+- Gén_15:16en la cuarta generación volverán acáH7725
+- Gén_16:9vuélvete a tu señora, y ponte sumisaH7725
+- Gén_18:10volveré a ti; y según el tiempo de laH7725
+- Gén_18:14tiempo señalado volveré a ti, y segúnH7725
+- Gén_18:29y volvió a hablarle, y dijo: Quizá seH3259
+- Gén_18:32volvió a decir: No se enoje ahora mi
+- Gén_18:33Jehová se...y Abraham volvió a su lugarH7725
+- Gén_19:26miró atrás...y se volvió estatua de salH1961
+- Gén_21:32y volvieron a tierra de los filisteosH7725
+- Gén_22:5y adoraremos, y volveremos a vosotrosH7725
+- Gén_22:19y volvió Abraham a sus siervos, y seH7725
+- Gén_24:5¿volveré...tu hijo a la tierra de dondeH7725
+- Gén_24:6guárdate que no vuelvas a mi hijo alláH7725
+- Gén_24:8solamente que no vuelvas allá a mi hijoH7725
+- Gén_24:16la cual...llenó su cántaro, y se volvíaH5927
+- Gén_25:29y volviendo Esaú del campo, cansadoH935
+- Gén_26:18volvió a abrir Isaac los pozos de aguaH2658
+- Gén_27:30luego...Esaú su hermano volvió de cazarH7725
+- Gén_28:15volveré a traerte a esta tierra; porqueH7725
+- Gén_28:21si volviere en paz a casa de mi padreH7725
+- Gén_29:3volvían la piedra sobre la boca del pozoH7725
+- Gén_30:16Jacob volvía del campo, salió Lea a élH7725
+- Gén_30:31esto, volveré a apacentar tus ovejasH7725
+- Gén_31:3vuélvete a la tierra de tus padres, y aH7725
+- Gén_31:13vuélvete a la tierra de tu nacimientoH7725
+- Gén_31:18para volverse a Isaac su padre en laH7725
+- Gén_31:55Labán...regresó y se volvió a su lugarH7725
+- Gén_32:6mensajeros volvieron a Jacob, diciendoH7725
+- Gén_32:9me dijiste: Vuélvete a tu tierra y a tuH7725
+- Gén_33:16volvió Esaú aquel día por su camino aH7725
+- Gén_35:9cuando había vuelto de Padan-aram, y leH7725
+- Gén_37:22librarlo...y hacerlo volver a su padreH7725
+- Gén_37:29Rubén volvió...y no halló a José dentroH7725
+- Gén_37:30volvió a sus hermanos, y dijo: El jovenH7725
+- Gén_38:5volvió a concebir, y dio a luz un hijoH7725
+- Gén_38:22él se volvió a Judá, y dijo: No la heH7725
+- Gén_38:29volviendo él a meter la mano, he aquí
+- Gén_40:21e hizo volver a su oficio al jefe deH7725
+- Gén_42:24después volvió a ellos, y les hablóH7725
+- Gén_43:2volved, y comprad...un poco de alimentoH7725
+- Gén_43:9Si yo no te lo vuelvo a traer, y si no lo pongo
+- Gén_43:10si no...hubiéramos ya vuelto dos vecesH7725
+- Gén_43:12el dinero vuelto en...vuestros costalesH7725
+- Gén_43:13y levantaos, y volved a aquel varónH7725
+- Gén_43:21y lo hemos vuelto a traer con nosotrosH7725
+- Gén_44:4¿por qué habéis vuelto mal por bien?[[H7999]]
+- Gén_44:8te lo volvimos a traer desde la tierra de CanaánH7725
+- Gén_44:13cargó...su asno, y volvieron a la ciudadH7725
+- Gén_44:25volved a comprarnos un poco...alimentoH7725
+- Gén_44:30cuando vuelva yo a tu siervo mi padreH935
+- Gén_44:32si no te lo vuelvo a traer...culpable
+- Gén_44:34volveré yo a mi padre sin el joven?[[H4672]]
+- Gén_45:17e id, volved a la tierra de Canaán
+- Gén_46:4contigo a...y yo también te haré volver
+- Gén_48:21pero Dios...os hará volver a la tierraH7725
+- Gén_50:5vaya...y sepulte a mi padre, y volveréH7725
+- Gén_50:14y volvió José a Egipto...y sus hermanosH7725
+- Éxo_2:18y volviendo ellas a Reuel su padre, élH935
+- Éxo_4:4y la tomó, y se volvió vara en su manoH1961
+- Éxo_4:7que se había vuelto como la otra carneH7725
+- Éxo_4:18y volviendo a su suegro Jetro, le dijoH7725
+- Éxo_4:18iré ahora, y volveré a mis hermanos queH7725
+- Éxo_4:19y vuélvete a Egipto, porque han muertoH7725
+- Éxo_4:20Moisés tomó...volvió a tierra de EgiptoH7725
+- Éxo_4:21cuando hayas vuelto a Egipto, mira queH7725
+- Éxo_5:4hacéis cesar...Volved a vuestras tareas
+- Éxo_5:22entonces Moisés se volvió a Jehová, yH7725
+- Éxo_7:12vara, las cuales se volvieron culebrasH1961
+- Éxo_7:15tu mano la vara que se volvió culebraH2015
+- Éxo_7:23Faraón se volvió y fue a su casa, y noH6437
+- Éxo_8:16que se vuelva piojos por todo el paísH1961
+- Éxo_8:17y golpeó el polvo de...se volvió piojosH1961
+- Éxo_10:6se volvió y salió de delante de FaraónH6437
+- Éxo_10:8Moisés y Aarón volvieron a ser llamados ante FaraónH7725
+- Éxo_13:17no se arrepienta...y se vuelva a EgiptoH7725
+- Éxo_14:5el corazón...se volvió contra el puebloH2015
+- Éxo_14:21y volvió el mar en seco, y las aguasH7760
+- Éxo_14:26las aguas vuelvan sobre los egipciosH7725
+- Éxo_14:27el mar se volvió en toda su fuerza, yH7725
+- Éxo_14:28y volvieron las aguas, y cubrieron losH7725
+- Éxo_15:19Jehová hizo volver las aguas del marH7725
+- Éxo_23:4su asno extraviado, vuelve a llevárseloH7725
+- Éxo_24:14esperadnos aquí hasta que volvamos aH7725
+- Éxo_32:12vuélvete del ardor de tu ira...este malH7725
+- Éxo_32:15y volvió Moisés y descendió del monteH6437
+- Éxo_32:27pasad y volved de puerta a puerta por
+- Éxo_32:31volvió Moisés a Jehová, y dijo...ruegoH7725
+- Éxo_33:11él volvía al campamento; pero...JosuéH6437
+- Éxo_34:31Aarón y todos los príncipes...volvieronH7725
+- Éxo_34:35y volvía Moisés a poner el velo sobre su rostroH7725
+- Lev_13:3pelo en la llaga se ha vuelto blancoH2015
+- Lev_13:4, Lev_13:20, Lev_13:25pelo se hubiere vuelto blancoH2015
+- Lev_13:5el sacerdote le volverá a encerrar por
+- Lev_13:13ella se ha vuelto blanca, y él es limpioH2015
+- Lev_13:16cuando la carne viva, volviere blancaH7725
+- Lev_13:17y si la llaga se hubiere vuelto blancaH2015
+- Lev_14:39volverá el sacerdote, y la examinaráH7725
+- Lev_14:43y si la plaga volviere a brotar en aquella casaH7725
+- Lev_19:4no os volveréis a los ídolos, ni haréisH6437
+- Lev_19:31no os volváis a los encantadores ni a
+- Lev_22:13hubiere vuelto a la casa de su padreH7725
+- Lev_25:10volveréis cada uno...cada cual volveráH7725
+- Lev_25:13volveréis cada uno a vuestra posesiónH7725
+- Lev_25:27pagará lo que...y volverá a su posesiónH7725
+- Lev_25:28y al jubileo saldrá, y él volverá a suH7725
+- Lev_25:41volverá a su familia, y a la posesiónH7725
+- Lev_26:9me volveré a vosotros, y os haré crecer
+- Lev_26:18volveré a castigaros siete veces más
+- Lev_27:24volverá la tierra a aquél de quien élH7725
+- Núm_10:36vuelve, oh Jehová, a los millares deH7725
+- Núm_11:4los hijos de Israel también volvieron a llorar yH7725
+- Núm_11:30Moisés volvió al campamento, él y losH7725
+- Núm_12:14y después volverá a la congregaciónH7725
+- Núm_13:25volvieron de reconocer la tierra al finH7725
+- Núm_14:3¿no nos sería mejor volvernos a Egipto?[[H7725]]
+- Núm_14:4designemos un capitán, y volvámonos aH7725
+- Núm_14:25volveos mañana y salid al desiertoH6437
+- Núm_14:36al volver habían hecho murmurar contraH7725
+- Núm_16:50volvió Aarón a Moisés a la puerta delH7725
+- Núm_17:10vuelve la vara de Aarón delante delH7725
+- Núm_21:33volvieron, y subieron camino de BasánH7725
+- Núm_22:13Balaam...dijo...Volveos a vuestra tierra
+- Núm_22:15volvió Balac a enviar...más príncipesH3254
+- Núm_22:19para que yo sepa qué me vuelve a decir
+- Núm_22:23azotó...al asna para hacerla volver alH5186
+- Núm_22:25apretó...el pie...Y él volvió a azotarlaH3254
+- Núm_22:34ahora, si te parece mal, yo me volveréH7725
+- Núm_23:5, Núm_23:16le dijo: Vuelve a Balac, y dile asíH7725
+- Núm_23:6volvió a él, y he aquí estaba él juntoH7725
+- Núm_24:25se levantó Balaam...y volvió a su lugarH7725
+- Núm_31:14los jefes de...que volvían de la guerraH935
+- Núm_32:15si os volviereis de en pos...él volveráH7725
+- Núm_32:18no volveremos a nuestras casas hastaH7725
+- Núm_32:22volveréis, y seréis libres de culpa paraH7725
+- Núm_33:7salieron...y volvieron sobre Pi-hahirotH7725
+- Núm_35:25lo hará volver a su ciudad de refugioH7725
+- Núm_35:28el homicida volverá a la tierra de suH7725
+- Núm_35:32para que vuelva a vivir en su tierraH7725
+- Deu_1:7volveos e id al monte del amorreo y aH6437
+- Deu_1:40pero vosotros volveos e id al desiertoH6437
+- Deu_1:45y volvisteis y llorasteis delante deH7725
+- Deu_2:1volvimos y salimos al desierto, caminoH6437
+- Deu_2:3habéis rodeado...monte; volveos al norteH6437
+- Deu_2:8volvimos, y tomamos el camino...de MoabH7725
+- Deu_3:1volvimos...y subimos camino de Basán, yH7725
+- Deu_3:20os volveréis cada uno a la heredad queH7725
+- Deu_4:30si en los postreros días te volvieresH7725
+- Deu_5:30vé y diles: Volveos a vuestras tiendasH7725
+- Deu_9:15y volví y descendí del monte, el cualH7725
+- Deu_10:5volví y descendí del monte, y puse lasH7725
+- Deu_13:11y no vuelva a hacer en medio de ti cosa semejante
+- Deu_16:7por la mañana...volverás a tu habitaciónH6437
+- Deu_17:16ni hará volver al pueblo a Egipto conH7725
+- Deu_17:16ha dicho: No volváis...por este caminoH7725
+- Deu_18:16No vuelva yo a oír la voz de Jehová mi DiosH3254
+- Deu_19:20y no volverán a hacer más una maldad semejante
+- Deu_20:5-6, Deu_20:7-8vaya, y vuélvase a su casaH7725
+- Deu_22:1extraviado el...lo volverás a tu hermanoH7725
+- Deu_23:13al volverte cubrirás tu excrementoH7725
+- Deu_23:14él no vea...y se vuelva de en pos de tiH7725
+- Deu_24:4volverla a tomar para que sea su mujerH7725
+- Deu_24:19no volverás para recogerla; será paraH7725
+- Deu_28:68te hará volver a Egipto en naves, porH7725
+- Deu_28:68cual te ha dicho: Nunca más volverásH7725
+- Deu_30:3Jehová hará volver a tus cautivos, yH7725
+- Deu_30:3volverá a recogerte de entre...pueblosH7725
+- Deu_30:5te hará volver Jehová...a la tierra que
+- Deu_30:8y tú volverás, y oirás la voz de JehováH7725
+- Deu_30:9Jehová volverá a gozarse sobre ti para
+- Deu_31:18por haberse vuelto a dioses ajenosH7725
+- Deu_31:20volverán a dioses ajenos y les serviránH6437
+- Jos_1:15volveréis...a la tierra de...herenciaH7725
+- Jos_2:16hasta que los que os siguen hayan vueltoH7725
+- Jos_2:22que volvieron los que los perseguíanH7725
+- Jos_2:23volvieron los dos hombres...a Josué hijoH7725
+- Jos_4:18las aguas del Jordán se volvieron a suH7725
+- Jos_5:2vuelve a circuncidar la segunda vez a los hijos de
+- Jos_6:11y volvieron luego al campamento, y allí
+- Jos_6:14segundo día, y volvieron al campamentoH7725
+- Jos_7:3y volviendo a Josué, le dijeron: No subaH7725
+- Jos_7:8diré, ya que Israel ha vuelto la espaldaH7725
+- Jos_7:12los hijos de Israel...volverán la espalda
+- Jos_7:26y Jehová se volvió del ardor de su iraH7725
+- Jos_8:20los hombres de Hai volvieron el rostro
+- Jos_8:20pueblo que iba huyendo hacia...se volvióH2015
+- Jos_8:21se volvieron y atacaron a los de HaiH7725
+- Jos_8:24todos los israelitas volvieron a HaiH7725
+- Jos_10:15Josué...volvió al campamento en GilgalH7725
+- Jos_10:21el pueblo volvió sano y salvo a JosuéH7725
+- Jos_10:38después volvió Josué...Sobre Debir, yH7725
+- Jos_10:43volvió Josué...al campamento en GilgalH7725
+- Jos_11:10volviendo Josué, tomó...Hazor, y matóH7725
+- Jos_16:8y de Tapúa se vuelve hacia el mar, alH3212
+- Jos_18:4recorran...la describan...y vuelvan a míH935
+- Jos_18:8y volved...para que yo os eche suertesH7725
+- Jos_18:9volvieron a Josué al campamento en SiloH935
+- Jos_20:6el homicida podrá volver a su ciudad yH7725
+- Jos_22:4volved, regresad a vuestras tiendas, aH6437
+- Jos_22:8volved a vuestras tiendas con grandesH7725
+- Jos_22:9Rubén y...Gad...se volvieron, separándoseH7725
+- Jos_22:23edificado altar para volvernos de enH7725
+- Jos_24:20volverá y os hará mal, y os consumiráH7725
+- Jue_2:19al morir el juez, ellos volvían atrásH7725
+- Jue_2:21tampoco yo volveré más a arrojar de
+- Jue_3:12volvieron los...de Israel a hacer lo maloH3254
+- Jue_3:19él se volvió...y dijo: Rey, una palabraH7725
+- Jue_4:1volvieron a hacer lo malo ante los ojosH3254
+- Jue_4:19y le dio de beber, y le volvió a cubrir
+- Jue_6:18que no te vayas...hasta que vuelva a tiH935
+- Jue_6:18él respondió...esperaré hasta que vuelvasH7725
+- Jue_7:15y vuelto al campamento de Israel, dijoH7725
+- Jue_8:9cuando yo vuelva en paz, derribaré estaH7725
+- Jue_8:13Gedeón...volvió de la batalla antes queH7725
+- Jue_8:28y nunca más volvió a levantar cabeza
+- Jue_8:33los...de Israel volvieron a prostituirseH7725
+- Jue_9:37volvió Gaal a hablar, y dijo: He allí
+- Jue_9:57lo hizo Dios volver sobre sus cabezas
+- Jue_10:6Israel volvieron a hacer lo mató anteH3254
+- Jue_11:8por esta misma causa volvemos ahora aH7725
+- Jue_11:9si me hacéis volver para que pelee contraH7725
+- Jue_11:14Jefté volvió a enviar...mensajeros al
+- Jue_11:34volvió Jefté a Mizpa, a su casa; y heH935
+- Jue_11:37volvió a decir a su padre: Concédeme
+- Jue_11:39pasados...dos meses volvió a su padreH7725
+- Jue_13:1volvieron a hacer lo malo ante los ojos de JehováH3254
+- Jue_13:8te ruego que aquel varón...vuelva ahoraH935
+- Jue_13:9y el ángel...volvió otra vez a la mujerH935
+- Jue_13:21no volvió a aparecer a Manoa ni a su mujer
+- Jue_14:8volviendo...para tomarla, se apartó delH7725
+- Jue_14:19dio...y se volvió a la casa de su padreH3212
+- Jue_15:14y las cuerdas...se volvieron como linoH1961
+- Jue_18:8volviendo...ellos a sus hermanos en ZoraH935
+- Jue_18:21se volvieron y partieron, y pusieron losH7725
+- Jue_18:23y dando voces a...volvieron sus rostrosH7725
+- Jue_18:26y Micaía...volvió y regresó a su casaH6437
+- Jue_19:3y se levantó su marido...hacerla volverH7725
+- Jue_19:7insistió...volvió a pasar allí la nocheH7725
+- Jue_20:8dijeron...ni volverá ninguno...a su casaH5493
+- Jue_20:22volvieron a ordenar la batalla en el mismo lugarH3254
+- Jue_20:23¿volveremos a pelear con los hijos de Benjamín
+- Jue_20:28¿volveremos...a salir contra...BenjamínH3254
+- Jue_20:41volvieron los hombres de Israel, y losH7725
+- Jue_20:42volvieron...espalda delante de IsraelH7725
+- Jue_20:45volviéndose...huyeron hacia el desiertoH7725
+- Jue_20:47se volvieron y huyeron al desierto a laH7725
+- Jue_20:48los hombres de Israel volvieron sobreH7725
+- Jue_21:14volvieron entonces los de Benjamín, yH7725
+- Jue_21:23y se fueron, y volvieron a su heredadH7725
+- Rut_1:7caminar para volverse a la tierra deH7725
+- Rut_1:8volveos cada una a la casa de su madreH7725
+- Rut_1:11y Noemí respondió: Volveos, hijas míasH7725
+- Rut_1:12volveos, hijas mías, e idos...soy viejaH7725
+- Rut_1:15tu cuñada se ha vuelto a...vuélvete túH7725
+- Rut_1:21me fui llena, pero Jehová me ha vueltoH7725
+- Rut_1:22volvió Noemí, y Rut...v de los...de MoabH7725
+- Rut_2:6es la joven moabita que volvió con NoemíH7725
+- Rut_3:8se estremeció aquel hombre, y se volvióH7725
+- Rut_4:3Noemí, que ha vuelto del campo de MoabH7725
+- 1Sa_1:19volvieron y fueron a su casa en RamáH7725
+- 1Sa_2:11Elcana se volvió a su casa en Ramá; y elH3212
+- 1Sa_2:20Elí bendijo a...Y se volvieron a su casaH1980
+- 1Sa_3:5vuelve y acuéstate...Y él se volvió y seH3212
+- 1Sa_3:6hijo...no he llamado; vuelve y acuéstateH7725
+- 1Sa_3:21Y Jehová volvió a aparecer en SiloH3254
+- 1Sa_4:3cuando volvió el pueblo al campamentoH935
+- 1Sa_5:3tomaron a Dagón y lo volvieron a su lugarH7725
+- 1Sa_5:4volviéndose a levantar de mañana...Dagón
+- 1Sa_5:11enviad el arca del...vuélvase a su lugarH7725
+- 1Sa_6:2de qué manera la hemos de volver a enviar
+- 1Sa_6:7y haced volver sus becerros de detrás de
+- 1Sa_6:16cuando vieron esto...volvieron a EcrónH7725
+- 1Sa_7:3si de todo...corazón os volvéis a JehováH7725
+- 1Sa_7:13y no volvieron más a entrar en...IsraelH935
+- 1Sa_7:17volvía a Ramá...allí estaba su casa, yH8666
+- 1Sa_8:3se volvieron tras la avaricia...sobornarH7725
+- 1Sa_9:5Saúl dijo...Ven, volvámonos; porque quizáH7725
+- 1Sa_9:8volvió el criado a responder a Saúl...HeH3254
+- 1Sa_10:9al volver él la espalda para apartarseH7725
+- 1Sa_14:20la espada...vuelta contra su compañero
+- 1Sa_14:47y adondequiera que se volvía...vencedor7725
+- 1Sa_15:11Saúl...se ha vuelto de en pos de mí, yH7725
+- 1Sa_15:19que vuelto al botín has hecho lo malo
+- 1Sa_15:25y vuelve conmigo...que adore a JehováH7725
+- 1Sa_15:26Samuel respondió...No volveré contigoH7725
+- 1Sa_15:27y volviéndose Samuel para irse, él seH7725
+- 1Sa_15:30y vuelvas conmigo...que adore a JehováH7725
+- 1Sa_15:31volvió Samuel tras Saúl, y adoró SaúlH7725
+- 1Sa_16:13se levantó luego Samuel, y se volvióH3212
+- 1Sa_17:15pero David había ido y vuelto, dejandoH7725
+- 1Sa_17:53volvieron...de seguir tras los filisteosH7725
+- 1Sa_17:57y cuando...volvía de matar al filisteoH7725
+- 1Sa_18:2y no le dejó volver a casa de su padre
+- 1Sa_18:6volvían ellos, cuando David volvió deH7725
+- 1Sa_19:15volvió Saúl a enviar mensajeros para
+- 1Sa_19:21y Saúl volvió a enviar mensajeros porH3254
+- 1Sa_20:3y David volvió a jurar diciendo: Tu padre sabeH5750
+- 1Sa_20:38volvió a gritar Jonatán tras el muchacho: Corre
+- 1Sa_22:17rey...Volveos y matad a los sacerdotesH5437
+- 1Sa_23:4Entonces David volvió a consultar a JehováH3254
+- 1Sa_22:18vuelve tú, y arremete...se volvió DoegH5437
+- 1Sa_23:18Hores, y Jonatán se volvió a su casaH1980
+- 1Sa_23:23y volved a mí con información seguraH7725
+- 1Sa_23:28volvió...Saúl de perseguir a David, yH7725
+- 1Sa_24:1cuando Saúl volvió de perseguir a losH7725
+- 1Sa_25:12los jóvenes...volvieron por su caminoH7725
+- 1Sa_25:21vano...y él me ha vuelto mal por bienH7725
+- 1Sa_25:36Abigail volvió a Nabal, y he aquí queH935
+- 1Sa_25:39y Jehová ha vuelto la maldad de NabalH7725
+- 1Sa_26:21dijo Saúl...vuélvete, hijo mío DavidH7725
+- 1Sa_26:25David se...y Saúl se volvió a su lugarH7725
+- 1Sa_29:4vuelva al lugar que le señalaste, y noH7725
+- 1Sa_29:4que en la batalla se nos vuelva enemigoH7725
+- 1Sa_29:4volvería mejor a la gracia de su señorH7725
+- 1Sa_29:7vuélvete, pues, y vete en paz, para noH7725
+- 1Sa_29:11se levantó David...para irse y volver aH7725
+- 1Sa_30:12comió, volvió en él su espíritu; porqueH7725
+- 2Sa_1:1que vuelto David de la derrota de losH7725
+- 2Sa_1:9me volvió a decir: Te ruego que te pongas
+- 2Sa_1:22el arco de Jonatán no volvía atrás, niH7734
+- 2Sa_1:22arco...ni la espada de Saúl volvió vacíaH7725
+- 2Sa_2:1David volvió a decir: ¿A dónde subiré?
+- 2Sa_2:22y Abner volvió a decir a Asael: Apártate
+- 2Sa_2:26no dirás...que se vuelva de perseguir aH7725
+- 2Sa_2:30volvió de perseguir a Abner, y juntandoH7725
+- 2Sa_3:12mi mano...para volver a ti todo Israel
+- 2Sa_3:16anda, vuélvete...Entonces él se volvióH7725
+- 2Sa_3:26le hicieron volver desde el pozo de SiraH5750
+- 2Sa_3:27y cuando Abner volvió a Hebrón, Joab loH7725
+- 2Sa_3:34Y todo el pueblo volvió a llorar sobre élH3254
+- 2Sa_5:2sacabas a Israel a la guerra, y lo volvías a traer
+- 2Sa_5:22los filisteos volvieron a venir, y se extendieronH3254
+- 2Sa_6:1David volvió a reunir a todos los escogidos de IsraelH5750
+- 2Sa_6:20volvió...David para bendecir su casa; yH7725
+- 2Sa_10:5vuelva a nacer...barba...entonces volved
+- 2Sa_10:14se volvió...Joab de luchar contra...AmónH7725
+- 2Sa_10:15pero los sirios...se volvieron a reunir
+- 2Sa_11:4ella se purificó...y se volvió a su casaH7725
+- 2Sa_12:15y Natán se volvió a su casa...Y JehováH7725
+- 2Sa_12:23¿podré yo hacerle volver? Yo voy a élH5750
+- 2Sa_12:23yo voy a él, mas él no volverá a míH7725
+- 2Sa_12:31volvió David con...el pueblo a JerusalénH7725
+- 2Sa_14:13el rey no hace volver a su desterradoH7725
+- 2Sa_14:14aguas...que no pueden volver a recogerse
+- 2Sa_14:21rey dijo...haz volver al joven AbsalónH7725
+- 2Sa_14:24volvió Absalón a su casa, y no vio elH5437
+- 2Sa_15:8si Jehová me hiciere volver a JerusalénH7725
+- 2Sa_15:19vuélvete y quédate con el rey; porqueH7725
+- 2Sa_15:20vuélvete, y haz volver a tus hermanosH7725
+- 2Sa_15:25rey...Vuelve el arca de Dios a la ciudadH7725
+- 2Sa_15:25él hará que vuelva, y me dejará verlaH7725
+- 2Sa_15:27¿no eres tú...Vuelve en paz a la ciudadH7725
+- 2Sa_15:29volvieron el arca de Dios a JerusalénH7725
+- 2Sa_15:34mas si volvieres a la ciudad, y dijeresH7725
+- 2Sa_17:3haré volver a ti todo el pueblo (pues túH7725
+- 2Sa_17:3y cuando ellos hayan vuelto...el puebloH7725
+- 2Sa_17:20no los hallaron, volvieron a JerusalénH7725
+- 2Sa_18:16el pueblo se volvió de seguir a IsraelH7725
+- 2Sa_18:22Ahimaas hijo de Sadoc volvió a decir a JoabH3254
+- 2Sa_18:27el atalaya volvió a decir: Me parece el correr
+- 2Sa_19:2se volvió aquel día la victoria en lutoH7725
+- 2Sa_19:10estáis callados...hacer volver al rey?[[H7725]]
+- 2Sa_19:11volver el rey a...hacerle v a su casa?
+- 2Sa_19:12los postreros en hacer volver al rey?[[H7725]]
+- 2Sa_19:14al rey: Vuelve tú, y todos tus siervosH7725
+- 2Sa_19:15volvió, pues, el rey, y vino hasta elH7725
+- 2Sa_19:24el rey salió hasta el día en que volvió
+- 2Sa_19:30que mi señor el rey ha vuelto en pazH7725
+- 2Sa_19:37te ruego que dejes volver a tu siervoH7725
+- 2Sa_19:39lo bendijo; y él se volvió a su casaH7725
+- 2Sa_19:43respecto de hacer volver a nuestro rey?[[H7725]]
+- 2Sa_20:18entonces volvió ella a hablar, diciendo
+- 2Sa_20:22y Joab se volvió al rey a JerusalénH7725
+- 2Sa_21:15volvieron...filisteos a hacer la guerraH5750
+- 2Sa_22:38destruiré, y no volveré hasta acabarlosH7725
+- 2Sa_22:41mis enemigos me vuelvan las espaldas
+- 2Sa_23:10se volvió el pueblo...recoger el botínH7725
+- 2Sa_24:1volvió a encenderse la ira de Jehová contra IsraelH3254
+- 2Sa_24:8volvieron a Jerusalén al cabo de nueveH935
+- 2Sa_24:17tu mano se vuelva contra mí, y contra
+- 1Re_2:19y volvió a sentarse en su trono
+- 1Re_2:30Benaía volvió con esta respuesta al reyH7725
+- 1Re_2:32y Jehová hará volver su sangre sobre suH7725
+- 1Re_2:41había ido...hasta Gat, y que había vueltoH7725
+- 1Re_2:44Jehová...ha hecho volver el mal sobre tuH7725
+- 1Re_3:22la otra volvió a decir: No; tu hijo es el muerto
+- 1Re_8:14y volviendo el rey su rostro, bendijo aH7725
+- 1Re_8:33se volvieren a ti y confesaren tu nombreH7725
+- 1Re_8:34y los volverás a la tierra que diste aH7725
+- 1Re_8:35confesaren tu...y se volvieren del pecadoH7725
+- 1Re_8:47ellos volvieren en sí en la tierra donde
+- 1Re_10:13y ella se volvió, y se fue a su tierraH7725
+- 1Re_12:5idos, y de aquí a tres días volved a míH7725
+- 1Re_12:12rey...diciendo: Volved a mí al tercer díaH7725
+- 1Re_12:20todo Israel que Jeroboam había vueltoH7725
+- 1Re_12:21y hacer volver el reino a Roboam hijoH7725
+- 1Re_12:24volveos cada...y volvieron y se fueronH7725
+- 1Re_12:26se volverá el reino a la casa de DavidH7725
+- 1Re_12:27pueblo se volverá a...volverán a RoboamH7725
+- 1Re_13:10no volvió por...por donde había venidoH7725
+- 1Re_13:16él respondió: No podré volver contigoH7725
+- 1Re_13:19volvió con él, y comió pan en su casaH3212
+- 1Re_13:20, 1Re_13:26profeta que le había hecho volverH7725
+- 1Re_13:22que volviste, y comiste pan y bebisteH7725
+- 1Re_13:23el que le había hecho volver le ensilló
+- 1Re_13:33volvió a hacer sacerdotes de los...altosH7725
+- 1Re_17:3apártate de aquí, y vuélvete al orienteH6437
+- 1Re_17:11yendo ella para traérsela, él la volvió a llamar
+- 1Re_17:21ruego que hagas volver el alma de esteH7725
+- 1Re_17:22el alma del niño volvió a él, y revivióH7725
+- 1Re_18:22Elías volvió a...yo he quedado profeta de Jehová
+- 1Re_18:37que tú vuelves a ti el corazón de ellosH7725
+- 1Re_18:43le volvió a decir...Vuelve siete vecesH7725
+- 1Re_19:6y comió y bebió, y volvió a dormirseH7725
+- 1Re_19:7y volviendo el ángel de...la segunda vezH7725
+- 1Re_19:15vuélvete por tu camino, por el desiertoH7725
+- 1Re_19:20dijo: Vé, vuelve; ¿qué te he hecho yo?[[H7725]]
+- 1Re_19:21y se volvió, y tomó un par de bueyesH7725
+- 1Re_20:5volviendo los mensajeros...dijeron: AsíH7725
+- 1Re_21:4acostó en su cama, y volvió su rostroH7725
+- 1Re_21:19volverás a hablarle, diciendo: Así ha
+- 1Re_22:17no tienen...vuélvase cada uno a su casaH7725
+- 1Re_22:27la cárcel...hasta que yo vuelva en pazH935
+- 1Re_22:28si llegas a volver en paz, Jehová noH7725
+- 2Re_1:5cuando los mensajeros se volvieron alH6437
+- 2Re_1:5él les dijo: ¿Por qué os habéis vuelto?[[H6487]]
+- 2Re_1:6y volveos al rey que os envió, y decidleH7725
+- 2Re_1:11volvió el rey a enviar a él otro capitánH7725
+- 2Re_1:13volvió a enviar al tercer capitán de cincuentaH7725
+- 2Re_2:4Elías le volvió a decir: Eliseo, quédate aquí ahora
+- 2Re_2:13volvió, y se paró a la orilla del JordánH7725
+- 2Re_2:18cuando volvieron a Eliseo, que se habíaH7725
+- 2Re_2:25fue al monte Carmelo...volvió a SamariaH7725
+- 2Re_3:23los reyes se han vuelto uno contra otro
+- 2Re_3:27se apartaron...se volvieron a su tierraH7725
+- 2Re_4:31se había vuelto para encontrar a EliseoH7725
+- 2Re_4:35volviéndose...se paseó por la casa a unaH7725
+- 2Re_4:38Elíseo volvió a Gilgal cuando había unaH7725
+- 2Re_4:39y volvió, y las cortó en la olla...potaje
+- 2Re_4:43él volvió a decir: Da a la gente para que coma
+- 2Re_5:12limpio? Y se volvió, y se...fue enojadoH6487
+- 2Re_5:14su carne se volvió como la...de un niñoH7725
+- 2Re_5:15volvió al varón de Dios, él y toda suH7725
+- 2Re_5:26cuando el hombre volvió...a recibirte?[[H6437]]
+- 2Re_6:22coman y beban, y vuelvan a sus señoresH3212
+- 2Re_6:23envió, y ellos se volvieron a su señorH3212
+- 2Re_7:8vueltos, entraron en otra tienda, y deH7725
+- 2Re_7:15y volvieron...y lo hicieron saber al reyH7725
+- 2Re_8:3la mujer volvió de la tierra...filisteosH7725
+- 2Re_8:29el rey Joram se volvió a Jezreel paraH7725
+- 2Re_9:15se había vuelto el rey Joram a JezreelH7725
+- 2Re_9:18vuélvete conmigo...El atalaya dio luegoH7725
+- 2Re_9:18el mensajero...hasta ellos, y no vuelveH5437
+- 2Re_9:19¿qué tienes tú...ver con la paz? VuélveteH5437
+- 2Re_9:20también éste llegó a ellos y no vuelveH7725
+- 2Re_9:23Joram volvió las riendas y huyó, y dijoH6437
+- 2Re_9:36y volvieron, y se lo dijeron...Y él dijoH7725
+- 2Re_13:18le volvió a decir: Toma las saetas
+- 2Re_13:25volvió Joás...y tomó...las ciudades queH7725
+- 2Re_14:14a los hijos tomó en rehenes, y volvióH7725
+- 2Re_15:20y el rey de Asiria se volvió, y no seH6487
+- 2Re_17:13volveos de vuestros malos caminos, yH7725
+- 2Re_19:7y oirá rumor, y se volverá a su tierraH7725
+- 2Re_19:9volvió él y envió embajadores a EzequíasH7725
+- 2Re_19:28te haré volver por el camino por dondeH6437
+- 2Re_19:30volverá a echar raíces abajo, y llevará frutoH3254
+- 2Re_19:33por el mismo camino que vino, volveráH935
+- 2Re_19:36Senaquerib...se fue, y volvió a NíniveH7725
+- 2Re_20:2él volvió su rostro a la pared, y oró aH7725
+- 2Re_20:5vuelve, y dí a Ezequías, príncipe de miH7725
+- 2Re_20:10que la sombra vuelva atrás diez gradosH6437
+- 2Re_20:11e hizo volver la sombra por los gradosH7725
+- 2Re_20:15él le volvió a decir: ¿Qué vieron en tu casa?
+- 2Re_21:3volvió a edificar los lugares altos que EzequíasH7725
+- 2Re_21:8no volveré a hacer que el pie de Israel sea movido
+- 2Re_21:13que se friega y se vuelve boca abajo
+- 2Re_23:16volvió Josías, y viendo los sepulcrosH6437
+- 2Re_23:20quemó...huesos de...y volvió a JerusalénH7725
+- 2Re_24:1pero luego volvió y se rebeló contra élH6437
+- 1Cr_4:22dominaron en...y volvieron a Lehem
+- 1Cr_11:2sacaba a la guerra a Israel, y lo volvía a traer
+- 1Cr_14:13volviendo los filisteos...por el valleH3254
+- 1Cr_14:14volvió a consultar a Dios, y Dios leH5437
+- 1Cr_16:43David se volvió para bendecir su casaH7725
+- 1Cr_19:5crezca la barba, y entonces volveréisH6437
+- 1Cr_19:15habían huido...Joab volvió a Jerusalén
+- 1Cr_20:3volvió David con...el pueblo a JerusalénH7725
+- 1Cr_20:5volvió a levantarse guerra contra losH5750
+- 1Cr_20:6y volvió a haber guerra en Gat, dondeH5750
+- 1Cr_21:4volvió a Jerusalén y dio la cuenta delH1980
+- 1Cr_21:20volviéndose Ornán, vio al ángel, porH6437
+- 1Cr_21:27al ángel...volvió su espada a la vainaH7725
+- 2Cr_1:13volvió Salomón a Jerusalén, y reinóH1980
+- 2Cr_6:3y volviendo el rey su rostro, bendijo aH6437
+- 2Cr_6:25Israel, y les harás volver a la tierraH7725
+- 2Cr_6:37ellos volvieren en sí en la tierra dondeH7725
+- 2Cr_7:19vosotros os volviereis, y dejaréis misH7725
+- 2Cr_9:12la reina de Sabá...se volvió y se fue aH7725
+- 2Cr_10:2lo oyó Jeroboam hijo...volvió de EgiptoH7725
+- 2Cr_10:5les dijo: Volved a mí de aquí a tres díasH7725
+- 2Cr_10:12mandado...Volved a...de aquí a tres díasH7725
+- 2Cr_11:1pelear...hacer volver el reino a RoboamH7725
+- 2Cr_11:4vuélvase cada uno a su casa, porque yoH7725
+- 2Cr_11:4oyeron la...y se volvieron, y no fueronH7725
+- 2Cr_12:11y después los volvían a la cámara deH7725
+- 2Cr_14:15y se llevaron...y volvieron a JerusalénH7725
+- 2Cr_18:16vuélvase cada uno en paz a su casaH6437
+- 2Cr_18:26la cárcel...hasta que yo vuelva en pazH6437
+- 2Cr_18:27Micaías dijo: Si tú volvieres en pazH7725
+- 2Cr_18:33vuelve las riendas...estoy mal heridoH2015
+- 2Cr_19:1Josafat rey de...volvió en paz a su casaH6437
+- 2Cr_19:8puso...sacerdotes...volvieron a JerusalénH7725
+- 2Cr_20:12no sabemos...y a ti volvemos nuestrosH935
+- 2Cr_20:27y todo Judá...volvieron para regresarH7725
+- 2Cr_22:6y volvió para curarse...de las heridasH7725
+- 2Cr_24:11la vaciaban, y la volvían a su lugarH7725
+- 2Cr_24:19envió profetas para que los volviesenH7725
+- 2Cr_25:10y volvieron a sus casas encolerizadosH7725
+- 2Cr_25:14volviendo...Amasías de la matanza de losH935
+- 2Cr_25:24tomó todo el...después volvió a SamariaH7725
+- 2Cr_28:15llevaron...y ellos volvieron a SamariaH7725
+- 2Cr_29:6apartaron...y le volvieron las espaldasH6437
+- 2Cr_30:6Israel, volveos a Jehová...y él se volveráH7725
+- 2Cr_30:9volviereis a Jehová, vuestros hermanosH7725
+- 2Cr_30:9volverán a esta tierra; porque JehováH7725
+- 2Cr_30:9su rostro, si vosotros os volviereis aH5483
+- 2Cr_31:1se volvieron todos los hijos de IsraelH7725
+- 2Cr_32:21rey de Asiria...se volvió...avergonzadoH7725
+- 2Cr_34:7hubo derribado los...volvió a JerusalénH7725
+- 2Cr_36:13para no volverse a Jehová el Dios deH6437
+- Esd_2:1y que volvieron a Jerusalén y a JudáH7725
+- Esd_6:21comieron los hijos...que habían vueltoH7725
+- Esd_6:22había vuelto el corazón de...hacia ellosH6437
+- Esd_9:14de volver a infringir tus mandamientosH7725
+- Neh_1:9si os volviereis a mí, y guardareis misH7725
+- Neh_2:6¿cuánto durará...viaje, y cuándo volverás?[[H7725]]
+- Neh_2:15y entré por la puerta del...y me volvíH7725
+- Neh_4:2¿Se les permitirá volver a ofrecer sus sacrificios?
+- Neh_4:4vuelve el baldón de ellos sobre su cabezaH7725
+- Neh_4:12de donde volviereis, ellos caerán sobreH7725
+- Neh_4:15nos volvimos todos al muro, cada uno aH7725
+- Neh_7:6volvieron a Jerusalén y a Judá, cada unoH7725
+- Neh_8:17congregación que volvió...tabernáculosH7725
+- Neh_9:17caudillo para volverse a su servidumbreH7725
+- Neh_9:28volvían a hacer lo malo delante de tiH7725
+- Neh_9:28volvían y clamaban otra vez a ti, y túH7725
+- Neh_9:29a que se volviesen a tu ley; mas ellosH7725
+- Neh_13:2Dios volvió la maldición en bendiciónH6437
+- Neh_13:7volver a Jerusalén; y entonces supe delH935
+- Neh_13:9hice volver allí los utensilios de la casaH7725
+- Est_2:14volvía a la casa segunda de...mujeresH7725
+- Est_6:12esto Mardoqueo volvió a la puerta realH7725
+- Est_7:8el rey volvió del huerto del palacio alH7725
+- Est_8:3volvió...Ester a hablar delante del reyH3254
+- Job_1:21desnudo salí...y desnudo volveré alláH7725
+- Job_5:1voces...a cuál de los santos te volverás?[[H6437]]
+- Job_6:29volved ahora, y no haya iniquidad; v aúnH7725
+- Job_7:7que mis ojos no volverán a ver el bien
+- Job_7:10no volverá más a su casa, ni su lugar leH7725
+- Job_9:13Dios no volverá atrás su ira, y debajo
+- Job_10:8me formaron...te vuelves y me deshaces?
+- Job_10:9diste forma...en polvo me has de volver?[[H7725]]
+- Job_10:16y vuelves a hacer en mí maravillasH7725
+- Job_10:21que vaya para no volver, a la tierra deH7725
+- Job_12:23a las naciones, y las vuelve a reunir
+- Job_14:12el hombre yace y no vuelve a levantarse
+- Job_14:14si el hombre muriere, ¿volverá a vivir?
+- Job_15:13para que contra Dios vuelvas tu espírituH7725
+- Job_15:22él no cree que volverá de las tinieblasH7725
+- Job_16:22iré por el camino de donde no volveréH7725
+- Job_17:10volved todos vosotros, y venid ahora, yH7725
+- Job_19:19los que yo amaba se volvieron contra míH6437
+- Job_22:21vuelve...en amistad con él, y tendrás
+- Job_22:23si te volvieres al Omnipotente, serásH7725
+- Job_29:1¿Se les permitirá volver a ofrecer sus sacrificios?
+- Job_29:2¡quién me volviese como en los meses
+- Job_30:21has vuelto cruel para mí; con el poderH2015
+- Job_33:25niño; volverá a los días de su juventudH7725
+- Job_34:15perecería...el hombre volvería al polvoH7725
+- Job_36:21guárdate, no te vuelvas a la iniquidad
+- Job_39:4sus hijos...salen, y no vuelven a ellasH7725
+- Job_39:22ni vuelve el rostro delante de...espadaH6437
+- Job_40:5aun dos veces, mas no volveré a hablar
+- Job_41:8te acordarás de...y nunca más volverás
+- Job_41:31Y lo vuelve como una olla de ungüentoH7760
+- Sal_4:2cuándo volveréis mi honra en infamiaH6437
+- Sal_6:4vuélvete, oh Jehová, libra mi almaH7725
+- Sal_6:10volverán y serán avergonzados de repenteH7725
+- Sal_7:7y sobre ella vuélvete a sentar en altoH7725
+- Sal_7:16su iniquidad volverá sobre su cabezaH7725
+- Sal_9:3mis enemigos volvieron atrás; cayeron yH7725
+- Sal_10:18que no vuelva más a hacer violencia el
+- Sal_14:7Jehová hiciere volver a los cautivos deH7725
+- Sal_18:37perseguí a...y no volví hasta acabarlosH7725
+- Sal_18:40has hecho que...me vuelvan las espaldas
+- Sal_22:27se acordarán, y se volverán a JehováH7725
+- Sal_32:4volvió mi verdor en sequedades de veranoH6437
+- Sal_35:4vueltos atrás...los que mi mal intentanH6437
+- Sal_35:13alma...y mi oración se volvía a mi senoH7725
+- Sal_40:14vuelvan atrás...los que mi mal desean
+- Sal_41:8el que cayó en cama no volverá a levantarse
+- Sal_44:18no se ha vuelto atrás nuestro corazónH6437
+- Sal_51:12vuélveme el gozo de tu salvación, yH7725
+- Sal_53:3cada uno se había vuelto atrás; todos seH5472
+- Sal_53:6Dios hiciere volver de la cautividad deH7725
+- Sal_56:9serán luego vueltos atrás mis enemigosH7725
+- Sal_59:6volverán a la...ladrarán como perros, yH6437
+- Sal_59:14vuelvan, pues, a la tarde, y ladren comoH7725
+- Sal 60 títH...y volvió Joab, y destrozó a doce milH7725
+- Sal_60:1oh...te has airado; ¡vuélvete a nosotros![[H7725]]
+- Sal_66:6volvió el mar en seco...río pasaron a pieH6437
+- Sal_68:22de Basán te haré volver; te haré v deH7725
+- Sal_70:2sean vueltos atrás y avergonzados los queH6437
+- Sal_70:3vueltos atrás, en pago de su afrenta, losH6437
+- Sal_71:20volverás a darme vida, y de nuevo me levantarásH7725
+- Sal_71:21aumentarás mi grandeza, y volverás a consolarme
+- Sal_73:10por eso Dios hará volver a su puebloH7725
+- Sal_74:21no vuelva avergonzado el abatido; elH7725
+- Sal_77:7Señor...no volverá más a sernos propicio?
+- Sal_78:9volvieron las espaldas en el día de laH6437
+- Sal_78:17pero aún volvieron a pecar contra él
+- Sal_78:34entonces se volvían solícitos en buscaH7725
+- Sal_78:39que eran carne, soplo que va y no vuelveH7725
+- Sal_78:41y volvían, y tentaban a Dios...al SantoH6437
+- Sal_78:44volvió sus ríos en sangre...no bebiesenH6437
+- Sal_78:57se volvieron y se rebelaron como susH6437
+- Sal_80:14Dios...vuelve ahora; mira desde el cielo
+- Sal_81:14vuelto mi mano contra sus adversariosH6437
+- Sal_85:1Jehová; volviste la cautividad de JacobH7725
+- Sal_85:6¿No volverás...tu pueblo se regocije en ti?[[H7725]]
+- Sal_85:8paz...para que no se vuelvan a la locuraH7725
+- Sal_90:3vuelves al hombre hasta ser quebrantadoH7725
+- Sal_90:13vuélvete, oh Jehová; ¿hasta cuándo?[[H7725]]
+- Sal_94:15que el juicio será vuelto a la justiciaH7725
+- Sal_94:23él hará volver sobre ellos su iniquidadH7725
+- Sal_104:9el cual no traspasarán, ni volverán aH7725
+- Sal_104:29quitas...dejan de ser, y vuelven al polvoH7725
+- Sal_105:29volvió sus aguas en sangre, y mató susH6437
+- Sal_107:35vuelve el desierto en estanques deH6437
+- Sal_114:3el mar lo vio...Jordán se volvió atrás
+- Sal_114:5¿y tú...Jordán, que te volviste atrás?
+- Sal_116:7vuelve...alma mía, a tu reposo, porqueH7725
+- Sal_119:59y volví mis pies a tus testimoniosH6437
+- Sal_119:79vuélvanse a mí los que te temen yH6437
+- Sal_126:1Jehová hiciere volver la cautividad deH6437
+- Sal_126:4volver nuestra cautividad, oh JehováH7725
+- Sal_126:6volverá a venir...trayendo sus gavillas
+- Sal_129:5vueltos atrás todos los que aborrecenH6437
+- Sal_132:10no vuelvas de tu ungido el rostroH7725
+- Sal_146:4sale su aliento, y vuelve a la tierraH7725
+- Pro_1:23volveos a mi reprensión; he aquí yoH7725
+- Pro_2:19los que a ella se lleguen, no volveránH7725
+- Pro_3:28no digas a tu prójimo: Anda, y vuelve, yH7725
+- Pro_7:20mano; el día señalado volverá a su casaH935
+- Pro_17:8adondequiera que se vuelve...prosperidadH6437
+- Pro_19:17y el bien que ha hecho, se lo volverá a pagarH7999
+- Pro_22:21vuelvas a llevar palabras...a los que te enviaron?
+- Pro_23:35cuando despertare...lo volveré a buscarH5750
+- Pro_24:16siete veces cae el justo, y vuelve a levantarse
+- Pro_26:11como perro que vuelve a su vómito, asíH7725
+- Pro_26:14así el perezoso se vuelve en su cama
+- Pro_26:27al que revuelve...sobre él le volveráH7725
+- Pro_30:30el león...que no vuelve atrás por nadaH6437
+- Ecl_1:5apresura a volver...de donde se levanta
+- Ecl_1:6y a sus giros vuelve el viento de nuevoH7725
+- Ecl_1:7ríos...allí vuelven para correr de nuevoH7725
+- Ecl_2:12volví yo a mirar para ver la sabiduría y losH6437
+- Ecl_2:20volvió...a desesperanzarse mi corazónH5437
+- Ecl_3:20del polvo, y todo volverá al mismo polvoH7725
+- Ecl_4:1me volví y vi todas las violencias que seH7725
+- Ecl_4:7yo me volví otra vez, y vi vanidad debajoH7725
+- Ecl_5:15como salió del vientre de su...así vuelveH7725
+- Ecl_5:16mal, que como vino, así haya de volverH3212
+- Ecl_7:25me volví y fijé mi corazón para saber y
+- Ecl_9:11me volví y vi debajo del sol, que ni esH7725
+- Ecl_12:2luz...y vuelvan las nubes tras la lluviaH7725
+- Ecl_12:7y el polvo vuelva a la tierra, como eraH7725
+- Ecl_12:7y el espíritu vuelva a Dios que lo dioH7725
+- Cnt_2:17vuélvete, amado mío; sé semejante alH5437
+- Cnt_6:13vuélvete, v, oh sulamita; v, v, y teH7725
+- Isa_1:4dejaron a Jehová...se volvieron atrásH2114
+- Isa_1:25y volveré mi mano contra ti, y limpiaréH6437
+- Isa_2:4y volverán sus espadas en rejas de arado
+- Isa_6:13si quedare...ésta volverá a ser destruidaH7725
+- Isa_8:5vez volvió Jehová a hablarme, diciendoH3254
+- Isa_10:21el remanente volverá...v al Dios fuerteH7725
+- Isa_10:22tu pueblo...el remanente de él volveráH7725
+- Isa_21:4noche de mi deseo se me volvió...espantoH6437
+- Isa_21:12si queréis, preguntad; volved, venidH7725
+- Isa_23:17volverá a comerciar, y...fornicará conH7725
+- Isa_31:6volved a aquel contra quien se rebelaronH7725
+- Isa_32:14torres y fortalezas se volverán cuevas
+- Isa_33:9Sarón se ha vuelto...desierto, y Basán y
+- Isa_35:10y los redimidos de Jehová volverán, yH7725
+- Isa_37:7y oirá un rumor, y volverá a su tierraH7725
+- Isa_37:8vuelto, pues, el Rabsaces, halló al reyH7725
+- Isa_37:29te haré volver por el camino por dondeH7725
+- Isa_37:31volverá a echar raíz abajo, y dará fruto arriba
+- Isa_37:34por el camino que vino, volverá, y noH7725
+- Isa_38:2entonces volvió Ezequías su rostro a laH6437
+- Isa_38:8yo haré volver la sombra por los gradosH7725
+- Isa_38:8y volvió el sol diez grados atrás, porH7725
+- Isa_42:17serán vueltos atrás y en...confundidosH6437
+- Isa_44:22vuélvete a mí, porque yo te redimíH7725
+- Isa_44:25que hago volver atrás a los sabios, yH6437
+- Isa_46:8volved en vosotros, prevaricadoresH7725
+- Isa_49:5para hacer volver a él a Jacob y paraH7725
+- Isa_50:5y yo no fui rebelde, ni me volví atrásH7725
+- Isa_51:11volverán los redimidos de...v a SionH7725
+- Isa_52:8verán que Jehová vuelve a traer a SionH7725
+- Isa_55:7y vuélvase a Jehová, el cual tendrá deH7725
+- Isa_55:10lluvia...no vuelve allá, sino que riegaH7725
+- Isa_55:11mi palabra...no volverá a mí vacía, sinoH7725
+- Isa_55:12y con paz seréis vueltos; los montes y
+- Isa_59:20a los que se volvieren de la iniquidadH6437
+- Isa_60:5se haya vuelto a ti la multitud del marH7725
+- Isa_63:10por lo cual se les volvió enemigo, y élH6437
+- Isa_63:17vuélvete por amor de tus siervos, porH7725
+- Jer_2:21has vuelto sarmiento de vid extraña?[[H2015]]
+- Jer_2:27me volvieron la cerviz, y no el rostroH6437
+- Jer_3:1se juntare a otro...¿volverá a ella más?[[H7725]]
+- Jer_3:1tú, pues...¡vuélvete a mí! dice JehováH7725
+- Jer_3:7se volverá a mí; pero no se volvió, y loH6437
+- Jer_3:10Judá no se volvió a mí de todo corazónH7725
+- Jer_3:12vuélvete...rebelde Israel, dice JehováH7725
+- Jer_4:1si te volvieres, oh Israel...vuélvete a míH7725
+- Jer_6:9vuelve tu mano como vendimiador entre losH7725
+- Jer_8:4el que se desvía, ¿no vuelve al camino?[[H7725]]
+- Jer_8:5abrazaron el...y no han querido volverseH7725
+- Jer_8:6cada cual se volvió a su propia carreraH7725
+- Jer_11:10se han vuelto a las maldades de...padresH7725
+- Jer_12:15volveré y tendré misericordia de ellosH7725
+- Jer_12:15los haré volver cada uno a su heredadH7725
+- Jer_13:16luz y os la vuelva en sombra de muerteH7760
+- Jer_14:3agua; volvieron con sus vasijas vacíasH7725
+- Jer_15:6me dejaste...te volviste atrás; por tantoH3212
+- Jer_15:7pueblo...no se volvieron de sus caminosH7725
+- Jer_16:15los volveré a su tierra, la cual di aH7725
+- Jer_18:4volvió y la hizo otra vasija, según leH7725
+- Jer_19:14y volvió Jeremías de Tofet, adonde leH935
+- Jer_21:4yo vuelvo atrás las armas de guerra queH6437
+- Jer_22:10llorad...por el que se va...no volveráH7725
+- Jer_22:11Salum hijo de Josías...No volverá másH7725
+- Jer_22:27a la...anhelan volver, allá no volveránH7725
+- Jer_23:3ovejas...y las haré volver a sus moradasH7725
+- Jer_23:22habrían hecho volver de su mal caminoH6437
+- Jer_24:6para bien, y los volveré a esta tierraH7725
+- Jer_24:7seré...se volverán a mí de todo su corazónH7725
+- Jer_25:5volveos ahora de vuestro mal camino y deH7725
+- Jer_26:3y se vuelvan cada uno de su mal caminoH7725
+- Jer_27:16los utensilios...volverán de BabiloniaH7725
+- Jer_28:3dentro de dos años haré volver a esteH7725
+- Jer_28:4yo haré volver a este lugar a JeconíasH7725
+- Jer_29:10buena palabra, para haceros volver aH7725
+- Jer_29:14haré volver...haré v al lugar de dondeH7725
+- Jer_30:3haré volver a los cautivos de mi puebloH7725
+- Jer_30:6se han vuelto pálidos todos los rostrosH2015
+- Jer_30:8extranjeros no lo volverán más a poner
+- Jer_30:10y Jacob volverá, descansará y viviráH7725
+- Jer_30:18volver los cautivos de las tiendas deH7725
+- Jer_31:8los hago volver...gran compañía volveránH7725
+- Jer_31:9con misericordia los haré volver, y losH7725
+- Jer_31:16y volverán de la tierra del enemigoH7725
+- Jer_31:17los hijos volverán a su propia tierraH7725
+- Jer_31:21vuélvete por el camino por donde fuisteH7725
+- Jer_31:21de Israel, vuelve a estas tus ciudadesH7725
+- Jer_31:23cuando yo haga volver sus cautivosH7725
+- Jer_32:33me volvieron la cerviz, y no el rostroH6437
+- Jer_32:37y los haré volver a este lugar, y losH7725
+- Jer_32:40no me volveré atrás de hacerles bienH7725
+- Jer_33:7haré volver los cautivos de Judá y losH7725
+- Jer_33:11volveré a traer los cautivos de la tierraH7725
+- Jer_33:26haré volver sus cautivos, y tendré deH7725
+- Jer_34:11hicieron volver a los siervos y a lasH7725
+- Jer_34:16habéis vuelto y profanado...habéis v aH6437
+- Jer_34:22haré volver a esta ciudad..la tomaránH7725
+- Jer_35:15volveos ahora...de vuestro mal caminoH7725
+- Jer_36:7y se vuelva cada uno de su mal caminoH7725
+- Jer_36:16oyeron...cada uno se volvió espantado
+- Jer_36:28vuelve a tomar otro rollo, y escribeH7725
+- Jer_37:7el ejército...se volvió a su tierra enH7725
+- Jer_37:8y volverán los caldeos y atacarán estaH7725
+- Jer_37:20no me hagas volver a casa del escribaH7725
+- Jer_38:22hundieron en el cieno...volvieron atrásH6437
+- Jer_38:26supliqué al rey...no me hiciese volverH7725
+- Jer_40:5prefieres quedarte, vuélvete...vive con élH7725
+- Jer_41:14el pueblo...se volvió y fue con JohanánH7725
+- Jer_42:15volviereis vuestros rostros para entrar
+- Jer_42:17los hombres que volvieren sus rostros
+- Jer_43:5remanente de Judá que se había vueltoH7725
+- Jer_44:11vuelvo mi rostro contra vosotros para
+- Jer_44:12volvieron sus rostros para ir a tierra
+- Jer_44:14volver a la tierra de Judá, por v a laH7725
+- Jer_44:14no volverán sino algunos fugitivosH7725
+- Jer_44:28volverán...de Egipto a la tierra de JudáH7725
+- Jer_46:5y huyeron sin volver a mirar atrásH5472
+- Jer_46:16levántate y volvámonos a...pueblo, y aH7725
+- Jer_46:21sus soldados...volvieran atrás, huyeronH6437
+- Jer_46:27y volverá Jacob, y descansará y seráH7725
+- Jer_47:6vuelve a tu vaina, reposa y sosiégate
+- Jer_48:39¡lamentad! ¡Cómo volvió la espaldaH6437
+- Jer_48:47haré volver a los cautivos de Moab enH7725
+- Jer_49:6haré volver a los cautivos de...de AmónH7725
+- Jer_49:8huid, volveos atrás, habitad en lugaresH6437
+- Jer_49:24se volvió para huir, y le tomó temblorH6437
+- Jer_49:39que haré volver a los cautivos de ElamH7725
+- Jer_50:5el camino de Sion, hacia donde volverán
+- Jer_50:9valiente diestro, que no volverá vacíoH7725
+- Jer_50:16uno volverá el rostro hacia su puebloH6437
+- Jer_50:19volveré a traer a Israel a su moradaH7725
+- Jer_51:30les faltaron las fuerzas, se volvieronH1961
+- Lam_1:1grande entre las naciones se ha vueltoH1961
+- Lam_1:2sus amigos le...se le volvieron enemigosH1961
+- Lam_1:8Jerusalén...ella suspira, y se vuelve atrásH6437
+- Lam_1:13ha extendido red a mis pies, me volvióH7725
+- Lam_3:3contra mí volvió y revolvió su mano todoH7725
+- Lam_3:40y busquemos, y volvámonos a JehováH7725
+- Lam_3:45nos volviste en oprobio y abominación
+- Lam_5:21vuélvenos, oh Jehová...y nos volveremosH7725
+- Eze_1:9no se volvían cuando andaban, sino queH6437
+- Eze_1:12derecho...cuando andaban, no se volvíanH6437
+- Eze_1:14seres...corrían y volvían a semejanza deH7725
+- Eze_1:17costados; no se volvían cuando andabanH6437
+- Eze_4:8no te volverás de un lado a otro, hastaH2015
+- Eze_7:13que vende no volverá a lo vendido, aunqueH7725
+- Eze_8:6, Eze_8:13, Eze_8:15vuélvete aún...verás abominacionesH7725
+- Eze_8:16sus espaldas vueltas al templo de Jehová
+- Eze_8:17después...volvieron a mí para irritarmeH7725
+- Eze_10:11no se volvían cuando andaban, sino queH6437
+- Eze_10:11al lugar adonde se volvía la primera, enH6437
+- Eze_10:11pos...iban; ni se volvían cuando andabanH6437
+- Eze_11:18volverán allá, y quitarán...idolatríasH935
+- Eze_11:24me volvió a llevar en visión del Espíritu de DiosH935
+- Eze_13:9Israel, ni a la tierra de Israel volverán
+- Eze_14:6dice...Convertíos, y volveos de...ídolosH7725
+- Eze_16:53haré volver a sus cautivos...de SodomaH7725
+- Eze_16:53volver los cautivos de tus cautiverios
+- Eze_16:55sus hijas, volverán a su primer estadoH7725
+- Eze_16:55tú...volveréis a vuestro primer estadoH7725
+- Eze_21:16hiere a...adonde quiera que te vuelvas
+- Eze_21:30¿la volveré a su vaina? En...te juzgaréH7725
+- Eze_22:31hice volver el camino de ellos sobre su
+- Eze_24:14volveré atrás, ni tendré misericordiaH6544
+- Eze_26:2dijo Tiro...a mí se volvió; yo seré llenaH6437
+- Eze_29:14volveré a traer los cautivos de EgiptoH7725
+- Eze_29:15que no vuelvan a tener dominio sobre
+- Eze_33:11que se vuelva el impío de su camino, yH7725
+- Eze_33:11volveos, v de vuestros malos caminosH7725
+- Eze_33:12el día que se volviere de su impiedadH6437
+- Eze_34:4ni volvisteis al redil la descarriada, ni
+- Eze_34:16y haré volver al redil la descarriadaH7725
+- Eze_36:9por vosotros, y a vosotros me volveréH6437
+- Eze_39:25volveré la cautividad de Jacob, y tendréH7725
+- Eze_44:1me hizo volver hacia la puerta exteriorH7725
+- Eze_46:9no volverá por la puerta por donde entróH7725
+- Eze_46:17hasta el año del...volverá al príncipeH7725
+- Eze_47:1me hizo volver...a la entrada de la casaH7725
+- Eze_47:6y me hizo volver por la ribera del ríoH7725
+- Eze_47:7volviendo yo, vi que en la ribera del ríoH7725
+- Dan_4:36y mi grandeza volvieron a mí, y misH7725
+- Dan_9:3y volví mi rostro a Dios...buscándole en
+- Dan_9:25se volverá a edificar la plaza y el muroH7725
+- Dan_10:20tengo que volver para pelear contra elH7725
+- Dan_11:9así entrará en...y volverá a su tierraH7725
+- Dan_11:10luego volverá y llevará la guerra hastaH7725
+- Dan_11:13volverá a poner en campaña una multitud mayorH7725
+- Dan_11:18volverá después su rostro a las costasH7725
+- Dan_11:18y aun hará volver sobre él su oprobioH7725
+- Dan_11:19volverá su rostro a las fortalezas deH7725
+- Dan_11:28y volverá a su tierra con gran riquezaH7725
+- Dan_11:28hará su voluntad, y volverá a su tierraH7725
+- Dan_11:29al tiempo señalado volverá al sur; masH7725
+- Dan_11:30volverá, y se enojará contra el pactoH7725
+- Dan_11:30volverá, pues, y se entenderá con losH7725
+- Ose_2:7iré y me volveré a mi primer maridoH7725
+- Ose_2:9yo volveré y tomaré mi trigo a su tiempoH7725
+- Ose_3:5volverán los hijos de Israel, y buscaránH7725
+- Ose_5:15andaré y volveré a mi lugar, hasta queH7725
+- Ose_6:1venid y volvamos a Jehová...y nos curaráH7725
+- Ose_6:11cuando yo haga volver el cautiverio deH7725
+- Ose_7:10no se volvieron a Jehová su Dios, ni loH7725
+- Ose_7:16volvieron, pero no al Altísimo; fueronH7725
+- Ose_8:13y castigará su...ellos volverán a EgiptoH7725
+- Ose_9:3que volverá Efraín a Egipto y a AsiríaH7725
+- Ose_11:5no volverá a tierra de Egipto, sino queH7725
+- Ose_11:9no...ni volveré para destruir a EfraínH7725
+- Ose_12:6vuélvete a tu Dios; guarda misericordiaH7725
+- Ose_14:1vuelve...Israel, a Jehová tu Dios; porqueH7725
+- Ose_14:2volved a Jehová, y decidle: Quita todaH7725
+- Ose_14:7volverán y se sentarán bajo su sombraH7725
+- Joe_2:14si volverá y se arrepentirá y dejaráH7725
+- Joe_3:1en que haré volver la cautividad de Judá yH7725
+- Joe_3:7volveré vuestra paga sobre vuestra cabezaH7725
+- Joe_3:19Edom será vuelto en desierto asolado, por
+- Amó_1:8volveré mi mano contra Ecrón, y el restoH7725
+- Amó_4:6, Amó_4:8-9, Amó_4:10-11no os volvisteis a mí, diceH7725
+- Amó_5:3que salga con mil, volverá con ciento, yH3318
+- Amó_5:3la que salga con ciento volverá con diez
+- Amó_5:8y vuelve las tinieblas en mañana, y haceH6437
+- Amó_8:10la volveré como en llanto de unigénitoH2015
+- Abd_1:15tu recompensa volverá sobre tu cabezaH7725
+- Jon_1:13para hacer volver la nave a tierraH7725
+- Jon_3:9sabe si se volverá y se arrepentirá DiosH6437
+- Miq_1:7juntó, y a dones de rameras volveránH7725
+- Miq_5:3el resto...volverá con los hijos de IsraelH7725
+- Miq_7:17volverán amedrentados ante Jehová...Dios
+- Miq_7:19él volverá a...misericordia de nosotrosH7725
+- Nah_1:15nunca más volverá a pasar por ti el
+- Zac_1:3volveos a mí...me volveré a vosotrosH7725
+- Zac_1:4volveos ahora de vuestros malos caminosH7725
+- Zac_1:6por eso volvieron ellos y dijeron: ComoH7725
+- Zac_1:16he vuelto a Jerusalén con misericordiaH7725
+- Zac_4:1volvió el ángel que hablaba conmigo, yH7725
+- Zac_6:10Heldai...los cuales volvieron de BabiloniaH935
+- Zac_7:11antes volvieron la espalda, y taparon
+- Zac_9:12volveos a la fortaleza, oh prisionerosH6437
+- Zac_10:6guardaré la casa de...y los haré volverH7725
+- Zac_10:9mi; y vivirán con sus hijos, y volveránH6437
+- Zac_13:7volver mi mano contra los pequeñitosH6437
+- Zac_14:10la tierra se volverá como llanura desdeH6437
+- Mal_1:4volveremos a edificar lo arruinadoH7725
+- Mal_3:7volveos a mí, y yo me volveré a vosotrosH7725
+- Mal_3:7dijisteis: ¿En qué hemos de volvernos?[[H7725]]
+- Mal_3:18volveréis, y discerniréis la diferenciaH7725
+- Mal_4:6él hará volver el corazón de los padresH7725
+- Mat_2:12que no volviesen a Herodes, regresaronG844
+- Mat_4:12Jesús oyó que Juan estaba preso, volvióG402
+- Mat_5:39que te hiera...vuélvele también la otraG4762
+- Mat_7:6no sea que...y se vuelvan y os despedacenG4762
+- Mat_9:22volviéndose...dijo: Ten ánimo, hija; tuG1994
+- Mat_10:13mas...vuestra paz se volverá a vosotrosG1994
+- Mat_12:44dice: Volveré a mi casa de donde salíG1994
+- Mat_16:23volviéndose, dijo a Pedro: ¡Quítate deG4762
+- Mat_18:3si no os volvéis y os hacéis como niñosG4762
+- Mat_21:18la mañana, volviendo a la ciudad, tuvoG1877
+- Mat_22:1volvió a hablar en parábolas, diciendoG3825
+- Mat_22:4volvió a enviar otros siervos, diciendoG3825
+- Mat_24:18que...no vuelva atrás para tomar su capaG1994
+- Mat_26:52le dijo: Vuelve tu espada a su lugar
+- Mar_2:13volvió a salir al mar; y toda la genteG3825
+- Mar_5:30luego...volviéndose a la multitud, dijoG1994
+- Mar_7:4y volviendo de la plaza, si no se lavan
+- Mar_7:31volviendo a salir de la región de TiroG3825
+- Mar_8:13volvió a entrar en la barca, y se fue aG3825
+- Mar_8:33volviéndose y mirando a los discípulosG1994
+- Mar_9:3y sus vestidos se volvieron...muy blancosG1096
+- Mar_10:1volvió el pueblo a juntarse a él, y deG3825
+- Mar_10:10volvieron los discípulos a preguntarleG3825
+- Mar_10:24volvió a decirles: Hijos, ¡cuán difícilG3825
+- Mar_10:32volviendo a tomar a los doce aparte, lesG3825
+- Mar_11:27volvieron...a Jerusalén; y andando él porG3825
+- Mar_12:4volvió a enviarles otro siervo; pero apedreándoleG3825
+- Mar_12:5volvió a enviar otro, y a éste mataronG3825
+- Mar_13:16campo, no vuelva atrás a tomar su capaG1994
+- Mar_14:40al volver...los halló durmiendo, porqueG5290
+- Mar_14:61el sumo sacerdote le volvió a preguntarG3825
+- Mar_15:13volvieron a dar voces: ¡Crucifícale![[G3825]]
+- Luc_1:17volver los corazones de los padres aG1994
+- Luc_1:56tres meses; después se volvió a su casaG5290
+- Luc_2:20y volvieron los pastores glorificando yG1994
+- Luc_2:39después...volvieron a Galilea, a su ciudadG5290
+- Luc_2:45pero...volvieron a Jerusalén buscándoleG5290
+- Luc_2:51descendió con ellos, y volvió a Nazaret
+- Luc_4:1Jesús...volvió del Jordán, y fue llevadoG5290
+- Luc_4:14Jesús volvió en el poder del Espíritu aG5290
+- Luc_6:38con la misma medida...volverán a medirG488
+- Luc_7:9volviéndose, dijo a la gente...le seguíaG4762
+- Luc_7:44y vuelto a la mujer, dijo a Simón: ¿VesG4762
+- Luc_8:37Jesús, entrando en la barca, se volvióG5290
+- Luc_8:39vuélvete a tu casa, y cuenta...ha hechoG5290
+- Luc_8:40volvió Jesús, le recibió la multitud conG5290
+- Luc_8:55su espíritu volvió, e inmediatamente seG1994
+- Luc_9:10vueltos los apóstoles, le contaron todoG5290
+- Luc_9:55volviéndose él, los reprendió, diciendoG4762
+- Luc_10:6sobre él; y si no, se volverá a vosotrosG344
+- Luc_10:17volvieron los setenta con gozo, diciendoG5290
+- Luc_10:23volviéndose a los discípulos, les dijoG4762
+- Luc_11:24dice: Volveré a mi casa de donde salíG5290
+- Luc_13:20y volvió a decir: ¿A qué compararé elG3825
+- Luc_14:12te vuelvan a convidar, y seas recompensado
+- Luc_14:21vuelto el siervo, hizo saber estas cosasG3854
+- Luc_14:25iban con él; y volviéndose, les dijoG4762
+- Luc_15:17y volviendo en sí...¡Cuántos jornalerosG2064
+- Luc_17:4volviere a ti, diciendo: Me arrepientoG1994
+- Luc_17:7al volver él del campo, luego le dice
+- Luc_17:15volvió, glorificando a Dios a gran vozG5290
+- Luc_17:18¿no hubo quien volviese y diese gloriaG5290
+- Luc_17:31en el campo, asimismo no vuelva atrásG1994
+- Luc_19:12lejano, para recibir un reino y volverG5290
+- Luc_19:15vuelto él, después de recibir el reinoG1880
+- Luc_19:23que al volver yo, lo hubiera recibidoG2064
+- Luc_20:11volvió a enviar otro siervo; mas ellos a ésteG4388
+- Luc_20:12volvió a enviar un tercer siervo; mas ellosG4388
+- Luc_22:32y tú...vuelto, confirma a tus hermanosG1994
+- Luc_22:61vuelto el Señor...Pedro se acordó de laG4762
+- Luc_23:11Herodes...y volvió a enviarle a PilatoG375
+- Luc_23:21volvieron a dar voces, diciendo: ¡Crucifícale
+- Luc_23:28vuelto hacia ellas, les dijo: Hijas deG4762
+- Luc_23:48viendo...volvían golpeándose el pechoG5290
+- Luc_23:56vueltas, prepararon especias aromáticasG5290
+- Luc_24:9volviendo del sepulcro, dieron nuevas deG5290
+- Luc_24:33volvieron a Jerusalén, y hallaron a losG5290
+- Luc_24:52volvieron a Jerusalén con gran gozoG5290
+- Jua_1:38volviéndose Jesús...dijo:¿Qué buscáis?[[G4762]]
+- Jua_4:13bebiere de esta agua, volverá a tener sedG3825
+- Jua_6:15pero volvió a retirarse al monte él soloG3825
+- Jua_6:66volvieron atrás, y ya no andaban con élG3825
+- Jua_8:2y por la mañana volvió al templo, y todoG3825
+- Jua_9:15volvieron, pues, a...también los fariseosG3825
+- Jua_9:17volvieron a decirle al ciego: ¿Qué dices túG3825
+- Jua_9:24volvieron a llamar al...había sido ciegoG1205
+- Jua_9:26le volvieron a decir: ¿Qué te hizo?[[G3825]]
+- Jua_10:7volvió...Jesús a decirles: De cierto, deG3825
+- Jua_10:17porque yo pongo...para volverla a tomarG3825
+- Jua_10:18y tengo poder para volverla a tomarG3825
+- Jua_10:19volvió a haber disensión entre los judíosG3825
+- Jua_10:31los judíos volvieron a tomar piedrasG3825
+- Jua_13:12después...volvió a la mesa, y les dijoG3825
+- Jua_16:22os volveré a ver, y se gozará vuestro corazónG3825
+- Jua_18:7volvió, pues, a preguntarles: ¿A quién buscáis?[[G3825]]
+- Jua_18:33entonces Pilato volvió a entrar en el pretorioG3825
+- Jua_20:10volvieron los discípulos a los suyosG3825
+- Jua_20:14volvió, y vio a Jesús que estaba allíG4762
+- Jua_20:16volviéndose ella, le dijo: ¡Raboni![[G4762]]
+- Jua_21:16Volvió a decirle la segunda vez...¿me amas?[[G3825]]
+- Jua_21:20volviéndose Pedro, vio que les seguíaG1994
+- Hec_1:12volvieron a Jerusalén desde el monteG5290
+- Hec_5:22los alguaciles...volvieron y dieron avisoG390
+- Hec_7:39en sus corazones se volvieron a EgiptoG4762
+- Hec_8:25se volvieron a Jerusalén, y en muchasG5290
+- Hec_8:28volvía sentado en su carro, y leyendoG5290
+- Hec_9:40y volviéndose al cuerpo, dijo: TabitaG1994
+- Hec_10:15volvió la voz a él la segunda vez: LoG3825
+- Hec_10:16aquel lienzo volvió a ser recogido enG3825
+- Hec_11:10y volvió todo a ser llevado arriba alG3825
+- Hec_12:11volviendo en sí, dijo: Ahora entiendoG1096
+- Hec_12:25volvieron de Jerusalén, llevando...JuanG5290
+- Hec_13:13Juan, apartándose de ellos, volvió aG5290
+- Hec_13:34nunca más volver a corrupción, lo dijoG5290
+- Hec_13:46he aquí, nos volvemos a los gentilesG4762
+- Hec_14:21volvieron a Listra, a...y a AntioquíaG5290
+- Hec_15:16volveré y reedificaré el tabernáculoG390
+- Hec_15:16repararé sus...y lo volveré a levantarG456
+- Hec_15:33para volver a aquellos que los habían
+- Hec_15:36volvamos a visitar a los hermanos enG1994
+- Hec_16:18se volvió y dijo al espíritu: Te mandoG1994
+- Hec_18:21vez volveré a vosotros, si Dios quiereG1994
+- Hec_20:3tomó la decisión de volver por MacedoniaG5290
+- Hec_21:6barco, y ellos se volvieron a sus casasG5290
+- Hec_22:17vuelto a Jerusalén...me sobrevino unG5290
+- Hec_23:32dejando a los...volvieron a la fortalezaG5290
+- Hec_26:24loco...las muchas letras te vuelven locoG4062
+- Hec_27:28volviendo a echar la sonda, hallaron 15G3825
+- Rom_11:9sea vuelto su convite en trampa y enG1096
+- Rom_11:23poderoso es...para volverlos a injertarG3825
+- Rom_14:9volvió a vivir, para ser Señor así de los
+- 1Co_7:5volved a...para que no os tienteG3825
+- 2Co_12:21que cuando vuelva, me humille DiosG3825
+- Gál_1:17a Arabia, y volví de nuevo a DamascoG5290
+- Gál_2:18las mismas vuelvo a edificar, transgresor me hagoG3825
+- Gál_4:9¿cómo...os volvéis de nuevo a los débilesG1994
+- Gál_4:9los cuales os queréis volver a esclavizar?[[G1994]]
+- Gál_4:19hijitos míos, por quienes vuelvo a sufrirG3825
+- 1Ts_3:6cuando Timoteo volvió de vosotros a
+- 2Ti_4:4apartarán...se volverán a las fábulasG654
+- Flm_1:12el cual vuelvo a enviarte; tú...recíbeleG375
+- Heb_5:12tenéis necesidad...os vuelva a enseñarG3825
+- Heb_7:1a Abraham que volvía de la derrota deG5290
+- Heb_11:15ciertamente tenían tiempo de volverG344
+- Heb_11:19en sentido figurado, también le volvió a recibir
+- Stg_5:19extraviado...y alguno le hace volverG1994
+- Stg_5:20sepa que el que haga volver al pecadorG1994
+- 1Pe_2:25pero ahora habéis vuelto al Pastor yG1994
+- 2Pe_2:21volverse atrás del santo mandamientoG1994
+- 2Pe_2:22el perro vuelve a su vómito, y la puercaG1994
+- Rev_1:12me volví...vuelto, vi siete candelerosG1994
+- Rev_6:12sol...la luna se volvió toda como sangreG1096
+- Rev_20:5no volvieron a vivir hasta que...mil añosG326

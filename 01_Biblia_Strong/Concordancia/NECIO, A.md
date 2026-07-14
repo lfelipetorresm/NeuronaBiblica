@@ -1,0 +1,118 @@
+---
+tipo: concordancia
+palabra: NECIO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NECIO, A
+
+- Job_5:2al n lo mata la ira, y al codicioso loH191
+- Job_5:3yo he visto al n que echaba raíces, y enH191
+- Sal_14:1dice el n en su corazón: No hay DiosH5036
+- Sal_49:10perecen del miso modo que el...y el nH3684
+- Sal_53:1dice el n en su corazón: No hay DiosH5036
+- Sal_92:6el hombre n no sabe, y el insensato noH3684
+- Sal_94:8entended, n...pueblo; y vosotros, fatuosH1197
+- Pro_1:32la prosperidad de los n los echará aH3684
+- Pro_3:35heredarán...mas los n llevarán ignominiaH3684
+- Pro_7:22el n a las prisiones para ser castigadoH191
+- Pro_8:5entended...vosotros, n, entrad en corduraH3684
+- Pro_10:1pero el hijo n es tristeza de su madreH3684
+- Pro_10:8mandamientos, mas el o de labios caeráH191
+- Pro_10:10guiña...y el n de labios será castigadoH191
+- Pro_10:14mas la boca del n es calamidad cercanaH191
+- Pro_10:18encubre...el que propaga calumnia es nH3684
+- Pro_10:21los n mueren por falta de entendimientoH191
+- Pro_11:29el n será siervo del sabio de corazónH191
+- Pro_12:15camino del n es derecho en su opiniónH191
+- Pro_12:16el n al punto da a conocer su ira; masH191
+- Pro_12:23el corazón de los n publica la necedadH200, [[H3684]]
+- Pro_13:16prudente...mas el o manifestará necedadH3684
+- Pro_13:19apartarse del...es abominación a los nH3684
+- Pro_13:20el que se junta con n será quebrantadoH3684
+- Pro_14:1casa; mas la n con sus manos la derribaH200
+- Pro_14:3boca del n está la vara de la soberbiaH191
+- Pro_14:7vete de delante del hombre n, porque enH3684
+- Pro_14:8mas la indiscreción de los n es engañoH3684
+- Pro_14:9los n se mofan del pecado; mas entre losH191
+- Pro_14:14de sus caminos será hastiado el n deH5472
+- Pro_14:24la insensatez de los n es infatuaciónH3684
+- Pro_14:33pero no es conocida en medio de los nH3684
+- Pro_15:2mas la boca de los n hablará sandecesH3684
+- Pro_15:5el n menosprecia el consejo de su padreH191
+- Pro_15:7sabiduría; no así el corazón de los nH3684
+- Pro_15:14boca de los n se alimenta de necedadesH3684
+- Pro_15:20mas el hombre n menosprecia a su madreH3684
+- Pro_16:22mas la erudición de los n es necedadH191
+- Pro_17:7no conviene al n la altilocuenciaH5036
+- Pro_17:10aprovecha al...más que cien azotes al nH3684
+- Pro_17:16precio en la mano del n para comprarH3684
+- Pro_17:21tristeza...el padre del n no se alegraráH3684
+- Pro_17:24los ojos del n vagan hasta el extremoH3684
+- Pro_17:25el hijo n es pesadumbre de su padre, yH3684
+- Pro_17:28n, cuando calla, es contado por sabioH191
+- Pro_18:2no toma placer el n en la inteligenciaH3684
+- Pro_18:6los labios del n traen contienda; y suH3684
+- Pro_18:7la boca del n es quebrantamiento paraH3684
+- Pro_19:10no conviene al n el deleite; ¡cuántoH3684
+- Pro_19:13dolor es para su padre el hijo n, yH3684
+- Pro_19:29y azotes para las espaldas de los nH3684
+- Pro_23:9no hables a oídos del n...menospreciaráH3684
+- Pro_24:9el pensamiento del n es pecado, yH200
+- Pro_26:1la siega, así no conviene al n la honraH3684
+- Pro_26:3el asno, y la vara para la espalda del nH3684
+- Pro_26:4nunca respondas al n de acuerdo con suH3684
+- Pro_26:5responde al n como merece su necedadH3684
+- Pro_26:6es el que envía recado por mano de un nH3684
+- Pro_26:7así es el proverbio en la boca del nH3684
+- Pro_26:8la honda, así hace el que da honra al nH3684
+- Pro_26:9tal es el proverbio en la boca de los nH3684
+- Pro_26:11como...así es el n que repite su necedadH3684
+- Pro_26:12; Pro_29:20más esperanza hay del n que de élH3684
+- Pro_27:3mas la ira del n es más pesada que ambasH191
+- Pro_27:22aunque majes al n en un mortero entreH191
+- Pro_28:26el que confía en su propio corazón es nH3684
+- Pro_29:11el n da rienda suelta a toda su ira, masH3684
+- Pro_30:22reina; por el n cuando se sacia de panH5030
+- Ecl_2:14el sabio...mas el n anda en tinieblasH3684
+- Ecl_2:15sucederá al n, me sucederá también a míH3684
+- Ecl_2:16ni del sabio ni del n habrá memoria paraH3684
+- Ecl_2:16y también morirá el sabio como el nH3684
+- Ecl_2:19si será sabio o n el que se enseñorearáH5530
+- Ecl_4:5n cruza sus manos y come su misma carneH3684
+- Ecl_4:13el rey vicio y n que no admite consejosH3684
+- Ecl_5:1que para ofrecer el sacrificio de los nH3684
+- Ecl_5:3la multitud de las palabras la voz del nH3684
+- Ecl_6:8¿qué más tiene el sabio que el n?[[H3684]]
+- Ecl_7:5mejor es oir la...que la canción de los nH3684
+- Ecl_7:6la risa del n es como el estrépito de losH3684
+- Ecl_7:9porque el enojo reposa en el seno de...nH3684
+- Ecl_9:17mejores que el clamor del señor entre...nH3684
+- Ecl_10:2mas el corazón del n a su mano izquierdaH3684
+- Ecl_10:3va el n...va diciendo a todos que es nH5530
+- Ecl_10:12los labios del n causan su propia ruinaH3684
+- Ecl_10:14n multiplica palabras, aunque no sabeH5530
+- Ecl_10:15el trabajo de los n los fatiga; porqueH3684
+- Isa_19:11n los príncipes de Zoán; el consejoH191
+- Isa_32:4el corazón de los n entenderá para saberH4116
+- Jer_4:22mi pueblo es n, no me conocieron; sonH191
+- Jer_5:21oíd ahora esto, pueblo n y sin corazónH5530
+- Ose_9:7n es el profeta, insensato es el varónH191
+- Mat_5:22cualquiera que diga: N, a su hermanoG4469
+- Mat_23:19¡n y ciegos! porque ¿cuál es mayor laG3474
+- Luc_1:40n, ¿el que hizo lo de fuera, no hizoG878
+- Luc_12:20n, esta noche vienen a pedirte tu almaG878
+- Rom_1:21sino...su n corazón fue entenebrecidoG801
+- Rom_1:22profesando ser sabios, se hicieron nG3471
+- Rom_1:31n...sin afecto natural, implacablesG801
+- 1Co_1:27lo n del mundo escogió Dios, paraG3474
+- 1Co_15:36n, lo que tú siembras no se vivificaG876
+- 2Co_11:19de buena gana toleráis a los nG878
+- 2Co_12:11me he hecho un n al gloriarme; vosotrosG876
+- Gál_3:3¿tan n sois? ¿Habiendo comenzado por elG453
+- Efe_5:15andéis, no como o sino como sabiosG781
+- 1Ti_6:5disputas n de hombres corruptos deG3859
+- 1Ti_6:9caen en...en muchas codicias n y dañosasG453
+- 2Ti_2:23desecha...cuestiones n e insensatasG3474
+- Tit_3:9evita las cuestiones n, y genealogíasG3474

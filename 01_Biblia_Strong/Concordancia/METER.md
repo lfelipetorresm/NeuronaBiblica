@@ -1,0 +1,114 @@
+---
+tipo: concordancia
+palabra: METER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# METER
+
+- Gén_6:19dos de cada especie meterás en el arcaH935
+- Gén_19:10y metieron a Lot en casa con ellos, yH935
+- Gén_38:29volviendo él a meter la mano, he aquíH7725
+- Gén_47:14metió José el dinero en casa de FaraónH935
+- Éxo_4:6mete...tu mano en tu seno. Y él metióH935
+- Éxo_4:7vuelve a meter tu mano...Y él volvió a mH7725
+- Éxo_6:8os meteré en la tierra por la cual alcéH935
+- Éxo_13:5Jehová te hubiere metido en la tierraH935
+- Éxo_13:11Jehová te haya metido en la tierra delH935
+- Éxo_22:5metiere su bestia en campo de otro, deH7971
+- Éxo_22:8si ha metido su mano en los bienes de suH7971
+- Éxo_22:11de que no metió su mano a los bienes deH7971
+- Éxo_25:14y meterás las varas por los anillos aH935
+- Éxo_26:11corchetes de...meterás por las lazadasH935
+- Éxo_26:29de oro para meter por ellos las barrasH1004
+- Éxo_26:33meterás...del velo adentro, el arca delH935
+- Éxo_27:7y las varas se meterán por los anillosH935
+- Éxo_30:4para meter las varas con que será llevadoH1004
+- Éxo_37:5metió las varas por los anillos a losH935
+- Éxo_37:14metían las varas para llevar la mesaH1004
+- Éxo_37:27para meter por ellos las varas con queH1004
+- Éxo_38:5cuatro anillos a...para meter las varasH1004
+- Éxo_38:7y metió las varas por los anillos a losH935
+- Éxo_40:4meterás la mesa...m también el candeleroH935
+- Éxo_40:21luego metió el arca en el tabernáculoH935
+- Lev_4:16meterá la sangre del becerro en elH935
+- Lev_6:30ofrenda de cuya sangre se metiere en elH935
+- Lev_11:32sea cosa de madera...será metido en aguaH935
+- Núm_14:16no pudo Jehová meter este pueblo enH935
+- Núm_14:24yo le meteré en la tierra donde entróH935
+- Núm_16:14ni tampoco nos has metido tú en tierraH935
+- Núm_20:12no meteréis esta congregación en laH935
+- Núm_32:17hasta que los metamos en su lugar; yH935
+- Deu_2:5no os metáis con ellos, porque no osH1624
+- Deu_16:9desde que comenzare a meterse la hoz en
+- Deu_20:19no destruirás...árboles metiendo hachaH5080
+- Deu_21:12la meterás en tu casa; y ella raparáH935
+- Jos_10:20los que quedaron...metieron en lasH935
+- Jue_3:21el puñal...se lo metió por el vientreH8628
+- Jue_4:21y le metió la estaca por las sienes, yH8628
+- Jue_9:46se metieron en la fortaleza del temploH935
+- 1Sa_2:14y lo metía en el perol, en la ollaH5221
+- 1Sa_5:2el arca...la metieron en la casa de DagónH935
+- 1Sa_17:49y metiendo David su mano en la bolsaH7971
+- 2Sa_2:16metió su espada en el costado de su
+- 2Sa_6:17metieron, pues, el arca de Jehová, y laH935
+- 2Sa_17:18un pozo, dentro del cual se metieronH3381
+- 1Re_7:51metió...lo que David...había dedicadoH935
+- 1Re_8:6los sacerdotes metieron el arca del pactoH935
+- 1Re_15:15metió en la casa de Jehová lo que suH935
+- 1Re_16:18Zimri...metió en el palacio de la casaH935
+- 1Re_19:9metió en una cueva, donde pasó la nocheH935
+- 1Re_22:25cuando te irás metiendo de aposento enH935
+- 2Re_8:15tomó un paño y lo metió en agua, yH2881
+- 2Re_11:4los metió consigo en la casa de JehováH935
+- 2Re_14:10¿para qué te metes en un mal, para queH1624
+- 2Re_20:20Ezequías...metió las aguas en la ciudadH935
+- 1Cr_9:28los utensilios...metían por cuentaH935
+- 1Cr_26:14y metieron en las suertes a ZacaríasH5307
+- 2Cr_5:1metió Salomón las cosas que...dedicadoH935
+- 2Cr_5:7y los sacerdotes metieron el arca delH935
+- 2Cr_28:27no lo metieron en los sepulcros de losH935
+- Sal_50:19tu boca metías en mal, y tu lenguaH7971
+- Sal_66:11nos metiste en la red; pusiste sobreH935
+- Pro_19:24el perezoso mete su mano en el platoH7725
+- Pro_26:15mete el perezoso su mano en el platoH7725
+- Cnt_1:4el rey me ha metido en sus cámarasH935
+- Cnt_3:4hasta que lo metí en casa de mi madre, yH935
+- Cnt_5:4mi amado metió su mano por la ventanillaH7971
+- Cnt_8:2llevaría, te metería en casa de mi madreH935
+- Isa_2:10métete en la peña, escóndete en...polvoH935
+- Isa_2:19se meterán en las cavernas de las peñasH935
+- Isa_2:21se meterá en las hendiduras de las rocasH935
+- Jer_13:1un cinto, y...y no lo metas en aguaH7760
+- Jer_17:21llevar carga...meterla por las puertasH935
+- Jer_17:24no metiendo carga por las puertas deH935
+- Jer_17:27para no traer carga ni meterla por lasH935
+- Jer_20:9un fuego ardiente metido en mis huesosH6113
+- Jer_38:6echar...y metieron a Jeremías con sogasH7971
+- Jer_41:17fueron...fin de ir y meterse en EgiptoH935
+- Jer_50:16al que mete hoz en tiempo de la siegaH8610
+- Ose_8:14mas yo meteré fuego en sus ciudadesH7971
+- Joe_3:5mi oro...metisteis en vuestros templosH935
+- Zac_13:9y meteré en el fuego a la terceraH935
+- Mat_6:13y no nos metas en tentación...líbranosG1533
+- Mat_14:3Juan, y te había...metido en la cárcelG5087
+- Mat_26:23el que mete la mano conmigo en el platoG1686
+- Mar_4:29se mete la hoz...la siega ha llegadoG649
+- Mar_7:33metió los dedos en las orejas de él, yG906
+- Luc_11:4y no nos metas en tentación...líbranosG1533
+- Luc_12:58y el alguacil te meta en la cárcelG906
+- Jua_5:7no tengo quien me meta en el estanqueG906
+- Jua_18:11mete tu espada en la vaina; la copaG906
+- Jua_20:25si no...metiere mi dedo...y m mi manoG906
+- Jua_20:27acerca tu mano, y métela en mi costadoG906
+- Hec_9:8llevándole por...le metieron en DamascoG1521
+- Hec_16:24los metió en el...de más adentroG906
+- Hec_21:28ha metido a griegos en el temploG1521
+- Hec_21:29pensaban que Pablo había metido enG1521
+- Hec_21:37comenzaron a meter a Pablo en la fortalezaG1521
+- Hec_22:24le metiesen en la fortaleza, y ordenóG71
+- 2Ti_3:6son los que se meten en las casas yG1744
+- Rev_14:15mete tu hoz, y siega; porque la horaG3992
+- Rev_14:16metió su hoz en la tierra, y la tierraG906
+- Rev_14:18mete tu hoz...y vendimia los racimos deG3992

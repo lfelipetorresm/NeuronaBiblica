@@ -1,0 +1,566 @@
+---
+tipo: concordancia
+palabra: DEJAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DEJAR
+
+- Gén_2:24dejará el hombre a su padre y...madreH5800
+- Gén_11:8esparció...dejaron de edificar la ciudadH2308
+- Gén_19:20dejadme escapar ahora allá ¿no es ellaH4422
+- Gén_28:15no te dejaré hasta que haya hecho lo queH5800
+- Gén_30:9viendo, pues, Lea, que había dejado deH5975
+- Gén_30:26dame mis mujeres y mis...y déjame irH1980
+- Gén_31:28ni aun me dejaste besar a mis hijos yH5203
+- Gén_32:26y dijo: Déjame, porque raya el albaH7971
+- Gén_32:26Jacob...No te dejaré, si no me bendicesH7971
+- Gén_33:15dejaré...de la gente que viene conmigo
+- Gén_38:16dijo: Déjame ahora llegarme a ti; puesH935
+- Gén_39:6dejó todo lo que tenía en mano de JoséH5800
+- Gén_39:12él dejó su ropa en las manos de ellaH5800
+- Gén_39:13vio ella que le había dejado su ropaH5800
+- Gén_39:15dejó junto a mí su ropa, y huyó y salióH5800
+- Gén_39:18yo...grité, él dejó su ropa junto a míH5800
+- Gén_42:33dejad conmigo...de vuestros hermanosH5117
+- Gén_44:22no puede dejar a su padre...si lo dejaraH5800
+- Gén_50:8dejaron en la tierra de Gosén sus niñosH5800
+- Éxo_2:20¿por qué habéis dejado a ese hombre?[[H5800]]
+- Éxo_3:19sé que el rey de Egipto no os dejará irH1980
+- Éxo_3:20heriré a Egipto...entonces os dejará irH7971
+- Éxo_4:21su corazón, de modo que no dejará ir alH7971
+- Éxo_4:23ya te he dicho que dejes ir a mi hijoH7971
+- Éxo_4:23no has querido dejarlo ir: he aquí yo voyH7971
+- Éxo_4:26así le dejó luego ir. Y ella dijo: EsposoH7503
+- Éxo_5:1deja ir a mi pueblo a celebrarme fiestaH7971
+- Éxo_5:2que...deje ir a Israel? Yo no...dejaré ir aH7971
+- Éxo_6:1porque con mano fuerte los dejara ir, yH7971
+- Éxo_6:11; Éxo_7:2deje ir de su tierra a los hijosH7971
+- Éxo_8:1, Éxo_8:20ha dicho así: Deja ir a mi puebloH7971
+- Éxo_8:2si no lo quisieres dejar ir, he aquí yoH7971
+- Éxo_8:8las ranas...y dejaré ir a tu pueblo paraH7971
+- Éxo_8:21si no dejas ir a mi pueblo, he aquí yoH7971
+- Éxo_8:28dijo Faraón: Yo os dejaré ir para queH7971
+- Éxo_8:29que Faraón no falte más, no dejando ir alH7971
+- Éxo_8:32Faraón endureció...y no dejó ir al puebloH7971
+- Éxo_9:1, Éxo_9:13deja ir a mi pueblo, para que me sirvaH7971
+- Éxo_9:2si no lo quieres dejar ir, y lo detienesH7971
+- Éxo_9:7se endureció, y no dejó ir al puebloH7971
+- Éxo_9:17contra mi pueblo, para no dejarlos ir?[[H7971]]
+- Éxo_9:21dejó sus criados y sus ganados en elH5800
+- Éxo_9:28y yo os dejaré ir, y no os detendréisH5975
+- Éxo_9:35no dejó ir a los hijos de Israel, comoH7971
+- Éxo_10:4si aún rehúsas dejarlo ir, he aquí queH7971
+- Éxo_10:7deja ir a estos hombres, para que sirvanH7971
+- Éxo_10:10¿cómo os voy a dejar ir a vosotros y aH7971
+- Éxo_10:12y consuma todo lo que el granizo dejóH7604
+- Éxo_10:15el fruto...que había dejado el granizoH3498
+- Éxo_10:20corazón de Faraón, y éste no dejó ir aH7971
+- Éxo_10:27Jehová endureció...no quiso dejarlos irH7971
+- Éxo_11:1después de la cual él os dejará ir deH7971
+- Éxo_12:10ninguna cosa dejaréis de él hasta laH3498
+- Éxo_12:23Jehová...no dejará entrar al heridor en
+- Éxo_13:15y endureciéndose...para no dejarnos irH7971
+- Éxo_13:17y luego que Faraón dejó ir al puebloH7971
+- Éxo_14:5haber dejado ir a Israel, para que noH7971
+- Éxo_14:12¿no es...Déjanos servir a los egipcios?[[H2308]]
+- Éxo_16:19ninguno deje nada de ello para mañanaH3498
+- Éxo_16:20algunos dejaron de ello para otro díaH3498
+- Éxo_21:27sierva, por su diente le dejaría ir libreH7971
+- Éxo_22:18a la hechicera no dejarás que viva
+- Éxo_23:5si vieres el asno...le dejarás sin ayuda?[[H5800]]
+- Éxo_23:11el séptimo año la dejarás libre, paraH8058
+- Éxo_32:10déjame que se encienda mi ira en ellosH5117
+- Éxo_34:25ni se dejará hasta la mañana nada delH3885
+- Lev_6:2y negare a su prójimo lo...dejado en suH8667
+- Lev_7:15no dejarán de ella nada para otro díaH5117
+- Lev_19:10para el pobre...lo dejarás. Yo JehováH5800
+- Lev_22:30comerá; no dejaréis de él para otro díaH3498
+- Lev_23:22pobre y para el extranjero la dejarásH5800
+- Lev_25:46y los podréis dejar en herencia paraH5157
+- Núm_6:5será santo; dejará crecer su cabello
+- Núm_9:12no dejarán del animal...para la mañanaH7604
+- Núm_9:13si dejara de celebrar la pascua, la talH2308
+- Núm_10:31él le dijo: Te ruego que no nos dejesH5800
+- Núm_11:31codornices...las dejó sobre el campamentoH5203
+- Núm_20:21no quiso...Edom dejar pasar a Israel por
+- Núm_22:13porque Jehová no me quiere dejar ir conH1980
+- Núm_22:16le ruego que no dejes de venir a mí
+- Núm_22:33te mataría a ti, y a ella dejaría vivaH2421
+- Núm_31:15¿por qué...dejado con vida a...mujeres?
+- Núm_31:18no hayan conocido varón, las dejaréisH2421
+- Núm_32:15él volverá...a dejaros en el desiertoH5117
+- Núm_33:55los que dejaréis...serán por aguijonesH3498
+- Deu_2:34destruimos todas...no dejamos ningunoH7604
+- Deu_4:31tu Dios; no te dejará, ni te destruiráH7503
+- Deu_9:14déjame que los destruya, y borre suH7503
+- Deu_15:16si él te dijere: yo te dejaré; porqueH3318
+- Deu_20:16pero...ninguna persona dejarás con vida
+- Deu_21:14no te agradare, la dejarás en libertadH7971
+- Deu_21:23no dejaréis...su cuerpo pase la nocheH3885
+- Deu_22:7dejarás ir a la madre, y tomarás losH7971
+- Deu_24:20no recorrerás las ramas que...dejado
+- Deu_26:10lo dejarás delante de Jehová tu DiosH5117
+- Deu_28:20maldad de tus obras...me habrás dejadoH5800
+- Deu_28:51no te dejará grano...mosto, ni aceiteH7604
+- Deu_28:60los males de Egipto...y no te dejaránH1692
+- Deu_29:25por cuanto dejaron el pacto de JehováH5800
+- Deu_31:6, Deu_31:8no te dejará, ni te desampararáH5800
+- Deu_31:16me dejará, e invalidará mi pacto queH5800
+- Jos_1:5estaré contigo; no te dejaré, ni teH5800
+- Jos_5:6juro que no les dejaría ver la tierra deH7200
+- Jos_8:17por seguir a Israel dejaron la ciudadH5800
+- Jos_9:20dejaremos vivir, para que no venga iraH2421
+- Jos_9:21dejadlos vivir; y fueron...leñadores yH2421
+- Jos_9:23no dejará de haber...quien corte la leña
+- Jos_10:19sin dejarles entrar en sus ciudades
+- Jos_10:28, Jos_10:30, Jos_10:37, Jos_10:39filo de espada...sin dejarH7604
+- Jos_10:33destruyó...hasta no dejar a ninguno deH7604
+- Jos_10:40hirió, pues, Josué,...sin dejar nadaH7604
+- Jos_11:8hiriéndolos...que no les dejaron ningunoH7604
+- Jos_11:14hirieron a...sin dejar alguno con vidaH7604
+- Jos_22:3no habéis dejado a vuestros hermanosH5800
+- Jos_22:25harían que...dejasen de temer a JehováH7673
+- Jos_22:32dejaron a los hijos de Rubén y a losH7725
+- Jos_24:16dejemos a Jehová para servir a otrosH5800
+- Jos_24:20si dejareis a Jehová y sirviereis aH5800
+- Jue_1:25dejaron ir a aquel hombre con todaH7971
+- Jue_2:12dejaron a Jehová el Dios de sus padresH5800
+- Jue_2:13dejaron a Jehová, y adoraron a Baal yH5800
+- Jue_2:21las naciones que dejó Josué cuando murióH5800
+- Jue_2:23por esto dejó Jehová a aquellas nacionesH3240
+- Jue_3:1las naciones que dejó Jehová para probarH3241
+- Jue_6:4y no dejaban qué comer en Israel, niH7604
+- Jue_9:9¿he de dejar mi aceite, con el cual en míH2308
+- Jue_9:11¿he de dejar mi dulzura y mi buen frutoH2308
+- Jue_9:13¿he de dejar mi mosto, que alegra a DiosH2308
+- Jue_9:53mujer dejó caer un pedazo de una ruedaH7993
+- Jue_10:6y dejaron a Jehová, y no le sirvieronH5800
+- Jue_10:10porque hemos dejado a nuestro Dios, yH5800
+- Jue_10:13me habéis dejado, y habéis servido aH5800
+- Jue_11:17, Jue_11:19que me dejes pasar por tu tierraH7971
+- Jue_11:37déjame por dos meses que vaya y...lloreH7503
+- Jue_11:38la dejó por dos meses. Y ella fue conH7971
+- Jue_19:25y la dejaron cuando apuntaba el albaH7971
+- Rut_1:16no me ruegues que te deje, y me aparteH5800
+- Rut_2:2dijo...Te ruego que me dejes ir al campoH1980
+- Rut_2:7te ruego que me dejes recoger y juntarH3950
+- Rut_2:11y que dejando a tu padre y a tu madreH5800
+- Rut_2:16dejaréis...caer...lo d para que lo recojaH5800
+- 1Sa_6:8arca de Jehová...dejaréis que se vayaH1980
+- 1Sa_8:8hasta hoy, dejándome a mí y sirviendo aH5800
+- 1Sa_10:2tu padre ha dejado ya de inquietarse porH5203
+- 1Sa_12:10hemos pecado...hemos dejado a Jehová yH5800
+- 1Sa_14:36y dijo...no dejaremos de ellos ningunoH7604
+- 1Sa_14:46y Saúl dejó de seguir a los filisteosH5927
+- 1Sa_15:16déjame declararte lo que Jehová me haH5046
+- 1Sa_15:33tu espada dejó a las mujeres sin hijosH7921
+- 1Sa_17:15pero David había ido y vuelto, dejando
+- 1Sa_17:20dejando las ovejas al cuidado de unH5203
+- 1Sa_17:22David dejó su carga en mano del queH5203
+- 1Sa_17:28quién has dejado aquellas pocas ovejasH5203
+- 1Sa_18:2y no le dejó volver a casa de su padreH5414
+- 1Sa_19:17así, y has dejado escapar a mi enemigoH7971
+- 1Sa_19:17dijo: Déjame ir; si no, yo te mataréH7971
+- 1Sa_20:5tú dejarás que me esconda en el campoH7971
+- 1Sa_20:6dirás: Me rogó mucho que lo dejase ir
+- 1Sa_20:15no dejes que el nombre de Jonatán sea
+- 1Sa_20:28David me pidió...le dejase ir a Belén
+- 1Sa_20:29te ruego que me dejes ir, porque nuestraH7971
+- 1Sa_21:13dejaba correr la saliva por su barbaH3381
+- 1Sa_24:19hallará a...lo dejará ir sano y salvo?[[H7971]]
+- 1Sa_25:13y dejaron doscientos con el bagajeH3427
+- 1Sa_25:22suyo no he de dejar con vida ni un varónH7604
+- 1Sa_26:8déjame que le hiera con la lanza, y loH5221
+- 1Sa_27:9, 1Sa_27:11y no dejaba con vida hombre ni mujerH2421
+- 1Sa_30:13y me dejó mi amo hoy hace tres díasH5800
+- 1Sa_31:7dejaron las ciudades y huyeron; y losH5800
+- 2Sa_3:24qué, pues, le dejaste que se fuese?[[H7971]]
+- 2Sa_5:21dejaron allí sus ídolos, y David y susH5800
+- 2Sa_8:4pero dejó suficientes para cien carrosH3498
+- 2Sa_13:27dejó ir con él a Amnón y a todos losH7971
+- 2Sa_14:7dejando a mi marido nombre ni reliquiaH7604
+- 2Sa_15:16y dejó el rey diez mujeres concubinasH5800
+- 2Sa_15:25y me dejaré verla y a su tabernáculoH7200
+- 2Sa_16:9ruego que me dejes pasar, y le quitaréH5674
+- 2Sa_16:11dejadle que maldiga, pues Jehová se loH7043
+- 2Sa_16:21concubinas...que él dejó para guardar laH5117
+- 2Sa_17:12ni uno dejaremos de él y de todos losH3498
+- 2Sa_19:30dijo al rey: Deja que él las tome todasH3947
+- 2Sa_19:37te ruego que dejes volver a tu siervo
+- 2Sa_20:3tomó...concubinas que había dejado paraH5117
+- 2Sa_21:5para exterminarnos sin dejar nada deH3320
+- 2Sa_21:10y no dejó que ninguna ave...se posaseH5117
+- 1Re_2:6no dejarás descender sus canas al SeolH3381
+- 1Re_6:13habitaré...no dejaré a mi pueblo IsraelH5800
+- 1Re_8:8extremos se dejaban ver desde el lugarH7200
+- 1Re_8:8pero no se dejaban ver desde más afueraH7200
+- 1Re_8:57Jehová...y no nos desampare ni nos dejeH5800
+- 1Re_9:9y dirán: Por cuanto dejaron a Jehová suH5800
+- 1Re_11:33cuanto me han dejado, y han adorado aH5800
+- 1Re_12:8él dejó el consejo que los ancianos leH5800
+- 1Re_12:13dejando el consejo que los ancianos leH5800
+- 1Re_15:17para no dejar a ninguno salir ni entrar
+- 1Re_15:21oyendo esto Baasa, dejó de edificar aH2308
+- 1Re_15:29sin dejar alma viviente de...JeroboamH7604
+- 1Re_16:11mató...Baasa, sin dejar en ella varónH7604
+- 1Re_18:18dejando los mandamientos de Jehová, yH5800
+- 1Re_19:3vino a Beerseba...dejó allí a su criadoH5117
+- 1Re_19:10, 1Re_19:14los hijos de Israel han dejado tuH5800
+- 1Re_19:20dejando él los bueyes, vino corriendoH5800
+- 1Re_19:20te ruego que me dejes besar a mi padreH5401
+- 1Re_20:34yo, dijo Acab, te dejaré ir con esteH7971
+- 1Re_20:34hizo, pues, pacto con él, y le dejó irH7971
+- 1Re_22:6¿iré a la guerra contra...o la dejaré?[[H2308]]
+- 1Re_22:15¿iremos a pelear contra...o la dejaremos?[[H2308]]
+- 2Re_2:2, 2Re_2:6y vive tu alma, que no te dejaréH5800
+- 2Re_3:25Kir-hareset solamente dejaron piedrasH7604
+- 2Re_4:27déjala, porque su alma está en amarguraH7503
+- 2Re_4:30déjala...y vive tu alma, que no te dejaréH5800
+- 2Re_8:6desde el día que dejó el país hasta ahoraH5800
+- 2Re_10:14degollaron sin dejar ninguno de ellosH7604
+- 2Re_10:24cualquiera que dejare vivo a algunoH5315
+- 2Re_10:25los dejaron tendidos los de la guardiaH7993
+- 2Re_10:29y dejó en pie los becerros de oro que
+- 2Re_17:16dejaron...los mandamientos de Jehová suH5800
+- 2Re_21:22y dejó a Jehová el dios de sus padresH5800
+- 2Re_22:17me dejaron a mí, y quemaron inciensoH5800
+- 2Re_23:18dijo: Dejadlo; ninguno mueva sus huesosH5117
+- 2Re_25:12pobres de la tierra dejó NabuzaradánH7604
+- 2Re_25:22al pueblo que...dejó en tierra de JudáH7604
+- 1Cr_8:8engendró hijos en...después que dejóH7971
+- 1Cr_10:7los de Israel...dejaron sus ciudades yH5800
+- 1Cr_14:12dejaron allí sus dioses, y David dijoH5800
+- 1Cr_16:37y dejó allí, delante del arca...a AsafH5800
+- 1Cr_18:4excepto los de cien carros que dejóH3498
+- 1Cr_28:8buena tierra, y la dejéis en herenciaH5157
+- 1Cr_28:9mas si lo dejares, él te desechará paraH5800
+- 1Cr_28:20no te dejará...hasta que acabes todaH5800
+- 2Cr_7:19mas si...y dejaréis mis estatutosH5800
+- 2Cr_7:22por cuanto dejaron a Jehová Dios de losH5800
+- 2Cr_10:8dejando el consejo que le dieron losH5800
+- 2Cr_10:13dejó el rey Roboam el consejo de losH5800
+- 2Cr_11:14levitas dejaban sus ejidos...y veníanH5800
+- 2Cr_12:1Roboam...dejó la ley de Jehová, y todoH5800
+- 2Cr_12:5me habéis dejado, y...os he d en manosH5800
+- 2Cr_13:10es nuestro Dios, y no le hemos dejadoH5800
+- 2Cr_13:11Dios, mas vosotros le habéis dejadoH5800
+- 2Cr_15:2si le dejareis, él también os dejaráH5800
+- 2Cr_21:10había dejado a Jehová el Dios de susH5800
+- 2Cr_24:20por haber dejado a Jehová, él tambiénH5800
+- 2Cr_24:24por cuanto habían dejado a Jehová elH5800
+- 2Cr_24:25lo dejaron agobiado por sus...dolenciasH5800
+- 2Cr_25:16déjate de eso. ¿Por qué quieres que
+- 2Cr_28:6habían dejado a Jehová el Dios de susH5800
+- 2Cr_28:14ejército dejó los cautivos y el botínH5800
+- 2Cr_29:6le dejaron, y apartaron sus rostros delH5800
+- 2Cr_32:31Dios lo dejó, para probarle, para hacerH5800
+- 2Cr_34:25cuanto me han dejado, y han ofrecidoH5800
+- Esd_6:7dejad que se haga la obra de esa casa
+- Esd_9:10nosotros hemos dejado tus mandamientosH5800
+- Esd_9:12la dejéis por necedad a vuestros hijosH3423
+- Neh_6:3cesar a la obra, dejándola yo para irH7503
+- Est_3:8nada le beneficia el dejarlos vivirH5117
+- Est_9:27no dejarían de celebrar estos dos días
+- Job_3:17allí los impíos dejan de perturbar, yH2308
+- Job_7:16déjame, pues, porque mis días son vanidadH2308
+- Job_9:27yo dijere...Dejaré mi triste semblanteH5800
+- Job_10:20déjame, para que me consuele un pocoH7896
+- Job_14:6si tú lo abandonaras, él dejará de serH2308
+- Job_16:6si dejo de hablar, no se aparta de míH2308
+- Job_20:13no lo dejaba, sino que lo detenía enH5800
+- Sal_16:10no dejarás mi alma en el Seol, niH5800
+- Sal_27:9no me dejes ni me desampares, Dios deH5203
+- Sal_27:10aunque mi padre y mi madre me dejaranH5800
+- Sal_28:1no sea yo, dejándome tú, semejante a los
+- Sal_36:3ha dejado de ser cuerdo y de hacer elH2308
+- Sal_37:8deja la ira, desecha el enojo, no teH7503
+- Sal_37:33Jehová no lo dejará en sus manos, niH5800
+- Sal_38:10me ha dejado mi vigor, y aun la luz deH5800
+- Sal_39:13déjame, y tomaré fuerzas, antes que vayaH8159
+- Sal_49:10mueren...y dejan a otros a otros sus riquezasH5800
+- Sal_55:22no dejará para siempre caído al justoH5414
+- Sal_77:4no me dejabas pegar los ojos; estaba yo
+- Sal_78:60dejó, por tanto, el tabernáculo de SiloH5203
+- Sal_81:12los dejé...a la dureza de su corazónH7971
+- Sal_89:30si dejaren sus hijos mi ley, y...juiciosH5800
+- Sal_104:29les quitas el hálito, dejan de ser, yH1478
+- Sal_104:35pecadores, y los impíos dejen de ser
+- Sal_119:8tus estatutos guardaré; no me dejesH5800
+- Sal_119:53causa de los inicuos que dejan tu leyH5800
+- Sal_119:87pero no he dejado tus mandamientosH5800
+- Sal_141:4no deje que se incline mi corazón a
+- Pro_2:13que dejan los caminos derechos, paraH5800
+- Pro_4:6no la dejes, y ella te guardará, ámalaH5800
+- Pro_4:13retén el consejo, no lo dejes, guárdaloH7503
+- Pro_4:15déjala, no pases por ella; apártate deH6544
+- Pro_6:20y no dejes la ensenanza de tu madreH5203
+- Pro_9:6dejad las simplezas, y vivid, y andad porH5800
+- Pro_10:3no dejará padecer hambre al justo; mas
+- Pro_13:22el bueno dejará herederos a los hijosH5157
+- Pro_15:10la reconvención es molesta al que dejaH5800
+- Pro_17:14deja, pues, la contienda, antes que seH5203
+- Pro_20:3honra es del hombre dejar la contiendaH7674
+- Pro_28:3es como lluvia torrencial que deja sin
+- Pro_28:4los que dejan la ley alaban a los impíosH5800
+- Ecl_2:18el cual tendré que dejar a otro queH5117
+- Ecl_5:6no dejes que tu boca te haga pecar, niH5414
+- Ecl_5:12al rico no le deja dormir la abundanciaH5117
+- Ecl_10:4principe se exaltare...no dejes tu lugarH5117
+- Ecl_11:6y a la tarde no dejes reposar tu manoH5117
+- Cnt_3:4no lo dejé, hasta que lo metí en casaH7503
+- Cnt_7:8deja que tus pechos sean como racimos
+- Isa_1:4dejaron a Jehová, provocaron a ira alH5800
+- Isa_1:9Jehová...no nos hubiese dejado un restoH3498
+- Isa_1:16lavaos...quitad...dejad de hacer lo maloH5493
+- Isa_1:28los que dejan a Jehová serán consumidosH5800
+- Isa_2:6has dejado tu pueblo, la casa de JacobH5203
+- Isa_2:22dejaos del hombre, cuyo aliento está enH2308
+- Isa_4:3el que fuere dejado en Jerusalén, seráH7604
+- Isa_7:8quebrantado hasta dejar de ser pueblo
+- Isa_10:3¿en dónde dejaréis vuestra gloria?[[H5800]]
+- Isa_17:9los cuales fueron dejados a causa deH5800
+- Isa_18:6y serán dejados todos para las aves deH5800
+- Isa_22:4dije: Dejadme, lloraré amargamente; noH8159
+- Isa_27:10la ciudad habitada será...dejada comoH5800
+- Isa_30:11dejad el camino, apartaos de la sendaH5186
+- Isa_31:9y sus príncipes...dejarán sus banderasH2865
+- Isa_32:6dejando vacía el alma hambrienta, yH7324
+- Isa_32:20que...dejáis libres al buey y al asnoH7971
+- Isa_49:14pero Sion dijo: Me dejó Jehová, y elH5800
+- Isa_49:15olvidará...para dejar de compadecerseH7355
+- Isa_49:21yo...sido dejada sola; ¿dónde estabanH7605
+- Isa_55:7deje el impío su camino, y el hombreH5800
+- Isa_58:2que no hubiese dejado la ley de su DiosH5800
+- Isa_65:11pero vosotros los que dejáis a JehováH5800
+- Isa_65:15dejaréis vuestro nombre por maldiciónH5117
+- Jer_1:16juicios contra los que me dejaronH5800
+- Jer_2:13me dejaron a mí, fuente de agua vivaH5800
+- Jer_2:17¿no te acarreó esto el haber dejado aH5800
+- Jer_2:19cuán malo...Es haber dejado tú a JehováH5800
+- Jer_3:1si alguno dejare a su mujer, y yéndoseH7971
+- Jer_5:7sus hijos me dejaron, y juraron por loH5800
+- Jer_5:19de la manera que me dejasteis a mí, yH5800
+- Jer_7:29porque Jehová ha...dejado la generaciónH5203
+- Jer_9:2para que dejase a mi pueblo, y de ellosH5800
+- Jer_9:13porque dejaron mi ley...y no obedecieronH5800
+- Jer_12:7he dejado mi casa, desamparé mi heredadH5800
+- Jer_14:5las ciervas...parían y dejaban la críaH5800
+- Jer_15:6tú me dejaste, dice Jehová; te volvisteH5203
+- Jer_15:7los aventé...dejé sin hijos a mi puebloH7921
+- Jer_16:11les dirás...vuestros padres me dejaronH5800
+- Jer_16:11ante ellos se postraron, y me dejaronH5800
+- Jer_17:8no se fatigará, ni dejará de dar frutoH4185
+- Jer_17:11en la mitad de sus días las dejará, yH5800
+- Jer_17:13los que te dejan serán avergonzadosH5800
+- Jer_17:13dejaron a Jehová, manantial de aguasH5800
+- Jer_19:4me dejaron, y enajenaron este lugar, yH5800
+- Jer_22:9porque dejaron el pacto de Jehová su DiosH5800
+- Jer_23:33esta es la profecía: Os dejaré, ha dichoH5203
+- Jer_25:38dejó cual leoncillo su guarida; puesH5800
+- Jer_27:11la dejaré en su tierra, dice Jehová, yH5117
+- Jer_30:11de ninguna manera te dejaré sin castigoH5352
+- Jer_33:21para que deje de tener hijo que reineH1121
+- Jer_34:9que cada uno dejase libre a su siervoH7971
+- Jer_34:10dejar libre...su siervo...y los dejaronH7971
+- Jer_34:11y las siervas que habían dejado libresH7971
+- Jer_34:14al cabo de siete años dejará cada unoH7971
+- Jer_34:16a su sierva, que habíais dejado libresH7971
+- Jer_40:4pero si no te parece bien venir...déjaloH2308
+- Jer_40:11el rey...había dejado a algunos en JudáH5414
+- Jer_41:8dejó y no los mató entre sus hermanosH2308
+- Jer_43:6toda persona que había dejado...capitánH5117
+- Jer_44:5para dejar de ofrecer incienso a diosesH6999
+- Jer_44:18desde que dejamos de ofrecer inciensoH2308
+- Jer_46:17rey...es destruido: dejó pasar el tiempoH5674
+- Jer_46:28ninguna manera te dejaré sin castigoH5352
+- Jer_48:42Moab será destruido hasta dejar de ser
+- Jer_49:9contra ti, ¿no habrían dejado rebuscos?[[H7604]]
+- Jer_49:10destruida su descendencia...dejará de
+- Jer_49:11deja tus huérfanos, yo los criaré; y enH5800
+- Jer_49:25¡cómo dejaron a la ciudad tan acabadaH5800
+- Jer_50:20perdonaré a los que yo hubiere dejadoH7604
+- Jer_51:9dejadla, y vámonos cada uno a su tierraH5800
+- Jer_51:34me dejó como vaso vacío; me tragó comoH3322
+- Jer_52:16de los pobres de...dejó...para viñadoresH7604
+- Lam_1:13me dejó desolada, y con dolor todo elH5414
+- Lam_3:6dejó en oscuridad, como los ya muertos deH3427
+- Lam_3:11torció mis caminos, y...me dejó desoladoH7760
+- Lam_5:14no...los jóvenes dejaron sus cancionesH7673
+- Eze_2:7; Eze_3:11escuchen o dejen de escucharH2308
+- Eze_6:8mas dejaré un resto, de modo que tengáisH3498
+- Eze_16:39y te dejarán desnuda y descubiertaH5117
+- Eze_16:41y así haré que dejes de ser ramera, yH7673
+- Eze_20:8ni dejaron los ídolos de Egipto; y dijeH5800
+- Eze_23:8y no dejó sus fornicaciones de EgiptoH5800
+- Eze_23:29y te dejarán desnuda y descubiertaH5800
+- Eze_24:21y vuestros hijos...que dejasteis caeránH5800
+- Eze_26:4polvo, y la dejaré como una peña listaH5414
+- Eze_26:21te convertiré en espanto, y dejarás de
+- Eze_27:36; Eze_28:19espanto...y para siempre dejarás
+- Eze_29:5te dejaré en el desierto a ti y a todosH5203
+- Eze_31:12y se irán de su sombra...y lo dejaránH5203
+- Eze_32:4te dejaré en tierra, te echaré sobre laH5203
+- Eze_32:10dejaré atónitos por ti a...pueblos
+- Eze_39:28los reúna...sin dejar allí a ninguno deH3498
+- Eze_42:14que allí dejarán sus vestiduras con queH5117
+- Eze_44:19dejarán en las cámaras del santuarioH5117
+- Eze_45:9¡basta...Dejad la violencia y la rapiñaH5493
+- Dan_2:44ni será el reino dejado a otro puebloH7662
+- Dan_4:15, Dan_4:23la cepa de sus raíces dejaréis en laH7662
+- Dan_4:26la orden de dejar en la tierra la cepaH7662
+- Ose_2:3la deje como tierra seca, y la mate deH7896
+- Ose_4:10no...porque dejaron de servir a JehováH5800
+- Ose_4:12errar, y dejaron a su Dios para fornicarH2181
+- Ose_4:17Efraín es dado a ídolos; déjaloH5117
+- Joe_2:14dejará bendición tras de él, esto esH7604
+- Amó_5:2dejada sobre su tierra, no hay quien laH5203
+- Abd_1:5entraran a...¿no dejarían algún rebusco?[[H7604]]
+- Miq_5:3los dajará hasta el tiempo que dé a luzH5414
+- Sof_2:5haré destruir hasta no dejar morador
+- Sof_3:3sus jueces, lobos...no dejando hueso para la
+- Sof_3:12dejaré en medio de ti un pueblo...pobreH7604
+- Zac_8:10yo dejé a todos los hombres cada cualH7971
+- Zac_11:12dadme mi salario; y si no, dejadloH2308
+- Mal_4:1el día...no les dejará ni raíz ni ramaH5800
+- Mat_1:19José...como era justo...quiso dejarlaG630
+- Mat_3:15deja ahora, porque...Entonces le dejóG863
+- Mat_4:11el diablo entonces le dejó; y he aquíG863
+- Mat_4:13y dejando a Nazaret, vino y habitó enG2641
+- Mat_4:20ellos...dejando al instante las redes, leG863
+- Mat_4:22ellos, dejando...la barca y a su padreG863
+- Mat_5:24deja allí tu ofrenda delante del altarG863
+- Mat_5:40al que quiera...déjale también la capaG863
+- Mat_7:4cómo dirás...Déjame sacar la paja de tuG863
+- Mat_8:15tocó su mano, y la fiebre la dejó; y ellaG863
+- Mat_8:22deja que los muertos entierren a susG863
+- Mat_13:30dejad crecer...lo uno y lo otro hastaG863
+- Mat_15:14dejadlos; son ciegos guías de ciegosG863
+- Mat_16:4no le será dada...Y dejándolos, se fueG2641
+- Mat_18:12¿no deja las 99 y va por los montes aG863
+- Mat_19:5dejará padre y madre, y se unirá a suG6241
+- Mat_19:14Jesús dijo: Dejad a los niños venir aG863
+- Mat_19:27he aquí, nosotros lo hemos dejado todoG863
+- Mat_19:29y cualquiera que haya dejado casas, oG863
+- Mat_21:17dejándolos, salió fuera de la ciudadG2641
+- Mat_22:22maravillaron, y dejándole, se fueronG863
+- Mat_22:25el primero...dejó su mujer a su hermanoG863
+- Mat_23:23y dejáis lo más importante de la leyG863
+- Mat_23:23necesario...sin dejar de hacer aquelloG863
+- Mat_23:38aquí vuestra casa os es dejada desiertaG863
+- Mat_24:40uno será tomado, y el otro será dejadoG863
+- Mat_24:41una será tomada, y la otra será dejadaG863
+- Mat_24:43velaría, y no dejaría minar su casaG1439
+- Mat_26:44dejándolos, se fue de nuevo, y oró porG863
+- Mat_26:56todos los discípulos, dejándole, huyeronG863
+- Mat_27:49deja, veamos si viene Elías a librarleG863
+- Mar_1:18dejando luego sus redes, le siguieronG863
+- Mar_1:20dejando a su padre Zebedeo...le siguieronG863
+- Mar_1:31la dejó la fiebre, y ella les servíaG863
+- Mar_5:18le rogaba que le dejase estar con él
+- Mar_7:8porque dejando el mandamiento de Dios, osG863
+- Mar_7:12y no le dejáis hacer más por su padreG863
+- Mar_7:27deja primero que se sacien los hijosG863
+- Mar_8:13dejándolos, volvió a entrar en la barcaG863
+- Mar_10:7dejará el hombre a su padre y a...madreG2641
+- Mar_10:14les dijo: Dejad a los niños venir a míG863
+- Mar_10:28he aquí, nosotros lo hemos dejado todoG863
+- Mar_10:29que haya dejado casa, o hermanos, oG863
+- Mar_11:6como Jesús había mandado; y los dejaronG863
+- Mar_12:12pero temían a la...dejándole, se fueronG863
+- Mar_12:19muriere y dejare esposa, pero no d hijosG2641
+- Mar_12:20primero...murió sin dejar descendenciaG863
+- Mar_12:21murió, y tampoco dejó descendencia; y elG863
+- Mar_12:22y no dejaron descendencia; y después deG863
+- Mar_13:34es como el hombre que...dejó su casaG863
+- Mar_14:6dijo: Dejadla; ¿por qué la molestáis?[[G863]]
+- Mar_14:50todos los discípulos, dejándole, huyeronG863
+- Mar_14:52mas él, dejando la sábana, huyó desnudoG2641
+- Mar_15:36diciendo: Dejad, veamos si viene ElíasG863
+- Luc_4:34déjanos; ¿qué tienes con nosotrosG1436
+- Luc_4:39la fiebre la dejó, y levantándose ellaG863
+- Luc_4:41no les dejaba hablar, porque sabían queG1439
+- Luc_5:11las barcas, dejándolo todo, le siguieronG863
+- Luc_5:28dejándolo todo, se levantó y le siguióG2641
+- Luc_6:42déjame sacar la paja que está en tu ojoG863
+- Luc_8:38le rogaba que le dejase estar con él
+- Luc_8:51no dejó entrar a nadie consigo, sino aG863
+- Luc_9:59déjame que...vaya y entierre a mi padreG2010
+- Luc_9:60deja que los muertos entierren a susG863
+- Luc_9:61déjame que me despida primero de los queG2010
+- Luc_10:30se fueron, dejándole medio muertoG863
+- Luc_10:40que mi hermana me deje servir sola?[[G2641]]
+- Luc_11:42era necesario hacer, sin dejar aquelloG863
+- Luc_13:8déjala todavía este año, hasta que yoG863
+- Luc_13:35aquí vuestra casa os es dejada desiertaG863
+- Luc_15:4no deja las noventa y nueve...y va trasG2641
+- Luc_17:34, Luc_17:36uno será tomado, y el otro...dejadoG863
+- Luc_17:35la una será tomada, y la otra...dejadaG863
+- Luc_18:16dejad a los niños venir a mí, y no seG863
+- Luc_18:28hemos dejado nuestras posesiones y teG863
+- Luc_18:29nadie que haya dejado casa, o padres, oG863
+- Luc_19:44y no dejarán en ti piedra sobre piedraG863
+- Luc_20:28de alguno muriere...y no dejare hijosG815
+- Luc_20:31así...y murieron sin dejar descendenciaG2641
+- Luc_22:51basta ya; dejad. Y tocando su oreja, leG1439
+- Jua_4:28la mujer dejó su cántaro, y fue a laG863
+- Jua_4:52hora...Ayer a las siete le dejó la fiebreG863
+- Jua_8:29no me ha dejado solo el Padre, porqueG863
+- Jua_10:12venir al lobo y deja las ovejas y huyeG863
+- Jua_11:44Jesús les dijo: Desatadle, y dejadleG863
+- Jua_11:48si le dejamos así, todos creerán en élG863
+- Jua_12:7déjala; para el día de mi sepultura haG863
+- Jua_14:18no os dejaré huérfanos; vendré aG863
+- Jua_14:27la paz os dejo mi paz os doy; yo no osG863
+- Jua_16:28otra vez dejo el mundo, y voy al PadreG863
+- Jua_16:32seréis esparcidos...y me dejaréis soloG863
+- Jua_18:8si me buscáis a mí, dejad ir a éstosG863
+- Hec_2:27no dejarás mi alma en el Hades, niG1459
+- Hec_2:31su alma no fue dejada en el Hades, niG2641
+- Hec_4:20no podemos dejar de decir lo que...vistoG3361, [[G2980]]
+- Hec_5:38apartaos de estos hombres, y dejadlosG1439
+- Hec_6:2no es justo...dejemos la palabra de DiosG2641
+- Hec_14:16ha dejado a todas las gentes andar enG1439
+- Hec_14:17no se dejó a sí mismo sin testimonioG863
+- Hec_18:19y llegó a Éfeso, y los dejó allíG2641
+- Hec_19:30salir al...los discípulos no le dejaronG1439
+- Hec_21:3dejándola a mano izquierda, navegamosG2641
+- Hec_21:32Vieron al...dejaron de golpear a PabloG3973
+- Hec_23:32dejando a los jinetes que fuesen conG1439
+- Hec_24:27y queriendo Félix...dejó preso a PabloG2641
+- Hec_25:14hombre ha sido dejado preso por FélixG2641
+- Hec_27:40las dejaron en el mar, largando tambiénG1439
+- Hec_28:4escapado del...la justicia no deja vivirG1439
+- Rom_1:27dejando el uso natural de la mujerG863
+- Rom_9:29sí...no nos hubiera dejado descendenciaG1459
+- Rom_12:19dejad lugar a la ira de Dios; porqueG1325
+- 1Co_6:12yo no me dejaré dominar de ningunaG1850
+- 1Co_10:13no os dejará ser tentados más de lo queG1439
+- 1Co_13:8el amor nunca deja de ser; pero lasG1601
+- 1Co_13:11ya fui hombre, dejé lo que era de niñoG2673
+- 2Co_12:6lo dejo, para que nadie piense de míG5339
+- Efe_5:31por esto dejará el hombre a su padreG2641
+- Efe_6:9amos...dejando las amenazas sabiendo queG447
+- Col_3:8dejad...todas estas cosas: ira, enojoG659
+- 2Ti_4:13trae...el capote que dejé en TroasG620
+- 2Ti_4:20quedó...a Trófimo dejé en Mileto enfermoG620
+- Tit_1:5por esta causa te dejé en Creta, paraG2641
+- Heb_2:8nada dejó que no sea sujeto a él; peroG863
+- Heb_6:1dejando ya los rudimentos de la doctrinaG863
+- Heb_10:25no dejando de congregarnos, comoG1459
+- Heb_11:27por la fe dejó a Egipto, no temiendo laG2641
+- Heb_12:8pero si se os deja sin disciplina, deG2075
+- Heb_12:15que alguno deje de alcanzar la graciaG5302
+- Heb_13:5él dijo: No te desampararé, ni te dejaréG1459
+- Heb_13:9os dejéis llevar de doctrinas diversasG4064
+- 1Pe_2:21Cristo padeció...dejándonos ejemploG5277
+- 2Pe_1:8no os dejarán estar ociosos ni sinG2525
+- 2Pe_1:12no dejaré de recordaros...estas cosasG272
+- 2Pe_2:15han dejado el camino recto, y se hanG2641
+- Jud_1:15dejar convictos a todos los impíos deG1827
+- Rev_2:4contra ti...has dejado tu primer amorG863
+- Rev_6:13la higuera deja caer sus higos cuandoG906
+- Rev_9:20ni dejaron de adorar a los demonios, yG4352
+- Rev_11:2el patio que está fuera...déjalo aparteG1544
+- Rev_17:16ramera, y la dejarán desolada y desnudaG4160

@@ -1,0 +1,205 @@
+---
+tipo: concordancia
+palabra: JUNTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUNTAR
+
+- Gén_1:9júntense las aguas que están debajo deH6960
+- Gén_14:3éstos se juntaron en el valle de SidimH2266
+- Gén_29:3y juntaban allí todos los rebaños...pozoH622
+- Gén_29:8hasta que se junten todos los rebañosH622
+- Gén_29:22Labán juntó a todos...e hizo banqueteH622
+- Gén_34:30se juntarán contra mí y me atacaránH622
+- Gén_41:35y junten toda la provisión de estosH6908
+- Gén_49:1juntaos, y os declararé lo que os ha deH622
+- Gén_49:2juntaos y oíd, hijos de Jacob...escuchadH6908
+- Gén_49:6ni mi espíritu se junte en su compañíaH3161
+- Éxo_8:14las juntaron en montones, y apestabaH6651
+- Éxo_15:8se juntaron las corrientes como en unH6192
+- Éxo_26:24se juntarán por su alto con un gozneH8382
+- Éxo_28:7dos hombreras que se junten...se juntaráH2266
+- Éxo_28:28juntarán el pectoral por sus anillos aH7405
+- Éxo_32:26júntese conmigo. Y se juntaron con élH622
+- Éxo_39:4las hombreras para que se juntasen, yH2266
+- Núm_11:22¿o se juntarán...todos los peces delH622
+- Núm_14:35multitud...que se ha juntado contra míH3259
+- Núm_16:3se juntaron contra Moisés y Aarón y lesH6950
+- Núm_16:11sois los que os juntáis contra JehováH3259
+- Núm_16:19Coré había hecho juntar contra ellosH6950
+- Núm_16:42cuando se juntó la congregación contraH6950
+- Núm_18:2que...se junten contigo, y te serviránH3867
+- Núm_18:4se juntarán, pues, contigo, y tendránH3867
+- Núm_20:2agua...juntaron contra Moisés y AarónH6950
+- Núm_21:23que juntó Sehón todo su pueblo y salióH622
+- Núm_25:5matad...que se han juntado con Baal-peorH6775
+- Núm_27:3de los que se juntaron contra JehováH3259
+- Deu_13:16juntarás todo su botín en medio deH6908
+- Deu_20:3oye, Israel...os juntáis hoy en batallaH7131
+- Jos_8:16todo el pueblo...juntó para seguirlesH2199
+- Jos_10:5cinco reyes de...se juntaron y subieronH622
+- Jos_22:12se juntó toda la congregación de losH6950
+- Jue_3:13juntó consigo a los hijos de Amón yH622
+- Jue_4:6junta a tu gente en el monte de TaborH4900
+- Jue_4:10juntó Barac a Zabulón y a Neftalí enH2199
+- Jue_6:33los madianitas...se juntaron a una, yH622
+- Jue_6:35todo Manasés...también se juntaron con élH2199
+- Jue_7:23juntándose los de Israel...siguieron aH6817
+- Jue_9:6juntaron todos los de Siquem con...MiloH622
+- Jue_10:17se juntaron los...de Amón...se J...IsraelH6817
+- Jue_11:3y se juntaron con él hombres ociososH3950
+- Jue_15:4y juntó cola con cola, y puso una teaH6437
+- Jue_16:23se juntaron para ofrecer sacrificio aH6908
+- Jue_18:22se juntaron y siguieron a los...de DanH2199
+- Jue_18:23¿qué tienes, que has juntado gente?[[H2199]]
+- Jue_20:11juntaron todos los hombres de IsraelH622
+- Jue_20:14los de Benjamín se juntaron...en GabaaH622
+- Rut_2:7me dejes...juntar tras los segadoresH622
+- Rut_2:21me ha dicho: Júntate con mis criadas
+- 1Sa_8:4los ancianos de Israel se juntaronH6908
+- 1Sa_13:4y se juntó el pueblo en pos de Saúl enH6817
+- 1Sa_13:5los filisteos se juntaron para pelearH622
+- 1Sa_14:20juntando Saúl a...el pueblo que con élH2199
+- 1Sa_14:52apto para combatir, lo juntaba consigoH622
+- 1Sa_17:1los filisteos juntaron sus ejércitosH622
+- 1Sa_17:2Saúl y...se juntaron, y acamparon en elH622
+- 1Sa_22:2se juntaron con él todos los afligidosH6908
+- 1Sa_25:1murió Samuel, y se juntó todo IsraelH6908
+- 1Sa_28:4se juntaron...los filisteos, y vinieronH6908
+- 1Sa_28:4Saúl juntó a todo Israel, y acamparonH6908
+- 1Sa_29:1los filisteos juntaron...sus fuerzas enH6908
+- 2Sa_2:25y se juntaron los hijos de BenjamínH6908
+- 2Sa_2:30juntando a todo el pueblo, faltaron deH6908
+- 2Sa_3:21y juntaré a mi señor el rey a...IsraelH6908
+- 2Sa_12:29juntando David a todo el pueblo, fueH622
+- 2Sa_17:11todo Israel se junte a ti, desde DanH622
+- 2Sa_20:14se juntaron, y lo siguieron tambiénH7035
+- 1Re_10:26juntó Salomón carros y gente de aH622
+- 1Re_11:2éstas, pues, se juntó Salomón con amorH1692
+- 1Re_11:24había juntado gente contra él, y seH6908
+- 1Re_20:1Ben-adad...juntó a todo su ejército, yH6908
+- 2Re_3:21todos los de Moab oyeron...juntaronH6817
+- 1Cr_11:1Israel se juntó a David en HebrónH6908
+- 1Cr_19:7se juntaron también los hijos de AmónH622
+- 1Cr_23:2y juntando a todos los principales deH622
+- 2Cr_1:14juntó Salomón carros y gente de aH622
+- 2Cr_11:13los sacerdotes...se juntaron a él desdeH3320
+- 2Cr_13:7y se juntaron con él hombres vanos yH6908
+- 2Cr_20:26cuarto día se juntaron en el valle deH6950
+- Esd_3:1juntó el pueblo como un solo hombreH622
+- Esd_9:4se me juntaron todos los que temían lasH622
+- Esd_10:1se juntó a él una muy grande multitudH6908
+- Neh_8:1se juntó todo el pueblo como un soloH622
+- Est_9:15los judíos...se juntaron...14 del mesH6950
+- Est_9:16se juntaron y se pusieron en defensa deH6950
+- Est_9:18los judíos...se juntaron el día trece yH6950
+- Job_16:10afrenta; contra mí se juntaron todosH4390
+- Job_39:12para que recoja...y la junte en tu era?[[H622]]
+- Job_41:16uno se junta con el otro, que vientoH5066
+- Sal_27:2se juntaron contra mí los malignosH7126
+- Sal_33:7él junta como montón las aguas del marH3644
+- Sal_35:15y se juntaron; se j contra mí gentesH622
+- Sal_50:5juntadme mis santos, los que hicieronH622
+- Sal_59:3se han juntado contra mí poderososH1481
+- Sal_83:8asirio se ha juntado con ellos; sirvenH3867
+- Sal_94:20¿se juntará...el trono de iniquidadesH2266
+- Sal_94:21se juntan contra la vida del justo, yH1481
+- Pro_13:20mas el que se junta con necios seraH7462
+- Pro_15:12escarnecedor no...junta con los sabiosH1980
+- Ecl_3:5y tiempo de juntar piedras; tiempo deH3664
+- Isa_5:8¡ay de los que juntan casa a casa, yH5060
+- Isa_8:2y junté conmigo por testigos fieles al
+- Isa_9:11pero Jehová...y juntará a sus enemigosH5526
+- Isa_11:12y juntará los desterrados de IsraelH622
+- Isa_14:1extranjeros...se juntarán a la familia deH3867
+- Isa_34:1acercaos, naciones, juntaos para oir
+- Isa_34:15el buho...los juntará debajo de sus alasH6908
+- Isa_34:15también se juntarán allí buitres, cadaH6908
+- Isa_40:12tres dedos juntó el polvo de la tierraH3557
+- Isa_43:9congréguense...las naciones, y júntenseH6908
+- Isa_44:11ellos se juntarán, se presentarán, seH6908
+- Isa_45:20reuníos y venid; juntaos, sobrevivientesH6908
+- Isa_48:14juntaos todos vosotros, y oíd. ¿QuiénH6908
+- Isa_50:8¿quién contenderá conmigo? JuntémonosH3162
+- Isa_56:8aún juntaré sobre él a sus congregadosH6908
+- Isa_60:4todos éstos se han juntado, vinieron aH6908
+- Isa_60:7el ganado de Cedar será juntado para tiH6908
+- Isa_66:18tiempo vendrá para juntar a...nacionesH6908
+- Jer_3:1yéndose ésta de él se juntare a otro
+- Jer_4:5pregonad, juntaos, y decid: Reuníos, yH4390
+- Jer_5:7casa de rameras se juntaron en compañíasH1413
+- Jer_13:11como el cinto se junta a los lomos delH1692
+- Jer_13:11hice juntar a mí toda la casa de IsraelH1692
+- Jer_26:9el pueblo se juntó contra Jeremías enH6950
+- Jer_49:14juntaos y venid contra ella...y subidH4390
+- Jer_50:5juntémonos a Jehová con pacto eternoH3867
+- Jer_50:29juntar contra Babilonia flecheros, aH8085
+- Jer_51:27juntad contra ella los reinos de AraratH8085
+- Eze_1:9con las alas se juntaban el uno al otroH2266
+- Eze_1:11tenían sus alas...las cuales se juntabanH2266
+- Eze_3:13las alas...se juntaban la una con la otraH5401
+- Eze_17:7esta vid juntó cerca de ella sus raícesH3719
+- Eze_22:20quien junta plata y bronce y hierro yH6910
+- Eze_22:20así os juntaré en mi furor y en mi iraH6908
+- Eze_22:21yo os juntaré y soplaré sobre vosotrosH3664
+- Eze_24:4junta sus piezas de carne en ella; todasH622
+- Eze_29:5no serás recogido, ni serás juntadoH6908
+- Eze_34:13las juntaré de las tierras; las traeréH6908
+- Eze_37:7los huesos se juntaron cada hueso con suH7126
+- Eze_37:17júntalos luego el uno con el otro, paraH7126
+- Eze_39:17a las aves de toda especie...juntaos, yH622
+- Dan_3:27juntaron los sátrapas... gobernadoresH3673
+- Dan_6:6sátrapas se juntaron delante del rey, yH7284
+- Dan_6:11entonces se juntaron aquellos hombresH7284
+- Dan_11:34muchos se juntarán a ellos con lisonjasH3867
+- Ose_8:10ahora las juntaré, y serán afligidosH6908
+- Ose_10:10se juntarán sobre ellos cuando seanH622
+- Joe_2:16juntad a los ancianos, congregad a losH622
+- Joe_3:11juntaos y venid, naciones...de alrededorH5789
+- Miq_1:7porque de dones de rameras los juntóH6908
+- Miq_2:12te juntaré todo, oh Jacob: recogeré elH6908
+- Miq_4:6en aquel día, dice...juntaré la que cojeaH6908
+- Miq_4:11han juntado muchas naciones contra tiH622
+- Miq_4:12por lo cual los juntó como gavillas enH6908
+- Nah_3:18se derramó...y no hay quien lo junteH6908
+- Hab_1:15juntará en sus mallas; por lo cualH622
+- Hab_2:5reunió...juntó para sí todos los pueblosH622
+- Sof_3:8determinación es...juntar los reinosH622
+- Zac_12:3las naciones...juntarán contra ellaH622
+- Mat_1:18antes que se juntasen, se halló queG4905
+- Mat_13:2se le juntó mucha gente; y entrando élG4863
+- Mat_19:6que Dios juntó, no lo separe el hombreG4801
+- Mat_22:10siervos...juntaron a...los que hallaronG4863
+- Mat_22:34los fariseos, oyendo...juntaron a unaG4863
+- Mat_23:37quise juntar a...como la gallina juntaG1996
+- Mat_24:28muerto, allí se juntarán las águilasG4863
+- Mat_24:31sus ángeles...juntarán a sus escogidosG1996
+- Mar_2:2se juntaron muchos, de manera que yaG4863
+- Mar_6:30los apóstoles se juntaron con Jesús, yG4863
+- Mar_6:33fueron allá a pie...y se juntaron a élG4905
+- Mar_7:1juntaron a Jesús los fariseos, y algunosG4863
+- Mar_10:1volvió el pueblo a juntarse a él, y deG4848
+- Mar_10:9que Dios juntó, no lo separe el hombreG4801
+- Mar_13:27enviará...y juntará a sus escogidos deG1996
+- Luc_8:4juntándose una gran multitud, y los queG4896
+- Luc_12:1esto, juntándose por millares la multitudG1996
+- Luc_13:34cuántas veces quise juntar a tus hijosG1996
+- Luc_15:13juntándola todo el hijo menor, se fueG4863
+- Luc_17:37allí se juntarán también las águilasG4863
+- Luc_22:66se juntaron los ancianos del puebloG4863
+- Hec_2:6este estruendo, se juntó la multitudG4863
+- Hec_4:26los príncipes se juntaron en uno contraG4863
+- Hec_5:13ninguno se atrevía a juntarse con ellosG2853
+- Hec_8:29dijo a...Acércate y júntale a ese carroG2853
+- Hec_9:26trataba de juntarse con los discípulosG2853
+- Hec_10:28varón, judío juntarse...a un extranjeroG2853
+- Hec_13:44se juntó casi toda la ciudad para oirG4863
+- Hec_17:4algunos de ellos creyeron, y se juntaronG4128
+- Hec_17:5y juntando una turba, alborotaron laG3792
+- Hec_17:34mas algunos creyeron, juntándose con élG2853
+- 1Co_5:9que no os juntéis con los fornicariosG4874
+- 1Co_5:11os escribí que no os juntéis con ningunoG4874
+- 1Co_7:5y volved a juntaros en uno, para que noG4905
+- 2Ts_3:14señaladlo, y no os juntéis con élG4874

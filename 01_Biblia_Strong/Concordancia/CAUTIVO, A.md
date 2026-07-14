@@ -1,0 +1,123 @@
+---
+tipo: concordancia
+palabra: CAUTIVO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CAUTIVO, A
+
+- Gén_34:29llevaron c...sus niños y sus mujeresH7617
+- Éxo_12:29el primogénito del c que estaba enH7628
+- Núm_24:22el ceneo...cuando Asiría te llevará cH7617
+- Núm_31:9llevaron c a las mujeres...madianitasH7617
+- Núm_31:12trajeron...c y el botín y los despojosH7628
+- Núm_31:19os purificaréis...vosotros y vuestros cH7628
+- Deu_21:10cuando salieres...tomares de ellos cH7617
+- Deu_21:11y vieres entre los c a alguna mujerH7633
+- Deu_30:3entonces Jehová hará volver a tus c, yH7622
+- Deu_32:42en la sangre de los muertos y de los cH7633
+- Jue_5:12levántate, Barac, y lleva tus c, hijoH7617
+- 1Sa_30:2se habían llevado c a las mujeres yH7617
+- 1Sa_30:3hijos e hijas habían sido llevados cH7617
+- 1Sa_30:5las dos mujeres de David...también eran cH7617
+- 1Sa_30:8los alcanzarás, y...librarás a los cH5337
+- 1Re_8:47en la tierra donde fueren c; si seH7617
+- 1Re_8:48los hubieren llevado c, y oraren a tiH7617
+- 1Re_8:50harás...los que los hubieren llevado cH7617
+- 2Re_5:2habían llevado c de...a una muchachaH7617
+- 2Re_6:22matarías tú a los que tomaste c con tuH7617
+- 2Re_15:29toda la tierra de Neftalí; y llevó cH1540
+- 2Re_16:9tomó, y llevó c a los moradores a KirH1540
+- 2Re_17:6llevó a Israel c a Asiría, y los pusoH1540
+- 2Re_17:23e Israel fue llevado c de su tierraH1540
+- 2Re_17:28los sacerdotes que habían llevado c deH1540
+- 2Re_18:11y el rey de Asiría llevó c a Israel aH1540
+- 2Re_24:14llevó en cautiverio...hasta 10.000 cH1540
+- 2Re_24:15llevó c a Babilonia a Joaquín, a laH1540
+- 2Re_24:15c los llevó de Jerusalén a BabiloniaH1473
+- 2Re_24:16a todos...llevó c el rey de BabiloniaH1473
+- 2Re_25:11los llevó c Nabuzaradán, capitán de laH1540
+- 2Re_25:21fue llevado c Judá de sobre su tierraH1540
+- 1Cr_6:15llevado c cuando Jehová transportó
+- 2Cr_6:36los lleven c a tierra de enemigosH7617
+- 2Cr_6:37tierra donde fueren llevados c...orarenH7617
+- 2Cr_6:38la tierra...donde los hubieren llevado cH7617
+- 2Cr_28:11y devolved a los c que habéis tomadoH7617
+- 2Cr_28:13no traigáis aquí a los c, porque elH7633
+- 2Cr_28:14ejército dejó los c y el botín delanteH7633
+- 2Cr_28:15tomaron a los c, y...vistieron a losH7633
+- 2Cr_28:17los edomitas habían...y habían llevado cH7633
+- 2Cr_29:9nuestras mujeres fueron llevados c porH7628
+- 2Cr_30:9misericordia...de los que los tienen cH7617
+- 2Cr_36:20espada fueron llevados c a BabiloniaH1540
+- Esd_2:1llevado c a Babilonia, y...volvieronH1540
+- Esd_5:12caldeo...y llevó c al pueblo a BabiloniaH1541
+- Neh_7:6los que llevó c Nabucodonosor rey deH1473
+- Est_2:6había sido transportado de...con los cH1540
+- Job_3:18allí...reposan los c; no oyen la vozH615
+- Sal_14:7hiciere volver a los c de su puebloH7622
+- Sal_68:6a los c a prosperidad; mas los rebeldesH3574
+- Sal_106:46misericordia todos...que los tenían cH7617
+- Sal_137:3que nos habían llevado c nos pedíanH7617
+- Sal_146:7hace justicia...Jehová liberta a los cH631
+- Isa_5:13pueblo fue llevado c, porque no tuvoH1540
+- Isa_20:4así llevará el rey de Asiría a los c deH1546
+- Isa_45:13edificará mi ciudad, y soltará mis cH1546
+- Isa_49:24¿será rescatado el c de un tirano?[[H7628]]
+- Isa_49:25el c será rescatado del valiente, y elH7628
+- Isa_52:2levántate y siéntate...c hija de SionH7628
+- Isa_61:1publicar libertad a los c...los presosH7628
+- Jer_13:17porque el rebaño de Jehová fue...cH7617
+- Jer_20:4llevará c a Babilonia, y los matará aH1540
+- Jer_20:6todos los moradores de tu casa iréis cH7628
+- Jer_22:12morirá en...adonde lo llevaron c, y noH1540
+- Jer_22:26te haré llevar c a ti y a tu madre queH2904
+- Jer_29:1todo el pueblo que...llevó c de JerusalénH1540
+- Jer_29:31envía a decir a todos los c: Así haH1473
+- Jer_30:3vienen días...en que haré volver a los cH7622
+- Jer_30:18volver los c de las tiendas de JacobH7622
+- Jer_31:23aún dirán...cuando yo haga volver sus cH7622
+- Jer_32:44yo haré regresar sus c, dice JehováH7622
+- Jer_33:7volver los c de Judá y los c de IsraelH7622
+- Jer_33:11volveré a traer los c de la tierra comoH7622
+- Jer_33:26haré volver sus c, y tendré de ellosH7622
+- Jer_40:1atado...entre todos los c de JerusalénH1546
+- Jer_41:10llevó Ismael c a...los llevó...c IsmaelH7617
+- Jer_41:14el pueblo que Ismael había traído cH7617
+- Jer_43:12pondrá fuego a los templos...llevará cH7617
+- Jer_48:47pero haré volver a los c de Moab enH7622
+- Jer_49:6volver a los c de los hijos de AmónH7622
+- Jer_49:39volver a los c de Elam dice JehováH7622
+- Jer_50:33los que los tomaron c los retuvieronH7617
+- Jer_52:28el pueblo que Nabucodonosor llevó cH1540
+- Jer_52:29él llevó c de Jerusalén a 832 personasH1540
+- Jer_52:30llevó c a 745 personas de los...de JudáH1540
+- Lam_4:22de Sion; nunca más te hará llevar cH1540
+- Eze_1:1estando yo en medio de los c junto alH1473
+- Eze_3:11y vé y entra a los c, a los hijos de tuH1473
+- Eze_3:15vine a los c en Tel-abib, que morabanH1473
+- Eze_6:9entre las naciones en las...cuales serán cH7617
+- Eze_11:24me volvió a llevar en visión...a los cH1473
+- Eze_11:25hablé a los c...las cosas que JehováH1473
+- Eze_16:53haré volver a sus c, los c de SodomaH7622
+- Eze_16:53c de Samaria y...c de tus cautiveriosH7622
+- Eze_29:14volveré a traer los c de Egipto, y losH7622
+- Eze_39:23de Israel fue llevada c por su pecadoH1540
+- Dan_6:13Daniel, que es de los...c de Judá, noH1547
+- Dan_11:8y aun a los dioses...llevará c a EgiptoH7628
+- Amó_1:6porque llevó c a todo un pueblo paraH1546
+- Amó_1:9entregaron a todo un pueblo c a EdomH1546
+- Amó_7:17Israel será llevado c lejos de su tierraH1540
+- Abd_1:11que extraños llevaban...c su ejércitoH7617
+- Abd_1:20c de...poseerán lo de los cananeos hastaH1546
+- Abd_1:20los c de Jerusalén...poseerán...del NeguevH1546
+- Nah_2:7y la reina será c; mandarán que subaH1540
+- Hab_1:9ella vendrá...y recogerá c como arenaH7628
+- Luc_4:18enviado a pregonar libertad a los cG164
+- Luc_21:24serán llevados c a todas las nacionesG163
+- Rom_7:23que me lleva c a la ley del pecadoG163
+- 2Co_10:5y llevando c todo pensamiento a laG163
+- Efe_4:8llevó c la cautividad, y dio dones aG162
+- 2Ti_2:26del lazo del diablo, en que están cG2221
+- 2Ti_3:6se meten...y llevan c a las mujercillasG162

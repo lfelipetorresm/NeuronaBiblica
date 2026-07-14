@@ -1,0 +1,315 @@
+---
+tipo: concordancia
+palabra: HERIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HERIR
+
+- Gén_3:15te herirá en la cabeza, y tú le herirásH7779
+- Gén_12:17Jehová hirió a Faraón y a su casa conH5060
+- Gén_19:11y a los hombres...hirieron con cegueraH5221
+- Gén_32:11Esaú...me hiera la madre con los hijosH5221
+- Éxo_3:20heriré a Egipto con...mis maravillasH5221
+- Éxo_7:25siete días después que Jehová hirió elH5221
+- Éxo_9:15yo extenderé mi mano para herirte a tiH5221
+- Éxo_9:25aquel granizo hirió en toda la tierraH5221
+- Éxo_12:12heriré a todo primogénito en la tierraH5221
+- Éxo_12:13veré...cuando hiera la tierra de EgiptoH5221
+- Éxo_12:23Jehová pasará hiriendo a los egipciosH5062
+- Éxo_12:23no dejará entrar al heridor...para herirH5062
+- Éxo_12:27hirió a los egipcios, y libró...casasH5062
+- Éxo_12:29Jehová hirió a todo primogénito en laH5221
+- Éxo_21:12que hiriere a alguno, haciéndole asíH5221
+- Éxo_21:13el que no pretendía herirlo, sino queH6658
+- Éxo_21:15el que hiriere a su padre o a su madreH5221
+- Éxo_21:18uno hiriere a su prójimo con piedra oH5221
+- Éxo_21:19entonces será absuelto el que lo hirióH5221
+- Éxo_21:20si alguno hiriere a su siervo...con paloH5221
+- Éxo_21:22si...hirieren a mujer embarazada, y éstaH5062
+- Éxo_21:26si alguno hiriere el ojo de su siervoH5221
+- Éxo_21:35el buey de alguno hiriere al buey de suH5062
+- Éxo_22:2si el ladrón...fuere herido y muriereH5221
+- Éxo_22:2el que lo hirió no será culpado de su
+- Éxo_32:35Jehová hirió al pueblo, porque habíanH5062
+- Lev_22:24no ofreceréis...animal con...heridosH4600
+- Lev_24:17hombre que hiere de muerte a...personaH5221
+- Lev_24:18, Lev_24:21que hiere...animal ha de restituirloH5221
+- Lev_24:21hiere de muerte a un hombre, que mueraH5221
+- Lev_26:17heridos delante de vuestros enemigosH5062
+- Lev_26:24os heriré aún siete veces por...pecadosH5221
+- Núm_8:17el día que yo herí a todo primogénitoH5221
+- Núm_11:33hirió Jehová al pueblo con una plagaH5221
+- Núm_14:12los heriré de mortandad y los destruiréH5221
+- Núm_14:42no seáis heridos delante de...enemigosH5062
+- Núm_14:45descendieron el amalecita y...hirieronH5221
+- Núm_21:24hirió Israel a filo de espada, y tomóH5221
+- Núm_21:35hirieron a él y a sus hijos, y a todaH5221
+- Núm_22:6quizá yo pueda herirlo y echarlo de laH5221
+- Núm_24:17herirá las sienes de Moab, y destruiráH4272
+- Núm_25:17hostigad a los madianitas, y heridlosH5221
+- Núm_32:4la tierra que Jehová hirió delante de laH5221
+- Núm_33:4enterraban...los que Jehová había heridoH5221
+- Núm_35:11huya el homicida que hiriere a algunoH5221
+- Núm_35:15hiriere de muerte a otro sin intenciónH5221
+- Núm_35:16-17, Núm_35:18si con...lo hiriere y muriereH5221
+- Núm_35:21o por enemistad lo hirió con su manoH5221
+- Deu_13:15herirás a filo de espada...moradoresH5221
+- Deu_19:4que hiriere a su prójimo sin intenciónH5221
+- Deu_19:6que el vengador de la sangre...le hieraH5221
+- Deu_19:11y lo acechare...y lo hiriere de muerteH5221
+- Deu_20:13herirás a todo varón...filo de espadaH5221
+- Deu_25:3si lo hirieren con muchos azotes más queH5221
+- Deu_25:11a su marido de mano del que le hiereH5221
+- Deu_27:24el que hiere a su prójimo ocultamenteH5221
+- Deu_28:22Jehová te herirá de tisis, de fiebreH5221
+- Deu_28:27te herirá con la úlcera de Egipto, conH5221
+- Deu_28:28Jehová te herirá con locura, cegueraH5221
+- Deu_28:35te herirá Jehová con maligna pústulaH5221
+- Deu_32:39yo hiero, y yo sano; y no hay quienH4772
+- Deu_33:11hiere los lomos de sus enemigos, y deH4772
+- Jos_8:22hirieron hasta que no quedó ningunoH5221
+- Jos_8:24a Hai, y...la hirieron a filo de espadaH5221
+- Jos_10:10los hirió con gran mortandad en GabaónH5221
+- Jos_10:10siguió...los hirió hasta Azeca y MacedaH5221
+- Jos_10:19seguid a vuestros enemigos y heridlesH2179
+- Jos_10:20acabaron de herirlos con gran mortandadH5221
+- Jos_10:26hirió y los mató, y los hizo colgar enH5221
+- Jos_10:28tomó...a Maceda...hirió a filo de espadaH5221
+- Jos_10:30y la hirió a filo de espada, con todoH5221
+- Jos_10:32a Laquis...y la hirió a filo de espadaH5221
+- Jos_10:35tomaron...la hirieron a filo de espadaH5221
+- Jos_10:37la hirieron a filo de espada, a su reyH5221
+- Jos_10:39sus ciudades...hirieron a filo de espadaH5221
+- Jos_10:40hirió, pues, Josué toda la región deH5221
+- Jos_10:41y los hirió Josué desde Cades-barneaH5221
+- Jos_11:8los hirieron y los siguieron hasta SidónH5221
+- Jos_11:8hiriéndolos hasta que no les dejaronH5221
+- Jos_11:12hirió a filo de espada, y los destruyóH5221
+- Jos_11:14a todos los hombres hirieron a filo deH5221
+- Jos_11:17a todos sus reyes, y los hirió y matóH5221
+- Jos_19:47a Lesem...la hirieron a filo de espadaH5221
+- Jos_20:5por cuanto hirió...por accidente, y noH5221
+- Jos_20:9se acogiese...cualquiera que hiriese aH5221
+- Jos_24:5envié a Moisés...Aarón, y herí a EgiptoH5062
+- Jue_1:4hirieron de ellos en Bezec a diez milH5221
+- Jue_1:10hirieron a Sesai, a Ahimán y a TalmaiH5221
+- Jue_1:25ciudad, y la hirieron a filo de espadaH5221
+- Jue_3:13hirió a Israel, y tomó la ciudad de lasH5221
+- Jue_5:26golpeó a Sísara, hirió su cabeza, y leH4277
+- Jue_9:40cayeron heridos...hasta la entrada de laH2491
+- Jue_15:8hirió cadera y muslo con gran mortandadH5221
+- Jue_18:27a Lais...los hirieron a filo de espadaH5221
+- Jue_20:31comenzaron a herir a algunos...puebloH5221
+- Jue_20:37hirieron a filo de espada...la ciudadH5221
+- Jue_20:39comenzaron a herir...la gente de IsraelH5221
+- Jue_20:48volvieron...hirieron a filo de espadaH5221
+- Jue_21:10herid a filo de espada...Jabes-galaadH5221
+- 1Sa_4:2hirieron en la batalla...4.000 hombresH5221
+- 1Sa_4:3nos ha herido hoy Jehová delante de losH5062
+- 1Sa_4:8son los dioses que hirieron a Egipto conH5221
+- 1Sa_5:6los destruyó...hirió con tumores en AsdodH5221
+- 1Sa_5:12que no morían, eran heridos de tumoresH5221
+- 1Sa_6:9que no es su mano la que nos ha heridoH5060
+- 1Sa_6:19porque Jehová lo había herido con tanH5221
+- 1Sa_7:11filisteos, hiriéndolos hasta abajo deH5221
+- 1Sa_11:11hirieron a los amonitas hasta que elH5221
+- 1Sa_14:31hirieron...a los filisteos desde MicmasH5221
+- 1Sa_15:3vé, pues, y hiere a Amalec, y destruyeH5221
+- 1Sa_17:35y lo hería, y lo libraba de su bocaH5221
+- 1Sa_17:35le echaba mano...lo hería y lo matabaH5221
+- 1Sa_17:49tiró...e hirió al filisteo en la frenteH5221
+- 1Sa_17:50hirió al filisteo y lo mató, sin tenerH5221
+- 1Sa_18:7Saúl hirió a sus miles, y David a susH5221
+- 1Sa_19:8David...los hirió con grande estrago, yH5221
+- 1Sa_19:10el cual hirió con la lanza en la paredH5221
+- 1Sa_20:33Saúl le arrojó una lanza para herirloH5221
+- 1Sa_21:11hirió Saúl sus miles y David a susH5221
+- 1Sa_22:19Nob...hirió...todo lo h a filo de espadaH5221
+- 1Sa_25:38días después, Jehová hirió a Nabal, yH5062
+- 1Sa_26:8déjame que le hiera con la lanza, y loH5221
+- 1Sa_26:10que si Jehová no lo hiriere, o su díaH5062
+- 1Sa_29:5Saúl hirió a sus miles, y David a susH5221
+- 1Sa_30:17los hirió David desde aquella mañanaH5221
+- 2Sa_1:15vé y mátalo. Y él lo hirió, y murióH5221
+- 2Sa_2:22¿por qué he de herirte hasta derribarte?[[H5221]]
+- 2Sa_2:23hirió Abner con el regatón de la lanzaH5221
+- 2Sa_2:31hirieron de los de Benjamín y de los deH5221
+- 2Sa_3:27en venganza de la muerte de...le hirióH5221
+- 2Sa_4:7Is-boset...lo hirieron y lo mataron, y leH5221
+- 2Sa_5:8todo el que hiera a los jebuseos, subaH5221
+- 2Sa_5:8hiera a los cojos y ciegos aborrecidosH5221
+- 2Sa_5:24Jehová saldrá...a herir el campamento deH5221
+- 2Sa_5:25hirió a los filisteos desde Geba hastaH5221
+- 2Sa_6:7lo hirió allí Dios por aquella temeridadH5221
+- 2Sa_6:8y se entristeció David por haber heridoH6556
+- 2Sa_8:5David hirió de...sirios a 22.000 hombresH5221
+- 2Sa_10:18hirió...a Sobac general del ejércitoH5221
+- 2Sa_11:15a Urías...para que sea herido y mueraH5221
+- 2Sa_11:21¿quién hirió a Abimelec...de Jerobaal?[[H5221]]
+- 2Sa_12:9Urías...heriste a espada, y tomaste porH5221
+- 2Sa_12:15Jehová hirió al niño que la mujer deH5062
+- 2Sa_13:28y al decir yo: Herid a Amnón...matadleH5221
+- 2Sa_14:6tenía dos hijos...hirió el uno al otroH5221
+- 2Sa_15:14y hiera a la ciudad a filo de espadaH5221
+- 2Sa_18:15y diez jóvenes...hirieron a Absalón, yH5221
+- 2Sa_20:10éste le hirió...en la quinta costillaH5221
+- 2Sa_21:17Abisai...hirió al filisteo y lo matóH5221
+- 2Sa_22:39los heriré, de modo que no se levantenH4272
+- 2Sa_23:10e hirió a los filisteos hasta que suH5221
+- 1Re_2:46Benaía...salió y lo hirió, y murióH6293
+- 1Re_15:27conspiró contra él, y lo hirió BaasaH5221
+- 1Re_16:10vino Zimri y lo hirió y lo mató, en elH5221
+- 1Re_20:21salió...e hirió la gente de a caballoH5221
+- 1Re_20:35hiéreme ahora...otro no quiso herirleH5221
+- 1Re_20:36cuando te apartes...te herirá un leónH5221
+- 1Re_20:37le dijo: Hiéreme ahora. Y el hombre leH5221
+- 1Re_22:34hirió al rey...por entre las junturasH5221
+- 1Re_22:34sácame del campo, pues estoy heridoH2470
+- 2Re_6:18que hieras con ceguera...y los hirióH5221
+- 2Re_8:28guerra...y los sirios hirieron a JotamH5221
+- 2Re_9:7herirás la casa de Acab tu señor, paraH5221
+- 2Re_9:24Jehú...hirió a Jotam entre las espaldasH5221
+- 2Re_9:27lo siguió Jehú, diciendo: Herid...a ésteH5221
+- 2Re_9:27le hirieron a la subida de Gur, junto a
+- 2Re_12:21sus siervos, le hirieron, y murióH5221
+- 2Re_13:17porque herirás a los sirios en AfecH5221
+- 2Re_15:5Jehová hirió al rey con lepra, y estuvoH5221
+- 2Re_15:10y lo hirió en presencia de su puebloH5221
+- 2Re_15:14Manahem...hirió a Salum hijo de JabesH5221
+- 2Re_15:25y lo hirió en Samaria, en el palacioH5221
+- 2Re_15:30hirió y lo mató, y reinó en su lugarH5221
+- 2Re_18:8hirió también a...filisteos hasta GazaH5221
+- 2Re_19:37en el templo...sus hijos lo hirieron aH5221
+- 2Re_25:21el rey de Babilonia los hirió y matóH5221
+- 2Re_25:25vino...e hirieron a Gedalías, y murióH5221
+- 1Cr_10:1y cayeron heridos en el monte deH2491
+- 1Cr_10:3Saúl...y fue herido por los flecherosH2342
+- 1Cr_13:10hirió, porque había extendido su manoH5221
+- 1Cr_14:15y herirá el ejército de los filisteosH5221
+- 1Cr_18:5David hirió de ellos 22.000 hombresH5221
+- 1Cr_21:7esto desagradó a Dios, e hirió a IsraelH5221
+- 2Cr_13:17cayeron heridos de Israel 500.000H2491
+- 2Cr_13:20Jeroboam...y Jehová lo hirió, y murióH5062
+- 2Cr_18:33a la ventura, hirió el rey de IsraelH5221
+- 2Cr_18:33sácame del campo...estoy mal heridoH2470
+- 2Cr_21:14Jehová herirá a tu pueblo de...plagaH5062
+- 2Cr_21:18lo hirió con una enfermedad incurableH5062
+- 2Cr_22:5a Ramot de...los sirios hirieron a JotamH5221
+- 2Cr_24:25y lo hirieron en su cama, y murióH2026
+- 2Cr_26:20salir, porque Jehová lo había heridoH5060
+- 2Cr_35:23quitadme de...estoy gravemente heridoH2470
+- Neh_13:25maldije, y herí a algunos de ellosH5221
+- Job_2:7e hirió a Job con una sarna malignaH5221
+- Job_5:18la vendará; él hiere, y sus manos curanH4272
+- Job_16:10boca; hirieron mis mejillas con afrentaH5221
+- Job_24:12las almas de los heridos de muerteH2491
+- Job_26:12agita el mar...hiere la arrogancia suyaH4272
+- Job_34:26los herirá en lugar donde sean vistosH5606
+- Sal_3:7tú heriste a todos mis enemigos en laH5221
+- Sal_18:38los herí de modo que no se levantasenH4272
+- Sal_42:10como quien hiere mis huesos...afrentanH7524
+- Sal_64:7Dios los herirá con saeta; de repenteH4347
+- Sal_68:21Dios herirá la cabeza de sus enemigosH4272
+- Sal_69:26porque persiguieron al que tú heristeH2491
+- Sal_78:20ha herido la peña, y brotaron aguasH5221
+- Sal_78:66e hirió a sus enemigos por detrás; lesH5221
+- Sal_89:10quebrantaste a Rahab como a herido deH2491
+- Sal_89:23sino que...herirá a los que le aborrecenH5062
+- Sal_102:4mi corazón está herido, y seco como laH5221
+- Sal_105:36hirió de muerte a...los primogénitosH5221
+- Sal_109:22mi corazón está herido dentro de míH2490
+- Sal_136:10que hirió a Egipto en sus primogénitosH5221
+- Sal_136:17al que hirió a grandes reyes, porqueH5221
+- Sal_141:5un...bálsamo que no me herirá la cabezaH5106
+- Pro_7:26muchos ha hecho caer heridos, y aunH2491
+- Pro_17:26herir a los nobles que hacen lo rectoH5221
+- Pro_19:25hiere al escarnecedor, y el simple seH5221
+- Pro_20:30azotes que hieren son medicina para elH6482
+- Pro_23:35dirás: Me hirieron, mas no me dolióH5221
+- Pro_26:10como arquero que a todos hiere, es elH2342
+- Ecl_10:9quien corta piedras, se hiere conH6087
+- Cnt_5:7me hirieron; me quitaron mi manto deH6481
+- Isa_5:25y extendió contra él su...y le hirióH5221
+- Isa_10:20nunca...se apoyarán en el que los hirióH5221
+- Isa_10:24herirá, y contra ti se alzará su paloH5221
+- Isa_11:4herirá la tierra con la vara de su bocaH5221
+- Isa_11:15lo herirá en sus siete brazos, y haráH5221
+- Isa_14:6que hería a los pueblos con furor, conH5221
+- Isa_14:29por haberse quebrado la vara...te heríaH5221
+- Isa_19:22y herirá Jehová a Egipto; h y sanaráH5062
+- Isa_27:7ha sido herido como quien lo hirió, oH5221
+- Isa_30:31Asiría que hirió con vara, con la vozH5221
+- Isa_51:9¿no eres tú el...el que hirió al dragón?[[H2490]]
+- Isa_53:4tuvimos por...herido de Dios y abatidoH5221
+- Isa_53:5él herido fue por nuestras rebelionesH2490
+- Isa_53:8por la rebelión de mi pueblo fue heridoH5061
+- Isa_57:17herí, escondí mi rostro y me indignéH5221
+- Isa_58:4y para herir con el puño inicuamenteH5221
+- Jer_14:19¿por qué nos hiciste herir sin queH5221
+- Jer_18:18hirámoslo de lengua, y no atendamos aH5221
+- Jer_18:21y sus jóvenes heridos a espada en laH5221
+- Jer_21:6y heriré a los moradores de esta ciudadH5221
+- Jer_21:7Nabucodonosor...herirá a filo de espadaH5221
+- Jer_30:14porque como hiere un enemigo te heríH5221
+- Jer_31:19que reconocí mi falta, herí mi musloH5606
+- Jer_33:5de hombres muertos, a los cuales herí yoH5221
+- Jer_37:10aun cuando hirieseis a todo el ejércitoH5221
+- Jer_37:10y quedasen...solamente hombres heridosH1856
+- Jer_41:2hirieron a espada a Gedalías hijo deH5221
+- Jer_52:27el rey...los hirió, y los mató en RiblaH5221
+- Lam_3:30dé la mejilla al que le hiere, y seaH5221
+- Eze_21:12caerán ellos...hiere, pues, tu musloH5606
+- Eze_21:16hiere a la izquierda, adonde quiera que
+- Eze_30:4miedo...cuando caigan heridos en EgiptoH2491
+- Eze_30:24aquél gemirá con gemidos de herido deH2491
+- Eze_33:4oyere...y viniendo la espada lo hiriereH3947
+- Eze_33:6y viniendo la espada, hiriere de él aH3947
+- Dan_2:34una piedra...hirió a la imagen en susH4223
+- Dan_2:35mas la piedra que hirió a la imagen fueH4223
+- Dan_8:4vi que el carnero hería con los cuernosH5221
+- Dan_8:7y se levantó contra él y lo hirió, y leH5221
+- Ose_6:1él arrebató, y...hirió, y nos vendaráH5221
+- Ose_9:16Efraín fue herido, su raíz está seca, noH5221
+- Joe_2:8cayendo sobre la espada no se heriránH1214
+- Amó_3:15y heriré la casa de invierno con laH5221
+- Amó_4:9os herí con viento solano y con orugaH5221
+- Amó_6:11herirá con hendiduras la casa mayor, yH5221
+- Jon_4:7cual hirió la calabacera, y se secóH5221
+- Jon_4:8el sol hirió a Jonás en la cabeza, y seH5221
+- Miq_5:1con vara herirán en la mejilla al juezH5221
+- Miq_6:13también te hice enflaquecer hiriéndoleH5221
+- Hag_2:17os herí con viento...con tizoncilloH5221
+- Zac_9:4herirá en el mar su poderío, y ellaH5221
+- Zac_10:11por el mar, y herirá en el mar las ondasH5221
+- Zac_11:17hiera la espada su brazo, y su ojoH5921
+- Zac_12:4heriré con pánico a todo caballo, y conH5221
+- Zac_12:4todo caballo de los...heriré con cegueraH5221
+- Zac_13:6ellas fui herido en casa de mis amigosH5221
+- Zac_13:7hiere al pastor, y serán dispersadas lasH5221
+- Zac_14:12, Zac_14:18la plaga con que herirá JehováH5062
+- Mal_4:6no sea que yo venga y hiera la tierraH5221
+- Mat_5:39que te hiera en la mejilla derechaG4474
+- Mat_26:31escrito está: Heriré al pastor, y lasG3960
+- Mat_26:51e hiriendo a un siervo del...sacerdoteG851
+- Mar_5:5los sepulcros, e hiriéndose con piedrasG2629
+- Mar_12:4y apedreándole, le hirieron en la cabezaG2775
+- Mar_14:27escrito está: Heriré al pastor, y lasG3960
+- Mar_14:47hirió al siervo del sumo sacerdoteG3817
+- Luc_6:29te hiera en una mejilla, preséntaleG5180
+- Luc_10:30le despojaron; e hiriéndole, se fueronG4127, [[G2007]]
+- Luc_20:12también a éste echaron fuera, heridoG5135
+- Luc_22:49dijeron: Señor, ¿heriremos a espada?[[G3960]]
+- Luc_22:50y uno de ellos hirió a un siervo delG3960
+- Jua_18:10hirió al siervo del sumo sacerdoteG3817
+- Hec_7:24lo defendió, e hiriendo al egipcioG3960
+- Hec_12:23ángel del Señor le hirió, por cuantoG3960
+- Hec_19:16huyeron de...casa desnudos y heridosG5135
+- 1Co_8:12hiriendo su débil conciencia, contraG5180
+- Rev_2:23sus hijos heriré de muerte, y todasG615
+- Rev_8:12y fue herida la tercera parte del solG4141
+- Rev_9:5como tormento de escorpión cuando hiereG3817
+- Rev_11:6poder...para herir la tierra con...plagaG3960
+- Rev_13:3una de sus cabezas como herida de muerteG4969
+- Rev_19:15espada...herir con ella a las nacionesG3960

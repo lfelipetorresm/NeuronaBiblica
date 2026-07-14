@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: DESEAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DESEAR
+
+- Deu_5:21ni desearás la casa de tu prójimo, niH2530
+- Deu_12:20dijeres: Comeré carne, porque deseasteH183
+- Deu_12:20conforme a...que deseaste podrás comerH185
+- Deu_12:21y comerás...según todo lo que desearesH185
+- Deu_14:26darás el dinero por todo lo que deseasH183
+- Deu_14:26o por cualquier cosa que tú desearesH7592
+- 1Sa_18:25el rey no desea la dote, sino cienH2656
+- 1Sa_20:4dijo...lo que deseare tu alma, haré por tiH559
+- 2Sa_3:21y tú reines como lo desea tu corazónH183
+- 2Sa_13:39y el rey David deseaba ver a AbsalónH3615
+- 1Re_11:37tú reinarás en...que deseare tu almaH183
+- 1Re_19:4y deseando morirse, dijo: Basta ya, ohH7592
+- 1Cr_11:17David deseó...dijo: ¡Quién me dieraH183
+- 2Cr_21:20y murió sin que lo desearan másH2532
+- Est_6:6¿qué se hará al...honra desea el rey?[[H2654]]
+- Est_6:6¿a quién deseará el rey honrar más queH2654
+- Est_6:7, Est_6:9(2),11el varón cuya honra desea el reyH2654
+- Job_14:6deseara, como el jornalero su díaH7521
+- Job_23:13él determina...su alma deseó, e hizoH183
+- Job_34:36deseo...que Job sea probado ampliamenteH15
+- Sal_34:12¿quién es el...que desea vida, que dH2655
+- Sal_40:14avergüéncense los que mi mal deseanH2655
+- Sal_45:11deseará el rey tu hermosura...tu señorH183
+- Sal_68:16monte que deseó Dios para su morada?[[H2530]]
+- Sal_70:2sean vueltos atrás...que mi mal deseanH2655
+- Sal_73:25y fuera de ti nada deseo en la tierraH2654
+- Sal_84:2mi alma aun...desea los atrios de JehováH3615
+- Sal_107:30así los guía al puerto que deseabanH2656
+- Sal_119:20quebrantada...de desear tus juiciosH8375
+- Sal_119:131abrí...deseaba tus mandamientosH2968
+- Sal_119:174he deseado tu salvacion, oh JehovaH8373
+- Pro_1:22y los burladores desearán el burlarH2530
+- Pro_3:15todo lo que puedes desear, no se puedeH2656
+- Pro_10:24los justos les será dado lo que deseanH8378
+- Pro_13:4alma del perezoso desea, y nada alcanzaH183
+- Pro_21:10alma del impío desea el mal, su prójimoH183
+- Pro_24:1envidia de los...ni desees estar con ellosH183
+- Ecl_2:10no negué a...ninguna cosa que desearanH7592
+- Ecl_6:2y nada le falta de...lo que su alma deseaH183
+- Cnt_6:4hermosa eres...de desear, como JerusalénH5000
+- Isa_26:9con mi alma te he deseado en la nocheH183
+- Isa_53:2mas sin atractivo para que le deseemosH2530
+- Jer_17:16no he ido...ni deseé día de calamidadH183
+- Jer_42:22lugar donde deseasteis entrar para morarH2654
+- Ose_10:10y los castigaré cuando lo deseeH185
+- Amó_5:18de los que desean el día de Jehová![[H183]]
+- Jon_4:8y deseaba la muerte, diciendo: MejorH7592
+- Miq_7:1¡ay...mi alma deseó los primeros frutosH183
+- Mal_3:1el ángel del pacto, a quien deseáisH1245
+- Luc_10:24muchos profetas y reyes desearon verG2309
+- Luc_15:16deseaba...de las algarrobas que comíanG1937
+- Luc_17:22desearéis ver uno de los días del HijoG1937
+- Luc_22:15cuánto he deseado comer...esta pascuaG1939
+- Luc_23:8porque hacía tiempo que deseaba verleG2309
+- Hec_13:7Sergio Paulo...deseaba oír la palabraG1934
+- Hec_27:13que ya tenían lo que deseaban, levaronG4286
+- Rom_1:11porque deseo veros, para comunicarosG1971
+- Rom_9:3deseara yo mismo ser anatema, separadoG2172
+- Rom_15:23deseando desde hace muchos años ir aG1974
+- 2Co_5:2gemimos, deseando ser revestidos deG1971
+- 2Co_11:12para quitar la ocasión a...que la deseanG2309
+- Flp_4:1que, hermanos míos amados y deseadosG1973
+- 1Ti_3:1si...anhela obispado, buena obra deseaG3713
+- 2Ti_1:4deseando verte, al acordarme de tusG1971
+- Heb_6:11deseamos que cada uno de...muestre laG1937
+- Heb_12:17después, deseando heredar la bendiciónG2309
+- Heb_13:18deseando conducirnos bien en todoG2309
+- Stg_4:2y lucháis...no tenéis lo que deseáisG2206
+- 1Pe_2:2desead, como niños...leche espiritualG1971
+- 3Jn_1:2deseo que tú seas prosperado en todasG2172

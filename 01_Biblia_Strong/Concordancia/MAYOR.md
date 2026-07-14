@@ -1,0 +1,151 @@
+---
+tipo: concordancia
+palabra: MAYOR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MAYOR
+
+- Gén_1:16la lumbrera m para que señorease enH1419
+- Gén_10:21padre de...Heber, y hermano m de JafetH1419
+- Gén_19:11con ceguera desde el menor hasta el mH1419
+- Gén_19:31la m dijo...Nuestro padre es vicio, yH1067
+- Gén_19:33entró la m,y durmió con su padre; masH1067
+- Gén_19:34al día siguiente, dijo la m a la menorH1067
+- Gén_19:37dio a luz la m un hijo, y llamó...MoabH1067
+- Gén_25:23será más fuerte...el m servirá al menorH7227
+- Gén_27:1Isaac...llamó a Esaú su hijo m, y le dijoH1419
+- Gén_27:15tomó Rebeca los vestidos de...su hijo mH1419
+- Gén_27:42Rebeca las palabras de Esaú su hijo mH1419
+- Gén_29:16dos hijas: el nombre de la m era LeaH1419
+- Gén_29:26no...que se dé la menor antes que la mH1067
+- Gén_34:25pero...cuando sentían ellos el m dolor
+- Gén_39:9no hay otro m que yo en esta casa, yH1419
+- Gén_41:40solamente en el trono seré yo m que túH1431
+- Gén_43:33el m conforme a su primogenitura, y elH1060
+- Gén_43:34la porción de...era cinco veces m queH7235
+- Gén_44:12buscó; desde el m comenzó, y acabó enH1419
+- Gén_49:26fueron m que las bendiciones de misH1396
+- Éxo_1:9el pueblo de los hijos de Israel es mH7227
+- Lev_25:16cuanto m fuere el número de los añosH7235
+- Núm_26:54a los más darás m heredad, y a losH7235
+- Deu_1:28pueblo es m y más alto que nosotrosH1419
+- Deu_7:1siete naciones m y más poderosas que túH7227
+- Jos_10:2de las ciudades reales, y m que HaiH1419
+- Rut_1:13que m amargura tengo yo que vosotrasH3966
+- 1Sa_14:30¿no se habría hecho ahora m estragoH7235
+- 1Sa_14:49de la m, Merab, y el de la menor, MicalH1067
+- 1Sa_15:9perdonaron...a lo mejor de...del ganado m
+- 1Sa_17:13y los tres hijos m de Isaí habían idoH1419
+- 1Sa_17:14David era...siguieron...los tres m a SaúlH1419
+- 1Sa_17:28y oyéndole hablar Eliab su hermano mH1419
+- 1Sa_18:17yo te daré Merab mi hija m por mujerH1419
+- 1Sa_30:2se habían llevado cautivas...hasta el mH1419
+- 1Sa_30:20tomó...el ganado m; y trayéndolo todo
+- 2Sa_4:5entraron en el m calor del día en casa
+- 2Sa_13:15el odio...fue m que el amor con que laH1419
+- 2Sa_13:16no hay razón; m mal es este...que el queH1419
+- 1Re_1:37haga m su trono que el...de mi señorH1431
+- 1Re_1:47Dios haga...haga m su trono que el tuyoH1431
+- 1Re_2:22es mi hermano m, y ya tiene también alH1419
+- 1Re_4:30era m la sabiduría de Salomón que la deH7235
+- 1Re_10:7es m tu sabiduría y bien, que la fama
+- 2Re_25:26pueblo, desde el menor hasta el mH1419
+- 1Cr_5:2que Judá llegó a ser el m sobre susH5057
+- 1Cr_12:14el menor tenía cargo de...y el m de milH1419
+- 2Cr_3:5techó el cuerpo m del edificio conH1419
+- 2Cr_22:1una banda...había matado a todos los mH7223
+- 2Cr_23:20llegaron a la mitad de la puerta m deH5945
+- 2Cr_27:3edificó él la puerta m de la casa deH5945
+- 2Cr_28:22Acaz...añadió m pecado contra JehováH3254
+- 2Cr_31:15a sus grupos, así al m como al menorH1419
+- 2Cr_34:30todo el pueblo, desde el m hasta el másH1419
+- Est_1:5a todo el pueblo...el m hasta el menorH1419
+- Est_1:20darán honra a sus maridos, desde el mH1419
+- Job_33:12yo te responderé que m es Dios queH7235
+- Job_38:32o guiarás a la Osa M con sus hijos?[[H4216]]
+- Sal_4:7tú diste alegría...m que la de ellosH6256
+- Sal_135:5Señor nuestro, m que todos los diosesH1419
+- Isa_15:9yo traeré sobre Dimón males m, leonesH3254
+- Isa_30:26y la luz del sol siete veces m, como
+- Pro_28:23el que reprende...después m gracia
+- Jer_42:1, Jer_42:8pueblo desde el menor hasta el mH1419
+- Jer_44:12de hambre morirán...el menor hasta el mH1419
+- Eze_8:6, Eze_8:13, Eze_8:15vuélvete aún...abominaciones mH1419
+- Eze_16:46y tu hermana m es Samaria, ella y susH1419
+- Eze_16:61las m que tú y las menores que tú, lasH1419
+- Eze_23:4se llamaban, la m, Ahola, y su hermanaH1419
+- Eze_36:11haré m bien que en vuestros principiosH3190
+- Eze_41:7había m anchura en las cámaras de másH5927
+- Eze_43:14menor hasta la cornisa m, cuatro codosH1419
+- Dan_4:36mi reino, y m grandeza me fue añadidaH3493
+- Dan_5:12fue hallado en él m espíritu y cienciaH3493
+- Dan_5:14que en ti se halló luz...y m sabiduríaH3493
+- Dan_8:8estando en su m fuerza, aquel gran cuernoH6105
+- Dan_11:13poner en campaña una multitud m que laH7227
+- Amó_6:2ved...su extensión es m que la vuestraH7227
+- Amó_6:11herirá con hendiduras la casa m, y laH1419
+- Jon_3:5vistieron de cilicio desde el m hastaH1419
+- Hag_2:9la gloria postrera...m que la primeraH1419
+- Mat_5:20si vuestra justicia no fuere m que laG4119
+- Mat_11:11no se ha levantado otro m que Juan elG3187
+- Mat_11:11el más pequeño en el reino...m es que élG3187
+- Mat_12:6digo que uno m que el templo está aquíG3187
+- Mat_13:32pero cuando ha crecido, es la m de lasG3187
+- Mat_18:1¿quién es el m en el reino de los cielos?[[G3187]]
+- Mat_18:4ése es el m en el reino de los cielosG3187
+- Mat_23:11el que es el m de...sea vuestro siervoG3187
+- Mat_23:14por esto recibiréis m condenaciónG4055
+- Mat_23:17porque ¿cuál es m, el oro, o el temploG3187
+- Mat_23:19¿cuál es m, la ofrenda, o el altar queG3187
+- Mar_4:32se hace la m de todas las hortalizasG3187
+- Mar_9:34disputado entre...quién había de ser el mG3187
+- Mar_12:31no hay otro mandamiento m que éstosG3187
+- Mar_12:40oraciones. Estos recibirán m condenaciónG4055
+- Mar_14:31él con m insistencia decía: Si me fuereG3123
+- Luc_7:28no hay m profeta que Juan el BautistaG3187
+- Luc_7:28el más pequeño en el reino de Dios es mG3187
+- Luc_9:46una discusión...quién de ellos sería el mG3187
+- Luc_12:18los edificaré m, y allí guardaré todosG3187
+- Luc_15:25su hijo m estaba en el campo; y...vinoG4245
+- Luc_20:47devoran...éstos recibirán m condenaciónG4055
+- Luc_22:24una disputa...quién de ellos sería el mG3187
+- Luc_22:26sea el m...como el más joven, y el queG3187
+- Luc_22:27¿cuál es m, el que se sienta a la mesaG3187
+- Jua_1:50dije: Te vi...Cosas m que estas verásG3187
+- Jua_4:12eres tú m que nuestro padre Jacob, queG3187
+- Jua_5:20m obras que estas le mostrará, de modoG3187
+- Jua_5:36yo tengo m testimonio que el de JuanG3187
+- Jua_8:53¿eres tú...m que nuestro padre AbrahamG3187
+- Jua_10:29mi Padre...es m que todos, y nadie lasG3187
+- Jua_13:16digo: El siervo no es m que su señorG3187
+- Jua_13:16m el enviado es m que el que le envióG3187
+- Jua_14:12y aun m hará, porque yo voy al PadreG3187
+- Jua_14:28al Padre; porque el Padre m es que yoG3187
+- Jua_15:13nadie tiene m amor que este, que unoG3187
+- Jua_15:20dicho: El siervo no es m que su señorG3187
+- Jua_19:11a ti me ha entregado, m pecado tieneG3187
+- Hec_12:20Blasto, que era camarero m del rey
+- Rom_9:12se le dijo: El m servirá al menorG3187
+- 1Co_9:19he hecho siervo...ganar a m númeroG4119
+- 1Co_13:13estos 3; pero el m de ellos es el amorG3187
+- 1Co_14:5m es el que profetiza que el que hablaG3187
+- 2Co_12:15yo con el m placer gastaré lo míoG2236
+- Flp_2:28le envío con m solicitud, para queG4708
+- 2Ti_1:3al cual sirvo desde mis m con limpiaG4269
+- Heb_3:3tanto m gloria que Moisés es estimadoG4119
+- Heb_3:3tiene m honra que la casa el que la hizoG4119
+- Heb_6:13no pudiendo jurar por otro m, juró porG3187
+- Heb_6:16los hombres...Juran por uno m que ellosG3187
+- Heb_7:7alguna, el menor es bendecido por el mG2909
+- Heb_8:11me conocerán, desde el menor hasta el mG3187
+- Heb_10:29¿cuánto m castigo...que merecerá el queG5501
+- Heb_11:26teniendo por m riquezas el vituperio deG3187
+- Stg_3:1maestros...recibiremos m condenaciónG3187
+- Stg_4:6pero él da m gracia...Por esto dice: DiosG3187
+- 2Pe_2:11los ángeles, que son m en fuerza yG3187
+- 1Jn_3:20m que nuestro corazón es Dios, y élG3187
+- 1Jn_4:4m es el que está en vosotros, que el queG3187
+- 1Jn_5:9de los hombres, m es el testimonio de DiosG3187
+- 3Jn_1:4no tengo yo m gozo que este, el oir queG3286

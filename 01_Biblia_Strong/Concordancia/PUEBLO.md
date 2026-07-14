@@ -1,0 +1,1970 @@
+---
+tipo: concordancia
+palabra: PUEBLO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PUEBLO
+
+- Gén_11:6dijo Jehová: He aquí el p es uno, yH5971
+- Gén_17:14aquella persona será cortada de su pH5971
+- Gén_17:16naciones; reyes de p vendrán de ellaH5971
+- Gén_19:4el p junto, desde el más joven hasta elH5971
+- Gén_23:7y se inclinó al p de aquella tierra, aH5971
+- Gén_23:11en presencia de los hijos de mi p te loH5971
+- Gén_23:12se inclinó delante del p de la tierraH5971
+- Gén_23:13y respondió a...en presencia del p de laH5971
+- Gén_25:8y murió Abraham en...y fue unido a su pH5971
+- Gén_25:17Ismael, y murió, y fue unido a su pH5971
+- Gén_25:23dos p serán divididos desde tus entrañasH3816
+- Gén_25:23el un p será más fuerte que el otro pH3816
+- Gén_26:10por poco hubiera dormido alguno del pH5971
+- Gén_26:11Abimelec mandó a todo el p, diciendoH5971
+- Gén_27:29sírvante p, y naciones se inclinen a tiH5971
+- Gén_28:3haga...hasta llegar a ser multitud de pH5971
+- Gén_32:7distribuyó el p que tenía consigo, y lasH5971
+- Gén_34:16habitaremos...vosotros, y seremos un pH5971
+- Gén_34:22esta condición...para que seamos un pH5971
+- Gén_35:6Jacob...él y todo el p que con él estabaH5971
+- Gén_35:29fue recogido a su p, viejo y lleno deH5971
+- Gén_41:40por tu palabra se gobernará todo mi pH5971
+- Gén_41:55el hambre...el p clamó a Faraón por panH5971
+- Gén_42:6José...le vendía a todo el p de la tierraH5971
+- Gén_47:21y al p lo hizo pasar a las ciudadesH5971
+- Gén_47:23dijo al p: He aquí os he comprado hoyH5971
+- Gén_48:19también él vendrá a ser un p, y seráH5971
+- Gén_49:10venga Siloh...a él se congregarán los pH5971
+- Gén_49:16Dan juzgará a su p, como una de lasH5971
+- Gén_49:29les dijo: Yo voy a ser reunido con mi pH5971
+- Gén_50:20hoy, para mantener con vida a mucho pH5971
+- Éxo_1:8que no conocía a José; y dijo a su p
+- Éxo_1:9el p de los hijos de Israel es mayor yH5971
+- Éxo_1:20el p se multiplicó y se fortaleció enH5971
+- Éxo_1:22Faraón mandó a todo su p...Echad al ríoH5971
+- Éxo_3:7la aflicción de mi p que está en EgiptoH5971
+- Éxo_3:10que saques de Egipto a mi p, los hijosH5971
+- Éxo_3:12hayas sacado de Egipto al p, serviréisH5971
+- Éxo_3:21yo daré a este p gracia en los ojos deH5971
+- Éxo_4:16él hablará por ti al p; él te será a tiH5971
+- Éxo_4:21corazón, de modo que no dejará ir al pH5971
+- Éxo_4:30hizo las señales delante de...ojos del pH5971
+- Éxo_4:31el p creyó...Jehová había visitado a losH5971
+- Éxo_5:1deja ir a mi p a celebrarme fiesta en elH5971
+- Éxo_5:4por qué hacéis cesar al p de su trabajo?[[H5971]]
+- Éxo_5:5he aquí el p de la tierra es ahora muchoH5971
+- Éxo_5:6y mandó...a los cuadrilleros del puebloH5971
+- Éxo_5:7de aquí en adelante no daréis paja al pH5971
+- Éxo_5:10saliendo los cuadrilleros del p y susH5971
+- Éxo_5:10hablaron al p, diciendo: Así ha dichoH5971
+- Éxo_5:12el p se esparció por toda la tierra deH5971
+- Éxo_5:16tus siervos son azotados, y el p tuyo esH5971
+- Éxo_5:22dijo: Señor, ¿por qué afliges a este p?[[H5971]]
+- Éxo_5:23afligido a este p...no has librado a tu pH5971
+- Éxo_6:7y os tomaré por mi p y seré vuestro DiosH5971
+- Éxo_7:4sacaré a...mi p, los hijos de Israel, deH5971
+- Éxo_7:14endurecido, y no quiere dejar ir al pH5971
+- Éxo_7:16; Éxo_8:1, Éxo_8:20deja ir a mi p...que me sirvaH5971
+- Éxo_8:3río criará ranas...en tu p, en tus hornosH5971
+- Éxo_8:4ranas subirán...sobre tu p y sobre todosH5971
+- Éxo_8:8para que quite las ranas de mí y de mi pH5971
+- Éxo_8:8orad...dejaré ir a tu p para que ofrezcaH5971
+- Éxo_8:9orar por...tu p, para que las ranas seanH5971
+- Éxo_8:11las ranas se irán...de tu p, y solamenteH5971
+- Éxo_8:21porque si no dejas ir a mi p, he aquíH5971
+- Éxo_8:21enviaré...sobre tu p y sobre tus casasH5971
+- Éxo_8:22apartaré...Gosén, en la cual habita mi pH5971
+- Éxo_8:23pondré redención entre mi p y el tuyoH5971
+- Éxo_8:29moscas se vayan de Faraón...su p mañanaH5971
+- Éxo_8:29no dejando ir al p a dar sacrificio aH5971
+- Éxo_8:31quitó todas aquellas moscas de...de su pH5971
+- Éxo_8:32endureció...su corazón, y no dejó ir al pH5971
+- Éxo_9:1, Éxo_9:13así: Deja ir a mi p, para que me sirvaH5971
+- Éxo_9:7Faraón se endureció, y no dejó ir al pH5971
+- Éxo_9:14y sobre tu p, para que entiendas que noH5971
+- Éxo_9:15para herirte a ti y a tu p de plaga, yH5971
+- Éxo_9:17te ensoberbeces contra mi p, para noH5971
+- Éxo_9:27vez; Jehová es justo, y yo y mi p impíosH5971
+- Éxo_10:3mí? Deja ir a mi p, para que me sirvaH5971
+- Éxo_11:2habla ahora al p, y que cada uno pida aH5971
+- Éxo_11:3y Jehová dio gracia al p en los ojos deH5971
+- Éxo_11:3tenido por gran varón...a los ojos del pH5971
+- Éxo_11:8vete, tú y todo el p que está debajo deH5971
+- Éxo_12:6lo inmolará toda la congregación del pH5712
+- Éxo_12:27libró...Entonces el p se inclinó y adoróH5971
+- Éxo_12:31salid de en medio de mi p vosotros y losH5971
+- Éxo_12:33los egipcios apremiaban al p, dándoseH5971
+- Éxo_12:34llevó el p su masa antes que se leudaseH5971
+- Éxo_12:36y Jehová dio gracia al p delante de losH5971
+- Éxo_13:3Moisés dijo al p: Tened memoria de esteH5971
+- Éxo_13:17dejó ir al p, Dios no los llevó por elH5971
+- Éxo_13:17se arrepienta el p cuando vea la guerraH5971
+- Éxo_13:18el p rodease por el camino del desiertoH5971
+- Éxo_13:22nunca se apartó de delante del p...nubeH5971
+- Éxo_14:5y fue dado aviso al rey...que el p huíaH5971
+- Éxo_14:5el corazón de Faraón...volvió contra el pH5971
+- Éxo_14:6y unció su carro, y tomó consigo su pH5971
+- Éxo_14:13y Moisés dijo al p: No temáis; estadH5971
+- Éxo_14:31p temió a Jehová, y creyeron a JehováH5971
+- Éxo_15:13condujiste en tu misericordia a este pH5971
+- Éxo_15:14oirán los p, y temblarán...los filisteosH5971
+- Éxo_15:16pasado tu p...este p que tú rescatasteH5971
+- Éxo_15:24el p murmuró contra Moisés, y dijo: ¿QuéH5971
+- Éxo_16:4el p saldrá, y recogerá diariamente laH5971
+- Éxo_16:27algunos del p salieron en el séptimo díaH5971
+- Éxo_16:30así el p reposó el séptimo díaH5971
+- Éxo_17:1y no había agua para que el p bebieseH5971
+- Éxo_17:2altercó el p con Moisés, y dijeron...aguaH5971
+- Éxo_17:3que el p tuvo allí sed, y murmuró contraH5971
+- Éxo_17:4¿qué haré con este p? De...me apedrearánH5971
+- Éxo_17:5pasa delante del p, y toma contigo de losH5971
+- Éxo_17:6y saldrán de ella aguas, y beberá el pH5971
+- Éxo_17:13Josué deshizo a Amalec y a su p a filoH5971
+- Éxo_18:1que Dios había hecho...y con Israel su pH5971
+- Éxo_18:10libró al p de la mano de los egipciosH5971
+- Éxo_18:13al día...se sentó Moisés a juzgar al pH5971
+- Éxo_18:13el p estuvo delante de Moisés desde laH5971
+- Éxo_18:14viendo...todo lo que él hacía con el pH5971
+- Éxo_18:14¿qué es esto que haces tú con el p?[[H5971]]
+- Éxo_18:14¿por qué...todo el p está delante de tiH5971
+- Éxo_18:15el p viene a mí para consultar a DiosH5971
+- Éxo_18:18desfallecerás del...tú, y también este pH5971
+- Éxo_18:19oye...Está tú por el p delante de DiosH5971
+- Éxo_18:21escoge tú de entre todo el p varonesH5971
+- Éxo_18:21ponlos sobre el p por jefes de millaresH5971
+- Éxo_18:22juzgarán al p en todo tiempo; y todoH5971
+- Éxo_18:23también...este p irá en paz a su lugarH5971
+- Éxo_18:25y los puso por jefes sobre el p, sobreH5971
+- Éxo_18:26juzgaban al p en todo tiempo; el asuntoH5971
+- Éxo_19:5seréis mi especial tesoro sobre...los pH5971
+- Éxo_19:7llamó a los ancianos del p, y expuso enH5971
+- Éxo_19:8todo el p respondió...ha dicho, haremosH5971
+- Éxo_19:8Moisés refirió a Jehová...palabras del pH5971
+- Éxo_19:9yo vengo a ti en una nube...que el p oigaH5971
+- Éxo_19:9y Moisés refirió las palabras del p aH5971
+- Éxo_19:10ve al p, y santifícalos hoy y mañanaH5971
+- Éxo_19:11Jehová descenderá a ojos de todo el pH5971
+- Éxo_19:12y señalarás término al p en derredorH5971
+- Éxo_19:14descendió Moisés...p, y santificó al pH5971
+- Éxo_19:15y dijo al p: Estad preparados para elH5971
+- Éxo_19:16se estremeció todo el p que estaba enH5971
+- Éxo_19:17y Moisés sacó del campamento al p paraH5971
+- Éxo_19:21ordena al p que no traspase los límitesH5971
+- Éxo_19:23p no podrá subir al monte Sinaí, porqueH5971
+- Éxo_19:24los sacerdotes y el p no traspasen elH5971
+- Éxo_19:25entonces Moisés descendió y...dijo al pH5971
+- Éxo_20:18todo el p observaba el estruendo y losH5971
+- Éxo_20:18humeaba; y viéndolo el p, temblaron, yH5971
+- Éxo_20:20y Moisés respondió al p: No temáisH5971
+- Éxo_20:21p estuvo a lo lejos, y Moisés se acercóH5971
+- Éxo_21:8no la podrá vender a p extraño cuandoH5971
+- Éxo_22:25cuando prestares dinero a uno de mi pH5971
+- Éxo_22:28no...ni maldecirás al príncipe de tu pH5971
+- Éxo_23:11dejarás libre...coman los pobres de tu pH5971
+- Éxo_23:27consternaré a todo p donde entres, y teH5971
+- Éxo_24:2ellos no se acerquen, ni suba el p conH5971
+- Éxo_24:3contó al p...y todo el p respondió a unaH5971
+- Éxo_24:7tomó el libro...y lo leyó a oídos del pH5971
+- Éxo_24:8tomó la sangre y roció sobre el p, y dijoH5971
+- Éxo_30:33compusiere...será cortado de entre su pH5971
+- Éxo_30:38para olerlo, será cortado de entre su pH5971
+- Éxo_31:14persona será cortada de en medio de...pH5971
+- Éxo_32:1viendo el p que...tardaba en descenderH5971
+- Éxo_32:3p apartó los zarcillos de oro que teníanH5971
+- Éxo_32:6y se sentó el p a comer y a beber, y seH5971
+- Éxo_32:7tu p que sacaste de...se ha corrompidoH5971
+- Éxo_32:9he visto a este p...es p de dura cervizH5971
+- Éxo_32:11se encenderá tu furor contra tu p, queH5971
+- Éxo_32:12y arrepiéntete de este mal contra tu pH5971
+- Éxo_32:14mal que dijo que había de hacer a su pH5971
+- Éxo_32:17oyó Josué el clamor del p que gritabaH5971
+- Éxo_32:21a Aarón: ¿Qué te ha hecho este p, queH5971
+- Éxo_32:22tú conoces al p, que es inclinado a malH5971
+- Éxo_32:25y viendo...que el p estaba desenfrenadoH5971
+- Éxo_32:28cayeron del p en aquel día como 3.000H5971
+- Éxo_32:30al p: Vosotros habéis cometido un granH5971
+- Éxo_32:31pues este p ha cometido un gran pecadoH5971
+- Éxo_32:34ve...lleva a este p a donde te he dichoH5971
+- Éxo_32:35Jehová hirió al p, porque habían hechoH5971
+- Éxo_33:1sube de aquí, tú y el p que sacaste deH5971
+- Éxo_33:3pero yo no subiré...eres p de dura cervizH5971
+- Éxo_33:4y oyendo el p esta mala noticia...lutoH5971
+- Éxo_33:5vosotros sois p de dura cerviz; en unH5971
+- Éxo_33:8el p se levantaba, y cada cual estabaH5971
+- Éxo_33:10viendo todo el p la columna de nube queH5971
+- Éxo_33:12saca este p; y tú no me has declaradoH5971
+- Éxo_33:13ojos: y mira que esta gente es p tuyoH5971
+- Éxo_33:16hallado gracia en tus ojos, yo y tu pH5971
+- Éxo_33:16que yo y tu p...apartados de todos los pH5971
+- Éxo_34:9un p de dura cerviz; y perdona nuestraH5971
+- Éxo_34:10hago pacto delante de todo tu p; haréH5971
+- Éxo_34:10y verá todo el p en...la obra de JehováH5971
+- Éxo_36:5el p trae mucho más de lo...para la obraH5971
+- Éxo_36:6mandó...se le impidió al p ofrecer másH5971
+- Lev_4:3sacerdote ungido pecare según el...del pH5971
+- Lev_4:13yerro estuviere oculto a los ojos del pH6951
+- Lev_4:27si alguna persona del p pecare por yerroH5971
+- Lev_7:20-21, Lev_7:25, Lev_7:27será cortada de entre su pH5971
+- Lev_9:7haz la reconciliación por ti y por el pH5971
+- Lev_9:7haz también la ofrenda del p, y haz laH5971
+- Lev_9:15ofreció...ofrenda del p, y tomó el machoH5971
+- Lev_9:15cabrío que era para la expiación del pH5971
+- Lev_9:18degolló también el buey...que era del pH5971
+- Lev_9:22después alzó Aarón sus manos hacia el pH5971
+- Lev_9:23Moisés y...y salieron y bendijeron al pH5971
+- Lev_9:23la gloria de...se apareció a todo el pH5971
+- Lev_9:24fuego de...y viéndolo todo el p, alabaronH5971
+- Lev_10:3en presencia de...el p seré glorificadoH5971
+- Lev_16:15cabrío en expiación por el pecado del pH5971
+- Lev_16:24su holocausto, y el holocausto del pH5971
+- Lev_16:24y hará la expiación por sí y por el pH5971
+- Lev_16:33expiación por el altar...por todo el pH5971
+- Lev_17:4será cortado el tal varón de entre su pH5971
+- Lev_17:9tal varón será igualmente cortado de su pH5971
+- Lev_17:10comiere sangre...cortaré de entre su pH5971
+- Lev_18:29hicieren serán cortadas de entre su pH5971
+- Lev_19:8y la tal persona será cortada de su pH5971
+- Lev_19:16no andarás chismeando entre tu p. NoH5971
+- Lev_19:18ni guardarás rencor a los hijos de tu pH5971
+- Lev_20:2morirá; el p de la tierra lo apedrearáH5971
+- Lev_20:3y lo cortaré de entre su p, por cuantoH5971
+- Lev_20:4si el p de...cerrare sus ojos respecto deH5971
+- Lev_20:5le cortaré de entre su p, con todos losH5971
+- Lev_20:6tal persona, y la cortaré de entre su pH5971
+- Lev_20:17serán muertos a ojos de...hijos de su pH5971
+- Lev_20:18ambos serán cortados de entre su pH5971
+- Lev_20:24yo Jehová...que os he apartado de los pH5971
+- Lev_20:26apartado de los p para que seáis míosH5971
+- Lev_21:1no se contaminen por un muerto en sus pH5971
+- Lev_21:4no se contaminará como...hombre de su pH5971
+- Lev_21:14sino tomará de su p una virgen por mujerH5971
+- Lev_21:15que no profane su descendencia en sus pH5971
+- Lev_23:29no se afligiere...será cortada de su pH5971
+- Lev_23:30yo destruiré a la tal persona de...su pH5971
+- Lev_26:12vuestro Dios, y vosotros seréis mi pH5971
+- Núm_5:21te haga...execración en medio de tu pH5971
+- Núm_5:27la mujer será maldición en medio de su pH5971
+- Núm_9:13tal persona será cortada de entre su pH5971
+- Núm_11:1aconteció que el p se quejó a oídos deH5971
+- Núm_11:2entonces el p clamó a Moisés, y MoisésH5971
+- Núm_11:8p se esparcía y lo recogía, y lo molíaH5971
+- Núm_11:10oyó Moisés al p, que lloraba por susH5971
+- Núm_11:11que has puesto la carga de todo este pH5971
+- Núm_11:12¿concebí yo a...este p? ¿Lo engendré yoH5971
+- Núm_11:13conseguiré yo carne para dar...este p?[[H5971]]
+- Núm_11:14no puedo yo solo soportar a todo este pH5971
+- Núm_11:16que tu sabes que son ancianos del p yH5971
+- Núm_11:17llevarán contigo la carga del p, y noH5971
+- Núm_11:18pero al p dirás: Santificaos para mañanaH5971
+- Núm_11:21dijo Moisés: 600.000 de a pie es el pH5971
+- Núm_11:24y dijo al p las palabras de JehováH5971
+- Núm_11:24reunió a los setenta...ancianos del pH5971
+- Núm_11:29ojalá todo...el p de Jehová fuese profetaH5971
+- Núm_11:32el p estuvo levantado todo aquel día yH5971
+- Núm_11:33ira...se encendió en el p, e hirió...al pH5971
+- Núm_11:34cuanto allí sepultaron al p codiciosoH5971
+- Núm_11:35Kibrot-hataava partió el p a HazerotH5971
+- Núm_12:15p no pasó...hasta que se reunió MaríaH5971
+- Núm_12:16el p partió de Hazarot, y acamparon enH5971
+- Núm_13:18y observad...el p que la habita, si esH5971
+- Núm_13:28p que habita aquella tierra es fuerteH5971
+- Núm_13:30Caleb...callar al p delante de MoisésH5971
+- Núm_13:31mas...no podremos subir contra aquel pH5971
+- Núm_13:32todo el p...hombres de grande estaturaH5971
+- Núm_14:1y dio voces; y el p lloró aquella nocheH5971
+- Núm_14:9ni temáis al p de esta tierra; porqueH5971
+- Núm_14:11¿hasta cuándo me ha de irritar este p?[[H5971]]
+- Núm_14:13lo oirán...sacaste a este p con tu poderH5971
+- Núm_14:14oh Jehová, estabas en medio de este pH5971
+- Núm_14:15y que has hecho morir a este p como aH5971
+- Núm_14:16no pudo...meter este p en la tierra deH5971
+- Núm_14:19perdona ahora la iniquidad de este pH5971
+- Núm_14:19perdonado a este p desde Egipto hastaH5971
+- Núm_14:39dijo estas cosas...el p se enlutó muchoH5971
+- Núm_15:26ellos, por cuanto es yerro de todo el pH5971
+- Núm_15:30esa...será cortada de en medio de su pH5971
+- Núm_16:41vosotros habéis dado muerte al p deH5971
+- Núm_16:47la mortandad había comenzado en el pH5971
+- Núm_16:47incensario...e hizo expiación por el pH5971
+- Núm_20:1llegaron...acampó el p en Cades; y allíH5971
+- Núm_20:3y habló el p contra Moisés, diciendoH5971
+- Núm_20:20y salió Edom contra él con mucho p, yH5971
+- Núm_20:24Aarón será reunido a su p...no entraráH5971
+- Núm_20:26Aarón será reunido a su p, y...moriráH5971
+- Núm_21:2en efecto entregares este p en mi manoH5971
+- Núm_21:4Edom; y se desanimó el p por el caminoH5971
+- Núm_21:5habló el p contra Dios y contra MoisésH5971
+- Núm_21:6envió entre el p serpientes ardientesH5971
+- Núm_21:6mordían al p, y murió mucho p de IsraelH5971
+- Núm_21:7el p vino a Moisés y dijo: Hemos pecadoH5971
+- Núm_21:7ruega a Jehová...Y Moisés oró por el pH5971
+- Núm_21:16a Moisés: Reúne al p, y les daré aguaH5971
+- Núm_21:18pozo, el cual...cavaron los príncipes del pH5971
+- Núm_21:23juntó Sehón todo su p y salió contraH5971
+- Núm_21:29¡ay de ti, Moab! Pereciste, p de QuemosH5971
+- Núm_21:33salió...Og rey...y todo su p, para pelearH5971
+- Núm_21:34lo he entregado, a él y a todo su p, y aH5971
+- Núm_22:3y Moab tuvo gran temor a causa del pH5971
+- Núm_22:5un p ha salido de Egipto...cubre la fazH5971
+- Núm_22:5al río en la tierra de los hijos de su pH5971
+- Núm_22:6, Núm_22:17ven, pues, ahora...maldíceme este pH5971
+- Núm_22:11este p que ha salido de Egipto cubre laH5971
+- Núm_22:12a Balaam: No vayas...ni maldigas al pH5971
+- Núm_22:41desde allí vio a los mas cercanos del pH5971
+- Núm_23:9he aquí un p que habitará confiado, y noH5971
+- Núm_23:24he aquí el p que como león se levantaráH5971
+- Núm_24:14yo me voy ahora a mi p; por tanto, venH5971
+- Núm_24:14lo que este p ha de hacer a tu p enH5971
+- Núm_25:1el p empezó a fornicar con las hijas deH5971
+- Núm_25:2invitaban al p a los sacrificios de susH5971
+- Núm_25:2y el p comió, y se inclinó a sus diosesH5971
+- Núm_25:3acudió el p a Baal-peor; y el furor deH5971
+- Núm_25:4todos los príncipes del p, y ahórcalosH5971
+- Núm_25:15Zur, príncipe de p, padre de familia enH523
+- Núm_26:4contaréis el p de 20 años arriba, como
+- Núm_27:13serás reunido a tu p, como fue...AarónH5971
+- Núm_31:2venganza...después serás recogido a tu pH5971
+- Núm_31:3habló al p, diciendo: Armaos algunos deH5971
+- Núm_32:15él volverá...y destruiréis a todo este pH5971
+- Núm_33:14Refidim, donde el p no tuvo aguas paraH5971
+- Deu_1:28p es mayor y más alto que nosotrosH5971
+- Deu_2:4manda al p, diciendo: Pasando vosotrosH5971
+- Deu_2:10, Deu_2:21p grande y numeroso, y alto, comoH5971
+- Deu_2:16murieron...los hombres de guerra de...el pH5971
+- Deu_2:25a poner tu temor...sobre los p debajo de
+- Deu_2:32salió Sehón...él y todo su p, para pelearH5971
+- Deu_2:33y lo derrotamos a él y a...y a todo su pH5971
+- Deu_3:1salió al encuentro Og rey de...y todo su pH5971
+- Deu_3:2tu mano he entregado a él y a todo su pH5971
+- Deu_3:3en nuestra mano a Og rey...y a todo su pH5971
+- Deu_3:28él ha de pasar delante de este p, y élH5971
+- Deu_4:6ante los ojos de los p, los cuales oiránH5971
+- Deu_4:6p sabio y entendido, nación grande es estaH5971
+- Deu_4:10reúneme el p, para que yo les haga oírH5971
+- Deu_4:19tu Dios los ha concedido a todos los pH5971
+- Deu_4:20para que seáis el p de su heredad, comoH5971
+- Deu_4:27os esparcirá entre los p, y quedaréisH5971
+- Deu_4:33¿ha oído p...la voz de Dios, hablando deH5971
+- Deu_5:28he oído la voz...de este p, que ellos teH5971
+- Deu_6:14en pos de...dioses de los p que están enH5971
+- Deu_7:6tú eres p santo...para serle un p especialH5971
+- Deu_7:6más que todos los p que están sobre laH5971
+- Deu_7:7no por ser vosotros más que todos los pH5971
+- Deu_7:7erais el más insignificante de todos...pH5971
+- Deu_7:14bendito serás más que todos los p; noH5971
+- Deu_7:16consumirás...p que te da Jehová tu DiosH5971
+- Deu_7:19así hará...Dios con todos los p de cuyaH5971
+- Deu_9:2un p grande y alto, hijos de los anaceosH5971
+- Deu_9:6no es por...porque p duro de cerviz eresH5971
+- Deu_9:12tu p que sacaste de...se ha corrompidoH5971
+- Deu_9:13he observado a ese p...p duro de cervizH5971
+- Deu_9:26no destruyas a tu p y a tu heredad queH5971
+- Deu_9:27no mires a la dureza de este p, ni a suH5971
+- Deu_9:29son tu p y tu heredad, que sacaste conH5971
+- Deu_10:11marches delante del p, para que entrenH5971
+- Deu_10:15y escogió...de entre todos los p, comoH5971
+- Deu_13:7dioses de los p que están en vuestrosH5971
+- Deu_13:9tu mano...y después la mano de todo el pH5971
+- Deu_14:2eres p santo a Jehová tu Dios, y JehováH5971
+- Deu_14:2le seas un p único de entre todos los pH5971
+- Deu_14:21véndela a un...tú eres p santo a JehováH5971
+- Deu_16:18cuales juzgarán al p con justo juicioH5971
+- Deu_17:7testigos...y después la mano de todo el pH5971
+- Deu_17:13y todo el p oirá, y temerá, y no seH5971
+- Deu_17:16ni hará volver al p a Egipto con el finH5971
+- Deu_18:3y este será el derecho...de parte del pH5971
+- Deu_20:1si vieres caballos...p más grande que túH5971
+- Deu_20:2pondrá en pie el sacerdote y hablará al pH5971
+- Deu_20:5y los oficiales hablarán al p, diciendoH5971
+- Deu_20:8y volverán los oficiales a hablar al pH5971
+- Deu_20:9cuando...oficiales acaben de hablar al pH5971
+- Deu_20:9tomarán el mando a la cabeza del pH5971
+- Deu_20:11todo el p que en ella fuere hallado teH5971
+- Deu_20:16de las ciudades de estos p que JehováH5971
+- Deu_21:8perdona a tu p Israel, al cual redimisteH5971
+- Deu_21:8y no culpes de sangre inocente a tu pH5971
+- Deu_26:15bendice a tu p Israel, y a la tierraH5971
+- Deu_26:18ha declarado hoy que tú eres p suyo, deH5971
+- Deu_26:19que seas un p santo a Jehová tu DiosH5971
+- Deu_27:1ordenó Moisés, con los ancianos...al pH5971
+- Deu_27:9hoy has venido a ser p de Jehová tu DiosH5971
+- Deu_27:11y mandó Moisés al p en...día, diciendoH5971
+- Deu_27:12el monte Gerizim para bendecir al pH5971
+- Deu_27:15y todo el p responderá y dirá: AménH5971
+- Deu_27:16-17, Deu_27:18-19, Deu_27:20-21, Deu_27:22-23, Deu_27:24-25, Deu_27:26el que...Y dirá todo el p: AménH5971
+- Deu_28:9te confirmará Jehová por p santo suyoH5971
+- Deu_28:10verán todos los p...el nombre de JehováH5971
+- Deu_28:32y tus hijas serán entregadas a otro pH5971
+- Deu_28:33el fruto de...comerá p que no conocisteH5971
+- Deu_28:37servirás de refrán y de burla a...los pH5971
+- Deu_28:64y Jehová te esparcirá por todos los pH5971
+- Deu_29:13para confirmarte hoy como su p, y paraH5971
+- Deu_30:3volverá a recogerte de entre todos los pH5971
+- Deu_31:7tú entrarás con este p a la tierra queH5971
+- Deu_31:12harás congregar al p, varones y mujeresH5971
+- Deu_31:16p...fornicará tras los dioses ajenos deH5971
+- Deu_32:6así pagáis a Jehová, p loco e ignorante?[[H5971]]
+- Deu_32:8estableció los límites de los p según elH5971
+- Deu_32:9la porción de Jehová es su p; Jacob laH5971
+- Deu_32:21los moveré a celos con un p que no es pH5971
+- Deu_32:36Jehová juzgará a su p, y por amor deH5971
+- Deu_32:43alabad, naciones, a su p, porque élH5971
+- Deu_32:43hará expiación por la tierra de su pH5971
+- Deu_32:44y recitó...este cántico a oídos del pH5971
+- Deu_32:50sé unido a tu p, así como murió AarónH5971
+- Deu_32:50como murió Aarón...y fue unido a su pH5971
+- Deu_33:3aun amó a su p; todos los consagradosH5971
+- Deu_33:5cuando se congregaron los jefes del PH5971
+- Deu_33:7oye, oh Jehová, la voz...llévalo a su pH5971
+- Deu_33:17con ellas acorneará a los p juntos hastaH5971
+- Deu_33:19llamarán a los p a su monte; allíH5971
+- Deu_33:21vino en la delantera del p; con IsraelH5971
+- Deu_33:29¿quién como tú, p salvo por JehováH5971
+- Jos_1:2pasa este Jordán, tú y todo este p, aH5971
+- Jos_1:6repartirás a este p por heredad la tierraH5971
+- Jos_1:10mandó a los oficiales del p, diciendoH5971
+- Jos_1:11mandad al p, diciendo: Preparaos comidaH5971
+- Jos_3:3mandaron al p, diciendo: Cuando veáis elH5971
+- Jos_3:5y Josué dijo al p: Santificaos, porqueH5971
+- Jos_3:6tornad el arca del...y pasad delante del pH5971
+- Jos_3:6tomaron el arca...y fueron delante del pH5971
+- Jos_3:14cuando partió el p de sus tiendas paraH5971
+- Jos_3:14los sacerdotes delante del p llevando elH5971
+- Jos_3:16aguas...el p pasó en dirección de JericóH5971
+- Jos_3:17el p hubo acabado de pasar el JordánH5971
+- Jos_4:2tomad del p doce hombres, uno de cadaH5971
+- Jos_4:10había mandado a Josué que dijese al pH5971
+- Jos_4:10se pararon...y el p se dio prisa y pasóH5971
+- Jos_4:11todo el p acabó de pasar, también pasóH5971
+- Jos_4:11el arca de Jehová...en presencia del pH5971
+- Jos_4:19el p subió del Jordán el día diez delH5971
+- Jos_4:24los p...conozcan que la mano de JehováH5971
+- Jos_5:4p que había salido de Egipto, los varonesH5971
+- Jos_5:5todos los del p...estaban circuncidadosH5971
+- Jos_5:5todo el p que había nacido en el desiertoH5971
+- Jos_6:5la bocina, todo el p gritará a gran vozH5971
+- Jos_6:5subirá el p...uno derecho hacia adelanteH5971
+- Jos_6:7y dijo al p: Pasad, y rodead la ciudadH5971
+- Jos_6:8y así que Josué hubo hablado al p, losH5971
+- Jos_6:10Josué mandó al p...no gritaréis, ni seH5971
+- Jos_6:16Josué dijo al p: Gritad, porque JehováH5971
+- Jos_6:20el p gritó, y los sacerdotes tocaron lasH5971
+- Jos_6:20cuando el p hubo oído...la bocina, gritóH5971
+- Jos_6:20el p subió luego a la ciudad, cada unoH5971
+- Jos_7:3no suba todo el p, sino suban...dos milH5971
+- Jos_7:3Hai; no fatigues a todo el p yendo allíH5971
+- Jos_7:4subieron allá del p como tres mil hombresH5971
+- Jos_7:5por lo cual el corazón del p desfallecióH5971
+- Jos_7:7hiciste pasar a este p el Jordán, paraH5971
+- Jos_7:13santifica al p, y di: Santificaos paraH5971
+- Jos_8:1he entregado...Hai, a su p, a su ciudadH5971
+- Jos_8:5yo y todo el p...conmigo nos acercaremosH5971
+- Jos_8:9y Josué se quedó...noche en medio del pH5971
+- Jos_8:10pasó revista al p, y subió él, con losH5971
+- Jos_8:10Josué...subió...delante del p contra HaiH5971
+- Jos_8:13dispusieron al p; todo el campamento alH5971
+- Jos_8:14el rey de Hai, él y su p se apresuraronH5971
+- Jos_8:16y todo el p que estaba en Hai se juntóH5971
+- Jos_8:20el p que iba huyendo hacia el desiertoH5971
+- Jos_8:33bendijesen primeramente al p de IsraelH5971
+- Jos_10:7subió Josué...y todo el p de guerra con élH5971
+- Jos_10:21todo el p volvió sano y salvo a JosuéH5971
+- Jos_10:33a él y a su p destruyó Josué, hasta noH5971
+- Jos_14:8hicieron desfallecer el corazón del pH5971
+- Jos_17:14siendo nosotros un p tan grande, y queH5971
+- Jos_17:15si sois p tan grande, subid al bosqueH5971
+- Jos_17:17tú eres gran p, y tienes grande poderH5971
+- Jos_24:2dijo Josué a todo el p: Así dice JehováH5971
+- Jos_24:16entonces el p respondió y dijo: NuncaH5971
+- Jos_24:17todos los p por entre los cuales pasamosH5971
+- Jos_24:18Jehová arrojó de...a todos los p, y alH5971
+- Jos_24:19Josué dijo al p: No podréis servir aH5971
+- Jos_24:21p...dijo a Josué: No, sino que a JehováH5971
+- Jos_24:22respondió al p: Vosotros sois testigosH5971
+- Jos_24:24p respondió a Josué: A Jehová nuestroH5971
+- Jos_24:25Josué hizo pacto con el p el mismo díaH5971
+- Jos_24:27Josué a todo el p: He aquí esta piedraH5971
+- Jos_24:28y envió Josué al p...uno a su posesiónH5971
+- Jue_1:16subieron...fueron y habitaron con el pH5971
+- Jue_2:4el ángel...habló...el p alzó su voz y lloróH5971
+- Jue_2:6Josué había despedido al p, y los hijosH5971
+- Jue_2:7p había servido a Jehová todo el tiempoH5971
+- Jue_2:12tras...los dioses de los p que estabanH5971
+- Jue_2:20por cuanto este p traspasa mi pacto queH5971
+- Jue_4:13y reunió Sísara...el p que con él estabaH5971
+- Jue_5:2por haberse ofrecido voluntariamente el pH5971
+- Jue_5:9para los que...os ofrecisteis entre el pH5971
+- Jue_5:11marchará hacia...puertas el p de JehováH5971
+- Jue_5:13el p de Jehová marchó por él en contraH5971
+- Jue_5:14en pos de ti, Benjamín, entre tus p; deH5971
+- Jue_5:18p de Zabulón expuso su vida a la muerteH5971
+- Jue_7:1levantándose, pues...Gedeón, y todo el pH5971
+- Jue_7:2el p...es mucho para que yo entregue a losH5971
+- Jue_7:3ahora, pues, haz pregonar en oídos del pH5971
+- Jue_7:3y se devolvieron de los del p 22.000, yH5971
+- Jue_7:4Jehová dijo a Gedeón: Aún es mucho el pH5971
+- Jue_7:5llevó el p a las aguas; y Jehová dijo aH5971
+- Jue_7:6y todo el resto del p se dobló sobre susH5971
+- Jue_7:8y habiendo tomado provisiones para el pH5971
+- Jue_9:29estuviera este p bajo mi mano, pues yoH5971
+- Jue_9:32levántate, pues...y el p que está contigoH5971
+- Jue_9:33cuando él y el p...salgan contra ti, túH5971
+- Jue_9:34levantándose...Abimelec y todo el p queH5971
+- Jue_9:35Abimelec y todo el p...de la emboscadaH5971
+- Jue_9:36viendo Gaal al p, dijo a Zebul: He aquíH5971
+- Jue_9:38¿no es este el p que tenías en poco?[[H5971]]
+- Jue_9:42el p salió al campo; y fue dado aviso aH5971
+- Jue_9:43he aquí el p que salía de la ciudad; yH5971
+- Jue_9:45tomó la ciudad, y mató al p que en ellaH5971
+- Jue_9:48diciendo al p que estaba con él: Lo queH5971
+- Jue_9:49todo el p cortó también cada uno su ramaH5971
+- Jue_10:18y el p de Galaad dijeron el uno al otroH5971
+- Jue_11:11y el p lo eligió por su caudillo y jefeH5971
+- Jue_11:21Jehová...entregó a Sehón y a todo su pH5971
+- Jue_11:23desposeyó al amorreo delante de su pH5971
+- Jue_12:2yo y mi p teníamos una gran contienda conH5971
+- Jue_14:3¿no hay mujer...en todo nuestro p, paraH5971
+- Jue_14:16el enigma que propusiste a los...de mi pH5971
+- Jue_14:17y ella lo declaró a los hijos de su pH5971
+- Jue_16:24y viéndolo el p, alabaron a su diosH5971
+- Jue_16:30cayó la casa sobre...y sobre todo el pH5971
+- Jue_18:7vieron que el p...en ella estaba seguroH5971
+- Jue_18:10llegaréis a un p confiado y...una tierraH5971
+- Jue_18:20tomó el efod...y se fue en medio del pH5971
+- Jue_18:27llegaron a...al p tranquilo y confiadoH5971
+- Jue_20:2los jefes de todo el p, de...las tribusH5971
+- Jue_20:2presentes en la reunión del p de DiosH5971
+- Jue_20:8todo el p, como...se levantó, y dijeronH5971
+- Jue_20:10hombres...que lleven víveres para el pH5971
+- Jue_20:22reanimándose el p...volvieron a ordenarH5971
+- Jue_20:26subieron...el p, y vinieron a la casaH5971
+- Jue_20:31salieron...Benjamín al encuentro del pH5971
+- Jue_20:31y comenzaron a herir a algunos del pH5971
+- Jue_21:2el p a la casa de Dios, y se estuvieronH5971
+- Jue_21:4y al día siguiente el p se levantó deH5971
+- Jue_21:9fue contado el p, y no hubo allí varónH5971
+- Jue_21:15el p tuvo compasión de Benjamín, porqueH5971
+- Rut_1:6había visitado a su p para darles panH5971
+- Rut_1:10dijeron...nosotras iremos contigo a tu pH5971
+- Rut_1:15he aquí tu cuñada se ha vuelto a su p yH5971
+- Rut_1:16iré yo...tu p será mi p, y tu Dios mi DiosH5971
+- Rut_2:11has venido a un p que no conociste antesH5971
+- Rut_3:11la gente de mi p sabe que eres...virtuosaH5971
+- Rut_4:4compres en presencia de...ancianos de mí pH5971
+- Rut_4:9a todo el p: Vosotros sois testigos hoyH5971
+- Rut_4:11dijeron todos los del p que estaban a laH5971
+- 1Sa_2:13costumbre de los sacerdotes con el pH5971
+- 1Sa_2:23porque yo oigo de todo este p vuestrosH5971
+- 1Sa_2:24hijos míos...hacéis pecar al p de JehováH5971
+- 1Sa_2:29engordándoos de...las ofrendas de mi pH5971
+- 1Sa_4:3volvió el p al campamento, los ancianosH5971
+- 1Sa_4:4envió el p a Silo, y trajeron de allá elH5971
+- 1Sa_4:17también fue hecha gran mortandad en el pH5971
+- 1Sa_5:10el arca del...para matarnos...a nuestro pH5971
+- 1Sa_5:11y no nos mate a nosotros ni a nuestro pH5971
+- 1Sa_6:19Dios...hizo morir del p a 50:070 hombresH5971
+- 1Sa_6:19lloró el p...Jehová lo había herido conH5971
+- 1Sa_8:7dijo Jehová...Oye la voz del p en todo loH5971
+- 1Sa_8:10refirió Samuel...palabras de Jehová al pH5971
+- 1Sa_8:19pero el p no quiso oír la voz de SamuelH5971
+- 1Sa_8:21oyó Samuel todas las palabras del p, yH5971
+- 1Sa_9:2hijo...Saúl...sobrepasaba a cualquiera del pH5971
+- 1Sa_9:12el p tiene hoy un sacrificio en el lugarH5971
+- 1Sa_9:13el p no comerá hasta que él haya llegadoH5971
+- 1Sa_9:16sobre mi p Israel, y salvará a mi p deH5971
+- 1Sa_9:16he mirado a mi p, por cuanto su clamorH5971
+- 1Sa_9:17varón del cual...éste gobernará a mi pH5971
+- 1Sa_9:24guardó, cuando dije: Yo he convidado al pH5971
+- 1Sa_10:1te ha ungido Jehová...sobre su p Israel?[[H5159]]
+- 1Sa_10:11el p decía...¿Qué le ha sucedido al hijoH5971
+- 1Sa_10:17Samuel convocó al p delante de JehováH5971
+- 1Sa_10:23en medio del p...mas alto que todo el pH5971
+- 1Sa_10:24Samuel dijo a todo el p: ¿Habéis vistoH5971
+- 1Sa_10:24que no hay semejante a él en todo el p?[[H5971]]
+- 1Sa_10:24el p clamó con alegría...¡Viva el rey![[H5971]]
+- 1Sa_10:25recitó luego al p las leyes del reinoH5971
+- 1Sa_10:26y envió Samuel a todo el p...a su casa
+- 1Sa_11:4dijeron estas palabras en oídos del pH5971
+- 1Sa_11:4dijeron...y todo el p alzó su voz y lloróH5971
+- 1Sa_11:5dijo Saúl: ¿Qué tiene el p, que llora?[[H5971]]
+- 1Sa_11:7temor de Jehová sobre el p, y salieronH5971
+- 1Sa_11:11dispuso Saúl al p en tres compañíasH5971
+- 1Sa_11:12el p...dijo a Samuel: ¿Quiénes son losH5971
+- 1Sa_11:14mas Samuel dijo al p: Venid, vamos aH5971
+- 1Sa_11:15fue todo el p a Gilgal, e invistieronH5971
+- 1Sa_12:6Samuel dijo al p: Jehová...es testigoH5971
+- 1Sa_12:18y todo el p tuvo gran temor de JehováH5971
+- 1Sa_12:19dijo todo el p a Samuel: Ruega por tusH5971
+- 1Sa_12:20y Samuel respondió al p: No temáisH5971
+- 1Sa_12:22Jehová no desamparará a su p, por suH5971
+- 1Sa_12:22porque Jehová ha querido haceros p suyoH5971
+- 1Sa_13:2y envió al resto del p...a sus tiendasH5971
+- 1Sa_13:4se juntó el p en pos de Saúl en GilgalH5971
+- 1Sa_13:5p numeroso como la arena que está a laH5971
+- 1Sa_13:6estrecho (porque el p estaba en aprietosH5971
+- 1Sa_13:7Saúl...y todo el p iba tras él temblandoH5971
+- 1Sa_13:8Samuel no venía...y el p se le desertabaH5971
+- 1Sa_13:11vi que el p se me desertaba, y que túH5971
+- 1Sa_13:14ha designado...sea príncipe sobre su pH5971
+- 1Sa_13:16Saúl...y el p que con ellos se hallabaH5971
+- 1Sa_13:22ni lanza en mano de ninguno del p queH5971
+- 1Sa_14:3no sabía el p que Jonatán se hubiese idoH5971
+- 1Sa_14:17Saúl dijo al p que...Pasad ahora revistaH5971
+- 1Sa_14:20juntando Saúl...el p que con él estabaH5971
+- 1Sa_14:24Saúl había juramentado al p, diciendoH5971
+- 1Sa_14:24apuro...Y todo el p no había probado panH5971
+- 1Sa_14:25p llegó a un bosque, donde había miel
+- 1Sa_14:26entró...el p en el bosque, y he aquí queH5971
+- 1Sa_14:26no hubo quien...el p temía el juramentoH5971
+- 1Sa_14:27cuando su padre había juramentado al pH5971
+- 1Sa_14:28habló uno del p, diciendo: Tu padre haH5971
+- 1Sa_14:28padre ha hecho jurar solemnemente al pH5971
+- 1Sa_14:28diciendo: Maldito sea...Y el p desfallecíaH5971
+- 1Sa_14:30¿cuánto más si el p hubiera comido...hoyH5971
+- 1Sa_14:31hirieron...pero el p estaba muy cansadoH5971
+- 1Sa_14:32se lanzó el p sobre el botín, y tomaronH5971
+- 1Sa_14:32becerros...y el p los comió con sangreH5971
+- 1Sa_14:33p peca contra Jehová, comiendo la carneH5971
+- 1Sa_14:34esparcíos por el p, y decidles que meH5971
+- 1Sa_14:34trajo todo el p cada cual por su manoH5971
+- 1Sa_14:38venid acá todos los principales del pH5971
+- 1Sa_14:39no hubo en...el p quien le respondieseH5971
+- 1Sa_14:40el p respondió a Saúl: Haz lo que bienH5971
+- 1Sa_14:41cayó sobre Jonatán...y el p salió libreH5971
+- 1Sa_14:45el p dijo a Saúl: ¿Ha de morir JonatánH5971
+- 1Sa_14:45no...Así el p libró de morir a JonatánH5971
+- 1Sa_15:1que te ungiese por rey sobre su p IsraelH5971
+- 1Sa_15:4Saúl...convocó al p y les pasó revista enH5971
+- 1Sa_15:8pero a todo el p mató a filo de espadaH5971
+- 1Sa_15:9y Saúl y el p perdonaron a Agag, y a loH5971
+- 1Sa_15:15el p perdonó lo mejor de las ovejas yH5971
+- 1Sa_15:21mas el p tomó del botín ovejas y vacasH5971
+- 1Sa_15:24yo he pecado; pues...porque temí al pH5971
+- 1Sa_15:30que me honres delante de los...de mi pH5971
+- 1Sa_17:27el p le respondió las mismas palabrasH5971
+- 1Sa_17:30le dio el p la misma respuesta de antesH5971
+- 1Sa_18:5David...era acepto a los ojos de todo el pH5971
+- 1Sa_18:13jefe...y salía y entraba delante del pH5971
+- 1Sa_23:8y convocó Saúl a todo el p a la batallaH5971
+- 1Sa_26:5el p estaba acampado en derredor de élH5971
+- 1Sa_26:14dio voces David al p, y a Abner hijo deH5971
+- 1Sa_26:15uno del p ha entrado a matar a...el reyH5971
+- 1Sa_27:12se ha hecho abominable a su p de IsraelH5971
+- 1Sa_30:6porque el p hablaba de apedrearlo, puesH5971
+- 1Sa_30:6el p estaba en amargura de alma, cada unoH5971
+- 1Sa_30:21salieron a recibir a David y al p queH5971
+- 1Sa_31:9que llevaran las buenas nuevas al...al pH5971
+- 2Sa_1:4el p huyó de la...muchos del p cayeronH5971
+- 2Sa_1:12ayunaron...por el p de Jehová y por laH5971
+- 2Sa_2:26¿hasta cuándo no dirás al p que...vuelvaH5971
+- 2Sa_2:27el p hubiera dejado de seguir...hermanosH5971
+- 2Sa_2:28el p se detuvo, y no persiguió más a losH5971
+- 2Sa_2:30juntando a todo el p, faltaron de losH5971
+- 2Sa_3:18por la mano de mi...David libraré a mi pH5971
+- 2Sa_3:31dijo David a Joab, y a todo el p...RasgadH5971
+- 2Sa_3:32el rey...lloró...lloró también todo el pH5971
+- 2Sa_3:34y todo el p volvió a llorar sobre élH5971
+- 2Sa_3:35todo el p vino para persuadir a DavidH5971
+- 2Sa_3:36todo el p supo esto, y le agradó; puesH5971
+- 2Sa_3:36todo lo que el rey hacía agradaba a...pH5971
+- 2Sa_3:37el p...entendió aquel día, que no habíaH5971
+- 2Sa_5:2ha dicho: Tú apacentarás a mi p IsraelH5971
+- 2Sa_5:12engrandecido su reino por amor de su pH5971
+- 2Sa_6:2partió...con todo el p que tenía consigoH5971
+- 2Sa_6:18bendijo al p en el nombre de Jehová deH5971
+- 2Sa_6:19repartió a todo el p, y a...la multitudH5971
+- 2Sa_6:19y se fue todo el p, cada uno a su casaH5971
+- 2Sa_6:21me eligió...príncipe sobre el p de JehováH5971
+- 2Sa_7:7haya mandado apacentar a mi p de IsraelH5971
+- 2Sa_7:8fueses príncipe sobre mi p, sobre IsraelH5971
+- 2Sa_7:10además, yo fijaré lugar a mi p IsraelH5971
+- 2Sa_7:11día en que puse jueces sobre mi p IsraelH5971
+- 2Sa_7:23¿y quién como tu p, como Israel, naciónH5971
+- 2Sa_7:23porque fue Dios para rescatarlo por pH5971
+- 2Sa_7:23por amor de tu p que rescataste para tiH5971
+- 2Sa_7:24estableciste a tu p Israel por p tuyoH5971
+- 2Sa_8:15administraba justicia y equidad a...su pH5971
+- 2Sa_10:12esforcémonos por nuestro p, y por lasH5971
+- 2Sa_10:13acercó Joab, y el p que con él estabaH5971
+- 2Sa_11:7David le preguntó...y por la salud del pH5971
+- 2Sa_12:28reúne, pues...al p que queda, y acampaH5971
+- 2Sa_12:29y juntando David a...p, fue contra RabáH5971
+- 2Sa_12:31volvió David con todo el p a JerusalénH5971
+- 2Sa_14:13has pensado tú...contra el p de Dios?[[H5971]]
+- 2Sa_14:15porque el p me atemorizó; y tu siervaH5971
+- 2Sa_15:12y aumentaba el p que seguía a AbsalónH5971
+- 2Sa_15:17salió...con todo el p que le seguía, yH5971
+- 2Sa_15:23el p pasó al camino que va al desiertoH5971
+- 2Sa_15:24y subió Abiatar después que todo el pH5971
+- 2Sa_15:30todo el p...cubrió cada uno su cabezaH5971
+- 2Sa_16:6todo el p...estaban a su derecha y a suH5971
+- 2Sa_16:14el rey y todo el p...llegaron fatigadosH5971
+- 2Sa_16:18de aquel que eligiere...este p y todosH5971
+- 2Sa_16:21p...oirá que te has hecho aborrecible a
+- 2Sa_17:2todo el p...huirá, y mataré al rey soloH5971
+- 2Sa_17:3así haré volver a ti todo el p (pues túH5971
+- 2Sa_17:3hayan vuelto, todo el p estará en pazH5971
+- 2Sa_17:8tu padre...no pasará la noche con el pH5971
+- 2Sa_17:9p que sigue a Absalón ha sido derrotadoH5971
+- 2Sa_17:16que no sea destruido el rey y todo el pH5971
+- 2Sa_17:22David se levantó, y todo el p que conH5971
+- 2Sa_17:28trajeron a David y al p...camas, taza
+- 2Sa_17:29porque decían: El p está hambriento yH5971
+- 2Sa_18:1pasó revista al p que tenía consigo, yH5971
+- 2Sa_18:2y envió David al p, una tercera parteH5971
+- 2Sa_18:2y dijo el rey al p: Yo también saldréH5971
+- 2Sa_18:3p dijo: No saldrás; porque si nosotrosH5971
+- 2Sa_18:4mientras salía todo el p de ciento enH5971
+- 2Sa_18:5y todo el p oyó cuando dio el rey ordenH5971
+- 2Sa_18:6salió, pues, el p al campo contra IsraelH5971
+- 2Sa_18:7allí cayó el p de Israel delante de losH5971
+- 2Sa_18:16tocó...el p se volvió de seguir a IsraelH5971
+- 2Sa_18:16se volvió de...porque Joab detuvo al pH5971
+- 2Sa_19:2volvió...victoria en luto para todo el pH5971
+- 2Sa_19:2oyó decir el p...que el rey tenía dolorH5971
+- 2Sa_19:3y entró el p aquel día en la ciudadH5971
+- 2Sa_19:3entrar a escondidas el p avergonzado queH5971
+- 2Sa_19:8y fue dado aviso a todo el p, diciendoH5971
+- 2Sa_19:8y vino todo el p delante del rey; peroH5971
+- 2Sa_19:9el p disputaba en todas las tribus deH5971
+- 2Sa_19:39todo el p pasó el Jordán; y luego queH5971
+- 2Sa_19:40y todo el p de Judá acompañaba al reyH5971
+- 2Sa_19:40pasó...también la mitad del p de IsraelH5971
+- 2Sa_20:12que todo el p se paraba, apartó a AmasaH5971
+- 2Sa_20:15p...trabajaba por derribar la murallaH5971
+- 2Sa_20:22la mujer fue luego a todo el p con suH5971
+- 2Sa_22:28tú salvas al p afligido, mas tus ojosH5971
+- 2Sa_22:44me has librado de las contiendas del pH5971
+- 2Sa_22:44cabeza...p que yo no conocía me serviráH5971
+- 2Sa_22:48el Dios que...y sujeta p debajo de míH5971
+- 2Sa_23:10se volvió el p...para recoger el botínH5971
+- 2Sa_23:11p había huido delante de los filisteosH5971
+- 2Sa_24:2haz un censo del p, para que yo sepa elH5971
+- 2Sa_24:3añada...Dios al p cien veces tanto comoH5971
+- 2Sa_24:4rey, para hacer el censo del p de IsraelH5971
+- 2Sa_24:9dio el censo del p al rey; y fueron losH5971
+- 2Sa_24:10después que David hubo censado al p, leH5971
+- 2Sa_24:15murieron del p, desde...70.000 hombresH5971
+- 2Sa_24:16dijo al ángel que destruía al p: BastaH5971
+- 2Sa_24:17cuando vio al ángel que destruía al pH5971
+- 2Sa_24:21un altar...que cese la mortandad del pH5971
+- 1Re_1:39y dijo...el p: ¡Viva el rey Salomón![[H5971]]
+- 1Re_1:40subió todo el p en pos de él, y cantabaH5971
+- 1Re_3:2el p sacrificaba en los lugares altosH5971
+- 1Re_3:8tu siervo está en medio de tu p...p grandeH5971
+- 1Re_3:9para juzgar a tu p...gobernar este tu pH5971
+- 1Re_4:34para oír la...venían de todos los p y deH5971
+- 1Re_5:7que dio hijo sabio a David sobre este pH5971
+- 1Re_5:16tenían a cargo el p que hacía la obraH5971
+- 1Re_6:13habitaré en...y no dejaré a mi p IsraelH5971
+- 1Re_8:16desde el día que saqué de Egipto a mi pH5971
+- 1Re_8:16a David...que presidiese en mi p IsraelH5971
+- 1Re_8:30oye, pues, la oración...y de tu p IsraelH5971
+- 1Re_8:33tu p Israel fuere derrotado delante deH5971
+- 1Re_8:34, 1Re_8:36oirás...y perdonarás el pecado de tu pH5971
+- 1Re_8:36tierra, la cual diste a tu p por heredadH5971
+- 1Re_8:38y toda súplica que hiciere...tu p IsraelH5971
+- 1Re_8:41el extranjero, que no es de tu p IsraelH5971
+- 1Re_8:43los p de la tierra conozcan tu nombreH5971
+- 1Re_8:43te teman, como tu p Israel, y entiendanH5971
+- 1Re_8:44p saliere en batalla contra sus enemigosH5971
+- 1Re_8:50y perdonarás a tu p que había pecadoH5971
+- 1Re_8:51porque ellos son tu p y tu heredad, elH5971
+- 1Re_8:52atentos...a la plegaria de tu p IsraelH5971
+- 1Re_8:53tú los apartaste...de entre todos los pH5971
+- 1Re_8:56bendito...que ha dado paz a su p IsraelH5971
+- 1Re_8:59que él proteja la causa...de su p IsraelH5971
+- 1Re_8:60todos los p...sepan que Jehová es DiosH5971
+- 1Re_8:66y al octavo día despidió al p...se fueronH5971
+- 1Re_8:66beneficios que Jehová había hecho a...pH5971
+- 1Re_9:7e Israel será por...refrán a todos los pH5971
+- 1Re_9:20p que quedaron de los amorreos, heteosH5971
+- 1Re_9:23sobre el p que trabajaba en aquella obraH5971
+- 1Re_12:5aquí a tres días volved a mí. Y el p se fueH5971
+- 1Re_12:7si tú fueres hoy siervo de este p y loH5971
+- 1Re_12:9respondamos a este p, que me ha habladoH5971
+- 1Re_12:10así hablarás a este p que te ha dichoH5971
+- 1Re_12:12vino Jeroboam con todo el p a RoboamH5971
+- 1Re_12:13el rey respondió al p duramente, dejandoH5971
+- 1Re_12:15y no oyó el rey al p...era designio deH5971
+- 1Re_12:16el p vio que el rey no les había oídoH5971
+- 1Re_12:23habla a...y a los demás del p, diciendoH5971
+- 1Re_12:27si este p subiere a ofrecer sacrificiosH5971
+- 1Re_12:27corazón de este p se volverá a su señorH5971
+- 1Re_12:28y dijo al p: Bastante habéis subido a
+- 1Re_12:30el p iba a adorar delante de uno hastaH5971
+- 1Re_12:31e hizo sacerdotes de entre el p, que noH5971
+- 1Re_13:33volvió a hacer sacerdotes...de entre el pH5971
+- 1Re_14:2dijo que yo había de ser rey sobre este pH5971
+- 1Re_14:7te levanté de en medio del p, y te hiceH5971
+- 1Re_14:7y te hice príncipe sobre mi p IsraelH5971
+- 1Re_16:2te puse por príncipe sobre mi p IsraelH5971
+- 1Re_16:2por cuanto...has hecho pecar a mi p IsraelH5971
+- 1Re_16:15y el p había acampado contra GibetónH5971
+- 1Re_16:16el p...oyó decir: Zimri ha conspiradoH5971
+- 1Re_16:21p de Israel fue dividido en dos partesH5971
+- 1Re_16:21la mitad del p seguía a Tibni hijo deH5971
+- 1Re_16:22el p que seguía a Omri pudo más que elH5971
+- 1Re_18:21y acercándose Elías a todo el p, dijoH5971
+- 1Re_18:21y si Baal...Y el p no respondió palabraH5971
+- 1Re_18:22Elías volvió a decir al p: Sólo yo heH5971
+- 1Re_18:24el p respondió, diciendo: Bien dichoH5971
+- 1Re_18:30Elías a todo el p...el p se le acercóH5971
+- 1Re_18:37que conozca este p que tú...eres el DiosH5971
+- 1Re_18:39viéndolo...el p, se postraron y dijeronH5971
+- 1Re_19:21carne, y la dio al p para que comiesenH5971
+- 1Re_20:8el p le respondieron: No le obedezcasH5971
+- 1Re_20:10no bastará a los puños de todo el p queH5971
+- 1Re_20:15pasó revista a todo el p, a todos losH5971
+- 1Re_20:42tu vida será por...y tu p por el suyoH5971
+- 1Re_21:9cartas...y poned a Nabot delante del pH5971
+- 1Re_21:12ayuno, y pusieron a Nabot delante del pH5971
+- 1Re_21:13contra Nabot delante del p, diciendoH5971
+- 1Re_22:4yo soy como tú, y mi p como tu p, y míoH5971
+- 1Re_22:28dijo Micaías...En seguida dijo: Oíd, pH5971
+- 1Re_22:43el p sacrificaba...y quemaba inciensoH5971
+- 2Re_3:7yo soy como tú; mi p como tu p, y misH5971
+- 2Re_4:13respondió: Yo habito en medio de mi pH5971
+- 2Re_6:30rasgó...y el p vio el cilicio que traíaH5971
+- 2Re_7:16p salió, y saqueó el campamento de losH5971
+- 2Re_7:17, 2Re_7:20lo atropelló el p...el p le atropellóH5971
+- 2Re_8:21atacó a los de...y el p huyó a sus tiendasH5971
+- 2Re_9:6te he ungido...sobre Israel, p de JehováH5971
+- 2Re_10:9dijo a todo el p: Vosotros sois justosH5971
+- 2Re_10:18después reunió Jehú a todo el p, y lesH5971
+- 2Re_11:13oyendo...el estruendo del p...entró al pH5971
+- 2Re_11:14y todo el p del país se regocijaba, yH5971
+- 2Re_11:17hizo pacto entre Jehová y el rey y el pH5971
+- 2Re_11:17que serían p de Jehová...el rey y el pH5971
+- 2Re_11:18todo el p...entró en el templo de BaalH5971
+- 2Re_11:19el p de la tierra, y llevaron al reyH5971
+- 2Re_11:20el p...se regocijó, y la ciudad estuvoH5971
+- 2Re_12:3el p aún sacrificaba y quemaba inciensoH5971
+- 2Re_12:8en no tomar más dinero del p, ni tenerH5971
+- 2Re_14:4el p aún sacrificaba y quemaba inciensoH5971
+- 2Re_14:21el p de Judá tomó a Azarías, que era deH5971
+- 2Re_15:4el p sacrificaba aún y quemaba inciensoH5971
+- 2Re_15:5el cargo del palacio, gobernando al pH5971
+- 2Re_15:10Salum...y lo hirió en presencia de su pH5971
+- 2Re_15:35p sacrificaba aún, y quemaba inciensoH5971
+- 2Re_16:15el holocausto de todo el p de la tierraH5971
+- 2Re_17:32hicieron del bajo p sacerdotes de los
+- 2Re_18:26a oídos del p que está sobre el muroH5971
+- 2Re_18:36el p calló, y no le respondió palabraH5971
+- 2Re_20:5y di a Ezequías, príncipe de mi p: AsíH5971
+- 2Re_21:24el p...mató a...los que habían conspiradoH5971
+- 2Re_21:24y puso el p...por rey...a Josías su hijoH5971
+- 2Re_22:4recoja el dinero...que han recogido del pH5971
+- 2Re_22:13preguntad a Jehová por mí, y por el pH5971
+- 2Re_23:2subió el rey...con todo el p, desde elH5971
+- 2Re_23:3el rey...Y todo el p confirmó el pactoH5971
+- 2Re_23:6echó el polvo sobre los sepulcros...del pH5971
+- 2Re_23:21mandó el rey a...el p...Haced la pascuaH5971
+- 2Re_23:30el p...tomó a Joacaz...pusieron por reyH5971
+- 2Re_23:35sacando la plata y...del p de la tierraH5971
+- 2Re_24:14no quedó...excepto los pobres del p deH5971
+- 2Re_25:3que no hubo pan para el p de la tierraH5971
+- 2Re_25:11los del p...llevó cautivos NabuzaradánH5971
+- 2Re_25:19tomó...y 60 varones del p de la tierraH5971
+- 2Re_25:22al p que...dejó en tierra de Judá, pusoH5971
+- 2Re_25:26levantándose todo el p...fueron a EgiptoH5971
+- 1Cr_4:32aldeas fueron Etam...y Asán; cinco pH5892
+- 1Cr_5:25siguiendo a los dioses de los p de laH5971
+- 1Cr_10:9para dar las nuevas a sus ídolos y el pH5971
+- 1Cr_11:2tú apacentarás a mi p Israel, y tú serásH5971
+- 1Cr_11:2y tú serás príncipe sobre Israel mi pH5971
+- 1Cr_11:13huyendo el p delante de los filisteosH5971
+- 1Cr_13:4porque la cosa parecía bien a todo el pH5971
+- 1Cr_14:2que había exaltado su reino sobre su pH5971
+- 1Cr_16:2David...bendijo al p...nombre de JehováH5971
+- 1Cr_16:8alabad...dad a conocer en los p sus obrasH5971
+- 1Cr_16:20y andaban de...y de un reino a otro pH5971
+- 1Cr_16:24cantad...en todos los p sus maravillasH5971
+- 1Cr_16:26todos los dioses de los p son ídolosH5971
+- 1Cr_16:28tributad a...oh familias de los p, dadH5971
+- 1Cr_16:36dijo todo el p, Amén, y alabó a JehováH5971
+- 1Cr_16:43y todo el p se fue cada uno a su casaH5971
+- 1Cr_17:6los cuales mandé que apacentasen a mi pH5971
+- 1Cr_17:7que fueses príncipe sobre mi p IsraelH5971
+- 1Cr_17:9he dispuesto lugar para mi p Israel, yH5971
+- 1Cr_17:10que puse los jueces sobre mi p IsraelH5971
+- 1Cr_17:11¿y qué p hay en la...como tu p IsraelH5971
+- 1Cr_17:21cuyo Dios fuese y...redimiese un p, paraH5971
+- 1Cr_17:21echando a...naciones de delante de tu pH5971
+- 1Cr_17:22a tu p Israel por p tuyo para siempreH5971
+- 1Cr_18:14David...juzgaba con justicia a todo su pH5971
+- 1Cr_19:13esforcémonos por nuestro p, y por lasH5971
+- 1Cr_19:14se acercó Joab y el p que...para pelearH5971
+- 1Cr_19:18mas el p sirio huyó delante de Israel
+- 1Cr_19:19el p sirio nunca más quiso ayudar a los
+- 1Cr_20:3y sacó también al p que estaba en ellaH5971
+- 1Cr_20:3volvió David con todo el p a JerusalénH5971
+- 1Cr_21:2dijo David a Joab y a los príncipes del pH5971
+- 1Cr_21:3añada Jehová a su p cien veces más, reyH5971
+- 1Cr_21:4dio la cuenta del número del p de David
+- 1Cr_21:17¿no soy yo el que hizo contar el p? YoH5971
+- 1Cr_21:17tu mano...y no venga la peste sobre tu pH5971
+- 1Cr_21:22la era...que cese la mortandad en el pH5971
+- 1Cr_22:18ha sometida delante de...y de su pH5971
+- 1Cr_23:25Dios...ha dado paz a su p Israel, y élH5971
+- 1Cr_28:2oídme...p mio. Yo tenía el propósito deH5971
+- 1Cr_28:21el p para ejecutar todas sus órdenesH5971
+- 1Cr_29:9y se alegró el p por haber contribuidoH5971
+- 1Cr_29:14¿quién soy yo, y quién es mi p, paraH5971
+- 1Cr_29:17he visto con alegría que tu p...ha dadoH5971
+- 1Cr_29:18conserva...esta voluntad del...de tu pH5971
+- 2Cr_1:9me has puesto...sobre un p numerosoH5971
+- 2Cr_1:10dame...para presentarme delante de este pH5971
+- 2Cr_1:10porque ¿quién podrá gobernar a este tu pH5971
+- 2Cr_1:11has pedido...ciencia para gobernar a mi pH5971
+- 2Cr_2:11porque Jehová amó a su p, te ha puestoH5971
+- 2Cr_2:18por capataces para hacer trabajar al pH5971
+- 2Cr_6:5desde el día que saqué a mi p de...EgiptoH5971
+- 2Cr_6:5varón que fuese príncipe sobre mi p IsraelH5971
+- 2Cr_6:6a David he elegido...que esté sobre mi pH5971
+- 2Cr_6:21oigas el ruego de tu siervo, y de tu pH5971
+- 2Cr_6:24tu p Israel fuere derrotado delante delH5971
+- 2Cr_6:25, 2Cr_6:27perdonarás el pecado de tu p IsraelH5971
+- 2Cr_6:27tu tierra, que diste por heredad a tu pH5971
+- 2Cr_6:29todo ruego que hiciere...todo tu p IsraelH5971
+- 2Cr_6:32extranjero que no fuere de tu p IsraelH5971
+- 2Cr_6:33los p de,la tierra conozcan tu nombreH5971
+- 2Cr_6:33te teman así como tu p Israel, y sepanH5971
+- 2Cr_6:34si tu p saliere a la guerra contra susH5971
+- 2Cr_6:39y perdonarás a tu p que pecó contra tiH5971
+- 2Cr_7:4el rey y todo el p sacrificaron víctimasH5971
+- 2Cr_7:5así dedicaron la casa...el rey y todo el pH5971
+- 2Cr_7:10del mes...envió al p a sus casas, alegresH5971
+- 2Cr_7:10beneficios...Jehová había hecho...a su pH5971
+- 2Cr_7:13si yo...o si enviare pestilencia a mi pH5971
+- 2Cr_7:14si se humillare mi p, sobre el cual miH5971
+- 2Cr_7:20la pondré por...escarnio de todos los pH5971
+- 2Cr_8:7todo el p que había quedado de los heteosH5971
+- 2Cr_10:5él les dijo: Volved a mí...Y el p se fueH5971
+- 2Cr_10:6¿cómo aconsejáis...que responda a este p?[[H5971]]
+- 2Cr_10:7sí te condujeres humanamente con este pH5971
+- 2Cr_10:9¿qué aconsejáis...respondamos a este pH5971
+- 2Cr_10:10dirás al p que te ha hablado diciendoH5971
+- 2Cr_10:12vino, pues, Jeroboam con todo el p aH5971
+- 2Cr_10:15no escuchó el rey al p; porque la causaH5971
+- 2Cr_10:16respondió el p al...diciendo: ¿Qué parteH5971
+- 2Cr_12:3el p que venía con él de Egipto, esto esH5971
+- 2Cr_13:9sacerdotes a la manera de los p de otrasH5971
+- 2Cr_14:13y Asa, y el p...los persiguieron hastaH5971
+- 2Cr_16:10y oprimió Asa...tiempo a algunos del pH5971
+- 2Cr_17:9recorrieron...las ciudades enseñando al pH5971
+- 2Cr_18:3yo soy como tú, y mi p como tu p; iremosH5971
+- 2Cr_18:27Micaías dijo...Dijo además: Oíd, p todosH5971
+- 2Cr_19:4Josafat...pero daba vuelta y salía al pH5971
+- 2Cr_20:7¿no echaste tú...delante de tu p IsraelH5971
+- 2Cr_20:21habido consejo con el p, puso a algunosH5971
+- 2Cr_20:25viniendo...Josafat y su p a despojarlosH5971
+- 2Cr_20:33el p aún no había enderezado su corazónH5971
+- 2Cr_21:14Jehová herirá a tu p de una gran plagaH5971
+- 2Cr_23:5el p estará en los patios de la casa deH5971
+- 2Cr_23:6todo el p hará guardia delante de JehováH5971
+- 2Cr_23:10y puso en orden a todo el p, teniendoH5971
+- 2Cr_23:12Atalía...vino al p a la casa de JehováH5971
+- 2Cr_23:13el p de la tierra mostraba alegría, yH5971
+- 2Cr_23:16hizo pacto entre sí y todo el p y el reyH5971
+- 2Cr_23:16Joiada hizo pacto...serían p de JehováH5971
+- 2Cr_23:17entró todo el p en el templo de BaalH5971
+- 2Cr_23:20llamó después...a los que gobernaban el pH5971
+- 2Cr_23:20todo el p de la tierra, para conducirH5971
+- 2Cr_23:21se regocijó todo el p del país; y laH5971
+- 2Cr_24:10el p se gozaron, y trajeron ofrendasH5971
+- 2Cr_24:20en pie, donde estaba más alto que el pH5971
+- 2Cr_24:23destruyeron en el p a...los principalesH5971
+- 2Cr_25:11Amasías, sacó a su p, y vino al ValleH5971
+- 2Cr_25:15dioses...que no libraron a su p de tusH5971
+- 2Cr_26:1el p de Judá tomó a Uzías, el cual teníaH5971
+- 2Cr_26:21Jotam su...gobernando al p de la tierraH5971
+- 2Cr_27:2hizo...pero el p continuaba corrompiéndoseH5971
+- 2Cr_29:36alegró Ezequías con todo el p, de queH5971
+- 2Cr_29:36que Dios hubiese preparado el p; porqueH5971
+- 2Cr_30:3ni el p se había reunido en JerusalénH5971
+- 2Cr_30:18gran multitud del p de Efraín y ManasésH5971
+- 2Cr_30:20y oyó Jehová a Ezequías, y sanó al pH5971
+- 2Cr_30:24los príncipes dieron al p mil novillos
+- 2Cr_30:27los sacerdotes...en pie bendijeron al pH5971
+- 2Cr_31:4mandó...al p que habitaba en JerusalénH5971
+- 2Cr_31:8bendijeron a Jehová, y a su p IsraelH5971
+- 2Cr_31:10porque Jehová ha bendecido a su p; y haH5971
+- 2Cr_32:4reunió mucho p, y cegaron...las fuentesH5971
+- 2Cr_32:6puso capitanes de guerra sobre el p, yH5971
+- 2Cr_32:8el p tuvo confianza en las palabras deH5971
+- 2Cr_32:13lo que...hemos hecho a todos los p deH5971
+- 2Cr_32:14¿qué dios...que pudiese salvar a su pH5971
+- 2Cr_32:15si ningún dios...pudo librar a su p deH5971
+- 2Cr_32:17no pudieron librar a su p de mis manosH5971
+- 2Cr_32:18clamaron a gran voz...al p de JerusalénH5971
+- 2Cr_32:19como contra los dioses de los p de laH5971
+- 2Cr_33:10habló Jehová a Manasés y a su p, masH5971
+- 2Cr_33:17p aún sacrificaba en los lugares altosH5971
+- 2Cr_33:25el p de la tierra mató a todos los queH5971
+- 2Cr_33:25p de la tierra puso por rey en su lugarH5971
+- 2Cr_34:30todo el p, desde el mayor hasta el másH5971
+- 2Cr_35:3ahora servid a Jehová...y a su p IsraelH5971
+- 2Cr_35:5de vuestros hermanos los hijos del p, yH5971
+- 2Cr_35:7y dio el rey Josías a los del p ovejasH5971
+- 2Cr_35:8también sus príncipes dieron...al p y aH5971
+- 2Cr_35:12dar conforme a...de las familias del pH5971
+- 2Cr_35:13lo repartieron rápidamente a todo el pH5971
+- 2Cr_36:1el p de la tierra tomó a Joacaz hijo deH5971
+- 2Cr_36:14p, aumentaron la iniquidad, siguiendoH5971
+- 2Cr_36:15él tenía misericordia de su p y de suH5971
+- 2Cr_36:16subió la ira de Jehová contra su p, yH5971
+- 2Cr_36:23quien haya...de todo su p, sea JehováH5971
+- Esd_1:3quien haya...de su p, sea Dios con élH5971
+- Esd_2:2el número de los varones del p de IsraelH5971
+- Esd_2:70y habitaron los...los del p, los cantoresH5971
+- Esd_3:1juntó el p como un...hombre en JerusalénH5971
+- Esd_3:3tenían miedo de los p de las tierras, yH5971
+- Esd_3:11el p aclamaba con gran júbilo, alabandoH5971
+- Esd_3:13no podía distinguir el p el clamor deH5971
+- Esd_3:13porque clamaba el p con gran júbilo, yH5971
+- Esd_4:4el p de la tierra intimidó al p de JudáH5971
+- Esd_4:10y los demás p que el grande y gloriosoH524
+- Esd_5:12casa y llevó cautivo al p a BabiloniaH5971
+- Esd_6:12destruya a todo...p que pusiere su manoH5971
+- Esd_7:13todo aquel...del p de Israel...quiera irH5971
+- Esd_7:16las ofrendas...del p y de los sacerdotesH5971
+- Esd_7:25pon jueces y...que gobiernen a todo el pH5971
+- Esd_8:15habiendo buscado entre el p y entre losH5971
+- Esd_8:36los cuales ayudaron al p y a la casa deH5971
+- Esd_9:1el p...no se han separado de los p de lasH5971
+- Esd_9:2ha sido mezclado con los p de las tierrasH5971
+- Esd_9:11es a causa de la inmundicia de los p deH5971
+- Esd_9:14y a emparentar con p que cometen estasH5971
+- Esd_10:1se juntó a él...lloraba el p amargamenteH5971
+- Esd_10:2tomamos mujeres extranjeras de los p deH5971
+- Esd_10:9sentó todo el p en la plaza de la casaH5971
+- Esd_10:11apartaos de los p de las tierras, y deH5971
+- Esd_10:13pero el p es mucho, y el tiempo lluviosoH5971
+- Neh_1:8pecaréis, yo os dispersaré por los pH5971
+- Neh_1:10ellos, pues, son tus siervos y tu p, losH5971
+- Neh_4:6edificamos...el p tuvo ánimo para trabajarH5971
+- Neh_4:13puse al p por familias, con sus espadasH5971
+- Neh_4:14me levanté y dije...al resto del p: NoH5971
+- Neh_4:19dije...al resto del p: La obra es grandeH5971
+- Neh_4:22entonces al p: Cada uno con su criadoH5971
+- Neh_5:1hubo gran clamor del p y de sus mujeresH5971
+- Neh_5:13alabaron a...Y el p hizo conforme a estoH5971
+- Neh_5:15abrumaron al p, y tomaron de ellos porH5971
+- Neh_5:15y aun sus criados se enseñoreaban del pH5971
+- Neh_5:18porque la servidumbre de este p...graveH5971
+- Neh_5:19Dios...y de todo lo que hice por este pH5971
+- Neh_7:4poco p dentro de ella, y no había casasH5971
+- Neh_7:5que reuniese a...y al p, para que fuesenH5971
+- Neh_7:7el número de los varones del p de IsraelH5971
+- Neh_7:72el resto del p dio 20.000 dracmas de oroH5971
+- Neh_7:73y habitaron...los del p, los sirvientesH5971
+- Neh_8:1se juntó todo el p como un solo hombre enH5971
+- Neh_8:3y los oídos de todo el p estaban atentosH5971
+- Neh_8:5abrió...Esdras el libro a ojos de todo el pH5971
+- Neh_8:5más alto que todo el p...p estuvo atentoH5971
+- Neh_8:6el p respondió: ¡Amén! ¡Amén! alzando susH5971
+- Neh_8:7los levitas...hacían entender al p la leyH5971
+- Neh_8:7la ley; y el p estaba atento en su lugarH5971
+- Neh_8:9y los levitas que hacían entender al pH5971
+- Neh_8:9a todo el p: Día santo es a Jehová...DiosH5971
+- Neh_8:9p lloraba oyendo las palabras de la leyH5971
+- Neh_8:11los levitas...hacían callar a todo el pH5971
+- Neh_8:12todo el p se fue a comer y a beber, y aH5971
+- Neh_8:13se reunieron los cabezas...de todo el pH5971
+- Neh_8:16salió, pues, el p, y trajeron ramas eH5971
+- Neh_9:10señales...contra todo el p de su tierraH5971
+- Neh_9:22les diste reinos y p, y los repartisteH5971
+- Neh_9:24a los p de la tierra, para que hiciesenH5971
+- Neh_9:30entregaste en mano de los p de la tierraH5971
+- Neh_9:32el sufrimiento que ha alcanzado a...tu pH5971
+- Neh_10:14cabezas del p: Paros, Pahat-moab, ElamH5971
+- Neh_10:28resto del p, los sacerdotes, levitasH5971
+- Neh_10:28los que se habían apartado de los p deH5971
+- Neh_10:30no daríamos nuestras hijas a los p deH5971
+- Neh_10:31si los p de la tierra trajesen a venderH5971
+- Neh_10:34echamos...suertes...los levitas y el pH5971
+- Neh_11:1habitaron los jefes del p en JerusalénH5971
+- Neh_11:1el resto del p echó suertes para traerH5971
+- Neh_11:2y bendijo el p a todos los varones queH5971
+- Neh_11:24servicio del rey en todo negocio del pH5971
+- Neh_12:30purificaron al p, y las puertas, y elH5971
+- Neh_12:38y yo...con la mitad del p sobre el muroH5971
+- Neh_13:1se leyó en el libro de...oyéndolo el pH5971
+- Neh_13:24hablaban conforme a...lengua de cada pH5971
+- Est_1:5otro banquete...a todo el p que habíaH5971
+- Est_1:11para mostrar a los p y a los príncipesH5971
+- Est_1:16ha pecado...contra todos los p que hay enH5971
+- Est_1:22cartas...a cada p conforme a su lenguajeH5971
+- Est_1:22se publicase esto en la lengua de su pH5971
+- Est_2:10no declaró cuál era su p ni su parentelaH5971
+- Est_2:20no había declarado su nación ni su pH5971
+- Est_3:6ya le habían declarado cuál era el p deH5971
+- Est_3:6destruir a todos los...al p de MardoqueoH5971
+- Est_3:8dijo...Hay un p esparcido...entre los p enH5971
+- Est_3:8sus leyes son diferentes de las de todo pH5971
+- Est_3:11asimismo el p, para que hagas de él loH5971
+- Est_3:12mandó Amán...a los príncipes de cada pH5971
+- Est_3:12su escritura, y a cada p según su lenguaH5971
+- Est_3:14fue publicada a todos los p, a fin de queH5971
+- Est_4:8y a interceder delante de él por su pH5971
+- Est_4:11y el p de las provincias del rey, sabenH5971
+- Est_7:3séame dada mi vida...mi p por mi demandaH5971
+- Est_7:4hemos sido vendidos, yo y mi p, para serH5971
+- Est_8:6¿cómo...ver el mal que alcanzará a mi p?[[H5971]]
+- Est_8:9cada p conforme a su lengua, a los judíosH5971
+- Est_8:11y acabar con toda fuerza armada del p oH5971
+- Est_8:13para que fuese conocido por todos los pH5971
+- Est_8:17y muchos de entre los p de la tierra seH5971
+- Est_9:2el temor...había caído sobre todos los pH5971
+- Est_10:3procuró el bienestar de su p y habló pazH5971
+- Job_12:2ciertamente vosotros sois el p, y conH5971
+- Job_12:24quita el entendimiento a...jefes del pH5971
+- Job_17:6me ha puesto por refrán de p, y delanteH5971
+- Job_18:19no tendrá hijo ni nieto en su p, niH5971
+- Job_34:20se alborotarán los p, y pasarán, y sinH5971
+- Job_34:30que no reine el...para vejaciones del pH5971
+- Job_36:20la noche, en que los p desaparecen deH5971
+- Job_36:31por esos medios castiga a los p, a laH5971
+- Sal_2:1gentes, y los p piensan cosas vanas?[[H3816]]
+- Sal_3:8la salvación es de Jehová; sobre tu p seaH5971
+- Sal_7:7rodeará congregación de p, y sobre ellaH3816
+- Sal_7:8Jehová juzgará a los p; júzgame...JehováH5971
+- Sal_9:8juzgará al mundo...y a los p con rectitudH3816
+- Sal_9:11cantad...publicad entre los p sus obrasH5971
+- Sal_14:4que devoran a mi p como si comiesen panH5971
+- Sal_14:7hiciere volver a los cautivos de su pH5971
+- Sal_18:27porque tú salvarás al p afligidoH5971
+- Sal_18:43me has librado de las contiendas del pH5971
+- Sal_18:43cabeza...p que yo no conocía me sirvióH5971
+- Sal_18:47el Dios que...y somete p debajo de míH5971
+- Sal_22:6oprobio de...hombres, y despreciado del pH5971
+- Sal_22:31a p no nacido aún, anunciarán que élH5971
+- Sal_28:8Jehová es la fortaleza de su p, y el
+- Sal_28:9salva a tu p, y bendice a tu heredadH5971
+- Sal_29:11poder a su p...bendecirá a su p con pazH5971
+- Sal_33:10y frustra las maquinaciones de los pH5971
+- Sal_33:12p que él escogió como heredad para síH5971
+- Sal_35:18confesaré...te alabaré entre numeroso pH5971
+- Sal_42:4entre voces...de alabanza del p en fiesta
+- Sal_44:2tú...afligiste a los p, y los arrojasteH3816
+- Sal_44:12vendido a tu p de balde; no exigisteH5971
+- Sal_45:5saetas...con que caerán p debajo de tiH5971
+- Sal_45:10oye...olvida tu p, y la casa de tu padreH5971
+- Sal_45:12implorarán tu favor los ricos del pH5971
+- Sal_45:17te alabarán los p eternamente y paraH5971
+- Sal_47:1p todos, batid...manos; aclamad a DiosH5971
+- Sal_47:3él someterá a los p debajo de nosotrosH5971
+- Sal_47:9los príncipes de los p se reunieron comoH5971
+- Sal_47:9se reunieron como p del Dios de AbrahamH5971
+- Sal_49:1oíd esto, p todos; escuchad, habitantesH5971
+- Sal_50:4convocará...tierra, para juzgar a su pH5971
+- Sal_50:7oye, p mío, y hablaré; escucha, IsraelH5971
+- Sal_53:4que devoran a mi p como si comiesen panH5971
+- Sal_53:6hiciere volver de la cautividad a su pH5971
+- Sal_56:7pésalos...y derriba en tu furor a los pH5971
+- Sal_57:9alabaré entre los p, oh Señor; cantaréH5971
+- Sal_59:11no los mates, para que mi p no olvideH5971
+- Sal_60:3has hecho ver a tu p cosas duras; nosH5971
+- Sal_62:8esperad en él en todo tiempo, oh pH5971
+- Sal_66:8bendecid, p, a nuestro Dios, y haced oírH5971
+- Sal_67:3, Sal_67:5te alaben los p, oh...los p te alabenH5971
+- Sal_67:4porque juzgarás los p con equidad, yH5971
+- Sal_67:5te alaben los p...todos los p te alabenH5971
+- Sal_68:7Dios, cuando tú saliste delante de tu pH5971
+- Sal_68:30la multitud de toros con los...de los pH5971
+- Sal_68:35el Dios de Israel, él da...vigor a su pH5971
+- Sal_72:2él juzgará a tu p con justicia, y a tusH5971
+- Sal_72:3montes llevarán paz al p, y los colladosH5971
+- Sal_72:4juzgará a los afligidos del p, salvaráH5971
+- Sal_73:10por eso Dios hará volver a su p aquíH5971
+- Sal_74:18y p insensato ha blasfemado tu nombreH5971
+- Sal_77:14Dios...hiciste notorio en los p tu poderH5971
+- Sal_77:15con tu brazo redimiste a tu p, a losH5971
+- Sal_77:20condujiste a tu p como ovejas por manoH5971
+- Sal_78:1escucha, p mío, mi ley; inclinad vuestroH5971
+- Sal_78:20¿podrá dar...¿dispondrá carne para su p?[[H5971]]
+- Sal_78:52hizo salir a su p como ovejas, y losH5971
+- Sal_78:62entregó también su p a la espada, y seH5971
+- Sal_78:71para que apacentase a Jacob su p, y aH5971
+- Sal_79:13nosotros, p tuyo, y ovejas de tu pradoH5971
+- Sal_80:4indignación contra la oración de tu p?[[H5971]]
+- Sal_81:8oye, p mío, y te amonestaré. Israel, siH5971
+- Sal_81:11mi p no oyó mi voz, e Israel no quisoH5971
+- Sal_81:13¡oh, si me hubiera oído mi p, si en misH5971
+- Sal_83:3contra tu p han consultado...secretamenteH5971
+- Sal_85:2perdonaste la iniquidad de tu p; todosH5971
+- Sal_85:6vida, para que tu p se regocije en ti?[[H5971]]
+- Sal_85:8hablará paz a su p y a sus santos, paraH5971
+- Sal_87:6Jehová contará al inscribir a los p; ésteH5971
+- Sal_89:15bienaventurado el p que sabe aclamarteH5971
+- Sal_89:19sobre...he exaltado a un escogido de mi pH5971
+- Sal_89:50oprobio de muchos p, que llevo en miH5971
+- Sal_94:5a tu p, oh Jehová, quebrantan, y a tuH5971
+- Sal_94:8entended, necios del p...vosotros, fatuosH5971
+- Sal_94:14porque no abandonará Jehová a su p, niH5971
+- Sal_95:7nosotros el p de su prado, y ovejas deH5971
+- Sal_95:10p es que divaga de corazón, y no hanH5971
+- Sal_96:3proclamad entre...los p sus maravillasH5971
+- Sal_96:5dioses de los p son ídolos; pero JehováH5971
+- Sal_96:7tributad a Jehová, oh familias de los pH5971
+- Sal_96:10Jehová...juzgará a los p en justiciaH5971
+- Sal_96:13juzgará al mundo...a los p con su verdadH5971
+- Sal_97:6los cielos anunciaron...p vieron su gloriaH5971
+- Sal_98:9juzgará al mundo...a los p con rectitudH5971
+- Sal_99:1Jehová reina; temblarán los p. El estáH5971
+- Sal_99:2es grande, y exaltado sobre todos los pH5971
+- Sal_100:3él...p suyo somos, y ovejas de su pradoH5971
+- Sal_102:18el p que está por nacer alabará a JAHH5971
+- Sal_102:22los p y los reinos se congreguen en unoH5971
+- Sal_105:1alabad...dad a conocer sus obras en los pH5971
+- Sal_105:13y andaban de...de un reino a otro pH5971
+- Sal_105:20el señor de los p, y le dejó ir libreH5971
+- Sal_105:24multiplicó su p en gran manera, y loH5971
+- Sal_105:25cambió...para que aborreciesen a su pH5971
+- Sal_105:43sacó a su p con gozo; con júbilo a susH5971
+- Sal_105:44dio y las labores de los p heredaronH3816
+- Sal_106:4según tu benevolencia para con tu pH5971
+- Sal_106:27y humillar su p entre las naciones, y
+- Sal_106:34no destruyeron a los p que Jehová lesH5971
+- Sal_106:40encendió...furor de Jehová sobre su pH5971
+- Sal_106:48bendito Jehová...y diga todo el p, AménH5971
+- Sal_107:32exáltenlo en la congregación del p, yH5971
+- Sal_108:3alabaré, oh Jehová, entre los p; a tiH5971
+- Sal_110:3tu p se te ofrecerá voluntariamente enH5971
+- Sal_111:6el poder de sus obras manifestó a su pH5971
+- Sal_111:9redención ha enviado a su p...su pactoH5971
+- Sal_113:8sentar con...con los príncipes de su pH5971
+- Sal_114:1cuando salió...la casa de Jacob del pH5971
+- Sal_116:14, Sal_116:18pagaré...votos delante de todo su pH5971
+- Sal_117:1alabad a Jehová...p todos, alabadleH523
+- Sal_125:2así Jehová está alrededor de su p desdeH5971
+- Sal_135:12dio la tierra...heredad a Israel su pH5971
+- Sal_135:14porque Jehová juzgará a su p, y seH5971
+- Sal_136:16al que pastoreó a su p por el desiertoH5971
+- Sal_144:15bienaventurado el p...el p cuyo Dios esH5971
+- Sal_148:11los reyes de la tierra y todos los pH3816
+- Sal_148:14exaltado el poderío de su p; alábenleH5971
+- Sal_148:14alábenle todos sus...el p a él cercanoH5971
+- Sal_149:4Jehová tiene contentamiento en su pH5971
+- Sal_149:7venganza entre...y castigo entre los pH3816
+- Pro_11:14donde no hay dirección...caerá el pH5971
+- Pro_11:26que acapara el grano, el p lo maldeciráH3816
+- Pro_14:28multitud del p está la gloria del reyH5971
+- Pro_14:28la falta de p la debilidad del PríncipeH3816
+- Pro_24:24los p lo maldecirán, y le detestarán lasH5971
+- Pro_28:15es el príncipe impío sobre el p pobreH5971
+- Pro_29:2cuando...justos dominan, el p se alegraH5971
+- Pro_29:2mas cuando domina el impío, el p gimeH5971
+- Pro_29:18sin profecía el p se desenfrena; mas elH5971
+- Pro_30:25hormigas, p no fuerte, y en el veranoH5971
+- Pro_30:26los conejos, p nada esforzado, y ponenH5971
+- Ecl_4:16no tenía fin la muchedumbre del p queH5971
+- Ecl_12:9más sabio fue...más enseñó sabiduría al pH5971
+- Isa_1:3Israel no...mi p no tiene conocimientoH5971
+- Isa_1:4¡oh gente pecadora, p cargado de maldadH5971
+- Isa_1:10escuchad la ley de...Dios, p de GomorraH5971
+- Isa_2:3vendrán...p, y dirán: Venid, y subamos alH5971
+- Isa_2:4y juzgará entre...y reprenderá a muchos pH5971
+- Isa_2:6has dejado tu p, la casa de Jacob, porqueH5971
+- Isa_3:5el p se hará violencia unos a otros, cadaH5971
+- Isa_3:7ni hay pan; no me hagáis príncipe del pH5971
+- Isa_3:12los opresores de mi p son muchachos, yH5971
+- Isa_3:12p mío, los que te guían te engañan, yH5971
+- Isa_3:13Jehová está en pie...para juzgar a los pH5971
+- Isa_3:14a juicio contra los ancianos de su p yH5971
+- Isa_3:15¿qué pensáis vosotros que majáis mi p yH5971
+- Isa_5:13mi p fue llevado cautivo, porque no tuvoH5971
+- Isa_5:25se encendió el furor de...contra su p, yH5971
+- Isa_6:5en medio de p que tiene labios inmundosH5971
+- Isa_6:9y di a este p: Oíd bien, y no entendáisH5971
+- Isa_6:10engruesa el corazón de este p, y agravaH5971
+- Isa_7:2se le estremeció su...y el corazón de su pH5971
+- Isa_7:8Efraín...quebrantado hasta dejar de ser pH5971
+- Isa_7:17Jehová hará venir sobre ti, sobre tu pH5971
+- Isa_8:6desechó este p las aguas de Siloé, queH5971
+- Isa_8:9reuníos, p, y seréis quebrantados; oídH5971
+- Isa_8:11que no caminase por el camino de este pH5971
+- Isa_8:12las cosas que este p llama conspiraciónH5971
+- Isa_8:19dijeren...¿No consultará el p a su Dios?[[H5971]]
+- Isa_9:2el p que andaba en tinieblas vio gran luzH5971
+- Isa_9:9sabrá todo el p, Efraín y los moradoresH5971
+- Isa_9:13el p no se convirtió al que lo castigabaH5971
+- Isa_9:16gobernadores de este p son engañadoresH5971
+- Isa_9:19la ira...será el p como pasto del fuegoH5971
+- Isa_10:2y para quitar el derecho a los...de mi pH5971
+- Isa_10:6y sobre el p de mi ira le enviaré, paraH5971
+- Isa_10:13quité...territorios de los p, y saqueéH5971
+- Isa_10:14mi mano como nido las riquezas de los pH5971
+- Isa_10:22porque si tu p, oh Israel, fuere comoH5971
+- Isa_10:24así: P mío...de Sien, no temas de AsiríaH5971
+- Isa_11:10estará puesta por pendón a los p, seráH5971
+- Isa_11:11para recobrar el remanente dé su p queH5971
+- Isa_11:16habrá camino para el remanente de su pH5971
+- Isa_12:4célebres en los p sus obras, recordadH5971
+- Isa_13:4estruendo de multitud...como de mucho pH5971
+- Isa_13:14cada cual mirará hacia su p, y cada unoH5971
+- Isa_14:2tomarán los p, y los traerán a su lugarH5971
+- Isa_14:6que hería a los p con furor, con llagaH5971
+- Isa_14:20tú destruiste tu tierra, mataste a tu pH5971
+- Isa_14:32ella se acogerán los afligidos de su pH5971
+- Isa_17:12multitud de muchos p que harán ruidoH5971
+- Isa_17:13los p harán estrépito como de ruido de
+- Isa_18:2andad...al p temible desde su principioH5971
+- Isa_18:7del p de elevada estatura...del p temibleH5971
+- Isa_19:25bendito el p mío Egipto, y el asirioH5971
+- Isa_21:10p mío, trillado y aventado, os he dicho
+- Isa_22:4de la destrucción de la hija de mi pH5971
+- Isa_23:13p no existía; Asiría la fundó para síH5971
+- Isa_24:2y sucederá así como al p...al sacerdoteH5971
+- Isa_24:4se...enfermaron los altos p de la tierraH5971
+- Isa_24:13así será en medio de...los p, como olivoH5971
+- Isa_25:3te dará gloria el p fuerte, te temeráH5971
+- Isa_25:6Jehová de...hará...a todos los p banqueteH5971
+- Isa_25:7con que están cubiertos todos los p, yH5971
+- Isa_25:8quitará la afrenta de su p de toda laH5971
+- Isa_26:11avergonzarán los que envidian a tu pH5971
+- Isa_26:15aumentaste el p, oh...aumentaste el pH1471
+- Isa_26:20p mío, entra en tus aposentos, cierraH5971
+- Isa_27:11porque aquel no es p de entendimientoH5971
+- Isa_28:5será por corona de...al remanente de su pH5971
+- Isa_28:11y en extraña lengua hablará a este pH5971
+- Isa_28:14que gobernáis a este p...en JerusalénH5971
+- Isa_29:13p se acerca a mí con su boca, y con susH5971
+- Isa_29:14excitaré yo la admiración de este p conH5971
+- Isa_30:5todos se avergonzarán del p que no lesH5971
+- Isa_30:6sus tesoros...a un p que no les será deH5971
+- Isa_30:9este p es rebelde, hijos mentirososH5971
+- Isa_30:19p morará en Sion, en Jerusalén; nuncaH5971
+- Isa_30:26que vendare Jehová la herida de su pH5971
+- Isa_30:28freno estará en las quijadas de los pH5971
+- Isa_32:13sobre la tierra de...p subirán espinosH5971
+- Isa_32:18y mi p habitará en morada de paz, enH5971
+- Isa_33:3los p huyeron a la voz del estruendo; lasH5971
+- Isa_33:12y los p serán como cal quemada; comoH5971
+- Isa_33:19aquel p orgulloso, p de lengua difícilH5971
+- Isa_33:24al p que more en ella le será perdonadaH5971
+- Isa_34:1vosotros, p, escuchad. Oiga la tierraH3816
+- Isa_34:5descenderá...y sobre el p de mi anatemaH5971
+- Isa_36:11no...lo oye el p que está sobre el muroH5971
+- Isa_40:1consolaos, p mío, dice vuestro DiosH5971
+- Isa_40:7la hierba se seca...como hierba es el pH5971
+- Isa_41:1escuchadme, costas, y esfuércense los pH3816
+- Isa_42:5que da aliento al p que mora sobre ellaH5971
+- Isa_42:6y te pondré por pacto al p, por luz deH5971
+- Isa_42:22este es p saqueado y pisoteado, todosH5971
+- Isa_43:8sacad al p ciego que tiene ojos, y a losH5971
+- Isa_43:9congréguense a...y júntense todos los pH3816
+- Isa_43:20aguas...para que beba mi p, mi escogidoH5971
+- Isa_43:21este p he creado para mí; mis alabanzasH5971
+- Isa_44:7como hago yo desde que establecí el pH5971
+- Isa_47:6enojé contra mi p, profané mi heredadH5971
+- Isa_49:1oídme, costas, y escuchad, p lejanosH3816
+- Isa_49:8daré por pacto al p, para que restauresH5971
+- Isa_49:13Jehová ha consolado a su p, y de susH5971
+- Isa_49:22he aquí...a los p levantaré mi banderaH5971
+- Isa_51:4atentos a mí, p mío, y oídme, nación míaH5971
+- Isa_51:4la ley, y mi justicia para luz de los pH5971
+- Isa_51:5mi justicia...mis brazos juzgarán a los pH5971
+- Isa_51:7oídme...p en cuyo corazón está mi leyH5971
+- Isa_51:16tierra, y diciendo a Sion: P mío eres túH5971
+- Isa_51:22dijo...tu Dios, el cual aboga por su pH5971
+- Isa_52:4mi p descendió a Egipto en tiempo pasadoH5971
+- Isa_52:5qué...ya que mi p es llevado injustamente?[[H5971]]
+- Isa_52:6mi p sabrá mi nombre por esta causa enH5971
+- Isa_52:9Jehová ha consolado a su p, a JerusalénH5971
+- Isa_53:8fue...y por la rebelión de mi p fue heridoH5971
+- Isa_55:4yo lo di por testigo a los p, por jefeH3816
+- Isa_56:3me apartará totalmente Jehová de su pH5971
+- Isa_56:7será...casa de oración para todos los pH5971
+- Isa_57:14quitad los tropiezos del camino de mi pH5971
+- Isa_58:1anuncia a mi p su rebelión, y a la casaH5971
+- Isa_60:21y tu p, todos ellos serán justos, paraH5971
+- Isa_60:22el pequeño vendrá a ser mil...p fuerteH1471
+- Isa_61:9y sus renuevos en medio de los p, todosH5971
+- Isa_62:10barred el camino al p...pendón a los pH5971
+- Isa_62:12llamarán P Santo, Redimidos de JehováH5971
+- Isa_63:3de los p nadie había conmigo; los piséH5971
+- Isa_63:6con mi ira hollé los p, y los embriaguéH5971
+- Isa_63:8dijo...mi p son, hijos que no mienten; yH5971
+- Isa_63:11acordó...de Moisés y de su p, diciendoH5971
+- Isa_63:14así pastoreaste a tu p, para hacerteH5971
+- Isa_63:18poco tiempo lo...tu santo p; nuestrosH5971
+- Isa_64:9mira ahora, p tuyo somos todos nosotrosH5971
+- Isa_65:2extendí...manos todo el día a p rebeldeH5971
+- Isa_65:3p que en mi rostro me provoca de...a iraH5971
+- Isa_65:10majada de vacas, para mi p que me buscóH5971
+- Isa_65:18que yo traigo...alegría, y a su p gozoH5971
+- Isa_65:19me gozaré con mi p; y nunca más se oiráH5971
+- Isa_65:22según los días...serán los días de mi pH5971
+- Jer_1:18te he puesto...contra...p de la tierraH5971
+- Jer_2:11mi p ha trocado su gloria por lo que noH5971
+- Jer_2:13dos males ha hecho mi p: me dejaron a míH5971
+- Jer_2:31¿por qué ha dicho mi p: Somos libresH5971
+- Jer_2:32pero mi p se ha olvidado de mí por...díasH5971
+- Jer_4:10en gran manera has engañado a este p y aH5971
+- Jer_4:11en aquel tiempo se dirá a este p y aH5971
+- Jer_4:11viento seco de...vino a la hija de mi pH5971
+- Jer_4:22porque mi p es necio, no me conocieronH5971
+- Jer_5:14pongo...este p por leña, y los consumiráH5971
+- Jer_5:21p necio y sin corazón, que tiene ojos yH5971
+- Jer_5:23este p tiene corazón falso y rebelde; seH5971
+- Jer_5:26porque fueron hallados en mi p impíosH5971
+- Jer_5:31y mi p así lo quiso. ¿Qué, pues, haréisH5971
+- Jer_6:14y curan la herida de mi p con liviandadH5971
+- Jer_6:19yo traigo mal sobre este p, el fruto deH5971
+- Jer_6:21yo pongo a este p tropiezos, y caerán enH5971
+- Jer_6:22aquí que viene p de la tierra del norteH5971
+- Jer_6:26hija de mi p, cíñete de cilicio...cenizaH5971
+- Jer_6:27por fortaleza te he puesto en mi p, porH5971
+- Jer_7:12ved lo que le hice por la maldad de mi pH5971
+- Jer_7:16tu...no ores por este p, ni levantes porH5971
+- Jer_7:23seré...Dios, y vosotros me seréis por pH5971
+- Jer_8:5¿por qué es este p de Jerusalén rebeldeH5971
+- Jer_8:7pero mi p no conoce el juicio de JehováH5971
+- Jer_8:11y curaron la herida de la hija de mi pH5971
+- Jer_8:19voz del clamor de la hija de mi p, queH5971
+- Jer_8:21quebrantado estoy por...la hija de mi pH5971
+- Jer_8:22no hubo medicina para la hija de mi p?[[H5971]]
+- Jer_9:1que llore...los muertos de la hija de mi p?[[H5971]]
+- Jer_9:2que dejase a mi p, y de ellos me apartase?[[H5971]]
+- Jer_9:7¿qué más he de hacer por la hija de mi p?[[H5971]]
+- Jer_9:15que a este p yo les daré a comer ajenjoH5971
+- Jer_10:3costumbres de los p son vanidad; porqueH5971
+- Jer_10:25derrama tu enojo sobre los p que no teH1471
+- Jer_11:4me seréis por p, y yo seré a...por DiosH5971
+- Jer_11:14no ores por este p, ni levantes por ellosH5971
+- Jer_12:14heredad que hice poseer a mi p IsraelH5971
+- Jer_12:16y si...aprendieren los caminos de mi pH5971
+- Jer_12:16como enseñaron a mi p a jurar por BaalH5971
+- Jer_12:16ellos serán prosperados en medio de mi pH5971
+- Jer_13:10p malo, que no quiere oír mis palabrasH5971
+- Jer_13:11para que me fuesen por p y por fama, porH5971
+- Jer_14:10acerca de este p: Se deleitaron en vagarH5971
+- Jer_14:11dijo...No ruegues por este p para bienH5971
+- Jer_14:16y el p a quien profetizan será echadoH5971
+- Jer_14:17es quebrantada la virgen hija de mi pH5971
+- Jer_15:1si...no estaría mi voluntad con este pH5971
+- Jer_15:7y dejé sin hijos a mi p y lo desbaratéH5971
+- Jer_15:20te pondré en este p por muro...de bronceH5971
+- Jer_16:5porque yo he quitado mi paz de este pH5971
+- Jer_16:10cuando anuncies a este p todas estasH5971
+- Jer_17:19ponte a la puerta de los hijos del pH5971
+- Jer_18:7en un instante hablaré contra p y contraH1471
+- Jer_18:8si esos p se convirtieren de su maldadH1471
+- Jer_18:15mi p me ha olvidado, incensando a lo queH5971
+- Jer_19:1lleva contigo de los ancianos del p, y deH5971
+- Jer_19:11así quebrantaré a este p y a esta ciudadH5971
+- Jer_19:14se paró en el atrio...dijo a todo el pH5971
+- Jer_21:7entregaré a...al p y a los que queden deH5971
+- Jer_21:8y a este p dirás: Así ha dicho JehováH5971
+- Jer_22:2oye palabra...tú, y tus siervos, y tu pH5971
+- Jer_22:4entrarán...ellos, y sus criados y su pH5971
+- Jer_23:2dicho...a los pastores que apacientan mi pH5971
+- Jer_23:13Baal, e hicieron errar a mi p de IsraelH5971
+- Jer_23:22habrían hecho oír mis palabras a mi pH5971
+- Jer_23:27hacen que mi p se olvide de mi nombreH5971
+- Jer_23:32y hacen errar a mi p con sus mentirasH5971
+- Jer_23:32ningún provecho hicieron a este p, diceH5971
+- Jer_23:33te preguntare este p, o el profeta, oH5971
+- Jer_23:34al p que dijere: Profecía de Jehová, yoH5971
+- Jer_24:7me serán por p, y yo les seré...por DiosH5971
+- Jer_25:1acerca de todo el p de Judá en el añoH5971
+- Jer_25:2habló el Profeta Jeremías a todo el p y aH5971
+- Jer_25:19a Faraón rey de Egipto...y a todo su pH5971
+- Jer_25:24a todos los reyes de p mezclados que
+- Jer_26:7profetas y todo el p oyeron a JeremíasH5971
+- Jer_26:8terminó de hablar...hablase a todo el pH5971
+- Jer_26:8todo el p le echaron mano, diciendo: DeH5971
+- Jer_26:9todo el p se juntó contra Jeremías enH5971
+- Jer_26:11hablaron...a todo el p, diciendo: En penaH5971
+- Jer_26:12habló Jeremías...a todo el p, diciendoH5971
+- Jer_26:16y dijeron los príncipes y todo el p aH5971
+- Jer_26:17hablaron a...la reunión del p, diciendoH5971
+- Jer_26:18Miqueas de Moreset...habló a todo el pH5971
+- Jer_26:24que no lo entregasen en las manos del pH5971
+- Jer_27:12Babilonia, y servidle a él y a su p, yH5971
+- Jer_27:13¿por qué moriréis tú y tu p a espada, deH5971
+- Jer_27:16a los sacerdotes y a todo este p habléH5971
+- Jer_28:1me habló...delante...todo el p, diciendoH5971
+- Jer_28:5respondió el...delante de todo el p queH5971
+- Jer_28:7hablo en tus oídos y en los...de todo el pH5971
+- Jer_28:11y habló Hananías en presencia de...el pH5971
+- Jer_28:15has hecho confiar en mentira a este pH5971
+- Jer_29:1el profeta Jeremías envió...a todo el pH5971
+- Jer_29:16así ha dicho...de todo el p que mora enH5971
+- Jer_29:25enviaste cartas en tu nombre a...el pH5971
+- Jer_29:32no tendrá varón que more entre este pH5971
+- Jer_29:32no...ni verá el bien que haré yo a mi pH5971
+- Jer_30:3que haré volver a los cautivos de mi pH5971
+- Jer_30:22y me seréis por p, y yo...vuestro DiosH5971
+- Jer_31:1yo seré por Dios a...me serán a mí por pH5971
+- Jer_31:2p que escapó de la espada halló graciaH5971
+- Jer_31:7oh Jehová, salva a tu p, el remanente deH5971
+- Jer_31:14y mi p será saciado de mi bien, diceH5971
+- Jer_31:33seré...por Dios, y ellos me serán por pH5971
+- Jer_32:21y sacaste a tu p Israel de...Egipto conH5971
+- Jer_32:38me serán por p, y yo seré a...por DiosH5971
+- Jer_32:42traje sobre este p todo este gran malH5971
+- Jer_33:24que habla este p, diciendo: Dos familiasH5971
+- Jer_33:24y han tenido en poco a mi p, hasta noH5971
+- Jer_34:1todos los p, peleaban contra JerusalénH5971
+- Jer_34:8hizo pacto con todo el p en JerusalénH5971
+- Jer_34:10el p que había convenido en el pacto deH5971
+- Jer_34:19y los sacerdotes y a todo el p de laH5971
+- Jer_35:16Recab...pero este p no me ha obedecidoH5971
+- Jer_36:6las palabras de Jehová a los oídos del pH5971
+- Jer_36:7la ira que ha expresado...contra este pH5971
+- Jer_36:9el p de Jerusalén y...el p que venía deH5971
+- Jer_36:10Baruc leyó en el libro...a oídos del pH5971
+- Jer_36:13Baruc leyó en el libro a oídos del pH5971
+- Jer_36:14el rollo en el que leíste a oídos del pH5971
+- Jer_37:2no obedeció él ni...ni el p de la tierraH5971
+- Jer_37:4Jeremías entraba y salía en medio del pH5971
+- Jer_37:12para irse...apartarse de en medio del pH5971
+- Jer_37:18¿en qué pequé contra ti...contra este pH5971
+- Jer_38:1las palabras que Jeremías hablaba a...el pH5971
+- Jer_38:4hace desmayar...el p...no busca la paz...pH5971
+- Jer_39:8pusieron al fuego la...y las casas del pH5971
+- Jer_39:9al resto del p...con todo el resto del pH5971
+- Jer_39:10a los pobres del p que no tenían nadaH5971
+- Jer_39:14lo sacase a casa; y vivió entre el pH5971
+- Jer_40:5a Gedalías...vive con él en medio del pH5971
+- Jer_40:6habitó con él en medio del p que habíaH5971
+- Jer_41:10llevó Ismael cautivo a...el resto del pH5971
+- Jer_41:10a las hijas del rey y a todo lo el p queH5971
+- Jer_41:13todo el p que estaba con Ismael vio aH5971
+- Jer_41:14el p que Ismael había traído cautivo deH5971
+- Jer_41:16tomaron a todo el resto del p que habíaH5971
+- Jer_42:1, Jer_42:8el p desde el menor hasta el mayorH5971
+- Jer_43:1de hablar a todo el p todas las palabrasH5971
+- Jer_43:4no obedeció...p, a la voz de Jehová paraH5971
+- Jer_44:15el p que habitaba en tierra de EgiptoH5971
+- Jer_44:20todo el p...el p que le había respondidoH5971
+- Jer_44:21vuestros príncipes y el p de la tierra?[[H5971]]
+- Jer_44:24dijo Jeremías a todo el p, y a...mujeresH5971
+- Jer_46:16levántate y volvámonos a nuestro p, yH5971
+- Jer_46:24entregada será en manos del p del norteH5971
+- Jer_48:42y Moab...destruido hasta dejar de ser pH5971
+- Jer_48:46¡ay de ti, Moab! pereció el p de QuemosH5971
+- Jer_49:1su p se ha establecido en sus ciudades?[[H5971]]
+- Jer_50:6ovejas perdidas fueron mi p...pastoresH5971
+- Jer_50:9reunión de grandes p de la tierra delH1471
+- Jer_50:16cada uno volverá el rostro hacia su pH5971
+- Jer_50:37contra todo el p que está en medio de
+- Jer_50:41aquí viene un p del norte, y una naciónH5971
+- Jer_51:7fue Babilonia...su vino bebieron los pH1471
+- Jer_51:27alzad bandera...preparad p contra ellaH1471
+- Jer_51:45salid de en medio de ella, p mío, yH5971
+- Jer_51:58vano trabajaron los p, y las nacionesH5971
+- Jer_52:6el hambre...hasta no haber pan para el pH5971
+- Jer_52:15a los pobres del p...la otra gente del pH5971
+- Jer_52:15y a todo el resto de la multitud del pH5971
+- Jer_52:25pasaba revista al p...60 hombres del pH5971
+- Jer_52:28es el p que Nabucodonosor llevó cautivoH5971
+- Lam_1:7cayó su p en mano del enemigo y no huboH5971
+- Lam_1:11su p buscó su pan suspirando; dieron porH5971
+- Lam_1:18oíd ahora, p todos, y ved mi dolor; misH5971
+- Lam_2:11del quebrantamiento de la hija de mi pH5971
+- Lam_3:14fui escarnio a todo mi p, burla de ellosH5971
+- Lam_3:45volviste en oprobio y...en medio de los pH5971
+- Lam_3:48el quebrantamiento de la hija de mi pH5971
+- Lam_4:3hija de mi p es cruel como los avestrucesH5971
+- Lam_4:6aumentó la iniquidad de la hija de mi pH5971
+- Lam_4:10del quebrantamiento de la hija de mi pH5971
+- Eze_3:5no eres enviado a p de habla profundaH5971
+- Eze_3:6muchos p de habla profunda ni de lenguaH5971
+- Eze_3:11entra...a los hijos de tu p, y háblalesH5971
+- Eze_7:27las manos del p de la tierra temblaránH5971
+- Eze_11:1Jaazanías...Pelatías...principales del pH5971
+- Eze_11:17os recogeré de los p, y os congregaréH5971
+- Eze_11:20guarden mis decretos...y me sean por pH5971
+- Eze_12:19al p de la tierra: Así ha dicho JehováH5971
+- Eze_13:9no estarán en la congregación de mi pH5971
+- Eze_13:10cuanto engañaron a mi p, diciendo: PazH5971
+- Eze_13:17pon tu rostro contra las hijas de tu pH5971
+- Eze_13:18¿habéis de cazar las almas de mi p, paraH5971
+- Eze_13:19¿y habéis de profanarme entre mi p porH5971
+- Eze_13:19mintiendo a mi p...escucha la mentira?[[H5971]]
+- Eze_13:21, Eze_13:23y libraré a mi p de vuestra manoH5971
+- Eze_14:8cortaré de en medio de mi p; y sabréisH5971
+- Eze_14:9lo destruiré de en medio de mi p IsraelH5971
+- Eze_14:11y me sean por p, y yo les sea por DiosH5971
+- Eze_18:18e hizo en...de su p lo que no es buenoH5971
+- Eze_20:34os sacaré de entre los p, y os reuniréH5971
+- Eze_20:35os traeré al desierto de los p, y allíH5971
+- Eze_20:41cuando os haya sacado de entre los pH5971
+- Eze_21:12porque ésta será sobre mi p, será ellaH5971
+- Eze_21:12caerán...a espada juntamente con mi pH5971
+- Eze_22:29el p de la tierra usaba de opresión yH5971
+- Eze_23:24vendrán contra ti carros...multitud de pH5971
+- Eze_24:18hablé al p por la mañana, y a la tardeH5971
+- Eze_24:19y me dijo el p: ¿No nos enseñarás quéH5971
+- Eze_25:7cortaré de entre los p, y te destruiréH5971
+- Eze_25:14pondré mi venganza...en manos de mi pH5971
+- Eze_26:7y carros y jinetes, y tropas y mucho pH5971
+- Eze_26:11a tu p matará a filo de espada, y tusH5971
+- Eze_26:20descender con los...p de otros siglosH5971
+- Eze_27:3que trafica con los p de muchas costasH5971
+- Eze_27:33saciabas...p; a los reyes de la tierraH5971
+- Eze_27:36mercaderes en los p silbarán contra tiH5971
+- Eze_28:19los que te conocieron de entre los p seH5971
+- Eze_28:25recoja a la casa de Israel de los pH5971
+- Eze_29:13años recogeré a Egipto de entre los pH5971
+- Eze_30:11él, y con él su p, los más fuertes deH5971
+- Eze_31:2di a Faraón rey...y a su p: ¿A quién te
+- Eze_31:12se irán de su sombra todos los p de laH5971
+- Eze_31:18este es Faraón y todo su p, dice JehováH1995
+- Eze_32:3sobre ti mi red con reunión de muchos pH5971
+- Eze_32:9y entristeceré el corazón de muchos pH5971
+- Eze_32:10y dejaré atónitos por ti a muchos p, yH5971
+- Eze_32:12con espadas de fuertes haré caer tu pH1995
+- Eze_32:20es entregado; traedlo a él y a...sus pH1995
+- Eze_33:2hijo...habla a los hijos de tu p, y dilesH5971
+- Eze_33:2el p de la tierra tomare un hombre de suH5971
+- Eze_33:3viere...y tocare trompeta y avisare al pH5971
+- Eze_33:6y el p no se apercibiere, y viniendo laH5971
+- Eze_33:12di a los hijos de tu p: La justicia delH5971
+- Eze_33:17dirán los hijos de tu p: No es rectoH5971
+- Eze_33:30los hijos de tu p se mofan de ti juntoH5971
+- Eze_33:31y vendrán...como viene el p...como p míoH5971
+- Eze_34:13yo las sacaré de los p, y las juntaréH5971
+- Eze_34:30estoy con ellos, y ellos son mi p, laH5971
+- Eze_36:3se os ha hecho...ser el oprobio de los pH5971
+- Eze_36:8mas...llevaréis vuestro fruto para mi pH5971
+- Eze_36:12y haré andar...sobre vosotros, a mi pH5971
+- Eze_36:15ni más llevarás denuestos de p, ni harásH5971
+- Eze_36:20éstos son p de Jehová, y de la tierraH5971
+- Eze_36:28y vosotros me seréis por p, y yo seréH5971
+- Eze_37:12yo abro vuestros sepulcros, p mío, y osH5971
+- Eze_37:13os saque de vuestras sepulturas, p míoH5971
+- Eze_37:18cuando te pregunten los hijos de tu pH5971
+- Eze_37:23y me serán por p, y yo a ellos por DiosH5971
+- Eze_37:27seré...por Dios, y ellos me serán por pH5971
+- Eze_38:6Gomer, y...sus tropas...muchos p contigoH5971
+- Eze_38:8recogida de muchos p, a los montes deH5971
+- Eze_38:9subirás tú...tropas, y muchos p contigoH5971
+- Eze_38:12el p recogido de entre las naciones, queH5971
+- Eze_38:14cuando mi p Israel habite con seguridadH5971
+- Eze_38:15vendrás...tú y muchos p contigo, todosH5971
+- Eze_38:16subirás contra mi p Israel...te traeréH5971
+- Eze_38:22haré llover sobre...p que están con élH5971
+- Eze_39:4caerás tú y...y los p que fueron contigoH5971
+- Eze_39:7haré notorio mi...en medio de mi p IsraelH5971
+- Eze_39:13los enterrará todo el p de la tierraH5971
+- Eze_39:27los saque de entre los p, y los reúnaH5971
+- Eze_42:14y así se acercarán a lo que es del pH5971
+- Eze_44:11el holocausto y la víctima para el pH5971
+- Eze_44:19cuando salgan...al p, se quitarán lasH5971
+- Eze_44:19no santificar al p con sus vestidurasH5971
+- Eze_44:23y enseñarán a mi p a hacer diferenciaH5971
+- Eze_45:8nunca...mis príncipes oprimirán a mi pH5971
+- Eze_45:9quitad vuestras imposiciones de sobre mi pH5971
+- Eze_45:16p...estará obligado a dar esta ofrendaH5971
+- Eze_45:22sacrificará...por todo el p de la tierraH5971
+- Eze_46:3adorará el p de...delante de Jehová, a laH5971
+- Eze_46:9cuando el p...entrare delante de JehováH5971
+- Eze_46:18y el príncipe no tomará nada de...del pH5971
+- Eze_46:18fin de que ninguno de mi p sea echado deH5971
+- Eze_46:20para no sacarla...santificando así al pH5971
+- Eze_46:24servidores de...cocerán la ofrenda del pH5971
+- Dan_2:44jamás...será el reino dejado a otro pH5972
+- Dan_3:4voz: Mándase a vosotros, oh p, naciones yH5971
+- Dan_3:7al oír todos los p el son de la bocina, deH5971
+- Dan_3:7todos los p...se postraron y adoraron laH5971
+- Dan_3:29que todo p, nación...que dijere blasfemiaH5971
+- Dan_4:1Nabucodonosor rey, a todos los p, nacionesH5971
+- Dan_5:19los p...temblaban y temían delante de élH5971
+- Dan_6:25Darío escribió a todos los p, nacionesH5972
+- Dan_7:14que todos los p, naciones y...le sirvieranH5972
+- Dan_7:27que el reino...sea dado al p de los santosH5972
+- Dan_8:24destruirá...fuertes y al p de los santosH5971
+- Dan_9:6hablaron a...y a todo el p de la tierraH5971
+- Dan_9:15sacaste tu p de la tierra de Egipto conH5971
+- Dan_9:16Jerusalén y tu p son el oprobio de todosH5971
+- Dan_9:19tu nombre es invocado sobre tu ciudad...pH5971
+- Dan_9:20estaba...confesando...el pecado de mi pH5971
+- Dan_9:24semanas están determinadas sobre tu p yH5971
+- Dan_9:26y el p de un príncipe que ha de venirH5971
+- Dan_10:14saber lo que ha de venir a tu p en losH5971
+- Dan_11:14turbulentos de tu p se levantarán paraH5971
+- Dan_11:32el p que conoce a su Dios se esforzaráH5971
+- Dan_11:33y los sabios del p instruirán a muchosH5971
+- Dan_12:1que está de parte de los hijos de tu pH5971
+- Dan_12:1pero en aquel tiempo será libertado tu pH5971
+- Dan_12:7se acabe la dispersión del poder del pH5971
+- Ose_1:9no sois mi p, ni yo seré vuestro DiosH5971
+- Ose_1:10les fue dicho: Vosotros no sois p míoH5971
+- Ose_2:23diré a Lo-ammi: Tú eres p mío, y él diráH5971
+- Ose_4:4p es como los que resisten al sacerdoteH5971
+- Ose_4:6mi p fue destruido...le faltó conocimientoH5971
+- Ose_4:8del pecado de mi p comen, y en su maldadH5971
+- Ose_4:9será el p como el sacerdote...y le pagaréH5971
+- Ose_4:12mi p a su ídolo de madera pregunta, y elH5971
+- Ose_4:14por tanto, el p sin entendimiento caeráH5971
+- Ose_6:11cuando...haga volver el cautiverio de mi pH5971
+- Ose_7:8Efraín se ha mezclado con los demás pH5971
+- Ose_9:1hasta saltar de gozo como los p, pues hasH5971
+- Ose_10:5su p lamentará a causa del becerro, y susH5971
+- Ose_10:10p se juntarán sobre ellos cuando seanH5971
+- Ose_10:14tanto, en tus p se levantará alborotoH5971
+- Ose_11:7mi p está adherido a la rebelión contraH5971
+- Joe_1:6porque p fuerte e innumerable subió aH1471
+- Joe_2:2vendrá un p grande y fuerte; semejante aH5971
+- Joe_2:5como p fuerte dispuesto para la batallaH5971
+- Joe_2:6delante de él temerán los p; se pondránH5971
+- Joe_2:16reunid al p, santificad...reunión, juntadH5971
+- Joe_2:17digan: Perdona, oh Jehová, a tu p, y noH5971
+- Joe_2:17¿por qué han de decir entre los p: DóndeH5971
+- Joe_2:18Jehová, solicito por...perdonará a su pH5971
+- Joe_2:19y dirá a su p: He aquí yo os envío panH5971
+- Joe_2:26-27y nunca jamás será mi p avergonzadoH5971
+- Joe_3:2entraré en juicio...a causa de mi p, y deH5971
+- Joe_3:3echaron suertes sobre mi p, y dieron losH5971
+- Joe_3:14muchos p en el valle de la decisiónH1995
+- Joe_3:16Jehová será la esperanza de su p, y laH5971
+- Amó_1:5el p de Siria será transportado a KirH5971
+- Amó_1:6llevó cautivo a todo un p para entregarlo
+- Amó_1:9entregaron a todo un p cautivo a Edom, y
+- Amó_3:6¿se tocará la...y no se alborotará el p?[[H5971]]
+- Amó_4:6y hubo falta de pan en todos vuestros pH4725
+- Amó_7:8pongo plomada de...en medio de mi p IsraelH5971
+- Amó_7:15y me dijo: Ve y profetiza a mi p IsraelH5971
+- Amó_8:2ha venido el fin sobre mi p Israel; no loH5971
+- Amó_9:10a espada morirán...los pecadores de mi pH5971
+- Amó_9:14y traeré del cautiverio a mi p IsraelH5971
+- Abd_1:1y levantémonos contra este p en batalla
+- Abd_1:13no...haber entrado por la puerta de mi pH5971
+- Jon_1:8¿cuál es tu tierra, y de qué p eres?[[H5971]]
+- Miq_1:2p todos; está atenta, tierra, y cuantoH5971
+- Miq_1:9su llaga...llegó hasta la puerta de mi pH5971
+- Miq_2:4él ha cambiado la porción de mi p. ¡CómoH5971
+- Miq_2:8que ayer era mi p, se ha levantado contraH5971
+- Miq_2:9a las mujeres de mi p echasteis fuera deH5971
+- Miq_2:11vino...este tal será el profeta de este pH5971
+- Miq_3:3coméis asimismo la carne de mi p, y lesH5971
+- Miq_3:5de los profetas que hacen errar a mi pH5971
+- Miq_4:1por cabecera de...y correrán a él los pH5971
+- Miq_4:3y él juzgará entre muchos p, y corregiráH5971
+- Miq_4:5aunque todos los p anden cada uno en elH5971
+- Miq_4:13desmenuzarás a muchos p; y consagrarásH5971
+- Miq_5:7el remanente...será en medio de muchos pH5971
+- Miq_5:8en medio de muchos p, como el león entreH5971
+- Miq_6:2Jehová tiene pleito con su p, y altercaráH5971
+- Miq_6:3p mío, ¿qué te he hecho, o en qué te heH5971
+- Miq_6:5p mío, acuérdate...qué aconsejó Balac reyH5971
+- Miq_6:16llevaréis, por tanto, el oprobio de mi pH5971
+- Miq_7:14apacienta tu p con tu cayado, el rebañoH5971
+- Nah_3:4que seduce...a los p con sus hechizosH5971
+- Nah_3:13tu p será como mujeres en medio de tiH5971
+- Nah_3:18tu p se derramó por los montes, y no hayH5971
+- Hab_2:5gentes, y juntó para sí todos los pH5971
+- Hab_2:8tú has...todos los otros p te despojaránH5971
+- Hab_2:10asolaste muchos p, y has pecado contraH5971
+- Hab_2:13los p, pues, trabajarán para el fuegoH5971
+- Hab_3:13para socorrer a tu p, para socorrer a tuH5971
+- Hab_3:16cuando suba al p el que lo invadirá conH5971
+- Sof_1:11aullad...el p mercader es destruidoH5971
+- Sof_2:5¡ay de...del p de los cereteos! La palabraH1471
+- Sof_2:8los denuestos...con que deshonraron a mi pH5971
+- Sof_2:9el remanente de mi p los saqueará, y elH5971
+- Sof_2:9Moab...el remanente de mi p los heredaráH1471
+- Sof_2:10engrandecieron contra el p de JehováH5971
+- Sof_3:9devolveré yo a los p pureza de labiosH5971
+- Sof_3:12y dejaré en medio de ti un p humilde yH5971
+- Sof_3:20para alabanza entre todos los p de laH5971
+- Hag_1:2p dice: No ha llegado aún el tiempoH5971
+- Hag_1:12y oyó Zorobabel...y todo el resto del pH5971
+- Hag_1:12la voz...y temió el p delante de JehováH5971
+- Hag_1:13Hageo, enviado de Jehová, habló...al pH5971
+- Hag_1:14despertó Jehová el espíritu de...del pH5971
+- Hag_2:2habla ahora a...y al resto del p, diciendoH5971
+- Hag_2:4cobrad ánimo, p todo de la tierra, diceH5971
+- Hag_2:14así es este p y esta gente delante de míH5971
+- Zac_2:11y se unirán muchas...y me serán por pH5971
+- Zac_7:2el p de Bet-el había enviado a Sarezer
+- Zac_7:5a todo el p del país, y a los sacerdotesH5971
+- Zac_8:6maravilloso a los ojos del remanente de...pH5971
+- Zac_8:7yo salvo a mi p de la tierra del orienteH5971
+- Zac_8:8y me serán por p, y yo seré a ellos porH5971
+- Zac_8:11no lo haré con el remanente de este pH5971
+- Zac_8:12el remanente de este p posea todo estoH5971
+- Zac_8:20aún vendrán p, y habitantes de...ciudadesH5971
+- Zac_8:22y vendrán muchos p y fuertes naciones aH5971
+- Zac_9:16los salvará...Dios como rebaño de su pH5971
+- Zac_10:2lo cual el p vaga como ovejas, y sufre
+- Zac_10:9bien que los esparciré entre los p, aunH5971
+- Zac_11:10mi pacto que concerté con todos los pH5971
+- Zac_12:2a Jerusalén...hará temblar a todos los pH5971
+- Zac_12:3a Jerusalén por piedra pesada a...los pH5971
+- Zac_12:4todo caballo de los p heriré con cegueraH5971
+- Zac_12:6y consumirán a...a todos los p alrededorH5971
+- Zac_13:9diré: P mío; y él dirá: Jehová es mi DiosH5971
+- Zac_14:2mas el resto del p no será cortado de laH5971
+- Zac_14:12con que herirá Jehová a todos los p queH5971
+- Mal_1:4p contra el cual Jehová está indignadoH5971
+- Mal_2:7y de su boca el p buscará la ley; porque
+- Mal_2:9os he hecho viles y bajos ante todo el pH5971
+- Mat_1:21JESÚS...salvará a su p de sus pecadosG2992
+- Mat_2:4convocados...escribas del p, les preguntóG2992
+- Mat_2:6un guiador, que apacentará a mi p IsraelG2992
+- Mat_4:16el p asentado en tinieblas vio gran luzG2992
+- Mat_4:23; Mat_9:35enfermedad y toda dolencia en el pG2992
+- Mat_13:15el corazón de este p se ha engrosado, yG2992
+- Mat_14:5Herodes quería matarle, pero temía,al pG3793
+- Mat_15:8este p de labios me honra; mas su corazónG2992
+- Mat_21:23y los ancianos del p se acercaron a élG2992
+- Mat_21:26tememos al p...tienen a Juan por profetaG3793
+- Mat_21:46temían al p, porque éste le tenía porG3793
+- Mat_26:3y los ancianos del p se reunieron en elG2992
+- Mat_26:5no...para que no se haga alboroto en el pG2992
+- Mat_26:47de parte de...y de los ancianos del pG2992
+- Mat_27:1los ancianos del p entraron en consejoG2992
+- Mat_27:15acostumbraba...soltar al p un preso, elG3793
+- Mat_27:24agua y se lavó las manos delante del pG3793
+- Mat_27:25todo el p, dijo: Su sangre sea sobreG2992
+- Mat_27:64y lo hurten, y digan al p: Resucitó deG2992
+- Mar_7:6p de labios me honra, mas su corazónG2992
+- Mar_10:1volvió el p a juntarse a él, y de nuevoG3793
+- Mar_11:18todo el p estaba admirado de su doctrinaG3793
+- Mar_11:32temían al p, pues todos tenían a JuanG2992
+- Mar_12:37gran multitud del p le oía de buena ganaG3793
+- Mar_12:41miraba cómo el p echaba dinero en elG3793
+- Mar_14:2y decían...que no se haga alboroto del pG2992
+- Mar_15:15queriendo satisfacer al p, les soltó aG3793
+- Luc_1:10la multitud del p estaba fuera orandoG2992
+- Luc_1:17preparar al Señor un p bien dispuestoG2992
+- Luc_1:21el p estaba esperando a Zacarías, y seG2992
+- Luc_1:68Dios...que ha visitado y redimido a su pG2992
+- Luc_1:77para dar conocimiento de salvación a su pG2992
+- Luc_2:10de gran gozo, que será para todo el pG2992
+- Luc_2:31preparado en presencia de todos los pG2992
+- Luc_2:32a los gentiles, y gloria de tu p IsraelG2992
+- Luc_3:15p estaba en expectativa...si acaso JuanG2992
+- Luc_3:18con...anunciaba las buenas nuevas al pG2992
+- Luc_3:21todo el p se bautizaba, también Jesús fueG2992
+- Luc_7:1terminado...sus palabras al p que le oíaG2992
+- Luc_7:16un gran profeta...Dios ha visitado a su pG2992
+- Luc_7:29el p...cuando lo oyeron, justificaron aG2992
+- Luc_8:47le declaró delante de todo el p por quéG2992
+- Luc_13:17el p se regocijaba por todas las cosasG3793
+- Luc_18:43p, cuando vio...dio alabanza a DiosG2992
+- Luc_19:47los principales del p procuraban matarleG2992
+- Luc_19:48porque...el p estaba suspenso oyéndoleG2992
+- Luc_20:1que enseñando Jesús al p en el temploG2992
+- Luc_20:6todo el p nos apedreará; porque estánG2992
+- Luc_20:9comenzó luego a decir al p esta parábolaG2992
+- Luc_20:19los escribas echarle mano...temieron al pG2992
+- Luc_20:26sorprenderle...delante del p, sino queG2992
+- Luc_20:45oyéndole...el p, dijo a sus discípulosG2992
+- Luc_21:23gran calamidad en...e ira sobre este pG2992
+- Luc_21:38p venía a él por la mañana, para oírleG2992
+- Luc_22:2buscaban...matarle; porque temían al pG2992
+- Luc_22:6buscaba...entregárselo a espaldas del pG3793
+- Luc_22:66de día, se juntaron los ancianos del pG2992
+- Luc_23:5alborota al p, enseñando por toda JudeaG2992
+- Luc_23:13convocando...a los gobernantes, y al pG2992
+- Luc_23:14éste como un hombre que perturba al pG2992
+- Luc_23:27y le seguía gran multitud del p, y deG2992
+- Luc_23:35el p estaba mirando; Y...los gobernantesG2992
+- Luc_24:19poderoso en obra...delante de todo el pG2992
+- Jua_7:12pero otros...No, sino que engaña al pG3793
+- Jua_8:2p vino a él; y sentado él, los enseñabaG2992
+- Jua_11:50conviene que un hombre muera por el pG2992
+- Jua_18:14que un solo hombre muriese por el pG2992
+- Hec_2:47Dios, y teniendo favor con todo el pG2992
+- Hec_3:9y todo el p le vio andar y alabar a DiosG2992
+- Hec_3:11el p...concurrió a ellos al pórtico queG2992
+- Hec_3:12al p: Varones israelitas, ¿por qué osG2992
+- Hec_3:23que no oiga a...será desarraigada del pG2992
+- Hec_4:1hablando ellos al p, vinieron sobre ellosG2992
+- Hec_4:2que enseñasen al p, y anunciasen en JesúsG2992
+- Hec_4:8gobernantes del p, y ancianos de IsraelG2992
+- Hec_4:10sea notorio a...y a todo el p de IsraelG2992
+- Hec_4:17para que no se divulgue más entre el pG2992
+- Hec_4:21modo de castigarles, por causa del pG2992
+- Hec_4:25las gentes, y los p piensan cosas vanas?[[G2992]]
+- Hec_4:27se unieron...los gentiles y el p de IsraelG2992
+- Hec_5:12se hacían...señales y prodigios en el pG2992
+- Hec_5:13ellos; mas el p los alababa grandementeG2992
+- Hec_5:20anunciad al p...las palabras de esta vidaG2992
+- Hec_5:25aquí...están en el templo, y enseñan al pG2992
+- Hec_5:26porque temían ser apedreados por el pG2992
+- Hec_5:34doctor de la ley, venerado de todo el pG2992
+- Hec_5:37Judas el galileo...en pos de sí a mucho pG2992
+- Hec_6:8Esteban...prodigios y señales entre el pG2992
+- Hec_6:12soliviantaron al p, a los ancianos y aG2992
+- Hec_7:17el p creció y se multiplicó en EgiptoG2992
+- Hec_7:19este rey, usando de astucia con nuestro p
+- Hec_7:34he visto la aflicción de mi p que estáG2992
+- Hec_10:2que hacía muchas limosnas al p, y orabaG2992
+- Hec_10:41no a todo el p, sino a los testigos queG2992
+- Hec_10:42y nos mandó que predicásemos al p, yG2992
+- Hec_12:4se proponía sacarle al p después de laG2992
+- Hec_12:11todo lo que el p de los judíos esperabaG2992
+- Hec_12:22p aclamaba gritando: ¡Voz de Dios, y noG1218
+- Hec_13:15alguna palabra de exhortación para el pG2992
+- Hec_13:17el Dios de este p de Israel escogió aG2992
+- Hec_13:17el Dios...enalteció al p, siendo ellosG2992
+- Hec_13:24predicó Juan el...a todo el p de IsraelG2992
+- Hec_13:31cuales ahora son sus testigos ante el pG2992
+- Hec_15:14para tomar de ellos p para su nombreG2992
+- Hec_16:22y se agolpó el p contra ellos; y losG3793
+- Hec_17:5asaltando la...procuraban sacarlos al pG1218
+- Hec_17:8alborotaron al p y a las autoridades deG3793
+- Hec_18:10porque yo tengo mucho p en esta ciudadG2992
+- Hec_19:4diciendo al p que creyesen en aquel deG2992
+- Hec_19:30queriendo...salir al p...no le dejaronG1218
+- Hec_19:33quería hablar en su defensa ante el pG1218
+- Hec_21:28todas partes enseña a todos contra el pG2992
+- Hec_21:30la ciudad se conmovió, y se agolpó el pG2992
+- Hec_21:36del p venia detrás, gritando: ¡Muera![[G2992]]
+- Hec_21:39te ruego que me permitas hablar al pG2992
+- Hec_21:40Pablo...hizo señal con la mano al pG2992
+- Hec_23:5está: No maldecirás a un príncipe de tu pG2992
+- Hec_24:2cosas son bien gobernadas en el p por tuG1484
+- Hec_26:17librándote de tu p, y de los gentilesG2992
+- Hec_26:23para anunciar luz al p y a los gentilesG2992
+- Hec_28:17no habiendo hecho nada contra el pG2992
+- Hec_28:26ve a este p, y diles: De oído oiréisG2992
+- Hec_28:27el corazón de este p se ha engrosadoG2992
+- Rom_9:25llamaré p mío al que no era mi p, yG2992
+- Rom_9:26donde se les dijo: Vosotros no sois pG2992
+- Rom_10:19os provocaré a...con un p que no es pG1484
+- Rom_10:19yo...con p insensato os provocaré a iraG1484
+- Rom_10:21todo el día extendí mis...a un p rebeldeG2992
+- Rom_11:1digo, pues: ¿Ha desechado Dios a su p?[[G2992]]
+- Rom_11:2no ha desechado Dios a su p, al cualG2992
+- Rom_15:10vez dice: Alegraos, gentiles, con su pG2992
+- Rom_15:11los gentiles, y magnificadle todos los pG2992
+- 1Co_10:7se sentó el p a comer y a beber, yG2992
+- 1Co_14:21con otros labios hablaré a este p; y niG2992
+- 2Co_6:16y seré su Dios, y ellos serán mi pG2992
+- Efe_2:14que de ambos p hizo uno, derribando la
+- Tit_2:14para...purificar para sí un p propioG2992
+- Heb_2:17sacerdote...expiar los pecados del pG2992
+- Heb_4:9tanto, queda un reposo para el p de DiosG2992
+- Heb_5:3debe ofrecer por los pecados...por el pG2992
+- Heb_7:5de tomar del p los diezmos según la leyG2992
+- Heb_7:11porque bajo él recibió el p la ley), ¿quéG2992
+- Heb_7:27propios pecados, y luego por los del p
+- Heb_8:10seré a ellos...ellos me serán a mí por pG2992
+- Heb_9:7sí...y por los pecados de ignorancia del pG2992
+- Heb_9:19habiendo anunciado Moisés...a todo el pG2992
+- Heb_9:19y roció el mismo libro y...a todo el pG2992
+- Heb_10:30y otra vez: El Señor juzgará a su pG2992
+- Heb_11:25escogiendo...ser maltratado con el pG2992
+- Heb_13:12Jesús, para santificar al p medianteG2992
+- 1Pe_2:9sois...p adquirido por Dios, para queG2992
+- 1Pe_2:10no erais p, pero...ahora sois p de DiosG2992
+- 2Pe_2:1pero hubo...falsos profetas entre el pG2992
+- Jud_1:5Señor, habiendo salvado al p sacándoloG2992
+- Rev_5:9de todo linaje y lengua y p y naciónG2992
+- Rev_7:9de todas naciones y tribus y p y lenguasG2992
+- Rev_10:11que profetices otra vez sobre muchos pG2992
+- Rev_11:9y los de los p...verán sus cadáveres porG2992
+- Rev_13:7se le dio autoridad sobre...p, lengua yG1484
+- Rev_14:6predicarlo a...a toda nación...lengua y pG2992
+- Rev_17:15las aguas que has visto donde la...son pG2992
+- Rev_18:4salid de ella, p mío, para que no seáisG2992
+- Rev_21:3él morará con ellos; y ellos serán su pG2992

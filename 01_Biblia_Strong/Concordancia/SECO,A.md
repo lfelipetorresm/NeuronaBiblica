@@ -1,0 +1,72 @@
+---
+tipo: concordancia
+palabra: SECO,A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SECO,A
+
+- Gén_1:9dijo...Dios: Júntense...descúbrase lo sH3004
+- Gén_1:10llamó Dios a lo s Tierra, y a la...MaresH3004
+- Gén_8:13he aquí que la faz de la tierra estaba sH2720
+- Éxo_14:16, Éxo_14:22, Éxo_14:29por en medio del mar, en sH3004
+- Éxo_14:21hizo Jehová que...y volvió el mar en sH2724
+- Éxo_15:19mas los hijos de Israel pasaron en sH3004
+- Lev_7:10toda ofrenda amasada con aceite, o sH2720
+- Núm_6:3ni tampoco comerá uvas frescas ni sH3002
+- Jos_3:17sacerdotes...estuvieron en s, firmesH2724
+- Jos_3:17pasar el Jordán; y todo Israel pasó en sH2724
+- Jos_4:18de los sacerdotes estuvieron en lugar sH2724
+- Jos_4:22diciendo: Israel pasó en s...este JordánH3004
+- Jos_9:5y todo el pan que traían...era s y mohosoH3004
+- Jos_9:12nuestro pan...helo aquí...ya s y mohoso+3001
+- Jue_6:37en el vellón...s toda la otra tierraH2721
+- Jue_6:39ruego que...el vellón quede s, y el rocíoH2721
+- Jue_6:40el vellón quedó s, y en toda la tierraH2721
+- 1Sa_25:18Abigail tomó...200 panes de higos s
+- 1Sa_30:12le dieron...pedazo de masa de higos s
+- 2Sa_16:1cien panes de higos s, y un cuero de
+- 2Re_2:8se apartaron...pasaron ambos por lo sH2724
+- Neh_9:11y pasaron por medio de él en s; y aH3004
+- Job_13:25hoja...a una paja s has de perseguir?[[H3002]]
+- Sal_63:1tierra s y árida donde no hay aguasH6723
+- Sal_66:6volvió el mar en s; por el río pasaronH3004
+- Sal_68:6mas los rebeldes habitan en tierra sH6707
+- Sal_95:5hizo; y sus manos formaron la tierra sH3006
+- Sal_102:4mi corazón está herido, y s como laH3001
+- Sal_107:35aguas, y la tierra s en manantialesH6723
+- Pro_17:1mejor es un bocado s, y en paz, queH2720
+- Isa_25:5como el calor en...s, así humillarásH6724
+- Isa_35:7el lugar s se convertirá en estanque, y
+- Isa_41:17s está de sed su lengua; yo Jehová losH5405
+- Isa_41:18y manantiales de aguas en la tierra sH6723
+- Isa_53:2cual renuevo...y como raíz de tierra sH6723
+- Isa_56:3ni diga el eunuco: He aquí yo...árbol sH3002
+- Jer_2:6nos condujo...por tierra s y de sombra
+- Jer_4:11viento s de las alturas del desierto vinoH6703
+- Jer_48:18siéntate en tierra s, moradora hija de
+- Jer_51:36su mar, y haré que su corriente quede sH3001
+- Jer_51:43la tierra s y desierta, tierra en queH6723
+- Lam_4:8su piel está pegada a...s como un paloH3001
+- Eze_17:24verde, e hice reverdecer el árbol sH3002
+- Eze_20:47el cual consumirá en ti...s todo árbolH3002
+- Eze_37:2que eran muchísimos...s en gran maneraH3002
+- Eze_37:4diles: Huesos s, oíd palabra de JehováH3002
+- Ose_2:3la deje como tierra s, y la mate de sedH6723
+- Ose_9:16Efraín fue herido, su raíz está s, noH3001
+- Ose_13:5yo te conocí en el desierto, en tierra sH8514
+- Joe_1:12la vid está s, y pereció la higueraH3001
+- Joe_2:20y lo echaré en tierra s y desierta; suH6723
+- Nah_1:10serán consumidos como hojarasca, sH3002
+- Hag_2:6yo haré temblar...el mar y la tierra sH2724
+- Mat_12:10había allí uno que tenía s una manoG3584
+- Mat_12:43anda por lugares s, buscando reposo, yG504
+- Mar_3:1había...un hombre que tenía s una manoG3583
+- Mar_3:3dijo al...que tenía la mano s: LevántateG3583
+- Luc_6:6un hombre que tenía s la mano derechaG3584
+- Luc_6:8él...dijo al hombre que tenía la mano sG3584
+- Luc_11:24anda por lugares s, buscando reposoG504
+- Luc_23:31árbol verde...¿en el s, qué no se hará?[[G3584]]
+- Hec_28:3habiendo recogido...algunas ramas s
+- Heb_11:29pasaron...Mar Rojo como por tierra sG3584

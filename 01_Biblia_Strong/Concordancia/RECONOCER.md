@@ -1,0 +1,93 @@
+---
+tipo: concordancia
+palabra: RECONOCER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RECONOCER
+
+- Gén_30:33cuando vengas a reconocer mi salario
+- Gén_31:32delante...reconoce lo que yo tenga tuyoH5234
+- Gén_37:32reconoce...es la túnica de tu hijo, o noH5234
+- Gén_37:33y él la reconoció, y dijo: La túnica deH5234
+- Gén_38:26Judá los reconoció, y dijo: Más justaH5234
+- Éxo_2:25miró Dios a...Israel, y los reconocióH3045
+- Lev_13:3sacerdote le reconocerá, y le declararáH7200
+- Lev_13:6día el sacerdote le reconocerá de nuevoH7200
+- Lev_13:8si reconociéndolo el sacerdote ve que
+- Lev_13:13le reconocerá; y si la lepra hubiereH7200
+- Lev_13:27el sacerdote la reconocerá...es llaga deH7200
+- Lev_26:41se humillará...y reconocerán su pecadoH7521
+- Núm_13:2tú hombres que reconozcan la tierra deH8446
+- Núm_13:16que Moisés envió a reconocer la tierraH8446
+- Núm_13:17los envió...Moisés a reconocer la tierraH8446
+- Núm_13:21y reconocieron la tierra...hasta RehobH8446
+- Núm_13:25y volvieron de reconocer la tierra alH8446
+- Núm_13:32mal...de la tierra que habían reconocidoH8446
+- Núm_13:32por donde pasarnos para reconocerla, esH8446
+- Núm_14:6de los que habían reconocido la tierraH8446
+- Núm_14:7tierra...donde pasamos para reconoceríaH8446
+- Núm_14:34los días...en que reconocisteis la tierraH8446
+- Núm_14:36que Moisés envió a reconocer la tierraH8446
+- Núm_14:38que habían ido a reconocer la tierraH8446
+- Núm_21:32también envió Moisés a reconocer a JazerH7270
+- Deu_1:22varones...que nos reconozcan la tierraH2658
+- Deu_1:24llegaron hasta...reconocieron la tierraH7270
+- Deu_1:33iba delante de...para reconoceros el lugarH8446
+- Deu_8:5reconoce...que como castiga el hombre a suH3045
+- Deu_21:17al hijo de...reconocerá como primogénitoH5234
+- Deu_33:9y no reconoció a sus hermanos, ni a susH5234
+- Jos_2:1dos espías...Andad, reconoced la tierraH7200
+- Jos_6:22a los...que habían reconocido la tierraH7270
+- Jos_6:25Josué había enviado a reconocer a JericóH7270
+- Jos_7:2reconoced la tierra...y reconocieron a HaiH7270
+- Jos_14:7Moisés...me envió...a reconocer la tierraH7270
+- Jos_23:14reconoced, pues...que no ha faltado unaH3045
+- Jue_18:2que reconociesen y explorasen bien laH2713
+- Jue_18:2y les dijeron: Id y reconoced la tierraH2713
+- Jue_18:3reconocieron la voz del joven levitaH5234
+- Jue_18:14, Jue_18:17que habían ido a reconocer la tierraH7270
+- Rut_2:10he hallado gracia...que me reconozcasH5234
+- Rut_2:19dijo...Bendito sea el que te ha reconocidoH5234
+- Rut_3:14que...pudieran reconocerse unos a otrosH5234
+- 2Sa_10:3¿no ha enviado David...para reconocerH7270
+- 2Sa_19:20reconozco haber pecado, y he venido hoyH3045
+- 1Re_18:7cuando lo reconoció, se postró sobreH5234
+- 2Re_9:17a un jinete que vaya a reconocerlosH7125
+- 2Re_9:18fue...el jinete a reconocerlos, y dijoH7125
+- 1Cr_19:3e inquirir, y reconocer la tierra?[[H2713]]
+- 1Cr_28:9hijo mío, reconoce al Dios de tu padreH3045
+- 2Cr_33:13reconoció Manasés que Jehová eraH3045
+- Job_37:7los hombres todos reconozcan su obraH3045
+- Sal_51:3porque yo reconozco mis rebelionesH3045
+- Sal_51:4seas reconocido justo en tu palabra, y
+- Sal_88:12¿serán reconocidas en las tinieblas tusH3045
+- Sal_100:3reconoced que Jehová es Dios; él nosH3045
+- Pro_3:6reconócelo en todos tus caminos; y élH3045
+- Isa_61:9todos los que los vieren, reconoceránH5234
+- Jer_3:13reconoce...tu maldad, porque contraH3045
+- Jer_14:20reconocemos...Jehová, nuestra impiedadH3045
+- Jer_31:19y después que reconocí mi falta, heríH3045
+- Eze_34:11buscar mis ovejas, y las reconoceréH1239
+- Eze_34:12reconoce su rebaño el pastor el día queH1243
+- Eze_34:12así reconoceré mis ovejas, y las libraréH1239
+- Dan_4:26que reconozcas que el cielo gobiernaH3046
+- Dan_4:32que reconozcas que el Altísimo tiene elH3046
+- Dan_5:21hasta que reconoció que el Altísimo DiosH3046
+- Dan_11:39honores a los que le reconozcan, y porH5230
+- Ose_2:8y ella no reconoció que yo le daba elH3045
+- Ose_5:15reconozcan su pecado y busquen mi rostro
+- Mar_6:33muchos...vieron ir, y le reconocieronG1921
+- Luc_24:31abiertos los ojos, y le reconocieronG1921
+- Luc_24:35le habían reconocido al partir el panG1097
+- Jua_7:26¿habrán reconocido...éste es el Cristo?[[G1097]]
+- Hec_3:10reconocían que era el que se sentabaG1921
+- Hec_4:13reconocían que habían estado con JesúsG1921
+- Hec_12:14cuando reconoció la voz de Pedro, deG1921
+- Hec_27:39no reconocían la tierra, pero veían unaG1921
+- 1Co_14:37reconozca que lo que os escribo sonG1921
+- 1Co_16:18reconoced, pues, a tales personasG1921
+- Gál_2:9y reconociendo la gracia que me habíaG1097
+- 1Ts_5:12que reconozcáis a los que trabajanG1492
+- Rev_3:9vengan...reconozcan que yo te he amadoG1097

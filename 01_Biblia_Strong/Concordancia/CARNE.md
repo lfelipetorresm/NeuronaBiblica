@@ -1,0 +1,350 @@
+---
+tipo: concordancia
+palabra: CARNE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CARNE
+
+- Gén_2:21Jehová Dios...cerró la c en su lugarH1320
+- Gén_2:23dijo...Adán: Esto es ahora...c de mi cH1320
+- Gén_2:24unirá a su mujer, y serán una sola cH1320
+- Gén_6:3el hombre...porque ciertamente él es cH1320
+- Gén_6:12toda c había corrompido su camino sobreH1320
+- Gén_6:17toda c en que haya espíritu de vidaH1320
+- Gén_6:19de todo lo que vive, de toda c, dos deH1320
+- Gén_7:15toda c en que había espíritu de vidaH1320
+- Gén_7:16que vinieron, macho y hembra de toda cH1320
+- Gén_7:21y murió toda c que se mueve sobre laH1320
+- Gén_8:17animales...contigo de toda c, las avesH1320
+- Gén_9:4c con su vida...es su sangre, no comeréisH1320
+- Gén_9:11no exterminaré ya más toda c con aguasH1320
+- Gén_9:15vosotros y todo ser viviente de toda cH1320
+- Gén_9:15diluvio de aguas para destruir toda cH1320
+- Gén_9:16pacto...toda c que hay sobre la tierraH1320
+- Gén_9:17la señal del pacto...entre mí y toda cH1320
+- Gén_17:11circuncidaréis, pues, la c de vuestroH1320
+- Gén_17:13estará mi pacto en vuestra c por pactoH1320
+- Gén_17:14que no hubiere circuncidado la c de suH1320
+- Gén_17:23y circuncidó la c del prepucio de ellosH1320
+- Gén_17:24años...circuncidó la c de su prepucioH1320
+- Gén_17:25fue circuncidada la c de su prepucioH1320
+- Gén_29:14ciertamente hueso mío y c mía eresH1320
+- Gén_37:27es nuestro hermano, nuestra propia cH1320
+- Gén_40:19y las aves comerán tu c de sobre tiH1320
+- Gén_41:3vacas de feo aspecto y enjutas de c, yH1320
+- Gén_41:4que las vacas...enjutas de c devoraban aH1320
+- Gén_41:18del río subían siete vacas de gruesas cH1320
+- Éxo_4:7aquí que se había vuelto como la otra cH1320
+- Éxo_12:8comerán la c asada al fuego, y panesH1320
+- Éxo_12:46no llevarás de aquella c fuera de ellaH1320
+- Éxo_16:3cuando nos sentábamos a las ollas de cH1320
+- Éxo_16:8Jehová os dará en la tarde c para comerH1320
+- Éxo_16:12al caer la tarde comeréis c, y por laH1320
+- Éxo_21:28será apedreado, y no será comida su cH1320
+- Éxo_22:31no comeréis c destrozada...las fierasH1320
+- Éxo_29:14pero la c del becerro, y su piel y suH1320
+- Éxo_29:31carnero...cocerás su c en lugar santoH1320
+- Éxo_29:32Aarón y sus...comerán la c del carneroH1320
+- Éxo_29:34sobrare hasta la mañana algo de la cH1320
+- Éxo_30:32sobre c de hombre no será derramadoH1320
+- Lev_4:11toda su c con su cabeza, sus piernasH1320
+- Lev_6:27lo que tocare su c, será santificadoH1320
+- Lev_7:15c del sacrificio de paz...se comerá enH1320
+- Lev_7:17lo que quedare de la c del sacrificioH1320
+- Lev_7:18si se comiere de la c del sacrificio deH1320
+- Lev_7:19la c que tocare alguna cosa inmunda, noH1320
+- Lev_7:19toda persona limpia podrá comer la cH1320
+- Lev_7:20persona que comiere la c del sacrificioH1320
+- Lev_7:21tocare...y comiere la c del sacrificioH1320
+- Lev_8:17su c y su estiércol, lo quemó al fuegoH1320
+- Lev_8:31comed la c a la puerta del tabernáculoH1320
+- Lev_8:32lo que sobre de la c...lo quemaréis alH1320
+- Lev_9:11la c y la piel las quemó al fuego fueraH1320
+- Lev_11:8la c de ellos no comeréis, ni tocaréisH1320
+- Lev_11:11su c no comeréis, y abominaréis susH1320
+- Lev_13:3llaga más profunda que la piel de la cH1320
+- Lev_13:10del pelo, y se descubre asimismo la cH1320
+- Lev_13:14el día que apareciere en él la c vivaH1320
+- Lev_13:15mirará la c viva...es inmunda la c vivaH1320
+- Lev_13:16la c viva cambiare y se volviere blancaH1320
+- Lev_13:18en la piel de la c hubiere divieso, yH1320
+- Lev_16:27quemarán...su piel, su c y su estiércolH1320
+- Lev_17:11la vida de la c en la sangre está, y yoH1320
+- Lev_17:14(2)la vida de toda c es su sangreH1320
+- Lev_17:14no comeréis la sangre de ninguna cH1320
+- Lev_21:5ni raerán la...ni en su c harán rasguñoH1320
+- Lev_26:29comeréis la c...la c de vuestras hijasH1320
+- Núm_11:4dijeron: ¡Quién nos diera a comer c![[H1320]]
+- Núm_11:13¿de dónde conseguiré yo c para dar aH1320
+- Núm_11:13a mí diciendo: Danos c que comamosH1320
+- Núm_11:18santificaos para mañana, y comeréis cH1320
+- Núm_11:18¡quién nos diera a comer c!...os dará cH1320
+- Núm_11:21les daré c, y comerán un mes entero![[H1320]]
+- Núm_11:33aún estaba la c entre los dientes deH1320
+- Núm_12:12al salir del vientre...consumida su cH1320
+- Núm_16:22Dios, Dios de los espíritus de toda cH1320
+- Núm_18:15de toda c que ofrecerán a Jehová, asíH1320
+- Núm_18:18la c de ellos será tuya; como el pechoH1320
+- Núm_19:5cuero y su c y su sangre...hará quemarH1320
+- Núm_27:16pongo...Dios de los espíritus de toda cH1320
+- Deu_12:15podrás matar y comer c en todas tusH1320
+- Deu_12:20dijeres: Comeré c...deseaste comerlaH1320
+- Deu_12:23no comerás la...juntamente con su cH1320
+- Deu_12:27ofrecerás...la c y la sangre, sobre elH1320
+- Deu_12:27altar de Jehová...y podrás comer la cH1320
+- Deu_14:8la c de éstos no comeréis, ni tocaréisH1320
+- Deu_16:4de la c que...no quedará hasta la mañanaH1320
+- Deu_28:53comerás...c de tus hijos y de tus hijasH1320
+- Deu_28:55no dar a...ellos de la c de sus hijosH1320
+- Deu_32:42y mi espada devorará c; en la sangreH1320
+- Jue_6:19Gedeón...puso la c en un canastilloH1320
+- Jue_6:20toma la c y...y ponlos sobre esta peñaH1320
+- Jue_6:21tocó con...la c y los panes sin levaduraH1320
+- Jue_6:21y subió fuego de la peña...consumió la cH1320
+- Jue_8:7dijo...trillaré vuestra c con espinos yH1320
+- Jue_9:2acordaos que yo soy hueso...y c vuestraH1320
+- 1Sa_2:13el criado...mientras se cocía la cH1320
+- 1Sa_2:15da c que asar...no tomará de ti c cocidaH1320
+- 1Sa_14:33el pueblo peca...comiendo la c con la
+- 1Sa_14:34pequéis, comiendo la c con la sangre
+- 1Sa_17:44ven...y daré tu c a las aves del cieloH1320
+- 1Sa_25:11¿he de tomar...c que he preparado paraH2878
+- 2Sa_5:1henos aquí, hueso tuyo y c tuya somosH1320
+- 2Sa_6:19un pedazo de c y una torta de pasasH829
+- 2Sa_19:12mis hermanos; mis huesos y mi c soisH1320
+- 2Sa_19:13a Amasa: ¿No eres...hueso mío y c mía?[[H1320]]
+- 1Re_17:6pan y c por la mañana y pan y cH1320
+- 1Re_19:21con el arado...coció la c, y la dio alH1320
+- 1Re_21:27y puso cilicio sobre su c, ayunó, yH1320
+- 2Re_5:10vé y lávate...tu c se te restauraráH1320
+- 2Re_5:14y su c se volvió como la c de un niñoH1320
+- 2Re_9:36comerán los perros las c de, JezabelH1320
+- 1Cr_11:1aquí nosotros somos tu hueso y tu cH1320
+- 1Cr_16:3repartió...una pieza de c, y una tortaH829
+- 2Cr_32:8con él está el brazo de c, mas conH1320
+- Neh_5:5c es como la c de nuestros hermanosH1320
+- Job_2:5y toca su hueso y su c, y verás si noH1320
+- Job_6:12¿es mi fuerza la...o es mi c de bronce?[[H1320]]
+- Job_7:5c está vestida de gusanos, y de costrasH1320
+- Job_10:4¿tienes tú acaso ojos de c? ¿Ves túH1320
+- Job_10:11me vestiste de piel y c, y me tejisteH1320
+- Job_13:14por qué quitaré yo mi c con mis dientesH1320
+- Job_14:22su c sobre él se dolerá...entristeceráH1320
+- Job_19:20piel y mi c se pegaron a mis huesosH1320
+- Job_19:22por qué...ni aun de mi c os saciáis?[[H1320]]
+- Job_19:26después de...en mi c he de ver a DiosH1320
+- Job_21:6asombro, y el temblor estremece mi cH1320
+- Job_31:31decían: ¿Quién no...saciado de su c?[[H1320]]
+- Job_33:21c desfallece, de manera que no se veH1320
+- Job_33:25su c será más tierna que la del niñoH1320
+- Job_34:15c perecería juntamente, y el hombreH1320
+- Job_41:23las partes más flojas de su c estánH1320
+- Sal_16:9mi c también reposará confiadamenteH1320
+- Sal_27:2se juntaron contra mí...para comer mis cH1320
+- Sal_38:3nada hay sano en mi c, a causa de tuH1320
+- Sal_38:7lomos están...y nada hay sano en mi cH1320
+- Sal_50:13¿he de comer yo c de toros, o de beberH1320
+- Sal_63:1mi c te anhela, en tierra seca y áridaH1320
+- Sal_65:2tú oyes la oración; a ti vendrá toda cH1320
+- Sal_73:26mi c y mi corazón desfallecen; mas laH1320
+- Sal_78:20¿podrá...dispondrá c para su pueblo?[[H1320]]
+- Sal_78:27hizo llover sobre ellos c como polvoH1320
+- Sal_78:39se acordó de que eran c, soplo que vaH1320
+- Sal_79:2la c de tus santos a las bestias de laH1320
+- Sal_84:2mi corazón y mi c cantan al Dios vivoH1320
+- Sal_102:5voz...mis huesos se han pegado a mi cH1320
+- Sal_109:24mi c desfallece por falta de gorduraH1320
+- Sal_119:120c se ha estremecido por temor de tiH1320
+- Pro_5:11al final, cuando se consuma tu c y tuH1320
+- Pro_14:30el corazón apacible es vida de la cH1320
+- Pro_23:20no estés con...con los comedores de cH1320
+- Ecl_2:3propuse en mi...agasajar mi c con vinoH1320
+- Ecl_4:5el necio cruza sus manos y come su...cH1320
+- Ecl_11:10quita, pues...y aparta de tu c el malH1320
+- Ecl_12:12y el mucho estudio es fatiga de la cH1320
+- Isa_9:20cada cual comerá la c de su brazoH1320
+- Isa_17:4y se enflaquecerá la grosura de su cH1320
+- Isa_22:13comiendo c y bebiendo vino, diciendoH1320
+- Isa_31:3hombres...y no Dios; y sus caballos cH1320
+- Isa_40:5la gloria de Jehová, y toda c...la veráH1320
+- Isa_40:6toda c es hierba, y toda su gloria comoH1320
+- Isa_44:16parte de él como c, prepara un asadoH1320
+- Isa_44:19quemé en...cocí pan, asé c, y la comíH1320
+- Isa_49:26comer sus propias c, y con su sangreH1320
+- Isa_65:4comen c de cerdo, y en sus ollas hayH1320
+- Isa_66:17que comen c de cerdo y abominaciónH1320
+- Jer_7:21vuestros sacrificios, y comed la cH1320
+- Jer_11:15y las c...pueden evitarte el castigo?[[H1320]]
+- Jer_12:12la espada...no habrá paz para ninguna cH1320
+- Jer_17:5maldito el varón...pone c por su brazoH1320
+- Jer_19:9haré comer la c de sus hijos y la c deH1320
+- Jer_19:9cada uno comerá la c de su amigo, enH1320
+- Jer_25:31porque Jehová...él es el Juez de toda cH1320
+- Jer_32:27yo soy Jehová, Dios de toda c, ¿habráH1320
+- Jer_45:5traigo mal sobre toda c...pero a ti teH1320
+- Jer_51:35caiga la violencia hecha a mí y a mi cH7607
+- Lam_3:4envejecer mi c y mi piel; quebrantóH1320
+- Eze_4:14ni nunca en mi boca entró c inmundaH1320
+- Eze_11:3esta será la olla, y nosotros la cH1320
+- Eze_11:7muertos...son la c, y ella es la ollaH1320
+- Eze_11:11olla, ni...seréis en medio de ella la cH1320
+- Eze_11:19quitaré el corazón de piedra...de su cH1320
+- Eze_11:19quitaré el...y les daré un corazón de cH1320
+- Eze_16:26de Egipto, tus vecinos, gruesos de cH1320
+- Eze_20:48verá toda c que yo Jehová lo encendíH1320
+- Eze_21:4mi espada saldrá de su...contra toda cH1320
+- Eze_21:5y sabrá toda c que yo Jehová saqué miH1320
+- Eze_24:4junta sus piezas de c en ella; todas
+- Eze_24:10encendiendo el fuego...consumir la cH1320
+- Eze_32:5tus c sobre los montes, y llenaré losH1320
+- Eze_36:26y quitaré de vuestra c el corazón deH1320
+- Eze_36:26de piedra, y os daré un corazón de cH1320
+- Eze_37:6subir sobre vosotros c, y os cubriré deH1320
+- Eze_37:8la c subió, y la piel cubrió por encimaH1320
+- Eze_39:17venid...y comeréis c y beberéis sangreH1320
+- Eze_39:18comeréis c de fuertes, y...de príncipesH1320
+- Eze_40:43sobre las mesas la c de las víctimasH1320
+- Eze_44:7traer extranjeros...incircuncisos de cH1320
+- Eze_44:9ningún...incircunciso de c, entrará enH1320
+- Dan_2:11los dioses cuya morada no es con la cH1321
+- Dan_4:12su fruto era...se mantenía de él toda cH1321
+- Dan_7:5fue dicho así: Levántate, devora mucha cH1321
+- Dan_10:3ni entró en mi boca c ni vino, ni meH1320
+- Ose_8:13sacrificaron c, y comieron; no losH1320
+- Joe_2:28derramaré mi Espíritu sobre toda cH1320
+- Miq_3:2les quitáis su piel y su c de sobreH7607
+- Miq_3:3que coméis asimismo la c de mi puebloH7607
+- Miq_3:3los rompéis como para...y como c en ollaH1320
+- Sof_1:17como polvo, y su c como estiércolH3894
+- Hag_2:12llevare c santificada en la falda deH1320
+- Zac_2:13calle toda c delante de JehováH1320
+- Zac_11:9que cada una coma la c de su compañeraH1320
+- Zac_11:16sino que comerá la c de la gorda, yH1320
+- Zac_14:12la c de ellos se corromperá estandoH1320
+- Mat_16:17no te lo reveló c ni sangre, sino miG4561
+- Mat_19:5a su mujer, y los dos serán una sola c?[[G4561]]
+- Mat_19:6que no son ya más dos, sino una sola cG4561
+- Mat_26:41está dispuesto, pero la c es débilG4561
+- Mar_10:8los dos serán una sola c; así que noG4561
+- Mar_14:38está dispuesto, pero la c es débilG4561
+- Luc_3:6y verá toda c la salvación de DiosG4561
+- Luc_24:39un espíritu no tiene c ni huesos, comoG4561
+- Jua_1:13ni de voluntad de c, ni de voluntadG4561
+- Jua_1:14aquel Verbo fue hecho c, y habitó entreG4561
+- Jua_3:6lo que es nacido de la c, c es; y lo queG4561
+- Jua_6:51el pan que yo daré es mi c, la cual yoG4561
+- Jua_6:52¿cómo puede éste darnos de comer su c?[[G4561]]
+- Jua_6:53si no coméis la c del Hijo del HombreG4561
+- Jua_6:54el que come mi c y...tiene vida eternaG4561
+- Jua_6:55mi c es verdadera comida, y mi sangreG4561
+- Jua_6:56el que come mi c...en mí permanece, y yoG4561
+- Jua_6:63que da vida; la c para nada aprovechaG4561
+- Jua_8:15vosotros juzgáis según la c; yo no juzgoG4561
+- Jua_17:2como le has dado potestad sobre toda cG4561
+- Hec_2:17derramaré...Espíritu sobre toda cG4561
+- Hec_2:26y aun mi c descansará en esperanzaG4561
+- Hec_2:30de su descendencia, en cuanto a la cG4561
+- Hec_2:31no fue dejada...ni su c vio corrupciónG4561
+- Rom_1:3que era del linaje de David según la cG4561
+- Rom_2:28la circuncisión la que se hace...en la cG4561
+- Rom_4:1halló Abraham, nuestro padre según la c?[[G4561]]
+- Rom_7:5mientras estábamos en la c, las pasionesG4561
+- Rom_7:18sé que en mí...en mi c, no mora el bienG4561
+- Rom_7:25sirvo a...con la c a la ley del pecadoG4561
+- Rom_8:1los que no andan conforme a la c, sinoG4561
+- Rom_8:3imposible...por cuanto era débil por la cG4561
+- Rom_8:3en semejanza de c de pecado y a causa delG4561
+- Rom_8:3enviando a su...condenó al pecado en la cG4561
+- Rom_8:4no andamos conforme a la c...al EspírituG4561
+- Rom_8:5son de la c piensan en las cosas de la cG4561
+- Rom_8:6el ocuparse de la c es muerte, pero elG4561
+- Rom_8:7los designios...c son enemistad contra DiosG4561
+- Rom_8:8que viven según la c no pueden agradarG4561
+- Rom_8:9mas vosotros no vivís según la c, sinoG4561
+- Rom_8:12no a la c...que vivamos conforme a la cG4561
+- Rom_8:13si vivís conforme a la c, moriréis; masG4561
+- Rom_8:13hacéis morir...obras de la c, viviréisG4561
+- Rom_9:3los que son mis parientes según la cG4561
+- Rom_9:5de los cuales, según la c, vino CristoG4561
+- Rom_9:8no los que son hijos según la c son losG4561
+- Rom_13:14y no proveáis para los deseos de la cG4561
+- Rom_14:21bueno es no comer c, ni beber vino, niG2907
+- 1Co_1:26no sois muchos sabios según la cG4561
+- 1Co_5:5sea entregado...para destrucción de la cG4561
+- 1Co_6:16porque dice: Los dos serán una sola cG4561
+- 1Co_7:28los tales tendrán aflicción de la c; yG4561
+- 1Co_8:13no comeré c...para no poner tropiezo aG2907
+- 1Co_10:18mirad a Israel según la c; los queG4561
+- 1Co_15:39no toda c es la misma c, sino que unaG4561
+- 1Co_15:39una c es la de los hombres, otra c laG4561
+- 1Co_15:50la c y la sangre no pueden heredar elG4561
+- 2Co_1:17lo pienso según la c, para que hayaG4561
+- 2Co_3:3escrita...sino en tablas de c del corazónG4560
+- 2Co_4:11la vida de...se manifieste en nuestra cG4561
+- 2Co_5:16adelante a nadie conocemos según la cG4561
+- 2Co_5:16y aun si a Cristo conocimos según la cG4561
+- 2Co_7:1limpiémonos de toda contaminación de cG4561
+- 2Co_10:2tienen como si anduviésemos según la cG4561
+- 2Co_10:3andamos en la c, no militamos...la cG4561
+- 2Co_11:18se glorían según la c, también yo meG4561
+- 2Co_12:7dado un aguijón en mi c, un mensajeroG4561
+- Gál_1:16no consulté en seguida con c y sangreG4561
+- Gál_2:20lo que ahora vivo en la c, lo vivo enG4561
+- Gál_3:3Espíritu, ahora vais a acabar por la c?[[G4561]]
+- Gál_4:23pero el de la esclava nació según la cG4561
+- Gál_4:29el que había nacido según la c perseguíaG4561
+- Gál_5:13la libertad como ocasión para la c, sinoG4561
+- Gál_5:16y no satisfagáis los deseos de la cG4561
+- Gál_5:17el deseo de la c es contra el EspírituG4561
+- Gál_5:17el deseo...del Espíritu es contra la cG4561
+- Gál_5:19manifiestas son las obras de la c, queG4561
+- Gál_5:24han crucificado la c con sus pasionesG4561
+- Gál_6:8el que siembra para su c, de la c segaráG4561
+- Gál_6:12los que quieren agradar en la c, éstosG4561
+- Gál_6:13os circuncidéis, para gloriarse en...cG4561
+- Efe_2:3vivimos...en los deseos de nuestra c yG4561
+- Efe_2:3haciendo la voluntad de la c y de losG4561
+- Efe_2:11los gentiles en cuanto a la c, eraisG4561
+- Efe_2:11circuncisión hecha con mano en la cG4561
+- Efe_2:15aboliendo en su c las enemistades, laG4561
+- Efe_5:29nadie aborreció jamás a su propia cG4561
+- Efe_5:30somos miembros...su c y de sus huesosG4561
+- Efe_5:31se unirá a...y los dos serán una sola cG4561
+- Efe_6:12no tenemos lucha contra sangre y c, sinoG4561
+- Flp_1:22si el vivir en la c resulta para míG4561
+- Flp_1:24pero quedar en la c es más necesarioG4561
+- Flp_3:3espíritu...no teniendo confianza en la cG4561
+- Flp_3:4tengo también de qué confiar en la cG4561
+- Flp_3:4tiene de qué confiar en la c, yo másG4561
+- Col_1:22en su cuerpo de c, por medio de laG4561
+- Col_1:24y cumplo en mi c lo que falta de lasG4561
+- Col_2:13en la incircuncisión de vuestra c, osG4561
+- Col_2:23no tienen valor...los apetitos de la cG4561
+- 1Ti_3:16fue manifestado en c, justificadoG4561
+- Flm_1:6más para ti, tanto en la c como en elG4561
+- Heb_2:14los hijos participaron de c y sangreG4561
+- Heb_5:7Cristo, en los días de su c, ofreciendoG4561
+- Heb_9:10abluciones, y ordenanzas acerca de la cG1033
+- Heb_9:13santifican para la purificación de la cG4561
+- Heb_10:20a través del velo, esto es, de su cG4561
+- Stg_5:3y devorará del todo vuestras c comoG4561
+- 1Pe_1:24porque toda c es como hierba, y todaG4561
+- 1Pe_3:18siendo a la verdad muerto en la c, peroG4561
+- 1Pe_3:21no quitando las inmundicias de la cG4561
+- 1Pe_4:1Cristo ha padecido por nosotros en la cG4561
+- 1Pe_4:1quien ha padecido en la c, terminó conG4561
+- 1Pe_4:2no vivir el tiempo que resta en la cG4561
+- 1Pe_4:6para que sean juzgados en c según losG4561
+- 2Pe_2:10aquellos que, siguiendo la c, andanG4561
+- 2Pe_2:18seducen con concupiscencias de la c yG4561
+- 1Jn_2:16los deseos de la c...no proviene delG4561
+- 1Jn_4:2-3confiesa que Jesucristo ha venido en cG4561
+- 2Jn_1:7no confiesan...Jesucristo ha venido en cG4561
+- Jud_1:8mancillan la c, rechazan la autoridad yG4561
+- Jud_1:23aborreciendo...ropa contaminada por su cG4561
+- Rev_17:16y devorarán sus c, y la quemarán conG4561
+- Rev_19:18que comáis c de reyes...y c de fuertesG4561
+- Rev_19:18c de caballos...y c de todos, libres yG4561
+- Rev_19:21las aves se saciaron de las c de ellosG4561

@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: SICLO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SICLO
+
+- Gén_23:15la tierra vale 400 s de plata; ¿quéH8255
+- Gén_23:16cuatrocientos s de plata, de buena leyH8255
+- Gén_24:22un pendiente de oro que pesaba medio sH8255
+- Éxo_21:32pagará su dueño treinta s de plataH8255
+- Éxo_30:13medio s, conforme al s del santuarioH8255
+- Éxo_30:13el s es de veinte geras...La mitad de unH8255
+- Éxo_30:13mitad de un s será la ofrenda a JehováH8255
+- Éxo_30:15ni...ni el pobre disminuirá del medio sH8255
+- Éxo_30:23de mirra excelente quinientos s, y deH8255
+- Éxo_30:24de casia 500, según el s del santuarioH8255
+- Éxo_38:24oro...730 s, según el s del santuarioH8255
+- Éxo_38:25plata...1:775 s, según el s del santuarioH8255
+- Éxo_38:26medio s por cabeza...el s del santuarioH8255
+- Éxo_38:28de los 1:775 s hizo los capiteles deH8255
+- Éxo_38:29el bronce...fue 70 talentos y 2.400 sH8255
+- Lev_5:15en s de plata del s del santuario, enH8255
+- Lev_27:3en cincuenta s...según el s del santuarioH8255
+- Lev_27:4fuere mujer, la estimarás en treinta sH8255
+- Lev_27:5al varón...veinte s, y la mujer en diez sH8255
+- Lev_27:6al varón en cinco s...la mujer en tres sH8255
+- Lev_27:7varón...quince s, y a la mujer en diez sH8255
+- Lev_27:16de cebada se valorará en 50 s de plataH8255
+- Lev_27:25conforme al s...el s tiene veinte gerasH8255
+- Núm_3:47cinco s por cabeza; conforme al s delH8255
+- Núm_3:47los tomarás...El s tiene veinte gerasH8255
+- Núm_3:50recibió de...1:365 s, conforme al s delH8255
+- Núm_7:13, Núm_7:19, Núm_7:25, Núm_7:31, Núm_7:37, Núm_7:43, Núm_7:49, Núm_7:55, Núm_7:61, Núm_7:67, Núm_7:73, Núm_7:79un plato...de ciento treinta s de pesoH8255
+- Núm_7:13, Núm_7:19, Núm_7:25, Núm_7:31, Núm_7:37, Núm_7:43, Núm_7:49, Núm_7:55, Núm_7:61, Núm_7:67, Núm_7:73, Núm_7:79un jarro de plata de setenta s, al s delH8255
+- Núm_7:14, Núm_7:20, Núm_7:26, Núm_7:32, Núm_7:38, Núm_7:44, Núm_7:50, Núm_7:56, Núm_7:62, Núm_7:68, Núm_7:74, Núm_7:80una cuchara de oro de diez s, llena deH8255
+- Núm_7:85cada plato de 130 s, y cada jarro de 70H8255
+- Núm_7:85la plata de...2.400 s, al s del santuarioH8255
+- Núm_7:86diez s cada...al s del santuario...120 sH8255
+- Núm_18:16de cinco s, conforme al s del santuarioH8255
+- Núm_31:52todo el oro de la ofrenda...fue 16:750 sH8255
+- Jos_7:21los despojos...doscientos s de plataH8255
+- Jos_7:21lingote de oro de peso de cincuenta sH8255
+- Jue_8:26fue el peso de...1.700 s de oro, sinH8255
+- Jue_9:4le dieron setenta s de plata del temploH8255
+- Jue_16:5cada uno...te dará mil cien s de plataH8255
+- Jue_17:2los mil cien s de plata que te fueronH8255
+- Jue_17:3él devolvió los mil cien s de plata aH8255
+- Jue_17:4doscientos s de...y los dio al fundidorH8255
+- Jue_17:10daré diez s de plata por año, vestidosH8255
+- 1Sa_9:8mi mano la cuarta parte de un s; estoH8255
+- 1Sa_13:21la tercera parte de un s por afilar lasH8255
+- 1Sa_17:5era el peso de la cota 5.000 s de bronceH8255
+- 1Sa_17:7y tenía el hierro de su lanza 600 s deH8255
+- 2Sa_14:26pesaba el cabello de...200 s de pesoH8255
+- 2Sa_18:11hubiera placido darte diez s de plataH8255
+- 2Sa_18:12aunque me pesaras mil s de plata, noH8255
+- 2Sa_21:16lanza pesaba trescientos s de bronceH8255
+- 2Sa_24:24compró la era...por cincuenta s de plataH8255
+- 1Re_10:16seiscientos s de oro gastó en cada
+- 2Re_7:1valdrá el seah de flor de harina un sH8255
+- 2Re_7:1dos seahs de cebada un s, a la puerta deH8255
+- 2Re_7:16por un s, y dos seahs de cebada por un sH8255
+- 2Re_7:18por un s, y el seah...de harina...por un sH8255
+- 2Re_15:20de cada uno 50 s de plata, para dar alH8255
+- 1Cr_21:25dio David...el peso de 600 s de oroH8255
+- 2Cr_3:9clavos era de uno hasta 50 s de oroH8255
+- 2Cr_9:15doscientos paveses...cada uno...600 s de
+- 2Cr_9:16teniendo cada escudo 300 s de oro; y los
+- Neh_5:15tomaron de ellos...más de cuarenta sH8255
+- Neh_10:32con la tercera parte de un s para laH8255
+- Isa_7:23mil vides que valían mil s de plataH3701
+- Jer_32:9y le pesé el dinero; diecisiete s deH8255
+- Eze_4:10la comida...de peso de veinte s al díaH8255
+- Eze_45:12y el s será de veinte geras...Veinte sH8255
+- Eze_45:12veinticinco s, quince s, os serán unaH8255
+- Ose_3:2compré...para mí por quince s de plata

@@ -1,0 +1,957 @@
+---
+tipo: concordancia
+palabra: RESPONDER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RESPONDER
+
+- Gén_3:2la mujer respondió a la serpiente: DelH559
+- Gén_3:10y él respondió: Oí tu voz en el huertoH559
+- Gén_3:12respondió: La mujer que me diste...me dioH559
+- Gén_4:9respondió: No sé...¿Soy yo acaso guarda deH559
+- Gén_4:15y le respondió Jehová...que mate a CaínH559
+- Gén_14:22y respondió Abram al rey de Sodoma: HeH559
+- Gén_15:2respondió Abram: Señor Jehová, ¿qué meH559
+- Gén_15:8y él respondió: Señor Jehová, ¿en quéH559
+- Gén_16:6y respondió Abram a Sarai: He aquí, tuH559
+- Gén_16:8respondió: Huyo de delante de Sarai miH559
+- Gén_17:19respondió Dios...tu mujer te dará a luzH559
+- Gén_18:9está Sara...respondió: Aquí en la tiendaH559
+- Gén_18:26respondió Jehová: Si hallare...50 justosH559
+- Gén_18:29respondió: No lo haré por amor a los 40H559
+- Gén_18:30respondió: No lo haré si hallare allíH559
+- Gén_18:31-32no la destruiré, respondió, por amorH559
+- Gén_19:2ellos respondieron: No, que en la calleH559
+- Gén_19:9respondieron. Quita allá; y añadieronH559
+- Gén_19:21respondió: He aquí he recibido tambiénH559
+- Gén_20:11Abraham respondió: Porque dije para míH559
+- Gén_21:24y respondió Abraham: Yo juraréH559
+- Gén_21:26respondió Abimelec: No sé quién hayaH559
+- Gén_21:30él respondió: Que estas siete corderasH559
+- Gén_22:1dijo: Abraham...Y él respondió: Heme aquíH559
+- Gén_22:7mío...Y él respondió: Heme aquí, mi hijoH559
+- Gén_22:8respondió Abraham: Dios se proveerá deH559
+- Gén_22:11Abraham, Abraham...él respondió: HemeH559
+- Gén_23:5respondieron los hijos de Het a AbrahamH6030
+- Gén_23:10y respondió Efrón heteo a Abraham, enH6030
+- Gén_23:13y respondió a Efrón en presencia delH1696
+- Gén_23:14respondió Efrón a Abrabam, diciéndoleH6030
+- Gén_24:5el criado le respondió: Quizá la mujerH559
+- Gén_24:14ella respondiere: Bebe, y también daréH559
+- Gén_24:18ella respondió. Bebe, señor...mío; y seH559
+- Gén_24:24ella respondió: Soy hija de Betuel hijoH559
+- Gén_24:40me respondió: Jehová, en cuya presenciaH559
+- Gén_24:44respondiere: Bebe tú, y también paraH559
+- Gén_24:47y ella respondió: Hija de Betuel hijoH559
+- Gén_24:50Labán y Betuel respondieron y dijeronH559
+- Gén_24:55respondieron su hermano y su madreH559
+- Gén_24:57respondieron...Llamemos a la doncella yH559
+- Gén_24:58¿irás tu con...ella respondió: Sí, iréH559
+- Gén_24:65y el criado había respondido: Este esH559
+- Gén_25:23respondió Jehová: Dos naciones hay enH559
+- Gén_25:31Jacob respondió: Véndeme en este día tuH559
+- Gén_26:7respondió: Es mi hermana...tuvo miedo deH559
+- Gén_26:9e Isaac le respondió...dije: Quizá moriréH559
+- Gén_26:28y ellos respondieron: Hemos visto queH559
+- Gén_27:1le dijo: Hijo mío...Y él respondió: HemeH559
+- Gén_27:13su madre respondió: Hijo mío, sea sobreH559
+- Gén_27:18e Isaac respondió: Heme aquí; ¿quiénH559
+- Gén_27:20y él respondió, Porque Jehová tu DiosH559
+- Gén_27:24¿eres tú mi...Esaú? Y Jacob respondióH559
+- Gén_27:36Esaú respondió: Bien llamaron su...JacobH559
+- Gén_27:37Isaac respondió y dijo a Esaú: He aquíH6030
+- Gén_27:38Esaú respondió a su padre: ¿No tienesH559
+- Gén_29:4y ellos respondieron: De Harán somosH559
+- Gén_29:8respondieron: No podemos, hasta que seH559
+- Gén_29:19Labán respondió: Mejor es que te la déH559
+- Gén_29:26y Labán respondió: No se hace así enH559
+- Gén_30:15respondió: ¿Es poco que hayas tomado miH559
+- Gén_30:27y Labán le respondió: Halle yo ahoraH559
+- Gén_30:29respondió: Tú sabes cómo te he servidoH559
+- Gén_30:31y respondió Jacob: No me des nada; siH559
+- Gén_30:33responderá por mí mi honradez mañanaH6030
+- Gén_31:14respondieron Raquel y Lea, y le dijeronH6030
+- Gén_31:31respondió Jacob y dijo a Labán: PorqueH6030
+- Gén_31:36y respondió Jacob y dijo a Labán: ¿QuéH6030
+- Gén_31:43respondió Labán y dijo a Jacob: LasH6030
+- Gén_32:26Jacob le respondió: No te dejaré, si noH559
+- Gén_32:27es tu nombre? Y él respondió: JacobH559
+- Gén_32:29varón respondió: ¿Por qué me preguntasH559
+- Gén_33:5y él respondió: Son los niños que DiosH559
+- Gén_33:8y Jacob respondió: El hallar gracia enH559
+- Gén_34:13pero respondieron los hijos de Jacob aH559
+- Gén_34:31pero ellos respondieron: ¿Había él deH559
+- Gén_35:3haré allí altar al Dios que me respondióH6030
+- Gén_37:8respondieron sus hermanos: ¿Reinarás túH559
+- Gén_37:13te enviaré...Y él respondió: Heme aquíH559
+- Gén_37:16José respondió. Busco a mis hermanosH559
+- Gén_37:17aquel hombre respondió: Ya se han idoH559
+- Gén_38:17él respondió: Yo te enviaré del ganadoH559
+- Gén_38:18ella respondió: Tu sello, tu cordón, yH559
+- Gén_40:18respondió José...Los tres canastillos tresH6030
+- Gén_41:16respondió José a Faraón, diciendo: NoH6030
+- Gén_41:25respondió José a Faraón: El sueño deH559
+- Gén_41:28lo que respondo a Faraón. Lo que DiosH1696
+- Gén_42:7respondieron: De la tierra de CanaánH559
+- Gén_42:10respondieron: No, señor nuestro, sinoH559
+- Gén_42:13respondieron: Tus siervos somos doceH559
+- Gén_42:22Rubén les respondió, diciendo: ¿No osH6030
+- Gén_43:3respondió Judá, diciendo: Aquel varónH559
+- Gén_43:7respondieron: Aquel varón nos preguntóH559
+- Gén_43:9yo te respondo por él; a mí me pedirásH6148
+- Gén_43:11Israel...les respondió: Pues que así esH559
+- Gén_43:23respondió: Paz a vosotros, no temáisH559
+- Gén_43:28ellos respondieron: Bien va a tu siervoH559
+- Gén_44:7le respondieron: ¿Por qué dice nuestroH559
+- Gén_44:17José respondió: Nunca yo tal haga. ElH559
+- Gén_44:20y respondimos a mi señor: Tenemos unH559
+- Gén_44:26nosotros respondimos: No podemos ir; siH559
+- Gén_45:3y sus hermanos no pudieron responderleH6030
+- Gén_46:2Jacob, Jacob. Y él respondió: Heme aquíH559
+- Gén_47:3ellos respondieron a Faraón: Pastores deH559
+- Gén_47:9Jacob respondió...Los días de los años deH559
+- Gén_47:25y ellos respondieron: La vida nos hasH559
+- Gén_47:30y José respondió: Haré como tú dicesH559
+- Gén_48:9y respondió José a su padre: Son misH559
+- Gén_50:19les respondió José: No temáis; ¿acaso
+- Éxo_1:19y las parteras respondieron a FaraónH559
+- Éxo_2:8la hija de Faraón respondió: Vé...fue laH559
+- Éxo_2:14él respondió: ¿Quién te ha puesto a tiH559
+- Éxo_2:19ellas respondieron: Un varón egipcioH559
+- Éxo_3:4lo llamó Dios...Y él respondió: Heme aquíH559
+- Éxo_3:11Moisés respondió a Dios: ¿Quién soy yoH559
+- Éxo_3:12respondió: Ve, porque yo estaré contigoH559
+- Éxo_3:13si...me preguntaren...¿qué les responderéH559
+- Éxo_3:14respondió Dios a Moisés: YO SOY EL QUEH559
+- Éxo_4:1Moisés respondió...que ellos no me creeránH6030
+- Éxo_4:2¿qué es eso que...Y él respondió: Una varaH559
+- Éxo_4:11Jehová le respondió: ¿Quién dio la bocaH559
+- Éxo_5:2Faraón respondió: ¿Quién es Jehová, paraH559
+- Éxo_5:17respondió: Estáis ociosos, sí, ociososH559
+- Éxo_6:1Jehová respondió a Moisés: Ahora verás loH559
+- Éxo_6:12respondió Moisés delante de Jehová: HeH1696
+- Éxo_6:30Moisés respondió...Jehová...soy torpe deH559
+- Éxo_7:9Faraón os respondiere diciendo: MostradH1696
+- Éxo_8:10y Moisés respondió: Se hará conforme aH559
+- Éxo_8:26Moisés respondió: No conviene que...asíH559
+- Éxo_8:29respondió Moisés: He aquí, al salir yoH559
+- Éxo_9:29y le respondió Moisés: Tan pronto salgaH559
+- Éxo_10:9Moisés respondió. Hemos de ir...niños yH559
+- Éxo_10:25Moisés respondió...nos darás sacrificiosH559
+- Éxo_10:29y Moisés respondió: Bien has dicho; noH559
+- Éxo_12:27responderéis: Es la víctima...la pascuaH559
+- Éxo_15:21María les respondía: Cantad a JehováH6030
+- Éxo_18:15Moisés respondió a su suegro: PorqueH559
+- Éxo_19:8pueblo respondió a una, y dijeron: TodoH6030
+- Éxo_19:19Moisés hablaba, y Dios le respondía conH6030
+- Éxo_20:20Moisés respondió al pueblo: No temáisH559
+- Éxo_23:2ni responderás en litigio inclinándoteH6030
+- Éxo_24:3el pueblo respondió a una voz, y dijoH6030
+- Éxo_32:18él respondió: No es voz de alaridos deH559
+- Éxo_32:22respondió Aarón: No se enoje mi señorH559
+- Éxo_32:24y yo les respondí: ¿Quién tiene oro?[[H559]]
+- Éxo_32:33respondió a Moisés: Al que pecare contraH559
+- Éxo_33:15Moisés respondió: Si tu presencia no haH559
+- Éxo_33:19respondió: Yo haré pasar todo mi bienH559
+- Lev_10:19respondió Aarón a Moisés: He aquí hoyH1696
+- Núm_9:8Moisés les respondió: Esperad, y oiréH559
+- Núm_10:30y él le respondió: Yo no iré, sino queH559
+- Núm_11:23Jehová respondió a Moisés: ¿Acaso seH559
+- Núm_11:28respondió Josué...ayudante de MoisésH6030
+- Núm_11:29Moisés le respondió: ¿Tienes tú celosH559
+- Núm_12:14respondió Jehová a Moisés: Pues si suH559
+- Núm_14:13pero Moisés respondió a Jehová: Lo oiránH559
+- Núm_16:12mas ellos respondieron: No iremos alláH559
+- Núm_20:18Edom le respondió: No pasarás por miH559
+- Núm_20:20él respondió: No pasarás. Y salió EdomH559
+- Núm_22:10Balaam respondió a Dios: Balac hijo deH559
+- Núm_22:18Balaam respondió y dijo a los siervosH6030
+- Núm_22:29Balaam respondió al asna: Porque te hasH559
+- Núm_22:30¿he acostumbrado...Y él respondió: NoH559
+- Núm_22:38Balaam respondió a Balac...yo he venidoH559
+- Núm_23:12respondió y dijo: ¿No cuidaré de decirH6030
+- Núm_23:26Balaam respondió y dijo a Balac: ¿NoH559
+- Núm_24:12Balaam le respondió: ¿No lo declaré yoH559
+- Núm_27:6y Jehová respondió a Moisés, diciendoH559
+- Núm_27:15respondió Moisés a Jehová, diciendoH1696
+- Núm_32:6respondió Moisés a los hijos de Gad yH559
+- Núm_32:20respondió Moisés: Si lo hacéis así, siH559
+- Núm_32:31los hijos de Gad...Rubén respondieronH6030
+- Deu_1:14respondisteis y dijisteis: Bueno esH6030
+- Deu_1:41entonces respondisteis y...Hemos pecadoH6030
+- Deu_20:11si respondiere: Paz, y te abriere, todoH6030
+- Deu_27:15todo el pueblo responderá y dirá: AménH6030
+- Deu_29:25y responderán: Por cuanto dejaron elH559
+- Deu_31:21este cántico responderá en su cara comoH6030
+- Jos_1:16respondieron a Josué...haremos todasH6030
+- Jos_2:14le respondieron: Nuestra vida responderáH559
+- Jos_2:21ella respondió: Sea así como habéis dichoH559
+- Jos_4:7responderéis: Que las aguas del JordánH559
+- Jos_5:14él respondió: No; mas como Príncipe delH559
+- Jos_5:15el Príncipe...respondió a Josué: QuitaH559
+- Jos_7:20y Acán respondió a Josué...yo he pecadoH559
+- Jos_9:7los de Israel respondieron a los heveosH559
+- Jos_9:8respondieron a Josué...somos tus siervosH559
+- Jos_9:9respondieron: Tus siervos han venido deH559
+- Jos_9:19los príncipes respondieron...hemos juradoH559
+- Jos_9:24y ellos respondieron a Josué y dijeronH6030
+- Jos_15:19respondió: Concédeme un don; puestoH559
+- Jos_17:15y Josué les respondió: Si sois puebloH559
+- Jos_17:17Josué respondió a la casa de José, aH559
+- Jos_22:21los hijos de Rubén y...Gad...respondieronH6030
+- Jos_22:28responderemos: Mirad el símil del altarH559
+- Jos_24:16el pueblo respondió y dijo: Nunca talH6030
+- Jos_24:22y Josué respondió al pueblo: VosotrosH559
+- Jos_24:22y ellos respondieron: Testigos somosH559
+- Jos_24:24pueblo respondió...A Jehová...serviremosH559
+- Jue_1:2y Jehová respondió: Judá subirá; heH559
+- Jue_1:15ella..le respondió: Concédeme un donH559
+- Jue_4:8Barac le respondió: Si tú fueres...yo iréH559
+- Jue_4:20¿hay aquí alguno? tú responderás que noH559
+- Jue_5:29sus damas le respondían, y aún ella seH559
+- Jue_5:29damas...aun ella se respondía a sí misma
+- Jue_6:13Gedeón le respondió: Ah, señor mio, siH559
+- Jue_6:15le respondió: Ah, señor mío, ¿con quéH559
+- Jue_6:17respondió: Yo te ruego que si he halladoH559
+- Jue_6:18y él respondió: Yo esperaré hasta queH559
+- Jue_6:31Joás respondió a todos los que estabanH559
+- Jue_7:14su compañero respondió...Esto no es otraH6030
+- Jue_8:2los cuales él respondió: ¿Qué he hecho yoH559
+- Jue_8:6de Sucot respondieron: ¿Están ya Zeba yH559
+- Jue_8:8respondieron como habían respondido losH6030
+- Jue_8:18ellos respondieron: Como tú, así eranH559
+- Jue_8:23Gedeón respondió: No seré señor sobreH559
+- Jue_8:25ellos respondieron: De buena gana te losH559
+- Jue_9:9olivo respondió: ¿He de dejar mi aceiteH559
+- Jue_9:11respondió la higuera: ¿He de dejar miH559
+- Jue_9:13la vid les respondió: ¿He de dejar miH559
+- Jue_9:15y la zarza respondió...Si en verdad meH559
+- Jue_9:36y Zebul le respondió: Tú ves la sombraH559
+- Jue_9:38Zebul le respondió ¿Dónde está...tu bocaH559
+- Jue_10:11Jehová respondió a los hijos de IsraelH559
+- Jue_10:15hijos de Israel respondieron a JehováH559
+- Jue_11:7Jefté respondió a los ancianos de GalaadH559
+- Jue_11:8, Jue_11:10los ancianos...respondieron a JeftéH559
+- Jue_11:13rey...respondió a los mensajeros de JeftéH559
+- Jue_11:36ella...le respondió: Padre mío, si le hasH559
+- Jue_12:2y Jefté les respondió: Yo y mi puebloH559
+- Jue_12:5¿eres tú efrateo? Si él respondía: NoH559
+- Jue_13:13el ángel...respondió a Manoa: La mujerH559
+- Jue_13:16y el ángel de Jehová respondió a ManoaH559
+- Jue_13:18el ángel...respondió: ¿Por qué preguntasH559
+- Jue_13:23y su mujer le respondió: Si Jehová nosH559
+- Jue_14:3Sansón respondió...Tómame ésta por mujerH559
+- Jue_14:13y ellos respondieron: Propón tu enigmaH559
+- Jue_14:16él respondió...He aquí que ni a mi padreH559
+- Jue_14:18y él les respondió: Si no araseis conH559
+- Jue_15:10ellos respondieron: A prender a SansónH559
+- Jue_15:11él les respondió: Yo les he hecho como 559
+- Jue_15:12y Sansón les respondió: Juradme queH559
+- Jue_15:13ellos le respondieron...No; solamente teH559
+- Jue_16:7le respondió Sansón: Si me ataren conH559
+- Jue_17:9el levita le respondió: Soy de Belén deH559
+- Jue_18:4les respondió...De esta y de esta manera haH559
+- Jue_18:6y el sacerdote les respondió: Id en pazH559
+- Jue_18:8dijeron: ¿Qué hay? Y ellos respondieronH559
+- Jue_18:19y ellos le respondieron: Calla, pon laH559
+- Jue_18:24respondió: Tomasteis mis dioses que yoH559
+- Jue_19:12señor le respondió: No iremos a ningunaH559
+- Jue_19:18respondió: Pasamos de Belén de Judá aH559
+- Jue_19:28dijo: Levántate...pero ella no respondióH559
+- Jue_20:4el varón...respondió y dijo: Yo llegué aH559
+- Jue_20:18Jehová respondió: Judá será el primeroH559
+- Jue_20:23Jehová...respondió: Subid contra ellosH559
+- Rut_1:11Noemí respondió: Volveos, hijas míasH559
+- Rut_1:16respondió Rut: No me ruegues que te dejeH559
+- Rut_1:20ella les respondía: No me llaméis NoemíH559
+- Rut_2:2me dejes ir...le respondió: Vé, hija míaH559
+- Rut_2:4y ellos respondieron: Jehová te bendigaH559
+- Rut_2:6el criado...respondió y dijo: Es la jovenH559
+- Rut_2:11y respondiendo Booz, le dijo: He sabidoH559
+- Rut_2:22Noemí respondió...Mejor es, hija mía, queH559
+- Rut_3:5respondió: Haré todo lo que tú me mandesH559
+- Rut_3:9él dijo: ¿Quién eres? Y ella respondióH559
+- Rut_4:4no hay otro...Y él respondió: Yo redimiréH559
+- Rut_4:6respondió el pariente: No puedo redimirH559
+- 1Sa_1:15Ana le respondió diciendo: No señorH559
+- 1Sa_1:17Elí respondió...Vé en paz, y el Dios deH559
+- 1Sa_1:23Elcana...le respondió...Haz lo que bien teH559
+- 1Sa_2:16y si el hombre le respondía: Quemen laH559
+- 1Sa_2:16él respondía: No, sino dámela ahora; deH559
+- 1Sa_3:4Jehová llamó a Samuel; y él respondióH559
+- 1Sa_3:16llamando...Elí...él respondió: Heme aquiH559
+- 1Sa_4:17y el mensajero respondió...Israel huyóH559
+- 1Sa_4:20no respondió, ni se dio por entendidaH1696
+- 1Sa_5:8respondieron: Pásese el arca del Dios deH559
+- 1Sa_6:4ellos respondieron: Conforme al número deH559
+- 1Sa_8:18mas Jehová no os responderá en aquel díaH6030
+- 1Sa_9:6le respondió: He aquí ahora hay en estaH559
+- 1Sa_9:7respondió Saúl a su criado: Vamos ahoraH559
+- 1Sa_9:8volvió el criado a responder a Saúl...HeH559
+- 1Sa_9:12respondiéndoles, dijeron: Sí; helo allíH559
+- 1Sa_9:19Samuel respondió a Saúl, diciendo: Yo soyH559
+- 1Sa_9:21respondió...¿No soy yo hijo de BenjamínH559
+- 1Sa_10:12alguno de allí respondió...¿Y quién es elH559
+- 1Sa_10:14respondió: A buscar las asnas; y comoH559
+- 1Sa_10:16y Saúl respondió a su tío: Nos declaróH559
+- 1Sa_10:22respondió Jehová: He aquí que él estáH559
+- 1Sa_11:2Nabas...les respondió: Con esta condiciónH559
+- 1Sa_11:9respondieron a los mensajeros...diréis aH559
+- 1Sa_12:5no habéis hallado...respondieron: Así esH559
+- 1Sa_12:20Samuel respondió al pueblo: No temáisH559
+- 1Sa_13:11Saúl respondió: Porque vi que el puebloH559
+- 1Sa_14:7su paje...le respondió: Haz todo lo queH559
+- 1Sa_14:12los hombres...respondieron a Jonatán yH559
+- 1Sa_14:29respondió Jonatán: Mi padre ha turbadoH559
+- 1Sa_14:39no hubo en todo...quien le respondieseH6030
+- 1Sa_14:40el pueblo respondió...Haz lo que bien teH559
+- 1Sa_14:44Saúl respondió: Así me haga Dios y aunH559
+- 1Sa_15:15Saúl respondió: De Amalec...han traídoH559
+- 1Sa_15:16déjame declararte...él le respondió: DiH559
+- 1Sa_15:20y Saúl respondió a Samuel: Antes bienH559
+- 1Sa_15:26Samuel respondió...No volveré contigoH559
+- 1Sa_16:2Jehová respondió: Toma...una becerra deH559
+- 1Sa_16:5él respondió: Sí...a ofrecer sacrificioH559
+- 1Sa_16:7Jehová respondió a Samuel: No mires a suH559
+- 1Sa_16:11él respondió: Queda aún el menor, queH559
+- 1Sa_16:17Saúl respondió...Buscadme, pues, ahoraH559
+- 1Sa_16:18uno de...respondió diciendo: He aquí yoH559
+- 1Sa_17:27el pueblo le respondió las...palabrasH559
+- 1Sa_17:29David respondió: ¿Qué he hecho...ahora?[[H559]]
+- 1Sa_17:34David respondió a Saúl: Tu siervo eraH559
+- 1Sa_17:55¿de quién es hijo...Y Abner respondióH559
+- 1Sa_17:58David respondió: Yo soy hijo de...IsaíH559
+- 1Sa_18:18David respondió...¿Quién soy yo, o quéH559
+- 1Sa_19:14Saúl envió...ella respondió...Está enfermoH559
+- 1Sa_19:17y Mical respondió a Saúl: Porque él meH559
+- 1Sa_19:22uno respondió: He aquí están en NaíotH559
+- 1Sa_20:5respondió, que mañana será nueva lunaH559
+- 1Sa_20:10si tu padre te respondiere ásperamente?[[H6030]]
+- 1Sa_20:28y Jonatán respondió a...David me pidióH6030
+- 1Sa_20:32Jonatán respondió a su padre Saúl y leH559
+- 1Sa_21:2respondió David al sacerdote...El rey meH559
+- 1Sa_21:4sacerdote respondió...No tengo pan comúnH559
+- 1Sa_21:5David respondió al sacerdote, y le dijoH559
+- 1Sa_21:9y el sacerdote respondió: La espada deH559
+- 1Sa_22:9Doeg...respondió...Yo vi al hijo de IsaíH559
+- 1Sa_22:14entonces Ahimelec respondió al rey, yH559
+- 1Sa_23:2y Jehová respondió a David: Vé, ataca aH559
+- 1Sa_23:4Jehová le respondió y dijo: LevántateH559
+- 1Sa_23:12¿me...Y Jehová respondió: Os entregaránH559
+- 1Sa_25:10Nabal respondió a los...¿Quién es DavidH559
+- 1Sa_26:9David respondió a Abisai: No le matesH559
+- 1Sa_26:14¿no respondes, Abner? Entonces AbnerH6030
+- 1Sa_26:14Abner respondió y dijo: ¿Quién eres túH559
+- 1Sa_26:17David respondió: Mi voz es, rey señorH559
+- 1Sa_26:22David respondió...He aquí la lanza delH559
+- 1Sa_28:2David respondió a...Muy bien, tú sabrásH559
+- 1Sa_28:6Jehová no le respondió ni por sueños, niH559
+- 1Sa_28:7criados le respondieron...hay una mujerH559
+- 1Sa_28:11y él respondió...Hazme venir a SamuelH559
+- 1Sa_28:13la mujer respondió...He visto dioses queH559
+- 1Sa_28:14ella respondió: Un hombre anciano vieneH559
+- 1Sa_28:15y Saúl respondió: Estoy muy angustiadoH559
+- 1Sa_28:15Dios se ha apartado...y no me respondeH6030
+- 1Sa_29:3Aquis respondió...¿No es éste David, elH559
+- 1Sa_29:8David respondió a Aquis: ¿Qué he hecho?[[H559]]
+- 1Sa_29:9Aquis respondió a David...sé que tú eresH559
+- 1Sa_30:13respondió el joven...Yo soy siervo de unH559
+- 1Sa_30:22todos los malos...respondieron y dijeronH559
+- 2Sa_1:3respondió: Me he escapado...de IsraelH559
+- 2Sa_1:4respondió: El pueblo huyó de la batallaH559
+- 2Sa_1:6el joven...respondió: Casualmente vine alH559
+- 2Sa_1:8¿quién eres tú?...respondí...Soy amalecitaH559
+- 2Sa_1:13respondió: Yo soy hijo de un extranjeroH559
+- 2Sa_2:1¿subiré a...Y Jehová le respondió: SubeH559
+- 2Sa_2:14dijo Abner...Joab respondió: LevántenseH559
+- 2Sa_2:20¿no eres tú Asael? Y él respondió: SíH559
+- 2Sa_2:27y Joab respondió: Vive Dios, que si noH559
+- 2Sa_3:11y él no pudo responder palabra a AbnerH7725
+- 2Sa_4:9David respondió a Recab y a...Vive JehováH559
+- 2Sa_5:19¿iré contra...Jehová respondió a David: VéH559
+- 2Sa_5:23le respondió: No subas, sino rodéalosH559
+- 2Sa_6:21David respondió a Mical: Fue delante deH559
+- 2Sa_9:2¿eres tú Siba? Y él respondió: Tu siervoH559
+- 2Sa_9:3y Siba respondió al rey: Aún ha quedadoH559
+- 2Sa_9:4Siba respondió al rey: He aquí, está enH559
+- 2Sa_9:6Mefi-boset...respondió: He aquí tu, siervoH559
+- 2Sa_9:11respondió Siba al rey: Conforme a todoH559
+- 2Sa_11:11y Urías respondió...El arca e Israel yH559
+- 2Sa_12:19niño? Y ellos respondieron: Ha muertoH559
+- 2Sa_12:22él respondió: Viviendo aún el niño, yoH559
+- 2Sa_13:4y Amnón le respondió: Yo amo a Tamar laH559
+- 2Sa_13:12ella...respondió. No, hermano mío, no meH559
+- 2Sa_13:16ella le respondió: No hay razón; mayorH559
+- 2Sa_13:25respondió el rey a Absalón: No, hijo míoH559
+- 2Sa_13:26el rey le respondió: ¿Para qué ha de irH559
+- 2Sa_14:5ella respondió: Yo a la verdad soy...viudaH559
+- 2Sa_14:11respondió: Vive Jehová, que no caerá niH559
+- 2Sa_14:18David respondió..no me encubras nadaH559
+- 2Sa_14:19la mujer respondió...Vive tu alma, reyH559
+- 2Sa_14:32Absalón respondió, yo he enviado por tiH559
+- 2Sa_15:2él respondía: Tu siervo es de una de lasH559
+- 2Sa_15:21respondió Itai al rey, diciendo: ViveH559
+- 2Sa_16:2Siba respondió: Los asnos son para queH559
+- 2Sa_16:3Siba respondió al rey...él se ha quedadoH559
+- 2Sa_16:4respondió Siba inclinándose: Rey señorH559
+- 2Sa_16:10y el rey respondió: ¿Qué tengo yo conH559
+- 2Sa_16:18Husai respondió a Absalón: No, sino queH559
+- 2Sa_17:20la mujer les respondió: Ya han pasadoH559
+- 2Sa_18:11Joab respondió al hombre...Y viéndolo túH559
+- 2Sa_18:14respondió Joab: No malgastaré mi tiempoH559
+- 2Sa_18:20respondió Joab...no llevarás las nuevasH559
+- 2Sa_18:23respondió: Sea como fuere, yo correré
+- 2Sa_18:27y respondió el rey...es hombre de bienH559
+- 2Sa_18:29Ahimaas respondió: Vi yo un...alborotoH559
+- 2Sa_18:32el etíope respondió: Como aquel jovenH559
+- 2Sa_19:21respondió Abisai...¿No ha de morir porH559
+- 2Sa_19:26él respondió: Rey señor mío, mi siervoH559
+- 2Sa_19:42Judá respondieron a todos los de IsraelH6030
+- 2Sa_19:43respondieron los...de Israel, y dijeronH559
+- 2Sa_20:17¿eres tú Joab? Y él respondió: Yo soyH559
+- 2Sa_20:17ella le dijo: Oye...él respondió: oigoH559
+- 2Sa_20:20Joab respondió...Nunca tal, nunca talH559
+- 2Sa_21:4gabaonitas le respondieron: No tenemosH559
+- 2Sa_21:5respondieron al rey: De aquel hombre queH559
+- 2Sa_24:3Joab respondió al rey: Añada Jehová tuH559
+- 2Sa_24:13qué responderé al que me ha enviadoH1697
+- 2Sa_24:21David respondió...Para comprar...la eraH559
+- 1Re_1:17le respondió: Señor mío, tú jurasteH559
+- 1Re_1:28rey David respondió...Llamadme a BetsabéH559
+- 1Re_1:36Benaía...respondió al rey y dijo: AménH559
+- 1Re_1:43Jonatán respondió...David ha hecho rey aH559
+- 1Re_2:13venida de paz? El respondió: Sí, de pazH559
+- 1Re_2:22el rey Salomón respondió...¿Por qué pidesH559
+- 1Re_2:30al rey...Así dijo Joab, y así me respondióH559
+- 1Re_3:27el rey respondió...Dad a aquélla el hijoH559
+- 1Re_11:22Faraón le respondió: ¿Por qué? ¿Qué teH559
+- 1Re_11:22él respondió. Nada; con todo, te ruegoH559
+- 1Re_12:6¿cómo aconsejáis...que responda a esteH1697
+- 1Re_12:7y respondiéndoles buenas palabras lesH6030
+- 1Re_12:9que respondamos a este pueblo, que meH1697
+- 1Re_12:10los jóvenes...le respondieron diciendoH559
+- 1Re_12:13y el rey respondió al pueblo duramenteH559
+- 1Re_12:16le respondió estas palabras, diciendoH559
+- 1Re_13:6respondiendo el rey, dijo al varón deH559
+- 1Re_13:16él respondió: No podré volver contigoH559
+- 1Re_14:5y así le responderás, pues cuando ellaH559
+- 1Re_17:12y ella respondió: Vive Jehová tu DiosH559
+- 1Re_18:8respondió...Yo soy; vé, dí a tu amo: AquíH559
+- 1Re_18:10han respondido: No está aquí; y a reinosH559
+- 1Re_18:18él respondió: Yo no he turbado a IsraelH559
+- 1Re_18:21Baal...Y el pueblo no respondió palabraH6030
+- 1Re_18:24el Dios que respondiere por...fuego, éseH6030
+- 1Re_18:24y todo el pueblo respondió...Bien dichoH6030
+- 1Re_18:26diciendo: ¡Baal, respóndenos! Pero noH6030
+- 1Re_18:26pero no había voz, ni quien respondieseH6030
+- 1Re_18:29hubo ninguna voz, ni quién respondieseH6030
+- 1Re_18:37respóndeme, Jehová, r, para que conozcaH6030
+- 1Re_19:10, 1Re_19:14respondió: He sentido un vivo celoH6030
+- 1Re_20:4rey de Israel respondió y dijo: Como túH6030
+- 1Re_20:8pueblo le respondieron: No le obedezcasH6030
+- 1Re_20:9él respondió a los embajadores...Decid alH6030
+- 1Re_20:11rey...respondió y dijo: Decidle que noH6030
+- 1Re_20:14y respondió Acab: ¿Por mano de quién?[[H6030]]
+- 1Re_20:14¿quién comenzará la...Y él respondió: TúH6030
+- 1Re_20:32respondió: Si él vive aún, mi hermanoH6030
+- 1Re_21:3y Nabot respondió...Guárdeme Jehová deH6030
+- 1Re_21:4palabra que Nabot...le había respondidoH6030
+- 1Re_21:6él respondió: Porque hablé con Nabot deH6030
+- 1Re_21:6y él respondió: Yo no te daré mi viñaH559
+- 1Re_21:20respondió: Te he encontrado, porque teH559
+- 1Re_22:4Josafat respondió al rey...Yo soy comoH559
+- 1Re_22:8rey de Israel respondió a Josafat: AúnH559
+- 1Re_22:14Micaías respondió: Vive Jehová, que loH559
+- 1Re_22:15le respondió: Sube, y serás prosperadoH559
+- 1Re_22:25Micaías respondió...tú lo verás en aquelH559
+- 2Re_1:6respondieron: Encontramos a un varónH559
+- 2Re_1:8respondieron: Un varón que tenía vestidoH559
+- 2Re_1:10, 2Re_1:12respondió...si yo soy varón de DiosH6030
+- 2Re_2:5¿sabes...respondió: Sí, yo lo sé; calladH559
+- 2Re_3:7respondió: Iré, porque yo soy como tú; miH559
+- 2Re_3:8él respondió: Por el camino del desiertoH559
+- 2Re_3:11y uno de los siervos...respondió y dijoH559
+- 2Re_3:13rey de Israel le respondió: No; porqueH559
+- 2Re_4:13ella respondió: Yo habito en medio de miH559
+- 2Re_4:14Giezi respondió...que ella no tiene hijoH559
+- 2Re_4:23¿para qué vas a...Y ella respondió: PazH559
+- 2Re_4:29si alguno te saludare, no le respondasH6030
+- 2Re_4:43y respondió su sirviente: ¿Cómo pondréH559
+- 2Re_6:3que vengas con...Y él respondió: Yo iréH559
+- 2Re_6:22él le respondió: No los mates...¿MataríasH559
+- 2Re_6:28ella respondió: Esta mujer me dijo: DaH559
+- 2Re_7:2un príncipe...respondió al varón de DiosH559
+- 2Re_7:13entonces respondió uno de sus siervos yH559
+- 2Re_7:19había respondido al...Si Jehová hicieseH559
+- 2Re_8:12respondió: Porque sé el mal que harás aH559
+- 2Re_8:13respondió Elíseo: Jehová me ha mostradoH559
+- 2Re_8:14y él respondió: Me dijo que...sanarásH559
+- 2Re_9:19y Jebú respondió: Qué tienes tú que verH559
+- 2Re_9:22él respondió: ¿Qué paz, con...de JezabelH559
+- 2Re_18:36pero el pueblo...no le respondió palabraH6030
+- 2Re_18:36del rey...había dicho: No le respondáisH6030
+- 2Re_19:6Isaías...respondió: Así diréis a vuestroH559
+- 2Re_20:9respondió Isaías: Esta señal tendrás deH559
+- 2Re_20:10Ezequías respondió: Fácil cosa es queH559
+- 2Re_20:14Ezequías le respondió: De...BabiloniaH559
+- 2Re_20:15Ezequías respondió: Vieron todo lo queH559
+- 2Re_23:17respondieron: Este es el sepulcro delH559
+- 1Cr_21:12qué responderé al que me ha enviadoH1697
+- 1Cr_21:23Ornán respondió a David: Tómala para tiH559
+- 1Cr_21:26quien le respondió por fuego desde losH6030
+- 2Cr_2:11Hiram...de Tiro respondió por escritoH559
+- 2Cr_7:22responderá: Por cuanto dejaron a JehováH559
+- 2Cr_9:2pero Salomón le respondió, sus preguntasH5046
+- 2Cr_10:6dijo: ¿Cómo aconsejáis...que responda aH1697
+- 2Cr_10:9qué aconsejáis vosotros que respondamosH1697
+- 2Cr_10:13el rey les respondió ásperamente; puesH6030
+- 2Cr_10:16respondió el pueblo al rey, diciendoH7725
+- 2Cr_18:3respondió: Yo soy como tú, y mi puebloH559
+- 2Cr_18:7el rey...respondió a Josafat: Aún hay aquiH559
+- 2Cr_18:7respondió Josafat: No hable así el reyH559
+- 2Cr_18:14respondió: Subid, y seréis prosperadosH559
+- 2Cr_18:24Micaías respondió...tú lo verás aquel díaH559
+- 2Cr_25:9el varón...respondió: Jehová puede darteH559
+- 2Cr_25:16él le respondió: ¿Te han puesto a ti porH559
+- 2Cr_29:31respondiendo Ezequías, dijo: VosotrosH6030
+- 2Cr_32:24oró a Jehová, quien le respondió, y leH559
+- 2Cr_34:23ella respondió: Jehová Dios de IsraelH559
+- Esd_5:5entonces respondieron por carta sobreH8421
+- Esd_5:11respondieron...Nosotros somos siervos delH6600
+- Esd_10:2respondió Secanías hijo...y dijo a EsdrasH6030
+- Esd_10:12y respondió toda la asamblea, y dijeronH6030
+- Neh_5:8callaron...no tuvieron qué responderH1696
+- Neh_5:13respondió toda la congregación: ¡AménH559
+- Neh_6:4enviaron...les respondí de la misma maneraH7725
+- Neh_8:6todo el pueblo respondió: ¡Amén! ¡Amén![[H6030]]
+- Est_4:13Mardoqueo que respondiesen a EsterH7725
+- Est_4:15Ester dijo que respondiesen a Mardoqueo
+- Est_5:5respondió el rey: Daos prisa, llamad aH559
+- Est_5:7respondió Ester y dijo: Mi petición y miH6039
+- Est_6:3respondieron los servidores del rey, susH559
+- Est_6:5y los servidores del rey le respondieronH559
+- Est_6:7respondió Amán al rey: Para el varón cuyaH559
+- Est_7:3Ester respondió y...Oh rey, si he halladoH6030
+- Est_7:5respondió el rey...¿Quién es, y dónde estáH559
+- Est_8:7respondió el rey Asuero...he dado a EsterH559
+- Est_9:13y respondió Ester: Si place al reyH559
+- Job_1:7respondiendo Satanás...dijo: De rodearH6030
+- Job_1:9respondiendo Satanás...dijo: ¿Acaso temeH6030
+- Job_2:2respondió Satanás...De rodear la tierra, yH6030
+- Job_2:4respondiendo Satanás, dijo...Piel por pielH6030
+- Job_4:1; Job_15:1; Job_22:1respondió Elifaz temanita, yH6030
+- Job_5:1pues, da voces; ¿habrá quién te responda?[[H6030]]
+- Job_6:1; Job_12:1respondió entonces Job, y dijoH6030
+- Job_8:1; Job_18:1; Job_25:1respondió Bildad suhita, yH6030
+- Job_9:1; Job_16:1; Job_19:1; Job_21:1; Job_23:1; Job_26:1; Job_42:1respondió Job, y dijoH6030
+- Job_9:3no le podrá responder a una cosa entreH6030
+- Job_9:14¿cuánto menos le responderé...y hablareH6030
+- Job_9:15aunque fuese yo justo, no responderíaH6030
+- Job_9:16si yo le invocara, y él me respondieseH6030
+- Job_9:32no es hombre...para que yo le respondaH6030
+- Job_11:1; Job_20:1respondió Zofar naamatita, y dijoH6030
+- Job_12:4uno...que invoca a Dios, y él le respondeH6030
+- Job_13:22llama luego, y yo responderé; o yoH6030
+- Job_13:22llama...o yo hablaré, y respóndeme túH7725
+- Job_14:15entonces llamarás, y yo te responderéH6030
+- Job_16:3palabras...¿O qué te anima a responder?[[H6030]]
+- Job_17:3porque ¿quién querría responder por mi
+- Job_19:16llamé a mi siervo, y no respondió; deH6030
+- Job_20:1Respondió Zofar naamatita, y dijoH6030
+- Job_20:2mis pensamientos me hacen responder, yH6030
+- Job_20:3hace responder el...de mi inteligenciaH6030
+- Job_23:5yo sabría lo que él me respondiese, yH6030
+- Job_31:14él preguntara, ¿qué le respondería yoH6030
+- Job_32:1cesaron estos tres...de responder a JobH6030
+- Job_32:3en ira...porque no hallaban qué responderH6030
+- Job_32:6respondió Eliú hijo...dijo: Yo soy jovenH6030
+- Job_32:12redarguya a...y responda a sus razonesH6030
+- Job_32:14ni yo...responderé con vuestras razonesH7725
+- Job_32:15se espantaron, no respondieron más; seH6030
+- Job_32:16más bien callaron y no respondieronH6030
+- Job_32:17por eso yo también responderé mi parteH6030
+- Job_32:20pues...abriré mis labios, y responderéH6030
+- Job_33:5respóndeme si puedes; ordena...palabrasH7725
+- Job_33:12te responderé que mayor es Dios que elH6030
+- Job_33:32si tienes razones, respóndeme; hablaH7725
+- Job_35:4yo te responderé razones, y a...contigoH4405
+- Job_38:1; Job_40:1respondió Jehová a Job...y dijoH6030
+- Job_40:2el que disputa con Dios, responda a estoH6030
+- Job_40:3; Job_42:1respondió Job a Jehová, y dijoH6030
+- Job_40:4aquí que yo soy vil; ¿qué te responderé?[[H7725]]
+- Job_40:5una vez hablé, mas no responderé; aun dosH6030
+- Job_40:6respondió Jehová a Job desde el...y dijoH6030
+- Job_40:7yo te preguntaré, y tú me responderásH3045
+- Sal_3:4él me respondió desde su monte santoH6030
+- Sal_4:1respóndeme cuando clamo, oh Dios de miH6030
+- Sal_13:3respóndeme, oh Jehová Dios mío; alumbraH6030
+- Sal_22:2Dios mío, clamo de día, y no respondesH6030
+- Sal_27:7oye...ten misericordia de mí, y respóndemeH6030
+- Sal_38:15porque..tú responderás, Jehová Dios míoH6030
+- Sal_55:2está atento, y respóndeme; clamo en miH6030
+- Sal_65:5responderás tú en justicia, oh Dios deH6030
+- Sal_69:16respóndeme, Jehová, porque benigna esH6030
+- Sal_81:7te respondí en lo secreto del truenoH6030
+- Sal_86:7en...te llamaré, porque tú me respondesH6030
+- Sal_91:15me invocará, y yo le responderé; con élH6030
+- Sal_99:6invocaban a Jehová, y él les respondíaH6030
+- Sal_99:8Jehová Dios nuestro, tú les respondíasH6030
+- Sal_102:2apresúrate a responderme el día que teH6030
+- Sal_108:6para...salva con tu diestra y respóndemeH6030
+- Sal_118:5angustia invoqué a JAH, y me respondióH6030
+- Sal_119:26te he manifestado...y me has respondidoH6030
+- Sal_119:145clamé con todo mi corazón; respóndemeH6030
+- Sal_120:1estando en angustia, y él me respondióH6030
+- Sal_138:3el día que clamé, me respondiste; meH6030
+- Sal_143:1mis ruegos; respóndeme por tu verdadH6030
+- Sal_143:7respóndeme pronto, oh Jehová, porqueH6030
+- Pro_1:28entonces me llamarán, y no responderéH6030
+- Pro_15:28el corazón del...piensa para responderH6030
+- Pro_18:13al que responde palabra antes de oír, leH7725
+- Pro_18:23con ruegos, mas el rico responde durezasH6030
+- Pro_24:26labios del que responde palabras rectasH1697
+- Pro_26:4nunca respondas al necio de acuerdo conH6030
+- Pro_26:5responde al necio como merece su necedadH6030
+- Pro_27:11tendré que responder al que me agravieH1697
+- Cnt_5:6lo busqué...lo llamé, y no me respondióH6030
+- Isa_6:8respondí yo: Heme aquí, envíame a míH559
+- Isa_6:11y respondió él: Hasta que las ciudadesH559
+- Isa_7:12respondió Acaz: No pediré, y no tentaréH559
+- Isa_8:19responded: ¿No consultará el pueblo aH1897
+- Isa_14:32y qué se responderá a los mensajeros deH6030
+- Isa_21:12el guarda respondió: La mañana viene, yH559
+- Isa_30:19oír la voz de tu clamor te responderáH6030
+- Isa_36:21y no le respondieron...No le respondáisH6030
+- Isa_39:3y Ezequías respondió: De...de BabiloniaH559
+- Isa_40:6respondí: ¿Qué tengo que decir a voces?[[H559]]
+- Isa_41:28les pregunté, y no respondieron palabraH7725
+- Isa_46:7le gritan, y tampoco responde, ni libraH6030
+- Isa_50:2nadie, y cuando llamé, nadie respondió?[[H6030]]
+- Isa_65:12por cuanto llamé, y no respondisteisH6030
+- Isa_65:24antes que clamen, responderé yo...oídoH6030
+- Isa_66:4porque llamé, y nadie respondió; habléH6030
+- Jer_7:13sin cesar...llamé, y no respondisteisH6030
+- Jer_7:27dirás...los llamarás y no te responderánH6030
+- Jer_11:5y respondí y dije: Amén, oh JehováH6030
+- Jer_22:9y se les responderá: Porque dejaron elH559
+- Jer_23:35así diréis...¿Qué ha respondido JehováH6030
+- Jer_23:37¿qué te respondió Jehová, y qué hablóH6030
+- Jer_28:5entonces respondió el profeta JeremíasH559
+- Jer_33:3clama a mí, y yo te responderé...enseñaréH6030
+- Jer_35:17hablé...los llamé, y no han respondidoH6030
+- Jer_38:27les respondió conforme a...lo que el reyH5046
+- Jer_42:4todo lo que Jehová os respondiere, os loH6030
+- Jer_44:15las mujeres que...respondieron a JeremíasH6030
+- Jer_44:20el pueblo que le había respondido estoH6030
+- Eze_4:15respondió...te permito usar estiércolH559
+- Eze_9:11varón...respondió una palabra, diciendoH7725
+- Eze_14:4responderé al que viniere conforme a laH6030
+- Eze_14:7yo Jehová le responderé por mí mismoH6030
+- Eze_20:3vivo yo, que yo no os responderé, diceH5002
+- Eze_20:31he de responderos yo...no os responderé
+- Dan_2:5respondió el rey y dijo a los caldeosH6032
+- Dan_2:7respondieron por segunda vez...diga el reyH6032
+- Dan_2:8rey respondió...ponéis dilaciones, porqueH6032
+- Dan_2:10caldeos respondieron delante del rey, yH6032
+- Dan_2:26respondió el rey y dijo a Daniel, al cualH6032
+- Dan_2:27Daniel respondió...El misterio que el reyH6032
+- Dan_3:16Mesae y Abed-nego respondieron al reyH6032
+- Dan_3:16no es necesario...respondamos sobre esteH6032
+- Dan_3:24respondieron al rey: Es verdad, oh reyH6032
+- Dan_4:19Beltsasar respondió y dijo: Señor mío, elH6032
+- Dan_5:17Daniel respondió y dijo...Tus dones seanH6032
+- Dan_6:12respondió el rey...Verdad es, conforme aH6032
+- Dan_6:13respondieron...Daniel...de los hijos de losH6032
+- Dan_6:21entonces Daniel respondió al rey: Oh reyH4449
+- Dan_12:9él respondió: Anda, Daniel, pues estasH559
+- Ose_2:21aquel tiempo responderé, dice JehováH6030
+- Ose_2:21yo responderé a los...ellos responderánH6030
+- Ose_2:22la tierra responderá al trigo, al vinoH6030
+- Ose_2:22al aceite, y ellos responderán a JezreelH6030
+- Ose_4:12madera pregunta, y el leño le respondeH5046
+- Joe_2:19responderá...He aquí yo os envío panH6030
+- Amó_7:14respondió Amos...No soy profeta, ni soyH6030
+- Amó_8:2¿qué ves, Amos? Y respondí: Un canastilloH552
+- Jon_1:9él les respondió: Soy hebreo, y temoH559
+- Jon_1:12él les respondió: Tomadme y echadme alH559
+- Jon_4:9y él respondió: Mucho me enojo, hasta laH559
+- Miq_3:4clamaréis a Jehová, y no os responderáH6030
+- Miq_6:3qué te he molestado? Responde contra míH6030
+- Miq_6:5y qué le respondió Bataam hijo de BeorH6030
+- Hab_2:1qué he de responder tocante a mi quejaH7725
+- Hab_2:2Jehová me respondió...Escribe la visiónH6030
+- Hab_2:11la tabla del enmaderado le responderáH6030
+- Hag_2:12respondieron...sacerdotes y dijeronH6030
+- Hag_2:13y respondieron los sacerdotes...InmundaH6030
+- Hag_2:14respondió Hageo...Así es este pueblo yH6030
+- Zac_1:10aquel varón...respondió...Estos son losH6030
+- Zac_1:12respondió el ángel de Jehová y dijo: OhH6030
+- Zac_1:13Jehová respondió buenas palabras...ángelH6030
+- Zac_1:19me respondió: Estos son los cuernos queH559
+- Zac_1:21me respondió, diciendo: Aquéllos son losH559
+- Zac_2:2me respondió: A medir a Jerusalén, paraH559
+- Zac_4:2respondí: He mirado...aquí un candelabroH559
+- Zac_4:5ángel...respondió..¿No sabes qué es esto?[[H6030]]
+- Zac_4:6respondió...Esta es palabra de Jehová aH6030
+- Zac_4:13y me respondió...¿No sabes qué es esto?[[H559]]
+- Zac_5:2ves? Y respondí. Veo un rollo que vuelaH559
+- Zac_5:11me respondió: Para que le sea edificadaH559
+- Zac_6:4respondí...dije...Señor mío, ¿qué es estoH6030
+- Zac_6:5y el ángel me respondió...Estos son losH6030
+- Zac_13:6él responderá: Con ellas fui herido enH559
+- Mal_2:12al que vela y al que responde, y al queH6030
+- Mat_3:15le respondió: Deja ahora, porque asíG611
+- Mat_4:4respondió...Escrito está: No sólo de panG611
+- Mat_8:8respondió el centurión y dijo: Señor, noG611
+- Mat_11:4respondiendo...dijo: Id, y haced saber aG611
+- Mat_11:25respondiendo Jesús...Te alabo, PadreG611
+- Mat_12:38respondieron algunos de los escribas yG611
+- Mat_12:39él respondió y les dijo: La generaciónG611
+- Mat_12:48respondiendo...dijo: ¿Quién es mi madreG611
+- Mat_13:11respondiendo...dijo: Porque a vosotrosG611
+- Mat_13:37respondiendo...dijo: El que siembra laG611
+- Mat_13:51¿habéis...Ellos respondieron: Sí, SeñorG3004
+- Mat_14:28le respondió Pedro...Señor, si eres túG611
+- Mat_15:3respondiendo él...dijo: ¿Por qué tambiénG611
+- Mat_15:13respondiendo él, dijo: Toda planta queG611
+- Mat_15:15respondiendo Pedro...dijo: ExplícanosG611
+- Mat_15:23Jesús no le respondió palabra...EntoncesG611
+- Mat_15:24él respondiendo, dijo: No soy enviadoG611
+- Mat_15:26respondiendo él...No está bien tomar elG611
+- Mat_15:28respondiendo...dijo: Oh mujer, grande esG611
+- Mat_16:2respondiendo, les dijo: Cuando anocheceG611
+- Mat_16:16respondiendo...Pedro, dijo: Tú eres elG611
+- Mat_16:17respondió Jesús: Bienaventurado eresG611
+- Mat_17:11respondiendo Jesús...dijo: A la verdadG611
+- Mat_17:17respondiendo...¡Oh generación incrédulaG611
+- Mat_17:26Pedro le respondió: De los extrañosG3004
+- Mat_19:4él, respondiendo, les dijo: ¿No habéisG611
+- Mat_19:27respondiendo Pedro...hemos dejado todoG611
+- Mat_20:13respondiendo, dijo...Amigo, no te hagoG611
+- Mat_20:22Jesús respondiendo, dijo: No sabéis loG611
+- Mat_21:21respondiendo...dijo...que si tuviereis feG611
+- Mat_21:24respondiendo Jesús...haré una preguntaG611
+- Mat_21:27y respondiendo a...dijeron: No sabemosG611
+- Mat_21:29respondiendo él, dijo: No quiero; peroG611
+- Mat_21:30respondiendo él, dijo: Sí, señor, voyG611
+- Mat_22:1respondiendo Jesús, les volvió a hablarG611
+- Mat_22:29respondiendo Jesús, les dijo: ErráisG611
+- Mat_22:46y nadie le podía responder palabra; niG611
+- Mat_24:2respondiendo él, les dijo: ¿Veis todoG2036
+- Mat_24:4respondiendo Jesús, les dijo: Mirad queG611
+- Mat_25:9las prudentes respondieron...Para que noG611
+- Mat_25:12respondiendo, dijo...que no os conozcoG611
+- Mat_25:26respondiendo su señor, le dijo: SiervoG611
+- Mat_25:37justos le responderán diciendo: SeñorG611
+- Mat_25:40respondiendo el Rey...dirá: De cierto osG611
+- Mat_25:44responderán, diciendo: Señor, ¿cuándoG611
+- Mat_25:45les responderá...De cierto os digo queG611
+- Mat_26:23él respondiendo, dijo: El que mete laG611
+- Mat_26:25respondiendo Judas, el...dijo: ¿Soy yoG611
+- Mat_26:33respondiendo Pedro, le dijo...yo nuncaG611
+- Mat_26:62dijo: ¿No respondes nada? ¿Qué testificanG611
+- Mat_26:66respondiendo ellos, dijeron: ¡Es reo deG611
+- Mat_27:12siendo acusado por los...nada respondióG611
+- Mat_27:14Jesús no le respondió ni una palabraG611
+- Mat_27:21y respondiendo el gobernador, les dijoG611
+- Mat_27:25respondiendo todo el pueblo, dijo: SuG611
+- Mat_28:5el ángel, respondiendo, dijo...No temáisG611
+- Mar_3:33él les respondió...¿Quién es mi madreG611
+- Mar_5:9y respondió diciendo: Legión me llamoG611
+- Mar_6:37respondiendo...dijo: Dadles vosotros deG611
+- Mar_7:6respondiendo él, les dijo: HipócritasG611
+- Mar_7:28respondió ella y le dijo: Sí, Señor; peroG611
+- Mar_8:4le respondieron: ¿De dónde podrá alguienG611
+- Mar_8:28respondieron: Unos, Juan el BautistaG611
+- Mar_8:29respondiendo Pedro, le dijo: Tú eres elG611
+- Mar_9:12respondiendo él, les dijo: Elías a laG611
+- Mar_9:17respondiendo uno...dijo: Maestro, traje aG611
+- Mar_9:19respondiendo él...dijo: ¡Oh generaciónG611
+- Mar_9:38respondió diciendo: Maestro, hemos vistoG611
+- Mar_10:3respondiendo, les dijo: ¿Qué os mandóG611
+- Mar_10:5respondiendo Jesús...dijo: Por la durezaG611
+- Mar_10:20respondiendo...dijo: Maestro, todo estoG611
+- Mar_10:24respondiendo, volvió a decirles: HijosG611
+- Mar_10:29respondió Jesús y dijo: De cierto osG611
+- Mar_10:51respondiendo...le dijo: ¿Qué quieres queG611
+- Mar_11:22respondiendo Jesús, les dijo: Tened feG611
+- Mar_11:29Jesús respondiendo, les dijo: Os haréG611
+- Mar_11:29una pregunta; respondedme, y os diréG611
+- Mar_11:30¿era del cielo, o de los...RespondedmeG611
+- Mar_11:33que, respondiendo, dijeron...No sabemosG611
+- Mar_11:33respondiendo Jesús, les dijo: TampocoG611
+- Mar_12:17respondiendo Jesús...dijo: Dad a CésarG611
+- Mar_12:24respondiendo...les dijo: ¿No erráis porG611
+- Mar_12:28sabía que les había respondido bien, leG611
+- Mar_12:29le respondió: El primer mandamiento deG611
+- Mar_12:34viendo que había respondido sabiamenteG611
+- Mar_13:2Jesús, respondiendo, le dijo: ¿Ves estosG611
+- Mar_13:5Jesús, respondiéndoles, comenzó a decirG611
+- Mar_14:20respondiendo, les dijo: Es uno de losG611
+- Mar_14:40durmiendo...y no sabían qué responderleG611
+- Mar_14:48y respondiendo Jesús, les dijo: ¿ComoG611
+- Mar_14:60¿no respondes nada? ¿Qué testificanG611
+- Mar_14:61él callaba, y nada respondía...El sumoG611
+- Mar_15:2respondiendo él, le dijo: Tú lo dicesG611
+- Mar_15:4¿nada respondes? Mira de cuántas cosasG611
+- Mar_15:5Jesús ni aun con eso respondió: de modoG611
+- Mar_15:9Pilato les respondió...¿Queréis que osG611
+- Mar_15:12respondiendo Pilato, les dijo otra vezG611
+- Luc_1:19respondiendo el ángel, le dijo: Yo soyG611
+- Luc_1:35respondiendo...dijo: El Espíritu SantoG611
+- Luc_1:60pero respondiendo su madre, dijo: No; seG611
+- Luc_3:11respondiendo, les dijo: El que tiene dosG611
+- Luc_3:16respondió Juan...a todos: Yo a la verdadG611
+- Luc_4:4Jesús, respondiéndole, dijo: Escrito estáG611
+- Luc_4:8respondiendo Jesús, le dijo: Vete de míG611
+- Luc_4:12respondiendo Jesús, le dijo: Dicho estáG611
+- Luc_5:5respondiendo Simón...y nada hemos pescadoG611
+- Luc_5:22respondiendo les dijo: ¿Qué caviláis enG611
+- Luc_5:31respondiendo Jesús, les dijo: Los queG611
+- Luc_6:3respondiendo...dijo: ¿Ni aun esto habéisG611
+- Luc_7:22respondiendo...Id, haced saber a Juan loG611
+- Luc_7:40respondiendo...le dijo: Simón, una cosaG611
+- Luc_7:43respondiendo Simón, dijo: Pienso queG611
+- Luc_8:21respondiendo, les dijo: Mi madre y misG611
+- Luc_8:50le respondió: No temas; cree solamenteG611
+- Luc_9:19respondieron: Unos, Juan el BautistaG611
+- Luc_9:20respondiendo Pedro, dijo: El Cristo deG611
+- Luc_9:41respondiendo Jesús...¿Hasta cuándo he deG611
+- Luc_9:49respondiendo Juan, dijo: Maestro, hemosG611
+- Luc_10:27respondiendo, dijo: Amarás al Señor tuG611
+- Luc_10:28le dijo: Bien has respondido; haz estoG611
+- Luc_10:30respondiendo...dijo...hombre descendíaG611
+- Luc_10:41respondiendo Jesús...dijo: Marta, MartaG611
+- Luc_11:7y aquél, respondiendo desde adentro, leG611
+- Luc_11:45respondiendo uno de los intérpretes deG611
+- Luc_12:11cómo o qué habréis de responder, o queG611
+- Luc_13:2respondiendo Jesús...dijo: ¿Pensáis queG611
+- Luc_13:8él...respondiendo, le dijo: Señor, déjalaG611
+- Luc_13:15el Señor le respondió...Hipócrita, cadaG611
+- Luc_13:25él respondiendo os dirá: No sé de dóndeG611
+- Luc_15:29él, respondiendo, dijo al padre: He aquíG611
+- Luc_17:17respondiendo Jesús, dijo: ¿No son diezG611
+- Luc_17:20respondió...El reino de Dios no vendráG611
+- Luc_17:37respondiendo, le dijeron: ¿Dónde, Señor?[[G611]]
+- Luc_18:7día y noche? ¿Se tardará en responderles?[[G3114]]
+- Luc_19:31responderéis así...el Señor lo necesitaG2046
+- Luc_19:40respondiendo, les dijo: Os digo que siG611
+- Luc_20:3respondiendo Jesús, les dijo: Os haré yoG611
+- Luc_20:3os haré yo...una pregunta; respondedmeG2036
+- Luc_20:7y respondieron que no sabían de dóndeG611
+- Luc_20:24quién...Y respondiendo dijeron: De CésarG611
+- Luc_20:34respondiendo...les dijo: Los hijos deG611
+- Luc_20:39respondiéndole algunos de los escribasG611
+- Luc_21:14habéis de responder en vuestra defensaG626
+- Luc_22:51respondiendo Jesús, dijo: Basta yaG611
+- Luc_22:68si os preguntare, no me responderéisG611
+- Luc_23:3y respondiéndole él, dijo: Tú lo dicesG611
+- Luc_23:9preguntas, pero él nada le respondióG611
+- Luc_23:40respondiendo el otro...¿Ni aun temes túG611
+- Luc_24:18respondiendo uno de ellos...Cleofas, leG611
+- Jua_1:21eres tú el profeta? Y respondió: NoG611
+- Jua_1:26Juan les respondió...Yo bautizo con aguaG611
+- Jua_1:48respondió Jesús y...Antes que Felipe teG611
+- Jua_1:49respondió Natanael y le dijo: Rabí, túG611
+- Jua_1:50respondió Jesús...¿Porque te dije: Te viG611
+- Jua_2:18respondieron...¿Qué señal nos muestrasG611
+- Jua_2:19respondió Jesús y les dijo: DestruidG611
+- Jua_3:3respondió Jesús...que no naciere de nuevoG611
+- Jua_3:5respondió Jesús...que no naciere de aguaG611
+- Jua_3:9respondió Nicodemo...¿Cómo puede hacerseG611
+- Jua_3:10respondió Jesús y le...¿Eres tú maestro deG611
+- Jua_3:27respondió...No puede el hombre recibirG611
+- Jua_4:10respondió Jesús...Si conocieras el donG611
+- Jua_4:13respondió Jesús...Cualquiera que bebiereG611
+- Jua_4:17respondió la mujer y...No tengo maridoG611
+- Jua_5:7le respondió el enfermo, no tengo quienG611
+- Jua_5:11les respondió: El que me sanó, él mismoG611
+- Jua_5:17y Jesús les respondió: Mi Padre hastaG611
+- Jua_5:19respondió...No puede el Hijo hacer nadaG611
+- Jua_6:7respondió: Doscientos denarios de pan noG611
+- Jua_6:26respondió Jesús...me buscáis, no porqueG611
+- Jua_6:29respondió...Esta es la obra de Dios, queG611
+- Jua_6:43respondió...No murmuréis entre vosotrosG611
+- Jua_6:68respondió Simón Pedro: Señor, ¿a quiénG611
+- Jua_6:70les respondió: ¿No os he escogido yo aG611
+- Jua_7:16respondió...Mi doctrina no es mía, sinoG611
+- Jua_7:20respondió la multitud...Demonio tienesG611
+- Jua_7:21Jesús respondió...Una obra hice, y todosG611
+- Jua_7:46alguaciles respondieron: ¡Jamás hombreG611
+- Jua_7:47respondieron: ¿También vosotros habéisG611
+- Jua_7:52respondieron..¿Eres tú también galileo?[[G611]]
+- Jua_8:14respondió...Aunque yo doy testimonio deG611
+- Jua_8:19respondió Jesús: Ni a mí me conocéis, niG611
+- Jua_8:33respondieron: Linaje de Abraham somosG611
+- Jua_8:34respondió...aquel que hace pecado, esclavoG611
+- Jua_8:39respondieron...Nuestro padre es AbrahamG611
+- Jua_8:48respondieron...dijeron...eres samaritanoG611
+- Jua_8:49respondió Jesús: Yo no tengo demonioG611
+- Jua_8:54respondió Jesús: Si yo me glorifico a míG611
+- Jua_9:3respondió Jesús: No es que pecó éste, niG611
+- Jua_9:11respondió él y dijo: Aquel hombre que seG611
+- Jua_9:20padres respondieron...Sabemos que éste esG611
+- Jua_9:25respondió...Si es pecador, no lo sé; unaG611
+- Jua_9:27él les respondió: Ya os lo he dicho, y noG611
+- Jua_9:30respondió...Pues esto es lo maravillosoG611
+- Jua_9:34respondieron...naciste del todo en pecadoG611
+- Jua_9:36respondió él y dijo: ¿Quién es, SeñorG611
+- Jua_9:41Jesús les respondió: Si fuerais ciegosG2036
+- Jua_10:25Jesús les respondió: Os lo he dicho, yG611
+- Jua_10:32les respondió: Muchas buenas obras os heG611
+- Jua_10:33respondieron los judíos, diciendo: PorG611
+- Jua_10:34Jesús les respondió: ¿No está escrito enG611
+- Jua_11:9respondió Jesús: ¿No tiene el día doceG611
+- Jua_12:23respondió...Ha llegado la hora para queG611
+- Jua_12:30respondió Jesús...No ha venido esta vozG611
+- Jua_12:34respondió; la gente: Nosotros hemos oídoG611
+- Jua_13:7respondió Jesús...Lo que yo hago, tú no loG611
+- Jua_13:8Jesús le respondió: Si no te lavare, noG611
+- Jua_13:26respondió Jesús: A quien yo diere el panG611
+- Jua_13:36Jesús le respondió: A donde yo voy noG611
+- Jua_13:38Jesús le respondió: ¿Tu vida pondrás porG611
+- Jua_14:23respondió Jesús y...dijo: El que me amaG611
+- Jua_16:31Jesús les respondió: ¿Ahora creéis?[[G611]]
+- Jua_18:5respondieron: A Jesús nazareno...JesúsG611
+- Jua_18:8respondió Jesús: Os he dicho que yo soyG611
+- Jua_18:20Jesús le respondió: Yo públicamente heG611
+- Jua_18:22le dio...¿Así respondes al sumo sacerdote?[[G611]]
+- Jua_18:23Jesús le respondió: Si he hablado malG611
+- Jua_18:30respondieron y le dijeron: Si éste noG611
+- Jua_18:34Jesús le respondió: ¿Dices tú esto porG611
+- Jua_18:35le respondió:¿Soy yo acaso judío? TuG611
+- Jua_18:36respondió Jesús: Mi reino no es de esteG611
+- Jua_18:37respondió Jesús: Tú dices que yo soyG611
+- Jua_19:7respondieron: Nosotros tenemos una leyG611
+- Jua_19:11respondió...Ninguna autoridad tendríasG611
+- Jua_19:15respondieron...No tenernos más rey queG611
+- Jua_19:22respondió Pilato: Lo que he escrito, heG611
+- Jua_20:28Tomás respondió y...¡Señor mío, y DiosG611
+- Jua_21:5¿tenéis algo de comer? Le respondieronG611
+- Jua_21:15-16le respondieron Sí, Señor; tú sabesG3004
+- Jua_21:17le respondió: Señor, tú lo sabes todoG2036
+- Hec_3:12Pedro, respondió; al pueblo: VaronesG611
+- Hec_4:19Juan respondieron...Juzgad si es justoG611
+- Hec_5:29respondiendo...Es necesario obedecer aG611
+- Hec_8:24respondiendo...Simón, dijo: Rogad...porG611
+- Hec_8:34respondiendo el eunuco, dijo a FelipeG611
+- Hec_8:37respondiendo, dijo: Creo que JesucristoG611
+- Hec_9:10Ananías...él respondió: Heme aquí, Señor
+- Hec_9:13Ananías respondió: Señor, he oído deG611
+- Hec_10:47respondió Pedro: ¿Puede acaso algunoG611
+- Hec_11:9la voz me respondió del...por segunda vezG611
+- Hec_15:13Jacobo respondió...Varones hermanosG611
+- Hec_19:15respondiendo el espíritu malo, dijo: AG611
+- Hec_21:13Pablo respondió: ¿Qué hacéis llorandoG611
+- Hec_22:8respondí: ¿Quién eres, Señor? Y me dijoG611
+- Hec_22:28respondió el tribuno: Yo con una granG611
+- Hec_24:10Pablo...respondió: Porque sé que desdeG611
+- Hec_25:4respondió que Pablo estaba custodiadoG611
+- Hec_25:9respondiendo a Pablo dijo: ¿Quieres subirG611
+- Hec_25:12Festo...respondió: A César has apeladoG611
+- Hec_25:16a éstos respondí que no es costumbre deG611
+- 2Co_5:12tengáis con qué responder a los que
+- Col_4:6para que sepáis cómo debéis responderG611
+- 1Pe_2:23no respondía con maldición; cuando

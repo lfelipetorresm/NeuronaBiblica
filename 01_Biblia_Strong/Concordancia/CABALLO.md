@@ -1,0 +1,191 @@
+---
+tipo: concordancia
+palabra: CABALLO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CABALLO
+
+- Gén_47:17José les dio alimentos por c, y porH5483
+- Gén_49:17muerde los talones del c, y hace caerH5483
+- Gén_50:9subieron...con él carros y gente de a cH6571
+- Éxo_9:3sobre tus...c, asnos, camellos, vacasH5483
+- Éxo_14:9siguiéndolos...su gente de a c, y todo suH5483
+- Éxo_14:18me glorifique en...y en su gente de a cH6571
+- Éxo_14:23entraron...sus carros y su gente de a cH5483
+- Éxo_15:1, Éxo_15:21echado en el mar al c y al jineteH5483
+- Éxo_15:19entró...con sus carros y su gente de a cH5483
+- Deu_11:4lo que hizo...a sus c y a sus carrosH5483
+- Deu_17:16no aumentará para sí c, ni hará volverH5483
+- Deu_17:16ni...a Egipto, con el fin de aumentar cH5483
+- Deu_20:1si vieres c y carros, y un pueblo másH5483
+- Jos_11:4con muchísimos c y carros de guerraH5483
+- Jos_11:6desjarretarás sus c...sus carros quemarásH5483
+- Jos_11:9desjarretó sus c, y sus carros quemó aH5483
+- Jue_5:22resonaron los cascos de los c por elH5483
+- 1Sa_8:11vuestros hijos...en su gente de a cH6571
+- 1Sa_13:5los filisteos...seis mil hombres de a cH6571
+- 2Sa_1:6venían tras él carros y gente de a cH1167, [[H6571]]
+- 2Sa_8:4tomó David de ellos 1.700 hombres de a cH6571
+- 2Sa_8:4desjarretó...los c de todos los carros
+- 2Sa_10:18David mató de...40.000 hombres de a cH6571
+- 2Sa_15:1que Absalón se hizo de carros y c, y 50H5483
+- 1Re_1:5se hizo de carros y de gente de a cH6571
+- 1Re_4:26tenía 40.000 c en sus caballerizasH5483
+- 1Re_4:28cebada y paja para los c y...bestiasH5483
+- 1Re_9:19y las ciudades de la gente de a c, yH6571
+- 1Re_9:22hombres de guerra...o su gente de a cH6571
+- 1Re_10:25todos le llevaban cada año...c y mulosH5483
+- 1Re_10:26juntó Salomón carros y gente de a cH6571
+- 1Re_10:28traían de Egipto c y lienzos a SalomónH5483
+- 1Re_10:28la compañía de...compraba c y lienzos
+- 1Re_10:29el c por ciento cincuenta; y así losH5483
+- 1Re_18:5con que conservemos la vida a los c yH5483
+- 1Re_20:1y con él a 32 reyes, con c y carrosH5483
+- 1Re_20:20el rey...Ben-adad, se escapó en un cH6571
+- 1Re_20:21hirió la gente de a c, y los carrosH5483
+- 1Re_20:25ejército...c por c, y carro por carroH5483
+- 1Re_22:4yo soy como tú, y...y mis c como tus cH5483
+- 2Re_2:11un carro...con c de fuego apartó a losH5483
+- 2Re_2:12carro de Israel y su gente de a c![[H6571]]
+- 2Re_3:7yo soy como tú...y mis c como los tuyosH5483
+- 2Re_5:9y vino Naamán con sus c y con su carroH5483
+- 2Re_6:14envió el rey...gente de a c, y carrosH5483
+- 2Re_6:15sitiada la ciudad, con gente de a c yH5483
+- 2Re_6:17el monte estaba lleno de gente de a cH5483
+- 2Re_7:6se oyese estruendo de carros, ruido de cH5483
+- 2Re_7:7abandonando sus tiendas, sus c...asnosH5483
+- 2Re_7:10no había allí...sino c atados, asnosH5483
+- 2Re_7:13tomen...cinco de los c que han quedadoH5483
+- 2Re_7:14tomaron, pues, dos c de un carro, yH5483
+- 2Re_9:33sangre salpicó en la pared, y en los cH5483
+- 2Re_10:2y los que tienen carros y gente de a cH5483
+- 2Re_11:16donde entran los de a c a la casa delH5483
+- 2Re_13:7quedado...sino cincuenta hombres de a cH6571
+- 2Re_13:14carro de Israel y su gente de a c![[H6571]]
+- 2Re_14:20lo trajeron...sobre c, y lo sepultaronH5483
+- 2Re_18:23te daré dos mil c, si tú puedes darH5483
+- 2Re_18:24confiado en Egipto...su gente de a c?[[H6571]]
+- 2Re_23:11los c que los reyes...dedicado al solH5483
+- 1Cr_18:4tomó David...carros, 7.000 de a cH6571
+- 1Cr_18:4y desjarretó David los c de todos los
+- 1Cr_19:6tomar a sueldo carros y gente de a cH6571
+- 2Cr_1:14juntó Salomón carros y gente de a cH6571
+- 2Cr_1:16y los mercaderes del rey compraban...cH5483
+- 2Cr_1:17un carro...y un c por ciento cincuentaH5483
+- 2Cr_8:6todas las ciudades...de la gente de a cH6571
+- 2Cr_8:9hijos de Israel...eran...su gente de a cH6571
+- 2Cr_9:24traía su presente, alhajas...c y mulosH5483
+- 2Cr_9:25cuatro mil caballerizas para sus c, yH5483
+- 2Cr_9:28traían...c para Salomón, de Egipto y deH5483
+- 2Cr_12:3carros, y con 60.000 hombres de a cH6571
+- 2Cr_16:8con carros y mucha gente de a c? ConH6571
+- 2Cr_23:15la entrada de la puerta de los c deH5483
+- 2Cr_25:28lo trajeron en c, y lo sepultaron conH5483
+- Esd_2:66sus c eran setecientos treinta y seisH5483
+- Esd_8:22tuve vergüenza de pedir...gente de a cH6571
+- Neh_2:9el rey envió conmigo...gente de a cH6571
+- Neh_3:28desde la puerta de los C restauraronH5483
+- Neh_7:68sus c, setecientos treinta y seis; susH5483
+- Est_6:8traigan...el c en que el rey cabalgaH5483
+- Est_6:9den el vestido y el c en mano de algunoH5483
+- Est_6:9vistan...y llévenlo en el c por la plazaH5483
+- Est_6:10toma...el c, como tú has dicho, y hazloH5483
+- Est_6:11Amán tomó el vestido y el c, y vistióH5483
+- Est_6:11vistió a...y lo condujo a c por la plazaH7392
+- Est_8:10por medio de correos montados en cH5483
+- Est_8:14los correos, pues, montados en c velocesH7409
+- Job_39:18alto, se burla del c y de su jineteH5483
+- Job_39:19¿diste tú al c la fuerza? ¿Vestiste túH5483
+- Sal_20:7confían en carros, y aquéllos en cH5483
+- Sal_32:9no seáis como el c, o como el mulo, sinH5483
+- Sal_33:17vano para salvarse es el c...su fuerzaH5483
+- Sal_76:6el carro y el c fueron entorpecidosH5483
+- Sal_147:10no se deleita en la fuerza del c, niH5483
+- Pro_21:31c se alista para el día de la batallaH5483
+- Pro_26:3el látigo para el c, el cabestro para elH5483
+- Ecl_10:7siervos a c, y príncipes que andabanH5483
+- Isa_2:7también está su tierra llena de c, yH5483
+- Isa_5:28los cascos de sus c...como de pedernalH5483
+- Isa_22:7y los de a c acamparon a la puertaH6571
+- Isa_30:16no, antes huiremos en c; por tantoH5483
+- Isa_31:1que descienden a Egipto...y confían en cH5483
+- Isa_31:3los egipcios hombres son...y sus c carneH5483
+- Isa_36:8daré 2.000 c, si tu puedes dar jinetesH5483
+- Isa_36:9confiado en Egipto con...gente de a c?[[H6571]]
+- Isa_43:17que saca carro y c, ejército y fuerzaH5483
+- Isa_63:13como un c por el desierto, sin queH5483
+- Isa_66:20traerán...en c, en carros, en literasH5483
+- Jer_4:13más ligeros son sus c que las águilasH5483
+- Jer_4:29al estruendo de la gente de a c y deH6571
+- Jer_5:8como c bien alimentados...relinchaba trasH5483
+- Jer_6:23montarán a c como hombres dispuestosH5483
+- Jer_8:6c que arremete con ímpetu a la batallaH5483
+- Jer_8:16desde Dan se oyó el bufido de sus cH5483
+- Jer_12:5¿cómo contenderás con los c? Y si en laH5483
+- Jer_17:25entrarán...en carros y en c, los reyesH5483
+- Jer_22:4entrarán montados en carros y en c porH5483
+- Jer_31:40hasta la esquina de la puerta de los cH5483
+- Jer_46:4uncid c y subid, vosotros los jinetesH5483
+- Jer_46:9subid, c, y alborotaos, carros, yH5483
+- Jer_47:3por el sonido de los cascos de sus c
+- Jer_50:11como novilla...y relinchasteis como cH47
+- Jer_50:37espada contra sus c, contra sus carrosH5483
+- Jer_50:42su voz rugirá como...y montarán sobre cH5483
+- Jer_51:21por tu...quebrantaré c y a sus jinetesH5483
+- Jer_51:27haced subir c como langostas erizadasH5483
+- Eze_17:15para que le diese c y mucha genteH5483
+- Eze_23:6jóvenes codiciables todos...que iban a cH5483
+- Eze_23:12jinetes que iban a c, todos...jóvenesH5483
+- Eze_23:20lujuria...y cuyo flujo como flujo de cH5483
+- Eze_23:23capitanes...que montan a c todos ellosH5483
+- Eze_26:7con c y carros y jinetes, y tropas yH5483
+- Eze_26:10por la multitud de sus c te cubrirá elH5483
+- Eze_26:11con los cascos de sus c hollará todasH5483
+- Eze_27:14de Togarma, con c y corceles de guerraH5483
+- Eze_38:4c y jinetes, de todo en todo equipadosH5483
+- Eze_38:15todos...a c, gran multitud y poderosoH5483
+- Eze_39:20os saciaréis...de c y de jinetes fuertesH5483
+- Dan_11:40con carros y gente de a c, y...navesH6571
+- Ose_1:7no los salvaré con...con c ni jinetesH6571
+- Ose_14:3no montaremos en c, ni nunca...diremosH5483
+- Joe_2:4como...c, y como gente de a c correránH5483
+- Amó_2:15ni el que cabalga en c salvará su vidaH5483
+- Amó_4:10cautiverio de vuestros c, e hice subir elH5483
+- Amó_6:12¿correrán los c por las peñas? ¿AraránH5483
+- Miq_5:10haré matar tus c de en medio de tiH5483
+- Nah_3:2c atropellador, y carro que saltaH5483
+- Hab_1:8sus c serán más ligeros que leopardosH5483
+- Hab_3:8montaste en tus c, y en tus carros deH5483
+- Hab_3:15caminaste en el mar con tus c, sobreH5483
+- Hag_2:22y vendrán abajo los c y sus jinetesH5483
+- Zac_1:8vi...un varón que cabalgaba sobre un cH5483
+- Zac_1:8y detrás de él había c alazanes, overosH5483
+- Zac_6:2primer carro había c alazanes...c negrosH5483
+- Zac_6:3c blancos, y en el cuarto carro c overosH5483
+- Zac_6:6el carro con los c negros salía hacia laH5483
+- Zac_9:10destruiré...c de Jerusalén, y los arcosH5483
+- Zac_10:3pondrá como su c de honor en la guerraH5483
+- Zac_10:5los que cabalgan en c serán avergonzadosH5483
+- Zac_12:4aquel dia...heriré con pánico a todo cH5483
+- Zac_12:4y a todo c de los pueblos heriré conH5483
+- Zac_14:15así también será la plaga de los c, deH5483
+- Zac_14:20grabado sobre las campanillas de los cH5483
+- Stg_3:3ponemos freno en la boca de los cG2462
+- Rev_6:2miré, y he aquí un c blanco; y el queG2462
+- Rev_6:4salió...c, bermejo; y al que lo montabaG2462
+- Rev_6:5miré, y he aquí un c negro; y el que loG2462
+- Rev_6:8miré, y he aquí un c amarillo, y el queG2462
+- Rev_9:7semejante a c preparados para la guerraG2462
+- Rev_9:9como el estruendo de muchos carros de cG2462
+- Rev_9:17así vi en visión los c y a sus jinetesG2462
+- Rev_9:17cabezas de los c eran como...de leonesG2462
+- Rev_9:19el poder de los c estaba en su boca y
+- Rev_14:20salió sangre hasta los frenos de los cG2462
+- Rev_18:13ovejas, c y carros, y esclavos, almasG2462
+- Rev_19:11vi...un c blanco, y el que lo montabaG2462
+- Rev_19:14ejércitos celestiales...le seguían en cG2462
+- Rev_19:18carnes de c y de sus jinetes, y carnesG2462
+- Rev_19:19guerrear contra el que montaba el cG2462
+- Rev_19:21con la espada...del que montaba el cG2462

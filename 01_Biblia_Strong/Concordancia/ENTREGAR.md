@@ -1,0 +1,424 @@
+---
+tipo: concordancia
+palabra: ENTREGAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENTREGAR
+
+- Gén_9:2todos...en vuestra mano son entregadosH5414
+- Gén_14:20que entregó tus enemigos en tu manoH4042
+- Gén_21:14le entregó el muchacho, y la despidióH5414
+- Gén_27:17entregó los guisados y el pan...JacobH5414
+- Gén_32:16lo entregó a sus siervos, cada manadaH5414
+- Gén_39:4entregó en su poder todo lo que teníaH5414
+- Gén_39:22entregó en mano de José el cuidado deH5414
+- Gén_42:37entrégalo en mi mano...lo devolveré a tiH5414
+- Éxo_5:18y habéis de entregar la misma tareaH5414
+- Lev_20:27o se entregare a la adivinación, ha
+- Lev_26:25seréis entregadas en mano del enemigoH5414
+- Núm_5:8entregándola al sacerdote, además del
+- Núm_14:8él...nos la entregará; tierra que fluyeH5414
+- Núm_21:2si...entregares este pueblo en mi manoH5414
+- Núm_21:3y Jehová escuchó...y entregó al cananeoH5414
+- Núm_21:34en tu mano lo he entregado, a él y aH5414
+- Deu_1:8yo os he entregado la tierra; entrad yH5414
+- Deu_1:21tu Dios te ha entregado la tierra; subeH5414
+- Deu_1:27para entregarnos en manos del amorreoH5414
+- Deu_2:24he entregado en tu mano a Sehón rey deH5414
+- Deu_2:30su corazón para entregarlo en tu manoH5414
+- Deu_2:31he comenzado a entregar...a Sehón y a suH5414
+- Deu_2:33Dios lo entregó delante de nosotros; yH5414
+- Deu_2:36entregó Jehová...Dios en nuestro poderH5414
+- Deu_3:2he entregado a él y a todo su pueblo, conH5414
+- Deu_3:3Dios entregó...en nuestra mano a Og reyH5414
+- Deu_7:2tu Dios las haya entregado delante de tiH5414
+- Deu_7:23Dios las entregará delante de ti, y élH5414
+- Deu_7:24él entregará sus reyes en tu mano, y túH5414
+- Deu_19:12lo entregarán en mano del vengador deH5414
+- Deu_20:13Jehová tu Dios la entregue en tu manoH5414
+- Deu_20:14tus enemigos...Jehová tu Dios te entregóH5414
+- Deu_21:10y Jehová tu Dios los entregare en tuH5414
+- Deu_23:14entregar a tus enemigos delante de tiH5337
+- Deu_23:15no entregarás a su señor el siervo queH5462
+- Deu_24:1le escribirá carta...y se la entregará enH5414
+- Deu_24:3le escribiere carta...y se la entregareH5414
+- Deu_24:10entregares a tu prójimo alguna cosaH5383
+- Deu_28:25Jehová te entregará derrotado delanteH5414
+- Deu_28:32hijas serán entregados a otro puebloH5414
+- Deu_31:5los entregará Jehová delante de vosotrosH5414
+- Deu_32:30si...y Jehová no los hubiera entregado?[[H5462]]
+- Jos_1:3os he entregado, como lo había dichoH5414
+- Jos_2:24Jehová ha entregado toda la tierra enH5414
+- Jos_6:2yo he entregado en tu mano a Jericó y aH5414
+- Jos_6:16porque Jehová os ha entregado la ciudadH5414
+- Jos_7:7entregarnos en las manos de los amorreosH5414
+- Jos_8:1yo he entregado en tu mano al rey de HaiH5414
+- Jos_8:7vuestro Dios la entregará en vuestrasH5414
+- Jos_8:18Hai, porque yo la entregaré en tu manoH5414
+- Jos_10:8porque yo los he entregado en tu manoH5414
+- Jos_10:12día en que Jehová entregó al amorreoH5414
+- Jos_10:19Dios los ha entregado en vuestra manoH5414
+- Jos_10:30Jehová la entregó...en manos de IsraelH5414
+- Jos_10:32entregó a Laquis en mano de Israel, yH5414
+- Jos_11:6mañana...yo entregaré a todos...muertosH5414
+- Jos_11:8los entregó Jehová en manos de IsraelH5414
+- Jos_11:23la entregó Josué a los israelitas porH5414
+- Jos_19:51heredades que...entregaron por suerteH5157
+- Jos_20:5no entregarán en su mano al homicidaH5462
+- Jos_21:44Jehová entregó en sus manos a todosH5414
+- Jos_24:8, Jos_24:11yo los entregué en vuestras manosH5414
+- Jue_1:2he entregado la tierra en sus manosH5414
+- Jue_1:4Jehová entregó en sus manos al cananeoH5414
+- Jue_2:14los entregó en manos de robadores queH5414
+- Jue_2:23dejó...y no las entregó en mano de JosuéH5414
+- Jue_3:10Jehová entregó en su...a Cusan-risataimH5414
+- Jue_3:17entregó el presente a Eglón rey de MoabH7126
+- Jue_3:18y luego que hubo entregado el presenteH7126
+- Jue_3:28Jehová ha entregado...en vuestras manosH5414
+- Jue_4:7a Sísara...y lo entregaré en tus manos?[[H5414]]
+- Jue_4:14día en que Jehová ha entregado a SísaraH5414
+- Jue_6:1y Jehová los entregó en mano de MadiánH5414
+- Jue_6:13ahora Jehová...nos ha entregado en manoH5414
+- Jue_7:2para que yo entregue a los madianitasH5414
+- Jue_7:7entregaré a los madianitas en tus manosH5414
+- Jue_7:9levántate...lo he entregado en tus manosH5414
+- Jue_7:14Dios ha entregado en sus manos a losH5414
+- Jue_7:15ha entregado el campamento de Madián enH5414
+- Jue_8:3Dios ha entregado en...manos a Oreb y aH5414
+- Jue_8:7Jehová haya entregado en mi mano a ZebaH5414
+- Jue_10:7y los entregó en mano de los filisteosH4376
+- Jue_11:9y Jehová los entregare delante de míH5414
+- Jue_11:21entrego a Sehón y a todo su pueblo enH5414
+- Jue_11:30si entregares...amonitas en mis manosH5414
+- Jue_11:32Amón...y Jehová los entregó en su manoH5414
+- Jue_12:3contra...Amón, y Jehová me los entregóH5414
+- Jue_13:1los entregó en mano de los filisteos porH5414
+- Jue_15:12y entregarte en mano de los filisteosH5414
+- Jue_15:13te entregaremos en sus manos; mas noH5414
+- Jue_16:23-24dios entregó en nuestras manos aH5414
+- Jue_18:10Dios la ha entregado en vuestras manosH5414
+- Jue_20:13entregad...a aquellos hombres perversosH5414
+- Jue_20:28subid, porque mañana...os los entregaréH5414
+- 1Sa_14:10Jehová los ha entregado en nuestrasH5414
+- 1Sa_14:12los ha entregado en manos de IsraelH5414
+- 1Sa_14:37¿los entregarás en mano de Israel?[[H5414]]
+- 1Sa_17:46Jehová te entregará hoy en mi mano, yH5462
+- 1Sa_17:47y él os entregará en nuestras manosH5414
+- 1Sa_18:27prepucios y los entregó todos al reyH4390
+- 1Sa_23:4entregaré en tus manos a los filisteosH5414
+- 1Sa_23:7dijo...Dios lo ha entregado en mi manoH5234
+- 1Sa_23:11-12¿me entregarán los vecinos de KeilaH5462
+- 1Sa_23:12y Jehová respondió: Os entregaránH5462
+- 1Sa_23:14pero Dios no lo entregó en sus manosH5414
+- 1Sa_23:20lo entregaremos en la mano del reyH5462
+- 1Sa_24:4aquí que entrego a tu enemigo en tu manoH5414
+- 1Sa_24:18habiéndome entregado Jehová en tu manoH5462
+- 1Sa_26:8hoy ha entregado Dios a tu enemigo enH5462
+- 1Sa_26:23Jehová te había entregado hoy en miH5414
+- 1Sa_28:19entregará a Israel...e...al ejército deH5414
+- 1Sa_30:15ni me entregarás en mano de mi amoH5462
+- 1Sa_30:23y ha entregado en nuestra mano a losH5414
+- 2Sa_3:8no te ha entregado en mano de DavidH4672
+- 2Sa_5:19consultó...¿Los entregarás en mi mano?[[H5414]]
+- 2Sa_5:19vé...entregaré a los filisteos en tu manoH5414
+- 2Sa_10:10entregó luego el resto del ejército enH5414
+- 2Sa_14:7entrega al que mató a su hermano, paraH5414
+- 2Sa_16:8Jehová ha entregado el reino en mano deH5414
+- 2Sa_18:28ha entregado a los hombres que habíanH5462
+- 2Sa_20:21entregad a ése...y me iré de la ciudadH5414
+- 2Sa_21:9los entregó en manos de los gabaonitasH5414
+- 1Re_8:46y los entregares delante del enemigoH5414
+- 1Re_9:7la faz de la tierra que les he entregadoH5414
+- 1Re_11:11el reino, y lo entregaré a tu siervoH5414
+- 1Re_11:38edificaré...y yo te entregaré a IsraelH5414
+- 1Re_13:26tanto, Jehová le ha entregado al leónH5414
+- 1Re_14:8rompí el reino...y te lo entregué a tiH5414
+- 1Re_14:16entregará a Israel por los pecados deH5414
+- 1Re_15:18tesoros...los entregó a sus siervos, yH5414
+- 1Re_18:9entregues a tu siervo en mano de AcabH5414
+- 1Re_20:13te la entregaré hoy en tu mano, paraH5414
+- 1Re_20:28yo entregaré toda esta gran multitudH5414
+- 1Re_22:6, 1Re_22:12, 1Re_22:15Jehová la entregará en mano del reyH5414
+- 2Re_3:3se entregó a los pecados de JeroboamH1692
+- 2Re_3:10, 2Re_3:13entregarlos en manos de los moabitasH5414
+- 2Re_3:18entregaré también a los moabitas enH5414
+- 2Re_12:15en cuyas manos el dinero era entregadoH5414
+- 2Re_13:3entregó en mano de Hazael rey de SiriaH5414
+- 2Re_17:17se entregaron a hacer lo malo ante losH4376
+- 2Re_17:20y los entregó en manos de saqueadoresH5414
+- 2Re_18:30esta ciudad no será entregada en manoH5414
+- 2Re_19:10decir: Jerusalén no será entregada enH5414
+- 2Re_21:14lo entregaré en manos de sus enemigosH5414
+- 2Re_22:5lo entreguen a los que hacen la obra deH5414
+- 2Re_22:9el dinero...han entregado en poder de losH5414
+- 1Cr_12:17si es para entregarme a mis enemigosH7411
+- 1Cr_14:10consulté a Dios...¿Los entregarás en miH5414
+- 1Cr_14:10porque yo los entregaré en tus manosH5414
+- 1Cr_22:18él ha entregado...moradores de la tierraH5414
+- 2Cr_6:36entregares delante de sus enemigosH5414
+- 2Cr_12:10los entregó a los jefes de la guardiaH6485
+- 2Cr_13:16huyeron...Dios los entregó en sus manosH5414
+- 2Cr_16:8en Jehová, él los entregó en tus manosH5414
+- 2Cr_18:5sube...Dios los entregará en mano del reyH5414
+- 2Cr_18:11Jehová la entregará en mano del reyH5414
+- 2Cr_18:14pues serán entregados en vuestras manosH5414
+- 2Cr_24:24Jehová entregó en sus manos un ejércitoH5414
+- 2Cr_25:20Dios...los quería entregar en manos deH5414
+- 2Cr_28:5Dios lo entregó en manos del rey de losH5414
+- 2Cr_28:5entregado en manos del rey de IsraelH5414
+- 2Cr_28:9los ha entregado en vuestras manos; yH5414
+- 2Cr_29:8la ira...y los ha entregado a turbaciónH5414
+- 2Cr_30:7rebelaron...él los entregó a desolaciónH5414
+- 2Cr_32:11para entregaros a muerte, a hambre y aH5414
+- 2Cr_33:8Israel de la tierra que yo entregué aH5975
+- 2Cr_34:10entregaron en mano de los que hacíanH5414
+- 2Cr_34:17han entregado en mano de los encargadosH5414
+- 2Cr_36:17los caldeos...los entregó en sus manosH5414
+- Esd_5:12los entregó en mano de NabucodonosorH3052
+- Esd_5:14fueron entregados a Sesbasar, a quienH3052
+- Esd_7:19utensilios que te son entregados para elH8000
+- Esd_8:34por cuenta y por peso se entregó todo
+- Esd_8:36entregaron los despachos del rey a susH5414
+- Esd_9:7hemos sido entregados en manos de losH5414
+- Neh_4:4entrégalos por despojo en la tierraH5414
+- Neh_9:24los cuales entregaste en su mano, y aH5414
+- Neh_9:27los entregaste en mano de sus enemigosH5414
+- Neh_9:30los entregaste en mano de los pueblosH5414
+- Neh_9:35tierra...que entregaste delante de ellosH5414
+- Job_9:24tierra es entregada en manos...impíosH5414
+- Job_16:11me ha entregado Dios al mentiroso, yH5462
+- Job_31:30ni aun entregué al pecado mi lenguaH5414
+- Sal_27:12no me entregues a...de mis enemigosH5414
+- Sal_31:8no me entregaste en mano del enemigoH5462
+- Sal_41:2no lo entregarás a la...de sus enemigosH5414
+- Sal_44:11nos entregas como ovejas al mataderoH5414
+- Sal_74:19no entregues a las fieras el alma deH5414
+- Sal_78:48entregó al pedrisco sus bestias, y susH5462
+- Sal_78:50sino...entregó su vida a la mortandadH5462
+- Sal_78:61y entregó a cautiverio su poderío, yH5414
+- Sal_78:62entregó también su pueblo a la espadaH5462
+- Sal_106:14se entregaron a un deseo desordenado
+- Sal_106:41los entregó en poder de las nacionesH5414
+- Sal_118:18JAH, mas no me entregó a la muerteH5414
+- Pro_4:9dará...corona de hermosura te entregaráH4042
+- Pro_6:31pero...entregará todo el haber de su casaH5414
+- Cnt_8:11una viña...la cual entregó a guardasH5414
+- Isa_16:3no entregues a los que andan errantesH1540
+- Isa_19:4y entregaré a Egipto en manos de señorH5534
+- Isa_22:21entregaré en sus manos tu potestad; yH5414
+- Isa_34:2destruirá y las entregará al mataderoH5414
+- Isa_36:15no será entregada esta ciudad en manosH5414
+- Isa_37:10Jerusalén no será entregada en mano delH5414
+- Isa_37:19entregaron los dioses de ellos al fuegoH5414
+- Isa_41:2entregó delante de él naciones...reyesH5414
+- Isa_41:2los entregó a su espada como polvo, comoH5414
+- Isa_42:24y entregó a Israel a saqueadores? ¿NoH5414
+- Isa_47:6mi heredad, y los entregué en tu manoH5414
+- Jer_4:13porque entregados somos a despojo!
+- Jer_12:7entregado lo que amaba mi alma en manoH5414
+- Jer_15:4los entregaré para terror a todos losH5414
+- Jer_15:9lo que de ella quede, lo entregaré a laH5414
+- Jer_15:13tus tesoros entregaré a la rapiña sinH5414
+- Jer_17:3todos tus tesoros entregaré al pillajeH5414
+- Jer_18:21por tanto, entrega sus hijos a hambreH5414
+- Jer_20:4a todo Judá entregaré en manos del reyH5414
+- Jer_20:5entregaré...la riqueza de esta ciudadH5414
+- Jer_21:7entregaré a Sedequías rey de Judá, a susH5414
+- Jer_21:10en mano del rey de...será entregada, yH5414
+- Jer_22:25te entregaré en mano de los que buscanH5414
+- Jer_25:31entregará los impíos a espada, diceH5414
+- Jer_26:24que no lo entregasen en las manos delH5414
+- Jer_29:21entrego yo en mano de NabucodonosorH5414
+- Jer_32:3entrego esta ciudad en mano del rey deH5414
+- Jer_32:4entregado en mano del rey de BabiloniaH5414
+- Jer_32:24la ciudad va a ser entregada en manoH5414
+- Jer_32:25ciudad sea entregada en manos de losH5414
+- Jer_32:28voy a entregar esta ciudad en mano deH5414
+- Jer_32:36entregada será en mano del...a espadaH5414
+- Jer_32:43es entregada en mano de los caldeosH5414
+- Jer_34:2aquí yo entregaré esta ciudad al rey deH5414
+- Jer_34:3en su mano serás entregado; y tus ojosH5414
+- Jer_34:18entregaré a...hombres que traspasaronH5414
+- Jer_34:20-21entregaré en mano de sus enemigosH5414
+- Jer_37:17en mano del rey de...serás entregadoH5414
+- Jer_38:3entregada esta ciudad en manos del reyH5414
+- Jer_38:16ni te entregaré en mano de...varonesH5414
+- Jer_38:17si te entregas...a los príncipes del reyH3318
+- Jer_38:18pero si no te entregas...será entregadaH3318, [[H5414]]
+- Jer_38:19no sea que me entreguen en sus manosH5414
+- Jer_38:20no te entregarán. Oye ahora la voz deH5414
+- Jer_38:21si no quieres entregarte, esta es laH3318
+- Jer_39:14tomaron a Jeremías...y lo entregaron aH5414
+- Jer_39:17libraré...y no serás entregado en manosH5414
+- Jer_43:3para entregarnos en manos de los caldeosH5414
+- Jer_44:30entrego a Faraón Hofra rey de EgiptoH5414
+- Jer_44:30como entregué a Sedequías rey de JudáH5414
+- Jer_46:24entregada será en manos del pueblo delH5414
+- Jer_46:26entregaré en mano de los que buscan suH5414
+- Lam_1:14me ha entregado el Señor en manosH5414
+- Lam_2:7ha entregado en mano del enemigo...murosH5462
+- Lam_3:65entrégalos al endurecimiento de corazónH5414
+- Eze_7:21en mano de extraños la entregué paraH5414
+- Eze_11:9y os entregaré en manos de extraños, yH5414
+- Eze_16:27te entregué a la voluntad de las hijasH5414
+- Eze_16:39y te entregaré en manos de ellos; yH5414
+- Eze_21:11para entregarla en mano del matadorH5414
+- Eze_21:24cuanto...seréis entregados en su manoH8610
+- Eze_21:27que venga aquel...y yo se lo entregaréH5414
+- Eze_21:31y te entregaré en mano de...temerariosH5414
+- Eze_23:9la entregué en mano de sus amantes, enH5414
+- Eze_23:28yo te entrego en mano de aquellos queH5414
+- Eze_23:46las entregaré a turbación y a rapiñaH5414
+- Eze_25:4te entrego por heredad a los orientalesH5414
+- Eze_25:7te entregaré a las...para ser saqueadaH5414
+- Eze_25:10la entregaré por heredad, para que noH5414
+- Eze_30:12entregaré la tierra en manos de malosH4376
+- Eze_31:11yo lo entregaré en manos del poderosoH5414
+- Eze_32:20a la espada es entregado; traedlo a élH5414
+- Eze_33:27entregaré a las fieras...que lo devorenH5414
+- Eze_35:5y entregaste a los hijos de Israel alH5064
+- Eze_39:23los entregué en manos de sus enemigosH5414
+- Dan_1:2el Señor entregó en sus manos a JoacimH5414
+- Dan_2:38él los ha entregado en tu mano, y te haH3052
+- Dan_3:28entregarnos sus cuerpos antes que servirH3052
+- Dan_7:11cuerpo fue...entregado para ser quemadoH3052
+- Dan_7:25serán entregados en su mano hasta tiempoH3052
+- Dan_8:12le fue entregado el ejército junto conH5414
+- Dan_8:13entregando el santuario y el ejércitoH5414
+- Dan_11:6porque será entregada ella y los que laH5414
+- Dan_11:11toda aquella multitud será entregada enH5414
+- Ose_11:8oh Efraín? ¿Te entregaré yo, Israel?[[H4042]]
+- Joe_2:17y no entregues al oprobio tu heredadH5414
+- Amó_1:6llevó cautivo...para entregarlo a EdomH5462
+- Amó_1:9entregaron a...un pueblo cautivo a EdomH5462
+- Amó_6:7duelo de los que se entregan a...placeresH5628
+- Amó_6:8entregaré al enemigo la ciudad y cuantoH5462
+- Abd_1:14haber entregado a los que quedaban enH5462
+- Miq_6:14lo que salvares, lo entregaré yo a laH6403
+- Zac_11:6entregaré los hombres cada cual enH4672
+- Mat_5:25no sea que...te entregue al juez, y elG3860
+- Mat_10:4y Judas Iscariote...también le entregóG3860
+- Mat_10:17porque os entregarán a los conciliosG3860
+- Mat_10:19cuando os entreguen, no os preocupéisG3860
+- Mat_10:21el hermano entregará a la muerte alG3860
+- Mat_11:27todas las cosas me fueron entregadasG3860
+- Mat_17:22el Hijo del Hombre será entregado enG3860
+- Mat_18:34le entregó a los verdugos, hasta queG3860
+- Mat_20:18y el Hijo del Hombre será entregado aG3860
+- Mat_20:19le entregarán a los gentiles para queG3860
+- Mat_24:9entregarán a tribulación, y os mataránG3860
+- Mat_24:10y se entregarán unos a otros, y unosG3860
+- Mat_25:14llamó a sus siervos y les entregó susG3860
+- Mat_25:20señor, cinco talentos me entregasteG3860
+- Mat_25:22señor, dos talentos me entregaste; aquíG3860
+- Mat_26:2el Hijo del Hombre será entregado paraG3860
+- Mat_26:15me queréis dar, y yo os lo entregaré?[[G3860]]
+- Mat_26:16buscaba oportunidad para entregarleG3860
+- Mat_26:21que uno de vosotros me va a entregarG3860
+- Mat_26:23el que mete la mano...me va a entregarG3860
+- Mat_26:24¡ay de aquél...por quien...es entregado![[G3860]]
+- Mat_26:25le entregaba, dijo: ¿Soy yo, Maestro?[[G3860]]
+- Mat_26:45Hijo del Hombre es entregado en manosG3860
+- Mat_26:46vamos; ved, se acerca el que me entregaG3860
+- Mat_26:48que le entregaba les había dado señalG3860
+- Mat_26:59falso testimonio...para entregarle a laG2289
+- Mat_27:1contra Jesús, para entregarle a muerteG2289
+- Mat_27:2atado, y le entregaron a Poncio PilatoG3860
+- Mat_27:3Judas...que le había entregado, viendoG3860
+- Mat_27:4yo he pecado entregando sangre inocenteG3860
+- Mat_27:18que por envidia le habían entregadoG3860
+- Mat_27:26a Jesús...entregó para ser crucificadoG3860
+- Mat_27:50clamado a gran voz, entregó el espírituG863
+- Mar_3:19y Judas Iscariote, el que le entregóG3860
+- Mar_9:31; Mar_10:33el Hijo del Hombre será entregadoG3860
+- Mar_10:33muerte, y le entregarán a los gentilesG3860
+- Mar_13:9porque os entregarán a los concilios, yG3860
+- Mar_13:11cuando os trajeren para entregaros, noG3860
+- Mar_13:12el hermano entregará a la...al hermanoG3860
+- Mar_14:10fue a los...sacerdotes para entregárseloG3860
+- Mar_14:11buscaba oportunidad para entregarleG1325
+- Mar_14:18que uno de vosotros...me va a entregarG3860
+- Mar_14:21¡ay de aquel...por quien...es entregado![[G3860]]
+- Mar_14:41aquí, el Hijo del Hombre es entregadoG3860
+- Mar_14:42he aquí, se acerca el que me entregaG3860
+- Mar_14:44y el que le entregaba les había dadoG3860
+- Mar_14:55buscaban testimonio...para entregarleG2289
+- Mar_15:1a Jesús atado, y le entregaron a PilatoG3860
+- Mar_15:10que por envidia le habían entregadoG3860
+- Mar_15:15entregó a Jesús, después de azotarleG3860
+- Luc_4:6porque a mí me ha sido entregada, y aG3860
+- Luc_9:44que el Hijo del Hombre será entregadoG3860
+- Luc_10:22las cosas me fueron entregadas por miG3860
+- Luc_12:58el juez te entregue al alguacil, y elG3860
+- Luc_18:32pues será entregado a los gentiles, yG3860
+- Luc_20:20para entregarle al poder y autoridadG3860
+- Luc_21:12os entregarán a las sinagogas y a lasG3860
+- Luc_21:16entregados aun por vuestros padres, yG3860
+- Luc_22:4fue y habló...de cómo se lo entregaríaG3860
+- Luc_22:6buscaba...oportunidad para entregárseloG3860
+- Luc_22:21mano del que me entrega está conmigoG3860
+- Luc_22:22¡ay de aquel...por quien es entregado![[G3860]]
+- Luc_22:48un beso entregas al Hijo del Hombre?[[G3860]]
+- Luc_23:25entregó a Jesús a la voluntad de ellosG3860
+- Luc_24:7es necesario que el Hijo...sea entregadoG3860
+- Luc_24:20y cómo le entregaron los principalesG3860
+- Jua_3:35y todas las cosas ha entregado en suG1325
+- Jua_6:64Jesús sabía...quién le había de entregarG3860
+- Jua_6:71era el que le iba a entregar, y era unoG3860
+- Jua_12:4y dijo uno...el que le había de entregarG3860
+- Jua_13:2puesto en el corazón...que le entregaseG3860
+- Jua_13:11sabía quién le iba a entregar; por esoG3860
+- Jua_13:21que uno de vosotros me va a entregarG3860
+- Jua_18:2que le entregaba, conocía aquel lugarG3860
+- Jua_18:5con ellos Judas, el que le entregabaG3860
+- Jua_18:30no fuera...no te lo habríamos entregadoG3860
+- Jua_18:35te han entregado a mí...¿Qué has hecho?[[G3860]]
+- Jua_18:36para que yo no fuera entregado a losG3860
+- Jua_19:11que me ha entregado, mayor pecado tieneG3860
+- Jua_19:16entonces lo entregó a ellos para queG3860
+- Jua_19:30consumado es. Y...entregó el espírituG3860
+- Jua_21:20¿quién es el que te ha de entregar?[[G3860]]
+- Hec_2:23entregado por el determinado consejoG1560
+- Hec_3:13quien vosotros entregasteis y negasteisG3860
+- Hec_7:42y los entregó a que rindiesen culto alG3860
+- Hec_8:3a mujeres, y los entregaba en la cárcelG3860
+- Hec_12:4entregándole a cuatro grupos de cuatroG3860
+- Hec_15:30reuniendo a la...entregaron la cartaG1929
+- Hec_16:4entregaban las ordenanzas que habíanG3860
+- Hec_17:16enardecía viendo la ciudad entregada
+- Hec_18:5Pablo estaba entregado por entero a laG4912
+- Hec_21:11le entregarán en manos de los gentilesG3860
+- Hec_22:4y entregando en cárceles a hombres yG3860
+- Hec_25:11acusan, nadie puede entregarme a ellosG5483
+- Hec_25:16no es costumbre...entregar alguno a laG5483
+- Hec_27:1entregaron a Pablo y a...a un centuriónG3860
+- Hec_28:16Roma, el centurión entregó los presosG3860
+- Hec_28:17sido entregado preso desde JerusalénG3860
+- Rom_1:24Dios los entregó a la inmundicia, enG3860
+- Rom_1:26Dios los entregó a pasiones vergonzosasG3860
+- Rom_1:28Dios los entregó a una mente reprobadaG3860
+- Rom_4:25entregado por nuestras transgresionesG3860
+- Rom_6:17doctrina a la cual fuisteis entregadosG3860
+- Rom_8:32no escatimó...Hijo, sino que lo entregóG3860
+- Rom_15:28cuando...les haya entregado este frutoG4972
+- 1Co_5:5el tal sea entregado a Satanás paraG3860
+- 1Co_11:2instrucciones tal como os las entreguéG3860
+- 1Co_11:23la noche que fue entregado, tomó panG3860
+- 1Co_13:3entregase mi cuerpo para ser quemadoG3860
+- 1Co_15:24fin, cuando entregue el reino al Dios yG3860
+- 2Co_4:11entregados a muerte por causa deG3860
+- Gál_2:20me amó y se entregó a sí mismo por míG3860
+- Efe_4:19entregaron a la lascivia para cometerG3860
+- Efe_5:2amó...y se entregó a sí mismo por nosotrosG3860
+- Efe_5:25amó a...y se entregó a sí mismo por ellaG3860
+- 1Ts_2:8entregaros no sólo el evangelio deG3330
+- 1Ti_1:20a quienes entregué a Satanás paraG3860
+- 1Ti_5:6pero la que se entrega a los placeresG4684
+- 2Pe_2:4los entregó a prisiones de oscuridadG3860
+- Rev_3:9entrego...a los que se dicen ser judíosG1325
+- Rev_11:2porque ha sido entregado a los gentilesG1325
+- Rev_17:13entregarán su poder y su...a la bestiaG1239
+- Rev_20:13el mar entregó los muertos que habíaG1325
+- Rev_20:13y el Hades entregaron los muertos queG1325

@@ -1,0 +1,87 @@
+---
+tipo: concordancia
+palabra: MENOR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MENOR
+
+- Gén_1:16la lumbrera m para que señorease enH6996
+- Gén_19:11hirieron con ceguera desde el m hastaH6996
+- Gén_19:31la mayor dijo a la m: Nuestro padre esH6810
+- Gén_19:34la mayor a la m: He aquí, yo dormí laH6810
+- Gén_19:35se levantó la m, y durmió con él; peroH6810
+- Gén_19:38la m también dio a luz un hijo, y llamóH6810
+- Gén_25:23más fuerte...y el mayor servirá al mH6810
+- Gén_27:15tomó Rebeca...vistió a Jacob su hijo mH6996
+- Gén_27:42ella envió y llamó a Jacob su hijo mH6996
+- Gén_29:16dos hijas...y el nombre de la m, RaquelH6996
+- Gén_29:18te serviré siete años por...tu hija mH6996
+- Gén_29:26no se...que se dé la m antes de la mayorH6996
+- Gén_32:10m soy que todas las misericordias y que
+- Gén_42:13m está hoy con nuestro padre, y otroH6996
+- Gén_42:15cuando vuestro hermano m viniere aquíH6996
+- Gén_42:20pero traeréis a vuestro hermano m, yH6996
+- Gén_42:32el m está hoy con nuestro padre en laH6996
+- Gén_42:34traedme a vuestro hermano el m, paraH6996
+- Gén_43:29¿es éste vuestro hermano m, de quienH6810
+- Gén_43:33el mayor...y el m conforme a su m edadH6810
+- Gén_44:2mi copa, la...en la boca del costal del niH6996
+- Gén_44:12desde el mayor...y acabó en el m; y laH6996
+- Gén_44:23si vuestro hermano m no desciende conH6996
+- Gén_44:26si no está con...nuestro hermano el mH6696
+- Gén_48:14puso sobre la...de Efraín, que era el mH6810
+- Gén_48:19su hermano m será más grande que élH6996
+- Éxo_25:25de un palmo m de anchura, y harás
+- Éxo_37:12hizo...una moldura de un palmo m de
+- Lev_25:16cuanto m fuere...disminuirás el precioH4591
+- Núm_26:54darás...a los menos m; y a cada unoH4591
+- Jos_6:26sobre su hijo m asiente sus puertasH6810
+- Jue_1:13la tomó Otoniel...hermano m de CalebH6996
+- Jue_3:9libertador...Otoniel...hermano m de CalebH6996
+- Jue_6:15familia es pobre...y yo el m en la casaH6810
+- Jue_9:5pero quedó Jotam el hijo m de JerobaalH6996
+- Jue_15:2hermana m, ¿no es más hermosa que ella?[[H6996]]
+- 1Sa_14:49nombres de sus dos hijas...m, MicalH6996
+- 1Sa_16:11queda...el m, que apacienta las ovejasH6996
+- 1Sa_17:14David era el m. Siguieron, pues, losH6996
+- 1Sa_30:2se habían llevado...desde el m hasta elH6996
+- 1Re_7:26el grueso del mar era de un palmo m
+- 1Re_12:10el m dedo de los míos es más grueso queH6995
+- 1Re_16:34a precio de...Segub su hijo m puso susH6810
+- 2Re_18:24podrás resistir...al m de los siervosH6996
+- 2Re_25:26m hasta el mayor...se fueron a EgiptoH6996
+- 1Cr_12:14el m tenía cargo de cien hombresH6996
+- 1Cr_24:31igualmente que el m de sus hermanosH6996
+- 2Cr_4:5y tenía de grueso un palmo m, y el
+- 2Cr_21:17no le quedó más hijo...Joacaz el m deH6996
+- 2Cr_22:1hicieron rey en...a Ocozías su hijo mH6996
+- 2Cr_31:15sus porciones...así al mayor como al mH6996
+- Est_1:5el pueblo...desde el mayor hasta el mH6996
+- Est_1:20darán honra a sus maridos...hasta el mH6996
+- Sal_8:5le has hecho poco m que los ángelesH4592
+- Isa_22:24colgarán...todos los vasos m, desdeH6996
+- Isa_36:9podrás resistir...al m de los siervos deH6996
+- Isa_60:22vendrá a ser mil, el m...pueblo fuerteH6996
+- Jer_42:1, Jer_42:8pueblo desde el m hasta el mayorH6996
+- Jer_44:12de hambre morirán desde el m hasta elH6996
+- Eze_16:46tu hermana m es Sodoma con sus hijasH6996
+- Eze_16:61y las m que tú, las cuales yo te daréH6996
+- Eze_40:5de a codo y palmo m; y midió
+- Eze_40:43ganchos, de un palmo m, dispuestos en
+- Eze_43:13medidas...(el codo de a codo y palmo m)
+- Eze_43:14la cornisa m hasta la cornisa mayorH6996
+- Amó_6:11Jehová...herirá...casa m con aberturasH6996
+- Jon_3:5se vistieron de cilicio...el m de ellosH6996
+- Mat_2:16matar a todos los niños m de dos añosG2736
+- Mar_15:40la madre de Jacobo el m y de José, yG3398
+- Luc_15:12el m de ellos dijo a su padre: PadreG3501
+- Luc_15:13después, juntándolo todo el hijo m, seG3501
+- Rom_9:12se le dijo: El mayor servirá al mG1640
+- 1Co_6:4¿ponéis...a los que son de m estimaG1848
+- 1Ti_5:9en la lista sólo la viuda no m de 60G1640
+- Heb_2:7le hiciste un poco m que los ángelesG1024
+- Heb_2:9que fue hecho un poco m que los ángelesG1642
+- Heb_7:7sin discusión alguna, el m es bendecidoG1640
+- Heb_8:11todos me conocerán, desde el m hasta elG3398

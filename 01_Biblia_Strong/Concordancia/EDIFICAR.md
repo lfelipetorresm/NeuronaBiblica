@@ -1,0 +1,369 @@
+---
+tipo: concordancia
+palabra: EDIFICAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EDIFICAR
+
+- Gén_4:17y edificó una ciudad, y llamó...EnocH1129
+- Gén_8:20edificó Noé un altar a Jehová, y tomóH1129
+- Gén_10:11salió...edificó Nínive, Rehobot, CalaH1129
+- Gén_11:4edifiquémonos una ciudad y una torreH1129
+- Gén_11:5ver...la torre que edificaban los hijosH1129
+- Gén_11:8esparció Jehová...y dejaron de edificarH1129
+- Gén_12:7y edificó allí un altar a Jehová, quienH1129
+- Gén_12:8edificó allí altar a Jehová, e invocó elH1129
+- Gén_13:18Hebrón, y edificó allí altar a JehováH1129
+- Gén_22:9edificó allí Abraham un altar, y compusoH1129
+- Gén_26:25y edificó allí un altar, e invocó elH1129
+- Gén_33:17Jacob fue a Sucot, y edificó allí casaH1129
+- Gén_35:7edificó allí un altar, y llamó al lugarH1129
+- Éxo_1:11y edificaron para Faraón las ciudadesH1129
+- Éxo_17:15y Moisés edificó un altar, y llamó suH1129
+- Éxo_24:4edificó un altar al pie del monte, yH1129
+- Éxo_32:5edificó un altar delante del becerroH1129
+- Núm_13:22Hebrón fue edificada 7 años antes deH1129
+- Núm_21:27edifíquese y repárese la ciudad...SehónH1129
+- Núm_23:1, Núm_23:29dijo...Edifícame aquí siete altaresH1129
+- Núm_23:14edificó siete altares, y ofreció unH1129
+- Núm_32:16y dijeron: Edificaremos aquí majadasH1129
+- Núm_32:24edificaos ciudades para vuestros niñosH1129
+- Núm_32:34hijos de Gad edificaron Dibón, AtarotH1129
+- Núm_32:37los hijos de Rubén edificaron HesbónH1129
+- Núm_32:38nombres a las ciudades que edificaronH1129
+- Deu_6:10ciudades grandes...que tú no edificasteH1129
+- Deu_8:12y te sacies, y edifiques buenas casasH1129
+- Deu_13:16la ciudad...nunca más será edificadaH1129
+- Deu_20:5¿quién ha edificado casa nueva, y no laH1129
+- Deu_22:8edifiques casa nueva, harás pretil a tuH1129
+- Deu_25:9al varón que no quiere edificar la casaH1129
+- Deu_27:5y edificarás allí un altar a Jehová tuH1129
+- Deu_27:6de piedras enteras edificarás el altarH1129
+- Deu_28:30edificarás casa, y no habitarás en ellaH1129
+- Jos_8:30Josué edificó un altar a Jehová DiosH1129
+- Jos_22:10edificaron...un altar junto al JordánH1129
+- Jos_22:11habían edificado un altar frente a laH1129
+- Jos_22:16edificándoos altar para ser rebeldesH1129
+- Jos_22:19edificándoos altar además del altar deH1129
+- Jos_22:23si nos hemos edificado altar...volvernosH1129
+- Jos_22:26edifiquemos ahora un altar, no paraH1129
+- Jos_22:29edificando altar para holocaustos, paraH1129
+- Jos_24:13os di...ciudades que no edificasteisH1129
+- Jue_1:26edificó...ciudad a la cual llamó LuzH1129
+- Jue_6:24edificó allí Gedeón altar a Jehová, yH1129
+- Jue_6:26y edifica altar a Jehová tu Dios en laH1129
+- Jue_6:28en holocausto sobre el altar edificadoH1129
+- Jue_21:4y edificaron allí altar, y ofrecieronH1129
+- Rut_4:11cuales edificaron la casa de IsraelH1129
+- 1Sa_2:35yo le edificaré casa firme, y andaráH1129
+- 1Sa_7:17Ramá...y edificó allí un altar a JehováH1129
+- 1Sa_14:35y edificó Saúl altar...el primero que eH1129
+- 2Sa_5:9y edificó alrededor desde Milo haciaH1129
+- 2Sa_5:11los cuales edificaron la casa de DavidH1129
+- 2Sa_7:5me has de edificar casa en que yo more?[[H1129]]
+- 2Sa_7:7¿por qué no me habéis edificado casa deH1129
+- 2Sa_7:13edificará casa a mi nombre...afirmaréH1129
+- 2Sa_7:27siervo, diciendo: Yo te edificaré casaH1129
+- 2Sa_24:21a fin de edificar un altar a JehováH1129
+- 2Sa_24:25edificó allí David un altar a JehováH1129
+- 1Re_2:36edifícate una casa en Jerusalén, yH1129
+- 1Re_3:1tanto que acababa de edificar su casaH1129
+- 1Re_3:2porque no había casa edificada al nombreH1129
+- 1Re_5:3mi padre David no pudo edificar casa alH1129
+- 1Re_5:5he determinado ahora edificar casa alH1129
+- 1Re_5:5tu hijo...él edificará casa a mi nombreH1129
+- 1Re_6:1comenzó él a edificar la casa de JehováH1129
+- 1Re_6:2casa que el rey...edificó a Jehová teníaH1129
+- 1Re_6:5edificó...al muro de la casa aposentosH1129
+- 1Re_6:7cuando se edificó la casa, la fabricaronH1129
+- 1Re_6:7cuando la edificaban, ni martillos niH1129
+- 1Re_6:10edificó...el aposento alrededor de todaH1129
+- 1Re_6:12con relación a...casa que tú edificasH1129
+- 1Re_6:36edificó el atrio...de tres hileras deH1129
+- 1Re_6:38casa...la edificó, pues, en siete añosH1129
+- 1Re_7:1después edificó Salomón su propia casaH1129
+- 1Re_7:2edificó la casa del bosque del LíbanoH1129
+- 1Re_7:8edificó...Salomón para la hija de FaraónH6213
+- 1Re_8:13yo he edificado casa por morada para tiH1129
+- 1Re_8:16ciudad...para edificar casa en la cualH1129
+- 1Re_8:17mi padre tuvo en su corazón edificarH1129
+- 1Re_8:18haber tenido en tu corazón edificar casaH1129
+- 1Re_8:19tú no edificarás la casa...él edificaráH1129
+- 1Re_8:20edificado la casa al nombre de JehováH1129
+- 1Re_8:27¿cuánto menos esta...yo he edificado?[[H1129]]
+- 1Re_8:43invocado sobre...casa que yo edifiquéH1129
+- 1Re_8:44rostro...hacia la casa que yo edifiquéH1129
+- 1Re_8:48y hacia...la casa que yo he edificadoH1129
+- 1Re_9:3santificado...casa que tú has edificadoH1129
+- 1Re_9:10Salomón ya había edificado las...casasH1129
+- 1Re_9:15leva...para edificar la casa de JehováH1129
+- 1Re_9:19todo lo que...quiso edificar en JerusalénH1129
+- 1Re_9:24su casa que Salomón le había edificadoH1129
+- 1Re_9:24que Salomón...entonces edificó él a MiloH1129
+- 1Re_9:25sobre el altar que él edificó a JehováH1129
+- 1Re_10:4vio toda...la casa que había edificadoH1129
+- 1Re_11:7edificó Salomón un lugar alto a QuemosH1129
+- 1Re_11:27Salomón, edificando a Milo, cerró elH1129
+- 1Re_11:38te edificaré casa...como la edifiqué aH1129
+- 1Re_14:23se edificaron lugares altos, estatuasH1129
+- 1Re_15:17subió Baasa...edificó a Ramá, para queH1129
+- 1Re_15:21oyendo esto Baasa, dejó de edificar aH1129
+- 1Re_15:22y la madera con que Baasa edificabaH1129
+- 1Re_15:22edificó el rey Asa con ello a Geba deH1129
+- 1Re_15:23y las ciudades que edificó, ¿no estáH1129
+- 1Re_16:24Omri...edificó en el monte; y llamó elH1129
+- 1Re_16:24llamó...la ciudad que edificó, SamariaH1129
+- 1Re_16:32en el templo de Baal que él edificóH1129
+- 1Re_18:32edificó con las piedras un altar en elH1129
+- 1Re_22:39las ciudades que edificó, ¿no estáH1129
+- 2Re_15:35edificó él la puerta más alta de laH1129
+- 2Re_16:11y el sacerdote Urías edificó el altarH1129
+- 2Re_16:18el pórtico...que habían edificado en laH1129
+- 2Re_17:9edificándose lugares altos en...ciudadesH1129
+- 2Re_21:3volvió a edificar los lugares altos queH1129
+- 2Re_21:4edificó altares en la casa de Jehová deH1129
+- 2Re_21:5y edificó altares para todo el ejércitoH1129
+- 2Re_23:13Salomón rey...había edificado a AstoretH1129
+- 1Cr_6:10que Salomón edificó en JerusalénH1129
+- 1Cr_6:32que Salomón edificó la casa de Jehová enH1129
+- 1Cr_7:24Seera, la cual edificó a Bet-horón laH1129
+- 1Cr_8:12Semed (el cual edificó Ono, y Lod conH1129
+- 1Cr_11:8y edificó la ciudad...desde Milo hastaH1129
+- 1Cr_14:1cedro...para que le edificasen una casaH1129
+- 1Cr_17:4tú no me edificarás casa en que habiteH1129
+- 1Cr_17:6¿Por qué no me edificáis una...de cedro?[[H1129]]
+- 1Cr_17:10hago saber...Jehová te edificará casaH1129
+- 1Cr_17:12él me edificará casa, y yo confirmaréH1129
+- 1Cr_17:25revelaste al...le has de edificar casaH1129
+- 1Cr_21:22para que edifique un altar a JehováH1129
+- 1Cr_21:26edificó allí David un altar a JehováH1129
+- 1Cr_22:2labrasen piedras para edificar la casaH1129
+- 1Cr_22:5la casa que se ha de edificar a JehováH1129
+- 1Cr_22:6y le mandó que edificase casa a JehováH1129
+- 1Cr_22:7en mi corazón tuve el edificar temploH1129
+- 1Cr_22:8no edificarás casa a mi nombre, porqueH1129
+- 1Cr_22:10él edificará casa a mi nombre, y él meH1129
+- 1Cr_22:11edifiques casa a Jehová tu Dios, comoH1129
+- 1Cr_22:19edificad el santuario de Jehová DiosH1129
+- 1Cr_22:19la casa edificada al nombre de JehováH1129
+- 1Cr_28:2yo tenía el propósito de edificar unaH1129
+- 1Cr_28:2había ya preparado todo para edificarH1129
+- 1Cr_28:3no edificarás casa a mi nombre, porqueH1129
+- 1Cr_28:6Salomón tu hijo, él edificará mi casaH1129
+- 1Cr_28:10te ha elegido para que edifiques casaH1129
+- 1Cr_29:16para edificar casa a tu santo nombreH1129
+- 1Cr_29:19y te edifique la casa para la cual yoH1129
+- 2Cr_2:1determinó, pues, Salomón edificarH1129
+- 2Cr_2:3enviándole cedros para que edificara paraH1129
+- 2Cr_2:4yo tengo que edificar casa al nombre deH1129
+- 2Cr_2:5la casa que tengo que edificar, ha de serH1129
+- 2Cr_2:6mas ¿quién será capaz de edificarle casaH1129
+- 2Cr_2:6¿quién soy yo, para que le edifique casaH1129
+- 2Cr_2:9la casa que tengo que edificar ha de serH1129
+- 2Cr_2:12hijo sabio...que edifique casa a JehováH1129
+- 2Cr_3:1comenzó Salomón a edificar la casa deH1129
+- 2Cr_3:2comenzó a edificar en el mes segundo, aH1129
+- 2Cr_6:2he edificado una casa de morada para tiH1129
+- 2Cr_6:5edificar casa donde estuviese mi nombreH1129
+- 2Cr_6:7David...tuvo en su corazón edificar casaH1129
+- 2Cr_6:8haber tenido...deseo de edificar casa aH1129
+- 2Cr_6:9tú no edificarás la casa, sino tu hijo queH1129
+- 2Cr_6:9sino tu hijo...edificará casa a mi nombreH1129
+- 2Cr_6:10he edificado casa al nombre de JehováH1129
+- 2Cr_6:18cuánto menos esta casa que he edificado?[[H1129]]
+- 2Cr_6:33sobre esta casa que yo he edificadoH1129
+- 2Cr_6:34, 2Cr_6:38casa que he edificado a tu nombreH1129
+- 2Cr_8:1había edificado la casa de Jehová y suH1129
+- 2Cr_8:4edificó a Tadmor en el desierto, y todasH1129
+- 2Cr_8:4las ciudades de...que edificó en HamatH1129
+- 2Cr_8:6y todo lo que Salomón quiso edificar enH1129
+- 2Cr_8:11casa que él había edificado para ellaH1129
+- 2Cr_8:12el altar...había edificado delante delH1129
+- 2Cr_9:3viendo la...y la casa que había edificadoH1129
+- 2Cr_11:5edificó ciudades para fortificar a JudáH1129
+- 2Cr_11:6edificó Belén, Etam, TecoaH1129
+- 2Cr_14:6edificó ciudades fortificadas en JudáH1129
+- 2Cr_14:7dijo pues...Edifiquemos estas ciudadesH1129
+- 2Cr_14:7edificaron, pues, y fueron prosperadosH1129
+- 2Cr_16:5oyendo esto Baasa, cesó de edificar aH1129
+- 2Cr_16:6y la madera con que Baasa edificaba, yH1129
+- 2Cr_16:6y con ellas edificó a Geba y a MizpaH1129
+- 2Cr_17:12Josafat...y edificó en Judá fortalezasH1129
+- 2Cr_20:8te han edificado en ella santuario a tuH1129
+- 2Cr_26:2Uzías edificó a Elot, y la restituyó aH1129
+- 2Cr_26:6y edificó ciudades en Asdod, y en laH1129
+- 2Cr_26:9edificó...torres en Jerusalén, junto aH1129
+- 2Cr_26:10edificó torres en el desierto, y abrióH1129
+- 2Cr_27:3edificó él la puerta mayor de la casaH1129
+- 2Cr_27:3y sobre el muro de la...edificó muchoH1129
+- 2Cr_27:4edificó ciudades en las montañas de JudáH1129
+- 2Cr_32:5edificó Ezequías...los muros caídos, eH1129
+- 2Cr_33:4edificó...altares en la casa de JehováH1129
+- 2Cr_33:5edificó...altares a todo...de los cielosH1129
+- 2Cr_33:14edificó el muro exterior de la ciudadH1129
+- 2Cr_33:15quitó...los altares que había edificadoH1129
+- 2Cr_33:19sitios donde edificó lugares altos yH1129
+- 2Cr_35:3el arca...en la casa que edificó SalomónH1129
+- 2Cr_36:23edifique casa en Jerusalén, que estáH1129
+- Esd_1:2me ha mandado que le edifique casa enH1129
+- Esd_1:3edifique la casa a Jehová Dios de IsraelH1129
+- Esd_1:5para subir a edificar la casa de JehováH1129
+- Esd_3:2edificaron el altar del Dios de IsraelH1129
+- Esd_4:1venidos de la cautividad edificaban elH1129
+- Esd_4:2les dijeron: Edificaremos con vosotrosH1129
+- Esd_4:3no nos conviene edificar con vosotrosH1129
+- Esd_4:3sino que nosotros solos la edificaremosH1129
+- Esd_4:4pero...lo atemorizó para que no edificaraH1129
+- Esd_4:12y edifican la ciudad rebelde y mala, yH1124
+- Esd_5:3¿quién os ha dado orden para edificarH1124
+- Esd_5:8la cual se edifica con piedras grandesH1124
+- Esd_5:9¿quién os dio orden para edificar estaH1124
+- Esd_5:11la casa que ya...había sido edificadaH1124
+- Esd_5:11la cual edificó y terminó el gran reyH1124
+- Esd_5:16hasta ahora se edifica, y aún no estáH1124
+- Esd_6:14de los judíos edificaban Y prosperabanH1124
+- Esd_6:14edificaron...y terminaron, por orden delH1124
+- Neh_2:17edifiquemos el muro de Jerusalén, yH1129
+- Neh_2:18y dijeron: Levantémonos y edifiquemosH1129
+- Neh_2:20nos levantaremos y edificaremos, porqueH1129
+- Neh_3:1Y edificaron la puerta de las OvejasH1129
+- Neh_3:1Y edificaron hasta la torre de Hananeel
+- Neh_3:2junto a ella edificaron los varones deH1129
+- Neh_3:2junto...luego edificó Zacur hijo de ImriH1129
+- Neh_3:3Senaa edificaron la puerta del PescadoH1129
+- Neh_4:1oyó Sanbalat que...edificábamos el muroH1129
+- Neh_4:3lo que ellos edifican del muro de piedraH1129
+- Neh_4:5se airaron contra los que edificabanH1129
+- Neh_4:6edificamos...el muro, y toda la murallaH1129
+- Neh_4:10es mucho, y no podemos edificar el muroH1129
+- Neh_4:17los que edificaban en el muro, los queH1129
+- Neh_4:18los que edificaban, cada uno tenía suH1129
+- Neh_4:18edificaban; y el que tocaba la trompetaH1129
+- Neh_6:1oyeron...que yo había edificado el muroH1129
+- Neh_6:6y que por eso edificas tú el muro, conH1129
+- Neh_7:1que el muro fue edificado, y colocadasH1129
+- Neh_12:29los cantores se habían edificado aldeasH1129
+- Job_12:14si él derriba, no hay quien edifiqueH1129
+- Job_20:19cuanto...robó casas, y no las edificóH1129
+- Job_22:23si te volvieres al...serás edificadoH1129
+- Job_27:18edificó su casa como la polilla, y comoH1129
+- Sal_28:5él los derribará, y no los edificaráH1129
+- Sal_51:18a Sion; edifica los muros de JerusalénH1129
+- Sal_78:69edificó su santuario a manera deH1129
+- Sal_89:2para siempre será edificada misericordiaH1129
+- Sal_89:4y edificaré tu trono por...generacionesH1129
+- Sal_102:16Jehová habrá edificado a Sion, y enH1129
+- Sal_122:3Jerusalén, que se ha edificado como unaH1129
+- Sal_127:1si Jehová no edificare la casa, en vanoH1129
+- Sal_127:1en vano trabajan los que la edificanH1129
+- Sal_147:2Jehová edifica a Jerusalén; a...recogeráH1129
+- Pro_9:1la sabiduría edificó su casa, labró susH1129
+- Pro_14:1la mujer sabia edifica su casa; mas laH1129
+- Pro_24:3con sabiduría se edificará la casa, yH1129
+- Pro_24:27prepara...y después edificarás tu casaH1129
+- Ecl_2:4edifiqué para mí casas, planté para míH1129
+- Ecl_3:3tiempo de destruir, y tiempo de edificarH1129
+- Cnt_4:4como la torre de David, edificada paraH1129
+- Cnt_8:9muro, edificaremos sobre él un palacioH1129
+- Isa_5:2había edificado en medio de ella unaH1129
+- Isa_9:10cayeron, pero edificaremos de canteríaH1129
+- Isa_23:13sus fortalezas, edificaron sus palaciosH6209
+- Isa_44:28al decir a Jerusalén: Serás edificadaH1129
+- Isa_45:13él edificará mi ciudad, y soltará misH1129
+- Isa_58:12tuyos edificarán las ruinas antiguasH1129
+- Isa_60:10y extranjeros edificarán tus muros, yH1129
+- Isa_65:21edificarán casas, y morarán en ellasH1129
+- Isa_65:22no edificarán para que otro habite, niH1129
+- Isa_66:1está la casa que me habréis de edificarH1129
+- Jer_1:10puesto...para edificar y para plantarH1129
+- Jer_7:31han edificado los lugares altos de TofetH1129
+- Jer_18:9hablaré de la gente y...para edificarH1129
+- Jer_19:5edificaron lugares altos a Baal, paraH1129
+- Jer_22:13del que edifica su casa sin justiciaH1129
+- Jer_22:14que dice: Edificaré...casa espaciosaH1129
+- Jer_24:6volveré a esta tierra, y los edificaréH1129
+- Jer_29:5, Jer_29:28edificad casas, y habitadlas: plantadH1129
+- Jer_30:18y la ciudad será edificada sobre suH1129
+- Jer_31:4aún te edificaré, y serás edificada, ohH1129
+- Jer_31:28tendré cuidado de ellos para edificarH1129
+- Jer_31:38que la ciudad será edificada a JehováH1129
+- Jer_32:31desde el día que la edificaron hastaH1129
+- Jer_32:35edificaron lugares altos a Baal, losH1129
+- Jer_35:7edificaréis casa, ni sembraréis...viñaH1129
+- Jer_35:9no edificar casas para nuestra moradaH1129
+- Jer_42:10os edificaré, y no os destruiré; osH1129
+- Jer_45:4destruyo a los que edifiqué, y arrancoH1129
+- Jer_52:4y de todas partes edificaron...baluartesH1129
+- Lam_3:5edificó baluartes contra mi, y me rodeóH1129
+- Eze_4:2y edificarás contra ella fortaleza, yH1129
+- Eze_11:3no será tan pronto; edifiquemos casasH1129
+- Eze_13:5ni habéis edificado un muro alrededorH1443
+- Eze_13:10y uno edificaba la pared, y...los otrosH1129
+- Eze_16:24edificaste lugares altos, y te hicisteH1129
+- Eze_16:25en toda...camino edificaste lugar altoH1129
+- Eze_16:31edificando tus lugares altos en todaH1129
+- Eze_17:17edifiquen torres para cortar...vidasH1129
+- Eze_21:22para poner...edificar torres de sitioH1129
+- Eze_26:14nunca más serás edificada; porque yoH1129
+- Eze_27:4los que te edificaron completaron tuH1129
+- Eze_28:26y edificarán casas, y plantarán viñasH1129
+- Eze_36:10serán habitadas, y edificadas las ruinasH1129
+- Dan_4:30la gran Babilonia que yo edifiqué paraH1129
+- Dan_9:25la orden para...y edificar a JerusalénH1129
+- Dan_9:25volverá a edificar la plaza y el muroH1129
+- Ose_8:14y edificó templos, y Judá multiplicóH1129
+- Amó_5:11edificasteis casas de piedra labradaH1129
+- Amó_9:6él edificó en el cielo sus cámaras, y haH1129
+- Amó_9:11lo edificaré como en el tiempo pasadoH1129
+- Amó_9:14y edificarán...las ciudades asoladas, yH1129
+- Miq_3:10que edificáis a Sion con sangre, y aH1129
+- Miq_7:11viene el día en que se edificarán tusH1129
+- Hab_2:12que edifica la ciudad con sangre, yH1129
+- Sof_1:13edificarán casas...no las habitaránH1129
+- Zac_1:16en ella será edificada mi casa, diceH1129
+- Zac_5:11que le sea edificada casa en tierra deH1129
+- Zac_6:12Renuevo...edificará el templo de JehováH1129
+- Zac_6:13él edificará el templo de Jehová, y élH1129
+- Zac_6:15ayudarán a edificar el templo de JehováH1129
+- Zac_8:9el cimiento a...para edificar el temploH1129
+- Zac_9:3Tiro se edificó fortaleza, y amontonóH1129
+- Mal_1:4volveremos a edificar lo arruinadoH1129
+- Mal_1:4ellos edificarán, y yo destruiré; y lesH1129
+- Mat_7:24hombre prudente, que edificó su casaG3618
+- Mat_7:26hombre...edificó su casa sobre la arenaG3618
+- Mat_16:18sobre esta roca edificaré mi iglesiaG3618
+- Mat_21:33edificó una torre, y la arrendó a unosG3618
+- Mat_23:29porque edificáis los sepulcros de losG3618
+- Mar_12:1plantó una viña...edificó una torre, yG3618
+- Mar_14:58en tres días edificaré otro hecho sinG3618
+- Luc_4:29estaba edificada la ciudad de ellosG3618
+- Luc_6:48hombre que al edificar una casa, cavóG3618
+- Luc_6:49que edificó su casa sobre tierra, sinG3618
+- Luc_7:5ama...nación, y nos edificó una sinagogaG3618
+- Luc_11:47edificáis los sepulcros de los profetasG3618
+- Luc_11:48y vosotros edificáis sus sepulcrosG3618
+- Luc_12:18los edificaré mayores, y allí guardaréG3618
+- Luc_14:28¿quién...queriendo edificar una torreG3618
+- Luc_14:30comenzó a edificar, y no pudo acabarG3618
+- Luc_17:28comían, bebían...plantaban, edificabanG3618
+- Jua_2:20en 46 años fue edificado este temploG3618
+- Hec_7:47mas Salomón le edificó casaG3618
+- Hec_7:49qué casa me edificaréis? dice el SeñorG3618
+- Hec_9:31eran edificadas, andando en el temor delG3618
+- Rom_15:20no edificar sobre fundamento ajenoG3618
+- 1Co_3:10otro edifica encima; pero cada unoG4925
+- 1Co_3:12si alguno edificare oro, plata, piedrasG2026
+- 1Co_8:1el conocimiento envanece...el amor edificaG3618
+- 1Co_10:23todo me es lícito, pero no todo edificaG3618
+- 1Co_14:4en lengua extraña, a si mismo se edificaG3618
+- 1Co_14:4el que profetiza, edifica a la iglesiaG3618
+- 1Co_14:17gracias, pero el otro no es edificadoG3618
+- Gál_2:18cosas que destruí...vuelvo a edificarG3618
+- Efe_2:20edificados sobre el fundamento de losG2026
+- Efe_2:22en quien...sois juntamente edificadosG4925
+- Efe_4:16recibe su...para ir edificándose en amorG3619
+- 1Ts_5:11edificaos unos a otros, así como loG3618
+- 1Pe_2:5sed edificados como casa espiritual yG3618
+- Jud_1:20edificándoos sobre vuestra santísima feG2026

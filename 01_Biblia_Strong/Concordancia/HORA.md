@@ -1,0 +1,137 @@
+---
+tipo: concordancia
+palabra: HORA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HORA
+
+- Gén_8:11la paloma volvió...a la h de la tardeH6256
+- Gén_24:11a la h de la tarde, la h en que salenH6256
+- Gén_24:63había salido Isaac...a la h de la tardeH6153
+- Éxo_9:18a estas h yo haré llover granizo muyH6256
+- Deu_16:6pascua...a la h que saliste de EgiptoH4150
+- Jos_11:6a esta h yo entregaré a todos ellosH6256
+- Rut_2:14y Booz le dijo a la h de comer: VenH6256
+- 1Sa_9:16mañana a esta misma h yo enviaré aH6256
+- 1Sa_20:12le haya preguntado...mañana a esta hH6256
+- 1Re_18:29gritando...hasta la h de ofrecerse
+- 1Re_18:36llegó la h de ofrecerse el holocausto
+- 1Re_19:2si mañana a estas h yo no he puesto tuH6256
+- 1Re_20:6mañana a estas h enviaré yo a ti misH6256
+- 2Re_5:22vinieron a mí en esta h del monte deH935
+- 2Re_7:1mañana a estas h valdrá el seah de florH6256
+- 2Re_7:18vendido por un siclo mañana a estas hH6256
+- 2Re_10:6venid a mí mañana a esta h, a JezreelH6256
+- Esd_9:4estuve muy angustiado hasta la h del
+- Esd_9:5a la h del sacrificio de la...me levanté
+- Est_4:14¿y quién sabe si para esta h...reino?[[H6256]]
+- Job_5:3y en la misma h maldije su habitaciónH6597
+- Sal_105:19la h que se cumplió su palabra, elH6256
+- Ecl_3:1y todo lo que se quiere...tiene su hH6256
+- Ecl_10:17príncipes comen a su h, para reponerH6256
+- Eze_22:3para que venga su h, y que hizo ídolosH6256
+- Dan_3:15en la misma h seréis echados en medioH8160
+- Dan_4:19Daniel, cuyo...quedó atónito casi una hH8160
+- Dan_4:33la misma h se cumplió la palabra sobreH8160
+- Dan_5:5en aquella misma h aparecieron los dedosH8160
+- Dan_9:21vino a mí como a la h del sacrificio deH6256
+- Mat_8:13criado fue sanado en aquella misma hG5610
+- Mat_9:22y la mujer fue salva desde aquella hG5610
+- Mat_10:19aquella h os será dado lo que...hablarG5610
+- Mat_14:15la h ya pasada; despide a la multitudG5610
+- Mat_15:28y su hija fue sanada desde aquella hG5610
+- Mat_17:18muchacho...quedó sano desde aquella hG5610
+- Mat_20:3saliendo cerca de la h tercera del díaG5610
+- Mat_20:5salió...cerca de las h sexta y novena, eG5610
+- Mat_20:6saliendo cerca de la h undécima, hallóG5610
+- Mat_20:9que habían ido cerca de la h undécimaG5610
+- Mat_20:12estos postreros han trabajado una...hG5610
+- Mat_24:36del día y la h nadie sabe, ni aun losG5610
+- Mat_24:42no sabéis a qué h ha de venir...SeñorG5610
+- Mat_24:43supiese a...h el ladrón había de venirG5438
+- Mat_24:44el Hijo...vendrá a la h que no pensáisG5610
+- Mat_24:50vendrá el señor de...a la h que no sabeG5610
+- Mat_25:13porque no sabéis el día ni la h en queG5610
+- Mat_26:40no habéis podido velar conmigo una h?[[G5610]]
+- Mat_26:45ha llegado la h, y el Hijo del HombreG5610
+- Mat_26:55en aquella h dijo Jesús a la genteG5610
+- Mat_27:45desde la h sexta...hasta la h novenaG5610
+- Mat_27:46cerca de la h novena, Jesús clamó aG5610
+- Mar_6:35cuando ya era muy avanzada la h, susG5610
+- Mar_6:35el...es desierto, y la h ya muy avanzadaG5610
+- Mar_13:11lo que os fuere dado en aquella h, esoG5610
+- Mar_13:32de aquel día y de la h nadie sabe, niG5610
+- Mar_14:35fuese posible, pasase de él aquella hG5610
+- Mar_14:37duermes? ¿No has podido velar una h?[[G5610]]
+- Mar_14:41dijo: Dormid ya...Basta, la h ha venidoG5610
+- Mar_15:25era la h tercera cuando le crucificaronG5610
+- Mar_15:33cuando vino la h sexta, hubo tinieblasG5610
+- Mar_15:33sobre toda la tierra hasta la h novenaG5610
+- Mar_15:34a la h novena Jesús clamó a gran vozG5610
+- Luc_1:10pueblo estaba fuera orando a la h delG5610
+- Luc_2:38ésta, presentándose en la misma h, dabaG5610
+- Luc_7:21misma h sanó a muchos de enfermedadesG5610
+- Luc_10:21en aquella...h Jesús se regocijó en elG5610
+- Luc_12:12el Espíritu...os enseñará en la misma hG5610
+- Luc_12:39si supiese...a qué h el ladrón había deG5610
+- Luc_12:40la h que no penséis, el Hijo...vendráG5610
+- Luc_12:46vendrá el señor de...a la h que no sabeG5610
+- Luc_14:17a la h de la cena envió a su siervo aG5610
+- Luc_20:19los escribas echarle mano en aquella hG5610
+- Luc_22:14cuando era la h, se sentó a la mesaG5610
+- Luc_22:53esta es vuestra h, y la potestad de lasG5610
+- Luc_22:59una h después, otro afirmaba, diciendoG5610
+- Luc_23:44como la h sexta, hubo tinieblas sobreG5610
+- Luc_23:44sobre toda la tierra hasta la h novenaG5610
+- Luc_24:33levantándose en la misma h, volvieronG5610
+- Jua_1:39quedaron con él...era como la h décimaG5610
+- Jua_2:4conmigo, mujer? Aún no ha venido mi hG5610
+- Jua_4:6se sentó así junto al pozo...la h sextaG5610
+- Jua_4:21la h viene cuando ni en este monte niG5610
+- Jua_4:23mas la h viene...cuando los verdaderosG5610
+- Jua_4:52a qué h había comenzado a estar mejorG5610
+- Jua_4:53aquella era la h en que Jesús le habíaG5610
+- Jua_5:25viene la h...cuando los muertos oiránG5610
+- Jua_5:28vendrá h cuando todos los que están enG5610
+- Jua_7:30; Jua_8:20porque aún no había llegado su hG5610
+- Jua_11:9¿no tiene el día doce h? El que anda deG5610
+- Jua_12:23ha llegado la h para que el Hijo delG5610
+- Jua_12:27qué diré? ¿Padre, sálvame de esta h?[[G5610]]
+- Jua_12:27qué...Mas para esto he llegado a esta hG5610
+- Jua_13:1sabiendo Jesús que su h había llegadoG5610
+- Jua_16:2viene la h cuando cualquiera que os mateG5610
+- Jua_16:4cuando llegue la h, os acordéis de queG5610
+- Jua_16:21tiene dolor, porque ha llegado su hG5610
+- Jua_16:25la h viene cuando ya no os hablaré porG5610
+- Jua_16:32he aquí la h viene, y ha venido ya, enG5610
+- Jua_17:1Padre, la h ha llegado; glorifica a tuG5610
+- Jua_19:14era la víspera de...y como la h sextaG5610
+- Jua_19:27aquella h el discípulo la recibió en suG5610
+- Hec_2:15puesto que es la h tercera del díaG5610
+- Hec_3:1subían...a la h novena, la de la oraciónG5610
+- Hec_5:7pasado un lapso como de tres h, sucedióG5610
+- Hec_10:3una visión, como a la h novena del díaG5610
+- Hec_10:9Pedro subió a la...cerca de la h sextaG5610
+- Hec_10:30a esta h yo estaba en ayunas; y a laG5610
+- Hec_10:30la h novena, mientras oraba en mi casaG5610
+- Hec_16:18salgas de...y salió en aquella misma hG5610
+- Hec_16:33tomándolos en aquella...h de la nocheG5610
+- Hec_19:34gritaron casi por dos h: ¡Grande esG5610
+- Hec_22:13yo en aquella misma h recobré la vistaG5610
+- Hec_23:23que preparasen para la h tercera de laG5610
+- Rom_13:11que es ya h de levantarnos del sueñoG5610
+- 1Co_4:11hasta esta h padecemos hambre...sedG5610
+- 1Co_15:30por qué nosotros peligramos a toda h?[[G5610]]
+- Rev_3:3y no sabrás a qué h vendré sobre tiG5610
+- Rev_3:10te guardaré de la h de la prueba que haG5610
+- Rev_8:1hizo silencio en el cielo como por media hG2256
+- Rev_9:15estaban preparados para la h, día, mes yG5610
+- Rev_11:13en aquella h hubo gran terremoto, y laG5610
+- Rev_14:7la h de su juicio ha llegado; y adorad aG5610
+- Rev_14:15la h de segar ha llegado, pues la miesG5610
+- Rev_17:12por una h recibirán autoridad como reyesG5610
+- Rev_18:10¡ay...porque en una h vino tu juicio![[G5610]]
+- Rev_18:17en una h han sido consumidas tantasG5610
+- Rev_18:19¡ay de...pues en una h ha sido desolada![[G5610]]

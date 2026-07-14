@@ -1,0 +1,288 @@
+---
+tipo: concordancia
+palabra: MAÑANA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MAÑANA
+
+- Gén_1:5noche. Y fue la tarde y la m un díaH1242
+- Gén_1:8, Gén_1:13, Gén_1:19, Gén_1:23, Gén_1:31fue la tarde y la m el díaH1242
+- Gén_19:2y por la m os levantaréis, y seguiréis
+- Gén_19:27subió Abraham por la m al lugar dondeH1242
+- Gén_20:8Abimelec se levantó de m y llamó a todosH1242
+- Gén_21:14Abraham se levantó muy de m, y tomóH1242
+- Gén_22:3Abraham se levantó muy de m...y fue alH1242
+- Gén_24:54levantándose de m, dijo: Enviadme aH1242
+- Gén_28:18levantó Jacob de m, y tomó la piedraH1242
+- Gén_29:25venida la m, he aquí que era LeaH1242
+- Gén_30:33así responderá por mí mi honradez mH4279
+- Gén_31:55levantó Labán de m, y besó sus hijosH1242
+- Gén_40:6vino a ellos José por la m, y los miróH1242
+- Gén_41:8que por la m estaba agitado su espírituH1242
+- Gén_44:3la m, los hombres fueron despedidos conH1242
+- Gén_49:27Benjamín es lobo...la m comerá la presaH1242
+- Éxo_7:15vé por la m a Faraón, he aquí que élH1242
+- Éxo_8:10él dijo: M. Y Moisés respondió: Se haráH4279
+- Éxo_8:20levántate de m y...delante de Faraón; heH1242
+- Éxo_8:23yo pondré redención...M será esta señalH4279
+- Éxo_8:29se vayan de Faraón, y...y de su pueblo mH4279
+- Éxo_9:5fijó...M hará Jehová esta cosa en la tierraH4279
+- Éxo_9:13levántate...m, y ponte delante de FaraónH1242
+- Éxo_9:18m a estas horas yo haré llover granizoH4279
+- Éxo_10:4que m yo traeré sobre tu...la langostaH4279
+- Éxo_10:13al venir la m el viento oriental trajoH1242
+- Éxo_12:10ninguna cosa dejaréis de él hasta la mH1242
+- Éxo_12:10lo que quedare hasta la m, lo quemaréisH1242
+- Éxo_12:22ninguno de vosotros salga...hasta la mH1242
+- Éxo_13:14m te pregunte tu hijo...¿Qué es esto?[[H4279]]
+- Éxo_14:24a la vigilia de la m, que Jehová miróH1242
+- Éxo_16:7la m veréis la gloria de Jehová; porqueH1242
+- Éxo_16:8os dará en...y en la m pan hasta saciarosH1242
+- Éxo_16:12por la m os saciaréis de pan, y sabréisH1242
+- Éxo_16:13por la m descendió rocío en derredorH1242
+- Éxo_16:19dijo...Ninguno deje nada de ello para mH1242
+- Éxo_16:21lo recogían cada m, cada uno según loH1242
+- Éxo_16:23m es el santo día de reposo...a JehováH4279
+- Éxo_16:23lo que os sobrare, guardadlo para mH1242
+- Éxo_16:24guardaron hasta la m...y no se agusanóH1242
+- Éxo_17:9m yo estaré sobre la cumbre del colladoH4279
+- Éxo_18:13pueblo...delante de Moisés desde la mH1242
+- Éxo_18:14pueblo está delante de ti desde la mH1242
+- Éxo_19:10vé al pueblo, y santifícalos hoy y mH4279
+- Éxo_19:16cuando vino la m, vinieron truenos yH1242
+- Éxo_23:18ni la grosura de...quedará...hasta la mH1242
+- Éxo_24:4levantándose de m edificó un altar alH1242
+- Éxo_27:21que ardan...desde la tarde hasta la mH1242
+- Éxo_29:34si sobrare hasta la m algo de la carneH1242
+- Éxo_29:39ofrecerás uno de los corderos por la mH1242
+- Éxo_29:41haciendo conforme a la ofrenda de la mH1242
+- Éxo_30:7cada m cuando aliste las lámparas loH1242
+- Éxo_32:5y pregonó Aarón, y dijo: m será fiestaH4279
+- Éxo_34:2prepárate, pues, para m, y sube de ni alH1242
+- Éxo_34:4se levantó de m y subió al monte SinaíH1242
+- Éxo_34:25ni se dejará hasta la m...sacrificio deH1242
+- Éxo_36:3trayéndole ofrenda voluntaria cada mH1242
+- Lev_6:9el holocausto estará sobre...hasta la mH1242
+- Lev_6:12el sacerdote pondrá en él leña cada mH1242
+- Lev_6:20la mitad a la m y la mitad a la tardeH1242
+- Lev_9:17quemar...además del holocausto de la mH1242
+- Lev_19:13no retendrás el salario del...hasta la mH1242
+- Lev_24:3desde la tarde hasta la m delante deH1242
+- Núm_9:12no dejarán del animal...para la m, niH1242
+- Núm_9:15como una apariencia de fuego, hasta la mH1242
+- Núm_9:21se detenía...hasta la ni, o cuando a la mH1242
+- Núm_11:18santificaos para m, y comeréis carneH4279
+- Núm_14:25volveos m y salid al desierto, caminoH4279
+- Núm_14:40se levantaron por la m y subieron a laH1242
+- Núm_16:5m mostrará Jehová quién es suyo, y quiénH1242
+- Núm_16:7y poned...incienso delante de Jehová niH4279
+- Núm_16:16tu séquito, poneos m delante de JehováH4279
+- Núm_22:13así Balaam se levantó por la m y dijoH1242
+- Núm_22:21levantó por la m, y enalbardó su asnaH1242
+- Núm_28:4cordero ofrecerás por la m, y el otroH1242
+- Núm_28:8la tarde; conforme a la ofrenda de la mH1242
+- Núm_28:23esto...además del holocausto de la mH1242
+- Deu_6:20m cuando te preguntare tu hijo...¿QuéH4279
+- Deu_16:4de la carne que...no quedará hasta la mH1242
+- Deu_16:7y por la m regresarás...a tu habitaciónH1242
+- Deu_28:67por la m...¡Quién diera que fuese la m![[H1242]]
+- Jos_3:1Josué se levantó de m, y él y todosH1242
+- Jos_3:5Jehová hará m maravillas entre vosotrosH4279
+- Jos_4:6preguntaren a sus padres m, diciendoH4279
+- Jos_4:21cuando m preguntaren vuestros hijos aH4279
+- Jos_6:12Josué se levantó de m, y los sacerdotesH1242
+- Jos_7:13di: Santificaos para m; porque JehováH4279
+- Jos_7:14os acercaréis...m por vuestras tribusH1242
+- Jos_7:16Josué...levantándose de m, hizo acercarH1242
+- Jos_8:10levantándose...muy de m, pasó revista alH1242
+- Jos_11:6m...yo entregaré a todos ellos muertosH4279
+- Jos_22:18os rebeláis...y m se airará él contraH4279
+- Jos_22:24temor de que m vuestros hijos digan aH4279
+- Jos_22:27digan m vuestros hijos a los nuestrosH4279
+- Jue_6:28por la m, cuando los de la ciudad seH1242
+- Jue_6:31cualquiera que contienda...muera esta mH1242
+- Jue_6:38se levantó de m, exprimió el vellón yH4283
+- Jue_7:1levantándose, pues, de m Jerobaal, elH7925
+- Jue_9:33m al salir el sol...cae sobre la ciudadH1242
+- Jue_16:2la luz de la m; entonces lo mataremosH1242
+- Jue_19:5se levantaron de m, se levantó...levitaH1242
+- Jue_19:8levantándose de m para irse, le dijo elH1242
+- Jue_19:9y m os levantaréis temprano a...caminoH4279
+- Jue_19:25abusaron de ella toda la...hasta la mH1242
+- Jue_19:27se levantó por la m su señor, y abrióH1242
+- Jue_20:19levantaron...hijos de Israel por la mH1242
+- Jue_20:28subid, porque m yo os los entregaréH4279
+- Jue_21:4el pueblo se levantó de m, y edificaronH4279
+- Rut_2:7está desde por la m hasta ahora, sinH1242
+- Rut_3:13pasa aquí...Descansa, pues, hasta la mH1242
+- Rut_3:14después que durmió a sus...hasta la mH1242
+- 1Sa_1:19levantándose de m, adoraron...JehováH1242
+- 1Sa_3:15y Samuel estuvo acostado hasta la mH1242
+- 1Sa_5:3cuando...los de Asdod se levantaron de mH4283
+- 1Sa_5:4volviéndose a levantar de m...que DagónH1242
+- 1Sa_9:16m...enviaré a ti un varón de la tierraH4279
+- 1Sa_9:19come hoy...y por la m te despacharé, y teH1242
+- 1Sa_11:9m al calentar el sol, seréis libradosH4279
+- 1Sa_11:10dijeron...M saldremos a vosotros, paraH4279
+- 1Sa_11:11entraron en medio...la vigilia de la mH1242
+- 1Sa_14:36descendamos...saquearemos hasta la mH1242
+- 1Sa_15:12para ir a encontrar a Saúl por la mH1242
+- 1Sa_17:16venía...aquel filisteo por la m y porH7925
+- 1Sa_17:20levantó, pues, David de m, y dejandoH1242
+- 1Sa_19:2cuídate hasta la m, y estate en lugarH1242
+- 1Sa_19:11Saúl envió luego...lo matasen a la mH1242
+- 1Sa_19:11si no salvas tu vida...m serás muertoH4279
+- 1Sa_20:5que m será nueva luna, y yo acostumbroH4279
+- 1Sa_20:12haya preguntado a mi padre m a estaH4279
+- 1Sa_20:18le dijo Jonatán: M es nueva luna, yH4279
+- 1Sa_20:35al otro día, de m, salió Jonatán alH1242
+- 1Sa_25:22de aquí a m, de todo lo que fuere suyoH1242
+- 1Sa_25:34de aquí a m no le hubiera quedado conH1242
+- 1Sa_25:37pero por la m, cuando ya a Nabal se leH1242
+- 1Sa_28:19y m estaréis conmigo, tú y tus hijosH4279
+- 1Sa_29:10levántate...de m, tú y los siervos deH1242
+- 1Sa_29:11y se levantó David de m...para irse yH1242
+- 1Sa_30:17hirió David desde aquella m hasta laH5399
+- 2Sa_2:27hubiera dejado de seguir a...esta mH1242
+- 2Sa_11:12quédate...aún hoy, y m te despacharéH4279
+- 2Sa_11:14la m, escribió David a Joab una cartaH1242
+- 2Sa_15:2se levantaba Absalón de m, y se poníaH7925
+- 2Sa_23:4será corno la luz de la m, como...del solH1242
+- 2Sa_23:4como el resplandor del sol en una m sinH1242
+- 2Sa_24:11la m, cuando David se hubo levantadoH1242
+- 2Sa_24:15desde la m hasta el tiempo señaladoH1242
+- 1Re_3:21lo observé por la m, y vi que no eraH1242
+- 1Re_17:6los cuervos le traían...carne por la mH1242
+- 1Re_18:26invocaron el...de Baal desde la m hastaH1242
+- 1Re_19:2si m...yo no he puesto tu persona comoH4279
+- 1Re_20:6además, m...enviaré yo a ti mis siervosH4279
+- 2Re_3:20la m, cuando se ofrece el sacrificioH1242
+- 2Re_3:22se levantaron por la m, y brilló el solH1242
+- 2Re_6:15se levantó de m y salió el que servía alH7925
+- 2Re_6:28da acá tu hijo, y...y m comeremos el míoH4279
+- 2Re_7:1dijo...M a estas horas valdrá el seah deH4279
+- 2Re_7:18y el seah...será vendido por un siclo mH4279
+- 2Re_10:6tomad las cabezas de...y venid a mí m aH4279
+- 2Re_10:8ponedlas en dos montones a...hasta la mH1242
+- 2Re_10:9venida la m, salió él, y estando en pieH1242
+- 2Re_16:15encenderás el holocausto de la m y laH1242
+- 2Re_19:35por la m...todo era cuerpos de muertosH1242
+- 1Cr_9:27el cargo de...de abrirla todas las mH1242
+- 1Cr_16:40que sacrificasen...m y tarde...a JehováH1242
+- 1Cr_23:30para asistir cada m...a dar gracias yH1242
+- 2Cr_2:4para holocaustos a m y tarde, en losH1242
+- 2Cr_13:11queman...los holocaustos cada m y...tardeH1242
+- 2Cr_20:16m descenderéis contra ellos; he aquíH4279
+- 2Cr_20:17salid m contra ellos, porque JehováH4279
+- 2Cr_20:20se levantaron por la m, salieron alH1242
+- 2Cr_29:20y levantándose de m, el rey EzequíasH7925
+- 2Cr_31:3contribuyó...para los holocaustos a m yH1242
+- Esd_3:3y ofrecieron...holocaustos por la m yH1242
+- Est_2:14y a la m siguiente volvía a la casaH1242
+- Est_5:8y m haré conforme a lo que el rey haH4279
+- Est_5:12también para m estoy convidado por ellaH4279
+- Est_5:14y m di al rey que cuelguen a MardoqueoH1242
+- Est_9:13concédase...m a los judíos en Susa, queH4279
+- Job_1:5se levantaba de m y ofrecía holocaustosH1242
+- Job_3:9y no venga, ni vea los párpados de la mH7937
+- Job_4:20de la m a la tarde son destruidos, y seH1242
+- Job_7:18Y lo visites todas las m, y todos losH1242
+- Job_7:21y si me buscares de m, ya no existiréH7836
+- Job_8:5si tú de m buscares a Dios, y rogares alH7836
+- Job_11:17aunque oscureciere, será como la mH1242
+- Job_24:17la m es para todos ellos como sombraH1242
+- Job_38:12¿has mandado tú a la m en tus días?[[H1242]]
+- Sal_5:3de m oirás mi voz; de m me presentaréH1242
+- Sal_30:5el lloro, y a la m vendrá la alegríaH1242
+- Sal_46:5Dios está...la ayudará al clarear la mH1242
+- Sal_49:14los rectos se enseñorearán...por la mH1242
+- Sal_55:17m y a mediodía oraré y clamaré, y élH1242
+- Sal_57:8despierta, salterio...me levantaré de mH7837
+- Sal_59:16pero yo...alabaré de m tu misericordiaH1242
+- Sal_65:8tú haces alegrar las salidas de la mH1242
+- Sal_73:14pues he sido...y castigado todas las mH1242
+- Sal_88:13de m mi oración se presentará delanteH1242
+- Sal_90:5son...como la hierba que crece en la mH1242
+- Sal_90:6en la m florece y crece; a la tarde esH1242
+- Sal_90:14de m sácianos de tu misericordia, yH1242
+- Sal_92:2anunciar por la m tu misericordia, y tuH1242
+- Sal_101:8de m destruiré a todos los impíos deH1242
+- Sal_130:6centinelas a la m...vigilantes a la mH1242
+- Sal_143:8hazme oir por la m tu misericordiaH1242
+- Pro_1:28me buscarán de m, y no me hallaránH7836
+- Pro_3:28no digas a...m te daré, cuando tienesH4279
+- Pro_7:18embriaguémonos de amores hasta la mH1242
+- Pro_27:1no te jactes del día de m; porque noH4279
+- Pro_27:14el que bendice a su...madrugando de mH1242
+- Ecl_10:16rey...tus príncipes banquetean de m![[H1242]]
+- Ecl_11:6la m siembra tu semilla, y a la tardeH1242
+- Cnt_7:12levantémonos de m a las viñas...videsH7925
+- Isa_5:11¡ay de los que se levantan de m paraH1242
+- Isa_14:12¡cómo caíste del cielo...hijo de la m![[H7837]]
+- Isa_17:14antes de la m el enemigo ya no existeH1242
+- Isa_21:12respondió: La m viene, y después laH1242
+- Isa_22:13comamos y bebamos...m moriremosH4279
+- Isa_28:19porque de m en m pasará, de día y deH1242
+- Isa_33:2tú, brazo de ellos en la m, sé tambiénH1242
+- Isa_37:36levantarnos por la m, he aquí que todoH1242
+- Isa_38:13contaba yo hasta la m...la m a la nocheH1242
+- Isa_50:4m tras m, despertará mi oído para queH1242
+- Isa_56:12y será el día de m como este, o muchoH4279
+- Jer_20:16oiga gritos de m, y voces a mediodíaH1242
+- Jer_21:12así dijo Jehová: Haced de m juicio, yH1242
+- Lam_3:23nuevas son cada m; grande...fidelidadH1242
+- Eze_7:7la m viene para ti, oh morador de laH6843
+- Eze_7:10ha salido la m; ha florecido la varaH6843
+- Eze_12:8y vino a mí palabra de Jehová por la mH1242
+- Eze_24:18hablé al pueblo por la m, y a la tardeH1242
+- Eze_24:18hablé...a la m hice como me fue mandadoH1242
+- Eze_33:22hasta que vino a mí por la m; y abrióH1242
+- Eze_46:13cordero de un año...m lo sacrificarásH1242
+- Eze_46:14harás todas las m ofrenda de la sextaH1242
+- Eze_46:15ofrecerán...todas las m el holocaustoH1242
+- Dan_6:19el rey, pues, se levantó muy de m, yH5053, [[H8238]]
+- Dan_8:14dijo: Hasta 2.300 tardes y m; luegoH1242
+- Dan_8:26la visión de las tardes y m que se haH1242
+- Ose_6:4la piedad vuestra es como nube de la mH1242
+- Ose_7:6la m está encendido como llama de fuegoH1242
+- Ose_10:15a la m será...cortado el rey de IsraelH7837
+- Ose_13:3como la niebla de la m, y como el rocíoH1242
+- Amó_4:4de m vuestros sacrificios, y...diezmosH1242
+- Amó_4:13el que hace de las tinieblas m, y pasaH7837
+- Amó_5:8al que hace...y vuelve las tinieblas en mH1242
+- Miq_2:1cuando llega la m lo ejecutan, porqueH1242
+- Sof_3:3lobos...que no dejan hueso para la mH1242
+- Sof_3:5m sacará a luz su juicio, nunca faltaráH1242
+- Mat_6:30si la hierba...que hoy es, y m se echaG839
+- Mat_6:34no os afanéis por...m...m traerá su afánG839
+- Mat_16:3y por la m: Hoy habrá tempestad; porqueG4404
+- Mat_20:1que salió por la m a contratar obrerosG4404
+- Mat_21:18por la m, volviendo a la ciudad, tuvoG4405
+- Mat_27:1venida la m...los principales sacerdotesG4405
+- Mar_1:35levantándose muy de m, siendo aún muyG4404
+- Mar_11:20la m, vieron que la higuera se habíaG4404
+- Mar_13:35vendrá...al canto del gallo, o a la mG4404
+- Mar_15:1muy de m...los principales sacerdotes conG4404
+- Mar_16:2y muy de m, el primer día de la semanaG4404
+- Mar_16:9habiendo, pues, resucitado Jesús por la mG4404
+- Luc_12:28hoy está en el campo, y m es echadaG839
+- Luc_13:32y hago curaciones hoy y m, y al tercerG839
+- Luc_13:33que hoy y m y pasado m siga mi caminoG839
+- Luc_21:38y todo el pueblo venía a él por la mG3719
+- Luc_24:1el primer día de la...muy de m, vinieronG901, [[G3722]]
+- Jua_8:2por la m volvió al templo, y todo elG3722
+- Jua_18:28era de m, y ellos no entraron en elG4405
+- Jua_20:1fue de m, siendo aún oscuro, al sepulcroG4404
+- Hec_5:21habiendo oído esta, entraron de m enG3722
+- Hec_23:15le traiga m ante vosotros, como queG839
+- Hec_23:20que m lleves a Pablo ante el concilioG839
+- Hec_25:22quisiera oír...Y él le dijo: M le oirásG839
+- Hec_28:23les testificaba...desde la m hasta laG4404
+- 1Co_15:32comamos y bebamos...m moriremosG839
+- Stg_4:13decís: Hoy y m iremos a tal ciudadG839
+- Stg_4:14cuando no sabéis lo que será m. PorqueG839
+- 2Pe_1:19el lucero de la m salga en vuestrosG1306
+- Rev_2:28y le daré la estrella de la mG4407
+- Rev_22:16la estrella resplandeciente de la mG3720

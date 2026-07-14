@@ -12,7 +12,7 @@ I. La [[iglesia]] de los días del Nuevo Testamento estaba com puesta de caracte
  1. [[Cristo]] murió para hacer esto posible (Efes. 5:25-27). "a fin de presentársela a sí mismo, una [[iglesia]] gloriosa, que no tuviese mancha ni arruga". 
  (1) Limpiada por su sangre (1 Juan 1:7).  2. La obediencia al evangelio adjudica y aplica la potencia purificadora de la sangre de [[Cristo]] a los hombres (Rom. 6:17,18; Efes. 5:26; 1 Cor. 6:9-11; 1 Pedro 1:22,23). 
 II. Esta relación impone la separación del mundo y una vida de pureza y santidad: 
- 1. Estad separados: no toquéis ninguna cosa inmunda; prac ticad la santidad perfecta (2 Cor. 6:14; 7:1). 
+ 1. Estad separados: no toquéis ninguna cosa inmunda; practicad la [[santidad]] perfecta (2 Cor. 6:14; 7:1). 
  2. No os conforméis a este mundo (Rom. 12:1,2).  3. Que el [[pecado]] ya no tenga dominio sobre vosotros (Rom. 6:12-14). 
  4. Hay que descontinuar las antiguas prácticas y andar como nuevas criaturas (Col. 3:1-4). 
  5. La religión pura demanda: "guardarse sin mancha del mundo" (Sant. 1:27). 

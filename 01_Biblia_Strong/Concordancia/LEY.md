@@ -1,0 +1,482 @@
+---
+tipo: concordancia
+palabra: LEY
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LEY
+
+- Gén_23:16plata, de buena l entre mercaderesH5674
+- Gén_26:5Abraham...guardó mis estatutos y mis lH8451
+- Gén_47:26José lo puso por l hasta hoy sobre laH2706
+- Éxo_12:49misma l será para el natural, y paraH8451
+- Éxo_13:9para que la l de Jehová esté en tu bocaH8451
+- Éxo_16:4que yo lo pruebe si anda en mi l, o noH8451
+- Éxo_16:28no...guardar mis mandamientos y mis l?[[H8451]]
+- Éxo_18:16declaro las ordenanzas de Dios y sus lH8451
+- Éxo_18:20enseña a ellos las ordenanzas y las lH8451
+- Éxo_21:1estas son las l que les propondrásH4941
+- Éxo_24:3y Moisés vino y contó al pueblo...las lH4941
+- Éxo_24:12y te daré tablas de piedra, y la l, yH8451
+- Lev_6:9y diles: Esta es la l del holocaustoH8451
+- Lev_6:14es la l de la ofrenda: La ofrecerán losH8451
+- Lev_6:25esta es la l del sacrificio expiatorioH8451
+- Lev_7:1esta es la l del sacrificio por la culpaH8451
+- Lev_7:7una misma l tendrán; será del sacerdoteH8451
+- Lev_7:11esta es la l del sacrificio de paz queH8451
+- Lev_7:37la l del holocausto, de la ofrenda, delH8451
+- Lev_11:46esta es la l acerca de las bestias, yH8451
+- Lev_12:7es la l para la que diere a luz hijo oH8451
+- Lev_13:59esta es la l para la plaga de la lepraH8451
+- Lev_14:2esta será la l para el leproso cuandoH8451
+- Lev_14:32la l para el que hubiere tenido plagaH8451
+- Lev_14:54esta es la l acerca de toda plaga deH8451
+- Lev_14:57limpio. Esta es la l tocante a la lepraH8451
+- Lev_15:32esta es la l para el que tiene flujoH8451
+- Lev_26:46l que estableció Jehová entre sí y losH8451
+- Núm_5:29esta es la l de los celos, cuando laH8451
+- Núm_5:30sacerdote ejecutará en ella toda esta lH8451
+- Núm_6:13esta es, pues, la l del nazareo el díaH8451
+- Núm_6:21es la l del nazareo que hiciere voto deH8451
+- Núm_6:21hará, conforme a la l de su nazareatoH8451
+- Núm_9:3y conforme a todas sus l la celebraréisH4941
+- Núm_9:14pascua y conforme a sus l la celebraráH4941
+- Núm_15:16misma l y mismo decreto tendréisH8451
+- Núm_15:24ofrenda y su libación conforme a la lH8451
+- Núm_15:29misma l tendréis para el que hiciereH8451
+- Núm_19:2ordenanza de la l...Jehová ha prescritoH8451
+- Núm_19:14esta es la l para cuando alguno mueraH8451
+- Núm_29:6y sus libaciones conforme a su l, comoH4941
+- Núm_29:18, Núm_29:21, Núm_29:24, Núm_29:27, Núm_29:30, Núm_29:33, Núm_29:37según el...conforme a la lH4941
+- Núm_31:21es la ordenanza de la l que Jehová haH8451
+- Núm_35:24juzgará entre el...conforme a estas lH4941
+- Deu_1:5Moab, resolvió Moisés declarar esta lH8451
+- Deu_4:8juicios justos como es toda esta l queH8451
+- Deu_4:44esta...es la l que Moisés puso delanteH8451
+- Deu_17:11según la l que te enseñen, y según elH8451
+- Deu_17:18escribirá para sí...una copia de esta lH8451
+- Deu_17:19guardar todas las palabras de esta l yH8451
+- Deu_27:3, Deu_27:8y escribirás...las palabras de esta lH8451
+- Deu_27:26no confirmare las palabras de esta lH8451
+- Deu_28:58por obra todas las palabras de esta lH8451
+- Deu_28:61plaga que no está...el libro de esta lH8451
+- Deu_29:21del pacto escrito en este libro de la lH8451
+- Deu_29:29que cumplamos...las palabras de esta lH8451
+- Deu_30:10estatutos escritos en...libro de la lH8451
+- Deu_31:9escribió Moisés esta l, y la dio a losH8451
+- Deu_31:11leerás esta l delante de todo IsraelH8451
+- Deu_31:12cuiden de cumplir...palabras de esta lH8451
+- Deu_31:24de escribir las palabras de esta l enH8451
+- Deu_31:26tomad este libro de la l, y ponedloH8451
+- Deu_32:46cumplir todas las palabras de esta lH8451
+- Deu_32:47por medio de esta l haréis prolongarH1697
+- Deu_33:2con la l de fuego a su mano derechaH1881
+- Deu_33:4Moisés nos ordenó una l, como heredadH8451
+- Deu_33:10enseñarán tus juicios...tu l a IsraelH8451
+- Jos_1:7la l que mi siervo Moisés te mandóH8451
+- Jos_1:8nunca se apartará...este libro de la lH8451
+- Jos_8:31como está escrito en el libro de la lH8451
+- Jos_8:32escribió...una copia de la l de MoisésH8451
+- Jos_8:34después...leyó todas las palabras de la lH8451
+- Jos_8:34lo que está escrito en el libro de la lH8451
+- Jos_22:5que...cuidéis de cumplir...la l que MoisésH8451
+- Jos_23:6escrito en el libro de la l de MoisésH8451
+- Jos_24:25Josué...les dio estatutos y l en SiquemH4941
+- Jos_24:26escribió...en el libro de la l de DiosH8451
+- 1Sa_10:25Samuel recitó luego las l del reinoH4941
+- 1Sa_30:25aquel día en adelante fue esto por l yH4941
+- 1Re_2:3que está escrito en la l de MoisésH8451
+- 2Re_10:31Jehú no cuidó de andar en la l deH8451
+- 2Re_14:6que está escrito en el libro de la lH8451
+- 2Re_17:13conforme a...las l que yo prescribí aH8451
+- 2Re_17:26(2)no conocen la l del Dios de...tierraH4941
+- 2Re_17:27habite...enseñe la l del Dios del paísH4941
+- 2Re_17:34ni hacen según la l y...mandamientosH8451
+- 2Re_17:37l y mandamientos que os dio...escritoH8451
+- 2Re_21:8conforme a...la l que mi siervo MoisésH8451
+- 2Re_22:8he hallado el libro de la l en la casaH8451
+- 2Re_22:11el rey hubo oído las palabras...de la lH8451
+- 2Re_23:24para cumplir las palabras de la l queH8451
+- 2Re_23:25rey...conforme a toda la l de Moisés, niH8451
+- 1Cr_16:40conforme a todo lo...escrito en la lH8451
+- 1Cr_22:12cuando gobiernes...guardes la l de...DiosH8451
+- 2Cr_6:16andando en mi l, como tú has andadoH8451
+- 2Cr_12:1Roboam...dejó la l de Jehová...todo IsraelH8451
+- 2Cr_14:4mandó a Judá que...pusiese por obra la lH8451
+- 2Cr_15:3días ha estado Israel sin...Dios...y sin lH8451
+- 2Cr_17:9teniendo consigo el libro de la l deH8451
+- 2Cr_19:10en causas de sangre, entre l y preceptoH8451
+- 2Cr_23:18como está escrito en la l de MoisésH8451
+- 2Cr_25:4según lo que está escrito en la l, enH8451
+- 2Cr_30:16conforme a la l de Moisés varón de DiosH8451
+- 2Cr_31:3holocaustos...como está escrito en la lH8451
+- 2Cr_31:4que ellos se dedicasen a la l de JehováH8451
+- 2Cr_31:21de acuerdo con la l y los mandamientosH8451
+- 2Cr_33:8que guarden...toda la l, los estatutosH8451
+- 2Cr_34:14halló el libro de la l de Jehová dadaH8451
+- 2Cr_34:15yo he hallado el libro de la l en laH8451
+- 2Cr_34:19el rey oyó las palabras de la l, rasgóH8451
+- 2Cr_35:26conforme a lo que...en la l de JehováH8451
+- Esd_3:2como está escrito en la l de MoisésH8451
+- Esd_7:6era escriba diligente en la l de MoisésH8451
+- Esd_7:10su corazón para inquirir la l de JehováH8451
+- Esd_7:12y escriba erudito en la l del Dios delH1882
+- Esd_7:14conforme a la l de tu Dios que está enH1882
+- Esd_7:21escriba de la l del Dios del cielo, seH1882
+- Esd_7:25todos los que conocen las l de tu DiosH1882
+- Esd_7:26no cumpliere la l de tu Dios, y la l delH1882
+- Esd_10:3hagamos pacto...hágase conforme a la lH8451
+- Neh_8:1que trajese el libro de la l de MoisésH8451
+- Neh_8:2trajo la l delante de la congregaciónH8451
+- Neh_8:3oídos...estaban atentos al libro de la lH8451
+- Neh_8:7levitas...hacían entender al pueblo la lH8451
+- Neh_8:8en el libro de la l de Dios claramenteH8451
+- Neh_8:9pueblo lloraba oyendo...palabras de la lH8451
+- Neh_8:13para entender las palabras de la lH8451
+- Neh_8:14y hallaron escrito en la l que JehováH8451
+- Neh_8:18leyó...en el libro de la l de Dios cadaH8451
+- Neh_9:3leyeron el libro de la l de Jehová suH8451
+- Neh_9:13y les diste...l verdaderas, y estatutosH8451
+- Neh_9:14les prescribiste mandamientos...y la lH8451
+- Neh_9:26pero te...echaron tu l tras sus espaldasH8451
+- Neh_9:29amonestaste a que se volviesen a tu lH8451
+- Neh_9:34no pusieron por obra tu l, ni atendieronH8451
+- Neh_10:28se habían apartado de...a la l de DiosH8451
+- Neh_10:29y jurar que andarían en la l de DiosH8451
+- Neh_10:32nos impusimos además por l, el cargoH4687
+- Neh_10:34de la leña...como está escrito en la lH8451
+- Neh_10:36ganados, como está escrito en la l; yH8451
+- Neh_13:3cuando oyeron, pues, la l, separaronH8451
+- Est_1:8la bebida era según esta l: Que nadieH1881
+- Est_1:13todos los que sabían la l y el derechoH1881
+- Est_1:15qué se había de hacer con...según la lH1881
+- Est_1:19escriba entre las l de Persia y MediaH1881
+- Est_2:12conforme a la l acerca de las mujeresH1881
+- Est_3:8l son diferentes de las de todo puebloH1881
+- Est_3:8no guardan las l del rey, y al rey nadaH1881
+- Est_4:11sola l hay respecto a él; ha de morirH1881
+- Est_4:16al rey, aunque no sea conforme a la lH1881
+- Est_9:13Susa, que hagan conforme a la l de hoyH1881
+- Job_22:22toma ahora la l de su boca, y pon susH8451
+- Job_28:26cuando, él dio l a la lluvia, y caminoH2706
+- Sal_1:2en la l...está su delicia...su l meditaH8451
+- Sal_19:7l de Jehová es perfecta, que convierteH8451
+- Sal_37:31la l de su Dios está en su corazón; porH8451
+- Sal_40:8Dios...tu l está en medio de mi corazónH8451
+- Sal_50:16¿qué tienes tú que hablar de mis l, yH2706
+- Sal_78:1escucha, pueblo mío, mi l; inclinad...oídoH8451
+- Sal_78:5y puso l en Israel, la cual mandó aH8451
+- Sal_78:10de Dios, ni quisieron andar en su lH8451
+- Sal_89:30si dejaren sus hijos mi l...mis juiciosH8451
+- Sal_94:12JAH, corriges, y en tu l lo instruyesH8451
+- Sal_94:20trono...que hace agravio bajo forma de l?[[H2706]]
+- Sal_105:45que guardasen sus...y cumpliesen sus lH8451
+- Sal_119:1bienaventurados...los que andan en la lH8451
+- Sal_119:18ojos, y miraré las maravillas de tu lH8451
+- Sal_119:29y en tu misericordia concédeme tu lH8451
+- Sal_119:34dame entendimiento, y guardaré tu lH8451
+- Sal_119:44guardaré tu l siempre, para siempre yH8451
+- Sal_119:51de mí, mas no me he apartado de tu lH8451
+- Sal_119:53a causa de los inicuos que dejan tu lH8451
+- Sal_119:55me acordé...oh Jehová, y guardé tu lH8451
+- Sal_119:61rodeado, mas no me he olvidado de tu lH8451
+- Sal_119:70se engrosó...yo en tu l me he regocijadoH8451
+- Sal_119:72mejor me es la l de tu boca que...oroH8451
+- Sal_119:77que viva, porque tu l es mi deliciaH8451
+- Sal_119:85cavado hoyos...no proceden según tu lH8451
+- Sal_119:92si tu l no hubiese sido mi delicia, yaH8451
+- Sal_119:97¡oh, cuánto amo yo tu l! Todo el díaH8451
+- Sal_119:109peligro...no me he olvidado de tu lH8451
+- Sal_119:113aborrezco...hipócritas; mas amo tu lH8451
+- Sal_119:126Jehová, porque han invalidado tu lH8451
+- Sal_119:136mis ojos, porque no guardaban tu lH8451
+- Sal_119:142es justicia eterna, y tu l la verdadH8451
+- Sal_119:150me persiguen; se alejaron de tu lH8451
+- Sal_119:153líbrame...de tu l no me he olvidadoH8451
+- Sal_119:163la mentira aborrezco y...tu l amoH8451
+- Sal_119:165mucha paz tienen los que aman tu lH8451
+- Sal_119:174he deseado tu...y tu l es mi deliciaH8451
+- Sal_148:6los hizo...puso l que no será quebrantadaH2706
+- Pro_3:1hijo mío, no te olvides de mi l, y tuH8451
+- Pro_3:21de tus ojos; guarda la l y el consejoH8454
+- Pro_4:2doy buena enseñanza; no desamparéis mi lH8451
+- Pro_7:2guarda...mi l como las niñas de tus ojosH8451
+- Pro_13:14la l del sabio es manantial de vidaH8451
+- Pro_28:4los que dejan la l alaban a los impíosH8451
+- Pro_28:7el que guarda la l es hijo prudente; masH8451
+- Pro_28:9el que aparta su oído para no oír la lH8451
+- Pro_29:18el que guarda la l es bienaventuradoH8451
+- Pro_31:5que bebiendo olviden la l, y perviertanH2710
+- Pro_31:26y la l de clemencia está en su lenguaH8451
+- Isa_1:10escuchad la l de nuestro Dios, puebloH8451
+- Isa_2:3de Sion saldrá la l, y de Jerusalén laH8451
+- Isa_5:24porque desecharon la l de Jehová de losH8451
+- Isa_8:16ata el...sella la l entre mis discípulosH8451
+- Isa_8:20¡a la l y al testimonio! Si no dijerenH8451
+- Isa_10:1¡ay de los que dictan l injustas, yH2711
+- Isa_24:5porque traspasaron las l, falsearon elH8451
+- Isa_30:9pueblo...hijos que no quisieron oír la lH8451
+- Isa_42:4justicia; y las costas esperarán su lH8451
+- Isa_42:21en magnificar la l y engrandecerlaH8451
+- Isa_42:24no quisieron andar en...ni oyeron su lH8451
+- Isa_51:4de mí saldrá la l, y mi justicia paraH8451
+- Isa_51:7oídme...pueblo en cuyo corazón está mi lH8451
+- Isa_58:2y que no hubiese dejado la l de su DiosH4941
+- Jer_2:8los que tenían la l no me conocieronH8451
+- Jer_6:19no escucharon mis...y aborrecieron mi lH8451
+- Jer_8:8decís...la l de Jehová está con nosotros?[[H8451]]
+- Jer_9:13porque dejaron mi l...y no obedecieronH8451
+- Jer_16:11padres me dejaron...no guardaron mi lH8451
+- Jer_18:18porque la l no faltará al sacerdote, niH8451
+- Jer_26:4si no me oyereis para andar en mi l, laH8451
+- Jer_31:33daré mi l en su mente, y...su corazónH8451
+- Jer_31:35Jehová, que da...las l de la luna y deH2708
+- Jer_31:36faltaren estas l delante de mí, diceH2706
+- Jer_32:23no oyeron tu voz, ni anduvieron en tu lH8451
+- Jer_33:25si yo no he puesto las l del cielo y laH2708
+- Jer_44:10ni han caminado en mi l...mis estatutosH8451
+- Jer_44:23ni anduvisteis en su l ni...estatutos niH8451
+- Lam_2:9entre las naciones donde no hay l; susH8451
+- Eze_5:7no habéis...ni habéis guardado mis l?[[H4941]]
+- Eze_5:7ni aun según las l de las naciones queH4941
+- Eze_7:26la l se alejará del sacerdote, y de losH8451
+- Eze_16:38te juzgaré por las l de las adúlterasH4941
+- Eze_20:18ni guardéis sus l, ni os contaminéisH4941
+- Eze_22:26violaron mi l, y contaminaron misH8451
+- Eze_23:24delante de ellos el juicio, y por sus lH4941
+- Eze_23:45las juzgarán por la l de las adúlterasH4941
+- Eze_23:45y por la l de las que derraman sangreH4941
+- Eze_43:11sus configuraciones, y todas sus lH8451
+- Eze_43:12(2)esta es la l de la casaH8451
+- Eze_43:21lo quemarás conforme a la l de la casaH4662
+- Eze_44:5lo que yo hablo contigo...y todas sus lH8451
+- Eze_44:24y mis l y mis decretos guardarán enH8451
+- Dan_3:10has dado una l que todo hombre, al oírH2942
+- Dan_6:5si no...en relación con la l de su DiosH1882
+- Dan_6:8, Dan_6:12conforme a la l de Media y de PersiaH1882
+- Dan_6:15es l de Media y de Persia que ningúnH1882
+- Dan_7:25y pensará en cambiar los tiempos y la lH1882
+- Dan_9:10para andar en sus l que él puso delanteH8451
+- Dan_9:11Israel traspasó tu l apartándose paraH8451
+- Dan_9:11el juramento que está escrito en la lH8451
+- Dan_9:13conforme está escrito en la l de MoisésH8451
+- Ose_4:6olvidaste la l de tu Dios, también yoH8451
+- Ose_8:1traspasaron...y se rebelaron contra mi lH8451
+- Ose_8:12escribí las grandezas de mi l, y fueronH8451
+- Amó_2:4porque menospreciaron la l de JehováH8451
+- Miq_4:2de Sion saldrá la l, y de Jerusalén laH8451
+- Hab_1:4por lo cual la l es debilitada, y elH8451
+- Sof_3:4sus sacerdotes contaminaron el...la lH8451
+- Hag_2:11pregunta...sacerdotes acerca de la lH8451
+- Zac_7:12para no oír la l ni las palabras queH8451
+- Mal_2:6la l de verdad estuvo en su boca, eH8451
+- Mal_2:7de su boca el pueblo buscará la l; porqueH8451
+- Mal_2:8habéis hecho tropezar a muchos en la lH8451
+- Mal_2:9y en la l hacéis acepción de personasH8451
+- Mal_3:7os habéis apartado de mis l, y no lasH2706
+- Mal_3:14¿qué aprovecha que guardemos su l, y queH4931
+- Mal_4:4acordaos de la l de Moisés mi siervo, alH8451
+- Mal_4:4al cual encargué en Horeb ordenanzas y lH4941
+- Mat_5:17no penséis...venido para abrogar la lG3551
+- Mat_5:18ni una jota ni una tilde pasará de la lG3551
+- Mat_7:12así...porque esto es la l y los profetasG3551
+- Mat_11:13los profetas y la l profetizaron hastaG3551
+- Mat_12:5¿o no habéis leído en la l, cómo en elG3551
+- Mat_22:35uno...intérprete de la l, preguntó porG3551
+- Mat_22:36¿cuál es el gran mandamiento en la l?[[G3551]]
+- Mat_22:40de estos dos...depende toda la l y losG3551
+- Mat_23:23dejáis lo más importante de la l: laG3551
+- Luc_2:22cumplieron los días...conforme a la lG3551
+- Luc_2:23como está escrito en la l del SeñorG3551
+- Luc_2:24conformé a lo que se dice en la l delG3551
+- Luc_2:27hacer por él conforme al rito de la lG3551
+- Luc_2:39de haber cumplido con...la l del SeñorG3551
+- Luc_2:46sentado en medio de los doctores de la l
+- Luc_5:17estaban sentados los...doctores de la lG3547
+- Luc_7:30los intérpretes de la l desecharon losG3544
+- Luc_10:25intérprete de la l se levantó, y dijoG3544
+- Luc_10:26él le dijo: ¿Qué está escrito en la l?[[G3551]]
+- Luc_11:45uno de los intérpretes de la l, le dijoG3544
+- Luc_11:46, Luc_11:52de vosotros, intérpretes de la l![[G3544]]
+- Luc_14:3Jesús habló a los intérpretes de la lG3544
+- Luc_16:16la l y los profetas eran hasta JuanG3551
+- Luc_16:17más fácil...frustre una tilde de la lG3551
+- Luc_24:44lo que está escrito de mí en la l deG3551
+- Jua_1:17porque la l por medio de Moisés fueG3551
+- Jua_1:45aquel de quien escribió Moisés en la lG3551
+- Jua_7:19os dio...la l, y ninguno...cumple la l?[[G3551]]
+- Jua_7:23que la l de Moisés no sea quebrantadaG3551
+- Jua_7:49esta gente que no sabe la l, malditaG3551
+- Jua_7:51¿juzga acaso nuestra l a un hombre siG3551
+- Jua_8:5la l nos mandó Moisés apedrear a talesG3551
+- Jua_8:17en vuestra l está...que el testimonio deG3551
+- Jua_10:34escrito en vuestra l: Yo dije, diosesG3551
+- Jua_12:34oído de la l, que el Cristo permaneceG3551
+- Jua_15:25palabra que está escrita en su l: SinG3551
+- Jua_18:31tomadle...y juzgadle según vuestra lG3551
+- Jua_19:7l, y según nuestra l debe morir, porqueG3551
+- Hec_5:34Gamaliel, doctor de la l, veneradoG3547
+- Hec_6:13hombre no cesa de hablar...contra la lG3551
+- Hec_7:53recibisteis la l por...ángeles, y no laG3551
+- Hec_13:15después de la lectura de la l y de losG3551
+- Hec_13:39de que por la l de Moisés no pudisteisG3551
+- Hec_15:5y mandarles que guarden la l de MoisésG3551
+- Hec_15:24mandando circuncidaros y guardar la lG3551
+- Hec_18:13persuade...a honrar a Dios contra la lG3551
+- Hec_18:15si son cuestiones de...y de vuestra lG3551
+- Hec_21:20creído; y todos son celosos por la lG3551
+- Hec_21:24que tú también andas...guardando la lG3551
+- Hec_21:28enseña a todos contra el pueblo, la lG3551
+- Hec_22:3instruido...conforme a la l de nuestrosG3551
+- Hec_22:12Ananías, varón piadoso según la l, queG3551
+- Hec_23:3sentado para juzgarme conforme a la lG3551
+- Hec_23:3y quebrantando la l me mandas golpear?[[G3891]]
+- Hec_23:29le acusaban por cuestiones de la l deG3551
+- Hec_24:6quisimos juzgarle conforme a nuestra lG3551
+- Hec_24:14creyendo todas las cosas que en la lG3551
+- Hec_25:8ni contra la l de los judíos, ni contraG3551
+- Hec_28:23tanto por la l de Moisés como por losG3551
+- Rom_2:12que sin l han pecado, sin l...pereceránG460
+- Rom_2:12los que bajo la l han pecado, por la lG3551
+- Rom_2:13no son los oidores de la l los justosG3551
+- Rom_2:13los hacedores de la l serán justificadosG3551
+- Rom_2:14no tienen l, hacen...lo que es de la lG3551
+- Rom_2:14éstos, aunque no tengan l, son l para síG3551
+- Rom_2:15mostrando la obra de la l escrita en susG3551
+- Rom_2:17te apoyas en la l, y te glorías en DiosG3551
+- Rom_2:18e instruido por la l apruebas lo mejorG3551
+- Rom_2:20tienes en la l la forma de la cienciaG3551
+- Rom_2:23jactas de la l, ¿con infracción de la lG3551
+- Rom_2:25circuncisión aprovecha, si guardas la lG3551
+- Rom_2:25pero si eres transgresor de la l, tuG3551
+- Rom_2:26guardare las ordenanzas de la l, ¿no seráG3551
+- Rom_2:27pero guarda...la l, te condenará a ti, queG3551
+- Rom_2:27a ti, que con la letra de la l y con laG3551
+- Rom_2:27con la letra...eres transgresor de la lG3551
+- Rom_3:19la l...a los que están bajo la l lo diceG3551
+- Rom_3:20por las obras de la l ningún ser humanoG3551
+- Rom_3:20por medio de la l es el conocimiento delG3551
+- Rom_3:21ahora, aparte de la l, se ha manifestadoG3551
+- Rom_3:21testificada por la l Y Por los profetasG3551
+- Rom_3:27¿por cuál l?...No, sino por la l de la feG3551
+- Rom_3:28justificado por fe sin las obras de la lG3551
+- Rom_3:31¿luego por la fe invalidamos la l? EnG3551
+- Rom_3:31en...manera, sino que confirmamos la lG3551
+- Rom_4:13no por la l fue dada a...la promesa deG3551
+- Rom_4:14si los que son de la l son los herederosG3551
+- Rom_4:15la l produce ira; pero donde no hay lG3551
+- Rom_4:16no solamente para la que es de la l, sinoG3551
+- Rom_5:13pues antes de la l, había pecado en elG3551
+- Rom_5:13donde no hay l, no se inculpa de pecadoG3551
+- Rom_5:20la l se introdujo para que el pecadoG3551
+- Rom_6:14pues no estáis bajo la l, sino bajo laG3551
+- Rom_6:15porque no estamos bajo la l, sino bajoG3551
+- Rom_7:1hablo con los que conocen la l) que la lG3551
+- Rom_7:2sujeta por la l...ella queda libre de la lG3551
+- Rom_7:3si su marido muriere, es libre de esa lG3551
+- Rom_7:4habéis muerto a la l mediante el cuerpoG3551
+- Rom_7:5pasiones pecaminosas que eran por la lG3551
+- Rom_7:6pero ahora estamos libres de la l, porG3551
+- Rom_7:7¿qué diremos, pues? ¿La l es pecado? EnG3551
+- Rom_7:7pero yo no conocí el pecado sino por la lG3551
+- Rom_7:7tampoco...codicia, si la l no dijera: NoG3551
+- Rom_7:8porque sin la l el pecado está muertoG3551
+- Rom_7:9y yo sin la l vivía en un tiempo; peroG3551
+- Rom_7:12manera que la l a la verdad es santaG3551
+- Rom_7:14porque sabemos que la l es espiritualG3551
+- Rom_7:16esto hago, apruebo que la l es buenaG3551
+- Rom_7:21así...hallo esta l: que el mal está en míG3551
+- Rom_7:22interior, me deleito en la l de DiosG3551
+- Rom_7:23veo otra l...que se rebela contra la lG3551
+- Rom_7:23que me lleva cautivo a la l del pecadoG3551
+- Rom_7:25con la mente sirvo a la l de Dios, masG3551
+- Rom_7:25sirvo...con la carne a la l del pecadoG3551
+- Rom_8:2la l del Espíritu...me ha librado de la lG3551
+- Rom_8:3porque lo que era imposible para la lG3551
+- Rom_8:4que la justicia de la l se cumpliese enG3551
+- Rom_8:7los designios de la...no se sujetan a la lG3551
+- Rom_9:4de los cuales son...promulgación de la lG3548
+- Rom_9:31Israel, que iba tras una l de justiciaG3551
+- Rom_9:32no por fe, sino como por obras de la lG3551
+- Rom_10:4porque el fin de la l es Cristo, paraG3551
+- Rom_10:5de la justicia que es por la l MoisésG3551
+- Rom_13:8que ama al prójimo, ha cumplido la lG3551
+- Rom_13:10que el cumplimiento de la l es el amorG3551
+- 1Co_7:39mujer casada está ligada por la lG3551
+- 1Co_9:8¿digo esto...¿No dice esto también la l?[[G3551]]
+- 1Co_9:9porque en la l de Moisés está escritoG3551
+- 1Co_9:20a los...sujetos a la l...como sujeto a la lG3551
+- 1Co_9:20(aunque yo no esté sujeto a la l) comoG3551
+- 1Co_9:20ganar a los que están sujetos a la lG3551
+- 1Co_9:21los que están sin l, como si yo...sin lG459
+- 1Co_9:21no estando yo sin l...sino bajo la l deG459
+- 1Co_9:21sino...para ganar a los que están sin lG459
+- 1Co_14:21en la l está escrito: En otras lenguasG3551
+- 1Co_14:34sujetas, como también la l lo diceG3551
+- 1Co_15:56el pecado, y el poder del pecado, la lG3551
+- Gál_2:16no es justificado por...obras de la lG3551
+- Gál_2:16por la fe...y no por las obras de la lG3551
+- Gál_2:16las obras de la l nadie será justificadoG3551
+- Gál_2:19yo por la l soy muerto para la l...paraG3551
+- Gál_2:21si por la l fuese la justicia, entoncesG3551
+- Gál_3:2¿recibisteis el...por las obras de la lG3551
+- Gál_3:5¿lo hace por las obras de la l, o por elG3551
+- Gál_3:10que dependen de las obras de la l estánG3551
+- Gál_3:10no...en el libro de la l, para hacerlasG3551
+- Gál_3:11por la l ninguno se justifica para conG3551
+- Gál_3:12y la l no es de fe, sino que dice: ElG3551
+- Gál_3:13nos redimió de la maldición de la lG3551
+- Gál_3:17la l...no lo abroga, para invalidar laG3551
+- Gál_3:18si la herencia es por la l, ya no esG3551
+- Gál_3:19¿para qué sirve la l? Fue añadida aG3551
+- Gál_3:21l es contraria a las promesas de Dios?[[G3551]]
+- Gál_3:21porque si la l dada pudiera vivificarG3551
+- Gál_3:21justicia fuera verdaderamente por la lG3551
+- Gál_3:23antes...estábamos confinados bajo la lG3551
+- Gál_3:24de manera que la l ha sido nuestro ayoG3551
+- Gál_4:4Hijo, nacido de mujer y nacido bajo la lG3551
+- Gál_4:5redimiese a los que estaban bajo la l, aG3551
+- Gál_4:21estar bajo la l: ¿no habéis oído la l?[[G3551]]
+- Gál_5:3que está obligado a guardar toda la lG3551
+- Gál_5:4los que por la l os justificáis; de laG3551
+- Gál_5:14toda la l en esta sola palabra se cumpleG3551
+- Gál_5:18sois guiados por...no estáis bajo la lG3551
+- Gál_5:23templanza; contra tales cosas no hay lG3551
+- Gál_6:2las cargas...cumplid así la l de CristoG3551
+- Gál_6:13ni aun...que se circuncidan guardan la lG3551
+- Efe_2:15l de los mandamientos expresados enG3551
+- Flp_3:5de hebreos; en cuanto a la l, fariseoG3551
+- Flp_3:6en cuanto a la justicia que es en la lG3551
+- Flp_3:9no...mi propia justicia, que es por la lG3551
+- 1Ti_1:7queriendo ser doctores de la l, sinG3547
+- 1Ti_1:8Pero sabemos que la l es buena, si unoG3551
+- 1Ti_1:9que la l no fue dada para el justo, sinoG3551
+- Tit_3:9evita las...discusiones acerca de la lG3544
+- Tit_3:13a Zenas intérprete de la l, y a ApolosG3544
+- Heb_7:5de tomar del...los diezmos según la lG3551
+- Heb_7:11porque bajo él recibió el pueblo la lG3549
+- Heb_7:12necesario es que...también cambio de lG3551
+- Heb_7:16conforme a la l del mandamiento acercaG3551
+- Heb_7:19(pues nada perfeccionó la l), y de laG3551
+- Heb_7:28porque la l constituye sumos sacerdotesG3551
+- Heb_7:28del juramento, posterior a la l, al HijoG3551
+- Heb_8:4que presentan las ofrendas según la lG3551
+- Heb_8:10pondré mis l en la mente de ellos, yG3551
+- Heb_9:19anunciado Moisés...mandamientos de la lG3551
+- Heb_9:22y casi todo es purificado, según la lG3551
+- Heb_10:1la l, teniendo la sombra de los bienesG3551
+- Heb_10:8las cuales cosas se ofrecen según la lG3551
+- Heb_10:16pondré mis l en sus corazones, y en susG3551
+- Heb_10:28el que viola la l de Moisés, por elG3551
+- Stg_1:25el que mira...en la perfecta l, la deG3551
+- Stg_2:8si...cumplís la l...conforme a la EscrituraG3551
+- Stg_2:9convictos por la l como transgresoresG3551
+- Stg_2:10que guardare toda la l, pero ofendiereG3551
+- Stg_2:11si...ya te has hecho transgresor de la lG3551
+- Stg_2:12de ser juzgados por la l de la libertadG3551
+- Stg_4:11murmura de la l y juzga a la l; pero siG3551
+- Stg_4:11juzgas a la l, no eres hacedor de la lG3551
+- Stg_4:12uno solo es el dador de la l, que puedeG3550
+- 1Jn_3:4comete pecado, infringe también la lG4160, [[G458]]
+- 1Jn_3:4pues el pecado es infracción de la lG4160, [[G458]]

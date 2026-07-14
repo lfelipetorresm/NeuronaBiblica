@@ -1,0 +1,121 @@
+---
+tipo: concordancia
+palabra: POLVO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# POLVO
+
+- Gén_2:7formó al hombre del p de la tierra, yH6083
+- Gén_3:14sobre tu pecho andarás, y p comerásH6083
+- Gén_3:19vuelvas a...pues p eres, y al p volverásH6083
+- Gén_13:16tu descendencia como el p de la tierraH6083
+- Gén_13:16alguno puede contar el p de la tierraH6083
+- Gén_18:27he comenzado a hablar a...aunque soy pH6083
+- Gén_28:14tu descendencia como el p de la tierraH6083
+- Éxo_8:16extiende tu vara y golpea el p de laH6083
+- Éxo_8:17y golpeó el p de la tierra, el cual seH6083
+- Éxo_8:17el p de la tierra se volvió piojos enH6083
+- Éxo_9:9a ser p sobre toda la tierra de EgiptoH80
+- Éxo_30:36y molerás parte de él en p fino, y lo
+- Éxo_32:20el becerro...molió hasta reducirlo a pH1854
+- Núm_5:17tomará...del p que hubiere en el sueloH6083
+- Núm_23:10¿quién contará el p de Jacob, o elH6083
+- Deu_9:21reducido a p; y eché el p de él en elH6083
+- Deu_28:24dará...por lluvia a tu tierra p y cenizaH6083
+- Jos_7:6él y los ancianos...echaron p sobre susH6083
+- 1Sa_2:8levanta del p al pobre, y del muladarH6083
+- 2Sa_16:13Simei iba...delante...esparciendo pH6083
+- 2Sa_22:43como p de la tierra los molí; como lodoH6083
+- 1Re_16:2levanté del p y te puse por príncipeH6083
+- 1Re_18:38y consumió...el p, y aun lamió el aguaH6083
+- 1Re_20:10p de Samaria no bastará a los puños deH6083
+- 2Re_13:7los había puesto como el p para hollarH6083
+- 2Re_23:6la imagen...convirtió en p, y echó el pH6083
+- 2Re_23:12rey...arrojó el p al arroyo del CedrónH6083
+- 2Re_23:15y lo hizo p, y puso fuego a la imagenH6083
+- 2Cr_1:9sobre un pueblo numeroso como el pH6083
+- 2Cr_34:4y esparció el p sobre los sepulcros deH1854
+- Neh_4:2¿resucitarán de...del p las piedras que
+- Job_2:12esparcieron p sobre sus cabezas haciaH6083
+- Job_4:19en casas...cuyos cimientos están en el pH6083
+- Job_5:6porque la aflicción no sale del p, ni laH6083
+- Job_7:5mi carne está vestida...de costras de pH6083
+- Job_7:21porque ahora dormiré en el p, y si meH6083
+- Job_8:19ciertamente...del p mismo nacerán otrosH6083
+- Job_10:9diste forma; ¿y en p me has de volver?[[H6083]]
+- Job_14:8raíz, y su tronco fuere muerto en el p
+- Job_14:19agua...que se lleva el p de la tierraH6083
+- Job_16:15cosí cilicio...puse mi cabeza en el pH6083
+- Job_17:16Seol...juntamente descansarán en el pH6083
+- Job_19:25vive, y al fin se levantará sobre el p
+- Job_20:11su juventud, mas con él en el p yaceránH6083
+- Job_21:26yacerán ellos en el p, y gusanos losH6083
+- Job_27:16amontone plata como p, y prepare ropaH6083
+- Job_28:2el hierro se saca del p, y de la piedra
+- Job_28:6cuyas piedras son zafiro, y sus p de oroH6083
+- Job_30:19lodo, y soy semejante al p y a la cenizaH6083
+- Job_34:15perecería...y el hombre volvería al pH6083
+- Job_38:38cuando el p se ha convertido en durezaH6083
+- Job_39:14sus huevos, y sobre el p los calientaH6083
+- Job_40:13encúbrelos a todos en el p, encierraH6083
+- Job_42:6por tanto...me arrepiento en p y cenizaH6083
+- Sal_7:5huelle en...y mi honra ponga en el pH6083
+- Sal_18:42y los molí como p delante del vientoH6083
+- Sal_22:15y me has puesto en el p de la muerteH6083
+- Sal_22:29se postrarán...los que descienden al pH6083
+- Sal_30:9te alabará el p? ¿Anunciará tu verdad?[[H6083]]
+- Sal_44:25nuestra alma está agobiada hasta el pH6083
+- Sal_72:9ante él se...y sus enemigos lamerán el pH6083
+- Sal_78:27hizo llover sobre ellos carne como pH6083
+- Sal_102:14aman...y del p de ella tienen compasiónH6083
+- Sal_103:14él conoce...se acuerda de que somos pH6083
+- Sal_104:29hálito, dejan de ser, y vuelven al pH6083
+- Sal_113:7él levanta del p al pobre, y al...alzaH6083
+- Sal_119:25abatida hasta el p está mi almaH6083
+- Pro_8:26ni los campos, ni el principio del pH6083
+- Ecl_3:20es hecho del p, y...volverá al mismo pH6083
+- Ecl_12:7el p vuelve a la tierra, como era, y elH6083
+- Cnt_3:6sahumada de mirra y de...p aromático?[[H81]]
+- Isa_2:10escóndete en el p, de la presenciaH6083
+- Isa_5:24su flor se desvanecerá como p; porqueH80
+- Isa_17:13serán...como el p delante del torbellino
+- Isa_25:12y abatirá...echará a tierra, hasta el pH6083
+- Isa_26:5la humilló hasta la tierra...hasta el pH6083
+- Isa_26:19¡despertad y cantad, moradores del p![[H6083]]
+- Isa_29:4saldrá del p, y...susurrará desde el pH6083
+- Isa_29:5muchedumbre de tus enemigos será comoH80
+- Isa_34:7sangre, y su p se engrasará de grosuraH6083
+- Isa_34:9se convertirán en brea, y su p en azufreH6083
+- Isa_40:12con tres dedos juntó el p de la tierraH6083
+- Isa_40:15como menudo p en las balanzas le sonH7834
+- Isa_40:15que hace desaparecer las islas como pH7834
+- Isa_41:2de reyes; los entregó a su espada como pH6083
+- Isa_47:1desciende y siéntate en el p...BabiloniaH6083
+- Isa_49:23te adorarán...lamerán el p de tus piesH6083
+- Isa_52:2sacúdete del p; levántate y siéntateH6083
+- Isa_65:25el p será el alimento de la serpienteH6083
+- Jer_17:13escritos en el p, porque dejaron aH776
+- Jer_25:34y clamad; revolcaos en el p, mayorales
+- Lam_2:10echaron p sobre sus cabezas...cilicioH6083
+- Lam_3:29ponga su boca en el p, por si aún hayH6083
+- Eze_24:7tierra para que fuese cubierta con pH6083
+- Eze_26:4barreré de ella hasta su p, y la dejaréH6083
+- Eze_26:10de sus caballos te cubrirá el p de ellosH80
+- Eze_26:12y pondrán...tu p en medio de las aguasH6083
+- Eze_27:30p sobre sus cabezas, y se revolcaránH6083
+- Dan_12:2los que duermen en el p de la tierraH6083
+- Amó_2:7pisotean en el p de la tierra...cabezasH6083
+- Miq_1:10revuélcate en el p de Bet-le-afraH6083
+- Miq_7:17lamerán el p como la culebra; como lasH6083
+- Nah_1:3marcha en...nubes son el p de sus piesH80
+- Sof_1:17la sangre de ellos...derramada como pH6083
+- Zac_9:3y amontonó plata como p, y oro comoH6083
+- Mat_10:14salid...sacudid el p de vuestros piesG2868
+- Mar_6:11sacudid el p...de vuestros pies, paraG5522
+- Luc_9:5p de vuestros pies en testimonio contraG2868
+- Luc_10:11el p...que se ha pegado a nuestros piesG2868
+- Hec_13:51sacudiendo contra ellos el p de susG2868
+- Hec_22:23ellos gritaban...y lanzaban p al aireG2868
+- Rev_18:19p sobre sus cabezas, y dieron vocesG5522

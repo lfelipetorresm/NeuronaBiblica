@@ -1,0 +1,138 @@
+---
+tipo: concordancia
+palabra: CONVERTIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONVERTIR
+
+- Éxo_7:17golpearé...y se convertirá en sangreH2015
+- Éxo_7:19para que se conviertan en sangre, y hayaH1961
+- Éxo_7:20todas las aguas, convirtieron en sangreH2015
+- Deu_23:5tu Dios te convirtió la maldición enH2015
+- Deu_30:2, Deu_30:10te convirtieres a Jehová tu DiosH7725
+- 1Re_8:47si se convirtieren, y oraren a ti enH7725
+- 1Re_8:48se convirtieren a ti de todo su corazónH7725
+- 2Re_10:27convirtieron en letrinas hasta hoyH7760
+- 2Re_23:6imagen de Asera...la convirtió en polvoH1854
+- 2Re_23:25no hubo otro rey...que se convirtieseH7725
+- 2Cr_6:24convirtiere, y confesare tu nombreH7725
+- 2Cr_6:26se convirtieren de sus pecados, cuandoH7725
+- 2Cr_6:37si se convirtieren, y oraren a ti en laH7725
+- 2Cr_6:38se convirtieren a ti de todo su corazónH7725
+- 2Cr_7:14y se convirtieren de sus malos caminosH7725
+- 2Cr_15:4cuando en...se convirtieron a Jehová DiosH7725
+- Neh_9:26protestaban...para convertirlos a tiH7725
+- Neh_9:35ni se convirtieron de sus malas obrasH7725
+- Job_7:20hasta convertirme en una carga para mi
+- Job_28:5debajo de ella está como convertido enH2015
+- Job_36:10dice que se conviertan de la iniquidadH7725
+- Job_38:38cuando el polvo se ha convertido enH3332
+- Sal_19:7la ley de Jehová...convierte el almaH7725
+- Sal_51:13y los pecadores se convertirán a tiH7725
+- Sal_90:3dices: Convertíos, hijos de los hombresH7725
+- Sal_107:33él convierte los ríos en desierto, yH7760
+- Isa_1:21¿cómo te has convertido en ramera, ohH1961
+- Isa_1:22tu plata se ha convertido en escoriasH1961
+- Isa_1:27y los convertidos de ella con justiciaH7725
+- Isa_6:10ni se convierta, y haya para él sanidadH7725
+- Isa_9:13pero el pueblo no se convirtió al queH7725
+- Isa_13:9para convertir la tierra en soledad, yH7760
+- Isa_14:23y la convertiré en posesión de erizosH7760
+- Isa_17:2las ciudades...en majadas se convertiránH1961
+- Isa_19:22se convertirán a Jehová...será clementeH7725
+- Isa_23:13sus palacios; él la convirtió en ruinasH7760
+- Isa_25:2porque convertiste la ciudad en montónH7760
+- Isa_29:17¿no se convertirá de aquí a muy pocoH7725
+- Isa_32:15desierto se convierta en campo fértilH1961
+- Isa_34:9se convertirán en brea, y su polvo enH2015
+- Isa_35:7el lugar seco se convertirá en estanqueH1961
+- Isa_40:23el convierte en nada a los poderososH5414
+- Isa_42:15convertiré en soledad montes y colladosH7760
+- Isa_49:11convertiré en camino todos mis montesH7760
+- Isa_50:2he aquí convierto los ríos en desiertoH7760
+- Jer_3:14, Jer_3:22convertíos, hijos rebeldes, diceH7725
+- Jer_5:3endurecieron...no quisieron convertirseH7725
+- Jer_5:17espada convertirá en nada tus ciudadesH7567
+- Jer_6:8para que no te convierta en desierto, enH7760
+- Jer_9:11y convertiré las ciudades de Judá enH5414
+- Jer_10:22convertir en soledad todas las ciudadesH7760
+- Jer_12:10convirtieron en desierto y soledad miH5414
+- Jer_15:19si te convirtieres, yo te restauraréH7725
+- Jer_15:19conviértanse ellos...y no te conviertasH7725
+- Jer_18:8si esos pueblos se convirtieren de suH7725
+- Jer_18:11conviértase ahora cada uno de su malH7725
+- Jer_22:6sin embargo, te convertiré en soledadH7896
+- Jer_23:14que ninguno se convirtiese de su maldadH7725
+- Jer_25:12la convertiré en desierto para siempreH7760
+- Jer_31:18conviérteme, y seré convertido, porqueH7725
+- Jer_34:15os habíais hoy convertido, y hecho loH7725
+- Jer_37:15la casa...la habían convertido en cárcelH6213
+- Jer_44:5su oído para convertirse de su maldadH7725
+- Jer_49:2y será convertida en montón de ruinasH1961
+- Jer_49:17se convertirá Edom en desolación; todoH1961
+- Jer_50:23se convirtió Babilonia en desolaciónH1961
+- Jer_50:26convertidla en montón de ruinas, yH5549
+- Eze_3:19y él no se convirtiere de su impiedadH7725
+- Eze_5:14y te convertiré en soledad y en oprobioH5414
+- Eze_7:20convirtieron la gloria de su ornamentoH7760
+- Eze_7:20eso se lo convertí en cosa repugnanteH5414
+- Eze_14:6dice...Convertíos, y volveos de...ídolosH7725
+- Eze_15:8y convertiré la tierra en asolamientoH5414
+- Eze_18:30convertíos, y apartaos...transgresionesH7725
+- Eze_18:32dice Jehová el...convertíos...y viviréisH7725
+- Eze_22:18la casa de Israel se me ha convertidoH1961
+- Eze_22:18en escorias de plata se convirtieronH1961
+- Eze_22:19os habéis convertido en escorias, porH1961
+- Eze_26:19te convertiré en ciudad asolada, comoH5414
+- Eze_26:21te convertiré en espanto, y dejarás deH5414
+- Eze_33:14si él se convirtiere de su pecado, cH7725
+- Eze_33:28convertiré la tierra en desierto y enH5414
+- Eze_33:29cuando convierta la tierra en soledadH5414
+- Eze_35:3te convertiré en desierto y en soledadH5414
+- Eze_35:7convertiré al monte de Seir en desiertoH5414
+- Dan_2:5casas serán convertidas en muladaresH7761
+- Dan_3:29dijere, su casa convertida en muladarH7739
+- Dan_9:13para convertirnos de nuestras maldadesH7725
+- Ose_5:4no piensan en convertirse a su DiosH7725
+- Ose_11:5su rey, porque no se quisieron convertirH7725
+- Joe_2:12convertíos a mí con...vuestro corazónH7725
+- Joe_2:13y convertíos a Jehová vuestro DiosH7725
+- Joe_2:31el sol se convertirá en tinieblas, y laH2015
+- Amó_5:7los que convertís en ajenjo el juicioH2015
+- Amó_6:12habéis...convertido el juicio en venenoH2015
+- Jon_3:8conviértase cada uno de su mal caminoH7725
+- Jon_3:10y vio Dios...que se convirtieron de suH7725
+- Sof_2:13y convertirá a Nínive en asolamientoH7760
+- Hag_2:17mas no os convertisteis a mí, dice
+- Zac_7:14convirtieron en desierto la tierra
+- Zac_8:19se convertirán para la casa de Judá enH1961
+- Mal_1:3y convertí sus montes en desolaciónH7760
+- Mat_4:3que estas piedras se conviertan en panG1096
+- Mat_13:15oigan...y se conviertan, y yo los saneG1994
+- Mar_4:12se conviertan, y les sean perdonadosG1994
+- Luc_1:16hará que muchos...conviertan al SeñorG1994
+- Luc_4:3di a esta piedra que se convierta en panG1096
+- Jua_4:46donde había convertido el agua en vinoG4160
+- Jua_12:40vean...y se conviertan, y yo los saneG1994
+- Jua_16:20vuestra tristeza se convertirá en gozoG1096
+- Hec_2:20el sol se convertirá en tinieblas, yG3344
+- Hec_3:19y convertíos, para que sean borradosG1994
+- Hec_3:26que cada uno se convierta de su maldadG654
+- Hec_9:35los cuales se convirtieron al SeñorG1994
+- Hec_11:21número creyó y se convirtió al SeñorG1994
+- Hec_14:15os convirtáis al Dios vivo, que hizoG1994
+- Hec_15:19los gentiles que se convierten a DiosG1994
+- Hec_26:18se conviertan de las tinieblas a la luzG1994
+- Hec_26:20se convirtiesen a Dios, haciendo obrasG1994
+- Hec_28:27entiendan de corazón, y se conviertanG1994
+- 2Co_3:16cuando se conviertan al Señor, elG1994
+- 1Ts_1:9cómo os convertisteis de los ídolosG1994
+- Stg_4:9vuestra risa se convierta en lloro, yG3344
+- Jud_1:4convierten en libertinaje la gracia deG3346
+- Rev_8:8la tercera parte...convirtió en sangreG1096
+- Rev_8:11la tercera parte...convirtió en ajenjoG1096
+- Rev_11:6las aguas para convertirlas en sangreG4762
+- Rev_16:3se convirtió en sangre como de muertoG1096
+- Rev_16:4derramó su...y se convirtieron en sangreG1096

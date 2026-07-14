@@ -1,0 +1,117 @@
+---
+tipo: concordancia
+palabra: EVANGELIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EVANGELIO
+
+- Mat_4:23recorrió...predicando el e del reinoG2098
+- Mat_9:35y predicando el e del reino, y sanandoG2098
+- Mat_11:5oyen...y a los pobres es anunciado el eG2097
+- Mat_24:14y será predicado este e del reino enG2098
+- Mat_26:13que dondequiera que se predique este eG2098
+- Mar_1:1principio del e de Jesucristo, Hijo deG2098
+- Mar_1:14Jesús vino...predicando el e del reinoG2098
+- Mar_1:15diciendo...arrepentíos, y creed en el eG2098
+- Mar_8:35pierda su vida por causa de mí y del eG2098
+- Mar_10:29haya dejado...por causa de mí y del eG2098
+- Mar_13:10y es necesario que el e sea predicadoG2098
+- Mar_14:9que se predique este e...se contará loG2098
+- Mar_16:15id por todo el mundo y predicad el eG2098
+- Luc_4:43también a otras ciudades anuncie el e
+- Luc_7:22oyen...y a los pobres es anunciado el eG2097
+- Luc_8:1predicando y anunciando el e del reinoG2097
+- Luc_9:6las aldeas, anunciando el e y sanando porG2097
+- Luc_20:1enseñando Jesús al...y anunciando el eG2097
+- Hec_8:4iban por todas partes anunciando el eG3056
+- Hec_8:12creyeron a Felipe, que anunciaba el e del
+- Hec_8:25en muchas poblaciones...anunciaron el eG2097
+- Hec_8:35entonces Felipe...anunció el e de Jesús
+- Hec_8:40anunciaba el e en todas las ciudadesG2097
+- Hec_10:36anunciando el e de la paz por medio de
+- Hec_11:20los griegos, anunciando el e del Señor
+- Hec_13:32os anunciamos el e de aquella promesaG2097
+- Hec_14:7y allí predicaban el eG2097
+- Hec_14:21de anunciar el e a aquella ciudad y deG2097
+- Hec_15:7los gentiles oyesen...la palabra del eG2098
+- Hec_15:35y anunciando el e con otros muchosG3056
+- Hec_16:10llamaba para que les anunciásemos el eG2097
+- Hec_17:18porque les predicaba el e de Jesús, y
+- Hec_20:24para dar testimonio del e de la graciaG2098
+- Rom_1:1apóstol, apartado para el e de DiosG2098
+- Rom_1:9a quien sirvo en mi espíritu en el e deG2098
+- Rom_1:15pronto estoy a anunciaros el e tambiénG2097
+- Rom_1:16no me avergüenzo del e, porque es poderG2098
+- Rom_1:17en el e la justicia de Dios se revela por
+- Rom_2:16día en que Dios juzgará...conforme a mi eG2098
+- Rom_10:16no todos obedecieron al e; pues IsaíasG2098
+- Rom_11:28cuanto al e, son enemigos por causa deG2098
+- Rom_15:16ministrando el e de Dios, para que losG2098
+- Rom_15:19todo lo he llenado del e de CristoG2098
+- Rom_15:20me esforcé a predicar el e, no dondeG2097
+- Rom_15:29con abundancia de la bendición del eG2098
+- Rom_16:25al que puede confirmaros según mi eG2098
+- 1Co_1:17a predicar el e; no con sabiduríaG2097
+- 1Co_4:15pues en...yo os engendré por medio del eG2098
+- 1Co_9:12por no poner ningún obstáculo al e deG2098
+- 1Co_9:14los que anuncian el e, que vivan del eG2098
+- 1Co_9:16porque...¡ ay de mí si no anunciare el eG2097
+- 1Co_9:18que predicando el e...gratuitamente el eG2098
+- 1Co_9:18para no abusar de mi derecho en el eG2098
+- 1Co_9:23esto hago por causa del e, para hacermeG2098
+- 1Co_15:1os declaro...el e que os he predicado, elG2098
+- 2Co_2:12llegué a Troas para predicar el eG2098
+- 2Co_4:3si nuestro e está aún encubierto, entreG2098
+- 2Co_4:4para que no les resplandezca la luz del eG2098
+- 2Co_8:18al hermano cuya alabanza en el e se oyeG2098
+- 2Co_9:13por la obediencia que profesáis al e deG2098
+- 2Co_10:14primeros en llegar...con el e de CristoG2098
+- 2Co_10:16y que anunciaremos el e en los lugaresG2098
+- 2Co_11:4otro e que el que habéis aceptado, bienG2098
+- 2Co_11:7os he predicado el e de Dios de balde?[[G2098]]
+- Gál_1:6alejado del...para seguir un e diferenteG2098
+- Gál_1:7algunos...quieren pervertir el e de CristoG2098
+- Gál_1:8un ángel del cielo, os anunciare otro eG2097
+- Gál_1:9si alguno os predica diferente e del queG2097
+- Gál_1:11que el e anunciado por mí, no es segúnG2098
+- Gál_2:2expuse...e que predico entre los gentilesG2098
+- Gál_2:5para que la verdad del e permaneciese conG2098
+- Gál_2:7encomendado el e de la incircuncisiónG2098
+- Gál_2:14no andaban...conforme a la verdad del eG2098
+- Gál_4:13causa de...os anuncié el e al principioG2097
+- Efe_1:13la palabra...el e de vuestra salvaciónG2098
+- Efe_3:6copartícipes de la promesa...medio del eG2098
+- Efe_3:8anunciar entre los gentiles el e de lasG2097
+- Efe_6:15calzados los pies con el apresto del eG2098
+- Efe_6:19para dar a conocer...el misterio del eG2098
+- Flp_1:5por vuestra comunión en el e; desde elG2098
+- Flp_1:7en la defensa y confirmación del e, todosG2098
+- Flp_1:12han redundado...para el progreso del eG2098
+- Flp_1:17que estoy puesto para la defensa del eG2098
+- Flp_1:27que os comportéis como es digno del eG2098
+- Flp_1:27combatiendo unánimes por la fe del eG2098
+- Flp_2:22como hijo...ha servido conmigo en el eG2098
+- Flp_4:3éstas que combatieron...conmigo en el eG2098
+- Flp_4:15que al principio de la predicaci6n del eG2098
+- Col_1:5ya habéis oído por la palabra...del eG2098
+- Col_1:23sin moveros de la esperanza del e queG2098
+- 1Ts_1:5pues nuestro e no llego a vosotros enG2098
+- 1Ts_2:2denuedo...para anunciaros el e de Dios enG2098
+- 1Ts_2:4que se nos confiase el e, así hablamosG2098
+- 1Ts_2:8entregaros no sólo el e de Dios, sinoG2098
+- 1Ts_2:9trabajando...os predicamos el e de DiosG2098
+- 1Ts_3:2a Timoteo...colaborador nuestro en el eG2098
+- 2Ts_1:8ni obedecen al e de nuestro SeñorG2098
+- 2Ts_2:14a lo cual os llamó mediante nuestro eG2098
+- 1Ti_1:11el glorioso e del Dios bendito, queG2098
+- 2Ti_1:8participa de las aflicciones por el eG2098
+- 2Ti_1:10sacó a luz la...la inmortalidad por el eG2098
+- 2Ti_2:8resuscitado de los muertos conforme a...eG2098
+- Flm_1:13me sirviese en mis prisiones por el eG2098
+- 1Pe_1:12los que os han predicado el e por elG2097
+- 1Pe_1:25es la palabra que por el e os ha sidoG2097
+- 1Pe_4:6ha sido predicado el e a los muertos, paraG2097
+- 1Pe_4:17¿cuál será el fin de...no obedecen al eG2098
+- Rev_14:6a otro ángel, que tenía el e eternoG2098

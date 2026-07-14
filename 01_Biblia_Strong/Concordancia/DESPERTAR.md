@@ -1,0 +1,98 @@
+---
+tipo: concordancia
+palabra: DESPERTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DESPERTAR
+
+- Gén_9:24despertó Noé de su embriaguez, y supoH3364
+- Gén_28:16y despertó Jacob de su sueño, y dijoH3364
+- Gén_41:4las vacas...devoraban...y despertó FaraónH3364
+- Gén_41:7y despertó Faraón, y he aquí...era sueñoH3364
+- Gén_41:21apariencia...era aún mala...y yo despertéH3364
+- Gén_49:9como león viejo; ¿quién lo despertará?[[H6965]]
+- Núm_24:9y como leona; ¿quién lo despertará?[[H6965]]
+- Deu_32:16le despertaron a celos con los diosesH3707
+- Jue_5:12despierta, d, Débora; d, d, entonaH5782
+- Jue_16:14despertando él...arrancó la estaca delH3364
+- Jue_16:20luego que despertó él de su sueño, seH3364
+- 1Re_3:15cuando...despertó, vio que era un sueñoH3364
+- 1Re_18:27tal vez duerme, y hay que despertarleH3364
+- 2Re_4:31Giezi...diciendo: El niñó no despiertaH6974
+- 2Cr_21:16jehová despertó contra Joram la iraH5782
+- 2Cr_36:22Jehová despertó...el espíritu de Ciro reyH5782
+- Esd_1:1despertó Jehová el espíritu de CiroH5782
+- Esd_1:5cuyo espíritu despertó Dios para subir
+- Job_3:8se aprestan para despertar a LeviatánH5782
+- Job_8:6se despertará por ti, y hará próspera laH5782
+- Job_14:12que no haya cielo, no despertarán, niH6974
+- Job_36:10despierta además el oído de ellos para
+- Job_36:15y en la aflicción despertará su oído
+- Job_41:10nadie hay tan osado que lo despierte
+- Sal_3:5me acosté y dormí, y desperté, porqueH6974
+- Sal_7:6y despierta en favor mío el juicio queH5782
+- Sal_17:15satisfecho...despirte a tu semejanzaH6974
+- Sal_35:23despierta para hacerme justicia, DiosH6974
+- Sal_44:23despierta; ¿por qué duermes, Señor?[[H5782]]
+- Sal_44:23despierta, no te alejes para siempreH6974
+- Sal_57:8despierta, alma mía; d, salterio y arpaH5782
+- Sal_59:4despierta para venir a mi encuentro, yH5782
+- Sal_59:5despierta para castigar a...las nacionesH6974
+- Sal_73:20como sueño del que despierta, así, SeñorH6974
+- Sal_73:20cuando despertares, menospreciarás suH5782
+- Sal_78:38apartó...ira, y no despertó todo su enojo
+- Sal_78:65despertó...el Señor como quien duermeH3364
+- Sal_80:2despierta tu poder delante de Efraín
+- Sal_108:2despíertate...arpa; despertaré al albaH5782
+- Sal_139:18arena; despierto, y aún estoy contigoH6974
+- Pro_6:22hablarán contigo cuando despierteH6974
+- Pro_10:12el odio despierta rencillas; pero elH5782
+- Pro_23:35cuando despertare, aún lo volveré aH6974
+- Ecl_4:4toda excelencia de obras despierta la
+- Cnt_2:7; Cnt_3:5; Cnt_8:4que no despertéis...al amorH5782
+- Cnt_8:5debajo de un manzano te desperté; allíH5782
+- Isa_13:17yo despierto contra ellos a los medosH5782
+- Isa_14:9el Seol abajo...despertó muertos que enH5782
+- Isa_26:19¡despertad y cantad, moradores...polvo![[H6974]]
+- Isa_29:8parece que come, pero cuando despiertaH6974
+- Isa_29:8parece que bebe, pero cuando despiertaH6974
+- Isa_41:2¿quién despertó del oriente al justo, loH5782
+- Isa_42:13como hombre de guerra despertará celoH5782
+- Isa_44:26que despierta la palabra de su siervoH6965
+- Isa_45:13lo desperté en justicia, y enderezaréH5782
+- Isa_50:4despertará mañana tras mañana, d...oídoH5782
+- Isa_51:9despiértate, d, vístete de poder, ohH5782
+- Isa_51:9despiértate como en el tiempo antiguoH5782
+- Isa_51:17despierta, d, levántate, oh JerusalénH5782
+- Isa_52:1despierta, d, vístete de poder, oh SionH5782
+- Isa_64:7que se despierte para apoyarse en tiH5782
+- Jer_29:10visitaré, y despertaré sobre vosotros
+- Jer_31:26en esto me desperté, y vi, y mi sueñoH6974
+- Jer_51:11ha despertado Jehová el espíritu de losH5782
+- Jer_51:39duerman eterno sueño y no despiertenH6974
+- Jer_51:57dormirán sueño eterno y no despertaránH6974
+- Eze_7:6el fin viene; se ha despertado contra
+- Dan_11:25y despertará sus fuerzas y su ardorH5782
+- Dan_12:2los que duermen en el...serán despertadosH6974
+- Joe_1:5despertad, borrachos, y llorad; gemidH6974
+- Joe_3:9despertad a los valientes, acérquenseH6974
+- Joe_3:12despiértense las naciones, y suban alH5782
+- Hab_2:7despertarán los que te harán temblarH6974
+- Hab_2:19¡ay del que dice al palo: DespíertateH6974
+- Hag_1:14despertó...el espíritu de ZorobabelH5782
+- Zac_4:1me despertó, como un...despertado deH5782
+- Zac_9:13despertaré a tus hijos, oh Sion, contraH5782
+- Mat_1:24despertando José del sueño, hizo comoG1326
+- Mat_2:14él, despertando, tomó de noche al niñoG1453
+- Mat_8:25despertaron, diciendo: ¡Señor, sálvanosG1453
+- Mar_4:38le despertaron, y le dijeron: MaestroG1326
+- Luc_8:24le despertaron, diciendo: ¡MaestroG1326
+- Luc_8:24despertando él, reprendió al viento yG1326
+- Jua_11:11Lázaro duerme...voy a despertarleG1852
+- Hec_12:7despertó, diciendo: Levántate prontoG1453
+- Hec_16:27despertando el carcelero, y viendoG1853
+- Efe_5:14dice: Despiértate, tú que duermes, yG1453
+- 2Pe_1:13justo...despertaros con amonestaciónG1326
+- 2Pe_3:1despierto...vuestro limpio entendimientoG1326

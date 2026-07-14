@@ -1,0 +1,379 @@
+---
+tipo: concordancia
+palabra: JACOB
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JACOB
+
+- 1 Patriarca, hijo de Isaac (=Israel); a veces su posteridad
+- Gén_25:26salió su...y fue llamado su nombre JH3290
+- Gén_25:27J era varón quieto, que habitaba enH3290
+- Gén_25:28amó Isaac a Esaú...Rebeca amaba a JH3290
+- Gén_25:29guisó J un potaje; y volviendo Esaú delH3290
+- Gén_25:30a J: Te ruego que me des a comer de eseH3290
+- Gén_25:31y J respondió: Véndeme en este día tuH3290
+- Gén_25:33dijo J: Júramelo en este día. Y él leH3290
+- Gén_25:33le juró, y vendió a J su primogenituraH3290
+- Gén_25:34J dio a Esaú pan y del guisado de lasH3290
+- Gén_27:6Rebeca habló a J su hijo, diciendo: HeH3290
+- Gén_27:11y J dijo a Rebeca su madre: He aquíH3290
+- Gén_27:15vestidos...y vistió a J su hijo menorH3290
+- Gén_27:17y entregó los guisados...en manos de JH3290
+- Gén_27:19y J dijo a su padre: Yo soy Esaú tuH3290
+- Gén_27:21Isaac dijo a J: Acércate ahora, y teH3290
+- Gén_27:22se acercó J a su padre Isaac...le palpóH3290
+- Gén_27:22la voz es la voz de J, pero las manosH3290
+- Gén_27:24¿eres tu...Esaú? Y J respondió: Yo soyH3290
+- Gén_27:25J se la acercó, e Isaac comió; le trajoH3290
+- Gén_27:27y J se acercó, y le besó; y olió IsaacH3290
+- Gén_27:30acabó de bendecir a J...había salido JH3290
+- Gén_27:36bien llamaron su nombre J, pues ya meH3290
+- Gén_27:41aborreció Esaú a J por la bendición conH3290
+- Gén_27:41Esaú...dijo...yo mataré a mi hermano JH3290
+- Gén_27:42y llamó a J su hijo menor, y le dijoH3290
+- Gén_27:46si J toma mujer de las hijas de HetH3290
+- Gén_28:1entonces Isaac llamó a J, y lo bendijoH3290
+- Gén_28:5envió Isaac a J, el cual fue...a LabánH3290
+- Gén_28:5hermano de Rebeca madre de J y de EsaúH3290
+- Gén_28:6y vio...cómo Isaac había bendecido a JH3290
+- Gén_28:7y que J había obedecido a su padre y aH3290
+- Gén_28:10salió...J de Beerseba, y fue a HaránH3290
+- Gén_28:16y despertó J de su sueño, y dijoH3290
+- Gén_28:18levantó J de mañana, y tomó la piedraH3290
+- Gén_28:20hizo J voto, diciendo: Si fuere DiosH3290
+- Gén_29:1siguió luego J su camino, y fue a laH3290
+- Gén_29:4dijo J: Hermanos míos, ¿de dónde sois?[[H3290]]
+- Gén_29:10cuando J vio a Raquel, hija de LabánH3290
+- Gén_29:10se acercó J y removió la piedra de laH3290
+- Gén_29:11J besó a Raquel, y alzó su voz y lloróH3290
+- Gén_29:12J dijo a Raquel que él era hermano deH3290
+- Gén_29:13que oyó Labán las nuevas de J, hijo deH3290
+- Gén_29:15entonces dijo Labán a J: ¿Por ser túH3290
+- Gén_29:18J amó a Raquel, y dijo: Yo te serviréH3290
+- Gén_29:20así sirvió J por Raquel siete añosH3290
+- Gén_29:21dijo J a Labán: Dame mi mujer, porqueH3290
+- Gén_29:25y J dijo a Labán: ¿Qué es esto que meH3290
+- Gén_29:28e hizo J así, y cumplió la semana deH3290
+- Gén_30:1viendo Raquel que no daba hijos a J, tuvoH3290
+- Gén_30:1tuvo envidia...y decía a J: Dame hijosH3290
+- Gén_30:2J se enojó contra Raquel, y dijo: ¿SoyH3290
+- Gén_30:4así le dio a Bilha...J se llegó a ellaH3290
+- Gén_30:5concibió Bilha, y dio a luz un hijo a JH3290
+- Gén_30:7Bilha la...dio a luz un segundo hijo a JH3290
+- Gén_30:9tomó a Zilpa su...y la dio a J por mujerH3290
+- Gén_30:10Zilpa sierva de...dio a luz un hijo a JH3290
+- Gén_30:12sierva de Lea dio a luz otro hijo a JH3290
+- Gén_30:16cuando, pues, J volvía del campo a laH3290
+- Gén_30:17a Lea...y dio a luz el quinto hijo a JH3290
+- Gén_30:19otra vez...dio a luz el sexto hijo a JH3290
+- Gén_30:25que J dijo a Labán: Envíame e iré aH3290
+- Gén_30:31te daré? Y respondió J: No me des nadaH3290
+- Gén_30:36de camino entre si y J; y J apacentabaH3290
+- Gén_30:37tomó luego J varas verdes de álamo, deH3290
+- Gén_30:40apartaba J los corderos, y ponía conH3290
+- Gén_30:41J ponía las varas delante de...ovejasH3290
+- Gén_30:42para Labán, y las más fuertes para JH3290
+- Gén_31:1y oía J las palabras de los hijos deH3290
+- Gén_31:1J ha tomado todo lo que era de...padreH3290
+- Gén_31:2miraba...J el semblante de Labán, y veíaH3290
+- Gén_31:3Jehová dijo a J: Vuélvete a la tierraH3290
+- Gén_31:4envió, pues, J, y llamó a Raquel y a LeaH3290
+- Gén_31:11me dijo el ángel de Dios...J. Y yo dijeH3290
+- Gén_31:17se levantó J, y subió sus hijos y susH3290
+- Gén_31:20J engañó a Labán arameo, no...que se ibaH3290
+- Gén_31:22fue dicho a Labán que J había huidoH3290
+- Gén_31:23fue tras J camino de siete días, y leH3290
+- Gén_31:24y le dijo: Guárdate que no hables a JH3290
+- Gén_31:25alcanzó, pues, Labán a J; y éste habíaH3290
+- Gén_31:26y dijo Labán a J: ¿Qué has hecho, queH3290
+- Gén_31:29habló...no hables a J descomedidamenteH3290
+- Gén_31:31respondió J y dijo a Labán...tuve miedoH3290
+- Gén_31:32J no sabía que Raquel...había hurtadoH3290
+- Gén_31:33entró Labán en la tienda de J...de LeaH3290
+- Gén_31:36J se enojó, y riñó...respondió J y dijoH3290
+- Gén_31:43respondió Labán y dijo a J: Las hijasH3290
+- Gén_31:45J tomó una piedra, y la levantó porH3290
+- Gén_31:46dijo J a sus hermanos: Recoged piedrasH3290
+- Gén_31:47Jegar Sahaduta; y lo llamó J, GalaadH3290
+- Gén_31:51dijo...Labán a J: He aquí este majanoH3290
+- Gén_31:53J juró por aquel a quien temía IsaacH3290
+- Gén_31:54J inmoló víctimas en el monte, y llamóH3290
+- Gén_32:1J siguió su camino, y le salieron alH3290
+- Gén_32:2dijo J cuando los vio: Campamento deH3290
+- Gén_32:3envió J mensajeros delante de...a EsaúH3290
+- Gén_32:4dice tu siervo J: Con Labán he moradoH3290
+- Gén_32:6los mensajeros volvieron a J, diciendoH3290
+- Gén_32:7J tuvo gran temor, y se angustió: yH3290
+- Gén_32:9dijo J: Dios de mi padre Abraham, y DiosH3290
+- Gén_32:18dirás: Es un presente de tu siervo JH3290
+- Gén_32:20aquí tu siervo J viene tras nosotrosH3290
+- Gén_32:24quedó J solo; y luchó con él un varónH3290
+- Gén_32:25tocó...y se descoyuntó el muslo de JH3290
+- Gén_32:26y J le respondió: No te dejaré, si noH3290
+- Gén_32:27¿cuál es tu nombre? Y él respondió: JH3290
+- Gén_32:28no se dirá...tu nombre J, sino IsraelH3290
+- Gén_32:29J le preguntó...Declárame...tu nombreH3290
+- Gén_32:30y llamó J el nombre de...lugar, PenielH3290
+- Gén_32:32tocó a J este sitio de su muslo en elH3290
+- Gén_33:1alzando J sus ojos, miró, y...venía EsaúH3290
+- Gén_33:8y J respondió: El hallar gracia en losH3290
+- Gén_33:10J: No, yo te ruego...acepta mi presenteH3290
+- Gén_33:13J le dijo: Mi señor sabe que los niñosH3290
+- Gén_33:15J dijo: ¿Para qué esto? Halle yo graciaH3290
+- Gén_33:17y J fue a Sucot, y edificó allí casaH3290
+- Gén_33:18J llegó...salvo a la ciudad de SiquemH3290
+- Gén_34:1de Lea, la cual...había dado a luz a JH3290
+- Gén_34:5oyó J que Siquem había amancillado aH3290
+- Gén_34:5sus hijos...calló J hasta que...viniesenH3290
+- Gén_34:6se dirigió Hamor...a J, para hablar conH3290
+- Gén_34:7hijos de J vinieron del campo cuando loH3290
+- Gén_34:7hizo vileza...acostándose con la hija de JH3290
+- Gén_34:13respondieron los hijos de J a SiquemH3290
+- Gén_34:19porque la hija de J le había agradadoH3290
+- Gén_34:25dos de los hijos de J, Simeón y LevíH3290
+- Gén_34:27los hijos de J vinieron a los muertosH3290
+- Gén_34:30dijo J a Simeón y a Leví: Me habéisH3290
+- Gén_35:1dijo Dios a J: Levántate y sube a Bet-elH3290
+- Gén_35:2J dijo a su familia, a todos los queH3290
+- Gén_35:4así dieron a J todos los dioses ajenosH3290
+- Gén_35:4J los escondió debajo de una encina queH3290
+- Gén_35:5y no persiguieron a los hijos de JH3290
+- Gén_35:6y llegó J a Luz, que está en tierra deH3290
+- Gén_35:9apareció otra vez Dios a J, cuando habíaH3290
+- Gén_35:10tu nombre es J; no se llamará más...JH3290
+- Gén_35:14J erigió una señal en el lugar dondeH3290
+- Gén_35:15llamó J el nombre de aquel lugar dondeH3290
+- Gén_35:20levantó J un pilar sobre su sepulturaH3290
+- Gén_35:23hijos de Lea: Rubén el primogénito de JH3290
+- Gén_35:26fueron los hijos de J, que le nacieronH3290
+- Gén_35:27vino J a Isaac su padre a Mamre, a laH3290
+- Gén_35:29Isaac...lo sepultaron Esaú y J sus hijosH3290
+- Gén_36:6Esaú...fue...separándose de J su hermanoH3290
+- Gén_37:1habitó J en la tierra donde...su padreH3290
+- Gén_37:2esta es la historia de la familia de JH3290
+- Gén_37:34J rasgó sus vestidos, y puso cilicioH3290
+- Gén_42:1viendo J que en Egipto había alimentosH3290
+- Gén_42:4mas J no envió a Benjamín, hermano deH3290
+- Gén_42:29y venidos a J su padre en...de CanaánH3290
+- Gén_42:36padre J les dijo: Me habéis privado deH3290
+- Gén_45:25llegaron a la tierra de Canaán a J suH3290
+- Gén_45:26el corazón de J se afligió, porque noH3290
+- Gén_45:27viendo J los carros que José enviabaH3290
+- Gén_46:2habló Dios a Israel en...y dijo: J, JH3290
+- Gén_46:5se levantó J...y tomaron...a su padre JH3290
+- Gén_46:6vinieron a Egipto, J y...su descendenciaH3290
+- Gén_46:8que entraron en Egipto, J y sus hijosH3290
+- Gén_46:8en Egipto...Rubén, el primogénito de JH3290
+- Gén_46:15hijos de Lea, los que dio a luz a J enH3290
+- Gén_46:18los hijos de Zilpa...dio a luz éstos a JH3290
+- Gén_46:19los hijos de Raquel, mujer de J: JoséH3290
+- Gén_46:22los hijos de Raquel, que nacieron a JH3290
+- Gén_46:25hijos de Bilha...dio a luz éstos a J...7H3290
+- Gén_46:26personas que vinieron con J a EgiptoH3290
+- Gén_46:26sin las mujeres de los hijos de J...66H3290
+- Gén_46:27todas las personas de la casa de J...70H3290
+- Gén_46:28envió J a Judá delante de sí a JoséH3290
+- Gén_47:7también José introdujo a J su padre, yH3290
+- Gén_47:7José...lo presentó...J bendijo a FaraónH3290
+- Gén_47:8dijo Faraón a J: ¿Cuántos son los díasH3290
+- Gén_47:9J respondió a Faraón: Los días de losH3290
+- Gén_47:10y J bendijo a Faraón, y salió de laH3290
+- Gén_47:28y vivió J en...Egipto diecisiete añosH3290
+- Gén_47:28fueron los días de J, los años de suH3290
+- Gén_48:2se le hizo saber a J, diciendo: He aquíH3290
+- Gén_49:1llamó J a sus hijos, y dijo: Juntaos, yH3290
+- Gén_49:2juntaos y oíd, hijos de J, y escuchadH3290
+- Gén_49:7yo los apartaré en J, y los esparciréH3290
+- Gén_49:24brazos...por las manos del Fuerte de JH3290
+- Gén_49:33y cuando acabó J de dar mandamientos aH3290
+- Gén_50:24a la tierra que juró a Abraham...y a JH3290
+- Éxo_1:1son los...que entraron en Egipto con JH3290
+- Éxo_1:5personas que le nacieron a J fueron 70H3290
+- Éxo_2:24se acordó de su pacto con Abraham...y JH3290
+- Éxo_3:6yo soy el Dios de tu...Isaac, y Dios de JH3290
+- Éxo_3:15el Dios...de J, me ha enviado a vosotrosH3290
+- Éxo_3:16el Dios de Isaac y de J, me aparecióH3290
+- Éxo_4:5creerán que...te ha aparecido...Dios de JH3290
+- Éxo_6:3y aparecí a...y a J como Dios OmnipotenteH3290
+- Éxo_6:8jurando que la daría a...a Isaac y a JH3290
+- Éxo_19:3así dirás a la casa de J, y anunciarásH3290
+- Éxo_33:1la tierra de la cual juré a...Isaac y JH3290
+- Lev_26:42yo me acordaré de mi pacto con J, yH3290
+- Núm_23:7ven, maldíceme a J, y ven, execra aH3290
+- Núm_23:10¿quién contará el polvo de J, o elH3290
+- Núm_23:21no ha notado iniquidad en J...en IsraelH3290
+- Núm_23:23contra J no hay agüero, ni adivinaciónH3290
+- Núm_23:23será dicho de J y de Israel: ¡Lo que haH3290
+- Núm_24:5¡cuán hermosas son tus tiendas, oh JH3290
+- Núm_24:17saldrá ESTRELLA de J, y se levantaráH3290
+- Núm_24:19de J saldrá el dominador, y destruiráH3290
+- Núm_32:11tierra que prometí con juramento a...JH3290
+- Deu_1:8la tierra que Jehová juró a...Isaac y JH3290
+- Deu_6:10que juró a tus padres Abraham, Isaac y JH3290
+- Deu_9:5la palabra que Jehová juró a...Isaac y JH3290
+- Deu_9:27acuérdate de tus siervos...Isaac y J; noH3290
+- Deu_29:13como lo juró a tus padres...Isaac y JH3290
+- Deu_30:20la tierra que juró Jehová a...Isaac y JH3290
+- Deu_32:9es su pueblo; J la heredad que le tocóH3290
+- Deu_33:4ley, como heredad a la congregación de JH3290
+- Deu_33:10ellos enseñarán tus juicios a J, y tuH3290
+- Deu_33:28la fuente de J habitará sola en tierraH3290
+- Deu_34:4esta es la tierra de que juré a...y a JH3290
+- Jos_24:4a Isaac di J y Esaú. Y a Esaú di elH3290
+- Jos_24:4pero J y sus hijos descendieron a EgiptoH3290
+- Jos_24:32campo que J compró de los...de HamorH3290
+- 1Sa_12:8cuando J hubo entrado en Egipto, yH3290
+- 2Sa_23:1dijo David...el ungido del Dios de JH3290
+- 1Re_18:31número de las tribus de...hijos de JH3290
+- 2Re_13:23los miró, a causa de su pacto conH3290
+- 2Re_17:34los mandamientos que, a los hijos de JH3290
+- 1Cr_16:13oh vosotros...de J, sus escogidosH3290
+- 1Cr_16:17el cual confirmó a J por estatuto, yH3290
+- Sal_14:7se gozará J, y se alegrará IsraelH3290
+- Sal_20:1el nombre del Dios de J te defiendaH3290
+- Sal_22:23glorificadle, descendencia toda de JH3290
+- Sal_24:6los que buscan tu rostro, oh Dios de JH3290
+- Sal_44:4Dios, eres mi rey; manda salvación a JH3290
+- Sal_46:7, Sal_46:11nuestro refugio es el Dios de JH3290
+- Sal_47:4elegirá...la hermosura de J, al cual amóH3290
+- Sal_53:6hiciere...gozará J, y se alegrará IsraelH3290
+- Sal_59:13Dios gobierna en J hasta los fines deH3290
+- Sal_75:9siempre...cantaré alabanzas al Dios de JH3290
+- Sal_76:6a tu reprensión, oh Dios de J, el carroH3290
+- Sal_77:15redimiste...a los hijos de J y de JoséH3290
+- Sal_78:5estableció testimonio en J, y puso leyH3290
+- Sal_78:21encendió el fuego contra J, y el furorH3290
+- Sal_78:71para que apacentase a J su pueblo, y aH3290
+- Sal_79:7porque han consumido a J, y su moradaH3290
+- Sal_81:1gozo...al Dios de J aclamad con júbiloH3290
+- Sal_81:4estatuto es de...ordenanza del Dios de JH3290
+- Sal_84:8oye mi oración; escucha, oh Dios de JH3290
+- Sal_85:1oh Jehová; volviste la cautividad de JH3290
+- Sal_87:2de Sion más que todas las moradas de JH3290
+- Sal_94:7no verá JAH, ni entenderá el Dios de JH3290
+- Sal_99:4tú has hecho en J juicio y justiciaH3290
+- Sal_105:6oh vosotros...hijos de J, sus escogidosH3290
+- Sal_105:10estableció a J por decreto, a IsraelH3290
+- Sal_105:23entró...y J moró en la tierra de CamH3290
+- Sal_114:1cuando salió...la casa de J del puebloH3290
+- Sal_114:7tiembla...a la presencia del Dios de JH3290
+- Sal_132:2cómo juró...y prometió al Fuerte de JH3290
+- Sal_132:5que halle...morada para el Fuerte de JH3290
+- Sal_135:4JAH ha escogido a J para sí, a IsraelH3290
+- Sal_146:5aquel cuyo ayudador es el Dios de JH3290
+- Sal_147:19ha manifestado sus palabras a J, susH3290
+- Isa_2:3y subamos al...a la casa del Dios de JH3290
+- Isa_2:5venid, oh casa de J, y caminaremos a laH3290
+- Isa_2:6tú has dejado tu pueblo, la casa de JH3290
+- Isa_8:17escondió su rostro de la casa de J, yH3290
+- Isa_9:8el Señor envió palabra a J, y cayó enH3290
+- Isa_10:20casa de J, nunca más se apoyarán en elH3290
+- Isa_10:21volverá, el remanente de J volverá alH3290
+- Isa_14:1tendrá piedad de J, y todavía escogeráH3290
+- Isa_14:1se unirán...se juntarán a la familia de JH3290
+- Isa_17:4la gloria de J se atenuará...enflaqueceráH3290
+- Isa_27:6días vendrán cuando J echará raícesH3290
+- Isa_27:9pues, será perdonada la iniquidad de JH3290
+- Isa_29:22Jehová, que...dice así a la casa de JH3290
+- Isa_29:22no será ahora avergonzado J, ni...rostroH3290
+- Isa_29:23santificarán al Santo de J, y temeránH3290
+- Isa_40:27qué dices, oh J, y hablas tú, IsraelH3290
+- Isa_41:8tú, J, a quien yo escogí, descendenciaH3290
+- Isa_41:14no temas, gusano de J, oh vosotros losH3290
+- Isa_41:21presentad...pruebas, dice el Rey de JH3290
+- Isa_42:24¿quién dio a J en botín, y entregó aH3290
+- Isa_43:1ahora...dice Jehová, Creador tuyo, oh JH3290
+- Isa_43:22no me invocaste a mí, oh J, sino queH3290
+- Isa_43:28puse por anatema a J y por oprobio aH3290
+- Isa_44:1pues, oye, J, siervo mío, y tú, IsraelH3290
+- Isa_44:2no temas, siervo mío J, y tú, JesurúnH3290
+- Isa_44:5el otro se llamará del nombre de J, yH3290
+- Isa_44:21acuérdate de estas cosas...J, e IsraelH3290
+- Isa_44:23Jehová redimió a J, y en Israel seráH3290
+- Isa_45:4por amor de mi siervo J, y de Israel miH3290
+- Isa_45:19no dije a la descendencia de J...vanoH3290
+- Isa_46:3oídme, oh casa de J, y todo el resto deH3290
+- Isa_48:1oíd esto, casa de J, que os llamáis delH3290
+- Isa_48:12óyeme, J, y tú, Israel, a quien llaméH3290
+- Isa_48:20decid: Redimió Jehová a J su siervoH3290
+- Isa_49:5para hacer volver a él a J y...a IsraelH3290
+- Isa_49:6mi siervo para levantar las tribus de JH3290
+- Isa_49:26yo...soy Salvador tuyo...el Fuerte de JH3290
+- Isa_58:1su rebelión, y a la casa de J su pecadoH3290
+- Isa_58:14daré a comer la heredad de J tu padreH3290
+- Isa_59:20que se volvieren de la iniquidad en JH3290
+- Isa_60:16soy el Salvador tuyo, el Fuerte de JH3290
+- Isa_65:9sacaré descendencia de J, y de JudáH3290
+- Jer_2:4oíd la palabra de Jehová, casa de JH3290
+- Jer_5:20anunciad esto en la casa de J, y hacedH3290
+- Jer_10:16no es así la porción de J; porque élH3290
+- Jer_10:25se comieron a J, lo devoraron, le hanH3290
+- Jer_30:7tiempo de angustia para J; pero de ellaH3290
+- Jer_30:10tú...siervo mío J, no temas...J volveráH3290
+- Jer_30:18volver los cautivos de...tiendas de JH3290
+- Jer_31:7regocijaos en J con alegría, y...JúbiloH3290
+- Jer_31:11porque Jehová redimió a J, lo redimióH3290
+- Jer_33:26desecharé la descendencia de J, y deH3290
+- Jer_33:26sobre la posteridad...de Isaac y de JH3290
+- Jer_46:27y tú no temas...J, ni desmayes, IsraelH3290
+- Jer_46:27volverá J, y descansará y...prosperadoH3290
+- Jer_46:28J, no temas...porque yo estoy contigoH3290
+- Jer_51:19no es como ellos la porción de JH3290
+- Lam_1:17Jehová dio mandamiento contra J, queH3290
+- Lam_2:2destruyó en su furor...las tiendas de JH3290
+- Lam_2:3se encendió en J como llama de fuego queH3290
+- Eze_20:5jurar a la descendencia...la casa de JH3290
+- Eze_28:25en su tierra, la cual di a mi siervo JH3290
+- Eze_37:25habitarán en la tierra que di a mi...JH3290
+- Eze_39:25volveré la cautividad de J, y tendréH3290
+- Ose_10:11arará Judá, quebrará sus terrones JH3290
+- Ose_12:2pleito...para castigar a J conforme a suH3290
+- Ose_12:12J huyó a tierra de Aram, Israel sirvióH3290
+- Amó_3:13oíd y testificad contra la casa de JH3290
+- Amó_6:8abomino la grandeza de J, y aborrezco susH3290
+- Amó_7:2, Amó_7:5¿quién levantará a J?...es pequeñoH3290
+- Amó_8:7juró por la gloria de J: No me olvidaréH3290
+- Amó_9:8mas no destruiré del todo la casa de JH3290
+- Abd_1:10la injuria a...J te cubrirá vergüenzaH3290
+- Abd_1:17la casa de J recuperará sus posesionesH3290
+- Abd_1:18la casa de J será fuego, y la casa de JoséH3290
+- Miq_1:5todo esto por la rebelión de J, y porH3290
+- Miq_1:5¿cuál...la rebelión de J? ¿No es Samaria?[[H3290]]
+- Miq_2:7que te dices casa de J, ¿se ha acortadoH3290
+- Miq_2:12cierto te juntaré todo, oh J; recogeréH3290
+- Miq_3:1oíd ahora, príncipes de J, y jefes de laH3290
+- Miq_3:8denunciar a J su rebelión, y a Israel suH3290
+- Miq_3:9oíd ahora esto, jefes de la casa de J, yH3290
+- Miq_4:2subamos al...y a la casa del Dios de JH3290
+- Miq_5:7remanente de J será en medio de muchosH3290
+- Miq_5:8remanente de J será entre las nacionesH3290
+- Miq_7:20cumplirás la verdad a J, y a AbrahamH3290
+- Nah_2:2Jehová restaurará la gloria de J comoH3290
+- Mal_1:2¿no era Esaú hermano de J?...Y amé a JH3290
+- Mal_2:12cortará de las tiendas de J al hombreH3290
+- Mal_3:6por esto, hijos de J, no habéis sidoH3290
+- Mat_1:2engendró...Isaac a J, y J a Judá y aG2384
+- Mat_8:11se sentarán con...J en el reino de losG2384
+- Mat_22:32; Mar_12:26Dios de Isaac y el...de J?[[G2384]]
+- Luc_1:33reinará sobre la casa de J...siempreG2384
+- Luc_3:34hijo de J, hijo de Isaac...de AbrahamG2384
+- Luc_13:28cuando veáis...a J y a...los profetasG2384
+- Luc_20:37cuando llama al Señor, Dios de...de JG2384
+- Jua_4:5junto a la heredad que J dio a...JoséG2384
+- Jua_4:6estaba allí el pozo de J. Entonces JesúsG2384
+- Jua_4:12¿acaso eres tú mayor que...padre J, queG2384
+- Hec_3:13el Dios de Abraham...y de J, el DiosG2384
+- Hec_7:8e Isaac a J, y J a los doce patriarcasG2384
+- Hec_7:12cuando oyó J que había trigo en EgiptoG2384
+- Hec_7:14hizo venir a su padre J, y a toda suG2384
+- Hec_7:15descendió J a Egipto, donde murió élG2384
+- Hec_7:32yo soy el Dios de tus...y el Dios de JG2384
+- Hec_7:46proveer tabernáculo para el Dios de JG2384
+- Rom_9:13está escrito: A J amé, mas a EsaúG2384
+- Rom_11:26Libertador...apartará de J la impiedadG2384
+- Heb_11:9fe...morando en tiendas con Isaac y JG2384
+- Heb_11:20por la fe bendijo Isaac a J y a EsaúG2384
+- Heb_11:21por la fe J, al morir, bendijo a cadaG2384
+- 2 Padre de José, marido de María, Mat_1:15-16G2384

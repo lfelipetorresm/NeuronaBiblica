@@ -1,0 +1,250 @@
+---
+tipo: concordancia
+palabra: IMPÍO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# IMPÍO, A
+
+- Gén_18:23¿destruirás también al...con el i?[[H7563]]
+- Gén_18:25tal, que hagas morir al justo con el iH7563
+- Gén_18:25y que sea el justo tratado como el iH7563
+- Éxo_9:27Jehová es justo, y yo y mi pueblo iH7563
+- Éxo_23:1no te concertarás con el i...ser testigoH7563
+- Éxo_23:7y no matarás al...yo no justificaré al iH7563
+- Núm_16:26apartaos ahora...de estos hombres iH7563
+- Deu_13:13salido de en medio de ti hombres i
+- 1Sa_1:16no tengas a tu sierva por...mujer iH1100
+- 1Sa_2:9santos, mas los i perecen en tinieblasH7563
+- 1Sa_2:12los hijos de Elí eran hombres i, y noH1100
+- 1Sa_24:13de los i saldrá la impiedad; así queH7563
+- 2Sa_23:6los i serán...como espinos arrancadosH1100
+- 1Re_8:32condenando al i y haciendo recaer suH7563
+- 2Cr_6:23dando la paga al i, haciendo recaerH7563
+- 2Cr_19:2al rey...¿Al i das ayuda, y amas a losH7563
+- 2Cr_24:7la i Atalía y...habían destruido la casaH4849
+- Job_3:17allí los i dejan de perturbar, y allíH7563
+- Job_5:15así libra...al pobre, de la boca de los iH2389
+- Job_8:13a Dios; y la esperanza del i pereceráH2611
+- Job_8:22serán...y la habitación de los i pereceráH7563
+- Job_9:22diga: Al perfecto y al i él los consumeH7563
+- Job_9:24la tierra es entregada en manos de los iH7563
+- Job_9:29yo soy i; ¿para qué trabajaré en vano?[[H7561]]
+- Job_10:3que favorezcas los designios de los i?[[H7563]]
+- Job_10:7aunque tú sabes que no soy i, y que noH7561
+- Job_13:16porque no entrará en su presencia el iH2611
+- Job_15:20todos sus días, el i es atormentado deH7563
+- Job_15:34la congregación de los i será asoladaH2611
+- Job_16:11y en las manos de los i me hizo caerH7563
+- Job_17:8y el inocente se levantará contra el iH2611
+- Job_18:5ciertamente la luz de los i será apagadaH7563
+- Job_18:21tales son las moradas del i, y esteH5767
+- Job_20:5breve, y el gozo del i por un momento?[[H7563]]
+- Job_20:29porción que Dios prepara al hombre iH7563
+- Job_21:7¿por qué viven los i, y se envejecenH7563
+- Job_21:16el consejo de los i lejos esté de míH7563
+- Job_21:17veces la lámpara de los i es apagadaH7563
+- Job_21:28y qué de la tienda...moradas de los i?[[H7563]]
+- Job_24:6siegan...los i vendimian la viña ajenaH7563
+- Job_24:20como un árbol los i serán quebrantadosH5766
+- Job_27:7como el i mi enemigo, y como el inicuoH7563
+- Job_27:8¿cuál es la esperanza del i, por muchoH2611
+- Job_27:13para con Dios la porción del hombre iH7563
+- Job_31:3¿no hay quebrantamiento para el i, yH5767
+- Job_34:18al rey: Perverso; y a los príncipes: I?[[H1100]]
+- Job_34:30haciendo que no reine el hombre i paraH2611
+- Job_36:6no otorgará vida al i, pero a...afligidosH7563
+- Job_36:17tú has llenado el juicio del i, en vezH7563
+- Job_38:13para que sean sacudidos de ella los i?[[H7563]]
+- Job_38:15mas la luz de los i es quitada de ellosH7563
+- Job_40:12mira...y quebranta a los i en su sitioH7563
+- Sal_7:11Dios está airado contra el i todosH7563
+- Sal_7:14he aquí, el i concibió maldad, se preñó
+- Sal_26:5aborrecí la...con los i nunca me sentéH7563
+- Sal_31:17sean avergonzados los i, estén mudosH7563
+- Sal_32:10muchos dolores habrá para el i; mas alH7563
+- Sal_36:1la iniquidad del i me dice al corazónH7563
+- Sal_36:11no venga pie...y mano de i no me muevaH7563
+- Sal_37:12maquina el i contra el justo, y crujeH7563
+- Sal_37:14i desenvainan espada y entesan su arcoH7563
+- Sal_37:17los brazos de los i serán quebrados; masH7563
+- Sal_37:20mas los i perecerán, y los enemigos deH7563
+- Sal_37:21el i toma prestado, y no paga; mas elH7563
+- Sal_37:28la descendencia de los i será destruidaH7563
+- Sal_37:32acecha...i al justo, y procura matarloH7563
+- Sal_37:35vi yo al i sumamente enaltecido, y queH7563
+- Sal_37:38la posteridad de los i será extinguidaH7563
+- Sal_37:40los libertará de los i, y los salvaráH7563
+- Sal_39:1en tanto que el i esté delante de míH7563
+- Sal_43:1líbrame de gente i, y...hombre engañosoH3808, [[H2623]]
+- Sal_55:3voz del enemigo, por la opresión del iH7563
+- Sal_58:3se apartaron los i desde la matriz; seH7563
+- Sal_58:10sus pies lavará en la sangre del iH7563
+- Sal_68:2así perecerán los i delante de DiosH7563
+- Sal_71:4líbrame de la mano del i, de la mano delH7563
+- Sal_73:3tuve envidia...la prosperidad de los iH7563
+- Sal_73:12he aquí estos i, sin ser turbados delH7563
+- Sal_75:4dije a...a los i: No os enorgullezcáisH7563
+- Sal_75:8y lo beberán todos los i de la tierraH7563
+- Sal_82:2y aceptaréis las personas de los i?[[H7563]]
+- Sal_82:4necesitado; libradlo de mano de los iH7563
+- Sal_91:8mirarás y verás la recompensa de los iH7563
+- Sal_92:7cuando brotan los i como la hierba, yH7563
+- Sal_94:3¿hasta cuando los i...se gozarán los i?[[H7563]]
+- Sal_94:13tanto que para el i se cava el hoyoH7563
+- Sal_97:10él guarda...de mano de los i los libraH7563
+- Sal_101:8destruiré a todos los i de la tierraH7563
+- Sal_104:35sean consumidos...los i dejen de serH7563
+- Sal_106:18se encendió...la llama quemó a los iH7563
+- Sal_109:2boca de i y...se han abierto contra míH7563
+- Sal_109:6pon sobre él al i, y Satanás esté a suH7563
+- Sal_112:10verá el i...deseo de los i pereceráH7563
+- Sal_119:61compañías de i me han rodeado, masH7563
+- Sal_119:95i me han aguardado para destruirmeH7563
+- Sal_119:110me pusieron lazo los i, pero yo noH7563
+- Sal_119:119hiciste consumir a todos los i deH7563
+- Sal_119:155lejos está de los i la salvaciónH7563
+- Sal_129:4es justo; cortó las coyundas de los iH7563
+- Sal_139:19de cierto, oh Dios, harás morir al iH7563
+- Sal_140:4guárdame, oh Jehová, de manos del iH7563
+- Sal_140:8no concedas...Jehová, al i sus deseosH7563
+- Sal_141:4obras i con los que hacen iniquidadH7562
+- Sal_141:10caigan los i a una en...redes, mientrasH7563
+- Sal_145:20guarda a...mas destruirá a todos los iH7563
+- Sal_146:9Jehová...el camino de los i trastornaH7563
+- Sal_147:6exalta...humilla a los i hasta la tierraH7563
+- Pro_2:22los i serán cortados de la tierra, yH7563
+- Pro_3:25ni de la ruina de los i cuando viniereH7563
+- Pro_3:33maldición de Jehová...en la casa del iH7563
+- Pro_4:14no entres por la vereda de los i, niH7563
+- Pro_4:19el camino de los i es como la oscuridadH7563
+- Pro_5:22prenderán al i sus propias iniquidadesH7563
+- Pro_9:7el que reprende al i, se atrae manchaH7563
+- Pro_10:3justo; mas la iniquidad lanzará a los iH7563
+- Pro_10:6, Pro_10:11violencia cubrirá la boca de los iH7563
+- Pro_10:7el justo...el nombre de los i se pudriráH7563
+- Pro_10:16vida; mas el fruto del i es para pecadoH7563
+- Pro_10:20mas el corazón de los i es como nadaH7563
+- Pro_10:24lo que el i teme, eso le vendrá; peroH7563
+- Pro_10:27mas los años de los i serán acortadosH7563
+- Pro_10:28justos...la esperanza de los i pereceráH7563
+- Pro_10:30el justo...los i no habitarán la tierraH7563
+- Pro_10:32la boca de los i habla perversidadesH7563
+- Pro_11:5camino; mas el i por su impiedad caeráH7563
+- Pro_11:7muere el hombre i, perece su esperanzaH7563
+- Pro_11:8el justo...mas el i entra en lugar suyoH7563
+- Pro_11:10mas cuando los i perecen hay fiestaH7563
+- Pro_11:11por la boca de los i será trastornadaH7563
+- Pro_11:18i hace obra falsa; mas el que siembraH7563
+- Pro_11:23mas la esperanza de los i es el enojoH7563
+- Pro_11:31justo...¡cuánto más el i y el pecador![[H7563]]
+- Pro_12:5son rectitud...consejos de los i, engañoH7563
+- Pro_12:6palabras de los i son asechanzas paraH7563
+- Pro_12:7Dios trastornará a los i, y no serán másH7563
+- Pro_12:10justo...mas el corazón de los i es cruelH7563
+- Pro_12:12codicia el i la red de los malvadosH7563
+- Pro_12:13el i es enredado en la prevaricación deH7451
+- Pro_12:21al justo...los i serán colmados de malesH7563
+- Pro_12:26mas el camino de los i les hace errarH7563
+- Pro_13:5justo...mas el i se hace odioso e infameH7563
+- Pro_13:9luz...mas se apagará la lámpara de los iH7563
+- Pro_13:25el vientre de los i tendrá necesidadH7563
+- Pro_14:11la casa de los i será asolada; peroH7563
+- Pro_14:19inclinarán...i a las puertas del justoH7563
+- Pro_14:32por su maldad será lanzado el i; masH7563
+- Pro_15:6pero turbación en las ganancias del iH7563
+- Pro_15:8el sacrificio de los i es abominaciónH7563
+- Pro_15:9abominación es a Jehová el camino del iH7563
+- Pro_15:28la boca de los i derrama malas cosasH7451
+- Pro_15:29Jehová está lejos de los i; pero él oyeH7563
+- Pro_16:4ha hecho...y aun al i para el día maloH7563
+- Pro_17:15que justifica al i, y el que condena alH7563
+- Pro_17:23el i toma soborno...para pervertir lasH7563
+- Pro_18:3cuando viene el i, viene también elH7563
+- Pro_18:5tener respeto a...i, para pervertir elH7563
+- Pro_19:28la boca de los i encubrirá la iniquidadH7563
+- Pro_20:26el rey sabio avienta a los i, y sobreH7563
+- Pro_21:4orgullo...pensamientos de i, son pecadoH7563
+- Pro_21:7la rapiña de los i los destruirá, porH7563
+- Pro_21:10el alma del i desea el mal; su prójimoH7563
+- Pro_21:12considera el justo la casa del i, cómoH7563
+- Pro_21:12cómo los i son trastornados por el malH7563
+- Pro_21:18rescate del justo es el i, y por losH7563
+- Pro_21:27el sacrificio de los i es abominaciónH7563
+- Pro_21:29el hombre i endurece su rostro; mas elH7563
+- Pro_24:15oh i, no aceches la tienda del justoH7563
+- Pro_24:16el justo...mas los i caerán en el malH7563
+- Pro_24:19malignos, ni tengas envidia de los iH7563
+- Pro_24:20fin, y la lámpara de los i será apagadaH7563
+- Pro_25:5aparta al i de la presencia del rey, yH7563
+- Pro_25:26como...es el justo que cae delante del iH7563
+- Pro_28:1huye el i sin que nadie lo persiga; masH7563
+- Pro_28:4los que dejan la ley alaban a los i; masH7563
+- Pro_28:12cuando se levantan los i, tienen queH7563
+- Pro_28:15león...es el príncipe i sobre el puebloH7563
+- Pro_28:28i son levantados se esconde el hombreH7563
+- Pro_29:2mas cuando domina el i, el pueblo gimeH7563
+- Pro_29:7conoce...mas el i no entiende sabiduríaH7563
+- Pro_29:12atiende...todos sus servidores serán iH7563
+- Pro_29:16cuando los i son muchos, mucha es laH7563
+- Pro_29:27y abominación es al i...caminos rectosH7563
+- Ecl_3:17dije...Al justo y al i juzgará DiosH7563
+- Ecl_7:15hay i que por su maldad alarga sus díasH7563
+- Ecl_8:13y que no le irá bien al i, ni le seránH7563
+- Ecl_8:14como si hicieran obras de i, y hay i aH7563
+- Ecl_9:2un mismo suceso ocurre al justo y al iH7563
+- Isa_3:11¡ay del i! Mal le irá, porque segúnH7563
+- Isa_5:23los que justifican al i mediante cohechoH7563
+- Isa_11:4el espíritu de sus labios matará al iH7563
+- Isa_13:11castigaré...y a los i por su iniquidadH7563
+- Isa_14:5quebrantó Jehová el báculo de los i, elH7563
+- Isa_53:9se dispuso con los i su sepultura, masH7563
+- Isa_55:7deje el i su camino, y el hombre inicuoH7563
+- Isa_57:20los i son como el mar en tempestad, queH7563
+- Isa_57:21no hay paz, dijo mi Dios, para los iH7563
+- Jer_5:26porque fueron hallados en mi pueblo iH7563
+- Jer_12:1por qué es prosperado el camino de los iH7563
+- Jer_23:11el profeta como el sacerdote son i; aunH2610
+- Jer_25:31entregará los i a espada, dice JehováH7563
+- Jer_30:23la tempestad...sobre la cabeza de los iH7563
+- Eze_3:18dijere al i: De cierto morirás; y túH7563
+- Eze_3:18para que el i sea apercibido de su malH7563
+- Eze_3:18i morirá por su maldad, pero su sangreH7563
+- Eze_3:19pero si tú amonestares al i, y él no seH7563
+- Eze_7:21será presa de los i de la tierra, y laH7563
+- Eze_13:22fortalecisteis las manos del i, paraH7563
+- Eze_18:20él, y la impiedad del i será sobre élH7563
+- Eze_18:21el i, si se apartare de...sus pecadosH7563
+- Eze_18:23¿quiero yo la muerte del i? dice JehováH7563
+- Eze_18:24abominaciones que el i hizo, ¿viviráH7563
+- Eze_18:27y apartándose el i de su impiedad queH7563
+- Eze_21:3espada...cortaré de ti al justo y al iH7563
+- Eze_21:4he de cortar de ti al justo y al i, porH7563
+- Eze_21:25y tú...i príncipe de Israel, cuyo díaH7563
+- Eze_33:8dijere al i: i, de cierto morirásH7563
+- Eze_33:8guarde el i de su camino, el i moriráH7563
+- Eze_33:9si tú avisares al i de su camino paraH7563
+- Eze_33:11no quiero la muerte del i, sino que seH7563
+- Eze_33:11vuelva el i de su camino, y que vivaH7563
+- Eze_33:12la impiedad del i no le será estorboH7563
+- Eze_33:14yo dijere al i; De cierto morirás; siH7563
+- Eze_33:15si el i restituyere la prenda...viviráH7563
+- Eze_33:19cuando el i se apartare de su impiedadH7563
+- Dan_12:10i procederán impíamente, y ningunoH7563
+- Dan_12:10ninguno de los i entenderá, pero losH7563
+- Miq_6:10¿hay aún en casa del i tesoros deH7563
+- Hab_1:4por cuanto el i asedia al justo, porH7563
+- Hab_1:13y callas cuando destruye el i al másH7563
+- Hab_3:13traspasaste la cabeza de la casa del iH7563
+- Sof_1:3destruiré...cortaré a los i; y raeréH7563
+- Rom_4:5sino cree en aquel que justifica al iG765
+- Rom_5:6porque Cristo...su tiempo murió por los iG765
+- 1Ti_1:9para los i y pecadores...y profanosG765
+- 2Ti_3:2porque habrá hombres...ingratos, iG763
+- 1Pe_4:18en dónde aparecerá el i y el pecador?[[G765]]
+- 2Pe_2:5trayendo el diluvio sobre...de los iG765
+- 2Pe_3:7en el día del juicio...de los hombres iG765
+- Jud_1:4i, que convierten en libertinaje laG765
+- Jud_1:15dejar convictos a...los i de...sus obras iG765
+- Jud_1:15las cosas duras que los...i han habladoG765

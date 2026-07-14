@@ -1,0 +1,158 @@
+---
+tipo: concordancia
+palabra: AVERGONZAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AVERGONZAR
+
+- Gén_2:25ambos desnudos...y no se avergonzabanH954
+- Núm_12:14¿no se avergonzaría por siete días?[[H3637]]
+- Rut_2:15recoja también...y no la avergoncéisH3637
+- 2Sa_10:5ellos estaban en extremo avergonzadosH3637
+- 2Sa_19:3como suele entrar...el pueblo avergonzadoH3637
+- 2Sa_19:5hoy has avergonzado el rostro de todosH3001
+- 2Re_2:17hasta que avergonzándose dijo: EnviadH954
+- 2Cr_32:21se volvió...avergonzado a su tierraH1322
+- Esd_9:6Dios mío, confuso y avergonzado estoyH954
+- Job_6:20fueron avergonzados por su esperanzaH954
+- Job_11:3¿harás...no habrá quien le avergüence?[[H3637]]
+- Job_19:3ya...¿no os avergonzáis de injuriarme?[[H954]]
+- Sal_6:10se avergonzarán...todos mis enemigosH954
+- Sal_6:10todos...serán avergonzados de repenteH954
+- Sal_22:5confiaron en...y no fueron avergonzadosH954
+- Sal_25:2no sea yo avergonzado, no se alegrenH954
+- Sal_25:3serán avergonzados los que se rebelanH954
+- Sal_25:20sea yo avergonzado, porque en ti confiéH954
+- Sal_31:17no sea yo avergonzado, oh Jehová, yaH954
+- Sal_31:17sean avergonzados los impíos, esténH954
+- Sal_34:5y sus rostros no fueron avergonzadosH954
+- Sal_35:4sean avergonzados...los que buscan miH954
+- Sal_35:4y avergonzados los que mi mal intentanH954
+- Sal_35:26sean avergonzados...a una los que de miH954
+- Sal_37:19no serán avergonzados en el mal tiempoH954
+- Sal_40:14sean avergonzados y confundidos a unaH954
+- Sal_40:14avergüéncense los que mi mal deseanH3637
+- Sal_44:7avergonzado a los que nos aborrecíanH954
+- Sal_44:9nos has hecho avergonzar; y no salesH3637
+- Sal_53:5avergonzaste, porque Dios los desechóH954
+- Sal_69:6no sean avergonzados por causa mía losH954
+- Sal_70:2avergonzados...los que buscan mi vidaH954
+- Sal_70:2sean vueltos atrás y avergonzados losH3637
+- Sal_71:1me he refugiado; no sea yo avergonzadoH954
+- Sal_71:13sean avergonzados...los adversarios deH954
+- Sal_71:24han sido avergonzados...sido confundidoH2659
+- Sal_74:21no vuelva avergonzado el abatidoH2659
+- Sal_86:17véanla los que...y sean avergonzadosH2659
+- Sal_97:7avergüéncense todos los que sirven aH2659
+- Sal_109:28levántense, mas sean avergonzados, yH2659
+- Sal_119:6entonces no sería yo avergonzadoH2659
+- Sal_119:31me he apegado a...no me avergüencesH2659
+- Sal_119:46hablaré de tus...y no me avergonzaréH2659
+- Sal_119:78avergonzados los soberbios, porqueH2659
+- Sal_119:80sea...para que no sea yo avergonzadoH2659
+- Sal_119:116quede yo avergonzado de mi esperanzaH2659
+- Sal_127:5no será avergonzado cuando hablare conH2659
+- Sal_129:5avergonzados...los que aborrecen a SionH2659
+- Pro_10:5el que duerme...es hijo que avergüenzaH2659
+- Pro_14:35su enojo contra el que lo avergüenzaH2659
+- Pro_25:8que tu prójimo le haya avergonzadoH3637
+- Pro_28:7compañero de glotones avergüenza a suH3637
+- Pro_29:15el muchacho consentido avergonzará aH954
+- Isa_1:29avergonzarán las encinas que amasteisH954
+- Isa_20:5se turbarán y avergonzarán de EtiopíaH954
+- Isa_23:4avergüénzate, Sidón, porque el mar, laH954
+- Isa_24:23la luna se avergonzará, y el sol seH954
+- Isa_26:11se avergonzarán los que envidian a tuH954
+- Isa_29:22no será ahora avergonzado Jacob, ni suH954
+- Isa_30:5todos se avergonzarán del pueblo que noH3001
+- Isa_33:9el Líbano se avergonzó, y fue cortadoH2659
+- Isa_41:11contra ti...avergonzados y confundidosH954
+- Isa_44:11que todos los suyos serán avergonzadosH954
+- Isa_44:11todos ellos...serán avergonzados a unaH954
+- Isa_45:16confusos y avergonzados serán todosH954
+- Isa_45:17no os avergonzaréis ni os afrentaréisH954
+- Isa_45:24los que...enardecen serán avergonzadosH954
+- Isa_49:23no se avergonzarán los que esperan enH954
+- Isa_50:7me ayudará, por tanto no me avergoncéH3637
+- Isa_50:7pedernal, y sé que no seré avergonzadoH954
+- Isa_54:4y no te avergüences, porque no serásH954
+- Isa_65:13he aquí...vosotros seréis avergonzadosH954
+- Jer_2:26como se avergüenza el ladrón cuandoH1322
+- Jer_2:26así se avergonzará la casa de IsraelH3001
+- Jer_2:36serás avergonzada de Egipto...a de AsiriaH954
+- Jer_6:15; Jer_8:12¿se han avergonzado...no se han aH954
+- Jer_8:9sabios se avergonzaron, se espantaron yH3001
+- Jer_8:12ni supieron avergonzarse, caerán, porH954
+- Jer_9:19en gran manera hemos sido avergonzadosH954
+- Jer_10:14avergüenza de su ídolo todo fundidorH3001
+- Jer_12:13avergonzaron de sus frutos, a causa deH954
+- Jer_14:3se avergonzaros...cubrieron sus cabezasH954
+- Jer_15:9fue avergonzada y llena de confusiónH954
+- Jer_17:13los que te dejan serán avergonzadosH954
+- Jer_17:18avergüéncense...y no me avergüence yoH954
+- Jer_20:11mas serán avergonzados en gran maneraH954
+- Jer_22:22avergonzarás y te confundirás a causaH954
+- Jer_31:19me avergoncé y me confundí, porqueH954
+- Jer_46:24se avergonzará la hija de EgiptoH3001
+- Jer_48:1¡ay de Nebo!...destruida y avergonzadaH3001
+- Jer_48:13se avergonzará Moab...se avergonzó deH954
+- Jer_48:20se avergonzó Moab...fue quebrantadoH3001
+- Jer_48:39volvió la espalda...y fue avergonzado![[H954]]
+- Jer_50:12vuestra madre se avergonzó mucho, seH954
+- Jer_51:17se avergüenza...artífice de su esculturaH3001
+- Jer_51:47será avergonzada, y todos sus muertosH954
+- Jer_51:51estamos avergonzados, porque oímos laH954
+- Eze_6:9avergonzarán de sí mismos, a causa deH6962
+- Eze_16:27se avergüenzan de tu camino deshonestoH3637
+- Eze_16:52avergüénzate...y lleva tu confusiónH954
+- Eze_16:54avergüences de todo lo que has hechoH3637
+- Eze_16:61te acordarás de tus...y te avergonzarásH3637
+- Eze_16:63para que te acuerdes y te avergüencesH954
+- Eze_32:30príncipes...avergonzados de su poderíoH954
+- Eze_34:29ni ya más serán avergonzados por lasH3639
+- Eze_36:31os avergonzaréis de vosotros mismosH6962
+- Eze_36:32avergonzaos y cubríos de confusión porH954
+- Eze_43:10avergüéncense de sus pecados; y midanH3637
+- Eze_43:11si se avergonzaren de todo lo que hanH3637
+- Ose_4:18príncipes amaron lo que avergüenzaH7036
+- Ose_4:19de sus sacrificios serán avergonzadosH954
+- Ose_10:6avergonzado, e Israel se avergonzará deH954
+- Joe_2:26-27jamás será mi pueblo avergonzadoH954
+- Miq_3:7serán avergonzados los profetas, y seH954
+- Miq_7:16se avergonzarán de todo su poderíoH954
+- Sof_3:11no serás avergonzada por...tus obrasH954
+- Zac_10:5los que cabalgan...serán avergonzadosH3001
+- Zac_13:4profetas se avergonzarán de su visiónH954
+- Mar_8:38el que se avergonzare de mí y de misG1870
+- Mar_8:38el Hijo del Hombre se avergonzará...de élG1870
+- Luc_9:26el que se avergonzare de mí y de misG1870
+- Luc_9:26éste se avergonzará el Hijo del HombreG1870
+- Luc_13:17se avergonzaban todos sus adversariosG2617
+- Rom_1:16porque no me avergüenzo del evangelioG1870
+- Rom_5:5y la esperanza no avergüenza; porque elG2617
+- Rom_6:21cosas de las cuales...os avergonzáis?[[G1870]]
+- Rom_9:33el que creyere en él, no será avergonzadoG2617
+- Rom_10:11que en él creyere, no será avergonzadoG2617
+- 1Co_1:27Dios, para avergonzar a los sabiosG2617
+- 1Co_1:27lo débil...para avergonzar a lo fuerteG2617
+- 1Co_4:14no escribo esto para avergonzaros, sinoG1788
+- 1Co_6:5para avergonzaros lo digo. ¿Pues qué, noG1791
+- 1Co_11:22avergonzáis a los que no tienen nada?[[G2617]]
+- 2Co_7:14no he sido avergonzado, sino que asíG2617
+- 2Co_9:4nos avergoncemos nosotros, por no decirG2617
+- 2Co_10:8aunque me gloríe...no me avergonzaréG153
+- Flp_1:20que en nada seré avergonzado; antesG153
+- 2Ts_3:14señaladlo...para que se avergüenceG1788
+- 2Ti_1:8no te avergüences de dar testimonioG1870
+- 2Ti_1:12padezco esto; pero no me avergüenzoG1870
+- 2Ti_1:16y no se avergonzó de mis cadenasG1870
+- 2Ti_2:15obrero que no tiene de qué avergonzarseG422
+- Tit_2:8modo que el adversario se avergüenceG1788
+- Heb_2:11no se avergüenza de llamarlos hermanosG1870
+- Heb_11:16no se avergüenza de llamarse Dios deG1870
+- 1Pe_2:6el que creyere...no será avergonzadoG2617
+- 1Pe_3:16en lo que murmuran...sean avergonzadosG2617
+- 1Pe_4:16padece como cristiano, no se avergüenceG153
+- 1Jn_2:28no nos alejemos de él avergonzadosG153

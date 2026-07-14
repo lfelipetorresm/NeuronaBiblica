@@ -1,0 +1,94 @@
+---
+tipo: concordancia
+palabra: UNGIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# UNGIR
+
+- Gén_31:13Bet-el, donde tú ungiste la piedraH4886
+- Éxo_28:41a Aarón...ungirás, y los consagrarásH4886
+- Éxo_29:7el aceite...lo derramarás...y le ungirásH4886
+- Éxo_29:29ser ungidos en ellas, y...consagradosH4888
+- Éxo_29:36el altar...lo ungirás para santificarloH4886
+- Éxo_30:26ungirás el tabernáculo de reunión, elH4886
+- Éxo_30:30ungirás también a Aarón y a sus hijosH4886
+- Éxo_40:9el aceite de...y ungirás el tabernáculoH4886
+- Éxo_40:10ungirás también altar del holocausto yH4886
+- Éxo_40:11asimismo ungirás la fuente y su baseH4886
+- Éxo_40:13a Aarón...lo ungirás, y lo consagrarásH4886
+- Éxo_40:15y los ungirás, como ungiste a su padreH4886
+- Lev_6:20ofrecerán...el día que fueren ungidosH4886
+- Lev_6:22en lugar de Aarón fuere ungido de entreH4899
+- Lev_7:36desde el día que él los ungió de entreH4886
+- Lev_8:10Moisés...ungió el tabernáculo y todas lasH4886
+- Lev_8:11y ungió el altar y todos sus utensiliosH4886
+- Lev_8:12de Aarón, y lo ungió para santificarloH4886
+- Lev_16:32hará la, el sacerdote que fuere ungidoH4886
+- Núm_7:1Moisés...y lo hubo ungido y santificadoH4886
+- Núm_7:1y asimismo ungido y santificado el altarH4886
+- Núm_7:10, Núm_7:84del altar el día en que fue ungidoH4886
+- Núm_7:88dedicación del...después que fue ungidoH4886
+- Núm_35:25el cual fue ungido con el aceite santoH4886
+- Deu_28:40olivos...no te ungirás con el aceiteH5480
+- Rut_3:3te lavarás...te ungirás...irás a la eraH5480
+- 1Sa_9:16al cual ungirás por príncipe sobreH4886
+- 1Sa_10:1te ha ungido Jehová por príncipe sobreH4886
+- 1Sa_15:1Jehová me envió a que te ungiese...reyH4886
+- 1Sa_15:17¿no...te ha ungido por rey sobre Israel?[[H4886]]
+- 1Sa_16:3llama...y me ungirás al que yo te dijereH4886
+- 1Sa_16:12dijo: Levántate y úngelo, porque ésteH4886
+- 1Sa_16:13tomó el cuerno del aceite, y lo ungióH4886
+- 2Sa_1:21Saúl, como si no hubiera sido ungidoH4899
+- 2Sa_2:4vinieron los varones de Judá y ungieronH4886
+- 2Sa_2:7de Judá me han ungido por rey sobre ellosH4886
+- 2Sa_3:39y yo soy débil hoy, aunque ungido reyH4886
+- 2Sa_5:3y ungieron a David por rey sobre IsraelH4886
+- 2Sa_5:17oyendo...David había sido ungido por reyH4886
+- 2Sa_12:7te ungí por rey sobre Israel, y te libréH4886
+- 2Sa_12:20David se...se ungió, y cambió sus ropasH5480
+- 2Sa_14:2y no te unjas con óleo, sino preséntateH5480
+- 2Sa_19:10Absalón, a quien habíamos ungido sobreH4886
+- 1Re_1:34allí lo ungirán el sacerdote Sadoc yH4886
+- 1Re_1:39el cuerno del aceite...ungir; a SalomónH4886
+- 1Re_1:45Sadoc y...lo han ungido por rey en GibónH4886
+- 1Re_5:1que lo habían ungido por rey en lugar deH4886
+- 1Re_19:15y ungirás a Hazael por rey de SiriaH4886
+- 1Re_19:16a Jehú hijo de Nimsi ungirás por reyH4886
+- 1Re_19:16a Eliseo...ungirás para que sea profetaH4886
+- 2Re_9:3, 2Re_9:6, 2Re_9:12te he ungido por rey sobreH4886
+- 2Re_11:12le hicieron rey ungiéndole; y batiendoH4886
+- 2Re_23:30el pueblo...tomó a Joacaz...y lo ungieronH4886
+- 1Cr_11:3ungieron a David...rey sobre IsraelH4886
+- 1Cr_14:8oyendo...que David había sido ungido reyH4886
+- 1Cr_29:22y ante Jehová le ungieron por príncipeH4886
+- 2Cr_22:7había ungido para que exterminara laH4886
+- 2Cr_23:11lo ungieron, diciendo...¡Viva el rey![[H4886]]
+- 2Cr_28:15ungieron, y condujeron en asnos todosH4886
+- Sal_23:5unges mi cabeza con aceite; mi copaH1878
+- Sal_45:7por tanto, te ungió Dios, el Dios tuyoH4886
+- Sal_89:20a David...lo ungí con mi santa unciónH4886
+- Sal_92:10búfalo; seré ungido con aceite frescoH1101
+- Isa_21:5¡levantaos, oh príncipes, ungid elH4886
+- Isa_61:1porque me ungió Jehová; me ha enviadoH4886
+- Eze_16:9lavé tus sangres...te ungí con aceiteH5480
+- Dan_9:24para...y ungir al Santo de los santosH4886
+- Dan_10:3ni me ungí con ungüento, hasta que seH5480
+- Amó_6:6ungen con los ungüentos más preciososH4886
+- Miq_6:15pisarás aceitunas, mas no te ungirásH5480
+- Mat_6:17tú, cuando ayunes, unge tu cabeza yG218
+- Mar_6:13y ungían con aceite a muchos enfermosG218
+- Mar_14:8se ha anticipado a ungir mi cuerpo paraG3462
+- Mar_16:1especias aromáticas para ir a ungirleG218
+- Luc_4:18me ha ungido para dar buenas nuevas aG5548
+- Luc_7:38y besaba sus pies, y los ungía...perfumeG218
+- Luc_7:46no ungiste mi cabeza con...ésta ha ungidoG218
+- Jua_11:2María...fue la que ungió al Señor conG218
+- Jua_12:3y ungió los pies de Jesús, y los enjugóG218
+- Hec_4:27tu santo Hijo Jesús, a quien ungisteG5548
+- Hec_10:38Dios ungió con el Espíritu Santo y conG5548
+- 2Co_1:21nos confirma...que nos ungió, es DiosG5548
+- Heb_1:9te ungió Dios, el Dios tuyo, con óleoG5548
+- Stg_5:14ungiéndole con aceite en el nombreG218
+- Rev_3:18y unge tus ojos con colirio...que veasG1472

@@ -1,0 +1,124 @@
+---
+tipo: concordancia
+palabra: CASTIGAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CASTIGAR
+
+- Gén_4:15matare a Caín, 7 veces será castigadoH5358
+- Éxo_8:2castigaré con ranas...tus territoriosH5062
+- Éxo_21:20muriere bajo su mano, será castigadoH5358
+- Éxo_21:21sobreviviere un día...no será castigadoH5358
+- Éxo_32:34pero...yo castigaré en ellos su pecadoH6485
+- Lev_26:18yo volveré a castigaros siete vecesH3256
+- Lev_26:28castigaré aún siete veces por vuestrosH3256
+- Deu_8:5que como castiga el hombre...Dios te cH3256
+- Deu_21:18habiéndole castigado, no...obedeciereH3256
+- Deu_22:18tomarán al hombre y lo castigaránH3256
+- Jue_8:16y castigó con ellos a los de SucotH3045
+- 1Sa_15:2yo castigaré lo que hizo Amale c aH6485
+- 2Sa_7:14yo le castigaré con vara de hombresH3198
+- 1Re_12:11, 1Re_12:14padre os castigó...os castigaréH3256
+- 1Cr_16:21amor de ellos castigó a los reyesH3198
+- 2Cr_10:11, 2Cr_10:14mi padre os castigó con azotesH3256
+- Esd_9:13no nos has castigado de acuerdo conH2820
+- Job_5:17bienaventurado...a quien Dios castigaH3198
+- Job_11:6que Dios te ha castigado menos de lo queH5382
+- Job_22:4te castiga, o viene a juicio contigoH3198
+- Job_31:11maldad...que han de castigar los juecesH5771
+- Job_33:19sobre su cama es castigado con dolorH3198
+- Job_35:15ahora, porque en su ira no castiga, niH6485
+- Job_36:31por esos medios castiga a los pueblosH1777
+- Sal_5:10castígalos, oh Dios; caigan por susH816
+- Sal_6:1; Sal_38:1no me reprendas...ni me castiguesH3256
+- Sal_59:5para castigar a todas las nacionesH6485
+- Sal_73:14sido...castigado todas las mañanasH8433
+- Sal_89:32castigaré con vara su rebelión, y conH6485
+- Sal_94:10el que castiga a las naciones, ¿noH3256
+- Sal_105:14por causa de ellos castigó a los reyesH3198
+- Sal_118:18me castigó gravemente JAH, mas no meH3256
+- Sal_141:5que el justo me castigue, será un favorH1986
+- Pro_3:12al que ama castiga, como el padre alH3198
+- Pro_7:22el necio a...prisiones para ser castigadoH4148
+- Pro_10:10y el necio de labios será castigadoH3832
+- Pro_11:21tarde o temprano, el malo...castigadoH5352
+- Pro_19:18castiga a tu hijo en tanto...esperanzaH3256
+- Pro_21:11cuando el escarnecedor es castigadoH6064
+- Pro_23:13si lo castigas con vara, no moriráH5221
+- Pro_23:14lo castigarás con vara, y librarás suH5221
+- Isa_1:5¿por qué queréis ser castigados aún?[[H5221]]
+- Isa_2:19, Isa_2:21él se levante para castigar la tierraH6206
+- Isa_9:13no se convirtió al que lo castigaba, niH5221
+- Isa_10:12castigará el fruto de la soberbia delH6485
+- Isa_13:11castigaré al mundo por su maldad, y aH6485
+- Isa_24:21Jehová castigará al ejército de losH6485
+- Isa_24:22y serán castigados después de muchosH6485
+- Isa_26:14castigaste, y destruiste...su recuerdoH6485
+- Isa_26:16derramaron oración cuando...castigasteH6485
+- Isa_26:21Jehová sale de su lugar para castigarH6485
+- Isa_27:1en aquel día Jehová castigará con suH6485
+- Isa_27:8con medida lo castigarás en sus vástagosH7378
+- Isa_57:6¿no habré de castigar estas cosas?[[H5162]]
+- Isa_60:10porque en mi ira te castigué, mas enH5221
+- Jer_2:19tu maldad te castigará...rebeldíasH3256
+- Jer_5:9¿no había de castigar esto? dijo JehováH6485
+- Jer_5:29¿no castigaré esto? dice Jehová; ¿y deH6485
+- Jer_6:6es la ciudad que ha de ser castigadaH6485
+- Jer_6:15; Jer_8:12cuando los castigue caerán, diceH6485
+- Jer_9:9¿no los he de castigar por estas cosas?[[H6485]]
+- Jer_9:25que castigaré a todo circuncidado, y aH6485
+- Jer_10:24castígame, oh Jehová, mas con juicioH3256
+- Jer_11:22yo los castigaré; los jóvenes moriránH6485
+- Jer_14:10se acordará de...castigará sus pecadosH6485
+- Jer_21:14yo os castigaré conforme al fruto deH6485
+- Jer_23:2yo castigo la maldad de vuestras obrasH6485
+- Jer_25:12castigaré al rey de Babilonia...naciónH6485
+- Jer_27:8castigaré a tal nación con espada y conH6485
+- Jer_29:32castigaré a Semaías de Nehelam y a suH6485
+- Jer_30:11sino que te castigaré con justiciaH3256
+- Jer_30:20y castigaré a todos sus opresoresH6485
+- Jer_31:18y fui castigado como novillo indómitoH3256
+- Jer_32:18y castigas la maldad de los padres enH7999
+- Jer_36:31y castigaré su maldad en él, y en suH6485
+- Jer_44:13castigaré...como castigué a JerusalénH6485
+- Jer_44:29señal...de que en este lugar os castigoH6485
+- Jer_46:25Jehová...ha dicho...castigo a Amón diosH6485
+- Jer_46:28sino que te castigaré con justicia; deH3256
+- Jer_49:8sobre él el tiempo en que lo castigueH6485
+- Jer_50:18yo castigo al...como castigué al rey deH6485
+- Jer_50:31venido, el tiempo en que te castigaréH6485
+- Lam_4:22castigará tu iniquidad, oh hija deH6485
+- Eze_7:9sabréis...yo Jehová soy el que castigaH5221
+- Ose_1:4castigaré a la casa de Jehú por causaH6485
+- Ose_2:13castigaré por los días en que incensabaH6485
+- Ose_4:9le castigaré por su conducta, y le pagaréH6485
+- Ose_4:14no castigaré a...hijas cuando forniquenH6485
+- Ose_5:2por tanto, yo castigaré a todos ellosH4148
+- Ose_7:12les castigaré conforme a lo...anunciadoH3256
+- Ose_8:13; Ose_9:9se acordará...castigará su pecadoH6485
+- Ose_10:10y los castigaré cuando lo deseeH3256
+- Ose_12:2pleito tiene Jehová...castigar a JacobH6485
+- Amó_3:2castigaré por todas vuestras maldadesH6485
+- Amó_3:14que castigue las rebeliones de IsraelH6485
+- Amó_3:14castigaré también los altares de Bet-elH6485
+- Hab_1:12oh Roca, lo fundaste para castigarH3198
+- Sof_1:8castigaré a los príncipes, y a...hijosH6485
+- Sof_1:9castigaré...todos los que saltan la puertaH6485
+- Sof_1:12y castigaré a los hombres que reposanH6485
+- Sof_3:7todo aquello por lo cual la castiguéH6485
+- Zac_10:3mi enojo, y castigaré a los jefesH6485
+- Mat_24:51y lo castigará duramente, y pondráG1371
+- Luc_12:46vendrá el...y le castigará duramenteG1371
+- Luc_23:16le soltaré, pues, después de castigarleG3811
+- Luc_23:22él; le castigaré, pues, y le soltaréG3811
+- Hec_4:21hallando ningún modo de castigarlesG2849
+- Hec_22:5traer presos...para que fuesen castigadosG5097
+- Hec_26:11castigándolos en todas las sinagogasG5097
+- Rom_13:4vengador para castigar al que hace loG3709
+- 1Co_11:32siendo juzgados, somos castigadosG3811
+- 2Co_6:9como castigados, mas no muertosG3811
+- 2Co_10:6prontos para castigar toda desobedienciaG1556
+- 2Pe_2:9a los injustos para ser castigadosG2849
+- Rev_3:19yo reprendo y castigo a todos los queG3811

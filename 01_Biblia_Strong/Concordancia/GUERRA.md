@@ -1,0 +1,273 @@
+---
+tipo: concordancia
+palabra: GUERRA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GUERRA
+
+- Gén_14:2éstos hicieron g contra Bera reyH4421
+- Gén_31:26a mis hijas como prisioneras de g?[[H2719]]
+- Éxo_1:10que viniendo g, él también se una aH4421
+- Éxo_13:17se arrepienta...cuando vea la g, y seH4421
+- Éxo_15:3Jehová es varón de g; Jehová es suH4421
+- Éxo_17:16tendrá g con Amalec de generación enH4421
+- Núm_1:3, Núm_1:20, Núm_1:22, Núm_1:24, Núm_1:26, Núm_1:28, Núm_1:30, Núm_1:32, Núm_1:34, Núm_1:36, Núm_1:38, Núm_1:40, Núm_1:42, Núm_1:45todos los que podían salir a la gH6635
+- Núm_10:9saliereis a la g en vuestra tierraH4421
+- Núm_21:26tenido g antes con el rey de Moab, yH3898
+- Núm_26:2censo de...los que pueden salir a la gH6635
+- Núm_31:3armaos algunos de...para la g y vayanH6635
+- Núm_31:4mil de cada tribu de...enviaréis a la gH6635
+- Núm_31:5fueron dados...doce mil en pie de gH6635
+- Núm_31:6Moisés los envió a la g; mil de cadaH6635
+- Núm_31:6Finees hijo...fue a la g con los vasosH6635
+- Núm_31:14contra los jefes...que volvían de la gH4421
+- Núm_31:21a los hombres de g que venían de la gH6635
+- Núm_31:27botín que tomaron los hombres de gH4421
+- Núm_31:28los hombres de g que salieron a la gH4421
+- Núm_31:32botín que tomaron los hombres de gH6635
+- Núm_31:36parte de los que habían salido a la gH6635
+- Núm_31:42apartó...de los...que habían ido a la gH6633
+- Núm_31:49tomado razón de los hombres de g queH4421
+- Núm_32:6¿irán vuestros hermanos a la gH4421
+- Núm_32:20disponéis para ir delante de Jehová a la gH4421
+- Núm_32:27armados todos para la g, pasarán...a la gH6635
+- Núm_32:29Rubén pasan...armados todos para la gH4421
+- Deu_1:41os armasteís cada uno...armas de gH4421
+- Deu_2:9ni te empeñes con ellos en g, porque noH4421
+- Deu_2:14acabó...generación de los hombres de gH4421
+- Deu_2:16después que murieron...los hombres de gH4421
+- Deu_2:24comienza a tomar posesión...entra en gH4421
+- Deu_4:34g, y mano poderosa y brazo extendidoH4421
+- Deu_20:1cuando salgas a la g contra tus enemigosH4421
+- Deu_20:12no hiciere...y emprendiere g contigoH4421
+- Deu_20:20contra la ciudad que te hace la gH4421
+- Deu_21:10salieres a la g contra tus enemigosH4421
+- Deu_24:5fuere recién casado, no saldrá a la gH6635
+- Jos_4:13cuarenta mil...listos para la gH6635
+- Jos_5:4todos los hombres de g, habían muertoH4421
+- Jos_5:6los hombres de g que...fueron consumidosH4421
+- Jos_6:2he entregado...Jericó...sus varones de gH2428
+- Jos_6:3rodearéis...la ciudad...los hombres de gH4421
+- Jos_8:1toma contigo toda la gente de g...a HaiH4421
+- Jos_8:3la gente de g, para subir contra Hai; yH4421
+- Jos_8:11toda la gente de g...subió y se acercóH4421
+- Jos_10:7y subió Josué...el pueblo de g con élH4421
+- Jos_10:24dijo a...gente de g que hablan venidoH4421
+- Jos_11:4con muchísimos caballos y carros de gH4264
+- Jos_11:7Josué, y toda la gente de g...vino deH4421
+- Jos_11:18mucho tiempo tuvo g Josué con...reyesH4421
+- Jos_11:19salvo los heveos...todo lo tomaron en gH4421
+- Jos_11:20para que resistiesen con g a IsraelH4421
+- Jos_11:23tribus; y la tierra descansó de la gH4421
+- Jos_14:11tal es ahora mi fuerza para la g, yH4421
+- Jos_14:15Arba...Y la tierra descansó de la gH4421
+- Jos_17:1Maquir...fue hombre de g, tuvo GalaadH4421
+- Jos_22:33no hablaron más de...contra ellos en gH6635
+- Jue_3:1no habían conocido...las g de CanaánH4421
+- Jue_3:2que el linaje de...Israel conociese la gH4421
+- Jue_3:29todos valientes y todos hombres de gH2428
+- Jue_5:8escogían nuevos dioses, la g estaba aH3901
+- Jue_8:1no...cuando ibas a la g contra Madián?[[H3898]]
+- Jue_10:9pasaron el Jordán...g contra JudáH3898
+- Jue_11:4-5de Amón hicieron g contra IsraelH3898
+- Jue_12:1¿por qué fuiste a hacer g contraH3898
+- Jue_11:12has venido...hacer g contra mi tierra?[[H3898]]
+- Jue_11:25contra Israel, o hizo g contra ellos?[[H3898]]
+- Jue_12:3¿por qué fuiste a hacer g contra losH3898
+- Jue_18:11salieron...Dan, armados de armas de gH4421
+- Jue_18:16estaban armados de sus armas de g aH4421
+- Jue_18:17con los 600...armados de armas de gH4421
+- Jue_20:17los varones de Israel...400.000...de gH4421
+- Jue_20:18¿quién subirá de...el primero en la gH4421
+- Jue_20:44dieciocho mil, todos...hombres de gH2428
+- Jue_20:46veinticinco mil...todos...hombres de gH2428
+- Jue_21:22en la g no tomamos mujeres para todosH4421
+- 1Sa_8:12pondrá...a que hagan sus armas de gH4421
+- 1Sa_8:20rey nos gobernará...y hará nuestras gH4421
+- 1Sa_10:26fueron con él los hombres de g cuyosH2428
+- 1Sa_12:9en mano de...los cuales les hicieron gH3898
+- 1Sa_14:47Saúl hizo g a todos sus enemigos enH3898
+- 1Sa_14:52hubo g...contra los filisteos todo elH4421
+- 1Sa_15:18vé...y hazles g hasta que los acabesH3898
+- 1Sa_16:18es valiente y vigoroso y hombre de gH4421
+- 1Sa_17:1los filisteos juntaron sus...para la gH4421
+- 1Sa_17:13habían ido para seguir a Saúl a la gH4421
+- 1Sa_17:13sus tres hijos que habían ido a la gH4421
+- 1Sa_17:33él un hombre de g desde su juventudH4421
+- 1Sa_18:5y lo puso Saúl sobre gente de g, y eraH4421
+- 1Sa_19:8hubo de nuevo g; y salió David y peleóH4421
+- 2Sa_1:27¡cómo...han perecido las armas de g![[H4421]]
+- 2Sa_3:1hubo larga g entre la casa de Saúl y laH4421
+- 2Sa_3:6como había g entre la casa de Saúl y laH4421
+- 2Sa_5:2eras tú quien sacabas a Israel a la g
+- 2Sa_11:1el tiempo que salen los reyes a la g
+- 2Sa_11:7David le preguntó...el estado de la gH4421
+- 2Sa_11:18hizo saber...todos los asuntos de la gH4421
+- 2Sa_11:19acabes de contar...los asuntos de la gH4421
+- 2Sa_17:8tu padre es hombre de g, y no pasaráH4421
+- 2Sa_21:15los filisteos a hacer la g a IsraelH4421
+- 2Sa_21:18otra segunda g hubo después en GobH4421
+- 2Sa_21:19otra vez g en Gob contra...filisteosH4421
+- 2Sa_21:20hubo otra g en Gat, donde había unH4421
+- 1Re_2:5sangre de g, y poniendo sangre de gH4421
+- 1Re_5:3por las g que le rodearon, hasta queH4421
+- 1Re_9:22que eran hombres de g, o sus criadosH4421
+- 1Re_12:21el fin de hacer g a la casa de IsraelH3898
+- 1Re_14:19las g que hizo, y cómo reinó, todoH3898
+- 1Re_14:30; 1Re_15:6hubo g entre Roboam y JeroboamH4421
+- 1Re_15:7y hubo g entre Abiam y JeroboamH4421
+- 1Re_15:16, 1Re_15:32g entre Asa y Baasa rey de IsraelH4421
+- 1Re_22:1tres años...sin g entre los sirios eH4421
+- 1Re_22:6¿iré a la g contra Ramot de Galaad, oH4421
+- 1Re_22:45y las g que hizo, ¿no están escritosH3898
+- 2Re_3:7¿irás tú conmigo a la g contra Moab?[[H4421]]
+- 2Re_6:8tenía el rey de Siria g contra IsraelH3898
+- 2Re_8:28fue a la g con Joram...contra HazaelH4421
+- 2Re_13:25ciudades que éste había tomado en gH4421
+- 2Re_14:28las g que hizo, y cómo restituyó alH3898
+- 2Re_16:5para hacer g y sitiar a Acaz- mas noH4421
+- 2Re_18:20consejo tengo y fuerzas para la gH4421
+- 2Re_19:9de Etiopía había salido para hacerle gH3898
+- 2Re_24:16todos los hombres de g...llevó cautivosH2428
+- 2Re_24:16todos los valientes para hacer la gH4421
+- 2Re_25:4huyeron de noche...hombres de g por elH4421
+- 2Re_25:19que tenía a su cargo los hombres de gH4421
+- 1Cr_5:10hicieron g contra los agoreros losH4421
+- 1Cr_5:18hombres valientes...y diestros en la gH4421
+- 1Cr_5:19éstos tuvieron g contra los agarenosH4421
+- 1Cr_5:20porque clamaron a Dios en la g, y lesH4421
+- 1Cr_5:22y cayeron muchos...la g era de DiosH4421
+- 1Cr_7:4habla con ellos...36.000 hombres de gH4421
+- 1Cr_7:11todos...que salían a combatir en la gH6635
+- 1Cr_11:2tú eras quien sacaba a la g a Israel
+- 1Cr_12:1los valientes que le ayudaron en la gH4421
+- 1Cr_12:8hombres de g...valientes para pelearH6635
+- 1Cr_12:23estaban listos para la g, y vinieron aH6635
+- 1Cr_12:24de Judá...6.800, listos para la gH6635
+- 1Cr_12:25de Simeón,1Cr_7:100...esforzados para la gH6635
+- 1Cr_12:33la g, con toda clase de armas de gH6635
+- 1Cr_12:36Aser, dispuestos para la g...40.000H6635
+- 1Cr_12:37de Manasés...toda clase de armas de gH4421
+- 1Cr_12:38hombres de g...poner a David por reyH4421
+- 1Cr_18:10porque Toi tenga g contra Hadad-ezerH4421
+- 1Cr_19:7se juntaron...Amón...y vinieron a la gH4421
+- 1Cr_20:1en que suelen los reyes salir a la g
+- 1Cr_20:4que se levantó g en Gezer contra losH4421
+- 1Cr_20:5a levantarse g contra los filisteosH4421
+- 1Cr_20:6volvió a haber g en Gat, donde habíaH4421
+- 1Cr_22:8y has hecho grandes g; no edificarásH4421
+- 1Cr_26:27de lo que habían consagrado de las gH4421
+- 1Cr_28:3no edificarás casa...eres hombre de gH4421
+- 2Cr_6:34si tu pueblo saliere a la g contraH4421
+- 2Cr_8:9eran hombres de g, y sus oficiales yH4421
+- 2Cr_11:1a 180.000 hombres escogidos de gH4421
+- 2Cr_12:15y entre Roboam y Jeroboam hubo gH4421
+- 2Cr_13:2años...Y hubo g entre Abías y JeroboamH4421
+- 2Cr_13:3un ejército de 400.000 hombres de gH4421
+- 2Cr_14:6no había g...Jehová le había dado pazH4421
+- 2Cr_15:19no hubo más g hasta los 35 años delH4421
+- 2Cr_16:9de aquí en adelante habrá más g contraH4421
+- 2Cr_17:10y no osaron hacer g contra JosafatH3898
+- 2Cr_17:13tuvo...hombres de g muy valientes enH4421
+- 2Cr_17:18con él 180.000 dispuestos para la gH6635
+- 2Cr_18:3y él respondió...iremos contigo a la gH4421
+- 2Cr_18:5¿iremos a la g contra Ramot de GalaadH4421
+- 2Cr_20:1amonitas, vinieron contra Josafat...gH4421
+- 2Cr_20:15porque no es vuestra la g...de DiosH4421
+- 2Cr_22:5y fue a la g con Joram hijo de AcabH4421
+- 2Cr_25:5hallados 300.000...para salir a la gH6635
+- 2Cr_25:13para que no fuesen con él a la gH4421
+- 2Cr_26:11los cuales salían a la g en divisionesH6635
+- 2Cr_26:13bajo...éstos estaba el ejército de gH4421
+- 2Cr_27:5tuvo él g con el rey de los hijos deH3898
+- 2Cr_27:7demás hechos de Jotam, y todas sus gH4421
+- 2Cr_28:12Amasa...contra los que venían de la gH6635
+- 2Cr_32:6y puso capitanes de g sobre el puebloH4421
+- 2Cr_35:20Necao rey de Egipto subió...hacer gH3898
+- 2Cr_35:21sino contra la casa que me hace g; yH4421
+- Job_5:20salvará...poder de la espada en la gH4421
+- Job_38:23reservados...para el día de la g y deH4421
+- Sal_27:3aunque contra mí se levante g, YH4421
+- Sal_46:9hace cesar las g hasta los fines de laH4421
+- Sal_55:18él redimirá en paz mi alma de la gH7128
+- Sal_55:21pero g hay en su corazón; suavizaH7128
+- Sal 60tit. cuando tuvo g contra Aram-NaharaímH5327
+- Sal_68:30esparce a...que se complacen en la gH7128
+- Sal_76:3quebró las saetas...y las armas de gH4421
+- Sal_120:7mas ellos, así que hablo, me hacen gH4421
+- Sal_144:1quien adiestra...mis dedos para la gH4421
+- Pro_20:18y con dirección sabia se hace la gH4421
+- Pro_24:6porque con ingenio harás la g, y en laH4421
+- Ecl_3:8tiempo...tiempo de g, y tiempo de pazH4421
+- Ecl_8:8no valen armas en tal g, ni la impiedadH4421
+- Ecl_9:11ni la g de los fuertes, ni aun de losH4421
+- Ecl_9:18mejor es la sabiduría que...armas de gH7128
+- Cnt_3:8todos ellos...diestros en la g; cadaH4421
+- Isa_2:4no...ni se adiestrarán más para la gH4421
+- Isa_3:2el valiente y el hombre de g, el.juezH4421
+- Isa_3:25tus varones caerán...tu fuerza en la gH4421
+- Isa_16:9y sobre tu siega caerá el grito de g
+- Isa_22:2muertos no son muertos a espada...en gH4421
+- Isa_36:5que el consejo y poderío para la gH4421
+- Isa_37:9he aquí que ha salido para hacerte gH3898
+- Isa_41:12como nada...aquellos que te hacen la gH4421
+- Isa_42:13y como hombre de g despertará celoH4421
+- Isa_42:25el ardor de su ira, y fuerza de g; leH4421
+- Jer_4:19has oído, oh alma mía, pregón de gH4421
+- Jer_6:4anunciad g contra ella; levantaos yH4421
+- Jer_6:23hombres dispuestos para la g, contra tiH4421
+- Jer_18:21sus jóvenes heridos a espada en la gH4421
+- Jer_21:2Nabucodonosor...hace g contra nosotrosH3898
+- Jer_21:4vuelvo atrás las armas de g que estánH4421
+- Jer_28:8profetas que fueron...profetizaron gH4421
+- Jer_38:4desmayar las manos de...hombres de gH4421
+- Jer_39:4viéndolos...los hombres de g, huyeronH4421
+- Jer_40:13todos los príncipes de la gente de gH2428
+- Jer_41:11oyeron...príncipes de la gente de gH2428
+- Jer_41:13, Jer_41:16los capitanes de la gente de gH2428
+- Jer_41:16hombres de g, mujeres, niños y eunucosH2428
+- Jer_42:1vinieron...oficiales de la gente de gH2428
+- Jer_42:8llamó a...los oficiales de la gente de gH2428
+- Jer_42:14de Egipto, en la cual no veremos gH4421
+- Jer_43:4los oficiales de la gente de g y todoH2428
+- Jer_43:5tomó...los oficiales de la gente de gH2428
+- Jer_46:3preparad escudo y pavés, y venid a la gH4421
+- Jer_48:14diréis: Somos...robustos para la g?[[H4421]]
+- Jer_49:2haré oír clamor de g en Raba de AmónH4421
+- Jer_49:26los hombres de B morirán en aquel díaH4421
+- Jer_50:22estruendo de g en la tierra...grandeH4421
+- Jer_50:30sus hombres de g serán destruidos enH4421
+- Jer_51:20martillo me sois, y armas de g- y porH4421
+- Jer_51:32y se consternaron los hombres de gH4421
+- Jer_52:7los hombres de g huyeron, y salieronH4421
+- Jer_52:25tomó a...capitán de los hombres de gH4421
+- Jer_52:25pasaba revista al pueblo...para la g
+- Eze_21:22para levantar la voz en grito de gH8643
+- Eze_27:10Lud y Fut fueron...tus hombres de gH4421
+- Eze_27:14con caballos y corceles de g y mulosH6571
+- Eze_27:27hombres de g que hay en ti...caerán enH4421
+- Eze_32:27descendieron al Seol con...armas de gH4421
+- Eze_39:20saciaréis...de todos los hombres de gH4421
+- Dan_7:21este cuerno hacía g contra los santosH7129
+- Dan_9:26fin de la g durarán las devastacionesH4421
+- Dan_11:10mas...llevará la g hasta su fortalezaH1624
+- Dan_11:25se empeñará en la g con grande y muyH4421
+- Ose_2:18quitaré de la tierra...y espada y gH4421
+- Joe_2:7como hombres de g subirán el muroH4421
+- Joe_3:9proclamad g...vengan...los hombres de gH4421
+- Miq_2:8quitasteis las...como adversarios de gH4421
+- Miq_3:5al que no les da...proclaman g contra élH4421
+- Miq_4:3nación, ni se ensayarán más para la gH4421
+- Zac_9:10y los arcos de g serán quebrados; yH4421
+- Zac_10:3los pondrá como su caballo de...en la gH4421
+- Zac_10:4de él saldrá la piedra...el arco de gH4421
+- Mat_24:6; Mar_13:7oiréis de g y rumores de gG4171
+- Luc_14:31qué rey, al marchar a la g contraG4171
+- Luc_21:9cuando oigáis de g y de sediciones, noG4171
+- Stg_4:1¿de dónde vienen las g y los pleitosG4171
+- Rev_9:7a caballos preparados para la g; enG4171
+- Rev_11:7la bestia...hará g contra ellos, y losG4171
+- Rev_12:17fue a hacer g contra...la descendenciaG4171
+- Rev_13:7le permitió hacer g contra los santosG4171

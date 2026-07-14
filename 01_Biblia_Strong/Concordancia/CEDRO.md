@@ -1,0 +1,82 @@
+---
+tipo: concordancia
+palabra: CEDRO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CEDRO
+
+- Lev_14:4madera de c, grana e hisopoH730
+- Lev_14:6tomará...el c, la grana y el hisopo, yH730
+- Lev_14:49tomará...y madera de c, grana e hisopoH730
+- Lev_14:51tomará el c, el hisopo, la grana y laH730
+- Lev_14:52purificará la casa con la...madera de cH730
+- Núm_19:6luego tomará...madera de c, e hisopoH730
+- Núm_24:6como áloes...como c junto a las aguasH730
+- Jue_9:15salga fuego de la zarza y devore...cH730
+- 2Sa_5:11Hiram rey de Tiro envió...madera de cH730
+- 2Sa_7:2habito en casa de c, y el arca de DiosH730
+- 2Sa_7:7¿por qué no me habéis edificado...de c?[[H730]]
+- 1Re_4:33disertó sobre...el c del Líbano hastaH730
+- 1Re_5:6manda, pues...que me corten c del LíbanoH730
+- 1Re_5:8yo haré todo...acerca de la madera de cH730
+- 1Re_5:10dio, pues, Hiram a Salomón madera de cH730
+- 1Re_6:9la casa...la cubrió con artesonados de cH730
+- 1Re_6:10se apoyaba en la casa con maderas de cH730
+- 1Re_6:15cubrió las paredes de...con tablas de cH730
+- 1Re_6:16un edificio de 20 codos, de tablas de cH730
+- 1Re_6:18cubierta de c por dentro...Todo era cH730
+- 1Re_6:20asimismo cubrió de oro el altar de cH730
+- 1Re_6:36el atrio...de una hilera de vigas de cH730
+- 1Re_7:2casa...de columnas de c, con vigas de cH730
+- 1Re_7:3estaba cubierta de tablas de c arribaH730
+- 1Re_7:7pórtico...cubrió de c del suelo al techoH730
+- 1Re_7:11arriba...piedras costosas...y madera de cH730
+- 1Re_7:12el gran atrio...una hilera de vigas de cH730
+- 1Re_9:11Hiram rey de...había traído...madera de cH730
+- 1Re_10:27y los c como cabrahigos de la SefelaH730
+- 2Re_14:9el cardo...envió a decir al c que estáH730
+- 2Re_19:23cortaré sus altos c, sus cipreses másH730
+- 1Cr_14:1Hiram rey de...envió a...madera de cH730
+- 1Cr_17:1yo habito en casa de c, y el arca delH730
+- 1Cr_17:6¿por qué no me edificáis una casa de c?[[H730]]
+- 1Cr_22:3mucho bronce...y madera de c sin cuenta
+- 1Cr_22:4habían traído a David...de madera de cH730
+- 2Cr_1:15y c como cabrahigos de la Sefela enH730
+- 2Cr_2:3enviándole c para que edificara para síH730
+- 2Cr_2:8envíame...madera del Líbano: c, ciprés yH730
+- 2Cr_9:27c como los cabrahigos de la Sefela enH730
+- 2Cr_25:18envió al c que estaba en el LíbanoH730
+- Esd_3:7trajesen madera de c desde el LíbanoH730
+- Job_40:17cola mueve como un c, y los nerviosH730
+- Sal_29:5voz de Jehová que quebranta los cH730
+- Sal_29:5quebrantó Jehová los c del LíbanoH730
+- Sal_80:10y con sus sarmientos los c de DiosH730
+- Sal_92:12el justo...crecerá como c en el LíbanoH730
+- Sal_104:16árboles...c del Líbano que él plantóH730
+- Sal_148:9montes...árbol de fruto y todos los cH730
+- Cnt_1:17las vigas de nuestra casa son de cH730
+- Cnt_5:15su aspecto como el Líbano...como los cH730
+- Cnt_8:9fuere...la guarneceremos con tablas de cH730
+- Isa_2:13sobre todos los c del Líbano altos yH730
+- Isa_9:10cortaron...pero en su lugar pondremos cH730
+- Isa_14:8se regocijaron...c del Líbano, diciendoH730
+- Isa_37:24cortaré sus altos c, sus cipresesH730
+- Isa_41:19daré en el desierto c, acacias...olivosH730
+- Isa_44:14corta c, y toma ciprés y encina, queH730
+- Jer_22:7cortarán tus c escogidos
+- Jer_22:14casa...la cubre de c, y la pinta deH730
+- Jer_22:15¿reinarás, porque te rodeas de c? ¿NoH730
+- Jer_22:23habitaste en...hiciste tu nido en los cH730
+- Eze_17:3gran águila...y tomó el cogollo del cH730
+- Eze_17:22tomaré yo del cogollo de aquel alto cH730
+- Eze_17:23y dará fruto, y se hará magnífico cH730
+- Eze_27:5tomaron c del Líbano...hacerte el mástilH730
+- Eze_27:24negociaban contigo...y en madera de cH729
+- Eze_31:3he aquí era el asirio c en el LíbanoH730
+- Eze_31:8c no lo cubrieron en el huerto de DiosH730
+- Amó_2:9cuya altura era como la altura de los cH730
+- Sof_2:14su enmaderamiento de c...descubiertoH730
+- Zac_11:1oh Líbano...y consuma el fuego tus cH730
+- Zac_11:2aúlla, oh ciprés, porque el c cayóH730

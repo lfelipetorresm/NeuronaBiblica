@@ -1,0 +1,492 @@
+---
+tipo: concordancia
+palabra: CAER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CAER
+
+- Gén_2:21hizo caer sueño profundo sobre AdánH5307
+- Gén_14:10cuando huyeron...algunos cayeron allíH5307
+- Gén_14:15y cayó sobre ellos de noche, él y susH2505
+- Gén_15:12de una grande oscuridad cayó sobre élH5307
+- Gén_49:17Dan...hace caer hacia atrás al jineteH5307
+- Éxo_9:19el granizo caerá sobre él, y moriráH3381
+- Éxo_9:33la lluvia no cayó más sobre la tierraH5413
+- Éxo_15:16caiga sobre ellos temblor y espantoH5307
+- Éxo_16:12al caer la tarde comeréis carne, y porH5307
+- Éxo_19:21no traspase...caerá multitud de ellosH5307
+- Éxo_21:18éste no muriere, pero cayere en camaH5307
+- Éxo_21:33no la cubriere, y cayere allí buey oH5307
+- Éxo_23:5vieres el asno del que te aborrece caídoH7257
+- Éxo_32:28cayeron del pueblo en aquel día comoH5307
+- Lev_6:27lavarás aquello sobre que cayere, enH5137
+- Lev_11:32aquello sobre que cayere algo de ellosH5307
+- Lev_11:33toda vasija...dentro de la cual cayereH5307
+- Lev_11:34todo alimento...sobre el cual cayereH935
+- Lev_11:35sobre que cayere algo del cadáver deH5307
+- Lev_11:37-38cayere algo de los cadáveres sobreH5307
+- Lev_13:40cuando...le cayere el cabello, es calvoH4803
+- Lev_13:41y si hacia su frente se le cayere elH4803
+- Lev_15:17piel sobre la cual cayere la emisión
+- Lev_16:9-10sobre el cual cayere la suerte porH5307
+- Lev_19:10tu viña, ni recogerás el fruto caído
+- Lev_26:7y caerán a espada delante de vosotrosH5307
+- Lev_26:8vuestros enemigos caerán a...de espadaH5307
+- Lev_26:36y caerán sin que nadie los persigaH5307
+- Núm_5:21tu muslo caiga y que tu vientre seH5307
+- Núm_5:22y hagan hinchar tu vientre y caer tuH5307
+- Núm_5:27vientre se hinchará y caerá su musloH5307
+- Núm_14:3por qué nos trae...para caer a espadaH5307
+- Núm_14:29este desierto caerán vuestros cuerposH5307
+- Núm_14:32vuestros cuerpos caerán en...desiertoH5307
+- Núm_14:43cananeo están allí...caeréis a espadaH5307
+- Núm_15:31cortada...su iniquidad caerá sobre ella
+- Núm_24:4, Núm_24:16oyó...caído, pero abiertos los ojosH5307
+- Núm_33:54donde le cayere la suerte...la tendráH3318
+- Núm_34:2la tierra que os ha de caer en herenciaH5307
+- Núm_35:23sin verlo hizo caer sobre él...piedraH5307
+- Deu_17:7mano de los testigos caerá primeroH7223
+- Deu_22:4el asno...o su buey, caído en el caminoH5307
+- Deu_22:8culpa de sangre...si de él cayere algunoH5307
+- Deu_23:11al caer la noche se lavará con aguaH6437
+- Deu_28:40no te ungirás...tu aceituna se caeráH5394
+- Deu_28:52pondrá sitio a...que caigan tus murosH3381
+- Jos_2:9el temor de vosotros ha caído sobreH5307
+- Jos_6:5gritará...y el muro de la ciudad caeráH5307
+- Jos_7:6Josué...se postró...hasta caer la tardeH5307
+- Jos_8:24y todos habían caído a filo de espadaH5307
+- Jos_8:25el número de los que cayeron...doce milH5307
+- Jos_8:29al rey de Hai lo colgó...caer la nocheH935
+- Jos_10:26quedaron colgados...hasta caer la nocheH6153
+- Jos_21:4la suerte cayó sobre las familias deH3318
+- Jue_3:25su señor caído en tierra, muertoH5307
+- Jue_4:16todo el ejército...cayó a filo de espadaH5307
+- Jue_5:27cayó encorvado entre...entre sus pies cH5307
+- Jue_5:27donde se encorvó, allí cayó muertoH5307
+- Jue_7:13golpeó...manera que cayó...la tienda cH5307
+- Jue_8:10pues habían caído 120.000 hombres queH5307
+- Jue_9:33y por la mañana...cae sobre la ciudadH6584
+- Jue_9:40cayeron heridos muchos hasta...la puertaH5307
+- Jue_9:53una mujer dejó caer...rueda de molinoH7993
+- Jue_15:14las ataduras se cayeron de sus manosH4549
+- Jue_15:18caeré en mano de los incircuncisos?[[H5307]]
+- Jue_16:30se inclinó...y cayó la casa sobre losH5307
+- Jue_19:26la mujer...cayó delante de la puertaH5307
+- Jue_20:39han caído delante de nosotros, comoH5062
+- Jue_20:44cayeron de Benjamín 18.000 hombresH5307
+- Rut_2:16dejaréis...caer...algo de los manojosH2997
+- 1Sa_3:19dejó caer...ninguna de sus palabrasH5307
+- 1Sa_4:10pues cayeron de Israel 30.000 hombresH5307
+- 1Sa_4:18cayó hacia atrás de la silla al ladoH5307
+- 1Sa_5:4que Dagón había caído postrado en tierraH5307
+- 1Sa_11:7y cayó temor de Jehová sobre el puebloH5307
+- 1Sa_14:13a los que caían...su paje...los matabaH5307
+- 1Sa_14:24que coma pan antes de caer la nocheH6153
+- 1Sa_14:41y la suerte cayó sobre Jonatán y SaúlH3920
+- 1Sa_14:42echad...y la suerte cayó sobre JonatánH3920
+- 1Sa_14:45no ha de caer un cabello de su cabezaH5307
+- 1Sa_17:49hirió...cayó sobre su rostro en tierraH5307
+- 1Sa_17:52y cayeron los heridos de los filisteosH5307
+- 1Sa_18:25hacer caer a David en manos de losH5307
+- 1Sa_26:12un profundo sueño...caído sobre elloH5307
+- 1Sa_26:20no caiga...ahora mi sangre en tierraH5307
+- 1Sa_28:20Saúl cayó en tierra cuan grande eraH5307
+- 1Sa_31:1cayeron muertos en el monte de GilboaH5307
+- 2Sa_1:4también muchos del pueblo cayeron yH5307
+- 2Sa_1:12porque habían caído a filo de espadaH5307
+- 2Sa_1:19, 2Sa_1:25, 2Sa_1:27¡cómo han caído los valientes![[H5307]]
+- 2Sa_1:21rocío ni lluvia caiga sobre vosotros
+- 2Sa_2:16cayeron a una; por lo que fue llamadoH5307
+- 2Sa_2:23cayó allí, y murió en aquel mismo sitioH5307
+- 2Sa_2:23que venían por...donde Asael había caídoH5307
+- 2Sa_3:29caiga sobre la cabeza de Joab, y sobreH2342
+- 2Sa_3:34caíste como los que caen delante deH5307
+- 2Sa_3:38un príncipe y...ha caído hoy en Israel?[[H5307]]
+- 2Sa_4:4huyó...se le cayó el niño y quedó cojoH5307
+- 2Sa_6:7cayó allí muerto junto al arca de Dios
+- 2Sa_11:2sucedió un día, al caer la tarde, queH6153
+- 2Sa_11:17y cayeron algunos...siervos de DavidH5307
+- 2Sa_14:11no caerá ni un cabello de la cabezaH5307
+- 2Sa_17:2caeré sobre él mientras está cansadoH935
+- 2Sa_17:9y si al principio cayeren algunos deH5307
+- 2Sa_17:12caeremos...como cuando el rocío caeH935
+- 2Sa_18:7cayó el pueblo de Israel delante de losH5062
+- 2Sa_20:8una daga...se le cayó cuando él avanzóH5307
+- 2Sa_20:10cayó muerto sin darle...segundo golpe
+- 2Sa_21:22los cuales cayeron por mano de DavidH5307
+- 2Sa_22:39los heriré...caerán debajo de mis piesH5307
+- 2Sa_24:14caigamos ahora en mano de JehováH5307
+- 2Sa_24:14mas no caiga yo en manos de hombresH5307
+- 1Re_1:52uno de sus cabellos caerá en tierraH5307
+- 1Re_14:1Abías hijo de Jeroboam cayó enfermoH2470
+- 1Re_17:17cayó enfermo el hijo del ama de laH2470
+- 1Re_18:38cayó fuego de Jehová, y consumió elH5307
+- 1Re_20:30y el muro cayó sobre 27.000 hombresH5307
+- 1Re_22:20que suba y caiga en Ramot de GalaadH5307
+- 2Re_1:2Ocozías cayó por la ventana de unaH5307
+- 2Re_2:13-14el manto de Elías que...había caídoH5307
+- 2Re_6:5se le cayó el hacha en el agua; y gritóH5307
+- 2Re_6:6el varón de Dios preguntó: ¿Dónde cayó?[[H5307]]
+- 2Re_9:24Jehú...hirió a Joram...cayó en su carroH3766
+- 2Re_10:10que de la palabra...nada caerá en tierraH5307
+- 2Re_14:10mal, para que caigas tú y Judá contigo?[[H5307]]
+- 2Re_14:12Judá cayó delante de Israel, y huyeronH5062
+- 2Re_19:7y haré que en su tierra caiga a espadaH5307
+- 2Re_20:1Ezequías cayó enfermo...y vino...IsaíasH2470
+- 2Re_20:12oído que Ezequías había caído enfermoH2470
+- 1Cr_5:10los agarenos...cayeron en su manoH5307
+- 1Cr_5:22cayeron muchos...la guerra era de DiosH5307
+- 1Cr_10:1cayeron heridos en el monte de GilboaH5307
+- 1Cr_19:16, 1Cr_19:19viendo los sirios que habían caídoH5062
+- 1Cr_20:8los cuales cayeron por mano de David yH5307
+- 1Cr_21:13que yo caiga en la mano de JehováH5307
+- 1Cr_21:13pero que no caiga en manos de hombresH5307
+- 1Cr_26:14para la del oriente cayó a SelemíasH5307
+- 2Cr_13:17cayeron heridos...500.000 hombresH5307
+- 2Cr_14:13cayeron los etíopes hasta no quedarH5307
+- 2Cr_14:14el terror de Jehová cayó sobre ellasH5921
+- 2Cr_17:10cayó el pavor de Jehová sobre todosH4467
+- 2Cr_18:19que suba y caiga en Ramot de Galaad?[[H5307]]
+- 2Cr_20:29pavor de Dios cayó sobre todos losH5921
+- 2Cr_25:8si vas así...Dios te hará caer delanteH3782
+- 2Cr_25:19provocas un mal en que puedas caerH5307
+- 2Cr_25:22cayó Judá delante de Israel, y huyóH5062
+- 2Cr_29:9nuestros padres han caído a espada, yH5307
+- 2Cr_32:5edificó Ezequías...los muros caídos, eH6555
+- 2Cr_34:21grande es la ira...que ha caído sobreH5413
+- Neh_4:12decían...ellos caerán sobre vosotros
+- Est_6:13delante de quien...comenzado a caerH5307
+- Est_6:13sino que caerás...cierto delante de élH5307
+- Est_7:8Amán había caído sobre el lecho en queH5307
+- Est_8:17temor de los judíos había caído sobreH5307
+- Est_9:2temor de ellos había caído sobre todosH5307
+- Est_9:3el temor de Mardoqueo había caído sobreH5307
+- Job_1:16fuego de Dios cayó del cielo queH5307
+- Job_1:19la casa, la cual cayó sobre los jóvenesH5307
+- Job_4:13cuando el sueño cae sobre los hombresH5307
+- Job_13:11su pavor habría de caer sobre vosotrosH5307
+- Job_14:18monte que cae se deshace, y las peñasH5307
+- Job_16:11las manos de los impíos me hizo caerH3399
+- Job_18:20y pavor caerá sobre los de oriente
+- Job_30:30mi piel se ha ennegrecido y se me caeH5921
+- Job_31:22mi espalda se caiga de mi hombro, yH5307
+- Job_33:15cuando el sueño cae sobre los hombresH5307
+- Sal_1:3fruto en su tiempo, y su hoja no caeH5034
+- Sal_5:10caigan por sus mismos consejos; por laH5307
+- Sal_7:15ha cavado...en el hoyo que hizo caeráH5307
+- Sal_7:16y su agravio caerá sobre su...coronilla
+- Sal_9:3enemigos...cayeron y perecieron delanteH3782
+- Sal_10:10y caen en sus fuertes garras muchosH5307
+- Sal_16:6las cuerdas me cayeron en lugaresH5307
+- Sal_18:38los herí...cayeron debajo de mis piesH5307
+- Sal_20:8ellos flaquean y caen, mas nosotrosH5307
+- Sal_27:2enemigos...ellos tropezaron y cayeronH5307
+- Sal_35:8red...con quebrantamiento caiga en ellaH5307
+- Sal_36:12cayeron los hacedores de iniquidadH5307
+- Sal_37:24cuando...cayere, no quedará postradoH5307
+- Sal_38:2porque tus saetas cayeron sobre mí, yH5181
+- Sal_38:17pero yo estoy a punto de caer, y miH6761
+- Sal_41:8cayó en cama no volverá a levantarseH7901
+- Sal_45:5saetas agudas, con que caerán pueblosH5307
+- Sal_55:4terrores de muerte sobre mí han caídoH5307
+- Sal_55:22no dejará para siempre caído al justoH4131
+- Sal_56:13has librado...mis pies de caída, paraH1762
+- Sal_57:6en medio de él han caído ellos mismosH5307
+- Sal_63:9caerán en los sitios bajos de la tierraH935
+- Sal_64:8sus propias lenguas los harán caerH3782
+- Sal_69:9los denuestos de los...cayeron sobre míH5307
+- Sal_73:18puesto...en asolamientos los harás caerH5307
+- Sal_78:28las hizo caer en medio del campamentoH5307
+- Sal_78:64sus sacerdotes cayeron a espada, y susH5307
+- Sal_82:7como cualquiera de...príncipes caeréisH5307
+- Sal_91:7caerán a tu lado mil, y diez mil a tuH5307
+- Sal_105:38su terror había caído sobre ellosH5307
+- Sal_107:12cayeron, y no hubo quien los ayudaseH3782
+- Sal_118:13me empujaste...para que cayese; peroH5307
+- Sal_140:10caerán sobre ellos brasas...el fuegoH4131
+- Sal_141:10caigan los impíos a una en sus redesH5307
+- Sal_145:14sostiene Jehová a todos los que caenH5307
+- Sal_146:8Jehová levanta a los caídos; JehováH3721
+- Pro_1:12y enteros, como los que caen en unH3381
+- Pro_4:16pierden el sueño si no han hecho caerH3782
+- Pro_6:3y líbrate, ya que has caído en la manoH935
+- Pro_7:26a muchos ha hecho caer heridos, y aunH5307
+- Pro_10:8el sabio...mas el necio de labios caeráH3832
+- Pro_11:5mas el impío por su impiedad caeráH5307
+- Pro_11:14donde no hay dirección sabia, caerá elH5307
+- Pro_11:28el que confía en sus riquezas caeráH5307
+- Pro_17:20el que revuelve con...caerá en el malH5307
+- Pro_19:15la pereza hace caer en profundo sueñoH5307
+- Pro_22:14Jehová estuviere airado caerá en ellaH5307
+- Pro_24:16cae el justo, y vuelve a levantarseH5307
+- Pro_24:16mas los impíos caerán en el malH3782
+- Pro_24:17cayere tu enemigo, no te regocijesH5307
+- Pro_25:26es el justo que cae delante del impíoH4131
+- Pro_26:27el que cava foso caerá en él; y al queH5307
+- Pro_28:10hace errar a...caerá en su misma fosaH5307
+- Pro_28:14endurece su corazón caerá en el malH5307
+- Pro_28:18mas el de perversos caminos caerá enH5307
+- Ecl_4:10si cayeren, el uno levantará a suH5307
+- Ecl_4:10cuando cayere, no habrá segundo que loH5307
+- Ecl_9:12el tiempo malo, cuando cae de repenteH5307
+- Ecl_10:8el que hiciere hoyo caerá en él; y alH5307
+- Ecl_10:18por la pereza se cae la techumbre, yH4355
+- Ecl_11:3si el árbol cayere al sur...allí quedaráH5307
+- Ecl_11:3el lugar que el árbol cayere...quedaráH5307
+- Isa_1:30encina a la que se le cae la hoja, yH5034
+- Isa_3:8arruinada...Jerusalén, y Judá ha caídoH5307
+- Isa_3:25varones caerán a espada, y tu fuerzaH5307
+- Isa_8:14por tropezadero para caer, y por lazoH5063
+- Isa_8:15muchos...caerán, y serán quebrantadosH5307
+- Isa_9:8el Señor envió palabra...y cayó en IsraelH5307
+- Isa_9:10ladrillos cayeron, pero edificaremos deH5307
+- Isa_10:4sin mí se...y entre los muertos caeránH5307
+- Isa_10:34cortará...el Líbano caerá con estruendoH5307
+- Isa_13:15por ellos sea tomado, caerá a espadaH5307
+- Isa_14:12¡cómo caíste del cielo, oh LuceroH5307
+- Isa_16:9sobre tu siega caerá el grito de guerraH5307
+- Isa_21:9después habló y dijo: Cayó, c BabiloniaH5307
+- Isa_22:25el clavo...será quebrado y caerá, y laH5307
+- Isa_24:4cayó la tierra, enfermó, c el mundoH535
+- Isa_24:18que huyere de la voz del terror caeráH5307
+- Isa_24:20ella...caerá, y nunca más se levantaráH5307
+- Isa_26:18ni cayeron los moradores del mundoH5307
+- Isa_28:13hasta que vayan y caigan de espaldasH3782
+- Isa_30:25matanza, cuando caerán las torresH5307
+- Isa_31:3caerá el ayudador y c el ayudado, yH3782, [[H5307]]
+- Isa_31:8caerá Asiria por espada no de varón, yH5307
+- Isa_32:19y cuando caiga granizo, caerá en losH3381
+- Isa_34:4caerá...como se cae la hoja de la parraH5034
+- Isa_34:4parra, y como se cae la de la higueraH5034
+- Isa_34:7con ellos caerán búfalos, y toros conH3381
+- Isa_40:15como la gota de agua que cae del cubo
+- Isa_40:30se cansan, los jóvenes flaquean y caenH3782
+- Isa_43:17caen juntamente para no levantarseH7901
+- Isa_47:11caerá sobre ti quebrantamiento, el cualH5307
+- Isa_54:15el que contra ti conspirare...caeráH5307
+- Isa_64:6caímos todos nosotros como la hoja, yH5034
+- Jer_3:12dice...no haré caer mi ira sobre tiH5307
+- Jer_6:4¡ay de nosotros! que va cayendo ya el díaH6437
+- Jer_6:15por tanto, caerán entre los que caiganH5307
+- Jer_6:15cuando los castigue caerán, dice JehováH5307
+- Jer_6:21caerán en ellos los padres y los hijosH3782
+- Jer_8:4el que cae, ¿no se levanta? El que seH5307
+- Jer_8:12caerán, por tanto, entre los que caiganH5307
+- Jer_8:12cuando los castigue caerán, dice JehováH3782
+- Jer_8:13no quedarán uvas...y se caerá la hojaH5034
+- Jer_9:22cuerpos de los hombres muertos caeránH5307
+- Jer_13:18la corona de vuestra gloria ha caídoH3381
+- Jer_15:8hice que de repente cayesen terroresH5307
+- Jer_19:7les haré caer a espada delante de susH5307
+- Jer_20:4caerán por la espada de sus enemigosH5307
+- Jer_23:12oscuridad; serán empujados, y caeránH5307
+- Jer_23:19tempestad...caerá sobre la cabeza deH2342
+- Jer_25:27y vomitad, y caed, y no os levantéisH5307
+- Jer_25:34seáis degollados...y caeréis como vasoH5307
+- Jer_37:20caiga ahora mi súplica delante de tiH5307
+- Jer_39:18no caerás a espada, sino que tu vidaH5307
+- Jer_44:12caerán a espada, y serán consumidosH5307
+- Jer_46:6al norte junto a...tropezaron y cayeronH5307
+- Jer_46:12tropezó contra valiente, y cayeronH5307
+- Jer_46:16multiplicó los caídos, y cada uno cayóH3782, [[H5307]]
+- Jer_48:44el que huyere del miedo caerá en elH5307
+- Jer_49:26sus jóvenes caerán en sus plazas, yH5307
+- Jer_50:15han caído sus cimientos, derribadosH5307
+- Jer_50:30sus jóvenes caerán en sus plazas, yH5307
+- Jer_50:32el soberbio tropezará y caerá, y noH5307
+- Jer_51:8en un momento cayó Babilonia, y seH5307
+- Jer_51:35sobre Babilonia caiga la violencia
+- Jer_51:35sangre caiga sobre los moradores de
+- Jer_51:44juzgaré...y el muro de Babilonia caeráH5307
+- Jer_51:47sus muertos caerán en medio de ellaH5307
+- Jer_51:49caerá Babilonia, como...cayeron losH5307
+- Lam_1:7cayó su pueblo en mano del enemigoH5307
+- Lam_2:21mis vírgenes y mis jóvenes cayeron aH5307
+- Lam_3:65corazón; tu maldición caiga sobre ellos
+- Lam_5:16cayó la corona de nuestra cabeza; ¡ ayH5307
+- Eze_5:12y una tercera parte caerá a espadaH5307
+- Eze_6:4que caigan vuestros muertos delante deH5307
+- Eze_6:7los muertos caerán en medio de vosotrosH5307
+- Eze_6:11y con hambre y con pestilencia caeránH5307
+- Eze_6:12el que esté cerca caerá a espada, y elH5307
+- Eze_11:10a espada caeréis; en los límites deH5307
+- Eze_12:13yo extenderé mi red...y caerá preso enH8610
+- Eze_13:11dí a los recubridores con...que caeráH5307
+- Eze_13:11piedras de granizo que la hagan caerH5307
+- Eze_13:12cuando la pared haya caído, ¿no osH5307
+- Eze_13:14caerá, y seréis consumidos en medioH5307
+- Eze_17:21todos sus fugitivos...caerán a espadaH5307
+- Eze_21:12caerán ellos a espada...con mi puebloH1961
+- Eze_23:25y lo que te quedare caerá a espadaH5307
+- Eze_24:21y vuestros hijos y...caerán a espadaH5307
+- Eze_25:13temán hasta Dedán caerán a espadaH5307
+- Eze_26:11tus fuertes columnas caerán a tierraH3381
+- Eze_27:27caerán en medio de los mares el díaH5307
+- Eze_27:34toda tu compañía caerán en medio deH5307
+- Eze_28:23caerán muertos en medio de ella, conH5307
+- Eze_29:5tus ríos; sobre la faz del campo caerásH5307
+- Eze_30:4miedo...cuando caigan heridos en EgiptoH5307
+- Eze_30:5Fut...caerán con ellos a filo de espadaH5307
+- Eze_30:6caerán los que sostienen a Egipto, y laH5307
+- Eze_30:6la altivez de su poderío caerá, desdeH5307
+- Eze_30:6desde Migdol hasta Sevene caerán en élH5307
+- Eze_30:17los jóvenes...caerán a filo de espadaH5307
+- Eze_30:22que la espada se le caiga de la manoH5307
+- Eze_30:25los brazos de Faraón caerán y sabránH5307
+- Eze_31:12sus ramas caerán sobre los montes yH5307
+- Eze_32:12con espadas de...haré caer tu puebloH5307
+- Eze_32:20entre los muertos a espada caerá: a laH5307
+- Eze_32:22-23, Eze_32:24ellos cayeron muertos a espadaH5307
+- Eze_32:27no yacerán con los fuertes...cayeronH5307
+- Eze_33:27en aquellos lugares asolados caerán aH5307
+- Eze_35:8en tus valles...Caerán muertos a espadaH5307
+- Eze_36:3os ha hecho caer en boca de habladoresH5927
+- Eze_38:20los vallados caerán, y todo muro caeráH5307
+- Eze_39:4sobre los montes de israel caerás túH5307
+- Eze_39:5sobre la faz del campo caerás porqueH5307
+- Eze_39:23los entregué...y cayeron todos a espadaH5307
+- Eze_40:31, Eze_40:34sus arcos caían afuera al atrio
+- Eze_40:37sus postes caían afuera al atrio, con
+- Eze_47:12sus hojas nunca caerán, ni faltará suH5034
+- Dan_3:23cayeron atados dentro del horno deH5308
+- Dan_7:20delante del cual habían caído tresH5308
+- Dan_8:18caí dormido en tierra sobre mi rostroH7290
+- Dan_9:11ha caído sobre nosotros la maldición yH5413
+- Dan_10:9al oír...caí sobre mi rostro en...sueño
+- Dan_11:14se levantarán para...pero ellos caeránH3782
+- Dan_11:19tropezará y caerá, y no será halladoH5307
+- Dan_11:26destruido, y caerán muchos muertosH5307
+- Dan_11:33por algunos días caerán a espada y aH3782
+- Dan_11:35algunos de los sabios caerán para serH3782
+- Dan_11:41entrará a...y muchas provincias caeránH3782
+- Ose_4:5caerás por tanto en el día...destruiréH3782
+- Ose_4:5caerá...contigo el profeta de nocheH3782
+- Ose_4:14por...el pueblo sin entendimiento caeráH3832
+- Ose_7:7cayeron todos sus reyes; no hay entreH5307
+- Ose_7:12les haré caer como aves del cielo, lesH3381
+- Ose_7:16cayeron sus príncipes a espada por laH5307
+- Ose_10:8y a los collados: Caed sobre nosotrosH5307
+- Ose_11:6caerá espada sobre sus ciudades...aldeasH2342
+- Ose_13:16Samaria será asolada...caerán a espadaH5307
+- Ose_14:1vuelve...porque por tu pecado has caídoH3782
+- Ose_14:9porque...los rebeldes caerán en ellosH3782
+- Joe_2:8cayendo sobre la espada no se heriránH5307
+- Amó_3:5¿caerá el ave en lazo sobre la tierraH5307
+- Amó_3:14los cuernos del altar, y caerán a tierraH5307
+- Amó_5:2cayó la virgen de Israel, y no podráH5307
+- Amó_7:17tus hijos y tus hijas caerán a espadaH5307
+- Amó_8:14juran...caerán, y nunca...se levantaránH5307
+- Amó_9:9como se zarandea...y no cae un granitoH5307
+- Amó_9:11levantaré el tabernáculo caído de DavidH5307
+- Jon_1:7suertes, y la suerte cayó sobre JonásH5307
+- Miq_7:8aunque caí, me levantaré; aunque moreH5307
+- Nah_3:12si las sacuden, caen en la boca delH5307
+- Hab_2:17la rapiña del Líbano caerá sobre tiH3680
+- Zac_11:2aúlla...porque el cedro cayó, porqueH5307
+- Zac_14:7sucederá que al caer la tarde habrá luzH6153
+- Mat_5:29-30si tu...te es ocasión de caerG4624
+- Mat_7:25contra aquella casa; y no cayó porqueG4098
+- Mat_7:27vientos...y cayó y fue grande su ruinaG4098
+- Mat_10:29uno de ellos cae a tierra sin vuestroG4098
+- Mat_12:11y si ésta cayere en un hoyo en día deG1706
+- Mat_13:4parte...semilla cayó junto al caminoG4098
+- Mat_13:5parte cayó en pedregales, donde noG4098
+- Mat_13:7parte cayó entre espinos, y los espinosG4098
+- Mat_13:8pero parte cayó en buena tierra, y dioG4098
+- Mat_15:14si el ciego guiare...caerán en el hoyoG4098
+- Mat_15:27los perrillos comen...migajas que caenG4098
+- Mat_17:15muchas veces cae en el fuego, y en elG4098
+- Mat_18:8tu mano o tu pie te es ocasión de caerG4624
+- Mat_18:9si tu ojo te es ocasión de caer, sácaloG4624
+- Mat_21:44que cayere sobre...sobre quien ella cG4098
+- Mat_24:29las estrellas caerán del cielo, y lasG4098
+- Mar_3:10cuantos tenían plagas caían sobre élG1968
+- Mar_4:4que una parte cayó junto al camino, yG4098
+- Mar_4:5otra parte cayó en pedregales, donde noG4098
+- Mar_4:7parte cayó entre espinos, y los espinosG4098
+- Mar_4:8otra parte cayó en buena tierra, y dioG4098
+- Mar_9:20quien cayendo en tierra se revolcabaG4098
+- Mar_9:43, Mar_9:45, Mar_9:47tu...te fuere ocasión de caerG4624
+- Mar_13:25las estrellas caerán del cielo, y lasG1601
+- Luc_5:8cayó de rodillas ante Jesús, diciendoG4363
+- Luc_6:39un ciego...¿no caerán ambos en el hoyo?[[G4098]]
+- Luc_6:49cayó y fue grande la ruina de aquellaG4098
+- Luc_8:5una parte cayó junto al camino, y fueG4098
+- Luc_8:6parte cayó sobre la piedra; y nacida, seG4098
+- Luc_8:7parte cayó entre espinos, y los espinosG4098
+- Luc_8:8parte cayó en buena tierra, y nacióG4098
+- Luc_8:14la que cayó entre espinos, éstos sonG4098
+- Luc_8:15la que cayó en buena tierra, éstos son
+- Luc_10:18a Satanás caer del cielo como un rayoG4098
+- Luc_10:30cayó en manos de ladrones, los cualesG4045
+- Luc_10:36prójimo del que cayó en manos de losG1706
+- Luc_11:17una casa dividida contra sí misma, caeG4098
+- Luc_13:4sobre los cuales cayó la torre en SiloéG4098
+- Luc_14:5si su asno o su buey cae en algún pozoG1706
+- Luc_16:21migajas que caían de la mesa del ricoG4098
+- Luc_20:18todo el que cayere sobre aquella piedraG4098
+- Luc_20:18sobre quien...cayere le desmenuzaráG4098
+- Luc_21:24caerán a filo de espada, y...cautivosG4098
+- Luc_22:44gotas de sangre que caían hasta laG2597
+- Luc_23:30a los montes: Caed sobre nosotrosG4098
+- Jua_12:24el grano de trigo no cae en la tierraG4098
+- Jua_18:6retrocedieron, y cayeron a tierraG4098
+- Hec_1:18cayendo de cabeza, se reventó por laG1096
+- Hec_1:25de este ministerio...de que cayó JudasG3845
+- Hec_1:26suertes, y la suerte cayó sobre MatíasG4098
+- Hec_5:5al oir Ananías estas palabras, cayó yG4098
+- Hec_5:10ella cayó a los pies de él, y expiróG4098
+- Hec_5:15su sombra cayese sobre alguno de ellosG1982
+- Hec_9:4cayendo en tierra, oyó una voz...le decíaG4098
+- Hec_9:18le cayeron de los ojos como escamasG634
+- Hec_10:44el Espíritu Santo cayó sobre todos losG1968
+- Hec_11:15cayó el Espíritu Santo sobre ellosG1968
+- Hec_12:7las cadenas se le cayeron de las manosG1601
+- Hec_13:11cayeron sobre él oscuridad y tinieblasG1968
+- Hec_15:16tabernáculo de David, que está caídoG4098
+- Hec_20:9vencido del sueño cayó del tercer pisoG4098
+- Hec_22:7caí al suelo, y oí una voz que me decíaG4098
+- Hec_26:14habiendo caído...en tierra, oí una vozG2667
+- Hec_28:2a causa de la lluvia que caía, y del
+- Hec_28:6se hinchase, o cayese muerto de repenteG2667
+- Rom_11:11¿han tropezado los...para que cayesen?[[G4098]]
+- Rom_11:22la severidad...para con los que cayeronG4098
+- Rom_14:4para su propio señor está en pie, o caeG4098
+- Rom_14:13no poner...ocasión de caer al hermanoG4625
+- Rom_15:3los vituperios de los...cayeron sobre míG1968
+- 1Co_8:13si la comida le es...ocasión de caerG4624
+- 1Co_10:8fornicaron, y cayeron en un día 23.000G4098
+- 1Co_10:12piensa estar firme, mire que no caigaG4098
+- Gál_5:4de Cristo...de la gracia habéis caídoG1601
+- 1Ti_3:6no sea que...caiga en la condenaciónG1706
+- 1Ti_3:7que no caiga en descrédito y en lazo del
+- 1Ti_6:9quieren enriquecerse caen en tentación
+- Heb_3:17cuyos cuerpos cayeron en el desiertoG4098
+- Heb_4:11ninguno caiga en semejante ejemplo deG4098
+- Heb_6:7que bebe la lluvia que...cae sobre ellaG2064
+- Heb_10:31¡horrenda cosa es caer en manos delG1706
+- Heb_11:30por la fe cayeron los muros de JericóG4098
+- Heb_12:12por lo cual, levantad las manos caídasG3935
+- Stg_1:11la hierba se seca, su flor se cae, yG1601
+- Stg_5:12no, para que no caigáis en condenaciónG4098
+- 1Pe_1:24la hierba se seca, y la flor se caeG1601
+- 1Pe_2:8piedra de tropiezo, y roca que hace caerG4625
+- 2Pe_1:10haciendo estas cosas, no caeréisG4417
+- 2Pe_3:17arrastrados por el error de los...caigáisG1601
+- Rev_1:17cuando le vi, caí como muerto a susG4098
+- Rev_2:5recuerda, por tanto, de dónde has caídoG1601
+- Rev_6:13las estrellas...cayeron sobre la tierraG4098
+- Rev_6:13como la higuera deja caer sus higosG906
+- Rev_6:16decían a...montes...Caed sobre nosotrosG4098
+- Rev_7:16y el sol no caerá más sobre ellos, niG4098
+- Rev_8:10tocó...y cayó del cielo una gran estrellaG4098
+- Rev_8:10y cayó sobre la tercera parte de losG4098
+- Rev_9:1vi una estrella que cayó del cielo a laG4098
+- Rev_11:11cayó gran temor sobre los que...vieronG4098
+- Rev_14:8diciendo: Ha caído ha c Babilonia, laG4098
+- Rev_16:19y las ciudades de las naciones cayeronG4098
+- Rev_16:21y cayó del cielo...un enorme granizoG2597
+- Rev_17:10cinco de ellos han caído; uno es, y elG4098
+- Rev_18:2ha caído, ha c la gran Babilonia, y seG4098

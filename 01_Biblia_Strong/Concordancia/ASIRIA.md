@@ -1,0 +1,122 @@
+---
+tipo: concordancia
+palabra: ASIRIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ASIRIA
+
+- Imperio al norte de Babilonia
+- Gén_2:14Hidekel...es el que va al oriente de AH804
+- Gén_10:11de esta tierra salió para A, y edificóH804
+- Gén_25:18está enfrente de Egipto viniendo de AH804
+- Núm_24:22echado, cuando A te llevará cautivoH804
+- Núm_24:24y afligirán a A, afligirán...a HeberH804
+- 2Re_15:19vino Pul rey de A a atacar la tierraH804
+- 2Re_15:20de cada uno 50 siclos...dar al rey de AH804
+- 2Re_15:20el rey de A se volvió, y no se detuvoH804
+- 2Re_15:29Tiglat-pileser...los llevó cautivos a AH804
+- 2Re_16:7Embajadores a Tiglat-pileser rey de AH804
+- 2Re_16:8Acaz...envió al rey de A un presenteH804
+- 2Re_16:9atendió el rey de A...subió el rey de AH804
+- 2Re_16:10a encontrar a Tiglat-pileser rey de AH804
+- 2Re_16:18los quita del...por causa del rey de AH804
+- 2Re_17:4rey de A descubrió que Oseas conspirabaH804
+- 2Re_17:4y no pagaba tributo al rey de A, como loH804
+- 2Re_17:4el rey de A le detuvo, y le aprisionó enH804
+- 2Re_17:5rey de A invadió todo el país, y sitióH804
+- 2Re_17:6el rey de A...llevó a Israel cautivo a AH804
+- 2Re_17:23Israel fue llevado cautivo de su...a AH804
+- 2Re_17:24trajo el rey de A gente de BabiloniaH804
+- 2Re_17:26dijeron...al rey de A: Las gentes que túH804
+- 2Re_17:27rey de A mandó, diciendo: Llevad allíH804
+- 2Re_18:7él se rebeló contra el rey de A, y no leH804
+- 2Re_18:11el rey de A llevó cautivo a Israel a AH804
+- 2Re_18:13subió Senaquerib rey de A contra todasH804
+- 2Re_18:14envió a decir al rey de A que estaba enH804
+- 2Re_18:14y el rey de A impuso a Ezequías rey deH804
+- 2Re_18:16quitó el oro de...y lo dio al rey de AH804
+- 2Re_18:17el rey de A envió contra el rey EzequíasH804
+- 2Re_18:19les dijo el...Así dice el gran rey de AH804
+- 2Re_18:23que des rehenes a mi señor, el rey de AH804
+- 2Re_18:28la palabra del gran rey, el rey de AH804
+- 2Re_18:30ciudad no será...en mano del rey de AH804
+- 2Re_18:31así dice el rey de A: Haced conmigo pazH804
+- 2Re_18:33ha librado su tierra de...del rey de A?[[H804]]
+- 2Re_19:6han blasfemado los siervos del rey de AH804
+- 2Re_19:8al rey de A combatiendo contra LaquisH804
+- 2Re_19:10no será entregada en mano del rey de AH804
+- 2Re_19:11oído lo que han hecho los reyes de A aH804
+- 2Re_19:17que los reyes de A han destruido lasH804
+- 2Re_19:20me pediste acerca de...rey de A, he oídoH804
+- 2Re_19:32dice Jehová...del rey de A: No entraráH804
+- 2Re_19:36Senaquerib rey de A se fue, y volvió aH804
+- 2Re_20:6te libraré a ti y...de mano del rey de AH804
+- 2Re_23:29Necao rey de...subió contra el rey de AH804
+- 2Cr_28:16envió a pedir el...a los reyes de AH804
+- 2Cr_30:6quedado de la mano de los reyes de AH804
+- 2Cr_32:4han de hallar los reyes de A muchas aguasH804
+- 2Cr_32:7ni tengáis miedo del rey de A, ni de todaH804
+- 2Cr_32:11Dios nos librará de la...del rey de A?[[H804]]
+- 2Cr_32:21destruyó...en el campamento del rey de AH804
+- 2Cr_32:22así salvó...de las manos de...rey de AH804
+- Esd_4:2desde los días de Esar-hadón rey de AH804
+- Esd_6:22y había vuelto el corazón del rey de AH804
+- Neh_9:32los días de los reyes de A hasta esteH804
+- Isa_7:17Jehová hará venir sobre ti...rey de AH804
+- Isa_7:18a la abeja que está en la tierra de AH804
+- Isa_7:20esto es con el rey de A, cabeza y pelo deH804
+- Isa_8:4y los despojos de...delante del rey de AH804
+- Isa_8:7esto es, al rey de A con todo su poderH804
+- Isa_10:5oh A, vara y báculo de mi furor, en suH804
+- Isa_10:12de la soberbia del corazón del rey de AH804
+- Isa_10:24mío, morador de Sion, no temas de AH804
+- Isa_11:11de su pueblo que aún quede en A, EgiptoH804
+- Isa_11:16habrá camino para...el que quedó de AH804
+- Isa_19:23calzada de Egipto a A...y egipcios en AH804
+- Isa_19:24Israel será tercero con Egipto y con AH804
+- Isa_20:1lo envió Sargón rey de A, y peleó contraH804
+- Isa_20:4así llevará el rey de A a los cautivosH804
+- Isa_20:6acogimos...para ser libres de...rey de AH804
+- Isa_23:13este pueblo no existía; A la fundó paraH804
+- Isa_27:13vendrán...esparcidos en la tierra de AH804
+- Isa_30:31A que hirió con vara...será quebrantadaH804
+- Isa_31:8entonces caerá A por espada no de varónH804
+- Isa_36:1Senaquerib rey de A subió contra todasH804
+- Isa_36:2rey de A envió al Rabsaces con un granH804
+- Isa_36:4el rey de A, dice así: ¿Qué confianza esH804
+- Isa_36:8yo te ruego que des rehenes al rey de AH804
+- Isa_36:13las palabras del gran rey, el rey de AH804
+- Isa_36:15no será entregada...manos del rey de AH804
+- Isa_36:16así dice el rey de A: Haced conmigo pazH804
+- Isa_36:18libraron los...de la mano del rey de A?[[H804]]
+- Isa_37:4rey de A su señor envió para blasfemarH804
+- Isa_37:6han blasfemado los siervos del rey de AH804
+- Isa_37:8al rey de A que combatía contra LaquisH804
+- Isa_37:10no será entregada en mano del rey de AH804
+- Isa_37:11oíste lo que han hecho los reyes de AH804
+- Isa_37:18reyes de A destruyeron todas las tierrasH804
+- Isa_37:21de lo que me rogaste sobre...rey de AH804
+- Isa_37:33así dice Jehová acerca del rey de A: NoH804
+- Isa_37:37entonces Senaquerib rey de A se fue, eH804
+- Isa_38:6y te libraré a ti...de mano del rey de AH804
+- Jer_2:18¿y qué tienes tú en el camino de AH804
+- Jer_2:36de Egipto, como fuiste avergonzada de AH804
+- Jer_50:17rey de A lo devoró primero...lo deshuesóH804
+- Jer_50:18castigo al...como castigué al rey de AH804
+- Eze_23:23y todos los de A con ellos; jóvenesH804
+- Eze_27:23mercaderes de Sabá, de A y de QuilmadH804
+- Eze_32:22allí está A con toda su multitudH804
+- Ose_5:13irá entonces Efraín a A, y enviará alH804
+- Ose_7:11Efraín...llamarán a Egipto, acudirán a AH804
+- Ose_8:9subieron a A, como asno montés para síH804
+- Ose_9:3sino que volverá Efraín a Egipto y a AH804
+- Ose_10:6llevado a A como presente al rey JarebH804
+- Ose_11:11y de la tierra de A como paloma; y losH804
+- Miq_5:6devastarán la tierra de A a espada, yH804
+- Miq_7:12ese día vendrán hasta ti desde A y lasH804
+- Nah_3:18durmieron tus pastores, oh rey de AH804
+- Sof_2:13extenderá su mano...destruirá a A, yH804
+- Zac_10:10y los recogeré de A; y los traeré aH804
+- Zac_10:11la soberbia de A será derribada, y seH804

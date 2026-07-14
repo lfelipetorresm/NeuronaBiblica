@@ -1,0 +1,156 @@
+---
+tipo: concordancia
+palabra: MEJOR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MEJOR
+
+- Gén_23:6en lo m de nuestros sepulcros sepultaH4005
+- Gén_29:19m es que te la dé a ti, y no que la déH2896
+- Gén_43:11de lo m de la tierra en vuestros sacosH2173
+- Gén_45:23diez asnos cargados de lo m de EgiptoH2898
+- Gén_47:6en lo m de la tierra haz habitar a tuH4315
+- Gén_47:11les dio posesión...en lo m de la tierraH4315
+- Éxo_14:12m nos fuera servir a los egipcios, queH2896
+- Éxo_22:5lo m de su campo y de lo m de su viñaH4315
+- Núm_11:18¡ciertamente m nos iba en Egipto!
+- Núm_14:3¿no nos sería m volvernos a Egipto?[[H2896]]
+- Núm_18:29de todo lo m de...ofreceréis la porciónH2459
+- Núm_18:30cuando ofreciereis lo m de ellos, seráH2459
+- Núm_18:32cuando hubiereis ofrecido la m parteH2459
+- Deu_32:14carneros de...con lo m del trigo
+- Deu_33:13con lo m de los cielos, con el rocíoH4022
+- Deu_33:16y con las m dádivas de la tierra y suH4022
+- Deu_33:21escoge lo m de la tierra para sí
+- Jue_8:2¿no es el rebusco...in que la vendimiaH2896
+- Jue_9:2¿qué os parece m, que os gobiernen 70H2896
+- Jue_11:25¿eres tú ahora m en algo que Balac hijoH2896
+- Jue_18:19¿es m que seas tú sacerdote en casa deH2896
+- Rut_2:22y Noemí respondió a Rut...M es, hijaH2896
+- Rut_3:10has hecho m tu postrera bondad que la
+- 1Sa_1:8dijo...¿No te soy yo m que diez hijos?[[H2896]]
+- 1Sa_8:14tomará lo m de vuestras tierras...viñasH2896
+- 1Sa_8:16tomará...vuestros m jóvenes, y...asnosH2896
+- 1Sa_15:9el pueblo perdonaron a Agag, y a lo m deH4315
+- 1Sa_15:15el pueblo perdonó lo m de las ovejasH4315
+- 1Sa_15:22ciertamente el obedecer es m que losH2896
+- 1Sa_15:28lo ha dado a un prójimo tuyo m que túH2896
+- 1Sa_16:23y Saúl tenía alivio y estaba m, y elH2895
+- 1Sa_27:1nada...será m que fugarme a la tierra deH2896
+- 1Sa_29:4¿con qué cosa volvería m a la gracia de
+- 2Sa_14:32vine de...M me fuera estar aún alláH2896
+- 2Sa_17:14el consejo de Husai arquita es m que elH2896
+- 2Sa_18:3m que tú nos des ayuda desde la ciudadH2896
+- 1Re_2:32dado muerte a dos varones...m que élH2896
+- 1Re_19:4basta...pues no soy yo m que mis padresH2896
+- 1Re_21:2daré...otra viña m...o si m te pareciereH2896
+- 2Re_5:12¿no son m que...las aguas de Israel?[[H2896]]
+- 2Re_10:3al m y...de los hijos de vuestro señorH2896
+- 2Cr_21:13has dado muerte a...eran m que túH2896
+- Est_1:19y el rey haga...que sea m que ellaH2896
+- Est_2:9llevó...a lo m de la casa de las mujeresH2896
+- Job_7:15 así mi alma tuvo por m la
+- Job_28:18la sabiduría es m que las piedras preciosas
+- Sal_37:16m es lo poco del justo, que lasH2896
+- Sal_63:3m es tu misericordia que la vida; misH2896
+- Sal_81:16sustentaría Dios con lo m del trigoH2459
+- Sal_84:10porque m es un día en tus atrios queH2896
+- Sal_118:8-9m es confiar en Jehová que confiarH2896
+- Sal_119:72m me es la ley de tu boca que...oroH2896
+- Sal_147:14él...te hará saciar con lo m del trigoH2549
+- Pro_3:14su ganancia es m que la...de la plataH2896
+- Pro_8:11porque m es la sabiduría que...piedrasH2896
+- Pro_8:19m es mi fruto...mi rédito m que la plataH2896
+- Pro_15:16m es lo poco con el temor de JehováH2896
+- Pro_15:17m es la comida de legumbres donde hayH2896
+- Pro_16:8m es lo poco con justicia que...frutosH2896
+- Pro_16:16m es adquirir sabiduría que oro preciadoH2896
+- Pro_16:19m es humillar el espíritu con...humildesH2896
+- Pro_16:28y el chismoso aparta a los m amigos
+- Pro_16:32m es el...tarda en airarse que el fuerteH2896
+- Pro_17:1m es un bocado seco, y en paz, que casaH2896
+- Pro_17:12m es encontrarse con una osa a la cualH408
+- Pro_19:1m es el pobre que camina en integridadH2896
+- Pro_19:22pero m es el pobre que el mentirosoH2896
+- Pro_21:9m es vivir en un rincón del terrado queH2896
+- Pro_21:19m es morar en tierra desierta que conH2896
+- Pro_25:7m es que se te diga: Sube acá, y no queH2896
+- Pro_25:24m es estar en un rincón del terrado queH2896
+- Pro_27:5m es reprensión manifiesta...amor ocultoH2896
+- Pro_27:10m es el vecino cerca...el hermano lejosH2896
+- Pro_28:6m es el pobre...camina en su integridadH2896
+- Ecl_2:24no hay cosa m...sino que coma y bebaH2896
+- Ecl_2:25comerá, y quién se cuidará, m que yo?[[H2351]]
+- Ecl_3:12no hay para ellos cosa m que alegrarseH2896
+- Ecl_3:22no hay cosa m...alegrarse en su trabajoH2896
+- Ecl_4:9m son dos que uno, porque tienen m pagaH2896
+- Ecl_4:13m es el muchacho pobre y sabio, que elH2896
+- Ecl_5:5m es que no prometas, y no...y no cumplasH2896
+- Ecl_6:3careció...digo que un abortivo es m que élH2896
+- Ecl_7:1m es la buena fama que el buen ungüentoH2896
+- Ecl_7:1y m el día de la muerte que el día del
+- Ecl_7:2m es ir a la casa del luto que a la casaH2896
+- Ecl_7:3m es el pesar que la risa; porque con laH2896
+- Ecl_7:5m es oír la reprensión del sabio que laH2896
+- Ecl_7:8m es el fin del negocio que su principioH2896
+- Ecl_7:8m es el sufrido de espíritu que el altivoH2896
+- Ecl_7:10los tiempos pasados fueron m que estosH2896
+- Ecl_9:4porque m es perro vivo que león muertoH2896
+- Ecl_9:16m es la sabiduría que la fuerza, aunqueH2896
+- Ecl_9:17palabras del sabio...son m que el clamor
+- Ecl_9:18m es la sabiduría que...armas de guerraH2896
+- Ecl_11:6porque no sabes cual es lo m, si esto oH3787
+- Cnt_1:2porque m son tus amores que el vinoH2896
+- Cnt_4:10¡cuánto m que el vino tus amores, y elH2896
+- Isa_56:5les daré...nombre m que el de hijos eH2896
+- Jer_18:14hizo otra...le pareció m hacerla
+- Jer_26:14haced de mí como m y más recto osH2896
+- Jer_40:4vé a donde m y más cómodo te parezca irH2896
+- Eze_31:16árboles escogidos...los m del LíbanoH2896
+- Dan_1:15rostro de ellos m y más robusto queH2896
+- Dan_1:20halló diez veces m que todos los magosH3027
+- Ose_2:7volveré...m me iba entonces que ahoraH2896
+- Amó_6:2ved si son aquellos reinos mH2896
+- Jon_4:3porque m me es la muerte que la vidaH2896
+- Jon_4:8m sería para mí la muerte que la vidaH2896
+- Miq_7:4el m de ellos es como el espino; el másH2896
+- Nah_3:8¿eres tú m que Tebas...junto al NiloH3190
+- Mat_5:29-30m te es que se pierda uno de tusG4851
+- Mat_18:6m le fuera que se le colgase al cuelloG4851
+- Mat_18:8m te es entrar en la vida cojo o mancoG2570
+- Mat_18:9m te es entrar con un solo ojo en la vidaG2570
+- Mar_9:42m le fuera si se le atase una piedraG2570, [[G3123]]
+- Mar_9:43m te es entrar en la vida manco, queG2570
+- Mar_9:45m te es entrar en la vida cojo, queG2570
+- Mar_9:47m...entrar en el reino de Dios con un ojoG2570
+- Luc_5:39el nuevo; porque dice: El añejo es mG5543
+- Luc_15:22sacad el m vestido, y vestidle; y ponedG4413
+- Luc_17:2m le fuera que se le atase al cuello unaG3081
+- Jua_4:52a qué hora había comenzado a estar mG2866
+- Hec_27:36entonces todos, teniendo ya m ánimo
+- Rom_2:18e instruido por la ley apruebas lo mG1308
+- Rom_3:9¿qué, pues? ¿Somos nosotros m que ellos?[[G4284]]
+- 1Co_7:9m es casarse que estarse quemandoG2909
+- 1Co_7:38y el que no la da en casamiento hace mG2908
+- 1Co_11:17no os congregáis para lo m, sino paraG2909
+- 1Co_12:31procurad, pues, los dones m. Mas yo osG2909
+- Flp_1:10para que aprobéis lo m, a fin de queG1308
+- Flp_1:23y estar con Cristo, lo...es muchísimo mG2909
+- 1Ti_6:2sírvanles m...son creyentes y amados
+- 2Ti_1:18cuánto nos ayudó...tú lo sabes mG957
+- Heb_6:9estamos persuadidos de cosas m, y queG2909
+- Heb_7:19de la introducción de una m esperanzaG2909
+- Heb_7:22por...Jesús es hecho fiador de un m pactoG2909
+- Heb_8:6tanto m ministerio es el suyo, cuanto esG2909
+- Heb_8:6un m pacto, establecido sobre m promesasG2909
+- Heb_9:23las cosas celestiales...con m sacrificiosG2909
+- Heb_10:34que tenéis...una m y perdurable herenciaG2909
+- Heb_11:16anhelaban una m, esto es, celestialG2909
+- Heb_11:35otros...a fin de obtener m resurrecciónG2909
+- Heb_11:40proveyendo Dios...cosa m para nosotrosG2909
+- Heb_12:9obedeceremos mucho m al Padre de losG3123
+- Heb_12:24la sangre rociada que habla m que la deG2909
+- 1Pe_3:17m es que padezcáis haciendo el bienG2909
+- 2Pe_2:21m...no haber conocido el camino de laG2909

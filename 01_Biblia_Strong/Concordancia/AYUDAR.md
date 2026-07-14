@@ -1,0 +1,114 @@
+---
+tipo: concordancia
+palabra: AYUDAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AYUDAR
+
+- Gén_49:25por el Dios de...el cual te ayudaráH5826
+- Éxo_18:4Dios de mi padre me ayudó, y me libróH5828
+- Éxo_23:5; Deu_22:4el asno...ayudarás a levantarloH5800
+- Deu_32:38levántense...os ayuden y os defiendanH5826
+- Jos_1:14pasaréis armados...y les ayudaréisH5826
+- Jos_10:4ayudadme, y combatamos a GabáonH5826
+- Jos_10:6prontamente...defendernos y ayudarnosH5826
+- 1Sa_7:12diciendo: Hasta aquí nos ayudó JehováH5826
+- 2Sa_10:11los sirios pudieren más...me ayudarásH3467
+- 2Sa_10:19los reyes que ayudaban a Hadad-ezerH5650
+- 2Sa_10:19temieron ayudar más a...hijos de AmónH3467
+- 1Re_1:7Joab...los cuales ayudaban a AdoníasH5826
+- 2Re_15:19ayudara a confirmarse en el reino
+- 1Cr_5:20fueron ayudados contra ellos, y losH5826
+- 1Cr_6:33estos, pues, con sus hijos, ayudaban
+- 1Cr_11:10y los que le ayudaron en su reino, con
+- 1Cr_12:1valientes que le ayudaron en la guerraH5826
+- 1Cr_12:17si habéis venido a mí...para ayudarmeH5826
+- 1Cr_12:18y paz...pues también tu Dios te ayudaH5826
+- 1Cr_12:19David no les ayudó, porque los jefesH5826
+- 1Cr_12:21ayudaron a David contra la banda deH5826
+- 1Cr_15:26y ayudando Dios a los levitas queH5826
+- 1Cr_19:12si...más fuertes que yo, tú me ayudarásH8668
+- 1Cr_19:12si...más fuertes que tú, yo te ayudaréH3467
+- 1Cr_19:19el pueblo sirio nunca más quiso ayudarH3467
+- 1Cr_22:17mandó David...que ayudasen a SalomónH5826
+- 2Cr_14:11ayúdanos, oh...en ti nos apoyamosH5826
+- 2Cr_18:31mas Josafat clamó, y Jehová lo ayudóH5826
+- 2Cr_20:23cada cual ayudó a la destrucción de suH5826
+- 2Cr_25:8poder, o para ayudar, o para derribarH5826
+- 2Cr_26:13para ayudar al rey contra los enemigosH5826
+- 2Cr_26:15fue ayudado maravillosamente, hastaH5826
+- 2Cr_28:16a pedir el rey Acaz...que le ayudasenH5826
+- 2Cr_28:21que despojó Acaz la casa...no le ayudóH5833
+- 2Cr_28:23los dioses de los...de Siria les ayudanH5826
+- 2Cr_28:23ofrecerse sacrificios a...que me ayudenH5826
+- 2Cr_29:34sus hermanos los levitas les ayudaronH2388
+- 2Cr_32:8está Jehová...para ayudarnos y pelearH5826
+- Esd_1:4ayúdenle los...de su lugar con plataH5375
+- Esd_1:6y todos...les ayudaron con plata y oroH2388
+- Esd_5:2los profetas de Dios que les ayudabanH5583
+- Esd_8:36ayudaron al pueblo y a la casa de DiosH5375
+- Esd_10:15levitas Mesulam y Sabetai les ayudaronH5826
+- Neh_3:5grandes no se prestaron para ayudarH935, [[H6677]]
+- Job_9:13abaten los que ayudan a los soberbiosH5826
+- Job_26:2¿en qué ayudaste al que no tiene poder?[[H5826]]
+- Job_31:21aunque viese que me ayudaran en laH5833
+- Sal_22:11no te alejes...no hay quien ayudeH5826
+- Sal_28:7en él confió mi corazón, y fui ayudadoH5826
+- Sal_37:40Jehová los ayudará y los librará; losH5826
+- Sal_38:22apresúrate a ayudarme, oh Señor, miH5833
+- Sal_44:26levántate para ayudarnos, y redímenosH5833
+- Sal_46:5Dios la ayudará al clarear la mañanaH5826
+- Sal_54:4Dios es el que me ayuda; el Señor estáH5826
+- Sal_79:9ayúdanos, oh Dios de nuestra salvaciónH5826
+- Sal_86:17Jehová, me ayudaste y me consolasteH5826
+- Sal_94:17no me ayudara Jehová, pronto moraríaH5833
+- Sal_107:12cayeron, y no hubo quien los ayudaseH5826
+- Sal_109:26ayúdame, Jehová Dios mío; sálvameH5826
+- Sal_118:7Jehová está...entre los que me ayudanH5826
+- Sal_118:13me empujaste...pero me ayudó JehováH5826
+- Sal_119:86sin causa me persiguen; ayúdameH5826
+- Sal_119:175viva mi alma...y tus juicios me ayudenH5826
+- Isa_10:3¿a quién os acogeréis...que os ayudeH5833
+- Isa_31:3caerá el ayudador y caerá el ayudadoH5826
+- Isa_41:6cada cual ayudó a su vecino, y...hermanoH5826
+- Isa_41:10siempre te ayudaré...te sustentaré conH5826
+- Isa_41:13tu Dios...dice: No temas, yo te ayudoH5826
+- Isa_44:2Jehová...el cual te ayudará: No temasH5826
+- Isa_49:8te oí, y en el día de salvación te ayudéH5826
+- Isa_50:7Jehová el Señor me ayudará, por tantoH5826
+- Isa_50:9he aquí que Jehová el Señor me ayudaráH5826
+- Isa_63:5no había quien ayudara, y me maravilléH5826
+- Lam_1:7cuando cayó...no hubo quien la ayudaseH5826
+- Eze_12:14estuvieran alrededor...para ayudarleH5828
+- Eze_32:21los que le ayudaron, que descendieronH5826
+- Dan_10:13he aquí Miguel...vino para ayudarmeH5826
+- Dan_10:21y ninguno me ayuda contra ellos, sino
+- Dan_11:34serán ayudados de pequeño socorroH5826
+- Dan_11:45a su fin, y no tendrá quien le ayudeH5826
+- Amó_2:14y al fuerte no le ayudará su fuerzaH553
+- Zac_6:15y ayudarán a edificar el templo de
+- Mat_15:5todo aquello con que pudiera ayudarteG5623
+- Mar_7:11todo aquello con que pudiera ayudarteG5623
+- Mar_9:22misericordia de nosotros, y ayúdanosG997
+- Mar_9:24y dijo: Creo; ayuda mi incredulidadG997
+- Mar_16:20ayudándoles el Señor y confirmando laG4903
+- Luc_5:7señas...para que viniesen a ayudarlesG4815
+- Luc_10:40servir sola? Dile, pues, que me ayudeG4878
+- Hec_16:9visión...Pasa a Macedonia y ayúdanosG997
+- Hec_19:22dos de los que le ayudaban, Timoteo yG1247
+- Hec_20:35así, se debe ayudar a los necesitadosG482
+- Hec_21:28¡varones israelitas, ayudad! Este esG997
+- Rom_8:26el Espíritu nos ayuda en...debilidadG4878
+- Rom_8:28todas las cosas les ayudan a bien, estoG4903
+- Rom_15:30os ruego...ayudéis orando por mí a DiosG4865
+- Rom_16:2que la ayudéis en cualquier cosa en queG3936
+- Rom_16:2ella ha ayudado a muchos, y a mí mismoG4368
+- 1Co_12:28los que ayudan, los que administranG484
+- 1Co_16:16y a todos los que ayudan y trabajanG4903
+- Efe_4:16coyunturas que se ayudan mutuamenteG2024
+- Flp_4:3que ayudes a éstas que combatieronG4815
+- Col_4:11los únicos...que me ayudan en el reinoG4904
+- 2Ti_1:18y cuánto nos ayudó en Éfeso, tú loG1247
+- Rev_12:16pero la tierra ayudó a la mujer, puesG997

@@ -1,0 +1,156 @@
+---
+tipo: concordancia
+palabra: SANTIFICAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SANTIFICAR
+
+- Gén_2:3bendijo...día séptimo, y lo santificóH6942
+- Éxo_19:10y santifícalos hoy y mañana: y lavenH6942
+- Éxo_19:14descendió Moisés...santificó al puebloH6942
+- Éxo_19:22se santifiquen los sacerdotes que seH6942
+- Éxo_19:23señala límites al monte, y santifícaloH6942
+- Éxo_20:8acuérdate del día de...para santificarloH6942
+- Éxo_20:11bendijo el día de reposo y lo santificóH6942
+- Éxo_28:41los consagrarás y santificarás, paraH6942
+- Éxo_29:21él será santificado, y sus vestidurasH6942
+- Éxo_29:36el altar...lo ungirás para santificarloH6942
+- Éxo_29:37que tocare el altar, será santificadaH6942
+- Éxo_29:37santificarás, y será un altar santísimoH6944
+- Éxo_29:43lugar será santificado con mi gloriaH6942
+- Éxo_29:44santificaré el tabernáculo...s...a AarónH6942
+- Éxo_30:29que tocare en ellos, será santificadoH6942
+- Éxo_31:13sepáis...yo soy Jehová que os santificoH6942
+- Éxo_40:9lo santificarás con todos sus utensiliosH6942
+- Éxo_40:10santificarás el altar, y será un altarH6942
+- Éxo_40:11ungirás la fuente y...y la santificarásH6942
+- Lev_6:18que tocare en ellas será santificadaH6942
+- Lev_6:27lo que tocare su carne, será santificadoH6942
+- Lev_8:10ungió el tabernáculo y...y las santificóH6942
+- Lev_8:11la fuente y su base, para santificarlosH6942
+- Lev_8:12del aceite...lo ungió para santificarloH6942
+- Lev_8:15lo santificó para reconciliar sobre élH6942
+- Lev_8:30santificó a Aarón y sus vestiduras, y aH6942
+- Lev_10:3los que a mí se acercan me santificaréH6942
+- Lev_11:44santificaréis, y seréis santos, porqueH6942
+- Lev_16:19lo santificará de las inmundicias de losH6942
+- Lev_20:7santificaos, pues, y sed santos, porqueH6942
+- Lev_20:8guardad mis...Yo Jehová que os santificoH6942
+- Lev_21:8le santificarás, por tanto...santo seráH6942
+- Lev_21:8santo soy yo Jehová que os santificoH6942
+- Lev_21:15, Lev_21:23yo Jehová soy el que los santificoH6942
+- Lev_21:22de las cosas santificadas, podrá comerH6944
+- Lev_22:9, Lev_22:16yo Jehová...que los santificoH6942
+- Lev_22:32sea santificado en medio de los hijosH6942
+- Lev_22:32no profanéis...Jehová que os santificoH6942
+- Lev_25:10y santificaréis el año cincuenta, yH6942
+- Núm_3:13santifiqué para mí...los primogénitosH6942
+- Núm_5:10lo santificado de cualquiera será suyoH6944
+- Núm_6:11y santificará su cabeza en aquel díaH6942
+- Núm_7:1y santificado, con todos sus utensiliosH6942
+- Núm_7:1y asimismo ungido y santificado el altarH6942
+- Núm_8:17porque mío es...los santifiqué para míH6942
+- Núm_11:18santificaos para mañana, y comeréisH6942
+- Núm_16:37los incensarios...porque son santificadosH6942
+- Núm_16:38son santificados, y serán como señal aH6942
+- Núm_18:17primogénito de vaca...santificados sonH6942
+- Núm_20:12no creísteis en mí, para santificarmeH6942
+- Núm_20:13contendieron...él se santificó en ellosH6942
+- Núm_27:14no santificándome en las aguas a ojosH6942
+- Deu_5:12guardarás el día de...para santificarloH6942
+- Deu_32:51no me santificasteis en medio de losH6942
+- Jos_3:5dijo al pueblo: Santificaos, porqueH6942
+- Jos_7:13santifica al pueblo, y dí: SantificaosH6942
+- 1Sa_7:1y santificaron a Eleazar su hijo paraH6942
+- 1Sa_16:5sí...santificaos, y venid...al sacrificioH6942
+- 1Sa_16:5santificando él a Isaí y a sus hijos, losH6942
+- 1Re_8:64santificó el rey el medio del atrioH6942
+- 1Re_9:3yo he santificado esta casa que tú hasH6942
+- 1Re_9:7casa que he santificado...yo la echaré deH6942
+- 2Re_10:20santificad un día solemne a BaalH6942
+- 1Cr_15:12levitas, santificaos, vosotros yH6942
+- 1Cr_15:14los levitas se santificaron para traerH6942
+- 1Cr_23:28purificación de toda cosa santificadaH6944
+- 1Cr_26:20, 1Cr_26:26tesoros de las cosas santificadasH6942
+- 1Cr_28:12tesorerías de las cosas santificadasH6944
+- 2Cr_5:11todos los sacerdotes...santificadosH6942
+- 2Cr_7:16he elegido y santificado esta casa, paraH6942
+- 2Cr_7:20casa que he santificado a mi nombre, yoH6942
+- 2Cr_29:5santificaos ahora, y santificad la casaH6942
+- 2Cr_29:15se santificaron, y entraron, conformeH6942
+- 2Cr_29:17a santificarse el día primero del mesH6942
+- 2Cr_29:17santificaron la casa de Jehová en ochoH6942
+- 2Cr_29:19santificado...los utensilios que en suH6942
+- 2Cr_29:34hasta que los demás...se santificaronH6942
+- 2Cr_29:34fueron más rectos...para santificarseH6942
+- 2Cr_30:3cuanto no había...sacerdotes santificadosH6942
+- 2Cr_30:8su santuario, el cual él ha santificadoH6942
+- 2Cr_30:15los sacerdotes y los...se santificaronH6942
+- 2Cr_30:17muchos en...que no estaban santificadosH6942
+- 2Cr_30:17la pascua...para santificarlos a JehováH6942
+- 2Cr_30:24sacerdotes ya se habían santificadoH6942
+- 2Cr_31:6trajeron los diezmos de lo santificadoH6944
+- 2Cr_35:6y después de santificaros, preparad aH6942
+- 2Cr_35:13había sido santificado lo cocieron enH6944
+- 2Cr_36:14la casa...la cual él había santificadoH6942
+- Neh_10:31ese día ni en otro día santificadoH6944
+- Neh_10:33y para las cosas santificadas y losH6944
+- Neh_13:22las puertas, para santificar el día delH6942
+- Job_1:5convite, Job enviaba y los santificabaH6942
+- Isa_5:16y el Dios Santo será santificado conH6942
+- Isa_8:13Jehová de los ejércitos, a él santificadH6942
+- Isa_29:23santificarán mi nombre; y s al Santo deH6942
+- Isa_66:17los que se santifican...en los huertosH6942
+- Jer_1:5antes que naciese te santifiqué, teH6942
+- Jer_11:15las carnes santificadas de las víctimasH6944
+- Jer_17:22sino santificad el día de reposo, comoH6942
+- Jer_17:24que santificareis el día de reposo, noH6942
+- Jer_17:27pero si no me oyereis para santificarH6942
+- Eze_20:12que yo soy Jehová que los santificoH6942
+- Eze_20:20santificad mis días de reposo, y seanH6942
+- Eze_20:41santificado en vosotros a los ojos deH6942
+- Eze_28:22ella juicios, y en ella me santifiqueH6942
+- Eze_28:25me santificaré en ellos ante los ojosH6942
+- Eze_36:23santificaré mi grande nombre, profanadoH6942
+- Eze_36:23sea santificado en vosotros delante deH6942
+- Eze_37:28y sabrán...yo Jehová santifico a IsraelH6942
+- Eze_38:16cuando sea santificado en ti, oh GogH5942
+- Eze_38:23seré...santificado, y seré conocido anteH6942
+- Eze_39:27sea santificado en ellos ante los ojosH6942
+- Eze_44:19para no santificar al pueblo con susH6942
+- Eze_44:24leyes...y santificarán mis días de reposoH6942
+- Eze_45:1será santificado en todo su territorioH6944
+- Eze_46:20al atrio...santificando así al puebloH6942
+- Eze_48:11sacerdotes santificados de los hijos deH6942
+- Joe_2:16santificad la reunión, juntad a losH6942
+- Hag_2:12carne santificada en la falda de suH6942
+- Hag_2:12tocare pan...comida, ¿será santificada?[[H6944]]
+- Mat_6:9así: Padre...santificado sea tu nombreG37
+- Mat_23:17oro, o el templo que santifica al oro?[[G37]]
+- Mat_23:19o el altar que santifica la ofrenda?[[G37]]
+- Luc_11:2Padre nuestro...cielo, santificado seaG37
+- Jua_10:36¿al que el Padre santificó y envió alG37
+- Jua_17:17santifícalos en tu verdad, tu palabraG37
+- Jua_17:19me santifico...ellos sean santificadosG37
+- Hec_20:32herencia con todos los santificadosG37
+- Hec_26:18la fe...herencia entre los santificadosG37
+- Rom_15:16ofrenda...santificada por el EspírituG37
+- 1Co_1:2a los santificados en Cristo JesúsG37
+- 1Co_6:11ya habéis sido santificados, ya habéisG37
+- 1Co_7:14el marido...es santificado en la mujerG37
+- Efe_5:26para santificarla...en el lavamiento delG37
+- 1Ts_5:23Dios de...os santifique por completoG37
+- 1Ti_4:5porque por la palabra...es santificadoG37
+- 2Ti_2:21será...santificado, útil al Señor, yG37
+- Heb_2:11porque el que santifica y los que sonG37
+- Heb_2:11que son santificados, de uno son todosG37
+- Heb_9:13si la sangre de los toros y...santificanG37
+- Heb_10:10somos santificados mediante la ofrendaG37
+- Heb_10:14hizo perfectos para...a los santificadosG37
+- Heb_10:29la sangre...en la cual fue santificadoG37
+- Heb_13:12para santificar al pueblo mediante suG37
+- 1Pe_3:15sino santificad a Dios el Señor enG37
+- Jud_1:1los llamados, santificados en Dios PadreG37
+- Rev_22:11el que es santo, santifíquese todavíaG37

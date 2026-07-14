@@ -1,0 +1,159 @@
+---
+tipo: concordancia
+palabra: PELEAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PELEAR
+
+- Éxo_1:10se una a nuestros enemigos y peleaH3898
+- Éxo_14:14Jehová peleará por vosotros...estaréisH3898
+- Éxo_14:25porque Jehová pelea por ellos contraH3898
+- Éxo_17:8vino Amalec y peleó contra Israel enH3898
+- Éxo_17:9sal a pelear contra Amalec; mañana yoH3898
+- Éxo_17:10e hizo Josué...peleando contra AmalecH3898
+- Núm_21:1peleó contra Israel, y...prisionerosH3898
+- Núm_21:23y vino a Jahaza y peleó contra IsraelH3898
+- Núm_21:33salió contra ellos Og rey...para pelearH3898
+- Núm_22:11quizá podré pelear contra él, y echarloH3898
+- Núm_31:7pelearon contra Madián, como Jehová loH6633
+- Núm_31:27partirás...botín entre los que pelearon
+- Deu_1:30vuestro Dios...él peleará por vosotrosH3898
+- Deu_1:41subiremos y pelearemos, conforme a todoH3898
+- Deu_1:42subáis, ni peleéis, pues no estoy entreH3898
+- Deu_2:32nos salió Sehón...su pueblo, para pelearH4421
+- Deu_3:1salió al encuentro Og rey de...para pelearH4421
+- Deu_3:22Dios, él es el que pelea por vosotrosH3898
+- Deu_20:4Dios va con...para pelear por vosotrosH3898
+- Deu_20:19sities a...ciudad, peleando contra ellaH3898
+- Deu_29:7salieron...para pelear, y los derrotamosH4421
+- Jos_9:2concertaron para pelear contra JosuéH3898
+- Jos_10:5cerca de Gabaón, y pelearon contra ellaH3898
+- Jos_10:14, Jos_10:42porque Jehová peleaba por IsraelH3898
+- Jos_10:25enemigos contra los cuales peleáisH3898
+- Jos_10:29Josué...a Libna; y peleó contra LibnaH3898
+- Jos_11:5se unieron...para pelear contra IsraelH3898
+- Jos_22:12se juntó toda la...a pelear contra ellosH6635
+- Jos_23:3Dios es quien ha peleado por vosotrosH3898
+- Jos_23:10Jehová...quien pelea por vosotros, comoH3898
+- Jos_24:8los amorreos...pelearon contra vosotrosH3898
+- Jos_24:9Balac...peleó contra Israel; y envió aH3898
+- Jos_24:11los moradores de Jericó pelearon contraH3898
+- Jue_1:1¿quién...subirá primero a pelear contraH3898
+- Jue_1:3sube...peleemos contra el cananeo, y yoH3898
+- Jue_1:5y hallaron a Adoni-bezec en...y pelearonH3898
+- Jue_1:9de Judá...para pelear contra el cananeoH3898
+- Jue_5:19vinieron reyes y pelearon...p los reyesH3898
+- Jue_5:20pelearon las estrellas...p contra SisaraH3898
+- Jue_9:17mi padre peleó por vosotros, y expuso suH3898
+- Jue_9:38¿no es este...Sal, pues, ahora, y peleaH3898
+- Jue_9:39y Gaal salió...y peleó contra AbimelecH3898
+- Jue_9:45y Abimelec peleó contra la ciudad...díaH3898
+- Jue_11:6para que peleemos contra los...de AmónH3898
+- Jue_11:8vengas...pelees contra los hijos de AmónH3898
+- Jue_11:9para que pelee contra los hijos de AmónH3898
+- Jue_11:20Sehón...acampó...y peleó contra IsraelH3898
+- Jue_11:27mas tú haces mal...peleando contra míH3898
+- Jue_11:32y fue Jefté...para pelear contra ellosH3898
+- Jue_12:3habéis subido hoy...para pelear conmigo?[[H3898]]
+- Jue_12:4reunió Jefté a...y peleó contra EfraínH3898
+- Jue_20:14se juntaron...para salir a pelear contraH4421
+- Jue_20:23¿volveremos a pelear con...de BenjamínH4421
+- Jue_20:28¿volveremos aún a salir...para pelearH4421
+- 1Sa_4:9oh filisteos...sed hombres, y peleadH3898
+- 1Sa_4:10pelearon, pues, los filisteos, e IsraelH3898
+- 1Sa_7:10los filisteos llegaron para pelear conH4421
+- 1Sa_13:5se juntaron para pelear contra IsraelH3898
+- 1Sa_17:9él pudiere pelear conmigo, y me venciereH3898
+- 1Sa_17:10dadme un hombre que pelee conmigoH3898
+- 1Sa_17:19Saúl y...peleando contra los filisteosH3898
+- 1Sa_17:32tu siervo...peleará contra este filisteoH3898
+- 1Sa_17:33no podrás tú...pelear con él; porqueH3898
+- 1Sa_18:17seas...y pelees las batallas de JehováH3898
+- 1Sa_19:8salió David y peleó contra los filisteosH3898
+- 1Sa_23:5a Keila, y peleó contra los filisteos, seH3898
+- 1Sa_25:28mi señor pelea las batallas de JehováH3898
+- 1Sa_28:1que...reunieron sus fuerzas para pelearH3898
+- 1Sa_28:15los filisteos pelean contra mí, y DiosH3898
+- 1Sa_29:8pelee contra los enemigos de mi señor elH3898
+- 1Sa_31:1los filisteos...pelearon contra Israel, yH3898
+- 2Sa_2:28el pueblo se detuvo, y...ni peleó másH3898
+- 2Sa_8:10había peleado con Hadad-ezer y le habíaH3898
+- 2Sa_10:13se acercó Joab...para pelear contra losH4421
+- 2Sa_10:17sirios...batalla contra David y pelearonH3898
+- 2Sa_11:17y saliendo luego...pelearon contra JoabH3898
+- 2Sa_12:26Joab peleaba contra Rabá de...de AmónH3898
+- 2Sa_21:15y pelearon con los filisteos; y DavidH3898
+- 1Re_12:24no vayáis, ni peleéis contra...IsraelH3898
+- 1Re_20:18han salido para pelear, tomadlos vivosH4421
+- 1Re_20:23si peleáremos...en la llanura, se veráH3898
+- 1Re_20:25pelearemos con ellos en campo raso, yH3898
+- 1Re_20:26vino a Afec para pelear contra IsraelH4421
+- 1Re_22:4¿quieres venir, a pelear contra Ramot deH4421
+- 1Re_22:15Micaías, iremos a pelear contra RamotH4421
+- 1Re_22:31no peleéis ni con grande ni con chicoH3898
+- 1Re_22:32vinieron contra él para pelear con élH3898
+- 2Re_3:21que los reyes subían a pelear contraH3898
+- 2Re_8:29le hicieron...cuando peleó contra HazaelH3898
+- 2Re_9:15de las heridas...peleando contra HazaelH3898
+- 2Re_10:3y pelead por la casa de vuestro señorH3898
+- 2Re_12:17Hazael rey...peleó contra Gat, y la tomóH3898
+- 2Re_14:15cómo peleó contra Amasías rey de JudáH3898
+- 1Cr_10:1los filisteos pelearon contra IsraelH3898
+- 1Cr_12:8hombres de guerra...valientes para pelearH4421
+- 1Cr_12:33Zabulón...dispuestos a pelear sin doblezH4421
+- 1Cr_12:35los de Dan, dispuestos a pelear, 28.600H4421
+- 1Cr_12:36Aser...preparados para pelear, 40.000H4421
+- 1Cr_18:10haber peleado con Hadad-ezer y...vencidoH3898
+- 1Cr_19:14se acercó Joab...para pelear contra losH4421
+- 1Cr_19:17David...pelearon contra él los siriosH3898
+- 2Cr_11:1Roboam...para pelear contra Israel yH3898
+- 2Cr_11:4no subáis, ni peleéis contra...hermanosH3898
+- 2Cr_13:12no peleéis contra Jehová el Dios deH3898
+- 2Cr_18:14¿iremos a pelear...Ramot de Galaad, oH4421
+- 2Cr_18:30no peleéis con chico ni con grande, sinoH3898
+- 2Cr_18:31lo rodearon para pelear; mas JosafatH3898
+- 2Cr_20:17no habrá para qué peleéis vosotros enH3898
+- 2Cr_20:29que Jehová había peleado contra losH3898
+- 2Cr_22:6peleando contra Hazael rey de SiriaH3898
+- 2Cr_25:8si...te esfuerzas para pelear, Dios teH4421
+- 2Cr_26:6y peleó contra los filisteos, y rompióH3898
+- 2Cr_32:8Dios para...y pelear nuestras batallasH3898
+- Neh_4:14pelead por vuestros hermanos...hijosH3898
+- Sal_35:1pelea contra los que me combatenH3898
+- Sal_56:2los que pelean contra mí con soberbiaH3898
+- Sal_109:3odio...y pelearon contra mí sin causaH3898
+- Isa_19:2y cada uno peleará contra su hermanoH3898
+- Isa_20:1el Tartán...peleó contra Asdod y la tomóH3898
+- Isa_29:7que pelean contra Ariel...p contra ellaH6633
+- Isa_29:8que pelearán contra el monte de SionH6633
+- Isa_30:32batalla tumultuosa peleará contra ellosH3898
+- Isa_31:4descenderá a pelear sobre el monte deH6633
+- Isa_63:10les volvió enemigo...peleó contra ellosH3898
+- Jer_1:19pelearán contra ti...no te venceránH3898
+- Jer_15:20pelearán contra ti pero no te venceránH3898
+- Jer_21:4las armas de...con que vosotros peleáisH3898
+- Jer_21:5pelearé contra vosotros con mano alzadaH3898
+- Jer_32:5si peleareis contra los caldeos, no osH3898
+- Jer_32:24mano de los caldeos que pelean contraH3898
+- Jer_33:5vinieron para pelear contra los caldeosH3898
+- Jer_34:1los pueblos, peleaban contra JerusalénH3898
+- Jer_34:7el ejército...peleaba contra JerusalénH3898
+- Jer_34:22pelearán contra ella y la tomarán, yH3898
+- Jer_37:10el ejército de los caldeos que peleanH3898
+- Jer_41:12fueron a pelear contra Ismael hijo deH3898
+- Jer_51:30los...de Babilonia dejaron de pelear, seH3898
+- Dan_10:20pelear contra el príncipe de PersiaH3898
+- Dan_11:11y peleará contra el rey del norte; yH3898
+- Zac_10:5pelearán, porque Jehová estará conH3898
+- Zac_14:3saldrá Jehová y peleará...como peleó enH3898
+- Zac_14:12pueblos que pelearon contra JerusalénH3898
+- Zac_14:14y Judá también peleará en JerusalénH3898
+- Jua_18:36mis servidores pelearían para que yoG75
+- 1Co_9:26peleo, no como quien golpea el aireG4438
+- 1Ti_6:12pelea la buena batalla de la fe; echaG73
+- 2Ti_4:7he peleado la...batalla, he acabado laG75
+- Rev_2:16peleará contra ellos con la espada deG4170
+- Rev_17:14pelearán contra el Cordero, y, venceráG4170
+- Rev_19:11llamada...y con justicia juzga y peleaG4170

@@ -1,0 +1,130 @@
+---
+tipo: concordancia
+palabra: VOLUNTAD
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VOLUNTAD
+
+- Gén_4:1dijo: Por v de Jehová he adquirido varón
+- Gén_23:8si tenéis v de que yo sepulte mi muertaH5315
+- Éxo_25:2de todo varón que la diere de su v, deH5068
+- Éxo_35:21aquel a quien su espíritu le dio vH5068
+- Lev_1:3fuere...de su v lo ofrecerá a la puertaH7522
+- Núm_15:3por especial voto, o de vuestra v, oH5071
+- Núm_16:28que hiciese...no las hice de mi propia vH3820
+- 1Sa_14:7vé, pues aquí estoy contigo a tu vH3824
+- 2Re_9:15si es vuestra v, ninguno escape deH5315
+- 2Re_12:4dinero que cada uno de su propia v traeH3820
+- 1Cr_13:2y si es la v de Jehová nuestro Dios
+- 1Cr_29:18conserva...v del corazón de tu puebloH3824
+- 2Cr_15:15y de toda su v lo buscaban, y fueH7522
+- 2Cr_25:20la v de Dios, que los quería entregar
+- Esd_3:7conforme a la v de Ciro rey de PersiaH7558
+- Esd_5:17envíe a decir la v del rey sobre estoH7470
+- Esd_7:18hacedlo conforme a la v de vuestro DiosH7470
+- Esd_10:11haced su v, y apartaos de los pueblosH7522
+- Neh_9:37se enseñorean sobre...conforme a su vH7522
+- Est_1:8que se hiciese según la v de cada unoH7522
+- Job_34:9de nada servirá...conformar su v a Dios
+- Sal_27:12me entregues a la v de mis enemigosH5315
+- Sal_40:8el hacer tu v, Dios mío, me ha agradadoH2654
+- Sal_41:2y no lo entregarás a la v de...enemigosH5315
+- Sal_69:13yo a ti oraba...al tiempo de tu buena vH7522
+- Sal_89:17tu buena v acrecentarás nuestro poderH7522
+- Sal_103:21todos...ministros suyos, que hacéis su vH7522
+- Sal_119:35guíame por...porque en ella tengo mi vH2654
+- Sal_143:10enséñame a hacer tu v, porque tú eresH7522
+- Pro_14:9los necios...entre los rectos hay buena vH7522
+- Pro_31:13y lino, y con v trabaja con sus manosH2656
+- Isa_48:14a quien Jehová amó ejecutará su v enH2656
+- Isa_53:10la v de Jehová será en su...prosperadaH2656
+- Isa_58:13retrajeres tu...de hacer tu v en mi díaH6027
+- Isa_58:13buscando tu v, ni hablando tus propiasH2656
+- Isa_60:10mi buena v tendré de ti misericordiaH7522
+- Isa_61:2el año de la buena v de Jehová, y el día
+- Jer_15:1si...no estaría mi v con este puebloH5315
+- Jer_34:16su siervo...habíais dejado libres a su vH5315
+- Eze_16:27y te entregué a la v de las hijas deH5314
+- Dan_1:9puso Dios a Daniel...en buena v con elH2617
+- Dan_4:35él hace según su v en el ejército delH6634
+- Dan_8:4hacía conforme a su v, y se engrandecíaH7522
+- Dan_11:3cual dominará con gran poder y hará su vH7522
+- Dan_11:16y el que vendrá contra él hará su v, yH7522
+- Dan_11:28será...hará su v, y volverá a su tierra
+- Dan_11:30y hará según su v; volverá, pues, y se
+- Dan_11:36y el rey hará su v, y se ensoberbeceráH7522
+- Hag_1:8pondré en ella mi v...seré glorificadoH5315
+- Mat_6:10hágase tu v, como en el cielo, así enG2307
+- Mat_7:21el que hace la v de mi Padre que está enG2307
+- Mat_12:50aquel que hace la v de mi Padre, ése esG2307
+- Mat_18:14no es la v de vuestro Padre que está enG2307
+- Mat_21:31cuál de los dos hizo la v de su padre?[[G2307]]
+- Mat_26:42copa sin que yo la beba, hágase tu vG2307
+- Mar_3:35aquel que hace la v de Dios, ése es miG2307
+- Luc_2:14gloria...buena v para con los hombres![[G2107]]
+- Luc_11:2tu reino...Hágase tu v, como en el cieloG2307
+- Luc_12:47que conociendo la v de su señor, no seG2307
+- Luc_12:47no se preparó, ni hizo conforme a su vG2307
+- Luc_22:42pasa...pero no se haga mi v, sino la tuyaG2307
+- Luc_23:25soltó...entregó a Jesús a la v de ellosG2307
+- Jua_1:13de v de carne, ni de v de varón, sinoG2307
+- Jua_4:34comida es que haga la v del que me envióG2307
+- Jua_5:30; Jua_6:38mi v, sino la v del que me envióG2307
+- Jua_6:39esta es la v del Padre, el que me envióG2307
+- Jua_6:40esta es la v del que me ha enviado: QueG2307
+- Jua_7:17quiera hacer la v de Dios, conocerá siG2309
+- Jua_9:31es temeroso de Dios, y hace su v, a éseG2307
+- Hec_13:36habiendo servido...según la v de DiosG1012
+- Hec_21:14desistimos, diciendo: Hágase la v delG2307
+- Hec_22:14te ha escogido para que conozcas su vG2307
+- Rom_1:10por la v de Dios, un próspero viajeG2307
+- Rom_2:18y conoces si; v, e instruido por la leyG2307
+- Rom_8:20sujetada a vanidad, no por su propia vG1635
+- Rom_8:27conforme a la v de Dios intercede por
+- Rom_9:19me dirás...¿quién ha resistido a su v?[[G1013]]
+- Rom_12:2cuál sea la buena v de Dios, agradableG2307
+- Rom_15:32llegue a vosotros por la v de Dios, yG2307
+- 1Co_1:1a ser apóstol de...por la v de DiosG2307
+- 1Co_7:37sino que es dueño de su propia v, y haG2307
+- 1Co_9:17lo hago de buena v, recompensa tendréG1635
+- 1Co_9:17pero si de mala v, la comisión me ha sidoG210
+- 1Co_16:12ninguna manera tuvo v de ir por ahoraG2307
+- 2Co_1:1Pablo, apóstol de...por la v de DiosG2307
+- 2Co_8:5dieron...luego a nosotros por la v de DiosG2307
+- 2Co_8:12porque si primero hay la v dispuestaG2309
+- 2Co_8:17su propia v partió para ir a vosotrosG830
+- 2Co_8:19Señor...y para demostrar vuestra buena vG4288
+- 2Co_9:2conozco vuestra buena v, de la cual yoG4288
+- Gál_1:4conforme a la v de nuestro Dios y PadreG2307
+- Efe_1:1Pablo, apóstol de...por la v de DiosG2307
+- Efe_1:5adoptados...según el puro afecto de su vG2307
+- Efe_1:9dándonos a conocer el misterio de su vG2307
+- Efe_1:11hace todas...según el designio de su vG2307
+- Efe_2:3la v de la carne y de los pensamientosG2307
+- Efe_5:17entendidos de cuál sea la v del SeñorG2307
+- Efe_6:6como...de corazón haciendo la v de DiosG2307
+- Efe_6:7sirviendo de buena v, como al Señor y noG2133
+- Flp_1:15por envidia...pero otros de buena vG2107
+- Flp_2:13el querer como el hacer, por su buena vG2309
+- Col_1:1Pablo, apóstol de Jesucristo por la vG2307
+- Col_1:9que seáis llenos del conocimiento de su vG2307
+- 1Ts_4:3la v de Dios es vuestra santificaciónG2307
+- 1Ts_5:18gracias en todo...esta es la v de DiosG2307
+- 2Ti_1:1Pablo, apóstol de...por la v de DiosG2307
+- 2Ti_2:26lazo...en que están cautivos a v de élG2307
+- Heb_2:4repartimientos del Espíritu...según su vG2308
+- Heb_10:7, Heb_10:9que vengo, oh Dios, para hacer tu vG2307
+- Heb_10:10en esa v somos santificados medianteG2307
+- Heb_10:36habiendo hecho la v de Dios, obtengáisG2307
+- Heb_13:21os haga aptos en...para que hagáis su vG2307
+- Stg_1:18él, de su v, nos hizo nacer por laG1014
+- 1Pe_2:15es la v de Dios: que haciendo bienG2307
+- 1Pe_3:17el bien, si la v de Dios así lo quiereG2307
+- 1Pe_4:2no vivir el...sino conforme a la v de DiosG2307
+- 1Pe_4:19que los que padecen según la v de DiosG2307
+- 2Pe_1:21nunca la profecía fue traída por vG2307
+- 1Jn_2:17el que hace la v de Dios permaneceG2307
+- 1Jn_5:14si pedimos alguna cosa conforme a su vG2307
+- Rev_4:11y por tu v existen y fueron creadasG2307

@@ -1,0 +1,98 @@
+---
+tipo: concordancia
+palabra: FUENTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FUENTE
+
+- Gén_7:11fueron rotas todas las f del...abismoH4599
+- Gén_8:2y se cerraron las f del abismo y lasH4599
+- Gén_16:7halló el ángel...junto a una f de aguaH5869
+- Gén_16:7junto a la f que...en el camino de ShurH5869
+- Gén_21:19Dios le abrió los ojos, y vio una f deH875
+- Gén_24:13, Gén_24:43he aquí yo estoy junto a la f deH5869
+- Gén_24:16descendió a la f, y llenó su cántaroH5869
+- Gén_24:29corrió afuera hacia el hombre, a la fH5869
+- Gén_24:30estaba con los camellos junto a la fH5869
+- Gén_24:42llegué, pues...a la f, y dije: JehováH5869
+- Gén_24:45y descendió a la f, y sacó agua; y leH5869
+- Gén_49:22es José, rama fructífera junto a una fH5869
+- Éxo_15:27llegaron a Elim...había 12 f de aguasH5869
+- Éxo_30:18harás...una f de bronce, con su base deH3595
+- Éxo_30:28; Éxo_31:9altar del holocausto...la f y suH3595
+- Éxo_35:16todos sus utensilios y la f con su baseH3595
+- Éxo_38:8hizo la f de bronce y su base de bronceH3595
+- Éxo_39:39sus varas...utensilios, la f y su baseH3595
+- Éxo_40:7luego pondrás la f entre el tabernáculoH3595
+- Éxo_40:11asimismo ungirás la f y su base, y laH3595
+- Éxo_40:30y puso la f entre el tabernáculo deH3595
+- Lev_8:11ungió el altar...la f y su base, paraH3595
+- Lev_11:36la f...se recogen aguas serán limpiasH4599
+- Lev_20:18su f descubrió, y ella descubrió la fH4726
+- Núm_33:9doce f de aguas y setenta palmerasH5869
+- Deu_8:7tierra de arroyos, de aguas, de f y deH5869
+- Deu_33:28la f de Jacob habitará sola en tierraH5869
+- Jos_15:7pasa hasta...y sale a la f de Rogel
+- Jos_15:9hasta la f de las aguas de Neftoa, y saleH4599
+- Jos_15:19dame también f de aguas...y le dio las fH1543
+- Jos_18:15sale al...a la f de las aguas de NeftoaH4599
+- Jos_18:16y de allí desciende a la f de Rogel
+- Jue_1:15me has dado...dame también f de aguasH1543
+- Jue_1:15le dio las f de arriba y las f de abajoH1543
+- Jue_7:1Gedeón...acamparon junto a la f de HarodH5878
+- 1Sa_29:1Israel acampó junto a la f que estáH5869
+- 2Sa_17:17Jonatán y...estaban junto a la f de
+- 1Re_1:9la cual está cerca de la f de Rogel
+- 1Re_7:30basa...para venir a quedar debajo de la fH3595
+- 1Re_7:31la boca de la f entraba un codo en el
+- 1Re_7:38diez f de bronce; cada f contenía 40H3595
+- 1Re_7:38una f sobre cada una de las diez basasH3595
+- 1Re_7:40hizo Hiram f, y tenazas, y cuencos. AsíH3595
+- 1Re_7:43diez basas, y...diez f sobre las basasH3595
+- 1Re_18:5vé...a todas las f de aguas, y a todosH4599
+- 2Re_3:19cegaréis...f de aguas, y destruiréisH4599
+- 2Re_3:25cegaron...todas las f de las aguas, yH4599
+- 2Re_16:17y cortó...las basas, y les quitó las fH3595
+- 2Cr_4:6hizo...diez f, y puso 5 a la derechaH3595
+- 2Cr_4:14las basas, sobre las cuales colocó las fH3595
+- 2Cr_32:3consejo...para cegar las f de aguas queH5869
+- 2Cr_32:4y cegaron todas las f, y el arroyo queH4599
+- Neh_2:13de noche...hacia la f del Dragón y aH5869, [[H5886]]
+- Neh_2:14pasé luego a la puerta de la F, y alH5869
+- Neh_3:15Salum hijo...restauró la puerta de la FH5869
+- Neh_12:37la puerta de la F, en frente de ellosH5869
+- Job_8:17entretejiendo sus raíces junto a una f
+- Job_38:16¿has entrado tú hasta las f del mar, yH5033
+- Sal_74:15abriste la f y el río; secaste ríosH4599
+- Sal_84:6atravesando el valle de...lo cambian en fH4599
+- Sal_87:7en ella dirán: Todas mis f están en tiH4599
+- Sal_104:10tú eres el que envía las f por losH4599
+- Sal_114:8el cual cambió...en f de aguas la rocaH4599
+- Pro_5:16¿se derramarán tus f por las callesH4599
+- Pro_8:24antes que fuesen las f de...muchas aguasH4599
+- Pro_8:28cielos...cuando afirmaba las Y del abismoH5869
+- Pro_18:4arroyo que rebosa, la f de la sabiduríaH4726
+- Pro_25:26como f turbia y manantial corrompidoH4599
+- Ecl_12:6y el cántaro se quiebre junto a la fH4002
+- Cnt_4:12mía, esposa mía; f cerrada, f selladaH4599
+- Cnt_4:15f de huertos, pozo de aguas vivas, queH4599
+- Isa_12:3sacaréis con gozo aguas de las f deH4599
+- Isa_41:18f en medio de los valles; abriré en elH4599
+- Jer_2:13me dejaron a mí, f de agua viva, yH4726
+- Jer_6:7como la f nunca cesa de manar sus aguasH953
+- Jer_9:1mis ojos f de lágrimas, para que lloreH4726
+- Ose_13:15secará su manantial...se agotará su fH4599
+- Joe_3:18saldrá una f de la casa de JehováH4599
+- Mar_5:29en seguida la f de su sangre se secóG4077
+- Jua_4:14el agua...será en él una f de agua queG4077
+- 1Ti_6:5toman la piedad como f de ganancia
+- Stg_3:11¿acaso alguna f echa...agua dulce yG4077
+- Stg_3:12ninguna f puede dar agua salada y dulceG4077
+- 2Pe_2:17son f sin agua, y nubes empujadas porG4077
+- Rev_7:17y los guiará a f de aguas de vida; yG4077
+- Rev_8:10cayó sobre...y...sobre las f de las aguasG4077
+- Rev_14:7adorad a aquel que hizo...f de las aguasG4077
+- Rev_16:4derramó su copa sobre...las f de las aguasG4077
+- Rev_21:6yo le daré...de la f del agua de la vidaG4077

@@ -14,7 +14,7 @@ I. Perseverando fieles en la doctrina de los apóstoles (Hech. 2:42).
 II. La actitud de la [[iglesia]] hacia las doctrinas y mandamientos de hombres: 
  1. Probar todas las cosas (1 Tes. 5:21,22). 
  2. Con inteligencia y discernimiento aprobar las cosas que son excelentes (Fil. 1:9,10). 
- 3. Permaneced en la palabra fiel, hablar las cosas que estén de acuerdo con la sana doctrina y reprobar a los falsos maestros (Tito 1:9; 2:1). 
+ 3. Permaneced en la palabra fiel, hablar las cosas que estén de acuerdo con la [[sana doctrina]] y reprobar a los [[falsos maestros]] (Tito 1:9; 2:1). 
  4. No ser llevados ya por todo viento de doctrina (Efes. 4:14).  5. No creer a todo espíritu: probarlos para distinguir entre el espíritu de la verdad y el espíritu del error (1 Juan 4:1-6).  6. No ser llevados por enseñanza extraña: comed del altar de la verdad (Heb. 13:9-19). 
  7. Tened cuidado de no ser contaminados con las doctrinas de
 los hombres (Col. 2:8). 

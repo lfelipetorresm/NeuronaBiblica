@@ -1,0 +1,149 @@
+---
+tipo: concordancia
+palabra: ANUNCIAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ANUNCIAR
+
+- Gén_14:13vino...lo anunció a Abram el hebreoH5046
+- Éxo_9:16nombre sea anunciado en toda la tierraH5608
+- Éxo_19:3dirás...anunciarás a los hijos de IsraelH5046
+- Deu_4:13os anunció su pacto, el cual os mandóH5046
+- Deu_13:1profeta...te anunciare señal o prodigios
+- Deu_13:2se cumpliere la señal...que él te anuncióH1696
+- Jue_13:23ni ahora nos habría anunciado estoH8085
+- 1Sa_11:9vinieron...lo anunciaron a los de Jabes
+- 2Sa_1:20no lo anunciéis en Gat, ni deis lasH5046
+- 1Re_22:13una voz anuncian al rey cosas buenas
+- 1Re_22:13tu palabra...anuncia también buen éxitoH1696
+- 2Re_7:11los porteros...lo anunciaron dentroH5046
+- 2Re_23:16el varón de Dios...había anunciado estoH7121
+- 2Cr_18:12una voz anuncian al rey cosas buenas
+- Job_26:4¿a quién has anunciado palabras, y deH5046
+- Job_33:23algún...que anuncie al hombre su deber
+- Sal_19:1el firmamento anuncia la obra de sus
+- Sal_22:22anunciaré tu nombre a mis hermanos; enH5608
+- Sal_22:31vendrán, y anunciarán su justiciaH5646
+- Sal_22:31a pueblo...anunciarán que él hizo esto
+- Sal_30:9¿te alabará el...¿anunciará tu verdad?[[H5046]]
+- Sal_40:5si yo anunciare y hablare de ellos, noH5046
+- Sal_40:9he anunciado justicia en...congregaciónH3019
+- Sal_64:9temerán...y anunciarán la obra de DiosH5046
+- Sal_71:18que anuncie tu poder a la posteridad
+- Sal_75:9anunciaré, y cantaré alabanzas a DiosH5046
+- Sal_92:2anunciar por la mañana tu misericordia
+- Sal_92:15para anunciar que Jehová mi...es recto
+- Sal_96:2anunciad de día en día su salvación
+- Sal_97:6los cielos anunciaron su justicia, yH5046
+- Sal_145:4obras, y anunciará tus poderosos hechosH5046
+- Isa_41:22traigan, anúnciennos lo que ha de
+- Isa_41:26¿quién lo anunció desde el principioH5046
+- Isa_41:26cierto, no hay quien anuncie; sí no hayH5046
+- Isa_42:9anuncio cosas nuevas; antes que salganH5046
+- Isa_42:12gloria a Jehová, y anuncien sus looresH5046
+- Isa_43:12anuncié, y salvé, e hice oir, y no huboH5046
+- Isa_44:7anúncienles lo que viene, y lo que está
+- Isa_45:19yo soy Jehová que...que anuncio rectitudH5046
+- Isa_46:10anuncio lo por venir desde el principioH5046
+- Isa_48:6lo viste...¿y no lo anunciaréis vosotros?[[H5046]]
+- Isa_48:14¿quién hay...que anuncie estas cosas?[[H5046]]
+- Isa_52:7que anuncia la paz, del que trae nuevasH8085
+- Isa_58:1alza tu voz como trompeta, y anuncia a
+- Jer_4:5anunciad en Judá, y proclamad...decidH5046
+- Jer_4:20quebramiento sobre...es anunciadoH7121
+- Jer_5:20anunciad esto en las casa de Jacob, yH5046
+- Jer_6:4anunciad guerra contra ella; levantaos
+- Jer_16:10acontecerá que cuando anuncies a este
+- Jer_16:10¿por qué anuncia Jehová...todo este malH1696
+- Jer_34:15lo recto...anunciando cada uno libertad aH7121
+- Jer_36:31traeré sobre...el mal que les he anunciadoH1696
+- Jer_46:14anunciad en Egipto, y haced saber enH5046
+- Jer_48:20anunciad en Arnón...Moab es destruidoH5046
+- Jer_50:2anunciad en las naciones, y haced saberH5046
+- Jer_51:31para anunciar al rey de Babilonia que su
+- Lam_1:21harás venir el día que has anunciadoH7121
+- Dan_3:4y el pregonero anunciaba en alta vozH7123
+- Ose_7:12les castigaré conforme a lo...anunciado
+- Amó_4:13y anunciaba al hombre su pensamientoH5046
+- Jon_3:7e hizo proclamar y anunciar en NíniveH559
+- Miq_7:4viene, el que anunciaron tus atalayas
+- Nah_1:15los pies del...del que anuncia la pazH8085
+- Zac_9:12os anuncio que os restauraré el dobleH5046
+- Mat_11:5a los pobres es anunciado el evangelioG2097
+- Mat_12:18él, y a los gentiles anunciará juicio
+- Luc_3:18anunciaba las buenas nuevas al puebloG2097
+- Luc_4:43a otras ciudades anuncie el evangelio delG2097
+- Luc_7:22y a los pobres es anunciado el evangelioG2097
+- Luc_8:1iba por...anunciando el evangelio del reino
+- Luc_9:6pasaban...aldeas, anunciando el avangelioG2097
+- Luc_9:60deja...y tú vé, y anuncia el reino de DiosG1229
+- Luc_16:16el reino de Dios es anunciado, y todosG2097
+- Luc_20:1y anunciando el evangelio, llegaron losG2097
+- Jua_16:25sino que...anunciaré acerca del Padre
+- Hec_3:18cumplido...que habia antes anunciado
+- Hec_3:20Jesucristo, que os fue antes anunciadoG4296
+- Hec_3:24los profetas...han anunciado estos díasG4293
+- Hec_4:2y anunciasen en Jesús la resurrección deG2605
+- Hec_5:20anunciad al pueblo todas las palabras deG2980
+- Hec_7:52que anunciaron de...la venida del justo
+- Hec_8:4esparcidos iban...anunciando el evangelioG2097
+- Hec_8:12a Felipe, que anunciaba el evangelio delG2097
+- Hec_8:25en muchas poblaciones de...anunciaron elG2097
+- Hec_8:35Felipe...le anunció el evangelio de JesúsG2097
+- Hec_8:40anunciaba el evangelio en...las ciudadesG2097
+- Hec_10:36anunciando el evangelio de la paz porG2097
+- Hec_11:20anunciando el evangelio del Señor JesúsG2097
+- Hec_13:5anunciaban la palabra de Dios en lasG2605
+- Hec_13:32también os anunciamos el evangelio deG2097
+- Hec_13:38de él se os anuncia perdón de pecadosG2605
+- Hec_14:15os anunciamos que de estas vanidades osG2097
+- Hec_14:21y después de anunciar el evangelio aG2097
+- Hec_15:35anunciando el evangelio con otros muchosG2097
+- Hec_15:36las ciudades en que hemos anunciado laG2605
+- Hec_16:10para que les anunciásemos el evangelioG2097
+- Hec_16:17son...os anuncian el camino de salvación
+- Hec_17:3Jesús, a quien yo...anuncio...es el CristoG2605
+- Hec_17:13Berea era anunciada la palabra de DiosG2605
+- Hec_17:23al que vosotros adoraís...yo os anuncioG2605
+- Hec_20:20que fuese útil he rehuido de anunciaros
+- Hec_20:27no he rehuido anunciaros todo el concejoG312
+- Hec_21:26anunciar el cumplimiento de los días deG1229
+- Hec_26:20sino que anuncié...a los que están en
+- Hec_26:23anunciar luz al pueblo y a los gentiles
+- Rom_1:15pronto estoy a anunciaros el evangelioG2097
+- Rom_9:17que mi nombre sea anunciado por toda laG1229
+- Rom_10:15que anuncian la paz...a buenas nuevas![[G2097]]
+- Rom_15:21nunca les fue anunciado acerca de élG312
+- 1Co_2:1para anunciaros el testimonio de DiosG2605
+- 1Co_9:14ordenó el Señor a los que anuncian elG2605
+- 1Co_9:16si anuncio el evangelio, no tengo por quéG2097
+- 1Co_9:16¡ay de mí si no anunciare el evangelio![[G2097]]
+- 1Co_11:17pero al anunciaros esto que sigue, no osG3853
+- 1Co_11:26la muerte del Señor anunciáis hasta que
+- 2Co_10:16y anunciaremos el evangelio enG2097
+- Gál_1:8os anunciare otro evangelio diferenteG2097
+- Gál_1:8del que os hemos anunciado, sea anatemaG2097
+- Gál_1:11que el evangelio anunciado por mí, no esG2097
+- Gál_4:13os anuncié el evangelio al principioG2097
+- Efe_2:17vino y anunció las buenas nuevas de pazG2097
+- Efe_3:8anunciar entre los gentiles el evangelioG2097
+- Flp_1:16unos anuncian a Cristo por contenciónG2605
+- Flp_1:18de todas maneras...Cristo es anunciadoG2605
+- Col_1:25para que anuncie...la palabra del Dios
+- Col_1:28a quien anunciamos, amonestando a todoG2605
+- 1Ts_2:2para anunciaros el evangelio de DiosG2980
+- Heb_2:3habiendo sido anunciada...por el SeñorG2980
+- Heb_2:12anunciaré a mis hermanos tu nombre, enG518
+- Heb_4:2nos ha anunciado la buena nueva comoG2097
+- Heb_4:6a quienes...se les anunció la buena nuevaG2097
+- Heb_9:19anunciado Moisés todos los mandamientosG2980
+- 1Pe_1:11el cual anunciaba...los sufrimientos deG4303
+- 1Pe_1:12las cosas que ahora os son anunciadas porG312
+- 1Pe_1:25es la palabra que...os ha sido anunciadaG2097
+- 1Pe_2:9para que anunciéis las virtudes de aquelG1804
+- 1Jn_1:2os anunciamos la vida eterna, la cual
+- 1Jn_1:3lo que hemos visto y oído...os anunciamosG518
+- 1Jn_1:5este es el mensaje que...os anunciamosG312
+- Rev_10:7como él lo anunció a sus siervos losG2097

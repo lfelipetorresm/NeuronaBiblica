@@ -1,0 +1,118 @@
+---
+tipo: concordancia
+palabra: PODEROSO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PODEROSO, A
+
+- Gén_10:8Cus engendró a Nimrod...el primer p enH1368
+- Gén_26:13y se engrandeció hasta hacerse muy PH1431
+- Gén_26:16mucho más p que nosotros te has hechoH6105
+- Gén_49:24su arco se mantuvo p, y los brazos deH46
+- Éxo_14:8los...de Israel habían salido con mano pH7311
+- Núm_33:3salieron los...de Israel con mano p, aH7311
+- Deu_3:24tú has comenzado a mostrar...tu mano pH2389
+- Deu_4:34con guerra, y mano p y brazo extendidoH2389
+- Deu_6:21y Jehová nos sacó de Egipto con mano pH2389
+- Deu_7:1siete naciones mayores y más p que túH6099
+- Deu_7:8os ha sacado Jehová con mano p, y os haH2389
+- Deu_7:19la mano p y el brazo extendido con queH2389
+- Deu_9:1entrar a desposeer a naciones...más p queH6099
+- Deu_9:26pueblo...que sacaste de Egipto con mano pH2389
+- Deu_10:17Dios grande, p y temible, que no haceH1368
+- Deu_11:2ni visto...mano p, y su brazo extendidoH2389
+- Deu_11:23desposeeréis naciones grandes y más pH6093
+- Deu_32:27nuestra mano p ha hecho todo esto, yH7311
+- Jos_4:24conozcan que la mano de Jehová es pH2389
+- Jue_5:13marchó por él en contra de los pH1368
+- 1Sa_4:8¿quién nos librará...estos dioses p?[[H117]]
+- 2Sa_15:12Absalón...la conspiración se hizo pH533
+- 2Sa_22:18me libró de p enemigo, y de los queH5794
+- 1Re_19:11un...p viento que rompía los montesH2389
+- 2Re_15:20e impuso Manahem...sobre todos los pH1368
+- 2Re_24:15llevó cautivos...a los p de la tierraH193
+- 1Cr_1:10Nimrod...llegó a ser p en la tierraH1368
+- 1Cr_28:1reunió David...los más p y valientes deH1368
+- 1Cr_29:24p...prestaron homenaje al rey SalomónH1368
+- 2Cr_6:32hubiere venido...a causa...tu mano pH2389
+- 2Cr_13:21Abías se hizo más p, Tomó 14 mujeresH2388
+- 2Cr_14:11ayuda al p o al que no tiene fuerzas!
+- 2Cr_26:8a Uzías, y...se había hecho altamente pH2388
+- 2Cr_26:13el ejército de...de 307.500 guerreros pH1368
+- 2Cr_26:15porque fue ayudado...hasta hacerse pH2388
+- 2Cr_28:7Zicri, hombre p...mató a Maasías hijo deH1368
+- Esd_7:28y de todos los príncipes p del reyH1368
+- Neh_1:10los cuales redimiste...con tu mano pH2389
+- Est_1:3teniendo...a los más p de Persia y deH2428
+- Job_9:4él es sabio de corazón, y p en fuerzasH533
+- Job_12:19lleva despojados...y trastorna a los pH386
+- Job_34:20pasarán, y sin mano será quitado el pH47
+- Job_36:5es grande...es p en fuerza de sabiduríaH3524
+- Sal_18:17me libró de mi p enemigo, y de losH5794
+- Sal_22:29adorarán todos los p de la tierra; se
+- Sal_24:8Jehová el fuerte...Jehová el p en batallaH1368
+- Sal_29:1tributad a Jehová, oh hijos de los pH1121, [[H410]]
+- Sal_50:3delante de él, y tempestad p le rodearáH5794
+- Sal_52:1¿por qué te jactas de maldad, oh p?[[H1368]]
+- Sal_59:3acechando...se han juntado contra mí pH5794
+- Sal_68:33que cabalga...he aquí dará su voz, p vozH5797
+- Sal_69:4se han hecho p mis enemigos, los que meH6105
+- Sal_71:16vendré a...hechos p de Jehová el SeñorH1369
+- Sal_76:4eres tú, p más que los montes de caza
+- Sal_89:8Jehová...¿quién como tú? P eres, JehováH2626
+- Sal_89:10tu brazo p esparciste a tus enemigosH5797
+- Sal_89:19puesto el socorro sobre uno que es pH1368
+- Sal_93:4Jehová...es más p que el estruendo de lasH117
+- Sal_103:20vosotros sus ángeles, p en fortalezaH3581
+- Sal_106:2¿quién expresará las p obras de Jehová?[[H1369]]
+- Sal_112:2su descendencia será p en la tierra; laH1368
+- Sal_135:10destruyó a muchas...y mató a reyes pH6099
+- Sal_136:18mató a reyes p, porque para siempre esH117
+- Sal_145:4celebrará tus...anunciará tus p hechosH1369
+- Sal_145:12hacer saber...sus p hechos, y la gloriaH1369
+- Pro_18:18suerte pone fin...decide entre los pH6099
+- Ecl_6:10contender con Aquel que es más p queH8623
+- Ecl_7:19fortalece al sabio más que diez p queH7989
+- Isa_28:2Jehová tiene uno que es fuerte y pH3524
+- Isa_40:23él, convierte en nada a los p, y a los
+- Isa_62:8juró Jehová por su mano...por su p brazoH5797
+- Jer_20:11Jehová está conmigo como p giganteH1368
+- Jer_32:18Dios grande, p, Jehová de...ejércitosH1368
+- Eze_7:24y haré cesar la soberbia de los p, yH5794
+- Eze_17:13se llevó consigo a los p de la tierraH352
+- Eze_31:11yo lo entregaré en manos del p de lasH410
+- Eze_31:12y lo destruirán...los p de las naciones
+- Eze_32:12todos ellos serán los p de las nacionesH1368
+- Eze_32:18y despéñalo a él, y a...las naciones pH117
+- Eze_38:15a caballo, gran multitud y p ejércitoH7227
+- Dan_9:15sacaste tu pueblo...Egipto con mano pH2389
+- Dan_11:5y se hará p; su dominio será grandeH2388
+- Miq_4:3corregirá a naciones p hasta muy lejosH6099
+- Sof_3:17está en medio de ti, p, él salvaráH1368
+- Mat_3:11es más p que yo; él os bautizará enG2478
+- Mar_1:7viene tras mí el que es más p que yoG2478
+- Luc_1:49porque me ha hecho grandes cosas el pG1415
+- Luc_1:52quitó de los tronos a los p, y exaltó aG1413
+- Luc_1:69y nos levantó un p Salvador en la casaG2768
+- Luc_3:16pero viene uno más p que yo, de quienG2478
+- Luc_24:19p en obra y en palabra delante de DiosG1415
+- Hec_7:22Moisés...era p en sus palabras y obrasG1415
+- Hec_18:24varón elocuente, p en las EscriturasG1415
+- Rom_4:21p para hacer...lo que había prometidoG1415
+- Rom_11:23pues p es Dios para volverlos a injertarG1415
+- Rom_14:4p es el Señor para hacerle estar firmeG1415
+- 1Co_1:26no sois...muchos p, ni muchos noblesG1415
+- 2Co_9:8p es Dios para hacer que abunde enG1415
+- 2Co_10:4armas...no son carnales, sino p en DiosG1415
+- 2Co_13:3no es débil...sino que es p en vosotrosG1414
+- Efe_3:20a Aquel que es p para hacer todas lasG1410
+- 2Ti_1:12estoy seguro que es p para guardarG1415
+- Heb_2:18p para socorrer a los que son tentadosG1410
+- Heb_11:19que Dios es p para levantar aun de entreG1415
+- 1Pe_5:6humillaos, pues, bajo la p mano de DiosG2900
+- Jud_1:24aquel que es p para guardaros sin caídaG1410
+- Rev_6:15los p, y todo siervo...se escondieronG1415
+- Rev_18:8será quemada...porque p es Dios el SeñorG2478
+- Rev_18:21un ángel p tomó una piedra, como unaG2478

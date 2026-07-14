@@ -1,0 +1,134 @@
+---
+tipo: concordancia
+palabra: ANIMAL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ANIMAL
+
+- Gén_1:24produzca la tierra...serpientes y a deH2416
+- Gén_1:25hizo Dios a...y todo a que se arrastraH2416
+- Gén_1:26señoree...en todo a que se arrastra sobreH7431
+- Gén_2:19todo lo que Adán llamó a los a vivientesH7431
+- Gén_3:1serpiente era astuta, más que todos los aH7431
+- Gén_3:14maldita serás entre...los a del campoH7431
+- Gén_7:2de todo a limpio tomarás siete parejasH929
+- Gén_7:2de los a que no son limpios, una parejaH929
+- Gén_7:8a limpios, y de los a que no eran limpiosH929
+- Gén_7:14todos los a silvestres...a domesticadosH2416
+- Gén_8:1se acordó Dios de Noé, y de todos los aH2416
+- Gén_8:17los a que están contigo de toda carneH2416
+- Gén_8:19todos los a, y todo...salieron del arcaH2416
+- Gén_8:20de todo a limpio y de toda ave limpiaH929
+- Gén_9:2sobre todo a de la tierra, y sobre todaH2416
+- Gén_9:5de mano de todo a la demandaré, y de manoH2416
+- Gén_9:10aves, a y toda bestia de la tierra queH2416
+- Gén_9:10los que salieron del arca hasta todo aH2416
+- Gén_15:17que pasaba por entre los a divididos
+- Éxo_9:19hombre o a que se halle en el campoH929
+- Éxo_12:5el a será sin defecto, macho de un añoH7716
+- Éxo_12:29Jehová hirió a todo primogénito...los aH929
+- Éxo_13:2así de los hombres como de los a, mío esH929
+- Éxo_13:12dedicarás...todo primer nacido de tus aH929
+- Éxo_19:13tocará...sea a o sea hombre, no viviráH929
+- Éxo_22:10dado a su...a a guardar, y éste muriereH929
+- Lev_5:2hubiere tocado...cadáver de a inmundo oH2416
+- Lev_7:21la persona que tocare alguna...a inmundoH929
+- Lev_7:24la grosura de a muerto, y la grosura delH5038
+- Lev_7:25comiere grosura de a del cual se ofreceH929
+- Lev_11:2estos son los a que comeréis de entreH2416
+- Lev_11:2entre todos los a que hay sobre la tierraH929
+- Lev_11:3entre todos los a...el que tiene pezuñaH929
+- Lev_11:9de todos los a que viven en las aguas
+- Lev_11:26todo a de pezuña, pero que no tieneH929
+- Lev_11:27todos los a que andan en cuatro patasH2416
+- Lev_11:29inmundos a estos a que se mueven sobreH8318
+- Lev_11:31inmundos de entre los a que se muevenH8318
+- Lev_11:39algún a que tuviereis para comer muriereH929
+- Lev_11:42todo a que se arrastra sobre la tierra
+- Lev_11:43no hagáis abominables...con ningún a queH8318
+- Lev_11:44no contaminéis...personas con ningún aH8318
+- Lev_11:46ley acerca de...todo a que se arrastraH5315
+- Lev_11:47a que se pueden comer y los a que no seH2416
+- Lev_17:13extranjeros que...que cazare a o aveH2416
+- Lev_17:15que comiere a mortecino o despedazadoH5038
+- Lev_18:23ni con ningún a tendrás ayuntamientoH929
+- Lev_18:23ni mujer...se pondrá delante de a paraH929
+- Lev_19:19no harás ayuntar tu ganado con a de otra
+- Lev_20:16se llegare a algún a para ayuntarse conH929
+- Lev_20:16a la mujer y al a matarás; moriránH929
+- Lev_20:25diferencia entre a limpio e inmundo, yH929
+- Lev_20:25y no contaminéis...personas con los aH929
+- Lev_22:24no ofreceréis...a con testículos heridos
+- Lev_22:25ni de...tomarás estos a para ofrecerlos
+- Lev_24:18el que hiere a algún a ha de...a por aH929
+- Lev_24:21el que hiere algún a ha de restituirloH929
+- Lev_25:7y a tu a, y a la bestia que hubiere enH2416
+- Lev_27:9si fuere a de los que se ofrece ofrendaH929
+- Lev_27:10si se permutare un a por otro, él y elH929
+- Lev_27:11si fuere algún a inmundo, de que no seH929
+- Lev_27:11el a será puesto delante del sacerdoteH929
+- Lev_27:26pero el primogénito de los a, que porH929
+- Lev_27:27fuere de los a inmundos, lo rescataránH929
+- Lev_27:28y a, y de las tierras de su posesiónH929
+- Núm_3:13así de hombres como de a; míos seránH929
+- Núm_3:41los a de los levitas en lugar de todosH929
+- Núm_3:41primogénitos de los a de los hijos deH929
+- Núm_3:45los a de los levitas en lugar de sus aH929
+- Núm_8:17todo primogénito...de hombres como de aH929
+- Núm_9:12no dejarán del a sacrificado para la
+- Núm_18:15así de hombres como de a, será tuyoH929
+- Núm_18:15redimir el primogénito de a inmundoH929
+- Núm_31:30de todo a, y los darás a los levitasH929
+- Núm_31:47de las personas como de los a, y los dioH929
+- Núm_35:3y los ejidos de ellas serán para sus aH929
+- Deu_4:17figura de a alguno que...en la tierraH929
+- Deu_4:18figura de...a que se arrastre sobre laH3605
+- Deu_5:14ni ningún a tuyo, ni el extranjero queH929
+- Deu_14:4son los a que podréis comer; el buey, laH929
+- Deu_14:6y todo a...que rumiare entre los a, eseH929
+- Deu_20:14los a, y todo lo que haya en la ciudadH929
+- 1Sa_15:9y a lo mejor...de los a engordados, deH4932
+- 1Re_1:9matando Adonías...a gordos junto a laH4806
+- 1Re_1:19, 1Re_1:25ha matado...a gordos, y muchas ovejasH4806
+- 1Re_4:33disertó sobre los a, sobre las avesH929
+- Job_28:8nunca la pisaron a fieros, ni león pasóH7830
+- Job_41:33se le parezca; a hecho exento de temor
+- Sal_36:6oh Jehová, al hombre y al a conservasH929
+- Sal_50:10mía...los millares de a en los colladosH2416
+- Sal_66:15holocaustos de a engordados te ofreceréH4220
+- Sal_148:10bestia y todo a, reptiles y volátilesH929
+- Pro_30:30el león, fuerte entre todos los a, queH929
+- Ecl_3:21que el espíritu del a desciende abajoH929
+- Isa_1:11hastiado estoy de...de sebo de a gordosH4806
+- Isa_40:16ni...ni lodos sus a para el sacrificioH2416
+- Isa_43:23no me trajiste a de tus holocaustosH7716
+- Isa_46:1sus imágenes fueron puestas...a de cargaH2416
+- Jer_7:20y mi ira se derramarán...sobre los aH929
+- Jer_31:27sembraré...simiente de hombre y...de aH929
+- Jer_32:43está desierta, sin hombres y sin a, esH929
+- Jer_33:10que está desierto sin hombres y sin aH929
+- Jer_33:10sin hombre sin morador y sin a, en lasH929
+- Jer_33:12este lugar sin hombre y sin a, y enH929
+- Jer_36:29hará que no queden ni hombres ni aH929
+- Jer_50:3no habrá ni hombre ni a que en ella moreH929
+- Jer_51:62hasta no quedar en el...ni hombre ni aH929
+- Eze_29:11ni pie de a pasará por ella, ni seráH929
+- Eze_44:31ni desgarrada, así de aves como de aH929
+- Joe_2:22a del campo, no temáis; porque losH929
+- Amó_5:22ni miraré...ofrendas de...a engordadosH4806
+- Jon_3:7hombres y a...no gustan cosa alguna; noH929
+- Jon_3:8cúbranse de cilicio hombres y a, y clamenH929
+- Jon_4:11de Nínive...ciudad donde hay...muchos a?[[H929]]
+- Mal_1:8y cuando ofreceis el a ciego para el
+- Mal_2:3os echaré al...el estiércol de vuestros aH2282
+- Mat_21:5sobre un pollino, hijo de a de cargaG5268
+- Mat_22:4toros y a engordados han sido muertosG4619
+- 1Co_15:44siembra cuerpo a, resucitará cuerpoG5591
+- 1Co_15:44hay cuerpo a y hay cuerpo espiritualG5591
+- 1Co_15:46lo espiritual no es primero, sino lo aG5591
+- Heb_13:11los cuerpos de aquellos a cuya sangreG2226
+- Stg_3:15lo alto, sino terrenal, a diabólicaG5591
+- 2Pe_2:12éstos, hablando...como a irracionalesG2226
+- Jud_1:10éstos se corrompen como a irracionalesG2226

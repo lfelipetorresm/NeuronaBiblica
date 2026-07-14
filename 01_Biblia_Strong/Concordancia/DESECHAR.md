@@ -1,0 +1,100 @@
+---
+tipo: concordancia
+palabra: DESECHAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DESECHAR
+
+- Éxo_21:8la podrá vender...cuando la desechareH898
+- Lev_26:44no los desecharé, ni los abominaréH3988
+- 1Sa_8:7porque no te han desechado...me han dH3988
+- 1Sa_10:19habéis desechado hoy a vuestro Dios, queH3988
+- 1Sa_15:23desechaste...el también te ha desechadoH3988
+- 1Sa_15:26Porque desechaste la palabra de JehováH3988
+- 1Sa_15:26y Jehová te ha desechado para que noH3988
+- 1Sa_16:1habiéndolo yo desechado...que no reineH3988
+- 1Sa_16:7no mires a su parecer, ni...yo lo desechoH3988
+- 2Sa_1:21porque allí fue desechado el escudoH1602
+- 2Re_17:15desecharon sus estatutos, y el pactoH3988
+- 2Re_23:27y desecharé a esta ciudad...a JerusalénH3988
+- 1Cr_28:9mas si lo dejares, él te desecharáH2186
+- 2Cr_29:19que...había desechado el rey AcazH2186
+- Job_10:3que deseches la obra de tus manos, yH3988
+- Sal_37:8deja la ira, y desecha el enojo; noH5800
+- Sal_43:2pues que tú...¿por qué me has desechado?[[H2186]]
+- Sal_44:9pero nos has desechado, y nos has hechoH2186
+- Sal_53:5avergonzaste, porque Dios los desechóH3988
+- Sal_60:1tú nos has desechado, nos quebrantasteH2186
+- Sal_60:10oh Dios, que nos habías desechado, y noH2186
+- Sal_71:9no me deseches en el tiempo de la vejezH7993
+- Sal_74:1¿por qué, oh Dios, nos has desechadoH2186
+- Sal_77:7¿desechará el Señor para siempre, y noH2186
+- Sal_78:67desechó la tienda de José, y...de EfraínH3988
+- Sal_88:14¿por qué, oh Jehová, desechas mi alma?[[H2186]]
+- Sal_89:38mas tú desechaste y menospreciaste a tuH2186
+- Sal_102:17no habrá desechado el ruego de ellosH959
+- Sal_108:11oh Dios, que nos habías desechado, yH2186
+- Sal_118:22la piedra que desecharon...edificadoresH3988
+- Sal_119:141pequeño soy yo, y desechado, mas noH959
+- Pro_1:25sino que desechasteis todo consejo míoH6544
+- Pro_10:17pero quien desecha la reprensión, yerraH5800
+- Ecl_3:6tiempo de guardar, y tiempo de desecharH7993
+- Isa_5:24porque desecharon la ley de Jehová deH3988
+- Isa_7:15-16sepa desechar lo malo y escoger loH3988
+- Isa_8:6desechó este pueblo las aguas de SiloéH3988
+- Isa_30:12porque desechasteis esta palabra, yH3988
+- Isa_41:9te llamé, y...te, y no te desechéH3988
+- Isa_53:3desechado entre los hombres, varón deH2310
+- Jer_2:37desechó a...en quienes tú confiabasH3988
+- Jer_6:30plata desechada los...Jehová los desechóH3988
+- Jer_14:19¿has desechado enteramente a Judá?[[H3988]]
+- Jer_14:21por amor de tu nombre no nos desechesH5006
+- Jer_30:17desechada te llamaron, diciendo: EstaH5080
+- Jer_31:37yo desecharé toda la descendencia deH3988
+- Jer_33:24dos familias que Jehová ha desechado?[[H3988]]
+- Jer_33:26desecharé la descendencia de Jacob, yH3988
+- Lam_2:6en el ardor de su ira ha desechado alH5006
+- Lam_2:7desechó el Señor su altar, menospreció alH2186
+- Lam_3:31porque el Señor no desecha para siempreH2186
+- Lam_5:22nos has desechado; te has airado contraH3988
+- Eze_5:6porque desecharon mis decretos y misH3988
+- Eze_7:19arrojarán su plata...oro será desechadoH5079
+- Eze_16:45que desechó a su marido y a sus hijosH1602
+- Eze_16:45que desecharon a sus maridos y a susH1602
+- Zac_10:6serán como si no los hubiera desechadoH2186
+- Mat_21:42que desecharon los edificadores, haG593
+- Mar_6:26causa...juramento...no quiso desecharlaG114
+- Mar_8:31ser desechado por los ancianos, por losG593
+- Mar_12:10piedra que desecharon los edificadoresG593
+- Luc_6:22desechen vuestro nombre como malo, porG1544
+- Luc_7:30mas los...desecharon los designios de DiosG114
+- Luc_9:22sea desechado por los ancianos, por losG593
+- Luc_10:16y el que a vosotros desecha, a mí me dG114
+- Luc_10:16que me desecha a mi, d al que me envióG114
+- Luc_17:25y sea desechado por esta generaciónG593
+- Luc_20:17piedra que desecharon los edificadoresG593
+- Hec_7:39que le desecharon, y en sus corazonesG683
+- Hec_13:46mas puesto que la desecháis, y no osG683
+- Rom_11:1digo...¿Ha desechado Dios a su pueblo?[[G683]]
+- Rom_11:2no ha desechado Dios a su pueblo, al cualG683
+- Rom_13:12desechemos...las obras de las tinieblasG659
+- 1Co_1:19desecharé el entendimiento de losG114
+- Gál_2:21no desecho la gracia de Dios; pues siG114
+- Gál_4:14ni desechasteis por la prueba que teníaG1609
+- Efe_4:25desechando la mentira, hablad verdadG659
+- 1Ts_4:8el que desecha esto, no d a hombreG114
+- 1Ti_1:19desechando la cual naufragaron enG683
+- 1Ti_4:4y nada es de desecharse, si se toma conG579
+- 1Ti_4:7desecha las fábulas profanas y de viejasG3868
+- 2Ti_2:23pero desecha las cuestiones neciasG3868
+- Tit_3:10al...que cause divisiones...deséchaloG3868
+- Heb_12:17deseando heredar la...fue desechadoG593
+- Heb_12:25mirad que no deseches al que hablaG3868
+- Heb_12:25que desecharon al que los amonestabaG3868
+- Heb_12:25si desecháramos al que amonesta desdeG654
+- Stg_1:21desechando...inmundicia y abundanciaG659
+- 1Pe_2:1desechando, pues, toda malicia, todoG659
+- 1Pe_2:4piedra viva, desechada...por los hombresG593
+- 1Pe_2:7la piedra que...desecharon, ha venido aG593

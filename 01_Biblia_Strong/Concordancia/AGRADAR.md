@@ -1,0 +1,99 @@
+---
+tipo: concordancia
+palabra: AGRADAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AGRADAR
+
+- Gén_34:19la hija de Jacob le había agradadoH2654
+- Gén_45:16y esto agradó en los ojos de FaraónH3190, [[H5869]]
+- Éxo_21:8si no agradare a su señor, por lo cualH5869
+- Núm_14:8si Jehová se agradare de nosotros, élH2654
+- Deu_10:15de tus padres se agradó Jehová paraH2836
+- Deu_21:14no te agradare, la dejarás en libertadH2654
+- Deu_24:1si no le agradare por haber hallado enH2580
+- Jue_14:3tómame ésta por mujer...ella me agradaH3474, [[H5869]]
+- Jue_14:7y habló a la mujer; y...agradó a SansónH3474, [[H5869]]
+- Jue_17:11agradó, pues, al levita morar con aquelH2974
+- 1Sa_8:6pero no agradó a Samuel esta palabraH5869
+- 1Sa_29:6a los ojos de los príncipes no agradasH2896
+- 2Sa_3:36todo el pueblo supo esto, y le agradóH3190, [[H5869]]
+- 2Sa_3:36pues todo lo que el rey hacía agradabaH2895, [[H5869]]
+- 2Sa_22:20sacó...me libró, porque se agradó de míH2654
+- 1Re_3:10y agradó...que Salomón pidiese estoH3190, [[H5869]]
+- 1Re_10:9Dios sea bendito, que se agradó de tiH2654
+- 2Re_20:3que he hecho las cosas que te agradanH2896
+- 1Cr_28:4de entre los hijos...se agradó de míH7521
+- 1Cr_29:17sé, Dios...que la rectitud te agradaH7521
+- 2Cr_9:8Dios, el cual se ha agradado de tiH2654
+- 2Cr_10:7si...y les agradares...ellos te serviránH7521
+- 2Cr_30:4esto agradó al rey y a toda la multitudH3474, [[H5869]]
+- Neh_2:6agradó al rey enviarme, después queH3190, [[H6440]]
+- Est_1:21agradó esta palabra a los ojos del reyH3190, [[H5869]]
+- Est_2:4la doncella que agrade a los ojos del reyH3190, [[H5869]]
+- Est_2:4agradó a los ojos del rey, y lo hizo asíH3190, [[H5869]]
+- Est_2:9la doncella agradó a sus ojos, y hallóH3190, [[H5869]]
+- Est_5:14agradó esto a los ojos de Amán, e hizoH3190, [[H5869]]
+- Job_6:9que agradara a Dios quebrantarme; queH2974
+- Sal_18:19me libró, porque se agradó de míH2654
+- Sal_40:6sacrificio y ofrenda no te agrada; hasH2654
+- Sal_40:8hacer tu voluntad...Dios, me ha agradadoH2654
+- Sal_41:11en esto conoceré que te he agradado, queH2654
+- Sal_51:19entonces te agradaron los sacrificiosH2654
+- Sal_69:31agradará a Jehová más que sacrificioH3190
+- Pro_10:32del justo saben hablar lo que agradaH7522
+- Pro_11:1peso falso...mas la pesa cabal le agradaH7522
+- Ecl_2:26al hombre que le agrada, Dios le daH2896
+- Ecl_2:26le da...para darlo al que agrada a DiosH2896
+- Ecl_7:26el que agrada a Dios escapará de ellaH2896, [[H6440]]
+- Isa_38:17a ti agradó librar mi vida del hoyoH2836
+- Jer_6:20ni vuestros sacrificios me agradanH6149
+- Jer_14:10por tanto, Jehová no se agrada de ellosH7521
+- Jer_48:38a Moab como a vasija que no agradaH2656
+- Miq_6:7agradará Jehová de millares de carnerosH7521
+- Mal_1:8¿acaso se agradara de ti, o le serásH7521
+- Mal_1:9pero ¿cómo podéis agradarle, si hacéisH5375
+- Mal_2:17que decís...que hace mal agrada a JehováH2896
+- Mat_11:26sí, Padre, porque así te agradóG2107
+- Mat_12:18mi amado, en quien se agrada mi almaG2106
+- Mat_14:6la hija de...danzó...y agradó a HerodesG700
+- Mar_6:22danzó, y agradó a Herodes y a los queG700
+- Luc_10:21sí, Padre, porque así te agradóG2107
+- Jua_8:29porque...hago siempre lo que le agradaG701
+- Hec_6:5agradó la propuesta a...la multitudG700
+- Hec_10:35agrada del que le teme y hace justiciaG1184
+- Hec_12:3que esto había agradado a los judíosG701
+- Rom_8:8viven según la carne no pueden agradarG700
+- Rom_14:18en esto sirve a Cristo, agrada a DiosG2101
+- Rom_15:1los débiles, y no agradarnos a nosotrosG700
+- Rom_15:2agrade a su prójimo en lo que es buenoG700
+- Rom_15:3porque ni aun Cristo se agradó a sí mismoG700
+- 1Co_1:21agradó a Dios salvar a...creyentesG2106
+- 1Co_7:32el soltero...de cómo agradar al SeñorG700
+- 1Co_7:33tiene cuidado...de cómo agradar a su mujerG700
+- 1Co_7:34cuidado de...de cómo agradar a su maridoG700
+- 1Co_10:5de los más de ellos no se agradó DiosG2106
+- 1Co_10:33yo en todas las cosas agrado a todosG700
+- Gál_1:10¿o trato de agradar a los hombres?[[G700]]
+- Gál_1:10pues si todavía agradara a los hombresG700
+- Gál_1:15agradó a Dios que me apartó desde elG2106
+- Gál_6:12todos los que quieren agradar en la carneG2146
+- Efe_6:6los que quieren agradar a los hombresG441
+- Col_1:10agradándole en todo, llevando frutoG699
+- Col_1:19agradó al Padre que en él habitase todaG2106
+- Col_3:20obedeced...porque esto agrada al SeñorG2101
+- Col_3:22los que quieren agradar a los hombresG441
+- 1Ts_2:4no como para agradar a los hombresG700
+- 1Ts_2:15no agradan a Dios, y se oponen a todosG700
+- 1Ts_4:1cómo os conviene...agradar a Dios, asíG700
+- 2Ti_2:4a fin de agradar a aquel que lo tomóG700
+- Tit_2:9agraden en todo...no sean respondonesG1511
+- Heb_10:6, Heb_10:8expiaciones por...no te agradaronG2106
+- Heb_10:38si retrocediere, no agradará a mi almaG2106
+- Heb_11:5tuvo testimonio de haber agradado a DiosG2100
+- Heb_11:6pero sin fe es imposible agradar a DiosG2100
+- Heb_12:28agradándole con temor y reverenciaG2102
+- Heb_13:16de tales sacrificios se agrada DiosG2100
+- 1Pe_4:3para haber hecho lo que agrada a losG2307

@@ -1,0 +1,281 @@
+---
+tipo: concordancia
+palabra: HEREDAD
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HEREDAD
+
+- Gén_17:8toda la tierra de Canaán en h perpetuaH272
+- Gén_23:9me dé la cueva de...al extremo de su hH272
+- Gén_23:11te doy la h, y te doy también la cuevaH7704
+- Gén_23:13yo daré el precio de la h; tómalo deH7704
+- Gén_23:17la h de Efrón que estaba en Macpela alH7704
+- Gén_23:17la h con la cueva que estaba en ellaH7704
+- Gén_23:17todos los árboles que había en la hH7704
+- Gén_23:19sepultó Abraham...en la cueva de la hH7704
+- Gén_23:20y quedó la h y la cueva que en ella, deH7704
+- Gén_25:9Macpela, en la h de Efrón hijo de ZoharH7704
+- Gén_25:10h que compró Abraham de los hijos deH7704
+- Gén_31:14¿tenemos acaso parte o h en la casa deH5159
+- Gén_48:4daré esta tierra a tu...por h perpetuaH272
+- Gén_48:6por el nombre...serán llamados en sus hH5159
+- Gén_49:30compró Abraham...para h de sepulturaH272
+- Gén_50:13comprado Abraham...para h de sepulturaH272
+- Éxo_6:8la tierra...os la daré por h. Yo JehováH4181
+- Éxo_15:17los plantarás en el monte de tu h, enH5159
+- Éxo_32:13tierra...la tomarán por h para siempreH5157
+- Éxo_34:9y perdona nuestra...y tómanos por tu hH5157
+- Lev_20:24os la daré para que la poseáis por h
+- Núm_16:14ni nos has dado h de tierras y viñasH5159
+- Núm_18:20no tendrás h...yo soy tu parte y tu hH5157, [[H5159]]
+- Núm_18:21yo he dado...todos los diezmos...por hH5159
+- Núm_18:23no poseerán h entre...hijos de IsraelH5159
+- Núm_18:24entre los hijos de Israel no poseerán hH5159
+- Núm_18:24los levitas he dado por h los diezmosH5159
+- Núm_18:26los diezmos que os he dado de ellos...hH5159
+- Núm_26:53a estos se repartirá la tierra en hH5159
+- Núm_26:54a los más darás mayor h, y a los menosH5159
+- Núm_26:54le dará su h conforme a sus contadosH5159
+- Núm_26:56conforme...suene será repartida su hH5159
+- Núm_26:62no les había de ser dada h entre losH5159
+- Núm_27:4h entre los hermanos de nuestro padreH272
+- Núm_27:7les darás...h entre los hermanos de suH5159
+- Núm_27:7y traspasarás la h de su padre a ellasH5159
+- Núm_32:5dése esta tierra a tus siervos en h yH272
+- Núm_32:18hijos de...Israel posean cada uno su hH5159
+- Núm_32:19no tomaremos h...al otro lado del JordánH5157
+- Núm_32:19tendremos ya nuestra h a este otro ladoH5159
+- Núm_32:22esta tierra será vuestra en h delanteH272
+- Núm_32:32posesión de nuestra h será a este ladoH5159
+- Núm_34:13la tierra que se os repartirá en h porH5157
+- Núm_34:14la tribu de...de Rubén...han tomado su hH5159
+- Núm_34:15dos tribus y media tomaron su h a esteH5159
+- Núm_34:29que hiciesen la repartición de las hH5157
+- Núm_35:2a los levitas de la posesión de su hH5159
+- Núm_35:8las ciudades que dieres de la h de losH5159
+- Núm_36:3será quitada de la porción de nuestra hH5159
+- Núm_36:4la h de ellas será añadida a la h de laH5159
+- Núm_36:4así la h de ellas será quitada de la hH5159
+- Núm_36:7h...no sea traspasada de tribu en tribuH5159
+- Núm_36:7cada uno de...estará ligado a la h de laH5159
+- Núm_36:8hija que tenga h en las tribus de losH5159
+- Núm_36:8sino...posean cada uno la h de sus padresH5159
+- Núm_36:9ande la h rodando de una tribu a otraH5159
+- Núm_36:9tribus...de Israel estará ligada a su hH5159
+- Núm_36:12la h de ellas quedó en la tribu de laH5159
+- Deu_2:5he dado por h a Esaú el monte de SeirH3425
+- Deu_2:9yo he dado a Ar por h a los hijos de LotH3425
+- Deu_2:19pues a los hijos de Lot la he dado por hH3425
+- Deu_3:18Jehová...que os ha dado esta tierra por hH3423
+- Deu_3:20volveréis cada uno a la h que yo os heH3423
+- Deu_4:20seáis el pueblo de su h como en este díaH5159
+- Deu_4:21la buena tierra que Jehová...te da por hH5159
+- Deu_4:38introducirte y darte su tierra por hH5159
+- Deu_9:26oh Señor Jehová, no destruyas...a tu hH5159
+- Deu_9:29son tu pueblo y tu h, que sacaste conH5159
+- Deu_10:9Leví no tuvo parte ni h...Jehová es su hH5159
+- Deu_12:9hasta ahora no habéis entrado...a la hH5159
+- Deu_12:12por cuanto no tiene...ni h con vosotrosH5159
+- Deu_14:27al levita...no tiene parte ni h contigoH5159
+- Deu_14:29el levita, que no tiene...ni h contigoH5159
+- Deu_15:4la tierra que Jehová tu Dios te da por hH5159
+- Deu_18:1de Leví, no tendrán parte ni h en IsraelH5159
+- Deu_18:1las ofrendas...y de la h de él comeránH5159
+- Deu_18:2no tendrán...h entre sus...Jehová es su hH5159
+- Deu_19:3tierra que Jehová tu Dios te dará en hH5157
+- Deu_19:10; Deu_21:23; Deu_24:4; Deu_25:19la tierra que...te dará por hH5159
+- Deu_19:14en la h...no reducirás los límites deH5159
+- Deu_20:16ciudades...Jehová tu Dios te da por hH5159
+- Deu_29:8la dimos por h a Rubén y a Gad y a laH5159
+- Deu_32:9es su pueblo; Jacob la h que le tocóH5159
+- Deu_32:49de Canaán, que yo doy por h a...IsraelH272
+- Deu_33:4ley, como h a la congregación de JacobH4181
+- Jos_1:6tú repartirás a este pueblo por h laH5157
+- Jos_13:6repartirás tu...a los israelitas por hH5159
+- Jos_13:7reparte, pues...en h a las nueve tribusH5159
+- Jos_13:8rubenitas y gaditas...recibieron ya su hH5159
+- Jos_13:14no dio h; los sacrificios de...son su hH5159
+- Jos_13:23esta fue la h de los hijos de RubénH5159
+- Jos_13:28esta es la h de los hijos de Gad porH5159
+- Jos_13:29dio Moisés h a la media...de Manasés
+- Jos_13:32esto es lo que Moisés repartió en h enH5157
+- Jos_13:33mas a la tribu de Leví no dio Moisés hH5159
+- Jos_13:33Jehová Dios de Israel es la h de ellosH5159
+- Jos_14:1los hijos de Israel tomaron por h...de CanaánH5157
+- Jos_14:2por suerte se les dio su h, como JehováH5159
+- Jos_14:3les había dado Moisés h al otro lado delH5159
+- Jos_14:3a los levitas no les dio h entre ellosH5159
+- Jos_14:13Josué...dio a Caleb hijo...Hebrón por hH5159
+- Jos_14:14Hebrón vino a ser h de Caleb hijo deH5159
+- Jos_15:20la h de la tribu de los hijos de JudáH5159
+- Jos_16:4recibieron, pues, su h los hijos de JoséH5157
+- Jos_16:5el límite de su h...fue desde Atarot-adarH5159
+- Jos_16:8esta es la h de la tribu de...de EfraínH5159
+- Jos_16:9ciudades...en medio de la h de...ManasésH5159
+- Jos_17:4Jehová mandó a Moisés que nos diese hH5159
+- Jos_17:4les dio h entre los hermanos del padreH5159
+- Jos_17:6las hijas de Manasés tuvieron h entreH5157, [[H5159]]
+- Jos_17:14¿por qué nos has dado por h una solaH5159
+- Jos_18:4describan conforme a sus h, y vuelvan aH5159
+- Jos_18:7el sacerdocio de Jehová es la h de ellosH5159
+- Jos_18:7ya han recibido su h al otro lado delH5159
+- Jos_18:20, Jos_18:28es la h de los hijos de BenjamínH5159
+- Jos_19:1su h fue en medio de la h de los hijosH5159
+- Jos_19:2y tuvieron en su h a Beerseba, SebaH5159
+- Jos_19:8esta es la h...de los hijos de SimeónH5159
+- Jos_19:9fue sacada la h de los hijos de SimeónH5159
+- Jos_19:9tuvieron su h en medio de la de JudáH5159
+- Jos_19:10y el territorio de su h fue hasta SaridH5159
+- Jos_19:16esta es la h de los hijos de ZabulónH5159
+- Jos_19:23esta es la h...de los hijos de IsacarH5159
+- Jos_19:31esta es la h de...de los hijos de AserH5159
+- Jos_19:39esta es la h...de los hijos de NeftalíH5159
+- Jos_19:41fue el territorio de su h, Zora, EstaolH5159
+- Jos_19:48esta es la h de...de los hijos de DanH5159
+- Jos_19:49que acabaron de repartir la tierra en hH5157
+- Jos_19:49dieron...Israel h a Josué hijo de NunH5159
+- Jos_19:51las h que el sacerdote Eleazar, y JosuéH5157
+- Jos_22:7dio...h entre sus hermanos a este lado
+- Jos_24:30le sepultaron en su h en Timnat-seraH5159
+- Jue_2:6Israel se habían ido cada uno a su hH5159
+- Jue_2:9y lo sepultaron en su h en Timnat-seraH5159
+- Jue_21:23y volvieron a su h, y reedificaron lasH5159
+- Jue_21:24Israel...saliendo de allí cada uno a su hH5159
+- Rut_4:6no puedo redimir...no sea que dañe mi hH5159
+- Rut_4:10para restaurar el nombre del...sobre su hH5159
+- 1Sa_26:19que no tenga parte en la h de JehováH5159
+- 2Sa_14:16me quiere destruir...de la h de DiosH5159
+- 2Sa_20:1no tenemos...ni h con el hijo de IsaíH5159
+- 2Sa_20:19¿por qué destruyes la h de Jehová?[[H5159]]
+- 2Sa_21:3daré para que bendigáis la h de Jehová?[[H5159]]
+- 1Re_2:26vete...a tus h...eres digno de muerteH7704
+- 1Re_8:36darás lluvias...diste a tu pueblo por hH5159
+- 1Re_8:51porque ellos son tu pueblo y tu h elH5159
+- 1Re_8:53tú los apartaste para ti como h tuyaH5159
+- 1Re_12:16David? No tenemos h en el hijo de IsaíH5159
+- 1Re_21:3que yo te dé a ti la h de mis padresH5159
+- 1Re_21:4Nabot...No te daré la h de mis padresH5159
+- 2Re_9:21al cual hallaron en la h de NabotH2513
+- 2Re_9:25y échalo a un extremo de la h de NabotH2513
+- 2Re_9:26te daré la paga en esta h, dijo JehováH2513
+- 2Re_9:26tómalo, pues...échalo en la h de NabotH2513
+- 2Re_9:36en la h de Jezreel comerán los perrosH2506
+- 2Re_9:37Jezabel será como...en la h de JezreelH2506
+- 2Re_18:17acamparon...el camino de la h de LavadorH7704
+- 2Re_21:14y desampararé el resto de mi h y loH5159
+- 1Cr_7:28la h...de ellos fue Bet-el con susH272
+- 1Cr_16:18a ti daré...de Canaán porción de tu hH5159
+- 2Cr_6:27tu tierra...diste por h a tu puebloH5159
+- 2Cr_20:11viniendo a arrojarnos de la h que túH3425
+- Esd_9:12y la dejéis por h a vuestros hijosH3423
+- Neh_5:16restauré mi parte, y no compramos hH7704
+- Neh_11:20el resto de Israel...cada uno en su hH5159
+- Neh_13:10levitas...habían huido cada uno a su hH7704
+- Job_20:29h que Dios le señala por su palabraH5159
+- Job_31:2qué h el Omnipotente desde las alturas?[[H5159]]
+- Sal_16:6y es hermosa la h que me ha tocadoH5159
+- Sal_28:9salva a tu pueblo, y bendice a tu hH5159
+- Sal_33:12pueblo que él escogió como h para síH5159
+- Sal_37:18y la h de ellos será para siempreH5159
+- Sal_47:4él nos elegirá nuestras h; la hermosuraH5159
+- Sal_61:5me has dado la h de los que temen tuH3425
+- Sal_68:9Dios; a tu h exhausta tú la reanimasteH5159
+- Sal_78:55con cuerdas repartió sus tierras en hH5159
+- Sal_78:62a la espada, y se irritó contra su hH5159
+- Sal_78:71para que apacentase a...a Israel su hH5159
+- Sal_79:1oh Dios vinieron las naciones a tu hH5159
+- Sal_94:5tu pueblo...quebrantan, y a tu h afligenH5159
+- Sal_94:14no...a su pueblo, ni desamparará su hH5159
+- Sal_105:11de Canaán como porción de vuestra hH5159
+- Sal_106:5que me goce en...y me gloríe con tu hH5159
+- Sal_106:40furor de Jehová sobre...abominó su hH5159
+- Sal_111:6pueblo, dándole la h de las nacionesH5159
+- Sal_119:111por h he tomado tus testimonios paraH5157
+- Sal_125:3no reposará la vara de...sobre la h deH1486
+- Sal_135:12y dio la tierra...en h, en h a IsraelH5159
+- Sal_136:21dio la tierra de ellos en h, porqueH5159
+- Sal_136:22en h a Israel su siervo, porque paraH5159
+- Pro_8:21hacer que los que me aman tengan su hH5157
+- Pro_15:25Jehová...pero afirmará la h de la viudaH1366
+- Pro_23:10no...ni entres en la h de los huérfanosH7704
+- Pro_31:16considera la h, y la compra, y plantaH7704
+- Isa_5:8y añaden h a h hasta ocuparlo todo![[H7704]]
+- Isa_7:3Acaz...en el camino de la h del LavadorH7704
+- Isa_19:25bendito el pueblo mío...e Israel mi hH5159
+- Isa_34:17cordel; para siempre la tendrán por hH3423
+- Isa_36:2acampó...en el camino de la h del LavadorH7704
+- Isa_47:6profané mi h, y los entregué en tu manoH5159
+- Isa_49:8y te daré...para que heredes asoladas hH5159
+- Isa_57:13que en mi confía tendrá la tierra por hH5157
+- Isa_58:14te daré a comer la h de Jacob tu padreH5159
+- Isa_61:7lugar de...deshonra, os alabarán en sus hH2506
+- Isa_63:17vuélvete por...por las tribus de tu hH5159
+- Isa_65:9mis escogidos poseerán por h la tierraH3423
+- Jer_2:7tierra, e hicisteis abominable mi hH5159
+- Jer_3:19y os daré...la rica h de las naciones?[[H5159]]
+- Jer_6:12a otros, sus h y también sus mujeresH7704
+- Jer_10:16el Hacedor...e Israel es la vara de su hH5159
+- Jer_12:7he dejado mi casa, desampararé mi h heH5159
+- Jer_12:8mi h fue para mí como león en la selvaH5159
+- Jer_12:9¿es mi h para mí como ave de rapiña deH5159
+- Jer_12:10han destruido mi viña, hollaron mi hH2513
+- Jer_12:10convirtieron en desierto...h preciosaH2513
+- Jer_12:13tuvieron la h, mas no aprovecharon nadaH2470
+- Jer_12:14la h que hice poseer a mi pueblo IsraelH5159
+- Jer_12:15haré volver cada uno a su h y...tierraH5159
+- Jer_16:18y de sus abominaciones llenaron mi hH5159
+- Jer_17:4perderás la h que yo te di, y te haréH5159
+- Jer_32:7cómprame mi h que está en Anatot; porqueH7704
+- Jer_32:8compra ahora mi h, que está en AnatotH3425
+- Jer_32:9compré la h de Hanameel, hijo de mi tíoH7704
+- Jer_32:15aún se comprarán casas, h y viñas enH7704
+- Jer_32:25me has dicho: Cómprate la h por dineroH7704
+- Jer_32:43poseerán h en esta tierra de la cualH7704
+- Jer_32:44h comprarán por...y harán escritura yH7704
+- Jer_35:9y de no tener viña, ni h, ni sementeraH7704
+- Jer_39:10a los pobres del...les dio viñas y hH3010
+- Jer_49:2tomará por h a los que...tomaron a ellosH3423
+- Jer_50:11porque os gozasteis destruyendo mi hH5159
+- Lam_5:2nuestra h ha pasado a extraños...casasH5159
+- Eze_25:4yo te entrego por h a los orientalesH4181
+- Eze_25:10la entregaré por h, para que no hayaH4181
+- Eze_35:15te alegraste sobre la h de la casa deH5159
+- Eze_36:2las alturas...nos han sido dadas por hH4181
+- Eze_36:3para que fueseis h de las otras nacionesH4181
+- Eze_36:5que se disputaron mi tierra por h conH4181
+- Eze_36:12serás por h, y nunca más les matarásH5159
+- Eze_44:28habrá para ellos h yo seré su h, peroH5159
+- Eze_45:1repartáis por suertes la tierra en hH5159
+- Eze_46:16si el...diere parte de su h a sus hijosH5159
+- Eze_46:17mas si de su h diere parte a alguno deH5159
+- Eze_47:13repartiréis la tierra por h entre lasH5157
+- Eze_47:14tanto, esta será la tierra de vuestra hH5159
+- Eze_47:22echaréis...suertes por h para vosotrosH5159
+- Eze_47:22echarán suertes...para tener h entre lasH5159
+- Eze_47:23allí le daréis su h, ha dicho JehováH5159
+- Eze_48:29la tierra que repartiréis...en h a lasH5159
+- Dan_12:13te levantarás para recibir tu h alH1486
+- Ose_5:7un solo mes...consumidos ellos y sus hH2506
+- Joe_2:17no entregues al oprobio tu h, para queH5159
+- Joe_3:2a causa de mi pueblo, y de Israel mi hH5159
+- Miq_2:2codician las h, y las roban; y casasH7704
+- Miq_2:2oprimen al hombre y...al hombre y a su hH5159
+- Miq_2:5no habrá quien a suerte reparta h en laH1486
+- Miq_7:14apacienta...el rebaño de tu h, que moraH5159
+- Miq_7:18olvida el pecado del remanente de su h?[[H5159]]
+- Zac_2:12y Jehová poseerá a Judá su h en laH2506
+- Mal_1:3abandoné su h para los chacales delH5159
+- Mat_5:5porque ellos recibirán la tierra por hG2816
+- Mat_21:38matémosle, y apoderémonos de su hG2817
+- Mat_25:34benditos de mi Padre, h el reino preparadoG2816
+- Mar_12:7venid, matémosle, y la h será nuestraG2817
+- Luc_12:16h de un hombre rico había producidoG5561
+- Luc_20:14matémosle, para que la h sea nuestraG2817
+- Jua_4:5Sicar, junto a la h que Jacob dio a suG5564
+- Hec_4:34todos los que poseían h...las vendíanG5564
+- Hec_4:37como tenía una h, la vendió y trajo elG68
+- Hec_5:1Ananías...Safira su mujer, vendió una hG2933
+- Hec_5:3Santo, y sustrajeses del precio de la h?[[G5564]]
+- Hec_5:8¿vendisteis en tanto la h? Y ella dijoG5564

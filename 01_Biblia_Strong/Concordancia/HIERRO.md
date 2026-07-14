@@ -1,0 +1,93 @@
+---
+tipo: concordancia
+palabra: HIERRO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HIERRO
+
+- Gén_4:22Tubal-caín, artífice de toda obra...hH1270
+- Lev_26:19haré vuestro cielo como h, y...bronceH1270
+- Núm_31:22plata, el bronce, h, estaño, y plomoH1270
+- Núm_35:16si con instrumento de h lo hiriere yH1270
+- Deu_3:11su cama...de h, ¿no está en Rabá de losH1270
+- Deu_4:20os ha sacado del horno de h, de EgiptoH1270
+- Deu_8:9cuyas piedras son h, y de...sacarás cobreH1270
+- Deu_19:5saltare el h del cabo, y diere contra suH1270
+- Deu_27:5no alzarás sobre ellas instrumento de hH1270
+- Deu_28:23la tierra que está debajo de ti, de hH1270
+- Deu_28:48pondrá yugo de h sobre tu cuello, hastaH1270
+- Deu_33:25h y bronce serán tus cerrojos, y comoH1270
+- Jos_6:19los utensilios de bronce y de h, seanH1270
+- Jos_6:24en el tesoro...los utensilios de...y de hH1270
+- Jos_8:31piedras...sobre las cuales nadie alzó hH1270
+- 1Sa_17:7el h de su lanza 600 siclos de hH1270
+- 2Sa_12:31trabajar...trillos de h y hachas de hH1270
+- 2Sa_23:7se arma de h y de asta de lanza, y sonH1270
+- 1Re_6:7hachas...ningún otro instrumento de hH1270
+- 1Re_8:51tú sacaste...de en medio del horno de hH1270
+- 1Re_22:11había hecho unos cuernos de h, y dijoH1270
+- 2Re_6:6cortó él un palo...e hizo flotar el hH1270
+- 1Cr_20:3puso a trabajar...con trillos de hH1270
+- 1Cr_22:3preparó David...h para la clavazón deH1270
+- 1Cr_22:14y bronce y h sin medida, porque esH1270
+- 1Cr_22:16del oro...bronce y del h, no hay cuentaH1270
+- 1Cr_29:2h para las de h, y madera para las deH1270
+- 1Cr_29:7de bronce, y cinco mil talentos de hH1270
+- 2Cr_2:7, 2Cr_2:14sabe trabajar en oro...bronce y hH1270
+- 2Cr_18:10Sedequías...había hecho cuernos de hH1270
+- 2Cr_24:12canteros...y artífices en h y bronceH1270
+- Job_19:24que con cincel de h con plomo fuesenH1270
+- Job_20:24huirá de las armas de h, y el arco deH1270
+- Job_28:2el h se saca del polvo, y de la piedraH1270
+- Job_39:23contra él suenan...el h de la lanza yH3851
+- Job_40:18huesos...sus miembros como barras de hH1270
+- Job_41:27estima como paja el h, y el bronceH1270
+- Sal_2:9los quebrantarás con vara de h; comoH1270
+- Sal_107:10aprisionados en aflicción y en hH1270
+- Sal_107:16porque...desmenuzó los cerrojos de hH1270
+- Sal_149:8reyes...a sus nobles con cadenas de hH1270
+- Pro_27:17h con h se aguza; y así el hombreH1270
+- Ecl_10:10si se embotare el h, y su filo noH1270
+- Isa_10:34cortará...h la espesura del bosqueH1270
+- Isa_45:2quebrantaré puertas...de h haré pedazosH1270
+- Isa_48:4que eres duro, y barra de h tu cervizH1270
+- Isa_60:17por h plata...y en lugar de piedras hH1270
+- Jer_1:18yo te he puesto...como columna de hH1270
+- Jer_6:28son bronce y h...ellos son corruptoresH1270
+- Jer_11:4el día que los saqué...del horno de hH1270
+- Jer_15:12¿puede alguno quebrar el h, el h delH1270
+- Jer_17:1pecado...escrito está con cincel de hH1270
+- Jer_28:13mas en vez de ellos harás yugos de hH1270
+- Jer_28:14yugo de h puse sobre el cuello de todasH1270
+- Eze_4:3una plancha de h...en lugar de muro de hH1270
+- Eze_22:18todos ellos son bronce y...y h y plomoH1270
+- Eze_22:20como quien junta...h y plomo y estañoH1270
+- Eze_27:12plata, h, estaño y plomo comerciaba enH1270
+- Eze_27:19negociar en tu mercado con h labradoH1270
+- Dan_2:33piernas, de h...pies, en parte de hH6523
+- Dan_2:34hirió a la imagen en sus pies de h y deH6523
+- Dan_2:35entonces fueron desmenuzados...el h, elH6523
+- Dan_2:40el cuarto reino será fuerte como h; yH6523
+- Dan_2:40como el h desmenuza y rompe todas lasH6523
+- Dan_2:41en parte de h, será un reino divididoH6523
+- Dan_2:41habrá en él algo de la fuerza del hH6523
+- Dan_2:41como viste h mezclado con barro cocidoH6523
+- Dan_2:42los dedos de los pies en parte de h yH6523
+- Dan_2:43así como viste el h mezclado con barroH6523
+- Dan_2:43no...como el h no se mezcla con el barroH6523
+- Dan_2:45la cual desmenuzó el h, el bronce, elH6523
+- Dan_4:15, Dan_4:23atadura de h...en la hierba del campoH6523
+- Dan_5:4alabaron a los dioses de...h, de maderaH6523
+- Dan_5:23diste alabanza a dioses de plata...de hH6523
+- Dan_7:7la cual tenía unos dientes grandes de hH6523
+- Dan_7:19que tenía dientes de h y uñas de bronceH6523
+- Amó_1:3trillaron a Galaad con trillos de hH1270
+- Miq_4:13haré tu cuerno como de h, y tus uñasH1270
+- Hec_12:10llegaron a la puerta de h que dabaG4603
+- Rev_2:27y las regirá con vara de h, y seránG4603
+- Rev_9:9corazas como corazas de h; el ruido deG4603
+- Rev_12:5hijo varón, que regirá con vara de h aG4603
+- Rev_18:12todo objeto...cobre, de h y de mármolG4604
+- Rev_19:15las regirá con vara de h; y él pisa elG4603

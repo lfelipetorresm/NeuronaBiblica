@@ -1,0 +1,384 @@
+---
+tipo: concordancia
+palabra: DESIERTO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DESIERTO, A
+
+- Gén_14:6llanura de Parán, que está junto al dH4057
+- Gén_16:7halló...junto a una fuente de agua en el dH4057
+- Gén_21:14y anduvo errante por el d de BeersebaH4057
+- Gén_21:20el muchacho; y creció, y habitó en el dH4057
+- Gén_21:21habitó en el d de Parán; y su madre leH4057
+- Gén_36:24Aná...que descubrió manantiales en el dH4057
+- Gén_37:22en esta cisterna que está en el d, y noH4057
+- Éxo_3:1llevó las ovejas a través del d, y llegóH4057
+- Éxo_3:18iremos...camino de tres días por el dH4057
+- Éxo_4:27a Aarón: Vé a recibir a Moisés en el dH4057
+- Éxo_5:1a mi pueblo a celebrarme fiesta en el dH4057
+- Éxo_5:3iremos...camino de tres días por el d, yH4057
+- Éxo_7:16deja ir a mi...para que me sirva en el dH4057
+- Éxo_8:27camino de tres días iremos por el d, yH4057
+- Éxo_8:28ofrezcáis sacrificios a...Dios en el dH4057
+- Éxo_13:18rodease...el camino del d del Mar RojoH4057
+- Éxo_13:20acamparon en Etam, a la entrada del dH4057
+- Éxo_14:3porque Faraón dirá...d los ha encerradoH4057
+- Éxo_14:11nos has sacado para que muramos en el dH4057
+- Éxo_14:12servir a...que morir nosotros en el dH4057
+- Éxo_15:22y salieron al d de Shur; y anduvieronH4057
+- Éxo_15:22anduvieron tres días por el d sin...aguaH4057
+- Éxo_16:1vino al d de Sin, que está entre Elim yH4057
+- Éxo_16:2murmuró contra Moisés y Aarón en el dH4057
+- Éxo_16:3nos habéis sacado a este d para matar deH4057
+- Éxo_16:10miraron hacia el d...la gloria de JehováH4057
+- Éxo_16:14aquí sobre la faz del d una cosa menudaH4057
+- Éxo_16:32vean el pan que yo os di a comer en el dH4057
+- Éxo_17:1toda la...de Israel partió del d de SinH4057
+- Éxo_18:5Jetro el suegro...vino a Moisés en el dH4057
+- Éxo_19:1en el mismo día llegaron al d de SinaíH4057
+- Éxo_19:2llegaron al d de...y acamparon en el dH4057
+- Éxo_23:29para que no quede la tierra d, y seH8077
+- Éxo_23:31límites...desde el d hasta el EufratesH4057
+- Lev_7:38mandó Jehová a Moisés en el d...SinaíH4057
+- Lev_16:10la suerte...para enviarlo a Azazel al dH4057
+- Lev_16:21lo enviará al d por mano de un hombreH4057
+- Lev_16:22y dejará ir al macho cabrío por el dH4057
+- Lev_26:22destruyan...y vuestros caminos sean dH8074
+- Lev_26:31haré d vuestras ciudades, y asolaréH2723
+- Lev_26:33vuestra tierra...y d vuestras ciudadesH2723
+- Lev_26:43gozará sus días de reposo, estando dH8074
+- Núm_1:1habló Jehová a Moisés en el d de SinaíH4057
+- Núm_1:19mandado a Moisés, los contó en el d deH4057
+- Núm_3:4ofrecieron fuego extraño delante...en el dH4057
+- Núm_3:14; Núm_9:1Jehová habló a Moisés en el d deH4057
+- Núm_9:5celebraron la pascua...en el d de SinaíH4057
+- Núm_10:12y partieron...del d de Sinaí según elH4057
+- Núm_10:12y se detuvo la nube en el d de ParánH4057
+- Núm_10:31tú conoces...hemos de acampar en el dH4057
+- Núm_12:16partió...y acamparon en el d de ParánH4057
+- Núm_13:3y Moisés los envió desde el d de ParánH4057
+- Núm_13:21reconocieron...desde el d de Zin hastaH4057
+- Núm_13:26y vinieron a Moisés...en el d de ParánH4057
+- Núm_14:2Egipto; o en este d ojalá muriéramos![[H4057]]
+- Núm_14:16no pudo Jehová meter...los mató en el dH4057
+- Núm_14:22vieron...señales que he hecho en...el dH4057
+- Núm_14:25volveos...y salid al d, camino del MarH4057
+- Núm_14:29, Núm_14:32en este d caerán vuestros cuerposH4057
+- Núm_14:33andarán pastoreando en el d 40 añosH4057
+- Núm_14:33que...cuerpos sean consumidos en el dH4057
+- Núm_14:35en este d serán consumidos, y...moriránH4057
+- Núm_15:32Israel en el d, hallaron a un hombreH4057
+- Núm_16:13venir de...para hacernos morir en el dH4057
+- Núm_20:1llegaron...al d de Zin, en el mes primeroH4057
+- Núm_20:4¿por qué hiciste venir...a este d, paraH4057
+- Núm_21:5de Egipto para que muramos en este d?[[H4057]]
+- Núm_21:11acamparon...en el d que está enfrenteH4057
+- Núm_21:13otro lado de Arnón, que está en el dH4057
+- Núm_21:18sus báculos. Del d vinieron a MatanaH4057
+- Núm_21:20cumbre de Pisga, que mira hacia el dH3452
+- Núm_21:23Sehón...y salió contra Israel en el dH4057
+- Núm_23:28la cumbre de Peor, que mira hacia el dH3452
+- Núm_24:1no...sino que puso su rostro hacia el dH4057
+- Núm_26:64contaron a los hijos de Israel en el dH4057
+- Núm_26:65había dicho de ellos: Morirán en el dH4057
+- Núm_27:3nuestro padre murió en el d; y él noH4057
+- Núm_27:14fuisteis rebeldes a mi...en el d de ZinH4057
+- Núm_27:14de la rencilla de Cades en el d de ZinH4057
+- Núm_32:13los hizo andar errantes...años por el dH4057
+- Núm_32:15él volverá otra vez a dejaros en el dH4057
+- Núm_33:6acamparon en Etam, que...al confín del dH4057
+- Núm_33:8y pasaron por en medio del mar al d, yH4057
+- Núm_33:8anduvieron tres días...por el d de EtamH4057
+- Núm_33:11salieron...y acamparon en el d de SinH4057
+- Núm_33:12salieron del d de Sin y acamparon enH4057
+- Núm_33:15salieron...acamparon en el d de SinaíH4057
+- Núm_33:16salieron del d de Sinaí y acamparon enH4057
+- Núm_33:36acamparon en el d de Zin, que es CadesH4057
+- Núm_34:3desde el d de Zin hasta la frontera deH4057
+- Deu_1:1las palabras que habló Moisés...en el dH4057
+- Deu_1:19anduvimos todo aquel grande y terrible dH4057
+- Deu_1:31en el d has visto que Jehová tu Dios teH4057
+- Deu_1:40volveos e id al d, camino del Mar RojoH4057
+- Deu_2:1salimos al d, camino del Mar Rojo, comoH4057
+- Deu_2:7Jehová...sabe que andas por este gran dH4057
+- Deu_2:8Elat...y tomamos el camino del d de MoabH4057
+- Deu_2:26envié mensajeros desde el d de CademotH4057
+- Deu_4:43Beser en el d, en...para los rubenitasH4057
+- Deu_8:2el camino...estos cuarenta años en el dH4057
+- Deu_8:15que te hizo caminar por un d grande yH4057
+- Deu_8:16te sustentó con maná en el d, comida queH4057
+- Deu_9:7has provocado la ira de Jehová...en el dH4057
+- Deu_9:28digan...los sacó para matarlos en el dH4057
+- Deu_11:5y lo que ha hecho con vosotros en el dH4057
+- Deu_11:24desde el d hasta el Líbano, desde elH4057
+- Deu_29:5yo os he traído cuarenta años en el dH4057
+- Deu_32:10le halló en tierra de d, y en yermo deH4057
+- Deu_32:51pecasteis contra mí en...en el d de ZinH4057
+- Jos_1:4desde el d y el Líbano hasta el...ríoH4057
+- Jos_5:4hombres de guerra, habían muerto en el dH4057
+- Jos_5:5el pueblo...nacido en el d, por el caminoH4057
+- Jos_5:6Israel anduvieron por el d cuarenta añosH4057
+- Jos_8:15Josué y...huyeron...por el camino del dH4057
+- Jos_8:20el pueblo que iba huyendo hacia el dH4057
+- Jos_8:24matar a...de Hai en el campo y en el dH4057
+- Jos_12:8en el d y en el Neguev; el heteo, elH4057
+- Jos_14:10habló...cuando Israel andaba por el dH4057
+- Jos_15:1Edom, teniendo el d de Zin al sur comoH4057
+- Jos_15:61en el d, Bet-arabá, Midín, SecacaH4057
+- Jos_16:1hacia el d que sube de Jericó por lasH4057
+- Jos_18:12sube...y viene a salir al d de Bet-ayénH4057
+- Jos_20:8de Jericó, señalaron a Beser en el dH4057
+- Jos_24:7después estuvisteis muchos días en el dH4057
+- Jue_1:16subieron...al d de Judá, que está enH4057
+- Jue_8:7trillaré vuestra carne con espinos...del dH4057
+- Jue_8:16espinos y abrojos del d, y castigá conH4057
+- Jue_11:16Israel...anduvo por el d hasta el MarH4057
+- Jue_11:18yendo por el d, rodeó la tierra de EdómH4057
+- Jue_11:22apoderaron...desde el d hasta el JordánH4057
+- Jue_20:42delante de Israel hacia el camino del dH4057
+- Jue_20:45huyeron hacia el d, a la peña de RimónH4057
+- Jue_20:47y huyeron al d a la peña de RimónH4057
+- 1Sa_4:8hirieron a Egipto con...plaga en el dH4057
+- 1Sa_13:18mira al valle de Zeboim, hacia el dH4057
+- 1Sa_17:28¿y a quién has dejado...ovejas en el d?[[H4057]]
+- 1Sa_23:14y David se quedó en el d en lugaresH4057
+- 1Sa_23:14y habitaba en un monte en el d de ZifH4057
+- 1Sa_23:15David...estuvo en Hores, en el d de ZifH4057
+- 1Sa_23:19en el collado de Haquila...al sur del d?[[H3452]]
+- 1Sa_23:24estaban en el d de Maón...al sur del dH4057
+- 1Sa_23:25se quedó en el d...siguió a David al dH4057
+- 1Sa_24:1he aquí David está en el d de En-gadiH4057
+- 1Sa_25:1se levantó David y se fue al d de ParánH4057
+- 1Sa_25:4oyó David en el d que Nabal esquilabaH4057
+- 1Sa_25:14he aquí David envió mensajeros del dH4057
+- 1Sa_25:21he guardado...lo que éste tiene en el dH4057
+- 1Sa_26:1¿no está David escondido en el...del d?[[H4057]]
+- 1Sa_26:2Saúl...descendió al d de Zif, llevandoH4057
+- 1Sa_26:2Zif...para buscar a David en el d de ZifH4057
+- 1Sa_26:3el collado de Haquila...al oriente del dH4057
+- 1Sa_26:3David en el d...Saúl le seguía en el dH4057
+- 2Sa_2:24Gía, junto al camino del d de GabaónH4057
+- 2Sa_15:23el pueblo pasó al camino que va al dH4057
+- 2Sa_15:28mirad...me detendré en los vados del dH4057
+- 2Sa_16:2para que beban los que se cansen en el dH4057
+- 2Sa_17:16no te quedes esta noche...vados del dH4057
+- 2Sa_17:29el pueblo está hambriento y...en el dH4057
+- 1Re_2:34y fue sepultado en su casa en el dH4057
+- 1Re_9:18a Baafat, y a Tadmor en tierra del dH4057
+- 1Re_19:4él se fue por el d un día de camino, yH4057
+- 1Re_19:15vé, vuélvete por...por el d de DamascoH4057
+- 2Re_3:8él respondió: Por el camino del d deH4057
+- 2Re_3:9anduvieron rodeando por el d siete días
+- 1Cr_5:9el oriente hasta la entrada del dH4057
+- 1Cr_6:78dieron de...Beser en el d con sus ejidosH4057
+- 1Cr_12:8huyeron y fueron a David, al...en el dH4057
+- 1Cr_21:29el tabernáculo de...había hecho en el dH4057
+- 2Cr_1:3tabernáculo...Moisés...hecho en el dH4057
+- 2Cr_8:4y edificó a Tadmor en el d, y todas lasH4057
+- 2Cr_20:16los hallaréis...al arroyo, antes del dH4057
+- 2Cr_20:20por la mafiana, salieron al d de TecoaH4057
+- 2Cr_20:24luego que vino Judá a la torre del dH4057
+- 2Cr_24:9la ofrenda...impuesto a Israel en el dH4057
+- 2Cr_26:10edificó torres en el d, y...cisternasH4057
+- Neh_2:3la ciudad...d, y sus puertas consumidasH2720
+- Neh_2:17veis...que Jerusalén está d, y sus puertasH2720
+- Neh_9:19con todo...no los abandonaste en el dH4057
+- Neh_9:21sustentaste 40 años en el d; de ningunaH4057
+- Job_1:19y un gran viento vino del lado del dH4057
+- Job_24:5como asnos monteses en el d, salen a suH4057
+- Job_24:5salen...el d es mantenimiento de sus hijosH4057
+- Job_30:3huían a...lugar tenebroso, asolado y dH4057
+- Job_38:26hviendo llover...sobre el d, donde noH4057
+- Job_38:27para saciar la tierra d e inculta, yH4875
+- Sal_29:8voz de Jehová que hace temblar el dH4057
+- Sal_55:7ciertamente huiría...moraría en el dH4057
+- Sal 63 tít.David, cuando estaba en el d de JudáH4057
+- Sal_65:12destilan sobre los pastizales del dH4057
+- Sal_68:7Dios, cuando...cuando anduviste por el dH4057
+- Sal_72:9se postrarán los moradores del d, y susH4057
+- Sal_74:14diste por comida a los moradores del dH4057
+- Sal_75:6ni de...ni del d viene el enaltecimientoH4057
+- Sal_78:15hendió las peñas en el d, y les dio aH4057
+- Sal_78:17pecar contra él, rebelándose...en el dH4057
+- Sal_78:19diciendo: ¿Podrá poner mesa en el d?[[H4057]]
+- Sal_78:40veces se rebelaron contra él en el dH4057
+- Sal_78:52y los llevó por el d como un rebañoH4057
+- Sal_95:8como...como en el día de Masah en el dH4057
+- Sal_102:6soy semejante al pelícano del d; soyH2723
+- Sal_106:9les hizo ir por el abismo como por un dH4057
+- Sal_106:14se entregaron a un deseo...en el d, yH3452
+- Sal_106:26alzó su mano...para abatirlos en el dH4057
+- Sal_107:4anduvieron perdidos por el d, por laH4057
+- Sal_107:33convierte los ríos en d...sequedal esH4057
+- Sal_107:35vuelve el d en estanques de aguas, yH4057
+- Sal_136:16al que pastoreó a su pueblo por el dH4057
+- Pro_21:19mejor es morar en tierra d que conH4057
+- Cnt_3:6; Cnt_8:5¿quién es ésta que sube del dH4057
+- Isa_5:6que quede d; no será podada ni cavadaH1326
+- Isa_6:11hasta que...y la tierra esté hecha un dH8077
+- Isa_7:19acamparán todos en los valles d, y enH1327
+- Isa_13:21sino que dormirán allí las fieras del dH6728
+- Isa_14:17que puso el mundo como un d, que asolóH4057
+- Isa_16:1enviad cordero al...desde Sela del d alH4057
+- Isa_16:8Jazer, y se habían extendido por el dH4057
+- Isa_21:1profecía sobre el d del mar...torbellinoH4057
+- Isa_21:1así viene del d, de la tierra horrendaH4057
+- Isa_23:13Asiria la fundó para...moradores del dH6728
+- Isa_27:10la ciudad habitada...dejada como un dH4057
+- Isa_32:14los palacios quedarán d, la multitud deH5203
+- Isa_32:15el d se convierta en campo fértil, y elH4057
+- Isa_32:16y habitará el juicio en el d, y en elH4057
+- Isa_33:9Sarón se ha vuelto como d, y Basán y elH6160
+- Isa_34:14las fieras del d se encontrarán con lasH6728
+- Isa_35:1se alegrarán el d y la soledad; el yermoH4057
+- Isa_35:6porque aguas serán cavadas en el d, yH6160
+- Isa_40:3voz que clama en el d: Preparad caminoH6160
+- Isa_41:18abriré en el d estanques de aguas, yH4057
+- Isa_41:19en el d cedros, acacias, arrayanes yH4057
+- Isa_42:11alcen la voz el d y sus ciudades, lasH4057
+- Isa_43:19otra vez abriré camino en el d, y ríosH4057
+- Isa_43:20daré aguas en el d, ríos en la soledadH4057
+- Isa_48:21no tuvieron sed cuando, por los d; lesH2723
+- Isa_49:19tierra devastada, arruinada y d, ahoraH8074
+- Isa_50:2secar el mar; convierto los ríos en dH4057
+- Isa_51:3cambiará su d en paraíso, y su soledadH4057
+- Isa_63:13un caballo por el d, sin que tropezaranH4057
+- Isa_64:10santas ciudades están d, Sion es un dH4057
+- Jer_2:2cuando andabas en pos de mí en el dH4057
+- Jer_2:6nos condujo por el d, por una tierra dH4057
+- Jer_2:24asna montés acostumbrada al d, que enH4057
+- Jer_2:31¿he sido yo un d para Israel, o tierraH4057
+- Jer_3:2te sentabas para ellos como árabe en el dH4057
+- Jer_4:11viento seco de las alturas del d vino aH4057
+- Jer_4:26miré, y he aquí el campo fértil era un dH4057
+- Jer_5:6los matará, los destruirá el lobo del dH6160
+- Jer_6:8corrígete...para que no te convierta en dH8077
+- Jer_9:2¡oh, quién me diese en el d un albergueH4057
+- Jer_9:10lloro...llanto por los pastizales del dH4057
+- Jer_9:12¿por qué causa...ha sido asolada como dH4057
+- Jer_9:26Moab, y a todos...los que moran en el dH4057
+- Jer_12:4¿hasta cuándo estará d la tierra, y
+- Jer_12:10convirtieron en d y soledad mi heredadH4057
+- Jer_12:12sobre todas las alturas del d vinieronH4057
+- Jer_13:24yo los esparciré al viento del d, comoH4057
+- Jer_17:6será como la retama en el d, y no veráH4057
+- Jer_17:6que morará en los sequedales en el d, enH4057
+- Jer_22:5mismo he jurado...que esta casa será dH2723
+- Jer_23:10la tierra está d; los pastizales del dH4057
+- Jer_25:12Babilonia...convertiré en d para siempreH8077
+- Jer_25:24pueblos mezclados que habitan en el dH4057
+- Jer_31:2el pueblo...halló gracia en el d, cuandoH4057
+- Jer_32:43de la cual decís: Está d, sin hombresH8077
+- Jer_33:10, Jer_33:12está d sin hombres y sin animalesH2717
+- Jer_46:19Porque Menfis será d, y será asoladaH3341
+- Jer_48:6huid, salvad...sed como retama en el dH4057
+- Jer_48:9serán d sus ciudades hasta no quedar enH8047
+- Jer_50:12última de las naciones; d, sequedal yH4057
+- Jer_50:39allí morarán fieras del d y chacalesH6728
+- Jer_51:43la tierra seca y d, tierra en que noH6160
+- Lam_4:3es cruel como los avestruces en el dH4057
+- Lam_4:19sobre...en el d nos pusieron emboscadasH4057
+- Lam_5:9traíamos nuestro pan ante la espada...dH4057
+- Eze_6:6serán d las ciudades, y...lugares altosH2717
+- Eze_6:6asolados y se hagan d vuestros altaresH816
+- Eze_6:14más asolada y...que el d hacia DiblatH4057
+- Eze_12:20las ciudades habitadas quedarán d, y laH2717
+- Eze_13:4zorras en los d fueron tus profetas ohH2723
+- Eze_19:13ahora está plantada en el d, en tierraH4057
+- Eze_20:10los saqué de...Egipto, y los traje al dH4057
+- Eze_20:13rebeló contra mí la...de Israel en el dH4057
+- Eze_20:13derramaría sobre ellos mi ira en el dH4057
+- Eze_20:15, Eze_20:23alcé mi mano en el d, jurando queH4057
+- Eze_20:17no los maté, ni los exterminé en el dH4057
+- Eze_20:18dije en el d a sus hijos: No andéis enH4057
+- Eze_20:21para cumplir mi enojo en ellos en el dH4057
+- Eze_20:35y os traeré al d de los pueblos, y allíH4057
+- Eze_20:36como litigué...en el d de la tierra deH4057
+- Eze_23:42común fueron traídos los sabeos del dH4057
+- Eze_26:2a mí se volvió; yo seré llena, y ella dH4057
+- Eze_26:20d antiguos, con los que descienden alH4057
+- Eze_29:5dejaré en el d a ti y...peces de tus rísosH4057
+- Eze_29:9y la tierra de Egipto será asolada y dH2723
+- Eze_29:10tierra de Egipto...en la soledad del dH2723
+- Eze_30:7sus ciudades serán entre las ciudades dH2717
+- Eze_33:28convertiré la tierra en d y en soledadH8077
+- Eze_33:29convierta la tierra en soledad y d, por
+- Eze_34:25paz y...habitarán en el d con seguridadH4057
+- Eze_35:3de Seir...te convertiré en d y en soledadH8077
+- Eze_35:7y convertiré al monte de Seir en d y enH8077
+- Eze_36:35estas ciudades que eran d y asoladasH2720
+- Eze_36:38las ciudades d serán llenas de rebañosH2720
+- Eze_38:12manos sobre las tierras d ya pobladasH8074
+- Ose_2:3la haga como un d, la deje como tierraH4057
+- Ose_2:14la llevaré al d, y hablaré a su corazónH4057
+- Ose_9:10como uvas en el d hallé a Israel; comoH4057
+- Ose_13:5yo te conocí en el d, en tierra secaH4057
+- Ose_13:15se levantará desde el d, y se secará suH4057
+- Joe_1:19porque fuego consumió los pastos del dH4057
+- Joe_1:20y fuego consumió las praderas del dH4057
+- Joe_2:3el huerto...y detrás de él como d asoladoH4057
+- Joe_2:20norte, y lo echaré en tierra seca y dH8077
+- Joe_2:22los pastos del d reverdecerán, la higueraH4057
+- Joe_3:19Edom será vuelto en d asolado, por laH4057
+- Amó_2:10y os conduje por el d cuarenta añosH4057
+- Amó_5:25¿me ofrecisteis sacrificios y...en el dH4057
+- Sof_2:13Asiria, y convertirá a Nínive en...dH4057
+- Sof_3:6hice d sus calles, hasta no quedar quienH2717
+- Hag_1:4vuestras casas, y esta casa está d?[[H2720]]
+- Hag_1:9mi casa está d, y cada uno de vosotrosH8077
+- Zac_7:14convirtieron en d la tierra deseableH8047
+- Mal_1:3su heredad para los chacales del dH4057
+- Mat_3:1Juan el Bautista predicando en el d deG2048
+- Mat_3:3voz del que clama en el d: Preparad elG2048
+- Mat_4:1Jesús fue llevado por el Espíritu al dG2048
+- Mat_11:7¿qué salísteis a ver al d? ¿Una cañaG2048
+- Mat_14:13se apartó de allí...barca a un lugar dG2048
+- Mat_14:15el lugar es d, y la hora ya pasadaG2048
+- Mat_15:33tantos panes en el d, para saciar a unaG2047
+- Mat_23:38he aquí vuestra casa os es dejada dG2048
+- Mat_24:26si...Mirad, está en el d, no salgáisG2048
+- Mar_1:3voz del que clama en el d: Preparad elG2048
+- Mar_1:4bautizaba Juan en el d, y predicaba elG2048
+- Mar_1:12y luego el Espíritu le impulsó al dG2048
+- Mar_1:13y estuvo allí en el d cuarenta días, yG2048
+- Mar_1:35salió y se fue a un lugar d, y allí orabaG2048
+- Mar_1:45que se quedaba fuera en los lugares dG2048
+- Mar_6:31venid vosotros aparte a un lugar d, yG2048
+- Mar_6:32fueron solos en una barca a un lugar dG2048
+- Mar_6:35el lugar es d, y la hora ya muy avanzadaG2048
+- Mar_8:4podrá saciar el pan a éstos aquí en el d?[[G2048]]
+- Luc_1:80estuvo en lugares d hasta el día de suG2048
+- Luc_3:2vino palabra de Dios a Juan...en el dG2048
+- Luc_3:4voz del que clama en el d: Preparad elG2048
+- Luc_4:1Jesús...fue llevado por el Espíritu al dG2048
+- Luc_4:42era de día, salió y se fue a un lugar dG2048
+- Luc_5:16mas él se apartaba a lugares d, y orabaG2048
+- Luc_7:24¿qué salísteis a ver al d? ¿Una cañaG2048
+- Luc_8:29era impelido por el demonio a los dG2048
+- Luc_9:10se retiró aparte, a un lugar d de laG2048
+- Luc_9:12vayan...porque aquí estamos en lugar dG2048
+- Luc_13:35he aquí, vuestra casa os es dejada dG2048
+- Luc_15:4no deja las noventa y nueve en el d, yG2048
+- Jua_1:23de uno que clama en el d: EnderezadG2048
+- Jua_3:14como Moisés levantó la serpiente en el dG2048
+- Jua_6:31padres comieron el maná en el d, comoG2048
+- Jua_6:49comieron el maná en el d, y murieronG2048
+- Jua_11:54se alejó...a la región contigua al dG2048
+- Hec_1:20sea hecha d su habitación, y no hayaG2048
+- Hec_7:30ángel se le apareció en el d del monteG2048
+- Hec_7:36señales en...en el d por cuarenta añosG2048
+- Hec_7:38es aquel Moisés que estuvo...en el d conG2048
+- Hec_7:42¿acaso me ofrecisteis víctimas...en el dG2048
+- Hec_7:44el tabernáculo del testimonio en el dG2048
+- Hec_8:26por el camino que...a Gaza, el cual es dG2048
+- Hec_13:18como de 40 años los soportó en el dG2048
+- Hec_21:38y sacó al d los cuatro mil sicarios?[[G2048]]
+- 1Co_10:5lo cual quedaron postrados en el dG2048
+- 2Co_11:26peligros en el d, peligros en elG2047
+- Heb_3:8como...en el día de la tentación en el dG2048
+- Heb_11:38errando por los d, por los montes, porG2047
+- Rev_12:6la mujer huyó al d, donde tiene lugarG2048
+- Rev_12:14para que volase de...la serpiente al dG2048
+- Rev_17:3y me llevó en el Espíritu al d; y vi aG2048

@@ -1,0 +1,1544 @@
+---
+tipo: concordancia
+palabra: PADRE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PADRE
+
+- Gén_2:24dejará el hombre a su p y a su madreH1
+- Gén_4:20Jabal...p de los que habitan en tiendasH1
+- Gén_4:21Jubal...fue p de todos los que tocan arpaH1
+- Gén_9:18Cam y Jafet; y Cam es el p de CanaánH3318
+- Gén_9:22p de Canaán, vio la desnudez de su p, yH1
+- Gén_9:23Jafet...cubrieron la desnudez de su pH1
+- Gén_9:23ropa...así no vieron la desnudez de su pH3315
+- Gén_10:21a Sem, p de todos los hijos de HeberH1, [[H3315]]
+- Gén_11:28y murió Harán antes que su p Taré enH1
+- Gén_11:29hija de Harán, p de Milca y de IscaH1
+- Gén_12:1vete de tu tierra...de la casa de tu pH1
+- Gén_15:15y tú vendrás a tus p en paz, y serásH1
+- Gén_17:4es contigo, y serás p de muchedumbre deH1
+- Gén_17:5puesto por p de muchedumbre de gentesH1
+- Gén_19:31nuestro p es viejo, y no queda varón enH1
+- Gén_19:32ven, demos a beber vino a nuestro p yH1
+- Gén_19:32conservaremos de nuestro p descendenciaH1
+- Gén_19:33, Gén_19:35dieron a beber vino a su p...nocheH1
+- Gén_19:33entró la mayor, y durmió con su p; masH1
+- Gén_19:34aquí, yo dormí la noche pasada con mi pH1
+- Gén_19:34para que conservemos...p descendenciaH1
+- Gén_19:36las dos hijas de Lot concibieron de su pH1
+- Gén_19:37el cual es p de los moabitas hasta hoyH1
+- Gén_19:38el cual es p de los amonitas hasta hoyH1
+- Gén_20:12también es mi hermana, hija de mi pH1
+- Gén_20:13hizo salir errante de la casa de mi pH1
+- Gén_22:7habló Isaac a Abraham su p, y dijo: PH1
+- Gén_22:21Uz su primogénito...Kemuel p de AramH1
+- Gén_22:23Betuel fue el p de Rebeca...Estos sonH3205
+- Gén_24:7que me tomó de la casa de mi p y de laH1
+- Gén_24:23en casa de tu p lugar donde posemos?[[H1]]
+- Gén_24:38irás a la casa de mi p y a mi parentelaH1
+- Gén_24:40mujer de mi familia y...la casa de mi pH1
+- Gén_26:3el juramento que hice a Abraham tu pH1
+- Gén_26:15abierto los criados de Abraham su p enH1
+- Gén_26:18abierto en los días de Abraham su p, yH1
+- Gén_26:18y los llamó por los nombres que su pH1
+- Gén_26:24le dijo: Yo soy el Dios de Abraham tu pH1
+- Gén_27:6yo he oído a tu p que hablaba con EsaúH1
+- Gén_27:9haré de ellos viandas para tu p, como aH1
+- Gén_27:10las llevarás a tu p, y comerá, para queH1
+- Gén_27:12quizá me palpará mi p, y me tendrá porH1
+- Gén_27:14hizo guisados, como a su p le gustabaH1
+- Gén_27:18entonces éste fue a su p y dijo: P míoH1
+- Gén_27:19y Jacob dijo a su p: Yo soy Esaú tuH1
+- Gén_27:22se acercó Jacob a su p Isaac...le palpóH1
+- Gén_27:26y le dijo Isaac su p: Acércate ahora, yH1
+- Gén_27:30salido Jacob de delante de Isaac su pH1
+- Gén_27:31él también hizo guisados, y trajo a su pH1
+- Gén_27:31levántese mi p, y coma de la caza de suH1
+- Gén_27:32Isaac su p le dijo: ¿Quién eres tú?[[H1]]
+- Gén_27:34cuando Esaú oyó las palabras de su pH1
+- Gén_27:34le dijo: Bendíceme también a mí, p míoH1
+- Gén_27:38Esaú respondió a su p; ¿No tienes másH1
+- Gén_27:38¿no tienes más que una...bendición, pH1
+- Gén_27:38bendíceme también a mí, p mío...y lloróH1
+- Gén_27:39Isaac su p habló y le dijo: He aquí, tuH1
+- Gén_27:41por la bendición con que su p le habíaH1
+- Gén_27:41llegarán los días del luto de mi p, yH1
+- Gén_28:2a casa de Betuel, p de tu madre, y tomaH1
+- Gén_28:7y que Jacob había obedecido a su p y aH1
+- Gén_28:8las hijas de, parecían mal a Isaac su pH1
+- Gén_28:13yo soy Jehová, el Dios de Abraham tu pH1
+- Gén_28:21y si volviere en paz a casa de mi pH1
+- Gén_29:9con el rebaño de su p, porque ella eraH1
+- Gén_29:12a Raquel que él era hermano de su p, yH1
+- Gén_29:12y ella corrió, y dio las nuevas a su pH1
+- Gén_31:1ha tomado todo lo que era de nuestro pH1
+- Gén_31:1de lo que era de nuestro p ha adquiridoH1
+- Gén_31:3vuélvete a la tierra de tus p, y a tuH1
+- Gén_31:5veo que el semblante de vuestro p no esH1
+- Gén_31:5mas el Dios de mi p ha sido conmigoH1
+- Gén_31:6sabéis que con...he servido a vuestro pH1
+- Gén_31:7y vuestro p me ha engañado...el salarioH1
+- Gén_31:9así quitó Dios el ganado de vuestro pH1
+- Gén_31:14¿tenemos acaso...heredad en la casa...p?[[H1]]
+- Gén_31:16toda...que Dios ha quitado a nuestro pH1
+- Gén_31:18volverse a Isaac su p en la tierra deH1
+- Gén_31:19y Raquel hurtó los ídolos de su pH1
+- Gén_31:29mas el Dios de tu p me habló anocheH1
+- Gén_31:30porque tenías deseo de la casa de tu pH1
+- Gén_31:35ella dijo a su p: No se enoje mi señorH1
+- Gén_31:42si el Dios de mi p...no estuviera conmigoH1
+- Gén_31:53Dios de Nacor juzgue...y el Dios de sus pH1
+- Gén_31:53juró por aquel a quien temía Isaac su pH1
+- Gén_32:9de mi p Abraham, y Dios de mi p IsaacH1
+- Gén_33:19parte del campo...de Hamor p de SiquemH1
+- Gén_34:4y habló Siquem a Hamor su p, diciendoH1
+- Gén_34:6y se dirigió Hamor p de Siquem a JacobH1
+- Gén_34:11Siquem también dijo al p de Dina y aH1
+- Gén_34:13respondieron...a Siquem y a Hamor su pH1
+- Gén_34:19más distinguido de toda la casa de su pH1
+- Gén_35:18nombre Benoni...su p lo llamó BenjamínH1
+- Gén_35:22durmió con Bilha la concubina de su pH1
+- Gén_35:27vino Jacob a Isaac su p a Mamre, a laH1
+- Gén_36:9son los linajes de Esaú, p de Edom, enH1
+- Gén_36:24apacentaba los asnos de Zibeón su pH1
+- Gén_36:43Edom es el mismo Esaú, p de...edomitasH1
+- Gén_37:1en la tierra donde había morado su p, enH1
+- Gén_37:2con los hijos de Zilpa, mujeres de su pH1
+- Gén_37:2informaba José a su p la mala fama deH1
+- Gén_37:4y viendo sus hermanos que su p lo amabaH1
+- Gén_37:10lo contó a su p y...y su p le reprendióH1
+- Gén_37:11le tenían envidia, mas su p meditaba enH1
+- Gén_37:12fueron...a apacentar las ovejas de su pH1
+- Gén_37:22librarlo...para hacerlo volver a su pH1
+- Gén_37:32y la trajeron a su p, y dijeron: EstoH1
+- Gén_37:35él no quiso recibir...Y lo lloró su pH1
+- Gén_38:11quédate viuda en casa de tu p, hastaH1
+- Gén_38:11se fue Tamar, y estuvo en casa de su pH1
+- Gén_41:51me hizo olvidar...toda la casa de mi pH1
+- Gén_42:13el menor está hoy con nuestro p, y otroH1
+- Gén_42:29venidos a Jacob su p...le contaron todoH1
+- Gén_42:32somos doce hermanos, hijos de nuestro pH1
+- Gén_42:32el menor está hoy con nuestro p en laH1
+- Gén_42:35viendo ellos y su p los atados de suH1
+- Gén_42:36su p Jacob les dijo: Me habéis privadoH1
+- Gén_42:37y Rubén habló a su p, diciendo: HarásH1
+- Gén_43:2les dijo su p: Volved, y comprad paraH1
+- Gén_43:7diciendo: ¿Vive aún vuestro p? ¿TenéisH1
+- Gén_43:8a Israel su p: Envía al joven conmigoH1
+- Gén_43:11Israel su p les respondió: Pues que asíH1
+- Gén_43:23el Dios de vuestro p os dio el tesoroH1
+- Gén_43:27¿vuestro p, el anciano...lo pasa bien?[[H1]]
+- Gén_43:28bien va a tu siervo nuestro p; aún viveH1
+- Gén_44:17la copa...vosotros id en paz a vuestro pH1
+- Gén_44:19mi señor preguntó...¿Tenéis p o hermano?[[H1]]
+- Gén_44:20respondimos...Tenemos un p anciano, yH1
+- Gén_44:20y él solo quedó de los...y su p lo amaH1
+- Gén_44:22el joven no puede dejar a su p...p moriráH1
+- Gén_44:24cuando llegamos a mi p tu siervo, leH1
+- Gén_44:25dijo nuestro p...Volved a compramos unH1
+- Gén_44:27siervo mi p nos dijo: Vosotros sabéisH1
+- Gén_44:30cuando vuelva yo a tu siervo mi p, siH1
+- Gén_44:31las canas de tu siervo nuestro p conH1
+- Gén_44:32salió por fiador del joven con mi pH1
+- Gén_44:32yo seré culpable ante mi p para siempreH1
+- Gén_44:34¿cómo volveré yo a mi p sin el joven?[[H1]]
+- Gén_44:34no ver el mal que sobrevendrá a mi pH1
+- Gén_45:3dijo José...Yo soy José; ¿vive aún mi p?[[H1]]
+- Gén_45:8Dios, que me ha puesto por p de FaraónH1
+- Gén_45:9id a mi p y decidle: Así dice tu hijoH1
+- Gén_45:13haréis...saber a mi p...traed a mi p acáH1
+- Gén_45:18tomad a vuestro p y...familias y venidH1
+- Gén_45:19haced esto...traed a vuestro p, y venidH1
+- Gén_45:23y a su p envió...diez asnos cargados deH1
+- Gén_45:23y pan y comida, para su p en el caminoH1
+- Gén_45:25llegaron a la tierra de...a Jacob su pH1
+- Gén_46:1y ofreció sacrificios al Dios de su pH1
+- Gén_46:3yo soy Dios, el Dios de tu p; no temasH1
+- Gén_46:5tomaron...a su p Jacob, y a sus niños, yH1
+- Gén_46:29vino a recibir a Israel su p en GosénH1
+- Gén_46:31José dijo a...a la casa de su p: SubiréH1
+- Gén_46:31la casa de mi p, que...han venido a míH1
+- Gén_46:34de ganadería...nosotros y nuestros pH1
+- Gén_47:1mi p y mis hermanos, y sus ovejas y susH1
+- Gén_47:3pastores...así nosotros como nuestros pH1
+- Gén_47:5habló...Tu p y tus hermanos han venido aH1
+- Gén_47:6en lo mejor de la...haz habitar a tu pH1
+- Gén_47:7también José introdujo a Jacob su p, yH1
+- Gén_47:9de los años de la vida de mis p en losH1
+- Gén_47:11así José hizo habitar a su p y a susH1
+- Gén_47:12alimentaba José a su p...la casa de su pH1
+- Gén_47:30cuando duerma con mis p, me llevarás deH1
+- Gén_48:1a José: He aquí tu p está enfermo. Y élH1
+- Gén_48:9y respondió José a su p: Son mis hijosH1
+- Gén_48:15Dios en cuya presencia anduvieron mis pH1
+- Gén_48:16sea perpetuado...y el nombre de mis pH1
+- Gén_48:17que su p ponía la mano derecha sobre laH1
+- Gén_48:17y asió la mano de su p, para cambiarlaH1
+- Gén_48:18dijo José a su p: No así, p...éste es elH1
+- Gén_48:19su p no quiso, y dijo: Lo sé, hijo míoH1
+- Gén_48:21hará volver a la tierra de vuestros pH1
+- Gén_49:2de Jacob, y escuchad a vuestro p IsraelH1
+- Gén_49:4subiste al lecho de tu p; entonces teH1
+- Gén_49:8los hijos de tu p se inclinarán a tiH1
+- Gén_49:25por el Dios de tu p, el cual te ayudaraH1
+- Gén_49:26las bendiciones de tu p fueron mayoresH1
+- Gén_49:28lo que su p les dijo, al bendecirlosH1
+- Gén_49:29sepultadme con mis p en la cueva queH1
+- Gén_49:33Jacob...expiró, y fue reunido con sus pH1
+- Gén_50:1se echó José sobre el rostro de su pH1
+- Gén_50:2y mandó José a...que embalsamasen a su pH1
+- Gén_50:5mi p me hizo jurar, diciendo: He aquíH1
+- Gén_50:5que vaya yo...y sepulte a mi p, y volveréH1
+- Gén_50:6y sepulta a tu p, como él te hizo jurarH1
+- Gén_50:7subió para sepultar a su p; y subieronH1
+- Gén_50:8José, y sus hermanos, y la casa de su pH1
+- Gén_50:10José hizo a su p duelo por siete díasH1
+- Gén_50:14que subieron con él a sepultar a su pH1
+- Gén_50:15hermanos de José que su p era muertoH1
+- Gén_50:16a José: Tu p mandó antes de su muerteH1
+- Gén_50:17maldad de los siervos del Dios de tu pH1
+- Gén_50:22habitó José en...él y la casa de su pH1
+- Éxo_2:16y dar de beber a las ovejas de su pH1
+- Éxo_2:18y volviendo ellas a Reuel su p, él lesH1
+- Éxo_3:6yo soy el Dios de tu p, Dios de AbrahamH1
+- Éxo_3:13el Dios de vuestros p me ha enviado aH1
+- Éxo_3:15Jehová, el Dios de vuestros p, el DiosH1
+- Éxo_3:16y diles: Jehová, el Dios de vuestros pH1
+- Éxo_4:5Dios de tus p, el Dios de Abraham, DiosH1
+- Éxo_6:14son los jefes de las familias de sus pH1
+- Éxo_6:25son los jefes de los p de los levitas
+- Éxo_10:6cual nunca vieron tus p ni tus abuelosH1
+- Éxo_12:3un cordero según las familias de los pH1
+- Éxo_13:5tierra...la cual juró a tus p que te daríaH1
+- Éxo_13:11metido en...te ha jurado a ti y a tus pH1
+- Éxo_15:2mi Dios...Dios de mi p, y lo enalteceréH1
+- Éxo_18:4el Dios de mi p me ayudó, y me libró deH1
+- Éxo_20:5que visito la maldad de los p sobre losH1
+- Éxo_20:12honra a tu p y a tu madre, para que tusH1
+- Éxo_21:15que hiriere a su p o a su madre, moriráH1
+- Éxo_21:17maldijere a su p o a su madre, moriráH1
+- Éxo_22:17su p no quisiere dársela, él le pesaráH1
+- Éxo_34:7la iniquidad de los p sobre los hijosH1
+- Éxo_40:15y los ungirás, como ungiste a su p, yH1
+- Lev_16:32para ser sacerdote en lugar de su pH1
+- Lev_18:7la desnudez de tu p, o...no descubrirásH1
+- Lev_18:8la desnudez de la mujer de tu p noH1
+- Lev_18:8no descubrirás; es la desnudez de tu pH1
+- Lev_18:9la desnudez de tu hermana, hija de tu pH1
+- Lev_18:11la hija de...de tu p, engendrada de tu pH1
+- Lev_18:12la desnudez de la hermana de tu p noH1
+- Lev_18:12no descubrirás; es parienta de tu pH1
+- Lev_18:14la desnudez del hermano de tu p no
+- Lev_18:14su mujer; es mujer del hermano de tu pH1
+- Lev_19:3cada uno temerá a su madre y a su p, yH1
+- Lev_20:9hombre que maldijere a su p o a...moriráH1
+- Lev_20:9de cierto morirá; a su p o a su...maldijoH1
+- Lev_20:11que yaciere con la mujer de su p, laH1
+- Lev_20:11la desnudez de su p descubrió; ambosH1
+- Lev_20:17su hermana, hija de su p o hija de suH1
+- Lev_20:19la desnudez...de la hermana de tu p, noH1
+- Lev_20:20con la mujer del hermano de su p, la
+- Lev_20:20desnudez del hermano de su p descubrióH1
+- Lev_21:2por su madre o por su p, o por su hijoH1
+- Lev_21:9si comenzare a fornicar, a su p deshonraH1
+- Lev_21:11ni por su p ni...madre se contaminaráH1
+- Lev_22:13y se hubiere vuelto a la casa de su pH1
+- Lev_22:13podrá comer del alimento de su p; peroH1
+- Lev_25:41y a la posesión de su p se restituiráH1
+- Lev_26:39por la iniquidad de sus p decaerán conH1
+- Lev_26:40confesarán su...y la iniquidad de sus pH1
+- Núm_1:2las casas de sus p, con la cuentaH1
+- Núm_1:4tribu, cada uno jefe de la casa de sus pH1
+- Núm_1:16eran...príncipes de las tribus de sus pH1
+- Núm_1:18, Núm_1:20, Núm_1:22, Núm_1:24, Núm_1:26, Núm_1:28, Núm_1:30, Núm_1:32, Núm_1:34, Núm_1:36, Núm_1:38, Núm_1:40, Núm_1:42las casas de sus p, conforme aH1
+- Núm_1:44doce varones, uno por cada casa de sus pH1
+- Núm_1:45los contados de...por las casas de sus pH1
+- Núm_1:47los levitas, según la tribu de sus p, noH1
+- Núm_2:2bajo las enseñas de las casas de sus pH1
+- Núm_2:32los contados...según las casas de sus pH1
+- Núm_2:34así marcharon...según las casas de sus pH1
+- Núm_3:4ejercieron el sacerdocio delante de...su pH1
+- Núm_3:15, Núm_3:20de Leví según las casas de sus pH1
+- Núm_4:2la cuenta de los...según las casas de sus pH1
+- Núm_4:22, Núm_4:38de Gersón...según las casas de sus pH1
+- Núm_4:29, Núm_4:42de Merari...según las casas de sus pH1
+- Núm_4:34hijos de Coat...según las casas de sus pH1
+- Núm_4:40los contados...según las casas de sus pH1
+- Núm_4:46contaron por...según las casas de sus pH1
+- Núm_6:7ni aun por su p ni...podrá contaminarseH1
+- Núm_7:2jefes de las casas de sus p...ofrecieronH1
+- Núm_11:12la tierra de la cual juraste a sus p?[[H1]]
+- Núm_12:14si su p hubiera escupido en su rostroH1
+- Núm_13:2cada tribu de sus p enviaréis un varónH1
+- Núm_14:18que visita la maldad de los p sobre losH1
+- Núm_14:23la tierra de la cual juré a sus p; noH1
+- Núm_17:2toma...una vara por cada casa de los pH1
+- Núm_17:2doce varas conforme a las casas de sus pH1
+- Núm_17:3cada jefe de...de sus p tendrá una varaH1
+- Núm_17:6cada príncipe por las casas de sus p unaH1
+- Núm_18:1la casa de tu p...llevaréis el pecado delH1
+- Núm_18:2tribu de tu p, haz que se acerquen a tiH1
+- Núm_20:15cómo nuestros p descendieron a EgiptoH1
+- Núm_20:15los egipcios nos maltrataron, y a...pH1
+- Núm_25:15Cozbi hija de...p de familia en MadiánH1
+- Núm_26:2tomad el censo...por las casas de sus pH1
+- Núm_26:55por...de las tribus de sus p heredaránH1
+- Núm_27:3nuestro p murió en el desierto; y él noH1
+- Núm_27:4será quitado el nombre de nuestro p deH1
+- Núm_27:4heredad entre los hermanos de nuestro pH1
+- Núm_27:7una heredad entre los hermanos de su pH1
+- Núm_27:7traspasarás la heredad de su p a ellasH1
+- Núm_27:10daréis su herencia a...hermanos de su pH1
+- Núm_27:11y si su p no tuviere hermanos, daréisH1
+- Núm_30:3se ligare con obligación en casa de su p
+- Núm_30:4si su p oyere su voto...y su p callare aH1
+- Núm_30:5mas si su p le vedare...su p se lo vedóH1
+- Núm_30:16las ordenanzas...entre el p y su hijaH1
+- Núm_30:16durante su juventud en casa de su pH1
+- Núm_31:26los jefes de los p de la congregaciónH1
+- Núm_32:8hicieron vuestros p, cuando los enviéH1
+- Núm_32:14habéis sucedido en lugar de vuestros pH1
+- Núm_32:28les encomendó...a los príncipes de los pH1
+- Núm_33:54por las tribus de vuestros p heredaréisH1
+- Núm_34:14hijos de Rubén según las casas de sus pH1
+- Núm_34:14hijos de Gad según las casas de sus pH1
+- Núm_36:1los príncipes de los p de la familia deH1
+- Núm_36:3así quitada de la herencia de nuestros pH1
+- Núm_36:4será quitada...de la tribu de nuestros pH1
+- Núm_36:6pero en la familia de la tribu de su pH1
+- Núm_36:7ligado a la heredad de la tribu de sus pH1
+- Núm_36:8la familia de la tribu de su p se casaráH1
+- Núm_36:8los hijos...cada uno la heredad de sus pH1
+- Núm_36:12la heredad...quedó en la tribu de...su pH1
+- Deu_1:8tierra que Jehová juró a vuestros pH1
+- Deu_1:11Dios de vuestro p os haga mil veces másH1
+- Deu_1:21como...el Dios de tus p te ha dicho; noH1
+- Deu_1:35que juré que había de dar a vuestros pH1
+- Deu_4:1tierra que...el Dios de vuestros p os daH1
+- Deu_4:31ni se olvidará del...que les juró a tus pH1
+- Deu_4:37y por cuanto él amó a tus p, escogió aH1
+- Deu_5:3no con nuestros p hizo Jehová este pactoH1
+- Deu_5:9visito la maldad de los p sobre los hijosH1
+- Deu_5:16honra a tu p y a tu madre, como JehováH1
+- Deu_6:3como te ha dicho Jehová el Dios de tus pH1
+- Deu_6:10en la tierra que juró a tus p AbrahamH1
+- Deu_6:18la buena tierra que Jehová juró a tus pH1
+- Deu_6:23darnos la tierra que juró a nuestros pH1
+- Deu_7:8el juramento que juró a vuestros p, os haH1
+- Deu_7:12Dios...la misericordia que juró a tus pH1
+- Deu_7:13la tierra que juró a tus p que te daríaH1
+- Deu_8:1tierra que Jehová prometió...a vuestros pH1
+- Deu_8:3comida que...ni tus p la habían conocidoH1
+- Deu_8:16con maná...que tus p no habían conocidoH1
+- Deu_8:18de confirmar su pacto que juró a tus pH1
+- Deu_9:5palabra que Jehová juró a tus p AbrahamH1
+- Deu_10:11posean la tierra que juré a sus p queH1
+- Deu_10:15de tus p se agradó Jehová para amarlosH1
+- Deu_10:22con 70 personas descendieron tus p aH1
+- Deu_11:9de la cual juró Jehová a vuestros p, queH1
+- Deu_11:21juro a vuestros p que les había de darH1
+- Deu_12:1tierra que...el Dios de tus p te ha dadoH1
+- Deu_13:6dioses...que ni tú ni tus p conocisteisH1
+- Deu_13:17y te multiplique, como lo juró a tus pH1
+- Deu_19:8Dios ensanchare tu...como lo juró a tus pH1
+- Deu_19:8toda la tierra que prometió dar a tus pH1
+- Deu_21:13y llorará a su p y a su madre un mesH1
+- Deu_21:18que no obedeciere a la voz de su p niH1
+- Deu_21:19lo tomarán su p...y lo sacarán ante losH1
+- Deu_22:15el p de la joven y...sacarán las señalesH1
+- Deu_22:16y dirá el p de la joven a los ancianosH1
+- Deu_22:19las cuales darán al p de la joven, porH1
+- Deu_22:21la sacarán a la puerta de la...de su pH1
+- Deu_22:21vileza en...fornicando en casa de su pH1
+- Deu_22:29al p de la joven 50 piezas de plata, yH1
+- Deu_22:30ninguno tomará la mujer de su p, niH1
+- Deu_24:16los p no morirán por los hijos, ni losH1
+- Deu_24:16no morirán...los hijos por los p; cadaH1
+- Deu_26:3la tierra que juró Jehová a nuestros pH1
+- Deu_26:5un arameo...fue mi p, el cual descendióH1
+- Deu_26:7clamamos a Jehová el Dios de nuestros pH1
+- Deu_26:15nos has dado, como juraste a nuestros pH1
+- Deu_27:3como Jehová el Dios de tus p te ha dichoH1
+- Deu_27:16maldito el que deshonrare a su p o a suH1
+- Deu_27:20que se acostare con la mujer de su pH1
+- Deu_27:20por cuanto descubrió el regazo de su pH1
+- Deu_27:22el que se acostare con su...hija de su pH1
+- Deu_28:11en el país que Jehová juró a tus p queH1
+- Deu_28:36a nación que no conociste...tú ni tus pH1
+- Deu_28:64a dioses...que no conociste tú ni tus pH1
+- Deu_29:13como lo juró a tus p Abraham, Isaac yH1
+- Deu_29:25dejaron el pacto de...el Dios de sus pH1
+- Deu_30:5tierra que heredaron tus p, y será tuyaH1
+- Deu_30:5bien, y te multiplicará más que a tus pH1
+- Deu_30:9de la manera que se gozó sobre tus pH1
+- Deu_30:20; Deu_31:7la tierra que juró Jehová a tus pH1
+- Deu_31:16he aquí, tú vas a dormir con tus p, yH1
+- Deu_31:20en la tierra que juré a tus p, la cualH1
+- Deu_32:6¿no es él tu p que te creó? El te hizoH1
+- Deu_32:7pregunta a tu p, y él te declarará; a tusH1
+- Deu_32:17dioses que...no habían temido vuestros pH1
+- Deu_33:9quien dijo de su p y...Nunca los he vistoH1
+- Jos_1:6la tierra de la cual juré a sus p queH1
+- Jos_2:12la haréis vosotros con la casa de mi pH1
+- Jos_2:13salvaréis la vida a mi p y a mi madreH1
+- Jos_2:18reunirás en tu casa a tu p y a tu madreH1
+- Jos_2:18reunirás en...a toda la familia de tu pH1
+- Jos_4:6y cuando vuestros...preguntaren a sus pH1
+- Jos_4:21mañana preguntaren...a sus p, y dijerenH1
+- Jos_5:6la tierra de...Jehová había jurado a sus pH1
+- Jos_6:23y sacaron a Rahab, a su p, a su madre, aH1
+- Jos_6:25salvó la vida a Rahab...la casa de su pH1
+- Jos_14:1les repartieron...los cabezas de los pH1
+- Jos_15:13la ciudad de Quiriat-arba p de Anac, queH1
+- Jos_15:18que pidiese a su p tierras para labrarH1
+- Jos_17:1primogénito de Manasés y p de Galaad, elH1
+- Jos_17:4les dio heredad entre los hermanos del pH1
+- Jos_18:3que os ha dado...el Dios de vuestros p?[[H1]]
+- Jos_19:47llamaron a Lesem...nombre de Dan su pH1
+- Jos_19:51las heredades que...los cabezas de los pH1
+- Jos_21:1los p de los levitas vinieron, a JosuéH1
+- Jos_21:1a los cabezas de los p de las tribus deH1
+- Jos_21:11les dieron Quiriat-arba del p de AnacH1
+- Jos_21:43la tierra que había jurado dar a sus pH1
+- Jos_21:44a todo lo que había jurado a sus p; yH1
+- Jos_22:14cada uno...era jefe de la casa de sus pH1
+- Jos_22:28altar de...el cual hicieron nuestros pH1
+- Jos_24:2vuestros p habitaron...al otro lado delH1
+- Jos_24:2esto es, Taré, p de Abraham y de NacorH1
+- Jos_24:3tomé a vuestro p Abraham del otro ladoH1
+- Jos_24:6saqué a vuestros p de Egipto; y cuandoH1
+- Jos_24:6egipcios siguieron a vuestros p hastaH1
+- Jos_24:14-15los dioses a...sirvieron vuestros pH1
+- Jos_24:17sacó a...y a nuestros p de la tierra deH1
+- Jos_24:32Jacob compró de los hijos de Hamor p deH1
+- Jue_1:14la persuadió que pidiese a su p unH1
+- Jue_2:1había jurado a vuestros p...No invalidaréH1
+- Jue_2:10aquella generación...fue reunida a sus pH1
+- Jue_2:12dejaron a Jehová el Dios de sus p, queH1
+- Jue_2:17se...del camino en que anduvieron sus pH1
+- Jue_2:19volvían...y se corrompían más que sus pH1
+- Jue_2:20traspasa mi pacto que ordené a sus p, yH1
+- Jue_2:22seguir el camino de Jehová...como...sus pH1
+- Jue_3:4él había dado a sus p por mano de MoisésH1
+- Jue_6:13sus maravillas, que...p nos han contadoH1
+- Jue_6:15pobre...yo el menor en la casa de mi pH1
+- Jue_6:25le dijo...Toma un toro del hato de tu pH1
+- Jue_6:25derriba el altar de Baal que tu p tieneH1
+- Jue_6:27temiendo...por la familia de su p y porH1
+- Jue_8:32y fue sepultado en el sepulcro de su pH1
+- Jue_9:1Abimelec...habló con...la casa del p de suH1
+- Jue_9:5viniendo a la casa de su p en Ofra, matóH1
+- Jue_9:17p peleó por vosotros, y expuso su vidaH1
+- Jue_9:18levantado hoy contra la casa de mi p, yH1
+- Jue_9:28servid a los varones de Hamor p...SiquemH1
+- Jue_9:56así pagó...el mal que hizo contra su pH1
+- Jue_11:1era hijo de...y el p de Jefté era GalaadH1
+- Jue_11:2no heredarás en la casa de nuestro pH1
+- Jue_11:7¿no me...me echasteis de la casa de mi p?[[H1]]
+- Jue_11:36p mío, si le has dado palabra a JehováH1
+- Jue_11:37volvió a decir a su p: Concédeme estoH1
+- Jue_11:39pasados los dos meses volvió a su pH1
+- Jue_14:2subió, y lo declaró a su p y a su madreH1
+- Jue_14:3y su p y su madre le dijeron: ¿No hayH1
+- Jue_14:3y Sansón respondió a su p: Tómame éstaH1
+- Jue_14:4p...no sabían que esto venía de JehováH1
+- Jue_14:5y Sansón descendió con su p y...su madreH1
+- Jue_14:6y no declaró ni a su p ni a su madre loH1
+- Jue_14:9cuando alcanzó a su p...les dio tambiénH1
+- Jue_14:10vino pues, su p adonde estaba la mujerH1
+- Jue_14:15te quememos a ti y a la casa de tu pH1
+- Jue_14:16ni a mi p ni a mi madre lo he declaradoH1
+- Jue_14:19en enojo se volvió a la casa de su pH1
+- Jue_15:1Sansón...el p de ella no lo dejó entrarH1
+- Jue_15:2dijo el p de ella: Me persuadí de que laH1
+- Jue_15:6filisteos y la quemaron a ella y a su pH1
+- Jue_16:31y toda la casa de su p...y le sepultaronH1
+- Jue_16:31Estaol, en el sepulcro de su p ManoaH1
+- Jue_17:10quédate...y serás para mí p y sacerdoteH1
+- Jue_18:19vente...que seas nuestro p y sacerdoteH1
+- Jue_18:29Dan, conforme al nombre de Dan su pH1
+- Jue_19:2se fue de él a casa de su p, a Belén deH1
+- Jue_19:3ella le hizo entrar en la casa de su pH1
+- Jue_19:4y viéndole el p de la joven, salió aH2859
+- Jue_19:4le detuvo su suegro, el p de la joven, yH1
+- Jue_19:5irse; y el p de la joven dijo a su yernoH1
+- Jue_19:6y el p de la joven dijo al varón: Yo teH1
+- Jue_19:8levantándose...le dijo el p de la jovenH1
+- Jue_19:9su suegro, el p de la joven, le dijo: HeH1
+- Jue_21:22si vinieren los p de ellas...les diremosH1
+- Rut_2:11dejando a tu p...venido a un puebloH1
+- Rut_4:17Obed...Este es p de Isaí, p de DavidH1
+- 1Sa_2:25ellos no oyeron la voz de su pH1
+- 1Sa_2:27¿no me manifesté yo...a la casa de tu pH1
+- 1Sa_2:28di a la casa de tu p todas las ofrendasH1
+- 1Sa_2:30que tu casa y la casa de tu p andaríanH1
+- 1Sa_2:31cortaré...y el...brazo de la casa de tu pH1
+- 1Sa_8:3no anduvieron...por los caminos de su pH1
+- 1Sa_9:3y se habían perdido las asnas de Cis, p deH1
+- 1Sa_9:5mi p, abandonada la preocupación por lasH1
+- 1Sa_9:20sino para ti y para toda la casa de tu p?[[H1]]
+- 1Sa_10:2tu p ha dejado ya de inquietarse por lasH1
+- 1Sa_10:12respondió...¿Y quién es el p de ellos?[[H1]]
+- 1Sa_12:6sacó a vuestros p de la tierra de EgiptoH1
+- 1Sa_12:7Jehová ha hecho con vosotros y con...pH1
+- 1Sa_12:8p clamaron a Jehová...envió a Moisés y aH1
+- 1Sa_12:8los cuales sacaron a vuestros p de EgiptoH1
+- 1Sa_12:15estará...como estuvo contra vuestros pH1
+- 1Sa_14:1ven y pasemos...no lo hizo saber a su pH1
+- 1Sa_14:27no había oído cuando su p juramentó aH1
+- 1Sa_14:28p ha hecho jurar...al pueblo, diciendoH1
+- 1Sa_14:29mi p ha turbado el país. Ved ahora cómoH1
+- 1Sa_14:51Cis p de Saúl, y Ner p de Abner, fueronH1
+- 1Sa_17:15apacentar las ovejas de su p en BelénH1
+- 1Sa_17:25eximirá de tributos a la casa de su pH1
+- 1Sa_17:34siervo era pastor de las ovejas de su pH1
+- 1Sa_18:2Saúl...no le dejó volver a casa de su pH1
+- 1Sa_18:18y qué es...la familia de mi p en IsraelH1
+- 1Sa_19:2diciendo: Saúl mi p procura matarte; porH1
+- 1Sa_19:3junto a mi p...hablaré de ti a mi p, y teH1
+- 1Sa_19:4Jonatán habló bien de David a Saúl su pH1
+- 1Sa_20:1o cuál mi pecado contra tu p, para queH1
+- 1Sa_20:2que mi p ninguna cosa hará, grande niH1
+- 1Sa_20:2me ha de encubrir mi p este asunto? NoH1
+- 1Sa_20:3tu p sabe...he hallado gracia delante deH1
+- 1Sa_20:6si tu p hiciere mención de mí, dirás: MeH1
+- 1Sa_20:8no hay necesidad de llevarme hasta tu pH1
+- 1Sa_20:9si yo supiere que mi p ha determinadoH1
+- 1Sa_20:10dijo...¿Quién me dará aviso si tu p teH1
+- 1Sa_20:12preguntado a mi p mañana a esta horaH1
+- 1Sa_20:13si mi p intentare hacerte mal, JehováH1
+- 1Sa_20:13Jehová contigo, como estuvo con mi pH1
+- 1Sa_20:32y Jonatán respondió a su p Saúl y leH1
+- 1Sa_20:33su p estaba resuelto a matar a DavidH1
+- 1Sa_20:34no comió pan...su p le había afrentadoH1
+- 1Sa_22:1casa de su p lo supieron, vinieron allíH1
+- 1Sa_22:3te ruego que mi p y...estén con vosotrosH1
+- 1Sa_22:11el rey envió...por toda la casa de su pH1
+- 1Sa_22:15no culpe el rey...a toda la casa de mi pH1
+- 1Sa_22:16sin duda morirás, toda la casa de tu pH1
+- 1Sa_22:22a todas las personas de la casa de tu pH1
+- 1Sa_23:17no te hallará la mano de Saúl mi p, yH1
+- 1Sa_23:17tú reinarás...aun Saúl mi p así lo sabeH1
+- 1Sa_24:11p mío, mira la orilla de tu manto $nH1
+- 1Sa_24:21ni borrarás mi nombre de la...de mi pH1
+- 2Sa_2:32lo sepultaron en el sepulcro de su pH1
+- 2Sa_3:7te has llegado a la concubina de mi p?[[H1]]
+- 2Sa_3:8hoy misericordia con la casa de Saúl tu pH1
+- 2Sa_3:29de Joab, y sobre toda la casa de su pH1
+- 2Sa_6:21quien me eligió en preferencia a tu pH1
+- 2Sa_7:12duermas con tus p, yo levantaré...a unoH1
+- 2Sa_7:14le seré a él p, y él me será a mí hijoH1
+- 2Sa_9:7misericordia por amor de Jonatán tu p, yH1
+- 2Sa_9:7te devolveré...las tierras de Saúl tu pH1
+- 2Sa_10:2haré misericordia...su p la hizo conmigoH1
+- 2Sa_10:2envió...siervos para consolarlo por su pH1
+- 2Sa_10:3que por honrar David a tu p te ha enviadoH1
+- 2Sa_13:5y cuando tu p viniere a visitarte, dileH1
+- 2Sa_14:9la maldad sea...y sobre la casa de mi pH1
+- 2Sa_15:34como...he sido siervo de tu p, así seréH1
+- 2Sa_16:3me devolverá...de Israel el reino de mi pH1
+- 2Sa_16:19como he servido delante de tu p, asíH1
+- 2Sa_16:21llégate a las concubinas de tu p, queH1
+- 2Sa_16:21que te has hecho aborrecible a tu p, yH1
+- 2Sa_16:22se llegó...a las concubinas de su p, anteH1
+- 2Sa_17:8tu p y los suyos son hombres valientesH1
+- 2Sa_17:8tu p es hombre de guerra, y no pasaráH1
+- 2Sa_17:10todo Israel sabe que tu p es...valienteH1
+- 2Sa_17:23fue sepultado en el sepulcro de su pH1
+- 2Sa_19:28toda la casa de mi p era digna de muerteH1
+- 2Sa_19:37y que muera...junto al sepulcro de mi pH1
+- 2Sa_21:14y sepultaron...el sepulcro de Cis su pH1
+- 2Sa_24:17contra mí, y contra la casa de mi pH1
+- 1Re_1:6su p nunca le había entristecido enH1
+- 1Re_1:21cuando mi señor el rey duerma con sus p
+- 1Re_2:10durmió David con sus p, y fue sepultado
+- 1Re_2:12sentó Salomón en el trono de David su pH1
+- 1Re_2:24ha puesto sobre el trono de David mi pH1
+- 1Re_2:26has llevado el arca...delante de...mi pH1
+- 1Re_2:26todas las cosas en que fue afligido mi pH1
+- 1Re_2:31quita de...de la casa de mi p la sangreH1
+- 1Re_2:32mató a...sin que mi p David supiese nadaH1
+- 1Re_2:44el mal...que cometiste contra mi p DavidH1
+- 1Re_3:3andando en los estatutos de su p DavidH1
+- 1Re_3:6hiciste gran misericordia a...David mi pH1
+- 1Re_3:7puesto a...por rey en lugar de David mi pH1
+- 1Re_3:14si anduvieres...como anduvo David tu pH1
+- 1Re_5:1que lo habían ungido...en lugar de su pH1
+- 1Re_5:3sabes que mi p...no pudo edificar casa alH1
+- 1Re_5:5según lo que Jehová habló a David mi pH1
+- 1Re_6:12cumpliré...palabra que hablé a David tu pH1
+- 1Re_7:14p, que trabajaba en bronce, era de TiroH1
+- 1Re_7:51metió Salomón lo que su p había dedicadoH1
+- 1Re_8:15habló a David mi p lo que con su manoH1
+- 1Re_8:17mi p tuvo en su corazón edificar casaH1
+- 1Re_8:18pero Jehová dijo a David mi p; Cuanto aH1
+- 1Re_8:20me he levantado en lugar de David mi pH1
+- 1Re_8:21el pacto de...que él hizo con nuestros p
+- 1Re_8:24has cumplido a tu siervo David mi p loH1
+- 1Re_8:25a tu siervo...mi p lo que le prometisteH1
+- 1Re_8:26la palabra que dijiste a tu...David mi pH1
+- 1Re_8:34volverás a la tierra que diste a sus p
+- 1Re_8:40de la tierra que tú diste a nuestros p
+- 1Re_8:48hacia su tierra que tú diste a sus p, y
+- 1Re_8:53cuando sacaste a nuestros p de Egipto
+- 1Re_8:57esté...como estuvo con nuestros p, y no
+- 1Re_8:58decretos, los cuales mandó a nuestros p
+- 1Re_9:4si tú anduvieres...como anduvo David tu pH1
+- 1Re_9:5hablé a David tu p, diciendo: No faltaráH1
+- 1Re_9:9había sacado a sus p de tierra de Egipto
+- 1Re_11:4su corazón no era perfecto...como...su pH1
+- 1Re_11:6y no siguió...a Jehová como David su pH1
+- 1Re_11:12no lo haré en tus días, por amor a...tu pH1
+- 1Re_11:17varones edomitas de los siervos de su pH1
+- 1Re_11:21que David había dormido con sus p, y queH1
+- 1Re_11:27el portillo de la ciudad de David su pH1
+- 1Re_11:33y mis decretos, como hizo David su pH1
+- 1Re_11:43durmió Salomón con sus p...fue sepultadoH1
+- 1Re_11:43sepultado en la ciudad de su p David; yH1
+- 1Re_12:4, 1Re_12:10tu p agravó nuestro yugo...disminuye túH1
+- 1Re_12:4disminuye...la dura servidumbre de tu pH1
+- 1Re_12:6habían estado delante de Salomón su pH1
+- 1Re_12:9del yugo que tu p puso sobre nosotros?[[H1]]
+- 1Re_12:10dedo...más grueso que los lomos de mi pH1
+- 1Re_12:11mi p os cargó de pesado yugo, mas yoH1
+- 1Re_12:11, 1Re_12:14mi p os castigó con azotes, mas yoH1
+- 1Re_12:14diciendo: Mi p agravó vuestro yugo, peroH1
+- 1Re_13:11le contaron también a su p las palabrasH1
+- 1Re_13:12su p les dijo: ¿Por qué camino se fue?[[H1]]
+- 1Re_13:22no entrará tu...en el sepulcro de tus pH1
+- 1Re_14:15esta buena tierra que había dado a sus pH1
+- 1Re_14:20habiendo dormido con sus p, reinó en suH1
+- 1Re_14:22le enojaron más que todo lo que sus pH1
+- 1Re_14:31durmió Roboam con sus p...fue sepultadoH1
+- 1Re_14:31fue sepultado con sus p en la ciudad deH1
+- 1Re_15:3no fue...como el corazón de David su pH1
+- 1Re_15:8durmió Abiam con sus p, y lo sepultaronH1
+- 1Re_15:11Asa hizo lo recto ante...como David su pH1
+- 1Re_15:12quitó...ídolos que sus p habían hechoH1
+- 1Re_15:15metió en...lo que su p había dedicadoH1
+- 1Re_15:19haya alianza...como entre mi p y el tuyoH1
+- 1Re_15:24durmió Asa con sus p, y fue sepultadoH1
+- 1Re_15:24sepultado...en la ciudad de David su pH1
+- 1Re_15:26andando en el camino de su p, y en losH1
+- 1Re_16:6durmió Baasa con sus p, y fue sepultadoH1
+- 1Re_16:28Omri durmió con sus p, y fue sepultadoH1
+- 1Re_18:18yo no he turbado...tú y la casa de tu pH1
+- 1Re_19:4basta ya...pues no soy yo mejor que mis pH1
+- 1Re_19:20que me dejes besar a mi p y a mi madreH1
+- 1Re_20:34las ciudades que mi p tomó al tuyo, yoH1
+- 1Re_20:34plazas...como mi p las hizo en SamariaH1
+- 1Re_21:3que yo te dé a ti la heredad de mis p
+- 1Re_21:4diciendo: No te daré la heredad de mis pH1
+- 1Re_22:40y durmió Acab con sus p, y reinó en suH1
+- 1Re_22:43anduvo en todo el camino de Asa su pH1
+- 1Re_22:46que había quedado en el tiempo de su pH1
+- 1Re_22:50durmió Josafat con sus p...fue sepultadoH1
+- 1Re_22:50sepultado...en la ciudad de David su pH1
+- 1Re_22:52y anduvo en el camino de su p, y en elH1
+- 1Re_22:53todas las cosas que había hecho su pH1
+- 2Re_2:12Eliseo, clamaba: ¡P mío, p míoH1
+- 2Re_3:2lo malo...aunque no como su p y su madreH1
+- 2Re_3:2quitó las estatuas...que su p había hechoH1
+- 2Re_3:13vé a los profetas de tu p...de tu madreH1
+- 2Re_4:18vino a su p, que estaba con los segadoresH1
+- 2Re_4:19dijo a su p: ¡Ay, mi cabeza, mi cabeza![[H1]]
+- 2Re_4:19y el p dijo a un criado: Llévalo a suH1
+- 2Re_5:13p mío, si el profeta te mandara algunaH1
+- 2Re_6:21el rey...a Eliseo: ¿Los mataré, p mío?[[H1]]
+- 2Re_8:24durmió Joram con sus p, y fue sepultadoH1
+- 2Re_9:25y yo íbamos...con la gente de Acab su pH1
+- 2Re_9:28siervos...allá le sepultaron con sus pH1
+- 2Re_10:3y ponedlo en el trono de su p, y peleadH1
+- 2Re_10:35durmió Jehú con sus p, y lo sepultaronH1
+- 2Re_12:18que habían dedicado...y Ocozías sus pH1
+- 2Re_12:21lo sepultaron con sus p en la ciudad deH1
+- 2Re_13:9durmió Joacaz con sus p, y lo sepultaronH1
+- 2Re_13:13y durmió Joás con sus p...fue sepultadoH1
+- 2Re_13:14llorando...dijo: P mío, p mío, carroH1
+- 2Re_13:25había tomado...de mano de Joacaz su pH1
+- 2Re_14:3hizo lo recto...aunque no como David su pH1
+- 2Re_14:3hizo...las cosas que había hecho Joás su pH1
+- 2Re_14:5mató a...habían dado muerte al rey su pH1
+- 2Re_14:6no matarán a los p por los hijos, ni aH1
+- 2Re_14:6a los hijos por los p, sino que cada unoH1
+- 2Re_14:16y durmió Joás con...p, y fue sepultadoH1
+- 2Re_14:20y lo sepultaron en Jerusalén con sus pH1
+- 2Re_14:21hicieron rey en lugar de Amasías su pH1
+- 2Re_14:22después que el rey durmió con sus pH1
+- 2Re_14:29durmió Jeroboam con sus p, los reyes deH1
+- 2Re_15:3las cosas que su p Amasías había hechoH1
+- 2Re_15:7durmió Azarías con sus p...lo sepultaronH1
+- 2Re_15:9e hizo lo malo...como habían hecho sus pH1
+- 2Re_15:22durmió Manahem con sus p, y reino en suH1
+- 2Re_15:34él hizo lo...que había hecho su p UzíasH1
+- 2Re_15:38durmió Jotam con sus p, y fue sepultadoH1
+- 2Re_15:38sepultado...en la ciudad de David su pH1
+- 2Re_16:2no hizo lo recto ante...como David su pH1
+- 2Re_16:20durmió el rey Acaz con sus p...sepultadoH1
+- 2Re_17:13las leyes que yo prescribí a vuestros pH1
+- 2Re_17:14endurecieron su cerviz, como...de sus pH1
+- 2Re_17:15el pacto que él había hecho con sus pH1
+- 2Re_17:41como hicieron sus p...hacen hasta hoyH1
+- 2Re_18:3hizo...cosas que había hecho David su pH1
+- 2Re_19:12a las naciones que mis p destruyeronH1
+- 2Re_20:5así dice Jehová, el Dios de David tu pH1
+- 2Re_20:17lo que tus p han atesorado hasta hoyH1
+- 2Re_20:21durmió Ezequías con sus p, y reinó enH1
+- 2Re_21:3lugares altos que...su p había derribadoH1
+- 2Re_21:8sea movido de la tierra que di a sus pH1
+- 2Re_21:15ira, desde el día que sus p salieron deH1
+- 2Re_21:18durmió Manasés con sus p...y reinó en suH1
+- 2Re_21:20lo malo, como había hecho Manasés su pH1
+- 2Re_21:21anduvo en...caminos en que su p anduvoH1
+- 2Re_21:21ídolos a los cuales había servido su pH1
+- 2Re_21:22y dejó a Jehová el Dios de sus p, y noH1
+- 2Re_22:2anduvo en todo el camino de David su pH1
+- 2Re_22:13nuestros p no escucharon las palabrasH1
+- 2Re_22:20yo te recogeré con tus p...en paz, y noH1
+- 2Re_23:30y lo pusieron por rey en lugar de su pH1
+- 2Re_23:32él hizo lo malo...que sus p habían hechoH1
+- 2Re_23:34Eliaquim hijo, en lugar de Josías su pH1
+- 2Re_23:37todas las cosas que sus p habían hechoH1
+- 2Re_24:6durmió Joacim con sus p, y reinó en suH1
+- 2Re_24:9a todas las cosas que había hecho su pH1
+- 1Cr_2:17Amasa, cuyo p fue Jeter ismaelitaH1
+- 1Cr_2:21la hija de Maquir p de Galaad, la cualH1
+- 1Cr_2:23lugares fueron de los hijos de Maquir pH1
+- 1Cr_2:24Abías mujer de...dio a luz a Asor p deH1
+- 1Cr_2:42Mesa...el p de Zif...Maresa p de HebrónH1
+- 1Cr_2:44Sema engendró a Raham p de Jorcoam, yH1
+- 1Cr_2:45Maón fue hijo de Samai, y...p de Bet-surH1
+- 1Cr_2:49también dio a luz a Saaf p de MadmanaH1
+- 1Cr_2:49y a Seva p de Macbena y p de GibeaH1
+- 1Cr_2:50de Efrata: Sobal p de Quiriat-jearimH1
+- 1Cr_2:51Salma p de Belén, y Haref p de Bet-gaderH1
+- 1Cr_2:52los hijos de Sobal p de Quiriat-jearimH1
+- 1Cr_2:55son los ceneos que vinieron de Hamat p deH1
+- 1Cr_4:3y estas son las del p de Etam: JezreelH1
+- 1Cr_4:4Penuel fue p de Gedor, y Ezer p de HusaH1
+- 1Cr_4:4estos fueron los hijos de Hur...p de BelénH1
+- 1Cr_4:5Asur p de Tecoa tuvo dos mujeres, Hela yH1
+- 1Cr_4:11engendró a Mehir, el cual fue p de EstónH1
+- 1Cr_4:12a Tehina p de la ciudad de Nahas; estosH1
+- 1Cr_4:14Joab, p de los habitantes del valle deH1
+- 1Cr_4:17Esdras...engendró a...Isba p de EstemoaH1
+- 1Cr_4:18Jered p de Gedor, a Heber p de Soco y aH1
+- 1Cr_4:18Jehudaía dio a luz...Jecutiel p de ZanoaH1
+- 1Cr_4:19fueron el p de Keila garmita, y EstemoaH1
+- 1Cr_4:21Er p de Leca, y Laada p de Maresa, y lasH1
+- 1Cr_4:38las casas de sus p fueron multiplicadasH1
+- 1Cr_5:1Rubén...mas como violó el lecho de su pH1
+- 1Cr_5:13hermanos, según las familias de sus pH1
+- 1Cr_5:15Ahí...fue principal en la casa de sus pH1
+- 1Cr_5:24jefes de las casas de sus p: Efer, IsiH1
+- 1Cr_5:24fueron los jefes de las casas de sus pH1
+- 1Cr_5:25se rebelaron contra el Dios de sus p, yH1
+- 1Cr_7:2de Tola...jefes de las familias de sus pH1
+- 1Cr_7:4por las familias de sus p, 36.000 hombresH1
+- 1Cr_7:14la cual también dio a luz a Maquir p deH1
+- 1Cr_7:22Efraín su p hizo duelo por muchos díasH1
+- 1Cr_7:31y Malquiel, el cual fue p de BirzavitH1
+- 1Cr_9:19coreítas por la casa de su p, tuvieronH1
+- 1Cr_9:19p guardaron la entrada del campamentoH1
+- 1Cr_9:35en Gabaón habitaba Jehiel p de GabaónH25
+- 1Cr_12:17véalo...Dios de nuestros p, y lo demandeH1
+- 1Cr_12:28Sadoc...con 22 de los...de la casa de su pH1
+- 1Cr_12:30varones ilustres en las casas de sus pH1
+- 1Cr_15:12sois los principales p de...los levitasH1
+- 1Cr_17:11días sean cumplidos para irte con tus pH1
+- 1Cr_17:13yo le seré por p, y él me será por hijoH25
+- 1Cr_19:2con Hanún...su p me mostró misericordiaH25
+- 1Cr_19:2que lo consolasen de la muerte de su pH25
+- 1Cr_19:3¿a tu parecer honra David a tu p, queH25
+- 1Cr_21:17contra mí, y contra la casa de mi p, yH1
+- 1Cr_22:10yo le seré por p; y afirmaré el tronoH25
+- 1Cr_23:24hijos de Leví en las familias de sus pH1
+- 1Cr_24:2Nadab y Abiú murieron antes que su pH25
+- 1Cr_24:19según les fue ordenado por Aarón su pH25
+- 1Cr_24:31el principal de los p igualmente queH1
+- 1Cr_25:3seis, bajo la dirección de su p JedutúnH25
+- 1Cr_25:6bajo la dirección de su p en la músicaH25
+- 1Cr_26:6fueron señores sobre la casa de sus pH25
+- 1Cr_26:10no era el...mas su p lo puso por jefeH25
+- 1Cr_28:4Dios...me eligió de toda la casa de mi pH25
+- 1Cr_28:4de la casa de Judá a la familia de mi pH25
+- 1Cr_28:4de entre los hijos de mi p se agradó deH25
+- 1Cr_28:6escogido por hijo...le seré a él por pH25
+- 1Cr_28:9tú, Salomón...reconoce al Dios de tu pH25
+- 1Cr_29:10oh Jehová, Dios de Israel nuestro pH25
+- 1Cr_29:15y advenedizos...como todos nuestros pH1
+- 1Cr_29:18Dios de...Israel nuestros p, conservaH1
+- 1Cr_29:20toda la...bendijo a Jehová Dios de sus pH1
+- 1Cr_29:23sentó Salomón...en lugar de David su pH25
+- 2Cr_1:8con...mi p gran misericordiaH25
+- 2Cr_1:9confírmese...la palabra dada a David mí pH25
+- 2Cr_2:3como hiciste con David mi p, enviándoleH25
+- 2Cr_2:7con los maestros...los cuales dispuso mi pH25
+- 2Cr_2:14hijo de...de Dan, mas su p fue de TiroH25
+- 2Cr_2:14con...y con los de mi señor David tu pH25
+- 2Cr_2:17haberlos ya contado David su p, y fueronH25
+- 2Cr_3:1el monte Moriah...mostrado a David su pH25
+- 2Cr_5:1las cosas que David su p había dedicadoH25
+- 2Cr_6:4lo que prometió con su boca a David mi pH25
+- 2Cr_6:7mi p tuvo en su corazón edificar casa alH25
+- 2Cr_6:8mas Jehová dijo a David mi p: Respecto aH25
+- 2Cr_6:10me levanté yo en lugar de David mi p, yH25
+- 2Cr_6:15has guardado a tu siervo David mi p loH25
+- 2Cr_6:16cumple a tu siervo David mi p lo que leH25
+- 2Cr_6:25volver a la tierra que diste...a sus pH1
+- 2Cr_6:31de la tierra que tú diste a nuestros pH1
+- 2Cr_6:38hacia la tierra que tú diste a sus pH1
+- 2Cr_7:17tú anduvieres...como anduvo David tu pH25
+- 2Cr_7:18pacté con David tu p, diciendo: No teH25
+- 2Cr_7:22cuanto dejaron a Jehová Dios de sus pH1
+- 2Cr_8:14conforme a lo ordenado por David su pH25
+- 2Cr_9:31durmió Salomón con sus p...lo sepultaronH25
+- 2Cr_9:31lo sepultaron en la ciudad de David su pH25
+- 2Cr_10:4tu p agravó nuestro yugo; ahora aliviaH25
+- 2Cr_10:4del pesado yugo con que tu p nos apremióH25
+- 2Cr_10:6habían estado delante de Salomón su pH25
+- 2Cr_10:9alivia algo del yugo que tu p puso sobreH25
+- 2Cr_10:10diciendo: Tu p agravó nuestro yugo, masH25
+- 2Cr_10:10dedo...más grueso que los lomos de mi pH25
+- 2Cr_10:11mi p os cargó de yugo...mi p os castigóH25
+- 2Cr_10:14mi p hizo pesado...mi p os castigó conH25
+- 2Cr_11:16ofrecer sacrificios a...el Dios de sus pH1
+- 2Cr_12:16durmió Roboam con sus p, y fue sepultadoH1
+- 2Cr_13:12no peleéis contra...Dios de vuestros pH1
+- 2Cr_13:18se apoyaban en Jehová el Dios de sus pH1
+- 2Cr_14:1durmió Abías con sus p, y fue sepultadoH1
+- 2Cr_14:4a Judá que buscase a...el Dios de sus pH1
+- 2Cr_15:12que buscarían a Jehová el Dios de sus pH1
+- 2Cr_15:18a la casa de...lo que su p había dedicadoH25
+- 2Cr_16:3alianza...como la hubo entre tu p y mi pH25
+- 2Cr_16:13durmió Asa con sus p, y murió en el añoH1
+- 2Cr_17:2las ciudades...que su p Asa había tomadoH25
+- 2Cr_17:3en los primeros caminos de David su p, yH25
+- 2Cr_17:4buscó al Dios de su p, y anduvo en susH25
+- 2Cr_19:4los conducía a Jehová el Dios de sus pH1
+- 2Cr_19:8p de familias de Israel, para el juicioH1
+- 2Cr_20:6Dios de nuestros p, ¿no eres tú Dios enH1
+- 2Cr_20:32y anduvo en el camino de Asa su p, sinH25
+- 2Cr_20:33enderezado su corazón al Dios de sus pH1
+- 2Cr_21:1durmió Josafat con sus p...lo sepultaronH1
+- 2Cr_21:1lo sepultaron con sus p en la ciudad deH1
+- 2Cr_21:3y su p les había dado muchos regalos deH25
+- 2Cr_21:4fue elevado, pues, Jorani al reino de su pH25
+- 2Cr_21:10había dejado a Jehová el Dios de sus pH1
+- 2Cr_21:12el Dios de David tu p ha dicho así: PorH25
+- 2Cr_21:12no has andado en los caminos de...tu pH25
+- 2Cr_21:13has dado muerte a...a la familia de tu pH1
+- 2Cr_21:19fuego...como lo habían hecho con sus pH1
+- 2Cr_22:4después de la muerte de su p, ellos leH25
+- 2Cr_24:18desampararon la casa de...Dios de sus pH1
+- 2Cr_24:22misericordia que Joiada p de ZacaríasH25
+- 2Cr_24:24cuanto habían dejado a...Dios de sus pH1
+- 2Cr_25:3mató a los...que habían matado al rey su pH25
+- 2Cr_25:4no morirán los p por los hijos, ni losH1
+- 2Cr_25:4no morirán los...ni los hijos por los pH1
+- 2Cr_25:28lo trajeron...sepultaron con sus p en laH1
+- 2Cr_26:1lo pusieron por rey en...de Amasías su pH25
+- 2Cr_26:2después que el rey Amasías durmió con...pH1
+- 2Cr_26:4las cosas que había hecho Amasías su pH25
+- 2Cr_26:23y durmió Uzías con sus p...lo sepultaronH1
+- 2Cr_26:23lo sepultaron con sus p en el campo deH1
+- 2Cr_27:2cosas que había hecho Uzías su p, salvoH25
+- 2Cr_27:9durmió Jotam con sus p, y lo sepultaronH1
+- 2Cr_28:1no hizo lo recto ante...como David su pH25
+- 2Cr_28:6por cuanto habían dejado...Dios de sus pH1
+- 2Cr_28:9Dios de vuestros p, por el enojo contraH1
+- 2Cr_28:25provocando así a ira...el Dios de sus pH1
+- 2Cr_28:27durmió Acaz con sus p, y lo sepultaronH1
+- 2Cr_29:2hizo lo recto...había hecho David su pH25
+- 2Cr_29:5santificad la casa de Jehová el Dios...pH1
+- 2Cr_29:6nuestros p se han rebelado, y han hechoH1
+- 2Cr_29:9he aquí nuestros p han caído a espadaH1
+- 2Cr_30:7p...se rebelaron contra...el Dios de sus pH1
+- 2Cr_30:8no endurezcáis...cerviz como vuestros pH1
+- 2Cr_30:19a Jehová el Dios de sus p, aunque noH1
+- 2Cr_30:22dando gracias a Jehová...Dios de sus pH1
+- 2Cr_32:13lo que yo y mis p hemos hecho a todosH1
+- 2Cr_32:14qué dios...naciones que destruyeron mis pH1
+- 2Cr_32:15pudo librar a su...de las manos de mis pH1
+- 2Cr_32:33y durmió Ezequías con sus p...sepultaronH1
+- 2Cr_33:3altos que Ezequías su p había derribadoH1
+- 2Cr_33:8la tierra que yo entregué a vuestros pH1
+- 2Cr_33:12oró...en la presencia del Dios de sus pH1
+- 2Cr_33:20y durmió Manasés con sus p...sepultaronH1
+- 2Cr_33:22lo malo...como había hecho Manasés su pH1
+- 2Cr_33:22los ídolos que su p Manasés había hechoH1
+- 2Cr_33:23nunca se...como se humilló Manasés su pH1
+- 2Cr_34:2anduvo en los caminos de David su p, sinH1
+- 2Cr_34:3comenzó a buscar al Dios de David su pH1
+- 2Cr_34:21nuestros p no guardaron la palabra deH1
+- 2Cr_34:28te recogeré con tus p, y Serás recogidoH1
+- 2Cr_34:32conforme al pacto de...del Dios de sus pH1
+- 2Cr_34:33no se apartaron de en...el Dios de sus pH1
+- 2Cr_35:4según las familias de vuestros p, porH1
+- 2Cr_35:24lo sepultaron en los sepulcros de sus pH1
+- 2Cr_36:1a Joacaz hijo...hizo rey en lugar de su pH1
+- 2Cr_36:15el Dios de...sus p envió...palabra a ellosH1
+- Esd_2:59no pudieron demostrar...casa de sus pH1
+- Esd_4:15se busque en el libro de las...de tus pH1
+- Esd_5:12nuestros p provocaron a ira al Dios deH1
+- Esd_7:27bendito Jehová Dios de nuestros p, queH1
+- Esd_8:28ofrenda voluntaria a...Dios de nuestros pH1
+- Esd_9:7desde los días de nuestro p hasta esteH1
+- Esd_10:11dad gloria a Jehová Dios de vuestros pH1
+- Neh_1:6y la casa de mi p hemos pecadoH1
+- Neh_2:3la ciudad, casa de los sepulcros de mis pH1
+- Neh_2:5a Judá...ciudad de los sepulcros de mis pH1
+- Neh_7:61no pudieron mostrar la casa de sus p, niH1
+- Neh_9:2confesaron sus...y las iniquidades de sus pH1
+- Neh_9:9y miraste la aflicción de nuestros p enH1
+- Neh_9:16mas ellos y nuestros p fueron soberbiosH1
+- Neh_9:23tierra de la cual habías dicho a sus pH1
+- Neh_9:32el sufrimiento que ha alcanzado a...tu pH1
+- Neh_9:34nuestros p no pusieron por obra tu leyH1
+- Neh_9:36siervos en la tierra...diste a nuestros pH1
+- Neh_10:34según las casas de nuestros p, en losH1
+- Neh_13:18¿no hicieron así vuestros p, y trajoH1
+- Est_2:7su p y su madre murieron...la adoptóH1
+- Est_4:14porque...tú y la casa de tu p pereceréis
+- Job_8:8disponte para inquirir a los p de ellasH1
+- Job_15:10mucho más avanzados en días que tu pH1
+- Job_15:18lo que los sabios nos contaron de sus pH1
+- Job_17:14a la corrupción he dicho: Mi p eres túH1
+- Job_29:16a los menesterosos era p, y de la causaH1
+- Job_30:1cuyos p...desdeñara poner con los perrosH1
+- Job_31:18creció conmigo como con un p, y desdeH1
+- Job_38:28¿tiene la lluvia p? ¿O quién engendróH1
+- Job_42:15les dio su p herencia entre sus hermanosH1
+- Sal_22:4en ti esperaron nuestros p; esperaronH1
+- Sal_27:10aunque mi p y mi madre me dejaran, conH1
+- Sal_39:12para ti, y advenedizo, como todos mis pH1
+- Sal_44:1hemos oído, nuestros p nos han contadoH1
+- Sal_45:10olvida tu pueblo, y la casa de tu pH1
+- Sal_45:16en lugar de tus p serán tus hijos, aH1
+- Sal_49:19entrará en la generación de sus p, yH1
+- Sal_68:5P de huérfanos y defensor de viudasH1
+- Sal_78:3hemos oído...nuestros p nos las contaron
+- Sal_78:5mandó a nuestros p que la notificasen a sus hijosH1
+- Sal_78:8no sean como sus p, generación contumazH1
+- Sal_78:12delante de sus p...en la tierra de EgiptoH1
+- Sal_78:57se volvieron y se rebelaron como sus pH1
+- Sal_89:26el me clamará: Mi p eres tú, mi DiosH1
+- Sal_95:9donde me tentaron vuestros p, me probaronH1
+- Sal_103:13como el p se compadece de los hijosH1
+- Sal_106:6pecamos nosotros, como nuestros pH1
+- Sal_106:7nuestros p en Egipto no entendieron tusH1
+- Sal_109:14venga en memoria...la maldad de sus pH1
+- Pro_1:8oye, hijo mío, la instrucción de tu pH1
+- Pro_3:12ama al...como el p al hijo a quien quiereH1
+- Pro_4:1oíd, hijos, la enseñanza de un p, y estadH1
+- Pro_4:3yo también fui hijo de mi p, delicado yH1
+- Pro_6:20guarda, hijo mío, el mandamiento de tu pH1
+- Pro_10:1el hijo sabio alegra al p, pero el hijoH1
+- Pro_13:1hijo sabio recibe el consejo del p, masH1
+- Pro_15:5el necio menosprecia el consejo de su pH1
+- Pro_15:20hijo sabio alegra al p; mas el hombreH1
+- Pro_17:6corona...y la honra de los hijos, sus pH1
+- Pro_17:21tristeza...el p del necio no se alegraráH1
+- Pro_17:25el hijo necio es pesadumbre de su pH1
+- Pro_19:13dolor es para su p el hijo necio, yH1
+- Pro_19:14y las riquezas son herencia de los pH1
+- Pro_19:26el que roba a su p y...causa vergüenzaH1
+- Pro_20:20al que maldice a su p...se le apagará suH1
+- Pro_22:28los linderos antiguos que pusieron tus pH1
+- Pro_23:22oye a tu p, a aquel que te engendróH1
+- Pro_23:24mucho se alegrará el p del justo, y elH1
+- Pro_23:25alégrense tu p y tu madre, y gócese laH1
+- Pro_27:10no dejes a tu amigo...al amigo de tu pH1
+- Pro_28:7compañero de glotones avergüenza a su pH1
+- Pro_28:24roba a su p o...y dice que no es maldadH1
+- Pro_29:3el...que ama la sabiduría alegra a su pH1
+- Pro_30:11Hay generación que maldice a su pH1
+- Pro_30:17el ojo que escarnece a su p y...su madreH1
+- Isa_3:6a su hermano, de la familia de su p, yH1
+- Isa_7:17hará venir...sobre la casa de tu p, díasH1
+- Isa_8:4antes que el niño sepa decir: P mío, yH1
+- Isa_9:6se llamará su...P eterno, Príncipe de pazH1
+- Isa_14:21para el matadero, por la maldad de sus pH1
+- Isa_22:21será p al morador de Jerusalén, y a laH1
+- Isa_22:23por asiento de honra a la casa de su pH1
+- Isa_22:24colgarán de él toda la honra...de su pH1
+- Isa_38:5Dios de David tu p dice así: He oído tuH1
+- Isa_38:19el p hará notoria tu verdad a los hijosH1
+- Isa_39:6y lo que tus p han atesorado hasta hoyH1
+- Isa_43:27Tu primer p pecó, y tus enseñadoresH1
+- Isa_45:10del que dice al p: ¿Por qué engendraste?[[H1]]
+- Isa_51:2mirad a Abraham vuestro p, y a Sara queH1
+- Isa_58:14daré a comer la heredad de Jacob tu pH1
+- Isa_63:16tú eres nuestro p, si bien Abraham nosH1
+- Isa_63:16tú, oh Jehová, eres nuestro p; nuestroH1
+- Isa_64:8eres nuestro p; nosotros barro, y tú elH1
+- Isa_64:11en la cual te alabaron nuestros p, fueH1
+- Isa_65:7las iniquidades de vuestros p juntamenteH1
+- Jer_2:5¿qué maldad hallaron en mí vuestros pH1
+- Jer_2:27que dicen a un leño: Mi p eres tú; y aH1
+- Jer_3:4¿no me llamarás a mí, P mío, guiador deH1
+- Jer_3:18la tierra que hice heredar a vuestros pH1
+- Jer_3:19llamaréis: P mío, y no os apartaréis deH1
+- Jer_3:24consumió el trabajo de nuestros p desdeH1
+- Jer_3:25porque pecamos...nosotros y nuestros pH1
+- Jer_6:21tropiezos, y caerán en ellos los p y losH1
+- Jer_7:7tierra que di a vuestros p para siempreH1
+- Jer_7:14lugar que di a vosotros y a vuestros pH1
+- Jer_7:18los p encienden el fuego, y las mujeresH1
+- Jer_7:22no hablé yo con vuestros p, ni nada lesH1
+- Jer_7:25desde el día que vuestros p salieron deH1
+- Jer_7:26no me oyeron...e hicieron peor que sus pH1
+- Jer_9:14de los baales, según les enseñaron sus pH1
+- Jer_9:16naciones que ni ellos ni sus p conocieronH1
+- Jer_11:4mandé a vuestros p el día que los saquéH1
+- Jer_11:5que confirme el juramento que hice a...pH1
+- Jer_11:7protesté a vuestros p el día que lesH1
+- Jer_11:10se han vuelto a las maldades de sus...pH1
+- Jer_11:10el cual había yo concertado con sus pH1
+- Jer_12:6hermanos y la casa de tu p, aun ellos seH1
+- Jer_13:14y los quebrantaré...los p con los hijosH1
+- Jer_14:20reconocemos...la iniquidad de nuestros pH1
+- Jer_16:3los p que los engendren en esta tierraH1
+- Jer_16:7a beber vaso de consolaciones por su pH1
+- Jer_16:11les dirás: Porque vuestros p me dejaronH1
+- Jer_16:12y vosotros...hecho peor que vuestros pH1
+- Jer_16:13a una tierra que...ni vuestros p habéisH1
+- Jer_16:15volveré a su tierra, la cual di a sus pH1
+- Jer_16:19mentira poseyeron nuestros p, vanidadH1
+- Jer_17:22santificad el...como mandé a vuestros pH1
+- Jer_19:4a dioses...no habían conocido...ni sus pH1
+- Jer_20:15maldito...hombre que dio nuevas a mi pH1
+- Jer_22:11el cual reinó en lugar de Josías su pH1
+- Jer_22:15¿no comió y bebió tu p, e hizo juicioH1
+- Jer_23:27al modo que sus p se olvidaron de míH1
+- Jer_23:39y a la ciudad que di a...y a vuestros pH1
+- Jer_24:10la tierra que les di a ellos y a sus pH1
+- Jer_25:5tierra que os dio Jehová...a vuestros pH1
+- Jer_30:3y los traeré a la tierra que di a sus pH1
+- Jer_31:9porque soy a Israel por p, y Efraín esH1
+- Jer_31:29los p comieron las uvas agrias y losH1
+- Jer_31:32no como el pacto que hice con sus p elH1
+- Jer_32:18y castigas la maldad de los p en susH1
+- Jer_32:22cual juraste a sus p que se la darías
+- Jer_34:5así como quemaron especias por tus pH1
+- Jer_34:13yo hice pacto con vuestros p el día queH1
+- Jer_34:14vuestros p no me oyeron, ni inclinaronH1
+- Jer_35:6de Recab nuestro p nos ordenó diciendoH1
+- Jer_35:8hemos obedecido a...de nuestro p JonadabH1
+- Jer_35:10cosas que nos mandó Jonadab nuestro pH1
+- Jer_35:14no...por obedecer al mandamiento de su pH1
+- Jer_35:15y viviréis en la tierra que di a...pH1
+- Jer_35:16firme el mandamiento que les dio su pH1
+- Jer_35:18obedecisteis al...de Jonadab vuestro pH1
+- Jer_44:3ellos no habían conocido...ni vuestros pH1
+- Jer_44:9os habéis olvidado de las maldades de...pH1
+- Jer_44:10puse delante de vosotros y...vuestros pH1
+- Jer_44:17como hemos hecho nosotros y nuestros pH1
+- Jer_44:21el incienso que ofrecisteis...vuestros pH1
+- Jer_47:3estruendo...los p no cuidaron a los hijosH1
+- Jer_50:7ellos pecaron contra Jehová...de sus pH1
+- Lam_5:3huérfanos somos sin p; nuestras madresH1
+- Lam_5:7p pecaron, y han muerto, y...su castigoH1
+- Eze_2:3sus p se han rebelado contra míH1
+- Eze_5:10p comerán a los hijos...comerán a sus pH1
+- Eze_16:3di...tu p fue amorreo, y tu madre heteaH1
+- Eze_16:45madre fue hetea, y vuestro p amorreoH1
+- Eze_18:2los p comieron las uvas agrias, y losH1
+- Eze_18:4como el alma del p, así el alma del hijoH1
+- Eze_18:14viere todos los pecados que su p hizoH1
+- Eze_18:17éste no morirá por la maldad de su pH1
+- Eze_18:18su p, por cuanto hizo agravio, despojóH1
+- Eze_18:19el hijo no llevará el pecado de su p?[[H1]]
+- Eze_18:20hijo no llevará el pecado del p, ni el pH1
+- Eze_20:4hazles conocer...abominaciones de sus pH1
+- Eze_20:18andéis en los estatutos de vuestros pH1
+- Eze_20:24tras los ídolos de sus p se les fueronH1
+- Eze_20:27aun en esto me afrentaron vuestros pH1
+- Eze_20:30¿no os contamináis...a la manera de...pH1
+- Eze_20:36litigué con vuestros p en el desiertoH1
+- Eze_20:42mano jurando que la daría a vuestros pH1
+- Eze_22:7al p y a la madre despreciaron en ti; alH1
+- Eze_22:10la desnudez del p descubrieron en ti, yH1
+- Eze_22:11violó en ti a su hermana, hija de su pH1
+- Eze_36:28habitaréis...tierra que di a vuestros pH1
+- Eze_37:25la cual habitaron vuestros p; en ellaH1
+- Eze_44:25por p o madre...sí podrán contaminarseH1
+- Eze_47:14jurando...la había de dar a vuestros pH1
+- Dan_2:23oh Dios de mis p, te doy graciasH1
+- Dan_5:2los vasos...su p había traído del temploH2
+- Dan_5:11en los días de tu p se halló en él luzH2
+- Dan_5:11al que el...tu p, oh rey, constituyó jefeH2
+- Dan_5:13aquel Daniel...que mi p trajo de Judea?[[H2]]
+- Dan_5:18Dios, oh rey, dio a..tu p el reino y laH2
+- Dan_9:6en tu nombre hablaron...a nuestros p y aH1
+- Dan_9:8de nuestros p; porque contra ti pecamosH1
+- Dan_9:16por la maldad de nuestros p, JerusalénH1
+- Dan_11:24que no hicieron sus p, ni los p de sus pH1
+- Dan_11:37del Dios de sus p no hará caso, ni delH1
+- Dan_11:38al dios de las...que sus p no conocieronH1
+- Ose_9:10la fruta temprana...a vuestros pH1
+- Joe_1:2¿ha acontecido esto...en los días de...p?[[H1]]
+- Amó_2:4de las cuales anduvieron sus pH1
+- Amó_2:7el hijo y su p se llegan a la misma jovenH2
+- Miq_7:6hijo deshonra al p, la hija se levantaH2
+- Miq_7:20misericordia, que juraste a nuestros pH1
+- Zac_1:2se enojó Jehová en...contra vuestros pH1
+- Zac_1:4no seáis como vuestros p, a los cualesH1
+- Zac_1:5vuestros p, ¿dónde están? y los profetasH1
+- Zac_1:6mis palabras...¿no alcanzaron a vuestros p?[[H1]]
+- Zac_8:14pensé haceros mal...p me provocaron a iraH1
+- Zac_13:3le dirán su p y su...que lo engendraronH2
+- Zac_13:3su p y su madre que lo engendraron leH2
+- Mal_1:6el hijo honra al p, y el siervo a suH2
+- Mal_1:6si, pues, soy yo p, ¿dónde está mi honra?[[H2]]
+- Mal_2:10¿no tenemos todos un mismo p? ¿No nosH2
+- Mal_2:10qué...profanando el pacto de nuestros p?[[H1]]
+- Mal_3:7los días de vuestros p os habéis apartadoH1
+- Mal_4:6hará volver el corazón de los p hacia losH1
+- Mal_4:6y el corazón de los hijos hacia los p, noH1
+- Mat_2:22Arquelao reinaba en...en lugar de...su pG3962
+- Mat_3:9no penséis decir...Abraham tenemos por pG3962
+- Mat_4:21y Juan su...en la barca con Zebedeo su pG3962
+- Mat_4:22dejando...la barca y a su p, le siguieronG3962
+- Mat_5:16glorifiquen a vuestro P que está en losG3962
+- Mat_5:45que seáis hijos de vuestro P que está enG3962
+- Mat_5:48sed, pues...perfectos, como vuestro P queG3962
+- Mat_6:1no tendréis recompensa de vuestro P queG3962
+- Mat_6:4tu P que ve en lo secreto te recompensaráG3962
+- Mat_6:6y cerrada la puerta, ora a tu P que estáG3962
+- Mat_6:6tu P que ve en lo secreto te recompensaráG3962
+- Mat_6:8vuestro P sabe de qué...tenéis necesidadG3962
+- Mat_6:9así: P nuestro que estás en los cielosG3962
+- Mat_6:14si perdonáis...os perdonará...P celestialG3962
+- Mat_6:15tampoco vuestro P os perdonará vuestrasG3962
+- Mat_6:18no mostrar a los hombres...sino a tu PG3962
+- Mat_6:18P que ve en lo secreto te recompensaráG3962
+- Mat_6:26aves, vuestro P celestial las alimentaG3962
+- Mat_6:32vuestro P...sabe que tenéis necesidad deG3962
+- Mat_7:11¿cuánto más vuestro P que está en losG3962
+- Mat_7:21la voluntad de mi P que está en los cielosG3962
+- Mat_8:21dijo...que vaya primero y entierre a mi pG3962
+- Mat_10:20el Espíritu de vuestro P que habla enG3962
+- Mat_10:21entregará a la muerte...y el p al hijoG3962
+- Mat_10:21y los hijos se levantarán contra los pG3962
+- Mat_10:25si al p de familia llamaron BeelzebúG1320
+- Mat_10:29ni uno de...cae a tierra sin vuestro PG3962
+- Mat_10:32yo también le confesaré delante de mi PG3962
+- Mat_10:33le negaré delante de mi P que está enG3962
+- Mat_10:35en disensión al hombre contra su p, aG3962
+- Mat_10:37el que ama a p o madre más que a mí, noG3962
+- Mat_11:25dijo: Te alabo, P, Señor del cielo y deG3962
+- Mat_11:26sí, P, porque así te agradóG3962
+- Mat_11:27las cosas me fueron entregadas por mi PG3962
+- Mat_11:27y nadie conoce al Hijo, sino el P, niG3962
+- Mat_11:27ni al P conoce alguno, sino el Hijo, yG3962
+- Mat_12:50hace la voluntad de mi P que está en losG3962
+- Mat_13:27vinieron...los siervos del p de familiaG3617
+- Mat_13:43resplandecerán como...en el reino de su PG3962
+- Mat_13:52todo escriba docto...es semejante a un pG3617
+- Mat_15:4honra a tu p y...El que maldiga al p o aG3962
+- Mat_15:5cualquiera que diga a su p o a su madreG3962
+- Mat_15:6ya no ha de honrar a su p o a su madreG3962
+- Mat_15:13toda planta que no plantó mi P celestialG3962
+- Mat_16:17no te lo reveló...sino mi P que está enG3962
+- Mat_16:27en la gloria de su P con sus ángelesG3962
+- Mat_18:10ven...el rostro de mi P que está en losG3962
+- Mat_18:14no es la voluntad de vuestro P...pierdaG3962
+- Mat_18:19les será hecho por mi P que está en losG3962
+- Mat_18:35así...mi P celestial hará con vosotrosG3962
+- Mat_19:5el hombre dejará p y madre, y se uniráG3962
+- Mat_19:19honra a tu p y a tu madre; y, Amarás aG3962
+- Mat_19:29que haya dejado...p, o madre, o mujer, oG3962
+- Mat_20:1el reino...es semejante a un...P de familiaG3617
+- Mat_20:11al recibirlo, murmuraban contra el p deG3617
+- Mat_20:23para quienes está preparado por mi PG3962
+- Mat_21:31¿cuál de...dos hizo la voluntad de su p?[[G3962]]
+- Mat_21:33hubo un hombre, p de familia, el cualG3617
+- Mat_23:9no llaméis p vuestro a nadie en la tierraG3962
+- Mat_23:9porque uno es vuestro P, el que está enG3962
+- Mat_23:30si...vivido en los días de nuestros p, noG3962
+- Mat_23:32¡vosotros también llenad la medida...p![[G3962]]
+- Mat_24:36día y la hora nadie sabe...sino sólo mi PG3962
+- Mat_24:43si el p de familia supiese a qué horaG3611
+- Mat_25:34el Rey dirá a...Venid, benditos de mi PG3962
+- Mat_26:29que lo beba nuevo...en el reino de mi PG3962
+- Mat_26:39P mío, si es posible, pase de mí estaG3962
+- Mat_26:42diciendo: P mío, si no puede pasar de míG3962
+- Mat_26:53que no puedo ahora orar a mi P, y queG3962
+- Mat_28:19bautizándolos en el nombre del P, y delG3962
+- Mar_1:20dejando a su p Zebedeo...le siguieronG3962
+- Mar_5:40tomó al p y a la madre de la niña, y aG3962
+- Mar_7:10honra a tu p...y: El que maldiga al p o aG3962
+- Mar_7:11basta que diga un hombre al p...Es CorbánG3962
+- Mar_7:12y no le dejáis hacer más por su p o porG3962
+- Mar_8:38cuando venga en la gloria de su P con losG3962
+- Mar_9:21preguntó al p: ¿Cuánto tiempo hace queG3962
+- Mar_9:24el p del muchacho clamó...Creo; ayuda miG3962
+- Mar_10:7dejará el hombre a su p y a su madre, yG3962
+- Mar_10:19no defraudes. Honra a tu p y a tu madreG3962
+- Mar_10:29que haya dejado...p, o madre, o mujer, oG3962
+- Mar_11:10¡bendito el reino de nuestro p David queG3962
+- Mar_11:25para que también vuestro P...os perdoneG3962
+- Mar_11:26tampoco vuestro P...cielos os perdonaráG3962
+- Mar_13:12y el p al hijo...los hijos contra los pG3962
+- Mar_13:32nadie sabe, ni...ni el Hijo, sino el PG3962
+- Mar_14:36abba, P, todas las cosas son posiblesG3962
+- Mar_15:21Simón de Cirene, p de Alejandro y deG3962
+- Luc_1:17hacer volver los corazones de los p aG3962
+- Luc_1:32Dios le dará el trono de David su pG3962
+- Luc_1:55de la cual habló a nuestros p, para conG3962
+- Luc_1:59llamaban con el nombre de su p, ZacaríasG3962
+- Luc_1:62por señas a su p, cómo le quería llamarG3962
+- Luc_1:67y Zacarías su p fue lleno del EspírituG3962
+- Luc_1:72para hacer misericordia con nuestros pG3962
+- Luc_1:73juramento que hizo a Abraham nuestro pG3962
+- Luc_2:27los p del niño...lo trajeron al temploG1118
+- Luc_2:41iban sus p todos los años a JerusalénG1118
+- Luc_2:48tu p y yo te hemos buscado con angustiaG3962
+- Luc_2:49no sabíais que en los, negocios de mi PG3962
+- Luc_3:8tenemos a Abraham por p; porque os digoG3962
+- Luc_6:23porque así hacían sus p con los profetasG3962
+- Luc_6:26así hacían sus p con los falsos profetasG3962
+- Luc_6:36como también vuestro P es misericordiosoG3962
+- Luc_8:51a Juan, y al p y a la madre de la niñaG3962
+- Luc_8:56sus p estaban atónitos; pero Jesús les
+- Luc_9:26y en la del P, y de los santos ángelesG3962
+- Luc_9:42sanó al muchacho...se lo devolvió a su pG3962
+- Luc_9:59déjame...primero vaya y entierre a mi pG3962
+- Luc_10:21te alabo, oh P, Señor del cielo y dejaG3962
+- Luc_10:21los niños. Sí, P, porque así te agradóG3962
+- Luc_10:22las cosas me fueron entregadas por mi PG3962
+- Luc_10:22nadie conoce quién es el Hijo sino el PG3962
+- Luc_10:22ni quién es el P, sino el Hijo, y aquelG3962
+- Luc_11:2decid: P nuestro que estás en los cielosG3962
+- Luc_11:11¿qué p de vosotros, si su hijo le pideG3962
+- Luc_11:13¿cuánto más vuestro P celestial dará elG3962
+- Luc_11:47profetas a quienes mataron vuestros p![[G3962]]
+- Luc_11:48testigos...de los hechos de vuestros pG3962
+- Luc_12:30vuestro P sabe que tenéis necesidad deG3962
+- Luc_12:32vuestro P le ha placido daros el reinoG3962
+- Luc_12:39si supiese el p...a qué hora el ladrónG3611
+- Luc_12:53el p contra el hijo...hijo contra el pG3962
+- Luc_13:25que el p de familia se haya levantadoG3617
+- Luc_14:21enojado el p de familia, dijo a...siervoG3617
+- Luc_14:26y no aborrece a su p, y madre, y mujerG3962
+- Luc_15:12el menor...dijo a su p: P, dame la parteG3962
+- Luc_15:17casa de mi p tienen abundancia de panG3962
+- Luc_15:18e iré a mi p, y le diré: P, he pecadoG3962
+- Luc_15:20levantándose, vino a su p. Y cuando aúnG3962
+- Luc_15:20vio su p, y fue movido a misericordiaG3962
+- Luc_15:21p, he pecado contra el cielo y contraG3962
+- Luc_15:22pero el p dijo a sus siervos: Sacad elG3962
+- Luc_15:27y tu p ha hecho matar el becerro gordoG3962
+- Luc_15:28salió...su p, y le rogaba que entraseG3962
+- Luc_15:29dijo al p: He aquí, tantos años te sirvoG3962
+- Luc_16:24dijo: P Abraham, ten misericordia de míG3962
+- Luc_16:27pues, p, que le envíes a la casa de mi pG3962
+- Luc_16:30no, p Abraham; pero si alguno fuere aG3962
+- Luc_18:20testimonio; honra a tu p y a tu madreG3962
+- Luc_18:29que haya dejado casa, o p, o hermanos, oG1118
+- Luc_21:16seréis entregados aun por vuestros pG1118
+- Luc_22:11decid al p de familia de esa casa: ElG3611, [[G1320]]
+- Luc_22:29un reino, como mi P me lo asignó a míG3962
+- Luc_22:42P, si quieres, pasa de mí esta copaG3962
+- Luc_23:34Jesús decía: P, perdónalos, porque noG3962
+- Luc_23:46P, en tus manos encomiendo mi espírituG3962
+- Luc_24:49he aquí, yo enviaré la promesa de mi PG3962
+- Jua_1:14gloria como...unigénito del PG3962
+- Jua_1:18Hijo, que está en el seno del P, él leG3962
+- Jua_2:16y no hagáis de la casa de mi P casa deG3962
+- Jua_3:35el P ama al Hijo, y todas las cosas haG3962
+- Jua_4:12eres tú mayor que nuestro p Jacob, queG3962
+- Jua_4:20nuestros p adoraron en este monte, y
+- Jua_4:21ni en este monte ni en...adoraréis al PG3962
+- Jua_4:23adorarán al P en espíritu y en verdadG3962
+- Jua_4:23P tales adoradores busca que le adorenG3962
+- Jua_4:53el p...entendió que aquella era la horaG3962
+- Jua_5:17mi P hasta ahora trabaja, y yo trabajoG3962
+- Jua_5:18también decía que Dios era su propio PG3962
+- Jua_5:19sino lo que ve hacer al P; porque todoG3962
+- Jua_5:19todo lo que el P hace...lo hace el HijoG3962
+- Jua_5:20porque el P ama al Hijo, y le muestraG3962
+- Jua_5:21como el P levanta a los muertos, y lesG3962
+- Jua_5:22P a nadie juzga, sino que todo el juicioG3962
+- Jua_5:23que todos honren al Hijo como honran al PG3962
+- Jua_5:23el que no honra al Hijo, no honra al PG3962
+- Jua_5:26porque como el P tiene vida en sí mismoG3962
+- Jua_5:30la voluntad del que me envió, la del PG3962
+- Jua_5:36las obras que el P me dio...que cumplieseG3962
+- Jua_5:36dan testimonio...que el P me ha enviadoG3962
+- Jua_5:37P que me envió ha dado testimonio de míG3962
+- Jua_5:43yo he venido en nombre de mi P, y no meG3962
+- Jua_5:45no...que yo voy a acusaros delante del PG3962
+- Jua_6:27os dará; porque a éste señaló Dios el PG3962
+- Jua_6:31p comieron el maná en el desierto, como
+- Jua_6:32mi P os da el verdadero pan del cieloG3962
+- Jua_6:37todo lo que el P me da, vendrá a mí; y alG3962
+- Jua_6:39y esta es la voluntad del P, el que meG3962
+- Jua_6:42José, cuyo p y madre nosotros conocemos?[[G3962]]
+- Jua_6:44a mí, si el P que me envió no le trajereG3962
+- Jua_6:45todo aquel que oyó al P, y aprendió de élG3962
+- Jua_6:46que alguno haya visto al P, sino aquelG3962
+- Jua_6:46que vino de Dios; éste ha visto al PG3962
+- Jua_6:49vuestros p comieron...maná en el desiertoG3962
+- Jua_6:57como me envió el P viviente, y yo vivoG3962
+- Jua_6:57vivo por el P, asimismo el que me comeG3962
+- Jua_6:58no como vuestros p comieron el mana, yG3962
+- Jua_6:65venir a mí, si no le fuere dado del PG3962
+- Jua_7:22no porque sea de Moisés, sino de los pG3962
+- Jua_8:16yo solo, sino yo y el que me envió, el PG3962
+- Jua_8:18y el P que me envió da testimonio de míG3962
+- Jua_8:19le dijeron: ¿Dónde está tu P? RespondióG3962
+- Jua_8:19ni a mí me conocéis, ni a mi P; si a miG3962
+- Jua_8:19conocieseis, también a mi P conoceríaisG3962
+- Jua_8:27no entendieron que les hablaba del PG3962
+- Jua_8:28sino que según me enseñó el P, así habloG3962
+- Jua_8:29no me ha dejado solo el P, porque yo hagoG3962
+- Jua_8:38yo hablo lo que he visto cerca del P; yG3962
+- Jua_8:38lo que habéis oído cerca de vuestro pG3962
+- Jua_8:39le dijeron: Nuestro p es Abraham...JesúsG3962
+- Jua_8:41vosotros hacéis las obras de vuestro pG3962
+- Jua_8:41le dijeron...un p tenemos, que es DiosG3962
+- Jua_8:42dijo: Si vuestro p fuese Dios...amaríaisG3962
+- Jua_8:44vosotros sois de vuestro p el diablo, yG3962
+- Jua_8:44y los deseos de vuestro p queréis hacerG3962
+- Jua_8:44porque es mentiroso, y p de mentiraG3962
+- Jua_8:49yo no tengo demonio, antes honro a mi PG3962
+- Jua_8:53¿eres tú...mayor que nuestro p AbrahamG3962
+- Jua_8:54mi P es el que me glorifica, el queG3962
+- Jua_8:56Abraham vuestro p se gozó de que habíaG3962
+- Jua_9:2¿quién pecó, éste o sus p, para que hayaG1118
+- Jua_9:3no es que pecó éste, ni sus p, sino paraG1118
+- Jua_9:18llamaron a los p del que había recibidoG1118
+- Jua_9:20sus p respondieron...Sabemos que éste esG1118
+- Jua_9:22esto dijeron sus p, porque tenían miedoG1118
+- Jua_9:23dijeron sus p: Edad tiene, preguntadleG1118
+- Jua_10:15como el P me conoce, y yo conozco al PG3962
+- Jua_10:17por eso me ama el P, porque yo pongo miG3962
+- Jua_10:18a tomar. Este mandamiento recibí de mi PG3962
+- Jua_10:25las obras que yo hago en nombre de mí PG3962
+- Jua_10:29mi P que me las dio, es mayor que todosG3962
+- Jua_10:29las puede arrebatar de la mano de mi PG3962
+- Jua_10:30yo y el P uno somosG3962
+- Jua_10:32muchas...obras os he mostrado de mi PG3962
+- Jua_10:36¿al que el P santificó y envió al mundoG3962
+- Jua_10:37si no hago las obras de mi P, no meG3962
+- Jua_10:38creáis que el P está en mí, y yo en el PG3962
+- Jua_11:41dijo: P, gracias te doy por haberme oídoG3962
+- Jua_12:26si alguno me sirviere, mi P le honraráG3962
+- Jua_12:27¿y qué diré? ¿P, sálvame de esta hora?[[G3962]]
+- Jua_12:28P, glorifica tu nombre. Entonces vinoG3962
+- Jua_12:49el P...me dio mandamiento de lo que heG3962
+- Jua_12:50así...lo hablo como el P me lo ha dichoG3962
+- Jua_13:1su hora...que pasase de este mundo al PG3962
+- Jua_13:3sabiendo Jesús que el P le había dadoG3962
+- Jua_14:2en la casa de mi P muchas moradas hayG3962
+- Jua_14:6y la vida; nadie viene al P, sino por míG3962
+- Jua_14:7si me conocieseis...a mi P conoceríaisG3962
+- Jua_14:8Señor, muéstranos el P, y nos bastaG3962
+- Jua_14:9el que me ha visto a mí, ha visto al PG3962
+- Jua_14:9¿cómo, pues, dices tú: Muéstranos el P?[[G3962]]
+- Jua_14:10¿no crees...soy en el P, y el P en mí?[[G3962]]
+- Jua_14:10el P que mora en mí, él hace las obrasG3962
+- Jua_14:11creedme que yo soy en el P, y el P en míG3962
+- Jua_14:12y aun mayores hará, porque yo voy al PG3962
+- Jua_14:13que pidiereis al P en mi nombre, lo haréG3962
+- Jua_14:13para que el P sea glorificado en el HijoG3962
+- Jua_14:16yo rogaré al P, y os dará...ConsoladorG3962
+- Jua_14:20vosotros conoceréis que...estoy en mi PG3962
+- Jua_14:21y el que me ama, será amado por mi PG3962
+- Jua_14:23y mi P le amará, y vendremos a él, yG3962
+- Jua_14:24la palabra...no es mía, sino del P queG3962
+- Jua_14:26el Espíritu Santo, a quien el P enviaráG3962
+- Jua_14:28voy al P; porque el P mayor es que yoG3962
+- Jua_14:31que amo al P, y como el P me mandó, asíG3962
+- Jua_15:1yo soy la vid...y mi P es el labradorG3962
+- Jua_15:8esto es glorificado mi P, en que llevéisG3962
+- Jua_15:9como el P me ha amado, así también yoG3962
+- Jua_15:10yo he guardado los mandamientos de mi PG3962
+- Jua_15:15todas las cosas que oí de mi P, os lasG3962
+- Jua_15:16lo que pidiereis al P en mi nombre, élG3962
+- Jua_15:23que me aborrece a mí, a mi P aborreceG3962
+- Jua_15:24han visto y han aborrecido a mí y a mi PG3962
+- Jua_15:26el Consolador, a quien...enviaré del PG3962
+- Jua_15:26el Consolador...el cual procede del PG3962
+- Jua_16:3harán esto porque no conocen al P ni aG3962
+- Jua_16:10de justicia, por cuanto voy al P, y noG3962
+- Jua_16:15todo lo que tiene el P es mío; por esoG3962
+- Jua_16:16un poco, y me veréis; porque yo voy al PG3962
+- Jua_16:17que es esto que nos dice...yo voy al P?[[G3962]]
+- Jua_16:23cuanto pidiereis al P en mi nombre, osG3962
+- Jua_16:25claramente os anunciaré acerca del PG3962
+- Jua_16:26nombre; y no os digo que yo rogaré al PG3962
+- Jua_16:27el P mismo os ama, porque vosotros meG3962
+- Jua_16:28salí del P, y he venido al mundo; otraG3962
+- Jua_16:28otra vez dejo el mundo, y voy al PG3962
+- Jua_16:32no estoy solo, porque el P está conmigoG3962
+- Jua_17:1dijo: P, la hora ha llegado; glorificaG3962
+- Jua_17:5ahora...P, glorifícame tú al lado tuyoG3962
+- Jua_17:11P...a los que me has dado, guárdalos enG3962
+- Jua_17:21como tú, oh P, en mí, y yo en ti, queG3962
+- Jua_17:24P, aquellos que me has dado, quiero queG3962
+- Jua_17:25P justo, el mundo no te ha conocidoG3962
+- Jua_18:11la copa que el P me ha dado, ¿no la heG3962
+- Jua_20:17no me toques...aún no he subido a mi PG3962
+- Jua_20:17subo a mi P y a vuestro P, a mi DiosG3962
+- Jua_20:21como me envió el P, así también yo osG3962
+- Hec_1:4que esperasen la promesa del PG3962
+- Hec_1:7saber...que el P puso en su sola potestadG3962
+- Hec_2:33habiendo recibido del P la promesa delG3962
+- Hec_3:13el Dios de nuestros p, ha glorificado aG3962
+- Hec_3:22Moisés dijo a los p: El Señor vuestroG3962
+- Hec_3:25del pacto que Dios hizo con nuestros pG3962
+- Hec_5:30el Dios de nuestros p levantó a Jesús, aG3962
+- Hec_7:2varones...y p, oíd: El Dios de la gloriaG3962
+- Hec_7:2el Dios de...apareció a nuestro p AbrahamG3962
+- Hec_7:4de allí, muerto su p, Dios le trasladó aG3962
+- Hec_7:11hambre...nuestros p no hallaban alimentosG3962
+- Hec_7:12cuando oyó Jacob...envió a nuestros p laG3962
+- Hec_7:14enviando José, hizo venir a su p JacobG3962
+- Hec_7:15a Egipto...murió él, y también nuestros pG3962
+- Hec_7:19este rey...maltrató a nuestros p, a fin deG3962
+- Hec_7:20fue criado tres meses en casa de su pG3962
+- Hec_7:32soy el Dios de tus p...el Dios de IsaacG3962
+- Hec_7:38estuvo en...con nuestros p, y que recibióG3962
+- Hec_7:39al cual nuestros p no quisieron obedecerG3962
+- Hec_7:44tuvieron nuestros p el tabernáculo delG3962
+- Hec_7:45el cual, recibido...por nuestros p, loG3962
+- Hec_7:45Dios arrojó de la presencia de nuestros pG3962
+- Hec_7:51como vuestros p, así también vosotrosG3962
+- Hec_7:52¿a cuál de...no persiguieron vuestros p?[[G3962]]
+- Hec_13:17Dios...escogió a nuestros p, y enaltecióG3962
+- Hec_13:32de aquella promesa hecha a nuestros pG3962
+- Hec_13:36durmió, y fue reunido con sus p, y vioG3962
+- Hec_15:10un yugo que ni nuestros p ni nosotrosG3962
+- Hec_16:1hijo de una mujer judía...pero de p griegoG3962
+- Hec_16:3porque todos sabían que su p era griegoG3962
+- Hec_22:1hermanos y p, oíd ahora mi defensa anteG3962
+- Hec_22:3estrictamente conforme a la ley de...pG3962
+- Hec_22:14el Dios de nuestros p te ha escogidoG3962
+- Hec_24:14sirvo al Dios de mis p, creyendo todasG3962
+- Hec_26:6la promesa que hizo Dios a nuestros pG3962
+- Hec_28:8el p de Publio estaba en cama, enfermoG3962
+- Hec_28:17ni contra las costumbres de nuestros pG3962
+- Hec_28:25bien habló el Espíritu...a nuestros pG3962
+- Rom_1:7paz a vosotros, de Dios nuestro PG3962
+- Rom_1:30altivos...males, desobedientes a los pG1118
+- Rom_4:1halló Abraham, nuestro p según la carne?[[G3962]]
+- Rom_4:11para que fuese p de todos los creyentesG3962
+- Rom_4:12p...para los que...siguen las pisadas deG3962
+- Rom_4:12las pisadas de la fe que tuvo nuestro pG3962
+- Rom_4:16la fe de Abraham, el cual es p de todosG3962
+- Rom_4:17como está escrito: Te he puesto por p deG3962
+- Rom_4:18para llegar a ser p de muchas gentesG3962
+- Rom_6:4Cristo resucitó de...por la gloria del PG3962
+- Rom_8:15adopción, por el cual clamamos: ¡Abba, P![[G3962]]
+- Rom_9:10Rebeca concibió de uno...Isaac nuestro pG3962
+- Rom_11:28la elección...amados por causa de los pG3962
+- Rom_15:6glorifiquéis. Dios y P de nuestro SeñorG3962
+- Rom_15:8confirmar las promesas hechas a los pG3962
+- 1Co_1:3gracia y paz...de Dios nuestro PG3962
+- 1Co_4:15no tendréis muchos p; pues en Cristo
+- 1Co_5:1tanto que alguno tiene la mujer de su pG3962
+- 1Co_8:6el P, del cual proceden todas las cosasG3962
+- 1Co_10:1nuestros p todos estuvieron bajo la nube
+- 1Co_15:24cuando entregue el reino al Dios y PG3962
+- 2Co_1:2paz a vosotros, de Dios nuestro PG3962
+- 2Co_1:3bendito sea el Dios y P de nuestro SeñorG3962
+- 2Co_1:3P de misericordias y Dios de...consolaciónG3962
+- 2Co_6:18seré para vosotros por p, y vosotros meG3962
+- 2Co_11:31el Dios y P de nuestro Señor...sabe queG3962
+- 2Co_12:14hijos para los p, sino los p para losG1118
+- Gál_1:1Dios el P que lo resucitó de losG3962
+- Gál_1:3y paz sean a vosotros, de Dios el P y deG3962
+- Gál_1:4conforme a la voluntad...nuestro Dios y PG3962
+- Gál_1:14más celoso de las tradiciones de mis pG3967
+- Gál_4:2está...hasta el tiempo señalado por el pG3962
+- Gál_4:6el Espíritu de...el cual clama: ¡Abba, P![[G3962]]
+- Efe_1:2y paz a vosotros, de Dios nuestro P yG3962
+- Efe_1:3bendito sea el Dios y P de nuestro SeñorG3962
+- Efe_1:17Dios...el P de gloria, os dé espíritu deG3962
+- Efe_2:18tenemos entrada...un mismo Espíritu al PG3962
+- Efe_3:14doblo mis rodillas ante el P de nuestroG3962
+- Efe_4:6un Dios y P de todos, el cual es sobreG3962
+- Efe_5:20siempre gracias por todo al Dios y P, enG3962
+- Efe_5:31dejará el hombre a su p y a su madre, yG3962
+- Efe_6:1hijos, obedeced en el Señor a vuestros pG1118
+- Efe_6:2honra a tu p y a tu madre, que es elG3962
+- Efe_6:4p, no provoquéis a ira a vuestros hijosG3962
+- Efe_6:23paz...de Dios P y del Señor JesucristoG3962
+- Flp_1:2paz a vosotros, de Dios nuestro PG3962
+- Flp_2:11que...es el Señor, para gloria de Dios PG3962
+- Flp_2:22como hijo a p ha servido conmigo en elG3962
+- Flp_4:20al Dios y P nuestro sea gloria por losG3962
+- Col_1:2gracia y paz...de Dios nuestro PG3962
+- Col_1:3damos gracias a Dios, P de nuestro SeñorG3962
+- Col_1:12con gozo dando gracias al P que nos hizoG3962
+- Col_1:19cuanto agradó al P que en él habitaseG3962
+- Col_2:2fin de conocer el misterio de Dios el PG3962
+- Col_3:17dando gracias a Dios P por medio de élG3962
+- Col_3:20hijos, obedeced a vuestros p en todoG1118
+- Col_3:21p, no exasperéis a vuestros hijos, paraG3962
+- 1Ts_1:1la iglesia...en Dios P y en el SeñorG3962
+- 1Ts_1:1gracia y...de Dios nuestro P y del SeñorG3962
+- 1Ts_1:3sin cesar delante del Dios y P nuestroG3962
+- 1Ts_2:11como el p a sus hijos, exhortábamos yG3962
+- 1Ts_3:11mismo Dios y P...dirija nuestro camino aG3962
+- 1Ts_3:13en santidad delante de Dios nuestro PG3962
+- 2Ts_1:1a la iglesia...en Dios nuestro PG3962
+- 2Ts_1:2paz a vosotros, de Dios nuestro P y delG3962
+- 2Ts_2:16y Dios nuestro P, el cual nos amó y nosG3962
+- 1Ti_1:2de Dios nuestro P y de CristoG3962
+- 1Ti_5:1no reprendas al...sino exhórtale como a PG3962
+- 1Ti_5:4a ser piadosos...y a recompensar a sus pG4269
+- 2Ti_1:2gracia, misericordia y paz, de Dios PG3962
+- 2Ti_3:2habrá...blasfemos, desobedientes a los pG1118
+- Tit_1:4gracia, misericordia y paz, de Dios pG3962
+- Flm_1:3gracia y...de Dios nuestro P y del SeñorG3962
+- Heb_1:1Dios, habiendo hablado...a los p por losG3962
+- Heb_1:5yo seré a él P, y él me será a mí hijo?[[G3962]]
+- Heb_3:9me tentaron vuestros p; me probaron, yG3962
+- Heb_7:3sin p, sin madre, sin genealogía; que niG540
+- Heb_7:10aún estaba en los lomos de su p cuandoG3962
+- Heb_8:9no como el pacto que hice con sus p elG3962
+- Heb_11:23Moisés...fue escondido por sus p por tresG3962
+- Heb_12:7¿qué hijo es aquel...el p no disciplina?[[G3962]]
+- Heb_12:9tuvimos a nuestros p terrenales que nosG3962
+- Heb_12:9¿por qué no obedeceremos...al P de losG3962
+- Stg_1:17desciende de lo alto, del P de lasG3962
+- Stg_1:27religión pura...delante de Dios el P esG3962
+- Stg_2:21¿no fue justificado...Abraham nuestro pG3962
+- Stg_3:9con ella bendecimos al Dios y P, y conG3962
+- 1Pe_1:2elegidos según la presciencia de, PG3962
+- 1Pe_1:3el Dios y P de nuestro Señor JesucristoG3962
+- 1Pe_1:17invocáis por P a aquel que sin acepciónG3962
+- 1Pe_1:18la cual recibisteis de vuestros p, noG3970
+- 2Pe_1:17cuando él recibió de Dios P honra yG3962
+- 2Pe_3:4desde el día en que los p durmieron, todasG3962
+- 1Jn_1:2estaba con el P, y se nos manifestóG3962
+- 1Jn_1:3nuestra comunión...es con el P, y con suG3962
+- 1Jn_2:1abogado...con el P, a Jesucristo el justoG3962
+- 1Jn_2:13escribo a vosotros, p, porque conocéisG3962
+- 1Jn_2:13hijitos, porque habéis conocido al PG3962
+- 1Jn_2:14he escrito a vosotros, p, porque habéisG3962
+- 1Jn_2:15si alguno ama al mundo, el amor del PG3962
+- 1Jn_2:16vida, no proviene del P, sino del mundoG3962
+- 1Jn_2:22anticristo, el que niega al P y al HijoG3962
+- 1Jn_2:23aquel que niega al...tampoco tiene al PG3962
+- 1Jn_2:23que confiesa al Hijo, tiene también al PG3962
+- 1Jn_2:24si...permaneceréis en el Hijo y en el PG3962
+- 1Jn_3:1mirad cuál amor nos ha dado el P, paraG3962
+- 1Jn_4:14y testificamos que el P ha enviado alG3962
+- 1Jn_5:7P, el Verbo y el Espíritu Santo; y estosG3962
+- 2Jn_1:3paz, de Dios P y del Señor...Hijo del PG3962
+- 2Jn_1:4conforme al mandamiento...recibimos del PG3962
+- 2Jn_1:9persevera en...ése sí tiene al P y al HijoG3962
+- Jud_1:1a los llamados, santificados en Dios PG3962
+- Rev_1:6hizo reyes y sacerdotes para Dios, su PG3962
+- Rev_2:27como yo también la he recibido de mí PG3962
+- Rev_3:5y confesaré su nombre delante de mi PG3962
+- Rev_3:21y me he sentado con mi P en su tronoG3962
+- Rev_14:1el nombre de él y el de su P escrito enG3962

@@ -1,0 +1,200 @@
+---
+tipo: concordancia
+palabra: CONSUMIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONSUMIR
+
+- Gén_31:40de día me consumía el calor, y deH398
+- Gén_41:30años...y el hambre consumirá la tierraH3615
+- Éxo_3:2en fuego, y la zarza no se consumíaH398
+- Éxo_10:12y consuma todo lo que el granizo dejóH398
+- Éxo_10:15consumió toda la hierba de la tierraH398
+- Éxo_15:7tu ira; los consumió como a hojarascaH398
+- Éxo_32:10se encienda mi ira en...y los consumaH3615
+- Éxo_33:3no...no sea que te consuma en el caminoH3615
+- Éxo_33:5en un momento subiré...y te consumiréH3615
+- Lev_6:10el fuego...consumido el holocaustoH398
+- Lev_9:24salió fuego...y consumió el holocaustoH398
+- Lev_26:16enviaré...calentura, que consuman losH3615
+- Lev_26:20vuestra fuerza se consumirá en vanoH8552
+- Lev_26:38la tierra de...enemigos os consumiráH398
+- Lev_26:44yo...ni los abominaré para consumirlosH3615
+- Núm_11:1fuego...consumió uno de los extremosH398
+- Núm_12:12tiene ya medio consumida su carneH398
+- Núm_14:33cuerpos sean consumidos en el desiertoH8552
+- Núm_14:35en este desierto serán consumidos, yH8552
+- Núm_16:21, Núm_16:45apartaos...consumiré en un momentoH3615
+- Núm_16:35consumió a los...hombres que ofrecíanH398
+- Núm_21:28consumió a Ar de Moab, a los señoresH398
+- Núm_25:11no he consumido...los hijos de IsraelH3615
+- Núm_26:10consumió el fuego a 250 varones, paraH398
+- Deu_5:25porque este gran fuego nos consumiráH398
+- Deu_7:16consumirás a...pueblos que te da JehováH398
+- Deu_12:3sus imágenes de Asera consumiréis conH8313
+- Deu_13:16consumirás con fuego la ciudad y todoH8313
+- Deu_28:21que te consuma de la tierra a la cualH3615
+- Deu_28:38poco, porque la langosta lo consumiráH2628
+- Deu_28:42el fruto de...serán consumidos por laH3423
+- Deu_31:17esconderé...rostro, y serán consumidosH398
+- Deu_32:24consumidos...de hambre, y devoradosH4198
+- Jos_5:6hombres de guerra...fueron consumidosH8552
+- Jos_6:24y consumieron con fuego la ciudad, yH8313
+- Jos_8:24habían caído a...hasta ser consumidosH8552
+- Jos_24:20volverá y os hará mal, y os consumiráH3615
+- Jue_6:21fuego...el cual consumió la carne yH398
+- Jue_9:20consuma a los de Siquem...c a AbimelecH398
+- 1Sa_2:33para consumir tus ojos y llenar tuH3615
+- 2Sa_2:26consumirá la espada perpetuamente?[[H398]]
+- 2Sa_11:25no tengas pesar por...la espada consumeH398
+- 2Sa_22:39los consumiré y los heriré, de modoH3615
+- 1Re_18:38y consumió el holocausto, la leñaH398
+- 2Re_1:10, 2Re_1:12descienda fuego del...y consúmateH398
+- 2Re_1:10, 2Re_1:12fuego...lo consumió a él y a sus 50H398
+- 2Re_1:14y ha consumido a los dos...capitanes deH398
+- 2Re_13:17herirás a los sitios...hasta consumirlosH3615
+- 1Cr_17:9ni los hijos de...lo consumirán másH1086
+- 2Cr_7:1fuego...consumió el holocausto y lasH398
+- 2Cr_7:13a la langosta que consuma la tierra, oH398
+- 2Cr_29:28duró hasta consumirse el holocaustoH3615
+- 2Cr_36:19consumieron a fuego todos sus palaciosH8313
+- Esd_9:14¿no te indignarías...hasta consumirnosH3615
+- Neh_2:3sus puertas consumidas por el fuego?[[H398]]
+- Neh_2:13, Neh_2:17sus puertas...consumidas por el fuegoH398
+- Neh_9:31no los consumiste, ni los desamparasteH3615
+- Est_9:24para consumirlos y acabar con ellosH2000
+- Job_1:16fuego de Dios cayó del...y los consumióH398
+- Job_4:9y por el soplo de su ira son consumidosH3615
+- Job_5:2ira, y al codicioso lo consume la envidiaH4191
+- Job_9:22al perfecto y al impío él los consumeH3615
+- Job_11:20los ojos de los malos se consumiránH3615
+- Job_15:34fuego consumirá las tiendas de sobornoH398
+- Job_20:26fuego...los consumirá; devorará lo queH398
+- Job_22:20fuego consumió lo que de ellos quedóH398
+- Job_31:12es fuego...consumirla toda mi haciendaH398
+- Job_32:22en breve mi Hacedor me consumiríaH5375
+- Sal_6:6me he consumido a fuerza de gemirH3021
+- Sal_21:9deshará en su ira, y fuego los consumiráH398
+- Sal_31:9se han consumido de tristeza mis ojosH6244
+- Sal_31:10agotan...y mis huesos se han consumidoH6244
+- Sal_37:20enemigos de Jehová...serán consumidosH3615
+- Sal_39:10consumido bajo los golpes de tu manoH3615
+- Sal_49:14consumirá su buen parecer, y el SeolH1086
+- Sal_50:3vendrá...fuego consumirá delante de élH398
+- Sal_69:9porque me consumió el celo de tu casaH398
+- Sal_73:19asolados...se consumieron de terroresH8552
+- Sal_78:33consumió sus días en vanidad, y susH3615
+- Sal_79:7han consumido a Jacob, y su morada hanH398
+- Sal_90:7con tu furor somos consumidos, y con tuH3615
+- Sal_102:3mis días se han consumido como humoH3615
+- Sal_104:35sean consumidos de la...los pecadoresH8552
+- Sal_112:10crujirá los dientes, y se consumiráH4549
+- Sal_119:119hiciste consumir a todos los impíosH7673
+- Sal_119:139mi celo me ha consumido, porque misH6789
+- Pro_5:11al final, cuando se consuma tu carneH3615
+- Ecl_5:11también aumentan los que los consumenH398
+- Isa_1:20seréis consumidos a espada; porque laH398
+- Isa_1:28los que dejan a Jehová serán consumidosH3615
+- Isa_5:5le quitaré su valla y será consumidaH1197
+- Isa_5:24la lengua del fuego consume el rastrojoH398
+- Isa_10:17abrase y consuma en un día sus cardosH398
+- Isa_10:18la gloria de su...consumirá totalmenteH3615
+- Isa_15:6las aguas de Nimrim serán consumidasH4923
+- Isa_16:4el pisoteador será consumido de sobreH8552
+- Isa_24:6por esta causa la maldición consumió laH398
+- Isa_24:6causa fueron consumidos los habitantesH2787
+- Isa_26:11y a tus enemigos fuego los consumiráH398
+- Isa_29:20el escarnecedor será consumido; seránH3615
+- Isa_30:27ira, y su lengua como fuego que consumeH398
+- Isa_31:8consumirá espada no de hombre; y huiráH398
+- Isa_33:11el soplo de vuestro fuego os consumiráH398
+- Isa_38:12me consumirás entre el día y la nocheH7999
+- Isa_42:25fuego...y le consumió, mas no hizo casoH1197
+- Isa_49:4y sin provecho he consumido mis fuerzasH3615
+- Isa_64:11nuestro santuario...consumida al fuegoH8316
+- Jer_3:24confusión consumió el trabajo...padresH398
+- Jer_5:3los consumiste, y no quisieron recibirH3615
+- Jer_5:14a este pueblo por leña y los consumíráH398
+- Jer_6:29por el fuego se ha consumido el plomoH8552
+- Jer_10:25Jacob, lo devoraron, le han consumidoH3615
+- Jer_14:12los consumiré con espada, con hambreH3615
+- Jer_14:15; Jer_16:4espada...hambre serán consumidosH8552
+- Jer_17:27haré descender fuego...y consumirá...losH398
+- Jer_21:14y consumirá todo lo que está alrededorH398
+- Jer_30:16serán consumidos...los que te consumenH398
+- Jer_36:23el rollo se consumió sobre el fuego queH8552
+- Jer_44:12serán todos consumidos...a espada, yH8552
+- Jer_44:12caerán...y serán consumidos de hambreH8552
+- Jer_44:18a espada y de hambre somos consumidosH8552
+- Jer_44:27hombres...serán consumidos a espada yH8552
+- Jer_49:27haré...consumirá las casas de Ben-adadH398
+- Lam_1:13envió fuego que consume mis huesosH7287
+- Lam_3:22por la misericordia de...no...consumidosH8552
+- Lam_4:11encendió...fuego que consumió hasta susH398
+- Eze_4:17al faltarles...se consuman en su maldadH4743
+- Eze_5:12será consumida de hambre en medio de tiH3615
+- Eze_7:15y al que esté en la ciudad lo consumiráH398
+- Eze_13:13piedras de granizo con...para consumirH3615
+- Eze_13:14y seréis consumidos en medio de ellaH3615
+- Eze_15:4puesta en el fuego para ser consumidaH398
+- Eze_15:4sus dos extremos consumió el fuego, yH2787
+- Eze_15:5el fuego la hubiere consumido, y fuereH398
+- Eze_15:6la...di al fuego para que la consumieseH402
+- Eze_15:7aunque...escaparon, fuego los consumiráH398
+- Eze_16:20sacrificaste a...que fuesen consumidosH398
+- Eze_16:21como ofrenda que el fuego consumía?
+- Eze_19:12ramas fuertes...las consumió el fuegoH398
+- Eze_19:14fuego...ha consumido su fruto, y no haH398
+- Eze_20:47cual consumirá en ti todo árbol verdeH398
+- Eze_21:28para consumir...pulida con resplandorH398
+- Eze_22:31con el ardor de mi ira los consumíH3615
+- Eze_23:25tu remanente...consumido por el fuegoH398
+- Eze_23:47sus hijas, y sus casas consumirán conH8313
+- Eze_24:10encendiendo...para consumir la carneH8552
+- Eze_24:11se queme...y se consuma su herrumbreH8552
+- Eze_24:12en fuego será su herrumbre consumido
+- Eze_24:23os consumiréis a causa de...maldadesH4743
+- Eze_28:18saqué fuego...el cual te consumió, yH398
+- Eze_33:10y a causa de ellos somos consumidosH4743
+- Eze_34:29no serán ya más consumidos de hambreH622
+- Eze_43:8por tanto, los consumí en mi furorH398
+- Dan_2:44consumirá a todos estos reinos, peroH5487
+- Dan_11:16la cual será consumida en su poderH3615
+- Ose_5:7en un solo mes serán consumidos ellosH398
+- Ose_8:14yo meteré fuego...consumirá sus palaciosH398
+- Ose_11:6espada...consumirá sus aldeas; las c aH3615
+- Joe_1:19porque fuego consumió los pastos delH398
+- Joe_1:20fuego consumió...praderas del desiertoH398
+- Joe_2:3delante de él consumirá fuego, tras de élH398
+- Joe_2:5de llama de fuego que consume hojarascasH398
+- Amó_1:4y consumirá los palacios de Ben-adadH398
+- Amó_1:7fuego en...Gaza, y consumirá sus palaciosH398
+- Amó_1:10fuego en...Tiro, y consumirá sus palaciosH398
+- Amó_1:12fuego...consumirá los palacios de BosraH398
+- Amó_1:14y consumirá sus palacios con estruendoH398
+- Amó_2:2fuego en Moab, y consumirá los palaciosH398
+- Amó_2:5fuego en Judá...consumirá los palacios deH398
+- Amó_5:6acometa...a la casa de José y la consumaH398
+- Amó_7:4consumió un gran abismo, y c una parte deH398
+- Abd_1:18los quemarán y los consumirán; ni aunH398
+- Nah_1:8inundación...consumirá a...adversariosH3617
+- Nah_1:10serán consumidos como hojarasca...secaH398
+- Nah_3:13puertas...fuego consumirá tus cerrojosH398
+- Nah_3:15allí te consumirá el fuego, te talaráH398
+- Sof_1:18la tierra será consumida con el fuegoH398
+- Sof_3:8de mi celo será consumida toda la tierraH398
+- Zac_5:4permanecerá en...casa y la consumiráH3615
+- Zac_9:4herirá...y ella será consumida de fuegoH398
+- Zac_11:1oh Líbano...consuma el fuego tus cedrosH398
+- Zac_12:6y consumirán a diestra y a siniestraH398
+- Zac_14:12se consumirán en las cuencas sus ojosH4743
+- Mal_3:6por esto, no habéis sido consumidosH3615
+- Luc_9:54descienda fuego del cielo...consuma?[[G355]]
+- Luc_15:30ha consumido tus bienes con ramerasG2719
+- Jua_2:17escrito: El celo de tu...me consumeG2719
+- 2Co_2:7que no sea consumido de...tristezaG2666
+- Gál_5:15mirad...no os consumáis unos a otrosG355
+- Rev_18:17en una hora han sido consumidasG2049
+- Rev_20:9descendió fuego del ciclo y...consumióG2719

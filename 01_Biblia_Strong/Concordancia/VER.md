@@ -1,0 +1,1566 @@
+---
+tipo: concordancia
+palabra: VER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VER
+
+- Gén_1:4vio Dios que la luz era buena; y separóH7200
+- Gén_1:10, Gén_1:12, Gén_1:18, Gén_1:21, Gén_1:25y vio Dios que era buenoH7200
+- Gén_1:31vio Dios todo lo que había hecho, y heH7200
+- Gén_2:19para que viese cómo las había de llamarH7200
+- Gén_3:6vio la mujer que el árbol era bueno paraH7200
+- Gén_6:2viendo los hijos de Dios que las hijas deH7200
+- Gén_6:5vio Jehová que la maldad de los hombresH7200
+- Gén_7:1porque a ti he visto justo delante de míH7200
+- Gén_8:8para ver si las aguas se habían retiradoH7200
+- Gén_9:14se dejará ver entonces mi arco en lasH7200
+- Gén_9:16el arco...veré, y me acordaré del pactoH7200
+- Gén_9:22vio la desnudez de su padre, y lo dijoH7200
+- Gén_9:23así no vieron la desnudez de su padreH7200
+- Gén_11:5descendió Jehová para ver la ciudad yH7200
+- Gén_12:12y cuando te vean los egipcios, diránH7200
+- Gén_12:14los egipcios vieron que la mujer eraH7200
+- Gén_12:15la vieron los príncipes de Faraón, yH7200
+- Gén_13:10Lot...y vio toda la llanura del JordánH7200
+- Gén_13:15toda la tierra que ves, la daré a ti yH7200
+- Gén_15:17veía un horno humeando, y una antorchaH2009
+- Gén_16:2ya ves que Jehová me ha hecho estérilH2009
+- Gén_16:4Agar...y cuando vio que había concebidoH7200
+- Gén_16:5viéndose encinta, me mira con desprecioH7200
+- Gén_16:13llamó el nombre...Tú eres Dios que veH7210
+- Gén_16:13¿no he visto también aquí al que me ve?[[H7210]]
+- Gén_18:2y cuando los vio, salió corriendo de laH7200
+- Gén_18:21y veré si han consumado su obra segúnH7200
+- Gén_19:1viéndolos Lot, se levantó a recibirlosH7200
+- Gén_19:35él no echó de ver cuándo se acostó ellaH3045
+- Gén_21:9vio Sara que el hijo de Agar la egipciaH7200
+- Gén_21:16decía: No veré cuando el muchacho mueraH7200
+- Gén_21:19le abrió los ojos, y vio una fuente deH7200
+- Gén_22:4alzó Abrabam sus ojos, y vio el lugarH7200
+- Gén_24:30vio el pendiente y los brazaletes enH7200
+- Gén_24:64Rebeca...alzó sus ojos, y vio a IsaacH7200
+- Gén_26:8vio a Isaac que acariciaba a Rebeca suH7200
+- Gén_26:28hemos visto que Jehová está contigoH7200
+- Gén_28:6vio Esaú cómo Isaac había bendecido aH7200
+- Gén_28:8vio...Esaú que las hijas de Canaán...malH7200
+- Gén_29:2miró, y vio un pozo en el campo; y heH7200
+- Gén_29:10sucedió que cuando Jacob vio a RaquelH7200
+- Gén_29:31vio Jehová que Lea era menospreciadaH7200
+- Gén_30:1viendo Raquel que no daba hijos a JacobH7200
+- Gén_30:9viendo, pues, Lea, que había dejado deH7200
+- Gén_31:2veía que no era para con él como habíaH7200
+- Gén_31:5veo que el semblante de vuestro padre noH7200
+- Gén_31:10vi en sueños, y he aquí los machos queH7200
+- Gén_31:12verás que todos los machos que cubrenH7200
+- Gén_31:12he visto todo lo que Labán te ha hechoH7200
+- Gén_31:42Dios vio mi aflicción y el trabajo deH7200
+- Gén_31:43las hijas...y todo lo que tú ves es míoH7200
+- Gén_32:2y dijo Jacob cuando los vio: CampamentoH7200
+- Gén_32:20después veré su rostro; quizá le seréH7200
+- Gén_32:25cuando el varón vio que no podía con élH7200
+- Gén_32:30porque dijo: Vi a Dios cara a cara, yH7200
+- Gén_33:5alzó sus ojos y vio a las mujeres y losH7200
+- Gén_33:10he visto tu rostro, como si hubiera vH7200
+- Gén_34:1salió Dina...a ver a las hijas del paísH7200
+- Gén_34:2y la vio Siquem hijo de...y la deshonróH7200
+- Gén_37:4y viendo sus hermanos que su padre loH7200
+- Gén_37:18cuando ellos lo vieron de lejos, antesH7200
+- Gén_37:20venid...y veremos qué será de sus sueñosH7200
+- Gén_38:2vio allí Judá la hija de un hombre...SúaH7200
+- Gén_38:14porque veía que había crecido Sela, yH7200
+- Gén_38:15vio Judá, y la tuvo por ramera, porqueH7200
+- Gén_39:3y vio su amo que Jehová estaba con élH7200
+- Gén_39:13vio ella que le había dejado su ropa enH7200
+- Gén_39:15viendo que yo alzaba la voz y gritaba
+- Gén_40:9yo soñaba que veía una vid delante de míH2009
+- Gén_40:16viendo el...había interpretado para bienH7200
+- Gén_40:16soñé que veía tres canastillos blancosH2009
+- Gén_41:19tan extenuadas, que no he visto otrasH2009
+- Gén_41:22vi...soñando, que siete espigas crecíanH2009
+- Gén_41:31aquella abundancia no se echará de ver
+- Gén_42:1viendo Jacob que en Egipto...alimentosH7200
+- Gén_42:7cuando vio a sus hermanos, los conocióH7200
+- Gén_42:9, Gén_42:12ver lo descubierto del país habéisH7200
+- Gén_42:21vimos la angustia de su alma cuando nosH7200
+- Gén_42:27vio su dinero que estaba en la boca deH2009
+- Gén_42:35viendo ellos...los atados de su dineroH2009
+- Gén_43:3, Gén_43:5no veréis mi rostro si no traéis aH7200
+- Gén_43:16vio José a Benjamín con ellos, y dijoH7200
+- Gén_43:29alzando José sus ojos vio a BenjamínH7200
+- Gén_44:23no desciende...no veréis más mi rostroH7200
+- Gén_44:26no podremos ver el rostro del varón, siH7200
+- Gén_44:28uno salió...y hasta ahora no lo he vistoH7200
+- Gén_44:31cuando no vea al joven, morirá; y tusH7200
+- Gén_44:34no podré, por no ver el mal...mi padreH7200
+- Gén_45:12he aquí vuestros ojos ven, y los ojos deH7200
+- Gén_45:13saber a mi padre...lo que habéis vistoH7200
+- Gén_45:27y viendo...los carros que José enviabaH7200
+- Gén_45:28vive...iré, y le veré antes que yo mueraH7200
+- Gén_46:28José, para que le viniese a ver en Gosén
+- Gén_46:30he visto tu rostro, y sé que aún vivesH7200
+- Gén_47:23ved...semilla, y sembraréis la tierraH7200
+- Gén_48:8y vio Israel los hijos de José, y dijoH7200
+- Gén_48:10agravados por la vejez...no podía verH7200
+- Gén_48:11no pensaba yo ver...Dios me ha hecho vH7200
+- Gén_48:17pero viendo José que su padre ponía laH7200
+- Gén_49:15vio que el descanso era bueno, y queH7200
+- Gén_50:11viendo los moradores de la tierra, losH7200
+- Gén_50:15viendo los hermanos de José que su padreH7200
+- Gén_50:20a bien, para hacer lo que vemos hoy
+- Gén_50:23vio José los hijos de Efraín hasta laH7200
+- Éxo_1:16y veáis el sexo, si es hijo, matadloH7200
+- Éxo_2:2dio a luz un...y viéndole que era hermosoH7200
+- Éxo_2:4lo lejos, para ver lo que le acontecería
+- Éxo_2:5río, vio ella la arquilla en el carrizalH7200
+- Éxo_2:6cuando la abrió, vio al niño; y...llorabaH7200
+- Éxo_2:11salió a...y los vio en sus duras tareasH7200
+- Éxo_2:12y viendo que no parecía nadie, mató alH6437
+- Éxo_2:13vio a dos hebreos que reñían; entoncesH2009
+- Éxo_3:2miró, y vio que la zarza ardía en fuegoH7200
+- Éxo_3:3iré yo ahora y veré esta grande visiónH7200
+- Éxo_3:4viendo Jehová que él iba a ver, lo llamóH7200
+- Éxo_3:7bien he visto la aflicción de mi puebloH7200
+- Éxo_3:9he visto la opresión con que los egipciosH7200
+- Éxo_3:16y he visto lo que se os hace en Egipto
+- Éxo_4:11¿o quién hizo al...al que ve y al ciego?[[H6493]]
+- Éxo_4:14y al verte se alegrará en su corazónH7200
+- Éxo_4:18volveré...Egipto, para ver si aún vivenH7200
+- Éxo_4:31oyendo...que había visto su aflicciónH7200
+- Éxo_5:19los capataces, se vieron en aflicciónH7200
+- Éxo_6:1verás lo que yo haré a Faraón; porque conH7200
+- Éxo_8:15pero viendo Faraón que le habían dadoH7200
+- Éxo_9:34y viendo Faraón que la lluvia...cesadoH7200
+- Éxo_10:5de modo que no pueda verse la tierraH7200
+- Éxo_10:6nunca vieron tus padres ni tus abuelosH7200
+- Éxo_10:23ninguno vio a su prójimo, ni nadie seH7200
+- Éxo_10:28que no veas...día que vieres mi rostroH7200
+- Éxo_10:29bien has dicho; no veré más tu rostroH7200
+- Éxo_12:13y veré la sangre y pasaré de vosotrosH7200
+- Éxo_12:23vea la sangre en el dintel y...pasaráH7200
+- Éxo_13:7panes...no se verá contigo nada leudadoH7200
+- Éxo_13:17vea la guerra, y se vuelva a EgiptoH7200
+- Éxo_14:13y ved la salvación que Jehová hará hoyH7200
+- Éxo_14:13hoy habéis visto, nunca más...los veréisH7200
+- Éxo_14:30vio a los egipcios muertos a la orillaH7200
+- Éxo_14:31y vio Israel...grande hecho que JehováH7200
+- Éxo_16:7veréis la gloria de Jehová...él ha oídoH7200
+- Éxo_16:15y viéndolo los...de Israel, se dijeronH7200
+- Éxo_16:32vean el pan que yo os di a comer en elH7200
+- Éxo_18:14viendo el suegro de Moisés todo lo queH7200
+- Éxo_19:4visteis lo que hice a los egipcios, yH7200
+- Éxo_19:21que no traspase los límites para ver aH7200
+- Éxo_20:18monte...y viéndolo el pueblo, temblaronH7200
+- Éxo_20:22habéis visto que he hablado desde elH7200
+- Éxo_22:8vea si ha metido su mano en los bienes
+- Éxo_22:10animal...fuere llevado sin verlo nadieH7200
+- Éxo_23:5si vieres el asno del que te aborreceH7200
+- Éxo_23:8porque el presente ciega a los que ven
+- Éxo_24:10y vieron al Dios, de Israel; y habíaH7200
+- Éxo_24:11vieron a Dios, y comieron y bebieronH2372
+- Éxo_32:1viendo el pueblo que Moisés tardaba enH7200
+- Éxo_32:5y viendo esto Aarón, edificó un altarH7200
+- Éxo_32:9he visto a este pueblo, que por ciertoH7200
+- Éxo_32:19él llegó...vio el becerro y las danzasH7200
+- Éxo_32:25viendo Moisés...el pueblo, desenfrenadoH7200
+- Éxo_33:10viendo...el pueblo la columna de nubeH7200
+- Éxo_33:20no podrás ver mi rostro...no me veráH7200
+- Éxo_33:23verás mis espaldas; mas no se verá miH7200
+- Éxo_34:10verá todo el pueblo en medio del cualH7200
+- Éxo_34:35el rostro de Moisés, veían que la piel
+- Éxo_39:43vio Moisés toda la obra...habían hechoH7200
+- Lev_5:1y fuere testigo que vio, o supo, y noH7200
+- Lev_5:3no lo echare de ver, si después llegare
+- Lev_9:24viéndolo todo el pueblo, alabaron, y seH7200
+- Lev_10:18ved que la sangre no fue llevada dentroH2005
+- Lev_13:8el sacerdote ve que la erupción se ha extendidoH2009
+- Lev_13:12si brotare la...hasta donde pueda ver el
+- Lev_13:56si el sacerdote la viere, y pareciereH2009
+- Lev_14:3ve que está sana la plaga de la lepraH2009
+- Lev_14:37y si se vieren manchas en las paredesH2009
+- Lev_14:48viere que la plaga no se ha extendidoH2009
+- Lev_20:17y viere su desnudez, y ella v la suyaH7200
+- Núm_4:20no entrarán para ver cuando cubran lasH7200
+- Núm_5:13marido no lo hubiese visto por haberse
+- Núm_11:6nada sino este maná ven nuestros ojos
+- Núm_11:15me des muerte...y que yo no vea mi malH7200
+- Núm_11:23ahora verás si se cumple mi palabra, oH7200
+- Núm_12:8hablaré...y verá la apariencia de JehováH5027
+- Núm_13:28también vimos allí a los hijos de AnacH7200
+- Núm_13:32el pueblo que vimos...de grande estaturaH7200
+- Núm_13:33también vimos allí gigantes, hijos deH7200
+- Núm_14:22los que vieron mi gloria y mis señalesH7200
+- Núm_14:23no verán la tierra de la cual juré a susH7200
+- Núm_14:23ninguno de...que me han irritado la veráH7200
+- Núm_15:39cuando lo veáis os acordéis de todosH7200
+- Núm_17:9lo vieron, y tomaron cada uno su varaH7200
+- Núm_20:29viendo toda la congregación que AarónH7200
+- Núm_22:2vio Balac...lo que Israel había hecho alH7200
+- Núm_22:23y el asna vio al ángel de Jehová, queH7200
+- Núm_22:25viendo el asna al ángel...se pegó a laH7200
+- Núm_22:27viendo el asna al ángel...se echó debajoH7200
+- Núm_22:31abrió...ojos de Balaam, y vio al ángelH7200
+- Núm_22:33el asna me ha visto, y se ha apartadoH7200
+- Núm_22:41desde allí vio a los más cercanos delH7200
+- Núm_23:9porque de la cumbre de las peñas lo veréH7789
+- Núm_23:13a otro lugar desde el cual los veasH7200
+- Núm_23:13más cercanos verás, y no los v todosH7200
+- Núm_23:21no...ni ha visto perversidad en IsraelH5027
+- Núm_24:1vio Balaam que parecía bien a JehováH7200
+- Núm_24:2vio a Israel alojado por sus tribus; yH7200
+- Núm_24:4, Núm_24:16que vio la visión del OmnipotenteH2372
+- Núm_24:17lo veré, mas no ahora; lo miraré, masH7200
+- Núm_24:20y viendo a Amalec, tomó su parábola yH7200
+- Núm_24:21y viendo al ceneo, tomó su parábola yH7200
+- Núm_25:7lo vio Finees hijo de Eleazar, hijo delH7200
+- Núm_27:12sube...y verás la tierra que he dado aH7200
+- Núm_27:13después que la hayas visto, tú tambiénH7200
+- Núm_32:1vieron la tierra de Jazer y de GalaadH7200
+- Núm_32:8envié desde...para que viesen la tierraH7200
+- Núm_32:9que vieron la tierra, desalentaron a losH7200
+- Núm_32:11no verán los varones que subieron deH7200
+- Núm_35:23sin verlo hizo caer sobre él algunaH7200
+- Deu_1:19todo aquel...desierto que habéis vistoH7200
+- Deu_1:28también vimos allí a los hijos de AnacH7200
+- Deu_1:31has visto que Jehová tu Dios te ha traídoH7200
+- Deu_1:35no verá hombre alguno...la buena tierraH7200
+- Deu_1:36Caleb hijo de Jefone; él la verá, y a élH7200
+- Deu_3:21tus ojos vieron...lo que Jehová vuestroH7200
+- Deu_3:25pase yo, te ruego, y vea aquella tierraH7200
+- Deu_3:28él les hará heredar la tierra que verásH7200
+- Deu_4:3vuestros ojos vieron lo que hizo JehováH7200
+- Deu_4:9de las cosas que tus ojos han visto, niH7200
+- Deu_4:12de oír la voz, ninguna figura visteisH7200
+- Deu_4:15pues ninguna figura visteis el día queH7200
+- Deu_4:19viendo el sol y la luna...te inclines aH7200
+- Deu_4:28serviréis allí a dioses...que no ven, niH7200
+- Deu_5:23y visteis al monte que ardía en fuego
+- Deu_5:24hemos visto que Jehová habla al hombreH7200
+- Deu_7:19las grandes pruebas que vieron tus ojosH7200
+- Deu_10:21cosas grandes...que tus ojos han vistoH7200
+- Deu_11:2que no han...visto el castigo de JehováH7200
+- Deu_11:7vuestros ojos han visto...grandes obrasH7200
+- Deu_12:13tus holocaustos en...lugar que vieresH7200
+- Deu_16:4no se verá levadura contigo en todo tuH7200
+- Deu_18:16ni vea yo más este gran fuego, para queH7200
+- Deu_20:1si vieres caballos y carros, y un puebloH7200
+- Deu_21:7sangre, ni nuestros ojos lo han vistoH7200
+- Deu_21:11y vieres entre los cautivos a...mujerH7200
+- Deu_22:1vieres extraviado el buey de tu hermanoH7200
+- Deu_22:4si vieres el asno de tu hermano...caídoH7200
+- Deu_22:17ved aquí las señales de la virginidad
+- Deu_23:14para que él no vea en ti cosa inmundaH7200
+- Deu_26:7Jehová...vio nuestra aflicción, nuestroH7200
+- Deu_28:10verán...el nombre de Jehová es invocadoH7200
+- Deu_28:32tus ojos lo verán, y desfallecerán porH7200
+- Deu_28:34enloquecerás a causa de lo que verásH7200
+- Deu_28:67el miedo...y por lo que verán tus ojosH7200
+- Deu_29:2vosotros habéis visto...lo que Jehová haH7200
+- Deu_29:3grandes pruebas que vieron vuestros ojosH7200
+- Deu_29:4Jehová no os ha dado...ojos para ver, niH7200
+- Deu_29:17habéis visto sus abominaciones y susH7200
+- Deu_29:22vieren las plagas de aquella tierra, yH7200
+- Deu_29:28arrojó a otra tierra, como hoy se ve
+- Deu_32:19y lo vio Jehová, y se encendió en iraH7200
+- Deu_32:20dijo: Esconderé...veré cuál será su finH7200
+- Deu_32:36viere que la fuerza pereció, y que noH7200
+- Deu_32:39ved ahora que yo, yo soy, y no hayH7200
+- Deu_32:52verás...delante de ti la tierra; mas noH7200
+- Deu_33:9dijo de su padre y...Nunca los he vistoH7200
+- Deu_34:4te he permitido vería con tus ojos, masH7200
+- Jos_3:3veáis el arca del pacto...vuestro DiosH7200
+- Jos_5:6juró que no les dejaría ver la tierra de
+- Jos_5:13Josué...vio un varón que estaba delanteH7200
+- Jos_7:21vi entre...despojos un manto babilónicoH7200
+- Jos_8:14viéndolo el rey de Hai, él y su puebloH7200
+- Jos_8:21Josué y...viendo que los de la emboscadaH7200
+- Jos_23:3habéis visto todo lo que Jehová vuestroH7200
+- Jos_24:7y vuestros ojos vieron...hice en EgiptoH7200
+- Jue_1:24los que espiaban vieron a un hombreH7200
+- Jue_2:7habían visto todas las grandes obras deH7200
+- Jue_3:24viendo las puertas de la sala cerradasH2009
+- Jue_5:8¿se veía escudo o lanza entre 40.000 enH7200
+- Jue_6:22viendo entonces Gedeón que era el ángel
+- Jue_6:22he visto al ángel de Jehová cara a caraH7200
+- Jue_7:13veía un pan de cebada que...rodaba hasta
+- Jue_9:36viendo Gaal al pueblo, dijo a Zebul: HeH2009
+- Jue_9:48lo que me habéis visto hacer...a hacerloH7200
+- Jue_9:55y cuando...vieron muerto a Abimelec, seH7200
+- Jue_11:35cuando él la vio, rompió sus vestidosH7200
+- Jue_12:3viendo...que no me defendíais, arriesguéH7200
+- Jue_13:22moriremos, porque a Dios hemos vistoH7200
+- Jue_14:1Sansón...vio en Timnat a una mujer de lasH7200
+- Jue_14:2yo he visto en Timnat una mujer de lasH7200
+- Jue_14:8para ver el cuerpo muerto del león; y heH7200
+- Jue_14:11cuando ellos le vieron, tomaron 30H7200
+- Jue_16:1fue Sansón...vio allí a una mujer rameraH7200
+- Jue_16:18viendo Dalila que...le había descubiertoH7200
+- Jue_16:24viéndolo el pueblo, alabaron a su diosH7200
+- Jue_18:7y vieron que el pueblo...estaba seguroH7200
+- Jue_18:9región, y hemos visto que es muy buenaH2009
+- Jue_18:26y Micaía, viendo que eran más fuertesH7200
+- Jue_19:4viéndole el padre de...salió a recibirle
+- Jue_19:17vio a aquel caminante en la plaza de laH7200
+- Jue_19:30todo el que veía aquello, decía: JamásH7200
+- Jue_19:30jamás se ha hecho ni visto tal cosaH7200
+- Jue_20:36y vieron...Benjamín que eran derrotadosH7200
+- Jue_20:41vieron que el desastre había venidoH7200
+- Jue_21:21cuando veáis salir a las hijas de SiloH2009
+- Rut_1:18viendo...que estaba tan resuelta a irH7200
+- Rut_2:18y su suegra vio lo que había recogidoH7200
+- 1Sa_2:32verás tu casa humillada, mientrasH5027
+- 1Sa_3:2a oscurecerse de modo que no podía verH7200
+- 1Sa_4:15ojos...habían oscurecido...no podía verH7200
+- 1Sa_5:7y viendo esto los de Asdod, dijeron: NoH7200
+- 1Sa_6:13alzando los ojos vieron el arca, y seH7200
+- 1Sa_6:13arca, y se regocijaron cuando la vieronH7200
+- 1Sa_6:16cuando vieron esto los cinco príncipesH7200
+- 1Sa_8:4todos...vinieron a Ramá para ver a Samuel
+- 1Sa_9:17luego que Samuel vio a Saúl, Jehová leH7200
+- 1Sa_10:11vieron que profetizaba con...profetasH7200
+- 1Sa_10:14como vimos que no parecían, fuimos aH7200
+- 1Sa_10:24¿habéis visto al que ha elegido JehováH7200
+- 1Sa_12:12habiendo visto que Nahas rey de...veníaH7200
+- 1Sa_12:13ya veis que Jehová ha puesto rey sobreH2009
+- 1Sa_12:17y veáis que es grande vuestra maldadH7200
+- 1Sa_13:6cuando...vieron que estaban en estrechoH7200
+- 1Sa_13:11vi que el pueblo se me desertaba, y queH7200
+- 1Sa_14:16vieron...la multitud estaba turbada, eH7200
+- 1Sa_14:17ved quién se haya ido de los nuestrosH7200
+- 1Sa_14:29ved...cómo han sido aclarados mis ojosH7200
+- 1Sa_14:38y ved en qué ha consistido este pecadoH7200
+- 1Sa_14:52que Saúl veía que era hombre esforzadoH7200
+- 1Sa_15:35y nunca después vio Samuel a Saúl enH7200
+- 1Sa_16:6vio a Eliab, y dijo: De cierto delanteH7200
+- 1Sa_16:18yo he visto a un hijo de Isaí de BelénH7200
+- 1Sa_17:24los varones de...que veían aquel hombreH7200
+- 1Sa_17:25¿no habéis visto aquel hombre que haH7200
+- 1Sa_17:28tu...que para ver la batalla has venidoH7200
+- 1Sa_17:42cuando el filisteo miró y vio a DavidH7200
+- 1Sa_17:51filisteos vieron a su paladín muertoH7200
+- 1Sa_17:55y cuando Saúl vio a David que salía aH7200
+- 1Sa_18:15viendo Saúl que se...tan prudentementeH7200
+- 1Sa_18:28viendo y...que Jehová estaba con DavidH7200
+- 1Sa_19:5tú lo viste, y te alegraste, ¿por quéH7200
+- 1Sa_19:15volvió Saúl a enviar...viesen a DavidH7200
+- 1Sa_19:20cuales vieron una compañía de profetasH7200
+- 1Sa_21:14dijo...veis que este hombre es dementeH7200
+- 1Sa_22:9yo vi al hijo de Isaí que vino a Nob, aH7200
+- 1Sa_23:15viendo...David que Saúl había salido enH7200
+- 1Sa_23:22id...y ved el lugar de su escondite, yH7200
+- 1Sa_23:22y quién lo haya visto allí; porque seH7200
+- 1Sa_24:10han visto...Jehová te ha puesto hoy enH7200
+- 1Sa_24:11ve que no hay mal...en mi mano, ni heH7200
+- 1Sa_24:15Jehová...vea y sustente mi causa, y meH7200
+- 1Sa_25:17reflexiona y ve lo que has de hacerH7200
+- 1Sa_25:23y cuando Abigail vio a David, se bajóH7200
+- 1Sa_25:25yo tu sierva no vi a los jóvenes queH7200
+- 1Sa_26:12no hubo nadie que viese, ni entendieseH7200
+- 1Sa_28:5y cuando vio Saúl el campamento de losH7200
+- 1Sa_28:12y viendo la mujer a Samuel, clamó enH7200
+- 1Sa_28:13¿qué has visto? Y la mujer respondióH7200
+- 1Sa_28:13he visto dioses que suben de la tierraH7200
+- 1Sa_28:21mujer vino a Saúl, y viéndole turbadoH7200
+- 1Sa_31:5y viendo su escudero a Saúl muerto, élH7200
+- 1Sa_31:7viendo que Israel había huido y...SaúlH7200
+- 2Sa_1:7mirando...me vio y me llamó; y yo dijeH7200
+- 2Sa_3:13no me vengas a ver sin...traigas a MicalH7200
+- 2Sa_3:13la hija de Saúl, cuando vengas a vermeH7200
+- 2Sa_6:16que Mical...vio al rey David que saltabaH7200
+- 2Sa_10:6viendo los hijos de Amón que se habíanH7200
+- 2Sa_10:9viendo, pues, Joab que se le presentabaH7200
+- 2Sa_10:14viendo que los sirios habían huidoH7200
+- 2Sa_10:15viendo que habían sido derrotados porH7200
+- 2Sa_10:19viendo...todos los reyes que ayudaban aH7200
+- 2Sa_11:2vio desde el terrado a una mujer que seH7200
+- 2Sa_12:19viendo a sus siervos hablar entre síH7200
+- 2Sa_13:5para que al verla yo la coma de su manoH7200
+- 2Sa_13:39y el rey David deseaba ver a Absalón
+- 2Sa_14:24no vea mi rostro...y no vio el rostroH7200
+- 2Sa_14:28dos años...y no se vio el rostro del reyH7200
+- 2Sa_14:32veo ahora yo el rostro del rey, y siH7200
+- 2Sa_15:25y me dejará verla y a su tabernáculo
+- 2Sa_17:18fueron vistos por un joven el cual loH7200
+- 2Sa_17:23pero Ahitofel, viendo que no se habíaH7200
+- 2Sa_18:10viéndolo uno avisó a Joab, diciendoH7200
+- 2Sa_18:10visto a Absalón colgado de una encinaH7200
+- 2Sa_18:11y viéndolo tú, ¿por qué no le matasteH7200
+- 2Sa_18:21vé tú, y di al rey lo que has vistoH7200
+- 2Sa_18:24sus ojos, miró, y vio a uno que corríaH7200
+- 2Sa_18:26vio el atalaya a otro que corría; y dioH7200
+- 2Sa_18:29vi...gran alboroto cuando envió Joab alH7200
+- 2Sa_19:6has hecho ver...que si Absalón vivieraH3045
+- 2Sa_20:12al verle, se detenía; y viendo aquel
+- 2Sa_24:3añada Jehová...que lo vea mi señor el reyH7200
+- 2Sa_24:17David dijo a Jehová...vio al ángel queH7200
+- 2Sa_24:20y Arauna...vio al rey y a sus siervosH7200
+- 1Re_1:48quien se siente...viéndolo mis ojosH7200
+- 1Re_3:15cuando...despertó, vio que era sueño; yH2009
+- 1Re_3:21lo observé...y vi que no era mi hijo, elH2009
+- 1Re_3:28vieron que había en él sabiduría...paraH7200
+- 1Re_6:18todo era cedro; ninguna piedra se veíaH7200
+- 1Re_8:8que sus extremos se dejaban ver desde elH7200
+- 1Re_8:8pero no se dejaban ver desde más afueraH7200
+- 1Re_9:12salió Hiram...para ver las ciudades queH7200
+- 1Re_10:4la reina de Sabá vio toda la sabiduríaH7200
+- 1Re_10:7han visto que ni aun se me dijo la mitadH7200
+- 1Re_10:12semejante madera...ni se ha visto...hoyH7200
+- 1Re_10:24procuraba ver la cara de Salomón, paraH7200
+- 1Re_11:28viendo Salomón...que era hombre activoH7200
+- 1Re_12:16el pueblo vio que el rey no les habíaH7200
+- 1Re_13:25vieron el cuerpo...echado en el caminoH7200
+- 1Re_14:4ya no podía ver Ahías, porque sus ojosH7200
+- 1Re_16:18mas viendo Zimri tomada la ciudad, seH7200
+- 1Re_18:5ver si acaso hallaremos hierba con que
+- 1Re_18:17Acub vio a Elías, le dijo: ¿Eres tú elH7200
+- 1Re_18:39viéndolo todo el pueblo, se postraronH7200
+- 1Re_18:44veo una pequeña nube como la palma deH2009
+- 1Re_19:3viendo, pues, el peligro, se levantó yH7200
+- 1Re_20:7ved ahora cómo éste no busca sino malH7200
+- 1Re_20:13dicho...¿Has visto esta gran multitud?[[H2009]]
+- 1Re_20:23si peleáremos...verá si no los vencemos
+- 1Re_20:25veremos si no los vencemos...Y él les
+- 1Re_20:31a ver si por ventura te salva la vidaH2009
+- 1Re_21:29¿no...visto cómo Acab se ha humilladoH7200
+- 1Re_22:17yo vi a todo Israel esparcido por losH7200
+- 1Re_22:19yo vi a Jehová sentado en su trono, yH7200
+- 1Re_22:25lo verás en aquel día, cuando te irásH7200
+- 1Re_22:32capitanes...vieron a Josafat, dijeronH7200
+- 1Re_22:33viendo...que no era el rey de Israel, seH7200
+- 2Re_2:10si me vieres cuando fuere quitado deH7200
+- 2Re_2:12viéndolo Eliseo, clamaba: ¡Padre míoH7200
+- 2Re_2:12nunca más le vio; y tomando...vestidosH7200
+- 2Re_2:15viéndole los hijos de los profetas queH7200
+- 2Re_2:19el lugar en...es bueno, como mi señor veH7200
+- 2Re_2:24los vio, y los maldijo en el nombre deH7200
+- 2Re_3:14si no...no te mirara a ti, ni te vieraH7200
+- 2Re_3:17no veréis viento, ni v lluvia; pero esteH7200
+- 2Re_3:22vieron los de Moab...rojas como sangreH7200
+- 2Re_3:26el rey de Moab vio que era vencido enH7200
+- 2Re_4:23dijo: ¿Para qué vas a verle hoy? No es
+- 2Re_4:25el varón de Dios la vio de lejos, dijoH7200
+- 2Re_5:7lepra...ved cómo busca ocasión contra míH7200
+- 2Re_5:21vio Naamán que venía corriendo tras élH7200
+- 2Re_6:17ruego...que abras sus ojos para que veaH7200
+- 2Re_6:20abre los ojos de éstos, para que veanH7200
+- 2Re_6:21cuando el rey de Israel los hubo vistoH7200
+- 2Re_6:30y el pueblo vio el cilicio que traíaH7200
+- 2Re_6:32¿no habéis visto...este hijo de homicidaH7200
+- 2Re_7:2, 2Re_7:19lo verás con tus ojos, mas no comerásH7200
+- 2Re_7:13los caballos...enviemos y veamos qué hayH7200
+- 2Re_7:14envió el rey al campamento...Id y vedH7200
+- 2Re_9:2verás allí a Jehú hijo de Josafat hijo deH7200
+- 2Re_9:17atalaya...vio la tropa de Jehú que venía
+- 2Re_9:17veo una tropa...Y Joram dijo: Ordena aH7200
+- 2Re_9:18-19¿qué tienes tú que ver con la paz?
+- 2Re_9:22cuando vio Joram a Jehú, dijo: ¿Hay pazH7200
+- 2Re_9:26yo he visto ayer la sangre de Nabot, yH7200
+- 2Re_9:27viendo esto Ocozías rey de Judá, huyóH7200
+- 2Re_9:34dijo: Id ahora a ver a aquella maldita
+- 2Re_10:16dijo: Ven...y verás mi celo por JehováH7200
+- 2Re_10:23y ved que no haya...siervos de JehováH7200
+- 2Re_11:1Atalía...vio que su hijo era muerto, seH7200
+- 2Re_12:10cuando veían que había mucho dinero enH7200
+- 2Re_13:21vieron una banda armada, y arrojaron elH2009
+- 2Re_14:8Joás...Ven, para que nos veamos las carasH7200
+- 2Re_14:11subió Joás...y se vieron las caras él yH7200
+- 2Re_16:10vio el rey Acaz el altar que estaba enH7200
+- 2Re_16:12el rey vino de Damasco, y vio el altarH7200
+- 2Re_20:5y he visto tus lágrimas...que yo te sanoH7200
+- 2Re_20:15¿qué vieron en tu casa?...V todo lo queH7200
+- 2Re_22:20no verán tus ojos todo el mal que yoH7200
+- 2Re_23:16viendo los sepulcros que estaban allíH7200
+- 2Re_23:17dijo: ¿Qué monumento es este que veo?[[H7200]]
+- 2Re_23:24barrió...abominaciones que se veían enH7200
+- 2Re_23:29pero aquél, así que le vio, lo mató enH7200
+- 1Cr_10:5cuando su escudero vio a Saúl muertoH7200
+- 1Cr_10:7viendo todos los de Israel que...huidoH7200
+- 1Cr_12:17véalo el Dios de nuestros padres, y loH7200
+- 1Cr_15:29Mical...vio al rey David que saltaba yH8259
+- 1Cr_19:6viendo...se habían hecho odiosos a DavidH7200
+- 1Cr_19:10y viendo Joab que el ataque contra élH7200
+- 1Cr_19:15viendo...los sirios habían huido, huyeronH7200
+- 1Cr_19:16, 1Cr_19:19viendo los sirios que habían caídoH7200
+- 1Cr_21:16y alzando David sus ojos, vio al ángelH7200
+- 1Cr_21:20y volviéndose Ornán, vio al ángel, porH7200
+- 1Cr_21:21miró Ornán, y vio a David; y saliendoH7200
+- 1Cr_21:28viendo David que Jehová le había oídoH7200
+- 1Cr_29:17ahora he visto con alegría que tu puebloH7200
+- 2Cr_5:9se viesen las cabezas de las barrasH7200
+- 2Cr_5:9las barras del arca...no se veían...fueraH7200
+- 2Cr_6:15lo has cumplido, como se ve en este día
+- 2Cr_7:3cuando vieron...Israel descender el fuegoH7200
+- 2Cr_9:3viendo la reina de Sabá la sabiduría deH7200
+- 2Cr_9:6hasta que he venido, y mis ojos han vistoH2009
+- 2Cr_9:11nunca en...había visto madera semejanteH7200
+- 2Cr_9:23procuraban ver el rostro de Salomón
+- 2Cr_10:16viendo...que el rey no les había oídoH7200
+- 2Cr_12:7Jehová vio que se habían humillado, vinoH7200
+- 2Cr_15:9viendo que Jehová su Dios estaba con élH7200
+- 2Cr_18:16he visto a todo Israel derramado porH7200
+- 2Cr_18:18he visto a Jehová sentado en su tronoH7200
+- 2Cr_18:24tú lo verás aquel día, cuando entres deH7200
+- 2Cr_18:31cuando los capitanes...vieron a JosafatH7200
+- 2Cr_18:32viendo los capitanes...no era el rey deH7200
+- 2Cr_20:17quietos, y ved la salvación de JehováH7200
+- 2Cr_22:10Atalía...viendo que su hijo era muertoH7200
+- 2Cr_23:13mirando, vio al rey que estaba junto aH7200
+- 2Cr_24:11cuando veían que había mucho dineroH7200
+- 2Cr_24:22al morir: Jehová lo vea y lo demandeH7200
+- 2Cr_25:17a decir a...Ven, y veámonos cara a caraH7200
+- 2Cr_25:21y se vieron cara a cara él y AmasíasH7200
+- 2Cr_29:8como veis vosotros con vuestros ojosH7200
+- 2Cr_30:7él los entregó a desolación, como...veisH7200
+- 2Cr_31:8cuando Ezequías y...vieron los montonesH7200
+- 2Cr_32:2viendo, pues...la venida de SenaqueribH7200
+- 2Cr_34:28tus ojos no verán todo el mal que yoH7200
+- Esd_3:12muchos...habían visto la casa primeraH7200
+- Esd_3:12viendo echar los cimientos de...lloraban
+- Esd_4:14no nos es justo ver el menosprecio delH2370
+- Neh_2:17vosotros veis el mal en que estamosH7200
+- Neh_4:11ni vean, hasta que entremos en medio deH7200
+- Neh_13:15vi...a algunos que pisaban en lagaresH7200
+- Neh_13:23vi...judíos que habían tomado mujeresH7200
+- Est_1:14príncipes...que veían la cara del reyH7200
+- Est_2:15ganaba...el favor de...los que la veíanH6437
+- Est_3:4ver si Mardoqueo se mantendría firme enH7200
+- Est_3:5vio Amán que Mardoqueo ni se...humillabaH7200
+- Est_4:6salió, pues, Hatac a ver a Mardoqueo, a
+- Est_4:11en el patio interior para ver al rey
+- Est_4:11yo no he sido llamada para ver al rey
+- Est_4:16entonces entraré a ver al rey, aunque
+- Est_5:2vio a la reina...que estaba en el patioH7200
+- Est_5:9pero cuando vio a Mardoqueo a la puertaH7200
+- Est_5:13que veo al judío Mardoqueo sentado aH7200
+- Est_7:7vio que estaba resuelto para él el mal deH7200
+- Est_8:6¿cómo podré yo ver el mal...a mi pueblo?[[H7200]]
+- Est_8:6¿cómo podré yo ver la destrucción de miH7200
+- Est_9:26por lo que ellos vieron sobre esto, y loH7200
+- Job_1:11; Job_2:5verás si no blasfema contra ti en
+- Job_2:13así...veían que su dolor era muy grandeH7200
+- Job_3:9venga, ni vea los párpados de la mañanaH7200
+- Job_3:16los pequeñitos que nunca vieron la luz?[[H7200]]
+- Job_4:8como yo he visto, los que aran iniquidadH7200
+- Job_5:3yo he visto al necio que echaba raícesH7200
+- Job_5:25echarás de ver que tu descendencia es
+- Job_6:21pues habéis visto el tormento, y teméisH7200
+- Job_6:28ved si digo mentira delante de vosotrosH6437
+- Job_7:7que mis ojos no volverán a ver el bienH7200
+- Job_7:8los ojos de los que me ven, no me veránH7789
+- Job_8:18negará entonces, diciendo: Nunca te viH7200
+- Job_9:11pasará delante de mí, y yo no lo veréH7200
+- Job_9:25mis días...huyeron, y no vieron el bienH7200
+- Job_10:4¿tienes tú...¿ves tú como ve el hombre?[[H7200]]
+- Job_10:15hastiado de deshonra y...verme afligidoH7200, [[H7202]]
+- Job_10:18expirado, y ningún ojo me habría vistoH7200
+- Job_11:11ve asimismo la iniquidad, ¿y no haráH7200
+- Job_13:1estas cosas han visto mis ojos, y oídoH7200
+- Job_15:17te mostraré...contaré lo que he vistoH2372
+- Job_17:15¿dónde...mi esperanza, ¿quién la verá?[[H7789]]
+- Job_19:26mi piel, en mi carne he de ver a DiosH2372
+- Job_19:27al cual veré por mí mismo, y mis ojosH2372
+- Job_19:27y mis ojos lo verán, y no otro, aunqueH7200
+- Job_20:7los que le hubieren visto dirán: ¿QuéH7200
+- Job_20:9el ojo que le veía, nunca más le verá
+- Job_20:17no verá los arroyos, los ríos...de lecheH7200
+- Job_21:20verán sus ojos su quebranto, y beberáH7200
+- Job_22:11tinieblas, para que no veas...te cubreH7200
+- Job_22:14las nubes le rodearon, y no ve; y porH7200
+- Job_22:19verán los justos y se gozarán; y elH7200
+- Job_23:9muestra su poder al norte...no lo veréH2372
+- Job_23:9si...al sur se esconderá, y no lo veréH7200
+- Job_24:1qué los que le conocen no ven sus días?[[H2372]]
+- Job_24:15no me verá nadie; y esconde su rostroH7789
+- Job_27:12he aquí que...vosotros lo habéis vistoH2005
+- Job_28:7la conoció ave, ni ojo de buitre la vioH7805
+- Job_28:10y sus ojos vieron todo lo preciadoH7200
+- Job_28:24y ve cuanto hay bajo los cielosH7200
+- Job_28:27entonces la veía él, y la manifestabaH7200
+- Job_29:8los jóvenes me veían, y se escondíanH7200
+- Job_29:11ojos que me veían me daban testimonioH7200
+- Job_31:4¿no ve él mis caminos, y cuenta todosH7200
+- Job_31:19si he visto que pereciera alguno sinH7200
+- Job_31:21si...viese que me ayudaran en la puertaH7200
+- Job_32:5viendo Eliú que no había respuesta enH7200
+- Job_33:21desfallece, de manera que no se ve, yH7210
+- Job_33:21y sus huesos, que antes no se veíanH7200
+- Job_33:26verá su faz con júbilo; y restauraráH7200
+- Job_33:28Dios redimirá su...Y su vida se verá en luzH7200
+- Job_34:21ojos están sobre...y ve todos sus pasosH7200
+- Job_34:26los herirá en lugar donde sean vistos
+- Job_34:32enséñame tú lo que yo no veo; si hiceH2372
+- Job_35:5ve, y considera que las nubes son másH7200
+- Job_36:25los hombres todos la ven, la mira elH2372
+- Job_38:17has visto las puertas de la sombra deH7200
+- Job_38:22o has visto los tesoros del granizoH7200
+- Job_42:5había oído; mas ahora mis ojos te venH7200
+- Job_42:16vio a sus hijos, y a los hijos de susH7200
+- Sal_8:3cuando veo tus cielos, obra de tusH7200
+- Sal_10:11encubierto su rostro; nunca lo veráH7200
+- Sal_10:14tú lo has visto...miras el trabajo y laH7200
+- Sal_11:4sus ojos ven, sus párpados examinan aH2372
+- Sal_14:2para ver si había algún entendido, queH7200
+- Sal_16:10ni permitirás...tu santo vea corrupciónH7200
+- Sal_17:2vindicación; vean tus ojos la rectitudH2372
+- Sal_17:15cuanto a mí, veré tu rostro en justiciaH2372
+- Sal_22:7los que me ven, me escarnecen; estiranH7200
+- Sal_27:13no creyese que veré la bondad de JehováH7200
+- Sal_31:7gozaré...porque has visto mi aflicciónH7200
+- Sal_31:11soy...los que me ven fuera huyen de míH7200
+- Sal_33:13vio a todos los hijos de los hombresH7200
+- Sal_34:8gustad, y ved que es bueno JehováH7200
+- Sal_34:12que desea muchos días para ver el bien?[[H7200]]
+- Sal_35:17¿hasta cuándo verás esto? Rescata miH7200
+- Sal_35:21dijeron...nuestros ojos lo han visto?[[H7200]]
+- Sal_35:22tú lo has visto, oh Jehová; no callesH7200
+- Sal_36:9contigo está...en tu luz veremos la luzH7200
+- Sal_37:13se reirá...porque ve que viene su díaH7200
+- Sal_37:25no he visto justo desamparado, ni suH7200
+- Sal_37:34sean destruidos...pecadores, lo verásH7200
+- Sal_37:35vi yo al impío sumamente enaltecido, yH7200
+- Sal_40:3verán...y temerán, y confiarán en JehováH7200
+- Sal_41:6y si vienen a verme, hablan mentira; suH7200
+- Sal_44:14nos...todos al vernos menean la cabeza
+- Sal_46:8venid, ved las obras de Jehová, que haH2372
+- Sal_48:5y viéndola ellos así, se maravillaronH7200
+- Sal_48:8lo hemos visto en la ciudad de JehováH7200
+- Sal_49:9para que viva...y nunca vea corrupciónH7200
+- Sal_49:10pues verá que aun los sabios muerenH7200
+- Sal_49:19entrará en la...y nunca más verá la luzH7200
+- Sal_50:18si veías al ladrón, tú corrías con élH7200
+- Sal_52:6verán los justos, y temerán: se reiránH7200
+- Sal_53:2para ver si había algún entendido queH7200
+- Sal_54:7ojos han visto la ruina de mis enemigosH7200
+- Sal_55:9visto violencia y rencilla en la ciudadH7200
+- Sal_58:8como el que nace muerto, no vean el solH2372
+- Sal_58:10se alegrará...cuando viere la venganzaH2372
+- Sal_59:10hará que vea en mis enemigos mi deseoH7200
+- Sal_60:3has hecho ver a tu pueblo cosas duras
+- Sal_63:2para ver tu poder y tu gloria, así comoH7200
+- Sal_64:5lazos, y dicen: ¿Quién los ha de ver?[[H7200]]
+- Sal_64:8se espantarán todos los que los veanH7200
+- Sal_66:5venid, y ved las obras de Dios, temibleH7200
+- Sal_68:24vieron tus caminos, oh Dios...de mi ReyH7200
+- Sal_69:23oscurecidos sus ojos para que no veanH7200
+- Sal_69:32lo verán los oprimidos, y se gozaránH7200
+- Sal_71:20que me has hecho ver muchas angustias
+- Sal_73:3tuve...viendo la prosperidad de los impíosH7200
+- Sal_74:9no vemos ya nuestras señales...profetaH7200
+- Sal_77:16te vieron las aguas...las aguas te v, yH7200
+- Sal_84:7irán de poder en...verán a Dios en Sion
+- Sal_86:17y véanla los que me aborrecen, y seanH7200
+- Sal_89:48¿qué hombre vivirá y no verá muerte?[[H7200]]
+- Sal_90:15conforme a...años en que vimos el malH7200
+- Sal_91:8ojos...verás la recompensa de los impíosH5027
+- Sal_94:7dijeron: No verá JAH, ni entenderá elH7200
+- Sal_94:9oirá? El que formó el ojo, ¿no verá?[[H5027]]
+- Sal_95:9donde...me probaron, y vieron mis obrasH7200
+- Sal_97:4el mundo; la tierra vio y se estremecióH7200
+- Sal_97:6y todos los pueblos vieron su gloriaH7200
+- Sal_98:3han visto la salvación de nuestro DiosH7200
+- Sal_102:16edificado...y en su gloria será visto
+- Sal_106:5para que yo vea el bien de tus escogidosH7200
+- Sal_107:24ellos han visto las obras de JehováH7200
+- Sal_107:42véanlo los rectos, y alégrense, y todosH7200
+- Sal_112:8hasta que vea en sus enemigos su deseoH7200
+- Sal_112:10verá el impío y se irritará; crujiráH7200
+- Sal_114:3mar lo vio, y huyó; el Jordán se volvióH7200
+- Sal_115:5mas no hablan; tienen ojos, mas no venH7200
+- Sal_118:7veré mi deseo en los que me aborrecenH7200
+- Sal_119:37aparta mis ojos...no vean la vanidadH7200
+- Sal_119:74los que te temen me verán...alegraránH7200
+- Sal_119:96toda perfección he visto fin; amplioH7200
+- Sal_119:158veía a los prevaricadores...disgustabaH7200
+- Sal_128:5y veas el bien de Jerusalén todos losH7200
+- Sal_128:6veas a los hijos de tus hijos...Paz seaH7200
+- Sal_135:16y no hablan; tienen ojos, y no venH7200
+- Sal_139:16mi embrión vieron tus ojos, y en tuH7200
+- Sal_139:24ve si hay en mí camino de perversidadH7200
+- Pro_6:6ve a la hormiga, oh perezoso, Mira
+- Pro_7:7vi entre los simples, consideré entreH7200
+- Pro_20:12y el ojo que ve, ambas cosas...ha hechoH7200
+- Pro_22:3el avisado ve el mal y se esconde; mas
+- Pro_22:29¿has visto hombre solícito...trabajo?[[H2372]]
+- Pro_24:32en mi corazón; lo vi, y tomé consejoH7200
+- Pro_26:12¿has visto hombre sabio en su propiaH7200
+- Pro_27:12el avisado ve el mal y se esconde; masH7200
+- Pro_29:16mas los justos verán la ruina de ellosH7200
+- Pro_29:20¿has visto hombre ligero en...palabras?[[H2372]]
+- Pro_31:18ve que van bien sus negocios...lámpara
+- Ecl_1:8nunca se sacia el ojo de ver, ni el oídoH7200
+- Ecl_2:3hasta ver cuál fuese el bien de los hijosH7200
+- Ecl_2:12volví yo a mirar para ver la sabiduríaH7200
+- Ecl_2:13y he visto que la sabiduría sobrepasa aH7200
+- Ecl_2:24he visto que esto es de la mano de DiosH7200
+- Ecl_3:10he visto el trabajo que Dios ha dado aH7200
+- Ecl_3:16vi...debajo del sol: en lugar del juicioH7200
+- Ecl_3:18vean que ellos mismos son semejantes aH7200
+- Ecl_3:22he visto que no hay cosa mejor para elH7200
+- Ecl_3:22que vea lo que ha de ser después de él?[[H7200]]
+- Ecl_4:1y vi...las violencias que se hacen debajoH2009
+- Ecl_4:3no ha visto las malas obras que debajoH7200
+- Ecl_4:4he visto...que todo...despierta la envidiaH7200
+- Ecl_4:7yo me volví...y vi vanidad debajo del solH7200
+- Ecl_4:15vi a todos los que viven debajo del solH7200
+- Ecl_5:8si opresión...vieres en la provincia, noH7200
+- Ecl_5:11¿qué bien...sino verlos con sus ojos?[[H7207]], [[H7212]]
+- Ecl_5:13hay un mal...que he visto debajo del solH7200
+- Ecl_5:18he aquí, pues, el bien que yo he vistoH7200
+- Ecl_6:1hay un mal que he visto debajo del cieloH7200
+- Ecl_6:5no ha visto el sol, ni lo ha conocidoH7200
+- Ecl_7:11y provechosa para los que ven el solH7200
+- Ecl_7:15esto he visto en los días de mi vanidadH7200
+- Ecl_8:9esto he visto, y he puesto mi corazon enH7200
+- Ecl_8:10he visto a los inicuos sepultados conH7200
+- Ecl_8:16y a ver la faena que se hace sobre laH7200
+- Ecl_8:16hay quien ni de noche...ve sueño en susH7200
+- Ecl_8:17he visto todas las obras de Dios, queH7200
+- Ecl_9:11y vi debajo del sol, que ni es de losH7200
+- Ecl_9:13también vi esta sabiduría debajo del solH7200
+- Ecl_10:5hay un mal que he visto debajo del solH7200
+- Ecl_10:7vi siervos a caballo, y príncipes queH7200
+- Ecl_11:7luz, y agradable a los ojos ver el solH7200
+- Cnt_3:3¿Habéis visto al que ama mi alma?[[H7200]]
+- Cnt_3:11dije: ¿Habéis visto al que...mi alma?[[H7200]]
+- Cnt_3:11y ved al rey Salomón con la corona conH2009
+- Cnt_6:9la vieron las doncellas, y la llamaronH7200
+- Cnt_6:11descendí a ver los frutos del valle, yH7200
+- Cnt_6:11ver si brotaban las vides, si florecíanH7200
+- Cnt_6:13¿qué veréis en la sulamita? Algo comoH2372
+- Cnt_7:12veamos si brotan las vides, si están enH7200
+- Isa_1:1la cual vio acerca de Judá...en días deH2372
+- Isa_2:1lo que vio Isaías hijo de Amoz acerca deH2372
+- Isa_5:19venga ya, apresúrese su obra, y veamosH7200
+- Isa_6:1vi yo al Señor sentado sobre un trono altoH7200
+- Isa_6:5han visto mis ojos al Rey, Jehová de losH7200
+- Isa_6:9oíd...ved por cierto, mas no comprendáisH7200
+- Isa_6:10que no vea con sus ojos, ni oiga con susH7200
+- Isa_9:2el pueblo que...en tinieblas vio gran luzH7200
+- Isa_14:16que te vean, te contemplarán, diciendoH7688
+- Isa_21:3agobié oyendo, y al ver me he espantadoH7200
+- Isa_21:6pon centinela que haga saber lo que veaH7200
+- Isa_21:7y vio hombres montados, jinetes de dosH7200
+- Isa_22:9visteis...brechas de la ciudad de DavidH7200
+- Isa_26:11tu mano está alzada, pero ellos no venH2372
+- Isa_26:11verán al fin, y, se avergonzarán los queH2372
+- Isa_28:4la cual, apenas la ve el que la mira, seH7200
+- Isa_29:15¿quién nos ve, y quién nos conoce?[[H7200]]
+- Isa_29:18ciegos verán en medio de la oscuridadH7200
+- Isa_29:23verá a sus hijos, obra de mis manos enH7200
+- Isa_30:10que dicen a los videntes: No veáis; y aH7200
+- Isa_30:20sino que tus ojos verán a tus maestrosH7200
+- Isa_30:30hará ver el descenso de su brazo, con
+- Isa_32:3no se ofuscarán...los ojos de los que venH7200
+- Isa_33:15cierra sus ojos para no ver cosa malaH7200
+- Isa_33:17tus ojos verán al rey...v la tierra queH2372
+- Isa_33:19no verás a aquel pueblo orgulloso, puebloH7200
+- Isa_33:20tus ojos verán a Jerusalén, morada deH7200
+- Isa_35:2verán la gloria de Jehová...Dios nuestroH7200
+- Isa_38:5he oído tu oración, y visto tus lágrimasH7200
+- Isa_38:11no veré a JAH, a JAH en la tierra deH7200
+- Isa_38:11ya no veré más hombre con...del mundoH7200
+- Isa_39:4¿qué han visto en tu casa?...Todo lo queH7200
+- Isa_39:4todo lo que hay en mi casa han visto, yH7200
+- Isa_40:5toda carne juntamente la verá; porque laH7200
+- Isa_40:9di a...Judá: ¡Ved aquí al Dios vuestro![[H2009]]
+- Isa_41:5las costas vieron, y tuvieron temor; losH7200
+- Isa_41:20para que vean y conozcan, y adviertanH7200
+- Isa_42:18sordos, oíd, y...ciegos, mirad para verH7200
+- Isa_42:20que ve muchas cosas y no advierte, queH7200
+- Isa_44:9de que los ídolos no ven ni entiendenH7200
+- Isa_44:16¡oh! me he calentado, he visto el fuegoH7200
+- Isa_44:18cerrados están sus ojos para no ver, yH7200
+- Isa_47:3descubierta, y tu deshonra será vistaH7200
+- Isa_47:10te confiaste en...diciendo nadie me veH7200
+- Isa_48:6lo oíste, Y lo viste todo...hecho oírH2372
+- Isa_49:7verán reyes, y se levantarán príncipesH7200
+- Isa_52:8verán que Jehová vuelve a traer a SionH7200
+- Isa_52:10los confines de la...verán la salvaciónH7200
+- Isa_52:15verán lo que nunca les fue contado, yH7200
+- Isa_53:2le veremos, mas sin atractivo para queH7200
+- Isa_53:10verá linaje, vivirá por largos días, yH7200
+- Isa_53:11verá el fruto de la aflicción de su almaH7200
+- Isa_57:8amaste su cama dondequiera que la veíasH2372
+- Isa_57:18he visto sus caminos; pero le sanaré, yH7200
+- Isa_58:7cuando veas al desnudo, lo cubras, y noH7200
+- Isa_58:8tu salvación se dejará ver pronto; e irá
+- Isa_59:15lo vio Jehová, y desagradó a sus ojosH7200
+- Isa_59:16vio que no había hombre, y se maravillóH7200
+- Isa_60:2Jehová, y sobre ti será vista su gloriaH7200
+- Isa_60:5verás, y resplandecerás;...y ensanchará tu corazón
+- Isa_61:9todos los que los vieren, reconoceránH7200
+- Isa_62:2verán las gentes tu justicia, y todosH7200
+- Isa_64:4ni ojo ha visto a Dios fuera de ti, queH7200
+- Isa_66:8¿quién oyó cosa...¿quién vio tal cosa?[[H7200]]
+- Isa_66:14veréis, y se alegrará vuestro corazónH7200
+- Isa_66:18y lenguas; y vendrán, y verán mi gloriaH7200
+- Isa_66:19las costas...que no...vieron mi gloriaH7200
+- Isa_66:24saldrán, y verán los cadáveres de losH7200
+- Jer_1:11¿qué ves tú...Veo una vara de almendroH7200
+- Jer_1:12bien has visto; porque yo apresuro miH7200
+- Jer_1:13ves tú? Y Dije: Veo una olla que hierveH7200
+- Jer_2:10ved si se ha hecho cosa semejante a estaH7200
+- Jer_2:19sabe, pues, y ve cuán malo y amargo esH7200
+- Jer_2:28levántense ellos, a ver si te podrán
+- Jer_3:2ve en qué lugar no te hayas prostituidoH7200
+- Jer_3:6visto lo que ha hecho la rebelde Israel?[[H7200]]
+- Jer_3:7no...y lo vio su hermana la rebelde JudáH7200
+- Jer_3:8vio que por haber fornicado la rebeldeH7200
+- Jer_4:21¿hasta cuándo he de ver bandera, he deH7200
+- Jer_5:1en sus plazas a ver si halláis hombre, si
+- Jer_5:12nosotros, ni veremos espada ni hambreH7200
+- Jer_5:21pueblo necio y...que tiene ojos y no veH7200
+- Jer_6:1huid...porque del norte se ha visto mal
+- Jer_7:11aquí que también yo lo veo, dice JehováH7200
+- Jer_7:12y ved lo que le hice por la maldad deH7200
+- Jer_7:17¿no ves lo que éstos hacen en...de JudáH7200
+- Jer_11:18y lo conocí...me hiciste ver sus obras
+- Jer_11:20oh Jehová...vea yo tu venganza de ellosH7200
+- Jer_12:3conoces; me viste, y probaste mi corazónH7200
+- Jer_12:4porque dijeron: No verá Dios nuestro finH7200
+- Jer_13:20alzad vuestros ojos, y ved a los queH7200
+- Jer_13:27vi tus abominaciones. ¡Ay de ti, Jerusalén![[H7200]]
+- Jer_14:13no veréis espada, ni habrá hambre entreH2009
+- Jer_17:6será como la retama...y no verá cuandoH7200
+- Jer_17:8no verá cuando viene el calor, sino queH7200
+- Jer_20:4caerán por la espada...tus ojos lo veránH7200
+- Jer_20:12que ves los pensamientos y el corazónH7200
+- Jer_20:12vea yo tu venganza de ellos; porque aH7200
+- Jer_20:18¿para ver trabajo y dolor, y que misH7200
+- Jer_22:10volverá jamás, ni verá la tierra...nacióH7200
+- Jer_22:12morirá en el...y no verá más esta tierraH7200
+- Jer_23:13profetas de Samaria he visto desatinosH7200
+- Jer_23:14en los profetas de Jerusalén he vistoH7200
+- Jer_23:18¿quién estuvo en el secreto de...y vio
+- Jer_23:24¿se ocultará alguno...que yo no lo vea?[[H7200]]
+- Jer_23:28qué tiene que ver la paja con el trigo?
+- Jer_24:3ves tú, Jeremías? Y dije: Higos; higosH7200
+- Jer_29:32ni verá el bien...haré yo a mi puebloH7200
+- Jer_30:6visto que todo hombre tenía las manosH7200
+- Jer_31:26en esto me desperté, y vi, y mi sueñoH7200
+- Jer_32:4hablará con él...sus ojos verán sus ojosH7200
+- Jer_32:20te has hecho nombre, como se ve en el
+- Jer_32:24lo que tú dijiste, y...lo estás viendoH2009
+- Jer_33:24¿no has echado de ver lo que habla esteH2009
+- Jer_34:3y tus ojos verán los ojos del rey de BabiloniaH7200
+- Jer_39:4y viéndolos Sedequías rey de...huyeronH7200
+- Jer_41:13cuando todo el pueblo...vio a JohanánH7200
+- Jer_42:2hemos quedado unos pocos, como nos venH7200
+- Jer_42:14Egipto, en la cual no veremos guerraH7200
+- Jer_42:18se derramará mi ira...no veréis más esteH7200
+- Jer_44:2vosotros habéis visto todo el mal queH7200
+- Jer_44:17y estuvimos alegres, y no vimos malH7200
+- Jer_46:5¿por qué los vi medrosos, retrocediendo?[[H7200]]
+- Jer_51:61cuando llegues a Babilonia, y veas yH7200
+- Lam_1:8la han menospreciado, porque vieron suH7200
+- Lam_1:10ella ha visto entrar en su santuario aH7200
+- Lam_1:11mira, oh Jehová, y ve que estoy abatida
+- Lam_1:12mirad, y ved si hay dolor como mi dolorH7200
+- Lam_1:18oíd ahora, pueblos todos, y ved mi dolorH2009
+- Lam_2:14profetas vieron para ti vanidad y locuraH2372
+- Lam_2:16el día...lo hemos hallado, lo hemos vistoH7200
+- Lam_3:1yo soy el hombre que ha visto aflicciónH7200
+- Lam_3:50hasta que Jehová...vea desde los cielosH7200
+- Lam_3:59tú has visto...mi agravio; defiende miH7200
+- Lam_3:60has visto toda su venganza, todos susH7200
+- Lam_5:1acuérdate, oh...mira, y ve nuestro oprobioH7200
+- Lam_5:14los ancianos no se ven más en la puerta
+- Eze_1:1los cielos se abrieron, y vi visionesH7200
+- Eze_1:26y sobre la expansión...se veía la figura
+- Eze_1:27vi apariencia como de bronce refulgenteH7200
+- Eze_1:27vi que parecía como fuego, y que teníaH7200
+- Eze_1:28y cuando yo la vi, me postré sobre miH7200
+- Eze_3:23la gloria que había visto junto al ríoH2009
+- Eze_8:4como la visión que yo había visto en elH2009
+- Eze_8:6¿no ves lo...verás abominaciones mayores
+- Eze_8:9ve las malvadas abominaciones que éstosH7200
+- Eze_8:12¿has visto las cosas que los ancianosH7200
+- Eze_8:12porque dicen ellos: No nos ve JehováH7200
+- Eze_8:13verás abominaciones mayores que hacenH7200
+- Eze_8:15¿no ves...verás abominaciones mayores queH7200
+- Eze_8:17me dijo: ¿No has visto, hijo de hombre?[[H7200]]
+- Eze_9:9ha abandonado Jehová la tierra, y...no veH7200
+- Eze_10:15este es el ser viviente que vi en el ríoH7200
+- Eze_10:20eran los mismos seres vivientes que viH7200
+- Eze_10:22los rostros que vi junto al río QuebarH7200
+- Eze_11:1entre los cuales vi a Jaazanías hijo deH7200
+- Eze_11:24se fue de mí la visión que había vistoH7200
+- Eze_12:2los cuales tienen ojos para ver y no venH7200
+- Eze_12:12cubrirá su rostro para no ver con susH7200
+- Eze_12:13a tierra de caldeos, pero no la veráH7200
+- Eze_12:27dicen: La visión que éste ve es paraH2009
+- Eze_13:3profetas insensatos...y nada han visto![[H7200]]
+- Eze_13:6vieron vanidad y adivinación mentirosaH2372
+- Eze_13:7¿no habéis visto visión vana, y no habéisH2372
+- Eze_13:8cuanto vosotros...y habéis visto mentiraH2372
+- Eze_13:9mano contra los profetas que ven vanidadH2374
+- Eze_13:16profetas...ven para ella visión de pazH2374
+- Eze_13:23no veréis más visión...ni practicaréisH2372
+- Eze_14:22y veréis su camino y...hechos, y seréisH7200
+- Eze_14:23os consolarán cuando viereis su caminoH7200
+- Eze_16:6y te vi sucia en tus sangres, y cuandoH7200
+- Eze_16:37los que amaste...verán toda tu desnudezH7200
+- Eze_16:50abominación...y cuando lo vi las quitéH7200
+- Eze_18:14viere todos los pecados...su padre hizoH7200
+- Eze_18:14hizo, y viéndolos no hiciere según ellos
+- Eze_19:5viendo ella que había esperado mucho, yH7200
+- Eze_19:11fue vista por causa de su altura y la
+- Eze_20:48verá toda carne que yo...lo encendí; noH7200
+- Eze_23:11lo vio su hermana Aholiba, y enloquecióH7200
+- Eze_23:13vi que se había contaminado; un mismoH7200
+- Eze_23:14pues cuando vio a hombres pintados enH7200
+- Eze_32:31éstos verá Faraón, y se consolará sobreH7200
+- Eze_33:6si el atalaya viere venir la espada y noH7200
+- Eze_36:21al ver mi santo nombre profanado entre
+- Eze_39:15el que vea los huesos de algún hombreH7200
+- Eze_39:21las naciones verán mi juicio que habréH7200
+- Eze_40:4cuenta...lo que ves a la casa de IsraelH7200
+- Eze_43:3aspecto de lo que vi era como una visiónH7200
+- Eze_43:3como aquella visión que vi cuando vineH7200
+- Eze_43:3eran como la visión que vi junto al ríoH7200
+- Eze_46:19vi que había allí un lugar en el fondoH2009
+- Eze_47:2y vi que las aguas salían del...derechoH2009
+- Eze_47:6y me dijo: ¿Has visto, hijo de hombre?[[H7200]]
+- Eze_47:7yo, vi que en la ribera del río...árbolesH2009
+- Dan_1:10vea vuestros rostros más pálidos queH7200
+- Dan_1:13haz después con tus siervos según veasH7200
+- Dan_2:8porque veis que el asunto se me ha idoH2009
+- Dan_2:26tú hacerme conocer el sueño que vi, y suH2370
+- Dan_2:31oh rey, veías, y he aquí una gran imagenH2370
+- Dan_2:41lo que viste de los pies y los dedos, enH2370
+- Dan_2:41, Dan_2:43viste hierro mezclado con barroH2370
+- Dan_2:45de la manera que viste que del monte fueH2370
+- Dan_3:25aquí yo veo cuatro varones sueltos, queH2370
+- Dan_4:5vi un sueño que me espantó, y tendido enH2370
+- Dan_4:9declárame las visiones...que he visto, yH2370
+- Dan_4:10me parecía ver en medio de la tierra unH2370
+- Dan_4:11se le alcanzaba a ver desde todos los
+- Dan_4:13vi en las visiones de mi cabeza mientrasH2370
+- Dan_4:18el rey Nabucodonosor he visto este sueñoH2370
+- Dan_4:20árbol que viste, que crecía y se hacíaH2370
+- Dan_4:20y que se veía desde todos los confines
+- Dan_4:23lo que vio el rey, un vigilante y santoH2370
+- Dan_5:5una mano...rey veía la mano que escribíaH2370
+- Dan_5:23a dioses...que ni ven, ni oyen, ni sabenH2370
+- Dan_7:7muy diferente de todas las bestias que vi
+- Dan_7:21y veía yo que este cuerno hacía guerra
+- Dan_8:2vi en visión; y cuando la vi, yo estabaH7200
+- Dan_8:2vi...en visión, estando junto al río UlaiH7200
+- Dan_8:4vi que el carnero hería con sus cuernosH7200
+- Dan_8:6carnero...que yo había visto en la riberaH7200
+- Dan_8:7y lo vi que llegó junto al carnero, y seH7200
+- Dan_8:20cuanto al carnero que viste, que teníaH7200
+- Dan_9:21el varón Gabriel, a quien había visto enH7200
+- Dan_10:7sólo yo, Daniel, vi aquella visión, y noH7200
+- Dan_10:7no la vieron los...que estaban conmigoH7200
+- Dan_10:8quedé...yo solo, y vi esta gran visiónH7200
+- Ose_5:13verá Efraín su enfermedad, y Judá suH7200
+- Ose_6:10en la casa de Israel he visto inmundiciaH7200
+- Ose_9:10como la fruta temprana de...vi a...padresH7200
+- Ose_9:13Efraín, según veo, es semejante a TiroH7200
+- Joe_2:28hijos...vuestros jóvenes verán visionesH7200
+- Amó_3:9y ved las...opresiones en medio de ellaH7200
+- Amó_6:2ved si son aquellos reinos mejores que
+- Amó_7:8¿qué ves, Amós? Y dije: Una plomada deH7200
+- Amó_8:2y dijo: ¿Qué ves, Amós? Y respondí: UnH7200
+- Amó_9:1vi al Señor que estaba sobre el altar, yH7200
+- Jon_2:4desechado...aún veré tu santo temploH5027
+- Jon_3:10vio Dios lo que hicieron...convirtieronH7200
+- Jon_4:5hasta ver qué acontecería en la ciudadH7200
+- Miq_1:1lo que vio sobre Samaria y JerusalénH2372
+- Miq_4:11y vean nuestros ojos su deseo en SionH2372
+- Miq_7:9Jehová...me sacará a luz; veré su justiciaH7200
+- Miq_7:10enemiga lo verá, y la cubrirá vergüenzaH7200
+- Miq_7:10mis ojos la verán; ahora será holladaH7200
+- Miq_7:16las naciones verán, y se avergonzaránH7200
+- Nah_3:7los que te vieren se apartarán de tiH7200
+- Hab_1:1profecía que vio el profeta HabacucH2372
+- Hab_1:3¿Por qué me haces ver iniquidad, y haces
+- Hab_1:3¿por qué me...y haces que vea molestia?[[H5027]]
+- Hab_1:5entre las naciones, y ved, y asombraosH7200
+- Hab_1:13muy limpio eres de ojos para ver el malH7200
+- Hab_1:13ni puedes ver el agravio; por qué vesH5027
+- Hab_2:1velaré para ver lo que se me dirá, y quéH7200
+- Hab_3:7visto las tiendas de Cusán en aflicciónH7200
+- Hab_3:10te vieron y tuvieron temor los montesH7200
+- Sof_3:15Jehová es Rey...nunca más verás el malH7200
+- Hag_2:3visto esta casa...cómo la veis ahora?[[H7200]]
+- Zac_1:8vi de noche, y he aquí un varón queH7200
+- Zac_2:2para ver cuánta es su anchura, y cuántaH7200
+- Zac_4:2me dijo: ¿Qué ves? Y respondí: He miradoH7200
+- Zac_4:10verán la plomada en la mano de ZorobabelH7200
+- Zac_5:2dijo: ¿Que ves? Y respondí: Veo un rolloH7200
+- Zac_9:5verá Ascalón, y temerá; Gaza también, yH7200
+- Zac_9:14y Jehová será visto sobre ellos, y suH7200
+- Zac_10:2adivinos han visto mentira, han habladoH2372
+- Zac_10:7sus hijos también verán, y se alegraránH7200
+- Mal_1:5vuestros ojos lo verán, y diréis: SeaH7200
+- Mat_2:2su estrella hemos visto en el orienteG1492
+- Mat_2:9estrella que habían visto en el orienteG1492
+- Mat_2:10al ver la estrella, se regocijaron conG1492
+- Mat_2:11al entrar...vieron al niño con su madreG2147
+- Mat_2:16Herodes entonces, cuando se vio burladoG1492
+- Mat_3:7al ver él que muchos de los fariseos yG1492
+- Mat_3:16y vio al Espíritu de Dios que descendíaG1492
+- Mat_4:16el pueblo...en tinieblas vio gran luz, y aG1492
+- Mat_4:18Jesús junto al mar...vio a dos hermanosG1492
+- Mat_4:21de allí, vio a otros dos hermanos, JacoboG1492
+- Mat_5:1viendo la multitud, subió al monte: yG1492
+- Mat_5:8los de limpio corazón...ellos verán a DiosG3700
+- Mat_5:16para que vean vuestras buenas obras, yG1492
+- Mat_6:1para ser vistos de ellos; de otra maneraG2300
+- Mat_6:4, Mat_6:6, Mat_6:18tu Padre que ve...te recompensaráG991
+- Mat_6:5en pie...para ser vistos de los hombresG5316
+- Mat_7:3no echas de ver la viga...tu propio ojo?[[G2657]]
+- Mat_7:5entonces verás bien para sacar la pajaG1227
+- Mat_8:14y vio a la suegra de éste postrada enG1492
+- Mat_8:18viéndose Jesús rodeado de mucha genteG1492
+- Mat_8:34vieron, le rogaron que se fuera de susG1492
+- Mat_9:2y al ver Jesús la fe de ellos, dijo alG1492
+- Mat_9:8al verlo, se maravilló y glorificó a DiosG1492
+- Mat_9:9Jesús...vio a un hombre llamado Mateo, queG1492
+- Mat_9:11cuando vieron esto los fariseos, dijeronG1492
+- Mat_9:23viendo a los que tocaban flautas, y laG1492
+- Mat_9:33decía: Nunca se ha visto cosa semejanteG5316
+- Mat_9:36y al ver las multitudes, tuvo compasiónG1492
+- Mat_11:4saber a Juan las cosas que oís y veisG991
+- Mat_11:5los ciegos ven, los cojos andan...los
+- Mat_11:7¿qué salisteis a ver al desierto? ¿UnaG2300
+- Mat_11:8¿o qué salisteis a ver? ¿A un hombreG1492
+- Mat_11:9¿qué salisteis a ver? ¿A un profeta? SíG1492
+- Mat_12:2viéndolo los fariseos, le dijeron: HeG1492
+- Mat_12:22tal manera que el ciego y mudo veía yG991
+- Mat_12:38Maestro, deseamos ver de ti señalG1492
+- Mat_13:13porque viendo no ven, y oyendo no oyenG991
+- Mat_13:14de oído...viendo veréis, y no percibiréisG991
+- Mat_13:15que no vean con los ojos, y oigan conG1492
+- Mat_13:16pero bienaventurados...ojos, porque venG991
+- Mat_13:17ver lo que veis, y no lo vieron; y oírG1492
+- Mat_14:14saliendo Jesús, vio una gran multitudG1492
+- Mat_14:26y los discípulos, viéndole andar sobreG1492
+- Mat_14:30pero al ver el fuerte viento, tuvo miedoG991
+- Mat_15:31viendo a los mudos hablar, a...mancosG991
+- Mat_15:31y a los ciegos ver; y glorificaban alG991
+- Mat_16:28visto al Hijo del Hombre viniendo enG1492
+- Mat_17:8alzando ellos los ojos, a nadie vieronG1492
+- Mat_18:10sus ángeles...ven siempre el rostro deG991
+- Mat_18:31viendo sus consiervos lo que pasaba, seG1492
+- Mat_20:3saliendo...vio a otros que estaban en laG1492
+- Mat_21:15viendo las maravillas que hacía, y a losG1492
+- Mat_21:19y viendo una higuera cerca del caminoG1492
+- Mat_21:20viendo...los discípulos, decían...se secóG1492
+- Mat_21:32vosotros, viendo...no os arrepentisteisG1492
+- Mat_21:38los labradores, cuando vieron al hijoG1492
+- Mat_22:11entró el rey para ver...y vio allí a unG1492
+- Mat_23:5obras para ser vistos por los hombresG2300
+- Mat_23:39que desde ahora no me veréis, hasta queG1492
+- Mat_24:2¿veis todo esto? De cierto os digo, queG991
+- Mat_24:15cuando veáis...la abominación desoladoraG1492
+- Mat_24:30y verán al Hijo del Hombre viniendoG3700
+- Mat_24:33cuando veáis todas estas cosas, conocedG1492
+- Mat_25:37Señor, ¿cuándo te vimos hambriento, yG1492
+- Mat_25:38¿y cuándo te vimos forastero...o desnudoG1492
+- Mat_25:39¿o cuándo te vimos enfermo, o en laG1492
+- Mat_25:44¿cuándo te vimos hambriento, sedientoG1492
+- Mat_26:8al ver esto, los discípulos se enojaronG1492
+- Mat_26:46levantaos, vamos; ved, se acerca el queG2400
+- Mat_26:58y entrando, se sentó...para ver el finG1492
+- Mat_26:64desde ahora veréis al Hijo del HombreG3700
+- Mat_26:71saliendo él...le vio otra, y dijo a losG1492
+- Mat_27:3Judas, el que...viendo que era condenadoG1492
+- Mat_27:19decir: No tengas nada que ver con ese
+- Mat_27:24viendo Pilato que nada adelantaba, sinoG1492
+- Mat_27:49deja, veamos si viene Elías a librarleG1492
+- Mat_27:54visto el terremoto...temieron en granG1492
+- Mat_28:1vinieron...otra María, a ver el sepulcroG2334
+- Mat_28:6ved el lugar donde fue puesto el SeñorG1492
+- Mat_28:7va delante de...a Galilea; allí le veréisG3700
+- Mat_28:10que vayan a Galilea, y allí me veránG3700
+- Mat_28:17y cuando le vieron, le adoraron; peroG1492
+- Mar_1:10vio abrirse los cielos, y al EspírituG1492
+- Mar_1:16junto al mar de...vio a Simón y a AndrésG1492
+- Mar_1:19vio a Jacobo hijo de Zebedeo, y a JuanG1492
+- Mar_2:5al ver Jesús la fe...dijo al paralíticoG1492
+- Mar_2:12diciendo: Nunca hemos visto tal cosaG1492
+- Mar_2:14y al pasar, vio a Leví hijo de AlfeoG1492
+- Mar_2:16viéndole comer con los publicanos y conG1492
+- Mar_3:2y le acechaban para ver si en el día de
+- Mar_3:11y los espíritus inmundos...al verle, seG2334
+- Mar_4:12para que viendo, vean y no perciban yG991
+- Mar_5:6cuando vio, pues, a Jesús de lejos, corrióG1492
+- Mar_5:14salieron a ver qué era...había sucedidoG1492
+- Mar_5:15y ven al que había sido atormentado delG2334
+- Mar_5:16contaron los que lo habían visto, cómoG1492
+- Mar_5:22luego que le vio, se postró a sus piesG1492
+- Mar_5:31ves que la multitud te aprieta, y dicesG991
+- Mar_5:32miraba...para ver quién había hecho estoG1492
+- Mar_5:38y vio el alboroto y a los que llorabanG2334
+- Mar_6:33muchos los vieron ir, y le reconocieronG1492
+- Mar_6:34salió Jesús y vio una gran multitud, yG1492
+- Mar_6:38dijo: ¿Cuántos panes tenéis? Id y vedloG1492
+- Mar_6:48viéndoles remar con gran fatiga, porqueG1492
+- Mar_6:49viéndole...andar sobre el mar, pensaronG1492
+- Mar_6:50todos le veían, y se turbaron...Pero enG1492
+- Mar_7:2cuales, viendo a algunos de los discípulosG1492
+- Mar_8:18¿teniendo...no veis, y teniendo oídos noG991
+- Mar_8:23las manos encima, y le preguntó si veíaG991
+- Mar_8:24veo los hombres...pero los v que andanG991
+- Mar_8:25hizo...vio de lejos y claramente a todosG1689
+- Mar_9:1no gustarán la muerte...visto el reino deG1492
+- Mar_9:8cuando miraron, no vieron más a nadieG1492
+- Mar_9:9que a nadie dijesen lo que habían vistoG1492
+- Mar_9:14vio una gran multitud alrededor de ellosG1492
+- Mar_9:15toda la gente, viéndole, se asombró...yG1492
+- Mar_9:20cuando el espíritu vio a Jesús, sacudióG1492
+- Mar_9:25Jesús vio que la multitud se agolpabaG1492
+- Mar_9:38visto a uno...en tu nombre echaba fueraG1492
+- Mar_10:14viéndolo Jesús, se indignó, y les dijoG1492
+- Mar_11:13viendo de lejos una higuera que teníaG1492
+- Mar_11:13a ver si tal vez hallaba en ella algo
+- Mar_11:20vieron que la higuera se había secadoG1492
+- Mar_12:15dijo...Traedme la moneda para que la veaG1492
+- Mar_12:34viendo que había respondido...le dijoG1492
+- Mar_13:2dijo: ¿Ves estos grandes edificios? NoG991
+- Mar_13:14veáis la abominación desoladora de queG1492
+- Mar_13:26verán al Hijo del Hombre, que vendrá enG3700
+- Mar_13:29cuando veáis que suceden estas cosasG1492
+- Mar_14:62veréis al Hijo del Hombre sentado a laG3700
+- Mar_14:67cuando vio a Pedro...dijo: Tú tambiénG1492
+- Mar_14:69la criada, viéndole otra vez, comenzóG1492
+- Mar_15:24suertes...ver qué se llevaría cada uno
+- Mar_15:32descienda...para que veamos y creamosG1492
+- Mar_15:36dejad, veamos si viene Elías a bajarleG1492
+- Mar_15:39viendo que...había expirado así, dijoG1492
+- Mar_16:4vieron removida la piedra...muy grandeG2334
+- Mar_16:5vieron a un joven sentado al...derechoG1492
+- Mar_16:7a Galilea; allí le veréis, como os dijoG3700
+- Mar_16:11vivía, y que había sido visto por ellaG2300
+- Mar_16:14no habían creído...que le habían vistoG2300
+- Luc_1:2enseñaron los que...vieron con sus ojos
+- Luc_1:12y se turbó Zacarías al verle, y...temorG1492
+- Luc_1:22y comprendieron que había visto visiónG3708
+- Luc_1:29mas ella, cuando le vio, se turbó porG1492
+- Luc_2:15pasemos...y veamos esto que ha sucedidoG1492
+- Luc_2:17y al verlo, dieron a conocer lo que seG1492
+- Luc_2:20todas las cosas que habían oído y vistoG1492
+- Luc_2:26no vería la muerte antes que viese alG1492
+- Luc_2:30porque han visto mis ojos tu salvaciónG1492
+- Luc_2:48cuando le vieron, se sorprendieron; yG1492
+- Luc_3:6y verá toda carne la salvación de DiosG3700
+- Luc_5:2vio dos barcas que estaban cerca de laG1492
+- Luc_5:8viendo esto Simón Pedro, cayó de rodillasG1492
+- Luc_5:12lepra, el cual, viendo a Jesús, se postróG1492
+- Luc_5:20al ver él la fe de ellos, le dijo: HombreG1492
+- Luc_5:26todos...decías: Hoy hemos visto maravillasG1492
+- Luc_5:27vio a un publicano llamado Leví, sentadoG2300
+- Luc_6:7ver si en el día de reposo lo sanaría, aG3906
+- Luc_6:41y no echas de ver la viga que está en tuG991
+- Luc_6:42verás bien para sacar la paja que estáG991
+- Luc_7:13cuando el Señor la vio, se compadecióG1492
+- Luc_7:22id, haced saber a Juan lo...visto y oídoG1492
+- Luc_7:22los ciegos ven, los cojos andan, losG308
+- Luc_7:24¿qué salisteis a ver al desierto? ¿UnaG2300
+- Luc_7:25mas ¿qué salisteis a ver? ¿A un hombreG1492
+- Luc_7:26¿qué salisteis a ver? ¿A un profeta? SíG1492
+- Luc_7:39cuando vio esto el fariseo...dijo para síG1492
+- Luc_7:44¿ves esta mujer? Entré en tu casa, y noG991
+- Luc_8:10viendo no vean, y oyendo no entiendanG991
+- Luc_8:16para que los que entran vean la luzG991
+- Luc_8:20tu madre y tus hermanos...quieren verteG1492
+- Luc_8:28al ver a Jesús, lanzó un gran grito, yG1492
+- Luc_8:34cuando vieron lo...acontecido, huyeronG1492
+- Luc_8:35y salieron a ver lo que había sucedidoG1492
+- Luc_8:36los que lo habían visto, les contaronG1492
+- Luc_8:47cuando...vio que no había quedado ocultaG1492
+- Luc_9:9¿quién, pues, es éste...Y procuraba verleG1492
+- Luc_9:27muerte hasta que vean el reino de DiosG1492
+- Luc_9:32vieron la gloria de Jesús, y a los dosG1492
+- Luc_9:36no dijeron nada a nadie de lo que...vistoG3708
+- Luc_9:38te ruego que veas a mi hijo, pues es elG1914
+- Luc_9:49visto a uno que echaba fuera demonios enG1492
+- Luc_9:54viendo esto...discípulos Jacobo y JuanG1492
+- Luc_10:18yo veía a Satanás caer del cielo comoG2334
+- Luc_10:23los ojos que ven lo que vosotros veisG991
+- Luc_10:24desearon ver lo...veis, y no lo vieronG1492
+- Luc_10:31un sacerdote...viéndole, pasó de largoG1492
+- Luc_10:32un levita...y viéndole, pasó de largoG1492
+- Luc_10:33y viéndole, fue movido a misericordiaG1492
+- Luc_11:33para que los que entran vean la luzG991
+- Luc_11:38el fariseo, cuando lo vio, se extrañóG1492
+- Luc_11:44que sois como sepulcros que no se venG82
+- Luc_12:54decía...Cuando veis la nube que sale delG1492
+- Luc_13:12cuando Jesús la vio, la llamó y le dijoG1492
+- Luc_13:28veáis a Abraham, a Isaac, a Jacob y aG3700
+- Luc_13:35que no me veréis, hasta que llegue elG1492
+- Luc_14:18una hacienda, y necesito ir a verlaG1492
+- Luc_14:28calcula...ver si tiene lo que necesita
+- Luc_14:29lo vean comiencen a hacer burla de élG2334
+- Luc_15:20lejos, lo vio su padre, y fue movido aG1492
+- Luc_16:23vio de lejos a Abraham, y a Lázaro enG3708
+- Luc_17:14cuando él los vio...dijo: Id, mostraosG1492
+- Luc_17:15uno de...viendo que había sido sanadoG1492
+- Luc_17:22desearéis ver uno de...y no lo veréisG3700
+- Luc_18:15viendo los discípulos les reprendieronG1492
+- Luc_18:24al ver Jesús que se había entristecidoG1492
+- Luc_18:43luego vio, y le seguía, glorificando aG308
+- Luc_18:43el pueblo, cuando vio...dio alabanza aG1492
+- Luc_19:3procuraba ver quién era Jesús; pero noG1492
+- Luc_19:4subió a un árbol sicómoro para verleG1492
+- Luc_19:5Jesús, le vio, y le dijo: Zaqueo, dateG1492
+- Luc_19:7al ver esto, todos murmuraban, diciendoG1492
+- Luc_19:37todas las maravillas que habían vistoG1492
+- Luc_19:41cuando llegó cerca de...al verla, lloróG1492
+- Luc_20:13quizá cuando le vean a él, le tendránG1492
+- Luc_20:14al verle, discutían entre sí, diciendoG1492
+- Luc_21:1vio a los ricos que echaban sus ofrendasG1492
+- Luc_21:2vio también a una viuda muy pobre, queG1492
+- Luc_21:6en cuanto a estas cosas que veis, díasG2334
+- Luc_21:20cuando viereis a Jerusalén rodeada deG1492
+- Luc_21:27verán al Hijo del Hombre, que vendráG3700
+- Luc_21:30viéndolo, sabéis...que el verano estáG991
+- Luc_21:31cuando veáis que suceden estas cosasG1492
+- Luc_22:49viendo los que estaban con él lo queG1492
+- Luc_22:56al verle sentado al fuego, se fijó enG1492
+- Luc_22:58viéndole otro, dijo: Tú también eresG1492
+- Luc_23:8viendo a Jesús, se alegró mucho, porqueG1492
+- Luc_23:8porque hacía tiempo que deseaba verleG1492
+- Luc_23:8él, y esperaba verle hacer alguna señalG1492
+- Luc_23:47centurión vio lo que había acontecidoG1492
+- Luc_23:48multitud...viendo lo que había acontecidoG2334
+- Luc_23:55vieron el sepulcro, y cómo fue puestoG2300
+- Luc_24:12vio los lienzos solos, y se fue a casaG991
+- Luc_24:23también habían visto visión de ángelesG3708
+- Luc_24:24hallaron así...pero a él no le vieronG1492
+- Luc_24:37entonces...pensaban que veía espírituG2334
+- Luc_24:39palpad, y ved; porque un espíritu noG1492
+- Luc_24:39carne ni huesos, como veis que...tengoG2334
+- Jua_1:14Verbo...(y vimos su gloria, gloria comoG2300
+- Jua_1:18a Dios nadie le vio jamás; el unigénitoG3708
+- Jua_1:29vio Juan a Jesús que venía a él, y dijoG991
+- Jua_1:32vi al Espíritu que descendía del cieloG2300
+- Jua_1:33sobre quien veas descender el EspírituG1492
+- Jua_1:34y yo le vi, y he dado testimonio de queG3708
+- Jua_1:38viendo que le seguían, les dijo: ¿QuéG2300
+- Jua_1:39les dijo: Venid y ved...Fueron, y vieronG1492
+- Jua_1:46algo de bueno? Le dijo Felipe: Ven y veG1492
+- Jua_1:47Jesús vio a Natanael que se le acercabaG1492
+- Jua_1:48cuando estabas debajo de la higuera...viG1492
+- Jua_1:50dijo: ¿Porque te dije: Te vi debajo deG1492
+- Jua_1:50crees? Cosas mayores que éstas verásG3700
+- Jua_1:51de aquí adelante veréis el cielo abiertoG3700
+- Jua_2:23creyeron...viendo las señales que hacíaG2334
+- Jua_3:3no naciere...no puede ver el reino de DiosG1492
+- Jua_3:11lo que hemos visto, testificamos; y noG3708
+- Jua_3:32lo que vio y oyó, esto testifica; y nadieG3708
+- Jua_3:36rehúsa creer en el Hijo no verá la vidaG3700
+- Jua_4:29venid, ved a un hombre que me ha dichoG1492
+- Jua_4:45habiendo visto todas las cosas que habíaG3708
+- Jua_4:48dijo: Si no viereis señales...no creeréisG1492
+- Jua_5:6cuando Jesús lo vio acostado, y supo queG1492
+- Jua_5:19lo que ve hacer al Padre; porque todo loG991
+- Jua_5:37oído su voz, ni habéis visto su aspectoG3708
+- Jua_6:2veían las señales que hacía en...enfermosG3708
+- Jua_6:5vio que había venido a él gran multitudG2300
+- Jua_6:14viendo la señal que Jesús había hechoG1492
+- Jua_6:19vieron a Jesús que andaba sobre el marG2334
+- Jua_6:22vio que no había allí más que una solaG1492
+- Jua_6:24vio, pues, la gente que Jesús no estabaG1492
+- Jua_6:26me buscáis, no porque habéis visto lasG1492
+- Jua_6:30señal...para que veamos, y te creamos?[[G1492]]
+- Jua_6:36que aunque me habéis visto, no creéisG3708
+- Jua_6:40todo aquel que ve al Hijo, y cree en élG2334
+- Jua_6:46no que alguno haya visto al Padre, sinoG3708
+- Jua_6:46aquel que vino de Dios; éste ha vistoG3708
+- Jua_6:62viereis al Hijo del Hombre subir adondeG2334
+- Jua_7:3tus discípulos vean las obras que hacesG2334
+- Jua_7:52ve que de Galilea nunca se ha levantadoG1492
+- Jua_8:10y no viendo a nadie sino a la mujer, leG2300
+- Jua_8:38yo hablo lo que he visto cerca del PadreG3708
+- Jua_8:51que guarda mi palabra, nunca verá muerteG2334
+- Jua_8:56de que había de ver mi día; y lo vio, yG1492
+- Jua_8:57aún no tienes...¿y has visto a Abraham?[[G3708]]
+- Jua_9:1al pasar Jesús, vio a un hombre ciego deG1492
+- Jua_9:7fue entonces, y se lavo y regresó viendoG991
+- Jua_9:8que antes le habían visto que era ciegoG2334
+- Jua_9:15puso lodo sobre los ojos...lavé, y veoG991
+- Jua_9:19les preguntaron...¿Cómo, pues, ve ahora?[[G991]]
+- Jua_9:21cómo vea ahora, no lo sabemos; o quiénG991
+- Jua_9:25sé, que habiendo yo sido ciego, ahora veoG991
+- Jua_9:37has visto, y el que habla contigo, él esG3708
+- Jua_9:39que los que no ven, vean, y los que vG991
+- Jua_9:41decís: Vemos, vuestro pecado permaneceG991
+- Jua_10:12ve venir...lobo y deja las ovejas y huyeG2334
+- Jua_11:9no tropieza, porque ve la luz de esteG991
+- Jua_11:31vieron que María se había levantado deG1492
+- Jua_11:32María...al verle, se postró a sus piesG1492
+- Jua_11:33al verla llorando, y a...se estremeció enG1492
+- Jua_11:34pusisteis? Le dijeron: Señor, ven y veG1492
+- Jua_11:40que si crees, verás la gloria de Dios?[[G3700]]
+- Jua_11:45vieron lo que hizo Jesús, creyeron enG2300
+- Jua_12:9vinieron, también para ver a Lázaro, aG1492
+- Jua_12:19ya veis que no conseguís nada...MiradG2334
+- Jua_12:21rogaron...Señor, quisiéramos ver a JesúsG1492
+- Jua_12:40que no vean con los ojos, y entiendanG1492
+- Jua_12:41Isaías dijo esto cuando vio su gloriaG1492
+- Jua_12:45y el que me ve, v al que me envióG2334
+- Jua_14:7ahora le conocéis, y le habéis vistoG3708
+- Jua_14:9el que me ha visto a mí, ha v al PadreG3708
+- Jua_14:17no puede recibir, porque no le ve, niG2334
+- Jua_14:19mundo no me verá...vosotros me veréisG2334
+- Jua_15:24ahora han visto y han aborrecido a míG3708
+- Jua_16:10por cuanto voy al Padre, y no me veréisG2334
+- Jua_16:16-17, Jua_16:19no me veréis; y de nuevo, me vG2334
+- Jua_16:22os volveré a ver, y se gozará vuestroG3700
+- Jua_17:24para que vean mi gloria que me has dadoG2334
+- Jua_18:26dijo: ¿No te vi yo en el huerto con él?[[G1492]]
+- Jua_19:6le vieron...dieron voces...¡Crucifícale![[G1492]]
+- Jua_19:24echemos suertes...a ver de quién será
+- Jua_19:26vio Jesús a su madre, y al discípuloG1492
+- Jua_19:33a Jesús, como le vieron ya muerto, noG1492
+- Jua_19:35y el que lo vio da testimonio, y suG3708
+- Jua_20:1y vio quitada la piedra del sepulcroG991
+- Jua_20:5vio los lienzos puestos allí, pero noG991
+- Jua_20:6Simón Pedro...y vio los lienzos puestosG2334
+- Jua_20:8entró también el otro...y vio, y creyóG1492
+- Jua_20:12y vio a dos ángeles...estaban sentadosG2334
+- Jua_20:14volvió, y vio a Jesús que estaba allíG2334
+- Jua_20:18nuevas de que había visto al Señor, yG3708
+- Jua_20:20y los...se regocijaron viendo al SeñorG1492
+- Jua_20:25le dijeron, pues...Al Señor hemos vistoG3708
+- Jua_20:25si no viere en sus manos la señal deG1492
+- Jua_20:29porque me has visto, Tomás, creísteG3780
+- Jua_20:29bienaventurados los que no vieron, yG1492
+- Jua_21:9vieron brasas puestas, y un pez encimaG991
+- Jua_21:20Pedro, vio que les seguía el discípuloG991
+- Jua_21:21Pedro le vio, dijo a Jesús: Señor, ¿y quéG1492
+- Hec_1:9viéndolo ellos, fue alzado y le recibióG991
+- Hec_1:11vendrá como le habéis visto ir al cieloG2300
+- Hec_2:17dicho...vuestros jóvenes verán visionesG3700
+- Hec_2:25dice de él: Veía al Señor siempre delanteG4308
+- Hec_2:27ni permitirás que tu Santo vea corrupciónG1492
+- Hec_2:31viéndolo...habló de la resurrección deG4275
+- Hec_2:31en el Hades, ni su carne vio corrupciónG1492
+- Hec_2:33ha derramado esto que vosotros veis yG991
+- Hec_3:3vio a Pedro y a Juan que iban a entrar enG1492
+- Hec_3:9el pueblo le vio andar y alabar a DiosG1492
+- Hec_3:12viendo esto Pedro, respondió al puebloG1492
+- Hec_3:16a éste, que vosotros veis y conocéis leG2334
+- Hec_4:13viendo el denuedo de Pedro y, sabiendoG2334
+- Hec_4:14viendo al...que había sido sanado, queG991
+- Hec_4:20dejar de decir lo que hemos visto y oídoG1492
+- Hec_6:15vieron su rostro como el...de un ángelG1492
+- Hec_7:24y al ver a uno que era maltratado, loG1492
+- Hec_7:34he visto la aflicción de mi pueblo queG1492
+- Hec_7:44hiciese conforme al modelo...había vistoG3708
+- Hec_7:55vio la gloria de Dios, y a Jesús queG1492
+- Hec_7:56veo los cielos abiertos, y al Hijo delG2334
+- Hec_8:6oyendo y viendo las señales que hacíaG991
+- Hec_8:13y viendo las señales y...que se hacíanG2334
+- Hec_8:18cuando vio Simón que por la imposiciónG2300
+- Hec_8:23y en prisión de maldad veo que estásG3708
+- Hec_8:39eunuco no le vio más, y siguió gozosoG1492
+- Hec_9:7oyendo a la...la voz, mas sin ver a nadieG2334
+- Hec_9:8abriendo los ojos, no veía a nadie; asíG991
+- Hec_9:9estuvo tres días sin ver, y no comió ni
+- Hec_9:12ha visto en visión a un varón llamadoG1492
+- Hec_9:27Saulo había visto en el camino al SeñorG1492
+- Hec_9:35vieron todos los que habitaban en LidaG1492
+- Hec_9:40los ojos, y al ver a Pedro, se incorporóG1492
+- Hec_10:3vio...una visión, como a la hora novenaG1492
+- Hec_10:11vio el cielo abierto, y que descendíaG2334
+- Hec_10:17que significaría la...que había vistoG1492
+- Hec_10:30vi que se puso delante de mí un varónG2400
+- Hec_11:5vi en éxtasis una visión...un gran lienzoG1492
+- Hec_11:6y vi cuadrúpedos terrestres, y fierasG1492
+- Hec_11:13había visto en su casa un ángel, que seG1492
+- Hec_11:23cuando llegó, y vio la gracia de DiosG1492
+- Hec_12:3y viendo que esto había agradado a losG1492
+- Hec_12:9sino que pensaba que veía una visiónG991
+- Hec_12:16cuando, vieron, se quedaron atónitosG1492
+- Hec_13:11serás ciego, y no verás el sol por algúnG991
+- Hec_13:12el procónsul, viendo lo que...sucedidoG1492
+- Hec_13:35no permitirás que tu...vea corrupciónG1492
+- Hec_13:36fue reunido con sus...y vio corrupciónG1492
+- Hec_13:37quien Dios levantó, no vio corrupcionG1492
+- Hec_13:45viendo los judíos la muchedumbre, seG1492
+- Hec_14:9y viendo que tenía fe para ser sanadoG1492
+- Hec_14:11gente, visto lo que Pablo había hechoG1492
+- Hec_15:36volvamos a visitar a...ver cómo están
+- Hec_16:10vio la visión, en seguida procuramosG1492
+- Hec_16:19pero viendo sus amos que había salidoG1492
+- Hec_16:27carcelero, y viendo abiertas las puertasG1492
+- Hec_16:40visto a los hermanos, los consolaronG1492
+- Hec_17:11las Escrituras para ver si estas cosas
+- Hec_17:16espíritu se enardecía viendo la ciudadG2334
+- Hec_18:15vedlo vosotros; porque yo no quiero serG3700
+- Hec_19:21me será necesario ver también a RomaG1492
+- Hec_19:26veis y oís que este Pablo, no solamenteG2334
+- Hec_20:25yo sé que ninguno...verá más mi rostroG3700
+- Hec_20:38dijo, de que no verían más su rostroG2334
+- Hec_21:11quien viniendo a vernos, tomó el cinto
+- Hec_21:18Pablo entró con...a ver a Jacobo, y se
+- Hec_21:20ya ves, hermano, cuántos millares deG2334
+- Hec_21:27judíos de Asia, al verle en el temploG2300
+- Hec_21:29antes habían visto con él...a TrófimoG4308
+- Hec_21:32cuando ellos vieron al tribuno y a losG1492
+- Hec_22:9vieron...verdad la luz, y se espantaronG2300
+- Hec_22:11y como yo no veía a causa de la gloriaG1689
+- Hec_22:14y veas al Justo, y oigas la voz de suG1492
+- Hec_22:15serás testigo...lo que has visto y oídoG3708
+- Hec_22:18le vi que me decía: Date prisa, y salG1492
+- Hec_26:13vi una luz del cielo que sobrepasabaG1492
+- Hec_26:16testigo de las cosas que has visto, yG1492
+- Hec_27:10varones, veo que la navegación va a serG2334
+- Hec_27:39veían una ensenada que tenía playa, en
+- Hec_28:4cuando los naturales vieron la víboraG1492
+- Hec_28:6mucho, y viendo que ningún mal le veníaG2334
+- Hec_28:8entró Pablo a verle, y después de haber
+- Hec_28:15al verlos, Pablo dio gracias a Dios yG1492
+- Hec_28:19me vi obligado a apelar a César
+- Hec_28:20por esta causa os he llamado para verosG1492
+- Hec_28:26diles...viendo veréis, y no percibiréisG991
+- Hec_28:27que no vean con los ojos, y oigan conG1492
+- Rom_1:11deseo veros, para comunicaros algúnG1492
+- Rom_7:23pero veo otra ley en mis miembros, que se rebelaG991
+- Rom_8:24la esperanza que se ve, no es esperanzaG991
+- Rom_8:24lo que alguno ve, ¿a qué esperarlo?[[G991]]
+- Rom_8:25pero si esperamos lo que no vemos, conG991
+- Rom_11:8les dio...ojos con que no vean y oídosG991
+- Rom_11:10oscurecidos sus ojos para que no veanG991
+- Rom_15:21nunca les fue anunciado...de él, veránG3700
+- Rom_15:22me he visto impedido muchas veces de ir a vosotros
+- Rom_15:24a España...porque espero veros al pasarG2300
+- 1Co_2:9cosas que ojo no vio, ni oído oyó, niG1492
+- 1Co_8:10si...te ve a ti, que tienes conocimientoG1492
+- 1Co_9:1¿no he visto a Jesús el Señor nuestro?[[G3708]]
+- 1Co_13:12ahora vemos por espejo, oscuramenteG991
+- 1Co_13:12mas entonces veremos cara a cara...AhoraG991
+- 1Co_16:7porque no quiero veros ahora de pasoG1492
+- 2Co_4:18que se ven, sino las que no se vG991
+- 2Co_4:18las cosas que se ven son temporalesG991
+- 2Co_4:18pero las que no se ven son eternasG991
+- 2Co_7:8porque veo que aquella carta...contristóG991
+- 2Co_12:6nadie piense de mí más de lo que en mí veG991
+- Gál_1:18subí a Jerusalén para ver a Pedro, yG2477
+- Gál_1:19no vi a ningún otro de los apóstolesG1492
+- Gál_2:7vieron que me había sido encomendado elG1492
+- Gál_2:14vi que no andaban rectamente conformeG1492
+- Flp_1:27que vaya a veros, o que esté ausenteG1492
+- Flp_1:30el mismo conflicto que habéis visto enG1492
+- Flp_2:23luego que yo vea cómo van mis asuntosG542
+- Flp_2:26porque él tenía gran deseo de veros a
+- Flp_2:28para que al verle de nuevo, os gocéisG1492
+- Flp_3:12prosigo, por ver si logro asir aquello
+- Flp_4:9lo que...visteis en mí, esto haced: y elG1492
+- Col_2:1por todos los que nunca han visto miG3708
+- Col_2:18entremetiéndose en lo que no ha vistoG3708
+- 1Ts_2:17procuramos con...ver vuestro rostroG1492
+- 1Ts_3:6nos recordáis con cariño, deseando vernosG1492
+- 1Ts_3:10orando...para que veamos vuestro rostroG1492
+- 1Ti_3:14tengo la esperanza de ir...a verte
+- 1Ti_3:16fue manifestado...visto de los ángelesG3700
+- 1Ti_6:16a quien ninguno...ha visto ni puede verG1492
+- 2Ti_1:4deseando verte, al acordarme de tusG1492
+- 2Ti_4:9procura venir pronto a verme
+- Heb_2:8no vemos que todas las cosas le seanG3708
+- Heb_2:9pero vemos a aquel que fue hecho un pocoG991
+- Heb_3:9me probaron, y vieron mis obras 40 añosG1492
+- Heb_3:19vemos que no pudieron entrar a causa deG991
+- Heb_10:25cuanto veis que aquel día se acercaG991
+- Heb_11:1la fe...la convicción de lo que no se veG991
+- Heb_11:3lo que se ve fue...de lo que no se vG991
+- Heb_11:5Enoc fue traspuesto para no ver muerteG1492
+- Heb_11:7advertido...cosas que aún no se veíanG991
+- Heb_11:23le vieron niño hermoso, y no temieronG1492
+- Heb_11:27se sostuvo como viendo al invisibleG3708
+- Heb_12:14la santidad sin la cual nadie verá alG3700
+- Heb_12:21y tan terrible era lo que se veía, queG5324
+- Heb_13:23con el cual, si viniere...iré a verosG3700
+- Stg_2:22¿no ves que la fe actuó juntamenteG991
+- Stg_2:24veis...que el hombre es justificado porG3708
+- Stg_5:11y habéis visto el fin del Señor, que elG1492
+- 1Pe_1:8a quien amáis sin haberle visto, enG1492
+- 1Pe_1:8quien creyendo, aunque ahora no lo veáisG3708
+- 1Pe_3:10quiere amar la vida, y ver días buenosG1492
+- 2Pe_1:16como habiendo visto con...propios ojos
+- 2Pe_2:8viendo y oyendo...hechos inicuos de ellosG990
+- 1Jn_1:1lo que hemos visto con nuestros ojosG3708
+- 1Jn_1:2la vida fue manifestada, y la hemos vistoG3708
+- 1Jn_1:3lo que hemos visto y...eso os anunciamosG3708
+- 1Jn_3:2a él, porque le veremos tal como él esG3700
+- 1Jn_3:6todo aquel que peca, no le ha visto, niG3708
+- 1Jn_3:17el que...ve a su hermano tener necesidadG2334
+- 1Jn_4:12nadie ha visto jamás a Dios...Si nosG2300
+- 1Jn_4:14hemos visto...que el Padre ha enviado alG2300
+- 1Jn_4:20y no ama a su hermano a quien ha vistoG3708
+- 1Jn_4:20puede amar a Dios a quien no ha visto?[[G3708]]
+- 1Jn_5:16viere a su hermano cometer pecado queG1492
+- 3Jn_1:11que hace lo malo, no ha visto a DiosG3780
+- 3Jn_1:14verte en breve, y hablaremos cara a caraG1492
+- Rev_1:2dado testimonio de...cosas que ha vistoG1492
+- Rev_1:7viene con las nubes, y todo ojo le veráG3700
+- Rev_1:11decía...Escribe en un libro lo que vesG991
+- Rev_1:12y me volví para ver la voz que hablabaG991
+- Rev_1:12y vuelto, vi siete candeleros de oroG1492
+- Rev_1:17cuando le vi, caí como muerto a sus piesG1492
+- Rev_1:19escribe las cosas que has visto, y lasG1492
+- Rev_1:20misterio de...estrellas que has vistoG1492
+- Rev_1:20los siete candeleros que has visto, sonG1492
+- Rev_3:18unge tus ojos con colirio, para que veasG991
+- Rev_4:4vi sentados en los tronos a 24 ancianosG1492
+- Rev_5:1y vi en la mano derecha del que estabaG1492
+- Rev_5:2y vi a un ángel fuerte que pregonaba aG1492
+- Rev_5:6y miré, y vi que en medio del trono y de
+- Rev_6:1vi cuando el Cordero abrió uno de losG1492
+- Rev_6:9vi bajo el altar las almas de los queG1492
+- Rev_7:1después de esto vi a cuatro ángeles enG1492
+- Rev_7:2vi...a otro ángel que subía de donde saleG1492
+- Rev_8:2vi a los siete ángeles...en pie ante DiosG1492
+- Rev_9:1vi una estrella que cayó del cielo a laG1492
+- Rev_9:17así vi en visión los caballos y a susG1492
+- Rev_9:20imágenes...cuales no pueden ver, ni oírG991
+- Rev_10:1vi descender...cielo a otro ángel fuerteG1492
+- Rev_10:5el ángel que vi en pie...levantó su manoG1492
+- Rev_11:9verán sus cadáveres...tres días y medioG991
+- Rev_11:11cayó gran temor sobre los que...vieronG2334
+- Rev_11:12subieron al...y sus enemigos los vieronG2334
+- Rev_11:19arca de su pacto se veía en el temploG3700
+- Rev_12:13y cuando vio el dragón que había sidoG1492
+- Rev_13:1y vi subir del mar una bestia que teníaG1492
+- Rev_13:2y la bestia que vi era semejante a unG1492
+- Rev_13:3vi una de sus cabezas como herida deG1492
+- Rev_13:11después vi otra bestia que subía de laG1492
+- Rev_14:6vi volar por en medio del cielo a otroG1492
+- Rev_15:1vi en el cielo otra señal, grande yG1492
+- Rev_15:2vi...como un mar de vidrio mezclado conG1492
+- Rev_16:13vi salir de la boca del dragón, y deG1492
+- Rev_16:15no ande desnudo, y vean su vergüenzaG991
+- Rev_17:3vi a una mujer sentada sobre una bestiaG1492
+- Rev_17:6vi a la mujer ebria de la sangre de losG1492
+- Rev_17:6cuando la vi, quedé asombrado con granG1492
+- Rev_17:8la bestia que has visto, era, y no es; yG1492
+- Rev_17:8se asombrarán viendo la bestia que eraG991
+- Rev_17:12y los diez cuernos que has visto, sonG1492
+- Rev_17:15las aguas que has visto donde la rameraG1492
+- Rev_17:16los diez cuernos que viste en la bestiaG1492
+- Rev_17:18mujer que has visto es la gran ciudadG1492
+- Rev_18:1vi a otro ángel descender del cielo conG1492
+- Rev_18:7reina, y no soy viuda, y no veré llantoG1492
+- Rev_18:9ella, cuando vean el humo de su incendioG991
+- Rev_18:18viendo el humo de su incendio, dieronG3708
+- Rev_19:11vi el cielo abierto; y he...un caballoG1492
+- Rev_19:17vi a un ángel que estaba en pie en elG1492
+- Rev_19:19y vi a la bestia, a los reyes de laG1492
+- Rev_20:1vi a un ángel que descendía del cieloG1492
+- Rev_20:4y vi tronos, y se sentaron sobre ellosG1492
+- Rev_20:4y vi las almas de los decapitados por
+- Rev_20:11vi un gran trono blanco y al que estabaG1492
+- Rev_20:12vi a los muertos, grandes y pequeñosG1492
+- Rev_21:1vi un cielo nuevo y una tierra nuevaG1492
+- Rev_21:2y yo Juan vi la santa ciudad, la nuevaG1492
+- Rev_21:22no vi en ella templo; porque el SeñorG1492
+- Rev_22:4verán su rostro, y su nombre estará enG3708
+- Rev_22:8Juan soy el que oyó y vio estas cosasG991
+- Rev_22:8después que las hube...visto, me postréG991

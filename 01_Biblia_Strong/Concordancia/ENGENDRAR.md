@@ -1,0 +1,192 @@
+---
+tipo: concordancia
+palabra: ENGENDRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENGENDRAR
+
+- Gén_4:18Irad engendró a Mehujael, y MehujaelH3205
+- Gén_4:18Mehujael engendró a...Metusael e a LamecH3205
+- Gén_5:3vivió Adán 130 años, y engendró un hijoH3205
+- Gén_5:4Adán...engendró a Set...y e hijos e hijasH3205
+- Gén_5:6vivió Set 105 años, y engendró a EnósH3205
+- Gén_5:7Set...engendró a Enós...y e hijos e hijasH3205
+- Gén_5:9vivió Enós 90 años, y engendró a CainánH3205
+- Gén_5:10vivió Enós...engendró a Cainán...y e hijosH3205
+- Gén_5:12vivió Cainán...y engendró a MahalaleelH3205
+- Gén_5:13engendró a Mahalaleel...e hijos e hijasH3205
+- Gén_5:15vivió Mahalaleel 65...y engendró a JaredH3205
+- Gén_5:16Mahalaleel...engendró a Jared...y e hijosH3205
+- Gén_5:18vivió Jared 160 años, y engendró a EnocH3205
+- Gén_5:19vivió Jared...engendró a Enoc...e hijosH3205
+- Gén_5:21vivió Enoc 65...y engendró a MatusalénH3205
+- Gén_5:22engendró a Matusalén...e hijos e hijasH3205
+- Gén_5:25vivió Matusalén 187...y engendró a LamecH3205
+- Gén_5:26y vivió...después que engendró a LamecH3205
+- Gén_5:28vivió Lamec...años, y engendró un hijoH3205
+- Gén_5:30Lamec...engendró a Noé...e hijos e hijasH3205
+- Gén_5:32siendo Noé de 500 años, engendró a SemH3205
+- Gén_6:4se llegaron los...les engendraron hijosH3205
+- Gén_6:10engendró Noé tres hijos: a Sem, a CamH3205
+- Gén_10:8Cus engendró a Nimrod, quien llegó a serH3205
+- Gén_10:13Mizraim engendró a Ludim, a AnamimH3205
+- Gén_10:15Canaán engendró a Sidón su primogénitoH3205
+- Gén_10:24Arfaxad engendró a Sala, y Sala e aH3205
+- Gén_10:26Joctán engendró a Almodad, Selef...JeraH3205
+- Gén_11:10Sem...de cien años, engendró a ArfaxadH3205
+- Gén_11:11Sem...que engendró a Arfaxad...y e hijosH3205
+- Gén_11:12Arfaxad vivió...años, y engendró a SalaH3205
+- Gén_11:13vivió Arfaxad...engendró a Sala...e hijosH3205
+- Gén_11:14Sala vivió 30 años, y engendró a HeberH3205
+- Gén_11:15Sala...que engendró a Heber...e hijos eH3205
+- Gén_11:16Heber vivió...años, y engendró a PelegH3205
+- Gén_11:17vivió Heber...engendró a Peleg...e hijosH3205
+- Gén_11:18Peleg vivió 30 años, y engendró a ReuH3205
+- Gén_11:19Peleg...engendró a Reu...e hijos e hijasH3205
+- Gén_11:20Reu vivió 32 años, y engendró a SerugH3205
+- Gén_11:21Reu...engendró a Serug...e hijos e hijasH3205
+- Gén_11:22Serug vivió...años, y engendró a NacorH3205
+- Gén_11:23Serug...que engendró a Nacor...e hijos eH3205
+- Gén_11:24Nacor vivió 29 años, y engendró a TaréH3205
+- Gén_11:25Nacor...que engendró a Taré...y e hijosH3205
+- Gén_11:26Taré vivió 70 años, y engendró a AbramH3205
+- Gén_11:27Taré engendró a...y a Harán; y Harán eH3205
+- Gén_17:20doce príncipes engendrará, y haré de élH3205
+- Gén_25:3y Jocsán engendró a Seba y a DedánH3205
+- Gén_25:19de Abraham: Abraham engendró a IsaacH3205
+- Gén_48:6los que después de ellos has engendradoH3205
+- Lev_18:11engendrada de tu padre, tu hermanaH4138
+- Núm_11:12¿lo engendré yo, para que me digasH3205
+- Núm_26:29Maquir engendró a Galaad: de Galaad, laH3205
+- Núm_26:58de los levitas...Coat engendró a AmramH3205
+- Deu_4:25hayáis engendrado hijos y nietos, yH3205
+- Deu_28:41hijas engendrarás, y no serán para tiH3205
+- Rut_4:18generaciones de Fares: Fares engendróH3205
+- Rut_4:19Hezrón engendró a Ram...e a AminadabH3205
+- Rut_4:20Aminadab engendró a Naasón, y Naasón eH3205
+- Rut_4:21Salmón engendró a Booz, y Booz e a ObedH3205
+- Rut_4:22Obed engendró a Isaí, e Isaí e a DavidH3205
+- 2Re_20:18de tus hijos...que habrás engendradoH3205
+- 1Cr_1:10Cus engendró a Nimrod; éste llegó aH3205
+- 1Cr_1:11Mizraim engendró a Ludim...NaftuhimH3205
+- 1Cr_1:13Canaán engendró a Sidón su primogénitoH3205
+- 1Cr_1:18Arfaxad engendró a Sela, y Sela e aH3205
+- 1Cr_1:20Joctán engendró a Almodad, Selef...JeraH3205
+- 1Cr_1:34Abraham engendró a Isaac, y los hijosH3205
+- 1Cr_2:10Ram engendró a Aminadab, y Aminadab eH3205
+- 1Cr_2:11Naasón engendró a Salmón, y...e a BoozH3205
+- 1Cr_2:12Booz engendró a Obed, y Obed e a IsaíH3205
+- 1Cr_2:13e Isaí engendró a Eliab su primogénitoH3205
+- 1Cr_2:18Caleb...engendró a Jeriot de su mujerH3205
+- 1Cr_2:20Hur engendró a Uri, y Uri e a BezaleelH3205
+- 1Cr_2:22Segub engendró a Jair, el cual tuvo 23H3205
+- 1Cr_2:36Atai engendró a Natán, y Natán e aH3205
+- 1Cr_2:37Zabad engendró a Eflal, Eflal e a ObedH3205
+- 1Cr_2:38Obed engendró a Jehú, Jehú e a AzaríasH3205
+- 1Cr_2:39Azarías engendró a Heles, Heles e aH3205
+- 1Cr_2:40Elasa engendró a Sismai, Sismai e aH3205
+- 1Cr_2:41engendró a Jecamías, y Jecamías e aH3205
+- 1Cr_2:44Sema engendró a Raham...y Requem e aH3205
+- 1Cr_2:46Harán...Y Harán engendró a GazezH3205
+- 1Cr_4:2Reaía...engendró a Jahat, y Jahat e aH3205
+- 1Cr_4:8Cos engendró a Anub, a Zobeba, y laH3205
+- 1Cr_4:11Quelub...engendró a Mehir, el cual fueH3205
+- 1Cr_4:12Estón engendró a Bet-rafa, a PaseahH3205
+- 1Cr_4:14Meonotai...engendró a Ofra...Seraías eH3205
+- 1Cr_4:17Esdras...engendró a María, a Samai y aH2029
+- 1Cr_6:4Eleazar engendró a Finees, Finees e aH3205
+- 1Cr_6:5Abisúa engendró a Buqui, Buqui e a UziH3205
+- 1Cr_6:6Uzi engendró a Zeraías, Zeraías e aH3205
+- 1Cr_6:7Meraiot engendró a Amarías...e a AhitobH3205
+- 1Cr_6:8Ahitob engendró a Sadoc...e a AhimaasH3205
+- 1Cr_6:9Ahimaas engendró a Azarías, Azarías eH3205
+- 1Cr_6:10y Johanán engendró a Azarías, el queH3205
+- 1Cr_6:11Azarías engendró a Amarías, Amarías eH3205
+- 1Cr_6:12Ahitob engendró a Sadoc, Sadoc e aH3205
+- 1Cr_6:13Salum engendró a Hilcías, Hilcías e aH3205
+- 1Cr_6:14Azarías engendró a Seraías, y...e aH3205
+- 1Cr_7:32Heber engendró a Jaflet, SomerH3205
+- 1Cr_8:1Benjamín engendró a Bela su...AsbelH3205
+- 1Cr_8:7Gera...los transportó, y engendró a UzaH3205
+- 1Cr_8:8Saharaim engendró hijos en la...de MoabH3205
+- 1Cr_8:9engendró, pues, de Hodes su mujer a ObedH3205
+- 1Cr_8:11de Husim engendró a Ahitob y a ElpaalH3205
+- 1Cr_8:32Miclot engendró a Simea...en JerusalénH3205
+- 1Cr_8:33Ner engendró a Cis, Cis e a Saúl, y SaúlH3205
+- 1Cr_8:33y Saúl engendró a Jonatán, MalquisúaH3205
+- 1Cr_8:34hijo de...y Merib-baal engendró a MicaíaH3205
+- 1Cr_8:36Acaz engendró a Joada, Joada e a AlemetH3205
+- 1Cr_8:36Azmavet y Zimri...Zimri engendró a MosaH3205
+- 1Cr_8:37Mosa engendró a Bina, hijo del cual fueH3205
+- 1Cr_9:38Miclot engendró a Simeam...en JerusalénH3205
+- 1Cr_9:39Ner engendró a Cis, Cis e a Saúl, yH3205
+- 1Cr_9:39y Saúl engendró a Jonatán, MalquisúaH3205
+- 1Cr_9:40hijo de Jonatán fue...engendró a MicaíaH3205
+- 1Cr_9:42Acaz engendró a Jara, Jara e a AlemetH3205
+- 1Cr_9:42Azmavet y Zimri, y Zimri engendró aH3205
+- 1Cr_9:43y Mosa engendró a Bina, cuyo hijo fueH3205
+- 1Cr_14:3tomó...y engendró David más hijos e hijasH3205
+- 2Cr_11:21Roboam amó...engendró 28 hijos y 60H3205
+- 2Cr_13:21Abías...y engendró 22 hijos y 16 hijasH3205
+- 2Cr_24:3dos mujeres; y engendró hijos e hijasH3205
+- Neh_12:10Jesúa engendró a Joiacim, y JoiacimH3205
+- Neh_12:10engendró a Eliasib, y Eliasib e aH3205
+- Neh_12:11engendró a Jonatán, y Jonatán e aH3205
+- Job_21:10toros engendran, y no fallan; parenH5674
+- Job_38:28¿o quién engendró las gotas del rocío?[[H3205]]
+- Job_38:29escarcha del cielo, ¿quién la engendró?[[H3205]]
+- Sal_2:7mi hijo eres tú; yo te engendré hoyH3205
+- Pro_8:24antes de los abismos fui engendradaH2342
+- Pro_8:25antes de...ya había sido yo engendradaH2343
+- Pro_17:21que engendra al...para su tristeza lo eH3205
+- Pro_23:22a tu padre, a aquel que te engendróH3205
+- Pro_23:24el que engendra sabio se gozará con élH3205
+- Ecl_5:14a los hijos que engendraron, nada lesH3205
+- Ecl_6:3aunque...engendrare cien hijos, y viviereH3205
+- Isa_39:7de tus hijos...que habrás engendradoH3205
+- Isa_45:10dice al padre: ¿Por qué engendraste?[[H3205]]
+- Isa_49:21y dirás en...¿Quién me engendró éstos?[[H3205]]
+- Isa_66:9hago engendrar, ¿impediré el nacimiento?[[H7665]]
+- Jer_2:27mi padre eres tú...me has engendradoH3205
+- Jer_15:10que me engendraste hombre de contiendaH3205
+- Jer_16:3padres que los engendren en esta tierraH3205
+- Jer_29:6casaos, y engendrad hijos e hijas; dadH3205
+- Eze_18:10engendrare hijo ladrón, derramador deH3205
+- Eze_18:14si éste engendrare hijo, el cual viereH3205
+- Eze_47:22que entre vosotros han engendrado hijosH3205
+- Ose_5:7porque han engendrado hijos extrañosH3205
+- Ose_9:16aunque engendren, yo mataré lo deseableH3205
+- Zac_13:3le dirán su padre...que lo engendraronH3205
+- Zac_13:3padre...que lo engendraron le traspasaránH3205
+- Mat_1:2Abraham engendró a Isaac, Isaac a JacobG1080
+- Mat_1:3Judá engendró de Tamar a Fares y a ZaraG1080
+- Mat_1:4engendró a Aminadab, Aminadab a NaasónG1080
+- Mat_1:5Salmón engendró de Rahab a Booz, y BoozG1080
+- Mat_1:5Booz engendró de Rut a Obed, y Obed aG1080
+- Mat_1:6Isaí engendró al rey David, y...David e aG1080
+- Mat_1:7Salomón engendró a Roboam, Roboam aG1080
+- Mat_1:8Asa engendró a Josafat, Josafat a JoramG1080
+- Mat_1:9Uzías engendró a Jotam, Jotam a Acaz, yG1080
+- Mat_1:10Ezequías engendro a Manasés, Manasés aG1080
+- Mat_1:11Josías engendró a Jeconías y a susG1080
+- Mat_1:12Jeconías engendró a Salatiel, y SalatielG1080
+- Mat_1:13Zorobabel engendró a Abiud, Abiud aG1080
+- Mat_1:14Azor engendró a Sadoc, Sadoc a AquimG1080
+- Mat_1:15Eliud engendró a Eleazar, Eleazar aG1080
+- Mat_1:16Jacob engendró a José, marido de MaríaG1080
+- Mat_1:20porque lo que en ella es engendrado, delG1080
+- Jua_1:13cuales no son engendrado de sangreG1080
+- Hec_7:8y así Abraham engendró a Isaac, y leG1080
+- Hec_7:29de Madián, donde engendró dos hijosG1080
+- Hec_13:33mi hijo eres tú, yo te he engendradoG1080
+- 1Co_4:15en Cristo Jesús yo os engendré porG1080
+- 1Ti_2:15pero se salvará engendrando hijosG5042
+- 2Ti_2:23sabiendo que engendran contiendasG1080
+- Flm_1:10Onésimo, a...engendré en mis prisionesG1080
+- Heb_1:5mi Hijo eres tú, yo te he engendradoG1080
+- Heb_5:5tú eres mi Hijo, yo te he engendrado hoyG1080
+- 1Jn_5:1todo aquel que ama al que engendróG1080
+- 1Jn_5:1también al que ha sido engendrado por élG1080
+- 1Jn_5:18que fue engendrado por Dios le guardaG1080

@@ -1,0 +1,166 @@
+---
+tipo: concordancia
+palabra: PARECER (v.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PARECER (v.)
+
+- Gén_16:6haz con ella lo que bien te parezcaH2896, [[H5869]]
+- Gén_19:8haced de ellas como bien os pareciere
+- Gén_19:14pareció a sus yernos...que se burlaba
+- Gén_20:15tierra...habita donde bien te parezcaH2896, [[H5869]]
+- Gén_21:11dicho pareció grave en gran manera a
+- Gén_21:12te parezca grave a causa del muchacho
+- Gén_28:8que las hijas de Canaán parecían mal aH7451, [[H5869]]
+- Gén_29:20le parecieron como pocos días, porque
+- Gén_34:18parecieron bien sus palabras a HamorH3190, [[H5869]]
+- Gén_37:30el joven no parece; y yo, ¿adónde iré
+- Gén_40:7qué parecen hoy mal vuestros semblantes?
+- Gén_41:1sueño. Le parecía que estaba junto al ríoH5975
+- Gén_41:17me parecía que estaba a la orilla delH5975
+- Gén_41:37el asunto pareció bien a Faraón y a sus
+- Gén_42:13el menor está hoy con...y otro no parece
+- Gén_42:32uno no parece, y el menor está hoy con
+- Gén_42:36José no parece, ni Simeón tampoco, y a
+- Éxo_2:12viendo que no parecía nadie, mató alH6437
+- Éxo_34:3ni parezca alguno en todo el monte; ni
+- Lev_13:3pareciere la llaga más profunda que laH4758
+- Lev_13:4mancha...no pareciere más profunda que laH4756
+- Lev_13:6y si parece haberse oscurecido la llagaH7200
+- Lev_13:20si pareciere estar más profunda que laH4758
+- Lev_13:25, Lev_13:30pareciere...mas profunda que la pielH4758
+- Lev_13:31no pareciere ser más profunda que la pielH4758
+- Lev_13:32la tiña no pareciere haberse extendido
+- Lev_13:32ni pareciere la tiña más profunda que la
+- Lev_13:34ni pareciere ser más profunda que la pielH4758
+- Lev_13:37le pareciere que la tiña está detenidaH5968
+- Lev_13:43si pareciere la hinchazón de la llagaH7200
+- Lev_13:53mirare, y no pareciere que la plaga seH7200
+- Lev_13:55pareciere que la plaga no ha cambiadoH7200
+- Lev_13:56pareciere que la plaga se ha oscurecidoH7200
+- Lev_14:37manchas...parecieren más profundas queH7200
+- Lev_14:44pareciere haberse extendido la plaga enH7200
+- Núm_11:10oyó...también le pareció mal a Moisés
+- Núm_13:33langostas; y así...parecíamos a ellosH5869
+- Núm_22:34ahora, si te parece mal, yo me volveréH7489, [[H5889]]
+- Núm_23:27parecerá bien a Dios que desde allí meH3477, [[H5869]]
+- Núm_24:1vio Balaam que parecía bien a JehováH2895
+- Núm_32:1y les pareció el país lugar de ganado
+- Deu_1:23el dicho me pareció bien; y tomé doceH3190, [[H5869]]
+- Deu_12:8no haréis...cada uno lo que bien le parece
+- Deu_13:14si pareciere verdad, cosa cierta, que
+- Deu_15:18no te parezca duro cuando le enviaresH7185
+- Deu_17:4la cosa pareciere de verdad cierta, que
+- Jos_9:25que te pareciere bueno y recto...hazloH5869
+- Jos_22:19si os parece que la tierra de vuestra
+- Jos_22:30oyendo Finees...pareció bien todo elloH3190, [[H5869]]
+- Jos_22:33el asunto pareció bien a los hijos deH3190, [[H5869]]
+- Jos_24:15y si mal os parece servir a Jehová
+- Jue_8:18ellos; cada uno parecía hijo de reyH8389
+- Jue_9:2¿qué os parece mejor, que os gobiernen 70
+- Jue_10:15haz tú...como bien te parezca; sólo teH5869
+- Jue_17:6cada uno hacía lo que bien le parecía
+- Jue_19:24y haced con ellas como os parezca, yH5869
+- Jue_21:25cada uno hacía lo que bien le parecía
+- 1Sa_1:23haz lo que bien te parezca; quédateH5869
+- 1Sa_3:18Jehová es; haga lo que bien le pareciereH5869
+- 1Sa_10:14vimos que no parecían, fuimos a Samuel
+- 1Sa_11:10que hagáis...lo que bien os pareciereH5869
+- 1Sa_14:36dijeron: Haz lo que bien te pareciereH5869
+- 1Sa_14:40a Saúl: Haz lo que bien te pareciereH5869
+- 1Sa_18:20fue dicho a Saúl, y le pareció bien aH3477, [[H5869]]
+- 1Sa_18:23¿os parece a vosotros que es poco serH5869
+- 1Sa_18:26pareció bien la cosa a...ojos de DavidH3477, [[H5869]]
+- 1Sa_24:4mano, y harás con él como te pareciere
+- 1Sa_29:6que me ha parecido bien tu salida y tu
+- 2Sa_3:19decir a David...lo que parecía bienH5869
+- 2Sa_7:19te ha parecido poco esto, Señor JehováH5869
+- 2Sa_10:3parece que por honrar David a tu padreH5869
+- 2Sa_10:12y haga Jehová lo que bien le pareciereH5869
+- 2Sa_13:2le parecía a Amnón que sería difícilH5869
+- 2Sa_15:26haga de mí lo que bien le pareciereH5869
+- 2Sa_17:4este consejo pareció bien a Absalón y aH3477, [[H5869]]
+- 2Sa_18:4les dijo: Yo haré lo que bien os parezcaH5869
+- 2Sa_18:27me parece el correr del primero como elH7200
+- 2Sa_19:18y para hacer lo que a él le parecieraH5869
+- 2Sa_19:27rey...haz, pues, lo que bien te parezca
+- 2Sa_19:37pase...haz a él lo que bien te pareciere
+- 2Sa_19:38y yo haré con él como bien te parezca
+- 2Sa_24:22y ofrezca mi señor...bien le pareciereH5869
+- 1Re_1:40parecía que la tierra se hundía con
+- 1Re_21:2o si mejor te pareciere, te pagaré su
+- 2Re_10:5siervos...haz lo que bien te parezca
+- 1Cr_13:2dijo David...Si os parece bien y si
+- 1Cr_13:4la cosa parecía bien a todo el pueblo
+- 1Cr_17:17aun esto, oh Dios, te ha parecido poco
+- 1Cr_19:13y haga Jehová lo que bien le parezca
+- 1Cr_21:23haga mi señor el...que bien le parezca
+- Esd_5:17si al rey parece bien, búsquese en la
+- Esd_7:18lo que a ti y a...os parezca hacer de laH3191
+- Est_1:19parece bien al rey, salga un decretoH2895
+- Est_3:11que hagas de 61 lo que bien te pareciereH5869
+- Est_8:5y si le parece acertado al rey, y yo soyH2896
+- Est_8:8escribid...judíos como bien os pareciereH2896
+- Job_10:3¿te parece bien que oprimas...la obra
+- Job_20:13si le parecía bien, y no lo dejaba, sinoH2250
+- Job_41:32hace...que parece que el abismo es cano
+- Job_41:33no hay sobre la tierra...se le parezca
+- Sal_74:5parecen a los que levantan el hacha
+- Pro_14:12al hombre le parece derecho, pero suH6440
+- Pro_16:25hay camino que parece derecho al hombreH6440
+- Pro_18:17justo parece el primero que aboga por
+- Ecl_9:13vi esta sabiduría...me parece grande
+- Isa_5:28cascos de...parecerán como de pedernal
+- Isa_29:8parece que come, pero cuando despierta
+- Isa_29:8parece que bebe, pero cuando despierta
+- Jer_18:4la hizo otra vasija, según le parecióH5869
+- Jer_26:14haced de mí como mejor y...os parezcaH5869
+- Jer_40:4si le parece bien venir...si no te p bien
+- Jer_40:4-5donde mejor y más cómodo te parezca
+- Eze_1:4algo que parecía como bronce refulgente
+- Eze_1:26un trono que parecía de piedra de zafiroH4758
+- Eze_1:26semejanza que parecía de hombre sentadoH4758
+- Eze_1:27vi que parecía como fuego, y que teníaH4758
+- Eze_1:28como parece el arco iris que está en elH4758
+- Eze_8:2una figura que parecía de hombre; desdeH4758
+- Eze_8:2sus lomos para arriba parecía resplandorH4758
+- Eze_10:1parecía como semejanza de un trono queH4758
+- Eze_40:2un edificio parecido a una gran ciudad
+- Dan_1:15pareció el rostro de ellos mejor y másH7200
+- Dan_4:10me parecía ver en medio de la tierra un
+- Dan_6:1pareció bien a Darío constituir sobre elH8232
+- Dan_7:20y parecía más grande que sus compañeros
+- Dan_10:6su rostro parecía un relámpago, y susH4758
+- Zac_8:6si esto parecerá maravilloso a los ojos
+- Zac_11:12si os parece bien, dadme mi salario; yH5869
+- Mat_17:25¿qué te parece, Simón? Los reyes deG1380
+- Mat_18:12¿qué os parece? Si un hombre tiene cienG1380
+- Mat_21:28os parece? Un hombre tenía dos hijosG1380
+- Mat_22:17qué te parece: ¿Es lícito dar tributoG1380
+- Mat_26:66¿qué os parece?...Y respondiendo ellosG1380
+- Mar_14:64oído la blasfemia; ¿qué os parece?[[G5316]]
+- Luc_1:3me ha parecido también a mí, después deG1380
+- Luc_10:36¿quién...te parece que fue el prójimo delG1380
+- Luc_24:11les parecían locura las palabras de ellasG5316
+- Jua_4:19Señor, me parece que tú eres profetaG2334
+- Jua_5:39os parece que en ellas tenéis la vidaG1380
+- Jua_9:9otros: A él se parece...El decía: Yo soyG3664
+- Jua_11:56¿qué...parece? ¿No vendrá a la fiesta?[[G1380]]
+- Hec_15:22pareció bien a los apóstoles y a losG1380
+- Hec_15:25nos ha parecido bien, habiendo llegadoG1380
+- Hec_15:28ha parecido bien al Espíritu Santo, yG1380
+- Hec_15:34a Silas le pareció bien el quedarse allíG1380
+- Hec_15:38a Pablo no le parecía bien llevar consigo al
+- Hec_17:18parece...es predicador de nuevos diosesG1380
+- Hec_25:27parece fuera de razón enviar un presoG1380
+- Hec_27:13del sur, pareciéndoles que ya tenían loG1380
+- Rom_15:27les pareció bueno, y son deudores aG2106
+- 1Co_12:22miembros...que parecen más debilesG1380
+- 1Co_12:23aquellos...que nos parecen menos dignosG1380
+- 2Co_10:9no parezca como...quiero amedrentarG1380
+- Heb_4:1alguno de...parezca no haberlo alcanzadoG1380
+- Heb_12:10disciplinaban como a ellos les parecíaG3588, [[G1380]]
+- Heb_12:11ninguna disciplina...parece ser causa deG1380
+- 1Pe_4:4les parece cosa extraña que vosotros

@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: PECADOR, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PECADOR, A
+
+- Gén_13:13los hombres de Sodoma eran malos y pH2400
+- Núm_32:14prole de hombres p, para añadir aúnH2400
+- 1Sa_15:18destruye a los p de Amalec, y hazlesH2400
+- Job_24:19la nieve; así también el Seol a los pH2398
+- Sal_1:1no anduvo en...ni estuvo en camino de pH2400
+- Sal_1:5ni los p en la congregación de los justosH2400
+- Sal_25:8es Jehová...él enseñará a los p el caminoH2400
+- Sal_26:9no arrebates con los p mi alma, ni miH2400
+- Sal_37:16mejor es...que las riquezas de muchos pH7563
+- Sal_37:34cuando sean destruidos los p, los verásH7563
+- Sal_51:13enseñaré...y los p se convertirán a tiH2400
+- Sal_75:10quebrantaré todo el poderío de los pH7563
+- Sal_104:35sean consumidos de la tierra los p, yH2400
+- Pro_1:10mío, si los p te quisieron engañar, noH2400
+- Pro_11:3pero destruirá a los p la perversidadH898
+- Pro_11:6mas los p serán atrapados en su pecadoH898
+- Pro_11:31el justo...¡cuánto más el impío y el p![[H2398]]
+- Pro_13:6guarda...mas la impiedad trastornará al pH2403
+- Pro_13:21mal perseguirá a los p, mas los justosH2403
+- Pro_13:22la riqueza del p está guardada para elH2398
+- Pro_23:17no tenga tu corazón envidia de los pH2400
+- Ecl_2:26mas al p da el trabajo de recoger yH2398
+- Ecl_7:26escapará...mas el p quedará en ella presoH2398
+- Ecl_8:12el p haga mal cien veces, y prolongueH2398
+- Ecl_9:18mejor es...pero un p destruye mucho bienH2398
+- Isa_1:4¡oh gente p, pueblo cargado de maldadH2398
+- Isa_1:28rebeldes y p a una serán quebrantadosH2400
+- Isa_13:9el día de Jehová...raer de ella a sus pH2400
+- Isa_31:7sus ídolos...han hecho vuestras manos pH2399
+- Isa_33:14los p se asombraron en Sion, espantoH2400
+- Isa_53:12contado con los p, habiendo él llevadoH2399
+- Isa_65:20niño...y el p de cien años será malditoH2398
+- Amó_9:8ojos de Jehová...están contra el reino pH2401
+- Amó_9:10espada morirán todos los p de mi puebloH2400
+- Mat_9:10publicanos y p, que habían venido, seG268
+- Mat_9:11¿por qué come...con los publicanos y p?[[G268]]
+- Mat_9:13a justos, sino a p, al arrepentimientoG268
+- Mat_11:19dicen: He aquí un hombre...amigo de...pG268
+- Mat_26:45y el Hijo...es entregado en manos de pG268
+- Mar_2:15muchos publicanos y p estaban tambiénG268
+- Mar_2:16viéndole comer...con los p, dijeron a losG268
+- Mar_2:16esto, que él come y bebe con los...y p?[[G268]]
+- Mar_2:17no...venido a llamar a justos, sino a pG268
+- Mar_8:38se avergonzare...en esta generación...pG268
+- Mar_14:41Hijo...es entregado en manos de los pG268
+- Luc_5:8apártate de mí, Señor...soy hombre pG268
+- Luc_5:30¿por qué coméis y...con publicanos y p?[[G268]]
+- Luc_5:32a justos, sino a p al arrepentimientoG268
+- Luc_6:32también los p aman a los que los amanG268
+- Luc_6:33porque también los p hacen lo mismoG268
+- Luc_6:34porque también los p prestan a los pG268
+- Luc_7:34éste es un...amigo de publicanos y de pG268
+- Luc_7:37una mujer de la ciudad, que era p, alG268
+- Luc_7:39conocería...es la que le toca, que es pG268
+- Luc_13:2estos...eran más p que todos los galileos?[[G268]]
+- Luc_15:1se acercaban a Jesús todos los...p paraG268
+- Luc_15:2éste a los precibe, y con ellos comeG268
+- Luc_15:7habrá más gozo en el cielo por un p queG268
+- Luc_15:10hay gozo...por un p que se arrepienteG268
+- Luc_18:13diciendo: Dios, sé propicio a mí, pG268
+- Luc_19:7había entrado a posar con un hombre pG268
+- Luc_24:7que...sea entregado en manos de hombres pG268
+- Jua_9:16¿cómo puede un...p hacer estas señales?[[G268]]
+- Jua_9:24nosotros sabemos que ese hombre es pG268
+- Jua_9:25si es p, no lo sé; una cosa sé, que: veoG268
+- Jua_9:31sabemos que Dios no oye a los p, peroG268
+- Rom_3:7si...¿por qué aún soy juzgado como p?[[G268]]
+- Rom_5:8siendo aún p, Cristo murió por nosotrosG268
+- Rom_5:19los muchos fueron constituidos p, asíG268
+- Gál_2:15judíos...y no p de entre los gentilesG268
+- Gál_2:17también nosotros somos hallados p, ¿esG268
+- 1Ti_1:9los impíos y p, para los irreverentesG268
+- 1Ti_1:15Cristo Jesús vino...para salvar a los pG268
+- Heb_7:26apartado de los p, y hecho...sublimeG268
+- Heb_12:3sufrió tal contradicción de p contra síG268
+- Stg_4:8p, limpiad las manos; y vosotros losG268
+- Stg_5:20el que haga volver al p del error de suG268
+- 1Pe_4:18¿en dónde aparecerá el impío y el p?[[G268]]
+- Jud_1:15las cosas duras que los p...han habladoG268

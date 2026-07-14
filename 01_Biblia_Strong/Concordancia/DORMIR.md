@@ -1,0 +1,190 @@
+---
+tipo: concordancia
+palabra: DORMIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DORMIR
+
+- Gén_2:21mientras éste dormía, tomó una de susH3462
+- Gén_19:32durmamos con él, y conservaremos deH7901
+- Gén_19:33entró la mayor, y durmió con...su padreH7901
+- Gén_19:34yo dormí la noche pasada con mi padreH7901
+- Gén_19:34y duerme con él, para que conservemosH7901
+- Gén_19:35se levantó la menor, y durmió con élH7901
+- Gén_24:54él y los varones...con él...y durmieronH3885
+- Gén_26:10hubiera dormido alguno del pueblo conH7901
+- Gén_28:11llegó a un cierto lugar, y durmió allíH3885
+- Gén_30:15pues dormirá contigo esta noche por lasH7901
+- Gén_30:16Jacob...durmió con ella aquella nocheH7901
+- Gén_31:54y durmieron aquella noche en el monteH3885
+- Gén_32:13y durmió allí aquella noche, y tomó deH3885
+- Gén_32:21durmió aquella noche en el campamentoH3885
+- Gén_35:22Rubén y durmió con Bilha la concubinaH7901
+- Gén_39:7mujer de su amo...dijo: Duerme conmigoH7901
+- Gén_39:12lo asió por...diciendo: Duerme conmigoH7901
+- Gén_39:14vino él a mí para dormir conmigo, y yoH7901
+- Gén_41:5durmió de nuevo, y soñó la segunda vezH3462
+- Gén_47:30duerma con mis padres, me llevarás aH7901
+- Éxo_8:3ranas...casa, en la cámara donde duermes
+- Éxo_22:16y durmiere con ella, deberá dotarla yH7901
+- Éxo_22:27eso es su cubierta...¿En qué dormirá?[[H7901]]
+- Lev_14:47que durmiere en aquella casa, lavaráH7901
+- Lev_15:24durmiere con ella, y su menstruo fuereH7901
+- Lev_15:24cama sobre que durmiere, será inmundaH7901
+- Lev_15:26cama en que durmiere todo el tiempo deH7901
+- Lev_15:33para el hombre que durmiere con mujerH7901
+- Lev_20:12si alguno durmiere con su nuera, ambosH7901
+- Lev_20:18que durmiere con mujer menstruosa, yH7901
+- Lev_20:20que durmiere con la mujer del hermanoH7901
+- Lev_26:6dormiréis, y no habrá quien os espanteH7901
+- Núm_5:19le dirá: Si ninguno ha dormido contigoH7901
+- Deu_24:13para que pueda dormir en su ropa, yH7901
+- Deu_28:30te desposarás...y otro varón dormirá conH7901
+- Deu_31:16tú vas a dormir con tus padres, y esteH7901
+- Jos_2:8antes que ellos se durmiesen...subió alH7901
+- Jue_16:3Sansón durmió hasta la media nocheH7901
+- Jue_16:19ella hizo que él se durmiese sobre susH3462
+- Jue_19:9duerme...para que se alegre tu corazónH3885
+- Rut_3:7Booz...se retiró a dormir a un lado delH7901
+- Rut_3:14que durmió a sus pies hasta la mañanaH7901
+- 1Sa_2:22dormían con las mujeres que velabanH7901
+- 1Sa_3:3Samuel estaba durmiendo en el templo deH7901
+- 1Sa_26:5miró David el lugar donde dormían SaúlH7901
+- 1Sa_26:5estaba Saúl durmiendo en el campamentoH7901
+- 1Sa_26:7que Saúl estaba tendido durmiendo enH7901
+- 1Sa_26:12no hubo nadie que viese...todos dormíanH3463
+- 2Sa_4:5Is-boset...estaba durmiendo la siestaH7901
+- 2Sa_4:6la portera de la casa...pero se durmió
+- 2Sa_4:7cuando entraron...Is-boset dormía sobreH7901
+- 2Sa_7:12y duermas con tus padres, yo levantaréH7901
+- 2Sa_11:4envió...vino a él, y él durmió con ellaH7901
+- 2Sa_11:9Urías durmió a la puerta de la casa delH7901
+- 2Sa_11:11en mi casa para...dormir con mi mujer?[[H7901]]
+- 2Sa_11:13él salió...a dormir en su cama con losH7901
+- 2Sa_12:3durmiendo en su seno; y la tenía comoH7901
+- 2Sa_12:24llegándose a ella durmió con ella; y ellaH7901
+- 1Re_1:2duerma a su lado, y entrará en calorH7901
+- 1Re_1:21mi señor el rey duerma con sus padresH7901
+- 1Re_2:10y durmió David con sus padres, y fueH7901
+- 1Re_3:20el hijo...estando yo tu siervo durmiendoH3463
+- 1Re_11:21oyendo...que David había dormido conH7901
+- 1Re_11:43durmió Salomón con sus padres, y fueH7901
+- 1Re_14:20dormido con sus padres, reinó...NadabH7901
+- 1Re_14:31durmió Roboam con sus padres, y fueH7901
+- 1Re_15:8y durmió Abiam...y lo sepultaron en laH7901
+- 1Re_15:24durmió Asa...y fue sepultado con ellosH7901
+- 1Re_16:6y durmió Baasa con sus padres...sepultadoH7901
+- 1Re_16:28Omri durmió con sus padres...sepultadoH7901
+- 1Re_18:27tal vez duerme, y hay que despertarleH3463
+- 1Re_19:5debajo del enebro, se quedó dormidoH3462
+- 1Re_21:27durmió en cilicio, y anduvo humilladoH7901
+- 1Re_22:40y durmió Acab con sus padres, y reinóH7901
+- 1Re_22:50durmió Josafat con sus padres, y fueH7901
+- 2Re_4:11día vino él por allí...y allí durmióH7901
+- 2Re_8:24durmió Joram con sus padres...sepultadoH7901
+- 2Re_10:35durmió Jehú con sus padres...sepultaronH7901
+- 2Re_11:2ocultó de Atalía...en la cámara de dormir
+- 2Re_13:9durmió Joacaz con sus padres...sepultaronH7901
+- 2Re_13:13; 2Re_14:16y durmió Joás con sus padresH7901
+- 2Re_14:22después que el rey durmió con sus padresH7901
+- 2Re_14:29y durmió Jeroboam con sus padres, losH7901
+- 2Re_15:7y durmió Azarías con sus padres, y loH7901
+- 2Re_15:22durmió Manahem con sus padres, y reinóH7901
+- 2Re_15:38durmió Jotam con sus padres...sepultadoH7901
+- 2Re_16:20y durmió el rey Acaz con sus padresH7901
+- 2Re_20:21durmió Ezequías con sus padres, y reinóH7901
+- 2Re_21:18y durmió Manasés con sus padres, y fueH7901
+- 2Re_24:6durmió Joacim con sus padres, y reinó enH7901
+- 2Cr_9:31durmió Salomón con sus padres, y loH7901
+- 2Cr_12:16y durmió Roboam con sus padres, y fueH7901
+- 2Cr_14:1durmió Abías con sus padres...sepultadoH7901
+- 2Cr_16:13y durmió Asa con sus padres, y murióH7901
+- 2Cr_21:1durmió Josafat con sus padres...sepultaronH7901
+- 2Cr_26:2después que el rey Amasías durmió conH7901
+- 2Cr_26:23y durmió Uzías con sus padres, y loH7901
+- 2Cr_27:9y durmió Jotam con sus padres...sepultaronH7901
+- 2Cr_28:27y durmió Acaz con sus padres...sepultaronH7901
+- 2Cr_32:33y durmió Ezequías con sus padres, y loH7901
+- 2Cr_33:20y durmió Manasés con sus padres, y loH7901
+- Job_3:13dormiría, y entonces tendría descansoH3462
+- Job_7:21porque ahora dormiré en el polvo, y siH7901
+- Job_11:18mirarás alrededor, y dormirás seguroH7901
+- Job_24:7al desnudo hacen dormir sin ropa, sinH3885
+- Sal_3:5me acosté y dormí, y desperté, porqueH3462
+- Sal_4:8en paz me acostaré, y asimismo dormiréH3462
+- Sal_13:3alumbra mis ojos...no duerma de muerteH3462
+- Sal_44:23despierta; ¿por qué duermes, Señor?[[H3462]]
+- Sal_76:5fueron despojados, durmieron su sueñoH5123
+- Sal_78:65despertó el Señor como quien duermeH3463
+- Sal_121:3tu pie...ni se dormirá el que te guardaH5123
+- Sal_121:4no...ni dormirá el que guarda a IsraelH3462
+- Pro_4:16no duermen ellos si no han hecho malH3462
+- Pro_6:9perezoso, ¿hasta cuándo has de dormir?[[H7901]]
+- Pro_6:22cuando duermas te guardarán; hablaránH7901
+- Pro_10:5el que duerme en el tiempo de la siegaH7290
+- Pro_24:33mano sobre mano otro poco para dormirH8142
+- Ecl_4:11si dos durmieren juntos, se calentaránH7901
+- Ecl_5:12al rico no le deja dormir la abundanciaH3462
+- Cnt_5:2yo dormía, pero mi corazón velaba; esH3463
+- Isa_5:27ninguno se dormirá, ni le tomará sueñoH3463
+- Isa_13:21dormirán allí las fieras del desiertoH7257
+- Isa_17:2dormirán...y no habrá quien los espanteH7257
+- Isa_56:10soñolientos, echados, aman el dormirH5123
+- Jer_51:39duerman eterno sueño y no despiertenH3462
+- Jer_51:57dormirán sueño eterno y no despertaránH3462
+- Eze_4:4el número de los días que duermas sobreH7901
+- Eze_34:14dormirán en buen redil, y en pastosH7257
+- Eze_34:25con seguridad...dormirán en los bosquesH3462
+- Dan_8:18caí dormido en tierra sobre mi rostroH7290
+- Dan_12:2muchos de los que duermen en el polvoH3463
+- Ose_2:18quitaré de la...y te haré dormir seguraH7901
+- Ose_7:6la noche duerme su hornero; a la mañanaH3463
+- Joe_1:13dormid en cilicio, ministros de...DiosH3885
+- Amó_6:4duermen en camas de marfil, y reposanH7901
+- Jon_1:5pero Jonás...se había echado a dormirH7290
+- Miq_7:5de la que duerme a tu lado cuídate, noH7901
+- Nah_3:18durmieron tus pastores, oh rey deH5123
+- Sof_2:7en las casas de Ascalón dormirán deH7257
+- Sof_2:14y el erizo dormirán en sus dinteles: suH7257
+- Sof_3:13dormirán, y no habrá quien los atemoriceH7257
+- Mat_8:24olas cubrían la barca; pero él dormíaG2518
+- Mat_9:24la niña no está muerta, sino duermeG2518
+- Mat_13:25mientras dormían los hombres, vino suG2518
+- Mat_25:5y tardándose el esposo...y se durmieronG2518
+- Mat_26:40y los halló durmiendo, y dijo a PedroG2518
+- Mat_26:43vino otra vez y los halló durmiendoG2518
+- Mat_26:45dijo: Dormid ya, y descansad. He aquíG2518
+- Mat_27:52cuerpos de santos que habían dormidoG2837
+- Mat_28:13lo hurtaron, estando nosotros dormidosG2837
+- Mar_4:27duerme y se levanta, de noche y de díaG2518
+- Mar_4:38él estaba...durmiendo sobre un cabezalG2518
+- Mar_5:39la niña no está muerta, sino duermeG2518
+- Mar_13:36que cuando venga...no os halle durmiendoG2518
+- Mar_14:37los halló durmiendo...Simón, ¿duermes?[[[[G2518]]]], [[[[G2518]]]]
+- Mar_14:40los halló durmiendo, porque los ojos deG2518
+- Mar_14:41les dijo: Dormid ya, y descansad. BastaG2518
+- Luc_8:23pero mientras navegaban, él se durmióG879
+- Luc_8:52dijo...no está muerta, sino que duermeG2518
+- Luc_22:45halló durmiendo a causa de la tristezaG2837
+- Luc_22:46¿Por qué dormís? Levantaos, y orad paraG2518
+- Jua_11:11nuestro amigo Lázaro duerme: mas voyG2837
+- Jua_11:12discípulos: Señor, si duerme, sanaráG2837
+- Hec_7:60clamó...Y habiendo dicho esto, durmióG2837
+- Hec_12:6estaba Pedro durmiendo entre dos soldadosG2837
+- Hec_13:36durmió, y fue reunido con sus padresG2837
+- 1Co_11:30muchos enfermos...y muchos duermenG2838
+- 1Co_15:6muchos viven aún, y otros ya duermenG2837
+- 1Co_15:18los que durmieron en Cristo perecieronG2837
+- 1Co_15:20primicias de los que durmieron es hechoG2837
+- 1Co_15:51digo un misterio: No todos dormiremosG2838
+- Efe_5:14dice: Despiértate, tú que duermes, yG2518
+- 1Ts_4:13ignoréis acerca de los que duermenG2837
+- 1Ts_4:14traerá Dios...a los que durmieron en élG2838
+- 1Ts_4:15no precederemos a los que durmieronG2837
+- 1Ts_5:6no durmamos como los demás, sino velemosG2518
+- 1Ts_5:7los que duermen, de noche d, y los queG2518
+- 1Ts_5:10que ya sea que velemos, o que durmamosG2518
+- 2Pe_2:3se tarda, y su perdición no se duermeG3573
+- 2Pe_3:4desde el día en que los padres durmieronG2837

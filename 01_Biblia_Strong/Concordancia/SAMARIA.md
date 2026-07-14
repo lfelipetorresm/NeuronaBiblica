@@ -1,0 +1,129 @@
+---
+tipo: concordancia
+palabra: SAMARIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SAMARIA
+
+- 1 Ciudad capital del reino de Israel
+- 1Re_13:32lugares altos...en las ciudades de SH8111
+- 1Re_16:24Omri compró a Semer el monte de S porH8111
+- 1Re_16:24el nombre de la ciudad que edificó, SH8111
+- 1Re_16:28Omri durmió con...y fue sepultado en SH8111
+- 1Re_16:30reinó Acab hijo de...sobre Israel en SH8111
+- 1Re_16:32el templo de Baal que él edificó en SH8111
+- 1Re_18:2fue, pues, Elías...hambre era grave en SH8111
+- 1Re_20:1Ben-adad rey...sitió a S, y la combatióH8111
+- 1Re_20:10el polvo de S no bastará a los puños deH8111
+- 1Re_20:17le dio aviso...Han salido hombres de SH8111
+- 1Re_20:34plazas en...como mi padre las hizo en SH8111
+- 1Re_20:43el rey de Israel se fue a...y llegó a SH8111
+- 1Re_21:1viña junto al palacio de Acab rey de SH8111
+- 1Re_21:18a encontrarte con Acab rey...está en SH8111
+- 1Re_22:10junto a la entrada de la puerta de SH8111
+- 1Re_22:37traído a S; y sepultaron al rey en SH8111
+- 1Re_22:38y lavaron el carro en el estanque de SH8111
+- 1Re_22:51Ocozías hijo de...comenzó a reinar...en SH8111
+- 2Re_1:2Ocozías cayó...la casa que tenía en SH8111
+- 2Re_1:3sube a encontrarte con los...del rey de SH8111
+- 2Re_2:25al monte Carmelo, y de allí volvió a SH8111
+- 2Re_3:1Joram hijo...comenzó a reinar en S sobreH8111
+- 2Re_3:6salió entonces de S el rey Joram, y pasóH8111
+- 2Re_5:3si rogase...al profeta que está en S, élH8111
+- 2Re_6:19seguidme, y yo os guiaré...los guió a SH8111
+- 2Re_6:20cuando llegaron a S, dijo Eliseo...abreH8111
+- 2Re_6:20y miraron, y se hallaban en medio de SH8111
+- 2Re_6:24Ben-adad rey de Siria reunió...sitió a SH8111
+- 2Re_6:25gran hambre en S, a consecuencia...sitioH8111
+- 2Re_7:1y dos seahs de cebada...a la puerta de SH8111
+- 2Re_7:18vendido por un siclo...a la puerta de SH8111
+- 2Re_10:1tenía Acab en S setenta hijos; y JehúH8111
+- 2Re_10:1Jehú escribió cartas y las envió a S aH8111
+- 2Re_10:12luego se levantó de allí para ir a SH8111
+- 2Re_10:17luego que Jehú hubo llegado a S, matóH8111
+- 2Re_10:17mató...que habían quedado de Acab en SH8111
+- 2Re_10:35durmió Jehú con...y lo sepultaron en SH8111
+- 2Re_10:36reinó Jehú sobre Israel en S...28 añosH8111
+- 2Re_13:1comenzó a reinar Joacaz hijo de...en SH8111
+- 2Re_13:6la imagen de Asera permaneció en SH8111
+- 2Re_13:9durmió Joacaz con...y lo sepultaron en SH8111
+- 2Re_13:10comenzó a reinar Joás...en S; y reinóH8111
+- 2Re_13:13Joás fue sepultado en S con los reyesH8111
+- 2Re_14:14los hijos tomó en rehenes, y volvió a SH8111
+- 2Re_14:16sepultado en S con los reyes de IsraelH8111
+- 2Re_14:23comenzó a reinar Jeroboam hijo de...en SH8111
+- 2Re_15:13Salum hijo de Jabes...reinó un mes en SH8111
+- 2Re_15:14vino a S, e hirió a Salum hijo de...en SH8111
+- 2Re_15:17reinó Manahem hijo...sobre Israel...en SH8111
+- 2Re_15:23reinó Pekaía hijo de...sobre Israel en SH8111
+- 2Re_15:25lo hirió en S, en el palacio de la casaH8111
+- 2Re_15:27en el año 52 de...reinó Peka hijo...en SH8111
+- 2Re_17:1comenzó a reinar Oseas hijo de Ela en SH8111
+- 2Re_17:5el rey de Asiria invadió...y sitió a S, yH8111
+- 2Re_17:6rey de Asiria tomó S, y llevó a IsraelH8111
+- 2Re_17:24los puso en las ciudades de S, en lugarH8111
+- 2Re_17:24y poseyeron a S, y habitaron en susH8111
+- 2Re_17:26que tú...pusiste en las ciudades de SH8111
+- 2Re_17:28vino uno de los sacerdotes...cautivo de SH8111
+- 2Re_17:29templos de...que habían hecho los de SH8111
+- 2Re_18:9Salmanasar rey de los asirios contra SH8111
+- 2Re_18:10el año noveno de Oseas...fue tomada SH8111
+- 2Re_18:34¿pudieron éstos librar a S de mi mano?[[H8111]]
+- 2Re_21:13y extenderé...Jerusalén el cordel de SH8111
+- 2Re_23:18los huesos del profeta que...venido de SH8111
+- 2Re_23:19los lugares altos...en las ciudades de SH8111
+- 2Cr_18:2descendió a S para visitar a AcabH8111
+- 2Cr_22:9buscando a Ocozías...había escondido en SH8111
+- 2Cr_25:13invadieron las...desde S hasta Bet-horónH8111
+- 2Cr_25:24el oro y la plata...después volvió a SH8111
+- 2Cr_28:8tomado de ellos...botín que llevaron a SH8111
+- 2Cr_28:9salió delante del...cuando entraba en SH8111
+- 2Cr_28:15los llevaron hasta...y ellos volvieron a SH8111
+- Esd_4:10e hizo habitar en las ciudades de SH8115
+- Esd_4:17a los demás...que habitan en S, y a losH8115
+- Neh_4:2habló delante de...y del ejército de SH8111
+- Isa_7:9cabeza de Efraín es S, y la cabeza de SH8111
+- Isa_8:4despojos de S delante del rey de AsiriaH8111
+- Isa_9:9y la sabrá...Efraín y los moradores de SH8111
+- Isa_10:9¿no es Calno como...y S como Damasco?[[H8111]]
+- Isa_10:10siendo sus imágenes más que las de...SH8111
+- Isa_10:11como hice a S y a sus ídolos, ¿no haréH8111
+- Isa_36:19el dios de...¿Libraron a S de mi mano?[[H8111]]
+- Jer_23:13los profetas de S he visto desatinoH8111
+- Jer_31:5aún plantarás viñas en los montes de SH8111
+- Jer_41:5venían unos hombres de...de Silo y de SH8111
+- Eze_16:46hermana mayor es S, ella y sus hijasH8111
+- Eze_16:51S no cometió ni la mitad de tus pecadosH8111
+- Eze_16:53volver...los cautivos de S y de sus hijasH8111
+- Eze_16:55S con sus hijas, volverán a su primerH8111
+- Eze_23:4llamaron: S, Ahola; y Jerusalén, AholibaH8111
+- Eze_23:33de dolor...por el cáliz de tu hermana SH8111
+- Ose_7:1se descubrió la...y las maldades de SH8111
+- Ose_8:5tu becerro, oh S, te hizo alejarte; seH8111
+- Ose_8:6será deshecho en pedazos el becerro de SH8111
+- Ose_10:5serán atemorizados los moradores de SH8111
+- Ose_10:7S fue cortado su rey como espuma sobreH8111
+- Ose_13:16S será asolada, porque se rebeló contraH8111
+- Amó_3:9reuníos sobre los montes de S, y vedH8111
+- Amó_3:12así escaparán los...que moran en S en elH8111
+- Amó_4:1vacas de Basán...estáis en el monte de SH8111
+- Amó_6:1¡ay...de los confiados en el monte de SH8111
+- Amó_8:14que juran por el pecado de S, y dicenH8111
+- Abd_1:19poseerán...de Efraín, y los campos de SH8111
+- Miq_1:1Miqueas...que vio sobre S y JerusalénH8111
+- Miq_1:5¿cuál es la rebelión de Jacob? ¿No es S?[[H8111]]
+- Miq_1:6haré, pues, de S montones de ruinas, yH8111
+- Hec_8:5Felipe, descendiendo a la ciudad de SG8111
+- Hec_8:9ciudad, y había engañado a la gente de SG8111
+- Hec_8:14oyeron que S había recibido la palabraG8111
+- 2 Provincia romana entre Galilea y judea
+- Luc_17:11yendo Jesús...pasaba entre S y GalileaG4540
+- Jua_4:4y le era necesario pasar por SG4540
+- Jua_4:5vino...a una ciudad de S llamada SicarG4540
+- Jua_4:7una mujer de S a sacar agua; y Jesús leG4540
+- Hec_1:8me seréis testigos en Jerusalén...en SG4540
+- Hec_8:1esparcidos por las tierras de Judea y...SG4540
+- Hec_9:31las iglesias tenían paz por...Galilea y SG4540
+- Hec_15:3pasaron por...S, contando la conversiónG4540

@@ -1,0 +1,7086 @@
+---
+tipo: concordancia
+palabra: DECIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DECIR
+
+- Gén_1:3y dijo Dios: Sea la luz; y fue la luzH559
+- Gén_1:6dijo Dios: Haya expansión en...las aguasH559
+- Gén_1:9dijo también Dios: Júntense las aguas queH559
+- Gén_1:11dijo Dios: Produzca la tierra hierbaH559
+- Gén_1:14dijo luego Dios: Haya lumbreras en laH559
+- Gén_1:20dijo Dios: Produzcan las aguas seresH559
+- Gén_1:22Dios los bendijo, diciendo: FructificadH559
+- Gén_1:24dijo Dios: Produzca la tierra seresH559
+- Gén_1:26dijo Dios: Hagamos al hombre a nuestraH559
+- Gén_1:28bendijo Dios, y les dijo: FructificadH559
+- Gén_1:29dijo Dios: He aquí que os he dado todaH559
+- Gén_2:16mandó Jehová Dios al hombre, diciendoH559
+- Gén_2:18dijo...Dios: No es bueno que el hombreH559
+- Gén_2:23dijo...Esto es ahora hueso de mis huesosH559
+- Gén_3:1la serpiente era astuta...dijo a la mujerH559
+- Gén_3:1os ha dicho: No comáis de todo árbol delH559
+- Gén_3:3del árbol...dijo Dios: No comeréis de élH559
+- Gén_3:4la serpiente dijo a la mujer: No moriréisH559
+- Gén_3:9Dios llamó al hombre, y le dijo: ¿DóndeH559
+- Gén_3:11y Dios le dijo: ¿Quién te enseñó queH559
+- Gén_3:13Jehová Dios dijo a la mujer: ¿Qué es loH559
+- Gén_3:13dijo la mujer: La serpiente me engañóH559
+- Gén_3:14Dios dijo a la serpiente: Por cuanto estoH559
+- Gén_3:16a la mujer dijo: Multiplicaré en granH559
+- Gén_3:17al hombre dijo: Por cuanto obedeciste aH559
+- Gén_3:17que te mandé diciendo: No comerás de élH559
+- Gén_3:22dijo Jehová Dios: He aquí el hombre esH559
+- Gén_4:1y dijo: Por voluntad de Jehová he...varónH559
+- Gén_4:6dijo a Caín: ¿Por qué te has ensañadoH559
+- Gén_4:8y dijo Caín a su hermano Abel: SalgamosH559
+- Gén_4:9Jehová dijo a Caín: ¿Dónde está Abel tuH559
+- Gén_4:10él le dijo: ¿Qué has hecho? La voz deH559
+- Gén_4:13y dijo Caín...Grande es mi castigo paraH559
+- Gén_4:23y dijo Lamec a sus mujeres...oíd mi vozH559
+- Gén_4:25Dios (dijo ella) me ha sustituido otro
+- Gén_5:29llamó su nombre Noé, diciendo: Este nosH559
+- Gén_6:3dijo Jehová: No contenderá mi espírituH559
+- Gén_6:7dijo Jehová: Raeré de sobre la faz de laH559
+- Gén_6:13dijo, pues, Dios a Noé: He decidido elH559
+- Gén_7:1dijo luego Jehová a Noé: Entra tú y todaH559
+- Gén_8:15entonces habló Dios a Noé, diciendoH559
+- Gén_8:21y dijo Jehová en su corazón: No volveréH559
+- Gén_9:1bendijo Dios a Noé y...hijos, y les dijoH559
+- Gén_9:8habló Dios a Noé y a sus hijos...diciendoH559
+- Gén_9:12dijo Dios: Esta es la señal del pacto queH559
+- Gén_9:17dijo...Dios a Noé: Esta es la señal delH559
+- Gén_9:22lo dijo a sus dos hermanos que estabanH5046
+- Gén_9:25y dijo: Maldito sea Canaán; siervo deH559
+- Gén_9:26dijo más: Bendito por Jehová mi Dios seaH559
+- Gén_10:9por lo cual se dice: Así como NimrodH559
+- Gén_11:3se dijeron unos a otros: Vamos, hagamosH559
+- Gén_11:4dijeron: Vamos, edifiquémonos una ciudadH559
+- Gén_11:6dijo Jehová: He aquí el pueblo es unoH559
+- Gén_12:1Jehová había dicho a Abram: Vete de tuH559
+- Gén_12:4fue Abram, como Jehová le dijo; y LotH1696
+- Gén_12:7dijo: A tu descendencia daré esta tierraH559
+- Gén_12:11dijo a Sarai su mujer: He aquí, ahoraH559
+- Gén_12:12te vean los egipcios, dirán: Su mujerH559
+- Gén_12:13di que eres mi hermana, para que meH559
+- Gén_12:18y le dijo: ¿Qué es esto que has hechoH559
+- Gén_12:19¿por qué dijiste: Es mi hermanaH559
+- Gén_13:8dijo a Lot: No haya ahora altercado entreH559
+- Gén_13:14Jehová dijo a Abram, después que Lot seH559
+- Gén_14:19le bendijo, diciendo: Bendito sea AbramH559
+- Gén_14:21el rey de Sodoma dijo a Abram: Dame lasH559
+- Gén_14:23para que no digas: Yo enriquecí a AbramH559
+- Gén_15:1la palabra de Jehová a Abram...diciendoH559
+- Gén_15:3dijo también Abram: Mira que no me hasH559
+- Gén_15:4vino a él palabra de Jehová, diciendoH559
+- Gén_15:5le dijo: Mira ahora los cielos, y cuentaH559
+- Gén_15:5y le dijo: Así será tu descendenciaH559
+- Gén_15:7le dijo: Yo soy Jehová, que te saqué deH559
+- Gén_15:9Y le dijo: Traedme una becerra de tresH559
+- Gén_15:13Jehová dijo a Abram: Ten por cierto queH559
+- Gén_15:18Jehová un pacto con Abram, diciendoH559
+- Gén_16:2dijo entonces Sarai a Abram: Ya ves queH559
+- Gén_16:5Sarai dijo a Abram: Mi afrenta sea sobreH559
+- Gén_16:8y le dijo: Agar, sierva de Sarai, ¿de dóndeH559
+- Gén_16:9le dijo el ángel de Jehová: Vuélvete aH559
+- Gén_16:10le dijo también el ángel de JehováH559
+- Gén_16:11dijo el ángel de Jehová: He aquí queH559
+- Gén_16:13dijo: ¿No he visto...aquí al que me ve?[[H559]]
+- Gén_17:1le apareció Jehová y le dijo: Yo soy elH559
+- Gén_17:3se postró...Dios habló con él, diciendoH559
+- Gén_17:9dijo...Dios a Abraham: En cuanto a tiH559
+- Gén_17:15dijo también Dios a Abraham: A SaraiH559
+- Gén_17:17dijo en su corazón: ¿A hombre de cienH559
+- Gén_17:18dijo Abraham a Dios: Ojalá Ismael vivaH559
+- Gén_17:23circuncidó...como Dios le había dichoH1696
+- Gén_18:3dijo: Señor, si ahora he hallado graciaH559
+- Gén_18:5y ellos dijeron: Haz así como has dichoH1696
+- Gén_18:6Abraham...a la tienda a Sara, y le dijoH559
+- Gén_18:9le dijeron: ¿Dónde está Sara tu mujer?[[H559]]
+- Gén_18:10entonces dijo: De cierto volveré a tiH559
+- Gén_18:12se rio, pues, Sara entre sí, diciendoH559
+- Gén_18:13Jehová dijo a Abraham: ¿Por qué se haH559
+- Gén_18:13se ha reído Sara diciendo: ¿Será ciertoH559
+- Gén_18:15Sara negó, diciendo: No me reí; porqueH559
+- Gén_18:15dijo: No es así, sino que te has reídoH559
+- Gén_18:17Jehová dijo: ¿Encubriré yo a AbrahamH559
+- Gén_18:20Jehová le dijo: Por cuanto el clamorH559
+- Gén_18:23se acercó Abraham y dijo: ¿DestruirásH559
+- Gén_18:27y Abraham replicó y dijo: He aquí queH559
+- Gén_18:28dijo: No la destruiré, si hallare allíH559
+- Gén_18:29y volvió a hablarle, y dijo: Quizá seH559
+- Gén_18:30y dijo: No se enoje ahora mi Señor, siH559
+- Gén_18:31dijo: He aquí ahora que he emprendidoH559
+- Gén_18:32volvió a decir: No se enoje ahora miH559
+- Gén_19:2dijo: Ahora, mis señores, os ruego queH559
+- Gén_19:5y llamaron a Lot, y le dijeron: ¿DóndeH559
+- Gén_19:7dijo: Os ruego, hermanos míos, que noH559
+- Gén_19:12dijeron los varones a Lot: ¿Tienes aquíH559
+- Gén_19:14les dijo: Levantaos, salid de este lugarH559
+- Gén_19:15los ángeles daban prisa a Lot, diciendoH559
+- Gén_19:17los hubieron llevado fuera, dijeronH559
+- Gén_19:18Lot les dijo: No, yo os ruego, señoresH559
+- Gén_19:31la mayor dijo a la menor: Nuestro padreH559
+- Gén_19:34el día siguiente, dijo la mayor a laH559
+- Gén_20:2y dijo Abraham de Sara su mujer: Es miH559
+- Gén_20:3Dios vino a Abimelec de noche y le dijoH559
+- Gén_20:4Abimelec...dijo: Señor, ¿matarás tambiénH559
+- Gén_20:5¿no me dijo él...y ella también d: Es miH559
+- Gén_20:6le dijo Dios en sueños: Yo también séH559
+- Gén_20:8dijo todas estas palabras en los oídosH1696
+- Gén_20:9llamó Abimelec a Abraham, y le dijoH559
+- Gén_20:10dijo también...¿Qué pensabas, para queH559
+- Gén_20:11porque dije para mí: Ciertamente no hayH559
+- Gén_20:13le dije...digas de mí: Mi hermano esH559
+- Gén_20:15dijo Abimelec: He aquí mi tierra estáH559
+- Gén_20:16y a Sara dijo: He aquí he dado milH559
+- Gén_21:1visitó Jehová a Sara, como había dichoH559
+- Gén_21:2en el tiempo que Dios le había dichoH1696
+- Gén_21:6dijo Sara: Dios me ha hecho reir, yH559
+- Gén_21:7añadió: ¿Quién dijera a Abraham queH4448
+- Gén_21:10dijo a Abraham: Echa a esta sierva y aH559
+- Gén_21:12dijo Dios a Abraham: No te parezcaH559
+- Gén_21:12en todo lo que te dijere Sara, oye suH559
+- Gén_21:16porque decía: No veré cuando...mueraH559
+- Gén_21:17llamó a Agar...y le dijo: ¿Qué tienesH559
+- Gén_21:22habló Abimelec...a Abraham, diciendoH559
+- Gén_21:29y dijo Abimelec...¿Qué significan estasH559
+- Gén_22:1probó...a Abraham, y le dijo: AbrahamH559
+- Gén_22:2y dijo: Toma ahora tu hijo, tu únicoH559
+- Gén_22:2sobre uno de los montes que yo te diréH559
+- Gén_22:3Abraham...fue al lugar que Dios le dijoH559
+- Gén_22:5dijo Abraham a sus siervos: EsperadH559
+- Gén_22:7habló Isaac a Abraham su padre, y dijoH559
+- Gén_22:7él dijo: He aquí el fuego y la leña; masH559
+- Gén_22:9llegaron al lugar...Dios le había dichoH559
+- Gén_22:11le dio voces desde el...y dijo: AbrahamH559
+- Gén_22:12dijo: No extiendas tu mano sobre elH559
+- Gén_22:14por tanto se dice hoy: En el monte deH559
+- Gén_22:16dijo: Por mí mismo he jurado, diceH559
+- Gén_22:20fue dada noticia a Abraham, diciendoH559
+- Gén_23:3y habló a los hijos de Het, diciendoH559
+- Gén_23:5y respondieron...a Abraham, y le dijeronH559
+- Gén_23:8y habló con ellos, diciendo: Si tenéisH559
+- Gén_23:10respondió Efrón...a Abraham...diciendoH559
+- Gén_23:13respondió a Efrón...diciendo: Antes, siH559
+- Gén_23:14respondió Efrón a Abraham, diciendoH559
+- Gén_23:16pesó Abraham a Efrón el dinero que dijoH1696
+- Gén_24:2dijo Abraham a un criado suyo, el másH559
+- Gén_24:6Abraham le dijo: Guárdate que no...alláH559
+- Gén_24:7y me juró, diciendo: A tu descendenciaH559
+- Gén_24:12y dijo: Oh Jehová, Dios de mi señorH559
+- Gén_24:14la doncella a quien yo dijere: Baja tuH559
+- Gén_24:17el criado corrió hacia ella, y dijoH559
+- Gén_24:19cuando acabó...dijo: También para tusH559
+- Gén_24:23dijo: ¿De quién eres hija? Te ruego queH559
+- Gén_24:23digas: ¿hay en casa de tu padre lugarH5046
+- Gén_24:27y dijo: Bendito sea Jehová, Dios de miH559
+- Gén_24:30de su hermana, que decía: Así me hablóH559
+- Gén_24:31dijo: Ven, bendito de Jehová; ¿por quéH559
+- Gén_24:33dijo: No comeré hasta que haya dichoH559
+- Gén_24:34entonces dijo...soy criado de AbrahamH559
+- Gén_24:37y mi amo me hizo jurar, diciendo: NoH559
+- Gén_24:39y yo dije: Quizás la mujer no querráH559
+- Gén_24:42llegué...hoy a la fuente, y dije: JehováH559
+- Gén_24:43la doncella...a la cual dijere: Dame deH559
+- Gén_24:45le dije: Te ruego que me des de beberH559
+- Gén_24:46bajó prontamente su cántaro de...y dijoH559
+- Gén_24:47pregunté, y dije: ¿De quién eres hija?[[H559]]
+- Gén_24:50Labán y Betuel respondieron y dijeronH559
+- Gén_24:51sea mujer del hijo de...como lo ha dichoH1696
+- Gén_24:54de mañana, dijo: Enviadme a mi señorH559
+- Gén_24:56y él les dijo: No me detengáis, ya queH559
+- Gén_24:58y le dijeron: ¿Irás tú con este varón?[[H559]]
+- Gén_24:60le dijeron: Hermana nuestra, sé madreH559
+- Gén_25:22y los hijos luchaban dentro de...y dijoH559
+- Gén_25:30dijo a Jacob: Te ruego que me des aH559
+- Gén_25:32dijo Esaú: He aquí yo me voy a morirH559
+- Gén_25:33dijo Jacob: Júramelo en este día. Y élH559
+- Gén_26:2dijo...habita en la tierra que yo te diréH559
+- Gén_26:7miedo de decir: Es mi mujer; pensandoH559
+- Gén_26:9llamó Abimelec a Isaac, y dijo: He aquíH559
+- Gén_26:9¿cómo, pues dijiste: Es mi hermana?[[H559]]
+- Gén_26:9dije: Quizá moriré por causa de ellaH559
+- Gén_26:10Abimelec dijo: ¿Por qué nos has hechoH559
+- Gén_26:11Abimelec mandó a...el pueblo, diciendoH559
+- Gén_26:16dijo Abimelec a Isaac: Apártate deH559
+- Gén_26:20riñeron con los...de Isaac, diciendoH559
+- Gén_26:22dijo...ahora Jehová nos ha prosperadoH559
+- Gén_26:24le apareció Jehová...noche, y le dijoH559
+- Gén_26:27les dijo Isaac: ¿Por qué venís a míH559
+- Gén_26:28y dijimos: Haya ahora juramento entreH559
+- Gén_26:32pozo...le dijeron: Hemos hallado aguaH559
+- Gén_27:1llamó a Esaú...y le dijo: Hijo mío. Y élH559
+- Gén_27:2él dijo: He aquí ya soy viejo, no séH559
+- Gén_27:6Rebeca habló a Jacob su hijo, diciendoH559
+- Gén_27:6tu padre que hablaba con Esaú...diciendoH559
+- Gén_27:11Jacob dijo a Rebeca su madre: He aquíH559
+- Gén_27:18y dijo: Padre mío. E Isaac respondióH559
+- Gén_27:19Jacob dijo...he hecho como me dijisteH559
+- Gén_27:21Isaac dijo a Jacob: Acércate ahora, yH559
+- Gén_27:22le palpó, y dijo: La voz es la voz deH559
+- Gén_27:24dijo: ¿Eres tú mi hijo Esaú? Y JacobH559
+- Gén_27:25dijo: Acércamela, y comeré de la cazaH559
+- Gén_27:26le dijo Isaac su padre: Acércate ahoraH559
+- Gén_27:27le bendijo, diciendo: Mira, el olor deH559
+- Gén_27:31hizo él...y trajo a su padre, y le dijoH559
+- Gén_27:32Isaac su padre le dijo: ¿Quién eres tú?[[H559]]
+- Gén_27:32¿quién eres...él le dijo: Yo soy tu hijoH559
+- Gén_27:33y se estremeció Isaac...y dijo: ¿QuiénH559
+- Gén_27:34dijo: Bendíceme también a mí, padreH559
+- Gén_27:35y él dijo: Vino tu hermano con engañoH559
+- Gén_27:36dijo: ¿No has guardado bendición paraH559
+- Gén_27:37dijo a Esaú: He aquí yo le he puestoH559
+- Gén_27:39Isaac su padre habló y le dijo: He aquíH559
+- Gén_27:41aborreció Esaú a...y dijo en su corazónH559
+- Gén_27:42fueron dichas a Rebeca las palabras deH5046
+- Gén_27:42llamó a Jacob su hijo menor, y le dijoH559
+- Gén_27:46dijo Rebeca a Isaac: Fastidio tengo deH559
+- Gén_28:1Isaac...lo bendijo, y le mandó diciendoH559
+- Gén_28:6le había mandado diciendo: No tomarásH559
+- Gén_28:13Jehová estaba en lo alto de ella...dijoH559
+- Gén_28:15hasta que haya hecho lo que te he dichoH1696
+- Gén_28:16y despertó Jacob de su sueño, y dijoH559
+- Gén_28:17tuvo miedo, y dijo: Cuán terrible esH559
+- Gén_28:20e hizo Jacob voto, diciendo: Si fuereH559
+- Gén_29:4les dijo Jacob: Hermanos míos, ¿de dóndeH559
+- Gén_29:5les dijo: ¿Conocéis a Labán...dijeron: SíH559
+- Gén_29:6les dijo: ¿Está bien? Y ellos dijeronH559
+- Gén_29:7y él dijo: He aquí es aún muy de díaH559
+- Gén_29:12Jacob dijo a Raquel que él era hermanoH5046
+- Gén_29:14Labán le dijo: Ciertamente hueso míoH559
+- Gén_29:15dijo Labán...Dime cuál será tu salarioH559
+- Gén_29:18Jacob amó a Raquel, y dijo...te serviréH559
+- Gén_29:21dijo Jacob a Labán: Dame mi mujerH559
+- Gén_29:25Jacob dijo a Labán: ¿Qué es esto queH559
+- Gén_29:32dijo: Ha mirado Jehová mi aflicciónH559
+- Gén_29:33,34,35y dio a luz un hijo, y dijoH559
+- Gén_30:1Raquel...decía a Jacob: Dame hijos, o siH559
+- Gén_30:2Jacob se enojó...y dijo: ¿Soy yo acasoH559
+- Gén_30:3dijo: He aquí mi sierva Bilha; llégateH559
+- Gén_30:6dijo entonces Raquel: Me juzgó Dios, yH559
+- Gén_30:8y dijo Raquel: Con luchas de Dios heH559
+- Gén_30:11dijo Lea: Vino la ventura; y llamó suH559
+- Gén_30:13dijo Lea...las mujeres me dirán dichosaH559
+- Gén_30:14dijo Raquel a Lea: Te ruego que me desH559
+- Gén_30:15dijo Raquel: Pues dormirá contigo estaH559
+- Gén_30:16salió Lea a él, y le dijo: Llégate a míH559
+- Gén_30:18dijo Lea: Dios...dado mi recompensa, porH559
+- Gén_30:20y dijo Lea: Dios me ha dado una buenaH559
+- Gén_30:23y dijo: Dios ha quitado mi afrentaH559
+- Gén_30:24llamó su nombre José, diciendo...hijoH559
+- Gén_30:25Jacob dijo a Labán: Envíame, e iré aH559
+- Gén_30:28y dijo: Señálame tu salario, y yo loH559
+- Gén_30:31y él dijo: ¿Qué te daré? Y respondióH559
+- Gén_30:34dijo...Labán: Mira, sea como tú dicesH559
+- Gén_31:1los hijos de Labán, que decían: JacobH559
+- Gén_31:3también Jehová dijo a Jacob: Vuélvete aH559
+- Gén_31:5dijo: Veo que el semblante de vuestroH559
+- Gén_31:8si él decía así: Los pintados serán tuH559
+- Gén_31:8decía así: Los listados serán tu salarioH559
+- Gén_31:11me dijo el ángel...y yo dije: Heme aquíH559
+- Gén_31:12él dijo: Alza ahora tus ojos, y verásH559
+- Gén_31:14y le dijeron: ¿Tenemos acaso parte oH559
+- Gén_31:16pues, haz todo lo que Dios te ha dichoH559
+- Gén_31:22y al tercer día fue dicho a Labán queH5046
+- Gén_31:24vino Dios a Labán en...noche, y le dijoH559
+- Gén_31:26y dijo Labán a Jacob: ¿Qué has hechoH559
+- Gén_31:29el Dios de tu padre me habló...diciendoH559
+- Gén_31:31dijo a Labán: Porque tuve miedo; puesH559
+- Gén_31:35dijo a su padre: No se enoje mi señorH559
+- Gén_31:36dijo a Labán: ¿Qué transgresión es laH559
+- Gén_31:43Labán y dijo a Jacob: Las hijas sonH559
+- Gén_31:46y dijo Jacob a sus hermanos: RecogedH559
+- Gén_31:48Labán dijo: Este majano es testigo hoyH559
+- Gén_31:49cuanto dijo: Atalaye Jehová entre tú yH559
+- Gén_31:51dijo más Labán a Jacob: He aquí esteH559
+- Gén_32:2dijo Jacob cuando los vio: Campamento deH559
+- Gén_32:4diciendo: Así diréis a mi señor EsaúH559
+- Gén_32:4mi señor Esaú: Así dice tu siervo JacobH559
+- Gén_32:5envío a decirlo a mi señor, para hallarH5046
+- Gén_32:6volvieron a Jacob, diciendo: Vinimos aH559
+- Gén_32:8dijo: Si viene Esaú...y lo ataca, el otroH559
+- Gén_32:9y dijo Jacob: Dios de mi padre AbrahamH559
+- Gén_32:9Jehová, que me dijiste: Vuélvete a tuH559
+- Gén_32:12y tú has dicho: Yo te haré bien, y tuH559
+- Gén_32:16dijo a sus siervos: Pasad delante de míH559
+- Gén_32:17mandó al primero, diciendo: Si Esaú miH559
+- Gén_32:17preguntare, diciendo: ¿De quién eresH559
+- Gén_32:18entonces dirás: Es un presente de tuH559
+- Gén_32:19mandó...a todos los que iban...diciendoH559
+- Gén_32:20diréis...He aquí tu siervo Jacob vieneH559
+- Gén_32:20porque dijo: Apaciguaré su ira con elH559
+- Gén_32:26y dijo: Déjame, porque raya el alba, yH559
+- Gén_32:27el varón le dijo: ¿Cuál es tu nombre?[[H559]]
+- Gén_32:28y el varón le dijo: No se dirá más tuH559
+- Gén_32:29Jacob le preguntó, y dijo: DeclárameH559
+- Gén_32:30porque dijo: Vi a Dios cara a cara, y
+- Gén_33:5vio a las...y dijo: ¿Quiénes son éstos?[[H559]]
+- Gén_33:8Esaú dijo: ¿Qué te propones con todosH559
+- Gén_33:9dijo Esaú: Suficiente tengo yo, hermanoH559
+- Gén_33:10dijo Jacob: No, yo te ruego...acepta miH559
+- Gén_33:12Esaú dijo: Anda, vamos; y yo...delanteH559
+- Gén_33:13y Jacob le dijo: Mi señor sabe que losH559
+- Gén_33:15Esaú dijo: Dejaré ahora contigo de laH559
+- Gén_33:15Jacob dijo: ¿Para qué esto? Halle yoH559
+- Gén_34:4habló Siquem a Hamor su padre diciendoH559
+- Gén_34:8y Hamor habló con ellos, diciendo: ElH559
+- Gén_34:11Siquem también dijo al padre de DinaH559
+- Gén_34:11halle yo gracia...daré lo que...dijereisH559
+- Gén_34:12mucha dote...yo daré cuanto me dijereisH559
+- Gén_34:14y les dijeron: No podemos hacer estoH559
+- Gén_34:20hablaron a los varones de su...diciendoH559
+- Gén_34:30entonces dijo Jacob a Simeón y a LevíH559
+- Gén_35:1dijo Dios a Jacob: Levántate y sube aH559
+- Gén_35:2Jacob dijo a su familia y a todos losH559
+- Gén_35:10le dijo Dios: Tu nombre es Jacob; noH559
+- Gén_35:11también le dijo Dios: Yo soy el DiosH559
+- Gén_35:17que le dijo la partera: No temas, queH559
+- Gén_37:6él les dijo: Oíd ahora este sueño queH559
+- Gén_37:9sueño...contó a sus hermanos, diciendoH559
+- Gén_37:10su padre...le dijo: ¿Qué sueño es esteH559
+- Gén_37:13y dijo Israel a José: Tus hermanosH559
+- Gén_37:14e Israel le dijo: Vé ahora, mira cómoH559
+- Gén_37:15y le preguntó aquel hombre, diciendoH559
+- Gén_37:17se han ido de aquí; y yo les oí decirH559
+- Gén_37:19dijeron el uno al otro: He aquí vieneH559
+- Gén_37:20diremos Alguna mala bestia lo devoróH559
+- Gén_37:21Rubén...lo libró de sus manos, y dijoH559
+- Gén_37:22les dijo Rubén: No derraméis sangreH559
+- Gén_37:26Judá dijo a sus hermanos: ¿Qué provechoH559
+- Gén_37:30y volvió a sus hermanos, y dijo: ElH559
+- Gén_37:32y la trajeron a su padre, y dijeronH559
+- Gén_37:33él la reconoció, y dijo: La túnica deH559
+- Gén_37:35él no quiso recibir consuelo, y dijoH559
+- Gén_38:8Judá dijo a Onán: Llégate a la mujer deH559
+- Gén_38:11y Judá dijo a Tamar su nuera: QuédateH559
+- Gén_38:11dijo: No sea que muera él también comoH559
+- Gén_38:13fue dado aviso a Tamar, diciendo: HeH559
+- Gén_38:16se apartó del camino hacia...y le dijoH559
+- Gén_38:16dijo: ¿Qué me darás por llegarte a mí?[[H559]]
+- Gén_38:17ella dijo: Dame una prenda hasta queH559
+- Gén_38:18Judá dijo: ¿Qué prenda te daré? EllaH559
+- Gén_38:21y preguntó a los hombres de...diciendoH559
+- Gén_38:21le dijeron: No ha estado aquí rameraH559
+- Gén_38:22él se volvió a Judá, y dijo: No la heH559
+- Gén_38:22también los hombres del lugar dijeronH559
+- Gén_38:23Judá dijo: Tómaselo para sí, para queH559
+- Gén_38:24dado aviso a Judá, diciendo: Tamar tuH559
+- Gén_38:24y Judá dijo: Sacadla, y sea quemadaH559
+- Gén_38:25envió a decir a su suegro: Del varónH559
+- Gén_38:25dijo: Mira ahora de quién son estasH559
+- Gén_38:26Judá...dijo: Más justa es ella que yoH559
+- Gén_38:28de grana, diciendo: Este salió primeroH559
+- Gén_38:29salió su hermano, y ella dijo: ¡QuéH559
+- Gén_39:7la mujer...puso sus ojos en José, y dijoH559
+- Gén_39:8no quiso, y dijo a la mujer de su amoH559
+- Gén_39:12ella lo asió...diciendo: Duerme conmigoH559
+- Gén_39:14llamó a los de...y les habló diciendoH559
+- Gén_39:17habló ella...diciendo: El siervo hebreoH559
+- Gén_39:19diciendo: Así me ha tratado tu siervoH559
+- Gén_40:7preguntó...diciendo: ¿Por qué parecenH559
+- Gén_40:8ellos le dijeron: Hemos tenido un sueñoH559
+- Gén_40:8entonces les dijo José: ¿No son de DiosH559
+- Gén_40:9contó su sueño a José, y le dijo: YoH559
+- Gén_40:12,18dijo: Esta es su interpretación: losH559
+- Gén_40:16dijo a José: También yo soñé que veíaH559
+- Gén_41:9diciendo: Me acuerdo hoy de mis faltasH559
+- Gén_41:15y dijo Faraón a José: Yo he tenido unH559
+- Gén_41:15he oído decir de ti, que oyes sueñosH559
+- Gén_41:16respondió...diciendo: No está en míH559
+- Gén_41:17dijo a José: En mi sueño me parecía queH1696
+- Gén_41:24he dicho a los magos, mas no hay quienH559
+- Gén_41:38y dijo Faraón a sus siervos: ¿AcasoH559
+- Gén_41:39dijo Faraón a José: Pues que Dios teH559
+- Gén_41:41dijo además Faraón a José: He aquí yoH559
+- Gén_41:44dijo Faraón a José: Yo soy Faraón; yH559
+- Gén_41:51porque dijo: Dios me hizo olvidar todo
+- Gén_41:52dijo: Dios me hizo fructificar en la
+- Gén_41:54los siete años...como José había dichoH559
+- Gén_41:55dijo Faraón a todos los egipcios: Id aH559
+- Gén_41:55id a José, y haced lo que él os dijereH559
+- Gén_42:1dijo a sus hijos: ¿Por qué os estáisH559
+- Gén_42:2dijo...he oído que hay víveres en EgiptoH559
+- Gén_42:4porque dijo: No sea que le acontezcaH559
+- Gén_42:7y les dijo: ¿De dónde habéis venido?[[H559]]
+- Gén_42:9José...les dijo: Espías sois: por ver loH559
+- Gén_42:12dijo: No; para ver lo descubierto delH559
+- Gén_42:14les dijo: Eso es lo que os he dichoH559
+- Gén_42:18tercer día les dijo José: Haced estoH559
+- Gén_42:21y decían el uno al otro...hemos pecadoH559
+- Gén_42:22Rubén les respondió, diciendo: ¿No osH559
+- Gén_42:22os hablé yo y dije: No pequéis contraH559
+- Gén_42:28dijo a sus hermanos: Mi dinero se meH559
+- Gén_42:28espantados dijeron el uno al otro: ¿QuéH559
+- Gén_42:29lo que les había acontecido, diciendoH559
+- Gén_42:31dijimos: Somos hombres honrados, nuncaH559
+- Gén_42:33el señor de la tierra, nos dijo: En estoH559
+- Gén_42:36padre Jacob les dijo: Me habéis privadoH559
+- Gén_42:37y Rubén habló...diciendo: Harás morir aH559
+- Gén_42:38y él dijo: No descenderá mi hijo conH559
+- Gén_43:2les dijo su padre: Volved, y comprad paraH559
+- Gén_43:3respondió Judá, diciendo: Aquel varón nosH559
+- Gén_43:3protestó...diciendo: No veréis mi rostroH559
+- Gén_43:5varón nos dijo: No veréis mi rostro si noH559
+- Gén_43:6dijo...Israel: ¿Por qué me hicisteis tantoH559
+- Gén_43:7nos preguntó...diciendo: ¿Vive aún vuestroH559
+- Gén_43:7¿acaso podíamos saber que él nos diríaH559
+- Gén_43:8dijo a Israel su padre: Envía al jovenH559
+- Gén_43:16dijo al mayordomo de su casa: Lleva aH559
+- Gén_43:17hizo el hombre como José dijo, y llevóH559
+- Gén_43:18tuvieron temor...y decían: Por el dineroH559
+- Gén_43:20y dijeron: Ay, señor nuestro, nosotrosH559
+- Gén_43:27dijo: ¿Vuestro padre, el...que dijisteisH559
+- Gén_43:29dijo: ¿Es éste vuestro hermano menorH559
+- Gén_43:29y dijo: Dios tenga misericordia de tiH559
+- Gén_43:31salió, y se contuvo, y dijo: Poned panH559
+- Gén_44:1diciendo: Llena de alimento los costalesH559
+- Gén_44:2pondrás mi copa...él hizo como dijo JoséH1696
+- Gén_44:4dijo José a su mayordomo Levántate yH559
+- Gén_44:4y cuando los alcances, diles: ¿Por quéH559
+- Gén_44:6él los alcanzó, les dijo estas palabrasH1696
+- Gén_44:7¿por qué dice nuestro señor tales cosas?[[H559]]
+- Gén_44:10él dijo: También ahora sea conforme aH559
+- Gén_44:15les dijo José: ¿Qué acción es esta queH559
+- Gén_44:16dijo Judá: ¿Qué diremos a mi señor?[[H559]]
+- Gén_44:18Judá se acercó...y dijo: Ay, señor míoH559
+- Gén_44:19señor preguntó...diciendo: ¿Tenéis padreH559
+- Gén_44:21y tú dijiste a tus siervos: TraédmeloH559
+- Gén_44:22dijimos a mi señor: El joven no puedeH559
+- Gén_44:23dijiste a tus siervos: Si vuestro hermanoH559
+- Gén_44:25dijo...Volved a comprarnos un poco deH559
+- Gén_44:27tu siervo mi padre nos dijo: VosotrosH559
+- Gén_44:32salió por fiador del...diciendo: Si noH559
+- Gén_45:3dijo José a sus hermanos: Yo soy JoséH559
+- Gén_45:4dijo José a sus hermanos: Acercaos ahoraH559
+- Gén_45:4y él dijo: Yo soy José vuestro hermanoH559
+- Gén_45:9decidle: Así dice tu hijo José: Dios meH559
+- Gén_45:16se oyó la noticia en la casa...diciendoH559
+- Gén_45:17dijo Faraón a José: Dí a tus hermanosH559
+- Gén_45:24él les dijo: No riñáis por el caminoH559
+- Gén_45:26nuevas, diciendo: José vive aún; y él esH559
+- Gén_45:28dijo Israel: Basta; José mi hijo viveH559
+- Gén_46:2habló Dios a Israel en...y dijo: JacobH559
+- Gén_46:3dijo: Yo soy Dios, el Dios de tu padreH559
+- Gén_46:30Israel dijo a José: Muera yo ahora, yaH559
+- Gén_46:31José dijo a sus hermanos, y a la casaH559
+- Gén_46:33y cuando Faraón os llamare y dijereH559
+- Gén_46:34diréis: Hombres de ganadería han sidoH559
+- Gén_47:1y dijo: Mi padre y mis hermanos, y susH559
+- Gén_47:3y Faraón dijo a sus hermanos: ¿Cuál esH559
+- Gén_47:4dijeron además a Faraón: Para morar enH559
+- Gén_47:5Faraón habló a José, diciendo: Tu padreH559
+- Gén_47:8dijo Faraón a Jacob: ¿Cuántos son losH559
+- Gén_47:15vino todo Egipto...diciendo: Danos panH559
+- Gén_47:16José dijo: Dad vuestros ganados y yo osH559
+- Gén_47:18vinieron a él el segundo año...dijeronH559
+- Gén_47:23y José dijo al pueblo: He aquí os heH559
+- Gén_47:29llamó a José su hijo, y le dijo: Si heH559
+- Gén_47:30y José respondió: Haré como tú dicesH559
+- Gén_47:31Israel dijo: Júramelo. Y José le juróH559
+- Gén_48:1dijeron a José...tu padre está enfermoH559
+- Gén_48:2se le hizo saber a Jacob, diciendo: HeH559
+- Gén_48:3y dijo a José: El Dios Omnipotente meH559
+- Gén_48:4me dijo: He aquí yo te haré crecer, y teH559
+- Gén_48:8y vio Israel los hijos de José, y dijoH559
+- Gén_48:9y él dijo: Acércalos ahora a mí, y losH559
+- Gén_48:11dijo Israel a José: No pensaba yo verH559
+- Gén_48:15bendijo a José, diciendo: El Dios enH559
+- Gén_48:18dijo José a su padre: No así, padre míoH559
+- Gén_48:19su padre no quiso, y dijo: Lo sé, hijoH559
+- Gén_48:20diciendo: En ti bendecirá Israel, dH559
+- Gén_48:21dijo Israel a José: He aquí yo mueroH559
+- Gén_49:1llamó Jacob a sus hijos, y dijo: JuntaosH559
+- Gén_49:28y esto fue lo que su padre les dijo, alH1696
+- Gén_49:29y les dijo: Yo voy a ser reunido conH559
+- Gén_50:4habló José a...casa de Faraón, diciendoH559
+- Gén_50:4que habléis en oídos de Faraón, diciendoH559
+- Gén_50:5mi padre me hizo jurar, diciendo: He aquíH559
+- Gén_50:6y Faraón dijo: Vé, y sepulta a tu padreH559
+- Gén_50:11viendo los...el llanto...dijeron: LlantoH559
+- Gén_50:15dijeron: Quizá nos aborrecerá José, yH559
+- Gén_50:16y enviaron a decir a José: Tu padreH559
+- Gén_50:16mandó antes de su muerte, diciendoH559
+- Gén_50:17así diréis a José: Te ruego que perdonesH559
+- Gén_50:18se postraron...y dijeron: Henos aquí porH559
+- Gén_50:24y José dijo a sus hermanos: Yo voy aH559
+- Gén_50:25diciendo...llevar de aquí mis huesosH559
+- Éxo_1:8un nuevo rey que no conocía a...y dijoH559
+- Éxo_1:15habló el rey...a las parteras...les dijoH559
+- Éxo_1:18hizo llamar a las parteras...les dijoH559
+- Éxo_1:22Faraón mandó a todo su pueblo, diciendoH559
+- Éxo_2:6dijo: De los niños de los hebreos es ésteH559
+- Éxo_2:7su hermana dijo a la hija de Faraón: ¿IréH559
+- Éxo_2:9dijo la hija de Faraón: Lleva a este niñoH559
+- Éxo_2:10y le puso por nombre Moisés, diciendoH559
+- Éxo_2:13dijo al que maltrataba al otro: ¿Por quéH559
+- Éxo_2:14dijo: Ciertamente...ha sido descubiertoH559
+- Éxo_2:18les dijo: ¿Por qué habéis venido hoy tanH559
+- Éxo_2:20dijo a sus hijas: ¿Dónde está? ¿Por quéH559
+- Éxo_2:22dijo: Forastero soy en tierra ajenaH559
+- Éxo_3:3Moisés dijo: Iré yo ahora y veré estaH559
+- Éxo_3:4lo llamó Dios...y dijo: ¡Moisés, Moisés![[H559]]
+- Éxo_3:5dijo: No te acerques; quita tu calzado deH559
+- Éxo_3:6dijo: Yo soy el Dios de tu padre, Dios deH559
+- Éxo_3:7dijo luego...Bien he visto la aflicción deH559
+- Éxo_3:13dijo Moisés a Dios: He aquí que llego yoH559
+- Éxo_3:13y les digo: El Dios de vuestros padresH559
+- Éxo_3:14así dirás a los hijos de Israel: Yo soyH559
+- Éxo_3:15además dijo Dios a Moisés: Así dirás aH559
+- Éxo_3:16vé, y reúne a los ancianos de...y dilesH559
+- Éxo_3:16me apareció diciendo: En verdad os heH559
+- Éxo_3:17he dicho: Yo os sacaré de la aflicciónH559
+- Éxo_3:18le diréis: Jehová el Dios de los hebreosH559
+- Éxo_4:1respondió diciendo...ellos no me creeránH559
+- Éxo_4:1porque dirán: No te ha aparecido JehováH559
+- Éxo_4:2Jehová dijo: ¿Qué es eso que tienes en tuH559
+- Éxo_4:3dijo: Échala en tierra. Y él la echó enH559
+- Éxo_4:4dijo Jehová a Moisés: Extiende tu manoH559
+- Éxo_4:6dijo además Jehová: Mete ahora tu manoH559
+- Éxo_4:7dijo: Vuelve a meter tu mano en tu senoH559
+- Éxo_4:10dijo Moisés a Jehová: ¡Ay, Señor! nuncaH559
+- Éxo_4:13y él dijo: ¡Ay, Señor! envía, te ruegoH559
+- Éxo_4:14Jehová se enojó contra Moisés, y dijoH559
+- Éxo_4:18le dijo: Iré...Jetro dijo...Vé en pazH559
+- Éxo_4:19dijo...Jehová a Moisés en Madián: Vé yH559
+- Éxo_4:21y dijo Jehová a Moisés: Cuando hayasH559
+- Éxo_4:22y dirás a Faraón: Jehová ha dicho asíH559
+- Éxo_4:23ya te he dicho que dejes ir a mi hijoH559
+- Éxo_4:25Séfora...y lo echó a sus pies, diciendoH559
+- Éxo_4:26y ella dijo: Esposo de sangre, a causaH559
+- Éxo_4:27y Jehová dijo a Aarón: Vé a recibir aH559
+- Éxo_4:30todas las cosas que Jehová había dichoH1696
+- Éxo_5:1y Aarón entraron a...Faraón y le dijeronH559
+- Éxo_5:1Jehová el Dios de los hebreos dice asíH559
+- Éxo_5:3y ellos dijeron: El Dios de los hebreosH559
+- Éxo_5:4el rey...dijo: Moisés y Aarón, ¿por quéH559
+- Éxo_5:5dijo también Faraón: He aquí el puebloH559
+- Éxo_5:6mandó Faraón...a sus capataces, diciendoH559
+- Éxo_5:8por eso levantan la voz diciendo: VamosH559
+- Éxo_5:10hablaron...diciendo: Así ha dicho FaraónH559
+- Éxo_5:13los apremiaban, diciendo: Acabad vuestraH559
+- Éxo_5:14diciendo: ¿Por que no habéis cumplidoH559
+- Éxo_5:15y se quejaron a él, diciendo: ¿Por qué loH559
+- Éxo_5:16no se da paja a...y con todo nos dicenH559
+- Éxo_5:17y por eso decís: Vamos y ofrezcamosH559
+- Éxo_5:19se vieron en aflicción, al decírselesH559
+- Éxo_5:21dijeron: Mire Jehová sobre vosotros, yH559
+- Éxo_5:22Moisés se volvió a Jehová, y dijo: SeñorH559
+- Éxo_6:2habló todavía Dios a Moisés, y le dijoH559
+- Éxo_6:6por tanto, dirás a los hijos de IsraelH559
+- Éxo_6:10,29; 7:8; 12:1; 13:1; 14:1; 16:11; 25:1; 30:11,17,22; 31:1,12; 40:1; Lev_4:1; 5:14; 6:1,8,19,24; 7:22,28; 8:1; 10:8; 11:1; 12:1; 13:1; 14:1,33; 15:1; 17:1; 18:1; 19:1; 20:1; 21:16; 22:1,17,26; 23:1,9,23,26,33; 24:1,13; 25:1; 27:1; Núm_1:1,48; 2:1; 3:5,11,14,44; 4:1,17,21; 5:1,5,11; 6:1,22; 7:4; 8:1,5,23; 9:1,9; 10:1; 13:1; 14:26; 15:1,17,37; 16:20,23,36,44; 17:1; 18:25; 19:1; 20:7,23; 25:10,16; 26:1,52; 27:6; 28:1; 31:1,25; 33:50; 34:1,16; 35:1,9Jehová habló a Moisés...diciendoH559
+- Éxo_6:26y aquel Moisés a los cuales Jehová dijoH559
+- Éxo_6:29di a Faraón...las cosas que yo te digoH559
+- Éxo_7:1Jehová dijo a Moisés: Mira, yo te heH559
+- Éxo_7:2tú dirás todas las cosas que yo te mandeH1696
+- Éxo_7:9dirás a Aarón: Toma tu vara, y échalaH559
+- Éxo_7:13se endureció...como Jehová lo había dichoH1696
+- Éxo_7:14Jehová dijo a Moisés...corazón de FaraónH559
+- Éxo_7:16y dile: Jehová el Dios de los hebreosH559
+- Éxo_7:16me ha enviado a ti, diciendo: Deja ir aH559
+- Éxo_7:17así ha dicho Jehová: En esto conocerásH559
+- Éxo_7:19dijo a Moisés: Di a Aarón: Toma tu varaH559
+- Éxo_7:22no los escuchó...Jehová lo había dichoH1696
+- Éxo_8:1entonces Jehová dijo a Moisés: Entra a laH559
+- Éxo_8:1entra a...Faraón y dile: Jehová ha dichoH559
+- Éxo_8:5dijo a Moisés: Di a Aarón: Extiende tuH559
+- Éxo_8:8les dijo: Orad a Jehová para que quiteH559
+- Éxo_8:9dijo Moisés a Faraón...cuándo debo orarH559
+- Éxo_8:10y él dijo: Mañana. Y Moisés respondióH559
+- Éxo_8:15endureció...como Jehová lo había dichoH1696
+- Éxo_8:16Jehová dijo a Moisés: Di a Aarón...varaH559
+- Éxo_8:19los hechiceros dijeron a Faraón: Dedo deH1696
+- Éxo_8:20dijo a Moisés: Levántate de mañana yH559
+- Éxo_8:25llamó a Moisés y a Aarón, y les dijoH559
+- Éxo_8:27sacrificios a...Dios, como él nos diráH559
+- Éxo_8:28dijo Faraón: Yo os dejaré ir para queH559
+- Éxo_9:1Jehová dijo a Moisés: Entra a...de FaraónH559
+- Éxo_9:1,13dile: Jehová...dice así: Deja ir aH559
+- Éxo_9:5Jehová fijó plazo, diciendo: Mañana haráH559
+- Éxo_9:8Jehová dijo a Moisés y a Aarón: TomadH559
+- Éxo_9:12como Jehová lo había dicho a MoisésH1696
+- Éxo_9:13dijo a Moisés: Levántate de mañana, yH559
+- Éxo_9:22Jehová dijo a Moisés: Extiende tu manoH559
+- Éxo_9:27y les dijo: He pecado esta vez; JehováH559
+- Éxo_9:35como Jehová lo había dicho por...MoisésH1696
+- Éxo_10:1dijo a Moisés: Entra a la presencia deH559
+- Éxo_10:3y le dijeron: Jehová el Dios...ha dichoH559
+- Éxo_10:7los siervos de Faraón le dijeron: ¿HastaH559
+- Éxo_10:8llamados ante Faraón, el cual les dijoH559
+- Éxo_10:10les dijo: ¡Así sea Jehová con vosotros![[H559]]
+- Éxo_10:12,21dijo a Moisés: Extiende tu manoH559
+- Éxo_10:16dijo: He pecado contra Jehová vuestroH559
+- Éxo_10:24a Moisés y dijo: Id, servid a JehováH559
+- Éxo_10:28dijo Faraón: Retírate de mí; guárdateH559
+- Éxo_10:29bien has dicho; no veré más tu rostroH559
+- Éxo_11:1Jehová dijo a Moisés: Una plaga traeréH559
+- Éxo_11:4dijo...Moisés: Jehová ha dicho así: A laH559
+- Éxo_11:8e inclinados delante de mí dirán: VeteH559
+- Éxo_11:9dijo a Moisés: Faraón no os oirá, paraH559
+- Éxo_12:3diciendo...tómese cada uno un corderoH559
+- Éxo_12:21Moisés...dijo: Sacad y tomaos corderosH559
+- Éxo_12:26cuando os dijeren...¿Qué es este ritoH559
+- Éxo_12:31hizo llamar a Moisés y a...y les dijoH559
+- Éxo_12:31id, servid a Jehová, como habéis dichoH1696
+- Éxo_12:32y vuestras vacas, como habéis dicho, eH1696
+- Éxo_12:33egipcios...decían: Todos somos muertosH559
+- Éxo_12:43Jehová dijo a Moisés y a Aarón: EstaH559
+- Éxo_13:3Moisés dijo al pueblo: Tened memoria deH559
+- Éxo_13:8contarás...a tu hijo, diciendo: Se haceH559
+- Éxo_13:14te pregunte tu hijo, diciendo: ¿Qué esH559
+- Éxo_13:14le dirás: Jehová nos sacó...de EgiptoH559
+- Éxo_13:17dijo Dios: Para que no se arrepienta elH559
+- Éxo_13:19diciendo...haréis subir mis huesos deH559
+- Éxo_14:2di a los...de Israel que den la vueltaH1696
+- Éxo_14:3dirá de los hijos de Israel: EncerradosH559
+- Éxo_14:5dijeron: ¿Cómo hemos hecho...dejado ir aH559
+- Éxo_14:11dijeron a Moisés: ¿No había sepulcrosH559
+- Éxo_14:12te hablamos...diciendo: Déjanos servirH559
+- Éxo_14:13dijo al pueblo: No temáis; estad firmesH559
+- Éxo_14:15dijo a Moisés...Dí...Israel que marchenH559
+- Éxo_14:25egipcios dijeron: Huyamos de...de IsraelH559
+- Éxo_14:26dijo a Moisés: Extiende tu mano sobreH559
+- Éxo_15:1cantó...este cántico a Jehová, y dijeronH559
+- Éxo_15:9el enemigo dijo: Perseguiré, apresaréH559
+- Éxo_15:24el pueblo murmuró...y dijo: ¿Qué hemosH559
+- Éxo_15:26dijo: Si oyeres atentamente la voz deH559
+- Éxo_16:3les decían los hijos de Israel: OjaláH559
+- Éxo_16:4Jehová dijo a Moisés...os haré llover panH559
+- Éxo_16:6dijeron Moisés y Aarón a...en la tardeH559
+- Éxo_16:8dijo también Moisés: Jehová os dará enH559
+- Éxo_16:9dijo Moisés a Aarón: Dí...Acercaos a laH559
+- Éxo_16:12diciendo: Al caer la tarde comeréisH559
+- Éxo_16:15dijeron unos a otros: ¿Qué es esto?[[H559]]
+- Éxo_16:15Moisés les dijo: Es el pan que JehováH559
+- Éxo_16:19dijo Moisés: Ninguno deje nada de elloH559
+- Éxo_16:23y él les dijo: Esto es lo que ha dichoH559, [[H1696]]
+- Éxo_16:25dijo Moisés: Comedlo...es día de reposoH559
+- Éxo_16:28Jehová dijo a Moisés: ¿Hasta cuándo noH559
+- Éxo_16:32dijo Moisés: Esto es lo que Jehová haH559
+- Éxo_16:33dijo Moisés a Aarón: Toma una vasija yH559
+- Éxo_17:2dijeron: Danos agua...Y Moisés les dijoH559
+- Éxo_17:3murmuró contra Moisés, y dijo: ¿Por quéH559
+- Éxo_17:4clamó Moisés a Jehová, diciendo: ¿QuéH559
+- Éxo_17:5dijo a Moisés: Pasa delante del puebloH559
+- Éxo_17:7a Jehová, diciendo: ¿Está, pues, JehováH559
+- Éxo_17:9dijo Moisés a Josué: Escógenos varonesH559
+- Éxo_17:10hizo...como le dijo Moisés, peleandoH559
+- Éxo_17:14Jehová dijo a Moisés: Escribe esto paraH559
+- Éxo_17:14dí a Josué que raeré del...la memoria deH7760
+- Éxo_17:16dijo: Por cuanto la mano de Amalec seH559
+- Éxo_18:3Gersón, porque dijo: Forastero he sidoH559
+- Éxo_18:4llamaba Eliezer, porque dijo: El Dios
+- Éxo_18:6dijo a Moisés: Yo tu suegro...vengo a tiH559
+- Éxo_18:10Jetro dijo: Bendito sea Jehová, que osH559
+- Éxo_18:14viendo...lo que él hacía...dijo: ¿Qué esH559
+- Éxo_18:17suegro de Moisés le dijo: No está bienH559
+- Éxo_18:24y oyó Moisés...e hizo todo lo que dijoH559
+- Éxo_19:3Jehová lo llamó...diciendo: Así dirás aH559
+- Éxo_19:6son las palabras que dirás a los hijosH1696
+- Éxo_19:8y dijeron: Todo lo que Jehová ha dichoH559
+- Éxo_19:9dijo a Moisés...yo vengo a ti en una nubeH559
+- Éxo_19:10Jehová dijo a Moisés: Vé al pueblo, yH559
+- Éxo_19:12diciendo: Guardaos, no subáis al monteH559
+- Éxo_19:15dijo al pueblo: Estad preparados paraH559
+- Éxo_19:21dijo a Moisés...no traspase los límitesH559
+- Éxo_19:23Moisés dijo a Jehová: El pueblo noH559
+- Éxo_19:23has mandado diciendo: Señala límites alH559
+- Éxo_19:24le dijo: Vé, desciende, y subirás tú, yH559
+- Éxo_19:25Moisés descendió y se lo dijo al puebloH559
+- Éxo_20:1y habló Dios...estas palabras, diciendoH559
+- Éxo_20:19y dijeron a Moisés: Habla...con nosotrosH559
+- Éxo_20:22dijo...Así dirás a los hijos de IsraelH559
+- Éxo_21:5si el siervo dijere: Yo amo a mi señorH559
+- Éxo_22:9cuando alguno dijere: Esto es mío, laH559
+- Éxo_23:13y todo lo que os he dicho, guardadloH559
+- Éxo_23:22hicieres...yo te dijere, seré enemigo deH1696
+- Éxo_24:1dijo Jehová a Moisés: Sube ante JehováH559
+- Éxo_24:3haremos todas las...que Jehová ha dichoH1696
+- Éxo_24:7lo leyó a oídos del pueblo, el cual dijoH559
+- Éxo_24:8roció sobre el pueblo, y dijo: He aquíH559
+- Éxo_24:12Jehová dijo a Moisés: Sube...al monteH559
+- Éxo_24:14dijo a los ancianos: Esperadnos aquíH559
+- Éxo_25:2dí a los hijos de Israel que...ofrendaH1696
+- Éxo_30:31diciendo: Este será mi aceite de laH559
+- Éxo_30:34dijo...Jehová a Moisés: Toma especiasH559
+- Éxo_31:13diciendo...guardaréis mis días de reposoH559
+- Éxo_32:1y le dijeron: Levántate, haznos diosesH559
+- Éxo_32:2Aarón les dijo: Apartad los zarcillosH559
+- Éxo_32:4dijeron: Israel, estos son tus diosesH559
+- Éxo_32:5y dijo: Mañana será fiesta para JehováH559
+- Éxo_32:7Jehová dijo a Moisés: Anda, desciendeH1696
+- Éxo_32:8han dicho: Israel, estos son tus diosesH559
+- Éxo_32:9dijo más Jehová a Moisés: Yo he vistoH559
+- Éxo_32:11Moisés...dijo: Oh Jehová, ¿por quéH559
+- Éxo_32:12han de hablar los egipcios, diciendoH559
+- Éxo_32:13a los cuales has jurado...les has dichoH1696
+- Éxo_32:14Jehová se arrepintió del mal que dijoH1696
+- Éxo_32:17dijo a Moisés: Alarido de pelea hay enH559
+- Éxo_32:21dijo Moisés a Aarón: ¿Qué te ha hechoH559
+- Éxo_32:23me dijeron; haznos dioses que vayanH559
+- Éxo_32:26dijo: ¿Quién está por Jehová? JúnteseH559
+- Éxo_32:27y él les dijo: Así ha dicho Jehová, elH559
+- Éxo_32:29Moisés dijo: Hoy os habéis consagradoH559
+- Éxo_32:30dijo Moisés...cometido un gran pecadoH559
+- Éxo_32:31volvió Moisés a Jehová, y dijo...ruegoH559
+- Éxo_32:34lleva a este pueblo a donde te he dichoH1696
+- Éxo_33:1Jehová dijo a Moisés: Anda, sube de aquíH1696
+- Éxo_33:1juré a Abraham...diciendo: A tu...la daréH559
+- Éxo_33:5Jehová había dicho a Moisés: Dí a losH559
+- Éxo_33:12dijo Moisés...me dices a mí: Saca esteH559
+- Éxo_33:12dices: Yo te he conocido por tu nombreH559
+- Éxo_33:14él dijo: Mi presencia irá contigo, y teH559
+- Éxo_33:17dijo a Moisés: También haré esto queH559
+- Éxo_33:18dijo...ruego que me muestres tu gloriaH559
+- Éxo_33:20dijo...No podrás ver mi rostro, porqueH559
+- Éxo_33:21y dijo aún Jehová: He aquí un lugarH559
+- Éxo_34:1dijo a Moisés: Alísate dos tablas deH559
+- Éxo_34:9dijo: Si ahora...he hallado gracia enH559
+- Éxo_34:27Jehová dijo a Moisés: Escribe tú estasH559
+- Éxo_34:32mandó todo lo que Jehová le había dichoH1696
+- Éxo_34:34decía a los hijos de Israel lo que leH1696
+- Éxo_35:1Moisés convocó a...de Israel y les dijoH559
+- Éxo_35:4diciendo...es lo que Jehová ha mandadoH559
+- Éxo_35:30dijo Moisés...Mirad, Jehová ha nombradoH559
+- Éxo_36:5diciendo: El pueblo trae mucho más de loH559
+- Éxo_36:6diciendo: Ningún hombre...haga más paraH559
+- Lev_1:1llamó...Moisés, y habló con él...diciendoH559
+- Lev_1:2; 4:2; 7:23,29; 11:2; 12:2; 15:2; 18:2; 19:2; 22:18; 23:2,10,24,34; 25:2; 27:2; Núm_5:12; 6:2; 9:10; 15:2,38; 33:51; 35:10habla a los hijos de Israel y dilesH559
+- Lev_6:25y diles: Esta es la ley del sacrificioH559
+- Lev_8:5dijo Moisés a la congregación: Esto es loH559
+- Lev_8:31y dijo Moisés a Aarón y a sus hijosH559
+- Lev_9:2y dijo a Aarón: Toma de la...un becerroH559
+- Lev_9:3a los hijos de Israel hablarás diciendoH559
+- Lev_9:6Moisés dijo: Esto es lo que mandó JehováH559
+- Lev_9:7y dijo Moisés a Aarón: Acércate al altarH559
+- Lev_10:3dijo...es lo que habló Jehová, diciendoH559
+- Lev_10:4llamó Moisés a Misael...dijo: AcercaosH559
+- Lev_10:5se acercaron y los sacaron...dijo MoisésH1696
+- Lev_10:6,12Moisés dijo a Aarón, y a...sus hijosH559
+- Lev_10:11estatutos que Jehová les ha dicho porH1696
+- Lev_10:16y se enojó contra Eleazar e...diciendoH559
+- Lev_14:35y dará aviso al sacerdote, diciendoH559
+- Lev_16:2y Jehová dijo a Moisés: Dí a Aarón tuH559
+- Lev_17:2habla a Aarón y...diles: Esto es lo queH559
+- Lev_17:8les dirás también: Cualquier varón deH559
+- Lev_17:12,14he dicho a los hijos de IsraelH559
+- Lev_20:2dirás asimismo a los hijos de IsraelH559
+- Lev_20:24he dicho: Vosotros poseeréis la tierraH559
+- Lev_21:1dijo a Moisés: Habla a los sacerdotesH559
+- Lev_21:1y diles que no se contaminen por unH559
+- Lev_21:17habla a Aarón y dile: Ninguno de tusH559
+- Lev_22:2dí a Aarón...se abstengan de las cosasH1696
+- Lev_22:3diles: Todo varón de...descendencia enH559
+- Lev_25:20si dijereis: ¿Qué comeremos el séptimoH559
+- Núm_3:40Jehová dijo a Moisés: Cuenta todos losH559
+- Núm_5:4los echaron...como Jehová dijo a MoisésH1696
+- Núm_5:6dí a los hijos de Israel: El hombre o laH1696
+- Núm_5:19el sacerdote la...le dirá: Si ninguno haH559
+- Núm_5:21el sacerdote...dirá a la mujer: JehováH559
+- Núm_5:22y hagan hinchar...Y la mujer dirá: AménH559
+- Núm_6:23diles: Así bendeciréis a...diciéndolesH559
+- Núm_7:11dijo a Moisés: Ofrecerán su ofrenda, unH559
+- Núm_8:2habla a Aarón y dile: Cuando enciendasH559
+- Núm_9:7y le dijeron aquellos hombres: NosotrosH559
+- Núm_9:23como Jehová lo había dicho por...MoisésH6310
+- Núm_10:29dijo Moisés a Hobab, hijo de RagüelH559
+- Núm_10:29lugar del cual Jehová ha dicho: Yo osH559
+- Núm_10:31él le dijo: Te ruego que no nos dejesH559
+- Núm_10:35Moisés decía: Levántate, oh Jehová, yH559
+- Núm_10:36cuando ella se detenía, decía: VuelveH559
+- Núm_11:4también volvieron a llorar y dijeronH559
+- Núm_11:11y dijo Moisés a Jehová: ¿Por qué hasH559
+- Núm_11:12para que me digas: Llévalo en tu senoH559
+- Núm_11:13lloran a mí, diciendo: Danos carne queH559
+- Núm_11:16Jehová dijo a Moisés: Reúneme setentaH559
+- Núm_11:18pero al pueblo dirás: Santificaos paraH559
+- Núm_11:18llorado...diciendo: ¡Quién nos diera aH559
+- Núm_11:20y llorasteis delante de él, diciendoH559
+- Núm_11:21dijo Moisés: Seiscientos mil de a pieH559
+- Núm_11:21¡y tú dices: Les daré carne, y comeránH559
+- Núm_11:24salió...y dijo al pueblo las palabras deH1696
+- Núm_11:27corrió un joven...y dijo: Eldad y MedadH559
+- Núm_11:28respondió Josué hijo...dijo: Señor míoH559
+- Núm_12:2y dijeron: ¿Solamente por Moisés haH559
+- Núm_12:4luego dijo Jehová a Moisés, a Aarón y aH559
+- Núm_12:6y él les dijo: Oíd ahora mis palabrasH559
+- Núm_12:11dijo Aarón a Moisés: ¡Ah! señor mío, noH559
+- Núm_12:13Moisés clamó...diciendo: Te ruego, ohH559
+- Núm_13:17los envió...diciéndoles: Subid de aquíH559
+- Núm_13:27diciendo: Nosotros llegamos a la tierraH559
+- Núm_13:30hizo callar al pueblo...y dijo: SubamosH559
+- Núm_13:31varones...dijeron: No podremos subirH559
+- Núm_13:32hablaron mal...de la tierra...diciendoH559
+- Núm_14:2les dijo toda la multitud...muriéramos¡[[H559]]
+- Núm_14:4y decían el uno al otro: Designemos unH559
+- Núm_14:7hablaron...diciendo: La tierra por dondeH559
+- Núm_14:11Jehová dijo a Moisés: ¿Hasta cuándo meH559
+- Núm_14:14dirán a los habitantes de esta tierraH559
+- Núm_14:15que hubieren oído...hablarán, diciendoH559
+- Núm_14:17te ruego...como lo hablaste, diciendoH559
+- Núm_14:20Jehová dijo...lo he perdonado conforme aH559
+- Núm_14:28diles: Vivo yo, dice Jehová, que segúnH559
+- Núm_14:31niños...dijisteis que serían por presaH559
+- Núm_14:39y Moisés dijo estas cosas a todos losH1696
+- Núm_14:40subieron a...diciendo: Henos aquí paraH559
+- Núm_14:41dijo Moisés: ¿Por qué quebrantáis elH559
+- Núm_15:22mandamientos...Jehová ha dicho a MoisésH1696
+- Núm_15:35dijo a Moisés...muera aquel hombreH559
+- Núm_16:3se juntaron...y les dijeron: ¡Basta ya deH559
+- Núm_16:5habló a Coré y a...su séquito, diciendoH559
+- Núm_16:8dijo...Moisés a Coré: Oíd ahora, hijosH559
+- Núm_16:15Moisés se enojó...y dijo a Jehová: NoH559
+- Núm_16:16después dijo Moisés a Coré: Tú y todoH559
+- Núm_16:22se postraron...dijeron: Dios, Dios deH559
+- Núm_16:24diles: Apartaos de en derredor de laH559
+- Núm_16:26él habló...diciendo: Apartaos ahora deH559
+- Núm_16:28y dijo Moisés: En esto conoceréis queH559
+- Núm_16:34huyeron...porque decían: No nos tragueH559
+- Núm_16:37dí a Eleazar hijo del sacerdote AarónH559
+- Núm_16:40se lo dijo Jehová por medio de MoisésH1696
+- Núm_16:41diciendo: Vosotros habéis dado muerteH559
+- Núm_16:46dijo...a Aarón: Toma el incensario, yH559
+- Núm_16:47tomó Aarón...como Moisés dijo, y corrióH1696
+- Núm_17:10Jehová dijo a Moisés: Vuelve la varaH559
+- Núm_17:12diciendo, aquí nosotros somos muertosH559
+- Núm_18:1Jehová dijo a Aarón: Tú y tus hijos, yH559
+- Núm_18:8dijo más Jehová a Aarón...yo te he dadoH1696
+- Núm_18:20y Jehová dijo a Aarón: De la tierra deH559
+- Núm_18:24por lo cual les he dicho: Entre losH559
+- Núm_18:26y le dirás: Cuando toméis...los diezmosH559
+- Núm_18:30dirás: Cuando ofreciereis lo mejor deH559
+- Núm_19:2Jehová ha prescrito, diciendo: Dí a losH559
+- Núm_20:3habló el pueblo contra Moisés, diciendoH559
+- Núm_20:10y les dijo: ¡Oíd ahora, rebeldes! ¿OsH559
+- Núm_20:12dijo a Moisés y a Aarón: Por cuanto noH559
+- Núm_20:14diciendo: Así dice Israel tu hermanoH559
+- Núm_20:19Israel dijeron: Por el camino...iremosH559
+- Núm_21:2Israel hizo voto...y dijo: Si en efectoH559
+- Núm_21:7el pueblo vino a...y dijo: Hemos pecadoH559
+- Núm_21:8Jehová dijo a Moisés: Hazte...serpienteH559
+- Núm_21:14se dice en el libro de las batallas deH559
+- Núm_21:16el pozo del cual Jehová dijo a MoisésH559
+- Núm_21:21envió Israel embajadores a...diciendoH559
+- Núm_21:27dicen los proverbistas: Venid a HesbónH559
+- Núm_21:34Jehová dijo a Moisés: No le tengasH559
+- Núm_22:4dijo Moab a los ancianos de MadiánH559
+- Núm_22:5envió mensajeros a Balaam hijo...diciendoH559
+- Núm_22:7llegaron...dijeron las palabras de BalacH1696
+- Núm_22:8él les dijo: Reposad aquí esta nocheH559
+- Núm_22:9y vino Dios a Balaam, y le dijo: ¿QuéH559
+- Núm_22:10Balac...de Moab, ha enviado a decirmeH559
+- Núm_22:12dijo Dios a Balaam: No vayas con ellosH559
+- Núm_22:13se levantó...y dijo a los príncipes deH559
+- Núm_22:14vinieron a Balac y dijeron: Balaam noH559
+- Núm_22:16y le dijeron: Así dice Balac, hijo deH559
+- Núm_22:17haré todo lo que me digas: ven, puesH559
+- Núm_22:18y Balaam...dijo a los siervos de BalacH559
+- Núm_22:19yo sepa qué me vuelve a decir JehováH1696
+- Núm_22:20vino Dios...y le dijo: Si vinieron paraH559
+- Núm_22:20y vete...pero harás lo que yo te digaH1696
+- Núm_22:28abrió la boca...la cual dijo a BalaamH559
+- Núm_22:30el asna dijo a Balaam: ¿No soy yo tuH559
+- Núm_22:32el ángel de Jehová le dijo: ¿Por quéH559
+- Núm_22:34dijo al ángel...pecado, porque no sabíaH559
+- Núm_22:35y el ángel...dijo a Balaam: Vé con esosH559
+- Núm_22:35la palabra que yo te diga, esa hablarásH559
+- Núm_22:37y Balac dijo a Balaam: ¿No envié yo aH559
+- Núm_23:1y Balaam dijo a Balac: Edifícame aquíH559
+- Núm_23:2hizo como le dijo Balaam y ofrecieronH1696
+- Núm_23:3Balaam dijo a Balac: Ponte junto a tuH559
+- Núm_23:4vino Dios al encuentro...y éste le dijoH559
+- Núm_23:5y le dijo: Vuelve a Balac, y dile asíH559
+- Núm_23:7y él tomó su parábola, y dijo: De AramH559
+- Núm_23:11dijo a Balaam: ¿Qué me has hecho? TeH559
+- Núm_23:12y dijo: ¿No cuidaré de decir lo queH559
+- Núm_23:13y dijo Balac: Te ruego que vengasH559
+- Núm_23:15dijo a Balac: Ponte aquí junto a tuH559
+- Núm_23:16Jehová...dijo: Vuelve a Balac, y dileH1696
+- Núm_23:17le dijo Balac: ¿Qué ha dicho Jehová?[[H559]]
+- Núm_23:18tomó su parábola, y dijo: Balac...oyeH559
+- Núm_23:19él dijo, ¿y no hará? Habló, ¿y no loH559
+- Núm_23:23como ahora, será dicho de Jacob y deH559
+- Núm_23:25Balac dijo a Balaam...no lo maldicesH559
+- Núm_23:26Balaam...dijo a Balac: ¿No te he dichoH559
+- Núm_23:27y dijo Balac a Balaam: Te ruego queH559
+- Núm_23:29Balaam dijo a Balac: Edifícame aquíH559
+- Núm_23:30y Balac hizo como Balaam le dijo; yH559
+- Núm_24:3tomó su parábola y dijo: D Balaam hijoH559
+- Núm_24:4dijo el que oyó los dichos de Dios, elH5002
+- Núm_24:10entonces...batiendo sus manos le dijoH559
+- Núm_24:11yo dije que te honraría, mas he aquíH559
+- Núm_24:12¿no lo declaré yo también...diciendoH559
+- Núm_24:13mas lo que hable Jehová, eso diré yo?[[H1696]]
+- Núm_24:15y tomó su parábola, y dijo: D BalaamH559
+- Núm_24:15Beor, dijo el varón de ojos abiertosH5002
+- Núm_24:16dijo el que oyó los dichos de JehováH5002
+- Núm_24:20y viendo a...tomó su parábola y dijoH559
+- Núm_24:21dijo: Fuerte es tu habitación; pon enH559
+- Núm_24:23tomó su parábola...y dijo: ¡Ay! ¿quiénH559
+- Núm_25:4Jehová dijo a Moisés: Toma a todos losH559
+- Núm_25:5Moisés dijo a, jueces de Israel: MatadH559
+- Núm_25:12por tanto diles...establezco mi pactoH559
+- Núm_26:3Moisés y el...Eleazar hablaron...diciendoH559
+- Núm_26:65Jehová había dicho de ellos: MoriránH559
+- Núm_27:2se presentaron delante de...y dijeronH559
+- Núm_27:7bien dicen las hijas de Zelofehad; lesH1696
+- Núm_27:8los hijos de Israel hablarás, diciendoH1696
+- Núm_27:12Jehová dijo a Moisés: Sube a este monteH559
+- Núm_27:15respondió Moisés a Jehová, diciendoH559
+- Núm_27:18y Jehová dijo a Moisés: Toma a JosuéH559
+- Núm_28:2y diles: Mi ofrenda, mi pan con misH559
+- Núm_28:3les dirás: Esta es la ofrenda encendidaH559
+- Núm_29:40Moisés dijo a los...de Israel conformeH559
+- Núm_30:1habló Moisés...diciendo: Esto es lo queH559
+- Núm_31:3Moisés habló al pueblo, diciendo: ArmaosH559
+- Núm_31:15les dijo Moisés: ¿Por qué habéis dejadoH559
+- Núm_31:21Eleazar dijo a los hombres de guerraH559
+- Núm_31:49y dijeron a Moisés: Tus siervos hanH559
+- Núm_32:2hablaron a Moisés y...Eleazar...diciendoH559
+- Núm_32:5por tanto, dijeron, si hallarnos graciaH559
+- Núm_32:10la ira de Jehová se encendió...diciendoH559
+- Núm_32:16entonces...vinieron a Moisés y dijeronH559
+- Núm_32:25hablaron...de Rubén a Moisés, diciendoH559
+- Núm_32:27pasarán...de la manera que mi señor diceH1696
+- Núm_32:29les dijo Moisés: Si los hijos de GadH559
+- Núm_32:31los hijos de Gad...respondieron diciendoH559
+- Núm_32:31haremos lo que Jehová ha dicho a tusH1696
+- Núm_34:2manda...diles: Cuando hayáis entrado enH559
+- Núm_34:13diciendo: Esta es la tierra que se osH559
+- Núm_36:2y dijeron: Jehová mandó a mi señor queH559
+- Núm_36:5Moisés mandó...diciendo: La tribu de losH559
+- Núm_36:6diciendo: Cásense como a ellas...plazcaH559
+- Deu_1:5resolvió...declarar esta ley, diciendoH559
+- Deu_1:6Jehová...nos habló en Horeb, diciendoH559
+- Deu_1:9yo os hablé diciendo: Yo solo no puedoH559
+- Deu_1:14dijisteis: Bueno es...lo que has dichoH559
+- Deu_1:16mandé a vuestros jueces, diciendo: OídH559
+- Deu_1:20os dije: Habéis llegado al monte delH559
+- Deu_1:21como...el Dios de tus padres te ha dichoH1696
+- Deu_1:22dijisteis: Enviemos varones delante deH559
+- Deu_1:25dijeron: Es buena la tierra que JehováH559
+- Deu_1:27murmurasteis...diciendo: Porque JehováH559
+- Deu_1:28han atemorizado...diciendo: Este puebloH559
+- Deu_1:29os dije: No temáis, ni tengáis miedo deH559
+- Deu_1:34oyó Jehová...palabras...y juró diciendoH559
+- Deu_1:37contra mí se airó Jehová...y me dijoH559
+- Deu_1:39niños...dijisteis que servirían de botínH559
+- Deu_1:41dijisteis: Hemos pecado contra JehováH559
+- Deu_1:42y Jehová me dijo: Diles: No subáis, niH559
+- Deu_2:1salimos al...como Jehová me había dichoH1696
+- Deu_2:2,17y Jehová me habló, diciendoH559
+- Deu_2:4y manda al pueblo, diciendo: PasandoH559
+- Deu_2:9Jehová me dijo: No molestes a Moab, niH559
+- Deu_2:26y envié...con palabras de paz, diciendoH559
+- Deu_2:31me dijo Jehová: He aquí yo he comenzadoH559
+- Deu_3:2y me dijo Jehová: No tengas temor de élH559
+- Deu_3:18os mandé...diciendo: Jehová vuestro DiosH559
+- Deu_3:21ordené también a Josué...diciendo: TusH559
+- Deu_3:23oré a Jehová en aquel tiempo, diciendoH559
+- Deu_3:26dijo Jehová: Basta, no me hables más deH559
+- Deu_4:6oirán...dirán: Ciertamente pueblo sabioH559
+- Deu_4:10Jehová me dijo: Reúneme el pueblo, paraH559
+- Deu_5:5vosotros...no subisteis al monte. DijoH559
+- Deu_5:20no dirás falso testimonio...tu prójimoH6030
+- Deu_5:24dijisteis: He aquí Jehová nuestro DiosH559
+- Deu_5:27oye todas las cosas que dijere JehováH559
+- Deu_5:27nos dirás todo lo que Jehová te dijereH1696
+- Deu_5:28dijo Jehová: He oído...lo que han dichoH559
+- Deu_5:30vé y diles: Volveos a vuestras tiendasH559
+- Deu_5:31quédate...te diré todos los mandamientosH1696
+- Deu_6:3como te ha dicho Jehová el Dios de tusH1696
+- Deu_6:19arroje...enemigos...como Jehová ha dichoH1696
+- Deu_6:20cuando te preguntare tu hijo, diciendoH559
+- Deu_6:21dirás a tu hijo: Nosotros éramos siervosH559
+- Deu_7:17dijeres en tu corazón: Estas nacionesH559
+- Deu_8:17y digas en tu corazón: Mi poder y laH559
+- Deu_9:2oído decir: ¿Quién se sostendrá delante
+- Deu_9:3los destruirás...como Jehová te ha dichoH1696
+- Deu_9:4no pienses...diciendo: Por mi justicia meH559
+- Deu_9:12y me dijo Jehová: Levántate, desciendeH559
+- Deu_9:13diciendo: He observado a ese pueblo, yH559
+- Deu_9:23cuando Jehová os envió...diciendo: SubidH559
+- Deu_9:25Jehová dijo que os había de destruirH559
+- Deu_9:26oré a Jehová, diciendo: Oh...Jehová, noH559
+- Deu_9:28sea que digan los de la tierra de dondeH559
+- Deu_10:1en aquel tiempo Jehová me dijo: LábrateH559
+- Deu_10:9Jehová es su heredad, como...Dios le dijoH1696
+- Deu_10:11me dijo Jehová: Levántate, anda, paraH559
+- Deu_11:25miedo y temor de...como él os ha dichoH1696
+- Deu_12:20Dios ensanchare tu...como él te ha dichoH1696
+- Deu_12:20dijeres: Comeré carne, porque deseasteH559
+- Deu_12:30no preguntes...diciendo: De la maneraH559
+- Deu_13:2o prodigio que él te anunció, diciendoH559
+- Deu_13:6si te incitare tu...diciendo en secretoH559
+- Deu_13:12si oyeres que se dice de alguna de tusH559
+- Deu_13:13que han instigado a...diciendo: Vamos yH559
+- Deu_15:6te habrá bendecido, como te ha dichoH1696
+- Deu_15:9tener...pensamiento perverso, diciendoH559
+- Deu_15:11yo te mando, diciendo: Abrirás tu manoH559
+- Deu_15:16si él te dijere: No te dejaré; porqueH559
+- Deu_17:11y según el juicio que te digan, harásH559
+- Deu_17:14tomes posesión de ella...digas: PondréH559
+- Deu_17:16Jehová os ha dicho: No volváis nuncaH559
+- Deu_18:1es decir...la tribu de Leví, no tendrán
+- Deu_18:2Jehová es su heredad...él les ha dichoH1696
+- Deu_18:16pediste...diciendo: No vuelva yo a oirH559
+- Deu_18:17Jehová me dijo: Han hablado bien enH559
+- Deu_18:21dijeres...¿Cómo conoceremos la palabraH559
+- Deu_18:22hablare...y no se cumpliere lo que dijoH1696
+- Deu_19:7y te mando, diciendo: Separarás tresH559
+- Deu_20:3dirá: Oye, Israel, vosotros os juntáisH559
+- Deu_20:5oficiales hablarán al pueblo, diciendoH559
+- Deu_20:8volverán...a hablar al pueblo, y diránH559
+- Deu_21:7dirán: Nuestras manos no han derramadoH559
+- Deu_21:20y dirán a los ancianos de la ciudadH559
+- Deu_22:14le atribuyere faltas...y dijere: A estaH559
+- Deu_22:16y dirá el padre...a los ancianos: Yo diH559
+- Deu_22:17él le atribuye faltas...diciendo: No heH559
+- Deu_25:7y dirá: Mi cuñado no quiere suscitarH559
+- Deu_25:8levantare y dijere: No quiero tomarlaH559
+- Deu_25:9y dirá: Así será hecho al varón que noH559
+- Deu_26:3te presentarás...y le dirás: Declaro hoyH559
+- Deu_26:5y dirás delante de Jehová...Un arameo aH559
+- Deu_26:13dirás delante de Jehová...He sacado loH559
+- Deu_26:19seas un pueblo santo...como él ha dichoH1696
+- Deu_27:1ordenó...al pueblo, diciendo: GuardaréisH559
+- Deu_27:3como...el Dios de tus padres te ha dichoH1696
+- Deu_27:9habló a todo Israel, diciendo: GuardaH559
+- Deu_27:11y mandó Moisés al pueblo en...diciendoH559
+- Deu_27:14hablarán los levitas, y dirán a todoH559
+- Deu_27:15el pueblo responderá y dirá: AménH559
+- Deu_27:16,17,18,19,20,21,22,23,24,25,26maldito...Y dirá todo el pueblo: AménH559
+- Deu_28:67por la mañana dirás: ¡Quién diera queH559
+- Deu_28:67y a la tarde dirás: ¡Quién diera queH559
+- Deu_28:68el camino del cual te ha dicho: NuncaH559
+- Deu_29:2Moisés, pues, llamó a todo Israel...dijoH559
+- Deu_29:13Dios, de la manera que él te ha dichoH1696
+- Deu_29:19se bendiga en su...diciendo: Tendré pazH559
+- Deu_29:22y dirán las generaciones veniderasH559
+- Deu_29:24todas las naciones dirán: ¿Por qué hizoH559
+- Deu_30:12no está en el cielo, para que digasH559
+- Deu_30:13al otro lado del mar, para que digasH559
+- Deu_31:2y les dijo: Este día soy de edad de 120H559
+- Deu_31:2me ha dicho: No pasarás este JordánH559
+- Deu_31:3Josué será...pasará...como Jehová ha dichoH1696
+- Deu_31:7llamó...a Josué, y le dijo en presenciaH559
+- Deu_31:10les mandó Moisés, diciendo: Al fin deH559
+- Deu_31:14y Jehová dijo a Moisés: He aquí se haH559
+- Deu_31:16Jehová dijo a Moisés: He aquí, tú vasH559
+- Deu_31:17dirán en aquel día: ¿No me han venidoH559
+- Deu_31:23dio orden a Josué...y dijo: EsfuérzateH559
+- Deu_31:25dio órdenes...a los levitas, diciendoH559
+- Deu_32:7pregunta...a tus ancianos, y...te diránH559
+- Deu_32:20y dijo: Esconderé de ellos mi rostroH559
+- Deu_32:26había dicho que los esparciría lejosH559
+- Deu_32:27sea que digan: Nuestra mano poderosaH559
+- Deu_32:37dirá: ¿Dónde están sus dioses, la rocaH559
+- Deu_32:40alzaré...y diré: Vivo yo para siempreH559
+- Deu_32:46y les dijo: Aplicad vuestro corazón aH559
+- Deu_32:48habló Jehová a Moisés aquel...diciendoH559
+- Deu_33:2dijo: Jehová vino de Sinaí, y de SeirH559
+- Deu_33:7dijo así: Oye, oh Jehová, la voz de JudáH559
+- Deu_33:8a Leví dijo: Tu Tumim y tu Urim seanH559
+- Deu_33:9quien dijo de su padre y de su madreH559
+- Deu_33:12a Benjamín dijo: El amado de JehováH559
+- Deu_33:13a José dijo: Bendita de Jehová sea tuH559
+- Deu_33:18a Zabulón dijo: Alégrate, ZabulónH559
+- Deu_33:20dijo: Bendito el que hizo ensanchar aH559
+- Deu_33:22a Dan dijo: Dan es cachorro de león queH559
+- Deu_33:23a Neftalí dijo: Neftalí, saciado deH559
+- Deu_33:24a Aser dijo: Bendito sobre los hijosH559
+- Deu_33:27él echó...al enemigo, y dijo: DestruyeH559
+- Deu_34:4y le dijo Jehová: Esta es la tierra deH559
+- Jos_1:1Jehová habló a Josué hijo de...diciendoH559
+- Jos_1:3entregado, como lo había dicho a MoisésH1696
+- Jos_1:10Josué mandó a los oficiales...diciendoH559
+- Jos_1:11mandad al pueblo, diciendo: PreparaosH559
+- Jos_1:12habló Josué a los rubenitas...diciendoH559
+- Jos_1:13la palabra que Moisés...mandó diciendoH559
+- Jos_1:16a Josué, diciendo: Nosotros haremos todasH559
+- Jos_2:1envió...dos espías...diciéndoles: AndadH559
+- Jos_2:2fue dado aviso al rey de Jericó, diciendoH559
+- Jos_2:3rey...envió a decir a Rahab: Saca a losH559
+- Jos_2:4pero la mujer...dijo: Es verdad que unosH559
+- Jos_2:8antes...ella subió al terrado, y les dijoH559
+- Jos_2:16les dijo: Marchaos al monte, para queH559
+- Jos_2:17dijeron: Nosotros quedaremos libres deH559
+- Jos_2:21respondió: Sea así como habéis dichoH559
+- Jos_2:24y dijeron a Josué: Jehová ha entregadoH559
+- Jos_3:3y mandaron al pueblo, diciendo: CuandoH559
+- Jos_3:5Josué dijo al pueblo: Santificaos, porqueH559
+- Jos_3:6habló Josué a...diciendo: Tomad el arcaH559
+- Jos_3:7dijo a Josué: Desde este día comenzaré aH559
+- Jos_3:8mandarás a los sacerdotes que...diciendoH559
+- Jos_3:9y Josué dijo a los...de Israel: AcercaosH559
+- Jos_4:1Jordán, Jehová habló a Josué, diciendoH559
+- Jos_4:3mandadles, diciendo: Tomad...del JordánH559
+- Jos_4:5les dijo Josué: Pasad delante del arcaH559
+- Jos_4:6diciendo: ¿Qué significan estas piedras?[[H559]]
+- Jos_4:8hicieron...Jehová lo había dicho a JosuéH1696
+- Jos_4:10mandado a Josué que dijese al puebloH1696
+- Jos_4:12pasaron...según Moisés les había dichoH1696
+- Jos_4:15luego Jehová habló a Josué, diciendoH559
+- Jos_4:17mandó a los...diciendo: Subid del JordánH559
+- Jos_4:21habló a los hijos de Israel, diciendoH559
+- Jos_4:21preguntaren vuestros hijos...y dijerenH559
+- Jos_4:22declararéis...diciendo: Israel pasó enH559
+- Jos_5:2dijo a Josué: Hazte cuchillos afiladosH559
+- Jos_5:9Jehová dijo a Josué: Hoy he quitado deH559
+- Jos_5:13Josué...le dijo: ¿Eres de los nuestrosH559
+- Jos_5:14Josué...le dijo: ¿Qué dice mi Señor a suH559
+- Jos_6:2dijo a Josué: Mira, yo he entregado en tuH559
+- Jos_6:6llamando...sacerdotes, les dijo: LlevadH559
+- Jos_6:7y dijo al pueblo: Pasad, y rodead laH559
+- Jos_6:10mandó al pueblo, diciendo, no gritaréisH559
+- Jos_6:10hasta el día que yo os diga: GritadH559
+- Jos_6:16Josué dijo al pueblo: Gritad, porqueH559
+- Jos_6:22Josué dijo a los dos hombres que habíanH559
+- Jos_6:26en...hizo Josué un juramento, diciendoH559
+- Jos_7:2Josué envió hombres...diciendo: Subid yH559
+- Jos_7:3volviendo a Josué, le dijeron: No subaH559
+- Jos_7:7Josué dijo: ¡Ah, Señor Jehová! ¿Por quéH559
+- Jos_7:8¿qué diré, ya que Israel ha vuelto laH559
+- Jos_7:10Jehová dijo a Josué: Levántate; ¿por quéH559
+- Jos_7:13levántate, santifica...y dí: SantificaosH559
+- Jos_7:13Jehová el Dios de...dice así: Anatema hayH559
+- Jos_7:19Josué dijo a Acán: Hijo mío, da gloriaH559
+- Jos_7:20respondió a Josué diciendo...yo he pecadoH559
+- Jos_7:25le dijo Josué: ¿Por qué nos has turbado?[[H559]]
+- Jos_8:1dijo a Josué: No temas ni desmayes; tomaH559
+- Jos_8:4diciendo: Atended, pondréis emboscada aH559
+- Jos_8:6ellos saldrán...dirán: Huyen de nosotrosH559
+- Jos_8:18Jehová dijo a Josué: Extiende la lanzaH559
+- Jos_9:6vinieron...y le dijeron a él y a...IsraelH559
+- Jos_9:8Josué les dijo: ¿Quiénes sois vosotrosH559
+- Jos_9:11nuestros ancianos...nos dijeron: TomadH559
+- Jos_9:11id...y decidles...somos vuestros siervosH559
+- Jos_9:21dijeron los príncipes: Dejadlos vivirH559
+- Jos_9:22¿por qué nos habéis engañado, diciendoH559
+- Jos_9:24dijeron: Como fue dado a entender a tusH559
+- Jos_10:3Adonisedec rey...envió a Hoham...diciendoH559
+- Jos_10:6de Gabaón enviaron a decir a Josué alH559
+- Jos_10:8Jehová dijo a Josué: No tengas temor deH559
+- Jos_10:12y dijo en presencia de los israelitasH559
+- Jos_10:18Josué dijo: Rodad grandes piedras a laH559
+- Jos_10:22entonces dijo Josué: Abrid la...cuevaH559
+- Jos_10:24y dijo a los principales de la genteH559
+- Jos_10:25y Josué les dijo: No temáis, ni osH559
+- Jos_11:6Jehová dijo a Josué: No tengas temor deH559
+- Jos_11:23todo lo que Jehová había dicho a MoisésH1696
+- Jos_13:1Jehová le dijo: Tú eres ya viejo, deH559
+- Jos_13:14,33su heredad, como él les había dichoH1696
+- Jos_14:6Caleb...dijo: Tú sabes lo que Jehová d aH559
+- Jos_14:9juró diciendo: Ciertamente la tierra queH559
+- Jos_14:10me ha hecho vivir, como él dijo, estosH1696
+- Jos_14:12y los echaré, como Jehová ha dichoH1696
+- Jos_15:16dijo Caleb: Al que atacare...le daré miH559
+- Jos_15:18se bajó...Y Caleb le dijo: ¿Qué tienes?[[H559]]
+- Jos_17:4éstas vinieron...y dijeron: Jehová mandóH559
+- Jos_17:14los hijos de José...hablaron...diciendoH559
+- Jos_17:16hijos de José dijeron: No nos bastaráH559
+- Jos_17:17Josué respondió...a Manasés, diciendoH559
+- Jos_18:3dijo a...de Israel: ¿Hasta cuándo seréisH559
+- Jos_18:8mandó Josué...diciéndoles: Id, recorredH559
+- Jos_20:1habló Jehová a Josué, diciendoH559
+- Jos_20:2habla a...y diles: Señalaos las ciudadesH559
+- Jos_21:2les hablaron en...diciendo: Jehová mandóH559
+- Jos_22:2les dijo: Vosotros habéis guardado todoH559
+- Jos_22:8les habló diciendo: Volved a vuestrasH559
+- Jos_22:11oyeron decir que los hijos de Rubén yH559
+- Jos_22:15fueron a los hijos de Rubén...diciendoH559
+- Jos_22:16toda la congregación de...dice así: ¿QuéH559
+- Jos_22:21hijos de Gad...dijeron a los cabezas deH1696
+- Jos_22:24hijos digan a nuestros hijos: ¿Qué tenéisH559
+- Jos_22:26dijimos: Edifiquemos ahora un altar, noH559
+- Jos_22:27y no digan mañana vuestros hijos a losH559
+- Jos_22:28dijimos: Si aconteciere que tal diganH559
+- Jos_22:31y dijo Finees...a los hijos de Rubén, aH559
+- Jos_23:2les dijo: Yo ya soy viejo y avanzado enH559
+- Jos_23:5poseeréis sus...como Jehová...os ha dichoH1696
+- Jos_23:10Dios es quien pelea...como él os dijoH1696
+- Jos_23:14las buenas palabras que...había dichoH1696
+- Jos_23:15palabra buena que Jehová...había dichoH1696
+- Jos_24:2y dijo Josué...Así dice Jehová, Dios deH559
+- Jos_24:16el pueblo...dijo: Nunca tal acontezcaH559
+- Jos_24:19Josué dijo al pueblo: No podréis servirH559
+- Jos_24:21el pueblo...dijo a Josué: No, sino queH559
+- Jos_24:27dijo Josué a todo el pueblo: He aquíH559
+- Jue_1:1diciendo: ¿Quién de nosotros subiráH559
+- Jue_1:3y Judá dijo a Simeón su hermano: SubeH559
+- Jue_1:7dijo Adoni-bezec: 70 reyes, cortados losH559
+- Jue_1:12dijo Caleb: El que atacare...le daré AcsaH559
+- Jue_1:14se bajó...y Caleb le dijo: ¿Qué tienes?[[H559]]
+- Jue_1:20dieron Hebrón...como Moisés había dichoH1696
+- Jue_1:24vieron a un hombre que salía...le dijeronH559
+- Jue_2:1el ángel de Jehová...dijo: Yo os saqué deH559
+- Jue_2:1jurado...diciendo: No invalidaré jamás miH559
+- Jue_2:3también digo: No los echaré de delanteH559
+- Jue_2:15para mal, como Jehová había dicho, yH1696
+- Jue_2:20y dijo: Por cuanto este pueblo traspasaH559
+- Jue_3:19él se volvió...y dijo: Rey, una palabraH559
+- Jue_3:19una palabra...que decirte. El...dijo: CallaH559
+- Jue_3:20Aod dijo: Tengo palabra de Dios para tiH559
+- Jue_3:24dijeron: Sin duda él cubre sus pies enH559
+- Jue_3:28él les dijo: seguidme, porque JehováH559
+- Jue_4:6a llamar a Barac...y le dijo: ¿No te haH559
+- Jue_4:6¿no te ha mandado Jehová Dios...diciendoH559
+- Jue_4:9dijo: Iré contigo; mas no será tuya laH559
+- Jue_4:14Débora dijo a Barac: Levántate, porqueH559
+- Jue_4:18saliendo Jael a...dijo: Ven, señor míoH559
+- Jue_4:19él le dijo: Te ruego me des de beber unH559
+- Jue_4:20le dijo: Estate a la puerta de la tiendaH559
+- Jue_4:20preguntaré, diciendo: ¿Hay aquí alguno?[[H559]]
+- Jue_4:22Jael salió a recibirlo, y le dijo: VenH559
+- Jue_5:1cantó Débora con Barac hijo de...diciendoH559
+- Jue_5:23maldecid a Meroz, dijo el ángel deH559
+- Jue_5:28por entre las celosías...dice: ¿Por quéH2980
+- Jue_6:8profeta...les dijo: Así ha dicho JehováH559
+- Jue_6:10y os dije: Yo soy Jehová vuestro DiosH559
+- Jue_6:12el ángel de Jehová...apareció, y le dijoH559
+- Jue_6:13contado, diciendo: ¿No nos sacó JehováH559
+- Jue_6:14Jehová, le dijo: Vé con esta tu fuerzaH559
+- Jue_6:16le dijo: Ciertamente yo estaré contigoH559
+- Jue_6:20el ángel de Dios le dijo: Toma la carneH559
+- Jue_6:22viendo, que era el ángel de Jehová, dijoH559
+- Jue_6:23le dijo: Paz a ti; no tengas temor, noH559
+- Jue_6:25la misma noche le dijo Jehová: Toma unH559
+- Jue_6:27tomó diez...e hizo como Jehová le dijoH1696
+- Jue_6:29dijeron unos a otros: ¿Quién ha hechoH559
+- Jue_6:29e inquiriendo, les dijeron: Gedeón hijoH559
+- Jue_6:36Gedeón dijo a Dios: Si has de salvar aH559
+- Jue_6:37que salvarás a Israel...como lo has dichoH1696
+- Jue_6:39Gedeón dijo a Dios: No se encienda tuH559
+- Jue_7:2Jehová dijo a Gedeón: El pueblo...es muchoH559
+- Jue_7:2alabe...diciendo: Mi mano me ha salvadoH559
+- Jue_7:3haz pregonar...diciendo: Quien tema y seH559
+- Jue_7:4dijo a Gedeón: Aún es mucho el puebloH559
+- Jue_7:4yo te diga: Vaya éste...te d: Este no vayaH559
+- Jue_7:5dijo a Gedeón: Cualquiera que lamiere lasH559
+- Jue_7:7dijo a Gedeón: Con estos 300 hombres queH559
+- Jue_7:9aquella noche Jehová le dijo: LevántateH559
+- Jue_7:13contando...un sueño, diciendo: He aquíH559
+- Jue_7:14y su compañero...dijo: Esto no es otraH559
+- Jue_7:15vuelto al campamento...dijo: LevantaosH559
+- Jue_7:17dijo: Miradme a mí, y haced como hagoH559
+- Jue_7:18tocaréis...diréis: ¡Por Jehová y...GedeónH559
+- Jue_7:24Gedeón...envió mensajeros por...diciendoH559
+- Jue_8:1los...de Efraín le dijeron: ¿Qué es estoH559
+- Jue_8:5y dijo a los de Sucot: Yo os ruego queH559
+- Jue_8:7Gedeón dijo...trillaré vuestra carne conH559
+- Jue_8:8subió a...y les dijo las mismas palabrasH1696
+- Jue_8:9habló también a los de Peniel, diciendoH559
+- Jue_8:15y entrando...dijo: He aquí a Zeba y aH559
+- Jue_8:15me zaheristeis, diciendo: ¿Están ya enH559
+- Jue_8:18dijo a Zeba y a Zalmuna: ¿Qué aspectoH559
+- Jue_8:19y él dijo: Mis hermanos eran, hijos deH559
+- Jue_8:20dijo a Jeter su primogénito: LevántateH559
+- Jue_8:21dijeron Zeba y Zalmuna: Levántate tú yH559
+- Jue_8:22y los israelitas dijeron a Gedeón: SéH559
+- Jue_8:24y les dijo Gedeón: Quiero haceros unaH559
+- Jue_9:1Abimelec...habló con ellos, y...diciendoH559
+- Jue_9:2digáis en oídos de todos los de SiquemH1696
+- Jue_9:3de Abimelec...decían: Nuestro hermano esH559
+- Jue_9:7cuando se lo dijeron a Jotam, fue y seH5046
+- Jue_9:7y les dijo: Oídme, varones de Siquem, yH559
+- Jue_9:8dijeran al olivo: Reina sobre nosotrosH559
+- Jue_9:10dijeron los árboles a la higuera: AndaH559
+- Jue_9:12dijeron luego los árboles a la vid: PuesH559
+- Jue_9:14dijeron...todos los árboles a la zarzaH559
+- Jue_9:28Gaal...dijo: ¿Quién es Abimelec, y quéH559
+- Jue_9:29diría a Abimelec: Aumenta tus ejércitosH559
+- Jue_9:31mensajeros...diciendo: He aquí que GaalH559
+- Jue_9:36viendo Gaal al pueblo, dijo a Zebul: HeH559
+- Jue_9:37volvió Gaal a hablar, y dijo: He allíH559
+- Jue_9:38boca con que decías: ¿Quién es AbimelecH559
+- Jue_9:48diciendo al pueblo que estaba con élH559
+- Jue_9:54a su escudero...dijo...no se diga de míH559
+- Jue_10:10clamaron a Jehová, diciendo: NosotrosH559
+- Jue_10:18dijeron...¿Quién comenzará la batallaH559
+- Jue_11:2fuera a Jefté, diciéndole: No heredarásH559
+- Jue_11:6y dijeron a Jefté: Ven, y serás...JefeH559
+- Jue_11:9Jefté...dijo a los ancianos de Galaad: SiH559
+- Jue_11:10testigo...si no hiciéremos como tú dicesH559
+- Jue_11:12envió Jefté mensajeros al rey...diciendoH559
+- Jue_11:15para decirle: Jefté ha dicho así: IsraelH559
+- Jue_11:17mensajeros al rey de Edom, diciendoH559
+- Jue_11:19a Sehón rey...diciéndole: Te ruego queH559
+- Jue_11:30Jefté hizo voto a Jehová, diciendo: SiH559
+- Jue_11:35la vio, rompió sus vestidos, diciendoH559
+- Jue_11:37volvió a decir a su padre: ConcédemeH559
+- Jue_11:38él entonces dijo: Vé. Y la dejó por dosH559
+- Jue_12:1y pasaron...y dijeron a Jefté: ¿Por quéH559
+- Jue_12:4habían dicho: Vosotros sois fugitivos deH559
+- Jue_12:5cuando decían los fugitivos de EfraínH559
+- Jue_12:6decían: Ahora, pues, dí Shibolet. Y élH559
+- Jue_12:6y él decía Sibolet; porque no podíaH559
+- Jue_13:3le dijo: He aquí que tú eres estéril, yH559
+- Jue_13:6diciendo: Un varón de Dios vino a míH559
+- Jue_13:6un ángel...tampoco él me dijo su nombreH5046
+- Jue_13:7y me dijo: He aquí que tú concebirás, yH559
+- Jue_13:8oró Manoa...y dijo: Ah, Señor mío, yo teH559
+- Jue_13:10la mujer corrió...diciéndole: Mira queH559
+- Jue_13:11le dijo: ¿Eres tú aquel...Y él d: Yo soyH559
+- Jue_13:12dijo: Cuando tus palabras se cumplanH559
+- Jue_13:13se guardará de...las cosas que yo le dijeH559
+- Jue_13:15Manoa dijo al ángel de...Te ruego nosH559
+- Jue_13:17dijo Manoa al ángel...¿Cuál es tu nombreH559
+- Jue_13:22y dijo Manoa a...Ciertamente moriremosH559
+- Jue_14:2diciendo...he visto en Tinmat una mujerH559
+- Jue_14:3dijeron: ¿No hay mujer entre las hijasH559
+- Jue_14:12Sansón les dijo: Yo os propondré ahoraH559
+- Jue_14:14les dijo: Del devorador salió comidaH559
+- Jue_14:15dijeron a la mujer de Sansón: Induce aH559
+- Jue_14:16lloró...y dijo: Solamente me aborrecesH559
+- Jue_14:18le dijeron: ¿Qué cosa más dulce que laH559
+- Jue_15:1visitó a su mujer...diciendo: Entraré aH559
+- Jue_15:2y dijo el padre de ella: Me persuadí deH559
+- Jue_15:3le dijo Sansón: Sin culpa seré esta vezH559
+- Jue_15:6dijeron los filisteos: ¿Quién hizo esto?[[H559]]
+- Jue_15:7Sansón...dijo: Ya que así habéis hechoH559
+- Jue_15:10dijeron: ¿Por qué habéis subido contraH559
+- Jue_15:11vinieron tres mil...y dijeron a SansónH559
+- Jue_15:12le dijeron...hemos venido para prenderteH559
+- Jue_15:13diciendo: No; solamente te prenderemosH559
+- Jue_15:18teniendo gran sed, clamó luego...y dijoH559
+- Jue_16:2fue dicho a los de Gaza; Sansón ha venidoH559
+- Jue_16:2diciendo: Hasta la luz de la mañanaH559
+- Jue_16:5los príncipes de...le dijeron: Engáñale eH559
+- Jue_16:6y Dalila dijo a Sansón: Yo te ruego queH559
+- Jue_16:9,12,14,20le dijo: ¡Sansón, los filisteosH559
+- Jue_16:10Dalila dijo a Sansón...me has engañadoH559
+- Jue_16:10me has dicho mentiras; descúbreme, puesH1696
+- Jue_16:11él le dijo: Si me ataren...con cuerdasH559
+- Jue_16:13y Dalila dijo a Sansón: Hasta ahora meH559
+- Jue_16:13le dijo: Si tejieres siete guedejas deH559
+- Jue_16:15ella le dijo: ¿Cómo dices: Yo te amoH559
+- Jue_16:17le dijo: Nunca a mi cabeza llegó navajaH559
+- Jue_16:18envió a llamar a los...diciendo: VenidH559
+- Jue_16:20dijo: Esta vez saldré como las otrasH559
+- Jue_16:23dijeron: Nuestro dios entregó...SansónH559
+- Jue_16:24alabaron a su dios, diciendo: NuestroH559
+- Jue_16:25dijeron: Llamad a Sansón, para que nosH559
+- Jue_16:26Sansón dijo al joven que le guiaba deH559
+- Jue_16:28clamó Sansón a Jehová, y dijo: SeñorH559
+- Jue_16:30dijo Sansón: Muera yo con los filisteosH559
+- Jue_17:2dijo a su madre: Los mil cien siclos deH559
+- Jue_17:2la madre dijo: Bendito seas de JehováH559
+- Jue_17:3su madre dijo: En verdad he dedicado elH559
+- Jue_17:9Micaía le dijo: ¿De dónde vienes? Y elH559
+- Jue_17:10Micaía le dijo: Quédate en mi casa, yH559
+- Jue_17:13Micaía dijo...que Jehová me prosperaráH559
+- Jue_18:2y les dijeron: Id y reconoced la tierraH559
+- Jue_18:3dijeron: ¿Quién te ha traído acá? ¿y quéH559
+- Jue_18:5ellos le dijeron: Pregunta...a Dios, paraH559
+- Jue_18:8sus hermanos les dijeron: ¿Qué hay?[[H559]]
+- Jue_18:14aquellos cinco hombres...dijeron a susH559
+- Jue_18:18y el sacerdote les dijo: ¿Qué hacéisH559
+- Jue_18:23y dijeron a Micaía: ¿Qué tienes, queH559
+- Jue_18:24¿por qué, pues, me decís: ¿Qué tienes?[[H559]]
+- Jue_18:25los...de Dan le dijeron: No des vocesH559
+- Jue_19:5,6,8,9el padre de la joven dijoH559
+- Jue_19:11dijo el criado a su señor: Ven ahora, yH559
+- Jue_19:12no iremos a ninguna...dijo a su criadoH559
+- Jue_19:17vio a aquel caminante en la...y le dijoH559
+- Jue_19:20el hombre anciano dijo: Paz sea contigoH559
+- Jue_19:22al anciano...diciendo: Saca al hombreH559
+- Jue_19:23salió...el dueño de la casa y les dijoH559
+- Jue_19:28dijo: Levántate, y vámonos; pero ellaH559
+- Jue_19:30el que vela...decía: Jamás se ha hechoH559
+- Jue_20:3y dijeron...Decid cómo fue esta maldadH559
+- Jue_20:4el varón levita...dijo: Yo llegué a GabaaH559
+- Jue_20:8todo el pueblo...se levantó, y dijeronH559
+- Jue_20:12de Israel enviaron varones...diciendoH559
+- Jue_20:18consultaron a Dios, diciendo: ¿QuiénH559
+- Jue_20:23consultaron...diciendo: ¿Volveremos aH559
+- Jue_20:28dijeron: ¿Volveremos aún a salir contraH559
+- Jue_20:28Jehová dijo: Subid, porque mañana yoH559
+- Jue_20:32los...de Benjamín decían: Vencidos sonH559
+- Jue_20:32los hijos de Israel decían: HuiremosH559
+- Jue_20:39decían: Ciertamente ellos han caídoH559
+- Jue_21:1diciendo: Ninguno...dará su hija a losH559
+- Jue_21:2alzando su voz...gran...Manto, y dijeronH559
+- Jue_21:5y dijeron los hijos de Israel: ¿QuiénH559
+- Jue_21:5juramento...diciendo: Sufrirá la muerteH559
+- Jue_21:6y dijeron: Cortada es hoy de Israel unaH559
+- Jue_21:8dijeron: ¿Hay alguno de las tribus deH559
+- Jue_21:10y les mandaron, diciendo: Id y herid aH559
+- Jue_21:16los ancianos de...dijeron: ¿Qué haremosH559
+- Jue_21:17y dijeron: Tenga Benjamín herencia enH559
+- Jue_21:18jurado diciendo: Maldito el que diereH559
+- Jue_21:19dijeron...cada año hay fiesta solemne deH559
+- Jue_21:20diciendo: Id, y poned emboscadas en lasH559
+- Jue_21:22nosotros...diremos: Hacednos la mercedH559
+- Rut_1:8y Noemí dijo a sus dos nueras...volveosH559
+- Rut_1:10le dijeron: Ciertamente nosotras iremosH559
+- Rut_1:12dijese: Esperanza tengo, y esta nocheH559
+- Rut_1:15Noemí dijo...tu cuñada se ha vuelto a suH559
+- Rut_1:18estaba tan resuelta a ir...no dijo másH1696
+- Rut_1:19conmovió...y decían: ¿No es ésta Noemí?[[H559]]
+- Rut_2:2y Rut la moabita dijo a Noemí: Te ruegoH559
+- Rut_2:4Booz vino de Belén, y dijo a...segadoresH559
+- Rut_2:5Booz dijo a su criado el mayordomo de losH559
+- Rut_2:6dijo: Es la joven moabita que volvió conH559
+- Rut_2:7ha dicho: Te ruego que me dejes recogerH559
+- Rut_2:8entonces Booz dijo a Rut: Oye, hija míaH559
+- Rut_2:10le dijo: ¿Por qué he hallado gracia enH559
+- Rut_2:11Booz le dijo:He sabido...que has hechoH559
+- Rut_2:13ella dijo: Señor mío, halle yo graciaH559
+- Rut_2:14y Booz le dijo a la hora de comer: VenH559
+- Rut_2:15Booz mandó a sus...diciendo: Que recojaH559
+- Rut_2:19le dijo su suegra: ¿Dónde has espigadoH559
+- Rut_2:19dijo: El nombre del varón con...es BoozH559
+- Rut_2:20dijo Noemí a su nuera: Sea él bendito deH559
+- Rut_2:20dijo Noemí: Nuestro pariente es aquelH559
+- Rut_2:21Rut...dijo: Además de esto me ha dichoH559
+- Rut_3:1le dijo su suegra Noemí: Hija mía, ¿no heH559
+- Rut_3:4irás...y él te dirá lo que hayas de hacerH5046
+- Rut_3:9él dijo: ¿Quién eres? y ella respondióH559
+- Rut_3:10dijo: Bendita seas tú de Jehová, hijaH559
+- Rut_3:11no temas...haré contigo lo que tú digasH559
+- Rut_3:14él dijo: No se sepa que y ¡no mujer a laH559
+- Rut_3:15dijo: Quítate el manto que traes sobreH559
+- Rut_3:16su suegra...le dijo: ¿Qué hay, hija mía?[[H559]]
+- Rut_3:17y dijo: Estas seis medidas de cebada meH559
+- Rut_3:17diciéndome: A fin de que no vayas a tuH559
+- Rut_3:18Noemí dijo: Espérate, hija mía, hastaH559
+- Rut_4:1he aquí pasaba aquel pariente...y le dijoH559
+- Rut_4:2él tomó a diez varones...y dijo: SentaosH559
+- Rut_4:3dijo al pariente: Noemí, que ha vueltoH559
+- Rut_4:4y decirte que la compres en presencia deH559
+- Rut_4:8el pariente dijo a Booz: Tómalo tú...Y seH559
+- Rut_4:9Booz dijo a los ancianos y a...el puebloH559
+- Rut_4:11dijeron...los del pueblo que estaban aH559
+- Rut_4:14decían a Noemí: Loado sea Jehová, queH559
+- Rut_4:17le dieron nombre...diciendo: Le ha nacidoH559
+- 1Sa_1:8marido le dijo: Ana, ¿por qué llorasH559
+- 1Sa_1:11e hizo voto, diciendo...si te dignaresH559
+- 1Sa_1:14dijo Elí: ¿Hasta cuándo estarás ebria?[[H559]]
+- 1Sa_1:15y Ana le respondió diciendo: No, señorH559
+- 1Sa_1:17dijo: Vé en paz, y el Dios de Israel teH559
+- 1Sa_1:18dijo: Halle tu sierva gracia delante deH559
+- 1Sa_1:20y le puso por nombre Samuel, diciendoH559
+- 1Sa_1:22dijo a su marido Yo no subiré hasta queH559
+- 1Sa_1:26ella dijo: ¡Oh, señor mío! Vive tu almaH559
+- 1Sa_2:1Ana oró y dijo: Mi corazón se regocijaH559
+- 1Sa_2:15decía al que sacrificaba: Da carne queH559
+- 1Sa_2:20bendijo a Elcana...diciendo: Jehová teH559
+- 1Sa_2:23dijo: ¿Por qué hacéis cosas semejantes?[[H559]]
+- 1Sa_2:27a Elí, y le dijo: Así ha dicho JehováH559
+- 1Sa_2:30Jehová...dice: Yo había dicho que tu casaH5002, [[H559]]
+- 1Sa_2:30ahora ha dicho Jehová: Nunca yo tal hagaH5002
+- 1Sa_2:36postrarse...diciéndole: Te ruego que meH559
+- 1Sa_3:5a Elí, dijo: Heme aquí...Elí le d: Yo noH559
+- 1Sa_3:6Samuel...dijo: Heme aquí...él d: Hijo míoH559
+- 1Sa_3:8levantó y vino a Elí, y dijo: Heme aquíH559
+- 1Sa_3:9dijo Elí a Samuel: Vé y acuéstate; y siH559
+- 1Sa_3:9te llamare, dirás: Habla, Jehová, porqueH559
+- 1Sa_3:10entonces Samuel dijo: Habla, porque tuH559
+- 1Sa_3:11Jehová dijo a Samuel: He aquí haré yoH559
+- 1Sa_3:12cumpliré...todas las cosas que he dichoH1696
+- 1Sa_3:16llamando, pues, Elí a Samuel, le dijoH559
+- 1Sa_3:17dijo: ¿Qué es la palabra que te habló?[[H559]]
+- 1Sa_3:18entonces él dijo: Jehová es; haga lo queH559
+- 1Sa_4:3los ancianos...dijeron: ¿Por qué nos haH559
+- 1Sa_4:6dijeran: ¿Qué voz de gran júbilo es estaH559
+- 1Sa_4:7decían: Ha venido Dios...dijeron: ¡Ay deH559
+- 1Sa_4:14cuando Elí oyó el estruendo de la...dijoH559
+- 1Sa_4:16dijo, pues, aquel hombre...Elí d: ¿Qué haH559
+- 1Sa_4:17respondió diciendo: Israel huyó delanteH559
+- 1Sa_4:20le decían las que estaban junto a ellaH1696
+- 1Sa_4:21llamó...Icabod, diciendo: ¡Traspasada esH559
+- 1Sa_4:22dijo...Traspasada es la gloria de IsraelH559
+- 1Sa_5:7dijeron: No quede con nosotros el arcaH559
+- 1Sa_5:8convocaron...y les dijeron: ¿Qué haremosH559
+- 1Sa_5:10los ecronitas dieron voces, diciendo: HanH559
+- 1Sa_5:11y reunieron a...los príncipes...diciendoH559
+- 1Sa_6:3dijeron: Si enviáis el arca del Dios deH559
+- 1Sa_6:4ellos dijeron: ¿Y qué será la expiaciónH559
+- 1Sa_6:20dijeron los de Bet-semes: ¿Quién podráH559
+- 1Sa_6:21diciendo: Los filisteos han devuelto elH559
+- 1Sa_7:3habló Samuel...diciendo: Si de...corazónH559
+- 1Sa_7:5y Samuel dijo: Reunid a todo Israel enH559
+- 1Sa_7:6dijeron allí: Contra Jehová hemos pecadoH559
+- 1Sa_7:8dijeron...a Samuel: No ceses de clamar porH559
+- 1Sa_7:12diciendo: Hasta aquí nos ayudó JehováH559
+- 1Sa_8:5y le dijeron: He aquí tú has envejecidoH559
+- 1Sa_8:6pero no agradó a Samuel esta...que dijeronH559
+- 1Sa_8:7dijo Jehová a Samuel: Oye...que te diganH559
+- 1Sa_8:11dijo...Así hará el rey que reinará sobreH559
+- 1Sa_8:19no quiso oir...y dijo...habrá rey sobreH559
+- 1Sa_8:22dijo...Oye su voz, y pon rey sobre ellosH559
+- 1Sa_8:22dijo Samuel...Idos cada uno a vuestraH559
+- 1Sa_9:3dijo Cis a Saúl su hijo...vé a buscar aH559
+- 1Sa_9:5Saúl dijo a su criado...Ven, volvámonosH559
+- 1Sa_9:6todo lo que él dice acontece sin faltaH1696
+- 1Sa_9:8volvió el criado a responder...diciendoH559
+- 1Sa_9:9iba a consultar a Dios, decía así: VenidH559
+- 1Sa_9:10dijo...Saúl su criado: Dices bien; andaH559
+- 1Sa_9:11a las cuales dijeron: ¿Está...vidente?[[H559]]
+- 1Sa_9:12ellas...dijeron: Sí, helo allí delanteH559
+- 1Sa_9:15Jehová había revelado al oído...diciendoH559
+- 1Sa_9:17Jehová le dijo: He aquí éste es el varónH6030
+- 1Sa_9:18acercándose Saúl...le dijo: Te ruego queH559
+- 1Sa_9:19Samuel respondió...diciendo: Yo soy elH559
+- 1Sa_9:21dijo: ¿No soy yo hijo de Benjamín, deH559
+- 1Sa_9:21¿por qué...me has dicho cosa semejante?[[H1696]]
+- 1Sa_9:23y dijo Samuel al cocinero: Trae acá laH559
+- 1Sa_9:24Samuel dijo...se te guardó, cuando dijeH559
+- 1Sa_9:26Samuel llamó a Saúl...y dijo: LevántateH559
+- 1Sa_9:27dijo Samuel a Saúl: Dí al criado que seH559
+- 1Sa_10:1y te dijo: ¿No te ha ungido Jehová porH559
+- 1Sa_10:2hallarás dos hombres...dirán: Las asnasH559
+- 1Sa_10:2diciendo: ¿Qué haré acerca de mi hijo?[[H559]]
+- 1Sa_10:11el pueblo decía...¿Qué le ha sucedido alH559
+- 1Sa_10:12de allí respondió diciendo: ¿Y quién esH559
+- 1Sa_10:14un tío de Saúl dijo a él y a su criadoH559
+- 1Sa_10:15dijo el tío de Saúl: Yo te ruego meH559
+- 1Sa_10:15ruego me declares qué os dijo SamuelH559
+- 1Sa_10:18y dijo a...Israel: Así ha dicho JehováH559
+- 1Sa_10:19y habéis dicho: No, sino pon rey sobreH559
+- 1Sa_10:24Samuel dijo...¿Habéis visto al que haH559
+- 1Sa_10:24el pueblo clamó...diciendo: ¡Viva el rey![[H559]]
+- 1Sa_10:27algunos perversos dijeron: ¿Cómo nos haH559
+- 1Sa_11:1los de Jabes dijeron...Haz alianza conH559
+- 1Sa_11:3los de Jabes le dijeron: Danos siete díasH559
+- 1Sa_11:4dijeron estas palabras en oídos...puebloH1696
+- 1Sa_11:5y dijo Saúl: ¿Qué tiene el pueblo, queH559
+- 1Sa_11:7diciendo: Así se hará con los bueyes delH559
+- 1Sa_11:9diréis a los de Jabes de Galaad: MañanaH559
+- 1Sa_11:10los de Jabes dijeron a los enemigosH559
+- 1Sa_11:12el pueblo...dijo a Samuel: ¿Quiénes sonH559
+- 1Sa_11:12son los que decían: ¿Ha de reinar SaúlH559
+- 1Sa_11:13y Saúl dijo: No morirá hoy ningunoH559
+- 1Sa_11:14Samuel dijo al pueblo: Venid, vamos aH559
+- 1Sa_12:1dijo Samuel a todo Israel: He aquí, yoH559
+- 1Sa_12:4dijeron: Nunca nos has calumniado niH559
+- 1Sa_12:5él les dijo: Jehová es testigo contraH559
+- 1Sa_12:6dijo al pueblo: Jehová, que...es testigoH559
+- 1Sa_12:10ellos clamaron...y dijeron: Hemos pecadoH559
+- 1Sa_12:12dijisteis: No, sino que ha de reinarH559
+- 1Sa_12:19dijo todo el pueblo a Samuel: Ruega porH559
+- 1Sa_13:3trompeta...diciendo: Oigan los hebreosH559
+- 1Sa_13:4oyó que se decía: Saúl ha atacado a laH559
+- 1Sa_13:8conforme al plazo...Samuel había dicho
+- 1Sa_13:11Samuel dijo: ¿Qué has hecho? Y SaúlH559
+- 1Sa_13:12dije: Ahora descenderán los filisteosH559
+- 1Sa_13:13Samuel dijo a Saúl: Locamente has hechoH559
+- 1Sa_13:19los filisteos habían dicho: Para que losH559
+- 1Sa_14:1Jonatán...dijo a su criado que le traíaH559
+- 1Sa_14:6dijo...Jonatán a su paje...Ven, pasemos aH559
+- 1Sa_14:8dijo entonces Jonatán: Vamos a pasar aH559
+- 1Sa_14:9si nos dijeren así: Esperad hasta queH559
+- 1Sa_14:10si nos dijeren así: Subid a nosotrosH559
+- 1Sa_14:11filisteos dijeron: He aquí los hebreosH559
+- 1Sa_14:12dijeron: Subid a nosotros...dijo...SubeH559
+- 1Sa_14:17Saúl dijo...Pasad ahora revista, y vedH559
+- 1Sa_14:18y Saúl dijo a Ahías: Trae el arca deH559
+- 1Sa_14:19dijo Saúl al sacerdote: Detén tu manoH559
+- 1Sa_14:24juramentado...diciendo: Cualquiera queH559
+- 1Sa_14:28diciendo: Tu padre ha hecho jurar...dH559
+- 1Sa_14:33diciendo: El pueblo peca...y él dijoH559
+- 1Sa_14:34dijo Saúl: y decidles que me traiganH559
+- 1Sa_14:36dijo Saúl: Descendamos de noche contraH559
+- 1Sa_14:36dijeron: Haz lo que bien te pareciereH559
+- 1Sa_14:36dijo...el sacerdote: Acerquémonos aquíH559
+- 1Sa_14:38dijo Saúl: Venid acá...los principalesH559
+- 1Sa_14:40dijo luego a todo Israel: VosotrosH559
+- 1Sa_14:41dijo Saúl a Jehová...Da suerte perfectaH559
+- 1Sa_14:42Saúl dijo: Echad suertes entre mí YH559
+- 1Sa_14:43Saúl dijo a Jonatán: Declárame lo queH559
+- 1Sa_14:43y Jonatán...dijo...gusté un poco de mielH559
+- 1Sa_14:45el pueblo dijo a Saúl: ¿Ha de morirH559
+- 1Sa_15:1Samuel dijo a Saúl: Jehová me envió aH559
+- 1Sa_15:2ha dicho Jehová...Yo castigaré...AmalecH559
+- 1Sa_15:6dijo Saúl a los ceneos: Idos, apartaosH559
+- 1Sa_15:10palabra de Jehová a Samuel, diciendoH559
+- 1Sa_15:12dado aviso a Samuel, diciendo: SaúlH559
+- 1Sa_15:13vino...Samuel a Saúl, y Saúl le dijoH559
+- 1Sa_15:14Samuel...dijo: ¿Pues qué balido de ovejasH559
+- 1Sa_15:16dijo Samuel...lo que Jehová me ha dichoH559
+- 1Sa_15:16déjame declararte...él le respondió: DíH559
+- 1Sa_15:17y dijo Samuel: Aunque eras pequeño enH559
+- 1Sa_15:18Jehová te envió...y dijo: Vé, destruyeH559
+- 1Sa_15:22dijo: ¿Se complace Jehová tanto en losH559
+- 1Sa_15:24dijo a Samuel: Yo he pecado; pues heH559
+- 1Sa_15:28Samuel le dijo: Jehová ha rasgado hoyH559
+- 1Sa_15:30dijo: Yo he pecado; pero te ruego queH559
+- 1Sa_15:32dijo Samuel: Traedme a Agag...Y d AgagH559
+- 1Sa_15:33Samuel dijo: Como tu espada dejó a lasH559
+- 1Sa_16:1dijo Jehová a Samuel: ¿Hasta cuándoH559
+- 1Sa_16:2y dijo Samuel: ¿Cómo iré? Si Saúl loH559
+- 1Sa_16:2toma...una becerra de la...y dí: A ofrecerH559
+- 1Sa_16:3llama a...y me ungirás al que yo te dijereH559
+- 1Sa_16:4hizo, pues, Samuel como le dijo JehováH559
+- 1Sa_16:4salieron a recibirle con...y dijeron: ¿EsH559
+- 1Sa_16:6dijo: De cierto delante de Jehová estáH559
+- 1Sa_16:8,9dijo: Tampoco a éste ha escogidoH559
+- 1Sa_16:10pero Samuel dijo a Isaí: Jehová no haH559
+- 1Sa_16:11dijo Samuel a Isaí: ¿Son éstos todosH559
+- 1Sa_16:11y dijo Samuel a Isaí: Envía por élH559
+- 1Sa_16:12dijo: Levántate y úngelo, porque ésteH559
+- 1Sa_16:15los criados de Saúl le dijeron: He aquíH559
+- 1Sa_16:16diga...nuestro señor a tus siervos queH559
+- 1Sa_16:18diciendo...yo he visto a un hijo de IsaíH559
+- 1Sa_16:19Saúl envió mensajeros a Isaí, diciendoH559
+- 1Sa_16:22a decir a Isaí...que esté David conmigoH559
+- 1Sa_17:8y dio voces...diciéndoles: ¿Para qué osH559
+- 1Sa_17:17dijo Isaí a David su hijo: Toma ahoraH559
+- 1Sa_17:25decía: ¿No habéis visto aquel hombreH559
+- 1Sa_17:26habló David...diciendo: ¿Qué harán alH559
+- 1Sa_17:27el pueblo le respondió...diciendo: AsíH559
+- 1Sa_17:28y dijo: ¿Para qué has descendido acá?[[H559]]
+- 1Sa_17:31las palabras que David había dicho, YH1696
+- 1Sa_17:32y dijo David a Saúl: No desmaye elH559
+- 1Sa_17:33y dijo Saúl a David: No podrás tú irH559
+- 1Sa_17:37dijo Saúl a David: Vé, y Jehová estéH559
+- 1Sa_17:39dijo David a Saúl: Yo no puedo andarH559
+- 1Sa_17:43y dijo el filisteo a David: ¿Soy yoH559
+- 1Sa_17:44dijo luego el filisteo a David: Ven aH559
+- 1Sa_17:45dijo David al filisteo: Tú vienes a míH559
+- 1Sa_17:55cuando Saúl vio...dijo a Abner generalH559
+- 1Sa_17:56el rey dijo: Pregunta de quién es hijoH559
+- 1Sa_17:58le dijo Saúl: Muchacho, ¿de quién eresH559
+- 1Sa_18:7cantaban...y decían: Saúl hirió a...milesH559
+- 1Sa_18:8se enojó Saúl...y dijo: A David dieronH559
+- 1Sa_18:11arrojó...la lanza, diciendo: EnclavaréH559
+- 1Sa_18:17dijo Saúl a David...yo te daré Merab miH559
+- 1Sa_18:17Saúl decía: No será mi mano contra élH559
+- 1Sa_18:20fue dicho a Saúl, y le pareció bien aH5046
+- 1Sa_18:21Saúl dijo: Yo se la daré, para que leH559
+- 1Sa_18:21dijo...Saúl a David por segunda vez: TúH559
+- 1Sa_18:22hablad en secreto a David, diciéndoleH559
+- 1Sa_18:23David dijo: ¿Os parece a vosotros queH559
+- 1Sa_18:24diciendo: Tales palabras ha dicho DavidH559
+- 1Sa_18:25Saúl dijo: Decid así a David: El rey noH559
+- 1Sa_19:2y dio aviso a David, diciendo: Saúl miH559
+- 1Sa_19:4Jonatán...dijo: No peque el rey contra laH559
+- 1Sa_19:11Mical su mujer avisó a David, diciendoH559
+- 1Sa_19:15que viesen a David, diciendo: TraédmeloH559
+- 1Sa_19:17dijo a Mical: ¿Por qué me has engañadoH559
+- 1Sa_19:17dijo: Déjame ir; si no, yo te mataréH559
+- 1Sa_19:18le dijo todo lo que Saúl había hechoH5046
+- 1Sa_19:19dado aviso a Saúl, diciendo...en NaiotH559
+- 1Sa_19:22preguntó diciendo: ¿Dónde están...DavidH559
+- 1Sa_19:24de aquí se dijo: ¿También Saúl entreH559
+- 1Sa_20:1y dijo: ¿Qué he hecho yo? ¿Cuál es miH559
+- 1Sa_20:2le dijo: En ninguna manera; no morirásH559
+- 1Sa_20:3volvió a jurar diciendo: Tu padre sabeH559
+- 1Sa_20:3tu padre...dirá: No sepa esto JonatánH559
+- 1Sa_20:4y Jonatán dijo a David: Lo que deseareH559
+- 1Sa_20:6dirás: Me rogó mucho que lo dejase irH559
+- 1Sa_20:7si él dijere: Bien está...tendrá paz tuH559
+- 1Sa_20:9Jonatán le dijo: Nunca tal te sucedaH559
+- 1Sa_20:10dijo...David a Jonatán: ¿Quién me daráH559
+- 1Sa_20:11Jonatán dijo a David: Ven, salgamos alH559
+- 1Sa_20:12dijo Jonatán a David: ¡Jehová Dios deH559
+- 1Sa_20:16hizo Jonatán pacto con...David, diciendoH559
+- 1Sa_20:18le dijo Jonatán: Mañana es nueva lunaH559
+- 1Sa_20:21luego enviaré al criado, diciéndole
+- 1Sa_20:21si dijere al criado: He allí las saetasH559
+- 1Sa_20:22mas si yo dijere...He allí las saetasH559
+- 1Sa_20:26día Saúl no dijo nada, porque se decíaH1696, [[H559]]
+- 1Sa_20:27Saúl dijo a Jonatán su hijo: ¿Por quéH559
+- 1Sa_20:29diciendo: Te ruego que me dejes irH559
+- 1Sa_20:30se encendió la ira de Saúl...y le dijoH559
+- 1Sa_20:32y Jonatán...le dijo: ¿Por qué morirá?[[H559]]
+- 1Sa_20:36dijo al muchacho: Corre y busca lasH559
+- 1Sa_20:37dio voces tras el muchacho, diciendoH559
+- 1Sa_20:40le dijo: Vete y llévalas a la ciudadH559
+- 1Sa_20:42y Jonatán dijo a David: Vete en pazH559
+- 1Sa_20:42hemos jurado...diciendo: Jehová estéH559
+- 1Sa_21:1se sorprendió Ahimelec de...y le dijoH559
+- 1Sa_21:2el rey...me dijo: Nadie sepa cosa algunaH559
+- 1Sa_21:5David...le dijo: En verdad las mujeresH559
+- 1Sa_21:8David dijo a Ahimelec: ¿No tienes aquíH559
+- 1Sa_21:9dijo David: Ninguna como ella; dámelaH559
+- 1Sa_21:11los siervos de Aquis le dijeron: ¿no esH559
+- 1Sa_21:11de quien cantaban en...diciendo: HirióH559
+- 1Sa_21:14dijo Aquis a sus siervos...es dementeH559
+- 1Sa_22:3y se fue David...y dijo al rey de MoabH559
+- 1Sa_22:5el profeta Gad dijo a David: No te estésH559
+- 1Sa_22:7y dijo Saúl a sus siervos...Oíd ahoraH559
+- 1Sa_22:9Doeg...dijo: Yo vi al hijo de Isaí queH559
+- 1Sa_22:12Saúl le dijo: Oye...y él d: Heme aquíH559
+- 1Sa_22:13dijo Saúl: ¿Por qué habéis conspiradoH559
+- 1Sa_22:14Ahimelec...dijo: ¿Y quién...es tan fielH559
+- 1Sa_22:16el rey dijo: Sin duda morirás, AhimelecH559
+- 1Sa_22:17dijo el rey a la gente de su guardiaH559
+- 1Sa_22:18dijo el rey a Doeg: Vuelve...y arremeteH559
+- 1Sa_22:22dijo David a Abiatar: Yo sabía queH559
+- 1Sa_23:1diciendo...los filisteos combaten a KeilaH559
+- 1Sa_23:2David consultó a Jehová, diciendo: ¿IréH559
+- 1Sa_23:3los que estaban con David le dijeronH559
+- 1Sa_23:4Jehová le...dijo: Levántate, desciendeH559
+- 1Sa_23:7dijo Saúl: Dios lo ha entregado en miH559
+- 1Sa_23:9David...dijo a Abiatar sacerdote: TraeH559
+- 1Sa_23:10dijo David: Jehová Dios de Israel, tuH559
+- 1Sa_23:11ruego...y Jehová dijo: Sí, descenderáH559
+- 1Sa_23:12dijo luego David: ¿Me entregarán losH559
+- 1Sa_23:17le dijo: No temas, pues no te hallaráH559
+- 1Sa_23:19subieron...de Zif para decirle a SaúlH559
+- 1Sa_23:21Saúl dijo: Benditos seáis vosotros deH559
+- 1Sa_23:22se me ha dicho que él es astuto enH559
+- 1Sa_23:27mensajero a Saúl, diciendo: Ven luegoH559
+- 1Sa_24:1dieron aviso, diciendo: He aquí DavidH559
+- 1Sa_24:4le dijeron...día de que te dijo JehováH559
+- 1Sa_24:6dijo a sus hombres: Jehová me guarde deH559
+- 1Sa_24:8dio voces detrás de Saúl, diciendo: ¡ MiH559
+- 1Sa_24:9dijo David a Saúl: ¿Por qué oyes lasH559
+- 1Sa_24:10dijeron que te matase, pero te perdonéH559
+- 1Sa_24:10dije: No extenderé mi mano contra miH559
+- 1Sa_24:13como dice el proverbio de los antiguosH559
+- 1Sa_24:16David acabó de decir...Saúl dijo: ¿NoH559
+- 1Sa_24:17dijo a David: Más justo eres tú que yoH559
+- 1Sa_25:5envió David diez jóvenes y les dijoH559
+- 1Sa_25:6decidle así: Sea paz a ti, y paz a tuH559
+- 1Sa_25:8pregunta a tus criados, y...te lo diránH5046
+- 1Sa_25:9cuando llegaron...dijeron a Nabal todasH1696
+- 1Sa_25:10Nabal respondió a...y dijo: ¿Quién esH559
+- 1Sa_25:12dijeron a David todas estas palabrasH5046
+- 1Sa_25:13David dijo a sus hombres: Cíñase cadaH559
+- 1Sa_25:14dio aviso a Abigail...diciendo: He aquíH559
+- 1Sa_25:19dijo a sus criados: Id delante de míH559
+- 1Sa_25:21David había dicho: Ciertamente en vanoH559
+- 1Sa_25:24y dijo: Señor mío, sobre mí sea elH559
+- 1Sa_25:32y dijo David a Abigail: Bendito seaH559
+- 1Sa_25:35David...le dijo: Sube en paz a tu casaH559
+- 1Sa_25:39que David oyó...dijo: Bendito sea JehováH559
+- 1Sa_25:40diciendo: David nos ha enviado a tiH559
+- 1Sa_25:41inclinó su rostro a tierra, diciendoH559
+- 1Sa_26:1vinieron los zifeos a Saúl...diciendoH559
+- 1Sa_26:6David dijo a Ahimelec heteo y a AbisaiH559
+- 1Sa_26:6dijo Abisai: Yo descenderé contigoH559
+- 1Sa_26:8dijo Abisai a David: Hoy ha entregadoH559
+- 1Sa_26:10dijo además David: Vive Jehová, que siH559
+- 1Sa_26:14y dio voces...diciendo: ¿No respondesH559
+- 1Sa_26:14Abner...dijo: ¿Quién eres tú que gritasH559
+- 1Sa_26:15dijo David a Abner: ¿No eres...hombre?[[H559]]
+- 1Sa_26:17conociendo Saúl la voz de David, dijoH559
+- 1Sa_26:18dijo: ¿Por qué persigue así mi señorH559
+- 1Sa_26:19me han arrojado...diciendo: Ve y sirveH559
+- 1Sa_26:21dijo Saúl: He pecado; vuélvete, hijoH559
+- 1Sa_26:22David...dijo: He aquí la lanza del reyH559
+- 1Sa_26:25y Saúl dijo a David: Bendito eres túH559
+- 1Sa_27:1dijo luego David en...Al fin seré muertoH559
+- 1Sa_27:5David dijo a Aquis: Si he hallado graciaH559
+- 1Sa_27:10decía Aquis: ¿Dónde habéis merodeadoH559
+- 1Sa_27:10David decía: En el Neguev de Judá, yH559
+- 1Sa_27:11diciendo: No...digan: Esto hizo DavidH559
+- 1Sa_27:12y Aquis creía a David, y decía: Él se haH559
+- 1Sa_28:1dijo Aquis a David: Ten entendido queH559
+- 1Sa_28:2Aquis dijo a David...yo te constituiréH559
+- 1Sa_28:7Saúl dijo a sus criados: Buscadme unaH559
+- 1Sa_28:8y él dijo: Yo te ruego que me adivinesH559
+- 1Sa_28:8y me hagas subir a quien yo te dijereH559
+- 1Sa_28:9la mujer le dijo: He aquí tú sabes loH559
+- 1Sa_28:10Saúl le Juró...diciendo: Vive JehováH559
+- 1Sa_28:11mujer...dijo: ¿A quién te haré venir?[[H559]]
+- 1Sa_28:12habló aquella mujer a Saúl, diciendoH559
+- 1Sa_28:13rey le dijo: No temas. ¿Qué has visto?[[H559]]
+- 1Sa_28:14él le dijo: ¿Cuál es su forma? Y ellaH559
+- 1Sa_28:15Samuel dijo a Saúl: ¿Por qué me hasH559
+- 1Sa_28:16Samuel dijo: ¿Y para qué me preguntasH559
+- 1Sa_28:17te ha hecho como dijo por medio de míH1696
+- 1Sa_28:21la mujer...dijo: He aquí que tu siervaH559
+- 1Sa_28:21oído las palabras que tú me has dichoH1696
+- 1Sa_28:23y él rehusó diciendo: No comeré. PeroH559
+- 1Sa_29:3dijeron los príncipes de los filisteosH559
+- 1Sa_29:4los príncipes...dijeron: Despide a esteH559
+- 1Sa_29:5de quien cantaban...diciendo: Saúl hirióH559
+- 1Sa_29:6y Aquis llamó a David y le dijo: ViveH559
+- 1Sa_29:9Aquis respondió...y dijo: Yo sé que túH559
+- 1Sa_29:9los príncipes...me han dicho: No vengaH559
+- 1Sa_30:7y dijo David al sacerdote Abiatar hijoH559
+- 1Sa_30:8a Jehová, diciendo: ¿Perseguiré a estosH559
+- 1Sa_30:8y él le dijo: Síguelos...los alcanzarásH559
+- 1Sa_30:13le dijo David: ¿De quién eres tú, y deH559
+- 1Sa_30:15le dijo David: ¿Me llevarás tú...Y él dH559
+- 1Sa_30:20decían: Este es el botín de DavidH559
+- 1Sa_30:22los malos...dijeron: Porque no fueronH559
+- 1Sa_30:23y David dijo: No hagáis eso, hermanosH559
+- 1Sa_30:26envió del botín...sus amigos, diciendoH559
+- 1Sa_31:4entonces dijo Saúl a su escudero: SacaH559
+- 2Sa_1:4David le dijo: ¿Qué ha acontecido?[[H559]]
+- 2Sa_1:4te ruego que me lo digas. Y él respondióH5046
+- 2Sa_1:5dijo David a aquel joven que le daba lasH559
+- 2Sa_1:7me vio y me llamó; y yo dije: Heme aquíH559
+- 2Sa_1:9a decir: Te ruego que te pongas sobre míH559
+- 2Sa_1:13y David dijo a aquel joven...¿De dóndeH559
+- 2Sa_1:14dijo David: ¿Cómo no tuviste temor deH559
+- 2Sa_1:15llamó David a...y le dijo: Ve y mátaloH559
+- 2Sa_1:16David le dijo: Tu sangre sea sobre tuH559
+- 2Sa_1:16pues tu misma boca atestiguó...diciendoH559
+- 2Sa_1:18dijo que debía enseñarse a los hijos deH559
+- 2Sa_2:1que David consultó...diciendo: ¿Subiré aH559
+- 2Sa_2:1David volvió a decir: ¿A dónde subiré?[[H559]]
+- 2Sa_2:4dieron aviso...diciendo: Los de Jabes deH559
+- 2Sa_2:5envió David...diciéndoles: Benditos seáisH559
+- 2Sa_2:14dijo Abner a Joab: Levántense ahora losH559
+- 2Sa_2:20miró atrás...y dijo: ¿No eres tú Asael?[[H559]]
+- 2Sa_2:21Abner le dijo: Apártate a la derecha oH559
+- 2Sa_2:22Abner volvió a decir a Asael: ApártateH559
+- 2Sa_2:26y Abner dio voces a Joab, diciendoH559
+- 2Sa_2:26¿hasta cuándo no dirás al pueblo que seH559
+- 2Sa_3:7dijo Is-boset a Abner: ¿Por qué te hasH559
+- 2Sa_3:8Abner...dijo: ¿Soy yo cabeza de perro queH559
+- 2Sa_3:12envió Abner mensajeros a David...diciendoH559
+- 2Sa_3:12que te dijesen: Haz pacto conmigo, y heH559
+- 2Sa_3:13y David dijo: Bien; haré pacto contigoH559
+- 2Sa_3:14diciendo: Restitúyeme mi mujer MicalH559
+- 2Sa_3:16le dijo Abner: Anda, vuélvete...volvióH559
+- 2Sa_3:17habló Abner...diciendo: Hace ya tiempoH559
+- 2Sa_3:18Jehová ha hablado a David, diciendoH559
+- 2Sa_3:19decir a David todo lo que parecía bienH1696
+- 2Sa_3:21y dijo Abner a David: Yo me levantaréH559
+- 2Sa_3:23aviso a Joab, diciendo: Abner hijo deH559
+- 2Sa_3:24Joab vino...y le dijo: ¿Qué has hecho?[[H559]]
+- 2Sa_3:28cuando David supo...dijo: Inocente soyH559
+- 2Sa_3:31dijo David a Joab, y a todo el puebloH559
+- 2Sa_3:33endechando a...decía: ¿Había de morirH559
+- 2Sa_3:35David juró diciendo: Así me haga DiosH559
+- 2Sa_3:38dijo el rey a sus siervos: ¿No sabéisH559
+- 2Sa_4:8y dijeron al rey: He aquí la cabeza deH559
+- 2Sa_4:9y David...les dijo: Vive Jehová que haH559
+- 2Sa_4:10me dio nuevas, diciendo...Saúl ha muertoH559
+- 2Sa_5:1diciendo: Henos aquí, hueso tuyo...somosH559
+- 2Sa_5:2Jehová te ha dicho: Tú apacentarás a miH559
+- 2Sa_5:6los jebuseos...hablaron a David, diciendoH559
+- 2Sa_5:6queriendo decir: David no puede entrarH559
+- 2Sa_5:8dijo David aquel día: Todo el que hieraH559
+- 2Sa_5:19consultó David...diciendo: ¿Iré contraH559
+- 2Sa_5:20dijo: Quebrantó Jehová a mis enemigosH559
+- 2Sa_6:9temiendo David...dijo: ¿Cómo ha de venirH559
+- 2Sa_6:12dado aviso al rey...diciendo: Jehová haH559
+- 2Sa_6:20saliendo Mical...dijo: ¡Cuán honrado haH559
+- 2Sa_7:2dijo el rey al profeta Natán: Mira ahoraH559
+- 2Sa_7:3Natán dijo al rey: Anda, y haz todo loH559
+- 2Sa_7:4vino palabra de Jehová a Natán, diciendoH559
+- 2Sa_7:5ve y dí a mi siervo...Así ha dicho JehováH559
+- 2Sa_7:7diciendo: ¿Por qué no me habéis edificadoH559
+- 2Sa_7:8dirás...a mi siervo David: Así ha dichoH559
+- 2Sa_7:18y entró al rey...y dijo...¿quién soy yoH559
+- 2Sa_7:25ahora...haz conforme a lo que has dichoH1696
+- 2Sa_7:26y se diga: Jehová de los ejércitos esH559
+- 2Sa_7:27revelaste al...diciendo: Yo te edificaréH559
+- 2Sa_7:29porque tú, Jehová Dios, lo has dichoH1696
+- 2Sa_9:1dijo David: ¿Ha quedado alguno deH559
+- 2Sa_9:2le dijo: ¿Eres tú Siba? Y él respondióH559
+- 2Sa_9:3el rey le dijo: ¿No ha quedado nadie de laH559
+- 2Sa_9:6y dijo David: Mefi-boset. Y él respondióH559
+- 2Sa_9:7dijo David: No tengas temor, porque yoH559
+- 2Sa_9:8inclinándose, dijo: ¿Quién es tu siervoH559
+- 2Sa_9:9el rey llamó a Siba...y le dijo: Todo loH559
+- 2Sa_9:11Mefi-boset, dijo el rey, comerá a mi
+- 2Sa_10:2dijo David: Yo haré misericordia conH559
+- 2Sa_10:3príncipes de...dijeron a Hanún su señorH559
+- 2Sa_10:5rey mandó...dijeran: Quedaos en JericóH559
+- 2Sa_10:11dijo: Si los sirios pudieren más queH559
+- 2Sa_11:3le dijeron: Aquella es Betsabé hija deH559
+- 2Sa_11:5envió...a David, diciendo: Estoy encintaH559
+- 2Sa_11:6David envió a decir a Joab: Envíame aH559
+- 2Sa_11:8dijo...a Urías: Desciende a tu casa, yH559
+- 2Sa_11:10hicieron saber...diciendo: Urías no haH559
+- 2Sa_11:10dijo David a Urías: ¿No has venido deH559
+- 2Sa_11:12David dijo a Urías: Quédate aquí aúnH559
+- 2Sa_11:15y escribió...diciendo: Poned a Urías alH559
+- 2Sa_11:19diciendo: Cuando acabes de contar alH559
+- 2Sa_11:20y te dijere: ¿Por qué os acercaisteisH559
+- 2Sa_11:21tú le dirás: También tu siervo UríasH559
+- 2Sa_11:23dijo...prevalecieron contra nosotrosH559
+- 2Sa_11:25David dijo al mensajero: Así dirás aH559
+- 2Sa_12:1y viniendo...le dijo: Había dos hombresH559
+- 2Sa_12:5dijo a Natán: Vive Jehová, que el queH559
+- 2Sa_12:7dijo Natán a David...eres aquel hombreH559
+- 2Sa_12:7así ha dicho Jehová...Yo te ungí por reyH559
+- 2Sa_12:11así ha dicho Jehová: He aquí yo haréH559
+- 2Sa_12:13dijo David...Pequé...y Natán d a DavidH559
+- 2Sa_12:18diciendo entre sí: Cuando el niño aúnH559
+- 2Sa_12:18si le decimos que el niño ha muerto?[[H559]]
+- 2Sa_12:19dijo David a sus siervos: ¿Ha muertoH559
+- 2Sa_12:21le dijeron sus siervos: ¿Qué es estoH559
+- 2Sa_12:22yo ayunaba...diciendo: ¿Quién sabe siH559
+- 2Sa_12:27Joab...diciendo: Yo he puesto sitio aH559
+- 2Sa_13:4y éste le dijo: Hijo del rey, ¿por quéH559
+- 2Sa_13:5Jonadab le dijo: Acuéstate en tu camaH559
+- 2Sa_13:5cuando tu padre viniere...dile: Te ruegoH559
+- 2Sa_13:6y dijo Amnón al rey: Yo te ruego queH559
+- 2Sa_13:7David envió a Tamar...diciendo: Vé ahoraH559
+- 2Sa_13:9dijo Amnón: Echad fuera de aquí a todosH559
+- 2Sa_13:10Amnón dijo a Tamar: Trae la comida aH559
+- 2Sa_13:11le dijo: Ven, hermana mía, acuéstateH559
+- 2Sa_13:15luego...dijo Amnón: Levántate, y veteH559
+- 2Sa_13:17llamando a su criado...dijo: Echame aH559
+- 2Sa_13:20le dijo su hermano Absalón: ¿Ha estadoH559
+- 2Sa_13:24vino Absalón al rey y dijo: He aquí, tuH559
+- 2Sa_13:26dijo Absalón: Pues si no, te ruego queH559
+- 2Sa_13:28y Absalón había dado orden...diciendoH559
+- 2Sa_13:28al decir yo: Herid a Amnón...matadleH559
+- 2Sa_13:30llegó...el rumor que decía: Absalón haH559
+- 2Sa_13:32Jonadab...dijo: No diga mi señor queH559
+- 2Sa_13:33ese rumor que dice: Todos los hijos delH559
+- 2Sa_13:35dijo Jonadab al rey: He allí los hijosH559
+- 2Sa_14:2tomó de allá una mujer astuta, y le dijoH559
+- 2Sa_14:4y postrándose...dijo ¡Socorro, oh reyH559
+- 2Sa_14:5le dijo: ¿Qué tienes? Y ella respondióH559
+- 2Sa_14:7se ha levantado...diciendo: Entrega alH559
+- 2Sa_14:8el rey dijo a la mujer: Vete a tu casaH559
+- 2Sa_14:9y la mujer...dijo al rey: Rey señor míoH559
+- 2Sa_14:10el rey dijo: Al que hablare contra tiH559
+- 2Sa_14:11dijo ella...Te ruego, oh rey que teH559
+- 2Sa_14:12la mujer dijo: Te ruego que permitasH559
+- 2Sa_14:12hable una palabra a...Y él dijo: HablaH559
+- 2Sa_14:13la mujer dijo: ¿Por qué...has pensadoH559
+- 2Sa_14:15el haber yo venido...decir esto al reyH1696
+- 2Sa_14:15tu sierva dijo: Hablaré ahora al reyH559
+- 2Sa_14:17tu sierva...dice: Sea ahora de consueloH559
+- 2Sa_14:18David...dijo a la mujer: Yo te ruego queH559
+- 2Sa_14:18la mujer dijo: Hable mi señor el reyH559
+- 2Sa_14:19el rey dijo: ¿No anda la mano de JoabH559
+- 2Sa_14:19la mujer...dijo: Vive tu alma, rey señorH559
+- 2Sa_14:21rey dijo a Joab: He aquí yo hago estoH559
+- 2Sa_14:22dijo: Hoy ha entendido tu siervo queH559
+- 2Sa_14:22hecho el rey lo que su siervo ha dichoH1697
+- 2Sa_14:24el rey dijo: Váyase a su casa, y no veaH559
+- 2Sa_14:30dijo a sus siervos: Mirad, el campo deH559
+- 2Sa_14:31Joab...le dijo: ¿Por qué han prendidoH559
+- 2Sa_14:32he enviado...diciendo que vinieses acáH559
+- 2Sa_14:32para decirle: ¿Para qué vine de GesurH559
+- 2Sa_15:2Absalón...le decía: ¿De qué ciudad eres?[[H559]]
+- 2Sa_15:3decía: Mira, tus palabras son buenas yH559
+- 2Sa_15:4decía Absalón: ¡Quién me pusiera porH559
+- 2Sa_15:7que Absalón dijo al rey: Yo te ruego meH559
+- 2Sa_15:8porque tu siervo hizo voto...diciendoH559
+- 2Sa_15:9el rey le dijo: Ve en paz...se levantóH559
+- 2Sa_15:10diciendo: Cuando oigáis el sonido deH559
+- 2Sa_15:13un mensajero vino a David, diciendoH559
+- 2Sa_15:14David dijo a...sus siervos...LevantaosH559
+- 2Sa_15:15los siervos del rey dijeron...He aquíH559
+- 2Sa_15:19y dijo el rey a Itai geteo: ¿Para quéH559
+- 2Sa_15:21respondió Itai al...diciendo: Vive DiosH559
+- 2Sa_15:22David dijo a Itai: Ven, pues, y pasaH559
+- 2Sa_15:25dijo el rey a Sadoc: Vuelve el arca deH559
+- 2Sa_15:26si dijere: No me complazco en ti; aquíH559
+- 2Sa_15:27dijo además...¿No eres tú el vidente?[[H559]]
+- 2Sa_15:31dieron aviso...diciendo: Ahitofel estáH559
+- 2Sa_15:31dijo David: Entorpece ahora, oh JehováH559
+- 2Sa_15:33le dijo David: Si pasares conmigo, meH559
+- 2Sa_15:34y dijeres a Absalón: Rey, yo seré tuH559
+- 2Sa_16:2y dijo el rey a Siba: ¿Qué es esto? YH559
+- 2Sa_16:3dijo el rey: ¿Dónde está el hijo de tuH559
+- 2Sa_16:3ha dicho: Hoy me devolverá la casa deH559
+- 2Sa_16:4el rey dijo a Siba: He aquí, sea tuyoH559
+- 2Sa_16:7y decía Simei, maldiciéndole: ¡FueraH559
+- 2Sa_16:9Abisai...dijo al rey: ¿Por qué maldiceH559
+- 2Sa_16:10porque Jehová le ha dicho que maldigaH559
+- 2Sa_16:10¿quién...dirá: ¿Por qué lo haces así?[[H559]]
+- 2Sa_16:11dijo David...mi hijo que...acecha mi vidaH559
+- 2Sa_16:11que maldiga, pues Jehová se lo ha dichoH559
+- 2Sa_16:16dijo Husai: ¡Viva el rey, viva el rey![[H559]]
+- 2Sa_16:17y Absalón dijo a Husai: ¿Es este tuH559
+- 2Sa_16:20dijo Absalón a Ahitofel: Dad...consejoH559
+- 2Sa_16:21Ahitofel dijo...Llégate a las concubinasH559
+- 2Sa_17:1Ahitofel dijo a Absalón: Yo escogeréH559
+- 2Sa_17:5dijo Absalón: Llamad también ahora aH559
+- 2Sa_17:5Husai arquita...oigamos lo que él diráH559
+- 2Sa_17:6habló Absalón, diciendo: Así ha dichoH559
+- 2Sa_17:6así...¿seguiremos su consejo, o no? Di túH1697
+- 2Sa_17:7Husai dijo a Absalón: El consejo queH559
+- 2Sa_17:9dirá: El pueblo que sigue a Absalón haH559
+- 2Sa_17:14dijeron: El consejo de Husai es mejorH559
+- 2Sa_17:15dijo...Husai a los sacerdotes Sadoc yH559
+- 2Sa_17:16aviso a David, diciendo: No te quedesH559
+- 2Sa_17:20llegando luego...dijeron...¿Dónde estánH559
+- 2Sa_17:21dieron aviso al rey David, diciéndoleH559
+- 2Sa_17:29decían: El pueblo está hambriento yH559
+- 2Sa_18:2dijo el rey al pueblo: Yo...saldré conH559
+- 2Sa_18:3el pueblo dijo: No saldrás; porque siH559
+- 2Sa_18:4el rey les dijo: Yo haré lo que bien osH559
+- 2Sa_18:5mandó...diciendo: Tratad benignamenteH559
+- 2Sa_18:10avisó a Joab, diciendo...que he visto aH559
+- 2Sa_18:12hombre dijo a Joab: Aunque me pesarasH559
+- 2Sa_18:12el rey te mandó...diciendo: Mirad queH559
+- 2Sa_18:18dicho: Yo no tengo hijo que conserveH559
+- 2Sa_18:19Ahimaas...dijo: ¿Correré ahora, y daréH559
+- 2Sa_18:21Joab dijo a un etíope: Vé tú, y dí alH559
+- 2Sa_18:22Ahimaas hijo de...volvió a decir a JoabH559
+- 2Sa_18:22Joab dijo: Hijo mío, ¿para qué has deH559
+- 2Sa_18:23le dijo: Corre. Corrió, pues, AhimaasH559
+- 2Sa_18:25rey dijo: Si viene solo, buenas nuevasH559
+- 2Sa_18:26diciendo: He aquí otro hombre que correH559
+- 2Sa_18:26el rey dijo: Este también es mensajeroH559
+- 2Sa_18:27el atalaya volvió a decir: Me pareceH559
+- 2Sa_18:28Ahimaas dijo en alta voz al rey: PazH559
+- 2Sa_18:28inclinó...y dijo: Bendito sea JehováH559
+- 2Sa_18:29,32dijo: ¿El joven Absalón está bienH559
+- 2Sa_18:30el rey dijo: Pasa, y ponte allí. Y élH559
+- 2Sa_18:31vino el etíope, y dijo: Reciba nuevasH559
+- 2Sa_18:33decía así: ¡Hijo mío Absalón, hijo míoH559
+- 2Sa_19:2oyó decir el pueblo...que el rey teníaH559
+- 2Sa_19:5Joab vino al rey en la casa, y dijo: HoyH559
+- 2Sa_19:8fue dado aviso...diciendo: He aquí el reyH559
+- 2Sa_19:9el pueblo disputaba...diciendo: El reyH559
+- 2Sa_19:11David envió a...diciendo: Hablad a losH559
+- 2Sa_19:11decidles: ¿Por qué seréis vosotros losH559
+- 2Sa_19:14que enviasen a decir al rey: Vuelve tú
+- 2Sa_19:19dijo al rey: No me culpe mi señor deH559
+- 2Sa_19:21respondió Abisai...y dijo: ¿No ha deH559
+- 2Sa_19:22David...dijo: ¿Qué tengo yo con vosotrosH559
+- 2Sa_19:23dijo el rey a Simei: No morirás. Y elH559
+- 2Sa_19:25rey le dijo: Mefi-boset, ¿por qué noH559
+- 2Sa_19:26tu siervo había dicho: Enalbárdame unH559
+- 2Sa_19:29rey le dijo: ¿Para qué más palabras?[[H559]]
+- 2Sa_19:30Mefi-boset dijo...Deja que él las tomeH559
+- 2Sa_19:33el rey dijo a Barzilai: Pasa conmigoH559
+- 2Sa_19:34Barzilai dijo al rey: ¿Cuántos añosH559
+- 2Sa_19:38el rey dijo: Pues pase conmigo QuimamH559
+- 2Sa_19:41dijeron: ¿Por qué los hombres de JudáH559
+- 2Sa_19:43de Israel, y dijeron a los de JudáH559
+- 2Sa_20:1dijo: No tenemos...parte en David, niH559
+- 2Sa_20:4dijo el rey a Amasa: Convócame a losH559
+- 2Sa_20:6dijo David a Abisai: Seba hijo de BicriH559
+- 2Sa_20:9dijo a Amasa: ¿Te va bien, hermano mío?[[H559]]
+- 2Sa_20:11diciendo: Cualquiera que ame a Joab yH559
+- 2Sa_20:16mujer...dio voces...diciendo: Oíd, oídH559
+- 2Sa_20:17cuando él se acercó a...dijo la mujerH559
+- 2Sa_20:18diciendo: Antiguamente solían decirH559
+- 2Sa_20:20Joab respondió diciendo: Nunca tal meH559
+- 2Sa_20:21mujer dijo a Joab: He aquí su cabezaH559
+- 2Sa_21:1y Jehová le dijo: Es por causa de SaúlH559
+- 2Sa_21:3dijo...David a los gabaonitas: ¿Qué haréH559
+- 2Sa_21:4él les dijo: Lo que vosotros dijereisH559
+- 2Sa_21:6dénsenos...y el rey dijo: Yo los daréH559
+- 2Sa_21:11fue dicho a David lo que hacía RizpaH5046
+- 2Sa_21:17juraron, diciendo: Nunca más...saldrásH559
+- 2Sa_22:2dijo: Jehová es mi roca y mi fortalezaH559
+- 2Sa_23:1dijo David hijo...dijo aquel varón queH5002
+- 2Sa_23:3el Dios de Israel ha dicho, me habló laH559
+- 2Sa_23:15David dijo...¡Quién me diera a beber delH559
+- 2Sa_23:16que la derramó para Jehová, diciendoH559
+- 2Sa_24:1incitó a David...a que dijese: Vé, hazH559
+- 2Sa_24:2dijo el rey a Joab...un censo del puebloH559
+- 2Sa_24:10y dijo David a Jehová: Yo he pecadoH559
+- 2Sa_24:11vino palabra de Jehová...Gad, diciendoH559
+- 2Sa_24:12vé y dí a David: Así ha dicho JehováH559, [[H1696]]
+- 2Sa_24:13Gad...le dijo: ¿Quieres que te venganH559
+- 2Sa_24:14David dijo...En grande angustia estoyH559
+- 2Sa_24:16Jehová...dijo al ángel que destruía alH559
+- 2Sa_24:17David dijo...cuando vio al ángel queH559
+- 2Sa_24:18Gad vino a David...y le dijo: Sube, yH559
+- 2Sa_24:21Arauna dijo: ¿Por qué viene mi señorH559
+- 2Sa_24:22Arauna dijo a David: Tome y ofrezcaH559
+- 2Sa_24:23dijo Arauna al rey: Jehová tu Dios teH559
+- 2Sa_24:24dijo a Arauna: No, sino por precio teH559
+- 1Re_1:2le dijeron...sus siervos: Busquen paraH559
+- 1Re_1:5Adonías...se rebeló, diciendo: Yo reinaréH559
+- 1Re_1:6nunca...con decirle: ¿Por qué haces así?[[H559]]
+- 1Re_1:11habló Natán a Betsabé...diciendo: ¿No hasH559
+- 1Re_1:13entra al rey David, y dile: Rey señorH559
+- 1Re_1:13diciendo: Salomón...reinará después deH559
+- 1Re_1:16se inclinó...Y el rey dijo: ¿Qué tienes?[[H559]]
+- 1Re_1:17tú juraste...diciendo: Salomón tu hijo
+- 1Re_1:23dieron aviso al rey, diciendo: He aquíH559
+- 1Re_1:24dijo Natán: Rey señor mío, ¿has dichoH559
+- 1Re_1:25hoy...han dicho: ¡Viva el rey Adonías![[H559]]
+- 1Re_1:28el rey David...dijo: Llamadme a BetsabéH559
+- 1Re_1:29el rey juró diciendo: Vive Jehová, queH559
+- 1Re_1:30te he jurado...diciendo: Tu hijo SalomónH559
+- 1Re_1:31haciendo reverencia...dijo: Viva...el reyH559
+- 1Re_1:32el rey David dijo: Llamadme al sacerdoteH559
+- 1Re_1:33dijo: Tomad con vosotros los siervosH559
+- 1Re_1:34tocaréis trompeta, diciendo: ¡Viva elH559
+- 1Re_1:36dijo: Amén. Así lo diga Jehová, Dios deH559
+- 1Re_1:39y dijo todo el pueblo: ¡Viva...Salomón![[H559]]
+- 1Re_1:41oyendo Joab...dijo: ¿Por qué se alborotaH559
+- 1Re_1:42al cual dijo Adonías: Entra, porque túH559
+- 1Re_1:43Jonatán...dijo a Adonías: CiertamenteH559
+- 1Re_1:47diciendo: Dios haga bueno el nombre deH559
+- 1Re_1:48el rey ha dicho así: Bendito sea JehováH559
+- 1Re_1:51lo hicieron saber a Salomón, diciendoH559
+- 1Re_1:51diciendo: Júreme hoy el rey Salomón queH559
+- 1Re_1:52Salomón dijo: Si él fuere hombre de bienH559
+- 1Re_1:53vino...Salomón le dijo: Vete a tu casaH559
+- 1Re_2:1y ordenó a Salomón su hijo, diciendoH559
+- 1Re_2:4habló, diciendo: Si tus hijos guardarenH559
+- 1Re_2:4jamás, dice, faltará...varón en el tronoH559
+- 1Re_2:8yo le juré, diciendo: Yo no te mataréH559
+- 1Re_2:13Adonías...vino a Betsabé...y ella le dijoH559
+- 1Re_2:14dijo...tengo que decirte...ella le dijo: DíH559
+- 1Re_2:15él dijo: Tú sabes que el reino era míoH559
+- 1Re_2:16hago una petición...Y ella le dijo: HablaH559
+- 1Re_2:17dijo...ruego que hables al rey SalomónH559
+- 1Re_2:18Betsabé dijo: Bien; yo hablaré por tiH559
+- 1Re_2:20dijo: Una pequeña petición pretendo deH559
+- 1Re_2:20el rey le dijo: Pide, madre mía, que yoH559
+- 1Re_2:21ella dijo: Dese Abisag...por mujer a tuH559
+- 1Re_2:22rey Salomón...dijo a su madre: ¿Por quéH559
+- 1Re_2:23rey Salomón juró...diciendo: Así me hagaH559
+- 1Re_2:24me ha hecho casa, como me había dichoH1696
+- 1Re_2:26el rey dijo al sacerdote Abiatar: VeteH559
+- 1Re_2:27que había dicho sobre la casa de ElíH1696
+- 1Re_2:29envió Salomón a Benaía...diciendo: Vé, yH559
+- 1Re_2:30y le dijo: El rey ha dicho que salgasH559
+- 1Re_2:30y él dijo: No, sino que aquí moriréH559
+- 1Re_2:30al rey, diciendo: Así dijo Joab, y asíH559, [[H1696]]
+- 1Re_2:31el rey le dijo: Haz como él ha dichoH559, [[H1696]]
+- 1Re_2:36a Simei, y le dijo: Edifícate una casaH559
+- 1Re_2:38Simei dijo al rey: La palabra es buenaH559
+- 1Re_2:38como el rey...ha dicho, así lo hará tuH1696
+- 1Re_2:39diciendo...que tus siervos están en GatH559
+- 1Re_2:41dicho a Salomón que Simei había ido deH5046
+- 1Re_2:42el rey...hizo venir a Simei, y le dijoH559
+- 1Re_2:42diciendo: El día que salieres y fueresH559
+- 1Re_2:42tú me dijiste: La palabra es buena, yoH559
+- 1Re_2:44dijo...el rey a Simei: Tú sabes todo elH559
+- 1Re_3:5dijo Dios: Pide lo que quieras que yo teH559
+- 1Re_3:6Salomón dijo: Tú hiciste...misericordiaH559
+- 1Re_3:11le dijo Dios: Porque has demandado estoH559
+- 1Re_3:17y dijo una de ellas: ¡Ah, señor mío![[H559]]
+- 1Re_3:22la otra mujer dijo...volvió a decir: NoH559
+- 1Re_3:23el rey...dijo: Esta dice: Mi hijo es elH559
+- 1Re_3:23la otra dice: No...el tuyo es el muertoH559
+- 1Re_3:24y dijo el rey: Traedme una espadaH559
+- 1Re_3:25el rey dijo: Partid por medio al niñoH559
+- 1Re_3:26la mujer...dijo: ¡Ah, señor mío! dad aH559
+- 1Re_3:26la otra dijo: Ni a mí ni a ti; partidloH559
+- 1Re_3:27el rey...dijo: Dad a aquélla el hijo vivoH559
+- 1Re_5:2entonces Salomón envió a decir a HiramH559
+- 1Re_5:5lo que Jehová habló, diciendo: Tu hijoH559
+- 1Re_5:6y yo te daré...el salario que tú dijeresH559
+- 1Re_5:7alegró...y dijo: Bendito sea hoy JehováH559
+- 1Re_5:8envió Hiram a decir a Salomón: He oídoH559
+- 1Re_5:8he oído lo que me mandaste a decir; yo
+- 1Re_5:12dio a...sabiduría como le había dichoH1696
+- 1Re_6:11palabra de Jehová a Salomón, diciendoH559
+- 1Re_8:12dijo Salomón: Jehová ha dicho que élH559
+- 1Re_8:15dijo: Bendito...Jehová, Dios de IsraelH559
+- 1Re_8:15lo que...su mano ha cumplido, diciendoH559
+- 1Re_8:18Jehová dijo a David...Cuanto a haberH559
+- 1Re_8:20ha cumplido su palabra que había dichoH1696
+- 1Re_8:20me he sentado...como Jehová había dichoH1696
+- 1Re_8:23dijo: Jehová Dios de Israel, no hay DiosH559
+- 1Re_8:24lo dijiste con tu boca, y con tu manoH1696
+- 1Re_8:25lo que le prometiste, diciendo: No teH559
+- 1Re_8:26cúmplase la palabra que dijiste a tuH1696
+- 1Re_8:29este lugar del cual has dicho: Mi nombreH559
+- 1Re_8:47oraren a ti...y dijeren: Pecamos, hemosH559
+- 1Re_8:53como lo dijiste por medio de Moisés tuH1696
+- 1Re_8:55bendijo a...Israel, diciendo en voz altaH559
+- 1Re_8:56conforme a todo lo que él había dichoH1696
+- 1Re_9:3dijo Jehová: Yo he oído tu oración y tuH559
+- 1Re_9:5como hablé...diciendo: No faltará varón deH559
+- 1Re_9:8cualquiera que pase...se burlará, y diráH7725
+- 1Re_9:9y dirán: Por cuanto dejaron a Jehová suH559
+- 1Re_9:13dijo: ¿Qué ciudades son estas que me hasH559
+- 1Re_10:6dijo al rey: Verdad es lo que oí en miH559
+- 1Re_10:7han visto que ni aun se me dijo la mitadH5046
+- 1Re_11:2de las cuales Jehová había dicho a losH559
+- 1Re_11:11dijo Jehová a Salomón: Por cuanto haH559
+- 1Re_11:21Hadad dijo a Faraón: Déjame ir a miH559
+- 1Re_11:31dijo a Jeroboam: Toma...los diez pedazosH559
+- 1Re_12:3de Israel, y hablaron a Roboam, diciendoH559
+- 1Re_12:5les dijo: Idos, y de aquí a tres días volvedH559
+- 1Re_12:6dijo: ¿Cómo aconsejáis...que responda aH559
+- 1Re_12:7diciendo: Si tú fueres hoy siervo de esteH559
+- 1Re_12:9les dijo: ¿Cómo aconsejáis vosotros queH559
+- 1Re_12:10diciendo: Así hablarás a este puebloH559
+- 1Re_12:10pueblo que te ha dicho estas palabrasH559
+- 1Re_12:12diciendo: Volved a mí al tercer díaH559
+- 1Re_12:14les habló...diciendo: Mi padre agravóH559
+- 1Re_12:16diciendo: ¿Qué parte tenemos nosotrosH559
+- 1Re_12:22pero vino palabra de Jehová...diciendoH559
+- 1Re_12:23habla a Roboam...rey de Judá...diciendoH559
+- 1Re_12:24ha dicho Jehová: No vayáis, ni peleéisH559
+- 1Re_12:26dijo Jeroboam en su corazón: Ahora seH559
+- 1Re_12:28y dijo al pueblo...he aquí tus diosesH559
+- 1Re_13:2y dijo: Altar, altar, así ha dichoH559
+- 1Re_13:3una señal, diciendo: Esta es la señalH559
+- 1Re_13:4dijo: ¡Prendedle! Mas la mano...le secóH559
+- 1Re_13:6el rey, dijo al varón de Dios: Te pidoH559
+- 1Re_13:7dijo al varón de Dios: Ven conmigo aH1696
+- 1Re_13:8el varón de Dios dijo al rey: Aunque meH559
+- 1Re_13:9me está ordenando...diciendo: No comasH559
+- 1Re_13:12su padre les dijo: ¿Por qué camino seH1696
+- 1Re_13:13dijo a sus hijos: Ensilladme el asnoH559
+- 1Re_13:14le dijo: ¿Eres tú el varón...d: Yo soyH559
+- 1Re_13:15dijo: Ven conmigo a casa, y come panH559
+- 1Re_13:17sido dicho: No comas pan ni bebas aguaH1697
+- 1Re_13:18el otro le dijo...Yo también soy profetaH559
+- 1Re_13:18y un ángel me ha hablado por...diciendoH559
+- 1Re_13:21y clamó al...diciendo: Así dijo JehováH559
+- 1Re_13:22Jehová te había dicho que no comiesesH1696
+- 1Re_13:25lo dijeron en la ciudad donde el viejoH1696
+- 1Re_13:26oyéndolo el...dijo: El varón de Dios esH559
+- 1Re_13:26conforme a la palabra...que él le dijoH1696
+- 1Re_13:27habló...y les dijo: Ensilladme un asnoH559
+- 1Re_13:30le endecharon, diciendo: ¡ Ay, hermano
+- 1Re_13:31a sus hijos, diciendo: Cuando yo mueraH559
+- 1Re_13:32porque sin duda vendrá lo que él dijoH1697
+- 1Re_14:2y dijo Jeroboam a su mujer: LevántateH559
+- 1Re_14:2el que me dijo que yo había de ser reyH1696
+- 1Re_14:5Jehová había dicho a Ahías...disfrazadaH559
+- 1Re_14:6Ahías...dijo: Entra, mujer de JeroboamH559
+- 1Re_14:7y dí a Jeroboam: Así dijo Jehová DiosH559
+- 1Re_14:11lo comerán...porque Jehová lo ha dichoH1696
+- 1Re_15:18envió el rey Asa a Ben-adad...diciendoH559
+- 1Re_16:1vino palabra de Jehová a Jehú...diciendoH559
+- 1Re_16:16oyó decir: Zimri ha conspirado, y haH559
+- 1Re_17:1Elías...dijo a Acab: Vive Jehová Dios deH559
+- 1Re_17:2,8vino...a él palabra de Jehová, diciendoH559
+- 1Re_17:10él la llamó, y le dijo: Te ruego queH559
+- 1Re_17:11él...le dijo: Te ruego que me traigasH559
+- 1Re_17:13Elías le dijo...vé, haz como has dichoH559
+- 1Re_17:14Jehová...ha dicho así: La harina de laH559
+- 1Re_17:15ella fue e hizo como le dijo ElíasH1697
+- 1Re_17:16a la palabra que Jehová había dichoH1696
+- 1Re_17:18ella dijo a Elías: ¿Qué tengo yo contigoH559
+- 1Re_17:19le dijo: Dame acá tu hijo. Entonces élH559
+- 1Re_17:20clamando a Jehová, dijo: Jehová DiosH559
+- 1Re_17:21dijo...que hagas volver el alma de esteH559
+- 1Re_17:23y le dijo Elías: Mira, tu hijo viveH559
+- 1Re_17:24la mujer dijo a Elías: Ahora conozcoH559
+- 1Re_18:1vino palabra...diciendo: Vé, muéstrate aH559
+- 1Re_18:5dijo...Acab a Abdías: Vé por el país aH559
+- 1Re_18:7se postró...dijo: ¿No eres tú...Elías?[[H559]]
+- 1Re_18:8,11,14vé, dí a tu amo: Aquí está ElíasH559
+- 1Re_18:9él dijo: ¿En qué he pecado, para queH559
+- 1Re_18:13¿no ha sido dicho a mi señor lo queH5046
+- 1Re_18:15y le dijo Elías: Vive Jehová de losH559
+- 1Re_18:17Acab...le dijo: ¿Eres tú el que turbasH559
+- 1Re_18:21acercándose Elías a...el pueblo, dijoH559
+- 1Re_18:22Elías volvió a decir al pueblo: Sólo yoH559
+- 1Re_18:24todo el pueblo...diciendo: Bien dichoH559
+- 1Re_18:25dijo a los profetas de Baal: EscogeosH559
+- 1Re_18:26diciendo: ¡Baal, respóndenos! Pero noH559
+- 1Re_18:27se burlaba de ellos, diciendo: GritadH559
+- 1Re_18:30dijo Elías a todo el pueblo: AcercaosH559
+- 1Re_18:31dada...diciendo, Israel será tu nombreH559
+- 1Re_18:34dijo: Llenad cuatro cántaros de aguaH559
+- 1Re_18:34y dijo: Hacedlo otra...d aún: HacedloH559
+- 1Re_18:36se acercó...Elías y dijo: Jehová DiosH559
+- 1Re_18:39el pueblo...dijeron: Jehová es el DiosH559
+- 1Re_18:40Elías...dijo: Prended a los profetas deH559
+- 1Re_18:41Elías dijo a Acab: Sube, come y bebeH559
+- 1Re_18:43y dijo a su criado: Sube ahora, y miraH559
+- 1Re_18:43él subió, y miró, y dijo: No hay nadaH559
+- 1Re_18:43le volvió a decir: Vuelve siete vecesH559
+- 1Re_18:44dijo: Yo veo una pequeña nube como laH559
+- 1Re_18:44dijo: Vé, y dí a Acab: Unce tu carroH559
+- 1Re_19:2envió...a Elías un mensajero, diciendoH559
+- 1Re_19:4dijo: Basta ya, oh Jehová, quítame laH559
+- 1Re_19:5,7le tocó, y le dijo: Levántate, comeH559
+- 1Re_19:9vino a él palabra de Jehová...le dijoH559
+- 1Re_19:11él te dijo: Sal fuera, y ponte en elH559
+- 1Re_19:13vino a él una voz, diciendo; ¿Qué hacesH559
+- 1Re_19:15y le dijo Jehová: Vé, vuélvete por tuH559
+- 1Re_19:20dijo: Te ruego que me dejes besar a miH559
+- 1Re_19:20le dijo: Vé, vuelve; ¿qué te he hechoH559
+- 1Re_20:2y envió mensajeros...a Acab rey...diciendoH559
+- 1Re_20:3así ha dicho Ben-adad: Tu plata y tu oroH559
+- 1Re_20:4y el rey de Israel...dijo: Como tú dicesH559, [[H1697]]
+- 1Re_20:5otra vez, dijeron: Así dijo Ben-adadH559
+- 1Re_20:5yo te envié a decir: Tu plata y tu oroH559
+- 1Re_20:7llamó a todos los ancianos...y les dijoH559
+- 1Re_20:9decid al rey mi señor: Haré todo lo queH559
+- 1Re_20:10y Ben-adad...le envió a decir: Así meH559
+- 1Re_20:11el rey...dijo: Decidle que no se alabeH559
+- 1Re_20:12cuando él oyó esta...dijo a sus siervosH559
+- 1Re_20:13vino a Acab...y le dijo: Así ha dichoH559
+- 1Re_20:14dijo: Así ha dicho Jehová: Por mano deH559
+- 1Re_20:14y dijo...¿Quién comenzará la batalla?[[H559]]
+- 1Re_20:17aviso, diciendo: Han salido hombres deH559
+- 1Re_20:18dijo: Si han salido por paz, tomadlosH559
+- 1Re_20:22vino luego el profeta...y le dijo: VéH559
+- 1Re_20:23los siervos...le dijeron: Sus dioses sonH559
+- 1Re_20:28y le habló diciendo: Así dijo JehováH559
+- 1Re_20:28los sirios han dicho: Jehová es Dios deH559
+- 1Re_20:31le dijeron...que son reyes clementesH559
+- 1Re_20:32y le dijeron: Tu siervo Ben-adad diceH559
+- 1Re_20:33y dijeron: Tu hermano Ben-adad viveH559
+- 1Re_20:33y él dijo: Id y traedle...se presentóH559
+- 1Re_20:34le dijo Ben-adad: Las ciudades que miH559
+- 1Re_20:34y yo, dijo Acab, te dejaré partir conH559
+- 1Re_20:35un varón...dijo a su compañero...hiéremeH559
+- 1Re_20:36le dije: Por cuanto no has obedecido aH559
+- 1Re_20:37le dijo; Hiéreme ahora. Y el hombre leH559
+- 1Re_20:39dijo: Tu siervo salió en medio de laH559
+- 1Re_20:39diciéndome: Guarda a este hombre, y siH559
+- 1Re_20:40el rey...le dijo: Esa será tu sentenciaH559
+- 1Re_20:42él le dijo: Así ha dicho Jehová: PorH559
+- 1Re_21:2Acab habló a Nabot, diciendo: Dame tuH559
+- 1Re_21:4diciendo: No te daré la heredad de misH559
+- 1Re_21:5vino a él su mujer Jezabel, y le dijoH1696
+- 1Re_21:6hablé con Nabot...le dije que me dieraH559
+- 1Re_21:7Jezabel le dijo: ¿Eres tú ahora rey sobreH559
+- 1Re_21:9cartas que...decían así: Proclamad ayunoH559
+- 1Re_21:10digan: Tú has blasfemado a Dios y alH559
+- 1Re_21:13diciendo: Nabot ha blasfemado a Dios yH559
+- 1Re_21:14enviaron a decir a Jezabel: Nabot haH559
+- 1Re_21:15Jezabel oyó...dijo a Acab: Levántate yH559
+- 1Re_21:17,28palabra de Jehová a Elías...diciendoH559
+- 1Re_21:19le hablarás diciendo...ha dicho JehováH559
+- 1Re_21:20y Acab dijo a Elías: ¿Me has halladoH559
+- 1Re_21:23diciendo: Los perros comerán a JezabelH559
+- 1Re_22:3y el rey de Israel dijo a sus siervosH559
+- 1Re_22:4dijo a Josafat: ¿Quieres venir conmigoH559
+- 1Re_22:5dijo luego Josafat al rey de Israel: Yo soyH559
+- 1Re_22:6dijo: ¿Iré a la guerra contra Ramot deH559
+- 1Re_22:6ellos dijeron: Sube, porque Jehová laH559
+- 1Re_22:7dijo Josafat: ¿Hay aún...algún profeta deH559
+- 1Re_22:8y Josafat dijo: No hable el rey asíH559
+- 1Re_22:9rey...llamó a un oficial, y le dijo: TraeH559
+- 1Re_22:11dijo: Así ha dicho Jehová: Con éstosH559
+- 1Re_22:12profetizaban...diciendo: Sube a RamotH559
+- 1Re_22:13habló diciendo...sea ahora tu palabraH559
+- 1Re_22:14que lo que Jehová me hablare, eso diréH559
+- 1Re_22:15dijo: Micaías, ¿Iremos a pelear contraH559
+- 1Re_22:16el rey le dijo: ¿Hasta cuántas vecesH559
+- 1Re_22:16que no me digas sino la verdad en elH1696
+- 1Re_22:17él dijo: Yo vi a todo Israel esparcidoH559
+- 1Re_22:17y Jehová dijo: Estos no tienen señorH559
+- 1Re_22:18rey...dijo...¿No te lo había yo dicho?[[H559]]
+- 1Re_22:19él dijo: Oye, pues, palabra de JehováH559
+- 1Re_22:20y Jehová dijo: ¿Quién inducirá a AcabH559
+- 1Re_22:20uno decía de una manera, y otro d deH559
+- 1Re_22:21dijo: Yo le induciré. Y Jehová le dH559
+- 1Re_22:22él dijo: Yo saldré, y seré espíritu deH559
+- 1Re_22:22dijo: Le inducirás, y...lo conseguirásH559
+- 1Re_22:24diciendo: ¿Por dónde se fue de mí elH559
+- 1Re_22:26rey...dijo: Toma a Micaías, y llévalo aH559
+- 1Re_22:27y dirás: Así ha dicho el rey: Echad aH559
+- 1Re_22:28dijo Micaías: Si llegas a volver en pazH559
+- 1Re_22:28en seguida dijo: Oíd, pueblos todosH559
+- 1Re_22:30rey de Israel dijo...Yo me disfrazaréH559
+- 1Re_22:31diciendo: No peleéis ni con grande niH559
+- 1Re_22:32dijeron: Ciertamente éste es el rey deH559
+- 1Re_22:34dijo él a su cochero: Da la vuelta, yH559
+- 1Re_22:36salió un pregón...diciendo: ¡Cada uno aH559
+- 1Re_22:49dijo a Josafat: Vayan mis siervos conH559
+- 2Re_1:3habló a Elías...diciendo: Levántate, yH1696
+- 2Re_1:3diles: ¿No hay Dios en Israel, que vaisH1696
+- 2Re_1:4ha dicho Jehová: Del lecho en que estásH559
+- 2Re_1:5él les dijo: ¿Por qué os habéis vuelto?[[H559]]
+- 2Re_1:6un varón que nos dijo: Id, y volveos alH559
+- 2Re_1:6y Decidle: Así ha dicho Jehová: ¿No hayH1696, [[H559]]
+- 2Re_1:7él les dijo: ¿Cómo era aquel varón queH1696
+- 2Re_1:8un varón que...él dijo: Es Elías tisbitaH559
+- 2Re_1:9,11dijo: Varón de Dios, el rey ha dichoH559, [[H1696]]
+- 2Re_1:10Elías...dijo al capitán de cincuenta: SiH1696
+- 2Re_1:12y le respondió Elías y dijo: Si yo soyH1696
+- 2Re_1:13y le rogó, diciendo: Varón de Dios, teH1696
+- 2Re_1:15ángel de Jehová dijo...Desciende con élH1696
+- 2Re_1:16le dijo: Así ha dicho Jehová: Por cuantoH1696
+- 2Re_2:2dijo Elías a Eliseo: Quédate ahora aquíH559
+- 2Re_2:2,4,6dijo: Vive Jehová, y vive tu almaH559
+- 2Re_2:3,5dijeron: ¿Sabes que Jehová te quitaráH559
+- 2Re_2:3¿sabes que...El dijo: Sí, yo lo sé; calladH559
+- 2Re_2:4Elías le volvió a decir: Eliseo, quédateH559
+- 2Re_2:6Elías le dijo: Te ruego que te quedesH559
+- 2Re_2:9dijo a Eliseo: Pide lo que quieras queH559
+- 2Re_2:9y dijo Eliseo: Te ruego que una dobleH559
+- 2Re_2:10le dijo: Cosa difícil has pedido. Si meH559
+- 2Re_2:14y dijo: ¿Dónde está Jehová, el Dios deH559
+- 2Re_2:15dijeron: El espíritu de Elías reposóH559
+- 2Re_2:16dijeron: He aquí hay con tus siervos 50H559
+- 2Re_2:16vayan ahora...Y él les dijo: No enviéisH559
+- 2Re_2:17hasta que avergonzándose dijo: EnviadH559
+- 2Re_2:18les dijo: ¿No os dije yo que no fueseis?[[H559]]
+- 2Re_2:19hombres de la ciudad dijeron a EliseoH559
+- 2Re_2:20él dijo: Traedme una vasija nueva, yH559
+- 2Re_2:21y dijo: Así ha dicho Jehová: Yo sanéH559
+- 2Re_2:23burlaban de él diciendo: ¡Calvo, sube![[H559]]
+- 2Re_3:7envió a decir a Josafat...El rey de MoabH559
+- 2Re_3:8dijo: ¿Por qué camino iremos?...respondióH559
+- 2Re_3:10el rey de Israel dijo...ha llamado JehováH559
+- 2Re_3:11Josafat dijo: ¿No hay aquí profeta deH559
+- 2Re_3:11de los siervos...dijo: Aquí está EliseoH559
+- 2Re_3:12Josafat dijo: Este tendrá palabra deH559
+- 2Re_3:13Eliseo dijo al...¿Qué tengo yo contigo?[[H559]]
+- 2Re_3:14dijo: Vive Jehová de los ejércitos, enH559
+- 2Re_3:16dijo: Así ha dicho Jehová: Haced en esteH559
+- 2Re_3:17Jehová ha dicho así: No veréis vientoH559
+- 2Re_3:23y dijeron: ¡Esto es sangre de espada![[H559]]
+- 2Re_4:1una mujer...clamó a Eliseo, diciendo: TuH559
+- 2Re_4:2dijo: ¿Qué te haré yo? Declárame lo queH559
+- 2Re_4:2ella dijo: Tu sierva ninguna cosa tieneH559
+- 2Re_4:3dijo: Vé y pide para ti vasijas vacíasH559
+- 2Re_4:6dijo...Tráeme aún otras...Y él d: No hayH559
+- 2Re_4:7dijo: Vé y vende el aceite, y paga a tusH559
+- 2Re_4:9y ella dijo a su marido: He aquí ahoraH559
+- 2Re_4:12dijo a Giezi su criado: Llama a estaH559
+- 2Re_4:13dijo él...a Giezi: Dile: He aquí tú hasH559
+- 2Re_4:14él dijo: ¿Qué, pues, haremos por ella?[[H559]]
+- 2Re_4:15dijo...Llámala. Y él la llamó, y ella seH559
+- 2Re_4:16él le dijo: El año que viene, por esteH559
+- 2Re_4:16ella dijo: No, señor mío, varón de DiosH559
+- 2Re_4:17en el tiempo que Eliseo le había dichoH1696
+- 2Re_4:19y dijo a su padre: ¡Ay, mi cabeza, miH559
+- 2Re_4:19y el padre dijo a un criado: Llévalo aH559
+- 2Re_4:22le dijo: Te ruego que envíes conmigo aH559
+- 2Re_4:23él dijo: ¿Para qué vas a verle hoy? NoH559
+- 2Re_4:24y dijo al criado: Guía y anda; y no meH559
+- 2Re_4:24detener en...sino cuando yo te lo dijereH559
+- 2Re_4:25dijo a su criado...He aquí la sunamitaH559
+- 2Re_4:26digas: ¿Te va bien...Y ella dijo: BienH559
+- 2Re_4:27varón de Dios le dijo: Déjala, porqueH559
+- 2Re_4:28y ella dijo: ¿Pedí yo hijo a mi señor?[[H559]]
+- 2Re_4:28¿no dije yo que no te burlases de mí?[[H559]]
+- 2Re_4:29dijo él a Giezi: Ciñe tus lomos, y tomaH559
+- 2Re_4:30y dijo la madre del niño: Vive Jehová, yH559
+- 2Re_4:31y se lo declaró, diciendo: El niño noH559
+- 2Re_4:36llamó él a Giezi, y le dijo: Llama aH559
+- 2Re_4:36entrando ella, él le dijo: Toma tu hijoH559
+- 2Re_4:38dijo a su criado: Pon una olla grandeH559
+- 2Re_4:40gritaron diciendo: ¡Varón de Dios, hayH559
+- 2Re_4:41él...dijo: Traed harina. Y la esparció enH559
+- 2Re_4:41dijo: Da de comer a la gente. Y no huboH559
+- 2Re_4:42y él dijo: Da a la gente para que comaH559
+- 2Re_4:43él volvió a decir...así ha dicho JehováH559
+- 2Re_5:3dijo a su señora: Si rogase mi señor alH559
+- 2Re_5:4diciendo: Así...ha dicho una muchacha queH559, [[H1696]]
+- 2Re_5:5le dijo el rey de Siria: Anda, vé, y yoH559
+- 2Re_5:6tomó también cartas para...que decían asíH559
+- 2Re_5:7rasgó sus vestidos, y dijo: ¿Soy yo DiosH559
+- 2Re_5:8Eliseo...envió a decir al rey: ¿Por quéH559
+- 2Re_5:10Eliseo le envió...diciendo: Vé y lávateH559
+- 2Re_5:11Naamán se fue...diciendo...yo decía paraH559
+- 2Re_5:13le hablaron diciendo: Padre mío, si elH559
+- 2Re_5:13más diciéndote: Lávate, y serás limpio?[[H559]]
+- 2Re_5:15y volvió...y dijo: He aquí ahora conozcoH559
+- 2Re_5:16él dijo: Vive Jehová, en cuya presenciaH559
+- 2Re_5:17Naamán dijo...no se dará a tu siervo laH559
+- 2Re_5:19él le dijo: Vé en paz. Se fue, pues, yH559
+- 2Re_5:20Giezi...dijo entre sí: He aquí mi señorH559
+- 2Re_5:21bajó del carro...y dijo: ¿Va todo bien?[[H559]]
+- 2Re_5:22y él dijo: Bien. Mi señor me envía aH559
+- 2Re_5:22envía a decirte: He aquí vinieron a míH559
+- 2Re_5:23dijo Naamán: Te ruego que tomes dosH559
+- 2Re_5:25Eliseo le dijo: ¿De dónde vienes, Giezi?[[H559]]
+- 2Re_5:25él dijo: Tu siervo no ha ido a ningunaH559
+- 2Re_5:26le dijo: ¿No estaba también allí miH559
+- 2Re_6:1hijos de los profetas dijeron a EliseoH559
+- 2Re_6:2y hagamos allí lugar...y él dijo: AndadH559
+- 2Re_6:3dijo uno: Te rogamos que vengas con tusH559
+- 2Re_6:5diciendo: ¡Ah, señor mío, era prestada![[H559]]
+- 2Re_6:7y dijo: Tómalo. Y él extendió la mano, yH559
+- 2Re_6:8dijo: En...tal lugar estará mi campamentoH559
+- 2Re_6:9y el varón de Dios envió a decir al reyH559
+- 2Re_6:10aquel lugar que el varón...había dichoH559
+- 2Re_6:11les dijo: ¿No me declararéis vosotrosH559
+- 2Re_6:12uno de los siervos dijo: No, rey señorH559
+- 2Re_6:13él dijo: Id, mirad dónde está, para queH559
+- 2Re_6:13le fue dicho: He aquí...él está en DotánH559
+- 2Re_6:15criado le dijo: ¡Ah, señor mío! ¿quéH559
+- 2Re_6:16dijo: No tengas miedo, porque más sonH559
+- 2Re_6:17oró Eliseo, y dijo: Te ruego...JehováH559
+- 2Re_6:18dijo: Te ruego que hieras con cegueraH559
+- 2Re_6:19les dijo Eliseo: No es este el caminoH559
+- 2Re_6:20dijo Eliseo: Jehová, abre los ojos deH559
+- 2Re_6:21dijo a Eliseo: ¿Los mataré, padre mío?[[H559]]
+- 2Re_6:26una mujer...dijo: Salva, rey señor míoH559
+- 2Re_6:27y él dijo: Si no te salva Jehová, ¿deH559
+- 2Re_6:28y le dijo el rey: ¿Qué tienes? EllaH559
+- 2Re_6:28esta mujer me dijo: Da acá tu hijo, yH559
+- 2Re_6:29yo le dije: Da acá tu hijo, y comámosloH559
+- 2Re_6:31y él dijo: Así me haga Dios, y aun meH559
+- 2Re_6:32dijo él a los ancianos: ¿No habéis vistoH559
+- 2Re_6:33dijo...este mal de Jehová viene. ¿ParaH559
+- 2Re_7:1dijo entonces Eliseo: Oíd palabra deH559
+- 2Re_7:1dijo Jehová: Mañana a estas horas valdráH559
+- 2Re_7:2,19dijo: Si Jehová hiciese ventanas enH559
+- 2Re_7:2,19dijo...tú lo verás con tus ojos, masH559
+- 2Re_7:3cuatro hombres leprosos...dijeron el unoH559
+- 2Re_7:6de los sirios...se dijeron unos a otrosH559
+- 2Re_7:9se dijeron...No estamos haciendo bien. HoyH559
+- 2Re_7:10y gritaron...diciendo: Nosotros fuimos alH559
+- 2Re_7:12se levantó el rey...y dijo a sus siervosH559
+- 2Re_7:12y se han escondido en...diciendo: CuandoH559
+- 2Re_7:13dijo: Tomen...cinco de los caballos queH559
+- 2Re_7:14y envió el rey al...diciendo: Id y vedH559
+- 2Re_7:17conforme a lo que había dicho el varónH1696
+- 2Re_7:18diciendo: Dos seahs de cebada por unH559
+- 2Re_8:1habló Eliseo a aquella mujer...diciendoH559
+- 2Re_8:2hizo como el varón de Dios le dijo; y seH1697
+- 2Re_8:4diciéndole: Te ruego que me cuentes todasH559
+- 2Re_8:5dijo Giezi: Rey...mío, ésta es la mujerH559
+- 2Re_8:6al cual dijo: Hazle devolver todas lasH559
+- 2Re_8:7diciendo: El varón de Dios ha venido aquíH559
+- 2Re_8:8el rey dijo a Hazael: Toma en tu mano unH559
+- 2Re_8:8,9diciendo: ¿Sanaré de esta enfermedad?[[H559]]
+- 2Re_8:9dijo: Tu hijo Ben-adad rey de Siria meH559
+- 2Re_8:10le dijo: Vé, dile: Seguramente sanarásH559
+- 2Re_8:12dijo Hazael: ¿Por qué llora mi señor?[[H559]]
+- 2Re_8:13Hazael dijo: Pues, ¿qué es tu siervoH559
+- 2Re_8:14cual le dijo: ¿Qué te ha dicho Eliseo?[[H559]]
+- 2Re_8:14y él respondió: Me dijo que...sanarásH559
+- 2Re_9:1y le dijo: Ciñe tus lomos, y toma estaH559
+- 2Re_9:3dí: Así dijo Jehová: Yo te he ungido porH559
+- 2Re_9:5él dijo...una palabra tengo que decirteH559
+- 2Re_9:5Jehú dijo: ¿A cual de todos...él d: A tiH559
+- 2Re_9:6dijo: Así d Jehová Dios de Israel: Yo teH559
+- 2Re_9:11salió Jehú a...y le dijeron: ¿Hay paz?[[H559]]
+- 2Re_9:11les dijo: Vosotros conocéis al hombreH559
+- 2Re_9:12ellos dijeron: Mentira; decláranosloH559
+- 2Re_9:12él dijo: Así y así me habló, diciendoH559
+- 2Re_9:13tocaron corneta, y dijeron: Jehú es reyH559
+- 2Re_9:15y Jehú dijo: Si es vuestra voluntadH559
+- 2Re_9:17dijo: Veo una tropa. Y Joram d: OrdenaH559
+- 2Re_9:17jinete que vaya...y les diga: ¿Hay paz?[[H559]]
+- 2Re_9:18,19y dijo: El rey dice así: ¿Hay paz?[[H559]]
+- 2Re_9:18y Jehú le dijo: ¿Qué tienes tú que verH559
+- 2Re_9:18diciendo: El mensajero llegó hasta ellosH559
+- 2Re_9:20el atalaya volvió a decir: También ésteH559
+- 2Re_9:21Jotam dijo: Unce el carro. Y cuandoH559
+- 2Re_9:22dijo: ¿Hay paz, Jehú? Y él respondióH559
+- 2Re_9:23y dijo a Ocozías: ¡Traición, Ocozías![[H559]]
+- 2Re_9:25dijo luego Jehú a Bidcar su capitánH559
+- 2Re_9:25pronunció esta sentencia, él, diciendoH559
+- 2Re_9:26he visto ayer la sangre...dijo JehováH559
+- 2Re_9:26te daré la paga en esta heredad, dijoH5002
+- 2Re_9:27lo siguió Jehú, diciendo: Herid...a ésteH559
+- 2Re_9:31entraba Jehú por la puerta, ella dijoH559
+- 2Re_9:32dijo: ¿Quién está conmigo? ¿quién?[[H559]]
+- 2Re_9:33él les dijo: Echadla abajo. Y ellos laH559
+- 2Re_9:34dijo: Id ahora a ver a aquella malditaH559
+- 2Re_9:36y se lo dijeron. Y él dijo: Esta es laH559
+- 2Re_9:36Elías...diciendo: En la heredad de JezreelH559
+- 2Re_9:37que nadie pueda decir: Esta es JezabelH559
+- 2Re_10:1escribió cartas...a Samaria...diciendoH559
+- 2Re_10:4dijeron: He aquí, dos reyes no pudieronH559
+- 2Re_10:5enviaron a decir a Jehú: Siervos tuyosH559
+- 2Re_10:6les escribió la...diciendo: Si sois míosH559
+- 2Re_10:8diciendo: Han traído las cabezas de losH559
+- 2Re_10:8él le dijo: Ponedlas en dos montones aH559
+- 2Re_10:9dijo...Vosotros sois justos; he aquí yoH559
+- 2Re_10:10y que Jehová ha hecho lo que dijo porH1696
+- 2Re_10:13dijo: ¿Quiénes sois vosotros? Y ellosH559
+- 2Re_10:13dijeron: Somos hermanos de Ocozías, yH559
+- 2Re_10:14él dijo: Prendedlos vivos. Y despuésH559
+- 2Re_10:15le dijo: ¿Es recto tu corazón, como elH559
+- 2Re_10:15Jonadab dijo: Lo es. Pues que lo esH559
+- 2Re_10:16le dijo: Ven conmigo, y verás mi celoH559
+- 2Re_10:18dijo: Acab sirvió poco a Baal, mas JehúH559
+- 2Re_10:20dijo Jehú: Santificad un día solemneH559
+- 2Re_10:22dijo al que tenía el cargo...vestidurasH559
+- 2Re_10:23dijo a los siervos de Baal: Mirad yH559
+- 2Re_10:24les dijo: Cualquiera que dejare vivoH559
+- 2Re_10:25Jehú dijo a los de su guardia y a losH559
+- 2Re_10:30y Jehová dijo a Jehú: Por cuanto hasH559
+- 2Re_11:5mandó diciendo: Esto es lo que habéis deH559
+- 2Re_11:12le hicieron rey...dijeron: ¡Viva el rey![[H559]]
+- 2Re_11:15y les dijo: Sacadla fuera del recintoH559
+- 2Re_11:15el sacerdote dijo que no la matasen enH559
+- 2Re_12:4y Joás dijo a los sacerdotes: Todo elH559
+- 2Re_12:7dijo: ¿Por qué no reparáis las grietasH559
+- 2Re_13:14llorando...dijo: ¿Padre mío, padre míoH559
+- 2Re_13:15le dijo Eliseo: Toma un arco y unasH559
+- 2Re_13:16luego dijo Eliseo al rey...Pon tu manoH559
+- 2Re_13:17y dijo: Abre la ventana...da al orienteH559
+- 2Re_13:17dijo Eliseo: Tira. Y tirando él, dH559
+- 2Re_13:18y le volvió a decir: Toma las saetasH559
+- 2Re_13:18le dijo: Golpea la tierra...la golpeóH559
+- 2Re_13:19él, le dijo: Al dar cinco o seis golpesH559
+- 2Re_14:6diciendo: No matarán a los padres porH559
+- 2Re_14:8diciendo: Ven, para que nos veamos lasH559
+- 2Re_14:9el cardo que...envió a decir al cedro queH559
+- 2Re_15:12que había hablado a Jehú, diciendo: TusH559
+- 2Re_16:7envió embajadores...diciendo: Yo soy tuH559
+- 2Re_16:15y mandó el...diciendo: En el gran altarH559
+- 2Re_17:12Jehová les había dicho: Vosotros noH559
+- 2Re_17:13diciendo: Volveos de...malos caminosH559
+- 2Re_17:23como él lo había dicho por medio deH1696
+- 2Re_17:26dijeron...al rey de Asiria: Las gentesH559
+- 2Re_17:27mandó, diciendo: Llevad allí a algunoH559
+- 2Re_17:35diciendo: No temeréis a otros diosesH559
+- 2Re_18:14Ezequías rey...envió a decir al rey deH559
+- 2Re_18:19dijo el Rabsaces: Decid...a EzequíasH559
+- 2Re_18:19así dice el gran rey de Asiria: ¿QuéH559
+- 2Re_18:20dices...Consejo tengo y fuerzas para laH559
+- 2Re_18:22y si me decís: Nosotros confiamos enH559
+- 2Re_18:22ha dicho a Judá...Delante de este altarH559
+- 2Re_18:25Jehová me ha dicho: Sube a esta tierraH559
+- 2Re_18:26dijo Eliaquim...Te rogamos que hablesH559
+- 2Re_18:27el Rabsaces les dijo: ¿Me ha enviado miH559
+- 2Re_18:27para decir estas palabras a ti y a tuH1696
+- 2Re_18:28diciendo: Oíd la palabra del gran reyH559
+- 2Re_18:29ha dicho el rey: No os engañe EzequíasH559
+- 2Re_18:30diciendo...nos librará Jehová, y estaH559
+- 2Re_18:31así dice el rey de Asiria: Haced...pazH559
+- 2Re_18:32porque os engaña cuando dice: JehováH559
+- 2Re_18:36el cual había dicho: No le respondáisH559
+- 2Re_19:3que le dijesen: Así ha dicho EzequíasH559
+- 2Re_19:6diréis...Así ha dicho Jehová: No temasH559
+- 2Re_19:9oyó decir que Tirhaca rey...había salidoH559
+- 2Re_19:9envió embajadores a Ezequías, diciendoH559
+- 2Re_19:10así diréis a Ezequías...No te engañe tuH559
+- 2Re_19:10decir: Jerusalén no será entregada enH559
+- 2Re_19:15oró...diciendo: Jehová Dios de IsraelH559
+- 2Re_19:20envió a decir a...Así ha dicho JehováH559
+- 2Re_19:23y has dicho: Con la multitud de misH559
+- 2Re_19:32dice Jehová acerca del rey de AsiriaH559
+- 2Re_19:33no entrará en esta ciudad, dice JehováH5002
+- 2Re_20:1dijo: Jehová dice así: Ordena tu casaH559
+- 2Re_20:2volvió su rostro...y oré a Jehová y dijoH559
+- 2Re_20:4palabra de Jehová a Isaías, diciendoH559
+- 2Re_20:5dí a Ezequías...Así dice Jehová, el DiosH559
+- 2Re_20:7dijo Isaías: Tomad masa de higos...sanóH559
+- 2Re_20:8Ezequías había dicho...¿Qué señal tendréH559
+- 2Re_20:9de que hará Jehová esto que ha dichoH559
+- 2Re_20:14le dijo: ¿Qué dijeron aquellos varonesH559
+- 2Re_20:15volvió a decir: ¿Qué vieron en tu casaH559
+- 2Re_20:16Isaías dijo a Ezequías: Oye palabra deH559
+- 2Re_20:17será llevado a Babilonia...dijo JehováH559
+- 2Re_20:19Ezequías dijo a Isaías: La palabra deH559
+- 2Re_20:19dijo: Habrá al menos Paz y seguridad enH559
+- 2Re_21:4de la cual Jehová había dicho: Yo pondréH559
+- 2Re_21:7la casa de la cual Jehová había dichoH559
+- 2Re_21:10habló...Jehová por...profetas, diciendoH559
+- 2Re_21:12así ha dicho Jehová...yo traigo tal malH559
+- 2Re_22:3envié, el rey...casa de Jehová, diciendoH559
+- 2Re_22:4vé...dile que recoja el dinero que han
+- 2Re_22:8dijo el sumo sacerdote...escriba SafánH559
+- 2Re_22:9dio cuenta al rey y dijo: Tus siervosH559
+- 2Re_22:10escriba Safán declaró al rey, diciendoH559
+- 2Re_22:12luego el rey dio orden al...diciendoH559
+- 2Re_22:15ella les dijo: Así ha dicho Jehová elH559
+- 2Re_22:15así...Decid al varón que os envió a míH559
+- 2Re_22:16dijo Jehová: He aquí yo traigo sobreH559
+- 2Re_22:18mas al rey...diréis así: Así ha dichoH559
+- 2Re_22:19también yo te he oído, dice JehováH5002
+- 2Re_23:17dijo: ¿Qué monumento es este que veo?[[H559]]
+- 2Re_23:18y él dijo: Dejadlo; ninguno mueva susH559
+- 2Re_23:21mandó el rey...diciendo: Haced la pascuaH559
+- 2Re_23:27dijo Jehová: También quitaré...a JudáH559
+- 2Re_23:27había yo dicho: Mi nombre estará allíH559
+- 2Re_24:13sacó de allí...como Jehová había dichoH1696
+- 2Re_25:24Gedalías...les dijo: No temáis de serH559
+- 1Cr_4:9su madre llamó Jabes, diciendo: PorH559
+- 1Cr_4:10invocó Jabes al Dios de...diciendo: OhH559
+- 1Cr_10:4dijo Saúl a su escudero: Saca tu espadaH559
+- 1Cr_11:1se juntó a David en Hebrón, diciendoH559
+- 1Cr_11:2Jehová...te ha dicho: Tú apacentarás aH559
+- 1Cr_11:5los moradores de Jebús dijeron a DavidH559
+- 1Cr_11:6había dicho: El que primero derrote aH559
+- 1Cr_11:17David...dijo: ¡Quién me diera de beberH559
+- 1Cr_11:18David...la derramó para Jehová, y dijoH559
+- 1Cr_12:17David...les habló diciendo: Si habéisH559
+- 1Cr_12:18dijo: Por ti, oh David, y contigo, ohH559
+- 1Cr_12:19lo despidieron, diciendo: Con peligroH559
+- 1Cr_13:2dijo David a toda la asamblea de IsraelH559
+- 1Cr_13:4dijo toda la asamblea que se hiciese asíH559
+- 1Cr_13:12dijo: ¿Cómo he de traer a mi casa elH559
+- 1Cr_14:10consultó a Dios, diciendo: ¿SubiréH559
+- 1Cr_14:10y Jehová le dijo: Sube, porque yo losH559
+- 1Cr_14:11dijo luego David: Dios rompió misH559
+- 1Cr_14:12dioses, y David dijo que los quemasenH559
+- 1Cr_14:14Dios le dijo: No subas tras ellos, sinoH559
+- 1Cr_15:2dijo David: El arca de Dios no debe serH559
+- 1Cr_15:12les dijo: Vosotros que sois...levitasH559
+- 1Cr_15:16dijo David a los principales de losH559
+- 1Cr_16:18diciendo...te daré la tierra de CanaánH559
+- 1Cr_16:22no toquéis, dijo, a mis ungidos, ni
+- 1Cr_16:31y digan en las naciones : Jehová reinaH559
+- 1Cr_16:35y decid: Sálvanos, oh Dios, salvaciónH559
+- 1Cr_16:36dijo todo el pueblo, Amén, y alabó aH559
+- 1Cr_17:1dijo David al profeta Natán...yo habitoH559
+- 1Cr_17:2y Natán dijo a David: Haz todo lo queH559
+- 1Cr_17:3vino palabra de Dios a Natán, diciendoH559
+- 1Cr_17:4vé y dí a David...Así ha dicho JehováH559
+- 1Cr_17:6decirles: ¿Por qué no me edificáis unaH559
+- 1Cr_17:7dirás a mi siervo David: Así ha dichoH559
+- 1Cr_17:16entró el rey David...dijo: Jehová DiosH559
+- 1Cr_17:23sea firme para...y haz como has dichoH1696
+- 1Cr_17:24a fin de que se diga: Jehová...es DiosH559
+- 1Cr_19:2dijo David: Manifestaré misericordia conH559
+- 1Cr_19:3los príncipes...de Amón dijeron a HanúnH559
+- 1Cr_19:5el rey mandó que les dijeran: Estaos enH559
+- 1Cr_19:12dilo: Si los sirios fueren más fuertesH559
+- 1Cr_21:2dijo David a Joab...id, haced censo deH559
+- 1Cr_21:3y dijo Joab: Añada Jehová a su puebloH559
+- 1Cr_21:8y dijo David...He pecado gravemente alH559
+- 1Cr_21:9habló Jehová a Gad, vidente...diciendoH559
+- 1Cr_21:10y habla a David, y dile: Así ha dichoH559
+- 1Cr_21:11viniendo Gad a...le dijo: Así ha dichoH559
+- 1Cr_21:13dijo a Gad: Estoy en grande angustiaH559
+- 1Cr_21:15dijo al ángel que destruía: Basta yaH559
+- 1Cr_21:17dijo David a Dios: ¿No soy yo el queH559
+- 1Cr_21:18Jehová ordenó a Gad que dijese a DavidH559
+- 1Cr_21:19la palabra que Gad le había dicho enH1697
+- 1Cr_21:22dijo David a Ornán: Dame este lugarH559
+- 1Cr_21:24el rey David dijo a Ornán: No, sino queH559
+- 1Cr_22:1y dijo David: Aquí estará la casa...DiosH559
+- 1Cr_22:5dijo...Salomón mi hijo es muchacho y deH559
+- 1Cr_22:7dijo David a Salomón: Hijo mío, en miH559
+- 1Cr_22:8diciendo: Tú...no edificarás casa a miH559
+- 1Cr_22:11y edifiques casa a...como él ha dichoH1696
+- 1Cr_22:17ayudasen a Salomón su hijo, diciendoH559
+- 1Cr_23:5y cuatro mil para alabar a Jehová, dijo
+- 1Cr_23:25David dijo: Jehová Dios de Israel haH559
+- 1Cr_27:23dicho que él multiplicaría a IsraelH559
+- 1Cr_28:2levantándose el rey David...dijo: OídmeH559
+- 1Cr_28:3Dios me dijo: Tú no edificarás casa aH559
+- 1Cr_28:6ha dicho: Salomón...él edificará mi casaH559
+- 1Cr_28:19dijo David, me fueron trazadas por la
+- 1Cr_28:20dijo...David a Salomón su hijo: AnímateH559
+- 1Cr_29:1dijo el rey David a toda la asambleaH559
+- 1Cr_29:10dijo David: Bendito seas tú, oh JehováH559
+- 1Cr_29:20después dilo David...Bendecid ahora aH559
+- 2Cr_1:7Dios...le dijo: Pídeme lo que quierasH559
+- 2Cr_1:8Salomón dijo a Dios: Tú has tenido conH559
+- 2Cr_1:11y dijo Dios a Salomón: Por cuanto huboH559
+- 2Cr_2:3y envió a decir Salomón a Hiram rey deH559
+- 2Cr_2:12decía Hiram: Bendito sea Jehová el DiosH559
+- 2Cr_2:15envíe mi señor...el trigo...que ha dichoH559
+- 2Cr_5:13diciendo: Porque él es bueno, porque suH559
+- 2Cr_6:1entonces dijo Salomón: Jehová ha dichoH559
+- 2Cr_6:4dijo: Bendito sea Jehová Dios de IsraelH559
+- 2Cr_6:4que prometió...a David mi padre, diciendoH559
+- 2Cr_6:8dijo a David...Respecto a haber tenido enH559
+- 2Cr_6:10ha cumplido su palabra que había dichoH1696
+- 2Cr_6:10sentado en el...como Jehová había dichoH1696
+- 2Cr_6:13y extendió sus manos al cielo, y dijoH559
+- 2Cr_6:15lo dijiste con tu boca, y con tu manoH1696
+- 2Cr_6:16diciendo: No faltará de ti...en el tronoH559
+- 2Cr_6:17palabra que dijiste a tu siervo DavidH1696
+- 2Cr_6:20el lugar del cual dijiste: Mi nombreH559
+- 2Cr_6:37oraren a ti...y dijeren: Pecamos, hemosH559
+- 2Cr_7:3alabaron...diciendo: Porque él es bueno
+- 2Cr_7:12le dijo: Yo he oído tu oración, y heH559
+- 2Cr_7:18pacté con...diciendo: No te faltará varónH559
+- 2Cr_7:21y dirá: ¿Por qué ha hecho así Jehová aH559
+- 2Cr_8:11dijo: Mi mujer no morará en la casa deH559
+- 2Cr_9:5dijo al rey: Verdad es lo que había oídoH559
+- 2Cr_9:6ni aun la mitad de...me había sido dichaH5046
+- 2Cr_10:3Israel, y hablaron a Roboam, diciendoH559
+- 2Cr_10:5,12dijo: Volved a mí de aquí a tres díasH559
+- 2Cr_10:6,9les dijo: ¿Cómo aconsejáis vosotrosH559
+- 2Cr_10:7y ellos le contestaron diciendo: Si teH559
+- 2Cr_10:9diciendo: Alivia algo del yugo que tuH559
+- 2Cr_10:10así dirás al pueblo que te ha habladoH559
+- 2Cr_10:10diciendo: Tu padre agravó nuestro YugoH559
+- 2Cr_10:10así les dirás: Mi dedo más pequeño esH559
+- 2Cr_10:14diciendo: Mi padre hizo pesado...yugoH559
+- 2Cr_10:16al rey, diciendo: ¿Qué parte tenemosH559
+- 2Cr_11:2mas vino palabra de Jehová a...diciendoH559
+- 2Cr_11:3habla a Roboam...y a todos...diciéndolesH559
+- 2Cr_11:4ha dicho Jehová: No subáis, ni peleéisH559
+- 2Cr_12:5Semaías...les dijo: Así ha dicho JehováH559
+- 2Cr_12:6humillaron, y dijeron: Justo es JehováH559
+- 2Cr_12:7a Semaías, diciendo: Se han humilladoH559
+- 2Cr_13:4y dijo: Oídme, Jeroboam y todo IsraelH559
+- 2Cr_14:7dijo, por tanto, a Judá: EdifiquemosH559
+- 2Cr_14:11clamó Asa...y dijo: ¡Oh Jehová, para tiH559
+- 2Cr_15:2dijo: Oídme, Asa y todo Judá y BenjamínH559
+- 2Cr_16:2Asa...envió a Ben-adad rey de...diciendoH559
+- 2Cr_16:7dijo: Por cuanto te has apoyado en elH559
+- 2Cr_18:3dijo Acab rey de Israel a Josafat reyH559
+- 2Cr_18:4además dijo Josafat al rey de IsraelH559
+- 2Cr_18:5y ellos dijeron: Sube, porque Dios losH559
+- 2Cr_18:6dijo: ¿Hay aún aquí algún profeta deH559
+- 2Cr_18:8dijo: Haz venir luego a Micaías hijo deH559
+- 2Cr_18:10Sedequías...decía: Así ha dicho JehováH559
+- 2Cr_18:11diciendo: Sube contra Ramot de GalaadH559
+- 2Cr_18:12diciendo: He aquí las palabras de losH559
+- 2Cr_18:13dijo Micaías: Vive Jehová, que lo queH559
+- 2Cr_18:13lo que mi Dios me dijere, eso hablaréH559
+- 2Cr_18:14rey le dijo: Micaías, ¿iremos a pelearH559
+- 2Cr_18:15el rey le dijo: ¿Hasta cuántas veces teH559
+- 2Cr_18:16Micaías dijo: He visto a todo IsraelH559
+- 2Cr_18:16y dijo Jehová: Estos no tienen señorH559
+- 2Cr_18:17dijo a Josafat: ¿No te había yo dichoH559
+- 2Cr_18:18él dijo: Oíd, pues, palabra de JehováH559
+- 2Cr_18:19uno decía así, y otro d de otra maneraH559
+- 2Cr_18:20dijo: Yo le induciré. Y Jehová le dH559
+- 2Cr_18:21y él dijo: Saldré y seré espíritu deH559
+- 2Cr_18:21dijo: Tú le inducirás, y lo lograrásH559
+- 2Cr_18:23y dijo: ¿Por qué camino se fue de míH559
+- 2Cr_18:25el rey de Israel dijo: Tomad a MicaíasH559
+- 2Cr_18:26decidles: El rey ha dicho así: Poned aH559
+- 2Cr_18:27Micaías dijo: Si tú volvieres en pazH559
+- 2Cr_18:29dijo el rey de Israel a Josafat: Yo meH559
+- 2Cr_18:30diciendo: No Peleéis con chico ni conH559
+- 2Cr_18:31dijeron: Este es el rey de IsraelH559
+- 2Cr_18:33dijo al cochero: Vuelve las riendas, yH559
+- 2Cr_19:2y dijo al rey Josafat: ¿Al impío dasH559
+- 2Cr_19:6dijo a los jueces: Mirad lo que hacéisH559
+- 2Cr_19:9y les mandó diciendo: Procederéis...conH559
+- 2Cr_20:2dieron aviso...diciendo: Contra ti vieneH559
+- 2Cr_20:6dijo: Jehová Dios de nuestros padresH559
+- 2Cr_20:8han edificado en ella santuario...diciendoH559
+- 2Cr_20:15y dijo: Oíd, Judá todo, y vosotrosH559
+- 2Cr_20:15Jehová Os dice así: No temáis ni osH559
+- 2Cr_20:20Josafat...en pie, dilo: Oídme, Judá yH559
+- 2Cr_20:21dijesen: Glorificad a Jehová, porqueH559
+- 2Cr_20:37contra Josafat, diciendo: Por cuantoH559
+- 2Cr_21:7le había dicho que te daría lámpara aH559
+- 2Cr_21:12una carta...que decía: Jehová el DiosH559
+- 2Cr_22:9dijeron: Es hijo de Josafat, quien deH559
+- 2Cr_23:3Joiada les dijo: He aquí el hijo del reyH559
+- 2Cr_23:3el cual reinará, como Jehová ha dichoH1696
+- 2Cr_23:11lo ungieron, diciendo...¡Viva el rey![[H559]]
+- 2Cr_23:13Atalía rasgó sus...y dijo: ¡Traición![[H559]]
+- 2Cr_23:14les dijo: Sacadla fuera del recintoH559
+- 2Cr_24:5y les dijo: Salid por las ciudades deH559
+- 2Cr_24:6le dijo: ¿Por qué no has procurado queH559
+- 2Cr_24:20les dijo: Así ha dicho Dios: ¿Por quéH559
+- 2Cr_24:22quien dijo al morir: Jehová lo vea yH559
+- 2Cr_25:4mandó diciendo: No morirán los padresH559
+- 2Cr_25:7dijo: Rey, no vaya contigo el ejércitoH559
+- 2Cr_25:9y Amasías dijo al varón de Dios: ¿QuéH559
+- 2Cr_25:15dijo: ¿Por qué has buscado los diosesH559
+- 2Cr_25:16el profeta dijo luego: Yo sé que DiosH559
+- 2Cr_25:17Amasías...envió a decir a Joás...Ven, YH559
+- 2Cr_25:18Joás rey...envió a decir a Amasías reyH559
+- 2Cr_25:18diciendo: Da tu hija a...hijo por mujerH559
+- 2Cr_25:19tú dices: He aquí he derrotado a EdomH559
+- 2Cr_26:18y le dijeron: No te corresponde a tiH559
+- 2Cr_26:23durmió Uzías con...dijeron: Leproso esH559
+- 2Cr_28:9y les dijo: He aquí, Jehová el Dios deH559
+- 2Cr_28:13les dijeron: No traigáis aquí a losH559
+- 2Cr_28:23dijo...los dioses de...Siria les ayudanH559
+- 2Cr_29:5les dijo: ¡Oídme, levitas! SantificaosH559
+- 2Cr_29:18te dijeron: Ya hemos limpiado toda laH559
+- 2Cr_29:21dijo a los sacerdotes hijos de AarónH559
+- 2Cr_29:30dijeron a los levitas que alabasen aH559
+- 2Cr_29:31dijo: Vosotros os habéis consagradoH559
+- 2Cr_30:6y decían...volveos a Jehová el Dios deH559
+- 2Cr_30:18oró por...diciendo: Jehová, que es buenoH559
+- 2Cr_32:4diciendo: ¿Por qué han de hallar losH559
+- 2Cr_32:6y habló al corazón de ellos, diciendoH559
+- 2Cr_32:9para decir a Ezequías rey de Judá, y aH559
+- 2Cr_32:10ha dicho Senaquerib rey de los asiriosH559
+- 2Cr_32:11decir: Jehová nuestro Dios nos libraráH559
+- 2Cr_32:12ha quitado...altares, y ha dicho a JudáH559
+- 2Cr_32:17contra él, diciendo: Como los dioses deH559
+- 2Cr_33:4,7en la casa...de la cual había dichoH559
+- 2Cr_34:15dijo al escriba...he hallado el libroH559
+- 2Cr_34:16diciendo: Tus siervos han cumplido todoH559
+- 2Cr_34:18diciendo: El sacerdote Hilcías me dioH559
+- 2Cr_34:20mandó a Hilcías y a Ahicam...diciendoH559
+- 2Cr_34:22fueron a Hulda...le dijeron las palabrasH1696
+- 2Cr_34:23Jehová...ha dicho así: Decid al varónH559
+- 2Cr_34:26así le diréis: Jehová...ha dicho asíH559
+- 2Cr_34:27yo también te he oído, dice JehováH5002
+- 2Cr_35:3y dijo a los levitas que enseñaban aH559
+- 2Cr_35:21diciendo: ¿Qué tengo Yo contigo, reyH559
+- 2Cr_35:21y Dios me ha dicho que me apresureH559
+- 2Cr_35:23dijo el rey a sus siervos: QuitadmeH559
+- 2Cr_36:22Ciro...el cual hizo pregonar...diciendoH559
+- 2Cr_36:23dice Ciro, rey de los persas: JehováH559
+- Esd_1:1hizo pregonar de palabra y...diciendoH559
+- Esd_1:2así ha dicho Ciro rey de Persia: JehováH559
+- Esd_2:63les dijo que no comiesen de las cosasH559
+- Esd_3:11y diciendo: Porque él es bueno, porque
+- Esd_4:2les dijeron: Edificaremos con vosotrosH559
+- Esd_4:3dijeron: No nos conviene edificar conH559
+- Esd_5:3dijeron así: ¿Quién os ha dado orden paraH560
+- Esd_5:9preguntamos a los ancianos, diciéndolesH560
+- Esd_5:11nos respondieron diciendo así: NosotrosH560
+- Esd_5:15lo dijo: Toma estos utensilios, Vé, YH560
+- Esd_5:17nos envíe a decir la voluntad del rey
+- Esd_6:9lo que dijeren los sacerdotes que estánH3983
+- Esd_8:22diciendo: La mano de nuestro Dios esH559
+- Esd_8:28les dije: Vosotros estáis consagradosH559
+- Esd_9:1los príncipes vinieron a mí, diciendoH559
+- Esd_9:6y dije: Dios mío, confuso y avergonzadoH559
+- Esd_9:10¿qué diremos, oh Dios...después de esto?[[H559]]
+- Esd_9:11diciendo: La tierra a la cual entráisH559
+- Esd_10:2Secanías...dilo a Esdras...hemos pecadoH559
+- Esd_10:10Esdras...dijo: Vosotros habéis pecadoH559
+- Esd_10:12y dijeron en alta voz: Así se hagaH559
+- Neh_1:3y me dijeron: El remanente, los queH559
+- Neh_1:5y dije: Te ruego, oh Jehová, Dios de losH559
+- Neh_1:8diciendo: Si vosotros pecareis, yo osH559
+- Neh_2:2me dijo el rey: ¿Por qué está triste tuH559
+- Neh_2:3dije al rey: Para siempre viva el reyH559
+- Neh_2:4dijo el rey: ¿Qué cosa pides? EntoncesH559
+- Neh_2:5,7dije al rey: Si le place al reyH559
+- Neh_2:6el rey me dijo...¿Cuánto durará tu viajeH559
+- Neh_2:17les dije...Vosotros veis el mal en queH559
+- Neh_2:18las palabras que el rey me había dichoH559
+- Neh_2:18y dijeron: Levantémonos y edifiquemosH559
+- Neh_2:19diciendo: ¿Qué es esto que hacéisH559
+- Neh_2:20les dije: El Dios de los cielos, él nosH559
+- Neh_4:2dijo: ¿Qué hacen estos débiles judíos?[[H559]]
+- Neh_4:3Tobías...dijo: Lo que ellos edifican delH559
+- Neh_4:10dijo Judá: Las fuerzas...han debilitadoH559
+- Neh_4:11y nuestros enemigos dijeron: No sepanH559
+- Neh_4:12nos decían...De todos los lugares de dondeH559
+- Neh_4:14,19dije a los nobles y a los oficialesH559
+- Neh_4:22dile entonces al Pueblo: Cada Uno ConH559
+- Neh_5:2quien decía: Nosotros, nuestros hijos YH559
+- Neh_5:3quienes decían: Hemos empeñado nuestrasH559
+- Neh_5:4decían: Hemos tomado prestado dinero paraH559
+- Neh_5:7y les dije: ¿Exigís interés cada uno aH559
+- Neh_5:8les dije...según nuestras posibilidadesH559
+- Neh_5:9y dile: No es bueno lo que hacéis. ¿NoH559
+- Neh_5:12y dijeron...haremos así como tú dicesH559
+- Neh_5:13dije: Así sacuda Dios de su casa Y deH559
+- Neh_6:2enviaron a decirme: Ven y reunámonos enH559
+- Neh_6:3diciendo: Yo hago una gran obra, y noH559
+- Neh_6:5Sanbalat envió...para decirlo mismo PorH1697
+- Neh_6:6y Gasmu lo dice, que tú y los judíosH559
+- Neh_6:7proclamen...diciendo: ¡Hay rey en Judá![[H559]]
+- Neh_6:8a decirle: No hay tal cosa como dicesH559
+- Neh_6:9diciendo: Se debilitarán las manos deH559
+- Neh_6:10me dijo: Reunámonos en la casa de DiosH559
+- Neh_6:11dije: ¿Un hombre como yo ha de huir?[[H559]]
+- Neh_7:3y les dije: No se abran las puertas deH559
+- Neh_7:65les dijo el gobernador que no comiesenH559
+- Neh_8:1dijeron a Esdras...que trajese el libroH559
+- Neh_8:9dijeron a todo el pueblo: Día santo esH559
+- Neh_8:10luego les dijo: Id, comed grosuras, yH559
+- Neh_8:11diciendo: Callad, porque es día santoH559
+- Neh_8:15pasar pregón...diciendo: Salid al monteH559
+- Neh_9:5dijeron los levitas...Bendecid a JehováH559
+- Neh_9:15y les dijiste que entrasen a poseer laH559
+- Neh_9:18y dijeron: Este es tu Dios que te hizoH559
+- Neh_9:23de la cual habías dicho a sus padres queH559
+- Neh_13:9dije que limpiasen las cámaras, e hiceH559
+- Neh_13:11y dije: ¿Por qué está la casa de DiosH559
+- Neh_13:17les dije: ¿Qué mala cosa es esta queH559
+- Neh_13:19dije que se cerrasen las puertas, yH559
+- Neh_13:21les dije: ¿Por qué os quedáis vosotrosH559
+- Neh_13:22dije a los levitas que se purificasenH559
+- Neh_13:25diciendo: No daréis vuestras hijas aH559
+- Est_1:16dijo Memucán delante del rey y de losH559
+- Est_1:17diciendo: El rey Asuero mandó traerH559
+- Est_1:18dirán esto las señoras de Persia y deH559
+- Est_1:22diciendo que todo hombre afirmase su
+- Est_2:2dijeron los criados del rey...cortesanosH559
+- Est_2:7había criado a Hadasa, es decir, Ester
+- Est_2:15sino lo que dijo Hegai eunuco del reyH559
+- Est_2:20Ester hacía lo que decía Mardoqueo, comoH3982
+- Est_2:22y Ester lo dijo al rey en nombre deH559
+- Est_3:8dijo Amán al rey Asuero: Hay un puebloH559
+- Est_3:11le dijo: La plata que ofreces sea paraH559
+- Est_4:4vinieron las doncellas...y se lo dijeronH5046
+- Est_4:7la plata que Amán había dicho que pesaríaH559
+- Est_4:10Ester dijo...que le dijese a MardoqueoH559
+- Est_4:12y dijeron a Mardoqueo las palabras deH5046
+- Est_4:13dijo Mardoqueo...No pienses que escaparásH559
+- Est_4:15Ester dijo que respondiesen a MardoqueoH559
+- Est_5:3dijo el rey: ¿Qué tienes, reina Ester, yH559
+- Est_5:4Ester dijo: Si place al rey, vengan hoyH559
+- Est_5:5Amán, para hacer lo que Ester ha dichoH1697
+- Est_5:6dijo el rey a Ester en el...¿Cuál es tuH559
+- Est_5:7respondió Ester y dijo: Mi petición yH559
+- Est_5:14dijo Zeres su mujer...Hagan una horcaH559
+- Est_5:14dí al rey que cuelguen a Mardoqueo enH559
+- Est_6:1y dijo que le trajesen el libro de lasH559
+- Est_6:3dijo el rey: ¿Qué honra...hizo a MardoqueoH559
+- Est_6:4dijo el rey: ¿Quién está en el patio?[[H559]]
+- Est_6:5Amán está en el...Y el rey dijo: Que entreH559
+- Est_6:6el rey le dijo: ¿Qué se hará al hombreH559
+- Est_6:6dijo Aman en su corazón: ¿A quién desearíaH559
+- Est_6:10el rey dijo a Amán: Date prisa, toma elH559
+- Est_6:10toma el vestido...como tú has dicho, yH1696
+- Est_6:10no omitas nada de todo lo que has dichoH1696
+- Est_6:13le dijeron sus sabios, y Zeres su mujerH559
+- Est_7:2dijo el rey a Ester: ¿Cuál...tu peticiónH559
+- Est_7:3dijo: Oh rey, si he hallado gracia en tusH559
+- Est_7:5el rey...dijo a la reina Ester: ¿Quién esH559
+- Est_7:6Ester dijo: El enemigo y adversario esH559
+- Est_7:8dijo el rey: ¿Querrás también violar aH559
+- Est_7:9y dijo Harbona, uno de los eunucos queH559
+- Est_7:9entonces el rey dijo: Colgadlo en ellaH559
+- Est_8:5dijo: Si place al rey, y si he halladoH559
+- Est_8:13copia...decía que los judíos estuviesenH1540
+- Est_9:12dijo el rey a la reina Ester: En SusaH559
+- Est_9:24echado Pur, que quiere decir suerteH1931
+- Job 1:5porque decía Job: Quizá habrán pecadoH559
+- Job 1:7dijo Jehová a Satanás: ¿De dónde vienes?[[H559]]
+- Job 1:7respondiendo Satanás...dijo: De rodear laH559
+- Job 1:8dijo a Satanás: ¿No has considerado a miH559
+- Job 1:9respondiendo Satanás...dijo: ¿Acaso temeH559
+- Job 1:12dijo Jehová a Satanás: He aquí, todo loH559
+- Job 1:14un mensajero...y le dijo: Estaban arandoH559
+- Job 1:16vino otro que dijo: Fuego de Dios cayóH559
+- Job 1:17estaba...hablando, y vino otro que dijoH559
+- Job 1:18vino otro que dijo: Tus hijos y tus hijasH559
+- Job 1:21y dijo: Desnudo salí del vientre de miH559
+- Job 2:2dijo Jehová a Satanás: ¿De dónde vienes?[[H559]]
+- Job 2:2respondió Satanás...y dijo: De rodear laH559
+- Job 2:3dijo a Satanás: ¿No has considerado a miH559
+- Job 2:4Satanás, dijo a Jehová: Piel por pielH559
+- Job 2:6Jehová dijo a Satanás: He aquí, él estáH559
+- Job 2:9entonces le dijo su mujer: ¿Aún retienesH559
+- Job 2:10le dijo: Como suele hablar cualquiera deH559
+- Job 3:2y exclamó Job, y dijoH559
+- Job 3:3y la noche en que se dijo...es concebidoH559
+- Job 4:1respondió Elifaz temanita, y dijoH559
+- Job 4:16yo no conocí, y quedo, oí que decía
+- Job 6:1respondió entonces Job, y dijoH559
+- Job 6:22¿os he dicho yo: Traedme, y pagad porH559
+- Job 6:28ved si digo mentira delante de vosotrosH3576
+- Job 7:4cuando estoy acostado, digo: ¿Cuándo meH559
+- Job 7:13cuando digo: Me consolará mi lecho, miH559
+- Job 8:1respondió Bildad suhita, y dijoH559
+- Job 8:18negará entonces, diciendo: Nunca te vi
+- Job 9:1respondió Job, y dijoH559
+- Job 9:12¿quién le...¿quién le dirá: ¿Qué haces?[[H559]]
+- Job 9:20si me dijere perfecto...me haría inicuo
+- Job 9:22una cosa resta que yo diga: Al perfectoH559
+- Job 9:27si yo dijere: Olvidaré mi queja, dejaréH559
+- Job 10:2diré a Dios: No me condenes: hazmeH559
+- Job 11:1respondió Zofar naamatita, y dijoH559
+- Job 11:4tú dices: Mi doctrina es pura, y yo soyH559
+- Job 12:1respondió entonces Job, diciendoH559
+- Job 12:3¿y quién habrá que no pueda decir otro
+- Job 12:20priva del habla a los que dicen verdad
+- Job 15:1respondió Elifaz temanita, y dijoH559
+- Job 15:11palabras que con dulzura se te dicen?
+- Job 15:23tras el pan, diciendo: ¿En dónde está?
+- Job 16:1respondió Job, y dijoH559
+- Job 17:14a la corrupción he dicho: Mi padre eresH7121
+- Job 18:1respondió Bildad suhita, y dijoH559
+- Job 19:1respondió entonces Job, y dijoH559
+- Job 19:28decir: ¿Por qué le perseguimos? ya queH559
+- Job 20:1respondió Zofar naamatita, y dijoH559
+- Job 20:7los que le hubieren visto dirán: ¿QuéH559
+- Job 21:1entonces respondió Job, y dijoH559
+- Job 21:14dicen...a Dios: Apártate de nosotrosH559
+- Job 21:28porque decís: ¿Qué hay de la casa delH559
+- Job 22:1respondió Elifaz temanita, y dijoH559
+- Job 22:13¿y dirás tú: ¿Qué sabe Dios? ¿CómoH559
+- Job 22:17decían a Dios: Apártate de nosotrosH559
+- Job 22:19el inocente los escarnecerá, diciendo
+- Job 22:29dirás...Enaltecimiento habrá; y DiosH559
+- Job 23:1respondió Job, y dijoH559
+- Job 23:5yo sabría...entendería lo que me dijeraH559
+- Job 24:15diciendo: No me verá nadie; y escondeH559
+- Job 25:1respondió Bildad suhita, y dijoH559
+- Job 26:1respondió Job, y dijoH559
+- Job 27:1reasumió Job su discurso, y dijoH559
+- Job 28:14el abismo dice: No está en mí...mar dijoH559
+- Job 28:22la muerte dijeron: Su fama hemos oídoH559
+- Job 28:28y dijo al hombre: He aquí que el temorH559
+- Job 29:1Job a reanudar su discurso, y dijoH559
+- Job 29:18decía yo: En mi nido moriré, y comoH559
+- Job 31:24y dije al oro: Mi confianza eres túH559
+- Job 31:31si mis siervos no decían: ¿Quién no seH559
+- Job 32:6respondió Eliú...y dijo: Yo soy joven, yH559
+- Job 32:7yo decía: Los días hablarán...sabiduríaH559
+- Job 32:10tanto, yo dije: Escuchadme; declararéH559
+- Job 32:13que no digáis: Nosotros hemos halladoH559
+- Job 33:8dijiste...yo oí...tus palabras que decíanH559
+- Job 33:24diga que Dios tuvo de él misericordiaH559
+- Job 33:27y al que dijere: Pequé, y pervertí loH559
+- Job 34:1además Eliú dijoH559
+- Job 34:5Job ha dicho: Yo soy justo, y Dios meH559
+- Job 34:9ha dicho: De nada servirá al hombre elH559
+- Job 34:18¿se dirá al rey: Perverso; y a losH559
+- Job 34:31se diga a Dios: He llevado ya castigoH559
+- Job 34:33retribuirá...dí, si no, lo que tú sabesH1696
+- Job 34:34los hombres inteligentes dirán conmigoH559
+- Job 35:1prosiguió Eliú...su razonamiento, y dijoH559
+- Job 35:2cosa recta lo que has dicho: Más justoH559
+- Job 35:3dijiste: ¿Qué ventaja sacaré de ello?[[H559]]
+- Job 35:10y ninguno dice: ¿Dónde está Dios miH559
+- Job 35:14cuando dices que no haces caso de él?[[H559]]
+- Job 36:1añadió Eliú, y dijoH559
+- Job 36:10y les dice que se conviertan de laH559
+- Job 36:23¿quién...quién le dirá: Has hecho mal?[[H559]]
+- Job 37:6a la nieve dice: Desciende a la tierraH559
+- Job 37:19muéstranos qué le hemos de decirH559
+- Job 38:1entonces respondió Jehová a Job...dijoH559
+- Job 38:11dije: Hasta aquí llegarás, y no pasarásH559
+- Job 38:35los relámpagos...te dirán...Henos aquí?[[H559]]
+- Job 39:25como que dice entre los clarines; ¡Ea![[H559]]
+- Job 40:1además respondió Jehová a Job, y dijoH559
+- Job 40:3entonces respondió Job a Jehová, y dijoH559
+- Job 40:6respondió Jehová a Job desde el...y dijoH559
+- Job 42:1respondió Job a Jehová, y dijoH559
+- Job 42:7Jehová dijo a Elifaz temanita: Mi iraH559
+- Job 42:9hicieron como Jehová les dijo; y JehováH1696
+- Sal 2:2y príncipes consultarán...diciendo
+- Sal 2:7Jehová me ha dicho: Mi hijo eres tú; yoH559
+- Sal 3:2que dicen de mí: No hay para él salvaciónH559
+- Sal 4:6que dicen: ¿Quién nos mostrará el bien?[[H559]]
+- Sal 8:4digo: ¿Qué es el hombre...que lo visites?
+- Sal 10:6dice en su corazón: No seré movido jamásH559
+- Sal 10:11dice en su corazón: Dios ha olvidadoH559
+- Sal 10:13corazón ha dicho: Tú no lo inquirirásH559
+- Sal 11:1¿cómo decís a mi alma, que escape alH559
+- Sal 12:4los que han dicho: Por nuestra lenguaH559
+- Sal 12:5levantaré, dice Jehová; pondré en salvoH559
+- Sal 13:4para que no diga mi enemigo: Lo vencíH559
+- Sal 14:1dice el necio en su corazón: No hay DiosH559
+- Sal 16:2dijiste a Jehová: Tú eres mi Señor; noH559
+- Sal 18 tít.libró...de la mano de Saúl. Entonces dijoH559
+- Sal 22:7escarnecen...menean la cabeza, diciendo
+- Sal 27:8mi corazón ha dicho...Buscad mi rostroH559
+- Sal 30:6en mi prosperidad dije...No seré jamásH559
+- Sal 31:14yo en ti confío...digo: Tu eres mi DiosH559
+- Sal 31:22decía yo...Cortado soy de delante de tusH559
+- Sal 32:5dije: Confesaré mis transgresiones aH559
+- Sal 33:9porque él dijo, y fue hecho; él mandóH559
+- Sal 35:3saca...dí a mi alma: Yo soy tu salvaciónH559
+- Sal 35:10mis huesos dirán: Jehová, ¿quién comoH559
+- Sal 35:21dijeron: ¡Ea, ea, nuestros ojos lo hanH559
+- Sal 35:25digan en su corazón: ¡Ea, alma nuestraH559
+- Sal 35:27y digan siempre: Sea exaltado JehováH559
+- Sal 36:1la iniquidad del...me dice al corazónH5002
+- Sal 38:16dije: No se alegren de mí; cuando miH559
+- Sal 39:1yo dije: Atenderé a mis caminos, paraH559
+- Sal 40:7entonces dije: He aquí, vengo; en elH559
+- Sal 40:15sean asolados...los que me dicen: ¡EaH559
+- Sal 40:16y digan...los que aman tu salvaciónH559
+- Sal 41:4yo dije: Jehová, ten misericordia de míH559
+- Sal 41:5enemigos dicen mal de mí, preguntandoH559
+- Sal 41:7contra mí piensan mal, diciendo de mí
+- Sal 42:3me dicen todos los días: ¿Dónde está tuH559
+- Sal 42:9diré a Dios: Roca mía, ¿por qué te hasH559
+- Sal 42:10diciéndome cada día: ¿Dónde está tuH559
+- Sal 50:12si yo tuviese hambre, no te lo diríaH559
+- Sal 50:16pero al malo dijo Dios: ¿Qué tienes túH559
+- Sal 52 tít.Doeg...dio cuenta a Saúl diciéndoleH559
+- Sal 52:6los justos...se reirán de él, diciendo
+- Sal 53:1dice el necio en su corazón: No hay DiosH559
+- Sal 54 tít.los zifeos y dijeron a Saúl: ¿No estáH559
+- Sal 55:6y dije: ¡Quién me diese alas como deH559
+- Sal 58:11dirá...Ciertamente hay galardón para elH559
+- Sal 59:7espadas hay...porque dicen: ¿Quién oye?
+- Sal 60:6Dios ha dicho en su santuario: Yo meH1696
+- Sal 64:5lazos, y dicen: ¿Quién los ha de ver?[[H559]]
+- Sal 66:3decid a Dios: ¡Cuán asombrosas son tusH559
+- Sal 68:22el Señor dijo: De Basán te haré volverH559
+- Sal 70:3sean vueltos...los que dicen: ¡ Ah! ¡ Ah![[H559]]
+- Sal 70:4digan siempre los que aman tu salvaciónH559
+- Sal 71:11diciendo: Dios lo ha desamparadoH559
+- Sal 73:11y dicen: ¿Cómo sabe Dios? ¿Y hayH559
+- Sal 73:15si dijera yo: Hablaré como ellos, heH559
+- Sal 74:8dijeron en su corazón: DestruyámoslosH559
+- Sal 75:4dije a los insensatos: No os infatuéisH559
+- Sal 77:10dije: Enfermedad mía es esta; traeréH559
+- Sal 78:19diciendo...poner mesa en el desierto?[[H559]]
+- Sal 79:10dirán las gentes: ¿Dónde está su Dios?[[H559]]
+- Sal 82:6yo dije: Vosotros sois dioses, y todosH559
+- Sal 83:4han dicho: Venid, y destruyámoslos paraH559
+- Sal 83:12han dicho: Heredemos para nosotros lasH559
+- Sal 87:3cosas gloriosas...dicho de ti, ciudad deH1696
+- Sal 87:5de Sion se dirá: Este y aquél han nacidoH559
+- Sal 87:7dirán: Todas mis fuentes están en ti
+- Sal 89:2porque dije: Para siempre será edificadaH559
+- Sal 89:3pacto...Juré a David mi siervo, diciendo
+- Sal 89:19y dijiste: He puesto el socorro sobreH559
+- Sal 90:3dices: Convertíos, hijos de los hombresH559
+- Sal 91:2diré yo a Jehová: Esperanza...y castilloH559
+- Sal 94:7y dijeron: No verá JAH, ni entenderáH559
+- Sal 94:18cuando yo decía: Mi pie resbala, tuH559
+- Sal 95:10dije: Pueblo es que divaga de corazónH559
+- Sal 96:10decid entre las naciones: Jehová reinaH559
+- Sal 102:24dije: Dios mío, no me cortes en laH559
+- Sal 105:11diciendo: A ti te daré la tierra deH559
+- Sal 105:15no toquéis, dijo, a mis ungidos, niH559
+- Sal 106:34no...a los pueblos que Jehová les dijoH559
+- Sal 106:48y diga todo el pueblo, Amén. AleluyaH559
+- Sal 107:2díganlo los redimidos de Jehová, losH559
+- Sal 108:7Dios ha dicho en su santuario: Yo meH1696
+- Sal 110:1Jehová dijo a mi Señor: Siéntate a miH5002
+- Sal 115:2¿por qué han de decir las gentes...Dios?[[H559]]
+- Sal 116:4diciendo: Oh Jehová, libra ahora miH577
+- Sal 116:11y dije en mi apresuramiento: TodoH559
+- Sal 118:2diga ahora Israel, que para siempre esH559
+- Sal 118:3diga...la casa de Aarón...para siempre esH559
+- Sal 118:4digan ahora los que temen a Jehová, queH559
+- Sal 119:57he dicho que guardaré tus palabrasH559
+- Sal 119:76conforme a lo que has dicho a tuH565
+- Sal 119:82diciendo: ¿Cuándo me consolarás?[[H559]]
+- Sal 122:1yo me alegré con los que me decían: AH559
+- Sal 122:8por amor...diré yo: La paz sea contigoH1696
+- Sal 124:1a no haber estado...diga ahora IsraelH559
+- Sal 126:2dirán entre las naciones: Grandes cosasH559
+- Sal 129:1mucho me han angustiado...puede decirH559
+- Sal 129:8ni dijeron los que pasaban: BendiciónH559
+- Sal 137:3diciendo: Cantadnos...cánticos de Sion
+- Sal 137:7cuando decían: Arrasadla, arrasadlaH559
+- Sal 139:11si dijere: Ciertamente las tinieblasH559
+- Sal 139:20porque blasfemias dicen...contra tiH559
+- Sal 140:6he dicho a Jehová: Dios mío eres túH559
+- Sal 142:5clamé a...dije: Tú eres mi esperanzaH559
+- Sal 145:11la gloria de tu reino digan, y hablenH559
+- Pro_1:11dijeren: Ven con nosotros; pongamosH559
+- Pro_1:21en las entradas de las...dice sus razonesH559
+- Pro_3:28no digas a tu prójimo: Anda, y vuelveH559
+- Pro_4:4me decía: Retenga tu corazón mis razonesH559
+- Pro_5:12digas: ¡Cómo aborrecí el consejo, y miH559
+- Pro_7:4dí a la sabiduría: Tú eres mi hermanaH559
+- Pro_7:13le besó. Con semblante descarado le dijoH559
+- Pro_9:4,16dice a cualquier simple: Ven acáH559
+- Pro_9:4,16ven acá. A los faltos de cordura diceH559
+- Pro_20:9¿quién podrá decir: Yo he limpiado miH559
+- Pro_20:14el que compra dice: Malo es, malo esH559
+- Pro_20:22no digas:Yo me vengaré; espera aH559
+- Pro_22:13dice el perezoso: El león está fueraH559
+- Pro_23:7come y bebe, te dirá; mas su corazónH559
+- Pro_23:35y dirás: Me hirieron, mas no me dolió
+- Pro_24:12si dijeres: Ciertamente no lo supimosH559
+- Pro_24:24el que dijere al malo: Justo eres, losH559
+- Pro_24:29no digas: Como me hizo, así le haréH559
+- Pro_25:7mejor es que se te diga: Sube acá, y noH559
+- Pro_25:11oro...es la palabra dicha como convieneH1696
+- Pro_26:13dice el perezoso: El león está en elH559
+- Pro_26:19y dice: Ciertamente lo hice por bromaH559
+- Pro_28:24el que roba...y dice que no es maldadH559
+- Pro_29:24pues oye la imprecación y no dice nadaH5046
+- Pro_30:1la profecía que dijo el varón a ItielH5002
+- Pro_30:9y te niegue, y diga: ¿Quién es Jehová?[[H559]]
+- Pro_30:15tiene dos hijas que dicen: ¡Dame! ¡dame![[H559]]
+- Pro_30:15tres...y la cuarta nunca dice: ¡Basta!
+- Pro_30:16y el fuego que jamás dice: ¡Basta![[H559]]
+- Pro_30:20así: Come...y dice: No he hecho maldadH559
+- Ecc_1:2vanidades, dijo el Predicador; vanidadH559
+- Ecc_1:10¿hay algo de que se puede decir: He aquíH559
+- Ecc_1:16diciendo: He aquí yo me he engrandecidoH559
+- Ecc_2:1dije yo en mi corazón: Ven ahora, teH559
+- Ecc_2:2a la risa dije: Enloqueces; y al placerH559
+- Ecc_2:15entonces dije...Como sucederá al necioH559
+- Ecc_2:15y dije en...que también esto era vanidadH1696
+- Ecc_3:17dije...Al justo y al impío juzgará DiosH559
+- Ecc_3:18dije...Es así, por causa de los hijos deH559
+- Ecc_5:6digas delante del ángel...fue ignoranciaH559
+- Ecc_6:3yo digo que un abortivo es mejor que élH559
+- Ecc_7:10nunca digas: ¿Cuál es la causa de queH559
+- Ecc_7:21que no oigas a tu...cuando dice mal de tiH1696
+- Ecc_7:22corazón sabe que...dijiste mal de otrosH7043
+- Ecc_7:23diciendo: Seré sabio; pero la sabiduríaH559
+- Ecc_7:27que esto he hallado, dice el PredicadorH559
+- Ecc_8:4potestad, ¿y quién le dirá: ¿Qué haces?[[H559]]
+- Ecc_8:14obras...Digo que esto también es vanidadH559
+- Ecc_8:17aunque diga el sabio que la conoce, noH559
+- Ecc_9:16dije yo: Mejor es la sabiduría que laH559
+- Ecc_10:3necio...va diciendo a todos que es necioH559
+- Ecc_10:20ni...en tu pensamiento digas mal del reyH7043
+- Ecc_10:20ni en lo secreto de...digas mal del ricoH7043
+- Ecc_12:1digas: No tengo en ellos contentamientoH559
+- Ecc_12:8dijo el Predicador, todo es vanidadH559
+- Son_2:10mi amado habló, y me dijo: LevántateH559
+- Son_3:2dije: Me levantaré ahora, y rodearé por
+- Son_3:3dije: ¿Habéis visto al que ama mi alma?[[H559]]
+- Son_7:8yo dije: Subiré a la palmera, asiré susH559
+- Isa_1:11¿para qué me sirve, dice Jehová, laH559
+- Isa_1:18venid luego, dice Jehová, y estemos aH559
+- Isa_1:20porque la boca de Jehová lo ha dichoH1696
+- Isa_1:24dice el Señor, Jehová de los ejércitosH5002
+- Isa_2:3y vendrán muchos pueblos, y dirán: VenidH559
+- Isa_3:6y le dijere: Tú tienes vestido, tú serás
+- Isa_3:7jurará...diciendo: No tomaré ese cuidadoH559
+- Isa_3:10decid al justo que le irá bien, porqueH559
+- Isa_3:15¿qué pensáis vosotros que...dice el SeñorH5002
+- Isa_3:16dice Jehová: Por cuanto las hijas deH559
+- Isa_4:1diciendo...comeremos de nuestro pan, yH559
+- Isa_5:19dicen: Venga ya, apresúrese su obra, yH559
+- Isa_5:20¡ay de los que a lo malo dicen bueno, y aH559
+- Isa_6:3diciendo: Santo, santo, santo, Jehová deH559
+- Isa_6:5dije: ¡Ay de mí! que soy muerto; porqueH559
+- Isa_6:7dijo: He aquí que esto tocó tus labiosH559
+- Isa_6:8decía: ¿A quién enviaré, y quién irá porH559
+- Isa_6:9dijo: Anda, y dí a este pueblo: Oíd bienH559
+- Isa_6:11yo dije: ¿Hasta cuándo...Y respondió élH559
+- Isa_7:2diciendo: Siria se ha confederado conH559
+- Isa_7:3entonces dijo Jehová a Isaías: Sal ahoraH559
+- Isa_7:4dile: Guarda, y repósate; no temas, niH559
+- Isa_7:5sirio...con el hijo de Remalías, diciendoH559
+- Isa_7:7Jehová el Señor dice así: No subsistiráH559
+- Isa_7:10habló también Jehová a Acaz, diciendoH559
+- Isa_7:13dijo entonces Isaías: Oíd ahora, casaH559
+- Isa_8:1me dijo Jehová: Toma una tabla grande, yH559
+- Isa_8:3dio a luz...Y me dijo Jehová: Ponle porH559
+- Isa_8:4antes que el niño sepa decir: Padre míoH7121
+- Isa_8:5vez volvió Jehová a hablarme, diciendoH559
+- Isa_8:11Jehová me dijo de esta manera con manoH559
+- Isa_8:11no caminase por el camino de...diciendoH559
+- Isa_8:19dijeron: Preguntad a los encantadoresH559
+- Isa_8:20¡a la ley...Si no dijeren conforme a estoH559
+- Isa_9:9soberbia y con altivez de corazón dicenH559
+- Isa_10:8él dice: Mis príncipes, ¿no son...reyes?[[H559]]
+- Isa_10:13dijo: Con el poder de mi mano lo heH559
+- Isa_10:24dice así: Pueblo mío, morador de SionH559
+- Isa_12:1aquel día dirás: Cantaré a ti, oh JehováH559
+- Isa_12:4y diréis en aquel día: Cantad a JehováH559
+- Isa_14:4dirás: ¡Cómo paró el opresor, cómo acabóH559
+- Isa_14:8aun los cipreses se regocijaron...diciendo
+- Isa_14:10todos ellos darán voces, y te diránH559
+- Isa_14:13tú que decías en tu corazón: Subiré alH559
+- Isa_14:16contemplarán, diciendo: ¿Es éste aquelH559
+- Isa_14:22me levantaré contra ellos, dice JehováH5002
+- Isa_14:22y raeré de Babilonia el...dice JehováH5002
+- Isa_14:23la barreré con escobas de...dice JehováH5002
+- Isa_14:24juró diciendo: Ciertamente se hará deH5002
+- Isa_16:14hablado, diciendo: Dentro de tres añosH5002
+- Isa_17:3cesará el socorro de Efraín, y el...diceH5002
+- Isa_17:6y quedarán en él rebuscos...dice JehováH5002
+- Isa_18:4Jehová me dijo así: Me estaré quieto, yH5002
+- Isa_19:4y entregaré a Egipto en...dice el SeñorH5002
+- Isa_19:11¿Cómo diréis a Faraón: Yo soy hijo deH559
+- Isa_19:12que te digan ahora, o te hagan saberH5046
+- Isa_19:25bendecirá diciendo: Bendito el puebloH559
+- Isa_20:2diciendo: Vé y quita el cilicio de tusH559
+- Isa_20:3y dijo Jehová: De la manera que anduvoH559
+- Isa_20:6y dirá en aquel día el morador de estaH559
+- Isa_21:6el Señor me dijo así: Vé, pon centinelaH559
+- Isa_21:9después habló y dijo: Cayó...BabiloniaH559
+- Isa_21:10os he dicho lo que oí de Jehová de losH5046
+- Isa_21:16así me ha dicho Jehová: De aquí a un añoH559
+- Isa_21:17porque Jehová Dios de...lo ha dichoH1696
+- Isa_22:4dije: Dejadme, lloraré amargamente; noH559
+- Isa_22:13y bebiendo vino, diciendo: Comamos y
+- Isa_22:14no os será perdonado...dice el SeñorH559
+- Isa_22:15Jehová de los ejércitos dice así: VéH559
+- Isa_22:15entra a este tesorero, a Sebna...y dileH559
+- Isa_22:25dice Jehová...el clavo hincado...quitadoH5002
+- Isa_23:4la fortaleza del mar habló, diciendoH559
+- Isa_23:12dijo: No te alegrarás más, oh...SidónH559
+- Isa_24:16y yo dije: ¡Mi desdicha, mi desdichaH559
+- Isa_25:8quitará la afrenta...Jehová lo ha dichoH1696
+- Isa_25:9se dirá en aquel día: He aquí, éste esH559
+- Isa_28:12dilo: Este es el reposo; dad reposo alH559
+- Isa_28:15por cuanto habéis dicho: Pacto tenemosH559
+- Isa_28:16dice...he puesto en Sion por...una piedraH559
+- Isa_29:11si dieren al que sabe leer, y le dijerenH559
+- Isa_29:11él dirá: No puedo, porque está selladoH559
+- Isa_29:12diciéndole: Lee ahora esto; él dirá: NoH559
+- Isa_29:13dice...Porque este pueblo se acerca a míH559
+- Isa_29:15y dicen: ¿Quién nos vé, y quién nosH559
+- Isa_29:16¿acaso la obra dirá de su hacedor: NoH559
+- Isa_29:16¿dirá la vasija de aquel que la ha...NoH559
+- Isa_29:22Jehová...dice así a la casa de Jacob: NoH559
+- Isa_30:1¡ay de los hijos que se apartan, diceH5002
+- Isa_30:10dicen a los videntes: No veáis; y a losH559
+- Isa_30:10decidnos cosas halagüeñas, profetizadH1696
+- Isa_30:12por tanto, el Santo de Israel dice asíH559
+- Isa_30:15dijo Jehová...En descanso y en reposoH559
+- Isa_30:16sino que dijisteis: No, antes huiremosH559
+- Isa_30:21oirán a tus espaldas palabra que digaH559
+- Isa_30:22las apartarás...¡Sal fuera! les dirásH559
+- Isa_31:4Jehová me dijo a mí de esta manera: ComoH559
+- Isa_31:9dejarán sus banderas, dice Jehová, cuyoH559
+- Isa_33:18tu corazón imaginará el espanto, y dirá
+- Isa_33:24no dirá el morador: Estoy enfermo; alH559
+- Isa_35:4decid a...de corazón apocado: EsforzaosH559
+- Isa_36:4a los cuales dijo el Rabsaces: DecidH559
+- Isa_36:4el gran rey, el rey de Asiria, dice asíH559
+- Isa_36:5yo digo que el consejo y poderío paraH559
+- Isa_36:7y si me decís: En Jehová nuestro DiosH559
+- Isa_36:7y dijo a Judá y a Jerusalén: Delante deH559
+- Isa_36:10Jehová me dijo: Sube a esta tierra yH559
+- Isa_36:11entonces dijeron Eliaquim, Sebna y JoaH559
+- Isa_36:12y dijo...¿Acaso me envió...a que dijeseH559
+- Isa_36:13en pie y gritó a gran voz en...diciendoH559
+- Isa_36:14el rey dice así: No os engañe EzequíasH559
+- Isa_36:15ni os haga...confiar en Jehová, diciendoH559
+- Isa_36:16así dice el rey de Asiria: Haced...pazH559
+- Isa_36:18no os engañe Ezequías diciendo: JehováH559
+- Isa_36:21el rey así lo había mandado, diciendoH559
+- Isa_37:3dijeron: Así ha dicho Ezequías: Día deH559
+- Isa_37:6dijo Isaías: Diréis así a vuestro señorH559
+- Isa_37:6así ha dicho Jehová: No temas por lasH559
+- Isa_37:9oyendo decir de Tirhaca rey de EtiopíaH559
+- Isa_37:9envió embajadores a Ezequías, diciendoH559
+- Isa_37:10así diréis a Ezequías rey de Judá: NoH559
+- Isa_37:10diréis...No te engañe tu Dios...diciendoH559
+- Isa_37:15Ezequías oró a Jehová, diciendoH559
+- Isa_37:21Isaías...envió a decir a...Así ha dichoH559
+- Isa_37:24has vituperado al Señor, y dijiste: ConH559
+- Isa_37:26¿no has oído decir que desde tiempos
+- Isa_37:33dice Jehová acerca del rey de AsiriaH559
+- Isa_37:34no entrará en esta ciudad, dice JehováH5002
+- Isa_38:1le dijo: Jehová dice así: Ordena tu casaH559
+- Isa_38:3dijo...te ruego que te acuerdes ahora queH559
+- Isa_38:4palabra de Jehová a Isaías, diciendoH559
+- Isa_38:5vé y dí a Ezequías: Jehová Dios...diceH559
+- Isa_38:7señal...que Jehová hará esto que ha dichoH1696
+- Isa_38:10yo dije: A la mitad de mis días iré aH559
+- Isa_38:11dije: No veré a JAH, a JAH en la tierraH559
+- Isa_38:15¿qué diré? El que me lo dijo...ha hechoH1696
+- Isa_38:21dicho Isaías: Tomen masa de higos, yH559
+- Isa_38:22había asimismo dicho Ezequías: ¿QuéH559
+- Isa_39:3y le dijo: ¿Qué dicen estos hombres, yH559
+- Isa_39:4dijo entonces: ¿Qué han...en tu casa?[[H559]]
+- Isa_39:4y dijo Ezequías: Todo lo que hay en miH559
+- Isa_39:5dijo Isaías a Ezequías: Oye palabra deH559
+- Isa_39:6será llevado a Babilonia...dice JehováH559
+- Isa_39:8y dijo Ezequías a Isaías: La palabra deH559
+- Isa_40:1consolaos, consolaos, pueblo mío, diceH559
+- Isa_40:2Decidle a...que su tiempo es ya cumplidoH1696
+- Isa_40:6voz que decía: Da voces. Y yo respondíH559
+- Isa_40:6respondí: ¿Qué tengo que decir a voces?[[H7121]]
+- Isa_40:9dí a las ciudades de Judá: ¡Ved aquí alH559
+- Isa_40:21os lo han dicho desde el principio?[[H5046]]
+- Isa_40:25¿a qué...me compararéis? dice el SantoH559
+- Isa_40:27¿por qué dices, oh Jacob, y hablas túH559
+- Isa_41:6ayudó a su vecino, y a su hermano dijoH559
+- Isa_41:7que batía en el yunque, diciendo: BuenaH559
+- Isa_41:9de tierras lejanas te llamé, y te dijeH559
+- Isa_41:13sostiene de tu mano derecha, y te diceH559
+- Isa_41:14soy tu socorro, dice Jehová; el SantoH5002
+- Isa_41:21alegad por vuestra causa, dice JehováH559
+- Isa_41:21vuestras pruebas, dice el Rey de JacobH559
+- Isa_41:22dígannos lo que ha pasado desde elH8085
+- Isa_41:26de tiempo atrás, y diremos? ¿Es Justo?[[H559]]
+- Isa_42:5dice Jehová Dios, Creador de los cielosH559
+- Isa_42:17y dicen a las imágenes de fundiciónH559
+- Isa_42:22despojo...no hay quien diga: RestituidH559
+- Isa_43:1así dice Jehová, Creador tuyo, oh JacobH559
+- Isa_43:6diré al norte: Da acá; y al sur...traeH559
+- Isa_43:9justifíquense; oigan, y digan: Verdad esH559
+- Isa_43:10,12sois mis testigos, dice JehováH5002
+- Isa_43:14así dice Jehová, Redentor vuestro, elH559
+- Isa_43:16dice Jehová, el que abre camino en elH559
+- Isa_44:2dice Jehová, Hacedor tuyo, y el que teH559
+- Isa_44:5éste dirá: Yo soy de Jehová; el otro seH559
+- Isa_44:6así dice Jehová Rey de Israel...RedentorH559
+- Isa_44:8te lo hice oír desde la...y te lo dije?[[H5046]]
+- Isa_44:16dice: ¡Oh! me he calentado, he visto elH559
+- Isa_44:17lo adora, y le ruega diciendo: LíbrameH559
+- Isa_44:19no tiene...ni entendimiento para decirH559
+- Isa_44:20que no libre su alma, ni diga: ¿No esH559
+- Isa_44:24dice Jehová, tu Redentor, que te formóH559
+- Isa_44:26que dice a Jerusalén: Serás habitadaH559
+- Isa_44:27que dice a las profundidades: SecaosH559
+- Isa_44:28dice de Ciro: Es mi pastor, y cumpliráH559
+- Isa_44:28al decir a Jerusalén: Serás edificadaH559
+- Isa_45:1así dice Jehová a su ungido, a Ciro, alH559
+- Isa_45:9¿dirá el barro al que lo labra: ¿QuéH559
+- Isa_45:10¡ay del que dice al padre: ¿Por quéH559
+- Isa_45:11dice Jehová, el Santo de Israel, y suH559
+- Isa_45:13por precio ni por dones, dice JehováH559
+- Isa_45:14así dice Jehová: El trabajo de EgiptoH559
+- Isa_45:14harán reverencia...suplicarán diciendo
+- Isa_45:18así dijo Jehová, que creó los cielosH559
+- Isa_45:19no dije a la descendencia de Jacob: EnH559
+- Isa_45:21y lo tiene dicho desde entonces, sinoH5046
+- Isa_45:24se dirá de mí: Ciertamente en JehováH559
+- Isa_46:10digo: Mi consejo permanecerá, y haréH559
+- Isa_47:7dijiste: Para siempre seré señora; y noH559
+- Isa_47:8tú que dices en tu corazón: Yo soy, yH559
+- Isa_47:10confiaste en tu maldad, diciendo: NadieH559
+- Isa_48:3lo que pasó, ya antes lo dije, y de miH5046
+- Isa_48:5te lo advertí, para que no dijeras: MiH559
+- Isa_48:7que no digas: He aquí que yo lo sabíaH559
+- Isa_48:17dicho Jehová, Redentor tuyo, el SantoH559
+- Isa_48:20decid: Redimió Jehová a Jacob su siervoH559
+- Isa_48:22no hay paz para los malos, dijo JehováH559
+- Isa_49:3dijo: Mi siervo eres, oh Israel, porqueH559
+- Isa_49:4dije: Por demás he trabajado, en vanoH559
+- Isa_49:5dice Jehová, el que me formó desde elH559
+- Isa_49:6dice: Poco es para mí que tú seas miH559
+- Isa_49:7ha dicho Jehová, Redentor de Israel, elH559
+- Isa_49:8dijo Jehová: En tiempo aceptable te oíH559
+- Isa_49:9para que digas a los presos: Salid; y aH559
+- Isa_49:14Sion dijo: Me dejó Jehová, y el SeñorH559
+- Isa_49:18vivo yo, dice Jehová, que de todosH5002
+- Isa_49:20los hijos de tu orfandad dirán a tusH559
+- Isa_49:21dirás en tu...¿Quién me engendró éstos?[[H559]]
+- Isa_49:22dijo Jehová...yo tenderé mi mano a lasH559
+- Isa_49:25así dice Jehová: Ciertamente el cautivoH559
+- Isa_50:1así dijo Jehová: ¿Qué es de la carta deH559
+- Isa_51:16y diciendo a Sion: Pueblo mío eres túH559
+- Isa_51:22así dilo Jehová tu Señor, y tu Dios, elH559
+- Isa_51:23angustiadores, que dijeron a tu almaH559
+- Isa_52:3dice Jehová: De balde fuisteis vendidosH559
+- Isa_52:4así dijo...Mi Pueblo descendió a EgiptoH559
+- Isa_52:5¿qué hago aquí, dice Jehová, ya que miH5002
+- Isa_52:5enseñorean, lo hacen aullar, dice JehováH559
+- Isa_52:7del que dice a Sion: ¡Tu Dios reina![[H559]]
+- Isa_54:1más son los hijos de la...ha dicho JehováH559
+- Isa_54:6esposa...es repudiada, dijo el Dios tuyoH559
+- Isa_54:8tendré compasión de ti, dijo Jehová tuH559
+- Isa_54:10no se apartará de ti mi...dijo JehováH559
+- Isa_54:17su salvación de mí vendrá, dijo JehováH5002
+- Isa_55:8ni vuestros caminos mis caminos, dijoH559
+- Isa_56:1dijo Jehová: Guardad derecho, y hacedH559
+- Isa_56:3y el extranjero que...no hable diciendoH559
+- Isa_56:3ni diga el eunuco: He aquí yo soy árbolH559
+- Isa_56:4dijo Jehová: A los eunucos que guardenH559
+- Isa_56:8dice Jehová el Señor, el que reúne a losH559
+- Isa_56:12dicen, tomemos vino, embriaguémonos
+- Isa_57:10no dijiste: No hay remedio; hallasteH559
+- Isa_57:14y dirá: Allanad, allanad; barred elH559
+- Isa_57:15porque así dijo el Alto y Sublime, elH559
+- Isa_57:19Produciré fruto de labios: Paz...dijoH559
+- Isa_57:21no hay paz, dijo mi...para los impíosH559
+- Isa_58:3qué, dicen, ayunamos, y no hiciste caso
+- Isa_58:9te oirá...clamarás, y dirá él: Heme aquíH559
+- Isa_59:20a los que se volvieren de...dice JehováH5002
+- Isa_59:21será mi pacto con ellos, dijo JehováH559
+- Isa_59:21dijo Jehová, desde ahora y...siempreH559
+- Isa_62:4ni tu tierra se dirá más Desolada; sinoH559
+- Isa_62:11decid a la hija de Sion: He aquí vieneH559
+- Isa_63:8porque dijo: Ciertamente mi pueblo sonH559
+- Isa_63:11pero se acordó...de Moisés Y...diciendo
+- Isa_65:1dije a gente que no invocaba mi nombreH559
+- Isa_65:5que dicen: Estate en tu lugar, no teH559
+- Isa_65:7por vuestras iniquidades, dice JehováH559
+- Isa_65:8ha dicho Jehová: Como si alguno hallaseH559
+- Isa_65:8hallase mosto en un racimo, y dijeseH559
+- Isa_65:13así dijo Jehová el Señor: He aquí queH559
+- Isa_65:25en todo mi santo monte, dijo JehováH559
+- Isa_66:1Jehová dijo así: El cielo es mi tronoH559
+- Isa_66:2y así todas estas cosas fueron, diceH5002
+- Isa_66:5dijeron: Jehová sea glorificado. PeroH559
+- Isa_66:9¿no haré nacer? dijo Jehová...dice tuH559
+- Isa_66:12dice Jehová: He aquí que yo extiendoH559
+- Isa_66:17juntamente serán talados, dice JehováH5002
+- Isa_66:20santo monte de Jerusalén, dice JehováH559
+- Isa_66:21ellos Para sacerdotes y levitas, diceH559
+- Isa_66:22Permanecerán delante de mí, diceH5002
+- Isa_66:23vendrán todos a adorar...dijo JehováH559
+- Jer_1:4vino...palabra de Jehová a...diciendoH559
+- Jer_1:6yo dije: ¡Ah! ¡ah, Señor Jehová! He aquíH559
+- Jer_1:7y me dijo Jehová: No digas: Soy un niñoH559
+- Jer_1:7irás tú, Y dirás todo lo que te mandeH559
+- Jer_1:8contigo estoy para librarte, dice JehováH5002
+- Jer_1:9tocó mi boca, y me dijo Jehová: He aquíH559
+- Jer_1:11,13vino a mí, diciendo...¿Qué ves tú?[[H559]]
+- Jer_1:11¿que...Y dije: Veo una vara de almendroH559
+- Jer_1:12me dijo Jehová: Bien has visto; porqueH559
+- Jer_1:13dile: Veo una olla que hierve; y su fazH559
+- Jer_1:14dijo Jehová: Del norte se soltará el malH559
+- Jer_1:15convoco a...los reinos del norte, diceH5002
+- Jer_1:19estoy contigo, dice Jehová...librarteH5002
+- Jer_2:1vino a mí palabra de Jehová, diciendoH559
+- Jer_2:2clama a los oídos de Jerusalén, diciendoH559
+- Jer_2:2así dice Jehová: Me he acordado de ti, deH559
+- Jer_2:3que...mal venía sobre ellos, dice JehováH559
+- Jer_2:5así dijo Jehová: ¿Qué maldad hallaronH559
+- Jer_2:6no dijeron: ¿Dónde está Jehová, que nosH559
+- Jer_2:8los sacerdotes no dijeron: ¿Dónde estáH559
+- Jer_2:9contenderé aún con vosotros, dijo JehováH5002
+- Jer_2:12desolaos en gran manera, dijo JehováH5002
+- Jer_2:19y faltar mi temor en ti, dice el SeñorH5002
+- Jer_2:20rompiste tu yugo...ataduras, y dijisteH559
+- Jer_2:22tu pecado permanecerá aún...dijo JehováH5002
+- Jer_2:23¿cómo puedes decir: No soy inmundaH559
+- Jer_2:25mas dijiste: No hay remedio en ningunaH559
+- Jer_2:27que dicen a un leño: Mi padre eres túH559
+- Jer_2:27y en el tiempo de su calamidad dicenH559
+- Jer_2:29prevaricasteis contra mí, dice JehováH5002
+- Jer_2:31por qué ha dicho mi pueblo: Somos libresH559
+- Jer_2:34sin embargo, en todas estas cosas dicesH559
+- Jer_2:35yo entraré en juicio...porque dijisteH559
+- Jer_3:1dicen: Si alguno dejare a su mujer, yH559
+- Jer_3:1tú, pues...¡vuélvete a mí! dice JehováH5002
+- Jer_3:6me dijo Jehová en días del rey JosíasH559
+- Jer_3:7y dije: Después de hacer todo esto, seH559
+- Jer_3:10de todo corazón, sino fingidamente, diceH5002
+- Jer_3:11me dijo Jehová: Ha resultado justa laH559
+- Jer_3:12di: Vuélvete, oh...Israel, dice JehováH559, [[H5002]]
+- Jer_3:12misericordioso soy yo, dice Jehová, noH5002
+- Jer_3:13maldad...y no oíste mi voz, dice JehováH5002
+- Jer_3:14convertíos, hijos rebeldes, dice JehováH5002
+- Jer_3:16dice Jehová, no se dirá más: Arca delH5002
+- Jer_3:19dije: Me llamaréis: Padre mío, y no osH559
+- Jer_3:20infiel...oh casa de Israel, dice JehováH5002
+- Jer_4:1si te volvieres, oh Israel, dice JehováH5002
+- Jer_4:3así dice Jehová a todo varón de Judá y deH559
+- Jer_4:5decid: Tocad trompeta en...y d: ReuníosH559
+- Jer_4:9en aquel día, dice Jehová, desfalleceráH5002
+- Jer_4:10dije: ¡Ay, ay, Jehová...has engañado aH5002
+- Jer_4:11en aquel tiempo se dirá a este puebloH5002
+- Jer_4:16decid a las naciones: He aquí, haced oírH2142
+- Jer_4:17porque se rebeló contra mí, dice JehováH5002
+- Jer_4:27dijo Jehová: Toda la tierra será asoladaH559
+- Jer_4:31extiende sus manos, diciendo: ¡Ay ahora
+- Jer_5:2digan: Vive Jehová, juran falsamenteH559
+- Jer_5:4dije: Ciertamente éstos son pobres, hanH559
+- Jer_5:9¿no había de castigar esto? dijo JehováH5002
+- Jer_5:11se rebelaron...casa de Judá, dice JehováH5002
+- Jer_5:12negaron a Jehová, y dijeron: El no esH559
+- Jer_5:14así ha dicho...Porque dijeron esta palabraH559
+- Jer_5:15gente de lejos, oh casa de Israel, diceH5002
+- Jer_5:18dice Jehová, no os destruiré del todoH5002
+- Jer_5:19y cuando dijeren: ¿Por qué...les dirásH559
+- Jer_5:20haced que esto se oiga en Judá, diciendoH559
+- Jer_5:22¿a mí no me temeréis? dice Jehová; ¿NoH5002
+- Jer_5:24no dijeron en su corazón: Temamos ahoraH559
+- Jer_5:29¿no castigaré esto? dice Jehová; ¿y deH5002
+- Jer_6:6dijo Jehová...Cortad árboles, y levantadH559
+- Jer_6:9así dijo Jehová...Del todo rebuscarán comoH559
+- Jer_6:12extenderé mi mano sobre los...dice JehováH5002
+- Jer_6:14curan la...diciendo: Paz, paz, y no hayH559
+- Jer_6:15cuando los castigue caerán, dice JehováH559
+- Jer_6:16así dijo Jehová: Paraos en los caminosH559
+- Jer_6:16y andad por...Mas dijeron: No andaremosH559
+- Jer_6:17dijesen: Escuchad...Y dijeron ellos: NoH559
+- Jer_6:21dice...yo pongo a este pueblo tropiezosH559
+- Jer_6:22dicho Jehová: He aquí que viene puebloH559
+- Jer_7:1palabra de...que vino a Jeremías, diciendoH559
+- Jer_7:2y proclama allí esta palabra, y dí: OídH559
+- Jer_7:3así ha dicho...Mejorad vuestros caminosH559
+- Jer_7:4no fiéis en palabras de...diciendo: TemploH559
+- Jer_7:10y diréis: Librados somos; para seguirH559
+- Jer_7:11aquí que también yo lo veo, dice JehováH5002
+- Jer_7:13habéis hecho...estas obras, dice JehováH5002
+- Jer_7:19¿me provocarán ellos a ira? dice JehováH5002
+- Jer_7:20ha dicho Jehová...He aquí que mi furorH559
+- Jer_7:21así ha dicho Jehová...Añadid...holocaustosH559
+- Jer_7:23les mandé, diciendo: Escuchad mi vozH559
+- Jer_7:27dirás todas estas palabras, pero no teH1696
+- Jer_7:28les dirás, por tanto: Esta es la naciónH559
+- Jer_7:30de Judá han hecho lo malo...dice JehováH5002
+- Jer_7:32vendrán días, ha dicho Jehová, en que noH5002
+- Jer_7:32que no se diga más, Tofet, ni...de HinomH559
+- Jer_8:1dice Jehová, sacarán los huesos de losH5002
+- Jer_8:3arroje yo a los que queden, dice JehováH5002
+- Jer_8:4les dirás asimismo: Así ha dicho JehováH559
+- Jer_8:6arrepienta de su mal, diciendo: ¿Qué heH559
+- Jer_8:8¿cómo decís: Nosotros somos sabios, y laH559
+- Jer_8:11curaron la...con liviandad, diciendo: PazH559
+- Jer_8:12cuando los castigue caerán, dice JehováH559
+- Jer_8:13los cortaré del todo, dice JehováH5002
+- Jer_8:17que yo envío...áspides os morderán, diceH5002
+- Jer_9:3de mal en mal procedieron...dice JehováH5002
+- Jer_9:6por...no quisieron conocerme, dice JehováH5002
+- Jer_9:7ha dicho...he aquí que yo los refinaré yH559
+- Jer_9:8con su boca dice paz a su amigo, y dentroH1696
+- Jer_9:9¿no los he de castigar por...dice JehováH5002
+- Jer_9:13dijo Jehová: Porque dejaron mi ley, laH559
+- Jer_9:15ha dicho Jehová...les daré a comer ajenjoH559
+- Jer_9:17dice Jehová...llamad plañideras que venganH559
+- Jer_9:22así ha dicho...Los cuerpos de los hombresH5002
+- Jer_9:23dijo Jehová: No se alabe el sabio en suH559
+- Jer_9:24porque estas cosas quiero, dice JehováH5002
+- Jer_9:25vienen días, dice Jehová, en que castigaré aH5002
+- Jer_10:2así dijo Jehová: No aprendáis el caminoH559
+- Jer_10:11diréis así: Los dioses que no hicieronH560
+- Jer_10:18ha dicho...en que arrojaré con honda losH559
+- Jer_10:19dije: Ciertamente enfermedad mía es estaH559
+- Jer_11:1palabra que vino de...a Jeremías, diciendoH559
+- Jer_11:3dirás tú: Así dijo...Maldito el varón queH559
+- Jer_11:4diciéndoles: Oíd mi voz, y cumplid misH559
+- Jer_11:5y respondí y dije: Amén, oh JehováH559
+- Jer_11:6me dijo: Pregona todas estas palabras enH559
+- Jer_11:6diciendo: Oíd las palabras de este pactoH559
+- Jer_11:7hasta el día de hoy, diciendo: Oíd mi vozH559
+- Jer_11:9dijo Jehová: Conspiración se ha halladoH559
+- Jer_11:11así ha dicho Jehová...traigo sobre ellosH559
+- Jer_11:19diciendo: Destruyamos el árbol con su
+- Jer_11:21ha dicho Jehová acerca de los varonesH559
+- Jer_11:22ha dicho...los jóvenes morirán a espadaH559
+- Jer_12:4porque dijeron: No verá Dios nuestro finH559
+- Jer_12:14dijo Jehová contra...mis malos vecinosH559
+- Jer_12:16para jurar en mi nombre, diciendo: Vive
+- Jer_12:17de raíz y destruyéndola, dice JehováH5002
+- Jer_13:1me dijo Jehová: Vé y cómprate un cintoH559
+- Jer_13:3,8vino a mí palabra de Jehová, diciendoH559
+- Jer_13:6después de muchos días me dijo JehováH559
+- Jer_13:9así ha dicho Jehová: Así haré podrir laH559
+- Jer_13:11hice juntar a mí toda...Judá, dice JehováH5002
+- Jer_13:12les dirás...esta palabra: Así ha dichoH559
+- Jer_13:12te dirán: ¿No sabemos que toda tinaja seH559
+- Jer_13:13les dirás: Así ha dicho Jehová: He aquíH559
+- Jer_13:14los padres con los hijos...dice JehováH5002
+- Jer_13:18dí al rey y a la reina: HumillaosH559
+- Jer_13:21¿que dirás cuando él ponga...sobre ti aH559
+- Jer_13:22si dijeres en tu corazón: ¿Por qué meH559
+- Jer_13:25la porción...medido...para ti, dice JehováH5002
+- Jer_14:10ha dicho Jehová acerca de este puebloH559
+- Jer_14:11dijo Jehová: No ruegues por este puebloH559
+- Jer_14:13dije: ¡Ah! ¡ah, Señor Jehová! He aquíH559
+- Jer_14:13los profetas les dicen: No veréis espadaH559
+- Jer_14:14me dijo...Jehová: Falsamente profetizanH559
+- Jer_14:15así ha dicho Jehová sobre los profetasH559
+- Jer_14:15los cuales yo no envié, y que dicenH559
+- Jer_14:17dirás, pues, esta palabra: Derramen misH559
+- Jer_15:1me dijo Jehová: Si Moisés y Samuel seH559
+- Jer_15:2dirás: Así ha dicho...El que a muerte, aH559
+- Jer_15:3cuatro géneros de castigo, dice JehováH5002
+- Jer_15:6tú me dejaste, dice Jehová; te volvisteH5002
+- Jer_15:9lo entregaré a la espada...dice JehováH5002
+- Jer_15:19dijo Jehová: Si te convirtieres, yo teH559
+- Jer_15:20para guardarte y para defenderte, diceH5002
+- Jer_16:1vino a mí palabra de Jehová, diciendoH559
+- Jer_16:3así ha dicho Jehová acerca de los hijos yH559
+- Jer_16:5dicho Jehová: No entres en casa de lutoH559
+- Jer_16:5he quitado mi paz de este pueblo, diceH5002
+- Jer_16:9ha dicho...yo haré cesar en este lugarH559
+- Jer_16:10te dirán ellos: ¿Por qué anuncia JehováH559
+- Jer_16:11dirás...padres me dejaron, dice JehováH559, [[H5002]]
+- Jer_16:14días, dice Jehová, en que no se diráH5002, [[H559]]
+- Jer_16:16yo envío muchos pescadores, dice JehováH5002
+- Jer_16:19y dirán: Ciertamente mentira poseyeronH559
+- Jer_17:5ha dicho Jehová: Maldito el varón queH559
+- Jer_17:15dicen: ¿Dónde está la palabra de Jehová?[[H559]]
+- Jer_17:19ha dicho Jehová: Vé y ponte a la puertaH559
+- Jer_17:20diles: Oíd la palabra de Jehová, reyesH559
+- Jer_17:21así ha dicho Jehová: Guardaos por...vidaH559
+- Jer_17:24si...me obedeciereis, dice Jehová, noH5002
+- Jer_18:1palabra...que vino a Jeremías, diciendoH559
+- Jer_18:5vino a mí palabra de Jehová, diciendoH559
+- Jer_18:6¿no podré yo hacer de vosotros...diceH5002
+- Jer_18:11diciendo: Así ha dicho...He aquí que yoH559
+- Jer_18:12dijeron: Es en vano; porque en pos deH559
+- Jer_18:13así dijo Jehová: Preguntad ahora a lasH559
+- Jer_18:18y dijeron: Venid y maquinemos contraH559
+- Jer_19:1dijo Jehová; Vé y compra una vasija deH559
+- Jer_19:3dirás...Así dice Jehová de los ejércitosH559
+- Jer_19:6dice Jehová, que este lugar no...TofetH5002
+- Jer_19:11les dirás: Así ha dicho...quebrantaréH559
+- Jer_19:12así haré a este lugar, dice Jehová, yH5002
+- Jer_19:14en el atrio...y dijo a todo el puebloH559
+- Jer_19:15ha dicho...yo traigo sobre esta ciudadH559
+- Jer_20:3lo dijo...Jehová no ha llamado tu nombreH559
+- Jer_20:4ha dicho Jehová...haré que seas un terrorH559
+- Jer_20:9y dije: No me acordaré más de él, niH559
+- Jer_20:10se engañará, decían, y prevaleceremos
+- Jer_20:15dio nuevas...diciendo: Hijo varón te haH559
+- Jer_21:1Sedequías envió a...para que le dijesenH559
+- Jer_21:3Jeremías...dijo: Diréis así a SedequíasH559
+- Jer_21:4así ha dicho...yo vuelvo atrás las armasH559
+- Jer_21:7dice Jehová, entregaré a Sedequías reyH5002
+- Jer_21:8a este pueblo dirás: Así ha dicho JehováH559
+- Jer_21:10mi rostro he puesto contra...dice JehováH5002
+- Jer_21:11a la casa del rey...dirás: Oíd palabraH559
+- Jer_21:12así dijo Jehová: Haced de mañana juicioH559
+- Jer_21:13estoy contra ti, moradora...dice JehováH5002
+- Jer_21:13decís: ¿Quien subirá contra nosotrosH559
+- Jer_21:14castigaré...vuestras obras, dice JehováH5002
+- Jer_22:1así dijo Jehová: Desciende a la casa delH559
+- Jer_22:2dí: Oye palabra de Jehová, oh rey de JudáH559
+- Jer_22:3ha dicho Jehová: Haced juicio y justiciaH559
+- Jer_22:5he jurado, dice Jehová, que esta casaH5002
+- Jer_22:6así ha dicho Jehová acerca de la casa delH559
+- Jer_22:8gentes...dirán cada uno a su compañeroH559
+- Jer_22:11ha dicho Jehová acerca de Salum hijo deH559
+- Jer_22:14que dice: Edificaré...casa espaciosa, yH559
+- Jer_22:16¿no es...conocerme a mí? dice JehováH5002
+- Jer_22:18así ha dicho Jehová acerca de JoacimH559
+- Jer_22:18no lo llorarán, diciendo: ¡Ay, hermano
+- Jer_22:18ni lo lamentarán, diciendo: ¡Ay, señor
+- Jer_22:21dijiste: No oiré. Este fue tu caminoH559
+- Jer_22:24vivo yo, dice Jehová, que si Conías hijoH5002
+- Jer_22:30así ha dicho Jehová: Escribid lo queH559
+- Jer_23:1¡ay de los pastores que...dice JehováH5002
+- Jer_23:2así ha dicho Jehová...a los pastores queH559
+- Jer_23:2castigo la maldad de...obras, dice JehováH5002
+- Jer_23:4y pondré sobre ellas pastores que...diceH5002
+- Jer_23:5días, dice Jehová, en que levantaré aH5002
+- Jer_23:7días, dice Jehová, en que no dirán másH5002
+- Jer_23:11aun en mi casa hallé su maldad, diceH5002
+- Jer_23:12traeré mal sobre ellos...dice JehováH5002
+- Jer_23:15dicho Jehová...contra aquellos profetasH5002
+- Jer_23:16ha dicho...No escuchéis las palabras deH5002
+- Jer_23:17dicen...Jehová dijo: Paz tendréis; y aH1696
+- Jer_23:17a cualquiera que anda tras...dicen: NoH559
+- Jer_23:23¿soy yo Dios de cerca...dice Jehová, yH5002
+- Jer_23:24¿se ocultará alguno, dice Jehová, enH5002
+- Jer_23:24¿no lleno yo, dice Jehová, el cielo yH5002
+- Jer_23:25profetas dijeron...diciendo: Soñé, soñéH559
+- Jer_23:28¿qué tiene que ver la paja con el...diceH5002
+- Jer_23:29¿no es mi palabra como fuego, diceH5002
+- Jer_23:30estoy contra los profetas, dice JehováH5002
+- Jer_23:31dice...aquí yo estoy contra los profetasH5002
+- Jer_23:31los profetas que...dicen: El ha dichoH5002
+- Jer_23:32dice Jehová, yo estoy contra los queH5002
+- Jer_23:32ningún provecho hicieron...dice JehováH5002
+- Jer_23:33te preguntare este pueblo...diciendoH5002
+- Jer_23:33les dirás...Os dejaré, ha dicho JehováH559
+- Jer_23:34al pueblo que dijere: Profecía de JehováH559
+- Jer_23:35así diréis cada cual a su compañeroH559
+- Jer_23:36nunca más os vendrá a la memoria decirH2142
+- Jer_23:37así dirás al profeta: ¿Qué te respondióH559
+- Jer_23:38si dijereis: Profecía de Jehová; por esoH559
+- Jer_23:38Jehová dice así: Porque dijisteis estaH559
+- Jer_23:38deciros: No digáis: Profecía de JehováH559
+- Jer_24:3dijo Jehová: ¿Qué ves tú...Y dije: HigosH559
+- Jer_24:4y vino a mí palabra de Jehová, diciendoH559
+- Jer_24:5dicho Jehová...Como a estos higos buenosH559
+- Jer_24:8ha dicho Jehová, pondré a Sedequías reyH559
+- Jer_25:2a todo el pueblo de Judá y a...diciendoH559
+- Jer_25:5cuando decían: Volveos ahora de vuestroH559
+- Jer_25:7no me habéis oído, dice Jehová, paraH5002
+- Jer_25:8ha dicho Jehová...Por cuanto no habéisH559
+- Jer_25:9y tomaré a...las tribus del norte, diceH5002
+- Jer_25:12castigaré al rey de Babilonia...ha dichoH5002
+- Jer_25:15me dijo Jehová...Toma de mi mano laH559
+- Jer_25:27les dirás...Así ha dicho Jehová...BebedH559
+- Jer_25:28les dirás...ha dicho...Tenéis que beberH559
+- Jer_25:29porque espada traigo sobre todos...diceH5002
+- Jer_25:30les dirás: Jehová rugirá desde lo altoH559
+- Jer_25:31entregará los impíos a espada, diceH5002
+- Jer_25:32ha dicho Jehová...el mal irá de naciónH559
+- Jer_26:1vino esta palabra de Jehová, diciendoH559
+- Jer_26:2ha dicho Jehová: Ponte en el atrio de laH559
+- Jer_26:4les dirás...Así ha dicho...Si no me oyereisH559
+- Jer_26:8le echaron mano, diciendo: De...morirásH559
+- Jer_26:9has profetizado...diciendo: Esta casa seráH559
+- Jer_26:11hablaron...diciendo: En pena de muerteH559
+- Jer_26:12y habló...a todo el pueblo, diciendoH559
+- Jer_26:15para que dijese todas estas palabras enH1696
+- Jer_26:16dijeron los príncipes y todo el puebloH559
+- Jer_26:17y hablaron a toda la reunión...diciendoH559
+- Jer_26:18diciendo...Así ha dicho Jehová...Sion seráH559
+- Jer_27:1vino esta palabra...a Jeremías, diciendoH559
+- Jer_27:2me ha dicho así: Hazte coyundas y yugosH559
+- Jer_27:4digan a sus señores...ha dicho Jehová deH559
+- Jer_27:4así habéis de decir a vuestros señoresH559
+- Jer_27:8castigaré a tal nación con...dice JehováH5002
+- Jer_27:9,14hablan diciendo: No serviréis al reyH559
+- Jer_27:11la dejaré en su tierra, dice JehováH5002
+- Jer_27:12diciendo: Someted vuestros cuellos alH559
+- Jer_27:13según ha dicho Jehová de la nación queH1696
+- Jer_27:15yo no los envié, dice Jehová, y ellosH5002
+- Jer_27:16hablé diciendo: Así ha dicho Jehová: NoH559
+- Jer_27:16diciendo: He aquí que los utensilios deH559
+- Jer_27:19ha dicho Jehová...de aquellas columnasH559
+- Jer_27:21así...ha dicho Jehová...de los utensiliosH559
+- Jer_27:22el día en que yo los visité, dice JehováH5002
+- Jer_28:1me habló...delante de...el pueblo, diciendoH559
+- Jer_28:2habló Jehová...diciendo: Quebranté el yugoH559
+- Jer_28:4y yo haré volver...dice Jehová; porque yoH5002
+- Jer_28:6dijo el profeta Jeremías: Amén, así loH5002
+- Jer_28:11y habló...diciendo: Así ha dicho JehováH559
+- Jer_28:12vino palabra de...a Jeremías, diciendoH559
+- Jer_28:13habla a Hananías, diciendo: Así ha dichoH559
+- Jer_28:15dijo el profeta Jeremías al...HananíasH559
+- Jer_28:16así ha dicho Jehová...te quito de sobreH559
+- Jer_29:3a quienes envió Sedequías rey de...DecíaH559
+- Jer_29:4ha dicho Jehová...a los de la cautividadH559
+- Jer_29:8ha dicho...No os engañen vuestros profetasH559
+- Jer_29:9falsamente os...no los envié, ha dichoH5002
+- Jer_29:10así dijo Jehová: Cuando en BabiloniaH559
+- Jer_29:11yo sé los pensamientos que...dice JehováH5002
+- Jer_29:14seré hallado por vosotros, dice JehováH5002
+- Jer_29:14os reuniré...de todos los lugares...diceH5002
+- Jer_29:15habéis dicho...nos ha levantado profetasH559
+- Jer_29:16ha dicho Jehová acerca del rey que estáH559
+- Jer_29:17ha dicho...envío yo contra ellos espadaH559
+- Jer_29:19no oyeron mis palabras, dice JehováH5002
+- Jer_29:19y no habéis escuchado, dice JehováH5002
+- Jer_29:21ha dicho Jehová...acerca de Acab hijoH559
+- Jer_29:22harán de ellos una maldición, diciendoH559
+- Jer_29:23lo cual yo sé y testifico, dice JehováH5002
+- Jer_29:24y a Semaías de...hablarás, diciendoH559
+- Jer_29:25diciendo: Tú enviaste cartas en tu...dH559
+- Jer_29:28envió a decir en Babilonia: Largo seráH559
+- Jer_29:30vino palabra de...a Jeremías, diciendoH559
+- Jer_29:31envía a decir a todos los cautivos: AsíH559
+- Jer_29:31ha dicho Jehová de Semaías de NehelamH559
+- Jer_29:32ha dicho Jehová...yo castigaré a SemaíasH559
+- Jer_29:32ni verá el bien que haré...dice JehováH5002
+- Jer_30:1palabra...que vino a Jeremías, diciendoH559
+- Jer_30:2diciendo: Escríbete en un libro todas lasH559
+- Jer_30:3vienen días, dice Jehová, en que haréH5002
+- Jer_30:3que haré volver a los cautivos...ha dichoH559
+- Jer_30:5así ha dicho Jehová: Hemos oído voz deH559
+- Jer_30:8en aquel día, dice Jehová...yo quebraréH5002
+- Jer_30:10siervo mío Jacob, no temas, dice JehováH5002
+- Jer_30:11yo estoy contigo para salvarte, diceH5002
+- Jer_30:12así ha dicho Jehová: Incurable es tuH5002
+- Jer_30:17mas yo haré venir sanidad para ti...diceH5002
+- Jer_30:18así ha dicho Jehová...yo hago volver losH559
+- Jer_30:21¿quién...que se atreve a acercarse...diceH5002
+- Jer_31:1en aquel tiempo, dice Jehová, yo seréH5002
+- Jer_31:2ha dicho Jehová: El pueblo que escapó deH559
+- Jer_31:3se manifestó a mí...diciendo: Con amor
+- Jer_31:7dicho Jehová...haced oír, alabad, y decidH559
+- Jer_31:10hacedlo saber en las costas...y decidH559
+- Jer_31:14y mi pueblo será saciado...dice JehováH5002
+- Jer_31:15ha dicho Jehová: Voz fue oída en RamáH559
+- Jer_31:16ha dicho Jehová...salario hay para...diceH559, [[H5002]]
+- Jer_31:17esperanza hay...para tu porvenir, diceH5002
+- Jer_31:20tendré de él misericordia, dice JehováH5002
+- Jer_31:23ha dicho Jehová...Aún dirán esta palabraH559
+- Jer_31:27días, dice Jehová, en que sembraré laH5002
+- Jer_31:28tendré cuidado de ellos...dice JehováH5002
+- Jer_31:29no dirán más: Los padres comieron lasH559
+- Jer_31:31vienen días, dice Jehová...nuevo pactoH5002
+- Jer_31:32ellos invalidaron mi pacto...dice JehováH5002
+- Jer_31:33este es el pacto que haré...dice JehováH5002
+- Jer_31:34diciendo: Conoce a Jehová...dice JehováH5002
+- Jer_31:35ha dicho Jehová, que da el sol para luzH559
+- Jer_31:36si faltaren estas leyes...dice JehováH5002
+- Jer_31:37ha dicho Jehová: Si los cielos arribaH559
+- Jer_31:37desecharé...la descendencia...dice JehováH5002
+- Jer_31:38días, dice Jehová, en que la ciudad seráH5002
+- Jer_32:3diciendo: ¿Por qué profetizas tú d: AsíH553
+- Jer_32:3ha dicho Jehová...yo entrego esta ciudadH559
+- Jer_32:5peleareis...no os irá bien, dice JehováH5002
+- Jer_32:6dijo Jeremías: Palabra...a mí, diciendoH559
+- Jer_32:7Hanameel hijo de...viene a ti, diciendoH559
+- Jer_32:8vino...al patio de la cárcel, y me dijoH559
+- Jer_32:13dí orden a Baruc delante de...diciendoH559
+- Jer_32:14así ha dicho Jehová...Toma estas cartasH559
+- Jer_32:15dicho Jehová...Aún se comprarán casasH559
+- Jer_32:16dí la carta de...oré a Jehová, diciendoH559
+- Jer_32:24ha venido...a suceder lo que tú dijisteH1696
+- Jer_32:25¿y tú me has dicho: Cómprate la heredadH559
+- Jer_32:26vino la palabra de...a Jeremías, diciendoH559
+- Jer_32:28así ha dicho...voy a entregar esta ciudadH559
+- Jer_32:30no han hecho sino lo malo...dice JehováH5002
+- Jer_32:36dice...a esta...ciudad, de la cual decísH559
+- Jer_32:42ha dicho...Como traje sobre este puebloH559
+- Jer_32:43en esta tierra de la cual decís: EstáH559
+- Jer_32:44haré regresar sus cautivos, dice JehováH5002
+- Jer_33:1vino palabra de...a Jeremías...diciendoH559
+- Jer_33:2así ha dicho Jehová, que hizo la tierraH559
+- Jer_33:4ha dicho Jehová...acerca de las casas deH559
+- Jer_33:10dicho...En este lugar, de la cual decísH559
+- Jer_33:11voz de los que digan: Alabad a JehováH559
+- Jer_33:11volveré a traer los cautivos...ha dichoH559
+- Jer_33:12así dice Jehová...En este lugar desiertoH559
+- Jer_33:13aún pasarán ganados...ha dicho JehováH559
+- Jer_33:14dice...confirmaré la buena palabra queH5002
+- Jer_33:17así ha dicho Jehová: No faltará a DavidH559
+- Jer_33:19vino palabra...a Jeremías, diciendoH559
+- Jer_33:20ha dicho Jehová: Si pudiereis invalidarH559
+- Jer_33:23vino palabra de Jehová...diciendoH559
+- Jer_33:24ver lo que habla este pueblo, diciendoH559
+- Jer_33:25dicho Jehová: Si no permanece mi pactoH559
+- Jer_34:1palabra...vino a Jeremías...la cual dijoH559
+- Jer_34:2ha dicho Jehová...Vé y habla a SedequíasH559
+- Jer_34:2a Sedequías...dile: Así ha dicho JehováH559
+- Jer_34:4así ha dicho Jehová...No morirás a espadaH559
+- Jer_34:5endecharán, diciendo: ¡Ay, señor...diceH5002
+- Jer_34:12vino pues, palabra de Jehová...diciendoH559
+- Jer_34:13dice Jehová: Yo hice pacto...diciendoH559
+- Jer_34:17dicho...promulgo libertad...dice JehováH559, [[H5002]]
+- Jer_34:22mandaré...dice Jehová, y los haré volverH5002
+- Jer_35:1palabra...que vino a Jeremías en...diciendoH559
+- Jer_35:5copas llenas de vino, y les dije: BebedH559
+- Jer_35:6dijeron: No beberemos...ordenó diciendoH559
+- Jer_35:11rey...subió a la tierra, dijimos: VenidH559
+- Jer_35:12vino palabra de...a Jeremías, diciendoH559
+- Jer_35:13ha dicho...Vé y dí a los varones de JudáH559
+- Jer_35:13¿no aprenderéis a obedecer mis...diceH5002
+- Jer_35:15envié a vosotros...para deciros: VolveosH559
+- Jer_35:17ha dicho Jehová...traeré yo sobre JudáH559
+- Jer_35:18dijo...los recabitas...Así ha dicho JehováH559
+- Jer_35:19ha dicho Jehová...No faltará de JonadabH559
+- Jer_36:1vino esta palabra...a Jeremías, diciendoH559
+- Jer_36:5Jeremías a Baruc, diciendo: A mí se meH559
+- Jer_36:14dijese a Baruc: Torna el rollo en el queH559
+- Jer_36:15y le dijeron: Siéntate ahora, y léelo aH559
+- Jer_36:16y dijeron a Baruc: Sin duda contaremosH559
+- Jer_36:17preguntaron luego a Baruc, diciendoH559
+- Jer_36:18y Baruc les dijo: El me dictaba de suH559
+- Jer_36:19dijeron los príncipes a Baruc: Vé yH559
+- Jer_36:27vino palabra de...a Jeremías...diciendoH559
+- Jer_36:29y dirás a Joacim...Así ha dicho JehováH559
+- Jer_36:29tú quemaste este rollo, diciendo: ¿PorH559
+- Jer_36:29¿por qué escribiste en él, diciendoH559
+- Jer_36:30ha dicho Jehová acerca de Joacim rey deH559
+- Jer_37:2las cuales dijo por el profeta JeremíasH1696
+- Jer_37:3que dijesen al profeta Jeremías: RuegaH559
+- Jer_37:6palabra de Jehová al...Jeremías, diciendoH559
+- Jer_37:7así ha dicho Jehová...Diréis así al rey deH559
+- Jer_37:9así ha dicho...No os engañéis...diciendoH559
+- Jer_37:13apresó al profeta Jeremías, diciendoH559
+- Jer_37:14Jeremías dijo: Falso; no me paso a losH559
+- Jer_37:17el rey...dijo: ¿Hay palabra de Jehová?[[H559]]
+- Jer_37:17Jeremías dijo: Hay. Y d más: En manoH559
+- Jer_37:18dijo también Jeremías al rey SedequíasH559
+- Jer_37:19os profetizaban diciendo: No vendrá elH559
+- Jer_38:1Jeremías hablaba a...el pueblo, diciendoH559
+- Jer_38:2así ha dicho Jehová: El que se quedare enH559
+- Jer_38:3ha dicho...será entregada esta ciudad enH559
+- Jer_38:4y dijeron los príncipes al rey: MueraH559
+- Jer_38:5dijo el rey...él está en vuestras manosH559
+- Jer_38:8salió de la casa...habló al rey, diciendoH559
+- Jer_38:10mandó el rey al...Ebed-melec, diciendoH559
+- Jer_38:12dijo el etíope...a Jeremías: Pon ahoraH559
+- Jer_38:14y dijo el rey a Jeremías: Te, haré unaH559
+- Jer_38:15y Jeremías dijo a Sedequías: Si te loH559
+- Jer_38:16y juró el rey Sedequías en...diciendoH559
+- Jer_38:17dijo Jeremías...ha dicho Jehová Dios deH559
+- Jer_38:20y dijo Jeremías: No te entregarán. OyeH559
+- Jer_38:22y ellas mismas dirán Te han engañadoH559
+- Jer_38:24y dijo Sedequías...Nadie sepa...palabrasH559
+- Jer_38:25dijeron: Decláranos qué te dijo el reyH1696
+- Jer_38:26les dirás: Supliqué al rey que no meH559
+- Jer_39:11ordenado acerca de Jeremías, diciendoH559
+- Jer_39:12sino que harás con él como él te dijereH1696
+- Jer_39:15venido palabra de Jehová a...diciendoH559
+- Jer_39:16a Ebed-melec...diciendo: Así ha dichoH559
+- Jer_39:17yo te libraré, dice Jehová, y no serásH5002
+- Jer_39:18tuviste confianza en mí, dice JehováH559
+- Jer_40:2tomó...a Jeremías y le dijo: Jehová tuH559
+- Jer_40:3ha...hecho Jehová según lo había dichoH1696
+- Jer_40:9diciendo: No tengáis temor de servir a,[[H559]]
+- Jer_40:11oyeron decir que el rey de Babilonia
+- Jer_40:14le dijeron: ¿No sabes que Baalis rey deH559
+- Jer_40:15a Gedalías...diciendo...mataré a IsmaelH559
+- Jer_40:16Gedalías...dijo a Johanán...No hagas estoH559
+- Jer_41:6cuando los encontró, les dijo: Venid aH559
+- Jer_41:8diez hombres que dijeron a Ismael: NoH559
+- Jer_42:2dijeron al profeta Jeremías: Acepta ahoraH559
+- Jer_42:4Jeremías les dijo: He oído...voy a orarH559
+- Jer_42:5y ellos dijeron...Jehová sea...testigo deH559
+- Jer_42:9les dijo: Así ha dicho Jehová Dios deH559
+- Jer_42:11no temáis de su presencia, ha dichoH5002
+- Jer_42:13dijereis: No moraremos en esta tierraH559
+- Jer_42:14diciendo: No, sino que entraremos enH559
+- Jer_42:15ha dicho Jehová...al...entrar en EgiptoH559
+- Jer_42:18dicho Jehová...Como se derramó mi iraH559
+- Jer_42:20me enviasteis a Jehová...diciendo: OraH559
+- Jer_42:20haznos saber...las cosas que...Dios dijereH559
+- Jer_43:2dijo...todos los varones soberbios dijeronH559
+- Jer_43:2mentira dices; no te ha enviado JehováH1696
+- Jer_43:2decir: No vayáis a Egipto para morar allíH559
+- Jer_43:8vino palabra de...a Jeremías...diciendoH559
+- Jer_43:10y diles: Así ha dicho Jehová de losH559
+- Jer_44:1palabra que vino a Jeremías...diciendoH559
+- Jer_44:2así ha dicho Jehová...habéis visto todo elH559
+- Jer_44:4envié...profetas...para deciros: No hagáisH559
+- Jer_44:7ha dicho...¿Por qué hacéis tan grande malH559
+- Jer_44:11ha dicho...yo vuelvo mi rostro contraH559
+- Jer_44:15todos...respondieron a Jeremías, diciendoH559
+- Jer_44:20que le había respondido esto, diciendoH559
+- Jer_44:24y dijo Jeremías a todo el pueblo, y aH559
+- Jer_44:25diciendo: Vosotros y vuestras mujeresH559
+- Jer_44:25lo ejecutasteis, diciendo: CumpliremosH559
+- Jer_44:26he jurado...dice Jehová, que mi nombreH559
+- Jer_44:26boca de ningún hombre de Judá, diciendoH559
+- Jer_44:29y esto tendréis por señal, dice JehováH5002
+- Jer_44:30ha dicho Jehová...yo entrego a FaraónH559
+- Jer_45:1habló...Jeremías a Baruc hijo...diciendoH559
+- Jer_45:2así ha dicho Jehová Dios de Israel a tiH559
+- Jer_45:3tú dijiste: ¡Ay de mí ahora! porque haH559
+- Jer_45:4le dirás: Ha dicho Jehová...yo destruyo aH559
+- Jer_45:5yo traigo mal sobre toda carne, ha dichoH5002
+- Jer_46:5miedo de todas partes, dice JehováH5002
+- Jer_46:8las aguas se mueven como ríos, y dijoH559
+- Jer_46:14decid: Ponte en pie y prepárate, porqueH559
+- Jer_46:16y dijeron: Levántate y volvámonos aH559
+- Jer_46:18vivo yo, dice el Rey, cuyo nombre esH5002
+- Jer_46:23cortarán sus bosques, dice JehováH5002
+- Jer_46:25dicho: He aquí yo castigo a Amón diosH559
+- Jer_46:26después será habitado...dice JehováH5002
+- Jer_46:28tú, siervo mío Jacob, no temas, diceH5002
+- Jer_47:2ha dicho Jehová...suben aguas del norteH559
+- Jer_48:1así ha dicho Jehová...¡Ay de Nebo! porqueH559
+- Jer_48:2maquinaron mal contra ella, diciendo
+- Jer_48:8y será destruida la llanura...ha dichoH559
+- Jer_48:12vienen días, ha dicho Jehová, en queH5002
+- Jer_48:14¿cómo, pues, diréis: Somos hombresH559
+- Jer_48:15destruido fue Moab...ha dicho el ReyH5002
+- Jer_48:17decid: ¡Cómo se quebró la vara fuerteH559
+- Jer_48:19pregunta a...dile: ¿Qué ha acontecido?[[H559]]
+- Jer_48:25y su brazo quebrantado, dice JehováH5002
+- Jer_48:30conozco, dice Jehová, su cólera, peroH5002
+- Jer_48:35y exterminaré de Moab, dice Jehová, aH559
+- Jer_48:38quebranté a Moab como a vasija...diceH559
+- Jer_48:40dicho...He aquí que como águila volaráH559
+- Jer_48:43contra ti, oh morador de Moab, diceH5002
+- Jer_48:44yo traeré...el año de su castigo, diceH5002
+- Jer_48:47volver a los cautivos de Moab...diceH5002
+- Jer_49:1dicho Jehová: ¿No tiene hijos Israel?[[H559]]
+- Jer_49:2días, ha dicho Jehová, en que haré oírH559
+- Jer_49:2Israel tomará por heredad a...ha dichoH5002
+- Jer_49:4la que dice: ¿Quién vendrá contra mí?
+- Jer_49:5traigo sobre ti espanto, dice el SeñorH5002
+- Jer_49:6haré volver a los cautivos...dice JehováH5002
+- Jer_49:7acerca de Edom. Así ha dicho Jehová deH559
+- Jer_49:12ha dicho Jehová...¿y serás tú absueltoH559
+- Jer_49:13he jurado, dice Jehová, que asolamientoH5002
+- Jer_49:14mensajero a las naciones, diciendo
+- Jer_49:16de allí te haré descender, dice JehováH5002
+- Jer_49:18dice Jehová, así no morará allí nadieH559
+- Jer_49:26morirán en aquel día, ha dicho JehováH5002
+- Jer_49:28así ha dicho Jehová: Levantaos, subidH559
+- Jer_49:30huid...moradores de Hazor, dice JehováH5002
+- Jer_49:31subid contra una nación pacífica...diceH5002
+- Jer_49:32todos lados les traeré su ruina, diceH5002
+- Jer_49:34palabra de...acerca de Elam...diciendoH559
+- Jer_49:35así ha dicho...quiebro al arco de ElamH559
+- Jer_49:37y traeré sobre ellos mal...dice JehováH5002
+- Jer_49:38destruiré a su rey y a su...dice JehováH5002
+- Jer_49:39haré volver a los cautivos de Elam, diceH5002
+- Jer_50:2anunciad en...decid, Tomada es BabiloniaH559
+- Jer_50:4en aquellos días...dice Jehová, vendránH500
+- Jer_50:5volverán sus rostros, diciendo: Venid, y
+- Jer_50:7y decían sus enemigos: No pecaremosH559
+- Jer_50:10los que la saquearon se saciarán, diceH5002
+- Jer_50:18ha dicho Jehová...yo castigo al rey deH559
+- Jer_50:20en aquel tiempo, dice Jehová, la maldadH5002
+- Jer_50:21destruye y mata en pos de...dice JehováH5002
+- Jer_50:30serán destruidos en aquel día, diceH5002
+- Jer_50:31contra ti, oh soberbio, dice el SeñorH5002
+- Jer_50:33ha dicho...Oprimidos fueron los hijos deH559
+- Jer_50:35espada contra los caldeos, dice JehováH5002
+- Jer_50:40dice Jehová, así no morará allí hombreH5002
+- Jer_51:1ha dicho Jehová...levanto un viento contraH559
+- Jer_51:3diré al flechero que entesa su arco, y
+- Jer_51:12pondrá en efecto lo que ha dicho contraH1696
+- Jer_51:14juró por sí mismo, diciendo: Yo te
+- Jer_51:24que ellos hicieron en Sion...dice JehováH5002
+- Jer_51:25yo estoy contra ti...dice Jehová, queH5002
+- Jer_51:26perpetuo asolamiento serás, ha dichoH5002
+- Jer_51:33ha dicho...de Babilonia es como una eraH559
+- Jer_51:35dirá la moradora de Sion...d JerusalénH559
+- Jer_51:36ha dicho Jehová...juzgo tu causa y haréH559
+- Jer_51:39eterno sueño y no despierten, diceH5002
+- Jer_51:48contra ella destruidores, dice JehováH5002
+- Jer_51:52días, dice Jehová, en que yo destruiréH5002
+- Jer_51:53de mí vendrán a ella destruidores, diceH5002
+- Jer_51:57eterno y no despertarán, dice el ReyH5002
+- Jer_51:58ha dicho...El muro ancho de BabiloniaH559
+- Jer_51:61dijo Jeremías a Seraías: Cuando lleguesH559
+- Jer_51:62dirás: Oh Jehová, tú has dicho contraH559
+- Jer_51:64dirás: Así se hundirá Babilonia, y noH559
+- Lam_2:12decían a sus madres: ¿Donde está elH559
+- Lam_2:15diciendo: ¿Es esta la ciudad que decían
+- Lam_2:16enemigos crujieron los dientes; dijeronH559
+- Lam_3:18dijo: Perecieron mis fuerzas...esperanzaH559
+- Lam_3:24mi porción es Jehová, dijo mi alma; porH559
+- Lam_3:37¿quién será aquel que diga que sucedióH559
+- Lam_3:54aguas cubrieron mi...yo dije: Muerto soyH559
+- Lam_3:57el día que te invoqué; dijiste: No temasH559
+- Lam_4:15se dijo entre las naciones: Nunca másH559
+- Lam_4:20el ungido de...de quien habíamos dichoH559
+- Eze_2:1me dijo: Hijo de hombre, ponte sobreH559
+- Eze_2:3me dijo: Hijo de hombre, yo te envío aH559
+- Eze_2:4les dirás: Así ha dicho Jehová el SeñorH559
+- Eze_3:1dilo: Hijo de hombre, come lo que hallasH559
+- Eze_3:3y me dijo: Hijo de hombre, alimenta tuH559
+- Eze_3:4me dijo: Hijo de hombre, vé y entra a laH559
+- Eze_3:10y me dijo: Hijo de hombre, toma en tuH559
+- Eze_3:11háblales y diles: Así ha dicho JehováH559
+- Eze_3:12voz...que decía: Bendita sea la gloria
+- Eze_3:16; 6:1; 7:1; 11:14; 12:1,8,17,21,26; 13:1; 14:2,12; 15:1; 16:1; 17:1,11; 18:1; 20:2,45; 21:1,8,18; 22:1,23; 23:1; 24:1,15,20; 25:1; 26:1; 27:1; 28:1,20; 29:1,17,20; 30:1,20; 31:1; 32:1,17; 33:1,23; 34:1; 35:1; 36:16; 37:15; 38:1vino a mí palabra de Jehová, diciendoH559
+- Eze_3:18yo dijere al impío: De cierto morirásH559
+- Eze_3:22la mano de Jehová sobre mí, y me dijoH559
+- Eze_3:24me habló, y me dijo: Entra, y enciérrateH559
+- Eze_3:27les dirás: Así ha dicho Jehová el SeñorH559
+- Eze_4:13y dijo Jehová: Así comerán los hijos deH559
+- Eze_4:14dije: ¡Ah, Señor Jehová! he aquí que miH559
+- Eze_4:16dijo...quebrantaré el sustento del panH559
+- Eze_5:5así ha dicho Jehová...Esta es JerusalénH559
+- Eze_5:7dicho Jehová: ¿Por haberos multiplicadoH559
+- Eze_5:8dicho Jehová...he aquí yo estoy contra tiH559
+- Eze_5:11vivo yo, dice Jehová...te quebrantaré yoH5002
+- Eze_6:3y dirás: Montes...así ha dicho Jehová elH559
+- Eze_6:10no en vano dije que les había de hacerH1696
+- Eze_6:11ha dicho Jehová...Palmotea con tu manoH559
+- Eze_6:11golpea con tu pie, y dí: ¡Ay, por todasH559
+- Eze_7:2ha dicho Jehová el Señor a la tierra deH559
+- Eze_7:5dicho Jehová...Un mal, he aquí que vieneH559
+- Eze_8:5me dijo: Hijo de hombre, alza ahora tusH559
+- Eze_8:6me dijo...Hijo de hombre, ¿no ves lo queH559
+- Eze_8:8me dijo: Hijo de hombre, cava ahora en laH559
+- Eze_8:9me dijo...Entra, y ve las...abominacionesH559
+- Eze_8:12me dijo...¿has visto las cosas que losH559
+- Eze_8:12dicen ellos: No nos ve Jehová; Jehová haH559
+- Eze_8:13dijo...Vuélvete aún, verás abominacionesH559
+- Eze_8:15,17me dijo: ¿No ves, hijo de hombre?[[H559]]
+- Eze_9:1clamó en mis oídos con gran voz, diciendoH559
+- Eze_9:4le dijo Jehová: Pasa por en medio de laH559
+- Eze_9:5y a los otros dijo...Pasad por la ciudadH559
+- Eze_9:7les dijo: Contaminad la casa, y llenad losH559
+- Eze_9:8postré sobre...y clamé y dije: ¡Ah, SeñorH559
+- Eze_9:9me dijo: La maldad de la casa de IsraelH559
+- Eze_9:9han dicho: Ha abandonado Jehová la tierraH559
+- Eze_9:11diciendo: He hecho conforme a todo lo queH559
+- Eze_10:2al varón vestido de lino...dijo: Entra enH559
+- Eze_10:6al mandar al varón...diciendo: Toma fuegoH559
+- Eze_11:2me dijo: Hijo de hombre, estos son losH559
+- Eze_11:3dicen: No será tan pronto; edifiquemosH559
+- Eze_11:5y me dijo: Dí: Así ha dicho Jehová: AsíH559
+- Eze_11:7así ha dicho Jehová...Vuestros muertosH5002
+- Eze_11:8espada traeré sobre...dice Jehová el SeñorH559
+- Eze_11:13clamé con gran voz, y dije: ¡Ah, SeñorH559
+- Eze_11:15aquellos a quienes dijeron los moradoresH559
+- Eze_11:16dí: Así ha dicho Jehová...Aunque les heH559
+- Eze_11:17dí...ha dicho Jehová...yo os recogeré deH559
+- Eze_11:21yo traigo su camino sobre...dice JehováH5002
+- Eze_12:9hijo...¿no te ha dicho la casa de IsraelH559
+- Eze_12:10diles: Así ha dicho Jehová el SeñorH559
+- Eze_12:11diles: Yo soy vuestra señal; como yoH559
+- Eze_12:19dí al pueblo de la tierra: Así ha dichoH559
+- Eze_12:22¿qué refrán es este...que dice: Se vanH559
+- Eze_12:23diles...ha dicho...Haré cesar este refránH559
+- Eze_12:23diles...Se han acercado aquellos días, y elH1696
+- Eze_12:27casa de Israel dicen: La visión que ésteH559
+- Eze_12:28diles...dicho Jehová...No se tardará másH559
+- Eze_12:28la palabra que...se cumplirá, dice JehováH5002
+- Eze_13:2dí a los que profetizan de su...corazónH559
+- Eze_13:3así ha dicho Jehová...¡Ay de los profetasH559
+- Eze_13:6dicen: Ha dicho Jehová, y...no los envióH559, [[H5002]]
+- Eze_13:7y no habéis dicho adivinación mentirosaH559
+- Eze_13:7que decís: Dijo Jehová, no habiendo yoH5002
+- Eze_13:8así ha dicho Jehová el Señor: Por cuantoH559
+- Eze_13:8yo estoy contra vosotros, dice Jehová elH5002
+- Eze_13:10engañaron a mi pueblo, diciendo: PazH559
+- Eze_13:11dí a los recubridores con lodo sueltoH559
+- Eze_13:12os dirán: ¿Dónde está la embarraduraH559
+- Eze_13:13así ha dicho...Haré que la rompa vientoH559
+- Eze_13:15cumpliré así mi furor...diré: No existeH559
+- Eze_13:16ven para ella visión de paz...dice JehováH5002
+- Eze_13:18dí: Así ha dicho Jehová el Señor: ¡AyH559
+- Eze_13:20ha dicho Jehová...contra vuestras vendasH559
+- Eze_14:4y diles: Así ha dicho Jehová el SeñorH559
+- Eze_14:6dí a...Así dice...Convertíos, y volveos deH559
+- Eze_14:11y yo les sea por Dios, dice Jehová elH5002
+- Eze_14:14librarían...propias vidas, dice JehováH5002
+- Eze_14:16dice...ni a sus hijos ni a sus...libraríanH5002
+- Eze_14:17si...dijere: Espada, pasa por la tierraH559
+- Eze_14:18dice Jehová...no librarían a sus hijosH5002
+- Eze_14:20dice Jehová...no librarían a hijo ni aH5002
+- Eze_14:21ha dicho Jehová el Señor: ¿Cuánto másH559
+- Eze_14:23que no sin causa hice todo...dice JehováH5002
+- Eze_15:6ha dicho Jehová el Señor: Como la maderaH559
+- Eze_15:8cometieron prevaricación, dice Jehová elH5002
+- Eze_16:3dí: Así ha dicho...Señor sobre JerusalénH559
+- Eze_16:6dije: ¡Vive! Sí, te d, cuando estabas enH559
+- Eze_16:8y entré en pacto contigo, dice Jehová elH5002
+- Eze_16:14mi hermosura que yo puse...dice JehováH5002
+- Eze_16:19pusiste delante de ellas...dice JehováH5002
+- Eze_16:23¡ay, ay de ti! dice Jehová el SeñorH5002
+- Eze_16:30¡cuán inconstante es tu corazón, diceH5002
+- Eze_16:36ha dicho Jehová el Señor: Por cuanto hanH559
+- Eze_16:43traeré tu camino sobre tu...dice JehováH5002
+- Eze_16:44refrán que dice: Cual la madre, tal laH559
+- Eze_16:48vivo yo, dice Jehová el...que Sodoma tuH5002
+- Eze_16:58sufre tú el castigo de tu...dice JehováH5002
+- Eze_16:59más ha dicho...¿Haré yo contigo como túH559
+- Eze_16:63yo perdone todo lo que hiciste, diceH5002
+- Eze_17:3dirás: Así ha dicho...Una gran águila, deH559
+- Eze_17:9diles: Así ha dicho...¿Será prosperada?[[H559]]
+- Eze_17:12dí ahora a la casa rebelde: ¿No habéisH559
+- Eze_17:12diles: He aquí que el rey de BabiloniaH559
+- Eze_17:16dice Jehová...que morirá en...BabiloniaH5002
+- Eze_17:19dicho Jehová...Vivo yo, que el juramentoH559
+- Eze_17:22ha dicho Jehová...Tomaré yo del cogolloH559
+- Eze_17:24sabrán...Yo Jehová lo he dicho, y lo haréH1696
+- Eze_18:2que dice: Los padres comieron las uvasH559
+- Eze_18:3vivo yo, dice Jehová el...que nunca másH5002
+- Eze_18:9éste es justo; éste vivirá, dice JehováH5002
+- Eze_18:19si dijereis: ¿Por qué el hijo no llevaráH559
+- Eze_18:23¿quiero yo la muerte del impío? diceH5002
+- Eze_18:25si dijereis: No es recto el camino delH559
+- Eze_18:29si aún dijere...Israel: No es recto elH559
+- Eze_18:30yo os juzgaré a cada uno...dice JehováH5002
+- Eze_18:32no quiero la muerte del que...dice JehováH5002
+- Eze_19:2dirás: ¡Cómo se echó entre los leones tuH559
+- Eze_20:3dirás: Así ha dicho...¿A consultarme venísH559
+- Eze_20:5diles: Así ha dicho...El día que escogíH559
+- Eze_20:7entonces les dije: Cada uno eche de síH559
+- Eze_20:8,13,21dije que derramaría mi ira sobreH559
+- Eze_20:18antes dije en el desierto a sus hijosH559
+- Eze_20:27diles...ha dicho...en esto me afrentaronH559
+- Eze_20:29les dije: ¿Qué es ese lugar alto adondeH559
+- Eze_20:30dí...Así ha dicho...¿No os contamináisH559
+- Eze_20:31vivo yo, dice Jehová...no os responderéH5002
+- Eze_20:32decís: Seamos como las naciones, comoH559
+- Eze_20:33dice Jehová...con mano fuerte y brazoH5002
+- Eze_20:36así litigaré con vosotros, dice JehováH5002
+- Eze_20:39ha dicho...Andad cada uno tras sus ídolosH559
+- Eze_20:40dice Jehová...me servirá toda la casa deH5002
+- Eze_20:44no según...caminos malos ni...dice JehováH5002
+- Eze_20:47y dirás al bosque...Así ha dicho JehováH559
+- Eze_20:49dije: ¡Ah, Señor Jehová! ellos dicen deH559
+- Eze_21:3dirás a la tierra de...Así ha dicho JehováH559
+- Eze_21:7cuando te dijeren: ¿Por qué gimes tú?[[H559]]
+- Eze_21:7dirás: Por una noticia que cuando llegueH559
+- Eze_21:7aquí que viene, y se hará, dice JehováH5002
+- Eze_21:9dí: Así ha dicho Jehová...Dí: La espadaH559
+- Eze_21:13él no será más, dice Jehová el SeñorH5002
+- Eze_21:24así ha dicho...Por cuanto habéis hechoH559
+- Eze_21:26así ha dicho...Depón la tiara, quita laH559
+- Eze_21:28dí: Así ha dicho Jehová acerca...de AmónH559
+- Eze_21:28dirás...la espada está desenvainada paraH559
+- Eze_22:3dirás, pues: Así ha dicho Jehová el SeñorH559
+- Eze_22:12y usura tomaste...dice Jehová el SeñorH5002
+- Eze_22:19ha dicho...Por cuanto todos vosotros osH559
+- Eze_22:24dí a ella: Tú no eres tierra limpia, niH559
+- Eze_22:28diciendo: Así ha dicho Jehová el SeñorH559
+- Eze_22:31sobre su propia cabeza, dice Jehová elH5002
+- Eze_23:22tanto, Aholibama, así ha dicho JehováH559
+- Eze_23:28ha dicho Jehová...te entrego en mano deH559
+- Eze_23:32así ha dicho Jehová...Beberás el...cálizH559
+- Eze_23:34porque yo he hablado, dice Jehová elH559
+- Eze_23:35ha dicho...Por cuanto te has olvidado deH559
+- Eze_23:36dijo Jehová...¿No juzgarás tú a Ahola yH559
+- Eze_23:43y dije respecto de la envejecida enH559
+- Eze_23:46ha dicho Jehová...haré subir contra ellasH559
+- Eze_24:3diles: Así ha dicho Jehová el Señor: PonH559
+- Eze_24:6,9ha dicho...¡Ay de la ciudad de sangresH559
+- Eze_24:14según tus...te juzgarán, dice Jehová elH5002
+- Eze_24:19y me dijo el pueblo: ¿No nos enseñarásH559
+- Eze_24:21dí a la casa de...Así ha dicho Jehová elH559
+- Eze_25:3dirás a los hijos de Amón: Oíd palabraH559
+- Eze_25:3dice Jehová el...Por cuanto dijiste: ¡EaH559
+- Eze_25:6dicho...Por cuanto batiste tus manos, yH559
+- Eze_25:8así ha dicho Jehová el Señor: Por cuantoH559
+- Eze_25:8dijo Moab y Seir...la casa de Judá es comoH559
+- Eze_25:12ha dicho Jehová...Por lo que hizo EdomH559
+- Eze_25:13dicho...extenderé mi mano sobre EdomH559
+- Eze_25:14y conocerán mi venganza, dice Jehová elH5002
+- Eze_25:15ha dicho Jehová...hicieron los filisteosH559
+- Eze_25:16así ha dicho Jehová...extiendo mi manoH559
+- Eze_26:2por cuanto dijo Tiro contra Jerusalén: EaH559
+- Eze_26:3ha dicho...yo estoy contra ti, oh TiroH559
+- Eze_26:5,14tendedero de redes será...dice JehováH5002
+- Eze_26:7ha dicho Jehová...que del norte traigo yoH559
+- Eze_26:15ha dicho Jehová el Señor a Tiro: ¿No seH559
+- Eze_26:17te dirán: ¿Cómo pereciste tú...ciudadH559
+- Eze_26:19así ha dicho...Yo te convertiré en ciudadH559
+- Eze_26:21y nunca más serás hallada, dice JehováH5001
+- Eze_27:3dirás a Tiro, que está asentada a lasH559
+- Eze_27:3ha dicho Jehová...Tiro, tú has d: Yo soyH559
+- Eze_27:32ti, diciendo: ¿Quién como Tiro, como la
+- Eze_28:2dí al príncipe de Tiro: Así ha dichoH559
+- Eze_28:2y dijiste: Yo soy un dios, en el tronoH559
+- Eze_28:6ha dicho...Por cuanto pusiste tu corazónH559
+- Eze_28:9diciendo: Yo soy Dios? Tú, hombre eresH559
+- Eze_28:10morirás por...porque yo he hablado, diceH5002
+- Eze_28:12endechas...de Tiro, y dile: Así ha dichoH559
+- Eze_28:22dirás: Así ha dicho...yo, estoy contra tiH559
+- Eze_28:25así ha dicho...Cuando recoja a la casaH559
+- Eze_29:3dí...ha dicho Jehová...yo estoy contra tiH559
+- Eze_29:3,9dijo: Mío es el Nilo, pues yo lo hiceH559
+- Eze_29:8ha dicho Jehová...traigo contra ti espadaH559
+- Eze_29:13así ha dicho Jehová...Al fin de 40 añosH559
+- Eze_29:19así ha dicho...yo doy a NabucodonosorH559
+- Eze_29:20porque trabajaron para mí, dice JehováH5002
+- Eze_30:2dí: Así ha dicho Jehová...Lamentad: ¡AyH559
+- Eze_30:6así ha dicho Jehová: También caerán losH559
+- Eze_30:6caerán...a filo de espada, dice Jehová elH5002
+- Eze_30:10ha dicho Jehová...Destruiré las riquezasH559
+- Eze_30:13ha dicho Jehová...Destruiré...imágenesH559
+- Eze_30:22ha dicho Jehová...contra Faraón rey deH559
+- Eze_31:2dí a Faraón rey de Egipto, y a su puebloH559
+- Eze_31:10dijo Jehová...Ya que por ser encumbradoH559
+- Eze_31:15ha dicho Jehová...El día que descendióH559
+- Eze_31:18este es Faraón...dice Jehová el SeñorH5002
+- Eze_32:2y dile: A leoncillo de naciones eresH559
+- Eze_32:3ha dicho Jehová...Yo extenderé sobre tiH559
+- Eze_32:8pondré tinieblas...dice Jehová el SeñorH5002
+- Eze_32:11ha dicho Jehová...La espada del rey deH559
+- Eze_32:14haré correr sus ríos como...dice JehováH5002
+- Eze_32:16endecharán sobre Egipto y...dice JehováH5002
+- Eze_32:31Faraón muerto a espada...dice Jehová elH5002
+- Eze_32:32yacerán entre los...muertos...dice JehováH5002
+- Eze_33:2diles: Cuando trajere yo espada sobre laH559
+- Eze_33:8yo dijere al impío...de cierto morirásH559
+- Eze_33:10hijo...dí a la casa de Israel: VosotrosH559
+- Eze_33:10vosotros habéis hablado así, diciendoH559
+- Eze_33:11diles: Vivo yo, dice Jehová el SeñorH559, [[H5002]]
+- Eze_33:12dí a...hijos de tu pueblo: La justiciaH559
+- Eze_33:13yo dijere al justo: De cierto vivirásH559
+- Eze_33:14yo dijere al impío: De cierto morirásH559
+- Eze_33:17dirán los...de tu pueblo: No es recto elH559
+- Eze_33:20dijisteis: No es recto el camino delH559
+- Eze_33:21diciendo: La ciudad ha sido conquistadaH559
+- Eze_33:24diciendo: Abraham era uno, y poseyó laH559
+- Eze_33:25diles: Así ha dicho Jehová...¿ComeréisH559
+- Eze_33:27dirás...Así ha dicho...Vivo yo, que losH559
+- Eze_33:30diciendo: Venid...oíd qué palabra vieneH559
+- Eze_34:2dí a los pastores: Así ha dicho JehováH559
+- Eze_34:8ha dicho Jehová...por cuanto mi rebañoH5002
+- Eze_34:10ha dicho...He aquí, yo estoy contra losH559
+- Eze_34:11dicho Jehová...iré a buscar mis ovejasH559
+- Eze_34:15y yo les daré aprisco, dice Jehová elH5002
+- Eze_34:17ha dicho...He aquí yo juzgo entre ovejaH559
+- Eze_34:20les dice Jehová...He aquí yo, yo juzgaréH559
+- Eze_34:30son mi pueblo, la...dice Jehová el SeñorH5002
+- Eze_34:31yo vuestro Dios, dice Jehová el SeñorH5002
+- Eze_35:3dile: Así ha dicho Jehová el Señor: HeH559
+- Eze_35:6dice...el Señor...que a sangre te destinaréH5002
+- Eze_35:10cuanto dijiste...dos tierras serán míasH559
+- Eze_35:11dice Jehová...yo haré conforme a tu iraH5002
+- Eze_35:12diciendo: Destruidos son, nos han sidoH559
+- Eze_35:14ha dicho...Para que toda la tierra seH559
+- Eze_36:1y dí: Montes de Israel, oíd palabra deH559
+- Eze_36:2así ha dicho...Por cuanto el enemigo dijoH559
+- Eze_36:3dí: Así ha dicho...Por cuanto os asolaronH559
+- Eze_36:4así ha dicho Jehová...a los montes y a losH559
+- Eze_36:5ha dicho Jehová...He hablado por ciertoH559
+- Eze_36:6dí a los montes y a los collados, y a losH559
+- Eze_36:6ha dicho Jehová...He aquí, en mi celo y enH559
+- Eze_36:7ha dicho Jehová...Yo he alzado mi manoH559
+- Eze_36:13ha dicho...Por cuanto dicen de vosotrosH559
+- Eze_36:14nunca más matarás a los...dice JehováH5002
+- Eze_36:15ni harás más morir a los...dice JehováH5002
+- Eze_36:20diciéndose de ellos: Estos son puebloH559
+- Eze_36:22dí a la casa de Israel: Así ha dichoH559
+- Eze_36:23y sabrán las naciones...dice Jehová elH5002
+- Eze_36:32no lo hago por vosotros, dice Jehová elH5002
+- Eze_36:33ha dicho Jehová...El día que os limpie deH559
+- Eze_36:35dirán: Esta tierra que era asolada haH559
+- Eze_36:37ha dicho Jehová...Aún seré solicitado porH559
+- Eze_37:3me dijo...¿vivirán estos huesos? Y dijeH559
+- Eze_37:4dijo...Profetiza...y diles: Huesos secosH559
+- Eze_37:5ha dicho Jehová...a estos huesos: He aquíH559
+- Eze_37:9dijo: Profetiza al espíritu, profetizaH559
+- Eze_37:11me dijo...ellos dicen: Nuestros huesos seH559
+- Eze_37:12diles: Así ha dicho...yo abro...sepulcrosH559
+- Eze_37:14que yo...hablé, y lo hice, dice JehováH5002
+- Eze_37:18diciendo: ¿No nos enseñarás qué...eso?[[H559]]
+- Eze_37:19diles: Así ha dicho...yo tomo el palo deH1696, [[H5002]]
+- Eze_37:21dirás: Así ha dicho Jehová...tomo a losH559
+- Eze_38:3dí: Así ha dicho...estoy contra ti, oh GogH559, [[H5002]]
+- Eze_38:10ha dicho Jehová...En aquel día subiránH559
+- Eze_38:11y dirás: Subiré contra una tierra...IréH559
+- Eze_38:13dirán: ¿Has venido a arrebatar despojosH559
+- Eze_38:14dí a Gog: Así ha dicho Jehová el SeñorH559
+- Eze_38:17ha dicho...¿No eres tú aquel de quiénH559
+- Eze_38:18cuando venga Gog contra la...dijo JehováH5002
+- Eze_38:21contra él la espada, dice Jehová elH5002
+- Eze_39:1contra Gog, y dí: Así ha dicho Jehová elH559
+- Eze_39:5caerás, porque yo he hablado, dice JehováH5002
+- Eze_39:8he aquí viene, y se cumplirá, dice JehováH5002
+- Eze_39:10y robarán a los que les robaron, diceH5002
+- Eze_39:13para ellos célebre el día...dice JehováH5002
+- Eze_39:17así ha dicho Jehová...Dí a las aves deH559
+- Eze_39:20y os saciaréis...dice Jehová el SeñorH5002
+- Eze_39:25ha dicho...Ahora volveré la cautividad deH559
+- Eze_39:29derramado de mi Espíritu...dice JehováH5002
+- Eze_40:4me habló...diciendo: Hijo de hombre, miraH1696
+- Eze_40:45dijo: Esta cámara que mira hacia el surH559
+- Eze_41:4y me dijo: Este es el lugar santísimoH559
+- Eze_41:22dijo: Esta es la mesa que está delanteH1696
+- Eze_42:13me dijo: Las cámaras del norte y las delH559
+- Eze_43:7dijo: Hijo de hombre, este es el lugarH559
+- Eze_43:18y me dijo: Hijo de hombre, así ha dichoH559
+- Eze_43:19dice Jehová el Señor, para ministrarH5002
+- Eze_43:27me seréis aceptos, dice Jehová el SeñorH5002
+- Eze_44:2dijo Jehová: Esta puerta estará cerradaH559
+- Eze_44:5me dijo...Hijo de hombre, pon atenciónH559
+- Eze_44:6dirás a los rebeldes, a la...Así ha dichoH559
+- Eze_44:9así ha dicho...Ningún hijo de extranjeroH559
+- Eze_44:12dice Jehová...ellos llevarán su iniquidadH5002
+- Eze_44:15delante de mí estarán...dice Jehová elH5002
+- Eze_44:27ofrecerá su expiación, dice Jehová elH5002
+- Eze_45:9ha dicho Jehová el Señor: ¡Basta ya, ohH5002
+- Eze_45:9quitad...imposiciones...de...dice Jehová elH559
+- Eze_45:15para expiación por ellos, dice JehováH5002
+- Eze_45:18ha dicho Jehová...El mes primero, el díaH559
+- Eze_46:1ha dicho...La puerta del atrio interiorH559
+- Eze_46:16ha dicho Jehová...Si el príncipe diereH559
+- Eze_46:20y me dijo: Este es el lugar donde losH559
+- Eze_46:24me dijo: Estas son las cocinas, dondeH559
+- Eze_47:6y me dijo: ¿Has visto, hijo de hombre?[[H559]]
+- Eze_47:8me dijo: Estas aguas salen a la regiónH559
+- Eze_47:13ha dicho Jehová...Estos son los límitesH559
+- Eze_47:23le daréis su heredad, ha dicho JehováH5002
+- Eze_48:29y estas son sus porciones, ha dichoH5002
+- Dan_1:3dijo el rey a Aspenaz, jefe de...eunucosH559
+- Dan_1:10y dijo el jefe de los eunucos a DanielH559
+- Dan_1:11dijo Daniel a Melsar, que estaba puestoH559
+- Dan_1:18al fin de los cuales había dicho el reyH559
+- Dan_2:3y el rey les dijo: He tenido un sueño, yH559
+- Dan_2:4dí el sueño a tus siervos...te mostraremosH1696
+- Dan_2:5dijo a los caldeos: El asunto lo olvidéH560
+- Dan_2:6decidme...el sueño y su interpretaciónH2324
+- Dan_2:7dijeron: Diga el rey el sueño a...siervosH560
+- Dan_2:8el rey respondió y dijo: Yo conozcoH560
+- Dan_2:9respuesta...que decir delante de mí, entreH560
+- Dan_2:9decidme...el sueño, para que yo sepa queH560
+- Dan_2:10los caldeos...y dijeron: No hay hombreH560
+- Dan_2:15dijo a Arioc...¿Cuál es la causa de queH560
+- Dan_2:20Daniel...dijo: Sea bendito el nombre deH560
+- Dan_2:24le dijo así: No mates a los sabios deH560
+- Dan_2:25le dijo así: He hallado un varón de losH560
+- Dan_2:26y dijo a Daniel, al...¿Podrás tú hacermeH560
+- Dan_2:27respondió...diciendo: El misterio que elH560
+- Dan_2:36también la interpretación de él diremosH560
+- Dan_2:47rey...dijo: Ciertamente el Dios vuestroH560
+- Dan_3:9y dijeron al rey...Rey, Para siempre viveH560
+- Dan_3:13dijo con ira y...que trajesen a SadracH560
+- Dan_3:14y les dijo: ¿Es verdad, Sadrac, Mesac YH560
+- Dan_3:16diciendo: No es necesario...respondamosH560
+- Dan_3:24dijo a los de su consejo: ¿No echaron aH560
+- Dan_3:25él dijo: He aquí yo veo cuatro varonesH560
+- Dan_3:26y dijo: Sadrac, Mesac...siervos del DiosH560
+- Dan_3:28Nabucodonosor dijo: Bendito sea el DiosH560
+- Dan_3:29que dijere blasfemia contra el Dios deH560
+- Dan_4:7vinieron...adivinos, y les dije el sueñoH560
+- Dan_4:8conté delante de él el sueño, diciendoH560
+- Dan_4:14decía así: Derribad el árbol, y cortadH560
+- Dan_4:18tú, pues...dirás la interpretación de élH560
+- Dan_4:19el rey...dijo: Beltsasar, no te turben niH560
+- Dan_4:19Beltsasar...dijo: Señor mío, el sueño seaH560
+- Dan_4:23y decía: Cortad el árbol y destruidloH560
+- Dan_4:30dijo: ¿No es ésta la gran Babilonia queH560
+- Dan_4:31a ti se te dice, rey...El reino ha sidoH560
+- Dan_4:35y no hay quien...y le diga: ¿Qué haces?[[H560]]
+- Dan_5:7y dijo el rey a los sabios de BabiloniaH560
+- Dan_5:10y dijo: Rey, vive para siempre; no teH560
+- Dan_5:13dijo el rey a Daniel: ¿Eres tú...DanielH560
+- Dan_5:17Daniel...dijo delante del rey: Tus donesH560
+- Dan_6:5dijeron aquellos hombres: No hallaremosH560
+- Dan_6:6dijeron...¡Rey Darío, para siempre vive![[H560]]
+- Dan_6:12respondió el rey diciendo: Verdad esH560
+- Dan_6:13dijeron delante del rey: Daniel, que esH560
+- Dan_6:15le dijeron: Sepas, oh rey, que es ley deH560
+- Dan_6:16y el rey dijo a Daniel: El Dios tuyo, aH560
+- Dan_6:20dijo: Daniel, siervo del Dios vivienteH560
+- Dan_7:2Daniel dijo: Miraba yo en mi visión deH560
+- Dan_7:5fue dicho así: Levántate, devora muchaH560
+- Dan_7:23dijo...La cuarta bestia será un...reino enH560
+- Dan_8:14dijo: Hasta dos mil trescientas tardes yH559
+- Dan_8:16dijo: Gabriel, enseña a éste la visiónH559
+- Dan_8:17él me dijo: Entiende, hijo de hombreH559
+- Dan_8:19y dijo: He aquí yo te enseñaré lo queH559
+- Dan_9:4e hice confesión diciendo: Ahora, SeñorH559
+- Dan_9:22diciendo: Daniel, ahora he salido paraH559
+- Dan_10:11me dijo: Daniel, varón muy amado, estáH559
+- Dan_10:12dijo: Daniel, no temas; porque desde elH559
+- Dan_10:15mientras me decía estas palabras, estabaH1696
+- Dan_10:16dije...Señor mío, con la visión me hanH559
+- Dan_10:19me dijo: Muy amado, no temas; la pazH559
+- Dan_10:19y dije: Hable mi señor, porque me hasH559
+- Dan_10:20dijo: ¿Sabes por qué he venido a ti?[[H559]]
+- Dan_12:6dijo uno al varón vestido de lino, queH559
+- Dan_12:8dije: Señor, mío, ¿cuál será el fin deH559
+- Os 1:2dijo Jehová a Oseas...tómate una mujerH559
+- Os 1:4le dijo Jehová: Ponle por nombre JezreelH559
+- Os 1:6le dijo Dios: Ponle por nombre Lo-ruhamaH559
+- Os 1:9y ¡dijo Dios: Ponle por nombre Lo-ammiH559
+- Os 1:10en donde les fue dicho: Vosotros no soisH559
+- Os 1:10será dicho: Sois hijos del Dios vivienteH559
+- Os 2:1decid a vuestros hermanos: Ammi, y aH559
+- Os 2:5dijo: Iré tras mis amantes, que me dan miH559
+- Os 2:7dirá: iré y me volveré a mi primer maridoH559
+- Os 2:12vides...de las cuales dijo: Mi salarlo sonH559
+- Os 2:13se iba...y se olvidaba de mí, dice JehováH5002
+- Os 2:16aquel tiempo, dice Jehová, me llamarásH5002
+- Os 2:21dice Jehová, yo responderé a los cielosH5002
+- Os 2:23diré a Lo-ammi...pueblo mío, y él diráH559
+- Os 3:1dijo otra vez Jehová: Vé, ama a una mujerH559
+- Os 3:3le dije: Tú serás mía durante muchos díasH559
+- Os 10:3dirán ahora: No tenemos rey, porque noH559
+- Os 10:8dirán a los montes: Cubridnos; y a losH559
+- Os 11:11haré habitar en sus casas, dice JehováH5002
+- Os 12:8Efraín dijo...he enriquecido, he halladoH559
+- Os 13:2dicen a los hombres que sacrifican, queH559
+- Os 13:10cuales dijiste: Dame rey y príncipes?[[H559]]
+- Os 14:2decidle: Quita toda iniquidad, y aceptaH559
+- Os 14:3nunca más diremos a la obra de...manosH559
+- Os 14:8Efraín dirá: ¿Qué más tendré ya con los
+- Joe_2:12dice Jehová, convertíos a mí con todoH5002
+- Joe_2:17digan: Perdona, oh Jehová, a tu puebloH559
+- Joe_2:17¿por qué han de decir entre los pueblosH559
+- Joe_2:19y dirá a su pueblo: He aquí yo os envíoH559
+- Joe_2:32habrá salvación, como ha dicho JehováH559
+- Joe_3:10forjad espadas...diga el débil: Fuerte soyH559
+- Amó_1:2dijo: Jehová rugirá desde Sion, y daráH559
+- Amó_1:3,6,9,11,13ha dicho...Por tres pecados deH559
+- Amó_1:5y quebraré los cerrojos de...dice JehováH559
+- Amó_1:8y volveré mi mano contra Ecrón...ha dichoH559
+- Amó_1:15y su rey irá en cautiverio...dice JehováH559
+- Amó_2:1,4,6ha dicho Jehová: Por tres pecados deH559
+- Amó_2:3quitaré el juez de en medio...dice JehováH559
+- Amó_2:11¿no es esto así, dice Jehová, hijos deH5002
+- Amó_2:12los...mandasteis diciendo: No profeticéisH559
+- Amó_2:16el esforzado...huirá desnudo...dice JehováH5002
+- Amó_3:1hablado Jehová contra vosotros...Dice asíH559
+- Amó_3:9decid: Reuníos sobre...montes de SamariaH559
+- Amó_3:10no saben hacer lo recto, dice JehováH5002
+- Amó_3:11Jehová...ha dicho así: Un enemigo vendráH559
+- Amó_3:12así ha dicho...De la manera que el pastorH559
+- Amó_3:13oíd y testificad...ha dicho Jehová DiosH5001
+- Amó_3:15casas serán arruinadas, dice JehováH5001
+- Amó_4:1que decís a vuestros señores: Traed, YH559
+- Amó_4:3seréis echadas del palacio, dice JehováH5001
+- Amó_4:5pues que así lo queréis...dice Jehová elH5001
+- Amó_4:6,8,9,10,11no os volvisteis a mí, diceH5001
+- Amó_5:3ha dicho...La ciudad que salga con milH559
+- Amó_5:4así dice Jehová a...Buscadme, y viviréisH559
+- Amó_5:14Dios...estará con vosotros, como decísH559
+- Amó_5:16ha dicho Jehová...En todas las plazasH559
+- Amó_5:16y en todas las calles dirán: ¡Ay! ¡AY![[H559]]
+- Amó_5:17pasaré en medio de ti, dice JehováH559
+- Amó_5:27os haré...transportar...ha dicho JehováH559
+- Amó_6:8Jehová...ha dicho: Abomino la grandezaH5002
+- Amó_6:10dirá al que estará en los rincones deH559
+- Amó_6:10dirá: No. Y d aquel: Calla, porque noH559
+- Amó_6:13que decís: ¿No hemos adquirido poderH559
+- Amó_6:14dice...levantaré yo sobre vosotros aH5002
+- Amó_7:2yo dije: Señor Jehová, perdona ahoraH559
+- Amó_7:3arrepintió Jehová...No será, dijo JehováH559
+- Amó_7:5dije: Señor Jehová, cesa ahora: ¿quiénH559
+- Amó_7:6no será...tampoco, dijo Jehová el SeñorH559
+- Amó_7:8me dijo: ¿Qué ves, Amós? Y dije: UnaH559
+- Amó_7:8el Señor dijo: He aquí, yo pongo plomadaH559
+- Amó_7:10Amasías...envió a decir a Jeroboam reyH559
+- Amó_7:11así ha dicho Amós: Jeroboam morirá aH559
+- Amó_7:12y Amasías dijo a Amós: Vidente, veteH559
+- Amó_7:14Amós...dijo a Amasías: No soy profeta, niH559
+- Amó_7:15dijo: Vé y profetiza a mi pueblo IsraelH559
+- Amó_7:16tú dices: No profetices contra Israel, niH559
+- Amó_7:17ha dicho Jehová: Tu mujer será ramera enH559
+- Amó_8:2y dijo: ¿Qué ves, Amós? Y respondí...frutaH559
+- Amó_8:2me dijo Jehová: Ha venido el fin sobre miH559
+- Amó_8:3cantores del templo gemirán...dice JehováH5002
+- Amó_8:5diciendo: ¿Cuándo pasará el mes...el trigoH559
+- Amó_8:9dice...haré que se ponga el sol a mediodíaH5002
+- Amó_8:11vienen días, dice Jehová...en los cualesH5002
+- Amó_8:14y dicen: Por tu Dios, oh Dan, y: Por elH559
+- Amó_9:1vi al Señor que...dijo: Derriba el capitelH559
+- Amó_9:7¿no me sois...como hijos de etíopes, diceH5002
+- Amó_9:8no destruiré del todo la casa...dice JehováH5002
+- Amó_9:10dicen: No se...ni nos alcanzará el malH559
+- Amó_9:12posean el resto de Edom...dice Jehová queH5002
+- Amó_9:13vienen días, dice Jehová, en que el queH5002
+- Amó_9:15y nunca más serán arrancados...ha dichoH559
+- Abd_1:1Jehová...ha dicho así en cuanto a EdomH559
+- Abd_1:3dices en tu corazón: ¿Quién me derribará aH559
+- Abd_1:4si te remontares...te derribaré, dice JehováH5002
+- Abd_1:8haré que perezcan en aquel día, dice JehováH5002
+- Abd_1:18ni aun resto quedará...Jehová lo ha dichoH1696
+- Jon_1:1palabra de Jehová a Jonás...diciendoH559
+- Jon_1:6patrón...le dijo: ¿Qué tienes...dormilón?[[H559]]
+- Jon_1:7dijeron cada uno a su compañero: Venid yH559
+- Jon_1:8dijeron ellos: Decláranos ahora por quéH559
+- Jon_1:10y le dijeron: ¿Por qué has hecho esto?[[H559]]
+- Jon_1:11le dijeron: ¿Qué haremos...se nos aquiete?[[H559]]
+- Jon_1:14clamaron...y dijeron: Te rogamos ahoraH559
+- Jon_2:2dijo: Invoqué en mi angustia a Jehová, yH559
+- Jon_2:4entonces dije: Desechado soy de delante deH559
+- Jon_3:1palabra de Jehová...vez a Jonás, diciendoH559
+- Jon_3:2proclama en ella el mensaje que yo te diréH1696
+- Jon_3:4diciendo: De aquí a 40 días Nínive seráH559
+- Jon_3:7proclamar...diciendo: Hombres y animalesH559
+- Jon_3:10del mal que había dicho que les haríaH1696
+- Jon_4:2dijo: Ahora...¿no es esto lo que yo decíaH1696
+- Jon_4:4dijo: ¿Haces tú bien en enojarte tanto?[[H559]]
+- Jon_4:8diciendo: Mejor sería para mí la muerteH559
+- Jon_4:9dijo Dios a Jonás: ¿Tanto te enojas porH559
+- Jon_4:10y dijo Jehová: Tuviste tú lástima de laH559
+- Mi 1:10no lo digáis en Gat, ni lloréis muchoH5046
+- Mi 2:3ha dicho Jehová: He aquí, yo pienso contraH559
+- Mi 2:4diciendo: Del todo fuimos destruidos; élH559
+- Mi 2:6no profeticéis, dicen a...que profetizan
+- Mi 2:7te dices casa de Jacob, ¿se ha acortadoH559
+- Mi 2:11mintiere diciendo: Yo te profetizaré de
+- Mi 3:1dije: Oíd ahora, príncipes de Jacob, yH559
+- Mi 3:5así ha dicho Jehová acerca de los profetasH559
+- Mi 3:11se apoyan en Jehová, diciendo: ¿No estáH559
+- Mi 4:2y dirán: Venid, y subamos al monte deH559
+- Mi 4:6en aquel día, dice Jehová, juntaré la queH5002
+- Mi 4:11y dicen: Sea profanada, y vean nuestrosH559
+- Mi 5:10dice Jehová, que haré matar tus caballosH5002
+- Mi 6:1oíd ahora lo que dice Jehová: LevántateH559
+- Mi 7:10la que me decía: ¿Dónde está Jehová tuH559
+- Nah_1:12ha dicho Jehová: Aunque reposo tenganH559
+- Nah_2:8dicen: ¡Deteneos, deteneos! ninguno mira
+- Nah_2:13; 3:5heme aquí contra ti, dice JehováH5002
+- Nah_3:7y dirán: Nínive es asolada; ¿quién seH559
+- Hab_2:1velaré para ver lo que se me dirá yH1696
+- Hab_2:2Jehová me...me dijo: Escribe la visión, yH559
+- Hab_2:6dirán: ¡Ay del que multiplicó lo que no eraH559
+- Hab_2:19¡Ay del que dice al palo: DespiértateH559
+- Sof_1:2destruiré por completo...dice JehováH5002
+- Sof_1:3raeré a los hombres de sobre...dice JehováH5002
+- Sof_1:10en aquel día, dice Jehová, voz de clamorH5002
+- Sof_1:12dicen en su corazón: Jehová ni hará bienH559
+- Sof_2:9dice Jehová de...Moab será como SodomaH5002
+- Sof_2:15que decía en su corazón: Yo, y no másH559
+- Sof_3:7dije: Ciertamente me temerá; recibiráH559
+- Sof_3:8esperadme, dice Jehová, hasta el día queH5002
+- Sof_3:13ni dirá mentira, ni en boca de ellos seH1696
+- Sof_3:16en aquel tiempo se dirá a Jerusalén: NoH559
+- Sof_3:20os pondré para renombre y...dice JehováH559
+- Hag 1:1vino palabra...a Zorobabel...diciendoH559
+- Hag 1:2diciendo: Este pueblo dice: No ha llegadoH559
+- Hag 1:3vino palabra de Jehová...Hageo, diciendoH559
+- Hag 1:5,7así ha dicho Jehová...Meditad bien sobreH559
+- Hag 1:8mi voluntad, y seré glorificado, ha dichoH559
+- Hag 1:9¿por qué? dice Jehová de los ejércitosH5002
+- Hag 1:13Hageo...habló...al pueblo, diciendo: YoH5002
+- Hag 1:13yo estoy con vosotros, dice JehováH559
+- Hag 2:1palabra...medio del profeta Hageo, diciendoH559
+- Hag 2:2habla...y al resto del pueblo, diciendoH559
+- Hag 2:4ahora, Zorobabel, esfuérzate, dice JehováH5002
+- Hag 2:4y cobrad ánimo...dice Jehová, y trabajadH5002
+- Hag 2:4yo estoy con vosotros, dice Jehová de losH5002
+- Hag 2:6así dice Jehová...De aquí a poco yo haréH559
+- Hag 2:7y llenaré de gloria esta casa, ha dichoH559
+- Hag 2:8mía es la plata, y mío es...dice JehováH5002
+- Hag 2:9la gloria postrera...será mayor...ha dichoH5002
+- Hag 2:9daré paz en este lugar, dice Jehová de losH559
+- Hag 2:10palabra de Jehová por...Hageo, diciendoH559
+- Hag 2:11así ha dicho Jehová...Pregunta ahora a losH559
+- Hag 2:11pregunta...acerca de la ley, diciendoH559
+- Hag 2:12respondieron...sacerdotes y dijeron: NoH559
+- Hag 2:13y dijo Hageo: Si un inmundo a causa deH559
+- Hag 2:13y respondieron...y dijeron: Inmunda seráH559
+- Hag 2:14y respondió Hageo y dijo: Así es esteH559
+- Hag 2:17no os convertisteis a mí, dice JehováH5002
+- Hag 2:20vez palabra de Jehová a Hageo...diciendoH559
+- Hag 2:21diciendo: Yo haré temblar los cielos yH559
+- Hag 2:23en aquel día, dice Jehová de...te tomaréH5002
+- Hag 2:23te escogí, dice Jehová de los ejércitosH5002
+- Zac_1:1palabra de Jehová al profeta...diciendoH559
+- Zac_1:3diles, pues: Así ha dicho Jehová de losH559
+- Zac_1:3volveos a mí, dice Jehová de...ejércitosH559
+- Zac_1:3me volveré a vosotros, ha dicho JehováH5002
+- Zac_1:4diciendo: Así ha dicho Jehová de losH559
+- Zac_1:4volveos...ni me escucharon, dice JehováH559
+- Zac_1:6y dijeron: Como Jehová...pensó tratarnosH559
+- Zac_1:7palabra de Jehová al profeta...diciendoH559
+- Zac_1:9dije: ¿Qué son éstos, señor mío? Y me dijoH559
+- Zac_1:10y aquel varón...dijo: Estos son los queH559
+- Zac_1:11dijeron: Hemos recorrido la tierra, y heH559
+- Zac_1:12respondió el ángel...y dijo: Oh JehováH559
+- Zac_1:14me dijo el ángel...Clama diciendo: AsíH559
+- Zac_1:14así ha dicho Jehová...Celé con gran celoH5002
+- Zac_1:16así ha dicho Jehová: Yo me he vuelto aH559
+- Zac_1:16en ella será edificada mi casa, diceH5002
+- Zac_1:17clama aún, diciendo: Así dice Jehová deH559
+- Zac_1:19dije al ángel que...¿Qué son éstas? Y meH559
+- Zac_1:21y yo, dije: ¿Qué vienen éstos a hacer?[[H559]]
+- Zac_1:21diciendo: Aquéllos son los cuernos queH559
+- Zac_2:2le dije: ¿A dónde vas? Y él me respondióH559
+- Zac_2:4dijo: Corre, habla a este joven, diciendoH559
+- Zac_2:5yo seré para ella, dice Jehová, muro deH5002
+- Zac_2:6eh, huid de...dice Jehová, Pues Por losH5002
+- Zac_2:6cuatro vientos...os esparcí, dice JehováH5002
+- Zac_2:8así ha dicho Jehová...Tras la gloria meH559
+- Zac_2:10moraré en medio de ti, ha dicho JehováH5002
+- Zac_3:2dijo...a Satanás: Jehová te reprenda, ohH5002
+- Zac_3:4diciendo: Quitadle esas vestiduras vilesH5002
+- Zac_3:4a él le dijo: Mira que he quitado de tiH5002
+- Zac_3:5después dijo: Pongan mitra limpia sobreH5002
+- Zac_3:6y el ángel de...amonestó a Josué, diciendoH5002
+- Zac_3:7así dice Jehová...Si anduvieres por misH5002
+- Zac_3:9yo grabaré su escultura, dice Jehová deH5002
+- Zac_3:10en aquel día, dice Jehová...cada uno deH5002
+- Zac_4:2me dijo: ¿Qué ves? Y respondí: He miradoH559
+- Zac_4:4hablé, diciendo a aquel ángel...¿Qué esH559
+- Zac_4:5me dijo: ¿No sabes qué es esto? Y dijeH559
+- Zac_4:6diciendo: Esta es palabra de Jehová aH559
+- Zac_4:6que dice: No con ejército, ni con fuerzaH559
+- Zac_4:6sino con mi Espíritu, ha dicho JehováH559
+- Zac_4:8; 6:9; 7:4; 8:1,18vino palabra de Jehová a mí, diciendoH559
+- Zac_4:11dije: ¿Qué significan estos dos olivosH559
+- Zac_4:12le dije: ¿Qué significan las dos ramasH559
+- Zac_4:13no sabes qué es...Y dije: Señor mío, noH559
+- Zac_4:14él dijo: Estos son los dos ungidos queH559
+- Zac_5:2dijo: ¿Qué ves? Y respondí: Veo un rolloH559
+- Zac_5:3dijo: Esta es la maldición que sale sobreH559
+- Zac_5:4yo la he hecho salir, dice Jehová de losH5002
+- Zac_5:5y me dijo: Alza ahora tus ojos, y miraH559
+- Zac_5:6dije: ¿Qué es? Y él dijo: Este es un efaH559
+- Zac_5:6además dijo: Esta es la iniquidad de ellosH559
+- Zac_5:8dijo: Esta es la Maldad; y la echó dentroH559
+- Zac_5:10dije al ángel...¿A dónde llevan el efa?[[H559]]
+- Zac_6:4y dije al ángel...Señor mío, ¿qué es esto?[[H559]]
+- Zac_6:5el ángel...me dijo: Estos son los cuatroH559
+- Zac_6:7salieron...y dijo: Id, recorred la tierraH559
+- Zac_6:8diciendo: Mira, los que salieron hacia laH559
+- Zac_6:12diciendo: Así ha hablado Jehová de...dH559
+- Zac_7:3diciendo: ¿Lloraremos en el mes quinto?[[H559]]
+- Zac_7:5habla a todo...diciendo: Cuando ayunasteisH559
+- Zac_7:8palabra de Jehová a Zacarías, diciendoH559
+- Zac_7:9habló Jehová...diciendo: Juzgad conforme aH559
+- Zac_7:13clamaron, y yo no escuché, dice JehováH559
+- Zac_8:2dicho Jehová...Celé a Sion con gran celoH559
+- Zac_8:3dice Jehová: Yo he restaurado a Sion, yH559
+- Zac_8:4así ha dicho Jehová de...Aún han de morarH559
+- Zac_8:6así dice Jehová de los...Si esto pareceráH559
+- Zac_8:6¿también será maravilloso...dice Jehová deH5002
+- Zac_8:7así ha dicho Jehová...He aquí, yo salvo aH559
+- Zac_8:9dicho Jehová...Esfuércense vuestras manosH559
+- Zac_8:11no lo haré con el remanente...dice JehováH5002
+- Zac_8:14ha dicho Jehová...Como pensé haceros malH559
+- Zac_8:17son cosas que aborrezco, dice JehováH5002
+- Zac_8:19así ha dicho Jehová...El ayuno del cuartoH559
+- Zac_8:20ha dicho Jehová de...Aún vendrán pueblosH559
+- Zac_8:21y dirán: Vamos a implorar el favor deH559
+- Zac_8:23así ha dicho Jehová de...En aquellos díasH559
+- Zac_8:23un judío, diciendo: Iremos con vosotrosH559
+- Zac_10:12y caminarán en su nombre, dice JehováH5002
+- Zac_11:4ha dicho Jehová...Apacienta las ovejas deH559
+- Zac_11:5y el que las vende, dice: Bendito seaH559
+- Zac_11:6no tendré ya más piedad de...dice JehováH5002
+- Zac_11:9dije: No os apacentaré; la que muriereH559
+- Zac_11:12les dije: Si os parece bien, dadme miH559
+- Zac_11:13dijo Jehová: Échalo al tesoro; ¡hermosoH559
+- Zac_11:15me dijo Jehová: Toma aún los aperos deH559
+- Zac_12:1Jehová, que forma el espíritu...ha dichoH5002
+- Zac_12:4aquel día, dice Jehová, heriré con pánicoH5002
+- Zac_12:5los capitanes de Judá dirán en su corazónH559
+- Zac_13:2dice Jehová de...quitaré de la tierra losH5002
+- Zac_13:3le dirán su padre y su madre que loH559
+- Zac_13:5dirá: No soy profeta; labrador soy de laH559
+- Zac_13:7levántate, oh espada...dice Jehová de losH5002
+- Zac_13:8dice Jehová, que las dos terceras partesH5002
+- Zac_13:9diré: Pueblo mío, y él dirá: Jehová esH559
+- Mal 1:2os he amado, dice Jehová; y dijisteisH5002, [[H559]]
+- Mal 1:2¿no era Esaú hermano de...dice JehováH559
+- Mal 1:4Edom dijere: Nos hemos empobrecido, peroH559
+- Mal 1:4ha dicho Jehová. Ellos edificarán, y yoH559
+- Mal 1:5diréis: Sea Jehová engrandecido más alláH559
+- Mal 1:6¿dónde está mi temor? dice Jehová de losH559
+- Mal 1:6y decís: ¿En qué hemos menospreciado tuH559
+- Mal 1:7dijisteis: ¿En qué te hemos deshonrado?[[H559]]
+- Mal 1:8¿acaso se...o le serás acepto? dice JehováH559
+- Mal 1:9cómo podéis agradarle, si...dice JehováH559
+- Mal 1:10no tengo complacencia en...dice JehováH559
+- Mal 1:11es grande mi nombre...dice Jehová de losH559
+- Mal 1:12lo habéis profanado...decís: Inmunda esH559
+- Mal 1:12decís que su alimento es despreciableH559
+- Mal 1:13habéis además dicho: ¡Oh, qué fastidioH559
+- Mal 1:13y me despreciáis, dice Jehová de losH559
+- Mal 1:13¿aceptaré yo eso de...mano? dice JehováH559
+- Mal 1:14porque yo soy Gran Rey, dice Jehová deH559
+- Mal 2:2ha dicho Jehová...enviaré maldición sobreH559
+- Mal 2:4que fuese mi pacto con...ha dicho JehováH559
+- Mal 2:8habéis corrompido el pacto...dice JehováH559
+- Mal 2:14mas diréis: ¿Por qué? Porque Jehová haH559
+- Mal 2:16ha dicho que él aborrece el repudio, yH559
+- Mal 2:16cubre con iniquidad su...dijo Jehová deH559
+- Mal 2:17decís: ¿En qué le hemos cansado? En queH559
+- Mal 2:17en que decís: Cualquiera que hace malH559
+- Mal 3:1viene, ha dicho Jehová de los ejércitosH559
+- Mal 3:5no teniendo temor de mí, dice Jehová deH559
+- Mal 3:7volveos a mí, y yo me...ha dicho JehováH559
+- Mal 3:7dijisteis: ¿En qué hemos de volvernos?[[H559]]
+- Mal 3:8dijisteis: ¿En qué te hemos robado? EnH559
+- Mal 3:10y probadme ahora en esto, dice Jehová deH559
+- Mal 3:11no os destruirá el fruto de...dice JehováH559
+- Mal 3:12las naciones os dirán bienaventuradosH833
+- Mal 3:12seréis tierra deseable, dice Jehová deH559
+- Mal 3:13palabras...han sido violentas, dice JehováH559
+- Mal 3:13dijisteis: ¿Qué hemos hablado contra ti?[[H559]]
+- Mal 3:14habéis dicho: Por demás es servir a DiosH559
+- Mal 3:15decimos, pues, ahora: Bienaventurados sonH833
+- Mal 3:17mí especial tesoro, ha dicho Jehová deH559
+- Mal 4:1día que vendrá los abrasará, ha dichoH559
+- Mal 4:3serán ceniza bajo las...ha dicho JehováH559
+- Mat_1:20ángel del Señor...le dijo: José, hijoG3004
+- Mat_1:22lo dicho...medio del profeta, cuando dijoG3004
+- Mat_2:2diciendo: ¿Dónde está el rey de los judíosG3004
+- Mat_2:5le dijeron: En Belén de Judea; porque asíG2036
+- Mat_2:8dijo: Id allá y averiguad...acerca del niñoG2036
+- Mat_2:13un ángel...dijo: Levántate, y toma al niñoG3004
+- Mat_2:13y permanece allá hasta que yo te digaG2036
+- Mat_2:15que se cumpliese lo que dijo el SeñorG4483
+- Mat_2:15cuando dijo: De Egipto llamé a mi HijoG3004
+- Mat_2:17fue dicho por el profeta Jeremías...dijoG3004
+- Mat_2:20diciendo: Levántate, toma al niño y a suG3004
+- Mat_2:23para que se cumpliese lo que fue dichoG4483
+- Mat_3:2diciendo: Arrepentíos, porque el reino deG3004
+- Mat_3:3dijo: Voz del que clama en el desiertoG3004
+- Mat_3:7decía: ¡Generación de víboras! ¿Quién osG2036
+- Mat_3:9y no penséis decir...A Abraham tenemosG3004
+- Mat_3:9os digo que Dios puede levantar hijos aG3004
+- Mat_3:14se le oponía, diciendo: Yo necesito serG3004
+- Mat_3:17voz...que decía: Este es mi Hijo amadoG3004
+- Mat_4:3vino a él el tentador, y le dijo: Si eresG2036
+- Mat_4:3dí que estas piedras se conviertan en panG2036
+- Mat_4:4dijo: Escrito está: No sólo de pan viviráG2036
+- Mat_4:6y le dijo: Si eres Hijo de Dios, échateG3004
+- Mat_4:7Jesús le dijo: Escrito está también: NoG5346
+- Mat_4:9le dijo: Todo esto te daré, si postradoG3004
+- Mat_4:10le dijo: Vete, Satanás, porque escritoG3004
+- Mat_4:14se cumpliese lo dicho por el...cuando dijoG3004
+- Mat_4:17comenzó Jesús a...y a decir: ArrepentíosG3004
+- Mat_4:19les dijo: Venid en pos de mí, y os haréG3004
+- Mat_5:2abriendo su boca les enseñaba, diciendoG3004
+- Mat_5:11digan toda clase de mal contra vosotrosG2036
+- Mat_5:18os digo que hasta que pasen el cielo yG3004
+- Mat_5:20os digo que si vuestra justicia no fuereG3004
+- Mat_5:21que fue dicho a los antiguos: No matarásG2046
+- Mat_5:22yo os digo que cualquiera que se enojeG3004
+- Mat_5:22diga: Necio, a su hermano...le d: FatuoG2036
+- Mat_5:26te digo que no saldrás de allí, hasta queG3004
+- Mat_5:27que fue dicho: No cometerás adulterioG2046
+- Mat_5:28yo os digo que cualquiera que mira a unaG3004
+- Mat_5:31fue dicho: Cualquiera que repudie a suG2046
+- Mat_5:32yo os digo que el que repudia a su mujerG3004
+- Mat_5:33fue dicho a los antiguos: No perjurarásG2046
+- Mat_5:34yo os digo: No juréis en ninguna maneraG3004
+- Mat_5:38oísteis que fue dicho: Ojo por ojo, yG2046
+- Mat_5:39yo os digo: No resistáis al que es maloG3004
+- Mat_5:43que fue dicho: Amarás a tu prójimo, yG2046
+- Mat_5:44pero yo os digo: Amad a vuestros enemigosG3004
+- Mat_6:2,5,16os digo que ya tienen su recompensaG3004
+- Mat_6:25os digo: No os afanéis por vuestra vidaG3004
+- Mat_6:29os digo, que ni aún Salomón con toda suG3004
+- Mat_6:31no os afanéis...diciendo: ¿Qué comeremosG3004
+- Mat_7:4¿o cómo dirás a tu hermano: Déjame sacarG2046
+- Mat_7:21no todo el que me dice: Señor, SeñorG3004
+- Mat_7:22me dirán en aquel día: Señor, Señor, ¿noG2046
+- Mat_8:2se postró...diciendo: Señor, si quieresG3004
+- Mat_8:3y le tocó, diciendo: Quiero; sé limpioG3004
+- Mat_8:4te dijo: Mira, no lo digas a nadie, sinoG3004
+- Mat_8:6diciendo: Señor, mi criado está postradoG3004
+- Mat_8:7y Jesús le dijo: Yo iré y le sanaréG3004
+- Mat_8:8respondió...y dijo: Señor, no soy digno deG5346
+- Mat_8:8solamente dí la palabra, y mi...sanaráG2036
+- Mat_8:9y digo a éste: Vé, y va; y al otro: VenG3004
+- Mat_8:10dijo...De cierto os digo, que ni aun enG2036
+- Mat_8:11os digo que vendrán muchos del orienteG3004
+- Mat_8:13entonces Jesús dijo al centurión: Vé, yG2036
+- Mat_8:17se cumpliese lo dicho por el...cuando dijoG3004
+- Mat_8:19vino un escriba y le dijo: Maestro, teG2036
+- Mat_8:20Jesús le dijo: Las zorras tienen guaridasG3004
+- Mat_8:21otro de sus...le dijo: Señor, permítemeG2036
+- Mat_8:22Jesús le dijo: Sígueme; deja que losG2036
+- Mat_8:25diciendo: ¡Señor, sálvanos...perecemos![[G3004]]
+- Mat_8:26les dijo: ¿Por qué teméis, hombres deG3004
+- Mat_8:27diciendo: ¿Qué hombre es éste, que aunG3004
+- Mat_8:29diciendo: ¿Qué tienes con nosotrosG3004
+- Mat_8:31y los demonios le rogaron diciendo: SiG3004
+- Mat_8:32les dijo: Id. Y ellos salieron, y seG2036
+- Mat_9:2dijo al paralítico: Ten ánimo, hijo; tusG2036
+- Mat_9:3de los escribas decían...Este blasfemaG2036
+- Mat_9:4dijo: ¿Por qué pensáis mal en vuestrosG2036
+- Mat_9:5¿qué es más fácil decir: Los pecados teG2036
+- Mat_9:5perdonados, o decir: Levántate y anda?[[G2036]]
+- Mat_9:6(dice...al paralítico): Levántate, tomaG3004
+- Mat_9:9dijo: Sígueme. Y se levantó y le siguióG3004
+- Mat_9:11dijeron a los discípulos: ¿Por qué comeG2036
+- Mat_9:12al oír esto Jesús, les dijo: Los sanosG2036
+- Mat_9:14diciendo: ¿Por qué nosotros...ayunamosG3004
+- Mat_9:15Jesús les dijo: ¿Acaso pueden los queG2036
+- Mat_9:18decía estas cosas, vino un...principalG2980
+- Mat_9:18se postró...diciendo: Mi hija acaba deG3004
+- Mat_9:21decía...Si tocare...su manto, seré salvaG3004
+- Mat_9:22Jesús...dijo: Ten ánimo, hijo; tu fe teG2036
+- Mat_9:24les dijo: Apartaos, porque la niña noG3004
+- Mat_9:27diciendo: ¡Ten misericordia de nosotrosG3004
+- Mat_9:28les dijo: ¿Creéis que puedo hacer esto?[[G3004]]
+- Mat_9:28¿creéis que...Ellos dijeron: Sí, SeñorG3004
+- Mat_9:29les tocó los ojos, diciendo: Conforme aG3004
+- Mat_9:30les encargó...diciendo: Mirad que nadieG3004
+- Mat_9:33decía: Nunca se ha visto cosa semejanteG3004
+- Mat_9:34los fariseos decían: Por el príncipe deG3004
+- Mat_9:37dijo a sus discípulos: A la verdad laG3004
+- Mat_10:5diciendo: Por camino de gentiles noG3004
+- Mat_10:7yendo, predicad, diciendo: El reino deG3004
+- Mat_10:15os digo que en el día del juicio, seráG3004
+- Mat_10:23os digo, que no acabaréis de recorrerG3004
+- Mat_10:27os digo en tinieblas, decidlo en la luzG3004
+- Mat_10:42os digo que no perderá su recompensaG3004
+- Mat_11:4les dijo: Id, y haced saber a Juan lasG2036
+- Mat_11:7se iban, comenzó Jesús a decir de JuanG3004
+- Mat_11:9¿a un profeta? Sí, os digo, y más que unG3004
+- Mat_11:11os digo: Entre los que nacen de mujerG3004
+- Mat_11:17diciendo: Os tocamos flauta, y noG3004
+- Mat_11:18vino Juan, que...y dicen: Demonio tieneG3004
+- Mat_11:19y dicen: He aquí un hombre comilón, yG3004
+- Mat_11:20a reconvenir a las ciudades...diciendo
+- Mat_11:22,24os digo que en el día del juicioG3004
+- Mat_11:25dijo: Te alabo, Padre, Señor del cieloG2036
+- Mat_12:2dijeron: He aquí tus discípulos hacen loG2036
+- Mat_12:3les dijo: ¿No habéis leído lo que hizoG2036
+- Mat_12:6os digo que uno mayor que el templo estáG3004
+- Mat_12:11les dijo: ¿Qué hombre habrá de vosotrosG2036
+- Mat_12:13dijo a aquel hombre: Extiende tu manoG3004
+- Mat_12:17lo dicho por el...Isaías, cuando dijoG3004
+- Mat_12:23toda la gente estaba atónita, y decíaG3004
+- Mat_12:24los fariseos...decían: Este no echa fueraG2036
+- Mat_12:25les dijo: Todo reino dividido contra síG2036
+- Mat_12:31os digo: Todo pecado y blasfemia seráG3004
+- Mat_12:32a cualquiera que dijere alguna palabraG2036
+- Mat_12:36yo os digo que de toda palabra ociosaG3004
+- Mat_12:38diciendo: Maestro, deseamos ver de tiG3004
+- Mat_12:39les dijo: La generación mala y adúlteraG2036
+- Mat_12:44dice: Volveré a mi casa de donde salíG3004
+- Mat_12:47y le dijo uno: He aquí tu madre y tusG2036
+- Mat_12:48al que le decía esto, dijo: ¿Quién esG2036
+- Mat_12:49dijo: He aquí mi madre y mis hermanosG2036
+- Mat_13:3habló...diciendo; He aquí, el sembradorG3004
+- Mat_13:10le dijeron: ¿Por qué les hablas porG2036
+- Mat_13:11les dijo: Porque a vosotros os es dadoG2036
+- Mat_13:14ellos la profecía de Isaías, que dijoG3004
+- Mat_13:17os digo, que muchos profetas y justosG3004
+- Mat_13:24otra parábola, diciendo: El reino de losG3004
+- Mat_13:27le dijeron: Señor, ¿no sembraste buenaG2036
+- Mat_13:28él les dijo: Un enemigo ha hecho estoG2036
+- Mat_13:28los siervos le dijeron: ¿Quieres, puesG5346
+- Mat_13:29les dijo: No, no sea que al arrancar laG5346
+- Mat_13:30diré a los segadores: Recoged primeroG2046
+- Mat_13:31diciendo: El reino de los cielos esG3004
+- Mat_13:33parábola...dijo: El reino de los cielosG2980
+- Mat_13:35que cumpliese lo dicho por el profetaG4483
+- Mat_13:35cuando dijo: Abriré en parábolas mi bocaG3004
+- Mat_13:36le dijeron: Explícanos la parábola de laG3004
+- Mat_13:37dijo: El que siembra la buena semillaG2036
+- Mat_13:51les dijo: ¿Habéis entendido todas estasG3004
+- Mat_13:52les dijo: Por eso todo escriba docto enG2036
+- Mat_13:54decían: ¿De dónde tiene...esta sabiduríaG3004
+- Mat_13:57dijo: No hay profeta sin honra sino enG2036
+- Mat_14:2y dijo a sus criados: Este es Juan elG2036
+- Mat_14:4Juan le decía: No te es lícito tenerlaG3004
+- Mat_14:8dijo: Dame aquí...la cabeza de Juan elG5346
+- Mat_14:15diciendo: El lugar es desierto, y laG3004
+- Mat_14:16les dijo: No tienen necesidad de irseG2036
+- Mat_14:17ellos dijeron: No tenemos aquí sino 5G3004
+- Mat_14:18él les dijo: Traédmelos acáG2036
+- Mat_14:26se turbaron, diciendo: ¡Un fantasma![[G3004]]
+- Mat_14:27habló, diciendo: ¡Tened ánimo; yo soyG3004
+- Mat_14:28le respondió Pedro, y dijo: Señor, siG2036
+- Mat_14:29y él dijo: Ven. Y descendiendo PedroG2036
+- Mat_14:30dio voces, diciendo: ¡Señor, sálvame![[G3004]]
+- Mat_14:31Jesús...le dijo: ¡Hombre de poca fe![[G3004]]
+- Mat_14:33diciendo: Verdaderamente eres Hijo deG3004
+- Mat_15:1acercaron a Jesús...escribas...diciendoG3004
+- Mat_15:3les dijo: ¿Por qué también vosotrosG2036
+- Mat_15:4Dios mandó diciendo: Honra a tu padre yG3004
+- Mat_15:5vosotros decís: Cualquiera que diga suG3004, [[G2036]]
+- Mat_15:7bien profetizó de vosotros Isaías...dijoG3001
+- Mat_15:10llamando a sí a la multitud, les dijoG2036
+- Mat_15:12le dijeron: ¿Sabes que los fariseos seG2036
+- Mat_15:13dijo: Toda planta que no plantó mi PadreG2036
+- Mat_15:15Pedro...dijo: Explícanos esta parábolaG2036
+- Mat_15:16dijo: ¿También vosotros sois aún sinG2036
+- Mat_15:22una mujer cananea...diciéndole: ¡SeñorG3004
+- Mat_15:23diciendo: Despídela, pues da voces trasG3004
+- Mat_15:24dijo: No soy enviado sino a las ovejasG2036
+- Mat_15:25ella vino...diciendo: ¡ Señor, socórremeG3004
+- Mat_15:26dijo: No está bien tomar el pan de losG2036
+- Mat_15:27y ella dijo: Sí, Señor; pero aun losG2036
+- Mat_15:28Jesús, dijo: Oh mujer, grande es tu feG2036
+- Mat_15:32Jesús...dijo: Tengo compasión de la genteG2036
+- Mat_15:33sus discípulos le dijeron: ¿De dóndeG3004
+- Mat_15:34Jesús les dijo: ¿Cuántos panes tenéis?[[G3004]]
+- Mat_15:34y ellos dijeron: Siete, y unos pocosG2036
+- Mat_16:2les dijo: Cuando anochece, decís: BuenG2036
+- Mat_16:6Jesús les dijo: Mirad, guardaos de laG2036
+- Mat_16:7diciendo: Esto dice porque no trajimosG3004
+- Mat_16:8Jesús...dijo: ¿Por qué pensáis dentro deG2036
+- Mat_16:11dije que os guardaseis de la levaduraG2036
+- Mat_16:12no les había dicho que se guardasen deG2036
+- Mat_16:13diciendo: ¿Quién dicen los hombre queG3004
+- Mat_16:14ellos dijeron: Unos, Juan el BautistaG2036
+- Mat_16:15él les dijo...¿quién decís que soy yo?[[G3004]]
+- Mat_16:16Simón Pedro, dijo: Tú eres el CristoG2036
+- Mat_16:18yo también te digo, que tú eres PedroG3004
+- Mat_16:20que a nadie dijesen que él era Jesús elG2036
+- Mat_16:22a reconvenirle, diciendo: Señor, tenG3004
+- Mat_16:23dijo a Pedro: ¡Quítate de delante de míG2036
+- Mat_16:24Jesús dijo a sus discípulos: Si algunoG2036
+- Mat_16:28de cierto os digo que hay algunos de losG3004
+- Mat_17:4Pedro dijo a Jesús: Señor, bueno es paraG2036
+- Mat_17:5una voz...decía: Este es mi Hijo amadoG3004
+- Mat_17:7los tocó, y dijo: Levantaos, y no temáisG2036
+- Mat_17:9no digáis a nadie la visión, hasta queG3004
+- Mat_17:10diciendo: ¿Por qué...dicen los escribasG3004
+- Mat_17:11dijo: A la verdad, Elías viene primeroG2036
+- Mat_17:12mas os digo que Elías ya vino, y no leG3004
+- Mat_17:14un hombre que se arrodilló...diciendoG3004
+- Mat_17:17Jesús, dijo: ¡Oh generación incrédulaG2036
+- Mat_17:19dijeron: ¿Por qué nosotros no pudimosG2036
+- Mat_17:20les dijo: Por vuestra poca fe; porqueG2036
+- Mat_17:20os digo, que si tuviereis fe como unG3004
+- Mat_17:20diréis a este monte: Pásate de aquí alláG2046
+- Mat_17:22Jesús les dijo: El Hijo del Hombre seráG2036
+- Mat_17:24le dijeron: ¿Vuestro Maestro no pagaG2036
+- Mat_17:25él dijo: Sí. Y al entrar él en casaG3004
+- Mat_17:25diciendo: ¿Que te parece, Simón? LosG3004
+- Mat_17:26le dijo: Luego los hijos están exentosG5346
+- Mat_18:1vinieron...diciendo: ¿Quién es el mayorG3004
+- Mat_18:3y dijo: De cierto os digo, que si no osG2036, [[G3004]]
+- Mat_18:10os digo que sus ángeles en los cielosG3004
+- Mat_18:13os digo que se regocija más por aquéllaG3004
+- Mat_18:17si no los oyere...dilo a la iglesiaG2036
+- Mat_18:18digo que todo lo que atéis en la tierraG3004
+- Mat_18:19vez os digo, que si dos de vosotros seG3004
+- Mat_18:21dijo: Señor, ¿cuántas veces perdonaré aG2036
+- Mat_18:22le dijo: No te digo hasta siete, sinoG3004
+- Mat_18:26,29diciendo...ten paciencia conmigo, yG3004
+- Mat_18:28le ahogaba, diciendo: Págame lo que meG3004
+- Mat_18:32le dijo: Siervo malvado, toda aquellaG3004
+- Mat_19:3diciéndole: ¿Es lícito al...repudiar a suG3004
+- Mat_19:4dijo: ¿No habéis leído que el que losG2036
+- Mat_19:5dijo: Por esto el hombre dejará padre yG2036
+- Mat_19:7le dijeron: ¿Por qué, pues, mandó MoisésG3004
+- Mat_19:8dijo: Por la dureza de vuestro corazónG3004
+- Mat_19:9os digo que cualquiera que repudia a suG3004
+- Mat_19:10le dijeron sus discípulos: Si así es laG3004
+- Mat_19:11dijo: No todos son capaces de recibirG2036
+- Mat_19:14Jesús dijo: Dejad a los niños venir aG2036
+- Mat_19:16entonces vino uno y le dijo: MaestroG2036
+- Mat_19:17él le dijo: ¿Por qué me llamas bueno?[[G2036]]
+- Mat_19:18dijo: ¿Cuáles? Y Jesús d: No matarásG2036
+- Mat_19:18no hurtarás. No dirás falso testimonioG3004
+- Mat_19:20le dijo: Todo esto lo he guardado desdeG3004
+- Mat_19:21le dijo: Si quieres ser perfecto, andaG5346
+- Mat_19:23Jesús dijo a sus...De cierto os digo queG2036
+- Mat_19:24vez os digo, que es más fácil pasar unG3004
+- Mat_19:25diciendo: ¿Quién, pues, podrá ser salvo?[[G3004]]
+- Mat_19:26les dijo: Para los hombres esto esG2036
+- Mat_19:27dijo: He aquí, nosotros lo hemos dejadoG2036
+- Mat_19:28les dijo: De cierto os digo que en laG2036, [[G3004]]
+- Mat_20:4dijo: Id también vosotros a mi viña, yG2036
+- Mat_20:6dijo: ¿Por qué estáis aquí todo el díaG3004
+- Mat_20:7dijeron: Porque nadie nos ha contratadoG3004
+- Mat_20:7dijo: Id...a la viña, y recibiréis lo queG3004
+- Mat_20:8el señor...dijo a su mayordomo: Llama aG3004
+- Mat_20:12diciendo...han trabajado una sola horaG3004
+- Mat_20:13dijo a uno de...Amigo, no te hago agravioG2036
+- Mat_20:17tomó a sus doce discípulos...y les dijoG2036
+- Mat_20:21dijo: ¿Qué quieres? Ella le d: OrdenaG2036, [[G3004]]
+- Mat_20:22dijo: No sabéis lo que pedís. ¿PodéisG2036
+- Mat_20:22¿podéis beber del...le dijeron: PodemosG3004
+- Mat_20:23dijo: A la verdad, de mi vaso beberéisG3004
+- Mat_20:25dijo: Sabéis que los gobernantes de lasG2036
+- Mat_20:30,31diciendo: ¡Señor, Hijo de David, tenG3004
+- Mat_20:32y les dijo: ¿Qué queréis que os haga?[[G2036]]
+- Mat_20:33le dijeron: Señor, que sean abiertosG3004
+- Mat_21:2diciéndoles: Id a la aldea que estáG3004
+- Mat_21:3alguien os dijere algo, decid: El SeñorG2036, [[G2046]]
+- Mat_21:4lo dicho por el profeta, cuando dijoG3004
+- Mat_21:5decid a la hija de Sion: He aquí, tu ReyG2036
+- Mat_21:9aclamaba, diciendo: ¡Hosanna al Hijo deG3004
+- Mat_21:10se conmovió, diciendo: ¿Quién es éste?[[G3004]]
+- Mat_21:11gente decía: Este es Jesús el profetaG3004
+- Mat_21:13les dijo: Escrito está: Mi casa, casaG3004
+- Mat_21:15y diciendo: ¡Hosanna al Hijo de David![[G3004]]
+- Mat_21:16le dijeron: ¿Oyes lo que éstos dicen?[[G2036]], [[G3004]]
+- Mat_21:16y Jesús les dijo: Sí; ¿nunca leisteisG3004
+- Mat_21:19le dijo: Nunca jamás nazca de ti frutoG3004
+- Mat_21:20decían maravillados: ¿Cómo es que seG3004
+- Mat_21:21les dijo: De cierto os digo, que siG2036, [[G3004]]
+- Mat_21:21que si a este monte dijereis: QuítateG2036
+- Mat_21:23dijeron: ¿Con qué autoridad haces estasG3004
+- Mat_21:24Jesús, les dijo: Yo también os haré unaG2036
+- Mat_21:24diré con qué autoridad hago estas cosasG2046
+- Mat_21:25diciendo: Si decimos, del cielo, nosG3004, [[G2036]]
+- Mat_21:25dirá: ¿Por qué, pues, no le creísteis?[[G2046]]
+- Mat_21:26si decimos, de los hombres, tememos alG2036
+- Mat_21:27dijeron: No sabemos. Y él...les dijoG2036
+- Mat_21:27tampoco yo os digo con qué autoridadG5346
+- Mat_21:28acercándose al...le dijo: Hijo, vé hoy aG2036
+- Mat_21:29él, dijo: No quiero; pero después...fueG2036
+- Mat_21:30al otro, le dijo de la misma maneraG2036
+- Mat_21:30respondiendo él, dijo: Sí, señor, voyG2036
+- Mat_21:31de su padre? Dijeron ellos: El primeroG3004
+- Mat_21:31les dijo: De cierto os digo, que losG3004
+- Mat_21:37diciendo: Tendrán respeto a mi hijoG3004
+- Mat_21:38dijeron entre sí: Este es el herederoG2036
+- Mat_21:41le dijeron: A los malos destruirá sinG3004
+- Mat_21:42Jesús les dijo: ¿Nunca leisteis en lasG3004
+- Mat_21:43os digo, que el reino de Dios...quitadoG3004
+- Mat_22:1Jesús, les volvió a hablar en...diciendoG3004
+- Mat_22:4diciendo: Decid a los convidados: He aquíG3004
+- Mat_22:8entonces dijo a sus siervos: Las bodasG3004
+- Mat_22:12y le dijo: Amigo, ¿cómo entraste aquíG3004
+- Mat_22:13dijo a los que servían: Atadle de piesG2036
+- Mat_22:16diciendo: Maestro, sabemos que eresG3004
+- Mat_22:17dinos...qué te parece: ¿Es lícito darG2036
+- Mat_22:18Jesús...les dijo: ¿Por qué me tentáisG2036
+- Mat_22:20les dijo: ¿De quién es esta imagen, yG3004
+- Mat_22:21le dijeron: De César. Y les dijo: DadG3004, [[[[G3004]]]]
+- Mat_22:23que dicen que no hay resurrección, y leG3004
+- Mat_22:24diciendo: Maestro, Moisés dijo: SiG3004, [[G2036]]
+- Mat_22:29dijo: Erráis, ignorando las EscriturasG2036
+- Mat_22:31leído lo...dicho por Dios, cuando dijoG3004
+- Mat_22:35uno de...preguntó por tentarle, diciendoG3004
+- Mat_22:37dijo: Amarás al Señor tu Dios con todoG2036
+- Mat_22:42diciendo: ¿Qué pensáis del Cristo? ¿DeG3004
+- Mat_22:42¿de quién es hijo...dijeron: De DavidG3004
+- Mat_22:43dijo...David...le llama Señor, diciendoG3004
+- Mat_22:44dijo el Señor a mi Señor: Siéntate a miG2036
+- Mat_23:1habló Jesús...a sus discípulos, diciendoG3004
+- Mat_23:3lo que os digan que guardéis, guardadloG2036
+- Mat_23:3mas no hagáis...porque dicen, y no hacenG3004
+- Mat_23:16,18decís: Si alguno jura...no es nadaG3004
+- Mat_23:30y decís: Si hubiésemos vivido en losG3004
+- Mat_23:36os digo que todo esto vendrá sobre estaG3004
+- Mat_23:39os digo que desde ahora no me veréisG3004
+- Mat_23:39hasta que digáis: Bendito el que vieneG2036
+- Mat_24:2les dijo: ¿Veis todo esto? De cierto osG2036
+- Mat_24:2cierto os digo, que no quedará...piedraG3004
+- Mat_24:3diciendo: Dinos, ¿cuándo serán estasG3004
+- Mat_24:4Jesús...dijo: Mirad que nadie os engañeG2036
+- Mat_24:5en mi nombre, diciendo: Yo soy el CristoG3004
+- Mat_24:23si alguno os dijere: Mirad, aquí estáG2036
+- Mat_24:25ya os lo he dicho antesG4280
+- Mat_24:26si os dijeren: Mirad, está en el desiertoG2036
+- Mat_24:34os digo, que no pasará esta generaciónG3004
+- Mat_24:47os digo que sobre todos sus bienes leG3004
+- Mat_24:48dijere en su corazón: Mi señor tarda enG2036
+- Mat_25:8las insensatas dijeron...Dadnos...aceiteG2036
+- Mat_25:9diciendo...que no nos falte a nosotrasG3004
+- Mat_25:11vinieron...diciendo: ¡Señor...ábrenos![[G3004]]
+- Mat_25:12dijo: De cierto os digo...no os conozcoG2036, [[G3004]]
+- Mat_25:20diciendo: Señor, cinco...me entregasteG3004
+- Mat_25:21,23su señor le dijo: Bien, buen siervo yG5346
+- Mat_25:22llegando...dijo: Señor, dos talentos meG2036
+- Mat_25:24dijo: Señor, te conocía...hombre duroG2036
+- Mat_25:26su señor, le dijo: Siervo...negligenteG2036
+- Mat_25:34el Rey dirá a los de su derecha: VenidG2046
+- Mat_25:37,44diciendo: Señor, ¿cuándo te vimosG3004
+- Mat_25:40dirá: De cierto os digo que en cuantoG2046, [[G3004]]
+- Mat_25:41dirá también a los de la izquierdaG2046
+- Mat_25:45diciendo...os digo que en cuanto no loG3004, [[[[G3004]]]]
+- Mat_26:1hubo acabado Jesús...dijo a sus discípulosG2036
+- Mat_26:5decían: No durante la fiesta, para queG3004
+- Mat_26:8diciendo: ¿Para qué este desperdicio?[[G3004]]
+- Mat_26:10dijo: ¿Por qué molestáis a esta mujer?[[G2036]]
+- Mat_26:13os digo que dondequiera que se prediqueG3004
+- Mat_26:15les dijo: ¿Qué me queréis dar, y yo osG2036
+- Mat_26:17diciéndole: ¿Dónde quieres...la pascua?[[G3004]]
+- Mat_26:18él dijo: Id a la ciudad a cierto hombreG2036
+- Mat_26:18y Decidle: El Maestro dice: Mi tiempoG3004
+- Mat_26:21dijo: De cierto os digo, que uno deG2036, [[G3004]]
+- Mat_26:22comenzó cada uno de...a decirle: ¿Soy yoG3004
+- Mat_26:23dijo: El que mete la mano conmigo en elG2036
+- Mat_26:25respondiendo Judas...dijo: ¿Soy yoG2036
+- Mat_26:25yo, Maestro? Le dijo: Tú lo has dichoG3004
+- Mat_26:26y dio a sus discípulos, y dijo: TomadG2036
+- Mat_26:27les dio, diciendo: Bebed de ella todosG3004
+- Mat_26:29os digo que desde ahora no beberé másG3004
+- Mat_26:31dijo: Todos...os escandalizaréis de míG3004
+- Mat_26:33Pedro, le dijo: Aunque...escandalicenG2036
+- Mat_26:34Jesús le dijo...te digo que esta nocheG5346, [[[[G5346]]]]
+- Mat_26:35le dijo: Aunque me sea necesario morirG3004
+- Mat_26:35todos los discípulos dijeron lo mismoG2036
+- Mat_26:36y dijo a sus discípulos: Sentaos aquíG3004
+- Mat_26:38Jesús les dijo: Mi alma está...tristeG3004
+- Mat_26:39y diciendo: Padre mío, si es posibleG3004
+- Mat_26:40dijo a Pedro...que no habéis podido velarG3004
+- Mat_26:42vez, diciendo: Padre mío, si no puedeG3004
+- Mat_26:44de nuevo...diciendo las mismas palabrasG2036
+- Mat_26:45vino...les dijo: Dormid ya, y descansadG3004
+- Mat_26:48señal, diciendo: Al que yo besare, éseG3004
+- Mat_26:49se acercó a...y dijo: ¡Salve, Maestro![[G2036]]
+- Mat_26:50Jesús le dijo: Amigo, ¿a qué vienes?[[G2036]]
+- Mat_26:52Jesús le dijo: Vuelve tu espada a suG3004
+- Mat_26:55dijo Jesús a la gente: ¿Como contra unG2036
+- Mat_26:61dijeron: Este dijo: Puedo derribar elG2036, [[G5346]]
+- Mat_26:62sacerdote, le dijo: ¿No respondes nada?[[G2036]]
+- Mat_26:63le dijo: Te conjuro...nos digas si eresG2036
+- Mat_26:64le dijo: Tú lo has dicho; y además osG3004, [[G2036]]
+- Mat_26:64os digo, que desde ahora veréis al HijoG3004
+- Mat_26:65diciendo: ¡Ha blasfemado! ¿Qué másG3004
+- Mat_26:66os parece?...dijeron: ¡Es reo de muerte![[G2036]]
+- Mat_26:68diciendo: Profetízanos, Cristo, quiénG3004
+- Mat_26:69criada, diciendo: Tú también estabasG3004
+- Mat_26:70él negó...diciendo: No sé lo que dicesG3004
+- Mat_26:71dijo a los que estaban...También ésteG3004
+- Mat_26:73dijeron a Pedro...tú eres de ellos, porqueG2036
+- Mat_26:75que le había dicho: Antes que cante elG2046
+- Mat_27:4diciendo: Yo he pecado entregando sangreG3004
+- Mat_27:4mas ellos dijeron: ¿Qué nos importa aG2036
+- Mat_27:6dijeron: No es lícito echarlas en el tesoroG2036
+- Mat_27:9lo dicho por el profeta...cuando dijoG3004
+- Mat_27:11diciendo: ¿Eres...el Rey de los judíos?[[G5346]]
+- Mat_27:11¿eres tú...Y Jesús le dijo: Tú lo dicesG3004
+- Mat_27:13Pilato...dijo: ¿No oyes cuántas cosasG3004
+- Mat_27:17les dijo Pilato: ¿A quién queréis queG2036
+- Mat_27:19su mujer le mandó decir: No tengas nadaG3004
+- Mat_27:21les dijo: ¿A cuál...dijeron: A BarrabásG2036
+- Mat_27:22Pilato les dijo: ¿Qué...haré de JesúsG3004
+- Mat_27:22todos le dijeron: ¡ Sea crucificado![[G3004]]
+- Mat_27:23les dijo: Pues ¿qué mal ha hecho? PeroG5346
+- Mat_27:23gritaban...diciendo: ¡Sea crucificado![[G3004]]
+- Mat_27:24diciendo: Inocente soy yo de la sangreG3004
+- Mat_27:25dijo: Su sangre sea sobre nosotros, yG2036
+- Mat_27:29diciendo: ¡Salve, Rey de los judíos![[G3004]]
+- Mat_27:35que se cumpliese lo dicho por el profetaG4483
+- Mat_27:40y diciendo: Tú que derribas el temploG3004
+- Mat_27:41los fariseos y los ancianos, decíanG3004
+- Mat_27:43porque ha dicho: Soy Hijo de DiosG2036
+- Mat_27:46diciendo: Elí, Elí, ¿lama sabactani?[[G3004]]
+- Mat_27:47decían, al oírlo: A Elías llama ésteG3004
+- Mat_27:49decían: Deja, veamos si viene Elías aG3004
+- Mat_27:54dijeron: Verdaderamente éste era HijoG3004
+- Mat_27:63diciendo: Señor, nos acordamos queG3004
+- Mat_27:63aquel engañador dijo...Después de tresG2036
+- Mat_27:64digan al pueblo: Resucitó de entre losG2036
+- Mat_27:65les dijo: Ahí tenéis una guardia; idG5346
+- Mat_28:5el ángel, respondiendo, dijo...No temáisG2036
+- Mat_28:6no está aquí...ha resucitado, como dijoG2036
+- Mat_28:7id pronto y decid a sus discípulos queG2036
+- Mat_28:7allí le veréis. He aquí, os lo he dichoG2036
+- Mat_28:9les salió al encuentro, diciendo: ¡Salve![[G3004]]
+- Mat_28:10Jesús les dijo: No temáis; id, dad lasG3004
+- Mat_28:13diciendo: Decid...Sus discípulos vinieronG2036
+- Mat_28:18diciendo: Toda potestad me es dada enG3004
+- Mar_1:7diciendo: Viene tras mí el que es másG2036
+- Mar_1:11y vino una voz...que decía: Tú eres miG3004
+- Mar_1:15diciendo: El tiempo se ha cumplido, yG3004
+- Mar_1:17les dijo Jesús: Venid en pos de mí, yG2036
+- Mar_1:24diciendo: ¡Ah! ¿qué tienes con nosotrosG3004
+- Mar_1:25le reprendió, diciendo: ¡Cállate, y salG3004
+- Mar_1:27entre sí, diciendo: ¿Qué es esto? ¿QuéG3004
+- Mar_1:37hallándole, le dijeron: Todos te buscanG3004
+- Mar_1:38él les dijo: Vamos a los lugares vecinosG3004
+- Mar_1:40le dijo: Si quieres, puedes limpiarmeG3004
+- Mar_1:41y le tocó, y le dijo: Quiero, sé limpioG3004
+- Mar_1:44y le dijo: Mira, no digas a nadie nadaG3004, [[G2036]]
+- Mar_2:5al ver Jesús la fe de...dijo al paralíticoG3004
+- Mar_2:7blasfemias dice. ¿Quién puede perdonarG2980
+- Mar_2:8Jesús...les dijo: ¿Por qué caviláis así enG2036
+- Mar_2:9¿qué es más fácil, decir...Tus pecados teG2036
+- Mar_2:9decirle: Levántate, toma tu lecho y anda?[[G2036]]
+- Mar_2:10tiene potestad en la...dijo al paralíticoG3004
+- Mar_2:11a ti te digo: Levántate, toma tu lechoG3004
+- Mar_2:12diciendo: Nunca hemos visto tal cosaG3004
+- Mar_2:14y le dijo: Sígueme. Y levantándose, leG3004
+- Mar_2:16dijeron a los discípulos: ¿Qué es estoG3004
+- Mar_2:17dijo: Los sanos no tienen necesidad deG3004
+- Mar_2:18le dijeron: ¿Por qué los discípulos deG3004
+- Mar_2:19Jesús les dijo: ¿Acaso pueden los queG2036
+- Mar_2:24los fariseos le dijeron: Mira, ¿por quéG3004
+- Mar_2:25dijo: ¿Nunca leisteis lo que hizo DavidG3004
+- Mar_2:27también les dijo: El día de reposo fueG3004
+- Mar_3:3dijo al hombre que tenía la mano secaG3004
+- Mar_3:4dijo: ¿Es lícito en los días de reposoG3004
+- Mar_3:5dijo al hombre: Extiende tu mano. Y él laG3004
+- Mar_3:9dijo a sus discípulos que le tuviesenG2036
+- Mar_3:11daban voces, diciendo: Tú eres el HijoG3004
+- Mar_3:21lo oyeron los...decían: Está fuera de síG3004
+- Mar_3:22los escribas...decían que tenía a BeelzebúG3004
+- Mar_3:23decía...¿Cómo puede Satanás echar fueraG3004
+- Mar_3:28digo que todos los pecados...perdonadosG3004
+- Mar_3:30habían dicho: Tiene espíritu inmundoG3004
+- Mar_3:32le dijo: Tu madre y tus hermanos estánG2036
+- Mar_3:33respondió diciendo: ¿Quién es mi madreG3004
+- Mar_3:34dijo: He aquí mi madre y mis hermanosG3004
+- Mar_4:2les enseñaba...y les decía en su doctrinaG3004
+- Mar_4:9dijo: El que tiene oídos para oír, oigaG3004
+- Mar_4:11y les dijo: A vosotros os es dado saberG3004
+- Mar_4:13y les dijo: ¿No sabéis esta parábola?[[G3004]]
+- Mar_4:21dijo: ¿Acaso se trae la luz para ponerlaG3004
+- Mar_4:24dijo también: Mirad lo que oís; porqueG3004
+- Mar_4:26decía además: Así es el reino de DiosG3004
+- Mar_4:30decía...¿A qué haremos semejante el reinoG3004
+- Mar_4:35la noche, les dijo: Pasemos al otro ladoG3004
+- Mar_4:38le despertaron, y le dijeron: MaestroG3004
+- Mar_4:39y dijo al mar: Calla, enmudece. Y cesóG2036
+- Mar_4:40dijo: ¿Por qué estáis así amedrentados?[[G2036]]
+- Mar_4:41decían el uno al otro: ¿Quién es ésteG3004
+- Mar_5:7dijo: ¿Qué tienes conmigo, Jesús, HijoG2036
+- Mar_5:8le decía: Sal de este hombre, espírituG3004
+- Mar_5:9y respondió diciendo: Legión me llamoG3004
+- Mar_5:12rogaron todos...diciendo: Envíanos a losG3004
+- Mar_5:19le dijo: Vete a tu casa, a los tuyos, yG3004
+- Mar_5:23le rogaba mucho, diciendo: Mi hija estáG3004
+- Mar_5:28decía: Si tocare...su manto, seré salvaG3004
+- Mar_5:31dijeron: Ves que la multitud te aprietaG3004
+- Mar_5:31ves que...y dices: ¿Quién me ha tocado?[[G3004]]
+- Mar_5:33la mujer...vino...y le dijo toda la verdadG2036
+- Mar_5:34le dijo: Hija, tu fe te ha hecho salvaG2036
+- Mar_5:35diciendo: Tu hija ha muerto; ¿para quéG3004
+- Mar_5:36oyó lo que se decía, dijo al principalG3004
+- Mar_5:39dijo: ¿Por qué alborotáis y lloráis? LaG3004
+- Mar_5:41le dijo...Niña, a ti te digo, levántateG3004, [[[[G3004]]]]
+- Mar_5:43mandó...y dijo que se le diese de comerG2036
+- Mar_6:2decían: ¿De dónde tiene éste estas cosas?[[G3004]]
+- Mar_6:4mas Jesús les decía: No hay profeta sinG3004
+- Mar_6:10y les dijo: Dondequiera que entréis enG3004
+- Mar_6:11cierto os digo que en el día del juicioG3004
+- Mar_6:14y dijo: Juan el Bautista ha resucitadoG3004
+- Mar_6:15otros decían: Es Elías. Y otros d: EsG3004
+- Mar_6:16al oír esto Herodes, dijo: Este es JuanG2036
+- Mar_6:18Juan decía a Herodes: No te es lícitoG3004
+- Mar_6:22y el rey dijo a la muchacha: Pídeme loG2036
+- Mar_6:24dijo a su madre: ¿Qué Pediré? Y...le dG2036
+- Mar_6:25ella entró...diciendo: Quiero que ahoraG3004
+- Mar_6:31dijo: Venid vosotros aparte a un lugarG2036
+- Mar_6:35diciendo: El lugar es desierto, y laG3004
+- Mar_6:37él, les dijo: Dadles vosotros de comerG2036
+- Mar_6:37dijeron: ¿Que vayamos y compremos panG3004
+- Mar_6:38les dijo: ¿Cuántos panes tenéis? Id yG3004
+- Mar_6:38al saberlo, dijeron: Cinco, y dos pecesG3004
+- Mar_6:50dijo: ¡Tened ánimo; yo soy, no temáis![[G3004]]
+- Mar_7:6les dijo: Hipócritas, bien profetizó deG2036
+- Mar_7:9les decía también: Bien invalidáis elG3004
+- Mar_7:10Moisés dijo: Honra a tu padre y a tuG2036
+- Mar_7:11pero vosotros decís: Basta que diga unG3004, [[G2036]]
+- Mar_7:11que quiere decir, mi ofrenda a DiosG3603
+- Mar_7:14y llamando a sí...les dijo: Oídme todosG3004
+- Mar_7:18les dijo: ¿También vosotros estáis asíG3004
+- Mar_7:19esto decía, haciendo limpios todos los
+- Mar_7:20pero decía, que lo que del hombre saleG3004
+- Mar_7:27le dijo: Deja primero que se sacien losG2036
+- Mar_7:28dijo: Sí, Señor; pero aun los perrillosG3004
+- Mar_7:29entonces le dijo: Por esta palabra, véG2036
+- Mar_7:34y le dijo: Efata, es decir: Sé abiertoG3004
+- Mar_7:36y les mandó que no lo dijesen a nadieG2036
+- Mar_7:37diciendo: Bien lo ha hecho todo; haceG3004
+- Mar_8:1Jesús llamó a sus discípulos, y les dijoG3004
+- Mar_8:5¿cuántos panes tenéis?...dijeron: SieteG2036
+- Mar_8:12y gimiendo...dijo: ¿Por qué pide señalG3004
+- Mar_8:12os digo que no se dará señal a estaG3004
+- Mar_8:15diciendo...guardaos de la levadura de losG3004
+- Mar_8:16sí, diciendo: Es porque no trajimos panG3004
+- Mar_8:17dijo: ¿Qué discutís, porque no tenéisG3004
+- Mar_8:19¿Cuántas cestas...Y ellos dijeron: DoceG3004
+- Mar_8:20recogisteis? Y ellos dijeron: SieteG2036
+- Mar_8:21y les dijo: ¿Cómo aún no entendéis?[[G3004]]
+- Mar_8:24dijo: Veo los hombre como árboles, peroG3004
+- Mar_8:26diciendo: No entres...ni lo digas a nadieG3004, [[G2036]]
+- Mar_8:27diciéndoles: ¿Quién dicen los hombres queG3004, [[[[G3004]]]]
+- Mar_8:29dijo: Y vosotros, ¿quién decís que soy?[[[[G3004]]]], [[[[G3004]]]]
+- Mar_8:29respondiendo Pedro, le dijo: Tú eres elG3004
+- Mar_8:30él les mandó que no dijesen esto de élG3004
+- Mar_8:32les decía claramente. Entonces PedroG3056
+- Mar_8:33a Pedro, diciendo: ¡Quítate de delanteG3004
+- Mar_8:34dijo: Si alguno quiere venir en pos deG2036
+- Mar_9:1dijo: De cierto os digo que hay algunosG3004, [[[[G3004]]]]
+- Mar_9:5Pedro dijo a Jesús: Maestro, bueno es paraG3004
+- Mar_9:7voz que decía: Este es mi Hijo amado; aG3004
+- Mar_9:9que a nadie dijesen lo que habían vistoG1334
+- Mar_9:11diciendo: ¿Por qué dicen los escribas queG3004, [[[[G3004]]]]
+- Mar_9:12dijo: Elías a la verdad vendrá primeroG2036
+- Mar_9:13os digo que Elías ya vino, y le hicieronG3004
+- Mar_9:17dijo: Maestro, traje a ti mi hijo, queG2036
+- Mar_9:18y dije a tus discípulos que lo echasenG2036
+- Mar_9:19él, les dijo: ¡Oh generación incrédula![[G3004]]
+- Mar_9:21¿cuánto tiempo...Y él dijo: Desde niñoG2036
+- Mar_9:23Jesús le dijo: Si puedes creer, al queG2036
+- Mar_9:24padre del muchacho clamó y dijo: CreoG3004
+- Mar_9:25diciéndole: Espíritu mudo y sordo, yoG3004
+- Mar_9:26de modo que muchos decían: Está muertoG3004
+- Mar_9:29dijo: Este género con nada puede salirG2036
+- Mar_9:31decía: El Hijo del Hombre será entregadoG3004
+- Mar_9:35les dijo: Si alguno quiere ser el primeroG3004
+- Mar_9:36y tomándole en sus brazos, les dijoG2036
+- Mar_9:38diciendo: Maestro, hemos visto a uno queG3004
+- Mar_9:39Jesús dijo: No se lo prohibáis; porqueG2036
+- Mar_9:39que haga...luego pueda decir mal de míG2551
+- Mar_9:41os digo que no perderá su recompensaG3004
+- Mar_10:3él...les dijo: ¿Qué os mandó Moisés?[[G2036]]
+- Mar_10:4ellos dijeron: Moisés permitió dar cartaG2036
+- Mar_10:5dijo: Por la dureza de vuestro corazónG2036
+- Mar_10:11les dijo: Cualquiera que repudia a suG3004
+- Mar_10:14les dijo: Dejad a los niños venir a míG2036
+- Mar_10:15os digo que el que no reciba el reinoG3004
+- Mar_10:18le dijo: ¿Por qué me llamas bueno?[[G2036]]
+- Mar_10:19no hurtes. No digas falso testimonioG5576
+- Mar_10:20él...le dijo: Maestro, todo esto lo heG2036
+- Mar_10:21le dijo: Una cosa te falta; anda, vendeG2036
+- Mar_10:23Jesús...dijo a sus discípulos: ¡CuánG3004
+- Mar_10:24decirles: Hijos, ¡cuán difícil les esG3004
+- Mar_10:26diciendo entre sí: ¿Quién, pues, podráG3004
+- Mar_10:27dijo: Para los hombres es imposible, masG3004
+- Mar_10:28Pedro comenzó a decirle...hemos dejadoG3004
+- Mar_10:29y dijo: De cierto os digo que no hayG2036, [[G3004]]
+- Mar_10:32comenzó a decir las cosas que le habíanG3004
+- Mar_10:35diciendo: Maestro, querríamos que nosG3004
+- Mar_10:36él les dijo: ¿Qué queréis que os haga?[[G2036]]
+- Mar_10:37ellos le dijeron: Concédenos que en tuG2036
+- Mar_10:38Jesús les dijo: No sabéis lo que pedísG2036
+- Mar_10:39ellos dijeron: Podemos. Jesús les dijoG2036, [[[[G2036]]]]
+- Mar_10:42dijo: Sabéis que los que son tenidos porG3004
+- Mar_10:47y a decir: ¡Jesús, Hijo de David, tenG3004
+- Mar_10:49diciéndole: Ten confianza; levántateG3004
+- Mar_10:51dijo: ¿Qué quieres que te haga? Y elG3004
+- Mar_10:51ciego le dijo: Maestro, que recobre laG2036
+- Mar_10:52Jesús le dijo: Vete, tu fe te ha salvadoG2036
+- Mar_11:2dijo: Id a la aldea que está enfrenteG3004
+- Mar_11:3alguien os dijere: ¿Por qué hacéis eso?[[G2036]]
+- Mar_11:3decid que el Señor lo necesita, y queG2036
+- Mar_11:5unos...les dijeron: ¿Qué hacéis desatandoG3004
+- Mar_11:6les dijeron como Jesús había mandadoG2036
+- Mar_11:9y los que iban y...daban voces, diciendoG3004
+- Mar_11:14Jesús dijo a la higuera: Nunca...comaG2036
+- Mar_11:17diciendo: ¿No está escrito: Mi casa seráG3004
+- Mar_11:21le dijo: Maestro, mira, la higuera queG3004
+- Mar_11:22respondiendo Jesús, les dijo: Tened feG3004
+- Mar_11:23os digo que cualquiera que dijere a esteG3004, [[G2036]]
+- Mar_11:23creyere que será hecho lo que dice, loG3004
+- Mar_11:24os digo que todo lo que pidieres orandoG3004
+- Mar_11:28y le dijeron: ¿Con qué autoridad hacesG3004
+- Mar_11:29dijo: Os haré yo también una preguntaG2036
+- Mar_11:29y os diré con qué autoridad hago estasG2046
+- Mar_11:31diciendo: Si decimos, del cielo, diráG3004, [[G2036]]
+- Mar_11:32¿y si decimos, de los hombres...? PeroG2036
+- Mar_11:33dijeron a Jesús: No sabemos. EntoncesG3004
+- Mar_11:33les dijo: Tampoco yo os digo con quéG3004, [[[[G3004]]]]
+- Mar_12:1comenzó Jesús a decirles por parábolasG3004
+- Mar_12:6diciendo: Tendrán respeto a mi hijoG3004
+- Mar_12:7dijeron entre sí: Este es el herederoG2036
+- Mar_12:12que decía contra ellos aquella parábolaG2036
+- Mar_12:14le dijeron: Maestro, sabemos que eresG3004
+- Mar_12:15mas él...les dijo: ¿Por qué me tentáis?[[G2036]]
+- Mar_12:16les dijo: ¿De quién...dijeron: De CésarG3004, [[G2036]]
+- Mar_12:17dijo: Dad a César lo que es de CésarG2036
+- Mar_12:18que dicen que no hay resurrección, y leG3004
+- Mar_12:18vinieron...y le preguntaron, diciendoG3004
+- Mar_12:24les dijo: ¿No erráis por esto, porqueG2036
+- Mar_12:26diciendo: Yo soy el Dios de AbrahamG3004
+- Mar_12:32escriba le dijo: Bien, Maestro, verdadG2036
+- Mar_12:32verdad has dicho, que uno es Dios, y noG2036
+- Mar_12:34dijo: No estás lejos del reino de DiosG2036
+- Mar_12:35decía: ¿Cómo dicen los escribas queG3004, [[[[G3004]]]]
+- Mar_12:36el mismo David dijo por el EspírituG2036
+- Mar_12:36dijo el Señor a mi Señor: Siéntate aG2036
+- Mar_12:38les decía en su doctrina: Guardaos deG3004
+- Mar_12:43os digo que esta viuda pobre echó másG3004
+- Mar_13:1le dijo uno de sus discípulos: MaestroG3004
+- Mar_13:2le dijo: ¿Ves estos grandes edificios?[[G2036]]
+- Mar_13:4dinos, ¿cuándo serán estas cosas? ¿Y quéG2036
+- Mar_13:5comenzó a decir: Mirad que nadie osG3004
+- Mar_13:6vendrán...diciendo; Yo soy el Cristo; yG3004
+- Mar_13:11no os preocupéis...que habéis de decirG2980
+- Mar_13:21si alguno os dijere: Mirad, aquí estáG2036
+- Mar_13:23mas vosotros mirad; os lo he dicho todoG4280
+- Mar_13:30os digo, que no pasará esta generaciónG3004
+- Mar_13:37y lo que a vosotros digo, a todos lo dG3004, [[[[G3004]]]]
+- Mar_14:2decían: No durante la fiesta, para queG3004
+- Mar_14:4y dijeron: ¿Para qué se ha hecho esteG3004
+- Mar_14:6dijo: Dejadla; ¿por qué la molestáis?[[G2036]]
+- Mar_14:9os digo que dondequiera que se prediqueG3004
+- Mar_14:12dijeron: ¿Dónde quieres que vayamos aG3004
+- Mar_14:13les dijo: Id a la ciudad, y os saldráG3004
+- Mar_14:14decid al señor de la casa: El MaestroG2036
+- Mar_14:14Maestro dice: ¿Dónde está el aposentoG3004
+- Mar_14:16fueron...y hallaron como les había dichoG2036
+- Mar_14:18dijo Jesús: De cierto os digo que unoG2036, [[G3004]]
+- Mar_14:19a decirle...¿Seré yo? Y el otro: ¿SeréG3004
+- Mar_14:20dijo: Es uno de los doce, el que mojaG2036
+- Mar_14:22dio, diciendo: Tomad, esto es mi cuerpoG2036
+- Mar_14:24les dijo: Esto es mi sangre del nuevoG2036
+- Mar_14:25os digo que no beberé más del fruto deG3004
+- Mar_14:27les dijo: Todos os escandalizaréis de míG3004
+- Mar_14:29Pedro le dijo: Aunque...se escandalicenG5346
+- Mar_14:30dijo Jesús: De cierto te digo que túG3004, [[[[G3004]]]]
+- Mar_14:31decía: Si me fuere necesario morirG3004
+- Mar_14:31no te negaré. También todos decían loG3004
+- Mar_14:32y dijo a sus discípulos: Sentaos aquíG3004
+- Mar_14:34dijo: Mi alma está muy triste, hasta laG3004
+- Mar_14:36y decía: Abba, Padre, todas las cosasG3004
+- Mar_14:37y dijo a Pedro: Simón, ¿duermes? ¿NoG3004
+- Mar_14:39fue y oró, diciendo las mismas palabrasG2036
+- Mar_14:41les dijo: Dormid ya, y descansad. BastaG3004
+- Mar_14:44señal diciendo: Al que yo besare, éseG3004
+- Mar_14:45le dijo: Maestro, Maestro. Y le besóG3004
+- Mar_14:48les dijo: ¿Como contra un ladrón habéisG2036
+- Mar_14:56decían falso testimonio contra él, masG5576
+- Mar_14:57falso testimonio contra él, diciendoG3004
+- Mar_14:58oído decir: Yo derribaré este temploG3004
+- Mar_14:60a Jesús diciendo: ¿No respondes nada?[[G3004]]
+- Mar_14:61le dijo: ¿Eres tú el Cristo, el HijoG3004
+- Mar_14:62Jesús le dijo: Yo soy; y veréis al HijoG2036
+- Mar_14:63dijo: ¿Qué más necesidad tenemos deG3004
+- Mar_14:65a decirle: Profetiza. Y los alguacilesG3004
+- Mar_14:67dijo: Tú también estabas con Jesús elG3004
+- Mar_14:68él negó, diciendo...ni sé lo que dicesG3004, [[[[G3004]]]]
+- Mar_14:69comenzó a decir a los...Este es de ellosG3004
+- Mar_14:70dijeron otra vez a Pedro...eres de ellosG3004
+- Mar_14:72las palabras que Jesús le había dichoG2036
+- Mar_15:2respondiendo él, le dijo: Tú lo dicesG2036
+- Mar_15:4Pilato, diciendo: ¿Nada respondes? MiraG3004
+- Mar_15:9diciendo: ¿Queréis que os suelte al ReyG3004
+- Mar_15:12Pilato, les dijo...¿Qué, pues, queréisG2036
+- Mar_15:14Pilato...decía: ¿Pues qué mal ha hecho?[[G3004]]
+- Mar_15:28que dice: Y fue contado con los inicuosG3004
+- Mar_15:29y diciendo: ¡Bah! tú que derribas elG3004
+- Mar_15:31decían unos a otros...A otros salvó, a síG3004
+- Mar_15:34gran voz, diciendo: Eloi, Eloi, ¿lamaG3004
+- Mar_15:35y algunos de...decían, al oírlo: MiradG3004
+- Mar_15:36diciendo: Dejad, veamos si viene ElíasG3004
+- Mar_15:39dijo: Verdaderamente este hombre eraG2036
+- Mar_15:42es decir, la víspera del día de reposoG3603
+- Mar_16:3decían...¿Quién nos removerá la piedra deG3004
+- Mar_16:6él les dijo. No os asustéis; buscáis aG3004
+- Mar_16:7decid a sus discípulos, y a Pedro, queG2036
+- Mar_16:8decían nada a nadie, porque tenían miedoG2036
+- Mar_16:15dijo: Id por todo el mundo y predicadG2036
+- Luc_1:13el ángel le dijo: Zacarías, no temasG2036
+- Luc_1:18dijo...al ángel: ¿En qué conoceré esto?[[G2036]]
+- Luc_1:19dijo: Yo soy Gabriel, que estoy delanteG2036
+- Luc_1:24se recluyó en casa por 5 meses, diciendoG3004
+- Luc_1:28entrando...dijo: ¡Salve, muy favorecida 1G2036
+- Luc_1:30ángel le dijo: María, no temas, porqueG2036
+- Luc_1:34María dijo al ángel: ¿Cómo será esto?[[G2036]]
+- Luc_1:35le dijo: El Espíritu Santo vendrá sobreG2036
+- Luc_1:38María dijo: He aquí la sierva del SeñorG2036
+- Luc_1:42y dijo: Bendita tú entre las mujeresG2036
+- Luc_1:45cumplirá lo que fue dicho de parte delG2980
+- Luc_1:46María dijo: Engrandece mi alma al SeñorG2036
+- Luc_1:48me dirán bienaventurada...las generacionesG3106
+- Luc_1:60pero...su madre, dijo: No; se llamará JuanG2036
+- Luc_1:61le dijeron: ¿Por qué? No hay nadie en tuG2036
+- Luc_1:63escribió, diciendo: Juan es su nombreG3004
+- Luc_1:66diciendo: ¿Quién, pues, será este niño?[[G3004]]
+- Luc_1:67Zacarías su padre...profetizó, diciendoG3004
+- Luc_2:10el ángel les dijo: No temáis; porque heG2036
+- Luc_2:13multitud de...alababan a Dios, y decíanG3004
+- Luc_2:15se dijeron...Pasemos, pues, hasta BelénG2036
+- Luc_2:17que se les había dicho acerca del niñoG3004
+- Luc_2:18se maravillaron de lo que...les decíanG2980
+- Luc_2:20las cosas que...como se les había dichoG2980
+- Luc_2:24ofrecer conforme a lo que se dice en laG2046
+- Luc_2:28él le tomó...y bendijo a Dios, diciendoG2036
+- Luc_2:33maravillados de todo lo que se decía deG2980
+- Luc_2:34y dijo a su madre María: He aquí, ésteG2036
+- Luc_2:48y le dijo su madre: Hijo, ¿por qué nosG2036
+- Luc_2:49él les dijo: ¿Por qué me buscabais? ¿NoG2036
+- Luc_3:4dice: Voz del que clama en el desiertoG3004
+- Luc_3:7decía a las multitudes que salían paraG3004
+- Luc_3:8no comencéis a decir...Tenemos a AbrahamG3004
+- Luc_3:8os digo que Dios puede levantar hijos aG3004
+- Luc_3:10le preguntaba, diciendo: Entonces ¿quéG3004
+- Luc_3:11les dijo: El que tiene dos túnicas, déG3004
+- Luc_3:12y le dijeron: Maestro, ¿qué haremos?[[G2036]]
+- Luc_3:13él les dijo: No exijáis más de lo queG2036
+- Luc_3:14diciendo: Y nosotros, ¿qué haremos?[[G3004]]
+- Luc_3:14les dijo: No hagáis extorsión a nadieG2036
+- Luc_3:16respondió Juan, diciendo a todos: Yo aG3004
+- Luc_3:22una voz del cielo que decía: Tú eres miG3004
+- Luc_4:3le dijo: Si eres Hijo de Dios, dí a estaG2036, [[[[G2036]]]]
+- Luc_4:4Jesús...dijo: Escrito está: No sólo de panG3004
+- Luc_4:6dijo el diablo: A ti te daré toda estaG2036
+- Luc_4:8le dijo: Vete de mí, Satanás, porqueG2036
+- Luc_4:9y le dijo: Si eres Hijo de Dios, échateG2036
+- Luc_4:12dijo: Dicho está: No tentarás al SeñorG2036, [[G2046]]
+- Luc_4:21comenzó a decirles: Hoy se ha cumplidoG3004
+- Luc_4:22y decían: ¿No es éste el hijo de José?[[G3004]]
+- Luc_4:23dijo: Sin duda me diréis este refránG2036, [[G2046]]
+- Luc_4:24os digo, que ningún profeta es aceptoG3004
+- Luc_4:25digo que muchas viudas había en IsraelG3004
+- Luc_4:34diciendo: Déjanos; ¿qué tienes conG3004
+- Luc_4:35Jesús le reprendió, diciendo: CállateG3004
+- Luc_4:36diciendo: ¿Qué palabra es esta, que conG3004
+- Luc_4:41y diciendo: Tú eres el Hijo de DiosG3004
+- Luc_4:43él les dijo: Es necesario que tambiénG2036
+- Luc_5:4dijo a Simón: Boga mar adentro, y echadG2036
+- Luc_5:5Simón, le dijo: Maestro, toda la nocheG2036
+- Luc_5:8diciendo: Apártate de mí, Señor, porqueG3004
+- Luc_5:10dijo a Simón: No temas; desde ahoraG2036
+- Luc_5:12diciendo: Señor, si quieres, puedesG3004
+- Luc_5:13le tocó, diciendo: Quiero; sé limpioG2036
+- Luc_5:14y él le mandó que no lo dijese a nadieG2036
+- Luc_5:14vé, le dijo, muéstrate al sacerdote, y
+- Luc_5:20le dijo...tus pecados te son perdonadosG2036
+- Luc_5:21a cavilar, diciendo: ¿Quién es éste queG3004
+- Luc_5:22les dijo: ¿Qué caviláis en vuestrosG2036
+- Luc_5:23¿qué es más fácil decir: Tus pecados teG2036
+- Luc_5:24(dijo al paralítico): A ti te digoG2036, [[G3004]]
+- Luc_5:26decían: Hoy hemos visto maravillasG3004
+- Luc_5:27vio a...llamado Leví...y le dijo: SíguemeG2036
+- Luc_5:30diciendo: ¿Por qué coméis y bebéis conG3004
+- Luc_5:31Jesús, les dijo: Los que están sanos noG2036
+- Luc_5:33le dijeron: ¿Por qué los discípulos deG2036
+- Luc_5:34dijo: ¿Podéis acaso hacer que los queG2036
+- Luc_5:36les dijo...una parábola: Nadie corta unG3004
+- Luc_5:39nuevo; porque dice: El añejo es mejorG3004
+- Luc_6:2les dijeron: ¿Por qué hacéis lo que noG2036
+- Luc_6:3les dijo: ¿Ni aun esto habéis leído, loG2036
+- Luc_6:5les decía: El Hijo del Hombre es SeñorG3004
+- Luc_6:8y dijo al hombre que tenía la mano secaG2036
+- Luc_6:9Jesús les dijo: Os preguntaré una cosaG2036
+- Luc_6:10dijo al hombre: Extiende tu mano. Y élG2036
+- Luc_6:20decía: Bienaventurados vosotros losG3004
+- Luc_6:27digo: Amad a vuestros enemigos, hacedG3004
+- Luc_6:39les decía una parábola: ¿Acaso puede unG2036
+- Luc_6:42decir a tu hermano: Hermano, déjameG3004
+- Luc_6:46me llamáis...no hacéis lo que yo digo?[[G3004]]
+- Luc_7:4diciéndole: Es digno de que le concedasG3004
+- Luc_7:6diciéndole: Señor, no te molestes, puesG3004
+- Luc_7:7dí la palabra, y mi siervo será sanoG2036
+- Luc_7:8y digo a éste: Vé, y va; y al otro: VenG3004
+- Luc_7:9digo a la gente...Os digo que ni aun enG2036, [[G3004]]
+- Luc_7:13se compadeció de ella...dijo: No lloresG2036
+- Luc_7:14y dijo: Joven, a ti te digo, levántateG2036, [[G3004]]
+- Luc_7:16diciendo: Un...profeta se ha levantadoG3004
+- Luc_7:20dijeron: Juan el Bautista...ha enviado aG3004
+- Luc_7:22les dijo: Id, haced saber a Juan lo queG2036
+- Luc_7:24comenzó a decir de Juan a la genteG3004
+- Luc_7:26¿a un profeta? Sí, os digo, y más queG3004
+- Luc_7:28digo que entre los nacidos de mujeresG3004
+- Luc_7:31dijo el Señor: ¿A qué, pues, compararéG2036
+- Luc_7:32dan voces...y dicen: Os tocamos flautaG3004
+- Luc_7:33ni bebía vino, y decís: Demonio tieneG3004
+- Luc_7:34y decís: Este es un hombre comilón yG3004
+- Luc_7:39dijo para sí: Este, si fuera profetaG3004
+- Luc_7:40cosa tengo que decirle. Y él le dijo: DíG2036, [[G3004]],2036
+- Luc_7:42dí, pues, ¿cuál de ellos le amará más?[[G2036]]
+- Luc_7:43dijo: Pienso que aquel a quien perdonóG2036
+- Luc_7:43y él le dijo: Rectamente has juzgadoG2036
+- Luc_7:44dijo a Simón: ¿Ves esta mujer? Entré enG5346
+- Luc_7:47te digo que sus muchos pecados le sonG3004
+- Luc_7:48y a ella le dijo: Tus pecados te sonG2036
+- Luc_7:49a decir entre sí: ¿Quién es éste, queG3004
+- Luc_7:50él dijo a la mujer: Tu fe te ha salvadoG2036
+- Luc_8:4una gran multitud...les dijo por parábolaG2036
+- Luc_8:8decía a gran voz: El que tiene oídos paraG3004
+- Luc_8:9diciendo: ¿Qué significa esta parábola?[[G3004]]
+- Luc_8:10él dijo: A vosotros os es dado conocerG2036
+- Luc_8:20se le avisó, diciendo: Tu madre y tusG3004
+- Luc_8:21les dijo: Mi madre y mis hermanos sonG2036
+- Luc_8:22les dijo: Pasemos al otro lado del lagoG2036
+- Luc_8:24diciendo: ¡Maestro...que perecemos![[G3004]]
+- Luc_8:25y les dijo: ¿Dónde está vuestra fe?[[G2036]]
+- Luc_8:25y se decían...¿Quién es éste, que aun aG3004
+- Luc_8:30diciendo: ¿Cómo te llamas? Y él dijoG3004, [[G2036]]
+- Luc_8:38le rogaba...Jesús le despidió, diciendoG3004
+- Luc_8:45Jesús dijo: ¿Quién es...me ha tocado?[[G2036]]
+- Luc_8:45dijo Pedro y...Maestro, la multitud teG2036
+- Luc_8:45dices: ¿Quién es el que me ha tocado?[[G2036]]
+- Luc_8:46pero Jesús dijo: Alguien me ha tocadoG2036
+- Luc_8:48él le dijo: Hija, tu fe te ha salvadoG2036
+- Luc_8:49vino uno...a decirle: Tu hija ha muertoG3004
+- Luc_8:52dijo: No lloréis; no está muerta, sinoG2036
+- Luc_8:54él...clamó diciendo: Muchacha, levántateG3004
+- Luc_8:56mandó que a nadie dijesen lo que habíaG2036
+- Luc_9:3les dijo: No toméis nada para el caminoG2036
+- Luc_9:7decían algunos: Juan ha resucitado de losG3004
+- Luc_9:9y dijo Herodes: A Juan...le hice decapitarG2036
+- Luc_9:12dijeron: Despide a la gente, para queG2036
+- Luc_9:13él les dijo: Dadles vosotros de comerG2036
+- Luc_9:13dijeron ellos: No tenemos más que cincoG2036
+- Luc_9:14dijo a sus discípulos: Hacedlos sentarG2036
+- Luc_9:18diciendo: ¿Quién dice la gente que soyG3004, [[[[G3004]]]]
+- Luc_9:20él les dijo: ¿Y vosotros, quién decísG2036, [[G3004]]
+- Luc_9:20respondiendo Pedro, dijo: El Cristo deG2036
+- Luc_9:21él les mandó que a nadie dijesen estoG2036
+- Luc_9:22y diciendo: Es necesario que el HijoG2036
+- Luc_9:23decía a todos: Si alguno quiere venirG3004
+- Luc_9:27digo...que hay algunos de los que estánG3004
+- Luc_9:33Pedro dijo...no sabiendo lo que decíaG2036, [[G3004]]
+- Luc_9:34mientras él decía esto, vino una nubeG3004
+- Luc_9:35decía: Este es mi Hijo amado; a él oídG3004
+- Luc_9:36y ellos...no dijeron nada a nadie de loG518
+- Luc_9:38diciendo: Maestro, te ruego que veas aG3004
+- Luc_9:41Jesús, dijo: ¡Oh generación incrédulaG2036
+- Luc_9:43maravillándose...dijo a sus discípulosG2036
+- Luc_9:48les dijo: Cualquiera que reciba a esteG2036
+- Luc_9:49Juan, dijo: Maestro, hemos visto a unoG2036
+- Luc_9:50dijo: No se lo prohibáis; porque el queG2036
+- Luc_9:54dijeron: Señor, ¿quieres que mandemosG2036
+- Luc_9:55reprendió, diciendo: Vosotros no sabéisG2036
+- Luc_9:57le dijo en el camino: Señor, te seguiréG2036
+- Luc_9:58dijo Jesús: Las zorras tienen guaridasG2036
+- Luc_9:59y dijo a otro: Sígueme. El le d: SeñorG2036, [[[[G2036]]]]
+- Luc_9:60dijo: Deja que los muertos entierren aG2036
+- Luc_9:61también dijo otro: Te seguiré, SeñorG2036
+- Luc_9:62Jesús le dijo: Ninguno que poniendo suG2036
+- Luc_10:2decía: La mies a la verdad es mucha, masG3004
+- Luc_10:5donde entréis...decid: Paz sea a estaG3004
+- Luc_10:9y decidles: Se ha acercado...el reino deG3004
+- Luc_10:10ciudad...saliendo por sus calles, decidG2036
+- Luc_10:12os digo...aquel día será más tolerableG2036
+- Luc_10:17diciendo: Señor, aun los demonios seG3004
+- Luc_10:18les dijo: Yo veía a Satanás caer delG2036
+- Luc_10:21y dijo: Yo te alabo, oh Padre, SeñorG2036
+- Luc_10:23les dijo...Bienaventurados los ojos queG2036
+- Luc_10:24os digo que muchos profetas y reyesG3004
+- Luc_10:25un intérprete de...dijo, para probarleG3004
+- Luc_10:26le dijo: ¿Qué está escrito en la ley?[[G2036]]
+- Luc_10:27dijo: Amarás al Señor tu Dios con todoG2036
+- Luc_10:28dijo: Bien has respondido; haz esto, yG2036
+- Luc_10:29dijo a Jesús: ¿Y quién es mi prójimo?[[G2036]]
+- Luc_10:30dilo: Un hombre descendía de JerusalénG2036
+- Luc_10:35dijo: Cuídamele; y todo lo que gastesG2036
+- Luc_10:37dijo: El que usó de misericordia conG2036
+- Luc_10:37Jesús le dijo: Vé, y haz tú lo mismoG2036
+- Luc_10:40pero Marta...acercándose, dijo: SeñorG2036
+- Luc_10:40servir sola? Dile, pues, que me ayudeG2036
+- Luc_10:41Jesús, le dijo: Marta, Marta, afanadaG2036
+- Luc_11:1le dijo: Señor, enséñanos a orar, comoG2036
+- Luc_11:2les dijo: Cuando oréis, decid: PadreG2036, [[G3004]]
+- Luc_11:5les dijo...¿Quién de vosotros que tengaG2036
+- Luc_11:5y le dice: Amigo, préstame tres panesG2036
+- Luc_11:7le dice: No me molestes; la puerta yaG2036
+- Luc_11:8os digo, que aunque no se levante aG3004
+- Luc_11:9os digo: Pedid, y se os dará; buscad, yG3004
+- Luc_11:15algunos de ellos decían: Por BeelzebúG2036
+- Luc_11:17les dijo: Todo reino dividido contraG2036
+- Luc_11:18ya que decís que por Beelzebú echo yoG3004
+- Luc_11:24dice: Volveré a mi casa de donde salíG3004
+- Luc_11:27mientras él decía estas cosas, unaG3004
+- Luc_11:27una mujer de...levantó la voz y le dijoG2036
+- Luc_11:28él dijo: Antes bienaventurados los queG2036
+- Luc_11:29comenzó a decir: Esta generación esG3004
+- Luc_11:39dijo...vosotros los fariseos limpiáisG2036
+- Luc_11:45le dijo: Maestro, cuando dices estoG3004, [[[[G3004]]]]
+- Luc_11:46él dijo: ¡Ay de vosotros...intérpretesG2036
+- Luc_11:49la sabiduría de Dios...dijo: Le enviaréG2036
+- Luc_11:51os digo que será demandada de estaG3004
+- Luc_11:53diciéndoles él...cosas, los escribasG3004
+- Luc_12:1decir...Guardaos de la levadura de losG3004
+- Luc_12:3todo lo que habéis dicho en tinieblasG2036
+- Luc_12:4mas os digo...No temáis a los que matanG3004
+- Luc_12:5tiene poder...sí, os digo, a éste temedG3004
+- Luc_12:8os digo que todo aquel que me confesareG3004
+- Luc_12:10todo aquel que dijere alguna palabraG2046
+- Luc_12:11de responder, o qué habréis de decirG2036
+- Luc_12:12Espíritu...enseñará...lo que debáis decirG2036
+- Luc_12:13le dijo uno...Maestro, dí a mi hermanoG2036
+- Luc_12:14mas él le dijo: Hombre, ¿quién me haG2036
+- Luc_12:15dijo: Mirad, y guardaos de avariciaG2036
+- Luc_12:16diciendo: La heredad de un hombre ricoG3004
+- Luc_12:17diciendo: ¿Qué haré, porque no tengoG3004
+- Luc_12:18dijo: Esto haré: derribaré...granerosG2036
+- Luc_12:19y diré a mi alma: Alma, muchos bienesG2046
+- Luc_12:20pero Dios le dijo: Necio, esta nocheG2036
+- Luc_12:22dijo...a sus discípulos: Por tanto osG2036
+- Luc_12:22digo: No os afanéis por vuestra vidaG3004
+- Luc_12:27os digo, que ni aun Salomón con toda suG3004
+- Luc_12:37os digo que se ceñirá, y hará que seG3004
+- Luc_12:41le dijo: Señor, ¿dices esta parábola aG2036
+- Luc_12:42dijo el Señor: ¿Quién es el mayordomoG2036
+- Luc_12:44os digo que le pondrá sobre todos susG3004
+- Luc_12:45si aquel siervo dijere...Mi señor tardaG2036
+- Luc_12:51¿pensáis...Os digo: No, sino disensiónG3004
+- Luc_12:54decía...a la multitud: Cuando veis laG3004
+- Luc_12:54luego decís: Agua viene; y así sucedeG3004
+- Luc_12:55sopla el viento del...decís: Hará calorG3004
+- Luc_12:59te digo que no saldrás de allí, hastaG3004
+- Luc_13:2les dijo: ¿Pensáis que estos galileosG2036
+- Luc_13:3,5digo: No; antes si no os arrepentísG3004
+- Luc_13:6dijo...esta parábola: Tenía un hombre unaG3004
+- Luc_13:7dijo al viñador: He aquí, hace tres añosG2036
+- Luc_13:8le dijo: Señor, déjala todavía este añoG3004
+- Luc_13:12y le dijo: Mujer, eres libre de tuG2036
+- Luc_13:14dijo a la gente: Seis días hay en queG3004
+- Luc_13:15el Señor...dijo: Hipócrita, cada uno deG2036
+- Luc_13:17decir él estas cosas, se avergonzabanG3004
+- Luc_13:18dijo: ¿A qué es semejante el reino deG3004
+- Luc_13:20y volvió a decir: ¿A qué compararé elG2036
+- Luc_13:23dijo: Señor, ¿son pocos...Y él les dG2036, [[[[G2036]]]]
+- Luc_13:24os digo que muchos procurarán entrarG3004
+- Luc_13:25diciendo: Señor...ábrenos, él...os diráG3004, [[G2046]]
+- Luc_13:26a decir: Delante de ti hemos comido yG3004
+- Luc_13:27dirá: Os digo que no sé de dónde soisG2046
+- Luc_13:31diciéndole...Herodes te quiere matarG3004
+- Luc_13:32les dijo: Id, y decid a aquella zorraG2036
+- Luc_13:35os digo que no me veréis, hasta queG3004
+- Luc_13:35en que digáis: Bendito el que viene enG2036
+- Luc_14:3diciendo: ¿Es lícito sanar en el día deG3004
+- Luc_14:5dijo: ¿Quién de vosotros, si su asno oG2036
+- Luc_14:7refirió a los...una parábola, diciéndolesG3004
+- Luc_14:9él, te diga: Da lugar a éste; y entoncesG2046
+- Luc_14:10que...te diga: Amigo, sube más arribaG2036
+- Luc_14:12dijo también al que le había convidadoG3004
+- Luc_14:15dijo: Bienaventurado el que coma panG2036
+- Luc_14:16le dijo: Un hombre hizo una gran cenaG2036
+- Luc_14:17envió...decir a los convidados: VenidG2036
+- Luc_14:18primero dijo: He comprado una haciendaG2036
+- Luc_14:19otro dijo: He comprado cinco yuntas deG2036
+- Luc_14:20dijo: Acabo de casarme, y por tanto noG2036
+- Luc_14:21dijo a su siervo: Vé pronto por lasG2036
+- Luc_14:22y dijo el siervo: Señor, se ha hechoG2036
+- Luc_14:23dijo el señor al siervo: Vé por losG2036
+- Luc_14:24os digo que ninguno de aquellos hombresG3004
+- Luc_14:25Iban con él, y volviéndose, les dijoG2036
+- Luc_14:30diciendo: Este...comenzó a edificar, yG3004
+- Luc_15:2diciendo: Este a los pecadores recibeG3004
+- Luc_15:3él les refirió esta parábola, diciendoG3004
+- Luc_15:6,9diciéndoles: Gozaos conmigo, porqueG3004
+- Luc_15:7digo que así habrá más gozo en el cieloG3004
+- Luc_15:10os digo que hay gozo delante de losG3004
+- Luc_15:11también dijo: Un hombre tenía dos hijosG2036
+- Luc_15:12menor...dijo a su padre: Padre, dame laG2036
+- Luc_15:17dijo: ¡Cuantos jornaleros en casa deG2036
+- Luc_15:18iré a mi padre, y le diré: Padre, heG2046
+- Luc_15:21hijo le dijo: Padre, he pecado contraG2036
+- Luc_15:22el padre dijo a sus siervos: Sacad elG2036
+- Luc_15:27dijo: Tu hermano ha venido; y tu padreG2036
+- Luc_15:29dijo al padre: He aquí, tantos años teG2036
+- Luc_15:31dijo: Hijo, tú siempre estás conmigoG2036
+- Luc_16:1dijo...Había un hombre rico que tenía unG3004
+- Luc_16:2dijo: ¿Qué es esto que oigo acerca de tiG2036
+- Luc_16:3el mayordomo dijo para sí: ¿Qué haré?[[G2036]]
+- Luc_16:5dijo al primero: ¿Cuánto debes a mi amo?[[G3004]]
+- Luc_16:6dijo: Cien barriles de aceite. Y le dG2036, [[[[G2036]]]]
+- Luc_16:7dijo a otro: Y tú, ¿cuánto debes? Y élG2036
+- Luc_16:7dijo: Cien medidas de trigo. El le dG2036, [[G3004]]
+- Luc_16:9os digo: Ganad amigos por medio de lasG3004
+- Luc_16:15les dijo: Vosotros sois los que osG2036
+- Luc_16:24dijo: Padre Abraham, ten misericordiaG2036
+- Luc_16:25Abraham le dijo: Hijo, acuérdate queG2036
+- Luc_16:27entonces le dijo: Te ruego...le envíesG2036
+- Luc_16:29Abraham le dijo: A Moisés y a...tienenG3004
+- Luc_16:30él entonces dijo: No, padre AbrahamG2036
+- Luc_16:31Abraham le dijo: Si no oyen a MoisésG2036
+- Luc_17:1dijo Jesús...Imposible es que no venganG2036
+- Luc_17:4ti, diciendo: Me arrepiento; perdónaleG3004
+- Luc_17:5dijeron los apóstoles...Auméntanos la feG2036
+- Luc_17:6el Señor dijo: Si tuvierais fe como unG2036
+- Luc_17:6decir a este sicómoro: Desarráigate, yG3004
+- Luc_17:7luego le dice: Pasa, siéntate a la mesa?[[G2046]]
+- Luc_17:8¿no le dice más bien: Prepárame la cenaG2046
+- Luc_17:10decid: Siervos inútiles somos, pues loG3004
+- Luc_17:13voz, diciendo: ¡Jesús, Maestro, tenG3004
+- Luc_17:14dijo: Id, mostraos a los sacerdotesG2036
+- Luc_17:17dijo: ¿No son diez los que fueronG2036
+- Luc_17:19le dijo: Levántate, vete; tu fe te haG2036
+- Luc_17:20dijo: El reino de Dios no vendrá conG2036
+- Luc_17:21ni dirán: Helo aquí, o helo allíG2046
+- Luc_17:22dijo a sus discípulos: Tiempo vendráG2036
+- Luc_17:23os dirán: Helo aquí, o helo allí. NoG2046
+- Luc_17:34os digo que...estarán dos en una camaG3004
+- Luc_17:37le dijeron: ¿Dónde, Señor? El les dijoG3004, [[G2036]]
+- Luc_18:2diciendo: Había en una ciudad un juezG3004
+- Luc_18:3diciendo: Hazme justicia de...adversarioG3004
+- Luc_18:4dijo...Aunque ni temo a Dios, ni tengoG2036
+- Luc_18:6y dijo el Señor: Oíd lo que d el juezG2036, [[G3004]]
+- Luc_18:8os digo que pronto les hará justiciaG3004
+- Luc_18:9a unos que...dijo también esta parábolaG2036
+- Luc_18:13el pecho, diciendo: Dios, sé propicioG3004
+- Luc_18:14os digo que éste descendió a su casaG3004
+- Luc_18:16dijo: Dejad a los niños venir a mí, yG2036
+- Luc_18:17os digo, que el que no recibe el reinoG3004
+- Luc_18:18diciendo: Maestro bueno, ¿qué haré paraG3004
+- Luc_18:19le dijo: ¿Por qué me llamas bueno?[[G2036]]
+- Luc_18:20no dirás falso testimonio; honra a tuG5576
+- Luc_18:21dijo: Todo esto lo he guardado desdeG2036
+- Luc_18:22le dijo: Aún te falta una cosa: vendeG2036
+- Luc_18:24dijo: ¡Cuán difícilmente entrarán enG2036
+- Luc_18:26dijeron: ¿Quién pues, podrá ser salvo?[[G2036]]
+- Luc_18:27él les dijo: Lo que es imposible paraG2036
+- Luc_18:28Pedro dijo: He aquí, nosotros hemosG2036
+- Luc_18:29dijo...os digo, que no hay nadie que hayaG2036, [[G3004]]
+- Luc_18:31les dijo: He aquí subimos a JerusalénG2036
+- Luc_18:34y no entendían lo que se les decíaG3004
+- Luc_18:37le dijeron que pasaba Jesús nazarenoG518
+- Luc_18:38diciendo: ¡Jesús, Hijo de David, tenG3004
+- Luc_18:41diciendo: ¿Qué quieres que te haga?[[G3004]]
+- Luc_18:41él dijo: Señor, que reciba la vistaG2036
+- Luc_18:42Jesús le dijo: Recíbela, tu fe te haG2036
+- Luc_19:5le dijo: Zaqueo, date prisa, desciendeG2036
+- Luc_19:7diciendo que había entrado a posar conG3004
+- Luc_19:8Zaqueo...dijo al Señor: He aquí, SeñorG2036
+- Luc_19:9dijo: Hoy ha venido la salvación a estaG2036
+- Luc_19:11dijo una parábola, por cuanto estabaG2036
+- Luc_19:12dijo, pues: Un hombre noble se fue a unG2036
+- Luc_19:13les dijo: Negociad entre tanto que vengoG2036
+- Luc_19:14diciendo: No queremos que éste reineG3004
+- Luc_19:16diciendo: Señor, tu mina ha ganado 10G3004
+- Luc_19:17él le dijo: Está bien, buen siervoG2036
+- Luc_19:18diciendo: Señor, tu mina ha producidoG3004
+- Luc_19:19a éste dijo: Tú también sé sobre cincoG2036
+- Luc_19:20diciendo: Señor, aquí está tu mina, laG3004
+- Luc_19:22él le dijo: Mal siervo, por tu propiaG3004
+- Luc_19:24y dijo a los que estaban...Quitadle laG2036
+- Luc_19:25le dijeron: Señor, tiene diez minasG2036
+- Luc_19:26os digo que a todo el que tiene, se leG3004
+- Luc_19:28dicho esto, iba...subiendo a JerusalénG2036
+- Luc_19:30diciendo: Id a la aldea de enfrente, yG2036
+- Luc_19:32fueron los...y hallaron como les dijoG2036
+- Luc_19:33dijeron: ¿Por qué desatáis el pollino?[[G2036]]
+- Luc_19:34dijeron: Porque el Señor lo necesitaG2036
+- Luc_19:38diciendo: ¡Bendito el rey que viene enG3004
+- Luc_19:39le dijeron: Maestro, reprende a tusG2036
+- Luc_19:40dijo: Os digo que si éstos callaran, lasG2036
+- Luc_19:42diciendo: ¡Oh, si...tú conocieses, a loG3004
+- Luc_19:46diciéndoles: Escrito está: Mi casa esG3004
+- Luc_20:2diciendo: Dinos: ¿con qué autoridadG3004
+- Luc_20:3dijo: Os haré yo también una preguntaG2036
+- Luc_20:5diciendo: Si decimos, del cielo, diráG3004, [[G2036]],2046
+- Luc_20:6si decimos, de los hombres...el puebloG2036
+- Luc_20:8Jesús les dijo: Yo tampoco os diré conG2036
+- Luc_20:9comenzó...decir al pueblo esta parábolaG3004
+- Luc_20:13el señor de la viña dijo: ¿Qué haré?[[G2036]]
+- Luc_20:14diciendo: Este es el heredero; venidG3004
+- Luc_20:16oyeron esto, dijeron: ¡Dios nos libre![[G2036]]
+- Luc_20:17dijo: ¿Qué...es lo que está escrito?[[G2036]]
+- Luc_20:19contra ellos había dicho esta parábolaG2036
+- Luc_20:21diciendo: Maestro, sabemos que dices yG3004, [[[[G3004]]]]
+- Luc_20:23mas él...les dijo: ¿Por qué me tentáis?[[G2036]]
+- Luc_20:24y respondiendo dijeron: De CésarG2036
+- Luc_20:25les dijo: Pues dad a César lo que es deG2036
+- Luc_20:28diciendo...Moisés nos escribió: Si elG3004
+- Luc_20:34dijo: Los hijos de este siglo se casanG2036
+- Luc_20:39dijeron: Maestro, bien has dichoG2036
+- Luc_20:41les dijo: ¿Cómo dicen que el Cristo esG2036, [[[[G2036]]]]
+- Luc_20:42David dice en el libro de los SalmosG3004
+- Luc_20:42dijo el Señor a mi Señor: Siéntate aG2036
+- Luc_20:45oyéndolo todo...dijo a sus discípulosG2036
+- Luc_21:3dijo: En verdad os digo que esta viudaG2036, [[G3004]]
+- Luc_21:5de que el templo estaba adornado...dijoG2036
+- Luc_21:7diciendo: Maestro, ¿cuándo será esto?[[G3004]]
+- Luc_21:8dijo; Mirad que no seáis engañadosG2036
+- Luc_21:8vendrán...diciendo: Yo soy el Cristo, yG3004
+- Luc_21:10les dijo: Se levantará nación contraG3004
+- Luc_21:29les dijo una parábola: Mirad la higueraG2036
+- Luc_21:32os digo, que no pasará esta generaciónG3004
+- Luc_22:8diciendo: Id, preparadnos la pascua paraG2036
+- Luc_22:9ellos le dijeron: ¿Dónde quieres que laG2036
+- Luc_22:10dijo: He aquí, al entrar en la ciudadG2036
+- Luc_22:11decid al padre de familia de esa casaG2046
+- Luc_22:11el Maestro te dice: ¿Dónde está elG3004
+- Luc_22:13fueron...hallaron como les había dichoG2046
+- Luc_22:15y les dijo: ¡Cuánto he deseado comerG2036
+- Luc_22:16digo que no la comeré más, hasta queG3004
+- Luc_22:17dijo: Tomad esto, y repartidlo entreG2036
+- Luc_22:18os digo que no beberé más del fruto deG3004
+- Luc_22:19diciendo: Esto es mi cuerpo, que porG3004
+- Luc_22:20diciendo: Esta copa es el nuevo pactoG3004
+- Luc_22:25él les dijo: Los reyes de las nacionesG2036
+- Luc_22:31dijo también el Señor: Simón, SimónG2036
+- Luc_22:33le dijo: Señor, dispuesto estoy a irG2036
+- Luc_22:34le dijo: Pedro, te digo que el gallo noG2036, [[G3004]]
+- Luc_22:35a ellos dijo: Cuando os envié sin bolsaG2036
+- Luc_22:35¿os faltó algo? Ellos dijeron: NadaG2036
+- Luc_22:36dijo: Pues ahora, el que tiene bolsaG2036
+- Luc_22:37os digo que es necesario que se cumplaG3004
+- Luc_22:38dijeron...hay dos espadas...dijo: BastaG2036, [[[[G2036]]]]
+- Luc_22:40dijo: Orad que no entréis en tentaciónG2036
+- Luc_22:42diciendo: Padre, si quieres, pasa de míG3004
+- Luc_22:46les dijo: ¿Por qué dormís? LevantaosG2036
+- Luc_22:48dijo: Judas, ¿con un beso entregas alG2036
+- Luc_22:49dijeron: Señor, ¿heriremos a espada?[[G2036]]
+- Luc_22:51dijo: Basta ya; dejad. Y...le sanóG2036
+- Luc_22:52dijo a los principales sacerdotes, aG2036
+- Luc_22:56y dijo: También éste estaba con élG2036
+- Luc_22:57negó, diciendo: Mujer, no lo conozcoG3004
+- Luc_22:58otro, dijo: Tú también eres de ellosG5346
+- Luc_22:58eres...Y Pedro dijo: Hombre, no lo soyG2036
+- Luc_22:59diciendo: Verdaderamente también ésteG3004
+- Luc_22:60Pedro dijo: Hombre, no sé lo que dicesG2036, [[G3004]]
+- Luc_22:61había dicho: Antes que el gallo canteG2036
+- Luc_22:64diciendo: Profetiza, ¿quién es el queG3004
+- Luc_22:65decían otras muchas cosas injuriándoleG3004
+- Luc_22:66y le trajeron al concilio, diciendoG3004
+- Luc_22:67¿eres tú el Cristo? Dínoslo. Y él lesG2036
+- Luc_22:67les dijo: Si os lo dijere, no creeréisG2036
+- Luc_22:70dijeron todos: ¿Luego eres tú el HijoG2036
+- Luc_22:70él les dijo: Vosotros decís que lo soyG3004
+- Luc_22:71ellos dijeron: ¿Qué más testimonioG2036
+- Luc_23:2diciendo: A éste hemos hallado queG3004
+- Luc_23:2diciendo que él mismo es el Cristo, unG3004
+- Luc_23:3diciendo: ¿Eres...el Rey de los judíos?[[G3004]]
+- Luc_23:3respondiéndole él, dijo: Tú lo dicesG5346
+- Luc_23:4Pilato dijo a los...Ningún delito halloG2036
+- Luc_23:5porfiaban, diciendo: Alborota al puebloG3004
+- Luc_23:6Pilato, oyendo decir, Galilea, preguntó
+- Luc_23:14les dijo: Me habéis presentado a ésteG2036
+- Luc_23:18diciendo: ¡Fuera con éste, y suéltanosG3004
+- Luc_23:21diciendo: ¡Crucifícale, crucifícale![[G3004]]
+- Luc_23:22les dijo por tercera vez: ¿Pues qué malG2036
+- Luc_23:28Jesús...les dijo: Hijas de Jerusalén, noG2036
+- Luc_23:29dirán: Bienaventuradas las estérilesG2046
+- Luc_23:30comenzarán a decir a los montes: CaedG3004
+- Luc_23:34decía: Padre, perdónalos, porque noG3004
+- Luc_23:35diciendo: A otros salvó; sálvese a síG3004
+- Luc_23:37y diciendo: Si tú eres el Rey de losG3004
+- Luc_23:39diciendo: Si tú eres el Cristo, sálvateG3004
+- Luc_23:40diciendo: ¿Ni aun temes tú a DiosG3004
+- Luc_23:42dijo a Jesús: Acuérdate de mí cuandoG3004
+- Luc_23:43Jesús le dijo. De cierto te digo queG2036
+- Luc_23:46dijo: Padre, en tus manos encomiendoG2036
+- Luc_23:46y habiendo dicho esto, expiróG2036
+- Luc_23:47diciendo: Verdaderamente este...era justoG3004
+- Luc_24:5les dijeron: ¿Por qué buscáis entre losG2036
+- Luc_24:7diciendo: Es necesario que el Hijo delG3004
+- Luc_24:10dijeron estas cosas a los apóstolesG3004
+- Luc_24:17les dijo: ¿Qué pláticas son estas queG2036
+- Luc_24:18le dijo: ¿Eres tú el único forasteroG2036
+- Luc_24:19dijo: ¿Qué cosas? Y ellos le dijeronG2036
+- Luc_24:23diciendo que...habían visto visión deG3004
+- Luc_24:23ángeles, quienes dijeron que él viveG2036
+- Luc_24:24como las mujeres habían dicho, pero aG2036
+- Luc_24:25él les dijo: ¡Oh insensatos, y tardosG2036
+- Luc_24:25creer...lo que los profetas han dicho![[G2980]]
+- Luc_24:27les declaraba en...lo que de él decían
+- Luc_24:29ellos...diciendo: Quédate con nosotrosG3004
+- Luc_24:32se decían...¿No ardía nuestro corazónG2036
+- Luc_24:34que decían. Ha resucitado el SeñorG3004
+- Luc_24:36Jesús se...y les dijo. Paz a vosotrosG3004
+- Luc_24:38les dijo: ¿Por qué estáis turbados yG2036
+- Luc_24:40diciendo esto, les mostró las manos yG2036
+- Luc_24:41les dijo: ¿Tenéis aquí algo de comer?[[G2036]]
+- Luc_24:44les dijo: Estas son las palabras queG2036
+- Luc_24:46les dijo: Así está escrito, y así fueG2036
+- Jn 1:15diciendo: Este es quien yo decíaG2036
+- Jn 1:21dijo: No soy. ¿Eres tú el profeta?[[G3004]]
+- Jn 1:22dijeron: ¿Pues quién eres?...¿Qué dicesG2036
+- Jn 1:23dijo: Yo soy la voz de uno que clama enG5346
+- Jn 1:23que clama...como dijo el profeta IsaíasG2036
+- Jn 1:25le dijeron: ¿Por qué, pues, bautizas, siG2036
+- Jn 1:26les respondió diciendo: Yo bautizo conG3004
+- Jn 1:29dijo: He aquí el Cordero de Dios, queG3004
+- Jn 1:30es aquel de quien yo dije: Después de míG2036
+- Jn 1:32diciendo: Vi al Espíritu que descendíaG3004
+- Jn 1:33me dijo: Sobre quien veas descender elG2036
+- Jn 1:36allí, dijo: He aquí el Cordero de DiosG3004
+- Jn 1:38Jesús...les dijo: ¿Qué bucáis? Ellos leG3004
+- Jn 1:38ellos le dijeron: Rabí...¿dónde moras?[[G2036]]
+- Jn 1:39les dijo: Venid y ved. Fueron, y vieronG3004
+- Jn 1:41le dijo: Hemos hallado al Mesías (queG3004
+- Jn 1:42llamado Cefas (que quiere decir, Pedro)[[G2036]]
+- Jn 1:43y halló a Felipe, y le dijo: SíguemeG3004
+- Jn 1:45le dijo: Hemos hallado a aquel de quienG3004
+- Jn 1:46Natanael le dijo: ¿De dónde me conoces?[[G2036]]
+- Jn 1:48y le dijo: Antes que Felipe te llamaraG3004
+- Jn 1:49le dijo: Rabí, tú eres el hijo de DiosG3004
+- Jn 1:50le dijo: ¿Porque te dije: Te vi debajoG2036
+- Jn 1:51dijo...os digo: De aquí adelante veréisG3004
+- Jn 2:3la madre de Jesús le dijo: No tienen vinoG3004
+- Jn 2:4dijo: ¿Qué tienes conmigo, mujer? Aún noG3004
+- Jn 2:5madre dijo...Haced todo lo que os dijereG3004
+- Jn 2:7Jesús les dijo. Llenad estas tinajas deG3004
+- Jn 2:8les dijo: Sacad ahora y llevadlo alG3004
+- Jn 2:10le dijo: Todo hombre sirve primero elG3004
+- Jn 2:16dijo a los que vendían palomas: QuitadG2036
+- Jn 2:18y le dijeron: ¿Qué señal nos muestrasG2036
+- Jn 2:19dijo: Destruid este templo, y en tresG2036
+- Jn 2:20dijeron luego los judíos: En 46 años fueG2036
+- Jn 2:22discípulos se acordaron que había dichoG3004
+- Jn 2:22creyeron...la palabra que...había dichoG2036
+- Jn 3:2y le dijo: Rabí, sabemos que has venidoG2036
+- Jn 3:3le dijo...te digo, que el que no naciereG2036
+- Jn 3:4dijo: ¿Cómo puede un hombre nacer siendoG3004
+- Jn 3:5te digo, que el que no naciere de agua yG3004
+- Jn 3:7no te maravilles de que te dije os esG2036
+- Jn 3:9Nicodemo y le dijo: ¿Cómo puede hacerseG2036
+- Jn 3:10le dijo: ¿Eres tú maestro de Israel, yG2036
+- Jn 3:11te digo, que lo que sabemos hablamosG3004
+- Jn 3:12si os he dicho cosas terrenales, y noG2036
+- Jn 3:12creeréis si os dijere las celestiales?[[G2036]]
+- Jn 3:26dijeron: Rabí, mira que el que estabaG2036
+- Jn 3:27dijo: No puede el hombre recibir nadaG2036
+- Jn 3:28de que dije: Yo no soy el Cristo, sinoG2036
+- Jn 4:1fariseos habían oído decir: Jesús hace
+- Jn 4:7una mujer...Jesús le dijo: Dame de beberG3004
+- Jn 4:9dijo: ¿Cómo tú, siendo judío, me pides aG3004
+- Jn 4:10le dijo: Si conocieras el don de DiosG2036
+- Jn 4:10y quién es el que te dice: Dame de beberG3004
+- Jn 4:11la mujer le dijo: Señor, no tienes conG3004
+- Jn 4:13dijo: Cualquiera que bebiere de esta aguaG2036
+- Jn 4:15mujer le dijo: Señor, dame de esa aguaG3004
+- Jn 4:16Jesús le dijo: Vé, llama a tu marido, yG3004
+- Jn 4:17mujer y dijo: No tengo marido. Jesús leG2036
+- Jn 4:17le dijo: Bien has dicho: No tengo maridoG2036
+- Jn 4:18es tu marido; esto has dicho con verdadG2046
+- Jn 4:19le dijo la mujer: Señor, me parece queG3004
+- Jn 4:20vosotros decís que en Jerusalén es elG3004
+- Jn 4:21dijo: Mujer, créeme, que la hora vieneG3004
+- Jn 4:25le dijo la mujer: Sé que ha de venir elG3004
+- Jn 4:26le dijo: Yo soy, el que habla contigoG3004
+- Jn 4:27ninguno dijo: ¿Qué preguntas?, o, ¿QuéG2036
+- Jn 4:28y fue a la ciudad, y dijo a los hombresG3004
+- Jn 4:29un hombre que me ha dicho todo cuantoG2036
+- Jn 4:31discípulos le rogaban, diciendo...comeG3004
+- Jn 4:32les dijo: Yo tengo una comida que comerG2036
+- Jn 4:33decían unos a...¿Le habrá traído alguienG3004
+- Jn 4:34Jesús les dijo: Mi comida es que hagaG3004
+- Jn 4:35¿no decís vosotros: Aún faltan 4 mesesG3004
+- Jn 4:35os digo: Alzad vuestro ojos y mirad losG3004
+- Jn 4:39diciendo: Me dijo todo lo que he hechoG2036
+- Jn 4:42decían a la mujer: Ya no creemos...por tuG3004
+- Jn 4:48Jesús le dijo: Si no viereis señales yG2036
+- Jn 4:49le dijo: Señor, desciende antes que miG3004
+- Jn 4:50Jesús le dijo: Vé, tu hijo vive. Y elG3004
+- Jn 4:50creyó la palabra que Jesús le dijo, yG2036
+- Jn 4:51le dieron nuevas, diciendo: Tu hijo viveG518
+- Jn 4:52le dijeron: Ayer a las siete le dejó laG2036
+- Jn 4:53le había dicho: Tu hijo vive; y creyóG3004
+- Jn 5:6Jesús lo vio...le dijo: ¿Quieres ser sano?[[G3004]]
+- Jn 5:8Jesús le dijo: Levántate, toma tu lechoG3004
+- Jn 5:10dijeron a aquel que había sido sanadoG3004
+- Jn 5:11él mismo me dijo: Toma tu lecho y andaG2036
+- Jn 5:12¿quién es el que te dijo: Toma tu lechoG2036
+- Jn 5:14Jesús...le dijo: Mira, has sido sanadoG2036
+- Jn 5:18también decía que Dios era su...PadreG3004
+- Jn 5:19les dijo: De cierto, de cierto os digoG2036
+- Jn 5:24os digo: El que oye mi palabra, y creeG3004
+- Jn 5:25cierto os digo: Viene la hora, y ahoraG3004
+- Jn 5:34mas digo esto, para que...seáis salvosG3004
+- Jn 6:5dijo a Felipe: ¿De dónde compraremos panG3004
+- Jn 6:6pero esto decía para probarle; porque élG3004
+- Jn 6:8Andrés, hermano de Simón Pedro, le dijoG3004
+- Jn 6:10Jesús dijo: Haced recostar la genteG2036
+- Jn 6:12dijo a sus discípulos: Recoged...pedazosG3004
+- Jn 6:14viendo...dijeron: Este es el profetaG3004
+- Jn 6:20mas él les dijo: Yo soy; no temáisG3004
+- Jn 6:25dijeron: Rabí ¿cuándo llegaste acá?[[G2036]]
+- Jn 6:28dijeron:¿Que debemos hacer para ponerG2036
+- Jn 6:30dijeron: ¿Qué señal, pues, haces túG2036
+- Jn 6:32dijo...os digo: No os dio Moisés el panG2036
+- Jn 6:34dijeron: Señor danos siempre este panG2036
+- Jn 6:35Jesús les dijo: Yo soy el pan de vidaG2036
+- Jn 6:36os he dicho, que aunque me habéis vistoG2036
+- Jn 6:41dicho: Yo soy el pan que descendió delG2036
+- Jn 6:42¿cómo...dice...Del cielo ha descendido?[[G3004]]
+- Jn 6:43les dijo: No murmuréis entre vosotrosG2036
+- Jn 6:47os digo: El que cree en mí, tiene vidaG3004
+- Jn 6:52diciendo: ¿Cómo puede éste darnos aG3004
+- Jn 6:53les dijo...digo: Si no coméis la carneG2036
+- Jn 6:59cosas dijo en la sinagoga, enseñando enG2036
+- Jn 6:60sus discípulos dijeron: Dura es estaG2036
+- Jn 6:61sabiendo Jesús...dijo: ¿Esto os ofende?[[G2036]]
+- Jn 6:65dijo: Por eso os he dicho que ningunoG3004
+- Jn 6:67dijo...a los doce: ¿Queréis acaso irosG2036
+- Jn 7:3le dijeron sus hermanos: Sal de aquí, yG2036
+- Jn 7:6les dijo. Mi tiempo aún no ha llegadoG3004
+- Jn 7:9y habiéndoles dicho esto se quedó enG2036
+- Jn 7:11buscaban...y decían: ¿Dónde está aquél?[[G3004]]
+- Jn 7:12decían: Es bueno; pero otros decían: NoG3004
+- Jn 7:15diciendo: ¿Cómo sabe éste letras, sinG3004
+- Jn 7:16Jesús les...dijo: Mi doctrina no es míaG2036
+- Jn 7:20y dijo: Demonio tienes; ¿quién procuraG2036
+- Jn 7:21Jesús...les dijo: Una obra hice, y todosG2036
+- Jn 7:25decían...unos en Jerusalén: ¿No es ésteG3004
+- Jn 7:26habla públicamente, y no le dicen nadaG3004
+- Jn 7:28y dijo: A mí me conocéis, y sabéis deG3004
+- Jn 7:31decían: El Cristo, cuando venga, ¿haráG3004
+- Jn 7:33dijo: Todavía un poco de tiempo estaréG2036
+- Jn 7:35judíos dijeron entre sí: ¿Adónde se iráG2036
+- Jn 7:36significa esto que dijo: Me buscaréisG2036
+- Jn 7:37diciendo: Si alguno tiene sed, venga aG3004
+- Jn 7:38como dice la Escritura, de su interiorG2036
+- Jn 7:39esto dijo del Espíritu que habían deG2036
+- Jn 7:40decían: Verdaderamente...es el profetaG3004
+- Jn 7:41otros decían: Este es el Cristo. PeroG3004
+- Jn 7:41algunos decían: ¿De Galilea ha de venirG3004
+- Jn 7:42¿no dice la escritura que del linaje deG2036
+- Jn 7:45dijeron ¿Por qué no le habéis traído?[[G2036]]
+- Jn 7:50les dijo Nicodemo, el que vino a él deG3004
+- Jn 7:52le dijeron: ¿Eres tú también galileo?[[G2036]]
+- Jn 8:4le dijeron: Maestro, esta mujer ha sidoG3004
+- Jn 8:5apedrear a tales mujeres...¿qué dices?[[G3004]]
+- Jn 8:6decían tentándole, para poder acusarleG3004
+- Jn 8:7dijo: El que de vosotros esté sin pecadoG2036
+- Jn 8:10le dijo: Mujer, ¿dónde están los que teG2036
+- Jn 8:11dijo: Ninguno, Señor. Entonces Jesús leG2036
+- Jn 8:11Jesús le dijo: Ni yo te condeno; veteG2036
+- Jn 8:12diciendo: Yo soy la luz del mundo; elG3004
+- Jn 8:13dijeron: Tú das testimonio acerca de tiG2036
+- Jn 8:14dijo: Aunque yo doy testimonio acercaG2036
+- Jn 8:19ellos le dijeron: ¿Dónde está tu Padre?[[G3004]]
+- Jn 8:21dijo Jesús: Yo me voy, y me buscaréisG2036
+- Jn 8:22decían entonces los judíos: ¿Acaso seG3004
+- Jn 8:22que dice: A donde yo voy, vosotros noG3004
+- Jn 8:23dijo: Vosotros sois de abajo, yo soy deG2036
+- Jn 8:24dije que moriréis en vuestros pecadosG2036
+- Jn 8:25entonces le dijeron: ¿Tú quién eres?[[G3004]]
+- Jn 8:25lo que desde el principio os he dichoG3004
+- Jn 8:26muchas cosas tengo que decir y juzgarG2980
+- Jn 8:28dijo...Cuando hayáis levantado al HijoG2036
+- Jn 8:31dijo...a los judíos que habían creídoG3004
+- Jn 8:33nadie. ¿Cómo dices tú: Seréis libres?[[G3004]]
+- Jn 8:34digo, que todo aquel que hace pecadoG3004
+- Jn 8:39y le dijeron: Nuestro padre es AbrahamG2036
+- Jn 8:39les dijo: Si fueseis hijos de AbrahamG3004
+- Jn 8:41dijeron: Nosotros no somos nacidos deG2036
+- Jn 8:42les dijo: Si vuestro padre fuese DiosG2036
+- Jn 8:45mí, porque digo la verdad, no me creéisG3004
+- Jn 8:46si digo la verdad, ¿por qué vosotros noG3004
+- Jn 8:48dijeron: ¿No decimos bien...que tú eresG2036
+- Jn 8:51os digo, que el que guarda mi palabraG3004
+- Jn 8:52le dijeron: Ahora conocemos que tienesG2036
+- Jn 8:52tú dices: El que guarda mi palabra nuncaG3004
+- Jn 8:54que vosotros decís que es vuestro DiosG3004
+- Jn 8:55y si dijere que no le conozco, seríaG2036
+- Jn 8:57le dijeron los judíos: Aún no tienes 50G2036
+- Jn 8:58dijo...os digo: Antes que Abraham fueseG3004
+- Jn 9:2diciendo: Rabí, ¿quién pecó, éste o susG3004
+- Jn 9:6dicho esto, escupió en tierra, e hizoG2036
+- Jn 9:7le dijo: Vé a lavarte en el estanque deG2036
+- Jn 9:8decían: ¿No es éste el que se sentaba yG3004
+- Jn 9:9unos decían: El es; y...El decía: Yo soyG3004
+- Jn 9:10le dijeron: ¿Cómo te fueron abiertos losG3004
+- Jn 9:11y dijo: Aquel hombre que se llama JesúsG2036
+- Jn 9:11me dijo: Vé al Siloé, y lávate; y fuiG2036
+- Jn 9:12dijeron: ¿Dónde está él? El dijo: No séG2036
+- Jn 9:15les dijo: Me puso lodo sobre los ojosG2036
+- Jn 9:16decían: Ese hombre no procede de DiosG3004
+- Jn 9:16decían: ¿Cómo puede un hombre pecadorG3004
+- Jn 9:17a decirle al ciego: ¿Qué dices tú delG3004
+- Jn 9:17abrió los ojos? El dijo: Que es profetaG2036
+- Jn 9:19diciendo: ¿Es este vuestro hijo, el queG3004
+- Jn 9:19el que vosotros decís que nació ciego?[[G3004]]
+- Jn 9:20dijeron: Sabemos que...es nuestro hijoG2036
+- Jn 9:22esto dijeron sus padres...tenían miedoG2036
+- Jn 9:23por eso dijeron sus padres: Edad tieneG2036
+- Jn 9:24le dijeron: Da gloria a Dios; nosotrosG2036
+- Jn 9:25respondió y dijo: Si es pecador, no loG2036
+- Jn 9:26volvieron a decir: ¿Qué te hizo? ¿CómoG2036
+- Jn 9:27él respondió: Ya os lo he dicho, y noG2036
+- Jn 9:28y dijeron: Tú eres su discípulo, peroG2036
+- Jn 9:30les dijo: Pues esto es lo maravillosoG2036
+- Jn 9:32oído decir que alguno abriese los ojos
+- Jn 9:34dijeron: Tú naciste del todo en pecadoG2036
+- Jn 9:35le dijo: ¿Crees tú en el Hijo de Dios?[[G2036]]
+- Jn 9:36dijo: ¿Quién es, Señor, para que crea enG2036
+- Jn 9:37le dijo Jesús: Pues le has visto, y elG2036
+- Jn 9:38y él dijo: Creo, Señor; y le adoróG5346
+- Jn 9:39dijo Jesús: Para juicio he venido yo aG2036
+- Jn 9:40dijeron: ¿Acaso nosotros somos tambiénG2036
+- Jn 9:41decís: Vemos, vuestro pecado permaneceG2036
+- Jn 10:1os digo: El que no entra por la puertaG3004
+- Jn 10:6alegoría les dijo Jesús; pero ellos noG2036
+- Jn 10:6no entendieron qué era lo que les decíaG2980
+- Jn 10:7a decirles...os digo: Yo soy la puerta deG2036
+- Jn 10:20muchos de ellos decían: Demonio tieneG3004
+- Jn 10:21decían otros: Estas palabras no son deG3004
+- Jn 10:24le dijeron: ¿Hasta cuándo nos turbarásG3004
+- Jn 10:24el alma? Si tú eres el Cristo, dínosloG2036
+- Jn 10:25respondió: Os lo he dicho, y no creéisG2036
+- Jn 10:26no sois de mis ovejas, como os he dichoG2036
+- Jn 10:33diciendo: Por...obra no te apedreamosG3004
+- Jn 10:34en vuestra ley: Yo dije, dioses sois?[[G2036]]
+- Jn 10:36decís: Tú blasfemas, porque dije: HijoG3004
+- Jn 10:41y decían: Juan, a la verdad, ningunaG3004
+- Jn 10:41lo que Juan dijo de éste, era verdadG2036
+- Jn 11:3enviaron...decir a Jesús: Señor, he aquíG3004
+- Jn 11:4dijo: Esta enfermedad no es para muerteG2036
+- Jn 11:7dijo a los discípulos: Vamos a JudeaG3004
+- Jn 11:8le dijeron los discípulos: Rabí, ahoraG3004
+- Jn 11:11dicho esto, les dijo después: NuestroG2036
+- Jn 11:12dijeron entonces sus discípulos: SeñorG2036
+- Jn 11:13Jesús decía esto de la muerte de LázaroG2036
+- Jn 11:14les dijo claramente: Lázaro ha muertoG2036
+- Jn 11:16dijo entonces Tomás...Vamos tambiénG2036
+- Jn 11:21Marta dijo a Jesús: Señor, si hubiesesG2036
+- Jn 11:23Jesús le dijo: Tu hermano resucitaráG3004
+- Jn 11:24Marta le dijo: Yo sé que resucitará enG3004
+- Jn 11:25le dijo Jesús: Yo soy la resurrecciónG2036
+- Jn 11:27le dijo: Sí, Señor; yo he creído queG3004
+- Jn 11:28dicho esto, fue y llamó a María suG2036
+- Jn 11:28diciéndole...El Maestro está aquí y teG2036
+- Jn 11:31diciendo: Va al sepulcro a llorar allíG3004
+- Jn 11:32diciéndole: Señor, si hubieses estadoG3004
+- Jn 11:34dijo: ¿Dónde le pusisteis? Le dijeronG2036
+- Jn 11:36dijeron...judíos: Mirad cómo le amabaG3004
+- Jn 11:37algunos...dijeron: No podía éste, queG2036
+- Jn 11:39dijo Jesús: Quitad la piedra. Marta, laG3004
+- Jn 11:39Marta...dijo: Señor, hiede ya, porqueG3004
+- Jn 11:40le dijo: ¿No te he dicho que si creesG3004
+- Jn 11:41Jesús...dijo: Padre, gracias te doy porG2036
+- Jn 11:42pero lo dije por causa de la multitudG2036
+- Jn 11:43habiendo dicho esto, clamó a gran vozG2036
+- Jn 11:44Jesús les dijo: Desatadle, y dejadle irG3004
+- Jn 11:46les dijeron lo que Jesús había hechoG2036
+- Jn 11:47y dijeron: ¿Qué haremos? Porque esteG3004
+- Jn 11:49Caifás...dijo. Vosotros no sabéis nadaG2036
+- Jn 11:51esto no lo dijo por sí mismo, sino queG2036
+- Jn 12:4y dijo uno de sus discípulos, JudasG3004
+- Jn 12:6dijo esto...porque era ladrón, y...substraíaG2036
+- Jn 12:7Jesús dijo: Déjala; para el día de miG2036
+- Jn 12:19dijeron...Ya veis que no conseguís nadaG2036
+- Jn 12:21diciendo: Señor, quisiéramos ver a JesúsG3004
+- Jn 12:22fue y se lo dijo a Andrés; entoncesG3004
+- Jn 12:22Andrés y Felipe se lo dijeron a JesúsG3004
+- Jn 12:23diciendo: Ha llegado la hora para queG3004
+- Jn 12:24os digo, que si el grano de trigo noG3004
+- Jn 12:27¿y qué diré? ¿Padre, sálvame de estaG2036
+- Jn 12:29oído...decía que había sido un truenoG3004
+- Jn 12:29otros decían: Un ángel le ha habladoG3004
+- Jn 12:30dijo: No ha venido esta voz por causaG2036
+- Jn 12:33y decía esto dando a entender de quéG3004
+- Jn 12:34dices tú que es necesario que el HijoG3004
+- Jn 12:35Jesús les dijo: Aún por un poco está laG2036
+- Jn 12:38dijo: Señor, ¿quién ha creído a nuestroG2036
+- Jn 12:39no podían creer...también dijo IsaíasG2036
+- Jn 12:41Isaías dijo esto cuando vio su gloriaG2036
+- Jn 12:44Jesús clamó y dijo: El que cree en míG2036
+- Jn 12:49dio mandamiento de lo que he de decirG2036
+- Jn 12:50lo hablo como el Padre me lo ha dichoG2046
+- Jn 13:6Pedro le dijo: Señor, ¿tú me lavas losG3004
+- Jn 13:7Jesús y le dijo: Lo que yo hago, tú noG2036
+- Jn 13:8Pedro le dijo No me lavarás los piesG3004
+- Jn 13:9le dijo Simón...Señor, no sólo mis piesG3004
+- Jn 13:10dijo: El que está lavado, no necesitaG3004
+- Jn 13:11por eso dijo: No estáis limpios todosG2036
+- Jn 13:12les dijo:¿Sabéis lo que os he hecho?[[G2036]]
+- Jn 13:13llamáis Maestro, y Señor; y decís bienG3004
+- Jn 13:16os digo: El siervo no es mayor que suG3004
+- Jn 13:19os lo digo antes que suceda, para queG3004
+- Jn 13:20digo: El que recibe al que yo enviareG3004
+- Jn 13:21habiendo dicho...esto, se conmovió enG2036
+- Jn 13:21dijo...os digo, que uno de vosotros meG3004
+- Jn 13:25él entonces...dijo: Señor, ¿quién es?[[G3004]]
+- Jn 13:27le dijo: Lo que vas a hacer, hazlo másG3004
+- Jn 13:28ninguno...entendió por qué le dijo estoG2036
+- Jn 13:29decía: Compra lo que necesitamos paraG3004
+- Jn 13:31dijo Jesús: Ahora es glorificado elG3004
+- Jn 13:33como dije a los judíos, así os digoG2036
+- Jn 13:36le dijo Simón Pedro: Señor, ¿a dóndeG3004
+- Jn 13:37le dijo Pedro: Señor, ¿por qué no teG3004
+- Jn 13:38te digo: No cantará el gallo, sin queG3004
+- Jn 14:2si así no fuera, yo os lo hubiera dichoG2036
+- Jn 14:5dijo Tomás: Señor, no sabemos a dóndeG3004
+- Jn 14:6Jesús le dijo: Yo soy el camino, y laG3004
+- Jn 14:8Felipe le dijo: Señor, muéstranos elG3004
+- Jn 14:9Jesús le dijo: ¿Tanto tiempo hace queG3004
+- Jn 14:9¿cómo...dices tú...Muéstranos el Padre?[[G3004]]
+- Jn 14:12os digo: El que en mí cree, las obrasG3004
+- Jn 14:22le dijo Judas...Señor, ¿cómo es que leG3004
+- Jn 14:23y le dijo: El que me ama, mi palabraG2036
+- Jn 14:25dicho estas cosas estando con vosotrosG2980
+- Jn 14:26recordará todo lo que yo os he dichoG2036
+- Jn 14:28oído que yo os he dicho: Voy, y vengoG2036
+- Jn 14:28he dicho que voy al Padre; porque elG2036
+- Jn 14:29ahora os lo he dicho antes que sucedaG2046
+- Jn 15:20acordaos de la palabra que...he dichoG2036
+- Jn 16:4os he dicho estas cosas, para que cuandoG2980
+- Jn 16:4os acordéis de que ya os lo había dichoG2036
+- Jn 16:4no os lo dije al principio, porque yoG2036
+- Jn 16:6porque os he dicho estas cosas, tristezaG2980
+- Jn 16:7os digo la verdad: Os conviene que yo meG3004
+- Jn 16:12tengo muchas cosas que deciros, peroG3004
+- Jn 16:15por eso dije que tomará de lo mío, y osG2036
+- Jn 16:17se dijeron algunos de sus discípulosG2036
+- Jn 16:17¿qué es esto que nos dice: Todavía unG3004
+- Jn 16:18decían...¿Qué quiere decir con: TodavíaG3004
+- Jn 16:19les dijo: ¿Preguntáis...esto que dijeG2036
+- Jn 16:20cierto les digo, que vosotros lloraréisG3004
+- Jn 16:23os digo, que todo cuanto pidiereis alG3004
+- Jn 16:26no os digo que yo rogaré al Padre porG3004
+- Jn 16:29dijeron sus discípulos: He aquí ahoraG3004
+- Jn 16:29claramente, y ninguna alegoría dicesG3004
+- Jn 17:1Jesús...dijo: Padre, la hora ha llegadoG2980
+- Jn 18:1habiendo dicho Jesús estas cosas, salióG2036
+- Jn 18:4adelantó y les dijo: ¿A quién buscáis?[[G2036]]
+- Jn 18:5dijo: Yo soy. Y...con ellos Judas, el queG3004
+- Jn 18:6les dijo: Yo soy...y cayeron a tierraG2036
+- Jn 18:7¿a quién...ellos dijeron: A Jesús nazarenoG2036
+- Jn 18:8Jesús: Os he dicho que yo soy; pues siG2036
+- Jn 18:9se cumpliese aquello que había dichoG2036
+- Jn 18:11Jesús...dijo a Pedro: Mete tu espada enG2036
+- Jn 18:17,25dijo a Pedro: ¿No eres tú...D él: NoG3004
+- Jn 18:21he aquí, ellos saben lo que yo he dichoG2036
+- Jn 18:22cuando Jesús hubo dicho esto, uno deG2036
+- Jn 18:22diciendo: ¿Así respondes al...sacerdote?[[G2036]]
+- Jn 18:26dijo: ¿No te vi yo en el huerto con él?[[G3004]]
+- Jn 18:29les dijo: ¿Qué acusación traéis contraG2036
+- Jn 18:30le dijeron: Si éste no fuera malhechorG2036
+- Jn 18:31les dijo Pilato: Tomadle vosotros, yG2036
+- Jn 18:31los judíos le dijeron: A nosotros noG2036
+- Jn 18:32la palabra que Jesús había dicho, dandoG2036
+- Jn 18:33dijo: ¿Eres tú el Rey de los judíos?[[G2036]]
+- Jn 18:34¿dices...o te lo han dicho otros de mí?[[G2036]]
+- Jn 18:37le dijo...Pilato: ¿Luego, eres tú rey?[[G2036]]
+- Jn 18:37tú dices que yo soy rey. Yo para estoG3004
+- Jn 18:38le dijo Pilato: ¿Qué es la verdad?[[G3004]]
+- Jn 18:38dicho esto, salió otra vez...y les dijoG2036
+- Jn 18:40diciendo: No a éste, sino a BarrabásG3004
+- Jn 19:3le decían: ¡Salve, Rey de los judíosG3004
+- Jn 19:4y les dijo: Mirad, os lo traigo fueraG3004
+- Jn 19:5y Pilato les dijo: ¡ He aquí el hombre![[G3004]]
+- Jn 19:6diciendo: ¡Crucifícale! ¡Crucifícale![[G3004]]
+- Jn 19:6Pilato les dijo: Tomadle vosotros, yG3004
+- Jn 19:8Pilato oyó decir esto, tuvo más miedoG3056
+- Jn 19:9entró...dijo a Jesús: ¿De dónde eres tú?[[G3004]]
+- Jn 19:10le dijo Pilato: ¿A mí no me hablas?[[G3004]]
+- Jn 19:12diciendo: Si a éste sueltas, no eresG3004
+- Jn 19:14dijo a...judíos: ¡ He aquí vuestro Rey![[G3004]]
+- Jn 19:15Pilato les dijo: ¿A vuestro Rey he deG3004
+- Jn 19:19decía: Jesús Nazareno, Rey de...judíosG1125
+- Jn 19:21dijeron a Pilato...No escribas: Rey deG3004
+- Jn 19:21sino que él dijo: Soy Rey de los judíosG2036
+- Jn 19:24dijeron...No la partamos, sino echemosG2036
+- Jn 19:24Escritura que dice: Repartieron entreG3004
+- Jn 19:26dijo a su madre: Mujer, he aquí tu hijoG3004
+- Jn 19:27dijo al discípulo: He ahí tu madreG3004
+- Jn 19:28dijo, para que...se cumpliese: Tengo sedG3004
+- Jn 19:30Jesús...dijo: Consumado es. Y habiendoG2036
+- Jn 19:35y él sabe que dice verdad, para queG3004
+- Jn 19:37otra...dice: Mirarán al que traspasaronG3004
+- Jn 20:2les dijo: Se han llevado del...al SeñorG3004
+- Jn 20:13y le dijeron: Mujer, ¿por qué lloras?[[G3004]]
+- Jn 20:13dijo: Porque se han llevado a mi SeñorG3004
+- Jn 20:14cuando había dicho esto, se volvió, yG2036
+- Jn 20:15Jesús le dijo: Mujer, ¿por qué lloras?[[G3004]]
+- Jn 20:15le dijo: Señor, si tú lo has llevadoG3004
+- Jn 20:15dime dónde lo has puesto, y...lo llevaréG2036
+- Jn 20:16Jesús le dijo: ¡María! Volviéndose ellaG3004
+- Jn 20:16le dijo: ¡Raboni! (que quiere decirG3004
+- Jn 20:17Jesús le dijo: No me toques, porque aúnG3004
+- Jn 20:17y diles: Subo a mi Padre y a vuestroG2036
+- Jn 20:18y que él le había dicho estas cosasG2036
+- Jn 20:19puesto en medio...dijo: Paz a vosotrosG3004
+- Jn 20:20dicho esto, les mostró las manos y elG2036
+- Jn 20:21Jesús...dijo otra vez: Paz a vosotrosG2036
+- Jn 20:22dicho esto, sopló, y les dijo: RecibidG2036
+- Jn 20:25dijeron, pues...Al Señor hemos vistoG3004
+- Jn 20:25él les dijo: Si no viere en sus manosG2036
+- Jn 20:26puso en medio y les dijo: Paz a vosotrosG2036
+- Jn 20:27luego dijo a Tomás: Pon aquí tu dedoG3004
+- Jn 20:28Tomás...dijo: ¡Señor mío, y Dios mío![[G2036]]
+- Jn 20:29le dijo: Porque me has visto, TomásG3004
+- Jn 21:3Pedro les dijo: Voy a pescar. Ellos leG3004
+- Jn 21:3dijeron: Vamos nosotros también contigoG3004
+- Jn 21:5dijo: Hijitos, ¿tenéis algo de comer?[[G3004]]
+- Jn 21:6él les dijo: Echad la red a la derechaG2036
+- Jn 21:7discípulo...dijo a Pedro: ¡Es el Señor![[G3004]]
+- Jn 21:10Jesús les dijo: Traed de los peces queG3004
+- Jn 21:12dijo Jesús: Venid, comed. Y ninguno deG3004
+- Jn 21:15Jesús dijo a Simón Pedro: Simón, hijoG3004
+- Jn 21:15él le dijo: Apacienta mis corderosG3004
+- Jn 21:16a decirle la segunda vez: Simón, hijoG3004
+- Jn 21:16te amo. Le dijo: Pastorea mis ovejasG3004
+- Jn 21:17le dijo la tercera vez: Simón, hijo deG3004
+- Jn 21:17Pedro se entristeció de que le dijeseG2036
+- Jn 21:17Jesús le dijo: Apacienta mis ovejasG3004
+- Jn 21:18digo: Cuando eras más joven, te ceñíasG3004
+- Jn 21:19dijo, dando a entender con qué muerteG2036
+- Jn 21:19a Dios. Y dicho esto, añadió: SíguemeG2036
+- Jn 21:20había dicho: Señor, ¿quién es el que teG2036
+- Jn 21:21Pedro...dijo a Jesús: Señor, ¿y qué deG3004
+- Jn 21:22Jesús le dijo: Si quiero que él quedeG3004
+- Jn 21:23Jesús no le dijo que no moriría, sinoG2036
+- Hch_1:4la promesa...les dijo, oísteis de mí
+- Hch_1:6diciendo: Señor, ¿restaurarás el reino aG3004
+- Hch_1:7y les dijo: No os toca a vosotros saberG2036
+- Hch_1:9habiendo dicho estas cosas...fue alzadoG2036
+- Hch_1:11les dijeron: Varones galileos, ¿por quéG2036
+- Hch_1:15Pedro se levantó en medio de los...y dijoG2036
+- Hch_1:19Acéldama, que quiere decir, Campo de
+- Hch_1:24orando, dijeron: Tú, Señor, que conocesG2036
+- Hch_2:7diciendo: Mirad, ¿no son galileos todosG3004
+- Hch_2:12diciéndose unos¿Qué quiere decir esto?[[G3004]]
+- Hch_2:13otros...decían: Están llenos de mostoG3004
+- Hch_2:14diciendo: Varones judíos, y todos los queG669
+- Hch_2:16mas esto es lo dicho por el profeta JoelG2046
+- Hch_2:17dice Dios, derramaré de mi EspírituG3004
+- Hch_2:25porque David dice de él: Veía al SeñorG3004
+- Hch_2:29hermanos, se os puede decir librementeG2036
+- Hch_2:34él mismo dice: Dijo el Señor a mi SeñorG3004
+- Hch_2:37dijeron a Pedro y a los...Varones hermanosG2036
+- Hch_2:38les dijo: Arrepentíos, y bautícese cadaG5346
+- Hch_2:40diciendo: Sed salvos de esta perversaG3004
+- Hch_3:4fijando en él los ojos, le dijo: MíranosG2036
+- Hch_3:6Pedro dijo: No tengo plata ni oro, peroG2036
+- Hch_3:22Moisés dijo a los padres: El SeñorG2036
+- Hch_3:25diciendo a Abraham: En tu simiente seránG3004
+- Hch_4:8Pedro...les dijo: Gobernantes del puebloG2036
+- Hch_4:14viendo...no podían decir nada en contraG471
+- Hch_4:16diciendo: ¿Qué haremos con...hombres?[[G3004]]
+- Hch_4:19diciéndoles: Juzgad si es justo delanteG2036
+- Hch_4:20no podemos dejar de decir lo que...visto yG2980
+- Hch_4:23contaron todo lo que...les habían dichoG2036
+- Hch_4:24y dijeron: Soberano Señor, tú eres elG2036
+- Hch_4:25dijiste: ¿Por qué se amotinan las gentesG2036
+- Hch_4:32ninguno decía ser suyo propio nada de loG3004
+- Hch_5:3y dijo Pedro: Ananías, ¿por qué llenóG2036
+- Hch_5:8Pedro le dijo: Dime ¿vendisteis en tantoG611
+- Hch_5:8vendisteis en...Y ella dijo: Sí en tantoG2036
+- Hch_5:9Pedro le dijo: ¿Por qué convinisteis enG2036
+- Hch_5:19un ángel del Señor...sacándolos, dijoG2036
+- Hch_5:23diciendo: Por cierto, la cárcel hemosG3004
+- Hch_5:28diciendo: ¿No...mandamos...no enseñaseisG3004
+- Hch_5:29dijeron: Es necesario obedecer a DiosG2036
+- Hch_5:35luego dijo: Varones israelitas, miradG2036
+- Hch_5:36levantó Teudas, diciendo que era alguienG3004
+- Hch_5:38os dijo: Apartaos de estos hombres, yG3004
+- Hch_6:2y dijeron: No es justo que...dejemos laG2036
+- Hch_6:11que dijesen que le habían oído hablarG3004
+- Hch_6:13decían: Este hombre no cesa de hablarG3004
+- Hch_6:14oído decir que ese Jesús...destruirá esteG3004
+- Hch_7:1el sumo sacerdote dijo:¿Es esto así?[[G2036]]
+- Hch_7:2él dijo Varones hermanos y padres, oídG5346
+- Hch_7:3dijo: Sal de tu tierra y de tu parentelaG2036
+- Hch_7:6dijo Dios así: Que su descendencia seríaG2980
+- Hch_7:7yo juzgaré, dijo Dios, a la nación de laG2036
+- Hch_7:26paz, diciendo: Varones, hermanos soisG2036
+- Hch_7:27,35diciendo: ¿Quién te ha puesto...juezG2036
+- Hch_7:33le dijo el Señor: Quita el calzado deG2036
+- Hch_7:37este Moisés es el que dijo a los hijosG2036
+- Hch_7:40cuando dijeron a Aarón: Haznos diosesG2036
+- Hch_7:44dijo a Moisés que lo hiciese conformeG2980
+- Hch_7:48no habita en templos...dice el profetaG3004
+- Hch_7:49¿qué casa me edificaréis? dice el SeñorG3004
+- Hch_7:56dijo: He aquí, veo los cielos abiertosG2036
+- Hch_7:59decía: Señor Jesús, recibe mi espírituG3004
+- Hch_7:60clamó...y habiendo dicho esto, durmióG2036
+- Hch_8:6escuchaba...las cosas que decía FelipeG3004
+- Hch_8:10diciendo: Este es el gran poder de DiosG3004
+- Hch_8:19diciendo. Dadme...a mí este poder, paraG3004
+- Hch_8:20dijo: Tu dinero perezca contigo, porqueG2036
+- Hch_8:24respondiendo entonces Simón, dijo: RogadG2036
+- Hch_8:24que nada de esto que habéis dicho vengaG2036
+- Hch_8:26diciendo: Levántate y vé hacia el surG3004
+- Hch_8:29el Espíritu dijo a Felipe: Acércate yG2036
+- Hch_8:30y dijo: Pero ¿entiendes lo que lees?[[G2036]]
+- Hch_8:31él dijo: ¿Y cómo podré, si alguno no meG2036
+- Hch_8:34dijo a Felipe: Te ruego que me digasG2036
+- Hch_8:34¿de quién dice el profeta esto; de síG3004
+- Hch_8:36y dijo el eunuco: Aquí hay agua; ¿quéG5346
+- Hch_8:37Felipe dijo: Si crees de todo corazónG2036
+- Hch_8:37dijo: Creo que Jesucristo es el Hijo deG2036
+- Hch_9:4oyó una voz que le decía: Saulo, SauloG3004
+- Hch_9:5le dijo: ¿Quién eres, Señor? Y le dijoG2036
+- Hch_9:6dijo: Señor, ¿qué quieres que yo hagaG2036
+- Hch_9:6el Señor le dijo: Levántate y entra enG2036
+- Hch_9:6entra...y se te dirá lo que debes hacerG2980
+- Hch_9:10a quien el Señor dijo...Ananías. Y élG2036
+- Hch_9:11y el Señor le dijo: Levántate, y vé a
+- Hch_9:15dijo: Vé, porque instrumento escogidoG2036
+- Hch_9:17dijo: Hermano Saulo, el Señor Jesús, queG2036
+- Hch_9:20diciendo que éste era el Hijo de Dios
+- Hch_9:21decían: ¿No es éste el que asolaba enG3004
+- Hch_9:34dijo Pedro: Eneas, Jesucristo te sanaG2036
+- Hch_9:36que traducido quiere decir DorcasG3004
+- Hch_9:40dijo: Tabita, levántate. Y ella abrióG2036
+- Hch_10:3un ángel de Dios...le decía: CornelioG2036
+- Hch_10:4y atemorizado, dijo: ¿Qué es, Señor? YG2036
+- Hch_10:4le dijo: Tus oraciones y tus limosnasG2036
+- Hch_10:6te dirá lo que es necesario que hagasG2980
+- Hch_10:14Pedro dijo: Señor, no; porque ningunaG2036
+- Hch_10:19dijo el Espíritu: He aquí, 3 hombresG2036
+- Hch_10:21dijo: He aquí, yo soy el que buscáisG2036
+- Hch_10:22ellos dijeron: Cornelio el centuriónG2036
+- Hch_10:26diciendo: Levántate, pues...soy hombreG3004
+- Hch_10:28dijo: Vosotros sabéis cuán abominableG5346
+- Hch_10:30Cornelio dijo: Hace cuatro días que aG5346
+- Hch_10:31y dijo: Cornelio, tu oración ha sidoG5346
+- Hch_10:34Pedro...dijo: En verdad comprendo queG2036
+- Hch_11:3diciendo: ¿Por qué has entrado en casaG3004
+- Hch_11:4comenzó Pedro a contarles por...diciendoG3004
+- Hch_11:7una voz que me decía: Levántate, PedroG3004
+- Hch_11:8y dije: Señor, no; porque ninguna cosaG2036
+- Hch_11:12Espíritu me dijo que fuese con ellosG2036
+- Hch_11:13le dijo: Envía hombres a Jope, y hazG2036
+- Hch_11:16dijo: Juan ciertamente bautizó en aguaG3004
+- Hch_11:18diciendo: ¡De manera que también a losG3004
+- Hch_12:7le despertó, diciendo: Levántate prontoG3004
+- Hch_12:8le dijo el ángel: Cíñete, y átate lasG2036
+- Hch_12:8y le dijo: Envuélvete en tu manto, yG3004
+- Hch_12:11dijo: Ahora entiendo...que el Señor haG2036
+- Hch_12:15y ellos le dijeron: Estás loca. PeroG2036
+- Hch_12:15entonces ellos decían: ¡Es su ángel![[G3004]]
+- Hch_12:17dijo: Haced saber esto a Jacobo y a losG2036
+- Hch_13:2dijo el Espíritu Santo: Apartadme aG2036
+- Hch_13:10dijo: ¡Oh, lleno de todo engaño y deG2036
+- Hch_13:15decirles: Varones hermanos, si tenéisG3004
+- Hch_13:16dijo: Varones israelitas, y los queG2036
+- Hch_13:22diciendo: He hallado a David hijo deG2036
+- Hch_13:25dijo: ¿Quién pensáis que soy? No soyG3004
+- Hch_13:34lo dijo así: Os daré las misericordiasG2046
+- Hch_13:35dice...otro salmo: No permitirás que teG3004
+- Hch_13:40venga...que está dicho en los profetasG2046
+- Hch_13:45celos, y rebatían lo que Pablo decísG3004
+- Hch_13:46dijeron: A vosotros...era necesario queG2036
+- Hch_13:47diciendo: Te he puesto para luz de los
+- Hch_14:10dijo a gran voz: Levántate derechoG2036
+- Hch_14:11diciendo en lengua licaónica: DiosesG3004
+- Hch_14:15y diciendo: Varones, ¿por qué hacéisG3004
+- Hch_14:18y diciendo estas cosas, difícilmenteG3004
+- Hch_14:22diciéndoles: Es necesario que a través
+- Hch_15:5diciendo: Es necesario circuncidarlosG3004
+- Hch_15:7dijo: Varones hermanos, vosotros sabéisG2036
+- Hch_15:13diciendo: Varones hermanos, oídmeG3004
+- Hch_15:18dice el Señor, que hace conocer todoG3004
+- Hch_15:36dijo a Bernabé: Volvamos a visitar aG2036
+- Hch_16:9diciendo: Pasa a Macedonia y ayúdanosG3004
+- Hch_16:14estuviese atenta a lo que Pablo decíaG2980
+- Hch_16:15rogó diciendo: Si habéis juzgado queG3004
+- Hch_16:17diciendo: Estos hombres son siervos delG3004
+- Hch_16:18volvió, y dijo al espíritu: Te mando enG2036
+- Hch_16:20dijeron: Estos hombres, siendo judíosG2036
+- Hch_16:28voz, diciendo: No te hagas ningún malG3004
+- Hch_16:30les dijo: Señores, ¿qué debo hacer paraG5346
+- Hch_16:31dijeron: Cree en el Señor JesucristoG2036
+- Hch_16:35enviaron...a decir: Suelta a aquellosG3004
+- Hch_16:36han mandado a decir que se os suelte
+- Hch_16:37Pablo les dijo: Después de azotarnosG5346
+- Hch_17:3y que Jesús...decía él, es el Cristo
+- Hch_17:7todos éstos...diciendo que hay otro reyG3004
+- Hch_17:18unos dicen: ¿Qué querrá decir esteG3004
+- Hch_17:19diciendo: ¿Podremos saber qué es estaG3004
+- Hch_17:20queremos...saber qué quiere decir esto
+- Hch_17:21cosa...sino en decir o en oír algo nuevoG3004
+- Hch_17:22dijo: Varones atenienses...observo queG5346
+- Hch_17:28han dicho: Porque linaje suyo somosG2046
+- Hch_17:32decían: Ya te oiremos acerca de estoG2036
+- Hch_18:6dijo...Vuestra sangre sea sobre vuestraG2036
+- Hch_18:9Señor dijo a Pablo en visión de nocheG2036
+- Hch_18:13diciendo: Este persuade a los hombresG3004
+- Hch_18:14Galión dijo a...Si fuera algún agravioG2036
+- Hch_18:21diciendo: Es necesario que en todo casoG2036
+- Hch_19:2les dijo: ¿Recibisteis el Espíritu SantoG2036
+- Hch_19:2y ellos le dijeron: Ni siquiera hemosG2036
+- Hch_19:3dijo: ¿En qué, pues, fuisteis bautizados?[[G2036]]
+- Hch_19:3ellos dijeron: En el bautismo de JuanG2036
+- Hch_19:4dijo Pablo: Juan bautizó con bautismoG2036
+- Hch_19:4diciendo al pueblo que creyesen en aquelG3004
+- Hch_19:13diciendo: Os conjuro por Jesús, el queG3004
+- Hch_19:15dijo: A Jesús conozco, y sé quién esG2036
+- Hch_19:21diciendo: Después que haya estado allíG2036
+- Hch_19:25dijo: Varones, sabéis que de...oficioG2036
+- Hch_19:26diciendo que no son dioses los que seG3004
+- Hch_19:28gritaron diciendo: ¡Grande es Diana deG3004
+- Hch_19:35dijo: Varones efesios, ¿y quién es elG5346
+- Hch_19:41y habiendo dicho esto, despidió laG2036
+- Hch_20:10dijo: No os alarméis, pues está vivoG2036
+- Hch_20:18les dijo: Vosotros sabéis cómo me heG2036
+- Hch_20:23diciendo que me esperan prisiones yG3004
+- Hch_20:35que dijo: Más bienaventurado es dar queG2036
+- Hch_20:36cuando hubo dicho estas cosas, se pusoG2036
+- Hch_20:38dijo, de que no verían más su rostroG2046
+- Hch_21:4ellos decían a Pablo...que no subiese aG3004
+- Hch_21:11dijo: Esto dice el Espíritu Santo: AsíG2036
+- Hch_21:14diciendo: Hágase la voluntad del SeñorG2036
+- Hch_21:20le dijeron: Ya ves, hermano, cuántosG2036
+- Hch_21:21diciéndoles que no circunciden a susG3004
+- Hch_21:23haz, pues, esto que te decimos: HayG3004
+- Hch_21:37dijo al...¿Se me permite decirte algo?[[G3004]]
+- Hch_21:37me permite...Y él dijo: ¿Sabes griego?[[G2036]]
+- Hch_21:39dijo Pablo: Yo de cierto soy...judíoG2036
+- Hch_21:40Pablo...habló en lengua hebrea, diciendoG3004
+- Hch_22:2guardaron más silencio. Y él les dijoG5346
+- Hch_22:7oí una voz que me decía: Saulo, SauloG3004
+- Hch_22:8y me dijo: Yo soy Jesús de Nazaret, aG2036
+- Hch_22:10dije: ¿Qué haré, Señor? Y el...me dijoG2036
+- Hch_22:10se te dirá todo lo que está ordenadoG2036
+- Hch_22:13dijo: Hermano Saulo, recibe la vistaG2036
+- Hch_22:14él dijo: El Dios de nuestros padresG2036
+- Hch_22:18decía: Date prisa, y sal prontamenteG3004
+- Hch_22:19yo dije: Señor, ellos saben que yoG2036
+- Hch_22:21dijo: Vé, porque yo te enviaré lejos aG2036
+- Hch_22:22la voz, diciendo: Quita de la tierra aG3004
+- Hch_22:25Pablo dijo al centurión...¿Os es lícitoG2036
+- Hch_22:26al tribuno, diciendo: ¿Que vas a hacer?[[G3004]]
+- Hch_22:27el tribuno le dijo:Dime, ¿Eres túG2036
+- Hch_22:27eres tú ciudadano Romano? El dijo: SíG5346
+- Hch_22:28Pablo dijo: Pero yo lo soy de nacimientoG5346
+- Hch_23:1dijo: Varones hermanos, yo con todaG2036
+- Hch_23:3Pablo le dijo: ¡Dios te golpeará a tiG2036
+- Hch_23:5Pablo dijo: No sabía, hermanos, que eraG5346
+- Hch_23:8saduceos dicen que no hay resurrecciónG3004
+- Hch_23:9diciendo: Ningún mal hallamos en esteG3004
+- Hch_23:11le dijo: Ten ánimo, Pablo, pues comoG2036
+- Hch_23:12diciendo que no comerían ni beberíanG3004
+- Hch_23:14y dijeron...nos hemos juramentado bajoG2036
+- Hch_23:17dijo: Lleva a este...ante el tribunoG5346
+- Hch_23:18y dijo: El preso Pablo me llamó y meG5346
+- Hch_23:19¿qué es lo que tienes que decirme?[[G518]]
+- Hch_23:20él le dijo: Los judíos han convenidoG2036
+- Hch_23:22que a nadie dijese que le había dadoG1583
+- Hch_23:35le dijo: Te oiré cuando vengan tusG5346
+- Hch_24:2diciendo: Como debido a ti gozamos deG3004
+- Hch_24:9también confirmaban, diciendo ser asíG5335
+- Hch_24:20digan éstos...si hallaron en mí algunaG2036
+- Hch_24:22diciendo: Cuando descendiere el...LisiasG2036
+- Hch_24:25Félix se espantó, y dijo: Ahora veteG611
+- Hch_25:5dijo, desciendan conmigo, y si hay algúnG5346
+- Hch_25:9dijo: ¿Quieres subir a Jerusalén, y alláG2036
+- Hch_25:10Pablo dijo: Ante el tribunal de CésarG2036
+- Hch_25:14diciendo: Un hombre ha sido dejadoG3004
+- Hch_25:22Agripa dijo a Festo: Yo quisiera oír aG5346
+- Hch_25:22hombre. Y él le dijo: Mañana le oirásG5346
+- Hch_25:24Festo dijo: Rey Agripa, y todos losG5346
+- Hch_26:1dijo a Pablo: Se te permite hablar porG5346
+- Hch_26:14oí una voz que me...decía...Saulo, SauloG3004
+- Hch_26:15yo entonces dije...¿Quién eres, Señor?[[G2036]]
+- Hch_26:15el Señor dijo: Yo soy Jesús, a quienG2036
+- Hch_26:22no diciendo nada fuera de las cosas queG3004
+- Hch_26:22y Moisés dijeron que habían de sucederG2980
+- Hch_26:24diciendo él estas cosas en su defensaG626
+- Hch_26:24Festo a gran voz dijo: Estás locoG5346
+- Hch_26:25dijo: No estoy loco...Festo, sino queG5346
+- Hch_26:28dijo a Pablo: Por poco me persuades aG5346
+- Hch_26:29dijo: ¡Quisiera Dios que por poco o porG2036
+- Hch_26:30había dicho estas cosas, se levantó elG2036
+- Hch_26:31diciendo: Ninguna cosa digna ni deG3004
+- Hch_26:32Agripa dijo a Festo: Podía este hombreG5346
+- Hch_27:10diciéndoles...veo que la navegación vaG3004
+- Hch_27:11al piloto y...que a lo que Pablo decíaG3004
+- Hch_27:21dijo: Habría sido...cierto convenienteG2036
+- Hch_27:24diciendo: Pablo, no temas; es necesarioG3004
+- Hch_27:25confío...será así como se me ha dichoG2980
+- Hch_27:31Pablo dijo al centurión y a...soldadosG2036
+- Hch_27:33diciendo: Éste es el decimocuarto díaG3004
+- Hch_27:35dicho esto, tomó el pan y dio graciasG2036
+- Hch_28:4se decían...Ciertamente este hombre esG3004
+- Hch_28:6cambiaron de...y dijeron que era un diosG3004
+- Hch_28:17convocó a los principales de...les dijoG3004
+- Hch_28:21le dijeron: Nosotros ni hemos recibidoG2036
+- Hch_28:24y algunos asentían a lo que se decíaG3004
+- Hch_28:25dijo Pablo...Bien habló el EspírituG2980
+- Hch_28:26y diles...oiréis, y no entenderéis; yG2036
+- Hch_28:29hubo dicho esto, los judíos se fueronG2036
+- Rom_2:22tú que dices que no se ha de adulterarG3004
+- Rom_3:5¿qué diremos? ¿Será injusto Dios que daG2046
+- Rom_3:8¿y por qué no decir...Hagamos males para
+- Rom_3:8algunos...afirman que nosotros decimosG3004
+- Rom_3:19todo lo que la ley dice, lo d a los queG3004, [[G2980]]
+- Rom_4:1¿qué, pues, diremos que halló AbrahamG2046
+- Rom_4:3¿qué dice la Escritura? Creyó Abraham aG3004
+- Rom_4:7diciendo: Bienaventurados aquellos cuyas
+- Rom_4:9decimos que a Abraham le fue contada laG3004
+- Rom_4:18conforme a lo que se le había dicho: AsíG2046
+- Rom_6:1¿qué, pues, diremos? ¿Perseveraremos enG2046
+- Rom_7:7¿qué diremos, pues? ¿La ley es pecado?[[G2046]]
+- Rom_7:7ley...si la ley no dijera: No codiciarásG3004
+- Rom_8:31¿qué, pues, diremos a esto? Si Dios esG2046
+- Rom_9:1verdad digo en Cristo, no miento, y miG3004
+- Rom_9:12se le dijo: El mayor servirá al menorG4483
+- Rom_9:14diremos? ¿Que hay injusticia en Dios?[[G2046]]
+- Rom_9:15a Moisés dice: Tendré misericordia delG3004
+- Rom_9:17la Escritura dice a Faraón: Para estoG3004
+- Rom_9:19pero me dirás: ¿Por qué, pues, inculpa?[[G2046]]
+- Rom_9:20¿dirá el vaso de barro al que lo formóG2046
+- Rom_9:25en Oseas dice: Llamaré pueblo mío alG3004
+- Rom_9:26les dijo: Vosotros no sois pueblo míoG4483
+- Rom_9:29como antes dijo Isaías: Si el Señor deG4280
+- Rom_9:30¿qué, pues, diremos? Que los gentilesG2046
+- Rom_9:30es decir, la justicia que es por feG1161
+- Rom_10:6la justicia que es por la fe dice asíG3004
+- Rom_10:6no digas en tu corazón; ¿Quién subiráG2046
+- Rom_10:8¿qué dice? Cerca de ti está la palabraG3004
+- Rom_10:11la Escritura dice: Todo aquel que en élG3004
+- Rom_10:16Isaías dice: Señor, ¿quién ha creído aG3004
+- Rom_10:18pero digo: ¿No han oído? Antes bienG3004
+- Rom_10:19digo: ¿No ha conocido esto Israel?[[G3004]]
+- Rom_10:19Moisés dice: Yo os provocaré a celosG3004
+- Rom_10:20Isaías dice...Fui hallado de los que noG3004
+- Rom_10:21pero acerca de Israel dice: Todo el díaG3004
+- Rom_11:1digo... Ha desechado Dios a su pueblo?[[G3004]]
+- Rom_11:2sabéis qué dice de Elías la EscrituraG3004
+- Rom_11:2invoca a Dios contra Israel, diciendoG3004
+- Rom_11:4pero qué le dice la divina respuesta?[[G3004]]
+- Rom_11:9David dice: Sea vuelto su convite enG3004
+- Rom_11:11digo...¿Han tropezado los de Israel paraG3004
+- Rom_11:19las ramas, dirás, fueron desgajadasG2046
+- Rom_12:3digo, pues, por la gracia que me es dadaG3004
+- Rom_13:9no hurtarás, no dirás falso testimonio
+- Rom_14:11vivo yo, dice el Señor, que ante mí seG3004
+- Rom_15:8digo que Cristo Jesús vino a ser siervoG3004
+- Rom_15:10otra vez dice: Alegraos, gentiles, conG3004
+- Rom_15:12dice Isasías: Estará la raíz de IsaíG3004
+- 1Co_1:12quiero decir, que cada uno de...diceG3004
+- 1Co_1:15ninguno diga que fuisteis bautizados enG2036
+- 1Co_3:4diciendo...Yo ciertamente soy de PabloG3004
+- 1Co_6:5para avergonzaros lo digo. ¿Pues qué, noG3004
+- 1Co_6:16porque dice: Los dos serán una sola carneG5346
+- 1Co_7:6esto digo por vía de concesión, no porG3004
+- 1Co_7:8digo a los solteros y las viudas, queG3004
+- 1Co_7:12y a los demás yo digo, no el Señor: SiG3004
+- 1Co_7:29esto digo, hermanos: que el tiempo esG5346
+- 1Co_7:35esto lo digo para vuestro provecho; noG3004
+- 1Co_9:8¿digo esto sólo como hombre? ¿No diceG2980
+- 1Co_9:10o lo dice enteramente por nosotros?[[G3004]]
+- 1Co_10:15os hablo; juzgad vosotros lo que digoG3004
+- 1Co_10:19¿qué digo...¿Que el ídolo es algo, o queG5346
+- 1Co_10:20antes digo que lo que los gentiles
+- 1Co_10:28os dijere: Esto fue sacrificado a losG2036
+- 1Co_10:29la conciencia, digo, no la tuya, sinoG3004
+- 1Co_11:22¿qué os diré? ¿Os alabaré? En esto noG2036
+- 1Co_11:24partió, y dijo: Tomad, comed; esto esG2036
+- 1Co_11:25diciendo: Esta copa es el nuevo pactoG3004
+- 1Co_12:15si dijere el pie: Porque no soy manoG2036
+- 1Co_12:16si dijere la oreja: Porque no soy ojoG2036
+- 1Co_12:21ni el ojo puede decir a la mano: No teG2036
+- 1Co_14:9si por...¿cómo se entenderá lo que decís?[[G2980]]
+- 1Co_14:16dirá el Amén a tu acción de gracias?[[G2046]]
+- 1Co_14:16¿cómo...pues no sabe lo que has dichoG3004
+- 1Co_14:21y ni aun así me oirán, dice el SeñorG3004
+- 1Co_14:23y entran...¿no dirán que estáis locos?[[G2046]]
+- 1Co_14:34estén sujetas, como...la ley lo diceG3004
+- 1Co_15:12¿cómo dicen...que no hay resurrecciónG3004
+- 1Co_15:27cuando dice...cosas han sido sujetadasG2036
+- 1Co_15:34Dios; para vergüenza vuestra lo digoG3004
+- 1Co_15:35pero dirá alguno: ¿Cómo resucitarán losG2046
+- 1Co_15:50esto digo, hermanos: que la carne y laG5346
+- 1Co_15:51digo un misterio: No todos dormiremosG3004
+- 2Co_6:2dice: En tiempo aceptable te he oídoG3004
+- 2Co_6:16dijo: Habitaré y andaré entre ellos, yG2036
+- 2Co_6:17salid de en...y apartaos, dice el SeñorG3004
+- 2Co_6:18me seréis hijos e hijas, dice el SeñorG3004
+- 2Co_7:3no lo digo para condenaros; pues ya heG3004
+- 2Co_7:3he dicho...que estáis en nuestro corazónG4280
+- 2Co_8:13no digo esto para que haya para otros
+- 2Co_9:3que como lo he dicho, estéis preparadosG3004
+- 2Co_9:4nos avergoncemos...por no decir vosotrosG3004
+- 2Co_9:6esto digo: El que siembra escasamente
+- 2Co_10:10dicen, las cartas son duras y fuertesG5346
+- 2Co_11:16vez digo: Que nadie me tenga por locoG3004
+- 2Co_11:21para vergüenza mía lo digo, para esoG3004
+- 2Co_12:6porque diría la verdad; pero lo dejoG2046
+- 2Co_12:9me ha dicho: Bástate mi gracia; porqueG2036
+- 2Co_13:2he dicho antes, y ahora digo otra vezG4280, [[G4302]]
+- Gál_1:9como antes hemos dicho, también ahoraG4280, [[G3004]]
+- Gál_1:23oían decir: Aquel que en otro tiempo nos
+- Gál_2:14dije...Si tú, siendo judío, vives comoG2036
+- Gál_3:8diciendo: En ti serán benditas todas las
+- Gál_3:12dice: El que hiciere estas cosas vivirá
+- Gál_3:16no dice: Y a las simientes, como siG3004
+- Gál_3:17digo: El pacto...ratificado por Dios paraG3004
+- Gál_4:1digo: Entre tanto que el heredero es niñoG3004
+- Gál_4:16vuestro enemigo, por deciros la verdad?[[G226]]
+- Gál_4:21decidme, los que queréis estar bajo laG3004
+- Gál_4:30¿qué dice la Escritura? Echa fuera a laG3004
+- Gál_5:2os digo que si os circuncidáis, de nadaG3004
+- Gál_5:16digo, pues: Andad en el Espíritu, y noG3004
+- Gál_5:21amonesto, como ya os lo he dicho antesG4302
+- Efe_4:8por lo cual dice: Subiendo a lo altoG3004
+- Efe_4:17digo...que ya no andéis como los otrosG3004
+- Efe_5:14cual dice: Despiértate, tú que duermesG3004
+- Efe_5:32yo digo esto respecto de Cristo y de laG3004
+- Flp_3:18dije...y aun ahora lo digo llorandoG3004
+- Flp_4:4regocijaos...otra vez digo: ¡Regocijaos![[G2046]]
+- Flp_4:11no lo digo porque tenga escasez, puesG3004
+- Col_2:4lo digo para que nadie os engañe conG3004
+- Col_4:17decid a Arquipo: Mira que cumplas elG2036
+- 1Ts_4:6es vengador...como ya os hemos dichoG4277
+- 1Ts_4:15os decimos esto en palabra del SeñorG3004
+- 1Ts_5:3cuando digan: Paz y seguridad, entoncesG3004
+- 2Ts_2:5¿no os acordáis que...os decía esto?[[G3004]]
+- 2Ts_3:14si alguno no obedece a lo que decimosG3056
+- 1Ti_2:7digo verdad en Cristo, no mientoG3004
+- 1Ti_4:1el Espíritu dice...que en los postrerosG3004
+- 1Ti_5:18la Escritura dice: No pondrás bozal alG3004
+- 2Ti_2:7considera lo que digo, y el Señor teG3004
+- 2Ti_2:18diciendo que la resurrección...se efectuóG3004
+- Tit 1:12propio profeta, dijo: Los cretensesG2036
+- Tit 2:8no tenga nada malo que decir de vosotrosG3004
+- Flm_1:19no decirte que aun tú mismo te me debesG3004
+- Flm_1:21que harás aun más de lo que te digoG3004
+- He 1:5,13¿a cuál de los ángeles dijo DiosG2036
+- He 1:6dice: Adórenle todos los ángeles de DiosG3004
+- He 1:7de los ángeles dice: El que hace a susG3004
+- He 1:8del Hijo dice: Tu trono oh Dios, por el
+- He 2:2la palabra dicha por medio de los ángelesG2980
+- He 2:6diciendo: ¿Qué es el hombre, para queG3004
+- He 2:12diciendo: Anunciaré a mis hermanos tuG3004
+- He 3:5para testimonio de lo que se iba a decirG2980
+- He 3:7dice el Espíritu Santo: Si oyereis hoyG2980
+- He 3:10dije: Siempre andan vagando en...corazónG2036
+- He 3:13entre tanto que se dice: Hoy; para queG2564
+- He 3:15que se dice: Si oyereis hoy su voz, noG3004
+- He 4:3que dijo: Por tanto, juré en mi ira, noG2046
+- He 4:4dijo así del séptimo día: Y reposó DiosG2046
+- He 4:7diciendo...como se dijo: Si oyereis hoy suG3004
+- He 5:5sino el que le dijo: Tú eres mi Hijo, yoG2980
+- He 5:6dice en otro lugar: Tú eres sacerdoteG3004
+- He 5:11tenemos mucho que decir, y difícil deG3056
+- He 6:14diciendo: De cierto te bendeciré conG3004
+- He 7:5los diezmos...es decir, de sus hermanosG5123
+- He 7:9decirlo así, en Abraham pagó el diezmoG2031
+- He 7:13de quien se dice esto, es de otra tribuG3004
+- He 7:21con el juramento del que le dijo: JuróG3004
+- He 8:1lo que venimos diciendo es que tenemosG3004
+- He 8:5diciéndole: Mira, haz todas las cosasG5346
+- He 8:8reprendiéndolos dice: He aquí vienen díasG3004
+- He 8:8aquí vienen días, dice el Señor, en queG3004
+- He 8:9yo me desentendí de ellos, dice el SeñorG3004
+- He 8:10dice el Señor: Pondré mis leyes en laG3004
+- He 8:11diciendo: Conoce al Señor; porque todosG3004
+- He 8:13al decir: Nuevo pacto, ha dado por viejoG3004
+- He 9:11no hecho...es decir, no de esta creaciónG5123
+- He 9:20diciendo: Esta es la sangre del pactoG3004
+- He 10:5dice: Sacrificio y ofrenda no quisisteG3004
+- He 10:7dije: He aquí que vengo, oh Dios, paraG2036
+- He 10:8diciendo primero: Sacrificio y ofrendaG3004
+- He 10:9diciendo luego: He aquí que vengo, ohG2046
+- He 10:15nos atestigua...después de haber dichoG4280
+- He 10:16dice el Señor: Pondré mis leyes en susG3004
+- He 10:30pues conocemos al que dijo: Mía es laG2036
+- He 10:30la venganza, yo daré el pago, dice elG3004
+- He 11:14los que esto dicen...dan a entender queG3004
+- He 11:18habiéndosele dicho: En Isaac te seráG2980
+- He 11:32¿y qué más digo? Porque el tiempo meG3004
+- He 12:5diciendo: Hijo mío, no menosprecies laG1256
+- He 12:21veía que moisés dijo: Estoy espantadoG2036
+- He 12:26ha prometido, diciendo: Aún una vez, yG3004
+- He 13:5dijo: No te desampararé, ni te dejaréG2046
+- He 13:6podemos decir, Él Señor es mi ayudadorG3004
+- He 13:15sacrificio de alabanza, es decir, frutoG5123
+- Stg_1:13no diga que es tentado de parte deG3004
+- Stg_2:3le decís: Siéntate tú aquí en buen lugarG2036
+- Stg_2:3y decís al pobre...Estate tú allí en pieG2036
+- Stg_2:11el que dijo: No cometerás adulterioG2036
+- Stg_2:11también ha dicho: No matarasG2036
+- Stg_2:14si alguno dice que tiene fe, y no tieneG3004
+- Stg_2:16les dice: Id en paz, calentaos y saciaosG2036
+- Stg_2:18dirá: Tú tienes fe, y yo tengo obrasG2046
+- Stg_2:23la Escritura que dice: Abraham creyó aG3004
+- Stg_4:5no penséis que la Escritura dice en vanoG3004
+- Stg_4:6eso dice: Dios resiste a los soberbiosG3004
+- Stg_4:13los que decís: Hoy y mañana iremos aG3004
+- Stg_4:15deberíais decir, Si el Señor quiere, yG3004
+- 1Pe_3:20pocas personas, es decir, 8, fueronG5123
+- 2Pe_1:17una voz que decía: Este es mi Hijo
+- 2Pe_2:10no temen decir mal de las potestadesG987
+- 2Pe_3:2las palabras que antes han sido dichasG4280
+- 2Pe_3:4diciendo: ¿Dónde está la promesa de suG3004
+- 1Jn_1:6si decimos que tenemos comunión conG2036
+- 1Jn_1:8si decimos que no tenemos pecado, nosG2036
+- 1Jn_1:10decimos que no hemos pecado, le hacemosG2036
+- 1Jn_2:4el que dice: Yo le conozco, y no guardaG3004
+- 1Jn_2:6que dice que permanece en él, debe andarG3004
+- 1Jn_2:9dice que está en la luz, y aborrece a suG3004
+- 1Jn_4:20alguno dice: Yo amo a Dios, y aborreceG2036
+- 1Jn_5:16pecado de muerte...no digo que se pidaG3004
+- 2Jn_1:10en casa, ni le digáis: ¡Bienvenido![[G3004]]
+- 2Jn_1:11el que le dice: ¡Bienvenido! participa enG3004
+- Jud_1:9Miguel...que dijo: El Señor te reprendaG2036
+- Jud_1:14diciendo: He aquí, vino el Señor con susG3004
+- Jud_1:17palabras...fueron dichas por los apóstolesG4280
+- Jud_1:18que os decían: En el postrer tiempo habráG3004
+- Rev_1:8yo soy principio y fin, dice el SeñorG3004
+- Rev_1:11que decía: Yo soy el Alfa y la OmegaG3004
+- Rev_1:17diciéndome: No temas; yo soy el primeroG3004
+- Rev_2:1el que anda en medio de los...dice estoG3004
+- Rev_2:2probado a los que se dicen ser apóstolesG5335
+- Rev_2:7,11,17,29; 3:6,13oiga lo que el Espíritu dice a las iglesiasG3004
+- Rev_2:8el que estuvo muerto y vivió, dice estoG3004
+- Rev_2:9blasfemia de los que se dicen ser judíosG3004
+- Rev_2:12el que tiene la espada aguda...dice estoG3004
+- Rev_2:18el Hijo de Dios, el que tiene...dice estoG3004
+- Rev_2:20que esa mujer...que se dice profetisaG3004
+- Rev_2:24yo os digo: No os impondré otra cargaG3004
+- Rev_3:1dice esto: Yo conozco tus obras, queG3004
+- Rev_3:7esto dice el Santo, el Verdadero, el queG3004
+- Rev_3:9yo entrego...a los que se dicen ser judíosG3004
+- Rev_3:14el Amén, el testigo fiel y...dice estoG3004
+- Rev_3:17dices: Yo soy rico, y me he enriquecidoG3004
+- Rev_4:1dijo: Sube acá, y yo te mostraré lasG3004
+- Rev_4:8no cesaban día y noche de decir: SantoG3004
+- Rev_4:10y echan sus coronas delante...diciendoG3004
+- Rev_5:5uno de los ancianos me dijo: No lloresG3004
+- Rev_5:9diciendo: Digno eres de tomar el libroG3004
+- Rev_5:12que decían a gran voz: El cordero queG3004
+- Rev_5:13decir: Al que está sentado en el tronoG3004
+- Rev_5:14los cuatro seres...decían: Amén; y losG3004
+- Rev_6:1oí...decir como con voz de trueno: Ven yG3004
+- Rev_6:3oí al segundo ser...que decía: Ven y miraG3004
+- Rev_6:5oí al tercer ser...que decía: Ven y miraG3004
+- Rev_6:6que decía: Dos libras de...por un denarioG3004
+- Rev_6:7la voz del cuarto ser...que decía: Ven yG3004
+- Rev_6:10diciendo: ¿Hasta cuándo, Señor, santoG3004
+- Rev_6:11y se les dijo que descansasen todavíaG4483
+- Rev_6:16decían a los montes y a las peñas: CaedG3004
+- Rev_7:3diciendo: No hagáis daño a la tierra, niG3004
+- Rev_7:10voz diciendo: La salvación pertenece aG3004
+- Rev_7:12diciendo: Amén. la bendición...gloria yG3004
+- Rev_7:13diciéndome: Estos que están vestidos deG3004
+- Rev_7:14dije: Señor, tú lo sabes. Y él me dijoG2046
+- Rev_8:13diciendo a gran voz: ¡ Ay, ay, ay, de losG3004
+- Rev_9:14diciendo al sexto ángel que tenía laG3004
+- Rev_10:4decía: Sella las cosas que...han dichoG3004
+- Rev_10:8y dijo: Vé y toma el librito que estáG3004
+- Rev_10:9fui diciéndole que me diese el libritoG3004
+- Rev_10:9dijo: Toma, y cómelo; y te amargaráG3004
+- Rev_10:11me dijo: Es necesario que profeticesG3004
+- Rev_11:1me dijo: Levántate, y mide el templo deG3004
+- Rev_11:12decía: Subid acá. Y subieron al cieloG3004
+- Rev_11:15voces...que decían: Los reinos del mundoG3004
+- Rev_11:17diciendo: Te damos gracias, Señor DiosG3004
+- Rev_12:10oí una gran voz en el cielo, que decíaG3004
+- Rev_13:4diciendo: ¿Quién como la bestia, y quiénG3004
+- Rev_14:7diciendo...Temed a Dios, y dadle gloriaG3004
+- Rev_14:8ángel le siguió, diciendo: Ha caído, haG3004
+- Rev_14:9ángel los siguió, diciendo a gran vozG3004
+- Rev_14:13me decía: Escribe: Bienaventurados deG3004
+- Rev_14:13sí, dice el Espíritu, descansarán deG3004
+- Rev_14:18llamó a...diciendo: Mete tu hoz agudaG3004
+- Rev_15:3diciendo: Grandes y maravillosas son tusG3004
+- Rev_16:1una gran voz que decía desde el temploG3004
+- Rev_16:5oí al ángel...que decía: Justo eres túG3004
+- Rev_16:7oí a otro, que desde el altar decíaG3004
+- Rev_16:17una gran voz del templo del...diciendoG3004
+- Rev_17:1diciéndome: Ven acá, y te mostraré laG3004
+- Rev_17:7el ángel me dijo: ¿Por qué te asombras?[[G2036]]
+- Rev_17:7yo te diré el misterio de la mujer, yG2046
+- Rev_17:15me dijo...Las aguas que has visto dondeG3004
+- Rev_18:2y clamó...diciendo: Ha caído...BabiloniaG3004
+- Rev_18:4decía: Salid de ella, pueblo mío, paraG3004
+- Rev_18:7dice en su corazón: Yo estoy sentadaG3004
+- Rev_18:10,16,19diciendo:¡Ay, ay, de la granG3004
+- Rev_18:18diciendo: ¿Qué ciudad era semejante aG3004
+- Rev_18:21mar, diciendo: Con el mismo ímpetu seráG3004
+- Rev_19:1oí una gran voz...que decía: ¡Aleluya![[G3004]]
+- Rev_19:3otra vez dijeron: ¡Aleluya! Y el humoG2046
+- Rev_19:4adoraron a...y decían: ¡Amén! ¡Aleluya![[G3004]]
+- Rev_19:5una voz que decía: Alabad a nuestro DiosG3004
+- Rev_19:6decía: ¡Aleluya, porque el Señor nuestroG3004
+- Rev_19:9ángel me dijo: Escribe: BienaventuradosG3004
+- Rev_19:9y me dijo: Estas son palabras...de DiosG3004
+- Rev_19:10él me dijo: Mira, no lo hagas; yo soyG3004
+- Rev_19:17diciendo a todas las aves que vuelanG3004
+- Rev_21:3decía: He aquí el tabernáculo de DiosG3004
+- Rev_21:5dijo: He aquí, yo hago nuevas todas lasG2036
+- Rev_21:5me dijo: Escribe; porque estas palabrasG3004
+- Rev_21:6me dijo: Hecho está. Yo soy el Alfa yG2036
+- Rev_21:9diciendo: Ven acá, yo te mostraré laG3004
+- Rev_22:6y me dijo: Estas palabras son fieles yG2036
+- Rev_22:9él me dijo: Mira, no lo hagas; porqueG3004
+- Rev_22:10me dijo: No selles las palabras de laG3004
+- Rev_22:17y el Espíritu y la Esposa dicen: VenG3004
+- Rev_22:17el que oye, diga: Ven. Y el que tieneG2036
+- Rev_22:20cosas dice: Ciertamente vengo en breveG3004

@@ -1,0 +1,192 @@
+---
+tipo: concordancia
+palabra: SANTUARIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SANTUARIO
+
+- Éxo_15:17en el s que tus manos...han afirmadoH4720
+- Éxo_25:8harán un s para mí, y habitaré en medioH4720
+- Éxo_28:29llevará Aarón los...cuando entre en el s
+- Éxo_28:35y se oirá su...cuando él entre en el s
+- Éxo_28:43acerquen al altar para servir en el s
+- Éxo_29:30cuando venga al...para servir en el s
+- Éxo_30:13medio siclo, conforme al siclo del sH6944
+- Éxo_30:24casia quinientos, según el siclo del sH6944
+- Éxo_31:11aceite...el incienso aromático para el s
+- Éxo_35:19las vestiduras...para ministrar en el s
+- Éxo_36:1hacer toda la obra del servicio del sH6944
+- Éxo_36:3para la obra del servicio del s, a finH6944
+- Éxo_36:4maestros que hacían toda la obra del sH6944
+- Éxo_36:6ni mujer haga más para la ofrenda del sH6944
+- Éxo_38:24el oro empleado en...toda la obra del s
+- Éxo_38:24oro...730 siclos, según el siclo del sH6944
+- Éxo_38:25la plata...1:775 siclos...el siclo del sH6944
+- Éxo_38:26medio siclo por...según el siclo del sH6944
+- Éxo_38:27fundir las basas del s y las basas delH6944
+- Éxo_39:1, Éxo_39:41vestiduras...para ministrar en el s
+- Lev_4:6rociará de...sangre...hacia el velo del sH6944
+- Lev_5:15en siclos de plata del siclo del s, enH6944
+- Lev_6:30metiere...para hacer expiación en el s
+- Lev_10:4sacad a vuestros hermanos de delante...sH6944
+- Lev_10:18la sangre no fue llevada dentro del s
+- Lev_12:4ni vendrá al s, hasta...cumplidos los díasH4720
+- Lev_14:13donde se degüella el...en el lugar del s
+- Lev_16:2no en todo tiempo entre en el s detrás
+- Lev_16:3con esto entrará Aarón en el s: con un
+- Lev_16:16así purificará el s, a causa de las
+- Lev_16:17él entre a hacer la expiación en el s
+- Lev_16:20cuando hubiere acabado de expiar el s
+- Lev_16:23que había vestido para entrar en el s
+- Lev_16:24lavará luego su cuerpo...el lugar del s
+- Lev_16:27sangre fue llevada al s para hacer la
+- Lev_16:33hará la expiación por el s santo, y elH4720
+- Lev_19:30mi s tendréis en reverencia...Yo JehováH4720
+- Lev_20:3contaminando mi s y profanando mi santoH4720
+- Lev_21:12ni saldrá del s, ni profanará el s deH4720
+- Lev_21:23no profane mi s, porque yo Jehová soyH4720
+- Lev_26:2y tened en reverencia mi s...Yo JehováH4720
+- Lev_26:31asolaré vuestros s...y no oleré...perfumeH4720
+- Lev_27:3lo estimarás en...según el siclo del sH6944
+- Lev_27:25y todo...será conforme al siclo del sH6944
+- Núm_3:28varones...que tenían la guarda del sH6944
+- Núm_3:31los utensilios del s con que ministranH6944
+- Núm_3:32jefe de los que tienen la guarda del sH6944
+- Núm_3:38teniendo la guarda del s en lugar de losH4720
+- Núm_3:47conforme al siclo del s los tomarásH6944
+- Núm_3:50recibió de los...conforme al siclo del sH6944
+- Núm_4:12los utensilios...de que hacen uso en el sH6944
+- Núm_4:15de cubrir el s y...los utensilios del sH6944
+- Núm_4:16el cargo de...del s y de sus utensiliosH6944
+- Núm_7:9llevaban sobre sí en...el servicio del sH6944
+- Núm_7:13, Núm_7:19, Núm_7:25, Núm_7:31, Núm_7:37, Núm_7:43, Núm_7:49, Núm_7:55, Núm_7:61, Núm_7:67, Núm_7:73, Núm_7:79jarro...de 70 siclos, al siclo del sH6944
+- Núm_7:85la plata...2.400 siclos, al siclo del sH6944
+- Núm_7:86las doce cucharas de oro...al siclo del sH6944
+- Núm_8:19al acercarse los hijos de Israel al sH6944
+- Núm_10:21a marchar los coatitas llevando el sH4720
+- Núm_18:1tú y tus hijos...llevaréis el pecado del sH4720
+- Núm_18:5tendréis el cuidado del s, y el cuidadoH6944
+- Núm_18:10en el s la comerás; todo varón comerá
+- Núm_18:16conforme al siclo del s, que es de 20H6944
+- Núm_28:7libación de vino superior ante...en el s
+- Núm_31:6fue a la guerra con los vasos del s, y
+- Jos_24:26debajo de la encina...junto al s deH4720
+- 1Re_6:21y cerró la entrada del s con cadenasH1687
+- 1Re_6:31entrada del s hizo puertas de madera deH1687
+- 1Re_8:6metieron el arca...en el s de la casa, enH1687
+- 1Re_8:10cuando los sacerdotes salieron del s, la
+- 1Cr_9:29tenían el cargo de...utensilios del sH6944
+- 1Cr_22:19y levantaos, y edificad el s de JehováH4720
+- 1Cr_23:32para que tuviesen...y la guarda del s
+- 1Cr_24:5príncipes del s, y...de la casa de DiosH6944
+- 1Cr_28:10edifiques casa para el s; esfuérzateH4720
+- 1Cr_29:3cosas...he preparado para la casa del s
+- 2Cr_3:16hizo...cadenas en el s, y las pusoH1687
+- 2Cr_5:5llevaron...y todos los utensilios del s
+- 2Cr_5:7metieron el arca...en el s de la casa, enH1687
+- 2Cr_5:11y cuando los sacerdotes salieron del s
+- 2Cr_20:8y te han edificado en ella s a tu nombreH4720
+- 2Cr_26:18sal del s, porque has prevaricado, y noH4720
+- 2Cr_27:2salvo que no entró en el s de Jehová
+- 2Cr_29:5santificad...y sacad del s la inmundicia
+- 2Cr_29:7ni sacrificaron holocausto en el s al
+- 2Cr_29:21expiación por el...por el s y por JudáH4720
+- 2Cr_30:8someteos a Jehová, y venid a su s, elH4720
+- 2Cr_30:19según los ritos de purificación del sH6944
+- 2Cr_30:27oración llegó a la habitación de su s
+- 2Cr_35:5estad en el s según la distribución de
+- 2Cr_36:17mató a...sus jóvenes en la casa de su sH4720
+- Esd_9:8para darnos un lugar seguro en su s
+- Neh_10:39allí estarán los utensilios del sH4720
+- Sal_20:2envíe ayuda desde el s, y desde SionH6944
+- Sal_46:4Dios, el s de las moradas del Altísimo
+- Sal_60:6Dios ha dicho en su s: Yo me alegraréH6944
+- Sal_63:2para ver tu...como te he mirado en el sH6944
+- Sal_68:17carros...el Señor viene del Sinaí a su s
+- Sal_68:24vieron tus caminos, oh Dios...en el sH6944
+- Sal_68:35temible eres, oh Dios, desde tus s; el
+- Sal_73:17entrando en el s de Dios comprendí elH4720
+- Sal_74:3el mal que el enemigo ha hecho en el sH6944
+- Sal_74:7han puesto a fuego tu s, han profanadoH4720
+- Sal_78:69edificó...s a manera de eminencia, comoH4720
+- Sal_96:6delante de él; poder y gloria en su sH4720
+- Sal_102:19miró desde lo alto de su s; JehováH6944
+- Sal_108:7Dios ha dicho en su s: Yo me alegraréH6944
+- Sal_114:2vino a ser su s, e Israel su señoríoH6944
+- Sal_134:2alzad vuestras manos al s, y bendecidH6944
+- Sal_150:1alabad a Dios en su s; alabadle en laH6944
+- Isa_8:14él será por s; pero a las dos casas deH4720
+- Isa_16:12cuando...Moab...venga a su s a orar, noH4720
+- Isa_43:28yo profané los príncipes del s, y puseH6944
+- Isa_60:13decorar el lugar de mi s; y yo honraréH4720
+- Isa_62:9sino...lo beberán en los atrios de mi sH6944
+- Isa_63:18nuestros enemigos han hollado tu sH6944
+- Isa_64:11casa de nuestro s y de nuestra gloria
+- Jer_17:12trono de gloria...lugar de nuestro sH4720
+- Jer_51:51vinieron extranjeros contra los s deH4720
+- Lam_1:10visto entrar en su s a las nacionesH4720
+- Lam_2:7desechó el Señor...altar, menospreció su sH4720
+- Lam_2:20¿han de ser muertos en el s del SeñorH4720
+- Lam_4:1las piedras del s están esparcidas porH6944
+- Eze_5:11por haber profanado mi s con todas tusH4720
+- Eze_7:24haré cesar la...sus s serán profanados
+- Eze_8:6Israel hace aquí para alejarme de mi s?[[H4720]]
+- Eze_9:6matad a viejos...y comenzaréis por mi sH4720
+- Eze_11:16seré...s en las tierras adonde lleguenH4720
+- Eze_21:2palabra sobre los s, y profetiza contra
+- Eze_22:8s menospreciaste, y mis días de reposo
+- Eze_22:26sacerdotes...contaminaron mis s; entre
+- Eze_23:38aun esto...hicieron: contaminaron mi sH4720
+- Eze_23:39en mi s el mismo día para contaminarloH4720
+- Eze_24:21yo profano mi s, la gloria de vuestroH4720
+- Eze_25:3cuando mi s era profanado, y la tierraH4720
+- Eze_28:18y con la iniquidad de...profanaste tu sH4720
+- Eze_37:26pondré mi s entre ellos para siempreH4720
+- Eze_37:28estando mi s en medio de ellos paraH4720
+- Eze_41:21el frente del s era como el otro frenteH6944
+- Eze_41:23el templo y el s tenían dos puertasH6944
+- Eze_42:20para hacer separación entre el s y elH6944
+- Eze_43:21y lo quemarás conforme a...fuera del sH4720
+- Eze_44:1me hizo volver hacia la puerta...del sH4720
+- Eze_44:5pon atención...todas las salidas del sH4720
+- Eze_44:7traer extranjeros...para estar en mi s
+- Eze_44:8como guardas de las ordenanzas en mi sH4720
+- Eze_44:9ningún hijo de extranjero...entrará en...sH4720
+- Eze_44:11servirán en mi s como porteros a lasH4720
+- Eze_44:15guardaron el ordenamiento del s cuandoH4720
+- Eze_44:16entrarán en mi s, y se acercarán a miH4720
+- Eze_44:19las dejarán en las cámaras del s, y se
+- Eze_44:27día que entre al s, al atrio interiorH6944
+- Eze_44:27día que entre...para ministrar en el sH6944
+- Eze_45:2para el s quinientas cañas de longitudH6944
+- Eze_45:3lo cual estará el s y el lugar santísimoH4720
+- Eze_45:4para los sacerdotes, ministros del sH4720
+- Eze_45:4casas, y como recinto sagrado para el sH4720
+- Eze_45:6-7delante de lo que se apartó para el s
+- Eze_45:7junto a lo que se apartó para el s, de
+- Eze_45:18tomarás, un becerro...purificarás el sH4720
+- Eze_47:12sus aguas salen del s; y su fruto seráH4720
+- Eze_48:8del mar; y el s estará en medio de ellaH4720
+- Eze_48:10el s de Jehová estará en medio de ellaH4720
+- Eze_48:20reservaréis como porción para el s, y
+- Eze_48:21el s de la casa estará en medio de ellaH4720
+- Dan_8:11el lugar de su s fue echado por tierraH4720
+- Dan_8:13entregando el s y el ejército para serH6944
+- Dan_8:14hasta 2.300...luego el s será purificadoH6944
+- Dan_9:17rostro resplandezca sobre tu s asoladoH4720
+- Dan_9:26ha de venir destruirá la ciudad y el sH6944
+- Dan_11:31tropas...profanarán el s y la fortalezaH4720
+- Amó_7:9y los s de Israel serán asolados, y meH4720
+- Amó_7:13Bet-el, porque es s del rey, y capitalH4720
+- Sof_3:4sacerdotes contaminaron el s...la leyH6944
+- Mal_2:11Judá ha profanado el s de Jehová queH6944
+- Luc_1:9el incienso, entrando en el s del SeñorG3485
+- Luc_1:21extrañaba de que él se demorase en el sG3485
+- Luc_1:22comprendieron que...visto visión en el sG3485
+- Hec_17:23mirando vuestros s, hallé...un altar
+- Heb_8:2ministro del s, y de...tabernáculo queG39
+- Heb_9:1aun el primer pacto tenía...un s terrenalG39
+- Heb_9:24no entró Cristo en el s hecho de mano
+- Heb_13:11cuya sangre...es introducida en el s porG39

@@ -1,0 +1,103 @@
+---
+tipo: concordancia
+palabra: AJENO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AJENO, A
+
+- Gén_15:13que tu descendencia morará en tierra a
+- Gén_35:2quitad...dioses a que hay entre vosotrosH5236
+- Gén_35:4así dieron...todos los dioses a que habíaH5236
+- Éxo_2:22porque dijo: Forastero soy en tierra aH5237
+- Éxo_18:3dijo: Forastero he sido en tierra aH5237
+- Éxo_20:3; Deu_5:7no tendrás dioses a delante deH312
+- Deu_6:14no andaréis en pos de dioses a, deH312
+- Deu_7:4desviará a tu hijo...servirán a dioses aH312
+- Deu_8:19y anduvieras en pos de dioses a, y lesH312
+- Deu_11:16os apartéis y sirváis a dioses a, y osH312
+- Deu_11:28para ir en pos de dioses a que no habéisH312
+- Deu_13:2vamos en pos de dioses a...no conocisteH312
+- Deu_13:6vamos y sirvamos a dioses a, que ni túH312
+- Deu_13:13y sirvamos a dioses a, que vosotros noH312
+- Deu_17:3que hubiese ido y servido a dioses a, yH312
+- Deu_18:20o que hablare en nombre de dioses a, elH312
+- Deu_28:14no te apartares...para ir tras dioses aH312
+- Deu_28:36allá servirás a dioses a, al palo y a laH312
+- Deu_28:64servirás a dioses a que no conociste túH312
+- Deu_29:26sirvieron a dioses a, y se inclinaronH312
+- Deu_30:17inclinares a dioses a y les sirvieresH312
+- Deu_31:16fornicará tras los dioses a de la tierraH5236
+- Deu_31:18el mal...por haberse vuelto a dioses aH312
+- Deu_31:20y se volverán a dioses a y les serviránH312
+- Deu_32:16le despertaron a celo con los dioses aH2114
+- Jos_23:16honrando a dioses a e inclinándoos aH312
+- Jos_24:20y sirvieres a dioses a, él se volveráH5236
+- Jos_24:23quitad...los dioses a que están entreH5236
+- Jue_2:17tras dioses a, a los cuales adoraronH312
+- Jue_2:19siguiendo a dioses a para servirlesH312
+- Jue_10:13y habéis servido a dioses a; por tantoH312
+- Jue_10:16quitaron de...los dioses a, y sirvieronH5236
+- 1Sa_7:3quitad los dioses a y a Astarot deH5236
+- 1Sa_8:8dejándome a mí y sirviendo a dioses aH312
+- 1Sa_26:19arrojado hoy...Vé y sirve a dioses aH312
+- 1Re_9:6que fuereis y sirviereis a dioses aH312
+- 1Re_9:9echaron mano a dioses a, y los adoraronH312
+- 1Re_11:4inclinaron su corazón tras dioses aH312
+- 1Re_11:10que no siguiese a dioses a; mas él noH312
+- 1Re_14:9pues...te hiciste dioses a e imágenes deH312
+- 2Re_17:7hijos de Israel...temieron a dioses aH312
+- 2Re_17:37por obra, y no temeréis a dioses aH312
+- 2Re_17:38no olvidaréis...ni temeréis a dioses aH312
+- 2Re_22:17cuanto...quemaron incienso a dioses aH312
+- 2Cr_7:19si vosotros...sirviereis a dioses aH312
+- 2Cr_7:22por cuanto...y han abrazado a dioses aH312
+- 2Cr_28:25para quemar incienso a los dioses aH312
+- 2Cr_33:15quitó los dioses a, y el ídolo de laH5236
+- 2Cr_34:25han ofrecido sacrificios a dioses aH312
+- Job_24:6siegan...los impíos vendimian la viña aH7563
+- Sal_44:20o alzado nuestras manos a dioses aH2114
+- Sal_81:9no habrán en ti dios a, ni te inclinarásH2114
+- Pro_2:16de la a que halaga con sus palabrasH2114
+- Pro_5:20¿y por que...andarás ciego con la mujer aH2114
+- Pro_7:5para que te guarden de la mujer a, y deH2114
+- Pro_26:17que...se deja llevar de la ira en pleito a
+- Pro_27:2alábete el...el a, y no los labios tuyosH5237
+- Isa_43:12oír, no hubo entre vosotros dios aH2114
+- Jer_5:19y servisteis a dioses a en...tierraH5236
+- Jer_5:19así serviréis a extraños en tierra aH5236
+- Jer_7:6ni anduviereis en pos de dioses a paraH312
+- Jer_7:18tortas a la reina...ofrendas a dioses aH312
+- Jer_8:19me hicieron airar con...con vanidades a?[[H5236]]
+- Jer_11:10se fueron tras dioses a para servirlesH312
+- Jer_13:10que va en pos de dioses a para servirlesH312
+- Jer_16:11padres...anduvieron en pos de dioses aH312
+- Jer_16:13serviréis a dioses a de día y de nocheH312
+- Jer_19:4y ofrecieron en él incienso a dioses aH312
+- Jer_19:13y vertieron libaciones a dioses aH312
+- Jer_22:9y adoraron dioses a y les sirvieronH312
+- Jer_22:26te haré llevar...a tierra a en que noH312
+- Jer_25:6y no...en pos de dioses a, sirviéndolesH312
+- Jer_32:29derramaron libaciones a dioses a, paraH312
+- Jer_35:15no vayáis tras dioses a para servirlesH312
+- Jer_44:3a ofrecer incienso, honrando a dioses aH312
+- Jer_44:5para dejar de ofrecer incienso a dioses aH312
+- Jer_44:8ofreciendo incienso a dioses a en laH312
+- Jer_44:15que...habían ofrecido incienso a dioses aH312
+- Eze_16:32que en lugar de su marido recibe a aH2114
+- Dan_11:39con un dios a...colmará de honores aH5236
+- Ose_3:1cuales miran a dioses a, y aman tortasH312
+- Hab_1:6que camina...para poseer las moradas a
+- Luc_16:12si en lo a no fuisteis fieles, ¿quiénG245
+- Hec_7:6sería extranjera en tierra a, y queG245
+- Rom_14:4tú quién eres, que juzgas al criado a?[[G245]]
+- Rom_15:20para no edificar sobre fundamento aG245
+- 2Co_10:15no nos gloriamos...trabajos a, sinoG245
+- Efe_2:12y a los pactos de la promesa, sinG3581
+- Efe_4:18a de la vida de Dios por la ignoranciaG526
+- 2Ts_3:11en nada, sino entreteniéndose en lo aG4020
+- 1Ti_5:22ninguno, ni participes en pecados aG245
+- Heb_9:25entra el sumo sacerdote con sangre aG245
+- Heb_11:9por la fe habitó...en tierra a, morandoG245
+- 1Pe_4:15padezca...o por entremeterse en lo aG244

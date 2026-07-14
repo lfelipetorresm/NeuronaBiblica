@@ -1,0 +1,167 @@
+---
+tipo: concordancia
+palabra: CONFIAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONFIAR
+
+- Núm_23:9aquí un pueblo que habitará confiadoH910
+- Deu_28:52caigan tus muros...en que tú confíasH982
+- Deu_33:12el amado de Jehová habitará confiadoH983
+- Deu_33:28Israel habitará confiado, la fuente deH983
+- Jue_18:7el pueblo...seguro, ocioso y confiadoH982
+- Jue_20:36estaban confiados en las emboscadas queH982
+- 2Sa_22:3Dios...fortaleza mía, en él confiaréH2620
+- 2Re_18:20¿en qué confías, que te has rebeladoH982
+- 2Re_18:21confías en este báculo de caña cascadaH982
+- 2Re_18:21es Faraón para...los que en él confíanH982
+- 2Re_18:22me decís: Nosotros confiamos en JehováH982
+- 2Re_18:24aunque estés confiado en Egipto conH982
+- 2Re_18:30no os haga Ezequías confiar en JehováH982
+- 2Re_19:10te engañe tu Dios en quien tú confíasH982
+- 2Re_22:7del dinero cuyo manejo se les confiareH5414
+- 2Cr_32:10¿en quién confiáis...al resistir elH982
+- Job_4:18he aquí, en sus siervos no confía, yH539
+- Job_15:15en sus santos no confía, y ni aun losH539
+- Job_15:31no confíe el iluso en la vanidad porqueH539
+- Job_39:11¿confiarás tú en él, por ser grande suH982
+- Sal_2:12bienaventurados...los que en él confíanH2620
+- Sal_4:5ofreced sacrificios...y confiad en JehováH982
+- Sal_4:8solo tú, Jehová, me haces vivir confiadoH983
+- Sal_5:11alégrense todos los que en ti confíanH2620
+- Sal_7:1Dios mío, en ti he confiado; sálvameH2620
+- Sal_9:10ti confiarán los que conocen tu nombreH982
+- Sal_11:1en Jehová he confiado; ¿cómo decís a miH2620
+- Sal_13:5mas yo en tu misericordia he confiadoH982
+- Sal_16:1guárdame, oh Dios...en ti he confiadoH2620
+- Sal_18:2Jehová...fortaleza mía, en él confiaréH2620
+- Sal_21:7por cuanto el rey confía en Jehová, y enH982
+- Sal_22:5confiaron en...y no fueron avergonzadosH982
+- Sal_22:9el que me hizo estar confiado desde queH982
+- Sal_25:2mío, en ti confío; no sea yo avergonzadoH982
+- Sal_25:20guarda...líbrame...porque en ti confiéH2620
+- Sal_26:1he confiado...en Jehová sin titubearH982
+- Sal_27:3se levante guerra, yo estaré confiadoH982
+- Sal_28:7en él confió mi corazón, y fui ayudadoH982
+- Sal_31:1en ti, oh Jehová, he confiado no sea yoH2620
+- Sal_31:14mas yo en ti confío, oh Jehová digoH982
+- Sal_33:21en su santo nombre hemos confiadoH982
+- Sal_34:8dichoso el hombre que confía en élH2620
+- Sal_34:22y no serán condenados...en él confíanH2620
+- Sal_37:3confía en Jehová, y haz el bienH982
+- Sal_37:5encomienda...y confía en él y él haráH982
+- Sal_40:3verán...temerán, y confiarán en JehováH982
+- Sal_41:9hombre de mi paz, en quien yo confiabaH982
+- Sal_44:6no confiaré en mi arco, ni mi espadaH982
+- Sal_49:6los que confían en sus bienes, y de laH982
+- Sal_52:7confió en la multitud de sus riquezasH982
+- Sal_52:8yo...en la misericordia de Dios confíoH982
+- Sal_55:23de sus días; pero yo en ti confiaréH982
+- Sal_56:3en el día que temo, yo en ti confíoH982
+- Sal_56:4, Sal_56:11en Dios he confiado, no temeré, ¿quéH982
+- Sal_57:1porque en ti ha confiado mi alma, y enH2620
+- Sal_62:10no confíes en la violencia, ni en laH982
+- Sal_64:10se alegrara el justo...confiará en élH2620
+- Sal_69:6no sean avergonzados...que en ti confíanH6960
+- Sal_78:22ni habían confiado en su salvaciónH982
+- Sal_84:12dichoso el hombre que en ti confíaH982
+- Sal_86:2salva tú...a tu siervo que en ti confíaH982
+- Sal_91:2castillo mío; mi Dios, en quien confiaréH982
+- Sal_112:7su corazón...firme, confiado en JehováH982
+- Sal_115:8hacen, y cualquiera que confía en ellosH982
+- Sal_115:9oh Israel, confía en Jehová, él es tuH982
+- Sal_115:10casa de Aarón, confiad en JehováH982
+- Sal_115:11los que teméis a Jehová, confiad enH982
+- Sal_118:8-9mejor es confiar en Jehová que c enH2620
+- Sal_119:42daré...que en tu palabra he confiadoH982
+- Sal_125:1los que confían en Jehová son como elH982
+- Sal_135:18semejantes...los que en ellos confíanH982
+- Sal_141:8en ti he confiado; no desampares miH2620
+- Sal_143:8hazme oír...porque en ti he confiadoH982
+- Sal_144:2escudo mío, en quien he confiadoH2620
+- Sal_146:3no confiéis en los príncipes, ni enH982
+- Pro_3:29prójimo que habita confiado junto a tiH983
+- Pro_10:9que camina en integridad anda confiadoH983
+- Pro_11:28el que confía en sus riquezas caeráH982
+- Pro_16:20que confía en Jehová es bienaventuradoH982
+- Pro_21:22derribó la fuerza en que ella confiabaH4009
+- Pro_28:1mas el justo está confiado como un leónH982
+- Pro_28:25mas el que confía en jehová prosperaráH982
+- Pro_28:26el que confía en su propio corazón esH982
+- Pro_29:25el que confía en Jehová será exaltadoH982
+- Pro_31:11corazón de su...está en ella confiadoH982
+- Isa_8:17esperaré...a Jehová...y en él confiaréH6960
+- Isa_14:30menesterosos se acostarán confiadosH983
+- Isa_26:3guardarás en...porque en ti ha confiadoH982
+- Isa_26:4confiad en Jehová perpetuamente, porqueH982
+- Isa_30:12confiasteis en violencia y en iniquidadH982
+- Isa_30:18bienaventurados todos los que confíanH2442
+- Isa_31:1¡ay de los que...y confían en caballosH982
+- Isa_36:5¿en quién confías para que te rebelesH982
+- Isa_36:6confías en este báculo de caña frágilH982
+- Isa_36:6tal es...con todos los que en él confíanH982
+- Isa_36:7y si...En Jehová nuestro Dios confiamosH982
+- Isa_36:9aunque estés confiado en Egipto con susH982
+- Isa_36:15ni os haga Ezequías confiar en JehováH982
+- Isa_37:10te engañe tu Dios en quien tú confíasH982
+- Isa_42:17confundidos los que confían en ídolosH982
+- Isa_47:10te confiaste en tu maldad, diciendoH982
+- Isa_48:2en el Dios de Israel confían; su nombreH5564
+- Isa_50:10el que...confíe en el nombre de JehováH982
+- Isa_57:13que en mí confía tendrá la tierra porH2620
+- Isa_59:4confían en vanidad, y hablan vanidadesH982
+- Jer_2:37a aquellos en quienes tú confiabasH4009
+- Jer_5:17tus ciudades fortificadas en que confíasH982
+- Jer_7:8confías en palabras de mentira, que noH982
+- Jer_7:14esta casa...en la que vosotros confiáisH982
+- Jer_13:25olvidaste...y confiaste en la mentiraH982
+- Jer_17:5maldito el varón...confía en el hombreH982
+- Jer_17:7bendito el varón que confía en JehováH982
+- Jer_23:6salvo Judá, e Israel habitará confiadoH983
+- Jer_28:15tú has hecho confiar en mentira a esteH982
+- Jer_29:31profetizó...os hizo confiar en mentiraH982
+- Jer_46:25a Faraón como a los que en él confíanH982
+- Jer_48:7confiaste en tus bienes y en...tesorosH982
+- Jer_49:4que confía en sus tesoros, la que diceH982
+- Jer_49:11huérfanos...en mí confiarán tus viudasH982
+- Eze_16:15pero confiaste en tu hermosura, y teH982
+- Eze_31:14ni confíen en su altura todos los queH5975
+- Eze_33:13y él confiado en su justicia hiciereH982
+- Dan_3:28libró a sus siervos que confiaron enH7365
+- Dan_6:23él, porque había confiado en su DiosH540
+- Dan_9:18no elevamos...ruegos ante ti confiados
+- Ose_10:13confiaste en tu camino y...riquezasH982
+- Ose_12:6vuélvete a...y en tu Dios confía siempreH6960
+- Amó_6:1los confiados en el monte de SamariaH7600
+- Miq_7:5no creáis en...ni confiéis en príncipeH539
+- Nah_1:7Jehová...conoce a los que en él confíanH2620
+- Hab_2:18que...confíe el hacedor en su obra?[[H982]]
+- Sof_2:15la ciudad alegre que estaba confiadaH983
+- Sof_3:2no confió en Jehová, no se acercó a suH982
+- Sof_3:12pueblo...el cual confiará en el nombreH2620
+- Mat_27:43confió en Dios; líbrele ahora si leG3982
+- Mar_10:24a los que confían en las riquezas![[G3982]]
+- Luc_11:22le quita...sus armas en que confiabaG3982
+- Luc_12:48al que mucho se le haya confiado másG1325
+- Luc_16:11y si...¿quién os confiará lo verdadero?[[G4100]]
+- Luc_18:9que confiaban en sí mismos como justosG3982
+- Jua_16:33pero confiad yo he vencido al mundoG2293
+- Hec_14:3hablando con...confiados en el SeñorG3955
+- Hec_27:25porque yo confío en Dios que será asíG4100
+- Rom_2:19y confías en que eres guía de...ciegosG3982
+- Rom_3:2les ha sido confiada la palabra de DiosG4100
+- Rom_14:14y confío en el Señor Jesús, que nadaG3982
+- 2Co_1:9que no confiásemos en nosotros mismosG3982
+- 2Co_2:3confiando...que mi gozo es el de todosG3982
+- 2Co_5:8pero confiamos, y más quisiéramos estarG2292
+- Gál_5:10confío...que no pensaréis de otro modoG3982
+- Flp_1:25y confiado en esto, sé que quedaréG3982
+- Flp_2:24confío en el Señor que yo también iréG3982
+- Flp_3:4yo tengo...de qué confiar en la carneG4006
+- Flp_3:4que tiene de qué confiar en la carne, yoG3982
+- 1Ts_2:4para que se nos confiase el evangelioG4100
+- Flm_1:21he escrito confiando en tu obedienciaG3982
+- Heb_2:13y otra vez: Yo confiaré en élG3982
+- Heb_13:18confiamos en...tenemos buena concienciaG3982

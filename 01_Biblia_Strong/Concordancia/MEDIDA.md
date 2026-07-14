@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: MEDIDA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MEDIDA
+
+- Gén_18:6toma pronto tres m de flor de harinaH5429
+- Éxo_26:2las cortinas tendrán una misma mH4060
+- Éxo_26:8una misma m tendrán las once cortinasH4060
+- Éxo_36:9codos, todas las cortinas eran de igual mH4060
+- Éxo_36:15las once cortinas tenían una misma mH4060
+- Lev_19:35en m de tierra, en peso ni en otra mH4884
+- Lev_19:36pesos...y m justas tendréis. Yo JehováH1969
+- Rut_3:15midió seis m de cebada, y se las puso
+- Rut_3:17seis m de cebada me dio, diciéndome: A
+- 1Sa_25:18cinco ovejas...5 m de grano tostadoH5429
+- 1Re_7:9ajustadas con sierras según las m, asíH4060
+- 1Re_7:11piedras...labradas conforme a sus m, yH4060
+- 1Re_7:37diez basas, fundidas de...de una misma mH4060
+- 1Re_18:32zanja...en que cupieran dos m de granoH5429
+- 1Cr_22:14y bronce y hierro sin m, porque esH4948
+- 1Cr_23:29para lo tostado, y para toda m y cuentaH4884
+- 2Cr_3:3son las m que dio...a los cimientosH4060
+- 2Cr_5:13y a m que alzaban la voz con trompetas
+- Esd_7:22y cien batos de aceite; y sal sin m
+- Job_28:25al dar peso...poner las aguas por mH4060
+- Job_38:5¿quién ordenó sus m, si lo sabes?[[H4461]]
+- Sal_39:4saber...cuánta sea la m de mis díasH4060
+- Pro_20:10pesa falsa y m falsa...abominación aH374
+- Isa_5:14ensanchó su...sin m extendió su bocaH2706
+- Isa_27:8con m lo castigarás en sus vástagosH5432
+- Jer_31:39saldrá más allá el cordel de la mH4060
+- Jer_51:13ha venido tu fin, la m de tu codiciaH520
+- Eze_4:11beberás el agua por m, la sexta parteH4884
+- Eze_4:16y beberán el agua por m y con espantoH4884
+- Eze_40:10las tres de una m; también de una m losH4060
+- Eze_40:21sus arcos eran como la m de la puertaH4060
+- Eze_40:22arcos y...conforme a la m de la puertaH4060
+- Eze_40:24y midió...sus arcos conforme a estas mH4060
+- Eze_40:28, Eze_40:32midió la puerta conforme a estas mH4060
+- Eze_40:29y sus arcos eran conforme a estas mH4060
+- Eze_40:33postes y sus arcos conforme a estas mH4060
+- Eze_40:35me llevó...y midió conforme a estas mH4060
+- Eze_41:17encima de la puerta, y hasta...tomó mH4060
+- Eze_42:15que acabó las m de la casa de adentroH4058
+- Eze_43:13estas son las m del altar por codosH4060
+- Eze_45:3y de esta m medirás en longitud 25.000H4060
+- Eze_45:11el efa y el bato serán de una misma mH8506
+- Eze_45:11efa; la m de ellos será según el homerH4971
+- Eze_46:22patios...una misma m tenían los cuatroH4060
+- Eze_48:16estas serán sus m; al lado del norteH4060
+- Eze_48:30al lado del norte, 4.500 cañas por mH4060
+- Eze_48:33al lado del sur, 4.500 cañas por m, yH4060
+- Amó_8:5graneros del pan, y achicaremos la mH374
+- Miq_6:10¿hay aún...m escasa que es detestable?[[H374]]
+- Mat_7:2con la ni con que medís, os será medidoG3358
+- Mat_13:33y escondió en tres m de harina, hastaG4568
+- Mat_23:32también llenad la m de vuestros padres![[G3358]]
+- Mar_4:24con la m con que medís, os será medidoG3358
+- Luc_6:38dad, y se os dará; m buena, apretadaG3358
+- Luc_6:38porque con la misma m con que medís, osG3358
+- Luc_13:21una mujer tomó y escondió en tres mG4568
+- Luc_16:7él dijo: Cien m de trigo. El le dijoG2884
+- Jua_3:34pues Dios no da el Espíritu por mG3358
+- Rom_12:3a la m de fe que Dios repartió a cadaG3358
+- Rom_12:6profecía, úsese conforme a la m de laG356
+- 2Co_10:13regla que Dios nos ha dado por mG3358
+- Efe_4:7la gracia conforme a la m del don deG3358
+- Efe_4:13a la m de la...de la plenitud de CristoG3358
+- 1Ts_2:16colman ellos...la m de sus pecados
+- Rev_21:17de m de hombre, la cual es de ángelG3354

@@ -1,0 +1,188 @@
+---
+tipo: concordancia
+palabra: CARRO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CARRO
+
+- Gén_41:43subir en su segundo c, y pregonaronH4818
+- Gén_45:19tomaos de la tierra de Egipto c paraH5699
+- Gén_45:21dio...c conforme a la orden de FaraónH5699
+- Gén_45:27viendo Jacob los c que José enviabaH5699
+- Gén_46:5en los c que Faraón había enviado paraH5699
+- Gén_46:29y José unció su c y vino a recibir aH4818
+- Gén_50:9subieron también con él c y gente de aH7393
+- Éxo_14:6unció su c, y tomó consigo su puebloH7393
+- Éxo_14:7tomó 600 c...y todos los c de Egipto, yH7393
+- Éxo_14:9con toda la caballería y c de FaraónH7393
+- Éxo_14:17glorificaré en...su ejército, en sus cH7393
+- Éxo_14:18me glorificaré en Faraón, en sus c, yH7393
+- Éxo_14:23entraron...c, y su gente de a caballoH7393
+- Éxo_14:25quitó las ruedas de sus c...trastornóH4818
+- Éxo_14:26que las aguas vuelvan...sobre sus c, yH7393
+- Éxo_14:28cubrieron los c y la caballería, y todoH7393
+- Éxo_15:4echó en el mar los c de Faraón y suH4818
+- Éxo_15:19Faraón entró cabalgando con sus c, yH7393
+- Núm_7:3trajeron...seis c cubiertos y 12 bueyesH5699
+- Núm_7:3por cada dos príncipes un c, y cada unoH5699
+- Núm_7:6Moisés recibió los c y los bueyes, y losH5699
+- Núm_7:7dos c y cuatro bueyes dio a los hijos deH5699
+- Núm_7:8a los hijos de Merari dio cuatro c y 8H5699
+- Deu_11:4lo que hizo...a sus caballos y a sus cH7393
+- Deu_20:1si vieres...c, y un pueblo más grandeH7393
+- Jos_11:4muchísimos caballos y c de guerraH7393
+- Jos_11:6sus caballos, y sus c quemarás a fuegoH4818
+- Jos_11:9desjarretó sus caballos, y sus c quemóH4818
+- Jos_17:16todos los cananeos...tienen c herradosH7393
+- Jos_17:18arrojarás al cananeo, aunque tenga cH7393
+- Jos_24:6egipcios siguieron...con c y caballeríaH7393
+- Jue_1:19habitaban en los llanos...tenían cH7393
+- Jue_4:3tenía 900 c herrados, y había oprimidoH7393
+- Jue_4:7a Sísara...con sus c y su ejército, y loH7393
+- Jue_4:13reunió...sus c, novecientos c herradosH7393
+- Jue_4:15Jehová quebrantó a Sísara, a...sus c yH7393
+- Jue_4:15y Sísara descendió del c, y huyó a pieH4818
+- Jue_4:16Bara c siguió los c y el ejército hastaH7393
+- Jue_5:28¿por qué tarda su c en...ruedas de sus cH4818
+- 1Sa_6:7un c nuevo, y...uncid las vacas al cH5699
+- 1Sa_6:8el arca...la pondréis sobre el c, y lasH5699
+- 1Sa_6:10tomando dos vacas...las uncieron al cH5699
+- 1Sa_6:11pusieron el arca de Jehová sobre el cH5699
+- 1Sa_6:14c vino al campo de Josué de Bet-semesH5699
+- 1Sa_6:14paró...y ellos cortaron la madera del cH5699
+- 1Sa_8:11vuestros hijos, y los pondrá en sus cH4818
+- 1Sa_8:11los pondrá...que corran delante de su cH4818
+- 1Sa_8:12y a que hagan...los pertrechos de sus cH7393
+- 1Sa_13:5los filisteos se juntaron...treinta mil cH7393
+- 2Sa_1:6venían tras él c y gente de a caballoH7393
+- 2Sa_6:3pusieron el arca de Dios sobre un c, y laH5699
+- 2Sa_6:3Uza y Ahío, hijos de...guiaban el c nuevoH5699
+- 2Sa_8:4desjarretó...los caballos de todos los cH7393
+- 2Sa_8:4tomó...pero dejó suficientes para cien cH7393
+- 2Sa_10:18David mató...la gente de setecientos cH7393
+- 2Sa_15:1que Absalón se hizo de c y caballos, yH4818
+- 1Re_1:5se hizo de c y de gente de a caballoH7393
+- 1Re_4:26tenía 40.000 caballos en...para sus cH4817
+- 1Re_7:33forma...como la de las ruedas de un cH4818
+- 1Re_9:19las ciudades de los c, y las ciudadesH7393
+- 1Re_9:22comandantes de sus c, o su gente de aH7393
+- 1Re_10:26y juntó Salomón c...y tenía 1.400 cH7393
+- 1Re_10:26cuales puso en las ciudades de los cH7393
+- 1Re_10:29el c por 600 piezas de plata, y elH4818
+- 1Re_12:18se apresuró a subirse en un c y huirH4818
+- 1Re_16:9Zimri, comandante de la mitad de los cH7393
+- 1Re_18:44tu c y desciende, para que la lluviaH4818
+- 1Re_20:1juntó...a 32 reyes, con caballos y cH7393
+- 1Re_20:21hirió la gente de a caballo, y los cH7393
+- 1Re_20:25caballo por caballo, y c por c; luegoH7393
+- 1Re_20:33a Acab, y él le hizo subir en un cH4818
+- 1Re_22:31mandado a sus 32 capitanes de los cH7393
+- 1Re_22:32cuando los capitanes de los c vieronH7393
+- 1Re_22:33viendo...los capitanes de los c que noH7393
+- 1Re_22:35estuvo en su c delante de los siriosH4818
+- 1Re_22:35la sangre...corría por el fondo del cH7393
+- 1Re_22:38y lavaron el c...estanque de SamariaH7393
+- 2Re_2:11un c de fuego con...apartó a los dosH7393
+- 2Re_2:12c de Israel y su gente de a caballo![[H7393]]
+- 2Re_5:9vino Naamán...con su c, y se paró a lasH7393
+- 2Re_5:21se bajó del c para recibirle, y dijoH4818
+- 2Re_5:26el hombre volvió de su c a recibirte?[[H4818]]
+- 2Re_6:14envió el rey...c, y un gran ejércitoH7393
+- 2Re_6:15sitiada la...con gente de a caballo y cH7393
+- 2Re_6:17y de c de fuego alrededor de EliseoH7393
+- 2Re_7:6oyese estruendo de c, ruido de caballosH7393
+- 2Re_7:14tomaron, pues, dos caballos de un c, yH7393
+- 2Re_8:21Joram...pasó a Zair, y todos sus c conH7393
+- 2Re_8:21atacó a los...y a los capitanes de los cH7393
+- 2Re_9:21unce el c. Y cuando estaba uncido su cH7393
+- 2Re_9:21salieron Joram rey...cada uno en su cH7393
+- 2Re_9:24Jehú...hirió a Joram...y él cayó en su cH7393
+- 2Re_9:27diciendo: Herid también a éste en el cH4818
+- 2Re_9:28le llevaron en un c a Jerusalén, y alláH7392
+- 2Re_10:2los que tienen c y gente de a caballoH7393
+- 2Re_10:15luego lo hizo subir consigo en el cH4818
+- 2Re_10:16dijo: Ven...lo pusieron, pues, en su cH7393
+- 2Re_13:7y diez c, y diez mil hombres de a pieH7393
+- 2Re_13:14padre mío, c de Israel y su gente deH7393
+- 2Re_18:24estés confiado en Egipto con sus c yH7393
+- 2Re_19:23con...mis c he subido a las alturas deH7393
+- 2Re_23:11quitó...y quemó al fuego los c del solH7393
+- 2Re_23:30siervos lo pusieron en un c...muerto
+- 1Cr_13:7c nuevo; y Uza y Ahío guiaban el cH5699
+- 1Cr_18:4y le tomó David mil c, siete mil de aH7393
+- 1Cr_18:4desjarretó David los caballos de...los cH7393
+- 1Cr_18:4desjarretó...excepto los de cien c queH7393
+- 1Cr_19:6plata para tomar a sueldo c y gente deH7393
+- 1Cr_19:7tomaron a sueldo 32.000 c, y al rey deH7393
+- 1Cr_19:18mató David...a 7.000 hombres de los cH7393
+- 1Cr_28:18oro...para el c de los querubines deH4818
+- 2Cr_1:14y juntó...c...las ciudades de los cH7393
+- 2Cr_1:14Salomón...tuvo 1.400 c y 12.000 jinetesH7393
+- 2Cr_1:17compraban...c por 600 piezas de plataH4818
+- 2Cr_8:6ciudades de los c y...gente de a caballoH7393
+- 2Cr_8:9comandantes de sus c, y su gente de aH7393
+- 2Cr_9:25caballerizas para sus caballos y c, yH4818
+- 2Cr_9:25jinetes...puso en las ciudades de los cH7393
+- 2Cr_10:18rey Roboam, y subiendo en su c huyó aH4818
+- 2Cr_12:3mil doscientos c, y con 60.000 hombresH7393
+- 2Cr_14:9ejército de un millón...y trescientos cH4818
+- 2Cr_16:8eran un ejército...con c y mucha genteH7393
+- 2Cr_18:30mandado a los capitanes de los c queH7393
+- 2Cr_18:31capitanes de los c vieron a JosafatH7393
+- 2Cr_18:32viendo los capitanes de los c que noH7393
+- 2Cr_18:34estuvo el rey de Israel en pie en el cH4818
+- 2Cr_21:9entonces pasó Joram con...todos sus cH7393
+- 2Cr_21:9Joram...derrotó...comandantes de sus cH7393
+- 2Cr_35:24lo sacaron de aquel c...un segundo cH4818
+- Sal_20:7confían en c, y aquéllos en caballosH7393
+- Sal_46:9quiebra el...y quema los c en el fuegoH5699
+- Sal_68:17los c de Dios se cuentan por...millaresH7393
+- Sal_76:6el c y el caballo fueron entorpecidosH7393
+- Cnt_1:9a yegua de los c de...te he comparadoH7393
+- Cnt_6:12alma me puso entre los c de AminadabH4818
+- Isa_2:7de caballos, y sus c son innumerablesH4818
+- Isa_5:28y las ruedas de sus c como torbellino
+- Isa_22:6Elam tomó aljaba, con c y con jinetesH7393
+- Isa_22:7tus hermosos valles fueron llenos de cH7393
+- Isa_22:18y allá estarán los c de tu gloria, ohH4818
+- Isa_31:1su esperanza...en c, porque son muchosH7393
+- Isa_36:9estés confiado en Egipto con sus c yH7393
+- Isa_37:24con la multitud de mis c subiré a lasH7393
+- Isa_43:17el que saca c y caballo, ejército yH7393
+- Isa_66:15Jehová vendrá con fuego, y sus c comoH4818
+- Isa_66:20y traerán...en c, en literas, en mulosH7393
+- Jer_4:13como nube, y su c como torbellinoH4818
+- Jer_17:25; Jer_22:4entrarán...en c y en caballosH7393
+- Jer_46:9alborotaos, c, y salgan los valientesH7393
+- Jer_47:3por el sonido de...el alboroto de sus cH7393
+- Jer_50:37espada...contra sus c, y contra todoH7393
+- Jer_51:21quebrantaré c y a...que en ellos subenH7393
+- Eze_23:24y vendrán contra ti c, carretas yH2021
+- Eze_26:7c y jinetes, y tropas y mucho puebloH7393
+- Eze_26:10el estruendo...de las ruedas y de los cH7393
+- Eze_27:20comerciaba contigo en paños...para cH7396
+- Dan_11:40levantará contra él...con c y genteH7393
+- Joe_2:5como estruendo de c saltarán sobre lasH4818
+- Amó_2:13como se aprieta el c...de gavillasH5699
+- Miq_1:13al c bestias veloces, oh moradores deH4818
+- Miq_5:10en aquel día, dice...haré destruir tus cH4818
+- Nah_2:3el c como fuego de antorchas; el díaH7393
+- Nah_2:4los c se precipitarán a las plazas, conH7393
+- Nah_2:13encenderé y reduciré a humo tus c, yH7393
+- Nah_3:2caballo atropellador, y c que saltaH4818
+- Hab_3:8cuando montaste...tus c de victoria?[[H4818]]
+- Hag_2:22trastornaré los c y los que...subenH4818
+- Zac_6:1cuatro c que salían de entre...montesH4818
+- Zac_6:2en el primer c había caballos alazanesH4818
+- Zac_6:2había...en el segundo c caballos negrosH4818
+- Zac_6:3en el tercer c caballos blancos, y en elH4818
+- Zac_6:3y en el cuarto c caballos overos ruciosH4818
+- Zac_6:6c con los caballos negros salía hacia
+- Zac_9:10de Efraín destruiré los c, y...caballosH7393
+- Hec_8:28volvía sentado en su c, y leyendo alG716
+- Hec_8:29a Felipe: Acércate y júntate a ese cG716
+- Hec_8:38mandó parar el c, y descendieron ambosG716
+- Rev_9:9era como el estruendo de muchos c deG716
+- Rev_18:13caballos y c, y esclavos, almas deG4480

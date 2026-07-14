@@ -1,0 +1,143 @@
+---
+tipo: concordancia
+palabra: JOAB
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JOAB
+
+- 1 General del ejército del rey David
+- 1Sa_26:6Abisai hijo de Sarvia, hermano de JH3097
+- 2Sa_2:13J siervos y los...de David salieronH3097
+- 2Sa_2:14y dijo Abner a J: Levántense ahora losH3097
+- 2Sa_2:14y maniobren...Y J respondió: LevántenseH3097
+- 2Sa_2:18tres hijos de Sarvia: J, Abisai y AsaelH3097
+- 2Sa_2:22levantaría yo mi rostro delante de J tuH3097
+- 2Sa_2:24mas J y Abisai siguieron a Abner; y seH3097
+- 2Sa_2:26dio voces a J, diciendo: ¿Consumirá laH3097
+- 2Sa_2:27y J respondió: Vive Dios, que si noH3097
+- 2Sa_2:28J tocó el cuerno, y todo el pueblo seH3097
+- 2Sa_2:30J también volvió de perseguir a AbnerH3097
+- 2Sa_2:32y caminaron toda aquella noche J y susH3097
+- 2Sa_3:22siervos de David y J venían del campoH3097
+- 2Sa_3:23llegó J...fue dado aviso a J, diciendoH3097
+- 2Sa_3:24J vino al rey, y le dijo: ¿Qué has hecho?[[H3097]]
+- 2Sa_3:26y saliendo J de la presencia de DavidH3097
+- 2Sa_3:27cuando Abner volvió...J lo llevó aparteH3097
+- 2Sa_3:29caiga sobre...J...falte de la casa de JH3097
+- 2Sa_3:30J, pues, y Abisai su hermano, mataron aH3097
+- 2Sa_3:31dijo David a J...Rasgad vuestros vestidosH3097
+- 2Sa_8:16J hijo de...era general de su ejércitoH3097
+- 2Sa_10:7David...envió a J con todo el ejércitoH3097
+- 2Sa_10:9viendo, pues, J que se le presentaba laH3097
+- 2Sa_10:13y se acercó J, y el pueblo que con élH3097
+- 2Sa_10:14se volvió...J de luchar contra...de AmónH3097
+- 2Sa_11:1David envió a J, y con él a sus siervosH3097
+- 2Sa_11:6David envió a decir a J: Envíame a UríasH3097
+- 2Sa_11:6envíame a...Y J envió a Urías a DavidH3097
+- 2Sa_11:7David le preguntó por la salud de J, yH3097
+- 2Sa_11:11mi señor J, y los siervos de mi señorH3097
+- 2Sa_11:14escribió David a J una carta, la cualH3097
+- 2Sa_11:16cuando J sitió la ciudad, puso a UríasH3097
+- 2Sa_11:17pelearon contra J, y cayeron algunosH3097
+- 2Sa_11:18entonces envió J e hizo saber a DavidH3097
+- 2Sa_11:22contó a David todo aquello a que J leH3097
+- 2Sa_11:25así dirás a J: No tengas pesar por estoH3097
+- 2Sa_12:26J peleaba contra Rabá...hijos de AmónH3097
+- 2Sa_12:27envió J mensajeros a David, diciendoH3097
+- 2Sa_14:1conociendo J...que el corazón del rey seH3097
+- 2Sa_14:2envió J a Tecoa, y tomó de allá...mujerH3097
+- 2Sa_14:3le hablarás...Y puso J las palabras en suH3097
+- 2Sa_14:19¿no anda...J contigo en...J, él me mandóH3097
+- 2Sa_14:20para mudar...J tu siervo ha hecho estoH3097
+- 2Sa_14:21el rey dijo a J: He aquí yo hago estoH3097
+- 2Sa_14:22J se postró en tierra sobre su rostroH3097
+- 2Sa_14:23se levantó...J y fue a Gesur, y trajo aH3097
+- 2Sa_14:29mandó Absalón por J, para enviarlo alH3097
+- 2Sa_14:30mirad, el campo de J está junto al míoH3097
+- 2Sa_14:31se levantó J y vino a casa de AbsalónH3097
+- 2Sa_14:32Absalón respondió a J...he enviado porH3097
+- 2Sa_14:33vino, pues, J al rey, y se lo hizo saberH3097
+- 2Sa_17:25Absalón nombró a Amasa...en lugar de JH3097
+- 2Sa_17:25Abigail...hermana de Sarvia madre de JH3097
+- 2Sa_18:2una tercera parte bajo el mando de JH3097
+- 2Sa_18:2de Abisai hijo de Sarvia, hermano de JH3097
+- 2Sa_18:5el rey mandó a J, a Abisai y...diciendoH3097
+- 2Sa_18:10viéndolo uno, avisó a J, diciendo: HeH3097
+- 2Sa_18:11y J respondió al hombre...Y viéndolo túH3097
+- 2Sa_18:12el hombre dijo a J: Aunque me pesarasH3097
+- 2Sa_18:14respondió J: No malgastaré mi tiempoH3097
+- 2Sa_18:15escuderos de J...hirieron a Absalón, yH3097
+- 2Sa_18:16J tocó la trompeta...J detuvo al puebloH3097
+- 2Sa_18:20respondió J: Hoy no llevarás las nuevasH3097
+- 2Sa_18:21J dijo a un etíope: Vé tú, y di al reyH3097
+- 2Sa_18:21y el etíope hizo reverencia ante J, yH3097
+- 2Sa_18:22entonces Ahimaas...volvió a decir a JH3097
+- 2Sa_18:22y J dijo: Hijo mío, ¿para qué has deH3097
+- 2Sa_18:29cuando envió J al siervo del rey y aH3097
+- 2Sa_19:1dieron aviso a J: He aquí el rey lloraH3097
+- 2Sa_19:5J vino al rey en la casa, y dijo: HoyH3097
+- 2Sa_19:13si no fueres general del...en lugar de JH3097
+- 2Sa_20:7salieron en pos de él los hombres de JH3097
+- 2Sa_20:8y J estaba ceñido de su ropa, y sobreH3097
+- 2Sa_20:9J dijo a Amasa: ¿Te va bien, hermanoH3097
+- 2Sa_20:9tomó J...la barba de Amasa, para besarloH3097
+- 2Sa_20:10de la daga que estaba en la mano de JH3097
+- 2Sa_20:10J y su...fueron en persecución de SebaH3097
+- 2Sa_20:11uno de los...de J se paró junto a élH3097
+- 2Sa_20:11ame a J y a David, vaya en pos de JH3097
+- 2Sa_20:13pasaron...los que seguían a J, para irH3097
+- 2Sa_20:15el pueblo que estaba con J trabajabaH3097
+- 2Sa_20:16os ruego que digáis a J que venga acáH3097
+- 2Sa_20:17dijo la mujer: ¿Eres tú J?...Yo soyH3097
+- 2Sa_20:20J respondió diciendo: Nunca tal, nuncaH3097
+- 2Sa_20:21la mujer dijo a J: He aquí su cabezaH3097
+- 2Sa_20:22cortaron la cabeza...la arrojaron a JH3097
+- 2Sa_20:22tocó...Y J se volvió al rey a JerusalénH3097
+- 2Sa_20:23así quedó J sobre todo el ejército deH3097
+- 2Sa_23:18Abisai hermano de J...fue el principalH3097
+- 2Sa_23:24Asael hermano de J fue de los treintaH3097
+- 2Sa_23:37Naharai...escudero de J hijo de SarviaH3097
+- 2Sa_24:2dijo el rey a J...Recorre ahora todas lasH3097
+- 2Sa_24:3J respondió al rey: Añada Jehová tuH3097
+- 2Sa_24:4prevaleció sobre J...Salió, pues, J conH3097
+- 2Sa_24:9y J dio el censo del pueblo al rey; yH3097
+- 1Re_1:7se había puesto de acuerdo con J hijoH3097
+- 1Re_1:19ha convidado...a J general del ejércitoH3097
+- 1Re_1:41oyendo J el sonido de la trompeta, dijoH3097
+- 1Re_2:5ya sabes tú lo que me ha hecho J hijo deH3097
+- 1Re_2:22ya tiene también...y a J hijo de SarviaH3097
+- 1Re_2:28vino la noticia a J...también J se habíaH3097
+- 1Re_2:28huyó J al tabernáculo de Jehová, y seH3097
+- 1Re_2:29J había huido al tabernáculo de JehováH3097
+- 1Re_2:30al rey...Así dijo J, y así me respondióH3097
+- 1Re_2:31quita de...la sangre que J ha derramadoH3097
+- 1Re_2:33la sangre...recaerá sobre la cabeza de JH3097
+- 1Re_11:15y subió J el general del ejército aH3097
+- 1Re_11:16seis meses habitó allí J, y todo IsraelH3097
+- 1Re_11:21que era muerto J general del ejércitoH3097
+- 1Cr_2:16hijos de Sarvia...Abisai, J y AsaelH3097
+- 1Cr_11:6J...subió el primero, y fue hecho jefeH3097
+- 1Cr_11:8muro; y J reparó el resto de la ciudadH3097
+- 1Cr_11:20Abisai, hermano de J, era jefe de losH3097
+- 1Cr_11:26los valientes de...Asael hermano de JH3097
+- 1Cr_11:39Naharai beerotita, escudero de J hijoH3097
+- 1Cr_18:15y J hijo de...era general del ejércitoH3097
+- 1Cr_19:8David, envió a J con todo el ejércitoH3097
+- 1Cr_19:10y viendo J que el ataque...había sidoH3097
+- 1Cr_19:14se acercó J...pelear contra los siriosH3097
+- 1Cr_19:15de Amón...huyeron...J volvió a JerusalénH3097
+- 1Cr_20:1J sacó las fuerzas del...y J batió a RabáH3097
+- 1Cr_21:2dijo David a J y...haced censo de IsraelH3097
+- 1Cr_21:3dijo J: Añada Jehová a su pueblo cienH3097
+- 1Cr_21:4la orden del rey pudo más que J. SalióH3097
+- 1Cr_21:4salió, por tanto, J, y recorrió todoH3097
+- 1Cr_21:6la orden del rey era abominable a JH3097
+- 1Cr_26:28había consagrado...y J hijo de SarviaH3097
+- 1Cr_27:7el cuarto jefe...era Asael hermano de JH3097
+- 1Cr_27:24J hijo de...había comenzado a contarH3097
+- 1Cr_27:34J era el general del ejército del reyH3097
+- Sal 60 tít.volvió J, y destrozó a 12.000 deH3097
+- 2 Hijo de Seraías, 1Cr_4:14H3097
+- 3 Ascendiente de un grupo que regresó del cautiverio con Zorobabel, Esd_2:6; Esd_8:9; Neh_7:11H3097

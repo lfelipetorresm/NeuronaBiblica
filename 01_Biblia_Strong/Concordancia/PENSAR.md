@@ -1,0 +1,156 @@
+---
+tipo: concordancia
+palabra: PENSAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PENSAR
+
+- Gén_20:10¿qué pensabas...que hicieses esto?[[H7200]]
+- Gén_26:7pensando que...los hombres...lo matarían
+- Gén_31:31pues pensé que quizá me quitarías por
+- Gén_44:28y pienso de cierto que fue despedazado
+- Gén_48:11a José: No pensaba yo ver tu rostro, yH6419
+- Gén_50:20pensasteis mal contra mí, mas Dios loH2803
+- Éxo_2:14¿piensas matarme como...al egipcio?[[H559]]
+- Núm_33:56a vosotros como yo pensé hacerles aH1819
+- Deu_9:4no pienses...diciendo: Por mi justicia
+- Deu_19:19haréis a él como él pensó hacer a suH2161
+- 1Sa_18:25Saúl pensaba hacer caer a David enH2803
+- 2Sa_14:13¿por qué...pensado tú cosa semejanteH2803
+- 2Sa_24:13piensa ahora, y mira qué responderé alH3045
+- Neh_6:2mas ellos habían pensado hacerme malH2803
+- Neh_6:6que tú y los judíos pensáis rebelarosH2803
+- Neh_9:17pensaron poner caudillo para volverse a
+- Est_4:13no pienses que escaparás en la casaH1819
+- Job_6:26¿pensáis censurar palabras...discursosH2803
+- Job_35:2¿piensas que es cosa recta lo que hasH2803
+- Sal_2:1y los pueblos piensan cosas vanas?[[H1897]]
+- Sal_35:20contra los mansos de...piensen palabrasH2803
+- Sal_40:17afligido yo y...Jehová pensará en míH2803
+- Sal_41:1bienaventurado el que piensa en el pobreH7919
+- Sal_41:7contra mí piensan mal, diciendo de míH2803
+- Sal_50:21pensabas que de cierto seria yo comoH1819
+- Sal_73:16cuando pensé para saber esto, fue duroH2803
+- Sal_105:25que contra sus siervos pensasen mal
+- Sal_140:4que han pensado trastornar mis pasosH2803
+- Sal_144:3¿qué es el hombre...que en él piensesH3045
+- Pro_6:14anda pensando el mal en todo tiempoH2790
+- Pro_12:20engaño hay en...los que piensan el malH2790
+- Pro_12:20alegría...el de los que piensan el bienH2790
+- Pro_14:22¿no yerran los que piensan el mal?[[H2990]]
+- Pro_14:22y verdad alcanzarán los que piensan elH2990
+- Pro_15:28corazón del justo piensa para responderH1897
+- Pro_16:9el corazón del hombre piensa su caminoH2803
+- Pro_16:30cierra sus ojos...pensar perversidadesH2803
+- Pro_24:2su corazón piensa en robar, e iniquidadH1897
+- Pro_24:8al que piensa hacer el mal, le llamaránH2803
+- Pro_30:32si has pensado hacer mal, pon el dedoH2161
+- Isa_3:15¿qué pensáis...que majáis mi pueblo y
+- Isa_10:7él no lo pensará así, ni su corazón loH2803
+- Isa_14:24se hará de la manera que lo he pensadoH3289
+- Isa_32:8pero el generoso pensará generosidadesH3289
+- Isa_46:11hablé, y lo haré venir; lo he pensadoH3335
+- Isa_47:7no has pensado en esto, ni te acordaste
+- Isa_57:1perece el justo, y no hay quien pienseH7760
+- Jer_4:28hablé, lo pensé, y no me arrepentíH2161
+- Jer_18:8arrepentiré del mal que había pensadoH2803
+- Jer_23:27¿no piensan cómo hacen que mi puebloH2803
+- Jer_26:3y me arrepentiré yo del mal que piensoH2803
+- Jer_36:3oiga...el mal que yo pienso hacerles, yH2803
+- Eze_16:43ni aun has pensado sobre...tu lujuriaH6213
+- Eze_18:2¿qué pensáis...los que usáis este refrán
+- Eze_20:32y no ha de ser lo que habéis pensado
+- Dan_6:3el rey pensó en ponerlo sobre todo elH6246
+- Dan_7:25pensará en cambiar los tiempos y la leyH5452
+- Ose_5:4no piensan en convertirse a su Dios
+- Ose_7:15yo los enseñé...contra mí pensaron malH2803
+- Jon_1:4que se pensó que se partiría la nave
+- Miq_2:1los que en sus camas piensan iniquidadH2803
+- Miq_2:3yo pienso contra esta familia un mal delH2803
+- Nah_1:9¿qué pensáis contra Jehová? El haráH2803
+- Zac_1:6como Jehová...pensó tratarnos conformeH2161
+- Zac_7:10ninguno piense mal en su corazón contraH2803
+- Zac_8:14pensé haceros mal cuando vuestros padresH2161
+- Zac_8:15así...he pensado hacer bien a Jerusalén yH2161
+- Zac_8:17y ninguno de...piense mal en su corazón
+- Mal_1:7que pensáis que la mesa de Jehová es
+- Mal_3:16y para los que piensan en su nombreH2803
+- Mat_1:20pensando él en esto...ángel del SeñorG1760
+- Mat_3:9y no penséis decir dentro de vosotros: AG1380
+- Mat_5:17no penséis que he venido para abrogarG3543
+- Mat_6:7que piensan que por su palabrería seránG1380
+- Mat_9:4qué pensáis mal en vuestros corazones?[[G1760]]
+- Mat_10:34no penséis que he venido para traer pazG3543
+- Mat_16:7pensaban dentro de sí, diciendo: EstoG1260
+- Mat_16:8¿por qué pensáis dentro de vosotros...pan?[[G1260]]
+- Mat_20:10pensaron que habían de recibir más; peroG3543
+- Mat_22:42¿qué pensáis del Cristo? ¿De quién esG1380
+- Mat_24:44Hijo...vendrá a la hora que no pensáisG1380
+- Mat_26:53¿acaso piensas que no puedo ahora orarG1380
+- Mar_6:49ellos...pensaron que era un fantasmaG1380
+- Mar_13:11lo que habéis de decir, ni lo penséisG4305
+- Mar_14:72Pedro se...Y pensando en esto, llorabaG1911
+- Luc_1:29y pensaba qué salutación sería esta
+- Luc_2:44pensando que estaba entre la compañíaG3543
+- Luc_7:43pienso que aquel a quien perdonó másG5274
+- Luc_8:18aun lo que piensa tener se le quitaráG1380
+- Luc_12:17él pensaba dentro de sí, diciendo: ¿QuéG1260
+- Luc_12:40a la hora que no penséis, el Hijo delG1380
+- Luc_12:51¿pensáis que he venido para dar paz enG1380
+- Luc_13:2les dijo: ¿Pensáis que estos galileosG1380
+- Luc_13:4¿pensáis que eran más culpables que todosG1380
+- Luc_17:9gracias al siervo porque...Pienso que noG1380
+- Luc_19:11ellos pensaban que el reino de Dios seG1380
+- Luc_21:14proponed...no pensar antes cómo habéisG4304
+- Luc_24:37entonces...pensaban que veían espírituG1380
+- Jua_5:45penséis que yo voy a acusaros delanteG1380
+- Jua_11:13ellos pensaron que hablaba del reposarG1380
+- Jua_11:50ni pensáis que nos conviene que...mueraG1260
+- Jua_13:29algunos pensaban...que Jesús le decíaG1380
+- Jua_16:2que os mate, pensará que rinde servicioG1380
+- Jua_20:15pensando que era el hortelano, le dijoG1380
+- Jua_21:25pienso que ni aun en el mundo cabríanG3633
+- Hec_4:25y los pueblos piensan cosas vanas?[[G3191]]
+- Hec_7:25él pensaba que sus hermanos comprendíanG3543
+- Hec_8:20porque has pensado que el don de Dios seG3543
+- Hec_10:19mientras Pedro pensaba en la visión, leG1760
+- Hec_12:9le seguía...pensaba que veía una visiónG1380
+- Hec_13:25Juan...dijo: ¿Quién pensáis que soy?[[G5282]]
+- Hec_14:19apedrearon...pensando que estaba muertoG3543
+- Hec_16:27pensando que los presos habían huidoG3543
+- Hec_17:29no debemos pensar que la Divinidad seaG3543
+- Hec_21:29pensaban que Pablo había metido en elG3543
+- Hec_26:26porque no pienso que ignora nada de estoG3982
+- Hec_28:22querríamos oír de ti lo que piensasG5426
+- Rom_2:3¿y piensas esto, oh hombre...que juzgasG3049
+- Rom_8:5los que son de la carne piensan en lasG5426
+- Rom_12:3que piense de sí con cordura, conformeG5426
+- Rom_14:14para el que piensa que algo es inmundoG3049
+- 1Co_4:6no pensar más de lo que está escritoG5426
+- 1Co_4:9pienso, Dios nos ha exhibido a nosotrosG1380
+- 1Co_7:36si alguno piensa que es impropio para suG3543
+- 1Co_7:40pienso que...yo tengo el Espíritu de DiosG1380
+- 1Co_10:12piensa estar firme, mire que no caigaG1380
+- 1Co_13:11pensaba como niño, juzgaba como niñoG3049
+- 1Co_14:20no seáis niños en el modo de pensarG5424
+- 1Co_14:20sed...pero maduros en el modo de pensarG5424
+- 2Co_1:17¿o lo que pienso hacer, lo p segúnG1011
+- 2Co_3:5para pensar algo como de nosotros mismosG3049
+- 2Co_5:14de Cristo nos constriñe, pensando estoG2919
+- 2Co_10:7esto también piense por sí mismo, queG3049
+- 2Co_11:5y pienso que en nada he sido inferior aG3049
+- 2Co_12:6nadie piense de mí más de lo que en míG3049
+- 2Co_12:19¿pensáis aún que nos disculpamos conG1380
+- Gál_5:10yo confío...no pensaréis de otro modoG5426
+- Flp_1:16pensando...aflicción a mis prisionesG3633
+- Flp_3:4si alguno piensa que tiene de qué confiarG1380
+- Flp_3:19el vientre...sólo piensan en lo terrenalG5426
+- Flp_4:8algo digno de alabanza, en esto pensadG3049
+- 2Ts_2:2no os dejéis mover...modo de pensarG3563
+- Heb_10:29mayor castigo pensáis que mereceráG1380
+- Heb_11:15si hubiesen estado pensando en aquellaG3421
+- Heb_11:19pensando que Dios es poderoso paraG3049
+- Stg_1:7no piense, pues, quien tal haga, queG3633
+- Stg_4:5¿o pensáis que la Escritura dice en vanoG1380

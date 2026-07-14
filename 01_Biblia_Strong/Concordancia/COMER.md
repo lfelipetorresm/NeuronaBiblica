@@ -1,0 +1,824 @@
+---
+tipo: concordancia
+palabra: COMER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# COMER
+
+- Gén_1:29árbol en que hay fruto...para comerH402
+- Gén_1:30toda planta verde les será para comerH402
+- Gén_2:9Dios hizo...todo árbol...bueno para comerH3878
+- Gén_2:16de todo árbol del huerto podrás comerH398
+- Gén_2:17árbol de la ciencia...no comerás de élH398
+- Gén_2:17porque el día que...comieres...morirásH398
+- Gén_3:1os ha dicho: No comáis de todo árbol delH398
+- Gén_3:2del fruto de...del huerto podemos comerH398
+- Gén_3:3del fruto...dijo Dios: No comeréis de élH398
+- Gén_3:5que sabe Dios que el día que comas de élH398
+- Gén_3:6vio la mujer que...era bueno para comerH398
+- Gén_3:6comió...también a su marido, el cual cH398
+- Gén_3:11comido del árbol...te mandé no comieses?[[H398]]
+- Gén_3:12la mujer...me dio del árbol, y yo comíH398
+- Gén_3:13y dijo...La serpiente me engañó, y comíH398
+- Gén_3:14polvo comerás todos los días de tu vidaH398
+- Gén_3:17por cuanto...comiste del árbol de que teH398
+- Gén_3:17que te mandé diciendo: No comerás de élH398
+- Gén_3:17con dolor comerás de ella todos los díasH398
+- Gén_3:18producirá, y comerás plantas del campoH398
+- Gén_3:19con el sudor...comerás el pan hasta queH398
+- Gén_3:22del árbol de la vida, y coma, y vivaH398
+- Gén_6:21y toma...de todo alimento que se comeH398
+- Gén_9:4carne con su vida...la sangre, no comeréisH398
+- Gén_14:24excepto...lo que comieron los jóvenesH398
+- Gén_18:8y él se estuvo con ellos...y comieronH398
+- Gén_19:3y coció panes sin levadura, y comieronH398
+- Gén_24:33pusieron...qué comer...dijo...No comeréH398
+- Gén_24:54comieron y bebieron él y los varonesH398
+- Gén_25:28amó Isaa c a Esaú...comía de su cazaH6310
+- Gén_25:30dijo...Te ruego que me des a comer deH3938
+- Gén_25:34comió y bebió, y se levantó y se fueH398
+- Gén_26:30hizo banquete, y comieron y bebieronH398
+- Gén_27:4y comer, para que yo te bendiga antesH398
+- Gén_27:7tráeme caza y hazme un...para que comaH398
+- Gén_27:10tú las llevarás a tu padre, y comeráH398
+- Gén_27:19siéntate, y come de mi caza, para queH398
+- Gén_27:25comeré de la caza de mi hijo, para queH398
+- Gén_27:25y Jacob se la acercó, e Isaa c comióH398
+- Gén_27:31mi padre, y coma de la caza de su hijoH398
+- Gén_27:33y comí de todo antes que tú vinieses?[[H398]]
+- Gén_28:20y me diere pan para comer y vestidoH398
+- Gén_31:15se ha comido del todo nuestro precio?[[H398]]
+- Gén_31:38abortaron, ni yo comí carnero de tusH398
+- Gén_31:46y comieron allí sobre aquel majanoH398
+- Gén_31:54y llamó a...a comer pan; y comieron panH398
+- Gén_32:32por esto no comen los hijos de IsraelH398
+- Gén_37:25y se sentaron a comer pan; y alzandoH398
+- Gén_39:6de cosa alguna sino del pan que comíanH398
+- Gén_40:17las aves las comían del canastillo deH398
+- Gén_40:19las aves comerán tu carne de sobre tiH398
+- Gén_42:27dar de comer a su asno en el mesón, vioH4554
+- Gén_43:2cuando acabaron de comer el trigo queH398
+- Gén_43:16pues estos hombres comerán conmigo alH398
+- Gén_43:24dio agua...y dio de comer a sus asnosH4554
+- Gén_43:25habían oído que allí habrían de comerH398
+- Gén_43:32para los egipcios que con él comíanH398
+- Gén_43:32los egipcios no pueden comer pan conH398
+- Gén_45:18comeréis de la abundancia de la tierraH398
+- Gén_47:22comían la ración que Faraón les dabaH398
+- Gén_47:24serán...para que coman vuestros hijosH398
+- Gén_49:27Benjamín...a la mañana comerá la presaH398
+- Éxo_2:20¿dónde está...Llamadle para que comaH398
+- Éxo_10:5comerá lo que escapó...c...todo árbol queH398
+- Éxo_12:4conforme al comer de...haréis la cuentaH400
+- Éxo_12:7dintel de las casas en que lo han de comerH398
+- Éxo_12:8noche comerán la carne asada al fuegoH398
+- Éxo_12:8panes...con hierbas amargas lo comeránH398
+- Éxo_12:9ninguna cosa comeréis de él cruda, niH398
+- Éxo_12:11lo comeréis así...lo c apresuradamenteH398
+- Éxo_12:15siete días comeréis panes sin levaduraH398
+- Éxo_12:15, Éxo_12:19cualquiera que comiere leudadoH398
+- Éxo_12:16preparéis lo que cada...haya de comerH398
+- Éxo_12:18comeréis los panes sin levadura, desdeH398
+- Éxo_12:20ninguna cosa leudada comeréis; en todasH398
+- Éxo_12:20en todas...comeréis panes sin levaduraH398
+- Éxo_12:43de la pascua; ningún extraño comerá deH398
+- Éxo_12:44mas todo siervo humano...comerá de ellaH398
+- Éxo_12:45el extranjero y el jornalero no comeránH398
+- Éxo_12:46se comerá en una casa, y no llevarásH398
+- Éxo_12:48la pascua...ningún incircunciso comeráH398
+- Éxo_13:3salido de Egipto...no comeréis leudadoH398
+- Éxo_13:6siete días comeréis pan sin leudar, y elH398
+- Éxo_13:7días se comerán los panes sin levaduraH398
+- Éxo_16:3cuando comíamos pan hasta saciarnosH398
+- Éxo_16:8Jehová os dará en la...carne para comerH398
+- Éxo_16:12al caer la tarde comeréis carne, y porH398
+- Éxo_16:15es el pan que Jehová os da para comerH402
+- Éxo_16:16recoged de...según lo que pudiera comerH400
+- Éxo_16:18, Éxo_16:21cada...según lo que había de comerH400
+- Éxo_16:25comedlo hoy...hoy es día de reposo paraH398
+- Éxo_16:32que vean el pan que yo os di a comerH398
+- Éxo_16:35comieron...de Israel maná cuarenta añosH398
+- Éxo_16:35maná comieron hasta que llegaron a losH398
+- Éxo_18:12vino Aarón...para comer con el suegroH398
+- Éxo_21:28acorneare a...no será comida su carneH398
+- Éxo_22:31no comeréis carne destrozada por lasH398
+- Éxo_23:11la dejarás...para que coman las pobresH398
+- Éxo_23:11quedare comerán las bestias del campoH398
+- Éxo_23:15comerá los panes sin levadura, comoH398
+- Éxo_24:11y vieron a Dios, y comieron y bebieronH398
+- Éxo_29:32Aarón y sus hijos comerán la carne delH398
+- Éxo_29:33comerán aquellas cosas con las cualesH398
+- Éxo_29:33el extraño no las comerá...son santasH398
+- Éxo_29:34no se comerá, porque es cosa santaH398
+- Éxo_32:6y se sentó el pueblo a comer y a beberH398
+- Éxo_34:15invitarán, y comeréis de sus sacrificiosH398
+- Éxo_34:18siete días comerás pan sin levaduraH398
+- Éxo_34:28no comió pan, ni bebió agua; y escribióH398
+- Lev_3:17ninguna grosura ni...sangre comeréisH398
+- Lev_6:16y el sobrante de ella lo comerán Aarón yH398
+- Lev_6:16sin levadura y comerá en lugar santoH398
+- Lev_6:16en el atrio del tabernáculo lo comeránH398
+- Lev_6:18los varones de...Aarón comerán de ellaH398
+- Lev_6:23toda ofrenda de sacerdote...no se comeráH398
+- Lev_6:26el sacerdote que la ofreciere...comeráH398
+- Lev_6:26en lugar santo será comida en el atrioH398
+- Lev_6:29todo varón de...los sacerdotes la comeráH398
+- Lev_6:30no se comerá ninguna ofrenda de cuyaH398
+- Lev_7:6todo varón de...la comerá será comida enH398
+- Lev_7:15se comerá en el día que fuere ofrecidaH398
+- Lev_7:16será comido en el día que ofreciere suH398
+- Lev_7:16el quedare, lo comerán al día siguienteH398
+- Lev_7:18si se comiere de la carne...tercer díaH398
+- Lev_7:18persona que...comiere llevará su pecadoH398
+- Lev_7:19que tocare...cosa inmunda, no se comeráH398
+- Lev_7:19toda persona limpia podrá comer la carneH398
+- Lev_7:20que comiere la carne del sacrificio deH398
+- Lev_7:21tocare alguna cosa inmunda...y comiereH398
+- Lev_7:23ninguna grosura de buey ni de...comeréisH398
+- Lev_7:24cualquier otro uso, mas no la comeréisH398
+- Lev_7:25comiere grosura de animal, del cual seH398
+- Lev_7:25la persona que lo comiere será cortadaH398
+- Lev_7:26ninguna sangre comeréis en ningún lugarH398
+- Lev_7:27persona que comiere de alguna sangreH398
+- Lev_8:31dijo Moisés...Comed la carne a la puertaH1310
+- Lev_8:31comedla allí con el pan que está en elH398
+- Lev_8:31mandado...Aarón y sus hijos la comeránH398
+- Lev_10:12tornad la ofrenda...comedla sin levaduraH398
+- Lev_10:13comeréis, pues, en lugar santo; porqueH398
+- Lev_10:14la comeréis...en lugar limpio, tú y tusH398
+- Lev_10:17¿por qué no comisteis la expiación enH398
+- Lev_10:18debíais comer la ofrenda en el lugarH398
+- Lev_10:19si hubiera yo comido hoy del sacrificioH398
+- Lev_11:2estos son los animales que comeréis deH398
+- Lev_11:3todo el que...y que rumia, éste comeréisH398
+- Lev_11:4de los que rumian...no comeréis éstos: elH398
+- Lev_11:8carne de ellos no comeréis, ni tocaréisH398
+- Lev_11:9esto comeréis...los que tienen aletas...cH398
+- Lev_11:11de su carne no comeréis, y abominaréisH398
+- Lev_11:13y de las aves, éstas...no se comeránH398
+- Lev_11:21esto comeréis de todo insecto alado queH398
+- Lev_11:22estos comeréis de ellos: la langostaH398
+- Lev_11:34todo alimento que se come, sobre el cualH398
+- Lev_11:39algún animal que tuviereis para comerH402
+- Lev_11:40comiere del cuerpo muerto, lavará susH398
+- Lev_11:41reptil que se arrastra...no se comeráH398
+- Lev_11:42animal que se arrastra...no lo comeréisH398
+- Lev_11:47que se pueden comer y...no se pueden cH398
+- Lev_14:47el que comiere en la casa lavará susH398
+- Lev_17:10varón de la casa...comiere alguna sangreH398
+- Lev_17:10contra la persona que comiere sangreH398
+- Lev_17:12persona de vosotros comería sangre, niH398
+- Lev_17:12ni el extranjero que...comerá sangreH398
+- Lev_17:13cazare animal o ave que sea de comerH398
+- Lev_17:14no comeréis la sangre de ninguna carneH398
+- Lev_17:14cualquiera que la comiere será cortadoH398
+- Lev_17:15persona...que comiere animal mortecinoH398
+- Lev_19:6será comido el día que lo ofreciereisH398
+- Lev_19:7si se comiere el día...será abominaciónH398
+- Lev_19:8y el que lo comiere llevará su delitoH398
+- Lev_19:23será incircunciso; su fruto no se comeráH398
+- Lev_19:25al quinto año comeréis el fruto de élH398
+- Lev_19:26no comeréis cosa alguna con sangreH398
+- Lev_21:22del pan de su Dios, de lo...podrá comerH398
+- Lev_22:4, Lev_22:6no comerá de las cosas sagradasH398
+- Lev_22:7después podrá comer las cosas sagradasH398
+- Lev_22:8mortecino ni despedazado por...no comeráH398
+- Lev_22:10ningún extraño comerá cosa sagradaH398
+- Lev_22:10el jornalero, no comerán cosa sagradaH398
+- Lev_22:11esclavo...podrá comer de ella, así comoH398
+- Lev_22:11el nacido en su casa podrá comer de suH398
+- Lev_22:12si se casare...no comerá de la ofrendaH398
+- Lev_22:13podrá comer del alimento de su padreH398
+- Lev_22:13padre, pero ningún extraño coma de élH398
+- Lev_22:14el que por yerro comiere cosa sagradaH398
+- Lev_22:16comiendo las cosas santas de ellosH398
+- Lev_22:30en el mismo día se comerá; no dejaréisH398
+- Lev_23:6siete días comeréis panes sin levaduraH398
+- Lev_23:14no comeréis pan, ni grano tostado, niH398
+- Lev_24:9y será de Aarón...los cuales lo comeránH398
+- Lev_25:6el descanso de la...te dará para comerH402
+- Lev_25:7será todo el fruto de ella para comerH398
+- Lev_25:12jubileo...el producto de la...comeréisH398
+- Lev_25:19comeréis hasta saciaros, y habitaréisH398
+- Lev_25:20y si...¿Qué comeremos el séptimo año?[[H398]]
+- Lev_25:22y comeréis del fruto añejo; hasta elH398
+- Lev_25:22que venga su fruto, comeréis del añejoH398
+- Lev_26:5y comeréis vuestro pan hasta saciarosH398
+- Lev_26:10comeréis lo añejo de mucho tiempo, yH398
+- Lev_26:16porque vuestros enemigos la comeránH398
+- Lev_26:26peso; y comeréis, y no os saciaréisH398
+- Lev_26:29comeréis la carne de...hijos, y c laH398
+- Núm_6:3tampoco comerá uvas frescas ni secasH398
+- Núm_6:4todo lo que se hace de la vid...no comeráH398
+- Núm_9:11con panes...y hierbas amargas la comeránH398
+- Núm_11:4, Núm_11:18¡quién nos diera a comer carne![[H398]]
+- Núm_11:5nos acordamos del pescado que comíamosH398
+- Núm_11:13a mí diciendo: Danos carne que comamosH398
+- Núm_11:18dirás: Santificaos...y comeréis carneH398
+- Núm_11:18Jehová pues, os dará carne, y comeréisH398
+- Núm_11:19no comeréis un día, ni dos días, ni 5H398
+- Núm_11:21daré carne, y comerán un mes entero![[H398]]
+- Núm_14:9porque nosotros los comeremos como pan
+- Núm_15:19cuando comencéis a comer del pan de laH398
+- Núm_18:10en el santuario la comerás, todo varónH398
+- Núm_18:10varón comerá de ella; cosa santa seráH398
+- Núm_18:11, Núm_18:13limpio en tu casa comerá de ellasH398
+- Núm_18:31comeréis en cualquier lugar, vosotrosH398
+- Núm_25:2el pueblo comió, y se inclinó a...diosesH398
+- Núm_28:17siete días se comerán...sin levaduraH398
+- Deu_2:6compraréis...los alimentos, y comeréisH398
+- Deu_2:28comida me venderás...y comeré; el aguaH398
+- Deu_4:28dioses...que no ven, ni oyen, ni comenH398
+- Deu_6:11olivares...y luego que comas y te saciesH398
+- Deu_8:9en la cual no comerás el pan con escasezH398
+- Deu_8:10comerás y te saciarás, y bendecirás aH398
+- Deu_8:12no suceda que comas y te sacies...casasH398
+- Deu_9:9en el monte...sin comer pan ni beber aguaH398
+- Deu_9:18no comí pan ni bebí agua, a causa deH398
+- Deu_11:15daré también...comerás, y te saciarásH398
+- Deu_12:7comeréis allí delante de Jehová...DiosH398
+- Deu_12:15podrás matar y comer carne en todas tusH398
+- Deu_12:15el inmundo y el limpio la podrá comerH398
+- Deu_12:16que sangre no comeréis; sobre la tierraH398
+- Deu_12:17ni comerás...el diezmo de tu grano, deH398
+- Deu_12:18delante de Jehová tu Dios las comerásH398
+- Deu_12:20comeré carne, porque deseaste comerlaH398
+- Deu_12:20conforme a lo que deseaste podrás comerH398
+- Deu_12:21y comerás en tus puertas según todo loH398
+- Deu_12:22se come la gacela...así las podrás comerH398
+- Deu_12:22el inmundo y el limpio podrán comerH398
+- Deu_12:23te mantengas firme en no comer sangreH398
+- Deu_12:23y no comerás la vida...con su carneH398
+- Deu_12:24no la comerás...la derramarás como aguaH398
+- Deu_12:25no comerás de ella...que te vaya bienH398
+- Deu_12:27ofrecerás tus...y podrás comer la carneH398
+- Deu_14:3nada abominable comerásH398
+- Deu_14:4los animales que podréis comer: el bueyH398
+- Deu_14:6y todo animal de pezuñas...podréis comerH398
+- Deu_14:7estos no comeréis, entre los que rumianH398
+- Deu_14:8carne de éstos no comeréis, ni tocaréisH398
+- Deu_14:9podréis comer: todo lo que tiene aletaH398
+- Deu_14:10no tiene aleta y escama, no comeréisH398
+- Deu_14:11, Deu_14:20toda ave limpia podréis comerH398
+- Deu_14:12de las que no podréis comer: el águilaH398
+- Deu_14:19insecto alado...inmundo, no se comeráH398
+- Deu_14:21ninguna cosa mortecina comeréis...darásH398
+- Deu_14:21extranjero...darás, y él podrá comerlaH398
+- Deu_14:23comerás delante de...Dios en el lugarH398
+- Deu_14:26comerás allí delante de Jehová tu DiosH398
+- Deu_14:29y comerán y serán saciados; para queH398
+- Deu_15:20delante de Jehová tu...comerás cada añoH398
+- Deu_15:22lo comerás; el inmundo...comerán de élH398
+- Deu_15:23no comas su sangre; sobre la tierra laH398
+- Deu_16:3no comerás con ella pan con levaduraH398
+- Deu_16:3siete días comerás con...pan sin levaduraH398
+- Deu_16:7y la asarás y comerás en el lugar queH398
+- Deu_16:8seis días comerás pan sin levadura, yH398
+- Deu_18:1ofrendas...de la heredad de él comeránH398
+- Deu_18:8igual ración a 13 de los otros comeráH398
+- Deu_20:14y comerás del botín de tus enemigosH398
+- Deu_20:19árboles...porque de ellos podrás comerH398
+- Deu_23:24podrás comer uvas hasta saciarte; masH398
+- Deu_26:12comerán en tus aldeas, y se saciaránH398
+- Deu_26:14no he comido de ello en mi luto, ni heH398
+- Deu_27:7y comerás allí, y te alegrarás delanteH398
+- Deu_28:31tu buey será matado...y tú no comerásH398
+- Deu_28:33fruto...comerá pueblo que no conocisteH398
+- Deu_28:39uvas, porque el gusano se las comeráH398
+- Deu_28:51comerá el fruto de tu bestia y el frutoH398
+- Deu_28:53y comerás el fruto de tu vientre, laH398
+- Deu_28:55la carne de sus hijos, que él comiereH398
+- Deu_28:57los comerá...por la carencia de todoH398
+- Deu_29:6no habéis comido pan, ni bebisteis vinoH398
+- Deu_31:20leche y miel; y comerán y se saciaránH398
+- Deu_32:13y comió los frutos del campo, e hizoH398
+- Deu_32:38comían la grosura de sus sacrificiosH398
+- Jos_5:11al otro día...comieron del fruto de laH398
+- Jos_5:12desde que comenzaron a comer del frutoH398
+- Jos_5:12comieron de los frutos de la tierra deH398
+- Jos_24:13las viñas...que no plantasteis, coméisH398
+- Jue_6:4y no dejaban qué comer en Israel, niH4241
+- Jue_9:27en el templo de sus dioses, comieron yH398
+- Jue_13:4, Jue_13:7no bebas vino...ni comas cosa inmundaH398
+- Jue_13:14no comerá cosa inmunda; guardará todoH398
+- Jue_13:16aunque me detengas, no comeré de tu panH398
+- Jue_14:9tomándolo en...manos, se fue comiéndoloH398
+- Jue_14:9les dio también a ellos que comiesenH398
+- Jue_19:4quedó en su casa...comiendo y bebiendoH398
+- Jue_19:6se sentaron ellos...y comieron y bebieronH398
+- Jue_19:8dijo...aguarda...y comieron ambos juntosH398
+- Jue_19:21a su casa, dio de comer a sus asnosH1101
+- Jue_19:21y se lavaron...y comieron y bebieronH398
+- Rut_2:14Booz le dijo a la hora de comer: VenH398
+- Rut_2:14ven aquí, y come...y comió hasta que seH398
+- Rut_3:3hasta que él haya acabado de comer y deH398
+- Rut_3:7cuando Booz hubo comido y bebido, y suH398
+- 1Sa_1:7por lo cual Ana lloraba, y no comíaH398
+- 1Sa_1:8Ana, ¿por qué lloras? ¿por qué no comes?[[H398]]
+- 1Sa_1:9se levantó Ana después que hubo comidoH398
+- 1Sa_1:18se fue...y comió, y no estuvo más tristeH398
+- 1Sa_2:36para que pueda comer un bocado de panH398
+- 1Sa_9:13que suba...a comer...el pueblo no comeráH398
+- 1Sa_9:13después de esto comen los convidadosH398
+- 1Sa_9:19come hoy conmigo, y por la mañana teH398
+- 1Sa_9:24ponlo...y come...y Saúl comió aquel díaH398
+- 1Sa_14:24que coma pan antes de caer la nocheH398
+- 1Sa_14:30más si el pueblo hubiera comido...hoyH398
+- 1Sa_14:32vacas...el pueblo los comió con sangreH398
+- 1Sa_14:33el pueblo peca...comiendo la carne conH398
+- 1Sa_14:34comed; y no pequéis...comiendo...sangreH398
+- 1Sa_20:5acostumbro sentarme con el rey a comerH398
+- 1Sa_20:24la nueva luna, se sentó el rey a comerH398
+- 1Sa_20:27no ha venido a comer el hijo de IsaíH3899
+- 1Sa_20:34y no comió por el segundo día de laH398
+- 1Sa_28:20todo aquel día...no había comido panH398
+- 1Sa_28:22pondré...bocado de pan para que comasH398
+- 1Sa_28:23y él rehusó diciendo: No comeré. PeroH398
+- 1Sa_28:25después de haber comido, se levantaronH398
+- 1Sa_30:11y le dieron pan, y comió y le dieronH398
+- 1Sa_30:12luego que comió volvió...su espírituH398
+- 1Sa_30:12no había comido pan ni...en tres díasH398
+- 1Sa_30:16desparramados...comiendo y bebiendo yH398
+- 2Sa_3:35para persuadir a David que comieraH1262
+- 2Sa_9:7le dijo David...comerás siempre a mi mesaH398
+- 2Sa_9:10el hijo de tu señor tenga pan para comerH398
+- 2Sa_9:10Mefiboset...comerá siempre a mi mesaH398
+- 2Sa_9:11Mefiboset, dijo el rey, comerá a miH398
+- 2Sa_9:13Mefiboset...comía...a la mesa del reyH398
+- 2Sa_11:11entrar en mi casa para comer y beberH398
+- 2Sa_11:13y David lo convidó a comer y a beberH398
+- 2Sa_12:3comiendo de su bocado y bebiendo de suH398
+- 2Sa_12:17él no quiso ni comió con ellos panH1262
+- 2Sa_12:20vino a su...y le pusieron pan, y comióH398
+- 2Sa_12:21y muerto él, te levantaste y comisteH398
+- 2Sa_13:5me dé de comer...yo la coma de su manoH3899, [[H398]]
+- 2Sa_13:6haga...dos hojuelas, para que coma yo deH1262
+- 2Sa_13:7vé...a casa de Amnón...y hazle de comerH1279
+- 2Sa_13:9las sacó...mas él no quiso comer. Y dijoH398
+- 2Sa_13:10trae la comida...que yo coma de tu manoH1279, [[H1262]]
+- 2Sa_13:11se las puso delante para que comieseH398
+- 2Sa_16:2las pasas para que coman los criadosH398
+- 2Sa_17:29y quesos de vaca, para que comiesenH398
+- 2Sa_19:35¿tomará gusto...en lo que coma o beba?[[H398]]
+- 2Sa_19:42¿hemos nosotros comido algo del rey?[[H398]]
+- 1Re_1:25comiendo y bebiendo delante de élH398
+- 1Re_1:41oyó Adonías...ya habían acabado de comerH398
+- 1Re_4:20Judá...comiendo, bebiendo y alegrándoseH398
+- 1Re_5:9mi deseo al dar de comer a mi familiaH3899
+- 1Re_13:7rey dijo...Ven conmigo a casa, y comerásH5582
+- 1Re_13:8ni comería pan ni bebería agua en esteH398
+- 1Re_13:9diciendo: No comas pan, ni bebas aguaH398
+- 1Re_13:15dijo: Ven conmigo a casa, y come panH398
+- 1Re_13:16ni tampoco comeré pan ni beberé aguaH398
+- 1Re_13:17dicho: No comas pan ni bebas agua allíH398
+- 1Re_13:18tráele...a tu casa, para que coma panH398
+- 1Re_13:19volvió con él, y comió pan en su casaH398
+- 1Re_13:22que volviste, y comiste pan y bebisteH398
+- 1Re_13:22te había dicho que no comieses pan niH398
+- 1Re_13:23cuando había comido pan y bebido, elH398
+- 1Re_13:28el león no había comido el cuerpo, niH398
+- 1Re_14:11; 1Re_16:4lo comerán los perros...c las avesH398
+- 1Re_17:4yo he mandado...que te den allí de comerH3557
+- 1Re_17:12que lo comamos, y nos dejemos morirH398
+- 1Re_17:15y comió él, y ella, y su casa, muchosH398
+- 1Re_18:19los...que comen de la mesa de JezabelH398
+- 1Re_18:41come y bebe; porque una lluvia grandeH398
+- 1Re_18:42Acab subió a comer y a beber. Y ElíasH398
+- 1Re_19:5, 1Re_19:7ángel le tocó...Levántate...comeH398
+- 1Re_19:6y comió y bebió, y volvió a dormirseH398
+- 1Re_19:8se levantó, pues, y comió y bebióH398
+- 1Re_19:21y la dio al pueblo para que comiesenH398
+- 1Re_21:4y se acostó en su cama, y...y no comióH398
+- 1Re_21:5¿por qué está tan decaído tu...no comes?[[H398]]
+- 1Re_21:7come y alégrate; yo te daré la viña deH398
+- 1Re_21:23perros comerán a Jezabel en el muro deH398
+- 1Re_21:24los perros lo comerán...lo c las avesH398
+- 2Re_4:8una mujer...le invitaba...a que comieseH398
+- 2Re_4:8Eliseo...venía a la casa de ella a comerH398
+- 2Re_4:40sirvió para que comieran los hombresH398
+- 2Re_4:40que comiendo ellos de aquel guisadoH398
+- 2Re_4:40hay muerte en...Y no lo pudieron comerH398
+- 2Re_4:41dijo: Da de comer a la gente. Y no huboH398
+- 2Re_4:42-43dijo: Da a la gente para que comaH398
+- 2Re_4:43así ha dicho Jehová: Comerán, y sobraráH398
+- 2Re_4:44comieron, y les sobró, conforme a laH398
+- 2Re_6:22pon...pan y agua, para que coman y bebanH398
+- 2Re_6:23cuando habían comido...los envió, y ellosH398
+- 2Re_6:28comámoslo...y mañana comeremos el míoH398
+- 2Re_6:29cocimos, pues, a mi hijo, y lo comimosH398
+- 2Re_6:29da acá tu hijo, y comámoslo. Mas ellaH398
+- 2Re_7:2, 2Re_7:19verás con tus ojos, mas no comerásH398
+- 2Re_7:8entraron...tienda y comieron y bebieronH398
+- 2Re_9:10a Jezabel la comerán los perros en elH398
+- 2Re_9:34después que comió...dijo: Id ahora a verH398
+- 2Re_9:36comerán los perros las carnes de JezabelH398
+- 2Re_18:27expuestos a comer su propio estiércolH398
+- 2Re_18:31coma cada uno de su vid y...su higueraH398
+- 2Re_19:29este año comeréis lo que nacerá de suyoH398
+- 2Re_19:29plantaréis viñas, y comeréis el frutoH398
+- 2Re_23:9que comían panes sin levadura entre susH398
+- 2Re_25:29y comió...delante de él todos los díasH398
+- 1Cr_12:39allí con David tres días comiendoH398
+- 1Cr_29:22comieron y bebieron delante de JehováH398
+- 2Cr_28:15y les dieron de comer y de beberH398
+- 2Cr_30:18comieron la pascua no conforme a lo queH398
+- 2Cr_30:22comieron de lo sacrificado...siete díasH398
+- 2Cr_31:10hemos comido y nos hemos saciado, y nosH398
+- Esd_2:63no comiesen de las cosas más santasH398
+- Esd_6:21comieron los hijos de...del cautiverioH398
+- Esd_9:12que seáis fuertes y comáis el bien deH398
+- Esd_10:6e ido allá, no comió pan ni bebió aguaH398
+- Neh_5:2hemos pedido prestado...para comerH398
+- Neh_5:14ni yo ni mis hermanos comimos el pan delH398
+- Neh_7:65que no comiesen de las cosas más santasH398
+- Neh_8:10id, comed grosuras, y bebed vino dulceH398
+- Neh_8:12el pueblo se fue a comer y a beber, yH398
+- Neh_9:25comieron, se saciaron, y se deleitaronH398
+- Neh_9:36para que comiesen su fruto y su bienH398
+- Est_4:16y no comáis ni bebáis en tres díasH398
+- Job_1:4para que comiesen y bebiesen con ellosH398
+- Job_1:13sus hijos e hijas comían y bebían vinoH398
+- Job_1:18tus hijos...estaban comiendo y bebiendoH398
+- Job_5:5su mies comerán los hambrientos, y laH398
+- Job_6:6¿se comerá lo desabrido sin sal? ¿HabráH398
+- Job_20:21quedó nada que no comiese; por tantoH400
+- Job_21:25morirá...sin haber comido...con gustoH398
+- Job_31:8siembre yo, y otro coma y sea arrancadaH398
+- Job_31:17si comí...y no comió de él el huérfanoH398
+- Job_31:39si comí su sustancia sin dinero, o afligíH398
+- Job_34:3como el paladar gusta lo que uno comeH398
+- Job_40:15ahora behemot...hierba come como bueyH398
+- Job_42:11comieron con él pan en su casa, y seH398
+- Sal_14:4a mi pueblo como si comiesen panH398
+- Sal_22:26comerán los humildes, y serán saciadosH398
+- Sal_22:29comerán y adorarán todos los poderososH398
+- Sal_27:2juntaron contra...para comer mis carnesH398
+- Sal_41:9el hombre de mi paz...que de mi pan comíaH398
+- Sal_50:13¿he de comer yo carne de toros, o deH398
+- Sal_53:4devoran a mi pueblo como si comiesenH398
+- Sal_59:15ellos errantes para hallar qué comerH398
+- Sal_78:24hizo llover...maná para que comiesenH398
+- Sal_78:25pan de nobles comió el hombre; lesH398
+- Sal_78:29comieron, y se saciaron; les cumplióH398
+- Sal_80:5les diste a comer pan de lágrimas, y aH398
+- Sal_102:4por lo cual me olvido de comer mi panH398
+- Sal_102:9yo como ceniza a manera de pan, y miH398
+- Sal_105:35y comieron toda la hierba de su paísH398
+- Sal_106:20la imagen de un buey que come hierbaH398
+- Sal_106:28comieron los sacrificios de...muertosH398
+- Sal_127:2por demás es...que comáis pan de doloresH398
+- Sal_128:2cuando comieres el trabajo de tus manosH398
+- Sal_141:4no dejes...no coma yo de sus deleitesH3898
+- Pro_1:31comerán del fruto de su camino, yH398
+- Pro_4:17porque comen pan de maldad, y beben vinoH3898
+- Pro_9:5comed mi pan, y bebed del vino que yoH3898
+- Pro_9:17y el pan comido en oculto es sabroso
+- Pro_13:2del fruto de su boca el hombre comeráH398
+- Pro_13:25el justo come hasta saciar su alma; masH398
+- Pro_18:21y el que la ama comerá de sus frutosH398
+- Pro_23:1te sientes a comer con algún señorH3898
+- Pro_23:6no comas pan con el avaro, ni codiciesH3898
+- Pro_23:7come y bebe, te dirá; mas su corazónH398
+- Pro_23:8vomitarás la...que comiste, y perderásH398
+- Pro_24:13come, hijo...la miel, porque es buenaH398
+- Pro_25:16¿hallaste miel? Come lo que te bastaH398
+- Pro_25:21aborrece tuviere hambre, dale de comerH398
+- Pro_25:27comer mucha miel no es bueno, ni elH398
+- Pro_27:18quien cuida la higuera comerá su frutoH398
+- Pro_30:20come, y limpia su boca y dice: No heH398
+- Pro_31:27considera...y no come el pan de baldeH398
+- Ecl_2:24no hay cosa mejor...sino que coma yH398
+- Ecl_2:25¿quién comerá, y quién...mejor que yo?[[H398]]
+- Ecl_3:13es don de Dios que todo hombre coma yH398
+- Ecl_4:5necio cruza sus manos y come su...carneH398
+- Ecl_5:12el sueño del trabajador, coma mucho, cH398
+- Ecl_5:17todos los días de...comerá en tinieblasH398
+- Ecl_5:18que lo bueno es comer y beber, y gozarH398
+- Ecl_5:19le da...facultad para que coma de ellasH398
+- Ecl_8:15coma y beba y se alegre; y que esto leH398
+- Ecl_9:7come tu pan con gozo, y bebe tu vino conH398
+- Ecl_10:17y tus príncipes comen a su hora, paraH398
+- Cnt_4:16venga mi amado a su huerto, y comaH398
+- Cnt_5:1he comido mi panal y mi miel, mi vino yH398
+- Cnt_5:1comed, amigos; bebed en abundancia, ohH398
+- Isa_1:7vuestra tierra...comida por extranjerosH398
+- Isa_1:19oyereis, comeréis el bien de la tierraH398
+- Isa_3:10porque comerá de los frutos de sus manosH398
+- Isa_4:1nosotras comeremos de nuestro pan, y nosH398
+- Isa_7:15comerá mantequilla y miel, hasta queH398
+- Isa_7:22comerás mantequilla...miel c el que quedeH398
+- Isa_9:20tendrá hambre, y comerá a la izquierdaH398
+- Isa_9:20cada cual comerá la carne de su brazoH398
+- Isa_11:7y el león como el buey comerá pajaH398
+- Isa_21:5ponen la mesa, extienden...comen, bebenH398
+- Isa_22:13y alegría...comiendo carne y bebiendoH398
+- Isa_22:13comamos y bebamos, porque...moriremosH398
+- Isa_23:18para que coman hasta saciarse, y vistanH398
+- Isa_29:8hambre y sueña, y le parece que comeH398
+- Isa_30:24tus asnos que labran la tierra comeránH398
+- Isa_36:12expuestos a comer su estiércol y beberH398
+- Isa_36:16coma cada uno de su viña, y cada unoH398
+- Isa_37:30comeréis este año lo que nace de suyoH398
+- Isa_37:30plantaréis viñas, y comeréis su frutoH398
+- Isa_44:16con parte de él come carne, prepara unH398
+- Isa_44:19quemé...cocí pan, asé carne y la comíH398
+- Isa_49:26los que te despojaron haré comer susH398
+- Isa_50:9he aquí...serán comidos por la polillaH398
+- Isa_51:8como a vestidura los comerá polillaH398
+- Isa_51:8porque...como a lana los comerá gusanoH398
+- Isa_55:1venid, comprad y comed. Venid, compradH398
+- Isa_55:2oídme atentamente, y comed del bien, yH398
+- Isa_55:10da...al que siembra, y pan al que comeH398
+- Isa_58:14y te daré a comer la heredad de JacobH398
+- Isa_59:5el que comiere de sus huevos, moriráH398
+- Isa_61:6comeréis las riquezas de las nacionesH398
+- Isa_62:9que lo cosechan lo comerán, y alabaránH398
+- Isa_65:4comen carne de cerdo, y en sus ollas hayH398
+- Isa_65:13que mis siervos comerán, y vosotrosH398
+- Isa_65:21plantarán viñas, y comerán el fruto deH398
+- Isa_65:22habite, ni plantarán para que otro comaH398
+- Isa_65:25y el león comerá paja como el bueyH398
+- Isa_66:17que comen carne de cerdo y abominaciónH398
+- Jer_2:7os introduje...que comieseis su frutoH398
+- Jer_5:17comerá tu mies y tu pan, c a tus hijosH398
+- Jer_5:17comerá tus ovejas y...vacas, c tus viñasH398
+- Jer_7:21añadid...sacrificios, y comed la carneH398
+- Jer_9:15les daré a comer ajenjo, y les daré aH398
+- Jer_10:25se comieron a Jacob, lo devoraron, leH398
+- Jer_15:16halladas tus palabras, y yo las comíH398
+- Jer_16:8no entres en casa de banquete...a comerH398
+- Jer_19:9les haré comer la carne de sus hijos yH398
+- Jer_19:9y cada uno comerá la carne de su amigoH398
+- Jer_22:15comió y bebió tu padre, e hizo juicioH398
+- Jer_23:15yo les hago comer ajenjos, y les haréH398
+- Jer_24:2-3, Jer_24:8que de malos no se podían comerH398
+- Jer_29:5, Jer_29:28plantad huertos, y comed del frutoH398
+- Jer_29:17higos malos, que...no se pueden comerH398
+- Jer_31:29los padres comieron las uvas agrias yH398
+- Jer_31:30los dientes de todo hombre que comiereH398
+- Jer_41:1en Mizpa; y comieron pan juntos allí enH398
+- Jer_52:33comía pan en la mesa del rey siempreH398
+- Lam_2:20¿han de comer las mujers el fruto deH398
+- Lam_4:5que comían delicadamente fueron asoladosH398
+- Eze_2:8abre tu boca, y come lo que yo te doyH398
+- Eze_3:1dijo: Hijo de hombre, come...c este rolloH398
+- Eze_3:2y abrí mi boca, y me hizo comer aquelH398
+- Eze_3:3comí, y fue en mi boca dulce como mielH398
+- Eze_4:9trescientos noventa días comerás de élH398
+- Eze_4:10que comerás...de tiempo en tiempo la cH398
+- Eze_4:12comerás pan de cebada cocido debajo deH398
+- Eze_4:13así comerán los hijos de Israel su panH398
+- Eze_4:14nunca desde mi...comí cosa mortecina niH398
+- Eze_4:16comerán el pan por peso y con angustiaH398
+- Eze_5:10padres comerán a los hijos...los hijos cH398
+- Eze_12:18come tu pan con temblor, y bebe tu aguaH398
+- Eze_12:19pan comerán con temor, y con espantoH398
+- Eze_16:13comiste flor de harina de trigo, mielH398
+- Eze_18:2los padres comieron las uvas agrias, yH398
+- Eze_18:6, Eze_18:15no comiere sobre los montes, niH398
+- Eze_18:11sino que comiere sobre los montes, aH398
+- Eze_22:9hubo...y sobre los montes comieron enH398
+- Eze_24:17con rebozo, ni comas pan de enlutadosH398
+- Eze_24:22ni comeréis pan de hombres en lutoH398
+- Eze_25:4comerán tus sementeras, y beberán tuH398
+- Eze_33:25¿comeréis con sangre, y a vuestrosH398
+- Eze_34:3coméis la grosura...vestís de la lanaH398
+- Eze_34:18es poco que comáis los buenos pastosH7462
+- Eze_34:19mis ovejas comen lo hollado de...piesH7462
+- Eze_39:17y comeréis carne y beberéis sangreH398
+- Eze_39:18comeréis carne de fuertes, y beberéisH398
+- Eze_39:19comeréis grosura hasta saciaros, yH398
+- Eze_42:13sacerdotes...comerán...santas ofrendasH398
+- Eze_44:3se sentará allí para comer pan delanteH398
+- Eze_44:29y el sacrificio por el pecado comeránH398
+- Eze_44:31ninguna cosa mortecina...comerán losH398
+- Eze_45:21la pascua...se comerá pan sin levaduraH398
+- Eze_47:12y su fruto será para comer, y su hojaH3878
+- Dan_1:12nos den legumbres a comer, y agua aH398
+- Dan_1:13rostros de los muchachos que comen de laH398
+- Dan_1:15el de los...que comían de la porción deH398
+- Dan_4:33y comía hierba como los bueyes, y suH399
+- Dan_5:21hierba le hicieron comer como a bueyH2939
+- Dan_10:3no comí manjar delicado, ni entró en miH398
+- Dan_11:26aun los que coman de sus manjares leH398
+- Ose_2:12y las comerán las bestias del campoH398
+- Ose_4:8del pecado de mi pueblo comen, y en suH398
+- Ose_4:10comerán...no se saciarán; fornicarán, masH398
+- Ose_8:7y si la hiciere, extraños la comeránH1104
+- Ose_8:13sacrificaron carne, y comieron; no losH398
+- Ose_9:3a Asiria, donde comerán vianda inmundaH398
+- Ose_9:4todos los que coman de él serán inmundosH398
+- Ose_10:13comeréis fruto de mentira...confiasteH398
+- Joe_1:4que quedó de la oruga comió el saltónH398
+- Joe_1:4comió el revoltón; y la langosta c lo queH398
+- Joe_2:25restituiré los años que comió la orugaH398
+- Joe_2:26comeréis hasta saciaros, y alabaréis elH398
+- Amó_6:4y comen los corderos del rebaño, y losH398
+- Amó_7:2que cuando acabó de comer la hierba deH398
+- Amó_7:12y come allá tu pan, y profetiza alláH398
+- Amó_9:14y harán huertos, y comerán el fruto deH398
+- Abd_1:7los que comían tu pan pusieron lazo
+- Miq_3:3que coméis...la carne de mi pueblo, yH398
+- Miq_3:5y claman: Paz, cuando tienen...que comerH5414
+- Miq_3:5que no les da de comer, proclaman guerra
+- Miq_6:14comerás, y no te saciarás...no salvarásH398
+- Miq_7:1y no queda racimo para comer; mi almaH398
+- Nah_3:12en la boca del que las ha de comerH398
+- Hag_1:6coméis, y no os saciáis; bebéis, y noH398
+- Zac_7:6cuando coméis y bebéis, ¿no c...paraH398
+- Zac_11:9cada una coma la carne de su compañeraH398
+- Zac_11:16sino que comerá la carne de la gordaH398
+- Mat_6:25qué habéis de comer o qué habéis deG5315
+- Mat_6:31¿qué comeremos, o qué beberemos, oG5315
+- Mat_9:11come vuestro Maestro con los publicanosG2068
+- Mat_11:18vino Juan; que ni comía ni bebía, yG2068
+- Mat_11:19vino el Hijo del Hombre, que come yG2068
+- Mat_12:1comenzaron a arrancar espigas y a comerG2068
+- Mat_12:4cómo entró en la casa...y comió los panesG5315
+- Mat_12:4que no les era lícito comer ni a él ni aG5315
+- Mat_13:4cayó...y vinieron las aves y la comieronG2719
+- Mat_14:15para que vayan a...y compren de comerG1033
+- Mat_14:16les dijo...dadle vosotros de comerG5315
+- Mat_14:20comieron...y se saciaron y recogieronG5315
+- Mat_14:21los que comieron fueron como cinco milG2068
+- Mat_15:2no se lavan las manos cuando comen panG2068
+- Mat_15:20pero el comer con las manos sin lavarG5315
+- Mat_15:27aun los perrillos comen de las migajasG2068
+- Mat_15:32y no tienen qué comer; y enviarlos enG5315
+- Mat_15:37comieron...y se saciaron; y recogieronG5315
+- Mat_15:38eran los que habían comido cuatro milG2068
+- Mat_24:38antes del diluvio estaban comiendo yG5176
+- Mat_24:49a comer y a beber con los borrachosG2068
+- Mat_25:35tuve hambre, y me disteis de comerG5315
+- Mat_25:42tuve hambre, y no me disteis de comerG5315
+- Mat_26:17preparemos para que comas la pascua?[[G5315]]
+- Mat_26:21mientras comían dijo: De cierto osG2068
+- Mat_26:26mientras comían tomó Jesús el pan, yG2068
+- Mat_26:26dijo: Tomad, comed; esto es mi cuerpoG5315
+- Mar_1:6Juan...comía langostas y miel silvestreG2068
+- Mar_2:16viéndole comer con los publicanos y conG2068
+- Mar_2:16que él come y bebe con los publicanosG2068
+- Mar_2:26y comió los panes de la proposición, deG5315
+- Mar_2:26de los cuales no es lícito comer sinoG5315
+- Mar_3:20modo que ellos ni aun podían comer panG5315
+- Mar_4:4vinieron las aves del cielo y la comieronG2719
+- Mar_5:43mandó...y dijo que se le diese de comerG5315
+- Mar_6:31que ni aun tenían tiempo para comerG5315
+- Mar_6:36compren pan...pues no tienen qué comerG5315
+- Mar_6:37él, les dijo: Dadles vosotros de comerG5315
+- Mar_6:37y compremos pan...y les demos de comer?[[G5315]]
+- Mar_6:42y comieron todos, y se saciaronG5315
+- Mar_6:44los que comieron eran cinco mil hombresG5315
+- Mar_7:2viendo a...comer pan con manos inmundasG2068
+- Mar_7:3veces no se lavan las manos, no comenG2068
+- Mar_7:4volviendo de...si no se lavan, no comenG2068
+- Mar_7:5sino que comen pan con manos inmundas?[[G2068]]
+- Mar_7:28los perrillos...comen de las migajas deG2068
+- Mar_8:1multitud, y no tenían qué comer, JesúsG5315
+- Mar_8:2que están conmigo, y no tienen qué comerG5315
+- Mar_8:8comieron, y se saciaron; y recogieron deG5315
+- Mar_8:9eran los que comieron, como cuatro milG5315
+- Mar_11:14nunca jamás coma nadie fruto de tiG5315
+- Mar_14:12a preparar para que comas la pascua?[[G5315]]
+- Mar_14:14aposento donde he de comer la pascuaG5315
+- Mar_14:18mientras comían, dijo Jesús: De ciertoG2068
+- Mar_14:18uno...come conmigo, me va a entregarG2068
+- Mar_14:22y mientras comían, Jesús tomó pan yG2068
+- Luc_3:11el que tiene qué comer, haga lo mismoG1033
+- Luc_4:2no comió nada en aquellos días...hambreG5315
+- Luc_5:30¿por qué coméis y bebéis con publicanosG2068
+- Luc_5:33ayunan...pero los tuyos comen y beben?[[G2068]]
+- Luc_6:1discípulos arrancaban espigas y comíanG2068
+- Luc_6:4los cuales no es lícito comer sino sóloG5315
+- Luc_6:4comió, y dio...a los que estaban con él?[[G5315]]
+- Luc_7:33vino Juan...ni comía pan ni bebía vinoG2068
+- Luc_7:34vino el Hijo...que come y bebe, y decísG2068
+- Luc_7:36uno de...rogó a Jesús que comiese con élG5315
+- Luc_8:5y fue hollada, y las aves...la comieronG2719
+- Luc_8:55y él mandó que se le diese de comerG5315
+- Luc_9:13él les dijo: Dadles vosotros de comerG5315
+- Luc_9:17comieron...y se saciaron; y recogieron loG5315
+- Luc_10:7posad...comiendo y bebiendo lo que os denG2068
+- Luc_10:8y os reciban, comed lo que os ponganG2068
+- Luc_11:37le rogó un fariseo que comiese con élG709
+- Luc_11:38que no se hubiese lavado antes de comerG712
+- Luc_12:19diré a mi alma...repósate, come, bebeG5315
+- Luc_12:22no os afanéis por...vida, qué comeréisG5315
+- Luc_12:29por lo que habéis de comer, ni por loG5315
+- Luc_12:45comenzare a golpear...a comer y beberG2068
+- Luc_13:26delante de ti hemos comido y bebido, yG5315
+- Luc_14:1habiendo entrado para comer en casa deG5315
+- Luc_14:15el que coma pan en el reino de DiosG5315
+- Luc_15:2los pecadores recibe, y con ellos comeG4906
+- Luc_15:16de las algarrobas que comían los cerdosG2068
+- Luc_15:23traed el...y comamos y hagamos fiestaG5315
+- Luc_17:8sírveme hasta que haya comido y bebidoG5315
+- Luc_17:8y después de esto, come y bebe tú?[[G5315]]
+- Luc_17:27comían, bebían, se casaban y se dabanG2068
+- Luc_17:28comían, bebían, compraban, vendíanG2068
+- Luc_22:8preparadnos la pascua...que la comamosG5315
+- Luc_22:11aposento donde he de comer la pascuaG5315
+- Luc_22:15deseado comer con vosotros esta pascuaG5315
+- Luc_22:16no la comeré más, hasta que se cumplaG5315
+- Luc_22:30para que comáis y bebáis a mi mesa enG2068
+- Luc_24:41les dijo: ¿Tenéis aquí algo de comer?[[G1034]]
+- Luc_24:43y él tomó, y comió delante de ellosG5315
+- Jua_4:8habían ido a la...a comprar de comerG5160
+- Jua_4:31los discípulos le rogaban...Rabí, comeG5315
+- Jua_4:32les dijo: Yo tengo una comida que comerG5315
+- Jua_4:33¿le habrá traído alguien de comer?[[G5315]]
+- Jua_6:5compraremos pan para que coman éstos?[[G5315]]
+- Jua_6:13que...sobraron a los que habían comidoG977
+- Jua_6:23junto al lugar donde habían comido elG5315
+- Jua_6:26me buscáis...porque comisteis el pan yG5315
+- Jua_6:31nuestros padres comieron el maná en elG5315
+- Jua_6:31escrito: Pan del cielo les dio a comerG5315
+- Jua_6:49vuestros padres comieron el maná en elG5315
+- Jua_6:50para que el que de él come, no mueraG5315
+- Jua_6:51si alguno comiere de este pan, viviráG5315
+- Jua_6:52¿cómo puede...darnos de comer su carne?[[G5315]]
+- Jua_6:53no coméis la carne del Hijo del HombreG5315
+- Jua_6:54, Jua_6:56que come mi carne y bebe mi sangreG5176
+- Jua_6:57el que me come, él también vivirá por míG5176
+- Jua_6:58como vuestros padres comieron el manáG5315
+- Jua_6:58que come de este pan, vivirá eternamenteG5176
+- Jua_13:18el que come pan conmigo, levantó contraG5176
+- Jua_18:28para no...y así poder comer la pascuaG5315
+- Jua_21:5dijo: Hijitos, ¿tenéis algo de comer?[[G4371]]
+- Jua_21:12les dijo Jesús: Venid, comed. Y ningunoG709
+- Jua_21:15cuando hubieron comido, Jesús dijo aG709
+- Hec_2:46comían, con alegría y sencillez deG3335
+- Hec_9:9tres días sin ver, y no comió ni bebióG5315
+- Hec_10:10y tuvo gran hambre, y quiso comerG1089
+- Hec_10:13una voz: Levántate, Pedro, mata y comeG5315
+- Hec_10:14ninguna cosa común...he comido jamásG5315
+- Hec_10:41nosotros que comimos y bebimos con élG4906
+- Hec_11:3incircuncisos, y has comido con ellos?[[G4906]]
+- Hec_11:7me decía: Levántate, Pedro, mata y comeG5315
+- Hec_12:23le hirió...y expiró comido de gusanosG4662
+- Hec_20:11después de...partido el pan y comidoG1089
+- Hec_23:12que no comerían ni beberían hasta queG5315
+- Hec_23:21no comer ni beber hasta que le hayanG5315
+- Hec_27:21como hacía ya mucho que no comíamosG776
+- Hec_27:33Pablo exhortaba a todos que comiesenG5160
+- Hec_27:33permanecéis en ayunas, sin comer nadaG4355
+- Hec_27:34os ruego que comáis por vuestra saludG5160
+- Hec_27:35tomó el pan y dio...comenzó a comerG2068
+- Hec_27:36teniendo ya mejor ánimo, comieronG5160
+- Rom_12:20si tu...tuviere hambre, dale de comerG5595
+- Rom_14:2uno cree que se ha de comer de todoG5315
+- Rom_14:2otro, que es débil, come legumbresG5315
+- Rom_14:3que come, no menosprecie al que no cG2068
+- Rom_14:3y el que no come, no juzgue al que cG2068
+- Rom_14:6el que come, para el Señor c, porque daG2068
+- Rom_14:6el que no come, para el Señor no c, y daG2068
+- Rom_14:20haga tropezar a otros con lo que comeG2068
+- Rom_14:21bueno el no comer carne, ni beber vinoG5315
+- Rom_14:23duda sobre lo que come, es condenadoG5315
+- 1Co_5:11o ladrón; con el tal ni aun comáisG4906
+- 1Co_8:7porque...comen como sacrificado a ídolosG2068
+- 1Co_8:8ni porque comamos...más, ni porque no cG5315
+- 1Co_8:10estimulada a comer de lo sacrificado aG2068
+- 1Co_8:13no comeré carne jamás, para no ponerG5315
+- 1Co_9:4¿acaso no tenemos derecho de comer yG5315
+- 1Co_9:7¿quién planta viña y no come...fruto?[[G2068]]
+- 1Co_9:13los que trabajan en...comen del temploG2068
+- 1Co_10:3comieron el mismo alimento espiritualG5315
+- 1Co_10:7se sentó el pueblo a comer y a beberG5315
+- 1Co_10:18los que comen de los sacrificios, ¿noG2068
+- 1Co_10:25que se vende en la carnicería, comedG2068
+- 1Co_10:27comed, sin preguntar nada por motivoG2068
+- 1Co_10:28esto fue sacrificado a...no lo comáisG2068
+- 1Co_10:31si, pues, coméis...hacedlo todo para laG2068
+- 1Co_11:20esto no es comer la cena del SeñorG5315
+- 1Co_11:21porque al comer, cada uno se adelantaG5315
+- 1Co_11:22no tenéis casas en que comáis y bebáis?[[G2068]]
+- 1Co_11:24dijo: Tomad, comed; esto es mi cuerpoG5315
+- 1Co_11:26todas las veces que comiereis este panG2068
+- 1Co_11:27que comiere este pan o bebiere esta copaG2068
+- 1Co_11:28pruébese cada uno...y coma así del panG2068
+- 1Co_11:29come y bebe...juicio c y bebe para síG2068
+- 1Co_11:33cuando os reunís a comer esperaos unosG5315
+- 1Co_11:34tuviere hambre, coma en su casa, paraG2068
+- 1Co_13:3si repartiese...para dar de comer a losG5595
+- 1Co_15:32comamos y bebamos...mañana moriremosG5315
+- 2Co_9:10el que da...pan al que come, proveeráG1035
+- Gál_2:12pues antes que...comía con los gentilesG4906
+- Gál_5:15si os mordéis y os coméis unos a otrosG2719
+- 2Ts_3:8ni comimos de balde el pan de nadieG5315
+- 2Ts_3:10alguno no quiere trabajar, tampoco comaG2068
+- 2Ts_3:12que trabajando...coman su propio panG2068
+- Heb_13:10del cual no tienen derecho de comerG5315
+- Stg_5:2y vuestras ropas...comidas de polillaG4598
+- 2Pe_2:13aun mientras comen con vosotros, seG4910
+- Jud_1:12comiendo...con vosotros se apacientan aG4910
+- Rev_2:7que venciere, le daré a comer del árbolG5315
+- Rev_2:14enseñaba...a comer de cosas sacrificadasG5315
+- Rev_2:17daré a comer del maná escondido, y leG5315
+- Rev_2:20enseñe...a comer cosas sacrificadas a losG5315
+- Rev_10:9toma, y cómelo; y te amargará el vientreG2719
+- Rev_10:10tomé el librito de la mano...y lo comíG2719
+- Rev_10:10pero cuando lo hube comido, amargó miG5315
+- Rev_19:18para que comáis carnes de reyes y deG5315

@@ -1,0 +1,122 @@
+---
+tipo: concordancia
+palabra: ESPERANZA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESPERANZA
+
+- Rut_1:12dijese: E tengo, y...diese a luz hijosH8615
+- 2Re_18:5en Jehová Dios de Israel puso su eH982
+- Esd_10:2pesar de esto, aún hay e para IsraelH4723
+- Job_4:6¿no es tu e la integridad de...caminos?[[H8615]]
+- Job_5:16pues es e al menesteroso, y la iniquidadH5615
+- Job_6:20fueron avergonzados por su e; porqueH982
+- Job_7:6mis días...más veloces...fenecieron sin eH8615
+- Job_8:13los caminos...y la e del impío pereceráH8615
+- Job_8:14porque su e será cortada, y su confianzaH3689
+- Job_11:18tendrás confianza, porque hay eH8615
+- Job_11:20malos...su e será dar su último suspiroH8615
+- Job_14:7árbol fuere cortado, aún queda de el eH8615
+- Job_14:19de igual manera haces tú perecer la eH8615
+- Job_17:15¿dónde...mi e? Y mi e, ¿quién la verá?[[H8615]]
+- Job_19:10hecho pasar mi e como árbol arrancadoH8615
+- Job_27:8¿cuál es la e del impío, por mucho queH8615
+- Job_31:24si puse en el oro mi e, y dije al oroH3689
+- Job_41:9aquí que la e acerca de él será burladaH8431
+- Sal_9:18no...ni la e de los pobres pereceráH8615
+- Sal_14:6del...se han burlado, pero Jehová es su eH4268
+- Sal_39:7Señor, ¿qué esperaré? Mi e está en tiH8431
+- Sal_42:5en Dios...reposa, porque de él es mi eH3176
+- Sal_65:5e de todos los términos de la tierraH4009
+- Sal_71:5porque tú, oh Señor Jehová, eres mi eH8615
+- Sal_73:28he puesto en Jehová el Señor mi e, paraH4268
+- Sal_91:2diré yo a Jehová: e mía, y castillo míoH982
+- Sal_91:9porque has puesto a Jehová, que es mi eH4268
+- Sal_119:116y no quede yo avergonzado de mi eH3176
+- Sal_142:5dije: Tú eres mi e, y mi porción en laH4268
+- Sal_146:5aquel...cuya e está en Jehová su DiosH7664
+- Pro_10:28la e de los justos es alegría; mas laH8431
+- Pro_10:28alegría; mas la e de los impíos pereceráH8615
+- Pro_11:7muere el hombre impío, perece su e, y laH8431
+- Pro_11:23bien, mas la e de los impíos es el enojoH8615
+- Pro_13:12e que se demora es tormento del corazónH8431
+- Pro_14:26fuerte confianza; y e tendrán sus hijosH4009
+- Pro_14:32impío, mas el justo en su muerte tiene eH2620
+- Pro_19:18castiga a tu hijo en tanto que hay eH8615
+- Pro_23:18porque...hay fin, y tu e no será cortadaH8615
+- Pro_24:14hallares...al fin tu e no será cortadaH8615
+- Pro_26:9; Pro_29:20más e hay del necio que de élH8615
+- Ecl_9:4hay e para...que está entre los vivosH986
+- Isa_20:5y avergonzarán de Etiopía su e, y deH4007
+- Isa_20:6mirad qué tal fue nuestra e, a donde nosH4007
+- Isa_30:2para...poner su e en la sombra de EgiptoH2620
+- Isa_31:1su e ponen en carros, porque son muchosH982
+- Isa_51:5a mí me esperan...en mi brazo ponen su eH3176
+- Jer_14:8oh e de Israel, Guardador suyo en elH4723
+- Jer_17:13¡oh Jehová, e de Israel! todos los queH4723
+- Jer_23:16os alimentan con vanas e; hablan visiónH1891
+- Jer_31:17e hay también para tu porvenir, diceH8615
+- Jer_50:7pecaron...contra Jehová e de sus padresH4723
+- Lam_3:18dije: Perecieron mis fuerzas, y mi eH8431
+- Lam_3:29ponga su boca en el...por si aún hay eH8615
+- Lam_4:17en nuestra e aguardamos a una nación queH6836
+- Eze_19:5que se perdía su e, tomó otro de susH8615
+- Eze_37:11y pereció nuestra e, y somos del todoH8615
+- Ose_2:15daré...valle de Acor por puerta de eH8615
+- Joe_3:16Jehová será la e de su pueblo, y laH4268
+- Zac_9:5asimismo Ecrón...su e será confundidaH4007
+- Zac_9:12volveos a la fortaleza, oh prisioneros de eH8615
+- Jua_5:45hay...Moisés, en quien tenéis vuestra eG1679
+- Hec_2:26gozó...aun mi carne descansara en eG1680
+- Hec_16:19que había salido la e de su gananciaG1680
+- Hec_23:6acerca de la e...los muertos se me juzgaG1680
+- Hec_24:15teniendo e en Dios, la cual...abriganG1680
+- Hec_26:6por la e de la promesa que hizo Dios aG1680
+- Hec_26:7por esta e...soy acusado por los judíosG1679
+- Hec_27:20habíamos perdido toda e de salvarnosG1680
+- Hec_28:20porque por la e de Israel estoy sujetoG1680
+- Rom_4:18él creyó en e contra e, para llegar aG1680
+- Rom_5:2y nos gloriamos en la e de la gloria deG1680
+- Rom_5:4y la paciencia, prueba; y la prueba, eG1680
+- Rom_5:5e no avergüenza; porque el amor de DiosG1680
+- Rom_8:20sino por causa del que la sujetó en eG1680
+- Rom_8:24en e...salvos...la e que se ve, no es eG1680
+- Rom_12:12en la e; sufridos en la tribulaciónG1680
+- Rom_15:4que por la paciencia y la...tengamos eG1680
+- Rom_15:13Dios de e os llene de todo gozo y pazG1680
+- 1Co_9:10porque con e debe arar el que araG1680
+- 1Co_9:10y el que trilla, con e de recibir delG1680
+- 1Co_13:13ahora permanecen la fe, la e y el amorG1680
+- 2Co_1:7y nuestra e...de vosotros es firmeG1680
+- 2Co_1:8aun perdimos la e de conservar la vidaG1820
+- 2Co_3:12teniendo tal e, usamos de...franquezaG1680
+- Gál_5:5aguardamos por fe la e de la justiciaG1680
+- Efe_1:18que sepáis cuál es la e a que él osG1680
+- Efe_2:12alejados...sin e y sin Dios en el mundoG1680
+- Efe_4:4llamados en una misma e de...vocaciónG1680
+- Flp_1:20conforme a mi anhelo y e de que enG1680
+- Col_1:5e que os está guardada en los cielosG1680
+- Col_1:23si moveros de la e del evangelio queG1680
+- Col_1:27es Cristo en vosotros, la e de gloriaG1680
+- 1Ts_1:3y de vuestra constancia en la e enG1680
+- 1Ts_2:19¿cuál es nuestra e, o gozo, o corona deG1680
+- 1Ts_4:13no os entristezcáis como...que no tienen eG1680
+- 1Ts_5:8amor, y con la e de salvación como yelmoG1680
+- 2Ts_2:16les dio consolación eterna y buena eG1680
+- 1Ti_1:1y del Señor Jesucristo nuestra eG1680
+- 1Ti_3:14aunque tengo la e de ir pronto a verteG1679
+- 1Ti_6:17pongan la e en las riquezas, las cualesG1679
+- Tit_1:2la e de la vida eterna, la cual DiosG1680
+- Tit_2:13aguardando la e bienaventurada y laG1680
+- Tit_3:7ser herederos conforme a la e de la vidaG1680
+- Heb_3:6retenemos firme...el gloriarnos en la eG1680
+- Heb_6:11solicitud...para plena certeza de la eG1680
+- Heb_6:18para asirnos de la e puesta delante deG1680
+- Heb_7:19la introducción de una mejor e, por laG1680
+- Heb_10:23firme, sin fluctuar, la profesión de...eG1680
+- 1Pe_1:3los hizo renacer para una e viva, porG1680
+- 1Pe_1:21para que nuestra fe y e sean en DiosG1680
+- 1Pe_3:15que os demande razón de la e que hay enG1680
+- 1Jn_3:3que tiene esta e en él, se purificaG1680

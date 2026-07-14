@@ -1,0 +1,101 @@
+---
+tipo: concordancia
+palabra: BIENAVENTURADO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BIENAVENTURADO, A
+
+- Deu_33:29b tú, oh Israel, ¿quién como túH835
+- 1Re_10:8; 2Cr_9:7b tus hombres, dichososH835
+- Job_5:17b es el hombre a quien Dios castigaH835
+- Job_29:11los oídos que me oían me llamaban bH835
+- Sal_1:1b el varón que no anduvo en consejo deH835
+- Sal_2:12su ira...B todos los que en él confíanH835
+- Sal_32:1b aquel...transgresión ha sido perdonadaH835
+- Sal_32:2b el hombre a quien Jehová no culpa deH835
+- Sal_33:12b la nación cuyo Dios es Jehová, elH835
+- Sal_40:4b el hombre que...en Jehová su confianzaH835
+- Sal_41:1b el que piensa en el pobre, en el díaH835
+- Sal_41:2será b en la tierra, y no los entregarás aH835
+- Sal_65:4b el que tú escogieres y atrajeres a tiH835
+- Sal_72:17benditas serán en él...lo llamarán bH1288
+- Sal_84:4b los que habitan en tu casa...alabaránH835
+- Sal_84:5b el hombre que tiene en ti sus fuerzasH835
+- Sal_89:15b el pueblo que sabe aclamarte; andaráH835
+- Sal_94:12b el hombre a quien tú, JAH, corrigesH835
+- Sal_112:1b el hombre que teme a Jehová, y en susH835
+- Sal_119:1b los perfectos de camino, los queH835
+- Sal_119:2b los que guardan sus testimonios, yH835
+- Sal_127:5b el hombre que llenó su aljaba de ellosH835
+- Sal_128:1b todo aquel que teme a Jehová, queH835
+- Sal_128:2cuando comieres...b serás, y te irá bienH835
+- Sal_137:8b el que te diere el pago de lo queH835
+- Sal_144:15b el pueblo que tiene esto; b el puebloH835
+- Sal_146:5b aquel cuyo ayudador es el Dios deH835
+- Pro_3:13b el hombre que halla la sabiduríaH835
+- Pro_3:18es árbol de...b son los que la retienenH835
+- Pro_8:32oídme, y b los que guardan mis caminosH835
+- Pro_8:34b el hombre que me escucha, velando aH835
+- Pro_14:21tiene misericordia de los pobres es bH835
+- Pro_16:20el bien, y el que confía en Jehoyá es bH835
+- Pro_28:14b el hombre que siempre teme a DiosH835
+- Pro_29:18pueblo...mas el que guarda la ley es bH835
+- Pro_31:28se levantan sus hijos y la llaman bH833
+- Ecl_10:17¡b tú, tierra, cuando tu rey es hijoH835
+- Cnt_6:9vieron las doncellas, y la llamaron bH833
+- Isa_30:18justo; b todos los que confían en élH835
+- Isa_56:2b el hombre que hace esto, y el hijo deH835
+- Dan_12:12b el que espere, y llegue a 1:335 díasH835
+- Mal_3:12todas las naciones os dirán b; porqueH833
+- Mal_3:15decimos...ahora: B son los soberbiosH833
+- Mat_5:3b los pobres en espíritu, porque deG3107
+- Mat_5:4b los que lloran, recibirán consolaciónG3107
+- Mat_5:5b los mansos, porque ellos recibirán laG3107
+- Mat_5:6b los que tienen hambre y...de justiciaG3107
+- Mat_5:7b los misericordiosos...ellos alcanzaránG3107
+- Mat_5:8b los de limpio corazón...verán a DiosG3107
+- Mat_5:9b los pacificadores, porque ellos seránG3107
+- Mat_5:10b los que padecen persecución por causaG3107
+- Mat_5:11b sois cuando por mi causa os vituperenG3107
+- Mat_11:6y b es el que no halle tropiezo en míG3107
+- Mat_13:16b vuestros ojos, porque ven; y vuestrosG3107
+- Mat_16:17respondió Jesús: B eres, Simón, hijo deG3107
+- Mat_24:46b aquel siervo al cual, cuando su señorG3107
+- Luc_1:45y b la que creyó, porque se cumpliráG3107
+- Luc_1:48ahora me dirán b todas las generacionesG3106
+- Luc_6:20b vosotros los pobres, porque vuestroG3107
+- Luc_6:21b los que ahora tenéis hambre, porqueG3107
+- Luc_6:21b los que ahora...lloráis, porque reiréisG3107
+- Luc_6:22b...cuando los hombres os aborrezcanG3107
+- Luc_7:23b es aquel que no halle tropiezo en mí
+- Luc_10:23b...ojos que ven lo que vosotros veisG3107
+- Luc_11:27b el vientre que te trajo, y los senosG3107
+- Luc_11:28antes b los que oyen la palabra de DiosG3107
+- Luc_12:37b aquellos siervos a los cuales suG3107
+- Luc_12:38los hallare así, b son aquellos siervosG3107
+- Luc_12:43b aquel siervo al cual, cuando su señorG3107
+- Luc_14:14y serás b; porque ellos no te puedenG3107
+- Luc_14:15b el que coma pan en el reino de DiosG3107
+- Luc_23:29b las estériles, y los vientres queG3107
+- Jua_13:17si sabéis...b seréis si las hiciereisG3107
+- Jua_20:29dijo...b los que no vieron, y creyeronG3107
+- Hec_20:35que dijo: Más b es dar que recibirG3107
+- Rom_4:7b...cuyas iniquidades son perdonadasG3107
+- Rom_4:8b el varón a quien el Señor no inculpaG3107
+- Rom_14:22b el que no se condena a sí mismo enG3107
+- 1Ti_6:15la cual a su tiempo mostrará el bG3107
+- Tit_2:13aguardando la esperanza b...gloriosaG3107
+- Stg_1:12b el varón que soporta la tentaciónG3107
+- Stg_1:25sino hacedor de...será b en lo que haceG3107
+- Stg_5:11he aquí, tenemos por b a los que sufrenG3106
+- 1Pe_3:14si alguna cosa padecéis por...b soisG3107
+- 1Pe_4:14sois vituperados por el nombre...sois bG3107
+- Rev_1:3b el que lee...que oyen las palabras deG3107
+- Rev_14:13b...los muertos que mueren en el SeñorG3107
+- Rev_16:15b el que vela, y guarda sus ropas paraG3107
+- Rev_19:9b los que son llamados a la cena de lasG3107
+- Rev_20:6b y santo el que tiene parte en laG3107
+- Rev_22:7b el que guarda las palabras de...libroG3107
+- Rev_22:14b los que lavan Sus ropas, para tenerG3107

@@ -1,0 +1,110 @@
+---
+tipo: concordancia
+palabra: GENTIL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GENTIL
+
+- Isa_9:1el camino del mar...en Galilea de los gH1471
+- Mat_4:15tierra de Neftalí...Galilea de los gG1484
+- Mat_5:47saludáis...¿no hacen también así los g?[[G5057]]
+- Mat_6:7no uséis vanas repeticiones, como los gG1482
+- Mat_6:32porque los g buscan todas estas cosasG1484
+- Mat_10:5por camino de g no vayáis, y en ciudadG1484
+- Mat_10:18mí, para testimonio a ellos y a los gG1484
+- Mat_12:18sobre él, y a los g anunciará juicioG1484
+- Mat_12:21juicio, y en su nombre esperarán los gG1484
+- Mat_18:17si no oyere a...tenle por g y publicanoG1482
+- Mat_20:19y le entregarán a los g para que leG1484
+- Mar_10:33a muerte, y le entregarán a los gG1484
+- Luc_2:32luz para revelación a los g, y gloriaG1484
+- Luc_18:32será entregado a los g, y...escarnecidoG1484
+- Luc_21:24Jerusalén será hollada por los g, hastaG1484
+- Luc_21:24que los tiempos de los g se cumplanG1484
+- Hec_4:27se unieron...con los g y el pueblo deG1484
+- Hec_7:45al tomar posesión de la tierra de los gG1484
+- Hec_9:15llevar mi nombre en presencia de los gG1484
+- Hec_10:45también sobre los g se derramase el donG1484
+- Hec_11:1los g habían recibido la palabra de DiosG1484
+- Hec_11:18a los g ha dado Dios arrepentimientoG1484
+- Hec_13:42los g les rogaron que el...les hablasenG1484
+- Hec_13:46dijeron...he aquí, nos volvemos a los gG1484
+- Hec_13:47diciendo: Te he puesto para luz de...gG1484
+- Hec_13:48los g...se regocijaban y glorificaban aG1484
+- Hec_14:2corrompieron los ánimos de los g contraG1484
+- Hec_14:5los judíos y los g, juntamente con susG1484
+- Hec_14:27había abierto la puerta de la fe a los gG1484
+- Hec_15:3ellos...contando la conversión de los gG1484
+- Hec_15:7escogió que los g oyesen por mi bocaG1484
+- Hec_15:12hecho Dios por medio de...entre los gG1484
+- Hec_15:14visitó...a los g, para tomar de ellosG1484
+- Hec_15:17los g, sobre los cuales es invocado miG1484
+- Hec_15:19juzgo que no se inquiete a los g queG1484
+- Hec_15:23los hermanos de entre los g que estánG1484
+- Hec_18:6yo, limpio; desde ahora me iré a los gG1484
+- Hec_20:21testificando a judíos y a g acerca delG1672
+- Hec_21:11así...y le entregarán en manos de los gG1484
+- Hec_21:19que Dios había hecho entre los g por suG1484
+- Hec_21:21todos los judíos que están entre los gG1484
+- Hec_21:25pero en cuanto a los g que han creídoG1484
+- Hec_22:21vé, porque yo te enviaré lejos a los gG1484
+- Hec_26:17librándote de tu pueblo, y de los g, aG1484
+- Hec_26:20sino que anuncié...y a los g, que seG1484
+- Hec_26:23para anunciar luz al pueblo y a los gG1484
+- Hec_28:28a los g es enviada esta salvación deG1484
+- Rom_1:13algún fruto, como entre los demás gG1484
+- Rom_2:14cuando los g que no tienen ley, hacenG1484
+- Rom_2:24es blasfemado entre los g por causa deG1484
+- Rom_3:9pues ya hemos acusado a judíos y a g, queG1672
+- Rom_3:29es...Dios de los g?...también de los g?[[G1484]]
+- Rom_9:24no sólo de los judíos, sino...de los gG1484
+- Rom_9:30que los g, que no iban tras la justiciaG1484
+- Rom_11:11pero por su...vino la salvación a los gG1484
+- Rom_11:12si...su defección la riqueza de los gG1484
+- Rom_11:13a vosotros hablo, g. Por cuanto yo soyG1484
+- Rom_11:13cuanto yo soy apóstol a los g, honro miG1484
+- Rom_11:25que haya entrado la plenitud de los gG1484
+- Rom_15:9para que los g glorifiquen a Dios porG1484
+- Rom_15:9por tanto, yo te confesaré entre los gG1484
+- Rom_15:10y otra vez...Alegraos, g con su puebloG1484
+- Rom_15:11otra vez...Alabad al Señor todos los gG1484
+- Rom_15:12a regir los g; los g esperarán en élG1484
+- Rom_15:16para ser ministro de Jesucristo a los gG1484
+- Rom_15:16que los g le sean ofrenda agradableG1484
+- Rom_15:18ha hecho...para la obediencia de los gG1484
+- Rom_15:27los g han sido hechos participantes deG1484
+- Rom_16:4sino también todas las iglesias de los gG1484
+- 1Co_1:23tropezadero, y para los g locuraG1672
+- 1Co_5:1ni aun se nombra entre los g; tanto queG1484
+- 1Co_10:20antes digo que lo que los g sacrificanG1484
+- 1Co_10:32no seáis tropiezo ni a judíos, ni a gG1484
+- 1Co_12:2que cuando erais g, se os extraviabaG1484
+- 2Co_11:26peligros de los g, peligros en laG1484
+- Gál_1:16para que yo le predicase entre los gG1484
+- Gál_2:2el evangelio que predico entre los gG1484
+- Gál_2:8que actuó...también en mí para con los gG1484
+- Gál_2:9que nosotros fuésemos a los g, y ellosG1484
+- Gál_2:12antes...comía con los g; pero después queG1484
+- Gál_2:14si tú...vives como los g y no como judíoG1483
+- Gál_2:14¿por qué obligas a los g a judaizar?[[G1484]]
+- Gál_2:15judíos...y no pecadores de entre los gG1484
+- Gál_3:8Dios había de justificar por la fe a...gG1484
+- Gál_3:14la bendición de Abraham alcance a los gG1484
+- Efe_2:11de que en otro tiempo vosotros, los gG1484
+- Efe_3:1yo Pablo, prisionero...por vosotros los gG1484
+- Efe_3:6que los g son coherederos y miembros delG1484
+- Efe_3:8esta gracia de anunciar entre los g elG1484
+- Efe_4:17que ya no andéis como los otros g, queG1484
+- Col_1:27gloria de este misterio entre los gG1484
+- 1Ts_2:16impidiéndonos hablar a los g paraG1484
+- 1Ts_4:5no en...concupiscencia, como los g que noG1484
+- 1Ti_2:7y maestro de los g en fe y verdadG1484
+- 1Ti_3:16predicado a los g, creído en el mundoG1484
+- 2Ti_1:11fui constituido...maestro de los gG1484
+- 2Ti_4:17que todos los g oyesen. Así fui libradoG1484
+- 1Pe_2:12vuestra manera de vivir entre los gG1484
+- 1Pe_4:3para haber hecho lo que agrada a los gG1484
+- 3Jn_1:7salieron por...sin aceptar nada de los gG1484
+- Rev_11:2no lo midas...sido entregado a los gG1484

@@ -1,0 +1,83 @@
+---
+tipo: concordancia
+palabra: ESCUDO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESCUDO
+
+- Gén_15:1diciendo: No temas, Abram; yo soy tu eH4043
+- Deu_33:29salvo por Jehová, e de tu socorro, yH4043
+- Jue_5:8¿se veía e o...entre 40.000 en Israel?[[H4043]]
+- 2Sa_1:21fue desechado el e de...el e de SaúlH4043
+- 2Sa_8:7los e de oro que traían los siervos deH7982
+- 2Sa_22:3mi e, y el fuerte de mi salvación, miH4043
+- 2Sa_22:31e es a todos los que en él esperanH4043
+- 2Sa_22:36me diste asimismo el e de tu salvaciónH4043
+- 1Re_10:16hizo...200 e grandes de oro batidoH6793
+- 1Re_10:16seiscientos siclos de oro...en cada eH6793
+- 1Re_10:17hizo 300 e de oro batido, en cada unoH4043
+- 1Re_14:26se llevó todos los e de oro que SalomónH4043
+- 1Re_14:27hizo el rey...e de bronce, y los dio aH4043
+- 2Re_11:10dio...los e que habían sido del reyH7982
+- 2Re_19:32ni vendrá delante de ella con e, niH4043
+- 1Cr_5:18hombres que traían e y espada, queH4043
+- 1Cr_12:8muy valientes...diestros con e y pavésH6793
+- 1Cr_12:24los hijos de Judá que traían e y lanzaH6793
+- 1Cr_12:34mil...y con ellos 37.000 con e y lanzaH6793
+- 1Cr_18:7tomó también David los e de oro queH7982
+- 2Cr_9:16trescientos e...cada e 300 siclosH4043
+- 2Cr_11:12en todas las ciudades puso e y lanzasH6793
+- 2Cr_12:9y tomó los e de oro que Salomón habíaH4043
+- 2Cr_12:10hizo el rey Roboam e de bronce, y losH4043
+- 2Cr_14:8tuvo también Asa ejército que traía eH6793
+- 2Cr_14:8que traían e y entesaban arcos, todosH4043
+- 2Cr_17:17y con él 200.000 armados de arco y eH4043
+- 2Cr_23:9dio...los e que habían sido del rey DavidH4043
+- 2Cr_25:5escogidos para salir...tenían lanza y eH6793
+- 2Cr_26:14Uzías preparó para todo el ejército eH4043
+- 2Cr_32:5Ezequías...hizo muchas espadas y eH4043
+- 2Cr_32:27adquirió...oro...e, y toda clase de joyasH4043
+- Neh_4:16otra mitad tenía lanzas, e, arcos yH4043
+- Job_15:26corrió...la espesa barrera de sus eH4043
+- Job_41:15la gloria de su vestido son e fuertesH650, [[H4043]]
+- Sal_3:3tú, Jehová, eres e alrededor de míH4043
+- Sal_5:12como con un e lo rodearás de tu favorH6793
+- Sal_7:10e está en Dios, que salva a los rectosH4043
+- Sal_18:2mi e, y la fuerza de mi salvación, miH4043
+- Sal_18:30e es a todos los que en él esperanH4043
+- Sal_18:35diste...el e de tu salvación; tu diestraH4043
+- Sal_28:7Jehová es mi fortaleza y mi e; en élH4043
+- Sal_33:20a Jehová; nuestra ayuda y nuestro e esH4043
+- Sal_35:2echa mano al e y al pavés, y levántateH4043
+- Sal_47:10de Dios son los e de la tierra; él esH4043
+- Sal_59:11dispérsalos con...oh Jehová, e nuestroH4043
+- Sal_76:3el e, la espada y las armas de guerraH4043
+- Sal_84:9mira, oh Dios, e nuestro, y pon los ojosH4043
+- Sal_84:11porque sol y e es Jehová Dios; graciaH4043
+- Sal_89:18Jehová es nuestro e, y nuestro rey esH4043
+- Sal_91:4te cubrirá, y...e y adarga es su verdadH6793
+- Sal_115:9confía en Jehová; él es tu ayuda y tu eH4043
+- Sal_115:10-11él es vuestra ayuda y vuestro eH4043
+- Sal_119:114mi escondedero y mi e eres túH4043
+- Sal_144:2e mío, en quien he confiado; el queH4043
+- Pro_2:7él...es e a los que caminan rectamenteH4043
+- Pro_30:5Dios...él es e a los que en él esperanH4043
+- Ecl_7:12e es la ciencia, y e es el dinero; masH6738
+- Cnt_4:4mil e están colgados...e de valientesH4043
+- Isa_21:5¡levantaos, oh príncipes, ungid el e![[H4043]]
+- Isa_22:6Elam tomó aljaba, con...y Kir sacó el eH4043
+- Isa_37:33rey...no vendrá delante de ella con eH4043
+- Jer_46:3preparad e y pavés, y...a la guerraH4043
+- Jer_46:9los de Put que toman e, y los de Lud queH4043
+- Jer_51:11limpiad las saetas, embrazad los e; haH7982
+- Eze_23:24e, paveses y yelmos pondrán contra tiH4043
+- Eze_26:8torres de sitio...y e afirmará contra tiH6793
+- Eze_27:10e y yelmos colgaron en ti...te dieron tuH4043
+- Eze_27:11e colgaron sobre tus muros alrededorH7982
+- Eze_38:4gran multitud con paveses y e, teniendoH4043
+- Eze_38:5Cus y Fut con ellos; todos ellos con eH4043
+- Eze_39:9y quemarán,...e, paveses, arcos y saetasH4043
+- Nah_2:3e de sus valientes estará enrojecidoH4043
+- Efe_6:16el e de la fe, con que podáis apagarG2375

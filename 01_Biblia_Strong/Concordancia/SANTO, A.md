@@ -1,0 +1,568 @@
+---
+tipo: concordancia
+palabra: SANTO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SANTO, A
+
+- Éxo_3:5el lugar en que tú estás, tierra s esH6944
+- Éxo_12:16el primer día habrá s convocación, yH6944
+- Éxo_12:16séptimo día tendréis una s convocaciónH6944
+- Éxo_15:13lo llevaste con tu poder a tu s moradaH6944
+- Éxo_16:23les dijo...Mañana es el s día de reposoH6944
+- Éxo_19:6seréis un reino de sacerdotes, y gente sH6944
+- Éxo_22:31me seréis varones s...No comeréis carneH6944
+- Éxo_26:33os hará separación entre el lugar s yH6944
+- Éxo_28:38faltas cometidas en todas las cosas sH6944
+- Éxo_28:38consagrado en todas sus s ofrendasH6944
+- Éxo_29:6y sobre la mitra pondrás la diadema sH6944
+- Éxo_29:29y las vestiduras s, que son de AarónH6944
+- Éxo_29:31carnero...y cocerás su carne en lugar sH6918
+- Éxo_29:33el extraño no las comerá, porque son sH6944
+- Éxo_29:34sobrare...no se comerá, porque es cosa sH6944
+- Éxo_30:10hará expiación...será muy s a JehováH6944
+- Éxo_30:25harás de ello el aceite de la s unciónH6944
+- Éxo_30:25del perfumador...aceite de la unción SH6944
+- Éxo_30:31este será mi aceite de la s unción porH6944
+- Éxo_30:32s es, y por s lo tendréis vosotrosH6944
+- Éxo_30:35el incienso, un perfume según...puro y sH6944
+- Éxo_31:10vestiduras s para Aarón el sacerdoteH6944
+- Éxo_31:14guardaréis el día de...s es a vosotrosH6944
+- Éxo_35:2el día séptimo os será s, día de reposoH6944
+- Éxo_37:29aceite s de la unción, y el inciensoH6944
+- Éxo_39:30la lámina de la diadema s de oro puroH6944
+- Éxo_40:9lo santificarás con todos sus...y será sH6944
+- Lev_5:15y pecare por yerro en las cosas s deH6944
+- Lev_5:16que hubiere defraudado de las cosas sH6944
+- Lev_6:16sin levadura se comerá en lugar s; enH6918
+- Lev_6:26en lugar s será comida, en el atrio delH6918
+- Lev_6:27salpicare...lavarás aquello...en lugar sH6918
+- Lev_7:1es la ley del sacrificio...es cosa muy sH6944
+- Lev_7:6será comida en lugar s; es cosa muy sH6918
+- Lev_8:9sobre la mitra...diadema s, como JehováH6944
+- Lev_10:10para poder discernir entre lo s y loH6944
+- Lev_10:12tomad la ofrenda...porque es cosa muy sH6944
+- Lev_10:13la comeréis, pues, en lugar s; porqueH6918
+- Lev_10:17no comisteis la expiación en lugar s?[[H6944]]
+- Lev_10:17es muy s, y la dio él a vosotros paraH6944
+- Lev_10:18debíais comer la ofrenda en el lugar sH6944
+- Lev_11:44soy Jehová...seréis s, porque yo soy sH6918
+- Lev_11:45Dios; seréis, pues, s, porque yo soy sH6918
+- Lev_12:4purificándose...ninguna cosa s tocará, niH6944
+- Lev_16:4se vestirá la túnica s de lino, y sobreH6944
+- Lev_16:4son las s vestiduras; con ellas se ha deH6944
+- Lev_16:33y hará la expiación por el santuario sH6944
+- Lev_19:2s seréis...s soy yo Jehová vuestro DiosH6918
+- Lev_19:8por cuanto profanó lo s de Jehová; y laH6944
+- Lev_20:3contaminando...y profanando mi s nombreH6944
+- Lev_20:7santificaos, pues, y sed s, porque yoH6918
+- Lev_20:26serme s, porque yo Jehová soy s, y osH6918
+- Lev_21:6s serán a su Dios, y no profanarán elH6918
+- Lev_21:6las ofrendas...ofrecen; por tanto, serán sH6944
+- Lev_21:7ni...porque el sacerdote es s a su DiosH6918
+- Lev_21:8s será para ti, porque s soy yo JehováH6918
+- Lev_21:22de lo muy s y de las cosas santificadasH6944
+- Lev_22:2que se abstengan de las cosas s que losH6944
+- Lev_22:2se abstengan...y no profanen mi s nombreH6944
+- Lev_22:15no profanarán, pues, las cosas s de losH6944
+- Lev_22:16pecado, comiendo las cosas s de ellosH6944
+- Lev_22:32no profanéis mi s nombre, para que yoH6944
+- Lev_23:2las...proclamaréis como s convocacionesH6944
+- Lev_23:3séptimo...será de reposo, s convocaciónH6944
+- Lev_23:4fiestas...convocaciones s, a las cualesH6944
+- Lev_23:7el primer día tendréis s convocaciónH6944
+- Lev_23:8séptimo día será s convocación; ningúnH6944
+- Lev_23:21convocaréis en este...día s convocaciónH6944
+- Lev_23:24en el mes séptimo...una s convocaciónH6944
+- Lev_23:27tendréis s convocación, y afligiréisH6944
+- Lev_23:35primer día habrá s convocación; ningúnH6944
+- Lev_23:36el octavo día tendréis s convocaciónH6944
+- Lev_23:37a las que convocaréis s reuniones, paraH6944
+- Lev_24:9comerán en lugar s...es cosa muy s paraH6918
+- Lev_25:12porque es jubileo; s será a vosotrosH6944
+- Lev_27:9todo lo que...se diere a Jehová será sH6944
+- Lev_27:21jubileo, la tierra será s para JehováH6944
+- Núm_4:15no tocarán cosa s, no sea que mueranH6944
+- Núm_4:20ver cuando cubran las cosas s, porqueH6944
+- Núm_5:9toda ofrenda de todas las cosas s que losH6944
+- Núm_5:17tomará...del agua s en un vaso de barroH6918
+- Núm_6:5, Núm_6:8todo el tiempo...de su nazareato...será sH6918
+- Núm_6:20cosa s del sacerdote, además del pechoH6944
+- Núm_15:40os acordéis...y seáis s a vuestro DiosH6918
+- Núm_16:3son s, y en medio de ellos está JehováH6918
+- Núm_16:5mostrará Jehová quién es...y quién es sH6918
+- Núm_16:7quien Jehová escogiere, aquel será el sH6918
+- Núm_18:3no se acercarán a los utensilios s ni al
+- Núm_18:9será tuyo de la ofrenda de las cosas sH6944
+- Núm_18:9todo presente...será cosa muy s para tiH6944
+- Núm_18:10en el santuario la...cosa s será para tiH6944
+- Núm_18:19las ofrendas elevadas de las cosas sH6944
+- Núm_18:32y no contaminaréis las cosas s de losH6944
+- Núm_28:18primer día será s convocación; ningunaH6944
+- Núm_28:25el séptimo día tendréis s convocaciónH6944
+- Núm_28:26el día de las...tendréis s convocaciónH6944
+- Núm_29:1primero del mes, tendréis s convocaciónH6944
+- Núm_29:7este mes séptimo tendréis s convocaciónH6944
+- Núm_29:12a los quince...tendréis s convocaciónH6944
+- Núm_35:25el cual fue ungido con el aceite sH6944
+- Deu_7:6; Deu_14:2, Deu_14:21eres pueblo s para Jehová tuH6918
+- Deu_23:14por tanto, tu campamento ha de ser sH6918
+- Deu_26:15mira desde tu morada s, desde el cieloH6944
+- Deu_26:19que seas un pueblo s a Jehová tu DiosH6918
+- Deu_28:9te confirmará Jehová por pueblo s suyoH6918
+- Deu_33:2y vino de entre diez millares de s, conH6944
+- Jos_5:15quita el calzado...donde estás es sH6944
+- Jos_24:19él es Dios s, y Dios celoso; no sufriráH6918
+- 1Sa_2:2no hay s como Jehová; porque no hayH6918
+- 1Sa_2:9guarda los pies de sus s, mas los impíosH2623
+- 1Sa_6:20podrá estar delante de Jehová el Dios s?[[H6918]]
+- 1Sa_21:5los vasos de los jóvenes eran s, aunqueH6944
+- 1Sa_21:5¿cuánto más no serán s hoy sus vasos?[[H6944]]
+- 1Re_8:8se dejaban ver desde el lugar s, queH6944
+- 2Re_4:9que siempre pasa...es varón s de DiosH6918
+- 2Re_10:25fueron hasta el lugar s...templo de Baal
+- 2Re_19:22has vituperado y...Contra el S de IsraelH6918
+- 1Cr_16:10gloriaos en su s nombre; alégreseH6944
+- 1Cr_16:35para que confesemos tu s nombre, y nosH6944
+- 1Cr_23:13para ser dedicado a las cosas más s, élH6944
+- 1Cr_29:16para edificar casa a tu s nombre, de tuH6944
+- 2Cr_6:41y tus s se regocijan en tu bondadH2623
+- 2Cr_31:18fidelidad se consagraban a las cosas sH6944
+- 2Cr_35:3poned el arca s en la casa que edificóH6944
+- Esd_2:63no comiesen de las cosas más s, hastaH6944
+- Esd_8:28son s los utensilios, y la plata y el oroH6944
+- Esd_9:2linaje s ha sido mezclado con los pueblosH6944
+- Neh_7:65no comiesen de las cosas más s, hastaH6944
+- Neh_8:9el pueblo: Día s es a Jehová nuestro DiosH6918
+- Neh_8:10porque día s es a nuestro Señor; no osH6918
+- Neh_8:11diciendo: Callad, porque es día s, y noH6918
+- Neh_9:14les ordenaste el día de reposo s paraH6944
+- Neh_11:1para que morase en Jerusalén, ciudad sH6944
+- Neh_11:18los levitas en la s ciudad eran 284H6944
+- Job_5:1voces...¿Y a cuál de los s te volverás?[[H6918]]
+- Job_6:10yo no he escondido las palabras del SH6918
+- Job_15:15he aquí, en sus s no confía, y ni aunH6918
+- Sal_2:6puesto mi rey sobre Sion, mi s monteH6944
+- Sal_3:4clamé...él me respondió desde su monte sH6944
+- Sal_5:7adoraré hacia tu s templo en tu temorH6944
+- Sal_11:4Jehová está en su s templo...en el cieloH6944
+- Sal_15:1¿quién habitará...morará en tu monte s?[[H6944]]
+- Sal_16:3para los s que están en la tierra, y paraH6918
+- Sal_16:10ni permitirás que tu s vea corrupciónH2623
+- Sal_20:6oirá desde sus s cielos con la potenciaH6944
+- Sal_22:3pero tú eres s, tú que habitas entre lasH6918
+- Sal_24:3subirá al...y quién estará en su lugar s?[[H6944]]
+- Sal_28:2cuando alzo mis manos hacia tu s temploH6944
+- Sal_30:4cantad a Jehová...sus s, y celebrad laH2623
+- Sal_31:23amad a Jehová, todos vosotros sus sH2623
+- Sal_32:6orará a ti todo s en el tiempo en queH2623
+- Sal_33:21porque en su s nombre hemos confiadoH6944
+- Sal_34:9temed a Jehová, vosotros sus s, puesH6918
+- Sal_37:28Jehová ama la...y no desampara a sus sH2623
+- Sal_43:3me conducirán a tu s monte, y...moradasH6944
+- Sal_47:8reinó...se sentó Dios sobre su s tronoH6944
+- Sal_48:1digno de ser...alabado en...en su monte sH6944
+- Sal_50:5mis s, los que hicieron conmigo pactoH2623
+- Sal_51:11no me...y no quites de mí tu s EspírituH6944
+- Sal_52:9en tu...porque es bueno, delante de tus sH2623
+- Sal_65:4del bien de tu casa, de tu s temploH6918
+- Sal_68:5y defensor de...es Dios en su s moradaH6944
+- Sal_71:22tu verdad cantaré a ti...oh S de IsraelH6918
+- Sal_77:13oh Dios, s es tu camino; ¿qué dios es
+- Sal_78:41tentaban a...y provocaban al S de IsraelH6918
+- Sal_78:54los trajo después a las...de su tierra sH6944
+- Sal_79:1las naciones...han profanado tu s temploH6944
+- Sal_79:2la carne de tus s a las bestias de laH2623
+- Sal_85:8hablará paz a su pueblo y a sus s, paraH2623
+- Sal_87:1su cimiento está en el monte sH6944
+- Sal_89:5tu verdad...en la congregación de los sH6918
+- Sal_89:7Dios temible en...congregación de los sH6918
+- Sal_89:18escudo, y nuestro rey es el S de IsraelH6918
+- Sal_89:19hablaste en visión a tu s, y dijisteH2623
+- Sal_89:20hallé a David...lo ungí con mi s unciónH6944
+- Sal_97:10él guarda las almas de sus s; de manoH2623
+- Sal_98:1su diestra lo ha salvado, y su s brazoH6944
+- Sal_99:3alaben tu nombre grande y temible...es sH6918
+- Sal_99:5postraos ante el...de sus pies; él es sH6918
+- Sal_99:9postraos ante su s monte, porque JehováH6944
+- Sal_99:9postraos ante...Jehová nuestro Dios es sH6918
+- Sal_103:1alma...y bendiga todo mi ser su s nombreH6944
+- Sal_105:3gloriaos en su s nombre; alégrese elH6944
+- Sal_105:42porque se acordó de su s palabra dadaH6944
+- Sal_106:16tuvieron envidia...contra Aarón, el sH6918
+- Sal_106:47para que alabemos tu s nombre, paraH6944
+- Sal_111:9para siempre...s y temible es su nombreH6918
+- Sal_116:15los ojos de Jehová la muerte de sus sH2623
+- Sal_132:9se vistan de justicia...regocijen tus sH2623
+- Sal_132:16sus sacerdotes...s darán voces de júbiloH2623
+- Sal_138:2postraré hacia tu s templo, y alabaréH2623
+- Sal_145:10te alaben...obras, y tus s te bendiganH2623
+- Sal_145:21bendigan su s nombre eternamente y paraH6944
+- Sal_148:14alábenle todos sus s...hijos de IsraelH2623
+- Sal_149:1alabanza...en la congregación de los sH2623
+- Sal_149:5regocíjense...s por su gloria, y cantenH2623
+- Sal_149:9gloria será...para todos sus s...AleluyaH2623
+- Pro_2:8es el que...preserva el camino de sus sH2623
+- Pro_30:3ni aprendí...ni conozco la ciencia del SH6918
+- Ecl_8:10los que frecuentaban el lugar s fueronH6918
+- Isa_1:4dejaron...provocaron a ira al S de IsraelH6918
+- Isa_4:3y el que fuere dejado en...será llamado sH6918
+- Isa_5:16el Dios S será santificado con justiciaH6918
+- Isa_5:19venga el consejo del S de Israel, paraH6918
+- Isa_5:24y abominaron la palabra del S de IsraelH6918
+- Isa_6:3voces, diciendo: S, s, s, Jehová de losH6918
+- Isa_6:13tronco...así será el tronco, la simiente sH6944
+- Isa_10:17su S por llama, que abrase y consuma enH6918
+- Isa_10:20se apoyarán con verdad en Jehová, el SH6918
+- Isa_11:9ni dañarán en todo mi s monte; porque laH6944
+- Isa_12:6grande es en medio de ti el S de IsraelH6918
+- Isa_17:7y sus ojos contemplarán al S de IsraelH6918
+- Isa_27:13y adorarán a Jehová en el monte s, enH6944
+- Isa_29:19los hombres se gozarán en el S de IsraelH6918
+- Isa_29:23santificarán al S de Jacob, y temeránH6918
+- Isa_30:11y quitad de nuestra presencia al S deH6918
+- Isa_30:12tanto, el S de Israel dice así: PorqueH6918
+- Isa_30:15dijo Jehová el Señor, el S de IsraelH6918
+- Isa_31:1y no miran al S de Israel, ni buscan aH6918
+- Isa_37:23¿contra quién...Contra el S de IsraelH6918
+- Isa_40:25¿a qué, pues, compararéis? dice el SH6918
+- Isa_41:14yo soy...y el S de Israel es tu RedentorH6918
+- Isa_41:16pero tú te gloriarás en el S de IsraelH6918
+- Isa_41:20la mano de Jehová...S de Israel lo creóH6918
+- Isa_43:3Jehová...el S de Israel, soy tu SalvadorH6918
+- Isa_43:14dice Jehová, Redentor vuestro, el S deH6918
+- Isa_43:15yo Jehová, S vuestro, Creador de IsraelH6918
+- Isa_45:11Jehová, el S de Israel, y su FormadorH6918
+- Isa_47:4Jehová de...es su nombre, el S de IsraelH6918
+- Isa_48:2porque de la s ciudad se nombran, y enH6944
+- Isa_48:17dicho...el S de Israel: Yo soy JehováH6918
+- Isa_49:7ha dicho...el S suyo, al menospreciadoH6918
+- Isa_49:7fiel...el S de Israel, el cual te escogióH6918
+- Isa_52:1vístete de poder...Jerusalén, ciudad sH6944
+- Isa_52:10su s brazo ante los ojos de todas lasH6944
+- Isa_54:5tu Hacedor...tu Redentor, el S de IsraelH6918
+- Isa_55:5Dios, y del S de Israel que te ha honradoH6918
+- Isa_56:7llevaré a mi s monte, y los recrearé enH6944
+- Isa_57:13tendrá la tierra...y poseerá mi s monteH6944
+- Isa_57:15así dijo el Alto...cuyo nombre es el SH6918
+- Isa_58:13de hacer tu voluntad en mi día s, y loH6944
+- Isa_58:13y lo llamares delicia, s, glorioso deH6918
+- Isa_60:9al nombre de Jehová tu Dios, y al S deH6918
+- Isa_60:14llamarán Ciudad...Sion del S de IsraelH6918
+- Isa_62:12y les llamarán Pueblo S, Redimidos deH6944
+- Isa_63:10mas ellos...hicieron enojar su s espírituH6944
+- Isa_63:11que puso en medio de ellos su s espírituH6944
+- Isa_63:15contempla desde tu s y gloriosa moradaH6944
+- Isa_63:18por poco tiempo lo poseyó tu s puebloH6944
+- Isa_64:10tus s ciudades están desiertas, Sion esH6944
+- Isa_65:5no te acerques a mí...soy más s que túH6942
+- Isa_65:11que dejáis a...que olvidáis mi s monteH6944
+- Isa_65:25ni harán mal en todo mi s monte, dijoH6944
+- Isa_66:20traerán...en camellos, a mi s monte deH6944
+- Jer_2:3s era Israel a Jehová, primicias de susH6944
+- Jer_23:9delante de Jehová, y...de sus s palabrasH6944
+- Jer_25:30Jehová...desde su morada s dará su vozH6944
+- Jer_31:23te bendiga, oh morada de...oh monte sH6944
+- Jer_31:40hasta la esquina de la...será s a JehováH6944
+- Jer_50:29se ensoberbeció, contra el S de IsraelH6944
+- Jer_51:5fue llena de pecado contra el S de IsraelH6918
+- Eze_20:39pero no profanéis más mi s nombre conH6944
+- Eze_20:40en mi s monte...servirá toda la casa deH6944
+- Eze_22:26s y lo profano no hicieron diferenciaH6944
+- Eze_28:14yo te puse en el s monte de Dios, allíH6944
+- Eze_36:20profanaron mi s nombre, diciéndose deH6944
+- Eze_36:21dolor al ver mi s nombre profanado porH6944
+- Eze_36:22sino por causa de mi s nombre, el cualH6944
+- Eze_39:7y haré notorio mi s nombre en medio deH6944
+- Eze_39:7y nunca más dejaré profanar mi s nombreH6918
+- Eze_39:7sabrán las...yo soy Jehová, el S en IsraelH6918
+- Eze_39:25y me mostraré celoso por mi s nombreH6944
+- Eze_42:13cámaras s en las...comerán las s ofrendasH6944
+- Eze_42:13pondrán las ofrendas s...el lugar es sH6944
+- Eze_42:14entren, no saldrán del lugar s al atrioH6944
+- Eze_42:14que allí dejarán sus vestiduras...son sH6944
+- Eze_43:7nunca más profanará la casa...mi s nombreH6944
+- Eze_43:8y ellos, han contaminado mi s nombre conH6944
+- Eze_44:8establecido acerca de mis cosas s, sinoH6944
+- Eze_44:13ni se acercarán a...mis cosas s, a misH6944
+- Eze_44:23diferencia entre lo s y lo profano, yH6944
+- Eze_46:19a las cámaras s de los sacerdotes, lasH6944
+- Eze_48:10la porción s que pertenecerá a los sacerdotesH6944
+- Eze_48:18lo que quedare...delante de la porción sH6944
+- Eze_48:18que será lo que quedará de la porción sH6944
+- Eze_48:21a uno y otro lado de la porción s y deH6944
+- Eze_48:21s será, y el santuario de la casa estaráH6944
+- Dan_4:8quien mora el espíritu de los dioses sH6922
+- Dan_4:9que hay en ti espíritu de los dioses sH6922
+- Dan_4:13aquí un vigilante y s descendía del cieloH6922
+- Dan_4:17por dicho de los s la resolución, paraH6922
+- Dan_4:18mora en ti el espíritu de los dioses sH6922
+- Dan_4:23un vigilante y s que descendía del cieloH6922
+- Dan_5:11el cual mora el espíritu de los dioses sH6922
+- Dan_5:14el espíritu de los dioses s está en ti
+- Dan_7:18recibirán el reino los s del AltísimoH6922
+- Dan_7:21hacía guerra contra los s, y los vencíaH6922
+- Dan_7:22y se dio el juicio a los S del AltísimoH6922
+- Dan_7:22el tiempo, y los s recibieron el reinoH6922
+- Dan_7:25s del Altísimo quebrantará, y pensará enH6922
+- Dan_7:27sea dado al pueblo de los s del AltísimoH6922
+- Dan_8:13s que hablaba, y otro de los s preguntóH6918
+- Dan_8:24destruirá...fuertes y al pueblo de los sH6918
+- Dan_9:16apártese...tu furor de sobre...tu s monteH6944
+- Dan_9:20derramaba mi ruego...por el monte s de miH6944
+- Dan_9:24están determinadas...y sobre tu s ciudadH6944
+- Dan_9:24sellar la visión...y ungir al S de los sH6944
+- Dan_11:28su corazón será contra el pacto s; haráH6944
+- Dan_11:30y se enojará contra el pacto s, y haráH6944
+- Dan_11:30y se...con los que abandonen el s pactoH6944
+- Dan_11:45entre los mares y el monte glorioso y sH6944
+- Dan_12:7la dispersión del poder del pueblo sH6944
+- Ose_11:9el S en medio de ti; y no entraré enH6918
+- Ose_11:12Judá aún gobierna...y es fiel con los sH6918
+- Joe_2:1y dad alarma en mi s monte; tiemblenH6944
+- Joe_3:17en Sion, mi s monte; y Jerusalén será sH6944
+- Amó_2:7pisotean en el...profanando mi s nombreH6944
+- Abd_1:16de la manera...bebisteis en mi s monteH6944
+- Abd_1:17será s, y la casa de Jacob recuperará susH6944
+- Jon_2:4desechado soy de...aún veré tu s temploH6944
+- Jon_2:7mi oración llegó hasta ti en tu s temploH6944
+- Miq_1:2el Señor desde su s templo, sea testigoH6944
+- Hab_1:12¿no eres tú desde el principio...S mío?[[H6918]]
+- Hab_2:20mas Jehová está en su s templo; calleH6944
+- Hab_3:3Dios vendrá...el S desde el monte de ParánH6918
+- Sof_3:11nunca...ensoberbecerás en mi s monteH6944
+- Zac_2:12Jehová poseerá a Judá...en la tierra sH6944
+- Zac_2:13porque él se ha levantado de su s moradaH6944
+- Zac_14:5vendrá...mi Dios, y con él todos los sH6418
+- Mat_1:20lo que en ella es...del Espíritu S esG40
+- Mat_1:18María...había concebido del Espíritu SG40
+- Mat_3:11él os bautizará en Espíritu S y fuegoG40
+- Mat_4:5diablo le llevó a la s ciudad, y le pusoG40
+- Mat_7:6no deis lo s a los perros, ni...los cerdosG40
+- Mat_12:32al que hable contra el Espíritu S, noG40
+- Mat_24:15veáis en el lugar s la abominaciónG40
+- Mat_25:31todos los s ángeles con él, entonces seG40
+- Mat_27:52de s que habían dormido, se levantaronG40
+- Mat_27:53vinieron a la s ciudad, y aparecieronG40
+- Mat_28:19del Padre, y del Hijo, y del Espíritu SG40
+- Mar_1:8pero él os bautizará con Espíritu SG40
+- Mar_1:24para destruirnos? Sé quien eres, el S deG40
+- Mar_3:29blasfeme contra el Espíritu S, no tieneG40
+- Mar_6:20Juan, sabiendo que era varón justo y sG40
+- Mar_8:38venga en la gloria...con los s ángelesG40
+- Mar_12:36el mismo David dijo por el Espíritu SG40
+- Mar_13:11no sois vosotros...sino el Espíritu SG40
+- Luc_1:15será lleno del Espíritu S, aun desdeG40
+- Luc_1:35dijo: El Espíritu S vendrá sobre ti, yG40
+- Luc_1:35el S Ser que nacerá, será llamado HijoG40
+- Luc_1:41y Elisabet fue llena del Espíritu SG40
+- Luc_1:49ha hecho grandes cosas...s es su nombreG40
+- Luc_1:67Zacarías su padre...lleno del Espíritu SG40
+- Luc_1:70como habló por boca de sus s profetasG40
+- Luc_1:72misericordia...y acordarse de su s pactoG40
+- Luc_2:23que abriere la matriz será llamado s alG40
+- Luc_2:25Simeón...y el Espíritu S estaba sobre élG40
+- Luc_2:26había sido revelado por el Espíritu SG40
+- Luc_3:16él os bautizará en Espíritu S y fuegoG40
+- Luc_3:22y descendió el Espíritu S sobre él enG40
+- Luc_4:1Jesús, lleno del Espíritu S, volvió delG40
+- Luc_4:34yo te conozco quién eres, el S de DiosG40
+- Luc_9:26y en la del Padre, y de los s ángelesG40
+- Luc_11:13¿cuánto más...dará el Espíritu S a losG40
+- Luc_12:10blasfemare contra el Espíritu S, no leG40
+- Luc_12:12porque el Espíritu S os enseñará en laG40
+- Jua_1:33es el que bautiza con el Espíritu SG40
+- Jua_7:39pues aún no había venido el Espíritu SG40
+- Jua_11:48y destruirán nuestro lugar s y nuestra
+- Jua_14:26el Espíritu S, a quien el Padre enviaráG40
+- Jua_17:11Padre s...que me has dado, guárdalos enG40
+- Jua_20:22sopló, y les dijo: Recibid el Espíritu SG40
+- Hec_1:2dado mandamiento por el Espíritu S aG40
+- Hec_1:5bautizados con el Espíritu S dentro de noG40
+- Hec_1:8haya venido sobre vosotros el Espíritu SG40
+- Hec_1:16que el Espíritu S habló antes por bocaG40
+- Hec_2:4y fueron todos llenos del Espíritu S, yG40
+- Hec_2:27ni permitirás que tu S vea corrupciónG3741
+- Hec_2:33recibido...la promesa del Espíritu S, haG40
+- Hec_2:38dijo...recibiréis el don del Espíritu SG40
+- Hec_3:14mas vosotros negasteis al S y al JustoG40
+- Hec_3:21que habló Dios por boca de sus s profetasG40
+- Hec_4:8entonces Pedro, lleno del Espíritu S, lesG40
+- Hec_4:27se unieron en...contra tu s Hijo JesúsG40
+- Hec_4:30mediante el nombre de tu s Hijo JesúsG40
+- Hec_4:31fueron llenos del Espíritu S, y hablabanG40
+- Hec_5:3mintieses al Espíritu S, y sustrajeses delG40
+- Hec_5:32también el Espíritu S, el cual ha dadoG40
+- Hec_6:3a siete varones de...llenos del Espíritu SG40
+- Hec_6:5a Esteban, varón lleno...del Espíritu SG40
+- Hec_6:13de hablar...contra este lugar s y contraG40
+- Hec_7:33porque el lugar en que estás es tierra sG40
+- Hec_7:51vosotros resistís siempre al Espíritu SG40
+- Hec_7:55Esteban, lleno del Espíritu S, puestosG40
+- Hec_8:15oraron...para que recibiesen el Espíritu SG40
+- Hec_8:17les imponían...y recibían el Espíritu SG40
+- Hec_8:18daba el Espíritu S, les ofreció dineroG40
+- Hec_8:19impusiere las manos reciba el Espíritu SG40
+- Hec_9:13males ha hecho a tus s en JerusalénG40
+- Hec_9:17la vista y seas lleno del Espíritu SG40
+- Hec_9:31iglesias...fortalecidas por el Espíritu SG40
+- Hec_9:32también a los s que habitaban en LidaG40
+- Hec_9:41él, llamando a los s...la presentó vivaG40
+- Hec_10:22ha recibido instrucciones de un s ángelG40
+- Hec_10:38cómo Dios ungió con el Espíritu S y conG40
+- Hec_10:44el Espíritu S cayó sobre todos los queG40
+- Hec_10:45los gentiles se derramase el...Espíritu SG40
+- Hec_10:47han recibido el Espíritu S también comoG40
+- Hec_11:15cayó el Espíritu S sobre ellos tambiénG40
+- Hec_11:16seréis bautizados con el Espíritu SG40
+- Hec_11:24era varón bueno, y lleno del Espíritu SG40
+- Hec_13:2el Espíritu S: Apartadme a Bernabé y aG40
+- Hec_13:4enviados por el Espíritu S, descendieronG40
+- Hec_13:9Pablo, lleno del Espíritu S, fijando enG40
+- Hec_13:35no permitirás que tu S vea corrupciónG40
+- Hec_13:52estaban llenos de gozo y del Espíritu SG40
+- Hec_15:8dándoles el Espíritu S lo mismo que aG40
+- Hec_15:28porque ha parecido bien al Espíritu SG40
+- Hec_16:6fue prohibido por el Espíritu S hablar laG40
+- Hec_19:2dijo: ¿Recibisteis el Espíritu S cuandoG40
+- Hec_19:2ni siquiera hemos oído si hay Espíritu SG40
+- Hec_19:6sobre ellos el Espíritu S; y hablaban enG40
+- Hec_20:23salvo que el Espíritu S...da testimonioG40
+- Hec_20:28el rebaño en que el Espíritu S os haG40
+- Hec_21:11esto dice el Espíritu S: Así atarán losG40
+- Hec_21:28a griegos...y ha profanado este s lugarG40
+- Hec_26:10encerré en cárceles a muchos de los sG40
+- Hec_28:25bien habló el Espíritu S por medio delG40
+- Rom_1:2él había prometido...en las s EscriturasG40
+- Rom_1:7los que estáis en Roma...llamados a ser sG40
+- Rom_5:5ha sido derramado en...por el Espíritu SG40
+- Rom_7:12la ley...es s, y el mandamiento s, justoG40
+- Rom_8:27la voluntad de Dios intercede por los sG40
+- Rom_9:1digo...me da testimonio en el Espíritu SG40
+- Rom_11:16si las primicias son s...si la raíz es sG40
+- Rom_12:1en sacrificio vivo, s, agradable a DiosG40
+- Rom_12:13compartiendo...las necesidades de los sG40
+- Rom_14:17justicia, paz y gozo en el Espíritu SG40
+- Rom_15:13llene de...por el poder del Espíritu SG40
+- Rom_15:16ofrenda...santificada por el Espíritu SG40
+- Rom_15:25voy a Jerusalén para ministrar a los sG40
+- Rom_15:26para los pobres que hay entre los s queG40
+- Rom_15:31que la ofrenda...a los s en JerusalénG40
+- Rom_16:2la recibáis en...como es digno de los sG40
+- Rom_16:15saludad...a Olimpas y a todos los s queG40
+- Rom_16:16saludaos los unos a los...con ósculo sG40
+- 1Co_1:2llamados a ser s con todos los queG40
+- 1Co_3:17el templo...el cual sois vosotros, s esG40
+- 1Co_6:1de los injustos, y no delante de los s?[[G40]]
+- 1Co_6:2¿o no sabéis que los s han de juzgar alG40
+- 1Co_6:19vuestro cuerpo es templo del Espíritu SG40
+- 1Co_7:14hijos serían inmundos...que ahora son sG40
+- 1Co_7:34ser s así en cuerpo como en espírituG40
+- 1Co_12:3a Jesús Señor, sino por el Espíritu SG40
+- 1Co_14:33como en todas las iglesias de los sG40
+- 1Co_16:1cuanto a la ofrenda para los s, hacedG40
+- 1Co_16:15se han dedicado al servicio de los sG40
+- 1Co_16:20saludaos los unos a los...con ósculo sG40
+- 2Co_1:1todos los s que están en toda AcayaG40
+- 2Co_6:6longanimidad, en bondad, en el Espíritu SG40
+- 2Co_8:4participar en este servicio para los sG40
+- 2Co_9:1cuanto a la ministración para los s, esG40
+- 2Co_9:12no solamente suple lo que a los s faltaG40
+- 2Co_13:12saludaos unos a otros con ósculo sG40
+- 2Co_13:13todos los s os saludanG40
+- 2Co_13:14y la comunión del Espíritu S sean conG40
+- Efe_1:1s y fieles en Cristo Jesús que están enG40
+- Efe_1:4que fuésemos s y sin mancha delante de élG40
+- Efe_1:13fuisteis sellados con el Espíritu S deG40
+- Efe_1:15y de vuestro amor para con todos los sG40
+- Efe_1:18las riquezas de...de su herencia en los sG40
+- Efe_2:19conciudadanos de los s, y miembros de laG40
+- Efe_2:21va creciendo para ser un templo s en elG40
+- Efe_3:5como ahora es revelado a sus s apóstolesG40
+- Efe_3:8menos que el más pequeño de todos los sG40
+- Efe_3:18capaces de comprender con todos los yG40
+- Efe_4:12a fin de perfeccionar a los s para laG40
+- Efe_4:30y no contristéis al Espíritu S de DiosG40
+- Efe_5:3ni aun se nombre entre...como conviene a sG40
+- Efe_5:27una iglesia...que fuese s y sin manchaG40
+- Efe_6:18con toda perseverancia...por todos los sG40
+- Flp_1:1Pablo...a todos los s en Cristo JesúsG40
+- Flp_4:21saludad a todos los s en Cristo JesúsG40
+- Flp_4:22todos los s os saludan, y especialmenteG40
+- Col_1:2los s y fieles hermanos en Cristo queG40
+- Col_1:4oído...del amor que tenéis a todos los sG40
+- Col_1:12para participar de la herencia de los sG40
+- Col_1:22para presentaros s y...e irreprensiblesG40
+- Col_1:26que ahora ha sido manifestado a sus sG40
+- Col_3:12como escogidos de Dios, s y amados, deG40
+- 1Ts_1:5en poder, en el Espíritu S y en plenaG40
+- 1Ts_1:6gran tribulación, con gozo del Espíritu SG40
+- 1Ts_2:10vosotros sois testigos...cuan s, justaG3743
+- 1Ts_3:13la venida de...Jesucristo con todos sus sG40
+- 1Ts_4:8Dios, que también nos dio su Espíritu SG40
+- 1Ts_5:26saludad a todos los hermanos...ósculo sG40
+- 1Ts_5:27esta carta se lea a todos los s hermanosG40
+- 2Ts_1:10para ser glorificado en sus s y serG40
+- 1Ti_2:8en todo lugar, levantando manos sG3741
+- 1Ti_5:10si ha lavado los pies de los s: si haG40
+- 2Ti_1:9nos salvó y llamó con llamamiento sG40
+- 2Ti_1:14guarda el...depósito por el Espíritu SG40
+- Tit_1:8sobrio, justo, s, dueño de sí mismoG3741
+- Tit_3:5y por la renovación en el Espíritu SG40
+- Flm_1:5oigo del amor y...para con todos los sG40
+- Flm_1:7han sido confortados los corazones de los sG40
+- Heb_2:4y repartimientos del Espíritu S segúnG40
+- Heb_3:1por tanto, hermanos s, participantes delG40
+- Heb_3:7como dice el Espíritu S: Si oyereis hoyG40
+- Heb_6:4fueron hechos partícipes del Espíritu SG40
+- Heb_6:10habiendo servido a los s y sirviéndolesG40
+- Heb_7:26s, inocente, sin mancha, apartado de losG3741
+- Heb_9:2en la primera parte, llamada el Lugar SG39
+- Heb_9:8dando el Espíritu S a entender con estoG40
+- Heb_10:15y nos atestigua lo mismo el Espíritu SG40
+- Heb_13:24saludad a vuestros pastores, y a...los sG40
+- 1Pe_1:12os han predicado...por el Espíritu SG40
+- 1Pe_1:15aquel que os llamó es s, sed también...sG40
+- 1Pe_1:16escrito está: Sed s, porque yo soy sG40
+- 1Pe_2:5sed edificados como casa...y sacerdocio sG40
+- 1Pe_2:9sois...nación s, pueblo adquirido por DiosG40
+- 1Pe_3:5se ataviaban en otro tiempo...s mujeresG40
+- 2Pe_1:18oímos esta voz...con él en el monte sG40
+- 2Pe_1:21los s hombres de Dios hablaron siendoG40
+- 2Pe_1:21hablaron...inspirados por el Espíritu SG40
+- 2Pe_2:21volverse atrás del s mandamiento que lesG40
+- 2Pe_3:2las palabras...dichas por los s profetasG40
+- 2Pe_3:11no...andar en s y piadosa manera de vivirG40
+- 1Jn_2:20tenéis la unción del S, y conocéisG40
+- 1Jn_5:7tres...el Padre, el Verbo y el Espíritu SG40
+- Jud_1:3la fe que ha sido una vez dada a los sG40
+- Jud_1:14vino el Señor con...s decenas de millaresG40
+- Jud_1:20santísima fe, orando en el Espíritu SG40
+- Rev_3:7esto dice el S, el Verdadero, el queG40
+- Rev_4:8noche de decir: S, s, s es el Señor DiosG40
+- Rev_5:8incienso, que son las oraciones de los sG40
+- Rev_6:10¿hasta cuándo, Señor, s y verdadero, noG40
+- Rev_8:3para añadirlo a las oraciones de...los sG40
+- Rev_8:4el humo del...con las oraciones de los sG40
+- Rev_11:2y ellos hollarán la ciudad s 42 mesesG40
+- Rev_11:18de dar el galardón a...los s, y a losG40
+- Rev_13:7le permitió hacer guerra contra los sG40
+- Rev_13:10aquí está la paciencia y la fe de los sG40
+- Rev_14:10atormentado...delante de los s ángelesG40
+- Rev_14:12aquí está la paciencia de los s, losG40
+- Rev_15:3verdaderos, tus caminos, Rey de los sG40
+- Rev_15:4sólo tú eres s, por lo cual todas lasG3741
+- Rev_16:5el S, porque has juzgado estas cosas
+- Rev_16:6derramaron la sangre de los s y de losG40
+- Rev_17:6a la mujer ebria de la sangre de los sG40
+- Rev_18:20alégrate sobre...cielo, y vosotros, sG40
+- Rev_18:24en ella se halló la sangre...de los sG40
+- Rev_19:8el lino fino es las acciones...de los sG40
+- Rev_20:6bienaventurado y s el que tiene parteG40
+- Rev_20:9rodearon el campamento de los s y la ciudad amadaG40
+- Rev_21:2y yo Juan vi la s ciudad, la...JerusalénG40
+- Rev_21:10mostró la gran ciudad s de JerusalénG40
+- Rev_22:11y el que es s, santifíquese todavíaG37
+- Rev_22:19de la s ciudad y de las cosas que estánG40

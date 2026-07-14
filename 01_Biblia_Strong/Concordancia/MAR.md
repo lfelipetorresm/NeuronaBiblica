@@ -1,0 +1,341 @@
+---
+tipo: concordancia
+palabra: MAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MAR
+
+- Véanse también Mar Adriático y otros mares según sus nombres
+- Gén_1:10y a la reunión de las aguas llamó MH3220
+- Gén_1:22diciendo...y llenad las aguas en los mH3220
+- Gén_1:26, Gén_1:28en los peces del m, en las aves deH3220
+- Gén_9:2la tierra, y en todos los peces del mH3220
+- Gén_32:12tu descendencia...corno la arena del mH3220
+- Gén_41:49recogió José trigo como arena del mH3220
+- Gén_49:13Zabulón en puertos de m habitará; seráH3220
+- Éxo_14:2entre Migdol y el m hacia Baal-zefónH3220
+- Éxo_14:2delante de él acamparéis junto al mH3220
+- Éxo_14:9los alcanzaron acampados junto al m, alH3220
+- Éxo_14:16tu vara, y extiende tu mano sobre el niH3220
+- Éxo_14:16entren...de Israel por en medio del mH3220
+- Éxo_14:21extendió Moisés su mano sobre el m, eH3220
+- Éxo_14:21el m se retirase...volvió el m en secoH3220
+- Éxo_14:22de Israel entraron por en medio del mH3220
+- Éxo_14:23egipcios...hasta la mitad del m, toda laH3220
+- Éxo_14:26extiende tu mano sobre el m, para queH3220
+- Éxo_14:27Moisés extendió su mano sobre el m, yH3220
+- Éxo_14:27el m se volvió en toda su fuerza, y losH3220
+- Éxo_14:27egipcios al huir se encontraban...el mH3220
+- Éxo_14:27derribó a los egipcios en medio del mH3220
+- Éxo_14:28que había entrado tras ellos en el mH3220
+- Éxo_14:29por en medio del m, en seco, teniendoH3220
+- Éxo_14:30los egipcios muertos a la orilla del mH3220
+- Éxo_15:1ha echado en el m al caballo y al jineteH3220
+- Éxo_15:4echó en el m los carros de Faraón y suH3220
+- Éxo_15:8los abismos se cuajaron en medio del mH3220
+- Éxo_15:10soplaste con tu viento; los cubrió el mH3220
+- Éxo_15:19entró...su gente de a caballo en el mH3220
+- Éxo_15:19hizo volver las aguas del m sobre ellosH3220
+- Éxo_15:19los...pasaron en seco por en medio del mH3220
+- Éxo_15:21echado en el m al caballo y al jineteH3220
+- Éxo_20:11en seis días hizo Jehová...tierra, el mH3220
+- Lev_11:9tienen aletas y...en sus aguas del mH3220
+- Lev_11:10no tienen aletas ni escamas en el mH3220
+- Núm_11:22se juntarán...todos los peces del mH3220
+- Núm_11:31un viento de...trajo codornices del mH3220
+- Núm_13:29y el cananeo habita junto al m...y a laH3220
+- Núm_33:8pasaron por en medio del m al desiertoH3220
+- Deu_1:7y junto a la costa del m, a la tierraH3220
+- Deu_30:13ni está al otro lado del m, para queH3220
+- Deu_30:13¿quién pasará por nosotros el m, paraH3220
+- Deu_33:19chuparán la abundancia de los m, y losH3220
+- Jos_5:1reyes de los...que estaban cerca del mH3220
+- Jos_11:4gente, como la arena...a la orilla del mH3220
+- Jos_15:4allí pasaba a Asmón...y terminaba en el mH3220
+- Jos_15:5la bahía del m en la desembocadura delH3220
+- Jos_15:11pasa...sale a Jabneel y termina en el mH3220
+- Jos_15:46desde Ecrón hasta el m, todas las queH3220
+- Jos_16:3Bet-horón...y hasta Gezer; y sale al mH3220
+- Jos_16:6continúa el límite hasta el m, y hastaH3220
+- Jos_16:8se vuelve hacia el m, al...y sale al mH3220
+- Jos_17:9el límite de Manasés...salidas son al mH3220
+- Jos_17:10Efraín al sur, y...y el m es su límiteH3220
+- Jos_19:29sale al m desde el territorio de AczibH3220
+- Jos_24:6llegaron al m, los egipcios siguieron aH3220
+- Jos_24:7e hizo venir sobre ellos el m, el cualH3220
+- Jue_3:17se mantuvo Aser a la ribera del mH3220
+- Jue_5:12como la arena...está a la ribera del mH3220
+- Jue_5:17se mantuvo Aser a la ribera del mH3220
+- Jue_7:12eran innumerables...del m en multitudH3220
+- 1Sa_13:5pueblo...como la arena...orillas del mH3220
+- 2Sa_17:11la arena que está a la orilla del mH3220
+- 1Re_4:20, 1Re_4:29como la arena que está junto al mH3220
+- 1Re_5:9la llevarán desde el Líbano al m, y laH3220
+- 1Re_5:9enviaré en balsas por m hasta el lugarH3220
+- 1Re_7:23fundir...un m de diez codos de un ladoH3220
+- 1Re_7:24rodeaban aquel m por debajo de su bordeH3220
+- 1Re_7:24unas bolas...ceñían el m...en dos filasH3220
+- 1Re_7:24habían sido fundidas cuando el m fue
+- 1Re_7:25sobre estos se apoyaba el m, y las ancasH3220
+- 1Re_7:26el grueso del m era de un palmo menor
+- 1Re_7:39colocó el m al lado derecho de la casaH3220
+- 1Re_7:44un m, con doce bueyes debajo del mH3220
+- 1Re_9:27y envié...marineros y diestros en el mH3220
+- 1Re_10:22rey tenía en el m una flota de navesH3220
+- 1Re_18:43sube ahora, y mira hacia el m. Y élH3220
+- 1Re_18:44veo una pequeña nube...que sube del mH3220
+- 2Re_16:17y quitó...el m de sobre los bueyesH3220
+- 2Re_25:13quebraron...el m de bronce que estabaH3220
+- 2Re_25:16m, y las basas que Salomón había hechoH3220
+- 1Cr_16:32resuene el m, y su plenitud...todoH3220
+- 1Cr_18:8con el que Salomón hizo el m de bronceH3220
+- 2Cr_2:16la traeremos...por el m hasta JopeH3220
+- 2Cr_4:2hizo un m de fundición, el cual tenía 10H3220
+- 2Cr_4:3debajo del m...figuras de calabazas queH3220
+- 2Cr_4:3calabazas fundidas juntamente con el m
+- 2Cr_4:4bueyes...el m descansaba sobre ellos, y lasH3220
+- 2Cr_4:6pero el m era para que los sacerdotes seH3220
+- 2Cr_4:10colocó el m al lado derecho, hacia elH3220
+- 2Cr_4:15un m, y los doce bueyes debajo de élH3220
+- 2Cr_8:17Salomón fue...a Elot, a la costa del mH3220
+- 2Cr_8:18marineros diestros en el m, los cualesH3220
+- 2Cr_20:2una gran multitud del otro lado del mH3220
+- Esd_3:7madera...desde el Líbano por m a JopeH3220
+- Neh_9:6hiciste...los m...lo que hay en ellosH3220
+- Neh_9:11dividiste el m delante de...y pasaronH3220
+- Est_10:1Impuso tributo sobre...costas del mH3220
+- Job_6:3pesarían ahora más que la arena del mH3220
+- Job_7:12¿soy yo el m, o un monstruo marino, paraH3220
+- Job_9:8extendió los...y anda sobre las olas del mH3220
+- Job_11:9su dimensión es...y más ancha que el mH3220
+- Job_12:8los peces del m te lo declararán tambiénH3220
+- Job_14:11como las aguas se van del m, y el ríoH3220
+- Job_26:5profundo, los m y cuanto en ellos moraH4325
+- Job_26:12él agita el m con su poder, y con suH3220
+- Job_28:14abismo dice...y el m dijo: Ni conmigoH3220
+- Job_36:30y cobija con ella...profundidades del mH3220
+- Job_38:8¿quién encerró con puertas el m, cuandoH3220
+- Job_38:16has entrado tú hasta las fuentes del mH3220
+- Job_41:31hervir como una olla el m profundo, yH3220
+- Sal_8:8aves de los cielos y los peces del mH3220
+- Sal_8:8todo cuanto pasa por los senderos del mH3220
+- Sal_24:2él la fundó sobre los m, y la afirmóH3220
+- Sal_33:7él junta como montón las aguas del mH3220
+- Sal_46:2traspasen los montes al corazón del mH3220
+- Sal_65:5y de los más remotos confines del mH3220
+- Sal_65:7el que sosiega el estruendo de los mH3220
+- Sal_66:6volvió el m en seco...el río pasaron a pieH3220
+- Sal_68:22haré volver de las profundidades del mH3220
+- Sal_69:34alábenlo...los m, y todo lo que se mueveH3220
+- Sal_72:8dominará de m a m, y desde el río hastaH3220
+- Sal_74:13dividiste el m...quebrantaste cabezasH3220
+- Sal_77:19en el m fue tu camino, y tus sendas enH3220
+- Sal_78:13dividió el m y los hizo pasar; detuvoH3220
+- Sal_78:27como polvo, como arena del m aves queH3220
+- Sal_78:53los guió...y el m cubrió a sus enemigosH3220
+- Sal_80:11sus vástagos hasta el m, y hasta el ríoH3220
+- Sal_89:9tienes dominio sobre la braveza del mH3220
+- Sal_89:25pondré su mano sobre el m, y sobre losH3220
+- Sal_93:4más poderoso...que las recias ondas del mH3220
+- Sal_95:5suyo también el m, pues él lo hizoH3220
+- Sal_96:11; Sal_98:7brame el m y su plenitudH3220
+- Sal_104:25allí el grande y anchuroso m, en dondeH3220
+- Sal_107:23que descienden al m en naves, y hacenH3220
+- Sal_114:3m lo vio, y huyó; el Jordán se volvióH3220
+- Sal_114:5¿qué tuviste, oh m, que huiste? ¿y túH3220
+- Sal_135:6hace...en los m y en todos los abismosH3220
+- Sal_139:9del alba y habitare en el extremo del mH3220
+- Sal_146:6hizo...el m, y todo lo que en ellos hayH3220
+- Pro_8:29cuando ponía al m su estatuto, paraH3220
+- Pro_23:34serás como el que yace en medio del mH3220
+- Pro_30:19el rastro de la nave en medio del mH3220
+- Ecl_1:7los ríos todos van al m, y el m no seH3220
+- Isa_5:30bramará sobre él...como bramido del mH3220
+- Isa_9:1al fin llenará de gloria el camino del mH3220
+- Isa_10:22tu pueblo...fuere como las arenas del niH3220
+- Isa_10:26y alzará su vara sobre el m como hizoH3220
+- Isa_11:9será llena...como las aguas cubren el mH3220
+- Isa_11:11su pueblo que aún queda...costas del niH3220
+- Isa_16:8extendieron sus plantas, pasaron el mH3220
+- Isa_17:12que harán ruido como estruendo del mH3220
+- Isa_18:2envía mensajeros por el m, y en navesH3220
+- Isa_19:5las aguas del m faltarán, y el río seH3220
+- Isa_21:1profecía sobre el desierto del m. ComoH3220
+- Isa_23:2Sidón, que pasando el m te abastecíanH3220
+- Isa_23:4porque el m, la fortaleza del m, hablóH3220
+- Isa_23:11su mano sobre el m, hizo temblar losH3220
+- Isa_24:14alzarán su voz...desde el m darán vocesH3220
+- Isa_24:15las orillas del m sea nombrado JehováH3220
+- Isa_27:1y matará al dragón que está en el mH3220
+- Isa_42:10los que descendéis al m, y cuanto hayH3220
+- Isa_43:16que abre camino en el m, y senda enH3220
+- Isa_48:18fuera...justicia como las ondas del mH3220
+- Isa_50:2que con mi reprensión hago secar el mH3220
+- Isa_51:10¿no eres tú el que secó el m, las aguasH3220
+- Isa_51:10profundidades del m para que pasaranH3220
+- Isa_51:15que agito el m y hago rugir sus ondasH3220
+- Isa_57:20los impíos son como el m en tempestadH3220
+- Isa_60:5se haya vuelto a ti la multitud del mH3220
+- Isa_63:11la hizo subir del m con el pastor deH3220
+- Jer_5:22que puse arena por término al mH3220
+- Jer_6:23estruendo brama como el m, y montaránH3220
+- Jer_15:8sus viudas m...más que la arena del mH3220
+- Jer_25:22reyes de las costas...de ese lado del mH3220
+- Jer_31:35que parte el m, y braman sus ondasH3220
+- Jer_33:22ni la arena del m se puede medir, asíH3220
+- Jer_46:18y como Carmelo junto al m, así vendráH3220
+- Jer_47:7te ha enviado...contra la costa del mH3220
+- Jer_48:32pasaron el m, llegaron hasta el m deH3220
+- Jer_50:42su voz rugirá como el m, y montaránH3220
+- Jer_51:36secaré su m, y haré que su corrienteH3220
+- Jer_51:42subió el m sobre Babilonia...cubiertaH3220
+- Jer_52:17el m de bronce que estaba en la casaH3220
+- Jer_52:20un m, y los doce bueyes de bronce queH3220
+- Lam_2:13grande como el m...tu quebrantamientoH3220
+- Eze_25:16destruiré el resto...la costa del mH3220
+- Eze_26:3naciones, como el m hace subir sus olasH3220
+- Eze_26:5tendedero de redes será en medio del mH3220
+- Eze_26:16los príncipes del m descenderán de susH3220
+- Eze_26:17pereciste tú, poblada por gente de mH3220
+- Eze_26:17ciudad...que era fuerte en el m, ella yH3220
+- Eze_26:18islas que están en el m se espantaránH3220
+- Eze_27:3que está asentada a las orillas del mH3220
+- Eze_27:4el corazón de los m están tus confinesH3220
+- Eze_27:9naves del m...fueron a ti para negociarH3220
+- Eze_27:25te multiplicaste en...en medio de los mH3220
+- Eze_27:26viento...te quebrantó en medio de los mH3220
+- Eze_27:27caerán en medio de los m el día de tuH3220
+- Eze_27:29pilotos del m se quedarán en tierraH3220
+- Eze_27:32como Tiro...destruida en medio del m?[[H3220]]
+- Eze_27:34quebrantada por los m en lo profundoH3220
+- Eze_28:2soy un dios...sentado en medio de los mH3220
+- Eze_28:8de los que mueren en medio de los mH3220
+- Eze_32:2como el dragón en los m; pues secabasH3220
+- Eze_38:20los peces del m, las aves del cieloH3220
+- Eze_39:11de los que pasan al oriente del mH3220
+- Eze_47:8descenderán al Arabá, y entrarán en el mH3220
+- Eze_47:8entradas en el m, recibirán sanidad lasH3220
+- Eze_47:17el límite del norte desde el m hastaH3220
+- Eze_48:2-3, Eze_48:4-5, Eze_48:6-7, Eze_48:8(2),23,24,25,26,27lado del oriente hasta el lado del mH3220
+- Dan_7:2cuatro vientos...combatían en el gran mH3221
+- Dan_7:3y cuatro bestias grandes...subían del mH3221
+- Dan_11:45y plantará las tiendas...entre los m yH3220
+- Ose_1:10será el número...como la arena del mH3220
+- Ose_4:3morador...y aun los peces del m moriránH3220
+- Amó_5:8el que llama a las aguas del m, y lasH3220
+- Amó_8:12irán errantes de m a m; desde el norteH3220
+- Amó_9:3se escondieron de...en lo profundo del mH3220
+- Amó_9:6llama las aguas del m, y sobre la faz deH3220
+- Jon_1:4Jehová hizo levantar...viento en el mH3220
+- Jon_1:4y hubo en el m una tempestad tan grandeH3220
+- Jon_1:5echaron al m los enseres que había en laH3220
+- Jon_1:9y temo a Jehová...hizo el m y la tierraH3220
+- Jon_1:11¿qué haremos...que el m se nos aquiete?[[H3220]]
+- Jon_1:11, Jon_1:13el m se iba embraveciendo más y másH3220
+- Jon_1:12y echadme al m, y el m se os aquietaráH3220
+- Jon_1:15lo echaron al m, y el m se aquietó deH3220
+- Jon_2:3echaste a lo profundo, en medio de los mH3220
+- Miq_7:12vendrán...m a m, y de monte a monteH3220
+- Miq_7:19echará en...del m todos nuestros pecadosH3220
+- Nah_1:4él amenaza al m, y lo hace secar, yH3220
+- Nah_3:8cuyo baluarte era el m, y aguas por muro?[[H3220]]
+- Hab_1:14sean los hombres como...peces del mH3220
+- Hab_2:14será llena...como las aguas cubren el mH3220
+- Hab_3:8¿fue tu ira contra el m cuando montasteH3220
+- Hab_3:15caminaste en el m con tus caballosH3220
+- Sof_1:3destruiré las aves...los peces del mH3220
+- Sof_2:5¡ay de los que moran en la costa del mH3220
+- Sof_2:6la costa del m praderas para pastoresH3220
+- Hag_2:6yo haré temblar...el m y la tierra secaH3220
+- Zac_9:4y herirá en el m su poderío, y ellaH3220
+- Zac_9:10su señorío será de m a m, y desde el ríoH3220
+- Zac_10:11pasará por el m, y herirá en el m lasH3220
+- Mat_4:15camino del m, al otro lado del JordánG2281
+- Mat_4:18vio a dos...que echaban la red en el mG2281
+- Mat_8:24se levantó en el m una tempestad tanG2281
+- Mat_8:26reprendió a los vientos y al m; y seG2281
+- Mat_8:27¿qué hombre es éste...el m le obedecen?[[G2281]]
+- Mat_8:32el hato de cerdos se precipitó en el mG2281
+- Mat_13:1salió Jesús de...y se sentó junto al mG2281
+- Mat_13:47a una red, que echada en el m, recogeG2281
+- Mat_14:24barca estaba en medio del m, azotadaG2281
+- Mat_14:25Jesús vino a ellos andando sobre el mG2281
+- Mat_14:26viéndole andar sobre el m, se turbaronG2281
+- Mat_17:27al m, y echa el anzuelo, y el primerG2281
+- Mat_18:6que se le hundiese en lo profundo del mG2281
+- Mat_21:21quítate y échate en el m, será hechoG2281
+- Mat_23:15recorréis m y...para hacer un prosélitoG2281
+- Mar_1:16junto al m...que echaban la red en el mG2281
+- Mar_2:13volvió a salir al m; y toda la genteG2281
+- Mar_3:7Jesús se retiró al m con sus discípulosG2281
+- Mar_4:1comenzó Jesús a enseñar junto al m, y seG2281
+- Mar_4:1se sentó en ella en el m; y toda la genteG2281
+- Mar_4:1toda la gente estaba en tierra junto al mG2281
+- Mar_4:39reprendió al viento, y dijo al m: CallaG2281
+- Mar_4:41¿quién es...el viento y el m le obedecen?[[G2281]]
+- Mar_5:1vinieron al otro lado del m, a la regiónG2281
+- Mar_5:13precipitó en el m...en el m se ahogaronG2281
+- Mar_5:21gran multitud; y 61 estaba junto al mG2281
+- Mar_6:47barca estaba en medio del m, y él soloG2281
+- Mar_6:48noche vino a ellos andando sobre el mG2281
+- Mar_6:49viéndole...andar sobre el m, pensaron queG2281
+- Mar_9:42se le atase...y se te arrojase en el mG2281
+- Mar_11:23quítate y échate en el m, y no dudareG2281
+- Luc_5:4boga m adentro, y echad vuestras redes
+- Luc_17:2se le arrojase al m, que hacer tropezarG2281
+- Luc_17:6desarráigate, y plántate en el m; y osG2281
+- Luc_21:25confundidas a causa del bramido del mG2281
+- Jua_6:16al...descendieron sus discípulos al mG2281
+- Jua_6:17iban cruzando el m hacia CapernaumG2281
+- Jua_6:18y se levantaba el m con un gran vientoG2281
+- Jua_6:19vieron a Jesús que andaba sobre el mG2281
+- Jua_6:22la gente que estaba al otro...del m vioG2281
+- Jua_6:25y hallándole al otro lado del m, leG2281
+- Jua_21:7Pedro...se ciñó la ropa...y se echó al mG2281
+- Hec_4:24tú eres el Dios que hiciste...el m yG2281
+- Hec_10:6curtidor, que tiene su casa junto al mG2281
+- Hec_10:32casa de Simón, un curtidor, junto al mG2281
+- Hec_14:15convirtáis al Dios vivo, que hizo...el mG2281
+- Hec_17:14enviaron a Pablo que fuese hacia el mG2281
+- Hec_27:5atravesado el m frente a Cilicia...a MiraG3989
+- Hec_27:30y echando el esquife al m, aparentabanG2281
+- Hec_27:38aligeraron la...echando el trigo al mG2281
+- Hec_27:40las dejaron en el m, largando tambiénG2281
+- Hec_27:41popa se abría con la violencia del mG2949
+- Hec_28:4escapado...m, la justicia no deja vivirG2281
+- Rom_9:27fuere el número...como la arena del mG2281
+- 1Co_10:1bajo la nube, y todos pasaron el mG2281
+- 1Co_10:2fueron bautizados en la nube y en el mG2281
+- 2Co_11:25he estado como náufrago en alta mG1037
+- 2Co_11:26peligros...el desierto, peligros en el mG2281
+- Heb_11:12la arena...que está a la orilla del mG2281
+- Stg_1:6que duda es semejante a la onda del mG2281
+- Stg_3:7toda naturaleza...de seres del m, se domaG1724
+- Jud_1:13fieras ondas del m, que espuman suG2281
+- Rev_4:6había como un m de vidrio semejante alG2281
+- Rev_5:13y en el m, y a todas las cosas que enG2281
+- Rev_7:1para que no soplase viento...sobre el mG2281
+- Rev_7:2poder de hacer daño a la tierra y al mG2281
+- Rev_7:3no hagáis daño a la tierra, ni al m, niG2281
+- Rev_8:8una gran montaña...fue precipitada en el mG2281
+- Rev_8:8la tercera parte del m se convirtió enG2281
+- Rev_8:9murió la tercera parte de los...en el mG2281
+- Rev_10:2y puso su pie derecho sobre el m, y elG2281
+- Rev_10:5y el ángel que vi en pie sobre el m yG2281
+- Rev_10:6el m y las cosas que están en él, queG2281
+- Rev_10:8del ángel que está en pie sobre el mG2281
+- Rev_12:12¡ay de los moradores...tierra y del m![[G2281]]
+- Rev_13:1sobre la arena del m, y vi subir del mG2281
+- Rev_14:7adorad a aquel que hizo el cielo...el mG2281
+- Rev_15:2como un m de vidrio mezclado con fuegoG2281
+- Rev_15:2pie sobre el m de vidrio, con las arpasG2281
+- Rev_16:3el segundo...derramó su copa sobre el mG2281
+- Rev_16:3murió todo ser vivo que había en el mG2281
+- Rev_18:17que trabajan en el m, se pararon lejosG2281
+- Rev_18:19los que tenían naves en el m se habíanG2281
+- Rev_18:21y la arrojó en el m, diciendo: Con elG2281
+- Rev_20:8el número de los...es como la arena del mG2281
+- Rev_20:13el m entregó los muertos que había enG2281
+- Rev_21:1tierra pasaron, y el m ya no existía másG2281

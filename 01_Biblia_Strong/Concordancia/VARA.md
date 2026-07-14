@@ -1,0 +1,128 @@
+---
+tipo: concordancia
+palabra: VARA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VARA
+
+- Gén_30:37tomó luego Jacob v verdes de álamoH4731
+- Gén_30:37descubriendo así lo blanco de las vH4731
+- Gén_30:38puso las v que había mondado delanteH4731
+- Gén_30:39concebían las ovejas delante de las vH4731
+- Gén_30:41ponía las v delante de las ovejas enH4731
+- Gén_30:41que concibiesen a la vista de las vH4731
+- Éxo_4:2¿qué...tu mano? Y él respondió: Una vH4294
+- Éxo_4:4él extendió...y la tomó, y se volvió vH4294
+- Éxo_4:17tomarás en tu mano esta v, con la cualH4294
+- Éxo_4:20tomó también Moisés la v de Dios en suH4294
+- Éxo_7:9toma tu v, y échala delante de FaraónH4294
+- Éxo_7:10echó Aarón su v delante de Faraón y deH4294
+- Éxo_7:12pues echó cada uno su v, las cuales seH4294
+- Éxo_7:12mas la v de Aarón devoró las v de ellosH4294
+- Éxo_7:15en tu mano la v que se volvió culebraH4294
+- Éxo_7:17golpearé con la v que tengo en mi manoH4294
+- Éxo_7:19a Aarón: Toma tu v, y extiende tu manoH4294
+- Éxo_7:20alzando la v golpeó las aguas...en el ríoH4294
+- Éxo_8:5extiende tu mano con tu v sobre los ríosH4294
+- Éxo_8:16extiende tu v y golpea el polvo de laH4294
+- Éxo_8:17extendió su mano con su v, y golpeó elH4294
+- Éxo_9:23y Moisés extendió su v hacia el cieloH4294
+- Éxo_10:13extendió Moisés su v sobre...de EgiptoH4294
+- Éxo_14:16alza tu v, y extiende tu mano sobre elH4294
+- Éxo_17:5toma también en tu mano tu v con queH4294
+- Éxo_17:9estaré sobre...y la v de Dios en mi manoH4294
+- Éxo_25:13harás unas v de madera de acacia, lasH905
+- Éxo_25:14y meterás las v por los anillos a losH905
+- Éxo_25:15las v quedarán en los anillos del arcaH905
+- Éxo_25:27lugares de las v para llevar la mesaH905
+- Éxo_25:28harás las v de madera de acacia, y lasH905
+- Éxo_27:6v para el altar, v de madera de acaciaH905
+- Éxo_27:7las v se meterán...aquellas v...del altarH905
+- Éxo_30:4para meter las v con que será llevadoH905
+- Éxo_30:5harás las v de madera de acacia, y lasH905
+- Éxo_35:12el arca y sus v, el propiciatorio, elH905
+- Éxo_35:13mesa y sus v, y todos sus utensiliosH905
+- Éxo_35:15altar del incienso y sus v, el aceiteH905
+- Éxo_35:16su enrejado de bronce y sus v, y todosH905
+- Éxo_37:4hizo también v de madera de acacia, yH905
+- Éxo_37:5metió las v por los anillos a los ladosH905
+- Éxo_37:14se metían las v para llevar la mesaH905
+- Éxo_37:15e hizo las v de madera de acacia paraH905
+- Éxo_37:27las v con que había de ser conducidoH905
+- Éxo_37:28hizo las v de madera de acacia...de oroH905
+- Éxo_38:5fundió cuatro anillos...para meter las vH905
+- Éxo_38:6hizo las v de madera de acacia, y lasH905
+- Éxo_38:7metió las v por los anillos a los ladosH905
+- Éxo_39:35el arca del...y sus v, el propiciatorioH905
+- Éxo_39:39el altar...sus v y todos sus utensiliosH905
+- Éxo_40:20colocó las varas en el arca, y encimaH905
+- Lev_27:32de...lo que pasa bajo la v, el diezmoH905
+- Núm_4:6sobre ella la cubierta...pondrán sus vH905
+- Núm_4:8, Núm_4:11cubrirán con...pieles...pondrán sus vH905
+- Núm_4:14los utensilios...le pondrán además las vH905
+- Núm_17:2y toma de ellos una v por cada casa deH4294
+- Núm_17:2doce v...nombre de cada uno sobre su vH4294
+- Núm_17:3y escribirás...Aarón sobre la v de LevíH4294
+- Núm_17:3cada jefe de familia de...tendrá una vH4294
+- Núm_17:5florecerá la v del varón que yo escojaH4294
+- Núm_17:6y todos los príncipes de...le dieron vH4294
+- Núm_17:6cada príncipe...una v, en total doce vH4294
+- Núm_17:6y la v de Aarón estaba entre las v deH4294
+- Núm_17:7y Moisés puso las v delante de JehováH4294
+- Núm_17:8la v de Aarón de la...había reverdecidoH4294
+- Núm_17:9sacó...las v de...y tomaron cada uno su vH4294
+- Núm_17:10la v de Aarón delante del testimonioH4294
+- Núm_20:8toma la v, y reúne la congregación, túH4294
+- Núm_20:9Moisés tomó la v de delante de JehováH4294
+- Núm_20:11alzó Moisés...golpeó la peña con su vH4294
+- Jue_5:14de Zabulón los que tenían v de mandoH7626
+- 1Sa_14:27alargó la punta de una v que traíaH4294
+- 1Sa_14:43un poco de miel con la punta de la vH4294
+- 2Sa_7:14yo le castigaré con v de hombres, yH7626
+- 1Re_8:7así cubrían...arca y sus v por encimaH905
+- 1Re_8:8sacaron...v, de manera que sus extremosH905
+- Job_9:34quite de sobre mí su v, y su terrorH7626
+- Sal_2:9quebrantarás con v de hierro; comoH7626
+- Sal_23:4tu v y tu cayado me infundirán alientoH7626
+- Sal_89:32entonces castigaré con v su rebeliónH7626
+- Sal_110:2Jehová enviará desde Sion la v de tuH4294
+- Sal_125:3no reposará la v de la impiedad sobreH7626
+- Pro_10:13la v es para las espaldas del faltoH7626
+- Pro_14:3en la boca del necio está la v de laH2415
+- Pro_22:8y la v de su insolencia se quebraráH7626
+- Pro_22:15la v de la corrección la...alejará de élH7626
+- Pro_23:13porque si lo castigas con v, no moriráH7626
+- Pro_23:14lo castigarás con v, y librarás su almaH7626
+- Pro_26:3asno, y la v para la espalda del necioH7626
+- Pro_29:15la v y la corrección dan sabiduría; masH7626
+- Isa_9:4tú quebraste...la v de su hombro, y elH7626
+- Isa_10:5Asiria, v y báculo de mi furor, en suH7626
+- Isa_10:15como si levantase la v al que no es leñoH7626
+- Isa_10:24con v te herirá, y contra ti alzará suH7626
+- Isa_10:26alzará su v sobre el mar como hizo porH4294
+- Isa_11:1una v del tronco de Isaí, y un vástagoH2415
+- Isa_11:4y herirá la tierra con la v de su bocaH7626
+- Isa_14:29por haberse quebrado la v del que teH7626
+- Isa_28:27con un palo se...y el comino con una vH7626
+- Isa_30:31Asiria que hirió con v, con la voz deH7626
+- Isa_30:32y cada golpe de la v justiciera queH4294
+- Jer_1:11¿qué...Y dije: Veo una v de almendroH4731
+- Jer_10:16e Israel es la v de su heredad; JehováH7626
+- Jer_48:17cómo se quebró la v fuerte, el báculoH4731
+- Eze_7:10ha florecido la v, ha reverdecido laH4294
+- Eze_7:11violencia se ha levantado en v deH4294
+- Eze_19:11tuvo v fuertes para cetros de reyesH4294
+- Eze_19:14ha salido fuego de la v de sus ramasH4294
+- Eze_19:14y no ha quedado en ella v fuerte paraH4294
+- Eze_20:37haré pasar bajo la v, y os haré entrarH7626
+- Miq_5:1con v herirán en la mejilla al juez deH7626
+- Hec_16:22las ropas, ordenaron azotarles con v
+- 1Co_4:21¿iré a vosotros con v, o con amorG4464
+- 2Co_11:25tres veces he sido azotado con vG4463
+- Heb_9:4el maná, la v de Aarón que reverdecióG4464
+- Rev_2:27las regirá con v de hierro, y seránG4464
+- Rev_11:1una caña semejante a una v de medir, yG4464
+- Rev_12:5hijo varón, que regirá con v de hierroG4464
+- Rev_19:15y él las regirá con v de hierro; y élG4464

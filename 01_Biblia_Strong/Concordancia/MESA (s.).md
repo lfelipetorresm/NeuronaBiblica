@@ -1,0 +1,118 @@
+---
+tipo: concordancia
+palabra: MESA (s.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MESA (s.)
+
+- Éxo_25:23asimismo una m de madera de acaciaH7979
+- Éxo_25:27lugares de las varas para llevar la mH7979
+- Éxo_25:28varas de...con ellas será llevada la mH7979
+- Éxo_25:30sobre la m el pan de la proposiciónH7979
+- Éxo_26:35la m...y el candelero enfrente de la mH7979
+- Éxo_26:35sur...y pondrás la m al lado del norteH7979
+- Éxo_30:27la m con todos sus utensilios...altarH7979
+- Éxo_31:8m y sus utensilios, el candelero limpioH7979
+- Éxo_35:13m y sus varas, y todos sus utensiliosH7979
+- Éxo_37:10hizo también la m de madera de acaciaH7979
+- Éxo_37:14se metían las varas para llevar la mH7979
+- Éxo_37:15e hizo las varas de...para llevar la mH7979
+- Éxo_37:16utensilios que habían de...sobre la mH7979
+- Éxo_39:36la m...vasos, el pan de la proposiciónH7979
+- Éxo_40:4meterás la m y la pondrás en ordenH7979
+- Éxo_40:22puso la m en el tabernáculo de reuniónH7979
+- Éxo_40:24puso el candelero en...enfrente de la mH7979
+- Lev_24:6sobre la m limpia delante de JehováH7979
+- Núm_3:31a cargo de ellos estarán el arca, la mH7979
+- Núm_4:7sobre la m de...extenderán un paño azulH7979
+- Jue_1:7recogían las migajas debajo de mi mH7979
+- 1Sa_16:11no nos sentaremos a la m hasta que
+- 1Sa_20:29por esto...no ha venido a la m del reyH7979
+- 1Sa_20:34se levantó Jonatán de la m con...iraH7979
+- 2Sa_9:7dijo David...comerás siempre a mi mH7979
+- 2Sa_9:10pero Mefi-boset...comerá siempre a mi mH7979
+- 2Sa_9:11Mefi-boset, dijo el rey, comerá a mi mH7979
+- 2Sa_9:13comía siempre a la m del rey; y estabaH7979
+- 2Sa_11:8le fue enviado presente de la m real
+- 2Sa_19:28tu siervo entre los convidados a tu mH7979
+- 1Re_2:7hijos...sean de los convidados a tu mH7979
+- 1Re_4:27los que a la m del rey Salomón veníanH7979
+- 1Re_7:48un altar de oro, y una m también de oroH7979
+- 1Re_10:5la comida de su m, las habitaciones deH7979
+- 1Re_13:20estando ellos en la m, vino palabra deH7979
+- 1Re_18:19los 450...que comen de la m de JezabelH7979
+- 2Re_4:10pongamos allí...m, silla y candeleroH7979
+- 1Cr_28:16dio oro...para las m, para cada mH7979
+- 2Cr_4:8hizo diez m y las puso en el temploH7979
+- 2Cr_4:19m sobre las cuales se ponían los panesH7979
+- 2Cr_9:4las viandas de su m, las habitaciones deH7979
+- 2Cr_13:11y ponen los panes sobre la m limpiaH7979
+- 2Cr_29:18hemos limpiado...la m de la proposiciónH7979
+- Neh_5:17además, 150 judíos...estaban a mi mH7979
+- Job_36:16lugar...te preparará m llena de grosuraH7979
+- Sal_23:5m delante de mí en presencia de misH7979
+- Sal_78:19Dios...¿podrá poner m en el desierto?[[H7979]]
+- Sal_128:3como plantas de...alrededor de tu mH7979
+- Pro_9:2víctimas, mezcló su vino, y puso su mH7979
+- Isa_21:5ponen la m, extienden tapices; comenH7979
+- Isa_28:8toda m está llena de vómito y suciedadH7979
+- Isa_65:11vosotros...que ponéis m para la FortunaH7979
+- Jer_52:33comía pan en la m del rey siempre
+- Eze_23:41preparada m delante de él, y sobreH7979
+- Eze_39:20os saciaréis sobre mi m, de caballosH7979
+- Eze_40:39y a la entrada...había dos m a un ladoH7979
+- Eze_40:40había dos m; y al otro lado que...dos mH7979
+- Eze_40:41cuatro m a un lado, y cuatro m al otroH7979
+- Eze_40:41ocho m, sobre las cuales degollarán lasH7979
+- Eze_40:42las cuatro m...eran de piedra labradaH7979
+- Eze_40:43sobre las m la carne de las víctimasH7979
+- Eze_41:22esta es la m que está delante de JehováH7979
+- Eze_44:16y se acercarán a mi m para servirmeH7979
+- Dan_11:27y en una misma m hablarán mentiraH7979
+- Mal_1:7en que pensáis que la m de Jehová esH7979
+- Mal_1:12que decís: Inmunda es la m de JehováH7979
+- Mat_9:10estando él sentado a la m en la casaG345
+- Mat_9:10se sentaron juntamente a la m con Jesús
+- Mat_14:9a causa...los que estaban con él a la m
+- Mat_15:27comen de las migajas que caen de la mG5132
+- Mat_21:12y volcó las m de los cambistas, y lasG5132
+- Mat_26:7derramó sobre...estando sentado a la m
+- Mat_26:20la noche, se sentó a la m con los doce
+- Mar_2:15que estando Jesús a la m en casa de él
+- Mar_2:15publicanos...estaban también a la m con
+- Mar_6:22agradó a Herodes y a los que...a la m
+- Mar_6:26a causa...los que estaban con él a la m
+- Mar_7:28los perrillos, debajo de la m, comen deG5132
+- Mar_11:15y volcó las m de los cambistas, y lasG5132
+- Mar_14:3estando...sentado a la m, vino una mujer
+- Mar_14:18cuando se sentaron a la m...dijo Jesús
+- Mar_16:14se apareció a los once...sentados a la m
+- Luc_5:29de otros que estaban a la m con ellos
+- Luc_7:36y habiendo entrado en...se sentó a la m
+- Luc_7:37saber que Jesús estaba a la m en casa
+- Luc_7:49los que estaban...a la m, comenzaron a
+- Luc_11:37entrando Jesús en la...se sentó a la m
+- Luc_12:37hará que se sienten a la m, y vendrá
+- Luc_13:29se sentarán a la m en el reino de Dios
+- Luc_14:7escogían los primeros asientos a la m
+- Luc_14:10de los que se sientan contigo a la m
+- Luc_14:15uno de los...sentados con él a la m, le
+- Luc_16:21las migajas que caían de la m del ricoG5132
+- Luc_17:7luego le dice: Pasa, siéntate a la m?
+- Luc_22:14se sentó a la m, y con él los apóstoles
+- Luc_22:21mano del que me entrega está...en la mG5132
+- Luc_22:27cuál es mayor, el que se sienta a la m
+- Luc_22:27¿no es el que se sienta a la m? Mas yo
+- Luc_22:30para que comáis y bebáis a mi m en miG5132
+- Luc_24:30estando sentado...a la m, tomó el pan
+- Jua_2:15esparció las monedas...y volcó las mG5132
+- Jua_12:2Lázaro era uno de los...sentados a la mG4873
+- Jua_13:12volvió a la m, y les dijo: ¿Sabéis lo
+- Jua_13:28pero ninguno de los que estaban a la mG345
+- Hec_6:2dejemos la palabra de...servir a las mG5132
+- Hec_16:34les puso la m; y se regocijó con todaG5132
+- 1Co_8:10te ve...sentado a la m en un lugar de
+- 1Co_10:21m del Señor, y de la m de los demoniosG5132
+- Heb_9:2la primera parte...m y los panes de laG5132

@@ -1,0 +1,163 @@
+---
+tipo: concordancia
+palabra: TIENDA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TIENDA
+
+- Gén_4:20Jabal...padre de los que habitan en tH168
+- Gén_9:21y estaba descubierto en medio de su tH168
+- Gén_9:27habite en las t de Sem, y sea Canaán suH168
+- Gén_12:8su t, teniendo a Bet-el al occidente yH168
+- Gén_13:3el lugar donde había estado antes su tH168
+- Gén_13:5también Lot...tenía ovejas, vacas y tH168
+- Gén_13:12Lot...y fue poniendo sus t hasta SodomaH167
+- Gén_13:18Abram...removiendo su t, vino y moró enH167
+- Gén_18:1estando él sentado a la puerta de su tH168
+- Gén_18:2salió corriendo de la puerta de su t, aH168
+- Gén_18:6Abraham fue de prisa a la t a Sara, y leH168
+- Gén_18:9¿dónde está...él respondió: Aquí en la tH168
+- Gén_18:10y Sara escuchaba a la puerta de la tH168
+- Gén_24:67la trajo Isaac a la t de su madre SaraH168
+- Gén_25:27Jacob era varón quieto...habitaba en tH168
+- Gén_26:25plantó allí su t; y abrieron allí losH168
+- Gén_31:25y éste había fijado su t en el monteH168
+- Gén_31:33entró Labán en la t de Jacob, en laH168
+- Gén_31:33en la t de Lea, y en la t de las siervasH168
+- Gén_31:33salió de la t de Lea, y entró en la tH168
+- Gén_31:34y buscó Labán en toda la t, y no hallóH168
+- Gén_33:19compró...parte del campo...plantó su tH168
+- Gén_35:21y plantó su t más allá de Migdal-edarH168
+- Éxo_16:16cada uno para los que están en su tH168
+- Éxo_18:7Moisés...a su suegro...y vinieron a la tH168
+- Éxo_26:12la parte que sobra...cortinas de la tH168
+- Éxo_26:13codo...a lo largo de las cortinas de la tH168
+- Éxo_26:14harás también a la t una cubierta deH168
+- Éxo_33:8cada...estaba en pie a la puerta de su tH168
+- Éxo_33:10levantaba cada uno a la puerta de su tH168
+- Éxo_35:11su t, su cubierta, sus corchetes, susH168
+- Éxo_35:12el arca...propiciatorio, el velo de la tH4539
+- Éxo_36:14cortinas de pelo de cabra para una tH168
+- Éxo_36:18corchetes de bronce para enlazar la tH168
+- Éxo_36:19hizo para la t una cubierta de pielesH168
+- Éxo_40:19levantó la t sobre el tabernáculo, yH168
+- Lev_14:8y morará fuera de su t siete díasH168
+- Núm_3:25cargo...la t y su cubierta, la cortinaH168
+- Núm_4:5desarmarán el velo de la t, y cubriránH4539
+- Núm_9:15nube cubrió el tabernáculo sobre la tH168
+- Núm_11:10lloraba...cada uno a la puerta de su tH168
+- Núm_16:24apartaos de...de la t de Coré, Datán yH4908
+- Núm_16:26apartaos...de las t de estos hombresH168
+- Núm_16:27apartaron de las t de Coré, de DatánH168
+- Núm_16:27se pusieron a las puertas de sus t, conH168
+- Núm_19:14la ley para cuando alguno muera en la tH168
+- Núm_19:14cualquiera que entre en la t, y todo elH168
+- Núm_19:18mojará en el agua...rociará sobre la tH168
+- Núm_24:5¡cuán hermosas son tus t, oh Jacob, tusH168
+- Núm_25:8fue tras...a la t, y los alanceó a ambosH6898
+- Deu_1:27murmurasteis en vuestras t, diciendoH168
+- Deu_5:30vé y diles: Volveos a vuestras tH168
+- Deu_11:6los tragó con...sus t, y todo su ganadoH168
+- Deu_33:18alégrate, Zabulón...tú, Isacar, en tus tH168
+- Jos_3:14partió el pueblo de sus t para pasarH168
+- Jos_7:21escondido bajo tierra en medio de mi tH168
+- Jos_7:22corriendo a la t, y...escondido en su tH168
+- Jos_7:23y tomándolo de en...la t, lo trajeron aH168
+- Jos_7:24tomaron a Acán...t y todo cuanto teníaH168
+- Jos_22:4regresad a vuestras t, a la tierra deH168
+- Jos_22:6y bendiciéndolos...y se fueron a sus tH168
+- Jos_22:7de Manasés...a éstos envió Josué a sus tH168
+- Jos_22:8volved a vuestras t con...riquezas, conH168
+- Jue_4:11y Heber ceneo...había plantado sus tH168
+- Jue_4:17Y Sísara huyó...a la t de Jael mujer deH168
+- Jue_4:18vino a ella a la t, y ella le cubrióH168
+- Jue_4:20él le dijo: Estate a la puerta de la tH168
+- Jue_4:21Jael mujer de...tomó una estaca de la tH168
+- Jue_5:24sobre las mujeres bendita sea en la tH168
+- Jue_6:5venían con sus t en grande multitud comoH168
+- Jue_7:8envió a todos...cada uno a su t, y retuvoH168
+- Jue_7:13y llegó a la t, y la golpeó...la t cayóH168
+- Jue_8:11por el camino de los que habitaban en tH168
+- Jue_20:8dijeron: Ninguno de nosotros irá a su tH168
+- 1Sa_4:10vencido, y huyeron cada cual a sus tH168
+- 1Sa_13:2envió al resto del pueblo...uno a sus tH168
+- 1Sa_17:54pero las armas de él las puso en su tH168
+- 2Sa_6:17el arca...pusieron...en medio de una tH168
+- 2Sa_7:6sino que he andado en t y en tabernáculoH4908
+- 2Sa_11:11el arca e Israel y Judá están bajo t, yH5521
+- 2Sa_16:22pusieron para Absalón una t sobre elH168
+- 2Sa_18:17y todo Israel huyó, cada uno a su tH168
+- 2Sa_19:8pero Israel había huido, cada uno a su tH168
+- 2Sa_20:1tocó...y dijo...¡Cada uno a su t, Israel![[H168]]
+- 2Sa_20:22se retiraron...cada uno a su t. Y JoabH168
+- 1Re_12:16¡Israel, a tus t!...se fue a sus tH168
+- 1Re_20:12estando bebiendo con los reyes en las tH5521
+- 1Re_20:16Ben-adad...embriagándose en las t, él yH5521
+- 2Re_7:7huyeron...abandonando sus t...caballosH168
+- 2Re_7:8entraron en una t y comieron y bebieronH168
+- 2Re_7:8vueltos, entraron en otra t, y de allíH168
+- 2Re_7:12han salido de las t y se han escondidoH4264
+- 2Re_8:21atacó...Edom...y el pueblo huyó a sus tH168
+- 2Re_13:5habitaron...Israel en sus t, como antesH168
+- 2Re_14:12Judá cayó...y huyeron, cada uno a su tH168
+- 2Re_23:7cuales tejían las mujeres t para AseraH1004
+- 1Cr_4:41y desbarataron sus t y cabañas queH168
+- 1Cr_5:10habitaron en sus t en toda la regiónH168
+- 1Cr_6:32servían delante de la t del tabernáculoH4908
+- 1Cr_15:1lugar para el arca...y le levantó una tH168
+- 1Cr_16:1el arca...y la pusieron en medio de la tH168
+- 1Cr_17:5estuve de t en t, y de tabernáculo enH168
+- 2Cr_1:4el arca...él le había levantado una tH168
+- 2Cr_10:16cada uno a sus t...todo Israel a sus tH168
+- Job_5:24sabrás que hay paz en tu t; visitarásH168
+- Job_12:6prosperan las t de los ladrones, y losH168
+- Job_15:34y fuego consumirá las t de sobornoH168
+- Job_18:6luz se oscurecerá en su t, y se apagaraH168
+- Job_18:14su confianza será arrancada de su t, yH168
+- Job_18:15en su t morará como si no fuese suyaH168
+- Job_19:12Y acamparon en derredor de mi tH168
+- Job_20:26fuego...devorará lo que quede en su tH168
+- Job_21:28de la t de las moradas de los impíos?[[H4908]]
+- Job_22:23serás...alejarás de tu t la aflicciónH168
+- Job_29:4cuando el favor de Dios velaba sobre mi tH168
+- Sal_69:25asolado; en sus t no haya moradorH168
+- Sal_78:28las hizo caer en...alrededor de sus tH4908
+- Sal_78:51las primicias de su fuerza en las t deH168
+- Sal_78:60la t en que habitó entre los hombresH168
+- Sal_78:67desechó la t de José, y no escogió laH168
+- Sal_83:6t de los edomitas y de los ismaelitasH168
+- Sal_106:25murmuraron en sus t, y no oyeron laH168
+- Sal_118:15voz de júbilo...en las t de los justosH168
+- Sal_120:5Mesec, y habito entre las t de Cedar![[H168]]
+- Pro_14:11pero florecerá la t de los rectosH168
+- Pro_24:15no aceches la t del justo, no saqueesH5116
+- Cnt_1:5codiciable como las t de Cedar, comoH168
+- Isa_13:20nunca...ni levantará allí t el árabeH167
+- Isa_33:20de quietud, t que no será desarmada, niH168
+- Isa_38:12y traspasada de mí, como t de pastorH168
+- Isa_40:22los despliega como una t para morarH168
+- Isa_54:2ensancha el sitio de tu t, y...cortinasH168
+- Jer_4:20de repente son destruidas mis t, enH168
+- Jer_6:3junto a ella plantarán sus t alrededorH168
+- Jer_10:20t está destruida, y todas mis cuerdasH168
+- Jer_10:20no hay ya más quien levante mi t, niH168
+- Jer_30:18hago volver los cautivos de las t deH168
+- Jer_30:18Jacob, y de sus t tendré misericordiaH4908
+- Jer_35:7que moraréis en t todos vuestros díasH168
+- Jer_35:10moramos, pues, en t, y hemos obedecidoH168
+- Jer_37:10heridos, cada uno se levantará de su tH168
+- Jer_49:29sus t y sus ganados tomarán...para síH168
+- Lam_2:2destruyó en su furor...las t de JacobH4999
+- Lam_2:4en la t de la hija de Sion derramó comoH168
+- Lam_2:6su t como enramada de huerto; destruyóH7900
+- Eze_25:4plantarán en ti sus t; ellos comeránH4908
+- Dan_11:45y plantará las t de su palacio entreH168
+- Ose_12:9te haré moi ar en t, como en los díasH168
+- Hab_3:7he visto las t de Cusán en aflicciónH168
+- Hab_3:7las t de la tierra de Madián temblaronH3407
+- Zac_12:7librará Jehová las t de Judá primeroH168
+- Mal_2:12cortará de las t de Jacob al hombreH168
+- Hec_18:3pues el oficio de ellos era hacer tG4635
+- Heb_11:9en t con Isaac y Jacob, coherederos deG4633

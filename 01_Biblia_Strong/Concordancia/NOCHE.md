@@ -1,0 +1,361 @@
+---
+tipo: concordancia
+palabra: NOCHE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NOCHE
+
+- Gén_1:5la luz Día, y a las tinieblas llamó NH6153
+- Gén_1:14lumbreras...para separar el día de la nH3915
+- Gén_1:16lumbrera menor...que señorease en la nH3915
+- Gén_1:18y para señorearse en el día y en la n, yH3915
+- Gén_7:4haré llover sobre...cuarenta días y 40 nH3915
+- Gén_7:12lluvia sobre la tierra 40 días y 40 nH3915
+- Gén_8:22no cesarán...el invierno, y el día y la nH3915
+- Gén_14:15cayó sobre ellos de n, él y sus siervosH3915
+- Gén_19:2no, que en la calle nos quedaremos esta n
+- Gén_19:5los varones que vinieron a ti esta n?[[H3915]]
+- Gén_19:33, Gén_19:35y dieron a beber vino a su padre...nH3915
+- Gén_19:34aquí, yo dormí la n pasada con mi padreH3915
+- Gén_19:34démosle a beber vino también esta n, yH3915
+- Gén_20:3Dios vino a Abimelec en sueños de n, yH3915
+- Gén_26:24se le apareció Jehová aquella n, y leH3915
+- Gén_29:23la n tomó a Lea su hija, y se la trajoH6153
+- Gén_30:15Raquel...pues dormirá contigo esta n porH3915
+- Gén_30:16salió Lea...Y durmió con ella aquella nH6153
+- Gén_31:24vino Dios a Labán...aquella n, y le dijoH3915
+- Gén_31:39lo hurtado así de día como de n, a míH3915
+- Gén_31:40me consumía el calor, y de n la heladaH3915
+- Gén_31:54pan, y durmieron aquella n en el monte
+- Gén_32:13durmió allí aquella n, y tomó de lo queH3915
+- Gén_32:21y él durmió aquella n en el campamentoH3915
+- Gén_32:22se levantó aquella n, y tomó sus dosH3915
+- Gén_40:5cada uno su propio sueño en una misma nH3915
+- Gén_41:11él y yo tuvimos un sueño en la misma nH3915
+- Gén_46:2y habló Dios a Israel en visiones de nH4915
+- Éxo_10:13trajo un viento oriental...aquella nH3915
+- Éxo_12:8y aquella n comerán la carne asada alH3915
+- Éxo_12:12yo pasaré aquella n por la tierra deH3915
+- Éxo_12:30se levantó aquella n Faraón, él y todosH3915
+- Éxo_12:31e hizo llamar a Moisés y a Aarón de nH3915
+- Éxo_12:42n de guardar para Jehová, por haberlosH3915
+- Éxo_12:42esta n deben guardarla para Jehová todosH3915
+- Éxo_13:21y de n en una columna de fuego paraH3915
+- Éxo_13:21a fin de que anduviesen de día y de nH3915
+- Éxo_13:22nunca se apartó...n la columna de fuegoH3915
+- Éxo_14:20nube y tinieblas...alumbraba a Israel de nH3915
+- Éxo_14:20en toda aquella n nunca se acercaronH3915
+- Éxo_14:21por recio viento oriental toda aquella nH3915
+- Éxo_23:18ni la...quedará de la n hasta la mañana
+- Éxo_24:18estuvo Moisés en el monte...cuarenta nH3915
+- Éxo_34:28estuvo allí...con Jehová 40 días y 40 nH3915
+- Éxo_40:38fuego estaba de n sobre él, a vista deH3915
+- Lev_6:9el holocausto estará...altar toda la nH3915
+- Lev_8:35a la puerta...de reunión estaréis día y nH3915
+- Lev_11:24, Lev_11:27, Lev_11:31, Lev_11:39; Lev_15:10, Lev_15:19, Lev_15:23tocare...inmundo hasta la nH6153
+- Lev_11:25, Lev_11:28, Lev_11:32, Lev_11:40(2); Lev_15:5-6, Lev_15:7-8, Lev_15:10-11, Lev_15:16-17, Lev_15:18, Lev_15:21-22, Lev_15:27lavará...inmundo hasta la nH6153
+- Lev_11:32será metido en agua...inmundo hasta la nH3915
+- Lev_14:46que entrare...será inundo hasta la nH6153
+- Lev_17:15será inmundo hasta la n; entonces seráH6153
+- Lev_22:6que lo tocare será inmundo hasta la nH6153
+- Núm_9:16de día, y de n la apariencia de fuegoH3915
+- Núm_9:21y a la n la nube se levantaba...partíanH3915
+- Núm_11:9cuando descendía el rocío...de n, el manáH3915
+- Núm_11:32el pueblo estuvo levantado...toda la nH3915
+- Núm_14:1dio voces; y el pueblo lloró aquella nH3915
+- Núm_14:14de día ibas...de n en columna de fuegoH3915
+- Núm_19:7y será inmundo el sacerdote hasta la nH6153
+- Núm_19:8, Núm_19:10, Núm_19:21lavará...será inmundo hasta la nH6153
+- Núm_19:19lavará con agua, y será limpio a la nH6153
+- Núm_19:22que lo tocare, será inmunda hasta la nH6153
+- Núm_22:8él les dijo: Reposad aquí esta n, y yoH3915
+- Núm_22:19que reposéis..esta n, para que yo sepaH3915
+- Núm_22:20vino Dios a Balaam de n, y le dijo: SiH3915
+- Deu_1:33fuego de n para mostraros el caminoH3915
+- Deu_9:9en el monte...cuarenta n, sin comer pan niH3915
+- Deu_9:11al fin de...40 n, que Jehová me dio lasH3915
+- Deu_9:18me postré...cuarenta días y cuarenta nH3915
+- Deu_9:25cuarenta días y 40 n estuve postradoH3915
+- Deu_10:10y yo estuve...cuarenta días y cuarenta nH3915
+- Deu_16:1te sacó Jehová tu Dios de Egipto, de nH3915
+- Deu_21:23que su cuerpo pase la n sobre el madero
+- Deu_23:10alguna impureza acontecida de n, saldráH3915
+- Deu_23:11pero al caer la n se lavará con aguaH6153
+- Deu_28:66pende...estarás temeroso de n y de díaH3915
+- Jos_1:8día y de n meditarás en él, para queH3915
+- Jos_2:2venido aquí esta n para espiar la tierraH3915
+- Jos_4:3en el lugar donde habéis de pasar la nH3915
+- Jos_6:11volvieron luego al...y allí pasaron la nH3885
+- Jos_8:3escogió Josué...hombres...cuales envió de nH3915
+- Jos_8:9y Josué se quedó aquella n en medio delH3915
+- Jos_8:13Josué avanzó aquella n hasta la mitad delH3915
+- Jos_8:29al rey de Hai lo colgó...hasta caer la nH3915
+- Jos_10:9habiendo subido toda la n desde GilgalH3915
+- Jos_10:26quedaron colgados en...hasta caer la nH6153
+- Jue_6:25misma n le dijo Jehová: Toma un toroH3915
+- Jue_6:27temiendo hacerlo de día...lo hizo de nH3915
+- Jue_6:40aquella n lo hizo Dios así; solo el vellónH3915
+- Jue_7:9que aquella n Jehová le dijo: Levántate, yH3915
+- Jue_9:32levántate...ahora de n, tú y el pueblo queH3915
+- Jue_9:34levantándose...de n Abimelec y...el puebloH3915
+- Jue_16:2acecharon toda aquella n a la puerta deH3915
+- Jue_16:2y estuvieron callados toda aquella nH3915
+- Jue_19:6yo te ruego que quieras pasar aquí la n
+- Jue_19:7insistió su...y volvió a pasar allí la nH3885
+- Jue_19:9he aquí...te ruego que paséis aquí la n
+- Jue_19:10hombre no quiso pasar allí la n, sino
+- Jue_19:11ciudad...para que pasemos en ella la n
+- Jue_19:13ven...para pasar la n en Gabaa o en RamáH3885
+- Jue_19:15para entrar a pasar allí la n en GabaaH3885
+- Jue_19:15los acogiese en casa para pasar la nH3885
+- Jue_19:20con tal que no pases la n en la plazaH3885
+- Jue_19:25y abusaron de ella toda la n hasta laH3915
+- Jue_20:4yo llegué a Gabaa...para pasar allí la nH3915
+- Jue_20:5rodearon contra mí la casa por la n, conH3915
+- Jue_20:23Israel subieron y lloraron...hasta la nH6153
+- Jue_20:26Israel...ayunaron-aquel día hasta la nH6153
+- Jue_21:2el pueblo...se estuvieron allí hasta la nH6153
+- Rut_1:12y esta n estuviese con marido, y aunH3915
+- Rut_2:17espigó, Pues, en el campo hasta la n, yH3915
+- Rut_3:2él avienta esta n la parva de las cebadasH3915
+- Rut_3:13pasa aquí la n, y cuando sea de día, siH3915
+- 1Sa_14:24coma pan antes de caer la n, antesH6153
+- 1Sa_14:34trajo todo el pueblo...su vaca aquella nH3915
+- 1Sa_14:36descendamos de n contra los filisteosH3915
+- 1Sa_15:11apesadumbró Samuci, y clamó...aquella nH3915
+- 1Sa_15:16declararte...Jehová me ha dicho esta nH3915
+- 1Sa_19:10hirió...y David huyó, y escapó aquella nH3915
+- 1Sa_19:11diciendo: Si no salvas tu vida esta nH3915
+- 1Sa_19:24desnudo todo aquel día y toda aquella nH3915
+- 1Sa_25:16muro fueron para nosotros de día...de nH3915
+- 1Sa_26:7David...y Abisal fueron de n al ejércitoH3915
+- 1Sa_28:8vinierona aquella mujer de n; y él dijoH3915
+- 1Sa_28:20aquel día, y aquella n no había comidoH3915
+- 1Sa_28:25se levantaron, y se fueron aquella nH3915
+- 1Sa_30:12ni bebido agua en tres días y tres nH3915
+- 1Sa_31:12anduvieron toda aquella n, y quitaronH3915
+- 2Sa_1:12ayunaron hasta la n, por Saúl y porH6153
+- 2Sa_2:29caminaron por el Arabá toda aquella nH3915
+- 2Sa_2:32y caminaron toda aquella n Joab y susH3915
+- 2Sa_4:7caminaron toda la n...el camino del ArabáH3915
+- 2Sa_7:4aquella n, que vino palabra de Jehová aH3915
+- 2Sa_12:16ayunó David, y...la n acostado en tierra
+- 2Sa_17:1y me levantaré y seguiré a David esta nH3915
+- 2Sa_17:8tu padre...no pasará la n con el pueblo
+- 2Sa_17:16no te quedes esta n en los vados delH3915
+- 2Sa_19:7no quedará ni un hombre contigo esta nH3915
+- 2Sa_21:10no dejó que...ni fieras del campo de nH3915
+- 1Re_3:5se le apareció Jehová...una n en sueñosH3915
+- 1Re_3:19una n el hijo de esta mujer murió, porqueH3915
+- 1Re_8:29estén tus ojos abiertos de n y de díaH3915
+- 1Re_8:59palabras...cerca de...Dios de día y de nH3915
+- 1Re_19:8caminó cuarenta días y 40 n hasta HorebH3915
+- 1Re_19:9se metió en una cueva...donde pasó la nH3885
+- 2Re_6:14vinieron de n, y sitiaron la ciudadH3915
+- 2Re_7:12y se levantó el rey de n, y dijo a susH3915
+- 2Re_8:21y levantándose de n atacó a los de EdomH3915
+- 2Re_19:35n salió el ángel de Jehová, y mató enH3915
+- 2Re_25:4huyeron de n todos los hombres de guerraH3915
+- 1Cr_9:33día y de n estaban en aquella obraH3915
+- 1Cr_17:3n vino palabra de Dios a Natán, diciendoH3915
+- 2Cr_1:7aquella n apareció Dios a Salomón yH3915
+- 2Cr_6:20tus ojos estén abiertos...de día y de nH3915
+- 2Cr_7:12y apareció Jehová a Salomón de n, y leH3915
+- 2Cr_21:9Joram...se levantó de n...y derrotó a losH3915
+- 2Cr_35:14ocupados hasta la n en el sacrificio deH3915
+- Neh_1:6oír la oración de...que hago...día y nH3915
+- Neh_2:12me levanté de n, yo y unos pocos varonesH3915
+- Neh_2:13salí de n por la puerta del Valle haciaH3915
+- Neh_2:15subí de n por el torrente y observé elH3915
+- Neh_4:9pusimos guarda contra ellos de día y de nH3915
+- Neh_4:22n sirvan de centinela y de día en la obraH3915
+- Neh_6:10reunámonos en...esta n vendrán a matarteH3915
+- Neh_9:12los guiaste...con columna de fuego de nH3915
+- Neh_9:19no se apartó...de n la columna de fuegoH3915
+- Est_4:16no comáis ni bebáis en tres días,nH3915
+- Est_6:1aquella...n se le fue el sueño al rey, yH3915
+- Job_2:13sentaron con él...siete días y siete nH3915
+- Job_3:3la n en que se dijo: Varón es concebidoH3915
+- Job_3:6ocupe aquella n la oscuridad; no...contadaH3915
+- Job_3:7¡oh, que fuera aquella n solitaria, queH3915
+- Job_5:14y a mediodía andan a tientas como de nH3915
+- Job_7:3así...n de trabajo me dieron por cuentaH3915
+- Job_7:4la n es larga, y...lleno de inquietudesH3915
+- Job_17:12pusieron la n por día, y la luz seH3915
+- Job_24:14mata al pobre y...y de n es como ladrónH3915
+- Job_24:15ojo del adúltero está aguardando la nH5399
+- Job_27:20aguas; torbellino lo arrebatará de nH3915
+- Job_30:17la n taladra mis huesos, y los doloresH3915
+- Job_31:32el forastero no pasaba fuera la n; misH3885
+- Job_34:25cuando los trastorne en la n, y seanH3915
+- Job_35:10¿dónde está...que da cánticos en la n?[[H3915]]
+- Job_36:20no anheles la n, en que los pueblosH3915
+- Sal_1:2que...en su ley medita de día y de nH3915
+- Sal_6:6todas las n inmundo de llanto mi lechoH3915
+- Sal_16:7aun en las n me enseña mi concienciaH3915
+- Sal_17:3me has visitado de n, me has puesto aH3915
+- Sal_19:2día, y una n a otra n declara sabiduríaH3915
+- Sal_22:2clamo...y de n, y no hay para mí reposoH3915
+- Sal_30:5por la n durará el lloro, y la mañanaH6153
+- Sal_32:4de día y de n se agravó sobre mí tu manoH3915
+- Sal_42:3fueron mis lágrimas mi pan de día y de nH3915
+- Sal_42:8de día...y de n su cántico estará conmigoH3915
+- Sal_55:10día y n la rodean sobre sus muros, eH3915
+- Sal_59:15si no se sacian, pasen la n quejándose
+- Sal_63:6medite en ti en las vigilias de la n
+- Sal_74:16tuyo es el día, tuya también es la nH3915
+- Sal_77:2alzaba a...mis manos de n, sin descansoH3915
+- Sal_77:6acordaba de mis cánticos de n; meditabaH3915
+- Sal_78:14les guío...toda la n con resplandor deH3915
+- Sal_88:1oh Jehová...día y n clamo delante de tiH3915
+- Sal_90:4son...como una de las vigilias de la nH3915
+- Sal_92:2tu misericordia, y tu fidelidad cada nH3915
+- Sal_104:20pones las tinieblas, y es la n; en ellaH3915
+- Sal_105:39una nube...y fuego para alumbrar la nH3915
+- Sal_119:55acordé en la n de tu nombre...oh JehováH3915
+- Sal_119:148anticiparon...a las vigilias de la n
+- Sal_121:6el sol no te fatigará...ni la luna de nH3915
+- Sal_134:1en la casa de Jehová estáis por las nH3915
+- Sal_136:9estrellas para que señoreasen en la nH3915
+- Sal_139:11aun la n resplandecerá alrededor de míH3915
+- Sal_139:12de ti, y la n resplandece como el díaH3915
+- Pro_7:9día, en la oscuridad y tinieblas de la nH3915
+- Pro_31:15se levanta aun de n y da comida a suH3915
+- Pro_31:18negocios; su lámpara no se apaga de nH3915
+- Ecl_2:23de n su corazón no reposa...es vanidadH3915
+- Ecl_8:16hay quien ni de n ni de día ve sueño enH3915
+- Cnt_3:1por las n busqué...al que ama mi almaH3915
+- Cnt_3:8su espada sobre...por los temores de la nH3915
+- Cnt_5:2llena...mis cabellos de las gotas de la nH3915
+- Isa_4:5oscuridad de día, y de n resplandor deH3915
+- Isa_5:11¡ay de los que...que se están hasta la nH5399
+- Isa_15:1de n fue destruida Ar de Moab, puesta enH5399
+- Isa_15:1de n fue destruida Kir de Moab, reducidaH5399
+- Isa_16:3pon tu sombra en medio del día como la nH5399
+- Isa_21:4la n de mi deseo se me volvió en espantoH5399
+- Isa_21:8estoy yo continuamente de día...y las nH3015
+- Isa_21:11¿qué de la n? Guarda, ¿qué de la n?[[H3915]]
+- Isa_21:12la mañana viene, y después la n...volvedH3915
+- Isa_21:13en el bosque pasaréis la n en Arabia
+- Isa_26:9con mi alma te he deseado en la n, y enH3915
+- Isa_27:3guardaré de n y de día, para que nadieH3915
+- Isa_28:19mañana en mañana pasará, de día y de nH3915
+- Isa_30:29vosotros tendréis cántico como de n enH3915
+- Isa_34:10no se apagará de n ni de día...su humoH3915
+- Isa_38:12mi vida...consumirás entre el día y la nH3915
+- Isa_38:13molió...de la mañana a la n me acabarásH3915
+- Isa_59:10ojos; tropezamos a mediodía como de nH5399
+- Isa_60:11puertas...no se cerrarán de día ni de nH3915
+- Isa_62:6todo el día y toda la n no callarán jamásH3915
+- Isa_65:4y en lugares escondidos pasan la n; queH3885
+- Jer_6:5levantaos y asaltemos de n...palaciosH3915
+- Jer_9:1para que llore día y n los muertos de laH3915
+- Jer_14:8caminante que se retira para pasar la n?
+- Jer_14:17derramen mis ojos lágrimas n y día, y noH3915
+- Jer_16:13serviréis a dioses ajenos de día y...nH3915
+- Jer_31:35la luna y...estrellas para luz de la nH3915
+- Jer_33:20mi pacto con la n...no haya día ni n aH3915
+- Jer_33:25si no...mi pacto con el día y la n, siH3915
+- Jer_36:30será echado al calor...al hielo de la nH3915
+- Jer_39:4huyeron y salieron de n de la ciudad porH3915
+- Jer_49:9si ladrones de n, ¿no habrían tomado loH3915
+- Jer_52:7huyeron, y salieron de la ciudad de n porH3915
+- Lam_1:2amargamente llora...la n, y sus lágrimasH3915
+- Lam_2:18Sion, echa lágrimas cual arroyo día y nH3915
+- Lam_2:19voces en la n, al comenzar las vigiliasH3915
+- Eze_12:6llevarás...de n los sacarás; cubrirásH5939
+- Eze_12:7salí de n, y los llevé sobre los hombrosH5339
+- Eze_12:12al príncipe que...llevarán a cuestas de nH5339
+- Dan_2:19secreto fue revelado...en visión de nH3916
+- Dan_5:30la misma n fue muerto Belsasar rey deH3916
+- Dan_7:2miraba yo en mi visión de n, y he aquíH3916
+- Dan_7:7, Dan_7:13miraba yo en las visiones de la n, y heH3916
+- Ose_4:5caerá también contigo el profeta de nH3915
+- Ose_7:6toda la n duerme su hornero; a la mañanaH3915
+- Amó_5:8y hace oscurecer el día como n; el queH3915
+- Abd_1:5si ladrones vinieran...o robadores de nH3915
+- Jon_1:17Jonás en el vientre del pez tres nH3915
+- Jon_4:10de una n nació, y en...de otra n perecióH3915
+- Miq_3:6la profecía se os hará n, y oscuridadH3915
+- Sof_2:7en las casas de Ascalón dormirán de nH6153
+- Zac_1:8de n, y he aquí un varón que cabalgabaH3915
+- Zac_14:7será un día...que no será ni de día ni nH3915
+- Mat_2:14él...tomó de n al niño y a su madre, yG3571
+- Mat_4:2después de haber ayunado 40 días y 40 nG3571
+- Mat_8:16cuando llegó la n, trajeron...los enfermosG3798
+- Mat_12:40como estuvo Jonás...tres días y tres nG3571
+- Mat_12:40estará el Hijo del...tres días y tres nG3571
+- Mat_14:23y cuando llegó la n, estaba allí soloG3798
+- Mat_14:25la cuarta vigilia de la n, Jesús vinoG3571
+- Mat_20:8cuando llegó la n, el señor de la viñaG3798
+- Mat_26:20cuando llegó la n, se sentó a la mesaG3798
+- Mat_26:31dijo...os escandalizaréis de mí esta nG3571
+- Mat_26:34que esta n, antes que el gallo cante, meG3571
+- Mat_27:57cuando llegó la n, vino un hombre ricoG3798
+- Mat_27:64vengan sus discípulos de n, y lo hurtenG3571
+- Mat_28:13vinieron de n, y lo hurtaron, estandoG3571
+- Mar_1:32cuando llegó la n...le trajeron todos
+- Mar_4:27duerme y se levanta, de n y de día, y laG3571
+- Mar_4:35cuando llegó la n, les dijo: Pasemos alG3571
+- Mar_5:5de día y de n, andaba dando voces en losG3571
+- Mar_6:47venir la n, la barca estaba en medio delG3571
+- Mar_6:48cerca de la cuarta vigilia de la n vinoG3571
+- Mar_11:19pero al llegar la n, Jesús salió de laG3796
+- Mar_14:17cuando llegó la n, vino él con los doceG3798
+- Mar_14:27todos os escandalizaréis de mí esta nG3571
+- Mar_14:30n, antes que el gallo haya cantado dosG3571
+- Mar_15:42cuando llegó la n...era la preparaciónG3798
+- Luc_2:8y guardaban las vigilias de la n sobreG3571
+- Luc_2:37de n y de día con ayunos y oracionesG3571
+- Luc_5:5toda la n hemos estado trabajando, y nadaG3571
+- Luc_6:12fue al monte...y pasé la n orando a DiosG1273
+- Luc_12:20esta n vienen a pedirte tu alma; y loG3571
+- Luc_17:34en aquella n estarán dos en una camaG3571
+- Luc_18:7sus escogidos, que claman a él día y n?[[G3571]]
+- Luc_21:37de n, saliendo, se estaba en el monteG3571
+- Jua_3:2este vino a Jesús de n, y te dijo: RabíG3571
+- Jua_7:50les dijo Nicodemo, el que vino a él de nG3571
+- Jua_9:4la n viene, cuando nadie puede trabajarG3571
+- Jua_11:10el que anda de n, tropieza, porque noG3571
+- Jua_13:30tomado el bocado...salió; y era ya de nG3571
+- Jua_19:39que antes había visitado a Jesús de nG3571
+- Jua_20:19cuando llegó la n de aquél mismo día, elG3798
+- Jua_21:3una barca; y aquella n no Pescaron nadaG3571
+- Hec_5:19un ángel...abriendo de n las puertasG3571
+- Hec_9:24guardaban las puertas de día y de n paraG3571
+- Hec_9:25discípulos, tomándole de n, le bajaronG3571
+- Hec_12:6misma n estaba Pedro durmiendo entre dosG3571
+- Hec_16:9se le mostró a Pablo una visión de n; unG3571
+- Hec_16:33él, tomándolos en aquella...hora de la nG3571
+- Hec_17:10enviaron de n a Pablo...hasta BereaG3571
+- Hec_18:9el Señor dijo a Pablo en visión de n: NoG3571
+- Hec_20:31n y de día, no he cesado de amonestarG3571
+- Hec_23:11la n siguiente se le presentó el SeñorG3571
+- Hec_23:23la hora tercera de la n 200 soldados, 70G3571
+- Hec_23:31soldados...le llevaron de n a AntípatrisG3571
+- Hec_26:7tribus, sirviendo...a Dios de día y de nG3571
+- Hec_27:23esta n ha estado conmigo el ángel delG3571
+- Hec_27:27la decimacuarta n, y siendo llevados aG3571
+- Rom_13:12n está avanzada, y se acerca el díaG3571
+- 1Co_11:23la n que fue entregado, tomó panG3571
+- 2Co_11:25una n y un día he estado...náufragoG3574
+- 1Ts_2:9trabajando de n y de día, para no serG3571
+- 1Ts_3:10orando de n y de día con gran insistenciaG3571
+- 1Ts_5:2que el día...vendrá así como ladrón en la nG3571
+- 1Ts_5:5no somos de la n ni de las tinieblasG3571
+- 1Ts_5:7los que duermen, de n duermen, y los queG3571
+- 1Ts_5:7los que se embriagan, de n se embriaganG3571
+- 2Ts_3:8que trabajamos...día y n, para no serG3571
+- 1Ti_5:5y es diligente en súplicas...n y díaG3571
+- 2Ti_1:3acuerdo de ti en...oraciones n y díaG3571
+- 2Pe_3:10día del...vendrá como ladrón en la nG3571
+- Rev_4:8y no cesaban día y n de decir: SantoG3571
+- Rev_7:15Dios, y le sirven día y n en su temploG3571
+- Rev_8:12no hubiese luz en la tercera...de la nG3571
+- Rev_12:10los acusaba delante de...Dios día y nG3571
+- Rev_14:11y no tienen reposo de día ni de n losG3571
+- Rev_20:10atormentados día y n por los siglos deG3571
+- Rev_21:25cerradas de día, pues allí no habrá nG3571
+- Rev_22:5no habrá allí más n; y no...luz del solG3571

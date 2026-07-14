@@ -1,0 +1,214 @@
+---
+tipo: concordancia
+palabra: CORTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CORTAR
+
+- Gén_17:14persona será cortada de su puebloH3772
+- Gén_22:3y cortó leña para el holocausto, y seH1234
+- Éxo_4:25cortó el prepucio de su hijo, y loH3772
+- Éxo_12:15que comiere leudado...cortado de IsraelH3772
+- Éxo_12:19cortado de la congregación de IsraelH3772
+- Éxo_29:17cortarás el carnero en...y lavarás susH5408
+- Éxo_30:33ungüento...sobre extraño, será cortadoH3772
+- Éxo_30:38hiciere otro...será cortado de entre suH3772
+- Éxo_31:14será cortada de en medio de su puebloH3772
+- Éxo_34:13y cortaré a sus imágenes de AseraH3772
+- Éxo_39:3cortaron hilos para tejerlos entre elH7112
+- Lev_7:20-21, Lev_7:25, Lev_7:27cortada de entre su puebloH3772
+- Lev_8:20y cortó el carnero en trozos; y MoisésH5408
+- Lev_13:56la cortará del vestido, del cuero, deH7167
+- Lev_17:4será cortado el tal varón de entre suH3772
+- Lev_17:9el tal varón será...cortado de su puebloH3772
+- Lev_17:10persona...la cortaré de entre su puebloH3772
+- Lev_17:14cualquiera que la comiere será cortadoH3772
+- Lev_18:29hicieren serán cortadas de...su puebloH3772
+- Lev_19:8la tal persona será cortada de su puebloH3772
+- Lev_20:3, Lev_20:5-6y lo cortaré de entre su puebloH3772
+- Lev_20:18ambos serán cortados de entre su puebloH3772
+- Lev_22:3sobre sí, será cortado de mi presenciaH3772
+- Lev_22:24no ofreceréis...con testículos...cortadosH3772
+- Lev_23:29persona que...será cortada de su puebloH3772
+- Núm_9:13tal persona será cortada de entre suH3772
+- Núm_13:23de allí cortaron un sarmiento con unH3772
+- Núm_13:24el racimo que cortaron de allí los hijosH3772
+- Núm_15:30será cortada de en medio de su puebloH3772
+- Núm_15:31enteramente será cortada esa personaH3772
+- Núm_19:13aquella persona será cortada de IsraelH3772
+- Núm_19:20será cortada de entre la congregaciónH3772
+- Deu_19:5el que fuere...al monte a cortar leñaH2404
+- Deu_19:5dar su mano el golpe...cortar algún leñoH3772
+- Deu_21:12rapará su cabeza, y cortará sus uñasH6213
+- Deu_25:12le cortarás...la mano; no la perdonarásH7112
+- Deu_29:11desde el que corta tu leña hasta el queH2404
+- Jos_9:23y quien corte la leña y saque el aguaH2404
+- Jue_1:6le cortaron los pulgares de las manosH7112
+- Jue_1:7cortados los pulgares de sus manos y deH7112
+- Jue_6:25y corta también la imagen de Asera queH3772
+- Jue_6:26madera de la imagen...que habrás cortadoH3772
+- Jue_6:28estaba...cortada la imagen de Asera queH3772
+- Jue_6:30tu hijo...ha cortado la imagen de AseraH3772
+- Jue_9:48hacha...y cortó una rama de los árbolesH3772
+- Jue_9:49todo el pueblo cortó cada uno su ramaH3772
+- Jue_20:6la corté en pedazos y, la envié por todoH5408
+- Jue_21:6dijeron: Cortada es hoy de...una tribuH1438
+- 1Sa_2:31vienen días en que cortaré tu brazoH1438
+- 1Sa_2:33el varón...que yo no corte de mi altarH3772
+- 1Sa_5:4manos estaban cortadas sobre el umbralH3772
+- 1Sa_6:14y ellos cortaron la madera del carroH1234
+- 1Sa_11:7un par de bueyes, los cortó en trozos yH5408
+- 1Sa_15:33Samuel cortó en pedazos a Agag delanteH8158
+- 1Sa_17:46te cortaré la cabeza, y daré hoy losH5493
+- 1Sa_17:51espada...y le cortó con ella la cabezaH3772
+- 1Sa_20:15haya cortado uno por uno los enemigosH3772
+- 1Sa_24:4David cortó la orilla del manto de SaúlH3772
+- 1Sa_24:5porque había cortado la orilla del mantoH3772
+- 1Sa_24:11porque yo corté la orilla de tu mantoH3772
+- 1Sa_28:9Saúl...cómo ha cortado de la tierra a losH3772
+- 1Sa_31:9le cortaron la cabeza, y le despojaronH3772
+- 2Sa_4:7lo mataron, y le cortaron la cabezaH5493
+- 2Sa_4:12y les cortaron las manos y los pies, yH7112
+- 2Sa_10:4les corto los vestidos por la mitad hastaH3772
+- 2Sa_14:26se cortaba el cabello...por eso se lo cH1548
+- 2Sa_19:24sus pies, ni había cortado su barbaH6213
+- 2Sa_20:22ellos cortaron la cabeza a Seba hijo deH3772
+- 1Re_5:6manda...que me corten cedros del LíbanoH3772
+- 1Re_5:18cortaron y prepararon la madera y laH6458
+- 1Re_7:9de piedras...cortadas y ajustadas conH1496
+- 1Re_9:7yo cortaré a Israel de sobre la faz deH3772
+- 1Re_13:34fue cortada y raída de sobre la faz deH3582
+- 1Re_18:23córtenlo en pedazos, y pónganlo sobreH5408
+- 1Re_18:33y cortó el buey en pedazos, y lo pusoH5408
+- 2Re_4:39las cortó en la olla del potaje, puesH6398
+- 2Re_6:4llegaron al Jordán, cortaron la maderaH1504
+- 2Re_6:6cortó él un palo, y lo echó allí; e hizoH7094
+- 2Re_6:32cómo este...envía a cortarme la cabeza?[[H5493]]
+- 2Re_16:17cortó...Acaz los tableros de las basasH7112
+- 2Re_18:4y cortó los símbolos de Asera, e hizoH3772
+- 2Re_19:23del Líbano; cortaré sus altos cedrosH3772
+- 1Cr_17:8he cortado a todos tus enemigos deH3772
+- 1Cr_19:4y les cortó los vestidos por la mitadH3772
+- 2Cr_2:2hombres que cortasen en los montesH2672
+- 2Cr_2:8sé que tus siervos saben cortar maderaH3772
+- 2Cr_2:16cortaremos en el Líbano la madera queH3772
+- Job_8:12sin haber sido cortado, con...se secaH6998
+- Job_8:14porque su esperanza será cortada, y suH6990
+- Job_14:2sale como una flor y es cortado, yH5243
+- Job_14:7el árbol fuere cortado, aún queda de élH3772
+- Job_14:10mas el hombre morirá, y será cortadoH2522
+- Job_15:32él será cortado antes de su tiempo, yH4390
+- Job_18:16abajo...arriba serán cortadas sus ramasH5243
+- Job_21:21siendo cortado el número de sus meses?[[H2686]]
+- Job_22:16cuales fueron cortados antes de tiempoH7059
+- Job_23:17¿por qué no fui yo cortado delante deH6789
+- Job_24:24y cortados como cabezas de espigasH5243
+- Job_28:10de los peñascos cortó ríos, y sus ojosH1234
+- Job_41:7¿cortarás tú con cuchillo su piel, o conH4390
+- Sal_31:22cortado soy de delante de tus ojosH1629
+- Sal_34:16para cortar de la tierra la memoria deH3772
+- Sal_37:2como hierba serán pronto cortados, yH5243
+- Sal_46:9que quiebra el arco, corta la lanza
+- Sal_54:5a mis enemigos; córtalos por tu verdadH6789
+- Sal_72:6como la lluvia sobre la hierba cortada
+- Sal_76:12cortaré el espíritu de los príncipesH1219
+- Sal_90:6florece y crece; a la tarde es cortadaH4135
+- Sal_102:24no me cortes en la mitad de mis díasH5927
+- Sal_109:15y él corte de la tierra su memoriaH3772
+- Sal_129:4justo; cortó las coyunturas de los impíosH7112
+- Pro_2:22los impíos serán cortados de la tierraH3772
+- Pro_10:31mas la lengua perversa será cortadaH3772
+- Pro_23:18hay fin, y tu esperanza no será cortadaH3772
+- Pro_24:14y al fin tu esperanza no será cortadaH3772
+- Pro_26:6el que se corta los pies y bebe su dañoH7096
+- Ecl_10:9quien corta piedras, se hiere con ellasH1234
+- Isa_6:13al ser cortados aún queda el troncoH7995
+- Isa_9:10cortaron los cabrahigos; pero en suH1496
+- Isa_9:14Johová cortará de Israel cabeza y colaH3772
+- Isa_10:7desarraigar y cortar naciones no pocasH3772
+- Isa_10:15el hacha contra el que con ella corta?[[H2672]]
+- Isa_10:33árboles de gran altura serán cortadosH1438
+- Isa_10:34y cortará con hierro la espesura delH5362
+- Isa_14:12oh Lucero...cortado fuiste por tierraH1438
+- Isa_18:5podará...y cortará y quitará las ramasH3772
+- Isa_19:6la caña y el carrizo serán cortadosH7060
+- Isa_28:20la cama será corta para poder estirarse
+- Isa_33:9el Líbano se avergonzó, y fue cortadoH7060
+- Isa_33:12como espinos cortados serán quemadosH3683
+- Isa_37:24del Líbano; cortaré sus altos cedrosH3772
+- Isa_38:12como tejedor corté mi vida; me cortaráH7088
+- Isa_44:14corta cedros, y toma ciprés y encinaH3772
+- Isa_48:19nunca su nombre sería cortado...raídoH3772
+- Isa_51:1a la piedra de donde fuisteis cortadosH2672
+- Isa_51:9¿no eres tú el que cortó a Rahab, y elH2672
+- Isa_53:8cortado de la tierra de los vivientesH1504
+- Jer_6:6cortad árboles, y levantad valladoH3772
+- Jer_7:28verdad...de la boca de ellos fue cortadaH3772
+- Jer_7:29corta tu cabello...levanta llanto sobreH1494
+- Jer_8:13los cortaré del todo, dice JehováH5486
+- Jer_10:3porque leño del bosque cortaron, obra deH3772
+- Jer_11:19cortémoslo de la tierra de los vivientesH3772
+- Jer_22:7y cortarán tus cedros escogidos y losH3772
+- Jer_46:23cortarán sus bosques...impenetrablesH3772
+- Jer_48:2tú, Madmena, serás cortada; espada seráH3772
+- Jer_48:25cortado es el poder de Moab, y su brazoH1438
+- Jer_48:33será cortada la alegría y el regocijoH622
+- Jer_50:23fue cortado y quebrado el martillo deH1438
+- Lam_2:3cortó con el ardor de su ira todo elH1438
+- Eze_5:2la cortarás con espada alrededor de laH5221
+- Eze_14:8y lo cortaré de en medio de mi puebloH3772
+- Eze_14:13y cortare de ella hombres y bestiasH3772
+- Eze_14:17, Eze_14:19, Eze_14:21cortar de ella hombres y bestiasH3772
+- Eze_16:4día que naciste no fue cortado...ombligoH3772
+- Eze_17:17se edifiquen torres para cortar...vidasH3772
+- Eze_17:22cortaré un tallo, y lo plantaré sobreH6998
+- Eze_21:3y cortaré de ti al justo y al impíoH3772
+- Eze_21:4he de cortar de ti al justo y al impíoH3772
+- Eze_21:16corta a la derecha, hiere a...izquierdaH258
+- Eze_25:7te cortaré de entre los pueblos, y teH3772
+- Eze_25:13cortaré de ella hombres y bestias, y laH3772
+- Eze_25:16y cortaré a los cereteos, y destruiréH3772
+- Eze_29:8que yo...cortaré de ti hombres y bestiasH3772
+- Eze_35:7cortaré de él al que vaya y al que vengaH3772
+- Eze_39:10no traerán leña del campo, ni cortaránH2404
+- Dan_2:34que una piedra fue cortada, no con manoH1505
+- Dan_2:45que del monte fue cortada una piedra, noH1505
+- Dan_4:14cortad sus ramas, quitadle el follajeH7113
+- Dan_4:23cortad el árbol y destruidlo; mas la cepaH1414
+- Ose_6:5los corté por medio de los profetasH2672
+- Ose_10:7Samaria fue cortado su rey como espumaH1820
+- Ose_10:15será del todo cortado el rey de IsraelH1820
+- Amó_3:14serán cortados los cuernos del altarH1438
+- Abd_1:9hombre será cortado del monte de EsaúH3772
+- Abd_1:10vergüenza, y seáis cortado para siempreH3772
+- Nah_2:13cortaré de la tierra tu robo, y nuncaH3772
+- Sof_1:3cortaré a los impíos; y raeré a losH3772
+- Zac_13:2cortar de la tierra a los profetasH3772
+- Zac_13:8dos terceras partes serán cortadas enH3772
+- Zac_14:2el resto...no será cortado de la ciudadH3772
+- Mal_2:12Jehova cortará...hombre que hiciereH3772
+- Mat_3:10no da buen fruto es cortado y echadoG1581
+- Mat_5:30te es ocasion de caer, córtala y échalaG1581
+- Mat_7:19árbol que no da buen fruto, es cortadoG1581
+- Mat_13:21sino que es de corta duración
+- Mat_18:8tu mano...córtalo y échalo de ti mejorG1581
+- Mat_21:8y otros cortaban ramas de los árbolesG2875
+- Mar_4:17sino que son de corta duración
+- Mar_9:43, Mar_9:45te fuere ocasion de caer, córtalaG609
+- Mar_11:8otros cortaban ramas de los árboles, yG2875
+- Mar_14:47hirió al siervo...cortándole la orejaG851
+- Luc_3:9árbol que no da buen fruto se corta yG1581
+- Luc_5:36nadie corta un pedazo de un vestido
+- Luc_13:7córtala, para qué inutiliza...tierra?[[G1581]]
+- Luc_13:9diere fruto, bien y si no, la cortarásG1581
+- Luc_22:50; Jua_18:10le cortó la oreja derechaG851
+- Jua_18:26a quien Pedro había cortado la orejaG609
+- Hec_27:32los soldados cortaron las amarrasG609
+- Hec_27:40cortando...las anclas, las dejaron enG4014
+- Rom_11:22otra manera tu también serás cortadoG1581
+- Rom_11:24fuiste cortado del que por naturalezaG1581
+- 1Co_11:6no se cubre, que se corte...el cabelloG2751
+- 1Co_11:6si le es vergonzoso a la mujer cortarseG2751
+- 1Pe_1:9tiene la vista muy corta; es ciego

@@ -1,0 +1,123 @@
+---
+tipo: concordancia
+palabra: BRAZO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BRAZO
+
+- Gén_2:10y de allí se repartía en cuatro bH7218
+- Gén_24:47un pendiente...y brazaletes en sus bH3027
+- Gén_49:24los b de sus manos se fortalecieronH2220
+- Éxo_6:6y os redimiré con b extendido, y conH2220
+- Éxo_15:16a la grandeza de tu b enmudezcan comoH2220
+- Éxo_25:32y saldrán seis b de sus lados; tres bH7070
+- Éxo_25:32candelero a un lado, y tres b al otroH7070
+- Éxo_25:33en forma de flor...en un b...en otro bH7070
+- Éxo_25:33en los seis b que salen del candeleroH7070
+- Éxo_25:35manzana debajo de dos b...otros dos bH7070
+- Éxo_25:35manzana debajo de los otros dos bH7070
+- Éxo_25:35así para los seis b que salen delH7070
+- Éxo_25:36sus manzanas y sus b serán de una piezaH7070
+- Éxo_37:18de sus lados salían seis b; tres b deH7070
+- Éxo_37:18un lado...otros tres b del otro ladoH7070
+- Éxo_37:19en un b, tres copas...y en otro b tresH7070
+- Éxo_37:19en los seis b que salían del candeleroH7070
+- Éxo_37:21manzana debajo de dos b...otros dos bH7070
+- Éxo_37:21los otros dos b, conforme a los seis bH7070
+- Éxo_37:22sus manzanas y sus b eran de lo mismoH7070
+- Deu_4:34y b extendido, y hechos aterradoresH2220
+- Deu_5:15te sacó...con mano fuerte y b extendidoH2220
+- Deu_7:19el b extendido con que Jehová tu DiosH2220
+- Deu_9:29pueblo que sacaste...con tu b extendidoH2220
+- Deu_11:2visto...mano poderosa, y su b extendidoH2220
+- Deu_26:8nos sacó...con b extendido, con grandeH2220
+- Deu_33:20como león reposa, y arrebata b y testaH2220
+- Deu_33:27tu refugio, y acá abajo los b eternosH2220
+- Jue_15:14las cuerdas que estaban en sus b seH2220
+- Jue_16:12él las rompió de sus b como un hiloH2220
+- 1Sa_2:31cortaré tu b y el b de la casa de tuH2220
+- 2Sa_1:10tomé...la argolla que traía en su bH2220
+- 2Sa_22:35se doble el arco de bronce con mis bH2220
+- 1Re_8:42oirán de tu gran...de tu b extendidoH2220
+- 1Re_10:19tenía b cerca del asiento, junto a losH3027
+- 2Re_5:18y se apoyare sobre mi b...inclinareH3027
+- 2Re_7:2, 2Re_7:17un príncipe sobre cuyo b...se apoyabaH3027
+- 2Re_17:36Jehová, que os sacó...con...b extendidoH2220
+- 2Cr_6:32venido...a causa...de tu b extendidoH2220
+- 2Cr_9:18b a uno y otro lado del asiento, y dosH3027
+- 2Cr_9:18el trono tenía...leones...junto a los bH3027
+- 2Cr_32:8con él está el b de carne, mas conH2220
+- Job_22:9b de los huérfanos fueron quebradosH2220
+- Job_26:2¿cómo has amparado al b sin fuerza?[[H2220]]
+- Job_31:22caiga...el hueso de mi b sea quebradoH3802
+- Job_38:15luz...y el b enaltecido es quebrantadoH2220
+- Job_40:9¿tienes tú un b como el de Dios?...vozH2220
+- Sal_10:15quebranta tú el b del inicuo, yH2220
+- Sal_18:34entesar con mis b el arco de bronceH2220
+- Sal_37:17los b de los impíos serán quebradosH2220
+- Sal_44:3ni su b los libró...tu diestra, y tu bH2220
+- Sal_77:15con tu b redimiste a tu pueblo, a losH2220
+- Sal_79:11conforme, grandeza de tu b preservaH2220
+- Sal_83:8asirio...sirven de b a los hijos de Lot
+- Sal_89:10con tu b poderoso esparciste a tusH2220
+- Sal_89:13tuyo es el b potente; fuerte es tuH2220
+- Sal_89:21con él, mi b también lo fortaleceráH2220
+- Sal_98:1su diestra lo ha salvado, y su santo bH2220
+- Sal_129:7su mano, ni sus b el que hace gavillasH2683
+- Sal_136:12con mano fuerte, y b extendido, porqueH2220
+- Pro_31:17ciñe de fuerza sus lomos, y...sus bH2220
+- Cnt_8:6como una marca sobre tu b; porqueH2220
+- Isa_9:20cada cual comerá la carne de su bH2220
+- Isa_11:15lo herirá en sus siete b, y hará queH3027
+- Isa_17:5el segador...con su b siega las espigasH2220
+- Isa_30:30hará ver el descenso de su b, con furorH2220
+- Isa_33:2tú, b de ellos en la mañana, sé tambiénH2220
+- Isa_40:10vendrá con poder, y su b señorearáH2220
+- Isa_40:11en su b llevará los corderos, y en suH2220
+- Isa_44:12trabaja en ellos con la fuerza de su bH2220
+- Isa_48:14en Babilonia, y su b estará sobre losH2220
+- Isa_49:22traerán en b a tus hijos, y tus hijasH2220
+- Isa_51:5mis b juzgarán a los pueblos; a mí meH2220
+- Isa_51:5esperan...y en mi b ponen su esperanzaH2220
+- Isa_51:9despiértate, vístete de poder, oh b deH2220
+- Isa_52:10desnudó su santo b ante los ojos deH2220
+- Isa_53:1quién se ha manifestado el b de Jehová?[[H2220]]
+- Isa_59:16lo salvó su b, y le afirmó su...justiciaH2220
+- Isa_60:4lejos, y tus hijas serán llevadas en b
+- Isa_62:8juró Jehoyá por su mano...su poderoso bH3225
+- Isa_63:5me salvó mi b, y me sostuvo mi iraH2220
+- Isa_63:12que los guió...con el b de su gloriaH2220
+- Isa_66:12en los b seréis traídos, y sobre lasH6654
+- Jer_17:5el varón que...pone carne por su bH2220
+- Jer_21:5pelearé contra vosotros...con b fuerteH2220
+- Jer_27:5con mi gran poder y con mi b extendidoH2220
+- Jer_32:17tu b extendido, ni hay nada, difícilH2220
+- Jer_32:21con mano fuerte y b extendido, y conH248
+- Jer_48:25cortado es...Moab, y su b quebrantadoH2220
+- Eze_4:7descubierto tu b, profetizarás contraH2220
+- Eze_16:11puse brazaletes en tus b y collar a tuH3027
+- Eze_20:33con...b extendido...he de reinar sobreH3027
+- Eze_20:34os reuniré...con...b extendido, y enojoH3027
+- Eze_30:21quebrado el b de Faraón rey de EgiptoH2220
+- Eze_30:22quebraré...b, el fuerte y el fracturadoH2220
+- Eze_30:24fortaleceré los b del rey de BabiloniaH2220
+- Eze_30:24quebraré los b de Faraón, y...gemiráH2220
+- Eze_30:25fortaleceré...b del rey de Babilonia, yH2220
+- Eze_30:25los b de Faraón caerán; y sabrán que yoH2220
+- Eze_31:17que fueron su b, los que estuvieron aH2220
+- Dan_2:32pecho y sus b, de plata; su vientreH1872
+- Dan_10:6sus b...como de color de bronce bruñidoH2220
+- Dan_11:6ella no podrá retener la fuerza de su bH2220
+- Dan_11:6ni permanecerá él, ni su b; porque seráH2220
+- Ose_7:15les enseñé y fortalecí sus b, contraH2220
+- Ose_11:3enseñaba a andar al...tomándole de los bH2220
+- Zac_11:17hiera la espada su b...ojo derechoH2220
+- Zac_11:17se secará su b, y su ojo derecho seráH2220
+- Mar_9:36un niño...tomándole en sus b, les dijoG1723
+- Mar_10:16y tomándolos en sus b...los bendecíaG1723
+- Luc_1:51hizo proezas con su b; esparció a losG1023
+- Luc_2:28él le tomó en sus b, y bendijo a DiosG43
+- Jua_12:38¿y a quién se ha revelado el b delG1023
+- Hec_13:17y con b levantado los sacó de ellaG1023

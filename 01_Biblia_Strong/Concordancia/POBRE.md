@@ -1,0 +1,174 @@
+---
+tipo: concordancia
+palabra: POBRE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# POBRE
+
+- Éxo_22:25prestares dinero...p que está contigoH6041
+- Éxo_23:3ni al p distinguirás en su causaH1800
+- Éxo_23:11para que coman los p de tu pueblo; yH34
+- Éxo_30:15ni...ni el p disminuirá del medio cicloH1800
+- Lev_14:21si fuere p, y no tuviere para tantoH1800
+- Lev_19:10para el p y...el extranjero lo dejarásH6041
+- Lev_19:15ni favoreciendo al p ni complaciendo alH1800
+- Lev_23:22para el p y...el extranjero la dejarásH6041
+- Lev_27:8si fuere muy p para pagar tu estimaciónH4134
+- Deu_15:7ni cerrarás tu...contra tu hermano pH34
+- Deu_15:11abrirás tu mano al p y al menesterosoH34
+- Deu_24:12si el hombre fuere p, no te acostarásH6041
+- Deu_24:14no oprimirás al jornalero p...ya sea deH6041
+- Deu_24:15pues es p, y con él sustenta su vidaH6041
+- Jue_6:15mi familia es p en Manasés, y yo elH1800
+- Rut_3:10busca de los jóvenes, sean p o ricosH1800
+- 1Sa_2:8levanta del polvo al p, y del muladarH1800
+- 1Sa_18:23yo un hombre p y de ninguna estima?[[H1800]]
+- 2Sa_12:1había dos hombres...rico, y el otro pH7326
+- 2Sa_12:3el p no tenía más que una sola corderitaH7326
+- 2Sa_12:4sino que tomó la oveja de aquel hombre pH7326
+- 2Re_24:14llevó...no quedó nadie, excepto los pH1803
+- 2Re_25:12de los p de la tierra dejó NabuzaradánH1803
+- Est_9:22enviar porciones...y dádivas a los pH34
+- Job_5:15libra de la espada al p, de la bocaH34
+- Job_20:10sus hijos solicitarán el favor de los pH1800
+- Job_20:19Por cuanto quebrantó y desamparó a los pH1800
+- Job_24:4y todos los p de la tierra se escondenH6035
+- Job_24:9quitan...y de sobre el p toman la prendaH6041
+- Job_24:14se levanta...mata al p y al necesitadoH6041
+- Job_29:12porque yo libraba al p que clamaba, yH6041
+- Job_31:16si estorbé el contento de los p, e hiceH1800
+- Job_34:19que no...ni respeta más al rico que al pH1800
+- Job_34:28venir delante de él el clamor del pH1800
+- Job_36:15al p librará de su pobreza, y en laH6041
+- Sal_9:9Jehová será refugio del p, refugio paraH6041
+- Sal_9:18porque...ni la esperanza de los p pereceráH6041
+- Sal_10:2con arrogancia el malo persigue al pH6041
+- Sal_10:9acecha para arrebatar al p; arrebata alH6041
+- Sal_10:9oculto...arrebata al p trayéndolo a su redH6041
+- Sal_10:12alza tu mano; no te olvides de los pH6041
+- Sal_12:5la opresión de los p, por el gemido deH6041
+- Sal_14:6del consejo del p se han burlado, peroH6041
+- Sal_34:6p clamó, y le oyó Jehová, y lo libró deH6041
+- Sal_35:10que libras...al p...del que le despoja?[[H6041]]
+- Sal_37:14para derribar al p y al menesterosoH6041
+- Sal_41:1bienaventurado el que piensa en el p; enH1800
+- Sal_49:2los nobles, el rico y el p juntamenteH34
+- Sal_68:10tu bondad, oh Dios, has provisto al pH6041
+- Sal_72:13misericordia del p y...la vida de los pH1800
+- Sal_107:41levanta de la miseria al p, y haceH34
+- Sal_109:31él se pondrá a la diestra del p, paraH34
+- Sal_112:9da a los P; su justicia permanece paraH34
+- Sal_113:7él levanta del polvo al p...menesterosoH1800
+- Sal_132:15su provisión; a sus p saciaré de panH34
+- Pro_10:15y el desmayo de los p es su pobrezaH1800
+- Pro_13:7hay quienes pretenden ser p, y tienenH7326
+- Pro_13:8sus riquezas; pero el p no oye censurasH7326
+- Pro_13:23en el barbecho de los p hay mucho panH7326
+- Pro_14:20el p es odioso aun a su amigo; peroH7326
+- Pro_14:21el que tiene misericordia de los p esH6041
+- Pro_14:31el que oprime al p afrenta a su HacedorH1800
+- Pro_14:31que tiene misericordia del p, lo honraH34
+- Pro_17:5que escarnece al p afrenta a su HacedorH7326
+- Pro_18:23el p habla con ruegos, mas el ricoH7326
+- Pro_19:1mejor es el p que camina en integridadH7326
+- Pro_19:4amigos; mas el p es apartado de su amigoH1800
+- Pro_19:7todos los hermanos del p le aborrecenH7326
+- Pro_19:17a Jehová presta el que da al p, y elH1800
+- Pro_19:22pero mejor es el p que el mentirosoH7326
+- Pro_21:13el que cierra su oído al clamor del pH1800
+- Pro_22:2el rico y el p se encuentran; a ambosH7326
+- Pro_22:7el rico se enseñorea de los p, y el queH7326
+- Pro_22:16el que oprime al p para aumentar susH1800
+- Pro_22:22no robes al p, porque es p...afligidoH1800
+- Pro_28:3el hombre p y robador de los p es comoH7326
+- Pro_28:6mejor es el p que camina en...integridadH1800
+- Pro_28:8Para aquel que se compadece de los p las aumentaH1800
+- Pro_28:11rico...mas el p entendido lo escudriñaH1800
+- Pro_28:15es el príncipe impío sobre el pueblo pH1800
+- Pro_28:27el que da al p no tendrá pobreza; masH7326
+- Pro_29:7conoce el justo la causa de los p; masH1800
+- Pro_29:13el p y el usurero se encuentran; JehováH7326
+- Pro_29:14del rey que juzga con verdad a los pH1800
+- Pro_30:9siendo p, hurte, y blasfeme el nombreH3423
+- Pro_30:14para devorar a los p de la tierra, y aH6041
+- Pro_31:9defiende la causa del p y...menesterosoH6041
+- Pro_31:20alarga su mano al p, y extiende susH6041
+- Ecl_4:13mejor es el muchacho p y sabio, que elH4542
+- Ecl_4:14para reinar, aunque en su reino nació pH7326
+- Ecl_5:8si opresión de p y perversión de derechoH7326
+- Ecl_6:8¿qué más...el p que supo caminar entre losH6041
+- Ecl_9:15se halla en ella un hombre p, sabio, elH4542
+- Ecl_9:15y nadie se acordaba de aquel hombre pH4542
+- Ecl_9:16la ciencia del p sea menospreciada, y noH4542
+- Isa_3:14despojo del p está en vuestras casasH6041
+- Isa_3:15majáis mi...y moléis las caras de los p?[[H6041]]
+- Isa_10:2para apartar del juicio a los p, y paraH6041
+- Isa_11:4sino que juzgará con justicia a los pH1800
+- Isa_14:30los primogénitos...p serán apacentadosH1800
+- Isa_25:4porque fuiste fortaleza al p, fortalezaH1800
+- Isa_29:19aun los más p...se gozarán en el SantoH34
+- Isa_32:7trama...para hablar en juicio contra el pH6041
+- Isa_40:20el p escoge...madera que no se apolilleH5533
+- Isa_49:13Jehová...de sus p tendrá misericordiaH6041
+- Isa_58:7a los p errantes albergues en casa; queH6041
+- Isa_66:2pero miraré a aquel que es p y humildeH6041
+- Jer_2:34aun en tus...se halló sangre de los pH34
+- Jer_5:4pero yo dije: Ciertamente éstos son pH1800
+- Jer_5:28prósperos...causa de los p no juzgaronH34
+- Jer_20:13ha librado el alma del p de mano de losH34
+- Jer_39:10a los p del pueblo que no tenían nadaH1800
+- Jer_40:7había encomendado...los p de la tierraH1800
+- Jer_52:15hizo transportar...a los p del puebloH1803
+- Jer_52:16mas de los p del país dejó NabuzaradánH1803
+- Eze_18:12al p y menesteroso oprimiere...robosH6041
+- Eze_18:17apartare su mano del p, interés y usuraH6041
+- Amó_2:6vendieron...al p por un par de zapatosH34
+- Amó_4:1que oprimís a los p y quebrantáis a losH1800
+- Amó_5:11puesto que vejáis al p y recibís de élH1800
+- Amó_5:12sé que...hacéis perder su causa a los pH34
+- Amó_8:4los que...arruináis a los p de la tierraH6041
+- Amó_8:6para comprar los p por dinero, y losH1800
+- Hab_3:14regocijo era como para devorar al pH6041
+- Sof_3:12dejaré en...ti un pueblo humilde y pH1800
+- Zac_7:10no oprimáis a...al extranjero ni al pH6041
+- Zac_11:7apacenté, pues, las...los p del rebañoH6041
+- Zac_11:11y así conocieron los p del rebaño queH6041
+- Mat_5:3bienaventurados...p en espíritu, porqueG4434
+- Mat_11:5ven...y a los p es anunciado el evangelioG4434
+- Mat_19:21vende...dalo a los p, y tendrás tesorosG4434
+- Mat_26:9porque esto podía...haberse dado a los pG4434
+- Mat_26:11siempre tendréis p con vosotros, peroG4434
+- Mar_10:21dalo a los p, y tendrás tesoro en elG4434
+- Mar_12:42vino una viuda p, y echó dos blancasG4434
+- Mar_12:43esta viuda p echó más que todos los queG4434
+- Mar_14:5haberse vendido...y haberse dado a los pG4434
+- Mar_14:7siempre tendréis a los p con vosotros, yG4434
+- Luc_4:18ungido para dar buenas nuevas a los pG4434
+- Luc_6:20decía: Bienaventurados vosotros los pG4434
+- Luc_7:22ven...y a los p es anunciado el evangelioG4434
+- Luc_14:13cuando hagas banquete, llama a los pG4434
+- Luc_14:21trae acá a los p, los mancos, los cojosG4434
+- Luc_18:22vende todo lo que tienes, y dalo a los pG4434
+- Luc_19:8la mitad de mis bienes doy a los p; y siG4434
+- Luc_21:2vio también a una viuda muy p, que echabaG3998
+- Luc_21:3digo, que esta viuda p echó más que todosG4434
+- Jua_12:5¿por qué no...vendido...y dado a los p?[[G4434]]
+- Jua_12:6dijo esto, no porque se cuidara de los pG4434
+- Jua_12:8a los p siempre los tendréis...mas a míG4434
+- Jua_13:29compra lo que...que diese algo a los pG4434
+- Rom_15:26a bien hacer una ofrenda para los pG4434
+- 1Co_13:3mis bienes para dar de comer a los pG4434
+- 2Co_6:10como p, mas enriqueciendo a muchosG4434
+- 2Co_8:9que por amor a vosotros se hizo p, siendoG4433
+- 2Co_9:9como está escrito: Repartió, dio a los pG3993
+- Gál_2:10pidieron que nos acordásemos de los pG4434
+- Gál_4:9os volvéis de nuevo a los...p rudimentosG4434
+- Heb_11:37espada...p, angustiados, maltratadosG5302
+- Stg_2:2si...entre un p con vestido andrajosoG4434
+- Stg_2:3y decís al p: Estate tú allí en pie, oG4434
+- Stg_2:5ha elegido Dios a los p de este mundoG4434
+- Stg_2:6pero vosotros habéis afrentado al p. ¿NoG4434
+- Rev_3:17no sabes que tú eres un...miserable, pG4434
+- Rev_13:16ricos y p, libres y esclavos, se lesG4434

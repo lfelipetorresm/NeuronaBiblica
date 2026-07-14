@@ -1,0 +1,169 @@
+---
+tipo: concordancia
+palabra: QUEBRANTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# QUEBRANTAR
+
+- Éxo_15:6tu diestra...ha quebrantado al enemigoH7492
+- Lev_26:19quebrantaré la soberbia de...orgulloH7665
+- Lev_26:26cuando yo os quebrante el sustento delH7665
+- Núm_14:41¿por qué quebrantáis el mandamientoH5674
+- Núm_30:2no quebrantará su palabra; hará...todo loH2490
+- Deu_7:23él las quebrantará con grande destrozoH2000
+- Deu_28:33serás sino...quebrantado todos los díasH7533
+- Jos_7:11han quebrantado mi pacto que yo lesH5674
+- Jos_7:15ha quebrantado el pacto de Jehová, y haH5674
+- Jue_4:15y Jehová quebrantó a Sísara, a todosH2000
+- Jue_10:8y quebrantaron a los hijos de Israel enH7492
+- 1Sa_2:10serán quebrantados sus adversariosH2865
+- 1Sa_15:24pues he quebrantado el mandamiento deH5674
+- 2Sa_5:20quebrantó Jehová a...enemigos delanteH6555
+- 1Re_13:26león, que le ha quebrantado y matadoH7665
+- 2Re_18:12sino que habían quebrantado su pactoH5674
+- 1Cr_13:11Jehová había quebrantado a Uza; porH6556
+- 1Cr_15:13Dios nos quebrantó, por cuanto no leH6555
+- 2Cr_24:20¿por qué quebrantáis...mandamientosH5674
+- Est_1:19escriba...para que no sea quebrantadoH5674
+- Job_4:10los dientes de los son quebrantadosH5421
+- Job_4:19que serán quebrantados por la polilla![[H1792]]
+- Job_5:4en la puerta serán quebrantados, y noH1792
+- Job_6:9y que agradara a Dios quebrantarme; queH1792
+- Job_9:17porque me ha quebrantado con tempestadH7779
+- Job_13:25¿a la hoja arrebatada has de quebrantarH6206
+- Job_16:14me quebrantó de quebranto en quebrantoH6555
+- Job_20:19quebrantó y desamparó a los pobres, robóH7533
+- Job_24:20un árbol los impíos serán quebrantadosH7665
+- Job_29:17y quebrantaba los colmillos del inicuoH7665
+- Job_30:24¿clamarán...cuando él los quebrantare?[[H6365]]
+- Job_34:24quebrantará a..fuertes sin indagaciónH7489
+- Job_34:25los trastorne en...y sean quebrantadosH1792
+- Job_38:15y el brazo enaltecido es quebrantadoH7665
+- Job_40:12y quebranta a los impíos en su sitioH1915
+- Sal_2:9los quebrantarás con vara de hierroH7489
+- Sal_3:7los dientes de los perversos quebrantasteH7665
+- Sal_10:15quebranta tú el brazo del inicuo, yH7665
+- Sal_29:5voz de Jehová que quebranta los cedrosH7665
+- Sal_29:5quebrantó Jehová los cedros del LíbanoH7665
+- Sal_34:18cercano...Jehová a los quebrantados deH7665
+- Sal_34:20huesos; ni uno...será quebrantadoH7665
+- Sal_44:19para que nos quebrantases en el lugarH1794
+- Sal_51:17de Dios son el espíritu quebrantado; alH7665
+- Sal_55:19Dios oirá, y los quebrantará luego, elH6031
+- Sal_60:1tú nos has desechado, nos quebrantasteH6555
+- Sal_69:20el escarnio ha quebrantado mi corazónH7665
+- Sal_74:13quebrantaste cabezas de monstruos enH7665
+- Sal_75:10quebrantaré...poderío de los pecadoresH1438
+- Sal_77:4estaba yo quebrantado, y no hablabaH6470
+- Sal_89:10quebrantaste a Rahab como a herido deH1792
+- Sal_89:22no...ni hijo de iniquidad lo quebrantaráH6031
+- Sal_89:23sino que quebrantaré delante de él aH3807
+- Sal_90:3vuelves al hombre hasta ser quebrantadoH1793
+- Sal_94:5tu pueblo...quebrantan, y a tu heredadH1792
+- Sal_105:16hambre...quebrantó todo sustento...panH7665
+- Sal_106:42fueron quebrantados debajo de su manoH3665
+- Sal_107:12por eso quebrantó con el trabajo susH3665
+- Sal_107:16porque quebrantó las puertas de bronceH7665
+- Sal_109:16persiguió...al quebrantado de corazónH5218
+- Sal_110:5quebrantará a los reyes en el día de suH4272
+- Sal_110:6quebrantará...cabezas en muchas tierrasH4272
+- Sal_119:20quebrantada está mi alma de desear tusH1638
+- Sal_147:3él sana a los quebrantados de corazónH7665
+- Sal_148:6les puso ley que no será quebrantada
+- Pro_6:15será quebrantado, y no habrá remedioH7665
+- Pro_10:9pervierte sus caminos será quebrantadoH3045
+- Pro_13:20se junta con necios será quebrantadoH7321
+- Pro_22:22ni quebrantes en la puerta al afligidoH1792
+- Pro_25:15la lengua blanda quebranta los huesosH7665
+- Pro_29:1de repente será quebrantado, y no habráH7665
+- Isa_1:28pero los rebeldes...serán quebrantadosH7667
+- Isa_7:8Efraín será quebrantado hasta dejar deH2844
+- Isa_8:9reuníos, pueblos, y seréis quebrantadosH2844
+- Isa_8:9ceñíos, y seréis quebrantados...sereis qH2844
+- Isa_8:15tropezarán...caerán, y serán quebrantadosH7665
+- Isa_14:5quebrantó Jehová el báculo de los impíosH7665
+- Isa_14:25que quebrantaré al asirio en mi tierraH7665
+- Isa_21:9todos los ídolos de sus dioses quebrantóH7665
+- Isa_24:5falsearon el derecho, quebrantaron elH6565
+- Isa_24:10quebrantada...la ciudad por la vanidadH7665
+- Isa_24:19será quebrantada del todo la tierraH7489
+- Isa_28:13sean quebrantados, enlazados y presosH7665
+- Isa_28:28ni lo quebranta con los dientes de suH2000
+- Isa_30:31con la voz de Jehová será quebrantadaH2865
+- Isa_45:2yo iré...quebrantaré puertas de bronceH7665
+- Isa_53:10con todo eso, Jehová quiso quebrantarloH1792
+- Isa_54:10ni el pacto de mi paz se quebrantaráH4131
+- Isa_57:15habito...con el quebrantado y humildeH1793
+- Isa_57:15para vivificar el corazón...quebrantadosH1792
+- Isa_58:6y dejar ir libres a los quebrantados, yH5423
+- Isa_61:1a vendar a los quebrantados de corazónH7665
+- Jer_1:17no te haga yo quebrantar delante deH2865
+- Jer_2:16de Tafnes te quebrantaron la coronillaH7462
+- Jer_5:22ordenación eterna la cual no quebrantará
+- Jer_8:21quebrantado estoy...la hija de mi puebloH7667
+- Jer_13:14los quebrantaré el uno contra el otroH5310
+- Jer_14:17de gran quebrantamiento es quebrantadaH7665
+- Jer_17:18quebrántalos con doble quebrantamientoH7665
+- Jer_19:11así quebrantará a este pueblo y a estaH7665
+- Jer_23:9mi corazón está quebrantado dentro de míH7665
+- Jer_23:29como martillo que quebranta la piedra?[[H7665]]
+- Jer_28:2quebranté el yugo del rey de BabiloniaH7665
+- Jer_28:4quebrantaré el yugo del rey de BabiloniaH7665
+- Jer_48:4Moab fue quebrantada; hicieron que seH7665
+- Jer_48:20avergonzó Moab, porque fue quebrantadoH2865
+- Jer_48:25cortado es el...y su brazo quebrantadoH7665
+- Jer_48:38quebranté a Moab como a vasija que noH7665
+- Jer_48:39¡lamentad! ¡Cómo ha sido quebrantado![[H2865]]
+- Jer_50:36contra sus valientes, y...quebrantadosH2865
+- Jer_51:20por medio de ti quebrantaré nacionesH7843
+- Jer_51:21quebrantaré caballos y...q carros y aH5310
+- Jer_51:22tu medio quebrantaré hombres y mujeresH5310
+- Jer_51:22por medio de ti quebrantaré viejos yH5310
+- Jer_51:22y por tu medio quebrantaré jóvenes yH5310
+- Jer_51:23quebrantaré por medio de ti al pastorH5310
+- Jer_51:23quebrantaré por tu medio a labradoresH5310
+- Jer_51:23príncipes quebrantaré por medio de tiH5310
+- Lam_1:15contra mí compañía para quebrantar aH7665
+- Lam_2:9destruyó y quebrantó sus cerrojos; suH7665
+- Lam_3:4hizo envejecer mi...quebrantó mis huesosH7665
+- Lam_3:66y quebrántalos de debajo de los cielosH8045
+- Eze_4:16he aquí quebrantaré el sustento del panH7665
+- Eze_5:11profanado mi santuario...te quebrantaréH1639
+- Eze_5:16quebrantaré entre vosotros el sustentoH4889
+- Eze_6:9yo me quebranté a causa de su corazónH7665
+- Eze_14:13y le quebrantare el sustento del panH7665
+- Eze_17:18menospreció el...y quebrantó el pactoH6565
+- Eze_17:19mi pacto que ha quebrantado, lo traeréH6331
+- Eze_26:2quebrantada está la que era puerta deH7665
+- Eze_27:26viento solano te quebrantó en medio deH7665
+- Eze_27:34en que seas quebrantada por los maresH7665
+- Eze_30:8sean quebrantados todos sus ayudadoresH7665
+- Eze_30:18quebrante yo allí el poder de EgiptoH7665
+- Eze_32:28serás quebrantado entre...incircuncisosH7665
+- Eze_38:4te quebrantaré, y pondré garfios en tusH7725
+- Eze_39:2te quebrantaré, y te conduciré y te haréH8338
+- Dan_2:40como el hierro desmenuza...quebrantaráH1854
+- Dan_7:25a los santos del Altísimo quebrantaraH1080
+- Dan_8:25quebrantado, aunque no por mano humanaH7665
+- Dan_8:27y yo Daniel quedé quebrantado, y estuveH1961
+- Dan_11:4reino será quebrantado y repartido haciaH7665
+- Dan_11:20en pocos días será quebrantado, aunqueH7665
+- Dan_11:26aun los que coman de...le quebrantaránH7665
+- Ose_5:11Efraín...quebrantado en juicio, porqueH7533
+- Amó_4:1pobres y quebrantáis a los menesterososH7533
+- Miq_3:3quebrantáis los huesos y los rompéisH6746
+- Hab_2:17destrucción de...fieras te quebrantaráH962
+- Mat_5:19cualquiera que quebrante uno de estosG3089
+- Mat_15:2quebrantan la tradición de los ancianos?[[G3845]]
+- Mat_15:3¿por qué...quebrantáis el mandamiento deG3845
+- Mat_21:44cayere sobre...piedra será quebrantadoG4917
+- Luc_4:18a sanar a los quebrantados de corazónG4937
+- Luc_20:18el que cayere sobre...será quebrantadoG4917
+- Jua_5:18no sólo quebrantaba el día de reposoG3089
+- Jua_7:23para que la ley de...no sea quebrantadaG3089
+- Jua_10:35la Escritura no puede ser quebrantadaG3089
+- Hec_21:13llorando y quebrantándome el corazónG4919
+- Hec_23:3quebrantando la ley me mandas golpear?[[G3891]]
+- 1Ti_5:12por haber quebrantado su primera feG114

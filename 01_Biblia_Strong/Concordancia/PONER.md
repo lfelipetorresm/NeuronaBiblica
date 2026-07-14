@@ -1,0 +1,1625 @@
+---
+tipo: concordancia
+palabra: PONER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PONER
+
+- Gén_1:17las puso Dios en la expansión de losH5414
+- Gén_2:8y puso allí al hombre que había formadoH7760
+- Gén_2:15hombre, y lo puso en el huerto de EdénH3240
+- Gén_2:20y puso Adán nombre a toda bestia y aveH7121
+- Gén_3:15y pondré enemistad entre ti y la mujerH7896
+- Gén_3:24y puso al oriente...de Edén querubinesH7931
+- Gén_4:15Jehová puso señal en Caín, para que noH7760
+- Gén_6:16y pondrás la puerta del arca a su ladoH7760
+- Gén_9:13mi arco he puesto en las nubes, el cualH5414
+- Gén_9:23y la pusieron sobre sus propios hombrosH7760
+- Gén_12:19poniéndome en ocasión de tomarla para
+- Gén_13:12fue poniendo sus tiendas hasta SodomaH167
+- Gén_15:10y puso cada mitad una enfrente de laH5414
+- Gén_15:17que puesto el sol, y ya oscurecido, se
+- Gén_16:9vuélvete a...y ponte sumisa bajo su mano
+- Gén_17:2y pondré mi pacto entre mí y ti, y te
+- Gén_17:5te he puesto por padre de muchedumbre de
+- Gén_18:8el becerro...y lo puso delante de ellosH5414
+- Gén_19:16y lo sacaron y lo pusieron fuera de laH3240
+- Gén_21:14dio a Agar, poniéndolo sobre su hombroH5414
+- Gén_21:28entonces puso Abraham siete corderasH5324
+- Gén_21:29siete corderas que has puesto aparte?[[H5324]]
+- Gén_22:6la leña...y la puso sobre Isaac su hijoH7760
+- Gén_22:9Isaac puso en el altar sobre la leñaH7760
+- Gén_24:2pon ahora tu mano debajo de mi musloH7760
+- Gén_24:9el criado puso su mano debajo del musloH7760
+- Gén_24:10puesto en camino, llegó...a la ciudad
+- Gén_24:33le pusieron delante qué comer; mas élH7760
+- Gén_24:47le puse un pendiente en su nariz, yH7760
+- Gén_27:37le he puesto por señor tuyo, y le he
+- Gén_28:11el sol se había puesto; y tomó de lasH935
+- Gén_28:11y tomó de las piedras de...y puso a suH7760
+- Gén_28:18piedras que había puesto de cabeceraH7760
+- Gén_28:22y esta piedra que he puesto por señalH7760
+- Gén_30:32yo pasaré...poniendo aparte...las ovejas
+- Gén_30:35Labán...y las puso en mano de sus hijosH5414
+- Gén_30:36y puso tres días de camino entre sí yH7760
+- Gén_30:38y puso las varas...delante del ganadoH3322
+- Gén_30:40y ponía con su...rebaño los listados yH7896
+- Gén_30:40y ponía su hato aparte, y no lo p conH7896
+- Gén_30:41ponía las varas delante de las ovejasH7760
+- Gén_30:42venían...ovejas...débiles, no las poníaH7760
+- Gén_31:18puso en camino todo su ganado, y todoH5090
+- Gén_31:34Raquel...los puso en una albarda de unH7760
+- Gén_31:37ponlo aquí delante de mis hermanos y deH7760
+- Gén_32:16pasad...y poned espacio entre manada yH7760
+- Gén_33:2y puso las siervas y sus niños delanteH7760
+- Gén_37:22echadlo en esta...no pongáis mano en élH7971
+- Gén_37:34puso cilicio sobre sus lomos, y guardóH7760
+- Gén_38:14se puso a la entrada de Enaim junto al
+- Gén_39:7la mujer de su amo puso sus ojos en JoséH5375
+- Gén_39:8ha puesto en mi mano todo lo que tiene
+- Gén_39:16ella puso junto a sí la ropa de JoséH3241
+- Gén_39:20y lo puso en la cárcel, donde estabanH5414
+- Gén_40:3puso en prisión en la casa del capitánH5414
+- Gén_40:15aquí por qué me pusiesen en la cárcelH7760
+- Gén_41:33y póngalo sobre la tierra de EgiptoH7896
+- Gén_41:34y ponga gobernadores sobre el país, y
+- Gén_41:41yo te he puesto sobre toda la tierraH5414
+- Gén_41:42quitó su anillo...y lo puso en la manoH5414
+- Gén_41:42y puso un collar de oro en su cuelloH7760
+- Gén_41:43lo puso sobre toda la tierra de EgiptoH5414
+- Gén_41:48poniendo en cada ciudad el alimento delH5414
+- Gén_42:17entonces los puso juntos en la cárcelH622
+- Gén_42:25el dinero...poniéndolo en su saco, y les
+- Gén_42:26ellos pusieron su trigo sobre sus asnosH5375
+- Gén_43:9si no lo pongo delante de ti, seré paraH3322
+- Gén_43:22quién haya puesto nuestro dinero enH7760
+- Gén_43:31lavó...y se contuvo, y dijo: Poned panH7760
+- Gén_43:32pusieron para él aparte, y...para ellosH7760
+- Gén_44:1pon el dinero de cada uno en la boca deH7760
+- Gén_44:2pondrás mi copa, la copa de plata, enH7760
+- Gén_44:21traédmelo, y pondré mis ojos sobre élH7760
+- Gén_45:8sino Dios, que me ha puesto por padreH7760
+- Gén_45:9me ha puesto por señor de todo EgiptoH7760
+- Gén_47:6si...ponlos por mayorales del ganado mío
+- Gén_47:26José lo puso por ley hasta hoy sobre
+- Gén_47:29te ruego que pongas tu mano debajo deH7760
+- Gén_48:4y te pondré por estirpe de naciones
+- Gén_48:14extendió su mano derecha, y la pusoH7896
+- Gén_48:17su padre ponía la mano derecha sobreH7896
+- Gén_48:18pon tu mano derecha sobre su cabezaH7760
+- Gén_48:20como...puso a Efraín antes de ManasésH7760
+- Gén_50:26José...fue puesto en un ataúd en EgiptoH3455
+- Éxo_1:11pusieron...comisarios de tributos queH7760
+- Éxo_2:3puso en un carrizal a la orilla del ríoH7760
+- Éxo_2:4una hermana suya se puso a lo lejos...verH3320
+- Éxo_2:10y le puso por nombre Moisés, diciendo
+- Éxo_2:14¿quién te ha puesto a ti por príncipe yH7760
+- Éxo_2:22le puso por nombre Gersón, porque dijoH7121
+- Éxo_3:22pondréis sobre vuestros hijos y...hijasH7760
+- Éxo_4:15pondrás en su boca las palabras, y yoH7760
+- Éxo_4:20Moisés tomó...y los puso sobre un asnoH7392
+- Éxo_4:21las maravillas que he puesto en tu manoH7760
+- Éxo_5:14los capataces...habían puesto sobre ellosH7760
+- Éxo_5:21poniéndoles la espada en la mano paraH5414
+- Éxo_7:4pondré mi mano sobre Egipto, y sacaré aH5414
+- Éxo_7:15y tú ponte a la ribera delante de él, yH5324
+- Éxo_8:20dijo a Moisés...ponte delante de FaraónH3320
+- Éxo_8:23yo pondré redención entre mi pueblo y elH7760
+- Éxo_9:10ceniza...y se pusieron delante de FaraónH5975
+- Éxo_9:13levántate de...y ponte delante de FaraónH3320
+- Éxo_9:16te he puesto para mostrar en ti mi poder
+- Éxo_9:21el que no puso en su corazón la palabra
+- Éxo_12:7la sangre...pondrán en los dos postes yH5414
+- Éxo_14:19nube...apartó y se puso a sus espaldasH5975
+- Éxo_15:23amargas...le pusieron el nombre de MataH7121
+- Éxo_16:33pon en ella un gomer de maná, y ponloH3241
+- Éxo_16:34Aarón lo puso delante del TestimonioH3241
+- Éxo_17:12una piedra, y la pusieron debajo de élH7760
+- Éxo_17:12hubo...firmeza hasta que se puso el sol
+- Éxo_18:21y ponlos sobre el pueblo por jefes deH7760
+- Éxo_18:25puso por jefes sobre el pueblo, sobre
+- Éxo_20:18viéndolo el pueblo...pusieron de lejosH5975
+- Éxo_21:13no...sino que Dios lo puso en sus manosH7760
+- Éxo_23:31pondré en tus manos a los moradores deH5414
+- Éxo_24:6la sangre...puso en tazones, y esparcióH7760
+- Éxo_25:12, Éxo_25:26anillos...pondrás en sus...esquinasH935
+- Éxo_25:16pondrás en el arca el testimonio queH5414
+- Éxo_25:21y pondrás el propiciatorio encima delH5414
+- Éxo_25:21en el arca pondrás el testimonio queH5414
+- Éxo_25:30y pondrás sobre la mesa el pan de laH5414
+- Éxo_26:32lo pondrás sobre 4 columnas de maderaH5414
+- Éxo_26:33pondrás el velo debajo de los corchetesH5414
+- Éxo_26:34pondrás el propiciatorio sobre el arcaH5414
+- Éxo_26:35pondrás la mesa fuera del velo, y elH7760
+- Éxo_26:35y pondrás la mesa al lado del norteH5414
+- Éxo_27:5y la pondrás dentro del cerco del altarH5414
+- Éxo_27:21las pondrá en orden Aarón y sus hijos
+- Éxo_28:12y pondrás las dos piedras sobre...efodH7760
+- Éxo_28:23, Éxo_28:26anillos...pondrás a los dos extremosH5414, [[H7760]]
+- Éxo_28:25pondrás los dos extremos de...cordonesH5414
+- Éxo_28:30pondrás en el pectoral...Urim y TumimH5414
+- Éxo_28:37y la pondrás con un cordón de azul, yH5414
+- Éxo_29:3las pondrás en un canastillo, y en elH5414
+- Éxo_29:6y pondrás la mitra...p la diadema santaH7760
+- Éxo_29:10, Éxo_29:15, Éxo_29:19pondrán...manos sobre la cabezaH5564
+- Éxo_29:12y pondrás sobre los cuernos del altarH5414
+- Éxo_29:17las pondrás sobre sus trozos y sobre suH5414
+- Éxo_29:20la pondrás sobre el lóbulo de la orejaH5414
+- Éxo_29:24lo pondrás todo en las manos de AarónH7760
+- Éxo_30:6y lo pondrás delante del velo que estáH5414
+- Éxo_30:18fuente de bronce...pondrás en ella aguaH5414
+- Éxo_30:33ungüento...pusiere de él sobre extrañoH5414
+- Éxo_30:36lo pondrás delante del testimonio enH5414
+- Éxo_31:6he puesto con él...he p sabiduría en elH5414
+- Éxo_32:26puso Moisés a la puerta del campamentoH5975
+- Éxo_32:27poned cada uno...espada sobre su musloH7760
+- Éxo_33:4vistieron luto, y ninguno se puso susH7896
+- Éxo_33:9la nube descendía y se ponía a la puertaH5975
+- Éxo_33:22te pondré en una hendidura de la peñaH7760
+- Éxo_34:33Moisés...puso un velo sobre su rostroH5414
+- Éxo_34:35volvía Moisés a poner el velo sobre suH7725
+- Éxo_35:34ha puesto en su corazón el que puedaH5414
+- Éxo_36:2corazón había puesto Jehová sabiduríaH5414
+- Éxo_37:13anillos...los puso a las cuatro esquinasH5414
+- Éxo_38:4un enrejado...puso por debajo de su cerco
+- Éxo_39:7y las puso sobre las hombreras del efodH7760
+- Éxo_39:16pusieron dos anillos de oro en los dosH5414
+- Éxo_39:18pusieron sobre las hombreras del efodH5414
+- Éxo_39:19que pusieron en los dos extremos delH7760
+- Éxo_39:20pusieron...las dos hombreras del efodH5414
+- Éxo_39:25pusieron campanillas entre:...granadasH5414
+- Éxo_39:31y pusieron en ella un cordón de azul
+- Éxo_40:3y pondrás en él el arca del testimonioH7760
+- Éxo_40:4meterás la mesa y la pondrás en orden
+- Éxo_40:5pondrás el altar de oro para...inciensoH5414
+- Éxo_40:5pondrás la cortina delante a la entradaH7760
+- Éxo_40:6pondrás el altar del holocausto delanteH5414
+- Éxo_40:7pondrás la fuente entre...p agua en ellaH5414
+- Éxo_40:8pondrás el atrio alrededor, y la cortinaH5414
+- Éxo_40:18y colocó sus tablas, y puso sus barrasH5414
+- Éxo_40:19puso la sobrecubierta encima del mismoH7760
+- Éxo_40:20el testimonio y lo puso dentro del arcaH5114
+- Éxo_40:21metió el arca...puso el velo extendidoH7760
+- Éxo_40:22puso la mesa...el tabernáculo de reuniónH5114
+- Éxo_40:23puso por orden los panes delante deH6186
+- Éxo_40:24puso el candelero en el tabernáculo deH7760
+- Éxo_40:26puso...el altar de oro en el tabernáculoH7760
+- Éxo_40:28puso asimismo la cortina a la entradaH7760
+- Éxo_40:30puso la fuente entre...y p en ella aguaH5414
+- Éxo_40:33puso la cortina a la entrada del atrioH5414
+- Lev_1:4pondrá su mano...cabeza del holocaustoH5564
+- Lev_1:7hijos del sacerdote Aarón pondrán fuegoH5414
+- Lev_2:1su ofrenda...y pondrá sobre ella inciensoH5414
+- Lev_2:15pondrás sobre ella aceite, y p sobre ellaH7760
+- Lev_3:2, Lev_3:8, Lev_3:13pondrá su mano sobre la cabeza deH5564
+- Lev_4:4, Lev_4:24, Lev_4:29, Lev_4:33pondrá su mano sobre la cabezaH5564
+- Lev_4:7pondrá de esa sangre sobre los cuernosH5414
+- Lev_4:15los ancianos...pondrán sus manos sobre laH5564
+- Lev_4:18, Lev_4:25, Lev_4:30, Lev_4:34sangre pondrá sobre los cuernosH5414
+- Lev_5:11no pondrá...ella aceite, ni...p inciensoH7760
+- Lev_6:10y el sacerdote se pondrá, su vestiduraH3847
+- Lev_6:10las cenizas...las pondrá junto al altarH3847
+- Lev_6:11pondrá otras ropas, y sacará las cenizasH6584
+- Lev_6:12sacerdote pondrá en él leña cada mañanaH3518
+- Lev_8:7puso sobre él la túnica, y le ciñó con elH5414
+- Lev_8:7puso sobre él el efod, y lo ciñó con elH5414
+- Lev_8:8puso encima el pectoral, y p dentro delH7760
+- Lev_8:9puso la mitra sobre...p la lámina de oroH7760
+- Lev_8:14y Aarón Y sus hijos pusieron sus manosH5564
+- Lev_8:15puso con su dedo sobre los cuernos delH5414
+- Lev_8:18, Lev_8:22pusieron sus manos sobre la cabezaH5564
+- Lev_8:23sangre, y la puso sobre el lóbulo de laH5414
+- Lev_8:24puso Moisés de la sangre...el lóbulo deH5414
+- Lev_8:26una hojaldre, y lo puso con la grosuraH7760
+- Lev_8:27y lo puso todo en las manos de Aarón, yH5414
+- Lev_9:5vino...la congregación y se puso delanteH5975
+- Lev_9:9puso de ella sobre los cuernos del altarH5414
+- Lev_9:20pusieron las grosuras sobre los pechosH7760
+- Lev_10:1pusieron en ellos fuego...p incienso, yH5414
+- Lev_11:38si se hubiere puesto agua en la semillaH5414
+- Lev_14:14la pondrá el sacerdote sobre el lóbuloH5414
+- Lev_14:17del aceite...pondrá el sacerdote sobreH5414
+- Lev_14:18, Lev_14:29pondrá sobre la cabeza del que seH5414
+- Lev_14:25sangre...y la pondrá sobre el lóbulo deH5414
+- Lev_14:28sacerdote pondrá del aceite que tieneH5414
+- Lev_14:34si pusiere yo plaga de lepra en algunaH5414
+- Lev_14:42y las pondrán en lugar de las piedrasH935
+- Lev_16:13y pondrá el perfume sobre el fuegoH5414
+- Lev_16:18la pondrá sobre los cuernos del altarH5975
+- Lev_16:21y pondrá Aarón sus dos manos sobre laH5564
+- Lev_16:21poniéndolos...sobre la cabeza del machoH5414
+- Lev_16:23quitará...vestiduras...las pondrá allíH6584
+- Lev_16:24después de ponerse sus vestidos saldráH3847
+- Lev_17:10pondrá mi rostro contra la persona queH5414
+- Lev_18:4mis ordenanzas pondréis por obra, y mis
+- Lev_18:23ni mujer...se pondrá delante de animalH5975
+- Lev_19:14delante del ciego no pondrás tropiezoH5414
+- Lev_19:19y no te pondrás vestidos con mezcla deH5414
+- Lev_19:37guardad...ponedlos por obra. Yo Jehová
+- Lev_20:3, Lev_20:5pondré mi rostro contra aquel varónH5414, [[H7760]]
+- Lev_20:6pondré mi rostro contra la tal personaH5414
+- Lev_20:8, Lev_20:22mis estatutos...y ponedlos por obraH5414
+- Lev_22:7cuando el sol se pusiere, será limpioH935
+- Lev_22:22ni de ellos pondréis ofrenda encendidaH3320
+- Lev_24:4sobre el candelero puro pondrá siempre
+- Lev_24:6las pondrás en dos hileras, seis en cadaH7760
+- Lev_24:7pondrás...sobre cada hilera incienso puroH5414
+- Lev_24:8lo pondrá...en orden delante de Jehová
+- Lev_24:12y lo pusieron en la cárcel, hasta queH3240
+- Lev_24:14pongan sus manos sobre la cabeza de élH5564
+- Lev_25:18ponedlos por obra, y habitaréis en la
+- Lev_26:1ni pondréis en...tierra piedra pintadaH5414
+- Lev_26:3y guardareis...y los pusiereis por obra
+- Lev_26:10pondréis fuera lo añejo para guardar
+- Lev_26:11pondré mi morada en medio de vosotrosH5414
+- Lev_26:17pondré mi rostro contra vosotros, yH5414
+- Lev_26:30pondré vuestros cuerpos muertos sobreH5414
+- Lev_27:11animal será puesto delante...sacerdote
+- Núm_1:50pondrás a...levitas en el tabernáculoH6485
+- Núm_4:6y pondrán...la cubierta...le p sus varasH7760
+- Núm_4:7y pondrán sobre ella las escudillas, lasH5414
+- Núm_4:8, Núm_4:11lo cubrirán con...le pondrán sus varasH7760
+- Núm_4:10y lo pondrán con todos sus utensiliosH5414
+- Núm_4:12pondrán en un paño azul, y los cubriránH5414
+- Núm_4:14pondrán sobre él todos sus instrumentosH5414
+- Núm_4:14del altar...y le pondrán además las varas
+- Núm_4:19Aarón...pondrán a cada uno en su oficioH7760
+- Núm_5:15ni pondrá sobre ella incienso, porqueH5414
+- Núm_5:16se acerque y se ponga delante de JehováH5975
+- Núm_5:18y pondrá sobre sus manos la ofrendaH5414
+- Núm_6:18los cabellos...los pondrá sobre el fuegoH5414
+- Núm_6:19las pondrá sobre las manos del nazareoH5414
+- Núm_6:26Jehová alce su rostro y ponga en ti pazH7760
+- Núm_6:27pondrán mi nombre sobre los...de IsraelH5414
+- Núm_8:10pondrán los...sus manos sobre los levitasH5414
+- Núm_8:12los levitas pondrán sus manos sobre lasH5564
+- Núm_11:11puesto la carga...este pueblo sobre míH7760
+- Núm_11:17tomaré del espíritu...y pondré en ellosH7760
+- Núm_11:25tomó...y lo puso en los setenta varones
+- Núm_11:29Jehová pusiera su espíritu sobre ellosH5414
+- Núm_12:5Jehová descendió...y se puso a la puertaH5975
+- Núm_12:11no pongas...sobre nosotros este pecadoH7896
+- Núm_13:16Oscas...puso Moisés el nombre de Josué
+- Núm_14:12a ti te pondré sobre gente más grande
+- Núm_15:34y lo pusieron en la cárcel, porque noH3240
+- Núm_15:38y pongan en cada franja...un cordón deH5414
+- Núm_15:39os acordéis de...para ponerlos por obra
+- Núm_16:7poned fuego en ellos, y p en...inciensoH5414
+- Núm_16:16poneos mañana delante de Jehová; tú, y
+- Núm_16:17y poned incienso en ellos, y acercaosH5414
+- Núm_16:18pusieron en ellos fuego, y echaron enH7760
+- Núm_16:18se pusieron a la puerta del tabernáculoH5975
+- Núm_16:27pusieron a las puertas de sus tiendasH5324
+- Núm_16:46pon en él fuego del altar...p inciensoH7760
+- Núm_16:47él puso incienso, e hizo expiación porH5414
+- Núm_16:48se puso entre los muertos y los vivosH5975
+- Núm_17:4las pondrás en el tabernáculo de reuniónH3241
+- Núm_17:7Moisés puso las varas delante de JehováH3241
+- Núm_19:2sobre la cual no se haya puesto yugo
+- Núm_19:9vaca y las pondrá fuera del campamentoH3242
+- Núm_21:8una serpiente...y ponla sobre una astaH7760
+- Núm_21:9una serpiente...la puso sobre una astaH7760
+- Núm_21:29puestos sus hijos en huida, y sus hijas
+- Núm_22:22el ángel de Jehová se puso en el caminoH3320
+- Núm_22:24el ángel...se puso en una senda de viñasH5975
+- Núm_22:26el ángel de...se puso en una angosturaH5975
+- Núm_22:34no sabía que tú te ponías delante de míH5324
+- Núm_22:38la palabra que Dios pusiere en mi bocaH7760
+- Núm_23:3Balaam dijo...Ponte junto a...holocaustoH3320
+- Núm_23:5puso palabra en la boca de Balaam, y leH7760
+- Núm_23:12decir lo que Jehová ponga en mi boca?[[H7760]]
+- Núm_23:15ponte aquí junto a tu holocausto, y yoH3320
+- Núm_23:16Jehová...puso palabra en su boca, y leH7760
+- Núm_24:1sino...puso su rostro hacia el desiertoH7896
+- Núm_24:21fuerte es tu...pon en la peña tu nidoH7760
+- Núm_27:16ponga Jehová, Dios...un varón sobre la
+- Núm_27:18a Josué hijo...pondrás tu mano sobre élH5564
+- Núm_27:19pondrás delante del sacerdote EleazarH5975
+- Núm_27:20pondrás de tu dignidad sobre él, paraH5414
+- Núm_27:21pondrá delante del sacerdote EleazarH5975
+- Núm_27:22lo puso delante del sacerdote EleazarH5975
+- Núm_27:23y puso sobre él sus manos, y le dio elH5564
+- Núm_32:38y pusieron nombres a las ciudades queH7121
+- Núm_32:41Jair...y les puso por nombre Havot-jairH7121
+- Deu_1:13que yo los ponga por vuestros jefesH7760
+- Deu_1:15varones sabios y...y los puse por jefesH5414
+- Deu_2:25comenzaré a poner tu temor...sobre losH5414
+- Deu_4:6guardadlos...y ponedlos por obra; porque
+- Deu_4:8como...esta ley que yo pongo hoy delanteH5414
+- Deu_4:11y os pusisteis al pie del monte; y elH5975
+- Deu_4:13pacto, el cual os mandó poner por obra
+- Deu_4:14que los pusieseis por obra en la tierra
+- Deu_4:26pongo hoy por testigos al cielo y a la
+- Deu_4:44ley que Moisés puso delante de...IsraelH7760
+- Deu_5:1oye...guardadlos, para ponerlos por obraH7121
+- Deu_5:31a fin de que los pongan ahora por obra
+- Deu_6:1pongáis por obra en la tierra a la cual
+- Deu_6:3oye...y cuida de ponerlos por obra, para
+- Deu_6:25cuidemos de poner por obra todos estos
+- Deu_7:12y haberlos guardado y puesto por obra
+- Deu_7:15plagas de Egipto...no las pondrá sobreH7760
+- Deu_7:15pondrá sobre...los que te aborrecieren
+- Deu_8:1poner por obra todo mandamiento que yo
+- Deu_9:14yo te pondré sobre una nación fuerte y
+- Deu_10:2escribiré en...y las pondrás en el arcaH7760
+- Deu_10:5y puse las tablas en el arca que habíaH7760
+- Deu_11:18pondréis estas mis palabras en...corazónH7760
+- Deu_11:25miedo y temor de...pondrá Jehová...DiosH5414
+- Deu_11:26pongo hoy delante de...la bendición y laH5414
+- Deu_11:29pondrás la bendición sobre el monteH5414
+- Deu_12:1cuidaréis de poner por obra en la tierra
+- Deu_12:5, Deu_12:11, Deu_12:21escogiere...poner allí su nombreH7760, [[H7931]]
+- Deu_14:23-24; Deu_16:11lugar...poner allí su nombreH7931, [[H7760]]
+- Deu_16:18jueces y oficiales pondrás en todas tus
+- Deu_17:14pondré un rey sobre mí, como todas lasH7760
+- Deu_17:15pondrás por rey...al que Jehová tu DiosH7760
+- Deu_17:15de entre tus hermanos pondrás rey sobreH7760
+- Deu_17:15no podrás poner sobre ti a...extranjeroH5414
+- Deu_17:19para guardar todas...ponerlos por obra
+- Deu_18:18y pondré mis palabras en su boca, y élH5414
+- Deu_19:9estos mandamientos...ponerlos por obra
+- Deu_20:2se pondrá en pie el sacerdote y hablará
+- Deu_23:11cuando se hubiere puesto el sol, podrá
+- Deu_23:24podrás comer...no pondrás en tu cesto
+- Deu_24:13devolverás la prenda...el sol se pongaH7725
+- Deu_24:15no se pondrá el sol sin dárselo; pues
+- Deu_25:4no pondrás bozal al buey cuando trillare
+- Deu_26:2y las pondrás en una canasta, e irás alH7760
+- Deu_26:4y la pondrá delante del altar de JehováH3240
+- Deu_26:6y pusieron sobre nosotros...servidumbreH5414
+- Deu_26:16cuida, pues, de ponerlos por obra con
+- Deu_27:15escultura o imagen...pusiere en ocultoH7760
+- Deu_28:1poner por obra todos sus mandamientosH6213
+- Deu_28:8y sobre todo...en que pusieres tu mano
+- Deu_28:13te pondrá Jehová por cabeza, y no porH5414
+- Deu_28:20y asombro en todo cuanto pusieres manoH4916
+- Deu_28:36y al rey que hubieres puesto sobre tiH6965
+- Deu_28:48pondrá yugo de hierro sobre tu cuelloH5414
+- Deu_28:52pondrá sitio...tus ciudades, hasta que
+- Deu_28:58si no cuidares de poner por obra todas
+- Deu_29:9guardaréis, pues...las pondréis por obra
+- Deu_30:7y pondrá Jehová todas estas maldicionesH5414
+- Deu_30:8pondrás por obra todos sus mandamientos
+- Deu_30:15he puesto delante de ti hoy la vida yH5414
+- Deu_30:19que os he puesto delante la vida y laH5414
+- Deu_31:15la columna de...se puso sobre la puerta
+- Deu_31:19ponlo en boca de ellos, para que esteH7760
+- Deu_31:26este libro...y ponedlo al lado del arcaH7760
+- Deu_33:10pondrán el incienso delante de ti, y el
+- Deu_34:9Moisés había puesto sus manos sobre élH5564
+- Jos_1:4hasta el gran mar donde se pone el sol
+- Jos_2:6manojos de lino que tenía puestos en el
+- Jos_6:23y los pusieron fuera del campamento de
+- Jos_6:24pusieron en el tesoro...la plata y el oroH5414
+- Jos_7:23trajeron...lo pusieron delante de JehováH3322
+- Jos_8:2pondrás...emboscada a la ciudad detrás deH7760
+- Jos_8:4atended, pondréis emboscada a la ciudad
+- Jos_8:9fueron...se pusieron entre Bet-el y HaiH3427
+- Jos_8:12como 5.000 hombres...puso en emboscadaH7760
+- Jos_8:14puesta emboscada a espaldas de la ciudad
+- Jos_8:29cuando el sol se puso, mandó Josué que
+- Jos_10:13el sol...no se apresuró a ponerse casiH5975
+- Jos_10:18y poned hombres...para que los guardenH6485
+- Jos_10:24poned vuestros pies sobre los cuellosH7760
+- Jos_10:24y pusieron sus pies sobre los cuellosH7760
+- Jos_10:27y cuando el sol se iba a poner, mandó
+- Jos_10:27pusieron grandes piedras a la entradaH7760
+- Jos_11:11y mataron a...y a Hazor pusieron fuego
+- Jos_22:25ha puesto por lindero el Jordán entre
+- Jos_22:34de Gad pusieron por nombre al altar Ed
+- Jos_23:4el Jordán hasta...donde se pone el sol
+- Jos_24:7el puso oscuridad entre vosotros y losH7760
+- Jue_1:8Jerusalén...pusieron fuego a la ciudadH7971
+- Jue_1:17en Sefat...y pusieron por nombre...HormaH7121
+- Jue_1:23y la casa de José puso espías en Bet-el
+- Jue_3:26Aod escapó, y...se puso a salvo en Seirat
+- Jue_4:21pero Jael...poniendo un mazo en su mano
+- Jue_5:2haberse puesto al frente los caudillos en
+- Jue_6:18saque mi ofrenda y la ponga delante deH3240
+- Jue_6:19y puso la carne en un canastillo, y elH7760
+- Jue_6:20y ponlos sobre esta peña, y vierte elH5975
+- Jue_6:37yo pondré un vellón de lana en la eraH3322
+- Jue_7:5lamiere las aguas...aquél pondrás aparteH3322
+- Jue_7:22puso la espada de...contra su compañeroH7760
+- Jue_8:31un hijo, y le puso por nombre AbimelecH7760
+- Jue_9:7fue y se puso en la cumbre del monte deH5975
+- Jue_9:18habéis puesto por rey...a Abimelec hijo
+- Jue_9:25los de Siquem pusieron...asechadores queH7760
+- Jue_9:26de Siquem pusieron en él su confianza
+- Jue_9:32levántate...y pon emboscadas en el campo
+- Jue_9:34pusieron emboscada contra Siquem con 4
+- Jue_9:35y Gaal...puso a la entrada de la puertaH5975
+- Jue_9:43y puso emboscadas en el campo; y cuando
+- Jue_9:48una rama...se la puso sobre sus hombrosH7760
+- Jue_9:49y las pusieron junto a la fortaleza, yH7760
+- Jue_9:50Tebes, y puso sitio a Tebes, y la tomó
+- Jue_13:24un hijo, y le puso por nombre SansónH7121
+- Jue_14:18antes que el sol se pusiese, los de la
+- Jue_15:4fue...y puso una tea entre cada dos colasH7760
+- Jue_16:25a Sansón...pusieron entre las columnasH5975
+- Jue_17:4cual fue puesta en la casa de MicaíasH5414
+- Jue_18:9no seáis perezosos en poneros en marcha
+- Jue_18:19pon la mano sobre tu boca, y vente conH7760
+- Jue_18:21y pusieron los niños, el ganado y elH7760
+- Jue_19:14se les puso el sol junto a Gabaa, que
+- Jue_20:29y puso Israel emboscadas alrededor deH7760
+- Jue_20:33y se pusieron en orden de batalla enH4725
+- Jue_20:36emboscadas que habían puesto detrás deH5414
+- Jue_20:48pusieron fuego a todas las ciudades queH7971
+- Jue_21:20id, y poned emboscadas en las viñas
+- Rut_1:20porque en grande amargura me ha puestoH7121
+- Rut_3:15midió seis medidas...se las puso encimaH7896
+- Rut_4:16Noemí...puso en su regazo, y fue su ayaH7896
+- 1Sa_1:20le puso por nombre Samuel, diciendoH7121
+- 1Sa_5:2la metieron...y la pusieron junto a DagónH3322
+- 1Sa_6:7a las cuales no haya sido puesto yugo
+- 1Sa_6:8el arca de...y la pondréis sobre el carroH5414
+- 1Sa_6:8las joyas...pondréis en una caja al ladoH7760
+- 1Sa_6:11luego pusieron el arca...sobre el carroH7760
+- 1Sa_6:15las pusieron sobre aquella gran piedraH7760
+- 1Sa_6:18piedra sobre la cual pusieron el arcaH3240
+- 1Sa_7:1el arca...la pusieron en casa de Abinadab
+- 1Sa_7:12tomó...una piedra y la puso entre MizpaH7760
+- 1Sa_7:12le puso por nombre Eben-ezer, diciendoH7121
+- 1Sa_8:1envejecido, puso a sus hijos por jueces
+- 1Sa_8:11vuestros hijos...los pondrá en sus carrosH7760
+- 1Sa_8:12pondrá...a que aren sus campos y sieguenH7760
+- 1Sa_8:22dijo...Oye su voz, y pon rey sobre ellos
+- 1Sa_9:24la puso delante de Saúl...ponlo delanteH7760
+- 1Sa_10:19y habéis dicho...pon rey sobre nosotrosH7760
+- 1Sa_10:23puesto en medio, era mas alto que todoH3320
+- 1Sa_11:2y ponga esta afrenta sobre todo IsraelH7760
+- 1Sa_12:1he oído vuestra voz...y os he puesto rey
+- 1Sa_12:13que Jehová ha puesto rey sobre vosotrosH5414
+- 1Sa_14:21se pusieron del lado de los israelitas
+- 1Sa_14:24de Israel...puestos en apuro aquel día
+- 1Sa_15:5y viniendo...puso emboscada en el valle
+- 1Sa_15:11pesa haber puesto por rey a Saúl, porqueH4427
+- 1Sa_15:35se arrepentía de haber puesto a Saúl
+- 1Sa_17:2se pusieron en orden de batalla contra
+- 1Sa_17:8¿para qué os habéis puesto en orden deH5975
+- 1Sa_17:21pusieron en orden de batalla Israel y
+- 1Sa_17:23aquel paladín que se ponía en medio de
+- 1Sa_17:38Saúl...puso sobre su cabeza un casco deH5414
+- 1Sa_17:40piedras...las puso en el saco pastorilH7760
+- 1Sa_17:51entonces corrió David y se puso sobreH5975
+- 1Sa_17:54las armas de él las puso en su tiendaH7760
+- 1Sa_18:5lo puso Saúl sobre gente de guerra, y eraH7760
+- 1Sa_19:13una estatua, y la puso sobre la camaH7760
+- 1Sa_21:6para poner panes calientes el día queH7760
+- 1Sa_21:12David puso en su corazón estas palabrasH7760
+- 1Sa_23:8para descender a...y poner sitio a DavidH8085
+- 1Sa_23:28pusieron a...por nombre Sela-hama-lecotH7121
+- 1Sa_24:10Jehová te ha puesto hoy en mis manos
+- 1Sa_26:13David...se puso en la cumbre del monteH5975
+- 1Sa_28:8disfrazó Saúl, y se puso otros vestidosH3847
+- 1Sa_28:9¿por qué, pues, pones tropiezo a mi vida
+- 1Sa_28:22pondré yo delante de ti un bocado deH7760
+- 1Sa_30:14una incursión...pusimos fuego a Siclag
+- 1Sa_31:10y pusieron sus armas en el templo deH7760
+- 2Sa_1:9te ruego que te pongas sobre mí y me
+- 2Sa_1:10yo entonces me puse sobre él y le matéH5975
+- 2Sa_2:24puso el sol cuando llegaron al collado
+- 2Sa_3:35si antes que se ponga el sol gustare yo
+- 2Sa_5:9y le puso por nombre la Ciudad de DavidH7121
+- 2Sa_6:3pusieron el arca de Dios sobre un carroH7392
+- 2Sa_6:17la pusieron en...en medio de una tiendaH3322
+- 2Sa_7:11el día en que puse jueces sobre...Israel
+- 2Sa_7:18entró...David y se puso delante de JehováH3427
+- 2Sa_7:23ponerle nombre, y para hacer grandezas
+- 2Sa_8:6puso luego David guarnición en Siria deH7760
+- 2Sa_8:14y puso guarnición en Edom...p guarniciónH7760
+- 2Sa_10:8Amón, se pusieron en orden de batalla a
+- 2Sa_10:9se puso en orden dé batalla contra los
+- 2Sa_10:17sitios se pusieron en orden de batalla
+- 2Sa_11:15poned a Urías al frente, en lo más recioH3051
+- 2Sa_11:16puso a Urías en el lugar donde sabía que
+- 2Sa_12:20vino a su...y le pusieron pan, y comióH7760
+- 2Sa_12:27he puesto sitio a Rabá, y he tomado la
+- 2Sa_12:30y fue puesta sobre la cabeza de David
+- 2Sa_13:11y cuando ella se las puso delante para
+- 2Sa_13:19puesta su mano sobre su cabeza, se fueH7760
+- 2Sa_13:33no ponga mi señor el rey en su corazón
+- 2Sa_14:3rey...Y puso Joab las palabras en su bocaH7760
+- 2Sa_14:19puso en boca de tu sierva todas estasH7760
+- 2Sa_15:2Absalón...se ponía a un lado del caminoH7121
+- 2Sa_15:4¡quien me pusiera por juez en la tierra
+- 2Sa_16:22pusieron para Absalón una tienda sobreH7896
+- 2Sa_17:23después de poner su casa en orden, seH7760
+- 2Sa_18:1y puso sobre ellos jefes de millares yH7760
+- 2Sa_18:4puso el rey a la entrada de la puertaH5975
+- 2Sa_18:30rey dijo: Pasa, y ponte allí. Y él pasóH5975
+- 2Sa_19:28tú pusiste a tu siervo entre...tu mesa
+- 2Sa_20:3puso en reclusión, y les dio alimentosH5414
+- 2Sa_20:15y pusieron baluarte contra la ciudadH5975
+- 2Sa_22:12puso tinieblas por su...alrededor de sí
+- 2Sa_23:23lo puso David como jefe de su guardiaH7760
+- 1Re_1:7se había puesto de acuerdo con Joab
+- 1Re_1:20los ojos de...Israel están puestos en ti
+- 1Re_1:28ella entró a...y se puso delante del reyH5975
+- 1Re_2:5poniendo sangre de...en el talabarte queH5414
+- 1Re_2:15todo Israel había puesto en mí su rostroH7760
+- 1Re_2:24Jehová...me ha puesto sobre el tronoH3427
+- 1Re_2:35el rey puso en su lugar a Benaía hijo de
+- 1Re_2:35y a Sadoc puso el rey por sacerdote enH5414
+- 1Re_3:7me has puesto a mí...por rey en lugar de
+- 1Re_3:20hijo...lo puso a su lado, y p al lado míoH7901
+- 1Re_5:3hasta que Jehová puso sus enemigos bajoH5414
+- 1Re_5:5tu hijo, a quien yo pondré en lugar tuyoH5414
+- 1Re_6:19poner allí el arca del pacto de JehováH5414
+- 1Re_6:27puso...querubines dentro de la casa enH5414
+- 1Re_7:16que fuesen puestos sobre las...columnasH5414
+- 1Re_7:17capiteles que se habían de poner sobre
+- 1Re_7:21la columna...le puso por nombre JaquínH7121
+- 1Re_7:22y puso en las cabezas de las columnas
+- 1Re_7:39puso cinco basas a la mano derecha deH5414
+- 1Re_8:9tablas...que allí había puesto Moisés enH3240
+- 1Re_8:21y he puesto en ella lugar para el arcaH7760
+- 1Re_8:22luego se puso Salomón delante del altarH5975
+- 1Re_8:55puesto en pie, bendijo a toda...IsraelH5975
+- 1Re_9:3para poner mi nombre en ella para siempreH7760
+- 1Re_9:6mis estatutos que yo he puesto delante deH5414
+- 1Re_9:13les puso por nombre, la tierra de CabulH7121
+- 1Re_10:9se agradó de ti para ponerte en el tronoH5414
+- 1Re_10:9puesto por rey, para que hagas derechoH5414
+- 1Re_10:17el rey los puso en la casa del bosqueH5414
+- 1Re_10:20leones puestos...sobre las seis gradasH5975
+- 1Re_10:24la sabiduría que Dios había puesto enH5414
+- 1Re_10:26los...puso en las ciudades de los carros
+- 1Re_11:36ciudad...para poner en ella mi nombreH7760
+- 1Re_12:4del yugo pesado que puso sobre nosotrosH5414
+- 1Re_12:9yugo que tu padre puso sobre nosotros?[[H5414]]
+- 1Re_12:29y puso uno en Bet-el, y el otro en DanH7760
+- 1Re_13:29el cuerpo del varón...puso sobre el asnoH3241
+- 1Re_13:30y puso el cuerpo en su sepulcro; y leH3241
+- 1Re_13:31poned mis huesos junto a los suyosH7760
+- 1Re_14:12y al poner tu pie en la ciudad, morirá
+- 1Re_14:21eligió de...para poner allí su nombreH7760
+- 1Re_14:28los ponían en la cámara de...a guardia
+- 1Re_16:2y te puse por príncipe sobre mi pueblo
+- 1Re_16:3pondré su casa como la casa de Jeroboam
+- 1Re_16:16puso...rey sobre Israel a Omri, general
+- 1Re_16:34a precio de Segub su hijo menor pusoH5324
+- 1Re_17:19él lo tomó de...y lo puso sobre su camaH7901
+- 1Re_18:23y pónganlo sobre leña, pero no ponganH7760
+- 1Re_18:23lo pondré sobre leña, y ningún fuego pH7760
+- 1Re_18:25e invocad...mas no pongáis fuego debajoH7760
+- 1Re_18:33cortó el buey...y lo puso sobre la leñaH7760
+- 1Re_18:42Elías...puso su rostro entre las rodillasH7760
+- 1Re_19:2si...no he puesto tu persona como la de
+- 1Re_19:11y ponte en el monte delante de JehováH5975
+- 1Re_19:13salió, se puso a la puerta de la cuevaH5975
+- 1Re_20:24saca a los...y pon capitanes en lugar deH7760
+- 1Re_20:31pongamos...cilicio en nuestros lomos, yH7760
+- 1Re_20:38y el profeta...se puso delante del reyH5875
+- 1Re_20:38disfrazó, poniéndose una venda sobreH5975
+- 1Re_21:9así...poned a Nabot delante del puebloH3427
+- 1Re_21:10poned a dos hombres perversos delanteH3427
+- 1Re_21:12y pusieron a Nabot delante del puebloH3427
+- 1Re_21:22y pondré tu casa como la...de Jeroboam
+- 1Re_21:27y puso cilicio sobre su carne, ayunóH7901
+- 1Re_22:21salió un espíritu, y se puso delanteH5975
+- 1Re_22:23Jehová ha puesto espíritu de mentiraH5414
+- 1Re_22:30y tú ponte tus vestidos. Y el rey deH3847
+- 2Re_1:13se puso de rodillas delante de Elías
+- 2Re_2:20una vasija nueva, y poned en ella salH7760
+- 2Re_3:21juntaron...y se pusieron en la fronteraH5975
+- 2Re_4:4y cuando un...esté llena, ponla aparteH5265
+- 2Re_4:10aposento de...y pongamos allí cama, mesaH7760
+- 2Re_4:21subió, y lo puso sobre la cama del varónH7901
+- 2Re_4:29pondrás mi báculo sobre el rostro delH7760
+- 2Re_4:31había puesto el báculo sobre el rostroH7760
+- 2Re_4:34poniendo su boca sobre la boca de élH7901
+- 2Re_4:38pon una olla grande, y haz potaje paraH3239
+- 2Re_4:43pondré esto delante de cien hombres?[[H5414]]
+- 2Re_4:44lo puso delante de ellos, y comieronH5414
+- 2Re_5:15se puso delante de él, y dijo: He aquíH5975
+- 2Re_5:23y lo puso todo a cuestas a dos de susH5414
+- 2Re_5:25él entró, y se puso delante de su señorH5975
+- 2Re_6:22pon delante de ellos pan y agua, para queH7760
+- 2Re_7:17el rey puso a la puerta a aquel príncipeH6485
+- 2Re_8:9Hazael...se puso delante de él, y dijo: TuH5975
+- 2Re_8:15y lo puso sobre el rostro de Ben-adadH6566
+- 2Re_8:20rebeló Edom...y pusieron rey sobre ellos
+- 2Re_9:9yo pondré la casa de Acab como la casa de
+- 2Re_9:13lo puso debajo de Jehú en un trono altoH7760
+- 2Re_10:3y ponedlo en el trono de su padre, yH7760
+- 2Re_10:7pusieron sus cabezas en canastas, y seH7760
+- 2Re_10:8ponedlas en dos montones a la entradaH7760
+- 2Re_10:16verás...Lo pusieron, pues, en su carro
+- 2Re_10:24Jehú puso fuera a 80 hombres, y lesH7760
+- 2Re_10:24hombres que yo he puesto en vuestras
+- 2Re_11:11los de la guardia se pusieron en filaH5975
+- 2Re_11:12rey, le puso la corona y el testimonioH5414
+- 2Re_11:18el sacerdote puso guarnición sobre laH7760
+- 2Re_12:9un arca...y la puso junto al altar, a laH5414
+- 2Re_12:9sacerdotes...ponían allí todo el dineroH5414
+- 2Re_13:7había puesto como el polvo para hollar
+- 2Re_13:16pon tu mano sobre el arco. Y puso élH7392
+- 2Re_13:16puso Eliseo sus manos sobre las manosH7760
+- 2Re_16:14puso al lado del altar hacia el norteH5414
+- 2Re_16:17él, y lo puso sobre el suelo de piedraH5414
+- 2Re_16:19los demás hechos que puso por obra Acaz
+- 2Re_17:6y los puso en Halah, en Habor junto alH3427
+- 2Re_17:24y los puso en las ciudades de SamariaH3427
+- 2Re_17:26gentes que tú...pusiste en...de SamariaH3427
+- 2Re_17:29y los pusieron en los templos de losH3240
+- 2Re_17:34Jacob, al cual puso el nombre de Israel
+- 2Re_17:37cuidaréis...de ponerlos por obra, y no
+- 2Re_18:5en Jehová...de Israel puso su esperanza
+- 2Re_18:11y los puso en Halab, en Habor junto alH5148
+- 2Re_18:12no las habían escuchado, ni puesto por
+- 2Re_18:28el Rabsaces se puso en pie y clamó aH5975
+- 2Re_19:7he aquí pondré yo en él un espíritu, yH5414
+- 2Re_19:28yo pondré mi garfio en tu nariz, y miH7760
+- 2Re_20:7tomándola, la pusieron sobre la llagaH7760
+- 2Re_21:4dicho: Yo pondré mi nombre en JerusalénH7760
+- 2Re_21:7puso una imagen...que él había hecho, enH7760
+- 2Re_21:7pondré mi nombre...siempre en esta casaH7760
+- 2Re_21:24puso...por rey en su lugar a Josías su
+- 2Re_22:5lo pongan en manos de los que hacen la
+- 2Re_23:3y poniéndose el rey en pie...hizo pactoH5975
+- 2Re_23:5quitó a...sacerdotes...que habían puestoH7673
+- 2Re_23:15lo hizo polvo, y puso fuego a la imagen
+- 2Re_23:30y sus siervos lo pusieron en un carroH7392
+- 2Re_23:30tomó a Joacaz...y lo pusieron por rey enH5975
+- 2Re_23:33lo puso preso Faraón Necao en Ribla en
+- 2Re_23:34Faraón Necao puso por rey a Eliaquim
+- 2Re_24:17rey...puso por rey en lugar de Joaquín
+- 2Re_25:22puso por gobernador a Gedalías hijo de
+- 2Re_25:23el rey...había puesto por gobernador a
+- 2Re_25:28puso su trono más alto que los tronosH5414
+- 1Cr_6:31que David puso sobre el servicio deH5975
+- 1Cr_6:48los levitas fueron puestos sobre todo elH5414
+- 1Cr_7:23un hijo, al cual puso por nombre BeríaH7121
+- 1Cr_9:32los panes...los cuales ponían por orden
+- 1Cr_10:10y pusieron sus armas en el templo deH7760
+- 1Cr_11:14pusieron ellos en medio de la parcelaH3320
+- 1Cr_11:25éste puso David en su guardia personalH7760
+- 1Cr_12:18y David...los puso entre los capitanesH5414
+- 1Cr_12:31Manasés...venir a poner a David por rey
+- 1Cr_12:38para poner a David por rey sobre todo
+- 1Cr_12:38un mismo ánimo para poner a David por
+- 1Cr_14:17y Jehová puso el temor de David sobre
+- 1Cr_15:22puesto para dirigir el canto, porqueH3256
+- 1Cr_16:1el arca...pusieron en medio de la tiendaH3322
+- 1Cr_16:4puso delante del arca de...los levitasH5414
+- 1Cr_17:10y desde el tiempo que puse los jueces
+- 1Cr_18:6y puso David guarnición en...de DamascoH7760
+- 1Cr_18:13puso guarnición en Edom, y todos losH7760
+- 1Cr_19:11puso luego el resto de la gente en manoH5414
+- 1Cr_20:2y fue puesta sobre la cabeza de David
+- 1Cr_20:3sacó...al pueblo...y lo puso a trabajar
+- 1Cr_22:13poner por obra los estatutos y decretos
+- 1Cr_22:19poned...corazones...en buscar a JehováH5414
+- 1Cr_26:10Simri el jefe...padre lo puso por jefe
+- 1Cr_27:24el número no fue puesto en el registroH5927
+- 1Cr_28:2el rey David, puesto en pie dijo: OídmeH6965
+- 1Cr_28:4para ponerme por rey sobre todo Israel
+- 1Cr_28:7si él se esforzare a poner por obra mis
+- 2Cr_1:8a mí me has puesto por rey en lugar
+- 2Cr_1:9tú me has puesto por rey sobre un pueblo
+- 2Cr_1:11a mi pueblo, sobre el cual te he puesto
+- 2Cr_1:14carros...los cuales puso en las ciudadesH3240
+- 2Cr_2:11Jehová...ha puesto por rey sobre ellosH5414
+- 2Cr_3:16cadenas...y las puso sobre los capitelesH5414
+- 2Cr_3:16hizo cien granadas...puso en las cadenasH5414
+- 2Cr_4:6diez fuentes, y puso cinco a la derechaH5414
+- 2Cr_4:7diez candeleros de oro...puso en el temploH5414
+- 2Cr_4:8hizo diez mesas y las puso en el temploH3240
+- 2Cr_4:19las mesas sobre las cuales se ponían los
+- 2Cr_5:1Salomón...puso la plata...en los tesoros deH5414
+- 2Cr_5:10las dos tablas que Moisés había puestoH5414
+- 2Cr_6:11y en ella he puesto el arca, en la cualH7760
+- 2Cr_6:12se puso...Salomón delante del altar deH5975
+- 2Cr_6:13un estrado...puesto en medio del atrioH5414
+- 2Cr_6:13puso sobre él, y se arrodilló delanteH5414
+- 2Cr_7:19mandamientos que he puesto delante deH5414
+- 2Cr_7:20la pondré por burla y escarnio de todosH5414
+- 2Cr_8:9hijos de Israel no puso Salomón siervosH5414
+- 2Cr_8:16el día en que se pusieron los cimientos
+- 2Cr_9:8para ponerte sobre su trono como rey paraH5414
+- 2Cr_9:8por eso te ha puesto por rey sobre ellos
+- 2Cr_9:16y los puso el rey en la casa del bosqueH5414
+- 2Cr_9:25los cuales puso en las ciudades de los
+- 2Cr_10:9algo del yugo que tu padre puso sobreH5414
+- 2Cr_11:11fortalezcas, y puso en ellas capitanesH5414
+- 2Cr_11:12y en todas las ciudades puso escudos y
+- 2Cr_11:16que habían puesto su corazón en buscarH5414
+- 2Cr_11:22puso Roboam a Abías hijo de...por jefe
+- 2Cr_12:13en Jerusalén...poner en ella su nombreH7760
+- 2Cr_13:11y ponen los panes sobre la mesa limpia
+- 2Cr_14:4mandó a Judá...pusiese por obra la ley y
+- 2Cr_16:14pusieron en un ataúd, el cual llenaronH7901
+- 2Cr_17:2puso ejércitos en todas las ciudadesH5414
+- 2Cr_17:19sin los que el rey había puesto en lasH5414
+- 2Cr_18:20salió un espíritu que se puso delanteH5975
+- 2Cr_18:22puesto espíritu de mentira en la bocaH5414
+- 2Cr_18:26poned a éste en la cárcel...con pan deH7760
+- 2Cr_18:34en el carro...y murió al ponerse el sol
+- 2Cr_19:5puso jueces en todas las ciudades...JudáH5975
+- 2Cr_19:8puso...Josafat en Jerusalén a algunos deH5975
+- 2Cr_20:5Josafat se puso en pie en la asambleaH5975
+- 2Cr_20:21pueblo, puso a algunos que cantasen yH5975
+- 2Cr_20:22Jehová puso contra los hijos de AmónH5414
+- 2Cr_21:8se rebeló Edom...y pusieron rey sobre sí
+- 2Cr_23:10puso en orden a todo el pueblo...espadaH5975
+- 2Cr_23:11hijo del rey, y le pusieron la coronaH5414
+- 2Cr_23:19puso también porteros a las puertas de
+- 2Cr_24:5vosotros poned diligencia en el asunto
+- 2Cr_24:5pero los levitas no pusieron diligencia
+- 2Cr_24:8un arca, la cual pusieron fuera, a laH5414
+- 2Cr_24:11estaba puesto por el sumo sacerdote, yH7725
+- 2Cr_24:20puesto en pie, donde estaba más altoH5975
+- 2Cr_25:5les puso jefes de millares y de centenas
+- 2Cr_25:5puso en lista a todos los de veinte años
+- 2Cr_25:14y los puso ante si por dioses, y losH5975
+- 2Cr_25:16¿te han puesto a ti por consejero delH5414
+- 2Cr_26:1lo pusieron por rey en lugar de Amasías
+- 2Cr_26:18se pusieron contra el rey Uzías, y le
+- 2Cr_29:23expiación, y pusieron sobre ellos susH5564
+- 2Cr_29:25puso...levitas en la casa de Jehová conH5975
+- 2Cr_30:27sacerdotes...puestos en pie, bendijeron
+- 2Cr_32:6puso capitanes de guerra sobre el puebloH5414
+- 2Cr_33:7puso una imagen...en la casa de Dios, deH7760
+- 2Cr_33:7en esta...pondré mi nombre para siempreH7760
+- 2Cr_33:12fue puesto en angustias, oró a Jehová
+- 2Cr_33:14y puso capitanes de ejército en todasH7760
+- 2Cr_33:25el pueblo...puso por rey en su lugar a
+- 2Cr_34:4imágenes del sol, que estaban puestas
+- 2Cr_34:31poniendo por obra...palabras del pactoH5975
+- 2Cr_35:2puso...a los sacerdotes en sus oficiosH5975
+- 2Cr_35:3dijo...Poned el arca santa en la casa queH5414
+- 2Cr_35:24pusieron en un segundo carro que teníaH7392
+- 2Cr_36:7y los puso en su templo en BabiloniaH935
+- Esd_1:7había puesto en la casa de sus diosesH5414
+- Esd_3:8y pusieron a los levitas de veinte añosH5329
+- Esd_3:10pusieron a los sacerdotes vestidos deH5975
+- Esd_5:8los maderos están puestos en las paredesH7760
+- Esd_5:14a quien había puesto por gobernadorH7761
+- Esd_5:16este Sesbasar vino y puso los cimientosH3052
+- Esd_6:5de oro...sean puestos en la casa de DiosH5182
+- Esd_6:12pueblo que pusiere su mano para cambiarH7972
+- Esd_6:18pusieron a los sacerdotes en sus turnosH6966
+- Esd_7:25pon jueces...gobiernen a todo el puebloH4483
+- Esd_7:27que puso tal cosa en el corazón del reyH5414
+- Esd_8:17puse en boca de ellos las palabras que
+- Esd_8:20puso para el ministerio de los levitasH5414
+- Esd_10:4contigo; esfuérzate...pon mano a la obra
+- Neh_1:9los pusiereis por obra...os recogeréH7931
+- Neh_2:12lo que Dios había puesto en mi corazónH5414
+- Neh_4:9pusimos guarda contra ellos de día y deH5975
+- Neh_4:13puse al pueblo por familias, con susH5975
+- Neh_6:1no había puesto las hojas en las puertasH5975
+- Neh_6:7y que has puesto profetas que proclamenH5975
+- Neh_7:5puso Dios en mi corazón que reuniese a losH5414
+- Neh_8:8leían en el libro de...y ponían el sentidoH7760
+- Neh_9:3puestos de pie...leyeron el libro de la leyH6965
+- Neh_9:7a Abram...y le pusiste el nombre AbrahamH7760
+- Neh_9:17pensaron poner caudillo para volverse aH5414
+- Neh_9:34padres no pusieron por obra tu ley, ni
+- Neh_9:37los reyes que has puesto sobre nosotrosH5414
+- Neh_12:31puse dos coros grandes que fueron enH5975
+- Neh_12:44puestos varones sobre las cámaras deH6485
+- Neh_13:11Y los reuní y los puse en sus puestosH5975
+- Neh_13:13y puse por mayordomo de ellos al...Sadoc
+- Neh_13:19puse a las puertas algunos de...criadosH5975
+- Neh_13:26y Dios lo había puesto por rey sobreH5414
+- Neh_13:30puse a los sacerdotes...por sus gruposH5975
+- Est_2:3y ponga el rey personas en todas lasH6485
+- Est_2:17y puso la corona real en su cabeza, yH7760
+- Est_2:21procuraban poner mano en el rey AsueroH7971
+- Est_3:1honró, y puso su silla sobre todos losH7760
+- Est_3:6tuvo en poco poner mano en MardoqueoH7971
+- Est_4:5que él había puesto al servicio de ellaH5975
+- Est_6:2procurado poner mano en el rey AsueroH7971
+- Est_8:2Ester puso a Mardoqueo sobre la casa deH5414
+- Est_8:4y Ester...se puso en pie delante del reyH5975
+- Est_9:16y se pusieron en defensa de su vida, yH5975
+- Job_1:12solamente no pongas tu mano sobre élH7971
+- Job_5:11pone a los humildes en altura, y a losH7760
+- Job_7:12un monstruo...para que me pongas guarda?[[H7760]]
+- Job_7:17y pata que pongas sobre él tu corazón
+- Job_7:20si...¿por qué me pones por blanco tuyo
+- Job_9:33no hay...árbitro que ponga su mano sobreH7896
+- Job_12:6cuyas manos él ha puesto cuanto tienenH935
+- Job_13:27pones...mis pies en el cepo, y observas
+- Job_14:5pusiste límites, de los cuales no pasaráH6213
+- Job_14:13pusieses plazo, y de mí te acordaras![[H7896]]
+- Job_16:12me despedazó, y me puso por blanco suyoH6965
+- Job_16:15mi piel, y puse mi cabeza en el polvoH5953
+- Job_17:6él me ha puesto por refrán de pueblosH3322
+- Job_17:12pusieron la noche por día, y la luz seH7760
+- Job_18:2¿cuándo pondréis fin a las palabras?[[H7760]]
+- Job_20:4desde...que fue puesto el hombre sobre laH7760
+- Job_21:5espantaos, y poned la mano sobre la bocaH7760
+- Job_22:22la ley...pon sus palabras en tu corazónH7760
+- Job_26:10puso límite a la superficie de...aguas
+- Job_28:3a las tinieblas ponen término, y examinanH7760
+- Job_28:9en el pedernal puso su mano, y trastornóH7971
+- Job_28:25al viento, y poner las aguas por medidaH6213
+- Job_29:9palabras; ponían la mano sobre su bocaH7760
+- Job_30:1yo desdeñara poner con los perros de miH7896
+- Job_31:24si puse en el oro mi esperanza, y dijeH7760
+- Job_33:5si puedes; ordena tus palabras, ponteH3201
+- Job_33:11puso mis pies en el cepo, y vigilóH7760
+- Job_34:13¿y quién puso en orden todo el mundo?[[H7760]]
+- Job_34:14él pusiese sobre el hombre su corazónH5975
+- Job_36:7con los reyes los pondrá en trono para
+- Job_37:15cómo Dios las pone en concierto, y haceH7760
+- Job_38:6basas? ¿o quién puso su piedra angularH3384
+- Job_38:9cuando puse yo nubes por vestidura suyaH7760
+- Job_38:10mi decreto, le puse puertas y cerrojoH7760
+- Job_38:36quién puso la sabiduría en el corazón?[[H7896]]
+- Job_38:37¿quién puso por cuenta los cielos con
+- Job_39:6asno...al cual yo puse casa en la soledadH7760
+- Job_39:27se remonta el...y pone en alto su nido?
+- Job_40:4yo soy vil...Mi mano pongo sobre mi bocaH7760
+- Job_41:2¿pondrás tú soga en sus narices...garfioH7760
+- Job_41:8pon tu mano sobre él; te acordarás de laH7760
+- Sal_2:6pero yo he puesto mi rey sobre Sion
+- Sal_3:6de gente, que pusieren sitio contra míH7896
+- Sal_7:5mi vida, y mi honra ponga en el polvoH7931
+- Sal_8:1has puesto tu gloria sobre los cielosH5414
+- Sal_8:6manos; todo lo pusiste debajo de sus piesH7896
+- Sal_9:20pon...Jehová, temor en ellos; conozcanH7896
+- Sal_12:5pondré en salvo al que por ello suspiraH7896
+- Sal_13:2¿hasta cuándo pondré consejos en mi alma
+- Sal_16:8Jehová he puesto siempre delante de míH7737
+- Sal_17:3me has puesto a prueba, y nada inicuoH6884
+- Sal_17:11tienen puestos sus ojos para echarnosH7896
+- Sal_18:11puso tinieblas por su escondedero, porH7896
+- Sal_19:4en ellos puso tabernáculo para el solH7760
+- Sal_21:3corona de...has puesto sobre su cabezaH7896
+- Sal_21:5honra y majestad has puesto sobre élH7737
+- Sal_21:9los pondrás como horno de fuego en elH7896
+- Sal_21:12tú los pondrás en fuga; en tus cuerdas
+- Sal_22:15me has puesto en el polvo de la muerte
+- Sal_27:5él me...sobre una roca me pondrá en altoH7311
+- Sal_31:8pusiste mis pies en lugar espaciosoH5975
+- Sal_31:20los pondrás...a cubierto de contención
+- Sal_33:7él junta...pone en depósitos los abismosH5414
+- Sal_39:8no me pongas por escarnio del insensatoH5337
+- Sal_40:2puso mis pies sobre peña, y enderezó misH6965
+- Sal_40:3puso luego en mi boca cántico nuevoH5414
+- Sal_40:4bienaventurado el...que puso en JehováH4009
+- Sal_44:13nos pones por afrenta de...vecinos, porH6213
+- Sal_44:14nos pusiste por proverbio entre lasH6213
+- Sal_46:8que ha puesto asolamientos en la tierraH7760
+- Sal_50:1el nacimiento del sol hasta donde se poneH7121
+- Sal_50:20contra el hijo de tu...ponías infamia
+- Sal_50:21pero...las pondré delante de tus ojos
+- Sal_52:7el...que no puso a Dios por su fortalezaH7760
+- Sal_53:5los huesos del que puso asedio contra ti
+- Sal_54:3vida; no han puesto a Dios delante Le síH7760
+- Sal_59:1ponme a salvo de los que se levantanH5337
+- Sal_62:10las riquezas, no pongáis el corazón enH7896
+- Sal_66:2cantad la...poned gloria en su alabanzaH7760
+- Sal_66:11pusiste sobre nuestros lomos pesadaH7760
+- Sal_69:11puse...cilicio por mi vestido, y vine aH5414
+- Sal_69:21me pusieron además hiel por comida, yH5414
+- Sal_69:27pon maldad sobre su maldad, y no entrenH5414
+- Sal_69:29a mí...tu salvación...me ponga en alto
+- Sal_73:9ponen su boca contra el cielo, y...lenguaH8371
+- Sal_73:18has puesto en deslizaderos...harás caerH7896
+- Sal_73:28puesto en Jehová el Señor mi esperanzaH7896
+- Sal_74:4han puesto sus divisas por señalesH7760
+- Sal_74:7han puesto a fuego tu santuario, hanH7971
+- Sal_78:5y puso ley en Israel, la cual mandó aH7760
+- Sal_78:7fin de que pongan en Dios su confianzaH7760
+- Sal_78:19¿podrá poner mesa en el desierto?
+- Sal_78:43cuando puso en Egipto sus señales, y
+- Sal_80:6nos pusiste por escarnio a...vecinos, yH7760
+- Sal_83:11pon a sus capitanes como a Oreb...ZeebH7896
+- Sal_83:13ponlos como torbellinos...hojarascasH7896
+- Sal_84:3la golondrina...donde ponga sus polluelosH7896
+- Sal_84:9pon los ojos en el rostro de tu ungidoH5027
+- Sal_85:13él, y sus pasos nos pondrá por caminoH7760
+- Sal_86:14violentos...no te pusieron delante de síH7760
+- Sal_88:6me has puesto en el hoyo profundo, enH7896
+- Sal_88:8me has puesto por abominación a ellosH7896
+- Sal_88:18mis conocidos has puesto en tinieblasH7368
+- Sal_89:19he puesto el socorro sobre uno que esH7737
+- Sal_89:25pondré su mano sobre el mar, y sobreH7760
+- Sal_89:27yo también le pondré por primogénitoH5414
+- Sal_89:29pondré su descendencia para siempre, yH2233
+- Sal_90:8pusiste nuestras maldades delante de tiH7896
+- Sal_91:9porque has puesto a Jehová, que es miH7760
+- Sal_91:14por cuanto en mí ha puesto su amor, yo
+- Sal_91:14libraré; le pondré en alto, por cuanto
+- Sal_101:3no pondré delante de mis ojos...injustaH7896
+- Sal_101:6ojos pondré en los fieles de la tierra
+- Sal_103:18se acuerdan de...para ponerlos por obra
+- Sal_104:3el que pone las nubes por su carrozaH7760
+- Sal_104:9pusiste término el cual no traspasaránH7760
+- Sal_104:20pones las tinieblas, y es la noche; enH7896
+- Sal_105:18pies...en cárcel fue puesta su personaH935
+- Sal_105:21lo puso por señor de su casa, y porH7760
+- Sal_105:27puso en ellos las palabras de...señales
+- Sal_109:6pon sobre él al impío, y Satanás estéH6485
+- Sal_109:31él se pondrá a la diestra del pobreH5975
+- Sal_110:1que ponga a tus enemigos por estrado deH7896
+- Sal_113:3desde el...del sol hasta donde se pone
+- Sal_118:5me respondió JAH, poniéndome en lugar
+- Sal_119:30he puesto tus juicios delante de míH7737
+- Sal_119:110me pusieron lazo los impíos, pero yoH5414
+- Sal_119:166tus mandamientos he puesto por obra
+- Sal_132:11tu descendencia pondré sobre tu tronoH7896
+- Sal_139:5me rodeaste, y sobre mí pusiste tu manoH7896
+- Sal_140:5han tendido red...me han puesto lazosH7896
+- Sal_140:7tú pusiste a cubierto mi cabeza en el
+- Sal_141:3pon guarda a mi boca, oh Jehová; guardaH7896
+- Sal_148:6les puso ley que no será quebrantadaH5414
+- Pro_1:11pongamos asechanzas para derramar
+- Pro_1:18a su propia sangre ponen asechanzas, y
+- Pro_8:29cuando ponía al mar su estatuto, paraH7760
+- Pro_9:2víctimas, mezcló su vino, y puso su mesa
+- Pro_18:18suerte pone fin a los pleitos, y decide
+- Pro_22:28los linderos...que pusieron tus padresH6213
+- Pro_23:2y pon cuchillo a tu garganta, si tienesH7760
+- Pro_23:5¿has de poner tus ojos en las riquezasH5774
+- Pro_24:32miré, y lo puse en mi corazón; lo vi
+- Pro_24:33poniendo mano sobre mano otro poco
+- Pro_29:8escarnecedores ponen la ciudad en llamas
+- Pro_29:25el temor del hombre pondrá lazo; mas el
+- Pro_30:26los conejos...ponen su casa en la piedraH7760
+- Pro_30:32hacer mal, pon el dedo sobre tu boca
+- Ecl_1:5se pone el sol, y se apresura a volver
+- Ecl_3:11y ha puesto eternidad en el corazón deH5414
+- Ecl_7:2y el que vive lo pondrá en su corazónH5414
+- Ecl_8:9he puesto mi corazón en todo lo que hayH5414
+- Ecl_8:10puestos en olvido en la ciudad dondeH6965
+- Ecl_9:5porque su memoria es puesta en olvido
+- Cnt_6:12mi alma me puso entre los carros deH7760
+- Cnt_8:6ponme como un sello sobre tu corazónH7760
+- Isa_1:7ciudades puestas a fuego, vuestra tierra
+- Isa_3:4y les pondré jóvenes por príncipes, yH5414
+- Isa_5:20ponen lo amargo por dulce, y lo dulce porH7760
+- Isa_7:6pongamos en medio de ella por rey al hijo
+- Isa_8:3dijo...Ponle por nombre Maher-salal-hasbaz
+- Isa_9:10cortaron...en su lugar pondremos cedros
+- Isa_10:5mi furor, en su mano he puesto mi ira
+- Isa_10:6lo ponga para ser hollado como lodo de
+- Isa_11:10la raíz de Isaí...puesta por pendón aH5975
+- Isa_14:17puso el mundo como un desierto...asolóH7760
+- Isa_15:1fue destruida Ar de...puesta en silencio
+- Isa_16:3pon tu sombra en medio del día como laH7896
+- Isa_21:5ponen la mesa, extienden tapices; comenH6186
+- Isa_21:6vé, pon centinela que haga saber lo queH5975
+- Isa_22:22y pondré la llave de la casa de DavidH7901
+- Isa_22:25caerá, y la carga que sobre él se puso
+- Isa_23:15Tiro será puesta en olvido por 70 años
+- Isa_26:1salvación puso Dios...muros y antemuroH7896
+- Isa_27:4¿quién pondrá contra mí en batallaH5414
+- Isa_28:15porque hemos puesto nuestro refugio enH7760
+- Isa_28:16he puesto en Sion por fundamento una
+- Isa_28:25pone el trigo en hileras, y la cebadaH7760
+- Isa_29:2yo pondré a Ariel en apretura, y seráH6693
+- Isa_29:7pelean...y los que la ponen en apreturaH6693
+- Isa_29:10puso velo sobre las cabezas...videntes
+- Isa_30:2y poner su esperanza en la sombra de
+- Isa_31:1esperanza ponen en carros...son muchos
+- Isa_33:18¿qué del que pone en lista las casasH5608
+- Isa_34:15pondrá sus huevos, y sacará sus pollosH4422
+- Isa_36:13Rabsaces se puso en pie y gritó a granH5975
+- Isa_37:7yo pondré en él un espíritu, y oirá unH7971
+- Isa_37:29pondré, pues, mi garfio en tu nariz, yH7760
+- Isa_38:21masa de higos, y pónganla en la llagaH4799
+- Isa_41:15te he puesto por trillo, trillo nuevo
+- Isa_41:19pondré en la soledad cipreses, pinosH7760
+- Isa_41:22y pondremos nuestro corazón en ello
+- Isa_42:1siervo...he puesto sobre él mi EspírituH5414
+- Isa_42:6te pondré por pacto al pueblo, por luzH7121
+- Isa_42:22puestos para despojo, y no hay quienH957
+- Isa_42:25le puso fuego por todas partes, pero noH7760
+- Isa_43:1te redimí; te puse nombre, mío eres túH7121
+- Isa_43:24pusiste sobre mí la carga de...pecados
+- Isa_43:28puse por anatema a Jacob y por oprobioH5414
+- Isa_44:7quién...lo pondrá en orden delante de mí
+- Isa_45:3el Dios de Israel, que te pongo nombre
+- Isa_45:4te puse sobrenombre...no me conocisteH7121
+- Isa_45:6hasta donde se pone, que no hay más que
+- Isa_46:1sus imágenes fueron puestas sobre bestiasH7164
+- Isa_46:13pondré salvación en Sion, y mi gloriaH5414
+- Isa_49:2y puso mi boca como espada aguda, meH7760
+- Isa_49:2y me puso por saeta bruñida, me guardóH7760
+- Isa_50:7por eso puse mi rostro como un pedernalH7760
+- Isa_51:5esperan...en mi brazo ponen su esperanzaH3176
+- Isa_51:16y en tu boca he puesto mis palabras, yH7760
+- Isa_51:23lo pondré en mano de tus angustiadoresH7760
+- Isa_51:23pusiste tu cuerpo como tierra, y comoH7760
+- Isa_52:13que mi siervo...será puesto muy en altoH5375
+- Isa_53:10cuando haya puesto su vida...el pecadoH7760
+- Isa_54:12tus ventanas pondré de piedras preciosasH7760
+- Isa_57:7el monte alto y empinado pusiste tu camaH7760
+- Isa_57:8tras la puerta y el...pusiste tu recuerdoH7760
+- Isa_59:14se retiró, y la justicia se puso lejosH5975
+- Isa_59:15el que se apartó del mal fue puesto en
+- Isa_59:21y mis palabras que puse en tu boca, noH7760
+- Isa_60:17pondré paz por tu tributo, y justiciaH7760
+- Isa_60:20no se pondrá jamás tu sol, ni menguará
+- Isa_62:2te será puesto un nombre nuevo, que laH7121
+- Isa_62:6muros, oh Jerusalén, he puesto guardasH6485
+- Isa_62:7que...la ponga por alabanza en la tierraH7760
+- Isa_63:11¿dónde el que puso en medio de él suH7760
+- Isa_65:11monte, que ponéis mesa para la FortunaH6186
+- Isa_66:19y pondré entre ellos señal, y enviaréH7760
+- Jer_1:9he aquí he puesto mis palabras en tuH5414
+- Jer_1:10te he puesto en este día sobre nacionesH6485
+- Jer_1:12yo apresuro mi palabra para ponerla porH6213
+- Jer_1:15y pondrá cada uno su campamento a laH5414
+- Jer_1:18yo te he puesto en este día como ciudadH5414
+- Jer_3:19¿cómo os pondré por hijos, y os daré laH7896
+- Jer_4:7para poner tu tierra en desolación; tusH7760
+- Jer_5:14he aquí yo pongo mis palabras en tu bocaH5414
+- Jer_5:22que puse arena por término al mar, porH7760
+- Jer_5:26como quien pone lazos, pusieron trampaH5324
+- Jer_5:28se engordaron y se pusieron lustrosos
+- Jer_6:17puse también sobre vosotros atalayasH6965
+- Jer_6:21he aquí yo pongo a este pueblo tropiezosH5414
+- Jer_6:26ponte luto como por hijo único, llanto
+- Jer_6:27por fortaleza te he puesto en mi puebloH5414
+- Jer_7:2ponte a la puerta de la casa de JehováH5975
+- Jer_7:10¿vendréis y os pondréis delante de mí enH5975
+- Jer_7:30pusieron sus abominaciones en la casaH7760
+- Jer_9:8paz...y dentro de sí pone sus asechanzasH7760
+- Jer_10:12que puso en orden el mundo con su saber
+- Jer_11:6oíd las palabras de...y ponedlas por obra
+- Jer_11:13pusiste los altares de ignominia...BaalH7760
+- Jer_12:11puesta en asolamiento, y lloró sobre míH7760
+- Jer_13:2compré el cinto...lo puse sobre mis lomosH7760
+- Jer_13:21¿qué dirás cuando él ponga...sobre ti aH6485
+- Jer_14:6asnos monteses se ponían en las alturasH5975
+- Jer_15:9dolor...su sol se puso siendo aún de díaH5414
+- Jer_15:20y te pondré en este pueblo por muroH5337
+- Jer_17:5maldito el varón que...pone carne por su
+- Jer_17:11como...perdiz que cubre lo que no puso
+- Jer_17:19ha dicho Jehová: Ve y ponte a la puertaH5975
+- Jer_17:19ponte en todas las puertas de Jerusalén
+- Jer_18:16poner su tierra en desolación, objetoH7760
+- Jer_18:20acuérdate que me puse delante de ti paraH5975
+- Jer_18:21sus maridos sean puestos a muerte, y susH5414
+- Jer_19:8pondré a esta ciudad por espanto y burlaH7760
+- Jer_19:12haré...poniendo esta ciudad como TofetH5414
+- Jer_20:2azotó...al profeta...y lo puso en el cepoH5414
+- Jer_21:8pongo delante de vosotros camino de vidaH5414
+- Jer_21:10mi rostro he puesto contra esta ciudadH7760
+- Jer_23:4y pondré...pastores que las apacientenH6965
+- Jer_23:40pondré sobre vosotros afrenta perpetua
+- Jer_24:1dos cestas de higos puestas delante delH3259
+- Jer_24:6pondré mis ojos sobre ellos para bienH7760
+- Jer_24:8como los...pondré a Sedequías rey de Judá
+- Jer_25:9destruiré, y los pondré por escarnio yH7760
+- Jer_25:11esta tierra será puesta en ruinas y en
+- Jer_25:18para ponerlos en ruinas, en escarnio yH5414
+- Jer_26:2ponte en el atrio de la casa de JehováH5975
+- Jer_26:4en mi ley, la cual puse ante vosotrosH5414
+- Jer_26:6yo pondré esta casa como Silo, y estaH5414
+- Jer_26:6y esta ciudad la pondré por maldición aH5414
+- Jer_27:2hazte coyundas...ponlos sobre tu cuelloH5414
+- Jer_27:6ahora yo he puesto todas estas tierrasH5414
+- Jer_27:8a la nación y...que no pusiere su cuelloH5414
+- Jer_28:14yugo de hierro puse sobre el cuello deH5414
+- Jer_29:17los pondré como los higos malos, que deH5414
+- Jer_29:22póngate Jehová como a Sedequías y comoH7760
+- Jer_29:26Jehová te ha puesto por sacerdote enH5414
+- Jer_29:26de todo hombre loco...poniéndolo en elH5414
+- Jer_30:8no lo volverán...a poner en servidumbre
+- Jer_31:21establécete señales, ponte majanosH5324
+- Jer_32:3Sedequías rey de...lo había puesto preso
+- Jer_32:14ponlas en una vasija de barro, para queH5414
+- Jer_32:25cómprate la heredad por...y pon testigos
+- Jer_32:29vendrán los caldeos...la pondrán a fuego
+- Jer_32:34pusieron sus abominaciones en la casaH7121
+- Jer_32:40pondré mi temor en el corazón de ellosH5414
+- Jer_32:44y harán escritura...y pondrán testigos
+- Jer_33:25yo no he puesto las leyes del ciclo yH7760
+- Jer_34:17os pondré por afrenta ante todos losH5414
+- Jer_35:5puse delante de...los recabitas tazas y
+- Jer_37:4porque todavía no...puesto en la cárcelH5414
+- Jer_37:8ciudad...la tomarán y la pondrán a fuego
+- Jer_37:10caldeos...y pondrán esta ciudad a fuego
+- Jer_37:15le azotaron y le pusieron en prisión enH5414
+- Jer_37:18¿en qué pequé...para que me pusieseis enH5414
+- Jer_38:7habían puesto a Jeremías en la cisternaH5414
+- Jer_38:12pon ahora esos trapos viejos y ropasH7760
+- Jer_38:17esta ciudad no será puesta a fuego, y
+- Jer_38:18la pondrán a fuego, y tú no escaparás
+- Jer_39:8y los caldeos pusieron a fuego la casa
+- Jer_40:5rey...ha puesto sobre todas las ciudades
+- Jer_40:7el rey...había puesto a Gedalías hijo de
+- Jer_40:10tomad...ponedlos en vuestros almacenesH7760
+- Jer_40:11que había puesto sobre ellos a GedalíasH6485
+- Jer_41:2aquel a quien el rey de...había puesto
+- Jer_41:18había puesto para gobernar la tierra
+- Jer_43:10pondré su trono sobre estas piedras queH7760
+- Jer_43:12pondrá fuego a los templos de...dioses
+- Jer_44:6Judá...puestas en soledad y en destrucción
+- Jer_44:10los cuales puse delante de vosotros yH5414
+- Jer_44:17pondremos por obra toda palabra que ha
+- Jer_44:22vuestra tierra...puesta en asolamiento
+- Jer_44:25confirmáis...y ponéis...votos por obra
+- Jer_46:4y poneos con yelmos; limpiad las lanzasH3320
+- Jer_46:14decid: Ponte en pie y prepárate, porqueH3320
+- Jer_47:7contra la costa del mar, allí te pusoH3259
+- Jer_48:46tus hijos fueron puestos presos para
+- Jer_49:2sus ciudades serán puestas a fuego, e
+- Jer_49:38pondré mi trono en Elam, y destruiréH7760
+- Jer_50:3pondrá su tierra en asolamiento, y noH7896
+- Jer_50:5con pacto...que jamás se ponga en olvido
+- Jer_50:14poneos en...contra Babilonia alrededor
+- Jer_50:24puse lazos, y fuiste tomada...Babilonia
+- Jer_51:2se pondrán contra ella de todas partes
+- Jer_51:12reforzad la guardia, poned centinelasH5375
+- Jer_51:12y aun pondrá en efecto lo que ha dichoH6965
+- Jer_51:29para poner la tierra de Babilonia enH7760
+- Jer_51:39en medio de su calor...pondré banquetes
+- Jer_52:11lo puso en la cárcel hasta...que murióH5786
+- Jer_52:32hizo poner su trono sobre los tronos deH5414
+- Lam_3:12y me puso como blanco para la saetaH5324
+- Lam_3:29ponga su boca en el polvo, por si aúnH5414
+- Lam_3:53ataron mi vida en...pusieron piedra sobreH3034
+- Lam_4:19en el desierto nos pusieron emboscadas
+- Eze_2:1ponte sobre tus pies, y hablaré contigoH5975
+- Eze_3:17te he puesto por atalaya a la casa deH5414
+- Eze_3:20si...y pusiere yo tropiezo delante de élH5414
+- Eze_3:25pondrán sobre ti cuerdas, y con ellas teH5414
+- Eze_4:1tómate un adobe, y ponlo delante de tiH5414
+- Eze_4:2pondrás contra ella sitio, y edificarásH5414
+- Eze_4:2y pondrás delante de ella campamento, yH5414
+- Eze_4:3ponla en lugar de muro de hierro entreH5414
+- Eze_4:4y pondrás sobre él la maldad de la casaH7760
+- Eze_4:8he aquí que he puesto sobre ti ataduras
+- Eze_4:9ponlos en una vasija, y hazte pan de ellos
+- Eze_5:5la puse en medio de las naciones y de lasH7760
+- Eze_6:2pon tu rostro hacia los montes de IsraelH7760
+- Eze_6:5pondré los cuerpos muertos de los hijosH5414
+- Eze_7:3pondré sobre ti todas tus abominaciones
+- Eze_7:4antes pondré sobre ti tus caminos, y en
+- Eze_7:8furor...pondré sobre ti tus abominacionesH5414
+- Eze_7:9según tus caminos pondré sobre ti, y enH5414
+- Eze_9:4y ponles una señal en la frente a losH8427
+- Eze_10:7tomó de él y lo puso en las manos del queH5414
+- Eze_10:18la gloria...se puso sobre los querubinesH5975
+- Eze_11:7vuestros muertos que habéis puesto enH7760
+- Eze_11:19espíritu nuevo pondré dentro de ellosH5414
+- Eze_11:23y se puso sobre el monte que está alH5975
+- Eze_13:17pon tu rostro contra las hijas de tuH7760
+- Eze_14:3estos hombres han puesto sus ídolos enH5927
+- Eze_14:4, Eze_14:7hubiere puesto...ídolos en su corazónH7760
+- Eze_14:8y pondré mi rostro contra aquel hombreH5414
+- Eze_14:8le pondré por señal y por escarmientoH5414
+- Eze_15:4puesta en el fuego para ser consumidaH5414
+- Eze_15:7pondré mi rostro contra ellos; aunqueH5414
+- Eze_15:7cuando pusiere mi rostro contra ellosH7760
+- Eze_16:11puse brazaletes en tus brazos y collarH5414
+- Eze_16:14a causa de mi hermosura que yo puseH7760
+- Eze_16:18y mi incienso pusiste delante de ellasH5414
+- Eze_16:19la miel...pusiste delante de ellas paraH5414
+- Eze_17:4lo puso en una ciudad de comerciantesH7760
+- Eze_17:5la puso en un campo bueno para sembrarH7760
+- Eze_17:5la plantó junto...la puso como un sauceH7760
+- Eze_19:5tomó otro de sus...y lo puso por leoncilloH7760
+- Eze_19:9lo pusieron en una jaula y lo llevaronH5414
+- Eze_19:9lo pusieron en las fortalezas, para queH5414
+- Eze_20:19guardad mis preceptos, y ponedlos porH8104
+- Eze_20:21mis decretos para ponerlos por obraH8104
+- Eze_20:24no pusieron por obra mis decretos, sino
+- Eze_20:28allí pusieron...su incienso agradableH7760
+- Eze_20:46pon tu rostro hacia el sur, derrama tuH7760
+- Eze_21:2hijo de...pon tu rostro contra JerusalénH7760
+- Eze_21:15en todas las puertas...he puesto espantoH5414
+- Eze_21:19y pon una señal al comienzo de cada
+- Eze_21:22para poner arietes contra las puertasH7760
+- Eze_22:20mi ira, y os pondré allí, y os fundiré
+- Eze_22:30que se pusiese en la brecha delante deH5975
+- Eze_23:24paveses y yelmos pondrán contra ti enH7760
+- Eze_23:24y yo pondré delante de ellos el juicioH5414
+- Eze_23:25pondré mi celo contra ti, y procederánH5414
+- Eze_23:31yo, pues, pondré su cáliz en tu manoH5414
+- Eze_23:41y sobre ella pusiste mi incienso y miH7760
+- Eze_23:42sabeos, pusieron pulseras en sus manosH5414
+- Eze_23:49sobre vosotros pondrán...perversidadesH5414
+- Eze_24:2rey de Babilonia puso sitio a JerusalénH5564
+- Eze_24:3pon una olla, ponla, y echa...en ella aguaH8239
+- Eze_24:8yo pondré su sangre sobre la dura piedraH5414
+- Eze_24:17pon tus zapatos en tus pies, y no teH7760
+- Eze_25:2pon tu rostro hacia los hijos de AmónH7760
+- Eze_25:4pondrán en ti sus apriscos y plantaránH3425
+- Eze_25:5pondré a Rabá...habitación de camellosH5414
+- Eze_25:14y pondré mi venganza contra Edom enH5414
+- Eze_26:8y pondrá contra ti torres de sitio, yH5414
+- Eze_26:9y pondrá contra ti arietes, contra tusH5414
+- Eze_26:12pondrán tus piedras y tu madera y tuH7760
+- Eze_26:14te pondré como una peña lisa...de redes
+- Eze_26:20y te pondré en las profundidades de laH3427
+- Eze_28:2puesto tu corazón como corazón de DiosH5414
+- Eze_28:6cuanto pusiste tu corazón como...de DiosH5414
+- Eze_28:14yo te puse en el santo monte de Dios
+- Eze_28:17delante de...te pondré para que mirenH5414
+- Eze_28:18y te puse en ceniza sobre la tierra a
+- Eze_28:21pon tu rostro hacia Sidón, y profetizaH7760
+- Eze_29:4yo, pues, pondré garfios en tus quijadasH5414
+- Eze_29:10y pondré la...de Egipto en desolaciónH5414
+- Eze_29:12pondré la tierra de Egipto en soledadH5414
+- Eze_30:8sabrán que...cuando ponga fuego a EgiptoH5414
+- Eze_30:13y en la tierra de Egipto pondré temorH5414
+- Eze_30:14y pondré fuego a Zoán, y haré juicios
+- Eze_30:16pondré fuego a Egipto; Sin tendrá granH5414
+- Eze_30:21no ha sido vendado poniéndole medicinas
+- Eze_30:21ni poniéndole faja para ligarlo, a finH7760
+- Eze_30:24pondré mi espada en su mano...quebraréH5414
+- Eze_30:25cuando yo ponga mi espada en la manoH5414
+- Eze_32:5pondré tus carnes sobre los montes, yH5414
+- Eze_32:8pondré tinieblas sobre tu tierra, diceH5414
+- Eze_32:23sepulcros fueron puestos a los lados deH5414
+- Eze_32:25medio de los muertos le pusieron lechoH5414
+- Eze_32:25fue puesto su espanto en la tierra de
+- Eze_32:25él fue puesto en medio de los muertosH5414
+- Eze_32:27espadas puestas debajo de sus cabezasH5414
+- Eze_32:29fueron puestos con los muertos a espadaH5414
+- Eze_32:32porque puse mi terror en la tierra deH7901
+- Eze_33:2tomare un hombre...lo pusiere por atalayaH5414
+- Eze_33:7puesto por atalaya a la casa de IsraelH5414
+- Eze_33:31oirán tus...y no las pondrán por obra
+- Eze_33:32y oirán...pero no las pondrán por obra
+- Eze_35:2pon tu rostro hacia el monte de Seir, yH7760
+- Eze_35:9pondré en asolamiento perpetuo, y tusH5414
+- Eze_36:4ciudades...que fueron puestas por botínH957
+- Eze_36:26nuevo, y pondré espíritu nuevo dentroH5414
+- Eze_36:27pondré dentro de vosotros mi EspírituH5414
+- Eze_36:27guardéis mis preceptos, y los pongáis
+- Eze_37:1me puso en medio de un valle que estabaH5157
+- Eze_37:6pondré tendones sobre vosotros, y haréH5414
+- Eze_37:6piel, y pondré en vosotros espíritu, yH5414
+- Eze_37:14y pondré mi Espíritu en vosotros, yH5414
+- Eze_37:19los pondré con el palo de Judá, y losH5414
+- Eze_37:24mis...guardarán, y los pondrán por obra
+- Eze_37:26y pondré mi santuario entre ellos paraH5414
+- Eze_38:2pon tu rostro contra Gog en tierra deH7760
+- Eze_38:4y pondré garfios en tus quijadas, y teH5414
+- Eze_38:12para poner tus manos sobre las tierras
+- Eze_39:15pondrá junto a ellos una señal, hastaH1129
+- Eze_39:21y pondré mi gloria entre las nacionesH5414
+- Eze_39:21verán mi...mi mano que sobre ellos puseH7760
+- Eze_40:2me puso sobre un monte muy alto, sobreH5117
+- Eze_40:4y pon tu corazón a todas las cosas queH7760
+- Eze_40:42sobre éstas pondrán los utensilios conH3240
+- Eze_42:13allí pondrán las ofrendas santas, laH3241
+- Eze_43:8porque poniendo ellos su umbral junto aH5414
+- Eze_43:11todas sus reglas, y las pongan por obra
+- Eze_43:20pondrás en los cuatro cuernos del altarH5414
+- Eze_44:5pon atención, y mira con tus ojos, y oyeH7760
+- Eze_44:5pon atención a las entradas de la casaH7760
+- Eze_44:8habéis puesto extranjeros como guardasH7760
+- Eze_44:14les pondré...por guardas encargados de
+- Eze_45:19y pondrá sobre los postes de la casa
+- Dan_1:7el jefe de...puso nombres; p a DanielH7760
+- Dan_1:9puso Dios a Daniel en gracia y en buenaH5414
+- Dan_1:11Melsar, que estaba puesto por el jefeH4487
+- Dan_2:8conozco...que vosotros ponéis dilaciones
+- Dan_2:21el muda los...quita reyes, y pone reyesH6966
+- Dan_2:24al cual el rey había puesto para matarH4483
+- Dan_2:49que pusiera sobre los negocios de laH4483
+- Dan_3:12los cuales pusiste sobre los negociosH4483
+- Dan_4:12se ponían a la sombra las bestias del
+- Dan_5:12cual el rey puso por nombre BeltsasarH7123
+- Dan_5:21Dios...que pone sobre él al que le placeH6966
+- Dan_5:26contó Dios tu reino, y le ha puesto fin
+- Dan_5:29y poner en su cuello un collar de oro
+- Dan_6:3el rey pensó en ponerlo sobre...el reinoH3966
+- Dan_6:17fue traída una piedra y puesta sobre laH7760
+- Dan_6:26de parte mía es puesta esta ordenanzaH7761
+- Dan_7:4suelo y se puso enhiesta sobre los piesH6966
+- Dan_7:9que fueron puestos tronos, y se sentó unH7412
+- Dan_8:15se puso delante de mí uno con aparienciaH5975
+- Dan_9:10leyes que el puso delante de nosotrosH5414
+- Dan_9:24para...poner fin al pecado, y expiar la
+- Dan_10:10hizo que me pusiese sobre mis rodillasH5128
+- Dan_10:11y ponte en pie; porque a ti he sidoH5975
+- Dan_10:11mientras hablaba esto...me puse en pieH5975
+- Dan_10:15yo con los ojos puestos en tierra, yH5414
+- Dan_11:11y pondrá en campaña multitud grandeH5975
+- Dan_11:13a poner en campaña una multitud mayorH5975
+- Dan_11:31y pondrán la abominación desoladoraH5414
+- Ose_1:4dijo Jehová: Ponle por nombre JezreelH7121
+- Ose_1:6ponle por nombre Lo-ruhama, porque no meH7121
+- Ose_1:9ponle por nombre Lo-ammi, porque vosotrosH7121
+- Ose_2:3que yo...la ponga como el día en que nacióH3322
+- Ose_8:1pon a tu boca trompeta...Como águila viene
+- Ose_11:4yugo...y puse delante de ellos la comidaH5186
+- Ose_11:8¿cómo podré yo...ponerte como a Zeboim?[[H7761]]
+- Joe_2:6pondrán pálidos todos los semblantes
+- Joe_2:19y nunca más os pondré en oprobio entreH5414
+- Amó_7:8pongo plomada...en medio de mi puebloH7760
+- Amó_8:9que haré que se ponga el sol a mediodía
+- Amó_8:10haré poner cilicio sobre todo lomo, y
+- Amó_9:4y pondré sobre ellos mis ojos para malH7760
+- Abd_1:4y entre las estrellas pusieres tu nidoH7760
+- Abd_1:7comían tu pan pusieron lazo debajo de tiH7760
+- Jon_1:14ni pongas sobre nosotros la sangreH5414
+- Miq_3:6sobre los profetas se pondrá el sol, y
+- Miq_4:7pondré a la coja como remanente, y a laH7760
+- Miq_6:16para que yo te pusiese en asolamientoH5414
+- Miq_7:16verán, y...pondrán la mano sobre su bocaH7760
+- Nah_1:14allí pondré tu sepulcro...fuiste vilH7760
+- Nah_3:6te afrentaré, y te pondré como estiércolH7760
+- Hab_1:12Jehová, para juicio lo pusiste; y túH7760
+- Hab_2:9que codicia...para poner en alto su nidoH7760
+- Sof_2:3los que pusisteis por obra su juicio
+- Sof_3:19os pondré por alabanza y por renombre
+- Sof_3:20os pondré para renombre y para alabanzaH5414
+- Hag_1:8y pondré en ella mi voluntad, y seré
+- Hag_2:15antes que pongan piedra sobre piedra enH7760
+- Hag_2:23te pondré como anillo de sellar; porqueH7760
+- Zac_3:5pongan mitra limpia sobre su cabezaH7760
+- Zac_3:5pusieron...mitra limpia sobre su cabezaH7760
+- Zac_3:9aquella piedra que puse delante de JosuéH5414
+- Zac_5:11cuando esté preparada la pondrán sobreH3240
+- Zac_6:11pondrás en la cabeza del sumo sacerdoteH7760
+- Zac_7:12pusieron su corazón como diamante, paraH7760
+- Zac_8:7salvo...de la tierra donde se pone el solH3996, [[H8121]]
+- Zac_9:6pondré fin a la soberbia de los filisteosH3772
+- Zac_9:13Sion...te pondré como espada de valienteH7760
+- Zac_10:3los pondrá como su caballo de honor enH7760
+- Zac_11:7al uno puse por nombre Gracia, y al otroH7121
+- Zac_12:2yo pongo a Jerusalén por copa que haráH7760
+- Zac_12:3pondré a Jerusalén por piedra pesada aH7760
+- Zac_12:6pondré...capitanes de Judá como braseroH7760
+- Mal_1:11donde el sol nace hasta donde se pone
+- Mat_1:25dio a luz...y le puso por nombre JesúsG2564
+- Mat_3:10el hacha está puesta a la raíz de losG2749
+- Mat_4:5y le puso sobre el pináculo del temploG2476
+- Mat_5:15ni...una luz y se pone debajo de un almudG5087
+- Mat_5:25ponte de acuerdo con...adversario prontoG3860
+- Mat_5:40que quiera ponerte a pleito y quitarte
+- Mat_9:16pone remiendo de paño nuevo en vestidoG1911
+- Mat_9:18ven y pon tu mano sobre ella, y viviráG2007
+- Mat_10:35poner en disensión al hombre contra suG1369
+- Mat_12:18pondré mi Espíritu sobre él, y a losG5087
+- Mat_15:30y los pusieron a los pies de Jesús, yG4496
+- Mat_16:23no pones la mira en las cosas de DiosG5426
+- Mat_18:2y llamando...a un niño, lo puso en medioG2476
+- Mat_18:19si dos de vosotros se pusieren de acuerdoG4856
+- Mat_19:13para que pusiese las manos sobre ellosG2007
+- Mat_19:15habiendo puesto sobre ellos las manosG2007
+- Mat_21:7pusieron sobre ellos sus mantos; y élG1940
+- Mat_22:44que ponga a tus enemigos por estrado deG5087
+- Mat_23:4ponen sobre los hombros de los hombresG2007
+- Mat_24:45puso su señor sobre su casa para queG2525
+- Mat_24:47que sobre todos sus bienes le pondráG2525
+- Mat_24:51y pondrá su parte con los hipócritasG5087
+- Mat_25:21, Mat_25:23sobre mucho te pondré; entra enG2525
+- Mat_25:33pondrá las ovejas a su derecha, y losG2476
+- Mat_27:9precio puesto por los hijos de Israel
+- Mat_27:29y pusieron sobre su cabeza una coronaG4120
+- Mat_27:31le pusieron sus vestidos, y le llevaronG2007
+- Mat_27:37y pusieron sobre su cabeza su causaG2007
+- Mat_27:48poniéndola en una caña, le dio a beberG4060
+- Mat_27:60lo puso en su sepulcro nuevo, que habíaG5087
+- Mat_27:66ellos...sellando...y poniendo la guardiaG3326
+- Mat_28:6ved el lugar donde fue puesto el SeñorG2749
+- Mat_28:14oyere...nosotros...os pondremos a salvoG4160, [[G275]]
+- Mar_1:32luego que el sol se puso, le trajeronG1416
+- Mar_2:21pone remiendo de paño nuevo en vestidoG1976
+- Mar_3:3al hombre que...Levántate y ponte en medio
+- Mar_3:16a Simón, a quien puso por sobrenombreG2007, [[G3686]]
+- Mar_4:21la luz para ponerla debajo del almud, oG2007
+- Mar_4:21¿no es para ponerla en el candelero?[[G5087]]
+- Mar_5:23pon las manos sobre ella para que seaG2007
+- Mar_6:5que sanó...poniendo sobre ellos las manosG2007
+- Mar_6:29su cuerpo, y los pusieron en un sepulcroG5087
+- Mar_6:41dio a...para que los pusiesen delante; yG1325
+- Mar_7:32le rogaron que le pusiera la mano encimaG2007
+- Mar_8:6dio a...para que los pusiesen delante; yG3908
+- Mar_8:6y los pusieron delante de la multitudG3908
+- Mar_8:7y mandó que también los pusiesen delanteG3908
+- Mar_8:23puso las manos encima, y le preguntó siG2007
+- Mar_8:25puso otra vez las manos sobre los ojosG2007
+- Mar_8:33no pones la mira en las cosas de Dios
+- Mar_9:36a un niño, y lo puso en medio de ellosG2476
+- Mar_10:16poniendo las manos sobre...los bendijoG5087
+- Mar_12:36que ponga tus enemigos por estrado deG5087
+- Mar_13:14puesta donde no debe estar el que leeG2476
+- Mar_15:17y poniéndole...corona tejida de espinasG4120
+- Mar_15:19y puestos de rodillas le...reverenciasG5087
+- Mar_15:20y le pusieron sus propios vestidos, yG1746
+- Mar_15:36poniéndola en una caña, le dio a beberG4060
+- Mar_15:46lo puso en un sepulcro...cavado en unaG2698
+- Mar_15:47María madre...miraban dónde lo poníanG5087
+- Mar_16:6mirad el lugar en donde le pusieronG5087
+- Mar_16:18sobre los enfermos pondrán sus manosG2007
+- Luc_1:1tratado de poner en orden la historiaG392
+- Luc_1:11puesto en pie a la derecha del altar delG2476
+- Luc_2:21le pusieron por nombre Jesús, el cualG2564
+- Luc_2:21le había sido puesto por el ángel antes
+- Luc_2:34he aquí, éste está puesto para caída yG2749
+- Luc_3:9el hacha...puesta a la raíz de los árbolesG2749
+- Luc_4:9y le puso sobre el pináculo del temploG2476
+- Luc_4:18a poner en libertad a los oprimidosG649
+- Luc_4:40al ponerse el sol, todos los que teníanG1416
+- Luc_4:40él, poniendo las manos sobre cada uno de
+- Luc_5:18llevarle adentro y ponerle delante deG5087
+- Luc_5:19poniéndole en medio, delante de Jesús
+- Luc_5:36y lo pone en un vestido viejo; pues siG1911
+- Luc_6:8al hombre...Levántate, y ponte en medioG2476
+- Luc_6:8dijo...Y él, levantándose, se puso en pieG2476
+- Luc_6:48cavó...puso el fundamento sobre la rocaG5087
+- Luc_7:8yo soy hombre puesto bajo autoridad, yG5021
+- Luc_8:16una luz...ni la pone debajo de la camaG5087
+- Luc_8:16sino que la pone en un candelero paraG2007
+- Luc_9:16dio...para que los pusiesen delante deG3908
+- Luc_9:47Jesús...tomó a un niño y lo puso junto aG2476
+- Luc_9:62ninguno...poniendo su mano en el aradoG1911
+- Luc_10:8reciban, comed lo que os pongan delanteG3908
+- Luc_10:34poniéndole en su cabalgadura, lo llevóG1913
+- Luc_11:6un amigo...no tengo qué ponerle delanteG3908
+- Luc_11:33nadie pone en oculto la luz encendidaG5087
+- Luc_12:14hombre, ¿quién me ha puesto...como juezG2525
+- Luc_12:42al cual su señor pondrá sobre su casaG2525
+- Luc_12:44que le pondrá sobre todos sus bienesG2525
+- Luc_12:46vendrá...y le pondrá con los infielesG5087
+- Luc_13:13puso las manos sobre ella; y ella seG2007
+- Luc_14:29que después que haya puesto el cimientoG5087
+- Luc_15:5la encuentra, la pone sobre sus hombrosG2007
+- Luc_15:22poned un anillo en su mano, y calzadoG1325
+- Luc_16:26gran sima está puesta entre nosotros
+- Luc_18:11fariseo, puesto en pie, oraba consigoG2476
+- Luc_18:23oyendo esto, se puso muy triste, porque
+- Luc_19:8Zaqueo, puesto en pie, dijo al Señor: HeG2476
+- Luc_19:21que tomas lo que no pusiste, y siegasG5087
+- Luc_19:22que tomo lo que no puse, y que siegoG5087
+- Luc_19:23no pusiste mi dinero en el banco, paraG1325
+- Luc_20:43que ponga a tus enemigos por estrado deG5087
+- Luc_22:41él se apartó...y puesto de rodillas oró
+- Luc_23:26y le pusieron encima la cruz para queG2007
+- Luc_23:53lo puso en un sepulcro abierto en unaG5087
+- Luc_23:53el cual aún no se había puesto a nadieG2749
+- Luc_23:55vieron el...y cómo fue puesto su cuerpoG5087
+- Luc_24:36se puso en medio de ellos, y les dijoG2476
+- Jua_6:28poner en práctica las obras de Dios?
+- Jua_7:37se puso en pie y alzó la voz, diciendoG2476
+- Jua_8:3trajeron una mujer...poniéndola en medioG2476
+- Jua_9:15puso lodo sobre los ojos, y me lavé, yG2007
+- Jua_10:15Padre; y pongo mi vida por las ovejasG5087
+- Jua_10:17pongo mi vida, para volverla a tomarG5087
+- Jua_10:18quita, sino que yo de mí mismo la pongoG5087
+- Jua_10:18poder para ponerla, y tengo poder paraG5087
+- Jua_11:34¿dónde le pusisteis?...Señor, ven y veG5087
+- Jua_11:38una cueva, y tenía una piedra puestaG1945
+- Jua_11:41de donde había sido puesto el muertoG2749
+- Jua_13:2el diablo ya había puesto en...de JudasG906
+- Jua_13:5puso agua en un lebrillo, y comenzó aG906
+- Jua_13:37no...seguir ahora? Mi vida pondré por tiG5087
+- Jua_13:38¿tu vida pondrás por mí? De cierto, deG5087
+- Jua_15:13que uno ponga su vida por sus amigosG5087
+- Jua_15:16y os he puesto para que...llevéis frutoG5087
+- Jua_19:2una corona...la pusieron sobre su cabezaG2007
+- Jua_19:19un título, que puso sobre la cruz, elG5087
+- Jua_19:29poniéndola en un hisopo...la acercaronG4060
+- Jua_19:41cual aún no había sido puesto ningunoG5087
+- Jua_19:42porque...estaba cerca, pusieron a JesúsG5087
+- Jua_20:2Señor, y no sabemos dónde le han puestoG5087
+- Jua_20:5vio los lienzos puestos allí...no entróG2749
+- Jua_20:6entró en el...y vio los lienzos puestos allíG2749
+- Jua_20:7y el sudario...no puesto con los lienzosG2749
+- Jua_20:12el cuerpo de Jesús había sido puestoG2749
+- Jua_20:13mi Señor, y no sé dónde le han puestoG5087
+- Jua_20:15dime dónde lo has puesto...lo llevaréG5087
+- Jua_20:19Jesús...puesto en medio, les dijo: PazG2476
+- Jua_20:26y se puso en medio y les dijo: Paz aG2476
+- Jua_20:27pon aquí tu dedo, y mira mis manos; yG5342
+- Jua_21:9vieron brasas puestas, y un pez encimaG1945
+- Hec_1:7que el Padre puso en su sola potestadG5087
+- Hec_1:10ellos con los ojos puestos en el cieloG3936
+- Hec_1:10se pusieron junto a ellos dos varones
+- Hec_2:14Pedro, poniéndose en pie con los onceG2476
+- Hec_2:35ponga a tus enemigos por estrado de tusG5087
+- Hec_3:2quien ponían cada día a la puerta delG5087
+- Hec_3:8saltando, se puso en pie y anduvo; y entróG2476
+- Hec_3:12¿o por qué ponéis los ojos en nosotros
+- Hec_3:13éste había resuelto ponerle en libertadG630
+- Hec_4:3y los pusieron en la cárcel hasta el díaG5087
+- Hec_4:7y poniéndoles en medio, les preguntaronG2476
+- Hec_4:23y puestos en libertad, vinieron a los
+- Hec_4:35y lo ponían a los pies de los apóstolesG5087
+- Hec_4:36los apóstoles pusieron por sobrenombreG1941
+- Hec_4:37; Hec_5:2puso a los pies de los apóstolesG5087
+- Hec_5:4¿por qué pusiste esto en tu corazón?[[G5087]]
+- Hec_5:15los ponían en camas y lechos, para queG5087
+- Hec_5:18apóstoles y los pusieron en la cárcelG1911
+- Hec_5:20puestos en pie en el templo, anunciadG2476
+- Hec_5:25los varones que pusisteis en la cárcelG5087
+- Hec_5:40de azotarlos...los pusieron en libertadG4341
+- Hec_6:13y pusieron testigos falsos que decíanG2476
+- Hec_7:10lo puso por gobernador sobre Egipto yG1325
+- Hec_7:16y puestos en el sepulcro que a precioG5087
+- Hec_7:26y los ponía en paz, diciendo: VaronesG4900
+- Hec_7:27, Hec_7:35¿quién te ha puesto por gobernanteG2525
+- Hec_7:55Esteban...puestos los ojos en el cielo
+- Hec_7:58testigos pusieron sus ropas a los piesG659
+- Hec_7:60puesto de rodillas, clamó a gran vozG2476
+- Hec_9:12pone las manos encima para que recobreG2007
+- Hec_9:17Ananías...poniendo sobre él las manosG2007
+- Hec_9:37después de lavada, la pusieron en unaG5087
+- Hec_9:40todos, Pedro se puso de rodillas y oró
+- Hec_10:30que se puso delante de mí un varón conG2476
+- Hec_10:42él es el que Dios ha puesto por Juez deG3724
+- Hec_11:13puso en pie y le dijo: Envía hombres aG2476
+- Hec_12:4le puso en la cárcel, entregándole a 4G5087
+- Hec_13:29del madero, lo pusieron en el sepulcroG5087
+- Hec_13:47te he puesto para luz de los gentilesG5087
+- Hec_15:10poniendo sobre la cerviz de...discípulosG2007
+- Hec_16:34y llevándolos a su casa, les puso laG3908
+- Hec_17:22puesto en pie en medio...Areópago, dijoG2476
+- Hec_18:10ninguno pondrá sobre ti la mano paraG2007
+- Hec_20:3siéndole puestas asechanzas por...judíosG1096
+- Hec_20:36se puso de rodillas, y oró con todos
+- Hec_21:5puestos de rodillas en la playa, oramos
+- Hec_23:24en que poniendo a Pablo, le llevasenG1913
+- Hec_26:16pero levántate, y ponte sobre tus piesG2476
+- Hec_26:16ponerte por ministro y testigo de lasG4400
+- Hec_26:32podía este...ser puesto en libertad, siG630
+- Hec_27:15no pudiendo poner proa al viento, nosG3361
+- Hec_27:21puesto en pie...dijo: Habría sido porG2476
+- Rom_3:25quien Dios puso como propiciación porG4388
+- Rom_4:17te ha puesto por padre de muchas gentesG5087
+- Rom_9:33pongo en Sion piedra de tropiezo y rocaG5087
+- Rom_14:13decidid no poner tropiezo...al hermanoG5087
+- 1Co_3:10puse el fundamento, y otro edificaG5087
+- 1Co_3:11nadie puede poner otro...que está puestoG5087
+- 1Co_6:4si...¿ponéis para juzgar a los que son deG2523
+- 1Co_8:13no...para no poner tropiezo a mi hermanoG4624
+- 1Co_9:9está escrito: No pondrás bozal al buey
+- 1Co_9:12no poner ningún obstáculo al evangelio
+- 1Co_9:27y lo pongo en servidumbre, no sea queG1396
+- 1Co_10:27lo que se os ponga delante, comed, sinG3908
+- 1Co_11:34demás cosas las pondré en orden cuandoG1299
+- 1Co_12:28unos puso Dios en la iglesia...apóstolesG5087
+- 1Co_15:25que haya puesto a todos sus enemigosG5087
+- 1Co_16:2cada uno de vosotros ponga aparte algoG5087
+- 2Co_3:13Moisés, que ponía un velo sobre suG5087
+- 2Co_3:15el velo está puesto sobre el corazón de
+- 2Co_8:8sino para poner a prueba, por medio de laG1381
+- 2Co_8:16Dios que puso en el corazón de Tito laG1325
+- Efe_4:26no se ponga el sol sobre vuestro enojoG1931
+- Efe_5:13cosas, cuando son puestas en evidenciaG5319
+- Flp_1:17puesto para la defensa del evangelioG2749
+- Flp_1:23de ambas cosas estoy puesto en estrecho
+- Col_3:2poned la mira en las cosas de arribaG5426
+- 1Ts_3:3sabéis que para esto estamos puestosG2749
+- 1Ts_5:9no nos ha puesto Dios para ira, sino paraG5087
+- 1Ti_1:12por fiel, poniéndome en el ministerioG5087
+- 1Ti_5:9sea puesta en la lista sólo la viuda no
+- 1Ti_5:18no pondrás bozal al buey que trilla
+- 1Ti_6:17ni pongan la esperanza en las riquezas
+- Flm_1:18te dañó, o te debe, ponlo a mi cuentaG1677
+- Heb_1:13que ponga a tus enemigos por estradoG5087
+- Heb_2:7le pusiste sobre las obras de tus manosG2525
+- Heb_6:18asirnos de la esperanza puesta delanteG4295
+- Heb_8:10pondré mis leyes en la mente de ellosG1325
+- Heb_10:13sus enemigos sean puestos por estradoG5087
+- Heb_10:16pondré mis leyes en sus corazones, y enG1325
+- Heb_11:26tenía puesta la mirada en el galardón
+- Heb_11:34pusieron en fuga ejércitos extranjeros
+- Heb_11:37apedreados, aserrados, puestos a prueba
+- Heb_12:2puestos los ojos en Jesús, el autor yG4295
+- Stg_3:3nosotros ponemos freno en la boca deG906
+- Stg_3:6la lengua está puesta...nuestros miembros
+- 1Pe_2:6pongo en Sion la principal piedra delG659
+- 2Pe_1:5poniendo...diligencia por esto mismoG3923
+- 2Pe_2:6poniéndolas de ejemplo a los que habíanG4160
+- 1Jn_3:16en que él puso su vida por nosotrosG5087
+- 1Jn_3:16nosotros debemos poner nuestras vidasG5087
+- Jud_1:7fueron puestas por ejemplo, sufriendo elG4295
+- Rev_1:17puso su diestra sobre mí, diciéndomeG2007
+- Rev_2:14poner tropiezo ante los hijos de IsraelG906
+- Rev_3:8puesto delante de ti una puerta abiertaG1325
+- Rev_6:12sol se puso negro como tela de cilicio
+- Rev_10:2y puso su pie derecho sobre el mar, y elG5087
+- Rev_13:16hacía que...se les pusiese una marca en
+- Rev_17:17Dios ha puesto...el ejecutar lo que él
+- Rev_17:17ponerse de acuerdo, y dar su reino a laG1325
+- Rev_20:3y lo encerró, y puso su sello sobre él

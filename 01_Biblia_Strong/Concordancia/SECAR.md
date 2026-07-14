@@ -1,0 +1,85 @@
+---
+tipo: concordancia
+palabra: SECAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SECAR
+
+- Gén_8:7, Gén_8:13las aguas se secaron sobre la tierraH3001, [[H2717]]
+- Gén_8:14los 27 días del mes, se secó la tierraH3001
+- Núm_11:6nuestra alma se seca; pues nada sinoH3001
+- Jos_2:10Jehová hizo secar las aguas del MarH3001
+- Jos_4:23Dios secó las aguas del Jordán delanteH3001
+- Jos_4:23el Mar Rojo, el cual secó...que pasamosH3001
+- Jos_5:1cómo...había secado las aguas del JordánH3001
+- 1Re_13:4mano que había extendido...se le secóH3001
+- 1Re_17:7secó el arroyo, porque no había llovidoH3001
+- 2Re_19:24secado con las plantas de mis piesH2717
+- Job_8:12aun...se seca primero que toda hierbaH3001
+- Job_12:15si él detiene las aguas, todo se secaH3001
+- Job_14:11las aguas...y el río se agota y se secaH3001
+- Job_15:30la llama secará sus ramas, y con elH3001
+- Job_18:16abajo se secarán sus raíces, y arribaH3001
+- Sal_22:15como un tiesto se secó mi vigor, yH3001
+- Sal_37:2como...y como la hierba verde se secaránH5034
+- Sal_74:15abriste la...secaste ríos impetuososH3001
+- Sal_90:6crece; a la tarde es cortada, y se secaH3001
+- Sal_102:11se va, y me he secado como la hierbaH3001
+- Sal_106:9reprendió al Mar Rojo y lo secó, y lesH2717
+- Sal_129:6la hierba...que se seca antes que crezcaH3001
+- Pro_17:22el espíritu triste seca los huesosH3001
+- Isa_5:13gloria...y su multitud se secó de sedH6704
+- Isa_11:15y secará Jehová la lengua del mar de
+- Isa_15:6y se secará la hierba, se marchitaránH3615
+- Isa_19:5las aguas...y el río se agotará y secaráH3001
+- Isa_19:6se agotarán y secarán las corrientes deH2717
+- Isa_19:7se secarán, se perderán, y no serán másH3001
+- Isa_27:11sus ramas se sequen, serán quebradasH3001
+- Isa_37:25las pisadas de mis pies secaré...ríosH2717
+- Isa_37:27como heno...que antes de sazón se secaH7709
+- Isa_40:7hierba se seca, y la flor se marchitaH3001
+- Isa_40:8sécase la hierba, marchítase la florH3001
+- Isa_40:24tan pronto como sopla en ellos...secanH3001
+- Isa_42:15haré secar toda su hierba...y secaré losH3001
+- Isa_44:27que dice, Secaos, y tus ríos haré secarH3001
+- Isa_50:2que con mi reprensión hago secar el marH2717
+- Isa_51:10¿no eres tú el que secó el mar...aguasH2717
+- Jer_23:10pastizales del desierto se secaronH3001
+- Jer_50:38sequedad sobre sus aguas, y se secaránH3001
+- Jer_51:36secaré su mar...su corriente quede secaH2717
+- Eze_17:9¿no...destruirá su fruto, y se secaráH3001
+- Eze_17:9sus hojas lozanas se secarán, y eso sinH3001
+- Eze_17:10se secará...cuando el viento...la toque?[[H3001]]
+- Eze_17:10en los surcos de su verdor se secaráH3001
+- Eze_17:24yo Jehová...hice secar el árbol verdeH3001
+- Eze_19:12y el viento solano secó su fruto; susH3001
+- Eze_19:12ramas fuertes...quebradas y se secaronH3001
+- Eze_30:12secaré los ríos, y entregaré la tierraH2724
+- Eze_32:2secabas...ríos, y enturbiabas las aguas
+- Eze_37:11nuestros huesos se secaron, y perecióH3001
+- Ose_13:15se secará su manantial, y se agotaráH954
+- Joe_1:10se secó el mosto, se perdió el aceiteH3001
+- Joe_1:12todos los árboles del campo se secaronH3001
+- Joe_1:17los alfolíes destruidos...se secó el trigoH3001
+- Joe_1:20se secaron los arroyos de las aguas, yH3001
+- Amó_1:2voz...y se secará la cumbre del CarmeloH3001
+- Amó_4:7parte sobre la cual no llovió, se secóH3001
+- Jon_4:7cual hirió la calabacera, y se secóH3001
+- Nah_1:4él amenaza al mar, y lo hace secar, yH3001
+- Zac_10:11se secarán todas las profundidadesH3001
+- Zac_11:17del todo se secará su brazo, y su ojoH3001
+- Mat_13:6sol...y porque no tenía raíz, se secóG3583
+- Mat_21:19y le dijo...Y luego se secó la higueraG3583
+- Mat_21:20¿cómo...se secó en seguida la higuera?[[G3583]]
+- Mar_4:6quemó; y porque no tenía raíz, se secóG3583
+- Mar_5:29seguida la fuente de su sangre se secóG3583
+- Mar_9:18y cruje los dientes, y se va secando; yG3583
+- Mar_11:20vieron que la higuera se había secadoG3583
+- Mar_11:21la higuera que maldijiste se ha secadoG3583
+- Luc_8:6parte...secó, porque no tenía humedadG3583
+- Jua_15:6el que en mí no permanece...se secaráG3583
+- Stg_1:11la hierba se seca, su flor se cae, yG3583
+- 1Pe_1:24la hierba se seca, y la flor se caeG3583
+- Rev_16:12y el agua de éste se secó, para queG3583

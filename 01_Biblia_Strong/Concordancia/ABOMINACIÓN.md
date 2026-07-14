@@ -1,0 +1,152 @@
+---
+tipo: concordancia
+palabra: ABOMINACIÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ABOMINACIÓN
+
+- Gén_34:14incircunciso...entre nosotros es aH2781
+- Gén_43:32comer pan con los...es a a los egipciosH8441
+- Gén_46:34para los egipcios es a todo pastor deH8441
+- Éxo_8:26ofreceríamos a...la a de los egipciosH8441
+- Éxo_8:26si sacrificáramos la a de los egipciosH8441
+- Lev_7:18a será, y la persona que de él comiereH6292
+- Lev_7:21la persona que tocare...o cualquier aH8263
+- Lev_11:10no tienen aletas...los tendréis en aH8263
+- Lev_11:11os; serán...a; de su carne no comeréisH8263
+- Lev_11:12que no tuviere aletas...tendréis en aH8263
+- Lev_11:13y de las aves, éstas tendréis en aH8262
+- Lev_11:13no se comerán, serán a...el águila, elH8263
+- Lev_11:20, Lev_11:23lodo insecto alado...tendréis en aH8263
+- Lev_11:41reptil que se arrastra sobre la...es aH8263
+- Lev_11:42arrastra...no lo comeréis, porque es aH8263
+- Lev_18:22no te...con varón como con mujer; es aH8441
+- Lev_18:26y no hagáis ninguna de estas a, ni elH8441
+- Lev_18:27todas estas a hicieron los hombres deH8441
+- Lev_18:29cualquiera que hiciera...todas estas aH8441
+- Lev_19:7y si se comiere el día tercero, será aH6292
+- Lev_20:13a hicieron; ambos han de ser muertosH8441
+- Lev_20:23hicieron todas estas...y los tuve en aH6973
+- Deu_7:25oro de ellos es a a Jehová tu DiosH8441
+- Deu_13:14si pareciere verdad que tal a se hizoH8441
+- Deu_17:1cosa mala, pues es a a Jehová tu DiosH8441
+- Deu_17:4cierta, que tal a ha sido hecho en IsraelH8441
+- Deu_18:9no aprenderás a hacer según las a deH8441
+- Deu_18:12a para con Jehová cualquiera que haceH8441
+- Deu_18:12por estas a Jehová tu Dios echa estasH8441
+- Deu_20:18que no os enseñen a hacer según...sus aH8441
+- Deu_22:5a es a Jehová tu Dios...que esto haceH8441
+- Deu_23:18a es a Jehová tanto lo uno como lo otroH8441
+- Deu_24:4porque es a delante de Jehová, y no hasH8441
+- Deu_25:16a es a Jehová tu Dios cualquiera queH8441
+- Deu_27:15a a Jehová, obra de mano de artíficeH8441
+- Deu_29:17y habéis visto sus a y sus ídolos deH8251
+- Deu_32:16despertaron...lo provocaron a ira con aH8441
+- Jue_20:10le hagan conforme a toda la a queH5039
+- 1Re_14:24hicieron...las a de las naciones queH8441
+- 2Re_21:2hizo lo malo...las a de las nacionesH8441
+- 2Re_21:11por cuanto Manasés...ha hecho estas aH8441
+- 2Re_23:24barrió Josías a...las a que se veían enH8251
+- 2Cr_28:3conforme a las a de las naciones queH8441
+- 2Cr_33:2hizo...conforme a las a de las nacionesH8441
+- 2Cr_34:33quitó Josías todas las a de toda laH8441
+- 2Cr_36:8hechos de Joacim, y las a que hizo, y loH8441
+- 2Cr_36:14siguiendo todas las a de las nacionesH8441
+- Esd_9:1no...separado...hacen conforme a sus aH8441
+- Esd_9:11por las a de que la han llenado de unoH8441
+- Esd_9:14a emparentar con...que cometen estas a?[[H8441]]
+- Neh_9:18hicieron...becerro...y cometieron...aH5007
+- Neh_9:26provocaron a ira...e hicieron grandes aH5007
+- Sal_88:8has puesto por a ellos; encerradoH8441
+- Pro_11:1el peso falso es a a Jehová; mas laH8441
+- Pro_11:20a son a Jehová...perversos de corazónH8441
+- Pro_12:22los labios mentirosos son a JehováH8441
+- Pro_13:19apartarse del mal es a a los neciosH8441
+- Pro_15:8sacrificio de los impíos es a a JehováH8441
+- Pro_15:9a es a Jehová el camino del impío, masH8441
+- Pro_15:26a son a Jehová...pensamientos del maloH8441
+- Pro_16:5a es a Jehová todo altivo de corazónH8441
+- Pro_16:12a es a...reyes hacer impiedad, porqueH8441
+- Pro_17:15y el...ambos son igualmente a JehováH8441
+- Pro_20:10pesa falsa y medida falsa...a a JehováH8441
+- Pro_20:23a son a Jehová las pesas falsas, y laH8441
+- Pro_21:27el sacrificio de los impíos es aH8441
+- Pro_24:9necio...a a los hombres el escarnecedorH8441
+- Pro_26:25no...porque siete a hay en su corazónH8441
+- Pro_29:27a es a los justos el hombre inicuoH8441
+- Pro_29:27y a es al impío el de caminos rectosH8441
+- Isa_1:13el incienso me es a; luna nueva y díaH8441
+- Isa_41:24sois...vanidad; a es el que os escogióH8441
+- Isa_44:19la comí. ¿Haré del resto de él una a?[[H8441]]
+- Isa_66:3propios caminos, y su alma amó sus aH8251
+- Jer_4:1si quitares de delante de mí tus aH8251
+- Jer_6:15¿se han avergonzado de haber hecho a?[[H8441]]
+- Jer_7:10para seguir haciendo todas estas a?[[H8441]]
+- Jer_7:30pusieron sus a en la casa sobre la cualH8251
+- Jer_8:12¿se han avergonzado de haber hecho a?[[H8441]]
+- Jer_11:15en mi casa, habiendo hecho muchas a?[[H4209]]
+- Jer_13:27en el campo vi tus a. ¡Ay...Jerusalén![[H8251]]
+- Jer_16:18ídolos, y de sus a llenaron mi heredadH8441
+- Jer_32:34pusieron sus a en la casa en la cualH8251
+- Jer_32:35ni me vino al...que hiciesen esta aH8441
+- Jer_44:22a causa de las a que habíais hechoH8441
+- Lam_1:17Jerusalén fue objeto de a entre ellosH5079
+- Lam_3:45nos volviste en oprobio y a en medio deH3973
+- Eze_5:9haré en ti lo...a causa de todas tus aH8441
+- Eze_5:11profanado mi santuario con todas tus aH8441
+- Eze_6:9de los males que hicieron en todas sus aH8441
+- Eze_6:11por todas las grandes a de la casa deH8441
+- Eze_7:3juzgaré...y pondré sobre ti todas tus aH8441
+- Eze_7:4en medio de ti estarán tus a; y sabréisH8441
+- Eze_7:8te juzgaré según...pondré sobre ti tus aH8441
+- Eze_7:9tus caminos...en medio de ti estarán tus aH8441
+- Eze_8:6¿no ves...las grandes a...verás a mayoresH8441
+- Eze_8:9y ve las malvadas a que éstos hacen allíH8441
+- Eze_8:13me dijo...verás a mayores que hacen éstosH8441
+- Eze_8:15vuélvete aún, verás a mayores que estasH8441
+- Eze_8:17¿es cosa liviana...hacer las a que hacenH8441
+- Eze_9:4a causa de todas las a que se hacen enH8441
+- Eze_11:18allá, y quitarán de ella...todas sus aH8441
+- Eze_11:21anda tras...sus idolatrías y de sus aH8441
+- Eze_12:16para que cuentan todas sus a entre lasH8441
+- Eze_14:6apartad vuestro rostro de...vuestras aH8441
+- Eze_16:2de hombre, notifica a Jerusalén sus aH8441
+- Eze_16:22con todas tus a y tus fornicaciones noH8441
+- Eze_16:36a los ídolos de tus a, y en la sangreH8441
+- Eze_16:47ni hiciste según sus a; antes, como siH8441
+- Eze_16:50e hicieron a delante de mí, y cuando loH8441
+- Eze_16:51multiplicaste tus a más que ellasH8441
+- Eze_16:51has justificado a tus...con todas las aH8441
+- Eze_16:58el castigo de tu...y de tus aH8441
+- Eze_18:12alzaré sus ojos a...ídolos e hiciere aH8441
+- Eze_18:13todas estas a hizo; de cierto moriráH8441
+- Eze_18:24hiciera...a que el impío hizo, ¿viviráH8441
+- Eze_20:4hazles conocer las a de sus padresH8441
+- Eze_20:7cada uno eche de sí las a de delante deH8251
+- Eze_20:8no echó de sí cada uno las a de delanteH8251
+- Eze_20:30os contamináis y fornicáis tras sus aH8251
+- Eze_22:2juzgarás...y le mostrarás todas sus a?[[H8441]]
+- Eze_22:11uno hizo a con la mujer de su prójimoH8441
+- Eze_23:36y a Aholiba, y les denunciarás sus a?[[H8441]]
+- Eze_33:26hicisteis a, y contaminasteis cada cualH8441
+- Eze_33:29convierta la tierra en soledad...las aH8441
+- Eze_36:31y os avergonzaréis de...por vuestras aH8441
+- Eze_37:23con sus a y con todas sus rebelionesH8251
+- Eze_43:8contaminando mi santo nombre con sus aH8441
+- Eze_44:6basta ya de todas vuestras a, oh casa deH8441
+- Eze_44:7de invalidar mi pacto con...vuestras aH8441
+- Eze_44:13sino que llevarán...las a que hicieronH8441
+- Dan_9:27con...de las a vendrá el desoladorH8251
+- Dan_11:31tropas que...pondrán la a desoladoraH8251
+- Dan_12:11hasta la a desoladora habrá 1.290 díasH8251
+- Ose_6:9como ladrones que...así cometieron aH2154
+- Zac_9:7quitaré...sus a de entre sus dientesH8251
+- Mal_2:11y en Jerusalén se ha cometido aH8441
+- Mat_24:15cuando veáis...a desoladora de queG946
+- Mar_13:14cuando veáis la a desoladora de queG946
+- Luc_16:15por sublime, delante de Dios es aG946
+- Rev_17:4tenía...un cáliz de oro lleno de a yG946
+- Rev_17:5Babilonia...la madre...a de la tierraG946
+- Rev_21:27no entrará en ella...hace a y mentiraG946

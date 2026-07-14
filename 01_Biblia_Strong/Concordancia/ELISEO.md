@@ -1,0 +1,71 @@
+---
+tipo: concordancia
+palabra: ELISEO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ELISEO
+
+- Profeta
+- 1Re_19:16a E...ungirás para que sea profetaH477
+- 1Re_19:17el que escapare...de Jehú, E lo mataráH477
+- 1Re_19:19partiendo él...halló a E hijo de SafatH477
+- 2Re_2:1al cielo, Elías venía con E de GilgalH477
+- 2Re_2:2, 2Re_2:4E: Quédate ahora aquí, porque JehováH477
+- 2Re_2:2E dijo: Vive Jehová, y vive tu alma, queH477
+- 2Re_2:3saliendo a E los hijos de los profetasH477
+- 2Re_2:5se acercaron a E los hijos de...profetasH477
+- 2Re_2:9Elías dijo a E: Pide lo que quieras queH477
+- 2Re_2:9dijo E: Te ruego que una doble porción deH477
+- 2Re_2:12viéndolo E, clamaba: ¡Padre mío, padreH477
+- 2Re_2:14modo las aguas, se apartaron...y pasó EH477
+- 2Re_2:15el espíritu de Elías reposó sobre EH477
+- 2Re_2:18volvieron a E, que se había quedado en
+- 2Re_2:19y los hombres de la ciudad dijeron a EH477
+- 2Re_2:22hoy, conforme a la palabra que habló EH477
+- 2Re_3:11aquí está E hijo de Safat, que servía aH477
+- 2Re_3:13E dijo al rey...¿Qué tengo yo contigo?[[H477]]
+- 2Re_3:14y E dijo: Vive Jehová de los ejércitosH477
+- 2Re_3:15tocaba, la mano de Jehová vino sobre E
+- 2Re_4:1clamó a E, diciendo: Tu siervo mi maridoH477
+- 2Re_4:2E le dijo...Declárame qué tienes en casaH477
+- 2Re_4:8un día pasaba E por Sunem; y había allíH477
+- 2Re_4:17hijo...en el tiempo que E le había dichoH477
+- 2Re_4:31así se había vuelto para encontrar a E
+- 2Re_4:32venido E a la casa, he aquí que el niñoH477
+- 2Re_4:38E volvió a Gilgal cuando había...hambreH477
+- 2Re_5:8cuando E...oyó que el rey había rasgado suH477
+- 2Re_5:9y se paró a las puertas de la casa de EH477
+- 2Re_5:10E le envió un mensajero, diciendo: Vé yH477
+- 2Re_5:20Giezi, criado de E el varón de Dios, dijoH477
+- 2Re_5:25y E le dijo: ¿De dónde vienes, Giezi?[[H477]]
+- 2Re_6:1los hijos de los profetas dijeron a EH477
+- 2Re_6:12que el profeta E está en Israel, el cualH477
+- 2Re_6:17oró E, y dijo: Te ruego, oh Jehová, queH477
+- 2Re_6:17y de carros de fuego alrededor de EH477
+- 2Re_6:18E a Jehová, y dijo: Te ruego que hierasH477
+- 2Re_6:18los hirió...conforme a la petición de EH477
+- 2Re_6:19les dijo E: No es este el camino, niH477
+- 2Re_6:20dijo E: Jehová, abre los ojos de éstosH477
+- 2Re_6:21rey...dijo a E: ¿Los mataré, padre mío?[[H477]]
+- 2Re_6:31si la cabeza de E...queda sobre él hoyH477
+- 2Re_6:32E estaba sentado en su casa, y con élH477
+- 2Re_7:1dijo entonces E: Oíd palabra de JehováH477
+- 2Re_8:1habló E a aquella mujer a cuyo hijo élH477
+- 2Re_8:4cuentes...las maravillas que ha hecho EH477
+- 2Re_8:5este es su hijo, al cual E hizo vivirH477
+- 2Re_8:7E se fue luego a Damasco; y Ben-adad reyH477
+- 2Re_8:10E le dijo: Vé, dile: Seguramente sanarásH477
+- 2Re_8:13respondió E: Jehová me ha mostrado queH477
+- 2Re_8:14¿qué te ha dicho E? Y él respondió: MeH477
+- 2Re_9:1E llamó a uno de los hijos de...profetasH477
+- 2Re_13:14estaba E enfermo de la enfermedad deH477
+- 2Re_13:15le dijo E: Toma un arco y unas saetasH477
+- 2Re_13:16E al rey...Pon tu mano sobre el arco
+- 2Re_13:16puso E sus manos sobre las manos delH477
+- 2Re_13:17dijo E: Tira. Y tirando él, dijo EH477
+- 2Re_13:20murió E, y lo sepultaron. Entrado élH477
+- 2Re_13:21arrojaron el cadáver...el sepulcro de EH477
+- 2Re_13:21llegó a tocar el muerto los huesos de EH477
+- Luc_4:27muchos leprosos...tiempo del profeta EG1666

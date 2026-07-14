@@ -1,0 +1,275 @@
+---
+tipo: concordancia
+palabra: JOSÉ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JOSÉ
+
+- 1 Hijo del patriarca Jacob
+- Gén_30:24y llamó su nombre J, diciendo...hijoH3130
+- Gén_30:25cuando Raquel hubo dado a luz a J, queH3130
+- Gén_33:2puso las...y a Raquel y a J los últimosH3130
+- Gén_33:7después llegó J y Raquel, y también seH3130
+- Gén_35:24los hijos de Raquel: J y BenjamínH3130
+- Gén_37:2J, siendo de edad de 17 años, apacentabaH3130
+- Gén_37:2e informaba J a su padre la mala famaH3130
+- Gén_37:3y amaba Israel a J más que a todos susH3130
+- Gén_37:5y soñó J un sueño, y lo contó a susH3130
+- Gén_37:13Israel a J: Tus hermanos apacientan lasH3130
+- Gén_37:16J respondió: Busco a mis hermanos; teH3130
+- Gén_37:17entonces J fue tras de sus hermanosH3130
+- Gén_37:23llegó J...ellos quitaron a J su túnicaH3130
+- Gén_37:28sacaron ellos a J de la cisterna, y leH3130
+- Gén_37:28le vendieron...y llevaron a J a EgiptoH3130
+- Gén_37:29Rubén volvió a...y no halló a J dentroH3130
+- Gén_37:31entonces tomaron ellos la túnica de JH3130
+- Gén_37:33alguna mala...J ha sido despedazadoH3130
+- Gén_39:1llevado...J a Egipto, Potifar oficial deH3130
+- Gén_39:2Jehová estaba con J, y fue...prósperoH3130
+- Gén_39:4halló J gracia en sus ojos, y le servíaH3130
+- Gén_39:5Jehová bendijo la casa...a causa de JH3130
+- Gén_39:6dejó todo lo que tenía en mano de J, yH3130
+- Gén_39:6y era J de hermoso semblante y bellaH3130
+- Gén_39:7la mujer de su amo puso sus ojos en JH3130
+- Gén_39:10ella a J cada día, y no escuchándolaH3130
+- Gén_39:16y ella puso junto a sí la ropa de JH3130
+- Gén_39:19cuando oyó el amo de J las palabras deH3130
+- Gén_39:20tomó su...a J, y lo puso en la cárcelH3130
+- Gén_39:21Jehová estaba con J y le extendió suH3130
+- Gén_39:22en mano de J el cuidado de todos losH3130
+- Gén_39:23cosa...de las que estaban al cuidado de JH3130
+- Gén_39:23porque Jehová estaba con J, y lo queH3130
+- Gén_40:3puso en prisión...donde J estaba presoH3130
+- Gén_40:4el capitán de la...encargó de ellos a JH3130
+- Gén_40:6vino a ellos J por la mañana...tristesH3130
+- Gén_40:8entonces les dijo J: ¿No son de Dios lasH3130
+- Gén_40:9jefe de los coperos contó su sueño a JH3130
+- Gén_40:12le dijo J: Esta es su interpretaciónH3130
+- Gén_40:16dijo a J: También yo soñé que veíaH3130
+- Gén_40:18respondió J...y dijo...su interpretaciónH3130
+- Gén_40:22ahorcar...como lo había interpretado JH3130
+- Gén_40:23jefe de los coperos no se acordó de JH3130
+- Gén_41:14Faraón envió y llamó a J...Y lo sacaronH3130
+- Gén_41:15Faraón a J: Yo he tenido un sueño, y noH3130
+- Gén_41:16respondió J a Faraón, diciendo: No esH3130
+- Gén_41:17entonces Faraón dijo a J: En mi sueñoH3130
+- Gén_41:25J a Faraón: El sueño de Faraón es unoH3130
+- Gén_41:39dijo Faraón a J: Pues que Dios te haH3130
+- Gén_41:41dijo...Faraón a J...te he puesto sobreH3130
+- Gén_41:42quitó su anillo...puso en la mano de JH3130
+- Gén_41:44dijo Faraón a J: Yo soy Faraón; y sinH3130
+- Gén_41:45llamó Faraón...J, Zafnat-panea; y leH3130
+- Gén_41:45salió J por toda la tierra de EgiptoH3130
+- Gén_41:46era J de edad de treinta años cuandoH3130
+- Gén_41:46salió J de delante de Faraón, y recorrióH3130
+- Gén_41:49recogió J trigo como arena del marH3130
+- Gén_41:50y nacieron a J dos hijos antes...hambreH3130
+- Gén_41:51y llamó J el nombre del primogénitoH3130
+- Gén_41:54años del hambre, como J había dichoH3130
+- Gén_41:55id a J, y haced lo que él os dijereH3130
+- Gén_41:56abrió J...granero donde había, y vendíaH3130
+- Gén_41:57toda...venían a Egipto para comprar de JH3130
+- Gén_42:3descendieron los diez hermanos de J aH3130
+- Gén_42:4no envió a Benjamín, hermano de J, conH3130
+- Gén_42:6J era el señor de la tierra, quien leH3130
+- Gén_42:6los hermanos de J, y se inclinaron a élH3130
+- Gén_42:7J...vio a sus hermanos, los conoció; masH3130
+- Gén_42:8J, pues, conoció a sus hermanos; peroH3130
+- Gén_42:9entonces se acordó J de los sueños queH3130
+- Gén_42:12J les dijo: No; para ver...habéis venidoH3130
+- Gén_42:14J les dijo: Eso es lo que os he dichoH3130
+- Gén_42:18día les dijo J: Haced esto, y vivid: YoH3130
+- Gén_42:23no sabían que los entendía J, porqueH3130
+- Gén_42:24se apartó J de ellos, y lloró; despuésH3130
+- Gén_42:25mandó J que llenaran sus sacos de trigoH3130
+- Gén_42:36J no parece, ni Simeón tampoco, y aH3130
+- Gén_43:15Egipto, y se presentaron delante de JH3130
+- Gén_43:16y vio J a Benjamín con ellos, 9 dijoH3130
+- Gén_43:17hizo el hombre como J dijo, y llevó aH3130
+- Gén_43:17hizo...llevó a los hombres a casa de JH3130
+- Gén_43:18fueron llevados a casa de J, y decíanH3130
+- Gén_43:19acercaron al mayordomo de la casa de JH3130
+- Gén_43:24llevó...los hombres a casa de J; y lesóH3130
+- Gén_43:25ellos prepararon...venía J a mediodíaH3130
+- Gén_43:26vino J a casa, y ellos le trajeron elH3130
+- Gén_43:27entonces les preguntó J cómo estaban, yH3130
+- Gén_43:29y alzando J sus ojos vio a Benjamín suH3130
+- Gén_43:30J se apresuró, porque se conmovieronH3130
+- Gén_43:34J tomó viandas de delante de sí paraH3130
+- Gén_44:1mandó J al mayordomo de su casa...LlenadH3130
+- Gén_44:2pondrás mi copa...Y él hizo como dijo JH3130
+- Gén_44:4dijo J a su mayordomo: Levántate y sigueH3130
+- Gén_44:14vino Judá con sus hermanos a casa de JH3130
+- Gén_44:15dijo J: ¿Qué acción es esta que habéisH3130
+- Gén_44:17J respondió: Nunca yo tal haga. ElH3130
+- Gén_45:1no podía...J contenerse delante de todosH3130
+- Gén_45:1él, al darse a conocer J a sus hermanosH3130
+- Gén_45:3dijo J a sus hermanos: Yo soy J; ¿viveH3130
+- Gén_45:4dijo J a sus hermanos: Acercaos ahoraH3130
+- Gén_45:4dijo: Yo soy J vuestro hermano, el queH3130
+- Gén_45:9así dice tu hijo J: Dios me ha puestoH3130
+- Gén_45:16los hermanos de J han venido. Y estoH3130
+- Gén_45:17y dijo Faraón a J: Di a tus hermanosH3130
+- Gén_45:21les dio J carros conforme a la ordenH3130
+- Gén_45:26J vive aún; y él es señor en...EgiptoH3130
+- Gén_45:27le contaron todas las palabras de JH3130
+- Gén_45:27viendo Jacob los carros que J enviabaH3130
+- Gén_45:28basta; J mi hijo vive todavía; iré, yH3130
+- Gén_46:4haré...y la mano de J cerrará tus ojosH3130
+- Gén_46:19hijos de Raquel, mujer...J y BenjamínH3130
+- Gén_46:20y nacieron a J en la tierra de EgiptoH3130
+- Gén_46:27hijos de J, que le nacieron en EgiptoH3130
+- Gén_46:28envió Jacob a Judá delante de sí a JH3130
+- Gén_46:29y J...vino a recibir a Israel su padreH3130
+- Gén_46:30Israel dijo a J: Muera yo ahora, ya queH3130
+- Gén_46:31J dijo a sus hermanos, y a la casa deH3130
+- Gén_47:1vino J y lo hizo saber a Faraón, y dijoH3130
+- Gén_47:5Faraón habló a J, diciendo: Tu padre yH3130
+- Gén_47:7J introdujo a...su padre, y lo presentóH3130
+- Gén_47:11así J hizo habitar a su padre y a susH3130
+- Gén_47:12y alimentaba J a su padre y a toda laH3130
+- Gén_47:14y recogió J todo el dinero que habíaH3130
+- Gén_47:14metió J el dinero en casa de FaraónH3130
+- Gén_47:15todo Egipto a J, diciendo: Danos panH3130
+- Gén_47:16J dijo: Dad vuestros ganados y yo osH3130
+- Gén_47:17trajeron sus ganados a J, y J les dioH3130
+- Gén_47:20compró J toda la tierra de Egipto paraH3130
+- Gén_47:23J dijo al pueblo...os he comprado hoyH3130
+- Gén_47:26J lo puso por ley hasta hoy sobre laH3130
+- Gén_47:29llamó a J su...y le dijo: 51 he halladoH3130
+- Gén_47:30y J respondió: Haré como tú dicesH3130
+- Gén_47:31e Israel dijo: Júramelo. Y J le juróH3130
+- Gén_48:1que dijeron a J...tu padre está enfermoH3130
+- Gén_48:2se le hizo saber...tu hijo J viene a tiH3130
+- Gén_48:3a J: El Dios Omnipotente me apareció enH3130
+- Gén_48:8y vio Israel los hijos de J, y dijoH3130
+- Gén_48:9y respondió J a su padre: Son mis hijosH3130
+- Gén_48:11dijo Israel a J: No pensaba yo ver tuH3130
+- Gén_48:12J los sacó de entre sus rodillas, y seH3130
+- Gén_48:13los tomó J a ambos, Efraín a su derechaH3130
+- Gén_48:15bendijo a J, diciendo: El Dios en cuyaH3130
+- Gén_48:17pero viendo J que su padre ponía la manoH3130
+- Gén_48:18dijo J a su padre: No así, padre míoH3130
+- Gén_48:21dijo Israel a J: He aquí yo muero, peroH3130
+- Gén_49:22rama fructífera es J, rama...junto a unaH3130
+- Gén_49:26serán sobre la cabeza de J, y sobre laH3130
+- Gén_50:1se echó J sobre el rostro de su padreH3130
+- Gén_50:2mandó J a sus siervos los médicos queH3130
+- Gén_50:4J a los de la casa de Faraón, diciendoH3130
+- Gén_50:7J subió para sepultar a su padre; yH3130
+- Gén_50:8y toda la casa de J, y sus hermanos, yH3130
+- Gén_50:10J hizo a su padre duelo por siete díasH3130
+- Gén_50:14volvió J a Egipto, él y sus hermanosH3130
+- Gén_50:15viendo los hermanos de J que su padreH3130
+- Gén_50:15quizá nos aborrecerá J, y nos dará elH3130
+- Gén_50:16enviaron a decir a J: Tu padre mandóH3130
+- Gén_50:17así diréis a J: Te ruego que perdonesH3130
+- Gén_50:17tu padre...Y J lloró mientras hablabanH3130
+- Gén_50:19respondió J: No temáis: ¿acaso estoyH3130
+- Gén_50:22y habitó J en...y vivió José 110 añosH3130
+- Gén_50:23y vio J los hijos de Efraín hasta laH3130
+- Gén_50:23fueron criados sobre las rodillas de JH3130
+- Gén_50:24J dijo a sus hermanos: Yo voy a morirH3130
+- Gén_50:25e hizo jurar J a los hijos de IsraelH3130
+- Gén_50:26murió J a la edad de ciento diez añosH3130
+- Éxo_1:5nacieron a Jacob...J estaba en EgiptoH3130
+- Éxo_1:6y murió J, y todos sus hermanos, y todaH3130
+- Éxo_1:8Egipto un nuevo rey que no conocía a JH3130
+- Éxo_13:19tomó...consigo Moisés los huesos de JH3130
+- Núm_1:10de los hijos de J: de Efraín, ElisamaH3130
+- Núm_1:32los hijos de J: de los hijos de EfraínH3130
+- Núm_13:11de la tribu de J; de...Gadi hijo de SusiH3130
+- Núm_26:28hijos de J por sus familias: ManasésH3130
+- Núm_26:37son...los hijos de J por sus familiasH3130
+- Núm_27:1de las familias de Manasés hijo de JH3130
+- Núm_32:33a la media tribu de Manasés hijo de JH3130
+- Núm_34:23de los hijos de J: de la tribu de losH3130
+- Núm_36:1de las familias de los hijos de J; yH3130
+- Núm_36:5la tribu de los...de J habla rectamenteH3130
+- Núm_36:12se casaron en la familia de...hijo de JH3130
+- Deu_27:12estarán...Judá, Isacar, J y BenjamínH3130
+- Deu_33:13a J dijo: Bendita de Jehová...tu tierraH3130
+- Deu_33:16la gracia...venga sobre la cabeza de JH3130
+- Jos_14:4los hijos de J fueron dos tribusH3130
+- Jos_16:1tocó, a los hijos de J desde el JordánH3130
+- Jos_16:4recibieron...su heredad los hijos de JH3130
+- Jos_17:1Manasés, porque fue primogénito de JH3130
+- Jos_17:2de Manasés hijo de J, por sus familiasH3130
+- Jos_17:14hijos de J hablaron a Josué, diciendoH3130
+- Jos_17:16los hijos de J dijeron: No nos bastaráH3130
+- Jos_17:17respondió a la casa de J, a Efraín y aH3130
+- Jos_18:5los de la casa de J en el suyo al norteH3130
+- Jos_18:11quedó entre...de Judá y los hijos de JH3130
+- Jos_24:32enterraron en Siquem los huesos de JH3130
+- Jos_24:32campo...fue posesión de los hijos de JH3130
+- Jue_1:22la casa de J subió contra Bet-el; yH3130
+- Jue_1:23y la casa de J puso espías en Bet-elH3130
+- Jue_1:35pero cuando la casa de J cobró fuerzasH3130
+- 2Sa_19:20primero de toda la casa de J, paraH3130
+- 1Re_11:28encomendó...el cargo de la casa de JH3130
+- 1Cr_2:2Dan, J, Benjamín, Neftalí, Gad y AserH3130
+- 1Cr_5:1derechos...fueron dados a los hijos de JH3130
+- 1Cr_5:2mas el derecho de primogenitura fue de JH3130
+- 1Cr_7:29estos lugares habitaron los hijos de JH3130
+- Sal_77:15redimiste a...hijos de Jacob y de JH3130
+- Sal_78:67desechó la tienda de J, y no escogióH3130
+- Sal_80:1tú que pastoreas como a ovejas a J, queH3084
+- Sal_81:5constituyó como testimonio en J, cuandoH3130
+- Sal_105:17un varón delante de ellos; a J, queH3130
+- Eze_37:16escribe en él: Para J, palo de EfraínH3130
+- Eze_37:19tomo el palo de J que está en la manoH3130
+- Eze_47:13que repartiréis la...J tendrá dos partesH3130
+- Eze_48:32la puerta de J...la puerta de BenjamínH3130
+- Amó_5:6que acometa como fuego a la casa de JH3130
+- Amó_5:15Dios...tendrá piedad del remanente de JH3130
+- Amó_6:6no se afligen...el quebrantamiento de JH3130
+- Abd_1:18y la casa de J será llama, y la casaH3130
+- Zac_10:6y guardaré la casa de J, y los haréH3130
+- Jua_4:5la heredad que Jacob dio a su hijo JG2501
+- Hec_7:9vendieron a J para Egipto; pero DiosG2501
+- Hec_7:13J se dio a conocer a sus hermanos, y fueG2501
+- Hec_7:13fue manifestado a Faraón el linaje de JG2501
+- Hec_7:14enviando J, hizo venir a su padre JacobG2501
+- Hec_7:18en Egipto otro rey que no conocía a JG2501
+- Heb_11:21bendijo a cada uno de los hijos de JG2501
+- Heb_11:22la fe J, al morir, mencionó la salidaG2501
+- Rev_7:8de la tribu de J, doce mil selladosG2501
+- 2 Padre de Igal No. 1, Núm_13:7H3130
+- 3 Levita en tiempo de David, 1Cr_25:2, 1Cr_25:9H3130
+- 4 Uno de los que se casaron con mujeres extranjeras en tiempo de Esdras, Esd_10:42H3130
+- 5 Sacerdote en tiempo de Joiacim, Neh_12:14H3130
+- 6 Marido de María, la madre de Jesús
+- Mat_1:16Jacob engendró a J, marido de MaríaG2501
+- Mat_1:18estando desposada María su madre con JG2501
+- Mat_1:19J su marido...era justo...no quiso dejarlaG2501
+- Mat_1:20J...no temas recibir a María tu mujerG2501
+- Mat_1:24despertando J del sueño, hizo como elG2501
+- Mat_2:13, Mat_2:19un ángel del Señor apareció en...a JG2501
+- Luc_1:27con un varón que se llamaba J, de laG2501
+- Luc_2:4J subió de Galilea...de Nazaret, a JudeaG2501
+- Luc_2:16vinieron...y hallaron a María y a J, y alG2501
+- Luc_2:33y J y su madre estaban maravillados deG2501
+- Luc_2:43quedó...sin que lo supiesen J y su madreG2501
+- Luc_3:23hijo, según se creía, de J, hijo de ElíG2501
+- Luc_4:22todos...decían: ¿No es éste el hijo de J?[[G2501]]
+- Jua_1:45hemos hallado a...a Jesús, el hijo de JG2501
+- Jua_6:42¿no es éste Jesús, el hijo de J, cuyoG2501
+- 7 Hermano de Jesús
+- Mat_13:55y sus hermanos, Jacobo, J, Simón yG2500
+- Mar_6:3¿no es éste...hermano de...J, de JudasG2500
+- 8 Hijo de María No. 5
+- Mat_27:56estaban...la madre de Jacobo y de JG2500
+- Mar_15:40madre de Jacobo...y de J, y SaloméG2500
+- Mar_15:47Magdalena y María madre de J mirabanG2500
+- 9 José de Arimatea
+- Mat_27:57vino un hombre rico...llamado J, queG2501
+- Mat_27:59y tomando J el cuerpo, lo envolvió enG2501
+- Mar_15:43J de Arimatea, miembro...del concilioG2501
+- Mar_15:45e informado por el...dio el cuerpo a JG2501
+- Luc_23:50había un varón llamado J, de ArimateaG2501
+- Jua_19:38J de Arimatea, que era discípulo deG2501
+- 10 Nombre de tres ascendientes de Jesucristo, Luc_3:24, Luc_3:26, Luc_3:30G2501
+- 11 Candidato al apostolado, Hec_1:23G2501
+- 12 = Bernabé, Hec_4:36G2500

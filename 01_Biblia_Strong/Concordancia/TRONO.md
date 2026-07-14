@@ -1,0 +1,187 @@
+---
+tipo: concordancia
+palabra: TRONO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TRONO
+
+- Gén_41:40solamente en el t seré yo mayor queH3678
+- Éxo_11:5el primogénito...que se sienta en su tH3678
+- Éxo_12:29el primogénito...se sentaba sobre su tH3678
+- Éxo_17:16mano de Amalec se levantó contra el t
+- Deu_17:18y cuando se siente sobre el t de suH3678
+- 2Sa_3:10y confirmando el t de David...IsraelH3678
+- 2Sa_7:13afirmaré para siempre el t de su reinoH3678
+- 2Sa_7:16tu casa...y tu t será estable eternamenteH3678
+- 2Sa_14:9sea...mas el rey y su t sean sin culpaH3678
+- 1Re_1:13, 1Re_1:17Salomón tu hijo...se sentará en...tH3678
+- 1Re_1:20declares quién se ha de sentar en el tH3678
+- 1Re_1:24Adonías reinará...él se sentará en mi t?[[H3678]]
+- 1Re_1:27se había de sentar en el t de mi señorH3678
+- 1Re_1:30él se sentará en mi t en lugar mío; queH3678
+- 1Re_1:35y se sentará en mi t, y él reinará porH3678
+- 1Re_1:37haga mayor su t que el t de mi señor elH3678
+- 1Re_1:46también Salomón se ha sentado en el tH3678
+- 1Re_1:47nombre, y haga mayor su t que el tuyoH3678
+- 1Re_1:48que ha dado hoy quien se siente en mi tH3678
+- 1Re_2:4jamás, dice, faltará a ti varón en el tH3678
+- 1Re_2:12y se sentó Salomón en el t de David suH3678
+- 1Re_2:19el rey se...y volvió a sentarse en su tH3678
+- 1Re_2:24ha puesto sobre el t de David mi padreH3678
+- 1Re_2:33y sobre su t, habrá perpetuamente pazH3678
+- 1Re_2:45el t de David será firme perpetuamenteH3678
+- 1Re_3:6y le diste hijo que se sentase en su tH3678
+- 1Re_5:5quien yo pondré...en tu t, él edificaraH3678
+- 1Re_7:7el pórtico del t en que había de juzgarH3678
+- 1Re_8:20y me he sentado en el t de Israel, comoH3678
+- 1Re_8:25que se siente en el t de Israel, con talH3678
+- 1Re_9:5yo afirmaré el t de tu reino sobre IsraelH3678
+- 1Re_9:5no faltará varón de tu...en el t de IsraelH3678
+- 1Re_10:9se agradó de ti para ponerte en el t deH3678
+- 1Re_10:18hizo también el rey un gran t de marfilH3678
+- 1Re_10:19seis gradas tenía el t, y...dos leonesH3678
+- 1Re_10:20en ningún otro reino...hecho t semejante
+- 1Re_16:11y estuvo sentado en su t, mató a todaH3678
+- 1Re_22:19vi a Jehová sentado en su t, y todo elH3678
+- 2Re_9:13lo puso debajo de Jehú en un t alto
+- 2Re_10:3y ponedlo en el t de su padre, y peleadH3678
+- 2Re_10:30hijos se sentarán sobre el t de IsraelH3678
+- 2Re_11:19se sentó el rey en el t de los reyesH3678
+- 2Re_13:13se sentó Jeroboam sobre su t, y JoásH3678
+- 2Re_15:12hijos...se sentarán en el t de IsraelH3678
+- 2Re_25:28y puso su t más alto que los t de losH3678
+- 1Cr_17:12y yo confirmaré su t eternamenteH3678
+- 1Cr_17:14lo confirmaré...y su t será firme paraH3678
+- 1Cr_22:10afirmaré el t de su reino sobre IsraelH3678
+- 1Cr_28:5Salomón para que se siente en el t delH3678
+- 1Cr_29:23y se sentó Salomón por rey en el t deH3678
+- 2Cr_6:10y me he sentado en el t de IsraelH3678
+- 2Cr_6:16varón...que se siente en el t de IsraelH3678
+- 2Cr_7:18confirmaré el t de tu reino, como pactéH3678
+- 2Cr_9:8ponerte sobre su t como rey para JehováH3678
+- 2Cr_9:17hizo además el rey un gran t de marfilH3678
+- 2Cr_9:18el t...y un estrado de oro fijado al tH3678
+- 2Cr_9:19jamás fue hecho t semejante en reino
+- 2Cr_18:9sentados cada uno en su t, vestidos conH3678
+- 2Cr_18:18yo he visto a Jehová sentado en su tH3678
+- 2Cr_23:20sentaron al rey sobre el t del reinoH3678
+- Est_1:2fue afirmado el rey Asuero sobre el tH3678
+- Est_5:1entró...y estaba el rey sentado en su tH3678
+- Job_26:9él encubre la faz de su t, y sobre élH3678
+- Job_36:7con los reyes los pondrá en t...siempreH3678
+- Sal_9:4te has sentado en el t juzgando conH3678
+- Sal_9:7Jehová...ha dispuesto su t para juicioH3678
+- Sal_11:4Jehová tiene en el cielo su t; sus ojosH3678
+- Sal_45:6tu t, oh Dios, es eterno y para siempreH3678
+- Sal_47:8reinó...se sentó Dios sobre su santo tH3678
+- Sal_89:4edificaré tu t por todas...generacionesH3678
+- Sal_89:14justicia y juicio...el cimiento de tu tH3678
+- Sal_89:29pondré...t como los días de los cielosH3678
+- Sal_89:36será...y su t como el sol delante de míH3678
+- Sal_89:44hiciste cesar...echaste su t por tierraH3678
+- Sal_93:2firme es tu t desde entonces; tú eresH3678
+- Sal_94:20el t de iniquidades, que hace agravioH3678
+- Sal_97:2justicia y juicio...el cimiento de su tH3678
+- Sal_103:19Jehová estableció en los cielos su tH3678
+- Sal_122:5allá están...los t de la casa de DavidH3678
+- Sal_132:11de tu descendencia pondré sobre tu tH3678
+- Sal_132:12se sentarán sobre tu t para siempreH3678
+- Pro_16:12porque con justicia será afirmado el tH3678
+- Pro_20:8el rey que se sienta en el t de juicioH3678
+- Pro_20:28rey, y con clemencia se sustenta su 1H3678
+- Pro_25:5del rey, y su t se afirmará en justiciaH3678
+- Pro_29:14que juzga con verdad...el t será firmeH3678
+- Isa_6:1al Señor sentado...un t alto y sublimeH3678
+- Isa_9:7no tendrán límite, sobre el t de DavidH3678
+- Isa_14:13junto a las estrellas...levantaré mi tH3678
+- Isa_16:5dispondrá el t en misericordia; y sobreH3678
+- Isa_47:1siéntate en...sin t, hija de los caldeosH3678
+- Isa_66:1dijo así: El cielo es mi t, y la tierraH3678
+- Jer_3:17llamarán a Jerusalén: T de Jehová, yH3678
+- Jer_13:13los reyes...que se sientan sobre su tH3678
+- Jer_14:21nos deseches, ni deshonres tu glorioso tH3678
+- Jer_17:12t de gloria, excelso...es el lugar deH3678
+- Jer_17:25se sientan sobre el t de David, ellosH3678
+- Jer_22:2oh rey...que estás sentado sobre el t deH3678
+- Jer_22:4los reyes que en...se sientan sobre su tH3678
+- Jer_22:30logrará sentarse sobre el t de DavidH3678
+- Jer_29:16del rey que está sentado sobre el t deH3678
+- Jer_33:17varón que se siente sobre el t de laH3678
+- Jer_33:21deje de tener hijo que reine sobre su tH3678
+- Jer_36:30no tendrá quien se siente sobre el tH3678
+- Jer_43:10y pondré su t sobre estas piedras queH3678
+- Jer_49:38pondré mi t en Elam, y destruiré a suH3678
+- Jer_52:32poner su t sobre los t de los reyesH3678
+- Lam_5:19permanecerás...tu t de generación enH3678
+- Eze_1:26se veía la figura de un t que parecíaH3678
+- Eze_1:26sobre la figura del t había...semejanzaH3678
+- Eze_10:1semejanza de un t que se mostró sobreH3678
+- Eze_26:16príncipes del mar descenderán de sus tH3678
+- Eze_28:2en el t de Dios estoy sentado en medio
+- Eze_43:7este es el lugar de mi t...donde posaréH3678
+- Dan_5:20mas...fue depuesto del t de su reinoH3764
+- Dan_7:9estuve mirando hasta...fueron puestos tH3764
+- Dan_7:9t llama de fuego, y las ruedas del mismoH3764
+- Dan_11:7un renuevo de...se levantará sobre su t
+- Hag_2:22y trastornaré el t de los reinos, yH3678
+- Zac_6:13él...se sentará y dominará en su t, yH3678
+- Mat_5:34por el cielo, porque es el t de DiosG2362
+- Mat_19:28el Hijo...se siente en el t de su gloriaG2362
+- Mat_19:28os sentaréis sobre doce t, para juzgarG2362
+- Mat_23:22jura por el t de Dios, y por aquel queG2362
+- Mat_25:31entonces se sentará en su t de gloriaG2362
+- Luc_1:32Dios le dará el t de David su padreG2362
+- Luc_1:52quitó de los t a los poderosos, y exaltóG2362
+- Luc_22:30y os sentéis en t juzgando a las doceG2362
+- Hec_2:30al Cristo para que se sentase en su tG2362
+- Hec_7:49el cielo es mi t, y la tierra el estradoG2362
+- Col_1:16t, sean dominios, sean principadosG2362
+- Heb_1:8tu t, oh Dios, por el siglo del sigloG2362
+- Heb_4:16acerquémonos, pues...al t de la graciaG2362
+- Heb_8:1el cual se sentó a la diestra del t deG2362
+- Heb_12:2y se sentó a la diestra del t de DiosG2362
+- Rev_1:4los siete espíritus...delante de su tG2362
+- Rev_2:13donde moras, donde está el t de SatanásG2362
+- Rev_3:21le daré que se siente conmigo en mi tG2362
+- Rev_3:21y me he sentado con mi Padre en su tG2362
+- Rev_4:2un t establecido...en el t, uno sentadoG2362
+- Rev_4:3alrededor del t un arco iris, semejanteG2362
+- Rev_4:4y alrededor del t había veinticuatro tG2362
+- Rev_4:4sentados en los t a 24 ancianos, vestidosG2362
+- Rev_4:5del t salían relámpagos y truenos y vocesG2362
+- Rev_4:5y delante del t ardían siete lámparas deG2362
+- Rev_4:6delante del t había como un mar de vidrioG2362
+- Rev_4:6y junto al t, y alrededor del t, cuatroG2362
+- Rev_4:9dan gloria...al que está sentado en el tG2362
+- Rev_4:10delante del que está sentado en el tG2362
+- Rev_4:10adoran...y echan...coronas delante del tG2362
+- Rev_5:1la mano derecha del que estaba...en el tG2362
+- Rev_5:6que en medio del t y de los cuatro seresG2362
+- Rev_5:7el libro...del que estaba sentado en el tG2362
+- Rev_5:11y oí la voz de...ángeles alrededor del tG2362
+- Rev_5:13oí decir: Al que está sentado en el tG2362
+- Rev_6:16de aquel que está sentado sobre el t, yG2362
+- Rev_7:9estaban delante del t y en la presenciaG2362
+- Rev_7:10a nuestro Dios que está sentado en el tG2362
+- Rev_7:11ángeles estaban en pie alrededor del tG2362
+- Rev_7:11y se postraron sobre sus...delante del tG2362
+- Rev_7:15por esto están delante del t de Dios, yG2362
+- Rev_7:15y el que está...sobre el t extenderá suG2362
+- Rev_7:17que está en medio del t los pastorearáG2362
+- Rev_8:3el altar de oro que estaba delante del tG2362
+- Rev_11:16delante de Dios en sus t, se postraronG2362
+- Rev_12:5hijo fue arrebatado para Dios y para su tG2362
+- Rev_13:2y el dragón le dio su poder y su t, yG2362
+- Rev_14:3cantaban un cántico nuevo delante del tG2362
+- Rev_14:5son sin mancha delante del t de DiosG2362
+- Rev_16:10el quinto...derramó su copa sobre el tG2362
+- Rev_16:17salió una gran voz del templo...del tG2362
+- Rev_19:4a Dios, que estaba sentado en el t, yG2362
+- Rev_19:5salió del t una voz que decía: Alabad aG2362
+- Rev_20:4vi t, y se sentaron sobre ellos los queG2362
+- Rev_20:11vi un gran t...y al que estaba sentadoG2362
+- Rev_21:5el que estaba sentado en el t dijo: HeG2362
+- Rev_22:1un río limpio...que salía del t de DiosG2362
+- Rev_22:3t de Dios y del Cordero estará en ellaG2362

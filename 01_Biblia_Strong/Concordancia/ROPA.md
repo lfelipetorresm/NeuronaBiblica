@@ -1,0 +1,96 @@
+---
+tipo: concordancia
+palabra: ROPA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ROPA
+
+- Gén_9:23y Jafet tomaron la r, y la pusieronH8071
+- Gén_38:19se fue...y se vistió las r de su viudezH899
+- Gén_39:12asió por su r, diciendo: Duerme conmigoH899
+- Gén_39:12dejó u r en las manos de ella, y huyóH899
+- Gén_39:13que le había dejado su r en sus manosH899
+- Gén_39:15dejó junto a mí su r, y huyó y salióH899
+- Gén_39:16ella puso junto a sí la r de José, hastaH899
+- Gén_39:18y grité, él dejó su r junto a mí y huyóH899
+- Gén_41:42lo hizo vestir de r de lino finísimo, yH899
+- Lev_6:11pondrá otras r, y sacará las cenizas
+- Deu_22:5traje...ni el hombre vestirá r de mujerH8071
+- Deu_22:11no vestirás r de lana y lino juntamenteH8162
+- Deu_24:13que pueda dormir en su r, y te bendigaH8008
+- Deu_24:17ni tomarás en prenda la r de la viudaH899
+- Jue_5:30la r de color bordada de ambos lados
+- 1Sa_17:38Saúl vistió a David con sus r, y pusoH4055
+- 1Sa_18:4el manto...dio a David, y otras r suyasH4055
+- 1Sa_19:13tomó luego Mical...y la cubrió con la rH899
+- 1Sa_27:9se llevaba...las r, y regresaba a AquisH899
+- 2Sa_1:24adornaba vuestras r con ornamentosH3830
+- 2Sa_12:20David...cambió sus r, y entró a la casaH8071
+- 2Sa_13:19rasgó la r de...de que estaba vestidaH3801
+- 2Sa_14:2te vistas r de luto, y no te unjas conH899
+- 2Sa_20:8Joab estaba ceñido de su r, y sobre ellaH4055
+- 1Re_1:1le cubrían de r, pero no se calentabaH899
+- 1Re_22:10vestidos de sus r reales, en la plazaH899
+- 2Cr_18:9su trono, vestidos con sus r realesH899
+- 2Cr_18:29me disfrazaré...tú vístete tus r realesH899
+- Esd_3:10vestidos de sus r y con trompetas, yH3847
+- Job_22:6y despojaste de sus r a los desnudosH899
+- Job_24:7al desnudo hacen dormir sin r, sin tenerH3830
+- Job_27:16amontone plata...y prepare r como lodoH4403
+- Sal_22:18mis vestidos...mi r echaron suertesH3830
+- Pro_20:16quítale su r al que salió por fiadorH899
+- Pro_25:20como el que quita la r en tiempo de fríoH899
+- Pro_27:13quítale su r al que salió fiador por elH899
+- Pro_31:21toda su familia está vestida de r doblesH3847
+- Cnt_5:3me he desnudado de mi r, ¿cómo me heH3801
+- Isa_3:22las r de gala, los mantoncillos, losH4254
+- Isa_3:24lugar de r de gala ceñimiento de cilicioH5364
+- Isa_4:1nosotras...y nos vestiremos de nuestras rH8071
+- Isa_50:9ellos se envejecerán como r de vestirH899
+- Isa_51:6la tierra se envejecerá como r de vestirH899
+- Isa_52:1Sion; vístete tu r hermosa, oh JerusalénH899
+- Isa_59:17tomó r de venganza por vestidura, y seH899
+- Isa_63:2tus r como del que ha pisado en lagar?[[H3830]]
+- Isa_63:3su sangre salpicó...y manché todas mis rH899
+- Jer_38:11tomó...allí trapos viejos y r raídasH4418
+- Jer_38:12pon ahora esos trapos viejos y r raídasH4418
+- Jer_41:5ochenta...raída la barba y rotas las rH7167
+- Eze_16:39te despojarán de tus r, se llevaránH899
+- Eze_23:12de los asirios...vestidos de r y armasH3847
+- Eze_26:16desnudarán sus r bordadas; de espantoH899
+- Eze_27:24en cajas de r preciosas, enlazadas conH1264
+- Dan_3:27sus r estaban intactas, y ni siquieraH5622
+- Amó_2:8las r empeñadas se acuestan junto aH899
+- Hag_2:12llevare carne...en la falda de su rH899
+- Zac_3:4mira...te he hecho vestir de r de galaH3847
+- Zac_3:5pusieron mitra limpia...le vistieron las rH899
+- Zac_14:14oro...y r de vestir, en gran abundanciaH899
+- Mat_27:35mis vestidos, y sobre mi r echaronG2441
+- Mar_12:38que gustan de andar con largas r, yG4749
+- Mar_16:5joven...cubierto de una larga r blancaG4749
+- Luc_8:27no vestía r, ni moraba en casa, sinoG2440
+- Luc_20:46gustan de andar con r largas, y amanG4749
+- Luc_23:11vistiéndole de una r espléndida; yG2066
+- Jua_19:24y sobre mi r echaron suertes...Y asíG2441
+- Jua_21:7oyó que era el Señor, se ciñó la rG1903
+- Hec_7:58pusieron sus r a los pies de...SauloG2440
+- Hec_12:21Herodes, vestido de r reales, se sentóG2066
+- Hec_14:14cuando lo oyeron...rasgaron sus r, y seG2440
+- Hec_16:22rasgándoles las r, ordenaron azotarlesG2440
+- Hec_22:20guardaba las r de los que le matabanG2440
+- Hec_22:23gritaban y arrojaban sus r y lanzabanG2440
+- 1Ti_2:9las mujeres se atavíen de r decorosaG2689
+- Stg_2:2entra un hombre con...con r espléndidaG2066
+- Stg_2:3miráis con...al que trae la r espléndidaG2066
+- Stg_5:2y vuestras r están comidas de polillaG2440
+- Jud_1:23aborreciendo aun la r contaminada porG5509
+- Rev_1:13vestido de una r que llegaba hastaG4158
+- Rev_4:4vi...24 ancianos, vestidos de r blancasG2440
+- Rev_7:9vestidos de r blancas, y con palmas enG4749
+- Rev_7:13éstos que están vestidos de r blancasG4749
+- Rev_7:14lavado sus r, y las han emblanquecidoG4749
+- Rev_16:15bienaventurado el que...y guarda sus rG2440
+- Rev_19:13vestido de una r teñida en sangre; yG4016
+- Rev_22:14bienaventurados los que lavan sus r

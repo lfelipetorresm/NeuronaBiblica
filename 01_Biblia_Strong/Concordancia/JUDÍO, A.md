@@ -1,0 +1,278 @@
+---
+tipo: concordancia
+palabra: JUDÍO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUDÍO, A
+
+- Esd_4:12sea notorio al rey, que los j queH3062
+- Esd_4:23fueron...a los j, y les hicieron cesarH3062
+- Esd_5:1profetizaron...a los j que estaban en JudáH3062
+- Esd_5:5los ojos de Dios estaban sobre...de los jH3062
+- Esd_6:7el gobernador de los j y sus ancianosH3062
+- Esd_6:8hacer con esos ancianos de los j, paraH3062
+- Esd_6:14y los ancianos de los j edificaban yH3062
+- Neh_1:2y les pregunté por los j que habíanH3064
+- Neh_2:16ni hasta...lo había declarado yo a los jH3064
+- Neh_4:1se enojó y se...e hizo escarnio de los jH3064
+- Neh_4:2dijo...¿Qué hacen estos débiles j? ¿Se lesH3064
+- Neh_4:12que cuando venían los j que habitabanH3064
+- Neh_5:1hubo gran clamor...contra sus hermanos jH3064
+- Neh_5:8dije...rescatamos a nuestros hermanos jH3064
+- Neh_5:17además, 150 j y oficiales...a mi mesaH3064
+- Neh_6:6que tú y los j pensáis rebelaros; y queH3064
+- Neh_13:23vi...a j que habían tomado mujeres deH3064
+- Est_2:5en Susa...un varón j cuyo nombre eraH3064
+- Est_3:4Mardoqueo...les había declarado que era jH3064
+- Est_3:6procuró Amán destruir a todos los j queH3064
+- Est_3:10dio a Amán...agagueo, enemigo de los jH3064
+- Est_3:13la orden de...y exterminar a todos los jH3064
+- Est_4:3tenían los j gran luto, ayuno, lloro yH3064
+- Est_4:7rey a cambio de la destrucción de los jH3064
+- Est_4:13que escaparás...más que cualquier otro jH3064
+- Est_4:14liberación vendrá...para los j; mas túH3064
+- Est_4:16reúne a todos los j...se hallan en SusaH3064
+- Est_5:13veo al j Mardoqueo sentado a la puertaH3064
+- Est_6:10y hazlo así con el j Mardoqueo, que seH3064
+- Est_6:13si de la descendencia de los j es eseH3064
+- Est_8:1Ester la casa de Amán enemigo de los jH3064
+- Est_8:3maldad...que había tramado contra los jH3064
+- Est_8:5que escribió para destruir a los j queH3064
+- Est_8:7respondió el rey a...y a Mardoqueo el jH3064
+- Est_8:7por cuanto extendió su mano contra los jH3064
+- Est_8:8escribid...vosotros a los j como bien osH3064
+- Est_8:9se escribió...a los j, y a los sátrapasH3064
+- Est_8:9a los j también conforme a su escrituraH3064
+- Est_8:11el rey daba facultad a los j que estabanH3064
+- Est_8:13decía que los j estuviesen preparadosH3064
+- Est_8:16los j tuvieron luz y alegría, y gozo yH3064
+- Est_8:17los j tuvieron alegría y gozo, banqueteH3064
+- Est_8:17de entre los...de la tierra se hacían jH3054
+- Est_8:17temor de los j había caído sobre ellosH3064
+- Est_9:1mismo día en que los enemigos de los jH3064
+- Est_9:1porque los j se enseñorearon de los queH3064
+- Est_9:2los j se reunieron en sus ciudades, enH3064
+- Est_9:3todos los príncipes de...apoyaban a los jH3064
+- Est_9:5y asolaron los j a todos sus enemigos aH3064
+- Est_9:6destruyeron los j a quinientos hombresH3064
+- Est_9:10diez hijos de Amán...enemigo de los jH3064
+- Est_9:12los j han matado a quinientos hombresH3064
+- Est_9:13concédase...a los j en Susa, que haganH3064
+- Est_9:15, Est_9:18los j que estaban en Susa se juntaronH3064
+- Est_9:16otros j que estaban en las provinciasH3064
+- Est_9:19j aldeanos que habitaban en las villasH3064
+- Est_9:20envió cartas a todos los j que estabanH3064
+- Est_9:22días en que los j tuvieron paz de susH3064
+- Est_9:23j aceptaron hacer...lo que les escribióH3064
+- Est_9:24enemigo de todos los j, había ideadoH3064
+- Est_9:24Amán hijo...ideado contra los j un planH3064
+- Est_9:25designio...contra los j recayera sobre suH3064
+- Est_9:27los j establecieron y tomaron sobre síH3064
+- Est_9:28no dejarían de ser guardados por los jH3064
+- Est_9:29Ester...y Mardoqueo el j, suscribieronH3064
+- Est_9:30y fueron enviadas cartas a todos los jH3064
+- Est_9:31según les había ordenado Mardoqueo el jH3064
+- Est_10:3Mardoqueo el j fue el segundo...del reyH3064
+- Est_10:3grande entre los j, y estimado por laH3064
+- Jer_32:12delante de todos los j que estabanH3064
+- Jer_34:9que ninguno usase a los j...como siervosH3064
+- Jer_38:19tengo temor de los j que se han pasadoH3064
+- Jer_40:11los j que estaban en Moab...y en EdomH3064
+- Jer_40:12estos j regresaron entonces de todosH3064
+- Jer_40:15j que se...reunido a ti se dispersaránH3064
+- Jer_41:3mató Ismael a todos los j que estabanH3064
+- Jer_44:1de todos los j que moraban en...EgiptoH3064
+- Dan_3:8caldeos vinieron y acusaron...a los jH3064
+- Dan_3:12hay unos varones j, los cuales pusisteH3064
+- Zac_8:23tomarán del manto a un j, diciendoH3064
+- Mat_2:2diciendo: ¿Dónde está el rey de los jG2453
+- Mat_27:11diciendo: ¿Eres tú el Rey de los j?[[G2453]]
+- Mat_27:29le escarnecían...¡Salve, Rey de los j![[G2453]]
+- Mat_27:37causa...Este es Jesús, el Rey de los jG2453
+- Mat_28:15se ha divulgado entre los j hasta elG2453
+- Mar_7:3los j, aferrándose a la tradición deG2453
+- Mar_15:2le preguntó: ¿Eres tú el Rey de los j?[[G2453]]
+- Mar_15:9¿queréis que os suelte al Rey de los j?[[G2453]]
+- Mar_15:12que haga del que llamáis Rey de los j?[[G2453]]
+- Mar_15:18a saludarle: ¡Salve, Rey de los j![[G2453]]
+- Mar_15:26título escrito...era: EL REY DE LOS JG2453
+- Luc_7:3unos ancianos de los j, rogándole queG2453
+- Luc_23:3diciendo: ¿Eres tú el Rey de los J?[[G2453]]
+- Luc_23:37si tú eres el Rey de los j, sálvate aG2453
+- Luc_23:38un título...ESTE ES EL REY DE LOS JG2453
+- Jua_1:19cuando los j enviaron de JerusalénG2453
+- Jua_2:6al rito de la purificación de los j, enG2453
+- Jua_2:13estaba cerca la pascua de...j; y subióG2453
+- Jua_2:18j respondieron...¿Qué señal nos muestrasG2453
+- Jua_2:20luego los j: En 46 años fue edificadoG2453
+- Jua_3:1un...Nicodemo, un principal entre los jG2453
+- Jua_3:25los discípulos de Juan y los j acerca deG2453
+- Jua_4:9¿cómo...siendo j, me pides a mí de beberG2453
+- Jua_4:9j y samaritanos no se tratan entre síG2453
+- Jua_4:22adoramos...la salvación viene de los jG2453
+- Jua_5:1había una fiesta de los j, y subió JesúsG2453
+- Jua_5:10los j dijeron a aquel que había sidoG2453
+- Jua_5:15el hombre se fue, y dio aviso a los jG2453
+- Jua_5:16por esta causa los j perseguían a JesúsG2453
+- Jua_5:18esto los j aun más procuraban matarleG2453
+- Jua_6:4estaba cerca la pascua, la fiesta de...jG2453
+- Jua_6:41murmuraban...de él los j, porque habíaG2453
+- Jua_6:52j contendían entre sí, diciendo: ¿CómoG2453
+- Jua_7:1Judea, porque los j procuraban matarleG2453
+- Jua_7:2estaba cerca la fiesta de los j, la deG2453
+- Jua_7:11buscaban los j en la fiesta, y decíanG2453
+- Jua_7:13pero ninguno hablaba...por miedo a los jG2453
+- Jua_7:15se maravillaban los j, diciendo: ¿CómoG2453
+- Jua_7:35los j dijeron entre sí: ¿Adónde se iráG2453
+- Jua_8:22decían entonces los j: ¿Acaso se mataráG2453
+- Jua_8:31dijo...Jesús a los j que habían creídoG2453
+- Jua_8:48los j, y le dijeron: ¿No decimos bienG2453
+- Jua_8:52los j le dijeron: Ahora conocemos queG2453
+- Jua_8:57dijeron los j: Aún no tienes 50 años, ¿yG2453
+- Jua_9:18los j no creían que él había sido ciegoG2453
+- Jua_9:22tenían miedo de los j, por cuanto los jG2453
+- Jua_10:19volvió a haber disensión entre los jG2453
+- Jua_10:24le rodearon los j y le dijeron: ¿HastaG2453
+- Jua_10:31los j volvieron a tomar piedras paraG2453
+- Jua_10:33respondieron los j...Por buena obra noG2453
+- Jua_11:8ahora procuraban los j apedrearte, ¿yG2453
+- Jua_11:19los j habían venido a Marta y a MaríaG2453
+- Jua_11:31j...vieron que María se había levantadoG2453
+- Jua_11:33los j...también llorando, se estremecióG2453
+- Jua_11:36dijeron...los j: Mirad cómo le amabaG2453
+- Jua_11:45entonces muchos de los j...creyeron enG2453
+- Jua_11:54Jesús ya no andaba...entre los j, sinoG2453
+- Jua_11:55y estaba cerca la pascua de los j; yG2453
+- Jua_12:9de los j supieron...que él estaba allíG2453
+- Jua_12:11muchos de los j se apartaban y creíanG2453
+- Jua_13:33como dije a los j, así os digo ahoraG2453
+- Jua_18:12los alguaciles de los j, prendieron aG2453
+- Jua_18:14Caifás...había dado el consejo a los jG2453
+- Jua_18:20el templo, donde se reúnen todos los jG2453
+- Jua_18:31j le dijeron: A nosotros no nos estáG2453
+- Jua_18:33y le dijo: ¿Eres tú el Rey de los j?[[G2453]]
+- Jua_18:35Pilato le respondió: ¿Soy yo acaso j?[[G2453]]
+- Jua_18:36para que yo no fuera entregado a los jG2453
+- Jua_18:38dicho esto, salió otra vez a los j, yG2453
+- Jua_18:39¿queréis...que os suelte al Rey de los j?[[G2453]]
+- Jua_19:3y le decían: ¡Salve, Rey de los j! y leG2453
+- Jua_19:7los j le respondieron...tenemos una leyG2453
+- Jua_19:12pero los j daban voces, diciendo: SiG2453
+- Jua_19:14dijo a los j: ¡He aquí vuestro Rey![[G2453]]
+- Jua_19:19decía: JESÚS NAZARENO, REY DE LOS JG2453
+- Jua_19:20y muchos de los j leyeron este títuloG2453
+- Jua_19:21dijeron a Pilato...sacerdotes de los jG2453
+- Jua_19:21no escribas: Rey de los j; sino, queG2453
+- Jua_19:21no...sino, que él dijo: Soy Rey de los jG2453
+- Jua_19:31los j, por cuanto era la víspera de laG2453
+- Jua_19:38pero secretamente por miedo de los jG2453
+- Jua_19:40según es costumbre sepultar entre...jG2453
+- Jua_19:42la preparación de la pascua de los jG2453
+- Jua_20:19estaban reunidos por miedo de los jG2453
+- Hec_2:5entonces en Jerusalén j...piadosos, deG2453
+- Hec_2:10romanos aquí...tanto j como prosélitosG2453
+- Hec_2:14varones j, y todos los que habitáis enG2453
+- Hec_9:22Saulo...confundía a los j que morabanG2453
+- Hec_9:23los j resolvieron en consejo matarleG2453
+- Hec_10:22buen testimonio en...nación de los jG2453
+- Hec_10:28abominable es para un varón j juntarseG2453
+- Hec_11:19no hablando a nadie...sino sólo a los jG2453
+- Hec_12:3viendo que esto había agradado a los jG2453
+- Hec_12:11todo lo que el pueblo de los j esperabaG2453
+- Hec_13:5anunciaban la...en las sinagogas de los jG2453
+- Hec_13:6mago, falso profeta, j, llamado BarjesúsG2453
+- Hec_13:42salieron ellos de la sinagoga de los jG2453
+- Hec_13:43muchos de los j...siguieron a Pablo y aG2453
+- Hec_13:45pero viendo los j la muchedumbre, seG2453
+- Hec_13:50los j instigaron a mujeres piadosas yG2453
+- Hec_14:1entraron juntos en la sinagoga de los jG2453
+- Hec_14:1creyó una gran multitud de j, y...griegosG2453
+- Hec_14:2los j que no creían excitaron...ánimosG2453
+- Hec_14:4unos estaban con los j, y otros con losG2453
+- Hec_14:5cuando los j y los...con sus gobernantesG2453
+- Hec_14:19unos j...persuadieron a la multitud, yG2453
+- Hec_16:1Timoteo, hijo de una mujer j creyenteG2453
+- Hec_16:3circuncidó por causa de los j que habíaG2453
+- Hec_16:20estos hombres, siendo j, alborotanG2453
+- Hec_17:1Tesalónica...había una sinagoga de los jG2453
+- Hec_17:5los j que no creían, teniendo celosG2453
+- Hec_17:10ellos...entraron en la sinagoga de los jG2453
+- Hec_17:13cuando los j de Tesalónica supieron queG2453
+- Hec_17:17que discutía en la sinagoga con los jG2453
+- Hec_18:2halló a un j llamado Aquila, natural deG2453
+- Hec_18:2había mandado que todos los j saliesenG2453
+- Hec_18:4discutía...y persuadía a j y a griegosG2453
+- Hec_18:5testificando a los j que Jesús era elG2453
+- Hec_18:12los j se levantaron de común acuerdoG2453
+- Hec_18:14Galión dijo a los j: Si fuera algúnG2453
+- Hec_18:14fuera algún agravio...j...os toleraríaG2453
+- Hec_18:19y entrando en la...discutía con los jG2453
+- Hec_18:24llegó...a Efeso un j llamado ApolosG2453
+- Hec_18:28refutaba...los j, demostrando por lasG2453
+- Hec_19:10Asia, j y griegos, oyeron la palabraG2453
+- Hec_19:13algunos de los j...intentaron invocarG2453
+- Hec_19:14siete hijos de un tal Esceva, j, jefeG2453
+- Hec_19:17fue notorio a todos los...j como griegosG2453
+- Hec_19:33sacaron...a Alejandro, empujándole los jG2453
+- Hec_19:34cuando le conocieron que era j, todosG2453
+- Hec_20:3siéndole puestas asechanzas por los jG2453
+- Hec_20:19pruebas...por las asechanzas de los jG2453
+- Hec_20:21testificando a j y a gentiles acercaG2453
+- Hec_21:11atarán los j en Jerusalén al varón deG2453
+- Hec_21:20ves...millares de j hay que han creídoG2453
+- Hec_21:21enseñas a todos los j que están entreG2453
+- Hec_21:27unos j de Asia, al verle en el temploG2453
+- Hec_21:39yo de cierto soy hombre j de TarsoG2453
+- Hec_22:3yo de cierto soy j, nacido en Tarso deG2453
+- Hec_22:12tenía buen testimonio de todos los jG2453
+- Hec_22:30la causa por la cual le acusaban los jG2453
+- Hec_23:12algunos de los j tramaron un complotG2453
+- Hec_23:20le dijo: Los j han convenido en rogarteG2453
+- Hec_23:27a este hombre, aprehendido por los jG2453
+- Hec_23:30de asechanzas que los j habían tendidoG2453
+- Hec_24:5y promotor de sediciones entre...los jG2453
+- Hec_24:9j también confirmaban, diciendo ser asíG2453
+- Hec_24:18unos j de Asia me hallaron purificadoG2453
+- Hec_24:24viniendo Félix con Drusila...que era jG2453
+- Hec_24:27queriendo Félix congraciarse con los jG2453
+- Hec_25:2más influyentes de los j se presentaronG2453
+- Hec_25:7lo rodearon los j que habían venido deG2453
+- Hec_25:8ni contra la ley de los j, ni contraG2453
+- Hec_25:9Festo, queriendo congraciarse con los jG2453
+- Hec_25:10a los j no les he hecho ningún agravioG2453
+- Hec_25:15me presentaron...los ancianos de los jG2453
+- Hec_25:24la multitud de los j me ha demandadoG2453
+- Hec_26:2las cosas de que soy acusado por los jG2453
+- Hec_26:3conoces...cuestiones que hay entre los jG2453
+- Hec_26:4mi vida, pues...la conocen todos los jG2453
+- Hec_26:7por esta esperanza...acusado por los jG2453
+- Hec_26:21por causa de esto los j, prendiéndomeG2453
+- Hec_28:17convocó a los principales de los j, aG2453
+- Hec_28:19pero oponiéndose los j, me vi obligadoG2453
+- Hec_28:29j se fueron, teniendo gran discusiónG2453
+- Rom_1:16; Rom_2:9-10al j primeramente, y tambiénG2453
+- Rom_2:17he aquí, tú tienes el sobrenombre de jG2453
+- Rom_2:28no es j el que lo es exteriormente, niG2453
+- Rom_2:29es j el que lo es en lo interior, y laG2453
+- Rom_3:1¿qué ventaja tiene, pues, el j? ¿o de quéG2453
+- Rom_3:9pues ya hemos acusado a j y a gentilesG2453
+- Rom_3:29¿es Dios solamente Dios de los J? ¿NoG2453
+- Rom_9:24no sólo de los j, sino...los gentiles?[[G2453]]
+- Rom_10:12no hay diferencia entre j y griegoG2453
+- 1Co_1:22los j piden señales, y los griegosG2453
+- 1Co_1:23para los j ciertamente tropezadero, yG2453
+- 1Co_1:24así j como griegos, Cristo poder de DiosG2453
+- 1Co_9:20a los j como j, para ganar a los j; aG2453
+- 1Co_10:32no seáis tropiezo ni a j, ni...gentilesG2453
+- 1Co_12:13j o griegos, sean esclavos o libresG2453
+- 2Co_11:24de los j cinco veces he recibidoG2453
+- Gál_2:13participaban también los otros j, deG2453
+- Gál_2:14j, vives como los gentiles y no como jG2452, [[G2450]]
+- Gál_2:15j de nacimiento, y no pecadores de entreG2453
+- Gál_3:28ya no hay j ni griego; no hay esclavoG2453
+- Col_3:11no hay griego ni j, circuncisión niG2453
+- 1Ts_2:14cosas que ellas padecieron de los jG2453
+- Rev_2:9la blasfemia de los que se dicen ser jG2453
+- Rev_3:9a los que se dicen ser j y no lo sonG2453

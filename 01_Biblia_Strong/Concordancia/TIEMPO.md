@@ -1,0 +1,630 @@
+---
+tipo: concordancia
+palabra: TIEMPO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TIEMPO
+
+- Gén_4:3andando el t, que Caín trajo del frutoH3117
+- Gén_17:21el que Sara te dará a luz por este t el
+- Gén_18:10según el t de la vida, he aquí que SaraH6256
+- Gén_18:14al t señalado volveré a ti, y según el
+- Gén_18:14según el t de la vida, Sara tendrá unH6256
+- Gén_21:2y Sara...en el t que Dios le había dicho
+- Gén_21:22en aquel mismo t que habló AbimelecH6256
+- Gén_29:7día; no es t todavía de recoger el ganadoH6256
+- Gén_29:21mi mujer, porque mi t se ha cumplidoH3117
+- Gén_30:14fue Rubén en t de la siega de los trigosH3117
+- Gén_31:10que al t que las ovejas estaban en celoH6256
+- Gén_38:1aconteció en aquel t...Judá se apartó deH6256
+- Gén_38:27al t de dar a luz...gemelos en su senoH6256
+- Éxo_2:3no pudiendo ocultarle más t, tomó unH5750
+- Éxo_12:39no...tenido t ni para prepararse comida
+- Éxo_12:40el t que los hijos de Israel habitaron
+- Éxo_13:10guardarás este rito en su t de año enH4150
+- Éxo_18:22ellos juzgarán al pueblo en todo t; yH6256
+- Éxo_18:26juzgaban al pueblo en todo t; el asuntoH6256
+- Éxo_21:29, Éxo_21:36el buey...acorneador desde t atrás
+- Éxo_23:15sin levadura...en el t del mes de Abib
+- Éxo_34:18según te he mandado, en el t señaladoH4150
+- Lev_13:46el t que la llaga estuviere en él, será inmundoH3117
+- Lev_15:25días fuera del t de su costumbre, oH6256
+- Lev_15:25el t de su flujo será inmunda como enH6256
+- Lev_15:26en que durmiere todo el t de su flujoH3117
+- Lev_16:2que no en todo t entre en el santuarioH6256
+- Lev_23:4fiestas...las cuales convocaréis en sus tH4150
+- Lev_23:37ofrecer...libaciones, cada cosa en su tH3117
+- Lev_24:10aquel t el hijo de una mujer israelita
+- Lev_25:32podrán rescatar en cualquier t las casas
+- Lev_25:50y se contará el t que estuvo con élH8141
+- Lev_25:50conforme al t de un criado asalariado
+- Lev_25:52y si quedare poco t hasta el año delH8141
+- Lev_26:4y yo daré vuestra lluvia en su t, y laH6256
+- Lev_26:10comeréis...añejo de mucho t, y pondréis
+- Lev_26:35el t que esté asolada, descansará porH3117
+- Núm_6:4todo el t de su nazareato, de todo loH3117
+- Núm_6:5todo el t del voto de...no pasará navajaH3117
+- Núm_6:6todo el t que se aparte para Jehová, noH3117
+- Núm_6:8todo el t de su nazareato, será santoH3117
+- Núm_6:13que se cumpliere el t de su nazareatoH3117
+- Núm_9:2de Israel celebrarán la pascua a su tH4150
+- Núm_9:3entre...dos tardes, la celebraréis a su tH4150
+- Núm_9:7de ofrecer ofrenda a Jehová a su t entreH4150
+- Núm_9:13no ofreció a su t la ofrenda de JehováH4150
+- Núm_13:20fruto...Y era el t de las primeras uvasH3117
+- Núm_20:15a Egipto, y estuvimos en Egipto largo tH3117
+- Núm_28:2mi...guardaréis, ofreciéndomelo a su tH4150
+- Deu_1:6habéis estado bastante t en este monte
+- Deu_1:9en aquel t yo os hablé diciendo: Yo soloH6256
+- Deu_1:18mandé...en aquel t, todo lo que habíais
+- Deu_2:1y rodeamos el monte de Seir por mucho tH3117
+- Deu_2:20habitaron en ella gigantes en otro t, a
+- Deu_3:8tomamos en aquel t la tierra desde el arroyo de ArnónH6256
+- Deu_3:12tierra que heredamos en aquel t, desde AroerH6256
+- Deu_3:21ordené...a Josué en aquel t, diciendoH6256
+- Deu_3:23y oré a Jehová en aquel t, diciendoH6256
+- Deu_4:14mandó Jehová en aquel t que os enseñaseH6256
+- Deu_4:32pregunta...si en los t pasados que hanH3117
+- Deu_10:1en aquel t Jehová me dijo: Lábrate dosH6256
+- Deu_10:8aquel t apartó Jehová la tribu de LevíH6256
+- Deu_11:14yo daré la lluvia...a su t, la tempranaH6256
+- Deu_28:12para enviar la lluvia a tu tierra en su tH6256
+- Deu_32:7acuérdate de los t antiguos, consideraH311
+- Deu_32:35a su t su pie resbalará, porque el díaH6256
+- Jos_3:15suele desbordarse...el t de la siegaH3117
+- Jos_5:2en aquel t Jehová dijo a Josué: HazteH6256
+- Jos_6:26en aquel t hizo Josué un juramentoH6256
+- Jos_8:14y al t señalado...salieron al encuentro
+- Jos_11:10tomó en el mismo t a Hazor, y mató aH6256
+- Jos_11:18mucho t tuvo guerra Josué con...reyesH3117
+- Jos_11:21en aquel t vino Josué y destruyó a losH6256
+- Jos_14:10el t que Jehová habló estas palabras a
+- Jos_20:6la muerte del que...sacerdote en aquel tH3117
+- Jos_22:3este largo t hasta el día de hoy, sinoH3117
+- Jos_24:31sirvió Israel a Jehová...el t de JosuéH3117
+- Jos_24:31t de los ancianos que sobrevivieron aH3117
+- Jue_2:7el t de Josué, y...el t de los ancianosH3117
+- Jue_2:18y los libraba...todo el t de aquel juezH3117
+- Jue_3:29en aquel t mataron a los moabitas comoH6259
+- Jue_4:4gobernaba en aquel t...una mujer, DéboraH6259
+- Jue_10:8oprimieron y...Israel en aquel t 18 años
+- Jue_10:14os libren ellos en el t de...aflicciónH6259
+- Jue_11:4aconteció andando el t, que los hijos deH3117
+- Jue_11:26qué no las habéis recobrado en ese t?[[H6259]]
+- Jue_14:4en aquel t los filisteos dominaban sobre IsraelH6259
+- Jue_15:1aconteció después de algún t, que en losH3117
+- Jue_18:31t que la casa de Dios estuvo en Silo
+- Jue_19:30desde el t en que los hijos de IsraelH3117
+- Jue_20:15contados en aquel t los...26.000 hombres
+- Rut_4:7había ya desde hacía t esta costumbreH6440
+- 1Sa_1:20al cumplirse el t...dio a luz un hijoH5117
+- 1Sa_2:32y en ningún t habrá anciano en tu casa
+- 1Sa_4:1por aquel t salió Israel a encontrar en
+- 1Sa_4:20t que moría, le decían las que estabanH6256
+- 1Sa_7:15y juzgó Samuel a Israel todo el t queH3117
+- 1Sa_14:21hebreos...con los filisteos de t atrásH8032
+- 1Sa_14:52guerra encarnizada...todo el t de SaúlH3117
+- 1Sa_17:12en el t de Saúl este hombre era viejoH3117
+- 1Sa_18:19llegado el t en que Merab...se había deH6256
+- 1Sa_20:31todo el t que el hijo de Isaí viviereH3117
+- 1Sa_20:35salió Jonatán...al t señalado con David
+- 1Sa_22:4habitaron...todo el t que David estuvo enH3117
+- 1Sa_25:7ni les faltó nada en todo el t que hanH3117
+- 1Sa_25:15ni nos faltó nada...el t que estuvimosH3117
+- 1Sa_27:8éstos habitaban de largo t la tierra
+- 1Sa_27:11fue su costumbre todo el t que moró enH3117
+- 2Sa_3:17hace...t procurabais que David fueseH8543
+- 2Sa_11:1en el t que salen los reyes a la guerraH6256
+- 2Sa_14:2mujer que desde mucho t está de dueloH3117
+- 2Sa_18:14no malgastaré mi t contigo. Y tomando
+- 2Sa_20:5Amasa...se detuvo más del t...señalado
+- 2Sa_23:13vinieron en t de la siega a David en
+- 2Sa_24:15y Jehová envió la peste...el t señaladoH6256
+- 1Re_2:5derramando en t de paz la sangre de
+- 1Re_3:2no había casa...Jehová hasta aquellos tH3117
+- 1Re_3:16en aquel t vinieron al rey dos mujeres
+- 1Re_8:59para que él proteja...cada cosa en su tH3117
+- 1Re_8:65en aquel t Salomón hizo fiesta, y conH6256
+- 1Re_10:21plata...t de Salomón no era apreciadaH3117
+- 1Re_11:29en aquel t, que saliendo Jeroboam deH6256
+- 1Re_14:1en aquel t Abías hijo de Jeroboam cayóH6256
+- 1Re_14:20el t que reinó Jeroboam fue de 22 añosH3117
+- 1Re_15:16, 1Re_15:32guerra entre Asa y Baasa...todo el tH3117
+- 1Re_16:34su t Hiel de Bet-el reedificó a JericóH3117
+- 1Re_22:46había quedado en el t de su padre AsaH3117
+- 2Re_4:16él dijo: El año que viene, por este tH6256
+- 2Re_4:17y dio a luz un hijo...el t que Eliseo leH6256
+- 2Re_5:26¿es t de tomar plata, y...viñas, ovejasH6256
+- 2Re_8:20en el t de él se rebeló Edom contra elH3117
+- 2Re_8:22también se rebeló Libna en el mismo tH6256
+- 2Re_10:36t que reinó Jehú sobre...fue de 28 añosH3117
+- 2Re_12:2y Joás hizo lo recto...todo el t que leH3117
+- 2Re_13:3los entregó en mano de Hazael...largo tH3117
+- 2Re_13:22afligió a Israel todo el t de JoacazH3117
+- 2Re_15:18todo su t no se apartó de los pecadosH3117
+- 2Re_15:37aquel t comenzó Jehová a enviar contraH3117
+- 2Re_16:6en aquel t el rey de Edom recobró ElatH6256
+- 2Re_17:41y al mismo t sirvieron a sus ídolos
+- 2Re_19:25oído que desde t antiguos yo lo hice, yH7350
+- 2Re_20:12aquel t Merodac-baladán hijo de...reyH6256
+- 2Re_21:6se dio a observar los t, y fue agorero
+- 2Re_23:22no había...hecho tal pascua desde los tH3117
+- 2Re_23:22en todos los t de los reyes de IsraelH3117
+- 2Re_24:1en su t subió en campaña NabucodonosorH3117
+- 2Re_24:10en aquel t subieron contra JerusalénH6256
+- 1Cr_7:2Tola fueron contados...el t de DavidH3117
+- 1Cr_11:22mató a un león en...foso, en t de nieveH3117
+- 1Cr_12:32entendidos en los t, y que sabían lo queH3117
+- 1Cr_13:3desde el t de Saúl no hemos hecho casoH3117
+- 1Cr_17:10y desde el t que puse los jueces sobreH3117
+- 1Cr_17:17hablado de la casa...para t más lejano
+- 1Cr_20:1en el t que suelen los reyes salir a laH6256
+- 1Cr_29:27el t que reinó sobre Israel fue 40 añosH3117
+- 1Cr_29:30y los t que pasaron sobre él, y sobre
+- 2Cr_13:18humillados los...Israel en aquel tH6256
+- 2Cr_14:6no había guerra contra él en aquellos t
+- 2Cr_15:5en aquellos t no hubo paz, ni para el que
+- 2Cr_16:7en aquel t vino el vidente Hanani a AsaH6256
+- 2Cr_16:10y oprimió Asa en aquel t a algunos delH6256
+- 2Cr_21:10en el mismo t Libna se libertó de suH6256
+- 2Cr_24:11el t para llevar el arca al secretarioH6256
+- 2Cr_25:27t en que Amasías se apartó de JehováH6256
+- 2Cr_28:16en aquel t envió a pedir el rey AcazH6256
+- 2Cr_28:22en el t que aquél le apuraba, añadióH6256
+- 2Cr_30:5mucho t no la habían celebrado al modo
+- 2Cr_32:24en aquel t Ezequías enfermó de muerteH3117
+- 2Cr_33:6observaba los t, miraba en agüeros, era
+- 2Cr_34:33no se apartaron de...el t que el vivióH3117
+- 2Cr_35:17celebraron la pascua en aquel t, y laH6256
+- 2Cr_36:21el t de su asolamiento reposó, hastaH3117
+- Esd_4:5sobornaron...todo el t de Ciro rey de
+- Esd_4:15de t antiguo forman en...ella rebelionesH3118
+- Esd_4:19t antiguo se levanta contra los reyes yH3118
+- Esd_5:3aquel t vino...Tatnai gobernador del otroH2166
+- Esd_8:34y se apuntó todo aquel peso en aquel tH6256
+- Esd_10:13el t lluvioso, y no podemos estar en laH6256
+- Esd_10:14vengan en t determinados, y con ellosH6256
+- Neh_2:6enviarme, después que yo le señalé tH2165
+- Neh_6:1hasta aquel t no había puesto las hojasH6256
+- Neh_9:27en el t de su tribulación clamaron a tiH6256
+- Neh_10:34en los t determinados cada año, paraH6256
+- Neh_11:17y acción de gracias al t de la oración
+- Neh_12:46desde el t de David...había un directorH3117
+- Neh_13:31la ofrenda de la leña en los t señaladosH6256
+- Est_1:13rey a los sabios que conocían los tH6256
+- Est_2:12cuando llegaba el t de cada una de lasH8447
+- Est_2:12se cumplía el t de sus atavíos, esto esH3117
+- Est_2:15le llegó a Ester...el t de venir al rey
+- Est_4:14si callas...en este t, respiro...vendrá deH6256
+- Est_9:27celebrar estos dos días...a su t cada añoH2165
+- Est_9:31para confirmar...días de Purim en sus tH2165
+- Job_5:26gavilla de trigo que se recoge a su t
+- Job_6:17que al t del calor son deshechas, y alH6256
+- Job_10:5tus días...o tus años como los t humanosH3117
+- Job_15:32él será cortado antes de su t, y susH3117
+- Job_20:4el t que fue puesto el hombre sobre la
+- Job_22:16los cuales fueron cortados antes de tH6256
+- Job_24:1que no son ocultos los t al TodopoderosoH6256
+- Job_27:3que todo el t que mi alma esté en mí, yH5750
+- Job_27:10deleitará...¿invocará a Dios en todo t?
+- Job_38:23reservado para el t de angustia, paraH6256
+- Job_38:32¿sacarás tú a su t las constelacionesH6256
+- Job_39:1¿sabes tú el t en que paren las cabrasH6256
+- Job_39:2su preñez, y...el t cuando han de parir?[[H6256]]
+- Sal_1:3da su fruto en su t, y su hoja no caeH6256
+- Sal_9:9del pobre, refugio para el t de angustiaH6256
+- Sal_10:1te escondes en el t de la tribulación?[[H6256]]
+- Sal_10:5sus caminos son torcidos en todo t; tus
+- Sal_21:9como horno de fuego en el t de tu iraH6256
+- Sal_31:15en tu mano están mis t; líbrame de laH6256
+- Sal_32:6orará...en el t en que puedas ser halladoH6256
+- Sal_33:19para librar...darles vida en t de hambre
+- Sal_34:1bendeciré a Jehová en...t; su alabanzaH6256
+- Sal_37:19no serán avergonzados en el mal t, yH6256
+- Sal_37:26en todo t tiene misericordia, y presta
+- Sal_37:39es su fortaleza en el t de la angustiaH6256
+- Sal_44:1la obra que hiciste...en los t antiguosH3117
+- Sal_44:8en Dios nos gloriaremos todo el t, y para
+- Sal_62:8esperad en él en todo t, oh pueblosH3117
+- Sal_69:13a ti oraba...al t de tu buena voluntadH6256
+- Sal_71:9no me deseches en el t de la vejezH6256
+- Sal_74:2la que adquiriste desde t antiguos, la
+- Sal_74:12Dios es mi rey desde t antiguo; el que
+- Sal_75:2al t que señalaré yo juzgaré rectamente
+- Sal_78:2hablaré cosas escondidas...t antiguos
+- Sal_81:15y el t de ellos sería para siempreH6256
+- Sal_89:47recuerda cuán breve es mi t; ¿por qué
+- Sal_102:13porque es t de tener misericordia deH6256
+- Sal_104:19la luna para los t; el sol conoce suH4150
+- Sal_104:27en ti, para que les des su comida a su tH6256
+- Sal_106:3dichosos...que hacen justicia en todo tH6256
+- Sal_119:20alma de desear tus juicios en todo tH6256
+- Sal_119:43no quites...en ningún t la palabra de
+- Sal_119:126t es de actuar, oh Jehová, porque hanH6256
+- Sal_120:6mucho t ha morado mi alma con los queH7227
+- Sal_145:15esperan...tú les das su comida a su tH6256
+- Pro_5:19sus caricias te satisfagan en todo tH6256
+- Pro_6:8y recoge en el t...siega su mantenimiento
+- Pro_6:14anda pensando el mal en todo t; siembraH6256
+- Pro_8:30teniendo solaz delante de él en todo tH6256
+- Pro_10:5que duerme en el t de la siega es hijoH7105
+- Pro_15:23y la palabra a su t, ¡cuán buena es![[H6256]]
+- Pro_17:17en todo t ama el amigo, y es como unH6256
+- Pro_17:17y es como un hermano en t de angustia
+- Pro_23:17antes preserva en el temor...todo el tH3117
+- Pro_25:13como frío de nieve en t de la siega, asíH3117
+- Pro_25:19es la confianza en el...en t de angustiaH3117
+- Pro_25:20como el que quita la ropa en t de frío
+- Pro_27:15gotera continua en t de lluvia y laH3117
+- Ecl_3:1todo tiene su t, y todo...tiene su horaH6256
+- Ecl_3:2t de nacer, y t de morir; t de plantar, y t de arrancar lo plantadoH6256
+- Ecl_3:3t de matar, y t de curar; t de destruir, y t de edificarH6256
+- Ecl_3:4t de llorar, y t de reir; t de endechar, y t de bailarH6256
+- Ecl_3:5t de esparcir piedras, y t de juntarH6256
+- Ecl_3:5t de abrazar, y t de abstenerse...abrazarH6256
+- Ecl_3:6t de buscar, y t de perder; t de guardar, y t de desecharH6256
+- Ecl_3:7t de romper, y t de coser; t de callar, y t de hablarH6256
+- Ecl_3:8t de amar, y t de aborrecer; t de guerra, y t de pazH6256
+- Ecl_3:11todo lo hizo hermoso en su t; y ha puestoH6256
+- Ecl_3:17allí hay un t para todo lo que se quiereH6256
+- Ecl_7:10de que los t pasados fueron mejores queH3117
+- Ecl_7:17¿por qué habrás de morir antes de tu t?[[H6256]]
+- Ecl_8:5el corazón del sabio discierne el t y elH6256
+- Ecl_8:6porque para todo lo que quisieres hay tH6256
+- Ecl_8:9hay t en que el hombre se enseñorea delH6256
+- Ecl_9:8en todo t sean blancos tus vestidos, y
+- Ecl_9:11sino que t y ocasión acontecen a todosH6256
+- Ecl_9:12el hombre tampoco conoce su t; como losH6256
+- Ecl_9:12así son enlazados...hombres en el t maloH6256
+- Cnt_2:12el t de la canción ha venido, y enH6256
+- Isa_2:2acontecerá en lo postrero de los t, queH3117
+- Isa_4:1echarán mano de un hombre 7...en aquel t
+- Isa_4:2en aquel t el renuevo de Jehová será paraH3117
+- Isa_7:21acontecerá en aquel t, que criará unH3117
+- Isa_7:23acontecerá también en aquel t, que elH3117
+- Isa_9:1le vino en el t que livianamente tocaron
+- Isa_10:20en aquel t, que los que hayan quedadoH3117
+- Isa_10:25aquí a muy poco t se acabará mi furor
+- Isa_10:27en aquel t que su carga será quitada deH3117
+- Isa_11:10en aquel t que la raíz de Isaí, la cualH3117
+- Isa_11:11en aquel t, que Jehová alzará otra vezH6256
+- Isa_13:22cercano a llegar está su t, y sus díasH6256
+- Isa_16:13es la palabra...sobre Moab desde aquel tH227
+- Isa_17:4en aquel t la gloria de Jacob se atenuaráH3117
+- Isa_17:14al t de la tarde, he aquí la turbación
+- Isa_18:7en aquel t será traída ofrenda a Jehová
+- Isa_19:18en aquel t habrá cinco ciudades en laH3117
+- Isa_19:19en aquel t habrá altar para Jehová enH3117
+- Isa_19:23en aquel t habrá una calzada de EgiptoH3117
+- Isa_19:24aquel t Israel será tercero con EgiptoH3117
+- Isa_20:2en aquel t habló Jehová...medio de Isaías
+- Isa_29:17¿no se convertirá de aquí a muy poco t
+- Isa_29:18aquel t los sordos oirán las palabrasH3117
+- Isa_30:23ganados en aquel t serán apacentadosH3117
+- Isa_30:33porque Tofet ya de t está dispuesto y
+- Isa_33:2sé también nuestra salvación en t de la tribulación
+- Isa_33:6y reinarán en tus t la sabiduría y laH6256
+- Isa_37:26desde t antiguos yo lo hice, que desde
+- Isa_39:1aquel t Merodac-baladán hijo de Baladán
+- Isa_40:2decidle a voces que su t es ya cumplido
+- Isa_41:26t atrás, y diremos: Es justo? CiertoH6440
+- Isa_46:9acordaos de las cosas...los t antiguos
+- Isa_48:5lo dije ya hace t; antet que sucediera
+- Isa_49:8así dijo Jehová: En t aceptable te oí, y
+- Isa_51:9despiértate como en el t antiguo, en los
+- Isa_52:4mi pueblo descendió a Egipto en t pasado
+- Isa_57:11¿no he guardado silencio...t antiguos
+- Isa_60:22yo Jehová, a su t haré que esto sea
+- Isa_63:18por poco t lo poseyó tu santo puebloH4705
+- Isa_64:5pecados hemos perseverado por largo t
+- Isa_66:18t vendrá...juntar a todas las naciones
+- Jer_2:24porque en el t de su celo la hallarán
+- Jer_2:27en el t de su calamidad dicen: Levántate
+- Jer_2:28podrán librar en el t de tu aflicción
+- Jer_3:17en aquel t llamarán a Jerusalén: Trono
+- Jer_3:18en aquellos t irán de la casa de Judá aH3117
+- Jer_4:11t se dirá a este pueblo y a Jerusalén
+- Jer_5:24da lluvia temprana y tardía en su t, y
+- Jer_5:24guarda los t establecidos de la siega
+- Jer_8:1aquel t...sacarán los huesos de los reyes
+- Jer_8:7aun la cigüeña en el cielo conoce su t
+- Jer_8:7la grulla y...guardan el t de su venida
+- Jer_10:15vanidad...al t de su castigo perecerán
+- Jer_11:12no los podrán salvar en el t de su mal
+- Jer_14:8Guardador suyo en el t de la aflicción
+- Jer_14:19t de curación, y he aquí turbación
+- Jer_15:11t de aflicción y en época de angustia
+- Jer_16:19oh Jehová...refugio mío en el t de laH3117
+- Jer_18:23haz así con ellos en el t de tu enojo
+- Jer_26:18Miqueas de...profetizó en t de EzequíasH3117
+- Jer_27:7le servirán...hasta que venga...el t de
+- Jer_28:8los profetas que fueron...en t pasados
+- Jer_30:7t de angustia pai a Jacob; pero de ellaH6256
+- Jer_31:1en aquel t...seré por Dios a...familiasH6256
+- Jer_31:3Jehová se manifestó a...hace ya mucho t
+- Jer_33:15aquel t haré brotar a David un RenuevoH6256
+- Jer_33:20pacto...que no haya día ni noche a su tH6256
+- Jer_46:17Faraón...es destruido; dejó pasar el t
+- Jer_46:21vino sobre ellos...el t de su castigoH6256, [[H0]]
+- Jer_48:47haré volver a...en lo postrero de los tH3117
+- Jer_49:8traeré sobre él...t en que lo castigueH6256
+- Jer_50:4en aquel t...vendrán los hijos de IsraelH6256
+- Jer_50:16al que siembra y al que mete hoz en t deH6256
+- Jer_50:20en aquel t...la maldad de Israel seráH6256
+- Jer_50:27ha venido su día, el t de su castigoH6256
+- Jer_50:31día ha venido, el t en que te castigaréH6256
+- Jer_51:6el t es de venganza de Jehová; le daráH6256
+- Jer_51:18de burla; en el t del castigo pereceránH6256
+- Jer_51:33aquí a poco le vendrá el t de la siegaH6256
+- Lam_1:7cosas...que tuvo desde los t antiguosH3117
+- Lam_2:17la cual él había mandado desde t antiguoH3117
+- Lam_3:6me dejó...como los ya muertos de mucho t
+- Lam_5:20¿por qué...y nos abandonas tan largo t?[[H3117]]
+- Eze_4:10comida...al día; de t en t la comerásH6256
+- Eze_4:11y beberás el agua...de t en t la beberásH6256
+- Eze_4:14ni nunca desde mi juventud hasta este tH6256
+- Eze_7:7el t viene, cercano está el día; día deH6256
+- Eze_7:12el t ha venido, se acercó el día; el queH6256
+- Eze_12:27dicen...para lejanos t profetiza ésteH6256
+- Eze_16:8miré, y he aquí que tu t era t de amoresH6256
+- Eze_16:56no era...Sodoma digna de...en el t de tusH3117
+- Eze_19:5viendo ella que había esperado mucho t
+- Eze_21:25el t de la consumación de la maldad
+- Eze_21:29día vino en el t de la consumación deH3117
+- Eze_27:34t en que seas quebrantada por...maresH6256
+- Eze_29:21en aquel t haré retoñar el poder de laH3117
+- Eze_30:9en aquel t saldrán mensajeros...en navesH3117
+- Eze_34:26daré...haré descender la lluvia en su tH6256
+- Eze_35:5en el t de su aflicción, en el t...maloH6256
+- Eze_38:14aquel t, cuando mi pueblo Israel habiteH3117
+- Eze_38:17tú aquel de quien hablé yo en t pasadosH3117
+- Eze_38:17profetizaron en aquellos t que yo teH3117
+- Eze_38:18en aquel t, cuando venga Gog contra laH3117
+- Eze_38:19en aquel t habrá gran temblor sobre laH3117
+- Eze_39:11en aquel t yo daré a Gog lugar paraH3117
+- Eze_47:12a su t madurará, porque sus aguas salen
+- Dan_2:9respuesta...entre tanto que pasa el tH5732
+- Dan_2:16pidió al rey que le diese t, y que élH2166
+- Dan_2:21él muda los t y las edades; quita reyesH5732
+- Dan_3:8en aquel t...varones caldeos vinieron yH2166
+- Dan_4:16sea cambiado...y pasen sobre él siete tH5732
+- Dan_4:23parte, hasta que pasen sobre él siete tH5732
+- Dan_4:25, Dan_4:32siete t pasarán sobre ti, hasta queH5732
+- Dan_4:34al fin del t yo...alcé mis ojos al cieloH3117
+- Dan_4:36en el mismo t mi razón me fue devueltaH2166
+- Dan_7:12sido prolongada la vida hasta cierto tH5732
+- Dan_7:22el t, y los santos recibieron el reinoH2166
+- Dan_7:25y pensará en cambiar los t y la ley; yH5732
+- Dan_7:25serán...en su mano hasta t, y t, y medio tH2166
+- Dan_8:17porque la visión es para el t del finH6256
+- Dan_8:19yo te enseñaré...eso es para el t del fin
+- Dan_9:25se volverá a edificar...en t angustiosos
+- Dan_11:6que estaban de parte de ella en aquel t
+- Dan_11:14aquellos t se levantarán muchos contra
+- Dan_11:24formará sus designios; y esto por un tH6256
+- Dan_11:29t señalado volverá al sur; mas no será
+- Dan_11:35sabios caerán...hasta el t determinadoH6256
+- Dan_11:40al cabo del t el rey del sur contenderáH6256
+- Dan_12:1en aquel t se levantará Miguel, el granH6256
+- Dan_12:1t de angustia, cual nunca fue desde queH6256
+- Dan_12:1aquel t será libertado tu pueblo, todosH6256
+- Dan_12:4tú...sella el libro hasta el t del finH6256
+- Dan_12:7que será por t, t, y la mitad de un tH4150
+- Dan_12:9estas palabras están selladas hasta el tH6256
+- Dan_12:11desde el t que sea quitado...sacrificioH6256
+- Ose_2:9volveré y tomaré mi trigo a su t, y miH6259
+- Ose_2:15allí cantará como en los t de su juventudH3117
+- Ose_2:16en aquel t...me llamarás Ishi, y nuncaH3117
+- Ose_2:18en aquel t haré para ti pacto con lasH3117
+- Ose_2:21en aquel t responderé, dice Jehová, yoH3117
+- Ose_8:10y serán afligidos un poco de t por la
+- Ose_10:12es el t de buscar a Jehová, hasta queH6256
+- Ose_13:13ya hace t que no debiera detenerse al
+- Joe_2:23os ha dado la primera lluvia a su t
+- Joe_3:1aquel t en que haré volver la cautividadH6256
+- Joe_3:18en aquel t, que los montes destilaránH3117
+- Amó_5:13en tal t calla, porque el t es maloH6256
+- Amó_8:13en aquel t las doncellas...desmayarán deH3117
+- Amó_9:11yo...y lo edificaré como en el t pasadoH3117
+- Miq_2:3ni andaréis erguidos...el t será maloH6256
+- Miq_2:4aquel t levantarán sobre vosotros refránH3117
+- Miq_3:4antes esconderá de...su rostro en aquel tH6256
+- Miq_4:1en los postreros t que el monte de JehováH3117
+- Miq_5:3pero los dejará hasta el t que dé a luzH6256
+- Miq_7:14busque pasto en...como en el t pasadoH3117
+- Miq_7:20la misericordia, que juraste a...desde tH3117
+- Nah_2:8fue Nínive de t antiguo como estanque
+- Hab_2:3aunque la visión tardará aún por un t
+- Hab_3:2Jehová, aviva tu obra en medio de los t
+- Hab_3:2tu obra...en medio de los t hazla conocer
+- Sof_1:12en aquel t...escudriñaré a JerusalénH6256
+- Sof_3:9aquel t devolveré yo a los pueblos pureza
+- Sof_3:16aquel t se dirá a Jerusalén: No temasH3117
+- Sof_3:18a los fastidiados por causa del largo t
+- Sof_3:19en aquel t yo apremiaré a...tus opresoresH6256
+- Sof_3:20en aquel t yo os traeré, en aquel t osH6256
+- Hag_1:2no ha llegado...t, el t de que la casaH6256
+- Hag_1:4¿es para vosotros t...de habitar en...casasH6256
+- Zac_12:8débil, en aquel t será como David; y
+- Zac_13:1aquel t habrá un manantial abierto paraH3117
+- Zac_13:4en aquel t...los profetas se avergonzaránH3117
+- Mal_3:2quién podrá soportar el t...su venida?[[H3117]]
+- Mat_1:11engendró...en el t de la deportación aG1909
+- Mat_2:7indagó...t de la aparición de la estrellaG5550
+- Mat_2:16al t que había inquirido de los magosG5550
+- Mat_8:29venido...para atormentarnos antes de t?[[G2540]]
+- Mat_11:21t ha que se hubieran arrepentido en
+- Mat_11:25en aquel t, respondiendo Jesús, dijoG2540
+- Mat_12:1en aquel t iba Jesús por los sembradosG2540
+- Mat_13:30t de la siega yo diré a los segadoresG2540
+- Mat_14:1aquel t Herodes el tetrarca oyó la famaG2540
+- Mat_16:2cuando anochece, decís: Buen t, porque
+- Mat_16:3¡mas las señales de los t no podéis![[G2540]]
+- Mat_18:1aquel t los discípulos vinieron a JesúsG5610
+- Mat_21:34y cuando se acercó el t de los frutosG2540
+- Mat_21:41a otros...que le paguen el fruto a su tG2540
+- Mat_24:45puso...para que les dé el alimento a t?[[G2540]]
+- Mat_25:19después de mucho t vino el señor deG5550
+- Mat_26:18el Maestro dice: Mi t está cerca; enG2540
+- Mar_1:15t se ha cumplido, y el reino de DiosG2540
+- Mar_6:31de manera que ni aun tenían t para comer
+- Mar_9:21¿cuánto t hace que le sucede esto? Y élG4214
+- Mar_10:30reciba cien veces más ahora en este tG2540
+- Mar_11:13nada halló sino...pues no era t de higosG2540
+- Mar_12:2a su t envió un siervo a los labradoresG2540
+- Mar_13:19desde el principio de la...hasta este tG3568
+- Mar_13:33y orad, porque no sabéis cuándo...el tG2540
+- Luc_1:20palabras...cuales se cumplirán a su tG2540
+- Luc_1:57cuando a Elisabet se le cumplió el t deG5550
+- Luc_4:13diablo hubo...se apartó de él por un tG2540
+- Luc_4:27muchos leprosos había...en t del profetaG1909
+- Luc_8:13por algún t, y en el t de la prueba seG2540
+- Luc_8:27endemoniado desde hacía mucho t; y noG5550
+- Luc_8:29hacía...t que se había apoderado de él
+- Luc_9:51se cumplió el t en que él había de serG2250
+- Luc_10:13t ha que sentadas en cilicio y ceniza
+- Luc_12:42casa, para que a t les dé su ración?[[G2540]]
+- Luc_12:56sabéis...¿y cómo no distinguís este t?[[G2540]]
+- Luc_13:1en este mismo t estaban allí algunos queG2540
+- Luc_13:35llegue el t en que digáis: Bendito el
+- Luc_17:22t vendrá cuando desearéis ver uno deG2250
+- Luc_18:4él no quiso por algún t; pero despuésG5550
+- Luc_18:30que no haya de recibir...más en este tG2540
+- Luc_19:44no conociste el t de tu visitaciónG2540
+- Luc_20:9la arrendó a...y se ausentó por mucho tG5550
+- Luc_20:10su t envió un siervo a los labradoresG2540
+- Luc_21:8diciendo: Yo soy el...y: El t está cercaG2540
+- Luc_21:24que los t de los gentiles se cumplanG2540
+- Luc_21:36en todo t orando que seáis tenidos por
+- Luc_23:8se alegró...hacía t que deseaba verle
+- Jua_5:4ángel descendía de t en t al estanqueG2540
+- Jua_5:6supo que llevaba ya mucho t así, le dijoG5550
+- Jua_5:35quisisteis regocijaros por un t en su luzG5610
+- Jua_7:6mi t aún no ha llegado, mas vuestro tG2540
+- Jua_7:8yo no subo...mi t aún no se ha cumplidoG2540
+- Jua_7:33un poco de t estaré con vosotros, e iréG5550
+- Jua_14:9¿tanto t hace que estoy con vosotros, yG5550
+- Hec_1:6¿restaurarás el reino a Israel en...t?[[G5550]]
+- Hec_1:7no os toca a vosotros saber los t o lasG5550
+- Hec_1:21todo el t que el Señor Jesús entraba yG5550
+- Hec_3:19para que vengan de la...t de refrigerioG2540
+- Hec_3:21que el cielo reciba hasta los t de laG5550
+- Hec_3:21profetas que han sido desde t antiguoG5550
+- Hec_7:17cuando se acercaba el t de la promesaG5550
+- Hec_7:20en aquel mismo t nació Moisés, y fueG2540
+- Hec_8:11sus artes mágicas les había engañado...tG5550
+- Hec_11:28gran hambre...sucedió en t de ClaudioG1909
+- Hec_12:1aquel mismo t el rey Herodes echó manoG2540
+- Hec_13:11ciego, y no verás el sol por algún tG2540
+- Hec_13:18y por un t como de cuarenta años losG5550
+- Hec_14:3se detuvieron allí mucho t, hablando conG5550
+- Hec_14:17dándonos lluvias del...y t fructíferosG2540
+- Hec_14:28quedaron allí mucho t con los discípulosG5550
+- Hec_15:7ya hace algún t que Dios escogió que losG2250
+- Hec_15:18hace conocer todo esto desde t antiguos
+- Hec_15:21Moisés desde t antiguos tiene en cadaG1074
+- Hec_15:33algún t allí, fueron despedidos en paz
+- Hec_17:26y les ha prefijado el orden de los tG2540
+- Hec_17:30habiendo pasado por alto los t de estaG5550
+- Hec_18:20se quedase con ellos por más t; mas noG5550
+- Hec_18:23y después de estar allí algún t, salióG5550
+- Hec_19:22enviando...se quedó por algún t en AsiaG5550
+- Hec_19:23aquel t un disturbio no pequeño acercaG2540
+- Hec_20:18sabéis cómo me he comportado...todo el tG5550
+- Hec_24:3lo recibimos en todo t y en todo lugar
+- Hec_27:9pasado mucho t, y siendo ya peligrosa laG5550
+- Rom_3:26de manifestar en este t su justiciaG2540
+- Rom_5:6aún éramos débiles, a su t murió por losG2540
+- Rom_7:9yo sin la ley vivía en un t; pero venido
+- Rom_8:18que las aflicciones del t presente no sonG2540
+- Rom_8:36por causa de ti somos muertos todo el t
+- Rom_9:9por este t vendré, y Sara tendrá un hijoG2540
+- Rom_11:5aun en este t ha quedado un remanenteG2540
+- Rom_11:30en otro t erais desobedientes a DiosG4218
+- Rom_13:11esto, conociendo el t, que es ya horaG2540
+- Rom_16:25se ha mantenido oculto desde t eternos
+- 1Co_4:5así que, no juzguéis nada antes de tG2540
+- 1Co_7:5no os neguéis...a no ser por algún t deG2540
+- 1Co_7:29esto digo, hermanos: que el t es cortoG2540
+- 1Co_16:7pues espero estar con vosotros algún t
+- 2Co_6:2en t aceptable te he oído, y en díaG2540
+- 2Co_6:2aquí ahora el t aceptable; he aquí ahoraG2540
+- 2Co_7:8carta, aunqle por algun t, os contristóG5610
+- 2Co_8:14para que en este t...la abundancia...suplaG2540
+- Gál_1:13oído acerca de mi conducta en otro tG4218
+- Gál_1:23aquel que en otro t nos perseguía, ahoraG4218
+- Gál_1:23ahora predica la fe que...otro t asolaba
+- Gál_2:6que hayan sido en otro t nada me importa
+- Gál_4:2bajo tutores...hasta el t señalado por el
+- Gál_4:4pero cuando vino el cumplimiento del t
+- Gál_4:8otro t, no conociendo a Dios, servíais
+- Gál_4:10guardáis...los meses, los t y los añosG2540
+- Gál_6:9a su t segaremos, si no desmayamosG2540
+- Efe_1:10dispensación del cumplimiento de los t
+- Efe_2:2cuales anduvisteis en otro t, siguiendo
+- Efe_2:3en otro t en los deseos de nuestra carneG4218
+- Efe_2:11acordaos de que en otro t vosotros, losG4218
+- Efe_2:12en aquel t estabais sin Cristo, alejadosG4218
+- Efe_2:13vosotros que en otro t estabais lejos
+- Efe_5:8en otro t erais tinieblas, mas ahora sois
+- Efe_5:16aprovechando bien el t, porque los díasG2540
+- Efe_6:18orando en todo t con...oración y súplica
+- Col_1:21erais en otro t extraños y enemigos
+- Col_3:7las cuales...anduvisteis en otro t cuandoG4218
+- Col_4:3orando también al mismo t por nosotros
+- Col_4:5andad sabiamente para...redimiendo el tG2540
+- 1Ts_2:17separados de...por un poco de t, deG2540
+- 1Ts_5:1pero acerca de los t y de las ocasionesG2540
+- 2Ts_2:6fin de que a su debido t se manifiesteG2540
+- 1Ti_2:6de lo cual se dio testimonio a su...tG2540
+- 1Ti_4:1en los postreros t algunos apostatarán deG5550
+- 1Ti_6:15cual a Su t mostrará el bienaventuradoG5550
+- 2Ti_1:9dada en...antes de los t de los siglos
+- 2Ti_3:1los postreros días vendrán t peligrososG5550
+- 2Ti_4:2que instes a t y fuera de tG2122, [[G171]]
+- 2Ti_4:3t cuando no sufrirán la sana doctrinaG2540
+- 2Ti_4:6porque...el t de mi partida está cercanoG2540
+- Tit_1:3y a su debido t manifestó su palabraG5550
+- Tit_3:3éramos en otro t insensatos, rebeldes
+- Flm_1:11el cual en otro t te fue inútil, peroG4218
+- Flm_1:15quizás para esto se apartó...por algún tG5610
+- Heb_1:1habiendo hablado...otro t a los padresG3819
+- Heb_4:7vez determina un día...después de tanto tG5550
+- Heb_5:12ser ya maestros, después de tanto tG5550
+- Heb_9:9es símbolo para el t presente, según elG2540
+- Heb_9:10impuestas hasta el t de reformar...cosasG2540
+- Heb_11:11y dio a luz aun fuera del t de la edad
+- Heb_11:15pues si...ciertamente tenían t de volver
+- Heb_11:32el t me faltaría contando de Gedeón, deG5550
+- Stg_4:14es neblina que se aparece por un...t
+- 1Pe_1:5para ser manifestada en el t postreroG2540
+- 1Pe_1:6un poco de t...tengáis que ser afligidosG3641
+- 1Pe_1:11y qué t indicaba el Espíritu de CristoG2540
+- 1Pe_1:17conducíos en temor todo el t de vuestraG5550
+- 1Pe_1:20pero manifestado en los postreros t porG5550
+- 1Pe_2:10vosotros que en otro t no erais puebloG4219
+- 1Pe_2:10otro t no habíais alcanzado misericordia
+- 1Pe_3:5se ataviaban en otro t aquellas santasG4218
+- 1Pe_3:20los que en otro t desobedecieron, cuando
+- 1Pe_4:2para no vivir el t que resta en la carneG5550
+- 1Pe_4:3baste ya el t pasado para haber hecho loG5550
+- 1Pe_4:17t de que el juicio comience por la casaG2540
+- 1Pe_5:6Dios, para que él os exalte cuando fuere tG2540
+- 1Pe_5:10después que hayáis padecido...poco de tG3641
+- 2Pe_2:3de largo t la condenación no se tardaG1597
+- 2Pe_3:5que en el t antiguo fueron hechos por la
+- 1Jn_2:18hijitos, ya es el último t; y segúnG5550
+- 1Jn_2:18por esto conocemos que es el último tG5610
+- Jud_1:18en el postrer t habrá burladores, queG5550
+- Rev_1:3bienaventurado...porque el t está cercaG2540
+- Rev_2:21y le he dado t para que se arrepienta
+- Rev_6:11descansasen todavía un poco de t, hastaG5550
+- Rev_10:6juró por el que vive...el t no sería másG5550
+- Rev_11:18y el t de juzgar a los muertos, y deG2540
+- Rev_12:12el diablo ha descendido...tiene poco tG2540
+- Rev_12:14por un t, y t, y la mitad de un tG2540
+- Rev_17:10venga, es necesario que dure breve t
+- Rev_20:3después...debe ser desatado...un poco de tG5550
+- Rev_22:10no selles las...porque el t está cercaG2540

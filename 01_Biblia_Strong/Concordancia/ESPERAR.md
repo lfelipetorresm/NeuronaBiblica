@@ -1,0 +1,203 @@
+---
+tipo: concordancia
+palabra: ESPERAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESPERAR
+
+- Gén_8:10, Gén_8:12esperó...otros siete días, y volvióH2342
+- Gén_22:5esperad aquí con el asno, y yo y...iremosH3427
+- Gén_24:55espere la doncella con nosotros a loH3427
+- Gén_49:18tu salvación esperé, oh JehováH6960
+- Éxo_24:12espera...y te daré tablas de piedraH5414
+- Éxo_24:14esperadnos aquí hasta que volvamos aH3427
+- Núm_9:8esperad y oiré lo que ordena JehováH5975
+- Núm_11:16tráelos a la puerta del...y esperen allíH3320
+- Deu_31:14esperad en el tabernáculo de reuniónH3320
+- Deu_31:14fueron...y esperaron en el tabernáculoH3320
+- Deu_32:29dieran cuenta del fin que los espera!
+- Jue_3:25habiendo esperado hasta estar confusosH2342
+- Jue_6:18él respondió...esperaré hasta que vuelvasH3427
+- Rut_1:13¿habíais vosotras de esperarlos hastaH7663
+- Rut_3:18espérame hija mía, hasta que sepas cómoH3427
+- 1Sa_9:27espera tú un poco para que te declareH5975
+- 1Sa_10:8espera siete días, hasta que yo venga aH3176
+- 1Sa_12:16esperad aún...mirad esta gran cosa queH3220
+- 1Sa_13:8esperó siete días, conforme al plazo queH3176
+- 1Sa_14:9esperad hasta que lleguemos a vosotrosH1826
+- 1Sa_20:19y esperarás junto a la piedra de EzelH3427
+- 2Sa_22:31escudo es a...los que en él esperanH2620
+- 2Re_6:33¿para qué he de esperar más a Jehová?[[H3176]]
+- 2Re_7:9y si esperamos...alcanzará nuestra maldadH2442
+- 2Re_9:3abriendo la...echa a huir, y no esperesH2442
+- 1Cr_5:20les fue favorable...esperaron en élH982
+- Est_9:1los enemigos de los judíos esperabanH7663
+- Job_3:9espera la luz, y no venga, ni vea losH6960
+- Job_3:21que esperan la muerte, y ella no llegaH2442
+- Job_6:11¿cuál es mi fuerza para esperar aún?[[H3176]]
+- Job_6:19caminantes de Sabá esperaron en unasH6960
+- Job_7:2como el jornalero espera el reposo de suH6960
+- Job_13:15aunque él me matara, en él esperaréH3176
+- Job_14:14esperaré hasta...venga mi liberaciónH3176
+- Job_17:13si yo espero el Seol es mi casa; haréH6960
+- Job_29:21y esperaban y callaban a mi consejoH3176
+- Job_29:23esperaban como a la lluvia, y abrían suH6176
+- Job_30:26cuando esperaba yo el bien, entoncesH6960
+- Job_30:26cuando esperaba luz, vino la oscuridadH3176
+- Job_32:4Eliú había esperado a Job en la disputaH2442
+- Job_32:11aquí yo he esperado a vuestras razonesH3176
+- Job_32:16yo, pues, he esperado, pero no hablabanH3176
+- Job_36:2espérame un poco, y yo te enseñaréH3803
+- Sal_5:3presentaré delante de ti, y esperaréH6822
+- Sal_18:30escudo es a todos los que en él esperanH2620
+- Sal_22:4en ti esperaron...e, y tú los librasteH982
+- Sal_25:3ninguno de cuantos esperan en ti seráH6960
+- Sal_25:5tú crees...en ti he esperado todo el díaH6960
+- Sal_25:21me guarden, porque en ti he esperadoH6960
+- Sal_27:14aguarda a Jehová...sí, espera a JehováH6960
+- Sal_31:6los que esperan en vanidades ilusoriasH8104
+- Sal_31:6vanidades...mas yo en Jehová he esperadoH982
+- Sal_31:19has mostrado a los que esperan en tiH2620
+- Sal_31:24esforzaos...los que esperáis en JehováH3176
+- Sal_32:10al que espera en Jehová, le rodea laH982
+- Sal_33:18sobre los que esperan en su misericordiaH3176
+- Sal_33:20nuestra alma espera a Jehová...ayudaH2442
+- Sal_33:22tu misericordia...según esperamos en tiH3176
+- Sal_37:7guarda silencio ante Jehová, y espera enH2342
+- Sal_37:9los que esperan en Jehová...heredarán laH6960
+- Sal_37:34espera en Jehová, y guarda su caminoH6960
+- Sal_37:40los salvará, por cuanto en el esperaronH2620
+- Sal_38:15porque en ti, oh Jehová, he esperadoH3176
+- Sal_39:7y ahora, Señor, ¿qué esperaré?[[H6960]]
+- Sal_40:1esperé a Jehová, y se inclinó a mi, yH6960
+- Sal_42:5, Sal_42:11; Sal_43:5espera en Dios...he de alabarloH3176
+- Sal_52:9esperaré en tu nombre, porque es buenoH6960
+- Sal_59:9a causa del...del enemigo esperaré en tiH8104
+- Sal_62:8esperad en él en todo tiempo, oh pueblosH982
+- Sal_69:3han desfallecido...esperando a mi DiosH3176
+- Sal_69:20esperé quien se compadeciese de mi, y noH6960
+- Sal_71:14mas yo esperaré siempre, y te alabaréH3176
+- Sal_104:27todos ellos esperan en ti, para queH7663
+- Sal_106:13olvidaron sus...no esperaron su consejoH2442
+- Sal_119:43verdad, porque en tus juicios esperoH3176
+- Sal_119:49palabra...la cual me has hecho esperarH3176
+- Sal_119:74porque en tu palabra he esperadoH3176
+- Sal_119:81desfallece...mas espero en tu palabraH3176
+- Sal_119:114mi escudo...en tu palabra he esperadoH3176
+- Sal_119:147me anticipé al...esperé en tu palabraH3176
+- Sal_119:166tu salvación he esperado, oh JehováH7663
+- Sal_130:5esperé yo a Jehová, esperó mi alma; enH6960
+- Sal_130:5a Jehová...en su palabra he esperadoH3176
+- Sal_130:6mi alma espera a Jehová más que los
+- Sal_130:7espere Israel a Jehová, porque en JehováH3176
+- Sal_131:3espera, oh Israel, en Jehová, desdeH3176
+- Sal_145:15los ojos de todos esperan en ti, y túH7663
+- Sal_147:11en los que esperan en su misericordiaH3176
+- Pro_20:22espera a Jehová, y él te salvaráH6960
+- Pro_30:5él es escudo a los que en él esperanH2620
+- Isa_5:2y esperaba que diese uvas, y dio uvasH6960
+- Isa_5:4¿cómo esperando yo que diese uvas, haH6960
+- Isa_5:7esperaba juicio, y he aquí vileza...clamorH6960
+- Isa_8:17esperaré pues a Jehová...él confiaréH2442
+- Isa_25:9éste es nuestro Dios, le hemos esperadoH6960
+- Isa_25:9éste es Jehová a quien hemos esperadoH6960
+- Isa_26:8oh Jehová, te hemos esperado; tu nombreH6960
+- Isa_30:18Jehová esperará para tener piedad deH2442
+- Isa_33:2oh Jehová...a ti hemos esperado; tú, brazoH6960
+- Isa_38:18ni los que descienden al...esperarán tuH7663
+- Isa_40:31pero los que esperan a Jehová tendránH6960
+- Isa_42:4justicia; y las costas esperaron su leyH3176
+- Isa_49:23no se avergonzarán los que esperan enH6960
+- Isa_51:5a mí me esperan los de la costa, y en miH6960
+- Isa_59:9esperamos luz, y he aquí tinieblasH6960
+- Isa_59:11esperamos justicia, y no la hay...alejóH6960
+- Isa_60:9a mí esperarán los de la costa, y lasH6960
+- Isa_64:3cosas terribles cuales nunca esperábamosH6960
+- Isa_64:4ti, que hiciese por el que en él esperaH2442
+- Jer_8:15esperamos paz, y no hubo bien; díaH6960
+- Jer_13:16esperéis luz, y os la vuelva en sombraH6960
+- Jer_14:19esperamos paz, y no hubo bien; tiempoH6960
+- Jer_14:22en ti, pues, esperamos, pues tú hicisteH6960
+- Jer_29:11de paz...para daros el fin que esperáisH8615
+- Lam_2:16es el día que esperábamos; lo hemosH6960
+- Lam_3:21recapacitaré en...por lo tanto esperaréH3176
+- Lam_3:24mi porción es Jehová...en él esperaréH3176
+- Lam_3:25bueno es Jehová a los que en él esperanH6960
+- Lam_3:26bueno es esperar...salvación de JehováH1748
+- Lam_4:17desfallecido nuestros ojos esperando enH5833
+- Eze_13:6esperan que él confirme la palabra deH3176
+- Eze_19:5viendo ella que había esperado muchoH3176
+- Dan_12:12bienaventurado el que espere...1:335H2442
+- Ose_6:9y como ladrones que esperan a...hombreH2442
+- Miq_5:7lluvias...las cuales no esperan a varónH3176
+- Miq_7:7mas yo...esperaré al Dios de mi salvaciónH3176
+- Hab_2:3aunque tardara, espéralo, porque sinH2442
+- Sof_3:8esperadme, dice Jehová, hasta el díaH2442
+- Mat_11:3¿eres tú aquel...o esperaremos a otro?[[G4328]]
+- Mat_12:21y en su nombre esperarán los gentilesG1679
+- Mat_24:50vendrá el...en día que éste no esperaG4328
+- Mar_15:43José de...esperaba el reino de DiosG4327
+- Luc_1:21el pueblo estaba esperando a ZacaríasG4328
+- Luc_2:25y este hombre...esperaba la consolaciónG4327
+- Luc_2:38hablaba del niño a...los que esperabanG4327
+- Luc_6:34si prestáis a aquellos de quienes esperáisG1679
+- Luc_6:35prestad, no esperando de ello nada; yG560
+- Luc_7:19-20¿eres tú el...o esperaremos a otro?[[G4328]]
+- Luc_8:40recibió la multitud...todos le esperabanG4328
+- Luc_12:46vendrá el...en día que éste no esperaG4328
+- Luc_23:8él, y esperaba verle hacer alguna señalG1679
+- Luc_23:51que también esperaba el reino de DiosG4327
+- Luc_24:21esperábamos que él era el que había deG1679
+- Jua_5:3que esperaban el movimiento del aguaG1551
+- Hec_1:4que esperasen la promesa del Padre, laG4037
+- Hec_3:5él les estuvo atento, esperando recibirG4328
+- Hec_10:24día...y Cornelio los estaba esperandoG4328
+- Hec_12:11que el pueblo de los judíos esperabaG4329
+- Hec_17:16mientras Pablo los esperaba en AtenasG1551
+- Hec_20:5habiéndose adelantado, nos esperaron enG3306
+- Hec_20:23me esperan prisiones y tribulacionesG3306
+- Hec_23:21ahora están listos esperando tu promesaG4327
+- Hec_24:26esperaba...que Pablo le diera dineroG1679
+- Hec_26:7esperan que han de alcanzar nuestras 12G1679
+- Hec_28:6estaban esperando que él se hinchaseG4328
+- Hec_28:6habiendo esperado mucho, y viendo queG4328
+- Rom_8:23esperando la adopción, la redenciónG553
+- Rom_8:24lo que alguno ve, ¿a qué esperarlo?[[G1679]]
+- Rom_8:25pero si esperamos lo que no vemos, conG553
+- Rom_15:12a regir...los gentiles esperarán en élG1679
+- 1Co_1:7esperando la manifestación de...SeñorG553
+- 1Co_11:33cuando os reunís a comer, esperaos unosG1551
+- 1Co_13:7lo cree, todo lo espera, todo lo soportaG1679
+- 1Co_15:19esta vida solamente esperamos en CristoG1679
+- 1Co_16:7espero estar con vosotros algún tiempoG1679
+- 1Co_16:11mí, porque le espero con los hermanosG1551
+- 2Co_1:10quien esperamos que aún nos libraráG1679
+- 2Co_1:13y espero que hasta el fin las entenderéisG1679
+- 2Co_5:11espero que también lo sea a vuestras concienciasG1679
+- 2Co_8:5y no como lo esperábamos, sino que asíG1679
+- 2Co_10:15que esperamos que conforme crezca...feG1680
+- 2Co_13:6espero que conoceréis que nosotros noG1679
+- Efe_1:12los que primeramente esperábamos enG4276
+- Flp_2:19espero en...enviaros pronto a TimoteoG1679
+- Flp_2:23así que a éste espero enviaros, luegoG1679
+- Flp_3:20de donde también esperamos al SalvadorG553
+- 1Ts_1:10esperar de los cielos a su Hijo, alG362
+- 1Ti_4:10esperamos en el Dios viviente, queG1679
+- 1Ti_5:5sola, espera en Dios, y es diligente enG1679
+- Flm_1:22espero que por vuestras oraciones osG1679
+- Heb_6:15habiendo esperado...alcanzó la promesaG3114
+- Heb_9:28vez...para salvar a los que le esperanG553
+- Heb_10:13esperando hasta que sus enemigos seanG1551
+- Heb_11:1es la fe la certeza de lo que se esperaG1679
+- Heb_11:10porque esperaba la ciudad que tieneG1551
+- Stg_5:7el labrador espera el precioso frutoG1551
+- 1Pe_1:13y esperad por completo en la graciaG1679
+- 1Pe_3:5las santas mujeres que esperaban en DiosG1679
+- 1Pe_3:20una vez esperaba la paciencia de DiosG1551
+- 2Pe_3:12esperando...la venida del dia de DiosG4328
+- 2Pe_3:13esperamos, según sus promesas, cielos yG4328
+- 2Jn_1:12espero ir a vosotros y hablar cara aG1679
+- 3Jn_1:14espero verte en breve, y hablaremosG1679
+- Jud_1:21esperando la misericordia de...SeñorG4327

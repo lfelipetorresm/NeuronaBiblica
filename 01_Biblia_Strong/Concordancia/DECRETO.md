@@ -1,0 +1,71 @@
+---
+tipo: concordancia
+palabra: DECRETO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DECRETO
+
+- Lev_26:3si anduviereis en mis d y guardareisH2708
+- Lev_26:15si desdeñareis mis d, y vuestra almaH2708
+- Núm_15:16una misma ley y un mismo d tendréisH4941
+- Deu_4:1oh Israel, oye los estatutos y d que yoH4941
+- Deu_4:5os he enseñado...d, como Jehová mi DiosH4941
+- Deu_4:45los d que habló Moisés a los...de IsraelH4941
+- Deu_5:1oye, Israel...d que yo pronuncio hoy enH4941
+- Deu_5:31d que les enseñarás, a fin de que losH4941
+- Deu_6:1d que Jehová vuestro Dios mandó que osH4941
+- Deu_6:20¿qué significan...d que Jehová...mandó?[[H4941]]
+- Deu_7:11guarda, por tanto...d que yo te mando hoyH4941
+- Deu_7:12y por haber oído estos d, y haberlosH4941
+- Deu_8:11para cumplir sus...d y sus estatutos queH4941
+- Deu_11:1y guardarás...sus d y sus mandamientosH2708
+- Deu_11:32de cumplir todos los...d que yo presentoH2706
+- Deu_12:1los...d que cuidaréis de poner por obraH4941
+- Deu_26:16te manda...cumplas estos estatutos y dH4941
+- Deu_26:17y guardarás sus estatutos...y sus d, yH4941
+- Deu_30:16guardes...sus estatutos y sus d, paraH4941
+- Deu_33:21ejecutó los...y los justos d de JehováH4941
+- 2Sa_22:23todos sus d estuvieron delante de míH4941
+- 1Re_2:3guarda...observando sus estatutos y...dH4941
+- 1Re_6:12e hicieres mis d, y guardares todos misH4941
+- 1Re_8:58guardemos sus...sus estatutos y sus dH4941
+- 1Re_9:4si tú...guardando mis estatutos y mis dH4941
+- 1Re_11:33no...y mis d, como hizo David su padreH4941
+- 1Cr_22:13de poner por obra los estatutos y dH4941
+- 1Cr_28:7poner por obra mis...d, como en este díaH4941
+- 2Cr_7:17si...guardares mis estatutos y mis dH4941
+- 2Cr_19:10entre ley y precepto, estatutos y dH4941
+- Esd_6:11cualquiera que altere este d, se leH6600
+- Esd_6:12Darío he dado el d; sea cumplido prontoH2942
+- Esd_7:10para enseñar en Israel sus estatutos y dH4941
+- Neh_10:29y cumplirían todos...d y estatutosH4941
+- Est_1:19salga un d real de vuestra majestadH1697
+- Est_1:20el d que dicte el rey será oído en todoH6599
+- Est_2:8cuando se divulgó el mandamiento y d delH1881
+- Est_4:3donde...su d llegaba, tenían los judíosH1881
+- Est_4:8le dio...copia del d que había sido dadoH1881
+- Est_8:13del edicto que había de darse por d enH1881
+- Est_9:1cuando debía ser ejecutado el...y su dH1881
+- Job_38:10y establecí sobre él mi d, le puseH2706
+- Sal_2:7yo publicaré el d; Jehová me ha dichoH2706
+- Sal_105:10la estableció a Jacob por d, a IsraelH2706
+- Eze_5:6ella cambió mis d y mis ordenanzas enH4941
+- Eze_5:6desecharon mis d y mis mandamientos, yH4941
+- Eze_11:12ni habéis obedecido mis d, sino segúnH4941
+- Eze_11:20guarden mis d y los cumplan, y me seanH4941
+- Eze_18:9y guardare mis d para hacer rectamenteH4941
+- Eze_18:17guardare mis d...ordenanzas...no moriráH4941
+- Eze_20:11les di mis...y les hice conocer mis dH4941
+- Eze_20:13y desecharon mis d, por los cuales elH4941
+- Eze_20:16desecharon mis d, y no anduvieron enH4941
+- Eze_20:21ni guardaron mis d para ponerlos porH4941
+- Eze_20:24no pusieron por obra mis d, sino queH4941
+- Eze_20:25y d por los cuales no podrían vivirH4941
+- Eze_44:24mis d guardarán en todas mis fiestasH4941
+- Dan_4:17sentencia es por d de los vigilantesH7595
+- Sof_2:2antes que tenga efecto el d, y el díaH4941
+- Hec_17:7contravienen los d de César, diciendoG1378
+- Col_2:14anulando el acta de los d que habíaG1378
+- Heb_11:23escondido...y no temieron el d del reyG1297

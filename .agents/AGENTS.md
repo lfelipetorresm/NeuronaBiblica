@@ -556,6 +556,8 @@ Siempre mantener la trazabilidad hacia el documento original.
 
 Siempre favorecer la interconexión del conocimiento.
 
+SIEMPRE indexar el nuevo material explícitamente agregando su enlace `[[Nombre_del_Archivo]]` a los índices globales del sistema (`00_Indice_General.md` y `00_Plan_Indexacion_Maestra.md`) para asegurar su descubrimiento activo.
+
 Cada nuevo documento debe fortalecer la red neuronal de la NeuroBiblia.
 
 ---

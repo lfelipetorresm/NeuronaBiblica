@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: SEDEQUÍAS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SEDEQUÍAS
+
+- 1 Falso profeta en tiempo del rey Acab
+- 1Re_22:11S hijo de Quenaana se había hechoH6667
+- 1Re_22:24se acercó S...y golpeó a Micaías en laH6667
+- 2Cr_18:10S...había hecho cuernos de hierroH6667
+- 2Cr_18:23S...se le acercó y golpeó a Micaías enH6667
+- 2 Último rey de Judá (=Matanías No. 1)
+- 2Re_24:17y le cambió el nombre por el de SH6667
+- 2Re_24:18era S...y reinó en Jerusalén once añosH6667
+- 2Re_24:20S se rebeló contra el rey de BabilontaH6667
+- 2Re_25:2sitiada hasta el año undécimo del rey SH6667
+- 2Re_25:7degollaron a los hijos de S en presenciaH6667
+- 2Re_25:7y a S le sacaron los ojos, y atado conH6667
+- 1Cr_3:15los hijos...tercero S, el cuarto SalumH6667
+- 2Cr_36:10constituyó a S su hermano por reyH6667
+- 2Cr_36:11de 21 años...S cuando comenzó a reinarH6667
+- Jer_1:3el fin del año undécimo de S hijo deH6667
+- Jer_21:1cuando el rey S envió a él a Pasur hijoH6667
+- Jer_21:3y Jeremías les dijo: Diréis así a SH6667
+- Jer_21:7entregaré a S...mano de NabucodonosorH6667
+- Jer_24:8como los higos malos...pondré a S rey deH6667
+- Jer_27:3mensajeros que vienen...a S rey de JudáH6667
+- Jer_27:12hablé...S rey de Judá conforme a todasH6667
+- Jer_28:1en el principio del reinado de S rey deH6667
+- Jer_29:3mano de...a quienes envió S rey de JudáH6667
+- Jer_32:1el año décimo de S rey de Judá...que fueH6667
+- Jer_32:3S rey de Judá lo había puesto presoH6667
+- Jer_32:4S rey de...no escapará de la mano de losH6667
+- Jer_32:5y hará llevar a S a Babilonia, y alláH6667
+- Jer_34:2vé y habla a S rey de Judá, y dile: AsíH6667
+- Jer_34:4oye palabra de Jehová, S rey de JudáH6667
+- Jer_34:6habló...a S rey de Judá...estas palabrasH6667
+- Jer_34:8que S hizo pacto con todo el pueblo deH6667
+- Jer_34:21a S rey de Judá y a sus príncipes losH6667
+- Jer_37:1reinó el rey S hijo de Josías, al cualH6667
+- Jer_37:3y envió el rey S...al profeta JeremíasH6667
+- Jer_37:17rey S envió y le sacó; y le preguntóH6667
+- Jer_37:18dijo...Jeremías al rey S: ¿En qué pequéH6667
+- Jer_37:21dio orden el rey S, y custodiaron aH6667
+- Jer_38:5dijo el rey S...está en vuestras manosH6667
+- Jer_38:14después envió el rey S, e hizo traerH6667
+- Jer_38:15Jeremías dijo a S: Si te lo declarareH6667
+- Jer_38:16y juró el rey S en secreto a JeremíasH6667
+- Jer_38:17dijo Jeremías a S...Si te entregas enH6667
+- Jer_38:19el rey S...Tengo temor de los judíos queH6667
+- Jer_38:24y dijo S a Jeremías: Nadie sepa estasH6667
+- Jer_39:1en el noveno año de S rey de Judá, enH6667
+- Jer_39:2el undécimo año de S, en el mes cuartoH6667
+- Jer_39:4y viéndolos S rey de Judá y todos losH6667
+- Jer_39:5alcanzaron a S en los llanos de JericóH6667
+- Jer_39:6y degolló el rey...a los hijos de S enH6667
+- Jer_39:7sacó los ojos del rey S, y le aprisionóH6667
+- Jer_44:30como entregué a S rey de Judá en manoH6667
+- Jer_49:34en el principio del reinado de S rey deH6667
+- Jer_51:59iba con S rey de Judá a Babilonia, enH6667
+- Jer_52:1era S de edad de veintiún años cuandoH6667
+- Jer_52:3se rebeló S contra el rey de BabiloniaH6667
+- Jer_52:5ciudad hasta el undécimo año del rey SH6667
+- Jer_52:8alcanzaron a S en los llanos de JericóH6667
+- Jer_52:10degolló...a los hijos de S delante de susH6667
+- Jer_52:11sólo le sacó los ojos a S, y le ató conH6667
+- 3 Hijo del rey Jeconías, 1Cr_3:16H6667
+- 4 Firmante del pacto de Nehemías, Neh_10:1H6667
+- 5 Falso profeta en tiempo del profeta Jeremías, Jer_29:21-22H6667
+- 6 Príncipe de Judá en tiempo del rey Joacim, Jer_36:12H6667

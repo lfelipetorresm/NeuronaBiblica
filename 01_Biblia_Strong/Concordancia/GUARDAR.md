@@ -1,0 +1,570 @@
+---
+tipo: concordancia
+palabra: GUARDAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GUARDAR
+
+- Gén_2:15para que lo labrara y lo guardaseH8104
+- Gén_3:24guardar el camino del árbol de la vidaH8104
+- Gén_17:9en cuanto a ti, guardarás mi pacto, teH8104
+- Gén_17:10es mi pacto, que guardaréis entre miH8104
+- Gén_18:19mandará...guarden el camino da JehováH8104
+- Gén_24:6guárdate que no vuelvas mi hijo alláH8104
+- Gén_26:5cuanto oyó Abraham mi voz, y guardó miH8104
+- Gén_27:36¿no has guardado bendición para mi?[[H680]]
+- Gén_28:15yo estoy contigo, y te guardaré porH8104
+- Gén_28:20me guardaré en «tu rdó alimento en las ciudadesH8104
+- Gén_31:24, Gén_31:29guárdate que no hables a JacobH8104
+- Gén_37:34guardó luto por su hijo muchos días
+- Gén_41:35y recojan el trigo bajo...y guárdenloH8104
+- Gén_41:48y guardó alimento en las ciudades
+- Éxo_10:28guárdate que no veas más mi rostroH8104
+- Éxo_12:6lo guardaréis hasta el día 14 de esteH4931
+- Éxo_12:17guardaréis la fiesta de los panes sinH8104
+- Éxo_12:17por tanto, guardaréis este mandamientoH8104
+- Éxo_12:24guardarás esto por estatuto...siempreH8104
+- Éxo_12:25cuando entréis...guardaréis este ritoH8104
+- Éxo_12:42es noche de guardar para Jehová, porH8107
+- Éxo_12:42esta noche deben guardarla para JehováH8107
+- Éxo_13:10guardarás este rito en su tiempo deH8104
+- Éxo_15:26oyeres...guardarás todos sus estatutosH8104
+- Éxo_16:5prepararán para guardar el doble de lo
+- Éxo_16:23que os sobrara, guardadlo para mañanaH4931
+- Éxo_16:24lo guardaron hasta la mañana...y no seH5117
+- Éxo_16:28no querréis guardar mis mandamientosH8104
+- Éxo_16:32guardadlo para vuestros descendientesH4931
+- Éxo_16:33que sea guardado para...descendientesH4931
+- Éxo_16:34delante del Testimonio para guardarloH4931
+- Éxo_19:5y guardaréis mi pacto, vosotros seréisH8104
+- Éxo_19:12diciendo: Guardaos, no subáis al monteH8104
+- Éxo_20:6que me aman y guardan mis mandamientosH8104
+- Éxo_21:29acorneador...y no lo hubiere guardadoH8104
+- Éxo_21:36buey...su dueño no lo hubiere guardadoH8104
+- Éxo_22:7diere a su...a guardar, y fuere hurtadoH8104
+- Éxo_22:10otro animal a guardar, y éste muriereH8104
+- Éxo_23:13y todo lo que os he dicho, guardadloH8104
+- Éxo_23:15la fiesta de los panes sin...guardarásH8104
+- Éxo_23:20para que te guarde en el camino, y teH8104
+- Éxo_23:21guárdate delante de él, y oye su vozH8104
+- Éxo_31:13guardaréis mis días de reposo; porqueH8104
+- Éxo_31:14guardaréis el día de reposo...tantoH8104
+- Éxo_31:16guardarán, pues, el día de reposo losH8104
+- Éxo_34:7que guarda misericordia a millaresH5341
+- Éxo_34:11guarda lo que yo te mando hoy; he aquíH8104
+- Éxo_34:12guárdate de hacer alianza...moradoresH8104
+- Éxo_34:18la fiesta de los panes sin...guardarteH8104
+- Lev_8:35y guardaréis la ordenanza delante deH8104
+- Lev_18:4estatutos guardaréis, andando en ellosH8104
+- Lev_18:5guardaréis mis estatutos y...ordenanzasH8104
+- Lev_18:26guardad...estatutos y mis ordenanzasH8104
+- Lev_18:30guardad...mi ordenanza, no haciendo gH8104
+- Lev_19:3temerá...mis días de reposo guardaréisH8104
+- Lev_19:18ni guardarás rencor a los hijos de tuH5201
+- Lev_19:19estatuto guardarás. No harás ayuntarH8104
+- Lev_19:30mis días de reposo guardaréis, y miH8104
+- Lev_19:37guardad, pues, todos mis estatutos yH8104
+- Lev_20:8guardad mis estaturos y ponedlos porH8104
+- Lev_20:22guardad, pues todos mis estatutos y ponedlos porH8104
+- Lev_22:31guardad...mandamientos y cumplidlosH8104
+- Lev_23:32de tarde a tarde guardaréis...reposoH7673
+- Lev_25:2la tierra guardará reposo para JehováH7673
+- Lev_25:18guardad mis ordenanzas, y ponedlos porH8104
+- Lev_26:2guardad mis días de reposo, y tened enH8104
+- Lev_26:3y guardaréis mis mandamientos, y losH8104
+- Lev_26:10fuera lo añejo para guardar lo nuevoH6440
+- Núm_3:8guarden...utensilios del tabernáculoH8104
+- Núm_6:24Jehová te bendiga, y te guardeH8104
+- Núm_9:19los...de Israel guardaban la ordenanzaH8104
+- Núm_9:23guardando la ordenanza de Jehová comoH8104
+- Núm_17:10se guarde por señal a los...rebeldesH4931
+- Núm_18:3guardarán lo que tú ordenes, y el cargoH4931
+- Núm_18:7guardaréis vuestro sacerdocio en todoH8104
+- Núm_19:9las guardará la congregación de...IsraelH4931
+- Núm_28:2guardaréis, ofreciéndomelo a su tiempoH8104
+- Deu_2:4tendrán miedo...mas vosotros guardaosH8104
+- Deu_4:2que guardes los mandamientos de JehováH8104
+- Deu_4:6guardadlos, pues, y ponedlos por obraH8104
+- Deu_4:9guárdate y guarda tu alma con diligenciaH8104
+- Deu_4:15guardad, pues, mucho vuestras almasH8104
+- Deu_5:10que me aman y guardan mis mandamientosH8104
+- Deu_5:12guardarás el día de reposo...como JehováH8104
+- Deu_5:15ha mandado que guardes el día de reposoH6213
+- Deu_5:29me temiesen y guardasen todos los díasH8104
+- Deu_6:2temas...guardando todos sus estatutos yH8104
+- Deu_6:17guardad...los mandamientos de JehováH8104
+- Deu_7:8y quiso guardar el Juramento que juró aH8104
+- Deu_7:9guarda el pacto...a los que...guardan susH8104
+- Deu_7:11guarda...los mandamientos...yo te mandoH8104
+- Deu_7:12y haberlos guardado y puesto por obraH8104
+- Deu_7:12Jehová...guardará contigo el pacto y laH8104
+- Deu_8:2hablas de guardar o no tus mandamientosH8104
+- Deu_8:6guardarás...los mandamientos de Jehová tuH8104
+- Deu_10:13que guardes los mandamientos de JehováH8104
+- Deu_11:1guardarás sus ordenanzas, sus estatutosH8104
+- Deu_11:8guardad...mandamientos que...prescriboH8104
+- Deu_11:16guardaos, pues, que vuestro corazón noH8104
+- Deu_11:22guardaréis cuidadosamente todos estosH8104
+- Deu_12:28guarda y escucha todas tus palabrasH8104
+- Deu_12:30guárdate que no tropieces yendo en posH8104
+- Deu_13:4temeréis, guardaréis sus mandamientosH8104
+- Deu_13:18guardando todos sus mandamientos queH8104
+- Deu_14:25lo venderás y guardaréis el dinero enH6696
+- Deu_14:28diezmo...lo guardarás en tus ciudadesH5117
+- Deu_15:5si escuchares...para guardar y cumplirH8104
+- Deu_15:9guárdate de tener...pensamiento perversoH8104
+- Deu_16:1guardarás el mes de...harás pascuaH8104
+- Deu_16:12guardarás y cumplirás estos estatutosH8104
+- Deu_17:19guardar todas las palabras de esta leyH8104
+- Deu_19:9siempre y cuando guardares todos estosH8104
+- Deu_23:9salieres...guardarás de toda cosa malaH8104
+- Deu_23:23salido de tus labios, lo guardarás yH8104
+- Deu_26:17que andarás...guardarás sus estatutosH8104
+- Deu_26:18que guardes todos sus mandamientosH8104
+- Deu_27:1guardaréis todos los mandamientos queH8104
+- Deu_27:9guarda silencio y escucha, oh IsraelH5535
+- Deu_28:1para guardar y poner por obra todos susH8104
+- Deu_28:9cuando guardares los mandamientos deH8104
+- Deu_28:13mandamientos...para que los guardesH8104
+- Deu_28:45para guardar sus mandamientos y susH8104
+- Deu_29:9guardaréis...las palabras de este pactoH8104
+- Deu_30:10para guardar sus mandamientos y susH8104
+- Deu_30:16andes en...y guardes sus mandamientosH8104
+- Deu_32:10lo guardó como a la niña de su ojoH5341
+- Deu_32:34¿no tengo yo esto guardado conmigoH3647
+- Deu_33:9guardaron tus palabras, y cumplieronH8104
+- Jos_1:8que guardes y hagas conforme a todoH8104
+- Jos_6:18pero vosotros guardaos del anatema; niH8104
+- Jos_7:11anatema, y...guardado entre sus enseresH7760
+- Jos_10:18poned hombres...para que los guardenH8104
+- Jos_22:2vosotros habéis guardado todo lo queH8104
+- Jos_22:3cuidado de guardar los mandamientos deH8104
+- Jos_22:5guardéis sus mandamientos, y le sigáisH8104
+- Jos_23:6guardar y hacer...lo que está escritoH8104
+- Jos_23:11guardad...diligencia vuestras almasH8104
+- Jos_24:17y nos ha guardado por todo el caminoH8104
+- Jue_8:27un efod...hizo guardar en su ciudadH3322
+- Jue_13:13mujer se guardará de todas las cosasH8104
+- Jue_13:14no tomará...guardará...10 que le mandéH8104
+- Jue_21:14dieron...las que habían guardado vivasH2421
+- 1Sa_2:9guarda los pies de sus santos, masH8104
+- 1Sa_7:1hijo para que guardase el arca de JehováH8104
+- 1Sa_7:8nos guarde de la mano de los filisteosH3467
+- 1Sa_9:23la cual te dije que guardases aparteH7760
+- 1Sa_9:24para esta ocasión se te guardó, cuandoH8104
+- 1Sa_10:19desechado hoy a...Dios, que os guardaH3467
+- 1Sa_10:25un libro...guardó delante de JehováH5117
+- 1Sa_13:13no guardaste el mandamiento de JehováH8104
+- 1Sa_13:14no has guardado lo que Jehová te mandóH8104
+- 1Sa_17:22en mano del que guardaba el bagaje, yH8104
+- 1Sa_21:4lo daré si...se han guardado a lo menosH8104
+- 1Sa_24:6me guarde de hacer tal cosa contra miH2486
+- 1Sa_25:21en vano he guardado todo lo que ésteH8104
+- 1Sa_25:31guárdese...mi señor, y cuando JehováH3467
+- 1Sa_26:11guárdeme Jehová de extender mi manoH2486
+- 1Sa_26:15¿por qué, pues, no has guardado al reyH8104
+- 1Sa_26:16no habéis guardado a vuestro señor, alH8104
+- 1Sa_30:23dado Jehová, quien nos ha guardado, yH8104
+- 2Sa_15:16diez mujeres...que guardasen la casaH8104
+- 2Sa_16:21que él dejó para guardar la casa; yH8104
+- 2Sa_19:19no los guarde el rey en su corazónH7760
+- 2Sa_20:3que había dejado para guardar la casaH8104
+- 2Sa_22:22yo he guardado los caminos de JehováH8104
+- 2Sa_22:24fui recto...he guardado de mi maldadH8104
+- 2Sa_22:44me guardase para que fuese cabeza deH6403
+- 2Sa_23:5será guardado, aunque todavía no hagaH8104
+- 1Re_2:3guarda los preceptos de Jehová tuH8104
+- 1Re_2:4tus hijos guardaren mi camino, andandoH8104
+- 1Re_2:43¿por qué...no guardaste el juramentoH8104
+- 1Re_3:14si anduvieres...guardando mis estatutosH8104
+- 1Re_6:12guardares...mis mandamientos andandoH8104
+- 1Re_8:23que guardas el pacto y la misericordiaH8104
+- 1Re_8:25tal que tus hijos guarden mi camino yH8104
+- 1Re_8:58para que...guardemos sus mandamientosH8104
+- 1Re_8:61guardando sus mandamientos, como en elH8104
+- 1Re_9:4guardando mis estatutos y mis decretosH8104
+- 1Re_9:6y no guardaréis mis mandamientos y misH8104
+- 1Re_11:10él no guardó lo que le mandó JehováH8104
+- 1Re_11:11no has guardado mi pacto...estatutosH8104
+- 1Re_11:34quien guardó mis mandamientos y misH8104
+- 1Re_11:38de mis ojos, guardando mis estatutosH8104
+- 1Re_13:21y no guardaste el mandamiento queH8104
+- 1Re_14:8David...que guardó mis mandamientos yH8104
+- 1Re_20:39guarda a este hombre, y si llegare aH8104
+- 1Re_21:3guárdeme Jehová de que yo te dé a ti laH2486
+- 2Re_5:24él lo tomó...y lo guardó en la casaH6485
+- 2Re_9:14Joram guardando a Ramot de Galaad conH8104
+- 2Re_11:6así guardaréis la casa...no sea allanadaH4931
+- 2Re_12:9los sacerdotes que guardaban la puertaH8104
+- 2Re_12:10y contaban el dinero...y lo guardabanH6696
+- 2Re_17:13volveos...y guardad mis mandamientosH8104
+- 2Re_17:19ni aun Judá guardó los mandamientosH8104
+- 2Re_17:34ni temen a...ni guardan sus estatutosH6213
+- 2Re_18:6que guardó los mandamientos que JehováH8104
+- 2Re_21:8con tal que guarden...las cosas que yoH8104
+- 2Re_23:3pacto...y guardarían sus mandamientosH8104
+- 1Cr_9:19coreitas...guardando las puertasH8104
+- 1Cr_9:19como sus padres guardaron la entradaH8104
+- 1Cr_9:27porque tenían el cargo de guardarla y
+- 1Cr_10:13palabra de Jehová, la cual no guardóH8104
+- 1Cr_11:19guárdeme mi Dios...de beber la sangreH2486
+- 1Cr_22:12gobiernes a Israel, guardes la ley deH8104
+- 1Cr_28:8guardad...todos los preceptos de JehováH8104
+- 1Cr_29:3guardo en mi tesoro...oro y plata queH3426
+- 1Cr_29:19para que guarde tus mandamientos, tusH8104
+- 2Cr_5:11sacerdotes...no guardaban sus turnosH8104
+- 2Cr_6:14que guardas el pacto y la misericordiaH8104
+- 2Cr_6:15que has guardado a tu siervo David miH8104
+- 2Cr_6:16tal que tus hijos guarden su caminoH8104
+- 2Cr_7:17y guardares mis estatutos y...decretosH8104
+- 2Cr_13:11guardamos la ordenanza de JehováH8104
+- 2Cr_22:11le guardó a él y a su ama en uno deH5414
+- 2Cr_33:8condición de que guarden y hagan todasH8104
+- 2Cr_34:9que los levitas que guardaban la puertaH8104
+- 2Cr_34:21no guardaron la palabra de JehováH8104
+- 2Cr_34:31pacto...de guardar sus mandamientosH8104
+- Esd_6:1la casa...donde guardaban los tesorosH5182
+- Esd_8:29vigilad y guardadlos...que los peséisH8104
+- Neh_1:5guarda el pacto y la misericordia aH8104
+- Neh_1:5que le aman y guardan sus mandamientosH8104
+- Neh_1:7y no hemos guardado los mandamientosH8104
+- Neh_1:9os volviereis a mí, y guardaréis misH8104
+- Neh_9:32que guardas el pacto y la misericordiaH8104
+- Neh_10:29y que guardarían y cumplirían todosH8104
+- Neh_12:24para alabar y dar...guardando su turnoH5980
+- Neh_13:5la cual guardaban antes las ofrendasH5414
+- Neh_13:22viniesen a guardar las puertas, paraH8104
+- Est_3:8y no guardan las leyes del rey, y alH6213
+- Est_9:28no dejarían de ser guardados por losH6213
+- Job_2:6él está en tu mano; mas guarda su vidaH8104
+- Job_10:12vida...y tu cuidado guardó mi espírituH8104
+- Job_10:13cosas tienes guardadas en tu corazónH6845
+- Job_21:19Dios guardará para los hijos de ellosH6845
+- Job_21:30guardado será en el día de la iraH2820
+- Job_23:11pies...guardé su camino, y no me apartéH8104
+- Job_23:12guardé las palabras de su boca más queH6845
+- Job_29:2en los días en que Dios me guardabaH8104
+- Job_36:21guárdate, no te vuelvas a la iniquidadH8104
+- Job_41:12no guardaré silencio...sus miembrosH2790
+- Sal_12:7tú, Jehová los guardarás; de estaH8104
+- Sal_16:1guárdame...porque en ti he confiadoH8104
+- Sal_17:4me he guardado de las sendas de losH8104
+- Sal_17:8guárdame como a la niña de tus ojosH8104
+- Sal_18:21yo he guardado los caminos de JehováH8104
+- Sal_18:23fui recto...he guardado de mi maldadH8104
+- Sal_19:11en guardarlos hay grande galardónH8104
+- Sal_25:10para los que guardan su pacto y susH5341
+- Sal_25:20guarda mi alma, y líbrame; no sea yoH8104
+- Sal_25:21integridad y rectitud me guardenH5341
+- Sal_31:19tu bondad, que has guardado para losH6845
+- Sal_31:23a los fieles guarda Jehová, y pagaH5341
+- Sal_32:7refugio; me guardarás de la angustiaH5341
+- Sal_34:13guarda tu lengua del mal, y tus labiosH5341
+- Sal_34:20él guarda todos sus huesos ni uno deH8104
+- Sal_37:7guarda silencio ante Jehová y esperaH1826
+- Sal_37:28para siempre serán guardados: mas laH8104
+- Sal_37:34espera en Jehová, y guarda su caminoH8104
+- Sal_39:1guardaré mi boca con freno, en tantoH8104
+- Sal_40:11tu misericordia...me guarden siempreH5341
+- Sal_41:2Jehová lo guardará, y le dará vidaH8104
+- Sal_44:7nos has guardado de nuestros enemigosH3467
+- Sal_64:1guarda mi vida del temor del enemigoH5341
+- Sal_78:7no...olviden...guarden sus mandamientosH5341
+- Sal_78:10no guardaron el pacto de Dios, niH8104
+- Sal_78:56ellos...no guardaron sus testimoniosH8104
+- Sal_83:1Dios, no guardes silencio; no calles
+- Sal_86:2guarda mi alma, porque soy piadosoH8104
+- Sal_86:16mírame...y guarda al hijo de tu siervaH3467
+- Sal_89:31si...y no guardaren mis mandamientosH8104
+- Sal_91:11que te guarden en todos tus caminosH8104
+- Sal_97:10él guarda las almas de sus santos; deH8104
+- Sal_99:7guardaban...testimonios, y el estatutoH8104
+- Sal_103:9no...ni para siempre guardará el enojoH5201
+- Sal_103:18sobre los que guardan su pacto, y losH8104
+- Sal_105:45para que guardasen sus estatutos, yH8104
+- Sal_106:3dichosos los que guardan juicio, losH8104
+- Sal_107:43¿quién es sabio y guardará...cosasH8104
+- Sal_116:6Jehová guarda a los sencillos, estabaH8104
+- Sal_119:2bienaventurados los que guardan susH5341
+- Sal_119:4sean muy guardados tus mandamientosH8104
+- Sal_119:5ordenados mis caminos para guardarH8104
+- Sal_119:8tus estatutos guardaré: no me dejesH8104
+- Sal_119:9su camino? Con guardar tu palabraH8104
+- Sal_119:11en mi corazón he guardado tus dichosH6845
+- Sal_119:17tu siervo...viva...y guarde tu PalabraH8104
+- Sal_119:22porque tus testimonios he guardadoH5341
+- Sal_119:33camino...y lo guardaré hasta el finH5341
+- Sal_119:34dame entendimiento, y guardaré tuH8104
+- Sal_119:44guardaré tu ley siempre...eternamenteH8104
+- Sal_119:55me acordé...Jehová, y guardé tu leyH8104
+- Sal_119:56estas bendiciones tuve porque guardéH5341
+- Sal_119:57he dicho que guardaré tus palabrasH8104
+- Sal_119:60apresuré y no me retardé en guardarH8104
+- Sal_119:63te temen y guardan tus mandamientosH8104
+- Sal_119:67andaba; mas ahora guardo tu palabraH8104
+- Sal_119:69mas yo guardaré...tus mandamientosH5341
+- Sal_119:88guardaré los testimonios de tu bocaH8104
+- Sal_119:100porque he guardado tus mandamientosH5341
+- Sal_119:101mis pies, para guardar tu palabraH8104
+- Sal_119:106juré...guardaré tus justos juiciosH8104
+- Sal_119:115yo guardaré los mandamientos de miH5341
+- Sal_119:129por tanto, los ha guardado mi almaH5341
+- Sal_119:134líbrame...guardaré tus mandamientosH8104
+- Sal_119:136ríos de...porque no guardaban tu leyH8104
+- Sal_119:145respóndeme...guardaré tus estatutosH5341
+- Sal_119:146sálvame, y guardaré tus testimoniosH8104
+- Sal_119:158porque no guardaban tus palabrasH8104
+- Sal_119:167mi alma ha guardado tus testimoniosH8104
+- Sal_119:168he guardado tus mandamientos y tusH8104
+- Sal_121:3dará...ni se dormirá el que te guardaH8104
+- Sal_121:4no...ni dormirá el que guarda a IsraelH8104
+- Sal_121:7te guardará de todo mal; él g tu almaH8104
+- Sal_121:8Jehová guardará tu salida y tu entradaH8104
+- Sal_127:1si Jehová no guardare la ciudad, enH8104
+- Sal_132:12si tus hijos guardaren mi pacto, yH8104
+- Sal_140:1Jehová...guárdame de hombres violentosH5341
+- Sal_140:4guárdame...Jehová, de manos del impíoH8104
+- Sal_141:3boca...guarda la puerta de mis labiosH5341
+- Sal_141:9guárdame de los lazos...han tendidoH8104
+- Sal_145:20Jehová guarda a todos...que le amanH8104
+- Sal_146:6hay; que guarda verdad para siempreH8104
+- Sal_146:9Jehová guarda a los extranjeros; alH8104
+- Pro_2:1mandamientos guardares dentro de tiH6845
+- Pro_2:8es el que guarda las veredas del juicioH5341
+- Pro_2:11discreción te guardará; te preservaráH5341
+- Pro_3:1y tu corazón guarde mis mandamientosH5341
+- Pro_3:21hijo mío...guarda la ley y el consejoH5341
+- Pro_4:4guarda mis mandamientos, y vivirásH8104
+- Pro_4:6no la dejes, y ella te guardará; ámalaH8104
+- Pro_4:13retén...guárdalo, porque eso es tu vidaH5341
+- Pro_4:21ojos; guárdalas en medio de tu corazónH8104
+- Pro_4:23toda cosa guardada, guarda tu corazónH5341
+- Pro_5:2para que guardes consejo, y tus labiosH5341
+- Pro_6:20guarda...el mandamiento de tu padre, yH5341
+- Pro_6:22cuando duermas te guardarán; hablaránH8104
+- Pro_6:24para que te guarden de la mala mujerH8104
+- Pro_7:1hijo mío, guarda mis razones, y atesoraH8104
+- Pro_7:2guarda mis mandamientos y vivirás, y miH8104
+- Pro_7:5para que te guarden de la mujer ajenaH8104
+- Pro_8:32bienaventurados los que guardan misH8104
+- Pro_10:14los sabios guardan la sabiduría; masH6845
+- Pro_10:17a la vida es guardar la instrucciónH8104
+- Pro_11:13mas el de espíritu fiel lo guarda todoH3680
+- Pro_13:3el que guarda su boca g su alma; masH5341
+- Pro_13:6justicia guarda al de perfecto caminoH5341
+- Pro_13:18guarda la corrección recibirá honraH8104
+- Pro_13:22la riqueza del pecador está guardadaH6845
+- Pro_14:3los labios de los sabios los guardaránH8104
+- Pro_15:5que guarda la corrección vendrá a serH8104
+- Pro_16:17su vida guarda el que g su caminoH5341
+- Pro_19:8guarda la inteligencia hallará el bienH8104
+- Pro_19:16que guarda el mandamiento g su almaH8104
+- Pro_20:28misericordia y verdad guardan al reyH5341
+- Pro_21:23el que guarda su boca...su alma g deH8104
+- Pro_22:5que guarda su alma se alejará de ellosH8104
+- Pro_22:18deliciosa, si las guardares dentro deH8104
+- Pro_28:4mas los que la guardan contenderán conH8104
+- Pro_28:7el que guarda la ley es hijo prudenteH5341
+- Pro_29:18el que guarda la ley es bienaventuradoH8104
+- Ecl_3:6tiempo de perder; tiempo de guardarH8104
+- Ecl_5:1guarda tu pie; y acércate más para oírH8104
+- Ecl_5:13riquezas guardadas por sus dueños paraH8104
+- Ecl_8:2te aconsejo que guardes el mandamientoH8104
+- Ecl_8:5guarda el mandamiento no experimentaráH8104
+- Ecl_12:13teme a Dios, y guarda...mandamientosH8104
+- Cnt_1:6me pusieron a guardar las viñasH5201
+- Cnt_1:6y mi viña, que era mía, no guardéH5201
+- Cnt_7:13dulces frutas...que para ti...guardadoH6845
+- Cnt_8:12y doscientas para los que guardan suH5201
+- Isa_7:4y dile: Guarda, y repósate; no temasH8104
+- Isa_23:18no se guardarán ni se atesoraránH2630
+- Isa_26:3guardarás en completa paz a aquel cuyoH5341
+- Isa_27:3yo Jehová la guardo...guardaré de nocheH5341
+- Isa_42:6te guardaré y te pondré por pacto alH5341
+- Isa_42:14he guardado silencio, y me he detenidoH2814
+- Isa_46:4hice...llevaré, yo soportaré y guardaréH4422
+- Isa_49:2me puso por saeta bruñida, me guardóH5641
+- Isa_49:8guardaré, y te daré por pacto al puebloH5341
+- Isa_56:1guardad derecho, y...justicia; porqueH8104
+- Isa_56:2el hombre...que guarda el día de reposoH8104
+- Isa_56:2y que guarda su mano de hacer todo malH8104
+- Isa_56:4eunucos que guarden mis días de reposoH8104
+- Isa_56:6todos los que guarden el día de reposoH8104
+- Isa_57:11¿no he guardado silencio desde tiemposH2814
+- Jer_2:25guarda tus pies de andar descalzosH4513
+- Jer_3:5¿guardará su enojo...eternamente lo g?[[H8104]]
+- Jer_3:12soy...no guardaré para siempre el enojoH5201
+- Jer_5:24y nos guarda los tiempos...de la siegaH8104
+- Jer_8:7grulla...guardan el tiempo de su venidaH8104
+- Jer_9:4guárdese cada uno de su compañero, y enH8104
+- Jer_15:20contigo para guardarte y...defenderteH3467
+- Jer_16:11me dejaron a mi y no guardaron mi leyH8104
+- Jer_17:21guardaos por vuestra vida de llevarH8104
+- Jer_31:10lo reunirá y guardará, como el pastorH8104
+- Jer_35:18y guardasteis todos sus mandamientosH8104
+- Eze_5:7andado...ni habéis guardado mis leyes?[[H6213]]
+- Eze_11:20y guarden mis decretos y los cumplanH8104
+- Eze_17:14que guardando el pacto, permanecieseH8104
+- Eze_18:9y guardare mis decretos para hacerH8104
+- Eze_18:17guardare mis decretos y anduviere enH6213
+- Eze_18:19guardó...mis estatutos y los cumplióH8104
+- Eze_18:21guardare todos mis estatutos e hiciereH8104
+- Eze_20:18no andéis en...ni guardéis sus leyesH8104
+- Eze_20:19guardad mis preceptos, y ponedlos porH8104
+- Eze_20:21estatutos, ni guardaron mis decretosH8104
+- Eze_33:8no hablares para que se guarde el impíoH2094
+- Eze_36:27y haré que...guardéis mis preceptos, yH8104
+- Eze_36:29os guardaré de todas...inmundicias, yH3467
+- Eze_37:24mis estatutos guardarán,y por obraH8104
+- Eze_43:11que guarden toda su forma y todas susH8104
+- Eze_44:8pues no habéis guardado lo establecidoH8104
+- Eze_44:15Sadoc, que guardaron el ordenamientoH8104
+- Eze_44:16entrarán...y guardarán mis ordenanzasH8104
+- Eze_44:24leyes...guardarán en todas mis fiestasH8104
+- Eze_48:11de Sadoc que me guardaron fidelidadH8104
+- Dan_7:28pero guardé el asunto en mi corazónH5202
+- Dan_8:26y tú guarda la visión, porque es paraH5640
+- Dan_9:4que guardas el pacto y la misericordiaH8104
+- Dan_9:4que te aman y guardan tus mandamientosH8104
+- Ose_12:6guarda misericordia y juicio, y en tuH8104
+- Ose_12:13Israel...por un profeta fue guardadoH8104
+- Ose_13:10¿donde está tu rey, para que te guardeH3467
+- Ose_13:12atada está...su pecado está guardadoH6845
+- Amó_1:11perpetuamente ha guardado el rencorH8104
+- Amó_2:4y no guardaron sus ordenanzas, y lesH8104
+- Miq_6:16mandamientos de Omri se han guardadoH8104
+- Nah_1:2Dios...guarda enojo para sus enemigosH5201
+- Nah_2:1guarda la fortaleza, vigila el caminoH5341
+- Sof_2:3qulzás seréis guardados en el día delH5641
+- Zac_3:7si guardares mi ordenanza, tambiénH8104
+- Zac_3:7también guardarás mis atrios, y entreH8104
+- Zac_10:6guardaré la casa de José, y los haréH3467
+- Mal_2:7labios del sacerdote han de guardarH8104
+- Mal_2:9vosotros no habéis guardado mis caminosH8104
+- Mal_2:15-16guardaos pues, en vuestro espírituH8104
+- Mal_3:7habéis apartado...y no las guardasteisH8104
+- Mal_3:14¿qué aprovecha que guardemos su leyH8104
+- Mat_6:1guardaos de hacer vuestra justiciaG4337
+- Mat_7:15guardaos de los falsos profetas, queG4337
+- Mat_10:17y guardaos de los hombres, porque osG4337
+- Mat_16:6guardaos de la levadura de los fariseosG4337
+- Mat_16:11dije que os guardaseis de la levaduraG4337
+- Mat_16:12se guardasen de la levadura del panG4337
+- Mat_19:17en la vida, guarda los mandamientosG5083
+- Mat_19:20esto lo he guardado desde mi juventudG5442
+- Mat_23:3que os digan que guardéis guardadlo yG5083
+- Mat_27:36y sentados le guardaban allíG5083
+- Mat_27:54que estaban con él guardando a JesúsG5083
+- Mat_28:20que guarden todas las cosas que os heG5083
+- Mar_6:20temía a Juan...y le guardaba a salvoG4933
+- Mar_7:4muchas cosas...que tomaron para guardarG2902
+- Mar_7:9de Dios para guardar vuestra tradiciónG5083
+- Mar_8:15guardaos de la levadura de los fariseosG991
+- Mar_9:10guardaron la palabra...discutiendo quéG2902
+- Mar_10:20esto lo he guardado desde mi juventudG5442
+- Mar_12:38y les decía...Guardaos de los escribasG991
+- Luc_1:66las guardaban en su corazón, diciendoG5087
+- Luc_2:8pastores...guardaban las vigilias de laG5442
+- Luc_2:19pero María guardaba todas estas cosasG4933
+- Luc_2:51su madre guardaba todas estas cosas enG1301
+- Luc_4:10a sus ángeles mandará...que te guardenG1314
+- Luc_11:21el hombre...armado guarda su palacioG5442
+- Luc_11:28oyen la palabra de Dios, y la guardanG5442
+- Luc_12:1guardaos de la levadura de los fariseosG4337
+- Luc_12:15mirad, y guardaos de toda avariciaG5442
+- Luc_12:17no tengo dónde guardar mis frutos?[[G4863]]
+- Luc_12:18allí guardaré todos mis frutos y misG4863
+- Luc_12:19alma muchos bienes tienes guardadosG2749
+- Luc_18:21esto lo he guardado desde mi juventudG5442
+- Luc_19:20mina...he tenido guardada en un pañueloG606
+- Luc_20:46guardaos de los escribas, que gustanG4337
+- Jua_8:51guarda mi palabra, nunca verá muerteG5083
+- Jua_8:52el que guarda mi palabra, nunca sufriráG5083
+- Jua_8:55pero le conozco, y guardo su palabraG5083
+- Jua_9:16no...porque no guarda el dia de reposoG5083
+- Jua_12:7dia de mi sepultura ha guardado estoG5083
+- Jua_12:25el que...para vida eterna la guardaráG5442
+- Jua_12:47oye...y no las guarda yo no le juzgoG4100
+- Jua_14:15si me amáis, guardad mis mandamientosG5083
+- Jua_14:21tiene mis mandamientos, y los guardaG5083
+- Jua_14:23el que me ama, mi palabra guardaráG5083
+- Jua_14:24que no me ama, no guarda mis palabrasG5083
+- Jua_15:10si guardareis mis mandamientos...amorG5083
+- Jua_15:10como yo he guardado los mandamientosG5083
+- Jua_15:20si han guardado mi palabra...guardaránG5083
+- Jua_17:6me los diste, y han guardado tu palabraG5083
+- Jua_17:11me has dado, guárdalos en tu nombreG5083
+- Jua_17:12los guardaba en tu nombre; a los queG5083
+- Jua_17:12a los que me diste, yo los guardé yG5442
+- Jua_17:15del mundo, sino que los guardes del malG5083
+- Hec_7:53recibisteis la...y no la guardasteisG5442
+- Hec_9:24guardaban las puertas de día y de nocheG3906
+- Hec_15:5mandarles que guarden la ley de MoisésG5083
+- Hec_15:24mandando circuncidaros y guardar laG5083
+- Hec_15:29de las cuales cosas si os guardareisG1301
+- Hec_16:4las ordenanzas...para que las guardasenG5442
+- Hec_16:23mandando...los guardase con seguridadG5083
+- Hec_18:21yo guarde en Jerusalén la fiesta queG4160
+- Hec_21:24andas ordenadamente, guardando la leyG5442
+- Hec_21:25que no guarden nada de esto; solamenteG5442
+- Hec_22:2y al oir...que guardaron más silencioG3930
+- Hec_22:20guardaba...ropas de los que le matabanG5442
+- Rom_2:25aprovecha, si guardas la ley, pero siG4238
+- Rom_2:26si pues, el incircunciso guardare lasG5442
+- Rom_2:27pero guarda perfectamente la leyG5442
+- 1Co_7:19sino el guardar los mandamientos deG5084
+- 1Co_7:37ha resuelto...guardar a su hija virgenG5083
+- 1Co_13:5lo suyo, no se irrita, no guarda rencorG3049
+- 1Co_16:2ponga aparte algo...guardándolo, para
+- 2Co_11:9me guardé y me guardaré de serosG5083
+- 2Co_11:32guardaba la ciudad de los damascenosG5432
+- Gál_4:10guardáis los dias, los meses...añosG3906
+- Gál_5:3que está obligado a guardar toda la leyG4160
+- Gál_6:13ni...que se circuncidan guardan la leyG5442
+- Efe_4:3guardar la unidad del Esplritu en elG5083
+- Flp_3:2guardaos de los perros, g de losG991
+- Flp_3:2guardaos de los mutiladores del cuerpoG991
+- Flp_4:7la paz de...guardará vuestros corazonesG5432
+- Col_1:5de la esperanza que os está guardadaG606
+- 1Ts_5:23espiritu, alma y cuerpo...guardadoG5083
+- 2Ts_3:3fiel es el Señor, que os...guardaráG5442
+- 1Ti_3:9que guarden el misterio de la fe conG2192
+- 1Ti_5:21te encarezco...que guardes estas cosasG5442
+- 1Ti_6:14que guardes el mandamiento sin máculaG5083
+- 1Ti_6:20guarda lo que se te ha encomendadoG5442
+- 2Ti_1:12poderoso para guardar mi depósitoG5442
+- 2Ti_1:14guarda...depósito por el Espíritu SantoG5442
+- 2Ti_4:7acabado la carrera, he guardado la feG5083
+- 2Ti_4:8me está guardada la corona de justiciaG606
+- 2Ti_4:15guárdate tú también de él, pues enG5442
+- Stg_1:27y guardarse sin mancha del mundoG5083
+- Stg_2:10cualquiera que guardare toda la leyG5083
+- 1Pe_1:5sois guardados por el poder de DiosG5432
+- 2Pe_2:5si no perdonó...sino que guardó a NoéG5442
+- 2Pe_3:7guardados para el fuego en el día delG2343
+- 2Pe_3:17guardaos, no sea que arrastrados porG5442
+- 1Jn_2:3esto...si guardamos sus mandamientosG5083
+- 1Jn_2:4el que dice: Yo le conozco, y no guardaG5083
+- 1Jn_2:5pero el que guarda su palabra, en ésteG5083
+- 1Jn_3:22guardamos sus mandamientos, y hacemosG5083
+- 1Jn_3:24que guarda sus mandamientos, permaneceG5083
+- 1Jn_5:2amamos a...y guardamos sus mandamientosG5083
+- 1Jn_5:3que guardemos sus mandamientos; y susG5083
+- 1Jn_5:18le guarda, y el maligno no le tocaG5083
+- 1Jn_5:21hijitos, guardaos de los idolos. AménG5442
+- Jud_1:1santificados...y guardados en JesucristoG5083
+- Jud_1:6los ángeles que no guardaron su dignidadG5083
+- Jud_1:6ha guardado bajo oscuridad, en prisionesG5083
+- Jud_1:24aquel que es poderoso para guardaros sinG5442
+- Rev_1:3y guardan las cosas en ella escritasG5083
+- Rev_2:26al que venciere y guardare mis obrasG5083
+- Rev_3:3acuérdate...y guárdalo, y arrepiénteteG5083
+- Rev_3:8has guardado mi palabra, y no has negadoG5083
+- Rev_3:10has guardado la palabra de mi pacienciaG5083
+- Rev_3:10te guardaré de la hora de la pruebaG5083
+- Rev_12:17; Rev_14:12guardan los mandamientos de DiosG5083
+- Rev_16:15bienaventurado el que vela, y guardaG5083
+- Rev_22:7bienaventurado el que guarda...palabrasG5083
+- Rev_22:9que guardan las palabras de este libroG5083

@@ -1,0 +1,85 @@
+---
+tipo: concordancia
+palabra: ALA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ALA
+
+- Éxo_19:4como os tomé sobre a de águilas, y osH3671
+- Éxo_25:20los querubines extenderán encima las aH3671
+- Éxo_25:20cubriendo con sus a el propiciatorioH3671
+- Éxo_37:9extendían sus a...cubriendo con sus a elH3671
+- Lev_1:17la henderá por su a...no la dividiráH3671
+- Deu_32:11extiende sus a los toma, los llevaH3671
+- Rut_2:12bajo cuyas a has venido a refugiarteH3671
+- 2Sa_22:11y voló; voló sobre las a del vientoH3671
+- 1Re_6:24una a...tenía cinco codos, y...otra aH3671
+- 1Re_6:24diez codos desde la punta de una a hastaH3671
+- 1Re_6:27extendían sus a, de modo que el a de unoH3671
+- 1Re_6:27el a del otro...las otras dos a se tocabanH3671
+- 1Re_8:6arca...debajo de las a de los querubinesH3671
+- 1Re_8:7los querubines tenían extendidas las aH3671
+- 1Cr_28:18que con las a...cubrían el arca del
+- 2Cr_3:11de las a...una a era de cinco codosH3671
+- 2Cr_3:11-12una a...tocaba el a del otro querubínH3671
+- 2Cr_3:13los querubines tenían las a extendidas porH3671
+- 2Cr_5:7el arca del...bajo las a de los querubinesH3671
+- 2Cr_5:8extendían las a sobre el lugar del arcaH3671
+- Job_39:13¿diste...a al pavo real, o a y plumasH3671
+- Job_39:26¿vuela...y extiende hacia el sur sus a?[[H3671]]
+- Sal_17:8escóndeme bajo la sombra de tus aH3671
+- Sal_18:10y voló; voló sobre las a del vientoH3671
+- Sal_36:7por eso...amparan bajo la sombra de tus aH3671
+- Sal_55:6¡quién me diere a como de paloma![[H83]]
+- Sal_57:1y en la sombra de tus a me ampararéH3671
+- Sal_61:4estaré seguro bajo la cubierta de tus aH3671
+- Sal_63:7así en la sombra de tus a me regocijaréH3671
+- Sal_68:13seréis como a de paloma cubiertas deH3671
+- Sal_91:4plumas...debajo de sus a estarás seguroH3671
+- Sal_104:3el que anda sobre las a del viento, elH3671
+- Sal_139:9si tomare las a del alba y habitare enH3671
+- Pro_23:5se harán a como a de águila, y volaránH3671
+- Ecl_10:20las que tienen a harán saber la palabraH3671
+- Isa_6:2había serafines; cada uno tenía seis aH3671
+- Isa_8:8extendiendo sus a, llenará la anchura deH3671
+- Isa_10:14no hubo quien moviese a, ni abriese bocaH3671
+- Isa_18:1¡ay de la tierra que hace sombra con las aH3671
+- Isa_34:15sus pollos...los juntará debajo de sus aH6738
+- Isa_40:31levantarán a como las águilas; correránH83
+- Jer_48:9dad a a Moab, para que se vaya volandoH6731
+- Jer_48:40como águila...extenderá...a contra MoabH3671
+- Jer_49:22volará, y extenderá sus a contra BosraH3671
+- Eze_1:6cada uno tenía cuatro caras y cuatro aH3671
+- Eze_1:8debajo de su a, a sus cuatro ladosH3671
+- Eze_1:8y sus caras y sus a por los cuatro ladosH3671
+- Eze_1:9con las a se juntaban el uno al otro. No seH3671
+- Eze_1:11tenían sus a extendidas por encima, cadaH3671
+- Eze_1:23y debajo de la expansión las a de ellosH3671
+- Eze_1:23y cada uno tenía dos a que cubrían suH3671
+- Eze_1:24y oí el sonido de sus a cuando andabanH3671
+- Eze_1:24y oí...Cuando se paraban, bajaban sus aH3671
+- Eze_1:25cuando se paraban y bajaban sus a, se oíaH3671
+- Eze_3:13sonido de las a de los seres vivientesH3671
+- Eze_10:5el estruendo de las a de los querubinesH3671
+- Eze_10:8la figura de una mano...debajo de sus aH3671
+- Eze_10:12a y las ruedas estaban llenos de ojosH3671
+- Eze_10:16cuando los querubines alzaban sus a paraH3671
+- Eze_10:19y alzando los querubines sus a, seH3671
+- Eze_10:21cada uno cuatro a, y figuras de manosH3671
+- Eze_10:21figura de mano de hombre debajo...sus aH3671
+- Eze_11:22después alzaron los querubines sus a, yH3671
+- Eze_17:3una gran águila, de grandes a y de largosH3671
+- Eze_17:7otra gran águila, de grandes a y...plumasH3671
+- Dan_7:4la primera era como...tenía a de águilaH1611
+- Dan_7:4yo estaba mirando hasta que sus a fueronH1611
+- Dan_7:6otra...con cuatro a de ave en sus espaldasH1611
+- Ose_4:19el viento los ató en sus a y de susH3671
+- Zac_5:9y traían viento en sus a, y tenían aH3671
+- Mal_4:2el Sol de...y en sus a traerá salvaciónH3671
+- Mat_23:37como la gallina junta...debajo de sus aG4420
+- Luc_13:34como la gallina a sus...debajo de sus aG4420
+- Rev_4:8tenían cada uno seis a, y alrededor yG4420
+- Rev_9:9el ruido de sus a era como...muchos carrosG4420
+- Rev_12:14le dieron...las dos a de la gran águilaG4420

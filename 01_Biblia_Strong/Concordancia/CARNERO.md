@@ -1,0 +1,123 @@
+---
+tipo: concordancia
+palabra: CARNERO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CARNERO
+
+- Gén_15:9y le dijo: Tráeme...un c de tres añosH5697
+- Gén_22:13miró, y he aquí a sus espaldas un cH352
+- Gén_22:13tomó el c, y lo ofreció en holocaustoH352
+- Gén_31:38abortaron, ni yo comí c de tus ovejasH352
+- Gén_32:14cabras...doscientas ovejas y veinte cH352
+- Éxo_25:5pieles de c teñidas de rojo, pielesH352
+- Éxo_26:14y una cubierta de pieles de c teñidasH352
+- Éxo_29:1toma un becerro de...y dos c sin defectoH352
+- Éxo_29:3ofrecerás, con el becerro y los dos cH352
+- Éxo_29:15tomarás uno de los c, y Aarón y susH352
+- Éxo_29:15, Éxo_29:19pondrán sus manos...la cabeza del cH352
+- Éxo_29:16matarás el c, y con su sangre rociarásH352
+- Éxo_29:17cortarás el c en pedazos, y lavarásH352
+- Éxo_29:18quemarás todo el c sobre el altarH352
+- Éxo_29:19tomarás luego el otro c, y Aarón y susH352
+- Éxo_29:20matarás el c, y tomarás de su sangreH352
+- Éxo_29:22tomarás del c...es c de consagraciónH352
+- Éxo_29:26el pecho del c de las consagracionesH352
+- Éxo_29:27fue elevado del c de las consagracionesH352
+- Éxo_29:31y tomarás el c de las consagracionesH352
+- Éxo_29:32y Aarón y sus...comerán la carne del cH352
+- Éxo_35:7, Éxo_35:23pieles de c teñidas de rojoH352
+- Éxo_36:19, Éxo_36:34cubierta de pieles de c teñidas deH352
+- Lev_5:15traerá por su culpa a Jehová un c sinH352
+- Lev_5:16hará expiación...con el c del sacrificioH352
+- Lev_5:18; Lev_6:6traerá...un c sin defecto de losH352
+- Lev_8:2toma...los dos c, y el canastillo de losH352
+- Lev_8:18hizo que trajeran el c del holocaustoH352
+- Lev_8:18, Lev_8:22sus manos sobre la cabeza del cH352
+- Lev_8:20y cortó el c en trozos; y Moisés hizoH352
+- Lev_8:21quemó Moisés todo el c sobre el altarH352
+- Lev_8:22hizo que trajeran el otro c, el c deH352
+- Lev_8:29del c...aquella fue la parte de MoisésH352
+- Lev_9:2toma...un c para holocausto, sin defectoH352
+- Lev_9:4c para sacrificio de paz, que inmoléisH352
+- Lev_9:18degolló...el c en sacrificio de paz, queH352
+- Lev_9:19las grosuras del buey y del c, la colaH352
+- Lev_16:3con esto entrará...un c para holocaustoH352
+- Lev_16:5tomará dos machos...un c para holocaustoH352
+- Lev_19:21traerá...un c en expiación por su culpaH352
+- Lev_19:22con el c...lo reconciliará el sacerdoteH352
+- Lev_22:23o c que tenga de más o menos, podrásH7716
+- Lev_23:18y ofreceréis con el pan...dos c; seránH352
+- Núm_5:8dará...además del c de las expiacionesH352
+- Núm_6:14un c sin defecto por ofrenda de pazH352
+- Núm_6:17ofrecerá el c en ofrenda de...a JehováH352
+- Núm_6:19tomará el...la espadilla cocida del cH352
+- Núm_7:15, Núm_7:21, Núm_7:27, Núm_7:33, Núm_7:39, Núm_7:45, Núm_7:51, Núm_7:57, Núm_7:63, Núm_7:69, Núm_7:75, Núm_7:81un becerro, un c, un cordero de un añoH352
+- Núm_7:17, Núm_7:23, Núm_7:27, Núm_7:29, Núm_7:35, Núm_7:41, Núm_7:47, Núm_7:53, Núm_7:59, Núm_7:65, Núm_7:71, Núm_7:77, Núm_7:83cinco c, cinco machos cabríos y cinco corderosH352
+- Núm_7:87doce los c, doce los corderos de un añoH352
+- Núm_7:88sesenta...c, sesenta machos cabríosH352
+- Núm_15:6por cada c harás ofrenda de dos décimasH352
+- Núm_15:11se hará con cada buey, o c, o corderoH352
+- Núm_23:1, Núm_23:29altares...siete becerros y siete cH352
+- Núm_23:2, Núm_23:14, Núm_23:30un becerro y un c en cada altarH352
+- Núm_23:4y en cada altar he ofrecido un...y un cH352
+- Núm_28:11ofreceréis...un c, y siete corderos deH352
+- Núm_28:12de flor de harina...ofrenda con cada cH352
+- Núm_28:14la tercera parte de un hin con cada cH352
+- Núm_28:19, Núm_28:27; Núm_29:2, Núm_29:8un c, y siete corderos deH352
+- Núm_28:20, Núm_28:28; Núm_29:3, Núm_29:9y dos décimas con cada cH352
+- Núm_29:13, Núm_29:17, Núm_29:20, Núm_29:23, Núm_29:26, Núm_29:29, Núm_29:32ofreceréis...dos c, y catorce corderosH352
+- Núm_29:14dos décimas con cada uno de los dos cH352
+- Núm_29:18, Núm_29:21, Núm_29:24, Núm_29:27, Núm_29:30, Núm_29:33libaciones...con los cH352
+- Núm_29:36ofreceréis...un c, siete corderos de unH352
+- Núm_29:37con el c y con los corderos, según elH352
+- Deu_14:5el íbice, el antílope y el c montésH689
+- Deu_32:14y c de Basán; también machos cabríosH352
+- Jos_6:4, Jos_6:6, Jos_6:8, Jos_6:13bocinas de cuernos de cH3104
+- Jos_6:5cuando toquen...el cuerno de c, así queH3104
+- 1Sa_15:9mejor...de los c y de todo lo buenoH3733
+- 1Sa_15:22el prestar atención que la...de los cH352
+- 2Sa_6:13sacrificó un buey y un c engordadoH4806
+- 2Re_3:4pagaba...cien mil c con sus vellonesH352
+- 1Cr_15:26sacrificaron siete novillos y 7 cH352
+- 1Cr_29:21ofrecieron...mil c, mil corderos conH352
+- 2Cr_13:9a consagrarse con un becerro y 7 cH352
+- 2Cr_17:11le trajeron...7.700 c y 7.700 machosH352
+- 2Cr_29:21y presentaron siete novillos, siete cH352
+- 2Cr_29:22mataron luego los c, y esparcieron laH352
+- 2Cr_29:32bueyes, cien c y doscientos corderosH352
+- Esd_6:9c y corderos para holocaustos al DiosH1798
+- Esd_6:17ofrecieron en la dedicación...200 c yH1798
+- Esd_7:17comprarás, pues...becerros, c y corderosH1798
+- Esd_8:35ofrecieron...96 c, 77 corderos, y doceH352
+- Esd_10:19ofrecieron...un c de los rebaños porH352
+- Job_42:8tomaos...y siete c, e id a mi siervoH352
+- Sal_37:20perecerán...como la grasa de los cH3733
+- Sal_66:15holocaustos de...con sahumerio de cH352
+- Sal_114:4montes saltaron como c, los colladosH352
+- Sal_114:6oh montes, ¿por qué saltasteis como cH352
+- Isa_1:11hastiado estoy de holocaustos de c yH352
+- Isa_34:6engrasada...de grosura de riñones de cH352
+- Isa_60:7c de Nebaiot te serán servidos; seránH352
+- Jer_51:40los haré traer...al matadero, como cH352
+- Eze_27:21Arabia y...traficaban contigo en...cH352
+- Eze_34:17juzgo entre...entre c y machos cabríosH352
+- Eze_39:18de c, de corderos, de machos cabríosH352
+- Eze_43:23ofrecerás...un c sin tacha de la manadaH352
+- Eze_43:25sacrificarán...c sin tacha del rebañoH352
+- Eze_45:23ofrecerá...y siete c sin defecto, cadaH352
+- Eze_45:24ofrenda de un efa, y con cada c un efaH352
+- Eze_46:4el holocausto...será...y un c sin tachaH352
+- Eze_46:5y por ofrenda un efa con cada c; y conH352
+- Eze_46:6seis corderos, y un c; deberán ser sinH352
+- Eze_46:7, Eze_46:11con el becerro, y un efa con cada cH352
+- Dan_8:3miré...un c que estaba delante del ríoH352
+- Dan_8:4el c hería con los cuernos al ponienteH352
+- Dan_8:6vino hasta el c de dos cuernos, que yoH352
+- Dan_8:7llegó junto al c, y se levantó contra élH352
+- Dan_8:7c no tenía fuerzas para pararse delanteH352
+- Dan_8:7y no hubo quien librase al c de su poderH352
+- Dan_8:20en cuanto al c que viste, que tenía dosH352
+- Miq_6:7¿se agradará Jehová de millares de cH352

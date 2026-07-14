@@ -1,0 +1,136 @@
+---
+tipo: concordancia
+palabra: CORDERO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CORDERO
+
+- Véase también Cordera
+- Gén_22:7¿dónde está el c para el holocausto?[[H7716]]
+- Gén_22:8Dios se proveerá de c para el...hijo míoH7716
+- Gén_30:40apartaba Jacob los c, y ponía con suH3775
+- Éxo_12:3tómese cada uno un c...un c por familiaH7716
+- Éxo_12:4si la familia...no baste para comer el cH7716
+- Éxo_12:4conforme al...haréis la cuenta sobre el cH7716
+- Éxo_12:21tomaos c por...familias, y sacrificadH6629
+- Éxo_13:13primogénito de asno redimirás con un cH7716
+- Éxo_29:38que ofrecerás...dos c de un año cada díaH3532
+- Éxo_29:39uno de los c por la mañana, y el otro cH3532
+- Éxo_29:40con cada c una décima parte de un efaH3532
+- Éxo_29:41ofrecerás el otro c a la caída de laH3532
+- Éxo_34:20redimirás con c el primogénito del asnoH7716
+- Lev_3:7ofreciere c por su ofrenda, lo ofreceráH3775
+- Lev_4:32por su ofrenda por el pecado trajere cH3532
+- Lev_5:7si no tuviere...para un c, traerá a JehováH7716
+- Lev_7:23ninguna grosura de buey ni de c ni deH3775
+- Lev_9:3tomad, un becerro y un c de un año, sinH3532
+- Lev_12:6traerá un c de un año para holocaustoH3532
+- Lev_12:8y si no tiene lo suficiente para un cH7716
+- Lev_14:10el día octavo tomará dos c sin defectoH3535
+- Lev_14:12tomará...un c y lo ofrecerá por la culpaH3532
+- Lev_14:13y degollará el c en el lugar donde seH3532
+- Lev_14:21tomará un c para ser ofrecido comoH3532
+- Lev_14:24sacerdote tomará el c de la expiaciónH3532
+- Lev_14:25luego degollará el c de la culpa, y elH3532
+- Lev_17:3varón de...que degollare buey o c o cabraH3775
+- Lev_22:19de entre los c, o de entre las cabrasH1241
+- Lev_22:27el c...cuando naciere, siete días estaráH3775
+- Lev_23:12la gavilla, ofreceréis un c de un añoH3532
+- Lev_23:18ofreceréis con el pan siete c de un añoH3532
+- Lev_23:19ofreceréis además...y dos c de un añoH3532
+- Lev_23:20con el pan de las primicias y los dos cH3532
+- Núm_6:12traerá un c de un año en expiación porH3532
+- Núm_6:14ofrecerá...un c de un año sin tacha enH3532
+- Núm_7:15, Núm_7:21, Núm_7:27, Núm_7:33, Núm_7:39, Núm_7:45, Núm_7:51, Núm_7:57, Núm_7:63, Núm_7:69, Núm_7:75, Núm_7:81un c de un año para holocaustoH3532
+- Núm_7:17, Núm_7:23, Núm_7:29, Núm_7:35, Núm_7:41, Núm_7:47, Núm_7:53, Núm_7:59, Núm_7:65, Núm_7:71, Núm_7:77, Núm_7:83cinco carneros...y cinco c de un añoH3532
+- Núm_7:87doce los c de un año, con su ofrenda, y 12H3532
+- Núm_7:88de la ofrenda de paz...sesenta los c de unH3532
+- Núm_15:5un hin, además del holocausto...por cada cH3532
+- Núm_15:11así se hará con cada...c de las ovejas, oH7716
+- Núm_28:3dos c sin tacha de un año cada día, seráH7716
+- Núm_28:4un c ofrecerás por la mañana, y el otro cH3532
+- Núm_28:7la cuarta parte de un hin con cada cH3532
+- Núm_28:8ofrecerás el segundo c a la...de la tardeH3532
+- Núm_28:9mas el día de reposo, dos c de un año sinH3532
+- Núm_28:11, Núm_28:19, Núm_28:27un carnero, y siete c de un añoH3532
+- Núm_28:13en ofrenda que se ofrecerá con cada cH3532
+- Núm_28:14y la cuarta parte de un hin con cada cH3532
+- Núm_28:21, Núm_28:29y con cada uno de los siete cH3532
+- Núm_29:2, Núm_29:13, Núm_29:36un carnero, siete c de un añoH3532
+- Núm_29:4, Núm_29:10, Núm_29:15con cada uno de los...c, una décimaH3532
+- Núm_29:13, Núm_29:17, Núm_29:20, Núm_29:23, Núm_29:26, Núm_29:29, Núm_29:32catorce c de un añoH3532
+- Núm_29:18, Núm_29:21, Núm_29:24, Núm_29:27, Núm_29:30, Núm_29:33, Núm_29:37libaciones...con los cH3532
+- Deu_17:1no ofrecerás...c en el cual haya faltaH7716
+- Deu_18:3que ofrecieren en sacrificio buey o cH7716
+- Deu_22:1si vieres extraviado el buey de...o su cH7716
+- Deu_32:14y leche de ovejas, con grosura de cH3733
+- 1Sa_7:9Samuel tomó un c de...y lo sacrificóH2924
+- 1Sa_17:34un león...y tomaba algún c de la manadaH7716
+- 2Re_3:4pagaba al rey de Israel cien mil c yH3733
+- 1Cr_29:21carneros, mil c con sus libacionesH3532
+- 2Cr_29:21siete c y siete machos cabríos paraH3532
+- 2Cr_29:22mataron...los c, y esparcieron la sangreH3532
+- 2Cr_29:32y doscientos c, todo para el holocaustoH3532
+- 2Cr_35:7y dio...c y cabritos de los rebaños, enH3532
+- Esd_6:9c para holocaustos al Dios del cieloH563
+- Esd_6:17ofrecieron...400 c; y 12 machos cabríosH563
+- Esd_7:17comprarás...carneros y c, con sus ofrendasH563
+- Esd_8:35ofrecieron...77 c, y 12 machos cabríosH3532
+- Pro_27:26los c son para tus vestidos, y losH3532
+- Isa_5:17c...apacentados según su costumbreH3532
+- Isa_11:6morará el lobo con el c, y el leopardoH3532
+- Isa_16:1enviad c al señor de la tierra, desdeH3733
+- Isa_34:6engrasada...de sangre de c y de machosH3733
+- Isa_40:11en su brazo llevará los c, y en su senoH2922
+- Isa_53:7como c fue llevado al matadero; y comoH7716
+- Isa_65:25el lobo y el c serán apacentados juntosH2924
+- Jer_11:19yo era como c inocente que llevanH3532
+- Jer_51:40los haré traer como c al matadero, comoH3733
+- Eze_27:21de Cedar traficaban contigo en c yH3733
+- Eze_39:18de c, de machos cabríos, de bueyes yH3733
+- Eze_46:4el holocausto...será seis c sin defectoH3532
+- Eze_46:5y con cada c, una ofrenda conforme a susH3532
+- Eze_46:6seis c, y un carnero; deberán ser sinH3532
+- Eze_46:7, Eze_46:11con los c, conforme a...posibilidadesH3532
+- Eze_46:13ofrecerás...un c de un año sin defectoH3532
+- Eze_46:15ofrecerán...c y la ofrenda y el aceiteH3532
+- Ose_4:16los apacentará ahora Jehová como a cH3532
+- Amó_6:4sus lechos; y comen los c del rebañoH3733
+- Mar_14:12cuando sacrificaban el c de la Pascua
+- Luc_10:3yo os envío como c en medio de lobosG704
+- Luc_22:7necesario sacrificar el c de la pascua
+- Jua_1:29el C de Dios, que quita el pecado delG286
+- Jua_1:36y mirando a...dijo: He aquí el C de DiosG286
+- Jua_21:15que te amo. El le dijo: Apacienta mis cG721
+- Hec_8:32c mudo delante del que lo trasquilaG286
+- 1Pe_1:19un c sin mancha y sin contaminaciónG286
+- Rev_5:6estaba en pie un C como inmolado, queG721
+- Rev_5:8se postraron delante del C; todos teníanG721
+- Rev_5:12el C que fue inmolado es digno de tomarG721
+- Rev_5:13y al C, sea la alabanza, la honra, laG721
+- Rev_6:1vi cuando el C abrió uno de los sellosG721
+- Rev_6:16escondednos del rostro...de la ira del CG721
+- Rev_7:9estaban delante...en la presencia del CG721
+- Rev_7:10la salvación pertenece a...Dios...y al CG721
+- Rev_7:14las han emblanquecido en la sangre del CG721
+- Rev_7:17el C que...los pastoreará, y los guiará aG721
+- Rev_12:11vencido por medio de la sangre del CG721
+- Rev_13:8libro de la vida del C que fue inmoladoG721
+- Rev_13:11dos cuernos semejantes a los de un cG721
+- Rev_14:1C estaba en pie sobre el monte de SionG721
+- Rev_14:4que siguen al C por dondequiera que vaG721
+- Rev_14:4redimidos...como primicias para...el CG721
+- Rev_14:10atormentado con fuego...delante...del CG721
+- Rev_15:3cantan el...y el cántico del C, diciendoG721
+- Rev_17:14pelearán contra el C, y el C los venceráG721
+- Rev_19:7han llegado las bodas del C, y su esposaG721
+- Rev_19:9llamados a la cena de las bodas del CG721
+- Rev_21:9ven acá, yo te mostraré...la esposa del CG721
+- Rev_21:14los nombres de los doce apóstoles del CG721
+- Rev_21:11Señor Dios...es el templo de ella, y el CG721
+- Rev_21:23la gloria de Dios la ilumina, y el CG721
+- Rev_21:27inscritos en el libro de la vida del CG721
+- Rev_22:1un río...salía del trono de Dios y del CG721
+- Rev_22:3el trono de Dios y del C estará en ellaG721

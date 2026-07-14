@@ -1,0 +1,113 @@
+---
+tipo: concordancia
+palabra: FORTALEZA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FORTALEZA
+
+- Gén_49:3Rubén, tú eres...mi f...y el principioH202
+- Éxo_15:2Jehová es mi f y mi cántico, y ha sidoH5797
+- Jue_9:46se metieron en la f del templo...BeritH6877
+- Jue_9:49junto a la f...prendieron fuego...a la fH6877
+- 2Sa_5:7pero David tomó la f de Sión, la cualH4686
+- 2Sa_5:9David moró en la f, y le puso por nombreH4686
+- 2Sa_5:17cuando David lo oyó, descendió a la fH4686
+- 2Sa_22:2Jehová es mi roca y mi f, y mi libertadorH4686
+- 2Sa_22:3f mía, en él confiaré; mi escudo, y elH4686
+- 2Sa_24:7fueron...a la f de Tiro, y a todas lasH4013
+- 2Re_8:12sus f pegarás fuego, a sus jóvenesH4013
+- 1Cr_11:5mas David tomó la f de Sión, que esH4686
+- 1Cr_11:7y David habitó en la f, y por esto laH4679
+- 1Cr_11:16David...en la f, y...filisteos en BelénH4686
+- 2Cr_11:11reforzó...las f, y puso...capitanesH4694
+- 2Cr_17:12Josafat...edificó en Judá f y ciudadesH1003
+- 2Cr_27:3y sobre el muro de la f edificó muchoH6077
+- 2Cr_27:4y construyó f y torres en los bosquesH1003
+- Neh_7:2Hananías, jefe de la f de JerusalénH1002
+- Sal_8:2la boca de los niños...fundaste la fH5797
+- Sal_18:1te amo, oh Jehová, f míaH2391
+- Sal_18:2f mía, en él confiaré; mi escudo, y laH4686
+- Sal_22:19mas tú...f mía, apresúrate a socorrermeH360
+- Sal_27:1Jehová es la f de mi vida, ¿de quiénH4581
+- Sal_28:7Jehová es mi f y mi escudo; en él confióH5797
+- Sal_28:8Jehová es la f de su pueblo, y el refugioH5797
+- Sal_31:2sé tú mi roca fuerte, y f para salvarmeH4686
+- Sal_37:39es su f en el tiempo de la angustiaH4581
+- Sal_43:2pues que tú eres el Dios de mi f, ¿porH4581
+- Sal_46:1Dios es nuestro amparo y f...auxilio enH5797
+- Sal_52:7el hombre que no puso a Dios por su fH4581
+- Sal_59:17f mía, a ti cantaré; porque eres, ohH5797
+- Sal_60:7y Efraín es la f de mi cabeza; Judá esH4581
+- Sal_71:3roca de...porque tú eres mi roca y mi fH4686
+- Sal_81:1cantad con gozo a Dios, f nuestra; alH5797
+- Sal_89:40aportillaste todos...has destruido sus fH4013
+- Sal_90:10con todo, su f es molestia y trabajoH7296
+- Sal_92:15para anunciar que Jehová mi f es rectoH6697
+- Sal_103:20ángeles, poderosos en f, que ejecutáisH3581
+- Sal_108:8Efraín es la f de mi cabeza; Judá esH4581
+- Sal_118:14mi f y mi cántico es JAH, y él me haH5797
+- Sal_144:2f mía y mi libertador, escudo mío, enH4686
+- Pro_10:29el camino de Jehová es f al perfectoH4581
+- Isa_12:2porque mi f y mi canción es...JehováH5797
+- Isa_23:4f del mar habló, diciendo: Nunca estuveH4581
+- Isa_23:11Jehová mandó...que sus f sean destruidasH4581
+- Isa_23:13levantaron sus f, edificaron...palaciosH971
+- Isa_23:14aullad...porque destruida es vuestra fH4581
+- Isa_25:4fuiste f al pobre, f al menesteroso enH4581
+- Isa_25:12y abatirá la f de tus altos muros laH4013
+- Isa_26:4porque en Jehová el Señor está la f deH6697
+- Isa_27:5forzará alguien mi f? Haga conmigo pazH4581
+- Isa_29:7todos los que pelean contra ella y su fH4685
+- Isa_30:7di voces, que su f sería estarse quietosH7293
+- Isa_30:15en quietud y en confianza...vuestra fH1369
+- Isa_31:9de miedo pasará su f, y sus príncipes conH5553
+- Isa_32:14las torres y f se volverán cuevas paraH6076
+- Isa_33:16f de rocas será su lugar de refugio; seH4869
+- Isa_34:13crecerán...y ortigas y cardos en sus fH4013
+- Jer_6:27por f te he puesto en mi pueblo, porH4013
+- Jer_16:19Jehová, f mía y fuerza mía, y refugioH5797
+- Jer_46:15¿por qué ha sido derribada tu f? NoH47
+- Jer_48:18el destruidor de Moab...destruyó tus fH4013
+- Jer_48:41tomadas serán las ciudades, y...las fH4679
+- Jer_49:35arco de Elam, parte principal de su fH1369
+- Jer_51:30se encerraron en sus f; les faltaronH4679
+- Eze_4:2edificarás contra ella f...campamentoH1785
+- Eze_19:7saqueó f, y asoló ciudades; y la tierraH759
+- Eze_19:9lo pusieron en las f, para que su vozH4679
+- Eze_24:25el día que yo arrebate a ellos su fH4581
+- Eze_30:15derramaré...ira sobre Sin, f de EgiptoH4581
+- Eze_33:27están en las f y en las cuevas moriránH4679
+- Dan_11:7entrará en la f, y hará en ellos a suH4581
+- Dan_11:10volverá y llevará la guerra hasta su fH4581
+- Dan_11:19volverá su rostro a las f de su tierraH4581
+- Dan_11:24y contra las f formará sus designiosH4013
+- Dan_11:31que profanarán el santuario y la f, yH4581
+- Dan_11:38honrará en su lugar al dios de las fH4581
+- Dan_11:39con un dios ajeno se hará de las f másH4581
+- Ose_10:14todas tus f serán destruidas, comoH4013
+- Joe_3:16Jehová será...f de los hijos de IsraelH4581
+- Amó_3:11derribará tu f, y tus palacios seránH5797
+- Amó_5:9hace que el despojador venga sobre la fH4013
+- Miq_4:8f de la hija de Sión, hasta ti vendráH6076
+- Miq_5:11de tu tierra, y arruinaré todas tus fH4013
+- Nah_1:7Jehová es...f en el día de la angustiaH4581
+- Nah_2:1guarda la f, vigila el camino, cíñete losH4694
+- Nah_3:9Etiopía era su f, también Egipto, y esoH6109
+- Nah_3:12tus f serán cual higueras con brevasH4013
+- Nah_3:14refuerza tus f; entra en el lodo, pisaH4013
+- Hab_1:10reirá de...f, y levantará terraplénH4013
+- Hab_2:1y sobre la f afirmaré el pie, y velaréH4692
+- Hab_3:19Jehová el Señor es mi f, el cual haceH2428
+- Zac_9:3Tiro se edificó f...y amontonó plataH4692
+- Zac_9:12a la f, oh prisioneros de esperanzaH1225
+- Hec_21:34del alboroto, le...mandó llevar a la fG3925
+- Hec_21:37comenzaron a meter a Pablo en la fG3925
+- Hec_22:24mandó...le metiesen en la f y ordenóG3925
+- Hec_23:10le arrebatasen...y le llevasen a la fG3925
+- Hec_23:16y entró en la f y dio aviso a PabloG3925
+- Hec_23:32y al día siguiente...volvieron a la fG3925
+- 2Co_10:4poderosas...para la destrucción de fG3794
+- Rev_5:12el Cordero...es digno de tomar...la fG2479
+- Rev_7:12el poder y la f sean a nuestro Dios porG2479

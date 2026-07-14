@@ -1,0 +1,128 @@
+---
+tipo: concordancia
+palabra: ASOLAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ASOLAR
+
+- Gén_19:29asolar las ciudades donde Lot estabaH2015
+- Gén_47:19que vivamos...y no sea asolada la tierraH3456
+- Lev_26:31y asolaré vuestros santuarios, y noH2723
+- Lev_26:32asolaré...la tierra, y se pasmarán porH8074
+- Lev_26:33vuestra tierra...asolada, y desiertasH8077
+- Lev_26:34de reposo, los días que esté asoladaH8074
+- Lev_26:35el tiempo que esté asolada, descansaráH8074
+- Jos_8:28quemó a Hai y...asolada para siempreH8077
+- Jos_10:1tomado a Hai, y que la había asoladoH2763
+- Jue_1:17derrotaron al...en Sefat, y la asolaronH2763
+- Jue_9:45y asoló la ciudad, y la sembró de salH5422
+- 1Sa_27:9asolaba David el país, y no dejabaH5221
+- 1Sa_30:1y habían asolado a Siclag y le habíanH5221
+- 2Re_3:25y asolaron las ciudades, y en todasH2040
+- 2Re_22:19que vendrán a ser asolados y malditosH8047
+- 2Cr_34:6lo mismo...y en los lugares asolados
+- Est_9:5asolaron los judíos a...sus enemigosH5221
+- Job_15:28y habitó las ciudades asoladas, lasH3582
+- Job_15:34la congregación de los...será asoladaH1565
+- Job_16:7ahora tú...has asolado toda mi compañíaH8074
+- Job_30:3huían a la...a lugar tenebroso, asoladoH7722
+- Sal_40:15sean asolados en pago de su afrentaH8074
+- Sal_52:5Dios...te asolará y te arrancará de tuH5422
+- Sal_69:25su palacio asolado: en sus tiendas noH8074
+- Sal_73:19¡cómo han sido asolados de repente![[H8047]]
+- Sal_79:7han consumido a...su morada han asoladoH8074
+- Sal_80:16quemada a fuego...asolada; perezcan porH3683
+- Pro_14:11la casa de los impíos será asoladaH8045
+- Pro_15:25Jehová asolará la casa de los soberbiosH5255
+- Isa_1:7asolada como asolamiento de extrañosH8077
+- Isa_1:8hija de Sion como...como ciudad asoladaH5341
+- Isa_5:9las muchas casas han de quedar asoladasH8047
+- Isa_6:11hasta que las ciudades estén asoladas yH7582
+- Isa_14:17que asoló sus ciudades, que a sus presosH2040
+- Isa_24:6tierra, y sus moradores fueron asoladosH816
+- Isa_34:10generación en generación será asoladaH2717
+- Isa_42:14voces...asolaré y devoraré juntamenteH5395, [[H8074]]
+- Isa_49:8para que...que heredes asoladas heredadesH8074
+- Isa_54:3heredará...habitará las ciudades asoladasH8074
+- Isa_60:12no te sirviere...del todo será asoladoH2717
+- Jer_2:15alzaron su voz, y asolaron su tierraH8047
+- Jer_4:7ciudades quedarán asoladas y sin moradorH8047
+- Jer_4:23la tierra, y he aquí que estaba asoladaH8414
+- Jer_4:26sus ciudades eran asoladas delante deH5422
+- Jer_4:27toda la tierra será asolada; pero no laH8077
+- Jer_9:12la tierra...ha sido asolada como desiertoH3341
+- Jer_10:25han consumido, y han asolado su moradaH8074
+- Jer_12:11fue asolada toda la tierra, porque noH8074
+- Jer_20:16como las ciudades que asoló Jehová, yH2015
+- Jer_25:36¡voz de...porque Jehová asoló sus pastosH7703
+- Jer_25:38asolada fue la tierra de ellos por laH8047
+- Jer_26:9será asolada hasta no quedar morador?[[H2717]]
+- Jer_33:10que están asoladas, sin hombre y sinH2720
+- Jer_43:11y vendrá y asolará la tierra de EgiptoH5221
+- Jer_44:2ciudades...están el día de hoy asoladasH2723
+- Jer_46:13la venida de Nabucodonosor...para asolarH5221
+- Jer_46:19será asolada hasta no quedar moradorH3341
+- Jer_48:15destruido fue Moab...ciudades asoladas
+- Jer_49:28los cuales asoló Nabucodonosor rey deH5221
+- Jer_50:13no será habitada, sino será asolada todaH8077
+- Jer_51:43sus ciudades fueron asoladas, la tierraH8047
+- Jer_51:62lugar...para siempre ha de ser asoladoH8077
+- Lam_1:4todas sus puertas están asoladas, susH8074
+- Lam_4:5los que comían...fueron asolados en lasH8074
+- Lam_5:18por el monte de Sion que está asoladoH8074
+- Eze_6:4serán asolados, y vuestras imágenes delH8074
+- Eze_6:6altos serán asolados, para que sean a yH3456
+- Eze_6:14más asolada y devastada que el desiertoH8077
+- Eze_12:20la tierra será asolada; y sabréis queH8077
+- Eze_14:15hiciere pasar bestias...y la asolarenH8077
+- Eze_19:7saqueó fortalezas, y asoló ciudadesH2717
+- Eze_25:3tierra de Israel era asolada, y llevadaH8074
+- Eze_25:13cortaré de ella hombres y...la asolaréH2723
+- Eze_26:19te convertiré en ciudad asolada, comoH2717
+- Eze_29:9tierra de Egipto será asolada y desiertaH8077
+- Eze_29:12en soledad entre las tierras asoladasH8074
+- Eze_30:7serán asolados entre las tierras a, y susH8074
+- Eze_30:14asolaré a Patros, y pondré fuego a ZoánH8074
+- Eze_32:15cuando asuele la tierra de Egipto, y laH8077
+- Eze_33:24que habitan aquellos lugares asoladosH2723
+- Eze_33:27en...lugares asolados caerán a espadaH2723
+- Eze_33:28y los montes de Israel serán asoladosH8074
+- Eze_35:4tus ciudades asolaré, y tú serás asoladoH2723
+- Eze_35:15te alegraste sobre...porque fue asoladaH8074
+- Eze_35:15asolado será el monte de Seir, y todoH8077
+- Eze_36:3asolaron y os tragaron de todas partesH8074
+- Eze_36:34tierra asolada será labrada, en lugarH8074
+- Eze_36:34en lugar de haber permanecido asolada aH8077
+- Eze_36:35esta tierra que era asolada ha venidoH8074
+- Eze_36:35ciudades que eran desiertas y asoladasH8074
+- Dan_9:17sobre tu santuario asolado, por amorH8076
+- Ose_5:9Efraín será asolado...el día del castigoH8047
+- Ose_13:16Samaria será asolada, porque se rebelóH816
+- Joe_1:7asoló mi vid, y descortezó mi higueraH8047
+- Joe_1:10campo está asolado, se enlutó la tierraH7703
+- Joe_1:17graneros fueron asolados, los alfolíesH8074
+- Joe_1:18también fueron asolados los rebaños deH816
+- Joe_2:3él, y detrás de él como desierto asoladoH8077
+- Joe_3:19y Edom será vuelto en desierto asoladoH8077
+- Amó_7:9los santuarios de Israel serán asoladosH2717
+- Amó_9:8y yo lo asolaré de la faz de la tierraH8045
+- Amó_9:14edificarán ellos las ciudades asoladasH8074
+- Miq_1:7y asolaré todos sus ídolos; porque deH8313
+- Miq_6:13hiriéndote, asolándote por tus pecadosH8074
+- Miq_7:13será asolada la tierra a causa de susH8077
+- Nah_3:7y dirán: Nínive es asolada; ¿quién seH7703
+- Hab_2:10asolaste...pueblos, y has pecado contraH7096
+- Sof_1:13serán saqueados...y sus casas asoladasH8077
+- Sof_2:4Gaza será desamparada, y Ascalón asoladaH8077
+- Sof_2:15fue asolada, hecha guarida de fieras![[H8047]]
+- Sof_3:6sus habitaciones están asoladas; hiceH2717
+- Sof_3:6ciudades están asoladas hasta no quedarH6688
+- Zac_11:3aullido...su magnificencia es asoladaH7703
+- Zac_11:6asolarán la tierra, y yo no los libraréH3807
+- Mat_12:25; Luc_11:17reino dividido...es asoladoG2049
+- Hec_8:3Saulo asolaba la iglesia, y entrandoG3075
+- Hec_9:21¿no es éste el que asolaba en JerusalénG4199
+- Gál_1:13que perseguía...la iglesia...y la asolabaG4199
+- Gál_1:23predica la fe que en otro tiempo asolabaG4199

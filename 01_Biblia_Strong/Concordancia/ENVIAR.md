@@ -1,0 +1,847 @@
+---
+tipo: concordancia
+palabra: ENVIAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENVIAR
+
+- Gén_8:7y envió un cuervo, el cual salió, yH7971
+- Gén_8:8envió también de sí una paloma, para verH7971
+- Gén_8:10y volvió a enviar la paloma fuera delH7971
+- Gén_8:12envió la paloma, la cual no volvió yaH7971
+- Gén_19:13Jehová nos ha enviado para destruirloH7971
+- Gén_19:29y envió fuera a Lot de en medio de laH7971
+- Gén_20:2y Abimelec rey de Gerar envió y tomó aH7971
+- Gén_24:7él enviará su ángel delante de ti, y túH7971
+- Gén_24:40enviará su ángel contigo, y prosperaráH7971
+- Gén_24:54de mañana, dijo: Enviadme a mi señorH7971
+- Gén_25:6y los envió lejos de Isaac...el orienteH7971
+- Gén_26:29te hemos hecho bien, y te enviamos enH7971
+- Gén_27:42y envió y llamó a Jacob su hijo menorH7971
+- Gén_27:45enviaré entonces, y te traeré de alláH7971
+- Gén_28:5así envió Isaac a Jacob, el cual fue aH7971
+- Gén_28:6y le había enviado a Padan-aram, paraH7971
+- Gén_30:25dijo a Labán: Envíame, e iré a mi lugarH7971
+- Gén_31:4envió, pues, Jacob, y llamó a Raquel yH7971
+- Gén_31:42de cierto me enviarías...manos vacíasH7971
+- Gén_32:3envió Jacob mensajeros delante de sí aH7971
+- Gén_32:5envío a decirlo a mi señor, para hallarH7971
+- Gén_32:18es un presente...que envía a mi señorH7971
+- Gén_37:13tus hermanos...ven, y te enviaré a ellosH7971
+- Gén_37:14lo envió del valle de Hebrón, y llegó aH7971
+- Gén_37:32y enviaron la túnica de colores y laH7971
+- Gén_38:17yo te enviaré del ganado un cabrito deH7971
+- Gén_38:17dame una prenda hasta que lo envíesH7971
+- Gén_38:20y Judá envió el cabrito de las cabrasH7971
+- Gén_38:23yo he enviado este cabrito, y tú no laH7971
+- Gén_38:25envió a decir a su suegro: Del varónH7971
+- Gén_41:8envió e hizo llamar a todos los magosH7971
+- Gén_41:14entonces Faraón envió y llamó a JoséH7971
+- Gén_42:4Jacob no envió a Benjamín, hermano deH7971
+- Gén_42:16enviad a uno de vosotros y traiga aH7971
+- Gén_43:4enviares a nuestro hermano con nosotrosH7971
+- Gén_43:5pero si no le enviares, no descenderemosH7971
+- Gén_43:8dijo a Israel...Envía al joven conmigoH7971
+- Gén_45:5para preservación de vida me envió DiosH7971
+- Gén_45:7Dios me envió delante de vosotros, paraH7971
+- Gén_45:8no me enviasteis acá vosotros, sino DiosH7971
+- Gén_45:23a su padre envió...diez asnos cargadosH7971
+- Gén_45:27carros que José enviaba para llevarloH7971
+- Gén_46:5en los carros que Faraón había enviadoH7971
+- Gén_46:28y envió Jacob a Judá delante de sí aH7971
+- Gén_50:16y enviaron a decir a José: Tu padreH6680
+- Éxo_2:5envió una criada suya a que la tomaseH7971
+- Éxo_3:10ven, por tanto...y te enviaré a FaraónH7971
+- Éxo_3:12será por señal de que yo te he enviadoH7971
+- Éxo_3:13Dios de vuestros padres me ha enviadoH7971
+- Éxo_3:14así dirás...YO SOY me envió a vosotrosH7971
+- Éxo_3:15Dios de Jacob, me ha enviado a vosotrosH7971
+- Éxo_4:13envía...por medio del que debes enviarH7971
+- Éxo_4:28las palabras de Jehová que le enviabaH7971
+- Éxo_5:22y dijo: Señor...¿para qué me enviaste?[[H7971]]
+- Éxo_7:16el Dios de los hebreos me ha enviado a tiH7971
+- Éxo_8:21enviaré sobre ti...toda clase de moscasH7971
+- Éxo_9:7Faraón envió, y he aquí que del ganado deH7971
+- Éxo_9:14yo enviaré esta vez todas mis plagas aH7971
+- Éxo_9:19envía...recoger tu ganado, y todo lo queH7971
+- Éxo_9:27entonces Faraón envió a llamar a MoisésH7971
+- Éxo_11:10no envió a los hijos de Israel fueraH7971
+- Éxo_15:7enviaste tu ira; los consumió como aH7971
+- Éxo_15:26ninguna enfermedad de las que envié aH7760
+- Éxo_15:26a los egipcios te enviaré a ti; porqueH7760
+- Éxo_18:2tomó...Séfora...después que él la envióH7964
+- Éxo_23:20yo envío mi ángel delante...te guardeH7971
+- Éxo_23:27yo enviaré mi terror delante de ti, yH7971
+- Éxo_23:28enviaré delante de ti la avispa, queH7971
+- Éxo_24:5y envió jóvenes de los hijos de IsraelH7971
+- Éxo_33:2y yo enviaré delante de ti el ángel, yH7971
+- Éxo_33:12no me has declarado a quién enviarásH7971
+- Lev_16:10para enviarlo a Azazel al desiertoH7971
+- Lev_16:21lo enviará al desierto por mano de unH7971
+- Lev_25:21os enviaré mi bendición el sexto añoH6680
+- Lev_26:16haré con...enviaré sobre vosotros terrorH6485
+- Lev_26:22enviaré también...bestias fieras que osH7971
+- Lev_26:25yo enviaré pestilencia entre vosotrosH7971
+- Núm_13:2envía tú hombres que reconozcan laH7971
+- Núm_13:2cada tribu de sus...enviaréis un varónH7971
+- Núm_13:3Moisés los envió desde el desierto deH7971
+- Núm_13:16los nombres de los...que Moisés envióH7971
+- Núm_13:17los envió...Moisés a reconocer la tierraH7971
+- Núm_13:27a la tierra a la cual nos enviaste, laH7971
+- Núm_14:36que Moisés envió a reconocer la tierraH7971
+- Núm_16:12envió Moisés a llamar a Datán y AbiramH7971
+- Núm_16:28Jehová me ha enviado para que hicieseH7971
+- Núm_16:29si como mueren...Jehová no me envióH7971
+- Núm_20:14envió Moisés embajadores al...de EdomH7971
+- Núm_20:16envió un ángel, y nos sacó de EgiptoH7971
+- Núm_21:6Jehová envió entre...serpientes ardientesH7971
+- Núm_21:21envió Israel embajadores a Sehón reyH7971
+- Núm_21:32envió Moisés a reconocer a Jazer; yH7971
+- Núm_22:5envió mensajeros a Balaam hijo de BeorH7971
+- Núm_22:10Balac...de Moab, ha enviado a decirmeH7971
+- Núm_22:15volvió Balac a enviar...más príncipesH7971
+- Núm_22:37Balac, dijo...¿No envié yo a llamarte?[[H7971]]
+- Núm_22:40y Balac hizo matar bueyes...y envió aH7971
+- Núm_24:12mensajeros que me enviaste, diciendoH7971
+- Núm_31:4mil de cada tribu...de Israel, enviaréisH7971
+- Núm_31:6Moisés los envió...mil de cada tribu eH7971
+- Núm_32:8los envié desde Cades-barnea para queH7971
+- Deu_1:22enviemos...nos reconozcan la tierra, yH7971
+- Deu_2:26envié mensajeros desde el desierto deH7971
+- Deu_7:20enviará Jehová tu...avispas sobre ellosH7971
+- Deu_9:23y cuando...os envió desde Cades-barneaH7971
+- Deu_15:13no le enviarás con las manos vacíasH7971
+- Deu_15:18no te parezca duro cuando le enviaresH7971
+- Deu_19:12los ancianos de su ciudad enviarán y loH7971
+- Deu_28:8Jehová te enviará su bendición sobre tusH6680
+- Deu_28:12abrirá Jehová...el cielo, para enviarH5414
+- Deu_28:20Jehová enviará contra ti la maldiciónH7971
+- Deu_28:48servirás...enemigos que enviare JehováH7971
+- Deu_28:61toda plaga...la enviará sobre ti, hastaH5927
+- Deu_32:24diente de fieras enviaré también sobreH7971
+- Deu_34:11prodigios que Jehová le envió a hacerH7971
+- Jos_2:1Josué...envió desde Sitim dos espíasH7971
+- Jos_2:3el rey de Jericó envió a decir a RahabH7971
+- Jos_6:17escondió a los mensajeros que enviamosH7971
+- Jos_6:25los mensajeros que Josué había enviadoH7971
+- Jos_7:2Josué envió hombres desde Jericó a HaiH7971
+- Jos_7:22Josué...envió mensajeros...a la tiendaH7971
+- Jos_8:3hombres fuertes...cuales envió de nocheH7971
+- Jos_8:9Josué los envió; y ellos se fueron a laH7971
+- Jos_10:3Adonisedec rey de...envió a Hoham rey deH7971
+- Jos_10:6de Gabaón enviaron a decir a Josué alH7971
+- Jos_11:1cuando oyó esto Jabín rey...envió mensajeH7971
+- Jos_14:7me envió de Cades-barnea a reconocer laH7971
+- Jos_14:11fuerte como el día que Moisés me envióH7971
+- Jos_18:4tres varones...para que yo los envíe, yH7971
+- Jos_22:7de Manasés...envió Josué a sus tiendasH7971
+- Jos_22:13enviaron...a Finees hijo del sacerdoteH7971
+- Jos_24:5envié a Moisés...Aarón, y herí a EgiptoH7971
+- Jos_24:9y envió a llamar a Balaam hijo de BeorH7971
+- Jos_24:12envié delante de vosotros tábanos, losH7971
+- Jos_24:28envió Josué al pueblo, cada uno a suH7971
+- Jue_3:15enviaron con él un presente a EglónH7971
+- Jue_4:6y ella envió a llamar a Barac hijo deH7971
+- Jue_6:8Jehová envió...un varón profeta, el cualH7971
+- Jue_6:14salvarás a Israel de...¿no te envío yo?[[H7971]]
+- Jue_6:35y envió...por todo Manasés...e...a Aser, aH7971
+- Jue_7:8envió a todos los israelitas...su tiendaH7971
+- Jue_7:24envió mensajeros por todo el monte deH7971
+- Jue_9:23envió Dios un mal espíritu...Abimelec yH7971
+- Jue_9:31envió...mensajeros a Abimelec, diciendoH7971
+- Jue_11:12envió Jefté mensajeros al rey de losH7971
+- Jue_11:14volvió a enviar otros mensajeros al reyH7971
+- Jue_11:17Israel envió mensajeros al rey de EdomH7971
+- Jue_11:17envió...al rey de Moab...tampoco quisoH7971
+- Jue_11:19y envió Israel mensajeros a Sehón reyH7971
+- Jue_11:28no atendió...razones que Jefté le envióH7971
+- Jue_13:8aquel varón de Dios que enviaste, vuelvaH7971
+- Jue_16:18envió a llamar a los...de los filisteosH7971
+- Jue_18:2enviaron...cinco hombres de entre ellosH7971
+- Jue_19:29la envió por...el territorio de IsraelH7971
+- Jue_20:6la corté en...y la envié por todo...IsraelH7971
+- Jue_20:12las tribus de Israel enviaron varonesH7971
+- Jue_21:10la congregación envió...12.000 hombresH7971
+- Jue_21:13envió...hablar a los hijos de BenjamínH7971
+- 1Sa_4:4y envió el pueblo a Silo, y trajeronH7971
+- 1Sa_5:10enviaron el arca de Dios a EcrónH7971
+- 1Sa_5:11enviaron...los príncipes...Enviad el arcaH7971
+- 1Sa_6:2la hemos de volver a enviar a su lugarH7971
+- 1Sa_6:3si enviáis el arca...no la enviéis vacíaH7971
+- 1Sa_6:21y enviaron mensajeros a los habitantesH7971
+- 1Sa_9:16mañana...yo enviaré a ti un varón de laH7971
+- 1Sa_10:26y envió Samuel a...cada uno a su casaH7971
+- 1Sa_11:3para que enviemos mensajeros por todoH7971
+- 1Sa_11:7y los envió por todo el territorio deH7971
+- 1Sa_12:8padres clamaron...Jehová envió a MoisésH7971
+- 1Sa_12:11Jehová envió a Jerobaal, a Barac, aH7971
+- 1Sa_13:2envió al resto...cada uno a sus tiendasH7971
+- 1Sa_15:1Jehová me envió a que te ungiese...reyH7971
+- 1Sa_15:18Jehová te envió en misión y dijo: VéH7971
+- 1Sa_15:20y fui a la misión que Jehová me envióH7971
+- 1Sa_16:1ven, te enviaré a Isaí de Belén, porqueH7971
+- 1Sa_16:11dijo Samuel...Envía por él, porque noH7971
+- 1Sa_16:12envió, pues, por él, y le hizo entrarH7971
+- 1Sa_16:19Saúl envió mensajeros a Isaí, diciendoH7971
+- 1Sa_16:19envíame a David tu hijo, el que estáH7971
+- 1Sa_16:20y lo envió a Saúl por medio de DavidH7971
+- 1Sa_16:22envió a decir a Isaí: Yo te ruego queH7971
+- 1Sa_18:5salía...a dondequiera que Saúl le enviabaH7971
+- 1Sa_19:11envió luego mensajeros a casa de DavidH7971
+- 1Sa_19:14envió mensajeros para prender a DavidH7971
+- 1Sa_19:15volvió Saúl a enviar mensajeros paraH7971
+- 1Sa_19:20Saúl envió...para que trajeran a DavidH7971
+- 1Sa_19:21lo supo Saúl, envió otros mensajerosH7971
+- 1Sa_19:21y Saúl volvió a enviar...por tercera vezH7971
+- 1Sa_20:12día...enviaré a ti para hacértelo saberH7971
+- 1Sa_20:13y te enviare para que te vayas en pazH7971
+- 1Sa_20:21luego enviaré al criado, diciéndole: VéH7971
+- 1Sa_20:22si...vete, porque Jehová te ha enviadoH7971
+- 1Sa_20:31envía...y tráemelo, porque ha de morirH7971
+- 1Sa_21:2nadie sepa...del asunto a que te envíoH7971
+- 1Sa_22:11el rey envió por el sacerdote AhimelecH7971
+- 1Sa_25:5envió David diez jóvenes y les dijoH7971
+- 1Sa_25:9llegaron los jóvenes enviados por David
+- 1Sa_25:10Nabal respondió a...enviados por David
+- 1Sa_25:12los jóvenes que había enviado David se
+- 1Sa_25:14David envió mensajeros del desierto queH7971
+- 1Sa_25:25yo...no vi a los jóvenes que tú enviasteH7971
+- 1Sa_25:32te envió para que hoy me encontrasesH7971
+- 1Sa_25:39envió David a hablar con Abigail, paraH7971
+- 1Sa_25:40David nos ha enviado a ti, para tomarteH7971
+- 1Sa_26:4David, por tanto, envió espías, y supoH7971
+- 1Sa_26:12sueño enviado por Jehová había caído
+- 1Sa_30:26David...envió del botín a los ancianosH7971
+- 1Sa_30:27lo envió a los que estaban en Bet-el
+- 1Sa_31:9enviaron mensajeros por toda la tierraH7971
+- 2Sa_2:5envió David mensajeros a los de JabesH7971
+- 2Sa_3:12envió Abner mensajeros a David de suH7971
+- 2Sa_3:14envió David mensajeros a Is-boset hijoH7971
+- 2Sa_3:15envió y se la quitó a su marido PaltielH7971
+- 2Sa_3:26Joab...envió mensajeros tras Abner, losH7971
+- 2Sa_5:11Hiram rey de...envió embajadores a DavidH7971
+- 2Sa_8:10envió Toi a Joram su hijo al rey DavidH7971
+- 2Sa_9:5entonces envió el rey David, y le trajoH7971
+- 2Sa_10:2y envió David...consolarlo por su padreH7971
+- 2Sa_10:3por honrar...te ha enviado consoladores?[[H7971]]
+- 2Sa_10:3¿no ha enviado David sus...para reconocerH7971
+- 2Sa_10:5saber esto a David, envió a encontrarlesH7971
+- 2Sa_10:6enviaron...y tomaron a sueldo a...siriosH7971
+- 2Sa_10:7envió a Joab con todo el ejército deH7971
+- 2Sa_10:16y envió Hadad-ezer e hizo salir a losH7971
+- 2Sa_11:1envió a Joab, y con él a sus siervos yH7971
+- 2Sa_11:3envió David a preguntar por aquellaH7971
+- 2Sa_11:4y envió David mensajeros, y la tomóH7971
+- 2Sa_11:5concibió...envió a hacerlo saber a DavidH7971
+- 2Sa_11:6entonces David envió a decir a JoabH7971
+- 2Sa_11:6envíame a Urías heteo. Y Joab envió aH7971
+- 2Sa_11:8le fue enviado presente de la mesa realH3318, [[H310]]
+- 2Sa_11:14carta, la cual envió por mano de UríasH7971
+- 2Sa_11:18envió Joab e hizo saber a David todosH7971
+- 2Sa_11:22aquello a que Joab le había enviadoH7971
+- 2Sa_11:27envió David y la trajo a su casa; y fueH7971
+- 2Sa_12:1Jehová envió a Natán a David...le dijoH7971
+- 2Sa_12:25y envió un mensaje por medio de NatánH7971
+- 2Sa_12:27envió Joab mensajeros a David...RabáH7971
+- 2Sa_13:7David envió a Tamar a su casa, diciendoH7971
+- 2Sa_14:2envió Joab a Tecoa, y tomó de allá unaH7971
+- 2Sa_14:29mandó...por Joab, para enviarlo al reyH7971
+- 2Sa_14:29envió aun por segunda vez, y no quisoH7971
+- 2Sa_14:32he enviado...diciendo que vinieses acáH7971
+- 2Sa_14:32el fin de enviarte al rey para decirleH7971
+- 2Sa_15:10envió...mensajeros por todas las tribusH7971
+- 2Sa_15:36por medio de ellos me enviaréis avisoH7971
+- 2Sa_17:16enviad...y dad aviso a David, diciendoH7971
+- 2Sa_18:2envió David al pueblo...tercera parteH7971
+- 2Sa_18:29cuando envió Joab al siervo del rey yH7971
+- 2Sa_19:11David envió a los sacerdotes Sadoc yH7971
+- 2Sa_19:14que enviasen a decir al rey: Vuelve túH7971
+- 2Sa_22:15envió sus saetas, y los dispersó; yH7971
+- 2Sa_22:17envió desde lo alto y me tomó; me sacóH7971
+- 2Sa_24:13qué responderé al que me ha enviadoH7971
+- 2Sa_24:15y Jehová envió la peste sobre IsraelH5414
+- 1Re_1:44ha enviado con él al sacerdote SadocH7971
+- 1Re_1:53envió el rey...y lo trajeron del altarH7971
+- 1Re_2:25Salomón envió por mano de Benaía hijoH7971
+- 1Re_2:29envió Salomón a Benaía hijo de...diciendoH7971
+- 1Re_2:36, 1Re_2:42envió el rey e hizo venir a SimeiH7971
+- 1Re_5:1Hiram rey de Tiro envió...sus siervos aH7971
+- 1Re_5:2entonces Salomón envió a decir a HiramH7971
+- 1Re_5:8envió Hiram a decir a Salomón: He oídoH7971
+- 1Re_5:9y la enviaré en balsas por mar hasta elH7760
+- 1Re_5:14enviaba al Líbano de diez mil en diezH7971
+- 1Re_7:13envió...Salomón, e hizo venir...a HiramH7971
+- 1Re_9:14había enviado al rey 120 talentos de oroH7971
+- 1Re_9:27envió Hiram en ellas a sus siervosH7971
+- 1Re_12:3enviaron a llamarle. Vino...Jeroboam, yH7971
+- 1Re_12:18rey Roboam envió a Adoram, que estabaH7971
+- 1Re_12:20enviaron a llamarle a la congregaciónH7971
+- 1Re_14:6yo soy enviado a ti con revelación duraH7971
+- 1Re_15:18los envió el rey Asa a Ben-adad hijoH7971
+- 1Re_15:19te envio un presente de plata y de oroH7971
+- 1Re_15:20envió los príncipes de los ejércitosH7971
+- 1Re_18:10adonde mi...no haya enviado a buscarteH7971
+- 1Re_18:19envía...y congrégame a todo Israel enH7971
+- 1Re_19:2envió Jezabel a Elías un mensajeroH7971
+- 1Re_20:2envió mensajeros a la ciudad a Acab reyH7971
+- 1Re_20:5yo te envié a decir: Tu plata y tu oroH7971
+- 1Re_20:6mañana a...enviaré yo a ti mis siervosH7971
+- 1Re_20:7ha enviado a mí por mis mujeres y misH7971
+- 1Re_20:10Ben-adad...envió a decir: Así me haganH7971
+- 1Re_20:17y Ben-adad había enviado quien le dioH7971
+- 1Re_21:8cartas...y las envió a los ancianos y aH7971
+- 1Re_21:11las cartas que ella les había enviadoH7971
+- 1Re_21:14enviaron a decir a Jezabel: Nabot haH7971
+- 2Re_1:2enfermo, envió mensajeros, y les dijoH7971
+- 2Re_1:6volveos al rey que os envió, y decidleH7971
+- 2Re_1:6que tú envías a consultar a Baal-zebubH7971
+- 2Re_1:9envió a él un capitán de cincuenta conH7971
+- 2Re_1:11volvió el rey a enviar a...otro capitánH7971
+- 2Re_1:13enviar al tercer capitán de cincuentaH7971
+- 2Re_1:16cuanto enviaste mensajeros a consultarH7971
+- 2Re_2:2, 2Re_2:4, 2Re_2:6quédate aquí...Jehová me ha enviado aH7971
+- 2Re_2:16vayan ahora...Y él les dijo: No enviéisH7971
+- 2Re_2:17dijo: Enviad. Entonces ellos enviaronH7971
+- 2Re_3:7envió a decir a Josafat...El rey de MoabH7971
+- 2Re_4:22te ruego que envíes conmigo a alguno deH7971
+- 2Re_5:5vé, y yo enviaré cartas al rey de IsraelH7971
+- 2Re_5:6sabe...que yo envío a ti mi siervo NaamánH7971
+- 2Re_5:7éste envíe a mí a que sane un hombre deH7971
+- 2Re_5:8Eliseo...envió a decir al rey: ¿Por quéH7971
+- 2Re_5:10Eliseo le envió un mensajero, diciendoH7971
+- 2Re_5:22mi señor me envía a decirte: He aquíH7971
+- 2Re_6:9el varón de Dios envió a decir al rey deH7971
+- 2Re_6:10el rey de Israel envió a aquel lugar queH7971
+- 2Re_6:13dónde...para que yo envíe a prenderloH7971
+- 2Re_6:14envió el rey allá gente de a caballoH7971
+- 2Re_6:23envió, y ellos se volvieron a su señorH7971
+- 2Re_6:32el rey envió a él un hombre. Mas antesH7971
+- 2Re_6:32cómo este...envía a cortarme la cabeza?[[H7971]]
+- 2Re_7:13tomen ahora...enviemos y veamos qué haH7971
+- 2Re_7:14envió el rey al campamento de los siriosH7971
+- 2Re_8:9Ben-adad...me ha enviado a ti, diciendoH7971
+- 2Re_9:19envió otro jinete, el cual llegando aH7971
+- 2Re_10:1Jehú escribió cartas...envió a SamariaH7971
+- 2Re_10:5enviaron a decir a Jehú: Siervos tuyosH7971
+- 2Re_10:7canastas, y se las enviaron a JezreelH7971
+- 2Re_10:21envió Jehú por todo Israel, y vinieronH7971
+- 2Re_11:4envió Joiada y tomó jefes de centenasH7971
+- 2Re_12:18tomó...el oro...y lo envió a Hazael reyH7971
+- 2Re_14:8Amasías envió mensajeros a Joás hijo deH7971
+- 2Re_14:9Joás...envió...esta respuesta: El cardoH7971
+- 2Re_14:9cardo...envió a decir al cedro que estáH7971
+- 2Re_15:37enviar contra Judá a Rezín rey de SiriaH7971
+- 2Re_16:7envió embajadores a Tiglat-pileser reyH7971
+- 2Re_16:8Acaz...envió al rey de Asiria un presenteH7971
+- 2Re_16:10envió al sacerdote Urías el diseño yH7971
+- 2Re_16:11conforme a todo...y Acaz había enviadoH7971
+- 2Re_17:4había enviado embajadores a So, rey deH7971
+- 2Re_17:13y que os he enviado por medio de misH7971
+- 2Re_17:25envió Jehová...leones que los matabanH7971
+- 2Re_18:14Ezequías rey...envió a decir al rey deH7971
+- 2Re_18:17el rey...envió contra el rey EzequíasH7971
+- 2Re_18:27¿me ha enviado mi señor para decir estasH7971
+- 2Re_19:2y envió a Eliaquim mayordomo, a SebnaH7971
+- 2Re_19:4a quien el rey de los asirios...enviadoH7971
+- 2Re_19:9envió embajadores a Ezequías, diciendoH7971
+- 2Re_19:16ha enviado a blasfemar al Dios vivienteH7971
+- 2Re_19:20Isaías hijo...envió a decir a EzequíasH7971
+- 2Re_20:12Babilonia, envió mensajeros con cartasH7971
+- 2Re_22:3envió el rey a Safán hijo de Azalía, hijoH7971
+- 2Re_22:15dijo...Decid al varón que os envió a míH7971
+- 2Re_22:18al rey de Judá que os ha enviado paraH7971
+- 2Re_23:16Josías...envió y sacó los huesos de losH7971
+- 2Re_24:2envió contra Joacim tropas de caldeosH7971
+- 2Re_24:2envió contra Judá...que la destruyesenH7971
+- 1Cr_10:9enviaron mensajeros por...la tierraH7971
+- 1Cr_13:2enviaremos...por nuestros hermanos queH7971
+- 1Cr_14:1Hiram rey de...envió a David embajadoresH7971
+- 1Cr_18:10envió a Adoram su hijo al rey DavidH7971
+- 1Cr_18:10le envió...toda clase de utensilios de
+- 1Cr_19:2David envió embajadores...lo consolasenH7971
+- 1Cr_19:3padre, que te ha enviado consoladores?[[H7971]]
+- 1Cr_19:5él envió a recibirlos, porque estabanH7971
+- 1Cr_19:6Hanún...enviaron mil talentos de plataH7971
+- 1Cr_19:8envió a Joab con todo el ejército de losH7971
+- 1Cr_19:16enviaron embajadores y trajeron a losH7971
+- 1Cr_21:12qué responderé al que me ha enviadoH7971
+- 1Cr_21:14así Jehová envió una peste en IsraelH5414
+- 1Cr_21:15envió Jehová el ángel a Jerusalén paraH7971
+- 2Cr_2:3envió a decir Salomón a Hiram rey deH7971
+- 2Cr_2:3enviándole cedros para que edificara paraH7971
+- 2Cr_2:7envíame, pues...un hombre hábil que sepaH7971
+- 2Cr_2:8envíame...madera del Líbano: cedro, ciprésH7971
+- 2Cr_2:11Hiram...respondió por escrito que envióH7971
+- 2Cr_2:13yo, pues, te he enviado un hombre hábilH7971
+- 2Cr_2:15envíe mi señor a sus...el trigo y cebadaH7971
+- 2Cr_6:34saliere...el camino que tú les enviaresH7971
+- 2Cr_7:10y a los 23 días...envió al pueblo a susH7971
+- 2Cr_7:13o si enviare pestilencia a mi puebloH7971
+- 2Cr_8:18Hiram le había enviado naves por manoH7971
+- 2Cr_10:3y enviaron y le llamaron. Vino, puesH7971
+- 2Cr_10:18envió luego el rey Roboam a Adoram, queH7971
+- 2Cr_16:2la plata...envió a Ben-adad rey de SiriaH7971
+- 2Cr_16:3yo te he enviado plata y oro, para queH7971
+- 2Cr_16:4Ben-adad...envió los capitanes de susH7971
+- 2Cr_17:7al tercer año de su...envió sus príncipesH7971
+- 2Cr_24:19envió profetas para que los volviesenH7971
+- 2Cr_24:23enviaron todo el botín al rey a DamascoH7971
+- 2Cr_25:15y envió a él un profeta, que le dijoH7971
+- 2Cr_25:17Amasías...envió a decir a Joás...Ven, yH7971
+- 2Cr_25:18Joás rey...envió a decir a Amasías reyH7971
+- 2Cr_25:18el cardo...envió al cedro que estaba enH7971
+- 2Cr_25:27enviaron tras él a Laquis, y allá loH7971
+- 2Cr_28:16envió a pedir el rey Acaz a...de AsiriaH7971
+- 2Cr_30:1envió...Ezequías por todo Israel y JudáH7971
+- 2Cr_32:9envió sus siervos a Jerusalén para decirH7971
+- 2Cr_32:21Jehová envió un ángel, el cual destruyóH7971
+- 2Cr_32:31enviaron a él para saber del prodigioH7971
+- 2Cr_34:8después...envió a Safán hijo de AzalíaH7971
+- 2Cr_34:23decid al varón que os ha enviado a míH7971
+- 2Cr_34:26rey...que os ha enviado a consultar aH7971
+- 2Cr_34:29envió y reunió a todos los ancianos deH7971
+- 2Cr_35:21y Necao le envió mensajeros, diciendoH7971
+- 2Cr_36:10Nabucodonosor envió y lo hizo llevar aH7971
+- 2Cr_36:15envió...palabra a ellos por medio de susH7971
+- Esd_4:11es la copia de la carta que enviaronH7972
+- Esd_4:14hemos enviado a hacerlo saber al reyH7972, [[H7971]]
+- Esd_4:17envió esta respuesta: A Rehum cancillerH7972
+- Esd_4:18la carta que nos enviasteis fue leídaH7972
+- Esd_5:6carta que Tatnai...enviaron al rey DaríoH7972
+- Esd_5:7le enviaron carta, y así estaba escritoH7972
+- Esd_5:17y se nos envíe a decir la voluntad delH7971
+- Esd_7:14eres enviado a visitar a...a JerusalénH7972
+- Esd_8:17envié a Iddo, jefe en el lugar llamadoH6680
+- Neh_2:5envíame a Judá, a la ciudad...padresH7971
+- Neh_2:6agradó al rey enviarme, después que yoH7971
+- Neh_2:9y el rey envió...capitanes del ejércitoH7971
+- Neh_6:2enviaron a decirme: Ven y reunámonos enH7971
+- Neh_6:3les envié mensajeros, diciendo: Yo hagoH7971
+- Neh_6:4enviaron a mí...hasta cuatro veces, y yoH7971
+- Neh_6:5Sanbalat envió...su criado para decir loH7971
+- Neh_6:8envié yo a decirle: No hay tal cosa comoH7971
+- Neh_6:12que Dios no lo había enviado, sino queH7971
+- Neh_6:19enviaba Tobías cartas para atemorizarmeH7971
+- Neh_8:10y enviad porciones a los que no tienenH7971
+- Neh_9:20enviaste tu...Espíritu para enseñarlesH5414
+- Neh_9:27les enviaste libertadores para que losH5414
+- Est_1:12, Est_1:15orden del rey enviada por medio
+- Est_1:22envió cartas a...las provincias del reyH7971
+- Est_3:13enviadas cartas por medio de correos aH7971
+- Est_4:4reina...envió vestidos para hacer vestirH7971
+- Est_8:10y envió cartas por medio de correosH7971
+- Est_9:19enviar porciones cada uno a su vecinoH4916
+- Est_9:20y envió cartas a todos los judíos queH7971
+- Est_9:22días...para enviar porciones cada uno aH4916
+- Est_9:30y fueron enviadas cartas a...los judíosH7971
+- Job_1:4enviaban a llamar a sus tres hermanasH7971
+- Job_1:5acontecía...Job enviaba y los santificabaH7971
+- Job_5:10da...y envía las aguas sobre los camposH7971
+- Job_12:15si él...las envía, destruyen la tierraH7971
+- Job_20:23enviará sobre él el ardor de su ira, yH7971
+- Job_22:9las viudas enviaste vacías, y los brazosH7971
+- Job_38:35¿enviarás tú los relámpagos, para queH7971
+- Sal_18:14envió sus saetas y los dispersóH7971
+- Sal_18:16envió desde lo alto; me tomó, me sacóH7971
+- Sal_20:2envíe ayuda desde el santuario, y desdeH7971
+- Sal_43:3envía tu luz y tu verdad...me guiaránH7971
+- Sal_57:3enviará desde los cielos, y me salvaráH7971
+- Sal_57:3Dios enviará su misericordia y su verdadH7971
+- Sal 59 tít.envió Saúl, y vigilaron la casa paraH7971
+- Sal_78:25pan...les envió comida hasta saciarlesH7971
+- Sal_78:45envió entre ellos enjambres de moscasH7971
+- Sal_78:49envió sobre ellos el ardor de su iraH4917
+- Sal_104:10que envía las fuentes por los arroyosH7971
+- Sal_104:30envías tu Espíritu, son creados, yH7971
+- Sal_105:17envió un varón delante de ellos...JoséH7971
+- Sal_105:20envió el rey, y le soltó; el señor deH7971
+- Sal_105:26envió a su siervo Moisés, y a AarónH7971
+- Sal_105:28envió tinieblas que lo oscurecieronH7971
+- Sal_106:15dio...mas envió mortandad sobre ellosH7971
+- Sal_107:20envió su palabra, y los sanó, y losH7971
+- Sal_110:2Jehová enviará desde Sion la vara deH7971
+- Sal_111:9redención ha enviado a su pueblo; paraH7971
+- Sal_133:3envía Jehová bendición, y vida eternaH6680
+- Sal_135:9envió señales y prodigios en...oh EgiptoH7971
+- Sal_144:6disípalos, envía tus saetas y túrbalosH7971
+- Sal_144:7envía tu mano desde lo alto; redímemeH7971
+- Sal_147:15él envía su palabra...corre su palabraH7971
+- Sal_147:18enviará su palabra, y los derretiráH7971
+- Pro_9:3envió sus criadas; sobre lo más alto deH7971
+- Pro_10:26así es el perezoso a los que lo envíanH7971
+- Pro_17:11mensajero cruel será enviado contra élH7971
+- Pro_22:21llevar palabras...a los que te enviaron?[[H7971]]
+- Pro_25:13el mensajero fiel a los que lo envíanH7971
+- Pro_26:6es el que envía recado por mano...necioH7971
+- Isa_6:8decía: ¿A quién enviaré, y quién iráH7971
+- Isa_6:8respondí yo: Heme aquí, envíame a míH7971
+- Isa_9:8el Señor envió palabra a Jacob, y cayóH7971
+- Isa_10:6y sobre el pueblo de mi ira le enviaréH7971
+- Isa_10:16el Señor, Jehová de...enviará debilidadH7971
+- Isa_16:1enviad cordero al señor de la tierraH7971
+- Isa_18:2que envía mensajeros por el mar, y enH7971
+- Isa_19:20él les enviará salvador y príncipe queH7971
+- Isa_20:1cuando lo envió Sargón rey de Asiria, yH7971
+- Isa_36:2envió al Rabsaces con un gran ejércitoH7971
+- Isa_36:12¿acaso me envió mi señor a que dijeseH7971
+- Isa_37:2y envió a Eliaquim mayordomo, a SebnaH7971
+- Isa_37:4su señor envió...blasfemar al Dios vivoH7971
+- Isa_37:9envió embajadores a Ezequías, diciendoH7971
+- Isa_37:17ha enviado a blasfemar al Dios vivienteH7971
+- Isa_37:21hijo de Amoz envió a decir a EzequíasH7971
+- Isa_39:1envió cartas y presentes a EzequíasH7971
+- Isa_42:19es sordo, como mi mensajero que envié?[[H7971]]
+- Isa_43:14por vosotros envié a Babilonia, e hiceH7971
+- Isa_48:16envió Jehová el Señor, y su EspírituH7971
+- Isa_55:11prosperada en aquello para que la enviéH7971
+- Isa_57:9y enviaste tus embajadores lejos, y teH7971
+- Isa_61:1me ha enviado a predicar buenas nuevasH7971
+- Isa_66:19y enviaré de los escapados de ellos aH7971
+- Jer_1:7todo lo que te envíe irás tú, y dirásH7971
+- Jer_2:10mirad; y enviad a Cedar, y consideradH7971
+- Jer_7:25os envié todos los profetas mis siervosH7971
+- Jer_7:25enviándolos desde temprano y sin cesarH7971
+- Jer_8:17que yo envío sobre vosotros serpientesH7971
+- Jer_9:16enviaré espada en pos de ellos, hastaH7971
+- Jer_14:3los nobles enviaron sus criados al aguaH7971
+- Jer_14:14profetas...no los envié, ni les mandéH7971
+- Jer_14:15profetizan en mi nombre...yo no enviéH7971
+- Jer_15:3enviaré sobre ellos cuatro géneros deH6485
+- Jer_16:16envío...pescadores...enviaré...cazadoresH7971
+- Jer_19:14volvió Jeremías de...adonde le envióH7971
+- Jer_21:1rey Sedequías envió a él a Pasur hijoH7971
+- Jer_23:21no envié yo aquellos profetas, peroH7971
+- Jer_23:32yo no los envié ni les mandé; y ningúnH7971
+- Jer_23:34yo enviaré castigo sobre tal hombre yH6485
+- Jer_23:38Jehová, habiendo yo enviado a decirosH7971
+- Jer_24:10enviaré sobre ellos espada, hambre yH7971
+- Jer_25:4envió...los profetas, enviándoles desdeH7971
+- Jer_25:9enviaré y tomaré a...las tribus del norteH7971
+- Jer_25:15a todas las naciones a las...te envíoH7971
+- Jer_25:16, Jer_25:27a causa de la espada que yo envíoH7971
+- Jer_25:17naciones, a las cuales me envió JehováH7971
+- Jer_26:5siervos los profetas, que yo os envíoH7971
+- Jer_26:12Jehová me envió a profetizar contraH7971
+- Jer_26:15Jehová me envió...que dijese todas estasH7971
+- Jer_26:22el rey Joacim envió hombres a EgiptoH7971
+- Jer_27:3los enviarás al rey de Edom, y al reyH7971
+- Jer_27:15no los envié...profetizan falsamenteH7971
+- Jer_28:9el profeta que Jehová en verdad envióH7971
+- Jer_28:15Jehová no te envió, y tú has hechoH7971
+- Jer_29:1la carta que el profeta Jeremías envióH7971
+- Jer_29:3a quienes envió Sedequías rey de JudáH7971
+- Jer_29:9falsamente os profetizan...no los enviéH7971
+- Jer_29:17envio yo contra ellos espada, hambreH7971
+- Jer_29:19no oyeron mis palabras...que les enviéH7971
+- Jer_29:20oíd...todos los transportados que enviéH7971
+- Jer_29:25tú enviaste cartas en tu nombre a todoH7971
+- Jer_29:28nos envió a decir en Babilonia: LargoH7971
+- Jer_29:31envía a decir a todos los cautivos: AsíH7971
+- Jer_29:31os profetizó Semaías, y yo no lo enviéH7971
+- Jer_34:14servirá seis años, y lo enviará libreH7971
+- Jer_35:15y envié a vosotros todos mis siervosH7971
+- Jer_36:14enviaron todos los príncipes a JehudíH7971
+- Jer_36:21envió el rey a Jehudí a que tomase elH7971
+- Jer_37:3envió el rey Sedequías a Jucal hijo deH7971
+- Jer_37:7diréis así al rey de Judá que os envióH7971
+- Jer_37:17Sedequías envió y le sacó...le preguntóH7971
+- Jer_38:14envió el rey...e hizo traer al profetaH7971
+- Jer_39:13envió, por tanto, Nabuzaradán capitánH7971
+- Jer_39:14enviaron...tomaron a Jeremías del patioH7971
+- Jer_40:1capitán de la guardia le envió desdeH7971
+- Jer_40:14ha enviado a Ismael hijo...para matarte?[[H7971]]
+- Jer_42:5para lo cual Jehová tu Dios te enviareH7971
+- Jer_42:6a la voz de...Dios al cual te enviamosH7971
+- Jer_42:9me enviasteis para presentar...ruegosH7971
+- Jer_42:20pues vosotros me enviasteis a JehováH7971
+- Jer_42:21ni...las cosas por las cuales me envióH7971
+- Jer_43:1Jehová Dios...le había enviado a ellosH7971
+- Jer_43:2no te ha enviado Jehová nuestro Dios paraH7971
+- Jer_43:10enviaré y tomaré a Nabucodonosor rey deH7971
+- Jer_44:4envié...todos mis siervos los profetasH7971
+- Jer_47:7Jehová te ha enviado contra Ascalón, yH6680
+- Jer_48:12que yo le enviaré trasvasadores que leH7971
+- Jer_49:14de Jehová había sido enviado mensajeroH7971
+- Jer_49:37enviaré en pos de ellos espada hastaH7971
+- Jer_51:2y enviaré a Babilonia aventadores queH7971
+- Jer_51:59palabra que envió el profeta JeremíasH6680
+- Lam_1:13desde lo alto envió fuego que consumeH7971
+- Eze_2:3yo te envío a los hijos de Israel, aH7971
+- Eze_2:4yo, pues, te envío a hijos de duro rostroH7971
+- Eze_3:5porque no eres enviado a pueblo de hablaH7971
+- Eze_3:6y si a ellos te enviara, ellos te oyeranH7971
+- Eze_5:16saetas...cuales enviaré para destruirosH7971
+- Eze_5:17enviaré, pues, sobre vosotros hambre, yH7971
+- Eze_5:17sangre pasarán...enviaré sobre ti espadaH935
+- Eze_7:3enviaré sobre ti mi furor, y te juzgaréH7971
+- Eze_13:6ha dicho Jehová, y Jehová no los envióH7971
+- Eze_13:11y enviaré piedras de granizo que la
+- Eze_14:13y enviare en ella hambre, y cortare deH7971
+- Eze_14:19si enviare pestilencia sobre esa tierraH7971
+- Eze_14:21cuando yo enviare contra Jerusalén misH7971
+- Eze_17:15enviando embajadores a Egipto para queH7971
+- Eze_23:16y les envió mensajeros a la tierra deH7971
+- Eze_23:40enviaron por hombres que viniesen deH7971
+- Eze_23:40cuales había sido enviado mensajero, yH7971
+- Eze_28:23enviaré a ella pestilencia y sangre enH7971
+- Eze_31:4y a todos los árboles del campo enviabaH7971
+- Eze_39:6enviaré fuego sobre Magog, y sobre losH7971
+- Dan_3:2envió el rey...a que se reuniesen losH7972
+- Dan_3:28que envió su ángel y libró a sus siervosH7972
+- Dan_5:24de su presencia fue enviada la mano queH7972
+- Dan_6:22mi Dios envió su ángel, el cual cerró laH7972
+- Dan_10:11pie; porque a ti he sido enviado ahoraH7971
+- Ose_5:13y enviará al rey Jareb; mas él no osH7971
+- Joe_2:19os envío pan, mosto y aceite, y seréisH7971
+- Joe_2:25gran ejército que envié contra vosotrosH7971
+- Amó_4:10envié contra vosotros mortandad talH7971
+- Amó_7:10Amasías...envió a decir a Jeroboam rey deH7971
+- Amó_8:11días...en los cuales enviaré hambre a laH7971
+- Abd_1:1mensajero ha sido enviado a...nacionesH7971
+- Miq_6:4envié delante de ti a Moisés, a AarónH7971
+- Hag_1:12como le había enviado Jehová su DiosH7971
+- Hag_1:13Hageo, enviado de Jehová, habló por mandato
+- Zac_1:10los que Jehová ha enviado a recorrerH7971
+- Zac_2:8dicho...me enviará él a las naciones queH7971
+- Zac_2:9y sabréis que Jehová de los...me envióH7971
+- Zac_2:11conocerás que Jehová...ha enviado a tiH7971
+- Zac_4:9conocerás que Jehová de los...me envió aH7971
+- Zac_6:15conoceréis que Jehová...me ha enviado aH7971
+- Zac_7:2cuando el pueblo de Bet-el había enviadoH7971
+- Zac_7:12palabras que...enviaba por su EspírituH7971
+- Zac_14:13habrá...gran pánico enviado por JehováH7971
+- Mal_2:2enviaré maldición sobre vosotros, yH7971
+- Mal_2:4sabréis que yo os envié este mandamientoH7971
+- Mal_3:1he aquí, yo envío mi mensajero, el cualH7971
+- Mal_4:5yo os envío el profeta Elías, antes queH7971
+- Mat_2:8y enviándolos a Belén, dijo: Id allá yG3992
+- Mat_9:38al Señor...que envíe obreros a su miesG1544
+- Mat_10:5a estos doce envió Jesús, y les dioG649
+- Mat_10:16yo os envío como a ovejas en medio deG649
+- Mat_10:40me recibe a mí, recibe al que me envióG649
+- Mat_11:2al oír Juan, envió dos de sus discípulosG3992
+- Mat_11:10envío mi mensajero delante de tu fazG649
+- Mat_13:41enviará el Hijo del Hombre a...ángelesG649
+- Mat_14:35enviaron noticia por...aquella tierraG649
+- Mat_15:24enviado sino a las ovejas perdidas deG649
+- Mat_15:32enviarlos en ayunas no quiero, no seaG630
+- Mat_20:2habiendo convenido...los envió a su viñaG649
+- Mat_21:1los Olivos, Jesús envió dos discípulosG649
+- Mat_21:3el Señor los necesita; y...los enviaráG649
+- Mat_21:34envió sus siervos a los labradores, paraG649
+- Mat_21:36envió de nuevo otros siervos, más queG649
+- Mat_21:37les envió su hijo, diciendo: TendránG649
+- Mat_22:3y envió a sus siervos a llamar a losG649
+- Mat_22:4volvió a enviar otros siervos, diciendoG649
+- Mat_22:7rey...enviando sus ejércitos, destruyó aG3992
+- Mat_22:16y le enviaron los discípulos de ellosG649
+- Mat_23:34os envío profetas y sabios y escribasG649
+- Mat_23:37y apedreas a los que te son enviados![[G649]]
+- Mat_24:31y enviará sus ángeles con gran voz deG649
+- Mar_1:2he aquí yo envío mi mensajero delanteG649
+- Mar_3:14estableció a doce...enviarlos a predicarG649
+- Mar_3:31quedándose afuera, enviaron a llamarleG649
+- Mar_5:10rogaba mucho que no los enviase fueraG649
+- Mar_5:12envíanos a los cerdos para que entremosG3992
+- Mar_6:7comenzó a enviarlos de dos en dos; y lesG649
+- Mar_6:17Herodes había enviado y prendido a JuanG649
+- Mar_6:27enviando a uno de la guardia, mandó queG649
+- Mar_8:3y si los enviare en ayunas a sus casasG630
+- Mar_8:26lo envió a su casa, diciendo: No entresG649
+- Mar_9:37no me recibe a mí sino al que me envióG649
+- Mar_11:1monte...Jesús envió dos de sus discípulosG649
+- Mar_12:2envió un siervo a los labradores, paraG649
+- Mar_12:3ellos...le enviaron con las manos vacíasG649
+- Mar_12:4volvió a enviarles otro siervo; peroG649
+- Mar_12:4le hirieron en la...le enviaron afrentadoG649
+- Mar_12:5volvió a enviar otro, y a éste mataronG649
+- Mar_12:6teniendo aún un hijo...lo envió tambiénG649
+- Mar_12:13le enviaron algunos de los fariseos yG649
+- Mar_13:27enviará a sus ángeles, y juntará a susG649
+- Mar_14:13y envió dos de sus discípulos, y lesG649
+- Luc_1:19y he sido enviado a hablarte, y darteG649
+- Luc_1:26el ángel Gabriel fue enviado por Dios aG649
+- Luc_1:53de bienes, y a los ricos envió vacíosG1821
+- Luc_4:18me ha enviado a sanar a los quebrantadosG649
+- Luc_4:26pero a ninguna de ellas fue enviado ElíasG3992
+- Luc_4:43él les dijo...para esto he sido enviadoG649
+- Luc_7:3le envió unos ancianos de los judíosG649
+- Luc_7:6pero...el centurión envió a él unos amigosG3992
+- Luc_7:10los que habían sido enviados, hallaronG3992
+- Luc_7:19y los envió a Jesús, para preguntarleG3992
+- Luc_7:20Juan el Bautista nos ha enviado a tiG649
+- Luc_7:27he aquí envío mi mensajero delante deG649
+- Luc_9:2y los envió a predicar el reino de DiosG649
+- Luc_9:48me recibe a mí, recibe al que me envióG649
+- Luc_9:52y envió mensajeros delante de él, losG649
+- Luc_10:1a quienes envió de dos en dos delanteG649
+- Luc_10:2rogad al...que envíe obreros a su miesG1544
+- Luc_10:3yo os envío como corderos en medio deG649
+- Luc_10:16desecha a mí, desecha al que me envióG649
+- Luc_11:49les enviaré profetas y apóstoles; yG649
+- Luc_13:34y apedreas a los que te son enviados![[G649]]
+- Luc_14:17envió a su siervo a decir...Venid, queG649
+- Luc_14:32le envía una embajada y le pide...pazG649
+- Luc_15:15le envió...para que apacentase cerdosG3392
+- Luc_16:24envía a Lázaro...y refresque mi lenguaG3992
+- Luc_16:27que le envíes a la casa de mi padreG3992
+- Luc_19:14enviaron tras él...embajada, diciendoG649
+- Luc_19:29llegando...envió dos de sus discípulosG649
+- Luc_19:32fueron los que habían sido enviadosG649
+- Luc_20:10envió un siervo a los labradores, paraG649
+- Luc_20:10-11y le enviaron con las manos vacíasG1821
+- Luc_20:11volvió a enviar otro siervo; mas ellosG3992
+- Luc_20:12volvió a enviar un tercer siervo; masG3992
+- Luc_20:13¿qué haré? Enviaré a mi hijo amadoG3992
+- Luc_20:20enviaron espías...se simulasen justosG649
+- Luc_22:8envió a Pedro y a Juan, diciendo: IdG649
+- Luc_22:35cuando os envié sin bolsa, sin alforjaG649
+- Luc_23:11Herodes...volvió a enviarle a PilatoG375
+- Luc_24:49enviaré la promesa de mi Padre sobreG649
+- Jua_1:6un hombre enviado de Dios, el cual seG649
+- Jua_1:19judíos enviaron...sacerdotes y levitasG649
+- Jua_1:22demos respuesta a los que nos enviaronG3992
+- Jua_1:24los que...enviados eran de los fariseosG6499
+- Jua_1:33pero el que me envió a bautizar con aguaG3992
+- Jua_3:17no envió Dios a su Hijo al mundo paraG649
+- Jua_3:28no...sino que soy enviado delante de élG649
+- Jua_3:34Dios envió, las palabras de Dios hablaG649
+- Jua_4:34que haga la voluntad del que me envióG3992
+- Jua_4:38os he enviado a segar lo...no labrasteisG649
+- Jua_5:23al Hijo, no honra al Padre que le envióG3992
+- Jua_5:24cree al que me envió, tiene vida eternaG3992
+- Jua_5:30sino la voluntad del que me envió, laG3992
+- Jua_5:33enviasteis mensajeros a Juan, y él dioG649
+- Jua_5:36testimonio...el Padre que me ha enviadoG649
+- Jua_5:37Padre que me envió ha dado testimonioG3992
+- Jua_5:38a quien él envió, vosotros no creéisG649
+- Jua_6:29obra...que creáis en el que él ha enviadoG649
+- Jua_6:38no...sino la voluntad del que me envióG3992
+- Jua_6:39la voluntad del Padre, el que me envióG3992
+- Jua_6:40esta es la voluntad del que me ha enviadoG3992
+- Jua_6:44si el Padre que me envió no le trajereG3992
+- Jua_6:57como me envió el Padre viviente, y yoG649
+- Jua_7:16mi doctrina...sino de aquel que me envióG3992
+- Jua_7:18el que busca la gloria del que le envióG3992
+- Jua_7:28el que me envió es verdadero, a quienG3992
+- Jua_7:29porque de él procedo, y él me envióG649
+- Jua_7:32fariseos enviaron alguaciles para queG649
+- Jua_7:33un poco de tiempo...iré al que me envióG3992
+- Jua_8:16yo...sino yo y el que me envió, el PadreG3992
+- Jua_8:18el Padre que me envió da testimonio deG3992
+- Jua_8:26el que me envió es verdadero; y yo, loG3992
+- Jua_8:29el que me envió, conmigo está; no me haG3992
+- Jua_8:42no he venido de...sino que él me envióG649
+- Jua_9:4hacer las obras del que me envió, entreG3992
+- Jua_9:7vé a...Siloé (que traducido es, Enviado)[[G649]]
+- Jua_10:36al que el Padre santificó y envió alG649
+- Jua_11:3enviaron, pues, las hermanas para decirG649
+- Jua_11:42para que crean que tú me has enviadoG649
+- Jua_12:44no cree en mí, sino en el que me envióG3992
+- Jua_12:45y el que me ve, ve al que me envióG3992
+- Jua_12:49mi propia cuenta; el Padre que me envióG3992
+- Jua_13:16ni el enviado es mayor que...le envióG652
+- Jua_13:20recibe al que yo enviare, me recibe aG3992
+- Jua_13:20me recibe a mí, recibe al que me envióG3992
+- Jua_14:24no es mía, sino del Padre que me envióG3992
+- Jua_14:26a quien el Padre enviará en mi nombreG3992
+- Jua_15:21porque no conocen al que me ha enviadoG3992
+- Jua_15:26Consolador, a quien yo os enviaré delG3992
+- Jua_16:5ahora voy al que me envió; y ninguno deG3992
+- Jua_16:7no vendría...si me fuere, os lo enviaréG3992
+- Jua_17:3y a Jesucristo, a quien has enviadoG649
+- Jua_17:8y ellos...han creído que tú me enviasteG649
+- Jua_17:18como tú me enviaste...los he enviado alG649
+- Jua_17:21que el mundo crea que tú me enviasteG649
+- Jua_17:23que el mundo conozca que tú me enviasteG649
+- Jua_17:25éstos han conocido que tú me enviasteG649
+- Jua_18:24Anás entonces le envió atado a CaifásG649
+- Jua_20:21como me envió el Padre...yo os envíoG649, [[G3992]]
+- Hec_3:20y él envíe a Jesucristo, que os fueG649
+- Hec_3:26lo envió para que os bendijese, a finG649
+- Hec_5:21y enviaron a la cárcel para que fuesenG649
+- Hec_7:12envió a nuestros padres la primera vezG1821
+- Hec_7:14y enviando José, hizo venir a su padreG649
+- Hec_7:34ahora, pues, ven, te enviaré a EgiptoG649
+- Hec_7:35a éste lo envió Dios como gobernante yG649
+- Hec_8:14oyeron...enviaron allá a Pedro y a JuanG649
+- Hec_9:17me ha enviado para que recibas la vistaG649
+- Hec_9:30hasta Cesarea, y le enviaron a TarsoG1821
+- Hec_9:38le enviaron dos hombres, a rogarle: NoG649
+- Hec_10:5, Hec_10:32envía...a Jope y haz venir a SimónG3992
+- Hec_10:8a los cuales envió a Jope, después deG649
+- Hec_10:17los hombres que...enviados por CornelioG649
+- Hec_10:20no dudes de ir con...yo los he enviadoG649
+- Hec_10:21a donde estaban los hombres...enviadosG649
+- Hec_10:33envié por ti; y tú has hecho bien enG3992
+- Hec_10:36envió mensaje a los hijos de IsraelG649
+- Hec_11:11llegaron...enviados a mí desde CesareaG649
+- Hec_11:13envía hombres a Jope, y haz venir aG649
+- Hec_11:22y enviaron a Bernabé que fuese hastaG1821
+- Hec_11:29enviar socorro a los hermanos...en JudeaG3992
+- Hec_11:30enviándolo a los ancianos por mano deG649
+- Hec_12:11el Señor ha enviado su ángel, y me haG1821
+- Hec_13:4ellos...enviados por el Espíritu SantoG1599
+- Hec_13:26es enviada la palabra de esta salvaciónG649
+- Hec_15:22y enviarlos a Antioquía con Pablo yG3992
+- Hec_15:25y enviarlos a vosotros con...y BernabéG3992
+- Hec_15:27enviamos a Judas y a Silas, los cualesG649
+- Hec_15:30los...enviados descendieron a AntioquíaG630
+- Hec_15:33volver a aquellos que...habían enviadoG630
+- Hec_16:35los magistrados enviaron alguaciles aG649
+- Hec_17:10enviaron de noche a Pablo y a SilasG1599
+- Hec_17:14enviaron a Pablo que fuese hacia el marG1821
+- Hec_19:22enviando a Macedonia a dos de los queG649
+- Hec_19:31le enviaron recado, rogándole que noG3992
+- Hec_20:17enviando...hizo llamar a los ancianos deG3992
+- Hec_22:21vé...yo te enviaré lejos a los gentilesG1821
+- Hec_23:30al punto le he enviado a ti, intimandoG3992
+- Hec_25:21mandé...hasta que le enviara yo a CésarG3992
+- Hec_25:25apeló a...he determinado enviarle a élG3992
+- Hec_25:27enviar un preso, y no informar de losG3992
+- Hec_26:17los gentiles, a quienes ahora te envíoG649
+- Hec_28:28los gentiles es enviada esta salvaciónG649
+- Rom_8:3Dios, enviando a su Hijo en semejanzaG3992
+- Rom_10:15cómo predicarán si no fueren enviados?[[G649]]
+- 1Co_1:17no me envió Cristo a bautizar, sinoG649
+- 1Co_4:17os he enviado a Timoteo, que es mi hijoG3992
+- 1Co_16:3a éstos enviaré para que lleven vuestroG3992
+- 2Co_8:18enviamos juntamente con él al hermanoG4842
+- 2Co_8:22enviamos también con ellos a nuestroG4842
+- 2Co_9:3pero he enviado a los hermanos, para queG3992
+- 2Co_12:17he engañado por...los que he enviado aG649
+- 2Co_12:18y envié con él al hermano. ¿Os engañóG4882
+- Gál_4:4Dios envió a su Hijo, nacido de mujerG1821
+- Gál_4:6Dios envió...el Espíritu de su Hijo, elG1821
+- Efe_6:22cual envié a vosotros para esto mismoG3992
+- Flp_2:19enviaros pronto a Timoteo, para queG3992
+- Flp_2:23éste espero enviaros, luego que yo veaG3992
+- Flp_2:25enviaros a Epafrodito, mi hermano yG3992
+- Flp_2:28le envío con mayor solicitud, para queG3992
+- Flp_4:16enviasteis una...vez para mis necesidadesG3992
+- Flp_4:18habiendo recibido de...lo que enviasteis
+- Col_4:8cual he enviado a vosotros para estoG3992
+- 1Ts_3:2enviamos a Timoteo...para confirmarosG3992
+- 1Ts_3:5envié para informarme de vuestra fe, noG375
+- 2Ts_2:11Dios les envía un poder engañosoG3992
+- 2Ti_4:12a Tíquico lo envié a EfesoG649
+- Tit_3:12cuando envíe...a Artemas o a TíquicoG3992
+- Flm_1:12vuelvo a enviarte; tú, pues, recíbeleG628
+- Heb_1:14enviados para servicio a favor de losG649
+- Stg_2:25recibió...los envió por otro camino?[[G1524]]
+- 1Pe_1:12por el Espíritu...enviado del cieloG649
+- 1Pe_2:14como por él enviados para castigo de losG3992
+- 2Pe_1:17le fue enviada...voz que decía: EsteG5342
+- 2Pe_1:18y nosotros oímos esta voz enviada delG5342
+- 1Jn_4:9en que Dios envió a su Hijo...al mundoG649
+- 1Jn_4:10y envió a su Hijo en propiciación porG649
+- 1Jn_4:14el Padre ha enviado al Hijo, el SalvadorG649
+- Rev_1:1la declaró enviándola por medio de suG649
+- Rev_1:11y envíalo a las siete iglesias que estánG3992
+- Rev_5:6espíritus de Dios enviados por...la tierraG649
+- Rev_11:10se enviarán regalos unos a otros; porqueG3992
+- Rev_11:11el espíritu de vida enviado por Dios
+- Rev_22:6y el Señor...ha enviado su ángel, paraG649
+- Rev_22:16yo Jesús he enviado mi ángel para darosG3992

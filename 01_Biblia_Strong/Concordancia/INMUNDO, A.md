@@ -1,0 +1,194 @@
+---
+tipo: concordancia
+palabra: INMUNDO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# INMUNDO, A
+
+- Lev_5:2que hubiere tocado...cosa i...será iH2931
+- Lev_5:2sea cadáver de bestia i, o...de animal iH2931
+- Lev_5:2de reptil i, bien que no lo supiereH2931
+- Lev_5:3con que fuere i, y no lo echare de verH2930
+- Lev_7:19que tocare alguna cosa i, no se comeráH2931
+- Lev_7:20la persona que comiere la...estando iH2932
+- Lev_7:21tocare alguna cosa i...será cortada deH2932
+- Lev_7:21que tocare...animal i, o...abominación iH2931
+- Lev_10:10discernir...y entre lo i y lo limpioH2931
+- Lev_11:4camello, porque rumia...lo tendréis por iH2931
+- Lev_11:5el conejo...no tiene...lo tendréis por iH2931
+- Lev_11:6liebre, porque rumia...la tendréis por iH2931
+- Lev_11:7el cerdo...no rumia, lo tendréis por iH2931
+- Lev_11:8de ellos no comeréis...tendréis por iH2931
+- Lev_11:24por estas cosas seréis i...que tocareH2930
+- Lev_11:24cuerpos muertos será i hasta la nocheH2930
+- Lev_11:25lavará sus vestidos, y será i hasta laH2930
+- Lev_11:26que no tiene pezuña...tendréis por iH2931
+- Lev_11:26y cualquiera que los tocare será iH2930
+- Lev_11:27tendréis por i a cualquiera que andeH2931
+- Lev_11:27tocare sus cadáveres será i hasta laH2930
+- Lev_11:28i hasta la noche; los tendréis por iH2930
+- Lev_11:29tendréis por i a estos animales queH2931
+- Lev_11:31tendréis por i de entre los animalesH2931
+- Lev_11:31que los tocare...será i hasta la nocheH2930
+- Lev_11:32algo de ellos después de muertos, será iH2930
+- Lev_11:32sea metido en agua, y quedará i hastaH2930
+- Lev_11:33vasija...será i...y quebraréis la vasijaH2930
+- Lev_11:34sobre el cual cayere el agua...será iH2930
+- Lev_11:34y toda bebida en esas vasijas será iH2930
+- Lev_11:35cayere algo del cadáver de ellos será iH2930
+- Lev_11:35el horno...son i, y por i los tendréisH2931
+- Lev_11:36hubiere tocado en los cadáveres será iH2930
+- Lev_11:38cayere algo de los...la tendréis por iH2931
+- Lev_11:39el que tocare su cadáver será i hastaH2930
+- Lev_11:40(2)lavará sus vestidos y será i hastaH2930
+- Lev_11:43ni os contaminéis...ni seáis i por ellosH2930
+- Lev_11:47diferencia entre lo i y lo limpio, yH2931
+- Lev_12:2conciba y dé a luz varón, será i 7 díasH2930
+- Lev_12:2conforme a...de su menstruación será iH2930
+- Lev_12:5si diere a luz hija, será i dos semanasH2930
+- Lev_13:3y el...le reconocerá, y le declarará iH2930
+- Lev_13:8el sacerdote...lo declarará i: es lepraH2930
+- Lev_13:11declarará i el sacerdote...porque es iH2931
+- Lev_13:14apareciere en él la carne viva, será iH2930
+- Lev_13:15lo declarará i...Es i la carne viva; esH2930
+- Lev_13:20, Lev_13:22sacerdote lo declarará i; es llagaH2930
+- Lev_13:25lo declarará i, por ser llaga de lepraH2930
+- Lev_13:27el...lo declarará i; es llaga de lepraH2930
+- Lev_13:30el sacerdote le declarará i; es tiñaH2930
+- Lev_13:36no busque el sacerdote el pelo...es iH2931
+- Lev_13:44es i, y el sacerdote lo declarará...iH2931
+- Lev_13:45leproso...embozado pregonará: ¡I! ¡I![[H2931]]
+- Lev_13:46que la llaga estuviere en él, será iH2931
+- Lev_13:51el cuero...lepra maligna es la plaga; iH2931
+- Lev_13:55se haya extendido...i es; la quemarásH2931
+- Lev_13:59ley para que sea declarada limpia o iH2930
+- Lev_14:40echarán fuera de la ciudad en lugar iH2931
+- Lev_14:41derramarán fuera...en lugar i el barroH2931
+- Lev_14:44casa, es lepra maligna en la casa; i esH2931
+- Lev_14:45sacarán...fuera de la ciudad a lugar iH2931
+- Lev_14:46que entrare en...será i hasta la nocheH2930
+- Lev_14:57enseñar cuándo es i, y cuándo limpioH2931
+- Lev_15:2cuando tuviere flujo de semen, será iH2931
+- Lev_15:3que deje de destilar...flujo él será iH2932
+- Lev_15:4toda cama en que se acostare...será iH2930
+- Lev_15:4toda cosa sobre que se sentare, i seráH2930
+- Lev_15:5-6, Lev_15:7-8, Lev_15:11, Lev_15:16-17, Lev_15:18, Lev_15:22, Lev_15:27se lavará...y será i hasta la nocheH2930
+- Lev_15:9montura sobre que cabalgare el...será iH2930
+- Lev_15:10, Lev_15:19, Lev_15:23tocare...será i hasta la nocheH2930
+- Lev_15:20aquello sobre que ella se acostare...iH2930
+- Lev_15:20todo aquello sobre que se sentare será iH2930
+- Lev_15:21después de lavarse...i hasta la nocheH2930
+- Lev_15:24durmiere con ella...será i...siete díasH2930
+- Lev_15:24toda cama sobre que durmiere, será iH2930
+- Lev_15:25será i como en los días de su costumbreH2931
+- Lev_15:26mueble sobre que se sentare, será iH2931
+- Lev_15:27que tocare esas cosas será i; y lavaráH2930
+- Lev_15:32ley...viniendo a ser i a causa de elloH2930
+- Lev_15:33para el hombre que durmiere con mujer iH2931
+- Lev_17:15será i hasta la noche; entonces seráH2931
+- Lev_20:25haréis diferencia...animal limpio e iH2931
+- Lev_20:25haréis diferencia...entre ave i y limpiaH2931
+- Lev_20:25animales...cuales os he apartado por iH2930
+- Lev_21:4no se contaminará como...haciéndose iH2490
+- Lev_22:5tocado cualquier reptil por el cual...iH2931
+- Lev_22:5por el cual venga a ser i, conforme aH2930
+- Lev_22:6la persona que lo tocare será i hastaH2930
+- Lev_27:11si fuere algún animal i, de que no seH2931
+- Lev_27:27fuere de los animales i, lo rescataránH2931
+- Núm_5:27si fuere i y hubiere sido infiel a suH2930
+- Núm_5:28si la mujer se fuere i, sino...limpiaH2930
+- Núm_9:6algunos que estaban i a causa de muertoH2931
+- Núm_9:7nosotros estamos i por causa de muertoH2931
+- Núm_9:10que estuviere i por causa de muerto oH2931
+- Núm_18:15harás redimir el primogénito de animal iH2931
+- Núm_19:7y será i el sacerdote hasta la nocheH2930
+- Núm_19:8, Núm_19:10lavará sus...y será i hasta la nocheH2930
+- Núm_19:11que tocare cadáver...será i siete díasH2930
+- Núm_19:13i será, y su inmundicia será sobre élH2931
+- Núm_19:14el que esté en ella, será i siete díasH2930
+- Núm_19:15vasija...no esté bien ajustada, será iH2931
+- Núm_19:16tocare algún muerto...siete días será iH2930
+- Núm_19:17para el i tomarán de la ceniza de laH2931
+- Núm_19:19limpio rociará sobre el i al terceroH2931
+- Núm_19:20el que fuere i, y no se purificare, laH2930
+- Núm_19:20no fue rociada sobre él el agua...es iH2931
+- Núm_19:21tocare el agua...será i hasta la nocheH2930
+- Núm_19:22y todo lo que el i tocare, será i; yH2931
+- Núm_19:22la persona que lo tocare será i hastaH2930
+- Deu_12:15el i y el limpio la podrá comer, comoH2931
+- Deu_12:22el i y el limpio podrán comer tambiénH2931
+- Deu_14:7mas no tienen pezuña hendida, serán iH2931
+- Deu_14:8tiene pezuña...mas no rumia; os será iH2931
+- Deu_14:10todo lo que no tiene aleta y...i seráH2931
+- Deu_14:19todo insecto alado será i; no se comeráH2931
+- Deu_15:22el i lo mismo que el limpio comerán deH2931
+- Deu_23:14para que él no vea en ti cosa i, y seH6172
+- Deu_26:14ni he gastado de ello estando yo i, niH2931
+- Jos_22:19si os parece que la tierra de...es iH2931
+- Jue_13:4, Jue_13:7no...vino ni sidra, ni comas cosa iH2931
+- Jue_13:14no comerá cosa i; guardará todo lo queH2932
+- 2Cr_23:19que por ninguna vía entrase ningún iH2931
+- Esd_9:11tierra i es a causa de la inmundiciaH5079
+- Job_14:4¿quién hará limpio a lo i? NadieH2931
+- Isa_6:5siendo hombre i de labios, y habitandoH2931
+- Isa_6:5en medio de pueblo que tiene labios iH2931
+- Isa_35:8no pasará i por él, sino que él mismoH2931
+- Isa_52:1nunca más vendrá a ti incircunciso ni iH2931
+- Isa_52:11salid de ahí, no toquéis cosa i; salidH2931
+- Isa_65:4cerdo, y en sus ollas...caldo de cosas iH6292
+- Jer_2:23decir: No soy i, nunca anduve trasH2930
+- Jer_19:13y las casas de...serán como...Tofet, iH2931
+- Lam_4:15¡i! les gritaban; ¡Apartaos, apartaosH2931
+- Eze_4:13comerán los hijos de Israel su pan iH2931
+- Eze_4:14que mi alma no es i, ni nunca desde miH2930
+- Eze_4:14y dije...nunca en mi boca entró carne iH6292
+- Eze_22:10hicieron violencia a la que estaba iH2931
+- Eze_22:26ni distinguieron entre i y limpio; yH2931
+- Eze_24:13en tu i lujuria padecerás, porque teH2932
+- Ose_9:3volverá Efraín...donde comerán vianda iH2931
+- Ose_9:4pan...todos los que coman de él serán iH2930
+- Amó_7:17tú morirás en tierra i, e Israel seráH2931
+- Hag_2:13si un i...tocare alguna cosa...¿será i?[[H2931]]
+- Hag_2:13y respondieron los sacerdotes...I seráH2930
+- Hag_2:14obra...y todo lo que aquí ofrecen es iH2930
+- Mal_1:7en que ofrecéis sobre mi altar pan iH1351
+- Mal_1:12cuando decís: I es la mesa de JehováH2490
+- Mat_10:1dio autoridad sobre los espíritus iG169
+- Mat_12:43cuando el espíritu i sale del hombreG169
+- Mar_1:23hombre con espíritu i, que dio vocesG169
+- Mar_1:26espíritu i, sacudiéndole con violenciaG169
+- Mar_1:27manda...los espíritus i, y le obedecen?[[G169]]
+- Mar_3:11espíritus i...se postraban delante de élG169
+- Mar_3:30ellos habían dicho: Tiene espíritu iG169
+- Mar_5:2vino a su...un hombre con un espíritu iG169
+- Mar_5:8le decía: Sal de este hombre, espíritu iG169
+- Mar_5:13saliendo aquellos espíritus i, entraronG169
+- Mar_6:7les dio autoridad sobre los espíritus iG169
+- Mar_7:2comer...con manos i, esto es, no lavadasG2839
+- Mar_7:5tus discípulos...comen pan con manos i?[[G449]]
+- Mar_7:25una mujer, cuya hija tenía un espíritu iG169
+- Mar_9:25vio...reprendió al espíritu i, diciéndoleG169
+- Luc_4:33que tenía un espíritu de demonio iG169
+- Luc_4:36poder manda a los espíritus i, y salen?[[G169]]
+- Luc_6:18los...atormentados de espíritus i eranG169
+- Luc_8:29mandaba al espíritu i que saliese delG169
+- Luc_9:42Jesús reprendió al espíritu i, y sanóG169
+- Luc_11:24cuando el espíritu i sale del hombreG169
+- Hec_5:16muchos...atormentados de espíritus iG169
+- Hec_8:7de muchos que tenían espíritus i, salíanG169
+- Hec_10:14ninguna cosa común o i he comido jamásG169
+- Hec_10:28que a ningún hombre llame común o iG169
+- Hec_11:8ninguna cosa común o i entró jamás enG169
+- Rom_14:14sé...que nada es i en sí mismo; masG2839
+- Rom_14:14que piensa que algo es i, para él lo esG2839
+- 1Co_7:14otra manera vuestros hijos serían iG169
+- 2Co_6:17y no toquéis lo i; y yo os recibiréG169
+- Efe_5:5ningún...i, o avaro...tiene herenciaG169
+- Heb_9:13sangre...rociadas a los i, santificanG2840
+- Heb_10:29y tuviere por i la sangre del pacto enG2839
+- Rev_16:13de la boca del dragón...3 espíritus iG169
+- Rev_18:2guarida de todo espíritu i...toda ave iG169
+- Rev_21:27no entrará en ella ninguna cosa i, oG2840
+- Rev_22:11el que es i, sea i todavía; y el que esG4510

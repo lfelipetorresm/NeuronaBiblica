@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: VOTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VOTO
+
+- Gén_28:20hizo Jacob v, diciendo: Si fuere DiosH5088
+- Gén_31:13ungiste la piedra, y...me hiciste un vH5088
+- Lev_7:16si el sacrificio de su ofrenda fuere vH5088
+- Lev_22:18ofreciere su ofrenda en pago de sus vH5088
+- Lev_22:21ofreciere...a Jehová para cumplir un vH5088
+- Lev_22:23que tenga...en pago de v no será aceptoH5088
+- Lev_23:38todos vuestros v, y...vuestras ofrendasH5088
+- Lev_27:2alguno hiciere especial v a Jehová, segúnH5088
+- Lev_27:8a la posibilidad del que hizo el v, leH5087
+- Núm_6:2que se apartare haciendo v de nazareoH5087
+- Núm_6:5todo el tiempo del v de...no pasará navajaH5087
+- Núm_6:21del nazareo que hiciere v de su ofrendaH5088
+- Núm_6:21según el v que hiciere...hará, conforme aH5088
+- Núm_15:3holocausto, o sacrificio, por especial vH5088
+- Núm_15:8cuando ofrecieres novillo en...especial vH5088
+- Núm_18:14lo consagrado por v en Israel será tuyoH5088
+- Núm_21:2Israel hizo v a Jehová, y dijo: Si enH5088
+- Núm_29:39ofreceréis...además de vuestros v, y deH5088
+- Núm_30:2hiciere v a Jehová, o hiciere juramentoH5088
+- Núm_30:3mas la mujer, cuando hiciere v a JehováH5088
+- Núm_30:4si su padre oyere su v, y la obligaciónH5088
+- Núm_30:4todos los v de ella serán firmes, y todaH5088
+- Núm_30:5le vedare el día que oyere todos sus vH5088
+- Núm_30:6fuere casada e hiciere v, o pronunciareH5088
+- Núm_30:7callare a...los v de ella serán firmesH5088
+- Núm_30:8entonces el v que ella hizo...será nuloH5088
+- Núm_30:9todo v de viuda o repudiada...será firmeH5088
+- Núm_30:10si hubiere hecho v en casa de su maridoH5088
+- Núm_30:11y no le vedó...todos sus v serán firmesH5088
+- Núm_30:12su marido los anuló...sus v...será nuloH5088
+- Núm_30:13todo v...obligándose a afligir el almaH5088
+- Núm_30:14marido callare...confirmó todos sus vH5088
+- Deu_12:6allí llevaréis...vuestros v...ofrendasH5088
+- Deu_12:11llevaréis...todo lo escogido de los vH5087
+- Deu_12:17no comerás...ni los v que prometieresH5088
+- Deu_12:26v, las tomarás, y vendrás con ellas alH5088
+- Deu_23:18no traerás la paga de una...por ningún vH5088
+- Deu_23:21haces v a Jehová...no tardes en pagarloH5087
+- Jue_11:30Jefté hizo v a Jehová, diciendo: siH5088
+- Jue_11:39hizo de ella conforme al v que habíaH5088
+- 1Sa_1:11v, diciendo: Jehová de los ejércitosH5088
+- 1Sa_1:21Elcana...para ofrecer a Jehová el...y su vH5088
+- 2Sa_15:7pagar mi v que he prometido a JehováH5088
+- 2Sa_15:8tu siervo hizo v cuando estaba en GesurH5088
+- Job_22:27él, y él te oirá; y tú pagarás tus vH5088
+- Sal_22:25mis v pagaré delante de los que leH5088
+- Sal_50:14Dios alabanza, y paga tus v al AltísimoH5088
+- Sal_56:12sobre mí, oh Dios, están tus v; teH5088
+- Sal_61:5oh Dios, has oído mis v; me has dado laH5088
+- Sal_61:8así cantaré tu...pagando mis v cada díaH5088
+- Sal_65:1tuya es...Dios, y a ti se pagarán los vH5088
+- Sal_66:13entraré en tu casa con...te pagaré mis vH5088
+- Sal_116:14ahora pagaré mis v a Jehová delante deH5088
+- Sal_116:18a Jehová pagaré ahora mis v delante deH5088
+- Pro_7:14había prometido, hoy he pagado mis vH5088
+- Pro_20:25lazo es al hombre...apresuradamente v deH5088
+- Isa_19:21y harán v a Jehová, y los cumpliránH5087
+- Jer_44:25cumpliremos...nuestros v que hicimosH5088
+- Jer_44:25confirmáis...v, y ponéis vuestros v porH5088
+- Jon_1:16ofrecieron sacrificio...e hicieron vH5088
+- Nah_1:15celebra...tus fiestas, cumple tus vH5088
+- Hec_18:18rapado la cabeza...porque tenía...vG2171
+- Hec_21:23cuatro...tienen obligación de cumplir vG2171
+- Hec_26:10encerré...cuando los mataron, yo di mi vG5586

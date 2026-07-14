@@ -1,0 +1,154 @@
+---
+tipo: concordancia
+palabra: CINCO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CINCO
+
+- Véase Cinco mil, etc.
+- Gén_5:6vivió Set ciento c años, yH2568
+- Gén_5:11días de Enós novecientos c años; y murióH2568
+- Gén_5:15vivió Mahalaleel sesenta y c añosH2568
+- Gén_5:17Mahalaleel ochocientos noventa y c añosH2568
+- Gén_5:21vivió Eno c sesenta y c años, y engendróH2568
+- Gén_5:23días de Eno c trescientos sesenta y c añosH2568
+- Gén_5:30Noé, quinientos noventa y c años, yH2568
+- Gén_11:12Arfaxad vivió treinta y c años, yH2568
+- Gén_11:32días de Taré doscientos c años; y murióH2568
+- Gén_12:4era Abram de edad de setenta y c añosH2568
+- Gén_14:9rey de Elasar; cuatro reyes contra cH2568
+- Gén_18:28quizá faltarán de cincuenta justos cH2568
+- Gén_18:28¿destruirás por aquellos...c la ciudad?[[H2568]]
+- Gén_25:7vivió Abraham: c setenta y cinco añosH2568
+- Gén_43:34c veces mayor que cualquiera de las deH2568
+- Gén_45:6c años en los cuales ni habrá arada niH2568
+- Gén_45:11quedan c años de hambre, para que noH2568
+- Gén_45:22y a Benjamín dio...c mudas de vestidosH2568
+- Gén_47:2tomó c varones, y los presentó delanteH2568
+- Éxo_22:1por aquel buey pagará c bueyes, y porH2568
+- Éxo_26:3c cortinas estarán unidas una con laH2568
+- Éxo_26:3y las otras c cortinas unidas una conH2568
+- Éxo_26:9unirás c cortinas aparte y las otras 6H2568
+- Éxo_26:26harás...c barras de madera de acaciaH2568
+- Éxo_26:27c barras para las tablas del otro ladoH2568
+- Éxo_26:27c...para las tablas del lado posteriorH2568
+- Éxo_26:37harás...c columnas de madera de acaciaH2568
+- Éxo_26:37fundirás c basas de bronce para ellasH2568
+- Éxo_27:1altar...de c codos de longitud, y de cH2568
+- Éxo_27:18y la altura de c codos; sus cortinasH2568
+- Éxo_36:10c de las cortinas las unió entre sí, yH2568
+- Éxo_36:10unió las otras c cortinas entre síH2568
+- Éxo_36:16y unió c de las cortinas aparte, y lasH2568
+- Éxo_36:31barras...c para las tablas de un ladoH2568
+- Éxo_36:32c barras para las tablas del otro ladoH2568
+- Éxo_36:32c barras para las tablas del...posteriorH2568
+- Éxo_36:38c columnas con sus capiteles; y cubrióH2568
+- Éxo_36:38de oro los...e hizo de bronce sus c basasH2568
+- Éxo_38:1hizo...el altar...su longitud de c codosH2568
+- Éxo_38:1y su anchura de otros c codos, cuadradoH2568
+- Éxo_38:18su altura, era de c codos, lo mismo queH2568
+- Lev_26:8c de vosotros perseguirán a ciento, yH2568
+- Lev_27:5y si fuere de c años hasta veinte, elH2568
+- Lev_27:6un mes hasta c años...c siclos de plataH2568
+- Núm_3:47c siclos por cabeza; conforme al sicloH2568
+- Núm_7:17, Núm_7:23, Núm_7:29, Núm_7:35, Núm_7:41, Núm_7:47, Núm_7:53, Núm_7:59, Núm_7:65, Núm_7:71, Núm_7:77, Núm_7:83c carneros, c...cabríos y c corderosH2568
+- Núm_11:19no comeréis un día...ni c días, ni diezH2568
+- Núm_18:16por el precio de c siclos, conforme alH2568
+- Núm_31:8mataron...los c reyes de Madián; tambiénH2568
+- Jos_10:5c reyes de...se juntaron y subieronH2568
+- Jos_10:16los c reyes huyeron, y se escondieronH2568
+- Jos_10:17que los c reyes habían sido halladosH2568
+- Jos_10:22abrid...la cueva, y sacad...a esos c reyesH2568
+- Jos_10:23sacaron de la cueva a aquellos c reyesH2568
+- Jos_10:26mató, y los hizo colgar en c maderosH2568
+- Jos_13:3c príncipes de los filisteos: el gazeoH2568
+- Jue_3:3los c príncipes de los filisteos, todosH2568
+- Jue_18:2Dan enviaron...c hombres de entre ellosH2568
+- Jue_18:7aquellos c hombres salieron, y vinieron aH2568
+- Jue_18:14c hombres que habían ido...dijeron a susH2568
+- Jue_18:17subiendo los c hombres...entraron alláH2568
+- 1Sa_6:4c tumores de oro, y c ratones de oroH2568
+- 1Sa_6:16cuando vieron esto los c príncipes de losH2568
+- 1Sa_6:18pertenecientes a los c príncipes, así lasH2568
+- 1Sa_17:40escogió c piedras lisas del arroyo, yH2568
+- 1Sa_21:3dame c panes, o lo que tengas a manoH2568
+- 1Sa_25:18c ovejas guisadas, c medidas de granoH2568
+- 1Sa_25:42levantándose...Abigail con c doncellasH2568
+- 2Sa_4:4tenía c años de edad cuando llegó deH2568
+- 2Sa_21:8tomó el rey a...c hijos de Mical hija deH2568
+- 1Re_6:6el aposento...era de c codos de anchoH2568
+- 1Re_6:10el aposento...de altura de c codos, elH2568
+- 1Re_6:24una ala...tenía c codos, y la otra ala...cH2568
+- 1Re_6:31umbral y los postes eran de c esquinasH2549
+- 1Re_7:16capitel era de c codos...otro...c codosH2568
+- 1Re_7:23su altura era de c codos, y lo ceñíaH2568
+- 1Re_7:39c basas a la mano derecha...las otras cH2568
+- 1Re_7:49c candeleros de oro purísimo...otros cH2568
+- 2Re_6:25estiércol de palomas por c piezas deH2568
+- 2Re_7:13tomen ahora c de los caballos que hanH2568
+- 2Re_13:19c o seis golpes, hubieras derrotado aH2568
+- 2Re_25:19tomó...c varones de los consejeros delH2568
+- 1Cr_2:4todos los hijos de Judá fueron cH2568
+- 1Cr_2:6los hijos de Zera: Zimri...por todos cH2568
+- 1Cr_3:20Hasadías y Jusab-hesed; c por todosH2568
+- 1Cr_4:32y sus aldeas fueron Etam...c pueblosH2568
+- 1Cr_7:3hijos de Israhías...por todos, c príncipesH2568
+- 1Cr_7:7los hijos de Bela: Ezbón, Uzi...c jefesH2568
+- 1Cr_11:23venció a un egipcio, hombre de c codosH2568
+- 2Cr_3:11-12ala era de c codos...la otra de cH2568
+- 2Cr_3:15con sus capiteles encima, de c codosH2568
+- 2Cr_4:2hizo un mar de fundición...era de c codosH2568
+- 2Cr_4:6diez fuentes...puso c a la derecha y c aH2568
+- 2Cr_4:7diez candeleros...c a la derecha y c a laH2568
+- 2Cr_4:8mesas...c a la derecha y c a la izquierdaH2568
+- 2Cr_6:13estrado...c codos de largo, de c codosH2568
+- Isa_17:6cuatro o c en sus ramas...fructíferasH2568
+- Isa_19:18c ciudades en la tierra de Egipto queH2568
+- Isa_30:17la amenaza de c huiréis vosotros todosH2568
+- Jer_52:22el capitel...de una altura de c codosH2568
+- Eze_1:1a los c días del mes, que estando yoH2568
+- Eze_1:2en el quinto año...a los c días del mesH2568
+- Eze_8:1sexto, a los c días del mes, acontecióH2568
+- Eze_33:21a los c días del mes, que vino a mí unH2568
+- Eze_40:7y entre las cámaras había c codos deH2568
+- Eze_40:30los arcos...eran de...c codos de anchoH2568
+- Eze_40:48poste...c codos de un lado, y c codos deH2568
+- Eze_41:2puerta, de c codos de un lado, y c delH2568
+- Eze_41:9el ancho de la pared de...era de c codosH2568
+- Eze_41:11el ancho del espacio...era de c codosH2568
+- Eze_41:12pared...de c codos de grueso alrededorH2568
+- Mat_14:17no tenemos aquí sino c panes y dosG4002
+- Mat_14:19y tomando los c panes y los dos pecesG4002
+- Mat_16:9ni os acordáis de los c panes entreG4002
+- Mat_25:2c de ellas eran prudentes y c insensatasG4000
+- Mat_25:15a uno dio c talentos, y a otro dos, yG4000
+- Mat_25:16el que había recibido c talentos fueG4000
+- Mat_25:16fue y negoció...y ganó otros c talentosG4000
+- Mat_25:20recibido c talentos, trajo otros cG4000
+- Mat_25:20c talentos me entregaste; aquí tienesG4000
+- Mat_25:20he ganado otros c talentos sobre ellosG4000
+- Mar_6:38al saberlo, dijeron: C, y dos pecesG4000
+- Mar_6:41tomó los c panes y los dos peces, yG4000
+- Mar_8:19cuando partí los c panes entre cinco milG4002
+- Luc_1:24recluyó en casa por c meses, diciendoG4002
+- Luc_9:13dijeron...No tenemos más que c panes yG4002
+- Luc_9:16tomando los c panes y los dos pescadosG4002
+- Luc_12:6se venden c pajarillos por dos cuartos?[[G4002]]
+- Luc_12:52c en una familia estarán divididos, tresG4002
+- Luc_14:19he comprado c yuntas de bueyes, y voy aG4002
+- Luc_16:28tengo c hermanos...que les testifiqueG4002
+- Luc_19:18otro...Señor, tu mina ha ganado c minasG4002
+- Luc_19:19dijo: Tú también sé sobre c ciudadesG4002
+- Jua_4:18c maridos has tenido, y el que ahoraG4002
+- Jua_5:2un estanque...el cual tiene c pórticosG4002
+- Jua_6:9aquí está un muchacho, que tiene c panesG4002
+- Jua_6:13llenaron doce cestas de...de los c panesG4002
+- Hec_20:6en c días nos reunimos con ellos enG4002
+- Hec_24:1c días después, descendió el...AnaníasG4002
+- 1Co_14:19prefiero hablar c palabras con miG4002
+- 2Co_11:24c veces he recibido cuarenta azotesG3999
+- Rev_9:5no...sino que los atormentasen c mesesG4002
+- Rev_9:10para dañar a los hombres durante c mesesG4002
+- Rev_17:10son siete reyes. C de ellos han caídoG4002

@@ -1,0 +1,332 @@
+---
+tipo: concordancia
+palabra: FAMILIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FAMILIA
+
+- Gén_10:5según su lengua, conforme a sus f enH4940
+- Gén_10:18se dispersaron las f de los cananeosH4940
+- Gén_10:20estos son los hijos de Caro por sus fH4940
+- Gén_10:31fueron los hijos de Sem por sus f, porH4940
+- Gén_10:32estas son las f de los hijos de Noé porH4940
+- Gén_12:3benditas en ti todas las f de la tierraH4940
+- Gén_24:40tomarás para mi hijo mujer de mi f y deH4940
+- Gén_24:41libre de...cuando hayas llegado a mi fH4940
+- Gén_25:16de Ismael...doce príncipes por sus fH523
+- Gén_28:14las f de la tierra serán benditas enH4940
+- Gén_35:2Jacob dijo a su f y a todos los que conH1004
+- Gén_37:2esta es la historia de la f de JacobH8435
+- Gén_43:7preguntó...por nosotros, y por nuestra fH4138
+- Gén_45:18tomad a vuestro padre v a vuestras fH1004
+- Éxo_1:1en Egipto con...cada uno entró con su fH1004
+- Éxo_1:21haber...temido a Dios, él prosperó sus fH1004
+- Éxo_2:1un varón de la f de Leví fue y tomó porH1004
+- Éxo_6:14son los jefes de las f de sus padresH1004
+- Éxo_6:14Falú, Hezrón y Carmi...son las f de RubénH4940
+- Éxo_6:15Saúl hijo de...Estas son las f de SimeónH4940
+- Éxo_6:17los hijos de Gersón: Libni y...por sus fH4940
+- Éxo_6:19estas son las f de Leví por sus linajesH4940
+- Éxo_6:24Asir...Estas son las f de los coreítasH4940
+- Éxo_6:25son los padres de los levitas por sus fH4940
+- Éxo_12:3según las f de los...un cordero por fH1004
+- Éxo_12:4si la f fuere tan pequeña que no basteH1004
+- Éxo_12:21tomaos corderos por...f y sacrificadH4940
+- Lev_20:5pondré mi rostro contra...contra su fH4940
+- Lev_25:10de jubileo...cada cual volverá a su fH4940
+- Lev_25:41volverá a su f, y a la posesión de susH4940
+- Lev_25:45de las f de...nacidos en vuestra tierraH4940
+- Lev_25:47se vendiere al...o a alguno de la f delH4940
+- Lev_25:49un pariente...de su f lo rescatará; o siH4940
+- Núm_1:2tomad el censo de...de Israel por sus fH4940
+- Núm_1:18fueron agrupados por f, según las casasH4940
+- Núm_1:20, Núm_1:22, Núm_1:24, Núm_1:26, Núm_1:28, Núm_1:30, Núm_1:32, Núm_1:34, Núm_1:36, Núm_1:38, Núm_1:40, Núm_1:42por f, según las casas de sus padresH4940
+- Núm_2:34marcharon cada uno por sus f, según lasH4940
+- Núm_3:15cuenta los hijos de Leví según...sus fH4940
+- Núm_3:18nombres de los hijos de Gersón por sus fH4940
+- Núm_3:19los hijos de Coat por sus f son: AmramH4940
+- Núm_3:20los hijos de Merari por sus f: Mahli yH4940
+- Núm_3:20estas son las f de Leví, según las casasH4940
+- Núm_3:21Gersón era la f de Libni y la de SimeiH4940
+- Núm_3:21la de Simei; estas son las f de GersónH4940
+- Núm_3:23las f de Gersón acamparán a espaldas delH4940
+- Núm_3:27de Coat eran la f de los amramitas, laH4940
+- Núm_3:27la f de los izharitas, la f...hebronitasH4940
+- Núm_3:27f de los uzielitas...son las f coatitasH4940
+- Núm_3:29las f de los hijos de Coat acamparán alH4940
+- Núm_3:30el jefe...de las f de Coat, Elizafán hijoH4940
+- Núm_3:33f de los mahlitas y la f de los musitasH4940
+- Núm_3:33los musitas; estas son las f de MerariH4940
+- Núm_3:39que Moisés y Aarón...contaron por sus fH4940
+- Núm_4:2toma la cuenta...hijos de Leví, por sus fH4940
+- Núm_4:18no haréis que perezca...de las f de CoatH4940
+- Núm_4:22número de los hijos de Gersón...por sus fH4940
+- Núm_4:24este será el oficio de las f de GersónH4940
+- Núm_4:28servicio de las f de los hijos de GersónH4940
+- Núm_4:29contarás los hijos de Merari por sus fH4940
+- Núm_4:33servicio de las f de los hijos de MerariH4940
+- Núm_4:34contaron a los hijos de Coat por sus fH4940
+- Núm_4:36fueron los contados...por sus f, 2.750H4940
+- Núm_4:37fueron los contados de las f de CoatH4940
+- Núm_4:38de los hijos de Gersón por sus f, segúnH4940
+- Núm_4:40contados...por sus f, según las casas deH4940
+- Núm_4:41contados de las f de los hijos de GersónH4940
+- Núm_4:42los contados de las f de los hijos deH4940
+- Núm_4:42de Merari, por sus f, según las casas deH4940
+- Núm_4:44los contados de...por sus f, fueron 3.200H4940
+- Núm_4:45contados de las f de los hijos de MerariH4940
+- Núm_4:46Moisés y Aarón y los...contaron por sus fH4940
+- Núm_11:10oyó...al pueblo, que lloraba por sus fH4940
+- Núm_17:3porque cada jefe de f...tendrá una varaH1004
+- Núm_18:31y lo comeréis en...vosotros y vuestra fH1004
+- Núm_20:29hicieron duelo...todas las f de IsraelH1004
+- Núm_25:14jefe de una f de la tribu de SimeónH1004
+- Núm_25:15Zur, príncipe de...padre de f en MadiánH1004
+- Núm_26:5Rubén: de Enoc, la f de los enoquitasH4940
+- Núm_26:5de Rubén...de Falú, la f de los faluitasH4940
+- Núm_26:6de Hezrón, la f de los hezronitas; deH4940
+- Núm_26:6Hezrón...de Carmi, la f de los carmitasH4940
+- Núm_26:7estas son las f de...rubenitas...43:730H4940
+- Núm_26:12de Simeón por sus f: de Nemuel, la fH4940
+- Núm_26:12de Jamín, la f...de Jaquín, la f de losH4940
+- Núm_26:13la f de...de Saúl, la f de los saulitasH4940
+- Núm_26:14son las f de los simeonitas, 22.200H4940
+- Núm_26:15de Gad por sus f: de Zefón, la f de losH4940
+- Núm_26:15de Hagui, la f de...de Suni, la f de losH4940
+- Núm_26:16de Ozni, la f de...de Eri, la f de losH4940
+- Núm_26:17de Arod, la f de...de Areli, la f de losH4940
+- Núm_26:18son las f de Gad; y fueron contados deH4940
+- Núm_26:20de Judá por sus f: de Sela, la f de losH4940
+- Núm_26:20de Fares, la f de...de Zera, la f de losH4940
+- Núm_26:21de Hezrón, la f de...de Hamul, la f deH4940
+- Núm_26:22son las f de Judá, y fueron contados deH4940
+- Núm_26:23los hijos de Isacar por sus f; de TolaH4940
+- Núm_26:23de Tola, la f de...de Fúa, la f de losH4940
+- Núm_26:24de Jasub, la f de...de Simrón, la f deH4940
+- Núm_26:25son las f de Isacar, y fueron contadosH4940
+- Núm_26:26de Zabulón por sus f: de Sered, la f deH4940
+- Núm_26:26de Elón, la f de...de Jahleel, la f deH4940
+- Núm_26:27son las f de los zabulonitas...60.500H4940
+- Núm_26:28los hijos de José por sus f: Manasés yH4940
+- Núm_26:29de Maquir, la f de...de Galaad, la f deH4940
+- Núm_26:30de Jezer, la f de...de Helec, la f deH4940
+- Núm_26:31de Asriel, la f de...de Siquem, la f deH4940
+- Núm_26:32de Semida, la f de...de Hefer, la f deH4940
+- Núm_26:34estas son las f de Manasés; y fueronH4940
+- Núm_26:35de Efraín por sus f: de Sutela, la f deH4940
+- Núm_26:35de Bequer, la f de...de Tahan, la f deH4940
+- Núm_26:36hijos de Sutela: de Erán, la f de losH4940
+- Núm_26:37estas son las f de los hijos de EfraínH4940
+- Núm_26:37estos son los hijos de José por sus fH4940
+- Núm_26:38de Benjamín por sus f: de Bela, la f deH4940
+- Núm_26:38de Asbel, la f de...de Ahiram, la f deH4940
+- Núm_26:39de Sufam la f de...de Hufam, la f de losH4940
+- Núm_26:40de Ard, la f de los...de Naamán, la f deH4940
+- Núm_26:41son los hijos de Benjamín por sus fH4940
+- Núm_26:42de Dan por sus f: de Súham, la f de losH4940
+- Núm_26:42estas son las f de Dan por sus fH4940
+- Núm_26:43las f de los suhamitas fueron...64.400H4940
+- Núm_26:44de Aser por sus f: de Imna, la f de losH4940
+- Núm_26:44de Isúi, la f de los...de Bería, la fH4940
+- Núm_26:45de Heber, la f de...de Malquiel, la fH4940
+- Núm_26:47estas son las f de los hijos de AserH4940
+- Núm_26:48los hijos de Neftalí, por sus f: deH4940
+- Núm_26:48de Jahzeel, la f de...de Guni, la f deH4940
+- Núm_26:49de Jezer, la f de...de Silem, la f deH4940
+- Núm_26:50estas son las f de Neftalí por sus fH4940
+- Núm_26:57de los levitas por sus f son estos: deH4940
+- Núm_26:57de Gersón, la f de los gersonitas; deH4940
+- Núm_26:57de Coat, la f de...de Merari, la f deH4940
+- Núm_26:58son las f de los levitas: la f de losH4940
+- Núm_26:58la f de los hebronitas, la f de losH4940
+- Núm_26:58f de los musitas, la f de los coreítasH4940
+- Núm_27:1de las f de Manasés hijo de José, losH4940
+- Núm_27:4será quitado el nombre de...de entre su fH4940
+- Núm_33:54heredaréis...por sorteo por vuestras fH4940
+- Núm_36:1llegaron...los padres de la f de GalaadH4940
+- Núm_36:1las f de los hijos de José; y hablaronH4940
+- Núm_36:6pero en la f de la tribu de...se casaránH4940
+- Núm_36:8con alguno de la f...se casará, para queH4940
+- Núm_36:12en la f de los hijos de Manasés, hijoH4940
+- Núm_36:12quedó en la tribu de la f de su padreH4940
+- Deu_11:6tragó con sus f, sus tiendas, y todoH1004
+- Deu_12:7y os alegraréis, vosotros y vuestras fH1004
+- Deu_14:26comerás allí...y te alegrarás tú y tu fH1004
+- Deu_15:20los comerás...tú y tu f, en el lugar queH1004
+- Deu_29:18sea que haya...o f o tribu, cuyo corazónH4940
+- Jos_2:18reunirás en...a toda la f de tu padreH1004
+- Jos_7:14por sus f; y la f que Jehová tomare, seH4940
+- Jos_7:17de Judá, fue tomada la f de los de ZeraH4940
+- Jos_7:17haciendo...acercar a la f de los de ZeraH4940
+- Jos_13:15dio, pues, Moisés a...conforme a sus fH4940
+- Jos_13:23la heredad...de Rubén...conforme a sus fH4940
+- Jos_13:24dio...a la tribu de Gad...conforme a sus fH4940
+- Jos_13:28heredad de los hijos de Gad por sus fH4940
+- Jos_13:29heredad...de Manasés, conforme a sus fH4940
+- Jos_13:31de los hijos de Maquir conforme a sus fH4940
+- Jos_15:1, Jos_15:12los hijos de Judá, conforme a sus fH4940
+- Jos_15:20heredad de...los hijos de Judá por sus fH4940
+- Jos_16:5cuanto...de los hijos de Efraín por sus fH4940
+- Jos_17:2(2)hijos de Manasés conforme a sus fH4940
+- Jos_18:11, Jos_18:20hijos de Benjamín conforme a sus fH4940
+- Jos_18:21las ciudades...de Benjamín, por sus fH4940
+- Jos_18:28heredad...de Benjamín conforme a sus fH4940
+- Jos_19:1, Jos_19:8los hijos de Simeón conforme a sus fH4940
+- Jos_19:10, Jos_19:16hijos de Zabulón conforme a sus fH4940
+- Jos_19:17, Jos_19:23los hijos de Isacar conforme a sus fH4940
+- Jos_19:24, Jos_19:31los hijos de Aser conforme a sus fH4940
+- Jos_19:32, Jos_19:39hijos de Neftalí...conforme a sus fH4940
+- Jos_19:40, Jos_19:48de los hijos de Dan conforme a sus fH4940
+- Jos_21:4suerte cayó sobre las f de los coatitasH4940
+- Jos_21:5diez ciudades de las f de la...de EfraínH4940
+- Jos_21:6obtuvieron...las f de la tribu de IsacarH4940
+- Jos_21:7los hijos de Merari según sus f...doceH4940
+- Jos_21:10de las f de Coat, de los hijos de LevíH4940
+- Jos_21:20mas las f de los hijos de Coat, levitasH4940
+- Jos_21:26las ciudades para el resto de las f deH4940
+- Jos_21:27a los hijos de...de las de los levitasH4940
+- Jos_21:33las ciudades...por sus f fueron treceH4940
+- Jos_21:34a las f de los hijos de Merari, levitasH4940
+- Jos_21:40las ciudades de...de Merari por sus fH4940
+- Jos_21:40que restaban de las f de los levitasH4940
+- Jue_1:25dejaron ir a aquel hombre con...su fH4940
+- Jue_5:15-16entre las f de Rubén hubo grandesH6390
+- Jue_6:15que mi f es pobre en Manasés, y yo elH504
+- Jue_6:27temiendo hacerlo...por la f de su padreH1004
+- Jue_9:1Abimelec...habló...con toda la f de la casaH4940
+- Jue_18:11salieron...600 hombres de la f de DanH4940
+- Jue_18:19que seas...de una tribu y f de Israel?[[H4940]]
+- Jue_21:24fueron...cada uno a su tribu y a su fH4940
+- Rut_2:1un pariente...rico de la f de ElimelecH4940
+- Rut_2:3de Booz, el cual era de la f de ElimelecH4940
+- 1Sa_1:21subió el varón Elcana con toda su fH1004
+- 1Sa_9:21mi f...es la más pequeña de todas las fH4940
+- 1Sa_10:21llegar...por sus f...fue tomada la f deH4940
+- 1Sa_18:18¿quién soy yo...o la f de mi padre enH4940
+- 1Sa_20:6su f celebran allá el sacrificio anualH4940
+- 1Sa_20:29porque nuestra f celebra sacrificio enH4940
+- 1Sa_25:6paz a tu f, y paz a todo cuanto tienesH1004
+- 1Sa_27:3Gat, él y sus hombres, cada uno con su fH1004
+- 2Sa_2:3a los hombres que...cada uno con su fH1004
+- 2Sa_9:12la f de la casa de Siba eran siervos deH1004
+- 2Sa_14:7la f se ha levantado contra tu siervaH4940
+- 2Sa_15:16el rey entonces salió, con toda su fH1004
+- 2Sa_15:22y pasó Itai...sus hombres, y toda su fH2945
+- 2Sa_16:2asnos son para que monte la f del reyH1004
+- 2Sa_16:5salía uno de la f de la casa de Saúl, elH4940
+- 2Sa_19:18y cruzaron el vado para pasar a la fH1004
+- 2Sa_19:41han hecho pasar...al rey y a su f, y aH1004
+- 1Re_5:9tú cumplirás...al dar de comer a mi fH1004
+- 1Re_5:11coros de trigo para el sustento de su fH1004
+- 1Re_8:1Salomón reunió...principales de las f deH1121
+- 2Re_8:2ella con su f, y vivió en tierra deH1004
+- 1Cr_2:53y las f de Quiriat-jearim...itritasH4940
+- 1Cr_2:55y las f de los escribas que moraban enH4940
+- 1Cr_4:2en Lahad. Estas son las f de los zoratitasH4940
+- 1Cr_4:8Cos engendró a Anub...y la f de AharhelH4940
+- 1Cr_4:21de los que trabajan lino en Bet-asbeaH4940
+- 1Cr_4:27ni multiplicaron toda su f como...de JudáH4940
+- 1Cr_4:38son los principales entre sus f; y lasH4940
+- 1Cr_5:7hermanos por sus f, cuando eran contadosH4940
+- 1Cr_5:13sus hermanos, según las f de sus padresH1004
+- 1Cr_6:19las f de Leví, según sus descendenciasH4940
+- 1Cr_6:54de los hijos de Aarón por las f de losH4940
+- 1Cr_6:66a las f de...de Coat dieron...de EfraínH4940
+- 1Cr_6:70para los de las f de los hijos de CoatH4940
+- 1Cr_7:2de Tola...Jefes de las f de sus padresH1004
+- 1Cr_7:4en sus linajes, por las f de sus padresH1004
+- 1Cr_7:5sus hermanos por todas las f de IsacarH4940
+- 1Cr_7:9eran jefes de f resultaron 20.200 hombresH1004
+- 1Cr_7:11todos...jefes de f, hombres muy valerosos
+- 1Cr_7:40hijos de Aser, cabezas de f paternasH1004
+- 1Cr_8:10Jeúz...Estos son sus hijos, jefes de f
+- 1Cr_8:13fueron jefes de las f de los...de Ajalón
+- 1Cr_8:28estos fueron jefes principales de f por
+- 1Cr_9:9estos hombres fueron jefes de f en susH1004
+- 1Cr_9:33también había cantores, jefes de f de
+- 1Cr_9:34estos eran jefes de f de los levitas por
+- 1Cr_13:14el arca de Dios...con la f de Obed-edomH1004
+- 1Cr_15:12principales padres de las f de...levitas
+- 1Cr_16:28tributad a Jehová, oh f de los pueblosH4940
+- 1Cr_23:9estos fueron los jefes de...f de Laadán
+- 1Cr_23:11por lo cual fueron contados como una fH1004
+- 1Cr_23:24hijos de Leví en las f de sus padresH1004
+- 1Cr_23:24los...Jefes de f según el censo de ellos
+- 1Cr_26:31repartidos en sus linajes por sus fH8435
+- 1Cr_26:32jefes de f, los cuales el rey David
+- 1Cr_27:1de Israel, jefes de f, jefes de millares
+- 1Cr_28:4de la casa de Judá a la f de mi padreH1004
+- 1Cr_29:6jefes de f...ofrecieron voluntariamente
+- 2Cr_1:2convocó Salomón...Israel jefes de f
+- 2Cr_5:2Salomón reunió...los jefes de las f de losH1121
+- 2Cr_12:15están escritas en el registro de las f?[[H3187]]
+- 2Cr_19:8puso...de los padres de f de Israel, para
+- 2Cr_21:13has dado muerte a...a la f de tu padreH1004
+- 2Cr_22:7Jehú...para que exterminara la f de AcabH1004
+- 2Cr_23:2reunieron...a los príncipes de las f de
+- 2Cr_25:5con arreglo a las f les puso jefes deH1004
+- 2Cr_26:12el número de los jefes de f, valientes
+- 2Cr_35:4preparaos según...f de vuestros padresH1004
+- 2Cr_35:5(2)según la distribución de las f deH1004
+- 2Cr_35:12conforme a los repartimientos de las fH1004
+- Neh_4:13puse al pueblo por f...con sus arcosH4940
+- Neh_7:70y algunos de los cabezas de f dieron
+- Neh_7:71los cabezas de f dieron para el tesoro
+- Neh_8:13reunieron los cabezas de las f de todo
+- Neh_11:13sus hermanos, jefes de f, 242; y Amasai
+- Neh_12:12los sacerdotes jefes de f fueron: de
+- Neh_12:22los levitas...inscritos por jefes de f
+- Neh_12:23de Leví, jefes de f, fueron inscritos
+- Est_9:28celebrados por...las generaciones, fH4940
+- Job_31:34el menosprecio de las f me atemorizóH4940
+- Job_32:2Eliú hijo...de la f de Ram, se encendióH4940
+- Sal_22:27f de las naciones adorarán delanteH4940
+- Sal_68:6hace habitar en f a los desamparadosH1004
+- Sal_96:7tributad a Jehová, oh f le los pueblosH4940
+- Sal_107:41hace multiplicar las f como rebaños deH4940
+- Sal_113:9hace habitar en f a la estéril, que seH1004
+- Pro_31:15comida a su f y ración a sus criadosH1004
+- Pro_31:21no tiene temor de la nieve por su fH1004
+- Pro_31:21toda su f está vestida de ropas doblesH1004
+- Isa_3:6a su hermano, de la f de su padre, yH1004
+- Isa_14:1se unirán...se juntarán a la f de JacobH1004
+- Isa_19:13los que son la piedra angular de sus fH7626
+- Jer_1:15convoco a todas las Y de los reinosH4940
+- Jer_2:4Jacob, y todas las f de la casa de IsraelH1004
+- Jer_3:14tomaré...dos de cada f, y os introduciréH4940
+- Jer_31:1seré por Dios a todas las f de IsraelH4940
+- Jer_33:24f que Jehová escogiera ha desechado?[[H4940]]
+- Jer_35:3hijos, y a toda la f de los recabitasH1004
+- Jer_35:5puse delante de...la f de los recabitasH1004
+- Jer_35:18dijo Jeremías a la f de los recabitasH1004
+- Eze_20:32seamos como...las demás f de la tierraH4940
+- Amó_3:1contra toda la f que hice subir de laH4940
+- Amó_3:2he conocido de todas las f de la tierraH4940
+- Miq_2:3pienso contra esta f un mal del cualH4940
+- Miq_5:2pequeña para estar entre las f de JudáH505
+- Zac_14:17las f...que no subieren a JerusalénH4940
+- Zac_14:18la f de Egipto no subiere y no viniereH4940
+- Mat_10:25si al padre de f llamaron BeelzebúG3617
+- Mat_13:27vinieron...los siervos del padre de fG3617
+- Mat_13:52escriba...es semejante a un padre de fG3617
+- Mat_20:1semejante a un hombre, padre de f, queG3617
+- Mat_20:11y al...murmuraban contra el padre de fG3617
+- Mat_21:33un hombre, padre de f, el cual plantóG3617
+- Mat_24:43si el padre de f supiese a qué hora elG3617
+- Luc_2:4por cuanto era de la casa y f de DavidG3965
+- Luc_12:39si supiese el padre de f a qué hora elG3617
+- Luc_12:52cinco en una f estarán divididos, tresG3624
+- Luc_13:25que el padre de f se haya levantado yG3617
+- Luc_14:21el padre de f, dijo a su siervo: VéG3617
+- Luc_22:11y decid al padre de f de esa casa: ElG3617
+- Hec_3:25benditas todas las f de la tierraG3965
+- Hec_4:6todos los que eran de la f de los sumosG1085
+- Hec_16:15cuando fue bautizada, y su f, nos rogóG3624
+- 1Co_1:16bauticé a la f de Estéfanas; de losG3624
+- 1Co_16:15la f de Estéfanas es las primicias deG3614
+- Gál_6:10hagamos bien...a los de la f de la feG3609
+- Efe_2:19de los santos, y miembros de la f deG3609
+- Efe_3:15toma nombre toda f en los cielos y enG3965
+- 1Ti_5:4a ser piadosos para con su propia fG3624

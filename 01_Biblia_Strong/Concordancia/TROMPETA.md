@@ -1,0 +1,102 @@
+---
+tipo: concordancia
+palabra: TROMPETA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TROMPETA
+
+- Lev_23:24tendréis...conmemoración al son de t
+- Lev_25:9harás tocar...t en el mes séptimo a losH7782
+- Lev_25:9el día de la expiación haréis tocar la tH7782
+- Núm_10:2dos t de plata; de obra de martillo lasH2689
+- Núm_10:8los sacerdotes tocarán las t; y lasH2689
+- Núm_10:9la guerra en...tocaréis alarma con las tH2689
+- Núm_10:10tocaréis...t sobre vuestros holocaustosH2689
+- Núm_29:1el primero...os será día de sonar las t
+- Núm_31:6fue a la guerra...con las t en su manoH2689
+- Jue_7:8habiendo tomado...sus t, envió a todosH7782
+- Jue_7:16todos ellos t en sus manos, y cántarosH7782
+- Jue_7:18yo tocaré la t...vosotros tocaréis...las tH7782
+- Jue_7:19tocaron las t, y quebraron los cántarosH7782
+- Jue_7:20tocaron las t...y en la derecha las t, yH7782
+- Jue_7:22los trescientos tocaban las t; y JehováH7782
+- 1Sa_13:3e hizo Saúl tocar t por todo el paísH7782
+- 2Sa_6:15el arca de...con júbilo y sonido de tH7782
+- 2Sa_15:10cuando oigáis el sonido de la t diréisH7782
+- 2Sa_18:16Joab tocó la t, y el pueblo se volvió deH7782
+- 2Sa_20:1el cual tocó la t, y dijo: No tenemosH7782
+- 2Sa_20:22y él tocó la t, y se retiraron de laH7782
+- 1Re_1:34y tocaréis t, diciendo: ¡Viva el reyH7782
+- 1Re_1:39tocaron t, y dijo todo el pueblo: ¡VivaH7782
+- 1Re_1:41y oyendo Joab el sonido de la t, dijoH7782
+- 2Re_11:14país se regocijaba, y tocaban las t
+- 2Re_12:13mas de aquel dinero...no se hacían...ni tH2689
+- 1Cr_13:8David y...regocijaban...címbalos y tH2689
+- 1Cr_15:24tocaban las t delante del arca de DiosH2689
+- 1Cr_15:28todo Israel el arca..con...t y címbalosH2689
+- 1Cr_16:6sonaban...t delante del arca del pactoH2689
+- 1Cr_16:42a Hemán y a Jedutún con t y címbalosH2689
+- 2Cr_5:12cantores...sacerdotes que tocaban tH2689
+- 2Cr_5:13cuando sonaban...las t, y cantaban todos
+- 2Cr_5:13que alzaban la voz con t y címbalos y
+- 2Cr_7:6sacerdotes tocaban t delante de ellos, y
+- 2Cr_13:12sacerdotes con las t del júbilo paraH2689
+- 2Cr_13:14Judá...y los sacerdotes tocaron las tH2689
+- 2Cr_15:14y juraron a Jehová...al son de t y deH2689
+- 2Cr_20:28a Jerusalén con salterios, arpas y tH2689
+- 2Cr_29:26y los levitas...y los sacerdotes con tH2689
+- 2Cr_29:27comenzó también el cántico...con las tH2689
+- 2Cr_29:28y los trompeteros sonaban las t; todoH2690
+- Esd_3:10con t, y a los levitas hijos de AsafH2689
+- Neh_4:18el que tocaba la t estaba junto a miH7782
+- Neh_4:20el lugar donde oyereis el sonido de la tH7782
+- Neh_12:35iban con t Zacarías hijo de JonatánH2689
+- Neh_12:41los sacerdotes Eliacim...Hananías, con tH2689
+- Job_39:24él...sin importarle el sonido de la tH7782
+- Sal_47:5subió Dios...Jehová con sonido de tH7782
+- Sal_81:3tocad la t en la nueva luna, en el díaH7782
+- Sal_98:6con t y sonidos de bocina, delante delH2689
+- Isa_18:3mirad; y cuando se toque t, escuchadH7782
+- Isa_27:13se tocará con gran t, y vendrán los queH7782
+- Isa_58:1tu voz como t, y anuncia a mi pueblo suH7782
+- Jer_4:5decid: Tocad t en la tierra; pregonadH7782
+- Jer_4:19porque sonido de t has oído, oh alma míaH7782
+- Jer_4:21¿hasta cuándo he de...de oír sonido de t?[[H7782]]
+- Jer_6:17que dijesen: Escuchad al sonido de la tH7782
+- Jer_42:14no veremos guerra, ni oiremos sonido...tH7782
+- Jer_51:27alzad bandera...tocad t en las nacionesH7782
+- Eze_7:14tocarán t, y prepararán...las cosasH8619
+- Eze_33:3él viere...tocare t y avisare al puebloH7782
+- Eze_33:4cualquiera que oyere el sonido de la tH7782
+- Eze_33:5sonido de la t oyó, y no se apercibióH7782
+- Eze_33:6viere venir la espada y no tocare la tH7782
+- Ose_5:8tocad bocina...t en Ramá: sonad alarmaH7782
+- Ose_8:1pon a tu boca t. Como águila...contra laH7782
+- Joe_2:1tocad t en Sion...alarma en mi...monteH7782
+- Joe_2:15tocad t en Sion...convocad asambleaH7782
+- Amó_2:2y morirá Moab...estrépito y sonido de tH7782
+- Amó_3:6¿se tocará la t en la ciudad, y no seH7782
+- Sof_1:16de t y de algazara sobre las ciudadesH7782
+- Zac_9:14Jehová el Señor tocará t, e irá entreH7782
+- Mat_6:2cuando...des limosna, no hagas tocar tG4537
+- Mat_24:31enviará sus ángeles con gran voz de tG4536
+- 1Co_14:8t diere sonido incierto, ¿quién seG4536
+- 1Co_15:52a la final t; porque se tocará la t, yG4536
+- 1Ts_4:16con t de Dios, descenderá del cieloG4536
+- Heb_12:19al sonido de la t, y a la voz queG4536
+- Rev_1:10detrás de mí una gran voz como de tG4536
+- Rev_4:1y la primera voz que oí, como de t...dijoG4536
+- Rev_8:2a los siete ángeles...les dieron siete tG4536
+- Rev_8:6los...que tenían las 7 t se dispusieron aG4536
+- Rev_8:7el primer ángel tocó la t, y hubo granizo
+- Rev_8:8el segundo ángel tocó la t, y como una
+- Rev_8:10tercer ángel tocó la t, y cayó del cielo
+- Rev_8:12el cuarto ángel tocó la t, y fue herida
+- Rev_8:13¡ay, ay...a causa de los otros toques de tG4536
+- Rev_9:1el quinto ángel tocó la t, y...estrella
+- Rev_9:13el sexto ángel tocó la t, y oí una voz
+- Rev_9:14diciendo el sexto ángel que tenía la tG4536
+- Rev_10:7comience a tocar la t, el misterio de
+- Rev_11:15el séptimo ángel tocó la t, y...voces

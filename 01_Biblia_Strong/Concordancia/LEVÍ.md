@@ -1,0 +1,81 @@
+---
+tipo: concordancia
+palabra: LEVÍ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LEVÍ
+
+- 1 Hijo del patriarca Jacob, y la tribu que formó su posteridad
+- Gén_29:34a luz un hijo...llamó su nombre LH3878
+- Gén_34:25Simeón y L...tomaron cada uno su espadaH3878
+- Gén_34:30dijo Jacob a Simeón y a L: Me habéisH3878
+- Gén_35:23Simeón, L, Judá, Isacar y ZabulónH3878
+- Gén_46:11los hijos de L: Gersón, Coat y MerariH3878
+- Gén_49:5Simeón y L son hermanos; armas deH3878
+- Éxo_1:2Rubén, Simeón, L, JudáH3878
+- Éxo_2:1un varón...de L...tomó por mujer a...de LH3878
+- Éxo_6:16son los nombres de los hijos de L porH3878
+- Éxo_6:16los años de la vida de L fueron 137 añosH3878
+- Éxo_6:19son las familias de L por sus linajesH3878
+- Éxo_32:26juntaron con él todos los hijos de LH3878
+- Éxo_32:28los hijos de L lo hicieron conforme alH3878
+- Núm_1:49no contarás la tribu de L, ni tomarásH3878
+- Núm_3:6se acerque la tribu de L, y hazla estarH3878
+- Núm_3:15cuenta los hijos de L según las casas deH3878
+- Núm_3:17hijos de L fueron estos por sus nombresH3878
+- Núm_3:20familias de L, según las casas de susH3881
+- Núm_4:2toma la cuenta...de entre los hijos de LH3878
+- Núm_16:1Coré...hijo de L, y Datán y Abiram hijosH3878
+- Núm_16:7poned fuego...esto os baste, hijos de LH3878
+- Núm_16:8dijo más Moisés...Oíd ahora, hijos de LH3878
+- Núm_16:10hizo acercar...los hijos de L contigo?[[H3878]]
+- Núm_17:3el nombre de Aarón sobre la vara de LH3878
+- Núm_17:8la vara de Aarón de la casa de L habíaH3878
+- Núm_18:2la tribu de L...haz que se acerquen a tiH3878
+- Núm_18:21he dado a los hijos de L...los diezmosH3878
+- Núm_26:59Jocabed, hija de L, que le nació a LH3878
+- Deu_10:8la tribu de L para que llevase el arcaH3878
+- Deu_10:9L no tuvo...ni heredad con sus hermanosH3878
+- Deu_18:1toda la tribu de L, no tendrán parte niH3878
+- Deu_21:5vendrán los sacerdotes...de L, porque aH3878
+- Deu_27:12bendecir al pueblo: Simeón, L, JudáH3878
+- Deu_31:9la dio a los sacerdotes hijos de L, queH3878
+- Deu_33:8a L dijo: Tu Tumim y tu Urim sean paraH3878
+- Jos_13:14pero a la tribu de L no dio heredadH3878
+- Jos_13:33a la tribu de L, no dio Moisés heredadH3878
+- Jos_21:10las familias de Coat, de los hijos de LH3878
+- 1Re_12:31hizo sacerdotes...que no eran...de LH3878
+- 1Cr_2:1los hijos de Israel: Rubén, Simeón, LH3878
+- 1Cr_6:1, 1Cr_6:16los hijos de L: Gersón, Coat y MerariH3878
+- 1Cr_6:19estas son las familias de L, según susH3881
+- 1Cr_6:38hijo de Izhar, hijo de Coat, hijo de LH3878
+- 1Cr_6:43de Jahat, hijo de Gersón, hijo de LH3878
+- 1Cr_6:47hijo de Musi, hijo de Merari, hijo de LH3878
+- 1Cr_9:18entre las cuadrillas de los hijos de LH3878
+- 1Cr_12:26los hijos de L, cuatro mil seiscientosH3878
+- 1Cr_23:6los repartió...conforme a los hijos de LH3878
+- 1Cr_23:14los hijos de Moisés...en la tribu de LH3878
+- 1Cr_23:24son los hijos de L en las familias deH3878
+- 1Cr_23:27se hizo la cuenta de los hijos de L deH3881
+- 1Cr_24:20de los hijos de L que quedaron: SubaelH3878
+- Esd_8:15reuní...no hallé allí de los hijos de LH3878
+- Esd_8:18hijo de L, hijo de Israel; a SerebíasH3878
+- Neh_10:39llevar...los hijos de L la ofrendaH3878
+- Neh_12:23hijos de L, jefes de familias, fueronH3878
+- Sal_135:20casa de L, bendecid a Jehová; losH3878
+- Eze_40:46son llamados de los hijos de L paraH3878
+- Eze_48:31puerta de Judá...la puerta de L, otraH3878
+- Zac_12:13descendientes de la casa de L porH3878
+- Mal_2:4que fuese mi pacto con L, ha dichoH3878
+- Mal_2:8habéis corrompido el pacto de L, diceH3878
+- Mal_3:3limpiará a los hijos de L, los afinaráH3878
+- Heb_7:5que de entre los hijos de L reciben elG3017
+- Heb_7:9en Abraham pagó el diezmo también L, queG3017
+- Rev_7:7de la tribu de L, doce mil selladosG3017
+- 2 Apóstol (=Mateo)
+- Mar_2:14a L hijo de Alfeo, sentado al bancoG3018
+- Luc_5:27L sentado al banco de los tributosG3018
+- Luc_5:29L le hizo gran banquete en su casa; yG3018
+- 3 Nombre de dos ascendientes de Jesucristo, Luc_3:24, Luc_3:30G3017

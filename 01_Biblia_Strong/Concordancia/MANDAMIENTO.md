@@ -1,0 +1,299 @@
+---
+tipo: concordancia
+palabra: MANDAMIENTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MANDAMIENTO
+
+- Gén_26:5guardó...mis m, mis estatutos y misH4687
+- Gén_49:33cuando acabó Jacob de dar m a sus hijosH6680
+- Éxo_6:13y les dio m para los hijos de IsraelH6680
+- Éxo_12:17guardaréis este m...costumbre perpetuaH2708
+- Éxo_12:35hicieron los...conforme al m de MoisésH1697
+- Éxo_15:26dieres oído a sus m, y guardares todosH4687
+- Éxo_16:28¿hasta cuándo no queréis guardar mis mH4687
+- Éxo_17:1Israel partió...conforme al m de JehováH6310
+- Éxo_20:6hago...a los que me aman y guardan mis mH4687
+- Éxo_24:12te daré tablas...m que he escrito paraH4687
+- Éxo_34:28escribió en tablas...pacto, los diez mH1697
+- Lev_4:2pecare por yerro en alguno de los m deH4687
+- Lev_4:13, Lev_4:22, Lev_4:27algo contra alguno de los m deH4687
+- Lev_5:17cosas que por m de Jehová no se han deH4687
+- Lev_22:31guardad, pues, mis m, y cumplidlos. YoH4687
+- Lev_26:3guardareis mis m, y los pusiereis porH4687
+- Lev_26:14si no...ni hiciereis todos estos mis mH4687
+- Lev_26:15no ejecutando...mis m, e invalidando miH4687
+- Lev_27:34son los m que ordenó Jehová a MoisésH4687
+- Núm_14:41¿por qué quebrantáis el m de Jehová?[[H6310]]
+- Núm_15:22no hiciereis todos estos m que JehováH4687
+- Núm_15:31cuanto tuvo en poco...menospreció su mH4687
+- Núm_15:39os acordéis de todos los m de JehováH4687
+- Núm_15:40que os acordéis, y hagáis todos mis mH4687
+- Núm_20:24fuisteis rebeldes a mi m en las aguasH6310
+- Núm_36:13estos son los m...que mandó Jehová porH4687
+- Deu_4:2guardéis los m de Jehová Dios vuestroH4687
+- Deu_4:13él os anunció su pacto...los diez m, y losH1697
+- Deu_4:40guarda...sus m, los cuales yo te mandoH4687
+- Deu_5:10hago...a los que me aman y guardan mis mH4687
+- Deu_5:29me temiesen y guardasen...todos mis mH4687
+- Deu_5:31todos los m...que les enseñarás, a finH4687
+- Deu_6:1m...que Jehová vuestro Dios mandó que osH4687
+- Deu_6:2guardando todos...sus m que yo te mandoH4687
+- Deu_6:17guardad cuidadosamente los m de...DiosH4687
+- Deu_6:25poner por obra todos estos m delante deH4687
+- Deu_7:9y guardan sus m, hasta mil generacionesH4687
+- Deu_7:11guarda, por tanto, los m, estatutos yH4687
+- Deu_8:1poner por obra todo m que yo os ordenoH4687
+- Deu_8:2saber...si hablas de guardar o no sus mH4687
+- Deu_8:6guardarás, pues, los m de Jehová tu DiosH4687
+- Deu_8:11para cumplir sus m, sus decretos y susH4687
+- Deu_10:4escribió en las tablas...los diez m queH1697
+- Deu_10:13guardes los m de Jehová y sus estatutosH4687
+- Deu_11:1guardarás sus...y sus m, todos los díasH4687
+- Deu_11:8guardad...los m que yo os prescribo hoyH4687
+- Deu_11:13obedeciereis...m que yo os prescribo hoyH4687
+- Deu_11:22si guardareis cuidadosamente...estos mH4687
+- Deu_11:27bendición, si oyereis los m de JehováH4687
+- Deu_11:28y la maldición, si no oyereis los m deH4687
+- Deu_13:4guardaréis sus m y escucharéis su vozH4687
+- Deu_13:18guardando...sus m que yo te mando hoyH4687
+- Deu_15:5guardar y cumplir todos estos m que yoH4687
+- Deu_17:20que...ni se aparte del m a diestra niH4687
+- Deu_19:9guardares...estos m que yo te prescriboH4687
+- Deu_26:13no he transgredido tus m, ni...olvidadoH4687
+- Deu_26:17guardarás...sus m y sus decretos, y queH4687
+- Deu_26:18eres pueblo suyo...guardes todos su mH4687
+- Deu_27:1guardaréis...m que yo os prescribo hoyH4687
+- Deu_27:10oirás, pues, la voz...cumplirás sus mH4687
+- Deu_28:1y poner por obra todos sus m que yo teH4687
+- Deu_28:9te confirmará...cuando guardares los mH4687
+- Deu_28:13si obedecieres los m de Jehová tu DiosH4687
+- Deu_28:15para procurar cumplir todos sus m y susH4687
+- Deu_28:45guardar sus m y sus estatutos, que élH4687
+- Deu_30:8y pondrás por obra todos sus m que yoH4687
+- Deu_30:10obedecieres...para guardar sus m y susH4687
+- Deu_30:11porque este m que yo te ordeno hoy noH4687
+- Deu_30:16y guardes sus m, sus estatutos y susH4687
+- Jos_1:18cualquiera que fuere rebelde a tu mH6310
+- Jos_15:13dio...conforme al m de Jehová a JosuéH6310
+- Jos_22:3de guardar los m de Jehová vuestro DiosH4687
+- Jos_22:5cuidéis de cumplir el m y la ley queH4687
+- Jue_2:17padres obedeciendo a los m de JehováH4687
+- Jue_3:4saber si obedecerían a los m de JehováH4687
+- 1Sa_13:13no guardaste el m de Jehová tu DiosH4687
+- 1Sa_15:24pues he quebrantado el m de Jehová yH6310
+- 1Re_2:3guarda...observando sus estatutos y mH4687
+- 1Re_2:43no guardaste...y el m que yo te impuse?[[H4687]]
+- 1Re_3:14guardando mis estatutos y mis m, comoH4687
+- 1Re_6:12guardares todos mis m andando en ellosH4687
+- 1Re_8:58guardemos sus m y sus estatutos y susH4687
+- 1Re_8:61guardando sus m, como en el día de hoyH4687
+- 1Re_9:6y no guardareis mis m y mis estatutosH4687
+- 1Re_11:34y quien guardó mis m y mis estatutosH4687
+- 1Re_11:38guardando...mis m, como hizo David miH4687
+- 1Re_13:21no guardaste el m que Jehová tu DiosH4687
+- 1Re_14:8como David mi siervo, que guardó mis mH4687
+- 1Re_18:18dejando los m de Jehová, y siguiendoH4687
+- 2Re_17:13y guardad mis m y mis ordenanzasH4687
+- 2Re_17:16dejaron todos los m de Jehová su DiosH4687
+- 2Re_17:19ni aún Judá guardó los m de Jehová suH4687
+- 2Re_17:34ni hacen según...los m que prescribióH4687
+- 2Re_17:37y derechos y ley y m que os dio porH4687
+- 2Re_18:6que guardó los m que Jehová prescribióH4687
+- 2Re_18:36había m del rey, el cual había dichoH4687
+- 2Re_23:3guardarían sus m, sus testimonios y susH4687
+- 2Re_23:35dar el dinero conforme al m de FaraónH6310
+- 1Cr_28:7poner por obra mis m y mis decretosH4687
+- 1Cr_29:19que guarde tus m, tus testimonios y tusH4687
+- 2Cr_7:19si dejareis...mis estatutos y m queH4687
+- 2Cr_8:13que ofreciesen...conforme al m de MoisésH4687
+- 2Cr_8:15no se apartaron del m del rey, en cuantoH4687
+- 2Cr_14:4Judá...pusiese por obra la ley y sus mH4687
+- 2Cr_17:4anduvo en sus m, y no según las obrasH4687
+- 2Cr_24:20¿por qué quebrantáis los m de Jehová?[[H4687]]
+- 2Cr_29:15conforme al m del rey y las palabrasH4687
+- 2Cr_29:25levitas en la...conforme al m de DavidH4687
+- 2Cr_29:25aquel m procedía de Jehová por medioH4687
+- 2Cr_31:13por m del rey Ezequías y de AzaríasH4662
+- 2Cr_31:21de acuerdo con...los m, buscó a su DiosH4687
+- 2Cr_34:31pacto de caminar...y de guardar sus mH4687
+- 2Cr_35:10en sus turnos, conforme al m del reyH4687
+- 2Cr_35:15conforme al m de David, de Asaf y deH4687
+- 2Cr_35:16pascua, conforme al m del rey JosíasH4687
+- Esd_7:11versado en los m de Jehová y en susH4687
+- Esd_9:10¿qué...Porque nosotros hemos dejado tus mH4687
+- Esd_9:14¿hemos de volver a infringir tus m, y aH4687
+- Esd_10:3de los que temen el m de nuestro DiosH4687
+- Neh_1:5a los que le aman y guardan sus mH4687
+- Neh_1:7y no hemos guardado los m, estatutos yH4687
+- Neh_1:9guardareis mis m, y los pusiereis porH4687
+- Neh_9:13diste juicios...y estatutos y m buenosH4687
+- Neh_9:14les prescribiste m, estatutos y la leyH4687
+- Neh_9:16endurecieron su...y no escucharon tus mH4687
+- Neh_9:29no oyeron tus m, sino que pecaron contraH4687
+- Neh_9:34ni atendieron a tus m y a...testimoniosH4687
+- Neh_10:29y cumplirían todos los m, decretos yH4687
+- Neh_11:23porque había m del rey acerca de ellosH4687
+- Est_2:8que cuando se divulgó el m y decretoH1697
+- Est_3:3preguntaron a...¿Por qué traspasas el mH4687
+- Est_3:14la copia del escrito que se dio por mH1881
+- Est_4:3donde el m del rey y su decreto llegabaH1697
+- Est_8:17en cada ciudad donde llegó el m del reyH1697
+- Est_9:1cuando debía ser ejecutado el m del reyH1697
+- Est_9:32m de Ester confirmó estas celebracionesH3982
+- Job_23:12del m de sus labios nunca me separéH4687
+- Job_39:27¿se remonta el águila por tu m, y poneH6310
+- Sal_19:8m de Jehová son rectos, que alegranH4687
+- Sal_71:3tú has dado m para salvarme, porque túH6680
+- Sal_78:7y no se olviden de...que guarden sus mH4687
+- Sal_89:31profanaren mis...y no guardaren mis ir mH4687
+- Sal_103:18y los que se acuerdan de sus m paraH6490
+- Sal_111:7son verdad y...fieles son todos sus mH6490
+- Sal_111:10tienen todos los que practican sus m
+- Sal_112:1y en sus m se deleita en gran maneraH4687
+- Sal_119:4encargaste que sean...guardados tus mH6490
+- Sal_119:6no sería yo...cuando atendiese a...tus mH4687
+- Sal_119:10buscado; no me dejes desviarme de tus mH4687
+- Sal_119:15en tus m meditaré; consideraré tusH6490
+- Sal_119:19en la tierra; no encubras de mí tus mH4687
+- Sal_119:21reprendiste...que se desvían de tus mH4687
+- Sal_119:27hazme entender el camino de tus mH6490
+- Sal_119:32por el camino de tus m correré, cuandoH4687
+- Sal_119:35guíame por la senda de tus m, porqueH4687
+- Sal_119:40he anhelado tus m; vivifícame en tuH6490
+- Sal_119:45y andaré en libertad...busqué tus mH6490
+- Sal_119:47y me regocijaré en tus m, los cualesH4687
+- Sal_119:48alzaré...mis manos a tus m que améH4687
+- Sal_119:56bendiciones tuve porque guardé tus mH6490
+- Sal_119:60me...y no me retardé en guardar tus mH4687
+- Sal_119:63todos los que te temen y guardan tus mH6490
+- Sal_119:66y sabiduría, porque tus m he creídoH4687
+- Sal_119:69mas yo guardaré de todo corazón tus mH6490
+- Sal_119:73hazme entender, y aprenderé tus mH4687
+- Sal_119:78calumniado; pero yo meditaré en tus mH6490
+- Sal_119:86todos tus m son verdad; sin causa meH4687
+- Sal_119:87casi me han...pero no he dejado tus mH6490
+- Sal_119:93jamás me olvidaré de tus m, porqueH6490
+- Sal_119:94soy, sálvame, porque he buscado tus mH6490
+- Sal_119:96he visto...amplio sobremanera es tu mH4687
+- Sal_119:98me has hecho más sabio que...con tus mH4687
+- Sal_119:100entendido, porque he guardado tus mH6490
+- Sal_119:104de tus m he adquirido inteligenciaH6490
+- Sal_119:110lazo...pero yo no me desvié de tus mH6490
+- Sal_119:115pues yo guardaré los m de mi DiosH4687
+- Sal_119:127por eso he amado tus m más que el oroH4687
+- Sal_119:128por eso estimé rectos todos tus mH6490
+- Sal_119:131abrí y suspiré, porque deseaba tus mH4687
+- Sal_119:134líbrame de la...y guardaré tus mH6490
+- Sal_119:141pequeño...no me he olvidado de tus mH6490
+- Sal_119:143de mí, mas tus m fueron mi deliciaH4687
+- Sal_119:151oh Jehová, y todos tus m son verdadH4687
+- Sal_119:159mira, oh Jehová, que amo tus mH6490
+- Sal_119:166Jehová, y tus m he puesto por obraH4687
+- Sal_119:168he guardado tus m y tus testimoniosH6490
+- Sal_119:172porque todos tus m son justiciaH4687
+- Sal_119:173socorrerme, porque tus m he escogidoH6490
+- Sal_119:176porque no me he olvidado de tus mH4687
+- Pro_2:1palabras, y mis m guardares dentro deH4687
+- Pro_3:1no te olvides...tu corazón guarde mis mH4687
+- Pro_4:4retenga tu...mis razones, guarda mis m, yH4687
+- Pro_6:20guarda, hijo mío, el m de tu padre, yH4687
+- Pro_6:23porque el m es lámpara, y la enseñanzaH4687
+- Pro_7:1hijo mío, guarda...atesora contigo mis mH4687
+- Pro_7:2guarda mis m y vivirás, y mi ley como lasH4687
+- Pro_8:29para que las aguas no traspasen sus mH6310
+- Pro_10:8el sabio de corazón recibirá los m; masH4687
+- Pro_13:13mas el que teme el m será recompensadoH4687
+- Pro_19:16que guarda el m guarda su alma; masH4687
+- Ecl_8:2que guardes el m del rey y la palabraH6310
+- Ecl_8:5el que guarda el m no experimentará malH4687
+- Ecl_12:13es este: Teme a Dios, y guarda sus mH4687
+- Isa_28:10, Isa_28:13m tras m, mandato sobre mandatoH6673
+- Isa_29:13y su temor de mí no es más que un m deH4687
+- Isa_48:18oh, si hubieras atendido a mis m! FueraH4687
+- Jer_35:14no lo han bebido...por obedecer al mH4687
+- Jer_35:16tuvieron por firme el m que les dio suH4687
+- Jer_35:18obedecisteis al m de...y guardasteis...mH4687, [[[[H4687]]]]
+- Lam_1:17dio m contra Jacob, que sus vecinosH6680
+- Eze_5:6desecharon mis decretos y mis m, y noH2708
+- Eze_5:7no habéis andado en mis m, ni...guardadoH2708
+- Dan_9:4con los que te aman y guardan tus mH4687
+- Dan_9:5y nos hemos apartado de tus m y de tusH4687
+- Miq_6:16los m de Omri se han guardado, y todaH2708
+- Mal_2:1sacerdotes, para vosotros es este mH4687
+- Mal_2:4y sabréis que yo os envié este m, paraH4687
+- Mat_5:19quebrante uno de estos m muy pequeñosG1785
+- Mat_15:3¿por qué...quebrantáis el m de Dios porG1785
+- Mat_15:6así habéis invalidado el m de Dios porG1785
+- Mat_15:9enseñando como doctrinas, m de hombresG1778
+- Mat_19:17si quieres entrar en la...guarda los mG1785
+- Mat_22:36Maestro, ¿cuál es el gran m en la ley?[[G1785]]
+- Mat_22:38este es el primero y grande mG1785
+- Mat_22:40de estos dos m depende toda la ley yG1785
+- Mar_7:7enseñando como doctrinas m de hombresG1778
+- Mar_7:8dejando el m de Dios, os aferráis a laG1785
+- Mar_7:9bien invalidáis el m de Dios para guardarG1785
+- Mar_10:5por la dureza de...os escribió este mG1785
+- Mar_10:19los m sabes: No adulteres. No matesG1785
+- Mar_12:28le preguntó: ¿Cuál es el primer m deG1785
+- Mar_12:29el primer m de todos es: Oye, IsraelG1785
+- Mar_12:30y amarás al Señor...es el principal mG1785
+- Mar_12:31amarás a tu...No hay otro m mayor queG1785
+- Luc_1:6andaban irreprensibles en todos los mG1785
+- Luc_18:20los m sabes: No adulterarás; no matarásG1785
+- Luc_23:56descansaron el día de...conforme al mG1785
+- Jua_10:18a tomar. Este m recibí de mi PadreG1785
+- Jua_12:49me dio m de lo que he de decir, y deG1785
+- Jua_12:50sé que su m es vida eterna. Así puesG1785
+- Jua_13:34un m nuevo os doy: Que os améis unos aG1785
+- Jua_14:15si me amáis, guardad mis mG1785
+- Jua_14:21el que tiene mis m, y los guarda, éseG1785
+- Jua_15:10si guardareis mis m, permaneceréis enG1785
+- Jua_15:10como yo he guardado los m de mi PadreG1785
+- Jua_15:12este es mi m: Que os améis unos a otrosG1785
+- Hec_1:2haber dado m por el Espíritu Santo aG1781
+- Rom_7:8el pecado, tomando ocasión por el mG1785
+- Rom_7:9venido el m, el pecado revivió y yo moríG1785
+- Rom_7:10hallé que el mismo m que era para vidaG1785
+- Rom_7:11el pecado, tomando ocasión por el m, meG1785
+- Rom_7:12es santa, y el m santo, justo y buenoG1785
+- Rom_7:13fin de que por el m el pecado llegase aG1785
+- Rom_13:9cualquier otro m...se resume: Amarás aG1785
+- Rom_16:26según el m del Dios eterno, se ha dadoG2003
+- 1Co_7:6digo por vía de concesión, no por mG2003
+- 1Co_7:19nada es, sino el guardar los m de DiosG1785
+- 1Co_7:25en cuanto a las vírgenes no tengo m delG2003
+- 1Co_14:37que lo que os escribo son m del SeñorG1785
+- Efe_2:15ley de los m expresados en ordenanzasG1785
+- Efe_6:2honra a...que es el primer m con promesaG1785
+- Col_2:22en conformidad a m y doctrinas deG1778
+- Col_4:10acerca del cual habéis recibido m; siG1785
+- 1Ti_1:5el propósito de este m es el amorG3852
+- 1Ti_1:18este m, hijo Timoteo, te encargo, paraG3852
+- 1Ti_6:14guardes el m sin mácula ni reprensiónG1785
+- Tit_1:14ni a m de hombres que se apartan deG1785
+- Heb_7:5tienen m de tomar los diezmos según laG1785
+- Heb_7:16no constituido conforme a la ley del mG1785
+- Heb_7:18queda...abrogado el m anterior a causa deG1785
+- Heb_9:19anunciado Moisés todos los m de la leyG1785
+- Heb_11:22por la fe José...m acerca de sus huesosG1785
+- 2Pe_2:21volverse atrás del santo m que lesG1785
+- 2Pe_3:2y del m del Señor y Salvador dado porG1785
+- 1Jn_2:3en esto sabemos...si guardamos sus mG1785
+- 1Jn_2:4dice: Yo le conozco, y no guarda sus mG1785
+- 1Jn_2:7no os escribo m nuevo, sino el m antiguoG1785
+- 1Jn_2:7este m antiguo es la palabra que...oídoG1785
+- 1Jn_2:8os escribo un m nuevo, que es verdaderoG1785
+- 1Jn_3:22guardamos sus m, y hacemos las cosas queG1785
+- 1Jn_3:23este es su m: Que creamos en el nombreG1785
+- 1Jn_3:24el que guarda sus m, permanece en DiosG1785
+- 1Jn_4:21tenemos este m de él: El que ama a DiosG1785
+- 1Jn_5:2cuando amamos a Dios, y guardamos sus mG1785
+- 1Jn_5:3que guardemos sus m...m no son gravososG1785
+- 2Jn_1:4conforme al m que recibimos del PadreG1785
+- 2Jn_1:5no como escribiéndote un nuevo m, sino elG1785
+- 2Jn_1:6que andemos según sus m. Este es el m; queG1785, [[[[G1785]]]]
+- Rev_12:17que guardan los m de Dios y tienenG1785
+- Rev_14:12los que guardan los m de Dios y la feG1785

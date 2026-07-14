@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: SOMBRA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SOMBRA
+
+- Gén_19:8pues que vinieron a la s de mi tejadoH6738
+- Jue_9:15venid, abrigaos bajo de mi s; y si noH6738
+- Jue_9:36tú ves la s de los montes como si fueranH6738
+- 2Re_20:9ha dicho: ¿Avanzará la s diez gradosH6738
+- 2Re_20:10fácil cosa es que la s decline 10 gradosH6738
+- 2Re_20:10no que la s vuelva atrás diez gradosH6738
+- 2Re_20:11e hizo volver la s por los grados queH6738
+- 1Cr_29:15nuestros días...cual s que no duraH6738
+- Job_3:5aféenlo tinieblas y s de muerte; reposeH6757
+- Job_7:2como el siervo suspira por la s, y comoH6738
+- Job_8:9nuestros días sobre la tierra como s queH6738
+- Job_10:21la tierra de tinieblas y de s de muerteH6757
+- Job_10:22s de muerte y sin orden, y cuya luz esH6738
+- Job_12:22descubre...y saca a luz la s de muerteH6757
+- Job_14:2sale...y huye como la s y no permaneceH6738
+- Job_17:7ojos...mis pensamientos todos son como sH6738
+- Job_24:17mañana es para...ellos como s de muerteH6757
+- Job_24:17si...terrores de s de muerte los tomanH6757
+- Job_26:5s tiemblan en lo profundo, los mares y
+- Job_28:3las piedras que hay en...en s de muerteH6757
+- Job_34:22no hay tinieblas ni s de muerte dondeH6757
+- Job_38:17visto las puertas de la s de muerte?[[H6757]]
+- Job_40:21echará debajo de las s, en lo ocultoH6628
+- Job_40:22los árboles sombríos lo cubren con su sH6752
+- Sal_17:8ojos; escóndeme bajo la s de tus alasH6738
+- Sal_23:4aunque ande en valle de s de muerte, noH6757
+- Sal_36:7los hombres se amparan bajo la s de tusH6738
+- Sal_39:6como una s es el hombre...vano se afana
+- Sal_44:19nos...y nos cubrieses con s de muerteH6757
+- Sal_57:1y en la s de tus alas me ampararé hastaH6738
+- Sal_63:7y así en la s de tus alas me regocijaréH6738
+- Sal_80:10los montes fueron cubiertos de su sH6738
+- Sal_91:1el que habita...bajo la s del OmnipotenteH6738
+- Sal_102:11mis días son como s que se va, y me heH6738
+- Sal_107:10moraban en tinieblas y s de muerteH6757
+- Sal_107:14los sacó...de la s de muerte, y rompióH6738
+- Sal_109:23me voy como la s cuando declina; soyH6738
+- Sal_121:5Jehová es tu...es tu s a tu mano derechaH6788
+- Sal_144:4el hombre...sus días son como la s queH6738
+- Ecl_6:12los días...los cuales él pasa como s?[[H6738]]
+- Ecl_8:13ni...prolongados los días, que son como sH6738
+- Cnt_2:3bajo la s del deseado me senté, y suH6738
+- Cnt_2:17; Cnt_4:6hasta que apunte el día y huyan...sH6752
+- Isa_4:6habrá un abrigo para s contra el calorH6738
+- Isa_9:2los que moraban en tierra de s de muerteH6757
+- Isa_16:3pon tu s en medio del día como la nocheH6738
+- Isa_18:1¡ay de la tierra que hace s con las alasH6767
+- Isa_25:4s contra el calor; porque el ímpetu deH6738
+- Isa_30:2y poner su esperanza en la s de EgiptoH6738
+- Isa_30:3el amparo en la s de Egipto en confusiónH6738
+- Isa_32:2será...como s de gran peñasco en tierraH6738
+- Isa_38:8haré volver la s por los grados que haH6738
+- Isa_49:2me cubrió con la s de su mano; y me pusoH6738
+- Isa_51:16la s de mi mano te cubrí...extendiendoH6738
+- Jer_2:6condujo...tierra seca y de s de muerteH6756
+- Jer_6:4que las s de la tarde se han extendidoH6752
+- Jer_13:16os la vuelva en s de muerte y tinieblasH6756
+- Jer_48:45a la s de Hesbón se pararon sin fuerzasH6738
+- Lam_4:20habíamos dicho: A su s tendremos vidaH6738
+- Eze_17:23aves...a la s de sus ramas habitaránH6738
+- Eze_31:6aves...y a su s habitaban muchas nacionesH6738
+- Eze_31:12se irán de su s...pueblos de la tierraH6738
+- Eze_31:17los que estuvieron a su s en medio deH6738
+- Dan_4:12se ponían a la s las bestias del campoH2927
+- Ose_4:13debajo de...olmos que tuviesen buena sH6738
+- Ose_14:7volverán y se sentarán bajo su s; seránH6738
+- Joe_2:2día de nube y de s, que sobre los montesH6205
+- Jon_4:5se sentó debajo de ella a la s, hastaH6738
+- Jon_4:6calabacera que hiciese s sobre su cabezaH6738
+- Mat_4:16los asentados en región de s de muerteG4639
+- Mar_4:32que las aves...pueden morar bajo su sG4639
+- Mar_9:7vino una nube que les hizo s, y desde laG1982
+- Luc_1:35poder del Altísimo te cubrirá con su sG1982
+- Luc_1:79luz a los que habitan en...s de muerteG4639
+- Hec_5:15lo menos su s cayese sobre alguno deG4639
+- Col_2:17lo cual es s de lo que ha de venirG4639
+- Heb_8:5sirven a lo que es figura y s de lasG4639
+- Heb_10:1teniendo la s de los bienes veniderosG4639
+- Stg_1:17en el cual no hay, ni s de variaciónG644

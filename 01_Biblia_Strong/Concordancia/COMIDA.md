@@ -1,0 +1,81 @@
+---
+tipo: concordancia
+palabra: COMIDA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# COMIDA
+
+- Véase también Comer
+- Gén_42:25saco, y les diesen c para el caminoH6720
+- Gén_45:23pan y c, para su padre en el caminoH4202
+- Éxo_12:39tenido tiempo ni para prepararse cH6720
+- Éxo_16:22sexto día recogieron doble porción de cH3899
+- Deu_2:28la c me venderás por dinero, y comeréH400
+- Deu_8:3te sustentó con maná, c que no conocías
+- Deu_8:16maná...c, que...padres no habían conocido
+- Deu_28:26y tus cadáveres servirán de c a todaH3978
+- Jos_1:11preparaos c, porque dentro de 3 díasH6720
+- Jue_14:14dijo: Del devorador salió c, y delH3978
+- Jue_17:10yo te daré diez siclos...vestidos y cH4241
+- 2Sa_13:10trae la c a la alcoba, para que yoH1279
+- 1Re_10:5la c de su mesa, las habitaciones deH3978
+- 1Re_19:8fortalecido con aquella c caminó 40 díasH396
+- 2Re_6:23entonces se les preparó una gran cH3740
+- 2Re_25:30le fue dada su c de parte del rey, deH737
+- Esd_3:7dieron...c, bebida y aceite a...tiriosH3978
+- Job_20:14su c se mudará en sus entrañas; hielH3899
+- Job_20:23la hará llover sobre él y sobre su cH3894
+- Job_23:12las palabras de su boca más que mi c
+- Job_33:20vida aborrezca el pan, y su alma la cH3978
+- Job_38:41Dios, y andan errantes por falta de c?[[H6718]]
+- Sal_69:21me pusieron además hiel por c, y enH1267
+- Sal_74:14lo diste por c a los moradores delH3978
+- Sal_78:18tentaron a Dios...pidiendo c a su gustoH400
+- Sal_78:25pan de nobles...envió c hasta saciarlesH6720
+- Sal_78:30su anhelo, aún estaba la c en su bocaH400
+- Sal_79:2dieron los cuerpos...por c a las aves deH3978
+- Sal_104:21la presa, para buscar de Dios su cH400
+- Sal_104:27esperan en ti, para que les des su cH400
+- Sal_145:15en ti, y tú les das su c a su tiempoH400
+- Pro_6:8prepara en el verano su c, y recoge enH3899
+- Pro_15:17mejor es la c de legumbres donde hayH737
+- Pro_30:25hormigas...en el verano preparan su cH3899
+- Pro_31:15se levanta aun de...y da c a su familiaH2964
+- Isa_62:8jamás daré tu trigo por c...enemigosH3978
+- Jer_7:33los cuerpos...c de las aves del cieloH3978
+- Jer_16:4; Jer_19:7sus cuerpos...c a las aves del cieloH3978
+- Jer_34:20sus cuerpos muertos serán c de las avesH3978
+- Lam_1:11dieron por la c...sus cosas preciosasH400
+- Lam_1:19buscando c para si con que entretener suH400
+- Lam_4:10sus propios hijos les sirvieron de c enH1262
+- Eze_4:10c que comerás será de peso de veinteH3978
+- Eze_29:5a las aves del cielo te he dado por cH402
+- Eze_34:10mis ovejas...y no les serán más por cH402
+- Eze_39:4a aves de rapiña de...te he dado por cH402
+- Dan_1:5señaló el rey...de la provisión de la cH6598
+- Dan_1:8no contaminarse con...la c del rey, ni conH6598
+- Dan_1:10que señaló vuestra c y vuestra bebidaH3978
+- Dan_1:13los muchachos que comen...de la c del reyH6598
+- Dan_1:15que el de los...que comían...c del reyH6598
+- Dan_1:16se llevaba la porción de la c de ellosH6598
+- Ose_11:4el yugo...y puse delante de ellos la cH398
+- Hab_1:16con ellas engordó...y engrasó su cH3978
+- Hag_2:12ella tocare pan...o cualquier otra cH3978
+- Mat_3:4su c era langostas y miel silvestreG5160
+- Mat_22:4he aquí, he preparado mi c; mis torosG712
+- Luc_12:23la vida es más que la c, y el cuerpoG5160
+- Luc_14:12cuando hagas c o cena, no llames a tusG712
+- Jua_4:32tengo una c que comer, que vosotros noG1035
+- Jua_4:34mi c es que haga la voluntad del que meG1033
+- Jua_6:27la c que perece, sino...la c que a vidaG1035
+- Jua_6:55mi carne es verdadera c, y mi sangre esG1035
+- Rom_14:15si por causa de la c tu hermano esG1033
+- Rom_14:15no hagas que por la c tuya se pierdaG1033
+- Rom_14:17el reino de Dios no es c ni bebida, sinoG1035
+- Rom_14:20no destruyas la obra...por causa de la cG1033
+- 1Co_8:13si la c es a mi...ocasión de caerG1033
+- Col_2:16nadie os juzgue en c o en bebida, oG1035
+- Heb_9:10ya que consiste sólo de c y bebidasG1033
+- Heb_12:16como Esaú, que por una sola c vendióG1035

@@ -1,0 +1,91 @@
+---
+tipo: concordancia
+palabra: MEDIO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MEDIO, A
+
+- Véase también el Apéndice
+- Gén_24:22dio...un pendiente...que pesaba m sicloH1235
+- Gén_35:16había aún como m legua de tierra paraH3530
+- Gén_48:7como m legua de tierra viniendo a EfrataH3530
+- Éxo_25:10cuya longitud será de dos codos y mH2677
+- Éxo_25:10de codo y m, y su altura de codo y mH2677
+- Éxo_25:17cuya longitud será de dos codos y m, y suH2677
+- Éxo_25:17longitud será...su anchura de codo y mH2677
+- Éxo_25:23una mesa de...y su altura de codo y mH2677
+- Éxo_26:16cada tabla será...de codo y m la anchuraH2677
+- Éxo_30:13esto dará...m siclo, conforme al sicloH4276
+- Éxo_30:15ni...ni el pobre disminuirá del m sicloH4276
+- Éxo_36:21de cada tabla...de codo y m la anchuraH2677
+- Éxo_37:1arca...su longitud era de dos codos y mH2677
+- Éxo_37:1de codo y m, y su altura de codo y mH2677
+- Éxo_37:6propiciatorio...longitud de dos codos y mH2677
+- Éxo_37:6propiciatorio...su anchura de codo y mH2677
+- Éxo_37:10hizo...la mesa...de codo y m se alturaH2677
+- Éxo_38:26m siclo por cabeza según el sido delH4276
+- Lev_25:49o si sus m alcanzaren...se rescatará
+- Núm_12:12nace muerto...m consumida su carneH2677
+- Núm_28:14sus libaciones...m hin con cada becerroH2677
+- Núm_32:33dio...a la m tribu de Manasés hijo deH2677
+- Núm_34:13mandó Jehová que diese...a la m tribuH2677
+- Núm_34:14la m tribu de Manasés, han tomado suH2677
+- Núm_34:15dos tribus y m tomaron su heredad aH2677
+- Deu_3:13Galaad...lo di a la m tribu de ManasésH2677
+- Deu_3:16límite el m del valle, hasta el arroyoH8432
+- Deu_29:8la dimos por...a la m tribu de ManasésH2677
+- Jos_1:12habló Josué...a la m tribu de ManasésH2677
+- Jos_4:12la m tribu de Manasés pasaron armadoH2677
+- Jos_12:6aquella tierra...a la m tribu de ManasésH2677
+- Jos_13:7reparte, pues...a la m tribu de ManasésH2677
+- Jos_13:29dio...heredad a la m tribu de ManasésH2677
+- Jos_13:29fue para la m tribu de los...de ManasésH2677
+- Jos_14:2diera a las nueve tribus y a la m tribuH2677
+- Jos_14:3m tribu les había dado Moisés heredadH2677
+- Jos_18:7m tribu de Manasés, ya han recibido suH2677
+- Jos_21:5diez ciudades...de la m tribu de ManasésH2677
+- Jos_21:6la m tribu de Manasés...trece ciudadesH2677
+- Jos_21:25la m tribu de Manasés, Taanac con susH4276
+- Jos_21:27la m tribu de Manasés a Golán en BasánH2677
+- Jos_22:1Josué llamó a...a la m tribu de ManasésH2677
+- Jos_22:7la m tribu de Manasés había dado MoisésH2677
+- Jos_22:9y la m tribu de Manasés, se volvieranH2677
+- Jos_22:10la m tribu de Manasés edificaron allíH2677
+- Jos_22:11la m tribu...habían edificado un altarH2677
+- Jos_22:13enviaron...a la m tribu de Manasés enH2677
+- Jos_22:15cuales fueron...a la m tribu de ManasésH2677
+- Jos_22:21y la m tribu de Manasés respondieronH2677
+- 1Sa_14:14espacio de una m yugada de tierraH2677
+- 2Sa_14:14que provee m para no alejar de síH4284
+- 1Re_7:31hechura del remate, y...de codo y mH2677
+- 1Re_7:32altura de cada rueda era de un codo y mH2677
+- 1Re_7:35una pieza redonda de m codo de alturaH2677
+- 2Re_5:19fue...caminó como m legua de tierraH3530
+- 1Cr_5:18de la m tribu de Manasés...valientesH2677
+- 1Cr_5:23la m tribu de Manasés, multiplicados enH2677
+- 1Cr_5:26transportó a...a la m tribu de ManasésH2677
+- 1Cr_6:61dieron...diez ciudades de la m tribu deH2677
+- 1Cr_6:70de la m tribu de Manasés, Aner con susH4276
+- 1Cr_6:71la m tribu de Manasés, Golán en BasánH2677
+- 1Cr_12:31de la m tribu de Manasés, 18.000 queH2677
+- 1Cr_12:37de la m tribu de Manasés, 120.000 conH2677
+- 1Cr_26:32constituyó sobre...la m tribu de ManasésH2677
+- 1Cr_27:20de la m tribu de Manasés, Joel hijo deH2677
+- 1Cr_27:21la otra m tribu de Manasés...Iddo hijoH2677
+- Job_36:31que por esos m castiga a los pueblos
+- Eze_40:42un codo y m de longitud, y codo y mH2677
+- Eze_43:17y de m codo el borde alrededor; y laH2677
+- Dan_7:25hasta tiempo, y tiempos, y m tiempoH6387
+- Ose_3:2la compré...por...un homer y m de cebadaH3963
+- Luc_10:30le despojaron...dejándole m muertoG2253
+- Rev_8:1silencio en el cielo como por m horaG2256
+- Rev_11:9verán sus cadáveres por tres días y mG2255
+- Rev_11:11después de tres días y m entró en ellosG2255
+- MEDIO
+- [Entrada procedente del Apéndice]
+- Gn 1.6; 2.9; 3.3; 9.21; 19.29; 23.9; 24.22; 37.7; 38.20; 45.6, 7; 48.16 Éx 3.2, 4; 4.13; 7.5; 8.22; 9.35; 11.4; 12.31; 14.16, 22, 27, 29; 15.8, 19; 23.25; 24.16, 18; 25.8, 10(3), 17(2), 23; 26.16, 28(2); 28.32; 29.46; 30.13, 15; 31.14; 33.3, 5, 11; 34.9, 10, 12; 35.29; 36.21, 33(2); 37.1(3), 6(2), 10; 38.26; 39.23 Lv 8.36; 10.11; 16.16; 17.5; 22.32; 26.11 Nm 2.17; 4.37, 45, 49; 5.21, 27; 9.23; 10.13; 11.20, 21; 12.12; 13.32; 14.11, 13, 14, 42, 44; 15.23, 30; 16.3, 33, 37, 40, 45, 47; 18.20; 19.6; 25.7; 28.14; 33.8; 35.5, 34(2); 36.13 Dt 2.14, 15; 3.16; 4.3, 5, 11, 12, 15, 33, 34, 36; 5.4, 22, 23, 24, 26; 6.15; 7.21; 9.10; 10.4; 11.3, 6; 13.1, 5, 11, 13, 14, 16; 15.4, 7, 11; 16.11; 17.2, 7, 12, 20; 18.15, 18; 19.2, 10, 19, 20; 21.9, 21; 22.21, 24; 23.10, 14, 16; 24.7; 26.11; 28.43, 54; 29.11, 16, 18; 30.1; 31.16, 17; 32.47, 51(2) Jos 1.11; 3.10, 11, 17; 4.3, 8, 9, 10, 18; 7.12, 13(2), 21, 23; 8.9, 22; 9.7, 16, 22; 10.13; 12.2; 13.9, 16; 16.9, 10; 19.1, 9, 49; 20.2; 21.2, 41; 24.5 Jue 1.29, 30; 9.37, 51; 12.4; 16.29; 18.20; 20.42 1 S 9.14, 18; 10.23; 11.7, 11; 16.13, 20; 17.23; 18.10; 25.29; 28.7, 15, 17 2 S 1.25; 3.27; 6.17; 12.25; 15.36; 18.14; 23.12, 20; 24.5 1 R 3.8, 25; 6.6, 8(3), 13, 19, 27; 7.31, 32, 35; 8.51, 53, 64; 12.15; 14.7; 16.12; 18.24; 20.39 2 R 3.11; 4.13; 5.1; 6.20; 9.36; 17.13(2), 23, 26; 21.10 1 Cr 4.23; 11.3, 14, 22; 16.1 2 Cr 1.17; 6.13; 7.6; 17.6; 18.6; 20.14; 29.25; 33.8; 34.14; 35.6; 36.15 Esd 4.15; 9.11 Neh 4.11; 9.11, 30 Est 1.12, 15; 3.13; 8.10 Job 2.8; 15.19 Sal 22.14, 22; 40.8; 44.5; 46.5; 48.9; 55.10, 11, 15; 57.6; 68.25; 74.4, 5, 12; 78.28; 82.1; 91.6; 101.2; 109.30; 110.2; 116.19; 135.9; 136.11, 14; 137.2; 138.7 Pr 4.21; 5.14; 8.20; 12.3; 14.33; 23.34; 30.19 Is 4.4; 5.2, 8, 25; 6.5, 12; 7.6, 22; 10.23; 12.6; 16.3; 19.3, 14, 19, 24; 20.2; 24.13(2), 18; 25.11; 29.18, 23; 41.18; 42.3; 52.11; 58.9; 61.9; 63.11 Jer 4.14; 6.1; 9.6; 12.14, 16; 18.21; 21.4; 30.21; 34.18; 37.4, 12; 39.3; 40.5, 6; 44.7; 46.21; 48.45; 50.1, 8, 37; 51.6, 20(2), 21(2), 22(3), 23(3), 39, 45, 47, 63 Lm 1.15; 3.45; 4.13 Ez 1.1, 4, 5, 16; 5.2, 4, 5, 8, 10, 12, 17; 6.7, 13; 7.4, 9; 8.11; 9.4(3); 10.2, 7, 10; 11.7(2), 9, 11, 19, 23; 12.2, 10, 12, 24; 13.14; 14.8, 9, 14, 16, 18, 20; 15.4; 17.16; 18.18; 19.10; 20.8, 9; 22.3, 7, 9, 13, 18, 19, 20, 21, 22(2), 25(2), 26, 27; 23.39; 24.7; 26.5, 12, 15; 27.25, 26, 27(2), 32, 34; 28.2, 8, 14, 18, 22, 23, 24; 29.3, 4, 21; 31.17; 32.21, 25(2); 34.12, 24; 36.23; 37.1, 27, 28; 39.7; 40.42(2); 41.7; 42.5, 6; 43.9, 17; 46.10; 47.18; 48.8, 10, 15, 21 Dn 2.43; 3.15, 25, 26; 4.10; 7.15, 25; 9.10 Os 1.2; 3.2; 5.4; 6.5; 11.9; 12.10 Jl 2.27 Am 2.3; 3.9(2); 5.17; 6.4; 7.8, 10, 17 Jon 2.3 Miq 2.12; 5.7, 8, 10, 13, 14; 6.14 Nah 3.13 Hab 3.2(2) Sof 3.3, 5, 11, 12, 15, 17 Hag 1.1, 3; 2.1, 5, 10 Zac 2.4, 5, 10, 11; 4.12; 5.4, 7; 7.7, 12; 8.3, 8; 14.1, 4 Mal 1.1 Mt 1.22; 2.15; 10.16; 14.6, 24; 18.2, 20 Mc 3.3; 6.47; 9.36; 14.60 Lc 2.46; 4.30, 35; 5.19; 6.8; 10.3, 30; 16.9; 21.21; 22.55; 24.36 Jn 1.17(2), 26; 8.3, 9, 59; 19.18; 20.19, 26 Hch 1.15; 2.22; 4.7; 10.36; 13.38; 15.12; 17.3, 22, 33; 20.29; 23.10; 27.21; 28.25 Ro 1.20; 3.20, 22, 25, 30; 5.1; 7.13; 8.37; 12.2; 15.18 1 Co 3.5; 4.15; 5.2; 8.6(2); 15.57 2 Co 1.4, 11, 20; 2.14; 4.15; 5.20; 6.17; 8.8; 9.11 Gl 3.19; 4.7 Ef 1.5; 2.8, 18; 3.6, 10, 12 Flp 1.11; 2.15(2) Col 1.16, 20, 22; 2.8, 14; 3.17 1 Ts 1.6; 2.2; 3.7(2); 5.9 2 Ts 2.7; 3.14 Tit 1.3 Heb 1.3; 2.2, 12, 14; 4.7; 9.26; 13.15 1 P 2.5 2 P 1.4 2 Jn 12 Ap 1.1, 13; 2.1, 7; 5.6(2); 6.6; 7.17; 8.13; 11.9, 11; 12.11; 14.6; 19.17; 22.2
+- MEDIA
+- [Entrada procedente del Apéndice]
+- Gn 35.16; 48.7 Nm 32.33; 34.13, 14, 15 Dt 3.13; 29.8 Jos 1.12; 4.12; 12.6; 13.7, 29(2); 14.2, 3; 18.7; 21.5, 6, 25, 27; 22.1, 7, 9, 10, 11, 13, 15, 21 1 S 14.14 2 R 5.19 1 Cr 5.18, 23, 26; 6.61, 70, 71; 12.31, 37; 26.32; 27.20, 21 Esd 6.2 Est 1.3, 14, 18, 19; 10.2 Is 21.2 Jer 25.25; 51.11, 28 Dn 5.31; 6.8, 12, 15; 8.20 Ap 8.1

@@ -1,0 +1,170 @@
+---
+tipo: concordancia
+palabra: PEDRO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PEDRO
+
+- Apóstol (=Simón No. 2 y Cefas)
+- Mat_4:18Jesús...vio a dos hermanos, Simón...PG4074
+- Mat_8:14Jesús a casa de P, y vio a la suegra deG4074
+- Mat_10:2primero Simón, llamado P, y Andrés suG4074
+- Mat_14:28respondió P, y dijo: Señor, si eres túG4074
+- Mat_14:29y descendiendo P de la barca, andabaG4074
+- Mat_15:15P, le dijo: Explícanos esta parábolaG4074
+- Mat_16:16respondiendo Simón P, dijo: Tú eres elG4074
+- Mat_16:18yo también te digo, que tú eres P, yG4074
+- Mat_16:22entonces P, tomándolo aparte, comenzóG4074
+- Mat_16:23pero él...dijo a P: ¡Quítate de delanteG4074
+- Mat_17:1tomó a P, a Jacobo y a Juan su hermanoG4074
+- Mat_17:4P dijo a Jesús: Señor, bueno es paraG4074
+- Mat_17:24vinieron a P los que cobraban las dosG4074
+- Mat_17:26P le respondió: De los extraños. JesúsG4074
+- Mat_18:21le acercó P y le dijo: Señor, ¿cuántasG4074
+- Mat_19:27P, le dijo: He aquí, nosotros lo hemosG4074
+- Mat_26:33P, le dijo: Aunque...escandalicen de tiG4074
+- Mat_26:35P le dijo: Aunque...sea necesario morirG4074
+- Mat_26:37y tomando a P, y a los dos hijos deG4074
+- Mat_26:40a P: ¿Así que no habéis podido velarG4074
+- Mat_26:58P le seguía de lejos hasta el patio delG4074
+- Mat_26:69P estaba sentado fuera en el patioG4074
+- Mat_26:73dijeron a P...tú eres de ellos, porqueG4074
+- Mat_26:75P se acordó de las palabras de JesúsG4074
+- Mar_3:16a Simón, a quien...por sobrenombre PG4074
+- Mar_5:37que le siguiese nadie sino P, JacoboG4074
+- Mar_8:29respondiendo P, le...Tú eres el CristoG4074
+- Mar_8:32P le tomó...y comenzó a reconvenirleG4074
+- Mar_8:33reprendió a P, diciendo: ¡Quítate deG4074
+- Mar_9:2Jesús tomó a P, a Jacobo y a Juan, y losG4074
+- Mar_9:5entonces P dijo a Jesús: Maestro, buenoG4074
+- Mar_10:28entonces P comenzó a decirle: He aquíG4074
+- Mar_11:21P, acordándose, le dijo: Maestro, miraG4074
+- Mar_13:3P, Jacobo, Juan...le preguntaron aparteG4074
+- Mar_14:29P le dijo: Aunque...escandalicen, yo noG4074
+- Mar_14:33tomó consigo a P, a Jacobo, y a JuanG4074
+- Mar_14:37y dijo a P: Simón, ¿duermes? ¿No hasG4074
+- Mar_14:54P le siguió de lejos hasta dentro delG4074
+- Mar_14:66estando P abajo, en el patio, vino unaG4074
+- Mar_14:67a P que se calentaba, mirándole, dijoG4074
+- Mar_14:70dijeron...a P: Verdaderamente tu eresG4074
+- Mar_14:72P se acordó de las palabras que JesúsG4074
+- Mar_16:7pero id, decid...a P, que él va delanteG4074
+- Luc_5:8viendo esto Simón P, cayó de rodillasG4074
+- Luc_6:14a Simón, a quien también llamó P aG4074
+- Luc_8:45dijo P...Maestro, la multitud te aprietaG4074
+- Luc_8:51dejó entrar a nadie consigo, sino a PG4074
+- Luc_9:20respondiendo P, dijo: El Cristo de DiosG4074
+- Luc_9:28tomó a P, a Juan y a Jacobo, y subió alG4074
+- Luc_9:32P y los que...estaban rendidos de sueñoG4074
+- Luc_9:33P dijo a Jesús: Maestro, bueno es paraG4074
+- Luc_12:41P le dijo: Señor, ¿dices esta parábolaG4074
+- Luc_18:28P dijo...hemos dejado...posesiones y teG4074
+- Luc_22:8Jesús envió a P y a Juan, diciendo: IdG4074
+- Luc_22:34P, te digo que el gallo no cantará hoyG4074
+- Luc_22:54le condujeron...Y P le seguía de lejosG4074
+- Luc_22:55fuego...y P se sentó también entre ellosG4074
+- Luc_22:58eres de...Y P dijo: Hombre, no lo soyG4074
+- Luc_22:60y P dijo: Hombre, no sé lo que dicesG4074
+- Luc_22:61el Señor, miró a P; y P se acordó deG4074
+- Luc_22:62P, saliendo fuera, lloró amargamenteG4074
+- Luc_24:12levantándose P, corrió al sepulcroG4074
+- Jua_1:40Andrés, hermano de Simón P, era unoG4074
+- Jua_1:42serás llamado Cefas (que quiere decir, P)[[G4074]]
+- Jua_1:44de Betsaida, la ciudad de Andrés y PG4074
+- Jua_6:8uno...Andrés, hermano de Simón P...le dijoG4074
+- Jua_6:68le respondió P: Señor, ¿a quién iremos?[[G4074]]
+- Jua_13:6vino a Simón P; y P le dijo: Señor, ¿túG4074
+- Jua_13:8P le dijo: No me lavarás los pies jamásG4074
+- Jua_13:9dijo Simón P: Señor, no sólo mis piesG4074
+- Jua_13:24a éste, pues, hizo señas Simón P, paraG4074
+- Jua_13:36le dijo Simón P: Señor, ¿a dónde vas?[[G4074]]
+- Jua_13:37le dijo P: Señor, ¿por qué no te puedoG4074
+- Jua_18:10P, que tenía una espada, la desenvainóG4074
+- Jua_18:11Jesús...dijo a P: Mete tu espada en laG4074
+- Jua_18:15y seguían a Jesús...P y otro discípuloG4074
+- Jua_18:16mas P estaba fuera, a la puerta. SalióG4074
+- Jua_18:16habló a la portera, e hizo entrar a PG4074
+- Jua_18:17criada...dijo a P: ¿No eres tú tambiénG4074
+- Jua_18:18y también con ellos estaba P en pieG4074
+- Jua_18:25estaba, pues, P en pie, calentándoseG4074
+- Jua_18:26aquel a quien P había cortado la orejaG4074
+- Jua_18:27negó P otra vez; y en seguida cantó elG4074
+- Jua_20:2a Simón P y al otro discípulo, aquel aG4074
+- Jua_20:3salieron P y el otro discípulo, y fueronG4074
+- Jua_20:4otro discípulo corrió más aprisa que PG4074
+- Jua_20:6luego llegó Simón P tras él, y entró enG4074
+- Jua_21:2estaban juntos Simón P, Tomás llamadoG4074
+- Jua_21:3Simón P les dijo: Voy a pescar. EllosG4074
+- Jua_21:7a P: ¡Es el Señor! Simón P, cuando oyóG4074
+- Jua_21:11subió Simón P, y sacó la red a tierraG4074
+- Jua_21:15Jesús dijo a...P: Simón, hijo de JonásG4074
+- Jua_21:16P le respondió: Sí, Señor; tú sabes queG4074
+- Jua_21:17P se entristeció de que le dijese laG4074
+- Jua_21:20volviéndose P, vio que les seguía elG4074
+- Jua_21:21cuando P le vio, dijo a Jesús: SeñorG4074
+- Hec_1:13aposento...donde moraban P y JacoboG4074
+- Hec_1:15P se levantó en medio de los hermanosG4074
+- Hec_2:14P, poniéndose en pie con los once, alzóG4074
+- Hec_2:37dijeron a P y a los otros apóstolesG4074
+- Hec_2:38P les dijo: Arrepentíos, y bautíceseG4074
+- Hec_3:1P y Juan subían juntos al templo a laG4074
+- Hec_3:3vio a P y a Juan que iban a entrar en elG4074
+- Hec_3:4P, con Juan, fijando en él los ojos, leG4074
+- Hec_3:6P dijo: No tengo plata ni oro, pero loG4074
+- Hec_3:11teniendo asidos a P y a Juan el cojo queG4074
+- Hec_3:12viendo...P, respondió al pueblo: VaronesG4074
+- Hec_4:8P, lleno del Espíritu Santo, les dijoG4074
+- Hec_4:13viendo el denuedo de P...y sabiendo queG4074
+- Hec_4:19mas P y Juan respondieron diciéndolesG4074
+- Hec_5:3dijo P: Ananías, ¿por qué llenó SatanásG4074
+- Hec_5:8P le dijo: Dime, ¿vendisteis en tanto laG4074
+- Hec_5:9y P le dijo: ¿Por qué convinisteis enG4074
+- Hec_5:15que al pasar P...su sombra cayese sobreG4074
+- Hec_5:29respondiendo P y...dijeron: Es necesarioG4074
+- Hec_8:14apóstoles...enviaron allá a P y a JuanG4074
+- Hec_8:20P le dijo: Tu dinero perezca contigoG4074
+- Hec_9:32que P, visitando a todos, vino tambiénG4074
+- Hec_9:34y le dijo P: Eneas, Jesucristo te sanaG4074
+- Hec_9:38oyendo que P estaba allí, le enviaronG4074
+- Hec_9:39levantándose entonces P, fue con ellosG4074
+- Hec_9:40sacando a todos, P se puso de rodillasG4074
+- Hec_9:40y ella abrió los ojos y al ver a P, seG4074
+- Hec_10:5a Simón, el que tiene por sobrenombre PG4074
+- Hec_10:9P subió a la azotea para orar, cerca deG4074
+- Hec_10:13le vino una voz: Levántate, P, mata yG4074
+- Hec_10:14P dijo: Señor, no; porque ninguna cosaG4074
+- Hec_10:17mientras P estaba perplejo dentro deG4074
+- Hec_10:18un Simón que tenía por sobrenombre PG4074
+- Hec_10:19y mientras P pensaba en la visión, leG4074
+- Hec_10:21P, descendiendo a donde estaban losG4074
+- Hec_10:25P entró, salió Cornelio a recibirle, yG4074
+- Hec_10:26mas P le levantó, diciendo: LevántateG4074
+- Hec_10:32Simón el que tiene por sobrenombre PG4074
+- Hec_10:34P, abriendo la boca, dijo: En verdadG4074
+- Hec_10:44mientras aún hablaba P estas palabrasG4074
+- Hec_10:45los fieles de...que habían venido con PG4074
+- Hec_10:47respondió P: ¿Puede...alguno impedir elG4074
+- Hec_11:2P subió a Jerusalén, disputaban con élG4074
+- Hec_11:4P a contarles por orden lo sucedidoG4074
+- Hec_11:7voz que me decía! Levántate, P, mata yG4074
+- Hec_11:13Simón, el que tiene por sobrenombre PG4074
+- Hec_12:3viendo...procedió a prender también a PG4074
+- Hec_12:5P estaba custodiado en la cárcel; peroG4074
+- Hec_12:6estaba P durmiendo entre dos soldadosG4074
+- Hec_12:7tocando a P en el costado, le despertóG4074
+- Hec_12:11P, volviendo en sí, dijo: Ahora entiendoG4074
+- Hec_12:13cuando llamó P a la puerta del patioG4074
+- Hec_12:14cuando reconoció la voz de P, de gozoG4074
+- Hec_12:14la nueva de que P estaba a la puertaG4074
+- Hec_12:16mas P persistía en llamar; y cuandoG4074
+- Hec_12:18alboroto...sobre qué había sido de PG4074
+- Hec_15:7después de mucha discusión, P se levantóG4074
+- Gál_1:18años, subí a Jerusalén para ver a PG4074
+- Gál_2:7encomendado...a P el de la circuncisiónG4074
+- Gál_2:8el que actuó en P para el apostolado deG4074
+- Gál_2:11cuando P vino a Antioquía, le resistíG4074
+- Gál_2:14dije a P...Si tú, siendo judío, vivesG4074
+- 1Pe_1:1P, apóstol...a los expatriados de laG4074
+- 2Pe_1:1P, siervo y apóstol de Jesucristo, aG4074

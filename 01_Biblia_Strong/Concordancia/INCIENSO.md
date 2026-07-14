@@ -1,0 +1,133 @@
+---
+tipo: concordancia
+palabra: INCIENSO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# INCIENSO
+
+- Éxo_25:6para el aceite...y para el i aromáticoH7004
+- Éxo_30:1un altar para quemar el i; de madera deH7004
+- Éxo_30:7y Aarón quemará i aromático sobre élH7004
+- Éxo_30:8cuando Aarón encienda las...quemará el iH6999
+- Éxo_30:9no ofreceréis sobre él i extraño, niH7004
+- Éxo_30:27la mesa...el candelero...el altar del iH7004
+- Éxo_30:34toma especias aromáticas...e i puro; deH3828
+- Éxo_30:35harás de ello el i, un perfume según elH7004
+- Éxo_30:37como este i que harás, no os haréis otroH7004
+- Éxo_31:8el candelero limpio, y...el altar del iH7004
+- Éxo_31:11aceite...i aromático para el santuarioH7004
+- Éxo_35:8, Éxo_35:28el aceite de la unción, y para el iH7004
+- Éxo_35:15el altar del i y sus varas, el aceiteH7004
+- Éxo_35:15el i aromático, la cortina de la puertaH7004
+- Éxo_37:25el altar del i, de madera de acacia; deH7004
+- Éxo_37:29el i puro, aromático, según el arte delH7004
+- Éxo_39:38el altar...el i aromático, la cortinaH7004
+- Éxo_40:5el altar de oro para el i delante delH7004
+- Éxo_40:27y quemó sobre él i aromático, comoH7004
+- Lev_2:1echará aceite, y pondrá sobre ella iH3828
+- Lev_2:2de harina y del aceite, con todo el iH3828
+- Lev_2:15y pondrás sobre ella i; es ofrendaH3828
+- Lev_2:16arder...parte del grano...con todo el iH3828
+- Lev_4:7sobre los cuernos del altar del i, queH7004
+- Lev_5:11ni sobre ella pondrá i...es expiaciónH3828
+- Lev_6:15tomará...el i que está sobre la ofrendaH3828
+- Lev_10:1sobre el cual pusieron i, y ofrecieronH7004
+- Lev_24:7pondrás también sobre cada hilera iH3828
+- Núm_4:16el i aromático, la ofrenda continuaH7004
+- Núm_5:15ni pondrá sobre ella i...es ofrenda deH3828
+- Núm_7:14, Núm_7:20, Núm_7:26, Núm_7:32, Núm_7:38, Núm_7:44, Núm_7:50, Núm_7:56, Núm_7:62, Núm_7:68, Núm_7:74, Núm_7:80una cuchara de oro...llena de iH7004
+- Núm_7:86las doce cucharas de oro llenas de i, deH7004
+- Núm_16:7y poned en ellos i delante de JehováH7004
+- Núm_16:17poned i...y acercaos delante de JehováH7004
+- Núm_16:18y echaron en ellos i, y se pusieronH7004
+- Núm_16:35consumió a los...hombres que ofrecían iH7004
+- Núm_16:40se acerque para ofrecer i delante deH7004
+- Núm_16:46toma...y sobre él pon i, y vé pronto aH7004
+- Núm_16:47puso i, e hizo expiación por el puebloH7004
+- Deu_33:10ellos...pondrán el i delante de ti, yH6988
+- 1Sa_2:28que ofreciese...y quemase i, y llevaseH7004
+- 1Re_3:3Salomón...quemaba i en, lugares altosH6999
+- 1Re_9:25quemaba i sobre el que estaba delanteH6999
+- 1Re_11:8las cuales quemaba i y...a sus diosesH6999
+- 1Re_12:33hizo...y subió al altar para quemar iH6999
+- 1Re_13:1Jeroboam junto al altar para quemar iH6999
+- 1Re_13:2los sacerdotes...que queman sobre ti iH6999
+- 1Re_22:43porque el pueblo...quemaba i en ellosH6999
+- 2Re_12:3el pueblo...quemaba i en los lugaresH6999
+- 2Re_14:4el pueblo aún...quemaba i en esos lugaresH6999
+- 2Re_15:4, 2Re_15:35aún...quemaba i en los lugares altosH6999
+- 2Re_16:4quemó i en los lugares altos, y sobreH6999
+- 2Re_17:11y quemaron allí i en todos los lugaresH6999
+- 2Re_18:4hasta entonces le quemaban i los hijosH6999
+- 2Re_22:17me dejaron a mí, y quemaron i a diosesH6999
+- 2Re_23:5para que quemasen i en los lugares altosH6999
+- 2Re_23:5los que quemaban i a Baal, al sol y aH6999
+- 2Re_23:8profanó los lugares...donde...quemaban iH6999
+- 1Cr_6:49el altar del perfume quemaban i, yH7004
+- 1Cr_9:29tenían el cargo...del i y de las especiasH3828
+- 1Cr_23:13para que quemasen i delante de JehováH6999
+- 1Cr_28:18oro puro en peso para el altar del iH7004
+- 2Cr_2:4para quemar i aromático delante deH7004
+- 2Cr_2:6sino tan sólo para quemar i delante de él?
+- 2Cr_13:11queman para Jehová...y el i aromáticoH7004
+- 2Cr_25:14dioses de los hijos de Seir...quemó iH6999
+- 2Cr_26:16templo...para quemar i en el altar del iH6999, [[H7004]]
+- 2Cr_26:18no te corresponde a ti, oh...el quemar iH6999
+- 2Cr_26:19Uzías...un incensario para ofrecer iH6999
+- 2Cr_26:19lepra le brotó...junto al altar del iH7004
+- 2Cr_28:3quemó...i en el valle de los hijos deH6999
+- 2Cr_28:4quemó i en los lugares altos, en losH6999
+- 2Cr_28:25hizo...para quemar i a los dioses ajenosH6999
+- 2Cr_29:7no quemaron i, ni sacrificaron...en elH7004
+- 2Cr_29:11seáis sus ministros, y le queméis iH6999
+- 2Cr_30:14quitaron...todos los altares de i, y losH6999
+- 2Cr_32:12este solo altar...sobre él quemaréis i?[[H6999]]
+- Neh_13:5gran cámara, en la cual guardaban...iH3828
+- Neh_13:9hice volver allí...las ofrendas y el iH3828
+- Sal_141:2mi oración delante de ti como el iH7004
+- Cnt_3:6sube...sahumada de mirra y de i y deH3828
+- Cnt_4:6me iré al monte de...y al collado del iH3828
+- Cnt_4:14todos los árboles de i: mirra y áloesH3828
+- Isa_1:13el i me es abominación; luna nueva yH7004
+- Isa_43:23no te hice servir con ofrenda, ni...iH3828
+- Isa_60:6traerán oro e i, y publicarán alabanzasH3828
+- Isa_65:3me provoca...quemando i sobre ladrillosH6999
+- Isa_65:7los cuales quemaron i sobre los montesH6999
+- Isa_66:3el que quema i, como si bendijese a unH3828
+- Jer_6:20¿para qué a mí este i de Sabá, y laH3828
+- Jer_11:12a los dioses a quienes queman ellos iH6999
+- Jer_11:13pusiste los altares...ofrecer i a BaalH6999
+- Jer_17:26trayendo holocausto...y ofrenda e i, yH3828
+- Jer_19:4ofrecieron en él i a dioses ajenos, losH6999
+- Jer_19:13sobre cuyos tejados ofrecieron i a todoH6999
+- Jer_32:29sobre cuyas azoteas ofrecieron i a BaalH6999
+- Jer_41:5ofrenda e i para llevar a la casa deH3828
+- Jer_44:3ofrecer i, honrando a dioses ajenos queH6999
+- Jer_44:5para dejar de ofrecer i a dioses ajenosH6999
+- Jer_44:8enojar...ofreciendo i a dioses ajenos enH6999
+- Jer_44:15sus mujeres habían ofrecido i a diosesH6999
+- Jer_44:17para ofrecer i a la reina del cieloH6999
+- Jer_44:18que dejamos de ofrecer i a la reina delH6999
+- Jer_44:19ofrecimos i a la reina del cielo, yH6999
+- Jer_44:21y no ha venido a su memoria el i queH7002
+- Jer_44:23ofrecisteis i y pecasteis contra JehováH6999
+- Jer_44:25de ofrecer i a la reina del cielo yH6999
+- Jer_48:35exterminaré...a quien ofrezca i a susH6999
+- Eze_6:13donde ofrecieron i a todos sus ídolosH5207, [[H7381]]
+- Eze_8:11setenta...y subía una nube espesa de iH7004
+- Eze_16:18aceite y mi i pusiste delante de ellasH7004
+- Eze_20:28allí pusieron también su i agradableH5207, [[H7381]]
+- Eze_20:41como i agradable os aceptaré, cuandoH5207, [[H7381]]
+- Eze_23:41y sobre ella pusiste mi i y mi aceiteH7004
+- Dan_2:46mandó que le ofreciesen presentes e iH5208
+- Mal_1:11en todo lugar se ofrece a mi nombre iH6999
+- Mat_2:11ofrecieron presentes: oro, i y mirraG3030
+- Luc_1:9tocó en suerte ofrecer el i, entrandoG2370
+- Luc_1:10estaba fuera orando a la hora del iG2368
+- Luc_1:11un ángel...a la derecha del altar del iG2368
+- Rev_5:8copas de oro llenas de i, que son lasG2368
+- Rev_8:3se le dio mucho i para añadirlo a lasG2368
+- Rev_8:4a la presencia de Dios el humo del i conG2368
+- Rev_18:13i, mirra, olíbano, vino, aceite, florG3030

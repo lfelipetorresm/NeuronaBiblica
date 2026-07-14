@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: COPA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# COPA
+
+- Gén_40:11la c de Faraón estaba en mi mano, yH3563
+- Gén_40:11y las exprimía en la c...y daba yo la cH3563
+- Gén_40:13y darás la c a Faraón en su mano, comoH3563
+- Gén_40:21jefe...dio éste la c en mano de FaraónH3563
+- Gén_44:2pondrás mi c, la c de plata, en la bocaH1375
+- Gén_44:4¿por qué habéis robado mi c de plata
+- Gén_44:9aquel de...en quien fuere hallada la c
+- Gén_44:12c fue hallada en el costal de BenjamínH1375
+- Gén_44:16aquel en cuyo poder fue hallada la cH1375
+- Gén_44:17el varón en cuyo poder fue hallada la cH1375
+- Éxo_25:31su caña, sus c, sus manzanas y susH1375
+- Éxo_25:33(2)tres c en forma de flor de almendroH1375
+- Éxo_25:34en la caña central del candelero 4 cH1375
+- Éxo_37:17sus c, sus manzanas y sus flores eranH1375
+- Éxo_37:19en un brazo, tres c...otro brazo tres cH1375
+- Éxo_37:20y en la caña del candelero había 4 cH1375
+- Núm_4:7y pondrán...c y los tazones para libarH4518
+- 2Sa_5:24oigas ruido como de marcha por las cH3563
+- 1Cr_14:15oigas venir un estruendo por las cH3563
+- 1Cr_28:17oro...para las c y para las tazas deH4219
+- Job_14:9reverdecerá...hará c como planta nuevaH7105
+- Sal_16:5Jehová es la porción de...y de mi cH3563
+- Sal_23:5unges mi cabeza con...mi c está rebosandoH3563
+- Sal_116:13tomaré la c de la salvación, c invocaréH3563
+- Pro_23:31cuando resplandece su color en la cH3599
+- Jer_25:15toma de mi mano la c del vino deH3563
+- Jer_25:17tomé la c de la mano de Jehová, y diH3563
+- Jer_25:28y si no quieren tomar la c de tu manoH3563
+- Jer_35:5puse...tazas y c llenas de vino, y lesH3563
+- Jer_51:7c de oro fue Babilonia en la mano deH3563
+- Jer_52:19c, ollas, candeleros, escudillas...oroH4219
+- Lam_4:21hija de Edom...hasta ti llegará la cH3563
+- Eze_31:3altura, y su c estaba entre densasH6788
+- Eze_31:14ni levanten su c entre la espesura, niH6788
+- Dan_4:11su c llegaba hasta el cielo, y se leH7314
+- Dan_4:20y cuya c llegaba hasta el cielo, y queH7314
+- Ose_7:5rey...lo hicieron enfermar con c de vinoH2534
+- Zac_12:2yo pongo a Jerusalén por c que haráH5592
+- Mat_26:27tomando la c...dio, diciendo: BebedG4221
+- Mat_26:39mío, si es posible, pase de mí esta cG4221
+- Mat_26:42si no puede pasar de mí esta c sin queG4221
+- Mar_14:23tomando la c...dado gracias, les dioG4221
+- Mar_14:36aparta de mí esta c; mas no lo que yoG4221
+- Luc_22:17habiendo tomado la c, dio gracias, yG4221
+- Luc_22:20tomó la c, diciendo: Esta c es...pactoG4221
+- Luc_22:42Padre, si quieres, pasa de mí esta cG4221
+- Jua_18:11la c que el Padre me ha dado, ¿no laG4221
+- 1Co_10:16la c de bendición que bendecimosG4221
+- 1Co_10:21no podéis beber la c del Señor, y la cG4221
+- 1Co_11:25también la c, después de haber cenadoG4221
+- 1Co_11:25esta c es el nuevo pacto en mi sangreG4221
+- 1Co_11:26bebiereis esta c, la muerte del SeñorG4221
+- 1Co_11:27que comiere...o bebiere esta c del SeñorG4221
+- 1Co_11:28y coma así del pan, y beba de la cG4221
+- Rev_5:8todos tenían arpas, y c de oro llenasG5357
+- Rev_15:7dio a los siete ángeles siete c de oroG5357
+- Rev_16:1derramad sobre la tierra las siete c deG5357
+- Rev_16:2fue...y derramó su c sobre la tierra, yG5357
+- Rev_16:3el segundo ángel derramó su c sobre elG5357
+- Rev_16:4el tercer ángel derramó su c sobre losG5357
+- Rev_16:8el cuarto ángel derramó su c sobre elG5357
+- Rev_16:10el quinto ángel derramó su c sobre elG5357
+- Rev_16:12ángel derramó su c sobre el...EufratesG5357
+- Rev_16:17derramó su c por el aire; y salió unaG5357
+- Rev_17:1; Rev_21:9uno de los...que tenían las siete cG5357

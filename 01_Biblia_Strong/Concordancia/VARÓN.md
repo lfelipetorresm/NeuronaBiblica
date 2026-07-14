@@ -1,0 +1,624 @@
+---
+tipo: concordancia
+palabra: VARÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VARÓN
+
+- Gén_1:27creó Dios al hombre...v y hembra losH2145
+- Gén_2:23será llamada Varona...del v fue tomadaH802
+- Gén_4:1por voluntad de Jehová he adquirido vH376
+- Gén_4:23un v mataré por mi herida, y un jovenH376
+- Gén_5:2v y hembra los creó; y los bendijo, yH2145
+- Gén_6:4desde la antigüedad fueron v de renombreH582
+- Gén_6:9Noé, v...era perfecto en sus generacionesH376
+- Gén_9:5del v su hermano demandaré la vida delH120
+- Gén_14:24la parte de los v que fueron conmigoH582
+- Gén_17:10circuncidado todo v de entre vosotrosH2145
+- Gén_17:12de ocho días será circuncidado todo vH2145
+- Gén_17:14el v incircunciso, el que no hubiereH2145
+- Gén_17:23a todo v entre los domésticos de laH2145
+- Gén_17:27y todos los v de su casa, el siervoH582
+- Gén_18:2he aquí tres v que estaban junto a élH582
+- Gén_18:16los v se levantaron de allí...SodomaH582
+- Gén_18:22se apartaron de allí los v, y fueronH582
+- Gén_19:4rodearon la casa los, los v de SodomaH582
+- Gén_19:5¿dónde están los v que vinieron a tiH582
+- Gén_19:8tengo dos hijas que no han conocido vH376
+- Gén_19:8que a estos v no hagáis nada, pues queH582
+- Gén_19:9hacían gran violencia al v, a Lot, y seH376
+- Gén_19:10los v alargaron la mano, y metieron aH582
+- Gén_19:12y dijeron los v a Lot: ¿Tienes aquíH582
+- Gén_19:16los v asieron de su mano, y de la manoH582
+- Gén_19:31y no queda v en la tierra que entre aH376
+- Gén_24:13las hijas de los v de...salen por aguaH582
+- Gén_24:16virgen, a la que v no había conocidoH376
+- Gén_24:54comieron...él y los v que venían con élH582
+- Gén_24:58le dijeron: ¿Irás tú con este v? Y ellaH376
+- Gén_24:65¿quién...este v que viene por el campoH376
+- Gén_25:27pero Jacob era v quieto, que habitabaH376
+- Gén_26:13el v se enriqueció, y fue prosperadoH376
+- Gén_29:22entonces Labán juntó a todos los v deH376
+- Gén_30:43se enriqueció el v muchísimo y tuvoH376
+- Gén_32:24luchó con él un v hasta que rayaba elH376
+- Gén_32:25y cuando el v vio que no podía con él
+- Gén_32:27y el v le dijo: ¿Cuál es tu nombre?
+- Gén_32:28el v le dijo: No se dirá más tu nombre
+- Gén_32:29el v respondió: ¿Por qué...mi nombre?
+- Gén_34:7se entristecieron los v, y se enojaronH582
+- Gén_34:15se circuncide entre vosotros todo vH2145
+- Gén_34:20Hamor...hablaron a los v de su ciudadH582
+- Gén_34:21estos v son pacíficos con nosotros, yH582
+- Gén_34:22se circuncide todo v entre nosotrosH2145
+- Gén_34:24y circuncidaron a todo v, a cuantosH2145
+- Gén_34:25contra la ciudad...y mataron a todo vH2145
+- Gén_38:1Judá...se fue a un v adulamita que se
+- Gén_38:25a su suegro: Del v cuyas son estas cosasH376
+- Gén_39:1Potifar oficial de...v egipcio, lo compró
+- Gén_39:2Jehová estaba con José, y fue v prósperoH376
+- Gén_41:33provéase ahora Faraón de un v prudenteH376
+- Gén_42:11nosotros somos hijos de un v...honrados
+- Gén_42:13hijos de un v en la tierra de CanaánH376
+- Gén_42:30, Gén_42:33aquel v, el señor de la tierra, nosH376
+- Gén_43:3aquel v nos protestó con ánimo resueltoH376
+- Gén_43:5aquel v nos dijo: No veréis mi rostro siH376
+- Gén_43:6tanto mal, declarando al v que teníasH376
+- Gén_43:7aquel v nos preguntó expresamente porH376
+- Gén_43:11y llevad a aquel v un presente...mielH376
+- Gén_43:13tomad...y levantaos, y volved a aquel vH376
+- Gén_43:14os dé misericordia delante de aquel vH376
+- Gén_43:15entonces tomaron aquellos v el presenteH582
+- Gén_43:24llevó aquel v a los hombres a casa deH376
+- Gén_44:1llena...los costales de estos v, cuantoH582
+- Gén_44:17el v en cuyo poder fue hallada la copaH376
+- Gén_44:26no podremos ver el rostro del v, si no
+- Gén_47:2tomó cinco v, y los presentó delante deH582
+- Éxo_2:1un v de la familia de Leví fue y tomóH376
+- Éxo_2:19un v egipcio nos defendió de mano de los
+- Éxo_2:21y Moisés convino en morar con aquel vH376
+- Éxo_10:11id ahora vosotros los v, y servid aH1397
+- Éxo_11:3Moisés era tenido por gran v en...EgiptoH376
+- Éxo_12:48séale circuncidado todo v, y entoncesH2145
+- Éxo_15:3Jehová es v de guerra; Jehová es suH376
+- Éxo_17:9dijo Moisés a Josué: Escógenos v, y salH582
+- Éxo_18:21escoge tú de...v de virtud...v de verdadH582
+- Éxo_18:25escogió Moisés v de virtud de...IsraelH582
+- Éxo_22:31me seréis v santos...No comeréis carneH582
+- Éxo_23:17veces en el año se presentará todo vH2138
+- Éxo_25:2de todo v que la diere de su voluntadH376
+- Éxo_32:1, Éxo_32:23este Moisés, el v que nos sacó deH376
+- Éxo_34:23tres veces...año se presentará todo vH582
+- Éxo_35:21vino...v a quien su corazón estimuló
+- Éxo_36:2Moisés llamó...todo v sabio de corazónH376
+- Lev_6:18los v de los hijos de Aarón comeránH2145
+- Lev_6:29; Lev_7:6todo v de...sacerdotes la comeráH2145
+- Lev_12:2la mujer cuando conciba y dé a luz vH2145
+- Lev_15:2v, cuando tuviere flujo de semen, seráH376
+- Lev_15:33para el que tuviere flujo, sea v o mujerH2145
+- Lev_17:3v de la casa de Israel que degollare bueyH376
+- Lev_17:4será culpado...el tal v...cortado el tal vH376
+- Lev_17:8cualquier v de la casa de Israel, o deH376
+- Lev_17:9el tal v será igualmente cortado de suH376
+- Lev_17:10v de la casa de Israel, o...extranjerosH376
+- Lev_17:13cualquier v de los hijos de Israel, oH376
+- Lev_18:6ningún v se llegue a parienta próxima
+- Lev_18:22no te echarás con v como con mujer; esH2145
+- Lev_20:2v...que ofreciere alguno de sus hijos a
+- Lev_20:3pondré mi rostro contra el tal v, y loH376
+- Lev_20:4cerrare sus ojos respecto de aquel v queH376
+- Lev_20:5pondré mi rostro contra aquel v y contraH376
+- Lev_20:13si alguno se ayuntare con v como conH376
+- Lev_21:18v en el cual haya defecto...v ciego, oH376
+- Lev_21:19v que tenga quebradura de pie o roturaH376
+- Lev_21:21ningún v de la descendencia del...AarónH376
+- Lev_22:3todo v de toda vuestra descendencia en
+- Lev_22:4v de la descendencia de Aarón...leprosoH376
+- Lev_22:4el v que hubiere tenido derramamiento deH376
+- Lev_22:5el v que hubiere tocado cualquier reptilH120
+- Lev_22:12si se casare con v extraño, no comeráH376, [[H2114]]
+- Lev_22:18v de la casa de Israel...que ofreciere
+- Lev_25:27y pagará lo que quedare al v a quienH376
+- Lev_25:29el v que vendiere casa de habitaciónH376
+- Lev_27:3al v de veinte años hasta sesenta, loH2145
+- Lev_27:5al v lo estimarás en veinte siclos, y aH2145
+- Lev_27:6estimarás al v en cinco siclos de plataH2145
+- Lev_27:7al v lo estimarás en quince siclos, y aH2145
+- Núm_1:2el censo...todos los v por sus cabezasH2145
+- Núm_1:4estará con vosotros un v de cada tribuH376
+- Núm_1:5nombres de...v que estarán con vosotrosH582
+- Núm_1:17tomaron, pues, Moisés y Aarón a estos vH582
+- Núm_1:20, Núm_1:22todos los v de veinte años arribaH2145
+- Núm_1:44doce v, uno por cada casa de sus padresH582
+- Núm_3:15, Núm_3:22, Núm_3:28, Núm_3:34, Núm_3:39todos los v de un mes arribaH2145
+- Núm_3:40cuenta todos los primogénitos v de losH2145
+- Núm_3:43los primogénitos v, conforme al númeroH2145
+- Núm_11:16reúneme setenta v de los ancianos deH376
+- Núm_11:24reunió a los 70 v de los ancianos delH376
+- Núm_11:25del espíritu...y lo puso en los setenta v
+- Núm_11:26habían quedado...dos v, llamados el unoH582
+- Núm_12:3y aquel v Moisés era muy manso, más queH376
+- Núm_13:2de cada tribu...enviaréis un v...príncipeH376
+- Núm_13:3todos aquellos v eran príncipes de losH582
+- Núm_13:16los nombres de los v que Moisés envióH582
+- Núm_13:31los v que subieron con él, dijeron: NoH582
+- Núm_14:36y los v que Moisés envió a reconocer laH582
+- Núm_14:37aquellos v...murieron de plaga delanteH582
+- Núm_16:2se levantaron...con 250 v...v de renombreH582
+- Núm_16:7y el v a quien Jehová escogiere, aquelH376
+- Núm_17:5florecerá la vara del v que yo escoja
+- Núm_22:9dijo: ¿Qué v son estos que están contigo?[[H582]]
+- Núm_24:3, Núm_24:15dijo Balaam...el v de ojos abiertosH1397
+- Núm_25:6un v de los hijos de Israel vino y trajo
+- Núm_25:8fue tras el v de Israel a la tienda, yH376
+- Núm_25:8alanceó a...al v de Israel, y a la mujerH376
+- Núm_25:14el nombre del v que fue muerto...Zimri
+- Núm_26:10cuando consumió el fuego a 250 v, paraH376
+- Núm_26:62los levitas fueron contados 23.000...vH2145
+- Núm_26:65no quedó v de ellos, sino Caleb hijoH376
+- Núm_27:16ponga Jehová...v sobre la congregaciónH376
+- Núm_27:18a Josué...v en el cual hay espíritu, yH376
+- Núm_30:16las ordenanzas...entre el v y su mujerH376
+- Núm_31:7y pelearon contra...y mataron a todo vH2145
+- Núm_31:17matad...todos los v de entre los nifiosH376, [[H2145]]
+- Núm_31:17matad...toda mujer que haya conocido vH2145
+- Núm_31:18que no hayan conocido v, las dejaréisH2145
+- Núm_31:35mujeres que no habían conocido v, eranH2145
+- Núm_32:11no verán los v...la tierra que prometíH582
+- Núm_34:17nombres de los v que os repartirán laH582
+- Núm_34:19son los nombres de los v: De la tribuH582
+- Deu_1:13dadme de entre...v sabios y entendidosH582
+- Deu_1:15tomé...v sabios y expertos, y los puseH582
+- Deu_1:22enviemos v...que nos reconozcan la tierraH582
+- Deu_1:23tomé doce v de entre vosotros, un v porH582
+- Deu_4:16que no os...hagáis...efigie de v o hembraH2145
+- Deu_7:14no habrá en ti v ni hembra estéril, ni
+- Deu_16:16tres veces cada año aparecerá todo vH2138
+- Deu_20:13herirás a todo v suyo a filo de espadaH2138
+- Deu_25:9será hecho al v que no quiere edificarH376
+- Deu_27:14y dirán a todo v de Israel en alta vozH376
+- Deu_28:30desposarás...y otro v dormirá con ellaH376
+- Deu_29:10y vuestros oficiales...los v de IsraelH376
+- Deu_29:18no sea que haya...v o mujer, o familiaH376
+- Deu_31:12harás congregar...v y mujeres y niñosH582
+- Deu_33:1con la cual bendijo Moisés v, de DiosH376
+- Deu_33:6viva Rubén, y no...y no sean pocos sus vH4962
+- Deu_33:8tu Tumim y tu...sean para tu v piadoso
+- Jos_5:4los v...habían muerto en el desiertoH2145
+- Jos_5:13Josué...vio un v que estaba delante de élH376
+- Jos_6:2yo he entregado...a Jericó...con sus v de
+- Jos_7:14casa que...tomare, se acercará por los vH1397
+- Jos_7:17acercar a la familia...de Zera por los vH1397
+- Jos_7:18acercar su casa por los v, y fue tomadoH1397
+- Jos_10:24llamó Josué a todos los v de Israel, yH376
+- Jos_14:6lo que Jehová dijo a Moisés, v de DiosH376
+- Jos_17:2estos fueron los hijos v de Manasés hijoH2145
+- Jos_18:4señalad tres v de cada tribu, para queH582
+- Jos_18:8levantándose, pues, aquellos v, fueronH582
+- Jos_18:9fueron, pues, aquellos v y recorrieronH582
+- Jos_23:10v de vosotros perseguirá a mil; porqueH376
+- Jue_4:22ven, y te mostraré al v que tú buscasH376
+- Jue_6:8envió a...un v profeta, el cual les dijoH5030
+- Jue_6:12dijo: Jehová está contigo, v esforzadoH2428
+- Jue_7:14sino la espada de Gedeón...v de IsraelH376
+- Jue_8:14le dio...los nombres...setenta y siete vH376
+- Jue_8:21porque como es el v, tal es su valentíaH376
+- Jue_9:5mató a sus hermanos...setenta v, sobre unaH376
+- Jue_9:7oídme, v de Siquem, y así os oiga DiosH1167
+- Jue_9:18matado a...70 v sobre una misma piedraH376
+- Jue_9:28servid a los v de Hamor padre de SiquemH582
+- Jue_10:1Tola...v de Isacar...habitaba en Samir enH376
+- Jue_11:39hizo de ella...Y ella nunca conoció vH376
+- Jue_12:1se reunieron los v de Efraín, y pasaronH376
+- Jue_12:4reunió Jefté a todos los v de Galaad, yH582
+- Jue_13:6v de Dios vino a mí, cuyo aspecto eraH376
+- Jue_13:8yo te ruego que aquel v...que enviasteH376
+- Jue_13:10se me ha aparecido aquel v que vino aH376
+- Jue_13:11vino al v y le dijo: ¿Eres tú aquel vH376
+- Jue_15:10y los v de Judá les dijeron: ¿Por quéH376
+- Jue_19:6el padre de la joven dijo al v: Yo vH376
+- Jue_19:7se levantó el v para irse, pero insistióH376
+- Jue_19:9luego se levantó el v para irse, él y suH376
+- Jue_19:28entonces la levantó el v, y echándolaH376
+- Jue_20:4el v levita, marido de la mujer muertaH3881
+- Jue_20:12Israel enviaron v por toda la tribuH582
+- Jue_20:17fueron contados los v de Israel, fueraH376
+- Jue_20:20los v de Israel ordenaron la batallaH376
+- Jue_20:22los v de Israel volvieron a ordenar laH376
+- Jue_21:1los v de Israel habían jurado en MizpaH376
+- Jue_21:9y no hubo allí v de los moradores de
+- Jue_21:11de esta manera: mataréis a todo v, y aH2145
+- Jue_21:11y a toda mujer que haya conocido...de vH2145
+- Jue_21:12doncellas que no habían conocido...de vH376
+- Rut_1:1y un v...a morar en los campos de MoabH376
+- Rut_1:2el nombre de aquel v era Elimelec, y elH376
+- Rut_2:19y contó ella...El nombre del v...es BoozH376
+- Rut_2:20dijo Noemí: Nuestro pariente es aquel vH376
+- Rut_3:3no te darás a conocer al v hasta que élH376
+- Rut_3:16lo que con aquel v le había acontecidoH376
+- Rut_4:2entonces él tomó a diez v de los ancianosH582
+- 1Sa_1:1hubo un v de Ramatain de Zofim, delH376
+- 1Sa_1:3aquel v subía de su ciudad para adorar yH376
+- 1Sa_1:11sino que dieres a tu sierva un hijo vH582
+- 1Sa_1:21subió el v Elcana con toda su familiaH376
+- 1Sa_2:27vino un v de Dios a Elí, y le dijo: AsíH376
+- 1Sa_2:33el v...que yo no corte de mi altar, seráH376
+- 1Sa_8:22entonces dijo Samuel a los v de IsraelH376
+- 1Sa_9:1había un v de Benjamín, hombre valerosoH376
+- 1Sa_9:6hay en esta ciudad un v de Dios, que esH376
+- 1Sa_9:7¿qué llevaremos al v?...qué ofrecerle al vH376
+- 1Sa_9:8daré al v de Dios, para que nos declareH376
+- 1Sa_9:10fueron a la...donde estaba el v de DiosH376
+- 1Sa_9:16enviare...un v de la tierra de BenjamínH376
+- 1Sa_9:17he aquí este es el v del cual te habléH376
+- 1Sa_10:22si aún no había venido allí aquel vH376
+- 1Sa_13:14Jehová se ha buscado un v conforme a suH376
+- 1Sa_17:24los v de Israel...huían de su presenciaH376
+- 1Sa_22:18mató...a 85 v que vestían efod de linoH376
+- 1Sa_25:3y aquel v se llamaba Nabal, y su mujerH376
+- 1Sa_25:22suyo no he de dejar con vida ni un vH8366
+- 1Sa_25:34no le hubiera quedado con vida...un vH8366
+- 1Sa_31:6murió Saúl...tres hijos y todos sus vH582
+- 2Sa_2:4vinieron los v de Judá y ungieron allíH582
+- 2Sa_16:18de aquel que eligiere...los v de IsraelH376
+- 2Sa_17:25Amasa era hijo de un v...llamado Itra
+- 2Sa_19:14así inclinó el corazón de todos los v deH376
+- 2Sa_21:6dénsenos siete v de sus hijos, para queH376
+- 2Sa_22:49me exalta...me libraste del v violentoH1397
+- 2Sa_23:1dijo aquel v que fue levantado en altoH1397
+- 2Sa_23:17¿he de beber yo la sangre de los v queH582
+- 2Sa_23:20Benaía hijo de...hijo de un v esforzadoH376
+- 1Re_1:9convidó a todos...todos los v de JudáH582
+- 1Re_2:4jamás, dice, faltará a ti v en el tronoH376
+- 1Re_2:32él ha dado muerte a dos v más justos yH582
+- 1Re_8:2se reunieron con el rey Salomón...los vH376
+- 1Re_8:25no te faltará v delante de mí, que seH376
+- 1Re_9:5no faltará v de...en el trono de IsraelH376
+- 1Re_11:15y subió...y mató a todos los v de EdomH2145
+- 1Re_11:17Hadad huyó, y...algunos v edomitas de
+- 1Re_11:28v Jeroboam era valiente y esforzadoH376
+- 1Re_12:22palabra de Jehová a Semaías v de DiosH376
+- 1Re_13:1que un v de Dios...vino de Judá a Bet-elH376
+- 1Re_13:4Jeroboam oyó la palabra del v de DiosH376
+- 1Re_13:5a la señal que el v de Dios había dadoH376
+- 1Re_13:6respondiendo el rey, dijo al v de DiosH376
+- 1Re_13:6el v, de Dios oró a Jehová, y la mano delH376
+- 1Re_13:7el rey dijo al v de Dios: Ven conmigo aH376
+- 1Re_13:8pero el v de Dios dijo al rey: Aunque meH376
+- 1Re_13:11le contó todo lo que el v...había hechoH376
+- 1Re_13:12por donde había regresado el v de DiosH376
+- 1Re_13:14yendo tras el v de Dios...¿Eres tú el vH376
+- 1Re_13:21clamó al v...que había venido de JudáH376
+- 1Re_13:26el v de Dios es, que fue rebelde alH376
+- 1Re_13:29tomó...cuerpo del v de Dios, y lo pusoH376
+- 1Re_13:31sepulcro en que está sepultado el vH376
+- 1Re_14:10y destruiré de Jeroboam todo v, así elH8366
+- 1Re_16:11la casa de Baasa, sin dejar en ella vH8366
+- 1Re_17:18dijo a Elías: ¿Qué tengo yo contigo, vH376
+- 1Re_17:24conozco que tú eres v de Dios, y que laH376
+- 1Re_18:13escondí a cien v de...profetas de JehováH376
+- 1Re_20:28vino...el v de Dios al rey de Israel, yH376
+- 1Re_20:35v de los hijos de los profetas dijo aH376
+- 1Re_21:21destruiré hasta el último v de la casaH8366
+- 1Re_22:8un v por el cual podríamos consultar aH376
+- 2Re_1:6encontramos a un v que nos dijo: IdH376
+- 2Re_1:7¿cómo era aquel v que encontrasteis, y osH376
+- 2Re_1:8un v que tenía vestido de pelo, y ceñíaH376
+- 2Re_1:9, 2Re_1:11dijo: V de Dios, el rey ha dichoH376
+- 2Re_1:10, 2Re_1:12si yo soy v de Dios, descienda fuegoH376
+- 2Re_1:13v de Dios, te ruego que sea de valorH376
+- 2Re_2:7vinieron 50 v de...hijos de los profetasH376
+- 2Re_2:16he aquí hay con tus siervos 50 v fuertesH376
+- 2Re_4:7vino ella luego y lo contó al v de DiosH376
+- 2Re_4:9éste que siempre pasa por...es v de DiosH376
+- 2Re_4:16no, señor...v de Dios, no hagas burla deH376
+- 2Re_4:21y lo puso sobre la cama del v de DiosH376
+- 2Re_4:22que yo vaya corriendo al v de Dios, yH376
+- 2Re_4:25y vino al v de Dios, al monte CarmeloH376
+- 2Re_4:25y cuando el v de Dios la vio de lejosH376
+- 2Re_4:27que llegó a donde estaba el v de DiosH376
+- 2Re_4:27pero el v de Dios le dijo: Déjala, porqueH376
+- 2Re_4:40¡v de Dios, hay muerte en esa olla![[H376]]
+- 2Re_4:42trajo al v de Dios panes de primiciasH376
+- 2Re_5:1Naamán...v grande delante de su señor, yH376
+- 2Re_5:8cuando Eliseo el v de Dios oyó que el reyH376
+- 2Re_5:14conforme a la palabra del v de Dios; yH376
+- 2Re_5:15volvió al v de Dios, él y...su compañíaH376
+- 2Re_5:20Giezi, criado de Eliseo el v de DiosH376
+- 2Re_6:6el v de Dios preguntó: ¿Dónde cayó? Y élH376
+- 2Re_6:9v de Dios envió a decir al rey de IsraelH376
+- 2Re_6:10aquel lugar que el v de Dios había dichoH376
+- 2Re_6:15salió el que servía al v de Dios, y heH376
+- 2Re_7:2y un príncipe...respondió al v de Dios, yH376
+- 2Re_7:17lo que había dicho el v de Dios, cuandoH376
+- 2Re_7:18manera que el v de Dios había habladoH376
+- 2Re_7:19príncipe había respondido al v de DiosH376
+- 2Re_8:2la mujer...hizo como el v de Dios le dijoH376
+- 2Re_8:4el rey hablado con Giezi, criado del v dH376
+- 2Re_8:7aviso, diciendo: El v de Dios ha venidoH376
+- 2Re_8:8y vé a recibir al v de Dios, y consultaH376
+- 2Re_8:11el v de Dios le miró...luego lloró el vH376
+- 2Re_9:8destruiré de Acab todo v, así al siervoH8366
+- 2Re_10:6las cabezas de los hijos v de vuestro
+- 2Re_10:6los hijos del rey, setenta v, estabanH582
+- 2Re_10:7degollaron a los 70 v, y pusieron susH376
+- 2Re_10:14degollaron...42 v, sin dejar ninguno deH376
+- 2Re_13:19el v de Dios...le dijo: Al dar cincoH376
+- 2Re_20:14¿qué dijeron aquellos v, y de dóndeH582
+- 2Re_22:15así ha dicho...Decid al v que os envióH376
+- 2Re_23:2subió el rey...con todos los v de JudáH376
+- 2Re_23:16que había profetizado el v de Dios, elH376
+- 2Re_23:17es el sepulcro del v de Dios que vinoH376
+- 2Re_25:19tomó...cinco v de los consejeros del reyH582
+- 2Re_25:19sesenta v del pueblo de la tierra, queH376
+- 2Re_25:25vino Ismael hijo de...y con él diez vH582
+- 1Cr_4:12de Nahas; estos son los v de RecaH582
+- 1Cr_4:22Joacim, y los v de Cozeba, Joás, y SarafH582
+- 1Cr_5:24v de nombre y jefes de las casas de sus
+- 1Cr_11:19¿había yo de beber...la vida de estos vH582
+- 1Cr_11:22Benaía hijo de...hijo de un v valienteH376
+- 1Cr_12:30valientes, v ilustres en las casas de
+- 1Cr_19:5llegó a David la noticia sobre aquellos vH582
+- 1Cr_22:9nacerá un hijo, el cual será v de pazH376
+- 1Cr_23:14y los hijos de Moisés v de Dios fueronH376
+- 1Cr_24:4más v principales que de los...de ItamarH1397
+- 1Cr_26:6porque eran v valerosos y esforzados
+- 1Cr_26:12alternando los principales de los v enH1397
+- 1Cr_27:32y Jonatán tío de David era...v prudenteH376
+- 2Cr_5:3congregaron con el rey...v de IsraelH376
+- 2Cr_6:5he escogido v que fuese príncipe sobreH376
+- 2Cr_6:16no faltará de ti v delante de mí, queH376
+- 2Cr_7:18no te faltará v que gobierne en IsraelH376
+- 2Cr_8:14así lo había mandado David, v de DiosH376
+- 2Cr_11:2palabra de Jehová a Semaías v de DiosH376
+- 2Cr_25:7un v de Dios vino a él y le dijo: Rey, noH376
+- 2Cr_25:9y Amasías dijo al v de Dios: ¿Qué, puesH376
+- 2Cr_25:9y el v de Dios respondió: Jehová puedeH376
+- 2Cr_26:17con él ochenta sacerdotes...v valientesH1121
+- 2Cr_28:12se levantaron algunos v de los...EfraínH1121
+- 2Cr_28:15v nombrados, y tomaron a los cautivosH582
+- 2Cr_30:16conforme a la ley de Moisés v de DiosH376
+- 2Cr_31:16a los v anotados por sus linajes, deH2145
+- 2Cr_31:19los v nombrados tenían cargo de dar susH120
+- 2Cr_34:23decid al v que os ha enviado a mí, queH376
+- 2Cr_34:30subió el...y con él todos los v de JudáH376
+- Esd_2:2número de los v del pueblo de IsraelH582
+- Esd_2:22los v de Netofa, cincuenta y seisH582
+- Esd_2:23los v de Anatot, ciento veintiochoH582
+- Esd_2:27los v de Micmas, ciento veintidósH582
+- Esd_2:28los v, de Bet-el Y...doscientos veintitrésH582
+- Esd_3:2como está escrito en la ley de Moisés vH376
+- Esd_6:8sean dados...a esos v los gastos, paraH1400
+- Esd_8:3con él, en la línea de v, ciento cincuentaH2145
+- Esd_8:4Elioenai hijo de...y con él doscientos vH2145
+- Esd_8:5el hijo de Jihaziel, y con él 300 vH2145
+- Esd_8:6hijo de Jonatán, y con él cincuenta vH2145
+- Esd_8:7Elam, Jesaías hijo de...y con él setenta vH2145
+- Esd_8:8Zebadías hijo de Micael, y con él 80 vH2145
+- Esd_8:9Obadías hijo de Jehiel, y con él 218 vH2145
+- Esd_8:10el hijo de Josifías, y con él 160 vH2145
+- Esd_8:11hijo de Bebaí, y con él veintiocho vH2145
+- Esd_8:12Johanán hijo de Hacatán, y con él 110 vH2145
+- Esd_8:13los postreros...Semaías, y con ellos 60 vH2145
+- Esd_8:14Utai y Zabud, y con ellos sesenta vH2145
+- Esd_8:18trajeron...un v entendido, de los hijosH376
+- Esd_10:16apartados...Esdras, y ciertos v jefes
+- Neh_1:2vino Hanan...con algunos v de JudáH582
+- Neh_1:11te ruego...dale gracia delante de aquel vH376
+- Neh_2:12levanté de noche...y unos pocos v, conmigoH582
+- Neh_3:2junto a ella edificaron los v, de JericóH582
+- Neh_3:7V de Gabaón y de Mizpa, que estaban bajoH582
+- Neh_3:22de él restauraron...los v de la llanuraH582
+- Neh_7:2éste era v, de verdad y temeroso de DiosH376
+- Neh_7:7el número de los v del pueblo de IsraelH582
+- Neh_7:26los v de Belén y de Netofa, 188H582
+- Neh_7:27los v de Anatot, ciento veintiochoH582
+- Neh_7:28los v de Bet-azmavet, cuarenta y dosH582
+- Neh_7:29los v de Quiriat-jearim, Cafira y...743H582
+- Neh_7:30los v de Ramá y de Geba, 621H582
+- Neh_7:31los v de Micmas, ciento veintidosH582
+- Neh_7:32v de Bet-el y de Hai, ciento veintitrésH582
+- Neh_7:33los v del otro Nebo, cincuenta y dosH582
+- Neh_11:2y bendijo el pueblo a todos los v queH582
+- Neh_12:24conforme al estatuto de David v de DiosH376
+- Neh_12:36los instrumentos...de David v de DiosH376
+- Neh_12:44fueron puestos v sobre las cámaras de
+- Est_2:5un v judío cuyo nombre era Mardoqueo
+- Est_6:7rey: Para el v, cuya honra desea el reyH376
+- Est_6:9vistan a aquel v cuya honra desea el reyH376
+- Est_6:9, Est_6:11se hará al v cuya honra desea el reyH376
+- Job_1:1hubo en tierra de Uz un v llamado JobH376
+- Job_1:3y era aquel v más grande que todos losH376
+- Job_1:8; Job_2:3a mi siervo Job...v perfecto y rectoH376
+- Job_3:3la noche en que se dijo: V es concebidoH1397
+- Job_4:17¿será...v más limpio que el que lo hizo?[[H582]]
+- Job_32:1cesaron estos tres v de responder a JobH582
+- Job_32:5respuesta en la boca de aquellos tres vH582
+- Job_33:17quitar al...y apartar del v la soberbiaH120
+- Job_34:10v de inteligencia, oídme: Lejos estéH582
+- Job_38:3; Job_40:7como v tus lomos; yo te preguntaréH1397
+- Sal_1:1bienaventurado el v que no anduvo enH376
+- Sal_18:48eleva sobre...me libraste de v violentoH376
+- Sal_62:9vanidad son los...mentira los hijos de vH376
+- Sal_76:5no hizo uso de...ninguno de los v fuertesH582
+- Sal_80:17sea tu mano sobre el v de tu diestraH376
+- Sal 90 títH...oración de Moisés, v de DiosH376
+- Sal_105:17envió un v delante de ellos; a JoséH376
+- Pro_6:26la mujer caza la preciosa alma del v
+- Pro_25:1los cuales copiaron los v de EzequíasH582
+- Pro_30:1profecía que dijo el v a Itiel, a ItielH1397
+- Isa_2:9el v se ha humillado; por tanto, no losH376
+- Isa_3:25tus v caerán a espada, y tu fuerza enH4962
+- Isa_5:3vecinos de Jerusalén y v de Judá, juzgadH376
+- Isa_5:15el v será abatido, y serán bajados losH120
+- Isa_13:12haré más precioso que el oro fino al vH120
+- Isa_14:16¿es éste aquel v que hacía temblar laH376
+- Isa_28:14por tanto, v burladores que gobernáisH582
+- Isa_31:8caerá Asiria por espada no de v, y laH376
+- Isa_32:2y será aquel v como escondedero contraH376
+- Isa_44:13lo hace en forma de v, a semejanza deH376
+- Isa_46:11y de tierra lejana al v de mi consejoH376
+- Isa_53:3v de dolores, experimentado en quebrantoH376
+- Jer_2:6por una tierra por la cual no pasó vH376
+- Jer_4:3porque así dice Jehová a todo v de JudáH376
+- Jer_4:4quitad el prepucio de vuestro corazón, vH376
+- Jer_9:12¿quién es v sabio que entienda esto?[[H376]]
+- Jer_11:2este pacto, y hablad a todo v de JudáH376
+- Jer_11:3maldito el v que no obedeciere...pactoH376
+- Jer_11:9conspiración se ha...entre los v de JudáH376
+- Jer_11:21de los v de Anatot que buscan tu vidaH582
+- Jer_11:23yo traeré mal sobre los v de Anatot, elH582
+- Jer_17:5maldito el v que confía en el hombre, yH1397
+- Jer_17:7bendito el v que confía en Jehová, y cuyaH120
+- Jer_17:25entrarán...sus príncipes, los v de JudáH376
+- Jer_19:10quebrarás la...ante los ojos de los vH582
+- Jer_20:15nuevas...diciendo: Hijo v te ha nacidoH376
+- Jer_29:32no tendrá v que more entre este puebloH376
+- Jer_30:6inquirid ahora, y mirad si el v da a luzH1397
+- Jer_31:22una cosa nueva...la mujer rodeará al vH1397
+- Jer_32:32por toda la maldad de...los v de JudáH120
+- Jer_33:17así...No faltará a David v que se sienteH376
+- Jer_33:18ni a...sacerdotes y levitas faltará vH376
+- Jer_35:4de Hanán hijo de Igdalías, v de Dios, elH376
+- Jer_35:13vé y di a los v de Judá, y...JerusalénH376
+- Jer_35:19un v que esté en mi presencia todos losH376
+- Jer_36:31sobre los v de Judá, todo el mal queH376
+- Jer_38:9mal hicieron estos v en todo lo que hanH582
+- Jer_38:16ni te entregaré en mano de estos v queH582
+- Jer_43:2todos los v soberbios dijeron a JeremíasH582
+- Eze_3:26no serás a ellos v que reprende; porque
+- Eze_8:11estaban setenta v de los ancianos de laH376
+- Eze_8:16veinticinco v, sus espaldas vueltas alH376
+- Eze_9:2seis v venían del camino de la puerta deH376
+- Eze_9:2y entre ellos había un v, vestido de linoH376
+- Eze_9:3y llamó Jehová al v vestido de lino, queH376
+- Eze_9:6comenzaron, pues, desde los v ancianosH376
+- Eze_9:11v, vestido de lino, que tenía el tinteroH376
+- Eze_10:2hablo al v, vestido de lino, y le dijoH376
+- Eze_10:3derecha de la casa cuando este v entróH376
+- Eze_10:6mandar al v vestido de lino, diciendoH376
+- Eze_14:14estuviesen...tres v, Noé, Daniel y JobH582
+- Eze_14:16, Eze_14:18estos tres v, estuviesen en medioH582
+- Eze_23:23y v, de renombre, que montan a caballo
+- Eze_23:42y con los v de la gente común fueronH582
+- Eze_40:3un v, cuyo aspecto era como...de bronceH376
+- Eze_40:4me habló aquel v...Hijo de hombre, miraH376
+- Eze_40:5la caña...que aquel v tenía en la mano
+- Eze_43:6que me hablaba...un v estaba junto a míH376
+- Eze_47:3salió el v, hacia el oriente, llevandoH120
+- Dan_2:25he hallado un v de los deportados deH1400
+- Dan_3:8algunos v caldeos vinieron y acusaronH3779, [[H3064]]
+- Dan_3:12hay unos v judíos, los cuales pusisteH3064
+- Dan_3:12estos v, oh rey, no te han respetadoH1400
+- Dan_3:13fueron traídos estos v delante del reyH1400
+- Dan_3:21estos v fueron atados con sus mantosH1400
+- Dan_3:23estos tres v...cayeron atados dentro delH1400
+- Dan_3:24¿no echaron a tres v...dentro del fuego?[[H1400]]
+- Dan_3:25yo veo cuatro v sueltos, que se paseanH1400
+- Dan_3:27se juntaron los...para mirar a estos vH1400
+- Dan_9:21el v Gabriel, a quien había visto en laH376
+- Dan_10:5v vestido de lino, y ceñidos sus lomosH376
+- Dan_10:11Daniel, v muy amado, está atento a lasH376
+- Dan_12:6y dijo uno al v vestido de lino, queH376
+- Dan_12:7y oí al v vestido de lino, que estabaH376
+- Ose_3:3días; no fornicarás, ni tomarás otro vH376
+- Ose_9:7insensato es el v de espíritu, a causaH376
+- Miq_5:7las lluvias...las cuales no esperan a vH376
+- Nah_2:3los v de su ejército vestidos de granaH582
+- Nah_3:10y sobre sus v echaron suertes, y todos
+- Zac_1:8un v que cabalgaba sobre un caballoH376
+- Zac_1:10aquel v...respondió y dijo: Estos son losH376
+- Zac_2:1un v, que tenía en su mano un cordel deH376
+- Zac_3:8tú y tus amigos...porque son v simbólicosH582
+- Zac_6:12he aquí el v cuyo nombre es el RenuevoH376
+- Mat_19:4el que los hizo...v y hembra los hizoG730
+- Mar_6:20sabiendo que era v justo y santo, y leG435
+- Mar_10:6al principio...v y hembra los hizo DiosG730
+- Luc_1:27una virgen desposada con un v que seG435
+- Luc_1:34dijo...¿Cómo será esto? pues no conozco vG435
+- Luc_2:23v que abriere la matriz será...santo alG730
+- Luc_8:41un v llamado Jairo, que era principal deG435
+- Luc_9:30he aquí dos v que hablaban con él, losG435
+- Luc_9:32vieron...a los dos v que estaban con élG435
+- Luc_19:2que un v llamado Zaqueo, que era jefeG435
+- Luc_23:50había un v llamado José, de ArimateaG435
+- Luc_23:50miembro del concilio, v bueno y justoG435
+- Luc_24:4he aquí se pararon junto a ellas dos vG435
+- Luc_24:19que fue v profeta, poderoso en obra y
+- Jua_1:13sangre, ni de voluntad de v, sino deG435
+- Jua_1:30después de mí viene un v, el cual esG435
+- Jua_6:10se recostaron como en número de 5.000 v
+- Hec_1:10se pusieron junto a ellos dos v conG435
+- Hec_1:11v galileos, ¿por qué estáis mirando alG435
+- Hec_1:16v hermanos...necesario que se cumplieseG435
+- Hec_2:5moraban...en Jerusalén judíos, v piadososG435
+- Hec_2:14v judíos, y todos los que habitáis enG435
+- Hec_2:22v israelitas, oíd estas palabras: JesúsG435
+- Hec_2:22Jesús nazareno, v aprobado por DiosG435
+- Hec_2:29v hermanos...puede decir libremente delG435
+- Hec_2:37y dijeron a...V hermanos, ¿qué haremos?[[G435]]
+- Hec_3:12v israelitas, ¿por qué os maravilláisG435
+- Hec_4:4y el número de los v era como cinco milG435
+- Hec_5:25los v que pusisteis en la cárcel estánG435
+- Hec_5:35dijo: V israelitas, mirad por vosotrosG435
+- Hec_6:3buscad, pues...siete v de buen testimonioG435
+- Hec_6:5eligieron a Esteban, v lleno de fe y delG435
+- Hec_7:2v hermanos y padres, oíd: El, Dios de laG435
+- Hec_7:26v, hermanos...¿por qué os maltratáis elG435
+- Hec_9:12visto en visión a un v llamado AnaníasG435
+- Hec_10:22Cornelio...v justo y temeroso de DiosG435
+- Hec_10:28abominable es para un v judío juntarseG444
+- Hec_10:30vi...un v con vestido resplandecienteG435
+- Hec_11:12hermanos, y entramos en casa de un v
+- Hec_11:20entre ellos unos v de Chipre y de CireneG435
+- Hec_11:24era v bueno, y lleno del Espíritu SantoG435
+- Hec_13:7el procónsul Sergio Paulo, v prudenteG435
+- Hec_13:15v hermanos, si tenéis alguna palabra deG435
+- Hec_13:16v israelitas, y los que teméis a DiosG435
+- Hec_13:21a Saúl hijo...v de la tribu de BenjamínG435
+- Hec_13:22a David hijo...v conforme a mi corazónG435
+- Hec_13:26v hermanos...del linaje de Abraham, yG435
+- Hec_13:38sabed, pues, esto, v hermanos: que porG435
+- Hec_14:15y diciendo: V, ¿por qué hacéis esto?[[G435]]
+- Hec_15:7v...vosotros sabéis cómo ya hace algúnG435
+- Hec_15:13Jacobo...diciendo: V hermanos, oídmeG435
+- Hec_15:22elegir...v y enviarlos, a Antioquía conG435
+- Hec_15:22Silas, v principales entre los hermanosG435
+- Hec_15:25bien...elegir v y enviarlos a vosotrosG435
+- Hec_16:9un v macedonio estaba en pie, rogándoleG435
+- Hec_17:22v atenienses, en todo observo que soisG435
+- Hec_17:31por aquel v a quien designó, dando feG435
+- Hec_18:24v elocuente, poderoso en...EscriturasG435
+- Hec_19:25v, sabéis que de este oficio obtenemosG435
+- Hec_19:35v efesios, ¿y quién es el hombre queG435
+- Hec_21:11así atarán...al v de quien es este cintoG435
+- Hec_21:28dando voces: v israelitas, ayudad![[G435]]
+- Hec_22:1v hermanos y padres, oíd...defensa anteG435
+- Hec_22:12Ananías, v piadoso según la ley, queG435
+- Hec_23:1v hermanos, yo con...buena conciencia heG435
+- Hec_23:6la voz...v hermanos, yo soy fariseo, hijoG435
+- Hec_25:24rey Agripa, y todos los v que estáisG435
+- Hec_27:10v, veo que la navegación va a ser conG435
+- Hec_27:21dijo: Habría sido...conveniente, oh vG435
+- Hec_27:25tanto, oh v, tened buen ánimo; porqueG435
+- Hec_28:17yo, v hermanos, no habiendo hecho nadaG435
+- Rom_4:8bienaventurado el v a quien el SeñorG435
+- Rom_7:3se uniere a otro v, será llamada adúlteraG435
+- 1Co_6:9afeminados, ni los que se echan con vG733
+- 1Co_11:3Cristo es la cabeza de todo v, y el vG435
+- 1Co_11:4todo v, que ora...con la cabeza cubiertaG435
+- 1Co_11:7el v no debe cubrirse la cabeza, puesG435
+- 1Co_11:7de Dios; pero la mujer es gloria del vG435
+- 1Co_11:8el v no procede de...sino la mujer del vG435
+- 1Co_11:9tampoco el v fue creado por causa de laG435
+- 1Co_11:9la mujer, sino la mujer por causa del vG435
+- 1Co_11:11ni el v es sin la..ni la mujer sin el vG435
+- 1Co_11:12la mujer procede del v,...el v, nace de laG435
+- 1Co_11:14¿no os enseña que al v le es deshonrosoG435
+- Gál_3:28no hay v ni mujer; porque...sois uno enG730
+- Efe_4:13a un v perfecto, a la medida de laG435
+- Stg_1:12bienaventurado el v que soporta laG435
+- Stg_3:2no ofende en palabra, éste es v perfectoG435
+- Rev_12:5dio a luz un hijo v, que regirá conG730
+- Rev_12:13la mujer que había dado a luz al hijo vG730

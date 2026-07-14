@@ -1,0 +1,85 @@
+---
+tipo: concordancia
+palabra: DEVORAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DEVORAR
+
+- Gén_37:20, Gén_37:33alguna mala bestia lo devoróH398
+- Gén_41:4devoraban a las siete vacas hermosasH398
+- Gén_41:7las siete espigas menudas devoraban aH1104
+- Gén_41:20vacas flacas...devoraban a las sieteH398
+- Gén_41:24las espigas menudas devoraban a las 7H1104
+- Éxo_7:12la vara de Aarón devoró las varas deH398
+- Núm_23:24se echará hasta que devore la presaH398
+- Núm_24:8tiene...devorará a las naciones enemigasH398
+- Deu_32:22devorará la tierra, y sus frutos, yH398
+- Deu_32:24serán de hambre, y devorados de fiebreH398
+- Deu_32:42mis saetas, y mi espada devorará carneH398
+- Jue_9:15salga fuego...devore a los cedros delH398
+- Job_18:13miembros devorará el primogénito deH398
+- Job_20:15devoró riquezas, pero las vomitaráH1104
+- Job_20:26fuego devorará lo que...en su tiendaH398
+- Job_31:12es fuego que devoraría hasta el AbadónH398
+- Sal_14:4que devoran a mi pueblo como si...panH398
+- Sal_35:25no digan en su...¡Le hemos devorado![[H1104]]
+- Sal_53:4devoran a mi pueblo como si comiesenH398
+- Sal_56:1ten misericordia de mí...me devoraríaH7602
+- Sal_78:45envió...de moscas que los devorabanH398
+- Sal_78:63el fuego devoró a sus jóvenes, y susH398
+- Sal_80:13el puerco...bestia del campo la devoraH7462
+- Sal_105:35y devoraron el fruto de su tierraH398
+- Pro_30:14devorar a los pobres de la tierraH398
+- Pro_30:17saquen...lo devoren los hijos del águilaH398
+- Isa_3:14habéis devorado la viña y el despojoH1197
+- Isa_5:17devorarán los campos desolados de losH398
+- Isa_5:24como la...llama devora la paja, así seráH398
+- Isa_9:12a boca llena devorarán a Israel. Ni conH398
+- Isa_9:18como fuego, cardos y espinos devoraráH398
+- Isa_42:14daré...asolaré y devoraré juntamenteH7602
+- Isa_56:9las fieras del bosque, venid a devorarH398
+- Jer_2:3los que le devoraban eran culpablesH398
+- Jer_2:30espada devoró a vuestros profetas comoH398
+- Jer_8:16y vinieron y devoraron la tierra y suH398
+- Jer_10:25se comieron a Jacob, lo devoraron, leH398
+- Jer_12:9las fieras del campo, venid a devorarlaH402
+- Jer_12:12la espada de Jehová devorará desde unH398
+- Jer_15:3y bestias de la tierra para devorar yH398
+- Jer_46:10la espada devorará y se saciará, y seH398
+- Jer_46:14prepárate...espada devorará tu comarcaH398
+- Jer_50:7los que los hallaban, los devorabanH398
+- Jer_50:17el rey de Asiria lo devoró primeroH398
+- Jer_51:34devoró, me desmenuzó NabucodonosorH398
+- Lam_2:3como llama de fuego que ha devoradoH398
+- Lam_2:16dijeron: Devorémosla; ciertamente esteH1104
+- Eze_19:3aprendió a arrebatar la...y a devorarH398
+- Eze_19:6aprendió a arrebatar la...devoró hombresH398
+- Eze_22:25devoraron almas tomaron haciendas yH398
+- Eze_33:27entregaré a las fieras...que lo devorenH398
+- Eze_34:28ni las fieras de...las devorarán; sinoH398
+- Eze_35:12han sido dados para que los devoremos,[[H402]]
+- Eze_36:14no devorarás más hombres, y nunca másH398
+- Dan_7:5dicho...Levántate, devora mucha carneH399
+- Dan_7:7, Dan_7:19devoraba y desmenuzaba, y las sobrasH399
+- Dan_7:23y a toda la tierra devorará, trillaráH399
+- Ose_7:7devoraron a sus jueces; cayeron todosH398
+- Ose_7:9devoraron extraños su fuerza, y él no loH398
+- Ose_8:8devorado será Israel; pronto será entreH1104
+- Ose_13:8los devoraré como león; fiera del campoH398
+- Amó_4:9la langosta devoró vuestros...huertosH398
+- Nah_2:13y espada devorará tus leoncillos; yH398
+- Nah_3:15te devorará como pulgón; multiplícateH398
+- Hab_1:8águilas que se apresuran a devorarH398
+- Hab_3:14regocijo era como para devorar al pobreH398
+- Zac_9:15devorarán, y hollarán las piedras deH398
+- Mat_23:14devoráis las casas de las viudas, yG2719
+- Mar_12:40; Luc_20:47devoran las casas de lasG2719
+- 2Co_11:20pues toleráis...si alguno os devoraG2719
+- Heb_10:27hervor de fuego que ha de devorar aG2068
+- Stg_5:3y devorará del todo vuestras carnesG5315
+- 1Pe_5:8anda alrededor buscando a quien devorarG2666
+- Rev_11:5sale fuego de...y devora a sus enemigosG2719
+- Rev_12:4devorar a su hijo tan pronto...nacieseG2719
+- Rev_17:16y devorarán sus carnes, y la quemaránG5315

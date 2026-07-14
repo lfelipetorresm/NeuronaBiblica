@@ -1,0 +1,158 @@
+---
+tipo: concordancia
+palabra: CANTAR (v.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CANTAR (v.)
+
+- Éxo_15:1cantó Moisés y los hijos de IsraelH7891
+- Éxo_15:1cantaré yo a Jehová, porque se haH7891
+- Éxo_15:21cantad a Jehová...se ha engrandecidoH7891
+- Éxo_32:18ni voz de alaridos...voz de cantar oigoH6031
+- Núm_21:17cantó...Sube, oh pozo; a él cantadH6030
+- Jue_5:1aquel día cantó Débora con Bara c hijoH7891
+- Jue_5:3yo cantaré a Jehová, cantaré salmos aH7891
+- 1Sa_18:6las mujeres de...de Israel cantandoH7891
+- 1Sa_18:7cantaban las mujeres que danzaban, yH6030
+- 1Sa_21:11; 1Sa_29:5de quien cantaban en las danzasH6030
+- 2Sa_22:50te confesaré...y cantaré a tu nombreH2169
+- 1Re_1:40y cantaba la gente con flautas, yH2490
+- 1Cr_16:9cantad a él, cantadle salmos; habladH7891
+- 1Cr_16:23cantad a Jehová...la tierra; proclamadH7891
+- 1Cr_16:24cantad entre las gentes su gloria, yH5608
+- 1Cr_16:33cantarán los árboles de los bosquesH7442
+- 2Cr_5:13y cantaban todos a una, para alabarH7891
+- 2Cr_20:21a algunos que cantasen y alabasen aH7891
+- 2Cr_29:28adoraba, y los cantores cantaban, yH7891
+- 2Cr_30:21cantando con instrumentos...a Jehová
+- Esd_3:11cantaban, alabando y dando graciasH6030
+- Neh_12:42los cantores cantaban en alta vozH7891
+- Sal 7 tít.Sigaión de David, que cantó aH7891
+- Sal_7:17y cantaré al...de Jehová el AltísimoH2167
+- Sal_9:2en ti; cantaré a tu nombre, oh AltísimoH2167
+- Sal_9:11cantad a Jehová, que habita en SionH2167
+- Sal_13:6cantaré a Jehová...me ha hecho bienH7891
+- Sal_18:49por tanto yo te...cantaré a tu nombreH2167
+- Sal_21:13cantaremos y alabaremos tu poderíoH7891
+- Sal_27:6cantaré y entonaré alabanzas a JehováH7891
+- Sal 30 tít.Salmo cantado en la dedicación deH7892
+- Sal_30:4cantad a Jehová, vosotros sus santosH2167
+- Sal_30:12por tanto, a ti cantaré, gloria míaH2167
+- Sal_32:11cantad con júbilo todos vosotros losH7442
+- Sal_33:2cantadle con salterio y decacordioH2167
+- Sal_33:3cantadle cántico nuevo; hacedlo bienH7891
+- Sal_35:27canten...los que están a favor de miH7442
+- Sal_47:6cantad a Dios, c; c a nuestro Rey, cH2167
+- Sal_47:7es el Rey de...cantad con inteligenciaH2167
+- Sal_51:14líbrame...cantará mi lengua tu justiciaH7442
+- Sal_57:7dispuesto; cantaré, y trovaré salmosH7891
+- Sal_57:9Señor; cantaré de ti entre las nacionesH2167
+- Sal_59:16yo cantaré de tu poder, y alabaré deH7891
+- Sal_59:17fortaleza mía, a ti cantaré; porqueH2167
+- Sal_61:8así cantaré tu nombre para siempreH2167
+- Sal_65:13dan voces de júbilo, y aun cantanH7891
+- Sal_66:2cantad la gloria de su nombre; ponedH2167
+- Sal_66:4y cantará a ti; cantarán a tu nombreH2167
+- Sal_68:4cantad a Dios, c salmos a su nombreH7891
+- Sal_68:32reinos de...cantad a Dios, c al SeñorH7891
+- Sal_71:22tu verdad cantaré a ti en el arpa, ohH2167
+- Sal_71:23mis labios se alegrarán cuando canteH2167
+- Sal_75:9y cantaré alabanzas al Dios de JacobH2167
+- Sal_79:13alabaremos...cantaremos tus alabanzasH5608
+- Sal_81:1cantad con gozo a Dios, fortalezaH7442
+- Sal_84:2mi corazón y mi carne cantan al DiosH7442
+- Sal 88 tít.Salmo...para cantar sobre MahalatH4257
+- Sal_89:1las misericordias de Jehová cantaréH7891
+- Sal_89:12y el Hermón cantarán en tu nombreH7442
+- Sal_90:14cantaremos y nos...todos nuestros díasH7442
+- Sal_92:1bueno es...y cantar salmos a tu nombreH2167
+- Sal_95:1cantemos...la roca de nuestra salvaciónH7442
+- Sal_96:1cantad a Jehová cántico nuevo, c aH7891
+- Sal_96:2cantad a Jehová, bendecid su nombreH7891
+- Sal_98:1cantad a Jehová cántico nuevo, porqueH7891
+- Sal_98:4cantad alegres a Jehová, toda la tierraH7321
+- Sal_98:4levantad la...aplaudid, y cantad salmosH2167
+- Sal_98:5cantad salmos a Jehová con arpa; conH2167
+- Sal_100:1cantad alegres a Dios, habitantes deH7445
+- Sal_101:1juicio cantaré; a ti c yo, oh JehováH7891
+- Sal_104:12las aves de...cantan entre las ramasH5414, [[H6963]]
+- Sal_104:33a Jehová cantaré en mi...a mi Dios cH7891
+- Sal_105:2cantadle, c salmos; hablad de todasH7891
+- Sal_106:12creyeron a...y cantaron su alabanzaH7891
+- Sal_108:1cantaré y entonaré salmos; esta es miH7891
+- Sal_108:3a ti cantaré salmos entre las nacionesH2167
+- Sal_135:3cantad salmos a su nombre, porque élH2167
+- Sal_137:3y los que...nos pedían que cantásemosH1697, [[H7892]]
+- Sal_137:3cantadnos algunos...cánticos de SionH7891
+- Sal_137:4¿cómo cantaremos cántico de Jehová enH7891
+- Sal_138:1delante de...dioses te cantaré salmosH2167
+- Sal_138:5y cantarán de los caminos de JehováH7891
+- Sal_144:9a ti cantaré cántico nuevo...c a tiH7891
+- Sal_145:7proclamarán la...y cantarán tu justiciaH7442
+- Sal_146:2cantaré salmos a mi Dios mientras vivaH2167
+- Sal_147:1es bueno cantar salmos a nuestro DiosH2167
+- Sal_147:7cantad a Jehová con alabanza, c conH6030
+- Sal_149:1cantad a Jehová cántico nuevo; suH7891
+- Sal_149:3danza; con pandero y arpa a él cantenH2167
+- Sal_149:5gloria, y canten aun sobre sus camasH7442
+- Pro_25:20el que canta...al corazón afligidoH7891
+- Pro_29:6mas el justo cantará y se alegraráH7442
+- Cnt_1:1cantar de los cantares...de SalomónH7892
+- Isa_5:1cantaré por mi amado el cantar de miH7891
+- Isa_12:1cantaré a ti, oh Jehová; pues aunqueH3034
+- Isa_12:4y diréis en aquel día: Cantad a JehováH3034
+- Isa_12:5cantad salmos a Jehová, porque ha hechoH2167
+- Isa_12:6regocíjate y canta, moradora de SionH7442
+- Isa_14:7reposo y en paz: se cantaron alabanzasH7440
+- Isa_16:10fértil; en las viñas no cantarán, niH7442
+- Isa_23:15después de los setenta años, cantaráH7892
+- Isa_24:9no beberán vino con cantar; la sidra le
+- Isa_24:14cantarán gozosos por la grandeza deH7442
+- Isa_26:1en aquel día cantarán este cántico enH7891
+- Isa_26:19¡despertad y cantad, moradores delH7442
+- Isa_27:2en aquel día cantad acerca de la viñaH6031
+- Isa_35:2alegrará y cantará con júbilo...gloriaH7442
+- Isa_35:6entonces...cantará la lengua del mudoH7442
+- Isa_38:20cantaremos nuestros cánticos en laH5059
+- Isa_42:10cantad a Jehová un nuevo cántico, suH7891
+- Isa_42:11canten los moradores de Sela, y desdeH7442
+- Isa_44:23cantad loores...porque Jehová lo hizoH7442
+- Isa_49:13cantad alabanzas...cielos, y alégrateH7442
+- Isa_51:11redimidos...volverán a Sion cantandoH7440
+- Isa_52:9cantad alabanzas, alegraos juntamenteH7442
+- Isa_65:14que mis siervos cantarán por júbiloH7442
+- Jer_20:13cantad a Jehová, load a JehováH7891
+- Jer_25:30canción de lagareros cantará contraH1959
+- Jer_51:48cielos y la tierra...cantarán de gozoH7442
+- Eze_32:16esta es la endecha, y la cantaránH6969
+- Eze_32:16las hijas de las naciones la cantaránH6969
+- Eze_33:32como...hermoso de voz y que canta bienH5059
+- Ose_2:15allí cantará como en los tiempos deH6030
+- Sof_2:14el erizo...cantará en las ventanasH7891
+- Sof_3:14canta, oh hija de Sion; da voces deH7442
+- Zac_2:10canta y alégrate, hija de SionH7442
+- Mat_26:30hubieron cantado el himno, salieronG5214
+- Mat_26:34antes que el gallo cante, me negarásG5455
+- Mat_26:74a jurar...Y en seguida cantó el galloG5455
+- Mat_26:75antes que cante el gallo, me negarásG5455
+- Mar_14:26hubieron cantado el himno, salieronG5214
+- Mar_14:30antes que el gallo haya cantado dosG5455
+- Mar_14:68negó...No le conozco...y cantó el galloG5455
+- Mar_14:72el gallo cantó la segunda vez...EntoncesG5455
+- Mar_14:72antes que el gallo cante dos veces, meG5455
+- Luc_22:34el gallo no cantará hoy antes que túG5455
+- Luc_22:60él todavía hablaba, el gallo cantóG5455
+- Luc_22:61antes que el gallo cante, me negarásG5455
+- Jua_13:38cantará el gallo, sin que me hayasG5455
+- Jua_18:27negó Pedro...en seguida cantó el galloG5455
+- Hec_16:25Pablo y Silas, cantaban himnos aG5214
+- Rom_15:9te confesaré...y cantaré a tu nombreG5567
+- 1Co_14:15cantaré con el espíritu, pero cG5567
+- Efe_5:19cantando y alabando al Señor enG103
+- Col_3:16cantando...en vuestros corazones alG103
+- Stg_5:13está alguno alegre? Cante alabanzasG5567
+- Rev_5:9y cantaban un nuevo cántico, diciendoG103
+- Rev_14:3cantaban un cántico nuevo delante delG103
+- Rev_15:3cantan el cántico de Moisés siervo deG103

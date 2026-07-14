@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: CELO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CELO
+
+- Gén_30:41cuantas veces se hallaban en c lasH3179
+- Gén_31:10al tiempo que las ovejas estaban en cH3179
+- Núm_5:14si viniere...espíritu de c, y tuviere cH7068, [[H7065]]
+- Núm_5:15es ofrenda de c, ofrenda recordativaH7068
+- Núm_5:18recordativa, que es la ofrenda de c; yH7068
+- Núm_5:25tomará...la ofrenda de los c, y la meceráH7068
+- Núm_5:29esta es la ley de los c, cuando la mujerH7068
+- Núm_5:30pasare espíritu de celos, y tuviere cH7068
+- Núm_11:29Moisés le respondió: ¿Tienes tú c porH7065
+- Núm_25:11hecho apartar mi furor...llevado de cH7065
+- Núm_25:11yo no he consumido en mi c a...IsraelH7068
+- Núm_25:13por cuanto tuvo c por su Dios e hizoH7065
+- Deu_29:20humeará la ira...c sobre el tal hombreH7068
+- Deu_32:16despertaron a c con los dioses ajenosH7065
+- Deu_32:21ellos me movieron a c...los moveré a cH7065
+- 2Sa_21:2Saúl había procurado matarlos en su cH7065
+- 1Re_19:10, 1Re_19:14he sentido un vivo c por JehováH7065
+- 2Re_10:16ven conmigo, y verás mi c por JehováH7068
+- 2Re_19:31c de Jehová de los ejércitos hará estoH7068
+- Sal_69:9porque me consumió el c de tu casaH7068
+- Sal_78:58le provocaron a c con sus imágenes deH7065
+- Sal_79:5hasta cuándo...¿Arderá como fuego tu c?[[H7068]]
+- Sal_119:139mi c me ha consumido, porque misH7068
+- Pro_6:34porque los c son el furor del hombreH7068
+- Cnt_8:6el amor; duros como el sepulcro los cH7068
+- Isa_9:7; Isa_37:32c de Jehová de los...hará estoH7068
+- Isa_42:13y como hombre de guerra despertará cH7068
+- Isa_59:17ropas de...se cubrió de c como de mantoH7068
+- Isa_63:15tu c, y tu poder, la conmoción de tusH7068
+- Jer_2:24en el tiempo de su c la hallaránH2320
+- Eze_5:13y sabrán que yo...he habladoen mi cH7068
+- Eze_8:3de la imagen del c, la que provoca a cH7068
+- Eze_8:5junto a la puerta...aquella imagen del cH7068
+- Eze_16:38y traeré sobre ti sangre de ira y de cH7068
+- Eze_16:42y se apartará de ti mi c, y descansaréH7068
+- Eze_23:25y pondré mi c contra ti, y procederánH7068
+- Eze_35:11y conforme a tu c con que procedisteH7068
+- Eze_36:5he hablado...en el fuego de mi c contraH7068
+- Eze_36:6en mi c...he hablado, por cuanto habéisH7068
+- Eze_38:19he hablado en mi c, y en el fuego deH7068
+- Sof_1:18será consumida con el fuego de su cH7068
+- Sof_3:8por el fuego de mi c será consumida todaH7068
+- Zac_1:14celé con gran c a Jerusalén y a SionH7068
+- Zac_8:2celé a Sion con gran c, y con gran iraH7068
+- Jua_2:17escrito: El c de tu casa me consumeG2205
+- Hec_5:17secta de...saduceos, se llenaron de cG2205
+- Hec_13:45judíos...se llenaron de c, y rebatían loG2205
+- Hec_17:5los judíos que no creían, teniendo cG2206
+- Rom_10:2doy testimonio de que tienen c de DiosG2205
+- Rom_10:19os provocaré a c con un pueblo que noG3863
+- Rom_11:11a los gentiles, para provocarles a cG3863
+- Rom_11:14puedo provocar a c a los de mi sangreG3863
+- 1Co_3:3habiendo entre vosotros c...carnalesG2205
+- 1Co_10:22¿o provocaremos a c al Señor? ¿SomosG3863
+- 2Co_7:11qué temor, qué ardiente afecto...cG2205
+- 2Co_9:2y vuestro c ha estimulado a la mayoríaG2205
+- 2Co_11:2porque os celo con c de Dios; pues osG2205
+- Gál_4:17tienen c por vosotros, pero no...bienG2206
+- Gál_4:17para que vosotros tengáis c por ellosG2206
+- Gál_4:18bueno es mostrar c en lo bueno siempreG2206
+- Gál_5:20pleitos, c...contiendas, disensionesG2205
+- Flp_3:6cuanto a c, perseguidor de la iglesiaG2205
+- Stg_3:14pero si tenéis c...en vuestro corazónG2205
+- Stg_3:16porque donde hay c...hay perturbación yG2205

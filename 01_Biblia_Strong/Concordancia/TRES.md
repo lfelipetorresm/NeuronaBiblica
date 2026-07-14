@@ -1,0 +1,336 @@
+---
+tipo: concordancia
+palabra: TRES
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TRES
+
+- Véase también Tres mil
+- Gén_6:10engendró Noé t hijos: a Sem, a Cam yH7969
+- Gén_7:13entraron...y las t mujeres de sus hijosH7969
+- Gén_9:19t son los hijos de Noé, y de ellos fueH7969
+- Gén_15:9le dijo: Tráeme una becerra de t añosH8027
+- Gén_15:9una cabra de t años...carnero de t añosH8027
+- Gén_18:2he aquí t varones que estaban junto a élH7969
+- Gén_18:6toma pronto t medidas de flor de harinaH7969
+- Gén_29:2he aquí t rebaños de ovejas que yacíanH7969
+- Gén_29:34conmigo, porque le he dado a luz t hijosH7969
+- Gén_30:36puso t días de camino entre sí y JacobH7969
+- Gén_38:24al cabo de unos t meses fue dado avisoH7969
+- Gén_40:10y en la vid t sarmientos; y ella comoH7969
+- Gén_40:12le dijo José...t sarmientos son t díasH7969
+- Gén_40:13al cabo de t días levantará Faraón tuH7969
+- Gén_40:16yo soñé que veía t canastillos blancosH7969
+- Gén_40:18respondió...Los t canastillos t días sonH7969
+- Gén_40:19cabo de t días quitará Faraón tu cabezaH7969
+- Gén_42:17los puso juntos en la cárcel por t díasH7969
+- Éxo_2:2era hermoso, le tuvo escondido t mesesH7969
+- Éxo_3:18; Éxo_5:3camino de t días por el desiertoH7969
+- Éxo_8:27camino de t días iremos por el desiertoH7969
+- Éxo_10:22hubo densas tinieblas sobre...por t díasH7969
+- Éxo_10:23nadie se levantó de su lugar en t díasH7969
+- Éxo_15:22anduvieron t días por el desierto sinH7969
+- Éxo_21:11y si ninguna de estas t cosas hiciereH7969
+- Éxo_23:14t veces en el año...celebraréis fiestaH7969
+- Éxo_23:17t veces en el año se presentará todoH7969
+- Éxo_25:32t brazos...un lado, y t brazos al otroH7969
+- Éxo_25:33t copas en forma de flor de almendroH7969
+- Éxo_25:33t copas...en un brazo...y t copas...en otroH7969
+- Éxo_27:1será cuadrado el...y su altura de t codosH7969
+- Éxo_27:14cortinas...sus columnas t, con sus t basasH7969
+- Éxo_27:15lado...sus columnas t, con sus t basasH7969
+- Éxo_34:23t veces en el año se presentará todoH7969
+- Éxo_34:24presentarte delante...t veces en el añoH7969
+- Éxo_37:18t brazos de un lado...t brazos del otroH7969
+- Éxo_37:19t copas en...y en otro brazo t copas enH7969
+- Éxo_38:1de acacia el altar...de t codos de alturaH7969
+- Éxo_38:14un lado sus...t columnas y sus t basasH7969
+- Éxo_38:15del atrio...sus t columnas y sus t basasH7969
+- Lev_14:10y t décimas de efa de flor de harinaH7969
+- Lev_19:23su fruto; t años os será incircuncisoH7969
+- Lev_25:21mi bendición...hará...fruto por t añosH7969
+- Lev_27:6estimarás...mujer en t siclos de plataH7969
+- Núm_10:33así partieron del...camino de t díasH7969
+- Núm_10:33el arca...fue delante...camino de t díasH7969
+- Núm_12:4salid vosotros t al...Y salieron ellos tH7969
+- Núm_15:9ofrecerás...t décimas de flor de harinaH7969
+- Núm_22:28al asna. me has azotado estas t veces?[[H7969]]
+- Núm_22:32¿por qué has azotado tu asna...t veces?[[H7969]]
+- Núm_22:33y se ha apartado...de mí estas t vecesH7969
+- Núm_24:10y he aquí los has bendecido ya t vecesH7969
+- Núm_28:12y t décimas de flor de harina amasadaH7969
+- Núm_28:20, Núm_28:28de harina...t décimas con cada becerroH7969
+- Núm_29:3, Núm_29:9t décimas de efa con cada becerro, dosH7969
+- Núm_29:14t décimas de efa con cada uno de losH7969
+- Núm_33:8anduvieron t días...el desierto de EtamH7969
+- Núm_35:14t ciudades daréis a...lado del JordánH7969
+- Núm_35:14t ciudades daréis en la tierra...CanaánH7969
+- Deu_4:41apartó Moisés t ciudades a este ladoH7969
+- Deu_14:28fin de cada t años sacarás...el diezmoH7969
+- Deu_16:16t veces cada año aparecerá todo varónH7969
+- Deu_17:6por dicho de dos o de t testigos moriráH7969
+- Deu_19:2te apartarás t ciudades en medio de laH7969
+- Deu_19:3y dividirás en t partes la tierra queH7969
+- Deu_19:7te mando, diciendo: Separarás t ciudadesH7969
+- Deu_19:9que...añadirás t ciudades más a estas tH7969
+- Deu_19:15testimonio de dos o t...se mantendrá laH7969
+- Jos_1:11dentro de t días pasaréis el JordánH7969
+- Jos_2:16y estad escondidos allí t días, hastaH7969
+- Jos_2:22monte, y estuvieron allí t días, hastaH7969
+- Jos_3:2después de t días...oficiales recorrieronH7969
+- Jos_9:16t días después que hicieron alianza conH7969
+- Jos_15:14Caleb echó de allí a los t hijos de AnacH7969
+- Jos_17:11tuvo también Manasés en...t provinciasH7969
+- Jos_18:4señalad t varones de cada tribu, paraH7969
+- Jos_21:32y Cartán con sus ejidos; t ciudadesH7969
+- Jue_1:20arrojó de allí a los t hijos de AnacH7969
+- Jue_7:16repartiendo...hombres en t escuadronesH7969
+- Jue_7:20los t escuadrones tocaron las trompetasH7969
+- Jue_9:22Abimelec hubo dominado...Israel t añosH7969
+- Jue_9:43gente, la repartió en t compañías, y pusoH7969
+- Jue_14:14ellos no pudieron declararle...en t díasH7969
+- Jue_16:15ya me has engañado t veces, y no me hasH7969
+- Jue_19:4le detuvo su...y quedó en su casa t díasH7969
+- 1Sa_1:24lo llevó...con t becerros, un efa deH7969
+- 1Sa_2:13trayendo en su...un garfio de t dientesH7969
+- 1Sa_2:21a Ana, y...dio a luz t hijos y dos hijasH7969
+- 1Sa_9:20asnas que se te perdieron hace ya t díasH7969
+- 1Sa_10:3saldrán al encuentro t hombres que subenH7969
+- 1Sa_10:3llevando uno t cabritos, otro t tortasH7969
+- 1Sa_11:11dispuso Saúl al pueblo en t compañíasH7969
+- 1Sa_13:17y salieron...filisteos en t escuadronesH7969
+- 1Sa_17:13los t hijos mayores de Isaí habían idoH7969
+- 1Sa_17:13nombres de sus t hijos que habían idoH7969
+- 1Sa_17:14siguieron, pues, los t mayores a SaúlH7969
+- 1Sa_20:19estarás...t días, y luego descenderásH8027
+- 1Sa_20:20y yo tiraré t saetas hacia aquel ladoH7969
+- 1Sa_20:41se inclinó t veces postrándose hastaH7969
+- 1Sa_30:12pan ni bebido agua en t días y t nochesH7969
+- 1Sa_30:13siervo...me dejó mi amo hoy hace t díasH7969
+- 1Sa_31:6así murió Saúl...con sus t hijos, y suH7969
+- 1Sa_31:8hallaron a Saúl y...t hijos tendidos enH7969
+- 2Sa_2:18estaban allí los t hijos de SarviaH7969
+- 2Sa_6:11el arca de Jehová en casa de...t mesesH7969
+- 2Sa_13:38así huyó Absalón...estuvo allá t añosH7969
+- 2Sa_14:27le nacieron a Absalón t hijos, y unaH7969
+- 2Sa_18:14tomando t dardos en...los clavó en elH7969
+- 2Sa_20:4convócame a los...para dentro de t díasH7969
+- 2Sa_21:1hubo hambre en...por t años consecutivosH7969
+- 2Sa_23:9uno de los t valientes que estaban conH7969
+- 2Sa_23:13t de los treinta jefes descendieron yH7991
+- 2Sa_23:16entonces los t valientes irrumpieronH7969
+- 2Sa_23:17¿he de...Los t valientes hicieron estoH7969
+- 2Sa_23:18y Abisal hermano...renombre con los tH7969
+- 2Sa_23:19su jefe; mas no igualó a los t primerosH7969
+- 2Sa_23:22hizo...ganó renombre con los t valientesH7969
+- 2Sa_23:23entre...pero no igualó a los t primerosH7969
+- 2Sa_24:12t cosas te ofrezco; tú escogerás unaH7969
+- 2Sa_24:13huyas t meses delante de tus enemigosH7969
+- 2Sa_24:13¿o que t días haya peste en tu tierra?[[H7969]]
+- 1Re_2:39pasados t años...dos siervos de SimeiH7969
+- 1Re_6:36edificó el atrio...t hileras de piedrasH7969
+- 1Re_7:4había t hileras de ventanas...en t hilerasH7969
+- 1Re_7:5ventanas estaban frente a...en t hilerasH7969
+- 1Re_7:12gran atrio...había t hileras de piedrasH7969
+- 1Re_7:25t miraban al norte...t miraban al sur, yH7969
+- 1Re_7:25t miraban al occidente...y t miraban alH7969
+- 1Re_7:27la anchura de...y de t codos la alturaH7969
+- 1Re_9:25Salomón t veces cada año holocaustosH7969
+- 1Re_10:17en cada uno de...gastó t libras de oroH7969
+- 1Re_10:22cada t años venía la flota de TarsisH7969
+- 1Re_12:5idos, y de aquí a t días volved a míH7969
+- 1Re_15:2y reinó t años en...su madre fue MaacaH7969
+- 1Re_17:21tendió sobre el niño t veces, y clamóH7969
+- 1Re_22:1t años pasaron sin guerra...los siriosH7969
+- 2Re_2:17buscaron t días, mas no lo hallaronH7969
+- 2Re_3:10, 2Re_3:13a estos t reyes para entregarlos enH7969
+- 2Re_9:32se inclinaron hacia él dos o t eunucosH7969
+- 2Re_13:18golpea...la golpeó t veces, y se detuvoH7969
+- 2Re_13:19ahora sólo t veces derrotarás a SiriaH7969
+- 2Re_13:25t veces lo derrotó Joás, y restituyóH7969
+- 2Re_17:5sitió a Samaria, y estuvo...ella t añosH7969
+- 2Re_18:10y la tomaron al cabo de t años. En elH7969
+- 2Re_23:31Joacaz...y reinó t meses en JerusalénH7969
+- 2Re_24:1Joacim vino a ser su siervo por t añosH7969
+- 2Re_24:8Joaquín...y reinó en Jerusalén t mesesH7969
+- 2Re_25:17la altura del capitel era de t codosH7969
+- 2Re_25:18tomó entonces...t guardas de la vajillaH7969
+- 1Cr_2:3estos t le nacieron de la hija de SúaH7969
+- 1Cr_2:16hijos de Sarvia fueron t: Abisai, JoabH7969
+- 1Cr_3:23los hijos de Nearías fueron estos tH7969
+- 1Cr_7:6hijos de Benjamín fueron t: Bela, BequerH7969
+- 1Cr_10:6murieron Saúl y sus t hijos, y toda suH7969
+- 1Cr_11:12Eleazar...el cual era de los t valientesH7969
+- 1Cr_11:15t de los 30...descendieron a la peña aH7969
+- 1Cr_11:18y aquellos t rompieron...campamento deH7969
+- 1Cr_11:19esto hicieron aquellos t valientesH7969
+- 1Cr_11:20y los mató, y ganó renombre con los tH7969
+- 1Cr_11:21jefe...pero no igualó a los t primerosH7969
+- 1Cr_11:24hizo...y fue nombrado con los t valientesH7969
+- 1Cr_11:25no igualó a los t primeros. A éste pusoH7969
+- 1Cr_12:39con David t días comiendo y bebiendoH7969
+- 1Cr_13:14el arca de Dios...en su casa, t mesesH7969
+- 1Cr_21:10t cosas te propongo; escoge de ellasH7969
+- 1Cr_21:12o t años de hambre, o por t meses serH7969
+- 1Cr_21:12por t días la espada de Jehová...pesteH7969
+- 1Cr_23:8hijos de Laadán, t: Jehiel el primeroH7969
+- 1Cr_23:9los hijos de Simei, t: Selomit, HazielH7969
+- 1Cr_23:23Musi: Mahlí, Edar y Jeremot, ellos tH7969
+- 1Cr_25:5y Dios dio a Hernán 14 hijos y t hijasH7969
+- 2Cr_4:4t...miraban al norte, t al occidenteH7969
+- 2Cr_4:4doce bueyes...t al sur, y t al orienteH7969
+- 2Cr_6:13un estrado...de altura de t codos, y loH7969
+- 2Cr_8:13para que ofreciesen...t veces en el añoH7969
+- 2Cr_9:21cada t años solían venir las naves deH7969
+- 2Cr_10:5les dijo: Volved a mí de aquí a t díasH7969
+- 2Cr_10:12había mandado...volved...aquí a t díasH7992
+- 2Cr_11:17confirmaron a Roboam hijo...por t añosH7969
+- 2Cr_11:17porque t años anduvieron en el caminoH7969
+- 2Cr_13:2reinó t años en Jerusalén. El nombre deH7969
+- 2Cr_20:25t días estuvieron recogiendo el botínH7969
+- 2Cr_31:16de t años arriba, a...los que entrabanH7969
+- 2Cr_36:2Joacaz...y t meses reinó en JerusalénH7969
+- 2Cr_36:9Joaquín...y reinó t meses y 10 días enH7969
+- Esd_6:4y t hileras de piedras grandes, y unaH8532
+- Esd_8:15junto al río que...acampamos allí t díasH7969
+- Esd_8:32llegamos a...y reposamos allí t díasH7969
+- Esd_10:8que el que no viniera dentro de t díasH7969
+- Esd_10:9se reunieron en...dentro de los t díasH7969
+- Neh_2:11llegué...después de estar allí t díasH7969
+- Est_4:16no comáis ni bebáis en t días, nocheH7969
+- Job_1:2y le nacieron siete hijos y t hijasH7969
+- Job_1:4enviaban a llamar a sus t hermanas paraH7969
+- Job_1:17dijo: Los caldeos hicieron t escuadronesH7969
+- Job_2:11t amigos de Job...vinieron cada uno de suH7969
+- Job_2:12t esparcieron polvo sobre sus cabezas
+- Job_32:1cesaron estos t varones de responder aH7969, [[[[H7969]]]]
+- Job_32:3se encendió en ira contra sus t amigosH7969
+- Job_32:5respuesta en la boca de...t varones, seH7969
+- Job_33:29hace Dios dos y t veces con el hombreH7969
+- Job_42:13y tuvo siete hijos y t hijasH7969
+- Pro_22:20¿no te he escrito t veces en consejos
+- Pro_30:15t cosas hay que nunca se sacian; aun laH7969
+- Pro_30:18t cosas me son ocultas; aun tampoco séH7969
+- Pro_30:21por t cosas se alborota la tierra, y laH7969
+- Pro_30:29t cosas hay de hermoso andar, y...paseaH7969
+- Ecl_4:12y cordón de t dobleces no se rompe
+- Isa_15:5huirán hasta Zoar, como novilla de tH7992
+- Isa_16:14dentro de t años, como los años de unH7969
+- Isa_17:6dos o t frutos en la punta de la ramaH7969
+- Isa_20:3que anduvo...desnudo y descalzo t añosH7969
+- Isa_40:12con t dedos juntó el polvo de la tierra
+- Jer_36:23leído t o cuatro planas, lo rasgóH7969
+- Jer_48:34Zoar hasta Horonaim, becerra de t añosH7992
+- Jer_52:24tomó también a...y t guardas del atrioH7969
+- Eze_14:14estuviesen en...ella estos t varonesH7969
+- Eze_14:16estos t varones estuviesen en medio deH7969
+- Eze_14:18y estos t varones estuviesen en medioH7969
+- Eze_40:10tenía t cámaras a...las t de una medidaH7969
+- Eze_40:21sus cámaras eran t de un lado, y t delH7969
+- Eze_40:48puerta t codos de un lado, y t codos deH7969
+- Eze_41:6unas...treinta en cada uno de los t pisosH7969
+- Eze_41:16las cámaras alrededor de los t pisosH7969
+- Eze_41:22la altura del altar...era de t codos, yH7969
+- Eze_42:3cámaras, las unas enfrente...en t pisosH7992
+- Eze_42:6porque estaban en t pisos, y no teníanH8027
+- Eze_48:31t puertas al norte; la puerta de RubénH7969
+- Eze_48:32lado oriental 4.500 cañas y t puertasH7969
+- Eze_48:33y t puertas: la puerta de Simeón, unaH7969
+- Eze_48:34y sus t puertas: la puerta de Gad, unaH7969
+- Dan_1:5que los criase t años, para que al finH7969
+- Dan_3:23estos t varones...cayeron atados dentroH8532
+- Dan_3:24¿no echaron a t varones atados dentroH8532
+- Dan_6:2t gobernadores, de los cuales Daniel eraH8532
+- Dan_6:10se arrodillaba t veces al día, y orabaH8532
+- Dan_6:13sino que t veces al día hace su peticiónH8532
+- Dan_7:5y tenía en su boca t costillas entre losH8532
+- Dan_7:8delante de él fueron arrancados t cuernosH8532
+- Dan_7:20del otro...delante del cual habían caído tH8532
+- Dan_7:24se levantará otro...a t reyes, derribaráH8532
+- Dan_10:2estuve afligido por espacio de t semanasH7969
+- Dan_10:3hasta que se cumplieron las t semanasH7969
+- Dan_11:2habrá t reyes en Persia, y el cuarto seH7969
+- Amó_1:3, Amó_1:6, Amó_1:9, Amó_1:13; Amó_2:1, Amó_2:4, Amó_2:6por t pecados de...y por el cuartoH7969
+- Amó_1:11Por t pecados de Edom, y por el cuarto, no revocaréH7969
+- Amó_4:4de mañana...vuestros diezmos cada t díasH7969
+- Amó_4:7os detuve la lluvia t meses antes de laH7969
+- Amó_4:8venían dos o t ciudades...para beber aguaH7969
+- Jon_1:17y estuvo Jonás en...t días y t nochesH7969
+- Jon_3:3era Nínive...grande...de t días de caminoH7969
+- Zac_11:8destruí a t pastores en un mes; puesH7969
+- Mat_12:40como estuvo Jonás...t días y t nochesG5140
+- Mat_12:40estará el Hijo del...t días y t nochesG5140
+- Mat_13:33escondió en t medidas de harina, hastaG5140
+- Mat_15:32ya hace t días que están conmigo, y noG5140
+- Mat_17:4hagamos aquí t enramadas; una para tiG5140
+- Mat_18:16que en boca de dos o t testigos consteG5140
+- Mat_18:20están dos o t congregados en mi nombreG5140
+- Mat_26:34que el gallo cante, me negarás t vecesG5151
+- Mat_26:61puedo derribar...en t días reedificarloG5140
+- Mat_26:75antes que cante el gallo, me negarás tG5151
+- Mat_27:40en t días lo reedificas, sálvate a tiG5140
+- Mat_27:63que...dijo...Después de t días resucitaréG5140
+- Mar_8:2ya hace t días que están conmigo, y noG5140
+- Mar_8:31muerto, y resucitar después de t díasG5140
+- Mar_9:5y hagamos t enramadas, una para ti, otraG5140
+- Mar_14:30digo que tú, hoy...me negarás t vecesG5151
+- Mar_14:58y en t días edificaré otro hecho sinG5140
+- Mar_14:72antes que el gallo cante...me negarás tG5151
+- Mar_15:29que derribas...en t días lo reedificasG5140
+- Luc_1:56se quedó María con ella como t mesesG5140
+- Luc_2:46t días después le hallaron en el temploG5140
+- Luc_4:25cuando el cielo fue cerrado por t añosG5140
+- Luc_9:33y hagamos t enramadas, una para ti, unaG5140
+- Luc_10:36¿quién...de estos t te parece que fueG5140
+- Luc_11:5va...y le dice: Amigo, préstame t panesG5140
+- Luc_12:52estarán...t contra dos, y dos contra tG5140
+- Luc_13:7hace t años que vengo a buscar fruto enG5140
+- Luc_13:21que una mujer...escondió en t medidas deG5140
+- Luc_22:34que tú niegues t veces que me conocesG5151
+- Luc_22:61que el gallo cante, me negarás t vecesG5151
+- Jua_2:6en cada una de...cabían dos o t cántarosG5140
+- Jua_2:19este templo, y en t días lo levantaréG5140
+- Jua_2:20templo, ¿y tú en t días lo levantarás?[[G5140]]
+- Jua_13:38gallo, sin que me hayas negado t vecesG5151
+- Hec_5:7pasado...de t horas...entró su mujer, noG5140
+- Hec_7:20fue criado t meses en casa de su padreG5140
+- Hec_9:9donde estuvo t días sin ver, y no comióG5140
+- Hec_10:16esto se hizo t veces; y aquel lienzoG5151
+- Hec_10:19le dijo...He aquí, t hombres te buscanG5140
+- Hec_11:10esto se hizo t veces, y volvió todo aG5151
+- Hec_11:11llegaron t hombres a la casa donde yoG5140
+- Hec_17:2por t días de reposo discutió con ellosG5140
+- Hec_19:8habló con denuedo por espacio de t mesesG5140
+- Hec_20:3después de haber estado allí t mesesG5140
+- Hec_20:31por t años...no he cesado de amonestarG5148
+- Hec_25:1de Cesarea a Jerusalén t días despuésG5140
+- Hec_28:7recibió y hospedó solícitamente t díasG5140
+- Hec_28:11pasados t meses, nos hicimos a la velaG5140
+- Hec_28:12llegados a Siracusa, estuvimos...t díasG5140
+- Hec_28:15hasta el Foro de Apio y las T TabernasG5140
+- Hec_28:17que t días después, Pablo convocó a losG5140
+- 1Co_13:13permanecen la fe...el amor, estos tG5140
+- 1Co_14:27por dos, o a lo más t, y por turno; yG5140
+- 1Co_14:29profetas hablen dos o t, y los demásG5140
+- 2Co_11:25t veces he sido azotado con varasG5151
+- 2Co_11:25t veces he padecido naufragio; una vezG5151
+- 2Co_12:8t veces he rogado al...que lo quite de míG5151
+- 2Co_13:1por boca de...t testigos se decidirá todoG5140
+- Gál_1:18pasados t años, subí a Jerusalén paraG5140
+- 1Ti_5:19acusación sino con dos o t testigosG5140
+- Heb_10:28por el testimonio...t testigos muereG5140
+- Heb_11:23escondido por sus padres por t mesesG5150
+- Stg_5:17oró...no llovió...t años y seis mesesG5140
+- 1Jn_5:7porque t son los que dan testimonioG5140
+- 1Jn_5:7dan testimonio en el...y estos t son unoG5140
+- 1Jn_5:8t son los que dan...y estos t concuerdanG5140
+- Rev_8:13de trompeta que están para sonar los tG5140
+- Rev_9:18t plagas fue muerta la tercera parte deG5140
+- Rev_11:9verán sus cadáveres por t días y medioG5140
+- Rev_11:11después de t días y medio entró en ellosG5140
+- Rev_16:13y vi salir de la...t espíritus inmundosG5140
+- Rev_16:19la gran ciudad fue dividida en t partesG5140
+- Rev_21:13oriente t puertas; al norte t puertasG5140
+- Rev_21:13sur t puertas; al occidente t puertasG5140

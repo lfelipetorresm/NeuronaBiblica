@@ -1,0 +1,474 @@
+---
+tipo: concordancia
+palabra: QUERER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# QUERER
+
+- Gén_24:5la mujer no querrá venir en pos de míH14
+- Gén_24:8si la mujer no quisiere venir en pos deH14
+- Gén_24:39yo...Quizás la mujer no querrá seguirmeH194
+- Gén_27:46dijo Rebeca...¿para qué quiero la vida?[[H2416]]
+- Gén_37:35mas él no quiso recibir consuelo, y dijo
+- Gén_39:8él no quiso, y dijo a la mujer de su amoH3985
+- Gén_48:19su padre no quiso, y dijo: Lo sé, hijoH3985
+- Éxo_4:23dejes ir a mi hijo...mas no has queridoH3985
+- Éxo_4:24le salió al encuentro, y quiso matarlo
+- Éxo_7:14Faraón...y no quiere dejar ir al puebloH3985
+- Éxo_7:16he aquí que hasta ahora no has querido
+- Éxo_8:2y si no lo quisieres dejar ir, he aquíH3986
+- Éxo_9:2no lo quieres dejar ir, y lo detienesH3986
+- Éxo_10:3no querrás humillarte delante de mí?[[H3985]]
+- Éxo_10:27Jehová endureció...y no quiso dejarlosH14
+- Éxo_12:48si algún extranjero...quisiere celebrar
+- Éxo_16:28¿hasta cuándo no querréis guardar mis
+- Éxo_22:17si su padre no quiere dársela, él leH3985
+- Lev_26:21no me quisiereis oír, yo añadiré sobre
+- Lev_27:13y si lo quisiere rescatar, añadirá...la quintaH7522
+- Lev_27:19y si el que dedicó...quisiere redimirla
+- Lev_27:31y si alguno quisiere rescatar algo del
+- Núm_20:21no quiso...Edom dejar pasar a IsraelH3985
+- Núm_22:13porque Jehová no me quiere dejar ir conH3985
+- Núm_22:14a Balac y dijeron: Balaam no quiso venirH3985
+- Deu_1:26no quisisteis subir...fuisteis rebeldesH14
+- Deu_2:30Sehón rey...no quiso que pasásemos por elH14
+- Deu_7:7no por ser...os ha querido Jehová y os haH2836
+- Deu_7:8y quiso guardar el juramento que juró a
+- Deu_10:10me escuchó...no quiso Jehová destruirteH14
+- Deu_23:5mas no quiso Jehová tu Dios oír a BalaamH14
+- Deu_25:7el hombre no quisiere tomar a su cuñadaH2654
+- Deu_25:7mi cuñado no quiere suscitar nombre enH3985
+- Deu_25:7mi cuñado...no quiere emparentar conmigo
+- Deu_25:8levantare y dijere: No quiero tomarlaH2654
+- Deu_25:9será hecho al...que no quiere edificar
+- Deu_29:20no querrá Jehová perdonarlo, sino queH5545
+- Jos_24:10mas yo no quise escuchar a BalaamH14
+- Jue_8:24les dijo...Quiero haceros una peticiónH7592
+- Jue_11:17al rey de Moab, el cual tampoco quisoH14
+- Jue_12:5quiero pasar, los de Galaad les preguntaban
+- Jue_13:16si quieres hacer holocausto, ofrécelo
+- Jue_13:23si...nos quisiera matar, no aceptaría deH2654
+- Jue_19:6te ruego que quieras pasar aquí la nocheH2974
+- Jue_19:10el hombre no quiso pasar allí la nocheH14
+- Jue_19:25aquellos hombres no le quisieron oírH14
+- Jue_20:13Benjamín no quisieron oír la voz de susH14
+- Rut_3:13mas si él no te quisiere redimirH2654
+- Rut_4:4si tú quieres redimir, redime; y si no quieres
+- 1Sa_2:16después toma tanto como quieras; élH8378
+- 1Sa_8:19pero el pueblo no quiso oír la voz de Samuel
+- 1Sa_12:22Jehová ha querido haceros pueblo suyoH2974
+- 1Sa_15:9no lo quisieron destruir; mas todo lo queH14
+- 1Sa_18:22rey...todos sus siervos te quieren bienH157
+- 1Sa_21:9si quieres tomarla, tómala; porque aquí no hay
+- 1Sa_22:17no quisieron extender sus manos paraH14
+- 1Sa_26:23no quise extender mi mano contra el ungidoH14
+- 1Sa_31:4su escudero no quería...tenía gran temorH14
+- 2Sa_1:23Saúl y Jonatán, amados y queridosH5273
+- 2Sa_2:21Asael no quiso apartarse de en pos de élH14
+- 2Sa_2:23y no queriendo él irse, lo hirió AbnerH3985
+- 2Sa_5:6(queriendo decir: David no puede entrar acá)[[H559]]
+- 2Sa_6:10David no quiso traer para sí el arca de JehováH14
+- 2Sa_12:4éste no quiso tomar de sus ovejas y deH2550
+- 2Sa_12:17mas él no quiso, ni comió con ellos panH14
+- 2Sa_12:18le hablábamos, y no quería oír nuestra
+- 2Sa_13:9las sacó delante de él...él no quiso comerH3985
+- 2Sa_13:14no la quiso oír, sino que pudiendo másH14
+- 2Sa_13:16mayor mal es este...él no la quiso oírH14
+- 2Sa_13:25aunque porfió con él, no quiso ir, masH14
+- 2Sa_14:16me quiere destruir a mí y a mi hijo juntamente
+- 2Sa_14:29él no quiso venir; y...no quiso venirH14
+- 2Sa_21:4ni queremos que muera hombre de Israel
+- 2Sa_23:7sino que el que quiere tocarlos
+- 2Sa_23:16mas él no la quiso beber, sino que laH14
+- 2Sa_23:17no quiso beberla. Los tres valientes hicieron estoH14
+- 2Sa_24:13¿quieres que te vengan siete años de
+- 1Re_3:5dijo...Pide lo que quieras que yo te dé
+- 1Re_5:10y madera de ciprés, toda la que quisoH2656
+- 1Re_9:1y todo lo que Salomón quiso hacerH2654
+- 1Re_9:11Hiram...había traído...y cuanto oro quisoH2656
+- 1Re_9:19y todo lo que Salomón quiso edificar en JerusalénH2836
+- 1Re_10:13a la reina de Sabá...lo que ella quisoH2656
+- 1Re_13:33y a quien quería lo consagraba para que fueseH2655
+- 1Re_20:35hiéreme...Mas el otro no quiso herirleH3985
+- 1Re_21:6que si más quería, le daría otra viñaH5414
+- 1Re_21:15no te la quiso dar por dinero; porque Nabot no vive
+- 1Re_22:4¿quieres venir conmigo a pelear contra Ramot de Galaad?
+- 1Re_22:49vayan mis siervos con...Josafat no quisoH14
+- 2Re_2:1cuando quiso Jehová alzar a Elías en
+- 2Re_2:9pide lo que quieras que haga por ti, antes
+- 2Re_4:13dijo él...¿qué quieres que haga por ti?
+- 2Re_5:16que aceptara alguna cosa...él no quisoH3985
+- 2Re_8:19Jehová no quiso destruir a Judá, por amor aH14
+- 2Re_10:6si sois míos, y queréis obedecerme, tomad
+- 2Re_13:23no quiso destruirlos ni...de su presencia hasta hoyH14
+- 2Re_24:4por la sangre...Jehová...no quiso perdonarH14
+- 1Cr_10:4escudero no quiso...tenía mucho miedoH14
+- 1Cr_11:18mas él no la quiso beber...la derramóH14
+- 1Cr_11:19no la quiso beber. Esto hicieron aquellosH14
+- 1Cr_17:27ahora has querido bendecir la casa de tu siervoH2894
+- 1Cr_19:19nunca más quiso ayudar a los hijos de AmónH14
+- 1Cr_29:5¿y quién quiere hacer hoy ofrenda voluntariaH5068
+- 2Cr_1:7Dios...le dijo: Pídeme lo que quieras
+- 2Cr_1:11ni la vida de los que te quieren malH3117
+- 2Cr_8:6y todo lo que Salomón quiso edificar enH2836
+- 2Cr_9:12dio a la reina de Sabá...lo que ella quisoH2656
+- 2Cr_11:22puso Roboam a Abías...porque quería hacerle
+- 2Cr_18:3¿quieres venir conmigo contra Ramot de Galaad?
+- 2Cr_20:10a cuya tierra no quisiste que pasase Israel
+- 2Cr_21:7mas Jehová no quiso destruir la casa de DavidH14
+- 2Cr_25:16déjate de eso...quieres que te maten?
+- 2Cr_25:20mas Amasías no quiso oír; porque era la
+- 2Cr_25:20Dios, que los quería entregar en mano
+- Esd_7:13aquel...que quiera ir contigo a Jerusalén, vaya
+- Neh_9:17no quisieron oír, ni se acordaron de
+- Neh_9:24que hiciesen de ellos como quisieran
+- Est_1:12la reina Vasti no quiso comparecer a
+- Est_2:14salvo sí el rey la quería y era llamadaH2654
+- Est_7:8¿querrás también violar a la reina en mi
+- Est_9:5hicieron con sus enemigos como quisieron
+- Est_9:24y había echado Pur, que quiere decir suerte
+- Job_6:7las cosas que mi alma no quería tocar
+- Job_6:28pues, si queréis, miradme, y ved siH2974
+- Job_7:15y quiso la muerte más que mis huesosH4194
+- Job_9:3quisiere contender con él, no le podrá
+- Job_13:3yo hablaría...querría razonar con DiosH2654
+- Job_17:3porque ¿quién querría responder por mí?
+- Job_21:14porque no queremos el conocimiento deH2654
+- Job_22:15¿quieres tú seguir la senda antigua que
+- Job_33:32habla, porque yo te quiero justificarH2654
+- Job_39:9¿querrá el búfalo servirte...o quedar en
+- Sal_40:13quieras, oh Jehová, librarme; JehováH7521
+- Sal_51:16no quieres sacrificio, que yo lo daríaH2654
+- Sal_51:16que yo lo daría; no quieres holocaustoH7521
+- Sal_78:10de Dios, ni quisieron andar en su leyH3985
+- Sal_81:11mi pueblo no oyó...e Israel no me quiso
+- Sal_105:22para que reprimiera...como él quisieseH5315
+- Sal_109:17no quiso la bendición, y ella se alejóH2654
+- Sal_111:2buscadas de todos los que las quierenH2656
+- Sal_115:3Dios está...todo lo que quiso ha hechoH2654
+- Sal_132:13Sion; la quiso por habitación para síH183
+- Sal_132:14aquí habitaré, porque la he queridoH183
+- Sal_135:6todo lo que Jehová quiere, lo hace, enH2654
+- Sal_142:4pues no hay quien me quiera conocer
+- Pro_1:10hijo mío, si los pecadores te quisieren engañar
+- Pro_1:24llamé, y no quisisteis oír, extendí
+- Pro_1:25consejo...y mi reprensión no quisisteH14
+- Pro_1:30ni quisieron mi consejo, y...reprensiónH14
+- Pro_3:12como el padre al hijo a quien quiereH7521
+- Pro_6:35ni querrá perdonar, aunque multipliques los dones
+- Pro_21:1Jehová; a todo lo que quiere lo inclina
+- Pro_21:7por cuanto no quisieron hacer juicio
+- Pro_21:25porque sus manos no quieren trabajar
+- Ecl_3:1todo lo que se quiere...tiene su horaH2656
+- Ecl_3:17un tiempo para todo lo que se quiere yH2656
+- Ecl_8:3no te...porque él hará todo lo que quiereH2654
+- Ecl_8:6para todo lo que quisieres hay tiempo yH2656
+- Cnt_2:7; Cnt_3:5; Cnt_8:4ni hagáis velar...hasta que quieraH2654
+- Isa_1:5¿por qué querréis ser castigados aún?
+- Isa_1:11no quiero sangre de bueyes...ovejas, niH2654
+- Isa_1:19si quisiereis y oyereis, comeréis el bienH14
+- Isa_1:20no quisiereis y fuereis rebeldes, seréis
+- Isa_21:12noche; preguntad si queréis, preguntad
+- Isa_28:12este es el reposo...mas no quisieron oírH14
+- Isa_30:9que no quisieron oír la ley de Jehová
+- Isa_30:15reposo seréis salvos...Y no quisisteisH14
+- Isa_42:24no quisieron andar en sus caminos, ni oyeronH14
+- Isa_44:28Ciro...y cumplirá todo lo que yo quieroH2656
+- Isa_46:10mi consejo...haré todo lo que quieroH2656
+- Isa_53:10Jehová quiso...sujetándole a padecimientoH2654
+- Isa_55:11sino que hará lo que yo quiero, y seráH2654
+- Isa_56:4escojan lo que yo quiero, y abracen miH2654
+- Isa_58:2que me buscan cada día, y quieren saberH2654
+- Isa_58:2me piden...juicios, y quieren acercarseH2654
+- Jer_3:3y no quisiste tener vergüenzaH3985
+- Jer_5:3no quisieron recibir corrección;...no quisieronH3985
+- Jer_5:31y mi pueblo así lo quiso...¿Qué, puesH157
+- Jer_8:5abrazaron el engaño, y no han querido volverseH3985
+- Jer_9:6por muy engañadores no quisieron conocermeH2654
+- Jer_9:24porque estas cosas quiero, dice JehováH2654
+- Jer_11:10los cuales no quisieron escuchar mis palabrasH3985
+- Jer_13:10este pueblo malo, que no quiere oír mis palabrasH3987
+- Jer_20:4seas un terror a...que bien te quierenH157
+- Jer_20:6Pasur, y...todos los que bien te quierenH157
+- Jer_25:28y si no quieren tomar la copa de tu mano para beberH3985
+- Jer_27:5hice la tierra...la di a quien yo quiseH5869, [[H3474]]
+- Jer_31:15Raquel...no quiso ser consolada acercaH3985
+- Jer_36:25que no quemase...rollo, no los quiso oírH8085
+- Jer_38:21pero si no quieres entregarte, esta es la palabraH3986
+- Jer_50:33los retuvieron; no los quisieron soltarH3985
+- Eze_3:7no te querrá oír, porque no me quiereH8085
+- Eze_3:27el que no quiera oír, no oiga; porqueH2308
+- Eze_18:23¿quiero yo la muerte del impío? diceH2654
+- Eze_18:32no quiero la muerte del que muere, diceH2654
+- Eze_20:4¿quieres tú juzgarlos? ¿Los quieres juzgar tú
+- Eze_20:8se rebelaron contra mí, y no quisieronH14
+- Eze_21:16hiere a la izquierda, adonde quiera que
+- Eze_33:11no quiero la muerte del impío, sino queH2654
+- Dan_4:17a quien él quiere lo da, y constituyeH6634
+- Dan_4:19el sueño...para los que mal te quieren
+- Dan_4:25, Dan_4:32el Altísimo...lo da a quien él quiereH6634
+- Dan_5:19a quien quería mataba, y a quien q dabaH6634
+- Dan_5:19a quien quería, y a quién q humillabaH6634
+- Dan_8:12y echó...e hizo cuanto quiso, y prosperó
+- Ose_5:11porque quiso andar en pos de vanidadesH2974
+- Ose_6:6misericordia quiero, y no sacrificioH2654
+- Ose_8:13no los quiso Jehová; ahora se acordaráH7521
+- Ose_11:5no volverá...porque no se quisieron convertir
+- Ose_11:7ninguno absolutamente me quiere enaltecer
+- Joe_3:4¿queréis vengaros de mí? Y si de mí os vengáis
+- Amó_4:5publicad ofrendas...que así lo queréisH157
+- Amó_5:18¿para qué queréis este día de Jehová?[[H183]]
+- Jon_1:14Jehová, has hecho como has queridoH2654
+- Zac_7:11pero no quisieron escuchar, antes
+- Mat_1:19no quería infamarla, quiso dejarlaG2309
+- Mat_2:18Raquel que..y no quiso ser consoladaG2309
+- Mat_5:40y al que quiera ponerte a pleito y quitarte laG2309
+- Mat_5:42y al que quiera tomar de ti prestado, no se loG2309
+- Mat_7:12todas las cosas que queráis que...haganG2309
+- Mat_8:2Señor, si quieres, puedes limpiarme
+- Mat_8:3y le tocó, diciendo: Quiero, sé limpioG2309
+- Mat_9:13; Mat_12:7misericordia quiero, y no sacrificioG2309
+- Mat_11:14si queréis recibirlo,...Elías que había de venirG2309
+- Mat_11:27y aquel a quien el Hijo lo quiera revelarG1014
+- Mat_12:46su madre y sus hermanos...y le querían hablarG2212
+- Mat_12:47tu madre y tus hermanos...y te quieren hablarG2212
+- Mat_13:28¿quieres...que vayamos y la arranquemos?[[G2309]]
+- Mat_14:5y Herodes quería matarle, pero temía al puebloG2309
+- Mat_15:28es tu fe; hágase contigo como quieresG2309
+- Mat_15:32enviarlos en ayunas no quiero, no seaG2309
+- Mat_16:24si alguno quiere venir en...niéguese a sí mismoG2309
+- Mat_16:25todo el que quiera salvar su vida, la perderáG2309
+- Mat_17:4si quieres, hagamos aquí tres enramadasG2309
+- Mat_17:12hicieron con él todo lo que quisieronG3745
+- Mat_18:23a un rey que quiso hacer cuentas con susG2309
+- Mat_18:30él no quiso, sino fue y le echó en laG2309
+- Mat_19:17mas si quieres entrar en la vida, guarda losG2309
+- Mat_19:21si quieres ser perfecto, anda, vende
+- Mat_20:14pero quiero dar a este postrero, como a tiG2309
+- Mat_20:15lícito hacer lo que quiero con lo mío?[[G2309]]
+- Mat_20:21¿qué quieres? Ella le dijo: Ordena queG2309
+- Mat_20:26el que quiera hacerse grande...será vuestro servidor
+- Mat_20:27y el que quiera ser el primero entre
+- Mat_20:32y les dijo: ¿Qué queréis que os haga?[[G2309]]
+- Mat_21:29él, dijo: No quiero; pero después...fueG2309
+- Mat_22:3envió a sus siervos a llamar...éstos no quisieron venirG2309
+- Mat_23:4pero ellos ni con un dedo quieren moverlasG2309
+- Mat_23:8vosotros no queráis que os llamen Rabí
+- Mat_23:37¡cuántas veces quise...y no quisiste![[G2309]]
+- Mat_26:15¿qué me queréis dar, y yo os lo entregaré?[[G2309]]
+- Mat_26:17¿dónde quieres...para que comas la pascua?[[G2309]]
+- Mat_26:39pero no sea como yo quiero, sino comoG2309
+- Mat_27:15soltar al...un preso, el que quisiesenG2309
+- Mat_27:17dijo...¿A quién queréis que os suelteG2309
+- Mat_27:21¿a cuál de los...queréis que os suelte?[[G2309]]
+- Mat_27:34pero después de haberlo probado, no quisoG2309
+- Mat_27:43confió en...líbrele ahora si le quiereG2309
+- Mar_1:40le dijo: Si quieres, puedes limpiarmeG2309
+- Mar_1:41y le tocó, y le dijo: Quiero, sé limpioG2309
+- Mar_3:13monte, y llamó a sí a los que él quisoG2309
+- Mar_6:22pídeme lo que quieras, y yo te lo daréG2309
+- Mar_6:25quiero...en un plato la cabeza de JuanG2309
+- Mar_6:26el rey se entristeció mucho; pero...no quisoG2309
+- Mar_6:48vino a ellos...y quería adelantárselesG2309
+- Mar_7:11Corbán que quiere decir, mi ofrenda a
+- Mar_7:24no quiso que nadie lo supiese; pero noG2309
+- Mar_8:34dijo: Si alguno quiere venir en pos de míG3748
+- Mar_8:35todo el que quiera salvar su vida, la
+- Mar_9:13le hicieron todo lo que quisieron, comoG3745
+- Mar_9:30salido...no quería que nadie lo supieseG2309
+- Mar_9:35si alguno quiere ser el primero, seráG2309
+- Mar_10:35Maestro, querríamos que nos hagas lo queG2309
+- Mar_10:36él les dijo: ¿Qué queréis que os haga?[[G2309]]
+- Mar_10:43quiera hacerse grande entre vosotrosG2309
+- Mar_10:44que...quiera ser el primero, será siervoG2309
+- Mar_10:51¿qué quieres que te haga? Y el ciego leG2309
+- Mar_14:7cuando queráis les podréis hacer bienG3752
+- Mar_14:12¿dónde quieres que vayamos a prepararG2309
+- Mar_14:36mas no lo que yo quiero, sino lo que túG2309
+- Mar_15:9¿queréis...os suelte al Rey de los judíos?[[G2309]]
+- Mar_15:12¿qué, pues, queréis que haga del...ReyG2309
+- Mar_15:15queriendo satisfacer al pueblo, les soltó aG1014
+- Luc_1:62preguntaron...cómo le quería llamarG2309
+- Luc_4:6sido entregada, y a quien quiero la doyG2309
+- Luc_5:12Señor, si quieres, puedes limpiarmeG2309
+- Luc_5:13le tocó, diciendo: Quiero; sé limpioG2309
+- Luc_5:39beba del añejo, quiere luego el nuevoG2309
+- Luc_6:31como queréis que hagan los, con vosotrosG2309
+- Luc_7:2el siervo de...a quien éste quería muchoG1784
+- Luc_8:20tu madre y tus hermanos están fuera y quieren verteG2309
+- Luc_9:23si alguno quiere venir...niéguese a sí mismoG2309
+- Luc_9:24todo el que quiera salvar su vida, la perderáG2309
+- Luc_9:54¿quieres que mandemos...fuego del cieloG2309
+- Luc_10:22y aquel a quien el Hijo lo quiera revelarG1014
+- Luc_10:29pero él, queriendo justificarse a sí mismo, dijoG2309
+- Luc_12:49¿y qué quiero, si ya se ha encendido?[[G2309]]
+- Luc_13:31sal, y vete de aquí, porque Herodes te quiere matarG2309
+- Luc_13:34quise juntar a tus hijos...no quisiste![[G2309]]
+- Luc_14:28¿quién de vosotros, queriendo edificar una torreG2309
+- Luc_15:28entonces se enojó, y no quería entrarG2309
+- Luc_16:26los que quisieren pasar de aquí a vosotros, no puedenG2309
+- Luc_18:4no quiso por algún tiempo; pero despuésG2309
+- Luc_18:13el publicano...no quería ni aun alzar losG2309
+- Luc_18:41diciendo: ¿Qué quieres que te haga?
+- Luc_19:14no queremos que...reine sobre nosotrosG2309
+- Luc_19:27enemigos que no querían que yo reinaseG2309
+- Luc_22:9ellos...¿Dónde quieres que la preparemos?[[G2309]]
+- Luc_22:42si quieres, pasa de mí esta copa; peroG1014
+- Luc_23:20les habló otra vez Pilato, queriendo soltar a JesúsG2309
+- Jua_1:42serás llamado Cefas (que quiere decir, Pedro
+- Jua_1:43quiso Jesús ir a Galilea, y halló aG2309
+- Jua_3:8el viento sopla de donde quiere, y oyesG2309
+- Jua_5:6Jesús lo vio...le dijo: ¿Quieres ser sano?[[G2309]]
+- Jua_5:21así...el Hijo a los que quiere da vidaG2309
+- Jua_5:35y vosotros quisisteis regocijaros por un tiempoG2309
+- Jua_5:40y no queréis venir a mí para que tengáis vidaG2309
+- Jua_6:11asimismo de los peces, cuanto queríanG2309
+- Jua_6:67¿queréis acaso iros también vosotros?[[G2309]]
+- Jua_7:1andaba Jesús en Galilea; pues no quería andar en JudeaG2309
+- Jua_7:17el que quiera hacer la voluntad de DiosG2309
+- Jua_7:44querían prenderle; pero ninguno le echó manoG2309
+- Jua_8:44y los deseos de vuestro padre queréis hacer
+- Jua_9:27os lo he dicho, y no habéis querido oír
+- Jua_9:27dicho...¿por qué lo queréis oír otra vez?[[G2309]]
+- Jua_9:27queréis también...haceros sus discípulos?[[G2309]]
+- Jua_12:21diciendo: Señor, quisiéramos ver a JesúsG2309
+- Jua_15:7pedid...lo que queréis, y os será hechoG2309
+- Jua_16:18¿qué quiere decir con: Todavía un poco?
+- Jua_16:19Jesús conoció que querían preguntarle, y les dijoG2309
+- Jua_17:24quiero que donde yo estoy...ellos esténG2309
+- Jua_18:39¿queréis, pues, que os suelte al Rey deG1014
+- Jua_20:16le dijo: ¡Raboni! (que quiere decir, Maestro)
+- Jua_21:18joven, te ceñías, e ibas donde queríasG2309
+- Jua_21:18otro, y te llevará a donde no quierasG2309
+- Jua_21:22-23si quiero que él quede hasta queG2309
+- Hec_1:19Acéldama, que quiere decir, Campo de sangre
+- Hec_2:12diciéndose unos a otros: ¿Qué quiere decir esto?
+- Hec_5:28queréis echar...la sangre de ese hombreG1014
+- Hec_5:33ellos, oyendo esto, se enfurecían y querían matarlosG1011
+- Hec_7:28¿quieres tú matarme, como mataste ayer al egipcio?[[G2309]]
+- Hec_7:39al cual nuestros padres no quisieron obedecerG2309
+- Hec_9:6dijo: Señor, ¿qué quieres que yo haga?[[G2309]]
+- Hec_9:36una discípula llamada Tabita,...quiere decir, Dorcas
+- Hec_10:10y quiso comer; pero...le sobrevino un éxtasisG2309
+- Hec_13:22David...quien hará todo lo que yo quieroG2307
+- Hec_14:13la muchedumbre quería ofrecer sacrificiosG2309
+- Hec_15:37Bernabé quería que llevasen consigo a
+- Hec_16:3quiso Pablo que éste fuese con él; yG2309
+- Hec_17:18¿qué querrá decir este palabrero?[[G2309]]
+- Hec_17:20queremos, pues, saber qué quiere decir esto
+- Hec_18:15porque yo no quiero ser juez de estas cosasG1014
+- Hec_18:21vez volveré a vosotros, si Dios quiereG2309
+- Hec_18:27queriendo él pasar a Acaya, los hermanos leG1014
+- Hec_19:30queriendo Pablo salir al pueblo, los
+- Hec_19:33quería hablar en su defensa ante el puebloG2309
+- Hec_20:13allí a Pablo...queriendo él ir por tierraG3195
+- Hec_22:30queriendo saber...por la cual le acusaban los judíos
+- Hec_23:15queréis indagar alguna cosa más cierta acercaG3195
+- Hec_23:28y queriendo saber la causa por qué le acusaban
+- Hec_24:6quisimos juzgarle conforme a nuestra leyG2309
+- Hec_24:27queriendo Félix congraciarse con losG2309
+- Hec_25:9pero Festo, queriendo congraciarse con los judíosG2309
+- Hec_25:20pregunté si quería ir a Jerusalén y allá ser juzgado
+- Hec_25:22también quisiera oír a ese hombre...Mañana le oirás
+- Hec_26:5quieren testificarlo, conforme a la más rigurosaG2309
+- Hec_26:29¡quisiera Dios que por poco o por muchoG2172
+- Hec_27:30como que querían largar las anclas de proaG3195
+- Hec_27:43queriendo salvar a Pablo, les impidió este intentoG1014
+- Hec_28:18me querían soltar, por no haber en mí ninguna
+- Hec_28:22pero querríamos oír de ti lo que piensasG515
+- Rom_1:13no quiero, hermanos, que ignoréis queG2309
+- Rom_7:15pues no hago lo que quiero, sino lo queG2309
+- Rom_7:16si lo que no quiero, esto hago, aprueboG2309
+- Rom_7:18el querer el bien está en mí, pero no elG2309
+- Rom_7:19bien que quiero, sino el mal que no qG2309
+- Rom_7:20si hago lo que no quiero...no lo hago yoG2309
+- Rom_7:21queriendo yo hacer el bien, hallo estaG2309
+- Rom_9:16así que no depende del que quiere, ni delG2309
+- Rom_9:18quien quiere, tiene misericordia, y al que quiereG2309
+- Rom_9:22queriendo mostrar su ira y hacer notorioG2309
+- Rom_11:25no quiero, hermanos, que ignoréis esteG2309
+- Rom_13:3¿Quieres, pues, no temer la autoridad?[[G2309]]
+- Rom_16:19quiero que seáis sabios para el bienG2309
+- 1Co_1:12quiero decir, que cada uno de vosotros dice
+- 1Co_4:19pero iré pronto...si el Señor quiereG2309
+- 1Co_4:21¿qué queréis? ¿Iré a vosotros con varaG2309
+- 1Co_7:7quisiera...que todos los hombres fuesenG2309
+- 1Co_7:28tendrán aflicción de la carne,...la quisiera evitar
+- 1Co_7:32quisiera...que estuvieseis sin congojaG2309
+- 1Co_7:36haga lo que quiera, no peca; que se caseG2309
+- 1Co_7:39libre es para casarse con quien quieraG2309
+- 1Co_10:1no quiero...ignoréis que nuestros padresG2309
+- 1Co_10:20no quiero que...os hagáis partícipes conG2309
+- 1Co_10:27incrédulo os invita, y queréis, ir, deG2309
+- 1Co_11:3quiero que sepáis que Cristo es la cabeza de todoG2309
+- 1Co_11:16eso, si alguno quiere ser contencioso
+- 1Co_12:1no quiero, hermanos, que ignoréis acercaG2309
+- 1Co_12:11repartiendo a cada uno...como él quiereG1014
+- 1Co_12:18ha colocado los miembros...como él quisoG2309
+- 1Co_14:5quisiera que todos...hablaseis en lenguasG2309
+- 1Co_14:35si quieren aprender algo, pregunten...a susG2309
+- 1Co_15:38Dios le da el cuerpo como él quiso, yG2309
+- 1Co_16:7no quiero veros ahora de paso, pues esperoG2309
+- 2Co_1:8no queremos que ignoréis acerca deG2309
+- 2Co_1:15quise ir primero a vosotros, para...una segunda
+- 2Co_5:4no quisiéramos ser desnudados, sino revestidosG2309
+- 2Co_5:8más quisiéramos estar ausentes del cuerpoG2106
+- 2Co_8:10no sólo a hacerlo...también a quererlo
+- 2Co_8:11que como estuvisteis prontos a quererG2309
+- 2Co_10:9como que os quiero amedrentar por cartas
+- 2Co_12:6si quisiera gloriarme, no sería insensatoG2309
+- 2Co_12:20temo que...no os halle tales como quieroG2309
+- 2Co_12:20y yo sea hallado de...cual no queréisG2309
+- Gál_1:7quieren pervertir el evangelio de CristoG2309
+- Gál_3:2esto solo quiero saber de vosotrosG2309
+- Gál_4:9a los cuales os queréis volver a esclavizar?[[G2309]]
+- Gál_4:17sino que quieren apartaros de nosotros para queG2309
+- Gál_4:20quisiera estar con vosotros...y cambiar de tonoG2309
+- Gál_4:21los que queréis estar bajo la ley: ¿noG2309
+- Gál_5:17para que no hagáis lo que quisiereisG2309
+- Gál_6:12todos los que quieren agradar en la carneG2309
+- Gál_6:13pero quieren que vosotros os circuncidéisG2309
+- Efe_6:6como los que quieren agradar a los hombres
+- Flp_1:12quiero que sepáis...que las cosas que
+- Flp_2:13produce así el querer como el hacer, porG2307
+- Col_1:27a quienes Dios quiso dar...riquezasG2309
+- Col_2:1quiero que sepáis cuán gran luchaG2309
+- Col_3:22como los que quieren agradar a los hombres
+- Col_4:12y completos en todo lo que Dios quiereG2307
+- 1Ts_2:8querido entregaros...nuestras vidasG2106
+- 1Ts_2:8porque habéis llegado a sernos...queridosG27
+- 1Ts_2:18por lo cual quisimos ir a vosotrosG2309
+- 1Ts_4:13tampoco queremos...que ignoréis acerca deG2309
+- 2Ts_3:10si alguno no quiere trabajar, tampoco comaG2309
+- 1Ti_1:7queriendo ser doctores de la ley, sinG2309
+- 1Ti_2:4el cual quiere que todos los hombres seanG2309
+- 1Ti_2:8quiero...que los hombres oren en todo lugarG1014
+- 1Ti_5:11rebelan contra Cristo, quieren casarseG2309
+- 1Ti_5:14quiero...que las viudas jóvenes se casenG1014
+- 1Ti_6:9los que quieren enriquecerse caen en tentaciónG1014
+- 2Ti_3:12quieren vivir piadosamente en Cristo JesúsG2309
+- Tit_3:8y en estas cosas quiero que insistasG1014
+- Flm_1:13yo quisiera retenerle conmigo
+- Flm_1:14pero nada quise hacer sin tu consentimientoG2309
+- Heb_6:17queriendo Dios mostrar...inmutabilidadG1014
+- Heb_10:5dice: Sacrificio y ofrenda no quisisteG2309
+- Heb_10:8y expiaciones por el pecado no quisisteG2309
+- Stg_2:20mas quieres saber,...la fe sin obras es muerta?[[G2309]]
+- Stg_3:4por donde el que las gobierna quiere
+- Stg_4:4pues, que quiera ser amigo del mundo, seG1014
+- Stg_4:15si el Señor quiere, viviremos y haremosG2309
+- 1Pe_3:10el que quiere amar la vida y ver díasG2309
+- 1Pe_3:17si la voluntad de Dios así lo quiereG2307
+- 2Pe_3:9no queriendo que ninguno perezca, sinoG1014
+- 2Jn_1:12no he querido hacerlo por medio de papel y tinta
+- 3Jn_1:10y a los que quieren recibirlos se lo prohíbe
+- 3Jn_1:13pero no quiero escribírtelas con tinta y plumaG2309
+- Jud_1:5quiero recordaros...que...destruyó a losG1014
+- Rev_2:21pero no quiere arrepentirse de su fornicación
+- Rev_11:5si alguno quiere...de la boca de ellosG2309
+- Rev_11:5si alguno quiere...debe morir él de la misma maneraG2309
+- Rev_11:6herir la tierra...cuantas veces quieranG2309
+- Rev_17:17ha puesto...el ejecutar lo que él quisoG1106
+- Rev_22:17el que quiera, tome del agua de la vidaG2309

@@ -1,0 +1,71 @@
+---
+tipo: concordancia
+palabra: PURO,A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PURO,A
+
+- Éxo_25:11y la cubrirás de oro p por dentro yH2889
+- Éxo_25:24la cubrirás de oro p, y le harás unaH2889
+- Éxo_25:31un candelero de oro p; labrado a manoH2889
+- Éxo_25:36todo ello una pieza labrada...de oro pH2889
+- Éxo_25:38también sus despabiladeras...de oro pH2889
+- Éxo_27:20traigan aceite p de olivas machacadasH2134
+- Éxo_30:3lo cubrirás de oro p, su cubierta, susH2889
+- Éxo_30:34toma especias...e incienso p; de todo enH2134
+- Éxo_30:35harás...incienso, un perfume...p y santoH2889
+- Éxo_37:2cubrió de oro p por dentro y por fueraH2889
+- Éxo_37:6hizo asimismo el propiciatorio de oro pH2889
+- Éxo_37:11cubrió de oro p, y le hizo una cornisaH2889
+- Éxo_37:17asimismo el candelero de oro p, labradoH2889
+- Éxo_37:22todo era una pieza labrada...de oro pH2889
+- Éxo_37:23hizo...sus despabiladeras y...de oro pH2889
+- Éxo_37:24un talento de oro p lo hizo, con todosH2889
+- Éxo_37:26lo cubrió de oro p, su cubierta y susH2889
+- Éxo_37:29hizo...el incienso p, aromático, segúnH2889
+- Éxo_39:15sobre el pectoral los cordones...oro pH2889
+- Éxo_39:25hicieron también campanillas de oro pH2889
+- Éxo_39:30la lámina de la diadema santa de oro pH2889
+- Éxo_39:37el candelero p, sus lamparillas, lasH2889
+- Lev_24:2aceite p de olivas machacadas, paraH2134
+- Lev_24:7pondrás...incienso p, y será para el panH2134
+- Deu_28:56la tierna...de p delicadeza y ternura
+- 1Re_5:11daba a Hiram...20 coros de aceite pH3795
+- 1Re_6:21que Salomón cubrió de oro p la casa porH5462
+- 1Cr_28:17oro p para los garfios, para losH2889
+- 1Cr_28:18oro p en peso...el altar del inciensoH2212
+- 2Cr_3:4pórtico...cubrió por dentro de oro pH2889
+- 2Cr_4:20los candeleros y sus lámparas, de oro pH5462
+- 2Cr_4:22cucharas y...incensarios eran de oro pH5462
+- 2Cr_9:17un gran trono de...y lo cubrió de oro pH2889
+- 2Cr_9:20y toda la vajilla de la casa...de oro pH5462
+- Job_11:4tú dices: Mi doctrina es p, y yo soyH2134
+- Job_16:17a pesar de...de haber sido mi oración pH2134
+- Sal_19:8precepto de Jehová es p, que alumbraH1249
+- Sal_24:4el limpio de manos y p de corazón; el queH1249
+- Sal_51:4tu palabra, y tenido por p en tu juicioH2889
+- Sal_119:127más que el oro, y más que oro muy pH2889
+- Sal_119:140sumamente p es tu palabra, y la amaH2889
+- Isa_1:25limpiaré hasta lo más p tus escoriasH2889
+- Isa_44:20diga: ¿No es p mentira lo que tengo enH2889
+- Lam_4:2preciados y estimados más que el oro pH2889
+- Lam_4:7sus nobles fueron más p que la nieve, másH2889
+- Ose_14:4los amaré de p gracia; porque mi iraH2889
+- Mar_14:3con un vaso de...de perfume de nardo p
+- Jua_12:3tomó una libra de perfume de nardo p
+- 2Co_11:2para presentaros como una virgen pG53
+- Efe_1:5hijos suyos...según el p afecto de suG2107
+- Flp_4:8todo lo p, todo lo amable, todo lo queG53
+- 1Ti_5:22no impongas...las manos...Consérvate pG53
+- Tit_1:15todas las cosas son p para los p, masG2513
+- Tit_1:15mas para los corrompidos...nada les es pG2513
+- Heb_10:22fe...y lavados los cuerpos con agua pG2513
+- Stg_1:27religión p y sin mácula delante deG2513
+- Stg_3:17pero la sabiduría que es de lo alto...pG53
+- 1Pe_1:22amaos unos a otros...de corazón pG2513
+- 1Jn_3:3purifica a sí mismo, así como él es pG53
+- Rev_14:10sido vaciado p en el cáliz de su ira
+- Rev_21:18pero la ciudad era de oro p, semejanteG2513
+- Rev_21:21y la calle de la ciudad era de oro pG2513

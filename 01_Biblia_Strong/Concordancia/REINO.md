@@ -1,0 +1,409 @@
+---
+tipo: concordancia
+palabra: REINO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REINO
+
+- Gén_10:10fue el comienzo de su r Babel, ErecH4467
+- Gén_20:9atraído...sobre mi r tan grande pecado?[[H4467]]
+- Éxo_19:6vosotros me seréis un r de sacerdotesH4467
+- Núm_21:30mas devastamos el r de ellos; pereció
+- Núm_24:7enaltecerá su rey...r será engrandecidoH4438
+- Núm_32:33Moisés dio...el r de Sehón...el r de OgH4467
+- Deu_3:4tierra de Argob, del r de Og en BasánH4467
+- Deu_3:10y Edrel, ciudades del r de Og en BasánH4467
+- Deu_3:13todo Basán, del r de Og, toda la tierraH4467
+- Deu_3:21hará Jehová a todos los r a los cualesH4467
+- Deu_17:18cuando se siente sobre el trono de su rH4467
+- Deu_17:20fin de que prolongue sus días en su rH4467
+- Deu_28:25serás vejado...todos los r de la tierraH4467
+- Jos_11:10Hazor había sido antes cabeza de...rH4467
+- Jos_13:12el r de Og en Basán, el cual reinó enH4468
+- Jos_13:21las ciudades...todo el r de Sehón rey deH4468
+- Jos_13:27Bet-aram...del r de Sehón rey de HesbónH4468
+- Jos_13:30todo el r de Og rey de Basán, y todasH4468
+- Jos_13:31ciudades del r de Og en Basán, para losH4468
+- Jue_18:7Lais...ni había quien poseyese el r
+- 1Sa_10:16asunto del r...no le descubrió nadaH4410
+- 1Sa_10:18os libré...de mano de todos los r que osH4467
+- 1Sa_10:25recitó luego al pueblo las leyes del rH4410
+- 1Sa_11:14a Gilgal para que renovemos allí el rH4410
+- 1Sa_13:13ahora Jehová hubiera confirmado tu rH4467
+- 1Sa_13:14ahora tu r no será duradero...Jehová seH4467
+- 1Sa_15:28ha rasgado hoy de ti el r de Israel, yH4468
+- 1Sa_18:8y a mí miles; no le falta más que el rH4410
+- 1Sa_20:31el hijo de...ni tú estarás firme, ni tu rH4438
+- 1Sa_24:20r de Israel ha de ser en tu mano firmeH4467
+- 1Sa_28:17Jehová ha quitado el r de tu mano, y loH4467
+- 2Sa_3:10trasladando el r de la casa de SaúlH4467
+- 2Sa_3:28dijo: Inocente soy yo y mi r, delante deH4467
+- 2Sa_5:12había engrandecido su r por amor de suH4467
+- 2Sa_7:12de ti a uno de tu linaje...y afirmaré su rH4467
+- 2Sa_7:13afirmaré para siempre el trono de su rH4467
+- 2Sa_7:16será afirmada tu casa y tu r para siempreH4467
+- 2Sa_16:3devolverá la...de Israel el r de mi padreH4468
+- 2Sa_16:8ha entregado el r en mano de tu...AbsalónH4410
+- 1Re_1:46Salomón...ha sentado en el trono del rH4410
+- 1Re_2:12Salomón...su r fue firme en gran maneraH4438
+- 1Re_2:15dijo: Tú sabes que el r era mío, y queH4410
+- 1Re_2:15el r fue traspasado, y vino a ser de miH4410
+- 1Re_2:22demanda también para él el r; porque élH4410
+- 1Re_2:46r fue confirmado en la mano de SalomónH4467
+- 1Re_4:21y Salomón señoreaba sobre todos los rH4467
+- 1Re_6:1principio del r de Salomón sobre IsraelH4427
+- 1Re_9:5afirmaré el trono de tu r sobre IsraelH4467
+- 1Re_10:20en ningún otro r se había hecho tronoH4467
+- 1Re_11:11romperé de ti el r, y lo entregaré aH4467
+- 1Re_11:13no romperé todo el r, sino que daré unaH4467
+- 1Re_11:31que yo rompo el r de la mano de SalomónH4467
+- 1Re_11:34pero no quitaré nada del r de sus manosH4467
+- 1Re_11:35quitaré el r de la mano de su hijo, yH4410
+- 1Re_12:21y hacer volver el r a Roboam hijo deH4410
+- 1Re_12:26ahora se volverá el r a la casa de DavidH4467
+- 1Re_14:8rompí el r de la casa de David y te loH4467
+- 1Re_15:29y cuando él vino al r, mató a toda laH4427
+- 1Re_18:10no ha habido...r adonde mi señor no hayaH4467
+- 1Re_18:10a r y a naciones él ha hecho jurar queH4467
+- 2Re_14:5cuando hubo afirmado...el r, mató a losH4467
+- 2Re_15:19que le ayudara a confirmarse en el rH4467
+- 2Re_19:15sólo tú eres Dios de todos los r de laH4467
+- 2Re_19:19sepan todos los r...sólo tu...eres DiosH4467
+- 1Cr_10:14traspasó el r a David hijo de IsaíH4410
+- 1Cr_11:10los que le ayudaron en su r, con todoH4438
+- 1Cr_12:23vinieron a David...traspasarle el r deH4438
+- 1Cr_14:2y que había exaltado su r sobre...IsraelH4438
+- 1Cr_16:20y andaban de...y de un r a otro puebloH4467
+- 1Cr_17:11uno de entre tus hijos, y afirmaré su rH4438
+- 1Cr_17:14que lo confirmaré en mi casa y en mi rH4438
+- 1Cr_22:10afirmaré el trono de su r sobre IsraelH4438
+- 1Cr_28:5que se siente en el trono del r de JehováH4438
+- 1Cr_28:7confirmaré su r para siempre, si él seH4438
+- 1Cr_29:11tuyo, oh Jehová, es el r...eres excelsoH4467
+- 1Cr_29:22dieron...la investidura del r a SalomónH4428
+- 1Cr_29:25dio tal gloria en su r, cual ningún reyH4428
+- 1Cr_29:30sobre todos los r de aquellas tierrasH4467
+- 2Cr_1:1Salomón hijo de...fue afirmado en su rH4438
+- 2Cr_2:1Salomón edificar casa...y casa para su rH4438
+- 2Cr_2:12que edifique casa a...y casa para su rH4438
+- 2Cr_7:18confirmaré el trono de tu r, como pactéH4438
+- 2Cr_9:19jamás fue...trono semejante en r algunoH4467
+- 2Cr_11:1para pelear...hacer volver el r a RoboamH4467
+- 2Cr_11:17fortalecieron el r de Judá, y...RoboamH4438
+- 2Cr_12:1Roboam había consolidado el r, dejó la leyH4438
+- 2Cr_12:8y qué es servir a los r de las nacionesH4467
+- 2Cr_13:5Jehová Dios de Israel dio el r a DavidH4467
+- 2Cr_13:8tratáis de resistir al r de Jehová enH4467
+- 2Cr_14:5Judá...estuvo el r en paz bajo su reinadoH4467
+- 2Cr_17:5Jehová, por tanto, confirmó el r en suH4467
+- 2Cr_17:10pavor de Jehová sobre todos los r de lasH4467
+- 2Cr_20:6tienes dominio sobre todos los r de lasH4467
+- 2Cr_20:29el pavor de Dios cayó sobre todos los rH4467
+- 2Cr_20:30y el r de Josafat tuvo paz, porque suH4467
+- 2Cr_21:3había dado el r a Joram, porque él eraH4467
+- 2Cr_21:4fue elevado, pues, Joram al r de su padreH4467
+- 2Cr_22:9Ocozías no tenía fuerzas...retener el rH4467
+- 2Cr_23:20sentaron al rey sobre el trono del rH4467
+- 2Cr_25:3confirmado en el r, mató a los siervosH4467
+- 2Cr_29:21expiación por el r, por el...y por JudáH4467
+- 2Cr_32:15si ningún dios de...r pudo librar a suH4467
+- 2Cr_33:13oyó su oración y lo restauro a...a su rH4467
+- 2Cr_36:20cautivos...hasta que...el r de los persasH4438
+- 2Cr_36:22Ciro...hizo pregonar de...por todo su rH4438
+- 2Cr_36:23Dios...me ha dado todos los r de la tierraH4467
+- Esd_1:1Ciro...hizo pregonar de...por todo su rH4438
+- Esd_1:2Dios...me ha dado todos los r de la tierraH4467
+- Esd_7:13todo aquel en mi r, del pueblo de IsraelH4437
+- Esd_7:23ira contra el r del rey y de sus hijos?[[H4437]]
+- Neh_1:1año...estando yo en Susa, capital del rH1002
+- Neh_9:22les diste r y pueblos, y los repartisteH4467
+- Neh_9:35ellos en su r y en tu mucho bien que lesH4438
+- Est_1:2fue afirmado...sobre el trono de su rH4438
+- Est_1:2el trono...estaba en Susa capital del rH4438
+- Est_1:4para mostrar...gloria de su r, el brilloH4438
+- Est_1:5el pueblo que había en Susa capital del rH4438
+- Est_1:14del rey, y se sentaban los primeros del rH4428
+- Est_1:20y el decreto que...será oído en todo su rH4438
+- Est_2:3todas las provincias de su r, que llevenH4438
+- Est_3:6destruir a...los judíos que había en el rH4438
+- Est_3:8distribuido entre...las provincias de tu rH4438
+- Est_3:15el edicto fue dado en Susa capital del rH4428
+- Est_4:14sabe si para esta hora has llegado al r?[[H4438]]
+- Est_5:3dijo el...Hasta la Mitad del r se te daráH4438
+- Est_5:6; Est_7:2la mitad del r, te será concedidaH4438
+- Est_5:14el edicto fue dado en Susa capital del rH4428
+- Est_9:6en Susa capital del r mataron los...a 500H4438
+- Est_9:12Susa capital del r los judíos han matadoH4428
+- Sal_22:28de Jehová es el r, y él regirá lasH4410
+- Sal_45:6cetro de justicia es el cetro de tu rH4438
+- Sal_46:6naciones, titubearon los r; dio él su vozH4467
+- Sal_68:32r de la tierra, cantad a Dios, cantadH4467
+- Sal_79:6y sobre los r que no invocan tu nombreH4467
+- Sal_102:22pueblos y los r se congreguen en unoH4467
+- Sal_103:19su trono, y su r domina sobre todosH4438
+- Sal_105:13y andaban de...de un r a otro puebloH4467
+- Sal_145:11la gloria de tu r digan, y hablen deH4438
+- Sal_145:12para hacer saber...la gloria...de su rH4438
+- Sal_145:13tu r es r de todos los siglos, y tuH4438
+- Ecl_4:14para reinar, aunque en su r nació pobreH4438
+- Isa_9:7sobre el trono de David y sobre su rH4467
+- Isa_10:10como halló mi mano los r de los ídolosH4467
+- Isa_13:4estruendo de ruido de r, de nacionesH4467
+- Isa_13:19Babilonia, hermosura de r y ornamentoH4467
+- Isa_14:16¿es éste aquel...que trastornaba los rH4467
+- Isa_17:3cesará el socorro de...y el r de DamascoH4467
+- Isa_19:2uno...ciudad contra ciudad, y r contra rH4467
+- Isa_23:11extendió su mano...hizo temblar los rH4467
+- Isa_23:17vez fornicará con todos los r del mundoH4467
+- Isa_34:12llamarán a...príncipes, príncipes sin rH4467
+- Isa_37:16eres Dios de todos los r de la tierraH4467
+- Isa_37:20que todos los r...conozcan que sólo túH4467
+- Isa_47:5porque nunca...te llamarán señora de rH4467
+- Isa_60:12o el r que no te sirviere perecerá, yH4467
+- Isa_62:3diadema de r en la mano del Dios tuyoH4467
+- Jer_1:10que te he puesto en este día sobre...rH4467
+- Jer_1:15convoco a todas las familias de los r delH4467
+- Jer_10:7y en todos sus r, no hay semejante a tiH4467
+- Jer_15:4para terror a todos los r de la tierraH4467
+- Jer_18:7hablaré contra pueblos y contra r, paraH4467
+- Jer_18:9en un instante hablaré de...y del r, paraH4467
+- Jer_24:9los daré por escarnio...a todos los r deH4467
+- Jer_25:26a todos los r del mundo que están sobreH4467
+- Jer_27:8al r que no sirviere a Nabucodonosor reyH4467
+- Jer_28:8profetizaron...contra muchas tierras...rH4467
+- Jer_29:18los daré por escarnio a todos los r deH4467
+- Jer_34:1su ejército, y todos los r de la tierraH4467
+- Jer_34:17os pondré por afrenta ante todos los rH4467
+- Jer_49:28y de los r de Hazor, los cuales asolóH4467
+- Jer_51:20quebrantaré...medio de ti destruiré rH4467
+- Jer_51:27juntad contra ella los r de Ararat, deH4467
+- Lam_2:2echó por tierra...humilló al r y a susH4467
+- Eze_17:14para que el r fuese abatido y no seH4467
+- Eze_29:14Egipto...y allí serán un r despreciableH4467
+- Eze_29:15en comparación con los...r será humildeH4467
+- Eze_37:22ni nunca más serán divididos en dos rH4467
+- Dan_1:20mejores que...los magos...en todo su rH4438
+- Dan_2:37el Dios del cielo te ha dado r, poderH4437
+- Dan_2:39de ti se levantará otro r inferior al tuyoH4437
+- Dan_2:39y luego un tercer r de bronce, el cualH4437
+- Dan_2:40y el cuarto r será fuerte como hierroH4437
+- Dan_2:41en parte de hierro, será un r divididoH4437
+- Dan_2:42el r será en parte fuerte, y en parteH4437
+- Dan_2:44levantará un r que no será...destruido, niH4437
+- Dan_2:44jamás...ni será el r dejado a otro puebloH4437
+- Dan_2:44desmenuzará y consumirá a todos estos rH4437
+- Dan_4:3señales...Su r, r sempiterno, y su señoríoH4437
+- Dan_4:17Altísimo gobierna el r de los hombresH4437
+- Dan_4:18todos los sabios de mi r no han podidoH4437
+- Dan_4:25que el Altísimo tiene dominio en el r deH4437
+- Dan_4:26cepa...significa que tu r te quedará firmeH4437
+- Dan_4:31se te dice...El r ha sido quitado de tiH4437
+- Dan_4:32tiene el dominio en el r de los hombresH4437
+- Dan_4:34dominio es...y su r por todas las edadesH4437
+- Dan_4:36la majestad de mi r, mi dignidad y miH4437
+- Dan_4:36restablecido en mi r, y mayor grandezaH4437
+- Dan_5:7lea esta...y será el tercer señor en el rH4437
+- Dan_5:11en tu r hay un hombre en el cual mora elH4437
+- Dan_5:16vestido...serás el tercer señor en el rH4437
+- Dan_5:18dio a...tu padre el r y la grandeza, laH4437
+- Dan_5:20orgullo, fue depuesto del trono de su rH4437
+- Dan_5:21tiene dominio sobre el r de los hombresH4437
+- Dan_5:26MENE: Contó Dios tu r, y le ha puestoH4437
+- Dan_5:28PERES: Tu r ha sido roto, y dado a losH4437
+- Dan_5:29y proclamar...era el tercer señor del rH4437
+- Dan_5:31Darío de Media tomó el r, siendo de 62H4437
+- Dan_6:1constituir sobre el r 120 sátrapas, queH4437
+- Dan_6:1sátrapas, que gobernasen en todo el rH4437
+- Dan_6:3el rey pensó en ponerlo sobre todo el rH4437
+- Dan_6:4acusar a Daniel en lo relacionado al rH4437
+- Dan_6:7los gobernadores del r...han acordado porH4437
+- Dan_6:26en todo el dominio de mi r todos temanH4437
+- Dan_6:26r no será jamás destruido, y su dominioH4437
+- Dan_7:14y le fue dado dominio, gloria y r, paraH4437
+- Dan_7:14eterno...y su r uno que no será destruidoH4437
+- Dan_7:18los santos...poseerán el r hasta el sigloH4437
+- Dan_7:22llegó el...y los santos recibieron el rH4437
+- Dan_7:23un cuarto r...diferente de...los otros rH4437
+- Dan_7:24significan que de aquel r se levantaránH4437
+- Dan_7:27el r...y la majestad de los r debajo deH4437
+- Dan_7:27r es r eterno, y todos los dominios leH4437
+- Dan_8:2en Susa...la capital del r en la provinciaH4428
+- Dan_8:22que cuatro r se levantarán de esa naciónH4428
+- Dan_9:1Darío...que vino a ser rey sobre el r deH4438
+- Dan_10:13mas el príncipe del r de Persia se meH4438
+- Dan_11:2levantará a todos contra el r de GreciaH4438
+- Dan_11:4su r será quebrantado y repartido haciaH4438
+- Dan_11:4porque su r será arrancado, y será paraH4438
+- Dan_11:9así entrará en el r el rey del sur, yH4438
+- Dan_11:17para venir con el poder de todo su rH4438
+- Dan_11:20pasar...de tributos por la gloria del rH4438
+- Dan_11:21al cual no darán la honra del r; peroH4438
+- Dan_11:21pero vendrá sin aviso y tomará el r conH4438
+- Ose_1:4y haré cesar el r de la casa de IsraelH4468
+- Amó_6:2si son aquellos r mejores que estos rH4467
+- Amó_7:13no profetices...en Bet-el...capital del rH4467
+- Amó_9:8los ojos de Jehová...contra el r pecadorH4467
+- Abd_1:21subirán salvadores...el r será de JehováH4410
+- Miq_4:8vendrá el...el r de la hija de JerusalénH4467
+- Nah_3:5mostraré a las...y a los r tu vergüenzaH4467
+- Sof_3:8juntar los r, para derramar sobre ellosH4467
+- Hag_2:22y trastornaré el trono de los r, yH4467
+- Hag_2:22y destruiré la fuerza de los r de lasH4467
+- Mat_3:2porque el r de los cielos...ha acercadoG932
+- Mat_4:8mostró todos los r del mundo y la gloriaG932
+- Mat_4:17arrepentíos, porque el r de los cielosG932
+- Mat_4:23ellos, y predicando el evangelio del rG932
+- Mat_5:3, Mat_5:10porque de ellos es el r de los cielosG932
+- Mat_5:19muy pequeño será llamado en el r de losG932
+- Mat_5:19éste será llamado grande en el r de losG932
+- Mat_5:20si...no entraréis en el r de los cielosG932
+- Mat_6:10venga tu r...Hágase tu voluntad, como enG932
+- Mat_6:13tuyo es el r, y el poder, y la gloriaG932
+- Mat_6:33buscad primeramente el r de Dios y suG932
+- Mat_7:21no todo...entrará en el r de los cielosG932
+- Mat_8:11se sentarán con...en el r de los cielosG932
+- Mat_8:12mas los hijos del r serán echados a lasG932
+- Mat_9:35ellos, y predicando el evangelio del rG932
+- Mat_10:17yendo...El r de los cielos se ha acercadoG932
+- Mat_11:11el más pequeño en el r...mayor es que élG932
+- Mat_11:12el r de los cielos sufre violencia, yG932
+- Mat_12:25r dividido contra sí mismo, es asoladoG932
+- Mat_12:26fuera...¿cómo, pues, permanecerá su r?[[G932]]
+- Mat_12:28si...ha llegado a vosotros el r de DiosG932
+- Mat_13:11os es dado saber los misterios del rG932
+- Mat_13:19cuando alguno oye la palabra del r, yG932
+- Mat_13:24el r de los cielos es semejante a unG932
+- Mat_13:31r de los cielos es semejante al granoG932
+- Mat_13:33el r de les cielos es semejante a laG932
+- Mat_13:38la buena semilla son los hijos del rG932
+- Mat_13:41recogerán de su r...los que sirven deG932
+- Mat_13:43los justos resplandecerán...en el r deG932
+- Mat_13:44r...es semejante a un tesoro escondidoG932
+- Mat_13:45el r de los...es semejante a un mercaderG932
+- Mat_13:47asimismo el r...es semejante a una redG932
+- Mat_13:52escriba docto en el r...es semejante aG932
+- Mat_16:19te daré las llaves del r de los cielosG932
+- Mat_16:28al Hijo del Hombre viniendo en su rG932
+- Mat_18:1¿quién es el mayor en el r de...cielos?[[G932]]
+- Mat_18:3si no...no entraréis en el r de los cielosG932
+- Mat_18:4ése es el mayor en el r de los cielosG932
+- Mat_18:23r de los cielos es semejante a un reyG932
+- Mat_19:12se hicieron eunucos por causa del r deG932
+- Mat_19:14porque de...tales es el r de los cielosG932
+- Mat_19:23difícilmente entrará un rico en el r deG932
+- Mat_19:24de una aguja, que entrar un rico en el rG932
+- Mat_20:1porque el r de los cielos es semejante aG932
+- Mat_20:21que en tu r se sienten estos dos hijosG932
+- Mat_21:31van delante de vosotros al r de DiosG932
+- Mat_21:43el r de Dios será quitado de vosotrosG932
+- Mat_22:2el r de los cielos es semejante a un reyG932
+- Mat_23:13cerráis el r de los cielos delante deG932
+- Mat_24:7se levantará nación contra...y r contra rG932
+- Mat_24:14será predicado este evangelio del r enG932
+- Mat_25:1el r de los cielos será semejante a diezG932
+- Mat_25:14el r de los cielos es como un hombre queG932
+- Mat_25:34heredad el r preparado para vosotrosG932
+- Mat_26:29día en que lo beba...en el r de mi PadreG932
+- Mar_1:14predicando el evangelio del r de DiosG932
+- Mar_1:15diciendo...y el r de Dios se ha acercadoG932
+- Mar_3:24si un r está dividido contra...r no puedeG932
+- Mar_4:11es dado saber el misterio del r de DiosG932
+- Mar_4:26es el r de Dios...como cuando un hombreG932
+- Mar_4:30¿a qué haremos semejante el r de DiosG932
+- Mar_6:23pidas te daré, hasta la mitad de mi rG932
+- Mar_9:1que hayan visto el r de Dios venido conG932
+- Mar_9:47entrar en el r de Dios con un ojo, queG932
+- Mar_10:14dejad a...de los tales es el r de DiosG932
+- Mar_10:15que no reciba el r de Dios como un niñoG932
+- Mar_10:23¡cuán difícilmente entrarán en el r deG932
+- Mar_10:24difícil les es entrar en el r de DiosG932
+- Mar_10:25de una aguja, que entrar un rico en el rG932
+- Mar_11:10¡bendito el r de nuestro padre DavidG932
+- Mar_12:34le dijo: No estás lejos del r de DiosG932
+- Mar_13:8se levantará nación contra...y r contra rG932
+- Mar_14:25día en que lo beba nuevo en el r de DiosG932
+- Mar_15:43José...que también esperaba el r de DiosG932
+- Luc_1:33reinará sobre la...y su r no tendrá finG932
+- Luc_4:5en un momento todos los r de la tierraG932
+- Luc_4:43que...anuncie el evangelio del r de DiosG932
+- Luc_6:20pobres...porque vuestro es el r de DiosG932
+- Luc_7:28el mas pequeño en el r de Dios es mayorG932
+- Luc_8:1anunciando el evangelio del r de Dios, yG932
+- Luc_8:10dado conocer los misterios del r de DiosG932
+- Luc_9:2envió a predicar el r de Dios, y a sanarG932
+- Luc_9:11les hablaba del r de Dios...y sanaba a losG932
+- Luc_9:27no gustarán la muerte...vean el r de DiosG932
+- Luc_9:60deja que...tú vé, y anuncia el r de DiosG932
+- Luc_9:62hacia atrás...es apto para el r de DiosG932
+- Luc_10:9se ha acercado a vosotros el r de DiosG932
+- Luc_10:11sabed que el r de Dios se ha acercadoG932
+- Luc_11:2venga tu r...Hágase tu voluntad, como enG932
+- Luc_11:17r dividido contra sí mismo, es asoladoG932
+- Luc_11:18¿cómo permanecerá su r? ya que decísG932
+- Luc_11:20ciertamente el r de Dios ha llegado aG932
+- Luc_12:31mas buscad el r de Dios, y todas estasG932
+- Luc_12:32vuestro Padre le ha placido daros el rG932
+- Luc_13:18¿a qué es semejante el r de Dios, y conG932
+- Luc_13:20decir: ¿A qué compararé el r de Dios?[[G932]]
+- Luc_13:28cuando veáis a Abraham, en el r de DiosG932
+- Luc_13:29se sentarán a la mesa en el r de DiosG932
+- Luc_14:15dijo...el que coma pan en el r de DiosG932
+- Luc_16:16desde entonces el r de...es anunciadoG932
+- Luc_17:20cuándo había de venir el r de Dios, lesG932
+- Luc_17:20el r de Dios no vendrá con advertenciaG932
+- Luc_17:21aquí el r de Dios está entre vosotrosG932
+- Luc_18:16no...porque de los tales es el r de DiosG932
+- Luc_18:17que no recibe el r de Dios como un niñoG932
+- Luc_18:24difícilmente entrarán en el r de DiosG932
+- Luc_18:25de una aguja, que entrar un rico en el rG932
+- Luc_18:29haya dejado casa, o...por el r de DiosG932
+- Luc_19:11pensaban que el r de...se manifestaríaG932
+- Luc_19:12fue a un país...recibir un r y volverG932
+- Luc_19:15después de recibir el r, mandó llamarG932
+- Luc_21:10levantará nación contra...y r contra rG932
+- Luc_21:31así...sabed que está cerca el r de DiosG932
+- Luc_22:16no...hasta que se cumpla en el r de DiosG932
+- Luc_22:18de la vid, hasta que el r de Dios vengaG932
+- Luc_22:29yo, pues, os asigno un r, como mi PadreG932
+- Luc_22:30que comáis y bebáis a mi mesa en mi rG932
+- Luc_23:42acuérdate de mí cuando vengas en tu rG932
+- Luc_23:51éste, que también esperaba el r de DiosG932
+- Jua_3:3no naciere...no puede ver el r de DiosG932
+- Jua_3:5que no...no puede entrar en el r de DiosG932
+- Jua_18:36r no es de este mundo; si mi r fueraG932
+- Jua_18:36a los judíos; pero mí r no es de aquíG932
+- Hec_1:3y hablándoles acerca del r de DiosG932
+- Hec_1:6Señor, ¿restaurarás el r a Israel en esteG932
+- Hec_8:12que anunciaba, iba el evangelio del r de DiosG932
+- Hec_14:22a través de...entremos en el r de DiosG932
+- Hec_19:8habló persuadiendo acerca del r de DiosG932
+- Hec_20:25entre quienes he pasado predicando el rG932
+- Hec_28:23les testificaba el r de Dios desde laG932
+- Hec_28:31predicando el r de Dios y enseñandoG932
+- Rom_14:17el r de Dios no es comida ni bebidaG932
+- 1Co_4:20r de Dios no consiste en palabrasG932
+- 1Co_6:9los injustos no heredarán el r de Dios?[[G932]]
+- 1Co_6:10ni los ladrones...heredarán el r de DiosG932
+- 1Co_15:24el fin, cuando entregue el r al Dios yG932
+- 1Co_15:50sangre no pueden heredar el r de DiosG932
+- Gál_5:21tales cosas no heredarán el r de DiosG932
+- Efe_5:5tiene herencia en el r de Cristo y deG932
+- Col_1:13y trasladado al r de su amado HijoG932
+- Col_4:11me ayudan en el r de Dios, y han sidoG932
+- 1Ts_2:12Dios, que os llamo a su r y gloriaG932
+- 2Ts_1:5que seáis tenidos por dignos del r deG932
+- 2Ti_4:1juzgará...en su manifestación y...su rG932
+- 2Ti_4:18el Señor...preservará para su r celestialG932
+- Heb_1:8cetro de equidad es el cetro de tu rG932
+- Heb_11:33que por fe conquistaron r, hicieronG932
+- Heb_12:28recibiendo nosotros un r inconmovibleG932
+- Stg_2:5y herederos del r que ha prometido aG932
+- 2Pe_1:11será otorgada amplia...entrada en el rG932
+- Rev_1:9copartícipe...en el r y en la pacienciaG932
+- Rev_11:15los r del mundo han venido a ser deG932
+- Rev_12:10ahora ha venido...el r de nuestro DiosG932
+- Rev_16:10su r se cubrió de tinieblas, y mordíanG932
+- Rev_17:12diez reyes, que aún no han recibido rG932
+- Rev_17:17y dar su r a la bestia, hasta que seG932

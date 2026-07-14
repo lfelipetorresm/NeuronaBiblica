@@ -1,0 +1,329 @@
+---
+tipo: concordancia
+palabra: LADO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LADO
+
+- Gén_3:24una espada...se revolvía por todos lH2015
+- Gén_6:16pondrás la puerta del arca a su l; y leH6654
+- Gén_39:10él para acostarse al l de ella, paraH681
+- Gén_45:1delante de todos los que estaban al lH5921
+- Gén_50:10la era de Atad...al otro l del JordánH5676
+- Gén_50:11Abel-mizraim...está al otro l del JordánH5676
+- Éxo_14:9al l de Pi-hahirot, delante deH5921
+- Éxo_17:12Aarón y Hur...uno de un l y el otroH4480, [[H2088]]
+- Éxo_25:12dos anillos a un l...y dos...al otro lH6763
+- Éxo_25:14meterás...por los anillos a los l delH6763
+- Éxo_25:32y saldrán seis brazos de sus l; tresH6654
+- Éxo_25:32tres...a un l, y tres brazos al otro lH6654
+- Éxo_26:13codo de un l, y otro codo del otro lH4480, [[H2088]]
+- Éxo_26:13colgará sobre los l...a un l y al otroH6654
+- Éxo_26:18veinte tablas al l del mediodía, al surH6285
+- Éxo_26:20y al otro l del tabernáculo, al l delH6285
+- Éxo_26:22y para el l posterior del tabernáculoH3411
+- Éxo_26:26para las tablas de un l del tabernáculoH6763
+- Éxo_26:27las tablas del otro l...del l posteriorH6763
+- Éxo_26:35candelero...l sur...mesa al l del norteH6763
+- Éxo_27:7estarán aquellas varas a...l del altarH6763
+- Éxo_27:9l meridional, al sur, tendrá el atrioH6285
+- Éxo_27:9de cien codos de longitud para un lH6285
+- Éxo_27:11l del norte habrá a lo largo cortinasH6285
+- Éxo_27:12el ancho del atrio, del l occidentalH6285
+- Éxo_27:13el ancho del atrio por el l del orienteH6285
+- Éxo_27:14cortinas a un l de la entrada serán deH3802
+- Éxo_27:15y al otro l, quince codos de cortinasH3802
+- Éxo_27:18anchura 50 por un l y 50 por el otro
+- Éxo_28:26su orilla...al l del efod hacia adentroH5676
+- Éxo_30:4dos anillos...sus dos esquinas a ambos lH6654
+- Éxo_32:15escritas por ambos l; de uno y otro lH5676
+- Éxo_36:23veinte tablas al l...sur, al mediodíaH6285
+- Éxo_36:25el otro l del tabernáculo, al l norteH6763
+- Éxo_36:27para el l occidental del tabernáculoH3411
+- Éxo_36:28para las esquinas...en los dos l hizoH3411
+- Éxo_36:31para las tablas de un l del tabernáculoH6763
+- Éxo_36:32las tablas del otro l...del l posteriorH6763
+- Éxo_37:3en un l dos anillos y en el otro l dosH6763
+- Éxo_37:5metió las varas por...a los l del arcaH6763
+- Éxo_37:18de sus l salían seis brazos: 3 brazosH6654
+- Éxo_37:18tres brazos de un l...brazos del otro lH6654
+- Éxo_37:27en las dos esquinas a los dos l, paraH6654
+- Éxo_38:7varas por los anillos a los l del altarH6763
+- Éxo_38:9del l sur, al mediodía, las cortinas delH6285
+- Éxo_38:11y del l norte cortinas de cien codosH6285
+- Éxo_38:12l del occidente, cortinas de 50 codosH6285
+- Éxo_38:13del l oriental, al este, cortinas deH6285
+- Éxo_38:14a un l cortinas de quince codos, susH3802
+- Éxo_38:15al otro l, de uno y otro l de la puertaH3802
+- Éxo_40:22puso la mesa...al l norte de la cortinaH3409
+- Éxo_40:24el candelero...al l sur de la cortinaH3409
+- Lev_1:11y lo degollará al l norte del altarH3409
+- Lev_16:14hacia el propiciatorio al l oriental
+- Núm_3:29Coat acamparán al l del tabernáculoH3409
+- Núm_3:35acamparán al l del tabernáculo, al norteH3409
+- Núm_11:31un día de camino a un l, y un día deH3541
+- Núm_21:13acamparon al otro l de Arnón, que estáH5676
+- Núm_22:24que tenía pared a un l y pared al otroH4480, [[H2288]]
+- Núm_32:19porque no tomaremos heredad...al otro lH5676
+- Núm_32:19tendremos ya...heredad a este otro l delH5676
+- Núm_32:32de nuestra heredad será a este l delH5676
+- Núm_34:3tendréis el l del sur desde el desiertoH6285
+- Núm_34:15tomaron su heredad a este l del JordánH5676
+- Núm_35:5mediréis...al l del oriente...al l del surH6285
+- Núm_35:5l del occidente...y al l del norte 2.000H6285
+- Núm_35:10hayáis pasado al otro l del Jordán a laH5474
+- Núm_35:14tres ciudades daréis a este l del JordánH5676
+- Deu_1:1que habló Moisés...a este l del JordánH5676
+- Deu_1:5de este l del Jordán, en tierra de MoabH5676
+- Deu_3:8dos reyes amorreos...a este l del JordánH5676
+- Deu_3:20que Jehová...les da al otro l del JordánH5676
+- Deu_4:41apartó Moisés tres ciudades a este l delH5676
+- Deu_4:46este l del Jordán, en el valle delante de Bet-peorH5676
+- Deu_4:47dos reyes de los...de este l del JordánH5676
+- Deu_4:49todo el Arabá de este l del Jordán, alH5676
+- Deu_11:30los cuales están al otro l del JordánH5676
+- Deu_30:13ni está al otro l del mar, para queH5676
+- Deu_31:26este libro de...y ponedlo al l del arcaH6654
+- Jos_1:14-15tierra...dado a este l del JordánH5676
+- Jos_2:10dos reyes de los...al otro l del JordánH5676
+- Jos_3:16de la ciudad...que está al l de SaretánH6654
+- Jos_4:19acamparon en...al l oriental de JericóH4217
+- Jos_5:1reyes...que estaban al otro l del JordánH5676
+- Jos_7:7¡ojalá nos hubiéramos quedado al otro lH5676
+- Jos_8:22fueron encerrados...los unos por un l, yH4480, [[H2288]]
+- Jos_8:33estaba de pie a uno y otro l del arcaH4480, [[H2288]]
+- Jos_9:1oyeron...los reyes que estaban a este lH5676
+- Jos_9:10a los dos reyes...al otro l del JordánH5676
+- Jos_12:1tierra poseyeron al otro l del JordánH5676
+- Jos_12:7derrotaron Josué...a este l del JordánH5676
+- Jos_12:9el rey de Hai, que está al l de Bet-el, otroH6654
+- Jos_13:8heredad...al otro l del Jordán al orienteH5676
+- Jos_13:27del mar de Cineret al otro l del JordánH5676
+- Jos_13:32Moisés repartió...al otro l del JordánH5676
+- Jos_14:3dos tribus...heredad al otro l del JordánH5676
+- Jos_15:2su límite por el l del sur fue desde laH5045
+- Jos_15:5límite del l del norte, desde la bahíaH6285
+- Jos_15:8sube este límite...al l sur del jebuseoH3802
+- Jos_15:8extremo del valle...por el l del norte
+- Jos_15:10gira...y pasa al l del monte de JearimH3802
+- Jos_15:11sale luego al l de Ecrón hacia el norteH3802
+- Jos_16:5límite de su heredad al l del orienteH4217
+- Jos_17:5Galaad y de Basán...al otro l del JordánH5676
+- Jos_18:7han recibido su heredad al otro l delH5676
+- Jos_18:12fue el límite...al l del norte desde elH6285
+- Jos_18:12y sube hacia el l de Jericó al norteH5676
+- Jos_18:13dirección de Luz, al l sur de Luz (que es Bet-el)[[H3802]]
+- Jos_18:14y tuerce...por el l sur del monte queH6285
+- Jos_18:14de Judá. Este es el l del occidenteH6285
+- Jos_18:15el l del sur es desde el extremo deH6285
+- Jos_18:16al valle de Hinom, al l sur del jebuseoH3381
+- Jos_18:18pasa al l que está enfrente del ArabáH3802
+- Jos_18:19el límite al l norte de Bet-hogla, yH3802
+- Jos_18:20Jordán era el límite al l del orienteH6285
+- Jos_19:13pasando de allí hacia el l oriental aH6924
+- Jos_20:8al otro l del Jordán...señalaron a BeserH5676
+- Jos_22:4la tierra...os dio al otro l del JordánH5676
+- Jos_22:7dio Josué heredad...a este l del JordánH5676
+- Jos_22:11altar...del l de los hijos de IsraelH5676
+- Jos_24:2habitaron...al otro l del río, esto esH5676
+- Jos_24:3tomé a...Abraham del otro l del río, yH5676
+- Jos_24:8amorreos, que habitaban al otro l delH5676
+- Jos_24:14-15vuestros padres al otro l del ríoH5676
+- Jue_3:16y se lo ciñó debajo...a su l derechoH3409
+- Jue_3:21Aod...tomó el puñal de su l derecho, yH3409
+- Jue_5:17Galaad se quedó al otro l del JordánH5676
+- Jue_5:30ropa de color bordada de ambos l, para
+- Jue_7:25trajeron las cabezas...otro l del JordánH5676
+- Jue_10:8Israel que estaban al otro l del JordánH5676
+- Jue_11:18por el l oriental...al otro l de ArnónH5676
+- Jue_21:19en Silo...al l oriental del camino queH4217, [[H8121]]
+- Rut_3:7se retiró a dormir a un l del montónH7901
+- 1Sa_4:18cayó hacia atrás...al l de la puertaH3027
+- 1Sa_6:8y las joyas de...en una caja al l de ellaH6654
+- 1Sa_14:1y pasemos a la guarnición...de aquel lH5676
+- 1Sa_14:4un peñasco agudo de un l, y...del otro lH5676
+- 1Sa_14:16e iba de un l a otro y era deshecha
+- 1Sa_14:21se pusieron...del l de los israelitas
+- 1Sa_14:40vosotros estaréis a un l, y yo...otro lH5676
+- 1Sa_17:3filisteos...a un l, e Israel...al otro lH4480, [[H2088]]
+- 1Sa_20:20y yo tiraré tres saetas hacia aquel lH6654
+- 1Sa_20:25y se sentó Abner al l de Saúl, y elH6654
+- 1Sa_20:41se levantó David del l del sur, y se
+- 1Sa_23:26Saúl iba por un l...y David...el otro lH6654
+- 1Sa_26:13pasó David al l opuesto, y se puso enH5676
+- 1Sa_31:7del otro l del valle...otro l del JordánH5676
+- 2Sa_2:13un l del estanque, y...otros al otro lH4480, [[H2088]]
+- 2Sa_10:16a los sirios que estaban al otro l delH5676
+- 2Sa_13:34gente que venía por el...del l del monteH6654
+- 2Sa_15:2Absalón...y se ponía a un l del caminoH5921, [[H3027]]
+- 2Sa_15:18pasaban a su l, con todos los cereteos
+- 2Sa_16:13Simei iba por el l del monte delanteH6763
+- 2Sa_19:31para acompañarle al otro l del Jordán
+- 1Re_1:2y duerma a su l, y entrará en calor
+- 1Re_3:20a su l, y puso al l mío su hijo muertoH4480, [[H681]]
+- 1Re_4:12Bet-seán...y hasta el otro l de JocmeamH5676
+- 1Re_4:24él señoreaba en...y tuvo paz por todos lH5676
+- 1Re_6:8puerta...estaba al l derecho de la casaH6763
+- 1Re_7:21hubo alzado la columna del l derecho
+- 1Re_7:21y alzando la columna del l izquierdo
+- 1Re_7:23un mar de diez codos de un l al otroH8193
+- 1Re_7:39colocó el mar al l derecho de la casaH3802
+- 1Re_10:19a uno y otro l tenía brazos cerca delH4480, [[H2088]]
+- 1Re_10:20doce leones puestos...de un l y de otroH4480, [[H2088]]
+- 2Re_2:8, 2Re_2:14aguas...se apartaron a uno y otro l
+- 2Re_2:15hijos...que estaban en Jericó al otro l
+- 2Re_11:8estaréis alrededor del rey por todos lH5439
+- 2Re_11:11el l derecho de...hasta el l izquierdoH3802
+- 2Re_16:14lo puso al l del altar hacia el norteH3409
+- 1Cr_6:78del otro l del Jordán...dieron de laH5676
+- 1Cr_9:24y estaban los porteros a los cuatro l
+- 1Cr_12:37y del otro l del Jordán...120.000 conH5676
+- 1Cr_19:16los sirios que estaban al otro l delH5676
+- 1Cr_26:30gobernaban...al otro l del Jordán, alH5676
+- 2Cr_4:10colocó el mar al l derecho, haciaH3802
+- 2Cr_9:18brazos a uno y otro l del asiento, yH4480, [[H2088]]
+- 2Cr_9:19doce leones sobre las...a uno y otro lH4480, [[H2088]]
+- 2Cr_20:2una gran multitud del otro l del marH5676
+- 2Cr_32:22salvó Jehová...dio reposo por todos lH4480, [[H5439]]
+- Esd_4:10demás provincias del otro l del ríoH5675
+- Esd_4:11siervos del otro l del río te saludanH5675
+- Esd_4:17a los demás del otro l del río: SaludH5675
+- Esd_5:3vino a ellos Tatnai gobernador del otro lH5675
+- Esd_5:6la carta que Tatnai gobernador del otro lH5675
+- Esd_5:6los gobernadores que...al otro l del ríoH5675
+- Esd_6:6pues, Tatnai gobernador del otro l del ríoH5675
+- Esd_6:6estáis al otro l del río, alejaos de allíH5675
+- Esd_6:8que tiene del tributo del otro l del ríoH5675
+- Esd_6:13Tatnai gobernador del otro l del río, yH5675
+- Esd_7:21tesoreros que están al otro l del ríoH5675
+- Esd_7:25todo el pueblo que está al otro l del ríoH5675
+- Esd_8:36sátrapas y capitanes del otro l del ríoH5676
+- Neh_2:7gobernadores al otro l del río, paraH5676
+- Neh_2:9vine...a los gobernadores del otro l delH5676
+- Neh_3:4al l de ellos restauró Mesulam hijo deH3027
+- Neh_3:7bajo...del gobernador del otro l del ríoH5676
+- Neh_12:38el segundo coro iba del l opuesto, y yo
+- Job_1:19un gran viento vino del l del desiertoH5676
+- Job_18:12y a su l estará preparado quebrantamientoH6763
+- Job_19:10me arruinó por todos l, y perezco: yH5439
+- Sal_48:2el monte de Sion, a los l del norteH3411
+- Sal_91:7caerán a tu l mil, y 10.000 a tu diestraH6654
+- Sal_128:3como vid que lleva fruto a los l de tuH3411
+- Isa_7:20con los que habitan al otro l del ríoH5676
+- Isa_9:1de aquel l del Jordán, en Galilea de losH5676
+- Isa_14:13monte...me sentaré, a los l del norteH3411
+- Isa_14:15tú derribado eres...a los l del abismoH3411
+- Isa_56:11su propio provecho, cada uno por su lH7098
+- Jer_25:22reyes de las costas...ese l del marH5676
+- Jer_49:32de todos l les traeré su ruina, diceH6285
+- Lam_3:7me cercó por todos l, y no puedo salir
+- Eze_1:8cuatro l...y sus alas por los cuatro lH7253
+- Eze_1:10cara de león al l derecho de los cuatroH3225
+- Eze_1:15rueda...junto a los seres...los cuatro lH6440
+- Eze_4:4y tú te acostarás sobre tu l izquierdoH6654
+- Eze_4:6acostarás sobre tu l derecho segunda vezH6654
+- Eze_4:8y no te volverás de un l a otro, hastaH6654
+- Eze_4:9de los días que te acuestes sobre tu lH6654
+- Eze_8:5alza ahora tus ojos hacia el l del norteH1870
+- Eze_10:19las ruedas se alzaron al l de ellosH5980
+- Eze_16:57filisteos...por todos l te desprecianH5439
+- Eze_25:9yo abro el l de Moab desde las ciudadesH3802
+- Eze_28:23con espada contra ella por todos lH5439
+- Eze_32:23sus sepulcros...a los l de la fosa, yH3411
+- Eze_40:9la puerta...estaba por el l de adentroH1004
+- Eze_40:10tenía tres cámaras a cada l, las tresH4480, [[H6311]]
+- Eze_40:10de una medida los portales a cada lH4480, [[H6311]]
+- Eze_40:12el espacio...un codo a un l, y...otro l
+- Eze_40:12cada cámara tenía seis codos por un lH4480, [[H6311]]
+- Eze_40:18el enlosado a los l de las puertas, enH3802
+- Eze_40:21sus cámaras eran tres de un l, y tresH4480, [[H6311]]
+- Eze_40:26palmeras, una de un l, y otra del otro lH4480, [[H6311]]
+- Eze_40:34, Eze_40:37palmeras...postes de un l y de otroH4480, [[H6311]]
+- Eze_40:39había dos mesas a un l, y otras dos alH4480, [[H6311]]
+- Eze_40:40a un l...había dos mesas; y al otro lH3802
+- Eze_40:41cuatro mesas a un l, y cuatro...otro lH3802
+- Eze_40:44el atrio...al l de la puerta del norteH3802
+- Eze_40:44estaba al l de la puerta del orienteH3802
+- Eze_40:48cinco codos de un l, y cinco codos deH4480, [[H6311]]
+- Eze_40:48de la puerta tres codos de un l, y tresH4480, [[H6311]]
+- Eze_40:49columnas...una de un l, y otra de otroH4480, [[H6311]]
+- Eze_41:1siendo el ancho seis codos de un l, yH4480, [[H6311]]
+- Eze_41:2l de la puerta, de cinco codos de un lH3802
+- Eze_41:10anchura de veinte codos por todos lH5439
+- Eze_41:12del espacio abierto al l del occidenteH6285
+- Eze_41:15y midió...las cámaras de uno y otro lH4480, [[H6311]]
+- Eze_41:19un rostro...hacia la palmera del un lH4480, [[H6311]]
+- Eze_41:19un rostro...hacia la palmera del otro lH4480, [[H6311]]
+- Eze_41:26palmeras de uno y otro l a los l delH6763, [[H3802]]
+- Eze_42:9estaba la entrada al l oriental, paraH4480, [[H6921]]
+- Eze_42:12había enfrente del muro al l orientalH1870
+- Eze_42:16midió el l oriental...la caña de medirH7307
+- Eze_42:17midió al l del norte, quinientas cañasH7307
+- Eze_42:18midió al l del sur, quinientas cañasH7307
+- Eze_42:19rodeó al l del occidente, y midió 500H7307
+- Eze_42:20los cuatro l lo midió; tenía un muroH7307
+- Eze_43:16el altar tenía...cuadrado a sus cuatro lH7253
+- Eze_43:17y catorce de anchura en sus cuatro lH7253
+- Eze_43:17la base de un codo por todos l; y sus
+- Eze_45:7de uno y otro l, y junto a la posesiónH6285
+- Eze_46:19un lugar en el fondo del l de occidenteH3802
+- Eze_47:1aguas descendían...hacia el l derecho deH3802
+- Eze_47:2y vi que las aguas salían del l derechoH3802
+- Eze_47:7vi...muchísimos árboles a uno y otro lH4480, [[H2088]]
+- Eze_47:12junto al río...a uno y otro l, creceráH4480, [[H2088]]
+- Eze_47:15será el límite...hacia el l del norteH6285
+- Eze_47:17será...al límite de Hamat al l del norteH6285
+- Eze_47:18del l del oriente, en medio de HauránH6285
+- Eze_47:19del l meridional, hacia el sur, desdeH6285
+- Eze_47:19Mar...esto será el l meridional, al surH6285
+- Eze_47:20del l del occidente el Mar Grande seráH6285
+- Eze_47:20el límite...este será el l occidentalH6285
+- Eze_48:1desde el l oriental hasta el occidentalH6285
+- Eze_48:2-3, Eze_48:4-5, Eze_48:6-7, Eze_48:8(2),23,24,25,26,27el l del oriente hasta el l del marH6285
+- Eze_48:13al l de los límites de...los sacerdotes
+- Eze_48:16l del norte 4.500 cañas, al l del surH6285
+- Eze_48:16al l del oriente 4.500...l del occidenteH6285
+- Eze_48:21quedare a uno y otro l de la porciónH4480, [[H2088]]
+- Eze_48:28al l meridional al sur, será el límiteH6285
+- Eze_48:30al l del norte, cuatro mil quinientasH6285
+- Eze_48:32l oriental cuatro mil quinientas cañasH6285
+- Eze_48:33l del sur, cuatro mil quinientas cañasH6285
+- Eze_48:34al l occidental cuatro mil quinientasH6285
+- Dan_8:5macho cabrío venía del l del ponienteH6440
+- Dan_12:5uno a este l del río, y el otro al otro lH2008
+- Amó_3:11un enemigo vendrá por todos l de la
+- Amó_3:12rincón de una cama, y al l de un lechoH6285
+- Miq_7:5de la que duerme a tu l cuídate, noH4480, [[H7901]]
+- Zac_5:3hurta (como está de un l del rollo)[[H4480]], [[H2088]]
+- Zac_5:3jura...(como está del otro l del rollo)[[H4480]], [[H2088]]
+- Zac_6:13y habrá sacerdote a su l; y consejo deH5921
+- Mat_4:15camino del mar, al otro l del JordánG4008
+- Mat_4:25le siguió mucha gente...del otro l delG4008
+- Mat_8:18viéndose Jesús...mandó pasar al otro lG4008
+- Mat_9:1Jesús...pasó al otro l y vino a su ciudadG1276
+- Mat_16:5llegando sus discípulos al otro l, seG4008
+- Mat_19:1regiones de Judea al otro l del JordánG4008
+- Mar_3:8del otro l del Jordán, y de...Tiro y deG4008
+- Mar_4:35la noche, les dijo: Pasemos al otro lG4008
+- Mar_5:1vinieron al otro l del mar, a la regiónG4008
+- Mar_10:1al otro l del Jordán; y volvió el puebloG4008
+- Mar_16:5vieron a un joven sentado al l derechoG1188
+- Luc_8:22les dijo: Pasemos al otro l del lagoG4008
+- Jua_1:28cosas sucedieron...otro l del JordánG4008
+- Jua_3:26que estaba contigo al otro l del JordánG4008
+- Jua_3:29el amigo...que está a su l y le oye, se
+- Jua_6:1Jesús fue al otro l del mar de GalileaG4008
+- Jua_6:22la gente...al otro l del mar vio que noG4008
+- Jua_6:25hallándole al otro l del mar...dijeronG4008
+- Jua_10:40y se fue de nuevo al otro l del JordánG4008
+- Jua_13:23y uno...estaba recostado al l de Jesús
+- Jua_16:32que seréis esparcidos cada uno por su lG2398
+- Jua_17:5ahora...Padre, glorifícame tú al l tuyo
+- Jua_18:1salió...al otro l del torrente de CedrónG4008
+- Jua_19:18y con él a otros dos, uno a cada l, yG1782
+- Jua_21:20en la cena se había recostado al l deG4738
+- 2Ti_4:16en...defensa ninguno estuvo a mi lG4836
+- 2Ti_4:17pero el Señor estuvo a mi l, y me dioG3936
+- Rev_22:2uno y otro l del río, estaba el árbolG1782

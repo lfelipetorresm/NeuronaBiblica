@@ -1,0 +1,147 @@
+---
+tipo: concordancia
+palabra: TINIEBLA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TINIEBLA
+
+- Gén_1:2las t estaban sobre la faz del abismoH2822
+- Gén_1:4era buena; y separó Dios la luz de las tH2822
+- Gén_1:5y a las t llamó Noche. Y fue la tarde yH2822
+- Gén_1:18noche, y para separar la luz de las tH2822
+- Éxo_10:21que haya t sobre la tierra de EgiptoH2822
+- Éxo_10:22hubo densas t sobre toda la tierra deH2822
+- Éxo_14:20era nube y t...y alumbraba a T srael deH2822
+- Deu_4:11monte ardía...con t, nube y oscuridadH6205
+- Deu_5:23oísteis la voz de en medio de las t, yH2822
+- 1Sa_2:9santos, mas los impíos perecen en tH2822
+- 2Sa_22:10cielos...y había t debajo de sus piesH6205
+- 2Sa_22:12puso t por su escondedero alrededor deH2822
+- 2Sa_22:29mi lámpara...mi Dios alumbrará mis tH2822
+- Job_3:5aféenlo t y sombra de muerte...nubladoH2822
+- Job_5:14de día tropiezan con t, y a mediodíaH2822
+- Job_10:21la tierra de t y de sombra de muerteH2822
+- Job_10:22tierra de...cuya luz es como densas tH652
+- Job_12:22él descubre las profundidades de las tH2822
+- Job_12:25van a tientas, como en t y sin luz, yH2822
+- Job_15:22él no cree que volverá de las t, yH2822
+- Job_15:23sabe que le está preparado día de tH2822
+- Job_15:30no escapará de las t; la llama secaráH2822
+- Job_17:12y la luz se acorta delante de las tH2822
+- Job_17:13el Seol es mi...haré mi cama en las tH2822
+- Job_18:18de la luz...lanzado a la, t, y echadoH2822
+- Job_19:8de vallado...y sobre mis veredas puso tH2822
+- Job_20:26las t están reservadas para sus tesorosH2822
+- Job_22:11t, para que no veas, y abundancia deH2822
+- Job_23:17que no fui yo cortado delante de las tH2822
+- Job_24:16en las t minan las casas que de díaH2822
+- Job_26:10aguas, hasta el fin de la luz y las tH2822
+- Job_28:3a las t ponen término, y examinan todoH2822
+- Job_34:22no hay t ni sombra de muerte donde seH2822
+- Job_37:19no podemos ordenar...a causa de las tH2822
+- Job_38:19la luz, y dónde está el lugar de las tH2822
+- Sal_18:9y había densas t debajo de sus piesH6205
+- Sal_18:11puso t por su escondedero, por cortinaH2822
+- Sal_18:28tú encenderás...mi Dios alumbrará mis tH2822
+- Sal_82:5no entienden, andan en t; tiemblan todosH2825
+- Sal_88:6has puesto...en t, en lugares profundosH4285
+- Sal_88:12reconocidas en las t tus maravillasH2822
+- Sal_88:18has...a mis conocidos has puesto en tH4285
+- Sal_104:20pones las t, y es la noche; en ellaH2822
+- Sal_105:28envió t que lo oscurecieron todo; noH2822
+- Sal_107:10algunos moraban en t y sombra deH2822
+- Sal_107:14los sacó de las t y de la sombra deH2822
+- Sal_112:4resplandeció en las t luz a los rectosH2822
+- Sal_139:11si...ciertamente las t me encubriránH2822
+- Sal_139:12las t no encubren de ti, y la nocheH2822
+- Sal_139:12día; lo mismo te son las t que la luzH2825
+- Sal_143:3me ha hecho habitar en t como los yaH4285
+- Pro_7:9tarde...en la oscuridad y t de la nocheH653
+- Ecl_2:13sobrepasa a la...como la luz a las tH2822
+- Ecl_2:14el sabio tiene...mas el necio anda en tH2822
+- Ecl_5:17todos los días de su vida comerá en tH2822
+- Ecl_6:4las t va, y con t su nombre es cubiertoH2822
+- Ecl_11:8acuérdese...los días de las t serán muchosH2822
+- Isa_5:20que hacen de la luz t, y de las t luzH2822
+- Isa_5:30aquí t de tribulación, y en sus cielosH2822
+- Isa_8:22mirarán a la...y he aquí tribulación y tH2825
+- Isa_8:22a la tierra...y serán sumidos en las tH653
+- Isa_9:2el pueblo que andaba en t vio gran luzH2822
+- Isa_29:15sus obras están en t, y dicen: ¿QuiénH4285
+- Isa_29:18verán en medio...oscuridad y de las tH2822
+- Isa_42:7para que saques...a los que moran en tH2822
+- Isa_42:16delante de ellos cambiaré las t en luzH4285
+- Isa_45:7que formo la luz y creo las t, que hagoH2822
+- Isa_47:5entra en t, hija de los caldeos; porqueH2822
+- Isa_49:9digas...a los que están en t: MostraosH2822
+- Isa_50:10que anda en t y carece de luz, confíeH2825
+- Isa_58:10en las t nacerá tu luz, y tu oscuridadH2822
+- Isa_59:9esperamos luz...he aquí t; resplandoresH2822
+- Isa_60:2porque he aquí que t cubrirán la tierraH2822
+- Jer_2:31¿he sido...desierto...o tierra de t?[[H3991]]
+- Jer_13:16dad gloria a...antes que haga venir tH2821
+- Jer_13:16os la vuelva en sombra de muerte y tH6205
+- Lam_3:2me guio y me llevó en t, y no en luzH2822
+- Eze_8:12ancianos...hacen en t...en sus cámarasH2822
+- Eze_30:18t la cubrirá y los moradores de sus
+- Eze_31:15al Líbano cubrí de t por él, y todos
+- Eze_32:8pondré t sobre tu tierra, dice JehováH2822
+- Dan_2:22él...conoce lo que está en t, y con élH2816
+- Joe_2:2día de t y de oscuridad, día de nube yH2822
+- Joe_2:31el sol se convertirá en t, y la luna enH2822
+- Amó_4:13hace de las t mañana, y pasa sobre lasH5890
+- Amó_5:8buscad al que...vuelve las t en mañana
+- Amó_5:18día de Jehová? Será de t, y no de luzH2822
+- Amó_5:20¿no será el día de Jehová t, y no luzH2822
+- Amó_8:9cubriré de t la tierra en el día claroH2821
+- Miq_7:8aunque more en t, Jehová será mi luzH2822
+- Nah_1:8con...y t perseguirán a sus enemigosH2822
+- Sof_1:15de t y de oscuridad, día de nubladoH2822
+- Mat_4:16el Pueblo asentado en t vio gran luzG4655
+- Mat_6:23es maligno, todo tu cuerpo estará en tG4652
+- Mat_6:23la luz que en ti hay es t...las mismas t?[[G4655]]
+- Mat_8:12hijos del reino serán echados a las tG4655
+- Mat_10:27lo que os digo en t, decidlo en la luzG4653
+- Mat_22:13echadle en las t de afuera; allí seráG4655
+- Mat_25:30y al siervo inútil echadle en las t deG4655
+- Mat_27:45desde la hora sexta hubo t sobre todaG4655
+- Mar_15:33t sobre toda la tierra hasta la horaG4655
+- Luc_1:79para dar luz a los que habitan en t yG4655
+- Luc_11:34tu ojo es maligno...tu cuerpo está en tG4652
+- Luc_11:35no suceda...la luz que en ti hay, sea tG4655
+- Luc_11:36de luz, no teniendo parte alguna de tG4652
+- Luc_12:3que habéis dicho en t, a la luz se oiráG4653
+- Luc_22:53es vuestra hora, y la potestad de las tG4655
+- Luc_23:44hubo t sobre toda la tierra hasta laG4655
+- Jua_1:5la luz en las t resplandece, y las t noG4653
+- Jua_3:19los hombres amaron más las t que la luzG4655
+- Jua_8:12el que me sigue, no andará en t, sinoG4653
+- Jua_12:35luz, para que no os sorprendan las tG4653
+- Jua_12:35el que anda en t, no sabe adónde vaG4653
+- Jua_12:46todo aquel que cree...no permanezca en tG4653
+- Hec_2:20el sol se convertirá en t, y la lunaG4655
+- Hec_13:11ciego...cayeron sobre él oscuridad y tG4655
+- Hec_26:18se conviertan de las t a la luz, y deG4655
+- Rom_2:19eres guía...luz de los que están en tG4655
+- Rom_13:12desechemos, pues, las obras de las tG4655
+- 1Co_4:5aclarará también lo oculto de las tG4655
+- 2Co_4:6mandó que de las t resplandeciese laG4655
+- 2Co_6:14¿qué...y qué comunión la luz con las t?[[G4655]]
+- Efe_5:8en otro tiempo erais t, mas ahora soisG4655
+- Efe_5:11las obras infructuosas de las t, sinoG4655
+- Efe_6:12los gobernadores de las t de este sigloG4655
+- Col_1:13ha librado de la potestad de las tG4655
+- 1Ts_5:4vosotros, hermanos, no estáis en tG4655
+- 1Ts_5:5del día; no somos de la noche ni de las tG4655
+- Heb_12:18oscuridad, a las t y a la tempestadG4655
+- 1Pe_2:9os llamó de las t a su luz admirableG4655
+- 1Jn_1:5Dios es luz, y no hay ningunas t enG4653
+- 1Jn_1:6si decimos...y andamos en t, mentimos, yG4655
+- 1Jn_2:8las t van pasando, y la luz verdadera yaG4653
+- 1Jn_2:9que dice...y aborrece a su hermano...en tG4653
+- 1Jn_2:11en t, y anda en t, y no sabe a dónde vaG4653
+- 1Jn_2:11porque las t le han cegado los ojosG4653
+- Jud_1:13está reservada...la oscuridad de las tG4655
+- Rev_16:10su reino se cubrió de t, y mordíanG4656

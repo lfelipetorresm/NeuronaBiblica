@@ -1,0 +1,271 @@
+---
+tipo: concordancia
+palabra: CUBRIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CUBRIR
+
+- Gén_7:19y todos los montes...fueron cubiertasH3680
+- Gén_7:20después que fueron cubiertos los montesH3680
+- Gén_9:23atrás, cubrieron la desnudez de su padreH3680
+- Gén_24:65ella entonces tomó el velo, y se cubrióH3680
+- Gén_27:16y cubrió sus manos y...su cuello dondeH3847
+- Gén_31:10los machos que cubrían a las hembrasH5927
+- Gén_31:12los machos que cubren a las hembras sonH5927
+- Gén_38:14se quitó ella...y se cubrió con un veloH3680
+- Gén_38:15porque ella había cubierto su rostroH3680
+- Éxo_3:6Moisés cubrió su rostro...tuvo miedo deH5641
+- Éxo_8:6ranas que cubrieron la tierra de EgiptoH3680
+- Éxo_10:5la cual cubrirá la faz de la tierra, deH3680
+- Éxo_10:15cubrió...el país, y oscureció la tierraH3680
+- Éxo_14:28volvieron las aguas, y cubrieron losH3680
+- Éxo_15:5los abismos los cubrieron; descendieronH3680
+- Éxo_15:10soplaste con tu viento; lo cubrió el marH3680
+- Éxo_16:13codornices que cubrieron el campamentoH3680
+- Éxo_21:33si...no la cubriere, y cayere allí bueyH3680
+- Éxo_22:27eso es su vestido para cubrir su cuerpoH3682
+- Éxo_24:15Moisés subió...una nube cubrió el monteH3680
+- Éxo_24:16Sinaí...la nube lo cubrió por seis díasH3680
+- Éxo_25:11y la cubrirás de oro puro por dentro yH6823
+- Éxo_25:13unas varas...las cuales cubrirás de oroH6823
+- Éxo_25:20cubriendo con sus alas el propiciatorioH5526, [[H5921]]
+- Éxo_25:24y la cubrirás de oro puro, y le harásH6823
+- Éxo_25:28harás las varas...y las cubrirás de oroH6823
+- Éxo_26:13los lados del tabernáculo, para cubrirloH3680
+- Éxo_26:29y cubrirás de oro las tablas, y harásH6823
+- Éxo_26:29harás sus, cubrirás de oro las barrasH6823
+- Éxo_26:32cuatro columnas de...cubiertas de oroH6822
+- Éxo_26:37columnas de madera de...cubrirás de oroH6822
+- Éxo_27:2le harás cuernos...lo cubrirás de bronceH6822
+- Éxo_27:6varas de madera de...cubrirás de bronceH6822
+- Éxo_28:42calzoncillos...para cubrir su desnudezH3680
+- Éxo_29:13, Éxo_29:22la grosura que cubre los intestinosH3680
+- Éxo_30:3y lo cubrirás de oro puro, su cubiertaH6823
+- Éxo_30:5varas de madera...y las cubrirás de oroH6823
+- Éxo_33:22te cubriré con mi mano hasta que hayaH5526, [[H5921]]
+- Éxo_36:34cubrió de oro las tablas...c...las barrasH6822
+- Éxo_36:36cuatro columnas...y las cubrió de oroH6822
+- Éxo_36:38y cubrió de oro los capiteles y lasH6822
+- Éxo_37:2la cubrió de oro puro por dentro y porH6822
+- Éxo_37:4hizo también varas...y las cubrió de oroH6822
+- Éxo_37:9cubriendo con sus alas el propiciatorioH5526
+- Éxo_37:11cubrió de oro puro...hizo una cornisaH6822
+- Éxo_37:15varas de madera...y las cubrió de oroH6822
+- Éxo_37:26y lo cubrió de oro puro, su cubierta yH6822
+- Éxo_37:28hizo las varas de...y las cubrió de oroH6822
+- Éxo_38:2hizo sus cuernos...y lo cubrió de bronceH6822
+- Éxo_38:6hizo las varas...y las cubrió de bronceH6822
+- Éxo_38:28y cubrió los capiteles de ellas, y lasH6822
+- Éxo_40:3pondrás...el arca...cubrirás con el veloH5526
+- Éxo_40:34nube cubrió el tabernáculo de reuniónH3680
+- Lev_3:3, Lev_3:9, Lev_3:14; Lev_4:8; Lev_7:3; Lev_9:19la grosura que cubre los intestinosH3680
+- Lev_13:12que cubriere toda la piel del llagadoH3680
+- Lev_13:13lepra hubiere cubierto todo su cuerpoH3680
+- Lev_16:4ceñirá...con la mitra de lino se cubriráH6801
+- Lev_16:13la nube...cubrirá el propiciatorio queH3680
+- Lev_17:13derramará su sangre y la cubrirá conH3680
+- Núm_4:5cubrirán con él el arca del testimonioH3680
+- Núm_4:8, Núm_4:11-12cubrirán con la cubierta de pielesH3680
+- Núm_4:9tomarán un paño...y cubrirán el candeleroH3680
+- Núm_4:15acaben Aarón y...de cubrir el santuario yH3680
+- Núm_4:20no entrarán...ver cuando cubran las cosasH1104
+- Núm_7:3seis carros cubiertos y doce bueyesH6632
+- Núm_9:15la nube cubrió el tabernáculo sobre laH3680
+- Núm_9:16la nube lo cubría de día, y de noche laH3680
+- Núm_16:33y los cubrió la tierra, y perecieronH3680
+- Núm_16:38planchas batidas para cubrir el altarH6862
+- Núm_16:39y los batieron para cubrir el altarH6862
+- Núm_16:42tabernáculo...la nube lo había cubiertoH3680
+- Núm_22:5, Núm_22:11pueblo...cubre la faz de la tierraH3680
+- Deu_2:5no os daré...ni aun lo que cubre...un pieH4096
+- Deu_22:12flecos en...tu manto con que te cubrasH3680
+- Deu_23:13al volverte cubrirás tu excrementoH3680
+- Deu_32:15coces (engordaste, te cubriste de grasaH3780
+- Deu_33:12lo cubrirá siempre, y entre sus hombrosH2645
+- Jos_24:7hizo venir...mar, el cual los cubrióH3680
+- Jue_3:22la gordura cubrió la hoja; porque noH5462
+- Jue_3:24él cubre sus pies en la sala de veranoH5526
+- Jue_4:18él vino...y ella le cubrió con una mantaH3680
+- Jue_4:18y le dio de beber, y le volvió a cubrirH3680
+- 1Sa_19:13una estatua...y la cubrió con la ropaH3680
+- 1Sa_24:3entró Saúl en ella para cubrir sus piesH5526
+- 1Sa_28:14un...anciano viene, cubierto de un mantoH5844
+- 2Sa_15:30llevando la cabeza cubierta y losH2645
+- 2Sa_15:30el pueblo...cubrió cada uno su cabezaH2645
+- 2Sa_19:4el rey, cubierto el rostro, clamaba enH3813
+- 1Re_1:1le cubrían de ropas...no se calentabaH3680
+- 1Re_6:9y la cubrió con artesonados de cedroH5603
+- 1Re_6:15cubrió las paredes...c...pavimento conH6823
+- 1Re_6:18y la casa estaba cubierta de cedro porH4734
+- 1Re_6:20y lo cubrió de oro purísimo...c de oroH6823
+- 1Re_6:21cubrió de oro puro la casa por dentroH6823
+- 1Re_6:21cerró la entrada...y lo cubrió de oroH6823
+- 1Re_6:22cubrió, pues, de oro...la casa de arribaH6823
+- 1Re_6:22cubrió de oro todo el altar que estabaH6823
+- 1Re_6:28y cubrió de oro los querubinesH6823
+- 1Re_6:30y cubrió de oro el piso de la casa, porH6823
+- 1Re_6:32las cubrió de oro; c también de oro losH6823
+- 1Re_6:35talló...y las cubrió de oro ajustado aH6823
+- 1Re_7:3estaba cubierta de tablas de cedro arribaH5603
+- 1Re_7:7el pórtico del juicio...cubrió de cedroH5603
+- 1Re_7:18para cubrir los capiteles que estabanH3680
+- 1Re_7:41dos redes que cubrían los dos capitelesH3680
+- 1Re_7:42para cubrir los dos capiteles redondosH3680
+- 1Re_8:7así cubrían los querubines el arca y susH5526
+- 1Re_10:18un gran trono...el cual cubrió de oroH6822
+- 1Re_11:29Ahías...cubierto con una capa nuevaH3680
+- 1Re_19:13cuando lo oyó Elías, cubrió su rostroH3874
+- 2Re_18:16quiciales que...había cubierto de oroH6822
+- 2Re_19:1se cubrió de cilicio, y entró en la casaH3680
+- 2Re_19:2envió a Eliaquim, cubiertos de cilicioH3680
+- 1Cr_21:16se postraron...cubiertos de cilicioH3680
+- 1Cr_28:18con las alas extendidas cubrían el arcaH5526
+- 1Cr_29:4plata...para cubrir las paredes de lasH2902
+- 2Cr_3:4el pórtico...cubrió por dentro de oroH6822
+- 2Cr_3:5madera de ciprés, la cual cubrió de oroH2645
+- 2Cr_3:6cubrió...la casa de piedras preciosas paraH6823
+- 2Cr_3:7cubrió la casa...y sus puertas, con oroH2645
+- 2Cr_3:8y lo cubrió de oro fino que ascendía aH2645
+- 2Cr_3:9cubrió también de oro los aposentosH2645
+- 2Cr_3:10dos querubines...fueron cubiertos de oroH6822
+- 2Cr_4:9y cubrió de bronce las puertas de ellasH6822
+- 2Cr_4:12dos redes para cubrir las dos esferasH3680
+- 2Cr_4:13granadas...que cubriesen las dos esferas3680
+- 2Cr_5:8los querubines cubrían por encima el arcaH3680
+- 2Cr_9:17un gran trono de marfil, cubrió de oroH6822
+- 2Cr_32:30este Ezequías cubrió los manantialesH5640
+- Esd_9:7a vergüenza que cubre nuestro rostro
+- Neh_4:5no cubras su iniquidad, ni su pecadoH3680
+- Est_6:12prisa para irse...cubierta su cabezaH2645
+- Est_7:8palabra, le cubrieron el rostro a AmánH2645
+- Job_9:24y él cubre el rostro de sus juecesH4374
+- Job_15:27porque la gordura cubrió su rostro, cH3680
+- Job_16:18no cubras mi sangre, y no haya lugarH3680
+- Job_21:26yacerán ellos...y gusanos los cubriránH3680
+- Job_22:11no veas, y abundancia de agua te cubreH3680
+- Job_23:17ni...cubierto con oscuridad mi rostro?[[H3680]]
+- Job_29:14me vestía de justicia, y ella me cubríaH3847
+- Job_38:34para que te cubra muchedumbre de aguas?[[H3680]]
+- Job_40:22los árboles...lo cubren con su sombraH5526
+- Sal_32:1sido perdonada, y cubierto su pecadoH3680
+- Sal_44:15y la confusión de mi rostro me cubreH3680
+- Sal_44:19y nos cubrieses con sombra de muerteH3680
+- Sal_55:5temor y temblor...terror me ha cubiertoH3680
+- Sal_65:13y los valles se cubren de grano; danH5848
+- Sal_68:13como alas de paloma cubiertas de plataH2645
+- Sal_69:7afrenta; confusión ha cubierto...rostroH3680
+- Sal_71:13cubiertos de vergüenza y de confusiónH5844
+- Sal_78:53guio...y el mar cubrió a sus enemigosH3680
+- Sal_80:10montes fueron cubiertos de su sombraH3680
+- Sal_85:2tu pueblo...los pecados de ellos cubristeH3680
+- Sal_89:45has acortado...has cubierto de afrentaH5844
+- Sal_91:4con sus plumas te cubrirá, y debajo deH5526
+- Sal_104:2que se cubre de luz como de vestiduraH5844
+- Sal_104:6abismo, como con vestido, la cubristeH3680
+- Sal_104:9no traspasarán, ni volverán a cubrir laH3680
+- Sal_106:11cubrieron las aguas a sus enemigos; noH3680
+- Sal_106:17abrió...y cubrió la compañía de AbiramH3680
+- Sal_109:19séale como vestido con que se cubra, yH5844
+- Sal_109:29sean cubiertos de confusión como conH5844
+- Sal_140:9la maldad de sus...cubrirá su cabezaH3680
+- Sal_147:8él es quien cubre de nubes los cielosH3680
+- Pro_10:6, Pro_10:11violencia cubrirá la boca de losH3680
+- Pro_10:12pero el amor cubrirá todas las faltasH3680
+- Pro_17:9el que cubre la falta busca amistad; masH3680
+- Pro_24:31ortigas habían ya cubierto su faz, y suH3680
+- Pro_26:26aunque su odio se cubra con disimuloH6823
+- Ecl_6:4y con tinieblas su nombre es cubiertoH3680
+- Cnt_5:14cuerpo...marfil cubierto de zafirosH5968
+- Isa_6:2cubrían sus rostros, con dos c...piesH3680
+- Isa_11:9llena del...como las aguas cubren el marH3680
+- Isa_14:11serán tu cama, y gusanos te cubriránH4374
+- Isa_22:17Jehová...de cierto te cubrirá el rostroH5844
+- Isa_25:7cubierta con que están cubiertos todosH3875
+- Isa_37:1y cubierto de cilicio vino a la casa deH3680
+- Isa_37:2envió...sacerdotes, cubiertos de cilicioH3680
+- Isa_49:2me cubrió con la sombra de su manoH2244
+- Isa_51:16y con la sombra de mi mano te cubríH3680
+- Isa_58:7que cuando veas al desnudo, lo cubrasH3680
+- Isa_59:6vestir, ni de sus obras serán cubiertosH3680
+- Isa_59:17ropas...se cubrió de celo como de mantoH5844
+- Isa_60:2he aquí que tinieblas cubrirán la tierraH3680
+- Isa_60:6multitud de camellos te cubrirá...de EfaH3680
+- Isa_65:16serán olvidadas, y serán cubiertas deH5641
+- Jer_3:25yacemos...y nuestra afrenta nos cubreH3680
+- Jer_14:3se confundieron, y cubrieron sus cabezasH2645
+- Jer_14:4están confusos...cubrieron sus cabezasH2645
+- Jer_17:11como la perdiz que cubre lo que no pusoH1716
+- Jer_22:14casa...la cubre de cedro, y la pinta deH5603
+- Jer_43:9cúbrelas de barro en el enladrillado queH2934
+- Jer_46:8subiré, cubriré la tierra, destruiré aH3680
+- Jer_51:42de la multitud de sus olas fue cubiertaH3680
+- Jer_51:51la confusión cubrió nuestros rostrosH3680
+- Lam_3:16mis dientes quebró...cubrió de cenizaH3728
+- Lam_3:44te cubriste de nube para que no pasaseH5526
+- Lam_3:54aguas cubrieron mi cabeza...Muerto soyH6687, [[H5921]]
+- Eze_1:11alas...los otras dos cubrían sus cuerposH3680
+- Eze_1:23uno tenía dos alas que cubrían su cuerpoH3680
+- Eze_12:6cubrirás...rostro, y no mirarás la tierraH3680
+- Eze_12:12cubrirá su rostro para no ver con susH3680
+- Eze_16:8cubrí tu desnudez; y te di juramento yH3680
+- Eze_16:10te vestí...te ceñí de lino y te cubrí deH3680
+- Eze_16:18y tomaste tus vestidos...y las cubristeH3680
+- Eze_18:7diere...cubriere al desnudo con vestidoH3680
+- Eze_18:16pan, y cubriere con vestido al desnudoH3680
+- Eze_24:7no...para que fuese cubierta con polvoH3680
+- Eze_24:8pondré su sangre sobre...no sea cubiertaH3680
+- Eze_24:17no te cubras con rebozo, ni comas panH5844
+- Eze_24:22no os cubriréis con rebozo, ni comeréisH5844
+- Eze_26:10te cubrirá el polvo...con el estruendoH3680
+- Eze_26:19subir...y las muchas aguas te cubriránH3680
+- Eze_30:18tiniebla la cubrirá, y los moradores deH3680
+- Eze_31:8los cedros no lo cubrieron en el huertoH6004
+- Eze_31:15hice cubrir por él el abismo, y detuveH3680
+- Eze_31:15al Líbano cubrí de tinieblas por él, yH3680
+- Eze_32:7cubriré los cielos...el sol c con nubladoH3680
+- Eze_36:32avergonzaos y cubríos de confusión por
+- Eze_37:6os cubriré de piel, y pondré en vosotrosH7159
+- Eze_37:8la piel cubrió por encima de ellos; peroH7159
+- Eze_38:9, Eze_38:16como nublado para cubrir la tierraH3680
+- Eze_41:16cubierto de madera...ventanas también cH3680
+- Ose_2:9y mi lino que había dado para cubrir suH3680
+- Ose_7:9canas le han cubierto, y él no lo supoH2236
+- Ose_10:8dirán a...Cubridnos; y a los colladosH3680
+- Amó_8:9y cubriré de tinieblas la tierra en elH2821
+- Abd_1:10por la injuria a...te cubrirá vergüenzaH3680
+- Jon_3:6se cubrió de cilicio y se sentó sobreH3680
+- Jon_3:8cúbranse de cilicio hombres y animalesH3680
+- Miq_7:10lo verá, y la cubrirá vergüenza; la queH5844
+- Hab_2:14llena...como las aguas cubren el marH3680
+- Hab_2:19está cubierto de oro y plata, y no hayH8610
+- Hab_3:3su gloria cubrió los cielos, y la tierraH3680
+- Mal_2:13haréis cubrir el altar de Jehová deH3680
+- Mal_2:16y al que cubre de iniquidad su vestidoH3680
+- Mat_8:24tempestad...las olas cubrían la barcaG2572
+- Mat_11:8hombre cubierto de vestiduras delicadas?[[G294]]
+- Mat_17:5aún hablaba, una nube de luz los cubrióG1982
+- Mat_25:36desnudo, y me cubristeis; enfermo, y meG4016
+- Mat_25:38¿y cuándo te...desnudo, y te cubrimos?[[G4016]]
+- Mat_25:43estuve desnudo, y no me cubristeisG4016
+- Mar_14:51le seguía, cubierto el cuerpo con unaG4016
+- Mar_14:65y a cubrirle el rostro y a darte deG4026
+- Mar_16:5un joven...cubierto de una larga ropaG4016
+- Luc_1:35el poder del Altísimo te cubrirá conG1982
+- Luc_7:25hombre cubierto de vestiduras delicadas?[[G294]]
+- Luc_8:16nadie que enciende una luz la cubre conG2572
+- Luc_9:34una nube que los cubrió; y tuvieron temorG1982
+- Luc_23:30a decir a...y a los collados: CubridnosG2572
+- Rom_4:7aquellos...cuyos pecados son cubiertosG1943
+- 1Co_11:4varón que ora con la cabeza cubiertaG2596
+- 1Co_11:6si la mujer no se cubre, que se corteG2619
+- 1Co_11:6y si le es vergonzoso a la...que se cubraG2619
+- 1Co_11:7el varón no debe cubrirse la cabeza, puesG2619
+- 1Co_11:13que la mujer ore a Dios sin cubrirseG177
+- Heb_9:4el arca del pacto cubierta de oro porG4028
+- Heb_9:5los querubines de gloria que cubrían elG2683
+- Heb_11:37anduvieron de acá...cubiertos de pieles
+- Stg_5:20alma, y cubrirá multitud de pecadosG2572
+- 1Pe_4:8el amor cubrirá multitud de pecadosG2572
+- Rev_16:10y su reino se cubrió de tinieblas

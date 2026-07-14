@@ -1,0 +1,180 @@
+---
+tipo: concordancia
+palabra: LUZ, DAR A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LUZ, DAR A
+
+- Véase también Parir
+- Gén_3:16con dolor darás a luz los hijosH3205
+- Gén_4:1Eva, la cual concibió y dio a luz a CaínH3205
+- Gén_4:2después dio a luz a su hermano AbelH3205
+- Gén_4:17conoció Caín a su mujer...y dio a luz a EnocH3205
+- Gén_4:20y Ada dio a luz a JabalH3205
+- Gén_4:22y Zila también dio a luz a Tubal-caínH3205
+- Gén_4:25la cual dio a luz un hijo, y llamó su nombre SetH3205
+- Gén_16:11darás a luz un hijo, y llamarás su nombre IsmaelH3205
+- Gén_16:15y Agar dio a luz un hijo a AbramH3205
+- Gén_16:16era Abram de edad...cuando Agar dio a luz a IsmaelH3205
+- Gén_17:19ciertamente Sara tu mujer te dará a luz un hijoH3205
+- Gén_17:21Sara te dará a luz por este tiempoH3205
+- Gén_18:13¿será cierto que he de dar a luz siendo ya vieja?[[H3205]]
+- Gén_19:37dio a luz la mayor un hijo...su nombre MoabH3205
+- Gén_19:38dio a luz un hijo, y llamó su nombre Ben-ammiH3205
+- Gén_21:3que le dio a luz Sara, IsaacH3205
+- Gén_21:9el cual ésta le había dado a luz a AbrahamH3205
+- Gén_22:20Milca ha dado a luz hijos a Nacor tu hermanoH3205
+- Gén_22:23estos son los ocho hijos que dio a luz MilcaH3205
+- Gén_22:24dio a luz también a Teba, a Gaham, a Tahas yH3205
+- Gén_24:36dio a luz en su vejez un hijo a mi señorH3205
+- Gén_24:47hija de Betuel...que le dio a luz MilcaH3205
+- Gén_25:2dio a luz a Zimram, Jocsán, Medán, MadiánH3205
+- Gén_25:12a quien le dio a luz Agar egipcia, sierva de SaraH3205
+- Gén_25:24se cumplieron sus días para dar a luz, he aquíH3205
+- Gén_25:26era Isaac de edad...cuando ella los dio a luzH3205
+- Gén_29:32concibió Lea, y dio a luz un hijoH3205
+- Gén_29:33concibió otra vez, y dio a luz un hijoH3205
+- Gén_29:34y dio a luz un hijo...unirá mi marido conmigoH3205
+- Gén_29:35y dio a luz un hijo, y dijo: Esta vez alabaréH3205
+- Gén_29:35llamó su nombre Judá; y dejó de dar a luzH3205
+- Gén_30:3llégate a ella, y dará a luz sobre mis rodillasH3205
+- Gén_30:5concibió Bilha, y dio a luz un hijo a JacobH3205
+- Gén_30:7y dio a luz un segundo hijo a JacobH3205
+- Gén_30:9viendo, pues, Lea, que había dejado de dar a luzH3205
+- Gén_30:10Zilpa sierva de Lea dio a luz un hijo a JacobH3205
+- Gén_30:12Zilpa la sierva de Lea dio a luz otro hijo a JacobH3205
+- Gén_30:17oyó Dios a Lea...dio a luz el quinto hijo a JacobH3205
+- Gén_30:19concibió...y dio a luz el sexto hijo a JacobH3205
+- Gén_30:20porque le he dado a luz seis hijos
+- Gén_30:21dio a luz una hija, y llamó su nombre DinaH3205
+- Gén_30:23dio a luz un hijo...Dios ha quitado mi afrentaH3205
+- Gén_30:25aconteció cuando Raquel hubo dado a luz a José
+- Gén_31:43o a sus hijos que ellas han dado a luz?
+- Gén_34:1Dina la hija de Lea...había dado a luz a JacobH3205
+- Gén_35:16dio a luz Raquel y hubo trabajo en su partoH3205
+- Gén_36:4Ada dio a luz a Esaú a ElifazH3205
+- Gén_36:4y Basemat dio a luz a ReuelH3205
+- Gén_36:5Aholibama dio a luz a Jeús, a Jaalam y a CoréH3205
+- Gén_36:12y ella le dio a luz a AmalecH3205
+- Gén_36:14dio a luz a Jeús, Jaalam y Coré, hijos de EsaúH3205
+- Gén_38:3y dio a luz un hijo, y llamó su nombre ErH3205
+- Gén_38:4concibió otra vez, y dio a luz un hijoH3205
+- Gén_38:5volvió...dio a luz un hijo, y llamó su nombre SelaH3205
+- Gén_38:27al tiempo de dar a luz, he aquí había gemelosH3205
+- Gén_38:28sucedió cuando daba a luz, que sacóH3205
+- Gén_41:50le dio a luz Asenat, hija de PotiferaH3205
+- Gén_44:27sabéis que dos hijos me dio a luz mi mujerH3205
+- Gén_46:15los que dio a luz a Jacob en Padan-aramH3205
+- Gén_46:18y dio a luz éstos a JacobH3205
+- Gén_46:20los que le dio a luz Asenat, hija de PotiferaH3205
+- Gén_46:25y dio a luz éstos a JacobH3205
+- Éxo_1:19dan a luz antes que...venga a ellasH3205
+- Éxo_2:2la que concibió, y dio a luz un hijoH3205
+- Éxo_2:22dio a luz un hijo; y él le puso por nombre GersónH3205
+- Éxo_6:20Jocabed...dio a luz a Aarón y a MoisésH3205
+- Éxo_6:23dio a luz a Nadab, Abiú, Eleazar e ItamarH3205
+- Éxo_6:25la cual dio a luz a FineesH3205
+- Lev_12:2la mujer cuando conciba y dé a luz varón
+- Lev_12:5si diere a luz hija, será inmunda dos semanasH3205
+- Lev_12:7es la ley para la que diere a luz hijo o hija
+- Núm_26:59dio a luz de Amram a Aarón YH3205
+- Deu_25:6el primogénito que ella diere a luzH3205
+- Deu_28:57sus hijos que diere a luz; pues los comeráH3205
+- Jue_13:3eres estéril...concebirás y darás a luzH3205
+- Jue_13:5concebirás y darás a luz un hijoH3205
+- Jue_13:7tú concebirás, y darás a luz un hijoH3205
+- Jue_13:24dio a luz un hijo, y le puso por nombre SansónH3205
+- Rut_1:12y aun diese a luz hijosH3205
+- Rut_4:12Fares, el que Tamar dio a luz a JudáH3205
+- Rut_4:13Jehová le dio que concibiese y diese a luzH3205
+- Rut_4:15pues tu nuera, que te ama, lo ha dado a luzH3205
+- 1Sa_2:5hasta la estéril ha dado a luz siete
+- 1Sa_2:21visitó Jehová a Ana, y ella concibió, y dio a luzH3205
+- 1Sa_4:19muertos su suegro y...se inclinó y dio a luzH3205
+- 1Sa_4:20no tengas temor, porque has dado a luz un hijo
+- 2Sa_11:27y le dio a luz un hijoH3205
+- 2Sa_12:24consoló David a Betsabé...le dio a luz un hijoH3205
+- 1Re_3:17di a luz estando con ella en la casaH3205
+- 1Re_3:18al tercer día después de dar yo a luzH3205
+- 1Re_3:18ésta dio a luz también, y morábamosH3205
+- 1Re_3:21no era mi hijo, el que yo había dado a luzH3205
+- 1Re_11:20Tahpenes le dio a luz su hijo GenubatH3205
+- 2Re_4:17y dio a luz un hijo el año siguienteH3205
+- 2Re_19:3y la que da a luz no tiene fuerzas
+- 1Cr_1:32Cetura...dio a luz a Zimram, JocsánH3205
+- 1Cr_2:4Tamar su nuera dio a luz a Fares y a ZeraH3205
+- 1Cr_2:17Abigail dio a luz a Amasa, cuyo padre fue JeterH3205
+- 1Cr_2:19tomó Caleb...la cual dio a luz a HurH3205
+- 1Cr_2:21y ella dio a luz a SegubH3205
+- 1Cr_2:24Abías mujer de Hezrón dio a luz a AsurH3205
+- 1Cr_2:29Abihail, la cual dio a luz a Ahbán y a MolidH3205
+- 1Cr_2:35Sesán dio su hija por mujer...dio a luz a AtaiH3205
+- 1Cr_2:46Efa concubina de Caleb dio a luz a HaránH3205
+- 1Cr_2:48Maaca...dio a luz a Seber y a TirhanaH3205
+- 1Cr_2:49también dio a luz a Saaf padre de Madmana, y aH3205
+- 1Cr_4:6y Naara dio a luz a Ahuzam, Hefer, Temeni y AhastarH3205
+- 1Cr_4:9llamó Jabes...Por cuanto lo di a luz en dolor.
+- 1Cr_4:18Jehudaía dio a luz a Jered padre de GedorH3205
+- 1Cr_7:14Asriel, al cual dio a luz su concubina la siriaH3205
+- 1Cr_7:14la cual también dio a luz a Maquir padre de GalaadH3205
+- 1Cr_7:16Maaca mujer de Maquir dio a luz un hijoH3205
+- 1Cr_7:18y su hermana Hamolequet dio a luz a IsodH3205
+- 1Cr_7:23y dio a luz un hijo, al cual puso por nombre BeríaH3205
+- 2Cr_11:19le dio a luz estos hijos: JeúsH3205
+- 2Cr_11:20le dio a luz Abías, Atai, Ziza y SelomitH3205
+- Esd_10:44mujeres...habían dado a luz hijos
+- Sal_7:14y dio a luz engaño
+- Sal_48:6dolor como de mujer que da a luzH3205
+- Pro_17:25y amargura a la que lo dio a luzH3205
+- Pro_23:25y gócese la que te dio a luzH3205
+- Cnt_3:4y en la cámara de la que me dio a luzH3205
+- Cnt_6:9la escogida de la que la dio a luzH3205
+- Cnt_8:5allí tuvo dolores la que te dio a luzH3205
+- Isa_7:14la virgen concebirá, y dará a luz un hijoH3205
+- Isa_8:3llegué a la profetisa...y dio a luz un hijoH3205
+- Isa_23:4nunca estuve de parto, ni di a luz, ni criéH3205
+- Isa_26:18tuvimos dolores de parto, dimos a luz viento
+- Isa_33:11concebisteis hojarascas, rastrojo daréis a luz
+- Isa_37:3y la que da a luz no tiene fuerzas
+- Isa_45:10¿por qué diste a luz?
+- Isa_49:15¿se olvidará la mujer de lo que dio a luzH5764
+- Isa_51:2mirad a Abraham...y a Sara que os dio a luzH3205
+- Isa_51:18de todos los hijos que dio a luz, no hay quien
+- Isa_54:1regocíjate, oh estéril, la que no daba a luzH3205
+- Isa_65:23ni darán a luz para maldición
+- Isa_66:7dio a luz; antes que...dio a luz hijo
+- Isa_66:8en cuanto Sion estuvo de parto, dio a luz
+- Isa_66:9yo que hago dar a luz, ¿no haré nacer?
+- Jer_15:9languideció la que dio a luz sieteH3205
+- Jer_16:3sus madres que los den a luz y de los padresH3205
+- Jer_20:14el día en que mi madre me dio a luz no seaH3205
+- Jer_22:26te haré...y a tu madre que te dio a luzH3205
+- Jer_30:6inquirid ahora, y mirad si el varón da a luzH3205
+- Jer_31:8y la que dio a luz juntamenteH3205
+- Jer_50:12se afrentó la que os dio a luzH3205
+- Eze_16:20y tus hijas que habías dado a luz para míH3205
+- Eze_23:4y dieron a luz hijos e hijasH3205
+- Eze_23:37y aun a sus hijos que habían dado a luz para míH3205
+- Ose_1:3tomó a Gomer...y le dio a luz un hijoH3205
+- Ose_1:6concibió ella otra vez, y dio a luz una hijaH3205
+- Ose_1:8concibió y dio a luz un hijoH3205
+- Ose_2:5la que los dio a luz se deshonró
+- Ose_13:13dolores de mujer que da a luz le vendránH3205
+- Miq_5:3que dé a luz la que ha de dar a luzH3205
+- Mat_1:21dará a luz un hijo...su nombre JESÚS
+- Mat_1:23una virgen concebirá y dará a luz un hijo
+- Mat_1:25hasta que dio a luz a su hijo primogénito
+- Luc_1:13tu mujer Elisabet te dará a luz un hijoG3205
+- Luc_1:31concebirás en tu vientre, y darás a luz un hijo
+- Luc_1:57Cuando a Elisabet se le...dio a luz un hijo
+- Luc_2:7y dio a luz a su hijo primogénito
+- Jua_16:21la mujer cuando da a luz, tiene dolor
+- Jua_16:21pero después que ha dado a luz un niñoG1080
+- Gál_4:27regocíjate...tú que no das a luzG5088
+- Heb_11:11Sara...y dio a luz aun...de la edadG5088
+- Stg_1:15da a luz el pecado; y...da a luz la muerte
+- Rev_12:4la mujer que estaba para dar a luzG5088
+- Rev_12:5y ella dio a luz un hijo varón
+- Rev_12:13la mujer que había dado a luz al hijo varón

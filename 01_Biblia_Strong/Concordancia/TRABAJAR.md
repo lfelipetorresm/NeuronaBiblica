@@ -1,0 +1,109 @@
+---
+tipo: concordancia
+palabra: TRABAJAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TRABAJAR
+
+- Gén_30:30¿cuándo trabajaré...mi propia casa?
+- Éxo_5:18id pues, ahora, y trabajad. No se osH5647
+- Éxo_20:9seis días trabajarás, y harás toda tuH4399
+- Éxo_21:19por lo que estuvo sin trabajar, y hará
+- Éxo_23:12seis días trabajarás, y al séptimo díaH4639
+- Éxo_31:4trabajar en oro, en plata y en bronceH6213
+- Éxo_31:5para trabajar en toda clase de laborH6213
+- Éxo_31:15seis días se trabajará...día séptimo esH4399
+- Éxo_31:15cualquiera que trabaje en el día deH4399
+- Éxo_34:21seis días trabajarás, mas en el séptimoH5627
+- Éxo_35:2seis días se trabajará...día séptimo osH4399
+- Éxo_35:32trabajar en oro, en plata y en bronceH6213
+- Éxo_35:33para trabajar en toda labor ingeniosaH4399
+- Éxo_36:2venir a la obra para trabajar en ellaH4399
+- Lev_11:32sea...instrumento con que se trabajaH4399
+- Lev_23:3seis días se trabajará, mas el séptimoH4399
+- Deu_5:13seis días trabajarás, y harás toda tuH4399
+- Deu_16:8fiesta...a Jehová...no trabajarás en élH4399
+- Deu_21:3una becerra que no haya trabajado, queH5647
+- Jos_24:13la tierra por la...nada trabajasteisH3021
+- Rut_2:19dónde has trabajado?...contó...había tH3950
+- Rut_2:19el...con quien hoy he trabajado es BoozH6213
+- 2Sa_12:31los puso a trabajar...los hizo t en
+- 2Sa_20:15el pueblo...trabajaba por derribar la
+- 1Re_7:14su padre, que trabajaba en bronce
+- 1Re_9:23estaban sobre el pueblo que trabajaba enH6213
+- 1Cr_4:21los que trabajan lino en Bet-asbeaH5656
+- 1Cr_20:3y lo puso a trabajar con sierras, con
+- 1Cr_23:24de Leví...trabajaban en el ministerioH4399
+- 1Cr_27:26de los que trabajaban en la labranzaH4399
+- 2Cr_2:7un hombre hábil que sepa trabajar enH6213
+- 2Cr_2:14sabe trabajar en oro, plata, bronce yH6213
+- 2Cr_2:18capataces para hacer trabajar al puebloH5647
+- 2Cr_34:10trabajaban en la casa de Jehová, paraH6213
+- Neh_4:6el pueblo tuvo ánimo para trabajarH6213
+- Neh_4:16mitad...trabajaba en la obra, y la otraH6213
+- Neh_4:17con una mano trabajaban en la obra, y enH6213
+- Neh_4:21nosotros, pues, trabajábamos en la obraH4399
+- Job_9:29soy impío; ¿para qué trabajaré en vano?[[H3021]]
+- Sal_127:1en vano trabajan los que la edificanH5998
+- Pro_16:26el alma del que trabaja, t para síH6001
+- Pro_21:25porque sus manos no quieren trabajarH6213
+- Pro_31:13y con voluntad trabaja con sus manosH6213
+- Ecl_2:15¿para qué...trabajado hasta ahora para
+- Ecl_2:21¡que el hombre trabaje con sabiduría, yH5999
+- Ecl_2:21su hacienda a hombre que nunca trabajóH5998
+- Ecl_3:9¿qué provecho tiene el que trabaja, deH6213
+- Ecl_4:8nunca cesa de trabajar, ni sus ojos seH5999
+- Ecl_4:8¿para quién trabajo yo, y defraudo...almaH6001
+- Ecl_5:16¿y de qué le aprovechó trabajar en vano?[[H6001]]
+- Ecl_8:17por mucho que trabaje el...no la hallaráH5998
+- Isa_44:12el herrero toma la tenaza, trabaja enH6466
+- Isa_44:12y trabaja en ello con la fuerza de suH6466
+- Isa_49:4por demás he trabajado, en vano y sinH3021
+- Isa_65:23no trabajarán en vano, ni darán a luzH3021
+- Jer_18:3alfarero...él trabajaba sobre la ruedaH6213
+- Jer_51:58en vano trabajaron los pueblos, y lasH3021
+- Eze_29:20porque trabajaron para mí, dice JehováH6213
+- Dan_6:14el rey oyó el...trabajó para librarleH7712
+- Jon_1:13trabajaron para hacer volver la nave
+- Jon_4:10la calabacera, en la cual no trabajasteH5998
+- Hab_2:13los pueblos...trabajarán para el fuegoH3021
+- Hag_1:6que trabaja...recibe su jornal en saco
+- Hag_1:14trabajaron en la casa de Jehová de losH4399
+- Hag_2:4y trabajad; porque yo estoy con vosotrosH6213
+- Mat_6:28los lirios del campo...no trabajan niG2872
+- Mat_20:12postreros han trabajado una sola horaG4160
+- Mat_21:28hijo, vé hoy a trabajar en mi viñaG2038
+- Luc_5:5toda la noche hemos estado trabajandoG2872
+- Luc_12:27no trabajan ni hilan; mas os digo, queG2872
+- Luc_13:14seis días hay en que se debe trabajarG2038
+- Jua_5:17mi Padre...ahora trabaja, y yo trabajoG2038
+- Jua_6:27trabajad, no por la comida que pereceG2038
+- Jua_9:4noche viene, cuando nadie puede trabajarG2038
+- Hec_18:3trabajaban juntos, pues el oficio deG2038
+- Hec_20:35que, trabajando así, se debe ayudar aG2872
+- Rom_16:6a María, la cual ha trabajado muchoG2872
+- Rom_16:12y a Trifosa, las cuales trabajan en elG2872
+- Rom_16:12la cual ha trabajado mucho en el SeñorG2872
+- 1Co_4:12fatigamos trabajando con nuestrasG2872
+- 1Co_9:6yo y...no tenemos derecho de no trabajar?[[G2038]]
+- 1Co_9:13los que trabajan en las cosas sagradas
+- 1Co_15:10he trabajado más que todos ellos; peroG2872
+- 1Co_16:16y a todos los que ayudan y trabajanG2872
+- Gál_4:11me temo...que haya trabajado en vanoG2872
+- Efe_4:28sino trabaje, haciendo con sus manosG2872
+- Flp_2:16he corrido...ni en vano he trabajadoG2872
+- Col_1:29para lo cual también trabajo, luchandoG2872
+- 1Ts_2:9trabajando de noche y de día, paraG2873
+- 1Ts_4:11ocuparos...y trabajar con vuestras manosG2038
+- 1Ts_5:12que reconozcáis a los que trabajan entreG2872
+- 2Ts_3:8trabajamos con...y fatiga día y nocheG2038
+- 2Ts_3:10alguno no quiere trabajar, tampoco comaG2038
+- 2Ts_3:11no trabajando en nada, sino...lo ajenoG2038
+- 2Ts_3:12que trabajando...coman su propio panG2038
+- 1Ti_4:10por esto mismo trabajamos y sufrimosG2872
+- 1Ti_5:17los que trabajan en predicar y enseñarG2872
+- 2Ti_2:6el labrador...debe trabajar primeroG2872
+- Rev_2:3y has trabajado...por amor de mi nombreG2872
+- Rev_18:17y todos los que trabajan en el mar, seG2038

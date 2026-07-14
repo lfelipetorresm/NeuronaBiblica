@@ -1,0 +1,147 @@
+---
+tipo: concordancia
+palabra: BRONCE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BRONCE
+
+- Gén_4:22artífice de...obra de b y de hierroH5178
+- Éxo_26:11harás asimismo 50 corchetes de bH5178
+- Éxo_26:37fundirás cinco basas de b para ellasH5178
+- Éxo_27:2le harás cuernos...y lo cubrirás de bH5178
+- Éxo_27:3harás también...sus utensilios de bH5178
+- Éxo_27:4y le harás un enrejado de b de obra deH5178
+- Éxo_27:4sobre la rejilla harás 4 anillos de bH5178
+- Éxo_27:6varas de madera...cuales cubrirás de bH5178
+- Éxo_27:10columnas y sus 20 basas serán de bH5178
+- Éxo_27:11sus 20 columnas con sus 20 basas de bH5178
+- Éxo_27:17capiteles de plata, y sus basas de bH5178
+- Éxo_27:18sus cortinas de lino...sus basas de bH5178
+- Éxo_27:19todas las estacas del atrio...de bH5178
+- Éxo_30:18harás...fuente de b, con su base de bH5178
+- Éxo_31:4para trabajar en oro, en plata y en bH5178
+- Éxo_35:5ofrenda para Jehová...oro, plata, bH5178
+- Éxo_35:16altar...su enrejado de b y sus varasH5178
+- Éxo_35:24todo el que ofrecía ofrenda...o de bH5178
+- Éxo_35:32para trabajar en oro, en plata y en bH5178
+- Éxo_36:18cincuenta corchetes de b para enlazarH5178
+- Éxo_36:38columnas...e hizo de b sus cinco basasH5178
+- Éxo_38:2eran de la misma pieza, y lo cubrió de bH5178
+- Éxo_38:3del altar...sus utensilios los hizo de bH5178
+- Éxo_38:4hizo para el altar un enrejado de b deH5178
+- Éxo_38:5los cuatro extremos del enrejado de bH5178
+- Éxo_38:6hizo las varas de madera...cubrió de bH5178
+- Éxo_38:8hizo la fuente de b y su base de b, deH5178
+- Éxo_38:10-11columnas...con sus veinte basas de bH5178
+- Éxo_38:17las basas de las columnas eran de bH5178
+- Éxo_38:19sus cuatro basas de b y sus capitelesH5178
+- Éxo_38:20las estacas del tabernáculo...eran de bH5178
+- Éxo_38:29el b ofrendado fue de setenta talentos yH5178
+- Éxo_38:30; Éxo_39:39el altar de b y su enrejado de bH5178
+- Lev_6:28si fuere cocida en vasija de b, seráH5178
+- Lev_26:19como hierro, y vuestra tierra como bH5154
+- Núm_16:39Eleazar tomó los incensarios de bH5178
+- Núm_21:9Moisés hizo una serpiente de b, y laH5178
+- Núm_21:9miraba a la serpiente de b, y vivíaH5178
+- Núm_31:22la plata, el b, hierro, estaño, y plomoH5178
+- Deu_28:23cielos que están sobre...serán de bH5178
+- Deu_33:25hierro y b serán tus cerrojos, y comoH5178
+- Jos_6:19los utensilios de b...sean consagradosH5178
+- Jos_6:24pusieron en el tesoro...utensilios de bH5178
+- Jos_22:8plata, con oro, y b, y muchos vestidosH5178
+- 1Sa_17:5y traía un casco de b en su cabezaH5178
+- 1Sa_17:5era el peso de la cota 5.000 siclos de bH5178
+- 1Sa_17:6grebas de b, y jabalina de b entre susH5178
+- 1Sa_17:38y puso sobre su cabeza un casco de bH5178
+- 2Sa_8:8tomó el rey David gran cantidad de bH5178
+- 2Sa_8:10Joram llevaba...utensilios...de oro y de bH5178
+- 2Sa_21:16cuya lanza pesaba 300 siclos de b, yH5178
+- 2Sa_22:35se doble el arco de b con mis brazosH5154
+- 1Re_4:13ciudades con muro y cerraduras de bH5178
+- 1Re_7:14padre, que trabajaba en b, era de TiroH5178
+- 1Re_7:14lleno de sabiduría...en toda obra de bH5178
+- 1Re_7:15vació dos columnas de b; la altura deH5178
+- 1Re_7:16hizo...dos capiteles de fundición de bH5178
+- 1Re_7:27hizo también diez basas de b, siendo laH5178
+- 1Re_7:30tenía cuatro ruedas de b, con ejes de bH5178
+- 1Re_7:38hizo también diez fuentes de b; cadaH5178
+- 1Re_7:45todos los utensilios que...de b bruñidoH5178
+- 1Re_7:47no inquirió Salomón el peso del b deH5178
+- 1Re_8:64el altar de b...de Jehová era pequeñoH5178
+- 1Re_14:27hizo el rey Roboam escudos de b, y losH5178
+- 2Re_16:14e hizo acercar el altar de b queH5178
+- 2Re_16:15el altar de b será mío para consultarH5178
+- 2Re_16:17quitó...el mar de sobre los bueyes de bH5178
+- 2Re_18:4e hizo pedazos la serpiente de b queH5178
+- 2Re_25:13quebraron...caldeos las columnas de bH5178
+- 2Re_25:13el mar de b que estaba en la casa deH5178
+- 2Re_25:13los caldeos...llevaron el b a BabiloniaH5178
+- 2Re_25:14llevaron también...los utensilios de bH5178
+- 2Re_25:17de una columna...encima un capitel de bH5178
+- 2Re_25:17había una red y granadas...todo de bH5178
+- 1Cr_15:19cantores, sonaban címbalos de bH5178
+- 1Cr_18:8de Cun...tomó David muchísimo b, con elH5178
+- 1Cr_18:8hizo el mar de b, las...y utensilios de bH5178
+- 1Cr_18:10le envió...de utensilios de oro...y de bH5178
+- 1Cr_22:3mucho b sin peso, y madera de cedroH5178
+- 1Cr_22:14he preparado...b y hierro sin medidaH5178
+- 1Cr_22:16del oro...b y del hierro, no hay cuentaH5178
+- 1Cr_29:2b para las de b, hierro para las deH5178
+- 1Cr_29:7dieron 18.000 talentos de b, y 5.000H5178
+- 2Cr_1:5altar de b que habían hecho BezaleelH5178
+- 2Cr_1:6subió...al altar de b que estaba en elH5178
+- 2Cr_2:7que sepa trabajar en oro, en plata, en bH5178
+- 2Cr_2:14sabe trabajar en oro, plata, b y hierroH5178
+- 2Cr_4:1hizo además un altar de b de 20 codosH5178
+- 2Cr_4:9del atrio, y cubrió de b las puertas deH5178
+- 2Cr_4:16de b muy fino hizo todos sus enseresH5178
+- 2Cr_4:18número...no pudo saberse el peso del bH5178
+- 2Cr_6:13Salomón había hecho un estrado de bH5178
+- 2Cr_7:7en el altar de b...no podían caber losH5178
+- 2Cr_12:10hizo el rey Roboam escudos de b, y losH5178
+- 2Cr_24:12artífices en hierro y b para componerH5178
+- Esd_8:27y dos vasos de b bruñido muy buenoH5178
+- Job_6:12¿es mi fuerza la...o es mi carne de b?[[H5153]]
+- Job_20:24huirá de...y el arco de b le atravesaráH5154
+- Job_40:18sus huesos son fuertes como b, y susH5154
+- Job_41:27como paja...y el b como leño podridoH5154
+- Sal_18:34entesar con sus brazos el arco de bH5154
+- Sal_107:16porque quebrantó las puertas de b, yH5178
+- Isa_45:2quebrantaré puertas de b, y cerrojosH5154
+- Isa_48:4conozco que eres duro...tu frente de bH5154
+- Isa_60:17en vez de b traeré oro...y por madera bH5178
+- Jer_1:18te he puesto...como muro de b contraH5178
+- Jer_6:28b y hierro todos ellos son corruptoresH5178
+- Jer_15:12¿puede alguno quebrar el hierro...el b?[[H5178]]
+- Jer_15:20te pondré...por muro fortificado de bH5178
+- Jer_52:17las columnas de b...y el mar de b queH5178
+- Jer_52:17caldeos...llevaron todo el b a BabiloniaH5178
+- Jer_52:18utensilios de b con que se ministrabaH5178
+- Jer_52:20y los doce bueyes de b que estabanH5178
+- Jer_52:20el peso del b de todo...era incalculableH5178
+- Jer_52:22el capitel de b que había sobre ellaH5178
+- Jer_52:22una red y granadas alrededor...todo de bH5178
+- Eze_1:4venía...que parecía como b refulgenteH2830
+- Eze_1:7centelleaban a manera de b muy bruñidoH5178
+- Eze_1:27apariencia como de b refulgente, comoH2830
+- Eze_8:2resplandor, el aspecto de b refulgenteH2830
+- Eze_9:2entrados, se pararon junto al altar de bH5178
+- Eze_22:18todos ellos son b y estaño y hierroH5178
+- Eze_22:20como quien junta plata y b y hierro yH5178
+- Eze_27:13y con utensilios de b comerciaban enH5178
+- Eze_40:3un varón, cuyo aspecto era como...de bH5178
+- Dan_2:32plata; su vientre y sus muslos, de bH5174
+- Dan_2:35fueron desmenuzados...el b, la plata yH5174
+- Dan_2:39un tercer reino de b, el cual dominaráH5174
+- Dan_2:45desmenuzó el hierro, el b, el barro, laH5174
+- Dan_4:15, Dan_4:23con atadura de...b entre la hierbaH5174
+- Dan_5:4alabaron a los dioses...de b, de hierroH5174
+- Dan_5:23diste alabanza a dioses de plata...de bH5174
+- Dan_7:19que tenía...y uñas de b, que devorabaH5174
+- Dan_10:6y sus pies como de color de b bruñidoH5178
+- Miq_4:13haré...tus uñas de b, y desmenuzarásH5154
+- Zac_6:1montes y aquellos montes eran de bH5178
+- Rev_1:15; Rev_2:18pies semejantes al b bruñidoG5474
+- Rev_9:20ni dejaron de adorar...imágenes de...bG5470

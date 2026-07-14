@@ -1,0 +1,71 @@
+---
+tipo: concordancia
+palabra: DON
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DON
+
+- Gén_25:6hijos de sus concubinas dio Abraham dH4979
+- Gén_34:12aumentad a cargo mío mucha dote y dH4976
+- Lev_23:38vuestros d, de todos vuestros votosH4979
+- Núm_8:19yo he dado en d los levitas a Aarón yH7810
+- Núm_18:6dados a vosotros en d de Jehová, paraH4979
+- Núm_18:7he dado en d el servicio de...sacerdocioH4979
+- Núm_18:11será tuyo: la ofrenda elevada de sus dH4976
+- Núm_18:29de todos vuestros d ofreceréis todaH4979
+- Jos_15:19; Jue_1:15respondió: Concédeme un dH1293
+- Sal_68:18subiste...tomaste d para los hombresH4979
+- Sal_68:29de tu templo...los reyes te ofrecerán dH7862
+- Sal_72:10los reyes de Sabá y de Seba ofrecerán dH814
+- Sal_141:2el d de mis manos como la ofrenda deH4864
+- Pro_6:35perdonar, aunque multipliques los dH7810
+- Pro_21:14calma el furor, y el d en el seno...iraH4976
+- Ecl_3:13es d de Dios que todo hombre coma yH4991
+- Ecl_5:19goce de su trabajo, esto es d de DiosH4991
+- Isa_45:13no por precio ni por d, dice JehováH7810
+- Eze_16:33a todas las rameras les dan d; mas túH5078
+- Eze_16:33tú diste tus d a todos tus enamoradosH5083
+- Eze_16:41así haré...que ceses de prodigar tus dH868
+- Eze_20:40demandaré...las primicias de vuestros dH4864
+- Dan_2:6recibiréis de mí d y favores y granH4978
+- Dan_2:48rey...le dio muchos honores y grandes dH4978
+- Dan_5:17tus d sean para ti, y da tus recompensasH4978
+- Miq_1:7todos sus d serán quemados en fuegoH868
+- Miq_1:7porque de d de rameras los juntó, y a dH868
+- Miq_1:14tanto, vosotros daréis d a Moreset-gatH7964
+- Jua_4:10si conocieras el d de Dios, y quién esG1431
+- Hec_2:38y recibiréis el d del Espíritu SantoG1431
+- Hec_8:20que el d de Dios se obtiene con dineroG1431
+- Hec_10:45se derramase el d del Espíritu SantoG1431
+- Hec_11:17si Dios, pues, les concedió...el mismo dG1431
+- Rom_1:11para comunicaros algún d espiritualG5486
+- Rom_5:15pero el d no fue como la transgresiónG5486
+- Rom_5:15abundaron mucho más...la gracia y el d deG1431
+- Rom_5:16y con el d no sucede como en el caso deG1434
+- Rom_5:16d vino a causa de muchas transgresionesG5486
+- Rom_5:17los que reciben la...del d de la justiciaG1431
+- Rom_11:29irrevocables son los d y el...de DiosG5486
+- Rom_12:6teniendo diferentes d, según la graciaG5486
+- 1Co_1:7manera que nada os falta en ningún dG5486
+- 1Co_7:7pero cada uno tiene su propio d de DiosG5486
+- 1Co_12:1ignoréis acerca de los d espirituales
+- 1Co_12:4hay diversidad de d, pero el EspírituG5486
+- 1Co_12:9d de sanidades por el mismo EspírituG5486
+- 1Co_12:28que ayudan...los que tienen d de lenguasG5486
+- 1Co_12:30¿tienen todos d de sanidad? ¿hablanG5486
+- 1Co_12:31procurad, pues, los d mejores. Mas yoG5486
+- 1Co_14:1el amor, y procurad los d espirituales
+- 1Co_14:12que anheláis d espirituales, procurad
+- 2Co_1:11por el d concedido a nosotros porG5486
+- 2Co_9:15¡gracias a Dios por su d inefable![[G1431]]
+- Efe_2:8esto no de vosotros, pues es d de DiosG1435
+- Efe_3:7hecho ministro por el d de la gracia deG1431
+- Efe_4:7conforme a la medida del d de CristoG1431
+- Efe_4:8llevó cautiva la cautividad, y dio d a losG1390
+- 1Ti_4:14no descuides el d que hay en ti, queG5486
+- 2Ti_1:6que avives el fuego del d de Dios queG5486
+- Heb_6:4y gustaron del d celestial, y fueronG1431
+- Stg_1:17todo d perfecto desciende de lo altoG1394
+- 1Pe_4:10cada uno según el d que ha recibidoG5486

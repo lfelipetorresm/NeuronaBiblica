@@ -1,0 +1,285 @@
+---
+tipo: concordancia
+palabra: PODER (s.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PODER (s.)
+
+- Gén_31:29p hay en mi mano para haceros malH410
+- Gén_31:32aquel en cuyo p hallares tus dioses, no
+- Gén_35:4los dioses ajenos que había en p de ellos
+- Gén_39:4él...entregó en su p todo lo que teníaH3072
+- Gén_44:16aquel en cuyo p fue hallada la copa
+- Gén_44:17el varón en cuyo p fue hallada la copa
+- Gén_49:3principal en dignidad, principal en pH5794
+- Éxo_9:16te he puesto para mostrar en ti mi pH3581
+- Éxo_15:6tu diestra...ha sido magnificada en p; tuH3581
+- Éxo_15:7con la grandeza de tu p has derribado aH1347
+- Éxo_15:13lo llevaste con tu p a tu santa moradaH5797
+- Éxo_32:11sacaste...con gran p y con mano fuerte?[[H3581]]
+- Lev_25:28estará en p del que lo compró hastaH3027
+- Lev_25:30quedará...en p de aquel que la compró
+- Núm_14:13oirán...sacaste a este pueblo con tu pH3581
+- Núm_14:17ruego que sea magnificado el p delH3581
+- Núm_21:26Sebón...tomado de su p toda su tierraH3027
+- Núm_31:49de los hombres...que están en nuestro pH3027
+- Deu_2:36las entregó Jehová...Dios en nuestro p
+- Deu_4:37te sacó de Egipto con...y con su gran pH3581
+- Deu_8:17p y la fuerza de mi mano me han traídoH3581
+- Deu_8:18él te da el p para hacer las riquezasH3581
+- Deu_9:29y tu heredad, que sacaste con tu gran pH3581
+- Deu_34:12en el gran p y en los hechos grandiososH2389
+- Jos_17:17eres gran pueblo, y tienes grande pH3581
+- Jue_5:21de Cisón. Marcha, oh alma mía, con pH5797
+- Jue_17:2aquí el dinero está en mi p; yo lo tomé
+- 1Sa_2:1mi p se exalta en Jehová; mi boca se
+- 1Sa_2:4los fuertes...los débiles se ciñeron de pH2428
+- 1Sa_2:10dará p a su Rey, y exaltará el poderíoH5797
+- 1Sa_10:6el Espíritu...vendrá sobre ti con p, y
+- 1Sa_10:10; 1Sa_11:6el Espíritu...vino sobre él con p
+- 2Re_13:5dio...y salieron del p de los sitiosH3027
+- 2Re_17:36a Jehová, que os sacó...con grande p yH3581
+- 2Re_19:26sus moradores fueron de corto p; fueronH3027
+- 2Re_22:9lo han entregado en p de los que hacen
+- 1Cr_16:11buscad a Jehová y su p; buscad suH5797
+- 1Cr_16:27alabanza y...p y alegría en su moradaH5797
+- 1Cr_16:28tributad a Jehová...a Jehová gloria y pH5797
+- 1Cr_25:5Hemán, vidente del rey...para exaltar su p
+- 1Cr_29:11tuya es, oh Jehová...y el p, la gloriaH1369
+- 1Cr_29:12en tu mano está la fuerza y el p, y enH3581
+- 1Cr_29:12en tu mano el hacer grande y el dar pH1369
+- 1Cr_29:30todo lo relativo a su reinado, y su pH1369
+- 2Cr_6:41para habitar...tú y el arca de tu pH5797
+- 2Cr_13:20nunca más tuvo Jeroboam p en los díasH3581
+- 2Cr_16:9mostrar su p a favor de los que tienenH2388
+- 2Cr_20:6¿no está en tu mano tal fuerza y p, queH3581
+- 2Cr_25:8en Dios está el p, o para ayudar, o paraH3581
+- Esd_4:23les hicieron cesar con p y violenciaH2429
+- Esd_8:22su p y su furor contra todos los que leH5797
+- Neh_1:10los cuales redimiste con tu gran pH3581
+- Est_1:4para mostrar...la magnificencia de su pH1420
+- Est_10:2su p y autoridad, y el relato sobre laH8633
+- Job_5:20te salvará de...y del p de la espadaH3027
+- Job_6:23y redimidme del p de los violentos?[[H6184]]
+- Job_12:13con Dios está la sabiduría y el p; suyoH1369
+- Job_12:16con él está el p y la sabiduría; suyoH5797
+- Job_23:9si muestra su p al norte, yo no lo veré
+- Job_24:22pero a los fuertes adelantó con su pH3581
+- Job_26:2¿en qué ayudaste al que no tiene p?[[H3581]]
+- Job_26:12él agita el mar con su p, y con...hiereH3581
+- Job_26:14pero el trueno de su p, ¿quién lo puedeH1369
+- Job_30:21cruel...con el p de tu mano me persiguesH6108
+- Job_31:23contra cuya majestad yo no tendría p
+- Job_36:19del oro, o de todas las fuerzas del p?[[H3581]]
+- Job_36:22Dios es excelso en su p; ¿qué enseñadorH3581
+- Job_37:23él es Todopoderoso...grande en p; y enH3581
+- Sal_18:32Dios es el que me ciñe de p, y quienH2428
+- Sal_21:1el rey se alegra en tu p, oh Jehová; y enH5797
+- Sal_21:13engrandécete, oh Jehová, en tu pH1369
+- Sal_22:20libra...mi alma, del p del perro mi vidaH3027
+- Sal_29:1tributad...dad a Jehová la gloria y el pH5797
+- Sal_29:11Jehová dará p a su pueblo...bendeciráH5797
+- Sal_49:15Dios redimirá mi vida del p del SeolH3027
+- Sal_54:1oh Dios, sálvame...con tu p defiéndemeH1369
+- Sal_59:9a causa del p del enemigo esperaré enH5797
+- Sal_59:11dispérsalos con tu p, y abátelos, ohH2428
+- Sal_59:16pero yo cantaré de tu p, y alabaré deH5797
+- Sal_62:11veces he oído esto: Que de Dios es el pH5797
+- Sal_63:2para ver tu p y tu gloria, así como teH5797
+- Sal_65:6tú, el que afirma los montes con su pH1369
+- Sal_66:3por la grandeza de tu p se someterán aH5797
+- Sal_66:7él señorea con su p para siempre; susH1369
+- Sal_68:34atribuid p a Dios; sobre Israel es su
+- Sal_68:34sobre Israel...su p está en los cielos
+- Sal_71:18que anuncie tu p a la posteridad, y tuH1369
+- Sal_74:13dividiste el mar con tu p...monstruos
+- Sal_75:5no hagáis alarde de vuestro p...erviz
+- Sal_75:10pero el p del justo será exaltado
+- Sal_77:14tú...hiciste notorio en los pueblos tu p
+- Sal_78:26cielo, y trajo con su p el viento surH5797
+- Sal_80:2despierta tu p delante de Efraín, de
+- Sal_84:7irán de p en p; verán a Dios en Sion
+- Sal_86:16da tu p a tu siervo, y guarda a al hijo
+- Sal_89:17por tu...voluntad acrecentarás nuestro p
+- Sal_89:24él, y en mi nombre será exaltado su p
+- Sal_89:48¿qué...¿librará su vida del p del Seol?
+- Sal_90:11¿quién conoce el p de tu ira, y tuH5797
+- Sal_93:1Jehová se vistió, se ciñó de p. Afirmó
+- Sal_96:6alabanza y...p y gloria en su santuario
+- Sal_96:7pueblos, dad a Jehová la gloria y el p
+- Sal_105:4buscad a Jehová y su p; buscad...rostro
+- Sal_106:8él los salvó...para hacer notorio su pH1369
+- Sal_106:41los entregó en p de las naciones, y
+- Sal_107:2los que ha redimido del p del enemigo
+- Sal_110:2enviará desde Sion la vara de tu p
+- Sal_110:3se te ofrecerá...en el día de tu p, enH2428
+- Sal_111:6el p de sus obras manifestó a su puebloH3581
+- Sal_112:9siempre; su p será exaltado en gloria
+- Sal_132:8levántate, oh...tú y el arca de tu p
+- Sal_132:17allí haré retoñar el p de David; he
+- Sal_145:6p de tus hechos...hablarán los hombres
+- Sal_145:11de tu reino digan, y hablen de tu pH1369
+- Sal_147:5grande...el Señor nuestro, y de mucho pH3581
+- Pro_3:27no te...cuando tuvieres p para hacerloH410
+- Pro_8:14yo soy la inteligencia; mío es el pH1369
+- Pro_18:21la muerte y la vida están en p de laH3027
+- Isa_8:7es, al rey de Asiria con todo su p; élH3519
+- Isa_10:13con el p de mi mano lo he hecho, y conH3581
+- Isa_11:2reposará sobre él el Espíritu de...y de pH1369
+- Isa_11:15Jehová...levantará su mano con el p deH5868
+- Isa_23:10de Tarsis, porque no tendrás ya más pH4206
+- Isa_33:13vosotros...estáis cerca, conoced mi pH1369
+- Isa_37:27sus moradores fueron de corto p; fueronH3027
+- Isa_40:10aquí que Jehová el Señor vendrá con pH2389
+- Isa_40:26tal es...su fuerza, y el p de su dominioH3581
+- Isa_47:14no salvarán sus vidas del p de la llamaH3027
+- Isa_50:2¿no hay en mí p para librar? He aquí queH3581
+- Isa_51:9despiértate, vístete de p, oh brazo deH5797
+- Isa_52:1vístete de p, oh Sion; vístete tu ropaH5797
+- Isa_63:1éste...que marcha en la grandeza de su p?[[H3581]]
+- Isa_63:15¿dónde está tu celo, y tu p...conmigo?[[H1369]]
+- Isa_64:7nos dejaste marchitar en p de nuestras
+- Jer_10:5ni...mal, ni para hacer bien tienen p
+- Jer_10:12el que hizo la tierra con su p, el queH3581
+- Jer_16:21haré conocer mi mano y mi p, y sabránH1369
+- Jer_27:5con mi gran p y con mi brazo extendidoH3581
+- Jer_32:17hiciste el cielo y la...con tu gran pH3581
+- Jer_38:10toma en tu p treinta hombres de aquí
+- Jer_38:11tomó Ebed-melec en su p a los hombres
+- Jer_48:25cortado es el p de Moab, y su brazo
+- Jer_51:15el que hizo la tierra con su p, el queH3581
+- Lam_2:17y enalteció el p de tus adversarios
+- Eze_17:9sin gran p ni...gente para arrancarlaH2220
+- Eze_22:6cada uno según su p, se esfuerzan enH2220
+- Eze_23:5cometió fornicación aun estando en mi p
+- Eze_29:21haré retoñar el p de la casa de Israel
+- Eze_30:18cuando quebrante yo allí el p de Egipto
+- Eze_35:5entregaste a...Israel al p de la espadaH3027
+- Dan_2:20porque suyos son el p y la sabiduríaH1370
+- Dan_2:37el Dios del cielo te ha dado reino, pH2632
+- Dan_3:27el fuego no había tenido p alguno sobreH7981
+- Dan_4:30que yo edifiqué...con la fuerza de mi pH2632
+- Dan_6:27ha librado a Daniel del p de los leonesH3028
+- Dan_8:4ni había quien escapase de su p; y hacíaH3028
+- Dan_8:7no hubo quien librase al carnero de su pH3581
+- Dan_8:24su p se fortalecerá, mas no con fuerzaH3581
+- Dan_11:3el cual dominará con gran p y hará suH4474
+- Dan_11:16la tierra gloriosa...consumida en su p
+- Dan_11:17para venir con el p de todo su reinoH8633
+- Dan_12:7se acabe la dispersión del p del puebloH3027
+- Ose_12:3hermano, y con su p venció al ángelH8280
+- Amó_6:13hemos adquirido p con nuestra fuerza?[[H2392]]
+- Miq_2:1el mal...porque tienen en su mano el p![[H410]]
+- Miq_3:8mas yo estoy lleno de p del Espíritu deH3581
+- Miq_5:4él estará, y apacentará con p de JehováH5797
+- Nah_1:3Jehová es tardo para la...y grande en pH3581
+- Nah_2:1cíñete los lomos, refuerza mucho tu pH3581
+- Hab_2:9su nido, para escaparse del p del mal![[H3709]]
+- Hab_3:4de su mano, y allí estaba escondido su pH5797
+- Mat_6:13tuyo es el reino, y el p, y la gloriaG1411
+- Mat_14:2es Juan...y por eso actúan en él estos pG1411
+- Mat_22:29ignorando las Escrituras y el p de DiosG1411
+- Mat_24:30sobre las nubes...con p y gran gloriaG1411
+- Mat_26:64sentado a la diestra del p de Dios, yG1411
+- Mar_5:30conociendo...p que había salido de élG1411
+- Mar_6:14Juan el...por eso actúan en él estos pG1411
+- Mar_9:1hayan visto el reino de Dios venido con pG1411
+- Mar_12:24ignoráis...Escrituras, y el p de Dios?[[G1411]]
+- Mar_13:26vendrá en las nubes con gran p y gloriaG1411
+- Mar_14:62sentado a la diestra del p de Dios, yG1411
+- Luc_1:17irá delante de él con el...p de ElíasG1411
+- Luc_1:35y el p del Altísimo te cubrirá con suG1411
+- Luc_4:14volvió en el p del Espíritu a GalileaG1411
+- Luc_4:36con...p manda a los espíritus inmundosG1411
+- Luc_5:17el p del Señor estaba con él para sanarG1411
+- Luc_6:19porque p salía de él y sanaba a todosG1411
+- Luc_8:46porque yo he conocido que ha salido p deG1411
+- Luc_9:1p y autoridad sobre todos los demoniosG1411
+- Luc_12:5después...tiene p de echar en el infiernoG1849
+- Luc_20:20para entregarle al p y...del gobernadorG746
+- Luc_21:27vendrá en una nube con p y gran gloriaG1411
+- Luc_22:69se sentará a la diestra del p de DiosG1411
+- Luc_24:49hasta que seáis investidos de p desdeG1411
+- Jua_10:18p para ponerla, y...p para volverla aG1849
+- Hec_1:8pero recibiréis p, cuando haya venidoG1411
+- Hec_3:12por nuestro p o piedad hubiésemos hechoG1411
+- Hec_4:33gran p los apóstoles daban testimonio deG1411
+- Hec_5:4y vendida, ¿no estaba en tu p? ¿Por quéG1849
+- Hec_6:8y Esteban, lleno de gracia y de p, hacíaG1411
+- Hec_8:10diciendo: Este es el gran p de DiosG1411
+- Hec_8:19diciendo: Dadme también a mí este p, paraG1849
+- Hec_10:38Dios ungió con...p a Jesús de NazaretG1411
+- Hec_20:32la palabra de su gracia, que tiene pG1410
+- Hec_26:10habiendo recibido p de los principalesG1849
+- Hec_26:12iba yo a Damasco con p y en comisión deG1849
+- Rom_1:4declarado Hijo de Dios con p, según elG1411
+- Rom_1:16es p de Dios para salvación a todo aquelG1411
+- Rom_1:20cosas invisibles...su eterno p y deidadG1411
+- Rom_9:17para mostrar en ti mi p, y para que miG1411
+- Rom_9:22y hacer notorio su p, soportó con muchaG1411
+- Rom_15:13que abundéis en esperanza por el p delG1411
+- Rom_15:19señales...en el p del Espíritu de DiosG1411
+- 1Co_1:18pero a los que se salvan...p de DiosG1411
+- 1Co_1:24Cristo p de Dios, y sabiduría de DiosG1411
+- 1Co_2:4sino con demostración del Espíritu y de pG1411
+- 1Co_2:5no esté fundada en...sino en el p de DiosG1411
+- 1Co_4:19y conoceré...sino el p de los que andanG1411
+- 1Co_4:20el reino...no consiste en palabras...en pG1411
+- 1Co_5:4con el p de nuestro Señor JesucristoG1411
+- 1Co_6:14también a nosotros nos levantará...su pG1411
+- 1Co_15:43siembra en debilidad, resucitará en pG1411
+- 1Co_15:56es el pecado, y el p del pecado, la leyG1411
+- 2Co_4:7que la excelencia del p sea de DiosG1411
+- 2Co_6:7en p de Dios, con armas de justicia aG1411
+- 2Co_12:9mi p se perfecciona en la debilidadG1411
+- 2Co_12:9para que repose sobre mí el p de CristoG1411
+- 2Co_13:4fue...en debilidad, vive por el p de DiosG1411
+- 2Co_13:4pero viviremos con él por el p de DiosG1411
+- Efe_1:19grandeza de su p para con nosotros losG1411
+- Efe_1:19según la operación del p de su fuerzaG2904
+- Efe_1:21sobre todo...p y señorío, y sobre todoG1849
+- Efe_3:7ha sido dado según la operación de su pG1411
+- Efe_3:16el ser fortalecidos con p en el hombreG2904
+- Efe_3:20es poderoso...el p que actúa en nosotrosG1411
+- Efe_6:10fortaleceos en el...en el p de su fuerzaG2904
+- Flp_3:10conocerle, y el p de su resurrecciónG1411
+- Flp_3:21p con el cual puede también sujetar aG1411
+- Col_1:11fortalecidos con todo p, conforme aG2904
+- Col_2:12mediante la fe en el p de Dios que le
+- 1Ts_1:5también en p, en el Espíritu SantoG1411
+- 2Ts_1:7manifieste...con los ángeles de su pG1411
+- 2Ts_1:9excluidos de la...y de la gloria de su pG2479
+- 2Ts_1:11cumpla todo...y toda obra de fe en su pG1411
+- 2Ts_2:9gran p y señales y prodigios mentirososG1411
+- 2Ts_2:11Dios les envía un p engañoso, para queG1753
+- 2Ti_1:7sino de p, de amor y de dominio propioG1411
+- 2Ti_1:8sino participa de las...según el p de DiosG1411
+- Heb_1:3quien sustenta...con la palabra de su pG1411
+- Heb_6:5gustaron de...y los p del siglo venideroG1411
+- Heb_7:16según el p de una vida indestructibleG1411
+- 1Pe_1:5que sois guardados por el p de DiosG1411
+- 1Pe_4:11ministre conforme al p que Dios da, paraG2479
+- 2Pe_1:3nos han sido dadas por su divino pG1411
+- 2Pe_1:16hemos dado a conocer el p y la venida deG1411
+- Rev_4:11Señor, digno eres de recibir...y el pG1411
+- Rev_5:12el Cordero...es digno de tomar el p, lasG1411
+- Rev_5:13al Cordero, sea...el p, por los siglos deG2904
+- Rev_6:4le fue dado p de quitar de la tierra la
+- Rev_7:2se les había dado el p de hacer daño aG1849
+- Rev_7:12la honra y el p...sean a nuestro Dios porG1849
+- Rev_9:3les dio p, como tienen p los escorpionesG1849
+- Rev_9:10en sus colas tenían p para dañar a losG1849
+- Rev_9:19el p de los caballos estaba en su bocaG1849
+- Rev_11:6éstos tienen p para cerrar el cielo, aG1849
+- Rev_11:6p sobre las aguas para convertirlas enG1849
+- Rev_11:17has tomado tu gran p, y has reinadoG1411
+- Rev_12:10ha venido..el p, y el reino de...DiosG1849
+- Rev_13:2y el dragón le dio su p y su trono, yG1411
+- Rev_14:18otro ángel, que tenía p sobre el fuegoG1849
+- Rev_15:8y el templo se llenó de humo...por su pG1411
+- Rev_16:9de Dios que tiene p sobre estas plagasG1849
+- Rev_17:13y entregarán su p y su autoridad a laG1411
+- Rev_18:1vi a otro ángel descender...con gran pG1849
+- Rev_19:1gloria y p son del Señor Dios nuestroG1411

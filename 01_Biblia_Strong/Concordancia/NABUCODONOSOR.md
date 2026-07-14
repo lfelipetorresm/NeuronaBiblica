@@ -1,0 +1,99 @@
+---
+tipo: concordancia
+palabra: NABUCODONOSOR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NABUCODONOSOR
+
+- Rey de Babilonia
+- 2Re_24:1subió en campaña N rey de BabiloniaH5019
+- 2Re_24:10subieron contra Jerusalén los...de N reyH5019
+- 2Re_24:11vino también N rey de Babilonia contraH5019
+- 2Re_25:1que N rey de...vino con todo su ejércitoH5019
+- 2Re_25:8el año 19 de N rey de Babilonia, vino aH5019
+- 2Re_25:22pueblo que N...dejó en tierra de JudáH5019
+- 1Cr_6:15transportó a Judá y...por mano de NH5019
+- 2Cr_36:6subió contra él N rey de BabiloniaH5019
+- 2Cr_36:7llevó N a Babilonia de los utensilios deH5019
+- 2Cr_36:10rey N envió y lo hizo llevar a BabiloniaH5019
+- 2Cr_36:13rebeló asimismo contra N, al cual habíaH5019
+- Esd_1:7los utensilios...que N había sacado deH5019
+- Esd_2:1N rey de Babilonia había llevado cautivosH5019
+- Esd_3:12los entregó en mano de N rey de BabiloniaH5020
+- Esd_5:14los utensilios de oro...que N había sacadoH5020
+- Esd_6:3los cuales N sacó del templo que estabaH5020
+- Neh_7:6que llevó cautivos N rey de BabiloniaH5019
+- Est_2:6hizo transportar N rey de BabiloniaH5019
+- Jer_21:2N rey de Babilonia hace guerra contraH5019
+- Jer_21:7entregaré a Sedequías...en mano de N reyH5019
+- Jer_22:25sí, en mano de N rey de Babilonia, y enH5019
+- Jer_24:1después de haber transportado N rey deH5019
+- Jer_25:1era el año primero de N rey de BabiloniaH5019
+- Jer_25:9tornaré a...N rey de Babilonia, mi siervoH5019
+- Jer_27:6yo he puesto...estas tierras en mano de NH5019
+- Jer_27:8a la nación...que no sirviere a N rey deH5019
+- Jer_27:20que no quitó N rey de Babilonia cuandoH5019
+- Jer_28:3utensilios...que N rey de...tomó de esteH5019
+- Jer_28:11romperé el yugo de N rey de BabiloniaH5019
+- Jer_28:14sirvan a N rey de...y han de servirleH5019
+- Jer_29:1y a todo el pueblo que N llevó cautivoH5019
+- Jer_29:3a quienes envió Sedequías...a N rey deH5019
+- Jer_29:21aquí los entrego yo en mano de N reyH5019
+- Jer_32:1Judá, que fue el año decimoctavo de NH5019
+- Jer_32:28a entregar esta ciudad...en mano de NH5019
+- Jer_34:1cuando N...peleaban contra Jerusalén yH5019
+- Jer_35:11cuando N...subió a la tierra, dijimosH5019
+- Jer_37:1N rey de Babilonia constituyó por rey enH5019
+- Jer_39:1vino N rey...con todo su ejército contraH5019
+- Jer_39:5Hamat, donde estaba N rey de BabiloniaH5019
+- Jer_39:11N había ordenado a Nabuzaradán capitánH5019
+- Jer_43:10N...pondré su trono sobre estas piedrasH5019
+- Jer_44:30entregué a Sedequías rey...en mano de NH5019
+- Jer_46:2a quien destruyó N...en el año cuarto deH5019
+- Jer_46:13habló, acerca de la venida de N rey deH5019
+- Jer_46:26y los entregaré...en mano de N rey deH5019
+- Jer_49:28los cuales asoló N rey de BabiloniaH5019
+- Jer_49:30tomó consejo contra vosotros N rey deH5019
+- Jer_50:17N rey de Babilonia lo deshuesó despuésH5019
+- Jer_51:34me desmenuzó N rey de Babilonia, y meH5019
+- Jer_52:4vino N rey de Babilonia, él y todo suH5019
+- Jer_52:12era el año diecinueve del reinado de NH5019
+- Jer_52:28este es el pueblo que N llevó cautivoH5019
+- Jer_52:29el año dieciocho de N él llevó cautivasH5019
+- Jer_52:30el año veintitrés de N...745 personasH5019
+- Eze_26:7del norte traigo yo contra Tiro a NH5019
+- Eze_29:18N rey de Babilonia hizo a su ejércitoH5019
+- Eze_29:19yo doy a N, la tierra de Egipto; y élH5019
+- Eze_30:10las riquezas de Egipto por mano de NH5019
+- Dan_1:1vino N rey de Babilonia a Jerusalén, yH5019
+- Dan_1:18jefe de...eunucos los trajo delante de NH5019
+- Dan_2:1el segundo año del reinado de N, tuvo NH5019
+- Dan_2:28él ha hecho saber al rey N lo que ha deH5020
+- Dan_2:46el rey N se postró sobre su rostro y seH5020
+- Dan_3:1N hizo una estatua de oro cuya altura eraH5020
+- Dan_3:2y envió el rey N a que se reuniesen losH5020
+- Dan_3:2-3la estatua que el rey N había levantadoH5020
+- Dan_3:3la estatua que había levantado el rey NH5020
+- Dan_3:5adoréis la estatua de oro que el rey N haH5020
+- Dan_3:7adoraron la estatua de oro que el rey NH5020
+- Dan_3:9dijeron al rey N: Rey, para siempre viveH5020
+- Dan_3:13N dijo con ira y...que trajesen a SadracH5020
+- Dan_3:14habló N y les dijo: ¿Es verdad, SadracH5020
+- Dan_3:16respondieron al rey N...No es necesarioH5020
+- Dan_3:19entonces N se llenó de ira, y se demudóH5020
+- Dan_3:24rey N se espantó, y se levantó...y dijoH5020
+- Dan_3:26N se acercó a la puerta del horno deH5020
+- Dan_3:28N dijo: Bendito sea el Dios de ellos, deH5020
+- Dan_4:1N rey, a todos los pueblos, naciones yH5020
+- Dan_4:4yo N estaba tranquilo en mi casa, yH5020
+- Dan_4:18yo el rey N he visto este sueño...Tú, puesH5020
+- Dan_4:28todo esto vino sobre el rey NH5020
+- Dan_4:31se te dice...N: El reino ha sido quitadoH5020
+- Dan_4:33misma hora se cumplió la palabra sobre NH5020
+- Dan_4:34al fin del...yo N alcé mis ojos al cieloH5020
+- Dan_4:37ahora yo N...glorifico al Rey del cicloH5020
+- Dan_5:2vasos...que N su padre había traído delH5020
+- Dan_5:11que el rey N tu padre...constituyó jefeH5020
+- Dan_5:18Dios, oh rey, dio a N tu padre el reinoH5020

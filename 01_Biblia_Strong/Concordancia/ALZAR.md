@@ -1,0 +1,213 @@
+---
+tipo: concordancia
+palabra: ALZAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ALZAR
+
+- Gén_7:17las aguas crecieron, y alzaron el arcaH5375
+- Gén_13:10alzó Lot sus ojos, y vio...la llanuraH5375
+- Gén_13:14alza ahora tus ojos, y mira desde elH5375
+- Gén_14:22alzado mi mano a Jehová Dios AltísimoH7311
+- Gén_18:2alzó sus ojos y miró, y he aquí tresH5375
+- Gén_21:16sentó...el muchacho alzó su voz y lloróH5375
+- Gén_21:18alza al muchacho, y sostenlo con tuH5375
+- Gén_22:4alzó Abraham sus ojos, y vio el lugarH5375
+- Gén_22:13alzó Abraham sus ojos y miró, y he aquíH5375
+- Gén_24:63y alzando sus ojos miró, y he aquí losH5375
+- Gén_24:64Rebeca...alzó sus ojos y vio a IsaacH5375
+- Gén_27:38bendíceme...Y alzó Esaú su voz y lloróH5375
+- Gén_28:18y tomó la piedra...y la alzó por señalH7760
+- Gén_29:11y Jacob besó a...y alzó su voz y lloróH5375
+- Gén_31:10alcé yo mis ojos y vi en sueños, y heH5375
+- Gén_31:12alza ahora tus ojos, y verás que todosH5375
+- Gén_33:1alzando Jacob sus ojos, miró, y...EsaúH5375
+- Gén_33:5alzó sus ojos y vio a las mujeres y aH5375
+- Gén_37:25alzando los ojos miraron...una compañíaH5375
+- Gén_39:15viendo que yo alzaba la voz y gritabaH7311
+- Gén_39:18cuando yo alcé mi voz y grité, él...huyóH7311
+- Gén_40:20alzó la cabeza del jefe de los coperosH5375
+- Gén_41:44sin ti ninguno alzará su mano ni su pieH7311
+- Gén_43:29alzando José sus ojos vio a BenjamínH5375
+- Éxo_6:8en la tierra por la cual alcé mi manoH5375
+- Éxo_7:20alzando la vara golpeó las aguas...ríoH7311
+- Éxo_14:10los hijos de Israel alzaron sus ojosH5375
+- Éxo_14:16alza tu vara, y extiende tu mano sobreH7311
+- Éxo_17:11cuando alzaba Moisés su mano, IsraelH7311
+- Éxo_20:25porque si alzares herramienta sobre élH5130
+- Éxo_26:30y alzarás el tabernáculo conforme alH6965
+- Éxo_40:18sus barras, e hizo alzar sus columnasH6965
+- Éxo_40:36la nube se alzaba del tabernáculo, losH5927
+- Éxo_40:37si la nube no se alzaba, no se movíanH5927
+- Éxo_40:37hasta el día en que ella se alzabaH5927
+- Lev_9:22alzó Aarón sus manos hacia el puebloH5375
+- Núm_6:26alce sobre ti su rostro, y ponga en tiH5375
+- Núm_9:17cuando se alzaba la nube del tabernáculoH5927
+- Núm_10:11la nube se alzó del tabernáculo delH5927
+- Núm_14:30por la cual alcé mi mano y juré que osH5375
+- Núm_20:11alzó Moisés su mano y golpeó la peñaH7311
+- Núm_24:2alzando sus ojos, vio a Israel alojadoH5375
+- Deu_3:27sube a la cumbre del Pisga y alza tusH5375
+- Deu_4:19no sea que alces tus ojos al cielo, yH5375
+- Deu_13:9tu mano se alzará primero sobre él para
+- Deu_27:5no alzarás sobre ellas instrumento deH5130
+- Deu_32:40yo alzaré a los cielos mi mano, y diréH5375
+- Jos_5:13Josué...alzó sus ojos y vio un varónH5375
+- Jos_8:19corrieron luego que él alzó su manoH5186
+- Jos_8:31sobre las cuales nadie alzó hierro, yH5130
+- Jue_2:4habló...el pueblo alzó su voz y lloróH5375
+- Jue_9:7alzando su voz clamó y les dijo: OídmeH5375
+- Jue_19:17alzando el viejo los ojos, vio a aquelH5375
+- Jue_21:2y alzando su voz hicieron gran llantoH5375
+- Rut_1:9las besó, y...alzaron su voz y lloraronH5375
+- Rut_1:14alzaron otra vez su voz y lloraronH5375
+- 1Sa_6:13y alzando los ojos vieron el arcaH5375
+- 1Sa_9:24alzó el cocinero una espaldilla, con loH7311
+- 1Sa_11:4y todo el pueblo alzó su voz y lloróH5375
+- 1Sa_24:16hijo mío...Y alzó Saúl su voz y lloróH5375
+- 1Sa_30:4David y la...alzaron su voz y lloraronH5375
+- 2Sa_3:32alzando el rey su voz, lloró junto alH5375
+- 2Sa_13:34alzando sus ojos el joven...de atalayaH5375
+- 2Sa_13:36y alzando su voz lloraron. Y tambiénH5375
+- 2Sa_18:24alzando sus ojos, miró, y vio a uno queH5375
+- 2Sa_23:18éste alzó su lanza contra trescientosH5782
+- 1Re_7:21cuando hubo alzado la columna del ladoH6965
+- 1Re_7:21y alzando la columna del lado izquierdoH6965
+- 1Re_11:26Jeroboam...alzó su mano contra el reyH7311
+- 1Re_11:27la causa por la cual éste alzó su manoH7311
+- 2Re_2:1quiso...alzar a Elías en un torbellinoH5927
+- 2Re_2:13alzó...el manto de Elías que...había caídoH7311
+- 2Re_5:11y alzará su mano y tocará el lugar, yH5130
+- 2Re_9:32alzando él...su rostro hacia la ventanaH5375
+- 2Re_19:22¿y contra quién has alzado la voz, yH7311
+- 1Cr_15:16resonasen y alzasen la voz con alegríaH7311
+- 1Cr_21:16alzando David sus ojos, vio al ángel deH5375
+- 2Cr_5:13que alzaban la voz con trompetas yH7311
+- 2Cr_13:15así que ellos alzaron el grito, DiosH7321
+- 2Cr_32:5hizo alzar las torres, y otro muro porH5927
+- Esd_6:11alzado, sea colgado en él, y su casaH2211
+- Neh_8:6el pueblo respondió...alzando sus manosH4607
+- Neh_9:15la tierra, por la cual alzaste tu manoH5375
+- Job_2:12cuales, alzando los ojos desde lejosH5375
+- Job_6:2que...se alzasen igualmente en balanza![[H5375]]
+- Job_10:16si mi cabeza se alzare...tú me cazasH1342
+- Job_22:26deleitarás...y alzarás a Dios tu rostroH5375
+- Job_31:21si alcé contra el huérfano mi manoH5130
+- Job_38:34¿alzarás tú a las nubes tu voz, paraH7311
+- Sal_4:6alza sobre nosotros...luz de tu rostroH5375
+- Sal_7:6álzate en contra de...angustiadoresH5375
+- Sal_10:12Dios, alza tu mano; no te olvides deH5375
+- Sal_20:5alzaremos pendón en el nombre de...DiosH1713
+- Sal_24:7, Sal_24:9alzad oh puertas...y alzaos vosotrasH5375
+- Sal_28:2alzo mis manos hacia tu santo temploH5375
+- Sal_41:9el hombre de...alzó contra mí el calcañarH1431
+- Sal_44:20o alzado nuestras manos a dios ajenoH6566
+- Sal_55:12se alzó contra mí el que me aborrecíaH1431
+- Sal_60:4bandera que alcen...causa de la verdadH5127
+- Sal_63:4mi vida; en tu nombre alzaré mis manosH5375
+- Sal_77:2alzaba a él mis manos de noche, sinH1875
+- Sal_83:2y los que te aborrecen alzan cabezaH5375
+- Sal_93:3alzaron los ríos...los ríos a su sonidoH5375
+- Sal_93:3su sonido; alzaron los ríos sus ondasH5375
+- Sal_102:10pues me alzaste, y me has arrojadoH5375
+- Sal_106:26por tanto, alzó su mano contra ellosH5375
+- Sal_113:7pobre...al menesteroso alza del muladarH7311
+- Sal_119:48alzaré...mis manos a tus mandamientosH5375
+- Sal_121:1alzaré mis ojos a los montes; ¿de dóndeH5375
+- Sal_123:1a ti alcé mis ojos, a ti que habitas enH5375
+- Sal_134:2alzad vuestras manos al santuario, yH5375
+- Pro_1:20sabiduría...alza su voz en las plazasH5414
+- Isa_2:4no alzará espada nación contra naciónH5375
+- Isa_5:26alzará pendón a naciones lejanas, yH5375
+- Isa_9:18serán alzados como remolinos de humoH55
+- Isa_10:24contra ti alzará su palo, a la maneraH5375
+- Isa_10:26alzará su vara sobre el mar como hizoH5375
+- Isa_10:32alzará su mano al monte de la hija deH5130
+- Isa_11:11que Jehová alzará otra vez su mano paraH3254
+- Isa_13:2alzad la voz a ellos, a la mano, paraH5375
+- Isa_24:14alzarán su voz, cantarán gozosos porH5375
+- Isa_26:11Jehová, tu mano está alzada, pero ellosH5375
+- Isa_37:23¿contra quién has alzado tu voz...ojosH7311
+- Isa_38:14como la paloma; alzaba en alto los ojosH4791
+- Isa_40:4valle sea alzado, y bájese todo monteH5375
+- Isa_42:2no gritará, ni alzará su voz, ni la haráH5375
+- Isa_42:11alcen la voz el desierto y sus ciudadesH5375
+- Isa_46:1alzadas cual carga, sobre las bestias
+- Isa_49:18alza tus ojos alrededor, y mira; todosH5375
+- Isa_51:6alzad a los cielos vuestros ojos, y miradH5375
+- Isa_52:8alzarán la voz, juntamente darán vocesH5375
+- Isa_58:1alza tu voz como trompeta, y anuncia aH7311
+- Isa_60:4alza tus ojos alrededor y mira, todosH5375
+- Isa_62:10las piedras, alzad pendón a los pueblosH7311
+- Jer_2:15alzaron su voz, y asolaron su tierraH5414, [[H6963]]
+- Jer_3:2alza tus ojos a las alturas, y ve en quéH5375
+- Jer_4:6alzad bandera en Sion...no os detengáisH5375
+- Jer_6:1alzad por señal humo sobre Bet-haqueremH5375
+- Jer_13:20alzad vuestros ojos, y ved a los queH5375
+- Jer_21:5pelearé contra vosotros con mano alzadaH5186
+- Jer_49:16aunque alces como águila tu nido, de
+- Jer_51:9juicio, y se ha alzado hasta las nubesH5375
+- Jer_51:27alzad bandera en la tierra...trompetaH5375
+- Jer_52:31alzó la cabeza de Joaquín rey de JudáH5375
+- Lam_2:19alza tus manos a él implorando la vidaH5375
+- Eze_8:3el Espíritu me alzó entre el cielo y laH5375
+- Eze_8:5alza...tus ojos...y alcé mis ojos hacia elH5375
+- Eze_10:16cuando los querubines alzaban sus alasH5375
+- Eze_10:17cuando ellos se alzaban, se a con ellosH7311, [[H7426]]
+- Eze_10:19y alzando los querubines sus alas, seH5375
+- Eze_10:19las ruedas se alzaron al lado de ellos
+- Eze_11:22alzaron los querubines sus alas, y lasH5375
+- Eze_17:23alzará ramas, y dará fruto, y se haráH5375
+- Eze_18:6, Eze_18:15ni alzare sus ojos a los ídolos de laH5375
+- Eze_18:12alzare sus ojos a los ídolos e hiciereH5375
+- Eze_20:5que alcé mi mano para jurar a la...casaH5375
+- Eze_20:5cuando alcé mi mano y les juré diciendoH5375
+- Eze_20:6aquel día que les alcé mi mano, jurandoH5375
+- Eze_20:15, Eze_20:23yo les alcé mi mano en el desiertoH5375
+- Eze_20:28la tierra sobre la cual había alzado miH5375
+- Eze_20:42a la tierra...por la cual alcé mi manoH5375
+- Eze_29:15nunca más se alzará sobre las nacionesH5375
+- Eze_33:25a vuestros ídolos alzaréis vuestros ojosH5375
+- Eze_36:7yo he alzado mi mano, he jurado que lasH5375
+- Eze_43:5me alzó el Espíritu y me llevó al atrioH5375
+- Eze_44:12por tanto, he alzado mi mano y juradoH5375
+- Eze_47:14por ella alcé mi mano jurando que laH5375
+- Dan_3:22a aquellos que habían alzado a SadracH5267
+- Dan_4:34alcé mis ojos al cielo, y mi razón meH5191
+- Dan_7:5la cual se alzaba de un costado más queH6966
+- Dan_8:3alcé los ojos y miré...aquí un carnero queH5375
+- Dan_10:5alcé mis ojos y miré...un varón vestidoH5375
+- Dan_12:7el cual alzó su diestra y su siniestraH7311
+- Ose_11:4como los que alzan el yugo de sobre suH7311
+- Miq_4:3no alzará espada nación contra naciónH5375
+- Miq_5:9tu mano se alzará sobre tus enemigosH7311
+- Hab_3:10dio su voz, a lo alto alzó sus manosH5375
+- Zac_1:18alcé mis ojos y miré...cuatro cuernosH5375
+- Zac_1:21tanto que ninguno alzó su cabeza; masH5375
+- Zac_1:21que alzaron el cuerno sobre la...de JudáH5375
+- Zac_2:1alcé después mis ojos y miré, y he aquíH5375
+- Zac_2:9he aquí yo alzo mi mano sobre ellos, yH5130
+- Zac_5:1de nuevo alcé mis ojos y miré, y he aquíH5375
+- Zac_5:5alza ahora tus ojos, y mira qué es estoH5375
+- Zac_5:9alcé luego mis ojos, y miré, y he aquíH5375
+- Zac_5:9y alzaron el efa entre la tierra y losH5375
+- Zac_6:1alcé mis ojos y miré, y he aquí cuatroH5375
+- Mat_17:8alzando ellos los ojos, a nadie vieronG1869
+- Luc_6:20alzando los ojos hacia sus discípulosG1869
+- Luc_16:23en el Hades alzó sus ojos, estando enG1869
+- Luc_17:13alzaron la voz, diciendo: Jesús, MaestroG142
+- Luc_18:13ni aun alzar los ojos al cielo, sinoG1869
+- Luc_24:50sacó...y alzando sus manos, los bendijoG1869
+- Jua_4:35os digo: Alzad vuestros ojos y miradG1869
+- Jua_6:5cuando alzó Jesús los ojos, y vio queG1869
+- Jua_7:28alzó la voz y dijo: A mí me conocéis, yG2896
+- Jua_7:37Jesús se puso en pie y alzó la vozG2896
+- Jua_11:41Jesús, alzando los ojos a lo alto, dijoG142
+- Hec_1:9fue alzado, y le recibió una nube queG1869
+- Hec_2:14Pedro...en pie, alzó la voz y les hablóG1869
+- Hec_4:24oído, alzaron...la voz a Dios, y dijeronG142
+- Hec_14:11gente...alzó la voz, diciendo en lenguaG1869
+- Hec_22:22alzaron la voz, diciendo: Quita de laG1869
+- Hec_23:6Pablo...alzó la voz en el concilio: VaronesG2896

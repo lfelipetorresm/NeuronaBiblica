@@ -1,0 +1,325 @@
+---
+tipo: concordancia
+palabra: TABERNÁCULO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TABERNÁCULO
+
+- Éxo_25:9el diseño del t, y el diseño de todosH4908
+- Éxo_26:1el t de diez cortinas de lino torcidoH4908
+- Éxo_26:6enlazarás las cortinas...se formará un tH4908
+- Éxo_26:7cortinas...para una cubierta sobre el tH4908
+- Éxo_26:9doblarás la...cortina en el frente del tH4908
+- Éxo_26:12la mitad de...colgará a espaldas del tH168
+- Éxo_26:13colgará sobre los lados del t a un ladoH168
+- Éxo_26:15para el t tablas de madera de acaciaH168
+- Éxo_26:17otra; así harás todas las tablas del tH168
+- Éxo_26:18harás, pues, las tablas del t; veinteH168
+- Éxo_26:20al otro lado del t...al lado del norteH168
+- Éxo_26:22el lado posterior del t...al occidenteH168
+- Éxo_26:23dos tablas para las esquinas del t enH168
+- Éxo_26:26cinco barras...tablas de un lado del tH168
+- Éxo_26:27otro lado del t...lado posterior del tH168
+- Éxo_26:30y alzarás el t conforme al modelo queH168
+- Éxo_26:35candelero enfrente...al lado sur del tH168
+- Éxo_26:36harás para la puerta del t una cortinaH168
+- Éxo_27:9asimismo harás el atrio del t. Al ladoH168
+- Éxo_27:19los utensilios del t...serán de bronceH168
+- Éxo_27:21en el t de reunión, afuera del velo queH168
+- Éxo_28:43sobre Aarón...cuando entren en el t deH168
+- Éxo_29:4llevarás a Aarón...a la puerta del t deH168
+- Éxo_29:10llevarás el becerro delante del t deH168
+- Éxo_29:11matarás...a la puerta del t de reuniónH168
+- Éxo_29:30venga al t de reunión para servir enH168
+- Éxo_29:32comerán...a la puerta del t de reuniónH168
+- Éxo_29:42el holocausto...puerta del t de reuniónH168
+- Éxo_29:44santificaré el t de reunión y el altarH168
+- Éxo_30:16dinero...darás para el servicio del tH168
+- Éxo_30:18la colocarás entre el t de...y el altarH168
+- Éxo_30:20entren en el t de reunión, se lavaránH168
+- Éxo_30:26con él ungirás el t de reunión, el arcaH168
+- Éxo_30:36pondrás delante del testimonio en el tH168
+- Éxo_31:7el t de reunión, el ama del testimonioH168
+- Éxo_31:7el arca...y todos los utensilios del tH168
+- Éxo_33:7y Moisés tomó el t, y lo levantó lejosH168
+- Éxo_33:7levantó lejos...lo llamó el t de ReuniónH168
+- Éxo_33:7buscaba a Jehová, salía al t de reuniónH168
+- Éxo_33:8cuando salía Moisés al t...el pueblo seH168
+- Éxo_33:8miraban...hasta que él entraba en el tH168
+- Éxo_33:9Moisés entraba en el t, la columna deH168
+- Éxo_33:9descendía y se ponía a la puerta del tH168
+- Éxo_33:10de nube que estaba a la Puerta del tH168
+- Éxo_33:11nunca se apartaba de en medio del tH168
+- Éxo_35:11el t, su tienda, su cubierta...tablasH4908
+- Éxo_35:15cortina de la puerta de...entrada del tH4908
+- Éxo_35:18las estacas del t, y las estacas delH4908
+- Éxo_35:21ofrenda a Jehová para la obra del t deH168
+- Éxo_36:8hicieron el t de diez cortinas de linoH4908
+- Éxo_36:13las cortinas...y así quedó formado un tH4908
+- Éxo_36:14cortinas...para una tienda sobre el tH4908
+- Éxo_36:20hizo para el t las tablas de madera deH4908
+- Éxo_36:22espigas...así hizo todas las tablas del tH4908
+- Éxo_36:23hizo, pues, las tablas para el t; veinteH4908
+- Éxo_36:25el otro lado del t, al lado norte, hizoH4908
+- Éxo_36:27para el lado occidental del t hizo seisH4908
+- Éxo_36:28para las esquinas del t en los dos ladosH4908
+- Éxo_36:31cinco para las tablas de un lado del tH4908
+- Éxo_36:32las tablas del otro lado del t, y cincoH4908
+- Éxo_36:32tablas del lado posterior del t haciaH4908
+- Éxo_36:37también el velo para la puerta del t, deH168
+- Éxo_38:8las mujeres que velaban a la puerta del tH168
+- Éxo_38:20las estacas del t y del atrio...bronceH4908
+- Éxo_38:21las cuentas del t, del t del testimonioH4908
+- Éxo_38:30hechas las basas de la puerta del t deH168
+- Éxo_38:31todas las estacas del t y...del atrioH4908
+- Éxo_39:32toda la obra del t, del t de reuniónH4908
+- Éxo_39:33trajeron el t a Moisés, el t y todosH4908
+- Éxo_39:38el altar...cortina para la entrada del tH168
+- Éxo_39:40los utensilios...del t, del t de reuniónH4908
+- Éxo_40:2día...harás levantar el t, el t de reuniónH4908
+- Éxo_40:5la cortina delante a la entrada del tH4908
+- Éxo_40:6altar...entrada del t, del t de reuniónH4908
+- Éxo_40:7pondrás la fuente entro el t de reuniónH4908
+- Éxo_40:9tomarás el aceite de la...y ungirás el tH4908
+- Éxo_40:12y llevarás a Aarón...a la puerta del tH168
+- Éxo_40:17así...en el segundo año, el t fue erigidoH4908
+- Éxo_40:18Moisés hizo levantar el t, y asentó susH4908
+- Éxo_40:19levantó la tienda sobre el t, y puso laH4908
+- Éxo_40:21metió el arca en el t, y puso el veloH4908
+- Éxo_40:22puso la mesa en el t de reunión, al ladoH4908
+- Éxo_40:24puso el candelero en el t de reuniónH4908
+- Éxo_40:26puso también el altar de oro en el tH4908
+- Éxo_40:28asimismo la cortina a la entrada del tH4908
+- Éxo_40:29el altar...a la entrada del t, del t deH4908
+- Éxo_40:30puso la fuente entre el t de reunión yH4908
+- Éxo_40:32entraban en el t de reunión...se lavabanH4908
+- Éxo_40:33erigió el atrio alrededor del t y delH4908
+- Éxo_40:34una nube cubrió el t de reunión, y laH4908
+- Éxo_40:34nube...la gloria de Jehová llenó el tH4908
+- Éxo_40:35y no podía Moisés entrar en el t deH4908
+- Éxo_40:36y cuando la nube se alzaba del t, losH4908
+- Éxo_40:38la nube de...estaba de día sobre el tH4908
+- Lev_1:1llamó Jehová a Moisés...desde el t deH168
+- Lev_1:3lo ofrecerá a la puerta del t de reuniónH168
+- Lev_1:5el cual está a la puerta del t de reuniónH168
+- Lev_3:2la degollará a la puerta del t de reuniónH168
+- Lev_3:8, Lev_3:13la degollará delante del t de reuniónH168
+- Lev_4:4traerá el becerro a la puerta del t deH168
+- Lev_4:5de la sangre...la traerá al t de reuniónH168
+- Lev_4:7altar del incienso...en el t de reuniónH168
+- Lev_4:7, Lev_4:18del altar...que está a la puerta del tH168
+- Lev_4:14y lo traerán delante del t de reuniónH168
+- Lev_4:16meterá de la sangre...en el t de reuniónH168
+- Lev_4:18del altar que está...en el t de reuniónH168
+- Lev_6:16en el atrio del t de reunión lo comeránH168
+- Lev_6:26comida, en el atrio del t de reuniónH168
+- Lev_6:30ofrenda...cuya sangre se metiere en el tH168
+- Lev_8:3reúne toda...a la puerta del t de reuniónH168
+- Lev_8:4reunió la congregación a la puerta del tH168
+- Lev_8:10Moisés...y ungió el t y todas las cosasH4908
+- Lev_8:31hervid la carne a la puerta del t deH168
+- Lev_8:33de la puerta del t de...no saldréis enH168
+- Lev_8:35a la puerta...del t de reunión estaréisH168
+- Lev_9:5y llevaron lo que mandó...delante del tH168
+- Lev_9:23entraron Moisés y Aarón en el t de reunión
+- Lev_10:7ni saldréis de la puerta, t de reuniónH168
+- Lev_10:9no beberéis...cuando entréis en el t deH168
+- Lev_12:6una tórtola...a la puerta del t de reuniónH168
+- Lev_14:11presentará delante...a la puerta del tH168
+- Lev_14:23; Lev_15:14, Lev_15:29el octavo día...a la puerta del t de reuniónH168
+- Lev_15:31contaminado mi t que está entre ellosH4908
+- Lev_16:7presentará...a la puerta del t de reunión tH168
+- Lev_16:16la misma manera hará...al t de reuniónH168
+- Lev_16:17ningún hombre estará en el t de reuniónH168
+- Lev_16:20cuando hubiere acabado de expiar...el tH168
+- Lev_16:23después vendrá Aarón al t de reuniónH168
+- Lev_16:33hará la expiación por el...t de reuniónH168
+- Lev_17:4, Lev_17:9y no lo trajere a la puerta del t deH168
+- Lev_17:4ofrecer ofrenda a Jehová delante del tH4908
+- Lev_17:5traigan...a la puerta del t de reuniónH168
+- Lev_17:6esparcirá la sangre...a la puerta del tH168
+- Lev_19:21traerá...a la puerta del t de reuniónH168
+- Lev_23:34mes séptimo...fiesta solemne de los tH5521
+- Lev_23:42t habitaréis siete días; todo naturalH5521
+- Lev_23:42todo natural de Israel habitará en tH5521
+- Lev_23:43en t hice yo habitar a los...de IsraelH5521
+- Lev_24:3fuera del velo del...en el t de reuniónH168
+- Núm_1:1habló Jehová...en el t de reunión, en elH168
+- Núm_1:50sino que pondrás a los levitas en el tH4908
+- Núm_1:50ellos llevarán el t y todos sus enseresH4908
+- Núm_1:50servirán...y acamparán alrededor del tH4908
+- Núm_1:51y cuando el t haya de trasladarse, losH4908
+- Núm_1:51el t haya de detenerse, los levitas loH4908
+- Núm_1:53los levitas acamparán alrededor del tH4908
+- Núm_1:53y los levitas tendrán la guarda del tH4908
+- Núm_2:2alrededor del t de reunión acamparánH168
+- Núm_2:17irá el t de reunión, con el campamentoH168
+- Núm_3:7delante del t de...en el ministerio del tH4908, [[H168]]
+- Núm_3:8y guarden todos los utensilios del t deH168
+- Núm_3:8guarden...ministren en el servicio del tH4908
+- Núm_3:23de Gersón acamparán a espaldas del t, alH4908
+- Núm_3:25a cargo de los...en el t...estarán el tH168
+- Núm_3:25la cortina de la puerta del t de reuniónH4908
+- Núm_3:26del atrio, que está junto al t y juntoH4908
+- Núm_3:29de Coat acamparán al lado del t, al surH4908
+- Núm_3:35y el jefe de...acamparán al lado del tH4908
+- Núm_3:36estará la custodia de las tablas del tH4908
+- Núm_3:38que acamparán delante del t al orienteH4908
+- Núm_3:38delante del t de reunión al este, seránH168
+- Núm_4:3, Núm_4:23, Núm_4:30, Núm_4:35, Núm_4:39, Núm_4:43todos los que entran...en el tH168
+- Núm_4:4el oficio de los hijos de Coat en el tH168
+- Núm_4:15cargas de los hijos de Coat en el t deH168
+- Núm_4:16el cargo de todo el t y de todo lo queH4908
+- Núm_4:25llevarán las cortinas del t, el t deH4908
+- Núm_4:25la cortina de la puerta del t de reuniónH168
+- Núm_4:26cortina de la puerta...está cerca del tH4908
+- Núm_4:28servicio...de Gersón en el t de reuniónH168
+- Núm_4:31su cargo para todo su servicio en el tH168
+- Núm_4:31tablas del t, sus barras, sus columnasH4908
+- Núm_4:33todo su ministerio en el s de reuniónH168
+- Núm_4:35en compañía para ministrar en el t deH168
+- Núm_4:37, Núm_4:41los que ministran en el t de reuniónH168
+- Núm_4:39en compañía para ministrar en el t deH168
+- Núm_4:43entran...para ministrar en el t de reuniónH168
+- Núm_4:47tener cargo de obra en el t de reuniónH168
+- Núm_5:17polvo que hubiere en el suelo del t, yH4908
+- Núm_6:10traerá dos tórtolas...a la puerta del tH168
+- Núm_6:13del nazareo...Vendrá a la puerta del t deH168
+- Núm_6:18raerá a la puerta del t de reunión suH168
+- Núm_7:1Moisés hubo acabado de levantar el t, yH4908
+- Núm_7:3carros...y los ofrecieron delante del tH4908
+- Núm_7:5serán para el servicio del t de reuniónH168
+- Núm_7:89cuando entraba Moisés...el t de reuniónH168
+- Núm_8:9los levitas se acerquen delante del t deH168
+- Núm_8:15vendrán...a ministrar en el t de reuniónH168
+- Núm_8:19para que ejerzan el ministerio...en el tH168
+- Núm_8:22, Núm_8:24para ejercer su ministerio en el tH168
+- Núm_8:26con sus hermanos en el t de reunión, paraH168
+- Núm_9:15el t fue erigido, la nube cubrió el tH4908
+- Núm_9:15a la tarde había sobre el t como...fuegoH4908
+- Núm_9:17cuando se alzaba la nube del t...partíanH168
+- Núm_9:18los días que la nube estaba sobre el tH4908
+- Núm_9:19nube se detenía sobre el t muchos díasH4908
+- Núm_9:20la nube estaba sobre el t pocos días, alH4908
+- Núm_9:22mientras la nube se detenía sobre el tH4908
+- Núm_10:3se reunirá ante ti a la puerta del t deH168
+- Núm_10:11la nube se alzó del t del testimonioH4908
+- Núm_10:17estaba ya desarmado el t, se movieronH4908
+- Núm_10:21entretanto...otros acondicionaron el tH4908
+- Núm_11:16tráelos a la puerta del t de reuniónH168
+- Núm_11:24ancianos...hizo estar alrededor del tH168
+- Núm_11:26Eldad y...Medad...no habían venido al tH168
+- Núm_12:4dijo Jehová...Salid vosotros tres al tH168
+- Núm_12:5Jehová descendió en...a la puerta del tH168
+- Núm_12:10se apartó del t, y he aquí que MaríaH168
+- Núm_14:10gloria de Jehová se mostró en el t deH168
+- Núm_16:9que ministréis en el servicio del t deH4908
+- Núm_16:18pusieron a la puerta del t de reuniónH168
+- Núm_16:19juntar contra ellos...a la puerta del tH168
+- Núm_16:42miraron hacia el t de reunión, y he aquíH168
+- Núm_16:43y vinieron...delante del t de reuniónH168
+- Núm_16:50volvió...a la puerta del t de reuniónH168
+- Núm_17:4las pondrás en el t de reunión delanteH168
+- Núm_17:7Moisés puso las varas delante...en el tH168
+- Núm_17:8el día siguiente vino Moisés al t delH168
+- Núm_17:13el que viniere al t de Jehová, moriráH4908
+- Núm_18:2serviréis delante del t del testimonioH168
+- Núm_18:3guardarán...el cargo de todo el t; mas noH168
+- Núm_18:4tendrán el cargo del t...servicio del tH168
+- Núm_18:6para que sirvan en el...del t de reuniónH168
+- Núm_18:21ellos sirven en el ministerio del t deH168
+- Núm_18:22y no se acercarán más...al t de reuniónH168
+- Núm_18:23los levitas harán el servicio del t deH168
+- Núm_18:31vuestro ministerio en el t de reuniónH168
+- Núm_19:4rociará hacia la parte delantera del tH168
+- Núm_19:13el t de Jehová contaminó...será cortadaH4908
+- Núm_19:20por cuanto contaminó el t de Jehová; noH168
+- Núm_20:6se fueron...a la puerta del t de reuniónH168
+- Núm_25:6lloraban...a la puerta del t de reuniónH168
+- Núm_27:2a la puerta del t de reunión, y dijeronH168
+- Núm_31:30que tienen la guarda del t de JehováH4908
+- Núm_31:47que tenían la guarda del t de JehováH4908
+- Núm_31:54trajeron el t de reunión, por memoriaH168
+- Deu_16:13fiesta solemne de los t harás porH5521
+- Deu_16:16tres veces...la fiesta solemne de los tH5521
+- Deu_31:10cada siete años...en la fiesta de los tH5521
+- Deu_31:14esperad en el t de reunión para que yoH168
+- Deu_31:14fueron...y esperaron en el t de reuniónH168
+- Deu_31:15apareció Jehová en el t, en la...nubeH168
+- Deu_31:15de nube se puso sobre la puerta del tH168
+- Jos_18:1en Silo, y erigieron allí el tH168
+- Jos_19:51las heredades que...a la entrada del tH168
+- Jos_22:19tierra...en la cual está el t de JehováH4908
+- Jos_22:29además del altar...está delante de su tH4908
+- 1Sa_2:22las...velaban a la puerta del tH168
+- 1Sa_2:29ofrendas, que yo mandé ofrecer en el tH168
+- 2Sa_7:6he andado en tienda y en tH4908
+- 2Sa_15:25que vuelva, y me dejará verla y a su tH5116
+- 1Re_1:39tomando...el cuerno del aceite del tH168
+- 1Re_2:28y huyó Joab al t de Jehová, y se asió deH168
+- 1Re_2:29que Joab había huido al t de Jehová, yH168
+- 1Re_2:30entró Benaía al t de Jehová, y le dijoH168
+- 1Re_8:4y llevaron el arca de...y el t de reuniónH168
+- 1Re_8:4y todos los utensilios...estaban en el tH168
+- 1Cr_6:32servían delante...del t de reuniónH168
+- 1Cr_6:48puestos sobre todo el ministerio del tH4908
+- 1Cr_9:19guardando las puertas del t, como susH168
+- 1Cr_9:21era portero de la puerta del t de reuniónH168
+- 1Cr_9:23de la casa de Jehová, y de la casa del tH168
+- 1Cr_16:39los sacerdotes...delante del t...en GabaónH4908
+- 1Cr_17:5estuve de tienda en tienda, y de t en tH4908
+- 1Cr_21:29el t de Jehová que Moisés había hechoH4908
+- 1Cr_23:26levitas no tendrán que llevar...el t yH4908
+- 1Cr_23:32para que tuviesen la guarda del t deH168
+- 2Cr_1:3porque allí estaba el t de reuniónH168
+- 2Cr_1:5el altar de bronce...allí delante del tH4908
+- 2Cr_1:6al altar...que estaba en el t de reuniónH168
+- 2Cr_1:13estaba en Gabaón, delante del t de reuniónH168
+- 2Cr_5:5llevaron...el t...los utensilios. en el tH168
+- 2Cr_8:13de los panes...y en la fiesta de los tH5521
+- 2Cr_24:6la ofrenda...para el t del testimonio?[[H168]]
+- 2Cr_29:6apartaron sus rostros del t de JehováH4908
+- Esd_3:4celebraron...fiesta solemne de los tH5521
+- Neh_8:14habitasen los hijos de Israel en tH5521
+- Neh_8:15y traed ramas...para hacer t, como estáH5521
+- Neh_8:16trajeron ramas e hicieron t, cada unoH5521
+- Neh_8:17hizo t, y en t habitó; porque desde losH5521
+- Sal_15:1Jehová, ¿quién habitará en tu t?[[H168]]
+- Sal_19:4el extremo...En ellos puso t para el solH168
+- Sal_27:5me esconderá en su t en el día del malH168
+- Sal_27:6yo sacrificaré en su t sacrificios deH168
+- Sal_31:20pondrás en un t a cubierto...contenciónH5521
+- Sal_61:4habitaré en tu t para siempre; estaréH168
+- Sal_74:7profanado el t de tu nombre, echándoloH4908
+- Sal_76:2en Salem está su t, y su habitación enH5520
+- Sal_78:60dejó, por tanto, el t de Silo, la tiendaH4908
+- Sal_132:7entraremos en su t; nos postraremosH4908
+- Isa_16:5sobre él se sentará...en el t de DavidH168
+- Eze_37:27en medio de ellos mi t, y seré a ellosH4908
+- Eze_41:1seis codos de...que era el ancho del tH168
+- Amó_5:26antes bien, llevabais el t deH5522
+- Amó_9:11en aquel día yo levantaré el t caído deH5521
+- Zac_14:16adorar...celebrar la fiesta de los tH5521
+- Zac_14:18-19no subieren a...la fiesta de los tH5521
+- Jua_7:2y estaba cerca la fiesta de...de los tG4634
+- Hec_7:43antes bien llevasteis el t de MolocG4633
+- Hec_7:44tuvieron...padres el t del testimonio enG4633
+- Hec_7:46pidió proveer t para el Dios de JacobG4638
+- Hec_15:16y reedificaré el t de David, que estáG4633
+- 2Co_5:1si...este t, se deshiciere, tenemosG4636
+- 2Co_5:4los que estamos en este t gemimos conG4636
+- Heb_8:2verdadero t que levantó el SeñorG4633
+- Heb_8:5se le advirtió...cuando iba a erigir el tG4633
+- Heb_9:2el t estaba dispuesto así: en la primeraG4633
+- Heb_9:3tras el segundo velo estaba...parte del tG4633
+- Heb_9:6así...en la primera parte del t entran losG4633
+- Heb_9:8la primera parte del t estuviese en pieG4633
+- Heb_9:11más amplio y más perfecto t, no hechoG4633
+- Heb_9:21roció...con la sangre el t y todos losG4633
+- Heb_13:10derecho de comer los que sirven al tG4633
+- Rev_7:15que está...extenderá su t sobre ellosG4637
+- Rev_13:6para blasfemar de su nombre, de su t, yG4633
+- Rev_15:5fue abierto en el cielo el templo del tG4633
+- Rev_21:3he aquí el t de Dios con los hombres, yG4633

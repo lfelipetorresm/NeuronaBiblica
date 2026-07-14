@@ -1,0 +1,398 @@
+---
+tipo: concordancia
+palabra: OFRECER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# OFRECER
+
+- Gén_8:20Noé...ofreció holocausto en el altarH5927
+- Gén_22:2tu hijo...y ofrécela allí en holocaustoH5927
+- Gén_22:13lo ofreció en holocausto en lugar de suH5927
+- Gén_46:1ofreció sacrificios al Dios de su padreH2076
+- Éxo_3:18que ofrezcamos sacrificios a Jehová
+- Éxo_5:3ofreceremos sacrificios a Jehová...Dios
+- Éxo_5:8vamos y ofrezcamos sacrificios a...Dios
+- Éxo_5:17decís...ofrezcamos sacrificios a Jehová
+- Éxo_8:8y dejaré ir...para que ofrezca sacrificios
+- Éxo_8:25ofreced sacrificio a vuestro Dios en la
+- Éxo_8:26ofreceríamos a Jehová...la abominación de
+- Éxo_8:27ofreceremos sacrificios a Jehová...Dios
+- Éxo_8:28para que ofrezcáis sacrificios a Jehová
+- Éxo_22:20ofreciere sacrificio a dioses excepto
+- Éxo_23:18no ofrecerás con pan leudo la sangre deH2076
+- Éxo_24:5y envió jóvenes...ofrecieron holocaustosH5927
+- Éxo_29:3en el canastillo las ofrecerás, con el
+- Éxo_29:36ofrecerás el becerro del sacrificio porH6213
+- Éxo_29:38ofrecerás sobre el altar: dos corderosH6213
+- Éxo_29:39ofrecerás uno de...el otro cordero o aH6213
+- Éxo_29:41ofrecerás el otro cordero a la...tardeH6213
+- Éxo_30:9no ofreceréis sobre él incienso extrañoH5927
+- Éxo_32:6ofrecieron holocaustos, y presentaronH5927
+- Éxo_32:8le han ofrecido sacrificios, y han dicho
+- Éxo_34:15ofrecerán sacrificios a sus dioses, y te
+- Éxo_34:25no ofrecerás cosa leudada junto con laH7819
+- Éxo_35:24todo el que ofrecía ofrenda de plata oH7311
+- Éxo_36:6así se le impidió al pueblo ofrecer másH7311
+- Lev_1:2cuando alguno...ofrece ofrenda a Jehová
+- Lev_1:3, Lev_1:10ofrenda...macho sin defecto lo ofreceráH7126
+- Lev_1:3lo ofrecerá a la puerta del tabernáculoH7126
+- Lev_1:5sacerdotes hijos de...ofrecerán la sangre
+- Lev_1:13el sacerdote lo ofrecerá todo, y lo hará
+- Lev_1:15el sacerdote la ofrecerá sobre el altar
+- Lev_2:1persona ofreciere oblación a Jehová, suH7126
+- Lev_2:4ofrecieres ofrenda cocida en horno, será
+- Lev_2:5si ofrecieres ofrenda de sartén, será de
+- Lev_2:7si ofrecieres ofrenda cocida en cazuela
+- Lev_2:11ninguna ofrenda que ofreciereis a Jehová
+- Lev_2:12ofrenda de primicias las ofreceréis aH7126
+- Lev_2:13Dios; en toda ofrenda tuya ofrecerás salH7126
+- Lev_2:14si ofrecieres a...ofrenda de primiciasH7126
+- Lev_2:14el grano...ofrecerás como ofrenda de tusH7126
+- Lev_3:1si hubiere de ofrecerla de ganado vacunoH7126
+- Lev_3:1sin defecto la ofrecerá delante de JehováH7126
+- Lev_3:3ofrecerá del sacrificio de paz...la grosuraH7126
+- Lev_3:6macho o hembra, la ofrecerá sin defectoH7126
+- Lev_3:7si ofreciere cordero...ofrecerá delante deH7126
+- Lev_3:9del sacrificio de paz ofrecerá por ofrendaH7126
+- Lev_3:12cabra su ofrenda, la ofrecerá delante deH7126
+- Lev_3:14ofrecerá de ella su ofrenda encendida aH7126
+- Lev_4:3ofrecerá...su pecado que habrá cometido
+- Lev_4:14la congregación ofrecerá un becerro porH7126
+- Lev_5:8ofrecerá primero el que es para expiaciónH7126
+- Lev_6:14la ofrecerán los hijos de Aarón delanteH7126
+- Lev_6:20que ofrecerán a Jehová el día...ungidosH7126
+- Lev_6:21frita...ofrecerás en olor grato a JehováH7126
+- Lev_6:26el sacerdote que la ofreciere...la comeráH2398
+- Lev_7:3ofrecerá toda su grosura, la cola, y laH7126
+- Lev_7:8y el sacerdote que ofreciere holocaustoH7126
+- Lev_7:8piel del holocausto que ofreciere seráH7126
+- Lev_7:9toda...será del sacerdote que lo ofreciereH7126
+- Lev_7:11sacrificio de paz...se ofrecerá a JehováH7126
+- Lev_7:12si se ofreciere en acción de graciasH7126
+- Lev_7:12ofrecerá por sacrificio de acción deH7126
+- Lev_7:15se comerá en el día que fuere ofrecidaH7133
+- Lev_7:16será comido en el día que ofreciere suH7126
+- Lev_7:18el que lo ofreciere no será acepto, niH7126
+- Lev_7:25del cual se ofrece a Jehová ofrenda, laH7126
+- Lev_7:29que ofreciere sacrificio de paz a JehováH7126
+- Lev_7:33ofreciere la sangre de los sacrificiosH7126
+- Lev_7:38el día que mandó...ofreciesen sus ofrendasH7126
+- Lev_9:2toma de la...y ofrécelos delante de JehováH7126
+- Lev_9:15ofreció también la ofrenda del puebloH2398
+- Lev_9:15lo ofreció por el pecado como el primero
+- Lev_9:16ofreció el holocausto, e hizo según el
+- Lev_9:17ofreció...la ofrenda, y llenó de ella su
+- Lev_10:1y ofrecieron delante de Jehová fuegoH7126
+- Lev_10:19he aquí hoy han ofrecido su expiaciónH7126
+- Lev_12:7los ofrecerá delante de Jehová, y haráH7126
+- Lev_14:12lo ofrecerá por la culpa, con el log deH7126
+- Lev_14:19ofrecerá...el sacerdote el sacrificio porH6213
+- Lev_14:21tomará un cordero para ser ofrecido
+- Lev_14:30asimismo ofrecerá una de las tórtolasH6213
+- Lev_16:9macho cabrío...lo ofrecerá en expiaciónH6213
+- Lev_17:4y no lo trajere a...para ofrecer ofrendaH7126
+- Lev_17:8que ofreciere holocausto o sacrificioH5927
+- Lev_18:21no des hijo...para ofrecerlo por fuego a
+- Lev_19:5cuando ofreciereis sacrificio de...paz aH2076
+- Lev_19:5ofrecedlo de tal manera...seáis aceptosH2076
+- Lev_19:6será comido el día que lo ofreciereisH2077
+- Lev_20:2que ofreciere alguno de sus hijos a MolocH5414
+- Lev_21:6y el pan de su Dios ofrecen; por tantoH7126
+- Lev_21:8el pan de tu Dios ofrece; santo será paraH7126
+- Lev_21:17se acercará para ofrecer el pan de suH7126
+- Lev_21:21se acercará para ofrecer las ofrendasH7126
+- Lev_21:21no se acercará a ofrecer el pan de suH7126
+- Lev_22:18varón...ofreciere su ofrenda en pago deH7126
+- Lev_22:18como ofrendas...ofrecidas en holocaustoH7126
+- Lev_22:19ofreceréis macho sin defecto de entre
+- Lev_22:20ninguna cosa...haya defecto ofreceréisH7126
+- Lev_22:21alguno ofreciere sacrificio en ofrendaH7126
+- Lev_22:22o roñoso, no ofreceréis éstos a JehováH7126
+- Lev_22:23podrás ofrecer por ofrenda voluntariaH6213
+- Lev_22:24no ofreceréis a Jehová animal...heridosH7126
+- Lev_22:24ni en vuestra tierra lo ofreceréisH7126
+- Lev_22:25animales para ofrecerlos como el panH7126
+- Lev_22:29cuando ofreciereis sacrificio de acciónH2076
+- Lev_23:8y ofreceréis...7 días ofrenda encendidaH7126
+- Lev_23:12día que ofrezcáis la gavilla, ofreceréisH6213
+- Lev_23:14hasta que hayáis ofrecido la ofrenda de
+- Lev_23:15ofrecisteis la gavilla de la ofrenda
+- Lev_23:16entonces ofreceréis el nuevo grano aH7126
+- Lev_23:18ofreceréis con el pan siete corderosH7126
+- Lev_23:19ofreceréis además un macho cabrío por
+- Lev_23:25, Lev_23:27, Lev_23:36(2)ofreceréis ofrenda encendida a JehováH7126
+- Lev_23:37que convocaréis...para ofrecer ofrendaH7126
+- Lev_27:9y si fuere animal de los que se ofrece
+- Lev_27:11animal...de que no se ofrece ofrenda aH7126
+- Núm_3:4Abiú murieron...cuando ofrecieron fuegoH7126
+- Núm_5:25ofrenda...la ofrecerá delante del altarH7126
+- Núm_6:11sacerdote ofrecerá el uno en expiaciónH6213
+- Núm_6:14ofrecerá su ofrenda...un cordero de unH7126
+- Núm_6:16y el sacerdote lo ofrecerá delante deH6213
+- Núm_6:17ofrecerá el carnero en ofrenda de pazH6213
+- Núm_6:17ofrecerá...el sacerdote su ofrenda y susH6213
+- Núm_7:2los príncipes de las tribus...ofrecieronH7126
+- Núm_7:3los ofrecieron delante del tabernáculo
+- Núm_7:10ofreciendo...ofrenda delante del altarH7126
+- Núm_7:11ofrecerán su ofrenda, un príncipe un díaH7126
+- Núm_7:12el que ofreció...el primer día fue NaasónH7126
+- Núm_7:18el segundo día ofreció Natanael hijo deH7126
+- Núm_7:19ofreció...un plato de plata de 130 siclosH7126
+- Núm_7:84ofrecieron para la dedicación del altar
+- Núm_8:11ofrecerá Aarón los levitas delante deH5130
+- Núm_8:12y ofrecerás el uno por expiación, y elH6213
+- Núm_8:13levitas...ofrecerás en ofrenda a JehováH5130
+- Núm_8:15purificados, y los ofrecerás en ofrendaH5130
+- Núm_8:21y Aarón los ofreció en ofrenda delanteH5130
+- Núm_9:7impedidos de ofrecer ofrenda a JehováH7126
+- Núm_9:13cuanto no ofreció a su tiempo la ofrenda
+- Núm_15:3para ofrecer en...fiestas solemnes olor
+- Núm_15:5, Núm_15:7de vino para la libación ofrecerásH7126
+- Núm_15:8cuando ofrecieres novillo en holocausto
+- Núm_15:9ofrecerás con el novillo...tres décimas
+- Núm_15:10de vino...ofrecerás la mitad de un hin
+- Núm_15:13para ofrecer ofrenda encendida de olor
+- Núm_15:19a comer del pan...ofreceréis ofrenda aH7311
+- Núm_15:20ofreceréis una torta en ofrenda; comoH7311
+- Núm_15:20como la ofrenda de la era...ofreceréisH7311
+- Núm_15:24la congregación ofrecerá un novillo porH6213
+- Núm_15:27pecare...ofrecerá una cabra de un año
+- Núm_16:35consumió a los...hombres que ofrecíanH7126
+- Núm_16:38ofrecieron con ellos delante de JehováH7126
+- Núm_16:39con que los quemados habían ofrecidoH7126
+- Núm_16:40ningún extraño...acerque para ofrecer
+- Núm_18:15de toda carne que ofrecerán a Jehová
+- Núm_18:19que los hijos de...ofrecieron a JehováH7311
+- Núm_18:24los diezmos...que ofrecerán a Jehová enH7311
+- Núm_18:28ofreceréis también vosotros ofrenda aH7311
+- Núm_18:29ofreceréis toda ofrenda a Jehová; deH7311
+- Núm_18:29ofreceréis la...que ha de ser consagradaH7311
+- Núm_18:30cuando ofreciereis lo mejor de ellosH7311
+- Núm_18:32hubiereis ofrecido la mejor parte deH7311
+- Núm_23:2y ofrecieron...un becerro y un carneroH5927
+- Núm_23:4y en cada altar he ofrecido un becerroH5927
+- Núm_23:14, Núm_23:30ofreció un becerro...en cada altarH5927
+- Núm_26:61y Abiú murieron cuando ofrecieron fuegoH7126
+- Núm_28:2guardaréis, ofreciéndomelo a su tiempoH7126
+- Núm_28:3es la ofrenda...que ofreceréis a JehováH7126
+- Núm_28:4un cordero ofrecerás por la mañana, y elH6213
+- Núm_28:4otro cordero ofrecerás a la caída de laH6213
+- Núm_28:8ofrecerás el segundo cordero a la caídaH6213
+- Núm_28:8conforme a...libación ofrecerás, ofrendaH6213
+- Núm_28:11, Núm_28:19, Núm_28:27ofreceréis...becerros de la vacadaH7126
+- Núm_28:13ofrenda...se ofrecerá con cada cordero
+- Núm_28:15un macho cabrío...se ofrecerá a JehováH6213
+- Núm_28:21con cada uno de...ofreceréis una décimaH6213
+- Núm_28:23, Núm_28:31ofreceréis además del holocaustoH6213
+- Núm_28:24ofreceréis cada uno de los siete díasH6213
+- Núm_28:24se ofrecerá además del...con su libaciónH6213
+- Núm_29:2y ofreceréis holocausto en olor grato aH6213
+- Núm_29:8ofreceréis en...un becerro de la vacadaH7126
+- Núm_29:13ofreceréis...trece becerros de la vacadaH7126
+- Núm_29:36ofreceréis en...un becerro, un carneroH7126
+- Núm_29:39ofreceréis a Jehová en vuestras fiestasH6213
+- Núm_31:50hemos ofrecido a Jehová ofrenda, cada
+- Núm_31:52todo el oro...que ofrecieron a JehováH7311
+- Deu_12:13cuídate de no ofrecer tus holocaustosH5927
+- Deu_12:14allí ofrecerás tus holocaustos, y allíH5927
+- Deu_12:27ofrecerás tus holocaustos, la carne yH6213
+- Deu_17:1no ofrecerás en sacrificio a Jehová tu
+- Deu_18:3de los que ofrecieren en sacrificio bueyH2076
+- Deu_26:14ni de ello he ofrecido a los muertos
+- Deu_27:6ofrecerás sobre él holocaustos a JehováH5927
+- Jos_8:31y ofrecieron sobre él holocaustos aH5927
+- Jos_22:23para ofrecer sobre él ofrendas de pazH5927
+- Jue_2:5y ofrecieron allí sacrificios a Jehová
+- Jue_5:2por haberse ofrecido...el pueblo, load a
+- Jue_5:9los que...os ofrecisteis entre el pueblo
+- Jue_6:28el segundo toro había sido ofrecido enH5927
+- Jue_11:31de Jehová, y lo ofreceré en holocaustoH5927
+- Jue_13:16si quieres hacer holocausto, ofréceloH6213
+- Jue_13:19y los ofreció sobre una peña a JehováH5927
+- Jue_16:23para ofrecer sacrificio a Dagán su diosH2076
+- Jue_20:26; Jue_21:4ofrecieron holocaustos y ofrendasH5927
+- 1Sa_1:3subía de su...para ofrecer sacrificios
+- 1Sa_1:4el día en que Elcana ofrecía sacrificioH2076
+- 1Sa_1:21ofrecer a Jehová el sacrificio...y su votoH2076
+- 1Sa_2:13cuando alguno ofrecía sacrificio, veníaH2976
+- 1Sa_2:19subía con su...para ofrecer el sacrificioH2076
+- 1Sa_2:28que ofreciese sobre mi altar, y quemaseH5927
+- 1Sa_2:29y mis ofrendas, que yo mandé ofrecer en
+- 1Sa_6:14y ofrecieron las vacas en holocausto aH5927
+- 1Sa_9:7no tenemos qué ofrecerle al varón de Dios
+- 1Sa_10:8entonces descenderé yo a ti para ofrecerH5927
+- 1Sa_13:9dijo...Traedme...y ofreció el holocaustoH5927
+- 1Sa_13:10acababa de ofrecer el holocausto, he aquíH5927
+- 1Sa_13:12me esforcé, pues, y ofrecí holocaustoH5927
+- 1Sa_15:21para ofrecer sacrificios a Jehová tu
+- 1Sa_16:2a ofrecer sacrificio a Jehová he venido
+- 1Sa_16:5sí, vengo a ofrecer sacrificio a Jehová
+- 2Sa_6:18cuando David había acabado de ofrecerH5927
+- 2Sa_15:12Absalón ofrecía los...llamó a AhitofelH2076
+- 2Sa_24:12tres cosas te ofrezco; tú escogerás unaH5190
+- 2Sa_24:22y ofrezca mi señor el rey lo que bienH5927
+- 2Sa_24:24no ofreceré a Jehová...no me cuesten nadaH5927
+- 1Re_3:15ofreció sacrificios de paz, e hizoH6213
+- 1Re_8:63ofreció Salomón...los cuales o a JehováH2076
+- 1Re_8:64porque ofreció allí los holocaustos, lasH6213
+- 1Re_9:25y ofrecía Salomón tres veces cada añoH5927
+- 1Re_10:5sus holocaustos que ofrecía en la casa
+- 1Re_11:8las cuales...ofrecían sacrificios a sus
+- 1Re_12:27si...subiere a ofrecer sacrificios enH6213
+- 1Re_12:32ofreciendo sacrificios a los becerros
+- 1Re_18:29siguieron...hasta la hora de ofrecerseH5927
+- 1Re_18:36la hora de ofrecerse el holocausto, seH5927
+- 2Re_3:20por la mañana, cuando se ofrece elH5927
+- 2Re_5:17ni ofrecerá sacrificio a otros diosesH6213
+- 2Re_16:12se acercó...y ofreció sacrificios en élH5927
+- 1Cr_6:49Aarón y sus hijos ofrecían...sobreH6999
+- 1Cr_16:1y ofrecieron holocaustos y sacrificiosH7126
+- 1Cr_16:2David acabó de ofrecer el holocausto yH5927
+- 1Cr_21:26ofreció holocaustos y ofrendas de pazH5927
+- 1Cr_21:28la era de Ornán...ofreció sacrificios
+- 1Cr_23:31para ofrecer todos los holocaustos aH5927
+- 1Cr_29:6los jefes de...ofrecieron voluntariamente
+- 1Cr_29:9de todo corazón ofrecieron a Jehová
+- 1Cr_29:14¿quién soy...para que pudiésemos ofrecer
+- 1Cr_29:17voluntariamente te he ofrecido todo esto
+- 1Cr_29:21y ofrecieron a Jehová holocaustos alH5927
+- 2Cr_1:6y ofreció sobre él mil holocaustosH5927
+- 2Cr_4:6y limpiar en ellas lo que se ofrecía enH4639
+- 2Cr_7:5ofreció el rey Salomón en...22.000 bueyesH2076
+- 2Cr_7:7había ofrecido allí los holocaustos, y laH6213
+- 2Cr_8:12ofreció Salomón holocaustos a JehováH5927
+- 2Cr_8:13para que ofreciesen cada cosa en su díaH5927
+- 2Cr_11:16vinieron a...para ofrecer sacrificios a
+- 2Cr_17:16cual se había ofrecido voluntariamente
+- 2Cr_23:18para ofrecer a Jehová los holocaustosH5927
+- 2Cr_24:17y ofrecieron obediencia al rey; y elH5927
+- 2Cr_26:19un incensario para ofrecer inciensoH6999
+- 2Cr_28:23porque ofreció sacrificios a los dioses
+- 2Cr_28:23también ofreceré sacrificios a ellos
+- 2Cr_29:21dijo...los ofreciesen sobre el altar deH5927
+- 2Cr_29:29cuando acabaron de ofrecer...adoraronH5927
+- 2Cr_30:22siete días, ofreciendo sacrificios deH2076
+- 2Cr_31:2los levitas para ofrecer el holocaustoH5930
+- 2Cr_33:22ofreció sacrificios y sirvió a...ídolos
+- 2Cr_34:4los que les habían ofrecido sacrificio
+- 2Cr_34:25han ofrecido sacrificios a dioses ajenosH6999
+- 2Cr_35:12a fin de que ofreciesen a Jehová segúnH7126
+- Esd_1:6todo lo que se ofreció voluntariamente
+- Esd_3:2altar...para ofrecer sobre él holocaustosH5927
+- Esd_3:3ofrecieron sobre él holocaustos a JehováH5927
+- Esd_3:6desde...comenzaron a ofrecer holocaustosH5927
+- Esd_4:2y a él ofrecemos sacrificios desde los
+- Esd_6:3casa...como lugar para ofrecer sacrificiosH1684
+- Esd_6:10ofrezcan sacrificios...al Dios del cieloH7127
+- Esd_6:17y ofrecieron en la dedicación...becerrosH7127
+- Esd_7:15que el rey y...ofrecen al Dios de IsraelH5069
+- Esd_7:16que...ofrecieren para la casa de su Dios
+- Esd_7:17los ofrecerás sobre el altar de la casaH7127
+- Esd_8:25ofrenda que...habían ofrecido el rey y susH7311
+- Esd_8:35ofrecieron holocaustos...doce becerrosH7126
+- Esd_10:19y ofrecieron como ofrenda...un carnero
+- Neh_4:2¿se les permitirá volver a ofrecer sus
+- Neh_11:2se ofrecieron para morar en Jerusalén
+- Est_3:11la plata que ofreces sea para ti, y
+- Job_1:5Job...ofrecía holocaustos conforme alH5927
+- Job_42:8y ofreced holocausto por vosotros, y miH5927
+- Sal_4:5ofreced sacrificios de justicia, yH2076
+- Sal_16:4no ofreceré yo sus libaciones de sangreH5258
+- Sal_51:19entonces ofrecerán becerros sobre tuH5927
+- Sal_66:15holocaustos de animales...te ofreceréH5027
+- Sal_66:15ofreceré en sacrificio bueyes y machosH6213
+- Sal_68:29tu templo...los reyes te ofrecerán dones
+- Sal_72:10los reyes de Sabá y...ofrecerán donesH7126
+- Sal_106:38ofrecieron en sacrificio a los ídolos
+- Sal_107:22ofrezcan sacrificios de alabanza, yH2076
+- Sal_110:3tu pueblo se te ofrecerá...en el día de
+- Sal_116:17te ofreceré sacrificio de alabanza, eH2076
+- Pro_21:27¡cuánto más ofreciéndolo con maldad!
+- Ecl_5:1acércate más para oír que para ofrecerH5414
+- Isa_40:20pobre escoge, para ofrecerle, madera
+- Isa_57:6ellas derramaste libación, y ofrecisteH5927
+- Isa_60:7ofrecidos con agrado sobre mi altar, y
+- Isa_66:3hace ofrenda, como si ofreciese sangreH5927
+- Jer_11:13altares para ofrecer incienso a BaalH6999
+- Jer_14:12ofrezcan holocausto y...no lo aceptaréH5927
+- Jer_19:4y ofrecieron en él incienso a diosesH6999
+- Jer_19:13sobre cuyos tejados ofrecieron inciensoH6999
+- Jer_32:29casas sobre cuyas azoteas ofrecieronH6999
+- Jer_33:18que delante de mí ofrezca holocaustoH5927
+- Jer_44:3a ofrecer incienso, honrando a diosesH6999
+- Jer_44:5dejar...ofrecer incienso a dioses ajenosH6999
+- Jer_44:8ofreciendo incienso a dioses ajenos enH6999
+- Jer_44:15sus mujeres habían ofrecido inciensoH6999
+- Jer_44:17, Jer_44:25ofrecer incienso a la reina del cieloH6999
+- Jer_44:18desde que dejamos de ofrecer inciensoH6999
+- Jer_44:19cuando ofrecimos incienso a la reinaH6999
+- Jer_44:21el incienso que ofrecisteis en...JudáH6999
+- Jer_44:23ofrecisteis incienso y pecasteis contraH6999
+- Jer_48:35a quien ofrezca incienso a sus diosesH6999
+- Eze_6:13lugares donde ofrecieron incienso aH5414
+- Eze_16:21los ofrecieras a aquellas imágenes como
+- Eze_16:25y te ofreciste a cuantos pasaban, y
+- Eze_20:31ofreciendo vuestras ofrendas, haciendoH5375
+- Eze_43:18para ofrecer holocausto sobre él y paraH5927
+- Eze_43:22ofrecerás un macho cabrío sin defectoH7126
+- Eze_43:23ofrecerás un becerro de la vacada sinH7126
+- Eze_43:24y los ofrecerás delante de Jehová, yH7126
+- Eze_43:24los ofrecerán en holocausto a JehováH7126
+- Eze_44:7ofrecer mi pan, la grosura y la sangreH7126
+- Eze_44:15estarán para ofrecerme la grosura y laH7126
+- Eze_44:27ofrecerá su expiación, dice Jehová elH7126
+- Eze_45:13esta será la ofrenda que ofreceréisH7311
+- Eze_45:14será que ofreceréis un bato de aceite
+- Eze_45:23ofrecerá holocausto a Jehová...becerros
+- Eze_45:24con cada becerro ofrecerá ofrenda de
+- Eze_46:2pie...mientras los sacerdotes ofrezcan
+- Eze_46:4el holocausto que el príncipe ofrecerá aH7126
+- Eze_46:13ofrecerás en...un cordero de un año sin
+- Eze_46:15ofrecerán...el cordero y la ofrenda y el
+- Dan_2:46y mandó que le ofreciesen presentesH5260
+- Ose_2:8la plata y el oro que ofrecían a Baal
+- Ose_11:2y a los ídolos ofrecían sahumeriosH6999
+- Ose_14:2y te ofreceremos la ofrenda de...labiosH7999
+- Amó_4:5y ofreced sacrificio...con pan leudadoH6999
+- Amó_5:22si me ofreciereis vuestros holocaustosH5927
+- Amó_5:25¿me ofrecisteis sacrificios y ofrendasH5066
+- Jon_1:16y ofrecieron sacrificio a Jehová, eH2076
+- Jon_2:9mas yo...te ofreceré sacrificios; pagaré
+- Hab_1:16y ofrecerá sahumerios a sus mallasH6999
+- Hag_2:14todo lo que aquí ofrecen es inmundoH7126
+- Mal_1:7que ofrecéis sobre mi altar pan inmundoH5066
+- Mal_1:8cuando ofrecéis el animal ciego para elH5066
+- Mal_1:8cuando ofrecéis el cojo o...¿no es malo?[[H5066]]
+- Mal_1:11se ofrece a...incienso y ofrenda limpiaH5066
+- Mal_2:12y al que ofrece ofrenda a Jehová de losH5066
+- Mat_2:11le ofrecieron presentes: oro...y mirraG4374
+- Mar_1:44y ofrece por tu purificación lo queG4374
+- Luc_1:9le tocó en suerte ofrecer el inciensoG2370
+- Luc_2:24para ofrecer conforme a lo que se diceG1325
+- Luc_5:14ofrece por tu purificación, según mandóG4374
+- Hec_7:41ofrecieron sacrificio al ídolo, y enG321
+- Hec_7:42me ofrecisteis víctimas y sacrificiosG4374
+- Hec_8:18cuando vio Simón...les ofreció dineroG4374
+- Hec_14:13sacerdote...quería ofrecer sacrificios
+- Hec_14:18impedir que...les ofreciese sacrificio
+- Heb_5:3debe ofrecer por los pecados, tanto porG4374
+- Heb_5:7y Cristo...ofreciendo ruegos y súplicasG4374
+- Heb_7:27de ofrecer primero sacrificios por susG399
+- Heb_7:27lo hizo una vez...ofreciéndose a sí mismo
+- Heb_8:3es necesario que...tenga algo que ofrecerG4374
+- Heb_9:7año, no sin sangre, la cual ofrece por síG4374
+- Heb_9:14se ofreció a sí mismo sin mancha a DiosG4374
+- Heb_9:25y no para ofrecerse muchas veces, comoG4374
+- Heb_9:28Cristo fue ofrecido una sola vez paraG4374
+- Heb_10:1los mismos sacrificios que se ofrecenG4374
+- Heb_10:2otra manera cesarían de ofrecerse, puesG4374
+- Heb_10:8las cuales cosas se ofrecen según la leyG4374
+- Heb_10:11ofreciendo...los mismos sacrificios, queG4374
+- Heb_10:12habiendo ofrecido una vez para siempreG4374
+- Heb_11:4ofreció a Dios más excelente sacrificioG4374
+- Heb_11:17ofreció a Isaac...ofrecía su unigénitoG4374
+- Heb_13:15ofrezcamos siempre a Dios, por medio deG399
+- Stg_2:21cuando ofreció a su hijo Isaac sobreG399
+- 1Pe_2:5para ofrecer sacrificios espiritualesG399

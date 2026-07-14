@@ -1,0 +1,227 @@
+---
+tipo: concordancia
+palabra: MALDAD
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MALDAD
+
+- Gén_6:5que la m de los hombres era mucha enH7451
+- Gén_15:16aún no ha llegado a su colmo la m delH5771
+- Gén_19:7os ruego, hermanos...que no hagáis tal mH7489
+- Gén_44:16Dios ha hallado la m de tus siervos; heH5771
+- Gén_50:17la m de tus hermanos...perdones la m deH7451
+- Éxo_20:5que visito la m de los padres sobre losH5771
+- Lev_18:17no tomarás la hija de su hijo...es mH2154
+- Lev_18:25yo visité su m sobre ella, y la tierraH5771
+- Lev_19:29prostituya la tierra y se tiene de mH2154
+- Núm_14:18visita la m de los padres sobre losH5771
+- Deu_5:9que visito la m de los padres sobre losH5771
+- Deu_19:20no volverán a hacer...una m semejanteH7451
+- Deu_28:20y perezcas pronto a causa de la m deH7455
+- Jos_7:15por cuanto...ha cometido m en IsraelH5039
+- Jos_22:17¿no ha sido bastante la m de Peor, deH5771
+- Jue_19:23no, hermanos míos...no hagáis esta mH7489
+- Jue_20:3dijeron...Israel Decid cómo fue esta mH7451
+- Jue_20:6cuanto han hecho m y crimen en IsraelH5039
+- Jue_20:12diciendo: ¿Qué m es esta que ha sidoH7451
+- 1Sa_12:17es grande vuestra m que habéis hechoH7451
+- 1Sa_20:1¿cuál es mi m, o cuál mi pecado contraH5771
+- 1Sa_20:7que la m está determinada de parte de élH7451
+- 1Sa_20:8si hay m en mí, mátame tú, pues no hayH5771
+- 1Sa_20:9supiere que mi padre ha determinado mH7451
+- 1Sa_25:39Jehová ha vuelto la m de Nabal sobreH7451
+- 2Sa_3:39dé el pago al que...conforme a su mH7451
+- 2Sa_14:9la m sea sobre mí y sobre la casa de miH5771
+- 2Sa_16:8hete aquí sorprendido en tu m, porqueH7451
+- 2Sa_22:24fui recto...y me he guardado de mi mH5771
+- 2Sa_24:17yo hice la m; ¿qué hicieron...ovejas?[[H5753]]
+- 2Re_7:9si esperamos...nos alcanzará nuestra mH5771
+- Est_8:3que hiciese nula la m de Amán agagueoH7451
+- Job_22:5tu malicia es...y tus m no tienen finH7451
+- Job_31:11es m e iniquidad que han de castigarH5771
+- Job_31:28esto también sería m juzgada; porqueH5771
+- Job_33:9soy limpio...inocente y no hay m en míH5771
+- Job_34:22no...donde se escondan los que hacen mH205
+- Sal_5:4no eres un Dios que se complace en...mH7562
+- Sal_5:9sus entrañas son m, sepulcro abierto esH1942
+- Sal_7:9fenezca ahora la m de los inicuos, masH7451
+- Sal_7:14he aquí, el impío concibió m, se preñóH205
+- Sal_10:7debajo de su lengua hay vejación y mH205
+- Sal_10:15y persigue la m del malo hasta que noH7562
+- Sal_18:23fui recto...y me he guardado de mi mH5771
+- Sal_28:3hablan paz con...m está en su corazónH205
+- Sal_32:5dije...tú perdonaste la m de mi pecadoH5771
+- Sal_34:21matará al malo la m, y...que aborrecenH7451
+- Sal_36:4medita m sobre su cama; está en caminoH7451
+- Sal_37:7no te alteres...por el hombre que hace mH4209
+- Sal_38:18confesaré mi m, y me contristaré porH5771
+- Sal_40:12alcanzado mis m, y no puedo levantar laH5771
+- Sal_45:7has amado la justicia y aborrecido la mH7562
+- Sal_51:2lávame más y más de mi m, y límpiame deH5771
+- Sal_51:5aquí, en m he sido formado, y en pecadoH5771
+- Sal_51:9tu rostro de mis pecados, y borra...mis mH5771
+- Sal_52:1¿Por qué te jactas de m, oh poderoso?[[H7451]]
+- Sal_52:7que confió en la...y se mantuvo en su mH1942
+- Sal_53:1han corrompido, e hicieron abominable mH5766
+- Sal_55:11m hay en medio de ella, y el fraude yH1942
+- Sal_55:15hay m en sus moradas, en medio de ellosH7451
+- Sal_69:27pon m sobre su m, y no entren en tuH5771
+- Sal_73:8se mofan y hablan con m de...violenciaH7451
+- Sal_78:38él, misericordioso, perdonaba la m, yH5771
+- Sal_84:10Dios, que habitar en las moradas de mH7562
+- Sal_90:8pusiste nuestras m delante de...rostroH5771
+- Sal_92:9serán esparcidos todos los que hacen mH205
+- Sal_94:23él hará...y los destruirá en su propia mH7451
+- Sal_106:43rebelaron...fueron humillados por su mH5771
+- Sal_107:17fueron afligidos los...a causa de sus mH5771
+- Sal_107:34tierra...estéril, por la m de los queH7451
+- Sal_109:14venga en memoria...la m de sus padresH5771
+- Sal_119:150se acercaron a la m los...persiguenH2154
+- Sal_140:9la m de sus...labios cubrirá su cabezaH5999
+- Sal_141:5pero mi oración será...contra las m deH7451
+- Pro_4:17comen pan de m, y beben vino de robosH7562
+- Pro_10:2los tesoros de m no serán de provechoH7562
+- Pro_10:23m es como una diversión al insensatoH2154
+- Pro_10:29pero es destrucción a los que hacen mH205
+- Pro_14:32por su m será lanzado el impío; mas elH7451
+- Pro_21:27es abominación...más ofreciéndolo con mH2154
+- Pro_26:26odio se cubra...su m será descubiertaH7451
+- Pro_28:24que roba a su padre...y dice que no es mH6588
+- Pro_30:20limpia su boca y dice: No he hecho mH205
+- Ecl_7:15hay impío que por su m alarga sus díasH7451
+- Ecl_7:25fijé mi corazón para...conocer la m deH7562
+- Isa_1:4oh gente pecadora, pueblo cargado de mH5771
+- Isa_9:18la m se encendió como fuego, cardos yH7564
+- Isa_13:11castigaré al mundo por su m, y a losH7451
+- Isa_14:21sus hijos para el matadero, por la mH5771
+- Isa_26:21para castigar al morador de...por su mH5771
+- Isa_43:24de tus pecados, me fatigaste con tus mH5771
+- Isa_47:10te confiaste en tu m, diciendo: NadieH7451
+- Isa_50:1he aquí que por vuestras m sois vendidosH5771
+- Isa_53:9nunca hizo m, ni hubo engaño en su bocaH2555
+- Isa_59:3vuestras manos...habla m vuestra lenguaH5771
+- Isa_59:4hablan...conciben m, y dan a luz iniquidadH205
+- Isa_64:6y nuestras m nos llevaron como vientoH5771
+- Isa_64:7nos dejaste marchitar en poder de...mH5771
+- Jer_1:16a causa de toda su m, proferiré misH7451
+- Jer_2:5¿qué m hallaron en mí vuestros padresH5766
+- Jer_2:19tu m te castigará, y tus rebeldías teH7451
+- Jer_3:2con...y con tu m has contaminado la tierraH7451
+- Jer_3:5has hablado y hecho cuantas m pudisteH7451
+- Jer_3:13reconoce...tu m, porque contra JehováH5771
+- Jer_4:4mi ira salga...por la m de vuestras obrasH7455
+- Jer_4:14lava tu corazón de m, oh Jerusalén, paraH7451
+- Jer_4:18es tu m, por lo cual amargura penetraráH7451
+- Jer_6:7nunca cesa de manar su m; injusticia yH7451
+- Jer_7:12ved lo que le hice por la m de mi puebloH7451
+- Jer_11:10se han vuelto a las m de sus primerosH5771
+- Jer_11:17a causa de la m que la casa de IsraelH7451
+- Jer_12:4la m de los que en ella moran, faltaronH7451
+- Jer_13:22de tu m fueron descubiertas tus faldasH5771
+- Jer_13:27tus relinchos, la m de tu fornicaciónH2154
+- Jer_14:10se acordará ahora de su m, y castigaráH5771
+- Jer_14:16sus hijos...sobre ellos derramaré su mH7451
+- Jer_16:10¿qué m es la nuestra, o qué pecado esH5771
+- Jer_16:17ni su m se esconde de la presencia deH5771
+- Jer_18:8si esos pueblos se convirtieren de su mH7451
+- Jer_18:23no perdones su m, ni borres su pecadoH5771
+- Jer_21:12mi ira no salga...m de vuestras obrasH7455
+- Jer_22:22y te confundirás a causa de toda tu mH7451
+- Jer_23:2yo castigo la m de vuestras obras, diceH7455
+- Jer_23:11aun en mi casa hallé su m, dice JehováH7451
+- Jer_23:14para que ninguno se convirtiese de su mH7451
+- Jer_23:22habrían hecho volver...de la m de susH7451
+- Jer_25:5volveos ahora...la m de vuestras obrasH7451
+- Jer_25:12castigaré...a aquella nación por su mH5771
+- Jer_26:3del mal que pienso hacerles por la mH7451
+- Jer_29:23hicieron m en Israel, y cometieronH5039
+- Jer_30:14a causa de la magnitud de tu m y de laH5771
+- Jer_31:30que cada cual morirá por su propia mH5771
+- Jer_31:34porque perdonaré la m de ellos, y noH5771
+- Jer_32:18y castigas la m de los padres en susH5771
+- Jer_32:32por toda la m de los hijos de IsraelH7451
+- Jer_33:5escondí mi rostro...causa de toda su mH7451
+- Jer_33:8limpiaré de toda su m con que pecaronH5771
+- Jer_36:3se arrepienta...yo perdonaré su m y suH5771
+- Jer_36:31castigaré su m en él...su descendenciaH5771
+- Jer_44:3causa de la m que ellos cometieron paraH7451
+- Jer_44:5para convertirse de su m, para dejar deH7451
+- Jer_44:9olvidado de las m de vuestros padres, deH7451
+- Jer_44:9de las m de los reyes...m de sus mujeresH7451
+- Jer_44:9de vuestras m y...m de vuestras mujeresH7451
+- Jer_44:22a causa de la m de vuestras obras, aH7455
+- Jer_50:20la m de Israel será buscada, y...de JudáH5771
+- Jer_51:6para que no perezcáis a causa de su mH5771
+- Lam_1:22venga delante de ti toda su m, y hazH7451
+- Lam_4:13por causa de...y las m de sus sacerdotesH5771
+- Eze_3:18impío morirá por su m, pero su sangreH5771
+- Eze_3:19morirá por su m, pero tú habrás libradoH5771
+- Eze_3:20si el justo se apartare de...e hiciere mH5771
+- Eze_4:4pondrás sobre él la m de la...de IsraelH5771
+- Eze_4:4duermas sobre él, llevarás sobre ti la mH5771
+- Eze_4:5he dado los años de su m por el número deH5771
+- Eze_4:5así llevarás tú la m de la casa de IsraelH5771
+- Eze_4:6llevarás la m de la casa de Judá 40 díasH5771
+- Eze_4:17miren unos a otros...se consuman en su mH5771
+- Eze_7:11violencia se ha levantado en vara de mH7562
+- Eze_7:19oro...porque ha sido tropiezo para su mH5771
+- Eze_8:17después que han llenado de m la tierraH2555
+- Eze_9:9la m de la casa de Israel y de Judá esH5771
+- Eze_12:19será despojada...por la m de todos losH2555
+- Eze_14:3-4, Eze_14:7establecido el tropiezo de su mH5771
+- Eze_14:10y llevarán ambos el castigo de su mH5771
+- Eze_14:10la m del que consultare...m del profetaH5771
+- Eze_16:23sucedió que después de toda tu m (¡ayH7451
+- Eze_16:49que esta fue la m de Sodoma...soberbiaH5771
+- Eze_16:57antes que tu m fuese descubierta. AsíH7451
+- Eze_18:8que de la m retrajere su mano, e hiciereH5766
+- Eze_18:17éste no morirá por la m de su padre; deH5771
+- Eze_18:18hizo agravio...que él morirá por su mH5771
+- Eze_18:24cometiere m, e hiciere...abominacionesH5766
+- Eze_21:23trae a la memoria la m de ellos, paraH5771
+- Eze_21:24hecho traer a la memoria vuestras mH5771
+- Eze_21:25, Eze_21:29tiempo de la consumación de la mH5771
+- Eze_24:23os consumiréis a causa de vuestras mH5771
+- Eze_28:15perfecto...hasta que se halló en ti mH5766
+- Eze_28:18la multitud de tus m y con la iniquidadH5771
+- Eze_31:11yo lo entregaré...le tratará según su mH7562
+- Eze_44:12fueron a...Israel por tropezadero de mH5771
+- Dan_9:13convertirnos de nuestras m y entenderH5771
+- Dan_9:16por la m de nuestros padres, JerusalénH5771
+- Ose_4:8del pecado...en su m levantan su almaH5771
+- Ose_7:1se descubrió...y las m de Samaria; porqueH7451
+- Ose_7:2que tengo en memoria toda su m; ahora lesH7451
+- Ose_7:3su m alegran al rey, y a los príncipesH7451
+- Ose_9:7a causa de la multitud de tu m, y grandeH5771
+- Ose_9:15toda la m de ellos fue en Gilgal; allíH7451
+- Ose_10:15así hará...por causa de vuestra gran mH7451
+- Ose_13:12atada está la m de Efraín; su pecadoH5771
+- Joe_3:13rebosan las...mucha es la m de ellosH7451
+- Amó_3:2por tanto, os castigaré...vuestras mH5771
+- Jon_1:2porque ha subido su m delante de míH7451
+- Miq_7:3para completar la m con sus manos, elH7451
+- Miq_7:18¿qué Dios como tú, que perdona la m, yH5771
+- Nah_3:19quién no pasó continuamente tu m?[[H7451]]
+- Zac_5:8dijo: Esta es la m; y la echó dentroH7451
+- Mal_4:1y todos los que hacen m serán estopaH7564
+- Mat_7:23les...apartaos de mí, hacedores de mG458
+- Mat_24:12haberse multiplicado la m, el amor deG458
+- Mar_7:22m, el engaño, la lascivia, la envidiaG4189
+- Mar_7:23estas m de dentro salen, y contaminanG4190
+- Luc_3:19causa de...m que Herodes había hechoG4190
+- Luc_11:39dentro estáis llenos de rapacidad y de mG4189
+- Luc_13:27apartaos de mí todos...hacedores de mG93
+- Hec_3:26que cada uno se convierta de su mG4189
+- Hec_8:22arrepiéntete...de esta tu m, y ruega aG2549
+- Hec_8:23hiel...y en prisión de m veo que estásG93
+- Hec_13:10¡oh, lleno de todo engaño y de toda mG4468
+- Rom_1:29estando atestados de toda...avaricia, mG4189
+- 1Co_5:8ni con la levadura de malicia y de mG4189
+- Efe_6:12contra huestes espirituales de m enG4189
+- Heb_1:9aborrecido la m, por lo cual te ungióG458
+- Stg_3:6la lengua es un fuego, un mundo de mG93
+- 2Pe_2:15Balaam hijo...amó el premio de la mG93
+- 1Jn_1:9fiel y justo...limpiarnos de toda mG93
+- Rev_18:5cielo, y Dios se ha acordado de sus mG92

@@ -1,0 +1,83 @@
+---
+tipo: concordancia
+palabra: EJIDO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EJIDO
+
+- Lev_25:34la tierra del e de sus ciudades no seH4054
+- Núm_35:2a los levitas los e de esas ciudadesH4054
+- Núm_35:3y los e...serán para sus animales, paraH4054
+- Núm_35:4los e de las...serán mil codos alrededorH4054
+- Núm_35:5esto tendrán por los e de las ciudadesH4054
+- Núm_35:7a los levitas serán ciudades con sus eH4054
+- Jos_14:4ciudades en que...con los e de ellasH4054
+- Jos_21:2dadas ciudades...e para nuestros ganadosH4054
+- Jos_21:3, Jos_21:8dieron de...estas ciudades con sus eH4054
+- Jos_21:11les dieron Quiriat-arba, del...con sus eH4054
+- Jos_21:13Hebrón con sus e...como Libna con sus eH4054
+- Jos_21:14Jatir con sus e, Estemoa con sus eH4054
+- Jos_21:15Holón con sus e, Debir con sus eH4054
+- Jos_21:16Aín con sus e, Juta con sus e y...sus eH4054
+- Jos_21:17y de...Gabaón con sus e, Geba con sus eH4054
+- Jos_21:18Anatot con sus e, Almón con sus e; 4H4054
+- Jos_21:19las ciudades de...son trece con sus eH4054
+- Jos_21:21dieron Siquem con sus e, en el monteH4054
+- Jos_21:21les dieron...además, Gezer con sus eH4054
+- Jos_21:22Kibsaim con sus e y Bet-horón con...eH4054
+- Jos_21:23Elteque con sus e, Gibetón con sus eH4054
+- Jos_21:24Ajalón con sus e y Gat-rimón con sus eH4054
+- Jos_21:25Taanac con sus e y Gat-rimón con sus eH4054
+- Jos_21:26las ciudades...fueron diez con sus eH4054
+- Jos_21:27dieron...Golán en Basán con sus e comoH4054
+- Jos_21:27Golán...y además, Beestera con sus eH4054
+- Jos_21:28Cisón con sus e, Daberat con sus eH4054
+- Jos_21:29Jarmut con sus e y En-ganim con sus eH4054
+- Jos_21:30Aser, Miseal con sus e, Abdón con sus eH4054
+- Jos_21:31Helcat con sus e y Rehob con sus e; 4H4054
+- Jos_21:32Cedes en Galilea con sus e...de refugioH4054
+- Jos_21:32Hamot-dor con sus e y Cartán con sus eH4054
+- Jos_21:33todas...fueron trece ciudades con sus eH4054
+- Jos_21:34dio...Jocneam con sus e, carta con sus eH4054
+- Jos_21:35Dimna con sus e y Naalal con sus e; 4H4054
+- Jos_21:36Beser con sus e, y Jahaza con sus eH4054
+- Jos_21:37Cademot con sus e y Mefaat con sus eH4054
+- Jos_21:38Ramot...con sus e...Mahanaim con sus eH4054
+- Jos_21:39Hesbón con sus e y Jazer con sus e; 4H4054
+- Jos_21:41de los levitas...48 ciudades con sus eH4054
+- Jos_21:42cada cual con sus e alrededor de ellaH4054
+- 2Re_23:11Natán-melec...tenía a su cargo los eH6503
+- 1Cr_5:16habitaron...en todos los e de SarónH4054
+- 1Cr_6:55dieron, pues, Hebrón en...Judá, y sus eH4054
+- 1Cr_6:57Libna con sus e, Jatir, Estemoa con sus eH4054
+- 1Cr_6:58Hilén con sus e, Debir con sus eH4054
+- 1Cr_6:59Asán con sus e y Bet-semes con sus eH4054
+- 1Cr_6:60tribu...Geba con sus e, Alemet con sus eH4054
+- 1Cr_6:60Anatot con sus e. Todas sus ciudadesH4054
+- 1Cr_6:64dieron a los levitas ciudades con sus eH4054
+- 1Cr_6:66hijos de Coat dieron ciudades con sus eH1366
+- 1Cr_6:67Siquem con sus e en el...Gezer con sus eH4056
+- 1Cr_6:68Jocmeam con sus e, Bet-horón con sus eH4056
+- 1Cr_6:69Ajalón con sus e y Gat-rimón con sus eH4056
+- 1Cr_6:70Aner con sus e y Bileam con sus e, paraH4056
+- 1Cr_6:71Golán en...con sus e y Astarot con sus eH4056
+- 1Cr_6:72Cedes con sus e, Daberat con sus eH4056
+- 1Cr_6:73Ramot con sus e y Anem con sus eH4056
+- 1Cr_6:74Aser, Masal con sus e, Abdón con sus eH4056
+- 1Cr_6:75Hucoc con sus e y Rehob con sus eH4056
+- 1Cr_6:76Cedes en...con sus e, Hamón con sus e yH4056
+- 1Cr_6:76tribu de Neftalí...Quiriataim con sus eH4056
+- 1Cr_6:77tribu...Rimón con sus e y Tabor con sus eH4056
+- 1Cr_6:78Rubén, Beser...con sus e, Jaza con sus eH4056
+- 1Cr_6:79Cademot con sus e y Mefaat con sus eH4056
+- 1Cr_6:80Ramot de...con sus e, Mahanaim con sus eH4056
+- 1Cr_6:81Hesbón con sus e y Jazer con sus eH4056
+- 1Cr_13:2los sacerdotes y...en sus ciudades y eH4056
+- 2Cr_11:14los levitas dejaban sus e...veníanH4056
+- 2Cr_31:19sacerdotes, que estaban en los e de susH4056
+- Neh_12:44recoger en...de los e de las ciudadesH7704
+- Eze_45:2cincuenta codos en derredor para...eH4056
+- Eze_48:15serán...para habitación y para e; y laH4056
+- Eze_48:17y el e de la ciudad será al norte deH4056

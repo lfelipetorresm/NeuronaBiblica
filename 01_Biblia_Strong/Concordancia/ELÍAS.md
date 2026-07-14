@@ -1,0 +1,105 @@
+---
+tipo: concordancia
+palabra: ELÍAS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ELÍAS
+
+- 1 Profeta
+- 1Re_17:1E tisbita...a Acab...no habrá lluviaH452
+- 1Re_17:13E le dijo: No tengas temor; vé, hazH452
+- 1Re_17:15fue e hizo como le dijo E; y comió élH452
+- 1Re_17:16palabra que Jehová había dicho por EH452
+- 1Re_17:18ella dijo a E: ¿Qué tengo yo contigoH452
+- 1Re_17:22Jehová oyó la voz de E, y el alma delH452
+- 1Re_17:23tomando luego E al niño, lo trajo delH452
+- 1Re_17:23lo dio...le dijo E: Mira, tu hijo viveH452
+- 1Re_17:24la mujer dijo a E: Ahora conozco queH452
+- 1Re_18:1palabra de Jehová a E en el tercer añoH452
+- 1Re_18:2fue, pues, E a mostrarse a Acab...Y elH452
+- 1Re_18:7encontró con E...dijo: ¿No eres tú...E?[[H452]]
+- 1Re_18:8, 1Re_18:11, 1Re_18:14vé, dí a tu amo: Aquí está EH452
+- 1Re_18:15dijo E: Vive Jehová de los ejércitosH452
+- 1Re_18:16fue...y Acab vino a encontrarse con EH452
+- 1Re_18:17cuando Acab vio a E, le dijo: ¿Eres túH452
+- 1Re_18:21acercándose E a todo el pueblo, dijoH452
+- 1Re_18:22E volvió a decir...Sólo yo he quedadoH452
+- 1Re_18:25E dijo a los profetas de Baal...un bueyH452
+- 1Re_18:27que E se burlaba de ellos, diciendoH452
+- 1Re_18:30dijo E a todo el pueblo: Acercaos a míH452
+- 1Re_18:31y tomando E doce piedras, conforme alH452
+- 1Re_18:36se acercó...E y dijo: Jehová Dios deH452
+- 1Re_18:40E les dijo: Prended a los profetas deH452
+- 1Re_18:40los llevó E al arroyo de Cisón, y allíH452
+- 1Re_18:41entonces E dijo a Acab: Sube, come yH452
+- 1Re_18:42y E subió a la cumbre del Carmelo, yH452
+- 1Re_18:46la mano de Jehová estuvo sobre E, elH452
+- 1Re_19:1la nueva de todo lo que E había hechoH452
+- 1Re_19:2envió Jezabel a E un mensajero, diciendoH452
+- 1Re_19:9de Jehová...le dijo: ¿Qué haces aquí, E?[[H452]]
+- 1Re_19:13cuando lo oyó E, cubrió su rostro conH452
+- 1Re_19:13una voz, diciendo: ¿Qué haces aquí, E?[[H452]]
+- 1Re_19:19pasando E por...echó sobre él su mantoH452
+- 1Re_19:20vino corriendo en pos de E, y dijo: TeH452
+- 1Re_19:21después se levantó y fue tras E, y leH452
+- 1Re_21:17, 1Re_21:28vino palabra de Jehová a E tisbitaH452
+- 1Re_21:20dijo a E: ¿Me has hallado, enemigo míoH452
+- 2Re_1:3el ángel de Jehová habló a E tisbitaH452
+- 2Re_1:4sino que ciertamente morirás. Y E se fueH452
+- 2Re_1:8de cuero. Entonces él dijo: Es E tisbitaH452
+- 2Re_1:10, 2Re_1:12E...Si yo...descienda fuego del cieloH452
+- 2Re_1:13se puso de rodillas delante de E y leH452
+- 2Re_1:15el ángel de...dijo a E: Desciende con élH452
+- 2Re_1:17a la palabra de...que había hablado EH452
+- 2Re_2:1quiso...alzar a E...E venía con Eliseo deH452
+- 2Re_2:2y dijo E a Eliseo: Quédate ahora aquíH452
+- 2Re_2:4y E le volvió a decir: Eliseo, quédateH452
+- 2Re_2:6E le dijo: Te ruego que te quedes aquíH452
+- 2Re_2:8tomando entonces E su manto, lo doblóH452
+- 2Re_2:9E dijo a Eliseo: Pide lo que quieras queH452
+- 2Re_2:11y E subió al cielo en un torbellinoH452
+- 2Re_2:13-14el manto de E que se le había caídoH452
+- 2Re_2:14dijo: ¿Dónde está Jehová, el Dios de E?[[H452]]
+- 2Re_2:15el espíritu de E reposó sobre EliseoH452
+- 2Re_3:11aquí está Eliseo hijo...que servía a EH452
+- 2Re_9:36que él habló por medio de su siervo EH452
+- 2Re_10:10ha hecho lo que dijo por su siervo EH452
+- 2Re_10:17la palabra...que había hablado por EH452
+- 1Cr_8:27Jaresías, E y Zicri, hijos de JerohamH452
+- 2Cr_21:12le llegó una carta del profeta EH452
+- Mal_4:5envío el profeta E, antes que vengaH452
+- Mat_11:14él es aquel E que había de venirG2243
+- Mat_16:14otros, E; y...o alguno de los profetasG2243
+- Mat_17:3aparecieron Moisés y E, hablando con élG2243
+- Mat_17:4uno para ti, otra para Moisés, y...para EG2243
+- Mat_17:10que es necesario que E venga primero?[[G2243]]
+- Mat_17:11E viene primero, y restaurará todas lasG2243
+- Mat_17:12digo que E ya vino, y no le conocieronG2243
+- Mat_27:47allí decían, al oírlo: A E llama ésteG2243
+- Mat_27:49decían...veamos si viene E a librarleG2243
+- Mar_6:15otros decían: Es E. Y otros decíanG2243
+- Mar_8:28otros, E; y otros, alguno de...profetasG2243
+- Mar_9:4les apareció E con Moisés, que hablabanG2243
+- Mar_9:5uno para ti, otra para Moisés, y...para EG2243
+- Mar_9:11que es necesario que E venga primero?[[G2243]]
+- Mar_9:12les dijo: E a la verdad vendrá primeroG2243
+- Mar_9:13digo que E ya vino, y le hicieron todoG2243
+- Mar_15:35allí decían, al oírlo: Mirad, llama a EG2243
+- Mar_15:36dejad, veamos si viene E a bajarleG2243
+- Luc_1:17delante de él con el espíritu...de EG2243
+- Luc_4:25muchas viudas había...en los días de EG2243
+- Luc_4:26pero a ninguna de ellas fue enviado EG2243
+- Luc_9:8E ha aparecido; y otros: Algún profetaG2243
+- Luc_9:19otros, E; y otros, que algún profeta deG2243
+- Luc_9:30varones que hablaban...eran Moisés y EG2243
+- Luc_9:33para ti, una para Moisés, y una para EG2243
+- Luc_9:54descienda fuego del cielo, como hizo EG2243
+- Jua_1:21le preguntaron...¿Eres tú E? DijoG2243
+- Jua_1:25¿por qué...bautizas, si tú no eres...ni EG2243
+- Rom_11:2no sabéis qué dice de E la EscrituraG2243
+- Stg_5:17E era hombre sujeto a pasiones...oróG2243
+- 2 Descendiente de Benjamín, 1Cr_8:27G452
+- 3 Sacerdote en tiempo de Esdras, Esd_10:21G452
+- 4 Uno de los que se casaron con mujeres extranjeras en tiempo de Esdras, Esd_10:26G452

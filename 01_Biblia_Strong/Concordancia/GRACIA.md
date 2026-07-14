@@ -1,0 +1,297 @@
+---
+tipo: concordancia
+palabra: GRACIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GRACIA
+
+- Gén_6:8Noé halló g ante los ojos de JehováH2580
+- Gén_18:3Señor...ahora he hallado g en tus ojosH2580
+- Gén_19:19ha hallado vuestro siervo g en...ojosH2580
+- Gén_30:27halle yo...g en tus ojos, y quédateH2580
+- Gén_32:5a mi señor, para hallar g en tus ojosH2580
+- Gén_33:8y Jacob respondió: El hallar g en losH2580
+- Gén_33:10si he hallado...g en tus ojos, aceptaH2580
+- Gén_33:15halle yo g en los ojos de mi señorH2580
+- Gén_34:11halle yo g en vuestros ojos, y daréH2580
+- Gén_39:4halló José g en sus ojos, y le servíaH2580
+- Gén_39:21Jehová estaba con José...te dio g enH2580
+- Gén_47:25hallemos g en ojos de nuestro señorH2580
+- Gén_47:29si he hallado ahora g en tus ojos, teH2580
+- Gén_50:4si he hallado...g en vuestros ojos, osH2580
+- Éxo_3:21daré a este pueblo g en los ojos deH2580
+- Éxo_11:3Jehová dio g al pueblo en los ojos deH2580
+- Éxo_12:36Jehová dio g al pueblo delante de losH2580
+- Éxo_21:11si ninguna...hiciere, ella saldrá de gH2600
+- Éxo_28:38para que obtengan g delante de JehováH7522
+- Éxo_33:12y has hallado también g en mis ojosH2580
+- Éxo_33:13si he hallado g en tus ojos, te ruegoH2580
+- Éxo_33:13que te conozca, y halle g en tus ojosH2580
+- Éxo_33:16en qué se conocerá...que he hallado gH2580
+- Éxo_33:17por cuanto has hallado g en mis ojosH2580
+- Éxo_34:9he hallado g en tus ojos, vaya ahoraH2580
+- Lev_7:12se ofreciere en acción de g, ofreceráH8426
+- Lev_7:12ofrecerá por sacrificio de acción de gH8426
+- Lev_7:13el sacrificio de acciones de g de pazH8426
+- Lev_7:15la carne...en acción de g se comerá enH8426
+- Lev_22:29ofreciereis sacrificio de acción de gH8426
+- Núm_11:11por qué no he hallado g en tus ojosH2580
+- Núm_11:15me des muerte, si he hallado g en tusH2580
+- Núm_32:5si hallamos g en tus ojos, dése estaH2580
+- Deu_33:16g del que habitó en la zarza vengaH7522
+- Jue_6:17si he hallado g delante de ti, meH2580
+- Rut_2:2pos de aquel a cuyos ojos hallare gH2580
+- Rut_2:10¿por qué he hallado g en tus ojos paraH2580
+- Rut_2:13ella dijo: Señor mío, halle yo g...ojosH2580
+- 1Sa_1:18halle tu sierva g delante de tusH2580
+- 1Sa_16:22conmigo, pues ha hallado g en mi ojosH2580
+- 1Sa_20:3yo he hallado g delante de tus ojosH2580
+- 1Sa_20:29por lo tanto, si he hallado g en tusH2580
+- 1Sa_25:8hallen...estos jóvenes g en tus ojosH2580
+- 1Sa_27:5Aquis: Si he hallado g ante tus ojosH2580
+- 1Sa_29:4¿con qué cosa volvería mejor a la g deH7521
+- 2Sa_14:22he hallado g en tus ojos, rey señorH2580
+- 2Sa_15:25yo hallare g ante los ojos de JehováH2580
+- 2Sa_16:4rey señor mío, halle yo g delante deH2580
+- 1Cr_23:30asistir...todos los días a dar gH3034
+- 2Cr_5:13cantaban...alabar y dar g a JehováH3034
+- 2Cr_30:22de paz, y dando g a Jehová el Dios deH3034
+- 2Cr_31:2para que diesen g y alabasen dentro deH3034
+- Esd_3:11y cantaban, alabando y dando g aH3034
+- Neh_1:11éxito a tu siervo, y dale g delanteH7356
+- Neh_2:5y tu siervo ha hallado g delante de tiH3190
+- Neh_11:17empezaba las alabanzas y acción de gH3034
+- Neh_12:24dar g, conforme el estatuto de DavidH3034
+- Neh_12:46para los cánticos...acción de g a DiosH3034
+- Est_2:9y halló g delante de él, por lo queH2617
+- Est_2:17halló...g y benevolencia delante de élH2580
+- Est_5:2cuando vio a la reina Ester, obtuvo gH2580
+- Est_5:8si he hallado g ante los ojos del reyH2580
+- Est_7:3si he hallado g en tus ojos, y si al reyH2580
+- Est_8:5si he hallado g delante de él, y si leH2580
+- Job_41:12ni sobre...y la g de su disposiciónH2433
+- Sal_26:7para exclamar con voz de acción de gH8426
+- Sal_45:2g se derramó en tus labios; por tantoH2580
+- Sal_75:1g te damos, oh Dios, g te damos, puesH3034
+- Sal_84:11sol y escudo...g y gloria dará JehováH2580
+- Sal_100:4entrad...sus puertas con acción de gH8426
+- Pro_1:9porque adorno de g serán a tu cabezaH2580
+- Pro_3:4hallarás g y buena opinión ante los ojosH2580
+- Pro_3:22serán vida a tu alma, y g a tu cuelloH2580
+- Pro_3:34escarnecerá a...y a los humildes dará gH2580
+- Pro_4:9adorno de g dará a tu cabeza; corona deH2580
+- Pro_13:15el buen entendimiento da g; mas elH2580
+- Pro_16:23hace prudente su boca, y añade g a susH3948
+- Pro_22:11la g de sus labios tendrá la amistadH2580
+- Pro_28:23que reprende...hallará después mayor gH2580
+- Pro_31:30engañosa es la g, y vana la hermosuraH2580
+- Ecl_10:12palabras...del sabio son llenas de gH2580
+- Jer_30:19saldrá de ellos acción de g, y vozH8426
+- Jer_31:2el pueblo que...halló g en el desiertoH2580
+- Jer_33:11traigan ofrendas de acción de g a laH8426
+- Dan_1:9puso Dios a Daniel en g...con el jefeH2617
+- Dan_2:23a ti, oh Dios de mis padres, te doy gH3029
+- Dan_6:10y daba g delante de Dios, como loH3029
+- Ose_14:4los amaré de pura g; porque mi iraH5071
+- Nah_3:4causa de...de la ramera de hermosa gH2580
+- Zac_4:7piedra con aclamaciones de: G, g a ellaH2580
+- Zac_11:7al uno puse por nombre G, y al otroH5278
+- Zac_11:10tomé luego mi cayado G, y lo quebréH5278
+- Zac_12:10derramaré...espíritu de g y de oraciónH2580
+- Mat_10:8sanad...de g recibisteis, dad de gG1432
+- Mat_15:36los peces, dio g, los partió y dio aG2168
+- Mat_26:27habiendo dado g, les dio, diciendoG2168
+- Mar_8:6habiendo dado g, los partió, y dio aG2168
+- Mar_14:23y tomando la copa, y habiendo dado gG2168
+- Luc_1:30porque has hallado g delante de DiosG5485
+- Luc_2:38g a Dios, y hablaba del niño a todosG437
+- Luc_2:40crecía y...y la g de Dios era sobre élG5485
+- Luc_2:52Jesús crecía...en g para con Dios y losG5485
+- Luc_4:22palabras de g que salían de su boca, yG5485
+- Luc_17:9¿acaso da g al siervo porque hizo loG5485
+- Luc_17:16postró...a sus pies, dándole g; y ésteG2168
+- Luc_18:11Dios, te doy g porque no soy como losG2168
+- Luc_22:17habiendo tomado la copa, dio g, y dijoG2168
+- Luc_22:19y tomó el pan y dio g, y lo partió yG2168
+- Jua_1:14y vimos su gloria...lleno de g y deG5485
+- Jua_1:16su plenitud tomamos todos, y g sobre gG5485
+- Jua_1:17g y la verdad vinieron por...JesucristoG5485
+- Jua_6:11y habiendo dado g, los repartió entreG2168
+- Jua_6:23el pan después de haber dado g el SeñorG2168
+- Jua_11:41Padre, g te doy por haberme oídoG2168
+- Hec_4:33abundante g era sobre todos ellosG5485
+- Hec_6:8Esteban, lleno de g y de poder, hacíaG4102
+- Hec_7:10le dio g y sabiduría delante de FaraónG5485
+- Hec_7:46éste halló g delante de Dios, y pidióG5485
+- Hec_11:23cuando llegó, y vio la g de Dios, seG5485
+- Hec_13:43a que perseverasen en la g de DiosG5485
+- Hec_14:3daba testimonio a la palabra de su gG5485
+- Hec_14:26encomendados a la g de Dios para laG5485
+- Hec_15:11por g del Señor Jesús seremos salvosG5485
+- Hec_15:40salió encomendado...a la g del SeñorG5485
+- Hec_18:27de gran provecho a los que por la gG5485
+- Hec_20:24para dar testimonio...de la g de DiosG5485
+- Hec_20:32os encomiendo...a la palabra de su gG5485
+- Hec_25:3pidiendo...como g, que le hiciese traerG5485
+- Hec_27:35dicho esto, tomó el pan y dio g a DiosG2168
+- Hec_28:15Pablo dio g a Dios y cobró alientoG2168
+- Rom_1:5quién recibimos la g y el apostoladoG5485
+- Rom_1:7g y paz a vosotros, de Dios...Padre y delG5485
+- Rom_1:8doy g a mi Dios mediante Jesucristo conG2168
+- Rom_1:21no le glorificaron...ni le dieron gG2168
+- Rom_3:24justificados gratuitamente por su gG5485
+- Rom_4:4no se le cuenta el salarlo como g, sinoG5485
+- Rom_4:16por fe, para que sea por g, a fin deG5485
+- Rom_5:2tenemos entrada por la fe a esta g enG5485
+- Rom_5:15abundaron...la g y el don de Dios porG5485
+- Rom_5:15por la g de un hombre, JesucristoG5485
+- Rom_5:17reinarán en vida...los que reciben...la gG5485
+- Rom_5:20el pecado abundó, sobreabundó la gG5485
+- Rom_5:21así también la g reine por la justiciaG5485
+- Rom_6:1¿perseveraremos...para que la g abunde?[[G5485]]
+- Rom_6:14-15no...bajo la ley, sino bajo la gG5485
+- Rom_6:17g a Dios, que aunque erais esclavos delG5485
+- Rom_7:25g doy a Dios, por Jesucristo SeñorG2168
+- Rom_11:5ha quedado un remanente escogido por gG5485
+- Rom_11:6si por g, ya no es por obras; de otraG5485
+- Rom_11:6de otra manera la g ya no es g. Y siG5485
+- Rom_11:6Y si por obras, ya no es g; de otraG5485
+- Rom_12:3por la g que me es dada, a cada cualG5485
+- Rom_12:6diferentes dones, según la g que nosG5485
+- Rom_14:6para el Señor come, porque da g a DiosG2168
+- Rom_14:6para el Señor no come, y da g a DiosG2168
+- Rom_15:15recordar, por la g que de Dios me esG5485
+- Rom_16:4a los cuales no sólo yo doy g, sinoG2168
+- Rom_16:20g de nuestro Señor...sea con vosotrosG5485
+- Rom_16:24la g de nuestro Señor...sea con todosG5485
+- 1Co_1:3g y paz a vosotros, de Dios...PadreG5485
+- 1Co_1:4g doy a mi Dios siempre por vosotrosG2168
+- 1Co_1:4la g de Dios que os fue dada en CristoG5485
+- 1Co_1:14g a Dios de que a ninguno de vosotrosG2168
+- 1Co_3:10conforme a la g de Dios que me ha sidoG5485
+- 1Co_10:30censurado por aquello de que doy g?[[G2168]]
+- 1Co_11:24y habiendo dado g, lo partió, y dijoG2168
+- 1Co_14:16¿cómo dirá el Amén a tu acción de g?[[G2169]]
+- 1Co_14:17tú, a la verdad bien das g; pero elG2168
+- 1Co_14:18doy g a Dios que hablo en lenguas másG2168
+- 1Co_15:10pero por la g de Dios soy lo que soyG5485
+- 1Co_15:10su g no ha sido en vano para conmigoG5485
+- 1Co_15:10pero no yo, sino la g de Dios conmigoG5485
+- 1Co_15:57g...a Dios, que nos da la victoria porG5485
+- 1Co_16:23la g del Señor Jesucristo esté conG5485
+- 2Co_1:2g y paz a vosotros, de Dios nuestroG5485
+- 2Co_1:11sean dadas g a favor nuestro por elG2168
+- 2Co_1:12con la g de Dios, nos hemos conducidoG5485
+- 2Co_1:15ir...para que tuvieseis una segunda gG5485
+- 2Co_2:14a Dios g, el cual nos lleva siempre enG5485
+- 2Co_4:15abundando la g por medio de muchos, laG5485
+- 2Co_4:15acción de g sobreabunde para gloria deG5485
+- 2Co_6:1a que no recibáis en vano la g de DiosG5485
+- 2Co_8:1os hacemos saber la g de Dios que seG5485
+- 2Co_8:6acabe...entre vosotros esta obra de gG5485
+- 2Co_8:7como en todo...abundad también en esta gG5485
+- 2Co_8:9porque ya conocéis la g de nuestro SeñorG5485
+- 2Co_8:16pero g a Dios que puso en el corazónG5485
+- 2Co_9:8hacer que abunde entre vosotros toda gG5485
+- 2Co_9:11la cual produce...acción de g a DiosG2169
+- 2Co_9:12abunda en muchas acciones de g a DiosG2169
+- 2Co_9:14a causa de...la superabundante g de DiosG5485
+- 2Co_9:15¡g a Dios por su don inefable![[G5485]]
+- 2Co_12:9y me ha dicho: Bástate mi g; porqueG5485
+- 2Co_13:14la g del Señor Jesucristo, el amor deG5485
+- Gál_1:3g y paz sean a vosotros, de Dios elG5485
+- Gál_1:6que os llamó por la g de Cristo, paraG5485
+- Gál_1:15agradó a Dios, que...me llamó por su gG5485
+- Gál_2:9y reconociendo la g que me había sidoG5485
+- Gál_2:21no desecho la g de Dios; pues si porG5485
+- Gál_5:4os desligasteis...de la g habéis caídoG5485
+- Gál_6:18la g de nuestro Señor Jesucristo seaG5485
+- Efe_1:2g y paz a vosotros, de Dios...Padre yG5485
+- Efe_1:6para alabanza de la gloria de su g, conG5485
+- Efe_1:7perdón de...según las riquezas de su gG5485
+- Efe_1:16no ceso de dar g...haciendo memoria deG2168
+- Efe_2:5dio vida...con Cristo (por g sois salvos)[[G5485]]
+- Efe_2:7las abundantes riquezas de su g en suG5485
+- Efe_2:8por g sois salvos por medio de la feG5485
+- Efe_3:2si...oído de la administración de la gG5485
+- Efe_3:7yo fui hecho ministro por...la g de DiosG5485
+- Efe_3:8fue dada esta g de anunciar entre losG5485
+- Efe_4:7a cada uno...fue dada la g conforme a laG5485
+- Efe_4:29sea buena...fin de dar g a los oyentesG5485
+- Efe_5:4no convienen...antes bien acciones de gG2169
+- Efe_5:20dando siempre g por todo al Dios yG2168
+- Efe_6:24g sea con todos los que aman a nuestroG5485
+- Flp_1:2g y paz a vosotros, de Dios nuestroG5485
+- Flp_1:3doy g a mi Dios siempre que me acuerdoG2168
+- Flp_1:7sois participantes conmigo de la gG5485
+- Flp_4:6toda oración y ruego, con acción de gG2169
+- Flp_4:23la g de nuestro Señor...sea con todosG5485
+- Col_1:2g y paz...a vosotros, de Dios nuestroG5485
+- Col_1:3damos g a Dios, Padre de...JesucristoG2168
+- Col_1:6que oísteis y conocisteis la g de DiosG5485
+- Col_1:12dando g al Padre que nos hizo aptosG2168
+- Col_2:7enseñados, abundando en acción de gG2169
+- Col_3:16cantando con g en vuestros corazonesG5485
+- Col_3:17dando g a Dios Padre por medio de élG2168
+- Col_4:2oración, velando en ella con acción de gG2169
+- Col_4:6sea vuestra palabra siempre con g...salG5485
+- Col_4:18la salutación...La g sea con vosotrosG5485
+- 1Ts_1:1g y paz sean con vosotros, de DiosG5485
+- 1Ts_1:2siempre g a Dios por todos vosotrosG2168
+- 1Ts_2:13por lo cual...sin cesar damos g a DiosG2168
+- 1Ts_3:9¿qué acción de g podremos dar a DiosG2169
+- 1Ts_5:18dad g en todo...esta es la voluntad deG2168
+- 1Ts_5:28la g de nuestro Señor Jesucristo seaG5485
+- 2Ts_1:2g y paz a vosotros, de Dios nuestroG5485
+- 2Ts_1:3debemos...dar g a Dios por vosotrosG2168
+- 2Ts_1:12glorificado...por la g de nuestro DiosG5485
+- 2Ts_2:13dar siempre g a Dios respecto a vosotrosG2168
+- 2Ts_2:16amó y nos dio...buena esperanza por gG5485
+- 2Ts_3:18la g de...sea con todos vosotros. AménG5485
+- 1Ti_1:2g, misericordia y paz, de DiosG5485
+- 1Ti_1:12doy g al que me fortaleció, a CristoG2192, [[G5485]]
+- 1Ti_1:14g de nuestro Señor fue más abundanteG5485
+- 1Ti_2:1acciones de g, por todos los hombresG2169
+- 1Ti_4:3para que con acción de g participasenG2169
+- 1Ti_4:4es bueno...si se toma con acción de gG2169
+- 1Ti_6:21desviaron de la fe. La g sea contigoG5485
+- 2Ti_1:2g, misericordia y paz, de Dios PadreG5485
+- 2Ti_1:3doy g a Dios, al cual sirvo desde misG2192, [[G5485]]
+- 2Ti_1:9según...la g que nos fue dada en CristoG5485
+- 2Ti_2:1tú esfuérzate en la g que es en CristoG5485
+- 2Ti_4:22cité con...La g sea con vosotros. AménG5485
+- Tit_1:4g, misericordia y paz, de Dios PadreG5485
+- Tit_2:11porque la g de Dios...para salvaciónG5485
+- Tit_3:7justificados por su g, viniésemos a serG5485
+- Tit_3:15la g sea con todos vosotros. AménG5485
+- Flm_1:3g y paz a vosotros, de Dios nuestroG5485
+- Flm_1:4doy g a mi Dios, haciendo...memoria deG5485
+- Flm_1:25la g de...sea con vuestro espíritu. AménG5485
+- Heb_2:9por la g de Dios gustase la muerte porG5485
+- Heb_4:16acerquémonos, pues...al trono de la gG5485
+- Heb_4:16y hallar g para el oportuno socorroG5485
+- Heb_10:29e hiciere afrenta al Espíritu de g?[[G5485]]
+- Heb_12:15alguno deje de alcanzar la g de DiosG5485
+- Heb_13:9es afirmar el corazón con la g, no conG5485
+- Heb_13:25la g sea con todos vosotros. AménG5485
+- Stg_4:6pero él da mayor g. Por esto diceG5485
+- Stg_4:6Dios resiste a...y da g a los humildesG5485
+- 1Pe_1:2g y paz os sean multiplicadasG5485
+- 1Pe_1:10que profetizaron de la g destinada aG5485
+- 1Pe_1:13y esperad por completo en la g que seG5485
+- 1Pe_3:7como a coherederas de la g de la vidaG5485
+- 1Pe_4:10buenos administradores de...g de DiosG5485
+- 1Pe_5:5Dios resiste a...y da g a los humildesG5485
+- 1Pe_5:10el Dios de toda g, que nos llamó a suG5485
+- 1Pe_5:12esta es la verdadera g de Dios, en laG5485
+- 2Pe_1:2g y paz os sean multiplicadas, en elG5485
+- 2Pe_3:18creced en la g y el...de nuestro SeñorG5485
+- 2Jn_1:3sea con vosotros g, misericordia y pazG5485
+- Jud_1:4convierten en libertinaje la g de...DiosG5485
+- Rev_1:4g y paz a vosotros, de¡ que es y queG5485
+- Rev_4:9dan gloria y honra y acción de g al queG2169
+- Rev_7:12y la acción de g...sean a nuestro DiosG2169
+- Rev_11:17te damos g, Señor Dios Todopoderoso, elG2168
+- Rev_22:21la g de nuestro Señor...sea con todosG5485

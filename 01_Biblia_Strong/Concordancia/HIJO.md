@@ -1,0 +1,4403 @@
+---
+tipo: concordancia
+palabra: HIJO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HIJO
+
+- Véase también Hija
+- Gén_3:16con dolor darás a luz...h; y tu deseoH1121
+- Gén_4:17llamó...ciudad del nombre de su h, EnocH1121
+- Gén_4:25dio a luz un h, y llamó su nombre SetH1121
+- Gén_4:25me ha sustituido otro h en lugar de AbelH2233
+- Gén_4:26y a Set...le nació un h...su nombre EnósH1121
+- Gén_5:3vivió Adán 130 años, y engendró un h a suH1121
+- Gén_5:4,7,10,13,16,19,22,26,30engendró h e hijasH1121
+- Gén_5:28vivió Lamec...182 años, y engendró un hH1121
+- Gén_6:2viendo los h de Dios que las hijas de losH1121
+- Gén_6:4se llegaron los h de Dios a las hijas deH1121
+- Gén_6:4hijas de los hombres, y les engendraron hH1121
+- Gén_6:10y engendró Noé tres h: a Sem, a Cam y aH1121
+- Gén_6:18entrarás...tus h...las mujeres de tus hH1121
+- Gén_7:7entró Noé...sus h...las mujeres de sus hH1121
+- Gén_7:13entraron Noé...Sem, Cam y Jafet h de NoéH1121
+- Gén_7:13las mujeres de sus h, con él en el arcaH1121
+- Gén_8:16sal del...y tus h, y las mujeres de tus hH1121
+- Gén_8:18salió Noé, y sus h...las mujeres de sus hH1121
+- Gén_9:1bendijo Dios a Noé y a sus h, y les dijoH1121
+- Gén_9:8y habló Dios a Noé y a sus h con élH1121
+- Gén_9:18h de Noé que salieron del arca fueronH1121
+- Gén_9:19estos tres son los h de Noé, y de ellosH1121
+- Gén_9:24Noé...supo lo que le había hecho su h másH1121
+- Gén_10:1las generaciones de los h de Noé: SemH1121
+- Gén_10:1a quienes nacieron h después del diluvioH1121
+- Gén_10:2h de Jafet: Gomer, Magog, Madai, JavánH1121
+- Gén_10:3los h de Gomer: Askenaz, Rifat y TogarmaH1121
+- Gén_10:4los h de Javán: Elisa, Tarsis, QuitimH1121
+- Gén_10:6los h de Cam: Cus, Mizraim, Fut y CanaánH1121
+- Gén_10:7y los h de Cus: Seba, Havila, Sabta yH1121
+- Gén_10:7Sabteca. Y los h de Raama: Seba y DedánH1121
+- Gén_10:20estos son los h de Cam por sus familiasH1121
+- Gén_10:21le nacieron h a Sem, padre...h de HeberH1121
+- Gén_10:22los h de Sem fueron Elam, Asur, ArfaxadH1121
+- Gén_10:23y los h de Aram: Uz, Hul, Geter y MasH1121
+- Gén_10:25a Heber nacieron dos h: el nombre delH1121
+- Gén_10:29Havila y Jobab...fueron h de JoctánH1121
+- Gén_10:31fueron los h de Sem por sus familiasH1121
+- Gén_10:32estas son las familias de los h de NoéH1121
+- Gén_11:5ver...que edificaban los h de los hombresH1121
+- Gén_11:11,13,15,17,19,21,23,25engendró h e hijasH1121
+- Gén_11:30mas Sarai era estéril, y no tenía hH2056
+- Gén_11:31y tomó Taré a Abram su h, y a LotH1121
+- Gén_11:31tomó Taré...a Lot h de Harán, h de su hH1121
+- Gén_11:31a Sarai su nuera, mujer de Abram su hH1121
+- Gén_12:5tomó, pues, Abram...Lot h de su hermanoH1121
+- Gén_14:12tomaron...a Lot, h del hermano de AbramH1121
+- Gén_15:2¿qué me darás, siendo así que ando sin hH6185
+- Gén_15:4sino un h tuyo será el que te heredaráH4578
+- Gén_16:1Sarai mujer de Abram no le daba h; y ellaH3205
+- Gén_16:2llegues a mi sierva; quizá tendré h deH1129
+- Gén_16:11darás a luz un h, y llamarás...IsmaelH1121
+- Gén_16:15y Agar dio a luz un h a Abram, y llamóH1121
+- Gén_16:15llamó Abram el nombre del h que le dioH1121
+- Gén_17:16te daré de ella h...madre de nacionesH1121
+- Gén_17:17¿a hombre de cien años ha de nacer h?[[H1121]]
+- Gén_17:19Sara tu mujer te dará a luz un h, yH1121
+- Gén_17:23tomó Abraham a Ismael su h, y a todosH1121
+- Gén_17:25Ismael su h era de trece años, cuandoH1121
+- Gén_17:26circuncidados Abraham e Ismael su hH1121
+- Gén_18:10he aquí que Sara tu mujer tendrá un hH1121
+- Gén_18:14según el tiempo de...Sara tendrá un hH1121
+- Gén_18:19yo sé que mandará a sus h y a su casaH1121
+- Gén_19:12h y tus hijas, y todo lo que tienes enH1121
+- Gén_19:37dio a luz la mayor un h, y llamó...MoabH1121
+- Gén_19:38menor también dio a luz un h, y llamóH1121
+- Gén_20:17Dios sanó...sus siervas, y tuvieron h
+- Gén_21:2Sara concibió y dio a Abraham un h enH1121
+- Gén_21:3llamó Abraham el nombre de su h que leH1121
+- Gén_21:4circuncidó Abraham a su h Isaac de 8 díasH1121
+- Gén_21:5de cien años cuando nació Isaac su hH1121
+- Gén_21:7que Sara habría de dar de mamar a h?[[H1121]]
+- Gén_21:7a Abraham...le he dado un h en su vejezH1121
+- Gén_21:9que el h de Agar la...se burlaba de su hH1121
+- Gén_21:10echa a esta sierva y a su h, porque elH1121
+- Gén_21:10el h de...no ha de heredar con...mi hH1121
+- Gén_21:11dicho pareció grave a...a causa de su hH1121
+- Gén_21:13del h de la sierva haré una naciónH1121
+- Gén_21:23no faltarás a...ni a mi h ni a mi nietoH1121
+- Gén_22:2dijo: Toma ahora tu h, tu único, IsaacH1121
+- Gén_22:3tomó consigo dos siervos y a Isaac su hH1121
+- Gén_22:6la leña del...la puso sobre Isaac su hH1121
+- Gén_22:7padre...Y él respondió: Heme aquí, mi hH1121
+- Gén_22:8Dios se proveerá de cordero para...h míoH1121
+- Gén_22:9ató a Isaac su h, y lo puso en el altarH1121
+- Gén_22:10tomó el cuchillo para degollar a su hH1121
+- Gén_22:12por cuanto no me rehusaste tu h...únicoH1121
+- Gén_22:13carnero, y lo ofreció...en lugar de su hH1121
+- Gén_22:16y no me has rehusado tu h, tu único hH1121
+- Gén_22:20Milca ha dado a...h a Nacor tu hermanoH1121
+- Gén_22:23son los ocho h que dio a luz Milca, de
+- Gén_23:3levantó Abraham...y habló a los h de HetH1121
+- Gén_23:5y respondieron los h de Het a AbrahamH1121
+- Gén_23:7se inclinó al pueblo de...a los h de HetH1121
+- Gén_23:8interceded por mí con Efrón h de ZoharH1121
+- Gén_23:10este Efrón estaba entre los h de HetH1121
+- Gén_23:10,16,18en presencia de los h de HetH1121
+- Gén_23:11en presencia de los h de mi pueblo teH1121
+- Gén_23:20para sepultura, recibida de los h de HetH1121
+- Gén_24:3no tomarás para mi h mujer de las hijasH1121
+- Gén_24:4irás a...y tomarás mujer para mi h IsaacH1121
+- Gén_24:5¿volveré pues, tu h a la tierra de dondeH1121
+- Gén_24:6guárdate que no vuelvas a mi h alláH1121
+- Gén_24:7y tú traerás de allá mujer para mi hH1121
+- Gén_24:8solamente que no vuelvas allá a mi hH1121
+- Gén_24:15h de Milca mujer de Nacor hermano deH1121
+- Gén_24:24h de Milca, el cual ella dio a luz aH1121
+- Gén_24:36y Sara...dio a luz en su vejez un h aH1121
+- Gén_24:37no tomarás para mi h mujer de las hijasH1121
+- Gén_24:38que irás a...y tomarás mujer para mi hH1121
+- Gén_24:40para mi h mujer de mi familia y de laH1121
+- Gén_24:44la mujer que destinó Jehová para el hH1121
+- Gén_24:47respondió: Hija de Betuel h de NacorH1121
+- Gén_24:48tomar la hija del hermano...para su hH1121
+- Gén_24:51sea mujer del h de tu señor, como lo haH1121
+- Gén_25:3e h de Dedán fueron Asurim, Letusim yH1121
+- Gén_25:4e h de Madián: Efa, Efer, Hanoc, AbidaH1121
+- Gén_25:4y Elda. Todos estos fueron h de CeturaH1121
+- Gén_25:6pero a los h de sus concubinas dio...donesH1121
+- Gén_25:6los envió lejos de Isaac su h...orienteH1121
+- Gén_25:9lo sepultaron Isaac e Ismael sus h enH1121
+- Gén_25:9en la heredad de Efrón h de Zoar heteoH1121
+- Gén_25:10heredad que compró Abraham de los h deH1121
+- Gén_25:11que Dios bendijo a Isaac su h; y habitóH1121
+- Gén_25:12son los descendientes de Ismael h deH1121
+- Gén_25:13son los nombres de los h de IsmaelH1121
+- Gén_25:16estos son los h de Ismael, y estos susH1121
+- Gén_25:19los descendientes de Isaac h de AbrahamH1121
+- Gén_25:22los h luchaban dentro de ella: y dijoH1121
+- Gén_27:1llamó a Esaú su h mayor, y le dijo: HH1121
+- Gén_27:5cuando hablaba Isaac a Esaú su h; y seH1121
+- Gén_27:6Rebeca habló a Jacob su h, diciendo: HeH1121
+- Gén_27:8h mío, obedece a mi voz en lo que teH1121
+- Gén_27:13madre...H mío, sea sobre mí tu maldiciónH1121
+- Gén_27:15tomó...los vestidos de Esaú su h mayorH1121
+- Gén_27:15tomó Rebeca...vistió a Jacob su h menorH1121
+- Gén_27:17y entregó los...en manos de Jacob su hH1121
+- Gén_27:18Isaac respondió...¿quién eres, h mío?[[H1121]]
+- Gén_27:20Isaac dijo a su h: ¿Cómo es que...h mío?[[H1121]]
+- Gén_27:21y te palparé, h mío, por si eres mi hH1121
+- Gén_27:24y dijo: ¿Eres tú mi h Esaú? Y JacobH1121
+- Gén_27:25comeré de la caza de mi h, para que yoH1121
+- Gén_27:26dijo...Acércate ahora, y bésame, h míoH1121
+- Gén_27:27mira, el olor de mi h, como el olorH1121
+- Gén_27:29se inclinen ante ti los h de tu madreH1121
+- Gén_27:31coma de la caza de su h, para que meH1121
+- Gén_27:32dijo: Yo soy tu h, tu primogénito, EsaúH1121
+- Gén_27:37¿qué pues, te haré a ti ahora, h mío?[[H1121]]
+- Gén_27:42dichas...las palabras de Esaú su h mayorH1121
+- Gén_27:42y llamó a Jacob su h menor, y le dijoH1121
+- Gén_27:43h mío, obedece a mi voz; levántate yH1121
+- Gén_28:5fue a Padan-aram, a Labán h de BetuelH1121
+- Gén_28:9a Mahalat, hija de Ismael h de AbrahamH1121
+- Gén_29:5dijo: ¿Conocéis a Labán h de Nacor?[[H1121]]
+- Gén_29:12dijo a Raquel que él...era h de RebecaH1121
+- Gén_29:13oyó Labán las nuevas de Jacob, h de suH1121
+- Gén_29:31que Lea era menospreciada, y le dio hH6605, [[H7358]]
+- Gén_29:32,33,34,35concibió...y dio a luz un hH1121
+- Gén_29:34porque le he dado a luz tres h; porH1121
+- Gén_30:1viendo Raquel que no daba h a Jacob, tuvoH3205
+- Gén_30:1decía a Jacob: Dame h, o si no, me mueroH1121
+- Gén_30:3Bilha...y yo también tendré h de ellaH1129
+- Gén_30:5y concibió Bilha, y dio a luz un h aH1121
+- Gén_30:6Dios...también oyó mi voz, y me dio un hH1121
+- Gén_30:7Bilha...dio a luz un segundo h a JacobH1121
+- Gén_30:10Zilpa sierva de Lea dio a luz un h aH1121
+- Gén_30:12sierva de Lea dio a luz otro h a JacobH1121
+- Gén_30:14que me des de las mandrágoras de tu hH1121
+- Gén_30:15has de llevar las mandrágoras de mi h?[[H1121]]
+- Gén_30:15dormirá...por las mandrágoras de tu hH1121
+- Gén_30:16alquilado por las mandrágoras de mi hH1121
+- Gén_30:17Lea...y dio a luz el quinto h a JacobH1121
+- Gén_30:19Lea...y dio a luz el sexto h de JacobH1121
+- Gén_30:20dado a luz seis h; y llamó su nombreH1121
+- Gén_30:22acordó Dios de Raquel...y le concedió hH6605, [[H7358]]
+- Gén_30:23y concibió, y dio a luz un h, y dijoH1121
+- Gén_30:24José, diciendo: Añádame Jehová otro hH1121
+- Gén_30:26dame...mujeres y mis h, por las cualesH3206
+- Gén_30:35Labán apartó...y puso en mano de sus hH1121
+- Gén_31:1oía Jacob...palabras de los h de LabánH1121
+- Gén_31:16la riqueza...nuestra es y de nuestros hH1121
+- Gén_31:17sus h y sus mujeres sobre los camellosH1121
+- Gén_31:28pues ni aun me dejaste besar a mis hH1121
+- Gén_31:43los h, h míos son, y las ovejas son misH1121
+- Gén_31:43o a sus h que ellas han dado a luz?[[H1121]]
+- Gén_31:55Labán...besó sus h y sus hijas, y losH1121
+- Gén_32:11Esaú...y me hiera la madre con los hH1121
+- Gén_32:22tomó...once h, y pasó el vado de JabocH3206
+- Gén_32:32no comen los h de Israel, hasta hoy díaH1121
+- Gén_33:19mano de los h de Hamor padre de SiquemH1121
+- Gén_34:2y la vio Siquem h de Hamor...y la tomóH1121
+- Gén_34:5estando sus h con su ganado en el campoH1121
+- Gén_34:7los h de Jacob vinieron del campo cuandoH1121
+- Gén_34:8mi h Siquem se ha apegado a vuestra hijaH1121
+- Gén_34:13respondieron los h de Jacob a SiquemH1121
+- Gén_34:18sus palabras a Hamor, y a Siquem h deH1121
+- Gén_34:20entonces Hamor y Siquem su h vinieronH1121
+- Gén_34:24y obedecieron a Hamor y a Siquem su hH1121
+- Gén_34:25dos de los h de Jacob, Simeón y LevíH1121
+- Gén_34:26a Hamor y a Siquem su h los mataron aH1121
+- Gén_34:27los h de Jacob vinieron a los muertosH1121
+- Gén_35:5y no persiguieron a los h de JacobH1121
+- Gén_35:17no temas, que también tendrás este hH1121
+- Gén_35:22ahora bien los h de Israel fueron doceH1121
+- Gén_35:23los h de Lea: Rubén el primogénito deH1121
+- Gén_35:24los h de Raquel: José y BenjamínH1121
+- Gén_35:25los h de Bilha, sierva de Raquel: DanH1121
+- Gén_35:26h de Zilpa, sierva de Lea: Gad y AserH1121
+- Gén_35:26estos fueron los h de Jacob, que leH1121
+- Gén_35:29y lo sepultaron Esaú y Jacob sus hH1121
+- Gén_36:2a Aholibama, hija de Aná, h de ZibeónH1323
+- Gén_36:5a Coré; estos son los h de Esaú, que leH1121
+- Gén_36:6tomó sus mujeres, sus h y sus hijas, yH1121
+- Gén_36:10los h de Esaú: Elifaz, h de Ada mujerH1121
+- Gén_36:10Reuel, h de Basemat mujer de EsaúH1121
+- Gén_36:11h de Elifaz fueron Temán, Omar, ZefoH1121
+- Gén_36:12Timna fue concubina de Elifaz h de EsaúH1121
+- Gén_36:12estos son los h de Ada, mujer de EsaúH1121
+- Gén_36:13h de Reuel fueron Nahat, Zera, Sama yH1121
+- Gén_36:13,17son los h de Basemat mujer de EsaúH1121
+- Gén_36:14,18son los h de Aholibama mujer de EsaúH1121
+- Gén_36:14hija de Aná, que fue h de Zibeón; ellaH1323
+- Gén_36:14dio a luz a...Jalaam y Coré, h de Esaú
+- Gén_36:15los jefes de entre los h de Esaú: deH1121
+- Gén_36:16Coré, Gatam y...estos fueron los h de AdaH1121
+- Gén_36:17y estos son los h de Reuel, h de EsaúH1121
+- Gén_36:19son los h de Esaú, y sus jefes; él esH1121
+- Gén_36:20h de Seir horeo, moradores de aquellaH1121
+- Gén_36:21son...h de Seir, en la tierra de EdomH1121
+- Gén_36:22h de Lotán...Hori y Heman; y TimnaH1121
+- Gén_36:23los h de Sobal fueron Alván, ManahatH1121
+- Gén_36:24los h de Zibeón fueron Aja y Aná. EsteH1121
+- Gén_36:25los h de Aná fueron Disón, y AholibamaH1121
+- Gén_36:26fueron los h de Disón: Hemdán, EsbánH1121
+- Gén_36:27y estos fueron los h de Ezer: BilhánH1121
+- Gén_36:28estos fueron los h de Disán: Uz y AránH1121
+- Gén_36:31antes que...rey sobre los h de IsraelH1121
+- Gén_36:32Bela h de Beor reinó en Edom; y elH1121
+- Gén_36:33reinó en su lugar Jobab h de Zera, deH1121
+- Gén_36:38murió...y reinó Baal-hanán h de AcborH1121
+- Gén_36:39y murió Baal-hanán h de Acor, y reinóH1121
+- Gén_37:2estaba con los h de Bilha y con los h deH1121
+- Gén_37:3y amaba...a José más que a todos sus hH1121
+- Gén_37:32reconoce ahora si es la túnica de tu hH1121
+- Gén_37:33y dijo: La túnica de mi h es; algunaH1121
+- Gén_37:34y guardó luto por su h muchos díasH1121
+- Gén_37:35se levantaron todos sus h y todas susH1121
+- Gén_37:35descenderé enlutado a mi h hasta elH1121
+- Gén_38:3y ella concibió, y dio a luz un h...ErH1121
+- Gén_38:4dio a luz un h, y llamó su nombre OnánH1121
+- Gén_38:5dio a luz un h, y llamó su nombre SelaH1121
+- Gén_38:11quédate...hasta que crezca Sela mi hH1121
+- Gén_38:26por cuanto no la he dado a Sela mi hH1121
+- Gén_41:50y nacieron a José dos h antes...hambreH1121
+- Gén_42:1a sus h: ¿Por qué os estáis mirando?[[H1121]]
+- Gén_42:5vinieron los h de Israel a comprar entreH1121
+- Gén_42:11todos nosotros somos h de un varónH1121
+- Gén_42:13hermanos, h de un varón en la tierraH1121
+- Gén_42:32somos doce hermanos, h de nuestro padreH1121
+- Gén_42:36me habéis privado de mis h: José no
+- Gén_42:37harás morir a mis dos h, si no te loH1121
+- Gén_42:38no descenderá mi h con vosotros, puesH1121
+- Gén_43:14y si he de ser privado de mis h, séalo
+- Gén_43:29vio a Benjamín...h de su madre, y dijoH1121
+- Gén_43:29Dios tenga misericordia de ti, h míoH1121
+- Gén_44:20y él solo quedó de los h de su madreH3206
+- Gén_44:27vosotros sabéis que dos h me dio a luz
+- Gén_45:9así dice tu h José: Dios me ha puestoH1121
+- Gén_45:10cerca de mí...tus h, y los h de tus hH1121
+- Gén_45:21lo hicieron así los h de Israel; y lesH1121
+- Gén_45:28José mi h vive todavía; iré, y le veréH1121
+- Gén_46:5tomaron los h de Israel a su padre, y aH1121
+- Gén_46:7sus h, y los h de sus h consigo; susH1121
+- Gén_46:7hijas, y las hijas de sus h, y a todaH1121
+- Gén_46:8los h de Israel...Jacob y sus h: RubénH1121
+- Gén_46:9y los h de Rubén: Hanoc, Falú, HezrónH1121
+- Gén_46:10los h de Simeón...Saúl h de la cananeaH1121
+- Gén_46:11los h de Leví: Gersón, Coat y MerariH1121
+- Gén_46:12los h de Judá: Er, Onán, Sela, FaresH1121
+- Gén_46:12los h de Fares fueron Hezrón y HamulH1121
+- Gén_46:13h de Isacar: Tola, Fúa, Job y SimrónH1121
+- Gén_46:14h de Zabulón: Sered, Elón y JahleelH1121
+- Gén_46:15h de Lea...treinta y tres...h e hijasH1121
+- Gén_46:16h de Gad: Zifión, Hagui, Ezbón, SuniH1121
+- Gén_46:17h de Aser: Imna, Isúa, Isúi, Bería yH1121
+- Gén_46:17los h de Bería: Heber y MalquielH1121
+- Gén_46:18éstos fueron los h de Zilpa, la queH1121
+- Gén_46:19los h de Raquel, mujer de Jacob: JoséH1121
+- Gén_46:21los h de Benjamín fueron Bela, BequerH1121
+- Gén_46:22fueron los h de Raquel, que nacieronH1121
+- Gén_46:23los h de Dan: HusimH1121
+- Gén_46:24h de Neftalí: Jahzeel, Guni, Jezer yH1121
+- Gén_46:25éstos fueron los h de Bilha, la queH1121
+- Gén_46:26sin las mujeres de los h de Jacob...66H1121
+- Gén_46:27h de José, que le nacieron en EgiptoH1121
+- Gén_47:12alimentaba...según el número de los hH2945
+- Gén_47:29llamó a José su h, y le dijo: Si heH1121
+- Gén_48:1consigo a sus dos h, Manasés y EfraínH1121
+- Gén_48:2se le hizo saber...tu h José viene a tiH1121
+- Gén_48:5h Efraín y Manasés, que te nacieron enH1121
+- Gén_48:8vio Israel los h de José, y...¿Quiénes sonH1121
+- Gén_48:9respondió José...Son mis h, que Dios meH1121
+- Gén_48:19padre no quiso, y dijo: Lo sé, h míoH1121
+- Gén_49:1llamó Jacob a sus h, y dijo: JuntaosH1121
+- Gén_49:2juntaos y oíd, h de Jacob, y escuchadH1121
+- Gén_49:8los h de tu padre se inclinarán a tiH1121
+- Gén_49:9león, Judá; de la presa subiste, h míoH1121
+- Gén_49:11atando a la...a la cepa el h de su asnaH1121
+- Gén_49:32la compra del campo...de los h de HetH1121
+- Gén_49:33acabó...de dar mandamientos a sus hH1121
+- Gén_50:12hicieron, pues, sus h con él según lesH1121
+- Gén_50:13pues lo llevaron sus h a la tierra deH1121
+- Gén_50:21sustentaré a vosotros y a vuestros hH2945
+- Gén_50:23y vio José los h de Efraín hasta laH1121
+- Gén_50:23también los h de Maquir h de ManasésH1121
+- Gén_50:25e hizo jurar José a los h de IsraelH1121
+- Éxo_1:1son los nombres de los h de Israel queH1121
+- Éxo_1:7y los h de Israel fructificaron y seH1121
+- Éxo_1:9el pueblo de los h de Israel es mayor yH1121
+- Éxo_1:12los egipcios temían a los h de IsraelH1121
+- Éxo_1:13los egipcios hicieron servir a los h deH1121
+- Éxo_1:16si es h, matadlo; y si es hija, que vivaH1121
+- Éxo_1:22al río a todo h...a toda hija preservadH1121
+- Éxo_2:2a luz un h; y viéndolo que era hermosoH1121
+- Éxo_2:22y ella le dio a luz un h; y él le pusoH1121
+- Éxo_2:23los h de Israel gemían a causa de laH1121
+- Éxo_2:25y miró Dios a los h de Israel, y losH1121
+- Éxo_3:9el clamor, pues, de los h de Israel haH1121
+- Éxo_3:10saques de...a mi pueblo, los h de IsraelH1121
+- Éxo_3:11y saque de Egipto a los h de Israel?[[H1121]]
+- Éxo_3:13llego yo a los h de Israel, y les digoH1121
+- Éxo_3:14así dirás a los h de Israel: Yo soyH1121
+- Éxo_3:15así dirás a los h de Israel: Jehová, elH1121
+- Éxo_3:22alhajas de...pondréis sobre vuestros h yH1121
+- Éxo_4:20entonces Moisés tomó su mujer y sus hH1121
+- Éxo_4:22Jehová ha dicho así: Israel es mi h, miH1121
+- Éxo_4:23dejes ir a mi h...yo voy a matar a tu hH1121
+- Éxo_4:25cortó el prepucio de su h, y lo echó aH1121
+- Éxo_4:29reunieron a...los ancianos de los h deH1121
+- Éxo_4:31Jehová había visitado a los h de IsraelH1121
+- Éxo_5:14y azotaban a los capataces de los h deH1121
+- Éxo_5:15capataces de los h de Israel vinieronH1121
+- Éxo_5:19capataces de los h de Israel se vieronH1121
+- Éxo_6:5yo he oído el gemido de los h de IsraelH1121
+- Éxo_6:6por tanto, dirás a los h de Israel: YoH1121
+- Éxo_6:9de esta manera habló Moisés a los h deH1121
+- Éxo_6:11deje ir de su tierra a los h de IsraelH1121
+- Éxo_6:12los h de Israel no me escuchan; ¿cómoH1121
+- Éxo_6:13dio mandamiento para los h de IsraelH1121
+- Éxo_6:13para que sacasen a los h de Israel deH1121
+- Éxo_6:14h de Rubén, el primogénito de IsraelH1121
+- Éxo_6:15los h de Simeón: Jemuel, Jamín, OhadH1121
+- Éxo_6:15Jaquín, Zohar, y Saúl h de una cananeaH1121
+- Éxo_6:16estos son los nombres de los h de LevíH1121
+- Éxo_6:17los h de Gersón: Libni y Simei, por susH1121
+- Éxo_6:18y los h de Coat: Amram, Izhar, HebrónH1121
+- Éxo_6:19y los h de Merari: Mahli y Musi. EstasH1121
+- Éxo_6:21los h de lzhar: Coré, Nefeg y ZicriH1121
+- Éxo_6:22los h de Uziel: Misael, Elzafán y SitriH1121
+- Éxo_6:24los h de Coré: Asir, Elcana y AbiasafH1121
+- Éxo_6:25Eleazar h de Aarón tomó para sí mujer deH1121
+- Éxo_6:26sacad a los h de Israel de la tierra deH1121
+- Éxo_6:27para sacar de Egipto a los h de IsraelH1121
+- Éxo_7:2deje ir de su tierra a los h de IsraelH1121
+- Éxo_7:4sacaré a...los h de Israel, de la tierraH1121
+- Éxo_7:5y saque a los h de Israel de en medio deH1121
+- Éxo_9:4nada muera de todo lo de los h de IsraelH1121
+- Éxo_9:6del ganado de los h de Israel no murióH1121
+- Éxo_9:7del ganado de los h de Israel no había
+- Éxo_9:26de Gosén, donde estaban los h de IsraelH1121
+- Éxo_9:35y no dejó ir a los h de Israel, comoH1121
+- Éxo_10:2que cuentes a tus h y a tus nietos lasH1121
+- Éxo_10:9hemos de ir con...nuestros h y...hijasH1121
+- Éxo_10:20Faraón...no dejó ir a los h de IsraelH1121
+- Éxo_10:23mas todos los h de Israel tenían luzH1121
+- Éxo_11:7contra todos los h de Israel, desde elH1121
+- Éxo_11:10y no envió a los h de Israel fuera deH1121
+- Éxo_12:24estatuto para vosotros y...vuestros hH1121
+- Éxo_12:26dijeren vuestros h: ¿Qué es este ritoH1121
+- Éxo_12:27pasó...las casas de los h de Israel enH1121
+- Éxo_12:28los h de Israel fueron e hicieron...asíH1121
+- Éxo_12:31salid de...vosotros y los h de IsraelH1121
+- Éxo_12:35hicieron los h de Israel conforme alH1121
+- Éxo_12:37partieron los h de Israel de Ramesés aH1121
+- Éxo_12:40el tiempo que los h de Israel habitaronH1121
+- Éxo_12:42noche deben guardarla...los h de IsraelH1121
+- Éxo_12:50así lo hicieron todos los h de IsraelH1121
+- Éxo_12:51sacó Jehová a los h de Israel...de EgiptoH1121
+- Éxo_13:2todo primogénito...entre los h de IsraelH1121
+- Éxo_13:8contarás en aquel día a tu h, diciendoH1121
+- Éxo_13:13también redimirás al primogénito de...hH1121
+- Éxo_13:14pregunte tu h, diciendo: ¿Qué es esto?[[H1121]]
+- Éxo_13:15yo...redimo al primogénito de mis hH1121
+- Éxo_13:18subieron los h de Israel de...armadosH1121
+- Éxo_13:19juramentado a los h de Israel, diciendoH1121
+- Éxo_14:2di a los h de Israel que den la vuelta yH1121
+- Éxo_14:3de los h de Israel: Encerrados están enH1121
+- Éxo_14:8Faraón rey de...siguió a los h de IsraelH1121
+- Éxo_14:8pero los h de Israel habían salido conH1121
+- Éxo_14:10los h de Israel alzaron sus ojos, y heH1121
+- Éxo_14:10egipcios venían...h de Israel temieronH1121
+- Éxo_14:15a mí? Dí a los h de Israel que marchenH1121
+- Éxo_14:16entren los h de Israel por en medio delH1121
+- Éxo_14:22los h de Israel entraron por en medioH1121
+- Éxo_14:29los h de Israel fueron por en medio delH1121
+- Éxo_15:1entonces cantó Moisés y los h de IsraelH1121
+- Éxo_15:19los h de Israel pasaron en seco por enH1121
+- Éxo_16:1partió luego de Elim...los h de IsraelH1121
+- Éxo_16:2congregación de los h de Israel murmuróH1121
+- Éxo_16:3decían los h de Israel: Ojalá...muertoH1121
+- Éxo_16:6dijeron...Aarón a todos los h de IsraelH1121
+- Éxo_16:9di a toda la congregación de los h deH1121
+- Éxo_16:10hablando Aarón a...de los h de IsraelH1121
+- Éxo_16:12he oído las murmuraciones de los h deH1121
+- Éxo_16:15y viéndolo los h de Israel, se dijeronH1121
+- Éxo_16:17y los h de Israel lo hicieron así; yH1121
+- Éxo_16:35comieron los h de Israel maná 40 añosH1121
+- Éxo_17:1congregación de los h de Israel partióH1121
+- Éxo_17:3para matarnos de sed...a nuestros h y aH1121
+- Éxo_17:7por la rencilla de los h de Israel, yH1121
+- Éxo_18:3a sus dos h; el uno se llamaba GersónH1121
+- Éxo_18:5suegro de...con los h y la mujer de ésteH1121
+- Éxo_18:6yo...vengo a ti con tu mujer, y sus dos hH1121
+- Éxo_19:1el mes tercero de la salida de los h deH1121
+- Éxo_19:3así dirás...anunciarás a los h de IsraelH1121
+- Éxo_19:6las palabras que dirás a los h de IsraelH1121
+- Éxo_20:5maldad de los padres sobre los h hastaH1121
+- Éxo_20:10no hagas en él obra...tu h, ni tu hijaH1121
+- Éxo_20:22así dirás a los h de Israel: VosotrosH1121
+- Éxo_21:4le hubiere dado mujer, y ella le diere hH1121
+- Éxo_21:4la mujer y sus h serán de su amo, y élH3206
+- Éxo_21:5yo amo a mi señor, a mi mujer y a mis hH1121
+- Éxo_21:9si la hubiere desposado con su h, haráH1121
+- Éxo_21:31acorneado a h, o haya acorneado a hijaH1121
+- Éxo_22:24serán viudas, y huérfanos vuestros hH1121
+- Éxo_22:29lagar. Me darás el primogénito de tus hH1121
+- Éxo_23:12tome refrigerio el h de tu sierva, yH1121
+- Éxo_24:5envió jóvenes de los h de Israel, losH1121
+- Éxo_24:11sobre los príncipes de los h de IsraelH1121
+- Éxo_24:17como un fuego...a los ojos de los h deH1121
+- Éxo_25:2di a los h de Israel que tomen...ofrendaH1121
+- Éxo_25:22que yo te mandare para los h de IsraelH1121
+- Éxo_27:20los h de Israel que te traigan aceiteH1121
+- Éxo_27:21las pondrá en orden Aarón y sus h paraH1121
+- Éxo_27:21estatuto perpetuo de los h de IsraelH1121
+- Éxo_28:1Aarón...sus h...de entre los h de IsraelH1121
+- Éxo_28:1y a Nadab, Abiú, Eleazar e Itamar h deH1121
+- Éxo_28:4para sus h, para que sean mis sacerdotesH1121
+- Éxo_28:9grabarás en ellas los nombres de los hH1121
+- Éxo_28:11grabar...los nombres de los h de IsraelH1121
+- Éxo_28:12piedras memoriales a los h de IsraelH1121
+- Éxo_28:21según los nombres de los h de IsraelH1121
+- Éxo_28:29llevará Aarón los nombres de los h deH1121
+- Éxo_28:30llevará...el juicio de los h de IsraelH1121
+- Éxo_28:38que los h de Israel hubieren consagradoH1121
+- Éxo_28:40y para los h de Aarón harás túnicasH1121
+- Éxo_28:41vestirás a Aarón tu hermano, y a sus hH1121
+- Éxo_28:43y estarán sobre Aarón y...sus h cuandoH1121
+- Éxo_29:4llevarás a Aarón y a sus h a la puertaH1121
+- Éxo_29:8que se acerquen sus h, y les vestirás lasH1121
+- Éxo_29:9les ceñirás el cinto a Aarón y a sus hH1121
+- Éxo_29:9así consagraría a Aarón y a sus hH1121
+- Éxo_29:10,15,19Aarón y sus h pondrán sus manosH1121
+- Éxo_29:20sobre el lóbulo de la oreja de sus hH1121
+- Éxo_29:21rociarás sobre Aarón...sobre sus h, yH1121
+- Éxo_29:21sus h, y las vestiduras de sus h con élH1121
+- Éxo_29:24en las manos de Aarón...manos de sus hH1121
+- Éxo_29:27las consagraciones de Aarón y de sus hH1121
+- Éxo_29:28para Aarón y para sus h como estatutoH1121
+- Éxo_29:28perpetuo para los h de Israel, porqueH1121
+- Éxo_29:28una ofrenda elevada de los h de IsraelH1121
+- Éxo_29:29vestiduras...de Aarón, serán de sus hH1121
+- Éxo_29:30vestirá el que de sus h tome su lugarH1121
+- Éxo_29:32y Aarón y sus h comerán la carne delH1121
+- Éxo_29:35harás a Aarón y a sus h...te he mandadoH1121
+- Éxo_29:43allí me reuniré con los h de IsraelH1121
+- Éxo_29:44santificaré...a Aarón y a sus h, paraH1121
+- Éxo_29:45habitaré entre los h de Israel, y seréH1121
+- Éxo_30:12cuando tomes el número de...h de IsraelH1121
+- Éxo_30:16tomarás de los h de Israel el dineroH1121
+- Éxo_30:16y será por memorial a los h de IsraelH1121
+- Éxo_30:19lavarán Aarón y sus h las manos y losH1121
+- Éxo_30:30ungirás también a Aarón y a sus h, yH1121
+- Éxo_30:31; 31:13; Lev_1:2; 4:2; 7:23,29; 9:3; 11:2; 12:2; 15:2; 18:2; 23:2,10,24,34; 24:15; 25:2; 27:2; Núm_5:12; 6:2; 9:10; 15:2,18,38; 27:8; 33:51; 35:10habla a los h de Israel, y dilesH1121
+- Éxo_31:2llamado...a Bezaleel h de Uri, h de HurH1121
+- Éxo_31:6puesto con él a Aholiab h de AhisamacH1121
+- Éxo_31:10vestiduras de sus h para que ejerzanH1121
+- Éxo_31:16guardarán...el día de reposo los h deH1121
+- Éxo_31:17señal es...entre mí y los h de IsraelH1121
+- Éxo_32:2zarcillos...en las orejas de...vuestros hH1121
+- Éxo_32:20polvo...lo dio a beber a los h de IsraelH1121
+- Éxo_32:26se juntaron con él todos los h de LevíH1121
+- Éxo_32:28los h de Leví lo hicieron conforme alH1121
+- Éxo_32:29cada uno se ha consagrado en su h y enH1121
+- Éxo_33:5di a los h de Israel...de dura cervizH1121
+- Éxo_33:6los h de Israel se despojaron...AtavíosH1121
+- Éxo_33:11el joven Josué h de Nun, su servidorH1121
+- Éxo_34:7sobre los h y sobre los h de los h, hastaH1121
+- Éxo_34:16o tomando de sus hijas para tus h, yH1121
+- Éxo_34:16fornicar...tus h en pos de los diosesH1121
+- Éxo_34:20redimirás todo primogénito de tus hH1121
+- Éxo_34:30Aarón y todos los h de Israel miraronH1121
+- Éxo_34:32se acercaron todos los h de Israel, aH1121
+- Éxo_34:34decía a los h de Israel...le era mandadoH1121
+- Éxo_34:35al mirar los h de Israel el rostro deH1121
+- Éxo_35:1convocó a...la congregación de los h deH1121
+- Éxo_35:4habló Moisés a toda...de los h de IsraelH1121
+- Éxo_35:19las vestiduras de sus h para servir enH1121
+- Éxo_35:20salió toda la congregación de los h deH1121
+- Éxo_35:29de los h de Israel, así hombres comoH1121
+- Éxo_35:30dijo Moisés a los h de Israel: MiradH1121
+- Éxo_35:30a Bezaleel h de Uri, h de Hur, de laH1121
+- Éxo_35:34Aholiab h de Ahisamac, de la tribu deH1121
+- Éxo_36:3la ofrenda que los h de Israel habíanH1121
+- Éxo_38:21bajo la dirección de Itamar h...AarónH1121
+- Éxo_38:22y Bezaleel h de Uri, h de Hur, de laH1121
+- Éxo_38:23y con él estaba Aholiab h de AhisamacH1121
+- Éxo_39:6grabaduras...con los nombres de los h deH1121
+- Éxo_39:7piedras memoriales para los h de IsraelH1121
+- Éxo_39:14conforme a...nombres de los h de IsraelH1121
+- Éxo_39:27las túnicas...para Aarón y para sus hH1121
+- Éxo_39:32hicieron los h de Israel como JehováH1121
+- Éxo_39:41vestiduras de sus h, para ministrar enH1121
+- Éxo_39:42hicieron los h de Israel toda la obraH1121
+- Éxo_40:12llevarás a Aarón y a sus h a la puertaH1121
+- Éxo_40:14harás que se acerquen sus h...vestirásH1121
+- Éxo_40:31Moisés y Aarón y sus h lavaban en ellaH1121
+- Éxo_40:36los h de Israel se movían en todas susH1121
+- Lev_1:5los sacerdotes h de Aarón ofreceránH1121
+- Lev_1:7los h del sacerdote Aarón pondrán fuegoH1121
+- Lev_1:8los...h de Aarón acomodarán las piezasH1121
+- Lev_1:11h de Aarón rociarán su sangre sobre elH1121
+- Lev_2:2la traerá a los sacerdotes, h de AarónH1121
+- Lev_2:3,10que resta...será de Aarón y de sus hH1121
+- Lev_3:2sacerdotes h de Aarón rociarán su sangreH1121
+- Lev_3:5h de Aarón harán arder esto en el altarH1121
+- Lev_3:8,13h de Aarón rociarán su sangre sobreH1121
+- Lev_6:9manda a Aarón y a sus h, y diles: EstaH1121
+- Lev_6:14la ofrecerán los h de Aarón delante deH1121
+- Lev_6:16el sobrante...lo comerán Aarón y sus hH1121
+- Lev_6:18los varones...h de Aarón comerán de ellaH1121
+- Lev_6:20esta es la ofrenda de Aarón y de sus hH1121
+- Lev_6:22sacerdote...fuere ungido de entre sus hH1121
+- Lev_6:25habla a Aarón y a sus h, y diles: EstaH1121
+- Lev_7:10ofrenda...será de todos los h de AarónH1121
+- Lev_7:31mas el pecho será de Aarón y de sus hH1121
+- Lev_7:33el que de los h de Aarón ofreciere laH1121
+- Lev_7:34de los sacrificios de paz de los h deH1121
+- Lev_7:34dado a Aarón...y a sus h, como estatutoH1121
+- Lev_7:34estatuto perpetuo para los h de IsraelH1121
+- Lev_7:35esta es la porción de Aarón...de sus hH1121
+- Lev_7:36él los ungió de entre los h de IsraelH1121
+- Lev_7:38el día que mandó a los h de Israel queH1121
+- Lev_8:2toma a Aarón y a sus h con él, y lasH1121
+- Lev_8:6hizo acercarse a Aarón y a sus h, y losH1121
+- Lev_8:13acercarse los h de Aarón, y les vistióH1121
+- Lev_8:14,18,22Aarón y sus h pusieron sus manosH1121
+- Lev_8:24hizo acercarse luego los h de Aarón, yH1121
+- Lev_8:27y lo puso todo...en las manos de sus hH1121
+- Lev_8:30sobre sus h...las vestiduras de sus hH1121
+- Lev_8:30santificó...h y las vestiduras de sus hH1121
+- Lev_8:31y dijo Moisés a Aarón y a sus h: ComedH1121
+- Lev_8:31he mandado...Aarón y sus h la comeránH1121
+- Lev_8:36Aarón y sus h hicieron todas las cosasH1121
+- Lev_9:1Moisés llamó a Aarón y a sus h, y a losH1121
+- Lev_9:9y los h de Aarón le trajeron la sangreH1121
+- Lev_9:12,18h de Aarón le presentaron la sangreH1121
+- Lev_10:1h de Aarón, tomaron cada uno...incensarioH1121
+- Lev_10:4llamó Moisés...h de Uziel tío de AarónH1121
+- Lev_10:6,12Moisés dijo a Aarón, y a...sus hH1121
+- Lev_10:9tú, y tus h contigo, no beberéis vinoH1121
+- Lev_10:11enseñar a los h de Israel...estatutosH1121
+- Lev_10:13porque esto es para ti y para tus h, deH1121
+- Lev_10:14comeréis...tus h y tus hijas contigoH1121
+- Lev_10:14derecho son tuyos y de tus h, dados deH1121
+- Lev_10:14sacrificios de paz de los h de IsraelH1121
+- Lev_10:15por derecho perpetuo tuyo y de tus hH1121
+- Lev_10:16Moisés...enojó contra...los h...de AarónH1121
+- Lev_12:6los días de su...fueren cumplidos, por hH1121
+- Lev_12:7esta es la ley para la que diere a luz hH2145
+- Lev_13:2será traído a Aarón...o a uno de sus hH1121
+- Lev_15:31apartaréis de sus impurezas a los hH1121
+- Lev_16:1después de la muerte de los dos h deH1121
+- Lev_16:5de la congregación de los h de IsraelH1121
+- Lev_16:16de las impurezas de los h de IsraelH1121
+- Lev_16:19de las inmundicias de los h de IsraelH1121
+- Lev_16:21confesará...las iniquidades de los h deH1121
+- Lev_17:2a Aarón y a sus h, y a todos los h deH1121
+- Lev_17:5fin de que traigan los h de Israel susH1121
+- Lev_17:12por tanto, he dicho a los h de IsraelH1121
+- Lev_17:13cualquier varón de los h de Israel, oH1121
+- Lev_17:14dicho a: los h de Israel: No comeréisH1121
+- Lev_18:10la desnudez de la hija de tu h, o deH1121
+- Lev_18:15mujer es de tu h, no descubrirás suH1121
+- Lev_18:17no tomarás la hija de sus h, ni la hijaH1121
+- Lev_18:21no des h tuyo para ofrecerlo por fuegoH2233
+- Lev_19:2habla a toda la congregación de los hH1121
+- Lev_19:18ni guardarás rencor a...h de tu puebloH1121
+- Lev_20:2a los h de Israel: Cualquier varón deH1121
+- Lev_20:2h de Israel...que ofreciere...h a MolocH1121, [[H2233]]
+- Lev_20:3dio de sus h a Moloc, contaminando miH2233
+- Lev_20:4varón que hubiere dado de sus h a MolocH2233
+- Lev_20:17muertos a ojos de los h de su puebloH1121
+- Lev_20:20su pecado llevarán; morirán sin hH6185
+- Lev_20:21desnudez de su...descubrió; sin h seránH6185
+- Lev_21:1habla a los sacerdotes h de Aarón, yH1121
+- Lev_21:2su padre, o por su h o por su hermanoH1121
+- Lev_21:24a Aarón, y a sus h, y a todos los h deH1121
+- Lev_22:2di a Aarón y a sus h que se abstenganH1121
+- Lev_22:2cosas santas que los h de Israel me hanH1121
+- Lev_22:3cosas...que los h de Israel consagran aH1121
+- Lev_22:15las cosas santas de los h de IsraelH1121
+- Lev_22:18a Aarón y a su h, y a todos los h deH1121
+- Lev_22:28no degollaréis en un...a ella y a su hH1121
+- Lev_22:32sea santificado en medio de los h deH1121
+- Lev_23:43tabernáculos hice yo habitar a los hH1121
+- Lev_23:44habló Moisés a los h de Israel sobreH1121
+- Lev_24:2manda a los h de Israel que te traiganH1121
+- Lev_24:8en orden...en nombre de los h de IsraelH1121
+- Lev_24:9será de Aarón y de sus h, los cuales loH1121
+- Lev_24:10el h de una mujer israelita, el cual eraH1121
+- Lev_24:10h de un egipcio...entre los h de IsraelH1121
+- Lev_24:10el h de la israelita y un hombre...riñeronH1121
+- Lev_24:11y el h de la mujer...blasfemó el NombreH1121
+- Lev_24:23habló Moisés a los h de Israel, y ellosH1121
+- Lev_24:23los h de Israel hicieron según JehováH1121
+- Lev_25:33son la posesión de ellos entre los h deH1121
+- Lev_25:41saldrá libre de tu...él y sus h consigoH1121
+- Lev_25:45comprar de los h de los forasteros queH1121
+- Lev_25:46los podréis dejar en...para vuestros hH1121
+- Lev_25:46en...los h de Israel no os enseñorearéisH1121
+- Lev_25:49su tío o el h de su tío lo rescataráH1121
+- Lev_25:54el año del jubileo saldrá, él y sus hH1121
+- Lev_25:55porque mis siervos son los h de IsraelH1121
+- Lev_26:22fieras que os arrebaten vuestros h, yH7921
+- Lev_26:29comeréis la carne de vuestros h...hijasH1121
+- Lev_26:46estatutos...entre sí y los h de IsraelH1121
+- Lev_27:34los mandamientos...para los h de IsraelH1121
+- Núm_1:2tomad el censo de...de los h de IsraelH1121
+- Núm_1:5de la tribu de Rubén, Elisur h de SedeurH1121
+- Núm_1:6de Simeón, Selumiel h de ZurisadaiH1121
+- Núm_1:7de Judá, Naasón h de AminadabH1121
+- Núm_1:8de Isacar, Natanael h de ZuarH1121
+- Núm_1:9de Zabulón, Eliab h de HelónH1121
+- Núm_1:10los h de José: de Efraín, Elisama hH1121
+- Núm_1:10de Manasés, Gamaliel h de PedasurH1121
+- Núm_1:11de Benjamín, Abidán h de GedeoniH1121
+- Núm_1:12de Dan, Ahiezer h de AmisadaiH1121
+- Núm_1:13de Aser, Pagiel h de OcránH1121
+- Núm_1:14de Gad, Eliasaf h de DeuelH1121
+- Núm_1:15de Neftalí, Ahira h de EnánH1121
+- Núm_1:20los h de Rubén, primogénito de IsraelH1121
+- Núm_1:22de los h de Simeón, por su descendenciaH1121
+- Núm_1:24de los h de Gad, por su descendenciaH1121
+- Núm_1:26de los h de Judá, por su descendenciaH1121
+- Núm_1:28de los h de Isacar, por su descendenciaH1121
+- Núm_1:30los h de Zabulón, por su descendenciaH1121
+- Núm_1:32de los h de José: de los h de EfraínH1121
+- Núm_1:34los h de Manasés, por su descendenciaH1121
+- Núm_1:36los h de Benjamín, por su descendenciaH1121
+- Núm_1:38de los h de Dan, por su descendenciaH1121
+- Núm_1:40de los h de Aser, por su descendenciaH1121
+- Núm_1:42los h de Neftalí, por su descendenciaH1121
+- Núm_1:45todos los contados de los h de IsraelH1121
+- Núm_1:49ni tomarás la cuenta de...entre los h deH1121
+- Núm_1:52los h de Israel acamparán cada uno en suH1121
+- Núm_1:53que no haya ira sobre...los h de IsraelH1121
+- Núm_1:54e hicieron los h de Israel conforme aH1121
+- Núm_2:2h de Israel acamparán cada uno junto aH1121
+- Núm_2:3y el jefe de los h de Judá, Naasón h deH1121
+- Núm_2:5jefe de los h de Isacar, Natanael h deH1121
+- Núm_2:7el jefe de los h de Zabulón, Eliab h deH1121
+- Núm_2:10y el jefe de los h de Rubén, Elisur hH1121
+- Núm_2:12el Jefe de los h de Simeón, Selumiel hH1121
+- Núm_2:14el jefe de los h de Gad, Eliasaf h deH1121
+- Núm_2:18el Jefe de los h de Efraín, Elisama hH1121
+- Núm_2:20el jefe de los h de Manasés, Gamaliel hH1121
+- Núm_2:22jefe de los h de Benjamín, Abidán h deH1121
+- Núm_2:25el jefe de los h de Dan, Ahiezer h deH1121
+- Núm_2:27el jefe de los h de Aser, Pagiel h deH1121
+- Núm_2:29el jefe de los h de Neftalí, Ahira h deH1121
+- Núm_2:32estos son los contados de los h de IsraelH1121
+- Núm_2:33levitas no fueron contados entre los hH1121
+- Núm_2:34e hicieron los h de Israel conforme aH1121
+- Núm_3:2,3estos son los nombres de los h de AarónH1121
+- Núm_3:4Nadab y Abiú murieron...y no tuvieron hH1121
+- Núm_3:8lo encargado a ellos por los h de IsraelH1121
+- Núm_3:9y darás los levitas a Aarón y a sus hH1121
+- Núm_3:9le son...dados de entre los h de IsraelH1121
+- Núm_3:10a Aarón y a sus h para que ejerzan suH1121
+- Núm_3:12he tomado a los levitas de...h de IsraelH1121
+- Núm_3:12primeros nacidos entre los h de IsraelH1121
+- Núm_3:15cuenta los h de Leví según las casasH1121
+- Núm_3:17h de Leví fueron estos por sus nombresH1121
+- Núm_3:18los nombres de los h de Gersón por susH1121
+- Núm_3:19h de Coat por sus familias son: AmramH1121
+- Núm_3:20los h de Merari por sus familias: MahliH1121
+- Núm_3:24jefe...de los gersonitas, Eliasaf h deH1121
+- Núm_3:25a cargo de los h de Gersón...estarán elH1121
+- Núm_3:29familias de los h de Coat acamparán alH1121
+- Núm_3:30el jefe...de Coat, Elisafán h de UzielH1121
+- Núm_3:32principal de los Jefes...será Eleazar hH1121
+- Núm_3:35el jefe...de Merari, Zuriel h de AbihailH1121
+- Núm_3:36a cargo de los h de Merari estará laH1121
+- Núm_3:38serán Moisés y Aarón y sus h, teniendoH1121
+- Núm_3:38la guarda...en lugar de los h de IsraelH1121
+- Núm_3:40cuenta...primogénitos varones de los h deH1121
+- Núm_3:41,42,45,46primogénitos de los h de IsraelH1121
+- Núm_3:41de los animales de los h de Israel. YoH1121
+- Núm_3:48darás a Aarón y a sus h el dinero delH1121
+- Núm_3:50recibió...de los h de Israel, en dineroH1121
+- Núm_3:51Moisés dio el dinero...a Aarón y a sus hH1121
+- Núm_4:2de los h de Coat de entre los h de LevíH1121
+- Núm_4:4el oficio de los h de Coat en...será esteH1121
+- Núm_4:5vendrán Aarón y sus h y desarmarán elH1121
+- Núm_4:15cuando acaben Aarón y sus h de cubrir elH1121
+- Núm_4:15vendrán después de ello los h de CoatH1121
+- Núm_4:15estas serán las cargas de los h de CoatH1121
+- Núm_4:16pero a cargo de Eleazar h del sacerdoteH1121
+- Núm_4:19Aarón y sus h...pondrán a cada uno en suH1121
+- Núm_4:22toma también el número de los h de GersónH1121
+- Núm_4:27según la orden de Aarón y de sus h seráH1121
+- Núm_4:27todo el ministerio de los h de Gersón enH1121
+- Núm_4:28este es el servicio...de los h de GersónH1121
+- Núm_4:28bajo la...de Itamar h del sacerdote AarónH1121
+- Núm_4:29contarás los h de Merari por...familiasH1121
+- Núm_4:33será el servicio de...de los h de MerariH1121
+- Núm_4:34contaron a los h de Coat por...familiasH1121
+- Núm_4:38,41los contados de los h de GersónH1121
+- Núm_4:42,45los contados...de los h de MerariH1121
+- Núm_5:2manda a los h de Israel que echen delH1121
+- Núm_5:4lo hicieron así los h de Israel, y losH1121
+- Núm_5:4los echaron...lo hicieron los h de IsraelH1121
+- Núm_5:6a los h de Israel: El hombre o la mujerH1121
+- Núm_5:9ofrenda...que los h de Israel presentarenH1121
+- Núm_6:23habla a Aarón y a sus h y diles: AsíH1121
+- Núm_6:23bendeciréis a los h de Israel, diciéndolesH1121
+- Núm_6:27pondrán mi nombre sobre los h de IsraelH1121
+- Núm_7:7y cuatro bueyes dio a los h de GersónH1121
+- Núm_7:8a los h de Merari dio cuatro carros yH1121
+- Núm_7:8la mano de Itamar h del sacerdote AarónH1121
+- Núm_7:9pero a los h de Coat no les dio, porqueH1121
+- Núm_7:12fue Naasón h de Aminadab, de la tribuH1121
+- Núm_7:17,23,29,35,41,47,53,59,65,71,77,83esta fue la ofrenda de...h deH1121
+- Núm_7:18ofreció Natanael h de Zuar, príncipe deH1121
+- Núm_7:24Eliab h de Helón, príncipe de los h deH1121
+- Núm_7:30Elisur h de Sedeur, príncipe de los hH1121
+- Núm_7:36Selumiel h de Zurisadai...los h de SimeónH1121
+- Núm_7:42Eliasaf h de...príncipe de los h de GadH1121
+- Núm_7:48príncipe de los h de Efraín, Elisama hH1121
+- Núm_7:54los h de Manasés, Gamaliel h de PedasurH1121
+- Núm_7:60príncipe de los h de Benjamín, Abidán hH1121
+- Núm_7:66príncipe de los h de Dan, Ahiezer h deH1121
+- Núm_7:72príncipe de los h de Aser, Pagiel h deH1121
+- Núm_7:78príncipe de los h de Neftalí, Ahira hH1121
+- Núm_8:6a los levitas de entre los h de IsraelH1121
+- Núm_8:9toda la congregación de los h de IsraelH1121
+- Núm_8:10pondrán los h de Israel sus manos sobreH1121
+- Núm_8:11ofrecerá...en ofrenda de los h de IsraelH1121
+- Núm_8:13delante de Aarón, y delante de sus hH1121
+- Núm_8:14así apartarás...de entre los h de IsraelH1121
+- Núm_8:16dedicados...los levitas de entre los hH1121
+- Núm_8:16primogénitos de todos los h de IsraelH1121
+- Núm_8:17mío es todo primogénito de...h de IsraelH1121
+- Núm_8:18en lugar de...los primogénitos de los hH1121
+- Núm_8:19y yo he dado en don...a Aarón y a sus hH1121
+- Núm_8:19los levitas...de entre los h de IsraelH1121
+- Núm_8:19ejerzan el ministerio de...h de IsraelH1121
+- Núm_8:19y reconcilien a los h de Israel; paraH1121
+- Núm_8:19que no haya plaga en los h de Israel, alH1121
+- Núm_8:19acercarse los h de Israel al santuarioH1121
+- Núm_8:20toda la congregación de los h de IsraelH1121
+- Núm_8:20así hicieron con ellos los h de IsraelH1121
+- Núm_8:22delante de Aarón y delante de sus hH1121
+- Núm_9:2h de Israel celebrarán la pascua a suH1121
+- Núm_9:4habló Moisés a los h de Israel para queH1121
+- Núm_9:5mandó Jehová a...hicieron los h de IsraelH1121
+- Núm_9:7ofrecer ofrenda...entre los h de Israel?[[H1121]]
+- Núm_9:17se alzaba la nube...h de Israel partíanH1121
+- Núm_9:17paraba, allí acampaban los h de IsraelH1121
+- Núm_9:18al mandato de Jehová los h de...partíanH1121
+- Núm_9:19los h de Israel guardaban la ordenanzaH1121
+- Núm_9:22detenía...h de Israel seguían acampadosH1121
+- Núm_10:8los h de Aarón...tocarán las trompetasH1121
+- Núm_10:12partieron los h de Israel del desiertoH1121
+- Núm_10:14la bandera...de los h de Judá comenzó aH1121
+- Núm_10:14Naasón h de Aminadab estaba sobre suH1121
+- Núm_10:15sobre...los h de Isacar, Natanael h deH1121
+- Núm_10:16sobre...h de Zabulón, Eliab h de HelónH1121
+- Núm_10:17se movieron los h de Gersón y los h deH1121
+- Núm_10:18Elisur h de Sedeur...sobre su...ejércitoH1121
+- Núm_10:19sobre...los h de Simeón, Selumiel h deH1121
+- Núm_10:20sobre...los h de Gad, Eliasaf h de DeuelH1121
+- Núm_10:22marchar la bandera...de los h de EfraínH121
+- Núm_10:22Elisama h de Amiud...sobre su...ejércitoH1121
+- Núm_10:23sobre...de los h de Manasés, Gamaliel hH1121
+- Núm_10:24sobre...los h de Benjamín, Abidán h deH1121
+- Núm_10:25a marchar la bandera...de los h de DanH1121
+- Núm_10:25Ahiezer h de Amisadai estaba sobre suH1121
+- Núm_10:26sobre...los h de Aser, Pagiel h de OcránH1121
+- Núm_10:27sobre...h de Neftalí, Ahira h de EnánH1121
+- Núm_10:28el orden de marcha de los h de IsraelH1121
+- Núm_10:29Moisés a Hobab, h de Ragüel...su suegroH1121
+- Núm_11:4y los h de Israel...volvieron a llorar yH1121
+- Núm_11:28respondió Josué h de Nun, ayudante deH1121
+- Núm_13:2Canaán, la cual yo doy a los h de IsraelH1121
+- Núm_13:3todos...eran príncipes de los h de IsraelH1121
+- Núm_13:4de la tribu de Rubén, Samúa h de ZacurH1121
+- Núm_13:5de la tribu de Simeón, Safat h de HoríH1121
+- Núm_13:6de la tribu de Judá, Caleb h de JefoneH1121
+- Núm_13:7de la tribu de Isacar, Igal h de JoséH1121
+- Núm_13:8de la tribu de Efraín, Oseas h de NunH1121
+- Núm_13:9la tribu de Benjamín, Palti h de RafúH1121
+- Núm_13:10la tribu de Zabulón, Gadiel h de SodiH1121
+- Núm_13:11de la tribu de Manasés, Gadi h de SusiH1121
+- Núm_13:12de la tribu de Dan, Amiel h de GemaliH1121
+- Núm_13:13de la tribu de Aser, Setur h de MicaelH1121
+- Núm_13:14la tribu de Neftalí, Nahbi h de VapsiH1121
+- Núm_13:15de la tribu de Gad, Geuel h de MaquiH1121
+- Núm_13:16y a Oseas h de Nun le puso Moisés elH1121
+- Núm_13:22allí estaban Ahimán, Sesai...h de AnacH3206
+- Núm_13:24racimo que cortaron...los h de IsraelH1121
+- Núm_13:26vinieron a Moisés y a...los h de IsraelH1121
+- Núm_13:28y también vimos allí a los h de AnacH3206
+- Núm_13:32y hablaron mal entre los h de IsraelH1121
+- Núm_13:33también vimos allí gigantes, h de AnacH1121
+- Núm_14:2y se quejaron...todos los h de IsraelH1121
+- Núm_14:5postraron...delante de...los h de IsraelH1121
+- Núm_14:6Josué h de Nun y Caleb h de Jefone, queH1121
+- Núm_14:7hablaron a...los h de Israel, diciendoH1121
+- Núm_14:10la gloria...se mostró...a todos los h deH1121
+- Núm_14:18visita la maldad de los...sobre los hH1121
+- Núm_14:27las querellas de los h de Israel, queH1121
+- Núm_14:30exceptuando a Caleb h de...y a Josué hH1121
+- Núm_14:33vuestros h andarán pastoreando en elH1121
+- Núm_14:38pero Josué h de Nun y Caleb h...con vidaH1121
+- Núm_14:39Moisés dijo estas cosas a...h de IsraelH1121
+- Núm_15:25hará expiación por...de los h de IsraelH1121
+- Núm_15:26será perdonado a...de los h de IsraelH1121
+- Núm_15:29el nacido entre los h de Israel, y elH1121
+- Núm_15:32estando los h de Israel en el desiertoH1121
+- Núm_16:1Coré h de Izhar, h de Coat, h de LevíH1121
+- Núm_16:1Datán y Abiram, h de Eliab, y On h deH1121
+- Núm_16:1Pelet, de los h de Rubén, tomaron genteH1121
+- Núm_16:2levantaron...con 250...de los h de IsraelH1121
+- Núm_16:7poned fuego...esto os baste, h de LevíH1121
+- Núm_16:8dijo más Moisés...Oíd ahora, h de LevíH1121
+- Núm_16:10hizo acercar...los h de Leví contigo?[[H1121]]
+- Núm_16:12envió Moisés a llamar a...h de EliabH1121
+- Núm_16:27se pusieron...con sus mujeres, sus h yH1121
+- Núm_16:37dí a Eleazar h del sacerdote Aarón, queH1121
+- Núm_16:38y serán como señal a los h de IsraelH1121
+- Núm_16:40recuerdo para los h de Israel, de queH1121
+- Núm_16:41los h de Israel murmuró contra MoisésH1121
+- Núm_17:2habla a...h de Israel, y toma de ellosH1121
+- Núm_17:5haré cesar...quejas de los h de IsraelH1121
+- Núm_17:6Moisés habló a los h de Israel, y todosH1121
+- Núm_17:9sacó...las varas...a todos los h de IsraelH1121
+- Núm_17:10se guarde por señal a los h rebeldesH1121
+- Núm_17:12los h de Israel hablaron a MoisésH1121
+- Núm_18:1(2)tú y tus h...llevaréis el pecado deH1121
+- Núm_18:2tú y tus h contigo serviréis delanteH1121
+- Núm_18:5no venga...la ira sobre los h de IsraelH1121
+- Núm_18:6tomado...levitas de entre...h de IsraelH1121
+- Núm_18:7y tus h...guardaréis vuestro sacerdocioH1121
+- Núm_18:8las cosas consagradas de los h de IsraelH1121
+- Núm_18:8he dado...a tus h por estatuto perpetuoH1121
+- Núm_18:9será cosa muy santa para ti y para tus hH1121
+- Núm_18:11las ofrendas mecidas de los h de IsraelH1121
+- Núm_18:11he dado a ti y a tus h y a tus hijasH1121
+- Núm_18:19ofrendas...los h de Israel ofrecierenH1121
+- Núm_18:19he dado para ti, y para tus h y paraH1121
+- Núm_18:20yo soy tu parte...en medio de los h deH1121
+- Núm_18:21dado a los h de Leví todos los diezmosH1121
+- Núm_18:22y no se acercarán más los h de IsraelH1121
+- Núm_18:23y no poseerán heredad entre los h deH1121
+- Núm_18:24dado...los diezmos de los h de IsraelH1121
+- Núm_18:24entre...h de Israel no poseerán heredadH1121
+- Núm_18:26toméis de los h de Israel los diezmosH1121
+- Núm_18:28diezmos que recibáis de los h de IsraelH1121
+- Núm_18:32las cosas santas de los h de IsraelH1121
+- Núm_19:2di a los h de Israel que te traigan unaH1121
+- Núm_19:9las guardará la congregación de los hH1121
+- Núm_19:10estatuto perpetuo para los h de IsraelH1121
+- Núm_20:1llegaron los h de Israel...al desierto deH1121
+- Núm_20:12para santificarme delante de los h deH1121
+- Núm_20:13aguas de...contendieron los h de IsraelH1121
+- Núm_20:19los h de Israel dijeron: Por el caminoH1121
+- Núm_20:22y partiendo de Cades los h de IsraelH1121
+- Núm_20:24la tierra que yo di a los h de IsraelH1121
+- Núm_20:25toma...a Eleazar su h, y hazlos subir alH1121
+- Núm_20:26viste con ellas a Eleazar su h, porqueH1121
+- Núm_20:28se las vistió a Eleazar su h; y AarónH1121
+- Núm_21:10después partieron los h de Israel, yH1121
+- Núm_21:24y tomó su tierra...hasta los h de AmónH1121
+- Núm_21:24frontera de los h de Amón era fuerteH1121
+- Núm_21:29h en huida, y sus hijas en cautividadH1121
+- Núm_21:35hirieron a él y a sus h, y a toda suH1121
+- Núm_22:1partieron los h de Israel, y acamparonH1121
+- Núm_22:2y vio Balac h de Zipor...lo que IsraelH1121
+- Núm_22:3se angustió Moab a causa de los h deH1121
+- Núm_22:4y Balac h de Zipor era...rey de MoabH1121
+- Núm_22:5envió mensajeros a Balaam h de Beor, enH1121
+- Núm_22:5junto al río en la tierra de los h deH1121
+- Núm_22:10y Balaam respondió a Dios: Balac h deH1121
+- Núm_22:16así dice Balac, h de Zipor: Te ruegoH1121
+- Núm_23:18oye; escucha mis palabras, h de ZiporH1121
+- Núm_23:19ni h de hombre para que se arrepientaH1121
+- Núm_24:3,15dijo Balaam h de Beor, dijo el varónH1121
+- Núm_24:17Moab, y destruirá a todos los h de SetH1121
+- Núm_25:6varón de los h de Israel vino y trajoH1121
+- Núm_25:6ojos de...toda la congregación de los hH1121
+- Núm_25:7,11Finees h de...h del sacerdote AarónH1121
+- Núm_25:8y cesó la mortandad de los h de IsraelH1121
+- Núm_25:11apartar mi furor de los h de IsraelH1121
+- Núm_25:11yo no he consumido...a los h de IsraelH1121
+- Núm_25:13e hizo expiación por los h de IsraelH1121
+- Núm_25:14Zimri h de Salu, jefe de una familiaH1121
+- Núm_26:1habló...a Eleazar h del sacerdote AarónH1121
+- Núm_26:2toma el censo...de los h de Israel, deH1121
+- Núm_26:4como mandó Jehová a...a los h de IsraelH1121
+- Núm_26:5los h de Rubén: de Enoc, la familia deH1121
+- Núm_26:8los h de Falú: EliabH1121
+- Núm_26:9los h de Eliab: Nemuel, Datán y AbiramH1121
+- Núm_26:11mas los h de Coré no murieronH1121
+- Núm_26:12los h de Simeón por sus familias: deH1121
+- Núm_26:15h de Gad por sus familias: de ZefónH1121
+- Núm_26:19los h de Judá: Er y Onán; y Er y OnánH1121
+- Núm_26:20fueron los h de Judá por sus familiasH1121
+- Núm_26:21los h de Fares: de Hezrón, la familiaH1121
+- Núm_26:23los h de Isacar por sus familias; deH1121
+- Núm_26:26los h de Zabulón por sus familias: deH1121
+- Núm_26:28los h de José por sus familias: ManasésH1121
+- Núm_26:29h de Manasés: de Maquir, la familia deH1121
+- Núm_26:30estos son los h de Galaad: de Jezer, laH1121
+- Núm_26:33Zelofehad h de Hefer no tuvo h sinoH1121
+- Núm_26:35son los h de Efraín por sus familiasH1121
+- Núm_26:36y estos son los h de Sutela: de EránH1121
+- Núm_26:37son las familias de los h de Efraín porH1121
+- Núm_26:37estos son...h de José por sus familiasH1121
+- Núm_26:38los h de Benjamín por sus familias: deH1121
+- Núm_26:40y los h de Bela fueron Ard y NaamánH1121
+- Núm_26:41son los h de Benjamín por sus familiasH1121
+- Núm_26:42son los h de Dan por sus familias: deH1121
+- Núm_26:44los h de Aser por sus familias: de ImnaH1121
+- Núm_26:45los h de Bería: de Heber, la familiaH1121
+- Núm_26:47estas son...familias de los h de AserH1121
+- Núm_26:48los h de Neftalí, por sus familias: laH1121
+- Núm_26:51son los contados de los h de IsraelH1121
+- Núm_26:62no fueron contados entre...h de IsraelH1121
+- Núm_26:62no...dada heredad entre los h de IsraelH1121
+- Núm_26:63los cuales contaron los h de Israel enH1121
+- Núm_26:64quienes contaron a los h de Israel enH1121
+- Núm_26:65no quedó...sino Caleb h...y Josué h deH1121
+- Núm_27:1vinieron...hijas de Zelofehad h de HeferH1121
+- Núm_27:1h de Galaad, h de Maquir, h de ManasésH1121
+- Núm_27:1de las familias de Manasés h de JoséH1121
+- Núm_27:3en su propio pecado murió, y no tuvo hH1121
+- Núm_27:4será quitado el...por no haber tenido h?[[H1121]]
+- Núm_27:8alguno muriere sin h, traspasaréis suH1121
+- Núm_27:11h de Israel esto será por estatuto deH1121
+- Núm_27:12tierra que he dado a los h de IsraelH1121
+- Núm_27:18a Josué h de Nun, varón en el cual hayH1121
+- Núm_27:20congregación...h de Israel te obedezcaH1121
+- Núm_27:21entrarán, él y todos los h de IsraelH1121
+- Núm_28:2a los h de Israel, y diles: Mi ofrendaH1121
+- Núm_29:40dijo a los h de Israel conforme a todoH1121
+- Núm_30:1a los príncipes de...de los h de IsraelH1121
+- Núm_31:2la venganza de los h de Israel contraH1121
+- Núm_31:4mil de cada tribu...de los h de IsraelH4294
+- Núm_31:6y Finees h del sacerdote Eleazar fue aH1121
+- Núm_31:8a Balaam h de Beor mataron a espadaH1121
+- Núm_31:9los h de Israel llevaron cautivas a lasH1121
+- Núm_31:12trajeron a...los h de Israel...cautivosH1121
+- Núm_31:16h de Israel prevaricasen contra JehováH1121
+- Núm_31:30mitad perteneciente a los h de IsraelH1121
+- Núm_31:42de la mitad para los h de Israel, queH1121
+- Núm_31:47la mitad, pues, para los h de IsraelH1121
+- Núm_31:54memoria de los h de Israel delante deH1121
+- Núm_32:1los h de Rubén y los h de Gad tenían unaH1121
+- Núm_32:2vinieron...los h de Gad y los h de RubénH1121
+- Núm_32:6Moisés a los h de Gad y a...h de RubénH1121
+- Núm_32:7¿por qué desanimáis a los h de IsraelH1121
+- Núm_32:9desalentaron a los h de Israel para queH1121
+- Núm_32:12excepto Caleb h de...y Josué h de NunH1121
+- Núm_32:17e iremos...delante de los h de IsraelH1121
+- Núm_32:18no volveremos...los h de Israel poseanH1121
+- Núm_32:25hablaron los h de Gad y los h de RubénH1121
+- Núm_32:28les encomendó...a Josué h de Nun, y aH1121
+- Núm_32:28y a los príncipes...de los h de IsraelH1121
+- Núm_32:29si los h de Gad y los h de Rubén pasanH1121
+- Núm_32:31h de Gad y los h de Rubén respondieronH1121
+- Núm_32:33Moisés dio a los h de Gad, a los h deH1121
+- Núm_32:33a la media tribu de Manasés h de JoséH1121
+- Núm_32:34los h de Gad edificaron Dibón, AtarotH1121
+- Núm_32:37h de Rubén edificaron Hesbón, ElealeH1121
+- Núm_32:39los h de Maquir h de Manasés fueron aH1121
+- Núm_32:40dio Galaad a Maquir h de Manasés, elH1121
+- Núm_32:41Jair h de Manasés...tomó sus aldeas, yH1121
+- Núm_33:1son las jornadas de las h de Israel, queH1121
+- Núm_33:3segundo día...salieron los h de IsraelH1121
+- Núm_33:5salieron...los h de Israel de Ramesés, yH1121
+- Núm_33:38a los 40 años de la salida de los h deH1121
+- Núm_33:40oyó que habían venido los h de IsraelH1121
+- Núm_34:2manda a los h de Israel y diles: CuandoH1121
+- Núm_34:13Moisés a los h de Israel, diciendoH1121
+- Núm_34:14los h de Rubén...los h de Gad según lasH1121
+- Núm_34:17repartirán la tierra...Josué h de NunH1121
+- Núm_34:19de la tribu de Judá, Caleb h de JefoneH1121
+- Núm_34:20tribu de los h de Simeón, Semuel h deH1121
+- Núm_34:21tribu de Benjamín, Elidad h de QuislónH1121
+- Núm_34:22de los h de Dan, el príncipe Buqui hH1121
+- Núm_34:23de los h de José: De la tribu de losH1121
+- Núm_34:23h de Manasés, el príncipe Haniel h deH1121
+- Núm_34:24tribu de los h de Efraín...Kemuel h deH1121
+- Núm_34:25los h de Zabulón...Elizafán h de ParnacH1121
+- Núm_34:26de los h de Isacar...Paltiel h de AzánH1121
+- Núm_34:27de los h de Aser...Ahiud h de SelomiH1121
+- Núm_34:28de los h de Neftalí, Pedael h de AmiudH1121
+- Núm_34:29la repartición de...a los h de IsraelH1121
+- Núm_35:2los h de Israel que den a los levitasH1121
+- Núm_35:8diereis de la heredad de...h de IsraelH1121
+- Núm_35:15serán de refugio para los h de IsraelH1121
+- Núm_35:34yo Jehová habito en medio de los h deH1121
+- Núm_36:1los padres de la familia de Galaad h deH1121
+- Núm_36:1Maquir, h de Manasés...de los h de JoséH1121
+- Núm_36:1las casas paternas de los h de IsraelH1121
+- Núm_36:2sorteo diese la tierra a los h de IsraelH1121
+- Núm_36:3ellas se casaren con algunos de los hH1121
+- Núm_36:3de las otras tribus de los h de IsraelH1121
+- Núm_36:4viniere el jubileo de los h de IsraelH1121
+- Núm_36:5mandó a los h de Israel por mandato deH1121
+- Núm_36:5tribu de los h de José habla rectamenteH1121
+- Núm_36:7que la heredad de los h de Israel no seaH1121
+- Núm_36:7cada uno de los h...ligado a la heredadH1121
+- Núm_36:8tenga heredad en las tribus de los h deH1121
+- Núm_36:8que los h de Israel posean cada uno laH1121
+- Núm_36:9de los h de Israel estará ligada a suH1121
+- Núm_36:11Maala...casaron con los h de sus tíosH1121
+- Núm_36:12en la familia de las h de Manasés, hH1121
+- Núm_36:13por medio de Moisés a los h de IsraelH1121
+- Deu_1:3habló a los h de Israel conforme aH1121
+- Deu_1:28y también vimos allí a los h de AnacH1121
+- Deu_1:31ha traído, como trae el hombre a su hH1121
+- Deu_1:36excepto Caleb h de Jefone; él la veráH1121
+- Deu_1:36le daré la tierra que pisó, y a sus hH1121
+- Deu_1:38Josué h de Nun...entrará allá; anímaleH1121
+- Deu_1:39vuestros h que no saben hoy lo bueno niH1121
+- Deu_2:4,8de vuestros hermanos los h de EsaúH1121
+- Deu_2:9he dado a Ar por heredad a los h de LotH1121
+- Deu_2:10,21pueblo grande...como los h de AnacH6062
+- Deu_2:11gigantes eran ellos...como los h de AnacH6062
+- Deu_2:12a los cuales echaron los h de Esaú; yH1121
+- Deu_2:19cuando te acerques a los h de Amón, noH1121
+- Deu_2:19no te daré...la tierra de los h de AmónH1121
+- Deu_2:19a los h de Lot la he dado por heredadH1121
+- Deu_2:21pueblo grande...alto, como los h de AnacH6062
+- Deu_2:22como hizo Jehová con los h de Esaú queH1121
+- Deu_2:29como lo hicieron conmigo los h de EsaúH1121
+- Deu_2:33lo derrotamos a él y a sus h, y a todoH1121
+- Deu_2:37la tierra de los h de Amón no llegamosH1121
+- Deu_3:11su cama...¿no está en Rabá de los h deH1121
+- Deu_3:14Jair h de Manasés tomó toda la tierraH1121
+- Deu_3:16de Jaboc...es límite de los h de AmónH1121
+- Deu_3:18iréis armados...delante de...h de IsraelH1121
+- Deu_3:19vuestros h y...quedarán en las ciudadesH2945
+- Deu_4:9las enseñaras a tus h, y a los h de tus hH1121
+- Deu_4:10les haga oír...y las enseñarán a sus hH1121
+- Deu_4:25cuando hayáis engendrado h y nietos, yH1121
+- Deu_4:40para que te vaya bien a ti y a tus hH1121
+- Deu_4:44la ley...puso delante de los h de IsraelH1121
+- Deu_4:45los decretos que habló Moisés a los hH1121
+- Deu_4:46cual derrotó Moisés con los h de IsraelH1121
+- Deu_5:9visito la maldad de...padres sobre los hH1121
+- Deu_5:14ninguna obra harás tú, ni tu h, ni tuH1121
+- Deu_5:29y a sus h les fuese bien para siempreH1121
+- Deu_6:2guardando...tu h, y el h de tu h, todosH1121
+- Deu_6:7repetirás a tus h, y hablarás de ellasH1121
+- Deu_6:20cuando te preguntare a tu h, diciendoH1121
+- Deu_6:21dirás a tu h: Nosotros éramos siervosH1121
+- Deu_7:3a su h, ni tomarás a su hija para tu hH1121
+- Deu_7:4porque desviará a tu h de en pos de míH1121
+- Deu_8:5como castiga el hombre a su h...JehováH1121
+- Deu_9:2pueblo grande y alto, h de los anaceosH1121
+- Deu_9:2¿quién se sostendrá delante...h de Anac?[[H1121]]
+- Deu_10:6salieron los h de Israel de...a MoseraH1121
+- Deu_10:6murió...tuvo el sacerdocio su h EleazarH1121
+- Deu_11:2no hablo...h que no han sabido ni vistoH1121
+- Deu_11:6Datán y Abiram, h de Eliab h de RubénH1121
+- Deu_11:19las enseñaréis a vuestros h, hablandoH1121
+- Deu_11:21para que sean...los días de vuestros hH1121
+- Deu_12:12alegraréis...vuestros h, vuestras hijasH1121
+- Deu_12:18comerás...tú, tu h, tu hija, tu siervoH1121
+- Deu_12:25,28para que te vaya bien a ti y a tus hH1121
+- Deu_12:31h y a sus hijas quemaban en el fuegoH1121
+- Deu_13:6te incitare tu hermano, h de tu madreH1121
+- Deu_13:6o tu h, tu hija, tu mujer o tu amigoH1121
+- Deu_14:1h sois de Jehová vuestro Dios; no osH1121
+- Deu_16:11,14y te alegrarás...tú, tu h, tu hijaH1121
+- Deu_17:20de que prolongue sus días...él y sus hH1121
+- Deu_18:5que esté para administrar...él y sus hH1121
+- Deu_18:10pasar a su h o a su hija por el fuegoH1121
+- Deu_21:5vendrán...sacerdotes h de Leví, porqueH1121
+- Deu_21:15le hubieren dado h, y el h primogénitoH1121
+- Deu_21:16en el día que hiciere heredar a sus hH1121
+- Deu_21:16no podrá dar el derecho de...al h de laH1121
+- Deu_21:16con preferencia al h de la aborrecidaH1121
+- Deu_21:17al h de la aborrecida reconocerá comoH1121
+- Deu_21:18tuviere un h contumaz y rebelde, queH1121
+- Deu_21:20y dirán a...Este nuestro h es contumazH1121
+- Deu_22:6nido de...no tomarás la madre con los hH1121
+- Deu_23:4porque alquilaron contra ti a Baalam hH1121
+- Deu_23:8h que nacieren de ellos, en la terceraH1121
+- Deu_23:17ni haya sodomita de...los h de IsraelH1121
+- Deu_24:7hurtado a uno de sus...los h de IsraelH1121
+- Deu_24:16padres no morirán por los h, ni los hH1121
+- Deu_25:5no tuviere h, la mujer del muerto no seH1121
+- Deu_28:32tus h y tus hijas serán entregados aH1121
+- Deu_28:41h e...engendrarás, y no serán para tiH1121
+- Deu_28:53comerás el...la carne de tus h y de tusH1121
+- Deu_28:54y al resto de sus h que le quedarenH1121
+- Deu_28:55no dar a alguno...de la carne de sus hH1121
+- Deu_28:56mirará con malos ojos al...a su h...hijaH1121
+- Deu_28:57a sus h que diere a luz...los comeráH1121
+- Deu_29:1que celebrase con los h de Israel en laH1121
+- Deu_29:22vuestros h que se levanten después deH1121
+- Deu_29:29mas las reveladas son...para nuestros hH1121
+- Deu_30:2obedecieres a su voz...tú y tus h, conH1121
+- Deu_31:9la dio a los sacerdotes h de Leví, queH1121
+- Deu_31:13y los h de ellos...oigan, y aprendan aH1121
+- Deu_31:19cántico, y enséñalo a los h de IsraelH1121
+- Deu_31:19sea por testigo contra los h de IsraelH1121
+- Deu_31:22Moisés...lo enseñó a los h de IsraelH1121
+- Deu_31:23y dio orden a Josué h de Nun, y dijoH1121
+- Deu_31:23tú introducirás a los h de Israel enH1121
+- Deu_32:5la corrupción no es suya: de sus h esH1121
+- Deu_32:8hizo dividir a los h de los hombresH1121
+- Deu_32:8los límites...según el número de los hH1121
+- Deu_32:19el menosprecio de su h y de sus hijasH1121
+- Deu_32:20una generación perversa, h infielesH1121
+- Deu_32:44vino Moisés y recitó...Josué h de NunH1121
+- Deu_32:46para que las mandéis a vuestros h, aH1121
+- Deu_32:49yo doy por heredad a los h de IsraelH1121
+- Deu_32:51pecasteis...en medio de los h de IsraelH1121
+- Deu_32:51no me santificasteis en medio de los hH1121
+- Deu_32:52a la tierra que doy a los h de IsraelH1121
+- Deu_33:1bendijo Moisés varón...a los h de IsraelH1121
+- Deu_33:9no reconoció a sus...ni a sus h conocióH1121
+- Deu_33:24bendito sobre los h sea Aser: sea elH1121
+- Deu_34:8lloraron los h de Israel a Moisés enH1121
+- Deu_34:9Josué h de Nun fue lleno del espírituH1121
+- Deu_34:9h de Israel le obedecieron, e hicieronH1121
+- Jos_1:1que Jehová habló a Josué h de NunH1121
+- Jos_1:2tierra que yo les doy a los h de IsraelH1121
+- Jos_2:1Josué h de Nun envió desde Sitim...espíasH1121
+- Jos_2:2hombres de los h de Israel han venidoH1121
+- Jos_2:23los dos hombres...vinieron a Josué h deH1121
+- Jos_3:1él y todos los h de Israel partieron deH1121
+- Jos_3:9Josué dijo a los h de Israel: AcercaosH1121
+- Jos_4:4doce hombres...de entre los h de IsraelH1121
+- Jos_4:5,8conforme...tribus de los h de IsraelH1121
+- Jos_4:6para que...cuando vuestros h preguntarenH1121
+- Jos_4:7piedras servirán de...a los h de IsraelH1121
+- Jos_4:8h de Israel lo hicieron así como JosuéH1121
+- Jos_4:12también los h de Rubén y los h de GadH1121
+- Jos_4:12Pasaron armados delante de los h deH1121
+- Jos_4:21y habló a los h de Israel, diciendoH1121
+- Jos_4:21preguntaren vuestros h a sus padresH1121
+- Jos_4:22declararéis a vuestros h...Israel pasóH1121
+- Jos_5:1secado...aguas del Jordán delante de los hH1121
+- Jos_5:1no...aliento en ellos delante de los h deH1121
+- Jos_5:2vuelve a circuncidar...a los h de IsraelH1121
+- Jos_5:3Josué...circuncidó a los h de Israel enH1121
+- Jos_5:6h de Israel anduvieron por el desiertoH1121
+- Jos_5:7a los h de ellos...Josué los circuncidóH1121
+- Jos_5:10y los h de Israel acamparon en GilgalH1121
+- Jos_5:12los h de Israel nunca más tuvieron manáH1121
+- Jos_6:1bien cerrada, a causa de los h de IsraelH1121
+- Jos_6:6llamando, pues, Josué h...los sacerdotesH1121
+- Jos_6:26y sobre su h menor asiente sus puertasH1121
+- Jos_7:1h de Israel cometieron una prevaricaciónH1121
+- Jos_7:1,18Acán h de Carmi, h de Zabdi, h deH1121
+- Jos_7:1ira de Jehová se encendió contra los hH1121
+- Jos_7:12h de Israel no podrán hacer frente aH1121
+- Jos_7:19h mío, da gloria a Jehová el Dios deH1121
+- Jos_7:23lo trajeron a Josué y a...los h de IsraelH1121
+- Jos_7:24tomaron a Acán h de Zera...sus h, susH1121
+- Jos_8:31Moisés...había mandado a...h de IsraelH1121
+- Jos_8:32cual escribió delante de los h de IsraelH1121
+- Jos_9:17salieron los h de Israel, y al tercerH1121
+- Jos_9:18y no los mataron los h de Israel, porH1121
+- Jos_9:26los libró de la mano de los h de IsraelH1121
+- Jos_10:4Gabaón...ha hecho paz con...h de IsraelH1121
+- Jos_10:11que los h de Israel mataron a espadaH1121
+- Jos_10:12entregó al amorreo delante de los h deH1121
+- Jos_10:20los h de Israel acabaron de herirlosH1121
+- Jos_10:21moviese su lengua contra...h de IsraelH1121
+- Jos_11:14los h de Israel tomaron...todo el botínH1121
+- Jos_11:19hiciese paz con los h de Israel, salvoH1121
+- Jos_11:22quedó en la tierra de los h de IsraelH1121
+- Jos_12:1reyes...que los h de Israel derrotaronH1121
+- Jos_12:2del arroyo de Jaboc, término de los h deH1121
+- Jos_12:6derrotaron Moisés...y los h de IsraelH1121
+- Jos_12:7que derrotaron Josué y los h de IsraelH1121
+- Jos_13:6yo los exterminaré delante de los h deH1121
+- Jos_13:10hasta los límites de los h de AmónH1121
+- Jos_13:13a los maacateos no los echaron los hH1121
+- Jos_13:15Moisés a la tribu de los h de RubénH1121
+- Jos_13:22mataron...los h de Israel a Balaam elH1121
+- Jos_13:22a Balaam el adivino, h de Beor, entreH1121
+- Jos_13:23el límite del territorio de los h deH1121
+- Jos_13:23esta fue la heredad de los h de RubénH1121
+- Jos_13:24dio...Moisés a los h de Gad, conforme aH1121
+- Jos_13:25la mitad de la tierra de los h de AmónH1121
+- Jos_13:28esta es la heredad de los h de Gad porH1121
+- Jos_13:29heredad a...tribu de los h de ManasésH1121
+- Jos_13:31ciudades...para los h de Maquir h deH1121
+- Jos_13:31la mitad de los h de Maquir conforme aH1121
+- Jos_14:1los h de Israel tomaron por heredad enH1121
+- Jos_14:1repartieron...Eleazar, Josué h de Nun, yH1121
+- Jos_14:1cabezas de las tribus de los h de IsraelH1121
+- Jos_14:4los h de José fueron dos tribus, ManasésH1121
+- Jos_14:5así lo hicieron los h de Israel en elH1121
+- Jos_14:6los h de Judá vinieron a Josué en GilgalH1121
+- Jos_14:6y Caleb, h de Jefone cenezeo, le dijoH1121
+- Jos_14:9será para ti, y para tus h en herenciaH1121
+- Jos_14:13dio a Caleb h de Jefone a Hebrón porH1121
+- Jos_14:14Hebrón vino a ser heredad de Caleb hH1121
+- Jos_15:1que tocó...a la tribu de los h de JudáH1121
+- Jos_15:6sube a la piedra de Bohán h de RubénH1121
+- Jos_15:8y sube...por el valle del h de Hinom alH1121
+- Jos_15:12este fue el límite de los h de JudáH1121
+- Jos_15:13mas a Caleb h de Jefone dio su parteH1121
+- Jos_15:13parte entre los h de Judá, conforme alH1121
+- Jos_15:14y Caleb echó de allí a los tres h deH1121
+- Jos_15:14a Sesai, Ahimán y Talmai, h de AnacH1121
+- Jos_15:17y la tomó Otoniel, h de Cenez hermanoH1121
+- Jos_15:20heredad de la tribu de los h de JudáH1121
+- Jos_15:21fueron las ciudades...de los h de JudáH1121
+- Jos_15:63los h de Judá no pudieron arrojarlosH1121
+- Jos_15:63ha quedado...con los h de Judá hasta hoyH1121
+- Jos_16:1tocó en suerte a los h de José desde elH1121
+- Jos_16:4recibieron...su heredad los h de JoséH1121
+- Jos_16:5cuanto al territorio de los h de EfraínH1121
+- Jos_16:8esta es la heredad de...los h de EfraínH1121
+- Jos_16:9hubo...ciudades...para los h de Efraín enH1121
+- Jos_16:9medio de la heredad de los h de ManasésH1121
+- Jos_17:2para los otros h de Manasés conforme aH1121
+- Jos_17:2los h de Abiezer, los h de Helec, losH1121
+- Jos_17:2los h de Asriel, los h de Siquem, losH1121
+- Jos_17:2los h de Hefer y los h de Semida; éstosH1121
+- Jos_17:2éstos fueron los h varones de Manasés hH1121
+- Jos_17:3pero Zelofehad h de Hefer, h de GalaadH1121
+- Jos_17:3h de Maquir, h de Manasés, no tuvo hH1121
+- Jos_17:4vinieron delante de...de Josué h de NunH1121
+- Jos_17:6hijas de...tuvieron heredad entre sus hH1121
+- Jos_17:6de Galaad fue de los otros h de ManasésH1121
+- Jos_17:8pero Tapúa misma...es de los h de EfraínH1121
+- Jos_17:12los h de Manasés no pudieron arrojarH1121
+- Jos_17:13los h de Israel...hicieron tributarioH1121
+- Jos_17:14h de José hablaron a Josué, diciendoH1121
+- Jos_17:16los h de José dijeron: No nos bastaráH1121
+- Jos_18:1la congregación de los h de Israel seH1121
+- Jos_18:2pero habían quedado de los h de IsraelH1121
+- Jos_18:3Josué dijo a los h de Israel: ¿HastaH1121
+- Jos_18:11se sacó la suerte...de los h de BenjamínH1121
+- Jos_18:11entre los h de Judá y los h de JoséH1121
+- Jos_18:14ciudad de los h de Judá. Este es elH1121
+- Jos_18:16está delante del valle del h de HinomH1121
+- Jos_18:17y desciende a la piedra de Bohán h deH1121
+- Jos_18:20,28es la heredad de los h de BenjamínH1121
+- Jos_18:21las ciudades de...de los h de BenjamínH1121
+- Jos_19:1la tribu de los h de Simeón conforme aH1121
+- Jos_19:1heredad fue en medio...de los h de JudáH1121
+- Jos_19:8esta es la heredad...de los h de SimeónH1121
+- Jos_19:9de la suerte de...h de Judá fue sacadaH1121
+- Jos_19:9fue sacada la heredad de los h de SimeónH1121
+- Jos_19:9la parte de los h de Judá era excesivaH1121
+- Jos_19:9los h de Simeón tuvieron su heredad enH1121
+- Jos_19:10tercera suerte tocó a los h de ZabulónH1121
+- Jos_19:16esta es la heredad de los h ZabulónH1121
+- Jos_19:17la cuarta suerte...a los h de IsacarH1121
+- Jos_19:23esta es la heredad...de los h de IsacarH1121
+- Jos_19:24quinta suerte...tribu de los h de AserH1121
+- Jos_19:31esta es la heredad...de los h de AserH1121
+- Jos_19:32la sexta suerte...a los h de NeftalíH1121
+- Jos_19:39esta es la heredad...los h de NeftalíH1121
+- Jos_19:40suerte correspondió a...los h de DanH1121
+- Jos_19:47les faltó territorio a los h de DanH1121
+- Jos_19:47subieron los h de Dan y combatieron aH1121
+- Jos_19:48esta es la heredad de...de los h de DanH1121
+- Jos_19:49dieron los h de Israel heredad a JosuéH1121
+- Jos_19:49heredad a Josué h de Nun en medio deH1121
+- Jos_19:51las heredades que...Josué h...entregaronH1121
+- Jos_19:51por suerte...en posesión...h de IsraelH1121
+- Jos_20:2a los h de Israel, y diles: SeñalaosH1121
+- Jos_20:9señaladas para todos los h de IsraelH1121
+- Jos_21:1los levitas vinieron...a Josué h de NunH1121
+- Jos_21:1cabezas de...tribus de los h de IsraelH1121
+- Jos_21:3los h de Israel dieron...a los levitasH1121
+- Jos_21:4los h de Aarón...obtuvieron por suerteH1121
+- Jos_21:5y los otros h de Coat...diez ciudades deH1121
+- Jos_21:6los h de Gersón obtuvieron...13 ciudadesH1121
+- Jos_21:7h de Merari...obtuvieron de la tribu deH1121
+- Jos_21:8dieron...los h de Israel a los levitasH1121
+- Jos_21:9de los h de Judá, y de...los h de SimeónH1121
+- Jos_21:10obtuvieron los h de Aarón...h de LevíH1121
+- Jos_21:12el campo...dieron a Caleb h de JefoneH1121
+- Jos_21:13y a los h del sacerdote Aarón dieronH1121
+- Jos_21:19ciudades de los...h de Aarón son treceH1121
+- Jos_21:20los h de Coat...recibieron por suerteH1121
+- Jos_21:20mas...los que quedaban de los h de CoatH1121
+- Jos_21:26ciudades para...h de Coat fueron diezH1121
+- Jos_21:27a los h de Gersón...de la media tribuH1121
+- Jos_21:34y a las familias de los h de MerariH1121
+- Jos_21:40todas las ciudades de los h de MerariH1121
+- Jos_21:41en medio de la posesión de los h deH1121
+- Jos_22:9así los h de Rubén y los h de Gad y laH1121
+- Jos_22:9separándose de los h de Israel, desdeH1121
+- Jos_22:10,11,13,15,30,31,32,34los h de Rubén y los h de GadH1121
+- Jos_22:11los h de Israel oyeron decir que losH1121
+- Jos_22:11un altar...del lado de los h de IsraelH1121
+- Jos_22:12cuando oyeron esto los h de Israel, seH1121
+- Jos_22:12se juntó...de los h de Israel en SiloH1121
+- Jos_22:13enviaron los h de Israel a...de RubénH1121
+- Jos_22:13a Finees h del sacerdote EleazarH1121
+- Jos_22:20cometió Acán h de Zera prevaricaciónH1121
+- Jos_22:21h de Rubén y...h de Gad...respondieronH1121
+- Jos_22:24vuestros h digan a nuestros h: ¿QuéH1121
+- Jos_22:25oh h de Rubén e h de Gad; no tenéisH1121
+- Jos_22:25así vuestros h harían que nuestros hH1121
+- Jos_22:27y no digan...vuestros h a los nuestrosH1121
+- Jos_22:30palabras que hablaron los h de Rubén yH1121
+- Jos_22:31dijo Finees h del sacerdote Eleazar aH1121
+- Jos_22:31y dijo...a los h de Manasés: Hoy hemosH1121
+- Jos_22:31habéis librado a los h de Israel de laH1121
+- Jos_22:32Finees h del sacerdote Eleazar, y losH1121
+- Jos_22:32regresaron...a los h de Israel, a losH1121
+- Jos_22:33asunto pareció bien a los h de IsraelH1121
+- Jos_22:33bendijeron a Dios los h de Israel, y noH1121
+- Jos_22:33habitaban los h de Rubén y...h de GadH1121
+- Jos_24:4pero Jacob y sus h descendieron a EgiptoH1121
+- Jos_24:9después se levantó Balac h de Zipor, reyH1121
+- Jos_24:9envió a llamar a Balaam h de Beor, paraH1121
+- Jos_24:29después de estas cosas murió Josué hH1121
+- Jos_24:32los huesos...h de Israel habían traídoH1121
+- Jos_24:32Jacob compró de los h de Hamor padreH1121
+- Jos_24:32campo...fue posesión de los h de JoséH1121
+- Jos_24:33también murió Eleazar h de Aarón, y loH1121
+- Jos_24:33en el collado de Finees su h, que leH1121
+- Jue_1:1los h de Israel consultaron a JehováH1121
+- Jue_1:8combatieron los h de Judá a JerusalénH1121
+- Jue_1:9los h de Judá descendieron para pelearH1121
+- Jue_1:13tomó Otoniel h de Cenaz, hermano menorH1121
+- Jue_1:16los h del ceneo...con los h de Judá alH1121
+- Jue_1:20él arrojó de allí a los tres h de AnacH1121
+- Jue_1:21no los arrojaron los h de Benjamín, yH1121
+- Jue_1:21el jebuseo habitó con los h de BenjamínH1121
+- Jue_1:34amorreos acosaron a los h de Dan hastaH1121
+- Jue_2:4estas palabras a todos los h de IsraelH1121
+- Jue_2:6h de Israel se habían ido...a su heredadH1121
+- Jue_2:8pero murió Josué h de Nun...de 110 añosH1121
+- Jue_2:11los h de Israel hicieron lo malo anteH1121
+- Jue_3:2el linaje de los h de Israel conociese laH1121
+- Jue_3:5así los h de Israel habitaban entre losH1121
+- Jue_3:6por mujeres, y dieron sus hijas a los hH1121
+- Jue_3:7hicieron, pues, los h de Israel lo maloH1121
+- Jue_3:8sirvieron los h de Israel a...ocho añosH1121
+- Jue_3:9,15clamaron los h de Israel a JehováH1121
+- Jue_3:9levantó un libertador a los h de IsraelH1121
+- Jue_3:9a Otoniel h de Cenaz, hermano menor deH1121
+- Jue_3:11reposó la...y murió Otoniel h de CenazH1121
+- Jue_3:12volvieron los h de Israel a hacer lo maloH1121
+- Jue_3:13consigo a los h de Amón y de AmalecH1121
+- Jue_3:14sirvieron los h de Israel a Eglón reyH1121
+- Jue_3:15Jehová les levantó un...a Aod h de GeraH1121
+- Jue_3:15h de Israel enviaron...presente a EglónH1121
+- Jue_3:27y los h de Israel descendieron con élH1121
+- Jue_3:31después de él fue Samgar h de Anat, elH1121
+- Jue_4:1h de Israel volvieron a hacer lo maloH1121
+- Jue_4:3los h de Israel clamaron a Jehová, porqueH1121
+- Jue_4:3había oprimido...h de Israel por 20 añosH1121
+- Jue_4:5los h de Israel subían a ella a juicioH1121
+- Jue_4:6envió a llamar a Barac h de Abinoam, deH1121
+- Jue_4:11Heber ceneo, de los h de Hobab suegroH1121
+- Jue_4:12que Barac, h de Abinoam había subido alH1121
+- Jue_4:23así abatio...delante de los h de IsraelH1121
+- Jue_4:24la mano de los h de...fue endureciéndoseH1121
+- Jue_5:1día cantó Débora con Barac h de AbinoamH1121
+- Jue_5:6en los días de Samgar h de Anat, en losH1121
+- Jue_5:12y lleva tus cautivos, h de AbinoamH1121
+- Jue_6:1los h de Israel hicieron lo mato ante losH1121
+- Jue_6:2los h de Israel...se hicieron cuevas enH1121
+- Jue_6:3subían...los h del oriente contra ellosH1121
+- Jue_6:6,7los h de Israel clamaron a JehováH1121
+- Jue_6:8envió a los h de Israel un varón profetaH1121
+- Jue_6:11su h Gedeón estaba sacudiendo el trigoH1121
+- Jue_6:29dijeron: Gedeón h de Joás lo ha hechoH1121
+- Jue_6:30saca a tu h para que muera, porque haH1121
+- Jue_7:12los h del oriente estaban tendidos enH1121
+- Jue_7:14la espada de Gedeón h de Joás, varón deH1121
+- Jue_8:10todo el ejército de los h del orienteH1121
+- Jue_8:13Gedeón h de Joás volvió de la batallaH1121
+- Jue_8:18eran ellos; cada uno parecía h de reyH1121
+- Jue_8:19dijo: Mis hermanos eran, h de mi madreH1121
+- Jue_8:22sé nuestro señor, tú, y tu h, y tu nietoH1121
+- Jue_8:23ni mi h os señoreará: Jehová señorearáH1121
+- Jue_8:28subyugado Madián delante...h de IsraelH1121
+- Jue_8:29Jerobaal h de Joás fue y habitó en suH1121
+- Jue_8:30tuvo Gedeón 70 h que constituyeron suH1121
+- Jue_8:31su concubina...en Siquem le dio un h, yH1121
+- Jue_8:32murió Gedeón h de Joás en buena vejezH1121
+- Jue_8:33que cuando murió Gedeón, los h de IsraelH1121
+- Jue_8:34no se acordaron los h de Israel...DiosH1121
+- Jue_9:1Abimelec h de Jerobaal fue a Siquem, aH1121
+- Jue_9:2os gobiernen 70...todos los h de JerobaalH1121
+- Jue_9:5mató a sus hermanos los h de JerobaalH1121
+- Jue_9:5quedó Jotam el h menor de Jerobaal, queH1121
+- Jue_9:18habéis matado a sus h, setenta varonesH1121
+- Jue_9:18puesto por rey...Abimelec h de su criadaH1121
+- Jue_9:24violencia hecha a los 70 h de JerobaalH1121
+- Jue_9:26Gaal h de Ebed vino con sus hermanos yH1121
+- Jue_9:28y Gaal h de...dijo: ¿Quién es AbimelecH1121
+- Jue_9:28¿no es h de Jerobaal, y no es ZebulH1121
+- Jue_9:30Zebul...oyó las palabras de Gaal h deH1121
+- Jue_9:31Gaal h de Ebed y...hermanos han venidoH1121
+- Jue_9:35Gaal h de Ebed salió, y se puso a laH1121
+- Jue_9:57vino...maldición de Jotam h de JerobaalH1121
+- Jue_10:1se levantó...Tola h de Fúa, h de DodoH1121
+- Jue_10:4tuvo treinta h, que cabalgaban sobre 30H1121
+- Jue_10:6h de Israel volvieron a hacer lo maloH1121
+- Jue_10:6a los dioses de los h de Amón y a losH1121
+- Jue_10:7los entregó...en mano de los h de AmónH121
+- Jue_10:8y quebrantaron a los h de Israel enH1121
+- Jue_10:8los h de Israel que estaban al otro ladoH1121
+- Jue_10:9h de Amón pasaron el Jordán para hacerH1121
+- Jue_10:10los h de Israel clamaron a JehováH1121
+- Jue_10:11y Jehová respondió a los h de IsraelH1121
+- Jue_10:15los h de Israel respondieron a JehováH1121
+- Jue_10:17se juntaron los h de Amón...h de IsraelH1121
+- Jue_10:18comenzará la batalla contra los h deH1121
+- Jue_11:1Jefté...era h de una mujer ramera, y elH121
+- Jue_11:2pero la mujer de Galaad le dio h, losH1121
+- Jue_11:2no heredarás en la...eres h de otra mujerH1121
+- Jue_11:4,5los h de Amón hicieron guerra contraH1121
+- Jue_11:6para que peleemos contra los h de AmónH1121
+- Jue_11:8vengas...y pelees contra los h de AmónH1121
+- Jue_11:9si...para que pelee contra los h de AmónH1121
+- Jue_11:15no tomó...ni tierra de los h de AmónH1121
+- Jue_11:25¿eres tú...mejor...que Balac h de ZiporH1121
+- Jue_11:27entre los h de Israel y los h de AmónH1121
+- Jue_11:28el rey de los h de Amón no atendió aH1121
+- Jue_11:29y de Mizpa de Galaad pasó a los h deH1121
+- Jue_11:32y fue Jefté hacia los h de Amón paraH1121
+- Jue_11:33fueron sometidos...por los h de IsraelH1121
+- Jue_11:34hija única; no tenía fuera de ella hH1121
+- Jue_11:36ha hecho venganza en...los h de AmónH1121
+- Jue_12:1fuiste a hacer guerra contra los h deH1121
+- Jue_12:2teníamos...contienda con los h de AmónH1121
+- Jue_12:3arriesgué...y pasé contra los h de AmónH1121
+- Jue_12:9el cual tuvo treinta h y treinta hijasH1121
+- Jue_12:9tomó de fuera treinta hijas para sus hH1121
+- Jue_12:13después de él juzgó a Israel Abdón hH1121
+- Jue_12:14éste tuvo cuarenta h y treinta nietosH1121
+- Jue_12:15murió Abdón h de Hilel...fue sepultadoH1121
+- Jue_13:1h de Israel volvieron a hacer lo maloH1121
+- Jue_13:2su mujer era...y nunca había tenido hH3205
+- Jue_13:3nunca has tenido h...y darás a luz un hH3205
+- Jue_13:5y darás a luz un h; y navaja no pasaráH1121
+- Jue_13:7que tú concebirás, y darás a luz un hH1121
+- Jue_13:24dio a luz un h, y le puso por nombreH1121
+- Jue_14:16que propusiste a los h de mi puebloH1121
+- Jue_14:17ella lo declaró a los h de su puebloH1121
+- Jue_17:2madre dijo: Bendito seas de Jehová, hH1121
+- Jue_17:3he dedicado el dinero a Jehová por mi hH1121
+- Jue_17:5Micaía...consagró a uno de sus h para queH1121
+- Jue_17:11el levita...para él como uno de sus hH1121
+- Jue_18:2h de Dan enviaron...cinco hombres deH1121
+- Jue_18:16y los 600...que eran de los h de DanH1121
+- Jue_18:22se juntaron y siguieron a los h de DanH1121
+- Jue_18:25los h de Dan le dijeron: No des vocesH1121
+- Jue_18:26y prosiguieron los h de Dan su caminoH1121
+- Jue_18:29al nombre de Dan su padre, h de IsraelH3205
+- Jue_18:30los h de Dan levantaron...la imagen deH1121
+- Jue_18:30Jonatán h de Gersón, h de Moisés, él yH1121
+- Jue_18:30y sus h fueron sacerdotes en la tribuH1121
+- Jue_19:12ciudad...que no sea de los h de IsraelH1121
+- Jue_19:16los moradores de...eran h de BenjamínH1121
+- Jue_19:30tiempo en que los h de Israel subieronH1121
+- Jue_20:1salieron todos los h de Israel, y seH1121
+- Jue_20:3los h de Benjamín oyeron que los h deH1121
+- Jue_20:3dijeron los h de Israel: Decid cómo fueH1121
+- Jue_20:7h de Israel; dad aquí vuestro parecerH1121
+- Jue_20:13no quisieron oír la voz de...h de IsraelH1121
+- Jue_20:14salir a pelear contra los h de IsraelH1121
+- Jue_20:18luego se levantaron los h de Israel, yH1121
+- Jue_20:18en la guerra contra los h de Benjamín?[[H1121]]
+- Jue_20:19se levantaron, pues, los h de IsraelH1121
+- Jue_20:20y salieron los h de Israel a combatir
+- Jue_20:21h de Benjamín, derribaron por tierraH1121
+- Jue_20:21aquel día 22.000...de los h de Israel
+- Jue_20:23h de Israel subieron y lloraron delanteH1121
+- Jue_20:23¿volveremos a pelear con los h deH1121
+- Jue_20:24h de Israel contra los h de BenjamínH1121
+- Jue_20:25derribaron...otros 18.000...h de IsraelH1121
+- Jue_20:26h de Israel...vinieron a la casa de DiosH1121
+- Jue_20:27los h de Israel preguntaron a JehováH1121
+- Jue_20:28Finees h de Eleazar, h de...ministrabaH1121
+- Jue_20:28aún a salir contra los h de BenjamínH1121
+- Jue_20:30subiendo entonces...h de Israel contraH1121
+- Jue_20:30contra los h de Benjamín el tercer díaH1121
+- Jue_20:31salieron...h de Benjamín al encuentroH1121
+- Jue_20:32los h de Benjamín decían: Vencidos sonH1121
+- Jue_20:32los h de Israel decían: Huiremos, y losH1121
+- Jue_20:35mataron los h de Israel...día a 25:100H1121
+- Jue_20:36y vieron los h de Benjamín que eranH1121
+- Jue_20:36y los h de Israel cedieron campo a losH376
+- Jue_20:48volvieron sobre los h de Benjamín, yH1121
+- Jue_21:5y dijeron los h de Israel: ¿Quién deH1121
+- Jue_21:6h de Israel se arrepintieron a causa deH1121
+- Jue_21:13envió...hablar a los h de Benjamín queH1121
+- Jue_21:18los h de Israel han jurado diciendoH1121
+- Jue_21:20a los h de Benjamín, diciendo: Id, yH1121
+- Jue_21:23los h de Benjamín lo hicieron asíH1121
+- Jue_21:24los h de Israel se fueron también deH1121
+- Rut_1:1fue a morar en...Moab...y dos h suyosH1121
+- Rut_1:2nombres de sus h eran Mahlón y QueliónH1121
+- Rut_1:3y murió...y se quedó ella con sus dos hH1121
+- Rut_1:5quedando así...desamparada de sus dos hH3206
+- Rut_1:11volveos...¿Tengo yo más h en el vientreH1121
+- Rut_1:12estuviere con marido, y...diese a luz hH1121
+- Rut_4:13Jehová le dio que...y diese a luz un hH1121
+- Rut_4:15es de más valor para ti que siete hH1121
+- Rut_4:16tomando...el h, lo puso en su regazo, yH3206
+- Rut_4:17ha nacido un h a Noemí...llamaron ObedH1121
+- 1Sa_1:1que se llamaba Elcana h de JerohamH1121
+- 1Sa_1:1h de Eliú, h de Tohu, h de Zif, efrateoH1121
+- 1Sa_1:2y Penina tenía h, mas Ana no los teníaH3206
+- 1Sa_1:3Silo, donde...dos h de Elí, Ofni y FineesH1121
+- 1Sa_1:4daba a...a todos sus h y a todas sus hijasH1121
+- 1Sa_1:5,6Jehová no le había concedido tener h
+- 1Sa_1:8dijo...¿No te soy yo mejor que diez h?[[H1121]]
+- 1Sa_1:11que dieres a tu sierva un h varón, yoH2233
+- 1Sa_1:20Ana dio a luz un h, y le puso...SamuelH1121
+- 1Sa_1:23y crió a su h hasta que lo destetóH1121
+- 1Sa_2:5y la que tenía muchos h languideceH1121
+- 1Sa_2:12los h de Elí eran hombres impíos, y noH1121
+- 1Sa_2:20Jehová te dé h de esta mujer en lugarH2233
+- 1Sa_2:21Ana...concibió, y dio a luz tres h y dosH1121
+- 1Sa_2:22lo que sus h hacían con todo IsraelH1121
+- 1Sa_2:24no, h...no es buena fama la que yo oigoH1121
+- 1Sa_2:28todas las ofrendas de los h de IsraelH1121
+- 1Sa_2:29y has honrado a tus h más que a míH1121
+- 1Sa_2:34a tus dos h...ambos morirán en un díaH1121
+- 1Sa_3:6dijo: H mío, yo no he llamado; vuelve yH1121
+- 1Sa_3:13porque sus h han blasfemado a Dios, yH1121
+- 1Sa_3:16h mío, Samuel. Y él respondió: Heme aquíH1121
+- 1Sa_4:4dos h de Elí...estaban allí con el arcaH1121
+- 1Sa_4:11el arca de...y muertos los dos h de ElíH1121
+- 1Sa_4:16Elí dijo: ¿Qué ha acontecido, h mío?[[H1121]]
+- 1Sa_4:17tus dos h...fueron muertos, y el arca deH1121
+- 1Sa_4:20no...temor, porque has dado a luz un hH1121
+- 1Sa_7:1el arca...y santificaron a Eleazar su hH1121
+- 1Sa_7:4los h de Israel quitaron a los baalesH1121
+- 1Sa_7:6juzgó Samuel a los h de Israel en MizpaH1121
+- 1Sa_7:7oyeron los filisteos que los h de IsraelH1121
+- 1Sa_7:7al oír esto los h de Israel, tuvieronH1121
+- 1Sa_7:8dijeron los h de Israel a...No ceses deH1121
+- 1Sa_7:10filisteos llegaron para pelear con los h
+- 1Sa_7:11y saliendo los h de Israel de MizpaH376
+- 1Sa_7:14fueron restituidas a los h de Israel
+- 1Sa_8:1Samuel...puso a sus h por jueces sobreH1121
+- 1Sa_8:2el nombre de su h primogénito fue JoelH1121
+- 1Sa_8:3no anduvieron los h por los caminos deH1121
+- 1Sa_8:5dijeron...tus h no andan en tus caminosH1121
+- 1Sa_8:11tomará...h, y los pondrá en sus carrosH1121
+- 1Sa_9:1se llamaba Cis, h de Abiel, h de ZerorH1121
+- 1Sa_9:1h de Becorat, h de Afía, h...benjamitaH1121
+- 1Sa_9:2tenía él un h que se llamaba Saúl, jovenH1121
+- 1Sa_9:2entre los h de Israel no había otro másH1121
+- 1Sa_9:3dijo Cis a Saúl su h: Toma ahora algunoH1121
+- 1Sa_9:21Saúl...dijo: ¿No soy yo h de BenjamínH1121
+- 1Sa_10:2diciendo: ¿Qué haré acerca de mi h?[[H1121]]
+- 1Sa_10:11¿qué le ha sucedido al h de Cis? ¿SaúlH1121
+- 1Sa_10:18dijo a los h de Israel: Así ha dichoH1121
+- 1Sa_10:21de ella fue tomado Saúl h de Cis. Y leH1121
+- 1Sa_11:8fueron los h de Israel trescientos milH1121
+- 1Sa_12:2pero mis h están con vosotros, y yo heH1121
+- 1Sa_12:12que Nahas rey de los h de Amón veníaH1121
+- 1Sa_13:16Saúl...y Jonatán su h, y el pueblo queH1121
+- 1Sa_13:22Saúl y Jonatán su h, que las teníanH1121
+- 1Sa_14:1que Jonatán h de Saúl dijo a su criadoH1121
+- 1Sa_14:3Ahías h de Ahitob...h de Finees, h de ElíH1121
+- 1Sa_14:18el arca...estaba...con los h de IsraelH1121
+- 1Sa_14:39aunque fuere en Jonatán mi h...moriráH1121
+- 1Sa_14:40y yo y Jonatán mi h estaremos al otroH1121
+- 1Sa_14:42dijo: Echad suertes entre mí y...mi hH1121
+- 1Sa_14:47Saúl hizo guerra...contra los h de AmónH1121
+- 1Sa_14:49los h de Saúl fueron Jonatán, Isúi yH1121
+- 1Sa_14:50general...Abner, h de Ner tío de SaúlH1121
+- 1Sa_14:51porque Cis...y Ner...fueron h de AbielH1121
+- 1Sa_15:6misericordia a todos los h de IsraelH1121
+- 1Sa_15:6se apartaron...de entre los h de AmalecH6003
+- 1Sa_15:33las mujeres sin h...tu madre será sin hH7921
+- 1Sa_16:1porque de sus h me he provisto de reyH1121
+- 1Sa_16:5santificando él a Isaí y a sus h, los llamóH1121
+- 1Sa_16:10hizo pasar Isaí siete h suyos delanteH1121
+- 1Sa_16:11dijo Samuel...¿Son éstos todos tus h?[[H5288]]
+- 1Sa_16:18he visto a un h de Isaí de Belén, queH1121
+- 1Sa_16:19envíame a David tu h, el que está conH1121
+- 1Sa_16:20envió a Saúl por medio de David su hH1121
+- 1Sa_17:12era h de...Isaí, el cual tenía ocho hH1121
+- 1Sa_17:13los tres h mayores de Isaí habían idoH1121
+- 1Sa_17:13sus tres h que habían ido a la guerraH1121
+- 1Sa_17:17y dijo Isaí a David su h: Toma ahoraH1121
+- 1Sa_17:53volvieron los h de Israel de seguir trasH1121
+- 1Sa_17:55dijo...Abner, ¿de quién es h ese joven?[[H1121]]
+- 1Sa_17:56dijo: Pregunta de quién es h ese jovenH1121
+- 1Sa_17:58dijo Saúl: Muchacho, ¿de quién eres h?[[H1121]]
+- 1Sa_17:58respondió: Yo soy h de tu siervo IsaíH1121
+- 1Sa_19:1habló Saúl a Jonatán su h, y a todosH1121
+- 1Sa_19:1pero Jonatán h de Saúl amaba a David enH1121
+- 1Sa_20:27Saúl dijo a Jonatán su h: ¿Por qué noH1121
+- 1Sa_20:27no ha venido a comer el h de Isaí hoyH1121
+- 1Sa_20:30h de la perversa y rebelde, ¿acaso noH1121
+- 1Sa_20:30sé yo que tú has elegido al h de IsaíH1121
+- 1Sa_20:31todo el tiempo que el h de Isaí viviereH1121
+- 1Sa_22:7h de Benjamín: ¿Os dará...el h de IsaíH1121
+- 1Sa_22:8mi h ha hecho alianza con el h de IsaíH1121
+- 1Sa_22:8mi h ha levantado a mi siervo contra míH1121
+- 1Sa_22:9dijo: Yo vi al h de Isaí que vino a NobH1121
+- 1Sa_22:9que vino a Nob, a Ahimelec h de AhitobH1121
+- 1Sa_22:11el rey envió por...Ahimelec h de AhitobH1121
+- 1Sa_22:12Saúl le dijo: Oye ahora, h de AhitobH1121
+- 1Sa_22:13habéis conspirado...tú y el h de IsaíH1121
+- 1Sa_22:20uno de los h de Ahimelec h de AhitobH1121
+- 1Sa_23:6que cuando Abiatar h de Ahimelec huyóH1121
+- 1Sa_23:16se levantó Jonatán h de Saúl y vino aH1121
+- 1Sa_24:16¿no es esta la voz tuya, h mío DavidH1121
+- 1Sa_25:8que des lo que tuvieres...a tu h DavidH1121
+- 1Sa_25:10Nabal...dijo: ¿Quién es...el h de Isaí?[[H1121]]
+- 1Sa_25:44había dado a su hija Mical...a Palti hH1121
+- 1Sa_26:5donde dormían Saúl y Abner h de NerH1121
+- 1Sa_26:6David dijo a...y a Abisai h de SarviaH1121
+- 1Sa_26:14dio voces David al...y a Abner h de NerH1121
+- 1Sa_26:17dijo: ¿No es esta tu voz, h mío, David?[[H1121]]
+- 1Sa_26:19si fueren h de hombres, malditos seanH1121
+- 1Sa_26:21he pecado; vuélvete, h mío David, queH1121
+- 1Sa_26:25dijo a David: Bendito eres tú, h míoH1121
+- 1Sa_27:2se pasó a Aquis h de Maoc, rey de GatH1121
+- 1Sa_28:19mañana estaréis conmigo, tú y tus hH1121
+- 1Sa_30:3y sus h e hijas habían sido llevadosH1121
+- 1Sa_30:6en amargura de alma, cada uno por sus hH1121
+- 1Sa_30:7dijo David al sacerdote Abiatar h deH1121
+- 1Sa_30:19así de h como de hijas, del robo, yH1121
+- 1Sa_30:22daremos...a cada uno su mujer y sus hH1121
+- 1Sa_31:2siguiendo...filisteos a Saúl y a sus hH1121
+- 1Sa_31:2mataron a Jonatán...y a Malquisúa, h deH1121
+- 1Sa_31:6murió...con sus tres h, y su escuderoH1121
+- 1Sa_31:7que Saúl y sus h habían sido muertosH1121
+- 1Sa_31:8hallaron a Saúl y a sus tres h tendidosH1121
+- 1Sa_31:12quitaron el cuerpo de Saúl y...de sus hH1121
+- 2Sa_1:4también Saúl y Jonatán su h murieronH1121
+- 2Sa_1:5¿cómo sabes que han muerto Saúl y su h?[[H1121]]
+- 2Sa_1:12ayunaron...por Saúl y por Jonatán su hH1121
+- 2Sa_1:13yo soy h de un extranjero, amalecitaH1121
+- 2Sa_1:17endechó David a Saúl y a Jonatán su hH1121
+- 2Sa_1:18dijo que debía enseñarse a los h de JudáH1121
+- 2Sa_2:8pero Abner h de Ner...tomó a Is-boset h deH1121
+- 2Sa_2:10de cuarenta años era Is-boset h de SaúlH1121
+- 2Sa_2:12Abner h de Ner salió de Mahanaim aH1121
+- 2Sa_2:12con los siervos de Is-boset h de SaúlH1121
+- 2Sa_2:13Joab h de Sarvia y los siervos de DavidH1121
+- 2Sa_2:15doce...de Is-boset h de Saúl, y doce deH1121
+- 2Sa_2:18estaban allí los tres h de Sarvia: JoabH1121
+- 2Sa_2:25se juntaron los h de Benjamín en pos deH1121
+- 2Sa_3:2nacieron h de David...su primogénito fueH1121
+- 2Sa_3:3Absalón h de Maaca, hija de Talmai reyH1121
+- 2Sa_3:4cuarto, Adonías h de Haguit; el quintoH1121
+- 2Sa_3:4Adonías...el quinto, Sefatías h de AbitalH1121
+- 2Sa_3:14envió David mensajeros a Is-boset h deH1121
+- 2Sa_3:15la quitó a su marido Paltiel h de LaisH1121
+- 2Sa_3:23Abner h de Ner ha venido al rey, y élH1121
+- 2Sa_3:25conoces a Abner h de Ner. No ha venidoH1121
+- 2Sa_3:28inocente soy...de la sangre de Abner hH1121
+- 2Sa_3:37no...del rey el matar a Abner h de NerH1121
+- 2Sa_3:39los h de Sarvia son muy duros para míH1121
+- 2Sa_4:1oyó el h de Saúl que Abner había sidoH1121
+- 2Sa_4:2y el h de Saúl tenía dos...capitanes deH1121
+- 2Sa_4:2Baana, y...Recab, h de Rimón beerotitaH1121
+- 2Sa_4:2de los h de Benjamín (porque Beerot eraH1121
+- 2Sa_4:4Jonatán h de Saúl tenía un h lisiado deH1121
+- 2Sa_4:5los h, pues, de Rimón...fueron y entraronH1121
+- 2Sa_4:8he aquí la cabeza de Is-boset h de SaúlH1121
+- 2Sa_4:9David respondió a Recab y a...h de RimónH1121
+- 2Sa_5:13tomó David...y le nacieron más h e hijasH1121
+- 2Sa_6:3Uza y...h de Abinadab, guiaban el carroH1121
+- 2Sa_6:23Mical hija de Saúl nunca tuvo h hastaH3206
+- 2Sa_7:6en que saqué a los h de Israel de EgiptoH1121
+- 2Sa_7:7cuanto he andado con...los h de IsraelH1121
+- 2Sa_7:14le seré a él padre, y él me será a mí hH1121
+- 2Sa_7:14castigaré, con azotes de h de hombresH1121
+- 2Sa_8:3derrotó David a Hadad-ezer h de RehobH1121
+- 2Sa_8:10envió Toi a Joram su h al rey DavidH1121
+- 2Sa_8:12y del botín de Hadad-ezer h de RehobH1121
+- 2Sa_8:16h de Sarvia era general de su ejércitoH1121
+- 2Sa_8:16y Josafat h de Ahilud era cronistaH1121
+- 2Sa_8:17h de Ahitob y Ahimelec: h de Abiatar eranH1121
+- 2Sa_8:18Benaía h de Joiada...sobre los cereteosH1121
+- 2Sa_8:18y los h de David eran los príncipesH1121
+- 2Sa_9:3aún ha quedado un h de Jonatán, lisiadoH1121
+- 2Sa_9:4aquí, está en casa de Maquir h de AmielH1121
+- 2Sa_9:5le trajo de la casa de Maquir h de AmielH1121
+- 2Sa_9:6vino Mefi-boset, h de Jonatán h de SaúlH1121
+- 2Sa_9:9que fue de Saúl...he dado al h de tu señorH1121
+- 2Sa_9:10le labrarás las tierras, tú con tus hH1121
+- 2Sa_9:10el h de tu señor tenga pan para comerH1121
+- 2Sa_9:10Mefi-boset el h de tu señor...a mi mesaH1121
+- 2Sa_9:10y tenía Siba quince h y veinte siervosH1121
+- 2Sa_9:11a mi mesa, como uno de los h del reyH1121
+- 2Sa_9:12tenía Mefi-boset un h pequeño...MicaíaH1121
+- 2Sa_10:1murió el rey de los h de Amón, y reinóH1121
+- 2Sa_10:1murió...y reinó en lugar suyo Hanún su hH1121
+- 2Sa_10:2haré misericordia con Hanún h de NahasH1121
+- 2Sa_10:2llegados...a la tierra de los h de AmónH1121
+- 2Sa_10:3los príncipes de los h de Amón dijeronH1121
+- 2Sa_10:6viendo los h de Amón que se habían hechoH1121
+- 2Sa_10:6h de Amón y tomaron a sueldo a...siriosH1121
+- 2Sa_10:8saliendo los h de Amón, se pusieron enH1121
+- 2Sa_10:11si los h de Amón pudieren más que túH1121
+- 2Sa_10:14los h de Amón, viendo que los siriosH1121
+- 2Sa_10:14Joab de luchar contra los h de AmónH1121
+- 2Sa_10:19temieron ayudar más a los h de AmónH1121
+- 2Sa_11:21¿quién hirió a...h de Jerobaal? ¿No echóH1121
+- 2Sa_11:27fue ella su mujer, y le dio a luz un hH1121
+- 2Sa_12:3que había crecido con él y con sus hH1121
+- 2Sa_12:9mataste con la espada de los h de AmónH1121
+- 2Sa_12:14h que te ha nacido ciertamente moriráH1121
+- 2Sa_12:24le dio a luz un h, y llamó su nombreH1121
+- 2Sa_12:26peleaba contra Rabá de los h de AmónH1121
+- 2Sa_12:31a todas las ciudades de los h de AmónH1121
+- 2Sa_13:1teniendo Absalón h de David...hermanaH1121
+- 2Sa_13:1se enamoró de ella Amnón h de DavidH1121
+- 2Sa_13:3un amigo...Jonadab h de Simea, hermanoH1121
+- 2Sa_13:4h del rey, ¿por qué de día en día vasH1121
+- 2Sa_13:23convidó Absalón a todos los h del reyH1121
+- 2Sa_13:25no, h mío, no vamos todos, para queH1121
+- 2Sa_13:27dejó ir con él...a todos los h del reyH1121
+- 2Sa_13:29se levantaron todos los h del rey, yH1121
+- 2Sa_13:30ha dado muerte a todos los h del reyH1121
+- 2Sa_13:32Jonadab, h de Simea...habló y dijo: NoH1121
+- 2Sa_13:32no diga...han dado muerte a...h del reyH1121
+- 2Sa_13:33todos los h del rey han sido muertosH1121
+- 2Sa_13:35he allí los h del rey que vienen; esH1121
+- 2Sa_13:36he aquí los h del rey que vinieron, yH1121
+- 2Sa_13:37Absalón...y se fue a Talmai h de AmiudH1121
+- 2Sa_13:37David lloraba por su h todos los díasH1121
+- 2Sa_14:1conociendo Joab h de Sarvia que elH1121
+- 2Sa_14:6tu sierva tenía dos h, y los dos riñeronH1121
+- 2Sa_14:11el vengador de la...no destruya a mi hH1121
+- 2Sa_14:11no caerá ni un cabello de la...de tu hH1121
+- 2Sa_14:16que me quiere destruir a mí y a mi hH1121
+- 2Sa_14:27nacieron a Absalón tres h, y una hijaH1121
+- 2Sa_15:27vuelve...y con vosotros vuestros dos hH1121
+- 2Sa_15:27Ahimaas tu h, y Jonatán h de AbiatarH1121
+- 2Sa_15:36están con ellos sus dos h, Ahimaas elH1121
+- 2Sa_16:3y dijo...¿Dónde está el h de tu señor?[[H1121]]
+- 2Sa_16:5salía uno...se llamaba Simei, h de GeraH1121
+- 2Sa_16:8ha entregado el reino en mano de tu hH1121
+- 2Sa_16:9Abisai h de Sarvia dijo al rey: ¿Por quéH1121
+- 2Sa_16:10tengo yo con vosotros, h de Sarvia?[[H1121]]
+- 2Sa_16:11mi h que ha salido de...acecha mi vidaH1121
+- 2Sa_16:11¿cuánto más ahora un h de Benjamín?[[H1121]]
+- 2Sa_16:19¿no es a su h? Como he servido delanteH1121
+- 2Sa_17:25Amasa era h de un varón de Israel...ItraH1121
+- 2Sa_17:27Sobi h de Nahas, de Rabá de los h deH1121
+- 2Sa_17:27Sobi...Maquir h de Amiel, de LodebarH1121
+- 2Sa_18:2bajo el mando de Abisai h de SarviaH1121
+- 2Sa_18:12extendería mi mano contra el h del reyH1121
+- 2Sa_18:18no tengo h que conserve...mi nombreH1121
+- 2Sa_18:19Ahimaas h de Sadoc dijo: ¿Correré ahoraH1121
+- 2Sa_18:20nueva, porque el h del rey ha muertoH1121
+- 2Sa_18:22Ahimaas h de Sadoc volvió a decir aH1121
+- 2Sa_18:22h mío, ¿para qué has de correr tú, siH1121
+- 2Sa_18:27como el correr de Ahimaas h de SadocH1121
+- 2Sa_18:33decía...¡h mío Absalón, h mío, h míoH1121
+- 2Sa_18:33que muriera yo...Absalón, h mío, h mío![[H1121]]
+- 2Sa_19:2oyó...que el rey tenía dolor por su hH1121
+- 2Sa_19:4h mío Absalón, Absalón, h mío, h mío![[H1121]]
+- 2Sa_19:5han librado tu vida, y la vida de tus hH1121
+- 2Sa_19:16y Simei h de Gera, h de Benjamín, queH1121
+- 2Sa_19:17venían...Siba...con sus quince h y susH1121
+- 2Sa_19:18Simei h de Gera se postró delante delH1121
+- 2Sa_19:21respondió Abisai h de Sarvia y dijoH1121
+- 2Sa_19:22qué tengo yo con vosotros, h de SarviaH1121
+- 2Sa_19:24también Mefi-boset h de Saúl descendióH1121
+- 2Sa_20:1se llamaba Seba h de Bicri, hombre deH1121
+- 2Sa_20:1no tenemos...heredad con el h de IsaíH1121
+- 2Sa_20:2a David, siguiendo a Seba h de BicriH1121
+- 2Sa_20:6Seba h de Bicri nos hará ahora...dañoH1121
+- 2Sa_20:7salieron...para ir tras Seba h de BicriH1121
+- 2Sa_20:10fueron en persecución de Seba h deH1121
+- 2Sa_20:13pasaron...para ir tras Seba h de BicriH1121
+- 2Sa_20:21Seba h de Bicri, ha levantado su manoH1121
+- 2Sa_20:22cortaron la cabeza a Seba h de BicriH1121
+- 2Sa_20:23Benaía h de Joiada sobre los cereteosH1121
+- 2Sa_20:24y Josafat h de Ahilud era el cronistaH1121
+- 2Sa_21:2gabaonitas no eran de los h de IsraelH1121
+- 2Sa_21:2los cuales los h de Israel habían hechoH1121
+- 2Sa_21:2matarlos en su celo por los h de IsraelH1121
+- 2Sa_21:6dénsenos siete varones de sus h, paraH1121
+- 2Sa_21:7perdonó el rey...h de Jonatán, h de SaúlH1121
+- 2Sa_21:7el juramento...entre David y Jonatán h deH1121
+- 2Sa_21:8pero tomó el rey a dos h de Rizpa hijaH1121
+- 2Sa_21:8y a 5 h de Mical hija de Saúl, los cualesH1121
+- 2Sa_21:8ella había tenido de Adriel h de BarzilaiH1121
+- 2Sa_21:12fue y tomó...los huesos de Jonatán su hH1121
+- 2Sa_21:13hizo llevar...los huesos de Jonatán su hH1121
+- 2Sa_21:14sepultaron los...de Saúl y los de su hH1121
+- 2Sa_21:17Abisai h de Sarvia llegó en su ayudaH1121
+- 2Sa_21:19Elhanán, h de Jaare-oregim de BelénH1121
+- 2Sa_21:21lo mató Jonatán, h de Simea hermano deH1121
+- 2Sa_22:45los h de extraños se someterán a míH1121
+- 2Sa_23:1dijo David h de Isaí, dijo aquel varónH1121
+- 2Sa_23:9Eleazar h de Dodo, ahohita, uno de losH1121
+- 2Sa_23:11después de...fue Sama h de Age, araritaH1121
+- 2Sa_23:18Abisai hermano de Joab, h de SarviaH1121
+- 2Sa_23:20después, Benaía h de Joiada, h de unH1121
+- 2Sa_23:22esto hizo Benaía h de Joiada, y ganóH1121
+- 2Sa_23:24Asael...Elhanán h de Dodo de BelénH1121
+- 2Sa_23:26Heles paltita, Ira h de Iques, tecoítaH1121
+- 2Sa_23:29Heleb h de Baana, netofatita, Itai hH1121
+- 2Sa_23:29Ribai, de Gabaa de los h de BenjamínH1121
+- 2Sa_23:32Eliaba saalbonita, Jonatán de los hH1121
+- 2Sa_23:33ararita, Ahíam h de Sarar, araritaH1121
+- 2Sa_23:34Elifelet h de Ahasbai, h de MaacaH1121
+- 2Sa_23:34Eliam h de Ahitofel, gilonitaH1121
+- 2Sa_23:36Igal h de Natán, de Soba, Bani gaditaH1121
+- 2Sa_23:37Naharai...escudero de Joab h de SarviaH1121
+- 1Re_1:5Adonías h de Haguit se rebeló, diciendoH1121
+- 1Re_1:7puesto de acuerdo con Joab h de SarviaH1121
+- 1Re_1:8Benaía h de Joiada, y el profeta NatánH1121
+- 1Re_1:9convidó a todos sus...los h del rey, y aH1121
+- 1Re_1:11has oído que reina Adonías h de HaguitH1121
+- 1Re_1:12conserves tu vida, y la de tu h SalomónH1121
+- 1Re_1:13,17Salomón tu h reinará después de míH1121
+- 1Re_1:19,25ha convidado a todos los h del reyH1121
+- 1Re_1:21yo y mi h Salomón seremos tenidos porH1121
+- 1Re_1:26ni a Benaía h de Joiada, ni a SalomónH1121
+- 1Re_1:30tu h Salomón reinará después de mí, yH1121
+- 1Re_1:32profeta Natán, y a Benaía h de JoiadaH1121
+- 1Re_1:33y montad a Salomón mi h en mi mulaH1121
+- 1Re_1:36Benaía h de Joiada respondió al rey yH1121
+- 1Re_1:38y descendieron...Benaía h de Joiada, yH1121
+- 1Re_1:42vino Jonatán h del sacerdote AbiatarH1121
+- 1Re_1:44el rey ha enviado...a Benaía h de JoiadaH1121
+- 1Re_2:1David...ordenó a Salomón su h, diciendoH1121
+- 1Re_2:4si tus h guardaren mi camino, andandoH1121
+- 1Re_2:5que me ha hecho Joab h de Sarvia, loH1121
+- 1Re_2:5a Abner h de Ner y a Amasa h de JeterH1121
+- 1Re_2:7a los h de Barzilai...harás misericordiaH1121
+- 1Re_2:8tienes contigo a Simei h de Gera, h deH1121
+- 1Re_2:13Adonías h de Haguit vino a BetsabéH1121
+- 1Re_2:22y ya tiene también...a Joab h de SarviaH1121
+- 1Re_2:25envió por mano de Benaía h de JoiadaH1121
+- 1Re_2:29entonces envió Salomón a Benaía h deH1121
+- 1Re_2:32mató a...a Abner h de Ner...a Amasa h deH1121
+- 1Re_2:34Benaía h de Joiada subió y arremetióH1121
+- 1Re_2:35rey puso...a Benaía h de Joiada sobre elH1121
+- 1Re_2:39dos siervos...huyeron a Aquis h de MaacaH1121
+- 1Re_2:46Benaía h de Joiada...salió y lo hirióH1121
+- 1Re_3:6que le diste h que se sentase en su tronoH1121
+- 1Re_3:19y una noche el h de esta mujer murióH1121
+- 1Re_3:20tomó a mi h de junto a mí, estando yoH1121
+- 1Re_3:20su lado, y puso al lado mío su h muertoH1121
+- 1Re_3:21yo me levanté...para dar el pecho a mi hH1121
+- 1Re_3:21pero lo observé...y vi que no era mi hH1121
+- 1Re_3:22,23mi h es el que vive, y tu h es elH1121
+- 1Re_3:22,23tu h es el muerto, y mi h es el queH1121
+- 1Re_3:26la mujer de quien era el h vivo, hablóH1121
+- 1Re_3:26sus entrañas se le conmovieron por su hH1121
+- 1Re_3:27respondió...Dad a aquélla el h vivo, yH3206
+- 1Re_4:2los jefes...Azarías h del sacerdote SadocH1121
+- 1Re_4:3Elihoref y Ahías, h de Sisa, secretariosH1121
+- 1Re_4:3y Ahías. Josafat h de Ahilud, cancillerH1121
+- 1Re_4:4Benaía h de Joiada sobre el ejércitoH1121
+- 1Re_4:5Azarías h de...sobre los gobernadoresH1121
+- 1Re_4:5Zabud h de Natán, ministro principal yH1121
+- 1Re_4:6y Adoniram h de Abda, sobre el tributoH1121
+- 1Re_4:8son...el h de Hur en el monte de EfraínH1133
+- 1Re_4:9el h de Decar en Macaz, en Saalbim, enH1128
+- 1Re_4:10el h de Hesed en Arubot; éste tenía porH1136
+- 1Re_4:11el h de Abinadab en...territorios de DorH1125
+- 1Re_4:12Baana h de Ahilud en Taanac y MeguidoH1121
+- 1Re_4:13el h de Geber en Ramot de Galaad; ésteH1127
+- 1Re_4:13tenía...ciudades de Jair h de ManasésH1121
+- 1Re_4:14Ahinadab h de Iddo en MahanaimH1121
+- 1Re_4:16Baana h de Husai, en Aser y en A lotH1121
+- 1Re_4:17Josafat h de Parúa, en IsacarH1121
+- 1Re_4:18Simei h de Ela, en BenjamínH1121
+- 1Re_4:19Geber h de Uri, en la tierra de GalaadH1121
+- 1Re_4:31fue más sabio que...Darda, h de MaholH1121
+- 1Re_5:5tu h...él edificará casa a mi nombreH1121
+- 1Re_5:7bendito sea hoy...que dio h sabio a DavidH1121
+- 1Re_6:1después que los h de Israel salieron deH1121
+- 1Re_6:13habitaré...en medio de los h de IsraelH1121
+- 1Re_7:14h de una viuda de la tribu de NeftalíH1121
+- 1Re_8:1a los principales de...de los h de IsraelH1121
+- 1Re_8:9Jehová hizo pacto con los h de IsraelH1121
+- 1Re_8:19tú no edificarás la casa, sino tu h queH1121
+- 1Re_8:25con tal que tus h guarden mi camino yH1121
+- 1Re_8:39conoces el corazón de todos los h deH1121
+- 1Re_8:63dedicaron...todos los de Israel la casaH1121
+- 1Re_9:6apartareis de mí vosotros y vuestros hH1121
+- 1Re_9:20todos...que no eran de los h de IsraelH1121
+- 1Re_9:21h que quedaron en la tierra después deH1121
+- 1Re_9:21que los h de Israel no pudieron acabarH1121
+- 1Re_9:22mas a ninguno de los h de Israel impusoH1121
+- 1Re_11:2Jehová había dicho a los h de IsraelH1121
+- 1Re_11:7a Moloc, ídolo abominable de los h deH1121
+- 1Re_11:12padre; lo romperé de la mano de tu hH1121
+- 1Re_11:13una tribu a tu h, por amor a David miH1121
+- 1Re_11:20le dio a luz su h Genubat, al cualH1121
+- 1Re_11:20estaba Genubat...entre los h de FaraónH1121
+- 1Re_11:23contra Salomón a Rezón h de EliadaH1121
+- 1Re_11:26también Jeroboam h de Nabat, efrateoH1121
+- 1Re_11:33Moloc dios de los h de Amón; y no hanH1121
+- 1Re_11:35quitaré el reino de la mano de su hH1121
+- 1Re_11:36y a su h daré una tribu, para que miH1121
+- 1Re_11:43durmió...y reinó en su lugar Roboam su hH1121
+- 1Re_12:2que cuando lo oyó Jeroboam h de NabatH1121
+- 1Re_12:15había hablado...a Jeroboam h de NabatH1121
+- 1Re_12:16no tenemos heredad en el h de IsaíH1121
+- 1Re_12:17reinó Roboam sobre los h de Israel queH1121
+- 1Re_12:21volver el reino a Roboam h de SalomónH1121
+- 1Re_12:23habla a Roboam h de Salomón, rey deH1121
+- 1Re_12:24no vayáis, ni peleéis...los h de IsraelH1121
+- 1Re_12:31sacerdotes...no eran de los h de LevíH1121
+- 1Re_12:33hizo fiesta a los h de Israel, y subióH1121
+- 1Re_13:2a la casa de David nacerá un h...JosíasH1121
+- 1Re_13:11al cual vino su h y le contó todo loH1121
+- 1Re_13:12sus h le mostraron el camino por dondeH1121
+- 1Re_13:13él dijo a sus h: Ensilladme el asnoH1121
+- 1Re_13:27y habló a sus h, y...Ensilladme un asnoH1121
+- 1Re_13:31habló a...h, diciendo: Cuando yo mueraH1121
+- 1Re_14:1en...Abías h de Jeroboam cayó enfermoH1121
+- 1Re_14:5consultarte por su h, que está enfermoH1121
+- 1Re_14:20padres, reinó en su lugar Nadab su hH1121
+- 1Re_14:21Roboam h de Salomón reinó en Judá. DeH1121
+- 1Re_14:24Jehová había echado delante de los hH1121
+- 1Re_14:31Roboam...reinó en su lugar Abiam su hH1121
+- 1Re_15:1el año 18 del rey Jeroboam h de NabatH1121
+- 1Re_15:4David...levantando a su h después de élH1121
+- 1Re_15:8y durmió...y reinó Asa su h en su lugarH1121
+- 1Re_15:18a Ben-adad h de Tabrimón, h de HeziónH1121
+- 1Re_15:24Asa...y reinó en su lugar Josafat su hH1121
+- 1Re_15:25Nadab h de Jeroboam comenzó a reinarH1121
+- 1Re_15:27Baasa h de Abías...conspiró contra élH1121
+- 1Re_15:33comenzó a reinar Baasa h de Ahías sobreH1121
+- 1Re_16:1palabra de Jehová a Jehú h de HananiH1121
+- 1Re_16:3su casa como la...de Jeroboam h de NabatH1121
+- 1Re_16:6durmió...y reinó en su lugar Ela su hH1121
+- 1Re_16:7pero la palabra...por el profeta Jehú hH1121
+- 1Re_16:8comenzó a reinar Ela h de Baasa sobreH1121
+- 1Re_16:13los pecados de Baasa y...de Ela su hH1121
+- 1Re_16:21la mitad del pueblo seguía a Tibni hH1121
+- 1Re_16:22que el que seguía a Tibni h de GinatH1121
+- 1Re_16:26en...los caminos de Jeroboam h de NabatH1121
+- 1Re_16:28Omri...y reinó en lugar suyo Acab su hH1121
+- 1Re_16:29comenzó a reinar Acab h de Omri sobreH1121
+- 1Re_16:30reinó Acab h de Omri sobre Israel enH1121
+- 1Re_16:30Acab h de Omri hizo lo malo ante losH1121
+- 1Re_16:31en los pecados de Jeroboam h de NabatH1121
+- 1Re_16:34a precio de...Segub su h menor puso susH1121
+- 1Re_16:34que Jehová había hablado por Josué hH1121
+- 1Re_17:12prepararlo para mí y para mi h, paraH1121
+- 1Re_17:13y después harás para ti y para tu hH1121
+- 1Re_17:17cayó enfermo el h del ama de la casaH1121
+- 1Re_17:18¿has venido...para hacer morir a mi h?[[H1121]]
+- 1Re_17:19te dijo: Dame acá tu h. Entonces él loH1121
+- 1Re_17:20has afligido, haciéndole morir su h?[[H1121]]
+- 1Re_17:23dio...y le dijo Elías: Mira, tu h viveH1121
+- 1Re_18:20Acab convocó a todos los h de IsraelH1121
+- 1Re_18:31número de las tribus de los h de JacobH1121
+- 1Re_19:10,14los h de Israel han dejado tu pactoH1121
+- 1Re_19:16Jehú h de Nimsi ungirás por rey sobreH1121
+- 1Re_19:16y a Eliseo h de Safat, de Abel-meholaH1121
+- 1Re_19:19halló a Eliseo h de Safat, que arabaH1121
+- 1Re_20:3y tus mujeres y tus h hermosos son míosH1121
+- 1Re_20:5tu oro, y tus mujeres y tus h me darásH1121
+- 1Re_20:7ha enviado a...por mis mujeres y mis hH1121
+- 1Re_20:15pasó revista a...todos los h de IsraelH1121
+- 1Re_20:27los h de Israel fueron...inspeccionadosH1121
+- 1Re_20:27acamparon los h de Israel delante deH1121
+- 1Re_20:29los h de Israel mataron de los siriosH1121
+- 1Re_20:35varón de los h de los profetas dijo aH1121
+- 1Re_21:22tu casa como la...de Jeroboam h de NabatH1121
+- 1Re_21:22como la casa de Baasa h de Ahías, porH1121
+- 1Re_21:26lanzó...de delante de los h de IsraelH1121
+- 1Re_21:29los días de su h traeré el mal sobreH1121
+- 1Re_22:8un varón por el cual...Micaías h de ImlaH1121
+- 1Re_22:9dijo: Trae pronto a Micaías h de ImlaH1121
+- 1Re_22:11Sedequías h de Quenaana se había hechoH1121
+- 1Re_22:24acercó Sedequías h de Quenaana y golpeóH1121
+- 1Re_22:26a Micaías y llévalo...a Joás h del reyH1121
+- 1Re_22:40Acab...y reinó en su lugar Ocozías su hH1121
+- 1Re_22:41Josafat h de Asa comenzó a reinar sobreH1121
+- 1Re_22:49Ocozías h de Acab dijo a Josafat: VayanH1121
+- 1Re_22:50durmió...y en su lugar reinó Joram su hH1121
+- 1Re_22:51Ocozías h de Acab comenzó a reinarH1121
+- 1Re_22:52y en el camino de Jeroboam h de NabatH1121
+- 2Re_1:17el segundo año de Joram h de JosafatH1121
+- 2Re_1:17reinó en su lugar...Ocozías no tenía hH1121
+- 2Re_2:3saliendo a Eliseo los h de los profetasH1121
+- 2Re_2:5acercaron a Eliseo los h de los profetasH1121
+- 2Re_2:7vinieron 50...de los h de los profetasH1121
+- 2Re_2:15viéndole...h de los profetas que estabanH1121
+- 2Re_3:1Joram h de...comenzó a reinar en SamariaH1121
+- 2Re_3:3se entregó a los pecados de Jeroboam hH1121
+- 2Re_3:11Eliseo h de Safat, que servía a ElíasH1121
+- 2Re_4:1de las mujeres de los h de los profetasH1121
+- 2Re_4:1ha venido el acreedor para tomarse dos hH1121
+- 2Re_4:4entra luego, y enciérrate tú y tus hH1121
+- 2Re_4:5y cerró la...encerrándose ella y sus hH1121
+- 2Re_4:6a un h suyo: Tráeme aún otras vasijasH1121
+- 2Re_4:7paga...tú y tus h vivid de lo que quedeH1121
+- 2Re_4:14ella no tiene h, y su marido es viejoH1121
+- 2Re_4:16dijo...por este tiempo, abrazarás un hH1121
+- 2Re_4:17la mujer concibió, y dio a luz un hH1121
+- 2Re_4:26¿te...¿Le va bien a tu marido, y a tu h?[[H3206]]
+- 2Re_4:28ella dijo: ¿Pedí yo h a mi señor? ¿NoH1121
+- 2Re_4:36y entrando ella, él le dijo: Toma tu hH1121
+- 2Re_4:37entró...y después tomó a su h, y salióH1121
+- 2Re_4:38y los h de los profetas estaban con élH1121
+- 2Re_4:38haz potaje para los h de los profetasH1121
+- 2Re_5:22vinieron...dos jóvenes de los h de losH1121
+- 2Re_6:1los h de los profetas dijeron a EliseoH1121
+- 2Re_6:28me dijo: Da acá tu h, y comámoslo hoyH1121
+- 2Re_6:29cocimos, pues, a mi h, y lo comimosH1121
+- 2Re_6:29da acá tu h...ella ha escondido a su hH1121
+- 2Re_6:31si la cabeza de Eliseo h de Safar quedaH1121
+- 2Re_6:32visto cómo este h de homicida envía aH1121
+- 2Re_8:1,5mujer a cuyo h él había hecho vivirH1121
+- 2Re_8:5dijo...esta es la mujer, y este es su hH1121
+- 2Re_8:9tu h Ben-adad rey...me ha enviado a tiH1121
+- 2Re_8:12sé el mal que harás a los h de IsraelH1121
+- 2Re_8:16el quinto año de Joram h de Acab, reyH1121
+- 2Re_8:16comenzó a reinar Joram h de Josafat, reyH1121
+- 2Re_8:19darle lámpara...y a sus h perpetuamenteH1121
+- 2Re_8:24y reinó en lugar suyo Ocozías, su hH1121
+- 2Re_8:25en el año doce de Joram h de Acab, reyH1121
+- 2Re_8:25comenzó a reinar Ocozías h de JoramH1121
+- 2Re_8:28fue a la guerra con Joram h de Acab aH1121
+- 2Re_8:29y descendió Ocozías h de Joram rey deH1121
+- 2Re_8:29descendió...a visitar a Joram h de AcabH1121
+- 2Re_9:1profeta Eliseo llamó a uno de los h deH1121
+- 2Re_9:2allá, verás allí a Jehú h de Josafat h deH1121
+- 2Re_9:9Acab como la casa de Jeroboam h de NabatH1121
+- 2Re_9:9pondré...como la casa de Baasa h de AhíasH1121
+- 2Re_9:14así conspiró Jehú h de Josafat, h deH1121
+- 2Re_9:20es como el marchar de Jehú h de NimsiH1121
+- 2Re_9:26sangre de Nabot, y la sangre de sus hH1121
+- 2Re_9:29en el undécimo año de Joram h de AcabH1121
+- 2Re_10:1tenía Acab en Samaria setenta h; y JehúH1121
+- 2Re_10:2los que tenéis a los h de vuestro señorH1121
+- 2Re_10:3al más recto de los h de vuestro señorH1121
+- 2Re_10:6tomad las cabezas de los h varones deH1121
+- 2Re_10:6h del rey...estaban con los principalesH1121
+- 2Re_10:7tomaron a los h del rey, y degollaronH1121
+- 2Re_10:8han traído las cabezas del los h del reyH1121
+- 2Re_10:13a saludar a los h del rey, y a los hH1121
+- 2Re_10:15allí, se encontró con Jonadab h de RecabH1121
+- 2Re_10:23entró Jehú con Jonadab h de Recab enH1121
+- 2Re_10:29de los pecados de Jeroboam h de NabatH1121
+- 2Re_10:30tus h se sentarán sobre el trono deH1121
+- 2Re_10:35Jehú...reinó en su lugar Joacaz su hH1121
+- 2Re_11:1Atalía madre...vio que su h era muertoH1121
+- 2Re_11:2a Joás h...sacó...de entre los h del reyH1121
+- 2Re_11:4los metió...y les mostró el h del reyH1121
+- 2Re_11:12sacando luego Joiada al h del rey, leH1121
+- 2Re_12:21Josacar h...y Jozabad h de...le hirieronH1121
+- 2Re_12:21murió...reinó en su lugar Amasías su hH1121
+- 2Re_13:1en el año 23 de Joás h de Ocozías reyH1121
+- 2Re_13:1comenzó a reinar Joacaz h de Jehú sobreH1121
+- 2Re_13:2,11los pecados de Jeroboam h de NabatH1121
+- 2Re_13:3entregó...mano de Ben-adad h de HazaelH1121
+- 2Re_13:5habitaron...h de Israel en sus tiendasH1121
+- 2Re_13:9durmió...y reinó en su lugar Joás su hH1121
+- 2Re_13:10comenzó a reinar Joás h de Joacaz sobreH1121
+- 2Re_13:24rey...y reinó en su lugar Ben-adad su hH1121
+- 2Re_13:25y volvió Joás h de Joacaz y tomó deH1121
+- 2Re_13:25de Ben-adad h de Hazael las ciudadesH1121
+- 2Re_14:1en el año segundo de Joás h de JoacazH1121
+- 2Re_14:1comenzó a reinar Amasías h de Joás reyH1121
+- 2Re_14:6no mató a los h de los que le dieronH1121
+- 2Re_14:6no matarán a los padres por los h, niH1121
+- 2Re_14:6los h por los padres, sino que cada unoH1121
+- 2Re_14:8a Joás h de Joacaz, h de Jehú, rey deH1121
+- 2Re_14:9a decir...Da tu hija por mujer a mi hH1121
+- 2Re_14:13a Amasías rey...h de Joás, h de OcozíasH1121
+- 2Re_14:14y a los h tomó en rehenes, y volvió aH1121
+- 2Re_14:16Joás...reinó en su lugar Jeroboam su hH1121
+- 2Re_14:17Amasías h de Joás...vivió después de laH1121
+- 2Re_14:23el año quince de Amasías h de Joás reyH1121
+- 2Re_14:23comenzó a reinar Jeroboam h de JoásH1121
+- 2Re_14:24los pecados de Jeroboam h de Nabat, elH1121
+- 2Re_14:25había hablado por...Jonás h de AmitaiH1121
+- 2Re_14:27salvó por mano de Jeroboam h de JoásH1121
+- 2Re_14:29durmió...reinó en su lugar Zacarías su hH1121
+- 2Re_15:1comenzó a reinar Azarías h de AmasíasH1121
+- 2Re_15:5y Jotam h del rey tenía el cargo delH1121
+- 2Re_15:7durmió...y reinó en su lugar Jotam su hH1121
+- 2Re_15:8año 38...reinó Zacarías h de JeroboamH1121
+- 2Re_15:9,18,24,28los pecados de Jeroboam h deH1121
+- 2Re_15:10contra él conspiró Salum h de Jabes, yH1121
+- 2Re_15:12tus h...sentarán en el trono de IsraelH1121
+- 2Re_15:13Salum h de Jabes comenzó a reinar enH1121
+- 2Re_15:14Manahem h de Gadí subió de Tirsa y vioH1121
+- 2Re_15:14e hirió a Salum h de Jabes en SamariaH1121
+- 2Re_15:17en el año 39...reinó Manahem h de GadíH1121
+- 2Re_15:22durmió...reinó en su lugar Pekaía su hH1121
+- 2Re_15:23el año 50...reinó Pekaía h de ManahemH1121
+- 2Re_15:25conspiró contra él Peka h de RemalíasH1121
+- 2Re_15:25y de 50 hombres de los h...gataaditasH1121
+- 2Re_15:27en el año 52...reinó Peka h de RemalíasH1121
+- 2Re_15:30Oseas h de Ela conspiró contra Peka hH1121
+- 2Re_15:30a los veinte años de Jotam h de UzíasH1121
+- 2Re_15:32el segundo año de Peka h de RemalíasH1121
+- 2Re_15:32a reinar Jotam h de Uzías rey de JudáH1121
+- 2Re_15:37a enviar contra Judá a...y a Peka h deH1121
+- 2Re_15:38durmió...y reinó en su lugar Acaz su hH1121
+- 2Re_16:1año 17 de Peka h de Remalías, comenzó aH1121
+- 2Re_16:1a reinar Acaz h de Jotam rey de JudáH1121
+- 2Re_16:3aun hizo pasar por fuego a su h, segúnH1121
+- 2Re_16:3que Jehová echó de delante de los h deH1121
+- 2Re_16:5Rezín rey de Siria y Peka h...subieronH1121
+- 2Re_16:7diciendo: Yo soy tu siervo y tu h; subeH1121
+- 2Re_16:20Acaz...reinó en su lugar su h EzequíasH1121
+- 2Re_17:1el año...comenzó a reinar Oseas h de ElaH1121
+- 2Re_17:7los h de Israel pecaron contra JehováH1121
+- 2Re_17:8lanzado de delante de los h de IsraelH1121
+- 2Re_17:9h de Israel hicieron...cosas no rectasH1121
+- 2Re_17:17pasar a sus h y a sus hijas por fuegoH1121
+- 2Re_17:21ellos hicieron rey a Jeroboam h de NabatH1121
+- 2Re_17:22los h de Israel anduvieron en...pecadosH1121
+- 2Re_17:24puso en...en lugar de los h de IsraelH1121
+- 2Re_17:31los de Sefarvaim quemaban sus h en elH1121
+- 2Re_17:34que prescribió Jehová a los h de JacobH1121
+- 2Re_17:41y también sus h...así hacen hasta hoyH1121
+- 2Re_18:1el tercer año de Oseas h de Ela, rey deH1121
+- 2Re_18:1comenzó a reinar Ezequías h de Acaz reyH1121
+- 2Re_18:4le quemaban incienso los h de IsraelH1121
+- 2Re_18:9que era el año séptimo de Oseas h de ElaH1121
+- 2Re_18:18y salió a ellos Eliaquim h de HilcíasH1121
+- 2Re_18:18mayordomo, y Sebna escriba, y Joa h deH1121
+- 2Re_18:26,37Eliquim h de Hilcías, y SebnaH1121
+- 2Re_18:37y Jos_h de Asaf, canciller, vinieron aH1121
+- 2Re_19:2y envió a...al profeta Isaías h de AmozH1121
+- 2Re_19:3los h están a punto de nacer, y la queH1121
+- 2Re_19:12los h de Edén que estaban en Telasar?[[H1121]]
+- 2Re_19:20Isaías h de Amoz envió a...a EzequíasH1121
+- 2Re_19:37sus h lo hirieron a espada, y huyeronH1121
+- 2Re_19:37y reinó en su lugar Esar-hadón su hH1121
+- 2Re_20:1vino a él el profeta Isaías h de AmozH1121
+- 2Re_20:12Merodac-baladán h de Baladán, rey de BabiloniaH1121
+- 2Re_20:18de tus h que saldrán de ti, que habrásH1121
+- 2Re_20:21durmió Ezequías...y reinó...Manasés su hH1121
+- 2Re_21:2Jehová había echado de delante de los hH1121
+- 2Re_21:6y pasó a su h por fuego, y se dio aH1121
+- 2Re_21:7había dicho a David y a Salomón su hH1121
+- 2Re_21:9que Jehová destruyó delante de los h deH1121
+- 2Re_21:18durmió Manasés...y reinó en...Amón su hH1121
+- 2Re_21:24y puso...rey en su lugar a Josías su hH1121
+- 2Re_21:26fue sepultado en...y reinó...Josías su hH1121
+- 2Re_22:3envió el rey a Safán h de Azalía, h deH1121
+- 2Re_22:12el rey dio orden...a Ahicam h de SafánH1121
+- 2Re_22:12a Acbor h de Micaías, al escriba SafánH1121
+- 2Re_22:14Hulda, mujer de Salum h de Ticva, h deH1121
+- 2Re_23:6polvo sobre los sepulcros de los h delH1121
+- 2Re_23:10profanó a Tofet...en el valle del h deH1121
+- 2Re_23:10para que ninguno pasase su h...por fuegoH1121
+- 2Re_23:13a Milcom ídolo abominable de los h deH1121
+- 2Re_23:15lugar alto que había hecho Jeroboam hH1121
+- 2Re_23:30tomó a Joacaz h de Josías...por rey enH1121
+- 2Re_23:34puso por rey a Eliaquim h de Josías, enH1121
+- 2Re_24:6Joacim...reinó en su lugar Joaquín su hH1121
+- 2Re_25:7degollaron a los h de Sedequías enH1121
+- 2Re_25:22gobernador a Gedalías h de Ahicam, hH1121
+- 2Re_25:23vinieron a él en...Ismael h de NetaníasH1121
+- 2Re_25:23vinieron a...Mizpa...Johanán h de CareaH1121
+- 2Re_25:23Seraías h de Tanhumet...y Jaazanías h deH1121
+- 2Re_25:25Ismael h de Netanías, h de Elisama, deH1121
+- 1Cr_1:5los h de Jafet: Gomer, Magog, MadaiH1121
+- 1Cr_1:6los h de Gomer: Askenaz, Rifat y TogarmaH1121
+- 1Cr_1:7los h de Javán: Elisa, Tarsis, QuitimH1121
+- 1Cr_1:8h de Cam: Cus, Mizraim, Fut y CanaánH1121
+- 1Cr_1:9los h de Cus: Seba, Havila, Sabta, RaamaH1121
+- 1Cr_1:9y los h de Raama: Seba y DedánH1121
+- 1Cr_1:17los h de Sem: Elam, Asur, Arfaxad, LudH1121
+- 1Cr_1:19a Heber nacieron dos h; el nombre delH1121
+- 1Cr_1:23Ofir, Havila y Jobab; todos h de JoctánH1121
+- 1Cr_1:28los h de Abraham: Isaac e IsmaelH1121
+- 1Cr_1:31Jetur, Nafis y Cedema...los h de IsmaelH1121
+- 1Cr_1:32y Súa. Los h de Jocsán: Seba y DedánH1121
+- 1Cr_1:33h de Madián: Efa, Efer, Hanoc, AbidaH1121
+- 1Cr_1:33Elda; todos éstos fueron h de CeturaH1121
+- 1Cr_1:34y los h de Isaac fueron Esaú e IsraelH1121
+- 1Cr_1:35h de Esaú: Elifaz, Reuel, Jeús, JaalamH1121
+- 1Cr_1:36h de Elifaz: Temán, Omar, Zefo, GatamH1121
+- 1Cr_1:37h de Reuel: Nahat, Zera, Sama y MizaH1121
+- 1Cr_1:38los h de Seir: Lotán, Sobal, Zibeón, AnáH1121
+- 1Cr_1:39h de Lotán: Hori y Homam; y Timna fueH1121
+- 1Cr_1:40h de Sobal: Alván, Manahat, Ebal, SefoH1121
+- 1Cr_1:40Sefo y Onam. Los h de Zibeón: Aja y AnáH1121
+- 1Cr_1:41Disón fue h de Aná; y los h de DisónH1121
+- 1Cr_1:42h de Ezer...los h de Disán: Uz y AránH1121
+- 1Cr_1:43que reinase rey sobre los h de IsraelH1121
+- 1Cr_1:43en la tierra de Edom...Bela h de BeorH1121
+- 1Cr_1:44muerto Bela, reinó en...Jobab h de ZeraH1121
+- 1Cr_1:46reinó en su lugar Hadad h de Bedad, elH1121
+- 1Cr_1:49reinó en su lugar Baal-hanán h de AcborH1121
+- 1Cr_2:1son los h de Israel: Rubén, Simeón, LevíH1121
+- 1Cr_2:3los h de Judá: Er, Onán y Sela. Estos 3H1121
+- 1Cr_2:4Zera. Todos los h de Judá fueron cincoH1121
+- 1Cr_2:5los h de Fares: Hezrón y HamulH1121
+- 1Cr_2:6h de Zera: Zimri, Etán, Hemán, CalcolH1121
+- 1Cr_2:7h de Carmi fue Acán, el que perturbó aH1121
+- 1Cr_2:8Azarías fue h de EtánH1121
+- 1Cr_2:9h que nacieron a Hezrón: Jerameel, RamH1121
+- 1Cr_2:10engendró a Naasón, príncipe de los h deH1121
+- 1Cr_2:16h de Sarvia fueron tres: Abisai, JoabH1121
+- 1Cr_2:18Caleb h de Hezrón engendró a Jeriot deH1121
+- 1Cr_2:18h de ella fueron Jeser, Sobab y ArdónH1121
+- 1Cr_2:23todos éstos fueron de los h de MaquirH1121
+- 1Cr_2:25los h de Jerameel...fueron Ram...OrénH1121
+- 1Cr_2:27h de Ram...fueron Maaz, Jamín y EquerH1121
+- 1Cr_2:28los h de Onam...los h de Samai: NadabH1121
+- 1Cr_2:30h de Nadab: Seled. Y Seled murió sin hH1121
+- 1Cr_2:31fue h de Apaim, y Sesán h de Isi, e h deH1121
+- 1Cr_2:32h de Jada...Jeter...Y murió Jeter sin hH1121
+- 1Cr_2:33h de Jonatán...fueron los h de JerameelH1121
+- 1Cr_2:34Sesán no tuvo h, sino hijas; pero teníaH1121
+- 1Cr_2:42h de Caleb hermano de Jerameel fueronH1121
+- 1Cr_2:42Zif; y los h de Maresa padre de HebrónH1121
+- 1Cr_2:43los h de Hebrón: Coré, Tapúa, Requem yH1121
+- 1Cr_2:45Maón fue h de Samai, y Maón padre deH1121
+- 1Cr_2:47los h de Jahdai: Regem, Jotam, GesamH1121
+- 1Cr_2:50estos fueron...h de Caleb. Los h de HurH1121
+- 1Cr_2:52los h de Sobal padre de...fueron HaroeH1121
+- 1Cr_2:54los h de Salma: Belén, y los netofatitasH1121
+- 1Cr_3:1los h de David que le nacieron en HebrónH1121
+- 1Cr_3:2Absalón h de Maaca, hija de Talmai reyH1121
+- 1Cr_3:2de Gesur; el cuarto, Adonías h de HaguitH1121
+- 1Cr_3:5y Salomón h de Bet-súa hija de AmielH3205
+- 1Cr_3:9h de David, sin los h de las concubinasH1121
+- 1Cr_3:10h de Salomón fue Roboam, cuyo h...AbíasH1121
+- 1Cr_3:10Abías, del cual fue h Asa, cuyo h fueH1121
+- 1Cr_3:11de quien fue h Joram, cuyo h fueH1121
+- 1Cr_3:11fue Ocozías, h del cual fue JoásH1121
+- 1Cr_3:12del cual fue h Amasías, cuyo h fueH1121
+- 1Cr_3:12fue Azarías, o h de éste, JotamH1121
+- 1Cr_3:13h de éste fue Acaz, del que fue hH1121
+- 1Cr_3:13fue...Ezequías, cuyo h fue ManasésH1121
+- 1Cr_3:14del cual fue h Amón, cuyo h fue JosíasH1121
+- 1Cr_3:15los h de Josías: Johanán...Joacim...SalumH1121
+- 1Cr_3:16h de Joacim: Jeconías su h, h del cualH1121
+- 1Cr_3:17y los h de Jeconías: Asir, SalatielH1121
+- 1Cr_3:19los h de Pedaías...Y los h de ZorobabelH1121
+- 1Cr_3:21h de Hananías...Jesaías; su h, RefaíasH1121
+- 1Cr_3:21h, Arnán; su h, Abdías; su h, SecaníasH1121
+- 1Cr_3:22h de Secanías fue Semaías; y los h deH1121
+- 1Cr_3:23h de Nearías fueron estos 3: ElioenaiH1121
+- 1Cr_3:24h de Elioenai fueron estos 7: HodavíasH1121
+- 1Cr_4:1los h de Judá: Fares, Hezrón, Carmi, HurH1121
+- 1Cr_4:2Reaía h de Sobal engendró a Jahat, yH1121
+- 1Cr_4:4éstos fueron los h de Hur...de EfrataH1121
+- 1Cr_4:6Ahastari. Estos fueron los h de NaaraH1121
+- 1Cr_4:7los h de Hela: Zeret, Jezoar y EmánH1121
+- 1Cr_4:8Anub...y la familia de Aharhel h de HarumH1121
+- 1Cr_4:13h de Cenaz: Otoniel...los h de OtonielH1121
+- 1Cr_4:15los h de Caleb h de Jefone...e h de ElaH1121
+- 1Cr_4:16los h de Jehalelel: Zif, Zifa, TiríasH1121
+- 1Cr_4:17los h de Esdras: Jeter, Mered, Efer yH1121
+- 1Cr_4:18fueron los h de Bitia hija de FaraónH1121
+- 1Cr_4:19los h de la mujer de Hodías, hermana deH1121
+- 1Cr_4:20h de Simón: Amnón...los h de Isi: ZohetH1121
+- 1Cr_4:21h de Sela h de Judá: Er padre de LecaH1121
+- 1Cr_4:24los h de Simeón: Nemuel, Jamín, JaribH1121
+- 1Cr_4:25Salum su h, Mibsam, su h y Misma su hH1121
+- 1Cr_4:26los h de Misma: Hamuel su h, ZacurH1121
+- 1Cr_4:26de Misma...Zacur su h, y Simei su hH1121
+- 1Cr_4:27los h de Simei fueron 16, y seis hijasH1121
+- 1Cr_4:27pero sus hermanos no tuvieron muchos hH1121
+- 1Cr_4:27ni multiplicaron...como los h de JudáH1121
+- 1Cr_4:34Mesobab, Jamlec, Josías h de AmasíasH1121
+- 1Cr_4:35Jehú h de Josibías, h de Seraías, h deH1121
+- 1Cr_4:37y Ziza h de Sifi, h de Alón, h deH1121
+- 1Cr_4:37Jedaías, h de Simri, h de SemaíasH1121
+- 1Cr_4:42hombres de ellos, de los h de SimeónH1121
+- 1Cr_4:42capitanes a...Refaías y Uziel, h de IsiH1121
+- 1Cr_5:1los h de Rubén primogénito de IsraelH1121
+- 1Cr_5:1dados a los h de José, h de Israel, y noH1121
+- 1Cr_5:3los h de Rubén...Hanoc, Falú, Hezrón yH1121
+- 1Cr_5:4los h de Joel: Semaías su h, Gog suH1121
+- 1Cr_5:4de Joel...Gog su h, Simei su hH1121
+- 1Cr_5:5Micaía su h, Reaía su h, Baal su hH1121
+- 1Cr_5:6Beera su h, el cual fue transportado porH1121
+- 1Cr_5:8y Bela h de Azaz, h de Sema, h de JoelH1121
+- 1Cr_5:11y los h de Gad habitaron enfrente deH1121
+- 1Cr_5:14estos fueron los h de Abihail h de HuriH1121
+- 1Cr_5:14h de Jaroa, h de Galaad, h de MicaelH1121
+- 1Cr_5:14h de Jesisai, h de Jahdo, h de BuzH1121
+- 1Cr_5:15también Ahí h de Abdiel, h de Guni, fueH1121
+- 1Cr_5:18h de Rubén y de Gad, y la media tribuH1121
+- 1Cr_5:23los h de la media tribu de ManasésH1121
+- 1Cr_6:1,16los h de Leví: Gersón, Coat y MerariH1121
+- 1Cr_6:2,18h de Coat: Amram, Izhar, HebrónH1121
+- 1Cr_6:3los h de Amram: Aarón, Moisés y MaríaH1121
+- 1Cr_6:3los h de Aarón: Nadab, Abiú, Eleazar eH1121
+- 1Cr_6:17los nombres de los h de Gersón: LibniH1121
+- 1Cr_6:19los h de Merari: Mahli y Musi. EstasH1121
+- 1Cr_6:20Libni su h, Jahat su h, Zima su hH1121
+- 1Cr_6:21h, Iddo su h, Zera su h, Jeatrai su...hH1121
+- 1Cr_6:22los h de Coat: Aminadab su hH1121
+- 1Cr_6:22de Coat...Coré su h, Asir su hH1121
+- 1Cr_6:23Elcana su h, Ebiasaf su h, Asir su hH1121
+- 1Cr_6:24Tahat su h, Uriel su hH1121
+- 1Cr_6:24Uzías su h, y Saúl su hH1121
+- 1Cr_6:25los h de Elcana: Amasai y AhimotH1121
+- 1Cr_6:26Elcana su h, Zofai su h. Nahat su hH1121
+- 1Cr_6:27Eliab su h, Jeroham su h, Elcana su hH1121
+- 1Cr_6:28los h de Samuel: El primogénito VasniH1121
+- 1Cr_6:29los h de Merari: Mahli, LibniH1121
+- 1Cr_6:29Libni su h, Simei su h, Uza su hH1121
+- 1Cr_6:30Simea su h, Haguía su h, Asaías su hH1121
+- 1Cr_6:33éstos, pues, con sus h, ayudaban: deH1121
+- 1Cr_6:33los h de Coat...Hemán h de Joel, h deH1121
+- 1Cr_6:34h de Elcana, h de...h de Eliel, h de ToaH1121
+- 1Cr_6:35h de Zuf, h de Elcana, h de Mahat, h deH1121
+- 1Cr_6:36h de Elcana, h de Joel, h de AzaríasH1121
+- 1Cr_6:36de Elcana...de Azarías, h de SofoníasH1121
+- 1Cr_6:37h de Tahat, h de Asir, h de...h de CoréH1121
+- 1Cr_6:38h de Izhar, h de Coat, h de LevíH1121
+- 1Cr_6:38de Izhar...Leví, h de IsraelH1121
+- 1Cr_6:39Asaf, h de Berequías, h de SimeaH1121
+- 1Cr_6:40h de Micael, h de Baasías, h de MalquíasH1121
+- 1Cr_6:41h de Etni, h de Zera, h de AdaíaH1121
+- 1Cr_6:42h de Etán, h de Zima, h de SimeiH1121
+- 1Cr_6:43h de Jahat, h de Gersón, h de LevíH1121
+- 1Cr_6:44a la mano izquierda...los h de MerariH1121
+- 1Cr_6:44Etán h de Quisi, h de Abdi, h de MalucH1121
+- 1Cr_6:45h de Hasabías, h de Amasías, h deH1121
+- 1Cr_6:46h de Amsi, h de Bani, h de SemerH1121
+- 1Cr_6:47h de Mahli, h de Musi, h de...h de LevíH1121
+- 1Cr_6:49Aarón y sus h ofrecían...sobre el altarH1121
+- 1Cr_6:50los h de Aarón son estos: Eleazar suH1121
+- 1Cr_6:50Eleazar su h, Finees su h, Abisúa su hH1121
+- 1Cr_6:51Buqui su h, Uzi su h, Zeraías su hH1121
+- 1Cr_6:52su h, Amarías su h, Ahitob su hH1121
+- 1Cr_6:53Sadoc su h, Ahimaas su hH1121
+- 1Cr_6:54de los h de Aarón por las familias deH1121
+- 1Cr_6:56aldeas se dieron a Caleb, h...de JefoneH1121
+- 1Cr_6:57dieron a los h de Aarón la ciudad deH1121
+- 1Cr_6:61a los h de Coat...dieron por suerte 10H1121
+- 1Cr_6:62a los h de Gersón...dieron de la tribuH1121
+- 1Cr_6:63a los h de Merari...dieron por suerteH1121
+- 1Cr_6:64los h de Israel dieron a los levitasH1121
+- 1Cr_6:65dieron...de la tribu de los h, de JudáH1121
+- 1Cr_6:65de los h de Simeón...los h de BenjamínH1121
+- 1Cr_6:66a...los h de Coat dieron ciudades conH1121
+- 1Cr_6:70los de los h de Coat que habían quedadoH1121
+- 1Cr_6:71a los h de Gersón dieron de...de ManasésH1121
+- 1Cr_6:77a los h de Merari...dieron de la tribuH1121
+- 1Cr_7:1los h de Isacar fueron cuatro: Tola, FúaH1121
+- 1Cr_7:2los h de Tola: Uzi, Refaías, JerielH1121
+- 1Cr_7:3h de Uzi fue Israhías...h de IzrahíasH1121
+- 1Cr_7:4había...porque tuvieron muchas mujeres e hH1121
+- 1Cr_7:6h de Benjamín fueron tres: Bela, BequerH1121
+- 1Cr_7:7h de Bela: Ezbón, Uzi, Uziel, JerimotH1121
+- 1Cr_7:8los h de Bequer: Zemira, Joás, EliezerH1121
+- 1Cr_7:8Alamet; todos éstos fueron h de BequerH1121
+- 1Cr_7:10h de Jediael fue Bilhán; y los h deH1121
+- 1Cr_7:11todos éstos fueron h de Jedaiel, jefesH1121
+- 1Cr_7:12Supim y Hupin...h de Hir; y Husim, h deH1121
+- 1Cr_7:13los h de Neftalí...Salúm, h de BilhaH1121
+- 1Cr_7:14los h de Manasés: Asriel, al cual dio aH1121
+- 1Cr_7:16Maaca...dio a luz un h, y lo llamó PeresH1121
+- 1Cr_7:16fue Seres, cuyos h fueron Ulam y RequemH1121
+- 1Cr_7:17h de Ulam fue Bedán. Estos fueron losH1121
+- 1Cr_7:17h de Galaad, h de Maquir, h de ManasésH1121
+- 1Cr_7:19y los h de Semida fueron Ahián, SiquemH1121
+- 1Cr_7:20los h de Efraín: Sutela, Bered su hH1121
+- 1Cr_7:20Tahat su h, Elada su h, Tahat su hH1121
+- 1Cr_7:21Zabad su h, Sutela su h, Ezer y EladH1121
+- 1Cr_7:21los h de Gat, naturales de...los mataron
+- 1Cr_7:23ella concibió y dio a luz un h...BeríaH1121
+- 1Cr_7:25h de este Bería fue Reía, y Resef, yH1121
+- 1Cr_7:25fue Resef, y Telah su h, y Tahán su hH1121
+- 1Cr_7:26Ladaán su h, Amiud su h, Elisama su hH1121
+- 1Cr_7:27Nun su h, Josué su hH1121
+- 1Cr_7:29junto al territorio de los h de ManasésH1121
+- 1Cr_7:29habitaron los h de José h de IsraelH1121
+- 1Cr_7:30los h de Aser: Imna, Isúa, Isúi, BeríaH1121
+- 1Cr_7:31los h de Bería: Heber, y Malquiel, elH1121
+- 1Cr_7:33los h de Jaflet: Pasac...los h de JafletH1121
+- 1Cr_7:34h de Semer: Ahí, Rohga, Jehúba y AramH1121
+- 1Cr_7:35los h de Helem su hermano: Zofa, ImnaH1121
+- 1Cr_7:36h de Zofa: Súa, Harnefer, Súal, BeriH1121
+- 1Cr_7:38los h de Jeter: Jefone, Pispa y AraH1121
+- 1Cr_7:39y los h de Ula: Ara, Haniel y ReziaH1121
+- 1Cr_7:40todos éstos fueron h de Aser, cabezasH1121
+- 1Cr_8:3los h de Bela fueron Adar, Gera, AhiudH1121
+- 1Cr_8:6y estos son los h de Aod...los jefes deH1121
+- 1Cr_8:8Saharaim engendró h en la provincia deH1121
+- 1Cr_8:10estos son sus h, jefes de familiasH1121
+- 1Cr_8:12los h de Elpaal: Heber, Misam y SemedH1121
+- 1Cr_8:16Micael, Ispa y Joha, h de BeríaH1121
+- 1Cr_8:18Ismerai, Jezlías y Jobab, h de ElpaalH1121
+- 1Cr_8:21Adaías, Beraías y Simrat, h de SimeiH1121
+- 1Cr_8:25lfdaías y Peniel, h de SasacH1121
+- 1Cr_8:27Jaresías, Elías y Zicri, h de JerohamH1121
+- 1Cr_8:30y su h primogénito Abdón, y Zur, CisH1121
+- 1Cr_8:34h de Jonatán fue Merib-baal...a MicaíaH1121
+- 1Cr_8:35los h de Micaía: Pitón, Melec, TareaH1121
+- 1Cr_8:37engendró a Dina, h del cual fue RafaH1121
+- 1Cr_8:37h del cuál fue Elasa, cuyo h fue AzelH1121
+- 1Cr_8:38h de Azel fueron seis, cuyos nombresH1121
+- 1Cr_8:38y Hanán; todos éstos fueron h de AzelH1121
+- 1Cr_8:39los h de Esec su hermano: Ulam...JehúsH1121
+- 1Cr_8:40los h de Ulam...valientes y vigorososH1121
+- 1Cr_8:40todos éstos fueron de los h de BenjamínH1121
+- 1Cr_9:3habitaron en Jerusalén, de los h de JudáH1121
+- 1Cr_9:3los h de Benjamín...h de Efraín y ManasésH1121
+- 1Cr_9:4Utai h de Amiud, h de Omri, h de ImriH1121
+- 1Cr_9:4h de Bani, de los h de Fares h de JudáH1121
+- 1Cr_9:5y de los silonitas, Asaías el...y sus hH1121
+- 1Cr_9:6de los h de Zera, Jeuel y sus hermanosH1121
+- 1Cr_9:7de los h de Benjamín: Salú h de MesulamH1121
+- 1Cr_9:7de Mesulam, h de Hodavías, h de AsenúaH1121
+- 1Cr_9:8h de Jeroham, Ela h de Uzi, h de MicriH1121
+- 1Cr_9:8h de Sefatías, h de Reuel, h de IbníasH1121
+- 1Cr_9:11Azarías h de Hilcías, h de MesulamH1121
+- 1Cr_9:11h de Sadoc, h de Meraiot, h de AhitobH1121
+- 1Cr_9:12Adaía h de Jeroham, h de Pasur, h deH1121
+- 1Cr_9:12Masai h de Adiel, h de Jazera, h deH1121
+- 1Cr_9:12Mesulam, h de Mesilemit, h de ImerH1121
+- 1Cr_9:14los levitas: Semaías h de Hasub, h deH1121
+- 1Cr_9:14Azricam, h de Hasabías, de los h deH1121
+- 1Cr_9:15h de Micaía, h de Zicri, h de AsafH1121
+- 1Cr_9:16Obadías h de Semaías, h de Galal, h deH1121
+- 1Cr_9:16y Berequías h de Asa, h de Elcana, elH1121
+- 1Cr_9:18h de Leví han sido estos los porterosH1121
+- 1Cr_9:19Salum h de Coré, h de Ebiasaf, h deH1121
+- 1Cr_9:20Finees h de Eleazar fue antes capitánH1121
+- 1Cr_9:21y Zacarías h de Meselemías era porteroH1121
+- 1Cr_9:23así ellos y sus h eran porteros por susH1121
+- 1Cr_9:30h de los sacerdotes hacían los perfumesH1121
+- 1Cr_9:32algunos de los h de Coat...tenían a suH1121
+- 1Cr_9:36su primogénito Abdón, luego Zur, CisH1121
+- 1Cr_9:40h de Jonatán fue Merib-baal...engendróH1121
+- 1Cr_9:41los h de Micaía: Pitón, Melec, Tarea yH1121
+- 1Cr_9:43engendró a Bina, cuyo h fue RefaíasH1121
+- 1Cr_9:43del que fue h Elasa, cuyo h fue AzelH1121
+- 1Cr_9:44Azel tuvo seis h...fueron los h de AzelH1121
+- 1Cr_10:2los filisteos siguieron a Saúl y a sus hH1121
+- 1Cr_10:2y mataron los filisteos a...h de SaúlH1121
+- 1Cr_10:6así murieron Saúl y sus tres h...con élH1121
+- 1Cr_10:7viendo...que Saúl y sus h eran muertosH1121
+- 1Cr_10:8hallaron a Saúl y a sus h tendidos enH1121
+- 1Cr_10:12tomaron el cuerpo...los cuerpos de sus hH1121
+- 1Cr_10:14y traspasó el reino a David h de IsaíH1121
+- 1Cr_11:6Joab h de Sarvia subió el primero, y fueH1121
+- 1Cr_11:11Jasobeam h de Hacmoni, caudillo de losH1121
+- 1Cr_11:12Eleazar h de Dodo, ahohita, el cual eraH1121
+- 1Cr_11:22Benaía h de Joiada, h de un...valienteH1121
+- 1Cr_11:24esto hizo Benaía h de Joiada, y fueH1121
+- 1Cr_11:26valientes...Elhanan h de Dodo de BelénH1121
+- 1Cr_11:28Ira h de Iques tecoíta, AbiezerH1121
+- 1Cr_11:30Maharai netofatita, Heled h de BaanaH1121
+- 1Cr_11:31Itai h de Ribai, de Gabaa de los h deH1121
+- 1Cr_11:34los h de Hasem gizonita, Jonatán h deH1121
+- 1Cr_11:35Ahiam h de Sacar ararita, Elifal h deH1121
+- 1Cr_11:37Hezro carmelita, Naarai h de EzbaiH1121
+- 1Cr_11:38Joel hermano de Natán, Mibhar h deH1121
+- 1Cr_11:39Naharai...escudero de Joab h de...SarviaH1121
+- 1Cr_11:41Urías heteo, Zabad h de AhlaiH1121
+- 1Cr_11:42Adina h de Siza rubenita, príncipe deH1121
+- 1Cr_11:43Hanán h de Maaca, Josafat mitnitaH1121
+- 1Cr_11:44Sama y Jehiel h de Hotam aroeritaH1121
+- 1Cr_11:45Jediael h de Simri, y Joha su hermanoH1121
+- 1Cr_11:46Jerebai y Josavía h de Elnaan, ItmaH1121
+- 1Cr_12:1encerrado por causa de Saúl h de CisH1121
+- 1Cr_12:3Abiezer...Joás, h de Semaa gabaatitaH1121
+- 1Cr_12:3Jeziel y Pelet h de Azmavet, BeracaH1121
+- 1Cr_12:7Joela y Zebadías h de Jeroham de GedorH1121
+- 1Cr_12:14éstos fueron capitanes...los h de GadH1121
+- 1Cr_12:16de los h de Benjamín...vinieron a DavidH1121
+- 1Cr_12:18ti, oh David, y contigo, oh h de IsaíH1121
+- 1Cr_12:24de los h de Judá...6.800, listos paraH1121
+- 1Cr_12:25h de Simeón, 7:100 hombres, valientesH1121
+- 1Cr_12:26los h de Leví, cuatro mil seiscientosH1121
+- 1Cr_12:29de los h de Benjamín...tres mil; porqueH1121
+- 1Cr_12:30los h de Efraín, 20.800, muy valientesH1121
+- 1Cr_12:32de los h de Isacar, 200 principalesH1121
+- 1Cr_14:3tomó...y engendró David más h e hijasH1121
+- 1Cr_15:4reunió...David a los h de Aarón y a losH1121
+- 1Cr_15:5de los h de Coat, Uriel el principalH1121
+- 1Cr_15:6los h de Merari, Asaías el principalH1121
+- 1Cr_15:7de los h de Gersón, Joel el PrincipalH1121
+- 1Cr_15:8de los h de Elizafán, Semaías el...200H1121
+- 1Cr_15:9de los h de Hebrón, Eliel el principalH1121
+- 1Cr_15:10los h de Uziel, Aminadab el principalH1121
+- 1Cr_15:15h de los levitas trajeron el arca deH1121
+- 1Cr_15:17Hemán h de Joel...Asaf h de BerequíasH1121
+- 1Cr_15:17los h de Merari...a Etán h de CusaíasH1121
+- 1Cr_16:13oh vosotros, h de Israel...h de JacobH1121
+- 1Cr_16:38y a Obed-edom h de Jedutún y a HosaH1121
+- 1Cr_16:42y a los h de Jedutún para porterosH1121
+- 1Cr_17:5el día que saqué a los h de Israel hastaH1121
+- 1Cr_17:9ni los h de iniquidad lo consumirán másH1121
+- 1Cr_17:11descendencia...a uno de entre tus hH1121
+- 1Cr_17:13él me será por h; y no quitaré de élH1121
+- 1Cr_18:10envió a Adoram su h al rey David, paraH1121
+- 1Cr_18:11oro...de Moab, de los h de Amón, de losH1121
+- 1Cr_18:12Abisai h de Sarvia destrozó en el valleH1121
+- 1Cr_18:15y Joab h de Sarvia era general delH1121
+- 1Cr_18:15y Josafat h de Ahilud, cancillerH1121
+- 1Cr_18:16Sadoc h de Ahitob y Abimelec h deH1121
+- 1Cr_18:17y Benaía h de Joiada estaba sobre losH1121
+- 1Cr_18:17y los h de David eran los príncipesH1121
+- 1Cr_19:1que murió Nahas rey de los h de AmónH1121
+- 1Cr_19:1murió Nahas...y reinó en su lugar su hH1121
+- 1Cr_19:2manifestaré misericordia con Hanún hH1121
+- 1Cr_19:2llegaron...a la tierra de los h de AmónH1121
+- 1Cr_19:3los príncipes de los h de Amón dijeronH1121
+- 1Cr_19:6y viendo los h de Amón que se habíanH1121
+- 1Cr_19:6los h de Amón enviaron mil talentos deH1121
+- 1Cr_19:7y se juntaron también los h de Amón deH1121
+- 1Cr_19:9los h de Amón salieron, y ordenaron laH1121
+- 1Cr_19:15los h de Amón, viendo que los siriosH1121
+- 1Cr_19:19nunca más quiso ayudar a los h de AmónH1121
+- 1Cr_20:1y destruyó la tierra de los h de AmónH1121
+- 1Cr_20:3a todas las ciudades de los h de AmónH1121
+- 1Cr_20:5Elhanán h de Jair mató a Lahmi, hermanoH1121
+- 1Cr_20:7lo mató Jonatán, h de Simea hermano deH1121
+- 1Cr_21:6no fueron contados...los h de BenjamínH1121
+- 1Cr_21:20por lo que se escondieron cuatro hH1121
+- 1Cr_22:5Salomón mi h es muchacho y de tiernaH1121
+- 1Cr_22:6llamó entonces David a Salomón su hH1121
+- 1Cr_22:7h mío, en mi corazón tuve el edificarH1121
+- 1Cr_22:9te nacerá un h, el cual será varón deH1121
+- 1Cr_22:10él me será a mí por h, y yo...por padreH1121
+- 1Cr_22:11ahora pues, h mío, Jehová esté contigoH1121
+- 1Cr_22:17mandó...que ayudasen a Salomón su hH1121
+- 1Cr_23:1hizo a Salomón su h rey sobre IsraelH1121
+- 1Cr_23:6en grupos conforme a los h de LevíH1121
+- 1Cr_23:7los h de Gersón: Laadán y SimeiH1121
+- 1Cr_23:8h de Laadán, tres; Jehiel el primeroH1121
+- 1Cr_23:9los h de Simei, tres: Selomit, HazielH1121
+- 1Cr_23:10h de Simei: Jahat, Zina, Jeús y BeríaH1121
+- 1Cr_23:10caos cuatro fueron los h de SimeiH1121
+- 1Cr_23:11pero Jeús y Bería no tuvieron muchos hH1121
+- 1Cr_23:12los h de Coat: Amram, Izhar, HebrónH1121
+- 1Cr_23:13h de Amram: Aarón y Moisés. Y AarónH1121
+- 1Cr_23:13Aarón fue apartado...él y sus h paraH1121
+- 1Cr_23:14los h de Moisés varón de Dios fueronH1121
+- 1Cr_23:15h de Moisés fueron Gersón y EliezerH1121
+- 1Cr_23:16h de Gersón fue Sebuel el JefeH1121
+- 1Cr_23:17e h de Eliezer fue Rehabías el jefeH1121
+- 1Cr_23:17Eliezer no tuvo otros h; mas los h deH1121
+- 1Cr_23:18h de Izhar fue Selomit el jefeH1121
+- 1Cr_23:19h de Hebrón: Jerías el Jefe, AmaríasH1121
+- 1Cr_23:20h de Uziel: Micaía el jefe, e Islas elH1121
+- 1Cr_23:21h de Merari: Mahli y Musi. Los A deH1121
+- 1Cr_23:22murió Eleazar sin h; pero tuvo hijasH1121
+- 1Cr_23:22los h de Cis...las tomaron por mujeresH1121
+- 1Cr_23:23los h de Musi: Mahli, Edar y JeremotH1121
+- 1Cr_23:24son los h de Leví en las familias deH1121
+- 1Cr_23:27se hizo la cuenta de los h de Leví deH1121
+- 1Cr_23:28,32bajo las órdenes de los h de AarónH1121
+- 1Cr_24:1los h de Aarón fueron distribuidos enH1121
+- 1Cr_24:1los h de Aarón: Nadab, Abiú, EleazarH1121
+- 1Cr_24:2Nadab y Abiú murieron...no tuvieron hH1121
+- 1Cr_24:3y David, con Sadoc de los h de EleazarH1121
+- 1Cr_24:3con Sadoc...y Ahimelec de los h de ItamarH1121
+- 1Cr_24:4de los h de Eleazar había más varonesH1121
+- 1Cr_24:4principales que de los h de Itamar; yH1121
+- 1Cr_24:4los h de Eleazar, 16 cabezas de casasH1121
+- 1Cr_24:4h de Itamar, por su casas paternas, 8H1121
+- 1Cr_24:5los h de Eleazar y de los h de ItamarH1121
+- 1Cr_24:6escriba Semaías h de Natanael...escribióH1121
+- 1Cr_24:6delante de...Ahimelec h de Abiatar y deH1121
+- 1Cr_24:20de los h de Leví que quedaron: SubaelH1121
+- 1Cr_24:20los h de Amram; y de los h de SubaelH1121
+- 1Cr_24:21de los h de Rehabías, Islas el jefeH1121
+- 1Cr_24:22los izharitas...e h de Selomot, JahatH1121
+- 1Cr_24:23de los h de Hebrón: Jerías el jefe, elH1121
+- 1Cr_24:24h de Uziel, Micaía; e h de MicaíaH1121
+- 1Cr_24:25de Micaía, Islas; e h de Islas, ZacaríasH1121
+- 1Cr_24:26los h de Merari: Mahli y...h de JoazíasH1121
+- 1Cr_24:27h de Merari por Jaazías: Beno, SohamH1121
+- 1Cr_24:28y de Mahli, Eleazar, quien no tuvo hH1121
+- 1Cr_24:29h de Cis, JerameelH1121
+- 1Cr_24:30los h de Musi: Mahli, Edar y JerimotH1121
+- 1Cr_24:30fueron los h de los levitas conforme aH1121
+- 1Cr_24:31suertes, como sus hermanos los h deH1121
+- 1Cr_25:1apartaron...a los h de Asaf, de Hemán yH1121
+- 1Cr_25:2los h de Asaf: Zacur, José...h de AsafH1121
+- 1Cr_25:3h de Jedutún: Gedalías, Zeri, JesaíasH1121
+- 1Cr_25:4de los h de Hemán: Buquías, MataníasH1121
+- 1Cr_25:5éstos fueron h de Hemán, vidente del reyH1121
+- 1Cr_25:5y Dios dio a Hemán 14 h y tres hijasH1121
+- 1Cr_25:9Gedalías, quien con sus hermanos e hH1121
+- 1Cr_25:10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31con sus h y sus hermanos, doceH1121
+- 1Cr_26:1Meslemías h de Coré, de los h de AsafH1121
+- 1Cr_26:2los h de Meselemías: Zacarías...JedaielH1121
+- 1Cr_26:4los h de Obed-edom: Semaías...Jozabad elH1121
+- 1Cr_26:6también de Semaías su h nacieron h queH1121
+- 1Cr_26:7los h de Semaías: Otni, Rafael, ObedH1121
+- 1Cr_26:8todos éstos de los h de Obed-edom; ellosH1121
+- 1Cr_26:8sus h y sus hermanos, hombres robustosH1121
+- 1Cr_26:9los h de Meselemías y sus hermanos, 18H1121
+- 1Cr_26:10de Hosa, de los h de Merari: Simri elH1121
+- 1Cr_26:11todos los h de Hosa y sus hermanos...13H1121
+- 1Cr_26:14metieron en las suertes a Zacarías su hH1121
+- 1Cr_26:15y a sus h la casa de provisiones delH1121
+- 1Cr_26:19h de los coreítas y de los h de MerariH1121
+- 1Cr_26:21cuanto a los h de Laadán h de GersónH1121
+- 1Cr_26:22h de Jehieli, Zetam y Joel su hermanoH1121
+- 1Cr_26:24Sebuel h de Gersón, h de Moisés, eraH1121
+- 1Cr_26:25Eliezer, h de éste era Rehabías, h deH1121
+- 1Cr_26:25de éste Jesaías, h de éste Joram, h deH1121
+- 1Cr_26:25de éste Zicri, del que fue h SelomitH1121
+- 1Cr_26:28que había consagrado...Saúl h de CisH1121
+- 1Cr_26:28Abner h de Ner y Joab h de Sarvia, yH1121
+- 1Cr_26:29Quenanías y sus h eran gobernadoresH1121
+- 1Cr_27:1son los principales de los h de IsraelH1121
+- 1Cr_27:2Jasobeam h de Zabdiel; y había en suH1121
+- 1Cr_27:3de los h de Fares, él fue jefe de todosH1121
+- 1Cr_27:5era Benaía, h del sumo sacerdote JoiadaH1121
+- 1Cr_27:6y en su división estaba Amisabad su hH1121
+- 1Cr_27:7y después de él Zebadías su h; y en suH1121
+- 1Cr_27:9para el sexto mes era Ira h de Iques, deH1121
+- 1Cr_27:10era Heles pelonita, de los h de EfraínH1121
+- 1Cr_27:14Benaía piratonita, de los h de EfraínH1121
+- 1Cr_27:16el jefe de los rubenitas era Eliezer hH1121
+- 1Cr_27:16los simeonitas, Sefatías, h de MaacaH1121
+- 1Cr_27:17de los levitas, Hasabías h de KemuelH1121
+- 1Cr_27:18de los de Isacar, Omri h de MicaelH1121
+- 1Cr_27:19de los de Zabulón, Ismaías h de AbdíasH1121
+- 1Cr_27:19de los de Neftalí, Jerimot h de AzrielH1121
+- 1Cr_27:20de los h de Efraín, Oseas h de AzozíasH1121
+- 1Cr_27:20la tribu de Manasés, Joel h de PedaíasH1121
+- 1Cr_27:21la otra media tribu de Manasés...Iddo hH1121
+- 1Cr_27:21de los de Benjamín, Jaasiel h de AbnerH1121
+- 1Cr_27:22y de Dan, Azareel h de Jeroham. EstosH1121
+- 1Cr_27:24Joab h de Sarvia había comenzado aH1121
+- 1Cr_27:25Azmavet h de Adiel tenía a su cargo losH1121
+- 1Cr_27:25Jonatán h de Uzías los tesoros de losH1121
+- 1Cr_27:26que trabajaban en la labranza, Ezri hH1121
+- 1Cr_27:29ganado...en los valles, Safat h de AdlaiH1121
+- 1Cr_27:32y Jehiel h de...estaba con los h del reyH1121
+- 1Cr_27:34después de...estaba Joiada h de BenaíaH1121
+- 1Cr_28:1hacienda y posesión del rey y de sus hH1121
+- 1Cr_28:4entre los h de mi padre se agradó de míH1121
+- 1Cr_28:5de entre...mis h...eligió a mi h SalomónH1121
+- 1Cr_28:5porque Jehová me ha dado muchos hH1121
+- 1Cr_28:6Salomón tu h...a éste he escogido por hH1121
+- 1Cr_28:8y la dejéis en herencia a vuestros hH1121
+- 1Cr_28:9Salomón, h mío, reconoce al Dios de tuH1121
+- 1Cr_28:11David dio a Salomón su h el plano delH1121
+- 1Cr_28:20dijo...David a Salomón su h: Anímate yH1121
+- 1Cr_29:1a Salomón mi h ha elegido Dios; él esH1121
+- 1Cr_29:19da a mi h Salomón corazón perfectoH1121
+- 1Cr_29:22la investidura...a Salomón h de DavidH1121
+- 1Cr_29:24los h del rey...homenaje al rey SalomónH1121
+- 1Cr_29:26así reinó David h de Isaí sobre todoH1121
+- 1Cr_29:28murió...reinó en su lugar Salomón su hH1121
+- 2Cr_1:1Salomón h de David fue afirmado enH1121
+- 2Cr_1:5había hecho Bezaleel h de Uri, h de HurH1121
+- 2Cr_2:12dio al rey David un h sabio, entendidoH1121
+- 2Cr_2:14h de una mujer de las hijas de Dan, masH1121
+- 2Cr_5:2los jefes de las familias de los h deH1121
+- 2Cr_5:10Jehová había hecho pacto con los h deH1121
+- 2Cr_5:12levitas cantores...sus h y sus hermanosH1121
+- 2Cr_6:9tú no...sino tu h que saldrá de tus lomosH1121
+- 2Cr_6:11el pacto de Jehová...con los h de IsraelH1121
+- 2Cr_6:16con tal que tus h guarden su caminoH1121
+- 2Cr_6:30tú conoces el corazón de los h de losH1121
+- 2Cr_7:3vieron todos los h de Israel descenderH1121
+- 2Cr_8:2y estableció en ellas a los h de IsraelH1121
+- 2Cr_8:8h de los que habían quedado en la tierraH1121
+- 2Cr_8:8los cuales los h de Israel no destruyeronH1121
+- 2Cr_8:9h de Israel no puso Salomón siervos enH1121
+- 2Cr_9:29la profecía...contra Jeroboam h de NabatH1121
+- 2Cr_9:31durmió...reinó en su lugar Roboam su hH1121
+- 2Cr_10:2y cuando lo oyó Jeroboam h de Nabat, elH1121
+- 2Cr_10:15había hablado...a Jeroboam h de NabatH1121
+- 2Cr_10:16no tenemos herencia en el h de IsaíH1121
+- 2Cr_10:17reinó Roboam sobre los h de Israel queH1121
+- 2Cr_10:18lo apedrearon los h de Israel, y murióH1121
+- 2Cr_11:3habla a Roboam h de Salomón, rey deH1121
+- 2Cr_11:14Jeroboam y sus h los excluyeron delH1121
+- 2Cr_11:17y confirmaron a Roboam h de SalomónH1121
+- 2Cr_11:18Jerimot, h de David y de Abihail hijaH1121
+- 2Cr_11:18de Abihail hija de Eliab, h de IsaíH1121
+- 2Cr_11:19la cual le dio a luz estos h: JeúsH1121
+- 2Cr_11:21Roboam amó...y engendró 28 h y 60 hijasH1121
+- 2Cr_11:22y puso Roboam a Abías h de Maaca porH1121
+- 2Cr_11:23y esparció a todos sus h por todas lasH1121
+- 2Cr_12:16durmió...y reinó en su lugar Abías su hH1121
+- 2Cr_13:5Jehová dio el reino a David...y a sus hH1121
+- 2Cr_13:6Jeroboam h de...siervo de Salomón h deH1121
+- 2Cr_13:7y pudieron más que Roboam h de SalomónH1121
+- 2Cr_13:8al reino de...en mano de los h de DavidH1121
+- 2Cr_13:9¿no habéis arrojado...a los h de AarónH1121
+- 2Cr_13:10y los sacerdotes...son los h de AarónH1121
+- 2Cr_13:12h de Israel, no peleéis contra...DiosH1121
+- 2Cr_13:16y huyeron los h de Israel delante deH1121
+- 2Cr_13:18así fueron humillados los h de IsraelH1121
+- 2Cr_13:18los h de Judá prevalecieron, porque seH1121
+- 2Cr_13:21Abías...tomó...engendró 22 h y 16 hijasH1121
+- 2Cr_14:1durmió...y reinó en su lugar su h AsaH1121
+- 2Cr_15:1el Espíritu de Dios sobre Azarías h deH1121
+- 2Cr_15:8oyó Asa las...la profecía del...Azarías hH1121
+- 2Cr_17:1reinó en su lugar Josafat su h, el cualH1121
+- 2Cr_17:16tras éste, Amasías h de Zicri, el cualH1121
+- 2Cr_18:7aún hay aquí un...es Micaías h de ImlaH1121
+- 2Cr_18:8haz venir luego a Micaías h de ImlaH1121
+- 2Cr_18:10Sedequías h de Quenaana se había hechoH1121
+- 2Cr_18:23Sedequías h de Quenaana se le acercóH1121
+- 2Cr_18:25y llevadlo a Amón...y a Joás h del reyH1121
+- 2Cr_19:2le salió al...el vidente Jehú h de HananiH1121
+- 2Cr_19:11que os presida...Zebadías h de IsmaelH1121
+- 2Cr_20:1los h de Moab, y de Amón, y con ellosH1121
+- 2Cr_20:10he aquí los h de Amón y de Moab, y losH1121
+- 2Cr_20:13con sus niños y sus mujeres y sus hH1121
+- 2Cr_20:14Jahaziel h de Zacarías, h de BenaíaH1121
+- 2Cr_20:14h de Jeiel, h de Matanías, levita deH1121
+- 2Cr_20:14de los h de Asaf, sobre el cual vinoH1121
+- 2Cr_20:19de los h de Coat y de los h de CoréH1121
+- 2Cr_20:22Jehová puso contra los h de Amón, deH1121
+- 2Cr_20:23los h de Amón y...se levantaron contraH1121
+- 2Cr_20:34en las palabras de Jehú h de HananiH1121
+- 2Cr_20:37Eliezer h de Dodava...profetizó contraH1121
+- 2Cr_21:1Josafat, reinó en su lugar Joram su hH1121
+- 2Cr_21:2quien tuvo por hermanos, h de JosafatH1121
+- 2Cr_21:2todos estos fueron h de Josafat rey deH1121
+- 2Cr_21:7que le daría lámpara a él y a sus hH1121
+- 2Cr_21:14herirá a tu pueblo...y a tus h y a tusH1121
+- 2Cr_21:17tomaron...a sus h y a sus mujeres; y noH1121
+- 2Cr_21:17no le quedó más h sino...menor de sus hH1121
+- 2Cr_22:1en lugar de Joram a Ocozías su h menorH1121
+- 2Cr_22:1reinó Ocozías, h de Joram rey de JudáH1121
+- 2Cr_22:5fue a la guerra con Joram h de Acab, reyH1121
+- 2Cr_22:6y descendió Ocozías h de...a Joram h deH1121
+- 2Cr_22:7salió...contra Jehú h de Nimsi, al cualH1121
+- 2Cr_22:8halló a...h de los hermanos de OcozíasH1121
+- 2Cr_22:9h de Josafat, quien de todo su corazónH1121
+- 2Cr_22:10Atalía...viendo que su h era muerto, seH1121
+- 2Cr_22:11Josabet, hija del rey, tomó a Joás hH1121
+- 2Cr_22:11escondiéndolo de entre los demás h delH1121
+- 2Cr_23:1tomó...en alianza a...Azarías h de JerohamH1121
+- 2Cr_23:1Ismael h de Johanán, Azarías h de ObedH1121
+- 2Cr_23:1Maasías h de Adaía, y Elisafat h deH1121
+- 2Cr_23:3he aquí el h del rey, el cual reinaráH1121
+- 2Cr_23:3como...ha dicho respecto a los h de DavidH1121
+- 2Cr_23:11h del rey...Joiada y sus h lo ungieronH1121
+- 2Cr_24:3tomó...dos mujeres; y engendró h e hijasH1121
+- 2Cr_24:7la impía Atalía y sus h habían destruidoH1121
+- 2Cr_24:20Espíritu de Dios vino sobre Zacarías hH1121
+- 2Cr_24:22antes mató a su h, quien dijo al morirH1121
+- 2Cr_24:25causa de la sangre de los h de JoiadaH1121
+- 2Cr_24:26que conspiraron contra él...Zabad h deH1121
+- 2Cr_24:26Simeat amonita, y Josabad h de SimritH1121
+- 2Cr_24:27cuanto a los h de Joás...está escritoH1121
+- 2Cr_24:27Joás...reinó en su lugar Amasías su hH1121
+- 2Cr_25:4pero no mató a los h de ellos, según loH1121
+- 2Cr_25:4no morirán...por los h ni los h por losH1121
+- 2Cr_25:7Jehová no está...ni con los h de EfraínH1121
+- 2Cr_25:11Sal, y mató de los h de Seir diez milH1121
+- 2Cr_25:12los h de Judá tomaron vivos a...10.000H1121
+- 2Cr_25:14consigo los dioses de los h de SeirH1121
+- 2Cr_25:17a decir a Joás h de Joacaz, h de JehúH1121
+- 2Cr_25:18da tu hija a mi h por mujer. Y he aquíH1121
+- 2Cr_25:23apresó...a Amasías rey...h de Joás, h deH1121
+- 2Cr_25:24tomó todo el oro...los h de los noblesH1121
+- 2Cr_25:25vivió Amasías h de Joás, rey de JudáH1121
+- 2Cr_25:25años después de la muerte de Joás hH1121
+- 2Cr_26:18no...sino a los sacerdotes h de AarónH1121
+- 2Cr_26:21Jotam su h tuvo cargo de la casa realH1121
+- 2Cr_26:22escritos por el profeta Isaías, h deH1121
+- 2Cr_26:23Uzías...reinó Jotam su h en lugar suyoH1121
+- 2Cr_27:5él guerra con el rey de los h de AmónH1121
+- 2Cr_27:5le dieron los h de Amón en aquel añoH1121
+- 2Cr_27:5dieron los h de Amón, y lo mismo en elH1121
+- 2Cr_27:9Jotam...y reinó en su lugar Acaz su hH1121
+- 2Cr_28:3incienso en el valle de los h de HinomH1121
+- 2Cr_28:3hizo pasar a sus h por fuego, conformeH1121
+- 2Cr_28:3había arrojado de...de los h de IsraelH1121
+- 2Cr_28:6h de Remalías mató en un día 120.000H1121
+- 2Cr_28:7mató a Maasías h del rey, a Azricam suH1121
+- 2Cr_28:8los h de Israel tomaron cautivos de susH1121
+- 2Cr_28:12levantaron algunos...de los h de EfraínH1121
+- 2Cr_28:12Azarías h de Johanán, Berequías h deH1121
+- 2Cr_28:12Ezequías h de Salum, y Amasa h deH1121
+- 2Cr_28:27Acaz...reinó en su lugar Ezequías su hH1121
+- 2Cr_29:9y nuestros h...fueron llevados cautivosH1121
+- 2Cr_29:11h míos, no os engañéis ahora, porqueH1121
+- 2Cr_29:12Mahat h de Amasai y Joel h de AzaríasH1121
+- 2Cr_29:12de los h de Coat; y de los h de MerariH1121
+- 2Cr_29:12Cis h de Abdi y Azarías h de JehalelelH1121
+- 2Cr_29:12h de Gersón, Joa h de Zima y Edén h deH1121
+- 2Cr_29:13de los h de Elizafán...de los h de AsafH1121
+- 2Cr_29:14los h de Hemán...y de los h de JedutúnH1121
+- 2Cr_29:21dijo a los sacerdotes h de Aarón queH1121
+- 2Cr_30:6h de Israel, volveos a Jehová el DiosH1121
+- 2Cr_30:9vuestros h hallarán misericordia delanteH1121
+- 2Cr_30:21los h de Israel...celebraron la fiestaH1121
+- 2Cr_30:26desde los días de Salomón h de DavidH1121
+- 2Cr_31:1se volvieron todos los h de Israel a susH1121
+- 2Cr_31:5los h de Israel dieron muchas primiciasH1121
+- 2Cr_31:6h de Israel y de Judá, que habitaban enH1121
+- 2Cr_31:14Coré h de Imna, guarda de la puertaH1121
+- 2Cr_31:18eran inscritos con...sus h e hijas, todaH1121
+- 2Cr_31:19del mismo modo para los h de AarónH1121
+- 2Cr_32:20y el profeta Isaías h de Amoz oraronH1121
+- 2Cr_32:21allí lo mataron a espada sus propios hH3318
+- 2Cr_32:32en la profecía del...Isaías h de AmozH1121
+- 2Cr_32:33de los sepulcros de los h de DavidH1121
+- 2Cr_32:33durmió Ezequías...su lugar Manasés su hH1121
+- 2Cr_33:2Jehová había echado de delante de los hH1121
+- 2Cr_33:6y pasó sus h por fuego en el valle delH1121
+- 2Cr_33:7dicho Dios a David y a Salomón su hH1121
+- 2Cr_33:9que Jehová destruyó delante de los h deH1121
+- 2Cr_33:20durmió...y reinó en su lugar Amón su hH1121
+- 2Cr_33:25el pueblo...puso por rey...a Josías su hH1121
+- 2Cr_34:8envió a Safán h de Azalía, a MaasíasH1121
+- 2Cr_34:8y a Joa h de Joacaz, canciller, para queH1121
+- 2Cr_34:12de los h de Merari y...de los h de CoatH1121
+- 2Cr_34:20y mandó a Hilcías a Ahicam h de SafánH1121
+- 2Cr_34:20Abdón h de Micaía, y a Safán escribaH1121
+- 2Cr_34:22Salum h de Ticva, h de Harhas, guardaH1121
+- 2Cr_34:33las abominaciones...de los h de IsraelH1121
+- 2Cr_35:3la casa que edificó Salomón h de DavidH1121
+- 2Cr_35:4lo ordenaron David rey...y Salomón su hH1121
+- 2Cr_35:5de vuestros hermanos los h del puebloH1121
+- 2Cr_35:14los...h de Aarón, estuvieron ocupadosH1121
+- 2Cr_35:14prepararon para...para los...h de AarónH1121
+- 2Cr_35:15los cantores h de Asaf estaban en suH1121
+- 2Cr_35:17los h de Israel...celebraron la pascuaH1121
+- 2Cr_36:1a Joacaz h de Josías, y lo hizo rey enH1121
+- 2Cr_36:8Joacim...reinó en su lugar Joaquín su hH1121
+- 2Cr_36:20fueron siervos de él y de sus h, hastaH1121
+- Esd_2:1los h de la provincia que subieron delH1121
+- Esd_2:3los h de Paros, 2.172H1121
+- Esd_2:4los h de Sefatías, 372H1121
+- Esd_2:5los h de Ara, 775H1121
+- Esd_2:6los h de Pahat-moab, de los h de JesúaH1121
+- Esd_2:7los h de Elam, 1.254H1121
+- Esd_2:8los h de Zatu, 945H1121
+- Esd_2:9los h de Zacai, 770H1121
+- Esd_2:10los h de Bani, 642H1121
+- Esd_2:11los h de Bebai, 623H1121
+- Esd_2:12los h de Azgad, 1.222H1121
+- Esd_2:13los h de Adonicam, 666H1121
+- Esd_2:14los h de Bigvai, 2.056H1121
+- Esd_2:15los h de Adín, 454H1121
+- Esd_2:16los h de Ater, de Ezequías, 98H1121
+- Esd_2:17los h de Bezai, 323H1121
+- Esd_2:18los h de Jora, 102H1121
+- Esd_2:19los h de Hasum, 223H1121
+- Esd_2:20los h de Gibar, 95H1121
+- Esd_2:21los h de Belén, 123H1121
+- Esd_2:24los h de Azmavet, 42H1121
+- Esd_2:25los h de Quiriat-jearim, Cafira y...743H1121
+- Esd_2:26los h de Ramá y Geba, 621H1121
+- Esd_2:29los h de Nebo, 52H1121
+- Esd_2:30los h de Magbis, 156H1121
+- Esd_2:31los h del otro Elam, 1.254H1121
+- Esd_2:32los h de Harim, 320H1121
+- Esd_2:33los h de Lod, Hadid y Ono, 725H1121
+- Esd_2:34los h de Jericó, 345H1121
+- Esd_2:35los h de Senaa, 3.630H1121
+- Esd_2:36los h de Jedaías, de la casa de JesúaH1121
+- Esd_2:37los h de Imer, 1.052H1121
+- Esd_2:38los h de Pasur, 1.247H1121
+- Esd_2:39los h de Harim, 1.017H1121
+- Esd_2:40los h de Jesúa y de CadmielH1121
+- Esd_2:40de los h de Hodavías, 74H1121
+- Esd_2:41los cantores: los h de Asaf, 128H1121
+- Esd_2:42los h de los porteros: los h de SalumH1121
+- Esd_2:42los h de Ater, los h de Talmón, losH1121
+- Esd_2:42los h de Acub, los h de HatitaH1121
+- Esd_2:42los h de Sobai; por todos, 139H1121
+- Esd_2:43h de Ziha, los h de Hasufa, los h deH1121
+- Esd_2:44h de Queros, los h de Siaha, los h deH1121
+- Esd_2:45h de Lebana, los h de Hagaba, los h deH1121
+- Esd_2:46h de Hagab, los h de Salmai, los h deH1121
+- Esd_2:47los h de Gidel, los h de Gahar, los hH1121
+- Esd_2:48los h de Rezín, los h de Necoda, los hH1121
+- Esd_2:49los h de Uza, los h de Paseah, los h deH1121
+- Esd_2:50h de Asena, los h de Menumin, los h deH1121
+- Esd_2:51h de Bacbuc, los h de Hacufa, los h deH1121
+- Esd_2:52h de Bazlut, los h de Mehída, los h deH1121
+- Esd_2:53h de Barcos, los h de Sísara, los h deH1121
+- Esd_2:54los h de Nezía, los h de HatitaH1121
+- Esd_2:55los h de los siervos de Salomón: los hH1121
+- Esd_2:55los h de Soferet, los h de PerudaH1121
+- Esd_2:56h de Jaala, los h de Darcón, los h deH1121
+- Esd_2:57los h de Sefatías, los h de HatilH1121
+- Esd_2:57los h de Poqueret-hazebaim, los h de AmiH1121
+- Esd_2:58todos...h de los siervos de Salomón, 392H1121
+- Esd_2:60h de Delaía, los h de Tobías, los h deH1121
+- Esd_2:61h de los sacerdotes: los h de HabaíaH1121
+- Esd_2:61los h de Cos, los h de Barzilai, el cualH1121
+- Esd_3:1estando los h de Israel ya establecidosH1121
+- Esd_3:2se levantaron Jesúa h de Josadac y susH1121
+- Esd_3:2Zorobabel h de Salatiel y sus hermanosH1121
+- Esd_3:8Zorobabel h de Salatiel, Jesúa h deH1121
+- Esd_3:9Jesúa también, sus h y sus hermanosH1121
+- Esd_3:9Cadmiel y sus h, h de Judá, como un soloH1121
+- Esd_3:9los h de Henadad, sus h y sus hermanosH1121
+- Esd_3:10a los levitas h de Asaf con címbalosH1121
+- Esd_5:1profetizaron Hageo y Zacarías h de IddoH1247
+- Esd_5:2Zorobabel h de Salatiel y Jesúa h deH1247
+- Esd_6:10oren por la vida del rey y por sus hH1123
+- Esd_6:14profeta Hageo y de Zacarías h de IddoH1247
+- Esd_6:16los h de Israel, los sacerdotes, losH1121
+- Esd_6:19los h de la cautividad celebraron laH1121
+- Esd_6:20sacrificaron la pascua por...los h deH1121
+- Esd_6:21los h de Israel que habían vuelto delH1121
+- Esd_7:1Esdras h de Seraías, h de Azarías, h deH1121
+- Esd_7:2h de Salum, h de Sadoc, h de AhitobH1121
+- Esd_7:3h de Amarías, h de Azarías, h de MeraiotH1121
+- Esd_7:4h de Zeraías, h de Uzi, h de BuquiH1121
+- Esd_7:5h de Abisúa, h de Finees, h de EleazarH1121
+- Esd_7:5Eleazar, h de Aarón, primer sacerdoteH1121
+- Esd_7:7y con él subieron...de los h de IsraelH1121
+- Esd_7:23contra el reino del rey y de sus h?[[H1123]]
+- Esd_8:2de los h de Finees, Gersón; de los h deH1121
+- Esd_8:2de Itamar, Daniel; de los h de DavidH1121
+- Esd_8:3los h de Secanías y de los h de ParosH1121
+- Esd_8:4de los h de Pahat-moab, Elioenai h deH1121
+- Esd_8:5de los h de Secanías, el h de JahazielH1121
+- Esd_8:6de los h de Adín, Ebed h de Jonatán, yH1121
+- Esd_8:7de los h de Elam, Jesaías h de AtalíasH1121
+- Esd_8:8los h de Sefatías, Zebadías h de MicaelH1121
+- Esd_8:9de los h de Joab, Obadías h de JehielH1121
+- Esd_8:10de los h de Selomit, el h de JosifíasH1121
+- Esd_8:11de los h de Bebai, Zacarías h de BebaiH1121
+- Esd_8:12de los h de Azgad, Johanán h de HacatánH1121
+- Esd_8:13los h de Adonícam, los postreros, cuyosH1121
+- Esd_8:14h de Bigvai, Utai y Zabud, y con ellosH1121
+- Esd_8:15buscando...no hallé allí de los h de LevíH1121
+- Esd_8:18un varón...de los h de Mahli h de LevíH1121
+- Esd_8:18h de Israel; a Serebías con sus h...18H1121
+- Esd_8:19Jesaías de los h de Merari...sus h, 20H1121
+- Esd_8:33Meremot h de Urías, y con él Eleazar hH1121
+- Esd_8:33con ellos Jozabad h de Jesúa y Noadías hH1121
+- Esd_8:35los h de la cautividad...holocaustos alH1121
+- Esd_9:2las hijas de ellos para sí y para sus hH1121
+- Esd_9:12no daréis vuestras hijas a los h deH1121
+- Esd_9:12ni sus hijas tomaréis para vuestros hH1121
+- Esd_9:12y la dejéis por heredad a vuestros hH1121
+- Esd_10:2Secanías h de Jehiel, de los h de ElamH1121
+- Esd_10:6fue a la cámara de Johanán h de EliasibH1121
+- Esd_10:7todos los h del cautiverio se reuniesenH1121
+- Esd_10:15Jonatán h de Asael y Jahazías h deH1121
+- Esd_10:16así hicieron los h del cautiverioH1121
+- Esd_10:18h de los sacerdotes que habían tomadoH1121
+- Esd_10:18de los h de Jesúa h de Josadac, y deH1121
+- Esd_10:20de los h de Imer: Hanani y ZebadíasH1121
+- Esd_10:21de los h de Harim: Maasías, ElíasH1121
+- Esd_10:22de los h de Pasur; Elioenai, MaasíasH1121
+- Esd_10:23los h de los levitas: Jozabad, SimeiH3881
+- Esd_10:25de los h de Paros: Ramía, JezíasH1121
+- Esd_10:26de los h de Elam: Matanías, ZacaríasH1121
+- Esd_10:27de los h de Zatu: Elioenai, EliasibH1121
+- Esd_10:28de los h de Bebai: Johanán, HananíasH1121
+- Esd_10:29los h de Bani: Mesulam, Maluc, AdaíaH1121
+- Esd_10:30de los h de Pahat-moab: Adna, QuelalH1121
+- Esd_10:31de los h de Harim: Eliezer, IslasH1121
+- Esd_10:33de los h de Hasum: Matenai, MatataH1121
+- Esd_10:34de los h de Bani: Madai, Amram, UelH1121
+- Esd_10:43y de los h de Nebo: Jeiel, MatatíasH1121
+- Esd_10:44mujeres de ellos...habían dado a luz hH1121
+- Neh_1:1palabras de Nehemías h de HacalíasH1121
+- Neh_1:6la oración...los h de Israel tus siervosH1121
+- Neh_1:6confieso los pecados de los h de IsraelH1121
+- Neh_2:10para procurar el bien de los h de IsraelH1121
+- Neh_3:2junto a...luego edificó Zacur h de ImriH1121
+- Neh_3:3los h de Sanaa edificaron la puerta delH1121
+- Neh_3:4restauró Meremot h de Urías, h de CosH1121
+- Neh_3:4Mesulam h de Berequías, h de MesezabeelH1121
+- Neh_3:4junto a ellos restauró Sadoc h de BaanaH1121
+- Neh_3:6por Joiada h de...y Mesulam h de BesodíasH1121
+- Neh_3:8junto a ellos restauró Uziel h de HarhaíaH1121
+- Neh_3:8restauró...Hananías, h de un perfumeroH1121
+- Neh_3:9restauró...Refaías h de Hur, gobernador deH1121
+- Neh_3:10frente a su casa, Jedaías h de HarumafH1121
+- Neh_3:10junto a...restauró Hatús h de HasabníasH1121
+- Neh_3:11Malaquías h de...y Hasub h de Pahat-moabH1121
+- Neh_3:12junto a ellos restauró Salum h de HalohesH1121
+- Neh_3:14reedificó la puerta del...Malquías h deH1121
+- Neh_3:15Salum h de Colhoze, gobernador de laH1121
+- Neh_3:16después...restauró Nehemías h de AzbucH1121
+- Neh_3:17restauraron...Rehum h de Bani, y juntoH1121
+- Neh_3:18de él restauraron...Bavai h de HenadadH1121
+- Neh_3:19junto a él restauró Ezer h de JesúaH1121
+- Neh_3:20después de él Baruc h de Zabai con todoH1121
+- Neh_3:21restauró Meremot h de Urías h de CosH1121
+- Neh_3:23restauró Azarías h de Maasías, h deH1121
+- Neh_3:24restauró Binúi h de Henadad otro tramoH1121
+- Neh_3:25h de Uzai, enfrente de la esquina y laH1121
+- Neh_3:25después de él, Pedaías h de FarosH1121
+- Neh_3:29después de ellos restauró Sadoc h deH1121
+- Neh_3:29y después de él restauró Semaías h deH1121
+- Neh_3:30Hananías h de Selemías y Hanún h sextoH1121
+- Neh_3:30Mesulam h de Berequías, enfrente de suH1121
+- Neh_3:31después de él...Malquías h del plateroH1121
+- Neh_4:14y pelead por...vuestros h y por vuestrasH1121
+- Neh_5:2nosotros, nuestros h y nuestras hijasH1121
+- Neh_5:5nuestros h como sus h; y he aquí queH1121
+- Neh_5:5dimos nuestros h y...hijas a servidumbreH1121
+- Neh_6:10vine...a casa de Semaías h de Delaía, hH1121
+- Neh_6:18porque era yerno de Secanías h de AraH1121
+- Neh_6:18Johanán su h había tomado por mujer aH1121
+- Neh_6:18tomado por mujer a la hija de Mesulam hH1121
+- Neh_7:6son los h de la provincia que subieronH1121
+- Neh_7:8los h de Paros, 2.172H1121
+- Neh_7:9los h de Sefatías, 372H1121
+- Neh_7:10los h de Ara, 652H1121
+- Neh_7:11los h de Pahat-moab, de los h de JesúaH1121
+- Neh_7:12los h de Elam, 1.254H1121
+- Neh_7:13los h de Zatu, 845H1121
+- Neh_7:14los h de Zacai, 760H1121
+- Neh_7:15los h de Binúi, 648H1121
+- Neh_7:16los h de Bebai, 628H1121
+- Neh_7:17los h de Azgad, 2.622H1121
+- Neh_7:18los h de Adonicam, 667H1121
+- Neh_7:19los h de Bigvai, 2:067H1121
+- Neh_7:20los h de Adín, 655H1121
+- Neh_7:21los h de Ater, de Ezequías, 98H1121
+- Neh_7:22los h de Hasum, 328H1121
+- Neh_7:23los h de Bezai, 324H1121
+- Neh_7:24los h de Harif, 112H1121
+- Neh_7:25los h de Gabaón, 95H1121
+- Neh_7:34los h del otro Elam, 1:254H1121
+- Neh_7:35los h de Harim, 320H1121
+- Neh_7:36los h de Jericó, 345H1121
+- Neh_7:37los h de Lod, Hadid y Ono, 721H1121
+- Neh_7:38los h de Sanaa, 3.930H1121
+- Neh_7:39sacerdotes: los h de Jedaía, de laH1121
+- Neh_7:40los h de Imer, 1.052H1121
+- Neh_7:41los h de Pasur, 1.247H1121
+- Neh_7:42los h de Harim, 1:017H1121
+- Neh_7:43levitas: los h de Jesúa, de CadmielH1121
+- Neh_7:43levitas...de los h de Hodavías, 74H1121
+- Neh_7:44cantores: los h de Asaf, 148H1121
+- Neh_7:45los h de Salum, los h de Ater, los hH1121
+- Neh_7:45los h de Acub, los h de Hatita y los hH1121
+- Neh_7:46los h de Ziha, los h de Hasufa, los hH1121
+- Neh_7:47los h de Queros, los h de Siaha, los hH1121
+- Neh_7:48los h de Lebana, los h de Hagaba, los hH1121
+- Neh_7:49los h de Hanán, los h de Gidel, los hH1121
+- Neh_7:50los h de Reaía, los h de Rezín, los hH1121
+- Neh_7:51los h de Gazam, los h de Uza, los h deH1121
+- Neh_7:52h de Besai, los h de Mehunim, los h deH1121
+- Neh_7:53h de Bacbuc, los h de Hacufa, los h deH1121
+- Neh_7:54h de Bazlut, los h de Mehída, los h deH1121
+- Neh_7:55los h de Barcos, los h de Sísara, los hH1121
+- Neh_7:56los h de Nezía, y los h de HatifaH1121
+- Neh_7:57los h de los siervos de Salomón: losH1121
+- Neh_7:57los h de Sotai, los h de Soferet, los hH1121
+- Neh_7:58los h de Jaala, los h de Darcón, los hH1121
+- Neh_7:59los h de Sefatías, los h de Hatil, losH1121
+- Neh_7:59h de Poqueret-hazebaim, los h de AmónH1121
+- Neh_7:60e h de los siervos de Salomón, 392H1121
+- Neh_7:62h de Delaía, los h de Tobías y los hH1121
+- Neh_7:63los h de Habaía, los h de Cos y los hH1121
+- Neh_7:73los h de Israel estaban en sus ciudadesH1121
+- Neh_8:14los h de Israel en tabernáculos en laH1121
+- Neh_8:17días de Josué h de Nun hasta aquel díaH1121
+- Neh_8:17no habían hecho así los h de IsraelH1121
+- Neh_9:1se reunieron los h de Israel en ayunoH1121
+- Neh_9:23multiplicaste sus h como las estrellasH1121
+- Neh_9:24y los h vinieron y poseyeron la tierraH1121
+- Neh_10:1firmaron...Nehemías el...h de HacalíasH1121
+- Neh_10:9y los levitas: Jesúa h de AzaníasH1121
+- Neh_10:9Benúi de los h de Henadab, CadmielH1121
+- Neh_10:28con sus...h e hijas todo el que teníaH1121
+- Neh_10:30ni tomaríamos sus hijas...nuestro hH1121
+- Neh_10:36los primogénitos de nuestros h y deH1121
+- Neh_10:38estaría el sacerdote h de Aarón conH1121
+- Neh_10:39los h de Israel y los h de Leví laH1121
+- Neh_11:3y los h de los siervos de SalomónH1121
+- Neh_11:4habitaron...h de Judá y...h de BenjamínH1121
+- Neh_11:4de los h de Judá: Ataías h de UzíasH1121
+- Neh_11:4h de Zacarías, h de Amarías, h deH1121
+- Neh_11:4h de Mahalaleel, de los h de FaresH1121
+- Neh_11:5y Maasías h de Baruc, h de ColhozeH1121
+- Neh_11:5h de Hazaías, h de Adaías, h de JoiaribH1121
+- Neh_11:5Joiarib, h de Zacarías, h de SiloniH1121
+- Neh_11:6los h de Fares que moraron en JerusalénH1121
+- Neh_11:7h de Benjamín: Salú h de Mesulam, h deH1121
+- Neh_11:7Joed, h de Pedaías, h de Colaías, h deH1121
+- Neh_11:7de Maasías, h de Itiel, h de JesaíasH1121
+- Neh_11:9y Joel h de Zicri era el prefecto deH1121
+- Neh_11:9Judá h de Senúa el segundo en la ciudadH1121
+- Neh_11:10los sacerdotes: Jedaías h de JoiaribH1121
+- Neh_11:11Seraías h de Hilcías, h de MesulamH1121
+- Neh_11:11h de Sadoc, h de Meraiot, h de AhitobH1121
+- Neh_11:12y Adaías h de Jeroham, h de PelalíasH1121
+- Neh_11:12h de Amsi, h de ZacaríasH1121
+- Neh_11:12h de Pasur, h de MalquíasH1121
+- Neh_11:13y Amasai h de Azareel, h de AzaiH1121
+- Neh_11:13Azai, h de Mesilemot, h de ImerH1121
+- Neh_11:14el jefe de...era Zabdiel h de GedolimH1121
+- Neh_11:15de los levitas: Semaías h de HasubH1121
+- Neh_11:15h de Azricam, h de Hasabías, h de BuniH1121
+- Neh_11:17y Matanías h de Micaía, h de ZabdiH1121
+- Neh_11:17h de Asaf...que empezaba las alabanzasH1121
+- Neh_11:17y Abda h de Samúa, h de Galal, h deH1121
+- Neh_11:22el jefe...Uzi h de Bani, h de HasabíasH1121
+- Neh_11:22h de Matanías, h de Micaía...h de AsafH1121
+- Neh_11:24Petaías h de Mesezabeel, de los h deH1121
+- Neh_11:24de Zera h de Judá, estaba al servicioH1121
+- Neh_11:25los h de Judá habitaron en Quiriat-arbaH1121
+- Neh_11:31los h de Benjamín habitaron desde GebaH1121
+- Neh_12:1que subieron con Zorobabel h de SalatielH1121
+- Neh_12:23los h de Leví...fueron inscritos en elH1121
+- Neh_12:23hasta los días de Johanán h de EliasibH1121
+- Neh_12:24levitas...Serebías, Jesúa h de CadmielH1121
+- Neh_12:26de Joiacim h de Jesúa, h de JosadacH1121
+- Neh_12:28fueron reunidos los h de los cantoresH1121
+- Neh_12:35y de los h de los sacerdotes iban conH1121
+- Neh_12:35con trompetas Zacarías h de JonatánH1121
+- Neh_12:35h de Semaías, h de MataníasH1121
+- Neh_12:35h de Micaías, h de Zacur, h de AsafH1121
+- Neh_12:45al estatuto de David y de Salomón su hH1121
+- Neh_12:47consagraban parte a los h de AarónH1121
+- Neh_13:2no salieron a recibir a los h de IsraelH1121
+- Neh_13:13puse...a Hanán h de Zacur, h de MataníasH1121
+- Neh_13:16y vendían en día de...a los h de JudáH1121
+- Neh_13:24mitad de sus h hablaban la lengua deH1121
+- Neh_13:25no daréis vuestras hijas a sus h, y noH1121
+- Neh_13:25no tomaréis...sus hijas para vuestros hH1121
+- Neh_13:28y uno de los h de Joiada h del sumoH1121
+- Est_2:5Mardoqueo h de Jair, h de Simei, h deH1121
+- Est_3:1el rey Asuero engrandeció a Amán h deH1121
+- Est_3:10y lo dio a Amán h de Hamedata agagueoH1121
+- Est_5:11les refirió Amán...la multitud de sus hH1121
+- Est_8:5cartas que autorizan la trama de Amán hH1121
+- Est_9:10diez h de Amán h de Hamedata, enemigoH1121
+- Est_9:12los judíos han matado...a diez h de AmánH1121
+- Est_9:13cuelguen en la horca a los diez h deH1121
+- Est_9:14mandó...y colgaron a los diez h de AmánH1121
+- Est_9:24Amán h...había ideado contra los judíosH1121
+- Est_9:25que colgaran a él y a sus h en la horcaH1121
+- Job_1:2y le nacieron siete h y tres hijasH1121
+- Job_1:4sus h y hacían banquetes en sus casasH1121
+- Job_1:5decía Job: Quizá habrán pecado mis h, yH1121
+- Job_1:6presentarse delante de Jehová los h deH1121
+- Job_1:13aconteció que sus h e hijas comían yH1121
+- Job_1:18tus h y tus hijas estaban comiendo yH1121
+- Job_2:1que otro día vinieron los h de Dios paraH1121
+- Job_4:11león...los h de la leona se dispersanH1121
+- Job_5:4sus h estarán lejos de la seguridadH1121
+- Job_8:4si tus h pecaron contra él, él los echóH1121
+- Job_14:21sus h tendrán honores, pero él no loH1121
+- Job_17:5presa, los ojos de sus h desfalleceránH1121
+- Job_18:19no tendrá h ni nieto en su pueblo, niH5209
+- Job_19:17por los h de mis entrañas lo rogabaH1121
+- Job_20:10h solicitarán el favor de los pobresH1121
+- Job_21:11como manada, y sus h andan saltandoH3206
+- Job_21:19Dios guardará para los h de ellos suH1121
+- Job_24:5el desierto es mantenimiento de sus hH5288
+- Job_25:6menos...el h de hombre, también gusano?[[H1121]]
+- Job_27:14si sus h fueren multiplicados, seránH1121
+- Job_29:5estaba conmigo...y mis h alrededor de míH5288
+- Job_30:8h de viles, y hombres sin nombre, másH1121
+- Job_32:2entonces Eliú h de Baraquel buzita, deH1121
+- Job_32:6respondió Eliú h de Baraquel buzita, yH1121
+- Job_35:8al h de hombre aprovechará tu justiciaH1121
+- Job_38:7y se regocijaban todos los h de Dios?[[H1121]]
+- Job_38:32o guiarás a la Osa Mayor con sus h?[[H1121]]
+- Job_39:3hacen salir sus h, pasan sus doloresH3206
+- Job_39:4h se fortalecen, crecen con el pastoH3206
+- Job_39:16se endurece para con sus h, como si noH1121
+- Job_42:13y tuvo siete h y tres hijasH1121
+- Job_42:16a sus h, y a los h de su h, hasta laH1121
+- Sal_2:7Jehová me ha dicho: Mi h eres tú; yoH1121
+- Sal_2:12honrad al H, para que no se enoje, yH1148
+- Sal_ 3 tít.huía de delante de Absalón su hH1121
+- Sal_ 4:2h de los hombres...mi honra en infamia?[[H1121]]
+- Sal_ 7 tít.acerca de las palabras de Cus h deH1121
+- Sal_ 8:4el h del hombre, para que lo visites?[[H1121]]
+- Sal_ 11:4ojos...examinan a los h de los hombresH1121
+- Sal_ 12:1desaparecido los fieles de entre los hH1121
+- Sal_ 12:8vileza es exaltada entre los h de losH1121
+- Sal_ 14:2Jehová miró...sobre los h de los hombresH1121
+- Sal_ 17:14sacian a su h, y aun sobra para susH1121
+- Sal_ 18:44los h de extraños se sometieron a míH1121
+- Sal_ 21:10su descendencia de entre los h de losH1121
+- Sal_ 29:1tributad a Jehová, oh h de...poderososH1121
+- Sal_ 29:6saltar...al Líbano...como h de búfalosH1121
+- Sal_ 31:19has mostrado...delante de los h de losH1121
+- Sal_ 33:13miró...vio a todos los h de los hombresH1121
+- Sal_ 34:11venid, h, oídme; el temor de Jehová osH1121
+- Sal_ 36:7los h de los hombres se amparan bajo laH1121
+- Sal_ 42,44,45 títs.Masquil de los h de CoréH1121
+- Sal_ 45:2el más hermoso de los h de los hombresH1121
+- Sal_ 45:16en lugar de tus padres serán tus h, aH1121
+- Sal_ 46 tít.al músico principal; de los h de CoréH1121
+- Sal_ 47,48,49 títs.Salmo de los h de CoréH1121
+- Sal_ 50:20contra el h de tu madre ponías infamiaH1121
+- Sal_ 53:2Dios...miró sobre los h de los hombresH1121
+- Sal_ 57:4entre h de hombres que vomitan llamasH1121
+- Sal_ 58:1¿juzgáis rectamente, h de los hombres?[[H1121]]
+- Sal_ 62:9cierto, vanidad son los h de...hombresH1121
+- Sal_ 62:9mentira los h de varón; pesándolos aH1121
+- Sal_ 66:5temible en hechos sobre los h de losH1121
+- Sal_ 69:8y desconocido para los h de mi madreH1121
+- Sal_ 72:1oh Dios, da...tu justicia al h del reyH1121
+- Sal_ 72:4salvará a los h del menesteroso, yH1121
+- Sal_ 72:20terminan las oraciones de David, h deH1121
+- Sal_ 73:15si...a la generación de tus h engañaríaH1121
+- Sal_ 77:15redimiste...a los h de Jacob y de JoséH1121
+- Sal_ 78:4no las encubriremos a sus h, contandoH1121
+- Sal_ 78:5la cual mandó...la notificasen a sus hH1121
+- Sal_ 78:6para que lo sepa...y los h que naceránH1121
+- Sal_ 78:6que se levantarán lo cuenten a sus hH1121
+- Sal_ 78:9los h de Efraín...volvieron las espaldasH1121
+- Sal_ 80:17el h del hombre que para ti afirmasteH1121
+- Sal_ 82:6sois...y todos vosotros h del AltísimoH1121
+- Sal_ 83:8ellos; sirven de brazo a los h de LotH1121
+- Sal_ 84,85,88 títs.Salmo para los h de CoréH1121
+- Sal_ 86:16da tu poder...guarda al h de tu siervaH1121
+- Sal_ 87 tít.A los h de Coré. Salmo. CánticoH1121
+- Sal_ 89:6semejante a Jehová entre los h de losH1121
+- Sal_ 89:22no...ni h de iniquidad lo quebrantaráH1121
+- Sal_ 89:30si dejaren sus h mi ley, y...mis juiciosH1121
+- Sal_ 89:47creado en vano a todo h de hombre?[[H1121]]
+- Sal_ 90:3y dices: Convertíos, h de los hombresH1121
+- Sal_ 90:16aparezca en...y tu gloria sobre sus hH1121
+- Sal_ 102:28los h de tus siervos habitarán segurosH1121
+- Sal_ 103:7Moisés, y a los h de Israel sus obrasH1121
+- Sal_ 103:13como el padre se compadece de los hH1121
+- Sal_ 103:17y su justicia sobre los h de los hH1121
+- Sal_ 105:6oh vosotros...h de Jacob, sus escogidosH1121
+- Sal_ 106:37sacrificaron sus h y sus hijas a losH1121
+- Sal_ 106:38derramaron...la sangre de sus h y deH1121
+- Sal_ 107:8,15,21,31maravillas para con los h deH1121
+- Sal_ 109:9sean sus h huérfanos, y su mujer viudaH1121
+- Sal_ 109:10anden sus h vagabundos, y mendiguenH1121
+- Sal_ 113:9estéril, que se goza en ser madre de hH1121
+- Sal_ 115:14aumentará Jehová bendición sobre, hH1121
+- Sal_ 115:16y ha dado la tierra a los h de losH1121
+- Sal_ 116:16siervo tuyo soy, h de tu sierva; túH1121
+- Sal_ 127:3he aquí, herencia de Jehová son los hH1121
+- Sal_ 127:4así son los h habidos en la juventudH1121
+- Sal_ 128:3tus h como plantas de olivo alrededorH1121
+- Sal_ 128:6veas a los h de tus h. Paz sea sobreH1121
+- Sal_ 132:12si tus h guardaren mi pacto, y miH1121
+- Sal_ 132:12h también se sentarán sobre tu tronoH1121
+- Sal_ 137:7recuerda contra los h de Edom el díaH1121
+- Sal_ 144:3el h de hombre, para que lo estimes?[[H1121]]
+- Sal_ 144:12nuestros h como plantas crecidas enH1121
+- Sal_ 145:12hacer saber a los h de los hombresH1121
+- Sal_ 146:3no confiéis...ni en h de hombre, porqueH1121
+- Sal_ 147:9da...a los h de los cuervos que clamanH1121
+- Sal_ 147:13porque...bendijo a tus h dentro de tiH1121
+- Sal_ 148:14alábenle...sus santos, los h de IsraelH1121
+- Sal_ 149:2los h de Sion se gocen en su reyH1121
+- Pro_1:1los proverbios de Salomón, h de DavidH1121
+- Pro_1:8oye, h mío, la instrucción de tu padreH1121
+- Pro_1:10h mío, si los pecadores te quisierenH1121
+- Pro_1:15h mío, no andes en camino con ellosH1121
+- Pro_2:1h mío, si recibieres mis palabras, y misH1121
+- Pro_3:1h mío, no te olvides de mi ley...guardeH1121
+- Pro_3:11no menosprecies, h mío, el castigo deH1121
+- Pro_3:12ama...como el padre al h a quien quiereH1121
+- Pro_3:21h mío, no se aparten estas cosas de tusH1121
+- Pro_4:1oíd, h, la enseñanza de un padre, y estadH1121
+- Pro_4:3yo también fui h de mi padre, delicadoH1121
+- Pro_4:10oye, h mío, y recibe mis razones, y seH1121
+- Pro_4:20h mío, está atento a mis palabrasH1121
+- Pro_5:1h mío, está atento a mi sabiduría, y aH1121
+- Pro_5:7h, oídme, y no os apartéis de...razonesH1121
+- Pro_5:20¿y por qué, h mío, andarás ciego conH1121
+- Pro_6:1h mío, si salieres fiador por tu amigoH1121
+- Pro_6:3haz esto ahora, h mío, y líbrate, ya queH1121
+- Pro_6:20guarda, h mío, el mandamiento de tuH1121
+- Pro_7:1h mío, guarda mis razones, y atesoraH1121
+- Pro_7:24ahora pues, h, oídme, y estad atentosH1121
+- Pro_8:4dirijo mi voz a los h de los hombresH1121
+- Pro_8:31delicias son con los h de los hombresH1121
+- Pro_8:32ahora...h, oídme, y bienaventurados losH1121
+- Pro_10:1el h sabio alegra...h necio es tristezaH1121
+- Pro_10:5el que duerme en...es h que avergüenzaH1121
+- Pro_13:1el h sabio recibe el consejo del padreH1121
+- Pro_13:22dejará herederos a los h de sus h; peroH1121
+- Pro_13:24que detiene el castigo, a su h aborreceH1121
+- Pro_14:26confianza; y esperanza tendrán sus hH1121
+- Pro_15:20el h sabio alegra al padre; mas elH1121
+- Pro_17:2se enseñoreará del h que deshonra, yH1121
+- Pro_17:6corona...la honra de los h, sus padresH1121
+- Pro_17:25el h necio es pesadumbre de su padreH1121
+- Pro_19:13dolor es para su padre el h necio, yH1121
+- Pro_19:18castiga a tu h en tanto hay esperanzaH1121
+- Pro_19:26el que roba...es h que causa vergüenzaH1121
+- Pro_19:27cesa, h mío, de oír las enseñanzas queH1121
+- Pro_20:7justo; sus h son dichosos después de élH1121
+- Pro_23:15h mío, si tu corazón fuere sabioH1121
+- Pro_23:19oye, h mío, y sé sabio, y endereza tuH1121
+- Pro_23:26dame, h mío, tu corazón, y miren tusH1121
+- Pro_24:13come, h mío, de la miel...es buena, y elH1121
+- Pro_24:21teme a Jehová, h mío, y al rey; no teH1121
+- Pro_27:11sé sabio, h mío, y alegra mi corazónH1121
+- Pro_28:7el que guarda la ley es h prudente; masH1121
+- Pro_29:17corrige a tu h, y te dará descanso, yH1121
+- Pro_30:1palabras de Agur, h de Jaqué...y a UcalH1121
+- Pro_30:4¿cuál es...el nombre de su h, si sabes?[[H1121]]
+- Pro_30:17saquen, y lo devoren los h del águilaH1121
+- Pro_31:2¿qué, h mío? ¿y qué, h de mi vientre?[[H1248]]
+- Pro_31:2de mi vientre? ¿y qué, h de mis deseos?[[H1248]]
+- Pro_31:28sus h...la llaman bienaventurada; y suH1121
+- Ecc_1:1palabras del Predicador, h de DavidH1121
+- Ecc_1:13dio Dios a los h de los hombres, paraH1121
+- Ecc_2:3fuese el bien de los h de los hombresH1121
+- Ecc_2:8de los deleites de los h de los hombresH1121
+- Ecc_3:10el trabajo que Dios ha dado a los h deH1121
+- Ecc_3:18así, por causa de los h de los hombresH1121
+- Ecc_3:19lo que sucede a los h de los hombresH1121
+- Ecc_3:21espíritu de los h de los hombres subeH1121
+- Ecc_4:8un hombre solo y...no tiene h ni hermanoH1121
+- Ecc_5:14a los h que...nada les queda en la manoH1121
+- Ecc_6:3el hombre engendrare cien h, y viviereH1121
+- Ecc_8:11el corazón de los h...para hacer el malH1121
+- Ecc_9:3el corazón de los h...está lleno de malH1121
+- Ecc_9:12así son enlazados los h de los hombresH1121
+- Ecc_10:17cuando tu rey es h de nobles, y tusH1121
+- Ecc_12:12h mío, a más de esto, sé amonestadoH1121
+- Son_1:6h de mi madre se airaron contra míH1121
+- Isa_1:1visión de Isaías h de Amoz, la cualH1121
+- Isa_1:2crie h, y los engrandecí, y...se rebelaronH1121
+- Isa_1:4pueblo cargado de maldad...h depravados![[H1121]]
+- Isa_2:1que vio Isaías h de Amoz acerca de JudáH1121
+- Isa_2:6tu pueblo...pactan con h de extranjerosH3206
+- Isa_7:1los días de Acaz h de Jotam, h de UzíasH1121
+- Isa_7:1Rezín rey de Siria y Peka h de RemalíasH1121
+- Isa_7:3sal...tú, y Sear-jasub tu h, al extremoH1121
+- Isa_7:4la ira de Rezín y de...y del h de RemalíasH1121
+- Isa_7:5sitio, con Efraín y con el h de RemalíasH1121
+- Isa_7:6en medio de ella por rey al h de TabeelH1121
+- Isa_7:9y la cabeza de Samaria el h de RemalíasH1121
+- Isa_7:14la virgen concebirá, y dará a luz un hH1121
+- Isa_8:2Urías y a Zacarías h de JeberequíasH1121
+- Isa_8:3la profetisa...concibió, y dio a luz un hH1121
+- Isa_8:6y se regocijó con Rezín y con el h deH1121
+- Isa_8:18yo y los h que me dio Jehová somos porH3206
+- Isa_9:6h nos es dado, y el principado sobre suH1121
+- Isa_11:14Edom y Moab les servirán, y los h deH1121
+- Isa_13:1profecía...revelada a Isaías h de AmozH1121
+- Isa_13:18vientre, ni su ojo perdonará a los hH1121
+- Isa_14:12¡cómo caíste...Lucero, h de la mañana![[H1121]]
+- Isa_14:22raeré de Babilonia el...h y nieto, diceH5209
+- Isa_17:3será como la gloria de los h de IsraelH1121
+- Isa_17:9dejados a causa de los h de Israel; yH1121
+- Isa_19:11soy h de los sabios, e h de los reyesH1121
+- Isa_20:2Isaías h de Amoz, diciendo: Vé y quitaH1121
+- Isa_21:17de los valientes flecheros, h de CedarH1121
+- Isa_22:24la honra de la casa...los h y los nietosH6631
+- Isa_27:12vosotros, h de Israel, seréis reunidosH1121
+- Isa_29:23porque verá a sus h, obra de mis manosH3206
+- Isa_30:1¡ay de los h que se apartan, dice JehováH1121
+- Isa_30:9h mentirosos, h que no quisieron oír laH1121
+- Isa_31:6rebelaron profundamente los h de IsraelH1121
+- Isa_36:3y salió a él...h de Hilcías, mayordomoH1121
+- Isa_36:3Sebna, escriba, y Joa h de...cancillerH1121
+- Isa_36:22Eliaquim h de Hilcías...Joa h de AsafH1121
+- Isa_37:2y envió a...al profeta Isaías h de AmozH1121
+- Isa_37:3h han llegado hasta el punto de nacer, yH1121
+- Isa_37:12libraron sus dioses...a los h de EdénH1121
+- Isa_37:21Isaías h de...envió a decir a EzequíasH1121
+- Isa_37:38sus h...le mataron a espada, y huyeronH1121
+- Isa_37:38y reinó en su lugar Ezar-hadón su hH1121
+- Isa_38:1vino a él el profeta Isaías h de AmozH1121
+- Isa_38:19el padre hará notoria tu verdad a los hH1121
+- Isa_39:1Merodac-baladán h de Baladán, rey deH1121
+- Isa_39:7tus h que saldrán de ti, y que habrásH1121
+- Isa_43:6trae de lejos mis h, y mis hijas de losH1121
+- Isa_45:11mandadme acerca de mis h, y acerca deH1121
+- Isa_49:15olvidará la mujer...h de su vientre?[[H1121]]
+- Isa_49:20aun los h de tu orfandad dirán a tusH1121
+- Isa_49:21yo había sido privada de h y estabaH1121
+- Isa_49:22en brazos a tus h, y tus hijas seránH1121
+- Isa_49:25yo lo defenderé, y yo salvaré a tus hH1121
+- Isa_51:12y de h de hombre, que es como heno?[[H1121]]
+- Isa_51:18todos los h que dio a luz...h que crioH1121
+- Isa_51:20tus h desmayaron, estuvieron tendidosH1121
+- Isa_52:14desfigurado...más que la de los h deH1121
+- Isa_54:1más son los h de la desamparada que losH1121
+- Isa_54:13y se multiplicará la paz de tus hH1121
+- Isa_56:2esto, y el h de hombre que lo abrazaH1121
+- Isa_56:5daré...nombre mejor que el de h e hijasH1121
+- Isa_56:6los h de los extranjeros que sigan aH1121
+- Isa_57:3vosotros llegaos acá, h de la hechiceraH1121
+- Isa_57:4sois vosotros h rebeldes, generaciónH3206
+- Isa_57:5sacrificáis los h en los valles, debajoH3206
+- Isa_59:21de la boca de tus h...de los h de tus hH2233
+- Isa_60:4tus h vendrán de lejos, y tus hijasH1121
+- Isa_60:9para traer tus h de lejos, su plata yH1121
+- Isa_60:14vendrán a ti humillados los h de losH1121
+- Isa_62:5se desposarán contigo tus h; y como elH1121
+- Isa_63:8mi pueblo son, h que no mienten; y fueH1121
+- Isa_66:7que le viniesen dolores, dio a luz hH2145
+- Isa_66:8Sion estuvo de parto, dio a luz sus hH1121
+- Isa_66:20al modo que los h de Israel traen laH1121
+- Jer_1:1las palabras de Jeremías h de HilcíasH1121
+- Jer_1:2le vino en los días de Josías h de AmónH1121
+- Jer_1:3le vino...en días de Joacim h de JosíasH1121
+- Jer_1:3de Sedequías h de Josías, rey de JudáH1121
+- Jer_2:9y con los h de vuestros h pleitearéH1121
+- Jer_2:16aun los h de Menfis y de Tafnes teH1121
+- Jer_2:30en vano he azotado a vuestros h; no hanH1121
+- Jer_3:14convertíos, h rebeldes, dice JehováH1121
+- Jer_3:19¿cómo os pondré por h, y os daré laH1121
+- Jer_3:21llanto de los ruegos de los h de IsraelH1121
+- Jer_3:22convertíos, h rebeldes, y sanaré vuestrasH1121
+- Jer_3:24consumió...sus vacas, sus h y sus hijasH1121
+- Jer_4:22son h ignorantes y no son entendidosH1121
+- Jer_5:7sus h me dejaron, y juraron por lo queH1121
+- Jer_5:17comerá a tus h y a tus hijas; comerá tusH1121
+- Jer_6:1huid, h de Benjamín, de en...de JerusalénH1121
+- Jer_6:21y caerán en ellos los padres y los hH1121
+- Jer_6:26ponte luto como por h único, llanto deH3173
+- Jer_7:18h recogen la leña, los padres enciendenH1121
+- Jer_7:30los h de Judá han hecho lo malo ante misH1121
+- Jer_7:31altos de Tofet...el valle del h de HinomH1121
+- Jer_7:31quemar al fuego a sus h y a sus hijasH1121
+- Jer_7:32no se diga más...ni valle del h de HinomH1121
+- Jer_9:26a Judá, a Edom y a los h de Amón y deH1121
+- Jer_10:20mis h me han abandonado y perecieronH1121
+- Jer_11:22sus h y sus hijas morirán de hambreH1121
+- Jer_13:14los quebrantaré...los padres con los hH1121
+- Jer_14:16los entierre...a sus h y a sus hijasH1121
+- Jer_15:4a causa de Manasés h de Ezequías, reyH1121
+- Jer_15:7dejé sin h a mi pueblo y lo desbaratéH1121
+- Jer_15:8contra ellos destruidor...sobre los hH970
+- Jer_16:2no...ni tendrás h ni hijas en este lugarH1121
+- Jer_16:3así ha dicho Jehová acerca de los h yH1121
+- Jer_16:14,15que hizo subir a los h de Israel deH1121
+- Jer_17:2sus h se acuerdan de sus altares y deH1121
+- Jer_17:19y vé y ponte a la puerta de los h delH1121
+- Jer_18:21entrega sus h a hambre, dispérsalos porH1121
+- Jer_18:21queden sus mujeres sin h, y viudasH1121
+- Jer_19:2y saldrás al valle del h de Hinom, queH1121
+- Jer_19:5para quemar con fuego a sus h al...BaalH1121
+- Jer_19:6no se llamará...más valle del h de HinomH1121
+- Jer_19:9les haré comer la carne de sus h...hijasH1121
+- Jer_20:1el sacerdote Pasur h de Imer, que...oyóH1121
+- Jer_20:15nuevas a mi padre, diciendo: H varón teH1121
+- Jer_21:1a Pasur h de Malquías y...Sofonías h deH1121
+- Jer_22:11ha dicho Jehová acerca de Salum h deH1121
+- Jer_22:18acerca de Joacim h de Josías, rey deH1121
+- Jer_22:24que si Conías h de Joacim rey de JudáH1121
+- Jer_23:7que hizo subir a los h de Israel de laH1121
+- Jer_24:1transportado...a Jeconías h de JoacimH1121
+- Jer_25:1en el año cuarto de Joacim h de JosíasH1121
+- Jer_25:3año cuarto de Josías h de Amón, rey deH1121
+- Jer_25:21a Edom, a Moab y a los h de AmónH1121
+- Jer_26:1del reinado de Joacim h de Josías, reyH1121
+- Jer_26:20Urías h de Semaías, de Quiriat-jearimH1121
+- Jer_26:22rey Joacim envió...a Elnatán h de AcborH1121
+- Jer_26:24la mano de Ahicam h de Safán estaba aH1121
+- Jer_27:1del reinado de Joacim h de Josías, reyH1121
+- Jer_27:3rey de los h de Amón, y al rey de TiroH1121
+- Jer_27:7servirán a él, a su h, y al h de su hH1121
+- Jer_27:20transportó de...a Jedonías h de JoacimH1121
+- Jer_28:1Hananías h de Asur, profeta...me hablóH1121
+- Jer_28:4yo haré volver...a Jeconías h de JoacimH1121
+- Jer_29:3de Elasa h de Safán y de Gemarías h deH1121
+- Jer_29:6engendrad h...dad mujeres a vuestros hH1121
+- Jer_29:6dad maridos...para que tengan h e hijasH1121
+- Jer_29:21de Acab h de Colaías, y...Sedequías hH1121
+- Jer_29:25al sacerdote Sofonías h de Maasías, y aH1121
+- Jer_30:20sus h como antes, y su congregaciónH1121
+- Jer_31:15llanto...Raquel que lamenta por sus hH1121
+- Jer_31:15no quiso ser consolada acerca de sus hH1121
+- Jer_31:17y los h volverán a su propia tierraH1121
+- Jer_31:20¿no es Efraín h precioso para mí? ¿noH1121
+- Jer_31:29los dientes de los h tienen la denteraH1121
+- Jer_32:7Hanameel h de Salum tu tío viene a tiH1121
+- Jer_32:8vino...Hanameel h de mi tío, conforme aH1121
+- Jer_32:9y compré la heredad de Hanameel, h deH1121
+- Jer_32:12di la carta...a Baruc h de Nerías, h deH1121
+- Jer_32:12di...delante de Hanameel el h de mi tíoH1121
+- Jer_32:16después que di la...a Baruc h de NeríasH1121
+- Jer_32:18y castigas la maldad de los...en sus hH1121
+- Jer_32:19sobre todos los caminos de los h deH1121
+- Jer_32:30los h de Israel y los h de Judá no hanH1121
+- Jer_32:30los h de Israel no han hecho más queH1121
+- Jer_32:32maldad de los h de Israel...h de JudáH1121
+- Jer_32:35cuales están en el valle del h de HinomH1121
+- Jer_32:35pasar por el fuego sus h y sus hijasH1121
+- Jer_32:39para que tengan bien ellos, y sus hH1121
+- Jer_33:21de tener h que reine sobre su tronoH1121
+- Jer_35:1vino a Jeremías en días de Joacim h deH1121
+- Jer_35:3a Jaazanías h de Jeremías, h de...sus hH1121
+- Jer_35:4llevé...al aposento de los h de Hanán hH1121
+- Jer_35:4estaba sobre el aposento de Maasías hH1121
+- Jer_35:5puse delante de los h de los recabitasH1121
+- Jer_35:6Jonadab h de Recab...nos ordenó diciendoH1121
+- Jer_35:6no beberéis jamás vino...ni vuestros hH1121
+- Jer_35:8hemos obedecido a...Jonadab h de RecabH1121
+- Jer_35:8no beber vino...nuestros h ni nuestrasH1121
+- Jer_35:14la palabra de Jonadab h de Recab, elH1121
+- Jer_35:14mandó a sus h que no bebiesen vino, yH1121
+- Jer_35:16los h de Jonadab h de Recab tuvieronH1121
+- Jer_35:19no faltará de Jonadab h de Recab unH1121
+- Jer_36:1en el cuarto año de Joacim h de JosíasH1121
+- Jer_36:4llamó...a Baruc h de Nerías, y escribióH1121
+- Jer_36:8Baruc h de Nerías hizo conforme a todasH1121
+- Jer_36:9en el año quinto de Joacim h de JosíasH1121
+- Jer_36:10en el aposento de Gemarías h de SafánH1121
+- Jer_36:11y Micaías h de Gemarías, h de SafánH1121
+- Jer_36:12Delaía h de Semaías, Elnatán h deH1121
+- Jer_36:12Gemarías h de Safán, Sedequías h deH1121
+- Jer_36:14a Jehudí h de Netanías, h de SelemíasH1121
+- Jer_36:14h de Cusi...Y Baruc h de Nerías tomó elH1121
+- Jer_36:26mandó el rey a Jerameel h de HamelecH1121
+- Jer_36:26a Seraías h de Azriel y a Selemías hH1121
+- Jer_36:32tomó...otro rollo y lo dio a Baruc h deH1121
+- Jer_37:1en lugar de Conías h de...Sedequías h deH1121
+- Jer_37:3a Jucal h de Selemías, y...Sofonías h deH1121
+- Jer_37:13Irías h de Selemías, h de Hananías, elH1121
+- Jer_38:1oyeron Sefatías h...Gedalías h de PasurH1121
+- Jer_38:1oyeron...Jucal h de Selemías, y Pasur hH1121
+- Jer_38:6en la cisterna de Malquías h de HamelecH1121
+- Jer_38:23sacarán, pues...tus mujeres y tus h aH1121
+- Jer_39:6y degolló el rey...a los h de SedequíasH1121
+- Jer_39:14a Gedalías h de...h de Safán, para queH1121
+- Jer_40:5vuélvete a Gedalías h de Ahicam, h deH1121
+- Jer_40:6se fue...Jeremías a Gedalías h de AhicamH1121
+- Jer_40:7Gedalías h de Ahicam para gobernar laH1121
+- Jer_40:8esto es, Ismael h...y Jonatán h de CareaH1121
+- Jer_40:8Seraías h de Tanhumet, los h de EfaiH1121
+- Jer_40:8Jezanías h de un maacateo, ellos y susH1121
+- Jer_40:9juró Gedalías h de Ahicam, h de SafánH1121
+- Jer_40:11sobre ellos a Gedalías h de Ahicam, hH1121
+- Jer_40:11todos los judíos...entre los h de AmónH1121
+- Jer_40:13Johanán h de Carea y...los príncipes deH1121
+- Jer_40:14¿no sabes que Baalis rey de los h deH1121
+- Jer_40:14ha enviado a Ismael h...para matarte?[[H1121]]
+- Jer_40:14mas Gedalías h de Ahicam no les creyóH1121
+- Jer_40:15Johanán h de Carea habló a Gedalías enH1121
+- Jer_40:15yo iré...mataré a Ismael h de NetaníasH1121
+- Jer_40:16Gedalías h de Ahicam dijo a Johanán hH1121
+- Jer_41:1vino Ismael h de Netanías, h de ElisamaH1121
+- Jer_41:1vino...a Gedalías h de Ahicam en MizpaH1121
+- Jer_41:2levantó Ismael h de Netanías y los diezH1121
+- Jer_41:2e hirieron...a Gedalías h de Ahicam, h deH1121
+- Jer_41:6les salió al encuentro...Ismael el h deH1121
+- Jer_41:6les dijo: Venid a Gedalías h de AhicamH1121
+- Jer_41:7Ismael h de Netanías los degolló, y losH1121
+- Jer_41:9cisterna...Ismael h...la llenó de muertosH1121
+- Jer_41:10encargado Nabuzaradán...a Gedalías h deH1121
+- Jer_41:10y se fue para pasarse a los h de AmónH1121
+- Jer_41:11oyeron Johanán h de Carea y todos losH1121
+- Jer_41:11todo el mal que había hecho Ismael h deH1121
+- Jer_41:12a pelear contra Ismael h de NetaníasH1121
+- Jer_41:13el pueblo...vio a Johanán h de Carea y aH1121
+- Jer_41:14el pueblo...fue con Johanán h de CareaH1121
+- Jer_41:15pero Ismael h de...fue a los h de AmónH1121
+- Jer_41:16Johanán h...y todos los capitanes de laH1121
+- Jer_41:16pueblo que había recobrado de Ismael hH1121
+- Jer_41:16de Mizpa después que mató a Gedalías hH1121
+- Jer_41:18dado muerte Ismael h...a Gedalías h deH1121
+- Jer_42:1vinieron...Johanán h de...Jezanías h deH1121
+- Jer_42:8llamó a Johanán h de Carea y a todos losH1121
+- Jer_43:2dijo Azarías h de Osaías y Johanán h deH1121
+- Jer_43:3que Baruc h de Nerías te incita contraH1121
+- Jer_43:4no obedeció, pues, Johanán h de CareaH1121
+- Jer_43:5tomó Johanán h de Carea y...los oficialesH1121
+- Jer_43:6con Gedalías h de Ahicam, h de SafánH1121
+- Jer_43:6y al profeta Jeremías y a Baruc h deH1121
+- Jer_45:1que habló...Jeremías a Baruc h de NeríasH1121
+- Jer_45:1; 46:2año cuarto de Joacim h de JosíasH1121
+- Jer_47:3los padres no cuidaron a los h por laH1121
+- Jer_48:45quemó...coronilla de los h revoltososH1121
+- Jer_48:46h fueron puestos presos para cautividadH1121
+- Jer_49:1de los h de Amón...¿No tiene h Israel?[[H1121]]
+- Jer_49:2oír clamor de guerra en Rabá de los h deH1121
+- Jer_49:6volver a los cautivos de los h de AmónH1121
+- Jer_49:18,33no morará...la habitará h de hombreH1121
+- Jer_49:28subid...y destruid a los h del orienteH1121
+- Jer_50:4vendrán los h de Israel...los h de JudáH1121
+- Jer_50:33oprimidos...h de Israel y los h de JudáH1121
+- Jer_51:43nadie, ni pasará por ella h de hombreH1121
+- Jer_51:59a Seraías h de Nerías, h de MaasíasH1121
+- Jer_52:10degolló...a los h de Sedequías delanteH1121
+- Lam_1:5sus h fueron en cautividad delante delH5768
+- Lam_1:16mis h son destruidos, porque el enemigoH1121
+- Lam_3:33ni entristece...a los h de los hombresH1121
+- Lam_4:2h de Sion, preciados y estimados más queH1121
+- Lam_4:10cocieron a sus h; sus propios h...comidaH3206
+- Eze_1:3al sacerdote Ezequiel h de Buzi, en laH1121
+- Eze_2:1dijo: H de hombre, ponte sobre tus piesH1121
+- Eze_2:3dijo: H de hombre, yo te envío a los hH1121
+- Eze_2:4te envío a h de duro rostro y...corazónH1121
+- Eze_2:6tú, h de hombre, no les temas, ni tengasH1121
+- Eze_2:8tú, h de hombre, oye lo que yo te habloH1121
+- Eze_3:1me dijo: H de hombre, come lo que hallasH1121
+- Eze_3:3dijo: H de hombre, alimenta tu vientreH1121
+- Eze_3:4dijo: H de hombre, vé y entra a la casaH1121
+- Eze_3:10dijo: H de hombre, toma en tu corazónH1121
+- Eze_3:11entra...a los h de tu pueblo, y háblalesH1121
+- Eze_3:17h de hombre, yo te he puesto...atalayaH1121
+- Eze_3:25h de hombre...pondrán sobre ti cuerdasH1121
+- Eze_4:1tú, h de hombre, tómate un adobe, y ponloH1121
+- Eze_4:13comerán los h de Israel su pan inmundoH1121
+- Eze_4:16h de hombre...quebrantaré el sustento delH1121
+- Eze_5:1h de hombre, tómate un cuchillo agudoH1121
+- Eze_5:10los padres comerán a los h...h comerán aH1121
+- Eze_6:2h de hombre, pon tu rostro hacia losH1121
+- Eze_6:5los cuerpos muertos de los h de IsraelH1121
+- Eze_7:2tú, h de hombre, así ha dicho Jehová elH1121
+- Eze_8:5h de hombre, alza ahora tus ojos hacia elH1121
+- Eze_8:6h de hombre, ¿no ves lo que éstos hacenH1121
+- Eze_8:8dijo: H de hombre, cava ahora en la paredH1121
+- Eze_8:11y Jaazanías h de Safán en medio de ellosH1121
+- Eze_8:12h de hombre, ¿has visto las cosas queH1121
+- Eze_8:15¿no ves, h de hombre? Vuélvete...verásH1121
+- Eze_8:17¿no has visto, h de hombre? ¿Es cosaH1121
+- Eze_11:1vi a Jaazanías h de Azur y a Pelatías hH1121
+- Eze_11:2h de hombre, estos son los hombres queH1121
+- Eze_11:4profetiza contra ellos; profetiza, h deH1121
+- Eze_11:13Pelatías h de Benaía murió. EntoncesH1121
+- Eze_11:15h de hombre...dijeron los moradores deH1121
+- Eze_12:2h de hombre, tú habitas en medio de casaH1121
+- Eze_12:3tú, h de hombre, prepárate enseres deH1121
+- Eze_12:9h de hombre, ¿no te ha dicho la casa deH1121
+- Eze_12:18h de hombre, come tu pan con temblorH1121
+- Eze_12:22h de hombre, ¿qué refrán es este queH1121
+- Eze_12:27h de hombre...la casa de Israel dicenH1121
+- Eze_13:2h de hombre, profetiza contra...profetasH1121
+- Eze_13:17h de hombre...tu rostro contra las hijasH1121
+- Eze_14:3h de hombre...han puesto sus ídolos en suH1121
+- Eze_14:13h de hombre, cuando la tierra pecareH1121
+- Eze_14:16,18,20ni a sus h ni a sus...libraríanH1121
+- Eze_14:22quedará en ella un remanente, h e hijasH1121
+- Eze_15:2h de hombre, ¿qué es la madera de la vidH1121
+- Eze_16:2h de hombre, notifica a Jerusalén susH1121
+- Eze_16:20tus h y tus hijas...sacrificaste a ellasH1121
+- Eze_16:21para que degollases también a mis h yH1121
+- Eze_16:26y fornicaste con los h de Egipto, tusH1121
+- Eze_16:36en la sangre de tus h, los cuales lesH1121
+- Eze_16:45tu madre...desechó a su marido y a sus hH1121
+- Eze_16:45que desecharon a sus maridos y a sus hH1121
+- Eze_17:2h de hombre, propón una figura, y compónH1121
+- Eze_18:2los dientes de los h tienen la dentera?[[H1121]]
+- Eze_18:4como el alma del padre...el alma del hH1121
+- Eze_18:10si engendrare h ladrón, derramador deH1121
+- Eze_18:14éste engendrare h, el cual viere todosH1121
+- Eze_18:19¿por qué el h no llevará el pecado deH1121
+- Eze_18:19h hizo según el derecho y la justiciaH1121
+- Eze_18:20el h no llevará el pecado del padre, niH1121
+- Eze_18:20ni el padre llevará el pecado del hH1121
+- Eze_20:3h de hombre, habla a los ancianos deH1121
+- Eze_20:4¿los quieres juzgar tú, h de hombre?[[H1121]]
+- Eze_20:18a sus h: No andéis en los estatutos deH1121
+- Eze_20:21mas los h se rebelaron contra mí; noH1121
+- Eze_20:27h de hombre, habla a la casa de IsraelH1121
+- Eze_20:31haciendo pasar vuestros h por el fuegoH1121
+- Eze_20:46h de hombre, pon tu rostro hacia el surH1121
+- Eze_21:2h de hombre, pon tu rostro...JerusalénH1121
+- Eze_21:6h de hombre, gime con quebrantamientoH1121
+- Eze_21:9h de hombre, profetiza, y di: Así haH1121
+- Eze_21:10al cetro de mi h ha despreciado comoH1121
+- Eze_21:12clama...h de hombre; porque ésta seráH1121
+- Eze_21:14pues, h de hombre, profetiza, y bateH1121
+- Eze_21:19tú, h de hombre, traza dos caminos porH1121
+- Eze_21:20venga la espada a Rabá de los h de AmónH1121
+- Eze_21:28tú, h de hombre, profetiza, y dí: AsíH1121
+- Eze_21:28así ha dicho...acerca de los h de AmónH1121
+- Eze_22:2h de hombre, ¿no juzgarás...a la ciudadH1121
+- Eze_22:18h de hombre, la casa de Israel se meH1121
+- Eze_22:24h de hombre, dí...no eres tierra limpiaH1121
+- Eze_23:2h de hombre, hubo dos mujeres, hijas deH1121
+- Eze_23:4y dieron a luz h e hijas. Y se llamaronH1121
+- Eze_23:7más escogidos de los h de los asiriosH1121
+- Eze_23:9entregué en mano de...h de los asiriosH1121
+- Eze_23:10tomaron sus h y sus hijas, y a ellaH1121
+- Eze_23:12se enamoró de los h de los asirios susH1121
+- Eze_23:25ellos tomarán a tus h y a tus hijasH1121
+- Eze_23:36h de hombre, ¿no juzgarás tú a Ahola yH1121
+- Eze_23:37a sus h que habían dado a luz para míH1121
+- Eze_23:39habiendo sacrificado sus h a sus ídolosH1121
+- Eze_23:47matarán a sus h y a sus hijas, y susH1121
+- Eze_24:2h de hombre, escribe la fecha de esteH1121
+- Eze_24:16h de hombre, he aquí que yo te quitoH1121
+- Eze_24:21vuestros h y...hijas...caerán a espadaH1121
+- Eze_24:25h de hombre, el día que yo arrebate aH1121
+- Eze_24:25yo arrebate...también sus h y sus hijasH1121
+- Eze_25:2h de...pon tu rostro hacia los h de AmónH1121
+- Eze_25:3dirás a los h de Amón: Oíd palabra deH1121
+- Eze_25:5a los h de Amón por majada de ovejasH1121
+- Eze_25:10a los h del oriente contra los h deH1121
+- Eze_25:10no haya más memoria de los h de AmónH1121
+- Eze_26:2h de hombre, por cuanto dijo Tiro contraH1121
+- Eze_27:2h de hombre, levanta endecha sobre TiroH1121
+- Eze_27:11los h de Arvad...estuvieron sobre tusH1121
+- Eze_27:15h de Dedán traficaban contigo; muchasH1121
+- Eze_28:2h de hombre, dí al príncipe de Tiro: AsíH1121
+- Eze_28:12h de hombre, levanta endechas sobre elH1121
+- Eze_28:21h de hombre, pon tu rostro hacia SidónH1121
+- Eze_29:2h de hombre...tu rostro contra FaraónH1121
+- Eze_29:18h de hombre, Nabucodonosor rey...hizoH1121
+- Eze_30:2h de hombre, profetiza, y di: Así haH1121
+- Eze_30:5y los h de las tierras aliadas, caeránH1121
+- Eze_30:21h de hombre, he quebrado el brazo deH1121
+- Eze_31:2h de hombre, di a Faraón rey de EgiptoH1121
+- Eze_31:14entre los h de los hombres, con losH1121
+- Eze_32:2h de hombre, levanta endechas...FaraónH1121
+- Eze_32:18h de hombre, endecha sobre...de EgiptoH1121
+- Eze_33:2h de hombre, habla a los h de tu puebloH1121
+- Eze_33:7h de hombre, te he puesto por atalayaH1121
+- Eze_33:10h de hombre, dí a la casa de IsraelH1121
+- Eze_33:12h de hombre, di a los h de tu puebloH1121
+- Eze_33:17dirán los h de tu pueblo: No es rectoH1121
+- Eze_33:24h de hombre, los que habitan aquellosH1121
+- Eze_33:30y tú, h de hombre, los h de tu puebloH1121
+- Eze_34:2h de hombre, profetiza contra...pastoresH1121
+- Eze_35:2h de hombre, pon tu rostro hacia...SeirH1121
+- Eze_35:5entregaste a los h de Israel al poder deH1121
+- Eze_36:1h de hombre, profetiza a los montes deH1121
+- Eze_36:12y haré...y nunca más les matarás los hH7921
+- Eze_36:13y matadora de los h de tu nación hasH7921
+- Eze_36:14nunca más matarás a los h de tu naciónH3782
+- Eze_36:15ni harás...morir a los h de tu naciónH3782
+- Eze_36:17h de hombre, mientras la casa de IsraelH1121
+- Eze_37:3h de hombre, ¿vivirán estos huesos?[[H1121]]
+- Eze_37:9profetiza, h de hombre, y di al espírituH1121
+- Eze_37:11h de hombre, todos estos huesos son laH1121
+- Eze_37:16h de hombre, toma...un palo, y escribeH1121
+- Eze_37:16escribe en él: Para Judá...h de IsraelH1121
+- Eze_37:18cuando te pregunten los h de tu puebloH1121
+- Eze_37:21yo tomo a los h de Israel de entre lasH1121
+- Eze_37:25sus h y los h de sus h para siempreH1121
+- Eze_38:2h de hombre, pon tu rostro contra GogH1121
+- Eze_38:14profetiza, h de hombre, y di a Gog: AsíH1121
+- Eze_39:1tú...h de hombre, profetiza contra GogH1121
+- Eze_39:17tú, h de hombre, así ha dicho JehováH1121
+- Eze_40:4h de hombre, mira con tus ojos, y oyeH1121
+- Eze_40:46estos son los h de Sadoc, los cualesH1121
+- Eze_40:46cuales son llamados de los h de LevíH1121
+- Eze_43:7dijo: H de hombre, este es el lugar deH1121
+- Eze_43:7el cual habitaré entre los h de IsraelH1121
+- Eze_43:10tú, h de hombre, muestra a la casa deH1121
+- Eze_43:18h de hombre, así ha dicho Jehová elH1121
+- Eze_44:5h de hombre, pon atención, y mira conH1121
+- Eze_44:9ningún h de extranjero, incircunciso deH1121
+- Eze_44:9h de extranjeros que están entre los h deH1121
+- Eze_44:15mas los sacerdotes levitas h de SadocH1121
+- Eze_44:15cuando los h de Israel se apartaron deH1121
+- Eze_44:25pero por...h o hija...podrán contaminarseH1121
+- Eze_46:16el...diere, parte de su heredad a sus hH1121
+- Eze_46:17de él...mas su herencia será de sus hH1121
+- Eze_46:18lo que él posee dará herencia a sus hH1121
+- Eze_47:6y me dijo: ¿Has visto, h de hombre?[[H1121]]
+- Eze_47:22que entre vosotros han engendrado hH1121
+- Eze_47:22como naturales entre los h de IsraelH1121
+- Eze_48:11los sacerdotes...de los h de Sadoc queH1121
+- Eze_48:11cuando erraron los h de Israel, comoH1121
+- Dan_1:3trajese de los h de Israel, del linajeH1121
+- Dan_1:6entre éstos estaban...de los h de JudáH1121
+- Dan_2:38dondequiera que habitan h de hombresH1123
+- Dan_3:25cuarto es semejante a h de los diosesH1247
+- Dan_5:13¿eres tú aquel Daniel de los h de laH1123
+- Dan_5:21fue echado de entre los h de los hombresH1123
+- Dan_5:22y tú, su h Belsasar, no has humilladoH1247
+- Dan_6:13Daniel, que es de los h de los cautivosH1123
+- Dan_6:24echados en el foso...ellos, sus h y susH1123
+- Dan_7:13venía uno como un h de hombre, que vinoH1247
+- Dan_8:17dijo: Entiende, h de hombre, porque laH1121
+- Dan_9:1en el año primero de Darío h de AsueroH1121
+- Dan_10:16uno con semejanza de h de hombre tocóH1121
+- Dan_11:6su h, y los que estaban de parte de ellaH3206
+- Dan_11:10los h de aquél se airarán, y reuniránH1121
+- Dan_11:41escaparán...la mayoría de los h de AmónH1121
+- Dan_12:1que está de parte de los h de tu puebloH1121
+- Ose_1:1palabra de Jehová...a Oseas h de BeeriH1121
+- Ose_1:1y en días de Jeroboam h de Joás, rey deH1121
+- Ose_1:2vé, tómate una mujer...e h de fornicaciónH3206
+- Ose_1:3Gomer hija...concibió y le dio a luz un hH1121
+- Ose_1:8después de...concibió y dio a luz un hH1121
+- Ose_1:10será el número de los h de Israel comoH1121
+- Ose_1:10les será dicho: Sois h del Dios vivienteH1121
+- Ose_1:11se congregarán los h de Judá y de IsraelH1121
+- Ose_2:4de sus h, porque son h de prostituciónH1121
+- Ose_3:1amor de Jehová para con los h de IsraelH1121
+- Ose_3:4porque...estarán los h de Israel sin reyH1121
+- Ose_3:5volverán los h de Israel, y buscarán aH1121
+- Ose_4:1oíd palabra de Jehová, h de Israel, porqueH1121
+- Ose_4:6olvidaste la ley...yo me olvidaré de tus hH1121
+- Ose_5:7han engendrado h extraños; ahora en unH1121
+- Ose_9:12si llegaren a grandes sus h, les quitaréH1121
+- Ose_9:13pero Efraín sacará sus h a la matanzaH1121
+- Ose_10:14cuando la madre fue destrozada con...hH1121
+- Ose_11:1yo lo amé, y de Egipto llamé a mi hH1121
+- Ose_11:10rugirá, y los h vendrán temblando desdeH1121
+- Ose_13:8como osa que ha perdido...h los encontraréH7921
+- Ose_13:13dolores...le vendrán; es un h no sabioH1121
+- Joe_1:1palabra de Jehová...a Joel h de PetuelH1121
+- Joe_1:3contaréis a...h, y vuestros h a sus hH1121
+- Joe_1:3contaréis...y sus h a la otra generaciónH1121
+- Joe_1:12por lo cual se extinguió el gozo de los hH1121
+- Joe_2:23vosotros también, h de Sion, alegraosH1121
+- Joe_2:28y profetizarán vuestros h y vuestrasH1121
+- Joe_3:6y vendisteis los h de Judá y los h deH1121
+- Joe_3:6vendisteis los...a los h de los griegosH1121
+- Joe_3:8venderé...h y vuestras hijas a los h deH1121
+- Joe_3:16será...la fortaleza de los h de IsraelH1121
+- Joe_3:19por la injuria hecha a los h de JudáH1121
+- Amó_1:1en días de Jeroboam h de Joás, rey deH1121
+- Amó_1:13por tres pecados de los h de Amón, y porH1121
+- Amó_2:7h y su padre se llegan a la misma jovenH376
+- Amó_2:11y levanté de vuestros h para profetasH1121
+- Amó_2:11es esto así, dice Jehová, h de Israel?[[H1121]]
+- Amó_3:1ha hablado Jehová contra...h de IsraelH1121
+- Amó_3:12escaparán los h de Israel que moran enH1121
+- Amó_4:5así lo queréis, h de Israel, dice JehováH1121
+- Amó_7:14ni soy h de profeta, sino...soy boyeroH1121
+- Amó_7:17tus h y tus hijas caerán a espada, y tuH1121
+- Amó_9:7h de Israel, ¿no me sois...h de etíopesH1121
+- Abd_1:12no...haberte alegrado de los h de JudáH1121
+- Abd_1:20los cautivos...de los h de Israel poseeránH1121
+- Jon_1:1palabra de Jehová a Jonás h de AmitaiH1121
+- Miq_1:16trasquílate por los h de tus deliciasH1121
+- Miq_5:3el resto...se volverá con los h de IsraelH1121
+- Miq_5:7las lluvias...ni aguardan a h de hombresH1121
+- Miq_6:5qué le respondió Balaam h de Beor, desdeH1121
+- Miq_7:6h deshonra al padre, la hija se levantaH1121
+- Sof_1:1palabra...que vino a Sofonías h de CusiH1121
+- Sof_1:1Cusi, h de Gedalías, h de Amarías, h deH1121
+- Sof_1:1en días de Josías h de Amón, rey de JudáH1121
+- Sof_1:8castigaré...a los h del rey, y a todos losH1121
+- Sof_2:8los denuestos de los h de Amón con queH1121
+- Sof_2:9Sodoma, y los h de Amón como GomorraH1121
+- Hag 1:1palabra de...a Zorobabel h de SalatielH1121
+- Hag 1:1,14Josué h de Josadac, sumo sacerdoteH1121
+- Hag 1:12oyó Zorobabel h de Salatiel, y Josué hH1121
+- Hag 1:14despertó...el espíritu de Zorobabel h deH1121
+- Hag 2:2habla ahora a Zorobabel h de SalatielH1121
+- Hag 2:2y a Josué h de Josadac, sumo sacerdoteH1121
+- Hag 2:4esfuérzate también, Josué h de JosadacH1121
+- Hag 2:23te tomaré, oh Zorobabel h de SalatielH1121
+- Zac_1:1,7Zacarías h de Berequías, h de IddoH1121
+- Zac_6:10irás...y entrarás en casa de Josías h deH1121
+- Zac_6:11en la cabeza del sumo sacerdote Josué hH1121
+- Zac_6:14coronas servirán...a Hen h de SofoníasH1121
+- Zac_9:9cabalgando...sobre un pollino h de asnaH1121
+- Zac_9:13tus h, oh Sion, contra tus h, oh GreciaH1121
+- Zac_10:7sus h también verán, y se alegrarán; suH1121
+- Zac_10:9de mí; y vivirán con sus h, y volveránH1121
+- Zac_12:10llorarán como se llora por h unigénitoH1121
+- Mal_1:6el h honra al padre, y el siervo a suH1121
+- Mal_3:3limpiará a los h de Leví, los afinaráH1121
+- Mal_3:6h de Jacob, no habéis sido consumidosH1121
+- Mal_3:17como el hombre que perdona a su h queH1121
+- Mal_4:6hará volver el corazón de...hacia los hH1121
+- Mal_4:6y el corazón de los h hacia los padresH1121
+- Mat_1:1Jesucristo, h de David, h de AbrahamG5207
+- Mat_1:20h de David, no temas recibir a María tuG5207
+- Mat_1:21dará a luz un h, y llamarás su nombreG5207
+- Mat_1:23una virgen concebirá y dará a luz un hG5207
+- Mat_1:25hasta que dio a luz a su h primogénitoG5207
+- Mat_2:15cuando dijo: De Egipto llamé a mi HG5207
+- Mat_2:18Raquel que llora a sus h, y no quiso serG5043
+- Mat_3:9Dios puede levantar h a Abraham aun deG5043
+- Mat_3:17que decía: Este es mi H amado, en quienG5207
+- Mat_4:3si eres H de Dios, di que estas piedrasG5207
+- Mat_4:6si eres H de Dios, échate abajo; porqueG5207
+- Mat_4:21vio a...Jacobo h de Zebedeo, y Juan suG5207
+- Mat_5:9porque ellos serán llamados h de DiosG5207
+- Mat_5:45para que seáis h de vuestro Padre queG5207
+- Mat_7:9si su h le pide pan, le dará una piedra?[[G5207]]
+- Mat_7:11sabéis dar buenas dádivas a vuestros hG5043
+- Mat_8:12mas los h del reino serán echados a losG5207
+- Mat_8:20el H de Hombre no tiene donde recostarG5207
+- Mat_8:29tienes con nosotros, Jesús H de Dios?[[G5207]]
+- Mat_9:2dijo al...Ten ánimo, h; tus pecados te sonG5043
+- Mat_9:6para que sepáis que el H del Hombre tieneG5207
+- Mat_9:27misericordia de nosotros, H de David![[G5207]]
+- Mat_10:2Jacobo h de Zebedeo, y Juan su hermanoG5207
+- Mat_10:3Mateo el publicano, Jacobo h de AlfeoG5207
+- Mat_10:21entregará a la muerte...el padre al hG5043
+- Mat_10:21los h se levantarán contra los padresG5043
+- Mat_10:23no acabaréis de...antes que venga el HG5207
+- Mat_10:37el que ama a h o hija más que a mí, noG5207
+- Mat_11:19vino el H del Hombre, que come y bebeG5207
+- Mat_11:19la sabiduría es justificada por sus hG5043
+- Mat_11:27nadie conoce al H, sino el Padre, niG5207
+- Mat_11:27el H, y aquel a quien el H lo quieraG5207
+- Mat_12:8H del Hombre es Señor del día de reposoG5207
+- Mat_12:23y decía: ¿Será éste aquel H de David?[[G5207]]
+- Mat_12:27los demonios...por quien los echan...h?[[G5207]]
+- Mat_12:32dijere alguna palabra contra el H delG5207
+- Mat_12:40estará el H...en el corazón de la tierraG5207
+- Mat_13:37el que siembra la buena semilla es el HG5207
+- Mat_13:38la buena semilla son los h del reinoG5207
+- Mat_13:38reino, y la cizaña son los h del maloG5207
+- Mat_13:41enviará el H del Hombre a sus ángelesG5207
+- Mat_13:55¿no es éste el h del carpintero? ¿No seG5207
+- Mat_14:33diciendo: Verdaderamente eres H de DiosG5207
+- Mat_15:22¡Señor, H de David, ten misericordiaG5207
+- Mat_15:26no está bien tomar el pan de los h, yG5043
+- Mat_16:13¿quién dicen...que es el H del Hombre?[[G5207]]
+- Mat_16:16eres el Cristo, el H del Dios vivienteG5207
+- Mat_16:17bienaventurado eres, Simón, h de JonásG920
+- Mat_16:27el H del Hombre vendrá en la gloria deG5207
+- Mat_16:28hasta que hayan visto al H del HombreG5207
+- Mat_17:5que decía: Este es mi H amado, en quienG5207
+- Mat_17:9hasta que el H del Hombre resucite deG5207
+- Mat_17:12así también el H del Hombre padecerá deG5207
+- Mat_17:15misericordia de mi h, que es lunáticoG5207
+- Mat_17:22dijo: El H del Hombre será entregadoG5207
+- Mat_17:25cobran...de sus h, o de los extraños?[[G5207]]
+- Mat_17:26le dijo: Luego los h están exentosG5207
+- Mat_18:11el H del Hombre ha venido para salvarG5207
+- Mat_18:25ordenó su...venderle, y a su mujer e hG5043
+- Mat_19:28cuando el H del Hombre se siente en elG5207
+- Mat_19:29dejado...h, o tierras, por mi nombreG5043
+- Mat_20:18y el H del Hombre será entregado a losG5207
+- Mat_20:20la madre de los h de Zebedeo con sus hG5207
+- Mat_20:21se sienten estos dos h míos, el uno aG5207
+- Mat_20:28H del Hombre no vino para ser servidoG5207
+- Mat_20:30,31H de David, ten misericordia deG5207
+- Mat_21:5sobre un pollino, h de animal de cargaG5207
+- Mat_21:9,15diciendo: ¡Hosanna al H de David![[G5207]]
+- Mat_21:28tenía dos h, y acercándose al primeroG5043
+- Mat_21:28dijo: H, vé hoy a trabajar en mi viñaG5043
+- Mat_21:37les envió su h...Tendrán respeto a mi hG5207
+- Mat_21:38cuando vieron al h, dijeron entre síG5207
+- Mat_22:2un rey que hizo fiesta de bodas a su hG5207
+- Mat_22:24si alguno muriere sin h, su hermano seG5043
+- Mat_22:42¿de quién es h? Le dijeron: De DavidG5207
+- Mat_22:45si David le llama Señor, ¿cómo es su h?[[G5207]]
+- Mat_23:15le hacéis dos veces más h del infiernoG5207
+- Mat_23:31dais testimonio...que sois h de aquellosG5207
+- Mat_23:35la sangre de Zacarías h de BerequíasG5207
+- Mat_23:37¡cuántas veces quise juntar a tus hG5043
+- Mat_24:27,37,39será la venida del H del HombreG5207
+- Mat_24:30aparecerá la señal del H del Hombre enG5207
+- Mat_24:30verán al H del Hombre viniendo sobreG5207
+- Mat_24:44el H del Hombre vendrá a la hora queG5207
+- Mat_25:13ni la hora en que el H del hombre ha deG5207
+- Mat_25:31cuando el H del Hombre venga en suG5207
+- Mat_26:2el H del Hombre será entregado para serG5207
+- Mat_26:24el H del Hombre va, según está escritoG5207
+- Mat_26:24¡ay de aquel hombre por quien el H delG5207
+- Mat_26:37tomando a Pedro, y...dos h de ZebedeoG5207
+- Mat_26:45el H del Hombre es entregado en manosG5207
+- Mat_26:63si eres tú el Cristo, el H de DiosG5207
+- Mat_26:64que desde ahora veréis al H del HombreG5207
+- Mat_27:9según precio puesto por los h de IsraelG5207
+- Mat_27:25sangre sea sobre...y sobre nuestros hG5043
+- Mat_27:40eres H de Dios, desciende de la cruzG5207
+- Mat_27:43líbrele ahora...ha dicho: Soy H de DiosG5207
+- Mat_27:54verdaderamente éste era H de DiosG5207
+- Mat_27:56estaban...la madre de los h de ZebedeoG5207
+- Mat_28:19en el nombre del Padre, y del H, y delG5207
+- Mar_1:1del evangelio de Jesucristo, H de DiosG5207
+- Mar_1:11decía: Tú eres mi H amado; en ti tengoG5207
+- Mar_1:19vio a Jacobo h de Zebedeo, y a Juan suG5207
+- Mar_2:5dijo...H, tus pecados te son perdonadosG5043
+- Mar_2:10que sepáis que el H del Hombre tieneG5207
+- Mar_2:14a Leví h de Alfeo, sentado al banco de
+- Mar_2:28el H del Hombre es Señor aun del día deG5207
+- Mar_3:11voces, diciendo: Tú eres el H de DiosG5207
+- Mar_3:17a Jacobo h de Zebedeo, y a Juan hermano
+- Mar_3:17apellidó Boanerges, esto es, H...truenoG5207
+- Mar_3:18Tomás, Jacobo h de Alfeo, Tadeo, Simón
+- Mar_3:28serán perdonados a los h de los hombresG5207
+- Mar_5:7¿qué tienes conmigo, Jesús, H del DiosG5207
+- Mar_6:3¿no es éste el carpintero, h de MaríaG5207
+- Mar_7:27dijo: Deja primero que se sacien los hG5043
+- Mar_7:27no está bien tomar el pan de los h yG5043
+- Mar_7:28perrillos...comen de las migajas de los hG3813
+- Mar_8:31le era necesario al H del Hombre padecerG5207
+- Mar_8:38el H del Hombre se avergonzará...de élG5207
+- Mar_9:7que decía: Este es mi H amado; a él oídG5207
+- Mar_9:9que a nadie...sino cuando el H del HombreG5207
+- Mar_9:12¿y cómo está escrito del H del HombreG5207
+- Mar_9:17traje a ti mi h, que tiene un espírituG5207
+- Mar_9:31el H del Hombre será entregado en manosG5207
+- Mar_10:24h, ¡cuán difícil les es entrar en elG5043
+- Mar_10:29dejado...h, o tierras, por causa de míG5043
+- Mar_10:30h, y tierras, con persecuciones; y enG5043
+- Mar_10:33y el H del Hombre será entregado a losG5207
+- Mar_10:35entonces Jacobo y Juan, h de ZebedeoG5207
+- Mar_10:45H del Hombre no vino para ser servidoG5207
+- Mar_10:46Bartimeo, el ciego, h de Timeo, estabaG5207
+- Mar_10:47,48H de David, ten misericordia de mí![[G5207]]
+- Mar_12:6h suyo, amado...Tendrán respeto a mi hG5207
+- Mar_12:19y dejare esposa, pero no dejare h, queG5043
+- Mar_12:35¿cómo dicen...el Cristo es h de David?[[G5207]]
+- Mar_12:37le llama Señor; ¿cómo, pues, es su h?[[G5207]]
+- Mar_13:12y el padre al h; y se levantarán los hG5043
+- Mar_13:26verán al H del Hombre que vendrá en lasG5207
+- Mar_13:32nadie sabe, ni...ni el H, sino el PadreG5207
+- Mar_14:21el H del Hombre va, según está escritoG5207
+- Mar_14:21por quien el H del Hombre es entregadoG5207
+- Mar_14:41el H del Hombre es entregado en manosG5207
+- Mar_14:61¿eres tú el Cristo, el H del Bendito?[[G5207]]
+- Mar_14:62y veréis al H del Hombre sentado a laG5207
+- Mar_15:39centurión...este hombre era H de DiosG5207
+- Luc_1:7pero no tenían h, porque Elisabet eraG5043
+- Luc_1:13y tu mujer Elisabet te dará a luz un hG5207
+- Luc_1:16hará que muchos de los h de Israel seG5207
+- Luc_1:17los corazones de los padres a los h, yG5043
+- Luc_1:31darás a luz un h, y llamarás su nombreG5207
+- Luc_1:32grande, y será llamando H del AltísimoG5207
+- Luc_1:35el Santo Ser que...será llamado H de DiosG5207
+- Luc_1:36Elisabet...ha concebido h en su vejezG5207
+- Luc_1:57se le cumplió el tiempo...dio a luz un hG5207
+- Luc_2:7dio a luz a su h primogénito...envolvióG5207
+- Luc_2:48madre: H, ¿por que nos has hecho así?[[G5043]]
+- Luc_3:2palabra de Dios a Juan, h de Zacarías, enG5207
+- Luc_3:8Dios puede levantar h...de estas piedrasG5043
+- Luc_3:22mi H amado; en ti tengo complacenciaG5207
+- Luc_3:23h, según se creía, de José, h de ElíG5207
+- Luc_3:24h de Matat, h de Leví, h de Melqui
+- Luc_3:24Leví...de Melqui, h de Jana, h de José
+- Luc_3:25h de Matatías, h de Amós, h de Nahum
+- Luc_3:25de Matatías...h de Esli, h de Nagai
+- Luc_3:26h de Maat, h de Matatías, h de Semei
+- Luc_3:26Maat...de Semei, h de José, h de Judá
+- Luc_3:27h de Joana, h de Resa, h de Zorobabel
+- Luc_3:27de Zorobabel, h de Salatiel, h de Neri
+- Luc_3:28h de Melqui, h de Adi, h de Cosam...Er
+- Luc_3:28Adi...de Cosam, h de Elmodam, h de Er
+- Luc_3:29h de Josué, h de Eliezer, h de Jorim
+- Luc_3:29Josué...Eliezer...de Jorim, h de Matat
+- Luc_3:30h de leví, h de Simeón, h de Judá...José
+- Luc_3:30h de José, h de Jonán, h de Eliaquim
+- Luc_3:31h de Metes, h de Mainán, h...h de Natán
+- Luc_3:32h de David, h de Isaí, h de Obed...Booz
+- Luc_3:32h de Booz, h de Salmón, h de Naasón
+- Luc_3:33h de Aminadab, h de Aram, h de Esrom
+- Luc_3:33Aram...de Esrom, h de Fares, h de Judá
+- Luc_3:34h de Jacob, h de Isaac, h de Abraham
+- Luc_3:34de Abraham, h de Taré, h de Nacor
+- Luc_3:35h de Serug, h de Ragau, h de Peleg
+- Luc_3:35de Peleg, h de Heber, h de Sala
+- Luc_3:36h de Cainán, h de Arfaxad, h de Sem
+- Luc_3:36Arfaxad...de Sem, h de Noé, h de Lamec
+- Luc_3:37h de Matusalén, h de Enoc, h de Jared
+- Luc_3:37de Jared, h de Mahalaleel, h de Cainán
+- Luc_3:38h de Enós, h de Set, h de Adán, h de
+- Luc_4:3si eres H de Dios, dí a estas piedras queG5207
+- Luc_4:9si eres H de Dios, échate de aquí abajoG5207
+- Luc_4:22y decían: ¿No es éste el h de José?[[G5207]]
+- Luc_4:41voces y diciendo: Tú eres el H de DiosG5207
+- Luc_5:10Jacobo y Juan, h de Zebedeo, que eranG5207
+- Luc_5:24que sepáis que el H del Hombre tieneG5207
+- Luc_6:5el H del Hombre es Señor aun del día deG5207
+- Luc_6:15Mateo, Tomás, Jacobo h de Alfeo, Simón
+- Luc_6:22y desechen...por causa del H del HombreG5207
+- Luc_6:35y seréis h del Altísimo; porque él esG5207
+- Luc_7:12h único de su madre, la cual era viudaG5207
+- Luc_7:34vino el H del Hombre, que come y bebeG5207
+- Luc_7:35la sabiduría es justificada por...sus hG5043
+- Luc_8:28¿que tienes conmigo, Jesús, H del DiosG5207
+- Luc_9:22es necesario que el H del Hombre padezcaG5207
+- Luc_9:26de éste se avergonzará el H del HombreG5207
+- Luc_9:35que decía: Este es mi H amado; a él oídG5207
+- Luc_9:38ruego que veas a mi h, pues es el únicoG5207
+- Luc_9:41¿hasta cuándo he de...Trae acá a tu hG5207
+- Luc_9:44el H del Hombre será entregado en manosG5207
+- Luc_9:56el H del Hombre no ha venido para perderG5207
+- Luc_9:58H del Hombre no tiene dónde recostar laG5207
+- Luc_10:6si hubiere allí algún h de paz, vuestraG5207
+- Luc_10:22y nadie conoce quién es el H sino elG5207
+- Luc_10:22Padre; ni quien es el Padre, sino el HG5207
+- Luc_10:22y aquel a quien el H lo quiera revelarG5207
+- Luc_11:11su h le pide pan, le dará una piedraG5207
+- Luc_11:13sabéis dar buenas dádivas a vuestros hG5043
+- Luc_11:19si yo...¿vuestros h por quien los echan?[[G5207]]
+- Luc_11:30será el H del Hombre a esta generaciónG5207
+- Luc_12:8el H del Hombre le confesará delante deG5207
+- Luc_12:10dijere alguna palabra contra el H delG5207
+- Luc_12:40que no penséis, el H del Hombre vendráG5207
+- Luc_12:53el padre contra el h, y el h contra elG5207
+- Luc_13:34quise juntar a tus h, como la gallinaG5043
+- Luc_14:26no aborrece a su...h, y hermanos, y aunG5043
+- Luc_15:11también dijo: Un hombre tenía dos hG5207
+- Luc_15:13juntándolo todo el h menor, se fueG5207
+- Luc_15:19ya no soy digno de ser llamado tu hG5207
+- Luc_15:21el h le dijo: Padre, he pecado contraG5207
+- Luc_15:21ya no soy digno de ser llamado tu hG5207
+- Luc_15:24este mi h muerto era, y ha revividoG5207
+- Luc_15:25h mayor estaba en el campo; y cuandoG5207
+- Luc_15:30vino este tu h, que ha consumido tusG5207
+- Luc_15:31h, tú siempre estás conmigo, y todasG5043
+- Luc_16:8h de...son más sagaces que los h de luzG5207
+- Luc_16:25h, acuerdate que recibiste tus bienesG5043
+- Luc_17:22ver uno de los días del H del HombreG5207
+- Luc_17:24así también será el H del Hombre en suG5207
+- Luc_17:26así...será en los días del H del HombreG5207
+- Luc_17:30en que el H del Hombre se manifiesteG5207
+- Luc_18:8cuando venga el H del Hombre, ¿hallaráG5207
+- Luc_18:29haya dejado...h, por el reino de DiosG5043
+- Luc_18:31las cosas escritas...del H del HombreG5207
+- Luc_18:38,39H de David ten misericordia de míG5207
+- Luc_19:9por cuanto él también es h de AbrahamG5207
+- Luc_19:10el H del Hombre vino a buscar y salvarG5207
+- Luc_19:44y a tus h dentro de ti, y no dejaránG5043
+- Luc_20:13dijo: ¿Qué haré? Enviaré a mi h amadoG5207
+- Luc_20:28muriere teniendo mujer, y no dejare hG815
+- Luc_20:29el primero tomó esposa, y murió sin hG815
+- Luc_20:30el segundo, el cual también murió sin hG815
+- Luc_20:34los h de este siglo se casan, y se danG5207
+- Luc_20:36y son h de Dios...h de la resurrecciónG5207
+- Luc_20:41cómo dicen que el Cristo es h de David?[[G5207]]
+- Luc_20:44le llama Señor; ¿cómo entonces es su h?[[G5207]]
+- Luc_21:27al H del Hombre que vendrá en una nubeG5207
+- Luc_21:36estar en pie delante del H del HombreG5207
+- Luc_22:22a la verdad el H del Hombre va, segúnG5207
+- Luc_22:48¿con un beso entregas al H del Hombre?[[G5207]]
+- Luc_22:69ahora el H del Hombre se sentará a laG5207
+- Luc_22:70¿luego eres tú el H de Dios? Y él lesG5207
+- Luc_23:28llorad por vosotras...y por vuestros hG5043
+- Luc_24:7es necesario que el H del Hombre seaG5207
+- Jua_1:12dio potestad de ser hechos h de DiosG5043
+- Jua_1:18el unigénito H, que está en el seno delG5207
+- Jua_1:34testimonio de que éste es el H de DiosG5207
+- Jua_1:42tú eres Simón, h de Jonás; tu serásG5207
+- Jua_1:45hemos hallado a...a Jesús, el h de JoséG5207
+- Jua_1:49Rabí, tú eres el H de Dios; tú eres elG5207
+- Jua_1:51que suben y descienden sobre el H delG5207
+- Jua_3:13sino el que descendió del cielo; el HG5207
+- Jua_3:14que el H del Hombre sea levantadoG5207
+- Jua_3:16que ha dado a su H unigénito, para queG5207
+- Jua_3:17porque no envió Dios a su H al mundoG5207
+- Jua_3:18no ha creído en el nombre del...H de DiosG5207
+- Jua_3:35el Padre ama al H, y todas las cosas haG5207
+- Jua_3:36el que cree en el H tiene vida eternaG5207
+- Jua_3:36rehúsa creer en el H no verá la vidaG5207
+- Jua_4:5a la heredad que Jacob dio a su h JoséG5207
+- Jua_4:12cual bebieron él, sus h y sus ganados?[[G5207]]
+- Jua_4:46oficial del rey, cuyo h estaba enfermoG5207
+- Jua_4:47le rogó que descendiese y sanase a su hG5207
+- Jua_4:49Señor, desciende antes que mi h mueraG3813
+- Jua_4:50dijo: Vé, tu h vive. Y el hombre creyóG5207
+- Jua_4:51le dieron nuevas, diciendo: Tu h viveG3816
+- Jua_4:53en que Jesús le había dicho: Tu h viveG5207
+- Jua_5:19no puede el H hacer nada por sí mismoG5207
+- Jua_5:19todo lo que el Padre hace...lo hace el HG5207
+- Jua_5:20el Padre ama al H, y le muestra todasG5207
+- Jua_5:21también el H a los que quiere da vidaG5207
+- Jua_5:22juzga, sino que todo el juicio dio al HG5207
+- Jua_5:23todos honren al H como honran al PadreG5207
+- Jua_5:23el que no honra al H, no honra al PadreG5207
+- Jua_5:25los muertos oirán la voz del H de DiosG5207
+- Jua_5:26así también ha dado al H el tener vidaG5207
+- Jua_5:27juicio, por cuanto es el H del HombreG5207
+- Jua_6:27por la comida...el H del Hombre os daráG5207
+- Jua_6:40aquel que ve al H y cree en él, tengaG5207
+- Jua_6:42¿no es éste Jesús, el h de José, cuyoG5207
+- Jua_6:53si no coméis la carne del H del HombreG5207
+- Jua_6:62viereis al H del Hombre subir adondeG5207
+- Jua_6:69que tú eres el Cristo, el H del DiosG5207
+- Jua_6:71hablaba de Judas Iscariote, h de Simón
+- Jua_8:28cuando hayáis levantado al H del HombreG5207
+- Jua_8:35el esclavo no queda en...el h sí quedaG5207
+- Jua_8:36si el H os libertare, seréis...libresG5207
+- Jua_8:39si fueseis h de Abraham, las obras deG5043
+- Jua_9:19¿es éste vuestro h...que nació ciego?[[G5207]]
+- Jua_9:20sabemos que éste es nuestro h, y queG5207
+- Jua_9:35le dijo: ¿Crees tú en el H de Dios?[[G5207]]
+- Jua_10:36blasfemas, porque dije: H de Dios soy?[[G5207]]
+- Jua_11:4para que el H de Dios sea glorificadoG5207
+- Jua_11:27yo he creído que tú eres...el H de DiosG5207
+- Jua_11:52para congregar en uno a los h de DiosG5043
+- Jua_12:4dijo uno de...Judas Iscariote h de Simón
+- Jua_12:23que el H del Hombre sea glorificadoG5207
+- Jua_12:34es necesario que el H del Hombre seaG5207
+- Jua_12:34levantado? ¿Quién es este H del Hombre?[[G5207]]
+- Jua_12:36creed en la luz, para que seáis h deG5207
+- Jua_13:2de Judas...h de Simón, que le entregase
+- Jua_13:26lo dio a Judas Iscariote h de Simón
+- Jua_13:31ahora es glorificado el H del HombreG5207
+- Jua_14:13que el Padre sea glorificado en el HG5207
+- Jua_17:1glorifica a tu H...H te glorifique a tiG5207
+- Jua_17:12de ellos se perdió...el h de perdiciónG5207
+- Jua_19:7porque se hizo a sí mismo H de DiosG5207
+- Jua_19:26dijo a su madre: Mujer, he ahí tu hG5207
+- Jua_20:31que Jesús es el Cristo, el H de DiosG5207
+- Jua_21:2estaban...los h de Zebedeo, y otros dos
+- Jua_21:15,16,17Simón, h de Jonás, ¿me amas?
+- Hch_1:13donde moraban...Jacobo h de Alfeo
+- Hch_2:17vuestros h y vuestras hijas profetizaránG5207
+- Hch_2:39la promesa, y para vuestros h, y paraG5043
+- Hch_3:13el Dios de...ha glorificado a su H JesúsG3816
+- Hch_3:25vosotros soís los h de los profetas, yG5207
+- Hch_3:26habiendo levantado a su H, lo envió paraG3816
+- Hch_4:27se unieron en...contra tu santo H JesúsG5207
+- Hch_4:30mediante el nombre de tu santo H JesúsG5207
+- Hch_4:36que traducido es, H de consolaciónG5207
+- Hch_5:21todos los ancianos de los h de IsraelG5207
+- Hch_7:5le prometió que...cuando él aún no tenía hG5043
+- Hch_7:16que...compró Abraham de los h de HamorG5207
+- Hch_7:21la hija de Faraón...le crio como h suyoG5207
+- Hch_7:23visitar a sus hermanos los h de IsraelG5207
+- Hch_7:29tierra de Madián donde engendró dos hG5207
+- Hch_7:37el que dijo a los h de Israel: ProfetaG5207
+- Hch_7:56al H del Hombre que está a la diestraG5207
+- Hch_8:37creo que Jesucristo es el H de DiosG5207
+- Hch_9:15en presencia de...y de los h de IsraelG5207
+- Hch_9:20diciendo que éste era el H de DiosG5207
+- Hch_10:36Dios envió mensaje a los h de IsraelG5207
+- Hch_13:10h del diablo, enemigo de toda justicia![[G5207]]
+- Hch_13:21y Dios les dio a Saúl h de Cis, varónG5207
+- Hch_13:22diciendo: He hallado a David h de Isaí
+- Hch_13:26h del linaje de Abraham, y los queG5207
+- Hch_13:33cual Dios ha cumplido a los h de ellosG5043
+- Hch_13:33mi h eres tú, yo te he engendrado hoyG5207
+- Hch_16:1Timoteo, h de una mujer judía creyenteG5207
+- Hch_19:14había siete h de un tal Esceva, judíoG5207
+- Hch_21:5acompañándonos todos, con...mujeres e hG5043
+- Hch_21:21no circunciden a sus h, ni observen lasG5043
+- Hch_23:6yo soy fariseo, h de fariseo; acerca deG5207
+- Hch_23:16el h de la hermana de Pablo, oyendoG5207
+- Rom_1:3de su H, nuestro Señor Jesucristo, queG5207
+- Rom_1:4que fue declarado H de Dios con poderG5207
+- Rom_1:9a quien sirvo...en el evangelio de su HG5207
+- Rom_5:10reconciliados...por la muerte de su HG5207
+- Rom_8:3enviando a su H en semejanza de carneG5207
+- Rom_8:14guiados por el Espíritu...son h de DiosG5207
+- Rom_8:16da testimonio...de que somos h de DiosG5043
+- Rom_8:17si h, también herederos; herederos deG5043
+- Rom_8:19aguardar la manifestación de los h deG5207
+- Rom_8:21a la libertad gloriosa de los h de DiosG5043
+- Rom_8:29hechos conformes a la imagen de su HG5207
+- Rom_8:32que no escatimó ni a su propio H, sinoG5207
+- Rom_9:7ni por ser descendientes de...son todos hG5043
+- Rom_9:8no los que...h según la carne son los hG5043
+- Rom_9:8sino que los que son h según la promesaG5043
+- Rom_9:9este tiempo vendré, y Sara tendrá un hG5207
+- Rom_9:26allí serán llamados h del Dios vivienteG5207
+- Rom_9:27si fuere el número de los h de IsraelG5207
+- 1Co_1:9llamados a la comunión con su HG5207
+- 1Co_4:14sino para amonestaros como a h míosG5043
+- 1Co_4:17a Timoteo, que es mi h amado y fielG5043
+- 1Co_7:14otra manera vuestros h serían inmundosG5043
+- 1Co_15:28también el H mismo se sujetará al queG5207
+- 2Co_1:19H de Dios...que...ha sido predicadoG5207
+- 2Co_3:7h de Israel no pudieron fijar la vistaG5207
+- 2Co_3:13los h de Israel no fijaran la vista enG5207
+- 2Co_6:13para corresponder del...(como a h hablo)[[G5043]]
+- 2Co_6:18vosotros me seréis h e hijas, dice elG5207
+- 2Co_12:14pues no deben atesorar los h para losG5043
+- 2Co_12:14los padres, sino los padres para los hG5043
+- Gál_1:16revelar a su H en mí, para que yo leG5207
+- Gál_2:20lo vivo en la fe del H de Dios, el cualG5207
+- Gál_3:7los que son de fe, éstos son h de AbrahamG5207
+- Gál_3:26pues todos sois h de Dios por la fe enG5207
+- Gál_4:4envió a su H, nacido de mujer y nacidoG5207
+- Gál_4:5fin de que recibiésemos la adopción de hG5206
+- Gál_4:6por cuanto sois h, Dios envió a vuestrosG5207
+- Gál_4:6corazones el Espíritu de su H, el cualG5207
+- Gál_4:7que ya no eres esclavo, sino h; y si hG5207
+- Gál_4:22escrito que Abraham tuvo dos h; uno deG5207
+- Gál_4:24el cual da h para esclavitud...es AgarG1080
+- Gál_4:25junto con sus h, está en esclavitudG5043
+- Gál_4:27más son los h de la desolada, que de laG5043
+- Gál_4:28así...como Isaac, somos h de la promesaG5043
+- Gál_4:30dice...Echa fuera a la esclava y a su hG5207
+- Gál_4:30no heredará el h de la esclava con el hG5207
+- Gál_4:31de manera...que no somos h de la esclavaG5043
+- Efe_1:5para ser adoptados h suyos por medioG5207
+- Efe_2:2el espíritu que ahora opera en los h deG5207
+- Efe_2:3y éramos por naturaleza h de la ira, loG5043
+- Efe_3:5se dio a conocer a los h de los hombresG5207
+- Efe_4:13y del conocimiento del H de Dios, a unG5207
+- Efe_5:1sed...imitadores de Dios como h amadosG5043
+- Efe_5:6ira de Dios sobre los h de desobedienciaG5207
+- Efe_5:8sois luz en el Señor; andad como h de luzG5043
+- Efe_6:1h, obedeced en...a vuestros padres, porqueG5043
+- Efe_6:4padres, no provoquéis a ira a vuestros hG5043
+- Flp_2:15h de Dios sin mancha en medio de unaG5043
+- Flp_2:22como h a padre ha servido conmigo en elG5043
+- Col_1:13y trasladado al reino de su amado HG5207
+- Col_3:6cuales la ira de Dios viene sobre los hG5207
+- Col_3:20h, obedeced a vuestros padres en todoG5043
+- Col_3:21no exasperéis a vuestros h, para que noG5043
+- 1Ts_1:10y esperar de los cielos a su H, alG5207
+- 1Ts_2:7como la nodriza que cuida...sus propios hG5043
+- 1Ts_2:11como el padre a sus h, exhortábamos yG5043
+- 1Ts_5:5vosotros sois h de luz o h del día; noG5207
+- 2Ts_2:3y se manifieste...el h de perdiciónG5207
+- 1Ti_1:2a Timoteo, verdadero h en la feG5043
+- 1Ti_1:18este mandamiento, h...te encargo, paraG5043
+- 1Ti_2:15salvará engendrando h, si permaneciereG5042
+- 1Ti_3:4que tenga a sus h en sujeción con todaG5043
+- 1Ti_3:12que gobiernen bien sus h y sus casasG5043
+- 1Ti_5:4pero si alguna viuda tiene h, o nietosG5043
+- 1Ti_5:10si ha criado h; si ha practicado laG5044
+- 1Ti_5:14se casen, críen h, gobiernen su casaG5044
+- 2Ti_1:2amado h: Gracia, misericordia y pazG5043
+- 2Ti_2:1h mío, esfuérzate en la gracia que es enG5043
+- Tit_1:4a Tito, verdadero h en la común feG5043
+- Tit_1:6h creyentes, que no estén acusados deG5043
+- Tit_2:4enseñen...a amar a sus maridos y a sus hG5388
+- Flm_1:10por mi h Onésimo, a quien engendré enG5043
+- Heb_1:2hablado por el H, a quien constituyóG5207
+- Heb_1:5mi H eres tú, yo te he engendrado hoyG5207
+- Heb_1:5seré a él Padre, y él me será a mi h?[[G5207]]
+- Heb_1:8mas del H dice: Tu trono, oh Dios, porG5207
+- Heb_2:6el h del hombre, para que le visites?[[G5207]]
+- Heb_2:10habiendo de llevar muchos h a la gloriaG5207
+- Heb_2:13he aquí, yo y los h que Dios me dioG3813
+- Heb_2:14por cuanto los h participaron de carneG3813
+- Heb_3:6pero Cristo como h sobre su casa, la cualG5207
+- Heb_4:14un gran sumo sacerdote...el H de DiosG5207
+- Heb_5:5tú eres mi H, yo te he engendrado hoyG5207
+- Heb_5:8y aunque era H...aprendió la obedienciaG5207
+- Heb_6:6crucificando de nuevo para...al H de DiosG5207
+- Heb_7:3hecho semejante al H de Dios, permaneceG5207
+- Heb_7:5los que de entre los h de Leví recibenG5207
+- Heb_7:28pero la palabra del Juramento...al HG5207
+- Heb_10:29merecerá el que pisoteare al H de DiosG5207
+- Heb_11:21bendijo a cada uno de los h de JoséG5207
+- Heb_11:22mencionó la salida de los h de IsraelG5207
+- Heb_11:24por la fe Moisés...rehusó llamarse h deG5207
+- Heb_12:5la exhortación que como a h se os dirigeG5207
+- Heb_12:5h mío, no menosprecies la disciplina delG5207
+- Heb_12:6ama...y azota a todo el que recibe por hG5207
+- Heb_12:7Dios os trata como a h; porque ¿qué hG5207
+- Heb_12:8si se os deja...sois bastardos, y no hG5207
+- Stg_2:21ofreció a su h Isaac sobre el altarG5207
+- 1Pe_1:14como h obedientes, no os conforméisG5043
+- 1Pe_5:13la iglesia...y Marcos mi h, os saludanG5207
+- 2Pe_1:17este es mi H amado, en el cual tengoG5207
+- 2Pe_2:14no se sacian de...y son h de maldiciónG5043
+- 2Pe_2:15siguiendo el camino de Balaam h de BeorG5207
+- 1Jn_1:3comunión...con el Padre, y con su HG5207
+- 1Jn_1:7la sangre de Jesucristo su H nos limpiaG5207
+- 1Jn_2:22anticristo el que niega al Padre y al HG5207
+- 1Jn_2:23que niega al H, tampoco tiene al PadreG5207
+- 1Jn_2:23el que confiesa al H, tiene...al PadreG5207
+- 1Jn_2:24permaneceréis en el H y en el PadreG5207
+- 1Jn_3:1cuál amor...que seamos llamados h de DiosG5043
+- 1Jn_3:2amados, ahora somos h de Dios, y aún noG5043
+- 1Jn_3:8para esto apareció el H de Dios, paraG5207
+- 1Jn_3:10manifiestan los h de Dios y los h delG5043
+- 1Jn_3:23creamos en el nombre de su H JesucristoG5207
+- 1Jn_4:9que Dios envió a su H unigénito al mundoG5207
+- 1Jn_4:10nos amó...y envió a su H en propiciaciónG5207
+- 1Jn_4:14el Padre ha enviado al H, el SalvadorG5207
+- 1Jn_4:15que confiese que Jesús es el H de DiosG5207
+- 1Jn_5:2en esto conocemos que amamos a los h deG5043
+- 1Jn_5:5el que cree que Jesús es el H de Dios?[[G5207]]
+- 1Jn_5:9con que Dios ha testificado...de su HG5207
+- 1Jn_5:10el que cree en el H de Dios, tiene elG5207
+- 1Jn_5:10en el testimonio...dado acerca de su HG5207
+- 1Jn_5:11ha dado vida...esta vida está en su HG5207
+- 1Jn_5:12el que tiene al H, tiene la vida; elG5207
+- 1Jn_5:12el que no tiene al H...no tiene la vidaG5207
+- 1Jn_5:13a vosotros que creéis en el...H de DiosG5207
+- 1Jn_5:13que creáis en el nombre del H de DiosG5207
+- 1Jn_5:20sabemos que el H de Dios ha venido, yG5207
+- 1Jn_5:20y estamos en el verdadero, en su HG5207
+- 2Jn_1:1anciano a la señora elegida y a sus hG5043
+- 2Jn_1:3paz...y del Señor Jesucristo, H del PadreG5207
+- 2Jn_1:4he hallado algunos de tus h andando en laG5043
+- 2Jn_1:9persevera...ése sí tiene al Padre y al HG5207
+- 2Jn_1:13h de tu hermana, la elegida, te saludanG5043
+- 3Jn_1:4el oír que mis h andan en la verdadG5043
+- Rev_1:13en medio...semejante al H del HombreG5207
+- Rev_2:14a poner tropiezo ante los h de IsraelG5207
+- Rev_2:18el H de Dios, el que tiene ojos comoG5207
+- Rev_2:23a sus h heriré de muerte, y todas lasG5043
+- Rev_7:4de todas las tribus de los h de IsraelG5207
+- Rev_12:4devorar a su h tan pronto como nacieseG5043
+- Rev_12:5dio a luz un h...y su h fue arrebatadoG5207
+- Rev_12:13mujer que había dado a luz al h varónG730
+- Rev_14:14uno sentado semejante al H del HombreG5207
+- Rev_21:7cosas, y yo seré su Dios, y él será mi hG5207
+- Rev_21:12de las doce tribus de los h de IsraelG5207

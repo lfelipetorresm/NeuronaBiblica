@@ -1,0 +1,249 @@
+---
+tipo: concordancia
+palabra: ACERCAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ACERCAR
+
+- Gén_18:23acercó Abraham y dijo: ¿DestruirásH5066
+- Gén_19:9y se acercaron para romper la puertaH5066
+- Gén_27:21acércate ahora, y te palparé, hijo míoH5066
+- Gén_27:22se acercó Jacob a su padre...le palpóH5066
+- Gén_27:25acércamela, y comeré de la caza de miH5066
+- Gén_27:25y Jacob se la acercó, e Isaac comióH5066
+- Gén_27:26acércate ahora, y bésame, hijo míoH5066
+- Gén_27:27y Jacob se acercó, y lo besó, y olióH5066
+- Gén_29:10se acercó Jacob y removió la piedra deH5066
+- Gén_43:19se acercaron al mayordomo de la casaH5066
+- Gén_44:18entonces Judá se acercó a él, y dijoH5066
+- Gén_45:4acercaos ahora a mí. Y...se acercaronH5066
+- Gén_48:9y él dijo: Acércalos ahora a mí, y losH3947
+- Gén_48:10los hizo, pues acercarse a él, y losH5066
+- Gén_48:13tomó José a ambos...y los acercó a élH5066
+- Éxo_3:5no te acerques; quita tu calzado de tusH7126
+- Éxo_14:10cuando Faraón se hubo acercado, losH7126
+- Éxo_14:20nunca se acercaron...unos a los otrosH7126
+- Éxo_16:9dí...Acercaos a la presencia de JehováH7126
+- Éxo_19:22los sacerdotes que se acercan a JehováH5066
+- Éxo_20:21Moisés se acercó a la oscuridad en laH5066
+- Éxo_24:2Moisés solo se acercará a Jehová, yH5066
+- Éxo_24:2ellos no se acerquen, ni suba el puebloH5066
+- Éxo_28:43se acerquen al altar para servir enH5066
+- Éxo_29:8harás que se acerquen sus hijos, y lesH7126
+- Éxo_30:20se acerquen al altar para ministrarH5066
+- Éxo_32:1se acercaron...a Aarón, y le dijeronH6950
+- Éxo_34:30y tuvieron miedo de acercarse a élH5066
+- Éxo_34:32se acercaron todos los hijos de IsraelH5066
+- Éxo_40:14se acerquen sus hijos, y les vestirásH7126
+- Éxo_40:32y cuando se acercaban al...se lavabanH7126
+- Lev_8:6Moisés hizo acercarse a Aarón y a susH7126
+- Lev_8:13, Lev_8:24hizo acercarse a los hijos de AarónH7126
+- Lev_9:7acércate al altar, y haz tu expiación yH7126
+- Lev_9:8se acercó Aarón al altar y degolló elH7126
+- Lev_10:3los que a mí se acercan me santificaréH7138
+- Lev_10:4acercaos y sacad a vuestros hermanos deH7126
+- Lev_10:5y ellos se acercaron y los sacaron conH7126
+- Lev_16:1cuando se acercaron delante de JehováH7126
+- Lev_21:17se acercará para ofrecer el pan de suH7126
+- Lev_21:18, Lev_21:21en el cual haya defecto se acercaráH7126
+- Lev_21:21no se acercará a ofrecer el pan de suH5066
+- Lev_21:23no se acercará tras el velo, niH935
+- Lev_21:23no se acercará al altar...hay defectoH5066
+- Lev_22:3varón...se acercare a las cosas sagradasH7126
+- Núm_1:51y el extraño que se acercare moriráH7131
+- Núm_3:6haz que se acerque la tribu de Leví, yH7126
+- Núm_3:10, Núm_3:38el extraño que se acercare, moriráH7131
+- Núm_4:19cuando se acerquen al lugar santísimoH5066
+- Núm_5:16el sacerdote hará que ella se acerqueH7126
+- Núm_6:6aparte...no se acercará a persona muertaH935
+- Núm_8:9que los levitas se acerquen delante delH7126
+- Núm_8:10y cruzado haya acercado a los levitasH7126
+- Núm_8:19acercarse los...de Israel al santuarioH5066
+- Núm_16:5que se acerque a él...lo acercaráH7126
+- Núm_16:9acercándoos a él para que ministréisH7126
+- Núm_16:10y que te hizo acercar a ti y a todosH7126
+- Núm_16:17y acercaos delante de Jehová cada unoH7126
+- Núm_16:40ningún extraño...se acerque para ofrecerH7126
+- Núm_17:13cualquiera que se acercare, el...moriráH7131
+- Núm_18:2se acerquen a ti y se junten contigoH7126
+- Núm_18:3no se acercarán a los utensilios santosH7126
+- Núm_18:4el extraño se...acercar a vosotrosH7126
+- Núm_18:7y el extraño que se acercare, moriráH7131
+- Núm_18:22no se acercarán...los hijos de IsraelH7126
+- Deu_2:19cuando te acerques a...hijos de AmónH7126
+- Deu_4:11os acercasteis y os...vi pie del monteH7126
+- Deu_5:27acércate tú, y oye todas las cosas queH7126
+- Deu_20:2cuando os acerquéis para combatir, seH7126
+- Deu_20:10cuando te acerques a una ciudad paraH7126
+- Deu_25:9se acercará...su cuñada a él delante deH5066
+- Deu_25:11acercare la mujer de uno para librarH7126
+- Deu_31:14se ha acercado el día de tu muerteH7126
+- Jos_3:4haya dicho como...no os acercaréisH7126
+- Jos_3:9dijo a...de Israel: acercaos, y escuchadH5066
+- Jos_7:14os acercaréis...y la tribu...se acercaráH7126
+- Jos_7:14la familia...se acercará...la casa...se aH7126
+- Jos_7:16hizo acercar a Israel por sus tribusH7126
+- Jos_7:17acercar a la tribu...a a la familia deH7126
+- Jos_7:18hizo acercar su casa por los varonesH7126
+- Jos_8:5yo y todo...nos acercaremos a la ciudadH7126
+- Jos_8:11la gente de guerra...subió y se acercóH5066
+- Jos_10:24acercaos, y poned vuestros pies sobreH7126
+- Jos_10:24ellos se acercaron y pusieron sus piesH7126
+- Jue_3:20se le acercó Aod, estando él sentadoH935
+- Jue_4:21pero Jael...se le acercó calladamente yH935
+- Jue_16:26acércame, y hazme palpar las columnasH5117
+- Jue_20:24se acercaron los hijos de Israel contraH7126
+- Jue_20:34no hablan...ya el desastre se acercabaH5060
+- 1Sa_9:18acercándose, pues, Saúl a Samuel enH5066
+- 1Sa_10:20se acercasen todas las tribus de IsraelH7126
+- 1Sa_14:36dijo luego...Acerquémonos aquí a DiosH7126
+- 1Sa_17:41el filisteo venía...acercándose a DavidH7131
+- 1Sa_30:7me acerques el efod. Y Abiatar acercó elH5066
+- 2Sa_10:13se acercó Job, y el pueblo que conH5066
+- 2Sa_11:20¿por qué os acercasteis demasiado a laH5066
+- 2Sa_11:21¿por qué os acercasteis tanto al muroH5066
+- 2Sa_15:5alguno se acercaba para inclinarse a élH7126
+- 2Sa_18:25en tanto que él venía acercándoseH7131
+- 2Sa_20:17él se acerque...dijo la mujerH7126
+- 1Re_18:21acercándose ellas a todo el puebloH5066
+- 1Re_18:30acercaos a mí...el pueblo se le acercóH5066
+- 1Re_18:36acercó el profeta Elías y dijo: JehováH5066
+- 1Re_20:39se me acercó un soldado y me trajo unH5493
+- 1Re_22:24se acercó Sedequías...golpeó a MicaíasH5066
+- 2Re_2:5se acercaron a Eliseo los hijos de losH5066
+- 2Re_4:27y se acercó Giezi para quitarla; peroH5066
+- 2Re_5:13mas sus criados se le acercaron y leH5066
+- 2Re_16:12se acercó el rey...ofreció sacrificiosH7126
+- 2Re_16:14e hizo acercar el altar de bronce queH7126
+- 1Cr_19:14se acercó Joab...para pelear contraH5066
+- 2Cr_18:23Sedequías...se acercó y golpeóH5066
+- 2Cr_29:23hicieron acercar...los machos cabríosH5066
+- 2Cr_29:31acercaos...y presentad sacrificios yH5066
+- Job_33:22su alma se acerca al sepulcro, y suH7126
+- Job_40:19hacer que su espada a él se acerqueH5066
+- Job_41:13¿quién se acercará a él con su frenoH935
+- Sal_32:9freno, porque si no, no se acercanH7126
+- Sal_69:18cerca a mi alma, redímela; líbrameH7126
+- Sal_73:28a mí, el acercarme a Dios es el bienH7132
+- Sal_101:3ninguno de ellos se acercará a míH1692
+- Sal_119:150se acercaron a la maldad los queH7126
+- Pro_5:8no te acerques a la puerta de su casaH7126
+- Ecl_5:1acércate más para oír que...ofrecer elH7126
+- Isa_5:19acérquese, y venga el consejo delH7126
+- Isa_26:17la mujer encinta cuando se acerca elH7126
+- Isa_29:13este pueblo se acerca a mí con su bocaH5066
+- Isa_34:1acercaos, naciones, juntaos para oírH7126
+- Isa_41:1acérquense, y entonces hablen; estemosH5066
+- Isa_45:21proclamad, y hacedlos acercarse...todosH5066
+- Isa_46:13haré que se acerque mi justicia; noH7126
+- Isa_48:16acercaos...oíd esto: desde el principioH7126
+- Isa_50:8¿quién es el adversario...Acérquese a míH5066
+- Isa_54:14y de temor, porque no se acercará a tiH7126
+- Isa_58:2piden...juicios, y quieren acercarse aH7132
+- Isa_65:5no te acerques...soy más santo que túH5066
+- Jer_30:21haré llegar cerca, y él se acercaráH5066
+- Jer_30:21¿quién es...se atreve a acercarse a mí?[[H5066]]
+- Lam_3:57te acercaste al día que te invoquéH7126
+- Lam_4:18se acercó nuestro fin, se cumplieronH7126
+- Eze_7:12el tiempo ha venido, se acercó el díaH5060
+- Eze_9:6el cual hubiere señal, no os acercaréisH5066
+- Eze_12:23se han acercado aquellos días, y elH7126
+- Eze_22:4has hecho acercar tu día, y has llegadoH7126
+- Eze_42:13los sacerdotes que se acercan a JehováH7138
+- Eze_42:14se acercarán a lo que del puebloH7126
+- Eze_43:19los sacerdotes...que se acerquen a míH7138
+- Eze_44:13no se acercará mi para...comoH5066
+- Eze_44:13ni se acercarán a...de mis cosas santasH5066
+- Eze_44:15se acercarán para ministrar ante míH7126
+- Eze_44:16se acercarán a mi mesa para servirmeH7126
+- Eze_44:25no se acercarán a hombre muerto paraH935
+- Eze_45:4se acercarán para ministrar a JehováH7131
+- Dan_3:26Nabucodonosor se acercó a la puertaH7127
+- Dan_6:20y acercándose al foso llamó a voces aH7127
+- Dan_7:13y le hicieron acercarse delante de élH7127
+- Dan_7:16me acerqué a uno de los que asistíanH7127
+- Joe_3:9acérquense, vengan todos los hombresH5066
+- Amó_6:3malo, y acercaos la silla de iniquidadH5066
+- Amó_6:7y se acercará el duelo de los que seH5493
+- Amó_9:10no se acercará ni nos alcanzará el mal
+- Jon_1:6el patrón de la nave se le acercó yH7126
+- Hab_2:15¡ay de ti, que le acercas tu hielH5596
+- Sof_3:2no confió en...no se acercó a su DiosH7126
+- Mat_3:2; Mat_4:17reino de los cielos...acercadoG1448
+- Mat_9:20mujer...se le acercó por detrás y tocóG4334
+- Mat_10:7el reino de los cielos se ha acercadoG1448
+- Mat_13:10acercándose los discípulos, le dijeronG4334
+- Mat_13:36y acercándose a él sus discípulos, leG4334
+- Mat_14:15se acercaron...sus discípulos, diciendoG4334
+- Mat_15:1se acercaron a Jesús ciertos escribasG4334
+- Mat_15:12acercándose sus discípulos, le dijeronG4334
+- Mat_15:23acercándose sus discípulos, Le rogaronG4334
+- Mat_15:30y se acercó mucha gente que traíaG4334
+- Mat_17:7Jesús se acercó y los tocó...LevantaosG4334
+- Mat_18:21entonces se le acercó Pedro y le dijoG4334
+- Mat_20:20se le acercó la madre de los hijos deG4334
+- Mat_21:1se acercaron a Jerusalén, y vinieron aG1448
+- Mat_21:23se acercaron a él mientras enseñaba, yG4334
+- Mat_21:28acercándose al primero, le dijo: HijoG4334
+- Mat_21:30y acercándose al otro, le dijo de laG4334
+- Mat_21:34cuando se acercó el tiempo de...frutosG1448
+- Mat_24:1acercaron sus discípulos para mostrarleG4334
+- Mat_24:3los discípulos se le acercaron aparteG4334
+- Mat_26:46vamos; ved, se acerca el que me entregaG1448
+- Mat_26:49se acercó a Jacob y...¡Salve, Maestro![[G4334]]
+- Mat_26:50se acercaron y echaron mano de JesúsG4334
+- Mat_26:69se le acercó una criada, diciendo: TúG4334
+- Mat_26:73acercándose los que por allí estabanG4334
+- Mat_28:9ellas, acercándose, abrazaron sus piesG4334
+- Mat_28:18Jesús se acercó y les habló diciendoG4334
+- Mar_1:15y el reino de Dios se ha acercadoG1448
+- Mar_1:31él se acercó, y la tomó de la mano yG4334
+- Mar_2:4no podían acercarse a él a causa de laG4331
+- Mar_6:35discípulos se acercaron a él, diciendoG4334
+- Mar_10:2se acercaron los fariseos...preguntaronG4334
+- Mar_10:35Jacobo y...se le acercaron, diciendoG4365
+- Mar_11:1cuando se acercaban a Jerusalén, juntoG1448
+- Mar_12:28acercándose uno de los escribas, queG4334
+- Mar_14:42he aquí, se acerca el que me entregaG1448
+- Mar_14:45acercó luego a él, y le dijo: MaestroG4334
+- Luc_7:14acercándose, tocó el féretro; y losG4334
+- Luc_8:44le acercó por detrás y tocó el borde deG4334
+- Luc_9:12acercándose los...le dijeron...Despide aG4334
+- Luc_9:42se acercaba el muchacho, el demonio leG4334
+- Luc_10:9se ha acercado a vosotros el reino deG1448
+- Luc_10:11el reino de...se ha acercado a vosotrosG1448
+- Luc_10:34y acercándose, vendó sus heridas...vinoG4334
+- Luc_10:40acercándose...Señor, ¿no te da cuidadoG2186
+- Luc_15:1acercaban a Jesús todos los publicanosG1448
+- Luc_18:35acercándose Jesús a Jericó, un ciegoG1448
+- Luc_22:47y se acercó hasta Jesús para besarleG1448
+- Luc_23:36acercándose, y presentándole vinagreG4334
+- Luc_24:15Jesús mismo se acercó, y caminaba conG1448
+- Jua_1:47Jesús vio a...que se le acercaba, dijoG2064
+- Jua_6:19vieron a Jesús...se acercaba a la barcaG1096
+- Jua_12:21estos...se acercaron a Felipe, que eraG4334
+- Jua_19:29una esponja...se la acercaron a la bocaG4374
+- Jua_20:27acerca tu mano, y métela en mi costadoG5342
+- Hec_7:17se acerca el tiempo de la promesaG1448
+- Hec_7:31acercándose...vino a él la voz del SeñorG4334
+- Hec_8:29Felipe: Acércate y júntate a ese carroG4334
+- Hec_10:9se acercaban a la ciudad, Pedro subióG1448
+- Hec_10:28juntarse o acercarse a un extranjeroG4334
+- Hec_22:13acercándose, me dijo: Hermano SauloG4314
+- Rom_13:12la noche está avanzada, y se acercaG1448
+- 1Co_7:35que sin impedimento os acerquéis alG2145
+- Heb_4:16acerquémonos...confiadamente al tronoG4334
+- Heb_7:19esperanza por la cual nos acercamos aG1448
+- Heb_7:25salvar...a los que por él se acercanG4334
+- Heb_10:1hacer perfectos a los que se acercanG4334
+- Heb_10:22acerquémonos con corazón sincero, enG4334
+- Heb_10:25cuanto veis que aquel día se acercaG1448
+- Heb_11:6el que se acerca a Dios crea que le hayG4334
+- Heb_12:18no os habéis acercado al monte que seG4334
+- Heb_12:22os habéis acercado al monte de SionG4334
+- Stg_4:8acercaos a Dios, y él se acercará aG1448
+- Stg_5:8porque la venida del Señor se acercaG1448
+- 1Pe_2:4acercándoos a él, piedra...desechadaG4334
+- 1Pe_4:7mas el fin de todas las cosas se acercaG1448

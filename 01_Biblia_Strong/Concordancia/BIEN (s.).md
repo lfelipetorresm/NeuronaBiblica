@@ -1,0 +1,288 @@
+---
+tipo: concordancia
+palabra: BIEN (s.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BIEN (s.)
+
+- Gén_2:9árbol de la ciencia del b y del malH2896
+- Gén_2:17árbol de la ciencia del b...no comerásH2896
+- Gén_3:5y seréis como Dios, sabiendo el b y elH2896
+- Gén_3:22uno de nosotros, sabiendo el b y el malH2896
+- Gén_12:5tomó...y todos sus b que habían ganadoH7399
+- Gén_12:16hizo b a Abram por causa de ella; y élH3190
+- Gén_14:12tomaron también...sus b, y se fueronH7399
+- Gén_14:16recobró todos los b, y...a Lot...y sus bH7399
+- Gén_14:21dame las personas, y toma para ti los bH7399
+- Gén_26:29como solamente te hemos hecho b, y teH2896
+- Gén_32:9vuélvete a tu tierra y...y yo te haré bH3190
+- Gén_32:12yo te haré b, y tu descendencia seráH3190
+- Gén_34:23sus b y...sus bestias serán nuestrosH7075
+- Gén_34:29y todos sus b; llevaron cautivos aH2428
+- Gén_36:7los b de ellos eran muchos; y no podíanH7399
+- Gén_40:14acuérdate...de mí cuando tengas ese bH3190
+- Gén_40:16viendo...que había interpretado para bH2896
+- Gén_44:4¿por qué habéis vuelto mal por b? ¿PorH2896
+- Gén_46:6tomaron...sus b que habían adquirido enH7390
+- Gén_50:20Dios lo encaminó a b, para hacer lo queH2896
+- Éxo_1:20y Dios hizo b a las parteras; y elH3190
+- Éxo_18:9se alegró Jetro de todo el b que JehováH2896
+- Éxo_22:8vea si ha metido su mano en los b de suH4399
+- Éxo_22:11no metió su mano a los b de su prójimoH4399
+- Éxo_33:19yo haré pasar todo mi b delante de tuH2898
+- Lev_5:4si alguno jurare...hacer mal o hacer bH3190
+- Núm_10:29ven con nosotros, y te haremos bH2895
+- Núm_10:29porque Jehová ha prometido el b a IsraelH2896
+- Núm_10:32tengamos el b...nosotros te haremos bH2896
+- Núm_16:32los tragó a ellos, a...y a todos sus bH7399
+- Núm_31:9sus ganados; y arrebataron todos sus bH2428
+- Deu_6:11y casas llenas de todo b, que tú noH2898
+- Deu_8:16probándote, para a la postre hacerte bH3190
+- Deu_26:11te alegrarás en todo el b que JehováH2896
+- Deu_28:11te hará Jehová sobreabundar en b, enH2896
+- Deu_28:63así como Jehová se gozaba en haceros bH3190
+- Deu_30:5te hará b, y te multiplicará más que aH3190
+- Deu_30:9abundar en...fruto de tu tierra, para bH2896
+- Deu_30:9Jebová volverá a gozarse sobre ti para bH2896
+- Deu_30:15he puesto delante...la vida y el bH2896
+- Jos_24:20hará mal...después que os ha hecho bH3190
+- Jue_8:35Gedeón, conforme a todo el bH2896
+- 1Sa_2:32mientras Dios colma de b a Israel
+- 1Sa_24:17que me has pagado con b, habiéndoteH2896
+- 1Sa_24:18mostrado hoy que has hecho conmigo bH2896
+- 1Sa_24:19Jehová te pague con b por lo que enH2896
+- 1Sa_25:21en vano...y él me ha vuelto mal por bH2896
+- 1Sa_25:30Jehová haga...conforme a todo el b queH2896
+- 1Sa_25:31pues...cuando Jehová haga b a mi señorH3190
+- 2Sa_2:6os haré b por esto que habéis hechoH2617
+- 2Sa_7:28y tú has prometido este b a tu siervoH2896
+- 2Sa_16:12me dará Jehová b por sus maldicionesH2896
+- 2Sa_18:27ése es hombre de b, y viene con buenasH2896
+- 1Re_1:52si él fuere hombre de b, ni uno deH2428
+- 1Re_10:7es mayor tu sabiduría y b, que la famaH2896
+- 1Re_22:8porque nunca me profetiza b, sino...malH2896
+- 2Re_8:9tomó...un presente de entre los b deH2896
+- 1Cr_17:26que has hablado de tu siervo este bH2896
+- 2Cr_1:11no pediste riquezas, b o gloria, niH5233
+- 2Cr_1:12y también te daré riquezas, b y gloriaH5233
+- 2Cr_18:17que no me profetizaría b, sino mal?[[H2896]]
+- 2Cr_21:17y tomaron todos los b que hallaron enH7399
+- 2Cr_24:16había hecho b con Israel, y para conH2896
+- 2Cr_32:25Ezequías no correspondió al b que leH1576
+- Esd_1:4ayúdenle...con plata, oro, b y ganadosH7399
+- Esd_1:6ayudaron con plata y oro, con b y ganadoH7399
+- Esd_8:21camino derecho...para todos nuestros bH7399
+- Esd_8:22la mano de nuestro Dios es para b sobreH2896
+- Esd_9:12comáis el b de la tierra, y la dejéisH2898
+- Neh_2:10procurar el b de los hijos de IsraelH2896
+- Neh_2:18declaré...así esforzaron sus manos para bH2896
+- Neh_5:19acuérdate de mí para b, Dios mío, y deH2896
+- Neh_9:25y heredaron casas llenas de todo bH2898
+- Neh_9:35en tu mucho b que les diste, y en laH2898
+- Neh_9:36diste a...que comiesen su fruto y su bH2896
+- Neh_13:31acuérdate de mí, Dios mío, para bH2896
+- Est_3:13con la orden de...apoderarse de sus bH7998
+- Est_8:11destruir, y matar...apoderarse de sus bH7998
+- Est_9:10hijos de Amán...pero no tocaron sus bH961
+- Est_9:15-16y mataron...pero no tocaron sus bH961
+- Job_1:10sus b han aumentado sobre la tierraH4735
+- Job_2:10¿recibiremos de Dios el b, y el mal noH2896
+- Job_7:7y que mis ojos no volverán a ver el bH2896
+- Job_9:25más ligeros...huyeron, y no vieron el bH2896
+- Job_20:18restituirá...conforme a los b que tomóH2428
+- Job_21:16que su b no está en mano de ellos; elH2898
+- Job_22:18les había colmado de b sus casas...PeroH2898
+- Job_24:21a la mujer...y a la viuda nunca hizo bH3190
+- Job_30:26esperaba yo el b, entonces vino el malH2896
+- Sal_4:6que dicen: ¿Quién nos mostrará el b?[[H2896]]
+- Sal_13:6cantaré a Jehová, porque me ha hecho bH1580
+- Sal_14:1abominables; no hay quien haga el bH2896
+- Sal_16:2mi Señor; no hay para mí b fuera de tiH2896
+- Sal_21:3le ha salido al...con bendiciones de bH2896
+- Sal_23:6ciertamente el b y la misericordia meH2896
+- Sal_34:10buscan a Jebová no tendrán falta de...bH2896
+- Sal_34:12que desea muchos días para ver el b?[[H2896]]
+- Sal_34:14apártate del mal, y haz el b; busca laH2896
+- Sal_35:12me devuelven mal por b, para afligirH2896
+- Sal_36:3ha dejado de ser cuerdo y de hacer el bH3190
+- Sal_37:3confía en Jehová, y haz el b; y habitarásH2896
+- Sal_37:27apártate del mal, y haz el b, y vivirásH2896
+- Sal_38:20que pagan mal por b me son contrariosH2896
+- Sal_49:6que confían en sus b, y de la...se jactanH6239
+- Sal_51:18haz b con tu benevolencia a Sion...murosH3190
+- Sal_52:3amaste el mal más que el b, la mentiraH2896
+- Sal_53:1han corrompido...no hay quien haga el bH2896
+- Sal_65:4seremos saciados del b de tu casa, deH2898
+- Sal_65:11coronas el año con tus b, y tus nubesH2896
+- Sal_69:22sea su...lo que es para b, por tropiezoH7965
+- Sal_73:28cuanto a mí, acercarme a Dios es el bH2896
+- Sal_84:11no quitará el b a los que andan enH2896
+- Sal_85:12Jehová dará también el b, y nuestraH2896
+- Sal_86:17haz conmigo señal para b, y véanla losH2896
+- Sal_103:5el que sacia de b tu boca, de modo queH2896
+- Sal_104:28les das...abres tu mano, se sacian de bH2896
+- Sal_106:5para que yo vea el b de tus escogidosH2896
+- Sal_107:9sacia...y llena de b al alma hambrientaH2896
+- Sal_109:5devuelven mal por b, y odio por amorH2896
+- Sal_112:3b y riquezas hay en su casa, y suH6239
+- Sal_112:5el hombre de b tiene misericordia, yH2896
+- Sal_116:7vuelve, oh alma...Jehová te ha hecho bH1580
+- Sal_119:17haz b a tu siervo; que viva, y guardeH1580
+- Sal_119:122afianza a tu siervo para b; noH2896
+- Sal_122:9amor a la casa de Jehová buscaré tu bH2896
+- Sal_125:4haz b, oh Jehová, a los buenos, y a losH2895
+- Sal_128:5veas el b de Jerusalén todos los díasH2896
+- Pro_3:9honra a Jehová con tus b, y...primiciasH1952
+- Pro_3:27no te niegues a hacer el b a quien esH2896
+- Pro_11:10en el b de los justos...se alegra; masH2898
+- Pro_11:17a su alma hace b el...misericordiosoH1580
+- Pro_11:23deseo de los justos es solamente el bH2896
+- Pro_11:27el que procura el b buscará favor; masH2896
+- Pro_12:14será saciado de b del fruto de su bocaH2896
+- Pro_12:20alegría en el de los que piensan el bH7965
+- Pro_13:2fruto de su boca el hombre comerá el bH2896
+- Pro_13:21los justos serán premiados con el bH2896
+- Pro_14:14el hombre de b estará contento del suyoH2896
+- Pro_14:22verdad alcanzarán los que piensan el bH2896
+- Pro_16:20el entendido en la palabra hallará el bH2896
+- Pro_17:13da mal por b, no se apartará el mal deH2896
+- Pro_17:20perverso de corazón nunca hallará el bH2896
+- Pro_18:22que halla esposa halla el b, y alcanzaH2896
+- Pro_19:8que guarda la inteligencia hallará el bH2896
+- Pro_19:17b que ha hecho, se lo volverá a pagarH7965
+- Pro_20:21b que se adquieren de prisa al principioH5159
+- Pro_24:4llenarán las cámaras de todo b preciadoH1952
+- Pro_28:10fosa; mas los perfectos heredarán el bH2896
+- Pro_29:3el que frecuenta rameras perderá los bH1952
+- Pro_31:12le da ella b y no mal todos los días deH2896
+- Pro_31:29muchas mujeres hicieron el b; mas túH2428
+- Ecl_2:1ven ahora, te probaré...y gozarás de bH2896
+- Ecl_2:3hasta ver cuál fuese el b de los hijos deH2896
+- Ecl_3:12cosa mejor que...y hacer b en su vidaH2896
+- Ecl_3:13que coma...y goce el b de toda su laborH2896
+- Ecl_4:8para quién...y defraudo mi alma del b?[[H2896]]
+- Ecl_5:11cuando aumentan los b, también aumentanH2896
+- Ecl_5:11¿qué b...tendrá su dueño, sino verlos conH3788
+- Ecl_5:18he aquí, pues, el b que yo he visto; queH2896
+- Ecl_5:18gozar uno del b de todo su trabajo conH2896
+- Ecl_5:19; Ecl_6:2hombre a quien Dios da riquezas y bH6239
+- Ecl_6:3si su alma no se sació del b, y tambiénH2896
+- Ecl_6:6viviere...sin gustar el b, ¿no van todosH2896
+- Ecl_6:12¿quién sabe cuál es el b del hombre enH2896
+- Ecl_7:14en el día del b goza del b; y en el díaH2896
+- Ecl_7:20no hay...hombre...haga el b y nunca pequeH2896
+- Ecl_8:15que no tiene el hombre b debajo del solH2896
+- Ecl_9:18mejor...pero un pecador destruye mucho bH2896
+- Cnt_8:7si diese el hombre todos los b de suH1952
+- Isa_1:17aprended a hacer el b; buscad el juicioH3190
+- Isa_1:19si quisiereis y oyereis, comeréis el bH2896
+- Isa_41:23haced b, o mal, para que tengamos quéH3190
+- Isa_52:7que trae nuevas del b, del que publicaH2896
+- Isa_55:2oídme atentamente, y comed del b, y seH2896
+- Jer_2:7para que comieseis su fruto y su bH2898
+- Jer_4:22el mal, pero hacer el b no supieronH3190
+- Jer_5:25y vuestros pecados apartaron de...el bH2896
+- Jer_8:15esperamos paz, y no hubo b; día deH2896
+- Jer_12:1¿por qué...y tienen b todos los que seH7951
+- Jer_13:23¿podréis vosotros hacer b, estandoH3190
+- Jer_14:19esperamos paz, y no hubo b; tiempo deH2896
+- Jer_15:11si no te he rogado por su b, si no heH2896
+- Jer_17:6y no verá cuando viene el b, sino queH2896
+- Jer_18:10si hiciere lo malo...arrepentiré del bH2896
+- Jer_18:20¿se da mal por b, para que hayan cavadoH2896
+- Jer_21:10porque mi rostro...para mal, y no para bH2896
+- Jer_24:5así miraré a los transportados...para bH2896
+- Jer_24:6pondré mis ojos sobre ellos para b, yH2896
+- Jer_29:32ni verá el b que haré yo a mí puebloH2896
+- Jer_31:12correrán al b de Jehová, al pan, alH2898
+- Jer_31:14mi pueblo será saciado de mi b, diceH2898
+- Jer_32:39para que tengan b ellos, y sus hijosH2896
+- Jer_32:40que no me volveré atrás de hacerles bH3190
+- Jer_32:41y me alegraré con ellos haciéndoles bH2895
+- Jer_32:42así traeré sobre ellos todo el b queH2896
+- Jer_33:9habrán oído todo el b que yo les hagoH2896
+- Jer_33:9y temblarán de todo el b y de toda laH2896
+- Jer_39:16sobre esta ciudad para mal, y no para bH2896
+- Jer_44:27velo sobre ellos para mal, y no para bH2896
+- Jer_48:7confiaste en tus b y en tus tesoros, túH4639
+- Lam_3:17se alejó de la paz, me olvidé del bH2896
+- Eze_36:11os haré mayor b que en...principiosH2896
+- Ose_8:3desechó el b; enemigo lo perseguiráH2896
+- Ose_14:2quita toda iniquidad, y acepta el b, y
+- Amó_5:15amad el b, y estableced la justiciaH2896
+- Amó_9:4pondré sobre ellos mis ojos...no para bH2896
+- Abd_1:13haber echado mano a sus b en el día de
+- Miq_1:12los moradores de Marot anhelaron...bH2896
+- Miq_2:7¿no hacen...b al que camina rectamente?[[H3190]]
+- Sof_1:12dicen...Jehová ni hará b ni hará malH3190
+- Sof_1:13por tanto, serán saqueados sus b, y susH2428
+- Zac_1:17rebosarán...con la abundancia del bH2896
+- Zac_8:15he pensado hacer b a Jerusalén y a laH3190
+- Mat_5:44haced b a los que os aborrecen, y oradG2573
+- Mat_12:12lícito hacer el b en los días de reposoG2573
+- Mat_12:29casa del hombre fuerte, y saquear sus bG4632
+- Mat_19:16¿que b haré para tener la vida eterna?[[G18]]
+- Mat_24:47digo que sobre todos sus b le pondráG5224
+- Mat_25:14llamó a sus siervos y les entregó sus bG5224
+- Mar_3:4en los días de reposo hacer b, o hacerG15
+- Mar_3:27ninguno puede entrar...y saquear sus bG4632
+- Mar_14:7y cuando queráis les podréis hacer bG2095
+- Luc_1:53a los hambrientos colmó de b, y a losG18
+- Luc_6:9en día de reposo hacer b, o hacer mal?[[G15]]
+- Luc_6:27amad a...haced b a los que os aborrecenG2573
+- Luc_6:33si hacéis b a los que os hacen b, ¿quéG15
+- Luc_6:35haced b, y prestad, no esperando de elloG15
+- Luc_8:3y otras muchas que le servían de sus bG5224
+- Luc_12:15no consiste en la abundancia de los b
+- Luc_12:18allí guardaré todos mis frutos y mis bG18
+- Luc_12:19alma, muchos b tienes guardados paraG15
+- Luc_12:44digo que le pondrá sobre todos sus b
+- Luc_15:12parte de los b...y les repartió los bG3776
+- Luc_15:13desperdició sus b viviendo perdidamenteG3776
+- Luc_15:30que ha consumido tus b con rameras
+- Luc_16:1acusado ante él como disipador de sus bG5224
+- Luc_16:25acuérdate que recibiste tus b en tu vidaG18
+- Luc_17:31sus b en casa, no descienda a tomarlosG4632
+- Luc_19:8la mitad de mis b doy a los pobres; y siG5224
+- Hec_2:45vendían sus propiedades y sus b, y loG5223
+- Hec_10:38cómo éste anduvo haciendo b y sanandoG2109
+- Hec_14:17haciendo b, dándonos lluvias del cieloG15
+- Rom_2:7perseverando en b hacer, buscan gloriaG18
+- Rom_3:8decir...Hagamos males para que vengan b?[[G15]]
+- Rom_7:18y yo sé que...en mi carne, no mora el bG18
+- Rom_7:18el querer el b está en mí, pero no elG2570
+- Rom_7:19porque no hago el b que quiero, sino elG18
+- Rom_7:21queriendo yo hacer el b, hallo esta leyG2570
+- Rom_8:28que aman...todas las cosas les ayudan a bG18
+- Rom_9:11ni habían hecho aún ni b ni mal, paraG18
+- Rom_12:21de lo malo, sino vence con el b el malG18
+- Rom_13:3para infundir temor al que hace el bG18
+- Rom_13:4porque es servidor de Dios para tu bG18
+- Rom_14:16no sea, pues, vituperado vuestro bG18
+- Rom_15:27han sido hechos participantes de sus bG18
+- Rom_16:19que seáis sabios para el b, e ingenuosG18
+- 1Co_10:24ninguno busque su propio b, sino el
+- 1Co_13:3si repartiese todos mis b para dar deG5224
+- Gál_4:17tienen celo de...pero no para b, sinoG2573
+- Gál_6:9no nos cansemos, pues, de hacer b; porqueG2570
+- Gál_6:10hagamos b a todos, y mayormente a losG18
+- Efe_6:8el b que cada uno hiciere, ése recibiráG18
+- 2Ts_3:13hermanos, no os canséis de hacer b
+- 1Ti_6:18hagan b, que sean ricos en...obrasG14
+- Tit_2:3no esclavas del vino, maestras del bG2570
+- Flm_1:6eficaz en el conocimiento de todo el bG18
+- Heb_5:14en el discernimiento del b y del malG2570
+- Heb_9:11sumo sacerdote de los b venideros, porG18
+- Heb_10:1teniendo la sombra de los b veniderosG18
+- Heb_10:34el despojo de vuestros b sufristeisG5224
+- Heb_13:16de hacer b y de la ayuda mutua no osG2140
+- 1Pe_2:14para...alabanza de los que hacen bG17
+- 1Pe_2:15haciendo b, hagáis callar la ignoranciaG15
+- 1Pe_3:6hacéis el b, sin temer ninguna amenazaG15
+- 1Pe_3:11apártese del mal, y haga el b; busqueG18
+- 1Pe_3:13hacer daño, si vosotros seguís el b?[[G18]]
+- 1Pe_3:17mejor es que padezcáis haciendo el bG15
+- 1Pe_4:19encomienden sus almas al...y hagan el bG16
+- 1Jn_3:17el que tiene b de...y ve a su hermanoG979

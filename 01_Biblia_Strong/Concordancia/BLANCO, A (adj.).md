@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: BLANCO, A (adj.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BLANCO, A (adj.)
+
+- Gén_30:35aquella que tenía en sí algo de bH3836
+- Gén_30:37y descortezó en ellas mondaduras bH3836
+- Gén_30:37descubriendo así lo b de las varasH3836
+- Gén_40:16yo soñé que veía tres canastillos bH2751
+- Gén_49:12del vino, y sus dientes b de la lecheH3836
+- Éxo_16:31b, y su sabor como de hojuelas conH3836
+- Lev_13:2hombre tuviere en la piel...mancha bH934
+- Lev_13:3si el pelo en la llaga se ha vuelto bH3836
+- Lev_13:4mancha b...el pelo se hubiere vuelto bH3836
+- Lev_13:10si apareciere tumor b en la piel, elH3836
+- Lev_13:13ella se ha vuelto b, y él es limpioH3836
+- Lev_13:16la carne viva cambiare y se volviere bH3836
+- Lev_13:17y si la llaga se hubiere vuelto b, elH3836
+- Lev_13:19una hinchazón, o una mancha b rojizaH3836
+- Lev_13:20pelo se hubiere vuelto b, el sacerdoteH3836
+- Lev_13:21no apareciere en ella pelo b, ni fuereH3836
+- Lev_13:23la mancha b se estuviere en su lugarH934
+- Lev_13:24hubiere en lo sanado del...rojiza o bH3836
+- Lev_13:25pelo se hubiere vuelto b en la manchaH3836
+- Lev_13:26no apareciere en la mancha pelo b, niH3836
+- Lev_13:38la mujer tuviere en la piel...manchas bH3836
+- Lev_13:39aparecieren manchas b algo oscurecidasH3836
+- Lev_13:42en la antecalva hubiere llaga b rojizaH3836
+- Lev_13:43si pareciere la hinchazón...b rojiza enH3836
+- Lev_14:56acerca de la hinchazón, y...la mancha bH934
+- Jue_5:10los que cabalgáis en asnas, los queH6715
+- 2Re_5:27salió de...leproso, b como la nieve
+- Est_1:6el pabellón era de b, verde y azulH2353
+- Est_8:15y salió...con vestido real de azul y bH2353
+- Sal_51:7lávame, y seré más b que la nieveH3835
+- Ecl_9:8en todo tiempo sean b tus vestidosH3836
+- Cnt_5:10mi amado es b y rubio, señalado entreH6703
+- Isa_1:18pecados...vendrán a ser como b lanaH3835
+- Lam_4:7sus nobles fueron...más b que la lecheH6705
+- Eze_27:18vino de Helbón y lana b negociabanH6713
+- Dan_7:9cuyo vestido era b como la nieve, y le
+- Joe_1:7asoló mi vid, y...sus ramas quedaron bH3835
+- Zac_1:8y detrás de él...alazanes, overos y bH3836
+- Zac_6:3en el tercer carro caballos b, y en elH3836
+- Zac_6:6los b salieron tras ellos, y los overosH3836
+- Mat_5:36no puedes hacer b o negro un cabelloG3022
+- Mat_17:2sus vestidos se hicieron b como la luzG3022
+- Mat_28:3su aspecto...su vestido b como la nieveG3022
+- Mar_9:3sus vestidos se volvieron...b, como laG3021
+- Mar_9:3ningún lavador en...los puede hacer tan bG3022
+- Mar_16:5un joven...cubierto de una larga ropa bG3022
+- Luc_9:29se hizo...vestido b y resplandecienteG3022
+- Jua_4:35y mirad los campos...b para la siegaG3022
+- Jua_20:12y vio a dos ángeles con vestiduras bG3022
+- Hec_1:10he aquí...dos varones con vestiduras bG3022
+- Rev_1:14sus cabellos eran b como b lana, comoG3022
+- Rev_2:17le daré una piedrecita b, y...un nombreG3022
+- Rev_3:4andarán conmigo en vestiduras b, porqueG3022
+- Rev_3:5que venciere será vestido de vestiduras bG3022
+- Rev_3:18compres...y vestiduras b para vestirteG3022
+- Rev_4:4había...24 ancianos, vestidos de ropas bG3022
+- Rev_6:2miré, y he aquí un caballo b; y el queG3022
+- Rev_6:11les dieron vestiduras b, y se les dijoG3022
+- Rev_7:9vestidos de ropas b, y con palmas en lasG3022
+- Rev_7:13estos...vestidos de ropas b, ¿quiénes sonG3022
+- Rev_14:14y he aquí una nube b; y sobre la nubeG3022
+- Rev_19:11un caballo b, y el que lo montaba seG3022
+- Rev_19:14vestidos de lino finísimo, b y limpioG3022
+- Rev_19:14los ejércitos...le seguían en caballos bG3022
+- Rev_20:11y vi un gran trono b y al que estabaG3022

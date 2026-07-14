@@ -1,0 +1,1192 @@
+---
+tipo: concordancia
+palabra: PALABRA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PALABRA
+
+- Gén_11:1toda la tierra una sola lengua y...pH1697
+- Gén_15:1vino la p de Jehová a Abram en visiónH1697
+- Gén_15:4vino a él p de Jehová, diciendo: No teH1697
+- Gén_20:8dijo todas estas p en los oídos de ellosH1697
+- Gén_24:52cuando el criado de Abraham oyó sus pH1697
+- Gén_27:34Esaú oyó las p de su padre, clamó conH1697
+- Gén_27:42y fueron dichas a Rebeca las p de EsaúH1697
+- Gén_31:1oía Jacob las p de los hijos de LabánH1697
+- Gén_34:13respondieron...a Siquem...p engañosas
+- Gén_34:18y parecieron bien sus p a Hamor, y aH1697
+- Gén_37:8le aborrecieron...de sus sueños y sus pH1697
+- Gén_39:17le habló ella las mismas p, diciendoH1697
+- Gén_39:19oyó el...las p que su mujer le hablabaH1697
+- Gén_41:40y por tu p se gobernará todo mi puebloH6310
+- Gén_42:16presos, y vuestras p serán probadas, siH1697
+- Gén_42:20verificadas vuestras p, y no moriréisH1697
+- Gén_43:7declaramos conforme a estas p...¿AcasoH1697
+- Gén_44:6cuando él los alcanzó, les dijo estas pH1697
+- Gén_44:10dijo...ahora sea conforme a vuestras pH1697
+- Gén_44:18que hable tu siervo una p en oídos deH1697
+- Gén_44:24mi padre, le contamos las p de mi señorH1697
+- Gén_45:27le contaron todas las p de José, queH1697
+- Éxo_4:10¡ay...nunca he sido hombre de fácil p
+- Éxo_4:15pondrás en su boca las p, y yo estaréH1697
+- Éxo_4:28contó Moisés a Aarón...las p de JehováH1697
+- Éxo_5:9se ocupen...y no atiendan a p mentirosasH1697
+- Éxo_8:10conforme a tu p, para que conozcas queH1697
+- Éxo_8:13e hizo Jehová conforme a la p de MoisésH1697
+- Éxo_8:31Jehová hizo conforme a la p de MoisésH1697
+- Éxo_9:20el que tuvo temor de la p de Jehová hizoH1697
+- Éxo_9:21que no puso en su corazón la p de JehováH1697
+- Éxo_19:6son las p que dirás a los hijos de IsraelH1697
+- Éxo_19:7y expuso...p que Jehová le había mandadoH1697
+- Éxo_19:8Moisés refirió a Jehová las p del puebloH1697
+- Éxo_19:9Moisés refirió las p del pueblo a JehováH1697
+- Éxo_20:1y habló Dios todas estas p, diciendoH1697
+- Éxo_23:7p de mentira te alejarás, y no matarás
+- Éxo_23:8presente...pervierte las p de los justosH1697
+- Éxo_24:3y contó al pueblo todas las p de JehováH1697
+- Éxo_24:3haremos todas las p que Jehová ha dichoH1697
+- Éxo_24:4y Moisés escribió todas las p de JehováH1697
+- Éxo_34:1escribiré...p que estaban en las tablasH1697
+- Éxo_34:27escribe tú estas p...conforme a estas pH1697
+- Éxo_34:28y escribió en tablas las p del pactoH1697
+- Lev_24:12les fuese declarado por p de Jehová
+- Núm_3:16contó conforme a la p de JehováH6310
+- Núm_3:39conforme a la p de Jehová contaron porH6310
+- Núm_3:51dio el dinero...conforme a la p de JehováH6310
+- Núm_11:23ahora verás si se cumple mi p, o noH1697
+- Núm_11:24y salió Moisés y dijo al pueblo las pH1697
+- Núm_12:6les dijo: Oíd ahora mis p...Cuando hayaH1697
+- Núm_13:3los envió...conforme a la p de JehováH1697
+- Núm_15:31por cuanto tuvo en poco la p de JehováH4687
+- Núm_16:31cuando cesó él de hablar todas estas pH1697
+- Núm_22:7llegaron a Balaam y le dijeron las p deH1697
+- Núm_22:18no puedo traspasar la p de Jehová miH6310
+- Núm_22:35pero la p que yo te diga, esa hablarásH1697
+- Núm_22:38la p que Dios pusiere en mi boca, esaH1697
+- Núm_23:5y Jehová puso p en la boca de Balaam, yH1697
+- Núm_23:16puso p en su boca, y le dijo: Vuelve aH1697
+- Núm_23:18Balac...escucha mis p, hijo de Zipor
+- Núm_30:2hiciere juramento...no quebrantará su pH1697
+- Deu_1:1las p que habló Moisés a todo Israel aH1697
+- Deu_1:34oyó Jehová la voz de vuestras p, y seH1697
+- Deu_2:26envié mensajeros desde el...con p de pazH1697
+- Deu_4:2no añadiréis a la p que yo os mando, niH1697
+- Deu_4:10que yo les haga oír mis p, las cualesH1697
+- Deu_4:12oísteis la voz de...p, mas a excepciónH1697
+- Deu_4:36y has oído sus p de en medio del fuegoH1697
+- Deu_5:5yo estaba...para declararos la p de JehováH1697
+- Deu_5:22estas p habló Jehová...en el monte, de enH1697
+- Deu_5:28oyó Jehová la voz de vuestras p cuandoH1697
+- Deu_5:28he oído la voz de las p de este puebloH1697
+- Deu_6:6y estas p que...estarán sobre tu corazónH1697
+- Deu_9:5y para confirmar la p que Jehová juró aH1697
+- Deu_9:10las p que os habló Jehová en el monteH1697
+- Deu_10:2p que estaban en las primeras tablasH1697
+- Deu_11:18pondréis estas mis p en vuestro corazónH1697
+- Deu_12:28escucha todas estas p que yo te mandoH1697
+- Deu_13:3no darás oído a las p de tal profeta, niH1697
+- Deu_16:19ciega...y pervierte las p de los justosH1697
+- Deu_17:19para guardar todas las p de esta ley yH1697
+- Deu_18:18pondré mis p en su boca, y él...hablaráH1697
+- Deu_18:19a cualquiera que no oyere mis p que élH1697
+- Deu_18:20la presunción de hablar p en mi nombreH1697
+- Deu_18:21¿cómo conoceremos la p que Jehová noH1697
+- Deu_18:22y no se...es p que Jehová no ha habladoH1697
+- Deu_21:5la p de ellos se decidirá toda disputaH1697
+- Deu_27:3escribirás en...todas las p de esta leyH1697
+- Deu_27:8escribirás...en las piedras todas las pH1697
+- Deu_27:26el que no confirmare las p de esta leyH1697
+- Deu_28:14si no te apartares de todas las p queH1697
+- Deu_28:58poner por obra todas las p de esta leyH1697
+- Deu_29:1son las p del pacto que Jehová mandó aH1697
+- Deu_29:9guardaréis, pues, las p de este pactoH1697
+- Deu_29:19al oír las p de esta maldición, él seH1697
+- Deu_29:29que cumplamos todas las p de esta leyH1697
+- Deu_30:14muy cerca de ti está la p, en tu bocaH1697
+- Deu_31:1fue Moisés y habló estas p a todo IsraelH1697
+- Deu_31:12cuiden de cumplir...las p de esta leyH1697
+- Deu_31:24acabó...de escribir las p de esta leyH1697
+- Deu_31:28y hablaré...p, y llamaré por testigosH1697
+- Deu_31:30habló Moisés a...las p de este cánticoH1697
+- Deu_32:44y recitó todas las p de este cántico aH1697
+- Deu_32:45acabó Moisés de recitar todas estas pH1697
+- Deu_32:46aplicad vuestro corazón a todas las pH1697
+- Deu_32:46cuiden de cumplir...las p de esta leyH1697
+- Deu_33:9ellos guardaron tus p, y cumplieron tuH565
+- Jos_1:13acordaos de la p que MoisésH1697
+- Jos_1:18no obedeciere a tus p en todas las cosasH1697
+- Jos_3:9y escuchad las p de Jehová vuestro DiosH1697
+- Jos_6:10ni saldrá p de vuestra boca, hasta elH1697
+- Jos_8:8haréis conforme a la p de Jehová; miradH1697
+- Jos_8:27tomaron...conforme a la p de Jehová queH1697
+- Jos_8:34después de...leyó todas las p de la leyH1697
+- Jos_8:35no hubo p alguna...Josué no hiciese leerH1697
+- Jos_11:15Josué lo hizo, sin quitar p de todo lo
+- Jos_14:10desde el tiempo que Jehová habló estas pH1697
+- Jos_19:50según la p de Jehová...dieron la ciudadH6310
+- Jos_21:45no faltó p de...las buenas promesas que
+- Jos_22:30las p que hablaron los hijos de RubénH1697
+- Jos_23:14no ha faltado una p de...las buenas pH1697
+- Jos_23:15así como ha venido...toda p buena queH1697
+- Jos_23:15traerá Jehová sobre...toda p mala, hastaH1697
+- Jos_24:26escribió Josué estas p en el libro deH1697
+- Jos_24:27esta piedra...ha oído...las p que JehováH561
+- Jue_2:4ángel de Jehová habló estas p aH1697
+- Jue_3:19rey, una p secreta tengo que decirte
+- Jue_3:20y Aod dijo: Tengo p de Dios para ti...ElH1697
+- Jue_8:3ira...aplacó, luego que él habló esta p
+- Jue_8:8subió a Peniel, y les dijo las mismas p
+- Jue_9:3hablaron...todas estas p; y el corazón deH1697
+- Jue_9:30cuando Zebul...oyó las p de Gaal hijo deH1697
+- Jue_11:11Jefté habló...sus p delante de JehováH1697
+- Jue_11:35dado p a Jehová, y no podré retractarme
+- Jue_11:36si le has dado p a Jehová, haz de mí
+- Jue_13:12cuando tus p se cumplan; ¿cómo debe serH1697
+- Jue_13:17que cuando se cumpla tu p te honremos?
+- Jue_16:16presionándole ella cada día con sus pH1697
+- 1Sa_1:23solamente que cumpla Jehová su pH1697
+- 1Sa_2:3no multipliquéis p...cesen las p arrogantesH1697
+- 1Sa_3:1la p de Jehová escaseaba en aquellos díasH1697
+- 1Sa_3:7ni la p de Jehová le había sido reveladaH1697
+- 1Sa_3:17y Elí dijo: ¿Qué es la p que te habló?[[H1697]]
+- 1Sa_3:17me encubrieres p de todo lo que hablóH1697
+- 1Sa_3:19no dejó caer a tierra ninguna de sus pH1697
+- 1Sa_3:21manifestó a Samuel...por la p de JehováH1697
+- 1Sa_8:6pero no agradó a Samuel esta p que dijeronH1697
+- 1Sa_8:10refirió Samuel todas las p de Jehová alH1697
+- 1Sa_8:21oyó Samuel todas las p del pueblo, y lasH1697
+- 1Sa_9:27espera tú...que te declare la p de DiosH1697
+- 1Sa_11:4dijeron estas p en oídos del pueblo; yH1697
+- 1Sa_11:5contaron las p de los hombres de JabesH1697
+- 1Sa_11:6al oír Saúl estas p, el Espíritu de DiosH1697
+- 1Sa_12:14y no fuereis rebeldes a la p de JehováH6310
+- 1Sa_12:15si fuereis rebeldes a las p de JehováH6310
+- 1Sa_15:1ahora...está atento a las p de JehováH1697
+- 1Sa_15:10y vino p de Jehová a Samuel, diciendoH1697
+- 1Sa_15:11a Saúl, porque...no ha cumplido mis pH1697
+- 1Sa_15:13bendito...yo he cumplido la p de JehováH1697
+- 1Sa_15:22en que se obedezca a las p de Jehová?[[H6963]]
+- 1Sa_15:23por cuanto tú desechaste la p de JehováH1697
+- 1Sa_15:24he quebrantado...tus p, porque temí alH1697
+- 1Sa_15:26desechaste la p de Jehová, y Jehová teH1697
+- 1Sa_16:18y hombre de guerra, prudente en sus pH1697
+- 1Sa_17:11oyendo Saúl y todo...estas p del filisteoH1697
+- 1Sa_17:23salió de las filas...y habló las mismas pH1697
+- 1Sa_17:27y el pueblo le respondió las mismas pH1697
+- 1Sa_17:31fueron oídas...p que David había dichoH1697
+- 1Sa_18:23hablaron estas p a los oídos de DavidH1697
+- 1Sa_18:24los criados de...Tales p ha dicho DavidH1697
+- 1Sa_18:26sus siervos declararon a David estas pH1697
+- 1Sa_19:7llamó Jonatán...le declaró todas estas pH1697
+- 1Sa_21:12David puso en su corazón estas p, y tuvoH1697
+- 1Sa_24:7así reprimió David a sus hombres con pH1697
+- 1Sa_24:9¿Por qué oyes las p de los que dicenH1697
+- 1Sa_24:16David acabó de decir estas p a SaúlH1697
+- 1Sa_25:9dijeron a Nabal...p en nombre de DavidH1697
+- 1Sa_25:12y vinieron y dijeron a David...estas pH1697
+- 1Sa_25:24permitas, y escucha las p de tu siervaH1697
+- 1Sa_26:19el rey...oiga ahora las p de su siervoH1697
+- 1Sa_28:20y tuvo gran temor por las p de SamuelH1697
+- 1Sa_28:21y he oído las p que tú me has dichoH1697
+- 2Sa_3:8se enojó Abner...por las p de Is-bosetH1697
+- 2Sa_3:11no pudo responder p a Abner...le temíaH1697
+- 2Sa_7:4que vino p de Jehová a Natán, diciendoH1697
+- 2Sa_7:7¿he hablado yo p a alguna de las tribusH1697
+- 2Sa_7:17conforme a todas estas p...habló Natán aH1697
+- 2Sa_7:21todas estas grandezas has hecho por tu pH1697
+- 2Sa_7:25confirma...siempre la p que has habladoH1697
+- 2Sa_7:28y tus p son verdad, y tú has prometidoH1697
+- 2Sa_12:9¿por qué, pues, tuviste en poco la p deH1697
+- 2Sa_14:3hablarás...Y puso Joab las p en su bocaH1697
+- 2Sa_14:12tu sierva hable una p a mi señor el reyH1697
+- 2Sa_14:13hablando...esta p, se hace culpable élH1697
+- 2Sa_14:19él puso en boca de tu sierva...estas pH1697
+- 2Sa_15:3decía: Mira, tus p son buenas y justasH1697
+- 2Sa_16:23era como si se consultase la p de DiosH1697
+- 2Sa_19:11cuando la p de todo Israel ha venido alH1697
+- 2Sa_19:29el rey le dijo: ¿Para qué más p? Yo heH1697
+- 2Sa_19:43las p de...Judá fueron más violentas queH1697
+- 2Sa_20:17ella le dijo: Oye las p de tu siervaH1697
+- 2Sa_22:1habló David...las p de este cántico, elH1697
+- 2Sa_22:31perfecto...y acrisolada la p de JehováH565
+- 2Sa_23:1estas son las p postreras de David. DijoH1697
+- 2Sa_23:2ha hablado...y su p estado en mi lenguaH4405
+- 2Sa_24:4pero la p del rey prevaleció sobre JoabH1697
+- 2Sa_24:11p de Jehová al profeta Gad, vidente deH1697
+- 1Re_2:4confirme Jehová la p que me hablóH1697
+- 1Re_2:14dijo: Una p tengo que decirte. Y ella
+- 1Re_2:23contra su vida ha hablado Adonías esta pH1697
+- 1Re_2:27para que se cumpliese la p de Jehová queH1697
+- 1Re_2:38Simei dijo al rey: La p es buena; comoH1697
+- 1Re_2:42dijiste: La p es buena, yo la obedezcoH1697
+- 1Re_3:12he hecho conforme a tus p...te he dadoH1697
+- 1Re_5:7Hiram oyó las p de Salomón, se alegró enH1697
+- 1Re_6:11y vino p de Jehová a Salomón, diciendoH1697
+- 1Re_6:12cumpliré contigo mi p que hablé a DavidH1697
+- 1Re_8:20Jehová ha cumplido su p que había dichoH1697
+- 1Re_8:26cúmplase la p que dijiste a tu siervoH1697
+- 1Re_8:56ninguna p de todas sus promesas...faltadoH1697
+- 1Re_8:59estas mis p con...estén cerca de JehováH1697
+- 1Re_12:7y respondiéndoles buenas p les hablaresH1697
+- 1Re_12:10a este pueblo que te ha dicho estas pH1696
+- 1Re_12:15para confirmar la p que Jehová habíaH1696
+- 1Re_12:16respondió estas p, diciendo: ¿Qué parte
+- 1Re_12:22pero vino p de Jehová a Semaías varón deH1697
+- 1Re_12:24ellos oyeron la p de Dios, y volvieronH1697
+- 1Re_12:24y se fueron, conforme a la p de JehováH1697
+- 1Re_13:1un varón de Dios por p de Jehová vino deH1697
+- 1Re_13:2clamó...por p de Jehová y dijo: AltarH1697
+- 1Re_13:4rey Jeroboam oyó la p del varón de DiosH1697
+- 1Re_13:5la señal que...había dado por p de JehováH1697
+- 1Re_13:9así me está ordenado por p de JehováH1697
+- 1Re_13:11le contaron...p que había hablado el reyH1697
+- 1Re_13:17porque por p de Dios me ha sido dichoH1697
+- 1Re_13:18un ángel me ha hablado por p de JehováH1697
+- 1Re_13:20vino p de Jehová al profeta que le habíaH1697
+- 1Re_13:26conforme a la p de Jehová que...le dijoH6310
+- 1Re_13:32lo que él dijo a voces por p de JehováH1697
+- 1Re_14:18lo endechó...conforme a la p de JehováH1697
+- 1Re_15:29conforme a la p que Jehová habló por suH1697
+- 1Re_16:1vino p de Jehová a Jehú hijo de HananiH1697
+- 1Re_16:7la p de Jehová...había sido contra BaasaH1697
+- 1Re_16:12la p que Jehová había proferido contraH1697
+- 1Re_16:34la p que Jehová había hablado por JosuéH1697
+- 1Re_17:1no habrá lluvia ni rocío...sino por mi pH1697
+- 1Re_17:2, 1Re_17:8vino a él p de Jehová, diciendoH1697
+- 1Re_17:5él fue e hizo conforme a la p de JehováH1697
+- 1Re_17:16conforme a la p...había dicho por ElíasH1697
+- 1Re_17:24que la p de Jehová es verdad en tu bocaH1697
+- 1Re_18:1vino p de Jehová a Elías en el tercer añoH1697
+- 1Re_18:21y si Baal...Y el pueblo no respondió pH1697
+- 1Re_18:31al cual había sido dada p de JehováH1697
+- 1Re_19:9vino a él p de Jehová, el cual le dijoH1697
+- 1Re_20:12y cuando él oyó esta p, estaba bebiendoH1697
+- 1Re_20:33se apresuraron a tomar la p de su boca
+- 1Re_20:35dijo a su...por p de Dios: Hiéreme ahoraH1697
+- 1Re_20:36por cuanto no has obedecido a la p deH6963
+- 1Re_21:4triste y enojado, por la p que Nabot deH1697
+- 1Re_21:17, 1Re_21:28vino p de Jehová a Elías tisbitaH1697
+- 1Re_21:27Acab oyó estas p, rasgó sus vestidos yH1697
+- 1Re_22:5ruego que consultes hoy la p de JehováH1697
+- 1Re_22:13p de los profetas a una voz anuncianH1697
+- 1Re_22:13sea ahora tu p conforme a la p de ellosH1697
+- 1Re_22:19oye, pues, p de Jehová: Yo vi a JehováH1697
+- 1Re_22:38conforme a la p...Jehová había habladoH1697
+- 2Re_1:7¿Cómo era aquel varón dijo tales p?[[H1697]]
+- 2Re_1:16¿no hay Dios en...para consultar en su p?[[H1697]]
+- 2Re_1:17y murió conforme a la p de Jehová, queH1697
+- 2Re_2:22sanas las aguas...la p que habló EliseoH1697
+- 2Re_3:12y Josafat dijo: Este tendrá p de JehováH1697
+- 2Re_4:44y les sobró, conforme a la p de JehováH1697
+- 2Re_5:14Jordán, conforme a la p del varón de DiosH1697
+- 2Re_6:12el cual declara al rey de Israel las pH1697
+- 2Re_6:30cuando el rey oyó las p de aquella mujerH1697
+- 2Re_7:1dijo...Oíd p de Jehová: Así dijo JehováH1697
+- 2Re_7:16por un siclo, conforme a la p de JehováH1697
+- 2Re_9:5dijo: Príncipe, una p tengo que decirte
+- 2Re_9:11dijo: Vosotros conocéis al hombre y sus pH7879
+- 2Re_9:26échalo en la...conforme a la p de JehováH1697
+- 2Re_9:36esta es la p de Dios, la cual él hablóH1697
+- 2Re_10:10la p que Jehová habló sobre la...de AcabH1697
+- 2Re_10:17mató a todos...conforme a la p de JehováH1697
+- 2Re_14:25restauró los...conforme a la p de JehováH1697
+- 2Re_15:12fue la p de Jehová que había hablado aH1697
+- 2Re_18:20tú dices (pero son p vacías): ConsejoH1697
+- 2Re_18:27decir estas p a ti y a tu señor, y no aH1697
+- 2Re_18:28oíd la p del gran rey, el rey de AsiriaH1697
+- 2Re_18:36pero el pueblo calló, y no le respondió pH1697
+- 2Re_18:37vinieron...le contaron las p del RabsacesH1697
+- 2Re_19:4oirá Jehová tu Dios las p del RabsacesH1697
+- 2Re_19:4para vituperar con p, las cuales JehováH1697
+- 2Re_19:6no temas por las p que has oído, con lasH1697
+- 2Re_19:16las p de Senaquerib, que ha enviado aH1697
+- 2Re_19:21esta es la p que Jehová ha pronunciadoH1697
+- 2Re_20:4vino p de Jehová a Isaías, diciendoH1697
+- 2Re_20:16Isaías dijo a Ezequías: Oye p de JehováH1697
+- 2Re_20:19p de Jehová que has hablado, es buenaH1697
+- 2Re_22:11rey hubo oído las p del libro de la leyH1697
+- 2Re_22:13y preguntad a...de las p de este libroH1697
+- 2Re_22:13no escucharon las p de este libro, paraH1697
+- 2Re_22:18al rey de Judá...por cuanto oíste las pH1697
+- 2Re_23:2leyó...todas las p del libro del pactoH1697
+- 2Re_23:3cumplirían las p del pacto...aquel libroH1697
+- 2Re_23:16a la p de Jehová que había profetizadoH1697
+- 2Re_23:24cumplir las p de la ley...escritas en elH1697
+- 2Re_24:2p de Jehová que había hablado por susH1697
+- 1Cr_10:13prevaricó...contra la p de JehováH1697
+- 1Cr_11:3ungieron a David por rey...conforme a la pH1697
+- 1Cr_11:10para hacerle rey sobre...conforme a la pH1697
+- 1Cr_12:23el reino de Saúl, conforme a la p deH6310
+- 1Cr_15:15el arca de...conforme a la p de JehováH6310
+- 1Cr_16:15de su pacto...la p que él mandó para milH6310
+- 1Cr_17:3noche vino p de Dios a Natán, diciendoH6310
+- 1Cr_17:6¿hablé una p a alguno de los jueces deH6310
+- 1Cr_17:15conforme a todas estas p...habló NatánH6310
+- 1Cr_17:23p que has hablado...firme para siempreH1697
+- 1Cr_21:19David subió, conforme a la p que GadH1697
+- 1Cr_22:8vino a mí p de Jehová, diciendo: Tú hasH1697
+- 1Cr_23:27conforme a las postreras p de David, seH1697
+- 2Cr_1:9confírmese...p dada a David mi padre
+- 2Cr_6:10Jehová ha cumplido su p que había dichoH1697
+- 2Cr_6:17cúmplase tu p que dijiste a tu siervoH1697
+- 2Cr_9:6yo no creía las p de ellos, hasta que heH1697
+- 2Cr_10:7les agradares, y les hablares buenas pH1697
+- 2Cr_10:15Jehová cumpliera la p que había habladoH1697
+- 2Cr_11:2vino p de Jehová a Semaías varón de DiosH1697
+- 2Cr_11:4ellos oyeron la p de Jehová y se volvieronH1697
+- 2Cr_12:7vino p de Jehová a Semaías, diciendo: SeH1697
+- 2Cr_15:8cuando oyó Asa las p y la profecía delH1697
+- 2Cr_18:4ruego que consultes hoy la p de JehováH1697
+- 2Cr_18:12las p de los profetas...anuncian al reyH1697
+- 2Cr_18:12te ruego que tu p sea como la de uno deH1697
+- 2Cr_18:18oíd, pues, p de Jehová: Yo he visto aH1697
+- 2Cr_20:34están escritos en las p de Jehú hijo de
+- 2Cr_29:15entraron, conforme al...las p de JehováH1697
+- 2Cr_29:30que alabasen...con las p de David y deH1697
+- 2Cr_30:12para cumplir...conforme a la p de JehováH1697
+- 2Cr_32:8y el pueblo tuvo confianza en las p deH1697
+- 2Cr_33:18hechos de Manasés, y...p de los videntesH1697
+- 2Cr_33:19están escritas en las p de los videntesH1697
+- 2Cr_34:19luego que el rey oyó las p de la leyH1697
+- 2Cr_34:21de las p del libro que se ha halladoH1697
+- 2Cr_34:21nuestros padres no guardaron la p deH1697
+- 2Cr_34:22a Hulda...le dijeron las p antes dichasH1696
+- 2Cr_34:26así: Por cuanto oíste las p del libroH1697
+- 2Cr_34:27conmovió...al oír sus p sobre este lugarH1697
+- 2Cr_34:30leyó...p del libro del pacto que habíaH1697
+- 2Cr_34:31poniendo por obra las p del pacto queH1697
+- 2Cr_35:6hagan conforme a la p de Jehová dada porH1697
+- 2Cr_35:22mas Josías...no atendió a las p de NecaoH1697
+- 2Cr_36:15Dios...envió...p a ellos por medio de sus
+- 2Cr_36:16menospreciaban sus p, burlándose de susH1697
+- 2Cr_36:21-22para que se cumpliese la p de JehováH1697
+- 2Cr_36:22; Esd_1:1Ciro rey...hizo pregonar de pH1697
+- Esd_1:1para que se cumpliese la p de JehováH1697
+- Esd_8:17las p que habían de hablar a Iddo, y aH3318
+- Esd_9:4los que temían las p del Dios de IsraelH3318
+- Esd_10:12alta voz: Así se haga conforme a tu pH1697
+- Neh_1:1p de Nehemías...Aconteció en el mesH1697
+- Neh_1:4oí estas p me senté y lloré, e hice dueloH1697
+- Neh_1:8acuérdate...de la p que diste a Moisés tuH1697
+- Neh_2:18declaré...las p que el rey me había dichoH1697
+- Neh_5:6me enojé...cuando oí su clamor y estas pH1697
+- Neh_6:6la mira, según estas p, de ser tú su reyH1697
+- Neh_6:7y ahora serán oídas del rey las tales pH1697
+- Neh_6:19las obras de él, y a él le referían mis pH1697
+- Neh_8:9el pueblo lloraba oyendo las p de la leyH1697
+- Neh_8:12habían entendido las p que les habíanH1697
+- Neh_8:13se reunieron...entender las p de la leyH1697
+- Neh_9:8pacto...cumpliste tu p, porque eres justoH1697
+- Est_1:21agradó esta p a los ojos del rey y deH1697
+- Est_4:9vino Hatac y contó a...las p de MardoqueoH1697
+- Est_4:12y dijeron a Mardoqueo las p de EsterH1697
+- Est_7:8al proferir el rey esta p, le cubrieronH1697
+- Est_9:26debido a las p de esta carta, y por loH1697
+- Est_9:30fueron enviadas cartas...con p de paz yH1697
+- Job_2:13así se sentaron...y ninguno le hablaba pH1697
+- Job_4:2te será...pero ¿quién podrá detener las p?[[H4405]]
+- Job_4:4al que tropezaba enderezaban tus p, yH4405
+- Job_6:3mar; por eso mis p han sido precipitadasH1697
+- Job_6:10que yo no he escondido las p del SantoH561
+- Job_6:25¡cuán eficaces son las p rectas! PeroH561
+- Job_6:26¿pensáis censurar p, y los discursos deH561
+- Job_8:2y las p de tu boca serán como vientoH561
+- Job_8:10te hablarán, y de su corazón sacarán p?[[H4405]]
+- Job_9:14¿cuánto menos...yo, y con él p escogidas?[[H1697]]
+- Job_11:2¿las muchas p no han de tener respuesta?[[H1697]]
+- Job_12:11el oído distingue las p, y el paladarH4405
+- Job_15:3¿disputará con p inútiles, y con razonesH4405
+- Job_15:11y las p que con dulzura se te dicen?[[H1697]]
+- Job_15:13vuelvas...y saques tales p de tu boca?[[H4405]]
+- Job_16:3¿tendrán fin...p vacías? ¿O qué te animaH1697
+- Job_16:4yo podría hilvanar contra vosotros p, yH4405
+- Job_16:5os alentaría con mis p, y la consolación
+- Job_18:2¿cuándo pondréis fin a las p? EntendedH4405
+- Job_19:2¿hasta cuándo...y me moleréis con p?[[H4405]]
+- Job_19:23¡quién diese...que mis p fuesen escritas![[H4405]]
+- Job_20:29la heredad que Dios le señala por su pH4405
+- Job_21:2oíd atentamente mi p, y sea...el consueloH4405
+- Job_22:22de su boca, y pon sus p en tu corazónH561
+- Job_23:12guardé...p de su boca más que mi comidaH561
+- Job_24:25si no, ¿quién...reducirá a nada mis p?[[H561]]
+- Job_26:4¿a quién has anunciado p, y de quién esH4405
+- Job_29:9los príncipes detenían sus p; ponían laH4405
+- Job_29:22tras mi p no replicaban, y mi razónH4405
+- Job_31:40me nazcan...Aquí terminan las p de JobH1697
+- Job_32:11he esperado...en tanto que buscabais pH1697
+- Job_32:14Job no dirigió contra mí sus p, ni yoH561
+- Job_32:18porque lleno estoy de p, y me apremiaH4405
+- Job_33:1Job, oye ahora...y escucha todas mis pH1697
+- Job_33:5respóndeme...ordena tus p, ponte en pie
+- Job_33:8dijiste...oí la voz de tus p que decíanH4405
+- Job_34:2oíd, sabios, mis p; y vosotros, doctosH4405
+- Job_34:3el oído prueba las p, como el paladarH4405
+- Job_34:16pues...oye esto; escucha la voz de mis pH4405
+- Job_34:35y que sus p no son con entendimientoH1697
+- Job_34:37pecado...y contra Dios multiplica sus pH561
+- Job_35:16Job abre...y multiplica p sin sabiduríaH4405
+- Job_36:4porque de cierto no son mentira mis pH4405
+- Job_38:2ése que oscurece...con p sin sabiduría?[[H4405]]
+- Job_42:7después que habló Jehová estas p a JobH1697
+- Sal_5:1escucha, oh Jehová, mis p; consideraH561
+- Sal 7 tít.acerca de...p de Cus hijo de BenjamínH1697
+- Sal_12:6las p de Jehová son p limpias, como plataH565
+- Sal_17:4por la p de tus labios yo me he guardadoH1697
+- Sal_17:6Dios; inclina a mí tu oído, escucha mi pH565
+- 18 tít.dirigió a Jehová las p de este cánticoH1697
+- Sal_18:30acrisolada la p de Jehová; escudo es aH565
+- Sal_19:2un día emite p a otro día, y una nocheH562
+- Sal_19:3no hay lenguaje, ni p, ni es oída su vozH562
+- Sal_19:4voz, y hasta el extremo del mundo sus pH4405
+- Sal_22:1estás tan lejos...de las p de mí clamor?[[H1697]]
+- Sal_33:4porque recta es la p de Jehová, y todaH1697
+- Sal_33:6la p de Jehová fueron hechos los cielosH1697
+- Sal_35:20contra los mansos...piensan p engañosas
+- Sal_36:3las p de su boca son iniquidad y fraudeH1697
+- Sal_45:1rebosa mi corazón p buena; dirijo al reyH1697
+- Sal_45:4cabalga sobre p de verdad, de humildad
+- Sal_50:17aborreces...y echas a tu espalda mis pH1697
+- Sal_51:4para que seas reconocido justo en tu pH1696
+- Sal_52:4has amado toda suerte de p perniciosasH1697
+- Sal_55:21suaviza sus p más que el aceite, mas
+- Sal_56:4en Dios alabaré su p; en...he confiadoH1697
+- Sal_56:10alabaré su p; en Jehová su p alabaréH1697
+- Sal_59:12la p de sus labios, sean ellos presosH1697
+- Sal_64:3que...lanzan cual saeta suya, p amargaH1697
+- Sal_68:11el Señor daba p; había grande multitudH1697
+- Sal_78:1inclinad vuestro oído a las p de mi bocaH561
+- Sal_103:20que ejecutáis su p, obedeciendo a laH1697
+- Sal_105:8se acordó...de la p que mandó para milH1697
+- Sal_105:19hasta la hora que se cumplió su p, elH1697
+- Sal_105:27puso en ellos las p de sus señales, y
+- Sal_105:28tinieblas...no fueron rebeldes a su pH1697
+- Sal_105:42se acordó de su santa p dada a AbrahamH1697
+- Sal_106:12creyeron a...p y cantaron su alabanzaH1697
+- Sal_106:24aborrecieron la...no creyeron a su pH1697
+- Sal_107:11fueron rebeldes a las p de Jehová, yH561
+- Sal_107:20envió su p, y los sanó, y los libró deH1697
+- Sal_109:3con, p de odio me han rodeado, y pelearonH1697
+- Sal_119:9¿con qué limpiará el...Con guardar tu pH1697
+- Sal_119:16tus estatutos; no me olvidaré de tus pH1697
+- Sal_119:17Haz bien a tu siervo; que viva, y guarde tu pH1697
+- Sal_119:25abatida...alma; vivifícame según tu pH1697
+- Sal_119:28se deshace mi...susténtame según tu pH1697
+- Sal_119:38confirma tu p a tu siervo, que te temeH565
+- Sal_119:42por respuesta...que en tu p he confiadoH1697
+- Sal_119:43no quites de mi boca...la p de verdadH1697
+- Sal_119:49acuérdate de la p dada a tu siervo, enH1697
+- Sal_119:57es Jehová; he dicho que guardaré tus pH1697
+- Sal_119:58ten misericordia de mí según tu pH565
+- Sal_119:65bien has hecho con tu...conforme a tu pH1697
+- Sal_119:67descarriado andaba...ahora guardo tu pH565
+- Sal_119:74me verán...porque en tu p he esperadoH1697
+- Sal_119:81desfallece mi alma...mas espero en tu pH1697
+- Sal_119:82desfallecieron...ojos por tu p, diciendoH565
+- Sal_119:89siempre...permanece tu p en los cielosH1697
+- Sal_119:101contuve mis pies, para guardar tu pH1697
+- Sal_119:103¡cuán dulces son a mi paladar tus p![[H565]]
+- Sal_119:105lámpara es a mis pies tu p, y lumbreraH1697
+- Sal_119:107vivifícame, oh Jehová, conforme a...pH1697
+- Sal_119:114escudo eres tú; en tu p he esperadoH1697
+- Sal_119:116susténtame conforme a tu p, y viviréH565
+- Sal_119:123mis ojos desfallecieron...por la p deH565
+- Sal_119:130la exposición de tus p alumbra; haceH1697
+- Sal_119:133ordena mis pasos con tu p, y ningunaH565
+- Sal_119:139mis enemigos se olvidaron de tus pH1697
+- Sal_119:140sumamente pura es tu p, y la ama tuH565
+- Sal_119:147me anticipé al alba y...esperé en tu pH1697
+- Sal_119:154defiende...causa...vivifícame con tu pH565
+- Sal_119:158y me disgustaba...no guardaban tus pH565
+- Sal_119:160la suma de tu p es verdad, y eternoH1697
+- Sal_119:161pero mi corazón tuvo temor de tus pH1697
+- Sal_119:162regocijo en tu p como el que hallaH565
+- Sal_119:169dame entendimiento conforme a tu pH1697
+- Sal_130:5esperó mi alma; en su p he esperadoH1697
+- Sal_138:2has engrandecido...tu p sobre todas lasH565
+- Sal_139:4aún no está la p en mi lengua, y he aquíH4405
+- Sal_141:6serán...y oirán mis p, que son verdaderasH561
+- Sal_147:15él envía su p...velozmente corre su pH1697
+- Sal_147:18enviará su p, y los derretirá...aguasH1697
+- Sal_147:19ha manifestado sus p a Jacob...a IsraelH1697
+- Sal_148:8viento de tempestad que ejecuta su pH1697
+- Pro_1:6p de sabios, y sus dichos profundosH1697
+- Pro_1:23yo derramaré mi...y os haré saber mis pH1697
+- Pro_2:1si recibieres mis p, y mis mandamientosH561
+- Pro_2:16extraña...la ajena que halaga con sus pH561
+- Pro_4:20hijo mío, está atento a mis p; inclinaH1697
+- Pro_6:1hijo...si has empeñado tu p a un extraño
+- Pro_6:2te has enlazado con las p de tu boca, yH561
+- Pro_7:5ajena, y de la extraña que ablanda sus pH561
+- Pro_7:21rindió con la suavidad de sus muchas pH3948
+- Pro_10:19en las muchas p no falta pecado; mas elH1697
+- Pro_12:6las p de los impíos son asechanzas paraH1697
+- Pro_12:18hay hombres cuyas p son como golpes deH981
+- Pro_12:25lo abate; mas la buena p lo alegraH1697
+- Pro_13:5el justo aborrece la p de mentira; mas
+- Pro_14:23las vanas p de los labios empobrecenH1697
+- Pro_15:1ira; mas la p áspera hace subir el furorH1697
+- Pro_15:23y la p a su tiempo, ¡cuán buena es![[H1697]]
+- Pro_16:20el entendido en la p hallará el bienH1697
+- Pro_17:27el que ahorra sus p tiene sabiduríaH561
+- Pro_18:4aguas profundas son las p de la boca delH1697
+- Pro_18:8p del chismoso son como bocados suavesH1697
+- Pro_18:13al que responde p antes de oír, le esH1697
+- Pro_19:7alejarán...buscará la p, y no la hallaráH561
+- Pro_22:17y oye las p de los sabios, y aplica tuH1697
+- Pro_22:21hacerte saber la certidumbre de las pH561
+- Pro_22:21vuelvas a llevar p de verdad a los queH561
+- Pro_23:8vomitarás la...y perderás tus suaves pH1697
+- Pro_23:12aplica...tus oídos a las p de sabiduríaH561
+- Pro_24:26los labios del que responde p rectasH1697
+- Pro_25:11de oro con...es la p dicha como convieneH1697
+- Pro_26:22p del chismoso son como bocados suavesH1697
+- Pro_29:12un gobernante atiende la p mentirosa
+- Pro_29:19el siervo no se corrige con p; porqueH1697
+- Pro_29:20¿has visto hombre ligero en sus p? MásH1697
+- Pro_30:1p de Agur, hijo de Jaqué; la profecíaH1697
+- Pro_30:5toda p de Dios es limpia; él es escudoH565
+- Pro_30:6no añadas a sus p...que no te reprendaH1697
+- Pro_30:8vanidad y p mentirosa aparta de mí; no
+- Pro_31:1p del rey Lemuel; la profecía con queH1697
+- Ecl_1:1p del Predicador, hijo de David, reyH1697
+- Ecl_5:2ni...se apresure a proferir p delante deH1697
+- Ecl_5:2no te des...por tanto, sean pocas tus pH1697
+- Ecl_5:3de la multitud de las p la voz del necioH1697
+- Ecl_5:7abundan las vanidades y las muchas p; masH1697
+- Ecl_6:11las muchas p multiplican la vanidad. ¿QuéH1697
+- Ecl_8:2que guardes...la p del juramento de DiosH6310
+- Ecl_8:4la p del rey es con potestad, ¿y quién leH1697
+- Ecl_9:16la ciencia...y no sean escuchadas sus pH1697
+- Ecl_9:17p del sabio...son mejores que el clamorH1697
+- Ecl_10:12las p...del sabio son llenas de graciaH1697
+- Ecl_10:13el principio de las p de su...es necedadH1697
+- Ecl_10:14el necio multiplica p, aunque no sabeH1697
+- Ecl_10:20y las que tienen alas harán saber la pH1697
+- Ecl_12:10hallar p agradables, y...p de verdadH1697
+- Ecl_12:11las p de los sabios son como aguijonesH1697
+- Isa_1:10príncipes de Sodoma, oíd...p de JehováH1697
+- Isa_2:3de Sion saldrá la ley, y de Jerusalén la pH1697
+- Isa_5:24y abominaron la p del Santo de IsraelH565
+- Isa_8:10proferid p, y no será firme, porque DiosH1697
+- Isa_9:8Señor envió p a Jacob, y cayó en IsraelH1697
+- Isa_16:13la p que pronunció Jehová sobre MoabH1697
+- Isa_24:3porque Jehová ha pronunciado esta pH1697
+- Isa_28:13p, pues, de Jehová les será mandamientoH1697
+- Isa_28:14varones burladores...oíd la p de JehováH1697
+- Isa_29:11y os será toda visión como p de libroH1697
+- Isa_29:18los sordos oirán las p del libro, y losH1697
+- Isa_29:21los que hacen pecar al hombre en p; losH1697
+- Isa_30:12desechasteis esta p, y confiasteis enH1697
+- Isa_30:21oídos oirán a tus espaldas p que digaH1697
+- Isa_31:2y traerá el mal, y no retirará sus pH1697
+- Isa_32:7enredar a los simples con p mentirosasH1697
+- Isa_36:5que tú hablas, no son más que p vacíasH1697
+- Isa_36:12¿acaso me envié...a que dijese estas p aH1697
+- Isa_36:13oíd las p del gran rey, el rey de AsiríaH1697
+- Isa_36:21ellos callaron, y no le respondieron pH1697
+- Isa_36:22vinieron a Ezequías...le contaron las pH1697
+- Isa_37:4oirá Jehová tu Dios las p del RabsacesH1697
+- Isa_37:4para vituperar con las p que oyó JehováH1697
+- Isa_37:6no temas por las p que has oído, con lasH1697
+- Isa_37:17oye todas las p de Senaquerib, que haH1697
+- Isa_37:22estas son las p que Jehová habló contraH1697
+- Isa_38:4vino p de Jehová a Isaías, diciendoH1697
+- Isa_39:5dijo...Oye p de Jehová de los ejércitosH1697
+- Isa_39:8la p de Jehová que has hablado es buenaH1697
+- Isa_40:8mas la p del Dios nuestro permanece paraH1697
+- Isa_41:26cierto...no hay quien oiga vuestras pH561
+- Isa_41:28miré...les pregunté, y no respondieron pH1697
+- Isa_44:26el que despierta la p de su siervo, yH1697
+- Isa_45:23de mi boca salió p en justicia, y noH1697
+- Isa_50:4lengua de sabios, para saber hablar p alH1697
+- Isa_51:16en tu boca he puesto mis p, y con laH1697
+- Isa_55:11así será mi p que sale de mi boca; hoH1697
+- Isa_58:13ni buscando...ni hablando tus propias pH1697
+- Isa_59:13y proferir de corazón p de mentiraH1697
+- Isa_59:21mis p que puse en tu boca, no faltaránH1697
+- Isa_66:2pobre y humilde...y que tiembla a mi pH1697
+- Isa_66:5oíd p de Jehová...los que tembláis a su pH1697
+- Jer_1:1p de Jeremías hijo de Hilcías, de losH1697
+- Jer_1:2p de Jehová que le vino en los días deH1697
+- Jer_1:4vino, pues, p de Jehová a mí, diciendoH1697
+- Jer_1:9me dijo...aquí he puesto mis p en tu bocaH1697
+- Jer_1:11p de Jehová vino a mí, diciendo: ¿QuéH1697
+- Jer_1:12yo apresuro mi p para ponerla por obraH1697
+- Jer_1:13vino a...la p de Jehová por segunda vezH1697
+- Jer_2:1; Jer_13:8; Jer_16:1; Jer_18:5; Jer_24:4vino a mí p de JehováH1697
+- Jer_2:4oíd la p de Jehová, casa de Jacob, y todasH1697
+- Jer_2:31atended vosotros a la p de Jehová. ¿HeH1697
+- Jer_3:12vé y clama estas p hacia el norte, y diH1697
+- Jer_5:13como viento, porque no hay en ellos pH1697
+- Jer_5:14dijeron esta p, he aquí yo pongo mis pH1697
+- Jer_6:10la p de Jehová les es cosa vergonzosaH1697
+- Jer_6:19no escucharon mis p, y aborrecieronH1697
+- Jer_7:1; Jer_11:1; Jer_14:1; Jer_18:1; Jer_21:1; Jer_30:1; Jer_32:1; Jer_34:1, Jer_34:8; Jer_35:1; Jer_40:1; Jer_46:1; Jer_47:1; Jer_49:34p de Jehová que vino a JeremíasH1697
+- Jer_7:2y proclama allí esta p, y di: Oíd p deH1697
+- Jer_7:4no fiéis en p...mentira, diciendo: TemploH1697
+- Jer_7:8he aquí, vosotros confiáis en p de mentiraH1697
+- Jer_7:27dirás todas estas p, pero no te oiránH1697
+- Jer_8:9he aquí que aborrecieron la p de JehováH1697
+- Jer_9:20oíd, pues, oh mujeres, p de Jehová, yH1697
+- Jer_9:20y vuestro oído reciba la p de su bocaH1697
+- Jer_10:1oíd la p que Jehová ha hablado...IsraelH1697
+- Jer_11:2oíd las p de este pacto, y hablad a todoH1697
+- Jer_11:3maldito el...que no obedeciere las p deH1697
+- Jer_11:4oíd mi voz, y cumplid mis p, conforme a
+- Jer_11:6pregona todas estas p en las ciudades deH1697
+- Jer_11:6oíd las p de este pacto, y ponedlas porH1697
+- Jer_11:8traeré sobre ellos todas las p de...pactoH1697
+- Jer_11:10los cuales no quisieron escuchar mis pH1697
+- Jer_13:2y compré el cinto conforme a la p deH1697
+- Jer_13:3a mí segunda vez p de Jehová, diciendoH1697
+- Jer_13:10pueblo malo, que no quiere oír mis pH1697
+- Jer_13:12les dirás, pues, esta p...Toda tinaja seH1697
+- Jer_14:17les dirás, pues, esta p: Derramen misH1697
+- Jer_15:16fueron halladas tus p, y yo las comíH1697
+- Jer_15:16tu p me fue por gozo y por alegría deH1697
+- Jer_17:15me dicen: ¿Dónde está la p de Jehová?[[H1697]]
+- Jer_17:20y diles: Oíd la p de Jehová, reyes deH1697
+- Jer_18:2levántate y vete a...te haré oír mis pH1697
+- Jer_18:18la ley no faltará...ni la p al profetaH1697
+- Jer_18:18venid y no atendamos a ninguna de sus pH1697
+- Jer_19:2proclamarás allí las p que yo te hablaréH1697
+- Jer_19:3dirás, pues: Oíd p de Jehová, oh reyesH1697
+- Jer_19:15han endurecido su...para no oír mis pH1697
+- Jer_20:1oyó a Jeremías que profetizaba estas pH1697
+- Jer_20:8la p de Jehová me ha sido para afrentaH1697
+- Jer_21:11a la casa del rey de...Oíd p de JehováH1697
+- Jer_22:1a la casa del rey...y habla allí esta pH1697
+- Jer_22:2y di: Oye p de Jehová, oh rey de JudáH1697
+- Jer_22:4si...obedeciereis esta p, los reyes queH1697
+- Jer_22:5si no oyereis estas p, por mí mismo heH1697
+- Jer_22:29¡tierra...tierra! oye p de JehováH1697
+- Jer_23:9delante de Jehová, y...de sus santas pH1697
+- Jer_23:16no escuchéis las p de los profetas queH1697
+- Jer_23:18¿quién estuvo en el secreto...oyó su p?[[H1697]]
+- Jer_23:18¿quién estuvo atento a su p, y la oyóH1697
+- Jer_23:22habrían hecho oír mis p a mi pueblo, yH1697
+- Jer_23:28aquel a quien fuere mi p, cuente mi pH1697
+- Jer_23:29¿no es mi p como fuego...como martilloH1697
+- Jer_23:30contra los profetas...que hurtan mis pH1697
+- Jer_23:36la p de cada uno le será por profecíaH1697
+- Jer_23:36pervertisteis las p del Dios vivienteH1697
+- Jer_23:38porque dijisteis esta p, Profecía deH1697
+- Jer_25:1p que vino a Jeremías acerca de...puebloH1697
+- Jer_25:3venido a mi p de Jehová, y he habladoH1697
+- Jer_25:8dicho...por cuanto no habéis oído mis pH1697
+- Jer_25:13y traeré sobre aquella tierra...mis pH1697
+- Jer_25:30profetizarás contra ellos todas estas pH1697
+- Jer_26:1del reinado de...vino esta p de JehováH1697
+- Jer_26:2habla...p que yo te mandé...no retengas pH1697
+- Jer_26:5para atender a las p de mis siervos losH1697
+- Jer_26:7oyeron a Jeremías hablar estas p en laH1697
+- Jer_26:12envió a profetizar...p que habéis oídoH1697
+- Jer_26:15me envió...para que dijese todas estas pH1697
+- Jer_26:20profetizó...conforme a...las p de JeremíasH1697
+- Jer_26:21oyeron sus p el rey Joacim y todos susH1697
+- Jer_27:12conforme...estas p, diciendo: SometedH1697
+- Jer_27:14no oigáis las p de los profetas que osH1697
+- Jer_27:16no oigáis las p de vuestros profetas queH1697
+- Jer_27:18si está con ellos la p de Jehová, orenH1697
+- Jer_28:6confirme Jehová tus p, con las cualesH1697
+- Jer_28:7oye...esta p que yo hablo en tus oídos yH1697
+- Jer_28:9cuando se cumpla la p del profeta, seráH1697
+- Jer_29:1p de la carta que el profeta JeremíasH1697
+- Jer_29:10buena p, para haceros volver a...lugarH1697
+- Jer_29:19no oyeron mis p...que les envié por misH1697
+- Jer_29:20oíd, pues, p de Jehová, vosotros todosH1697
+- Jer_29:23y falsamente hablaron en mi nombre pH1697
+- Jer_30:2escríbete en un libro todas las p que teH1697
+- Jer_30:4estas, pues, son las p que habló JehováH1697
+- Jer_31:10oíd p de Jehová, oh naciones, y...decidH1697
+- Jer_31:23aún dirán esta p en la tierra de JudáH1697
+- Jer_27:1; Jer_28:12; Jer_29:30; Jer_32:26; Jer_33:1, Jer_33:19, Jer_33:23; Jer_34:12; Jer_35:12; Jer_36:1, Jer_36:27; Jer_37:6; Jer_43:8vino p de Jehová a JeremíasH1697
+- Jer_32:6dijo...P de Jehová vino a mí, diciendoH1697
+- Jer_32:8y vino a mi Hanameel...conforme a la pH1697
+- Jer_32:8vino...Entonces conocí que era p de JehováH1697
+- Jer_33:14confirmaré la buena p que he habladoH1697
+- Jer_34:4eso, oye p de Jehová...No morirás a espadaH1697
+- Jer_34:5porque yo he hablado la p, dice JehováH1697
+- Jer_34:6habló...Jeremías...estas p en JerusalénH1697
+- Jer_34:18las p del pacto que celebraron en miH1697
+- Jer_35:13di...¿No aprenderéis a obedecer mis p?[[H1697]]
+- Jer_35:14fue firme la p de Jonadab hijo de RecabH1697
+- Jer_36:2escribe...todas las p que te he habladoH1697
+- Jer_36:4libro, todas las p que Jehová le habíaH1697
+- Jer_36:6y lee...las p de Jehová a los oídos delH1697
+- Jer_36:8leyendo en el libro las p de Jehová enH1697
+- Jer_36:10leyó en el libro las p de Jeremías enH1697
+- Jer_36:11habiendo oído del libro...las p de JehováH1697
+- Jer_36:13les contó...todas las p que había oídoH1697
+- Jer_36:16oyeron...p...contaremos al rey...estas pH1697
+- Jer_36:17cuéntanos ahora cómo escribiste...estas pH1697
+- Jer_36:18él me dictaba...estas p, y yo escribíaH1697
+- Jer_36:20contaron a oídos del rey todas estas pH1697
+- Jer_36:24rey y todos sus siervos que oyeron...pH1697
+- Jer_36:27quemó el rollo, las p que Baruc habíaH1697
+- Jer_36:28escribe en él todas las p primeras queH1697
+- Jer_36:32y escribió...las p del libro que quemóH1697
+- Jer_36:32y aun fueron añadidas...muchas otras pH1697
+- Jer_37:2no obedeció él...a las p de Jehová, lasH1697
+- Jer_37:17y dijo: ¿Hay p de Jehová? Y JeremíasH1697
+- Jer_38:1p que Jeremías hablaba a todo el puebloH1697
+- Jer_38:4hace desmayar las...hablándoles tales pH1697
+- Jer_38:21esta es la p que me ha mostrado JehováH1697
+- Jer_38:24y dijo Sedequías...Nadie sepa estas pH1697
+- Jer_39:15y había venido p de Jehová a JeremíasH1697
+- Jer_39:16traigo mis p sobre esta ciudad para malH1697
+- Jer_42:4todo lo...os enseñaré; no os reservaré pH1697
+- Jer_42:7de diez días vino p de Jehová a JeremíasH1697
+- Jer_42:15oíd la p de Jehová, remanente de JudáH1697
+- Jer_43:1hablar a todo el pueblo las p de JehováH1697
+- Jer_43:1estas p por las cuales...había enviadoH1697
+- Jer_44:1p que vino a Jeremías acerca de...judíosH1697
+- Jer_44:16la p que nos has hablado en nombre deH1697
+- Jer_44:17pondremos por obra toda p que ha salidoH1697
+- Jer_44:24oíd p de Jehová, todos los de Judá queH1697
+- Jer_44:26por tanto, oíd p de Jehová, todo JudáH1697
+- Jer_44:28la p de quién ha de permanecer: si laH1697
+- Jer_44:29de cierto permanecerán mis p para malH1697
+- Jer_45:1p que habló el profeta Jeremías a BarucH1697
+- Jer_45:1cuando escribía...p de boca de JeremíasH1697
+- Jer_46:13p que habló Jehová al profeta JeremíasH1697
+- Jer_50:1p que habló Jehová contra BabiloniaH1697
+- Jer_51:59p...envió el profeta Jeremías a SeraíasH1697
+- Jer_51:60p que están escritas contra BabiloniaH1697
+- Jer_51:64dirás...Hasta aquí son las p de JeremíasH1697
+- Lam_1:18Jehová es justo...contra su p me rebeléH6310
+- Lam_2:17cumplido su p, la cual él había mandadoH565
+- Eze_1:3vino p de Jehová al sacerdote EzequielH1697
+- Eze_2:6no les temas, ni tengas miedo de sus pH1697
+- Eze_2:6tengas miedo de sus p, ni temas delanteH1697
+- Eze_2:7les hablarás...mis p, escuchen o dejen deH1697
+- Eze_3:4entra a la casa...habla a ellos con mis pH1697
+- Eze_3:6no a muchos pueblos...cuyas p no entiendasH8193
+- Eze_3:10toma en tu corazón todas mis p que yoH1697
+- Eze_3:16al cabo...vino a mí p de Jehová, diciendoH1697
+- Eze_3:17oirás...p de mi boca, y los amonestarásH1697
+- Eze_6:1; Eze_7:1; Eze_11:14; Eze_12:1, Eze_12:17, Eze_12:21, Eze_12:26; Eze_13:1; Eze_14:2, Eze_14:12; Eze_15:1; Eze_16:1; Eze_17:1, Eze_17:11; Eze_18:1; Eze_20:2, Eze_20:45; Eze_21:1, Eze_21:8, Eze_21:18; Eze_22:1, Eze_22:17, Eze_22:23; Eze_23:1; Eze_24:15; Eze_25:1; Eze_26:1; Eze_27:1; Eze_28:1, Eze_28:11, Eze_28:20; Eze_29:1, Eze_29:17; Eze_30:1, Eze_30:20; Eze_31:1; Eze_32:1, Eze_32:17; Eze_33:1, Eze_33:23; Eze_34:1; Eze_35:1; Eze_36:16; Eze_37:15; Eze_38:1vino a mí p de Jehová, diciendoH1697
+- Eze_6:3dirás: Montes de Israel, oíd p de JehováH1697
+- Eze_9:11que el varón...respondió una p, diciendoH1697
+- Eze_12:8y vino a mí p de Jehová por la mañanaH1697
+- Eze_12:25cumplirá la p...hablaré p y la cumpliréH1697
+- Eze_12:28no se tardará más ninguna de mis p, sinoH1697
+- Eze_12:28que la p que yo hable se cumplirá, diceH1697
+- Eze_13:2di a los que profetizan...Oíd p de JehováH1697
+- Eze_13:6esperan que él confirme la p de ellosH1697
+- Eze_14:9el profeta fuere engañado y hablare pH1697
+- Eze_16:35por tanto, ramera, oye p de JehováH1697
+- Eze_20:46sur, derrama tu p hacia la parte austral
+- Eze_20:47oye la p de Jehová: Así ha dicho JehováH1697
+- Eze_21:2rostro...derrama p sobre los santuarios
+- Eze_24:1vino a mí p de Jehová en el año novenoH1697
+- Eze_24:20yo les dije: La p de Jehová vino a míH1697
+- Eze_25:3Amón: Oíd p de Jehová...Así dice JehováH1697
+- Eze_33:7oirás la p de mi boca, y los amonestarásH1697
+- Eze_33:30venid ahora...oíd qué p viene de JehováH1697
+- Eze_33:31oirán tus p, y no las pondrán por obraH1697
+- Eze_33:32y oirán tus p, pero no las pondrán porH1697
+- Eze_34:7, Eze_34:9por tanto, pastores, oíd p de JehováH1697
+- Eze_35:13multiplicasteis contra mí vuestras pH1697
+- Eze_36:1, Eze_36:4montes de Israel, oíd p de JehováH1697
+- Eze_37:4y diles: Huesos secos, oíd p de JehováH1697
+- Eze_38:10en aquel día subirán p en tu corazónH1697
+- Dan_4:31aún estaba la p en la boca del reyH4406
+- Dan_4:33hora se cumplió la p sobre NabucodonosorH4406
+- Dan_5:10la reina, por las p del rey...entró a laH4406
+- Dan_7:11a causa del sonido de las grandes p queH4406
+- Dan_7:25y hablará p contra el Altísimo, y a losH4406
+- Dan_7:28aquí fue el fin de sus p...En cuanto a míH4406
+- Dan_9:12cumplido la p que habló contra nosotrosH1697
+- Dan_10:1el año tercero...fue revelada p a DanielH1697
+- Dan_10:1la p era verdadera...él comprendió la pH4487
+- Dan_10:6el sonido de sus P como el estruendo deH1697
+- Dan_10:9oí el sonido de sus p; y al oír...sus pH1697
+- Dan_10:11está atento a las p que te hablaré, yH1697
+- Dan_10:12oídas tus p; y a causa de tus p yo heH1697
+- Dan_10:15mientras me decía estas p, estaba yo conH1697
+- Dan_12:4cierra las p y sella el libro hasta elH1697
+- Dan_12:9pues estas p están cerradas y selladasH1697
+- Ose_1:1p de Jehová que vino a Oseas hijo deH1697
+- Ose_1:2el principio de la p de Jehová por...OscasH1699
+- Ose_4:1oíd p de Jehová, hijos de Israel, porqueH1697
+- Ose_6:5por esta...con las p de mi boca los matéH561
+- Ose_10:4han hablado p jurando en vano al hacerH1697
+- Ose_14:2llevad con vosotros p de súplica...volvedH1697
+- Joe_1:1p de Jehová que vino a Joel, hijo deH1697
+- Amó_1:1p de Amós, que fue uno de los pastoresH1697
+- Amó_3:1oíd esta p que ha hablado Jehová contraH1697
+- Amó_4:1oíd esta p, vacas de Basán, que estáis enH1697
+- Amó_5:1oíd esta p que yo levanto para lamentaciónH1697
+- Amó_7:10la tierra no puede sufrir todas sus pH1697
+- Amó_7:16oye p de Jehová. Tú dices: No profeticesH1697
+- Amó_8:11sed de agua, sino de oír la p de JehováH1697
+- Amó_8:12e irán errantes de...buscando p de JehováH1697
+- Jon_1:1vino p de Jehová a Jonás hijo de AmitaiH1697
+- Jon_3:1vino p de Jehová por segunda vez a JonásH1697
+- Jon_3:3y fue a Nínive conforme a la p de JehováH1697
+- Miq_1:1p de Jehová...vino a Miqueas de MoresetH1697
+- Miq_2:7¿no hacen mis p bien al que...rectamente?[[H1697]]
+- Miq_4:2de Sion...y de Jerusalén la p de JehováH1697
+- Hab_3:2oh Jehová, he oído tu p, y temí. OhH8088
+- Hab_3:9juramentos a las tribus fueron p seguraH562
+- Sof_1:1p de Jehová que vino a Sofonías hijoH1697
+- Sof_2:5p de Jehová es contra vosotros...CanaánH1697
+- Hag_1:1, Hag_1:3p de Jehová por medio del profetaH1697
+- Hag_1:12oyó Zorobabel...las p del profeta Hageo
+- Hag_2:1, Hag_2:10vino p de Jehová por medio del profetaH1697
+- Hag_2:20vino por segunda vez p de Jehová a HageoH1697
+- Zac_1:1, Zac_1:7vino p de Jehová al profeta ZacaríasH1697
+- Zac_1:6mis p...¿no alcanzaron vuestros padres?[[H1697]]
+- Zac_1:13respondió buenas p, p consoladoras, alH1697
+- Zac_4:6esta es p de Jehová a Zorababel, que diceH1697
+- Zac_4:8; Zac_6:9vino a mí p de Jehová, diciendoH1697
+- Zac_7:1, Zac_7:8vino p de Jehová a ZacaríasH1697
+- Zac_7:4vino...a mí p de Jehová de los ejércitosH1697
+- Zac_7:7¿no son estas las p que proclamó JehováH1697
+- Zac_7:12para no oír...ni las p que Jehová de losH1697
+- Zac_8:1, Zac_8:18vino a mí p de Jehová de los ejércitosH1697
+- Zac_8:9los que oís...estas p de la boca de losH1697
+- Zac_9:1la profecía de la p de Jehová está contraH1697
+- Zac_11:11así conocieron los...que era p de JehováH1697
+- Zac_12:1profecía...p de Jehová acerca de IsraelH1697
+- Mal_1:1profecía p de Jehová contra IsraelH1697
+- Mal_2:17hecho cansar a Jehová con vuestras pH1697
+- Mal_3:13vuestras p contra mí han sido violentasH1697
+- Mat_4:4de toda p que sale de la boca de DiosG4487
+- Mat_7:24cualquiera, pues, que me oye estas p, yG3056
+- Mat_7:26pero...que me oye estas p y no las haceG3056
+- Mat_7:28cuando terminó Jesús estas p, la genteG3056
+- Mat_8:8solamente di la p, y mi criado sanaráG3056
+- Mat_8:16con la p echó fuera a los demonios, y sanóG3056
+- Mat_10:14ni oyere vuestras p, salid de...ciudadG3056
+- Mat_12:32que dijere alguna p contra el Hijo delG3056
+- Mat_12:36de toda p ociosa que hablen los hombresG4487
+- Mat_12:37porque por tus p serás justificado, yG3056
+- Mat_12:37porque...y por tus p serás condenadoG3056
+- Mat_13:19cuando alguno oye la p del reino y no laG3056
+- Mat_13:20éste es el que oye la p, y al momentoG3056
+- Mat_13:21al venir...persecución por causa de la pG3056
+- Mat_13:22oye la p, pero el afán de...ahogan la pG3056
+- Mat_13:23el que oye y entiende la p, y da frutoG3056
+- Mat_15:12fariseos se ofendieron...oyeron esta p?[[G3058]]
+- Mat_15:23pero Jesús no le respondió p. EntoncesG3056
+- Mat_18:16en boca de dos...testigos conste toda pG4487
+- Mat_19:1cuando Jesús terminó estas p, se alejóG3051
+- Mat_19:22oyendo el joven esta p, se fue tristeG3056
+- Mat_22:15consultaron...soprenderle en alguna pG3056
+- Mat_22:46y nadie le podía responder p; ni osóG3056
+- Mat_24:35tierra pasarán, pero mis p no pasaránG3056
+- Mat_26:1cuando hubo acabado Jesús todas estas pG3056
+- Mat_26:44oró...tercera vez, diciendo las mismas pG3056
+- Mat_26:75Pedro se acordó de las p de Jesús, queG4487
+- Mat_27:14Jesús no le respondió ni una p, de talG4487
+- Mar_2:2juntaron muchos...y les predicaba la pG3056
+- Mar_4:14el sembrador es el que siembra la pG3056
+- Mar_4:15son los de...en quienes se siembra la pG3056
+- Mar_4:15Satanás, y quita la p que se sembró enG3056
+- Mar_4:16que cuando han oído la p, al momento laG3056
+- Mar_4:17viene la tribulación...por causa de la pG3056
+- Mar_4:18sembrados entre espinos...que oyen la pG3056
+- Mar_4:19y ahogan la p, y se hace infructuosaG3056
+- Mar_4:20que oyen la p y la reciben, y dan frutoG3056
+- Mar_4:33con muchas parábolas...les hablaba la pG3056
+- Mar_7:13invalidando la p de Dios con...tradiciónG3056
+- Mar_7:29por esta p, vé; el demonio ha salido deG3056
+- Mar_8:38el que se avergonzare de mí y de mis pG3056
+- Mar_9:10guardaron la p...discutiendo qué seríaG3056
+- Mar_9:32no entendían esta p, y tenían miedo deG4487
+- Mar_10:22él, afligido por esta p, se fue tristeG3056
+- Mar_10:24los discípulos se asombraron de sus pG3056
+- Mar_12:13para que le sorprendiesen en alguna pG3056
+- Mar_13:31tierra pasarán, pero mis p no pasaránG3056
+- Mar_14:39otra vez...y oró, diciendo las mismas pG3056
+- Mar_14:72Pedro se acordó de las p que Jesús leG4487
+- Mar_16:20confirmando la p con las señales queG3056
+- Luc_1:2lo vieron...y fueron ministros de la pG3056
+- Luc_1:20quedarás mudo...cuanto no creíste mis pG3056
+- Luc_1:29ella, cuando le vio, se turbó por sus pG3056
+- Luc_1:38sierva...hágase conmigo conforme a tu pG4487
+- Luc_2:29despides a tu siervo...conforme a tu pG4487
+- Luc_2:50mas ellos no entendieron las p que lesG4487
+- Luc_3:2p de Dios a Juan, hijo de...en el desiertoG4487
+- Luc_3:4como está escrito en el libro de las pG3056
+- Luc_4:4no sólo de pan...sino de toda p de DiosG4487
+- Luc_4:22estaban maravillados de las p de graciaG3056
+- Luc_4:32y se admiraban...su p era con autoridadG3056
+- Luc_4:36p es esta, que con autoridad y poderG3056
+- Luc_5:1agolpaba sobre él para oír la p de DiosG3056
+- Luc_5:5le dijo: Maestro...en tu p echaré la redG4487
+- Luc_6:47y oye mis p y las hace, os indicaré aG3056
+- Luc_7:1después que hubo terminado todas sus pG4487
+- Luc_7:7pero di la p, y mi siervo será sanoG3056
+- Luc_8:11la parábola: La semilla es la p de DiosG3056
+- Luc_8:12el diablo y quita de su corazón la pG3056
+- Luc_8:13que habiendo oído, reciben la p con gozoG3056
+- Luc_8:15son los que...retienen la p oída, y danG3056
+- Luc_8:21los que oyen la p de Dios, y la hacenG3056
+- Luc_9:26se avergonzare de mí y de mis p, de ésteG3056
+- Luc_9:28después de estas p, que tomó a Pedro, aG3056
+- Luc_9:44os penetren bien en los oídos estas pG3056
+- Luc_9:45mas ellos no entendían estas p, pues les
+- Luc_9:45pues...y temían preguntarle sobre esas p
+- Luc_10:39sentándose a...pies de Jesús, oía su pG3056
+- Luc_11:28bienaventurados los que oyen la p deG3056
+- Luc_11:54procurando cazar alguna p de su boca
+- Luc_12:10que dijere alguna p contra el Hijo delG3056
+- Luc_18:34p les era encubierto, y no entendían loG4487
+- Luc_20:20fin de sorprenderle en alguna p, paraG3056
+- Luc_20:26no pudieron sorprenderle en p algunaG4487
+- Luc_21:15yo os daré p y sabiduría, la cual no
+- Luc_21:33y la tierra pasarán...mis p no pasaránG3056
+- Luc_22:61Pedro se acordó de la p del Señor, queG3056
+- Luc_24:8entonces ellas se acordaron de sus pG4487
+- Luc_24:11les parecían locura las p de ellas, yG4487
+- Luc_24:19poderoso en obra y...p delante de Dios yG3056
+- Luc_24:44les dijo: Estas son las p que os habléG3056
+- Jua_2:22creyeron...la p que Jesús había dichoG3056
+- Jua_3:34el que Dios envió, las p que Dios hablaG4487
+- Jua_4:39creyeron en él por la p de la mujer, queG3056
+- Jua_4:41y creyeron muchos más por la p de élG3056
+- Jua_4:50creyó la p que Jesús le dijo, y se fueG3056
+- Jua_5:24el que oye mi p, y cree al que me envióG3056
+- Jua_5:38ni tenéis su p morando en vosotrosG3056
+- Jua_5:47si no creéis a...¿cómo creeréis a mis p?[[G4487]]
+- Jua_6:60dura es esta p; ¿quién la puede oír?[[G3056]]
+- Jua_6:63las p que yo os he hablado son espírituG4487
+- Jua_6:68Señor, ¿a quién iremos? Tú tienes p deG4487
+- Jua_7:40oyendo estas p, decían...es el profetaG3056
+- Jua_8:20estas p habló Jesús en el lugar de lasG4487
+- Jua_8:31dijo...Si vosotros permaneciereis en mi pG3056
+- Jua_8:37porque mi p no halla cabida en vosotrosG3056
+- Jua_8:43no entendéis...no podéis escuchar mi pG2981
+- Jua_8:47el que es de Dios, las p de Dios oye; porG4487
+- Jua_8:51el que guarda mi p, nunca verá muerteG3056
+- Jua_8:52el que guarda mi p, nunca sufrirá muerteG3056
+- Jua_8:55dijere...pero le conozco, y guardo su pG3056
+- Jua_10:19volvió a haber disensión...por estas pG3056
+- Jua_10:21decían...Estas p no son de endemoniadoG4487
+- Jua_10:35a aquellos a quienes vino la p de DiosG3056
+- Jua_12:38para que se cumpliese la p del profetaG3056
+- Jua_12:47al que oye mis p, y no las guarda, yoG4487
+- Jua_12:48no recibe mis p...la p...ella le juzgaráG3056
+- Jua_14:10las p que yo os hablo, no las hablo porG4487
+- Jua_14:23que me ama, mi p guardará; y mi PadreG3056
+- Jua_14:24el que no me ama, no guarda mis p; y laG3056
+- Jua_14:24y la p que habéis oído no es mía, sinoG3056
+- Jua_15:3ya vosotros estáis limpios por la p queG3056
+- Jua_15:7y mis p permanecen en vosotros, pedidG4487
+- Jua_15:20acordaos de la p que yo os he dicho: ElG3056
+- Jua_15:20si han guardado mi p, también guardaránG3056
+- Jua_15:25para que se cumpla la p que está escritaG3056
+- Jua_17:6eran, y me los diste, y han guardado tu pG3056
+- Jua_17:8porque las p que me diste, les he dadoG4487
+- Jua_17:14he dado tu p; y el mundo los aborrecióG3056
+- Jua_17:17santifícalos en...verdad; tu p es verdadG3056
+- Jua_17:20los que han de creer en mí por la p deG3056
+- Jua_18:32se cumpliese la p que Jesús había dichoG3056
+- Hec_2:14esto os sea notorio, y oíd mis pG4487
+- Hec_2:22israelitas, oíd estas p: Jesús nazarenoG3056
+- Hec_2:40y con otras muchas p testificaba y lesG3056
+- Hec_2:41los que recibieron su p fueron bautizadosG3056
+- Hec_4:4pero muchos de los que habían oído la pG3056
+- Hec_4:29concede a...con todo denuedo hablen tuG3056
+- Hec_4:31todos...hablaban con denuedo la p de DiosG3056
+- Hec_5:5al oír Ananías estas p, cayó y expiróG3056
+- Hec_5:20anunciad al pueblo todas las p de estaG4487
+- Hec_5:24oyeron estas p el sumo sacerdote y elG3056
+- Hec_6:2no es justo que...dejemos la p de DiosG3056
+- Hec_6:4persistiremos...en el ministerio de la pG3056
+- Hec_6:7y crecía la p del Señor, y el número deG3056
+- Hec_6:11oído hablar p blasfemas contra MoisésG4487
+- Hec_6:13no cesa de hablar p blasfemas contraG4487
+- Hec_7:22Moisés...era poderoso en sus p y obrasG3056
+- Hec_7:29al oír esta p, Moisés huyó, y vivió comoG3056
+- Hec_7:38aquel...que recibió p de vida que darnosG3051
+- Hec_8:14que Samaria había recibido la p de DiosG3056
+- Hec_8:25ellos, habiendo...hablado la p de DiosG3056
+- Hec_10:22de hacerte venir a su casa...oír tus pG4487
+- Hec_10:44aún hablaba Pedro estas p, el EspírituG3056
+- Hec_11:1los gentiles habían recibido la p de DiosG3056
+- Hec_11:14te hablará p por las cuales serás salvoG4487
+- Hec_11:19no hablando a nadie la p, sino sólo aG3056
+- Hec_12:24la p del Señor crecía y se multiplicabaG3056
+- Hec_13:5anunciaban la p de Dios en las sinagogasG3056
+- Hec_13:7Sergio...deseaba oír la palabra de DiosG3056
+- Hec_13:15si tenéis alguna p de exhortación paraG3056
+- Hec_13:26a vosotros es enviada la p de estaG3056
+- Hec_13:27no conociendo...ni las p de los profetasG5456
+- Hec_13:44toda la ciudad para oír la p de DiosG3056
+- Hec_13:46que se os hablase primero la p de DiosG3056
+- Hec_13:48gentiles...glorificaban la p del SeñorG3056
+- Hec_13:49y la p del Señor se difundía por todaG3056
+- Hec_14:3cual daba testimonio a la p de su graciaG3056
+- Hec_14:12porque éste era el que llevaba la pG3056
+- Hec_14:25predicado la p en Perge, descendieron aG3056
+- Hec_15:7oyesen por mi boca la p del evangelioG3056
+- Hec_15:15esto concuerdan las p de los profetasG3056
+- Hec_15:24os han inquietado con p, perturbandoG3056
+- Hec_15:27también de p os harán saber lo mismo
+- Hec_15:32y confirmaron a los hermanos con...de pG3056
+- Hec_15:35continuaron...enseñando la p del SeñorG3056
+- Hec_15:36en que hemos anunciado la p del SeñorG3056
+- Hec_16:6les fue prohibido...hablar la p en AsiaG3056
+- Hec_16:32hablaron la p del Señor a él y a todosG3056
+- Hec_16:36carcelero hizo saber estas p a PabloG3056
+- Hec_16:38hicieron saber estas p a los magistradosG4487
+- Hec_17:11pues recibieron la p con toda solicitudG3056
+- Hec_17:13era anunciada la p de Dios por PabloG3056
+- Hec_18:5entregado por...a la predicación de la p
+- Hec_18:11y se detuvo...enseñándoles la p de DiosG3056
+- Hec_18:15si son cuestiones de p...vedlo vosotrosG3056
+- Hec_19:10y griegos, oyeron la p del Señor JesúsG3056
+- Hec_19:20así crecía y prevalecía...la p del SeñorG3056
+- Hec_20:2exhortarles con abundancia de p, llegó
+- Hec_20:32os encomiendo a...y a la p de su graciaG3056
+- Hec_20:35y recordar las p del Señor Jesús, queG3056
+- Hec_20:38doliéndose...por la p que dijo, de queG3056
+- Hec_22:22oyeron hasta esta p; entonces alzaronG3056
+- Hec_26:25sino que hablo p de verdad y de corduraG4487
+- Hec_28:25les dijo Pablo esta p: Bien habló elG4487
+- Rom_3:2que les ha sido confiada la p de DiosG3051
+- Rom_3:4que seas justificado en tus p, y venzasG3056
+- Rom_9:6no que la p de Dios haya fallado; porqueG3056
+- Rom_9:9porque la p de la promesa es esta: PorG3056
+- Rom_10:8cerca de ti está la p, en tu boca y enG4487
+- Rom_10:8mas...Esta es la p de fe que predicamosG4487
+- Rom_10:17oír, y el oír, por la palabra de DiosG4487
+- Rom_10:18y hasta los fines de la tierra sus pG4487
+- Rom_15:18medio de mí...con la p y con las obrasG3056
+- Rom_16:18y con suaves p...engañan los corazonesG2129
+- 1Co_1:5enriquecidos en...p y en toda cienciaG3056
+- 1Co_1:17no con sabiduría de p, para que no seG3056
+- 1Co_1:18la p de la cruz es locura a los que seG3056
+- 1Co_2:1cuando fui a...no fui con excelencia de pG3056
+- 1Co_2:4ni mi p ni mi...fue con p persuasivas deG3056
+- 1Co_2:13también hablamos, no con p enseñadas porG3056
+- 1Co_4:19conoceré, no las p, sino el poder de losG3056
+- 1Co_4:20el reino de Dios no consiste en p, sinoG3056
+- 1Co_12:8es dada por el Espíritu p de sabiduríaG3056
+- 1Co_12:8a otro, p de ciencia según el...EspírituG3056
+- 1Co_14:9la lengua no diereis p bien comprensibleG3056
+- 1Co_14:11yo ignoro el valor de las p, seré como
+- 1Co_14:19en la iglesia prefiero hablar cinco pG3056
+- 1Co_14:19que diez mil p en lengua desconocidaG3056
+- 1Co_14:36ha salido de vosotros la p de Dios, oG3056
+- 1Co_15:2si retenéis la p que os he predicado, sois
+- 1Co_15:54cumplirá la p que está escrita: SorbidaG3056
+- 2Co_1:18nuestra p a vosotros no es Sí y NoG3056
+- 2Co_2:17que medran falsificando la p de DiosG3056
+- 2Co_4:2ni adulterando la p de Dios, sino por laG3056
+- 2Co_5:19nos encargó...la p de la reconciliaciónG3056
+- 2Co_6:7en p de verdad, en poder de Dios, conG3056
+- 2Co_8:7fe, en p, en ciencia, en toda solicitudG3056
+- 2Co_10:10corporal débil, y la p menospreciableG3056
+- 2Co_10:11que así como somos en la p por cartasG3056
+- 2Co_11:6aunque sea tosco en la p, no lo soy enG3056
+- 2Co_12:4donde oyó p inefables que no le es dadoG4487
+- Gál_5:14ley en esta sola p se cumple: AmarásG4487
+- Gál_6:6que es enseñado en la p, haga partícipeG4487
+- Efe_1:13también vosotros, habiendo oído la pG4487
+- Efe_4:29ninguna p corrompida salga de vuestraG3056
+- Efe_5:4ni p deshonestas, ni...que no convienenG151
+- Efe_5:6nadie os engañe con p vanas, porque porG3056
+- Efe_5:26en el lavamiento del agua por la pG4487
+- Efe_6:17y la espada del Espíritu, que es la p deG4487
+- Efe_6:19dada p para dar a conocer con denuedo
+- Flp_1:14se atreven mucho más a hablar la pG3056
+- Flp_2:16asidos de la p de vida, para que en elG3056
+- Col_1:5ya habéis oído por la p verdadera delG3056
+- Col_1:25que anuncie cumplidamente la p de DiosG3056
+- Col_2:4para que nadie os engañe con p persuasivasG4086
+- Col_3:8dejad...ira...p deshonestas de vuestra bocaG148
+- Col_3:16la p de Cristo more en abundancia enG3056
+- Col_3:17todo lo que hacéis, sea de p o de hechoG3056
+- Col_4:3que el Señor nos abra puerta para la pG3056
+- Col_4:6sea vuestra p siempre con gracia...con salG3056
+- 1Ts_1:5evangelio no llegó...en p solamenteG3056
+- 1Ts_1:6recibiendo la p en medio de...tribulaciónG3056
+- 1Ts_1:8sido divulgada la p del Señor, no sóloG3056
+- 1Ts_2:5porque nunca usamos de p lisonjeras, comoG3056
+- 1Ts_2:13de que cuando recibisteis la p de DiosG3056
+- 1Ts_2:13no como p de hombres, sino...p de DiosG3056
+- 1Ts_4:15lo cual os decimos esto en p del SeñorG3056
+- 1Ts_4:18alentaos...unos a los otros con estas pG3056
+- 2Ts_2:2ni por p, ni por carta como si fueraG3056
+- 2Ts_2:15doctrina que habéis aprendido, sea por pG3056
+- 2Ts_2:17y os confirme en toda buena p y obraG3056
+- 2Ts_3:1que la p del Señor corra y sea glorificadaG3056
+- 1Ti_1:15p fiel y digna de ser recibida porG3056
+- 1Ti_3:1p fiel: Si alguno anhela obispado, buenaG3056
+- 1Ti_4:5porque por la p de Dios y por la oraciónG3056
+- 1Ti_4:6nutrido con las p de la fe y...doctrinaG3056
+- 1Ti_4:9p fiel es esta, y digna de ser recibidaG3056
+- 1Ti_4:12sino sé ejemplo de los creyentes en pG3056
+- 1Ti_6:3y no se conforma a las sanas p de...SeñorG3056
+- 1Ti_6:4acerca de cuestiones y contiendas de pG3055
+- 2Ti_1:13retén...las sanas p que de mí oísteG3056
+- 2Ti_2:9sufro...mas la p de Dios no está presaG3056
+- 2Ti_2:11p fiel es esta: Si somos muertos con élG3056
+- 2Ti_2:14que no contiendan sobre p, lo cual paraG3056
+- 2Ti_2:15como obrero...que usa bien la p de verdadG3056
+- 2Ti_2:17p carcomerá como gangrena; de los cualesG3056
+- 2Ti_4:2que prediques la p; que instes a tiempoG3056
+- 2Ti_4:15gran manera se ha opuesto a nuestras pG3056
+- Tit_1:3y a su debido tiempo manifestó su pG3056
+- Tit_1:9retenedor de la p fiel tal como ha sidoG3056
+- Tit_2:5para que la p de Dios no sea blasfemadaG3056
+- Tit_2:8p sana e irreprochable, de modo que elG3056
+- Tit_3:8p fiel es esta, y en estas cosas quieroG3056
+- Heb_1:3quien sustenta todas las cosas con la pG4487
+- Heb_2:2si la p dicha por medio de los ángeles fueG3056
+- Heb_4:2no les aprovechó el oír la p, por no irG3056
+- Heb_4:12porque la p de Dios es viva y eficaz, yG3056
+- Heb_5:12enseñar...los primeros rudimentos de las pG4487
+- Heb_5:13leche es inexperto en la p de justiciaG3056
+- Heb_6:5gustaron de la buena p de Dios y...poderesG4487
+- Heb_7:28la p del juramento, posterior a la leyG3056
+- Heb_11:3constituido el universo por la p de DiosG4487
+- Heb_13:7pastores, que os hablaron la p de DiosG3056
+- Heb_13:22que soportéis la p de exhortación, puesG3056
+- Stg_1:18nos hizo nacer por la p de verdadG3056
+- Stg_1:21recibid con mansedumbre la p implantadaG3056
+- Stg_1:22sed hacedores de la p, y no tan solamenteG3056
+- Stg_1:23es oidor de la p pero no hacedor de ellaG3056
+- Stg_3:2no ofende en p, éste es varón perfectoG3056
+- 1Pe_1:23siendo renacidos...por la p de DiosG3056
+- 1Pe_1:25la p del Señor permanece para siempreG4487
+- 1Pe_1:25esta es la p que...os ha sido anunciadaG4487
+- 1Pe_2:8tropiezan en la p, siendo desobedientesG3056
+- 1Pe_3:1que no creen a la p, sean ganados sin pG3056
+- 1Pe_4:11habla, hable conforme a las p de DiosG3051
+- 2Pe_1:19tenemos...la p profética más seguraG3056
+- 2Pe_2:3harán mercadería de vosotros...p fingidasG3056
+- 2Pe_2:18hablando p infladas y vanas, seducen con
+- 2Pe_3:2tengáis memoria de las p que antes hanG4487
+- 2Pe_3:5hechos por la p de Dios los cielos, yG3056
+- 2Pe_3:7cielos...están reservados por la misma pG3056
+- 1Jn_1:10decimos...y su p no está en nosotrosG3056
+- 1Jn_2:5el que guarda su p...el amor de Dios se haG3056
+- 1Jn_2:7la p que habéis oído desde el principioG3056
+- 1Jn_2:14y la p de Dios permanece en vosotros, yG3056
+- 1Jn_3:18míos, no amemos de p ni de lengua, sinoG3056
+- 3Jn_1:10que hace parloteando con p malignasG3056
+- Jud_1:17tened memoria de las p...dichas por losG4487
+- Rev_1:2que ha dado testimonio de la p de DiosG3056
+- Rev_1:3bienaventurado...los que oyen las p de estaG3056
+- Rev_1:9isla...Patmos, por causa de la p de DiosG3056
+- Rev_3:8has guardado mi p, y no has negado miG3056
+- Rev_3:10has guardado la palabra de mi pacienciaG3056
+- Rev_6:9sido muertos por causa de la p de DiosG3056
+- Rev_12:11le han vencido por...la p del testimonioG3056
+- Rev_17:17dar...hasta que se cumplan las p de DiosG4487
+- Rev_19:9me dijo: Estas son p verdaderas de DiosG3056
+- Rev_20:4los decapitados por causa...la p de DiosG3056
+- Rev_21:5; Rev_22:6estas p son fieles y verdaderasG3056
+- Rev_22:7bienaventurado el que guarda las p deG3056
+- Rev_22:9de los que guardan las p de este libroG3056
+- Rev_22:10no selles las p de la profecía de esteG3056
+- Rev_22:18testifico a todo aquel que oye las pG3056
+- Rev_22:19si alguno quitare de las p del libroG3056

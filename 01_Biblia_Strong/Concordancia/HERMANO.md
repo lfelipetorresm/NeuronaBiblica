@@ -1,0 +1,943 @@
+---
+tipo: concordancia
+palabra: HERMANO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HERMANO
+
+- Véase también Hermana
+- Gén_4:2después dio a luz a su h Abel. Y AbelH251
+- Gén_4:8dijo Caín a su h Abel: Salgamos al campoH251
+- Gén_4:8se levantó contra su h Abel, y lo matóH251
+- Gén_4:9Jehová dijo a Caín: ¿Dónde...Abel tu h?[[H251]]
+- Gén_4:9él...No sé. ¿Soy yo acaso guarda de mi h?[[H251]]
+- Gén_4:10la voz de la sangre de tu h clama a míH251
+- Gén_4:11recibir de tu mano la sangre de tu hH251
+- Gén_4:21el nombre de su h fue Jubal, el cual fueH251
+- Gén_9:5de mano del varón su h demandaré la vidaH251
+- Gén_9:22lo dijo a sus dos h que estaban afueraH251
+- Gén_9:25Canaán; siervo de siervos será a sus hH251
+- Gén_10:21Sem, padre...Heber, y h mayor de JafetH251
+- Gén_10:25fue Peleg...y el nombre de su h, JoctánH251
+- Gén_12:5tomé...a Sarai su...y a Lot hijo de su hH251
+- Gén_13:8no haya ahora altercado entre...somos hH251
+- Gén_14:12a Lot, hijo del h de Abram, que morabaH251
+- Gén_14:13h de Escol y h de Aner, los cuales eranH251
+- Gén_16:12él, y delante de todos sus h habitaráH251
+- Gén_19:7ruego, h míos, que no hagáis tal maldadH251
+- Gén_20:5¿no dijo él...y ella...dijo: Es mi h?[[H251]]
+- Gén_20:13adonde lleguemos, digas de mí: Mi h esH251
+- Gén_20:16he dado mil monedas de plata a tu hH251
+- Gén_22:20Milca ha dado a luz hijos a Nacor tu hH251
+- Gén_22:21Uz su...Buz su h, Kemuel padre de AramH251
+- Gén_22:23dio a luz Milca, de Nacor h de AbrahamH251
+- Gén_24:15de Milca mujer de Nacor h de AbrahamH251
+- Gén_24:27guiándome...a casa de los h de mi amoH251
+- Gén_24:29y Rebeca tenía un h se llamaba LabánH251
+- Gén_24:48para tomar la hija del h de mi señorH251
+- Gén_24:53también dio cosas preciosas a su h y aH251
+- Gén_24:55respondieron su h y su madre: EsperoH251
+- Gén_25:18y murió en presencia de todos sus hH251
+- Gén_25:26después salió su h, trabada su mano alH251
+- Gén_27:6yo he oído a...que hablaba con Esaú tu hH251
+- Gén_27:11he aquí, Esaú mi h es hombre vellosoH251
+- Gén_27:29sé señor de tus h, y se inclinen a tiH251
+- Gén_27:30padre, que Esaú su h volvió de cazarH251
+- Gén_27:35dijo: Vino tu h con engaño, y tomó tuH251
+- Gén_27:37le he dado por siervos a todos sus hH251
+- Gén_27:40por...espada vivirás, y a tu h servirásH251
+- Gén_27:41Esaú...dijo en...yo mataré a mi h JacobH251
+- Gén_27:42tu h se consuela acerca de ti...matarteH251
+- Gén_27:43levántate y huye a casa de Labán mi hH251
+- Gén_27:44hasta que el enojo de tu h se mitigueH251
+- Gén_27:45hasta que se aplaque la ira de tu hH251
+- Gén_28:2de las hijas de Labán, h de tu madreH251
+- Gén_28:5a Labán...h de Rebeca madre de JacobH251
+- Gén_29:4les dijo Jacob: H mío, ¿de dónde sois?[[H251]]
+- Gén_29:10a Raquel, hija de Labán h de su madreH251
+- Gén_29:10las ovejas de Labán el h de su madreH251
+- Gén_29:10Jacob...abrevó el rebaño de Labán h deH251
+- Gén_29:12Jacob dijo...que él era h de su padreH251
+- Gén_29:15por ser tú mi h, me servirás de balde?[[H251]]
+- Gén_31:32delante de nuestros h reconoce lo queH251
+- Gén_31:37ponlo aquí delante de mis h y de losH251
+- Gén_31:46y dijo Jacob a sus h: Recoged piedrasH251
+- Gén_31:54Inmoló...y llamó a sus h a comer panH251
+- Gén_32:3y envió Jacob mensajeros...a su h EsaúH251
+- Gén_32:6vinimos a tu h Esaú, y él también vieneH251
+- Gén_32:11líbrame ahora de la mano de mi h, deH251
+- Gén_32:13tomó de lo que...un presente para su hH251
+- Gén_32:17diciendo: Si Esaú mi h te encontrareH251
+- Gén_33:3y se inclinó a...hasta que llegó a su hH251
+- Gén_33:9suficiente tengo yo, h mío; sea para tiH251
+- Gén_34:11Siquem también dijo...y a los h de ellaH251
+- Gén_34:25h de Dina, tomaron cada uno su espadaH251
+- Gén_35:1te apareció cuando huías de tu h EsaúH251
+- Gén_35:7allí...aparecido Dios, cuando huía de su hH251
+- Gén_36:6otra tierra, separándose de Jacob su hH251
+- Gén_37:2José...apacentaba las ovejas con sus hH251
+- Gén_37:4viendo sus h que su padre lo amaba másH251
+- Gén_37:4su padre lo amaba más que a todos sus hH251
+- Gén_37:5soñó José un sueño, y lo contó a sus hH251
+- Gén_37:8respondieron sus h: ¿Reinarás tú sobreH251
+- Gén_37:9soñó aun otro sueño, y lo contó a sus hH251
+- Gén_37:10contó a su padre y a sus h; y su padreH251
+- Gén_37:10vendremos yo y tu...tus h a postrarnosH251
+- Gén_37:11sus h le tenían envidia, mas su padreH251
+- Gén_37:12fueron sus h a apacentar las ovejas deH251
+- Gén_37:13tus h apacientan las ovejas en SiquemH251
+- Gén_37:14dijo: Vé ahora, mira como están tus hH251
+- Gén_37:16respondió: Busco a mis h; te ruego queH251
+- Gén_37:17José fue tras de sus h, y los halló enH251
+- Gén_37:23que cuando llegó José a sus h, ellosH251
+- Gén_37:26Judá dijo a sus h: ¿Qué provecho hay enH251
+- Gén_37:26¿qué provecho...que matemos a nuestro hH251
+- Gén_37:27es nuestro h...sus h convinieron con élH251
+- Gén_37:30y volvió a sus h, y dijo: El joven noH251
+- Gén_38:1Judá se apartó de sus h, y se fue a unH251
+- Gén_38:8Judá dijo...Llégate a la mujer de tu hH251
+- Gén_38:8dijo a Onán...levanta descendencia a tu hH251
+- Gén_38:9que cuando se llegaba a la mujer de su hH251
+- Gén_38:9vertía...por no dar descendencia a su hH251
+- Gén_38:11no sea que muera él también como sus hH251
+- Gén_38:29salió su h; y ella dijo: ¡Qué brecha teH251
+- Gén_38:30después salió su h, el que tenía en suH251
+- Gén_42:3descendieron los 10 h de José a comprarH251
+- Gén_42:4Jacob no envió a Benjamín, h de JoséH251
+- Gén_42:6llegaron los h de José, y se inclinaronH251
+- Gén_42:7José, cuando vio a sus h, los conocióH251
+- Gén_42:8José, pues, conoció a sus h; pero ellosH251
+- Gén_42:13tus siervos somos doce h, hijos de unH251
+- Gén_42:15no...sino cuando vuestro h menor viniereH251
+- Gén_42:16traiga a vuestro h, y vosotros quedadH251
+- Gén_42:19quede preso en la...uno de vuestros hH251
+- Gén_42:20traeréis a vuestro h menor, y seránH251
+- Gén_42:21hemos pecado contra nuestro h, puesH251
+- Gén_42:28a sus h: Mi dinero se me ha devueltoH251
+- Gén_42:32somos doce h, hijos de nuestro padreH251
+- Gén_42:33esto...dejad conmigo uno de vuestros hH251
+- Gén_42:34y traedme a vuestro h el menor, paraH251
+- Gén_42:34os daré a vuestro h, y negociaréis enH251
+- Gén_42:38pues su h está muerto, y él solo haH251
+- Gén_43:3si no traéis a vuestro h con vosotrosH251
+- Gén_43:4si enviares a nuestro h con nosotrosH251
+- Gén_43:5no veréis mi...si no traéis a vuestro hH251
+- Gén_43:6declarando al varón que teníais otro hH251
+- Gén_43:7varón nos preguntó...¿Tenéis otro h? YH251
+- Gén_43:7él nos diría: Haced venir a vuestro h?[[H251]]
+- Gén_43:13tomad también a vuestro h, y levantaosH251
+- Gén_43:14os suelte al otro vuestro h, y a esteH251
+- Gén_43:29José...vio a Benjamín su h, hijo de suH251
+- Gén_43:29¿es éste vuestro h menor, de quien meH251
+- Gén_43:30se conmovieron sus...a causa de su hH251
+- Gén_44:14vino Judá con sus h a casa de José, queH251
+- Gén_44:19mi señor preguntó...¿Tenéis padre o h?[[H251]]
+- Gén_44:20tenemos un padre anciano, y un h joven
+- Gén_44:20y un h suyo murió, y él solo quedó deH251
+- Gén_44:23si vuestro h menor no desciende conH251
+- Gén_44:26no podemos ir; si nuestro h va...iremosH251
+- Gén_44:26si no está con nosotros nuestro h menorH251
+- Gén_44:33que quede...que el joven vaya con sus hH251
+- Gén_45:1con él, al darse a conocer José a sus hH251
+- Gén_45:3y dijo José a sus h: Yo soy José; ¿viveH251
+- Gén_45:3dijo...Y sus h no pudieron responderleH251
+- Gén_45:4dijo José a sus h: Acercaos ahora a míH251
+- Gén_45:4él dijo: Yo soy José vuestro h, el queH251
+- Gén_45:12ojos ven, y los ojos de mi h BenjamínH251
+- Gén_45:14echó sobre el cuello de Benjamín su hH251
+- Gén_45:15besó a...sus h...sus h hablaron con élH251
+- Gén_45:16oyó...diciendo: Los h de José han venidoH251
+- Gén_45:17dijo...Dí a tus h: Haced esto: CargadH251
+- Gén_45:24y despidió a sus h, y ellos se fueronH251
+- Gén_46:31José dijo a sus h, y a la casa de suH251
+- Gén_46:31mis h y la casa de mi padre...han venidoH251
+- Gén_47:1padre y mis h, y sus ovejas y sus vacasH251
+- Gén_47:2y de los postreros de sus h tomó cincoH251
+- Gén_47:3Faraón dijo a sus h: ¿Cuál es vuestroH251
+- Gén_47:5diciendo: Tu padre y tus h han venidoH251
+- Gén_47:6en lo...haz habitar a tu padre y a tus hH251
+- Gén_47:11así hizo habitar a su padre y a sus hH251
+- Gén_47:12alimentaba José a su padre y a sus hH251
+- Gén_48:6por el nombre de sus h serán llamadosH251
+- Gén_48:19pero su h menor será más grande que élH251
+- Gén_48:22dado a ti una parte más que a tus hH251
+- Gén_49:5Simeón y...son h; armas de iniquidad susH251
+- Gén_49:8Judá, te alabarán tus h; tu mano en laH251
+- Gén_49:26del que fue apartado de entre sus hH251
+- Gén_50:8José, y sus h, y la casa de su padreH251
+- Gén_50:14y volvió José a Egipto, él y sus h, yH251
+- Gén_50:15viendo los h de José que su padre eraH251
+- Gén_50:17que perdones ahora la maldad de tus hH251
+- Gén_50:18vinieron...h, y se postraron delante deH251
+- Gén_50:24y José dijo a sus h: Yo voy a morirH251
+- Éxo_1:6y murió José, y todos sus h, y todaH251
+- Éxo_2:11crecido ya Moisés, salió a sus h, y losH251
+- Éxo_2:11un egipcio que golpeaba a uno de...sus hH251
+- Éxo_4:14¿no conozco yo a tu h Aarón, levita, yH251
+- Éxo_4:18iré...volveré a mis h que están en EgiptoH251
+- Éxo_7:1yo te he...y tu h Aarón será tu profetaH251
+- Éxo_7:2y Aarón tu h hablará a Faraón, para queH251
+- Éxo_28:1harás llegar delante de ti a Aarón tu hH251
+- Éxo_28:2harás vestiduras sagradas a Aarón tu hH251
+- Éxo_28:4las vestiduras sagradas para Aarón tu hH251
+- Éxo_28:41con ellos vestirás a Aarón tu h, y a susH251
+- Éxo_32:27y matad cada uno a su h, y a su amigoH251
+- Éxo_32:29cada uno se ha consagrado en...en su hH251
+- Lev_10:4y sacad a vuestros h de delante delH251
+- Lev_10:6vuestros h...lamentarán por el incendioH251
+- Lev_16:2di a Aarón tu h, que no en todo tiempoH251
+- Lev_18:14la desnudez del h de tu padre noH251
+- Lev_18:14su mujer; es mujer del h de tu padreH251
+- Lev_18:16la desnudez de la mujer de tu h noH251
+- Lev_18:16no descubrirás; es la desnudez de tu hH251
+- Lev_19:17no aborrecerás a tu h en tu corazónH251
+- Lev_20:20que durmiere con la mujer del h de suH1733
+- Lev_20:20desnudez del h de su padre descubrióH1730
+- Lev_20:21el que tomare la mujer de su h, cometeH251
+- Lev_20:21desnudez de su h descubrió; sin hijosH251
+- Lev_21:2por su padre, o por su hijo o por su hH251
+- Lev_21:10el sumo sacerdote entre sus h, sobreH251
+- Lev_25:14compraréis...no engañe ninguno a su hH251
+- Lev_25:25, Lev_25:35, Lev_25:39cuando tu h empobreciereH251
+- Lev_25:25rescatará lo que su h hubiere vendidoH251
+- Lev_25:36tendrás temor de...y tu h vivirá contigoH251
+- Lev_25:46pero en vuestros h...no os enseñorearéisH251
+- Lev_25:46no os...cada uno sobre su h con durezaH251
+- Lev_25:47tu h...empobreciere, y se vendiere alH251
+- Lev_25:48rescatado; uno de sus h lo rescataráH251
+- Núm_6:7ni por su h ni por su hermana, podráH251
+- Núm_8:26servirán con sus h en el tabernáculoH251
+- Núm_16:10hizo acercar...a todos tus h los hijosH251
+- Núm_18:2a tus h...haz que se acerquen a ti y seH251
+- Núm_18:6he tomado a vuestros h los levitas deH251
+- Núm_20:3cuando perecieron nuestros h delante deH251
+- Núm_20:8toma la vara...y Aarón tu h, y hablad aH251
+- Núm_20:14dice Israel tu h: Tú has sabido todoH251
+- Núm_25:6trajo una madianita a sus h, a ojos deH251
+- Núm_27:4heredad entre los h de nuestro padreH251
+- Núm_27:7de una heredad entre los h de su padreH251
+- Núm_27:9no tuviere hija...su herencia a sus hH251
+- Núm_27:10y si no tuviere h, daréis su herenciaH251
+- Núm_27:10daréis su herencia a los h de su padreH251
+- Núm_27:11si...no tuviere h, daréis su herencia aH251
+- Núm_27:13tu pueblo, como fue reunido tu h AarónH251
+- Núm_32:6de Rubén: ¿Irán vuestros h a la guerraH251
+- Núm_36:2dé la posesión de Zelofehad nuestro hH251
+- Deu_1:16entre vuestros h, y juzgad justamenteH251
+- Deu_1:16oíd...y juzgad...entre el hombre y su hH251
+- Deu_1:28nuestros h han atemorizado...diciendoH251
+- Deu_2:4el territorio de vuestros h los hijos deH251
+- Deu_2:8nos alejamos del territorio de nuestros hH251
+- Deu_3:18iréis armados...delante de vuestros h losH251
+- Deu_3:20hasta que Jehová dé reposo a vuestros hH251
+- Deu_10:9Leví no tuvo parte ni heredad con sus hH251
+- Deu_13:6te incitare tu h...diciendo en secretoH251
+- Deu_15:2no lo demandará más a su...h, porque esH251
+- Deu_15:3lo que tu h tuviere tuyo, lo perdonaráH251
+- Deu_15:7cuando haya...menesteroso...de tus h enH251
+- Deu_15:7ni cerrarás tu mano contra tu h pobreH251
+- Deu_15:9con malos ojos a tu h menesteroso paraH251
+- Deu_15:11abrirás tu mano a tu h, al pobre y alH251
+- Deu_15:12se vendiere a ti tu h hebreo o hebreaH251
+- Deu_17:15de entre tus h pondrás rey sobre tiH251
+- Deu_17:15rey...no podrás poner...que no sea tu hH251
+- Deu_17:20que no se eleve su corazón sobre sus hH251
+- Deu_18:2no tendrán, pues, heredad entre sus hH251
+- Deu_18:7ministrará...como todos sus h los levitasH251
+- Deu_18:15profeta de en medio de ti, de tus hH251
+- Deu_18:18profeta les levantaré de en...de sus hH251
+- Deu_19:18si...hubiere acusado falsamente a su hH251
+- Deu_19:19haréis a él como él pensó hacer a su hH251
+- Deu_20:8vaya...y no apoque el corazón de sus hH251
+- Deu_22:1el buey de tu h, o...lo volverás a tu hH251
+- Deu_22:2y si tu h no fuere tu vecino, o no loH251
+- Deu_22:2contigo hasta que tu h lo busque, y seH251
+- Deu_22:3lo mismo harás con toda cosa de tu hH251
+- Deu_22:4si vieres el asno de tu h, o su bueyH251
+- Deu_23:7no aborrecerás al edomita...es tu h; noH251
+- Deu_23:19no exigirás de tu h interés de dineroH251
+- Deu_23:20mas de tu h no lo exigirás, para queH251
+- Deu_24:7que hubiere hurtado a uno de su h losH251
+- Deu_24:14no oprimirás...sea de tus h o de losH251
+- Deu_25:3se sienta tu h envilecido delante de tusH251
+- Deu_25:5h habitaren juntos, y muriere alguno deH251
+- Deu_25:6sucederá en el nombre de su h muertoH251
+- Deu_25:7cuñado no quiere suscitar nombre...a su hH251
+- Deu_25:9que no quiere edificar la casa de su hH251
+- Deu_28:54mirará con malos ojos a su h, y a laH251
+- Deu_32:50como murió Aarón tu h en el monte HorH251
+- Deu_33:9y no reconoció a sus h, ni a sus hijosH251
+- Deu_33:16de aquel que es príncipe entre sus hH251
+- Deu_33:24sea el amado de su h, y moje en aceiteH251
+- Jos_1:14pasaréis armados delante...vuestros hH251
+- Jos_1:15que Jehová haya dado reposo a vuestros hH251
+- Jos_2:13y que salvaréis la vida...a mis h y misH251
+- Jos_2:18reunirás en...a tus h y a toda la familiaH251
+- Jos_6:23sacaron a Rahab...a sus h y todo lo queH251
+- Jos_14:8mis h...hicieron desfallecer el corazónH251
+- Jos_15:17y la tomó Otoniel, hijo de...h de CalebH251
+- Jos_17:4que nos diese heredad entre nuestros hH251
+- Jos_17:4les dio heredad entre los h del padreH251
+- Jos_22:3no habéis dejado a vuestros h en esteH251
+- Jos_22:4Dios ha dado reposo a vuestro h, comoH251
+- Jos_22:7dio...heredad entre sus h a este ladoH251
+- Jos_22:8compartid con vuestros h el botín deH251
+- Jue_1:3dijo a Simeón su h: Sube conmigo alH251
+- Jue_1:13la tomó Otoniel hijo...h menor de CalebH251
+- Jue_1:17fue Judá con su h Simeón, y derrotaronH251
+- Jue_3:9Otoniel hijo de Cenaz, h menor de CalebH251
+- Jue_8:19él dijo: Mis h eran, hijos de mi madreH251
+- Jue_9:1Abimelec...a los h de su madre, y hablóH251
+- Jue_9:3los h de su madre...decían: Nuestro h esH251
+- Jue_9:5mató a sus h los hijos de Jerobaal, 70H251
+- Jue_9:18Abimelec hijo...por cuanto es vuestro hH251
+- Jue_9:21se estuvo por miedo de Abimelec su hH251
+- Jue_9:24la sangre...recayera sobre Abimelec su hH251
+- Jue_9:24fortalecieron las...para matar a sus hH251
+- Jue_9:26vino con sus h y se pasaron a SiquemH251
+- Jue_9:31que Gaal...y sus h han venido a SiquemH251
+- Jue_9:41Zebul echó fuera a Gaal y a sus h, paraH251
+- Jue_9:56mal que hizo...matando a sus setenta hH251
+- Jue_11:3huyó, pues, Jefté de sus h, y habitó enH251
+- Jue_14:3¿no hay mujer entre las hijas de tus hH251
+- Jue_16:31descendieron sus h y toda la casa deH251
+- Jue_18:8volviendo...a sus h...sus h les dijeronH251
+- Jue_18:14aquellos cinco hombres...dijeron a sus hH251
+- Jue_19:23no, h míos, os ruego que no cometáisH251
+- Jue_20:13no quisieron oir la voz de sus h losH251
+- Jue_20:23¿volveremos a pelear con...nuestros h?[[H251]]
+- Jue_20:28volveremos a salir contra...nuestros hH251
+- Jue_21:6Israel se arrepintieron a causa...su hH251
+- Jue_21:22y si vinieren...sus h a demandárnoslasH251
+- Rut_4:3vende...las tierras que tuvo nuestro hH251
+- Rut_4:10el nombre...no se borre de entre sus hH251
+- 1Sa_14:3h de Icabod, hijo de Finees, hijo deH251
+- 1Sa_16:13y Samuel...lo ungió en medio de sus hH251
+- 1Sa_17:17toma ahora para tus h un efa de esteH251
+- 1Sa_17:17llévalo pronto al campamento a tus hH251
+- 1Sa_17:18y mira si tus h están buenos, y tomaH251
+- 1Sa_17:22preguntó por sus h, si estaban bienH251
+- 1Sa_17:28oyéndole hablar Eliab su h mayor conH251
+- 1Sa_20:29que me dejes ir...mi h me lo ha mandadoH251
+- 1Sa_20:29permíteme ir...para visitar a mis hH251
+- 1Sa_22:1cuando sus h...supieron, vinieron allíH251
+- 1Sa_26:6y a Abisai hijo de Sarvia, h de JoabH251
+- 1Sa_30:23y David dijo: No hagáis eso, h míosH251
+- 2Sa_1:26angustia tengo por ti, h mío JonatánH251
+- 2Sa_2:22¿cómo levantaría...delante de Joab tu h?[[H251]]
+- 2Sa_2:26que se vuelva de perseguir a sus h?[[H251]]
+- 2Sa_2:27hubiera dejado de seguir a sus h desdeH251
+- 2Sa_3:8yo he hecho hoy misericordia...con sus hH251
+- 2Sa_3:27en venganza de la muerte de Asael su hH251
+- 2Sa_3:30Joab...y Abisai su h, mataron a AbnerH251
+- 2Sa_3:30había dado muerte a Asael h de ellosH251
+- 2Sa_4:6Baana su h se introdujeron en la casaH251
+- 2Sa_4:9David respondió a Recab y a su h BaanaH251
+- 2Sa_10:10del ejército en mano de Abisai su hH251
+- 2Sa_13:3Jonadab, hijo de Simea, h de David; yH251
+- 2Sa_13:4yo amo a Tamar la hermana de...mi hH251
+- 2Sa_13:7vé...a casa de Amnón tu h, y hazle deH251
+- 2Sa_13:8y fue Tamar a casa de su h Amnón, elH251
+- 2Sa_13:10las llevó a su h Amnón a la alcobaH251
+- 2Sa_13:12le respondió: No, h mío, no me hagasH251
+- 2Sa_13:20su h Absalón: ¿Ha estado contigo tu hH251
+- 2Sa_13:20pues calla ahora, hermana mía; tu h esH251
+- 2Sa_13:20quedó Tamar...en casa de Absalón su hH251
+- 2Sa_13:26si no, te ruego que venga...Amnón mi hH251
+- 2Sa_13:32pero Jonadab, hijo de Simea h de DavidH251
+- 2Sa_14:7entrega al que mató a su h, para que leH251
+- 2Sa_14:7le hagamos morir por la vida de su hH251
+- 2Sa_15:20tú vuélvete, y haz volver a tus hH251
+- 2Sa_18:2el mando de Abisai hijo de Sarvia, h deH251
+- 2Sa_19:12vosotros sois mis h; mis huesos y miH251
+- 2Sa_19:41¿por qué...nuestros h, te han llevadoH251
+- 2Sa_20:9Joab dijo a Amasa: ¿Te va bien, h mío?[[H251]]
+- 2Sa_20:10Joab y su h...fueron en persecución deH251
+- 2Sa_21:21y lo mató Jonatán, hijo de Simea h deH251
+- 2Sa_23:18Abisai h de Joab...fue el principal deH251
+- 2Sa_23:24Asael h de Joab fue de los treintaH251
+- 1Re_1:9convidó a...sus h los hijos del reyH251
+- 1Re_1:10pero no convidó al...ni a Salomón su hH251
+- 1Re_2:7mí, cuando iba huyendo de Absalón tu hH251
+- 1Re_2:15el reino...vino a ser de mi h, porqueH251
+- 1Re_2:21dese Abisag...por mujer a tu h AdoníasH251
+- 1Re_2:22es mi h mayor, y ya tiene también alH251
+- 1Re_9:13¿qué ciudades son...que me has dado, h?[[H251]]
+- 1Re_12:24vayáis, ni peleéis contra vuestros hH251
+- 1Re_13:30le endecharon, diciendo: ¡Ay, h mío![[H251]]
+- 1Re_20:32respondió: Si él vive aún, mi h esH251
+- 1Re_20:33y dijeron: Tu h Ben-adad vive. Y élH251
+- 2Re_9:2haz que se levante de entre sus hH251
+- 2Re_10:13halló allí a los h de Ocozías rey deH251
+- 2Re_10:13y ellos dijeron: Somos h de OcozíasH251
+- 2Re_23:9comían panes sin levadura entre sus hH251
+- 1Cr_1:19Peleg...el nombre de su h fue JoctánH251
+- 1Cr_2:32los hijos de Jada h de Samai: Jeter yH251
+- 1Cr_2:42los hijos de Caleb h de Jerameel fueronH251
+- 1Cr_4:9Jabes fue más ilustre que sus h, al cualH251
+- 1Cr_4:11Quelub h de Súa engendró a Mehir, elH251
+- 1Cr_4:27pero sus h no tuvieron muchos hijos, niH251
+- 1Cr_5:2Judá llegó a ser el mayor sobre sus hH251
+- 1Cr_5:7sus h...tenían por príncipes a Jeiel y aH251
+- 1Cr_5:13sus h, según las familias de sus padresH251
+- 1Cr_6:39y su h Asaf, el cual estaba a su manoH251
+- 1Cr_6:44a la mano izquierda estaban sus h losH251
+- 1Cr_6:48sus h los levitas fueron puestos sobreH251
+- 1Cr_7:5sus h, de Isacar...eran 87.000 hombresH251
+- 1Cr_7:16su h fue Seres, cuyos hijos fueron UlamH251
+- 1Cr_7:22Efraín...y vinieron sus h a consolarloH251
+- 1Cr_7:35los hijos de Helem su h: Zofa, ImnaH251
+- 1Cr_8:32éstos también habitaron con sus h enH251
+- 1Cr_8:39y los hijos de Esec su h: Ulam...JehúsH251
+- 1Cr_9:6los hijos de Zera, Jeuel y sus h, 690H251
+- 1Cr_9:9sus h por sus linajes fueron 956 TodosH251
+- 1Cr_9:13y sus h...en número de 1:760, hombresH251
+- 1Cr_9:17los porteros...Talmón, Ahimán y sus hH251
+- 1Cr_9:19hijo de Coré, y sus h los coreítas porH251
+- 1Cr_9:25sus h...venían cada siete días según suH251
+- 1Cr_9:32los hijos de Coat, y de sus h, teníanH251
+- 1Cr_9:38estos habitaban...en Jerusalén con sus hH251
+- 1Cr_11:20Abisai, h de Joab, era jefe de los 30H251
+- 1Cr_11:26y los valientes de los...Asael h de JoabH251
+- 1Cr_11:38Joel h de Natán, Mibhar hijo de HagraiH251
+- 1Cr_11:45Jediael hijo de...y Joha su h, tizitaH251
+- 1Cr_12:2con arco...De los h de Saúl de BenjamínH251
+- 1Cr_12:29los hijos de Benjamín h de Saúl, 3.000H251
+- 1Cr_12:32sabían...cuyo dicho seguían todos sus hH251
+- 1Cr_12:39porque sus h habían preparado para ellosH251
+- 1Cr_13:2enviaremos a todas partes por nuestros hH251
+- 1Cr_15:5Coat, Uriel el principal, y sus h, 120H251
+- 1Cr_15:6de Merari, Asaías el principal, y sus hH251
+- 1Cr_15:7los hijos de Gersón, Joel...y sus h, 130H251
+- 1Cr_15:8de Elizafán, Semaías el principal, y sus hH251
+- 1Cr_15:9de Hebrón, Eliel el principal, y sus hH251
+- 1Cr_15:10Aminadab el principal, y sus h, 112H251
+- 1Cr_15:12santificaos, vosotros y vuestros hH251
+- 1Cr_15:16que designasen de sus h a cantores conH251
+- 1Cr_15:17Hemán hijo de Joel; y de sus h, a AsafH251
+- 1Cr_15:17de los hijos de Merari y de sus h; y deH251
+- 1Cr_15:18y con ellos a sus h del segundo ordenH251
+- 1Cr_16:7a aclamar a Jehová por mano de...sus hH251
+- 1Cr_16:37delante del arca de...a Asaf y a sus hH251
+- 1Cr_16:38a Obed-edom y a sus 68 h...porteros; y aH251
+- 1Cr_16:39y a los sacerdotes sus h, delante delH251
+- 1Cr_19:11el resto de la...en mano de Abisai su hH251
+- 1Cr_19:15huyeron...ellos delante de Abisai su hH251
+- 1Cr_20:5Elhanán hijo...mató a Lahmi, h de GoliatH251
+- 1Cr_20:7mató Jonatán, hijo de Simea h de DavidH251
+- 1Cr_23:32las órdenes de los hijos de Aarón sus hH251
+- 1Cr_24:25h de Micaía, Isías; e hijo de IsíasH1730
+- 1Cr_24:31también echaron suertes, como sus hH251
+- 1Cr_24:31el...igualmente que el menor de sus hH251
+- 1Cr_25:7el número de ellos con sus h...fue 288H251
+- 1Cr_25:9para Gedalías, quien con sus h e hijosH251
+- 1Cr_25:10Zacur, con sus hijos y sus h, doceH251
+- 1Cr_25:11para Izri, con sus hijos y sus h, doceH251
+- 1Cr_25:12Netanías, con sus hijos y sus h, doceH251
+- 1Cr_25:13Buquías, con sus hijos y sus h, doceH251
+- 1Cr_25:14Jesarela, con sus hijos y sus h, doceH251
+- 1Cr_25:15Jesahías, con sus hijos y sus h, doceH251
+- 1Cr_25:16Matanías, con sus hijos y sus h, doceH251
+- 1Cr_25:17para Simei, con sus hijos y sus h, doceH251
+- 1Cr_25:18Azareel, con sus hijos y sus h, doceH251
+- 1Cr_25:19Hasabías, con sus hijos y sus h, doceH251
+- 1Cr_25:20Subael, con sus hijos y sus h, doceH251
+- 1Cr_25:21Matatías, con sus hijos y sus h, doceH251
+- 1Cr_25:22Jeremot, con sus hijos y sus h, doceH251
+- 1Cr_25:23Hananías, con sus hijos y sus h, doceH251
+- 1Cr_25:24Josbecasa, con sus hijos y sus h, doceH251
+- 1Cr_25:25Hanani, con sus hijos y sus h, doceH251
+- 1Cr_25:26Maloti, con sus hijos y sus h, doceH251
+- 1Cr_25:27Eliata, con sus hijos y sus h, doceH251
+- 1Cr_25:28Hotir, con sus hijos y sus h, doceH251
+- 1Cr_25:29Gidalti, con sus hijos y sus h, doceH251
+- 1Cr_25:30Mahaziot, con sus hijos y sus h, doceH251
+- 1Cr_25:31Romanti-ezer, con sus hijos y sus hH251
+- 1Cr_26:7los hijos de Semaías...Elzabad, y sus hH251
+- 1Cr_26:8ellos con sus hijos y sus h, hombresH251
+- 1Cr_26:9y los hijos de Meselemías y sus h, 18H251
+- 1Cr_26:11los hijos de Hosa y sus h fueron 13H251
+- 1Cr_26:12alternando...en la guardia con sus hH251
+- 1Cr_26:22hijos de Jehieli, Zetam y Joel su hH251
+- 1Cr_26:25en cuanto a su h Eliezer, hijo de ésteH251
+- 1Cr_26:26este Selomit y sus h tenían a su cargoH251
+- 1Cr_26:28estaba a cargo de Selomit y de sus hH251
+- 1Cr_26:30de los hebronitas, Hasabías y sus hH251
+- 1Cr_26:32sus h, hombres valientes, eran 2.700H251
+- 1Cr_27:7para el cuarto mes era Asael h de JoabH251
+- 1Cr_27:18de Judá, Eliú, uno de los h de DavidH251
+- 1Cr_28:2en pie dijo: Oídme, h míos, y puebloH251
+- 2Cr_5:12levitas cantores...sus hijos y sus hH251
+- 2Cr_11:4no subáis, ni peleéis contra vuestros hH251
+- 2Cr_11:22Abías hijo...Jefe y príncipe de sus hH251
+- 2Cr_19:10causa que viniere a...de vuestros h queH251
+- 2Cr_19:10que no venga ira sobre vosotros y...hH251
+- 2Cr_21:2quien tuvo por h, hijos de Josafat, aH251
+- 2Cr_21:4Joram...mató a espada a todos sus h, yH251
+- 2Cr_21:13además has dado muerte a tus h, a laH251
+- 2Cr_22:8halló...a los hijos de los h de OcozíasH251
+- 2Cr_28:8tomaron cautivos de sus h a 200.000H251
+- 2Cr_28:11los cautivos...tomados de vuestros hH251
+- 2Cr_28:15y los llevaron hasta...cerca de sus hH251
+- 2Cr_29:15reunieron a sus h, y se santificaronH251
+- 2Cr_29:34sus h los levitas les ayudaron hastaH251
+- 2Cr_30:7no seáis como vuestros padres y como...hH251
+- 2Cr_30:9vuestros h y vuestros hijos hallaránH251
+- 2Cr_31:12al levita Conanías...y Simei su h fueH251
+- 2Cr_31:13mayordomos al servicio de...Simei su hH251
+- 2Cr_31:15dar con fidelidad a sus h sus porcionesH251
+- 2Cr_35:5de las familias de vuestros h los hijosH251
+- 2Cr_35:6preparad a vuestros h para que haganH251
+- 2Cr_35:9Semaías y Natanael sus h...dieron a losH251
+- 2Cr_35:15sus h los levitas preparaban para ellosH251
+- 2Cr_36:4Eliaquim h de Joacaz por rey sobre JudáH251
+- 2Cr_36:4a Joacaz su h tomó...y lo llevó a EgiptoH251
+- 2Cr_36:10y constituyó a Sedequías su h por reyH251
+- Esd_3:2se levantaron Jesús hijo de...y sus hH251
+- Esd_3:2y Zorobabel hijo de Salatiel y sus hH251
+- Esd_3:8comenzaron Zorobabel...y los otros sus hH251
+- Esd_3:9Jesúa también, sus hijos y sus h, CadmielH251
+- Esd_3:9los hijos de Henadad, sus hijos y sus hH251
+- Esd_6:20sacrificaron la pascua...por sus h losH251
+- Esd_7:18lo que a ti y a tus h os parezca hacerH252
+- Esd_8:17que habían de hablar a Iddo, y a sus hH251
+- Esd_8:18a Serebías con sus hijos y sus h, 18H251
+- Esd_8:19a Jesaías...sus h y a sus hijos, veinteH251
+- Esd_8:24aparté luego...y con ellos diez de sus hH251
+- Esd_10:18los hijos de Jesúa...y de sus h: MaasíasH251
+- Neh_1:2que vino Hanani, uno de mis h, conH251
+- Neh_3:1entonces se levantó...Eliasib con sus hH251
+- Neh_3:18después de él restauraron sus h, BavaiH251
+- Neh_4:2habló delante de sus h y del ejércitoH251
+- Neh_4:14y pelead por vuestros h, por vuestrosH251
+- Neh_4:23ni yo ni mis h, ni mis jóvenes, ni laH251
+- Neh_5:1hubo gran clamor del...contra sus h judíosH251
+- Neh_5:5carne es como la carne de nuestros hH251
+- Neh_5:7¿exigís interés cada uno a vuestros h?[[H251]]
+- Neh_5:8rescatamos a nuestros h judíos que hanH251
+- Neh_5:8¿y vosotros vendéis aun a vuestro h, yH251
+- Neh_5:10mis h y mis criados les hemos prestadoH251
+- Neh_5:14ni mis h comimos el pan del gobernadorH251
+- Neh_7:2mandé a mi h Hanani, y a Hananías, jefeH251
+- Neh_10:10h Sebanías, Hodías, Kelita, PelaíasH251
+- Neh_10:29reunieron con sus h y sus principalesH251
+- Neh_11:12y sus h, los que hacían la obra de laH251
+- Neh_11:13sus h, jefes de familias, 242; y AmasaiH251
+- Neh_11:14y sus h, hombres de gran vigor, 128H251
+- Neh_11:17Bacbuquías el segundo de entre sus hH251
+- Neh_11:19porteros Acub, Talmón y sus h, guardasH251
+- Neh_12:7estos eran los príncipes de...y sus h enH251
+- Neh_12:8que con sus h oficiaba en los cantos deH251
+- Neh_12:9Bacbuquías y Uni, sus h, cada cual enH251
+- Neh_12:24Jesúa hijo...y sus h delante de ellosH251
+- Neh_12:36y sus h Semaías, Azarael, MilalaiH251
+- Neh_13:13y ellos tenían que repartir a sus hH251
+- Est_10:3y estimado por la multitud de sus hH251
+- Job_1:13comían y bebían vino en casa de su hH251
+- Job_1:18estaban...bebiendo...en casa de su h elH251
+- Job_6:15mis h me traicionaron como un torrenteH251
+- Job_19:13alejar de mí a mis h, y mis conocidosH251
+- Job_22:6porque sacaste prenda a tus h sin causaH251
+- Job_30:29venido a ser h de chacales, y compañeroH251
+- Job_42:11vinieron a él todos sus h y...hermanasH251
+- Job_42:15les dio su padre herencia entre sus hH251
+- Sal_22:22anunciaré tu nombre a mis h; enH251
+- Sal_35:14como por mi h andaba; como el que traeH251
+- Sal_49:7ninguno de ellos podrá...redimir al hH251
+- Sal_50:20hablabas contra tu h; contra el hijoH251
+- Sal_69:8extraño he sido para mis h, y...hijosH251
+- Sal_122:8por amor de mis h y mis compañeros diréH251
+- Sal_133:1mirad cuán bueno y...es habitar los hH251
+- Pro_6:19el que siembra discordia entre los hH251
+- Pro_17:2y con los h compartirá la herenciaH251
+- Pro_17:17y es como un h en tiempo de angustiaH251
+- Pro_18:9negligente...es h del hombre disipadorH251
+- Pro_18:19h ofendido es más tenaz que una ciudadH251
+- Pro_18:19contiendas de los h son como cerrojos
+- Pro_18:24amigo; y amigo hay más unido que un hH251
+- Pro_19:7los h del pobre le aborrecen; ¡cuántoH251
+- Pro_27:10ni vayas a la casa de tu h en el díaH251
+- Pro_27:10mejor...el vecino cerca que el h lejosH251
+- Ecl_4:8un hombre solo y...no tiene hijo ni hH251
+- Cnt_8:1¡oh, si tú fueras como un h mío queH251
+- Isa_3:6alguno tomare de la mano a su h, de laH251
+- Isa_9:19ira...el hombre no tendrá piedad de su hH251
+- Isa_19:2y cada uno peleará contra su h, cadaH251
+- Isa_41:6a su vecino, y a su h dijo: EsfuérzateH251
+- Isa_58:7lo cubras, y no te escondas de tu h?[[H1320]]
+- Isa_66:5vuestros h que os aborrecen, y os echanH251
+- Isa_66:20y traerán a todos vuestros h de entreH251
+- Jer_7:15como eché a todos vuestros h, a todaH251
+- Jer_9:4ningún h tenga confianza...todo h engañaH251
+- Jer_12:6tus h y la casa de tu padre...contra tiH251
+- Jer_22:18no lo llorarán, diciendo: ¡Ay, h mío![[H251]]
+- Jer_23:35así diréis...cada cual a su h: ¿Qué haH251
+- Jer_29:16dicho...de vuestros h que no salieronH251
+- Jer_31:34no enseñará...ninguno a su h, diciendoH251
+- Jer_34:9usase a los judíos, sus h, como siervosH251
+- Jer_34:14dejará cada uno a su h hebreo que leH251
+- Jer_34:17promulgar cada uno libertad a su h, yH251
+- Jer_35:3a sus h, a todos sus hijos, y a toda laH251
+- Jer_41:8y los dejó, y no los mató entre sus hH251
+- Jer_49:10será destruida...sus h y sus vecinosH251
+- Eze_11:15h, tus h, los hombres...tu parentescoH251
+- Eze_18:18despojó violentamente al h, e hizo enH251
+- Eze_33:30y habla...cada uno con su h, diciendoH251
+- Eze_38:21espada de cada cual será contra su hH251
+- Eze_44:25por padre o...h...podrán contaminarseH251
+- Ose_2:1decid a vuestros h: Ammi; y a vuestrasH251
+- Ose_12:3tomó por el calcañar a su h, y con suH251
+- Ose_13:15aunque él fructifique entre los hH251
+- Amó_1:9Edom, y no se acordaron del pacto de hH251
+- Amó_1:11persiguió a espada a su h, y violó todoH251
+- Abd_1:10por la injuria a tu h Jacob te cubriráH251
+- Abd_1:12mirando en el día de tu h, en el día deH251
+- Miq_5:3y el resto de sus h se volverá con losH251
+- Miq_7:2por sangre; cada cual arma red a su hH251
+- Hag_2:22vendrán abajo...por la espada de su hH251
+- Zac_7:9misericordia y...cada cual con su hH251
+- Zac_7:10piense mal en su corazón contra su hH251
+- Mal_1:2¿no era Esaú h de Jacob? dice JehováH251
+- Mat_1:2Isaac a Jacob, y Jacob a Judá y a...hG80
+- Mat_1:11Josías engendró a Jeconías y a sus hG80
+- Mat_4:18a dos h, Simón Pedro, y Andrés su hG80
+- Mat_4:21vio a otros dos h, Jacobo...y Juan su hG80
+- Mat_5:22que cualquiera que se enoje contra su hG80
+- Mat_5:22y cualquiera que diga: Necio, a su hG80
+- Mat_5:23acuerdas de que tu h tiene algo contraG80
+- Mat_5:24y anda, reconcíliate primero con tu hG80
+- Mat_5:47si saludáis a vuestros h solamente, ¿quéG80
+- Mat_7:3por que miras la paja...en el ojo de tu hG80
+- Mat_7:4cómo dirás a tu h: Déjame sacar la pajaG80
+- Mat_7:5ojo...para sacar la paja del ojo de tu hG80
+- Mat_10:2Simón, llamado Pedro, y Andrés su hG80
+- Mat_10:2Jacobo hijo de Zebedeo, y Juan su hG80
+- Mat_10:21el h entregará a la muerte al h, y elG80
+- Mat_12:46su madre y sus h estaban afuera, y leG80
+- Mat_12:47he aquí tu madre y tus h están afueraG80
+- Mat_12:48¿quién es mi madre, y quiénes...mis h?[[G80]]
+- Mat_12:49mano...dijo: He aquí mi madre y mis hG80
+- Mat_12:50hace la voluntad de mi Padre...es mi hG80
+- Mat_13:55y sus h, Jacobo, José, Simón y JudasG80
+- Mat_14:3por causa de Herodías, mujer de...su hG80
+- Mat_17:1Jesús tomó a...a Jacobo y a Juan su hG80
+- Mat_18:15tu h peca contra ti, vé y repréndeleG80
+- Mat_18:15vé y...si te oyere, has ganado a tu hG80
+- Mat_18:21¿cuántas veces perdonaré a mi h queG80
+- Mat_18:35si no perdonáis...cada uno a su h susG80
+- Mat_19:29que haya dejado casas, o h, o hermanasG80
+- Mat_20:24oyeron esto, se enojaron contra los...hG80
+- Mat_22:24su h...y levantará descendencia a su hG80
+- Mat_22:25hubo, pues, entre nosotros siete h; elG80
+- Mat_22:25primero murió...dejó su mujer a su hG80
+- Mat_23:8uno es vuestro...todos vosotros sois hG80
+- Mat_25:40lo hicisteis a uno de estos mis h másG80
+- Mat_28:10id, dad las nuevas a mis h, para queG80
+- Mar_1:16andando...vio a Simón y a Andrés su hG80
+- Mar_1:19Jacobo hijo de Zebedeo, y a Juan su hG80
+- Mar_3:17a Juan h de Jacobo; a quienes apellidóG80
+- Mar_3:31vienen...sus h y su madre, y quedándoseG80
+- Mar_3:32le dijo: Tu madre y tus h están afueraG80
+- Mar_3:33respondió...¿Quién es mi madre y mis h?[[G80]]
+- Mar_3:34de él, dijo: He aquí mi madre y mis hG80
+- Mar_3:35ése es mi h, y mi hermana, y mi madreG80
+- Mar_5:37que le siguiese nadie sino...Juan h deG80
+- Mar_6:3¿no es éste el...h de Jacobo, de José, deG80
+- Mar_6:17por causa de Herodías, mujer de...su hG80
+- Mar_6:18no te es lícito tener la mujer de tu hG80
+- Mar_10:29haya dejado...o h, o hermanas, o padreG80
+- Mar_10:30casas, h, hermanas, madres, hijos, yG80
+- Mar_12:19el h de alguno muriere y dejare esposaG80
+- Mar_12:19que su h...levante descendencia a su hG80
+- Mar_12:20hubo siete h; el primero tomó esposaG80
+- Mar_13:12el h entregará a la muerte al h, y elG80
+- Luc_3:1y su h Felipe tetrarca de Iturea y deG80
+- Luc_3:19a causa de Herodías, mujer de...su hG80
+- Luc_6:14a Andrés su h, Jacobo y Juan, FelipeG80
+- Luc_6:16Judas h de Jacobo, y Judas IscarioteG80
+- Luc_6:41miras la paja...está en el ojo de tu hG80
+- Luc_6:42¿o cómo puedes decir a tu h: H, déjameG80
+- Luc_6:42sacar la paja que...en el ojo de tu hG80
+- Luc_8:19su madre y sus h vinieron a él; pero noG80
+- Luc_8:20tu madre y tus h están fuera y quierenG80
+- Luc_8:21h son los que oyen la palabra de DiosG80
+- Luc_12:13a mi h que parta conmigo la herenciaG80
+- Luc_14:12no llames...a tus h, ni a tus parientesG80
+- Luc_14:26no aborrece a su...h, y hermanas, y aunG80
+- Luc_15:27le dijo: Tu h ha venido; y tu padre haG80
+- Luc_15:32este tu h era muerto, y ha revividoG80
+- Luc_16:28tengo cinco h, para que les testifiqueG80
+- Luc_17:3si tu h pecare contra ti, repréndeleG80
+- Luc_18:29que haya dejado...h, o mujer, o hijosG80
+- Luc_20:28el h de alguno muriere teniendo mujerG80
+- Luc_20:28que su h...levante descendencia a su hG80
+- Luc_20:29hubo, pues, siete h; y el primero tomóG80
+- Luc_21:16entregados...por vuestros padres, y hG80
+- Luc_22:32tú, una vez vuelto, confirma a tus hG80
+- Jua_1:40Andrés, h de Simón Pedro, era uno deG80
+- Jua_1:41halló primero a su h Simón, y le dijoG80
+- Jua_2:12descendieron...sus h y sus discípulosG80
+- Jua_6:8uno...Andrés, h de Simón Pedro, le dijoG80
+- Jua_7:3le dijeron sus h: Sal de aquí, y vete aG80
+- Jua_7:5porque ni aun sus h creían en élG80
+- Jua_7:10pero después que sus h habían subidoG80
+- Jua_11:2María, cuyo h Lázaro estaba enfermo, fueG80
+- Jua_11:19habían venido a...consolarlas por su hG80
+- Jua_11:21, Jua_11:32estado aquí, mi h no habría muertoG80
+- Jua_11:23Jesús le dijo: Tu h resucitaráG80
+- Jua_20:17vé a mis h, y diles: Subo a mi PadreG80
+- Jua_21:23este dicho se extendió...entre los hG80
+- Hec_1:13donde moraban...y Judas h de Jacobo
+- Hec_1:14María la madre de Jesús, y con sus hG80
+- Hec_1:15días Pedro se levantó en medio de los hG3101
+- Hec_1:16h, era necesario que se cumpliese laG80
+- Hec_2:29varones h, se os puede decir librementeG80
+- Hec_2:37y dijeron a...Varones h, ¿qué haremos?[[G80]]
+- Hec_3:17mas ahora, h, sé que por ignorancia loG80
+- Hec_3:22levantará profeta de entre vuestros hG80
+- Hec_6:3buscad, pues, h...siete varones de buenG80
+- Hec_7:2h y padres, oíd: El Dios de la gloriaG80
+- Hec_7:13José se dio a conocer a sus h, y fueG80
+- Hec_7:23le vino al corazón el visitar a sus hG80
+- Hec_7:25él pensaba que sus h comprendían queG80
+- Hec_7:26h sois, ¿por qué os maltratáis el unoG80
+- Hec_7:37profeta os levantará el...de vuestros hG80
+- Hec_9:17le dijo: H Saulo, el Señor Jesús, queG80
+- Hec_9:30supieron esto los h, le llevaron hastaG80
+- Hec_10:23le acompañaron algunos de los h de JopeG80
+- Hec_11:1oyeron los...los h que estaban en JudeaG80
+- Hec_11:12fueron también conmigo estos seis hG80
+- Hec_11:29determinaron enviar socorro a los hG80
+- Hec_12:2y mató a espada a Jacobo, h de JuanG80
+- Hec_12:17haced saber esto a Jacobo y a los hG80
+- Hec_13:15h, si tenéis...palabra de exhortaciónG80
+- Hec_13:26h, hijos del linaje de Abraham, y losG80
+- Hec_13:38sabed, pues, esto, varones h: que porG80
+- Hec_14:2corrompieron los ánimos...contra los hG80
+- Hec_15:1venían de Judea enseñaban a los h: Si noG80
+- Hec_15:3y causaban gran gozo a todos los hG80
+- Hec_15:7h, vosotros sabéis cómo ya hace algúnG80
+- Hec_15:13respondió diciendo: Varones h, oídmeG80
+- Hec_15:22Silas, varones principales entre los hG80
+- Hec_15:23y los h, a los h de entre los gentilesG80
+- Hec_15:32confirmaron a los h con...de palabrasG80
+- Hec_15:33fueron despedidos en paz por los hG80
+- Hec_15:36volvamos a visitar a los h en todas lasG80
+- Hec_15:40encomendado por los h a la gracia delG80
+- Hec_16:2daban buen testimonio de él los h queG80
+- Hec_16:40habiendo visto a los h, los consolaronG80
+- Hec_17:6trajeron a Jasón y a algunos h ante lasG80
+- Hec_17:10h enviaron de noche a Pablo y a SilasG80
+- Hec_17:14los h enviaron a Pablo que fuese haciaG80
+- Hec_18:18se despidió de los h y navegó a SiriaG80
+- Hec_18:27los h le animaron, y escribieron a losG80
+- Hec_20:32ahora, h, os encomiendo a Dios, y a laG80
+- Hec_21:7habiendo saludado a los h, nos quedamosG80
+- Hec_21:17llegamos...los h nos recibieron con gozoG80
+- Hec_21:20ya ves, h, cuántos millares de judíosG80
+- Hec_22:1varones h y padres, oíd...mi defensa anteG80
+- Hec_22:5de quienes...recibí cartas para los hG80
+- Hec_22:13me dijo: H Saulo, recibe la vistaG80
+- Hec_23:1varones h, yo con toda buena concienciaG80
+- Hec_23:5no sabía, h, que era el sumo sacerdoteG80
+- Hec_23:6h, yo soy fariseo, hijo de fariseoG80
+- Hec_28:14habiendo hallado h, nos rogaron que nosG80
+- Hec_28:15oyendo de nosotros los h, salieron aG80
+- Hec_28:17yo, varones h, no habiendo hecho nadaG80
+- Hec_28:21ni ha venido alguno de los h que hayaG80
+- Rom_1:13no quiero, h, que ignoréis que muchasG80
+- Rom_7:1ignoráis, h...que la ley se enseñorea delG80
+- Rom_7:4h míos, habéis muerto a la ley medianteG80
+- Rom_8:12h, deudores somos, no a la carne, paraG80
+- Rom_8:29que él sea el primogénito entre muchos hG80
+- Rom_9:3ser...separado de Cristo, por amor a mis hG80
+- Rom_10:1h, ciertamente el anhelo de mi corazónG80
+- Rom_11:25no quiero, h...ignoréis este misterioG80
+- Rom_12:1h, os ruego por las misericordias deG80
+- Rom_14:10pero tú, ¿por qué juzgas a tu h? O túG80
+- Rom_14:10también, ¿por qué menosprecias a tu h?[[G80]]
+- Rom_14:13poner tropiezo u ocasión de caer al hG80
+- Rom_14:15si por...la comida tu h es contristadoG80
+- Rom_14:21vino, ni nada en que tu h tropiece, oG80
+- Rom_15:14estoy seguro...h míos, de que vosotrosG80
+- Rom_15:15escrito, h, en parte con atrevimientoG80
+- Rom_15:30ruego, h...que me ayudéis orando por míG80
+- Rom_16:14saludad a...a los h que están con ellosG80
+- Rom_16:17os ruego, h, que os fijéis en los queG80
+- Rom_16:23os saluda Gayo...Erasto...y el h CuartoG80
+- 1Co_1:1Pablo...apóstol de...y el h SóstenesG80
+- 1Co_1:10os ruego...h, por el nombre de nuestroG80
+- 1Co_1:11he sido informado...h míos, por los deG80
+- 1Co_1:26mirad, h, vuestra vocación, que no soisG80
+- 1Co_2:1así que, h, cuando fui a vosotros paraG80
+- 1Co_3:1h, no pude hablaros como a espiritualesG80
+- 1Co_4:6esto, h, lo he presentado como ejemploG80
+- 1Co_5:11que, llamándose h, fuere fornicario, oG80
+- 1Co_6:5ni aun uno, que pueda juzgar entre sus hG80
+- 1Co_6:6que el h con el h pleitea en juicio, yG80
+- 1Co_6:8pero vosotros...defraudáis, y esto a los hG80
+- 1Co_7:12algún h tiene mujer que no sea creyenteG80
+- 1Co_7:15pues no está el h o la hermana sujetoG80
+- 1Co_7:24cada uno, h, en el estado en que fueG80
+- 1Co_7:29esto digo, h: que el tiempo es cortoG80
+- 1Co_8:11se perderá el h débil por quien CristoG80
+- 1Co_8:12pues, pecando contra los h e hiriendoG80
+- 1Co_8:13la comida le es a mi h ocasión de caerG80
+- 1Co_8:13jamás, para no poner tropiezo a mi hG80
+- 1Co_9:5apóstoles, y los h del Señor, y Cefas?[[G80]]
+- 1Co_10:1porque no quiero, h, que ignoréis queG80
+- 1Co_11:2os alabo, h, porque en todo os acordáisG80
+- 1Co_11:33que, h míos, cuando os reunís a comerG80
+- 1Co_12:1no quiero, h, que ignoréis acerca de losG80
+- 1Co_14:6pues, h, si yo voy a vosotros hablandoG80
+- 1Co_14:20h, no seáis niños en el modo de pensarG80
+- 1Co_14:26¿qué hay, pues, h? Cuando os reunís, cadaG80
+- 1Co_14:39así que, h, procurad profetizar, y noG80
+- 1Co_15:1además os declaro, h, el evangelio queG80
+- 1Co_15:6después apareció a más de quinientos hG80
+- 1Co_15:31os aseguro, h, por...que cada día muero
+- 1Co_15:50esto digo, h: que la carne y la sangreG80
+- 1Co_15:58así que, h míos amados, estad firmes yG80
+- 1Co_16:11venga a mí, porque le espero con los hG80
+- 1Co_16:12acerca del h Apolos, mucho le rogué queG80
+- 1Co_16:12le rogué que fuese a vosotros con los hG80
+- 1Co_16:15h, ya sabéis...la familia de EstéfanasG80
+- 1Co_16:20os saludan todos los h. Saludaos losG80
+- 2Co_1:1Pablo...y el h Timoteo, a la iglesiaG80
+- 2Co_1:8h, no queremos que ignoréis acerca deG80
+- 2Co_2:13por no haber hallado a mi h Tito; asíG80
+- 2Co_8:1h, os hacemos saber la gracia de Dios queG80
+- 2Co_8:18enviamos...con él al h cuya alabanza enG80
+- 2Co_8:22enviamos...con ellos a nuestro h, cuyaG80
+- 2Co_8:23cuanto a nuestros h, son mensajeros deG80
+- 2Co_9:3pero he enviado a los h, para que nuestroG80
+- 2Co_9:5tuve por necesario exhortar a los h queG80
+- 2Co_11:9lo suplieron los h que...de MacedoniaG80
+- 2Co_11:26en el mar, peligros entre falsos hG5569
+- 2Co_12:18rogué a Tito, y envié con él al h. ¿OsG80
+- 2Co_13:11lo demás, h, tened gozo, perfeccionaosG80
+- Gál_1:2todos los h que están conmigo, a lasG80
+- Gál_1:11hago saber h, que el evangelio anunciadoG80
+- Gál_1:19no vi a...sino a Jacobo el h del SeñorG80
+- Gál_2:4los falsos h introducidos a escondidasG5569
+- Gál_3:15h, hablo en términos humanos: Un pactoG80
+- Gál_4:12ruego, h, que os hagáis como yo, porqueG80
+- Gál_4:28h, nosotros, como Isaac, somos hijos deG80
+- Gál_4:31de manera, h, que no somos hijos de laG80
+- Gál_5:11yo, h, si aún predico la circuncisiónG80
+- Gál_5:13porque vosotros, h, a libertad fuisteisG80
+- Gál_6:1h, si alguno fuere sorprendido en...faltaG80
+- Gál_6:18h, la gracia de nuestro Señor...sea conG80
+- Efe_6:10h míos, fortaleceos en el Señor, y enG80
+- Efe_6:21Tíquico, h amado y fiel ministro en elG80
+- Efe_6:23paz sea a los h, y amor con fe, de DiosG80
+- Flp_1:12quiero que sepáis, h, que las cosasG80
+- Flp_1:14la mayoría de los h...atreven mucho másG80
+- Flp_2:25necesario enviaros a Epafrodito, mi h yG80
+- Flp_3:1por lo demás, h, gozaos en el SeñorG80
+- Flp_3:13h, yo mismo no pretendo...ya alcanzadoG80
+- Flp_3:17h, sed imitadores de mí, y mirad a losG80
+- Flp_4:1h míos amados...gozo y corona mía, estadG80
+- Flp_4:8h, todo lo que es verdadero...lo honestoG80
+- Flp_4:21los h que están conmigo os saludanG80
+- Col_1:1Pablo, apóstol de...Dios, y el h TimoteoG80
+- Col_1:2a los santos y fieles h en Cristo queG80
+- Col_4:7os lo hará saber Tíquico, amado h y fielG80
+- Col_4:9Onésimo...fiel h, que es uno de vosotrosG80
+- Col_4:15saludad a los h que están en LaodiceaG80
+- 1Ts_1:4conocemos, h amados de Dios, vuestraG80
+- 1Ts_2:1mismos sabéis, h, que nuestra visita aG80
+- 1Ts_2:9porque os acordáis, h, de nuestro trabajoG80
+- 1Ts_2:14h, vinisteis a ser imitadores de lasG80
+- 1Ts_2:17h, separados de vosotros por un poco deG80
+- 1Ts_3:2enviamos a Timoteo nuestro h, servidorG80
+- 1Ts_3:7h, en medio de toda nuestra necesidad yG80
+- 1Ts_4:1h, os rogamos y exhortamos en el SeñorG80
+- 1Ts_4:6que ninguno agravie ni...en nada a su hG80
+- 1Ts_4:10lo hacéis así con todos los h que estánG80
+- 1Ts_4:10os rogamos, h, que abundéis en ello másG80
+- 1Ts_4:13tampoco queremos, h, que ignoréis acercaG80
+- 1Ts_5:1no tenéis necesidad, h...que yo os escribaG80
+- 1Ts_5:4mas vosotros, h, no estáis en tinieblasG80
+- 1Ts_5:12os rogamos, h, que reconozcáis a losG80
+- 1Ts_5:14también os rogamos, h, que amonestéisG80
+- 1Ts_5:25h, orad por nosotrosG80
+- 1Ts_5:26saludad a todos los h con ósculo santoG80
+- 1Ts_5:27esta carta se lea a todos los santos hG80
+- 2Ts_1:3dar gracias a Dios por vosotros, hG80
+- 2Ts_2:1respecto a la venida de...os rogamos, hG80
+- 2Ts_2:13gracias a Dios...h amados por el SeñorG80
+- 2Ts_2:15h, estad firmes, y retened la doctrinaG80
+- 2Ts_3:1por lo demás, h, orad por nosotros, paraG80
+- 2Ts_3:6os ordenamos, h...que os apartéis de todoG80
+- 2Ts_3:6todo h que anda desordenadamente, y noG80
+- 2Ts_3:13vosotros, h, no os canséis de hacer bienG80
+- 2Ts_3:15por enemigo, sino amonestadle como a hG80
+- 1Ti_4:6si esto enseñas a los h, serás buenG80
+- 1Ti_5:1a padre; a los más jóvenes, como a hG80
+- 1Ti_6:2no los tengan en menos por ser h, sinoG80
+- 2Ti_4:21te saluda...Claudia y todos los hG80
+- Flm_1:1Pablo...y el h Timoteo, al amado FilemónG80
+- Flm_1:7porque por ti, oh h, han sido confortadosG80
+- Flm_1:16no ya como esclavo, sino...como h amadoG80
+- Flm_1:20sí, h, tenga yo algún provecho de ti enG80
+- Heb_2:11cual no se avergüenza de llamarlos hG80
+- Heb_2:12diciendo: Anunciaré a mis h tu nombreG80
+- Heb_2:17debía ser en todo semejante a sus hG80
+- Heb_3:1h...considerad al apóstol y...sacerdote deG80
+- Heb_3:12mirad, h, que no haya en ninguno deG80
+- Heb_7:5tomar...los diezmos...es decir, de sus hG80
+- Heb_8:11y ninguno enseñará a...a su h, diciendoG80
+- Heb_10:19h, teniendo libertad para entrar en elG80
+- Heb_13:22os ruego, h, que soportéis la palabraG80
+- Heb_13:23que está en libertad nuestro h TimoteoG80
+- Stg_1:2h míos, tened por sumo gozo cuando osG80
+- Stg_1:9h que es de humilde condición, gloríeseG80
+- Stg_1:16amados h míos, no erréisG80
+- Stg_1:19amados h, todo hombre sea pronto paraG80
+- Stg_2:1h...vuestra fe en nuestro glorioso SeñorG80
+- Stg_2:5h míos amados, oíd: ¿No ha elegido DiosG80
+- Stg_2:14h míos, ¿de qué aprovechará si algunoG80
+- Stg_2:15y si un h o una hermana están desnudosG80
+- Stg_3:1h míos, no os hagáis maestros muchos deG80
+- Stg_3:10misma boca...H míos, esto no debe ser asíG80
+- Stg_3:12h míos, ¿puede acaso la higuera producirG80
+- Stg_4:11h, no murmuréis los unos de los otrosG80
+- Stg_4:11el que murmura del h y juzga a su hG80
+- Stg_5:7h, tened paciencia hasta la venida delG80
+- Stg_5:9h, no os quejéis unos contra otros, parG80
+- Stg_5:10h míos, tomad como ejemplo de aflicciónG80
+- Stg_5:12h míos, no juréis, ni por el cielo, niG80
+- Stg_5:19h, si alguno de entre vosotros se haG80
+- 1Pe_2:17amad a los h. Temed a Dios. HonradG81
+- 1Pe_5:9se van cumpliendo en vuestros h en todoG81
+- 1Pe_5:12de Silvano, a quien tengo por h fiel, osG80
+- 2Pe_1:10h, tanto más procurad hacer firmeG80
+- 2Pe_3:15nuestro amado h Pablo...os ha escritoG80
+- 1 Jn 2,7h, no os escribo mandamiento nuevoG80
+- 1Jn_2:9y aborrece a su h, está...en tinieblasG80
+- 1Jn_2:10el que ama a su h, permanece en la luzG80
+- 1Jn_2:11que aborrece a su h está en tinieblasG80
+- 1Jn_3:10no...y que no ama a su h, no es de DiosG80
+- 1Jn_3:12como Caín, que era del, y mató a su hG80
+- 1Jn_3:12obras eran malas, y las de su h justasG80
+- 1Jn_3:13h míos, no os extrañéis si el mundo osG80
+- 1Jn_3:14amamos a los h. El que no ama a su hG80
+- 1Jn_3:15aquel que aborrece a su h es homicidaG80
+- 1Jn_3:16debemos poner nuestras vidas por los hG80
+- 1Jn_3:17bienes de...y ve a su h tener necesidadG80
+- 1Jn_4:20dice: Yo amo a Dios, y aborrece a su hG80
+- 1Jn_4:20el que no ama a su h a quien ha vistoG80
+- 1Jn_4:21el que ama a Dios, ame también a su hG80
+- 1Jn_5:16si alguno viere a su h cometer pecadoG80
+- 3Jn_1:3vinieron los h y dieron testimonio deG80
+- 3Jn_1:5cuando prestas algún servicio a los hG80
+- 3Jn_1:10no recibe a los h, y a los que quierenG80
+- Jud_1:1Judas, siervo de Jesucristo, y h deG80
+- Rev_1:9Juan, vuestro h, y copartícipe vuestroG80
+- Rev_6:11que se completara el número de sus...hG80
+- Rev_12:10sido lanzado...el acusador de nuestros hG80
+- Rev_19:10yo soy consiervo tuyo, y de tus h queG80
+- Rev_22:9dijo...yo soy consiervo tuyo, de tus hG80

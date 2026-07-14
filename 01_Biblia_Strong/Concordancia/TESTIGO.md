@@ -1,0 +1,107 @@
+---
+tipo: concordancia
+palabra: TESTIGO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TESTIGO
+
+- Gén_31:48porque Labán dijo: Este majano es tH5707
+- Gén_31:50si...mira, Dios es t entre nosotros dosH5707
+- Gén_31:52t sea este majano, y t sea esta señalH5707
+- Éxo_23:1no te...con el impío para ser t falsoH5707
+- Lev_5:1t que vio, o supo, y no lo denunciareH5707
+- Núm_5:13visto...ni hubiere t contra ella, ni ellaH5707
+- Núm_35:30dicho de t morirá...un solo t no hará feH5707
+- Deu_4:26pongo hoy por t al cielo y a la tierraH5749
+- Deu_17:6por dicho de dos o de tres t morirá elH5707
+- Deu_17:6dos...no morirá por el dicho de un solo tH5707
+- Deu_17:7la mano de los t caerá primero sobre élH5707
+- Deu_19:15no...tomará en cuenta a un solo t contraH5707
+- Deu_19:15sólo por el testimonio de dos o tres tH5707
+- Deu_19:16levantare t falso contra alguno, paraH5707
+- Deu_19:18si aquel t resultare falso, y hubiereH5707
+- Deu_30:19a los cielos y a la tierra llamo por t
+- Deu_31:19este cántico me sea por t contra losH5707
+- Deu_31:21cántico responderá en su cara como tH5707
+- Deu_31:26este libro...esté allí por t contra tiH5707
+- Deu_31:28y llamaré por t...a los cielos y a la
+- Jos_24:22sois t...ellos respondieron: T somosH5707
+- Jos_24:27he aquí esta piedra nos servirá de tH5713
+- Jos_24:27piedra...será, pues, t contra vosotrosH5713
+- Jue_11:10Jehová sea t entre nosotros, si noH8085
+- Rut_4:9t hoy, de que he adquirido de mano deH5707
+- Rut_4:10tomo por mi mujer a Rut la...sois t hoyH5707
+- Rut_4:11y dijeron todos...T somos. Jehová hagaH5707
+- 1Sa_12:5Jehová es t...su ungido también es tH5707
+- 1Sa_12:6Jehová que designó a Moisés y a...es t
+- 1Sa_20:12dijo...¡Jehová Dios de Israel, sea t!
+- Job_16:8t es mi flacura...se levanta contra míH5707
+- Job_16:19he aquí que en los cielos está mi t, yH5707
+- Sal_27:12se han levantado contra mí t falsosH5707
+- Sal_35:11se levantan t malvados; de lo que no séH5707
+- Sal_89:37siempre, y como un t fiel en el cieloH5707
+- Pro_6:19t falso que habla mentiras, y el queH5707
+- Pro_12:17justicia; mas el t mentiroso, engañoH5707
+- Pro_14:5t verdadero no mentirá; mas el t falsoH5707
+- Pro_14:25el t verdadero libra las almas; mas elH5707
+- Pro_19:5, Pro_19:9el t falso no quedará sin castigo, y elH5707
+- Pro_19:28el t perverso se burlará del juicio, yH5707
+- Pro_21:28el t mentiroso perecerá; mas el hombreH5707
+- Pro_24:28no seas sin causa t contra tu prójimoH5707
+- Isa_8:2junté conmigo por t fieles al sacerdoteH5707
+- Isa_43:9presenten sus t, y justifíquense; oiganH5707
+- Isa_43:10vosotros sois mis t, dice Jehová, y miH5707
+- Isa_43:12vosotros, pues, sois mis t, dice JehováH5707
+- Isa_44:8luego vosotros sois mis t. No hay DiosH5707
+- Isa_44:9y ellos mismos son t para su confusiónH5707
+- Isa_55:4yo lo di por t a los pueblos, por jefeH5707
+- Jer_32:10la hice certificar con t, y pesé elH5707
+- Jer_32:12di la carta de venta...delante de los tH5707
+- Jer_32:25has dicho: Cómprate la heredad...pon tH5707
+- Jer_32:44escritura y la sellarán y pondrán tH5707
+- Jer_42:5sea entre nosotros t de la verdad y deH5707
+- Lam_2:13¿qué t te traeré...hija de Jerusalén?[[H5749]]
+- Miq_1:2Jehová el Señor...sea t contra vosotrosH5707
+- Mal_3:5seré pronto t contra los hechiceros yH5707
+- Mat_18:16en boca de dos o tres t conste todaG3144
+- Mat_26:60aunque muchos t falsos se presentabanG5575
+- Mat_26:60no...Pero al fin vinieron dos t falsosG5575
+- Mat_26:65¿qué más necesidad tenemos de t? HeG3144
+- Mar_14:63dijo: ¿Qué...necesidad tenemos de t?[[G3144]]
+- Luc_11:48sois t y consentidores de los hechosG3140
+- Luc_24:48y vosotros sois t de estas cosasG3140
+- Jua_3:28me sois t de que dije: Yo no soy elG3140
+- Hec_1:8seréis t en Jerusalén, en toda JudeaG3144
+- Hec_1:22sea...t con nosotros, de su resurrecciónG3144
+- Hec_2:32resucitó...de lo cual...nosotros somos tG3144
+- Hec_3:15resucitado...de lo cual nosotros somos tG3144
+- Hec_5:32y nosotros somos t suyos de estas cosasG3144
+- Hec_6:13y pusieron t falsos que decían: EsteG3144
+- Hec_7:58los t pusieron sus ropas a los pies deG3144
+- Hec_10:39nosotros somos t de todas las cosas queG3144
+- Hec_10:41sino a los t que Dios había ordenadoG3144
+- Hec_13:31cuales ahora son sus t ante el puebloG3144
+- Hec_22:5como el sumo sacerdote también me es tG3140
+- Hec_22:15serás t suyo a todos los hombres, deG3144
+- Hec_22:20se derramaba la sangre de Esteban tu tG3144
+- Hec_26:16para ponerte por...t de las cosas queG3144
+- Rom_1:9porque t me es Dios, a quien sirvo enG3144
+- 1Co_15:15y somos hallados falsos t de DiosG5575
+- 2Co_1:23invoco a Dios por t sobre mi almaG3144
+- 2Co_13:1por boca de dos o de tres t se decidiráG3144
+- Flp_1:8Dios me es t de cómo os amo a todosG3144
+- 1Ts_2:5ni encubrimos avaricia; Dios es tG3144
+- 1Ts_2:10vosotros sois t, y Dios...de cuán santaG3144
+- 1Ti_5:19no admitas...sino con dos o tres tG3144
+- 1Ti_6:12la buena profesión delante de muchos tG3144
+- 2Ti_2:2lo que has oído de mí ante muchos tG3144
+- Heb_10:28por el testimonio de dos o de tres tG3144
+- Heb_12:1en derredor nuestro tan grande nube de tG3144
+- 1Pe_5:1yo...t de los padecimientos de CristoG3144
+- Rev_1:5Jesucristo el t fiel, el primogénito deG3144
+- Rev_2:13en los días en que Antipas mi t fiel fueG3144
+- Rev_3:14el t fiel y verdadero, el principio deG3144
+- Rev_11:3y daré a mis dos t que profeticen porG3144
+- Rev_11:4estos t son los dos olivos, y los dos

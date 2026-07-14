@@ -1,0 +1,705 @@
+---
+tipo: concordancia
+palabra: TRAER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TRAER
+
+- Gén_2:19toda bestia...toda ave...trajo a AdánH935
+- Gén_2:22hizo una mujer, y la trajo al hombreH935
+- Gén_4:3que Caín trajo del fruto de la tierra unaH935
+- Gén_4:4y Abel trajo...de los primogénitos de susH935
+- Gén_6:17yo traigo un diluvio de aguas sobre laH935
+- Gén_8:11la paloma...traía una hoja de olivo en el
+- Gén_15:9le dijo: Tráeme una becerra de tres añosH3947
+- Gén_18:4que se traiga...un poco de agua, y lavadH3947
+- Gén_18:5y traeré un bocado de pan, y sustentadH3947
+- Gén_24:7y tú traerás de allá mujer para mi hijoH3947
+- Gén_24:67la trajo Isaac a la tienda de su madreH935
+- Gén_26:10y hubieras traído sobre nosotros elH935
+- Gén_27:3tu arco, y sal al campo y tráeme cazaH6679
+- Gén_27:4y hazme un guisado...y tráemelo, y comeréH935
+- Gén_27:5para buscar la caza que había de traerH935
+- Gén_27:7tráeme caza y hazme un guisado, para queH935
+- Gén_27:9y tráeme de allí dos buenos cabritos deH3947
+- Gén_27:12burlador, y traeré sobre mí maldiciónH935
+- Gén_27:13hijo...obedece a mi voz y vé y tráemelosH3947
+- Gén_27:14fue y los tomó, y los trajo a su madreH935
+- Gén_27:25comió; le trajo también vino, y bebióH935
+- Gén_27:31hizo él...guisados, y trajo a su padreH935
+- Gén_27:33¿quién es el que...trajo caza, y me dioH935
+- Gén_27:45enviaré entonces, y te traeré de alláH3947
+- Gén_28:15y te...volveré a traerte a esta tierraH7725
+- Gén_29:13Labán...lo besó, y lo trajo a su casaH935
+- Gén_29:23tomó a Lea su hija, y se la trajo; y élH935
+- Gén_30:14mandrágoras...las trajo a Lea su madreH935
+- Gén_31:26traído a mis hijas como prisioneras de
+- Gén_31:39nunca te traje lo arrebatado por lasH935
+- Gén_33:11acepta...mi presente que te he traídoH935
+- Gén_37:14mira cómo están...tráeme la respuestaH7725
+- Gén_37:25sus camellos traían aromas, bálsamo yH5375
+- Gén_37:28sacaron ellos a José...trajeron arriba
+- Gén_37:32la túnica de...y la trajeron a su padreH935
+- Gén_39:14ha traído un hebreo para que hicieseH935
+- Gén_39:17el siervo hebreo que nos trajiste, vinoH935
+- Gén_42:16enviad a uno...traiga a vuestro hermanoH3947
+- Gén_42:20pero traeréis a vuestro hermano menorH935
+- Gén_42:34y traedme a vuestro hermano el menorH935
+- Gén_43:2comer el trigo que trajeron de EgiptoH935
+- Gén_43:3rostro si no traéis a vuestro hermano
+- Gén_43:5dijo: No veréis mi rostro si no traéis
+- Gén_43:9si yo te lo vuelvo a traer, y si no loH935
+- Gén_43:18han traído aquí, para tendernos lazoH935
+- Gén_43:21lo hemos vuelto a traer con nosotrosH7725
+- Gén_43:22traído en nuestras manos otro dineroH3381
+- Gén_43:26y ellos le trajeron el presente queH935
+- Gén_44:8lo volvimos a traer desde la tierra deH7725
+- Gén_44:21dijiste...Traédmelo, y pondré mis ojosH3381
+- Gén_44:32no te lo vuelvo a traer...seré culpableH935
+- Gén_45:13y daos prisa, y traed a mi padre acáH3381
+- Gén_45:19manda...traed a vuestro padre, y venidH5375
+- Gén_46:7a toda su descendencia trajo consigoH935
+- Gén_46:32y han traído sus ovejas y sus vacas, yH935
+- Gén_47:17y ellos trajeron sus ganados a José, yH935
+- Éxo_2:10lo trajo a la hija de Faraón, la cualH935
+- Éxo_10:4mañana yo traeré sobre tu...la langostaH935
+- Éxo_10:12extiende tu mano...para traer la langosta
+- Éxo_10:13trajo un viento oriental sobre el paísH5090
+- Éxo_10:13el viento oriental trajo la langostaH5375
+- Éxo_10:19trajo un fortísimo viento occidental
+- Éxo_11:1dijo...Una plaga traeré aún sobre FaraónH935
+- Éxo_18:22asunto grave lo traerán a ti, y ellosH935
+- Éxo_18:26el asunto difícil lo traían a MoisésH935
+- Éxo_19:4os tomé sobre alas...y os he traído a míH935
+- Éxo_22:13le traerá testimonio, y no pagará loH935
+- Éxo_23:19las primicias...de tu tierra traerás aH935
+- Éxo_27:20que te traigan aceite puro de olivasH3947
+- Éxo_32:2apartad los zarcillos de...y traédmelosH935
+- Éxo_32:3zarcillos de oro...los trajeron a AarónH935
+- Éxo_32:15trayendo en su mano las dos tablas del
+- Éxo_32:21has traído sobre él tan gran pecado?[[H935]]
+- Éxo_35:5generoso de corazón la traerá a JehováH935
+- Éxo_35:22trajeron cadenas y zarcillos, anillosH935
+- Éxo_35:23que tenía...pieles de tejones, lo traíaH935
+- Éxo_35:24todo el que...traía a Jehová la ofrendaH935
+- Éxo_35:24el que tenía madera de acacia la traíaH935
+- Éxo_35:25mujeres...traían lo que habían hiladoH935
+- Éxo_35:27príncipes trajeron piedras de ónice, yH935
+- Éxo_35:29tuvieron corazón voluntario para traerH935
+- Éxo_35:29trajeron ofrenda voluntaria a Jehová
+- Éxo_36:3ofrenda que...habían traído para la obraH935
+- Éxo_36:3seguían trayéndole ofrenda voluntariaH935
+- Éxo_36:5el pueblo trae mucho más de lo que seH935
+- Éxo_39:33y trajeron el tabernáculo a Moisés, elH935
+- Lev_2:2y la traerá a los sacerdotes, hijos deH935
+- Lev_2:8traerás a Jehová la ofrenda que se haráH935
+- Lev_4:4traerá el becerro a la...del tabernáculoH935
+- Lev_4:5de la sangre...y la traerá al tabernáculoH935
+- Lev_4:14y lo traerán delante del tabernáculo deH935
+- Lev_4:28pecado...traerá por su ofrenda una cabraH935
+- Lev_4:32si...trajere cordero...sin defecto traeráH935
+- Lev_5:6y para su expiación traerá...una corderaH935
+- Lev_5:7traerá a Jehová en expiación...tórtolasH935
+- Lev_5:8los traerá el sacerdote, el cual ofreceráH935
+- Lev_5:11traerá como ofrenda...de flor de harinaH935
+- Lev_5:12la traerá, pues, al sacerdote, y...tomaráH935
+- Lev_5:15traerá por su culpa a Jehová un carneroH935
+- Lev_5:18traerá, pues, al sacerdote para expiaciónH935
+- Lev_6:6expiación de...traerá a Jehová un carneroH935
+- Lev_6:21frita la traerás, y los pedazos cocidosH935
+- Lev_7:29traerá su ofrenda...de paz ante JehováH935
+- Lev_7:30sus manos traerán las ofrendas que seH935
+- Lev_7:30traerá la grosura con el pecho...mecidoH935
+- Lev_8:14hizo traer el becerro de la expiaciónH5066
+- Lev_8:18después hizo que trajeran el carnero delH7126
+- Lev_8:22hizo que trajeran el otro carnero, elH7126
+- Lev_9:9los hijos de Aarón le trajeron la sangreH7126
+- Lev_10:15traerán la espaldilla...se ha de elevarH935
+- Lev_12:6traerá un cordero de un año...holocaustoH935
+- Lev_13:2traído a Aarón el sacerdote o a uno deH935
+- Lev_13:9llaga de lepra...será traído al sacerdoteH935
+- Lev_14:2se limpiare: Será traído al sacerdoteH935
+- Lev_14:23al octavo día de...traerá estas cosas alH935
+- Lev_15:29dos tórtolas...los traerá al sacerdoteH935
+- Lev_16:6traer Aarón el becerro de la expiación
+- Lev_16:9hará traer Aarón el macho cabrío sobreH7126
+- Lev_16:11y hará traer Aarón el becerro que eraH7126
+- Lev_16:20altar, hará traer el macho cabrío vivoH7126
+- Lev_17:4, Lev_17:9no lo trajere a la...del tabernáculoH935
+- Lev_17:5a fin de que traigan los hijos de IsraelH935
+- Lev_17:5que los traigan a Jehová a la puerta delH935
+- Lev_19:21traerá...un carnero en expiación por suH935
+- Lev_23:10traeréis al sacerdote una gavilla porH935
+- Lev_23:17traeréis dos panes para ofrenda mecidaH935
+- Lev_24:2que te traigan para el alumbrado aceiteH3947
+- Lev_26:25traeré sobre vosotros espada vengadoraH935
+- Núm_5:15marido traerá su mujer...t su ofrendaH935
+- Núm_5:15recordativa, que trae a la memoria elH935
+- Núm_5:19libre seas de estas...que traen maldición
+- Núm_5:24a beber...las aguas...que traen maldición
+- Núm_6:10el día octavo traerá dos tórtolas o dosH935
+- Núm_6:12traerá un cordero...en expiación por laH935
+- Núm_7:3trajeron sus ofrendas delante de JehováH935
+- Núm_7:10y los príncipes trajeron ofrendas para
+- Núm_11:16tráelos a la puerta del tabernáculo deH3947
+- Núm_11:31vino un viento...y trajo codornices delH1468
+- Núm_13:23un racimo de uvas, el cual trajeron dos
+- Núm_14:3¿y por qué nos trae Jehová a esta tierraH935
+- Núm_15:4traerá como ofrenda la décima parte deH7126
+- Núm_15:25y ellos traerán sus ofrendas, ofrendaH935
+- Núm_15:33le hallaron...lo trajeron a Moisés y aH7126
+- Núm_18:13primicias...las cuales traerán a JehováH935
+- Núm_19:2Israel que te traigan una vaca alazanaH3447
+- Núm_20:5subir...para traernos a este mal lugar?[[H935]]
+- Núm_23:7de Aram me trajo Balac, rey de Moab, deH5148
+- Núm_23:11te he traído para que maldigas a mis
+- Núm_25:6un varón de...vino y trajo una madianitaH7126
+- Núm_31:12trajeron a Moisés...cautivos y el botínH935
+- Núm_31:54lo trajeron al tabernáculo de reuniónH935
+- Deu_1:17y la causa...difícil, la traeréis a míH7126
+- Deu_1:22nos traigan razón del camino por dondeH7725
+- Deu_1:25tomaron...del fruto del...nos lo trajeronH3381
+- Deu_1:31Jehová tu Dios te ha traído, como trae
+- Deu_6:23traernos y darnos la tierra que juró aH935
+- Deu_7:26y no traerás cosa abominable a tu casaH935
+- Deu_8:2el camino por donde te ha traído JehováH3212
+- Deu_8:17la fuerza de mi...han traído esta riquezaH6213
+- Deu_9:4me ha traído Jehová a poseer esta tierraH935
+- Deu_21:4y los ancianos...traerán la becerra a unH2381
+- Deu_23:18no traerás la paga de una ramera ni elH935
+- Deu_26:9nos trajo a este lugar, y nos dio estaH935
+- Deu_26:10he traído las primicias del fruto deH935
+- Deu_28:21Jehová traerá sobre ti mortandad...que
+- Deu_28:49traerá contra ti una nación de lejosH5375
+- Deu_28:60traerá sobre ti...los males de EgiptoH7725
+- Deu_29:5yo os he traído 40 años en el desiertoH3212
+- Deu_29:27para traer sobre ella...las maldicionesH935
+- Deu_30:12¿quién subirá...al cielo, y...lo traeráH3947
+- Deu_30:13para que nos lo traiga y nos lo haga oírH3947
+- Deu_32:10lo trajo alrededor, lo instruyó...guardóH5437
+- Jos_4:20piedras que habían traído del Jordán
+- Jos_7:23tomándolo...tienda, lo trajeron a JosuéH935
+- Jos_8:23tomaron vivo al rey...trajeron a JosuéH7126
+- Jos_9:5todo el pan que traían...era seco y mohoso
+- Jos_14:7yo le traje noticias como lo sentía enH7725
+- Jos_18:6me traeréis la descripción aquí, y yo osH935
+- Jos_23:15traerá Jehová sobre...toda palabra malaH935
+- Jos_24:3lo traje por toda la tierra de CanaánH3212
+- Jos_24:32huesos de José...habían traído de EgiptoH5927
+- Jue_3:18despidió...gente que lo había traído
+- Jue_7:25trajeron las cabezas de Oreb y de ZeebH935
+- Jue_8:4él y los 300 hombres que traía consigo
+- Jue_8:21adornos...sus camellos traían al cuello
+- Jue_8:24pues traían zarcillos de oro, porque eran
+- Jue_8:26vestidos de...traían los reyes de Madián
+- Jue_8:26sin los collares que traían sus camellos
+- Jue_11:5fueron a traer a Jefté de la tierra deH3947
+- Jue_16:8los filisteos le trajeron siete mimbresH5927
+- Jue_16:18vinieron a ella, trayendo en...el dineroH5927
+- Jue_18:3le dijeron: ¿Quién te ha traído acá?[[H935]]
+- Jue_19:21los trajo a su casa, y dio de comer aH935
+- Jue_21:12y las trajeron al campamento en SiloH935
+- Rut_3:15quítate el manto que traes sobre tiH3051
+- 1Sa_1:24lo trajo a la casa de Jehová en SiloH935
+- 1Sa_1:25matando el becerro, trajeron el niño aH935
+- 1Sa_2:13el criado...trayendo en su mano un garfio
+- 1Sa_2:19le hacía...túnica...se la traía cada añoH5927
+- 1Sa_4:3traigamos a nosotros...el arca del pactoH3947
+- 1Sa_4:4y trajeron...el arca del pacto de JehováH5375
+- 1Sa_4:6que el arca de Jehová había sido traída alH935
+- 1Sa_9:23cocinero: Trae acá la porción que te diH5414
+- 1Sa_10:23lo trajeron de allí; y puesto en medioH3947
+- 1Sa_10:27y no le trajeron presente...él disimulóH935
+- 1Sa_13:9traedme holocausto y ofrendas de pazH5066
+- 1Sa_14:1dijo a su criado que le traía las armas
+- 1Sa_14:18y Saúl dijo a Ahías: Trae el arca deH5066
+- 1Sa_14:27alargó la punta de una vara que traía
+- 1Sa_14:34que me traigan cada uno su vaca, y cadaH5066
+- 1Sa_14:34trajo todo el pueblo cada cual...su vacaH5066
+- 1Sa_14:43un poco de miel con...la vara que traía
+- 1Sa_15:15respondió: De Amalec los han traídoH935
+- 1Sa_15:20he traído a Agag rey de Amalec, y heH935
+- 1Sa_15:32Samuel: Traedme a Agag rey de AmalecH5066
+- 1Sa_16:17buscadme...que toque bien, y traédmeloH935
+- 1Sa_17:5traía un casco de bronce en su cabeza
+- 1Sa_17:6sobre...piernas traía grebas de bronce
+- 1Sa_17:40y las puso...en el zurrón que traía, y
+- 1Sa_17:54tomó la cabeza...la trajo a JerusalénH935
+- 1Sa_18:27y trajo David los prepucios de ellosH935
+- 1Sa_19:7Jonatán...él mismo trajo a David a SaúlH935
+- 1Sa_19:15traédmelo en la cama para que lo mateH5927
+- 1Sa_19:20Saúl envió..para que trajeran a David
+- 1Sa_20:31envía...tráemelo, porque ha de morirH3947
+- 1Sa_21:14es demente; ¿por qué lo habéis traídoH935
+- 1Sa_21:15locos, para que hayáis traído a ésteH935
+- 1Sa_22:4los trajo, pues, a la presencia del reyH5148
+- 1Sa_23:9dijo a Abiatar sacerdote: Trae el efodH5066
+- 1Sa_25:27este presente que tu sierva ha traídoH935
+- 1Sa_25:35recibió David...lo que le había traídoH935
+- 1Sa_28:25trajo delante de Saúl y de sus siervosH5066
+- 1Sa_30:11a un hombre...el cual trajeron a DavidH3947
+- 1Sa_30:20y trayéndolo...decían: Este es el botín
+- 2Sa_1:10la argolla que traía en su brazo, y las
+- 2Sa_1:10y tomé...y las he traído acá a mi señorH935
+- 2Sa_1:13aquel joven que le había traído las nuevas
+- 2Sa_3:13no me vengas a ver sin...traigas a MicalH935
+- 2Sa_3:22los siervos...traían consigo gran botínH935
+- 2Sa_4:8y trajeron la cabeza de Is-boset a DavidH935
+- 2Sa_4:10imaginándose que traía buenas nuevasH1319
+- 2Sa_5:2eras tú quien sacabas...volvías a traerH935
+- 2Sa_6:10David no quiso traer para sí el arca de
+- 2Sa_7:18¿quién soy yo...que tú me hayas traídoH935
+- 2Sa_8:7tomó David los escudos de oro que traían
+- 2Sa_9:5envió...y le trajo de la casa de MaquirH3947
+- 2Sa_11:27envió David y la trajo a su casa; yH622
+- 2Sa_13:10trae la comida a la alcoba, para queH935
+- 2Sa_14:10al que hablare...tráelo a mí, y no teH935
+- 2Sa_14:23fue a...y trajo a Absalón a JerusalénH935
+- 2Sa_17:28trajeron a David...tazas, vasijas deH5066
+- 2Sa_18:25dijo: Si viene solo, buenas nuevas trae
+- 2Sa_23:16trajeron a David; mas él no la quisoH935
+- 1Re_1:3Abisag sunamita, y la trajeron al reyH935
+- 1Re_1:42eres...valiente, y traerás buenas nuevasH1319
+- 1Re_1:53envió el rey...y lo trajeron del altarH3381
+- 1Re_2:19hizo traer una silla para su madre, la
+- 1Re_2:40fue...Simei, y trajo sus siervos de GatH935
+- 1Re_3:1la hija de Faraón, y la trajo a la ciudadH935
+- 1Re_3:24traedme una espada. Y trajeron...espadaH935
+- 1Re_4:21traían presentes, y sirvieron a SalomónH5066
+- 1Re_4:28traer cebada y paja para los caballos yH935
+- 1Re_5:17mandó el rey...trajesen piedras grandesH5265
+- 1Re_6:7de piedras que traían ya acabadas, de talH4551
+- 1Re_8:1para traer el arca del pacto de Jehová deH5927
+- 1Re_9:9por eso ha traído Jehová...todo este malH935
+- 1Re_9:11había traído a Salomón madera de ciprés
+- 1Re_9:28a Ofir y...y lo trajeron al rey SalomónH935
+- 1Re_10:11la flota...había traído el oro de OfirH5375
+- 1Re_10:11traía también de Ofir mucha madera deH935
+- 1Re_10:22de Tarsis, y traía oro, plata, marfilH5375
+- 1Re_10:28traían de Egipto caballos y lienzos aH4161
+- 1Re_13:18tráele contigo a tu casa, para que comaH7725
+- 1Re_14:10traigo mal sobre la casa de JeroboamH935
+- 1Re_17:6los cuervos le traían pan y carne por laH935
+- 1Re_17:10te ruego que me traigas un poco de aguaH3947
+- 1Re_17:11yendo...para traérsela, él la volvió aH3947
+- 1Re_17:11te ruego que me traigas...un bocado deH3947
+- 1Re_17:13una pequeña torta cocida...y tráemelaH3318
+- 1Re_17:18para traer a memoria mis iniquidadesH2142
+- 1Re_17:23lo trajo del aposento a la casa, y loH3381
+- 1Re_20:33dijo: Id y traedle. Ben-adad entoncesH3947
+- 1Re_20:39se me acercó un...y me trajo un hombreH935
+- 1Re_21:21yo traigo mal sobre ti, y barreré tuH935
+- 1Re_21:29no traeré el mal en sus días; en losH935
+- 1Re_21:29en los días de su hijo traeré el malH935
+- 1Re_22:9le dijo: Trae pronto a Micaías hijo de
+- 1Re_22:37murió...el rey, y fue traído a SamariaH935
+- 2Re_2:20traedme una vasija nueva...la trajeronH935
+- 2Re_3:15ahora traedme un tañedor. Y mientras elH3947
+- 2Re_4:5le traían las vasijas, y ella echaba delH5066
+- 2Re_4:6tráeme aún otras vasijas. Y él dijo: NoH5066
+- 2Re_4:20habiéndole él...traído a su madre, estuvoH935
+- 2Re_4:41traed harina. Y la esparció en la ollaH3947
+- 2Re_4:42el cual trajo al varón de Dios panes deH935
+- 2Re_5:20no tomando...las cosas que había traídoH935
+- 2Re_6:30rey...y el pueblo vio el cilicio que traía
+- 2Re_10:8traído las cabezas de los hijos del reyH935
+- 2Re_12:4el dinero...que se suele traer a la casaH935
+- 2Re_12:4el dinero que cada uno...trae a la casaH935
+- 2Re_12:9todo el dinero que se traía a la casa deH935
+- 2Re_12:13de aquel dinero que se traía a la casaH935
+- 2Re_14:20lo trajeron luego sobre caballos, y loH5375
+- 2Re_17:24y trajo el rey de Asiria gente de...AvaH935
+- 2Re_17:27los sacerdotes que trajisteis de alláH1540
+- 2Re_21:12traigo tal mal sobre Jerusalén y sobreH935
+- 2Re_22:4que recoja el dinero que han traído a laH935
+- 2Re_22:16traigo sobre este lugar...todo el mal deH935
+- 2Re_22:20no verán...mal que yo traigo sobre esteH935
+- 2Re_23:30siervos...lo trajeron muerto de MeguidoH7392
+- 2Re_25:6preso...le trajeron al rey de BabiloniaH5927
+- 1Cr_5:18hombres que traían escudo y espadaH5375
+- 1Cr_10:12el cuerpo de Saúl y...trajeron a JabesH935
+- 1Cr_11:2sacaba a la guerra...y la volvía a traerH935
+- 1Cr_11:18agua del pozo...y la trajeron a DavidH935
+- 1Cr_11:19con peligro de sus vidas la han traído?[[H935]]
+- 1Cr_11:23y el egipcio traía una lanza como un
+- 1Cr_12:24los hijos de Judá que traían escudo yH5375
+- 1Cr_12:40eran vecinos...trajeron víveres en asnosH935
+- 1Cr_13:3traigamos el arca de...Dios a nosotrosH5437
+- 1Cr_13:5Israel...que trajesen el arca de Dios deH935
+- 1Cr_13:12¿cómo he de traer a mi casa el arca deH935
+- 1Cr_13:13no trajo David el arca a su casa en laH5493
+- 1Cr_15:14se santificaron para traer el arca deH5927
+- 1Cr_15:15los levitas trajeron el arca de DiosH5375
+- 1Cr_15:25a traer el arca del pacto de Jehová, deH5927
+- 1Cr_16:1trajeron el arca de Dios, y la pusieronH935
+- 1Cr_16:29traed ofrenda, y venid delante de élH5375
+- 1Cr_17:16¿quién soy yo...me hayas traído hastaH935
+- 1Cr_18:2, 1Cr_18:6siervos de David, trayéndole presentesH5375
+- 1Cr_18:7tomó...David los escudos...y los trajo aH5375
+- 1Cr_19:16y trajeron a los sirios que estaban al
+- 1Cr_22:4habían traído a David...madera de cedroH935
+- 1Cr_22:19para traer el arca del pacto de JehováH935
+- 2Cr_1:4David había traído el arca de Dios deH5927
+- 2Cr_2:16la traeremos en balsas por el mar hastaH935
+- 2Cr_5:2para que trajesen el arca del pacto deH5927
+- 2Cr_7:22él ha traído todo este mal sobre ellosH3318
+- 2Cr_8:18de oro, y los trajeron al rey SalomónH935
+- 2Cr_9:10los...que habían traído el oro de OfirH935
+- 2Cr_9:10trajeron madera de sándalo, y piedrasH935
+- 2Cr_9:12más de lo que ella había traído al reyH935
+- 2Cr_9:14sin lo que traían los mercaderes...t oroH935
+- 2Cr_9:21de Tarsis, y traían oro, plata, marfilH5375
+- 2Cr_9:24cada uno de éstos traía su presente...oroH935
+- 2Cr_9:28traían también caballos para Salomón, deH3318
+- 2Cr_14:8Asa ejército que traía escudos y lanzasH5375
+- 2Cr_14:8traían escudos y entesaban arcos, todosH5375
+- 2Cr_15:11del botín que habían traído, 700 bueyesH935
+- 2Cr_15:18trajo a la casa de Dios lo que su padreH935
+- 2Cr_17:11y traían de los filisteos presentes aH935
+- 2Cr_17:11los árabes también le trajeron ganadosH935
+- 2Cr_22:9lo hallaron y lo trajeron a Jehú, y leH935
+- 2Cr_24:6levitas traigan de Judá y de JerusalénH935
+- 2Cr_24:9pregonar...trajesen a Jehová la ofrendaH935
+- 2Cr_24:10trajeron ofrendas, y las echaron en elH935
+- 2Cr_24:14trajeron...lo que quedaba del dinero, eH935
+- 2Cr_25:14trajo...los dioses de los hijos de SeirH935
+- 2Cr_25:28trajeron...lo sepultaron con sus padresH5375
+- 2Cr_28:13no traigáis aquí a los cautivos, porqueH935
+- 2Cr_29:31los generosos de...trajeron holocaustosH935
+- 2Cr_29:32holocaustos que trajo...setenta bueyesH935
+- 2Cr_30:15trajeron los holocaustos a la casa deH935
+- 2Cr_31:5trajeron...los diezmos de todas las cosasH935
+- 2Cr_31:6trajeron los diezmos de lo santificadoH935
+- 2Cr_31:10que comenzaron a traer las ofrendas aH935
+- 2Cr_32:23muchos trajeron a Jerusalén ofrenda aH935
+- 2Cr_33:11trajo contra ellos los generales delH935
+- 2Cr_34:9, 2Cr_34:14el dinero que había sido traído a laH935
+- 2Cr_34:24he aquí yo traigo mal sobre este lugarH935
+- 2Cr_34:28el mal que yo traigo sobre este lugarH935
+- 2Cr_36:17por lo cual trajo contra ellos al reyH5927
+- Esd_3:7que trajesen madera de cedro desde elH935
+- Esd_8:17que nos trajesen ministros para la casaH935
+- Esd_8:18y nos trajeron...un varón entendido, deH935
+- Esd_8:30para traerlo a Jerusalén a la casa deH935
+- Neh_1:9y os traeré al lugar que escogí paraH935
+- Neh_8:1dijeron...que trajese el libro de la leyH935
+- Neh_8:2trajo la ley delante de la congregaciónH935
+- Neh_8:15salid...y traed ramas de olivo, de olivoH935
+- Neh_8:16trajeron ramas e hicieron tabernáculosH935
+- Neh_10:31trajesen a vender...en día de reposoH935
+- Neh_10:34leña, para traerla a la casa de...DiosH935
+- Neh_10:35y que cada año traeríamos a la casa deH935
+- Neh_10:36traeríamos los primogénitos de nuestrasH935
+- Neh_10:37que traeríamos también las primicias deH935
+- Neh_11:1traer uno de cada diez para que moraseH935
+- Neh_12:27para traerlos a Jerusalén, para hacerH935
+- Neh_13:12y todo Judá trajo el diezmo del granoH935
+- Neh_13:15que traían a Jerusalén en día de reposoH935
+- Neh_13:16tirios que traían pescado...mercaderíaH935
+- Neh_13:18trajo nuestro Dios todo este mal sobreH935
+- Est_1:11que trajesen a la reina Vasti a...reyH935
+- Est_1:17el rey Asuero mandó traer...a la reinaH935
+- Est_3:9que sean traídos a los tesoros del reyH935
+- Est_6:1que le trajesen el libro de las memoriasH935
+- Est_6:8traigan el vestido real de que el rey seH935
+- Job_6:22¿os he dicho yo: Traedme, y pagad porH3051
+- Job_14:3tus ojos, y me traes a juicio contigo?[[H935]]
+- Job_22:2¿traerá el hombre provecho a Dios? Al
+- Job_42:11mal que Jehová había traído sobre élH935
+- Sal_10:9arrebata al pobre trayéndolo a su redH4900
+- Sal_35:14el que trae luto por madre, enlutado
+- Sal_45:14compañeras suyas serán traídas a tiH935
+- Sal_45:15traídas con alegría y gozo; entrarán enH2986
+- Sal_72:10los reyes de Tarsis...traerán presentesH7725
+- Sal_76:11los que...traigan ofrendas al TemibleH2986
+- Sal_77:10traeré, pues, a la memoria los años de
+- Sal_78:26y trajo con su poder el viento surH5090
+- Sal_78:54los trajo...a las fronteras de su tierraH935
+- Sal_78:71de tras las paridas lo trajo, para queH935
+- Sal_90:12que traigamos al corazón sabiduría
+- Sal_96:8traed ofrendas, y venid a sus atriosH5375
+- Sal_105:16trajo hambre sobre la tierra, y...pan
+- Sal_126:6mas volverá a...trayendo sus gavillasH5375
+- Pro_18:6los labios del necio traen contienda
+- Pro_19:4las riquezas traen muchos amigos; mas el
+- Pro_31:14es como nave de...trae su pan de lejosH935
+- Ecl_12:14porque Dios traerá...obra a juicioH935
+- Cnt_8:11debía traer mil monedas de plata porH935
+- Isa_1:13no me traigáis más vana ofrenda; elH935
+- Isa_2:6llenos de costumbres traídas del oriente
+- Isa_5:18¡ay de los que traen la iniquidad conH4900
+- Isa_14:2y los tomarán...y los traerán a su lugarH935
+- Isa_15:9yo traeré sobre Dimón males mayoresH7896
+- Isa_18:7tiempo será traída ofrenda a Jehová deH2986
+- Isa_30:5ni los socorre, ni les trae provecho
+- Isa_30:14no se halla tiesto para traer fuego delH2846
+- Isa_31:2traerá...mal, y no retirará sus palabrasH935
+- Isa_41:22traigan, anúnciennos lo que ha de venirH5066
+- Isa_42:1siervo...traerá justicia a las nacionesH3318
+- Isa_42:3por medio de la verdad traerá justiciaH3318
+- Isa_43:5del oriente traeré tu generación, y delH935
+- Isa_43:6trae de lejos mis hijos, y mis hijas deH935
+- Isa_43:18ni traigáis a memoria...cosas antiguas
+- Isa_43:23no me trajiste a mí los animales de tusH935
+- Isa_46:3que sois traídos por mí desde el vientreH6006
+- Isa_48:15yo hablé, y le llamé y le traje; porH935
+- Isa_49:22traerán...hijos, y...hijas serán traídasH935
+- Isa_52:7los pies del que trae alegres nuevas, delH1319
+- Isa_52:7del que trae nuevas del bien, del queH1319
+- Isa_52:8verán que Jehová vuelve a traer a SionH7725
+- Isa_60:6traerán oro e incienso,y publicaránH5375
+- Isa_60:9para traer tus hijos de lejos, su plataH935
+- Isa_60:11a ti sean traídas las riquezas de lasH935
+- Isa_60:17vez de bronce traeré oro, y por hierroH935
+- Isa_63:9en su amor y...los redimió, y los trajoH5190
+- Isa_65:18yo traigo a Jerusalén alegría, y a su
+- Isa_66:4yo...traeré sobre ellos lo que temieronH935
+- Isa_66:12en los brazos seréis traídos, y sobreH5375
+- Isa_66:20traerán a todos vuestros hermanos deH935
+- Isa_66:20al modo que los hijos de Israel traenH935
+- Jer_4:15una voz trae las nuevas desde Dan, y
+- Jer_5:15yo traigo sobre vosotros gente de lejosH935
+- Jer_6:19traigo mal sobre este pueblo, el frutoH935
+- Jer_10:9traerán plata batida de Tarsis y oro deH935
+- Jer_11:8traeré sobre ellos todas las palabras deH935
+- Jer_11:11aquí yo traigo sobre ellos mal del queH935
+- Jer_11:23pues yo traeré mal sobre los varones deH935
+- Jer_15:8traje contra ellos destruidor a mediodíaH935
+- Jer_17:18trae sobre...día malo, y quebrántalosH935
+- Jer_17:26y vendrán de las...trayendo holocaustoH935
+- Jer_17:26y trayendo sacrificio de alabanza a laH935
+- Jer_17:27para no traer carga ni meterla por lasH5375
+- Jer_18:22cuando traigas sobre ellos ejército deH935
+- Jer_19:3yo traigo mal sobre este lugar, tal queH935
+- Jer_19:15traigo sobre esta ciudad y sobre todasH935
+- Jer_23:8y trajo la descendencia de la casa deH5927
+- Jer_23:12traeré mal sobre ellos en el año de suH935
+- Jer_25:9los traeré contra esta tierra y contraH935
+- Jer_25:13traeré sobre aquella tierra todas misH935
+- Jer_25:29porque espada traigo sobre todos losH7121
+- Jer_26:23sacaron a Urías...y lo trajeron al reyH935
+- Jer_27:22después los traeré y los restauraré aH5927
+- Jer_30:3traeré, a la tierra que di a sus padresH7725
+- Jer_32:42como traje...mal...traeré...todo el bienH935
+- Jer_33:6yo les traeré sanidad y medicina; y lesH4608
+- Jer_33:11los que traigan ofrendas de acción deH935
+- Jer_33:11porque volveré a traer los cautivos deH935
+- Jer_35:17traeré yo sobre Judá y sobre todos losH935
+- Jer_36:31traeré sobre ellos...los moradores deH935
+- Jer_38:14envió el rey...e hizo traer al profeta
+- Jer_39:16traigo mis palabras sobre esta ciudadH935
+- Jer_40:3y lo ha traído y hecho Jehová según loH935
+- Jer_41:5traían en sus manos ofrenda e inciensoH935
+- Jer_41:14Ismael había traído cautivo de MizpaH7617
+- Jer_41:16hombres de...que Johanán había traído deH7725
+- Jer_42:17quien escape delante del mal que traeréH935
+- Jer_44:2todo el mal que traje sobre JerusalénH935
+- Jer_45:5traigo mal sobre toda carne...pero a tiH935
+- Jer_48:44traeré sobre él, sobre Moab, el año deH935
+- Jer_49:5he aquí yo traigo sobre ti espanto, diceH935
+- Jer_49:8el quebrantamiento de...traeré sobre élH935
+- Jer_49:32y de todos lados les traeré su ruina, dice JehováH935
+- Jer_49:36traeré sobre Elam los cuatro vientos deH935
+- Jer_49:37traeré sobre ellos mal, y el ardor deH935
+- Jer_50:19volveré a traer a Israel a su moradaH7725
+- Jer_51:40haré traer como corderos al mataderoH3381
+- Jer_51:64no se levantará del mal que yo traigoH935
+- Lam_2:13¿qué testigo te traeré, o a quién te
+- Lam_5:9con peligro...vidas traíamos nuestro pan
+- Eze_7:24traeré, por tanto, los más perversosH935
+- Eze_9:1cada uno trae en su mano su instrumento
+- Eze_9:2cada uno traía en su mano su instrumento
+- Eze_9:2el cual traía a su cintura un tintero de
+- Eze_11:8temido, y espada traeré sobre vosotrosH935
+- Eze_11:21yo traigo su camino sobre sus propias
+- Eze_14:17o si yo trajere espada sobre la tierraH935
+- Eze_14:22de todas las cosas que traje sobre ellaH935
+- Eze_16:38y traeré sobre ti sangre de ira y de
+- Eze_16:43traeré tu camino sobre tu cabeza, dice
+- Eze_17:19mi pacto...traeré sobre su misma cabeza
+- Eze_20:10los saqué de...y los traje al desiertoH935
+- Eze_20:15que no los traería a la tierra que lesH935
+- Eze_20:28yo los traje a la tierra sobre la cualH935
+- Eze_20:35y os traeré al desierto de los pueblosH935
+- Eze_20:42cuando os haya traído a la tierra deH935
+- Eze_21:23trae a la memoria la maldad de ellosH2142
+- Eze_21:24cuanto habéis hecho traer a la memoria
+- Eze_23:19trayendo en memoria los días de suH2142
+- Eze_23:21trajiste...a la memoria la lujuria deH6485
+- Eze_23:42y con los varones...traídos los sabeosH935
+- Eze_24:26vendrá a ti...para traer las noticias
+- Eze_26:7traigo yo contra Tiro a NabucodonosorH935
+- Eze_27:25eran como tus caravanas que traían tus
+- Eze_28:7he aquí yo traigo sobre ti extranjerosH935
+- Eze_29:8traigo contra ti espada, y cortaré deH935
+- Eze_29:14volveré a traer los cautivos de EgiptoH7725
+- Eze_30:11serán traídos para destruir la tierraH935
+- Eze_32:20traedlo a él y a todos sus pueblosH4900
+- Eze_33:2diles: Cuando trajere yo espada sobre laH935
+- Eze_34:13las traeré a su propia tierra, y lasH935
+- Eze_36:24os recogeré...y os traeré a vuestro paísH935
+- Eze_37:12diles...os traeré a la tierra de IsraelH935
+- Eze_37:21los recogeré...y los traeré a su tierraH935
+- Eze_38:16al cabo de los días; y te traeré sobreH935
+- Eze_38:17que yo te había de traer sobre ellos?[[H935]]
+- Eze_39:2y te traeré sobre los montes de IsraelH935
+- Eze_39:10no traerán leña del campo, ni cortarán
+- Eze_40:4yo te las mostrase has sido traído aquíH935
+- Eze_42:1me trajo luego al atrio exterior haciaH3318
+- Eze_44:7de traer extranjeros, incircuncisos deH935
+- Eze_46:19trajo...por la entrada que estaba haciaH935
+- Dan_1:2los trajo a tierra de Sinar, a la casaH935
+- Dan_1:3que trajese de los hijos de Israel, delH935
+- Dan_1:18había dicho el rey que los trajesen, elH935
+- Dan_1:18jefe...los trajo delante de NabucodonosorH935
+- Dan_3:13con ira...que trajesen a Sadrac, Mesac yH858
+- Dan_3:13fueron traídos estos varones delante deH858
+- Dan_5:2que trajesen los vasos de oro y de plataH858
+- Dan_5:2Nabucodonosor...había traído del templo deH858
+- Dan_5:3entonces fueron traídos los vasos de oroH858
+- Dan_5:3los vasos...que habían traído del templo
+- Dan_5:13entonces Daniel fue traído delante delH5954
+- Dan_5:13de Judá, que mi padre trajo de Judea?[[H858]]
+- Dan_5:15fueron traídos delante de mí sabios yH5954
+- Dan_5:23e hiciste traer...los vasos de su casaH858
+- Dan_6:16y trajeron a Daniel, y le echaron en elH858
+- Dan_6:17fue traída una piedra y puesta sobre laH858
+- Dan_6:18ni instrumentos...música fueron traídosH5954
+- Dan_6:24fueron traídos...habían acusado a DanielH858
+- Dan_9:12trayendo sobre nosotros tan grande malH935
+- Dan_9:14sobre el mal y lo trajo sobre nosotrosH935
+- Dan_9:24traer la justicia perdurable, y sellarH935
+- Dan_11:6entregada...y los que la habían traídoH935
+- Amó_4:1decís a...señores: Traed, y beberemosH935
+- Amó_4:4y traed de mañana vuestros sacrificiosH935
+- Amó_9:14traeré del cautiverio a...pueblo IsraelH7725
+- Miq_1:15traeré nuevo poseedor, oh moradoresH935
+- Nah_1:15los pies del que trae buenas nuevasH1319
+- Sof_1:11destruidos son...los que traían dineroH5187
+- Sof_3:10la hija de...esparcidos traerá mi ofrendaH2986
+- Sof_3:20en aquel tiempo yo os traeré...os reuniréH935
+- Hag_1:8traed madera, y reedificad la casaH935
+- Zac_3:8aquí, yo traigo a mi siervo el RenuevoH935
+- Zac_5:9traían viento en sus alas, y tenían alas
+- Zac_8:8los traeré, y habitarán en...de JerusalénH935
+- Zac_10:10los traeré de la tierra de Egipto, y losH7725
+- Zac_10:10los traeré a la tierra de Galaad y delH935
+- Mal_1:13y trajisteis lo hurtado, o cojo, oH935
+- Mal_3:3y traerán a Jehová ofrenda en justicia
+- Mal_3:10traed todos los diezmos al alfolí y hayaH935
+- Mal_4:2el Sol de...en sus alas traerá salvación
+- Mat_4:24le trajeron...los que tenían dolenciasG4374
+- Mat_5:23si traes tu ofrenda...y allí te acuerdasG4374
+- Mat_6:34porque el día de mañana traerá su afán
+- Mat_8:16noche, trajeron a él muchos endemoniadosG4374
+- Mat_9:2le trajeron un paralítico, tendido sobreG4374
+- Mat_9:32aquí, le trajeron un mudo, endemoniadoG4374
+- Mat_10:34traer paz a la tierra; no...para t paz
+- Mat_12:22fue traído a él un endemoniado, ciegoG4374
+- Mat_14:11y fue traída su cabeza en un plato, yG5342
+- Mat_14:18él les dijo: Traédmelos acáG5342
+- Mat_14:35y trajeron a él todos los enfermosG4374
+- Mat_15:30mucha gente que traía consigo a cojos
+- Mat_16:5llegando...habían olvidado de traer panG2983
+- Mat_16:7pensaban...dice porque no trajimos panG2983
+- Mat_17:16y lo he traído a tus discípulos, peroG4374
+- Mat_17:17respondiendo Jesús, dijo...Traédmelo acáG5342
+- Mat_21:2hallaréis una asna atada...y traédmelosG5342
+- Mat_21:7trajeron el asna...y él se sentó encimaG5342
+- Mat_25:20trajo otros cinco talentos, diciendoG4374
+- Mar_1:32trajeron...los que tenían enfermedadesG5342
+- Mar_2:3vinieron a él unos trayendo un paralíticoG5342
+- Mar_4:21se trae la luz para ponerla debajo delG2064
+- Mar_6:27mandó...fuese traída la cabeza de JuanG5342
+- Mar_6:28el guarda...trajo su cabeza en un platoG5342
+- Mar_6:55comenzaron a traer...enfermos en lechosG4064
+- Mar_7:32y le trajeron un sordo y tartamudo, y leG5342
+- Mar_8:14habían olvidado de traer pan, y no teníanG2983
+- Mar_8:16sí diciendo: Es porque no trajimos pan
+- Mar_8:22le trajeron un ciego, y le rogaron queG5342
+- Mar_9:17traje a ti mi hijo...tiene un espírituG5342
+- Mar_9:19¡oh generación incrédula!...TraédmeloG5342
+- Mar_9:20se lo trajeron, y cuando el espíritu vioG5342
+- Mar_11:2hallaréis un pollino atado...y traedloG71
+- Mar_11:7trajeron el pollino a Jesús, y echaronG71
+- Mar_12:15por qué me tentáis? Traedme la monedaG5342
+- Mar_12:16ellos se la trajeron; y les dijo: ¿DeG5342
+- Mar_13:11cuando os trajeren para entregaros, noG71
+- Mar_14:53trajeron...a Jesús al sumo sacerdoteG520
+- Luc_2:22le trajeron...para presentarle al SeñorG321
+- Luc_2:27los padres del...lo trajeron al temploG1521
+- Luc_4:40todos los que tenían enfermos...traíanG71
+- Luc_5:11y cuando trajeron a tierra las barcasG2609
+- Luc_5:18que traían en un lecho a un hombre queG5342
+- Luc_7:37pecadora...trajo un frasco de alabastroG2865
+- Luc_9:41¿hasta cuándo he de...Trae acá a tu hijoG4317
+- Luc_11:27bienaventurado el vientre que te trajoG941
+- Luc_12:11cuando os trajeren a las sinagogas, yG4374
+- Luc_14:21trae acá a los pobres, los mancos, losG1521
+- Luc_15:23y traed el becerro gordo y matadlo, yG5342
+- Luc_18:15traían a él...niños para que los tocaseG4374
+- Luc_18:40mandó traerle a su presencia; y cuandoG71
+- Luc_19:27traedlos acá, y decapitadlos delante deG71
+- Luc_19:30hallaréis un pollino atado...y traedloG71
+- Luc_19:35lo trajeron a Jesús; y habiendo echadoG71
+- Luc_22:66se juntaron...y te trajeron al concilioG321
+- Luc_24:1trayendo las especias aromáticas queG5342
+- Jua_1:42le trajo a Jesús. Y mirándole JesúsG71
+- Jua_4:33unos...¿Le habrá traído alguien de comer?[[G5342]]
+- Jua_6:44si el Padre que me envió no le trajereG1670
+- Jua_7:45dijeron: ¿Por qué no le habéis traído?[[G71]]
+- Jua_8:3le trajeron una mujer sorprendida enG71
+- Jua_10:16aquéllas también debo traer, y oiránG71
+- Jua_18:29acusación traéis contra este hombre?[[G5342]]
+- Jua_19:4os lo traigo fuera, para que entendáisG71
+- Jua_19:39vino trayendo un compuesto de mirra yG5342
+- Jua_21:10dijo: Traed de los peces que acabáisG5342
+- Hec_3:2traído un hombre cojo de nacimientoG941
+- Hec_4:34los vendían, y traían el precio de loG5342
+- Hec_4:37la vendió y trajo el precio y lo pusoG5342
+- Hec_5:2trayendo sólo una parte, la puso a losG5342
+- Hec_5:16venían a Jerusalén, trayendo enfermosG5342
+- Hec_5:21enviaron a la...para que fuesen traídosG71
+- Hec_5:26fue el jefe...y los trajo sin violenciaG71
+- Hec_5:27cuando los trajeron, los presentaron enG71
+- Hec_6:12arrebataron, y le trajeron al concilioG71
+- Hec_9:2hombres...los trajese presos a JerusalénG71
+- Hec_9:27tornándole, lo trajo a los apóstoles, yG71
+- Hec_11:25y hallándole, le trajo a Antioquía
+- Hec_14:13el sacerdote...trajo toros y guirnaldasG5342
+- Hec_16:19trajeron al foro, ante las autoridadesG1670
+- Hec_17:6trajeron a Jasón...ante las autoridadesG4951
+- Hec_17:19y tomándole, le trajeron al AreópagoG71
+- Hec_17:20traes a nuestros oídos cosas extrañasG1533
+- Hec_19:19trajeron los libros y los quemaronG4851
+- Hec_19:37habéis traído a estos hombres, sin serG71
+- Hec_21:16trayendo consigo a uno llamado MnasónG71
+- Hec_22:5a Damasco para traer presos a JerusalénG71
+- Hec_23:15al tribuno que le traiga mañana anteG2609
+- Hec_23:18rogó que trajese ante ti a este jovenG71
+- Hec_25:3pidiendo...le hiciese traer a JerusalénG3343
+- Hec_25:6sentó...y mandó que fuese traído PabloG71
+- Hec_25:17día siguiente...mandé traer al hombreG71
+- Hec_25:23por mandato de Festo fue traído PabloG71
+- Hec_25:26le he traído ante vosotros...ante ti, ohG4254
+- Rom_10:6esto es, para traer abajo a CristoG2609
+- 1Co_9:5traer con nosotros una hermana porG4013
+- 1Co_15:49hemos traído la imagen del terrenalG5409
+- 1Co_15:49traeremos también la imagen...celestialG5409
+- Gál_6:17yo traigo en mi cuerpo las marcas delG941
+- 1Ts_4:14traerá Dios...a los que durmieron enG71
+- 1Ti_6:7porque nada hemos traído a este mundoG1533
+- 2Ti_1:5trayendo a...memoria la fe no fingidaG2983
+- 2Ti_4:11toma a Marcos y tráele contigo...es útilG71
+- 2Ti_4:13trae...capote que dejé en Troas en casaG5342
+- Heb_10:32traed a la memoria los días pasadosG363
+- Stg_2:3miráis...que trae la ropa espléndida
+- 1Pe_1:13en la gracia que se os traerá cuandoG5342
+- 2Pe_1:21porque nunca la profecía fue traída
+- 2Pe_2:5trayendo el diluvio sobre el imnundo de losG1863
+- 2Jn_1:10alguno viene...y no trae esta doctrinaG5342
+- Rev_17:7el misterio...de la bestia que la traeG941
+- Rev_21:24los reyes de...traerán su gloria y honorG5342
+- Rev_22:18Dios traerá sobre él las plagas que

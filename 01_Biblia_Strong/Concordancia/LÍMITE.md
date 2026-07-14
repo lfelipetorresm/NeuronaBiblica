@@ -1,0 +1,115 @@
+---
+tipo: concordancia
+palabra: LÍMITE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LÍMITE
+
+- Gén_49:13será para puerto...su l hasta SidónH3411
+- Éxo_16:35hasta que llegaron a los l de...CanaánH7097
+- Éxo_19:12no subáis al monte, ni toquéis sus lH7097
+- Éxo_19:21que no traspase los l para ver a Jehová
+- Éxo_19:23dijo...Señala l al monte, y santifícaloH1379
+- Éxo_19:24no traspasen el l para subir a Jehová
+- Éxo_23:31fijaré tus l desde el Mar Rojo hastaH1366
+- Núm_21:13Arnón es l de Moab, entre Moab y elH1366
+- Núm_21:15corriente...descansa en el l de MoabH1366
+- Núm_22:36la ciudad de Moab, que está junto al lH1366
+- Núm_34:2entrado...la tierra de Canaán según sus lH1367
+- Núm_34:3el l del sur al extremo del Mar SaladoH1366
+- Núm_34:4l os irá rodeando desde el sur hasta laH1366
+- Núm_34:5este l desde Asmón hasta el torrente deH1366
+- Núm_34:6y el l occidental será el Mar GrandeH1366
+- Núm_34:6Mar Grande; este l será el l occidentalH1366
+- Núm_34:7el l del norte será este: desde el MarH1366
+- Núm_34:8de Hamat, y seguirá aquel l hasta ZedadH1366
+- Núm_34:9y seguirá este l hasta...el l del norteH1366
+- Núm_34:10l al oriente...desde Hazar,enán hastaH1366
+- Núm_34:11bajará este l desde Sefam a Ribla, alH1366
+- Núm_34:11descenderá el l, y llegará a la costaH1366
+- Núm_34:12después descenderá este l al Jordán, yH1366
+- Núm_34:12esta será vuestra tierra por sus lH1367
+- Núm_35:26saliere fuera de los l de su ciudad, enH1366
+- Núm_35:27y el vengador...le hallare fuera del lH1366
+- Deu_3:14tomó toda la tierra...hasta el l conH1366
+- Deu_3:16l el medio del valle, hasta el arroyo deH1366
+- Deu_3:16Jaboc, el cual es l de los hijos de AmónH1366
+- Deu_3:17también el Arabá, con el Jordán como lH1366
+- Deu_19:14no reducirás los l de la propiedad deH1366
+- Deu_27:17maldito el...redujere el l de su prójimoH1366
+- Deu_32:8estableció los l de los pueblos según elH1367
+- Jos_12:5dominaba...hasta los l de Gesur y deH1366
+- Jos_13:3Sihor, que...hasta el l de Ecrón al norteH1366
+- Jos_13:4sur...hasta Afec, hasta los l del amorreoH1366
+- Jos_13:10todas...hasta los l de los hijos de AmónH1366
+- Jos_13:23el Jordán fue el l del territorio deH1366
+- Jos_13:26y desde Mahanaim hasta el l de DebirH1366
+- Jos_13:27el Jordán y su l hasta el extremo delH1366
+- Jos_15:2su l...fue desde la costa del Mar SaladoH1366
+- Jos_15:4mar. Este, pues, os será el l del surH1366
+- Jos_15:5el l oriental es el Mar Salado hasta laH1366
+- Jos_15:5el l del lado del norte, desde la bahíaH1366
+- Jos_15:6y sube este l por Bet-hogla, y pasa alH1366
+- Jos_15:8y sube este l por el valle del hijo deH1366
+- Jos_15:9rodea este l desde la cumbre del monteH1366
+- Jos_15:10después gira este l desde Baala haciaH1366
+- Jos_15:12l del occidente es el Mar Grande. EsteH1366
+- Jos_15:12este fue el l de los hijos de Judá, porH1366
+- Jos_16:3hasta el l de Bet-horón la de abajo, yH1366
+- Jos_16:5el l de su heredad...desde Atarot-adarH1366
+- Jos_16:6continúa el l hasta el mar, y...MicmetatH1366
+- Jos_17:8Tapúa...que está junto al l de ManasésH1366
+- Jos_17:9este l al arroyo de Caná, hacia el surH1366
+- Jos_17:9y el l de Manasés es desde el norte delH1366
+- Jos_17:10el mar es su l; y se encuentra con AserH1366
+- Jos_17:18y lo poseerás hasta sus l más lejanosH8444
+- Jos_18:12fue el l...al lado del norte desde elH1366
+- Jos_18:16desciende este l al extremo del monteH1366
+- Jos_18:19pasa el l al lado norte de Bet-hoglaH1366
+- Jos_18:19extremidad sur del Jordán; este es el lH1366
+- Jos_18:20el Jordán era el l al lado del orienteH1379
+- Jos_18:20es la heredad...por sus l alrededorH1367
+- Jos_19:11su l sube hacia el occidente a MaralaH1366
+- Jos_19:12el l de Quislot-tabor, sale a DaberatH1366
+- Jos_19:14l gira hacia Hanatón, viniendo a salirH1366
+- Jos_19:22y llega este l hasta Tabor, Sahazima yH1366
+- Jos_19:29allí este l tuerce hacia Ramá, y hastaH1366
+- Jos_19:34el l hacia el occidente a Aznot-taborH1366
+- Jos_22:10l del Jordán...edificaron allí un altarH1552
+- Jos_22:11en los l del Jordán, del lado de losH1552
+- Jue_1:36el l del amorreo fue desde...AcrabimH1366
+- 1Sa_6:12tras ellas hasta el l de Bet-semesH1366
+- 1Re_4:21señoreaba...hasta...el l con EgiptoH1366
+- 2Re_14:25restauró los l de Israel desde laH1366
+- Job_13:27trazando un l para las plantas de misH2707
+- Job_14:5le pusiste l, de los cuales no pasaráH2706
+- Job_26:10puso l a la superficie de las aguasH2706
+- Job_38:20que las lleves a sus l, y entiendas lasH1366
+- Isa_9:7lo dilatado de su imperio...no tendrán lH7093
+- Isa_15:8porque el llanto rodeó los l de MoabH1366
+- Eze_11:10-11en los l de Israel os juzgaréH1366
+- Eze_29:10desde Migdol...hasta el l de EtiopíaH1366
+- Eze_45:7la longitud...el l occidental hasta el lH1366
+- Eze_47:13son los l en que repartiréis la tierraH1366
+- Eze_47:15este será el l de la tierra hacia elH1366
+- Eze_47:16entre el l de Damasco y el l de HamatH1366
+- Eze_47:16Hazar-haticón, que es el l de HauránH1366
+- Eze_47:17será el l del norte desde el mar hastaH1366
+- Eze_47:17el l de Damasco al norte, y al l deH1366
+- Eze_47:18esto mediréis de l hasta el mar orientalH1366
+- Eze_47:20el Mar Grande será el l hasta enfrenteH1366
+- Eze_48:3-4, Eze_48:5-6, Eze_48:7-8, Eze_48:24-25, Eze_48:26-27junto al l de...desde el ladoH1366
+- Eze_48:12la porción de...junto al l de...levitasH1366
+- Eze_48:13lado de los l de la de los sacerdotesH1366
+- Eze_48:21de la porción hasta el l oriental, y alH1366
+- Eze_48:21y al occidente...hasta el l occidentalH1366
+- Eze_48:22entre el l de Judá y el l de BenjamínH1366
+- Eze_48:28junto al l de Gad, al lado meridionalH1366
+- Eze_48:28será el l desde Tamar hasta las aguasH1366
+- Miq_7:11viene...aquel día se extenderán los lH2706
+- Nah_3:9Etiopía era su fortaleza...eso sin lH7097
+- Mal_1:5sea...engrandecido más allá de los lH1366
+- Hec_13:50persecución...los expulsaron de sus lG3725
+- Hec_17:26ha prefijado...los l de su habitaciónG3734

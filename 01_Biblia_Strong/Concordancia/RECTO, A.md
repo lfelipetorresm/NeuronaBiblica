@@ -1,0 +1,132 @@
+---
+tipo: concordancia
+palabra: RECTO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RECTO, A
+
+- Éxo_15:26e hicieres lo r delante de sus ojosH3477
+- Núm_23:10muera yo la muerte de los r, y miH3477
+- Deu_6:18lo r y bueno ante los ojos de JehováH3477
+- Deu_12:25hicieres lo r ante los ojos de JehováH3477
+- Deu_12:28haciendo...lo r ante los ojos de JehováH3477
+- Deu_13:18para hacer lo r ante...Jehová tu DiosH3477
+- Deu_21:9hicieres lo que es r ante los ojos deH3477
+- Deu_32:4es la Roca...Dios de verdad...es justo y rH3477
+- Jos_9:25lo que te pareciere bueno y r...hazloH3477
+- 1Sa_6:12las vacas...seguían camino r, andandoH3225
+- 1Sa_12:23os instruiré en el camino bueno y rH3477
+- 1Sa_29:6vive Jehová, que tu has sido r, y que meH3477
+- 2Sa_22:24fui r para con él, y me he guardadoH8549
+- 2Sa_22:26con el...y r para con el hombre íntegroH8549
+- 1Re_11:33para hacer lo r delante de mis ojosH3477
+- 1Re_11:38y si...hicieres lo r delante de mis ojosH3477
+- 1Re_14:8tú no...solamente lo r delante de mis ojosH3477
+- 1Re_15:5David había hecho lo r ante los ojos deH3477
+- 1Re_15:11Asa hizo lo r ante los ojos de JehováH3477
+- 1Re_22:43haciendo lo r ante los ojos de JehováH3477
+- 2Re_10:3escoged al mejor y al más r de losH3477
+- 2Re_10:15¿es r tu corazón, como el mío es r conH3225
+- 2Re_10:30cuanto has hecho bien ejecutando lo rH3225
+- 2Re_12:2y Joás hizo lo r ante los ojos de JehováH3477
+- 2Re_14:3; 2Re_15:3, 2Re_15:34lo r ante los ojos de JehováH3477
+- 2Re_16:2y no hizo lo r ante los ojos de JehováH3477
+- 2Re_17:9hicieron...cosas no r contra Jehová suH3651
+- 2Re_18:3; 2Re_22:2hizo lo r ante los ojos de JehováH3477
+- 2Cr_14:2; 2Cr_24:2; 2Cr_25:2; 2Cr_26:4; 2Cr_27:2; 2Cr_29:2; 2Cr_34:2hizo...lo r ante los ojos de JehováH3477
+- 2Cr_20:32haciendo lo r ante los ojos de JehováH3477
+- 2Cr_28:1mas no hizo lo r ante los ojos de JehováH3477
+- 2Cr_29:34los levitas fueron más r de corazón paraH3477
+- 2Cr_31:20ejecutó lo bueno, r y verdadero delanteH3477
+- Neh_9:13les diste juicios r, leyes verdaderasH3477
+- Job_1:1, Job_1:8; Job_2:3perfecto y r, temeroso de DiosH3477
+- Job_4:7y ¿en dónde han sido destruidos los r?[[H6662]]
+- Job_6:25¡cuán eficaces son las palabras r! PeroH3476
+- Job_8:6si fueres limpio y r, ciertamente luegoH3477
+- Job_17:8r se maravillarán de esto, y el inocenteH3477
+- Job_33:27al que dijere: Pequé, y pervertí lo rH3477
+- Job_35:2¿piensas que es cosa r lo que has dichoH4941
+- Job_42:7porque no habéis hablado de mí lo r, comoH3559
+- Sal_7:10en Dios, que salva a los r de corazonH3477
+- Sal_11:2asaetear en oculto a los r de corazónH3477
+- Sal_11:7justicia; el hombre r mirará su rostroH3477
+- Sal_18:23fui r para con él, y me he guardado deH8549
+- Sal_18:25con el...y r para con el hombre íntegroH8549
+- Sal_19:8los mandamientos de Jehová son r, queH3477
+- Sal_25:8bueno y r es Jehová...él enseñará a losH3477
+- Sal_32:11y cantad con júbilo...los r de corazónH3477
+- Sal_33:4porque r es la palabra de Jehová, y todaH3477
+- Sal_36:10extiende...tu justicia a los r de corazónH3477
+- Sal_37:14su arco...para matar a los de r procederH3477
+- Sal_49:14los r se enseñorearán de ellos por laH3477
+- Sal_51:10y renueva un espíritu r dentro de míH3559
+- Sal_64:10y se gloriarán todos los r de corazónH3477
+- Sal_78:37pues sus corazones no eran r con él, niH3559
+- Sal_92:15anunciar que Jehová mi fortaleza es rH3477
+- Sal_94:15y en pos de ella irán todos los r deH3477
+- Sal_97:11justo, y alegría para los r de corazónH3477
+- Sal_107:42véanlo los r, y alégrense, y todos losH3477
+- Sal_111:1alabaré a...en la compañía y...de los rH3477
+- Sal_112:2la generación de los r será benditaH3477
+- Sal_112:4resplandeció en...tinieblas luz a los rH3477
+- Sal_119:128eso estimé r todos tus mandamientosH3474
+- Sal_119:137justo eres...Jehová, y r tus juiciosH3477
+- Sal_119:138tus testimonios...son r y muy fielesH6664
+- Sal_125:4haz bien...los que son r en su corazónH3477
+- Sal_140:13los justos...r morarán en tu presenciaH3477
+- Pro_2:7él provee de sana sabiduría a los r; esH3477
+- Pro_2:21r habitarán la tierra, y...perfectosH3477
+- Pro_4:25tus ojos miren lo r, y diríjanse tusH5227
+- Pro_4:26de tus pies, y todos tus caminos sean r
+- Pro_8:6hablaré...y abriré mis labios para cosas rH4339
+- Pro_8:9son r al que entiende, y razonables a losH3477
+- Pro_11:3la integridad de los r los encaminaráH3477
+- Pro_11:6la justicia de los r los librará; mas losH3477
+- Pro_11:11por la bendición de los r la ciudad seráH3477
+- Pro_12:6impíos...mas la boca de los r los libraráH3477
+- Pro_14:9necios...entre los r hay buena voluntadH3477
+- Pro_14:11casa...pero florecerá la tienda de los rH3477
+- Pro_15:8mas la oración de los r es su gozoH3477
+- Pro_15:19la vereda de los r, como una calzadaH3477
+- Pro_16:13de los reyes...aman al que habla lo rH3477
+- Pro_16:17el camino de los r se aparta del malH3477
+- Pro_17:26ni herir a los nobles que hacen lo rH3477
+- Pro_20:11muchacho...su conducta fuere limpia y rH3477
+- Pro_21:2camino del hombre es r en su...opiniónH3477
+- Pro_21:8es torcido...los hechos del limpio son rH3477
+- Pro_21:18el impío, y por los r, el prevaricadorH3477
+- Pro_21:29su rostro; mas el r ordena sus caminosH3477
+- Pro_23:16cuando tus labios hablaren cosas rH4339
+- Pro_24:26los labios del que responde palabras rH5228
+- Pro_28:10que hace errar a los r por el mal caminoH8549
+- Pro_29:10mas los r buscan su contentamientoH8535
+- Pro_29:27abominación es al impío el de caminos rH3477
+- Ecl_7:29que Dios hizo al hombre r, pero ellosH3477
+- Isa_26:7que eres r, pesas el camino del justoH3477
+- Isa_28:26su Dios le instruye, y le enseña lo r
+- Isa_30:10los profetas: No nos profeticéis lo rH5229
+- Isa_33:15el que camina en justicia y habla lo rH4339
+- Jer_23:10carrera...mala, y su valentía no es r
+- Jer_26:14haced de mí como...y más r os parezca
+- Jer_34:15habíais...hecho lo r delante de mis ojosH3477
+- Eze_18:25dijereis: No es r el camino del SeñorH8505
+- Eze_18:25¿no es r mi camino? ¿no son vuestrosH8505
+- Eze_18:29aún dijere: No es r el camino del SeñorH8505
+- Eze_18:29¿no son r mis caminos, casa de Israel?[[H8505]]
+- Eze_18:29ciertamente, vuestros caminos no son rH8505
+- Eze_33:17tu pueblo: No es r el camino del SeñorH8505
+- Eze_33:17el camino de ellos es el que no es rH8505
+- Eze_33:20dijisteis: No es r el camino del SeñorH8505
+- Ose_14:9porque los caminos de Jehová son r, yH3477
+- Amó_3:10no saben hacer lo r, dice JehováH5229
+- Amó_5:10ellos...y al que hablaba lo r abominaronH8549
+- Miq_7:2ninguno hay r entre los hombres; todosH3477
+- Miq_7:4es como el espino; es más r, como zarzalH3477
+- Hab_2:4aquel cuya alma no es r, se enorgulleceH3474
+- Luc_8:15que con corazón bueno y r retienen laG2570
+- Hec_8:21tu corazón no es r delante de DiosG2117
+- Hec_13:10de trastornar los caminos r del Señor?[[G2117]]
+- Col_4:1amos, haced lo que es justo y r conG2471
+- 2Pe_2:15han dejado el camino r, y...extraviadoG2117

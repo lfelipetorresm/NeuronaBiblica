@@ -1,0 +1,89 @@
+---
+tipo: concordancia
+palabra: ARCO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ARCO
+
+- Gén_9:13mi a he puesto en las nubes, el cualH7198
+- Gén_9:14se dejará ver entonces mi a en las nubesH7198
+- Gén_9:16estará el a en las nubes, y lo verá, yH7198
+- Gén_21:16enfrente, a distancia de un tiro de aH7198
+- Gén_21:20el muchacho...creció...y fue tirador de aH7198
+- Gén_27:3toma...tu aljaba y tu a, y sal al campoH7198
+- Gén_48:22tomé yo de...con mi espada y con mi aH7198
+- Gén_49:24su a se mantuvo poderoso, y los brazosH7198
+- Jos_24:12tábanos...no con tu espada, ni con tu aH7198
+- 1Sa_2:4los a de los fuertes fueron quebradosH7198
+- 1Sa_18:4se lo dio a David...su a y su talabarteH7198
+- 2Sa_1:22el a de Jonatán no volvía atrás, ni laH7198
+- 2Sa_22:35se doble el a de bronce con mis brazosH7198
+- 1Re_22:34disparó su a a la ventura e hirió alH7198
+- 2Re_6:22a los que tomaste cautivos...con tu aH7198
+- 2Re_9:24pero Jehová entesó su a, e hirió a JoramH7198
+- 2Re_13:15toma un a y unas...tomó él entonces un aH7198
+- 2Re_13:16Eliseo al rey...Pon tu mano sobre el aH7198
+- 2Re_13:16y puso él su mano sobre el a. EntoncesH7198
+- 1Cr_5:18hombres valientes...que entesaban aH7198
+- 1Cr_12:2estaban armados de a, y...saetas con aH7198
+- 2Cr_14:8entesaban a, todos hombres diestrosH7198
+- 2Cr_17:17y con él 200.000 armados de a y escudoH7198
+- 2Cr_18:33mas disparando uno el a a la venturaH7198
+- 2Cr_26:14y Uzías preparó...a, y hondas para tirarH7198
+- Neh_4:13puse al pueblo por familias, con...aH7198
+- Neh_4:16la otra mitad tenía lanzas, escudos, aH7198
+- Job_20:24huirá...el a de bronce le atravesaráH7198
+- Job_29:20en mí, y mi a se fortalecía en mi manoH7198
+- Sal_7:12armado tiene...su a, y lo ha preparadoH7198
+- Sal_11:2malos tienden el a, disponen sus saetasH7198
+- Sal_18:34entesar con mis brazos el a de bronceH7198
+- Sal_37:14impíos...entesan su a, para derribar alH7198
+- Sal_37:15su espada entrará...y su a será quebradoH7198
+- Sal_44:6no confiaré en mi a, ni mi espada meH7198
+- Sal_46:9quiebra el a, corta la lanza, y quemaH7198
+- Sal_76:3allí quebró las saetas del a, el escudoH7198
+- Sal_78:57sino que...se volvieron como a engañosoH7198
+- Isa_5:28estarán afiladas, y...sus a entesadosH7198
+- Isa_7:24con saetas y a irán allá, porque todaH7198
+- Isa_13:18con a tirarán a los niños, y no tendránH7198
+- Isa_21:15ante el a entesado, ante el peso de laH7198
+- Isa_22:3todos tus príncipes juntos huyeron del aH7198
+- Isa_41:2polvo, como hojarasca que su a arrebata?[[H7198]]
+- Isa_66:19a Fut y Lud que disparan a, a Tubal yH7198
+- Jer_6:23a y jabalina empuñarán; crueles sonH7198
+- Jer_9:3que su lengua lanzará mentira como un aH7198
+- Jer_46:9Put...y los de Lud que toman y entesan aH7198
+- Jer_49:35yo quiebro el a de Elam...su fortalezaH7198
+- Jer_50:14poneos en orden...todos los que entesáis aH7198
+- Jer_50:29haced juntar...todos los que entesan aH7198
+- Jer_50:42a y lanza manejarán; serán crueles, yH7198
+- Jer_51:3diré al flechero que entesa su a, y al queH7198
+- Jer_51:56el a de ellos fue quebrado, porque JehováH7198
+- Lam_2:4entesó su a como enemigo, afirmó...manoH7198
+- Lam_3:12entesó su a, y me puso como blanco paraH7198
+- Eze_1:28como parece el a iris que está en lasH7198
+- Eze_39:3y sacaré tu a de tu mano izquierda, yH7198
+- Eze_39:9y quemarán...a y saetas, dardos de mano yH7198
+- Eze_40:21postes y sus a eran como la medida de laH361
+- Eze_40:22sus a y sus palmeras eran conforme a laH361
+- Eze_40:22subía...y delante de ellas estaban sus aH361
+- Eze_40:24, Eze_40:29, Eze_40:33y sus a conforme a estas medidasH361
+- Eze_40:25, Eze_40:29, Eze_40:33sus ventanas y sus a alrededorH361
+- Eze_40:26sus gradas...con sus a delante de ellasH361
+- Eze_40:30a...eran de veinticinco codos de largoH361
+- Eze_40:31, Eze_40:34y sus a caían afuera al atrio, conH361
+- Eze_40:36postes, sus a y sus ventanas alrededorH361
+- Ose_1:5en aquel día quebraré yo el a de IsraelH7198
+- Ose_1:7no los salvaré con a, ni con espada, niH7198
+- Ose_2:18quitaré de la tierra a y espada y guerraH7198
+- Ose_7:16como a engañoso; cayeron sus príncipesH7198
+- Amó_2:15el que maneja el a no resistirá, niH7198
+- Hab_3:9se descubrió enteramente tu a; losH7198
+- Zac_9:10y los a de guerra serán quebradosH7198
+- Zac_9:13entesado para mí a Judá como a, e hiceH7198
+- Zac_10:4de él saldrá la piedra...el a de guerraH7198
+- Rev_4:3y había alrededor del trono un a irisG2463
+- Rev_6:2el que lo montaba tenía un a; y le fueG5115
+- Rev_10:1a otro ángel...el a iris sobre su cabezaG2463

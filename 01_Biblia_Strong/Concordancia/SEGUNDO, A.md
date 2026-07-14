@@ -1,0 +1,170 @@
+---
+tipo: concordancia
+palabra: SEGUNDO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SEGUNDO, A
+
+- Gén_1:8y fue la tarde y la mañana el día sH8145
+- Gén_2:13el nombre del s río es Gihón; este es elH8145
+- Gén_6:16al arca...le harás piso bajo, s y terceroH8145
+- Gén_7:11el mes s, a los diecisiete días del mesH8145
+- Gén_8:14el mes s, a los 27 días del mes, se secóH8145
+- Gén_22:15llamó el ángel...a Abraham s vez desdeH8145
+- Gén_30:7concibió...y dio a luz un s hijo a JacobH8145
+- Gén_32:19mandó también al s, y al tercero, y aH8145
+- Gén_41:5se durmió de nuevo, y soñó la s vez: QueH8145
+- Gén_41:43su s carro, y pregonaron delante de élH4932
+- Gén_41:52llamó el nombre del s, Efraín; porqueH8145
+- Gén_47:18acabado aquel año, vinieron a él el sH8145
+- Éxo_16:1vino al...a los quince días del s mesH8145
+- Éxo_26:4-5, Éxo_26:10orilla de la cortina de la s uniónH8145
+- Éxo_28:18la s hilera, una esmeralda, un zafiroH8145
+- Éxo_36:11-12, Éxo_36:17orilla de la cortina...la s serieH8145
+- Éxo_39:11la s hilera, una esmeralda, un zafiroH8145
+- Éxo_40:17en el s año, el tabernáculo fue erigidoH8145
+- Lev_13:58lavará s vez, y entonces será limpiaH8145
+- Núm_1:1el día primero del mes s, en el s añoH8145
+- Núm_1:18reunieron...en el día primero del mes sH8145
+- Núm_2:16de Rubén...sus ejércitos, marcharán los sH8145
+- Núm_7:18el s día ofreció Natanael hijo de ZuarH8145
+- Núm_9:1s año de su salida de...tierra de EgiptoH8145
+- Núm_9:11en el mes s, a los catorce días del mesH8145
+- Núm_10:6tocareis alarma la s vez...moverán losH8145
+- Núm_10:11año s, en el mes s, a los veinte díasH8145
+- Núm_24:1no fue, como la primera y s vez, en busca
+- Núm_28:8ofrecerás el s cordero a la caída de la
+- Núm_29:17el s día, doce becerros de la vacadaH8145
+- Núm_33:3el s día de la pascua salieron los hijos
+- Jos_5:2a circuncidar la s vez a los hijos deH8145
+- Jos_6:14dieron otra vuelta a la ciudad el s díaH8145
+- Jos_19:1la s suerte tocó a Simeón, para la tribuH8145
+- Jue_6:25toma un toro...el s toro de siete añosH8145
+- Jue_6:26el s toro, sacrifícalo en holocausto conH8145
+- Jue_6:28el s toro había sido ofrecido sobre elH8145
+- Jue_20:24acercaron los hijos de Israel...el s díaH8145
+- Jue_20:25aquel s día, saliendo Benjamín de GabaaH8145
+- 1Sa_8:2el nombre del s, Abías; y eran juecesH4932
+- 1Sa_17:13Eliab el primogénito, el s Abinadab, y
+- 1Sa_18:21dijo, pues, Saúl a David por s vez: Tú
+- 1Sa_20:27el s día de la nueva luna, acontecióH8145
+- 1Sa_20:34no comió pan el s día de la nueva lunaH8145
+- 1Sa_23:17tú reinarás...y yo seré s después de ti
+- 1Sa_26:8lo enclavaré en la...y no le daré s golpeH8138
+- 2Sa_3:3su s Quileab, de Abigail la mujer deH4943
+- 2Sa_14:29envió aun por s vez, y no quiso venirH8145
+- 2Sa_20:10Amasa...cayó muerto sin darle un s golpe
+- 2Sa_21:18s guerra hubo después en Gob contra los
+- 1Re_6:1mes de Zif, que es el mes s, comenzóH8145
+- 1Re_9:2Jehová apareció a Salomón la s vez, comoH8145
+- 1Re_15:25Nadab hijo...comenzó a reinar...el s añoH8147
+- 1Re_19:7volviendo el ángel de...la s vez, lo tocóH8145
+- 2Re_1:17reinó...en el s año de Joram hijo deH8147
+- 2Re_10:6les escribió la s vez, diciendo: Si soisH8145
+- 2Re_14:1el año s de Joás hijo...comenzó a reinarH8147
+- 2Re_15:32en el s año de Peka...comenzó a reinarH8147
+- 2Re_19:29este año comeréis...s año lo que naceráH8145
+- 2Re_22:14la cual moraba...la s parte de la ciudad
+- 2Re_23:4mandó el rey...los sacerdotes de s ordenH4932
+- 2Re_25:18tomó...al s sacerdote Sofonías, y tresH4932
+- 1Cr_2:13Isaí engendró a Eliab...el s AbinadabH8145
+- 1Cr_3:1hijos...s, Daniel, de Abigail la de CarmelH8145
+- 1Cr_3:15el s Joacim, el tercero Sedequías, elH8145
+- 1Cr_5:12el principal en Basán; el s Safán, luegoH4932
+- 1Cr_7:15Maaca; y el nombre del s fue ZelofehadH8145
+- 1Cr_8:1Benjamín engendró a Bela su...Ashel el sH8145
+- 1Cr_8:39y los hijos de Esec...Ulam...Jehús el sH8145
+- 1Cr_12:9primero, Obadías el s, Eliab el terceroH8145
+- 1Cr_15:18con ellos a sus hermanos del s ordenH4932
+- 1Cr_16:5Asaf el primero; el s...Zacarías; Jeiel
+- 1Cr_23:11Jahat era el primero, y Zina el s; peroH8145
+- 1Cr_23:19hijos de Hebrón; Jerías...Amarías el sH8145
+- 1Cr_23:20hijos de Uziel: Micaía...e Isías el sH8145
+- 1Cr_24:7la primera suerte tocó...la s a JedaíasH8145
+- 1Cr_24:23el s Amarías, el tercero Jahaziel, elH8145
+- 1Cr_25:9por Asaf, para José; la s para GedalíasH8145
+- 1Cr_26:2los hijos de Meselemías...Jediael el sH8145
+- 1Cr_26:4hijos de Obed-edom...Jozabad el s, JoaH8145
+- 1Cr_26:11el s Hilcías, el tercero Tebalías, elH8145
+- 1Cr_27:4división del s mes estaba Dodai ahohitaH8145
+- 1Cr_29:22por s vez la investidura del reino aH8145
+- 2Cr_3:2edificar en el mes s, a los dos díasH8145
+- 2Cr_27:5y lo mismo en el s año y en el terceroH8145
+- 2Cr_28:7mató a...y a Elcana, s después del rey
+- 2Cr_30:2rey...para celebrar la pascua en el mes sH8045
+- 2Cr_30:13la fiesta solemne de los...en el mes sH8045
+- 2Cr_30:15la pascua, a los catorce días del mes sH8045
+- 2Cr_31:12principal, y Simei su hermano fue el s
+- 2Cr_34:22Hulda...la cual moraba...en el s barrio
+- 2Cr_35:24y lo pusieron en un s carro que teníaH4932
+- Esd_3:8año s de su venida a la casa de DiosH8145
+- Esd_3:8en el mes s, comenzaron Zorobabel hijoH8145
+- Esd_4:24suspendida hasta el año s del reinado deH8145
+- Neh_11:9Judá hijo de Senúa el s en la ciudadH4932
+- Neh_11:17Bacbuquías el s de entre sus hermanosH4932
+- Neh_12:38el s coro iba del lado opuesto, y yo en
+- Est_2:14volvía a la casa s de las mujeres, alH8145
+- Est_2:19la s vez, Mardoqueo estaba sentado a laH8145
+- Est_7:2el s día, mientras bebían vino, dijo elH8145
+- Est_9:29suscribieron...esta s carta referente aH8145
+- Est_10:3Mardoqueo el...fue el s después del rey
+- Job_42:14llamó el nombre...el de la s, CesiaH8145
+- Sal_109:13en la s generación sea borrado suH312
+- Ecl_4:10porque cuando cayere, no habrá s que
+- Isa_37:30comeréis...año s lo que nace de suyoH8145
+- Jer_1:13vino...por s vez, diciendo: ¿Qué vesH8145
+- Jer_13:3a mí s vez palabra de Jehová, diciendoH8145
+- Jer_33:1palabra de Jehová a Jeremías la s vezH8145
+- Jer_52:22y lo mismo era lo de la s columna conH8145
+- Jer_52:24tomó...Sofonías el s sacerdote, y tresH4932
+- Eze_4:6acostarás...s vez, y llevarás la maldad
+- Eze_10:14la s, de hombre; la tercera, cara deH8145
+- Eze_43:22al s día ofrecerás un macho cabrío sinH8145
+- Dan_2:1el s año del reinado de NabucodonosorH8147
+- Dan_2:7respondieron por s vez...Diga el rey el
+- Dan_7:5he aquí otra s bestia, semejante a un osoH8578
+- Jon_3:1palabra de Jehová por s vez a JonásH8145
+- Sof_1:10habrá...aullido desde la s puerta, yH4932
+- Hag_1:1en el año s del rey Darío, en el mesH8147
+- Hag_1:15del mes sexto, en el s año del rey DaríoH8147
+- Hag_2:10en el s año de Darío, vino palabra deH8147
+- Hag_2:20por s vez palabra de Jehová a Hageo, a
+- Zac_1:1en el octavo mes del año s de DaríoH8147
+- Zac_1:7el año s de Darío, vino palabra de JehováH8147
+- Zac_6:2alazanes, en el s carro caballos negrosH8145
+- Mat_22:26de la misma manera también el s, y elG1208
+- Mat_22:39el s es semejante: Amarás a tu prójimoG1208
+- Mat_26:42oró por s vez, diciendo: Padre mío, siG1208
+- Mar_12:21y el s se casó con ella, y murió, yG1208
+- Mar_12:31el s es semejante: Amarás a tu prójimoG1208
+- Mar_14:72el gallo cantó la s vez...Entonces PedroG1208
+- Luc_12:38venga a la s vigilia, y aunque vengaG1208
+- Luc_20:30y la tomó el s, el cual también murióG1208
+- Jua_3:4acaso entrar por s vez en el vientre deG1208
+- Jua_4:54esta s señal hizo Jesús, cuando fue deG1208
+- Jua_21:16volvió a decirle la s vez: Simón, hijoG1208
+- Hec_7:13en la s, José se dio a conocer a susG1208
+- Hec_10:15volvió la voz a él la s vez: Lo que DiosG1208
+- Hec_11:9la voz me respondió del cielo por s vez
+- Hec_12:10habiendo pasado la primera...s guardiaG1208
+- Hec_13:33está escrito...el salmo s: Mi hijo eresG1208
+- Hec_28:13otro día...llegamos al s día a PuteoliG1206
+- 1Co_15:47el s hombre, que es el Señor, es delG1208
+- 2Co_1:15ir...para que tuvieseis una s graciaG1208
+- Heb_8:7no se hubiera procurado lugar para el sG1208
+- Heb_9:3tras el s velo estaba...el Lugar SantísimoG1208
+- Heb_9:7s parte, sólo el sumo sacerdote una vezG1208
+- Heb_9:28y aparecerá por s vez, sin relación conG1208
+- 2Pe_3:1esta es la s carta que os escribo, yG1208
+- Rev_2:11venciere, no sufrirá...de la s muerteG1208
+- Rev_4:7un león; el s era semejante a un becerroG1208
+- Rev_6:3abrió el s sello, oí al s ser vivienteG1208
+- Rev_8:8el s ángel tocó la trompeta, y como unaG1208
+- Rev_11:14s ay pasó; he aquí, el tercer ay vieneG1208
+- Rev_16:3el s ángel derramó su copa sobre el marG1208
+- Rev_20:6s muerte no tiene potestad sobre éstosG1208
+- Rev_20:14al lago de fuego...Esta es la muerte sG1208
+- Rev_21:8en el lago que arde...que es la muerte sG1208
+- Rev_21:19el primer cimiento era...el s, zafiroG1208

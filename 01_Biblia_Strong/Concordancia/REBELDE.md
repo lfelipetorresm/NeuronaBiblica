@@ -1,0 +1,86 @@
+---
+tipo: concordancia
+palabra: REBELDE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REBELDE
+
+- Éxo_23:21no le seas r; porque él no perdonaráH4843
+- Núm_14:9no seáis r contra Jehová, ni temáis alH4775
+- Núm_17:10que se guarde por señal a los hijos rH4805
+- Núm_20:10¡oíd ahora, r! ¿Os hemos de hacer salirH4784
+- Núm_20:24por cuanto fuisteis r a mi mandamientoH4784
+- Núm_27:14fuisteis r a mi mandato en el...de ZinH4784
+- Deu_1:26, Deu_1:43fuisteis r al mandato de JehováH4784
+- Deu_9:7desde el día que...habéis sido r a JehováH4784
+- Deu_9:23fuisteis r al mandato de Jehová, y no leH4784
+- Deu_9:24r habéis sido a Jehová desde el día queH4784
+- Deu_21:18si alguno tuviere un hijo contumaz y rH4784
+- Deu_21:20este nuestro hijo es...r, no obedece aH4784
+- Deu_31:27que aun viviendo yo...sois r a JehováH4784
+- Jos_1:18que fuere r a tu mandamiento, y noH4784
+- Jos_22:16edificándoos altar para ser r contraH4775
+- 1Sa_12:14no fuereis r a la palabra de JehováH4784
+- 1Sa_12:15si fuereis r a las palabras de JehováH4784
+- 1Sa_20:30hijo de la...r, ¿acaso no sé yo que túH4780
+- 1Re_13:21has sido r al mandato de Jehová, yH4784
+- 1Re_13:26el varón de Dios...que fue r al mandatoH4784
+- Esd_4:12y edifican la ciudad r y mala...murosH4779
+- Esd_4:15y sabrás que esta ciudad es ciudad r, yH4779
+- Job_24:13ellos son los que, r a la luz, nuncaH4775
+- Sal_66:7naciones; los r no serán enaltecidosH5637
+- Sal_68:6saca...mas los r habitan en tierra secaH5637
+- Sal_68:18tomaste dones para los hombres...los rH5637
+- Sal_78:8generación contumaz y r; generación queH4784
+- Sal_105:28oscurecieron...no fueron r a su palabraH4784
+- Sal_107:11por cuanto fueron r a las palabras deH4784
+- Pro_17:11r no busca sino el mal, y mensajeroH7451
+- Isa_1:20si no quisiereis y fuereis r, seréisH4784
+- Isa_1:28pero los r...serán quebrantados, y los queH6586
+- Isa_30:9pueblo es r, hijos mentirosos, hijos queH4805
+- Isa_48:8por tanto te llamé r desde el vientreH6586
+- Isa_50:5oído, y yo no fui r, ni me volví atrásH4784
+- Isa_57:4¿no sois vosotros hijos r, generaciónH6588
+- Isa_57:17siguió r por el camino de su corazónH7726
+- Isa_63:10ellos fueron r, e hicieron enojar suH4784
+- Isa_65:2extendí...manos todo el día a pueblo rH5637
+- Jer_3:6has visto lo que ha hecho la r Israel?[[H4878]]
+- Jer_3:7no se volvió...vio su hermana la r JudáH901
+- Jer_3:8vio que por haber fornicado la r IsraelH4878
+- Jer_3:8pero no tuvo temor la r Judá su hermanaH898
+- Jer_3:10su hermana la r Judá no se volvió a míH901
+- Jer_3:11me dijo...Ha resultado justa la r IsraelH4878
+- Jer_3:12vuélvete, oh r Israel, dice Jehová; noH4878
+- Jer_3:14convertíos, hijos r, dice Jehová; porqueH7726
+- Jer_3:22convertíos, hijos r, y sanaré vuestrasH7726
+- Jer_5:23este pueblo tiene corazón falso y r; seH4784
+- Jer_6:28son r, porfiados, andan chismeando; sonH5637
+- Jer_8:5¿por qué es este pueblo de Jerusalén r
+- Eze_2:3te envío...a gentes r que se rebelaronH4775
+- Eze_2:5si no escucharen, porque son una casa rH4805
+- Eze_2:6ni temas delante de ellos, porque son...rH4805
+- Eze_2:7o dejen de escuchar; porque son muy rH4805
+- Eze_2:8no seas r como la casa r; abre tu bocaH4805
+- Eze_3:9ni tengas miedo...ellos, porque son casa rH4805
+- Eze_3:26varón que reprende; porque son casa rH4805
+- Eze_3:27no quiera oír, no oiga; porque casa rH4805
+- Eze_12:2habitas en medio de casa r, los cualesH4805
+- Eze_12:2y no ven...y no oyen, porque son casa rH4805
+- Eze_12:3si tal vez atienden, porque son casa rH4805
+- Eze_12:9¿no te ha dicho la...casa r: ¿Qué haces?[[H4805]]
+- Eze_12:25en vuestros días, oh casa r, hablaréH4805
+- Eze_17:12a la casa r: ¿No habéis entendido quéH4805
+- Eze_20:38apartaré de entre vosotros a los r, yH4775
+- Eze_24:3habla por parábola a la casa r, y dilesH4775
+- Eze_44:6dirás a los r, a la casa de Israel: AsíH4775
+- Dan_9:5hemos sido r, y nos hemos apartado deH4775
+- Ose_14:9son rectos...mas los r caerán en ellosH6586
+- Sof_3:1¡ay de la ciudad r y contaminada yH4754
+- Luc_1:17de los r a la prudencia de los justosG545
+- Hec_26:19rey...no fui r a la visión celestialG545
+- Rom_10:21día extendí mis manos a un pueblo rG544
+- Rom_15:31que sea librado de los r que están enG544
+- Tit_1:16siendo abominables y r, reprobadosG545
+- Tit_3:3nosotros también éramos...r, extraviadosG545

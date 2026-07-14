@@ -1,0 +1,1033 @@
+---
+tipo: concordancia
+palabra: COSA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# COSA
+
+- Gén_15:1después de estas c vino la palabra deH1697
+- Gén_18:14¿hay para Dios alguna c difícil? AlH1697
+- Gén_22:1después de...c, que probó Dios a AbrahamH1697
+- Gén_22:20aconteció después de estas c, que fueH1697
+- Gén_24:28hizo saber en casa de su madre estas cH1697
+- Gén_24:53c preciosas a su hermano y a su madreH4030
+- Gén_29:13Jacob...él contó a Labán todas estas cH1697
+- Gén_31:37pues que has buscado en todas mis cH3627
+- Gén_38:25varón cuyas son estas c estoy encintaH428
+- Gén_38:25mira ahora de quién son estas c, el sello
+- Gén_39:6y con él no se preocupaba de c algunaH3972
+- Gén_39:9y ninguna c me ha reseñado sino a tiH3972
+- Gén_39:23necesitaba atender el Jefe...c algunaH3972
+- Gén_40:1después de estas c, que el copero delH1697
+- Gén_41:32significa que la c es firme de parteH1697
+- Gén_44:7¿por que dice nuestro señor tales c?[[H1697]]
+- Gén_48:1después de estas c que dijeron a JoséH1697
+- Éxo_4:30habló Aarón acerca de todas las c queH1697
+- Éxo_6:29dí a Faraón...todas las c que yo te digoH1696
+- Éxo_7:2tú dirás todas las c que yo te mande, yH3605
+- Éxo_9:5mañana hará Jehová esta c en la tierraH1697
+- Éxo_10:2que cuentes...las c que yo hice en EgiptoH5953
+- Éxo_10:15cubrió...no quedó c verde en arboles niH3418
+- Éxo_12:9ninguna c comeréis de él cruda...en agua
+- Éxo_12:10ninguna c dejaréis...hasta la mañanaH3808
+- Éxo_12:20ninguna c leudada comeréis; en todasH3808
+- Éxo_16:14una c menuda, redonda, menuda comoH2636
+- Éxo_18:1oyó Jetro...todas las c que Dios habíaH3605
+- Éxo_18:8contó...todas las c que Jehová había hechoH3605
+- Éxo_20:11el mar, y todas las c que en ellos hayH3605
+- Éxo_20:17no codiciarás...c alguna de tu prójimoH3605
+- Éxo_21:11y si ninguna de estas tres c hiciereH3605
+- Éxo_22:9en toda clase de fraude...toda c perdidaH9
+- Éxo_24:7dijo: Haremos todas las c que Jehová haH3605
+- Éxo_24:8sangre del pacto...sobre todas estas cH1697
+- Éxo_28:38faltas cometidas en todas las c santasH6944
+- Éxo_29:33comerán aquellas c con las cuales se
+- Éxo_29:34y si sobrare...no se comerá...es c santaH6944
+- Éxo_29:37c que tocare el altar, será santificadaH3605
+- Éxo_30:29los consagrarás, y serán c santísimasH3605
+- Éxo_30:36molerás parte de él...será c santísimaH6944
+- Éxo_30:37incienso...será c sagrada para JehováH6944
+- Éxo_34:10porque será c tremenda la que yo haréH3372
+- Éxo_34:25no ofrecerás c leudada junto con laH2557
+- Éxo_35:1estas son las c que Jehová ha mandadoH1697
+- Éxo_35:10hará todas las c que Jehová ha mandadoH3605
+- Éxo_36:1harán todas las c que ha mandado JehováH3605
+- Éxo_38:22todas las c que Jehová mandó a MoisésH3605
+- Éxo_39:42en conformidad a todas las c que JehováH3605
+- Lev_2:3es c santísima de las ofrendas que seH6944
+- Lev_2:8traerás...ofrenda que se hará de estas cH428
+- Lev_2:10es c santísima de las ofrendas que seH6944
+- Lev_2:11de ninguna c leuda...ha de quemar ofrendaH7603
+- Lev_4:2, Lev_4:13, Lev_4:22, Lev_4:27c que no se han de hacer
+- Lev_5:2que hubiere tocado cualquier c inmundaH1697
+- Lev_5:4en cualquiera c que el hombre profiereH3605
+- Lev_5:4será culpable por cualquiera de estas cH428
+- Lev_5:5pecare en alguna de estas c, confesaráH428
+- Lev_5:13pecado que cometió en alguna de estas cH428
+- Lev_5:15y pecare por yerro en las c santas deH6944
+- Lev_5:16que hubiere defraudado de las c santasH6944
+- Lev_5:17hiciere alyuna de todas aquellas c queH3605
+- Lev_6:3aquellas c en que suele pecar el hombreH3605
+- Lev_6:7perdón...todas las c en que suele ofenderH3605
+- Lev_6:17es c santísima, como el sacrificio porH6944
+- Lev_6:18c que tocare en ellas será santificadaH3605
+- Lev_6:25será degollada la ofrenda...c santísimaH6944
+- Lev_6:29todo varón de...la comerá, es c santísimaH6944
+- Lev_7:1es la ley del sacrificio...es c muy santaH6944
+- Lev_7:6será comida en lugar santo...c muy santaH6944
+- Lev_7:19la carne que tocare alguna c inmunda, no
+- Lev_7:21la persona que tocare alguna c inmundaH3772
+- Lev_8:10ungió el tabernáculo y todas las c queH3605
+- Lev_8:28tomó aquellas c Moisés de las manos de
+- Lev_8:36hicieron todas las c que mandó JehováH1697
+- Lev_10:12comedla sin levadura...es c muy santaH6944
+- Lev_10:19pero a mí me han sucedido estas c, y siH428
+- Lev_11:10toda c viviente que está en las aguasH3605
+- Lev_11:24y por estas c seréis inmundos...tocareH428
+- Lev_11:32sea c de madera, vestido, piel, sacoH3605
+- Lev_12:4ninguna c santa tocará, ni vendrá alH6944
+- Lev_13:55lo raído en el derecho...de aquella c
+- Lev_13:57apareciere...en cualquiera c de cueroH3627
+- Lev_13:58o cualquiera c de cuero que lavaresH3627
+- Lev_13:59o de trama, o de cualquiera c de cueroH3627
+- Lev_14:11al que se ha de limpiar, con aquellas c
+- Lev_14:13es del sacerdote; es c muy sagradaH6944
+- Lev_14:23estas c al sacerdote, a la puerta del
+- Lev_15:4y toda c sobre que se sentare, immundaH3627
+- Lev_15:10que tocare cualquiera c que haya estadoH3605
+- Lev_15:27cualquiera que tocare esas c...inmundo
+- Lev_18:24en ninguna de estas c os amancillaréisH428
+- Lev_18:24en todas estas c se han corrompido lasH428
+- Lev_19:26no comeréis c alguna con sangre. No
+- Lev_20:17si...viere su desnudez...es c execrableH2617
+- Lev_20:23porque ellos hicieron todas estas c, yH428
+- Lev_21:22y de las c santificadas, podrá comerH6944
+- Lev_22:2que se abstengan de las c santas que losH6944
+- Lev_22:3que se acercare a las c sagradas que losH6944
+- Lev_22:4no comerá de las c sagradas hasta queH6944
+- Lev_22:4el que tocare cualquiera c de cadáveresH3605
+- Lev_22:6no comerá de las c sagradas antes queH6944
+- Lev_22:7después podrá comer las c sagradasH6944
+- Lev_22:10ningún extraño comerá c sagrada, elH6944
+- Lev_22:10y el jornalero, no comerán c sagradaH6944
+- Lev_22:12hija...no comerá de la ofrenda de las cH6944
+- Lev_22:14y el que por yerro comiere c sagradaH6944
+- Lev_22:14la dará al sacerdote con la c sagradaH6944
+- Lev_22:15no profanarán, pues, las c santas deH6944
+- Lev_22:16del pecado, comiendo las c santas deH6944
+- Lev_22:20ninguna c en...haya defecto of receréisH3605
+- Lev_23:20c sagrada a Jehová para el sacerdoteH6944
+- Lev_23:37sacrificio y libaciones, cada c en suH1697
+- Lev_24:9es c muy santa para él, de las ofrendas
+- Lev_26:18si aun con estas c no me oyereis, yoH428
+- Lev_26:23y si con estas c no fuereis corregidosH428
+- Lev_27:23dará tu precio,...c consagrada a JehováH6944
+- Lev_27:28ni se rescatará ninguna c consagradaH2764
+- Lev_27:28todo lo consagrado será c santísirnaH2764
+- Lev_27:30y el diezmo de...es c dedicada a JehováH6944
+- Lev_27:33que se dio en cambio serán c sagradasH6944
+- Núm_1:50y sobre todas las c que le pertenecenH3605
+- Núm_1:54; Núm_2:34conforme a todas las c que mandóH3605
+- Núm_4:15no tocarán c santa, no sea que mueranH6944
+- Núm_4:20no...para ver cuando cubran las c santasH6944
+- Núm_5:9toda ofrenda de todas las c santas queH6944
+- Núm_6:20será c santa del sacerdote, además delH6944
+- Núm_8:20; Núm_9:5conforme a todas las c que mandóH3605
+- Núm_14:39Moisés dijo estas c a...hijos de IsraelH1697
+- Núm_15:13hará estas c así, para ofrecer ofrendaH428
+- Núm_15:23todas las c que Jehová os ha mandadoH3605
+- Núm_16:26y no toquéis ningna c suya, para queH3605
+- Núm_16:28para que hiciese todas estas c, y queH4639
+- Núm_16:30la tierra...los tragare con todas sus cH3605
+- Núm_18:8las c consagradas de los hijos de lsraelH6944
+- Núm_18:9será tuyo de la ofrenda de las c santasH6944
+- Núm_18:9todo presente...será c muy santa para tiH6944
+- Núm_18:10en el santuario...c santa será para tiH6944
+- Núm_18:13primicias de todas las c de la tierraH3605
+- Núm_18:19las ofrendas elevadas de las c santasH6944
+- Núm_18:32no contaminaréis las c santas de losH6944
+- Núm_22:18traspasar...para hacer c chica ni grande
+- Núm_22:38mas ¿podré ahora hablar alguna c? LaH3972
+- Núm_23:3cualquiera c...me mostrare, te avisaréH1697
+- Núm_24:13hacer c buena ni mala de mi arbitrio
+- Núm_24:23¿quién vivirá cuando hiciere Dios...c?
+- Núm_29:39estas c ofreceréis a Jehová...fiestasH411
+- Núm_30:6pronunciare...c con que obligue su almaH3605
+- Núm_35:20y si por odio...echó sobre él alguna c
+- Núm_35:29c os serán por ordenanza de derechoH411
+- Deu_1:3conforme a todas las c que Jehová leH3605
+- Deu_1:30las c que hizo por vosotros en EgiptoH3605
+- Deu_4:9no te olvides de las c que tus ojos hanH1697
+- Deu_4:23imagen de ninguna c que Jehová tu DiosH3605
+- Deu_4:25si os...e hiciereis...imagen de cualquier cH3605
+- Deu_4:30angustia, y te alcanzaren todas estas cH1697
+- Deu_4:32se ha hecho c semejante a esta gran cH1697
+- Deu_5:8no harás para ti...ni imagen de c que está
+- Deu_5:21no codiciarás...ni c alguna de tu prójimoH3605
+- Deu_5:27oye todas las c que dijere Jehová...DiosH3605
+- Deu_7:26no traerás c abominable a tu casa, paraH2764
+- Deu_10:14de Jehová tu Dios...las c que hay en ellaH3605
+- Deu_10:21que ha hecho contigo estas c grandesH3372
+- Deu_12:11allí llevaréis...las c que yo os mandoH3605
+- Deu_12:26pero las c que hubieres consagrado, yH6944
+- Deu_12:31toda c abominable que Jehová aborreceH3605
+- Deu_13:11no vuelva a hacer...c semejante a estaH1697
+- Deu_13:14si pareciere verdad, c cierta, que talH1697
+- Deu_14:21ninguna c mortecina comeréis...la darásH3605
+- Deu_14:26o por cualquier c que tú deseares; yH3605
+- Deu_17:1cordero en el cual haya alguna c malaH3605
+- Deu_17:4la c pareciere de verdad cierta, que talH1697
+- Deu_17:5la mujer que hubiere hecho esta mala cH1697
+- Deu_17:8alguna c te fuere difícil en el juicioH1697
+- Deu_18:12porque es abominación...que hace estas cH428
+- Deu_22:3lo mismo harás con toda c de tu hermanoH9
+- Deu_23:9a campaña...te guardarás de toda c malaH1697
+- Deu_23:14para que él no vea en ti c inmunda, yH1697
+- Deu_23:19ni de c alguna de que se suele exigirH1697
+- Deu_24:1por haber hallado en ella...c indecenteH1697
+- Deu_24:5en ninguna c se le ocupará; libre estaráH1697
+- Deu_24:10entregares a tu prójimo...c prestada, noH4859
+- Deu_28:47gozo...por la abundancia de todas las cH3605
+- Deu_28:48desnudez, y con falta de todas las cH3605
+- Deu_29:26dioses...que ninguna c les habían dado
+- Deu_29:29c secretas pertenecen a Jehová...Dios
+- Deu_30:1hubieren venido sobre ti todas estas cH1697
+- Deu_32:47porque no os es c vana; es vuestra vidaH1697
+- Jos_1:7que seas prosperado en todas las c queH3605
+- Jos_1:16haremos todas las c que nos has mandadoH3605
+- Jos_1:17que obedecimos a Moisés en todas las cH3605
+- Jos_1:18no obedeciere...todas las c que le mandesH3605
+- Jos_2:23le contaron todas las c que les habíanH3605
+- Jos_4:10conforme a...c que Moisés había mandadoH1697
+- Jos_6:17será...anatema a Jehová, con todas las cH3605
+- Jos_6:18ni toméis alguna c del anatema, no seaH2764
+- Jos_9:1cuando oyeron estas c todos los reyes que
+- Jos_24:29después de estas c murió Josué hijo deH1697
+- Jue_7:14es otra c sino la espada de GedeónH369
+- Jue_13:4, Jue_13:7no bebas vino ni...ni comas c immundaH3605
+- Jue_13:13guardará de todas las c que yo le dijeH3605
+- Jue_13:14y no comerá c inmunda; guardará todo loH3605
+- Jue_13:23ni nos hubiera mostrado todas estas cH3605, [[H411]]
+- Jue_14:18¿qué c más dulce...qué c más fuerte que
+- Jue_18:7sin que nadie...perturbase en c algunaH1697
+- Jue_18:10lugar donde no hay falta de c algunaH1697
+- Jue_18:27llevando las c que había hecho Micaía
+- Jue_19:24no hagáis a este hombre c tan infameH1697
+- Jue_19:30jamás se ha hecho ni visto tal c, desde
+- 1Sa_2:23dijo: ¿Por qué hacéis c semejantes?[[H1697]]
+- 1Sa_3:11he aqui haré yo una c en Israel, que aH1697
+- 1Sa_3:12yo cumpliré...todas las c que he dichoH3605
+- 1Sa_9:21¿por qué...me has dicho c semejante?[[H1697]]
+- 1Sa_12:5no habéis hallado c alguna en mi manoH3972
+- 1Sa_12:16y mirad esta gran c que Jehová haráH1697
+- 1Sa_12:24cuán grandes c ha hecho por vosotrosH1431
+- 1Sa_14:12dijeron: Subid...os haremos saber una cH1697
+- 1Sa_17:39espada...Y David echó de sí aquellas c
+- 1Sa_18:26pareció bien la c a los ojos de DavidH1697
+- 1Sa_19:4porque ninguna c ha cometido contra ti
+- 1Sa_20:2que mi padre ninguna c hará, grande niH1697
+- 1Sa_20:39pero ninguna c entendió el muchachoH3972
+- 1Sa_21:2nadie sepa c alguna del asunto a que teH3972
+- 1Sa_22:15no culpe el rey de c...ninguna c sabeH1697
+- 1Sa_24:6Jehová me guarde de hacer tal c contraH1697
+- 1Sa_25:36ella no le declaró c alguna hasta el díaH1697
+- 1Sa_25:37a Nabal se...le refirió su mujer estas cH1697
+- 1Sa_26:25sin duda emprenderás tú c grandes, y
+- 1Sa_29:4¿con qué c volvería mejor a la gracia deH4100
+- 1Sa_29:6ninguna c mala he hallado en ti desde elH7451
+- 1Sa_30:19no les faltó c alguna...de todas las cH3605
+- 2Sa_3:13mas una c te pido: No me vengas a verH1697
+- 2Sa_3:35si...gustare yo pan, o cualquiera otra cH3605, [[H3972]]
+- 2Sa_11:11por vida tuya...que yo no haré tal cH1697
+- 2Sa_12:6porque hizo tal c, y no tuvo misericordiaH1697
+- 2Sa_13:2Amnón que será difícil hacerle c algunaH3972
+- 2Sa_14:13has pensado tú c semejante contra élH2063
+- 2Sa_14:19mano de Joab contigo en todas estas c?[[H2069]]
+- 2Sa_14:20para mudar el aspecto de las c Joab tuH1697
+- 2Sa_20:21c no es así: mas un hombre...Seba hijoH1697
+- 2Sa_23:5ordenado en todas las c, y será guardadoH3605
+- 2Sa_24:12tres c te ofrezco; tú escogerás una de
+- 1Re_2:26has sido afligido en todas las c enH3605
+- 1Re_3:13también te he dado las c que no pedisteH834
+- 1Re_8:9en el arca ninguna c había sino las dosH369
+- 1Re_8:59que él proteja la...cada c en su tiempoH1697
+- 1Re_9:4haciendo...las c que yo te he mandado, yH3605
+- 1Re_10:6verdad es lo que oí en mi tierra de tus cH1697
+- 1Re_11:37reinarás en todas las c que deseare tuH3605
+- 1Re_11:38si prestares oido a todas las c que teH3605
+- 1Re_14:13ha hallado en él alguna c buena delanteH1697
+- 1Re_15:5de ninguna c...se había apartado en todosH3605
+- 1Re_16:5las c que hizo, y su poderío, ¿no estáH1697
+- 1Re_16:31le fue ligera c andar en los pecados deH7043
+- 1Re_17:17después de estas c...cayó enfermo el hijoH1697
+- 1Re_18:36por mandato tuyo he hecho todas estas cH1697
+- 1Re_20:40ocupado en una y en otra c, el hombre
+- 1Re_21:1pasadas estas c, aconteció que Nabot deH1697
+- 1Re_22:13a una voz anuncian al rey c buenasH2896
+- 1Re_22:18ninguna c buena profetizará él...de míH2896
+- 1Re_22:53todas las c que había hecho su padreH3605
+- 2Re_2:10c difícil has pedido. Si me vieresH7185
+- 2Re_3:18esto es c ligera en los ojos de JehováH7043
+- 2Re_4:2tu sierva ninguna c tiene en casa, sinoH3605
+- 2Re_5:13si el profeta te mandara alguna gran cH1697
+- 2Re_5:16le instaba que aceptara alguna c, pero
+- 2Re_5:20no tomando de...las c que había traídoH834
+- 2Re_5:20correré yo...él y tomaré de él alguna cH3972
+- 2Re_8:6devolver todas las c que eran suyas, yH3605
+- 2Re_8:13¿qué es...para que haga tan grandes c?[[H1697]]
+- 2Re_14:3hizo...todas las c que había hecho JoásH3605
+- 2Re_15:3, 2Re_15:34conforme a todas las c que su padreH3605
+- 2Re_16:16hizo el...las c que el rey Acaz le mandóH3605
+- 2Re_17:9hicieron...c no rectas contra Jehová suH1697
+- 2Re_17:11e hicieron c...provocar a ira a JehováH1697
+- 2Re_18:3hizo...c que había hecho David su padreH3605
+- 2Re_18:12todas las c que Moisés...había mandadoH3605
+- 2Re_20:3y que he hecho las c que te agradanH2896
+- 2Re_20:10fácil c es que la sombra decline diezH7043
+- 2Re_20:13ninguna c...que Ezequías no les mostraseH1697
+- 2Re_21:3adoró a todo...y rindió culto a aquellas cH3605
+- 2Re_21:8hagan...todas las c que yo les he mandadoH3605
+- 2Re_23:17del varón de Dios que...profetizó estas cH1697
+- 2Re_23:32, 2Re_23:37; 2Re_24:9hizo lo malo...todas las c queH7451
+- 1Cr_9:31Matatías...tenía a su cargo las c queH4639
+- 1Cr_13:4dijo...la c parecía bien a todo el puebloH1697
+- 1Cr_16:37que ministrasen de...cada c en su díaH1697
+- 1Cr_17:20según todas las c que hemos oido conH3605
+- 1Cr_18:1después de estas c...David derrotó a losH3651
+- 1Cr_19:1después de estas c...murió Nahas rey deH3651
+- 1Cr_21:10tres c te propongo; escoge de ellas una
+- 1Cr_23:13Aarón fue...dedicado a las c más santasH6944
+- 1Cr_23:28la purificación de toda c santificadaH6944
+- 1Cr_25:5Hemán, vidente del rey en las c de DiosH1697
+- 1Cr_26:20, 1Cr_26:26los tesoros de...las c santificadasH6944
+- 1Cr_26:28las c que había consagrado el vidente
+- 1Cr_26:32las c de Dios y los negocios del reyH1697
+- 1Cr_28:12el plano de...Las c que tenía en menteH3605
+- 1Cr_28:12las tesorerías de las c santificadasH6944
+- 1Cr_28:14dio oro en peso para las c de oro, para
+- 1Cr_28:14y plata en peso para todas las c deH3605
+- 1Cr_28:19todas estas c...me fueron trazadas porH4399
+- 1Cr_29:2, 1Cr_29:5para las c de oro, plata para las cH2091, [[H3701]]
+- 1Cr_29:3las c que he preparado para la casa deH3605
+- 1Cr_29:11todas las c que están en los cielos y enH3605
+- 1Cr_29:14que pudiésemos ofrecer...c semejantes?[[H3605]]
+- 1Cr_29:19haga todas las c, y te edifique la casaH3605
+- 2Cr_5:1c que David su padre había dedicadoH6944
+- 2Cr_6:33y harás conforme a todas las c por lasH3605
+- 2Cr_7:17e hicieres...las c que yo te he mandadoH3605
+- 2Cr_8:13para que ofreciesen cada c en su día
+- 2Cr_8:14levitas en sus cargos...cada c en su día
+- 2Cr_9:5había oído en mi tierra acerca de tus cH1697
+- 2Cr_12:12y también en Judá las c fueron bienH1697
+- 2Cr_12:15las c de Roboam...¿no están escritas enH1697
+- 2Cr_18:7nunca me profetiza c buena, sino...malH2896
+- 2Cr_18:12los profetas a una voz anuncian al rey cH2896
+- 2Cr_19:3pero se han hallado en ti buenas c, porH1697
+- 2Cr_20:1pasadas estas c, aconteció que...de MoabH3651
+- 2Cr_20:35pasadas estas c, Josafat...amistad conH3651
+- 2Cr_21:3su padre les había dado...y c preciosasH4030
+- 2Cr_24:7gastado...las c consagradas de la casa deH6944
+- 2Cr_25:16y hablándole el profeta estas c, él le
+- 2Cr_26:4hizo...las c que había hecho Amasías suH3605
+- 2Cr_27:2; 2Cr_29:2las c que había hecho...su padreH3605
+- 2Cr_29:36se alegró...la c fue hecha rápidamenteH1697
+- 2Cr_30:26no había habido c semejante en Israel
+- 2Cr_31:1todas estas c...quebraron...AseraH2063
+- 2Cr_31:5abundancia los diezmos de todas las c
+- 2Cr_31:6de las c que habían prometido a...DiosH6944
+- 2Cr_31:12depositaron las...y las c consagradas
+- 2Cr_31:14la distribución...de las c santísimasH6944
+- 2Cr_31:18porque...se consagraban a las c santas
+- 2Cr_32:1después de estas c y...vino SenaqueribH1697
+- 2Cr_32:16otras c más hablaron sus siervos contra
+- 2Cr_33:8hagan todas las c que yo les he mandadoH3605
+- 2Cr_33:19estas c están escritas en...los videntes
+- 2Cr_35:20después de toas estas c, luego de haberH2063
+- Esd_1:6ayudaron con plata...y con c preciosasH4030
+- Esd_2:63no comiesen de las c más santas, hastaH6944
+- Esd_3:4día...conforme al rito, cada c en su díaH1697
+- Esd_7:1pasadas estas c, en el reinado de...rey deH1697
+- Esd_7:27que puso tal c en el corazón del rey
+- Esd_9:1acabadas estas c, los príncipes vinieronH428
+- Neh_2:4me dijo el rey ¿Qué c pides? EntoncesH4100
+- Neh_6:8no hay tal c como dices, sino que de tuH1697
+- Neh_6:14acuérdate, Dios mío...conforme a estas cH4639
+- Neh_7:65no comiesen de las c más santas, hastaH6944
+- Neh_9:6tú vivificas todas estas c, y...te adoran
+- Neh_9:21de ninguna c tuvieron necesidad; susH3808
+- Neh_10:33las c santificadas y los sacrificios de
+- Neh_12:47daba...a los porteros, cada c en su día
+- Neh_13:17¿qué mala c...hacéis, profanando así elH1697
+- Est_2:1pasadas estas c, sosegada ya la ira delH1697
+- Est_2:15ninguna c procuro sino lo que dijo HegaiH1697
+- Est_3:1después de estas c...Asuero engrandeció aH1697
+- Est_5:11c con que el rey le había engrandecido
+- Est_9:20y escribió Mardoqueo estas c, y envióH1697
+- Job_5:9el cual hace c grandes c inescrutables
+- Job_6:7las c que mi alma no quería tocar, sonH1992
+- Job_6:30no puede mi...discernir las c inicuas?[[H1942]]
+- Job_8:2¿hasta cuándo hablarás tales c...palabrasH428
+- Job_9:3no le podrá responder a una c entre mil
+- Job_9:10él hace c grandes c incomprensibles, y
+- Job_9:22una c resta que yo diga: Al perfecto y
+- Job_10:13estas c tienes guardadas en tu corazón
+- Job_12:9¿qué c de todas estas no entiende que
+- Job_13:1todas estas c han visto mis ojos, y oído
+- Job_13:20dos c no hagas conmigo; entonces no me
+- Job_15:14¿qué c es el hombre para que sea limpio
+- Job_16:2muchas veces he oído c como estasH428
+- Job_22:28determinarás...una c, y te será firmeH562
+- Job_23:13si él determina una c, ¿quién lo hará
+- Job_23:14de mí; y muchas c como estas hay en él
+- Job_26:14c son sólo los bordes de sus caminosH428
+- Job_33:29estas c hace Dios dos y tres veces conH3605
+- Job_35:2¿piensas que es c recta lo que has dicho
+- Job_37:5él hace...c que nosotros no entendemos
+- Job_39:8su pasto, y anda buscando toda c verdeH3387
+- Job_41:34menosprecia toda c alta; es rey sobre
+- Job_42:3c demasiado maravillosas para mí, que yoH6381
+- Job_42:10aumenté...las c que habían sido de JobH3605
+- Sal_2:1¿por qué...los pueblos piensan c vanas?[[H7385]]
+- Sal_15:5el que hace estas c, no resbalará jamás
+- Sal_24:4el que no ha elevado su alma a c vanas
+- Sal_27:4c he demandado a Jehová, ésta buscaré
+- Sal_31:18que hablan contra el justo c duras conH6277
+- Sal_41:8c pestilencial se ha apoderado de élH1697
+- Sal_42:4me acuerdo de estas c, y derramo mi alma
+- Sal_45:4y tu diestra te enseñará c terriblesH3372
+- Sal_50:21c hiciste, y yo he callado; pensabas
+- Sal_60:3has hecho ver a tu pueblo c duras; nos
+- Sal_65:5con tremendas c nos responderás tú enH3372
+- Sal_71:19has hecho grandes c; oh Dios, ¿quién
+- Sal_78:2hablaré c escondidas...tiempos antiguosH2420
+- Sal_87:3c gloriosas se han dicho de ti, ciudad
+- Sal_94:4¿hasta cuándo...hablarán c duras, y seH6277
+- Sal_101:3no pondré delante de...ojos c injustaH1697
+- Sal_106:22Cam, c formidables sobre el Mar RojoH3372
+- Sal_107:43¿quién es sabio y guardará estas c
+- Sal_118:23y es c maravillosa a nuestros ojos
+- Sal_119:91tu ordenación subsisten todas las c
+- Sal_119:128tus mandamientos sobre todas las c
+- Sal_126:2grandes c ha hecho Jehová con éstos
+- Sal_126:3grandes c ha hecho Jehová con nosotros
+- Sal_127:3son...c de estima el fruto del vientre
+- Sal_131:1ni anduve en...en c demasiado sublimesH6381
+- Sal_138:2has engrandecido tu...sobre todas las cH8034
+- Sal_139:16en tu libro estaban...todas aquellas c
+- Sal_141:4no...que se incline mi corazón a c malaH1697
+- Pro_3:21hijo mio, no se aparten estas c de tus
+- Pro_4:23sobre toda c guardada, guarda tu corazón
+- Pro_6:16seis c aborrece Jehová, y aun 7 abomina
+- Pro_8:6oíd, porque hablaré c excelentes, y abriréH5057
+- Pro_8:6oíd...y abriré mis labios para c rectasH4339
+- Pro_8:8no hay en ellas c perversa ni torcidaH369
+- Pro_15:28la boca de los impíos derrama malas cH7451
+- Pro_16:4todas las c ha hecho Jehová para él
+- Pro_20:10pesa falsa y...ambas c son abominación
+- Pro_20:12ojo que ve, ambas c...ha hecho Jehová
+- Pro_22:12trastorna las c de los prevaricadoresH1697
+- Pro_22:18es c deliciosa, si las guardares dentro
+- Pro_23:16cuando tus labios hablaren c rectasH4339
+- Pro_23:33ojos mirarán c extrañas, y tu corazonH8419
+- Pro_28:5buscan a Jehová entienden todas las c
+- Pro_30:7dos c te he demandado; no me las niegues
+- Pro_30:15tres c hay que nunca se sacian; aun la
+- Pro_30:18tres c me son ocultas; aun tampoco sé
+- Pro_30:21por tres c se alborota la tierra, y la
+- Pro_30:24cuatro c son de las más pequeñas de la
+- Pro_30:29tres c hay de hermoso andar, y la cuarta
+- Ecl_1:8todas las c son fatigosas más de lo queH1697
+- Ecl_2:10no negué a mis...ninguna c que desearanH3605
+- Ecl_2:24no hay c mejor...sino que coma y beba, yH369
+- Ecl_3:12no hay para ellos c mejor que alegrarse
+- Ecl_3:22no hay c mejor para el...que alegrarse enH369
+- Ecl_7:21apliques tu corazón a todas las c que seH1697
+- Ecl_7:23estas c probé con sabiduría, diciendoH2090
+- Ecl_7:27pesando las c una por una para hallar la
+- Ecl_8:1como el que sabe la declaración de las c?[[H1697]]
+- Ecl_8:3ni en c mala persistas; porque él haráH3605
+- Ecl_9:1he dado mi corazón a todas estas c, paraH2088
+- Ecl_11:5obra de Dios, el cual hace todas las cH3605
+- Ecl_11:9que sobre todas estas c te juzgará Dios
+- Ecl_12:14con toda c encubierta, sea buena o malaH5956
+- Isa_1:6pie...no hay en él c sana, sino herida
+- Isa_8:12no llaméis conspiración a todas las c
+- Isa_12:5ha hecho c magníficas; sea sabido estoH1348
+- Isa_30:10no...lo recto, decidnos c halagueñasH5229
+- Isa_33:15que cierra sus ojos para no ver c mala
+- Isa_38:16por todas estas c los hombres vivirán
+- Isa_39:2no hubo c...que Ezequías no les mostraseH5238
+- Isa_39:4ninguna c hay...que no les haya mostradoH3605
+- Isa_39:6llevado a Babilonia...ninguna c quedaráH3605
+- Isa_40:23a los que gobiernan...hace como c vana
+- Isa_40:26levantad en...mirad quién creó estas c
+- Isa_41:12seran como...c que no es, aquellos queH369
+- Isa_41:27yo soy...que he enseñado estas c a Sion
+- Isa_41:28y pregunté de estas c, y ningún...hubo
+- Isa_42:9las c primeras, y yo anuncio c nuevasH7223
+- Isa_42:16estas c les haré, y no los desampararéH1697
+- Isa_42:20ve muchas c y no advierte, que abre losH7227
+- Isa_43:9nos dé...que nos haga oir las c primeras?[[H7223]]
+- Isa_43:18no os acordéis de las c pasadas, niH7223
+- Isa_43:18ni traigáis a memoria las c antiguasH6931
+- Isa_44:21acuérdate de...c, oh Jacob, c Israel
+- Isa_45:11dice...Preguntadme de las c por venirH857
+- Isa_46:1esas c que vosotros solíais llevar son
+- Isa_46:9acordaos de las c pasadas desde losH7223
+- Isa_47:9estas dos c te vendrán de repente en un
+- Isa_48:5mi ídolo lo hizo, mis...mandaron estas c
+- Isa_48:6pues te he hecho oir c nuevas y ocultasH2319
+- Isa_48:14hay entre ellos que anuncie estas c?
+- Isa_51:19dos c te han acontecido: asolamiento
+- Isa_52:11salid...no toquéis c inmunda; salid de
+- Isa_64:3c terribles cuales nunca esperábamosH3372
+- Isa_64:11todas nuestras c preciosas...destruidasH4261
+- Isa_64:12¿te estarás quieto, oh...sobre estas c?
+- Isa_65:4y en sus ollas hay caldo de c inmundas
+- Isa_65:18os alegraréis...las c que yo he creado
+- Isa_66:2mi mano...hizo...c, y así todas estas c
+- Isa_66:8¿quién oyó c semejante?...vio tal c?
+- Jer_2:10ved si se ha hecho c semejante a esta
+- Jer_2:34sin embargo, en todas estas c dices
+- Jer_3:9sucedió que por juzgar ella c liviana su
+- Jer_5:19Dios...hizo con nosotros todas estas c?
+- Jer_5:25iniquidades han estorbado estas c, y
+- Jer_5:30c espantosa y fea es hecha en la tierraH8186
+- Jer_6:10palabra de Jehová les es c vergonzosa
+- Jer_7:31c que yo no les mandé, ni subió en mi
+- Jer_9:9¿no los he de castigar por estas c? dice
+- Jer_9:24y justicia...estas c quiero, dice Jehová
+- Jer_13:7cinto se había podrido; para ninguna cH3605
+- Jer_13:10este cinto que para ninguna c es buenoH3605
+- Jer_14:22esperamos...tú hiciste todas estas c
+- Jer_15:18¿serás para mí como c ilusoria, como
+- Jer_16:10cuando anuncies a...estas c, te diránH1697
+- Jer_17:9engañoso es el corazón más que...las c
+- Jer_18:13preguntad...quién ha oído c semejante
+- Jer_19:5c que no les mandé, ni hablé, ni me vino
+- Jer_20:5su trabajo y todas sus c preciosas; yH3366
+- Jer_26:10los príncipes de Judá oyeron estas cH1697
+- Jer_31:22creará una c nueva sobre la tierra; laH2319
+- Jer_33:3te enseñaré c grandes y ocultas que tú
+- Jer_35:8hemos obedecido a la voz...en todas las cH3605
+- Jer_35:10y hecho conforme a todas la c que nosH3605
+- Jer_35:18hicisteis conforme a todas las c queH3605
+- Jer_36:8hizo conforme a todas las c que le mandóH3605
+- Jer_38:14haré una pregunta; no me encubras...cH1697
+- Jer_42:20haznos saber todas las c que...dijereH3605
+- Jer_42:21ni a todas las c por las cuales me envió
+- Jer_44:4no hagáis esta c abominable...aborrezcoH1697
+- Jer_51:61llegues a...y veas y leas todas estas cH1697
+- Lam_1:7todas las c agradables que tuvo desdeH4262
+- Lam_1:10extendió su mano el enemigo a...sus cH4261
+- Lam_1:11dieron por la comida...sus c preciosasH4262
+- Eze_4:14nunca...comí c mortecina ni despedazada
+- Eze_5:9jamás haré c semejante, a causa de todas
+- Eze_7:14prepararán todas la c, y no habrá quienH3605
+- Eze_7:20por eso se lo convertí en c repugnante
+- Eze_8:12¿has visto las c que los ancianos de la
+- Eze_8:17¿es c liviana para la casa de Judá hacerH7043
+- Eze_11:5las c que suben a vuestro espíritu, yoH4609
+- Eze_11:25habla a los cautivos todas las c queH1697
+- Eze_14:22consolados...de todas las c que trajeH3605
+- Eze_15:3estaca para colgar en ella alguna c?[[H3627]]
+- Eze_16:16c semejante nunca había sucedido, ni
+- Eze_16:20¿eran poca c tus fornicacionesH4592
+- Eze_16:30habiendo hecho todas estas c, obras de
+- Eze_17:12¿no...entendido qué significan estas c?
+- Eze_17:15escapará el que estas c hizo? El que
+- Eze_17:18y ha hecho todas estas c, no escapará
+- Eze_18:10hijo ladrón...que haga alguna c de estas
+- Eze_20:40dones con todas vuestras c consagradasH6944
+- Eze_23:30c se harán contigo porque fornicaste
+- Eze_24:19qué significan todas estas c que haces?
+- Eze_24:24según todas las c que él hizo, haréisH3605
+- Eze_27:21Arabia...estas c fueron tus mercaderes
+- Eze_27:24estos...negociaban contigo en varias c
+- Eze_40:4pon tu corazón a...las c que te muestroH3605
+- Eze_44:8lo establecido acerca de mis c santasH6944
+- Eze_44:13no se acercarán a...de mis c santas, aH6944
+- Eze_44:13ni se acercarán a...de mis c santísimasH6944
+- Eze_44:17lino; no llevarán sobre ellos c de lana
+- Eze_44:18no se ceñirán c que los haga sudar
+- Eze_44:29c consagrada en Israel será de ellosH2764
+- Eze_44:31ninguna c mortecina...de aves...comeránH3605
+- Eze_48:14no venderán...es c consagrada a JehováH6944
+- Dan_2:10ningún rey...preguntó c semejante a
+- Dan_2:40y como el hierro...y rompe todas las c
+- Dan_7:8, Dan_7:20ojos...una boca que hablaba grandes cH7260
+- Dan_7:16hizo conocer la interpretación de las cH4406
+- Dan_11:38lo honrará con...y con c de gran precioH2530
+- Dan_11:43se apoderará...de todas las c preciosasH2530
+- Dan_12:7se acabe...todas estas c serán cumplidas
+- Dan_12:8y dije:¿cuál será el fin de estas c?
+- Ose_8:12ley, y fueron tenidas por c extraña
+- Joe_2:20subirá su pudrición...hizo grandes cH1431
+- Joe_2:21y gózate, porque Jehová hará grandes cH1431
+- Joe_3:5mis c preciosas y hermosas metisteis enH4261
+- Abd_1:6¡cómo fueron escudriñadas las c de Esaú!
+- Jon_3:7hombres y...ovejas, no gusten c algunaH3972
+- Sof_1:2destruiré...todas las c de sobre la faz
+- Hag_2:13un inmundo...tocare alguna c de estasH428
+- Hag_2:16antes que sucediesen estas c, venian al
+- Zac_8:16estas son las c que habéis de hacerH1697
+- Zac_8:17estas son c que aborrezco, dice Jehová
+- Mal_1:9podéis agradarle, si hacéis estas c?
+- Mal_2:5las cuales c yo le di para que me temiera
+- Mat_6:8Padre sabe de qué c tenéis necesidadG3739
+- Mat_6:32los gentiles buscan todas estas c; peroG5023
+- Mat_6:32sabe que tenéis necesidad de...estas cG5130
+- Mat_6:33mas buscad...estas c os serán añadidas
+- Mat_7:11vuestro Padre...dará buenas c a los queG18
+- Mat_7:12las c que queráis que los hombres haganG3956
+- Mat_8:33contaron todas las c, y lo que hablaG3956
+- Mat_9:18mientras él les decía estas c,vino un
+- Mat_9:33nunca se ha visto c semejante en Israel
+- Mat_11:4haced saber a Juan las c que ois y veisG3739
+- Mat_11:25escondiste estas c de los sabios y de
+- Mat_11:27todas las c me fueron entregadas por miG3956
+- Mat_12:35bueno, del buen tesoro...saca buenas cG18
+- Mat_12:35el...malo, del mal tesoro saca malas cG4190
+- Mat_13:3habló muchas c por parábolas, diciendoG4183
+- Mat_13:35en parábolas...declararé c escondidas
+- Mat_13:51les dijo: ¿Habéis entendido...estas c?[[G3956]]
+- Mat_13:52saca de su tesoro c nuevas y c viejasG2537
+- Mat_13:56¿de dónde...tiene éste todas estas c?
+- Mat_15:20estas c son...contaminan al hombre pero
+- Mat_16:23no pones la mira en las c de Dios, sinoG3588
+- Mat_17:11Elías viene...y restaurará todas las cG3956
+- Mat_18:19acerca de cualquiera c que pidieren, lesG4229
+- Mat_21:23¿con qué autoridad haces estas c?
+- Mat_21:24, Mat_21:27con qué autoridad hago estas c
+- Mat_21:42y es c maravillosa a nuestros ojos?
+- Mat_24:3¿cuándo serán estas c, y qué señal habrá
+- Mat_24:33cuando veáis todas estas c, conoced que
+- Mat_27:13¿no oyes cuántas c testifican contraG4214
+- Mat_27:54visto...y las c que habían sido hechasG1096
+- Mat_28:11de todas las c que habían acontecidoG1096
+- Mat_28:20enseñándoles que guarden todas las cG3956
+- Mar_2:12glorificaron...Nunca hemos visto tal c
+- Mar_3:8de Idumea...oyendo cuán grandes c hacíaG3745
+- Mar_4:2y les enseñaba...muchas c, y les decía enG4183
+- Mar_4:11están fuera, por parábolas todas las cG3956
+- Mar_4:19codicias de otras c, entran y ahogan laG3062
+- Mar_5:19cuéntales...grandes c el Señor ha hechoG3745
+- Mar_5:20cuán grandes c había hecho Jesús con élG3745
+- Mar_6:2y decían: ¿De dónde tiene éste estas c?[[G5023]]
+- Mar_6:34Jesús...comenzó a enseñarles muchas cG4183
+- Mar_7:4muchas c hay que tomaron para guardar
+- Mar_7:8los lavamientos...otras muchas c semejantesG3946
+- Mar_7:13y muchas c hacéis semejantes a estasG3946
+- Mar_8:33no pones la mira en las c de Dios, sinoG3588
+- Mar_9:12vendrá primero, y restaurará todas las cG3956
+- Mar_10:21una c te falta: anda, vende todo lo queG1520
+- Mar_10:27todas las c son posibles para DiosG3956
+- Mar_10:32comenzó a decir las c que le habían deG3195
+- Mar_11:11y habiendo mirado...todas las c, como yaG3956
+- Mar_11:28¿con qué autoridad haces estas c, yG5023
+- Mar_11:28te dio autoridad para hacer estas c?[[G5023]]
+- Mar_11:29, Mar_11:33con qué autoridad hago estas cG5023
+- Mar_12:11y es c maravillosa a nuestros ojos?
+- Mar_13:4¿cuándo serán cstas c? ¿Y qué señalG5023
+- Mar_13:4y qué señal habrá cuando todas estas cG5023
+- Mar_13:29así...cuando veáis que suceden estas cG5023
+- Mar_14:36Padre, todas las c son posibles para tiG3956
+- Mar_15:4¿nada respondes? Mira de cuántas c teG4214
+- Mar_16:18bebieren c mortífera, no les hará dañoG5100
+- Luc_1:1poner en orden la historia de las c queG4229
+- Luc_1:3haber investigado...las c desde su origenG3956
+- Luc_1:4conozcas bien la verdad de las c en lasG3056
+- Luc_1:49ha hecho grandes c el Poderoso; santo esG3167
+- Luc_1:65y en...Judea se divulgaron todas estas cG4487
+- Luc_2:19María guardaba...estas c, meditándolas enG4487
+- Luc_2:20alabando a Dios...las c que habían oidoG3956
+- Luc_2:51y su madre guardaba todas estas c en suG4487
+- Luc_4:23de tantas c que hemos oído que se hanG3745
+- Luc_4:28al oír estas c todos...se llenaron de ira
+- Luc_5:27después de estas c salió, y vio a un
+- Luc_6:9os preguntaré una c: ¿Es lícito en día de
+- Luc_7:18le dieron las nuevas de todas estas c
+- Luc_7:40le dijo: Simón, una c tengo que decirte
+- Luc_8:8hablando estas c, decía a gran voz: El
+- Luc_8:39cuán grandes c ha hecho Dios contigo
+- Luc_8:39cuán grandes c había hecho Jesús con él
+- Luc_9:7Herodes el tetrarca oyó de todas la c que
+- Luc_9:9¿quién...es éste, de quien oigo tales c?
+- Luc_9:22padezca muchas c, y sea desechado por
+- Luc_9:43maravillándose todos de todas las c que
+- Luc_10:1después de estas c, designó el Señor
+- Luc_10:21porque escondiste estas c de los sabios
+- Luc_10:22las c me fueron entregadas por mi Padre
+- Luc_10:25¿haciendo qué c heredaré la vida
+- Luc_10:41afanada y turbada estás con muchas c
+- Luc_10:42pero sólo una c es necesaria; y María
+- Luc_11:27mientras él decía estas c, una mujer
+- Luc_11:53diciéndoles él estas c, los escribas
+- Luc_11:53provocarle a que hablase de muchas c
+- Luc_12:30estas c buscan las gentes del mundo
+- Luc_12:30sabe que tenéis necesidad de estas c
+- Luc_12:31mas buscad...estas c os serán añadidas
+- Luc_12:48hizo c dignas de azotes, será azotado
+- Luc_13:17decir él estas c, se avergonzaban todos
+- Luc_13:17el pueblo se regocijaba por todas las c
+- Luc_14:6y no le podían replicar a estas c
+- Luc_14:21siervo, hizo saber estas c a su señor
+- Luc_15:31estás conmigo, y todas mis c son tuyas
+- Luc_16:14oían...todas estas c los fariseos, que
+- Luc_18:22aún te falta una c: vende todo lo que
+- Luc_18:31cumplirán todas las c escritas acerca
+- Luc_18:34ellos nada comprendieron de estas c, y
+- Luc_19:11oyendo ellos estas c, prosiguió Jesús
+- Luc_20:2dinos: ¿con qué autoridad haces estas c?
+- Luc_20:8os diré con qué autoridad hago estas c
+- Luc_21:6a estas c que veis, días vendrán en que
+- Luc_21:7¿y qué señal habrá cuando estas c estén
+- Luc_21:9es necesario que estas c acontezcan
+- Luc_21:12antes de todas estas c os echarán mano
+- Luc_21:22cumplan todas las c que están escritas
+- Luc_21:26expectación de las c que sobrevendrán
+- Luc_21:28estas c comiencen a suceder, erguíos y
+- Luc_21:31cuando veáis que suceden estas c, sabed
+- Luc_21:36por dignos de escapar de todas estas c
+- Luc_22:65decían otras muchas c injuriándole
+- Luc_23:8porque había oído muchas c acerca de él
+- Luc_23:31si en el árbol verde hacen estas c, ¿en
+- Luc_23:49mujeres...estaban lejos mirando estas c
+- Luc_24:9dieron nuevas de todas estas c a los once
+- Luc_24:10quienes dijeron estas c a los apóstoles
+- Luc_24:14hablando entre sí de todas aquellas c
+- Luc_24:18que no has sabido las c que en ella han
+- Luc_24:19les dijo: ¿Qué c? Y ellos le dijeron
+- Luc_24:26¿no era necesario...padeciera estas c
+- Luc_24:35contaban las c...les habían acontecido
+- Luc_24:36ellos aún hablaban de estas c, JesúsG5023
+- Luc_24:48y vosotros sois testigos de estas c
+- Jua_1:3todas las c por él fueron hechas, y sin
+- Jua_1:28c sucedieron en Betábara, al otro lado
+- Jua_1:50dije: Te vi...C mayores que estas verás
+- Jua_3:12os he dicho c terrenales, y no creéis
+- Jua_3:31el que...es terrenal, y c terrenales habla
+- Jua_3:35y todas las c ha entregado en su mano
+- Jua_4:25cuando él venga nos declarará...las c
+- Jua_4:45visto todas las c que había hecho en
+- Jua_5:1después de estas c había una fiesta deG5023
+- Jua_5:14más, para que no te venga alguna c peor
+- Jua_5:16porque hacía estas c en el día de reposo
+- Jua_5:20y le muestra todas las c que él hace
+- Jua_6:59estas c dijo en la sinagoga, enseñando
+- Jua_7:1después de estas c, andaba Jesús en
+- Jua_7:4si estas c haces, manifiéstate al mundo
+- Jua_7:32a la gente que murmuraba de él estas c
+- Jua_8:26muchas c tengo que decir y juzgar de
+- Jua_8:30hablando él estas c, muchos creyeron enG5023
+- Jua_12:16c no las entendieron sus discípulos al
+- Jua_12:16se acordaron de que estas c estaban
+- Jua_12:36c habló Jesús, y se fue y se ocultó de
+- Jua_13:3el Padre le había dado todas las c en las
+- Jua_13:17sabéis estas c, bienaventurados seréis
+- Jua_14:25he dicho estas c estando con vosotros
+- Jua_14:26os enseñará todas las c, y os recordará
+- Jua_15:11estas c os he hablado, para que mi gozo
+- Jua_15:15porque todas las c que oí de mi Padre
+- Jua_16:1c os he hablado, para que no tengáis
+- Jua_16:4he dicho estas c, para que cuando llegue
+- Jua_16:6porque os he dicho estas c, tristeza ha
+- Jua_16:12tengo muchas c que deciros, pero ahora
+- Jua_16:13os hará saber las c que habrán de venir
+- Jua_16:25estas c os he hablado en alegorías; la
+- Jua_16:30ahora entendemos que sabes todas las c
+- Jua_16:33estas c os he hablado para que en mí
+- Jua_17:1estas c habló Jesús, y levantando losG5023
+- Jua_17:7todas las c que me has dado, proceden de
+- Jua_18:1habiendo dicho Jesús estas c, salió conG5023
+- Jua_18:4sabiendo todas las c que le habían de
+- Jua_19:36c sucedieron para que se cumpliese la
+- Jua_20:18había visto...él le había dicho estas c
+- Jua_21:24testimonio de estas c...escribió estas c
+- Jua_21:25y hay...otras muchas c que hizo Jesús
+- Hec_1:1todas las c que Jesús comenzó a hacer
+- Hec_1:9habiendo dicho estas c...fue alzado, y le
+- Hec_2:44juntos, y tenían en común todas las c
+- Hec_3:21hasta...la restauración de todas las c
+- Hec_3:22a él oiréis en todas las c que os hable
+- Hec_4:25gentes, y los pueblos piensan c vanas?
+- Hec_4:32sino que tenían todas las c en común
+- Hec_5:11y sobre todos los que oyeron estas c
+- Hec_5:32nosotros somos testigos suyos de estas cG4487
+- Hec_7:50¿no hizo mi mano todas estas c?
+- Hec_7:54oyendo estas c, se enfurecían en sus
+- Hec_8:6escuchaba atentamente las c que decía
+- Hec_9:5dura c te es dar coces contra el aguijón
+- Hec_10:14ninguna c común o inmunda he comido
+- Hec_10:39somos testigos de todas las c que Jesús
+- Hec_11:8ninguna c común o inmunda entró jamásG3956
+- Hec_11:18oídas...c, callaron, y glorificaron a
+- Hec_11:22llegó la noticia de estas c a oídos de
+- Hec_13:29habiendo cumplido todas las c que de élG537
+- Hec_13:42les rogaron que...les hablasen de estas cG5023
+- Hec_14:18y diciendo estas c...lograron impedirG5023
+- Hec_14:27cuán grandes c había hecho Dios conG3745
+- Hec_15:4y refirieron todas las c que Dios había
+- Hec_15:28no imponeros...carga más que estas c
+- Hec_15:29cuales c si os guardareis, bien haréis
+- Hec_17:8alborotaron al pueblo...oyendo estas c
+- Hec_17:11escudriñando...ver si estas c eran así
+- Hec_17:20pues traes a nuestros oídos c extrañas
+- Hec_17:21en ninguna otra c se interesaban sino
+- Hec_17:24el Dios que hizo...las c que en él hay
+- Hec_17:25él es quien da...aliento y todas las c
+- Hec_18:1de estas c, Pablo salió de Atenas y fue
+- Hec_18:15porque yo no quiero ser juez de estas c
+- Hec_19:21pasadas estas c, Pablo se propuso en
+- Hec_19:28cuando oyeron estas c, se llenaron de
+- Hec_19:32gritaban una c, y otros otra; porque la
+- Hec_19:39si demandáis alguna otra c, en legítimaG4007
+- Hec_20:24pero de ninguna c hago caso, ni estimoG3056
+- Hec_20:30hombres que hablen c perversas para
+- Hec_20:36cuando hubo dicho estas c, se puso deG5023
+- Hec_21:19les contó...las c que Dios había hecho
+- Hec_21:34unos gritaban una c, y otros otra
+- Hec_23:8no...pero los fariseos afirman estas cG297
+- Hec_23:15como que queréis indagar alguna c más
+- Hec_23:20como que van a inquirir alguna c másG5100
+- Hec_24:2y muchas c son bien gobernadas en elG2735
+- Hec_24:8podrás informarte de todas estas c de
+- Hec_24:13ni...probar las c de que ahora me acusan
+- Hec_24:14creyendo todas las c que en la ley y
+- Hec_24:20si hallaron en mí alguna c mal hechaG92
+- Hec_24:22oídas estas c, estando bien informado
+- Hec_25:9y allá ser juzgado de estas c delante de
+- Hec_25:11o c alguna digna de muerte he hecho, no
+- Hec_25:11pero si nada hay de las c de que éstos
+- Hec_25:20ir a...y allá ser juzgado de estas cG5130
+- Hec_25:25ninguna c digna de muerte ha hecho, y
+- Hec_25:26como no tengo c cierta que escribir a
+- Hec_26:2defenderme hoy...de todas las c de que
+- Hec_26:8¿se juzga...c increíble que Dios resucite
+- Hec_26:9muchas c contra el nombre de Jesús de
+- Hec_26:14dura c te es...coces contra el aguijónG4642
+- Hec_26:16y testigo de las c que has visto, y de
+- Hec_26:22nada fuera de las c que los profetas
+- Hec_26:24diciendo él estas c en su defensa, FestoG5023
+- Hec_26:26el rey sabe estas c, delante de quien
+- Hec_26:30había dicho estas c, se levantó el reyG5023
+- Hec_26:31ninguna c digna de muerte ni...ha hechoG3762
+- Hec_27:44parte en tablas, parte en c de la nave
+- Hec_28:10nos cargaron de las c necesarias
+- Rom_1:20c invisibles de él, su eterno poder y
+- Rom_1:20entendidas por medio de las c hechas
+- Rom_1:28los entregó...a hacer c que no convienen
+- Rom_1:32los que practican tales c son dignos de
+- Rom_2:2juicio...contra los que practican tales c
+- Rom_4:17llama las c que no son, como si fuesen
+- Rom_6:21c de las cuales ahora os avergonzáis?
+- Rom_8:5en las c de la carne...las c del Espíritu
+- Rom_8:28todas las c les ayudan a bien, esto es
+- Rom_8:32¿cómo no nos dará...con él todas las c?
+- Rom_8:37todas estas c somos más que vencedores
+- Rom_8:39ninguna otra c creada nos podrá separarG2937
+- Rom_9:5el cual es Dios sobre todas las c, benditoG3956
+- Rom_10:5el hombre que haga estas c, vivirá por
+- Rom_11:36y por él, y para él, son todas las c
+- Rom_14:20todas las c a la verdad son limpias
+- Rom_15:4las c que se escribieron antes, para
+- Rom_16:2y que la ayudéis en cualquier c en queG302
+- 1Co_1:5en todas las c fuisteis enriquecidos
+- 1Co_1:10que habléis todos una misma c, y que no
+- 1Co_2:2no saber entre vosotros c alguna sino a
+- 1Co_2:9c que ojo no vio, no oído oyó, ni han
+- 1Co_2:11¿quién de los hombres sabe las c del
+- 1Co_2:11nadie conoció las c de Dios, sino el
+- 1Co_2:14el hombre natural no percibe las c que
+- 1Co_2:15el espiritual juzga todas las c; pero
+- 1Co_3:8que planta y el que riega son una misma c
+- 1Co_5:3como...he juzgado al que tal c ha hecho
+- 1Co_6:2¿sois indignos de juzgar c muy pequeñas?[[G1646]]
+- 1Co_6:3juzgar...¿Cuánto más las c de esta vida?
+- 1Co_6:4si...tenéis juicios sobre c de esta vida
+- 1Co_6:12(2)todas las c me son lícitas, mas no
+- 1Co_7:1cuanto a las c de que me escribisteis
+- 1Co_7:32, 1Co_7:34tiene cuidado de las c del Señor
+- 1Co_7:33-34tiene cuidado de las c del mundo, de
+- 1Co_8:6un Dios...del cual proceden todas las c
+- 1Co_8:6Señor...por medio del cual son todas las c
+- 1Co_9:11¿es gran c si segáremos de vosotros lo
+- 1Co_9:13que trabajan en las c sagradas, comen
+- 1Co_10:6, 1Co_10:11estas c sucedieron como ejemplos
+- 1Co_10:6para que no codiciemos c malas, como ellos
+- 1Co_10:31o hacéis otra c, hacedlo todo para laG5100
+- 1Co_10:33yo en todas las c agrado a todos, no
+- 1Co_11:34las demás c las pondré en orden cuando
+- 1Co_12:6Dios que hace todas las c en todos, es
+- 1Co_12:11estas c las hace...el mismo Espíritu
+- 1Co_14:7las c inanimadas que producen sonidos
+- 1Co_15:27todas las c las sujetó debajo de sus
+- 1Co_15:27cuando dice que todas las c han sido
+- 1Co_15:27exceptúa...que sujetó a él todas las c
+- 1Co_15:28luego que todas las c le estén sujetas
+- 1Co_15:28sujetará al que le sujetó...todas las c
+- 1Co_16:14todas vuestras c sean hechas con amor
+- 2Co_1:13porque no os escribimos otras c de
+- 2Co_2:16y para estas c, ¿quién es suficiente?
+- 2Co_4:15estas c padecemos por amor a vosotros
+- 2Co_4:18no mirando nosotros las c que se ven
+- 2Co_4:18pues las c que se ven son temporales
+- 2Co_5:17las c viejas pasaron; he aquí todas son
+- 2Co_8:21procurando hacer las c honradamente, no
+- 2Co_8:22comprobado repetidas veces en muchas c
+- 2Co_9:8teniendo...en todas las c...lo suficiente
+- 2Co_10:7miráis las c según la apariencia
+- 2Co_11:28y además de otras c, lo que sobre mí
+- 2Co_13:7oramos a Dios que ninguna c mala hagáis
+- Gál_2:18las c que destruí...vuelvo a edificar
+- Gál_3:4¿tantas c habéis padecido en vano? si es
+- Gál_3:10que no permaneciere en...las c escritas
+- Gál_3:12el que hiciere estas c vivirá por ellasG846
+- Gál_5:21orgías, y c semejantes a estas; acercaG5125
+- Gál_5:21los que practican tales c no heredarán el
+- Gál_5:23templanza; contra tales c no hay leyG5108
+- Gál_6:6haga partícipe de toda c buena al que lo
+- Efe_1:10de reunir toda las c en Cristo, en la
+- Efe_1:11que hace todas las c según el designio
+- Efe_1:22sometió todas las c bajo sus pies, y lo
+- Efe_1:22lo dio por cabeza sobre todas las c a la
+- Efe_3:9misterio...en Dios, que creo todas las c
+- Efe_3:20todas las c mucho mas abundantemente de
+- Efe_5:6por estas c viene la ira de Dios sobre los
+- Efe_5:13mas todas las c...son hechas manifiestas
+- Efe_5:27que no tuviese mancha...ni c semejanteG5108
+- Flp_1:12sepais...que las c que me han sucedido
+- Flp_1:23de ambas c estoy puesto en estrecho
+- Flp_2:2el mismo amor...sintiendo una misma cG5426
+- Flp_2:6no estimo el ser igual a Dios como c a
+- Flp_3:1mí no me es molesto el escribiros las...c
+- Flp_3:7cuantas c eran para mí ganancia, las he
+- Flp_3:8estimo todas las c como pérdida por la
+- Flp_3:13una c hago: olvidando...lo que queda atrásG1520
+- Flp_3:15si otra c sentís, esto...revelará DiosG2088
+- Flp_3:16que hemos llegado...sintamos una misma c
+- Flp_3:21puede...sujetar a sí mismo todas las c
+- Col_1:16en él fueron creadas todas las c
+- Col_1:17él es antes de todas las c, y todas las c
+- Col_1:20por medio de él reconciliar...todas las c
+- Col_2:22c que todas se destruyen con el uso?[[G3739]]
+- Col_2:23c tienen a la verdad cierta reputación de
+- Col_3:1buscad las c de arriba, donde está Cristo
+- Col_3:2poned la mira en las c de arriba, no en
+- Col_3:6c por las cuales la ira de Dios vieneG3739
+- Col_3:8ahora dejad...todas estas c: ira, enojoG3956
+- Col_3:14y sobre todas estas c vestíos de amor
+- 1Ts_2:14las mismas c que ellas padecieron
+- 1Ti_1:6de las cuales c desviándose algunosG3739
+- 1Ti_4:15ocúpate en estas c. Permanece en ellas
+- 1Ti_5:7manda también estas c, para que sean
+- 1Ti_5:21que guardes estas c sin prejuicios, no
+- 1Ti_6:3si alguno enseña otra c, y no se conforma
+- 1Ti_6:11tu, oh hombre de Dios, huye de estas c
+- 1Ti_6:13de Dios, que da vida a todas las c, y
+- 1Ti_6:17en el Dios vivo, que nos da todas las c
+- 1Ti_6:20evitando las...pláticas sobre c vanas
+- 2Ti_2:21si alguno se limpia de estas c, seráG5130
+- Tit_1:15todas las c son puras para los puros
+- Tit_3:8estas c quiero que insistas con firmeza
+- Tit_3:8estas c son buenas y útiles a los hombres
+- Heb_1:3sustenta todas las c con la palabra de
+- Heb_2:1atendamos a las c que hemos oído, no sea
+- Heb_2:8cuanto le sujetó todas las c, nada dejó
+- Heb_2:8no vemos que todas las c le sean sujetas
+- Heb_2:10a aquel por cuya causa son todas las c
+- Heb_2:10y por quien todas las c subsisten, que
+- Heb_3:4pero el que hizo todas las c es Dios
+- Heb_4:13no hay c creada que no sea manifiesta enG2937
+- Heb_4:13todas las c están desnudas y abiertas a
+- Heb_6:9estamos persuadidos de c mejores, y que
+- Heb_6:18que por dos c...tengamos un...consuelo los
+- Heb_8:5a lo que es figura...de las c celestiales
+- Heb_8:5haz todas las c conforme al modelo que se
+- Heb_9:5de las cuales c no se puede ahora hablar
+- Heb_9:6y así dispuestas estas c, en la primera
+- Heb_9:10impuestas...el tiempo de reformar las c
+- Heb_9:23las figuras de las c celestiales fuesen
+- Heb_9:23las c celestiales mismas, con mejores
+- Heb_10:1la sombra...no la imagen misma de las c
+- Heb_10:8las cuales c se ofrecen según la leyG3748
+- Heb_10:31horrenda c es caer en manos del Dios
+- Heb_11:7fue advertido...de c que aún no se veían
+- Heb_11:20bendijo Isaac...respecto a c venideras
+- Heb_11:40proveyendo Dios alguna c mejor para
+- Heb_12:27la remoción de las c movibles...c hechas
+- Heb_13:9buena c es afirmar el corazón con la
+- Stg_1:4y cabales, sin que os falte c algunaG3367
+- Stg_1:7no piense el...recibirá c alguna del Señor
+- Stg_2:16no les dais las c que son necesarias
+- Stg_3:5la lengua es un...se jacta de grandes c
+- 1Pe_1:12las c que ahora os son anunciadas porG846
+- 1Pe_1:12c en las cuales anhelan mirar...ángeles
+- 1Pe_1:18no con c corruptibles, como oro o plata
+- 1Pe_3:14mas si alguna c padecéis por causa de la
+- 1Pe_4:4les parece c extraña que...no corráis con
+- 1Pe_4:7mas el fin de tdas las c se acerca; sed
+- 1Pe_4:12como si alguna c extraña os aconteciese
+- 2Pe_1:3como todas las c que pertenecen a la
+- 2Pe_1:8si estas c etán en vosotros, y abundan
+- 2Pe_1:9pero el que no tiene estas c...es ciego
+- 2Pe_1:10porque haciendo estas c, no caeréis jamás
+- 2Pe_1:12no dejaré de recordaros siempre estas c
+- 2Pe_1:15podáis en todo...tener memoria de estas c
+- 2Pe_2:12hablando mal de c que no entienden, como
+- 2Pe_3:4las c permanecen...como desde el principio
+- 2Pe_3:11que todas estas c han de ser deshechas
+- 2Pe_3:14estando en espera de estas c, procurad
+- 2Pe_3:16hablando en ellas de estas c; entre los
+- 1Jn_1:4estas c os escribimos, para que...gozo
+- 1Jn_2:1estas c os escribo para que no pequéis
+- 1Jn_2:15no améis...las c que están en el mundo
+- 1Jn_2:20vosotros tenéis...y conocéis todas las c
+- 1Jn_2:27la unción misma os enseña todas las c
+- 1Jn_3:20mayor...es Dios, y él sabe todas las c
+- 1Jn_3:22c que pidiéremos la recibiremos de élG3739
+- 1Jn_3:22y hacernos las c que son agradables
+- 1Jn_5:13estas c os he escrito a vosotros que
+- 1Jn_5:14que si pedimos alguna c conforme a su
+- 1Jn_5:15él nos oye en cualquiera c que pidamosG3739
+- 2Jn_1:12tengo muchas c que escribiros, pero
+- 3Jn_1:2deseo que tú seas prosperado en...las c
+- 3Jn_1:10no contento con estas c, no recibe a losG5125
+- 3Jn_1:13tenía muchas c que escribirte, pero no
+- Jud_1:10pero éstos blasfeman de cuantas c no
+- Jud_1:15las c duras que los pecadores impíos han
+- Jud_1:16cuya boca habla c infladas, adulando a las
+- Rev_1:1para manifestar a sus siervos las c que
+- Rev_1:2testimonio...de todas las c que ha visto
+- Rev_1:3y guardan las c en ella escritas; porque
+- Rev_1:19escribe las c que has visto, y las que
+- Rev_2:14, Rev_2:20pero tengo unas pocas c contra ti
+- Rev_2:14, Rev_2:20a comer c sacrificadas a los ídolos
+- Rev_3:2afirma las otras c que están para morir
+- Rev_3:17de ninguna c tengo necesidad; y no sabesG3762
+- Rev_4:1te mostraré las c que sucederán después
+- Rev_4:11porque tú creaste todas las c, y por tu
+- Rev_5:13todas las c que en ellos hay, oí decir
+- Rev_9:4mandó que no dañasen...a c verde alguna
+- Rev_10:4sella las c que los siete truenos han
+- Rev_10:6que creó el cielo y las c que están en
+- Rev_10:6y la tierra y las c...el mar y las c
+- Rev_13:5se le dio boca que hablaba grandes c y
+- Rev_15:5después de estas c miré, y he aquí fue
+- Rev_16:5el Santo, porque has juzgado estas c
+- Rev_18:14todas las c exquisitas...te han faltado
+- Rev_18:15los mercaderes de estas c...se pararán
+- Rev_20:12fueron juzgados...por las c...escritas en
+- Rev_21:4ni dolor; porque las primeras c pasaron
+- Rev_21:5he aquí, yo hago nuevas todas las c
+- Rev_21:7el que venciere heredará todas las c
+- Rev_21:27no entrará en ella ninguna c inmunda
+- Rev_22:6para mostrar a...las c que deben suceder
+- Rev_22:8yo Juan soy el que oyó y vio estas c
+- Rev_22:8a los pies del...que me mostraba estas c
+- Rev_22:16ángel para daros testimonio de estas c
+- Rev_22:18alguno añadiere a estas c, Dios traerá
+- Rev_22:19las c que están escritas en este libro
+- Rev_22:20el que da testimonio de estas c dice

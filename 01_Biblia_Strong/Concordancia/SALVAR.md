@@ -1,0 +1,274 @@
+---
+tipo: concordancia
+palabra: SALVAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SALVAR
+
+- Gén_19:20dejadme escapar...y salvaré mi vidaH2421
+- Éxo_14:30así salvó Jehová aquel día a IsraelH3467
+- Núm_10:9y seréis salvos de vuestros enemigosH3467
+- Deu_4:42huyendo a...ciudades salvase su vidaH2425
+- Deu_20:4vuestro Dios va con vosotros...salvarosH3467
+- Deu_28:29oprimido y...y no habrá quien te salveH3467
+- Deu_33:29pueblo salvo por Jehová, escudo de tuH3467
+- Jos_2:13salvaréis la vida a mi padre y a miH2431
+- Jos_6:25Josué salvó la vida a Rahab la rameraH2431
+- Jos_22:22si fue...prevaricación...no nos salvesH3467
+- Jue_3:31Samgar hijo...también salvó a IsraelH3467
+- Jue_6:14y salvarás a Israel de...los madianitasH3467
+- Jue_6:15ah, señor...¿con qué salvaré yo a Israel?[[H3467]]
+- Jue_6:36si has de salvar a Israel por mi manoH3467
+- Jue_6:37entenderé que salvarás a Israel por miH3467
+- Jue_7:2Israel se alabe...Mi mano me ha salvadoH3467
+- Jue_7:7con estos 300 hombres que...os salvaréH3467
+- Jue_13:5comenzará a salvar a Israel de mano deH3467
+- 1Sa_4:3el arca...entre nosotros nos salve deH3467
+- 1Sa_9:16y salvará a mi pueblo de...los filisteosH3467
+- 1Sa_10:27dijeron: ¿Cómo nos ha de salvar éste?[[H3467]]
+- 1Sa_14:6pues no es difícil para Jehová salvar conH3467
+- 1Sa_14:23así salvó Jehová a Israel aquel díaH3467
+- 1Sa_14:39porque vive Jehová que salva a IsraelH3467
+- 1Sa_17:47Jehová no salva con espada y con lanzaH3467
+- 1Sa_19:11su mujer avisó a David...Si no salvas tuH4422
+- 2Sa_19:9ha salvado de mano de los filisteosH5337
+- 2Sa_22:4invocaré a...y seré salvo de mis enemigosH3467
+- 2Sa_22:28tú salvas al pueblo afligido, mas tusH3467
+- 2Sa_22:42clamaron, y no hubo quien los salvaseH3467
+- 2Sa_22:51él salva gloriosamente a su rey, y usaH3444
+- 1Re_19:3levantó y se fue para salvar su vida
+- 1Re_20:31a ver si por ventura te salva la vidaH2421
+- 2Re_6:26mujer...y dijo: Salva, rey señor míoH3467
+- 2Re_6:27dijo: Si no te salva Jehová, ¿de dóndeH3467
+- 2Re_6:27te puedo salvar yo? ¿Del granero, o delH3467
+- 2Re_7:7así...habían huido para salvar sus vidas
+- 2Re_14:27los salvó por mano de Jeroboam hijo deH3467
+- 2Re_19:19oh Jehová Dios...sálvanos, te ruego, deH3467
+- 2Re_19:31saldrá de...de Sion los que se salvenH6413
+- 2Re_19:34yo ampararé esta ciudad para salvarlaH3467
+- 1Cr_16:35y decid: Sálvanos, oh...recógenosH3467
+- 2Cr_12:7antes los salvaré en breve, y no seH6413
+- 2Cr_20:9clamaremos a ti, y...nos oirás y salvarásH3467
+- 2Cr_32:14¿qué dios...pudiese salvar a su puebloH5337
+- 2Cr_32:22así salvó Jehová a Ezequías y a losH3467
+- Neh_6:11entraría al templo para salvarse laH2425
+- Neh_9:27los salvasen de mano de sus enemigosH3467
+- Job_5:20en el hambre te salvará de la muerteH6299
+- Job_20:20ni salvará nada de lo que codiciabaH4422
+- Job_22:29dirás...Dios salvará al humilde de ojosH3467
+- Job_40:14confesaré...podrá salvarte tu diestraH3467
+- Sal_3:7levántate, Jehová; sálvame, Dios míoH3467
+- Sal_6:4oh Jehová, libra mi alma; sálvame por tuH3467
+- Sal_7:1sálvame de todos los que me persiguen, yH3467
+- Sal_7:10mi escudo está en Dios, que salva a losH3467
+- Sal_12:1salva, oh Jehová, porque se acabaron losH3467
+- Sal_17:7salvas a los que se refugian a tu diestraH3467
+- Sal_18:3invocaré a...y seré salvo de mis enemigosH3467
+- Sal_18:27porque tú salvarás al pueblo afligidoH3467
+- Sal_18:41clamaron, y no hubo quien salvase; aunH3467
+- Sal_20:6conozco que Jehová salva a su ungidoH3467
+- Sal_20:9salva, Jehová; que el Rey nos oiga en elH3467
+- Sal_22:8sálvele, puesto que en él se complacíaH5337
+- Sal_22:21sálvame de la boca del león, y líbrameH3467
+- Sal_28:9salva a tu pueblo, y bendice a...heredadH3467
+- Sal_31:2sé tu mi roca...fortaleza para salvarmeH3467
+- Sal_31:16tu siervo: sálvame por tu misericordiaH3467
+- Sal_33:16el rey no se salva por la multitud delH3467
+- Sal_33:17vano para salvarse es el caballo; laH4422
+- Sal_34:18y salva a los contritos de espírituH3467
+- Sal_37:40los libertará de los impíos...salvaráH3467
+- Sal_44:6ni mi espada me salvaráH3467
+- Sal_54:1oh Dios, sálvame por tu nombre, y conH3467
+- Sal_55:16mí a Dios clamaré; y Jehová me salvaráH3467
+- Sal_57:3y me salvará de la infamia del que meH3467
+- Sal_59:2líbrame...sálvame de hombres sanguinariosH3467
+- Sal_60:5se libren...salva con tu diestra, y óyemeH3467
+- Sal_68:20Dios, nuestro Dios ha de salvarnos, yH4190
+- Sal_69:1sálvame, oh Dios, porque las aguas hanH3467
+- Sal_69:35Dios salvará a Sion, y reedificará lasH3467
+- Sal_71:2socórreme y...inclina tu oído y sálvameH3467
+- Sal_71:3tú has dado mandamiento para salvarmeH3467
+- Sal_72:4salvará a los hijos del menesteroso, yH3467
+- Sal_72:13tendrá...salvará la vida de los pobresH3467
+- Sal_76:9salvar a todos los mansos de la tierraH3467
+- Sal_80:2despierta tu poder...y ven a salvarnosH3444
+- Sal_80:3, Sal_80:7, Sal_80:19haz resplandecer...seremos salvosH3467
+- Sal_86:2salva tú...a tu siervo que en ti confíaH3467
+- Sal_98:1diestra lo ha salvado, y su santo brazoH3467
+- Sal_106:8los salvó por amor de su nombre, paraH3467
+- Sal_106:10los salvó de mano del enemigo, y losH3467
+- Sal_106:47sálvanos, Jehová...recógenos de entreH3467
+- Sal_108:6salva con tu diestra y respóndemeH3467
+- Sal_109:26sálvame conforme a tu misericordiaH3467
+- Sal_116:6guarda...estaba yo postrado, y me salvóH3467
+- Sal_118:25oh Jehová, sálvanos ahora, te ruegoH3427
+- Sal_119:94tuyo soy yo, sálvame, porque he buscadoH3467
+- Sal_119:117sosténme, y seré salvo...regocijaréH3467
+- Sal_119:146sálvame, y guardaré tus testimoniosH3467
+- Sal_138:7contra la ira...me salvará tu diestraH3467
+- Sal_145:19oirá...clamor de ellos, y los salvaráH3467
+- Pro_20:22espera a Jehová, y él te salvaráH3467
+- Pro_24:11salva a los que están en peligro de
+- Pro_28:18el que en integridad camina será salvoH3467
+- Isa_25:9Dios, le hemos esperado, y...salvaráH3467
+- Isa_30:15en descanso y en reposo seréis salvosH3467
+- Isa_31:5amparará Jehová...preservando y salvandoH4422
+- Isa_33:22porque Jehová es...él mismo nos salvaráH3467
+- Isa_35:4que vuestro Dios...vendrá, y os salvaráH3467
+- Isa_37:32y del monte de Sion los que se salvenH6413
+- Isa_37:35ampararé a esta ciudad para salvarlaH3467
+- Isa_38:20Jehová me salvará; por tanto cantaremosH3467
+- Isa_43:11yo...y fuera de mí no hay quien salveH3467
+- Isa_43:12yo anuncié, y salvé, e hice oír, y noH3467
+- Isa_45:15encubres, Dios de Israel, que salvasH3467
+- Isa_45:17salvo en Jehová con salvación eternaH3467
+- Isa_45:20los que ruegan a un dios que no salvaH3467
+- Isa_45:22mirad a mí, y sed salvos, todos losH3467
+- Isa_47:14no salvarán sus vidas del poder de laH5337
+- Isa_47:15cada uno irá...no habrá quién te salveH3467
+- Isa_49:25lo defenderé, y yo salvaré a tus hijosH3467
+- Isa_50:8cercano está de mí el que me salvaH6663
+- Isa_59:1no se ha acortado la mano...para salvarH3467
+- Isa_59:16y lo salvó su brazo, y le afirmó suH3467
+- Isa_63:1hablo en justicia, grande para salvarH3467
+- Isa_63:5me salvó mi brazo, y me sostuvo mi iraH3467
+- Isa_63:9y el ángel de su faz los salvó; en suH3467
+- Isa_64:5los pecados...¿podremos acaso ser salvos?[[H3467]]
+- Jer_4:14lava tu corazón...para que seas salvaH3467
+- Jer_8:20siega...y nosotros no hemos sido salvosH3467
+- Jer_11:12clamarán a los dioses...podrán salvarH3467
+- Jer_17:14sálvame, y seré salvo; porque tú eresH3467
+- Jer_23:6en sus días serás salvo Judá, e IsraelH3467
+- Jer_30:10soy el que te salvo de lejos a ti y aH3467
+- Jer_30:11yo estoy contigo para salvarte, diceH3467
+- Jer_31:7y decid: Oh Jehová, salva a tu puebloH3467
+- Jer_33:16Judá será salvo, y Jerusalén habitaráH3467
+- Jer_42:11estoy yo para salvaros y libraros deH3467
+- Jer_46:27porque he aquí yo te salvaré de lejosH3467
+- Jer_48:6salvad vuestra vida, y sed como retamaH4422
+- Jer_51:45salvad cada uno su vida del ardor de laH4422
+- Lam_4:17aguardamos a una...que no puede salvarH3467
+- Eze_34:22yo salvaré a mis ovejas, y nunca másH3467
+- Eze_37:23y los salvaré de todas sus rebelionesH3467
+- Eze_38:8la tierra salvada de la espada, recogida
+- Dan_6:27él salva y libra, y hace señales yH7804
+- Ose_1:7salvaré por Jehová...no los s con arcoH3467
+- Joe_2:32que invocare el nombre de...será salvoH4422
+- Amó_2:15ni el que cabalga en...salvará su vidaH4422
+- Abd_1:17de Sion habrá un remanente que se salve
+- Miq_6:14mas no salvarás, y lo que salvares, loH6403
+- Hab_1:2voces a ti a causa de...y no salvarás?[[H3467]]
+- Sof_3:17Jehová está en medio de...él salvaráH3467
+- Sof_3:19y salvaré a la que cojea, y recogeré laH3467
+- Zac_8:7yo salvo a mi pueblo de la tierra delH3467
+- Zac_8:13Israel...os salvaré y seréis bendiciónH3467
+- Zac_9:11por la sangre de tu pacto serás salva
+- Zac_9:16los salvará en aquel día Jehová su DiosH3467
+- Mat_1:21él salvará a su pueblo de sus pecadosG4982
+- Mat_8:25sus discípulos...sálvanos, que perecemos![[G4982]]
+- Mat_9:21si tocare solamente su manto, seré salvaG4982
+- Mat_9:22ten ánimo, hija; tu fe te ha salvadoG4982
+- Mat_9:22y la mujer fue salva desde aquella horaG4982
+- Mat_10:22el que persevere hasta el...será salvoG4982
+- Mat_14:30dio voces, diciendo: ¡Señor, sálvame![[G4982]]
+- Mat_16:25que quiera salvar su vida, la perderáG4982
+- Mat_18:11ha venido para salvar lo que...perdidoG4982
+- Mat_19:25diciendo: ¿Quién, pues, podrá ser salvo?[[G4982]]
+- Mat_24:13que persevere hasta el fin será salvoG4982
+- Mat_24:22no fuesen acortados, nadie sería salvoG4982
+- Mat_27:40tú que derribas el...sálvate a ti mismoG4982
+- Mat_27:42a otros salvó, a sí...no se puede salvarG4982
+- Mar_3:4¿es lícito...salvar la vida, o quitarla?[[G4982]]
+- Mar_5:23las manos sobre ella para que sea salvaG4982
+- Mar_5:28decía: Si tocare...su manto, seré salvaG4982
+- Mar_5:34tu fe te ha hecho salva; vé en paz, yG4982
+- Mar_8:35que quiera salvar su vida, la perderáG4982
+- Mar_8:35pierda su vida por...causa...la salvaráG4982
+- Mar_10:26se asombraban...¿Quién...podrá ser salvoG4982
+- Mar_10:52Jesús le dijo: Vete, tu fe te ha salvadoG4982
+- Mar_13:13mas el que persevere hasta...será salvoG4982
+- Mar_13:20no hubiese acortado...nadie sería salvoG4982
+- Mar_15:30sálvate a ti mismo, y desciende de laG4982
+- Mar_15:31otros salvó, a sí...no se puede salvarG4982
+- Mar_16:16creyere y fuere bautizado, será salvoG4982
+- Luc_6:9¿es lícito...¿salvar la vida, o quitarla?[[G4982]]
+- Luc_7:50él dijo...Tu fe te ha salvado, vé en pazG4982
+- Luc_8:12y quita...para que no crean y se salvenG4982
+- Luc_8:36les contaron cómo había sido salvado elG4982
+- Luc_8:48él...Hija, tu fe te ha salvado; vé en pazG4982
+- Luc_8:50no temas; cree solamente, y serás salvaG4982
+- Luc_9:24el que quiera salvar su vida, la perderáG4982
+- Luc_9:24su vida por causa de mí, éste la salvaráG4982
+- Luc_9:56perder las almas de...sino para salvarlasG4982
+- Luc_13:23Señor, ¿son pocos los que se salvan?[[G4982]]
+- Luc_17:19levántate, vete; tu fe te ha salvadoG4982
+- Luc_17:33que procure salvar su vida, la perderáG4982
+- Luc_17:33y todo el que la pierda, la salvaráG4982
+- Luc_18:26esto dijeron: ¿quién...podrá ser salvo?[[G4982]]
+- Luc_18:42le dijo: Recíbela, tu fe te ha salvadoG4982
+- Luc_19:10vino...a salvar lo que se había perdidoG4982
+- Luc_23:35a otros salvó; sálvese a sí mismo, siG4982
+- Luc_23:37si tú eres el Rey...sálvate a ti mismoG4982
+- Luc_23:39tú eres el Cristo, sálvate a ti mismoG4982
+- Jua_3:17sino para que el mundo sea salvo porG4982
+- Jua_5:34mas digo esto, para que...seáis salvosG4982
+- Jua_10:9yo soy...el que por mí entrare, será salvoG4982
+- Jua_12:27qué diré? ¿Padre, sálvame de esta hora?[[G4982]]
+- Jua_12:47no he venido a...sino a salvar al mundoG4982
+- Hec_2:21todo aquel que invocare...será salvoG4982
+- Hec_2:40sed salvos de esta perversa generaciónG4982
+- Hec_2:47cada día a...los que habían de ser salvosG4982
+- Hec_4:12otro nombre...en que podamos ser salvosG4982
+- Hec_11:14palabras por las cuales serás salvo túG4982
+- Hec_15:1no os circuncidáis...no podéis ser salvosG4982
+- Hec_15:11que por la gracia del...seremos salvosG4982
+- Hec_16:30dijo...¿qué debo hacer para ser salvo?[[G4982]]
+- Hec_16:31cree en el...y serás salvo, tú y tu casaG4982
+- Hec_27:20ya...perdido toda esperanza de salvarnosG4982
+- Hec_27:31si éstos...vosotros no podéis salvarosG4982
+- Hec_27:43queriendo salvar a Pablo, les impidióG1295
+- Hec_27:44que todos se salvaron saliendo a tierraG1295
+- Rom_5:9en su sangre, por él seremos salvos deG4982
+- Rom_5:10estando reconciliados, seremos salvos porG4982
+- Rom_8:24porque en esperanza fuimos salvos; peroG4982
+- Rom_9:27mar, tan sólo el remanente será salvoG4982
+- Rom_10:9creyeres en tu corazón que...serás salvoG4982
+- Rom_10:13que invocare el nombre del...será salvoG4982
+- Rom_11:14por si...hacer salvos a algunos de ellosG4982
+- Rom_11:26Israel será salvo, como está escritoG4982
+- 1Co_1:18a los que se salvan...poder de DiosG4982
+- 1Co_1:21salvar a los creyentes por la locura deG4982
+- 1Co_3:15si bien él mismo será salvo, aunque asíG4982
+- 1Co_5:5que el espíritu sea salvo en el día delG4982
+- 1Co_7:16sabes...si quizá harás salvo a tu marido?[[G4982]]
+- 1Co_7:16¿o qué...si quizá harás salva a tu mujer?[[G4982]]
+- 1Co_9:22para que de todos modos salve a algunosG4982
+- 1Co_10:33sino el de muchos, para que sean salvosG4982
+- 1Co_15:2por el cual asimismo...sois salvos, si noG4982
+- 2Co_2:15olor de Cristo en los que se salvanG4982
+- Efe_2:5nos dio vida...(por gracia sois salvos)[[G4982]]
+- Efe_2:8por gracia sois salvos por medio de la feG4982
+- 1Ts_2:16hablar a...para que éstos se salvenG4982
+- 2Ts_2:10no recibieron...verdad para ser salvosG4982
+- 1Ti_1:15Cristo...vino al mundo para salvar aG4982
+- 1Ti_2:4el cual quiere...los hombres sean salvosG4982
+- 1Ti_2:15pero se salvará engendrando hijos, siG4982
+- 1Ti_4:16persiste en ello, pues...te salvarás a tiG4982
+- 2Ti_1:9salvó y llamó con llamamiento santoG4982
+- Tit_3:5nos salvó, no por obras de justiciaG4982
+- Heb_7:25salvar...a los que por él se acercan aG4982
+- Heb_9:28vez...para salvar a los que le esperanG4991
+- Heb_11:7preparó el arca en que su...se salvaseG4991
+- Stg_1:21la cual puede salvar vuestras almasG4982
+- Stg_2:14si alguno dice...¿Podrá la fe salvarle?[[G4982]]
+- Stg_4:12el dador de la ley, que puede salvar yG4982
+- Stg_5:15y la oración de fe salvará al enfermoG4982
+- Stg_5:20salvará de muerte un alma, y cubriráG4982
+- 1Pe_3:20cual pocas personas...fueron salvadasG1295
+- 1Pe_3:21el bautismo que corresponde...nos salvaG4982
+- 1Pe_4:18si el justo con dificultad se salva, ¿enG4982
+- Jud_1:5que el Señor, habiendo salvado al puebloG4982
+- Jud_1:23a otros salvad, arrebatándolos del fuegoG4982
+- Rev_21:24las naciones que hubieren sido salvasG4982

@@ -1,0 +1,327 @@
+---
+tipo: concordancia
+palabra: ROSTRO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ROSTRO
+
+- Gén_3:19con el sudor de tu r comerás el panH639
+- Gén_9:23vueltos sus r...no vieron la desnudez deH6440
+- Gén_17:3entonces Abram se postró sobre su r, yH6440
+- Gén_17:17Abraham se postró sobre su r, y se ríoH6440
+- Gén_32:20apaciguaré su ira...después veré su rH6440
+- Gén_33:10he visto tu r, como si...el r de DiosH6440
+- Gén_38:15Judá...porque ella había cubierto su rH6440
+- Gén_42:6José, y se inclinaron a él r a tierraH639
+- Gén_43:3, Gén_43:5no veréis mi r si no traéis a vuestroH639
+- Gén_43:31lavó su r y salió, y se contuvo, y dijoH6440
+- Gén_44:23no desciende con...no veréis más mi rH6440
+- Gén_44:26no podremos ver el r del varón, si noH6440
+- Gén_46:30que he visto tu r, y sé que aún vivesH6440
+- Gén_48:11no pensaba yo ver tu r, y he aquí DiosH6440
+- Gén_50:1se echó José sobre el r de su padre, yH6440
+- Éxo_3:6Moisés cubrió su r, porque tuvo miedoH6440
+- Éxo_10:10¡mirad...el mal...delante de vuestro r!
+- Éxo_10:28guárdate que no veas más mi r, porqueH6440
+- Éxo_10:28cualquier día que vieres mi r, morirásH6440
+- Éxo_10:29bien has dicho; no veré más tu rH6440
+- Éxo_25:20r el uno en frente del otro, mirandoH6440
+- Éxo_25:20mirando al propiciatorio los r de losH6440
+- Éxo_33:19pasar todo mi bien delante de tu r, y
+- Éxo_33:20no podrás ver mi r; porque no me veráH6440
+- Éxo_33:23verás mis espaldas...no se verá mi rH6440
+- Éxo_34:29Moisés...la piel de su r resplandecíaH6440
+- Éxo_34:30, Éxo_34:35piel de su r era resplandecienteH6440
+- Éxo_34:33acabó Moisés...puso un velo sobre su rH6440
+- Éxo_34:35al mirar los hijos de...el r de MoisésH6440
+- Éxo_34:35y volvía Moisés a poner el velo...su rH6440
+- Éxo_37:9querubines...r el uno enfrente del otroH6440
+- Lev_9:24alabaron, y se postraron sobre sus rH6440
+- Lev_17:10yo pondré mi r contra la persona queH6440
+- Lev_19:32las canas...y honrarás el r del ancianoH6440
+- Lev_20:3, Lev_20:5yo pondré mi r contra el tal varónH6440
+- Lev_20:6yo pondré mi r contra la tal personaH6440
+- Lev_26:13y os he hecho andar con el r erguido
+- Lev_26:17pondré mi r contra vosotros, y seréisH6440
+- Núm_6:25Jehová haga resplandecer su r sobreH6440
+- Núm_6:26Jehová alce sobre ti su r, y ponga enH6440
+- Núm_12:14si su padre hubiera escupido en su rH6440
+- Núm_14:5se postraron sobre sus r delante deH6440
+- Núm_16:4oyó esto Moisés, se postró sobre su rH6440
+- Núm_16:22, Núm_16:45y ellos se postraron sobre sus rH6440
+- Núm_20:6se postraron sobre sus r; y la gloriaH6440
+- Núm_22:31Balaam hizo...y se inclinó sobre su rH6440
+- Núm_24:1sino que puso su r hacia el desiertoH6440
+- Deu_25:9le escupirá en el r, y hablará y diráH6440
+- Deu_28:50gente fiera de r...no tendrá respeto alH6440
+- Deu_31:17y esconderé de ellos mi r...consumidosH6440
+- Deu_31:18esconderé mi r en aquel día, por todoH6440
+- Deu_32:20y dijo: Esconderé de ellos mi r, veréH6440
+- Jos_5:14Josué, postrándose sobre su r...adoróH6440
+- Jos_7:6se postró...sobre su r delante del arcaH6440
+- Jos_7:10¿por qué te postras así sobre tu r?[[H6440]]
+- Jos_8:20los...de Hai volvieron el r, y al mirar
+- Jos_23:9podido resistir delante de vuestro r
+- Jue_18:23volvieron sus r, y dijeron a MicaíaH6440
+- Rut_2:10bajando su r se inclinó a tierraH6440
+- 1Sa_17:49filisteo...cayó sobre su r en tierraH6440
+- 1Sa_24:8David inclinó su r a tierra, e hizoH6440
+- 1Sa_25:23y postrándose sobre su r...se inclinó aH6440
+- 1Sa_25:41se levantó e inclinó su r a tierra, yH6440
+- 1Sa_28:14Saúl...humillando el r a tierra, hizoH6440
+- 2Sa_2:22¿cómo levantará...r delante de JoabH6440
+- 2Sa_7:16será afirmada tu casa...delante de tu r
+- 2Sa_9:6se postró sobre su r e hizo reverenciaH6440
+- 2Sa_14:4postrándose en tierra sobre su r, hizoH639
+- 2Sa_14:22Joab se postró en tierra sobre su rH6440
+- 2Sa_14:24y no vea mi r...y no vio el r del reyH6440
+- 2Sa_14:28estuvo Absalón...y no vio el r del reyH6440
+- 2Sa_14:32vea yo ahora el r del rey; y si hay enH6440
+- 2Sa_14:33inclinó su r a tierra delante del rH6440
+- 2Sa_19:4mas el rey, cubierto el r, clamaba enH6440
+- 2Sa_19:5hoy has avergonzado el r de todos tusH6440
+- 2Sa_24:20Arauna, se inclinó...rey, r a tierraH6440
+- 1Re_1:23se postró...inclinando su r a tierraH6440
+- 1Re_1:31Betsabé se inclinó...con su r a tierraH6440
+- 1Re_2:15que todo Israel había puesto en mí su rH6440
+- 1Re_8:14volviendo el rey su r, bendijo a todaH6440
+- 1Re_8:44oraren a...con el r hacia la ciudad que
+- 1Re_8:48y oraren a ti con el r hacia su tierra
+- 1Re_18:7postró sobre su r y dijo: ¿No eres túH6440
+- 1Re_18:42y Elías...puso su r entre las rodillasH6440
+- 1Re_19:13cubrió su r con su manto, y salió, yH6440
+- 1Re_21:4y se acostó...y volvió su r, y no comióH6440
+- 2Re_3:14no tuviese respeto al r de JosafatH6440
+- 2Re_4:29pondrás mi báculo sobre el r del niñoH6440
+- 2Re_4:31había puesto el báculo sobre el r delH6440
+- 2Re_8:15un paño...lo puso sobre el r de Ben-adadH6440
+- 2Re_9:32alzando él...su r hacia la ventana, dijoH6440
+- 2Re_17:18Jehová...los quitó de delante de su rH6440
+- 2Re_17:23quitó a Israel de delante de su r, comoH6440
+- 2Re_20:2volvió su r a la pared, y oró a JehováH6440
+- 1Cr_12:8sus r eran como r de leones, y eranH6440
+- 1Cr_16:11a Jehová y...buscad su r continuamenteH6440
+- 1Cr_21:16David y los...se postraron sobre sus rH6440
+- 2Cr_3:13querubines...con los r hacia la casaH6440
+- 2Cr_6:3volviendo el rey su r, bendijo a toda laH6440
+- 2Cr_7:3se postraron sobre sus r en...y adoraronH6440
+- 2Cr_7:14buscaren mi r, y se convirtieren de susH6440
+- 2Cr_9:23reyes...procuraban ver el r de SalomónH6440
+- 2Cr_20:3humilló su r para consultar a Jehová
+- 2Cr_20:18entonces Josafat se inclinó r a tierraH639
+- 2Cr_29:6y apartaron sus r del tabernáculo deH639
+- 2Cr_30:9Jehová...no apartará de vosotros su rH639
+- Esd_9:6confuso...estoy para levantar...r a tiH639
+- Esd_9:7y a vergüenza que cubre nuestro r, comoH639
+- Neh_2:2me dijo...¿Por qué está triste tu r?[[H6440]]
+- Neh_2:3¿cómo no estará triste mi r, cuando laH6440
+- Est_7:8al proferir...le cubrieron el r a AmánH6440
+- Job_4:16ojos un fantasma, cuyo r yo no conocí
+- Job_9:24cubre el r de sus jueces...Si no es élH6440
+- Job_11:15levantarás tu r limpio de mancha, yH6440
+- Job_13:20no...entonces no me esconderé de tu r
+- Job_13:24¿por qué escondes tu r, y me cuentasH6440
+- Job_14:20se va; demudarás su r, y le despedirásH6440
+- Job_15:27gordura cubrió su r, e hizo plieguesH6440
+- Job_16:8que se levanta...para testificar en mi rH6440
+- Job_16:16mi r está inflamado con el lloro, yH6440
+- Job_22:26te deleitarás...y alzarás a Dios tu rH6440
+- Job_23:17ni fue cubierto con oscuridad mi r?[[H6440]]
+- Job_24:15diciendo: No me verá...y esconde su rH6440
+- Job_29:24lo creían; y no abatían la luz de mi rH6440
+- Job_30:10y aun de mi r no detuvieron su salivaH6440
+- Job_30:11eso se desenfrenaron delante de mi r
+- Job_34:29si escondiere el r, ¿quién lo mirará?[[H6440]]
+- Job_39:22ni vuelve el r delante de la espada
+- Job_40:13polvo, encierra sus r en la oscuridadH6440
+- Job_41:14¿quién abrirá las puertas de su r?[[H6440]]
+- Sal_4:6alza sobre nosotros...la luz de tu rH6440
+- Sal_10:4por la altivez de su r, no busca a DiosH639
+- Sal_10:11Dios...encubierto su r; nunca lo veráH6440
+- Sal_11:7es justo...el hombre recto mirará su rH6440
+- Sal_13:1¿hasta cuándo esconderás tu r de mí?[[H6440]]
+- Sal_17:15en cuanto a mí, veré tu r en justiciaH6440
+- Sal_21:12en tus...dispondrás saetas contra sus rH6440
+- Sal_22:24del afligido, ni de él escondió su rH6440
+- Sal_24:6los que buscan tu r, oh Dios de JacobH6440
+- Sal_27:8dicho de ti: Buscad mi r...Tu r buscaréH6440
+- Sal_27:9no escondas tu r de mí...No apartes conH6440
+- Sal_30:7Jehová...escondiste tu r, fui turbadoH6440
+- Sal_31:16haz resplandecer tu r sobre tu siervoH6440
+- Sal_34:5miraron...sus r no fueron avergonzadosH6440
+- Sal_44:3los libró...tu brazo, y la luz de tu rH6440
+- Sal_44:15cada día...confusión de mi r me cubreH6440
+- Sal_44:24¿por qué escondes tu r, y te olvidasH6440
+- Sal_51:9esconde tu r de mis pecados, y borraH6440
+- Sal_67:1haga resplandecer su r sobre nosotrosH6440
+- Sal_69:7he sufrido...confusión ha cubierto mi rH6440
+- Sal_69:17no escondas de tu siervo tu r, porqueH6440
+- Sal_80:3, Sal_80:7resplandecer tu r, y seremos salvosH6440
+- Sal_80:16perezcan por la reprensión de tu rH6440
+- Sal_80:19resplandecer tu r, y seremos salvosH6440
+- Sal_83:16llena sus r de vergüenza, y busquenH6440
+- Sal_84:9y pon los ojos en el r de tu ungidoH6440
+- Sal_88:14Jehová...¿Por qué escondes de mí tu r?[[H6440]]
+- Sal_89:14juicio, y verdad van delante de tu rH6440
+- Sal_89:15andará, oh Jehová, a la luz de tu rH6440
+- Sal_90:8de ti, nuestros yerros a la luz de tu rH6440
+- Sal_102:2no escondas de mí tu r en el día de miH6440
+- Sal_104:15el aceite que hace brillar el r, y elH6440
+- Sal_104:29escondes tu r, se turban; les quitasH6440
+- Sal_105:4buscad a Jehová...buscad siempre su rH6440
+- Sal_119:135haz que tu r resplandezca sobre tuH6440
+- Sal_132:10siervo no vuelvas de tu ungido el rH6440
+- Sal_143:7no escondas de mí tu r, no venga yo aH6440
+- Pro_7:15buscando diligentemente tu r, y te heH6440
+- Pro_15:13el corazón alegre hermosea el r, masH6440
+- Pro_16:15la alegría del r del rey está la vidaH6440
+- Pro_17:24en el r del entendido...la sabiduría
+- Pro_21:29el hombre impío endurece su r; mas elH6440
+- Pro_25:23y el r airado la lengua detractoraH6440
+- Pro_27:17así el hombre aguza el r de su amigoH6440
+- Pro_27:19como en el agua el r corresponde al rH6440
+- Ecl_7:3con la tristeza del r se enmendará elH6440
+- Ecl_8:1la sabiduría del hombre ilumina su r, yH6440
+- Cnt_2:14muéstrame tu r, hazme oír tu vozH4758
+- Isa_3:9apariencia de sus r testifica contraH6440
+- Isa_6:2con dos cubrían sus r, con dos cubríanH6440
+- Isa_8:17escondió su r de la casa de Jacob, yH6440
+- Isa_8:21y maldecirán...levantando el r en alto
+- Isa_9:15anciano y venerable de r es la cabeza
+- Isa_13:8asombrará cada cual...sus r, r de llamaH6440
+- Isa_22:17que Jehová...de cierto te cubrirá el r
+- Isa_25:8y enjugará...toda lágrima de todos los rH6440
+- Isa_29:22avergonzado...ni su r se pondrá pálidoH6440
+- Isa_30:27su r encendido, y con llamas de fuegoH639
+- Isa_30:30hará ver...furor de r y llama de fuegoH639
+- Isa_38:2volvió Ezequías su r a la pared, e hizoH6440
+- Isa_40:10recompensa...su paga delante de su r
+- Isa_49:23el r inclinado a tierra te adoraránH639
+- Isa_50:6no escondí mi r de injurias...esputosH6440
+- Isa_50:7por eso puse mi r como un pedernal, yH6440
+- Isa_53:3y como que escondimos de él el r, fueH6440
+- Isa_54:8con un poco de ira escondí mi r de tiH6440
+- Isa_57:17y le herí, escondí mi r y me indigné
+- Isa_59:2ocultar de vosotros su r para no oírH6440
+- Isa_64:7por lo cual escondiste de nosotros tu rH6440
+- Isa_65:3en mi r me provoca de continuo a iraH6440
+- Jer_2:27me volvieron la cerviz, y no el rH6440
+- Jer_5:3endurecieron sus r más que la piedra, noH6440
+- Jer_13:26descubriré...tus faldas delante de tu rH6440
+- Jer_18:17les mostraré las espaldas y no el rH6440
+- Jer_18:23ni borres su pecado de delante de tu rH6440
+- Jer_21:10mi r he puesto contra esta ciudad paraH6440
+- Jer_30:6y se han vuelto pálidos todos los rH6440
+- Jer_32:33y me volvieron la cerviz, y no el rH6440
+- Jer_33:5escondí mi r de esta ciudad a causa deH6440
+- Jer_42:15volviereis vuestros r para entrar enH6440
+- Jer_42:17volvieron sus r para entrar en EgiptoH6440
+- Jer_44:11vuelvo mi r contra vosotros para malH6440
+- Jer_44:12volvieron sus r y para ir a tierra deH6440
+- Jer_50:5de Sion, hacia donde volverán sus rH6440
+- Jer_50:16cada uno volverá el r hacia su pueblo
+- Jer_51:51la confusión cubrió nuestros r, porqueH6440
+- Lam_5:12no respetaron el r de los viejosH6440
+- Eze_1:28cuando yo la vi, me postré sobre mi rH6440
+- Eze_2:4hijos de duro r y de empedernido corazónH2389, [[H3870]]
+- Eze_3:8hecho tu r fuerte contra los r de ellosH6440
+- Eze_3:23estaba la gloria...me postré sobre mi rH6440
+- Eze_4:3afirmarás luego tu r contra ella, y seráH6440
+- Eze_4:7al asedio de Jerusalén afirmarás tu r, yH6440
+- Eze_6:2pon tu r hacia los montes de Israel, yH6440
+- Eze_7:18en todo r habrá vergüenza, y...rapadasH6440
+- Eze_7:22apartaré de ellos mi r, y será violadoH6440
+- Eze_8:16r hacia el oriente, y adoraban al solH6440
+- Eze_9:8postré sobre mi r, y clamé y dije: ¡AhH6440
+- Eze_10:14cuatro...La primera era r de querubínH6440
+- Eze_10:22la semejanza de sus r era la de los rH6440
+- Eze_11:13me postré r a tierra y clamé con granH6440
+- Eze_12:6cubrirás tu r, y no mirarás la tierraH6440
+- Eze_12:12cubrirá su r para no ver con sus ojosH6440
+- Eze_13:17pon tu r contra las hijas de tu puebloH6440
+- Eze_14:3-4tropiezo de su maldad delante...rH6440
+- Eze_14:6y apartad vuestro r de...abominacionesH6440
+- Eze_14:7establecido delante de su r el tropiezoH6440
+- Eze_14:8y pondré mi r contra aquel hombre, y leH6440
+- Eze_15:7y pondré mi r contra ellos; aunque delH6440
+- Eze_15:7y sabréis...cuando pusiere mi r contraH6440
+- Eze_20:46tu r hacia el sur, derrama tu palabraH6440
+- Eze_20:47y serán quemados en ella todos los rH6440
+- Eze_21:2pon tu r contra Jerusalén...y profetizaH6440
+- Eze_25:2pon tu r hacia los hijos de Amón, yH6440
+- Eze_27:35sus reyes temblarán...demudarán sus rH6440
+- Eze_28:21hijo de hombre, pon tu r hacia SidónH6440
+- Eze_29:2pon tu r contra Faraón rey de Egipto, yH6440
+- Eze_32:10resplandecer mi espada delante de...r
+- Eze_35:2hombre, pon tu r hacia el monte de SeirH6440
+- Eze_38:2pon tu r contra Gog en tierra de MagogH6440
+- Eze_39:23escondí de ellos mi r, y los entreguéH6440
+- Eze_39:24conforme a su...de ellos escondí mi rH6440
+- Eze_39:29ni esconderé más de ellos mi r, porqueH6440
+- Eze_41:18labrada...y cada querubín tenía dos rH6440
+- Eze_41:19un r de hombre...un r de león hacia laH6440
+- Eze_43:3como la visión...y me postré sobre mi rH6440
+- Eze_44:4miré...la gloria...me postré sobre mi rH6440
+- Dan_1:10vea vuestros r más pálidos que losH6440
+- Dan_1:13compara luego nuestros r con los r deH4758
+- Dan_1:15el r de ellos mejor y más robusto queH4758
+- Dan_2:46rey Nabucodonosor se postró sobre su rH600
+- Dan_3:19y se demudó el aspecto de su r contraH600
+- Dan_5:10rey...no te turben...ni palidezca tu rH2122
+- Dan_7:28y mi r se demudó; pero guardé el asuntoH2122
+- Dan_8:17me asombré, y me postré sobre mi rH6440
+- Dan_8:18caí dormido en tierra sobre mi r; y élH6440
+- Dan_8:23rey altivo de r y entendido en enigmasH6440
+- Dan_9:3volví mi r a Dios el Señor, buscándoleH6440
+- Dan_9:7y nuestra la confusión de r, como en elH6440
+- Dan_9:8oh Jehová, nuestra es la confusión de rH6440
+- Dan_9:17tu r resplandezca sobre tu santuarioH6440
+- Dan_10:6su r parecía un relámpago, y sus ojosH6440
+- Dan_10:9caí sobre mi r en...con mi r en tierraH6440
+- Dan_11:17afirmará luego su r para venir con elH6440
+- Dan_11:18volverá después su r a las costas, yH6440
+- Dan_11:19volverá su r a las fortalezas de suH6440
+- Ose_2:2aparte, pues...fornicaciones de su rH6440
+- Ose_5:15que reconozcan su pecado y busquen mi rH6440
+- Miq_3:4antes esconderá...su r en aquel tiempoH6440
+- Nah_2:10dolor en las entrañas, r demudadosH6440
+- Nah_3:5contra ti...descubriré tus faldas en tu rH6440
+- Hab_3:5delante de su r iba mortandad, y a
+- Mal_2:3he aquí...os echaré al r el estiércolH6440
+- Mat_6:16ellos demudan sus r para mostrar a losG4383
+- Mat_6:17tú...ayunes, unge tu cabeza y lava tu rG4383
+- Mat_17:2resplandeció su r como el sol, y susG4383
+- Mat_17:6postraron sobre sus r, y tuvieron granG4383
+- Mat_18:10ven siempre el r de mi Padre que estáG4383
+- Mat_26:39postró sobre su r, orando y diciendoG4383
+- Mat_26:67le escupieron en el r, y le dieron deG4383
+- Mar_14:65cubrirle el r y a darle de puñetazosG4383
+- Luc_5:12postró con el r en tierra y le rogóG4383
+- Luc_9:29la apariencia de su r se hizo otra, yG4383
+- Luc_9:51arriba, afirmó su r para ir a JerusalénG4383
+- Luc_17:16postró r en tierra...dándole graciasG4383
+- Luc_22:64le golpeaban el r, y le preguntabanG4383
+- Luc_24:5tuvieron temor, y bajaron el r a tierraG4383
+- Jua_11:44atadas...el r envuelto en un sudarioG4383
+- Hec_6:15vieron su r como el r de un ángelG4383
+- Hec_20:25yo sé que ninguno de...verá más mi rG4383
+- Hec_20:38que dijo, de que no verían más su rG4383
+- 1Co_14:25postrándose sobre el r, adoraráG4383
+- 2Co_3:7no pudieron fijar la vista en el rG4383
+- 2Co_3:7a causa de la gloria de su r, la cualG4383
+- 2Co_3:13Moisés, que ponía un velo sobre su rG4383
+- Col_2:1por todos los que nunca han visto mi rG4383
+- 1Ts_2:17procuramos con...deseo ver vuestro rG4383
+- 1Ts_3:10orando de...para que veamos vuestro r, yG4383
+- Stg_1:23considera en un espejo su r naturalG4383
+- 1Pe_3:12el r del Señor está contra aquellosG4383
+- Rev_1:16r era como el sol cuando resplandeceG3799
+- Rev_4:7el tercero tenía r como de hombre; y elG4383
+- Rev_5:14los...ancianos se postraron sobre sus r
+- Rev_6:16y escondednos del r de aquel que estáG4383
+- Rev_7:11y se postraron sobre sus r delante delG4383
+- Rev_10:1su r era como el sol, y sus pies comoG4383
+- Rev_11:16se postraron sobre sus r, y adoraronG4383
+- Rev_22:4verán su r, y su nombre estará en susG4383

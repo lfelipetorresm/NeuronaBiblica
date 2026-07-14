@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: ANTIGUO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ANTIGUO, A
+
+- Lev_26:45me acordaré de ellos por el pacto aH7223
+- Deu_19:14los límites de la...que fijaron los aH7223
+- Deu_32:7acuérdate de los tiempos a, considera loH5769
+- Deu_33:15con el fruto más fino de los montes aH6924
+- Jue_5:21el a torrente, el torrente de CisónH6917
+- 1Sa_24:13como dice el proverbio de los a: DeH6931
+- 2Re_17:40antes hicieron según su costumbre aH7223
+- 2Re_19:25¿nunca has oido que desde tiempos a yaH7350
+- 1Cr_4:22volvieron a Lehem, según registros aH6267
+- 2Cr_24:13la casa de Dios a su a condición
+- Esd_4:15de tiempo a forman en...ella rebelionH5957
+- Esd_4:19de tiempo a se levanta contra los reyesH5957
+- Neh_12:46de a, había un director de cantoresH6924
+- Job_22:15¿quieres tú seguir la senda a queH5769
+- Sal_44:1la obra que hiciste...en los tiempos aH6924
+- Sal_74:2que adquiriste desde tiempos a, la queH6924
+- Sal_74:12pero Dios es mi rey desde tiempo a, elH6924
+- Sal_77:11haré yo memoria de tus maravillas aH6924
+- Sal_78:2hablaré cosas escondidas desde tiempos aH6924
+- Sal_89:49¿dónde están tus a misericordias, queH7223
+- Sal_119:52me acordé, oh Jehová, de tus juicios aH5769
+- Sal_143:5me acordé de los días a; meditaba enH6924
+- Pro_8:22Jehová me poseía...de a, antes de susH227
+- Pro_22:28no traspases los linderos a que pusieronH5769
+- Pro_23:10no traspases el lindero a, ni entres enH5769
+- Isa_19:11diréis...Yo soy hijo de...los reyes aH6924
+- Isa_25:1tus consejos a son verdad y firmezaH7350
+- Isa_37:26¿no has oído...que desde tiempos a yo loH7350
+- Isa_43:18no os...ni traigáis a memoria las cosas aH6931
+- Isa_44:7hago yo desde que establecí el pueblo a?[[H5769]]
+- Isa_46:9acordaos de las cosas...desde los tiempos aH5769
+- Isa_51:9despiértate como en el tiempo a, en losH5769
+- Isa_57:11¿no he guardado silencio desde tiempos aH5769
+- Isa_58:12y los tuyos edificarán las ruinas a; losH5769
+- Isa_61:4reedificarán las ruinas a, y levantaránH5769
+- Isa_63:11pero se acordó de los días a, de MoisésH5769
+- Isa_65:7por...yo les mediré su obra a en su senoH7223
+- Jer_5:15gente a, gente cuya lengua ignorarásH5769
+- Jer_6:16preguntad por las sendas a, cuál sea elH5769
+- Jer_18:15y ha tropezado en sus...en las sendas aH5769
+- Lam_1:7las cosas...que tuvo desde los tiempos aH6924
+- Lam_2:17la cual él había mandado desde tiempo aH6924
+- Eze_25:15ánimo, destruyendo por a enemistadesH5769
+- Eze_26:20los desiertos a, con los que desciendenH5769
+- Miq_7:20la misericordia, que juraste...tiempos aH6924
+- Nah_2:8fue Nínive de tiempo a como estanqueH3117
+- Hab_3:6los montes a...collados a se humillaronH5703
+- Mal_3:4será grata a Jehová...como en los años aH5769
+- Mat_5:21oísteis...fue dicho a los a: No matarásG744
+- Mat_5:33fue dicho a los a: No perjurarás, sinoG744
+- Luc_9:8, Luc_9:19algún profeta de los a ha resucitadoG744
+- Hec_3:21profetas que han sido desde tiempo aG165
+- Hec_15:18hace conocer todo esto desde tiempos aG165
+- Hec_15:21Moisés desde tiempos a tiene en cadaG744
+- Hec_21:16llamado Mnasón...discípulo a, con quienG744
+- 2Co_3:14cuando leen el a pacto, les queda elG3820
+- Heb_11:2ella alcanzaron buen testimonio los aG4245
+- 2Pe_1:9olvidado la purificación...a pecadosG3819
+- 2Pe_2:5si no perdonó al mundo a, sino que guardóG744
+- 2Pe_3:5que en el tiempo a fueron hechos por laG1597
+- 1Jn_2:7el mandamiento a que habéis tenidoG3820
+- 1Jn_2:7este mandamiento a es la palabra...oídoG3820
+- Rev_12:9la serpiente a, que se llama diablo yG744
+- Rev_20:2prendió al dragón, la serpiente a, queG744

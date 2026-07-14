@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: PRENDER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRENDER
+
+- Véase también Preso
+- Éxo_22:6prendiere fuego, y al quemar espinosH3318
+- Jos_8:8la hayáis tomado, le prenderéis fuegoH3341
+- Jos_8:19ciudad...se apresuraron a prenderle fuego
+- Jue_1:6le prendieron, y le cortaron...pulgaresH7291
+- Jue_8:12prendió a los dos reyes de Madián, ZebaH7291
+- Jue_9:49y prendieron fuego con...a la fortalezaH6871
+- Jue_9:52llegó hasta...torre para prenderle fuegoH8313
+- Jue_15:10a prender a Sansón hemos subido, paraH631
+- Jue_15:12nosotros hemos venido para prenderte yH631
+- Jue_15:13te prenderemos, y te entregaremos enH631
+- 1Sa_19:14cuando Saúl envió...prender a DavidH3947
+- 1Sa_30:1asolado a Siclag...habían prendido fuegoH8313
+- 2Sa_4:10yo le prendí, y le maté en Siclag enH270
+- 2Sa_14:30tiene allí cebada; id y prendedle fuego
+- 2Sa_14:30los siervos, prendieron fuego al campo
+- 2Sa_14:31¿por qué han prendido fuego...mi campo?
+- 1Re_13:4desde el altar, dijo: ¡Prendedle! MasH8610
+- 1Re_16:18prendió fuego a la casa consigo; y asíH8313
+- 1Re_18:40prended a los profetas...los prendieronH8610
+- 2Re_6:13mirad...para que yo envíe a prenderloH3947
+- 2Re_10:14él dijo: Prendedlos vivos...Y después queH8610
+- 2Re_24:12y lo prendió el rey de Babilonia en elH3947
+- Job_5:13prende a los sabios en la astucia deH3920
+- Job_18:9lazo prenderá su calcañar; se afirmaráH270
+- Job_36:8y si estuvieren prendidos en grillos, yH631
+- Sal_35:8y la red que él escondió lo prendaH3920
+- Sal 56 tít.los filisteos le prendieron en GatH270
+- Pro_5:22prenderán al impío sus...iniquidades, yH3920
+- Pro_6:25corazón, ni ella te prenda con sus ojosH3947
+- Cnt_4:9prendiste mi corazón, hermana, esposaH3823
+- Jer_18:22cavaron hoyo para prenderme, y a misH3920
+- Jer_36:26que prendiesen a Baruc el escribienteH3947
+- Jer_37:14él no lo escuchó, sino prendió Irías aH8610
+- Jer_52:9prendieron al rey, y le hicieron venirH8610
+- Amó_1:4prenderé fuego...consumirá sus palaciosH7971
+- Amó_1:7prenderé fuego en el muro de Gaza, yH7971
+- Amó_1:10prenderé fuego en el muro de Tiro, yH7971
+- Amó_1:12prenderé fuego en Temán, y consumirá susH7971
+- Amó_2:2prenderé fuego en Moab, y consumirá losH7971
+- Amó_2:5prenderé, por tanto, fuego en Judá, elH7971
+- Mat_14:3porque Herodes había prendido a JuanG2902
+- Mat_26:4prender con engaño a Jesús, y matarleG2902
+- Mat_26:48al que yo besare, ése es; prendedleG2902
+- Mat_26:50echaron mano a Jesús, y le prendieronG2902
+- Mat_26:55salido con espadas y...para prenderme?[[G4815]]
+- Mat_26:55cada día...enseñando...no me prendisteisG4815
+- Mat_26:57los que prendieron a Jesús le llevaronG2902
+- Mar_3:21oyeron los suyos, vinieron...prenderleG2902
+- Mar_6:17Herodes había enviado y prendido a JuanG2902
+- Mar_12:12procuraban prenderle, porque entendíanG2902
+- Mar_14:1buscaban los...cómo prenderle por engañoG2902
+- Mar_14:44ése...prendedle, y llevadle con seguridadG2902
+- Mar_14:46ellos le echaron mano, y le prendieronG2902
+- Mar_14:48habéis salido...con palos para prenderme?[[G4815]]
+- Mar_14:49cada día...enseñando...no me prendisteisG2902
+- Mar_14:51le seguía, cubierto el...y le prendieronG2902
+- Luc_22:54y prendiéndole, le llevaron...a casaG4815
+- Jua_7:30procuraban prenderle; pero ninguno leG4084
+- Jua_7:32y los fariseos enviaron...le prendiesenG4084
+- Jua_7:44algunos de ellos querían prenderle; peroG4084
+- Jua_8:20nadie le prendió, porque aún no había
+- Jua_10:39procuraron otra vez prenderle, pero élG4084
+- Jua_11:57lo manifestase, para que le prendiesenG4084
+- Jua_18:12judíos, prendieron a Jesús y le ataronG4815
+- Hec_1:16guía de los que prendieron a JesúsG4815
+- Hec_2:23prendisteis y matasteis por...de inicuosG2983
+- Hec_9:14tiene autoridad de...para prender a todosG1210
+- Hec_12:3procedió a prender también a Pedro. EranG4815
+- Hec_16:19sus amos...prendieron a Pablo y a SilasG1949
+- Hec_21:33el tribuno, le prendió y le mandó atarG1949
+- Hec_22:4prendiendo y entregando en cárceles aG1195
+- Hec_24:6prendiéndole, quisimos juzgarle conformeG2902
+- Hec_26:21prendiéndome en el...intentaron matarmeG4815
+- Hec_28:3y una víbora...se le prendió en la manoG2510
+- 1Co_3:19prende a los sabios en la astucia deG1405
+- 2Co_11:32guardaba la ciudad...para prendermeG4084
+- 2Co_12:16como soy astuto, os prendí por engañoG2983
+- Rev_20:2y prendió al dragón, la serpienteG2902

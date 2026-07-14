@@ -1,0 +1,489 @@
+---
+tipo: concordancia
+palabra: PECADO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PECADO
+
+- Gén_4:7si no hicieres...el p está a la puertaH2403
+- Gén_18:20el p de ellos se ha agravado en extremoH2403
+- Gén_20:9que has atraído sobre mí...tan grande p?[[H2401]]
+- Gén_26:10y hubieras traído sobre nosotros el pH817
+- Gén_31:36¿cuál es mi p, para que...hayas venidoH2403
+- Gén_50:17ahora la maldad de tus hermanos y su pH2403
+- Éxo_10:17que perdonéis mi p solamente esta vezH2403
+- Éxo_28:43al altar...para que no lleven p y mueranH5771
+- Éxo_29:14quemarás a fuego...es ofrenda por el pH2403
+- Éxo_29:36cada día ofrecerás...sacrificio por el pH2403
+- Éxo_30:10con la sangre del sacrificio por el pH2403
+- Éxo_32:21que has traído sobre él tan gran p?[[H2401]]
+- Éxo_32:30vosotros habéis cometido un gran p, peroH2401
+- Éxo_32:30quizá le aplacaré acerca de vuestro pH2403
+- Éxo_32:31pues este pueblo ha cometido un gran pH2401
+- Éxo_32:32que perdones ahora su p, y si no, ráemeH2403
+- Éxo_32:34en el día del...castigaré en ellos su pH2403
+- Éxo_34:7que perdona la iniquidad, la rebelión...pH2402
+- Éxo_34:9y perdona nuestra iniquidad y nuestro pH2403
+- Lev_4:3el sacerdote ungido pecare según el pH2398
+- Lev_4:3ofrecerá a Jehová, por su p...un becerroH819
+- Lev_4:14luego que llegue a ser conocido el p queH2403
+- Lev_4:23conociere su p que cometió, presentará porH2403
+- Lev_4:26el sacerdote hará...la expiación de su pH2403
+- Lev_4:28que conociere su p que cometió, traeráH2403
+- Lev_4:28cabra sin defecto, por su p que cometióH2403
+- Lev_4:32por su ofrenda por el p trajere corderoH2403
+- Lev_4:35expiación de su p que habrá cometido, yH2403
+- Lev_5:1supo, y no lo denunciaré, él llevará su pH2398
+- Lev_5:6traerá...por su p...una cordera o una cabraH2403
+- Lev_5:6el sacerdote le hará expiación por su pH2403
+- Lev_5:7traerá...en expiación por su p que cometióH2403
+- Lev_5:10hará expiación por el p de aquel que loH2403
+- Lev_5:13en cuanto al p que cometió en alguna deH2403
+- Lev_5:15carnero sin defecto...en ofrenda por el pH2398
+- Lev_5:16expiación...por el p, y será perdonadoH817
+- Lev_5:17aun sin hacerlo a sabiendas...llevará su pH2398
+- Lev_6:17como el sacrificio por el p, y como elH2402
+- Lev_6:25degollada la ofrenda por el p delante deH2403
+- Lev_6:26el sacerdote que la ofreciere por el pH2398
+- Lev_7:7como el sacrificio por el p, así es elH2403
+- Lev_7:18persona que de él comiere llevará su pH5771
+- Lev_7:37es la ley...del sacrificio por el p, delH2403
+- Lev_9:15y lo ofreció por el p como el primeroH2403
+- Lev_14:13se degüella el sacrificio por el p y elH2403
+- Lev_14:13como la víctima por el p, así tambiénH2403
+- Lev_14:19ofrecerá luego...el sacrificio por el pH2403
+- Lev_14:22uno será para expiación por el p, y elH2403
+- Lev_14:31uno en sacrificio de expiación por el pH2403
+- Lev_15:15, Lev_15:30hará del uno ofrenda por el p, y delH2403
+- Lev_16:15degollará el macho...expiación por el pH2403
+- Lev_16:16de las impurezas de...y de todos sus pH2403
+- Lev_16:21y confesará...rebeliones y todos sus pH2403
+- Lev_16:25quemará en el altar la grosura...por el pH2403
+- Lev_16:27y el macho cabrío inmolados por el pH2403
+- Lev_16:30y seréis limpios de todos vuestros pH2403
+- Lev_16:34hacer expiación...todos los p de IsraelH2403
+- Lev_19:17razonarás con tu...no participes de su pH2399
+- Lev_19:22lo reconciliará...por su p que cometióH2403
+- Lev_19:22y se le perdonará su p que ha cometidoH2403
+- Lev_20:17descubrió la desnudez de...su p llevaráH5771
+- Lev_20:20su p llevarán; morirán sin hijosH2399
+- Lev_22:9para que no lleven p por ello, no seaH2399
+- Lev_22:16les harían llevar la iniquidad del pH819
+- Lev_26:18castigaros siete veces...por vuestros pH2403
+- Lev_26:21siete veces más plagas según vuestros pH2403
+- Lev_26:24heriré aún siete veces por vuestros pH2403
+- Lev_26:28castigaré...siete veces por vuestros pH2403
+- Lev_26:41humillará su corazón...y reconocerán su pH5771
+- Núm_5:6cometiere alguno de todos los p con queH2403
+- Núm_5:7aquella persona confesará el p que cometióH2403
+- Núm_5:15es ofrenda...que trae a la memoria el pH5771
+- Núm_5:31el hombre será libre...mujer llevará su pH5771
+- Núm_9:13si dejare de celebrar la...llevará su pH2399
+- Núm_12:11no pongas ahora sobre nosotros este pH2403
+- Núm_15:24el p fue hecho por yerro con ignoranciaH2403
+- Núm_16:26para que no perezcáis en todos sus pH2403
+- Núm_18:1tú y tus...llevaréis el p del santuarioH5771
+- Núm_18:1tú y...llevaréis el p de vuestro sacerdocioH5771
+- Núm_18:9toda expiación por el p de ellos, y todaH2403
+- Núm_18:22para que no lleven p por el cual mueranH2399
+- Núm_18:32y no llevaréis p...hubiereis ofrecido laH2399
+- Núm_27:3que en su propio p murió, y no tuvo hijosH2399
+- Núm_29:11además de la ofrenda...por el p, y delH2403
+- Núm_30:15los anulare...entonces él llevará el pH2403
+- Núm_32:23mas...sabed que vuestro p os alcanzaráH2403
+- Deu_9:18no comí pan...causa de todo vuestro pH2403
+- Deu_9:21tomé el objeto de vuestro p, el becerroH2403
+- Deu_9:27no mires a...ni a su impiedad ni a su pH2403
+- Deu_15:9él podrá clamar...y se te contará por pH2399
+- Deu_19:15a un solo testigo...en cualquier p, enH2403
+- Deu_23:21lo demandará Jehová tu...y sería p en tiH2399
+- Deu_23:22cuando te abstengas...no habrá en ti pH2399
+- Deu_24:15que no clame contra ti...y sea en ti pH2399
+- Deu_24:16no morirán...cada uno morirá por su pH2399
+- Jos_24:19no sufrirá vuestras rebeliones y...pH2403
+- 1Sa_2:17era...muy grande...el p de los jóvenesH2403
+- 1Sa_12:19a todos nuestros p hemos añadido esteH2403
+- 1Sa_14:38y ved en qué ha consistido este p hoyH2403
+- 1Sa_15:23como p de adivinación es la rebeliónH2403
+- 1Sa_15:24Saúl dijo...Perdona, pues, ahora mi pH2403
+- 1Sa_20:1o cuál mi p contra tu padre, para queH2403
+- 1Sa_25:24y dijo: Señor mío, sobre mí sea el pH5771
+- 2Sa_3:8haces hoy cargo del p de esta mujer?[[H5771]]
+- 2Sa_12:13Jehová ha remitido tu p; no morirásH2403
+- 2Sa_14:32vea yo...rey, y si hay en mí p, mátemeH5771
+- 2Sa_24:10te ruego que quites el p de tu siervoH5771
+- 1Re_8:34perdonarás el p de tu pueblo IsraelH2403
+- 1Re_8:35volvieren del p, cuando los afligieresH2403
+- 1Re_8:36perdonarás el p de tus siervos y de tuH2403
+- 1Re_12:30fue causa de p; porque el pueblo iba aH2403
+- 1Re_13:34fue causa de p a la casa de JeroboamH2403
+- 1Re_14:16y él entregará a Israel por los p deH2398
+- 1Re_14:22habían hecho en sus p que cometieronH2403
+- 1Re_15:3anduvo en todos los p que su padre habíaH2403
+- 1Re_15:26en los p con que hizo pecar a IsraelH2403
+- 1Re_15:30por los p que Jeroboam había cometidoH2398
+- 1Re_15:34y en su p con que hizo pecar a IsraelH2403
+- 1Re_16:2has hecho...provocándome a ira con tus pH2398
+- 1Re_16:13por todos los p de Baasa y los p de ElaH2398
+- 1Re_16:19p que había cometido, haciendo pecarH2403
+- 1Re_16:19en su p que cometió, haciendo pecar aH2398
+- 1Re_16:26en el p con el cual hizo pecar a IsraelH2403
+- 1Re_16:31; 2Re 3:3; 10:29; 13:2,11; 14:24H2398
+- 1Re_15:9, 1Re_15:18, 1Re_15:24, 1Re_15:28los p de Jeroboam hijo de NabatH2398
+- 2Re_10:31ni se apartó de los p de JeroboamH2398
+- 2Re_12:16el dinero por el p...no se llevaba a laH817
+- 2Re_13:6no se apartaron de los p de las casa deH2398
+- 2Re_14:6que cada uno morirá por su propio pH2399
+- 2Re_17:21Jeroboam hijo...les hizo cometer gran pH2398
+- 2Re_17:22anduvieron en todos los p de JeroboamH2403
+- 2Re_21:16además de su p...que hizo pecar a JudáH2403
+- 2Re_21:17hechos de Manasés...y el p que cometióH2403
+- 2Re_24:3quitarla de su presencia, por los p deH2403
+- 1Cr_21:3¿para qué...que será para p a Israel?[[H819]]
+- 2Cr_6:25perdonarás el p de tu pueblo IsraelH2403
+- 2Cr_6:26y se convirtieren de sus p, cuando losH2403
+- 2Cr_6:27perdonarás el p de tus siervos y de tuH2403
+- 2Cr_7:14y perdonaré sus p, y sanaré su tierraH2403
+- 2Cr_24:18la ira de Dios vino sobre...este su pH819
+- 2Cr_25:4los padres; mas cada uno morirá por su pH2399
+- 2Cr_28:13p contra Jehová estará sobre nosotrosH819
+- 2Cr_28:13tratáis de añadir sobre nuestros p yH2403
+- 2Cr_28:22rey Acaz...añadió mayor p contra JehováH4603
+- 2Cr_33:19sus p, y su prevaricación...escritas en
+- 2Cr_33:23pero nunca se...antes bien aumentó el pH819
+- Esd_9:2ha sido la primera en cometer este pH4604
+- Esd_9:7hasta este día hemos vivido en gran pH819
+- Esd_9:13causa de nuestro gran p, ya que tú, DiosH819
+- Esd_10:6porque se entristeció a causa del p deH4604
+- Esd_10:10habéis pecado...añadiendo así sobre el pH819
+- Esd_10:19y ofrecieron como ofrenda por su p unH819
+- Neh_1:6confieso los p de los hijos de IsraelH2403
+- Neh_4:5su iniquidad, ni su p sea borrado delanteH2403
+- Neh_9:2confesaron sus p, y las iniquidades deH2403
+- Neh_9:3confesaron sus p y adoraron a Jehová su
+- Neh_9:37has puesto sobre nosotros por nuestros pH2403
+- Neh_10:33y los sacrificios...por el p de IsraelH2403
+- Job_8:4pecaron...los echó en el lugar de su pH2398
+- Job_10:6para que inquieras mi...y busques mi pH2403
+- Job_13:23¿cuántas iniquidades y p tengo yo?[[H2403]]
+- Job_13:23hazme entender mi transgresión y mi pH2403
+- Job_13:26me haces cargo de los p de mi juventud?[[H5771]]
+- Job_14:16me cuentas los...no das tregua a mi pH2403
+- Job_31:30ni aun...al p mi lengua, pidiendoH2398
+- Job_34:37a su p añadió rebeldía; bate palmasH2403
+- Sal_25:7de los p de mi juventud...rebelionesH2403
+- Sal_25:11perdonarás también mi p, que es grandeH2403
+- Sal_25:18mira mi aflicción...perdona todos mis pH2403
+- Sal_32:1cuya...ha sido perdonada, y cubierto su pH2401
+- Sal_32:5mi p...declaré, y no encubrí mi iniquidadH2403
+- Sal_32:5dije...y tú perdonaste la maldad de mi pH2403
+- Sal_38:3ni hay paz en mis huesos, a causa de...pH2403
+- Sal_38:18confesaré mi...me contristaré por mi pH2403
+- Sal_39:11castigos por el p corriges al hombreH5771
+- Sal_51:2lávame más y más de...y límpiame de mi pH2403
+- Sal_51:3porque...mi p está siempre delante de míH2403
+- Sal_51:5en maldad...y en p me concibió mi madreH2399
+- Sal_51:9esconde tu rostro mis p, y borra todasH2399
+- Sal_59:3no por falta mía, ni p mío, oh JehováH2403
+- Sal_59:12por el p de su boca, por la palabra deH2403
+- Sal_68:21la cabeza de...del que camina en sus pH817
+- Sal_69:5tú conoces...y mis p no te son ocultosH819
+- Sal_79:9perdona nuestros p por amor de...nombreH2403
+- Sal_85:2tu pueblo; todos los p de ellos cubristeH2403
+- Sal_103:10ni nos ha pagado conforme a nuestros pH2399
+- Sal_109:7salga culpable...y su oración sea para pH2401
+- Sal_109:14y el p de su madre no sea borradoH2403
+- Sal_130:3si mirares a los p, ¿quién, oh SeñorH5771
+- Sal_130:8y él redimirá a Israel de todos sus pH5771
+- Pro_5:22retenido será con las cuerdas de su pH2403
+- Pro_10:16vida; mas el fruto del impío es para pH2403
+- Pro_10:19en las muchas palabras no falta p; masH6588
+- Pro_11:6los pecadores serán atrapados en su pH1942
+- Pro_14:9los necios se mofan del p; mas entre losH817
+- Pro_14:34mas el p es afrenta de las nacionesH2403
+- Pro_16:6con misericordia y verdad...corrige el pH5771
+- Pro_20:9podrá decir: Yo...limpio estoy de mi p?[[H2403]]
+- Pro_21:4orgullo...y pensamiento de impíos, son pH2403
+- Pro_24:9pensamiento...necio es p, y abominaciónH2403
+- Pro_28:13el que encubre sus p no prosperará; masH6588
+- Isa_1:18si vuestros p fueren como la granaH2399
+- Isa_3:9porque como Sodoma publican su p, no loH2403
+- Isa_5:18traen...el p como en coyundas de carretaH2402
+- Isa_6:7he aquí...quitada tu culpa, y limpio tu pH2403
+- Isa_22:14este p no os será perdonado hasta queH5771
+- Isa_24:20se agravará sobre ella su p, y caeráH6588
+- Isa_27:9será todo el fruto, la remoción de su pH2403
+- Isa_30:1hijos que se apartan...añadiendo p a p![[H2403]]
+- Isa_30:13este p como grieta que amenaza ruinaH5771
+- Isa_38:17echaste tras tus espaldas todos mis pH2399
+- Isa_40:2decidle a voces...que su p es perdonadoH2403
+- Isa_40:2que doble ha recibido...por todos sus pH2403
+- Isa_43:24sino pusiste sobre mí la carga de tus pH2403
+- Isa_43:25borro tus...y no me acordaré de tus pH2403
+- Isa_44:22deshice...como niebla tus p; vuélvete aH2403
+- Isa_53:5herido fue por...molido por nuestros pH5771
+- Isa_53:6mas Jehová cargó en él el p de...nosotrosH5771
+- Isa_53:10puesto su vida en expiación por el pH817
+- Isa_53:12habiendo él llevado el p de muchos, yH2399
+- Isa_58:1su rebelión, y a la casa de Jacob su pH2403
+- Isa_59:2vuestros p han hecho ocultar...su rostroH2403
+- Isa_59:12y nuestros p han atestiguado contraH2403
+- Isa_59:12iniquidades, y conocemos nuestros pH2403
+- Isa_64:5en...p hemos perseverado por largo tiempoH2403
+- Jer_2:22la mancha de tu p permanecerá aúnH5771
+- Jer_5:25y vuestros p apartaron de vosotros elH2403
+- Jer_14:10se acordará...maldad, y castigará sus pH2403
+- Jer_15:13entregaré a la rapiña...por todos tus pH2403
+- Jer_16:10¿qué maldad es la nuestra, o qué p esH2403
+- Jer_16:18pagaré al doble su iniquidad y su pH2403
+- Jer_17:1el p de Judá escrito está con cincel deH2403
+- Jer_17:3todos tus tesoros entregaré al...por el pH2403
+- Jer_18:23ni borres su p de delante de tu rostroH2403
+- Jer_30:14a causa de...y de la multitud de tus pH2403
+- Jer_30:15por...y por tus muchos p te he hecho estoH2403
+- Jer_31:34perdonaré...no me acordaré más de su pH2403
+- Jer_33:8todos sus p con que contra mí pecaronH5771
+- Jer_36:3se arrepienta...y yo perdonaré su...y su pH2403
+- Jer_50:20buscada...p de Judá, y no se hallaránH2403
+- Jer_51:5su tierra fue llena de p contra el SantoH817
+- Lam_1:8p cometió Jerusalén, por lo cual ellaH2398
+- Lam_2:14y no descubrieron tu p para impedir tuH5771
+- Lam_3:39se lamenta...Laméntese el hombre en su pH2399
+- Lam_4:6la iniquidad de...más que el p de Sodoma
+- Lam_4:13es por causa de los p de sus profetasH2403
+- Lam_4:22castigará tu iniquidad, oh...Edom...tus pH2403
+- Eze_3:20en su p morirá, y sus justicias queH2403
+- Eze_16:51Samaria no cometió ni la mitad de tus pH2403
+- Eze_16:52tu vergüenza en los p que tú hicisteH2403
+- Eze_18:14cual viere todos los p que su padre hizoH2403
+- Eze_18:19el hijo no llevará el p de su padre?[[H5771]]
+- Eze_18:20el hijo no llevará el p del padre, niH5771
+- Eze_18:20ni el padre llevará el p del hijo; laH5771
+- Eze_18:21el impío, si se apartare de todos sus pH2403
+- Eze_18:24por el p que cometió, por ello moriráH2403
+- Eze_20:43os aborreceréis a...a causa de todos...pH7451
+- Eze_21:24traiciones, y descubriendo vuestros pH2403
+- Eze_23:49y pagaréis los p de vuestra idolatríaH2399
+- Eze_29:16haga recordar el p de mirar en pos deH5771
+- Eze_32:27mas sus p estarán sobre sus huesos, porH5771
+- Eze_33:6éste fue tomado por causa de su p, peroH5771
+- Eze_33:8tú no hablares...el impío morirá por su pH5771
+- Eze_33:9él morirá por su p, pero tú libraste tu
+- Eze_33:10nuestros p están sobre nosotros, y aH2403
+- Eze_33:14si él se convirtiere de su p, e hiciereH2403
+- Eze_33:16no se le recordará ninguno de sus p queH2403
+- Eze_39:23de Israel fue llevada cautiva por su pH5771
+- Eze_40:39para degollar...el sacrificio por el pH2403
+- Eze_42:13allí pondrán las...el sacrificio por el pH2403
+- Eze_43:10muestra a la...y avergüéncense de sus pH5771
+- Eze_44:29el sacrificio por el p comerán, y todaH2403
+- Eze_45:22sacrificará por sí...un becerro por el pH2403
+- Eze_45:23y por el p un macho cabrío cada díaH2403
+- Eze_46:20donde...cocerán la ofrenda por el p y laH2403
+- Dan_4:27oh rey...tus p redime con justicia, yH2408
+- Dan_9:16a causa de nuestros p, y por la maldadH2399
+- Dan_9:20y confesando mi p y el p de mi puebloH2403
+- Dan_9:24y poner fin al p, y expiar la iniquidadH2403
+- Ose_4:8p de mi pueblo comen, y en sus maldadH2403
+- Ose_5:5cara; Israel y Efraín tropezarán en su pH5771
+- Ose_5:15hasta que reconozcan su p y busquen miH816
+- Ose_8:13ahora se acordará de...y castigará su pH2403
+- Ose_9:9acordará de su iniquidad, castigará su pH2403
+- Ose_10:8de Avén serán destruidos, el p de IsraelH2403
+- Ose_12:8nadie hallará...p en todos mis trabajosH5771
+- Ose_13:2añadieron a su p, y de su plata se hanH2398
+- Ose_13:12la maldad de Efraín; su p está guardadoH5771
+- Ose_14:1vuelve, oh Israel, a...por tu p has caídoH5771
+- Amó_1:3, Amó_1:6, Amó_1:9, Amó_1:11, Amó_1:13; Amó_2:1, Amó_2:4, Amó_2:6por tres p de...y por el cuartoH6588
+- Amó_5:12porque yo sé de...de vuestros grandes pH2403
+- Amó_8:14que juran por el p de Samaria, y dicenH819
+- Miq_1:5esto...y por los p de la casa de IsraelH2403
+- Miq_1:13fuisteis principio de p a la hija de SionH2403
+- Miq_3:8para denunciar a Jacob...y a Israel su pH2403
+- Miq_6:7el fruto de mis entrañas por el p de miH2403
+- Miq_6:13hice...hiriéndote, asolándote por tus pH2403
+- Miq_7:18olvida el p del remanente de su heredadH5771
+- Miq_7:19echará en lo profundo del mar todos...pH2403
+- Zac_3:4mira que he quitado de ti tu p, y teH5771
+- Zac_3:9y quitaré el p de la tierra en un díaH5771
+- Zac_13:1la purificación del p y de la inmundiciaH2403
+- Zac_14:19esta será la pena del p de Egipto, yH2403
+- Zac_14:19y del p de...naciones que no subieren aH2403
+- Mat_1:21porque él salvará a su pueblo de sus pG266
+- Mat_3:6eran bautizados por él...confesando sus pG266
+- Mat_9:2ten ánimo, hijo; tus p te son perdonadosG266
+- Mat_9:5decir: Los p te son perdonados, o decirG266
+- Mat_9:6potestad en la tierra para perdonar pG266
+- Mat_12:31todo p y blasfemia será perdonado a losG266
+- Mat_26:28es derramada para remisión de los pG266
+- Mar_1:4predicaba el bautismo de...perdón de pG266
+- Mar_1:5eran bautizados por él...confesando sus pG266
+- Mar_2:5dijo al...Hijo, tus p te son perdonadosG266
+- Mar_2:7¿quién puede perdonar p, sino sólo Dios?[[G266]]
+- Mar_2:9p te son perdonados, o...Levántate, tomaG266
+- Mar_2:10potestad en la tierra para perdonar pG266
+- Mar_3:28todos los p serán perdonados a los hijosG266
+- Mar_4:12conviertan, y les sean perdonados los pG266
+- Luc_1:77dar...salvación...para perdón de sus pG266
+- Luc_3:3del arrepentimiento para perdón de pG266
+- Luc_5:20le dijo: Hombre, tus p te son perdonadosG266
+- Luc_5:21¿quién puede perdonar p sino sólo Dios?[[G266]]
+- Luc_5:23decir: Tus p te son perdonados, o decirG266
+- Luc_5:24el Hijo...tiene potestad...para perdonar pG266
+- Luc_7:47digo que sus muchos p le son perdonadosG266
+- Luc_7:48a ella le dijo: Tus p te son perdonadosG266
+- Luc_7:49¿quién es éste, que también perdona p?[[G266]]
+- Luc_11:4y perdónanos nuestros p, porque tambiénG266
+- Luc_24:47predicase en su nombre el perdón de pG266
+- Jua_1:29el Cordero...que quita el p del mundoG266
+- Jua_8:7esté sin p sea el primero en arrojar laG361
+- Jua_8:21buscaréis, pero en vuestro p moriréisG266
+- Jua_8:24eso os dije que moriréis en vuestros pG266
+- Jua_8:34todo aquel que hace p, esclavo es del pG266
+- Jua_8:46¿quién de vosotros me redarguye de p?[[G266]]
+- Jua_9:34naciste del todo en p, ¿y nos enseñasG266
+- Jua_9:41si fuerais ciegos, no tendríais p; masG266
+- Jua_9:41porque decís: Vemos, vuestro p permaneceG266
+- Jua_15:22ni les hubiera hablado, no tendrían pG266
+- Jua_15:22pero ahora no tienen excusa por su pG266
+- Jua_15:24si yo no hubiese hecho...no tendrían pG266
+- Jua_16:8él venga, convencerá al mundo de p, deG266
+- Jua_16:9de p, por cuanto no creen en míG266
+- Jua_19:11que a ti me ha entregado, mayor p tieneG266
+- Jua_20:23a quienes remitiereis los p, les sonG266
+- Hec_2:38bautícese cada uno...perdón de los pG266
+- Hec_3:19para que sean borrados vuestros p; paraG266
+- Hec_5:31para dar...arrepentimiento y perdón de pG266
+- Hec_7:60Señor, no les tomes en cuenta este PG266
+- Hec_10:43en él creyeren, recibirán perdón de pG266
+- Hec_13:38medio de él se os anuncia perdón de pG266
+- Hec_22:16levántate y bautízate, y lava tus pG266
+- Hec_26:18que reciban, por la fe...perdón de p yG266
+- Rom_3:9judíos y a gentiles, que...están bajo pG266
+- Rom_3:20por medio de...es el conocimiento del pG266
+- Rom_3:25de haber pasado por alto...los p pasadosG265
+- Rom_4:7son perdonadas, y cuyos p son cubiertosG266
+- Rom_4:8el varón a quien el Señor no inculpa de pG266
+- Rom_5:12el p entró en el mundo por un hombre, yG266
+- Rom_5:12por el p la muerte, así la muerte pasóG266
+- Rom_5:13pues antes de la ley, había p en el mundoG266
+- Rom_5:13pero donde no hay ley, no se inculpa de pG266
+- Rom_5:16el juicio vino a causa de un solo p paraG266
+- Rom_5:20ley se introdujo para que el p abundaseG266
+- Rom_5:20mas cuando el p abundó, sobreabundó laG266
+- Rom_5:21para que así como el p reinó para muerteG266
+- Rom_6:1¿perseveraremos en el p...gracia crezca?[[G266]]
+- Rom_6:2porque los que hornos muerto al p, ¿cómoG266
+- Rom_6:6para que el cuerpo del p sea destruidoG266
+- Rom_6:6sea destruido...que no sirvamos más al pG266
+- Rom_6:7que ha muerto, ha sido justificado del pG266
+- Rom_6:10en cuanto murió, al p murió una vez porG266
+- Rom_6:11así...consideraos muertos al p, pero vivosG266
+- Rom_6:12no reine...el p en vuestro cuerpo mortalG266
+- Rom_6:13tampoco presentéis...miembros al p comoG266
+- Rom_6:14el p no se enseñoreará de vosotros; puesG266
+- Rom_6:16del p para muerte, o sea de la obedienciaG266
+- Rom_6:17erais esclavos del p, habéis obedecidoG266
+- Rom_6:18y libertados del p, vinisteis a serG266
+- Rom_6:20esclavos del p, erais libres acerca deG266
+- Rom_6:22libertados del p y hechos siervos de DiosG266
+- Rom_6:23porque la paga del p es muerte, mas laG266
+- Rom_7:7¿qué diremos, pues? ¿La ley es p? EnG266
+- Rom_7:7pero yo no conocí el p sino por la leyG266
+- Rom_7:8el p, tomando ocasión por el mandamientoG266
+- Rom_7:8porque sin la ley el p está muertoG266
+- Rom_7:9pero venido el mandamiento, el p revivióG266
+- Rom_7:11el p, tomando ocasión por el mandamientoG266
+- Rom_7:13que el p, para mostrarse p, produjo en míG266
+- Rom_7:13p llegase a ser sobremanera pecaminosoG266
+- Rom_7:14la ley es...yo soy carnal, vendido al pG266
+- Rom_7:17ya no soy yo quien hace...sino el p queG266
+- Rom_7:20no lo hago yo, sino el p que mora en míG266
+- Rom_7:23que me lleva cautivo a la ley del p queG266
+- Rom_7:25sirvo...mas con la carne a la ley del pG266
+- Rom_8:2ha librado de la ley del p y de la muerteG266
+- Rom_8:3Dios, enviando a su Hijo en...carne de pG266
+- Rom_8:3a causa del p, condenó al p en la carneG266
+- Rom_8:10el cuerpo en...está muerto a causa del pG266
+- Rom_11:27pacto con ellos, cuando yo quite sus pG266
+- Rom_14:23y todo lo que no proviene de fe, es pG266
+- 1Co_6:18cualquier otro p...fuera del cuerpoG266
+- 1Co_15:3Cristo murió por nuestros p, conforme aG266
+- 1Co_15:17fe es vana; aún estáis en vuestros pG266
+- 1Co_15:56el aguijón...es el p, y el poder del pG266
+- 2Co_5:19no tomándoles en cuenta a los...sus pG3900
+- 2Co_5:21que no conoció p, por nosotros lo hizo pG266
+- Gál_1:4se dio a sí mismo por nuestros p, paraG266
+- Gál_2:17y si...¿es por eso Cristo ministro de p?[[G266]]
+- Gál_3:22mas la Escritura lo encerró todo bajo pG266
+- Efe_1:7el perdón de p según las riquezas de suG3900
+- Efe_2:1estabais muertos en vuestros delitos y pG266
+- Efe_2:5estando nosotros muertos en p, nos dioG3900
+- Col_1:14quien tenemos redención...perdón de pG266
+- Col_2:13y a vosotros, estando muertos en p y enG3900
+- Col_2:13os dio vida...perdonándoos todos los pG3900
+- 1Ts_2:16así colman ellos...la medida de sus pG266
+- 2Ts_2:3se manifieste el hombre de p, el hijoG266
+- 1Ti_5:22a ninguno, ni participes en p ajenosG266
+- 1Ti_5:24p de algunos hombres se hacen patentesG266
+- 2Ti_3:6cautivas...mujercillas cargadas de pG266
+- Heb_1:3purificación de nuestros p por medio deG266
+- Heb_2:17sacerdote...para expiar los p del puebloG266
+- Heb_3:13ninguno...endurezca por el engaño del pG266
+- Heb_4:15uno que fue tentado en todo...pero sin pG266
+- Heb_5:1para que presente ofrendas y...por los pG266
+- Heb_5:3debe ofrecer por los p, tanto por sí mismoG266
+- Heb_7:27ofrecer...sacrificios por sus propios pG266
+- Heb_8:12nunca más me acordaré de sus p y de susG266
+- Heb_9:7por sí mismo y por los p de ignoranciaG51
+- Heb_9:26de sí mismo para quitar de en medio el pG266
+- Heb_9:28fue ofrecido...para llevar los p de muchosG266
+- Heb_9:28aparecerá...sin relación con el p, paraG266
+- Heb_10:2vez, no tendrían ya más conciencia de pG266
+- Heb_10:3pero...cada año se hace memoria de los pG266
+- Heb_10:4la sangre de los...no puede quitar los pG266
+- Heb_10:6y expiaciones por el p no te agradaronG266
+- Heb_10:8y expiaciones por el p no quisiste, niG266
+- Heb_10:11sacrificios...nunca pueden quitar los pG266
+- Heb_10:12ofrecido...sacrificio por los p, se haG266
+- Heb_10:17añade...nunca más me acordaré de sus pG266
+- Heb_10:18remisión...no hay más ofrenda por el pG266
+- Heb_10:26ya no queda más sacrificio por los pG264
+- Heb_11:25gozar de los deleites temporales del pG266
+- Heb_12:1despojémonos de todo...p que nos asediaG266
+- Heb_12:4no habéis resistido hasta...contra el pG266
+- Heb_13:11sangre a causa del p es introducida enG266
+- Stg_1:15da a luz el p; y el p...da a luz laG266
+- Stg_2:9cometéis p, y quedáis convictos por laG266
+- Stg_4:17hacer lo bueno, y no lo hace, le es pG266
+- Stg_5:15hubiere cometido p, le serán perdonadosG266
+- Stg_5:20salvará...alma, y cubrirá multitud de pG266
+- 1Pe_2:22no hizo p, ni se halló engaño en suG266
+- 1Pe_2:24llevó él mismo nuestros p en su cuerpoG266
+- 1Pe_2:24estando muertos a los p, vivamos a laG266
+- 1Pe_3:18Cristo padeció una sola vez por los pG266
+- 1Pe_4:1quien ha padecido en...terminó con el pG266
+- 1Pe_4:8porque el amor cubrirá multitud de pG266
+- 2Pe_1:9olvidado la purificación de sus...pG266
+- 1Jn_1:7y la sangre de...nos limpia de todo pG266
+- 1Jn_1:8decimos que no tenemos p nos engañamosG266
+- 1Jn_1:9si confesamos nuestros p, el es fiel yG266
+- 1Jn_1:9es fiel y justo para perdonar nuestros pG266
+- 1Jn_2:2y él es la propiciación por nuestros pG266
+- 1Jn_2:12vuestros p os han sido perdonados por suG266
+- 1Jn_3:4que comete p, infringe también la leyG266
+- 1Jn_3:4la ley, pues el p es infracción de la leyG266
+- 1Jn_3:5para quitar nuestros p, y no hay p en élG266
+- 1Jn_3:8que practica el p es del diablo; porqueG266
+- 1Jn_3:9que es nacido de Dios, no practica el pG266
+- 1Jn_4:10su Hijo en propiciación por nuestros pG266
+- 1Jn_5:16alguno viere a su hermano cometer p queG264
+- 1Jn_5:16los que cometen p que no sea de muerteG266
+- 1Jn_5:16hay p de muerte, por el cual yo no digoG266
+- 1Jn_5:17toda injusticia es p; pero hay p no deG266
+- 1Jn_5:18nacido de Dios, no practica el p, puesG266
+- Rev_1:5y nos lavó de nuestros p con su sangreG266
+- Rev_18:4para que no seáis partícipes de sus pG266
+- Rev_18:5porque sus p han llegado hasta el cieloG266

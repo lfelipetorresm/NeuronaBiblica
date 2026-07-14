@@ -1,0 +1,2245 @@
+---
+tipo: concordancia
+palabra: VENIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VENIR
+
+- Gén_7:6el diluvio de las aguas vino sobre la
+- Gén_7:10las aguas del diluvio vinieron sobre la
+- Gén_7:15vinieron...con Noé al arca, de dos en dos
+- Gén_7:16los que vinieron, macho y hembra de...v
+- Gén_9:14cuando haga venir nubes sobre la tierraH935
+- Gén_11:31y vinieron hasta Harán, y se quedaronH935
+- Gén_13:18Abram, pues...vino y moró en el encinarH935
+- Gén_14:5en el año decimocuarto vino QuedorlaomerH935
+- Gén_14:7volvieron y vinieron a En-mispat, que esH935
+- Gén_14:13y vino uno de los que escaparon, y loH935
+- Gén_15:1vino la palabra de Jehová a Abram enH1961
+- Gén_15:4vino a él palabra de Jehová, diciendo: No
+- Gén_15:15tú vendrás a tus padres en paz, y serásH935
+- Gén_16:8dijo...¿de dónde vienes tú, y a dónde vas?[[H935]]
+- Gén_17:16madre...reyes de pueblos vendrán de ella
+- Gén_17:21Sara...te dará a luz...el año que vieneH312
+- Gén_18:19haga venir Jehová sobre Abraham lo que
+- Gén_18:21según el clamor que ha venido hasta míH935
+- Gén_19:2os ruego que vengáis a casa de vuestro
+- Gén_19:5¿dónde están los varones que vinieron aH935
+- Gén_19:8que vinieron a la sombra de mi tejadoH935
+- Gén_19:9vino este extraño para habitar entreH935
+- Gén_19:32ven, demos de beber vino a nuestro padreH3212
+- Gén_20:3vino a Abimelec en sueños de noche, y leH935
+- Gén_23:2y vino Abraham a hacer duelo por SaraH935
+- Gén_24:5quizá la mujer no querrá venir en pos de
+- Gén_24:8la mujer no quisiere venir en pos de ti
+- Gén_24:30vino a él; y he aquí que estaba con losH935
+- Gén_24:31dijo: Ven, bendito de Jehová: ¿por quéH935
+- Gén_24:32el hombre vino a casa, y Labán desatóH935
+- Gén_24:32pies de los hombres que con él venían
+- Gén_24:62venía...del pozo del Viviente que me veH935
+- Gén_24:63miró, y he aquí los camellos que veníanH935
+- Gén_24:65¿quién es este varón que viene por el
+- Gén_25:18enfrente de Egipto viniendo a Asiria
+- Gén_26:26Abimelec vino a él desde Gerar...Ficol
+- Gén_26:27y les dijo Isaac: ¿Por qué venís a míH935
+- Gén_26:32que vinieron los criados de Isaac, y leH935
+- Gén_27:33¿quién es el que vino aquí...que trajo
+- Gén_27:33y comí de todo antes que tú vinieses?[[H935]]
+- Gén_27:35vino tu hermano con engaño, y tomó tuH935
+- Gén_29:6aquí Raquel su hija viene con las ovejasH935
+- Gén_29:9Raquel vino con el rebaño de su padreH935
+- Gén_29:25venida la mañana, he aquí que era LeaH1961
+- Gén_30:11y dijo Lea: Vino la ventura: y llamó suH935
+- Gén_30:33cuando vengas a reconocer mi salarioH935
+- Gén_30:38venían a beber las...procreaban cuando vH935
+- Gén_30:42cuando venían las ovejas más débiles, no
+- Gén_31:24y vino Dios a Labán arameo en sueñosH935
+- Gén_31:36ardor hayas venido en mi persecución?
+- Gén_31:44ven, pues, ahora, y hagamos pacto tú yH3213
+- Gén_32:6vinimos a tu hermano Esaú, y el...vieneH935
+- Gén_32:8si viene Esaú contra un campamento y loH935
+- Gén_32:11no venga acaso y me hiera la madre conH935
+- Gén_32:13de lo que le vino a la mano un presenteH935
+- Gén_32:18Esaú; y también él viene tras nosotros
+- Gén_32:20aquí tu siervo Jacob viene tras nosotros
+- Gén_33:1y he aquí venía Esaú, y los 400 hombresH935
+- Gén_33:6vinieron las siervas, ellas y sus niñosH5066
+- Gén_33:7vino Lea con sus niños, y se inclinaronH5066
+- Gén_33:15contigo de la gente que viene conmigo
+- Gén_33:18cuando venía de Padan-aram; y acampóH935
+- Gén_34:5oyó...calló Jacob hasta que ellos viniesenH935
+- Gén_34:7y los hijos de Jacob vinieron del campoH935
+- Gén_34:20hijo vinieron a la puerta de su ciudadH935
+- Gén_34:25vinieron contra la ciudad, que estabaH935
+- Gén_34:27hijos de Jacob vinieron a los muertosH935
+- Gén_35:27vino Jacob a Isaac su padre a Mamre, aH935
+- Gén_36:17estos hijos vienen de Basemat mujer de
+- Gén_37:10vendremos yo y...a postrarnos en tierraH935
+- Gén_37:13tus hermanos...ven, y te enviaré a ellosH3212
+- Gén_37:19uno al otro: He aquí viene el soñadorH935
+- Gén_37:20venid, y matémosle y echémosle en unaH3212
+- Gén_37:25una compañía de ismaelitas que venía deH935
+- Gén_37:27venid, y vendámosle a los ismaelitasH3212
+- Gén_39:14vino él a mí para dormir conmigo, y yoH935
+- Gén_39:16la ropa de José, hasta que vino su señorH935
+- Gén_39:17el siervo...vino a mí para deshonrarmeH935
+- Gén_40:6vino a ellos José por la mañana, y losH935
+- Gén_41:14y mudó sus vestidos, y vino a FaraónH935
+- Gén_41:29vienen siete años de gran abundancia enH935
+- Gén_41:35junten...de estos buenos años que vienenH935
+- Gén_41:50nacieron...dos hijos antes que vinieseH935
+- Gén_41:54comenzaron a venir los siete años delH935
+- Gén_41:57venían a Egipto para comprar de JoséH935
+- Gén_42:5vinieran los hijos de Israel a comprarH935
+- Gén_42:5a comprar entre los que venían; porqueH935
+- Gén_42:7y les dijo: ¿De dónde habéis venido?[[H935]]
+- Gén_42:9, Gén_42:12ver lo descubierto del...habéis venidoH935
+- Gén_42:10siervos han venido a comprar alimentosH935
+- Gén_42:15cuando vuestro hermano menor viniereH935
+- Gén_42:21ha venido sobre nosotros esta angustiaH935
+- Gén_42:29venidos a Jacob su padre en tierra deH935
+- Gén_43:7nos diría: Haced venir a vuestro hermano?
+- Gén_43:25prepararon...entretanto que venía JoséH935
+- Gén_43:26vino José a casa, y ellos le trajeronH935
+- Gén_44:3venida la mañana, los hombres fueron
+- Gén_44:14vino Judá con sus hermanos a casa deH935
+- Gén_45:9dice tu hijo...ven a mí, no te detengasH3381
+- Gén_45:16los hermanos de José han venido...Y estoH935
+- Gén_45:18tomad a vuestro padre y a...y venid a míH935
+- Gén_45:19manda...y traed a vuestro padre, y venidH935
+- Gén_46:1salió Israel con todo...vino a BeersebaH935
+- Gén_46:6tomaron sus ganados...vinieron a EgiptoH935
+- Gén_46:26las personas que vinieron con Jacob aH935
+- Gén_46:28para que le viniese a ver en Gosén; yH935
+- Gén_46:29José...vino a recibir a Israel su padre
+- Gén_46:31mis hermanos y...padre...han venido a míH935
+- Gén_47:1vino José y lo hizo saber a Faraón, yH935
+- Gén_47:1mi padre y...han venido de la tierra deH935
+- Gén_47:4para morar en esta tierra hemos venidoH935
+- Gén_47:5tu padre y tus hermanos han venido a tiH935
+- Gén_47:15vino todo Egipto a José, diciendo: DanosH935
+- Gén_47:18año, vinieron a él el segundo año, y leH935
+- Gén_48:2le hizo saber...tu hijo José viene a tiH935
+- Gén_48:5que te nacieron...antes que viniese a tiH935
+- Gén_48:7porque cuando yo venía de Padan-aram, seH935
+- Gén_48:7como media legua de...viniendo a EfrataH935
+- Gén_49:10no será quitado...hasta que venga SilohH935
+- Gén_50:18vinieron...sus hermanos y se postraron
+- Éxo_1:10acontezca que viniendo guerra...se una a
+- Éxo_1:19y dan a luz antes que la partera vengaH935
+- Éxo_2:16vinieron a sacar agua para llenar lasH935
+- Éxo_2:17los pastores vinieron y las echaron deH935
+- Éxo_2:18¿por qué habéis venido hoy tan pronto?[[H935]]
+- Éxo_3:9el clamor, pues...ha venido delante de míH935
+- Éxo_5:3que no venga sobre nosotros con peste o
+- Éxo_5:15los capataces de los...vinieron a FaraónH935
+- Éxo_5:23desde que yo vine a Faraón para hablarleH935
+- Éxo_7:10vinieron, pues, Moisés y Aarón a Faraón
+- Éxo_8:7hicieron venir ranas sobre la tierra de
+- Éxo_8:24vino toda clase de moscas molestísimasH935
+- Éxo_9:22que venga granizo en toda la tierra de
+- Éxo_10:3vinieron Moisés y Aarón a Faraón, y leH935
+- Éxo_10:13y al venir la mañana el viento oriental
+- Éxo_14:10aquí que los egipcios venían tras ellos
+- Éxo_16:1la congregación...vino al desierto de SinH935
+- Éxo_16:13y venida la tarde, subieron codornicesH1961
+- Éxo_16:22vinieron y...lo hicieron saber a MoisésH935
+- Éxo_17:8vino Amalec y peleó contra Israel enH935
+- Éxo_18:5y Jetro el...vino a Moisés en el desiertoH935
+- Éxo_18:6yo tu suegro...vengo a ti, con tu mujerH935
+- Éxo_18:7salió a recibir, y vinieron a la tiendaH935
+- Éxo_18:15pueblo viene a mí para consultar a DiosH935
+- Éxo_18:16vienen a mí; y yo juzgo entre el uno yH935
+- Éxo_19:7vino Moisés...y llamó a los ancianos delH935
+- Éxo_19:9yo vengo...en una nube...que el pueblo oigaH935
+- Éxo_19:16cuando vino la mañana, vinieron truenosH935
+- Éxo_20:20no temáis...para probaros vino Dios, yH935
+- Éxo_20:24mi nombre, vendré a ti y te bendeciréH935
+- Éxo_22:9la causa...vendrá delante de los juecesH935
+- Éxo_24:3Moisés vino y contó al pueblo...palabrasH935
+- Éxo_29:30cuando venga al tabernáculo de reuniónH935
+- Éxo_34:34cuando venía Moisés delante de Jehová
+- Éxo_35:10sabio de...vendrá y hará todas las cosasH935
+- Éxo_35:21y vino todo varón a quien su corazónH935
+- Éxo_35:22vinieron...hombres como mujeres, todosH935
+- Éxo_36:2le movió a venir a la obra para trabajarH7126
+- Éxo_36:4vinieron todos los maestros que hacíanH935
+- Lev_9:5y vino toda la congregación y se puso
+- Lev_12:4ni vendrá al santuario, hasta cuando seanH935
+- Lev_13:16la carne...entonces vendrá al sacerdoteH935
+- Lev_14:35vendrá aquel de quien fuere la casa yH935
+- Lev_15:14vendrá delante de Jehová a la puerta delH935
+- Lev_15:32viniendo a ser inmundo a causa de ello
+- Lev_16:23después vendrá Aarón al tabernáculo deH935
+- Lev_22:5hombre por el cual venga a ser inmundo
+- Lev_25:8de años vendrán a serte cuarenta y nueve
+- Lev_25:22que venga su fruto, comeréis del añejoH935
+- Lev_25:25vendrá y rescatará lo que su hermanoH935
+- Núm_4:5vendrán Aarón...y desarmarán el velo deH935
+- Núm_4:15vendrán después de ello...hijos de CoatH935
+- Núm_4:19Aarón...vendrán y los pondrán...su oficio
+- Núm_5:14si viniere sobre él espíritu de celosH5674
+- Núm_6:13vendrá a la puerta del tabernáculo de
+- Núm_8:15de eso vendrán los levitas a ministrar en
+- Núm_8:22vinieron después los levitas para ejercer
+- Núm_9:6y vinieron delante de Moisés y...de AarónH7126
+- Núm_10:29ven con nosotros, y te haremos bienH3212
+- Núm_10:32si vienes con nosotros...te haremos bien
+- Núm_11:26éstos...no habían venido al tabernáculo
+- Núm_11:31y vino un viento de Jehová...codornices
+- Núm_13:22y subieron al...y vinieron hasta HebrónH935
+- Núm_13:26vinieron a Moisés y a Aarón, y a toda la935
+- Núm_16:13que nos hayas hecho venir de una tierra
+- Núm_16:43y vinieron Moisés y Aarón delante delH935
+- Núm_17:8aconteció...el día siguiente vino Moisés
+- Núm_17:13el que viniere al tabernáculo...moriráH7131
+- Núm_18:5que no venga más la ira sobre...de Israel
+- Núm_20:4¿por qué hiciste venir la congregación
+- Núm_20:14has sabido...trabajo que nos ha venido
+- Núm_20:22partiendo de...vinieron al monte de HorH935
+- Núm_21:1que venía Israel por el camino de AtarimH935
+- Núm_21:7vino a Moisés y dijo: Hemos pecado porH935
+- Núm_21:16de allí vinieron a Beer...es el pozo del
+- Núm_21:18cavaron...Del desierto vinieron a Matana
+- Núm_21:23y vino a Jabaza y peleó contra IsraelH935
+- Núm_21:27dicen los proverbistas: Venid a HesbónH935
+- Núm_22:6, Núm_22:11, Núm_22:17ven, pues...maldíceme este puebloH3212
+- Núm_22:9y vino Dios a Balaam, y le dijo: ¿QuéH935
+- Núm_22:14príncipes de Moab...vinieron a Balac y
+- Núm_22:14Balac y dijeron: Balaam no quiso venirH1980
+- Núm_22:16cuales vinieron a Balaam, y le dijeronH935
+- Núm_22:16te ruego que no dejes de venir a míH1980
+- Núm_22:20vino Dios a Balaam de noche, y le dijoH935
+- Núm_22:20si vinieron para llamarte estos hombresH935
+- Núm_22:36oyendo Balac que Balaam venía, salió aH935
+- Núm_22:37¿por qué no has venido a mí? ¿No puedoH1980
+- Núm_22:38Balaam respondió...yo he venido a ti; masH935
+- Núm_23:3quizá Jehová me vendrá al encuentro, yH7136
+- Núm_23:4vino Dios al encuentro de Balaam, y ésteH7136
+- Núm_23:7ven...maldíceme a Jacob, y v, execra aH3212
+- Núm_23:13ruego que vengas conmigo a otro lugarH3212
+- Núm_23:17vino a él, y he aquí que él estaba juntoH935
+- Núm_23:27te ruego que vengas, te llevaré a otroH3212
+- Núm_24:2vio...y el Espíritu de Dios vino sobre élH1961
+- Núm_24:24vendrán naves de la costa de Quitim, y
+- Núm_25:6un varón de...vino y trajo una madianitaH935
+- Núm_27:1vinieron las hijas de Zelofehad hijo deH7126
+- Núm_31:21a los hombres...que venían de la guerra
+- Núm_31:48vinieron a Moisés los jefes de...millares
+- Núm_32:2vinieron pues, los hijos de Gad y losH935
+- Núm_32:9desalentaron, que no viniesen a la tierra
+- Núm_32:16entonces...vinieron a Moisés y dijeronH5066
+- Núm_33:9de Mara y vinieron a Elim, donde habíaH935
+- Núm_33:40que habían venido los hijos de IsraelH935
+- Núm_36:4y cuando viniere el jubileo de...Israel
+- Deu_1:22vinisteis a mí...vosotros, y dijisteisH7126
+- Deu_2:15la mano de Jehová vino sobre ellos para
+- Deu_4:34ha intentado Dios venir a tomar para sí
+- Deu_5:23vinisteis a mí, todos los príncipes deH7126
+- Deu_11:4aguas del Mar Rojo, cuando venían tras
+- Deu_12:26vendrás con ellas al lugar que Jehová
+- Deu_14:25y vendrás al lugar que Jehová tu Dios
+- Deu_14:29vendrá el levita, que no tiene parteH935
+- Deu_17:9vendrás a los sacerdotes levitas, y alH935
+- Deu_18:6viniere al lugar que Jehová escogiereH935
+- Deu_20:19no es hombre para venir contra ti en el
+- Deu_21:5entonces vendrán los sacerdotes hijos deH5506
+- Deu_25:8los ancianos, lo harán venir, y hablarán
+- Deu_27:9hoy has venido a ser pueblo de Jehová tu
+- Deu_28:2vendrán sobre ti todas estas bendicionesH935
+- Deu_28:15, Deu_28:45y vendrán...todas estas maldicionesH935
+- Deu_29:22y el extranjero que vendrá de lejanasH935
+- Deu_30:1que cuando hubieren venido...estas cosasH935
+- Deu_31:11viniere...Israel a presentarse delante deH935
+- Deu_31:17y vendrán sobre ellos muchos males y
+- Deu_31:17¿no me han venido estos males porque noH4672
+- Deu_31:21les vinieren muchos males y angustias
+- Deu_31:29os ha de venir mal en los postreros díasH7122
+- Deu_32:17a nuevos dioses venidos de cerca, que noH935
+- Deu_32:44vino Moisés y recitó todas las palabrasH935
+- Deu_33:2vino de Sinaí, y de Seir les esclarecióH935
+- Deu_33:2y vino de entre diez millares de santosH857
+- Deu_33:16la gracia...venga sobre la cabeza de JoséH935
+- Deu_33:21y vino en la delantera del pueblo; conH857
+- Jos_2:2hombres de...hijos de Israel han venidoH935
+- Jos_2:3a Rahab: Saca a los hombres que han venido
+- Jos_2:3han venido para espiar toda la tierraH935
+- Jos_2:4es verdad que unos hombres vinieron a míH935
+- Jos_2:23y vinieron a Josué hijo...y le contaronH935
+- Jos_3:1partieron de...y vinieron hasta el JordánH935
+- Jos_3:13las aguas que vienen...se detendrán enH3381
+- Jos_3:16las aguas que venían de...se detuvieronH3381
+- Jos_5:14mas como Príncipe del...he venido ahoraH935
+- Jos_8:19vinieron a la ciudad, y la tornaron, y seH935
+- Jos_9:6vinieron a Josué al campamento en Gilgal
+- Jos_9:6venimos de tierra muy lejana; haced, puesH935
+- Jos_9:8y Josué...¿Quiénes sois...y de dónde venís?[[H935]]
+- Jos_9:9siervos han venido de tierra muy lejanaH935
+- Jos_9:12el día que salimos para venir a vosotros
+- Jos_9:20no venga ira sobre nosotros por causa del
+- Jos_10:9Josué vino a ellos de repente, habiendoH935
+- Jos_10:24y dijo a los...que habían venido con él
+- Jos_11:5todos estos reyes...vinieron y acamparonH935
+- Jos_11:7y Josué...vino de repente contra ellosH935
+- Jos_11:20esto vino de Jehová, que endurecía el
+- Jos_11:21vino Josué y destruyó a los anaceos deH935
+- Jos_14:6hijos de Judá vinieron a Josué en GilgalH5966
+- Jos_14:14Hebrón vino a ser heredad de Caleb hijo
+- Jos_17:4vinieron delante del sacerdote EleazarH7126
+- Jos_21:1los levitas vinieron al sacerdote EleazarH5066
+- Jos_22:17este día...por la cual vino la mortandad
+- Jos_22:20y vino ira sobre toda la congregaciónH1961
+- Jos_22:27sea un testimonio...entre los que vendrán
+- Jos_22:28digan a nosotros, o a...en lo por venirH4279
+- Jos_23:15así como ha venido...toda palabra buenaH935
+- Jos_24:7hizo venir sobre ellos el mar, el cual
+- Jos_24:11pasasteis el...vinisteis a Jericó, y losH935
+- Jue_3:10el Espíritu de Jehová vino sobre élH1961
+- Jue_3:13vino e hirió a Israel, y tomó la ciudad
+- Jue_3:24vinieron todos los siervos del rey, losH935
+- Jue_4:12vinieron pues, a Sísara las nuevas de que
+- Jue_4:18ven, señor mío, vino a mí...Y él vino a ella
+- Jue_4:20y si alguien viniere, y te preguntareH935
+- Jue_4:22y le dijo: Ven, y te mostraré al varónH3212
+- Jue_5:14vinieron los radicados en Amalec, en pos
+- Jue_5:19vinieron reyes y pelearon; entoncesH935
+- Jue_5:23porque no vinieron al socorro de JehováH935
+- Jue_5:28dice: ¿Por qué tarda su carro en venir?[[H935]]
+- Jue_6:5venían con sus tiendas...así v a la tierraH5927
+- Jue_6:11y vino el ángel de Jehová, y se sentóH935
+- Jue_6:34el Espíritu de Jehová vino sobre GedeónH3847
+- Jue_8:4y vino Gedeón al Jordán, y pasó él y losH935
+- Jue_9:5y viniendo a la casa de su padre en Ofra
+- Jue_9:12la vid: Pues ven tú, reina sobre nosotrosH3212
+- Jue_9:15venid, abrigaos hijo de mi sombra; y siH935
+- Jue_9:26Gaal hijo de Ebed vino con sus hermanosH935
+- Jue_9:31Gaal hijo de Ebed...han venido a SiquemH935
+- Jue_9:37tropa viene por el camino de la encinaH3381
+- Jue_9:52vino Abimelec a la torre, y...prenderleH935
+- Jue_9:57vino sobre ellos la maldición de JotamH935
+- Jue_11:6y dijeron a Jefté: Ven, y serás nuestroH3212
+- Jue_11:7¿por qué, pues, venís ahora a mí cuandoH935
+- Jue_11:8vengas...y pelees contra los hijos de Amón
+- Jue_11:11Jefté vino con los ancianos de Galaad
+- Jue_11:12que has venido a mí para hacer guerraH935
+- Jue_11:18viniendo por el lado oriental de...MoabH935
+- Jue_11:29el Espíritu de Jehová vino sobre JeftéH1961
+- Jue_11:35tú...has venido a ser causa de mi dolor
+- Jue_13:6la mujer vino y se lo contó a su maridoH935
+- Jue_13:6un varón de Dios vino a mí, cuyo aspectoH935
+- Jue_13:8aquel varón de Dios...vuelva ahora a venirH935
+- Jue_13:10aquel varón que vino a mí el otro díaH935
+- Jue_13:11vino al varón, y le dijo: ¿Eres tú aquelH935
+- Jue_14:4madre no sabían que esto venía de Jehová
+- Jue_14:5un león joven que venía rugiendo hacia
+- Jue_14:6el Espíritu de Jehová vino sobre SansónH6743
+- Jue_14:10vino...su padre adonde estaba la mujer
+- Jue_14:19y el Espíritu de Jehová vino sobre élH6743
+- Jue_15:6y vinieron los filisteos y la quemaron aH5927
+- Jue_15:11vinieron tres mil hombres de Judá a la
+- Jue_15:12nosotros hemos venido para prenderte yH3381
+- Jue_15:13ataron...y le hicieron venir de la peña
+- Jue_15:14así que vino hasta Lehi, los filisteosH935
+- Jue_15:14el Espíritu de Jehová vino sobre él, y
+- Jue_16:2fue dicho a los de Gaza: Sansón ha venidoH935
+- Jue_16:5y vinieron a ella los príncipes de losH5927
+- Jue_16:18venid esta vez...me ha descubierto todoH5927
+- Jue_16:18vinieron a ella, trayendo en...el dineroH5927
+- Jue_17:8este hombre partió...vino a casa de MicaíaH935
+- Jue_17:9Micaía le dijo: ¿De dónde vienes? Y elH935
+- Jue_18:2éstos vinieron al monte de Efraín, hastaH935
+- Jue_18:7salieron, y vinieron a Lais; y vieron queH935
+- Jue_18:13de allí...vinieron hasta la casa de MicaíaH935
+- Jue_18:15vinieron a la casa del joven levita, enH935
+- Jue_18:19pon la mano sobre tu boca, y ven con
+- Jue_19:11ven...y vámonos a esta...de los jebuseosH3212
+- Jue_19:13ven, sigamos hasta uno de esos lugaresH3212
+- Jue_19:16un hombre viejo que venía de su trabajoH935
+- Jue_19:17dijo: ¿A dónde vas, y de dónde vienes?[[H935]]
+- Jue_19:26y cuando ya amanecía, vino la mujer, yH935
+- Jue_20:26subieron...y vinieron a la casa de DiosH935
+- Jue_20:34vinieron contra Gabaa diez mil hombresH935
+- Jue_20:41que el desastre había venido sobre ellosH5060
+- Jue_21:2y vino el pueblo a la casa de Dios, y seH935
+- Jue_21:8que ninguno de Jabes-galaad había venidoH935
+- Jue_21:22si vinieren los padres de ellas o susH935
+- Rut_2:4vino de Belén, y dijo a los segadoresH935
+- Rut_2:11has venido a un pueblo que no conocisteH1980
+- Rut_2:12bajo cuyas alas has venido a refugiarteH935
+- Rut_2:14ven...y come del pan, y moja tu bocado enH5060
+- Rut_3:7vino...y le descubrió los pies y se acostóH935
+- Rut_3:14dijo: No se sepa que vino mujer a la eraH935
+- Rut_4:1eh, fulano, ven acá...Y él vino y se sentó
+- 1Sa_2:13venía el criado del sacerdote...cocíaH935
+- 1Sa_2:14hacían con todo israelita que veníaH935
+- 1Sa_2:15venía el criado del sacerdote...y decíaH935
+- 1Sa_2:27vino un varón de Dios a Elí, y le dijoH935
+- 1Sa_2:31vienen días en que cortaré tu brazo y elH935
+- 1Sa_2:36quedado en tu casa vendrá a postrarseH935
+- 1Sa_3:6, 1Sa_3:8vino a Elí y dijo: Heme aquí ¿para qué
+- 1Sa_3:10vino Jehová y se paró, y llamó como lasH935
+- 1Sa_4:3para que viniendo entre nosotros nos salveH935
+- 1Sa_4:7decían: Ha venido Dios al campamentoH935
+- 1Sa_4:14hombre vino aprisa y dio las nuevas a ElíH935
+- 1Sa_4:16dijo...a Elí...Yo vengo de la batalla, heH935
+- 1Sa_5:10cuando el arca de Dios vino a Ecrón, losH935
+- 1Sa_6:14y el carro vino al campo de Josué deH935
+- 1Sa_7:1vinieron los de Quiriat-jearim y llevaronH935
+- 1Sa_8:4todos...vinieron a Ramá para ver a SamuelH935
+- 1Sa_9:5cuando vinieron a la tierra de Zuf, SaúlH935
+- 1Sa_9:5ven, volvámonos; porque quizá mi padreH3212
+- 1Sa_9:9decía...Venid y vamos al vidente: porqueH3212
+- 1Sa_9:12ha venido...en atención a que el puebloH935
+- 1Sa_9:14Samuel venía...para subir al lugar altoH3318
+- 1Sa_9:15día antes que Saúl viniese, Jehová habíaH935
+- 1Sa_10:6el Espíritu de Jehová vendrá sobre ti conH6743
+- 1Sa_10:7haz lo que te viniere a la mano, porque
+- 1Sa_10:8espera siete días...hasta que yo venga aH935
+- 1Sa_10:10una compañía...que venía a encontrarse
+- 1Sa_10:10el Espíritu de Dios vino sobre él conH6743
+- 1Sa_10:22preguntaron...aún no había venido aquelH935
+- 1Sa_11:5Saúl...venía del campo, tras los bueyesH935
+- 1Sa_11:6Espíritu de Dios vino sobre él con poderH6743
+- 1Sa_11:9y respondieron a los...que habían venidoH935
+- 1Sa_11:9vinieron...y lo anunciaron a los de JabesH935
+- 1Sa_11:14venid, vamos a Gilgal...renovemos allí elH3212
+- 1Sa_12:12que Nahas rey de...venía contra vosotrosH935
+- 1Sa_13:8Samuel no venía a Gilgal, y el pueblo seH935
+- 1Sa_13:10él acababa de...he aquí Samuel que veníaH935
+- 1Sa_13:11no venías dentro del plazo señalado, yH935
+- 1Sa_14:1Jonatán...Ven y pasemos a la guarnición deH3212
+- 1Sa_14:6ven, pasemos a la guarnición de estosH3212
+- 1Sa_14:21los hebreos que...habían venido con ellos
+- 1Sa_14:38Saúl: Venid acá todos los principales
+- 1Sa_15:5Y viniendo Saúl a la ciudad de AmalecH935
+- 1Sa_15:10vino palabra de Jehová a...diciendoH1961
+- 1Sa_15:12Saúl ha venido a Carmel, y he aquí seH935
+- 1Sa_15:13vino...Samuel a Saúl, y Saúl le dijoH935
+- 1Sa_15:32Agag vino a él alegremente. Y dijo AgagH1980
+- 1Sa_16:1ven...te enviaré a Isaí de Belén, porque
+- 1Sa_16:2a ofrecer sacrificio a Jehová he venidoH935
+- 1Sa_16:5sí, vengo a ofrecer sacrificio a...venidH935
+- 1Sa_16:6que cuando ellos vinieron, él vio a EliabH935
+- 1Sa_16:11no nos sentaremos...hasta que él vengaH935
+- 1Sa_16:13el Espíritu de Jehová vino sobre DavidH6743
+- 1Sa_16:21viniendo David a Saúl, estuvo delante deH935
+- 1Sa_16:23cuando el espíritu...venía sobre Saúl
+- 1Sa_17:8escoged...un hombre que venga contra míH3381
+- 1Sa_17:16venía, pues, aquel filisteo por la mañana
+- 1Sa_17:28conozco...para ver la batalla has venidoH3381
+- 1Sa_17:31las refirieron...Saúl; y él lo hizo venir
+- 1Sa_17:34venía un león, o...y tomaba algún corderoH935
+- 1Sa_17:41el filisteo venía...acercándose a DavidH3212
+- 1Sa_17:43¿soy yo perro...para que vengas a mí conH935
+- 1Sa_17:44ven a mí, y daré tu carne a las aves delH3212
+- 1Sa_17:45tú vienes a...yo vengo a ti en el nombreH935
+- 1Sa_19:9y el espíritu malo de...vino sobre Saúl
+- 1Sa_19:18y escapó, y vino a Samuel en Ramá, y leH935
+- 1Sa_19:20y vino el Espíritu de Dios sobre los
+- 1Sa_19:23y también vino sobre él el Espíritu de
+- 1Sa_20:1David...vino delante de Jonatán, y dijoH935
+- 1Sa_20:11y Jonatán dijo...Ven, salgamos al campoH3212
+- 1Sa_20:19luego...vendrás al lugar donde estabasH935
+- 1Sa_20:21tú vendrás, porque paz tienes, y nadaH935
+- 1Sa_20:27¿por qué no ha venido a comer el hijoH935
+- 1Sa_20:29por esto, pues, no ha venido a la mesaH935
+- 1Sa_20:38recogió las saetas, y vino a su señorH935
+- 1Sa_21:1vino David a Nob, al sacerdote AhimelecH935
+- 1Sa_21:1¿cómo vienes tú solo, y nadie contigo?
+- 1Sa_22:1su padre lo supieron, vinieron allí a él
+- 1Sa_22:5David se fue, y vino al bosque de HaretH935
+- 1Sa_22:9yo vi al hijo de Isaí que vino a Nob, aH935
+- 1Sa_22:11el rey envió...y todos vinieron al reyH935
+- 1Sa_23:7dado aviso a...David había venido a KeilaH935
+- 1Sa_23:10que Saúl trata de venir contra Keila, aH935
+- 1Sa_23:13Y vino a Saúl la nueva de que David se
+- 1Sa_23:16se levantó Jonatán hijo...y vino a David
+- 1Sa_23:27vino un mensajero a Saúl, diciendo: VenH935
+- 1Sa_25:8hemos venido en buen día; te ruego queH935
+- 1Sa_25:12vinieron y dijeron a David todas estasH935
+- 1Sa_25:20David y sus hombres venían frente a ellaH3381
+- 1Sa_25:26que Jehová te ha impedido el venir aH935
+- 1Sa_25:34si no te hubieras dado prisa en venirH935
+- 1Sa_25:40siervos...vinieron a Abigail en CarmelH935
+- 1Sa_26:1Y vinieron los zifeos a Saúl en GabaaH935
+- 1Sa_26:4supo con certeza que Saúl había venidoH935
+- 1Sa_26:5vino al sitio donde Saúl había acampadoH935
+- 1Sa_27:4vino a Saúl la nueva de que David había
+- 1Sa_27:11para que viniesen a Gat: diciendo: No
+- 1Sa_28:4filisteos, y vinieron y acamparon en SunemH935
+- 1Sa_28:8y vinieron a aquella mujer de noche; y élH935
+- 1Sa_28:10vive Jehová, que ningún mal te vendrá
+- 1Sa_28:11la mujer...dijo: ¿A quién te haré venir?
+- 1Sa_28:11y él respondió: Hazme venir a Samuel
+- 1Sa_28:14un hombre anciano viene, cubierto de unH5927
+- 1Sa_28:15qué me has inquietado haciéndome venir?
+- 1Sa_28:21la mujer vino a Saúl, y viéndole turbadoH935
+- 1Sa_29:4, 1Sa_29:9no venga con nosotros a la batalla
+- 1Sa_29:6desde el día que viniste a mí hasta hoyH935
+- 1Sa_29:10los siervos de...que han venido contigoH935
+- 1Sa_30:1David...vinieron a Siclag al tercer díaH935
+- 1Sa_30:3vino...David con los suyos a la ciudadH935
+- 1Sa_30:21y vino David a los doscientos hombresH935
+- 1Sa_30:23ha entregado...merodeadores que vinieronH935
+- 1Sa_31:4que no vengan estos...y me traspasen, yH935
+- 1Sa_31:7filisteos vinieron y habitaron en ellasH935
+- 1Sa_31:8viniendo los filisteos a despojar a losH935
+- 1Sa_31:12y viniendo a Jabes, los quemaron allíH935
+- 2Sa_1:2vino uno del campamento de Saúl, rotosH935
+- 2Sa_1:3y le preguntó David: ¿De dónde vienes?[[H935]]
+- 2Sa_1:6vine al monte de Gilboa, y hallé a Saúl
+- 2Sa_1:6a Saúl...y venían tras él carros y gente
+- 2Sa_2:4vinieron los varones de Judá y ungieron aH935
+- 2Sa_2:23venían por aquel lugar donde Asael habíaH935
+- 2Sa_3:13no me vengas a ver sin que...traigas a
+- 2Sa_3:20vino, pues, Abner a David en Hebrón, yH935
+- 2Sa_3:20hizo banquete a Abner y a los que...venido
+- 2Sa_3:22los siervos de David...venían del campoH935
+- 2Sa_3:23Abner hijo de Ner ha venido al rey, y élH935
+- 2Sa_3:24vino al rey, y le dijo: ¿Qué has hecho?[[H935]]
+- 2Sa_3:24Abner vino a ti; ¿por qué...le dejaste queH935
+- 2Sa_3:25Abner...No ha venido sino para engañarteH935
+- 2Sa_3:35el pueblo vino para persuadir a David queH935
+- 2Sa_5:1vinieron...las tribus de Israel a David enH935
+- 2Sa_5:3vinieron...los ancianos de Israel al reyH935
+- 2Sa_5:13y mujeres de...después que vino de HebrónH935
+- 2Sa_5:18vinieron los filisteos, y se extendieronH935
+- 2Sa_5:20vino David a Baal-perazim, y allí losH935
+- 2Sa_5:22y los filisteos volvieron a venir, y seH5927
+- 2Sa_5:23y vendrás a ellos enfrente...balsamerasH935
+- 2Sa_6:9¿cómo ha de venir a mí el arca de Jehová?[[H935]]
+- 2Sa_7:4vino palabra de Jehová a Natán, diciendoH1961
+- 2Sa_7:19has hablado de la casa...en lo por venir
+- 2Sa_8:5vinieron los sirios de...para dar ayuda aH935
+- 2Sa_9:2al cual llamaron para que viniese a David
+- 2Sa_9:6vino Mefi-boset, hijo...y se postró sobreH935
+- 2Sa_10:14volvió, pues, Joab...y vino a JerusalénH935
+- 2Sa_10:16los sirios...vinieron a Helam, llevandoH935
+- 2Sa_10:17pasando el Jordán vino a Helam: y losH935
+- 2Sa_11:4envió...vino a él, y él durmió con ellaH935
+- 2Sa_11:7Urías vino a él, David le preguntó porH935
+- 2Sa_11:10dijo David...¿No has venido de camino?[[H935]]
+- 2Sa_11:14venida la mañana, escribió David a JoabH1961
+- 2Sa_12:1viniendo...le dijo: Había dos hombres enH935
+- 2Sa_12:4y vino uno de camino al hombre rico; yH935
+- 2Sa_12:4para el caminante que había venido a élH935
+- 2Sa_12:4la preparó para aquel que había venidoH935
+- 2Sa_12:20después vino a su casa...y pidió, y leH935
+- 2Sa_13:5y cuando tu padre viniere...dile: Te ruegoH935
+- 2Sa_13:5que venga mi hermana Tamar, para que meH935
+- 2Sa_13:6acostó, pues...y vino el rey a visitarleH935
+- 2Sa_13:6yo te ruego que venga mi hermana TamarH935
+- 2Sa_13:11ven, hermana mía, acuéstate conmigoH935
+- 2Sa_13:24y vino Absalón al rey, y dijo: He aquíH935
+- 2Sa_13:24yo ruego que venga el rey y sus siervos
+- 2Sa_13:26ruego que venga...Amnón mi hermano
+- 2Sa_13:34mucha gente que venía por el camino aH1980
+- 2Sa_13:35he allí los hijos del rey que vienen; esH935
+- 2Sa_13:36he aquí los hijos del rey que vinieronH935
+- 2Sa_14:15haber yo venido ahora para decir estoH935
+- 2Sa_14:29mandó Absalón por Joab...no quiso venirH935
+- 2Sa_14:29aun por segunda vez, y no quiso venirH935
+- 2Sa_14:31levantó Joab y vino a casa de AbsalónH935
+- 2Sa_14:32vinieses acá...¿Para qué vine de Gesur?[[H935]]
+- 2Sa_14:33vino, pues, Joab al rey...lo hizo saberH935
+- 2Sa_14:33el cual vino al rey, e inclinó su rostroH935
+- 2Sa_15:2a cualquiera que...venía al rey a juicioH935
+- 2Sa_15:4para que viniesen a mí...los que tienenH935
+- 2Sa_15:6hacía con...israelitas que venían al reyH935
+- 2Sa_15:13y un mensajero vino a David, diciendoH935
+- 2Sa_15:18hombres que habían venido a pie desdeH935
+- 2Sa_15:19dijo...¿Para qué vienes tú también con
+- 2Sa_15:22ven, pues, y pasa...Y pasó Itai geleo, y
+- 2Sa_15:28hasta que venga respuesta de vosotrosH935
+- 2Sa_15:37vino Husai amigo de David a la ciudadH935
+- 2Sa_16:5y vino el rey David hasta Bahurim; y heH935
+- 2Sa_16:16que cuando Husai...vino al encuentro deH935
+- 2Sa_17:6Husai vino a Absalón, le habló AbsalónH935
+- 2Sa_17:14que Jehová hiciese venir el mal sobre
+- 2Sa_17:17ellos no podían mostrarse viniendo a la
+- 2Sa_18:25rey dijo: Si viene solo, buenas nuevas
+- 2Sa_18:27es hombre de...y viene con buenas nuevasH935
+- 2Sa_18:31vino el etíope, y dijo: Reciba nuevasH935
+- 2Sa_19:5entonces Joab vino al rey en la casa, yH935
+- 2Sa_19:8y vino todo el pueblo delante del reyH935
+- 2Sa_19:11palabra de todo Israel ha venido al reyH935
+- 2Sa_19:15volvió...el rey...y vino hasta el JordánH935
+- 2Sa_19:15Judá vino a Gilgal para recibir al reyH935
+- 2Sa_19:17con él venían mil hombres de Benjamín
+- 2Sa_19:20he venido...a recibir a mi señor el reyH935
+- 2Sa_19:25que vino él a Jerusalén a recibir al reyH935
+- 2Sa_19:41los hombres de Israel vinieron al reyH935
+- 2Sa_20:15vinieron y lo sitiaron en Abel-bet-maacaH935
+- 2Sa_20:16ruego que digáis a Joab que venga acáH7126
+- 2Sa_23:13tres de...vinieron en tiempo de la siegaH935
+- 2Sa_24:11vino palabra de Jehová al profeta GadH1961
+- 2Sa_24:13vino...Gad a David, y se lo hizo saberH935
+- 2Sa_24:13¿quieres que te vengan siete años deH935
+- 2Sa_24:18Gad vino a David...día, y le dijo: SubeH935
+- 2Sa_24:20y Arauna, vio al rey...venían hacia élH5674
+- 2Sa_24:21¿por qué viene mi señor...a su siervo?[[H935]]
+- 1Re_1:12ven pues, ahora, y toma mi consejoH3212
+- 1Re_1:22aún hablaba ella...vino el profeta NatánH935
+- 1Re_1:35y vendrá y se sentará en mi trono, y élH5927
+- 1Re_1:42vino Jonatán hijo del sacerdote AbiatarH935
+- 1Re_1:47los siervos del rey han venido a bendecirH935
+- 1Re_1:53él vino, y se inclinó ante el rey SalomónH7126
+- 1Re_2:7ellos vinieron...a mí, cuando iba huyendoH935
+- 1Re_2:13Adonías hijo de...vino a Betsabé madre deH935
+- 1Re_2:19vino Betsabé al rey...para hablarle por
+- 1Re_2:28y vino la noticia a Joab; porque tambiénH935
+- 1Re_2:36envió el rey e hizo venir a Simei, y le
+- 1Re_2:42el rey envió e hizo venir a Simei, y le
+- 1Re_3:15y vino a Jerusalén...delante del arca delH935
+- 1Re_3:16vinieron al rey dos mujeres rameras, yH935
+- 1Re_4:27los que a la mesa del rey Salomón venganH7131
+- 1Re_4:34para oir la...venían de todos los pueblosH935
+- 1Re_5:14viniendo así a estar un mes en el Líbano
+- 1Re_6:11y vino palabra de Jehová a SalomónH1961
+- 1Re_7:13envió el rey...hizo venir de Tiro a Hiram
+- 1Re_7:14vino al rey Salomón, e hizo toda su obraH935
+- 1Re_8:3y vinieron todos los ancianos de Israel
+- 1Re_8:31viniere el juramento delante de tu altarH935
+- 1Re_8:41el extranjero...que viniere de lejanasH935
+- 1Re_8:42oirán de...y viniere a orar a esta casaH935
+- 1Re_10:2vino a Jerusalén...cuando v a Salomón, leH935
+- 1Re_10:7pero yo no lo creía, hasta que he venidoH935
+- 1Re_10:10nunca vino...gran cantidad de especiasH935
+- 1Re_10:12nunca vino semejante madera...ni se haH935
+- 1Re_10:22cada tres años venía la flota de TarsisH935
+- 1Re_10:29y venía y salía de Egipto, el carro porH5927
+- 1Re_11:18y se levantaron de...y vinieron a ParánH935
+- 1Re_11:18de Parán, vinieron a Egipto, a Faraón reyH935
+- 1Re_12:1todo Israel había venido a Siquem paraH935
+- 1Re_12:3vino...Jeroboam, y toda la congregaciónH935
+- 1Re_12:12al tercer día vino Jeroboam con todo elH935
+- 1Re_12:21cuando Roboam vino a Jerusalén, reunióH935
+- 1Re_12:22pero vino palabra de Jehová a SemaíasH1961
+- 1Re_13:1un varón de Dios...vino de Judá a Bet-elH935
+- 1Re_13:7el rey dijo al varón...Ven conmigo a casaH935
+- 1Re_13:10camino por donde había venido a Bet-elH935
+- 1Re_13:11un viejo profeta, al cual vino su hijo yH935
+- 1Re_13:12, 1Re_13:21varón de Dios que había venido deH935
+- 1Re_13:14¿eres tú el varón de...que vino de Judá?[[H935]]
+- 1Re_13:15le dijo: Ven conmigo a casa, y come panH3212
+- 1Re_13:20vino palabra de Jehová al profeta queH1961
+- 1Re_13:25y vinieron y lo dijeron en la ciudadH935
+- 1Re_13:29el profeta viejo vino a la ciudad, paraH935
+- 1Re_13:32porque sin duda vendrá lo que él dijo
+- 1Re_14:4la mujer...a Silo, y vino a casa de AhíasH935
+- 1Re_14:5mujer de Jeroboam vendrá a consultarteH935
+- 1Re_14:5cuando ella viniere, vendrá disfrazadaH935
+- 1Re_14:17la mujer de Jeroboam se...y vino a TirsaH935
+- 1Re_15:29cuando él vino al reino, mató a toda laH1961
+- 1Re_16:1y vino palabra de Jehová a Jehú hijo deH1961
+- 1Re_16:10vino Zimri y lo hirió y lo mató, en el
+- 1Re_17:2, 1Re_17:8vino...a él palabra de Jehová, diciendoH1961
+- 1Re_17:18¿has venido...para traer a memoria misH935
+- 1Re_18:1días, vino palabra de Jehová a Elías enH1961
+- 1Re_18:12al venir yo y dar las nuevas a Acab, alH935
+- 1Re_18:16y Acab vino a encontrarse con Elías
+- 1Re_18:45lluvia...Y subiendo Acab, vino a Jezreel
+- 1Re_19:3vino a Beerseba, que está en Judá, y dejóH935
+- 1Re_19:4y vino y se sentó debajo de un enebroH935
+- 1Re_19:9y vino a él palabra de Jehová, el cual
+- 1Re_19:13y he aquí vino a él una voz, diciendoH935
+- 1Re_19:20vino corriendo en pos de Elías, y dijo
+- 1Re_20:13un profeta vino a Acab rey de Israel, yH5066
+- 1Re_20:16los 32 reyes que habían venido en su
+- 1Re_20:20y mató cada uno al que venía contra él
+- 1Re_20:22vino...el profeta al rey de Israel y leH5066
+- 1Re_20:22un año, el rey de Siria vendrá contra tiH5927
+- 1Re_20:26y vino a Afec para pelear contra Israel
+- 1Re_20:28vino...el varón de Dios al rey de IsraelH5066
+- 1Re_20:30Ben-adad vino huyendo a la ciudad, y seH935
+- 1Re_20:32vinieron al rey de Israel y le dijeronH935
+- 1Re_21:4y vino Acab a su casa triste y enojadoH935
+- 1Re_21:5vino a él su mujer Jezabel, y le dijoH935
+- 1Re_21:13vinieron entonces dos hombres perversosH935
+- 1Re_21:17, 1Re_21:28vino palabra de Jehová a Elías tisbitaH1961
+- 1Re_22:4¿quieres venir...a pelear contra Ramot de
+- 1Re_22:15vino, pues, al rey, y el rey le dijoH935
+- 1Re_22:32y vinieron contra él para pelear con él
+- 2Re_2:1cielo, Elías venía con Eliseo de Gilgal
+- 2Re_2:4que no te dejaré...Vinieron, pues, a JericóH935
+- 2Re_2:7vinieron 50 varones de los hijos de los
+- 2Re_2:15y vinieron a recibirle, y se postraronH935
+- 2Re_3:15la mano de Jehová vino sobre EliseoH1961
+- 2Re_3:20aquí vinieron aguas por el camino de EdomH935
+- 2Re_4:1y ha venido el acreedor para tomarse dosH935
+- 2Re_4:7vino ella...y lo contó al varón de DiosH935
+- 2Re_4:8Eliseo...venía a la casa de ella a comer
+- 2Re_4:10para que cuando él viniere...quede en élH935
+- 2Re_4:11un día vino él por allí, y se quedó enH935
+- 2Re_4:12cuando la llamó, vino ella delante de él
+- 2Re_4:16el año que viene, por...abrazarás un hijo
+- 2Re_4:18que vino a su padre, que estaba con los
+- 2Re_4:25partió, pues, y vino al varón de DiosH935
+- 2Re_4:32y venido Eliseo a la casa, he aquí queH935
+- 2Re_4:42vino entonces un hombre de Baal-salisaH935
+- 2Re_5:8venga...a mí, y sabrá que hay profeta enH935
+- 2Re_5:9y vino Naamán con sus caballos y con suH935
+- 2Re_5:21vio Naamán que venía corriendo tras él
+- 2Re_5:22vinieron a mí, del monte de Efraín dosH935
+- 2Re_5:25le dijo: ¿De dónde vienes, Giezi? Y él
+- 2Re_6:3uno: Te rogamos que vengas con tus siervos
+- 2Re_6:14los cuales vinieron de noche, y sitiaronH935
+- 2Re_6:23y nunca más vinieron bandas armadas deH935
+- 2Re_6:32antes que el mensajero viniese a él, dijoH935
+- 2Re_6:32y cuando viniere el mensajero, cerrad laH935
+- 2Re_6:33este mal de Jehová viene...¿Para qué he de
+- 2Re_7:6los reyes...para que vengan contra nosotrosH935
+- 2Re_7:10vinieron...y gritaron a los guardas de laH935
+- 2Re_8:1el hambre, la cual vendrá sobre la tierraH935
+- 2Re_8:5la mujer...vino para implorar al rey por
+- 2Re_8:7diciendo: El varón de Dios ha venido aquíH935
+- 2Re_8:14y Hazael se fue, y vino a su señor, elH935
+- 2Re_9:11¿para qué vino a ti aquel loco? Y él lesH935
+- 2Re_9:17vio la tropa de Jehú que venía, y dijoH935
+- 2Re_9:20marchar del que viene es como el marchar
+- 2Re_9:20Jehú hijo...porque viene impetuosamente
+- 2Re_9:30vino después Jehú a Jezreel; y cuandoH935
+- 2Re_10:6tomad las cabezas...y venid a mí mañanaH935
+- 2Re_10:8vino un mensajero que le dio las nuevasH935
+- 2Re_10:9venida la mañana, salió él, y estando enH1961
+- 2Re_10:13hemos venido a saludar a los hijos del
+- 2Re_10:16dijo: Ven...y verás mi celo por JehováH3212
+- 2Re_10:21y vinieron todos los siervos de Baal, deH935
+- 2Re_10:21manera...no hubo ninguno que no vinieseH935
+- 2Re_11:9los jefes...vinieron al sacerdote JoiadaH935
+- 2Re_11:19vinieron por el camino de la puerta deH935
+- 2Re_12:10venía el sacerdote del rey...y contabanH5927
+- 2Re_13:20vinieron bandas armadas de moabitas a
+- 2Re_14:8diciendo: Ven, para que nos veamos lasH3212
+- 2Re_14:13y vino a Jerusalén, y rompió el muro deH935
+- 2Re_15:14Manahem hijo...vino a Samaria, e hirió aH935
+- 2Re_15:19y vino Pul rey de...a atacar la tierraH935
+- 2Re_15:29vino Tiglat-pileser rey...y tomó a IjónH935
+- 2Re_16:6los de Edom vinieron a Elat y habitaronH935
+- 2Re_16:11entre tanto que el rey Acaz venía deH935
+- 2Re_16:12el rey vino de Damasco, y vio el altarH935
+- 2Re_17:28vino uno de los sacerdotes...y habitó enH935
+- 2Re_18:17y subieron y vinieron a JerusalénH935
+- 2Re_18:17y habiendo subido, vinieron y acamparonH935
+- 2Re_18:25¿acaso he venido yo ahora sin Jehová aH5927
+- 2Re_18:32yo venga y os lleve a una tierra comoH935
+- 2Re_18:37vinieron a Ezequías...y le contaron lasH935
+- 2Re_19:5vinieron...los siervos del rey...a IsaíasH935
+- 2Re_19:25y ahora lo he hecho venir, y tú serás
+- 2Re_19:28y te haré volver por...por donde vinisteH935
+- 2Re_19:32ni vendrá delante de ella con escudo, niH6923
+- 2Re_19:33por el mismo camino que vino, volveráH935
+- 2Re_20:1Ezequías cayó enfermo...vino a él...IsaíasH935
+- 2Re_20:4y antes que Isaías saliese...vino palabraH1961
+- 2Re_20:14Isaías vino al rey Ezequías, y le dijoH935
+- 2Re_20:14¿qué dijeron...y de dónde vinieron a ti?[[H935]]
+- 2Re_20:14de dónde...De lejanas tierras han venidoH935
+- 2Re_20:17vienen días en que todo lo que está enH935
+- 2Re_22:9viniendo luego...Safán al rey, dio cuentaH935
+- 2Re_22:19que vendrán a ser asolados y malditosH1961
+- 2Re_23:8e hizo venir todos los sacerdotes de laH935
+- 2Re_23:17el sepulcro del varón de Dios que vinoH935
+- 2Re_23:18los huesos del profeta que había venidoH935
+- 2Re_24:1Joacim vino a ser su siervo por tres añosH1961
+- 2Re_24:3vino...contra Judá por mandato de JehováH1961
+- 2Re_24:11vino...Nabucodonosor...contra la ciudadH935
+- 2Re_24:20vino...la ira de Jehová contra JerusalénH1961
+- 2Re_25:1Nabucodonosor rey de...vino con...ejércitoH935
+- 2Re_25:8vino a Jerusalén Nabuzaradán, capitán deH935
+- 2Re_25:23gobernador a Gedalías, vinieron a él enH935
+- 2Re_25:25mas en el mes séptimo vino Ismael hijoH1961
+- 1Cr_2:55son los ceneos que vinieron de HimatH935
+- 1Cr_4:41vinieron en días de Ezequías rey de JudáH935
+- 1Cr_7:21porque vinieron a tomarles sus ganadosH3381
+- 1Cr_7:22y vinieron sus hermanos a consolarloH935
+- 1Cr_9:25venían cada siete días según su turnoH935
+- 1Cr_10:4no sea que vengan estos incircuncisos yH935
+- 1Cr_10:7y vinieron los filisteos y habitaron enH935
+- 1Cr_10:8al venir los filisteos a despojar a losH1961
+- 1Cr_11:3vinieron...los ancianos de Israel al reyH935
+- 1Cr_12:1son los que vinieron a David en SiclagH935
+- 1Cr_12:16algunos de los...de Judá vinieron a DavidH935
+- 1Cr_12:17si habéis venido a mí para paz y paraH935
+- 1Cr_12:18el Espíritu vino sobre Amasai, jefe deH3847
+- 1Cr_12:19cuando vino con los filisteos a la batallaH935
+- 1Cr_12:20viniendo él a Siclag, se pasaron a él
+- 1Cr_12:22todos los días venía ayuda a David, hastaH935
+- 1Cr_12:23el número...vinieron a David en HebrónH935
+- 1Cr_12:31lista para venir a poner a David por reyH935
+- 1Cr_12:38vinieron con...para poner a David por reyH935
+- 1Cr_14:9vinieron los filisteos...valle de RefaimH935
+- 1Cr_14:14para venir a ellos por delante de lasH935
+- 1Cr_14:15así que oigas venir un estruendo por las
+- 1Cr_16:29traed ofrenda, y venid delante de élH935
+- 1Cr_16:33cantarán...porque viene a juzgar la tierraH935
+- 1Cr_17:3vino palabra de Dios a Natán, diciendoH935
+- 1Cr_18:5viniendo los sirios de Damasco en ayudaH935
+- 1Cr_19:3¿no vienen más bien sus...a ti para espiarH935
+- 1Cr_19:7vinieron y acamparon...los hijos de AmónH935
+- 1Cr_19:7los hijos de Amón...y vinieron a la guerraH935
+- 1Cr_19:9reyes que habían venido estaban aparte enH935
+- 1Cr_19:17vino a...y ordenó batalla contra ellosH935
+- 1Cr_20:1que Joab...vino y sitió a Rabá...Mas DavidH935
+- 1Cr_21:11viniendo Gad a David, le dijo: Así haH935
+- 1Cr_21:17mí...y no venga peste sobre tu pueblo
+- 1Cr_21:21y viniendo David a Ornán, miró OrnánH935
+- 1Cr_22:8vino a mí palabra de Jehová, diciendoH1961
+- 1Cr_27:24por esto vino el castigo sobre IsraelH1961
+- 2Cr_1:12ni tendrán los que vengan después de
+- 2Cr_5:4vinieron todos los ancianos de Israel, yH935
+- 2Cr_6:22y viniere a jurar ante tu altar en estaH935
+- 2Cr_6:32que hubiere venido de lejanas tierras aH935
+- 2Cr_6:32extranjero...si viniere y orare hacia estaH935
+- 2Cr_8:3vino Salomón a Hamat de Soba, y la tomó
+- 2Cr_9:1la reina de Sabá...vino a Jerusalén con unH935
+- 2Cr_9:1y luego que vino a Salomón, habló con élH935
+- 2Cr_9:6no creía...hasta que he venido, y mis ojosH935
+- 2Cr_9:13peso del oro que venía a Salomón cada añoH935
+- 2Cr_9:21cada tres años solían venir las naves deH935
+- 2Cr_10:3le llamaron...Vino, pues, Jeroboam, y todoH935
+- 2Cr_10:12vino, pues, Jeroboam con todo el puebloH935
+- 2Cr_11:1cuando vino Roboam a Jerusalén, reunióH935
+- 2Cr_11:2vino palabra de Jehová a Semaías varónH1961
+- 2Cr_11:14los levitas...venían a Judá y a JerusalénH3212
+- 2Cr_11:16y vinieron a Jerusalén para ofrecerH935
+- 2Cr_12:3mas el pueblo que venía con él de EgiptoH935
+- 2Cr_12:5vino el profeta Semaías a Roboam y a losH935
+- 2Cr_12:7cuando...vino palabra de Jehová a SemaíasH1961
+- 2Cr_12:11el rey iba a...venían los de la guardiaH935
+- 2Cr_13:9venga a consagrarse con un becerro yH935
+- 2Cr_13:13tender una emboscada para venir a ellos
+- 2Cr_14:9contra ellos Zera...y vino hasta MaresaH935
+- 2Cr_14:11tu nombre venimos contra este ejércitoH935
+- 2Cr_15:1vino el Espíritu de Dios sobre AzaríasH1961
+- 2Cr_16:3para que vengas y deshagas la alianza queH3212
+- 2Cr_16:7vino el vidente Hanani a Asa rey de JudáH935
+- 2Cr_18:2para él y para la gente que con él venía
+- 2Cr_18:3¿quieres venir conmigo contra Ramot deH3212
+- 2Cr_18:8haz venir luego a Micaías hijo de Imla
+- 2Cr_18:13me dijere, eso hablaré: Y vino al rey
+- 2Cr_19:10cualquier causa que viniere a vosotrosH935
+- 2Cr_19:10para que no venga ira sobre vosotrosH1961
+- 2Cr_20:1Moab...vinieron contra Josafat a la guerraH935
+- 2Cr_20:2viene una gran multitud del otro lado delH935
+- 2Cr_20:4de Judá vinieron a pedir ayuda a JehováH935
+- 2Cr_20:9si mal viniere sobre...clamaremos a ti, yH935
+- 2Cr_20:10pasase Israel cuando venía de la tierraH935
+- 2Cr_20:11viniendo a arrojarnos de la heredad queH935
+- 2Cr_20:12multitud que viene contra nosotros; noH935
+- 2Cr_20:14de Asaf, sobre el cual vino el EspírituH1961
+- 2Cr_20:22emboscadas de...que venían contra JudáH935
+- 2Cr_20:24que vino Judá a la torre del desiertoH935
+- 2Cr_20:25viniendo...Josafat y su...a despojarlosH935
+- 2Cr_20:28y vinieron a Jerusalén con salteriosH935
+- 2Cr_22:1una banda armada que había venido conH935
+- 2Cr_22:7pero esto venía de Dios, para que Ocozías
+- 2Cr_22:7Ocozías...fuese destruido viniendo a JoramH935
+- 2Cr_22:7habiendo venido, salió con...contra JehúH935
+- 2Cr_23:2recorrieron el...y vinieron a JerusalénH935
+- 2Cr_23:12Atalía oyó...vino al pueblo a la casa deH935
+- 2Cr_24:11cuando venía el tiempo para llevar elH1961
+- 2Cr_24:11mucho dinero, venía el escriba del reyH935
+- 2Cr_24:17vinieron los príncipes...el rey los oyó
+- 2Cr_24:18la ira de Dios vino...por este su pecadoH1961
+- 2Cr_24:20el Espíritu de Dios vino sobre ZacaríasH3847
+- 2Cr_24:20no os vendrá bien por ello: porque por
+- 2Cr_24:23de Siria...vinieron a Judá y a JerusalénH5927
+- 2Cr_24:24el ejército de Siria había venido conH935
+- 2Cr_25:7mas un varón de Dios vino a él y le dijoH935
+- 2Cr_25:10ejército de la gente que había venidoH935
+- 2Cr_25:11vino al Valle de la Sal, y mató de losH3212
+- 2Cr_25:17Joás hijo...Ven, y veámonos cara a caraH3212
+- 2Cr_28:12contra los que venían de la guerraH935
+- 2Cr_28:17los edomitas habían venido y atacado aH935
+- 2Cr_28:20también vino contra él Tiglat-pileserH935
+- 2Cr_29:4e hizo venir a los sacerdotes y levitasH935
+- 2Cr_29:8la ira de Jehová ha venido sobre Judá y
+- 2Cr_29:17mismo mes vinieran al pórtico de JehováH935
+- 2Cr_29:18vinieron al rey Ezequías y le dijeronH935
+- 2Cr_30:1escribió cartas...que viniesen a JerusalénH935
+- 2Cr_30:5viniesen a celebrar la pascua a JehováH935
+- 2Cr_30:8y venid a su santuario, el cual él ha
+- 2Cr_30:11se humillaron, y vinieron a JerusalénH935
+- 2Cr_30:25la multitud que había venido de IsraelH935
+- 2Cr_30:25forasteros que habían venido de...IsraelH935
+- 2Cr_31:8Ezequías...vinieron y vieron los montonesH935
+- 2Cr_32:1vino Senaquerib rey de los asiriosH935
+- 2Cr_32:4de hallar...muchas aguas cuando vengan?[[H935]]
+- 2Cr_32:7ni de toda la multitud que con él viene
+- 2Cr_32:25y vino la ira contra él, y...Jerusalén
+- 2Cr_32:26no vino sobre ellos la ira de Jehová enH935
+- 2Cr_34:9vinieron...al sumo sacerdote Hilcías, yH935
+- 2Cr_35:21no vengo contra ti hoy, sino contra la
+- 2Cr_35:22vino a darle batalla en el...de MeguidoH935
+- 2Cr_36:20siervos de él...hasta que vino el reino de
+- Esd_2:2vinieron con Zorobabel, Jesúa, NehemíasH935
+- Esd_2:68cuando vinieron a la casa de Jehová queH935
+- Esd_3:8los que habían venido de la cautividad aH935
+- Esd_4:1los venidos de la cautividad edificaban el
+- Esd_4:2vinieron a Zorobabel y a los jefes de casasH5066
+- Esd_4:2Esar-badón rey...que nos hizo venir aquíH5927
+- Esd_4:12que los judíos que...vinieron a JerusalénH858
+- Esd_5:3vino a ellos Tatnai gobernador del otroH858
+- Esd_5:16Sesbasar vino y puso los cimientos de laH858
+- Esd_6:16demás que habían venido de la cautividad
+- Esd_8:15los reuní junto al río que viene a Ahava
+- Esd_8:35los que habían venido del cautiverioH935
+- Esd_9:1los príncipes vinieron a mí, diciendo: ElH5066
+- Esd_10:8que el que no viniera dentro de tres díasH935
+- Esd_10:14vengan en tiempos determinados, y conH935
+- Neh_1:2que vino Hanani, uno de mis hermanosH935
+- Neh_2:9vine luego a los gobernadores del otro ladoH935
+- Neh_2:10que viniese alguno para procurar el bienH935
+- Neh_2:17les dije...venid, y edifiquemos el muro deH3212
+- Neh_4:8conspiraron todos...para venir a atacar aH935
+- Neh_4:12cuando venían los judíos que habitabanH935
+- Neh_5:17los que venían de las naciones que habíaH935
+- Neh_6:2a decirme: Ven y reunámonos en alguna deH3212
+- Neh_6:7oídas...ven, por tanto, y consultemos juntosH3212
+- Neh_6:10vine luego a casa de Semaías hijo deH935
+- Neh_6:10vienen para matarte...vendrán a matarteH935
+- Neh_6:17cartas de...y las de Tobías venían a ellosH935
+- Neh_7:7los cuales vinieron con Zorobabel, JesúaH935
+- Neh_7:73venido el mes séptimo...en sus ciudadesH5060
+- Neh_9:24hijos vinieron y poseyeron la tierra, yH935
+- Neh_9:33tú eres justo en todo lo que ha venidoH935
+- Neh_13:21entonces no vinieron en día de reposoH935
+- Neh_13:22y viniesen a guardar las puertas, paraH935
+- Est_1:17traer...la reina Vasti...no vinoH935
+- Est_1:19que Vasti no venga más delante del reyH935
+- Est_2:12llegaba el tiempo...venir al rey AsueroH5060
+- Est_2:13entonces la doncella venía así al reyH935
+- Est_2:13venir ataviada con ello desde la casa deH935
+- Est_2:14ella venía por la tarde, y a la...volvíaH935
+- Est_2:14no venía más al rey, salvo si el rey laH935
+- Est_2:15llegó a Ester...el tiempo de venir al reyH5060
+- Est_4:2vino hasta delante de la puerta del reyH935
+- Est_4:4y vinieron las doncellas de Ester, y susH935
+- Est_4:9vino Hatac y contó a Ester las palabrasH935
+- Est_4:14liberación vendrá de alguna otra parte aH5975
+- Est_5:2entonces vino Ester y tocó la punta del
+- Est_5:4vengan hoy el rey y Amán al banquete queH935
+- Est_5:5vino, pues, el rey con Amán al banqueteH935
+- Est_5:8venga el rey con Amán a otro banquete queH935
+- Est_5:10pero se refrenó Amán y vino a su casa, yH935
+- Est_5:12la reina Ester a ninguno hizo venir conH935
+- Est_6:4Amán había venido al patio exterior de laH935
+- Est_8:1y Mardoqueo vino delante del rey, porqueH935
+- Est_8:11fuerza armada...que viniese contra ellos
+- Est_9:25cuando Ester vino a la presencia del reyH935
+- Job_1:6vinieron a presentarse...hijos de DiosH935
+- Job_1:6entre los cuales vino también SatanásH935
+- Job_1:7dijo Jehová a Satanás: ¿De dónde vienes?[[H935]]
+- Job_1:14y vino un mensajero a Job, y le dijoH935
+- Job_1:16vino otro que dijo: Fuego de Dios cayóH935
+- Job_1:17aún estaba éste hablando, y vino otro queH935
+- Job_1:18vino otro que dijo: Tus hijos y tus hijasH935
+- Job_1:19un gran viento vino del lado del desiertoH935
+- Job_2:1vinieron los hijos de Dios...y Satanás vinoH935
+- Job_2:2dijo Jehová a Satanás: ¿De dónde vienes?[[H935]]
+- Job_2:11que oyeron...vinieron cada uno de su lugarH935
+- Job_2:11porque habían convenido en venir juntosH935
+- Job_3:6año, ni venga en el número de los mesesH935
+- Job_3:7que no viniera canción alguna en ella![[H935]]
+- Job_3:9espere la luz, y no venga, ni vea los
+- Job_3:24pues antes que mi pan viene mi suspiroH935
+- Job_3:25el temor que me espantaba me ha venidoH857
+- Job_3:26no he...no obstante, me vino turbaciónH935
+- Job_4:5mas ahora que el mal ha venido sobre tiH935
+- Job_5:21no temerás la destrucción cuando viniereH935
+- Job_5:26vendrás en la vejez a la sepultura, comoH935
+- Job_6:8¡quién me diera que viniese mi petición
+- Job_6:20vinieron hasta...y se hallaron confusosH935
+- Job_9:32para que...vengamos juntamente a juicioH935
+- Job_13:13y que me venga después lo que viniereH5674
+- Job_14:14esperaré hasta que venga mi liberaciónH935
+- Job_15:21en la prosperidad el asolador vendráH935
+- Job_16:22los años contados vendrán, y yo iré porH857
+- Job_17:10volved todos vosotros, y venid ahora, yH935
+- Job_19:12vinieron sus ejércitos a una...contra míH935
+- Job_20:22mano de...los malvados vendrá sobre élH935
+- Job_20:25traspasará...sobre él vendrán terrores
+- Job_21:9salvo de temor, ni viene azote de Dios
+- Job_21:17impíos...viene sobre ellos su quebrantoH935
+- Job_22:4o viene a juicio contigo, a causa de tu
+- Job_22:21tendrás paz; y por ello te vendrá bienH935
+- Job_27:9cuando la tribulación viniere sobre él?[[H935]]
+- Job_28:20¿de dónde, pues, vendrá la sabiduríaH935
+- Job_29:13del que se iba a perder venía sobre míH935
+- Job_30:14vinieron como por portillo ancho, seH857
+- Job_30:26esperaba...el bien, entonces vino el malH935
+- Job_30:26cuando esperaba luz, vino la oscuridadH935
+- Job_30:29he venido a ser hermano de chacales, y
+- Job_34:28haciendo venir...el clamor del pobre, yH935
+- Job_37:9del sur viene el torbellino, y el frío deH935
+- Job_37:13otras por misericordia las hará venirH4672
+- Job_37:22viniendo...del norte la dorada claridadH857
+- Job_38:14ella...viene a estar como con vestidura
+- Job_42:11y vinieron a él todos sus hermanos yH935
+- Sal_22:31vendrán, y anunciarán su justiciaH935
+- Sal_30:5el lloro, y a la mañana vendrá la alegría
+- Sal_34:11venid, hijos, oídme; el temor de JehováH3212
+- Sal_35:8véngale el quebrantamiento sin que...sepaH935
+- Sal_36:11no venga pie de soberbia contra mí, yH935
+- Sal_37:13reirá de él, porque ve que viene su díaH935
+- Sal_40:7dije: He aquí, vengo; en el rollo del libroH935
+- Sal_41:6y si vienen a verme, hablan mentira; suH935
+- Sal_42:2¿cuándo vendré, y me presentaré delanteH935
+- Sal_44:17nos ha venido, y no nos hemos olvidadoH935
+- Sal_45:12las hijas de Tiro vendrán con presentes
+- Sal_46:8venid, ved las obras de Jehová, que haH3212
+- Sal_50:3vendrá nuestro Dios, y no callará; fuegoH935
+- Sal 51 tít.cuando después que...vino a él Natán elH935
+- Sal 52 tít.cuando vino Doeg edomita y dio cuentaH935
+- Sal 52 tít.a Saúl diciéndole: David ha venido aH935
+- Sal 54 tít.cuando vinieron los zifeos y dijeronH935
+- Sal_55:5temor y temblor vinieron sobre mí, yH935
+- Sal_59:4despierta para venir a mi encuentro, y
+- Sal_62:1en Dios...alma; de él viene mi salvación
+- Sal_65:2oyes la oración; a ti vendrá toda carne
+- Sal_66:5venid, y ved las obras de Dios...hechosH935
+- Sal_66:16venid, oíd todos los que teméis a DiosH3212
+- Sal_68:17el Señor viene del Sinaí a su santuarioH3212
+- Sal_68:31vendrán príncipes de Egipto; Etiopía seH857
+- Sal_69:2en cieno...he venido a abismos de aguasH935
+- Sal_71:16vendré a los hechos poderosos de JehováH935
+- Sal_71:18potencia a todos los que han de venirH935
+- Sal_75:6ni del desierto viene el enaltecimiento
+- Sal_78:31cuando vino sobre ellos el furor de DiosH5927
+- Sal_79:1Dios, vinieron las naciones a tu heredadH935
+- Sal_79:8vengan...tus misericordias a encontrarnos
+- Sal_80:2despierta tu poder...y ven a salvarnosH3212
+- Sal_80:8hiciste venir una vid de Egipto; echasteH5265
+- Sal_83:4venid, y destruyámoslos para que no seanH3212
+- Sal_86:9las naciones que...vendrán delante de tiH935
+- Sal_95:1venid, aclamemos alegremente a JehováH3212
+- Sal_95:6venid, adoremos y postrémonos...delanteH935
+- Sal_96:8dad...traed ofrendas, y venid a sus atriosH935
+- Sal_96:13Jehová que vino...v a juzgar la tierraH935
+- Sal_98:9Jehová, porque vino a juzgar la tierraH935
+- Sal_100:2venid ante su presencia con regocijoH935
+- Sal_101:2entenderé el camino de...cuando vengasH935
+- Sal_105:31habló, y vinieron enjambres de moscasH935
+- Sal_105:34habló, y vinieron langostas, y pulgónH935
+- Sal_105:40e hizo venir codornices, y los sacióH935
+- Sal_107:7para que viniesen a ciudad habitableH3212
+- Sal_109:14venga en memoria ante Jehová...maldad
+- Sal_114:2Judá vino a ser su santuario, e Israel
+- Sal_118:22piedra...venido a ser cabeza del ánguloH1961
+- Sal_118:26bendito el que viene en el nombre deH935
+- Sal_119:41venga a mí tu misericordia, oh JehováH935
+- Sal_119:77vengan a mí tus misericordias, para queH935
+- Sal_121:1los montes; ¿de dónde vendrá mi socorro?[[H935]]
+- Sal_121:2mi socorro viene de Jehová, que hizo los
+- Sal_126:6volverá a venir...trayendo, sus gavillasH935
+- Sal_143:7no venga yo a ser semejante a los que
+- Pro_1:11ven con nosotros; pongamos asechanzasH3212
+- Pro_1:26burlaré cuando os viniere lo que teméisH935
+- Pro_1:27cuando viniere como una...lo que teméisH935
+- Pro_1:27cuando...viniere tribulación y angustiaH935
+- Pro_2:6y de su boca viene el conocimiento y la
+- Pro_3:25de la ruina de los impíos cuando viniereH935
+- Pro_6:11así vendrá tu necesidad como caminanteH935
+- Pro_6:15por tanto, su calamidad vendrá de repenteH935
+- Pro_7:18ven, embriaguémonos de amores hasta laH3212
+- Pro_9:4, Pro_9:16dice a cualquier simple: Ven acá; a los
+- Pro_9:5venid, comed mi pan, y bebed del vino queH3212
+- Pro_10:24lo que el impío teme, eso le vendráH935
+- Pro_11:2cuando viene la soberbia, v también laH935
+- Pro_11:24retienen más de...pero vienen a pobreza
+- Pro_11:27mas al que busca el mal, éste le vendráH935
+- Pro_18:3viene el impío, v también el menosprecioH935
+- Pro_18:17pero viene su adversario, y le descubreH935
+- Pro_24:22su quebrantamiento vendrá de repenteH6965
+- Pro_24:25mas...sobre ellos vendrá gran bendiciónH935
+- Pro_24:34así vendrá como caminante tu necesidadH935
+- Pro_26:2así la maldición nunca vendrá sin causaH935
+- Pro_28:22y no sabe que le ha de venir pobrezaH935
+- Pro_29:26de Jehová viene el juicio de cada uno
+- Pro_31:25su vestidura; y se ríe de lo por venirH314
+- Ecl_1:4generación va, y generación viene; masH935
+- Ecl_1:7de donde los ríos vinieron, allí vuelvenH1980
+- Ecl_2:1dije...Ven ahora, te probaré con alegríaH3212
+- Ecl_2:12¿qué podrá hacer el hombre que vengaH935
+- Ecl_2:18dejar a otro que vendrá después de mí
+- Ecl_4:16los que vengan después tampoco estaránH314
+- Ecl_5:3de la mucha ocupación viene el sueño, yH935
+- Ecl_5:15yéndose tal como vino; y nada tiene deH935
+- Ecl_5:16mal, que como vino, así haya de volverH935
+- Ecl_6:4éste en vano viene, y a las tinieblas vaH935
+- Ecl_9:10lo que te viniere a la mano para hacer
+- Ecl_9:14y viene contra ella un gran rey, y laH935
+- Ecl_11:2porque no sabes el mal que vendrá sobre
+- Ecl_11:8tinieblas...Todo cuanto viene es vanidadH935
+- Ecl_12:1que vengan los días malos, y lleguen losH935
+- Cnt_2:8aquí él viene saltando sobre los montesH935
+- Cnt_2:10, Cnt_2:13levántate, oh amiga mía...mía, y venH3212
+- Cnt_2:12el tiempo de la canción ha venido, y enH5060
+- Cnt_4:8ven conmigo desde...esposa mía; v conmigoH935
+- Cnt_4:16levántate, Aquilón, y ven, Austro; sopladH935
+- Cnt_4:16venga mi amado a su huerto, y coma de suH935
+- Cnt_5:1vine a mi huerto, oh hermana, esposa míaH935
+- Cnt_7:11ven, oh amado mío, salgamos al campoH3212
+- Isa_1:12cuando venís a presentaros delante deH935
+- Isa_1:18venid luego, dice Jehová, y estemos aH3212
+- Isa_2:3vendrán muchos pueblos, y dirán: VenidH3212
+- Isa_2:5venid, oh casa de Jacob, y caminaremos aH3212
+- Isa_2:12porque día de Jehová...vendrá sobre todo
+- Isa_3:14Jehová vendrá a juicio contra...ancianos
+- Isa_3:24y en lugar de los...vendrá hediondez; y
+- Isa_5:19venga ya, apresúrese su obra, y veamos
+- Isa_5:19y venga el consejo del Santo de Israel
+- Isa_5:26he aquí que vendrá pronto y velozmenteH935
+- Isa_7:2vino la nueva a la casa de David...Siria
+- Isa_7:17Jehová hará venir sobre ti, sobre tuH935
+- Isa_7:17días cuales nunca vinieron desde el díaH935
+- Isa_7:19vendrán y acamparán todos en los vallesH935
+- Isa_9:1tal como la aflicción que le vino en el
+- Isa_10:3cuando venga de lejos el asolamiento?[[H935]]
+- Isa_10:28vino hasta Ajat, pasó hasta Migrón; enH935
+- Isa_10:32aún vendrá día cuando reposará en Nob
+- Isa_13:5vienen de lejana tierra, de lo postreroH935
+- Isa_13:6vendrá como asolamiento...TodopoderosoH935
+- Isa_13:9el día de Jehová viene, terrible, y deH935
+- Isa_14:31humo vendrá del norte, no quedará unoH935
+- Isa_16:12cuando venga a su santuario a orar, noH935
+- Isa_20:1en el año en que vino el Tartán a AsdodH935
+- Isa_21:1viene del desierto, de la tierra horrendaH935
+- Isa_21:9he aquí vienen hombres montados, jinetesH935
+- Isa_21:12la mañana viene, y después la nocheH857
+- Isa_21:12si queréis, preguntad; volved, venidH857
+- Isa_27:6días vendrán cuando Jacob echará raícesH935
+- Isa_27:11mujeres vendrán a encenderlos; porqueH935
+- Isa_27:13vendrán los que habían sido esparcidosH935
+- Isa_30:13pared elevada, cuya caída viene súbitaH935
+- Isa_30:27que el nombre de Jehová viene de lejosH935
+- Isa_30:29el que va con flauta para venir al monteH935
+- Isa_32:10vendimia faltará, y la cosecha no vendráH935
+- Isa_35:4que vuestro Dios viene con retribuciónH935
+- Isa_35:4pago; Dios mismo vendrá, y os salvaráH935
+- Isa_35:10volverán, y vendrán a Sion con alegríaH935
+- Isa_36:10¿acaso vine...a esta tierra sin Jehová?[[H5927]]
+- Isa_36:17yo venga y os lleve a una tierra comoH935
+- Isa_36:22vinieron a Ezequías...y le contaron lasH935
+- Isa_37:1y cubierto de cilicio vino a la casa de
+- Isa_37:5vinieron, pues, los siervos de EzequíasH935
+- Isa_37:26y ahora lo he hecho venir, y tú serásH935
+- Isa_37:29te haré volver por...por donde vinisteH935
+- Isa_37:33no vendrá delante de ella con escudoH6923
+- Isa_37:34por el camino que vino, volverá, y noH935
+- Isa_38:1vino a él el profeta Isaías hijo de AmozH935
+- Isa_38:4entonces vino palabra de Jehová a IsaíasH1961
+- Isa_39:3el profeta Isaías vino al rey EzequíasH935
+- Isa_39:3¿qué dicen...y de dónde han venido a ti?[[H935]]
+- Isa_39:3de tierra muy lejana han venido a mí, deH935
+- Isa_39:6he aquí vienen días en que será llevadoH935
+- Isa_40:10Jehová el Señor vendrá con poder, y suH935
+- Isa_40:10su recompensa viene con él, y su paga
+- Isa_41:5espantaron; se congregaron, y vinieronH857
+- Isa_41:22anúnciennos lo que...venir, dígannos lo
+- Isa_41:22y hacednos entender lo que ha de venirH935
+- Isa_41:25del norte levanté a uno, y vendrá; delH857
+- Isa_44:7lo que viene, y lo que está por venirH935
+- Isa_45:11dice...Preguntadme de las cosas por venirH857
+- Isa_45:20venid; juntaos todos los sobrevivientes
+- Isa_45:24a él vendrán, y todos los que contra élH935
+- Isa_46:10anuncio lo por venir desde el principio
+- Isa_46:11hablé, y lo haré venir; lo he pensadoH935
+- Isa_47:9estas dos cosas te vendrán de repente enH935
+- Isa_47:9en toda su fuerza vendrán sobre ti, aH935
+- Isa_47:11vendrá...sobre ti...v de repente sobre tiH935
+- Isa_47:13para pronosticar lo que vendrá sobre tiH935
+- Isa_49:12aquí éstos vendrán de lejos del norteH935
+- Isa_49:17tus edificadores vendrán aprisa; tus
+- Isa_49:18y mira: todos éstos se...han venido a tiH935
+- Isa_50:2¿por qué cuando vine, no hallé a nadieH935
+- Isa_50:11de mi mano os vendrá esto; en dolor
+- Isa_52:1porque nunca más vendrá a ti incircuncisoH935
+- Isa_54:17su salvación de mí vendrá, dijo Jehová
+- Isa_55:1todos los sedientos: Venid a las aguasH3212
+- Isa_55:1venid, comprad y comed...V, comprad sinH3212
+- Isa_55:3inclinad vuestro oído, y venid a mí; oídH3212
+- Isa_56:1cercana está mi salvación para venir, yH935
+- Isa_56:9las fieras del bosque, venid a devorarH857
+- Isa_56:12venid...tomemos vino, embriaguémonosH857
+- Isa_57:11y no te has acordado de mí, ni te vino
+- Isa_59:14se retiró...y la equidad no pudo venir
+- Isa_59:19porque vendrá el enemigo como río, masH935
+- Isa_59:20vendrá el Redentor a Sion, y a los queH935
+- Isa_60:1porque ha venido tu luz, y la gloria deH935
+- Isa_60:4vinieron a ti; tus hijos vendrán de lejosH935
+- Isa_60:5riquezas de las naciones hayan venido aH935
+- Isa_60:6vendrán todos los de Sabá; traerán oro eH935
+- Isa_60:13gloria del Líbano vendrá a ti; cipresesH935
+- Isa_60:14y vendrán a ti humillados los hijos deH1980
+- Isa_60:22el pequeño vendrá a ser mil, el menor
+- Isa_62:11he aquí viene tu Salvador; he aqui suH935
+- Isa_63:1¿quién es éste que viene de Edom...BosraH935
+- Isa_63:19venido a ser como aquellos de quienes
+- Isa_65:17memoria, ni más vendrá al pensamientoH5927
+- Isa_66:7que le viniesen dolores, dio a luz hijoH935
+- Isa_66:15Jehová vendrá con fuego, y sus carrosH935
+- Isa_66:18tiempo vendrá para juntar a...nacionesH935
+- Isa_66:23vendrán todos a adorar delante de míH935
+- Jer_1:2palabra de Jehová que le vino en losH1961
+- Jer_1:3le vino también en días de Joacim hijo deH1961
+- Jer_1:4vino...palabra de Jehová a mí, diciendoH1961
+- Jer_1:11la palabra de Jehová vino a mí, diciendoH1961
+- Jer_1:13vino...palabra de Jehová por segunda vezH1961
+- Jer_1:15vendrán...pondrá cada uno su campamentoH935
+- Jer_2:1; Jer_13:8; Jer_16:1; Jer_18:5; Jer_24:4vino a mí palabra de Jehová, diciendoH1961
+- Jer_2:3eran culpables; mal venía sobre ellosH935
+- Jer_2:31somos libres: nunca más vendremos a ti?[[H935]]
+- Jer_3:16no se dirá...ni vendrá al pensamiento, niH5927
+- Jer_3:17y todas las naciones vendrán a ella en
+- Jer_3:18y vendrán juntamente de la tierra delH935
+- Jer_3:22venimos a ti, porque...eres nuestro DiosH5927
+- Jer_4:6huid...porque yo hago venir mal del norteH935
+- Jer_4:10pues la espada ha venido hasta el alma
+- Jer_4:11viento seco de las alturas del...vino a
+- Jer_4:12viento más vehemente que este vendrá aH935
+- Jer_4:16decid...Guardas vienen de tierra lejanaH935
+- Jer_5:12él no es, y no vendrá mal sobre nosotrosH935
+- Jer_6:3contra ella vendrán pastores y...rebañosH935
+- Jer_6:22viene pueblo de la tierra del norte, yH935
+- Jer_6:26porque pronto vendrá sobre nosotros elH935
+- Jer_7:1; Jer_11:1; Jer_14:1; Jer_18:1; Jer_21:1; Jer_30:1; Jer_32:1; Jer_34:1, Jer_34:8; Jer_35:1; Jer_40:1palabra...que vino a JeremíasH1961
+- Jer_7:10¿vendréis y os pondréis delante de mí enH935
+- Jer_7:32aquí vendrán días...en que no se diga másH935
+- Jer_8:16y vinieron y devoraron la tierra y suH935
+- Jer_8:19clamor de...que viene de la tierra lejana
+- Jer_9:17llamad plañideras que vengan; buscad aH935
+- Jer_9:25que vienen días...en que castigaré a todoH935
+- Jer_10:22voz de rumor viene, y alboroto grandeH935
+- Jer_12:9venid...todas las fieras del campo, v aH3212
+- Jer_12:12sobre...alturas...vinieron destruidoresH935
+- Jer_13:3vino a mí segunda vez palabra de JehováH1961
+- Jer_13:10vendrá a ser como este cinto, que para
+- Jer_13:16antes que haga venir tinieblas, y antes
+- Jer_13:20ojos, y ved a los que vienen del norteH935
+- Jer_14:3vinieron a...lagunas, y no hallaron aguaH935
+- Jer_16:14vienen días, dice Jehová, en que no seH935
+- Jer_16:19vendrán naciones desde los extremos deH935
+- Jer_17:6no verá cuando viene el bien, sino queH935
+- Jer_17:8no verá cuando viene el calor, sino queH935
+- Jer_17:26vendrán de las ciudades de Judá, de losH935
+- Jer_18:18venid y maquinemos contra JeremíasH3212
+- Jer_18:18Jeremías...Venid e hirámoslo de lenguaH3212
+- Jer_19:5no les mandé...ni me vino al pensamientoH5927
+- Jer_19:6vienen días...no se llamará más Tofet, niH935
+- Jer_22:23¡cómo gemirás...vinieren dolores, dolorH935
+- Jer_23:5que vienen días...en que levantaré a DavidH935
+- Jer_23:7vienen días, dice...en que no dirán másH935
+- Jer_23:17dicen: No vendrá mal sobre vosotrosH935
+- Jer_23:36nunca más os vendrá a la memoria decir
+- Jer_25:1palabra que vino a Jeremías acerca deH1961
+- Jer_25:3ha venido a mí palabra de Jehová, y heH1961
+- Jer_26:1en el principio del...vino esta palabraH1961
+- Jer_26:2habla a todas las...que vienen para adorarH935
+- Jer_27:1vino esta palabra de Jehová a JeremíasH1961
+- Jer_27:3los mensajeros que vienen a Jerusalén aH935
+- Jer_27:7que venga...el tiempo de su misma tierraH935
+- Jer_28:12; Jer_29:30; Jer_32:26; Jer_33:1, Jer_33:19, Jer_33:23; Jer_34:12; Jer_35:12; Jer_36:1, Jer_36:27; Jer_42:7; Jer_43:8vino palabra de Jehová a JeremíasH1961
+- Jer_29:12me invocaréis, y vendréis y oraréis a míH1980
+- Jer_30:3vienen días, dice...en que haré volverH935
+- Jer_30:17haré venir santidad para ti, y sanaré
+- Jer_31:12vendrán con gritos de gozo en lo altoH935
+- Jer_31:27vienen días...en que sembraré la casa deH935
+- Jer_31:31vienen días...haré nuevo pacto con laH935
+- Jer_31:38vienen días...la ciudad será edificada aH935
+- Jer_32:6palabra de Jehová vino a mí, diciendoH1961
+- Jer_32:7Hanameel hijo de Salum tu tío viene a tiH935
+- Jer_32:8y vino a mí Hanameel hijo de mi tío...dijoH935
+- Jer_32:23hecho venir sobre ellos todo este malH935
+- Jer_32:29y vendrán los caldeos que atacan estaH935
+- Jer_32:35no les mandé, ni me vino al pensamientoH5927
+- Jer_33:5vinieron para pelear contra los caldeosH935
+- Jer_33:14vienen días...en que yo confirmaré laH935
+- Jer_35:11venid, y ocultémonos en Jerusalén, deH935
+- Jer_36:6los de Judá que vienen de sus ciudadesH935
+- Jer_36:9pueblo que venía de las ciudades de JudáH935
+- Jer_36:14toma el rollo en...y ven...y vino a ellosH3212
+- Jer_36:29de cierto vendrá el rey de BabiloniaH935
+- Jer_37:6vino palabra de Jehová al profetaH1961
+- Jer_37:19diciendo: No vendrá el rey de BabiloniaH935
+- Jer_38:25vinieren a ti y te dijeren: DecláranosH935
+- Jer_38:27vinieron...los príncipes a Jeremías, yH935
+- Jer_39:1vino Nabucodonosor...con todo su ejércitoH935
+- Jer_39:15había venido palabra de Jehová...diciendoH1961
+- Jer_40:3y no oísteis su voz: por eso os ha venidoH1961
+- Jer_40:4si te parece bien venir conmigo a...venH935
+- Jer_40:4pero si no te parece bien venir conmigoH935
+- Jer_40:8vinieron...a Gedalías en Mizpa; esto esH935
+- Jer_40:10de los caldeos que vendrán a nosotrosH935
+- Jer_40:12vinieron a tierra de Judá, a GedalíasH935
+- Jer_40:13los príncipes...vinieron a Gedalías enH935
+- Jer_41:1vino Ismael...a Gedalías hijo de AbicamH935
+- Jer_41:5venían unos hombres de Siquem, de SiloH935
+- Jer_41:6les dijo: Venid a Gedalías hijo de AbicamH935
+- Jer_42:1vinieron...los oficiales de la gente deH5066
+- Jer_43:11y vendrá y asolará la tierra de EgiptoH935
+- Jer_44:1palabra que vino a Jeremías acerca deH1961
+- Jer_44:21no ha venido a su memoria el inciensoH5927
+- Jer_44:23ha venido sobre vosotros este mal, como
+- Jer_46:1; Jer_47:1; Jer_49:34palabra...que vino al profeta JeremíasH1961
+- Jer_46:3preparad escudo y pavés, y venid a la
+- Jer_46:18Tabor...y como Carmelo...así vendráH935
+- Jer_46:20Egipto...viene destrucción, del norte vH935
+- Jer_46:21vino...el día de su quebrantamiento, elH935
+- Jer_46:22vendrán los enemigos, y con hachas v aH935
+- Jer_47:4causa del día que viene para destrucciónH935
+- Jer_48:2venid, y quitémosla de entre...nacionesH3212
+- Jer_48:8y vendrá destruidor a cada una de lasH935
+- Jer_48:12vienen días...le enviaré trasvasadoresH935
+- Jer_48:16cercano...el quebrantamiento para venirH935
+- Jer_48:21vino juicio sobre la tierra de...llanuraH935
+- Jer_48:32y sobre tu vendimia vino el destruidor
+- Jer_49:2vienen días, ha dicho...en que haré oírH935
+- Jer_49:4la que dice: ¿Quién vendrá contra mí?[[H935]]
+- Jer_49:9si vendimiadores hubieran venido contraH935
+- Jer_49:14juntaos y venid contra ella, y subid aH935
+- Jer_50:4vendrán, hijos de Israel...hijos de JudáH935
+- Jer_50:5venid, y juntémonos a Jehová con pactoH935
+- Jer_50:26venid contra ella desde el extremo deH935
+- Jer_50:27venido su día, el tiempo de su castigoH935
+- Jer_50:31tu día ha venido...el tiempo en que teH935
+- Jer_50:41viene un pueblo del norte, y una naciónH935
+- Jer_51:10venid, y contemos en Sion la obra deH935
+- Jer_51:13venido tu fin, la medida de tu codiciaH935
+- Jer_51:33a poco le vendrá el tiempo de la siegaH935
+- Jer_51:41¡cómo vino a ser Babilonia objeto de
+- Jer_51:44juzgaré...y no vendrán más naciones a él
+- Jer_51:46en un año vendrá el rumor, y después enH935
+- Jer_51:47he aquí vienen días en que yo destruiréH935
+- Jer_51:48norte vendrán contra ella destruidoresH935
+- Jer_51:51vinieron extranjeros contra...la casa deH935
+- Jer_51:52vienen días...que yo destruiré sus ídolosH935
+- Jer_51:53de mí vendrán a ella destruidores, diceH935
+- Jer_51:56vino destruidor contra ella...BabiloniaH935
+- Jer_51:60escribió...todo el mal que había de venirH935
+- Jer_52:4vino Nabucodonosor...y todo su ejércitoH935
+- Jer_52:9y le hicieron venir al rey de Babilonia
+- Jer_52:12vino a Jerusalén Nabuzaradán capitán deH935
+- Jer_52:14el ejército...que venía con el capitán
+- Lam_1:4porque no hay quien venga a las fiestasH935
+- Lam_1:12si hay...dolor como mi...que me ha venido
+- Lam_1:21harás venir el día que has anunciado, yH935
+- Lam_1:22venga delante de ti toda su maldad, y hazH935
+- Eze_1:3vino palabra de Jehová al...Ezequiel hijoH1961
+- Eze_1:3río, vino allí sobre él la mano de Jehová
+- Eze_1:4aquí venía del norte un viento tempestuosoH935
+- Eze_3:15y vine a los cautivos en Tel-abib, queH935
+- Eze_3:16; Eze_6:1; Eze_7:1; Eze_11:14; Eze_12:1, Eze_12:8, Eze_12:17, Eze_12:21, Eze_12:26; Eze_13:1; Eze_14:2, Eze_14:12; Eze_15:1; Eze_16:1; Eze_17:1, Eze_17:11; Eze_18:1; Eze_20:2, Eze_20:45; Eze_21:1, Eze_21:8, Eze_21:18; Eze_22:1, Eze_22:17, Eze_22:23; Eze_23:1; Eze_24:1, Eze_24:15, Eze_24:20; Eze_25:1; Eze_26:1; Eze_27:1; Eze_28:1, Eze_28:11, Eze_28:20; Eze_29:1, Eze_29:17; Eze_30:1, Eze_30:20; Eze_31:1; Eze_32:1, Eze_32:17; Eze_33:1, Eze_33:23; Eze_34:1; Eze_35:1; Eze_36:16; Eze_37:15; Eze_38:1vino a mí palabra de Jehová, diciendoH1961
+- Eze_3:20y sus justicias...no vendrán en memoria
+- Eze_3:22vino allí la mano de Jehová sobre mí, y
+- Eze_6:3yo, yo haré venir sobre vosotros espadaH935
+- Eze_7:2el fin viene sobre los cuatro extremos deH935
+- Eze_7:5ha dicho Jehová...he aquí que viene un malH935
+- Eze_7:6viene el fin, el fin v; se ha...aquí que vH935
+- Eze_7:7la mañana viene para ti...el tiempo vH935
+- Eze_7:10el día, he aquí que viene; ha salido laH935
+- Eze_7:12el tiempo ha venido, se acercó el día; elH935
+- Eze_7:25destrucción viene; y buscarán la paz, yH935
+- Eze_7:26quebrantamiento vendrá...y habrá rumorH935
+- Eze_9:2que seis varones venían del camino de laH935
+- Eze_11:5vino sobre mí el Espíritu de Jehová, y
+- Eze_13:11dí...vendrá lluvia torrencial, y enviaré
+- Eze_13:13lluvia torrencial vendrá con mi furor
+- Eze_14:1vinieron a mí algunos de los ancianos deH935
+- Eze_14:4viniere al profeta...yo Jehová responderéH935
+- Eze_14:4responderé al que viniere conforme a laH935
+- Eze_14:7viniere al profeta para preguntarle porH935
+- Eze_14:22vendrán a vosotros, y veréis su caminoH3318
+- Eze_14:22del mal que hice venir sobre JerusalénH935
+- Eze_17:3una gran águila...vino al Líbano, y tomóH935
+- Eze_17:12el rey de Babilonia vino a JerusalénH935
+- Eze_17:20en mi lazo, y lo haré venir a BabiloniaH935
+- Eze_19:3vino a ser leoncillo, y aprendió...presa
+- Eze_20:1que vinieron algunos de los ancianos deH935
+- Eze_20:3diles...¿A consultarme venís vosotros?[[H935]]
+- Eze_21:19dos caminos por donde venga la espadaH935
+- Eze_21:20señalarás por donde venga la espada aH935
+- Eze_21:24por cuanto habéis venido en memoria
+- Eze_21:27que venga aquel cuyo es el derechoH935
+- Eze_21:29malos...cuyo día vino en el tiempo de laH935
+- Eze_22:3para que venga su hora, y que hizo ídolosH935
+- Eze_23:10y vino a ser famosa entre las mujeres
+- Eze_23:22y les haré venir contra ti en derredorH935
+- Eze_23:24vendrán contra ti carros, carretas yH935
+- Eze_23:40enviaron por hombres que viniesen deH935
+- Eze_23:40he aquí vinieron; y por amor de ellosH935
+- Eze_23:44venido a ella como quien viene a mujer
+- Eze_23:44vinieron a Ahola y a Aholiba, mujeres
+- Eze_24:14Jehová he hablado; vendrá, y yo lo haréH835
+- Eze_24:26vendrá a ti uno que haya escapado paraH835
+- Eze_27:16corales y rubíes venían a tus ferias
+- Eze_27:19Dan y el errante Javán vinieron a tus
+- Eze_27:22preciosa, y oro, vinieron a tus ferias
+- Eze_27:36vendrás a ser espanto, y para siempre
+- Eze_30:4vendrá espada a Egipto, y habrá miedo enH935
+- Eze_30:9y tendrán espanto...porque he aquí vieneH935
+- Eze_32:11la espada del rey de...vendrá sobre tiH935
+- Eze_33:3él viere venir la espada sobre la tierraH935
+- Eze_33:4oyere...y viniendo la espada lo hiriereH935
+- Eze_33:6si el...viere venir la espada y no tocareH935
+- Eze_33:6y viniendo la espada, hiriere de él aH935
+- Eze_33:21que vino a mí un fugitivo de JerusalénH935
+- Eze_33:22boca, hasta que vino a mí por la mañanaH935
+- Eze_33:30venid ahora, y oíd qué palabra viene deH935
+- Eze_33:31y vendrán a ti como viene el pueblo, yH935
+- Eze_33:33cuando...viniere (y viene ya), sabrán queH935
+- Eze_35:7cortaré de él al que vaya y al que vengaH7725
+- Eze_36:8Israel; porque cerca están para venirH935
+- Eze_36:35ha venido a ser como huerto del Edén
+- Eze_37:1mano de Jehová vino sobre mí, y me llevó
+- Eze_37:9así...Espíritu, ven de los cuatro vientosH935
+- Eze_38:8vendrás a la tierra salvada de la espada
+- Eze_38:9subirás tú, y vendrás como tempestadH935
+- Eze_38:13¿has venido a arrebatar despojos? ¿HasH935
+- Eze_38:15vendrás de tu lugar, de las regiones delH935
+- Eze_38:18cuando venga Gog contra la tierra deH935
+- Eze_39:8aquí viene, y se cumplirá, dice JehováH935
+- Eze_39:17y venid; reuníos de todas partes a miH935
+- Eze_40:1vino sobre mí la mano de Jehová, y me
+- Eze_40:6después vino a la puerta que mira haciaH935
+- Eze_43:2la gloria del Dios de Israel, que veníaH935
+- Eze_43:3vi cuando vine para destruir la ciudadH935
+- Eze_47:15Mar Grande...camino de Hetlón viniendo aH935
+- Eze_48:1por la vía de Hetlón viniendo a HamatH935
+- Dan_1:1vino Nabucodonosor rey de Babilonia aH935
+- Dan_2:2vinieron...se presentaron delante del reyH935
+- Dan_2:29vinieron pensamientos por saber lo queH5559
+- Dan_2:29lo que había de ser en lo por venir; y elH1934
+- Dan_2:45lo que ha de acontecer en lo por venirH1934
+- Dan_3:2para que viniesen a la dedicación de laH858
+- Dan_3:8caldeos vinieron y acusaron...los judíosH7127
+- Dan_3:26siervos del Dios Altísimo, salid y venidH858
+- Dan_4:6mandé que vinieran...todos los sabios deH5924
+- Dan_4:7y vinieron magos, astrólogos, caldeos yH5954
+- Dan_4:24sentencia...que ha venido sobre mi señorH4291
+- Dan_4:28todo esto vino sobre el rey NabucodonosorH4291
+- Dan_4:31cuando vino una voz del cielo: A ti seH5308
+- Dan_5:7gritó...que hiciesen venir magos, caldeosH5924
+- Dan_7:13cielo venía uno como un hijo de hombre
+- Dan_7:13que vino hasta el Anciano de días, y leH4291
+- Dan_7:22hasta que vino el Anciano de días, y seH858
+- Dan_8:5macho cabrío venía del lado del ponienteH935
+- Dan_8:6vino hasta el carnero de dos cuernos, queH935
+- Dan_8:17vino luego cerca de donde yo estaba; yH935
+- Dan_8:19yo te enseñaré lo que ha de venir al fin
+- Dan_9:13todo este mal vino sobre nosotros; y noH935
+- Dan_9:21vino a mí como a la hora del sacrificio
+- Dan_9:23yo he venido para enseñártela, porque túH3318
+- Dan_9:26que ha de venir destruirá la ciudad y elH935
+- Dan_9:27vendrá el desolador, hasta que venga la
+- Dan_10:12y a causa de tus palabras yo he venidoH935
+- Dan_10:13vino para ayudarme, y quedé allí con losH935
+- Dan_10:14he venido para hacerte saber lo que haH935
+- Dan_10:14saber lo que ha de venir a tu pueblo enH7136
+- Dan_10:20él me dijo: ¿Sabes por qué he venido aH935
+- Dan_10:20y al terminar con él...de Grecia vendráH935
+- Dan_11:6vendrá al rey del norte para hacer...pazH935
+- Dan_11:7y vendrá con ejército contra el rey delH935
+- Dan_11:10vendrá...e inundará, y pasará adelanteH935
+- Dan_11:13vendrá...con gran ejército y...riquezasH935
+- Dan_11:15vendría...el rey del norte, y levantaráH935
+- Dan_11:16que vendrá contra él hará su voluntadH935
+- Dan_11:17para venir con el poder de todo su reino
+- Dan_11:21vendrá sin aviso y tomará el reino conH935
+- Dan_11:30vendrán contra él naves de Quitim, y élH935
+- Ose_1:1Palabra de Jehová que vino a Oseas hijoH1961
+- Ose_6:1venid y volvamos a Jehová...y nos curaráH3212
+- Ose_6:3vendrá a nosotros como la lluvia, como laH935
+- Ose_7:13destrucción vendrá sobre ellos, porque
+- Ose_8:1como águila viene contra la casa de Jehová
+- Ose_9:7vinieron los días del castigo, v los díasH935
+- Ose_10:12hasta que venga y os enseñe justiciaH935
+- Ose_11:10los hijos vendrán temblando desde el
+- Ose_13:13dolores de mujer que da a...le vendránH935
+- Ose_13:15vendrá el solano, viento de Jehová; seH935
+- Joe_1:1palabra de Jehová que vino a Joel, hijoH1961
+- Joe_1:13venid, dormid en cilicio, ministros deH935
+- Joe_1:15vendrá...destrucción por el TodopoderosoH935
+- Joe_2:1porque viene el día de Jehová...cercanoH935
+- Joe_2:2vendrá un pueblo grande...semejante a él
+- Joe_2:31que venga el día grande y espantoso deH935
+- Joe_3:9acérquense, vengan...los hombres de guerraH5927
+- Joe_3:11juntaos y venid, naciones...de alrededorH935
+- Joe_3:11haz venir allí, oh Jehová, a tus fuertesH5181
+- Joe_3:13venid, descended, porque el lagar estáH935
+- Amó_3:11un enemigo vendrá por todos lados de
+- Amó_4:2aquí, vienen sobre vosotras días en queH935
+- Amó_4:8venían dos o tres ciudades a...para beber
+- Amó_4:12prepárate para venir al encuentro de tu
+- Amó_5:9y hace que el despojador venga sobre laH935
+- Amó_8:2ha venido el fin sobre mi pueblo IsraelH935
+- Amó_8:11viene...días...los cuales enviaré hambre aH935
+- Amó_9:13vienen días...que el que ara alcanzará alH935
+- Abd_1:5si ladrones vinieran a ti...¿no hurtaríanH935
+- Jon_1:1vino palabra de Jehová a Jonás hijo deH1961
+- Jon_1:7venid y echemos suertes...causa de quiénH3212
+- Jon_1:7por causa de quién nos ha venido este mal
+- Jon_1:8decláranos...por qué nos ha venido este mal
+- Jon_1:8¿qué oficio tienes, y de dónde vienes?[[H935]]
+- Jon_1:12sé que por mi causa ha venido, tempestad
+- Jon_3:1vino palabra de Jehová por segunda vez aH1961
+- Jon_4:7pero al venir el alba del día siguiente
+- Miq_1:1palabra de Jehová que vino a Miqueas deH1961
+- Miq_3:11¿no está...No vendrá mal sobre nosotrosH935
+- Miq_3:12vendrá a ser montones de ruinas, y el
+- Miq_4:2vendrán muchas naciones, y dirán: VenidH1980
+- Miq_4:8Sion, hasta ti vendrá el señorío primeroH857
+- Miq_5:5cuando el asirio viniere...cuando hollareH935
+- Miq_5:6y nos librará del asirio, cuando viniereH935
+- Miq_7:4día de tu castigo viene, el que anunciaronH935
+- Miq_7:11viene el día en que se edificarán tus
+- Miq_7:12en ese día vendrán hasta ti desde AsiriaH935
+- Hab_1:8feroces...vendrán de lejos sus jinetesH935
+- Hab_1:9toda ella vendrá a la presa; el terror vaH935
+- Hab_2:3aunque tardare, espéralo...sin duda vendráH935
+- Hab_2:16el cáliz de...de Jehová vendrá hasta ti
+- Hab_3:3Dios vendrá de Temán, y el Santo desde elH935
+- Sof_1:1palabra de Jehová que vino a SofoníasH1961
+- Sof_2:2que venga...el furor de la ira de JehováH935
+- Sof_2:2antes que el día de la ira...venga sobreH935
+- Sof_2:10esto les vendrá por su soberbia, porque
+- Hag_1:1, Hag_1:3vino palabra de Jehová por...HageoH1961
+- Hag_1:14y vinieron y trabajaron en la casa deH935
+- Hag_2:1mes, vino palabra de Jehová por medio delH1961
+- Hag_2:7vendrá el Deseado de todas las nacionesH935
+- Hag_2:10vino palabra de...medio del profeta HageoH1961
+- Hag_2:16antes...venían al montón de veinte efasH935
+- Hag_2:16venían al lagar para sacar 50 cántaros, yH935
+- Hag_2:20vino por segunda vez palabra de...a HageoH1961
+- Hag_2:22vendrán abajo los caballos y sus jinetesH3381
+- Zac_1:1, Zac_1:7vino palabra...al profeta ZacaríasH1961
+- Zac_1:21éstos han venido para hacerlos temblarH935
+- Zac_2:10he aquí vengo, y moraré en medio de tiH935
+- Zac_4:8vino palabra de Jehová a mí, diciendoH1961
+- Zac_5:4vendrá a la casa del ladrón, y a la casa
+- Zac_6:9; Zac_8:1, Zac_8:18vino a mí palabra de JehováH1961
+- Zac_6:15los que están lejos vendrán y ayudaránH935
+- Zac_7:1, Zac_7:8vino palabra de Jehová a Zacarías, aH1961
+- Zac_7:4vino, pues a mí palabra de Jehová de losH1961
+- Zac_7:12vino...gran enojo de parte de Jehová deH1961
+- Zac_7:14ellos, sin quedar quien fuese ni viniese
+- Zac_8:20vendrán pueblos, y habitantes de muchasH935
+- Zac_8:21vendrán los habitantes de una ciudad aH1980
+- Zac_8:22vendrán muchos pueblos...buscar a JehováH935
+- Zac_9:8acamparé...para que ninguno vaya ni venga
+- Zac_9:9aquí tu rey vendrá a ti, justo y salvadorH935
+- Zac_12:9destruir a...las naciones que vinierenH935
+- Zac_14:1el día de Jehová viene, y en medio de tiH935
+- Zac_14:5vendrá Jehová...y con él todos los santosH935
+- Zac_14:16naciones que vinieron contra JerusalénH935
+- Zac_14:17no subieren a...no vendrá sobre ellos
+- Zac_14:18y si la familia de Egipto...no viniereH935
+- Zac_14:18vendrá la plaga con que Jehová herirá
+- Zac_14:21los que sacrificaren vendrán y tomaránH935
+- Mal_3:1y vendrá súbitamente a su templo elH935
+- Mal_3:1viene, ha dicho Jehová de los ejércitosH935
+- Mal_3:5y vendré a vosotros para juicio; y seréH7126
+- Mal_4:1aquí, viene el día ardiente como un hornoH935
+- Mal_4:1día que vendrá los abrasará, ha dichoH935
+- Mal_4:5Elías, antes que venga el día de JehováH935
+- Mal_4:6no sea que yo venga y hiera la tierra conH935
+- Mat_2:1nació en Belén...vinieron del orienteG3854
+- Mat_2:2¿dónde está el rey de...venimos a adorarleG2064
+- Mat_2:21tomó al niño...y vino a tierra de IsraelG2064
+- Mat_2:23vino y habitó en la ciudad que...NazaretG2064
+- Mat_3:1en aquellos días vino Juan el BautistaG3854
+- Mat_3:7al ver él...saduceos venían a su bautismoG2064
+- Mat_3:11el que viene tras mí...es más poderosoG2064
+- Mat_3:13Jesús vino de Galilea a Juan al JordánG3854
+- Mat_3:14ser bautizado por ti, ¿y tú vienes a mí?[[G2064]]
+- Mat_3:16descendía como paloma, y venía sobre él
+- Mat_4:3vino a él el tentador, y le dijo: Si eresG4334
+- Mat_4:11y he aquí vinieron ángeles y le servíanG4334
+- Mat_4:13vino y habitó en Capernaum...en la regiónG2064
+- Mat_4:19les dijo: Venid en pos de mí, y os haré
+- Mat_5:1sentándose, vinieron a él sus discípulosG4334
+- Mat_5:17que he venido para abrogar la ley o losG2064
+- Mat_5:17no he venido para abrogar, sino...cumplirG2064
+- Mat_5:24deja...entonces ven y presenta tu ofrendaG2064
+- Mat_6:10venga tu reino...Hágase tu voluntad, comoG2064
+- Mat_7:15falsos profetas, que vienen...son lobosG2064
+- Mat_7:25, Mat_7:27y vinieron ríos, y soplaron vientosG2064
+- Mat_8:2y vino un leproso y se postró, diciendoG2064
+- Mat_8:5entrando Jesús...vino a él un centuriónG4334
+- Mat_8:9y al otro: Ven, y viene; y a mi siervoG2064
+- Mat_8:11os digo que vendrán muchos del orienteG2240
+- Mat_8:14vino Jesús a casa de Pedro, y vio a laG2064
+- Mat_8:19vino un escriba y le dijo: Maestro, teG4334
+- Mat_8:25vinieron sus discípulos y le despertaronG4334
+- Mat_8:28vinieron a su encuentro...endemoniados
+- Mat_8:29¿has venido acá para atormentarnos antesG2064
+- Mat_8:33y viniendo a la ciudad, contaron todas
+- Mat_9:1en la barca, pasó al otro lado y vino aG2064
+- Mat_9:10muchos publicanos y...que habían venidoG2064
+- Mat_9:13no he venido a llamar a justos, sino aG2064
+- Mat_9:14vinieron a él los discípulos de JuanG4334
+- Mat_9:15vendrán días cuando el esposo les seráG2064
+- Mat_9:18vino un hombre principal y se postróG2064
+- Mat_9:18ven y pon tu mano sobre ella, y viviráG2064
+- Mat_9:28llegado a la...vinieron a él los ciegosG2064
+- Mat_10:13vuestra paz vendrá sobre ella; mas siG2064
+- Mat_10:23no...antes que venga el Hijo del HombreG2064
+- Mat_10:34no penséis que he venido para traer pazG2064
+- Mat_10:34no...venido para traer paz, sino espadaG2064
+- Mat_10:35he venido para poner en disensión alG2064
+- Mat_11:3¿eres tú aquel que había de venir, oG2064
+- Mat_11:14él es aquel Elías que había de venirG2064
+- Mat_11:18porque vino Juan, que ni comía ni bebíaG2064
+- Mat_11:19vino el Hijo del Hombre...come y bebeG2064
+- Mat_11:28venid a mí...los que estáis trabajadosG1205
+- Mat_12:9pasando de allí, vino a la sinagoga deG2064
+- Mat_12:42vino de los fines de la tierra para oírG2064
+- Mat_12:45el postrer estado de...viene a ser peor
+- Mat_13:4parte...vinieron las aves y la comieronG2064
+- Mat_13:19viene el malo, y arrebata lo que fueG2064
+- Mat_13:21al venir la aflicción o...luego tropieza
+- Mat_13:25vino su enemigo y sembró cizaña entreG2064
+- Mat_13:27vinieron...los siervos del...y le dijeronG4334
+- Mat_13:32que vienen las aves del cielo y hacenG2064
+- Mat_13:54venido a su tierra, les enseñaba en laG2064
+- Mat_14:25Jesús vino a ellos andando sobre el mar
+- Mat_14:29él dijo: Ven...Y descendiendo Pedro deG2064
+- Mat_14:33vinieron y le adoraron...Hijo de DiosG2064
+- Mat_14:34y terminada la travesía, vinieron a laG2064
+- Mat_15:25ella vino y se postró...¡Señor, socórreme![[G2064]]
+- Mat_15:29pasó Jesús de allí y vino junto al marG2064
+- Mat_15:39la barca, y vino a la región de MagdalaG2064
+- Mat_16:1vinieron los fariseos y...para tentarleG4334
+- Mat_16:13viniendo Jesús a la región de CesareaG2064
+- Mat_16:24si alguno quiere venir en pos de míG2064
+- Mat_16:27porque el Hijo...vendrá en la gloria deG2064
+- Mat_16:28el Hijo del Hombre viniendo en su reinoG2064
+- Mat_17:10es necesario que Elías venga primero?[[G2064]]
+- Mat_17:11viene primero, y restaurará todas lasG2064
+- Mat_17:12que Elías ya vino, y no le conocieronG2064
+- Mat_17:14vino a él un hombre que se arrodillóG4334
+- Mat_17:19viniendo entonces...discípulos a JesúsG4334
+- Mat_17:24vinieron a Pedro los que cobraban lasG4334
+- Mat_18:1los discípulos vinieron a Jesús, diciendoG4334
+- Mat_18:7es necesario que vengan tropiezos, peroG2064
+- Mat_18:7¡ay de aquel hombre por quien viene elG2064
+- Mat_18:11el Hijo...ha venido para salvar lo queG2064
+- Mat_19:3vinieron a él los fariseos, tentándoleG4334
+- Mat_19:14dejad a los niños venir a mí, y no seG2064
+- Mat_19:16entonces vino uno y le dijo: MaestroG4334
+- Mat_19:21vende lo que tienes...y ven y síguemeG1204
+- Mat_20:9al venir los que habían ido cerca de laG2064
+- Mat_20:10al venir también los primeros, pensaronG2064
+- Mat_20:28como el Hijo del Hombre no vino paraG2064
+- Mat_21:1cuando...vinieron a Betfagé, al monte deG2064
+- Mat_21:5he aquí, tu Rey viene a ti, manso, yG2064
+- Mat_21:9¡bendito el que viene en el nombre delG2064
+- Mat_21:14vinieron a...ciegos y cojos, y los sanóG4334
+- Mat_21:19vino a ella, y no halló nada en ella, sinoG2064
+- Mat_21:23cuando vino al templo, los principalesG2064
+- Mat_21:32vino...Juan en camino de justicia, y noG2064
+- Mat_21:38venid, matémosle, y apoderémonos de suG1205
+- Mat_21:40cuando venga, pues, el señor de la viñaG2064
+- Mat_21:42piedra...venido a ser cabeza del ángulo
+- Mat_22:3y envió a...mas éstos no quisieron venirG2064
+- Mat_22:4todo está dispuesto; venid a las bodasG1205
+- Mat_22:23vinieron a él los saduceos, que dicenG4334
+- Mat_23:35que venga sobre vosotros toda la sangreG2064
+- Mat_23:36todo esto vendrá sobre esta generaciónG2240
+- Mat_23:39bendito el que viene en el nombre delG2064
+- Mat_24:5vendrán muchos en mi nombre, diciendoG2064
+- Mat_24:14será predicado...entonces vendrá el finG2240
+- Mat_24:30viniendo sobre las nubes del cielo, conG2064
+- Mat_24:39no entendieron hasta...vino el diluvioG2064
+- Mat_24:42porque no sabéis a qué hora ha de venirG2064
+- Mat_24:43a qué hora el ladrón habría de venirG2064
+- Mat_24:44Hijo...vendrá a la hora que no pensáisG2064
+- Mat_24:46su señor venga, le halle haciendo asíG2064
+- Mat_24:48malo dijere...Mi señor tarda en venirG2064
+- Mat_24:50vendrá el señor de aquel siervo en díaG2240
+- Mat_25:6se oyó un clamor: ¡Aquí viene el esposoG2064
+- Mat_25:10mientras ellas iban a...vino el esposoG2064
+- Mat_25:11vinieron...las otras vírgenes, diciendoG2064
+- Mat_25:13en que el Hijo del Hombre ha de venirG2064
+- Mat_25:19vino el señor de aquellos siervos, yG2064
+- Mat_25:27al venir yo, hubiera recibido lo que esG2064
+- Mat_25:31cuando el Hijo del...venga en su gloriaG2064
+- Mat_25:34Rey dirá...Venid, benditos de mi PadreG1205
+- Mat_25:36estuve...en la cárcel, y vinisteis a míG2064
+- Mat_25:39te vimos...en la cárcel, y vinimos a ti?[[G2064]]
+- Mat_26:7vino a él una mujer, con un...de perfumeG4334
+- Mat_26:17el primer día...vinieron los discípulos aG4334
+- Mat_26:40vino luego a sus discípulos, y los hallóG2064
+- Mat_26:43vino otra vez y los halló durmiendoG2064
+- Mat_26:45vino a sus discípulos...dijo: Dormid yaG2064
+- Mat_26:47vino Judas...y con él mucha gente conG2064
+- Mat_26:50y Jesús le dijo: Amigo, ¿a qué vienes?[[G3918]]
+- Mat_26:60pero al fin vinieron dos testigos falsosG4334
+- Mat_26:64Hijo...viniendo en las nubes del cieloG2064
+- Mat_27:1venida la mañana, todos los...sacerdotesG1096
+- Mat_27:49deja, veamos si viene Elías a librarleG2064
+- Mat_27:53y saliendo...vinieron a la santa ciudad
+- Mat_27:57vino un hombre rico de Arimatea...JoséG2064
+- Mat_27:64no sea que vengan...lo hurten, y diganG2064
+- Mat_28:1vinieron María Magdalena y...otra MaríaG2064
+- Mat_28:6venid, ved el lugar donde fue puesto elG1205
+- Mat_28:13sus discípulos vinieron de noche, y loG2064
+- Mar_1:7viene tras mí el que es más poderosoG2064
+- Mar_1:9que Jesús vino de Nazaret de Galilea, yG2064
+- Mar_1:11y vino una voz de los cielos que decíaG1096
+- Mar_1:14Jesús vino...predicando el evangelio delG2064
+- Mar_1:17dijo Jesús: Venid en pos de mí, y haréG1205
+- Mar_1:24¿has venido para destruirnos? Sé quiénG2064
+- Mar_1:29vinieron a casa de Simón y Andrés, conG1831
+- Mar_1:38para que predique...para esto he venidoG1831
+- Mar_1:40vino a él un leproso, rogándole, le dijoG2064
+- Mar_1:45quedaba...y venían a él de todas partesG2064
+- Mar_2:3vinieron a él unos trayendo un paralíticoG2064
+- Mar_2:13toda la gente venía a él, y les enseñaba
+- Mar_2:17no he venido a llamar a justos, sino aG2064
+- Mar_2:18y vinieron, y le dijeron: ¿Por qué losG2064
+- Mar_2:20vendrán días cuando el esposo les seráG2064
+- Mar_3:8de Jerusalén...grandes multitudes vinieronG2064
+- Mar_3:13llamó a...a los que él quiso; y vinieronG565
+- Mar_3:19y Judas Iscariote, el...Y vinieron a casa
+- Mar_3:21vinieron para prenderle; porque decían
+- Mar_3:22pero los escribas que habían venido deG2597
+- Mar_3:31vienen después sus hermanos y su madreG2064
+- Mar_4:4vinieron las aves del cielo y la comieronG2064
+- Mar_4:15viene Satanás, y quita la palabra que seG2064
+- Mar_4:17cuando viene la tribulación...tropiezan
+- Mar_5:1vinieron al otro lado del mar...gadarenosG2064
+- Mar_5:2vino a su encuentro, de los sepulcros, un
+- Mar_5:15vienen a Jesús, y ven al que había sidoG2064
+- Mar_5:22vino...de los principales de la sinagogaG2064
+- Mar_5:23ven y pon las manos sobre ella para queG2064
+- Mar_5:27vino por detrás entre...y tocó su mantoG2064
+- Mar_5:33la mujer...vino y se postró delante de élG2064
+- Mar_5:35hablaba, vinieron de casa del principalG2064
+- Mar_5:38vino a casa del principal de la sinagogaG2064
+- Mar_6:1salió Jesús de allí y vino a su tierra, yG2064
+- Mar_6:21venido un día oportuno, en que HerodesG1096
+- Mar_6:29oyeron esto...vinieron y tomaron su cuerpoG2064
+- Mar_6:31dijo: Venid vosotros aparte a un lugarG1205
+- Mar_6:31porque eran muchos los que iban y veníanG2064
+- Mar_6:47y al venir la noche, la barca estaba enG1096
+- Mar_6:48vino a ellos andando sobre el mar, yG2064
+- Mar_6:53vinieron a...Genesaret, y arribaron a laG2064
+- Mar_7:1escribas, que habían venido de JerusalénG2064
+- Mar_7:25una mujer...vino y se postró a sus piesG2064
+- Mar_7:31Tiro, vino por Sidón al mar de GalileaG2064
+- Mar_8:3pues algunos de ellos han venido de lejosG2240
+- Mar_8:10y luego...vino a la región de DalmanutaG2064
+- Mar_8:11vinieron...los fariseos y comenzaron aG1831
+- Mar_8:22vino luego a Betsaida; y le trajeron unG2064
+- Mar_8:34quiere venir en pos de mí, niéguese a síG2064
+- Mar_8:38se avergonzará...de él, cuando venga en laG2064
+- Mar_9:1visto el reino de Dios venido con poderG2064
+- Mar_9:7vino una nube que les hizo sombra, y desde
+- Mar_9:11que es necesario que Elías venga primero?[[G2064]]
+- Mar_9:12Elías a la...vendrá primero, y restauraráG2064
+- Mar_9:13que Elías ya vino, y le hicieron todo loG2064
+- Mar_10:1de allí, vino a la región de Judea y alG2064
+- Mar_10:14dejad a los niños venir a mí, y no seG2064
+- Mar_10:17vino uno corriendo...Maestro bueno, ¿quéG4370
+- Mar_10:21dalo a...y ven, sígueme, tomando tu cruzG1204
+- Mar_10:45porque el Hijo del Hombre no vino paraG2064
+- Mar_10:46entonces vinieron a Jericó; y al salirG2064
+- Mar_10:50él entonces...se levantó y vino a JesúsG2064
+- Mar_11:9que venían detrás daban voces, diciendo
+- Mar_11:9¡bendito el que viene en el nombre delG2064
+- Mar_11:10reino de nuestro padre David que viene![[G2064]]
+- Mar_11:15vinieron, pues, a Jerusalén; y entrandoG2064
+- Mar_11:24creed que lo recibiréis, y os vendrá
+- Mar_11:27vinieron a...los principales sacerdotesG2064
+- Mar_12:7este es el heredero: venid, matémosleG1205
+- Mar_12:9vendrá, y destruirá a los labradores, yG2064
+- Mar_12:10piedra...venido a ser cabeza del ángulo
+- Mar_12:14viniendo...le dijeron: Maestro, sabemosG2064
+- Mar_12:18vinieron a él los saduceos, que dicenG2064
+- Mar_12:42vino una viuda...y echó dos blancas, oG2064
+- Mar_13:6vendrán muchos en mi nombre, diciendoG2064
+- Mar_13:26vendrá en las nubes con gran poder yG2064
+- Mar_13:35no sabéis cuándo vendrá el señor de laG2064
+- Mar_13:36venga de repente, no os halle durmiendoG2064
+- Mar_14:3vino una mujer con un vaso de alabastroG2064
+- Mar_14:17cuando llegó la noche, vino él con losG2064
+- Mar_14:32vinieron...lugar que se llama GetsemaníG2064
+- Mar_14:37vino...y los halló durmiendo; y dijo aG2064
+- Mar_14:41vino la tercera vez, y les dijo: DormidG2064
+- Mar_14:41basta, la hora ha venido; he aquí...elG2064
+- Mar_14:43vino Judas, que era uno de los doce, yG3854
+- Mar_14:45cuando vino, se acercó luego a él, y leG2064
+- Mar_14:62Hijo...viniendo en las nubes del cieloG2064
+- Mar_14:66vino una de las criadas del...sacerdoteG2064
+- Mar_15:8y viniendo la multitud, comenzó a pedir
+- Mar_15:21que venía del campo, a que le llevaseG2064
+- Mar_15:33vino la hora sexta, hubo tinieblas sobreG1096
+- Mar_15:36dejad, veamos si viene Elías a bajarleG2064
+- Mar_15:43José...vino y entró osadamente a PilatoG2064
+- Mar_15:44Pilato...haciendo venir al centurión, le
+- Mar_16:2vinieron al sepulcro, ya salido el solG2064
+- Luc_1:35el Espíritu Santo vendrá sobre ti, yG1904
+- Luc_1:43que la madre de mi Señor venga a mí?[[G2064]]
+- Luc_1:59vinieron para circuncidar al niño; y leG2064
+- Luc_2:16vinieron...y hallaron a María y a JoséG2064
+- Luc_2:27movido por el Espíritu, vino al temploG2064
+- Luc_3:2vino palabra de Dios a Juan...en el desiertoG1096
+- Luc_3:12vinieron también unos publicanos paraG2064
+- Luc_3:16pero viene uno más poderoso que yo, deG2064
+- Luc_3:22vino una voz del cielo que decía: Tú eresG1096
+- Luc_4:16vino a Nazaret, donde se había criadoG2064
+- Luc_4:34nazareno? ¿Has venido para destruirnos?[[G2064]]
+- Luc_5:7que viniesen a ayudarles; y vinieron, yG2064
+- Luc_5:17venido de todas las aldeas de GalileaG2064
+- Luc_5:32no he venido a llamar a justos, sino aG2064
+- Luc_5:35vendrán días cuando el esposo les seráG2064
+- Luc_6:17que había venido para oírle, y para serG2064
+- Luc_6:47aquel que viene a mí, y oye mis palabrasG2064
+- Luc_6:48cuando vino una inundación, el río dio
+- Luc_7:3envió...rogándole que viniese y sanase aG2064
+- Luc_7:4ellos vinieron a Jesús y le rogaron conG3854
+- Luc_7:7que ni aun me tuve por digno de venir a tiG2064
+- Luc_7:8y digo a éste: Vé...al otro: Ven, y vieneG2064
+- Luc_7:19a Jesús..¿Eres tú el que había de venirG2064
+- Luc_7:20cuando...vinieron a él, dijeron: Juan elG3854
+- Luc_7:20dijeron...¿Eres tú el que había de venirG2064
+- Luc_7:33vino Juan el Bautista, que ni comía panG2064
+- Luc_7:34vino el Hijo del Hombre, que come y bebeG2064
+- Luc_8:4los que de cada ciudad venían a él, lesG1975
+- Luc_8:12viene el diablo y quita de su corazónG2064
+- Luc_8:19su madre y sus hermanos vinieron a élG3854
+- Luc_8:24vinieron a él y le despertaron, diciendoG4334
+- Luc_8:27vino a su encuentro...endemoniado desde
+- Luc_8:35vinieron a Jesús, y hallaron al hombreG2064
+- Luc_8:41vino un varón llamado Jairo, que eraG2064
+- Luc_8:47vino temblando, y...sus pies, le declaróG2064
+- Luc_8:49cuando vino uno de casa del principal deG2064
+- Luc_9:23quiere venir en pos de mí, niéguese a síG2064
+- Luc_9:26de éste se avergonzará...cuando venga enG2064
+- Luc_9:34decía esto, vino una nube que los cubrióG1096
+- Luc_9:35y vino una voz desde la nube, que decíaG1096
+- Luc_9:56porque el Hijo...no ha venido para perderG2064
+- Luc_10:33pero un samaritano...vino cerca de élG2064
+- Luc_11:2venga tu reino...Hágase tu voluntad, comoG2064
+- Luc_11:6un amigo mío ha venido a mí de viaje, yG3854
+- Luc_11:22viene otro más fuerte que él...le quitaG1904
+- Luc_11:26estado de aquel hombre viene a ser peor
+- Luc_11:31ella vino...oír la sabiduría de SalomónG2064
+- Luc_12:20esta noche vienen a pedirte tu alma; y
+- Luc_12:37su señor, cuando venga, halle velandoG2064
+- Luc_12:37que se sienten a...y vendrá a servirlesG3928
+- Luc_12:38venga a la segunda vigilia, y aunque vG2064
+- Luc_12:39hora el ladrón había de venir, velaríaG2064
+- Luc_12:40no penséis, el Hijo del Hombre vendráG2064
+- Luc_12:43su señor venga, le halle haciendo asíG2064
+- Luc_12:45siervo dijere...Mi señor tarda en venirG2064
+- Luc_12:46vendrá el señor de aquel siervo en díaG2240
+- Luc_12:49fuego vine a echar en la tierra; ¿y quéG2064
+- Luc_12:51¿pensáis que he venido para dar paz enG3854
+- Luc_12:54luego decís: Agua viene; y así sucedeG2064
+- Luc_13:6y vino a buscar fruto en ella, y no loG2064
+- Luc_13:7hace tres años que vengo a buscar frutoG2064
+- Luc_13:14en éstos, pues, venid y sed sanadosG2064
+- Luc_13:29vendrán del oriente y del occidente, delG2240
+- Luc_13:35digáis: Bendito el que viene en nombreG2064
+- Luc_14:9viniendo el que te convidó a ti y a élG2064
+- Luc_14:10que cuando venga el que te convidó, teG2064
+- Luc_14:17hora...Venid, que ya todo está preparadoG2064
+- Luc_14:26si alguno viene a mí, y no aborrece aG2064
+- Luc_14:27no lleva su cruz y viene en pos de míG2064
+- Luc_14:31hacer frente con...al que viene contra élG2064
+- Luc_15:14vino...gran hambre en aquella provincia
+- Luc_15:20levantándose, vino a su padre...lo vioG2064
+- Luc_15:25cuando vino, y llegó cerca de la casaG2064
+- Luc_15:27dijo: Tu hermano ha venido; y tu padreG2240
+- Luc_15:30vino este tu hijo, que ha consumido tusG2064
+- Luc_16:21perros venían y le lamían las llagasG2064
+- Luc_16:28no vengan ellos también a este lugar deG2064
+- Luc_17:1imposible es que no vengan tropiezosG2064
+- Luc_17:1mas ¡ay de aquel por quien vienen![[G2064]]
+- Luc_17:20cuándo había de venir el reino de DiosG2064
+- Luc_17:20el reino de...no vendrá con advertenciaG2064
+- Luc_17:22tiempo vendrá cuando desearéis ver unoG2064
+- Luc_17:27vino el diluvio y los destruyó a todosG2064
+- Luc_18:3una viuda, la cual venía a él, diciendoG2064
+- Luc_18:5sea que viniendo...me agote la pacienciaG2064
+- Luc_18:8venga el Hijo del Hombre, ¿hallará fe enG2064
+- Luc_18:16dejad a los niños venir a mí, y no seG2064
+- Luc_18:22y tendrás tesoro en el...y ven, síguemeG1204
+- Luc_19:9hoy ha venido la salvación a esta casaG1096
+- Luc_19:10vino a buscar...lo que se había perdidoG2064
+- Luc_19:13dijo: Negociad entre tanto que vengoG2064
+- Luc_19:16vino el primero, diciendo: Señor, tuG3854
+- Luc_19:18vino otro, diciendo: Señor, tu mina haG2064
+- Luc_19:20vino otro, diciendo: Señor, aquí estáG2064
+- Luc_19:38¡bendito el rey que viene en el nombreG2064
+- Luc_19:43porque vendrán días sobre ti, cuandoG2240
+- Luc_20:14venid, matémosle, para que la heredadG1205
+- Luc_20:16vendrá y destruirá a estos labradoresG2064
+- Luc_20:17piedra...venido a ser cabeza del ángulo?
+- Luc_21:6días vendrán en que no quedará piedraG2064
+- Luc_21:8vendrán muchos en mi nombre, diciendoG2064
+- Luc_21:27que vendrá en una nube con poder y granG2064
+- Luc_21:34venga de repente sobre vosotros aquelG2186
+- Luc_21:35como un lazo vendrá sobre todos los queG1904
+- Luc_21:36de escapar de...estas cosas que vendránG1096
+- Luc_21:38pueblo venía a él por la mañana, paraG3719
+- Luc_22:18vid, hasta que el reino de Dios vengaG2064
+- Luc_22:45vino a...discípulos, los halló durmiendoG2064
+- Luc_22:52ancianos, que habían venido contra élG3854
+- Luc_23:26Simón de Cirene, que venía del campoG2064
+- Luc_23:29porque he aquí vendrán días en que diránG2064
+- Luc_23:42a Jesús: Acuérdate de mí cuando vengasG2064
+- Luc_23:55las mujeres que habían venido con élG4905
+- Luc_24:1el primer día de vinieron al sepulcroG2064
+- Luc_24:23vinieron diciendo que...visto visión deG2064
+- Luc_24:38vienen a...corazón estos pensamientos?
+- Jua_1:7éste vino por testimonio, para que dieseG2064
+- Jua_1:9la luz verdadera, que...venía a este mundoG2064
+- Jua_1:11a lo suyo vino...suyos no le recibieronG2064
+- Jua_1:15el que viene después de mí...es antes deG2064
+- Jua_1:17verdad vinieron por medio de JesucristoG1096
+- Jua_1:27este es el que viene después de mí, elG2064
+- Jua_1:29vio Juan a Jesús que venía a él, y dijoG2064
+- Jua_1:30después de mí viene un varón, el cual esG2064
+- Jua_1:31por esto vine yo bautizando con aguaG2064
+- Jua_1:39les dijo: Venid y ved...Fueron, y vieronG2064
+- Jua_1:46algo de bueno? Le dijo Felipe: Ven y veG2064
+- Jua_2:4Jesús le dijo...Aún no ha venido mi horaG2240
+- Jua_3:2vino a Jesús de noche, y le dijo: RabíG2064
+- Jua_3:2Rabí, sabemos que has venido de Dios comoG2064
+- Jua_3:8ni sabes de dónde viene, ni a dónde vaG2064
+- Jua_3:19que la luz vino al mundo, y los hombresG2064
+- Jua_3:21viene a la luz, para que sea manifiestoG2064
+- Jua_3:22después...vino Jesús con sus discípulosG2064
+- Jua_3:23bautizaba...y venían, y eran bautizadosG3854
+- Jua_3:26vinieron a Juan y le dijeron: Rabí, miraG2064
+- Jua_3:26mira que...bautiza, y todos vienen a élG2064
+- Jua_3:31el que de arriba viene, es sobre todosG2064
+- Jua_3:31el que viene del cielo, es sobre todosG2064
+- Jua_4:5vino...una ciudad de Samaria llamada SicarG2064
+- Jua_4:7vino una mujer de Samaria a sacar aguaG2064
+- Jua_4:15no tenga yo sed, ni venga aquí a sacarlaG2064
+- Jua_4:16dijo: Vé, llama a tu marido, y ven acáG2064
+- Jua_4:21la hora viene cuando ni en este monte niG2064
+- Jua_4:22porque la salvación viene de los judíos
+- Jua_4:23mas la hora viene...cuando los sG2064
+- Jua_4:25sé que ha de venir el Mesías, llamado elG2064
+- Jua_4:25cuando él venga nos declarará todas lasG2064
+- Jua_4:27en esto vinieron sus discípulos, y seG2064
+- Jua_4:29venid, ved a un hombre que me ha dichoG1205
+- Jua_4:30salieron de la ciudad, y vinieron a élG2064
+- Jua_4:40vinieron los samaritanos...y le rogaronG2064
+- Jua_4:45vino a Galilea...galileos le recibieronG2064
+- Jua_4:46vino...Jesús otra vez a Caná de GalileaG2064
+- Jua_4:47vino a él y le rogó que descendiese y
+- Jua_5:14para que no te venga alguna cosa peorG1096
+- Jua_5:24no vendrá a condenación, mas ha pasadoG2064
+- Jua_5:25viene la hora...cuando los muertos oiránG2064
+- Jua_5:28vendrá hora cuando todos los que estánG2064
+- Jua_5:40no queréis venir a mí...que tengáis vidaG2064
+- Jua_5:43yo he venido en nombre de mi Padre, y noG2064
+- Jua_5:43si otro viniere en su propio nombre, aG2064
+- Jua_5:44no buscáis la gloria que viene del Dios
+- Jua_6:5vio que había venido a él gran multitudG2064
+- Jua_6:14es el profeta que había de venir al mundoG2064
+- Jua_6:15que iban a venir para apoderarse de élG2064
+- Jua_6:17oscuro, y Jesús no había venido a ellosG2064
+- Jua_6:35el que a mí viene, nunca tendrá hambreG2064
+- Jua_6:37vendrá a mí; y al que a mí viene, no leG2064
+- Jua_6:44ninguno puede venir a mí, si el PadreG2064
+- Jua_6:45todo aquel que oyó al Padre...viene a míG2064
+- Jua_6:46aquel que vino de Dios; éste ha visto al
+- Jua_6:65que ninguno puede venir a mí, si no leG2064
+- Jua_7:27cuando venga el Cristo, nadie sabrá deG2064
+- Jua_7:28y no he venido de mí mismo, pero el queG2064
+- Jua_7:31decían: El Cristo, cuando venga, ¿haráG2064
+- Jua_7:34, Jua_7:36y a donde yo estaré...no podréis venirG2064
+- Jua_7:37si alguno tiene sed, venga a mí y bebaG2064
+- Jua_7:39aún no había venido el Espíritu Santo
+- Jua_7:41pero...¿De Galilea ha de venir el Cristo?[[G2064]]
+- Jua_7:42aldea de Belén...ha de venir el Cristo?[[G2064]]
+- Jua_7:45los alguaciles vinieron a los principalesG2064
+- Jua_7:50Nicodemo, el que vino a él de noche, elG2064
+- Jua_8:2y todo el pueblo vino a él; y sentado élG2064
+- Jua_8:14porque sé de dónde he venido y a dóndeG2064
+- Jua_8:14no sabéis de dónde vengo, ni a dónde voyG2064
+- Jua_8:21-22donde yo voy, vosotros no podéis venirG2064
+- Jua_8:42yo de Dios he salido, y he venido; puesG2240
+- Jua_8:42no he venido de mí mismo, sino que él meG2064
+- Jua_9:4noche viene, cuando nadie puede trabajarG2064
+- Jua_9:33si éste no viniera de Dios, nada podría
+- Jua_9:39para juicio he venido yo a este mundoG2064
+- Jua_10:8los que antes de mí vinieron, ladronesG2064
+- Jua_10:10el ladrón no viene sino para hurtar y
+- Jua_10:10he venido para que tengan vida, y paraG2064
+- Jua_10:12ve venir al lobo y deja las ovejas yG2064
+- Jua_10:35a quienes vino la palabra de Dios (y laG1096
+- Jua_10:41muchos venían a él, y decían: Juan, a la
+- Jua_11:17vino, pues...Jesús, y halló que hacíaG2064
+- Jua_11:19muchos de...judíos habían venido a MartaG2064
+- Jua_11:20Marta, cuando oyó que Jesús venía, salióG2064
+- Jua_11:27Hijo de Dios, que has venido al mundoG2064
+- Jua_11:29lo oyó, se levantó de prisa y vino a élG2064
+- Jua_11:34pusisteis? Le dijeron: Señor, ven y veG2064
+- Jua_11:43clamó a gran voz: Lázaro, ven fuera![[G1204]]
+- Jua_11:45habían venido para acompañar a MaríaG2064
+- Jua_11:48y vendrán los romanos, y destruiránG2064
+- Jua_11:56se preguntaban...¿No vendrá a la fiesta?[[G2064]]
+- Jua_12:1antes de la pascua, vino Jesús a BetaniaG2064
+- Jua_12:9vinieron, no...por causa de Jesús, sinoG2064
+- Jua_12:12que habían venido a la fiesta, al oírG2064
+- Jua_12:12día...al oír que Jesús venía a JerusalénG2064
+- Jua_12:13¡bendito el que viene en el nombre delG2064
+- Jua_12:15tu Rey viene, montado sobre un pollinoG2064
+- Jua_12:18cual...había venido la gente a recibirle
+- Jua_12:28entonces vino una voz del cielo: Lo heG2064
+- Jua_12:30no ha venido esta voz por causa míaG1096
+- Jua_12:46yo, la luz, he venido al mundo, para queG2064
+- Jua_12:47porque no he venido a juzgar al mundoG2064
+- Jua_13:6entonces vino a Simón Pedro; y Pedro leG2064
+- Jua_14:3si me fuere y os...lugar...vendré otra vezG2064
+- Jua_14:6vida; nadie viene al Padre, sino por míG2064
+- Jua_14:18no...dejaré huérfanos; vendré a vosotrosG2064
+- Jua_14:23vendremos a él, y haremos morada con élG2064
+- Jua_14:28os he dicho: Voy, y vengo a vosotrosG2064
+- Jua_14:30porque viene el príncipe de este mundoG2064
+- Jua_15:22si yo no hubiera venido, ni les hubieraG2064
+- Jua_15:26cuando venga el Consolador, a quien yoG2064
+- Jua_16:2viene la hora cuando cualquiera que osG2064
+- Jua_16:7si no me fuere, el Consolador no vendríaG2064
+- Jua_16:8cuando él venga, convencerá al mundo deG2064
+- Jua_16:13cuando venga el Espíritu de verdad, élG2064
+- Jua_16:13saber las cosas que habrán de venirG2064
+- Jua_16:25la hora viene...no os hablaré...alegoríasG2064
+- Jua_16:28salí del Padre, y he venido al mundoG2064
+- Jua_16:32he aquí la hora viene, y ha venido yaG2064
+- Jua_18:37y para esto he venido al...dar testimonioG2064
+- Jua_19:32vinieron los soldados, y quebraron lasG2064
+- Jua_19:38vino, y se llevó el cuerpo de JesúsG2064
+- Jua_19:39vino trayendo un compuesto de mirra yG2064
+- Jua_20:8el...que había venido primero al sepulcroG2064
+- Jua_20:19vino Jesús, y puesto en medio, les dijoG2064
+- Jua_20:24no estaba con ellos cuando Jesús vinoG2064
+- Jua_21:8otros discípulos vinieron con la barcaG2064
+- Jua_21:12dijo Jesús: Venid, comed...Y ninguno deG1205
+- Jua_21:13vino...Jesús, y tomó el pan y les dioG2064
+- Jua_21:22-23quede hasta que yo venga, ¿qué a ti?[[G2064]]
+- Hec_1:8recibiréis poder, cuando haya venidoG1904
+- Hec_1:11vendrá como le habéis visto ir al cieloG2064
+- Hec_2:2de repente vino del cielo un estruendoG1096
+- Hec_2:20antes que venga el día del Señor, grandeG2064
+- Hec_3:19vengan...del Señor tiempos de refrigerioG2064
+- Hec_4:1vinieron sobre ellos los sacerdotes conG2186
+- Hec_4:23vinieron a los suyos y contaron todo lo
+- Hec_5:5y vino un gran temor sobre todos los queG1096
+- Hec_5:11y vino gran temor, sobre toda la iglesiaG1096
+- Hec_5:16venían a Jerusalén, trayendo enfermosG4905
+- Hec_5:21entre tanto, vinieron el sumo sacerdote yG3854
+- Hec_5:25pero viniendo uno, les dio esta noticiaG3854
+- Hec_7:3sal...y ven a la tierra que yo te mostraréG1204
+- Hec_7:11vino entonces hambre en toda la tierraG2064
+- Hec_7:14José, hizo venir a su padre Jacob, y a
+- Hec_7:23años, le vino el corazón el visitar a susG305
+- Hec_7:31acercándose...vino a él la voz del SeñorG1096
+- Hec_7:34ahora, pues, ven, te enviaré a EgiptoG1204
+- Hec_8:15habiendo venido, oraron por ellos paraG2597
+- Hec_8:24que nada de esto...dicho venga sobre míG1904
+- Hec_8:27y había venido a Jerusalén para adorarG2064
+- Hec_9:1Saulo, respirando aún amenazas...vino alG4334
+- Hec_9:17se te apareció en el, por donde veníasG2064
+- Hec_9:21y a eso vino acá, para llevarlos presosG2064
+- Hec_9:32que Pedro...vino también a los santos queG2718
+- Hec_9:38a rogarle: No tardes en venir a nosotrosG1330
+- Hec_10:5, Hec_10:32haz venir a Simón, el que tiene porG3343
+- Hec_10:13vino una voz: Levántate, Pedro, mata yG1096
+- Hec_10:21¿cuál es la causa...que habéis venido?[[G3918]]
+- Hec_10:22de hacerte venir a su casa para oír tusG3343
+- Hec_10:29al ser llamado, vine sin replicar...AsíG2064
+- Hec_10:29¿por qué causa me habéis hecho venir?[[G3343]]
+- Hec_10:33envié por ti...has hecho bien en venirG3854
+- Hec_10:45los fieles...que habían venido con PedroG4905
+- Hec_11:5era bajado del cielo y venía hasta míG2064
+- Hec_11:13y haz venir a Simón, el que tiene porG3343
+- Hec_11:28que vendría una gran hambre en toda la
+- Hec_12:20pero ellos vinieron de acuerdo ante élG3918
+- Hec_13:25pero viene tras mí uno de quien no soyG2064
+- Hec_13:40que no venga sobre vosotros lo que estáG1904
+- Hec_14:19vinieron unos judíos de Antioquía y deG1904
+- Hec_14:24pasando luego por...vinieron a PanfiliaG2064
+- Hec_15:1algunos que venían de Judea enseñaban aG2718
+- Hec_16:11vinimos con rumbo directo a SamotraciaG2113
+- Hec_16:37no...sino vengan ellos mismos a sacarnosG2064
+- Hec_16:39viniendo, les rogaron; y sacándolos, lesG2064
+- Hec_17:6estos que trastornan el...han venido acáG3918
+- Hec_17:15orden...que viniesen a él lo más prontoG2064
+- Hec_18:2a un judío...recién venido de Italia conG2064
+- Hec_18:5Silas y Timoteo vinieron de MacedoniaG2718
+- Hec_18:21guarde en Jerusalén la fiesta que vieneG2064
+- Hec_19:1vino a Éfeso, y hallando a...discípulosG2064
+- Hec_19:4creyesen en aquel que vendría después deG2064
+- Hec_19:6manos, vino sobre ellos el Espíritu SantoG2064
+- Hec_19:18venían, confesando y dando cuenta deG2064
+- Hec_19:27nuestro negocio venga a desacreditarse
+- Hec_19:35es guardiana...de la imagen venida de
+- Hec_20:14tomándole a bordo, vinimos a MitileneG2064
+- Hec_20:18vinieron a...les dijo: Vosotros sabéisG3854
+- Hec_20:19han venido por las asechanzas de los
+- Hec_21:11quien viniendo a vernos, tomó el cintoG2064
+- Hec_21:16y vinieron...algunos de los discípulos
+- Hec_21:22reunirá, porque oirán que has venidoG2064
+- Hec_21:36la muchedumbre del pueblo venía detrás
+- Hec_22:13vino a mí, y...me dijo: Hermano SauloG2064
+- Hec_22:27vino el tribuno y le dijo: Dime, ¿eresG4334
+- Hec_22:30mandó venir a...principales sacerdotes
+- Hec_23:12venido el día, algunos de los judíos
+- Hec_23:35te oiré cuando vengan tus acusadoresG3854
+- Hec_24:8mandando...acusadores que viniesen a tiG2064
+- Hec_24:17años, vine a hacer limosnas a mi naciónG3854
+- Hec_24:23no impidiese a ninguno de...venir a élG4334
+- Hec_24:24viniendo Félix con Drusila su mujerG3854
+- Hec_24:26veces lo hacía venir y hablaba con él
+- Hec_25:6venido a Cesarea, al siguiente día se
+- Hec_25:7lo rodearon los...que habían venido deG2597
+- Hec_25:13Agripa y Berenice vinieron a CesareaG2658
+- Hec_25:17habiendo venido ellos juntos acá, sinG4905
+- Hec_25:23al otro día, viniendo Agripa y BereniceG2064
+- Hec_27:27venida la decimacuarta noche, y siendoG1096
+- Hec_28:6mucho, y viendo que ningún mal le veníaG1096
+- Hec_28:9otros que en la...venían, y eran sanadosG4334
+- Hec_28:21ni ha venido alguno de los hermanos queG3854
+- Hec_28:23vinieron a él muchos a la posada, a losG2240
+- Hec_28:30y, recibía a todos los que a él veníanG1531
+- Rom_2:25tu circuncisión viene...incircuncisión
+- Rom_2:29la alabanza del cual no viene de los
+- Rom_3:8hagamos males para que vengan bienes?[[G2064]]
+- Rom_5:14Adán...es figura del que había de venirG3195
+- Rom_5:16el juicio vino a causa de un solo pecado
+- Rom_5:16el don vino a causa de...transgresiones
+- Rom_5:18como por la transgresión de uno vino la
+- Rom_5:18por la justicia de uno vino a todos los
+- Rom_7:9venido el mandamiento, el pecado revivióG2064
+- Rom_7:13lo que es bueno, vino a ser muerte para
+- Rom_8:38ni la...ni lo presente, ni lo por venirG3195
+- Rom_9:5y de los cuales...vino Cristo, el cual es
+- Rom_9:9por este tiempo vendré, y Sara tendrá unG2064
+- Rom_9:29como Sodoma habríamos venido a ser, y
+- Rom_11:11por su transgresión vino la salvación
+- Rom_11:26escrito: Vendrá de Sion el LibertadorG2240
+- Rom_15:8que Cristo Jesús vino a ser siervo de la
+- Rom_16:19obediencia ha venido a ser notoria aG864
+- 1Co_3:22sea lo por venir, todo es vuestroG3195
+- 1Co_4:5no juzguéis...hasta que venga el SeñorG2064
+- 1Co_4:13hemos venido a ser...como la escoria del
+- 1Co_8:9que esta libertad vuestra no venga a ser
+- 1Co_9:27sea que...yo mismo venga a ser eliminado
+- 1Co_11:26muerte...anunciáis hasta que él vengaG2064
+- 1Co_13:1vengo a ser como metal que resuena, o
+- 1Co_13:10cuando venga lo perfecto, entonces loG2064
+- 1Co_15:35los muertos? ¿Con qué cuerpo vendrán?[[G2064]]
+- 1Co_16:11encaminadle en paz, para que venga aG2064
+- 1Co_16:22no amare...sea anatema...El Señor vieneG3134
+- 2Co_1:16desde Macedonia venir...a vosotrosG2064
+- 2Co_7:5de cierto, cuando vinimos a MacedoniaG2064
+- 2Co_9:4si vinieren conmigo algunos macedoniosG2064
+- 2Co_11:4si viene alguno predicando a otro JesúsG2064
+- 2Co_11:9lo suplieron los hermanos que vinieronG2064
+- 2Co_12:1pero vendré a las visiones y...del SeñorG2064
+- Gál_2:11pero cuando Pedro vino a Antioquía, leG2064
+- Gál_2:12que viniesen algunos de parte de JacoboG2064
+- Gál_2:12pero después que vinieron, se retraía yG2064
+- Gál_3:17la ley que vino 430 años después, no lo
+- Gál_3:19hasta que viniese la simiente a quienG2064
+- Gál_3:23pero antes que viniese la fe, estábamosG2064
+- Gál_3:25pero venida la fe, ya no estamos bajo ayoG2064
+- Gál_4:4cuando vino el cumplimiento del tiempoG2064
+- Efe_2:17y vino y anunció las buenas nuevas deG2064
+- Efe_5:6estas cosas viene la ira de Dios sobreG2064
+- Col_2:17cual es sombra de lo que ha de venirG3195
+- Col_3:6la ira de Dios viene sobre los hijos deG2064
+- 1Ts_2:16pues vino sobre ellos la ira hastaG5348
+- 1Ts_5:2día del Señor vendrá así como ladrón enG2064
+- 1Ts_5:3paz y...vendrá sobre ellos destrucciónG2186
+- 2Ts_1:10cuando venga...para ser glorificadoG2064
+- 2Ts_2:3porque no vendrá sin que antes venga laG2064
+- 1Ti_1:15que Cristo Jesús vino al mundo paraG2064
+- 1Ti_2:4y vengan al conocimiento de la verdadG2064
+- 1Ti_5:24hacen patentes antes...vengan a juicio
+- 1Ti_6:19buen fundamento para lo por venir, queG3195
+- 2Ti_3:1en los...vendrán tiempos peligrososG1764
+- 2Ti_4:3vendrá tiempo cuando no sufrirán la sanaG2071
+- 2Ti_4:9procura venir pronto a vermeG2064
+- 2Ti_4:13trae, cuando vengas, el capote que dejéG2064
+- 2Ti_4:21procura venir antes del inviernoG2064
+- Tit_3:7viniésemos a ser herederos conforme a
+- Tit_3:12apresúrate a venir a mí en NicópolisG2064
+- Heb_2:17para venir a ser misericordioso y fiel
+- Heb_5:9vino a ser autor de eterna salvación para
+- Heb_7:14nuestro Señor vino de la tribu de Judá
+- Heb_8:8vienen días...que estableceré con la casaG2064
+- Heb_10:7, Heb_10:9he aquí que vengo, oh Dios, para hacerG2240
+- Heb_10:37el que ha de venir vendrá, y no tardaráG2064
+- Heb_11:7heredero de la justicia que viene por la
+- Heb_13:14ciudad...sino que buscamos la por venirG3195
+- Heb_13:23con el cual, si viniere...iré a verosG2064
+- Stg_2:4venís a ser jueces con...pensamientos
+- Stg_4:1¿de dónde vienen las guerras y...pleitos
+- Stg_5:1llorad...por las miserias que os vendránG1904
+- 1Pe_1:11anunciaba...las glorias que vendrían
+- 1Pe_2:7piedra...venido a ser la cabeza del ángulo
+- 1Pe_3:6de la cual...habéis venido a ser hijas, si
+- 2Pe_2:20postrer estado viene a ser peor que
+- 2Pe_3:3días vendrán burladores, andando segúnG2064
+- 2Pe_3:10el día del Señor vendrá como ladrón enG2240
+- 1Jn_2:18oísteis que el anticristo viene, asíG2064
+- 1Jn_4:2que confiesa que Jesucristo ha venido enG2064
+- 1Jn_4:3no confiesa que Jesucristo ha venido enG2064
+- 1Jn_4:3habéis oído que viene, y que ahora yaG2064
+- 1Jn_5:6es Jesucristo, que vino mediante agua yG2064
+- 1Jn_5:20sabemos que el Hijo de Dios ha venidoG2240
+- 2Jn_1:7no confiesan que Jesucristo ha venidoG2064
+- 2Jn_1:10si alguno viene a vosotros, y no trae estaG2064
+- 3Jn_1:3regocijé cuando vinieron los hermanosG2064
+- Jud_1:14vino el Señor con sus santas decenas deG2064
+- Rev_1:4, Rev_1:8que es y que era y que ha de venirG2064
+- Rev_1:7aquí que viene con las nubes, y todo ojoG2064
+- Rev_2:5si no, vendré pronto a ti, y quitaré tuG2064
+- Rev_2:16vendré a ti...y pelearé contra ellos conG2064
+- Rev_2:25que tenéis, retenedlo hasta que yo vengaG2240
+- Rev_3:3si no velas, vendré sobre ti como ladrónG2240
+- Rev_3:3y no sabrás a qué hora vendré sobre tiG2240
+- Rev_3:9haré que vengan y se postren a tus piesG2240
+- Rev_3:10te guardaré de la hora...que venirG2064
+- Rev_3:11he aquí, yo vengo pronto; retén lo queG2064
+- Rev_4:8que era, el que es, y el que ha de venirG2064
+- Rev_5:7vino, y tomó el libro de la mano derechaG2064
+- Rev_6:1oí a uno de los cuatro seres...Ven y miraG2064
+- Rev_6:3, Rev_6:5, Rev_6:7ser viviente, que decía: Ven y miraG2064
+- Rev_7:13¿quiénes son, y de dónde han venido?[[G2064]]
+- Rev_8:3otro ángel vino...y se paró ante el altarG2064
+- Rev_9:12he aquí, vienen aún dos ayes después deG2064
+- Rev_11:14pasó; he aquí, el tercer ay viene prontoG2064
+- Rev_11:15los reinos del mundo han venido a ser de
+- Rev_11:17que eres y que eras y que has de venirG2064
+- Rev_11:18tu ira ha venido, y el tiempo de juzgarG2064
+- Rev_12:10ha venido la salvación, el poder, y elG1096
+- Rev_15:4naciones vendrán y te adorarán, porqueG2240
+- Rev_16:2y vino una úlcera maligna y pestilenteG1096
+- Rev_16:15yo vengo como ladrón...Bienaventurado elG2064
+- Rev_16:19gran Babilonia vino en memoria delanteG3415
+- Rev_17:1vino entonces uno de los siete ángelesG2064
+- Rev_17:1ven acá, y te mostraré la sentenciaG1204
+- Rev_17:10otro aún no ha venido; y cuando vengaG2064
+- Rev_18:8un sólo día vendrán sus plagas: muerteG2240
+- Rev_18:10¡ay...porque en una hora vino tu juicio![[G2064]]
+- Rev_19:17venid, y congregaos a la gran cena deG1205
+- Rev_21:9vino entonces...uno de los siete ángelesG2064
+- Rev_21:9ven acá, yo te mostraré la desposada, laG1204
+- Rev_22:7¡he aquí, vengo pronto! BienaventuradoG2064
+- Rev_22:12he aquí yo vengo pronto, y mi galardónG2064
+- Rev_22:17dicen: Ven...Y el que oye, diga: V...Y elG2064
+- Rev_22:17que tiene sed, venga; y el que quieraG2064
+- Rev_22:20vengo en breve...Amén; sí, ven...JesúsG2064

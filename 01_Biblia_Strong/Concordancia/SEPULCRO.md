@@ -1,0 +1,137 @@
+---
+tipo: concordancia
+palabra: SEPULCRO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SEPULCRO
+
+- Gén_23:6en lo mejor de nuestros s sepulta aH6913
+- Gén_23:6ninguno de nosotros te negará su s, niH6913
+- Gén_47:30me llevarás...me sepultarás en el s deH6913
+- Gén_50:5en el s que cavé para mí en...de CanaánH6913
+- Éxo_14:11¿no había s en Egipto, que nos hasH6913
+- Núm_19:16tocare...s, siete días será inmundoH6913
+- Núm_19:18sobre aquel que hubiere tocado el...sH6913
+- Jue_8:32sepultado en el s de su padre JoásH6913
+- Jue_16:31sepultaron...en el s de su padre ManoaH6913
+- 1Sa_10:2hallarás dos hombres junto al s deH6900
+- 2Sa_2:32y lo sepultaron en el s de su padreH6913
+- 2Sa_3:32rey...lloró junto al s de Abner; y lloróH6913
+- 2Sa_4:12la cabeza...enterraron en el s de AbnerH6913
+- 2Sa_17:23así murió, y fue sepultado en el s de suH6913
+- 2Sa_19:37que muera en...junto al s de mi padreH6913
+- 2Sa_21:14los huesos de...en el s de Cis su padreH6913
+- 1Re_13:22no entrará tu cuerpo en el s de tusH6913
+- 1Re_13:30puso el cuerpo en el s; y le endecharonH6913
+- 1Re_13:31cuando yo muera, enterradme en el s enH6913
+- 2Re_9:28le sepultaron...en su s en la ciudadH6900
+- 2Re_13:21arrojaron el cadáver en el s de EliseoH6913
+- 2Re_21:26fue sepultado en su s en el huerto deH6900
+- 2Re_22:20serás llevado a tu s en paz, y no veránH6913
+- 2Re_23:6y echó el polvo sobre los s...del puebloH6913
+- 2Re_23:16se volvió Josías, y viendo los s queH6913
+- 2Re_23:16sacó los huesos de los s, y los quemóH6913
+- 2Re_23:17es el s del varón de Dios que vino deH6913
+- 2Re_23:30a Jerusalén, y lo sepultaron en su sH6900
+- 2Cr_16:14sepultaron en los s que él habíaH6913
+- 2Cr_21:20lo sepultaron...no en los s de los reyesH6913
+- 2Cr_24:25de David, pero no en los s de los reyesH6913
+- 2Cr_26:23lo sepultaron con...en el campo de los sH6900
+- 2Cr_28:27no lo metieron en los s de los reyesH6913
+- 2Cr_32:33en el lugar más prominente de los s deH6913
+- 2Cr_34:4y esparció el polvo sobre los s de losH6913
+- 2Cr_34:28y serás recogido en tu s en paz, y tusH6913
+- 2Cr_35:24y lo sepultaron en los s de sus padresH6913
+- Neh_2:3la ciudad, casa de los s de mis padresH6913
+- Neh_2:5envíame a Judá, a la ciudad de los s deH6913
+- Neh_3:16hasta delante de los s de David, y hastaH6913
+- Job_3:22se alegran...gozan cuando hallan el s?[[H6913]]
+- Job_17:1se acortan mis...me está preparado el sH6913
+- Job_21:32porque llevado será a los s, y sobreH6913
+- Job_30:24mas él no extenderá la mano contra el sH1164
+- Job_33:18detendrá su alma del s, y su vida deH7845
+- Job_33:22su alma se acerca al s, y su vida a losH7845
+- Job_33:24lo libró de descender al s, que hallóH7845
+- Job_33:28redimirá su alma para que no pase al sH7845
+- Job_33:30para apartar su alma del s, y para...luzH7845
+- Sal_5:9s abierto es su garganta...su lenguaH6913
+- Sal_28:1yo...semejante a los que descienden al sH953
+- Sal_88:4contado entre los que descienden al sH953
+- Sal_88:5los pasados a espada que yacen en el sH6913
+- Sal_88:11¿será contada en el s tu misericordiaH6913
+- Pro_28:17hombre cargado de...huirá hasta el sH953
+- Isa_14:19tú echado eres de tu s como vástagoH953
+- Isa_22:16labraste aquí s para ti, como el queH6913
+- Isa_38:18ni los que descienden al s esperaránH953
+- Isa_65:4que se quedan en los s, y en lugaresH6913
+- Jer_5:16su aljaba...s abierto, todos valientesH6913
+- Jer_8:1sacarán los huesos de los reyes...de sus sH6913
+- Jer_20:17y mi madre me hubiera sido mi s, y suH6913
+- Jer_26:23mató...echó su cuerpo en los s del vulgoH6913
+- Eze_26:20(2)los que descienden al sH953
+- Eze_28:8al s te harán descender, y morirás conH7845
+- Eze_32:22en derredor de él están sus s; todosH6913
+- Eze_32:23sus s fueron puestos a los lados de laH6913
+- Eze_32:23-24, Eze_32:25-26por los alrededores de su sH6913
+- Eze_32:29los incircuncisos, y con los que descienden al sH953
+- Eze_32:30comparten su confusión con los que descienden al sH953
+- Eze_37:12he aquí yo abro vuestros s, pueblo míoH6913
+- Eze_37:13y sabréis que...cuando abra vuestros sH6913
+- Nah_1:14allí pondré tu s, porque fuiste vilH6913
+- Mat_8:28dos endemoniados que salían de los sG3419
+- Mat_23:27porque sois semejantes a s blanqueadosG5028
+- Mat_23:29porque edificáis los s de los profetasG3419
+- Mat_27:52y se abrieron los s, y muchos cuerposG3419
+- Mat_27:53y saliendo de los s...a la santa ciudadG3419
+- Mat_27:60puso en su s nuevo, que había labradoG3419
+- Mat_27:60rodar una...piedra a la entrada del sG3419
+- Mat_27:61y estaban allí...sentadas delante del sG5028
+- Mat_27:64manda, pues, que se asegure el s hastaG5028
+- Mat_27:66aseguraron el s, sellando la piedra yG5028
+- Mat_28:1vinieron María...otra María, a ver el sG5028
+- Mat_28:8saliendo del s con temor y gran gozoG3419
+- Mar_5:2s, un hombre con un espíritu inmundoG3419
+- Mar_5:3tenía su morada en los s, y nadie podíaG3419
+- Mar_5:5dando voces en los montes y en los sG3418
+- Mar_6:29tomaron su cuerpo...y lo pusieron en un sG3419
+- Mar_15:46y lo puso en un s...cavado en una peñaG3419
+- Mar_15:46hizo rodar...piedra a la entrada del sG3419
+- Mar_16:2primer día de la semana, vinieron al sG3419
+- Mar_16:3removerá la piedra...de la entrada del s?[[G3419]]
+- Mar_16:5y cuando entraron en el s, vieron a unG3419
+- Mar_16:8y ellas se fueron huyendo del s, porqueG3419
+- Luc_8:27ropa, ni moraba en casa, sino en los sG3418
+- Luc_11:44como s que no se ven, y los hombres queG3419
+- Luc_11:47que edificáis los s de los profetas aG3419
+- Luc_11:48los mataron, y vosotros edificáis sus sG3419
+- Luc_23:53y lo puso en un s abierto en una peñaG3418
+- Luc_23:55y vieron el s, y cómo fue puesto suG3419
+- Luc_24:1al s, trayendo las especias aromáticasG3418
+- Luc_24:2y hallaron removida la piedra del sG3419
+- Luc_24:9volviendo del s, dieron nuevas de todasG3419
+- Luc_24:12pero levantándose Pedro, corrió al sG3419
+- Luc_24:22mujeres...que antes del día fueron al sG3419
+- Luc_24:24fueron...al s, y hallaron así como lasG3419
+- Jua_5:28los que están en los s oirán su vozG3419
+- Jua_11:17cuatro días que Lázaro estaba en el sG3419
+- Jua_11:31siguieron, diciendo: Va al s a llorarG3419
+- Jua_11:38Jesús...conmovido otra vez, vino al sG3419
+- Jua_12:17estaba con él cuando llamó a Lázaro...sG3419
+- Jua_19:41un huerto, y en el huerto un s nuevoG3419
+- Jua_19:42porque aquel s estaba cerca, pusieronG3419
+- Jua_20:1fue de mañana, siendo aún oscuro, al sG3419
+- Jua_20:1de mañana...y vio quitada la piedra del sG3419
+- Jua_20:2les dijo: Se han llevado del s al SeñorG3419
+- Jua_20:3salieron Pedro y el otro...fueron al sG3419
+- Jua_20:4corrió más aprisa...llegó primero al sG3419
+- Jua_20:6Pedro...entró en el s, y vio los lienzosG3419
+- Jua_20:8el otro...que había venido primero al sG3419
+- Jua_20:11María estaba fuera llorando junto al sG3419
+- Jua_20:11María...inclinó para mirar dentro del sG3419
+- Hec_2:29su s está con nosotros hasta el díaG3418
+- Hec_7:16puestos en el s que a precio de dineroG3418
+- Hec_13:29quitándolo...madero lo pusieron en el sG3418
+- Rom_3:13s abierto es su garganta; con su lenguaG5028
+- 1Co_15:55muerte...¿Dónde, oh s, tu victoria?[[G86]]

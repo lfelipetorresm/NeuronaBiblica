@@ -1,0 +1,112 @@
+---
+tipo: concordancia
+palabra: PASTOR, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PASTOR, A
+
+- Gén_4:2y Abel fue p de ovejas, y Caín fueH7462
+- Gén_13:7entre los p...de Abram y los p...de LotH7462
+- Gén_13:8entre mis p y los tuyos, porque somosH7462
+- Gén_26:20p de Gerar riñeron con los p de IsaacH7462
+- Gén_29:9Raquel vino con...porque ella era la pH7462
+- Gén_46:32y los hombres son p de ovejas, porqueH7462, [[H6629]]
+- Gén_46:34los egipcios es abominación todo p deH7462
+- Gén_47:3ellos respondieron...P de ovejas son tusH7462
+- Gén_49:24por el nombre del P, la Roca de IsraelH7462
+- Éxo_2:17los p vinieron y las echaron de allíH7462
+- Éxo_2:19egipcio nos defendió de mano de los p, yH7462
+- Núm_27:17congregación...sea como ovejas sin pH7462
+- 1Sa_17:34tu siervo era p de las ovejas de suH7462
+- 1Sa_21:7era Doeg...el principal de los p de SaúlH7462
+- 1Sa_25:7tus p han estado con nosotros; no lesH7462
+- 1Re_22:17Israel como ovejas que no tienen pH7462
+- 2Re_10:12llegó a una casa de esquileo de p
+- 2Cr_18:16por los montes como ovejas sin pH7462
+- Job_1:16fuego...que quemó las ovejas y a los pH5288
+- Sal_23:1Jehová es mi p; nada me faltará. EnH7462
+- Sal_80:1p de Israel, escucha; tú que pastoreasH7462
+- Ecl_12:11las congregaciones, dadas por un PH7462
+- Cnt_1:8ovejas junto a las cabañas de los pH7462
+- Isa_13:14y como oveja sin p, cada cual mirará
+- Isa_13:20ni...el árabe, ni p tendrán allí majadaH7462
+- Isa_31:4y si se reúne cuadrilla de p contra élH7462
+- Isa_38:12mi morada ha sido movida...tienda de pH7473
+- Isa_40:11como p apacentará su rebaño; en...brazoH7462
+- Isa_44:28dice de Ciro: Es mi p, y cumplirá todoH7462
+- Isa_56:11los p mismos no saben entender; todosH7462
+- Isa_63:11les hizo subir del mar con el p de suH7462
+- Jer_2:8los p se rebelaron contra mí, y losH7462
+- Jer_3:15y os daré p según mi corazón, que osH7462
+- Jer_6:3contra ella vendrán p y sus rebaños; juntoH7462
+- Jer_10:21los p se infatuaron, y no buscaron aH7462
+- Jer_12:10p han destruido mi viña; hollaron miH7462
+- Jer_22:22a todos tus p pastoreará el viento, yH7462
+- Jer_23:1¡ay de los p que destruyen y dispersanH7462
+- Jer_23:2ha dicho Jehová...a los p que apacientanH7462
+- Jer_23:4pondré sobre ellas p que las apacientenH7462
+- Jer_25:34aullad, p, y clamad; revolcaos en elH7462
+- Jer_25:35y se acabará la huida de los p, y elH7462
+- Jer_25:36¡voz de la gritería de los p...rebañoH7462
+- Jer_31:10lo reunirá y guardará, como el p a suH7462
+- Jer_33:12habrá cabañas de p que hagan pastar susH7462
+- Jer_43:12limpiará la...como el p limpia su capaH7462
+- Jer_49:19¿quién será aquel p que me...resistir?[[H7462]]
+- Jer_50:6sus p las hicieron errar, por los montesH7462
+- Jer_50:44¿o quién será aquel p que...resistirme?[[H7462]]
+- Jer_51:23quebrantaré por...ti al p y a su rebañoH7462
+- Eze_34:2profetiza contra los p...y di a los pH7462
+- Eze_34:2¡ay de los p...apacientan a sí mismos![[H7462]]
+- Eze_34:2¿no apacientan los p a los rebaños?[[H7462]]
+- Eze_34:5y andan errantes por falta de p, y sonH7462
+- Eze_34:7por tanto, p, oíd palabra de JehováH7462
+- Eze_34:8ovejas fueron para ser presa de...sin pH7462
+- Eze_34:8ni mis p buscaron mis ovejas, sino queH7462
+- Eze_34:8los p se apacentaron a sí mismos, y noH7462
+- Eze_34:9por tanto, oh p, oíd palabra de JehováH7462
+- Eze_34:10yo estoy contra los p; y demandaré misH7462
+- Eze_34:10ni los p se apacentarán más a sí mismosH7462
+- Eze_34:12como reconoce su rebaño el p el día queH7462
+- Eze_34:23levantaré sobre ellas a un p, y él lasH7462
+- Eze_34:23él las apacentará, y él les será por pH7462
+- Eze_37:24será rey...todos ellos tendrán un solo pH7462
+- Ose_12:12Jacob huyó...por adquirir mujer fue pH8104
+- Amó_1:1palabras de Amós, que fue uno de los pH5349
+- Amó_1:2y los campos de los p se enlutarán, y seH7462
+- Amó_3:12de la manera que el p libra de la bocaH7462
+- Miq_5:5levantaremos contra él siete p, y ochoH7462
+- Nah_3:18durmieron tus p, oh rey de AsiriaH7462
+- Sof_2:6será la costa del mar praderas para pH7462
+- Zac_10:2el pueblo...sufre porque no tiene pH7462
+- Zac_10:3contra los p se ha encendido mi enojoH7462
+- Zac_11:3voz de aullido de p, porque...es asoladaH7462
+- Zac_11:5dice...ni sus p tienen piedad de ellasH7462
+- Zac_11:8y destruí a tres p en un mes; pues miH7462
+- Zac_11:15toma aún los aperos de un p insensatoH7462
+- Zac_11:16a un p que no visitará las perdidas, niH7462
+- Zac_11:17¡ay...p inútil que abandona el ganado![[H7462]]
+- Zac_13:7levántate...espada, contra el p, y contraH7462
+- Zac_13:7hiere al p, y...dispersadas las ovejasH7462
+- Mat_9:36dispersas como ovejas que no tienen pG4166
+- Mat_25:32aparta el p las ovejas de los cabritosG4166
+- Mat_26:31heriré al p, y las ovejas del rebañoG4166
+- Mar_6:34porque eran...ovejas que no tenían pG4166
+- Mar_14:27heriré al p...ovejas serán dispersadasG4166
+- Luc_2:8había p en la misma región, que velabanG4166
+- Luc_2:15los p se dijeron unos a otros: PasemosG4166
+- Luc_2:18maravillaron de lo que los p les decíanG4166
+- Luc_2:20volvieron los p glorificando y alabandoG4166
+- Jua_10:2el que entra por...el p de las ovejasG4166
+- Jua_10:11yo soy el buen p; el buen p su vida daG4166
+- Jua_10:12que no es el p...ve venir al lobo y huyeG4166
+- Jua_10:14yo soy el buen p; y conozco mis ovejasG4166
+- Jua_10:16oirán mi voz; y habrá un rebaño, y un pG4166
+- Efe_4:11constituyó a unos...otros, p y maestrosG4166
+- Heb_13:7acordaos de vuestros p...imitad su fe
+- Heb_13:17obedeced a vuestros p, y sujetaos a
+- Heb_13:20a Jesucristo, el gran p de las ovejasG4166
+- Heb_13:24saludad a todos vuestros p, y a todos
+- 1Pe_2:25ahora habéis vuelto al P y Obispo deG4166
+- 1Pe_5:4y cuando aparezca el Príncipe de los pG750

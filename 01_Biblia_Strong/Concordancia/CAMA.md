@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: CAMA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CAMA
+
+- Gén_47:31se inclinó sobre la cabecera de la cH4296
+- Gén_48:2esforzó Israel, y se sentó sobre la cH4296
+- Gén_49:33encogió sus pies en la c, y expiróH4296
+- Éxo_8:3la cámara donde duermes, y sobre tu cH4296
+- Éxo_21:18y éste no muriere, pero cayere en cH4904
+- Lev_15:4c en que se acostare el que tuviereH4904
+- Lev_15:5, Lev_15:21que tocare su c lavará sus vestidosH4904
+- Lev_15:23lo que estuviere sobre la c, o sobreH4904
+- Lev_15:24c sobre que durmiere, será inmundaH4904
+- Lev_15:26c en que durmiere...será como la c deH4904
+- Deu_3:11c, una c de hierro, ¿no está en RabáH6210
+- 1Sa_19:13una estatua, y la puso sobre la cH4296
+- 1Sa_19:15traédmelo en la c para que lo mateH4296
+- 1Sa_19:16entraron...la estatua estaba en la cH4296
+- 1Sa_28:23se levantó, pues...y se sentó sobre una cH4296
+- 2Sa_4:11mataron a un hombre...y sobre su c?[[H4904]]
+- 2Sa_11:13él salió a la tarde a dormir en su cH4904
+- 2Sa_13:5acuéstate en tu c, y finge que estásH4904
+- 2Sa_17:28trajeron a David...c, tazas, vasijasH4904
+- 1Re_1:47haga mayor...Y el rey adoró en la cH4904
+- 1Re_17:19lo llevó al aposento...puso sobre su cH4296
+- 1Re_21:4se acostó en su c, y volvió su rostroH4296
+- 2Re_4:10aposento...y pongamos allí c, mesaH4296
+- 2Re_4:21lo puso sobre la c del varón de DiosH4296
+- 2Re_4:32niño estaba muerto tendido sobre su cH4296
+- 2Cr_24:25y lo hirieron en su c, y murióH4296
+- Est_4:3cilicio y ceniza era la c de muchosH8242
+- Job_7:13cuando digo...c atenuará mis quejasH4909
+- Job_17:13el Seol es, haré mi c en las tinieblasH3326
+- Job_33:19sobre su c es castigado con dolorH4904
+- Sal_4:4vuestro corazón estando en vuestra cH4904
+- Sal_6:6las noches...riego mi c con mis lágrimasH4296
+- Sal_36:4medita maldad sobre su c, está enH4904
+- Sal_41:3mullirás toda su c en su enfermedadH6210
+- Sal_41:8que cayó en c no volverá a levantarse
+- Sal_149:5regocíjense...y canten aun sobre sus cH4904
+- Pro_7:16adornado mi c con colchas recamadasH6210
+- Pro_22:27¿por qué han de quitar tu c de debajoH4904
+- Pro_26:14así el perezoso se vuelve en su cH4296
+- Isa_14:11gusanos serán tu c, y...te cubrirán
+- Isa_28:20la c será corta para poder estirarseH4702
+- Isa_57:7sobre el monte...empinado pusiste tu cH4904
+- Isa_57:8y ensanchaste tu c, e...amaste su cH4904
+- Isa_58:5junco, y haga c de cilicio y de ceniza?[[H8242]]
+- Dan_2:28las visiones que has tenido en tu cH4903
+- Dan_2:29en tu c, te vinieron pensamientos porH4903
+- Dan_4:5un sueño que me espantó, y tendido en cH4903
+- Dan_4:10, Dan_4:13visiones...mientras estaba en mi cH4903
+- Ose_7:14no clamaron a...gritaban sobre sus cH4904
+- Amó_3:12que moran en...en el rincón de una cH4296
+- Amó_6:4duermen en c de marfil, y reposan sobreH4296
+- Miq_2:1de los que en sus c piensen iniquidadH4904
+- Mat_8:14vio a la suegra de éste postrada en c
+- Mat_9:2un paralítico, tendido sobre una cG2825
+- Mat_9:6levántate, toma tu c, y vete a tu casaG2825
+- Mar_4:21la luz para ponerla...debajo de la c?[[G2825]]
+- Mar_7:30halló que...y a la hija acostada en la cG2825
+- Luc_8:16ni la pone debajo de la c, sino queG2825
+- Luc_11:7mis niños están conmigo en c: no puedoG2895
+- Luc_17:34dos en una c; el uno será tomado, y elG2825
+- Hec_5:15los ponían en c y lechos, para queG2825
+- Hec_9:33hacía ocho años que estaba en c, puesG2895
+- Hec_9:34y le dijo Pedro...levántate, y haz tu cG4766
+- Hec_28:8el padre de Publio estaba en c, enfermo
+- Rev_2:22la arrojo en c, y en gran tribulaciónG2825

@@ -1,0 +1,752 @@
+---
+tipo: concordancia
+palabra: AÑO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AÑO
+
+- Gén_1:14sirvan de señales para las...días y aH8141
+- Gén_5:3vivió Adán 130 a, y engendró un hijo aH8141
+- Gén_5:4y fueron los días de Adán...ochocientos aH8141
+- Gén_5:5los días que vivió Adán 930 a; y murióH8141
+- Gén_5:6vivió Set 105 a, y engendró a EnósH8141
+- Gén_5:7y vivió Set, después...807 a, y engendróH8141
+- Gén_5:8y fueron todos los días de Set 912 aH8141
+- Gén_5:9vivió Enós noventa a, y engendró a CainánH8141
+- Gén_5:10y vivió Enós...815 a, y engendró hijos eH8141
+- Gén_5:11y fueron todos los días de Enós 905 aH8141
+- Gén_5:12vivió Cainán setenta a, y engendró aH8141
+- Gén_5:13vivió Cainán...840 a, y engendró hijos eH8141
+- Gén_5:14y fueron todos los días de Cainán 910 aH8141
+- Gén_5:15vivió Mahalaleel 65 a, y engendró aH8141
+- Gén_5:16vivió Mahalaleel...830 a, y engendró hijosH8141
+- Gén_5:17fueron todos los días de Mahalaleel 895 aH8141
+- Gén_5:18vivió Jared 162 a, y engendró a EnocH8141
+- Gén_5:19vivió Jared, después que...ochocientos aH8141
+- Gén_5:20y fueron todos los días de Jared 962 aH8141
+- Gén_5:21vivió Enoc...65 a, y engendró a MatusalénH8141
+- Gén_5:22y caminó Enoc con Dios...trescientos aH8141
+- Gén_5:23y fueron todos los días de Enoc 365 aH8141
+- Gén_5:25vivió Matusalén 187 a, y engendró aH8141
+- Gén_5:26vivió Matusalén...782 a, y engendró hijosH8141
+- Gén_5:27fueron todos los días de Matusalén 969 aH8141
+- Gén_5:28vivió Lamec 182 a, y engendró un hijoH8141
+- Gén_5:30vivió Lamec...595 a, y engendró hijos eH8141
+- Gén_5:31y fueron todos los días de Lamec 777 aH8141
+- Gén_5:32y siendo Noé de 500 a, engendró a SemH8141
+- Gén_6:3carne; mas serán sus dias ciento veinte aH8141
+- Gén_7:6era Noé de 600 a cuando el diluvio de lasH8141
+- Gén_7:11el a seiscientos de la vida de Noé, en elH8141
+- Gén_8:13y sucedió que en el a 601 de Noé, en elH8141
+- Gén_9:28y vivió Noé después del diluvio 350 aH8141
+- Gén_9:29y fueron todos los días de Noé 950 aH8141
+- Gén_11:10de edad de cien a, engendró a ArfaxadH8141
+- Gén_11:10a Arfaxad, dos a después del diluvioH8141
+- Gén_11:11y vivió Sem...500 a, y engendró hijos eH8141
+- Gén_11:12Arfaxad vivió 35 a, y engendró a SalaH8141
+- Gén_11:13y vivió Arfaxad después...Sala, 403 aH8141
+- Gén_11:14Sala vivió 30 a, y engendró a HeberH8141
+- Gén_11:15y vivió Sala...403 a, y engendró hijosH8141
+- Gén_11:16Heber vivió 34 a, y engendró a PelegH8141
+- Gén_11:17y vivió Heber, después...Peleg 430 a, yH8141
+- Gén_11:18Peleg vivió treinta a, y engendró a ReuH8141
+- Gén_11:19vivió Peleg...209 a, y engendró hijos eH8141
+- Gén_11:20Reu vivió 32 a, engendró a SerugH8141
+- Gén_11:21vivió Reu...207 a, y engendró hijos eH8141
+- Gén_11:22Serug vivió 30 a, y engendró a NacorH8141
+- Gén_11:23y vivió Serug...200 a, y engendró hijosH8141
+- Gén_11:24Nacor vivió 29 a, y engendró a TaréH8141
+- Gén_11:25vivió Nacor...119 a, y engendró hijos eH8141
+- Gén_11:26Taré vivió 70 a, y engendró a AbramH8141
+- Gén_11:32fueron los días de Taré 205 a; y murióH8141
+- Gén_12:4era Abram de edad de 75 a cuando salióH8141
+- Gén_14:4doce a habían servido a Quedorlaomer, yH8141
+- Gén_14:5en el a decimocuarto vino QuedorlaomerH8141
+- Gén_15:9una becerra de tres a...cabra de tres aH8027
+- Gén_15:9carnero de tres a, una tórtola tambiénH8027
+- Gén_15:13será esclava...oprimida cuatrocientos aH8141
+- Gén_16:3cabo de diez a que había habitado AbramH8141
+- Gén_16:16era Abram de edad de 86 a, cuando AgarH8141
+- Gén_17:1era Abram de edad de noventa y nueve aH8141
+- Gén_17:17¿a hombre de cien a...Y Sara, ya de 90 aH8141
+- Gén_17:21dará a luz...este tiempo el a que vieneH8141
+- Gén_17:24era Abraham de edad de 99 a...circuncidóH8141
+- Gén_17:25Ismael su hijo era de trece a, cuandoH8141
+- Gén_21:5era Abraham de cien a cuando nació IsaacH8141
+- Gén_23:1de Sara 127 a...losa de la vida de SaraH8141
+- Gén_24:1Abraham ya viejo, y bien avanzado en aH3117
+- Gén_25:7fueron los días que vivió Abraham: 175 aH8141
+- Gén_25:8y lleno de a, y fue unido a su pueblo
+- Gén_25:17los a de vida de Ismael, 137 aH8141
+- Gén_25:20era Isaac de cuarenta a cuando tomó porH8141
+- Gén_25:26Isaac...60 a cuando ella los dio a luzH8141
+- Gén_26:12Isaac cosechó aquel a ciento por unoH8141
+- Gén_26:34cuando Esaú era de cuarenta a, tomó porH8141
+- Gén_29:18te serviré siete a por Raquel tu hijaH8141
+- Gén_29:20sirvió Jacob por Raquel siete a; y leH8141
+- Gén_29:27por el servicio que hagas...otros siete aH8141
+- Gén_29:30Lea; y sirvió a Labán aún otros siete aH8141
+- Gén_31:38estos veinte a he estado contigo; tusH8141
+- Gén_31:41he estado 20 a en tu casa; 14 a te servíH8141
+- Gén_31:41y seis a por tu ganado, y has cambiado miH8141
+- Gén_35:28y fueron los días de Isaac 180 aH8141
+- Gén_37:2José, siendo de edad de 17 a, apacentabaH8141
+- Gén_41:1que pasados dos a tuvo Faraón un sueñoH8141
+- Gén_41:26las siete vacas hermosas siete a son; yH8141
+- Gén_41:26y las espigas hermosas son siete a elH8141
+- Gén_41:27siete vacas flacas y feas...son siete aH8141
+- Gén_41:27siete espigas...siete a serán de hambreH8141
+- Gén_41:29he aquí vienen siete a de gran abundanciaH8141
+- Gén_41:30tras ellos seguirán siete a de hambreH8141
+- Gén_41:34quinte la...en los siete a de abundanciaH8141
+- Gén_41:35junten toda la provisión de...buenos aH8141
+- Gén_41:36en depósito...para los siete a de hambreH8141
+- Gén_41:46era José de edad de treinta a cuando fueH8141
+- Gén_41:47en aquellos siete a de abundancia laH8141
+- Gén_41:48el alimento de los siete a de abundanciaH8141
+- Gén_41:50antes que viniese el primer a del hambreH8141
+- Gén_41:53los siete a de abundancia que hubo enH8141
+- Gén_41:54comenzaron a venir...siete a del hambreH8141
+- Gén_45:6dos a de hambre...aún quedan cinco a enH8141
+- Gén_45:11pues aún quedan cinco a de hambre, paraH8141
+- Gén_47:8¿cuántos son los días de los a de tu vida?[[H8141]]
+- Gén_47:9los días de los a de mi...son 130 a, pocosH8141
+- Gén_47:9pocos y malos han sido...los a de mi vidaH8141
+- Gén_47:9no han llegado a los días de los a de laH8141
+- Gén_47:17sustentó de pan por...sus ganados aquel aH8141
+- Gén_47:18acabado aquel a, vinieron...el segundo aH8141
+- Gén_47:28vivió Jacob en la...de Egipto diecisiete aH8141
+- Gén_47:28días de Jacob, los a de su vida, 147 aH8141
+- Gén_50:22habitó José en...vivió José ciento diez aH8141
+- Gén_50:26y murió José a la edad de ciento diez aH8141
+- Éxo_6:16y los a de la vida de Leví fueron 137 aH8141
+- Éxo_6:18y los a de la vida de Coat fueron 133 aH8141
+- Éxo_6:20y los a de la vida de Amram fueron 137 aH8141
+- Éxo_7:7era Moisés de...ochenta a, y Aarón de 83 aH8141
+- Éxo_12:2será este el primero en los meses del aH8141
+- Éxo_12:5el animal será sin defecto, macho de un aH8141
+- Éxo_12:40de Israel habitaron en Egipto fue 430 aH8141
+- Éxo_12:41pasados los 430 a...salieron de...de EgiptoH8141
+- Éxo_13:10guardarás...rito en su tiempo de a en aH3117
+- Éxo_16:35comieron los hijos de Israel maná 40 aH8141
+- Éxo_21:2si comprares siervo hebreo, seis a serviráH8141
+- Éxo_23:10seis a sembrarás tu tierra, y recogerásH8141
+- Éxo_23:11el séptimo a la dejarás libre, para que
+- Éxo_23:14tres veces en el a...celebraréis fiestaH8141
+- Éxo_23:16fiesta de la cosecha a la salida del aH8141
+- Éxo_23:17tres veces en el a se presentará...varónH8141
+- Éxo_23:29no los echaré de delante de ti en un aH8141
+- Éxo_29:38ofrecerás...dos corderos de un a cadaH8141
+- Éxo_30:10hará Aarón expiación una vez en el a conH8141
+- Éxo_30:10una vez en el a hará expiación sobre élH8141
+- Éxo_30:14el que sea contado, de veinte a arribaH8141
+- Éxo_34:22la fiesta de la cosecha a la salida del aH8141
+- Éxo_34:23tres veces en el a se presentará...varónH8141
+- Éxo_34:24delante de Jehová...Dios 3 veces en el aH8141
+- Éxo_38:26veinte a arriba, que fueron 603.550H8141
+- Éxo_40:17el segundo a, el tabernáculo fue erigidoH8141
+- Lev_9:3tomad...y un cordero de un a, sin defectoH8141
+- Lev_12:6traerá un cordero de un a para holocaustoH8141
+- Lev_14:10una cordera de un a sin tacha, y...harinaH8141
+- Lev_16:34hacer expiación una vez al a por todosH8141
+- Lev_19:23de su fruto; tres a os será incircuncisoH8141
+- Lev_19:24cuarto a todo su fruto será consagradoH8141
+- Lev_19:25mas al quinto a comeréis el fruto de élH8141
+- Lev_23:12gavilla, ofreceréis un cordero de un aH8141
+- Lev_23:18ofreceréis...siete corderos de un a, sinH8141
+- Lev_23:19dos corderos de un a en sacrifico deH8141
+- Lev_23:41fiesta a Jehová por siete días cada aH8141
+- Lev_25:3seis a sembrarás...seis a podarás tu viñaH8141
+- Lev_25:4el séptimo a la tierra tendrá descansoH8141
+- Lev_25:5las uvas...a de reposo será para la tierraH8141
+- Lev_25:8siete semanas de a, siete veces siete aH8141
+- Lev_25:8siete semanas de a vendrán a serte 49 aH8141
+- Lev_25:10el a cincuenta...ese a os será de jubileoH8141
+- Lev_25:11el a cincuenta os será jubileo; noH8141
+- Lev_25:13en este a de jubileo volveréis cada unoH8141
+- Lev_25:15al número de los a después del jubileoH8141
+- Lev_25:15conforme al número de los a...te venderáH8141
+- Lev_25:16cuanto mayor fuere el número de los aH8141
+- Lev_25:20dijereis: ¿Qué comeremos el séptimo a?[[H8141]]
+- Lev_25:21yo os enviaré mi bendición el sexto aH8141
+- Lev_25:21y ella hará que haya fruto por tres aH8141
+- Lev_25:22sembraréis el a octavo, y comeréis delH8141
+- Lev_25:22hasta el a noveno, hasta que venga suH8141
+- Lev_25:27contará los a desde que vendió, y pagaráH8141
+- Lev_25:28en poder del que lo compró hasta el aH8141
+- Lev_25:29el término de un a...un a será el términoH8141
+- Lev_25:30y si no fuere rescatada dentro de un aH8141
+- Lev_25:40como...hasta el a del jubileo te serviráH8141
+- Lev_25:50desde el a que se vendió...hasta el a delH8141
+- Lev_25:50el precio...conforme al número de los aH8141
+- Lev_25:51aún fueren muchos a, conforme a ellosH8141
+- Lev_25:52si...poco tiempo hasta el a del jubileoH8141
+- Lev_25:52devolverá su rescate conforme a sus aH8141
+- Lev_25:54no se rescatare en esos a, en el a delH8141
+- Lev_27:3al varón de veinte a hasta sesenta, loH8141
+- Lev_27:5y si fuere de cinco a hasta veinte, alH8141
+- Lev_27:6y si fuere de un mes hasta 5 a...5 siclosH8141
+- Lev_27:7si fuere de sesenta a o más, al varón loH8141
+- Lev_27:17si dedicare su...desde el a del jubileoH8141
+- Lev_27:18los a que quedaren hasta el a del jubileoH8141
+- Lev_27:23calculará con él...hasta el a del jubileoH8141
+- Lev_27:24en el a del jubileo, volverá la tierraH8141
+- Núm_1:1en el segundo a de su salida de...EgiptoH8141
+- Núm_1:3de veinte a arriba, todos los que puedenH8141
+- Núm_1:18conforme a la cuenta de...de 20 a arribaH8141
+- Núm_1:20, Núm_1:22todos los varones de veinte a arribaH8141
+- Núm_1:24, Núm_1:26, Núm_1:28, Núm_1:30, Núm_1:32, Núm_1:34, Núm_1:36, Núm_1:38, Núm_1:40, Núm_1:42la cuenta de los nombres, de veinte a arribaH8141
+- Núm_1:45todos los contados de...de veinte a arribaH8141
+- Núm_4:3, Núm_4:23, Núm_4:30, Núm_4:35, Núm_4:39, Núm_4:43, Núm_4:47de edad de treinta a arriba hasta cincuenta aH8141
+- Núm_6:12traerá un cordero de un a en expiaciónH8141
+- Núm_6:14ofrecerá...un cordero de un a sin tachaH8141
+- Núm_6:14ofrecerá...una cordera de un a sin defectoH8141
+- Núm_7:15, Núm_7:21, Núm_7:27, Núm_7:33, Núm_7:39, Núm_7:45, Núm_7:51, Núm_7:57, Núm_7:63, Núm_7:69, Núm_7:75, Núm_7:81un cordero de un a para holocaustoH8141
+- Núm_7:17, Núm_7:23, Núm_7:29, Núm_7:35, Núm_7:41, Núm_7:47, Núm_7:53, Núm_7:59, Núm_7:65, Núm_7:71, Núm_7:77, Núm_7:83cinco corderos de un aH8141
+- Núm_7:87doce los corderos de un a, con su ofrendaH8141
+- Núm_7:88la ofrenda...sesenta los corderos de un aH8141
+- Núm_8:24los levitas de 25 a arriba entrarán aH8141
+- Núm_8:25pero desde los 50 a cesarán de ejercerH8141
+- Núm_9:1en el segundo a de su salida de...EgiptoH8141
+- Núm_9:22un a, mientras la nube se detenía sobreH3117
+- Núm_10:11en el a segundo, en el mes segundo, aH8141
+- Núm_13:22Hebrón fue edificada siete a antes deH8141
+- Núm_14:29que fueron contados...de veinte a arribaH8141
+- Núm_14:33hijos andarán pastoreando...cuarenta aH8141
+- Núm_14:34iniquidades cuarenta a, un a por...díaH8141
+- Núm_15:27pecare por...ofrecerá una cabra de un aH8141
+- Núm_26:2tomad el censo de...de veinte a arribaH8141
+- Núm_26:4contaréis el pueblo de veinte a arribaH8141
+- Núm_28:3dos corderos sin tacha de un a, cada díaH8141
+- Núm_28:9dos corderos de un a sin defecto, y dosH8141
+- Núm_28:11ofreceréis en...siete corderos de un aH8141
+- Núm_28:14holocausto...por todos los meses del aH8141
+- Núm_28:19, Núm_28:27ofreceréis...siete corderos de un aH8141
+- Núm_29:2, Núm_29:8, Núm_29:36ofreceréis...siete corderos de un aH8141
+- Núm_29:13, Núm_29:17, Núm_29:20, Núm_29:23, Núm_29:26, Núm_29:29, Núm_29:32catorce corderos de un a sin defectoH8141
+- Núm_32:11no verán los varones...de veinte a arribaH8141
+- Núm_32:13los hizo andar errantes cuarenta a porH8141
+- Núm_33:38murió a los cuarenta a de la salida deH8141
+- Núm_33:39era Aarón de edad de 123 a, cuando murióH8141
+- Deu_1:3que a los cuarenta a, en el mes undécimoH8141
+- Deu_2:7estos 40 a Jehová tu...ha estado contigoH8141
+- Deu_2:14los días que anduvimos de...fueron 38 aH8141
+- Deu_8:2te ha traído Jehová tu Dios estos 40 a enH8141
+- Deu_8:4ni el pie se te ha hinchado en estos 40 aH8141
+- Deu_11:12desde el principio del a hasta el finH8141
+- Deu_14:22del grano que rindiere tu campo cada aH8141
+- Deu_14:28al fin de cada tres a sacarás...el diezmoH8141
+- Deu_14:28el diezmo de tus productos de aquel aH8141
+- Deu_15:1cada siete a harás remisiónH8141
+- Deu_15:9diciendo: Cerca está el a séptimo, el deH8141
+- Deu_15:12y te hubiere servido seis a, al séptimoH8141
+- Deu_15:18por la mitad del costo...te sirvió seis aH8141
+- Deu_15:20delante de...tu Dios los comerás cada aH8141
+- Deu_16:16tres veces cada a aparecerá todo varónH8141
+- Deu_24:5libre estará en su casa por un a, paraH8141
+- Deu_26:12en el a tercero, el a del diezmo, darásH8141
+- Deu_29:5y yo os he traido 40 a en el desiertoH8141
+- Deu_31:2este día soy de edad de ciento veinte aH8141
+- Deu_31:10al fin de cada siete a, en el a de laH8141
+- Deu_32:7considera los a de muchas generacionesH8141
+- Deu_34:7era Moisés de edad de 120 a cuando murióH8141
+- Jos_5:6anduvieron por el desierto cuarenta aH8141
+- Jos_5:12comieron de los frutos...Canaán aquel aH8141
+- Jos_13:1siendo Josué ya viejo, entrado en aH8141
+- Jos_14:7era de edad de cuarenta a cuando MoisésH8141
+- Jos_14:10me ha hecho vivir...estos 45 a, desde elH8141
+- Jos_14:10hoy soy de edad de ochenta y cinco aH8141
+- Jos_23:1Josué, siendo ya viejo y avanzado en aH8141
+- Jos_23:2dijo: Yo ya soy viejo y avanzado en aH8141
+- Jos_24:29; Jue_2:8murió Josué...de ciento diez aH8141
+- Jue_3:8sirvieron los hijos de Israel...ocho aH8141
+- Jue_3:11y reposó la tierra 40 a; y murió OtonielH8141
+- Jue_3:14sirvieron...Israel a Eglón rey...dieciocho aH8141
+- Jue_3:30de Israel; y reposó la tierra ochenta aH8141
+- Jue_4:3oprimido...los hijos de Israel por veinte aH8141
+- Jue_5:31su fuerza. Y la tierra reposó cuarenta aH8141
+- Jue_6:1los entregó en mano de Madián por siete aH8141
+- Jue_6:25toma un toro...el segundo toro de siete aH8141
+- Jue_8:28reposó la tierra cuarenta a en los díasH8141
+- Jue_9:22Abimelec hubo dominado sobre Israel 3 aH8141
+- Jue_10:2y juzgó a Israel veintitrés a, y murióH8141
+- Jue_10:3Jair...el cual juzgó a Israel veintidós aH8141
+- Jue_10:8quebrantaron a los hijos de Israel 18 aH8141
+- Jue_11:26ha estado habitando por 300 a a HesbónH8141
+- Jue_11:40que de a en a fueran las doncellas deH8141
+- Jue_11:40a endechar a la hija de...4 días en el aH8141
+- Jue_12:7Jefté juzgó a Israel 6 a; y murió JeftéH8141
+- Jue_12:9el cual tuvo 30...y juzgó a Israel siete aH8141
+- Jue_12:11Elón zabulonita...juzgó a Israel diez aH8141
+- Jue_12:14tuvo 40 hijos...y juzgó a Israel ocho aH8141
+- Jue_13:1entregó en mano de los filisteos por 40 aH8141
+- Jue_15:20juzgó a Israel en los días de los...20 aH8141
+- Jue_16:31le sepultaron...juzgó a Israel veinte aH8141
+- Jue_17:10y yo te daré diez siclos de plata por aH3117
+- Jue_21:19cada a hay fiesta solemne de Jehová enH3117
+- Rut_1:4tomaron...y habitaron allí unos diez aH8141
+- 1Sa_1:3y todos los a aquel varón subía de suH3117
+- 1Sa_1:7así hacia cada a; cuando subía a la casaH3117
+- 1Sa_2:19le hacía...una túnica...se la traía cada aH3117
+- 1Sa_4:15era ya Elí de edad de 98 a, y sus ojosH8141
+- 1Sa_4:18Elí cayó...y había juzgado a Israel 40 aH8141
+- 1Sa_7:2el día que llegó el arca...pasaron...20 aH8141
+- 1Sa_7:16todos los a iba y daba vuelta a Bet-elH8141
+- 1Sa_13:1había ya reinado Saúl un a...reinado dos aH8141
+- 1Sa_27:7David habitó en la...un a y cuatro mesesH3117
+- 1Sa_29:3David...que ha estado conmigo por días y aH8141
+- 2Sa_2:10de 40 a era Isboset...y reinó dos aH8141
+- 2Sa_2:11David reinó en Hebrón...siete a y 6 mesesH8141
+- 2Sa_4:4tenía cinco a...cuando llegó de Jezreel laH8141
+- 2Sa_5:4era David de treinta a...y reinó cuarenta aH8141
+- 2Sa_5:5en Hebrón reinó sobre...siete a y seis mesesH8141
+- 2Sa_5:5en Jerusalén reinó 33 a sobre todo IsraelH8141
+- 2Sa_11:1aconteció al a siguiente, en el tiempoH8141
+- 2Sa_13:23aconteció pasados dos a, que AbsalónH8141
+- 2Sa_13:38así huyó Absalón...y estuvo allá tres aH8141
+- 2Sa_14:26se cortaba el cabello...al fin de cada aH3117
+- 2Sa_14:28y estuvo Absalón...de dos a en JerusalénH8141, [[H3117]]
+- 2Sa_15:7al cabo de cuatro a...Absalón dijo al reyH8141
+- 2Sa_19:32era Barzilai...de ochenta a, y él habíaH8141
+- 2Sa_19:34¿cuántos a más habré de vivir, para queH3117, [[H8141]]
+- 2Sa_19:35de edad ochenta a soy este día. ¿PodréH8141
+- 2Sa_21:1hubo hambre en...por tres a consecutivosH8141
+- 2Sa_24:13te vengan siete a de hambre en tu tierraH8141
+- 1Re_2:11los días que reinó David...fueron 40 aH8141
+- 1Re_2:11siete a reinó en Hebrón, y 33 a reinó enH8141
+- 1Re_2:39pasados tres a...que dos siervos de SimeiH8141
+- 1Re_4:7obligado a abastecerlo...un mes en el aH8141
+- 1Re_5:11trigo...esto daba Salomón a Hiram cada aH8141
+- 1Re_6:1el a 480 después que...Israel salieron deH8141
+- 1Re_6:1el cuarto a del principio del reino deH8141
+- 1Re_6:37en el cuarto a...se echaron los cimientosH8141
+- 1Re_6:38y en el undécimo a...fue acabada la casaH8141
+- 1Re_6:38fue acabada...La edificó, pues, en siete aH8141
+- 1Re_7:1edificó...su propia casa en trece a, y laH8141
+- 1Re_9:10al cabo de veinte a, cuando Salomón yaH8141
+- 1Re_9:25y ofrecía Salomón tres veces cada aH8141
+- 1Re_10:14oro que Salomón tenía de renta cada aH8141
+- 1Re_10:22vez cada tres a venía la flota de TarsisH8141
+- 1Re_10:25todos le llevaban cada a sus presentesH8141
+- 1Re_11:42días que Salomón reinó en...fueron 40 aH8141
+- 1Re_14:20tiempo que reinó Jeroboam fue de 22 aH8141
+- 1Re_14:21de 41 a era Roboam cuando...17 a reinóH8141
+- 1Re_14:25al quinto a del rey Roboam subió SisacH8141
+- 1Re_15:1en el a 18 del rey Jeroboam hijo de NabatH8141
+- 1Re_15:2reinó tres a en Jerusalén. El nombre deH8141
+- 1Re_15:9el a 20 de Jeroboam rey de Israel, AsaH8141
+- 1Re_15:10y reinó cuarenta y un a en JerusalénH8141
+- 1Re_15:25Nadab...a reinar...en el segundo a de AsaH8141
+- 1Re_15:25Nadab hijo de...reinó sobre Israel dos aH8141
+- 1Re_15:28lo mató...Baasa en el tercer a de Asa reyH8141
+- 1Re_15:33en el tercer a de Asa rey de JudáH8141
+- 1Re_15:33Baasa hijo de...y reinó veinticuatro aH8141
+- 1Re_16:8en el a veintiséis de Asa rey de JudáH8141
+- 1Re_16:8comenzó a reinar Ela hijo...y reinó dos aH8141
+- 1Re_16:10Zimri...lo mató, en el a 27 de Asa reyH8141
+- 1Re_16:15el a 27 de Asa rey de Judá, comenzó aH8141
+- 1Re_16:23el a 31 de Asa rey de Judá...reinar OmriH8141
+- 1Re_16:23Omri...reinó doce a: en Tirsa reinó 6 aH8141
+- 1Re_16:29comenzó a reinar Acab...el a 38 de AsaH8141
+- 1Re_16:29y reinó Acab hijo de...en Samaria 22 aH8141
+- 1Re_17:1que no habrá lluvia ni rocío en estos aH8141
+- 1Re_18:1vino palabra de Jehová en el tercer aH8141
+- 1Re_20:22pasado un a, el rey de Siria vendráH8141
+- 1Re_20:26pasado un a, Ben-adad pasó revista alH8141
+- 1Re_22:1tres a pasaron su guerra entre los siriosH8141
+- 1Re_22:2al tercer a, que Josafat rey...descendióH8141
+- 1Re_22:41Josafat...en el cuarto a de Acab rey deH8141
+- 1Re_22:42era Josafat de 35 a...y reinó 25 a enH8141
+- 1Re_22:51comenzó a reinar...a 17 de Josafat reyH8141
+- 1Re_22:51Ocozías hijo...reinó dos a sobre IsraelH8141
+- 2Re_1:17el segundo a de Joram hijo de JosafatH8141
+- 2Re_3:1Joram...el a 18 de Josafat...reinó doce aH8141
+- 2Re_4:16le dijo El a que viene, por este tiempoH4150
+- 2Re_4:17dio a luz un hijo el a siguiente, en elH4150
+- 2Re_8:1hambre...vendrá sobre la tierra por siete aH8141
+- 2Re_8:2vivió en tierra de los filisteos siete aH8141
+- 2Re_8:3pasado los siete a, la mujer volvió de laH8141
+- 2Re_8:16en el quinto a de Joram hijo de Acab, reyH8141
+- 2Re_8:17de 32 a era...y ocho a reinó en JerusalénH8141
+- 2Re_8:25en el a doce de Joram hijo de Acab, reyH8141
+- 2Re_8:26de 22 a era Ocozías cuando...y reinó un aH8141
+- 2Re_9:29el undécimo a de Joram hijo de AcabH8141
+- 2Re_10:36en el tiempo que reinó Jehú...fue de 28 aH8141
+- 2Re_11:3escondido en la casa de...seis a; y AtalíaH8141
+- 2Re_11:4al séptimo a envió Joiada y tomó jefesH8141
+- 2Re_11:21Joás de siete a cuando comenzó a reinarH8141
+- 2Re_12:1en el séptimo a de Jehú comenzó a reinarH8141
+- 2Re_12:1Joás...y reinó cuarenta a en JerusalénH8141
+- 2Re_12:6en el a 23 del rey Joás aún no habíanH8141
+- 2Re_13:1en el a 23 de Joás hijo de Ocozías, reyH8141
+- 2Re_13:1reinar Joacaz hijo...y reinó diecisiete aH8141
+- 2Re_13:10a 37 de Joás rey...comenzó a reinar JoásH8141
+- 2Re_13:10a reinar Joás hijo...y reinó dieciséis aH8141
+- 2Re_13:20entrado el a, vinieron bandas armadasH8141
+- 2Re_14:1en el a segundo de Joás hijo...comenzó aH8141
+- 2Re_14:2era de 5 a, y 29 a reinó en JerusalénH8141
+- 2Re_14:17Amasías hijo...vivió después...quince aH8141
+- 2Re_14:21tomo a Azarías que era de 16 a, y loH8141
+- 2Re_14:23el a quince de Amasías hijo de Joás reyH8141
+- 2Re_14:23comenzó a reinar Jeroboam...y reinó 41 aH8141
+- 2Re_15:1el a 27 de Jeroboam rey...comenzó a reinarH8141
+- 2Re_15:2era de 16 a, y 52 a reinó en JerusalénH8141
+- 2Re_15:8en el a 38 de Azalías rey...reinó ZacaríasH8141
+- 2Re_15:13comenzó a reinar en el a 39 de Uzías reyH8141
+- 2Re_15:17el a 39 de Azarías rey de Judá, reinóH8141
+- 2Re_15:17reinó Manahem...sobre Israel diez a, enH8141
+- 2Re_15:23el a 50 de Azarías rey de Judá, reinóH8141
+- 2Re_15:23reinó Pekaía hijo...sobre Israel...dos aH8141
+- 2Re_15:27el a 52 de Azarías...reinó Peka...20 aH8141
+- 2Re_15:30a los veinte a de Jotam hijo de UzíasH8141
+- 2Re_15:32el segundo a de Peka...comenzó a reinarH8141
+- 2Re_15:33era de 25 a, y reinó 16 a en JerusalénH8141
+- 2Re_16:1en el a 17 de Peka...comenzó a reinar AcazH8141
+- 2Re_16:2era de 20 a, y reinó en Jerusalén 16 aH8141
+- 2Re_17:1en el a duodécimo de Acaz rey de JudáH8141
+- 2Re_17:1comenzó a reinar Oseas...y reinó nueve aH8141
+- 2Re_17:4no pagaba tributo...como lo hacía cada aH8141
+- 2Re_17:5sitió a Samaria, y estuvo...ella tres aH8141
+- 2Re_17:6en el a nueve de Oseas, el rey de AsiriaH8141
+- 2Re_18:1en el tercer a de Oseas...comenzó a reinarH8141
+- 2Re_18:2era de 25 a...y reinó en Jerusalén 29 aH8141
+- 2Re_18:9el cuarto a del rey Ezequías, que era elH8141
+- 2Re_18:9el a séptimo de Oseas hijo de Ela, rey deH8141
+- 2Re_18:10y la tomaron al cabo de tres a. En elH8141
+- 2Re_18:10en el a sexto...era el a noveno de OseasH8141
+- 2Re_18:13a los catorce a del rey Ezequías, subióH8141
+- 2Re_19:29este a comeréis lo que...y el segundo aH8141
+- 2Re_19:29y el tercer a sembraréis, y segaréisH8141
+- 2Re_20:6añadiré a tus días quince a, y te libraréH8141
+- 2Re_21:1de doce a era Manasés...y reinó en...55 aH8141
+- 2Re_21:19de 22 a era Amón cuando...y reinó dos aH8141
+- 2Re_22:1cuando Josías...era de 8 a, y reinó...31 aH8141
+- 2Re_22:3a los 18 a del rey Josías, envió el reyH8141
+- 2Re_23:23los 18 a del rey Josías...aquella pascuaH8141
+- 2Re_23:31de 23 a era Joacaz...comenzó a reinar, yH8141
+- 2Re_23:36de 25 a era Joacim cuando...y 11 a reinóH8141
+- 2Re_24:1Joacim vino a ser su siervo por tres aH8141
+- 2Re_24:8de 18 a era Joaquín...comenzó a reinar, yH8141
+- 2Re_24:12lo prendió...en el octavo a de su reinadoH8141
+- 2Re_24:18de 21 a era Sedequías...y reinó...once aH8141
+- 2Re_25:1aconteció a los nueve a de su reinadoH8141
+- 2Re_25:2la ciudad sitiada hasta el a undécimo delH8141
+- 2Re_25:8siendo el a 19 de Nabucodonosor rey deH8141
+- 2Re_25:27a los 37 a del cautiverio de Joaquín reyH8141
+- 2Re_25:27en el primer a de su reinado, libertó aH8141
+- 1Cr_2:21la cual tomó siendo él de 60 a, y ellaH8141
+- 1Cr_3:4reinó siete a...y en Jerusalén reinó 33 aH8141
+- 1Cr_20:1La vuelta del a, en el tiempo que suelenH8141
+- 1Cr_21:12escogí para ti: o 3 a de hambre, o por 3H8141
+- 1Cr_23:3fueron contados...Levitas de 30 a arribaH8141
+- 1Cr_23:24, 1Cr_23:27los hijos de Leví...veinte a arribaH8141
+- 1Cr_26:31en el a cuarenta del reinado de DavidH8141
+- 1Cr_27:1entraban y salían cada mes durante...el aH8141
+- 1Cr_27:23y no tomó...Los que eran de 20 a abajoH8141
+- 1Cr_29:27tiempo que reinó...40 a. Siete a reinóH8141
+- 2Cr_3:2comenzó a edificar...en el cuarto a deH8141
+- 2Cr_8:1después de veinte a, durante los cualesH8141
+- 2Cr_8:13las fiestas solemnes tres veces en el aH8141
+- 2Cr_9:13poso del oro que venía a Salomón cada aH8141
+- 2Cr_9:21y cada tres a solían venir las naves deH8141
+- 2Cr_9:24cada uno traía su presente...todos los aH8141
+- 2Cr_9:30reino Salomón en Jerusalén...cuarenta aH8141
+- 2Cr_11:17confirmaron a Roboam, por tres aH8141
+- 2Cr_11:17porque tres a anduvieron en el caminoH8141
+- 2Cr_12:2el quinto a del rey RoboanH8141
+- 2Cr_12:13era Roboam de 41 a...reinar, y 17 a reinóH8141
+- 2Cr_13:1los 18 a del rey Jeroboam, reinó AbiasH8141
+- 2Cr_13:2y reino tres a en Jerusalén. El nombreH8141
+- 2Cr_14:1Asa...días tuvo sosiego el país por 10 aH8141
+- 2Cr_15:10el mes tercero del a decimoquinto delH8141
+- 2Cr_15:19no hubo más guerra hasta los 35 a delH8141
+- 2Cr_16:1el a 36 del reinado de Asa, subió BaasaH8141
+- 2Cr_16:12en el a 39 de su reinado, Asa enfermóH8141
+- 2Cr_16:13durmió Asa con...en el a 41 de su reinadoH8141
+- 2Cr_17:7tercer a de su reinado envió...enseñasenH8141
+- 2Cr_18:2y después de algunos a descendió a...AcabH8141
+- 2Cr_20:31reinó Josafat...de 35 a...y reinó 5 aH8141
+- 2Cr_21:5cuando comenzó...de 32 a, y reinó ocho aH8141
+- 2Cr_21:19al cabo de dos a los intestinos se leH3117
+- 2Cr_21:20comenzó a reinar...32 a y reinó...8 aH8141
+- 2Cr_22:2Ocozías...era de 42 a, y reino un a enH8141
+- 2Cr_22:12estuvo...escondido en la casa de Dios 6 aH8141
+- 2Cr_23:1en el séptimo a se animó Joiada, y tomóH8141
+- 2Cr_24:1de siete a era Joás cuando...y 40 a reinóH8141
+- 2Cr_24:5para que cada a sea reparada la casa deH8141
+- 2Cr_24:15mas Joiada...de 130 a era cuando murióH8141
+- 2Cr_24:23a la vuelta del a subió contra él elH8141
+- 2Cr_25:1de 25 a era Amasías cuando...y 29 a reinóH8141
+- 2Cr_25:5puso en lista a todos los de 20 a arribaH8141
+- 2Cr_25:25vivió Amasías...quince a después de laH8141
+- 2Cr_26:1tomó a Uzías, el cual tenía 16 a de edadH8141
+- 2Cr_26:3de 16 a era Uzías cuando...y 52 a reinó enH8141
+- 2Cr_27:1de 25 a era Jotam cuando...y 16 a reinó enH8141
+- 2Cr_27:5le dieron...en aquel a...en el segundo a yH8141
+- 2Cr_27:8cuando comenzó a reinar era de 25 a, yH8141
+- 2Cr_28:1de 20 a era Acaz cuando...y 16 a reinó enH8141
+- 2Cr_29:1Ezequías siendo de 25 a, y reinó 29 aH8141
+- 2Cr_29:3en el primer a de su reinado, en el mesH8141
+- 2Cr_31:16de 3 a arriba, a todos los que entrabanH8141
+- 2Cr_31:17y a los levitas de edad de 20 a arribaH8141
+- 2Cr_33:1de 12 a era Manasés cuando...y 55 a reinóH8141
+- 2Cr_33:21de 22 a era Amón cuando...y dos a reinóH8141
+- 2Cr_34:1de 8 a era Josías cuando...y 31 a reinóH8141
+- 2Cr_34:3a los ocho a de su reinado, siendo aúnH8141
+- 2Cr_34:3a los doce a comenzó a limpiar a Judá yH8141
+- 2Cr_34:8Los 18 a de su reinado, después de haberH8141
+- 2Cr_35:19esta pascua fue celebrada en el a 18 delH8141
+- 2Cr_36:2de 23 a era Joacaz...comenzó a reinar yH8141
+- 2Cr_36:5Joacim era de 25 a, y reinó once a enH8141
+- 2Cr_36:9de ocho a era Joaquín cuando comenzó aH8141
+- 2Cr_36:10a la vuelta del a el rey NabucodonosorH8141
+- 2Cr_36:11de 21 a era Sedequías...y once a reinóH8141
+- 2Cr_36:21hasta que los 70 a fueron cumplidosH8141
+- 2Cr_36:22al primer a de Ciro rey de los persasH8141
+- Esd_1:1en el primer a de Ciro rey de PersiaH8141
+- Esd_3:8en el a segundo de su venida a la casa deH8141
+- Esd_3:8pusieron a los levitas de 20 a arriba paraH8141
+- Esd_4:24quedó suspendida hasta el a segundo delH8140
+- Esd_5:11la casa que ya muchos a antes había sidoH8140
+- Esd_5:13en el a primero de Ciro rey de BabiloniaH8140
+- Esd_6:3en el a primero del rey Ciro, el mismo reyH8140
+- Esd_6:15era el sexto a del reinado del rey DaríoH8140
+- Esd_7:7con él...en el séptimo a del rey ArtajerjesH8141
+- Esd_7:8llegó...en el mes quinto del a séptimo delH8141
+- Neh_1:1el a 20, estando yo en Susa, capital delH8141
+- Neh_2:1sucedió en...el a veinte del rey ArtajerjesH8141
+- Neh_5:14el a veinte del rey Artajerjes hasta elH8141
+- Neh_5:14el a 32, doce a, ni yo ni mis hermanosH8141
+- Neh_9:21los sustentaste cuarenta a en el desiertoH8141
+- Neh_9:30les soportaste por muchos a, y lesH8141
+- Neh_10:31que el a séptimo...descansar la tierraH8141
+- Neh_10:32contribuir cada a con la tercera parteH8141
+- Neh_10:34leña...los tiempos determinados cada aH8141
+- Neh_10:35y que cada a traeríamos a la casa deH8141
+- Neh_13:6porque en el a 32 de Artajerjes rey deH8141
+- Est_1:3tercer a de su reinado hizo banqueteH8141
+- Est_2:16llevaba...en el a séptimo de su reinadoH8141
+- Est_3:7el a duodécimo del rey Asuero, fue echadaH8141
+- Est_3:7suerte para cada día y cada mes del a; yH8141
+- Est_9:21ordenándoles que celebrasen el...cada aH8141
+- Est_9:27de celebrar...conforme a su tiempo cada aH8141
+- Job_3:6no sea contada entre los días del a, niH8141
+- Job_10:5¿son...o tus a como los tiempos humanosH8141
+- Job_15:20y el número de sus a está escondido paraH8141
+- Job_16:22los a contados vendrán, y yo iré por elH8141
+- Job_32:7la muchedumbre de a declarará sabiduríaH8141
+- Job_36:11acabarán sus días en...y sus a en dichaH8141
+- Job_36:26si se puede seguir la huella de sus aH8141
+- Job_42:16después de esto vivió Job 140 a, y vioH8141
+- Sal_31:10se va gastando...y mis a de suspirarH8141
+- Sal_61:6sus a serán como generación y generaciónH8141
+- Sal_65:11coronas el a de tus bienes...y tus nubesH8141
+- Sal_77:5consideraba los días...Los a de los siglosH8141
+- Sal_77:10traeré...a la memoria los a de la destelleH8141
+- Sal_78:33consumió sus días...sus a en tribulaciónH8141
+- Sal_90:4mil a delante de tus ojos son como el díaH8141
+- Sal_90:9acabamos nuestros a como un pensamientoH8141
+- Sal_90:10los días de nuestra edad son setenta aH8141
+- Sal_90:10y si en los más robustos son ochenta aH8141
+- Sal_90:15conforme a...y los a en que vimos el malH8141
+- Sal_95:10cuarenta a...disgustado con la naciónH8141
+- Sal_102:24generación de generaciones son tus aH8141
+- Sal_102:27eres el mismo, y tus a no se acabaránH8141
+- Pro_3:2de días y a de vida y paz te aumentaránH8141
+- Pro_4:10oye, hijo...se te multiplicarán a de vidaH8141
+- Pro_5:9no des a los...tu honor, y tus a al cruelH8141
+- Pro_9:11tus días, y a de vida se te añadiránH8141
+- Pro_10:27mas los a de los impíos serán acortadosH8141
+- Ecl_6:3aunque...viviera muchos a, y los días deH8141
+- Ecl_6:6porque si aquél viviera mil a dos vecesH8141
+- Ecl_11:8pero aunque un hombre viva muchos a...yH8141
+- Ecl_12:1y lleguen los a de los cuales digas: NoH8141
+- Isa_6:1en el a que murió el rey Uzías vi yo alH8141
+- Isa_7:8y dentro de 65 a Efraín será quebrantadoH8141
+- Isa_14:28en el a que murió el rey Acaz fue estaH8141
+- Isa_15:5fugitivos huirán...como novilla de tres aH8141
+- Isa_16:14de tres a, como los a de un jornaleroH8141
+- Isa_20:1el a que vino el Tartán a Asdod, cuandoH8141
+- Isa_20:3anduvo...Isaías desnudo y descalzo tres aH8141
+- Isa_21:16dicho. De aquí a un a, semejante a a deH8141
+- Isa_23:14que Tiro será puesta en olvido por 70 aH8141
+- Isa_23:15después de los setenta a, cantará TiroH8141
+- Isa_23:17que al fin de los 70 a visitará JehováH8141
+- Isa_29:1añadid un a a otro, las fiestas sigan suH8141
+- Isa_32:10de aquí a...más de un a tendréis espantoH8141
+- Isa_34:8es día de...Jehová, a de retribuciones enH8141
+- Isa_36:1aconteció en el a 14 del rey Ezequías, queH8141
+- Isa_37:30comeréis este a lo que...y el a segundo loH8141
+- Isa_37:30y el a tercero sembraréis y segaréisH8141
+- Isa_38:5he aquí que yo añado a tus días quince aH8141
+- Isa_38:10yo dije...privado soy del resto de mis aH8141
+- Isa_38:15andaré humildemente todos mis a, a causaH8141
+- Isa_61:2a proclamar el a de la buena voluntad deH8141
+- Isa_63:4día...y el a de mis redimidos ha llegadoH8141
+- Isa_65:20morirá de 100 a, y el pecador de 100 aH8141
+- Jer_1:2en el a decimotercero de su reinadoH8141
+- Jer_1:3hasta el fin del a undécimo de SedequíasH8141
+- Jer_11:23yo traeré mal sobre...el a de su castigoH8141
+- Jer_17:8y en el a de sequía no se fatigará, niH8141
+- Jer_23:12yo traeré mal sobre ellos en el a de suH8141
+- Jer_25:1en el a cuarto de Joacim...el a primero deH8141
+- Jer_25:3desde el a trece de...que son veintitrés aH8141
+- Jer_25:11y servirán...al rey de Babilonia 70 aH8141
+- Jer_25:12y cuando sean cumplidos los setenta aH8141
+- Jer_28:1aconteció en el mismo a...en el a cuartoH8141
+- Jer_28:3(dentro de dos a haré volver a este lugarH8141
+- Jer_28:11romperé el yugo...rey...dentro de dos aH8141
+- Jer_28:16morirás en este a...hablaste rebeliónH8141
+- Jer_28:17en el mismo a murió Hananías, en el mesH8141
+- Jer_29:10cuando...se cumplan los setenta a, yo osH8141
+- Jer_32:1el a décimo de...que fue el a decimoctavoH8141
+- Jer_34:14al cabo de siete a dejará cada uno a suH8141
+- Jer_34:14le servirá seis a, y lo enviará libreH8141
+- Jer_36:1en el cuarto a de Joacim hijo de JosíasH8141
+- Jer_36:9aconteció en el a quinto de Joacim hijoH8141
+- Jer_39:1en el noveno a de Sedequías rey de JudáH8141
+- Jer_39:2en el undécimo a de Sedequías, en el mesH8141
+- Jer_45:1habitó...Jeremías a Baharíes...en el a cuartoH8141
+- Jer_46:2en el a cuarto de Joacim hijo de JosíasH8141
+- Jer_48:34Zoar hasta Horonaim, becerra de tres aH8141
+- Jer_48:44traeré...sobre Moab, el a de su castigoH8141
+- Jer_51:46en un a vendrá el rumor...y en otro aH8141
+- Jer_51:59a Babilonia...el cuarto a de su reinadoH8141
+- Jer_52:1de edad de veintiún a...y reinó once a enH8141
+- Jer_52:4a los nueve a de su reinado, en el mesH8141
+- Jer_52:5estuvo sitiada...hasta el undécimo a delH8141
+- Jer_52:12era el a 19 del reinado de NabucodonosorH8141
+- Jer_52:28el a séptimo, a 3:023 hombres de JudáH8141
+- Jer_52:29el a dieciocho de Nabucodonosor él llevóH8141
+- Jer_52:30el a veintitrés de Nabucodonosor...LlevóH8141
+- Jer_52:31en el a treinta y siete del cautiverioH8141
+- Jer_52:31en el a primero de su reinado, alzó laH8141
+- Eze_1:1aconteció en el a treinta, en el mesH8141
+- Eze_1:2en el quinto a de la deportación del reyH8141
+- Eze_4:5yo te he dado los a de su maldad por elH8141
+- Eze_4:6días; día por a, día por a te lo he dadoH8141
+- Eze_8:1en el sexto a, en el mes sexto, a los 5H8141
+- Eze_20:1aconteció en el a séptimo...el mes quintoH8141
+- Eze_22:4tu día, y has llegado al término de tus aH8141
+- Eze_24:1vino...palabra de Jehová en el a novenoH8141
+- Eze_26:1aconteció en el undécimo a, en el díaH8141
+- Eze_29:1el a décimo, en el mes décimo, a los 12H8141
+- Eze_29:11ella, ni será habitada, por cuarenta aH8141
+- Eze_29:12las ciudades...desoladas por cuarenta aH8141
+- Eze_29:13al fin de cuarenta a recogeré a EgiptoH8141
+- Eze_29:17aconteció en el a veintisiete, en el mesH8141
+- Eze_30:20; Eze_31:1aconteció en el a undécimo, en elH8141
+- Eze_32:1aconteció en el a duodécimo, en el mesH8141
+- Eze_32:17aconteció en el a duodécimo, a los quinceH8141
+- Eze_33:21en el a duodécimo de nuestro cautiverioH8141
+- Eze_38:8al cabo de a vendrás a la tierra salvadaH8141
+- Eze_39:9y los quemarán en el fuego por siete aH8141
+- Eze_40:1en el a veinticinco...al principio del aH8141
+- Eze_40:1a los catorce a después que la ciudad fueH8141
+- Eze_46:13ofrecerás...cordero de un a sin defectoH8141
+- Eze_46:17de él hasta el a del jubileo, y volveráH8141
+- Dan_1:1en el a tercero del reinado de JoacimH8141
+- Dan_1:5que los criase tres a, para que al fin deH8141
+- Dan_1:21y continuó Daniel hasta el a primero delH8141
+- Dan_2:1el segundo a del reinado de NabucodonosorH8141
+- Dan_5:31Darío de...tomó el reino, siendo de 62 aH8140
+- Dan_7:1el primer a de Helsasar rey de BabiloniaH8140
+- Dan_8:1el a tercero del reinado del rey BelsasarH8141
+- Dan_9:1en el a primero de Darío hijo de AsueroH8141
+- Dan_9:2en el a primero de su reinado, yo DanielH8141
+- Dan_9:2el número de los a de que habitó Jehová alH8141
+- Dan_9:2de cumplirse las desolaciones de...en 70 aH8141
+- Dan_10:1en el a tercero de Ciro rey de Persia fueH8141
+- Dan_11:1el a primero de Darío el medo, estuve paraH8141
+- Dan_11:6al cabo de a harán alianza, y la hija delH8141
+- Dan_11:8por a se mantendrá él contra el rey delH8141
+- Dan_11:13y al cabo de algunos a vendrá...ejércitoH8141
+- Joe_2:2jamás, ni después de él lo habrá en aH8141
+- Joe_2:25os restituiré los a que comió la orugaH8141
+- Amó_1:1que profetizó...dos a antes del terremotoH8141
+- Amó_2:10os conduje por el desierto 40 a, para queH8141
+- Amó_5:25¿me ofrecisteis...en cuarenta a, oh casaH8141
+- Miq_6:6¿me presentaré...con becerros de un a?[[H8141]]
+- Hag_1:1el a segundo del rey Darío, en el mesH8141
+- Hag_1:15mes sexto, en el segundo a del rey DaríoH8141
+- Hag_2:10en el segundo a de Darío, vino palabra deH8141
+- Zac_1:1en el octavo mes del a segundo de DaríoH8141
+- Zac_1:7en el a segundo de Darío, vino palabra deH8141
+- Zac_1:12estado airado por espacio de setenta a?[[H8141]]
+- Zac_7:1el a cuarto del rey Darío vino palabra deH8141
+- Zac_7:3abstinencia como hemos hecho ya algunos aH8141
+- Zac_7:5cuando ayunasteis y llorasteis...setenta aH8141
+- Zac_14:16subirán de a en a para adorar al Rey, aH8141
+- Mal_3:4será grata a...como en los a antiguosH8141
+- Mat_2:16mandó matar a...niños menores de dos aG1332
+- Mat_9:20una mujer enferma de...desde hacía doce aG2094
+- Mar_5:25desde hacía doce a padecía de flujoG2094
+- Mar_5:42la niña se levantó...pues tenía doce aG2094
+- Luc_2:36había vivido con su marido 7 a desde suG2094
+- Luc_2:37era viuda hacía ochenta y cuatro a; y noG2094
+- Luc_2:41iban sus padres todos los a a JerusalénG2094
+- Luc_2:42cuando tuvo doce a, subieron a JerusalénG2094
+- Luc_3:1el a decimoquinto del imperio de TiberioG2094
+- Luc_3:23Jesús mismo al...era como de treinta aG2094
+- Luc_4:19a predicar el a agradable del SeñorG1763
+- Luc_4:25cuando el cielo fue cerrado por tres aG2094
+- Luc_8:42tenía una hija única, como de doce a, queG2094
+- Luc_8:43padecía de flujo...desde hacía doce a, yG2094
+- Luc_12:19bienes tienes guardados para muchos aG2094
+- Luc_13:7hace tres a que vengo a buscar fruto enG2094
+- Luc_13:8Señor, déjala todavía este a, hasta queG2094
+- Luc_13:11hacía 18 a tenía espíritu de enfermedadG2094
+- Luc_13:16que Satanás había atado dieciocho a, ¿noG2094
+- Luc_15:29he aquí, tantos a te sirvo, no habiéndoteG2094
+- Jua_2:20en cuarenta y seis a fue edificado esteG2094
+- Jua_5:5hacía treinta y ocho a que estaba enfermoG2094
+- Jua_8:57no tienes cincuenta a, ¿y has visto aG2094
+- Jua_11:49Caifás, uno de...sumo sacerdote aquel aG1763
+- Jua_11:51era el sumo sacerdote aquel a, profetizóG1763
+- Jua_18:13Caifás, que era sumo sacerdote aquel aG1763
+- Hec_4:22que el hombre...tenía más de cuarenta aG2094
+- Hec_7:6y los maltratarían, por cuatrocientos aG2094
+- Hec_7:23cuando hubo cumplido la edad de 40 a, leG5063
+- Hec_7:30cuarenta a, un ángel se le apareció en elG2094
+- Hec_7:36señales...y en el desierto por cuarenta aG2094
+- Hec_7:42sacrificios en el desierto por cuarenta aG2094
+- Hec_9:33hacía ocho a que estaba en cama, pues eraG2094
+- Hec_11:26y se congregaron allí todo un a con laG1763
+- Hec_13:18de cuarenta a los soportó en el desiertoG5063
+- Hec_13:20por cuatrocientos cincuenta a, les dioG2094
+- Hec_13:21Dios les dio a Saúl hijo...por cuarenta aG2094
+- Hec_18:11y se detuvo allí un a y seis mesesG1763
+- Hec_19:10continuó por espacio de dos a, de maneraG2094
+- Hec_20:31por tres a...no he cesado de amonestarG5148
+- Hec_24:10hace muchos a eres juez de esta naciónG2094
+- Hec_24:17pasados algunos a, vine a hacer limosnasG2094
+- Hec_28:30y Pablo permaneció dos a...en una casaG1333
+- Rom_4:19al considerar su cuerpo...de casi cien aG1541
+- Rom_15:23y deseando desde hace...a ir a vosotrosG2094
+- 2Co_8:10sino...a quererlo, desde el a pasadoG4070
+- 2Co_9:2que Acaya está preparada desde el a pasadoG4070
+- 2Co_12:2hace catorce a...fue arrebatado hasta elG2094
+- Gál_1:18pasados tres a, subí a Jerusalén paraG2094
+- Gál_2:1pasados catorce a, subí...vez a JerusalénG2094
+- Gál_3:17ley, que vino 430 a después, no lo abrogaG2094
+- Gál_4:10guardáis los días...los tiempos y los aG1763
+- 1Ti_5:9sólo la viuda no menor de sesenta aG2094
+- Heb_1:12tú eres el mismo, y tus a no acabaránG2094
+- Heb_3:9me probaron, y vieron mis obras cuarenta aG2094
+- Heb_3:17¿con quiénes estuvo él disgustado 40 a?[[G2094]]
+- Heb_9:7sólo el sumo sacerdote una vez al a, noG1763
+- Heb_9:25como entra el...cada a con sangre ajenaG1763
+- Heb_10:1los...que se ofrecen continuamente cada aG1763
+- Heb_10:3pero en estos sacrificios cada a se haceG1763
+- Stg_4:13estaremos allá un a, y traficaremosG1763
+- Stg_5:17no llovió sobre...por tres a y seis mesesG1763
+- 2Pe_3:8un día es como mil a, y mil a como unG2094
+- Rev_9:15para la hora, día, mes y a, a fin deG1763
+- Rev_20:2prendió al dragón...y lo ató por mil aG2094
+- Rev_20:3no...hasta que fuesen cumplidos mil aG2094
+- Rev_20:4y vivieron y reinaron con Cristo mil aG2094
+- Rev_20:5a vivir hasta que se cumplieron mil aG2094
+- Rev_20:6serán sacerdotes...reinarán con él mil aG2094
+- Rev_20:7cuando los mil a se cumplan, SatanásG2094

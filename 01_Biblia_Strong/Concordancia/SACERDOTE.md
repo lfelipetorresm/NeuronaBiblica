@@ -1,0 +1,883 @@
+---
+tipo: concordancia
+palabra: SACERDOTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SACERDOTE
+
+- Gén_14:18Melquisedec, rey de Salem y s delH3548
+- Gén_41:45, Gén_41:50; Gén_46:20Asenat, hija de Potifera sH3548
+- Gén_47:22tierra de los s no compró, por cuantoH3548
+- Gén_47:22cuanto los s tenían ración de FaraónH3548
+- Gén_47:26excepto sólo la tierra de los s, que noH3548
+- Éxo_2:16siete hijas que tenía el s de MadiánH3548
+- Éxo_3:1las ovejas de Jetro su suegro, s de MadiánH3548
+- Éxo_18:1oyó Jetro s de Madián, suegro de MoisésH3548
+- Éxo_19:6me seréis un reino de s, y gente santaH3548
+- Éxo_19:22se santifiquen los s que se acercan aH3548
+- Éxo_19:24los s y el pueblo no traspasen el límiteH3548
+- Éxo_28:1Aarón...y a sus hijos...para que sean mis sH3547
+- Éxo_28:3para consagrarle para que sea mi s
+- Éxo_28:4y para sus hijos, para que sean mis sH3547
+- Éxo_28:41y los...santificarás, para que sean mis sH3547
+- Éxo_29:1para consagrarlos, para que sean mis sH3547
+- Éxo_29:30que de sus hijos tome su lugar como sH3548
+- Éxo_29:44santificaré...a Aarón y...que sean mis sH3547
+- Éxo_30:30y los consagrarás para que sean mis sH3547
+- Éxo_31:10las vestiduras santas para Aarón el sH3547
+- Éxo_35:19las sagradas vestiduras de Aarón el sH3547
+- Éxo_38:21la dirección de Itamar hijo del s AarónH3548
+- Éxo_39:41las sagradas vestiduras para Aarón el sH3547
+- Éxo_40:13a Aarón...consagrarás, para que sea mi sH3547
+- Éxo_40:15los ungirás...serán mis s, y su unciónH3547
+- Lev_1:5y los s hijos de...ofrecerán la sangreH3548
+- Lev_1:7los hijos del s Aarón pondrán fuego sobreH3548
+- Lev_1:8los s...acomodarán las piezas, la cabeza yH3548
+- Lev_1:9y el s hará arder todo sobre el altarH3548
+- Lev_1:11los s...rociarán su sangre sobre el altarH3548
+- Lev_1:12y el s las acomodará sobre la leña queH3548
+- Lev_1:13el s lo ofrecerá todo, y lo hará arderH3548
+- Lev_1:15y el s la ofrecerá sobre el altar, y leH3548
+- Lev_1:17el s la hará arder sobre el altar, sobreH3548
+- Lev_2:2la traerá a los s, hijos de Aarón; y deH3548
+- Lev_2:2tomará el s su puño lleno de la flor deH3548
+- Lev_2:8traerás...ofrenda...y la presentarás al sH3548
+- Lev_2:9tomará el s de aquella ofrenda lo que seaH3548
+- Lev_2:16el s hará arder el memorial de él, parteH3548
+- Lev_3:2los s...rociarán su sangre sobre el altarH3548
+- Lev_3:11, Lev_3:16el s hará arder esto sobre el altarH3548
+- Lev_4:3si el s ungido pecare según el pecado delH3548
+- Lev_4:5y el s...tomará de la sangre del becerroH3548
+- Lev_4:6, Lev_4:17y mojará el s su dedo en la sangreH3548
+- Lev_4:7s pondrá de esa sangre sobre los cuernosH3548
+- Lev_4:10, Lev_4:31y el s la hará arder sobre el altarH3548
+- Lev_4:16el s...meterá de la sangre del becerro enH3548
+- Lev_4:20de él; así hará el s expiación por ellosH3548
+- Lev_4:25, Lev_4:30, Lev_4:34su dedo el s tomará de la sangreH3548
+- Lev_4:26así el s hará por él la expiación de suH3548
+- Lev_4:31así hará el s expiación por él, y seráH3548
+- Lev_4:35el s la hará arder en el altar sobre laH3548
+- Lev_4:35le hará el s expiación de su pecado queH3548
+- Lev_5:6y el s le hará expiación por su pecadoH3548
+- Lev_5:8los traerá al s, el cual ofrecerá primeroH3548
+- Lev_5:10así el s hará expiación por el pecado deH3548
+- Lev_5:12la traerá, pues al s, y el s tomará deH3548
+- Lev_5:13y hará el s expiación por él en cuantoH3548
+- Lev_5:13el sobrante será del s, como la ofrendaH3548
+- Lev_5:16añadirá...la quinta parte y lo dará al sH3548
+- Lev_5:16el s hará expiación por él con el carneroH3548
+- Lev_5:18traerá...al s para expiación, según tú loH3548
+- Lev_5:18el s le hará expiación por el yerro queH3548
+- Lev_6:6traerá...un carnero...lo dará al s para laH3548
+- Lev_6:7y el s hará expiación por él delante deH3548
+- Lev_6:10y el s se pondrá su vestidura de linoH3548
+- Lev_6:12que el s pondrá en él leña cada mañanaH3548
+- Lev_6:22s que...fuere ungido...hará igual ofrendaH3548
+- Lev_6:23toda ofrenda de s será...quemada; no seH3548
+- Lev_6:26el s que la ofreciere por el pecado, laH3548
+- Lev_6:29todo varón de entre los s la comerá; esH3548
+- Lev_7:5s lo hará arder sobre el altar, ofrendaH3548
+- Lev_7:6todo varón de entre los s la comerá; seráH3548
+- Lev_7:7será del s que hiciere la expiación conH3548
+- Lev_7:8el s que ofreciere holocausto de algunoH3548
+- Lev_7:9toda ofrenda...será del s que lo ofreciereH3548
+- Lev_7:14será del s que rociare la sangre de losH3548
+- Lev_7:31la grosura la hará arder el s en el altarH3548
+- Lev_7:32daréis al s para ser elevada en ofrendaH3548
+- Lev_7:34y lo he dado a Aarón el s y a sus hijosH3548
+- Lev_7:35que él los consagró para ser s de JehováH3547
+- Lev_12:6traerá un cordero de un año para...al sH3548
+- Lev_12:8y el s hará expiación por ella, y seráH3548
+- Lev_13:2a Aarón el s o a uno de sus hijos los sH3548
+- Lev_13:3s mirará la llaga en la piel del cuerpoH3548
+- Lev_13:3s le reconocerá, y le declarará inmundoH3548
+- Lev_13:4el s encerrará al llagado por siete díasH3548
+- Lev_13:5y al séptimo día el s lo mirará; y si laH3548
+- Lev_13:5s le volverá a encerrar por otros sieteH3548
+- Lev_13:6el s le reconocerá de nuevo; y si pareceH3548
+- Lev_13:6el s lo declarará limpio; era erupciónH3548
+- Lev_13:7después que él se mostró al s para serH3548
+- Lev_13:7limpio, deberá mostrarse otra vez al sH3548
+- Lev_13:8si reconociéndolo el s ve que la erupciónH3548
+- Lev_13:9hubiere llaga de lepra...será traído al sH3548
+- Lev_13:11y le declarará inmundo el s, y no leH3548
+- Lev_13:12si brotare...hasta donde pueda ver el sH3548
+- Lev_13:15s mirará la carne viva, y lo declararáH3548
+- Lev_13:16la carne viva cambiare y...vendrá al sH3548
+- Lev_13:17el s mirará; y...el s declarará limpio alH3548
+- Lev_13:19una mancha blanca...será mostrado al sH3548
+- Lev_13:20el s mirará...el s lo declarará inmundoH3548
+- Lev_13:21el s la considerare...el s le encerraráH3548
+- Lev_13:22si...el s lo declarará inmundo; es llagaH3548
+- Lev_13:23cicatriz del...y el s lo declarará limpioH3548
+- Lev_13:25el s la mirará...s lo declarará inmundoH3548
+- Lev_13:26mas si el s la mirare, y no apareciereH3548
+- Lev_13:26sino...le encerrará el s por siete díasH3548
+- Lev_13:27el s la reconocerá...el s lo declararáH3548
+- Lev_13:28el s lo declarará limpio, porque señalH3548
+- Lev_13:30el s mirará la llaga...el s le declararáH3548
+- Lev_13:31cuando el s hubiere mirado la llaga deH3548
+- Lev_13:31s encerrará...días al llagado de la tiñaH3548
+- Lev_13:32el s mirará la llaga; y si la tiña noH3548
+- Lev_13:33y el s encerrará por otros siete días alH3548
+- Lev_13:34mirará el s la tiña...el s lo declararáH3548
+- Lev_13:36el s la mirará; y si la tiña hubiereH3548
+- Lev_13:36no busque el s el pelo amarillento; esH3548
+- Lev_13:37está limpio, y limpio lo declarará el sH3548
+- Lev_13:39s mirará, y si en la piel de su cuerpoH3548
+- Lev_13:43el s lo mirará, y si pareciere...la llagaH3548
+- Lev_13:44leproso es, es inmundo...el s lo declararáH3548
+- Lev_13:49es de lepra, y se ha de mostrar al sH3548
+- Lev_13:50s mirará la plaga, y encerrará la cosaH3548
+- Lev_13:53y si el s mirare, y no pareciere queH3548
+- Lev_13:54s mandará que laven donde está la plagaH3548
+- Lev_13:55el s mirará después que la plaga fuereH3548
+- Lev_13:56mas si el s la viere, y pareciere queH3548
+- Lev_14:2la ley para el lepreoso...Será traído al sH3548
+- Lev_14:4el s mandará luego que se tomen para élH3548
+- Lev_14:5y mandará el s matar una avecilla en unH3548
+- Lev_14:11el s que le purifica presentará delanteH3548
+- Lev_14:12y tomará el s un cordero y lo ofreceráH3548
+- Lev_14:13así...la víctima por la culpa es del sH3548
+- Lev_14:14el s tomará de la sangre de la víctimaH3548
+- Lev_14:14pondrá el s sobre el lóbulo de la orejaH3548
+- Lev_14:15s tomará del log de aceite, y lo echaráH3548
+- Lev_14:17aceite...pondrá el s sobre el lóbulo deH3548
+- Lev_14:18hará el s expiación por él delante deH3548
+- Lev_14:19ofrecerá luego el s el sacrificio por elH3548
+- Lev_14:20y hará subir el s el holocausto y laH3548
+- Lev_14:20así hará el s expiación por él, y seráH3548
+- Lev_14:23traerá estas cosas al s, a la puerta delH3548
+- Lev_14:24el s tomará el cordero de la expiaciónH3548
+- Lev_14:24y los mecerá el s como ofrenda mecidaH3548
+- Lev_14:25y el s tomará de la sangre de la culpaH3548
+- Lev_14:26el s echará del aceite sobre la palma deH3548
+- Lev_14:27el s rociará del aceite que tiene en suH3548
+- Lev_14:28el s pondrá del aceite que tiene en suH3548
+- Lev_14:29lo que sobre del aceite que el s tieneH3548
+- Lev_14:31y hará el s expiación por el que se haH3548
+- Lev_14:35y dará aviso al s, diciendo: Algo comoH3548
+- Lev_14:36el s mandará desocupar la casa antes queH3548
+- Lev_14:36y después el s entrará a examinarlaH3548
+- Lev_14:38el s saldrá de la casa a la puerta deH3548
+- Lev_14:39volverá el s, y la examinará; y si laH3548
+- Lev_14:40mandará el s, y arrancarán las piedrasH3548
+- Lev_14:44entonces el s entrará y la examinaráH3548
+- Lev_14:48mas si entrare el s y la examinare, yH3548
+- Lev_14:48el s declarará limpia la casa, porqueH3548
+- Lev_15:14vendrá delante de Jehová...los dará al sH3548
+- Lev_15:15el s hará...ofrenda...el s le purificaráH3548
+- Lev_15:29tomará...y los traerá al s, a la puertaH3548
+- Lev_15:30el s hará del uno ofrenda por el pecadoH3548
+- Lev_15:30la purificará el s delante de Jehová delH3548
+- Lev_16:32hará la expiación el s que fuere ungidoH3548
+- Lev_16:32y consagrado para ser s en lugar de suH3547
+- Lev_16:33hará expiación...por los s y por todo elH3548
+- Lev_17:5que los traigan...al s, y sacrifiquen ellosH3548
+- Lev_17:6el s esparcirá la sangre sobre el altarH3548
+- Lev_19:22lo reconciliará el s delante de JehováH3548
+- Lev_21:1habla a los s hijos de Aarón, y diles queH3548
+- Lev_21:7ni con...porque el s es santo a su DiosH3548
+- Lev_21:9la hija del s, si comenzare a fornicarH3548
+- Lev_21:10el sumo s...no descubrirá su cabeza, niH3548
+- Lev_21:21varón de la descendencia del s Aarón, enH3548
+- Lev_22:10huésped del s...no comerán cosa sagradaH3548
+- Lev_22:11cuando el s comprare algún esclavo porH3548
+- Lev_22:12la hija del s, si se casare con varónH3548
+- Lev_22:13si la hija del s fuere viuda o repudiadaH3548
+- Lev_22:14yerro...la dará al s con la cosa sagradaH3548
+- Lev_23:10traeréis al s una gavilla por primiciaH3548
+- Lev_23:11s mecerá la gavilla delante de JehováH3548
+- Lev_23:20el s los presentará como ofrenda mecidaH3548
+- Lev_23:20serán cosa sagrada a Jehová para el sH3548
+- Lev_27:8llevado ante el s...le fijará precio el sH3548
+- Lev_27:11el animal será puesto delante del sH3548
+- Lev_27:12el s lo valorará, sea bueno o sea maloH3548
+- Lev_27:12conforme a la estimación del s, así seráH3548
+- Lev_27:14la valorará el s, sea buena o sea malaH3548
+- Lev_27:14según la valorare el s, así quedaráH3548
+- Lev_27:18el s hará la cuenta del dinero conformeH3548
+- Lev_27:21tierra...la posesión de ella será del sH3548
+- Lev_27:23entonces el s calculará con él la sumaH3548
+- Núm_3:3s ungidos, a los cuales consagró paraH3547
+- Núm_3:6hazla estar delante del s Aarón, para queH3548
+- Núm_3:32será Eleazar hijo del s Aarón, jefe deH3548
+- Núm_4:16pero a cargo de Eleazar hijo del s AarónH3548
+- Núm_4:28, Núm_4:33bajo la dirección de Itamar hijo del sH3548
+- Núm_5:8dará la indemnización...entregándola al sH3548
+- Núm_5:9ofrenda de...presentaren al s, suya seráH3548
+- Núm_5:10lo que cualquier, diere al s, suyo seráH3548
+- Núm_5:15marido traerá su mujer al s, y con ellaH3548
+- Núm_5:16el s hará que ella se acerque y se pongaH3548
+- Núm_5:17tomará el s del agua santa en un vaso deH3548
+- Núm_5:17tomará...el s del polvo que hubiere en elH3548
+- Núm_5:18y hará el s estar en pie a la mujerH3548
+- Núm_5:18el s tendrá en la mano las aguas amargasH3548
+- Núm_5:19el s la conjurará y le dirá: Si ningunoH3548
+- Núm_5:21el s conjurará a la mujer con...maldiciónH3548
+- Núm_5:23el s escribirá estas maldiciones en unH3548
+- Núm_5:25el s tomará de...la ofrenda de los celosH3548
+- Núm_5:26tomará el s un puñado de la ofrenda enH3548
+- Núm_5:30y el s ejecutará en ella toda esta leyH3548
+- Núm_6:10y día octavo traerá...dos palominos al sH3548
+- Núm_6:11el s ofrecerá el uno en expiación, y elH3548
+- Núm_6:16s lo ofrecerá delante de Jehová, y haráH3548
+- Núm_6:17ofrecerá asimismo el s su ofrenda y susH3548
+- Núm_6:19después tomará el s la espaldilla cocidaH3548
+- Núm_6:20el s mecerá aquello como ofrenda mecidaH3548
+- Núm_6:20será cosa santa del s, además del pechoH3548
+- Núm_7:8bajo la mano de Itamar hijo del s AarónH3548
+- Núm_10:8de Aarón, los s, tocarán las trompetasH3548
+- Núm_15:25s hará expiación por...la congregaciónH3548
+- Núm_15:28el s hará expiación por la persona queH3548
+- Núm_16:37dí a Eleazar hijo del s Aarón, que tomeH3548
+- Núm_16:39y el s Eleazar tomó los incensarios deH3548
+- Núm_18:28daréis...la ofrenda de Jehová al s AarónH3548
+- Núm_19:3la daréis a Eleazar el s, y él la sacaráH3548
+- Núm_19:4Eleazar el s tomará de la sangre con suH3548
+- Núm_19:6tomará el s madera de cedro, e hisopoH3548
+- Núm_19:7el s lavará luego sus vestidos, lavaráH3548
+- Núm_19:7y será inmundo el s hasta la nocheH3548
+- Núm_25:7Eleazar, hijo del s Aarón, y se levantóH3548
+- Núm_25:11Finees hijo de Eleazar, hijo...s AarónH3548
+- Núm_26:1a Moisés y a Eleazar hijo del s AarónH3548
+- Núm_26:3el s Eleazar hablaron con ellos en losH3548
+- Núm_26:63los contados por Moisés y el s EleazarH3548
+- Núm_26:64ninguno hubo...contados por...el s AarónH3548
+- Núm_27:2se presentaron...y delante del s EleazarH3548
+- Núm_27:19y lo pondrás delante del s Eleazar, yH3548
+- Núm_27:21él se pondrá delante del s Eleazar, y leH3548
+- Núm_27:22puso delante del s Eleazar, y de todaH3548
+- Núm_31:6Finees hijo del s...fue a la guerra conH3548
+- Núm_31:12trajeron a...y al s Eleazar...los cautivosH3548
+- Núm_31:13y salieron Moisés y el s...a recibirlosH3548
+- Núm_31:21el s...dijo a los hombres de guerra queH3548
+- Núm_31:26la cuenta del botín...tú y el s EleazarH3548
+- Núm_31:29darás al s Eleazar la ofrenda de JehováH3548
+- Núm_31:31e hicieron Moisés y el s Eleazar comoH3548
+- Núm_31:41y dio Moisés el tributo...al s EleazarH3548
+- Núm_31:51el s Eleazar recibieron el oro de ellosH3548
+- Núm_31:54recibieron, pues, Moisés y el s...el oroH3548
+- Núm_32:2de Gad...hablaron a Moisés y al s EleazarH3548
+- Núm_32:28les encomendó Moisés al s Eleazar, y aH3548
+- Núm_33:38y subió el s Aarón al monte de HorH3548
+- Núm_34:17os repartirán la tierra: El s EleazarH3548
+- Núm_35:25y morará en ella hasta que muera el...sH3548
+- Núm_35:28aquél habitar hasta que muera el sumo sH3548
+- Núm_35:28que haya muerto el sumo s...volverá a laH3548
+- Núm_35:32a vivir en...hasta que muera el sumo sH3548
+- Deu_17:9y vendrás a los s levitas, y al juezH3548
+- Deu_17:12con soberbia, no obedeciendo al s queH3548
+- Deu_17:18que está al cuidado de los s levitasH3548
+- Deu_18:1los s levitas, es decir, toda la tribu deH3548
+- Deu_18:3el derecho de los s de parte del puebloH3548
+- Deu_18:3darán al s la espaldilla, las quijadas yH3548
+- Deu_19:17se presentarán...delante de los s y deH3548
+- Deu_20:2pondrá en pie el s y hablará al puebloH3548
+- Deu_21:5entonces vendrán los s hijos de LevíH3548
+- Deu_24:8todo lo que os enseñaren los s levitasH3548
+- Deu_26:3presentarás al s que hubiere en aquellosH3548
+- Deu_26:4el s tomará la canasta de tu mano, y laH3548
+- Deu_27:9Moisés, con los s levitas, hablé a todoH3548
+- Deu_31:9esta ley, y la dio a los s hijos de LevíH3548
+- Jos_3:3el arca...y los levitas s que la llevanH3548
+- Jos_3:6y habló Josué a los s...Tomad el arca delH3548
+- Jos_3:8mandarás a los s que llevan el arca delH3548
+- Jos_3:13cuando las plantas de los pies de los sH3548
+- Jos_3:14los s delante del pueblo llevando el arcaH3548
+- Jos_3:15los pies de los s...fueron mojados a laH3548
+- Jos_3:17mas los s...estuvieron en seco, firmes enH3548
+- Jos_4:3lugar donde están firmes los pies de los sH3548
+- Jos_4:9lugar donde estuvieron los pies de los sH3548
+- Jos_4:10s...se pararon en medio del Jordán hastaH3548
+- Jos_4:11también pasó el arca de Jehová, y los sH3548
+- Jos_4:16los s que llevan el arca del testimonioH3548
+- Jos_4:17Josué mandó a los s, diciendo: Subid delH3548
+- Jos_4:18que cuando los s que llevaban el arca delH3548
+- Jos_4:18pies de los s estuvieron en lugar secoH3548
+- Jos_6:4siete s llevarán siete bocinas de cuernosH3548
+- Jos_6:4al séptimo día...los s tocarán las bocinasH3548
+- Jos_6:6llamando, pues, Josué...a los s, les dijoH3548
+- Jos_6:6arca...y siete s lleven bocinas de cuernoH3548
+- Jos_6:8los siete s, llevando las siete bocinasH3548
+- Jos_6:9los hombres armados iban delante de los sH3548
+- Jos_6:12Josué...y los s tomaron el arca de JehováH3548
+- Jos_6:13los siete s, llevando las siete bocinasH3548
+- Jos_6:16los s tocaron las bocinas la séptima vezH3548
+- Jos_6:20y los s tocaron las bocinas; y acontecióH3548
+- Jos_8:33Israel...en presencia de los s levitas queH3548
+- Jos_14:1les repartieron el s Eleazar, Josué hijoH3548
+- Jos_17:4éstas vinieron delante del s Eleazar y deH3548
+- Jos_19:51las heredades que el s Eleazar y JosuéH3548
+- Jos_20:6hasta la muerte del que fuere sumo s enH3548
+- Jos_21:1levitas vinieron al s Eleazar, a JosuéH3548
+- Jos_21:4los hijos de Aarón el s, que eran de losH3548
+- Jos_21:13y a los hijos del s Aarón dieron HebrónH3548
+- Jos_21:19todas las ciudades de los s...son treceH3548
+- Jos_22:13y enviaron...a Finees hijo del s EleazarH3548
+- Jos_22:30oyendo Finees el s y los príncipes deH3548
+- Jos_22:31y dijo Finees hijo del s Eleazar a losH3548
+- Jos_22:32y Finees hijo del s Eleazar, y los príncipesH3548
+- Jue_17:5consagró a uno de sus hijos para...sH3548
+- Jue_17:10quédate en...y serás para mí padre y sH3548
+- Jue_17:12al levita, y aquel joven le servía de sH3548
+- Jue_17:13me prosperará...tengo un levita por sH3548
+- Jue_18:4Micaía...me ha tomado para que sea su sH3548
+- Jue_18:6el s les respondió: Id en paz; delante deH3548
+- Jue_18:17estaba el s a la entrada de la puertaH3548
+- Jue_18:18y el s les dijo: ¿Qué hacéis vosotros?[[H3548]]
+- Jue_18:19que seas nuestro padre y s...¿Es mejorH3548
+- Jue_18:19¿es mejor que seas tú s en casa de unH3548
+- Jue_18:20alegró el corazón del s, el cual tomóH3548
+- Jue_18:24tomasteis mis dioses que yo hice y al sH3548
+- Jue_18:27con el s que tenía, llegaron a Lais, alH3548
+- Jue_18:30Jonatán hijo de...él y sus hijos fueron sH3548
+- 1Sa_1:3estaban...Ofni y Finees, s de JehováH3548
+- 1Sa_1:9mientras el s Elí estaba sentado en unaH3548
+- 1Sa_2:11el niño ministraba a...delante del s ElíH3548
+- 1Sa_2:13era costumbre de los s con el pueblo, queH3548
+- 1Sa_2:13venía el criado del s mientras se cocíaH3548
+- 1Sa_2:14lo que sacaba el garfio, el s lo tomabaH3548
+- 1Sa_2:15venía el criado del s, y decía al queH3548
+- 1Sa_2:15da carne que asar para el s; porque noH3548
+- 1Sa_2:28le escogí por mi s entre todas las tribusH3548
+- 1Sa_2:35suscitaré un s fiel, que haga conforme aH3548
+- 1Sa_5:5los s...que entran en el templo de DagónH3548
+- 1Sa_6:2los filisteos, llamando a los s y adivinosH3548
+- 1Sa_14:3s de Jehová en Silo, llevaba el efodH3548
+- 1Sa_14:19hablaba Saúl con el s...dijo Saúl al sH3548
+- 1Sa_14:36dijo...el s: Acerquémonos aquí a DiosH3548
+- 1Sa_21:1vino David a Nob, al s Ahimelec; y seH3548
+- 1Sa_21:2respondió David al s Ahimelec: El rey meH3548
+- 1Sa_21:4s respondió a David...No tengo pan comúnH3548
+- 1Sa_21:5y David respondió al s, y le dijo: EnH3548
+- 1Sa_21:6el s le dio el pan sagrado, porque allíH3548
+- 1Sa_21:9el s respondió: La espada de Goliat elH3548
+- 1Sa_22:11el rey envió por el s Ahimelec hijo deH3548
+- 1Sa_22:11rey envió por...los s que estaban en NobH3548
+- 1Sa_22:17dijo...Volveos y matad a los s de JehováH3548
+- 1Sa_22:17no quisieron...matar a los s de JehováH3548
+- 1Sa_22:18arremete contra...s...acometió a los sH3548
+- 1Sa_22:19a Nob, ciudad de los s, hirió a filoH3548
+- 1Sa_22:21como Saúl había dado muerte a los s deH3548
+- 1Sa_23:9David...dijo a Abiatar s: Trae el efodH3548
+- 1Sa_30:7dijo David al s Abiatar...Yo te ruego queH3548
+- 2Sa_8:17Sadoc hijo...y Ahimelec hijo...eran sH3548
+- 2Sa_15:27dijo...el rey al s Sadoc: ¿No eres tú elH3548
+- 2Sa_15:35¿no estarán allí...los s Sadoc y Abiatar?[[H3548]]
+- 2Sa_15:35lo comunicarás a los s Sadoc y AbiatarH3548
+- 2Sa_17:15dijo...Husai a los s Sadoc y Abiatar: AsíH3548
+- 2Sa_19:11David envió a los s...diciendo: Hablad aH3548
+- 2Sa_20:25Seva era escriba, y Sadoc y Abiatar, sH3548
+- 2Sa_20:26e Ira jaireo fue también s de DavidH3548
+- 1Re_1:7había puesto de acuerdo...el s AbiatarH3548
+- 1Re_1:8pero el s Sadoc, y Benaía hijo de JoiadaH3548
+- 1Re_1:19y ha convidado...al s Abiatar, y a JoabH3548
+- 1Re_1:25y ha convidado a...y también al s AbiatarH3548
+- 1Re_1:26pero ni a mí...ni al s Sadoc, ni a BenaíaH3548
+- 1Re_1:32llamadme al s Sadoc, al profeta Natán, yH3548
+- 1Re_1:34lo ungirán el s Sadoc y el profeta NatánH3548
+- 1Re_1:38y descendieron el s Sadoc, el profetaH3548
+- 1Re_1:39tomando el s...el cuerno del aceite delH3548
+- 1Re_1:42he aquí vino Jonatán hijo del s AbiatarH3548
+- 1Re_1:44el rey ha enviado con él al s Sadoc y alH3548
+- 1Re_1:45s Sadoc y...Natán lo han ungido por reyH3548
+- 1Re_2:22ya tiene también al s Abiatar, y a JoabH3548
+- 1Re_2:26el rey dijo al s Abiatar: Vete a AnatotH3548
+- 1Re_2:35y a Sadoc puso el rey por s en lugar deH3548
+- 1Re_4:2jefes que tuvo: Azarías hijo del s SadocH3548
+- 1Re_4:4Benaía...ejército; Sadoc y Abiatar, los sH3548
+- 1Re_8:3vinieron todos...y los s tomaron el arcaH3548
+- 1Re_8:4los utensilios...los cuales llevaban los sH3548
+- 1Re_8:6los s metieron el arca del...en su lugarH3548
+- 1Re_8:10cuando los s salieron del santuario, laH3548
+- 1Re_8:11s no pudieron permanecer para ministrarH3548
+- 1Re_12:31hizo s de entre el pueblo, que no eranH3548
+- 1Re_12:32en Bet-el s para los lugares altos que élH3548
+- 1Re_13:2el cual sacrificará sobre ti a los s deH3548
+- 1Re_13:33volvió a hacer s de los lugares altosH3548
+- 1Re_13:33que fuese de los s de los lugares altosH3548
+- 2Re_10:11mató entonces Jehú...a sus s, hastaH3548
+- 2Re_10:19los profetas de Baal...y a todos sus sH3548
+- 2Re_11:9hicieron todo como el s Joiada les mandóH3548
+- 2Re_11:9los que entraban...vinieron al s JoiadaH3548
+- 2Re_11:10el s dio a los jefes...las lanzas y losH3548
+- 2Re_11:15s Joiada mandó a los jefes de centenasH3548
+- 2Re_11:15s dijo que no la matasen en el temploH3548
+- 2Re_11:18el templo...y mataron a Matán s de BaalH3548
+- 2Re_11:18el s puso guarnición sobre la casa deH3548
+- 2Re_12:2todo el tiempo que le dirigió el s JoiadaH3548
+- 2Re_12:4dijo a los s: Todo el dinero consagradoH3548
+- 2Re_12:5recíbanlo los s, cada uno de mano de susH3548
+- 2Re_12:6no habían reparado los s las grietas delH3548
+- 2Re_12:7llamó...Joás al sumo s Joiada y a los sH3548
+- 2Re_12:8los s consintieron en no tomar más dineroH3548
+- 2Re_12:9el sumo s Joiada tomó un arca e hizo enH3548
+- 2Re_12:9los s...ponían allí todo el dinero que seH3548
+- 2Re_12:10venía el secretario del rey y el sumo sH3548
+- 2Re_12:16el dinero por el pecado...era de los sH3548
+- 2Re_16:10al s Urías el diseño y la descripciónH3548
+- 2Re_16:11el s Urías edificó el altar; conformeH3548
+- 2Re_16:11lo hizo el s Urías, entre tanto que elH3548
+- 2Re_16:15mandó el rey Acaz al s Urías, diciendoH3548
+- 2Re_16:16e hizo el s Urías conforme a todas lasH3548
+- 2Re_17:27llevad allí a alguno de los s...de alláH3548
+- 2Re_17:28uno de los s que habían llevado cautivoH3548
+- 2Re_17:32e hicieron del pueblo...s de los lugaresH3548
+- 2Re_19:2envió...los ancianos de los s, cubiertosH3548
+- 2Re_22:4al sumo s...y dile que recoja el dineroH3548
+- 2Re_22:8el sumo s Hilcías al escriba Safán: HeH3548
+- 2Re_22:10el s Hilcías me ha dado un libro...leyóH3548
+- 2Re_22:12el rey dio orden al s Hilcías, a AhicamH3548
+- 2Re_22:14fueron el s Hilcías, y...a la profetisaH3548
+- 2Re_23:2subió el rey a...con los s y profetas yH3548
+- 2Re_23:4mandó el rey al sumo s Hilcías, a los sH3548
+- 2Re_23:5quitó a los s idólatras...lugares altosH3548
+- 2Re_23:8e hizo venir...s de las ciudades de JudáH3548
+- 2Re_23:8profanó...donde los s quemaban inciensoH3548
+- 2Re_23:9los s de...no subían al altar de JehováH3548
+- 2Re_23:20mató...a todos los s de los lugares altosH3548
+- 2Re_23:24en el libro que el s...había hallado enH3548
+- 2Re_25:18tomó entonces el...al primer s SeraíasH3548
+- 2Re_25:18al segundo s Sofonías, y tres guardasH3548
+- 1Cr_9:2los primeros moradores...israelitas, sH3548
+- 1Cr_9:10de los s: Jedaías, Joiarib, JaquínH3548
+- 1Cr_9:30los hijos de los s hacían los perfumesH3548
+- 1Cr_13:2enviaremos...por los s y levitas que hanH3548
+- 1Cr_15:11y llamó David a los s Sadoc y AbiatarH3548
+- 1Cr_15:14s...se santificaron para traer el arcaH3548
+- 1Cr_15:24y Eliezer, s, tocaban las trompetasH3548
+- 1Cr_16:6también los s Benaía...sonaban...trompetasH3548
+- 1Cr_16:39al s Sadoc, y a los s sus hermanosH3548
+- 1Cr_18:16Sadoc hijo de...y Abimelec hijo...eran sH3548
+- 1Cr_23:2juntando a todos los...a los s y levitasH3548
+- 1Cr_24:6escribió...nombres...delante de Sadoc el sH3548
+- 1Cr_24:6, 1Cr_24:31jefes de las casas paternas de los sH3548
+- 1Cr_27:5el jefe...era Benaía, hijo del sumo s JoiadaH3548
+- 1Cr_28:13los grupos de los s y de los levitasH3548
+- 1Cr_28:21he aquí los grupos de los s y de losH3548
+- 1Cr_29:22ungieron por príncipe, y a Sadoc por sH3548
+- 2Cr_4:6el mar era para que los s se lavaranH3548
+- 2Cr_4:9hizo el atrio de los s, y el gran atrioH3548
+- 2Cr_5:5el arca...los s y los levitas los llevaronH3548
+- 2Cr_5:7los s metieron el arca del...en su lugarH3548
+- 2Cr_5:11y cuando los s salieron del santuarioH3548
+- 2Cr_5:11todos los s...habían sido santificadosH3548
+- 2Cr_5:12cantores...y con ellos 120 s que tocabanH3548
+- 2Cr_5:14y no podían los s estar...para ministrarH3548
+- 2Cr_6:41sean vestidos de salvación tus s, y tusH3548
+- 2Cr_7:2y no podían entrar los s en la casa deH3548
+- 2Cr_7:6los s desempeñaban...s tocaban trompetasH3548
+- 2Cr_8:14y constituyó los turnos de los s en susH3548
+- 2Cr_8:14levitas en sus cargos...delante de los sH3548
+- 2Cr_8:15no se apartaron del...en cuanto a los sH3548
+- 2Cr_11:13los s y levitas que...se juntaron a élH3548
+- 2Cr_11:15designó sus...s para los lugares altosH3548
+- 2Cr_13:9¿no habéis arrojado vosotros a los s deH3548
+- 2Cr_13:9y os habéis designado s a la manera deH3548
+- 2Cr_13:9y así sea s de los que no son dioses?[[H3548]]
+- 2Cr_13:10s que ministran...son los hijos de AarónH3548
+- 2Cr_13:12sus s con las trompetas del júbilo paraH3548
+- 2Cr_13:14clamaron...y los s tocaron las trompetasH3548
+- 2Cr_15:3muchos días ha estado Israel sin...sin sH3548
+- 2Cr_17:8y con ellos a los s Elisama y JoramH3548
+- 2Cr_19:8puso también Josafat...de los levitas y sH3548
+- 2Cr_19:11el s Amarías será el que os presida enH3548
+- 2Cr_22:11lo escondió Josabet...mujer del s JoiadaH3548
+- 2Cr_23:4estarán de porteros con los s y...levitasH3548
+- 2Cr_23:6los s y...que ministran; éstos entraránH3548
+- 2Cr_23:8todo como lo había mandado el s JoiadaH3548
+- 2Cr_23:8porque el s Joiada no dio licencia a lasH3548
+- 2Cr_23:9dio también el s Joiada a los jefes deH3548
+- 2Cr_23:14s Joiada mandó que salieran los jefesH3548
+- 2Cr_23:14el s había mandado que no la matasen enH3548
+- 2Cr_23:17mataron delante de...a Matán, s de BaalH3548
+- 2Cr_23:18bajo la mano de los s y levitas, segúnH3548
+- 2Cr_24:2hizo Joás lo recto...días de Joiada el sH3548
+- 2Cr_24:5reunió a los s y los levitas, y les dijoH3548
+- 2Cr_24:6el rey llamó al sumo s Joiada y le dijoH3548
+- 2Cr_24:11y el que estaba puesto por el sumo sH3548
+- 2Cr_24:20el Espíritu...sobre Zacarías hijo del sH3548
+- 2Cr_24:25la sangre de los hijos de Joiada el sH3548
+- 2Cr_26:17entró tras el s Azarías, y con él 80 sH3548
+- 2Cr_26:18corresponde...sino a los s hijos de AarónH3548
+- 2Cr_26:19y en su ira contra los s, la lepra leH3548
+- 2Cr_26:19le brotó en la frente, delante de los sH3548
+- 2Cr_26:20le miró el sumo s...y todos los s, y heH3548
+- 2Cr_29:4e hizo venir a los s y levitas, y losH3548
+- 2Cr_29:16y entrando los s dentro de la casa deH3548
+- 2Cr_29:21y dijo a los s hijos de Aarón que losH3548
+- 2Cr_29:22y los s recibieron la sangre, y laH3548
+- 2Cr_29:24los s los mataron, e hicieron ofrendaH3548
+- 2Cr_29:26los instrumentos...y los s con trompetasH3548
+- 2Cr_29:34los s eran pocos, y no bastaban paraH3548
+- 2Cr_29:34hasta que los demás s se santificaronH3548
+- 2Cr_29:34más rectos...para santificarse que los sH3548
+- 2Cr_30:3no había suficientes s santificados, niH3548
+- 2Cr_30:15y los s y los levitas...se santificaronH3548
+- 2Cr_30:16los s esparcían la sangre que recibíanH3548
+- 2Cr_30:21glorificaban a Jehová...levitas y los sH3548
+- 2Cr_30:24y muchos s ya se habían santificadoH3548
+- 2Cr_30:25alegró, pues...Judá, como también los sH3548
+- 2Cr_30:27s y levitas, puestos en pie, bendijeronH3548
+- 2Cr_31:2arregló...la distribución de los s y deH3548
+- 2Cr_31:2los s y los...para ofrecer el holocaustoH3548
+- 2Cr_31:4al pueblo...que diese la porción...a los sH3548
+- 2Cr_31:9preguntó Ezequías a...s y a los levitasH3548
+- 2Cr_31:10y el sumo s Azarías...le contestó: DesdeH3548
+- 2Cr_31:15en las ciudades de los s, para dar conH3548
+- 2Cr_31:17los que eran contados entre los s segúnH3548
+- 2Cr_31:19los s, que estaban en los ejidos de susH3548
+- 2Cr_31:19porciones a...los varones de entre los sH3548
+- 2Cr_34:5quemó además los huesos de los s sobreH3548
+- 2Cr_34:9al sumo s Hilcías, y dieron el dineroH3548
+- 2Cr_34:14el s Hilcías halló el libro de la leyH3548
+- 2Cr_34:18diciendo: El s Hilcías me dio un libroH3548
+- 2Cr_34:30s, los levitas y todo el pueblo, desdeH3548
+- 2Cr_35:2puso también a los s en sus oficios, yH3548
+- 2Cr_35:8también sus príncipes dieron...a los sH3548
+- 2Cr_35:8dieron a los s, para celebrar la pascuaH3548
+- 2Cr_35:10los s se colocaron en sus puestos, yH3548
+- 2Cr_35:11la pascua; y esparcían los s la sangreH3548
+- 2Cr_35:14(2)prepararon para ellos...para los sH3548
+- 2Cr_35:14porque los s...estuvieron ocupados hastaH3548
+- 2Cr_35:18la que celebró el rey Josías, con los sH3548
+- 2Cr_36:14todos los...s, y el pueblo, aumentaronH3548
+- Esd_1:5se levantaron...los s y levitas, todosH3548
+- Esd_2:36los s: Los hijos de...de la casa de JesúaH3548
+- Esd_2:61los hijos de los s: los hijos de HabaíaH3548
+- Esd_2:63que hubiese s para consultar con Urim yH3548
+- Esd_2:70habitaron los s, los levitas...ciudadesH3548
+- Esd_3:2se levantaron Jesúa...y sus hermanos los sH3548
+- Esd_3:8s y los levitas, y todos los que habíanH3548
+- Esd_3:10pusieron a los s vestidos de sus ropasH3548
+- Esd_3:12y muchos de los s, de los levitas y deH3548
+- Esd_6:9aceite, conforme a lo que dijeren los sH3549
+- Esd_6:16los s, los levitas y los demás que habíanH3549
+- Esd_6:18pusieron a los s en sus turnos, y a losH3549
+- Esd_6:20los s y los levitas se habían purificadoH3548
+- Esd_6:20la pascua...por sus hermanos los s, y porH3548
+- Esd_7:5hijo de Eleazar, hijo de Aarón, primer sH3548
+- Esd_7:7y con él subieron...s, levitas, cantoresH3549
+- Esd_7:11de la carta que dio el rey...al s EsdrasH3548
+- Esd_7:12a Esdras, s y escriba erudito en la leyH3549
+- Esd_7:13sus s y levitas, que quiera ir contigoH3549
+- Esd_7:16las ofrendas voluntarias del...y de los sH3549
+- Esd_7:21lo que os pida el s Esdras...le concedaH3548
+- Esd_7:24que a todos los s y levitas, cantoresH3549
+- Esd_8:15habiendo buscado entre...y entre los sH3548
+- Esd_8:24aparté...doce de los principales de los sH3548
+- Esd_8:29los peséis delante...príncipes de los sH3548
+- Esd_8:30los s y los levitas recibieron el pesoH3548
+- Esd_8:33pesada la plata...por mano del s MeremotH3548
+- Esd_9:1y los s y levitas no se han separado deH3548
+- Esd_9:7nuestros s hemos sido entregados en...manoH3548
+- Esd_10:5juramentó a los príncipes de los s y deH3548
+- Esd_10:10y se levantó el s Esdras y les dijoH3548
+- Esd_10:16fueron apartados el s Esdras, y ciertosH3548
+- Esd_10:18de los hijos de los s que habían tomadoH3548
+- Neh_2:16a los judíos y s, ni a los nobles yH3548
+- Neh_3:1entonces se levantó el sumo s Eliasib conH3548
+- Neh_3:1sus hermanos los s, y edificaron la puertaH3548
+- Neh_3:20la puerta de la casa de Eliasib sumo sH3548
+- Neh_3:22después...restauraron los s, los varonesH3548
+- Neh_3:28desde la puerta de los...restauraron los sH3548
+- Neh_5:12convoqué a los s, y les hice jurar queH3548
+- Neh_7:39s: los hijos de Jedaía, de la casa deH3548
+- Neh_7:63los s: los hijos de Habaía, los hijos deH3548
+- Neh_7:65hasta que hubiese s con Urim y TumimH3548
+- Neh_7:73habitaron los s, los levitas...ciudadesH3548
+- Neh_8:2el s Esdras trajo la ley delante de laH3548
+- Neh_8:9y el s Esdras...dijeron a todo el puebloH3548
+- Neh_8:13se reunieron...s y levitas, a Esdras elH3548
+- Neh_9:32todo el sufrimiento que ha alcanzado...sH3548
+- Neh_9:34nuestros s...no pusieron por obra tu leyH3548
+- Neh_9:38firmada...nuestros levitas y nuestros sH3548
+- Neh_10:8Maazías, Bilgai y Semaías; éstos eran sH3548
+- Neh_10:28los s, levitas, porteros y cantores, losH3548
+- Neh_10:34echamos...suertes los s, los levitas y elH3548
+- Neh_10:36los s que ministran en la casa de...DiosH3548
+- Neh_10:37traeríamos...para los s, a las cámarasH3548
+- Neh_10:38que estaría el s hijo de Aarón con losH3548
+- Neh_10:39allí estarán los...los s que ministranH3548
+- Neh_11:3s y levitas, los sirvientes del temploH3548
+- Neh_11:10los s: Jedaías hijo de Joiarib, JaquínH3548
+- Neh_11:20y el resto...de los s y de los levitasH3548
+- Neh_12:1s y levitas que subieron con ZorobabelH3548
+- Neh_12:7estos eran los príncipes de los s y susH3548
+- Neh_12:12s jefes de familias fueron: de SeraíasH3548
+- Neh_12:22fueron inscritos...también los s, hastaH3548
+- Neh_12:26en los días del...del s Esdras, escribaH3548
+- Neh_12:30y se purificaron los s y los levitasH3548
+- Neh_12:35los hijos de los s iban con trompetasH3548
+- Neh_12:41y los s Eliacim, Maaseías, MiniamínH3548
+- Neh_12:44recoger...porciones legales para los sH3548
+- Neh_12:44gozo...con respecto a los s y levitasH3548
+- Neh_13:4el s Eliasib, siendo jefe de la cámaraH3548
+- Neh_13:5guardaban antes...y la ofrenda de los sH3548
+- Neh_13:13puse por mayordomos de...al s SelemíasH3548
+- Neh_13:28hijo del sumo s Eliasib era yerno deH3548
+- Neh_13:30puse a los s y levitas por sus gruposH3548
+- Sal_78:64s cayeron a espada, y sus viudas noH3548
+- Sal_99:6Moisés y Aarón entre sus s, y SamuelH3548
+- Sal_110:4eres s para siempre según el orden deH3548
+- Sal_132:9tus s se vistan de justicia...tus santosH3548
+- Sal_132:16vestiré de salvación a sus s, y susH3548
+- Isa_8:2junté conmigo por testigos...al s UríasH3548
+- Isa_24:2sucederá...como al pueblo, también al sH3548
+- Isa_28:7s y el profeta erraron con sidra, fueronH3548
+- Isa_37:2envió...los ancianos de los s, cubiertosH3548
+- Isa_61:6y vosotros seréis llamados s de JehováH3548
+- Isa_66:21tomaré también de ellos...s y levitasH3548
+- Jer_1:1Jeremías...de los s que estuvieron enH3548
+- Jer_1:18te he puesto...contra los reyes...sus sH3548
+- Jer_2:8los s no dijeron: ¿Dónde está Jehová?[[H3548]]
+- Jer_2:26ellos, sus reyes, sus príncipes, sus s yH3548
+- Jer_4:9los s estarán atónitos, y se maravillaránH3548
+- Jer_5:31los s dirigían por manos de ellos; y miH3548
+- Jer_6:13desde el profeta hasta el s, todos sonH3548
+- Jer_8:1sacarán los huesos...los huesos de los sH3548
+- Jer_8:10desde el...hasta el s todos hacen engañoH3548
+- Jer_13:13lleno de embriaguez...los s y profetasH3548
+- Jer_14:18tanto el profeta como el s anduvieronH3548
+- Jer_18:18la ley no faltará al s, ni el consejoH3548
+- Jer_19:1lleva contigo...de los ancianos de los sH3548
+- Jer_20:1el s Pasur hijo de Imer, que presidíaH3548
+- Jer_21:1envió...a Pasur hijo de Malquías y al sH3548
+- Jer_23:11el profeta como el s son impíos; aun enH3548
+- Jer_23:33cuando te preguntare este pueblo...el sH3548
+- Jer_23:34al s o al pueblo que dijere: ProfecíaH3548
+- Jer_26:7s, los profetas y todo el pueblo oyeronH3548
+- Jer_26:8los s y los profetas y...le echaron manoH3548
+- Jer_26:11entonces hablaron los s y los profetasH3548
+- Jer_26:16dijeron...el pueblo a los s y profetasH3548
+- Jer_27:16s y a todo este pueblo hablé diciendoH3548
+- Jer_28:1me habló en...delante de los s y de todoH3548
+- Jer_28:5respondió el...Jeremías...delante de los sH3548
+- Jer_29:1de la carta que...Jeremías envió...a los sH3548
+- Jer_29:25cartas...al s Sofonías...y a todos los sH3548
+- Jer_29:26ha puesto por s en lugar del s JoiadaH3548
+- Jer_29:29el s Sofonías había leído esta carta aH3548
+- Jer_31:14el alma del s satisfaré con abundanciaH3548
+- Jer_32:32toda la maldad de...sus s y sus profetasH3548
+- Jer_33:18ni a los s y levitas faltará varón queH3548
+- Jer_33:21David...y mi pacto con los levitas y sH3548
+- Jer_34:19los s y a todo el pueblo de la tierraH3548
+- Jer_37:3envió el rey Sedequías a...al s SofoníasH3548
+- Jer_48:7Quemos será llevado en cautiverio, sus sH3548
+- Jer_49:3Milcom fue llevado en cautiverio, sus sH3548
+- Jer_52:24también...el principal s...el segundo sH3548
+- Lam_1:4sus puertas están asoladas, sus s gimenH3548
+- Lam_1:19s y mis ancianos en la ciudad perecieronH3548
+- Lam_2:6en...de su ira ha desechado al rey y al sH3548
+- Lam_2:20¿han de ser muertos...el s y el profeta?[[H3548]]
+- Lam_4:13maldades de sus s, quienes derramaron enH3548
+- Lam_4:16no respetaron la presencia de los s, niH3548
+- Eze_1:3palabra de Jehová al s Ezequiel hijo deH3548
+- Eze_7:26ley se alejará del s, y de los ancianosH3548
+- Eze_22:26sus s violaron mi ley, y contaminaronH3548
+- Eze_40:45-46cámara...los s que hacen la guardiaH3548
+- Eze_42:13cámaras santas en las cuales los s queH3548
+- Eze_42:14s entren, no saldrán del lugar santoH3548
+- Eze_43:19s levitas que son del linaje de SadocH3548
+- Eze_43:24y los s echarán sal sobre ellos, y losH3548
+- Eze_43:27s sacrificarán sobre el altar vuestrosH3548
+- Eze_44:13no se acercarán...para servirme como sH3548
+- Eze_44:15mas los s levitas hijos de Sadoc, queH3548
+- Eze_44:21ninguno de los s beberá vino cuando hayaH3548
+- Eze_44:22por mujer...viuda que fuere viuda de sH3548
+- Eze_44:30y toda ofrenda de todo...será de los sH3548
+- Eze_44:30asimismo daréis al s las primicias deH3548
+- Eze_44:31ninguna cosa mortecina...comerán los sH3548
+- Eze_45:4lo consagrado de esta...será para los sH3548
+- Eze_45:19s tomará de la sangre de la expiaciónH3548
+- Eze_46:2estará en pie...mientras los s ofrezcanH3548
+- Eze_46:19trajo...a las cámaras santas de los sH3548
+- Eze_46:20donde los s cocerán la ofrenda por elH3548
+- Eze_48:10porción santa que pertenecerá a los sH3548
+- Eze_48:11los s santificados...guardaron fidelidadH3548
+- Eze_48:13al lado de los límites de la de los sH3548
+- Ose_4:4tu pueblo es como los que resisten al sH3548
+- Ose_4:9y será el pueblo como el s; le castigaréH3548
+- Ose_5:1s, oíd esto, y estad atentos, casa deH3548
+- Ose_6:9una compañía de s mata en el camino haciaH3548
+- Ose_10:5s que en él se regocijaban por su gloriaH3549
+- Joe_1:9s ministros de Jehová están de dueloH3548
+- Joe_1:13ceñíos y lamentad, s; gemid, ministrosH3548
+- Joe_2:17altar lloren los s ministros de JehováH3548
+- Amó_7:10el s Amasías de Bet-el envió a decirH3548
+- Miq_3:11s enseñan por precio, y sus profetasH3548
+- Sof_1:4de los ministros idólatras con sus sH3548
+- Sof_3:4s contaminaron el santuario, falsearon laH3548
+- Hag_1:1vino...a Josué hijo de Josadac, sumo sH3548
+- Hag_1:12oyó...Josué...sumo s, y todo el resto delH3548
+- Hag_1:14despertó...espíritu de Josué hijo...sumo sH3548
+- Hag_2:2habla...y a Josué hijo de Josadac, sumo sH3548
+- Hag_2:4esfuérzate...Josué hijo de Josadac, sumo sH3548
+- Hag_2:11pregunta ahora a los s acerca de la leyH3548
+- Hag_2:12si...Y respondieron los s y dijeron: NoH3548
+- Hag_2:13respondieron los s, y dijeron: InmundaH3548
+- Zac_3:1me mostró el sumo s Josué, el cualH3548
+- Zac_3:8escucha...Josué sumo s, tú y tus amigosH3548
+- Zac_6:11pondrás en la cabeza del sumo s JosuéH3548
+- Zac_6:13y habrá s a su lado; y consejo de pazH3548
+- Zac_7:3a hablar a los s que estaban en la casaH3548
+- Zac_7:5a los s, diciendo: Cuando ayunasteis yH3548
+- Mal_1:6dice Jehová de los...a vosotros, oh sH3548
+- Mal_2:1oh s, para vosotros es este mandamientoH3548
+- Mal_2:7porque los labios del s han de guardarH3548
+- Mat_2:4y convocados todos los principales sG749
+- Mat_8:4ve, muéstrate al s, y presenta la ofrendaG2409
+- Mat_12:4no les era lícito...solamente a los s?[[G2409]]
+- Mat_12:5los s en el templo profanan el día deG2409
+- Mat_16:21y padecer mucho de...los principales sG749
+- Mat_20:18será entregado a los principales s y aG749
+- Mat_21:15pero los principales s y los escribasG749
+- Mat_21:23los principales s y...se acercaron a élG749
+- Mat_21:45los...s y los fariseos, entendieron queG749
+- Mat_26:3los...s, los escribas, y...se reunieron enG749
+- Mat_26:3en el patio del sumo s llamado CaifásG749
+- Mat_26:14llamaba Judas...fue a los principales sG749
+- Mat_26:47de parte de los principales s y de losG749
+- Mat_26:51e hiriendo a un siervo del sumo s, leG749
+- Mat_26:57a Jesús le llevaron al sumo s CaifásG749
+- Mat_26:58le seguía...hasta el patio del sumo sG749
+- Mat_26:59y los principales s...falso testimonioG749
+- Mat_26:62el sumo s, le dijo: ¿No respondes nada?[[G749]]
+- Mat_26:63sumo s le dijo: Te conjuro por el DiosG749
+- Mat_26:65sumo s rasgó sus vestiduras, diciendoG749
+- Mat_27:1los principales s...entraron en consejoG749
+- Mat_27:3las treinta piezas de plata a los...s yG749
+- Mat_27:6s, tomando las piezas de plata, dijeronG749
+- Mat_27:12y siendo acusado por los principales sG749
+- Mat_27:20los...s y los ancianos persuadieron a laG749
+- Mat_27:41los principales s, escarneciéndole conG749
+- Mat_27:62se reunieron los...s y los fariseos anteG749
+- Mat_28:11y dieron aviso a los principales s deG749
+- Mar_1:44sino vé, muéstrate al s, y ofrece porG2409
+- Mar_2:26cómo entró en la...siendo Abiatar sumo sG2409
+- Mar_2:26no es lícito comer sino a los s, y aunG749
+- Mar_8:31ser desechado...por los principales s yG749
+- Mar_10:33entregado a los principales s y a losG749
+- Mar_11:18oyeron los escribas y los principales sG749
+- Mar_11:27templo, vinieron a él los principales sG749
+- Mar_14:1buscaban los...s y...prenderle por engañoG749
+- Mar_14:10Judas...fue a los...s para entregárseloG749
+- Mar_14:43con él mucha gente...de parte de los...sG749
+- Mar_14:47hirió al siervo del sumo s, cortándoleG749
+- Mar_14:53trajeron, pues, a Jesús al sumo s; y seG749
+- Mar_14:53reunieron todos los principales s y losG749
+- Mar_14:54lejos hasta dentro del patio del sumo sG749
+- Mar_14:55s y...buscaban testimonio contra JesúsG749
+- Mar_14:60sumo s, levantándose...preguntó a JesúsG749
+- Mar_14:61sumo s le volvió a preguntar, y le dijoG749
+- Mar_14:63sumo s, rasgando su vestidura, dijoG749
+- Mar_14:66vino una de las criadas del sumo sG749
+- Mar_15:1tenido consejo los principales s con losG749
+- Mar_15:3y los principales s le acusaban muchoG749
+- Mar_15:10por envidia le habían entregado los...sG749
+- Mar_15:11los...s incitaron a la multitud para queG749
+- Mar_15:31principales s, escarneciendo, se decíanG749
+- Luc_1:5un s llamado Zacarías, de la clase deG2409
+- Luc_3:2y siendo...s Anás y Caifás, vino palabraG749
+- Luc_5:14dijo, muéstrate al s, y ofrece por tuG2409
+- Luc_6:4no es lícito comer sino sólo a los s, yG2409
+- Luc_9:22sea desechado por...los principales s yG749
+- Luc_10:31que descendió un s por aquel caminoG2409
+- Luc_17:14los vio, les dijo: Id, mostraos a los sG2409
+- Luc_19:47los principales s...procuraban matarleG749
+- Luc_20:1llegaron los principales s y...escribasG749
+- Luc_20:19procuraban...s y los escribas echarleG749
+- Luc_22:2principales s y...buscaban cómo matarleG749
+- Luc_22:4éste fue y habló con los principales sG749
+- Luc_22:50de ellos hirió a un siervo del sumo sG749
+- Luc_22:52Jesús dijo a los...s, a los jefes de laG749
+- Luc_22:54condujeron a casa del sumo s...Y PedroG749
+- Luc_22:66se juntaron...los principales s y losG749
+- Luc_23:4y Pilato dijo a los principales s, y aG749
+- Luc_23:10s y los escribas acusándole con granG749
+- Luc_23:13Pilato, convocando a los principales sG749
+- Luc_23:23las voces de...de los...s prevalecieronG749
+- Luc_24:20y cómo le entregaron los principales sG749
+- Jua_1:19los judíos enviaron...s y levitas paraG2409
+- Jua_7:32los principales s...enviaron alguacilesG749
+- Jua_7:45alguaciles vinieron a los principales sG749
+- Jua_11:47s y los fariseos reunieron el concilioG749
+- Jua_11:49Caifás, uno de ellos, sumo s aquel añoG749
+- Jua_11:51como era el sumo s aquel año, profetizóG749
+- Jua_11:57s y los fariseos habían dado orden deG749
+- Jua_12:10los principales s acordaron dar muerteG749
+- Jua_18:3compañía de soldados, y alguaciles de...sG749
+- Jua_18:10hirió al siervo del sumo s, y le cortóG749
+- Jua_18:13suegro de Caifás, que era sumo s aquelG749
+- Jua_18:15este discípulo era conocido del sumo sG749
+- Jua_18:15y entró con Jesús al patio del sumo sG749
+- Jua_18:16salió, pues, el...era conocido del sumo sG749
+- Jua_18:19el sumo s preguntó a Jesús acerca de susG749
+- Jua_18:22diciendo: ¿Así respondes al sumo s?[[G749]]
+- Jua_18:24Anás...le envió atado a Caifás, el sumo sG749
+- Jua_18:26de los siervos del sumo s...¿No te vi yoG749
+- Jua_18:35y los principales s, te han entregado aG749
+- Jua_19:6cuando le vieron los...s y los alguacilesG749
+- Jua_19:15respondieron los...s: No tenemos más reyG749
+- Jua_19:21dijeron a Pilato los principales s de losG749
+- Hec_4:1vinieron...s con el jefe de la guardiaG2409
+- Hec_4:6sumo s Anás, y Caifás y Juan y AlejandroG749
+- Hec_4:6los que eran de la familia de los sumos sG749
+- Hec_4:23contaron todo lo que los principales sG749
+- Hec_5:17levantándose el sumo s y todos los queG749
+- Hec_5:21vinieron el sumo s y los...y convocaronG749
+- Hec_5:24oyeron...el sumo s...y los principales sG749
+- Hec_5:27los trajeron...y el sumo s les preguntóG2409
+- Hec_6:7también muchos de los s obedecían a laG2409
+- Hec_7:1el sumo s dijo entonces: ¿Es esto así?[[G749]]
+- Hec_9:1respirando aún amenazas...vino al sumo sG749
+- Hec_9:14aquí tiene autoridad de los principales sG749
+- Hec_9:21acá, para llevarlos presos ante los...s?[[G749]]
+- Hec_14:13s de Júpiter...trajo toros y guirnaldasG2409
+- Hec_19:14hijos de un tal Esceva...jefe de los sG749
+- Hec_22:5el sumo s...me es testigo, y todos losG749
+- Hec_22:30mandó venir a los principales s y a todoG749
+- Hec_23:2el sumo s Ananías ordenó...le golpeasenG749
+- Hec_23:4dijeron: ¿Al sumo s de Dios injurias?[[G749]]
+- Hec_23:5no sabía, hermanos, que era el sumo sG749
+- Hec_23:14los cuales fueron a los principales sG749
+- Hec_24:1descendió el sumo s Ananías con algunosG749
+- Hec_25:2s y los más influyentes de los judíos seG749
+- Hec_25:15se me presentaron los principales s yG749
+- Hec_26:10recibido poderes de los principales sG749
+- Hec_26:12iba yo...en comisión de los principales sG749
+- Heb_2:17a ser misericordioso y fiel sumo s enG749
+- Heb_3:1tanto...considerad al apóstol y sumo s deG749
+- Heb_4:14teniendo un gran sumo s que traspasó losG749
+- Heb_4:15un sumo s que no pueda compadecerse deG749
+- Heb_5:1todo sumo s tomado de entre los hombresG749
+- Heb_5:5a sí mismo haciéndose sumo s, sino el queG749
+- Heb_5:6tú eres s para siempre, según el orden deG2409
+- Heb_5:10fue declarado por Dios sumo s según elG749
+- Heb_6:20Jesús entró por nosotros...hecho sumo sG749
+- Heb_7:1Melquisedec, rey de...s del Dios AltísimoG2409
+- Heb_7:3hecho semejante al Hijo de...permanece sG2409
+- Heb_7:11se levantase otro s, según el orden deG2409
+- Heb_7:15a semejanza de...se levanta un s distintoG2409
+- Heb_7:17, Heb_7:21eres s para siempre, según el ordenG2409
+- Heb_7:21los otros...sin juramento fueron hechos sG2409
+- Heb_7:23otros s llegaron a ser muchos, debido aG2409
+- Heb_7:26porque tal sumo s nos convenía...santoG749
+- Heb_7:27tiene necesidad...como aquellos sumos sG749
+- Heb_7:28les constituye sumos s a débiles hombresG749
+- Heb_8:1que tenemos tal sumo s, el cual se sentó aG749
+- Heb_8:3porque todo sumo s está constituido paraG749
+- Heb_8:4ni siquiera sería s, habiendo aún s queG2409
+- Heb_9:6entran los s...para cumplir los oficiosG2409
+- Heb_9:7el sumo s una vez al año, no sin sangreG749
+- Heb_9:11pero estando ya presente Cristo, sumo sG749
+- Heb_9:25entra el sumo s en el Lugar SantísimoG749
+- Heb_10:11todo s está día tras día ministrandoG2409
+- Heb_10:21y teniendo un gran s sobre la casa deG2409
+- Heb_13:11sangre...es introducida...por el sumo sG749
+- Rev_1:6nos hizo reyes y s para Dios, su PadreG2409
+- Rev_5:10has hecho para nuestro Dios reyes y sG2409
+- Rev_20:6serán s de Dios y de Cristo, y reinaránG2409

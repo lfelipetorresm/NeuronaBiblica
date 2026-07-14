@@ -1,0 +1,115 @@
+---
+tipo: concordancia
+palabra: DESCUBRIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DESCUBRIR
+
+- Gén_1:9dijo también Dios...descúbrase lo secoH7200
+- Gén_8:5se descubrieron las cimas de los montesH7200
+- Gén_9:21estaba descubierto en medio de su tiendaH1540
+- Gén_30:37descubriéndose...lo blanco de las varasH4286
+- Gén_36:24Aná es el que descubrió manantiales enH4672
+- Éxo_2:14ciertamente esto ha sido descubiertoH3045
+- Éxo_20:26que tu desnudez se descubra junto a miH1540
+- Lev_10:6dijo...No descubráis vuestras cabezasH6544
+- Lev_13:10y se descubre asimismo la carne vivaH7613
+- Lev_13:45leproso...llevará...su cabeza descubiertaH6544
+- Lev_18:6se llegue a...para descubrir su desnudezH6172
+- Lev_18:7la desnudez de tu madre, no descubrirásH6172
+- Lev_18:7tu madre es, no descubrirás su desnudezH6172
+- Lev_18:8la desnudez de la mujer...no descubrirásH1540
+- Lev_18:9tu hermana...su desnudez no descubrirásH1540
+- Lev_18:10la hija de...su desnudez no descubrirásH1540
+- Lev_18:11hermana es; su desnudez no descubrirásH1540
+- Lev_18:12la hermana de tu padre no descubrirásH1540
+- Lev_18:13la hermana de tu madre no descubrirásH1540
+- Lev_18:14del hermano de tu padre no descubrirásH1540
+- Lev_18:15la desnudez de tu nuera no descubrirásH1540
+- Lev_18:15mujer es de...no descubrirás su desnudezH1540
+- Lev_18:16la mujer de tu hermano no descubrirásH1540
+- Lev_18:17de la mujer y de su hija no descubrirásH1540
+- Lev_18:17de su hija, para descubrir su desnudezH1540
+- Lev_18:18descubriendo su desnudez delante de ellaH1540
+- Lev_18:19descubrir su desnudez mientras esté enH1540
+- Lev_20:11desnudez de su padre descubrió; ambosH1540
+- Lev_20:17descubrió la desnudez de su hermana; suH1540
+- Lev_20:18durmiera con...descubriera su desnudezH1540
+- Lev_20:18su fuente descubrió, y ella d la fuenteH1540
+- Lev_20:19no descubrirás; porque al descubrir laH1540
+- Lev_20:20la desnudez del hermano de...descubrióH1540
+- Lev_20:21desnudez de su hermano descubrió; sinH1540
+- Lev_21:10sumo sacerdote...no descubrirá su cabezaH6544
+- Núm_5:18y descubrirá la cabeza de la mujer, yH6544
+- Deu_22:28y se acostare...y fueran descubiertosH4672
+- Deu_27:20cuanto descubrió el regazo de su padreH1540
+- Jue_14:9mas no les descubrió que había tomadoH5046
+- Jue_14:18nunca hubierais descubierto mi enigmaH4672
+- Jue_16:10, Jue_16:13descúbreme...cómo podrás ser atadoH5046
+- Jue_16:15no me has descubierto...en qué consisteH5046
+- Jue_16:17le descubrió, pues todo su corazón, yH5046
+- Jue_16:18le había descubierto todo su corazónH5046
+- Jue_16:18él me ha descubierto todo su corazónH5046
+- Rut_3:4descubrirás sus pies, y te acostarásH1540
+- Rut_3:7ella...le descubrió los pies y se acostóH1540
+- 1Sa_3:15Samuel temía descubrir la visión aH5046
+- 1Sa_9:19descubriré...lo que está en tu corazónH5046
+- 1Sa_10:16asunto del reino...no le descubrió nadaH5046
+- 1Sa_20:2ninguna cosa hará...que no me la descubraH1540
+- 1Sa_22:8no haya quien me descubra al oído cómoH1540
+- 1Sa_22:8me descubra cómo mi hijo ha levantadoH1540
+- 1Sa_22:17sabiendo...huía, no me lo descubrieronH1540
+- 2Sa_6:20descubriéndose...como se descubre sinH1540
+- 2Sa_13:4¿no me lo descubrirás a mí? Y Amnón leH5046
+- 2Re_17:4rey...descubrió que Oseas conspirabaH4672
+- Job_11:7¿descubrirás tú los secretos de Dios?[[H4672]]
+- Job_12:22él descubre las profundidades de lasH1540
+- Job_20:27los cielos descubrirán su iniquidadH1540
+- Job_26:6el Seol está descubierto delante de élH6174
+- Job_28:27él...la preparó y la descubrió tambiénH2713
+- Job_38:17¿te han sido descubiertas las puertasH1540
+- Job_41:13¿quién descubrirá la...de su vestidura?[[H1540]]
+- Sal_98:2a vista...ha descubierto su justiciaH1540
+- Pro_11:13anda en chismes descubre el secretoH1540
+- Pro_18:2el necio...en que su corazón se descubraH1540
+- Pro_18:17pero viene su adversario, y le descubreH2713
+- Pro_20:19que anda en chismes descubre el secretoH1540
+- Pro_25:9causa...y no descubras el secreto a otroH1540
+- Pro_26:26su odio se...su maldad será descubiertaH1540
+- Isa_3:17y Jehová descubrirá sus vergüenzasH6168
+- Isa_26:21tierra descubrirá la sangre derramadaH1540
+- Isa_47:2descubre tus guedejas...d las piernasH1540
+- Isa_47:3tu vergüenza descubierta, y tu deshonraH1540
+- Isa_57:8porque a otro, y no a mí, te descubristeH1540
+- Jer_2:26avergüenza el ladrón...es descubiertoH4672
+- Jer_13:22por...de tu maldad fueron descubiertasH1540
+- Jer_13:26descubriré también tus faldas delanteH2834
+- Jer_49:10yo...descubriré sus escondrijos, y noH1540
+- Lam_2:14no descubrieron tu pecado para impedirH1540
+- Lam_4:22castigará...Edom, descubrirá tus pecadosH1540
+- Eze_13:14será descubierto su cimiento, y caeráH1540
+- Eze_16:36han sido descubiertas tus desnudecesH1540
+- Eze_16:37y les descubriré tu desnudez, y ellosH1540
+- Eze_16:57antes que tu maldad fuese descubiertaH1540
+- Eze_21:24descubriendo vuestros pecados en todasH1540
+- Eze_22:10la desnudez del padre descubrieron enH1540
+- Eze_23:10descubrieron su desnudez, tomaron susH1540
+- Eze_23:18descubrió sus desnudeces, por lo cualH1540
+- Eze_23:29y se descubrirá la inmundicia de tusH1540
+- Ose_2:10descubriré yo su locura delante de losH1540
+- Ose_7:1se descubrió la iniquidad de Efraín, yH1540
+- Miq_1:6de Samaria...y descubriré sus cimientosH1540
+- Nah_3:5y descubriré tus faldas en tu rostroH1540
+- Hab_2:16bebe...y serás descubierto; el cálizH6188
+- Hab_3:9se descubrirá enteramente tu arco; losH5783, [[H6181]]
+- Hab_3:13descubriendo el cimiento hasta la rocaH6168
+- Sof_2:14su enmaderamiento...será descubiertoH6168
+- Mat_12:16les encargaba...que no le descubriesenG5318
+- Mat_26:73aun tu manera de hablar te descubreG1212
+- Mar_2:4descubrieron el techo de donde estabaG648
+- Mar_3:12reprendía...para que no le descubriesenG5318
+- Luc_12:2encubierto...que no haya de descubrirseG601
+- 1Ti_5:24mas a otros se les descubren después
+- Rev_3:18que no se descubra la vergüenza de tuG5319

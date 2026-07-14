@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: RICO,A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RICO,A
+
+- Éxo_30:15ni el r aumentará...pobre disminuiráH6223
+- Deu_33:14del sol, con el r producto de la lunaH4022
+- Rut_2:1tenía Noemí un pariente de su...hombre rH2428
+- Rut_3:10en busca de los jóvenes, sean pobres o rH6223
+- 1Sa_25:2era muy r, y tenía tres mil ovejas yH1419
+- 2Sa_12:1dos hombres en una ciudad, el uno rH6223
+- 2Sa_12:2el r tenía numerosas ovejas y vacasH6223
+- 2Sa_12:4vino uno de camino al hombre r; y ésteH6223
+- 2Sa_19:32era Barzilai muy anciano...hombre muy rH1419
+- 2Cr_32:23trajeron a...r presentes a Ezequías
+- Job_27:19r se acuesta, pero por última vezH6223
+- Job_34:19hace...ni respeta más al r que al pobreH7771
+- Sal_45:12implorarán tu favor los r del puebloH6223
+- Sal_49:2los nobles, el r y el pobre juntamenteH6223
+- Pro_10:15las riquezas del r son su ciudadH6223
+- Pro_13:7hay quienes pretenden ser r, y no tienenH6238
+- Pro_14:20pobre es...muchos son los que aman al rH6223
+- Pro_18:11las riquezas del r son su...como un muroH6223
+- Pro_18:23con ruegos, mas el r responde durezasH6223
+- Pro_22:2el r y el pobre se encuentran; a ambosH6223
+- Pro_22:7el r se enseñorea de los pobres, y el queH6223
+- Pro_22:16que da al r, ciertamente se empobreceráH6223
+- Pro_23:4no te afanes por hacerte r; sé prudenteH6238
+- Pro_28:6mejor...que el de perversos caminos y rH6223
+- Pro_28:11hombre r es sabio en su propia opiniónH6223
+- Pro_28:22se apresura a ser r el avaro, y no sabeH1952
+- Ecl_5:12al r no le deja dormir la abundanciaH6223
+- Ecl_10:6los r están sentados en lugar bajoH6223
+- Ecl_10:20ni en lo secreto de tu...digas mal del rH6223
+- Isa_5:17devorarán los campos desolados de...rH4220
+- Isa_53:9mas con los r fue en su muerte; aunqueH6223
+- Jer_3:19os daré...r heredad de las naciones?[[H6643]]
+- Jer_5:27de engaño; así se hicieron grandes y rH6223
+- Jer_9:23sabio...ni el r se alabe en sus riquezasH6223
+- Jer_51:13la que moras entre aguas...r en tesorosH7277
+- Miq_6:12sus r se colmaron de rapiña, y susH6223
+- Mat_19:23difícilmente entrará un r en el reinoG4145
+- Mat_19:24ojo...que entrar un r en el reino de DiosG4145
+- Mat_27:57vino un hombre r de Arimatea, llamadoG4145
+- Mar_10:25que entrar un r en el reino de DiosG4145
+- Mar_12:41miraba cómo...muchos r echaban muchoG4145
+- Luc_1:53colmó de bienes...a los r envió vacíosG4147
+- Luc_6:24mas ¡ay de vosotros, r! porque ya tenéisG4145
+- Luc_12:16la heredad de...r había producido muchoG4145
+- Luc_12:21hace...tesoro, y no es r para con DiosG4145
+- Luc_16:1había un hombre r que tenía un mayordomoG4145
+- Luc_16:19un hombre r, que se vestía de púrpuraG4145
+- Luc_16:21las migajas que caían de la mesa del rG4145
+- Luc_16:22y murió también el r, y fue sepultadoG4145
+- Luc_18:23se puso muy triste, porque era muy rG4145
+- Luc_18:25ojo...que entrar un r en el reino de DiosG4145
+- Luc_19:2Zaqueo...era jefe de los publicanos, y rG4145
+- Luc_21:1vio a los r que echaban sus ofrendas enG4145
+- Rom_10:12r para con todos los que le invocanG4145
+- Rom_11:17participante...de la r savia del olivoG4096
+- 1Co_4:8ya estáis saciados, ya estáis r, sinG4145
+- 2Co_8:9por amor a...se hizo pobre, siendo rG4145
+- Efe_2:4Dios, que es r en misericordia, por suG4145
+- 1Ti_6:17a los r...manda que no sean altivosG4145
+- 1Ti_6:18hagan bien, que sean r en buenas obrasG4145
+- Stg_1:10pero el que es r, en su humillaciónG4145
+- Stg_1:11también se marchitará el r en todas susG4145
+- Stg_2:5Dios a los pobres...para que sean r en feG4145
+- Stg_2:6¿no os oprimen los r, y no son ellos losG4145
+- Stg_5:1¡vamos ahora, r! Llorad y aullad por lasG4145
+- Rev_2:9yo conozco...tu pobreza (pero tú eres r)[[G4145]]
+- Rev_3:17tú dices: Yo soy r, y me he enriquecidoG4145
+- Rev_3:18que de mí compres oro...para que seas rG4145
+- Rev_6:15los r, los capitanes...se escondieron enG4145
+- Rev_13:16r y pobres...se les pusiese una marca enG4145

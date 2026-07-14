@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: DISPONER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DISPONER
+
+- Lev_7:24se dispondrá para cualquier otro usoH6213
+- Lev_24:3dispondrá Aarón desde la tarde hasta laH6186
+- Núm_32:20Si os disponéis para ir delante deH2502
+- Jos_8:4emboscada...estaréis todos dispuestosH3559
+- Jos_8:13dispusieron al pueblo...y Josué avanzóH7760
+- 1Sa_11:11dispuso Saúl al...en tres compañíasH7760
+- 1Re_20:12dijo a...Disponeos...se dispusieronH7760
+- 1Cr_12:33dispuestos a pelear sin doblez deH5737
+- 1Cr_12:35de Dan, dispuestos a pelear, 28.600H6186
+- 1Cr_12:36de Aser, dispuestos para la guerra yH6186
+- 1Cr_12:38dispuestos para guerrear, vinieron conH5737
+- 1Cr_17:9he dispuesto lugar para mi pueblo IsraelH7760
+- 1Cr_19:10ataque...había sido dispuesto contra élH6440
+- 2Cr_2:7con los maestros...dispuso mi padreH3559
+- 2Cr_12:14no dispuso su corazón para buscar aH3559
+- 2Cr_17:18y con él 180.000 dispuestos para laH2502
+- 2Cr_19:3has dispuesto tu corazón para buscar aH3559
+- Est_5:5vino...al banquete que Ester dispusoH6213
+- Est_5:12al banquete que ella dispuso...sino a miH6213
+- Est_6:14al banquete que Ester había dispuestoH6213
+- Job_8:8y disponte para inquirir a los padresH3559
+- Job_11:13dispusieres tu corazón, y extendieresH3559
+- Job_15:24como un rey dispuesto para la batallaH6264
+- Job_31:15no nos dispuso uno mismo en la matriz?[[H6213]]
+- Job_38:33¿dispondrás tú de su potestad en laH7760
+- Sal_9:7ha dispuesto su trono para juicioH3559
+- Sal_10:17dispones su corazón, y haces atento tuH3559
+- Sal_11:2arco, disponen sus saetas sobre la cuerdaH3559
+- Sal_21:12dispondrás saetas contra sus rostrosH3559
+- Sal_57:7oh Dios, mi corazón está dispuestoH3559
+- Sal_65:9preparas el grano de...así la disponesH3559
+- Sal_78:8generación que no dispuso su corazónH3559
+- Sal_78:20pan? ¿Dispondrá carne para su pueblo?[[H3559]]
+- Sal_78:50dispuso camino a su furor; no eximióH6424
+- Sal_108:1mi corazón está dispuesto...oh DiosH3559
+- Sal_132:17he dispuesto lámpara a mi ungidoH6186
+- Pro_24:27prepara...y dispónlas en tus camposH6257
+- Ecl_8:11corazón...dispuesto para hacer el malH4390
+- Isa_8:9oíd...disponeos y seréis quebrantadosH247
+- Isa_9:7disponiéndolo...en juicio y en justiciaH5582
+- Isa_16:5se dispondrá el trono en misericordiaH3559
+- Isa_30:33Tofet ya de tiempo está dispuesto yH6186
+- Isa_53:9se dispuso con los impíos su sepulturaH5414
+- Jer_6:23dispuestos para la guerra, contra tiH6186
+- Jer_18:11que yo dispongo mal contra vosotros, yH3335
+- Jer_51:12poned centinelas, disponed celadasH3559
+- Eze_21:15ah! dispuesta está para que relumbreH6213
+- Eze_40:43ganchos, de un...dispuestos en derredorH3559
+- Eze_45:17él dispondrá la expiación, la ofrendaH6213
+- Dan_3:15dispuestos para que al oír el son deH6263
+- Dan_10:12el primer día que dispusiste tu corazónH5414
+- Ose_6:3como el alba está dispuesta su salidaH3559
+- Joe_2:5como pueblo fuerte dispuesto para laH6186
+- Sof_1:7Jehová...ha dispuesto a sus convidadosH3559
+- Mat_22:4todo está dispuesto; venid a las bodasG2092
+- Mat_26:41el espíritu a la verdad está dispuestoG4289
+- Mar_14:15un gran aposento alto ya dispuestoG2092
+- Mar_14:38el espíritu a la verdad está dispuestoG4289
+- Luc_1:17preparar...un pueblo bien dispuestoG2680
+- Luc_22:12mostrará un gran aposento ya dispuestoG4766
+- Luc_22:33dispuesto estoy a ir contigo no sóloG2092
+- Hec_15:2dispuso que subiesen Pablo y BernabéG5021
+- Hec_21:13estoy dispuesto no sólo a ser atadoG2093
+- 2Co_8:12primero hay la voluntad dispuestaG2309
+- 2Co_10:2que estoy dispuesto a proceder contraG3049
+- 2Ti_2:21y dispuesto para toda buena obraG2090
+- Tit_3:1que estén dispuestos a toda buena obraG2092
+- Heb_9:2el tabernáculo estaba dispuesto así: enG2680
+- Rev_8:6siete ángeles dispusieron...a tocarlasG2090
+- Rev_21:2Jerusalén...dispuesta como una esposaG2090

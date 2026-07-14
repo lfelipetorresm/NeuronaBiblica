@@ -1,0 +1,95 @@
+---
+tipo: concordancia
+palabra: TARDE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TARDE
+
+- Gén_1:5Noche. Y fue la t y la mañana un díaH6153
+- Gén_1:8y fue la t y la mañana el día segundoH6153
+- Gén_1:13y fue la t y la mañana el día terceroH6153
+- Gén_1:19y fue la t y la mañana el día cuartoH6153
+- Gén_1:23y fue la t y la mañana el día quintoH6153
+- Gén_1:31y fue la t y la mañana el día sextoH6153
+- Gén_8:11paloma volvió a él y a la hora de la tH6153
+- Gén_19:1dos ángeles a Sodoma a la caída de la tH6153
+- Gén_24:11la hora de la t, la hora en que salenH6153
+- Gén_24:63había salido Isaac...a la hora de la tH6256, [[H6153]]
+- Gén_30:16Jacob volvía del campo a la t, salióH6153
+- Gén_49:27presa, y a la t repartirá los despojosH6153
+- Éxo_12:6la inmolará...Israel entre las dos tH6153
+- Éxo_12:18día 14...por la t hasta el 21...por la tH6153
+- Éxo_16:6en la t sabréis que Jehová os ha sacadoH6153
+- Éxo_16:8Jehová os dará en la t carne para comerH6153
+- Éxo_16:12al caer la t comeréis carne, y por laH6153
+- Éxo_16:13venida la t, subieron codornices queH6153
+- Éxo_18:13delante de Moisés desde la...hasta la tH6153
+- Éxo_18:14el pueblo...desde la mañana hasta la t?[[H6153]]
+- Éxo_27:21que ardan...desde la t hasta la mañanaH6153
+- Éxo_29:39el otro...ofrecerás a la caída de la tH6153
+- Éxo_29:41ofrecerás...cordero a la caída de la tH6153
+- Lev_6:20la mitad a la mañana y la mitad a la tH6153
+- Lev_23:5entre las dos t, pascua es de JehováH6153
+- Lev_23:32comenzando a los nueve días...en la tH6153
+- Lev_23:32día...de t a t guardaréis vuestro reposoH6153
+- Lev_24:3dispondrá...desde la t hasta la mañanaH6153
+- Núm_9:3entre las dos t, la celebraréis a suH6153
+- Núm_9:5celebraron la pascua en...entre las dos tH6153
+- Núm_9:11el mes...entre las dos t, la celebraránH6153
+- Núm_9:15a la t había...una apariencia de fuegoH6153
+- Núm_9:21la nube se detenía desde la t hasta laH6153
+- Núm_28:4un cordero ofrecerás a la caída de la tH6153
+- Núm_28:8el segundo cordero a la caída de la tH6153
+- Deu_16:4y de la carne que matares en la t delH6153
+- Deu_16:6la pascua por la t a la puesta del solH6153
+- Deu_28:67dirás: ¡Quién diera que fuese la t! yH6153
+- Deu_28:67y a la t dirás: ¡Quién diera que fueseH6153
+- Jos_5:10pascua a los catorce días...por la tH6153
+- Jos_7:6Josué. se postró...hasta caer la t, él yH6153
+- 1Sa_17:16filisteo por la mañana y por la t, yH6150
+- 1Sa_20:5que me esconda en el campo hasta la tH6153
+- 1Sa_30:17los hirió...hasta la t del día siguienteH6153
+- 2Sa_11:2sucedió...al caer la t, que se levantóH6256, [[H6153]]
+- 2Sa_11:13y él salió a la t a dormir en su camaH6153
+- 1Re_17:6y pan y carne por la t; y bebía delH6153
+- 1Re_22:35el rey estuvo en su carro...a la t murióH6153
+- 2Re_16:15en el gran altar...la ofrenda de la tH6153
+- 1Cr_16:40para que sacrificasen...mañana y tH6153
+- 1Cr_23:30días a dar gracias...asimismo por la tH6153
+- 2Cr_2:4y para holocaustos a mañana y t, enH6153
+- 2Cr_13:11queman...los holocaustos cada mañana...tH6153
+- 2Cr_13:11con sus lámparas para que ardan cada tH6153
+- 2Cr_18:34el rey...en pie en el carro...hasta la tH6153
+- 2Cr_31:3rey...para los holocaustos a mañana y tH6153
+- Esd_3:3holocaustos por la mañana y por la tH6153
+- Esd_9:4yo...hasta la hora del sacrificio de la tH6153
+- Esd_9:5la hora del sacrificio de la t me levantéH6153
+- Est_2:14ella venía por la t, y a la mañanaH6153
+- Job_4:20de la mañana a la t son destruidosH6153
+- Sal_55:17t y mañana y a mediodía oraré yH6153
+- Sal_59:6volverán a la t, ladrarán como perrosH6153
+- Sal_59:14vuelvan...a la t, y ladren como perrosH6153
+- Sal_65:8tú haces alegrar las salidas...de la tH6153
+- Sal_90:6y crece; a la t es cortada, y se secaH6153
+- Sal_104:23el hombre...a su labranza hasta la tH6153
+- Sal_127:2por demás es que...vayáis t a reposarH309
+- Sal_141:2de mis manos como la ofrenda de la tH6153
+- Pro_7:9la t del día, cuando ya oscurecía, enH6153
+- Pro_11:21t o temprano, el malo será castigado
+- Ecl_11:6la t no dejes reposar tu mano; porqueH6153
+- Isa_17:14tiempo de la t, he aquí la turbaciónH6256, [[H6153]]
+- Jer_6:4las sombras de la t se han extendidoH6153
+- Eze_12:4tú saldrás por la t a vista de ellosH6153
+- Eze_12:7a la t me abrí paso por entre la paredH6153
+- Eze_24:18por la mañana, y a la t murió mi mujerH6153
+- Eze_33:22la mano de Jehová...sobre mí la t antesH6153
+- Eze_46:2pero no se cerrará la puerta hasta la tH6153
+- Dan_8:14dijo: Hasta 2.300 t y mañanas; luego
+- Dan_8:26la visión de las t y mañanas que se haH6153
+- Dan_9:21vino...a la hora del sacrificio de la tH6153
+- Zac_14:7sucederá que al caer la t habrá luzH6153
+- Luc_24:29quédate...porque se hace t, y el díaG2073
+- Hec_4:3la cárcel hasta el día...porque era ya tG2073
+- Hec_28:23les testificaba el reino de...hasta la tG2073

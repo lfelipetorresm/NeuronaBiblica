@@ -1,0 +1,114 @@
+---
+tipo: concordancia
+palabra: RODEAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RODEAR
+
+- Gén_2:11el que rodea toda la tierra de HavilaH5437
+- Gén_2:13es el que rodea toda la tierra de CusH5437
+- Gén_19:4rodearon la casa los nombres de...SodomaH5437
+- Éxo_13:18el pueblo rodease por el camino del
+- Núm_21:4partieron...rodear la tierra de EdomH5437
+- Núm_34:4este límite os irá rodeando desde el surH5437
+- Núm_34:5rodeará este límite desde Asmón hasta elH5437
+- Deu_2:1rodeamos el monte de Seir por...tiempoH5437
+- Deu_2:3habéis rodeado...monte; volveos al norteH5437
+- Jos_6:3rodearéis...la ciudad todos los hombresH5437
+- Jos_6:7dijo al pueblo: Pasad, y rodead la ciudadH5437
+- Jos_7:9nos rodearán, y borrarán nuestro nombreH5921
+- Jos_15:9y rodea este límite desde la cumbre delH8388
+- Jos_15:9límite...rodeando luego a Baala, que esH8388
+- Jos_15:11rodea a Sicrón, y pasa por el monte deH8388
+- Jos_19:13pasando de allí...a Rimón rodeando a Nea
+- Jue_11:18rodeó la tierra de Edom y..de MoabH5437
+- Jue_16:2y lo rodearon, y acecharon toda...nocheH5437
+- Jue_19:22hombres...rodearon la casa, golpeando aH5437
+- Jue_20:5rodearon contra mí la casa por la nocheH5437
+- 2Sa_5:23no subas, sino rodéalos, y vendrás aH5437
+- 2Sa_18:15de Joab rodearon e hirieron a AbsalónH5437
+- 2Sa_22:5me rodearon ondas de muerte, y torrentesH661
+- 2Sa_22:6ligaduras del Seol me rodearon...muerteH5437
+- 1Re_5:3por las guerras que le rodearon, hasta
+- 1Re_7:15y rodeaba a una y otra un hilo de doceH5437
+- 1Re_7:20globo, el cual estaba rodeado por la redH5439
+- 1Re_7:24rodeaban aquel mar...unas bolas comoH5439
+- 2Re_3:9anduvieron rodeando por el desiertoH5437
+- 2Re_3:25los honderos la rodearon y la destruyeron
+- 1Cr_14:14no subas tras ellos, sino rodéalosH5437
+- 2Cr_18:31rodearon para pelear; mas JosafatH5437
+- 2Cr_23:7levitas rodearán al rey por todas partesH5362
+- Job_1:7; Job_2:2de rodear la tierra y de andar por
+- Job_16:13me rodearon sus flecheros, partió misH5437
+- Job_22:14las nubes te rodearon, y no ve; y porH5643
+- Job_40:22árboles...los sauces del arroyo lo rodeanH5437
+- Sal_5:12como con un escudo lo rodearás de tuH5844
+- Sal_7:7rodeará congregación de pueblos, y sobreH5437
+- Sal_18:4rodearon ligaduras de muerte, y torrentesH661
+- Sal_18:5ligaduras del Seol me rodearon...lazosH5437
+- Sal_22:12me han rodeado muchos toros; fuertesH5437
+- Sal_22:16perros me han rodeado; me ha cercadoH5437
+- Sal_27:6levantará mi cabeza sobre...que me rodeanH5439
+- Sal_32:7con cánticos de liberación me rodearásH5437
+- Sal_32:10mas al que espera en Jehová, le rodeaH5437
+- Sal_40:12me han rodeado males sin número; meH661
+- Sal_44:13por...y por burla de los que nos rodeanH5439
+- Sal_48:12andad alrededor de Sion, y rodeadlaH5362
+- Sal_49:5la iniquidad de mis opresores me rodeare?[[H5437]]
+- Sal_50:3fuego...y tempestad poderosa le rodearáH5439
+- Sal_55:10día y noche la rodean sobre sus muros
+- Sal_59:6volverán a la tarde...rodearán la ciudadH5437
+- Sal_59:14vuelvan...a la tarde, y rodeen la ciudadH5439
+- Sal_88:17han rodeado como aguas continuamenteH5362
+- Sal_89:8poderoso eres...y tu fidelidad te rodeaH5439
+- Sal_109:3con palabras de odio me han rodeado, yH5437
+- Sal_116:3me rodearon ligaduras de muerte...SeolH661
+- Sal_118:10todas las naciones me rodearon; mas enH5437
+- Sal_118:11me rodearon y me asediaron; mas en elH5437
+- Sal_118:12me rodearon como abejas...como fuegoH5437
+- Sal_119:61compañías de impíos me han rodeadoH5749
+- Sal_139:5detrás y delante me rodeaste, y sobreH6696
+- Sal_140:9a los que en todas partes me rodean, laH4524
+- Sal_142:7rodearán los justos, porque tú me serásH3803
+- Ecl_1:6el viento tira hacia...y rodea al norteH5437
+- Cnt_3:2me levantaré ahora, y rodearé por la
+- Cnt_3:7sesenta valientes la rodean, y...fuertes
+- Isa_15:8el llanto rodeó los límites de MoabH5362
+- Isa_23:16y rodea la ciudad, oh ramera olvidada
+- Isa_50:11encendéis fuego, y os rodeáis de teasH247
+- Isa_61:10me rodeó de manto de justicia, como aH3771
+- Jer_22:15¿reinarás...te rodeas de cedro? ¿NoH8474
+- Jer_31:22cosa nueva...la mujer rodeará al varónH5437
+- Jer_31:39saldrá...el cordel de...y rodeará a GoaH5437
+- Jer_49:3de Rabá...endechad, y rodead los valladosH7751
+- Jer_52:21columna...cordón de 12 codos la rodeabaH5437
+- Lam_3:5mí, y me rodeó de amargura y de trabajoH5362
+- Eze_11:12según..de las naciones que os rodeanH5439
+- Eze_26:17infundían terror...los que la rodeaban?[[H3427]]
+- Eze_28:24aguijón...en medio de cuantos la rodeanH5439
+- Eze_42:19rodeó al lado del occidente, y midióH5437
+- Dan_6:15rodearon al rey y le dijeron: Sepas, ohH7284
+- Ose_2:6yo rodearé de espinos su camino, y laH7753
+- Ose_7:2ahora les rodearán sus obras; delante deH5437
+- Ose_11:12me rodeó Efraín de mentira, y la casaH5437
+- Jon_2:3me echaste a...y me rodeó la corrienteH5437
+- Jon_2:5las aguas me rodearon...rodeóme el abismoH661
+- Miq_5:1rodéate...de muros, hija de guerrerosH1413
+- Nah_3:8rodeada de aguas, cuyo baluarte era elH5439
+- Mat_8:18viéndose Jesús rodeado de mucha gente
+- Luc_2:9he aquí...la gloria del Señor los rodeóG4034
+- Luc_9:31quienes aparecieron rodeados de gloria
+- Luc_19:43tus enemigos te rodearán con valladoG4033
+- Luc_21:20cuando viereis a Jerusalén rodeada deG2944
+- Jua_10:24le rodearon los judíos y le dijeronG2944
+- Hec_9:3rodeó un resplandor de luz del cieloG4015
+- Hec_9:39le rodearon todas las viudas, llorandoG3936
+- Hec_14:20rodeándole los discípulos, se levantóG2944
+- Hec_22:6de repente me rodeó mucha luz del cieloG4015
+- Hec_25:7lo rodearon los judíos que habían venidoG4026
+- Hec_26:13me rodeó a mí y a los que iban conmigoG4034
+- Heb_5:2él también está rodeado de debilidadG4029
+- Heb_11:30de Jericó después de rodearlos 7 díasG2944
+- Rev_20:9rodearon el campamento de los santosG2944

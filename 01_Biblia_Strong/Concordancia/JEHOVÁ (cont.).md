@@ -1,0 +1,1567 @@
+---
+tipo: concordancia
+palabra: JEHOVÁ (cont.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JEHOVÁ (cont.)
+
+- [continuación de la entrada anterior]
+- Jer_1:2palabra de J que le vino en los díasH3068
+- Jer_1:4vino, pues, palabra de J a mí, diciendoH3068
+- Jer_1:6¡ah, ah, Señor J! He aquí, no sé hablarH3068
+- Jer_1:7me dijo J: No digas: Soy un niño; porqueH3068
+- Jer_1:8,19contigo estoy para librarte, dice JH3068
+- Jer_1:9extendió J su mano y tocó...y me dijo JH3068
+- Jer_1:11palabra de J vino a mí, diciendo: ¿QuéH3068
+- Jer_1:12y me dijo J: Bien has visto; porque yoH3068
+- Jer_1:13vino...la palabra de J por segunda vezH3068
+- Jer_1:14me dijo J: Del norte se soltará el malH3068
+- Jer_1:15convoco...los reinos del norte, dice JH3068
+- Jer_2:1vino a mí palabra de J, diciendoH3068
+- Jer_2:2así dice J: Me he acordado de ti, de laH3068
+- Jer_2:3santo era Israel a J, primicias de susH3068
+- Jer_2:3culpables; mal venía sobre ellos, dice JH3068
+- Jer_2:4oíd la palabra de J, casa de Jacob, yH3068
+- Jer_2:5así dijo J: ¿Qué maldad hallaron en míH3068
+- Jer_2:6¿dónde está J, que nos hizo subir de laH3068
+- Jer_2:8los sacerdotes no dijeron: ¿Dónde está J?[[H3068]]
+- Jer_2:9contenderé aún con vosotros, dijo J, yH3068
+- Jer_2:12espantaos, cielos, sobre esto...dijo JH3068
+- Jer_2:17¿no te acarreó esto el haber dejado a JH3068
+- Jer_2:19y amargo es el haber dejado tú a J tuH3068
+- Jer_2:19faltar mi temor en ti, dice el Señor, JH3068
+- Jer_2:22tu pecado permanecerá...dijo J el SeñorH3068
+- Jer_2:29vosotros prevaricasteis contra...dice JH3068
+- Jer_2:31atended vosotros a la palabra de J. ¿HeH3068
+- Jer_2:37porque J desechó a aquellos en quienesH3068
+- Jer_3:1has fornicado...mas vuélvete a mí! dice JH3068
+- Jer_3:6me dijo J en días del rey Josías: ¿HasH3068
+- Jer_3:10no se volvió...sino fingidamente, dice JH3068
+- Jer_3:11dijo J: Ha resultado justa la rebeldeH3068
+- Jer_3:12vuélvete, oh rebelde Israel, dice J; noH3068
+- Jer_3:12porque misericordioso soy yo, dice JH3068
+- Jer_3:13porque contra J tu Dios has prevaricadoH3068
+- Jer_3:13fornicaste...y no oíste mi voz, dice JH3068
+- Jer_3:14convertíos, hijos rebeldes, dice JH3068
+- Jer_3:16y acontecerá que...en esos días, dice JH3068
+- Jer_3:16no se dirá más: Arca del pacto de J; niH3068
+- Jer_3:17tiempo llamarán a Jerusalén: Trono de JH3068
+- Jer_3:17a ella en el nombre de J en JerusalénH3068
+- Jer_3:20prevaricasteis...casa de Israel, dice JH3068
+- Jer_3:21porque...de J su Dios se han olvidadoH3068
+- Jer_3:22venimos...porque tú eres J nuestro DiosH3068
+- Jer_3:23ciertamente en J...está la salvación deH3068
+- Jer_3:25porque pecamos contra J nuestro DiosH3068
+- Jer_3:25no hemos escuchado la voz de J...DiosH3068
+- Jer_4:1volvieres, oh Israel, dice J, vuélveteH3068
+- Jer_4:2Jurares: Vive J, en verdad, en juicio yH3068
+- Jer_4:3porque así dice J a todo varón de JudáH3068
+- Jer_4:4circuncidaos a J, y quitad el prepucioH3068
+- Jer_4:8la ira de J se ha apartado de nosotrosH3068
+- Jer_4:9en aquel día, dice J, desfallecerá elH3068
+- Jer_4:10dije: ¡Ay, ay, J Dios!...has engañado aH3068
+- Jer_4:17de ellas...se rebeló contra mí, dice JH3068
+- Jer_4:26sus ciudades eran asoladas delante de JH3068
+- Jer_4:27así dijo J: Toda la tierra será asoladaH3068
+- Jer_5:2aunque digan: Vive J, Juran falsamenteH3068
+- Jer_5:3oh J, ¿no miran tus ojos a la verdad?[[H3068]]
+- Jer_5:4no conocen el camino de J, el juicio deH3068
+- Jer_5:5ellos conocen el camino de J, el JuicioH3068
+- Jer_5:9¿no había de castigar esto? dijo J. DeH3068
+- Jer_5:10quitad las almenas...porque no son de JH3068
+- Jer_5:11se rebelaron...la casa de Judá, dice JH3068
+- Jer_5:12negaron a J, y dijeron: El no es, y noH3068
+- Jer_5:14dicho J...Porque dijeron estas palabrasH3068
+- Jer_5:15yo traigo sobre vosotros gente...dice JH3068
+- Jer_5:18días, dice J, no os destruiré del todoH3068
+- Jer_5:19¿por qué J el Dios nuestro hizo conH3068
+- Jer_5:22¿a mí no me temeréis? dice J. ¿No osH3068
+- Jer_5:24y no dijeron en su...Temamos ahora a JH3068
+- Jer_5:29¿no castigaré esto? dice J; ¿y de talH3068
+- Jer_6:6J...Cortad árboles, y levantad valladoH3068
+- Jer_6:9dijo J...Del todo rebuscarán como a vid elH3068
+- Jer_6:10la palabra de J les es cosa vergonzosaH3068
+- Jer_6:11lleno de la ira de J, estoy cansado deH3068
+- Jer_6:12porque extenderé mi mano sobre...dice JH3068
+- Jer_6:15cuando los castigue caerán, dice JH3068
+- Jer_6:16dijo J: Paraos en los caminos, y miradH3068
+- Jer_6:21J dice...pongo a este pueblo tropiezosH3068
+- Jer_6:22ha dicho J: He aquí que viene pueblo deH3068
+- Jer_6:30plata desechada los llamarán, porque JH3068
+- Jer_7:1palabra de J...vino a Jeremías, diciendoH3068
+- Jer_7:2a la puerta de la casa de J, y proclamaH3068
+- Jer_7:2palabra de J, todo Judá, los que entráisH3068
+- Jer_7:2entráis por estas puertas para adorar a JH3068
+- Jer_7:3así ha dicho J...Mejorad vuestros caminosH3068
+- Jer_7:4templo de J, templo de J, templo de JH3068
+- Jer_7:11he aquí que también yo lo veo, dice JH3068
+- Jer_7:13habéis hecho todas estas obras, dice JH3068
+- Jer_7:19¿me provocarán ellos a ira? dice J. ¿NoH3068
+- Jer_7:20ha dicho J el Señor...mi furor y mi iraH3068
+- Jer_7:21así ha dicho J de los ejércitos, DiosH3068
+- Jer_7:28que no escuchó la voz de J su Dios, niH3068
+- Jer_7:29J ha aborrecido y dejado la generaciónH3068
+- Jer_7:30han hecho lo malo ante mis ojos, dice JH3068
+- Jer_7:32vendrán días, ha dicho J, en que no seH3068
+- Jer_8:1dice J, sacarán los huesos de los reyesH3068
+- Jer_8:3arroje yo a los que queden, dice J de losH3068
+- Jer_8:4ha dicho J: El que cae, ¿no se levanta?[[H3068]]
+- Jer_8:7pero mi pueblo no conoce el juicio de JH3068
+- Jer_8:8decís...la ley de J está con nosotros?[[H3068]]
+- Jer_8:12cuando los castigue caerán, dice JH3068
+- Jer_8:13cortaré del todo, dice J. No quedaránH3068
+- Jer_8:14porque J nuestro Dios nos ha destinadoH3068
+- Jer_8:14aguas de hiel, porque pecamos contra JH3068
+- Jer_8:17envío...serpientes...os morderán, dice JH3068
+- Jer_8:19¿no está J en Sion? ¿No está en ella suH3068
+- Jer_9:3de mal en mal procedieron, y me...dice JH3068
+- Jer_9:6engaño...no quisieron conocerme, dice JH3068
+- Jer_9:7ha dicho J...los refinaré y los probaréH3068
+- Jer_9:9¿no los he de castigar por estas...dice JH3068
+- Jer_9:12¿y a quién habló la boca de J, para queH3068
+- Jer_9:13dijo J: Porque dejaron mi ley, la cualH3068
+- Jer_9:15ha dicho J...les daré a comer ajenjo, yH3068
+- Jer_9:17dice J...y llamad plañideras que venganH3068
+- Jer_9:20oíd, pues, oh mujeres, palabra de J, yH3068
+- Jer_9:22ha dicho J: Los cuerpos de los hombresH3068
+- Jer_9:23así dijo J: No se alabe el sabio en suH3068
+- Jer_9:24yo soy J, que hago misericordia, juicioH3068
+- Jer_9:24y justicia...estas cosas quiero, dice JH3068
+- Jer_9:25vienen días, dice J, en que castigaréH3068
+- Jer_10:1oíd la palabra que J ha hablado sobreH3068
+- Jer_10:2así dijo J: No aprendáis el camino deH3068
+- Jer_10:6no hay semejante a ti, oh J; grande eresH3068
+- Jer_10:10J es el Dios verdadero...y Rey eternoH3068
+- Jer_10:16el Hacedor de todo...J de...es su nombreH3068
+- Jer_10:18así ha dicho J...arrojaré con honda losH3068
+- Jer_10:21porque los pastores...no buscaron a JH3068
+- Jer_10:23conozco, oh J...el hombre no es señorH3068
+- Jer_10:24castígame, oh J, mas con juicio; no conH3068
+- Jer_11:1palabra...vino de J a Jeremías, diciendoH3068
+- Jer_11:3así dijo J Dios de Israel: Maldito elH3068
+- Jer_11:5les daría la tierra...y dije: Amén, oh JH3068
+- Jer_11:6J me dijo: Pregona todas estas palabrasH3068
+- Jer_11:9me dijo J: Conspiración se ha halladoH3068
+- Jer_11:11ha dicho J...yo traigo sobre ellos malH3068
+- Jer_11:16olivo verde, hermoso en su...llamo J tuH3068
+- Jer_11:17J de los ejércitos que te plantó haH3068
+- Jer_11:18y J me lo hizo saber, y lo conocíH3068
+- Jer_11:20oh J de los...que juzgas con justiciaH3068
+- Jer_11:21ha dicho J acerca de los varones deH3068
+- Jer_11:21diciendo: No profetices en nombre de JH3068
+- Jer_11:22ha dicho J...jóvenes morirán a espadaH3068
+- Jer_12:1justo eres tú, oh J...yo dispute contigoH3068
+- Jer_12:3oh J, me conoces; me viste, y probasteH3068
+- Jer_12:12porque la espada de J devorará desdeH3068
+- Jer_12:13nada...a causa de la ardiente ira de JH3068
+- Jer_12:14dijo J contra todos mis malos vecinosH3068
+- Jer_12:16diciendo: Vive J, así como enseñaronH3068
+- Jer_12:17arrancaré esa nación...de raíz...dice JH3068
+- Jer_13:1así me dijo J: Vé y cómprate un cintoH3068
+- Jer_13:2y compré el cinto...a la palabra de JH3068
+- Jer_13:3a mí segunda vez palabra de J, diciendoH3068
+- Jer_13:5fui, pues, y lo escondí...como J me mandóH3068
+- Jer_13:6después de muchos días me dijo J...VeteH3068
+- Jer_13:8y vino a mí palabra de J, diciendo: AsíH3068
+- Jer_13:9ha dicho J: Así haré podrir la soberbiaH3068
+- Jer_13:11juntar a mí...la casa de Judá, dice JH3068
+- Jer_13:12ha dicho J: Toda tinaja se llenará deH3068
+- Jer_13:13así ha dicho J: He aquí que yo lleno deH3068
+- Jer_13:14los quebrantaré...dice J: no perdonaréH3068
+- Jer_13:15no os envanezcáis, pues J ha habladoH3068
+- Jer_13:16dad gloria a J Dios vuestro, antes queH3068
+- Jer_13:17porque el rebaño de J...hecho cautivoH3068
+- Jer_13:25la porción que yo he medido...dice JH3068
+- Jer_14:1palabra de J que vino a Jeremías, conH3068
+- Jer_14:7J, actúa por amor de tu nombre; porqueH3068
+- Jer_14:9tú estás entre nosotros, oh J, y sobreH3068
+- Jer_14:10así ha dicho J acerca de este puebloH3068
+- Jer_14:10J no se agrada de ellos; se acordaráH3068
+- Jer_14:11me dijo J: No ruegues por este puebloH3068
+- Jer_14:13¡ah, Señor J! He aquí que los profetasH3068
+- Jer_14:14J: Falsamente profetizan los profetasH3068
+- Jer_14:15así ha dicho J sobre los profetas queH3068
+- Jer_14:20reconocemos, oh J, nuestra impiedadH3068
+- Jer_14:22¿no eres tú, J, nuestro Dios? En tiH3068
+- Jer_15:1dijo J: Si Moisés y Samuel se pusieranH3068
+- Jer_15:2ha dicho J: El que a muerte, a muerteH3068
+- Jer_15:3ellos cuatro géneros de castigo, dice JH3068
+- Jer_15:6me dejaste, dice J; te volviste atrásH3068
+- Jer_15:9espada delante de sus enemigos, dice JH3068
+- Jer_15:11oh J, si no te he rogado por su bienH3068
+- Jer_15:15tú lo sabes, oh J; acuérdate de mí, yH3068
+- Jer_15:16nombre se invocó sobre mí, oh J DiosH3068
+- Jer_15:19así dijo J: Si te convirtieres, yo teH3068
+- Jer_15:20para guardarte y...defenderte, dice JH3068
+- Jer_16:1vino a mí palabra de J, diciendoH3068
+- Jer_16:3así ha dicho J acerca de los hijos y deH3068
+- Jer_16:5ha dicho J: No entres en casa de lutoH3068
+- Jer_16:5quitado mi paz de este pueblo, dice JH3068
+- Jer_16:9así ha dicho J de los ejércitos, DiosH3068
+- Jer_16:10¿Por qué anuncia J contra nosotros todoH3068
+- Jer_16:10o qué pecado...hemos cometido contra JH3068
+- Jer_16:11vuestros padres me dejaron, dice J, yH3068
+- Jer_16:14vienen días, dice J, en que no se diráH3068
+- Jer_16:14,15vive J, que hizo subir a los hijosH3068
+- Jer_16:16yo envío muchos Pescadores, dice J, yH3068
+- Jer_16:19oh J, fortaleza mía y fuerza mía, yH3068
+- Jer_16:21mi poder, y sabrán que mi nombre es JH3068
+- Jer_17:5dicho J: Maldito el varón que confía enH3068
+- Jer_17:5su brazo, y su corazón se aparta de JH3068
+- Jer_17:7que confía en J, y cuya confianza es JH3068
+- Jer_17:10J que escudriño la mente, que prueboH3068
+- Jer_17:13¡oh J, esperanza de Israel! todos losH3068
+- Jer_17:13dejaron a J, manantial de aguas vivasH3068
+- Jer_17:14sáname, oh J...seré sano; sálvame, yH3068
+- Jer_17:15¿dónde está la palabra de J? ¡Que seH3068
+- Jer_17:19me ha dicho J: Vé y ponte a la puertaH3068
+- Jer_17:20oíd la palabra de J, reyes de Judá, yH3068
+- Jer_17:21ha dicho J: Guardaos por vuestra vidaH3068
+- Jer_17:24si vosotros me obedeciereis, dice JH3068
+- Jer_17:26y trayendo sacrificio...a la casa de JH3068
+- Jer_18:1palabra de J que...a Jeremías, diciendoH3068
+- Jer_18:5vino a mí palabra de J, diciendoH3068
+- Jer_18:6este alfarero...casa de Israel? dice JH3068
+- Jer_18:11ha dicho J: He aquí que Yo dispongo malH3068
+- Jer_18:13dijo J: Preguntad ahora a las nacionesH3068
+- Jer_18:19J, mira por mí, y oye la voz de los queH3068
+- Jer_18:23oh J, conoces todo su consejo contraH3068
+- Jer_19:1así dijo J: Vé y compra una vasija deH3068
+- Jer_19:3dirás...Oíd palabra de J...Así dice J deH3068
+- Jer_19:6vienen días, dice J, que este lugar noH3068
+- Jer_19:11dicho J...Así quebrantaré a este puebloH3068
+- Jer_19:12así haré a este lugar, dice J, y a susH3068
+- Jer_19:14Tofet, adonde le envió J a profetizarH3068
+- Jer_19:14y se paró en el atrio de la casa de JH3068
+- Jer_19:15ha dicho J...traigo sobre esta ciudadH3068
+- Jer_20:1Pasur hijo...que presidía...la casa de JH3068
+- Jer_20:2puerta...la cual conducía a la casa de JH3068
+- Jer_20:3J no ha llamado tu nombre Pasur, sinoH3068
+- Jer_20:4ha dicho J...haré que seas un terror aH3068
+- Jer_20:7me sedujiste, oh J, y fui seducido; másH3068
+- Jer_20:8la palabra de J me ha sido para afrentaH3068
+- Jer_20:11J está conmigo como poderoso giganteH3068
+- Jer_20:12J de los ejércitos, que pruebas a losH3068
+- Jer_20:13cantad a J, load a J...librado el almaH3068
+- Jer_20:16sea el...como las ciudades que asoló JH3068
+- Jer_21:1palabra de J que vino a Jeremías, cuandoH3068
+- Jer_21:2consulta ahora acerca de nosotros a JH3068
+- Jer_21:2quizá J hará con nosotros según todasH3068
+- Jer_21:4así ha dicho J...vuelvo atrás las armasH3068
+- Jer_21:7dice J, entregaré a Sedequías rey deH3068
+- Jer_21:8así ha dicho J: He aquí pongo delante deH3068
+- Jer_21:10mi rostro he puesto...para mal, dice JH3068
+- Jer_21:11a la casa del rey de...Oíd palabra de JH3068
+- Jer_21:12así dijo J: Haced de mañana juicio, yH3068
+- Jer_21:13yo estoy contra ti, moradora...dice JH3068
+- Jer_21:14os castigaré...dice J, y haré encenderH3068
+- Jer_22:1dijo J: Desciende a la casa del rey deH3068
+- Jer_22:2y di: Oye palabra de J, oh rey de JudáH3068
+- Jer_22:3así ha dicho J: Haced juicio y justiciaH3068
+- Jer_22:5he jurado, dice J, que esta casa seráH3068
+- Jer_22:6ha dicho J acerca de la casa del rey deH3068
+- Jer_22:8¿por qué hizo así J con esta...ciudad?[[H3068]]
+- Jer_22:9porque dejaron el pacto de J su DiosH3068
+- Jer_22:11así ha dicho J acerca de Salum hijo deH3068
+- Jer_22:16¿no es esto conocerme a mí? dice JH3068
+- Jer_22:18así ha dicho J acerca de Joacim hijoH3068
+- Jer_22:24vivo yo, dice J, que si Conías hijo deH3068
+- Jer_22:29¡tierra, tierra, tierra!...palabra de JH3068
+- Jer_22:30ha dicho J: Escribid lo que sucederáH3068
+- Jer_23:1de los pastores que destruyen...dice JH3068
+- Jer_23:2ha dicho J Dios de...a los pastores queH3068
+- Jer_23:2yo castigo la maldad de...obras, dice JH3068
+- Jer_23:4y pondré sobre ellas pastores...dice JH3068
+- Jer_23:5vienen días, dice J, en que levantaréH3068
+- Jer_23:6será su nombre con...J, justicia nuestraH3068
+- Jer_23:7dice J, en que no dirán más: Vive J queH3068
+- Jer_23:8sino: Vive J que hizo subir y trajo laH3068
+- Jer_23:9estoy como un ebrio...delante de J, yH3068
+- Jer_23:11aun en mi casa hallé su maldad, dice JH3068
+- Jer_23:12traeré mal sobre ellos en el...dice JH3068
+- Jer_23:15ha dicho J...contra aquellos profetasH3068
+- Jer_23:16ha dicho J...No escuchéis las palabrasH3068
+- Jer_23:16hablan visión de...no de la boca de JH3068
+- Jer_23:17dicen atrevidamente a los...J dijo: PazH3068
+- Jer_23:18¿quién estuvo en el secreto de J, yH3068
+- Jer_23:19que la tempestad de J saldrá con furorH3068
+- Jer_23:20no se apartará el furor de J hasta queH3068
+- Jer_23:23¿soy yo Dios de cerca...dice J, y noH3068
+- Jer_23:24ocultará alguno, dice J...yo no lo vea?[[H3068]]
+- Jer_23:24¿no lleno yo, dice J, el cielo y laH3068
+- Jer_23:28que ver la paja con el trigo? dice JH3068
+- Jer_23:29¿no es mi palabra como fuego, dice JH3068
+- Jer_23:30yo estoy contra los profetas, dice JH3068
+- Jer_23:31dice J...yo estoy contra los profetasH3068
+- Jer_23:32dice J, yo estoy contra...profetizanH3068
+- Jer_23:32y ningún provecho hicieron a...dice JH3068
+- Jer_23:33¿Cuál es la profecía de J? les dirásH3068
+- Jer_23:33es la profecía: Os dejaré, ha dicho JH3068
+- Jer_23:34que dijere: Profecía de J, yo enviaréH3068
+- Jer_23:35¿qué ha respondido J, y qué habló J?[[H3068]]
+- Jer_23:36y nunca más os...decir: Profecía de JH3068
+- Jer_23:36pervertisteis las palabras...de J de losH3068
+- Jer_23:37¿qué te respondió J, y qué habló J?[[H3068]]
+- Jer_23:38si...Profecía de J; por eso J dice asíH3068
+- Jer_23:38profecía de J...deciros: No digáis...de JH3068
+- Jer_24:1me mostró J dos cestas de higos puestasH3068
+- Jer_24:1higos puestas delante del templo de JH3068
+- Jer_24:3dijo J: ¿Qué ves tú, Jeremías? Y dijeH3068
+- Jer_24:4y vino a mí palabra de J, diciendoH3068
+- Jer_24:5ha dicho J...Como a estos higos buenosH3068
+- Jer_24:7para que me conozcan que yo soy J; y meH3068
+- Jer_24:8así ha dicho J, pondré a Sedequías reyH3068
+- Jer_25:3venido a mí palabra de J, y he habladoH3068
+- Jer_25:4envió J a vosotros todos sus siervos losH3068
+- Jer_25:5moraréis en la tierra que os dio J aH3068
+- Jer_25:7no me habéis oído, dice J, para...a iraH3068
+- Jer_25:8dicho J de...Por cuanto no habéis oídoH3068
+- Jer_25:9tomaré a...las tribus del norte, dice JH3068
+- Jer_25:12castigaré...por su maldad, ha dicho JH3068
+- Jer_25:15me dijo J...Toma de mi mano la copaH3068
+- Jer_25:17la copa de la mano de J, y...me envió JH3068
+- Jer_25:27así ha dicho J...Bebed, y embriagaosH3068
+- Jer_25:28dirás tú...ha dicho J...Tenéis que beberH3068
+- Jer_25:29espada traigo sobre todos los...dice JH3068
+- Jer_25:30J rugirá desde lo alto...dará su vozH3068
+- Jer_25:31porque J tiene juicio contra...dice JH3068
+- Jer_25:32ha dicho J...que el mal irá de nación enH3068
+- Jer_25:33yacerán los muertos de J en aquel díaH3068
+- Jer_25:36aullido de...porque J asoló sus pastosH3068
+- Jer_25:37destruidos por el ardor de la ira de JH3068
+- Jer_26:1del reinado de Joacim...esta palabra de JH3068
+- Jer_26:2ha dicho J: Ponte en el...de la casa de JH3068
+- Jer_26:2que vienen para adorar en la casa de JH3068
+- Jer_26:4así ha dicho J: Si no me oyereis paraH3068
+- Jer_26:7oyeron...estas palabras en la casa de JH3068
+- Jer_26:8terminó de hablar Jeremías...lo que J leH3068
+- Jer_26:9has profetizado en nombre de J, diciendoH3068
+- Jer_26:9juntó contra Jeremías en la casa de JH3068
+- Jer_26:10subieron de la casa del...a la casa de JH3068
+- Jer_26:10en...de la puerta nueva de la casa de JH3068
+- Jer_26:12J me envió a profetizar contra estaH3068
+- Jer_26:13oíd la voz de J...se arrepentirá J delH3068
+- Jer_26:15J me envió a vosotros para que dijeseH3068
+- Jer_26:16en nombre de J...Dios nos ha habladoH3068
+- Jer_26:19así ha dicho J...Sion será arada comoH3068
+- Jer_26:19¿no temió a J, y oró en presencia de JH3068
+- Jer_26:19y J se arrepintió del mal que habíaH3068
+- Jer_26:20hombre que profetizaba en nombre de JH3068
+- Jer_27:1esta palabra de J a Jeremías, diciendoH3068
+- Jer_27:2J me ha dicho así: Hazte coyundas yH3068
+- Jer_27:4así ha dicho J...Así habéis de decir aH3068
+- Jer_27:8castigaré a tal nación...dice J, hastaH3068
+- Jer_27:11la dejaré en su tierra, dice J, y laH3068
+- Jer_27:13dicho J de la nación que no sirviereH3068
+- Jer_27:15yo no los envié, dice J, y...profetizanH3068
+- Jer_27:16ha dicho J: No oigáis las palabras deH3068
+- Jer_27:16los utensilios de la casa de J volveránH3068
+- Jer_27:18si está con ellos...J, oren ahora a JH3068
+- Jer_27:18que han quedado en la casa de J y enH3068
+- Jer_27:19dicho J...acerca de aquellas columnasH3068
+- Jer_27:21ha dicho J...acerca de los utensiliosH3068
+- Jer_27:21que quedaron en la casa de J, y en laH3068
+- Jer_27:22estarán hasta...yo los visite, dice JH3068
+- Jer_28:1me habló en la casa de J delante de losH3068
+- Jer_28:2así habló J...Quebranté el yugo del reyH3068
+- Jer_28:3volver...los utensilios de la casa de JH3068
+- Jer_28:4haré volver...a Jeconías hijo de...dice JH3068
+- Jer_28:5todo el pueblo que estaba en la casa de JH3068
+- Jer_28:6así lo haga J. Confirme J tus palabrasH3068
+- Jer_28:6que los utensilios de la casa de J, yH3068
+- Jer_28:9como el profeta que J en verdad envióH3068
+- Jer_28:11ha dicho J: De esta manera romperé elH3068
+- Jer_28:12vino palabra de J a Jeremías, diciendoH3068
+- Jer_28:13ha dicho J: Yugos de madera quebrasteH3068
+- Jer_28:14ha dicho J...Yugo de hierro puse sobreH3068
+- Jer_28:15J no te envió, y tú has hecho confiarH3068
+- Jer_28:16ha dicho J: He aquí que yo te quito deH3068
+- Jer_28:16morirás en...hablaste rebelión contra JH3068
+- Jer_29:4dicho J...a todos los de la cautividadH3068
+- Jer_29:7rogad por ella a J; porque en su pazH3068
+- Jer_29:8ha dicho J...No os engañen...profetas queH3068
+- Jer_29:9falsamente os profetizan ellos...dicho JH3068
+- Jer_29:10dijo J: Cuando en Babilonia se cumplanH3068
+- Jer_29:11sé los pensamientos que tengo...dice JH3068
+- Jer_29:14seré hallado por vosotros, dice J, yH3068
+- Jer_29:14reuniré de todas las naciones...dice JH3068
+- Jer_29:15dicho: J nos ha levantado profetas enH3068
+- Jer_29:16así ha dicho J acerca del rey que estáH3068
+- Jer_29:17dicho J...envío yo contra ellos espadaH3068
+- Jer_29:19no oyeron...dice J...no habéis...dice JH3068
+- Jer_29:20oíd...palabra de J, vosotros todos losH3068
+- Jer_29:21así ha dicho J...acerca de Acab hijo deH3068
+- Jer_29:22póngate J como a Sedequías y como aH3068
+- Jer_29:23lo cual yo sé y testifico, dice JH3068
+- Jer_29:25así habló J...Tú enviaste cartas en tuH3068
+- Jer_29:26J te ha puesto por sacerdote en lugarH3068
+- Jer_29:26para que te encargues en la casa de JH3068
+- Jer_29:30vino palabra de J a Jeremías, diciendoH3068
+- Jer_29:31así ha dicho J de Semaías de NehelamH3068
+- Jer_29:32ha dicho J...castigaré a Semaías...dice JH3068
+- Jer_29:32porque contra J ha hablado rebeliónH3068
+- Jer_30:1palabra de J...vino a Jeremías, diciendoH3068
+- Jer_30:2habló J...Escríbete en un libro todas lasH3068
+- Jer_30:3dice J...haré volver a los...ha dicho JH3068
+- Jer_30:4palabras que hablé J acerca de IsraelH3068
+- Jer_30:5ha dicho J: Hemos oído voz de temblorH3068
+- Jer_30:8en aquel día, dice J...quebraré su yugoH3068
+- Jer_30:9servirán a J su Dios y a David su reyH3068
+- Jer_30:10siervo mío Jacob, no temas, dice J, niH3068
+- Jer_30:11estoy contigo para salvarte, dice JH3068
+- Jer_30:12dicho J: Incurable...quebrantamientoH3068
+- Jer_30:17y sanaré tus heridas, dice J; porqueH3068
+- Jer_30:18ha dicho J...hago volver los cautivosH3068
+- Jer_30:21que se atreve a acercarse a mí? dice JH3068
+- Jer_30:23la tempestad de J sale con furor; laH3068
+- Jer_30:24no se calmará el ardor de la ira de JH3068
+- Jer_31:1aquel tiempo, dice J, yo seré por DiosH3068
+- Jer_31:2ha dicho J: El pueblo que escapó de laH3068
+- Jer_31:3J se manifestó a...hace ya mucho tiempoH3068
+- Jer_31:6y subamos a Sion, a J nuestro DiosH3068
+- Jer_31:7dicho J...alabad, y decid: Oh J, salvaH3068
+- Jer_31:10oíd palabra de J, oh naciones...decidH3068
+- Jer_31:11J redimió a Jacob, lo redimió de manoH3068
+- Jer_31:12correrán al bien de J, al pan, al vinoH3068
+- Jer_31:14pueblo será saciado de mi bien, dice JH3068
+- Jer_31:15dicho J: Voz fue oída en Ramá, llantoH3068
+- Jer_31:16dicho J: Reprime del llanto...dice JH3068
+- Jer_31:17esperanza hay para tu porvenir, dice JH3068
+- Jer_31:18seré convertido, porque tú eres J miH3068
+- Jer_31:20tendré de él misericordia, dice JH3068
+- Jer_31:22porque J creará una cosa nueva sobreH3068
+- Jer_31:23ha dicho J...Aún dirán esta palabra enH3068
+- Jer_31:23J te bendiga, oh morada de justiciaH3068
+- Jer_31:27vienen días, dice J, en que sembraréH3068
+- Jer_31:28tendré cuidado de ellos para...dice JH3068
+- Jer_31:31que vienen días, dice J, en los cualesH3068
+- Jer_31:32ellos invalidaron mi pacto...dice JH3068
+- Jer_31:33este es el pacto que haré con...dice JH3068
+- Jer_31:34no enseñará más...diciendo: Conoce a JH3068
+- Jer_31:34todos me conocerán, desde el...dice JH3068
+- Jer_31:35ha dicho J...J de los ejércitos es suH3068
+- Jer_31:36si faltaren estas leyes...de mí, dice JH3068
+- Jer_31:37así ha dicho J: Si los cielos arribaH3068
+- Jer_31:37desecharé toda la descendencia...dice JH3068
+- Jer_31:38dice J...la ciudad será edificada a JH3068
+- Jer_31:40hasta la esquina de la...será santo a JH3068
+- Jer_32:1palabra de J que vino a Jeremías, el añoH3068
+- Jer_32:3ha dicho J...yo entrego esta ciudad enH3068
+- Jer_32:5si peleareis...no os irá bien, dice J?[[H3068]]
+- Jer_32:6dijo Jeremías: Palabra de J vino a míH3068
+- Jer_32:8vino a mí...conforme a la palabra de JH3068
+- Jer_32:8entonces conocí que era palabra de JH3068
+- Jer_32:14ha dicho J de...Toma estas cartas, estaH3068
+- Jer_32:15así ha dicho J...Aún se comprarán casasH3068
+- Jer_32:16después que di la carta de...oré a JH3068
+- Jer_32:17¡oh Señor J!...tú hiciste el cielo y laH3068
+- Jer_32:18Dios grande, poderoso, J...su nombreH3068
+- Jer_32:25Señor J! ¿y tú me has dicho: CómprateH3068
+- Jer_32:26vino palabra de J a Jeremías, diciendoH3068
+- Jer_32:27yo soy J, Dios de toda carne; ¿habráH3068
+- Jer_32:28dicho J...voy a entregar esta ciudadH3068
+- Jer_32:30Judá no han hecho sino lo malo...dice JH3068
+- Jer_32:36así dice J Dios de Israel a esta ciudadH3068
+- Jer_32:42así ha dicho J: Como traje sobre esteH3068
+- Jer_32:44yo haré regresar sus cautivos, dice JH3068
+- Jer_33:1,19,23vino palabra de J a Jeremías laH3068
+- Jer_33:2J, que hizo la...J que la formó...J es suH3068
+- Jer_33:4así ha dicho J...acerca de las casas deH3068
+- Jer_33:10así ha dicho J: En este lugar, del cualH3068
+- Jer_33:11alabad a J...porque J es bueno, porqueH3068
+- Jer_33:11que traigan ofrendas...a la casa de JH3068
+- Jer_33:11volveré a traer los cautivos...dicho JH3068
+- Jer_33:12dice J de...En este lugar desierto, sinH3068
+- Jer_33:13aún pasarán ganados por las...ha dicho JH3068
+- Jer_33:14dice J...yo confirmaré la buena palabraH3068
+- Jer_33:16y se le llamará: J, justicia nuestraH3068
+- Jer_33:17ha dicho J: No faltará a David varónH3068
+- Jer_33:20así ha dicho J: Si pudiereis invalidarH3068
+- Jer_33:24familias que J escogiera ha desechado?[[H3068]]
+- Jer_33:25ha dicho J: Si no permanece mi pactoH3068
+- Jer_34:1palabra de J que vino a JeremíasH3068
+- Jer_34:2ha dicho J...a Sedequías...así ha dicho JH3068
+- Jer_34:4palabra de J...ha dicho J acerca de tiH3068
+- Jer_34:5en paz morirás...te endecharán...dice JH3068
+- Jer_34:8palabra de J que vino a Jeremías cuandoH3068
+- Jer_34:12vino, pues, palabra de J a JeremíasH3068
+- Jer_34:13así dice J...pacto con vuestros padresH3068
+- Jer_34:17ha dicho J...promulgo libertad, dice JH3068
+- Jer_34:22dice J...los haré volver a esta ciudadH3068
+- Jer_35:1palabra de J que vino a Jeremías en díasH3068
+- Jer_35:2introdúcelos en la casa de J, en uno deH3068
+- Jer_35:4los llevé a la casa de J, al aposentoH3068
+- Jer_35:12vino palabra de J a Jeremías, diciendoH3068
+- Jer_35:13ha dicho J...¿No aprenderéis...dice JH3068
+- Jer_35:17así ha dicho J...traeré yo sobre JudáH3068
+- Jer_35:18ha dicho J...Por cuanto obedecisteis alH3068
+- Jer_35:19así ha dicho J...No faltará de JonadabH3068
+- Jer_36:1que vino esta palabra de J a JeremíasH3068
+- Jer_36:4todas las palabras, J le había habladoH3068
+- Jer_36:5me ha prohibido entrar en la casa de JH3068
+- Jer_36:6lee...las palabras de J...en la casa de JH3068
+- Jer_36:7llegue la oración...a la presencia de JH3068
+- Jer_36:7el furor y la ira...J contra este puebloH3068
+- Jer_36:8leyendo...palabras de J en la casa de JH3068
+- Jer_36:9promulgaron ayuno en la presencia de JH3068
+- Jer_36:10leyó en...casa de J...puerta...casa de JH3068
+- Jer_36:11oído del libro todas las palabras de JH3068
+- Jer_36:26a Baruc...y al profeta...J los escondióH3068
+- Jer_36:27vino palabra de J a Jeremías, despuésH3068
+- Jer_36:29así ha dicho J: Tú quemaste este rolloH3068
+- Jer_36:30ha dicho J acerca de Joacim...No tendráH3068
+- Jer_37:2no obedeció él ni...a las palabras de JH3068
+- Jer_37:3ruega...por nosotros a J nuestro DiosH3068
+- Jer_37:6vino palabra de J al profeta JeremíasH3068
+- Jer_37:7ha dicho J...Diréis así al rey de JudáH3068
+- Jer_37:9ha dicho J: No os engañéis a vosotrosH3068
+- Jer_37:17¿hay palabra de J? Y Jeremías dijo: HayH3068
+- Jer_38:2ha dicho J: El que se quedare en estaH3068
+- Jer_38:3ha dicho J...será entregada esta ciudadH3068
+- Jer_38:14en la tercera entrada de la casa de JH3068
+- Jer_38:16vive J que nos hizo esta alma, que noH3068
+- Jer_38:17ha dicho J...si te entregas en seguidaH3068
+- Jer_38:20oye ahora la voz de J que yo te habloH3068
+- Jer_38:21esta es la palabra que me ha mostrado JH3068
+- Jer_39:15había venido palabra de J a JeremíasH3068
+- Jer_39:16ha dicho J...traigo mis palabras sobreH3068
+- Jer_39:17en aquel día yo te libraré, dice J, yH3068
+- Jer_39:18porque tuviste confianza en mí, dice JH3068
+- Jer_40:1palabra de J que vino a Jeremías, despuésH3068
+- Jer_40:2J tu Dios habló este mal contra esteH3068
+- Jer_40:3y lo ha...hecho J...pecasteis contra JH3068
+- Jer_41:5e incienso para llevar a la casa de JH3068
+- Jer_42:2ruega por nosotros a J tu Dios por todoH3068
+- Jer_42:3que J tu Dios nos enseñe el camino porH3068
+- Jer_42:4que voy a orar a J vuestro Dios, comoH3068
+- Jer_42:4todo lo que J os respondiere, os enseñaréH3068
+- Jer_42:5J sea entre nosotros testigo de...verdadH3068
+- Jer_42:5todo aquello para lo cual J tu Dios teH3068
+- Jer_42:6la voz de J...obedeciendo a la voz de JH3068
+- Jer_42:7al cabo de diez días vino palabra de JH3068
+- Jer_42:9así ha dicho J Dios de Israel, al cualH3068
+- Jer_42:11no temáis...rey de Babilonia...dicho JH3068
+- Jer_42:13no obedeciendo...a la voz de J vuestroH3068
+- Jer_42:15oíd la palabra de J...así ha dicho JH3068
+- Jer_42:18ha dicho J...Como se derramó mi enojoH3068
+- Jer_42:19J habló sobre vosotros, oh remanenteH3068
+- Jer_42:20enviasteis a J...ora por nosotros a JH3068
+- Jer_42:20las cosas que J nuestro Dios dijereH3068
+- Jer_42:21y no habéis obedecido a la voz de JH3068
+- Jer_43:1palabras de J...por las cuales J DiosH3068
+- Jer_43:2no te ha enviado J nuestro Dios paraH3068
+- Jer_43:4no obedeció...la voz de J para quedarseH3068
+- Jer_43:7porque no obedecieron a la voz de JH3068
+- Jer_43:8vino palabra de J a Jeremías en TafnesH3068
+- Jer_43:10así ha dicho J...yo enviaré y tomaré aH3068
+- Jer_44:2así ha dicho J...habéis visto todo el malH3068
+- Jer_44:7ha dicho J...¿Por qué hacéis tan grandeH3068
+- Jer_44:11ha dicho J...yo vuelvo mi rostro contraH3068
+- Jer_44:16que nos has hablado en nombre de J, noH3068
+- Jer_44:21¿no se ha acordado J, y no ha venidoH3068
+- Jer_44:22no pudo sufrirlo más J, a causa de laH3068
+- Jer_44:23pecasteis...J, y no obedecisteis a...JH3068
+- Jer_44:24oíd palabra de J, todos los de JudáH3068
+- Jer_44:25así ha hablado J...diciendo: Vosotros yH3068
+- Jer_44:26por tanto, oíd, palabra de J, todo JudáH3068
+- Jer_44:26jurado...dice J, que mi nombre no seráH3068
+- Jer_44:26no será invocado más...diciendo: Vive JH3068
+- Jer_44:29esto tendréis por señal, dice J, de queH3068
+- Jer_44:30ha dicho J...yo entrego a Faraón HofraH3068
+- Jer_45:2dicho J Dios de Israel a ti, oh BarucH3068
+- Jer_45:3¡ay...ha añadido J tristeza a mi dolorH3068
+- Jer_45:4ha dicho J...que yo destruyo a los queH3068
+- Jer_45:5yo traigo mal...ha dicho J; pero a ti teH3068
+- Jer_46:1palabra de J...vino al profeta JeremíasH3068
+- Jer_46:5huyeron...miedo de todas partes, dice JH3068
+- Jer_46:10ese día será para J...día de retribuciónH3068
+- Jer_46:10sacrificio será para J...en tierra delH3068
+- Jer_46:13palabra que habló J al profeta JeremíasH3068
+- Jer_46:15no pudo mantenerse firme...J la empujóH3068
+- Jer_46:18dice el Rey, cuyo nombre es J de losH3068
+- Jer_46:23cortarán sus bosques, dice J, aunqueH3068
+- Jer_46:25J de los...ha dicho...yo castigo a AmónH3068
+- Jer_46:26después será habitado como en...dice JH3068
+- Jer_46:28tú, siervo mío Jacob, no temas, dice JH3068
+- Jer_47:1palabra de J...vino al profeta JeremíasH3068
+- Jer_47:2ha dicho J...que suben aguas del norteH3068
+- Jer_47:4J destruirá a los filisteos, al resto deH3068
+- Jer_47:6espada de J, ¿hasta cuándo reposarás?[[H3068]]
+- Jer_47:7J te ha enviado contra Ascalón, y contraH3068
+- Jer_48:1así ha dicho J...¡Ay de Nebo! porque fueH3068
+- Jer_48:8será destruida la llanura...ha dicho JH3068
+- Jer_48:10que hiciere indolentemente la obra de JH3068
+- Jer_48:12vienen días, ha dicho J, en que yo leH3068
+- Jer_48:15ha dicho el Rey, cuyo nombre es J deH3068
+- Jer_48:25cortado es el poder de Moab, y...dice JH3068
+- Jer_48:26embriagadle...contra J se engrandecióH3068
+- Jer_48:30yo conozco, dice J, su cólera, pero noH3068
+- Jer_48:35exterminaré de Moab, dice J, a quienH3068
+- Jer_48:38quebranté a Moab como a vasija...dice JH3068
+- Jer_48:40ha dicho J...que como águila volará, yH3068
+- Jer_48:42será destruido...engrandeció contra JH3068
+- Jer_48:43contra ti, oh morador de Moab, dice JH3068
+- Jer_48:44traeré...el año de su castigo, dice JH3068
+- Jer_48:47volver a los cautivos de Moab...dice JH3068
+- Jer_49:1así ha dicho J: ¿No tiene hijos Israel?[[H3068]]
+- Jer_49:2vienen días, ha dicho J, en que haré oírH3068
+- Jer_49:2Israel tornará por heredad...ha dicho JH3068
+- Jer_49:5sobre ti espanto, dice el Señor, J deH3068
+- Jer_49:6volver a los cautivos...de Amón, dice JH3068
+- Jer_49:7así ha dicho J...¿No hay más sabiduría enH3068
+- Jer_49:12ha dicho J...no serás absuelto, sinoH3068
+- Jer_49:13he jurado, dice J...asolamiento...BosraH3068
+- Jer_49:14de J había sido enviado mensajero a lasH3068
+- Jer_49:16nido, de allí te haré descender, dice JH3068
+- Jer_49:18dice J, así no morará allí nadie, niH3068
+- Jer_49:20consejo que J ha acordado sobre EdomH3068
+- Jer_49:26los hombres de guerra morirán, dicho JH3068
+- Jer_49:28dicho J: Levantaos, subid contra CedarH3068
+- Jer_49:30habitad en lugares profundos...dice JH3068
+- Jer_49:31subid contra...nación pacífica...dice JH3068
+- Jer_49:32todos lados...traeré su ruina, dice JH3068
+- Jer_49:34palabra de J...vino al profeta JeremíasH3068
+- Jer_49:35ha dicho J...yo quiebro el arco de ElamH3068
+- Jer_49:37traeré sobre ellos mal...mi ira, dice JH3068
+- Jer_49:39volver a los cautivos de Elam, dice JH3068
+- Jer_50:1palabra que habló J contra BabiloniaH3068
+- Jer_50:4en aquellos días...dice J, vendrán losH3068
+- Jer_50:4irán...llorando, y buscarán a J su DiosH3068
+- Jer_50:5y juntémonos a J con pacto eterno queH3068
+- Jer_50:7contra J morada de...contra J esperanzaH3068
+- Jer_50:10que la saquearen se saciarán, dice JH3068
+- Jer_50:13por la ira de J no será habitada, sinoH3068
+- Jer_50:14no escatiméis las saetas...pecó contra JH3068
+- Jer_50:15derribados son sus muros...venganza de JH3068
+- Jer_50:18así ha dicho J...yo castigo al rey deH3068
+- Jer_50:20dice J...maldad de Israel será buscadaH3068
+- Jer_50:21destruye y mata en pos...dice J, y hazH3068
+- Jer_50:24fuiste...presa, porque provocaste a JH3068
+- Jer_50:25abrió J su tesoro, y sacó...de su furorH3068
+- Jer_50:25obra de J...en la tierra de los caldeosH3068
+- Jer_50:28dar en...nuevas de la retribución de JH3068
+- Jer_50:29contra J se ensoberbeció, contra elH3068
+- Jer_50:30serán destruidos en aquel día, dice JH3068
+- Jer_50:31yo estoy contra ti...dice el Señor, JH3068
+- Jer_50:33dicho J...Oprimidos fueron los hijos deH3068
+- Jer_50:34el redentor de ellos es el Fuerte; J deH3068
+- Jer_50:35espada contra los caldeos, dice J, yH3068
+- Jer_50:40dice J, así no morará allí hombre, niH3068
+- Jer_50:45oíd la...J ha acordado contra BabiloniaH3068
+- Jer_51:1ha dicho J...yo levanto un viento contraH3068
+- Jer_51:5no han enviudado de su Dios, J de losH3068
+- Jer_51:6el tiempo es de venganza de J; le daráH3068
+- Jer_51:7copa de oro fue Babilonia en la...de JH3068
+- Jer_51:10J sacó a luz nuestras justicias; venidH3068
+- Jer_51:10contemos en Sion la obra de J nuestroH3068
+- Jer_51:11despertado J el espíritu de los reyesH3068
+- Jer_51:11porque venganza es de J, y venganza deH3068
+- Jer_51:12deliberó J, y aun pondrá en efecto loH3068
+- Jer_51:14J de los ejércitos juró por sí mismoH3068
+- Jer_51:19porque él es el Formador de todo...J deH3068
+- Jer_51:24y pagaré a Babilonia...el mal...dice JH3068
+- Jer_51:25yo estoy contra ti, oh monte...dice JH3068
+- Jer_51:26perpetuo asolamiento serás, ha dicho JH3068
+- Jer_51:29es confirmado...todo el pensamiento de JH3068
+- Jer_51:33así ha dicho J...La hija de Babilonia esH3068
+- Jer_51:36ha dicho J...yo juzgo tu causa y haréH3068
+- Jer_51:39eterno sueño y no despierten, dice jH3068
+- Jer_51:45salvad...vida del ardor de la ira de JH3068
+- Jer_51:48,53vendrán a ella destruidores, dice JH3068
+- Jer_51:50acordaos por...días de J, y...JerusalénH3068
+- Jer_51:51vinieron extranjeros contra...casa de JH3068
+- Jer_51:52dice J...yo destruiré sus ídolos, y enH3068
+- Jer_51:55J destruirá a Babilonia, y quitará deH3068
+- Jer_51:56J, Dios de retribuciones, dará la pagaH3068
+- Jer_51:57dice el Rey, cuyo nombre es J de losH3068
+- Jer_51:58ha dicho J...El muro ancho de BabiloniaH3068
+- Jer_51:62oh J, tú has dicho contra este lugarH3068
+- Jer_52:2lo malo ante los ojos de J, conforme aH3068
+- Jer_52:3causa de la ira de J contra JerusalénH3068
+- Jer_52:13quemó la casa de J, y la casa del reyH3068
+- Jer_52:17columnas...que estaban en la casa de JH3068
+- Jer_52:17el mar de bronce que...en la casa de JH3068
+- Jer_52:20hecho el rey Salomón en la casa de JH3068
+- Lam_1:5porque J la afligió por la multitud deH3068
+- Lam_1:9oh J, mi aflicción, porque el enemigo seH3068
+- Lam_1:11mira, oh J, y ve que estoy abatidaH3068
+- Lam_1:12porque J me ha angustiado en el día deH3068
+- Lam_1:17J dio mandamiento contra Jacob, que susH3068
+- Lam_1:18J es justo...contra su palabra me rebeléH3068
+- Lam_1:20oh J, estoy atribulada, mis entrañasH3068
+- Lam_2:6J ha hecho olvidar las fiestas solemnesH3068
+- Lam_2:7hicieron resonar su voz en la casa de JH3068
+- Lam_2:8J determinó destruir el muro de la hijaH3068
+- Lam_2:9sus profetas tampoco hallaron visión de JH3068
+- Lam_2:17J ha hecho lo que tenía determinado; haH3068
+- Lam_2:20mira, oh J, y considera a quién has...asíH3068
+- Lam_2:22en el día del furor de J no hubo quienH3068
+- Lam_3:18dije: Perecieron mis...mi esperanza en JH3068
+- Lam_3:22por la misericordia de J no hemos sidoH3068
+- Lam_3:24porción es J, dijo mi alma; por tantoH3068
+- Lam_3:25bueno es J a los que en él esperan, alH3068
+- Lam_3:26esperar en silencio la salvación de JH3068
+- Lam_3:40caminos, y busquemos, y volvámonos a JH3068
+- Lam_3:50hasta que J mire y...desde los cielosH3068
+- Lam_3:55invoqué tu nombre...J, desde la cárcelH3068
+- Lam_3:59has visto, oh J, mi agravio; defiendeH3068
+- Lam_3:61has oído el oprobio de ellos, oh J, todasH3068
+- Lam_3:64dales el pago, oh J, según la obra deH3068
+- Lam_3:66quebrántalos de debajo de...cielos, oh JH3068
+- Lam_4:11cumplió J su enojo, derramó el ardor deH3068
+- Lam_4:16la ira de J los apartó, no los miraráH3068
+- Lam_4:20el ungido de J, de quien habíamos dichoH3068
+- Lam_5:1acuérdate...J, de lo que nos ha sucedidoH3068
+- Lam_5:19mas tú, J, permanecerás para siempreH3068
+- Lam_5:21vuélvenos, oh J, a ti, nos volveremosH3068
+- Eze_1:3vino palabra de J al sacerdote EzequielH3068
+- Eze_1:3Ezequiel...vino allí sobre él la mano de JH3068
+- Eze_1:28la visión de la semejanza...gloria de JH3068
+- Eze_2:4te envío...dirás: Así ha dicho J el SeñorH3068
+- Eze_3:11ha dicho J el Señor; escuchen, o dejenH3068
+- Eze_3:12bendita...la gloria de J desde su lugarH3068
+- Eze_3:14pero la mano de J era fuerte sobre míH3068
+- Eze_3:16que...vino a mí palabra de J, diciendoH3068
+- Eze_3:22vino allí la mano de J sobre mí, y meH3068
+- Eze_3:23estaba la gloria de J, como la gloriaH3068
+- Eze_3:27ha dicho J el Señor: El que oye, oigaH3068
+- Eze_4:13dijo J: Así comerán los hijos de IsraelH3068
+- Eze_4:14¡ah, Señor J!...mi alma no es inmundaH3068
+- Eze_5:5ha dicho J el Señor: Esta es JerusalénH3068
+- Eze_5:7dicho J: ¿Por haberos multiplicado másH3068
+- Eze_5:8ha dicho J el Señor...yo estoy contra tiH3068
+- Eze_5:11vivo yo, dice J el Señor...quebrantaréH3068
+- Eze_5:13sabrán que yo J he hablado en mi celoH3068
+- Eze_5:15y serás...escarmiento...Yo J he habladoH3068
+- Eze_5:17enviaré sobre ti espada. Yo J he habladoH3068
+- Eze_6:1; 7:1; 11:14; 12:1,17,21,26; 13:1; 14:2,12; 15:1; 16:1; 17:1,11; 18:1; 20:2,45; 21:1; 22:1,17,23; 23:1; 24:1,15,20; 25:1; 26:1; 27:1; 28:1,11,20; 29:1,17; 30:1,20; 31:1; 32:1,17; 33:1,23; 34:1; 35:1; 36:16; 37:15; 38:1vino a mí palabra de J, diciendoH3068
+- Eze_6:3oíd palabra de J el Señor...ha dicho JH3068
+- Eze_6:7muertos caerán...y sabréis que yo soy JH3068
+- Eze_6:10y sabrán que yo soy J; no en vano dijeH3068
+- Eze_6:11ha dicho J el Señor: Palmotea con tusH3068
+- Eze_6:13sabréis que yo soy J, cuando...muertosH3068
+- Eze_6:14extenderé mi...y conocerán que yo soy JH3068
+- Eze_7:2dicho J el Señor a la tierra de IsraelH3068
+- Eze_7:4no te perdonará...y sabréis que yo soy JH3068
+- Eze_7:5dicho J el Señor: Un mal...viene un malH3068
+- Eze_7:9y sabréis que yo J soy el que castigaH3068
+- Eze_7:19librarlos en el día del furor de J; noH3068
+- Eze_7:27ellos los juzgaré; y sabrán que yo soy JH3068
+- Eze_8:1se posó sobre mí la mano de J el SeñorH3068
+- Eze_8:12no nos ve J; J ha abandonado la tierraH3068
+- Eze_8:14la puerta de la casa de J, que está alH3068
+- Eze_8:16llevó al atrio de adentro...la casa de JH3068
+- Eze_8:16aquí junto a la entrada del templo de JH3068
+- Eze_8:16sus espaldas vueltas al templo de J yH3068
+- Eze_9:3y llamó J al varón vestido de lino, queH3068
+- Eze_9:4dijo J: Pasa por en medio de la ciudadH3068
+- Eze_9:8dije: ¡Ah, Señor J! ¿destruirás a todoH3068
+- Eze_9:9dicho: Ha abandonado J la tierra, y J noH3068
+- Eze_10:4la gloria de J se elevó de encima delH3068
+- Eze_10:4y el atrio se llenó...de la gloria de JH3068
+- Eze_10:18la gloria de J se elevó de encima delH3068
+- Eze_10:19de la puerta oriental de la casa de JH3068
+- Eze_11:1por la puerta oriental de la casa de JH3068
+- Eze_11:5vino sobre mí el Espíritu de J, y...dijoH3068
+- Eze_11:5dicho J: Así habéis hablado, oh casa deH3068
+- Eze_11:7ha dicho J el Señor: Vuestros muertosH3068
+- Eze_11:8espada traeré sobre vosotros, dice J elH3068
+- Eze_11:10en...os juzgaré, y sabréis que yo soy JH3068
+- Eze_11:12sabréis que yo soy J; porque no habéisH3068
+- Eze_11:13¡ah, Señor J! ¿Destruirás del todo alH3068
+- Eze_11:15alejaos de J; a nosotros es dada laH3068
+- Eze_11:16así ha dicho J el Señor: Aunque les heH3068
+- Eze_11:17dicho J el Señor: Yo os recogeré de losH3068
+- Eze_11:21yo traigo su camino sobre sus...dice JH3068
+- Eze_11:23y la gloria de J se elevó de en medioH3068
+- Eze_11:25hablé...cosas que J me había mostradoH3068
+- Eze_12:8y vino a mí palabra de J por la mañanaH3068
+- Eze_12:10ha dicho J...Esta profecía se refiere alH3068
+- Eze_12:15sabrán que yo soy J...los esparciereH3068
+- Eze_12:16pocos...escapen...y sabrán que yo soy JH3068
+- Eze_12:19dicho J el Señor sobre los moradoresH3068
+- Eze_12:20será asolada; y sabréis que yo soy JH3068
+- Eze_12:23ha dicho J...Haré cesar este refrán, yH3068
+- Eze_12:25yo J hablaré, y se cumplirá la...dice JH3068
+- Eze_12:28ha dicho J el Señor: No se tardaráH3068
+- Eze_12:28palabra...se cumplirá, dice J el SeñorH3068
+- Eze_13:2a los que profetizan...Oíd palabra de JH3068
+- Eze_13:3dicho J el Señor: ¡Ay de los profetasH3068
+- Eze_13:5resista...en la batalla en el día de JH3068
+- Eze_13:6dicen: Ha dicho J, y J no los envió; conH3068
+- Eze_13:7decís: Dijo J, no habiendo yo hablado?[[H3068]]
+- Eze_13:8dicho J el Señor: Por cuanto vosotrosH3068
+- Eze_13:8estoy contra vosotros, dice J el SeñorH3068
+- Eze_13:9mano...y sabréis que yo soy J el SeñorH3068
+- Eze_13:13ha dicho J el Señor: Haré que la rompaH3068
+- Eze_13:14seréis consumidos...sabréis que yo soy JH3068
+- Eze_13:16y ven para ella visión de paz...dice JH3068
+- Eze_13:18dicho J el Señor: ¡ Ay de aquellas queH3068
+- Eze_13:20dicho J...estoy contra vuestras vendasH3068
+- Eze_13:21,23libraré a mi...sabréis que yo soy JH3068
+- Eze_14:4dicho J el Señor: Cualquier hombre deH3068
+- Eze_14:4J responderé al que viniere conforme aH3068
+- Eze_14:6dice J el Señor: Convertíos, y volveosH3068
+- Eze_14:7preguntarle por mí, yo J le responderéH3068
+- Eze_14:8lo cortaré de...y sabréis que yo soy JH3068
+- Eze_14:9yo J engañé al tal profeta, y extenderéH3068
+- Eze_14:11y yo les sea por Dios, dice J el SeñorH3068
+- Eze_14:14librarían...sus propias vidas, dice J elH3068
+- Eze_14:16,18,20dice J...no librarían a sus hijosH3068
+- Eze_14:21así ha dicho J el Señor: ¿Cuánto másH3068
+- Eze_14:23no sin causa hice todo lo que he...dice JH3068
+- Eze_15:6así ha dicho J...Como la madera de la vidH3068
+- Eze_15:7sabréis que yo soy J, cuando pusiere miH3068
+- Eze_15:8cuanto cometieron prevaricación, dice JH3068
+- Eze_16:3di: Así ha dicho J el...sobre JerusalénH3068
+- Eze_16:8entré en pacto contigo, dice J el SeñorH3068
+- Eze_16:14hermosura que yo puse sobre ti, dice JH3068
+- Eze_16:19agradable; y fue así, dice J el SeñorH3068
+- Eze_16:23maldad ¡ay, ay de ti! dice J el SeñorH3068
+- Eze_16:30¡cuán inconstante es...dice J el SeñorH3068
+- Eze_16:35por tanto, ramera, oye palabra de JH3068
+- Eze_16:36ha dicho J...han sido descubiertas tusH3068
+- Eze_16:43traeré tu camino sobre tu...dice J elH3068
+- Eze_16:48dice J...Sodoma tu hermana y sus hijasH3068
+- Eze_16:58el castigo de tu lujuria y de...dice JH3068
+- Eze_16:59ha dicho J...¿Haré yo contigo como túH3068
+- Eze_16:62sino por mi pacto...sabrás que yo soy JH3068
+- Eze_16:63cuando yo perdone todo...dice J el SeñorH3068
+- Eze_17:3así ha dicho J el Señor: Una gran águilaH3068
+- Eze_17:9ha dicho J el Señor: ¿Será prosperada?[[H3068]]
+- Eze_17:16dice J...morirá en medio de BabiloniaH3068
+- Eze_17:19ha dicho J...Vivo yo, que el juramentoH3068
+- Eze_17:21vientos; y sabréis que yo J he habladoH3068
+- Eze_17:22así ha dicho J...Tomaré yo del cogolloH3068
+- Eze_17:24yo J abatí el árbol...yo J lo he dichoH3068
+- Eze_18:3dice J...que nunca más tendréis por quéH3068
+- Eze_18:9es justo; éste vivirá, dice J el SeñorH3068
+- Eze_18:23¿quiero yo la muerte del impío? dice JH3068
+- Eze_18:30os juzgaré a cada uno...dice J el SeñorH3068
+- Eze_18:32porque no quiero la muerte del...dice JH3068
+- Eze_20:1algunos de los ancianos...a consultar a JH3068
+- Eze_20:3dicho J...¿A consultarme venís vosotros?[[H3068]]
+- Eze_20:3que no os responderé, dice J el SeñorH3068
+- Eze_20:5ha dicho J...El día que escogí a IsraelH3068
+- Eze_20:5les juré diciendo: Yo soy J vuestro DiosH3068
+- Eze_20:7no os contaminéis...soy J vuestro DiosH3068
+- Eze_20:12para que supiesen que yo soy J que losH3068
+- Eze_20:19yo soy J vuestro Dios; andad en misH3068
+- Eze_20:20que sepáis que yo soy J vuestro DiosH3068
+- Eze_20:26para...y hacerles saber que yo soy JH3068
+- Eze_20:27ha dicho J...Aun en esto me afrentaronH3068
+- Eze_20:30así ha dicho J el...¿no os contamináisH3068
+- Eze_20:31dice J el Señor, que no os responderéH3068
+- Eze_20:33dice J...que con mano fuerte y brazoH3068
+- Eze_20:36así litigaré con vosotros, dice J elH3068
+- Eze_20:38no entrarán; y sabréis que yo soy JH3068
+- Eze_20:39ha dicho J...Andad cada uno tras susH3068
+- Eze_20:40dice J...allí me servirá toda la casaH3068
+- Eze_20:42sabréis que yo soy J, cuando os hayaH3068
+- Eze_20:44sabréis que yo soy J...dice J el SeñorH3068
+- Eze_20:47oye la palabra de J; Así ha dicho J elH3068
+- Eze_20:48verá toda carne que yo J lo encendí; noH3068
+- Eze_20:49dije: ¡Ah, Señor J! ellos dicen de miH3068
+- Eze_21:3dicho J: He aquí que yo estoy contra tiH3068
+- Eze_21:5yo J saqué mi espada de su vaina; no laH3068
+- Eze_21:7que viene, y se hará, dice J el SeñorH3068
+- Eze_21:9así ha dicho J el Señor: Di: La espadaH3068
+- Eze_21:13aun al cetro? El no será más, dice JH3068
+- Eze_21:17y haré reposar mi ira. Yo J he habladoH3068
+- Eze_21:24así ha dicho J...Por cuanto habéis hechoH3068
+- Eze_21:26ha dicho J...Depón la tiara, quita laH3068
+- Eze_21:28así ha dicho J...de los hijos de AmónH3068
+- Eze_21:32serás pasto del fuego...yo J he habladoH3068
+- Eze_22:3así ha dicho J...¡Ciudad derramadora deH3068
+- Eze_22:12sangre; interés y usura tomaste...dice JH3068
+- Eze_22:14contra ti? Yo J he hablado, y lo haréH3068
+- Eze_22:16serás degradada...sabrás que yo soy JH3068
+- Eze_22:19ha dicho J...Por cuanto todos vosotrosH3068
+- Eze_22:22sabréis que yo J habré derramado miH3068
+- Eze_22:28así ha dicho J...y J no había habladoH3068
+- Eze_22:31derramé sobre ellos mi ira...dice J elH3068
+- Eze_23:22ha dicho J...suscitaré contra ti a tusH3068
+- Eze_23:28ha dicho J...yo te entrego en mano deH3068
+- Eze_23:32ha dicho J...Beberás el hondo y...cálizH3068
+- Eze_23:34porque yo he hablado, dice J el SeñorH3068
+- Eze_23:35dicho J...Por cuanto te has olvidado deH3068
+- Eze_23:36dijo J: Hijo de hombre, ¿no juzgarásH3068
+- Eze_23:46ha dicho J...Yo haré subir contra ellasH3068
+- Eze_23:49idolatría; y sabréis que yo soy J elH3068
+- Eze_24:3así ha dicho J...Pon una olla, ponla, yH3068
+- Eze_24:6,9dicho J...¡Ay de la ciudad de sangresH3068
+- Eze_24:14yo J he hablado; vendrá, y yo lo haréH3068
+- Eze_24:14según...tus obras te juzgarán, dice JH3068
+- Eze_24:21así ha dicho J; He aquí yo profano miH3068
+- Eze_24:24ocurra, entonces sabréis que yo soy JH3068
+- Eze_24:27abrirá tu boca...sabrán que yo soy JH3068
+- Eze_25:3oíd palabra de J...Así dice J el SeñorH3068
+- Eze_25:5pondré a Rabá...y sabréis que yo soy JH3068
+- Eze_25:6así ha dicho J...Por cuanto batiste tusH3068
+- Eze_25:7te exterminaré, y sabrás que yo soy JH3068
+- Eze_25:8ha dicho J...Por cuanto dijo Moab y SeirH3068
+- Eze_25:11en Moab haré...y sabrán que yo soy JH3068
+- Eze_25:12así ha dicho J...Por lo que hizo EdomH3068
+- Eze_25:13dicho J...extenderé mi mano sobre EdomH3068
+- Eze_25:14conocerán mi venganza, dice J el SeñorH3068
+- Eze_25:15ha dicho J el...Por lo que hicieron losH3068
+- Eze_25:16dicho J; He aquí yo extiendo mi manoH3068
+- Eze_25:17y sabrán que yo soy J, cuando haga miH3068
+- Eze_26:3ha dicho J...He aquí yo estoy contra tiH3068
+- Eze_26:5porque yo he hablado, dice J el SeñorH3068
+- Eze_26:6muertas a espada; y sabrán que yo soy JH3068
+- Eze_26:7así ha dicho J...He aquí que del norteH3068
+- Eze_26:14porque yo J he hablado, dice J el SeñorH3068
+- Eze_26:15así ha dicho J el Señor a Tiro: ¿No seH3068
+- Eze_26:19ha dicho J...Yo te convertiré en ciudadH3068
+- Eze_26:21y nunca más serás hallada, dice J elH3068
+- Eze_27:3ha dicho J el Señor: Tiro, tú has dichoH3068
+- Eze_28:2ha dicho J...Por cuanto se enalteció tuH3068
+- Eze_28:6así ha dicho J...Por cuanto pusiste tuH3068
+- Eze_28:10porque yo he hablado, dice J el SeñorH3068
+- Eze_28:12así ha dicho J...Tú eras el sello deH3068
+- Eze_28:22ha dicho J...He aquí yo estoy contra tiH3068
+- Eze_28:22y sabrán que yo soy J, cuando haga enH3068
+- Eze_28:23caerán muertos...y sabrán que yo soy JH3068
+- Eze_28:24nunca más será...y sabrán que yo soy JH3068
+- Eze_28:25ha dicho J...Cuando recoja a la casa deH3068
+- Eze_28:26juicios...sabrán que yo soy J su DiosH3068
+- Eze_29:3ha dicho J...He aquí yo estoy contra tiH3068
+- Eze_29:6sabrán todos...que yo soy J, por cuantoH3068
+- Eze_29:8ha dicho J...yo traigo contra ti espadaH3068
+- Eze_29:9y sabrán que yo soy J; por cuanto dijoH3068
+- Eze_29:13así ha dicho J...Al fin de cuarenta añosH3068
+- Eze_29:16en pos de ellos; sabrán que yo soy JH3068
+- Eze_29:19así ha dicho J...He aquí que yo doy aH3068
+- Eze_29:20trabajaron para mí, dice J el SeñorH3068
+- Eze_29:21abriré tu boca...y sabrán que yo soy JH3068
+- Eze_30:2así ha dicho J...Lamentad: ¡Ay de aquelH3068
+- Eze_30:3cerca está el día de J; día de nubladoH3068
+- Eze_30:6así ha dicho J: También caerán los queH3068
+- Eze_30:6caerán en él a filo de espada, dice JH3068
+- Eze_30:8sabrán que yo soy J, cuando ponga fuegoH3068
+- Eze_30:10ha dicho J...Destruiré las riquezas deH3068
+- Eze_30:12destruiré la tierra...Yo J he habladoH3068
+- Eze_30:13así ha dicho J...Destruiré...las imágenesH3068
+- Eze_30:19haré...juicios...y sabrán que yo soy JH3068
+- Eze_30:22dicho J...Heme aquí contra Faraón reyH3068
+- Eze_30:25sabrán que yo soy J, cuando yo pongaH3068
+- Eze_30:26los dispersaré...y sabrán que yo soy JH3068
+- Eze_31:10dijo J...Ya que por ser encumbrado enH3068
+- Eze_31:15dicho J...El día que descendió al SeolH3068
+- Eze_31:18este es Faraón y todo...dice J el SeñorH3068
+- Eze_32:3ha dicho J...Yo extenderé sobre ti mi redH3068
+- Eze_32:8pondré tinieblas sobre tu tierra, dice JH3068
+- Eze_32:11ha dicho J...La espada del rey...vendráH3068
+- Eze_32:14correr sus ríos como aceite, dice J elH3068
+- Eze_32:15cuando asuele la...sabrán que yo soy JH3068
+- Eze_32:16sobre Egipto y...su multitud, dice J elH3068
+- Eze_32:31Faraón muerto a espada, y todo...dice JH3068
+- Eze_32:32yacerán...con los muertos a...dice J elH3068
+- Eze_33:11vivo yo, dice J...no quiero la muerteH3068
+- Eze_33:22y la mano de J había sido sobre mí laH3068
+- Eze_33:25ha dicho J...¿Comeréis con sangre, y aH3068
+- Eze_33:27así ha dicho J...Vivo, yo, que los queH3068
+- Eze_33:29sabrán que yo soy J, cuando conviertaH3068
+- Eze_33:30venid...y oíd qué palabra viene de JH3068
+- Eze_34:2di...pastores: Así ha dicho J el SeñorH3068
+- Eze_34:7,9tanto, pastores, oíd palabra de JH3068
+- Eze_34:8dicho J...por cuanto mi rebaño fue paraH3068
+- Eze_34:10ha dicho J...estoy contra los pastoresH3068
+- Eze_34:11dicho J...He aquí yo...iré a buscar misH3068
+- Eze_34:15yo les daré aprisco, dice J el SeñorH3068
+- Eze_34:17dicho J...He aquí yo juzgo entre ovejaH3068
+- Eze_34:20dice J...He aquí yo, yo juzgaré entreH3068
+- Eze_34:24J les seré por Dios, y mi siervo DavidH3068
+- Eze_34:24príncipe en medio de...Yo J he habladoH3068
+- Eze_34:27sabrán que yo soy J, cuando rompa lasH3068
+- Eze_34:30yo J su Dios estoy con ellos...dice JH3068
+- Eze_34:31y yo vuestro Dios, dice J el SeñorH3068
+- Eze_35:3dile: Así ha dicho J...He aquí yo estoyH3068
+- Eze_35:4tú serás asolado; y sabrás que yo soy JH3068
+- Eze_35:6dice J el Señor...a sangre te destinaréH3068
+- Eze_35:9en asolamiento...y sabréis que yo soy JH3068
+- Eze_35:10y tomaré posesión de...estando allí JH3068
+- Eze_35:11dice J el...yo haré conforme a tu iraH3068
+- Eze_35:12sabrás que yo J he oído...tus injuriasH3068
+- Eze_35:14ha dicho J...Para que toda la tierra seH3068
+- Eze_35:15asolado será...y sabrán que yo soy JH3068
+- Eze_36:1di: Montes de Israel, oíd palabra de JH3068
+- Eze_36:2ha dicho J...Por cuanto el enemigo dijoH3068
+- Eze_36:3así ha dicho J...Por cuanto os asolaronH3068
+- Eze_36:4oíd palabra de J...ha dicho J el SeñorH3068
+- Eze_36:5así ha dicho J...He hablado por ciertoH3068
+- Eze_36:6así ha dicho J...He aquí, en mi celo yH3068
+- Eze_36:7así ha dicho J...Yo he alzado mi manoH3068
+- Eze_36:11multiplicaré...y sabréis que yo soy JH3068
+- Eze_36:13dicho J...Por cuanto dicen de vosotrosH3068
+- Eze_36:14nunca más matarás a...dice J el SeñorH3068
+- Eze_36:15ni harás más morir...dice J el SeñorH3068
+- Eze_36:20éstos son pueblo de J, y de la tierraH3068
+- Eze_36:22ha dicho J...No lo hago por vosotros, ohH3068
+- Eze_36:23sabrán...que yo soy J, dice J el SeñorH3068
+- Eze_36:32no lo hago por vosotros, dice J elH3068
+- Eze_36:33así ha dicho J...El día que os limpie deH3068
+- Eze_36:36desolado; yo J he hablado, y lo haréH3068
+- Eze_36:37ha dicho J...Aún seré solicitado por laH3068
+- Eze_36:38serán llenas de...y sabrán que yo soy JH3068
+- Eze_37:1mano de J...llevó en el Espíritu de JH3068
+- Eze_37:3¿vivirán...Y dije: Señor J, tú lo sabesH3068
+- Eze_37:4y diles: Huesos secos, oíd palabra de JH3068
+- Eze_37:5así ha dicho J el Señor a estos huesosH3068
+- Eze_37:6cubriré de piel...sabréis que yo soy JH3068
+- Eze_37:9ha dicho J...Espíritu, ven de los cuatroH3068
+- Eze_37:12ha dicho J...yo abro vuestros sepulcrosH3068
+- Eze_37:13y sabréis que yo soy J, cuando abraH3068
+- Eze_37:14sabréis que yo J hablé, y lo...dice JH3068
+- Eze_37:19ha dicho J...He aquí, yo tomo el paloH3068
+- Eze_37:21dicho J...He aquí, yo tomo a los hijosH3068
+- Eze_37:28y sabrán...que yo J santifico a IsraelH3068
+- Eze_38:3ha dicho J...yo estoy contra ti, oh GogH3068
+- Eze_38:10así ha dicho J...En aquel día subiránH3068
+- Eze_38:14di a Gog: Así ha dicho J el Señor: EnH3068
+- Eze_38:17ha dicho J...¿No eres tú aquel de quienH3068
+- Eze_38:18dijo J el...subirá mi ira y mi enojoH3068
+- Eze_38:21contra él la espada, dice J el SeñorH3068
+- Eze_38:23seré conocido...y sabrán que yo soy JH3068
+- Eze_39:1ha dicho J...yo estoy contra ti, oh GogH3068
+- Eze_39:5porque yo he hablado, dice J el SeñorH3068
+- Eze_39:6y enviaré fuego...y sabrán que yo soy JH3068
+- Eze_39:7y sabrán las naciones que yo soy J, elH3068
+- Eze_39:8he aquí viene, y se cumplirá, dice J elH3068
+- Eze_39:10robarán a los que les robaron, dice JH3068
+- Eze_39:13será para ellos célebre el día...dice JH3068
+- Eze_39:17ha dicho J el Señor: DI a las aves deH3068
+- Eze_39:20y os saciaréis sobre mi mesa...dice J elH3068
+- Eze_39:22y sabrá la casa de Israel que yo soy JH3068
+- Eze_39:25ha dicho J...Ahora volveré la cautividadH3068
+- Eze_39:28y sabrán que yo soy J su Dios, cuandoH3068
+- Eze_39:29habré derramado de mi Espíritu...dice JH3068
+- Eze_40:1vino sobre mí la mano de J, y me llevóH3068
+- Eze_40:46los hijos de Leví para ministrar a JH3068
+- Eze_41:22esta es la mesa que está delante de JH3068
+- Eze_42:13sacerdotes que se acercan a J comeránH3068
+- Eze_43:4la gloria de J entró en la casa por laH3068
+- Eze_43:5aquí que la gloria de J llenó la casaH3068
+- Eze_43:18ha dicho J...Estas son las ordenanzasH3068
+- Eze_43:19dice J el Señor, para ministrar anteH3068
+- Eze_43:24y los ofrecerás delante de J, y losH3068
+- Eze_43:24sal...y los ofrecerán en holocausto a JH3068
+- Eze_43:27y me seréis aceptos, dice J el SeñorH3068
+- Eze_44:2me dijo J: Esta puerta estará cerradaH3068
+- Eze_44:2porque J Dios de Israel entró por ellaH3068
+- Eze_44:3sentará allí pata comer...delante de JH3068
+- Eze_44:4gloria de J había llenado la casa de JH3068
+- Eze_44:5dijo J: Hijo de hombre, pon atenciónH3068
+- Eze_44:5todas las ordenanzas de la casa de JH3068
+- Eze_44:6ha dicho J el Señor: Basta ya de todasH3068
+- Eze_44:9ha dicho J...Ningún hijo de extranjeroH3068
+- Eze_44:12dice J...que ellos llevarán su iniquidadH3068
+- Eze_44:15ofrecerme la grosura...dice J el SeñorH3068
+- Eze_44:27ofrecerá su expiación, dice J el SeñorH3068
+- Eze_45:1apartaréis una porción para J, que leH3068
+- Eze_45:4se acercan para ministrar a J; y serviráH3068
+- Eze_45:9ha dicho J...¡Basta ya, oh príncipes deH3068
+- Eze_45:9quitad vuestras imposiciones de...dice JH3068
+- Eze_45:15paz, para expiación por ellos, dice JH3068
+- Eze_45:18ha dicho J el Señor: El mes primero, elH3068
+- Eze_45:23los siete días...ofrecerá holocausto a JH3068
+- Eze_46:1así ha dicho J el...La puerta del atrioH3068
+- Eze_46:3adorará el pueblo...delante de J, a laH3068
+- Eze_46:4el holocausto que...ofrecerá a J en elH3068
+- Eze_46:9cuando el pueblo...entrare delante de JH3068
+- Eze_46:12cuando...hiciere...ofrendas de paz a JH3068
+- Eze_46:13ofrecerás en sacrificio a J cada díaH3068
+- Eze_46:14ofrenda para J...por estatuto perpetuoH3068
+- Eze_46:16dicho J el Señor: Si el príncipe diereH3068
+- Eze_47:13ha dicho J...Estos son los límites enH3068
+- Eze_47:23daréis su heredad, ha dicho J el SeñorH3068
+- Eze_48:9la porción que reservaréis para J tendráH3068
+- Eze_48:10santuario de J estará en medio de ellaH3068
+- Eze_48:14no venderán nada...cosa consagrada a JH3068
+- Eze_48:29estas son sus porciones, ha dicho J elH3068
+- Dan_9:2el número de los años de que habló JH3068
+- Dan_9:4y oré a J mi...e hice confesión diciendoH3068
+- Dan_9:8oh J, nuestra es la confusión de rostroH3068
+- Dan_9:9de J...Dios es el tener misericordia y elH3068
+- Dan_9:10y no obedecimos a la voz de J nuestroH3068
+- Dan_9:13no hemos implorado el favor de J, paraH3068
+- Dan_9:14J veló sobre el mal y lo trajo sobreH3068
+- Dan_9:14Justo es J...Dios en todas sus obras queH3068
+- Dan_9:20derramaba mi ruego delante de J mi DiosH3068
+- Ose_1:1palabra de J que vino a Oseas hijo deH3068
+- Ose_1:2principio de la palabra de J por medioH3068
+- Ose_1:2dijo J a Oseas: Vé, tómate una mujerH3068
+- Ose_1:2porque la tierra fornica apartándose de JH3068
+- Ose_1:4y le dijo J: Ponle por nombre JezreelH3068
+- Ose_1:7y los salvaré por J su Dios; y no losH3068
+- Ose_2:13iba tras...y se olvidaba de mí, dice JH3068
+- Ose_2:16aquel tiempo, dice J, me llamarás IshiH3068
+- Ose_2:20te desposaré conmigo...y conocerás a JH3068
+- Ose_2:21dice J, yo responderé a los cielos, yH3068
+- Ose_3:1me dijo otra vez J: Vé, ama a una mujerH3068
+- Ose_3:1como el amor de J para con los hijos deH3068
+- Ose_3:5volverán...Israel y buscarán a J su DiosH3068
+- Ose_3:5temerán a J y a su bondad en el fin deH3068
+- Ose_4:1oíd palabra de J...Porque J contiende conH3068
+- Ose_4:10no se saciarán...dejaron de servir a JH3068
+- Ose_4:15ni subáis a Bet-avén, ni juréis: Vive JH3068
+- Ose_4:16¿los apacentará...J como a corderos enH3068
+- Ose_5:4está en medio de ellos, y no conocen a JH3068
+- Ose_5:6andarán buscando a J, y no le hallaránH3068
+- Ose_5:7contra J prevaricaron...engendrado hijosH3068
+- Ose_6:1venid y volvamos a J; porque él arrebatóH3068
+- Ose_6:3y proseguiremos en conocer a J; como elH3068
+- Ose_7:10y no se volvieron a J su Dios, ni loH3068
+- Ose_8:1como águila viene contra la casa de JH3068
+- Ose_8:13no los quiso J; ahora se acordará de suH3068
+- Ose_9:3no quedarán en la tierra de J, sino queH3068
+- Ose_9:4no harán libaciones a J, ni...sacrificiosH3068
+- Ose_9:4pan...ese pan no entrará en la casa de JH3068
+- Ose_9:5¿qué haréis...el día de la fiesta de J?[[H3068]]
+- Ose_9:14dales...J, lo que les has de dar; dalesH3068
+- Ose_10:2J demolerá sus altares, destruirá susH3068
+- Ose_10:3no tenemos rey, porque no temimos a JH3068
+- Ose_10:12es el tiempo de buscar a J, hasta queH3068
+- Ose_11:10en pos de J caminarán; él rugirá comoH3068
+- Ose_11:11los haré habitar en sus casas, dice JH3068
+- Ose_12:2pleito tiene J con Judá para castigar aH3068
+- Ose_12:5mas J es Dios de los ejércitos; J es suH3068
+- Ose_12:9pero yo soy J tu Dios desde la tierraH3068
+- Ose_12:13J hizo subir a Israel de Egipto, y porH3068
+- Ose_13:4mas yo soy J tu Dios desde la tierra deH3068
+- Ose_13:15vendrá el solano, viento de J...secaráH3068
+- Ose_14:1vuelve, oh Israel, a J tu Dios; porqueH3068
+- Ose_14:2volved a J, y decidle: Quita...iniquidadH3068
+- Ose_14:9porque los caminos de J son rectos, yH3068
+- Joe_1:1Palabra de J que vino a Joel, hijo deH3068
+- Joe_1:9desapareció de la casa de J la ofrenda yH3068
+- Joe_1:9sacerdotes ministros de J están de dueloH3068
+- Joe_1:14congregad...en la casa de J...clamad a JH3068
+- Joe_1:15cercano está el día de J, y vendrá comoH3068
+- Joe_1:19a ti, oh J, clamaré...fuego consumió losH3068
+- Joe_2:1viene el día de J, porque está cercanoH3068
+- Joe_2:11J dará su orden delante de su ejércitoH3068
+- Joe_2:11grande es el día de J, y muy terribleH3068
+- Joe_2:12dice J, convertíos a mí con todo...CorazónH3068
+- Joe_2:13rasgad...y convertíos a J vuestro DiosH3068
+- Joe_2:14y dejará tras...ofrenda y libación para JH3068
+- Joe_2:17lloren los sacerdotes ministros de JH3068
+- Joe_2:17digan: Perdona, Oh J, a tu pueblo, y noH3068
+- Joe_2:18J, solícito por...perdonará a su puebloH3068
+- Joe_2:19responderá J...He aquí yo os envío panH3068
+- Joe_2:21no temas...porque J hará grandes cosasH3068
+- Joe_2:26alabaréis el nombre de J vuestro DiosH3068
+- Joe_2:27Y que yo soy J vuestro Dios, y no hayH3068
+- Joe_2:31que venga el día grande y espantoso de JH3068
+- Joe_2:32que invocare el nombre de J será salvoH3068
+- Joe_2:32Sion...habrá salvación, como ha dicho JH3068
+- Joe_3:8los venderán a los sabeos...J ha habladoH3068
+- Joe_3:11haz venir allí, oh J, a tus fuertesH3068
+- Joe_3:14cercano está el día de J en el valle deH3068
+- Joe_3:16y J rugirá desde Sion, y dará su vozH3068
+- Joe_3:16J será la esperanza de su pueblo, y laH3068
+- Joe_3:17y conoceréis que yo soy J vuestro DiosH3068
+- Joe_3:18saldrá una fuente de la casa de J, yH3068
+- Joe_3:21limpiaré la sangre...y J morará en SionH3068
+- Amó_1:2J rugirá desde Sion, y dará su vozH3068
+- Amó_1:3ha dicho J: Por tres pecados de DamascoH3068
+- Amó_1:5quebraré los cerrojos de Damasco...dice JH3068
+- Amó_1:6así ha dicho J: Por tres pecados de GazaH3068
+- Amó_1:8y el resto de los...perecerá, ha dicho JH3068
+- Amó_1:9así ha dicho J: Por tres pecados de TiroH3068
+- Amó_1:11ha dicho J: Por tres pecados de Edom, yH3068
+- Amó_1:13ha dicho J: Por tres pecados de...AmónH3068
+- Amó_1:15su rey irá en cautiverio, él y...dice JH3068
+- Amó_2:1ha dicho J: Por tres pecados de Moab, yH3068
+- Amó_2:3quitaré el Juez de en medio de...dice JH3068
+- Amó_2:4así ha dicho J: Por tres pecados de JudáH3068
+- Amó_2:4porque menospreciaron la ley de J, y noH3068
+- Amó_2:6ha dicho J: Por tres pecados de IsraelH3068
+- Amó_2:11¿no es...así, dice J, hijos de Israel?[[H3068]]
+- Amó_2:16el esforzado de...huirá desnudo...dice JH3068
+- Amó_3:1oíd esta palabra que ha hablado J contraH3068
+- Amó_3:6¿habrá algún mal...cual J no haya hecho?[[H3068]]
+- Amó_3:7no hará nada J el Señor, sin que reveleH3068
+- Amó_3:8habla J el Señor, ¿quién no profetizará?[[H3068]]
+- Amó_3:10no saben...lo recto, dice J, atesorandoH3068
+- Amó_3:11J el Señor ha dicho...Un enemigo vendráH3068
+- Amó_3:12ha dicho J: De la manera que el pastorH3068
+- Amó_3:13oíd y testificad...ha dicho J Dios de losH3068
+- Amó_3:15muchas casas serán arruinadas, dice JH3068
+- Amó_4:2J el Señor juró por su santidad: He aquíH3068
+- Amó_4:3y saldréis...echadas de¡ palacio, dice JH3068
+- Amó_4:5pues que así lo queréis...dice J el SeñorH3068
+- Amó_4:6,8,9,10,11no os volvisteis a mí, dice JH3068
+- Amó_4:13J Dios de los ejércitos es su nombreH3068
+- Amó_5:3ha dicho J...La ciudad que salga con milH3068
+- Amó_5:4dice J a la casa de Israel: Buscadme, yH3068
+- Amó_5:6buscad a J, y vivid; no sea que acometaH3068
+- Amó_5:8el que llama a las aguas...J es su nombreH3068
+- Amó_5:14así J Dios de los...estará con vosotrosH3068
+- Amó_5:15quizá J...tendrá piedad del remanente deH3068
+- Amó_5:16ha dicho J...En todas las plazas habráH3068
+- Amó_5:17porque pasaré en medio de ti, dice JH3068
+- Amó_5:18¡ay de los que desean el día de J! ¿ParaH3068
+- Amó_5:18¿para qué queréis este día de J? SeráH3068
+- Amó_5:20¿no será el día de J tinieblas, y no luzH3068
+- Amó_5:27os haré, pues, transportar...ha dicho JH3068
+- Amó_6:8J...juró por sí mismo, J Dios...ha dichoH3068
+- Amó_6:10no podemos mencionar el nombre de JH3068
+- Amó_6:11J mandará, y herirá con hendiduras laH3068
+- Amó_6:14dice J...levantaré yo sobre vosotros aH3068
+- Amó_7:1así me ha mostrado J...él criaba langostasH3068
+- Amó_7:2dije: J, perdona ahora; ¿quién levantaráH3068
+- Amó_7:3,6arrepintió J de esto: No será, dijo JH3068
+- Amó_7:4J...me mostró así...J el Señor llamaba paraH3068
+- Amó_7:5Señor J, cesa ahora; ¿quién levantará aH3068
+- Amó_7:6no será esto tampoco, dijo J el SeñorH3068
+- Amó_7:8J...me dijo: ¿Qué ves, Amós? Y dije: UnaH3068
+- Amó_7:15y J me tomó de detrás del ganado, y meH3068
+- Amó_7:16ahora, pues, oye palabra de J...Tú dicesH3068
+- Amó_7:17así ha dicho J: Tu mujer será ramera enH3068
+- Amó_8:1me ha mostrado J...He aquí un canastilloH3068
+- Amó_8:2dijo J: Ha venido el fin sobre...IsraelH3068
+- Amó_8:3los cantores del templo gemirán...dice JH3068
+- Amó_8:7J juró por la gloria de Jacob: No meH3068
+- Amó_8:9dice J...que haré que se ponga el sol aH3068
+- Amó_8:11vienen días, dice J...enviaré hambre aH3068
+- Amó_8:11ni sed de...sino de oír la palabra de JH3068
+- Amó_8:12e irán errantes...buscando palabra de JH3068
+- Amó_9:5J de los ejércitos, es el que toca laH3068
+- Amó_9:6él edificó en el cielo...J es su nombreH3068
+- Amó_9:7¿no me sois...hijos de etíopes, dice J?[[H3068]]
+- Amó_9:8los ojos de J el Señor...contra el reinoH3068
+- Amó_9:8no destruiré...la casa de Jacob, dice JH3068
+- Amó_9:12posean...y a todas las naciones, dice JH3068
+- Amó_9:13vienen días, dice J, en que el que araH3068
+- Amó_9:15los plantaré sobre...ha dicho J Dios tuyoH3068
+- Abd_1:1J el Señor ha dicho así...cuanto a EdomH3068
+- Abd_1:1hemos oído el pregón de J, y mensajero haH3068
+- Abd_1:4remontares...de ahí te derribaré, dice JH3068
+- Abd_1:8¿no haré que perezcan...dice J, los sabiosH3068
+- Abd_1:15cercano está el día de J sobre...nacionesH3068
+- Abd_1:18ni aun resto quedará de...J lo ha dichoH3068
+- Abd_1:21subirán salvadores...y el reino será de JH3068
+- Jon_1:1palabra de J a Jonás hijo de AmitaiH3068
+- Jon_1:3para huir de la presencia de J a TarsisH3068
+- Jon_1:3irse...Tarsis, lejos de la presencia de JH3068
+- Jon_1:4J hizo levantar un gran viento en el marH3068
+- Jon_1:9y temo a J, Dios de los cielos, que hizoH3068
+- Jon_1:10sabían que huía de la presencia de JH3068
+- Jon_1:14clamaron a J y dijeron: Te rogamos ahoraH3068
+- Jon_1:14te rogamos ahora, J, que no perezcamosH3068
+- Jon_1:14porque tú, J, has hecho...has queridoH3068
+- Jon_1:16temieron aquellos hombres a J con granH3068
+- Jon_1:16ofrecieron sacrificio a J, e hicieronH3068
+- Jon_1:17pero J tenía preparado un gran pez queH3068
+- Jon_2:1oró Jonás a J...desde el vientre del pezH3068
+- Jon_2:2invoqué en mi angustia a J, y él me oyóH3068
+- Jon_2:6tú sacaste mi vida de la sepultura, oh JH3068
+- Jon_2:7alma desfallecía en mí, me acordé de JH3068
+- Jon_2:9pagaré lo...prometí. La salvación es de JH3068
+- Jon_2:10y mandó J al pez, y vomitó a Jonás enH3068
+- Jon_3:1vino palabra de J...segunda vez a JonásH3068
+- Jon_3:3fue a Nínive conforme a la palabra de JH3068
+- Jon_4:2oró a J y dijo: Ahora, oh J, ¿no es estoH3068
+- Jon_4:3ahora...J, te ruego que me quites la vidaH3068
+- Jon_4:4y J le dijo: ¿Haces tú bien en enojarteH3068
+- Jon_4:6preparó J Dios una calabacera, la cualH3068
+- Jon_4:10J: Tuviste tú lástima de la calabaceraH3068
+- Miq_1:1palabra de J...a Miqueas de Moreset enH3068
+- Miq_1:2J el Señor...sea testigo contra vosotrosH3068
+- Miq_1:3aquí, J sale de su lugar, y descenderáH3068
+- Miq_1:12de parte de J el mal había descendidoH3068
+- Miq_2:3dicho J: He aquí, yo pienso contra estaH3068
+- Miq_2:5no habrá quien...en la congregación de JH3068
+- Miq_2:7Jacob, ¿se ha acortado el Espíritu de J?[[H3068]]
+- Miq_2:13su rey pasará...y a la cabeza de ellos JH3068
+- Miq_3:4clamaréis a J, y no os responderá; antesH3068
+- Miq_3:5ha dicho J acerca de los profetas queH3068
+- Miq_3:8estoy lleno de poder del Espíritu de JH3068
+- Miq_3:11se apoyan en J, diciendo: ¿No está JH3068
+- Miq_4:1monte de la casa de J será establecidoH3068
+- Miq_4:2venid, y subamos al monte de J, y a laH3068
+- Miq_4:2la ley, y de Jerusalén la palabra de JH3068
+- Miq_4:4boca de J de los ejércitos lo ha habladoH3068
+- Miq_4:5todo andaremos en el nombre de J nuestroH3068
+- Miq_4:6aquel día, dice J, juntaré la que cojeaH3068
+- Miq_4:7y J reinará sobre ellos en el monte deH3068
+- Miq_4:10redimirá J de la mano de tus enemigosH3068
+- Miq_4:12no conocieron los pensamientos de J, niH3068
+- Miq_4:13consagrarás a J su botín, y...al SeñorH3068
+- Miq_5:4él estará, y apacentará con poder de JH3068
+- Miq_5:4con grandeza del nombre de J su Dios; yH3068
+- Miq_5:7remanente de Jacob...como el rocío de JH3068
+- Miq_5:10acontecerá...dice J, que haré matar tusH3068
+- Miq_6:1oíd...lo que dice J: Levántate, contiendeH3068
+- Miq_6:2oíd...el pleito de J...J tiene pleito conH3068
+- Miq_6:5para que conozcas las justicias de JH3068
+- Miq_6:6¿con qué me presentaré ante J, y adoraréH3068
+- Miq_6:7¿se agradará J de millares de carnerosH3068
+- Miq_6:8qué pide J de ti...hacer justicia, y amarH3068
+- Miq_6:9la voz de J clama a la ciudad; es sabioH3068
+- Miq_7:7mas yo a J miraré, esperaré al Dios deH3068
+- Miq_7:8aunque more en tinieblas, J será mi luzH3068
+- Miq_7:9ira de J soportaré, porque pequé contraH3068
+- Miq_7:10que me decía: ¿Dónde está J tu Dios?[[H3068]]
+- Miq_7:17se volverán amedrentados ante J...DiosH3068
+- Nah_1:2J es Dios celoso y vengador; J esH3068
+- Nah_1:3J es tardo para la ira y grande en poderH3068
+- Nah_1:3J marcha en la tempestad y el torbellinoH3068
+- Nah_1:7J es bueno, fortaleza en el día de laH3068
+- Nah_1:9¿qué pensáis contra J?...hará consumaciónH3068
+- Nah_1:11de ti salió el que imaginó mal contra JH3068
+- Nah_1:12ha dicho J: Aunque reposo tengan, y seanH3068
+- Nah_1:14mandará J, que no quede ni memoria deH3068
+- Nah_2:2porque J restaurará la gloria de JacobH3068
+- Nah_2:13; 3:5heme aquí contra ti, dice J de losH3068
+- Hab_1:2¿hasta cuándo, oh J, clamaré, y noH3068
+- Hab_1:12¿no eres tú desde el principio, oh JH3068
+- Hab_1:12oh J, para juicio lo pusiste; y tú, ohH3068
+- Hab_2:2y J me respondió...Escribe la visión, yH3068
+- Hab_2:13¿no es esto de J de los ejércitos? LosH3068
+- Hab_2:14la tierra será llena...de la gloria de JH3068
+- Hab_2:16cáliz de...J vendrá hasta ti, y vómitoH3068
+- Hab_2:20mas J está en su santo templo; calleH3068
+- Hab_3:2oh J, he oído tu palabra, y temí...OhH3068
+- Hab_3:2J, aviva tu obra en medio de los tiemposH3068
+- Hab_3:8¿te airaste, oh J, contra los ríos?[[H3068]]
+- Hab_3:18con todo, yo me alegraré en J, y meH3068
+- Hab_3:19J el Señor es mi fortaleza, el cualH3068
+- Sof_1:1palabra de J...vino a Sofonías hijoH3068
+- Sof_1:2destruiré por completo todas las...dice JH3068
+- Sof_1:3cortaré a los impíos; y raeré a...dice JH3068
+- Sof_1:5y a los que se postran jurando por J yH3068
+- Sof_1:6apartan de en pos de J...no buscaron a JH3068
+- Sof_1:7calla en la presencia de J el SeñorH3068
+- Sof_1:7porque el día de J está cercano; porqueH3068
+- Sof_1:7J ha preparado sacrificio, y ha dispuestoH3068
+- Sof_1:8el día del sacrificio de J castigaré aH3068
+- Sof_1:10habrá...dice J, voz de clamor desde laH3068
+- Sof_1:12que...dice...J ni hará bien ni hará malH3068
+- Sof_1:14cercano está el día grande de J, cercanoH3068
+- Sof_1:14es amarga la voz del día de J: gritaráH3068
+- Sof_1:17como ciegos, porque pecaron contra JH3068
+- Sof_1:18ni su plata...en el día de la ira de JH3068
+- Sof_2:2venga sobre vosotros el furor...ira de JH3068
+- Sof_2:2antes que el día de la ira de J vengaH3068
+- Sof_2:3buscad a J...los humildes de la tierraH3068
+- Sof_2:3seréis guardados...el día del enojo de JH3068
+- Sof_2:5la palabra de J es contra vosotros, ohH3068
+- Sof_2:7J...visitará, y levantará su cautiverioH3068
+- Sof_2:9dice J de los...que Moab será como SodomaH3068
+- Sof_2:10afrentaron...pueblo de J de los ejércitosH3068
+- Sof_2:11terrible será J contra ellos, porqueH3068
+- Sof_3:2no confió en J, no se acercó a su DiosH3068
+- Sof_3:5J en medio de ella es justo, no haráH3068
+- Sof_3:8esperadme, dice J, hasta el día que meH3068
+- Sof_3:9para que todos invoquen el nombre de JH3068
+- Sof_3:12el cual confiará en el nombre de JH3068
+- Sof_3:15J ha apartado tus juicios...J es Rey deH3068
+- Sof_3:17J está en medio de ti, poderoso, élH3068
+- Sof_3:20pues os pondré para renombre...dice JH3068
+- Hag 1:1,3vino palabra de J por medio delH3068
+- Hag 1:2así ha hablado J...Este pueblo dice: NoH3068
+- Hag 1:2tiempo de que la casa de J...reedificadaH3068
+- Hag 1:5,7ha dicho J...Meditad...vuestros caminosH3068
+- Hag 1:8la casa...y seré glorificado, ha dicho JH3068
+- Hag 1:9¿por qué? dice J de los ejércitos...PorH3068
+- Hag 1:12oyó Zorobabel hijo...la voz de J su DiosH3068
+- Hag 1:12Hageo, como le había enviado J su DiosH3068
+- Hag 1:12y oyó...y temió el pueblo delante de JH3068
+- Hag 1:13enviado de J, habló por mandato de JH3068
+- Hag 1:13diciendo: Yo estoy con vosotros, dice JH3068
+- Hag 1:14y despertó J el espíritu de ZorobabelH3068
+- Hag 1:14y trabajaron en la casa de J...su DiosH3068
+- Hag 2:1,10palabra de J por medio de¡ profetaH3068
+- Hag 2:4ahora, Zorobabel, esfuérzate, dice JH3068
+- Hag 2:4cobrad ánimo, pueblo...dice J, y trabajadH3068
+- Hag 2:4porque yo estoy con vosotros, dice J deH3068
+- Hag 2:6dice J...De aquí a poco yo haré temblarH3068
+- Hag 2:7llenaré de gloria esta casa, ha dicho JH3068
+- Hag 2:8mío es el oro, dice J de los ejércitosH3068
+- Hag 2:9gloria postrera...será mayor...ha dicho JH3068
+- Hag 2:9y daré paz en este lugar, dice J de losH3068
+- Hag 2:11así ha dicho J...Pregunta ahora a losH3068
+- Hag 2:14así...esta gente delante de mí, dice JH3068
+- Hag 2:15piedra sobre piedra en el templo de JH3068
+- Hag 2:17mas no os convertisteis a mí, dice JH3068
+- Hag 2:18que se echó el cimiento del templo de JH3068
+- Hag 2:20vino...segunda vez palabra de J a HageoH3068
+- Hag 2:23te tomaré, oh Zorobabel...dice J, y teH3068
+- Hag 2:23yo te escogí, dice J de los ejércitosH3068
+- Zac_1:1,7palabra de J al profeta ZacaríasH3068
+- Zac_1:2se enojó J en...contra vuestros padresH3068
+- Zac_1:3así ha dicho J...Volveos a mí, dice J deH3068
+- Zac_1:3y yo me volveré a vosotros, ha dicho JH3068
+- Zac_1:4diciendo: Así ha dicho J...Volveos ahoraH3068
+- Zac_1:4no atendieron, ni me escucharon, dice JH3068
+- Zac_1:6J...pensó tratarnos conforme a nuestrosH3068
+- Zac_1:10son los que J ha enviado a recorrer laH3068
+- Zac_1:11hablaron a aquel ángel de J que estabaH3068
+- Zac_1:12respondió el ángel de J...Oh J de losH3068
+- Zac_1:13J respondió...palabras consoladoras, alH3068
+- Zac_1:14ha dicho J...Celé con gran celo a...SionH3068
+- Zac_1:16ha dicho J: Yo me he vuelto a JerusalénH3068
+- Zac_1:16en ella será edificada mi casa, dice JH3068
+- Zac_1:17así dice J...Aún rebosarán mis ciudadesH3068
+- Zac_1:17y aún consolará J a Sion, y escogeráH3068
+- Zac_1:20me mostró luego J cuatro carpinterosH3068
+- Zac_2:5seré para ella, dice J, muro de fuego enH3068
+- Zac_2:6eh, huid de la tierra del norte, dice JH3068
+- Zac_2:6los cuatro vientos...os esparcí, dice JH3068
+- Zac_2:8ha dicho J...Tras la gloria me enviaráH3068
+- Zac_2:9sabréis que J de los ejércitos me envióH3068
+- Zac_2:10y moraré en medio de ti, ha dicho JH3068
+- Zac_2:11se unirán muchas naciones a J en aquelH3068
+- Zac_2:11conocerás que J de...me ha enviado a tiH3068
+- Zac_2:12y J poseerá a Judá su heredad en laH3068
+- Zac_2:13calle toda carne delante de J; porqueH3068
+- Zac_3:1el cual estaba delante del ángel de JH3068
+- Zac_3:2y dijo J a Satanás: J te reprenda, ohH3068
+- Zac_3:2J...ha escogido a Jerusalén te reprendaH3068
+- Zac_3:5las ropas. Y el ángel de J estaba en pieH3068
+- Zac_3:6el ángel de J amonestó a Josué, diciendoH3068
+- Zac_3:7dice J...Si anduvieres por mis caminosH3068
+- Zac_3:9yo grabaré su escultura, dice J de losH3068
+- Zac_3:10dice J...cada uno de vosotros convidaráH3068
+- Zac_4:6esta es palabra de J a Zorobabel, queH3068
+- Zac_4:6sino con mi Espíritu, ha dicho J de losH3068
+- Zac_4:8vino palabra de J a mí, diciendoH3068
+- Zac_4:9y conocerás que J...me envió a vosotrosH3068
+- Zac_4:10siete son los ojos de J, que recorrenH3068
+- Zac_5:4he hecho salir, dice J de los ejércitosH3068
+- Zac_6:9vino a mí palabra de J, diciendoH3068
+- Zac_6:12así ha hablado J...He aquí el varón cuyoH3068
+- Zac_6:12el Renuevo...edificará el templo de JH3068
+- Zac_6:13él edificará el templo de J...le llevaráH3068
+- Zac_6:14servirán...memoria en el templo de JH3068
+- Zac_6:15y ayudarán a edificar el templo de JH3068
+- Zac_6:15y conoceréis que J de...me ha enviado aH3068
+- Zac_6:15esto sucederá si oyereis...la voz de JH3068
+- Zac_7:1rey Darío vino palabra de J a ZacaríasH3068
+- Zac_7:2había enviado...a implorar el favor de JH3068
+- Zac_7:3sacerdotes que estaban en la casa de JH3068
+- Zac_7:4vino...a mí palabra de J de los ejércitosH3068
+- Zac_7:7las palabras que proclamó J por medio deH3068
+- Zac_7:8vino palabra de J a Zacarías, diciendoH3068
+- Zac_7:9así habló J...Juzgad conforme a la verdadH3068
+- Zac_7:12no oír...las palabras que J...enviaba porH3068
+- Zac_7:12vino...gran enojo de parte de J de losH3068
+- Zac_7:13yo no escuché, dice J de los ejércitosH3068
+- Zac_8:1,18a mí palabra de J de los ejércitosH3068
+- Zac_8:2así ha dicho J...Celé a Sion con gran celoH3068
+- Zac_8:3así dice J: Yo he restaurado a Sion, yH3068
+- Zac_8:3y el monte de J de...Monte de SantidadH3068
+- Zac_8:4así ha dicho J...Aún han de morar ancianosH3068
+- Zac_8:6dice J...Si esto parecerá maravilloso aH3068
+- Zac_8:6maravilloso delante de mis ojos? dice JH3068
+- Zac_8:7ha dicho J...yo salvo a mi pueblo de laH3068
+- Zac_8:9ha dicho J...Esfuércense vuestras manosH3068
+- Zac_8:9que se echó el cimiento a la casa de JH3068
+- Zac_8:11no lo haré con el remanente de...dice JH3068
+- Zac_8:14así ha dicho J...Como pensé haceros malH3068
+- Zac_8:17estas son cosas que aborrezco, dice JH3068
+- Zac_8:19ha dicho J...El ayuno del cuarto mes, elH3068
+- Zac_8:20así ha dicho J...Aún vendrán pueblos, yH3068
+- Zac_8:21dirán...Vamos a implorar el favor de JH3068
+- Zac_8:22vendrán...a buscar a J de los ejércitosH3068
+- Zac_8:23dicho J...tomarán del manto a un judíoH3068
+- Zac_9:1profecía de la palabra de J está contraH3068
+- Zac_9:1a J deben mirar los ojos de los hombresH3068
+- Zac_9:14J será visto sobre ellos, y su dardoH3068
+- Zac_9:14J el Señor tocará trompeta, e irá entreH3068
+- Zac_9:15J de los ejércitos los amparará, y ellosH3068
+- Zac_9:16los salvará en aquel día J su Dios comoH3068
+- Zac_10:1pedid a J lluvia en la estación tardíaH3068
+- Zac_10:1J hará relámpagos, y os dará lluviaH3068
+- Zac_10:3pero J...visitará su rebaño, la casa deH3068
+- Zac_10:5y pelearán, porque J estará con ellosH3068
+- Zac_10:6porque yo soy J su Dios, y los oiréH3068
+- Zac_10:7se alegrarán; su corazón se gozará en JH3068
+- Zac_10:12fortaleceré en J...en su nombre, dice JH3068
+- Zac_11:4así ha dicho J...Apacienta las ovejas deH3068
+- Zac_11:5bendito sea J, porque he enriquecidoH3068
+- Zac_11:6no tendré ya más piedad de los...dice JH3068
+- Zac_11:11así conocieron...que era palabra de JH3068
+- Zac_11:13me dijo J: Échalo al tesoro; ¡hermosoH3068
+- Zac_11:13y las eché en la casa de J al tesoroH3068
+- Zac_11:15me dijo J: Toma aún los aperos de unH3068
+- Zac_12:1profecía de la palabra de J acerca deH3068
+- Zac_12:1J, que extiende los cielos y funda laH3068
+- Zac_12:4aquel día, dice J, heriré con pánico aH3068
+- Zac_12:5tienen fuerza los...de Jerusalén en JH3068
+- Zac_12:7librará J las tiendas de Judá primeroH3068
+- Zac_12:8día J defenderá al morador de JerusalénH3068
+- Zac_12:8será...como el ángel de J delante de ellosH3068
+- Zac_13:2dice J...quitaré de la tierra...imágenesH3068
+- Zac_13:3has hablado mentira en el nombre de JH3068
+- Zac_13:7levántate, oh espada, contra el...dice JH3068
+- Zac_13:8dice J, que las dos terceras partesH3068
+- Zac_13:9diré: Pueblo mío; y el dirá: J es mi DiosH3068
+- Zac_14:1he aquí, el día de J viene, y en medioH3068
+- Zac_14:3saldrá J y peleará con...naciones, comoH3068
+- Zac_14:5vendrá J mi Dios, y con él...los santosH3068
+- Zac_14:7será un día, el cual es conocido de JH3068
+- Zac_14:9y J será rey sobre toda la tierra...EnH3068
+- Zac_14:9aquel día J será uno, y uno su nombreH3068
+- Zac_14:12esta será la plaga con que herirá J aH3068
+- Zac_14:13entre ellos gran pánico enviado por JH3068
+- Zac_14:16subirán...para adorar al Rey, a J de losH3068
+- Zac_14:17no subieren...para adorar al Rey, J deH3068
+- Zac_14:18la plaga con que J herirá las nacionesH3068
+- Zac_14:20estará grabado sobre las...SANTIDAD A JH3068
+- Zac_14:20las ollas de la casa de J serán comoH3068
+- Zac_14:21toda olla...será consagrada a J de losH3068
+- Zac_14:21y no habrá...mercader en la casa de JH3068
+- Mal_1:1profecía de la palabra de J contraH3068
+- Mal_1:2os he amado, dice J; y dijisteis: ¿En quéH3068
+- Mal_1:2¿no era Esaú hermano de Jacob? dice JH3068
+- Mal_1:4ha dicho J...edificarán, y yo destruiréH3068
+- Mal_1:4pueblo contra el cual J está indignadoH3068
+- Mal_1:5diréis: Sea J engrandecido más allá deH3068
+- Mal_1:6dice J de los ejércitos a vosotros, ohH3068
+- Mal_1:7pensáis que la mesa de J es despreciableH3068
+- Mal_1:8le serás acepto? dice J de los ejércitosH3068
+- Mal_1:9pero ¿cómo podéis agradarle...dice J deH3068
+- Mal_1:10no tengo complacencia en...dice J de losH3068
+- Mal_1:11grande es mi nombre entre las...dice JH3068
+- Mal_1:12cuando decís: Inmunda es la mesa de JH3068
+- Mal_1:13y me despreciáis, dice J de...ejércitosH3068
+- Mal_1:13¿aceptaré yo...de vuestra mano? dice JH3068
+- Mal_1:14que...promete, y sacrifica a J lo dañadoH3068
+- Mal_1:14porque yo soy Gran Rey, dice J de losH3068
+- Mal_2:2ha dicho J de...enviaré maldición sobreH3068
+- Mal_2:4que fuese mi pacto con Leví, ha dicho JH3068
+- Mal_2:7porque mensajero es de J de...ejércitosH3068
+- Mal_2:8habéis corrompido el pacto...dice J de losH3068
+- Mal_2:11Judá ha profanado el santuario de J queH3068
+- Mal_2:12J cortará...al hombre que hiciere estoH3068
+- Mal_2:12que ofrece ofrenda a J de los ejércitosH3068
+- Mal_2:13haréis cubrir el altar de J de lágrimasH3068
+- Mal_2:14J ha atestiguado entre ti y la mujer deH3068
+- Mal_2:16J...ha dicho que él aborrece el repudioH3068
+- Mal_2:16al que cubre de iniquidad su...dijo JH3068
+- Mal_2:17habéis hecho cansar a J con vuestrasH3068
+- Mal_2:17cualquiera que hace mal agrada a J, yH3068
+- Mal_3:1aquí viene, ha dicho J de los ejércitosH3068
+- Mal_3:3Leví...y traerán a J ofrenda en justiciaH3068
+- Mal_3:4será grata a J la ofrenda de Judá y deH3068
+- Mal_3:5no teniendo temor de mí, dice J de losH3068
+- Mal_3:6yo J no cambio; por esto, hijos de JacobH3068
+- Mal_3:7volveos a mí...dicho J de los ejércitosH3068
+- Mal_3:10y probadme ahora en esto, dice J de losH3068
+- Mal_3:11no os destruirá el fruto de la...dice JH3068
+- Mal_3:12porque seréis tierra deseable, dice J deH3068
+- Mal_3:13contra mí han sido violentas, dice JH3068
+- Mal_3:14andemos afligidos en presencia de J deH3068
+- Mal_3:16los que temían a J hablaron cada uno aH3068
+- Mal_3:16J escuchó y oyó, y fue escrito libro deH3068
+- Mal_3:16delante de él para los que temen a JH3068
+- Mal_3:17para mí especial tesoro, ha dicho J deH3068
+- Mal_4:1día que vendrá los abrasará, ha dicho JH3068
+- Mal_4:3serán ceniza...dicho J de los ejércitosH3068
+- Mal_4:5que venga el día de J, grande y terribleH3068

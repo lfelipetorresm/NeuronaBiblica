@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: CUERNO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CUERNO
+
+- Gén_22:13un carnero trabado en un...por sus cH7161
+- Éxo_27:2le harás c...c serán parte del mismoH7161
+- Éxo_29:12pondrás sobre los c del altar con tuH7161
+- Éxo_30:2dos codos; y sus c serán parte del mismoH7161
+- Éxo_30:3de oro...sus paredes en derredor y sus cH7161
+- Éxo_30:10sobre sus c hará Aarón expiación unaH7161
+- Éxo_37:25el altar del...y sus c de la misma piezaH7161
+- Éxo_37:26de oro...sus paredes alrededor, y sus cH7161
+- Éxo_38:2hizo sus c a sus cuatro esquinas, losH7161
+- Lev_4:7pondrá de esa sangre sobre...c del altarH7161
+- Lev_4:18, Lev_4:25, Lev_4:30, Lev_4:34pondrá sobre los c del altarH7161
+- Lev_8:15puso con su dedo sobre los c del altarH7161
+- Lev_9:9mojó...puso de ella sobre los c del altarH7161
+- Lev_16:18sangre...la pondrá sobre los c del altarH7161
+- Jos_6:4llevarán 7 ocinas de c de carneroH3104
+- Jos_6:5y cuando toquen...el c de carnero, así queH7161
+- Jos_6:6siete sacerdotes llevan bocinas de c deH3104
+- Jos_6:8, Jos_6:13llevando 7 bocinas de c de carneroH3104
+- Jue_3:27tocó el c en el monte de Efraín, y losH7782
+- Jue_6:34tocó el c...los abiezeritas se reunieronH7782
+- 1Sa_16:1llena tu c de aceite, y...te enviaréH7161
+- 1Sa_16:13Samuel tomó el c del aceite, y lo ungióH7161
+- 2Sa_2:28Joab tocó el c, y todo el pueblo seH7782
+- 1Re_1:39y tomando...Sado c el c el aceite delH7161
+- 1Re_1:50y se fue, y se asió de los c del altarH7161
+- 1Re_1:51se ha asido de los c del altar, diciendoH7161
+- 1Re_2:28huyó Joab...y se asió de los c del altarH7161
+- 1Re_22:11Sedequías...había hecho unos c de hierroH7161
+- 2Cr_18:10se había hecho c de hierro, y decíaH7161
+- Sal_22:21y líbrame de los c de los búfalosH7161
+- Sal_69:31buey, o becerro que tiene c y pezuñasH7160
+- Sal_118:27atad víctimas con...a los c del altarH7161
+- Jer_17:1esculpido...en los c de sus altaresH7161
+- Eze_34:21acorneasteis con vuestros c a todasH7161
+- Eze_43:15altar...encima del altar había cuatro cH7161
+- Eze_43:20pondrás en los cuatro c del altar, y enH7161
+- Dan_7:7bestia...era muy diferente...tenía diez cH7162
+- Dan_7:8y contemplaba los c, he aquí que otro cH7162
+- Dan_7:8delante de él fueron arrancados tres cH7162
+- Dan_7:8que este c tenía ojos como de hombre, yH7162
+- Dan_7:11las grandes palabras que hablaba el cH7162
+- Dan_7:20de los diez c que tenía...c tenía ojosH7162
+- Dan_7:21este c hacía guerra contra los santosH7162
+- Dan_7:24los diez c significan que de aquel reinoH7162
+- Dan_8:3carnero...tenía dos c...los c eran altosH7161
+- Dan_8:4que el carnero hería con los c al poniente
+- Dan_8:5macho cabrío tenía un c notable entre susH7161
+- Dan_8:6y vino hasta el carnero de dos c, que yoH7161
+- Dan_8:7le quebró sus dos c, y el carnero no teníaH7161
+- Dan_8:8aquel gran c fue quebrado, y en su lugarH7161
+- Dan_8:8y en su lugar salieron otros cuatro cH2380
+- Dan_8:9de uno de ellos salió un c pequeño, queH7161
+- Dan_8:20que tenía dos c, éstos son los reyes deH7161
+- Dan_8:21y el c grande que tenía entre sus ojosH7161
+- Dan_8:22y en cuanto al c que fue quebrado, y
+- Amó_3:14y serán cortados los c del altar yH7161
+- Miq_4:13haré tu c como de hierro, y tus uñasH7161
+- Zac_1:18mis ojos y miré, y he aquí cuatro cH7161
+- Zac_1:19, Zac_1:21son los c que dispersaron a JudáH7161
+- Zac_1:21los c de las naciones que alzaron el cH7161
+- Zac_9:15llenarán como tazón, o como c del altarH7161
+- Rev_5:6un Cordero...tenía siete c, y siete ojosG2768
+- Rev_9:13una voz de entre los cuatro c del altarG2768
+- Rev_12:3que tenía diez c, y en sus cabezas sieteG2768
+- Rev_13:1siete cabezas y diez c; y en sus c diezG2768
+- Rev_13:11dos c semejantes a los de un corderoG2768
+- Rev_17:3una bestia...tenía siete cabezas y diez cG2768
+- Rev_17:7cual tiene las siete cabezas y los diez cG2768
+- Rev_17:12y los diez c...son diez reyes, que aúnG2768
+- Rev_17:16y los diez c que viste en la bestiaG2768

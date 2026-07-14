@@ -1,0 +1,161 @@
+---
+tipo: concordancia
+palabra: ACABAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ACABAR
+
+- Gén_2:1fueron, pues, acabados los cielos y laH3615
+- Gén_2:2acabó Dios en el día séptimo la obra queH3615
+- Gén_6:16y la acabarás a un codo de elevaciónH3615
+- Gén_17:22y acabó de hablar con él, y subió DiosH3615
+- Gén_18:33luego que acabó de hablar a AbrahamH3615
+- Gén_24:15antes que él acabase de hablar, he aquíH3615
+- Gén_24:19cuando acabó de darle de beber, dijoH3615
+- Gén_24:22cuando los camellos acabaron de beberH3615
+- Gén_24:45antes que acabase de hablar en mi corazónH3615
+- Gén_27:30luego que Isaac acabó de bendecir a JacobH3615
+- Gén_43:2aconteció...cuando acabaron de comerH3615
+- Gén_44:12desde el mayor...y acabó en el menorH3615
+- Gén_47:15acabado el dinero...vino todo Egipto aH8552
+- Gén_47:15moriremos...haberse acabado el dineroH656
+- Gén_47:16ganados, si se ha acabado el dineroH656
+- Gén_47:18acabado aquel año, vinieron a él elH8552
+- Gén_47:18que el dinero ciertamente se ha acabadoH8552
+- Gén_49:33cuando acabó Jacob de...a sus hijos
+- Éxo_5:13acabad vuestra obra, la tarea de cadaH3615
+- Éxo_31:18cuando acabó de hablar...en el monte de
+- Éxo_34:33cuando acabó Moisés de hablar con ellos
+- Éxo_39:32fue acabada...la obra del tabernáculoH3615
+- Éxo_40:33erigió el atrio...acabó Moisés la obraH3615
+- Lev_16:20cuando hubiere acabado...el santuario
+- Núm_4:15cuando acaben Aarón y sus hijos de
+- Núm_7:1cuando Moisés hubo acabado de levantar el
+- Núm_17:13¿acabaremos por perecer todos?
+- Núm_32:13fue acabada toda aquella generaciónH8552
+- Deu_2:14que se acabó toda la generación de losH8552
+- Deu_2:15para destruirlos de en...hasta acabarlosH8552
+- Deu_3:3al cual derrotamos hasta acabar con todos
+- Deu_7:22no podrás acabar con ellos en seguidaH3615
+- Deu_20:9cuando los...acaben de hablar al pueblo
+- Deu_26:12cuando acabes de diezmar todo el diezmo
+- Deu_31:24cuando acabó Moisés...palabras de esta ley
+- Deu_31:30habló Moisés...cántico hasta acabarloH8552
+- Deu_32:45acabó Moisés...todas estas palabras
+- Jos_3:16que descendían al mar...se acabaronH8552
+- Jos_3:17hasta que...hubo acabado de pasar el Jordán
+- Jos_4:1cuando...hubo acabado de pasar el Jordán
+- Jos_4:11cuando...el pueblo acabó de pasar, también
+- Jos_5:8cuando acabaron de circuncidar a toda
+- Jos_8:24los...acabaron de matar...moradores de Hai
+- Jos_10:20Josué y...Israel acabaron de herirlos con
+- Jos_19:49después que acabaron de repartir la tierra
+- Jos_19:51reunión; y acabaron de repartir la tierra
+- Jue_7:19cuando acababan de renovar los centinelas
+- Jue_15:17acabando de hablar, arrojó de su mano la
+- Jue_19:9he aquí el día se acaba, duerme aquíH2583
+- Rut_2:21hasta que hayan acabado toda mi siegaH3615
+- Rut_2:23estuvo, pues...hasta que se acabó la siegaH3615
+- Rut_3:3hasta...haya acabado de comer y de beber
+- 1Sa_9:7el pan...se ha acabado, y no tenemosH235
+- 1Sa_13:10cuando acababa...el holocausto, he aquí
+- 1Sa_15:18y hazles guerra hasta que los acabesH3615
+- 1Sa_17:51sacándola...lo acabó de matar, y le cortó
+- 1Sa_18:1aconteció que cuando él hubo acabado de
+- 1Sa_24:16aconteció...David acabó de decir estas
+- 2Sa_3:35que comiera antes que acabara el día
+- 2Sa_6:18David había acabado...los holocaustos y
+- 2Sa_11:19cuando acabes de contar...los asuntos de
+- 2Sa_13:36él acabó...he aquí...y alzando su voz
+- 2Sa_15:24y subió Abiatar...acabado de salir de la
+- 2Sa_18:15escuderos de Joab...hirieron y acabaron de
+- 2Sa_22:38los destruiré, y no volveré...acabarlosH3615
+- 1Re_1:41oyó Adonías...cuando ya habían acabado de
+- 1Re_6:7de piedras que traían ya acabadas, deH8003
+- 1Re_3:1acababa de edificar su casa, y...los muros de
+- 1Re_8:54cuando acabó Salomón...se levantó con
+- 1Re_6:38en el mes de Bul...fue acabada la casaH3615
+- 1Re_7:22y así se acabó la obra de las columnasH8552
+- 1Re_9:1Salomón hubo acabado la obra de la casaH3615
+- 1Re_9:21los hijos de Israel no pudieron acabarH2763
+- 1Re_11:16hasta que hubo acabado con todo el sexoH3772
+- 1Re_14:10barreré la posteridad de...sea acabadoH3772
+- 1Re_22:11acornearás a los sirios hasta acabarlosH3615
+- 2Re_10:25después que acabaron...el holocausto
+- 1Cr_16:2David acabó...el holocausto bendijo en el
+- 1Cr_27:24comenzado a contar; pero no acabóH3615
+- 1Cr_28:20hasta que acabes toda la obra para elH3615
+- 2Cr_4:11acabó Hiram la obra que hacía al reyH3615
+- 2Cr_5:1acabada toda la obra que hizo SalomónH7999
+- 2Cr_7:1Salomón acabó de orar...y consumió el
+- 2Cr_8:16hasta que la casa de Jehová fue acabadaH3615
+- 2Cr_20:23hubieron acabado...cada cual ayudó a suH3615
+- 2Cr_29:29cuando acabaron de ofrecer, se inclinó
+- 2Cr_29:34les ayudaron hasta que acabaron la obraH3615
+- 2Cr_31:1los lugares a altos...hasta acabarlo todoH3615
+- Esd_9:1acabadas todas cosas, los príncipesH3615
+- Neh_4:2¿acabarán en un día? ¿Resucitarán deH3615
+- Est_8:11matar, y acabar con...fuerza armadaH6
+- Est_9:24Pur...para consumirlos y acabar con ellosH6
+- Job_6:9que soltara su mano, y acabará conmigo![[H1214]]
+- Job_23:14acabará lo que ha determinado de míH7999
+- Job_36:11acabarán sus días en bienestar, y susH3615
+- Sal_12:1salva, oh...se acabaron los piadososH6461
+- Sal_18:37perseguí a...y no volví hasta acabarlosH3615
+- Sal_59:13acábalos con furor, a, para que no seanH3615
+- Sal_71:9mi fuerza se acabare, no me desamparesH3615
+- Sal_77:8ha acabado perpetuamente su promesa?[[H1584]]
+- Sal_90:9acabamos nuestros años...un pensamientoH3615
+- Sal_102:27el mismo, y tus años no se acabaránH8552
+- Isa_10:12el Señor haya acabado toda su obraH1214
+- Isa_10:25se acabará mi furor y mi enojo, paraH3615
+- Isa_14:4cómo acabó la ciudad codiciosa de oro![[H7673]]
+- Isa_24:8se acabó el estruendo de los que seH7673
+- Isa_27:10allí tendrá su majada, y acabará susH3615
+- Isa_29:20porque el violento será acabado, y elH656
+- Isa_33:1cuando acabes...serás tú...cuando acabes deH8552
+- Isa_38:13de la mañana a la noche me acabarásH7999
+- Isa_60:20y los días de tu luto serán acabadosH7999
+- Jer_9:16enviaré espada...hasta que los acabeH3615
+- Jer_25:35y se acabará la huida de los pastoresH6
+- Jer_27:8castigaré a tal nación...que la acabe yoH8552
+- Jer_43:1Jeremías acabó de hablar...las palabras de
+- Jer_44:8que os acabéis, y seáis por maldiciónH3772
+- Jer_49:7se ha acabado el consejo de los sabios?[[H6]]
+- Jer_49:37y enviaré...espada hasta que los acabeH3615
+- Jer_51:63cuando acabes de...le atarás una piedra, y lo
+- Lam_2:22críe y mantuve, mi enemigo los acabóH3615
+- Eze_6:6vuestros ídolos...quebrados y acabaránH7673
+- Eze_28:12de sabiduría, y acabado de hermosuraH3632
+- Eze_42:15luego que acabó las medidas de la casaH3615
+- Eze_43:23cuando acabes de expiar, ofrecerás...y un
+- Eze_43:27acabados estos días, del octavo día enH3615
+- Dan_12:7se acabe la dispersión del poder delH3615
+- Amó_7:2acabó de...yo dije: Señor Jehová, perdona
+- Zac_4:9sus manos la acabarán; y conocerás queH1214
+- Mat_9:18mi hija acaba de...tu mano sobre ella, y
+- Mat_10:23que no acabaréis de...antes que venga el
+- Mat_26:1acabado Jesús todas estas palabrasG5055
+- Luc_2:43acabada la fiesta, se quedó el niñoG5048
+- Luc_4:13el diablo hubo acabado toda tentaciónG4931
+- Luc_14:20otro dijo: Acabo de casarme, y...no puedo ir
+- Luc_14:28tiene lo que necesita para acabarla?[[G535]]
+- Luc_14:29puesto el cimiento, y no pueda acabarlaG1615
+- Luc_14:30comenzó a edificar, y no pudo acabarG1615
+- Jua_4:34haga la voluntad...y que acabe su obraG5048
+- Jua_17:4yo...he acabado la obra que me diste queG5048
+- Jua_21:10Jesús dijo: Traed...que acabáis de pescar
+- Hec_20:24tal que acabe mi carrera con gozoG5048
+- Hec_24:22les aplazó, diciendo: Cuando...acabaré de
+- 1Co_13:8las profecías se acabarán, y cesaránG2673
+- 1Co_13:8las lenguas, y la ciencia se acabaráG3973
+- 1Co_13:10entonces lo que es en parte se acabaráG2673
+- 2Co_8:6acabe también entre vosotros...obraG2005
+- Gál_3:3tan necios sois...acabar por la carne?[[G2005]]
+- Efe_6:13y habiendo acabado todo, estar firmesG2716
+- 2Ti_4:7he acabado la carrera, he guardado laG5055
+- Heb_1:12tú eres el mismo, y tus años no acabaránG1587
+- Heb_4:3las obras suyas estaban acabadas desdeG1096
+- Rev_11:7cuando hayan acabado su testimonio, laG5055

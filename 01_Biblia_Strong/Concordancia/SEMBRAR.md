@@ -1,0 +1,113 @@
+---
+tipo: concordancia
+palabra: SEMBRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SEMBRAR
+
+- Gén_26:12y sembró; Isaac en aquella tierra, yH2232
+- Gén_47:23ved aquí semilla, y sembraréis la tierraH2232
+- Gén_47:24partes serán vuestras para sembrar lasH2233
+- Éxo_23:10seis años sembrarás...y recogerás tuH2232
+- Éxo_23:16primeros frutos de...hubieres sembradoH2232
+- Lev_11:37semilla que se haya de sembrar, seráH2232
+- Lev_19:19no sembrarás con mezcla de semillas, y noH2232
+- Lev_25:3seis años sembrarás tu tierra, y seisH2232
+- Lev_25:4no sembrarás tu tierra, ni podarás tuH2232
+- Lev_25:11jubileo; no sembraréis, ni segaréis loH2232
+- Lev_25:20he aquí no hemos de sembrar, ni hemosH2232
+- Lev_25:22y sembraréis el año octavo, y comeréisH2232
+- Lev_26:16y sembraréis en vano vuestra semillaH2232
+- Deu_11:10donde sembrabas...regabas con tu pieH2232
+- Deu_21:4un valle...que nunca haya sido...sembradoH2232
+- Deu_22:9no sembrarás tu...con semillas diversasH2232
+- Deu_22:9se pierda todo...la semilla que sembrasteH2232
+- Deu_29:23tierra; no será sembrada, ni produciráH2232
+- Jue_6:3cuando Israel había sembrado, subíanH2232
+- Jue_9:45y asoló la ciudad, y la sembró de salH2232
+- 2Re_19:29al tercer año sembraréis, y segaréisH2232
+- Job_4:8que aran iniquidad y siembran injuriaH2232
+- Job_31:8siembre yo, y otro coma, y...mi siembraH6631
+- Sal_97:11luz está sembrada para el justo, yH2232
+- Sal_107:37siembran campos, y plantan viñas, yH2232
+- Sal_126:5que sembraron con lágrimas, con regocijoH2232
+- Pro_6:14perversidades...siembra las discordiasH2232
+- Pro_6:19el que siembra discordia entre hermanosH2232
+- Pro_11:18el que siembra justicia tendrá galardónH2232
+- Pro_22:8que sembrare iniquidad, iniquidad segaráH2232
+- Ecl_11:4el que al viento observa, no sembraráH2232
+- Ecl_11:6por la mañana siembra tu semilla, y a laH2232
+- Isa_17:10por tanto, sembrarás plantas hermosasH5193
+- Isa_28:24ara para sembrar, ¿arará todo el día?[[H2232]]
+- Isa_28:25eneldo, siembra el comino, pone el trigoH2236
+- Isa_30:23dará el Señor lluvia...cuando siembresH2232
+- Isa_32:20que sembráis junto a todas las aguasH2232
+- Isa_37:30y el año tercero sembraréis y segaréisH2232
+- Isa_40:24como si nunca hubieran sido sembradosH2232
+- Isa_55:10y da semilla al que siembra, y pan alH2232
+- Jer_2:2cuando andabas...en tierra no sembradaH2232
+- Jer_4:3arad campo...y no sembréis entre espinosH2232
+- Jer_12:13sembraron trigo, y segaron espinosH2232
+- Jer_31:27sembraré la casa de Israel y la casaH2232
+- Jer_35:7ni sembraréis sementera, ni plantaréisH2232
+- Jer_50:16destruid en Babilonia al que siembraH2232
+- Eze_17:5la puso en un campo bueno para sembrar
+- Eze_32:23-24sembraron...terror en la tierra deH5414
+- Eze_32:26habían sembrado su terror en la tierraH5414
+- Eze_36:9volveré, y seréis labrados y sembradosH2232
+- Eze_48:18será para sembrar para los que sirven
+- Ose_2:23y la sembraré para mí en la tierraH2232
+- Ose_8:7sembraron viento, y torbellino segaránH232
+- Ose_10:12sembrad para vosotros, justicia; segadH2232
+- Miq_6:15sembrarás, mas no segarás; pisarásH2232
+- Hag_1:6sembráis mucho, y recogéis pocoH2232
+- Mat_6:26las aves del cielo, que no siembranG4687
+- Mat_13:3he aquí, el sembrador salió a sembrarG4687
+- Mat_13:4mientras sembraba, parte de la semillaG4687
+- Mat_13:19viene...y arrebata lo que fue sembradoG4687
+- Mat_13:19es el que fue sembrado junto al caminoG4687
+- Mat_13:20el que fue sembrado en pedregales, ésteG4687
+- Mat_13:22el que fue sembrado entre espinos, ésteG4687
+- Mat_13:23mas el que fue sembrado en buena tierraG4687
+- Mat_13:24semejante a un hombre que sembró buenaG4687
+- Mat_13:25vino su enemigo y sembró cizaña entreG4687
+- Mat_13:27señor, ¿no sembraste buena semilla enG4687
+- Mat_13:31grano...un hombre tomó y sembró en suG4687
+- Mat_13:37el que siembra la buena semilla es elG4687
+- Mat_13:39el enemigo que la sembró es el diabloG4687
+- Mat_25:24que siegas donde no sembraste y recogesG4687
+- Mat_25:26sabías que siego donde no sembré, y queG4687
+- Mar_4:3he aquí, el sembrador salió a sembrarG4687
+- Mar_4:4al sembrar, aconteció que una parte cayóG4687
+- Mar_4:14sembrador es el que siembra la palabraG4687
+- Mar_4:15en quienes se siembra la palabra, peroG4687
+- Mar_4:15quita la palabra que se sembró en susG4687
+- Mar_4:16los que fueron sembrados en pedregalesG4687
+- Mar_4:18los que fueron sembrados entre espinosG4687
+- Mar_4:20los que fueron sembrados en buena tierraG4687
+- Mar_4:31cuando se siembra en tierra, es la másG4687
+- Mar_4:32después de sembrado, crece, y se hace laG4687
+- Luc_8:5sembrador salió a sembrar su semillaG4687
+- Luc_8:5mientras sembraba, una parte cayó juntoG4687
+- Luc_12:24los cuervos, que ni siembran, ni sieganG4687
+- Luc_13:19un hombre tomó y sembró en su huertoG906
+- Luc_19:21pusiste, y siegas lo que no sembrasteG4687
+- Luc_19:22no puse, y que siego lo que no sembréG4687
+- Jua_4:36el que siembra goce juntamente con elG4687
+- Jua_4:37uno es el que siembra, y otro es el queG4687
+- 1Co_9:11nosotros sembramos entre vosotros loG4687
+- 1Co_15:36lo que tú siembras no se vivifica, siG4687
+- 1Co_15:37y lo que siembras no es el cuerpo queG4687
+- 1Co_15:42se siembra en corrupción, resucitará enG4687
+- 1Co_15:43se siembra en deshonra, resucitará enG4687
+- 1Co_15:43se siembra en debilidad, resucitará enG4687
+- 1Co_15:44se siembra cuerpo animal, resucitaráG4687
+- 2Co_9:6el que siembra escasamente...segaráG4687
+- 2Co_9:6que siembra generosamente...también segaráG4687
+- 2Co_9:10el que da semilla al que siembra, y panG4687
+- Gál_6:7todo lo que el hombre sembrare...segaráG4687
+- Gál_6:8siembra para su carne, de la carne segaráG4687
+- Gál_6:8que siembra para el Espíritu, del EspírituG4687
+- Stg_3:18fruto de justicia se siembra en pazG4687

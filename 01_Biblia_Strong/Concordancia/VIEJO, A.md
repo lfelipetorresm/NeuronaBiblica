@@ -1,0 +1,86 @@
+---
+tipo: concordancia
+palabra: VIEJO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VIEJO, A
+
+- Gén_18:11Abraham y Sara eran v...edad avanzadaH2205
+- Gén_18:12tendré deleite, siendo...mi señor ya v?[[H1086]]
+- Gén_18:13cierto que he de dar a luz siendo ya v?[[H2204]]
+- Gén_19:4los varones...el más joven hasta el más vH2205
+- Gén_19:31nuestro padre es v, y no queda varón enH2204
+- Gén_24:1Abraham ya v, y bien avanzado en añosH2204
+- Gén_24:2dijo Abraham a un criado suyo, el más vH2205
+- Gén_27:2aquí ya soy v, no sé el día de mi muerteH2204
+- Gén_35:29y exhaló Isaac el...v y lleno de díasH2205
+- Gén_49:9así como león v: ¿quién lo despertará?[[H3833]]
+- Éxo_10:9hemos de ir...niños y con nuestros vH2205
+- Jos_6:21y destruyeron...mujeres, jóvenes y vH5288
+- Jos_9:4tomaron sacos v sobre...y cueros v de vinoH1087
+- Jos_9:5y zapatos v y recosidos...con vestidos vH1087
+- Jos_9:13nuestros vestidos...zapatos están ya vH1086
+- Jos_13:1Josué ya v...Jehová le dijo...eres ya vH2204
+- Jos_23:1Josué, siendo ya v y avanzado en añosH2204
+- Jos_23:2les dijo: Yo ya soy v y avanzado en añosH2204
+- Jue_19:16un hombre v que venía de su trabajoH2205
+- Jue_19:17y alzando el v los ojos, vio a aquelH2205
+- Rut_1:12porque yo ya soy v para tener maridoH2204
+- 1Sa_2:22Elí era muy v; y oía...que sus hijosH2204
+- 1Sa_4:18Elí cayó...porque era hombre v y pesadoH2204
+- 1Sa_12:2yo soy ya v y lleno de canas; pero misH2204
+- 1Sa_17:12era v y de gran edad entre los hombresH2204
+- 1Re_1:1el rey David era v y avanzado en díasH2204
+- 1Re_1:15y el rey era muy v, y Abisag...le servíaH2204
+- 1Re_11:4Salomón era ya v, sus mujeres inclinaronH2209
+- 1Re_13:11moraba...en Bet-el un v profeta, al cualH2205
+- 1Re_13:25en la ciudad donde el v profeta habitabaH2205
+- 1Re_13:29y el profeta v vino a la ciudad, paraH2205
+- 2Re_4:14ella no tiene hijo, y su marido es vH2204
+- 1Cr_23:1siendo...David ya v y lleno de díasH2204
+- Neh_3:6la puerta Y fue restaurada por JoiadaH3465
+- Neh_12:39puerta de Efraín hasta la puerta V y aH3465
+- Job_4:11el león v perece por falta de presa
+- Job_32:4había esperado...otros eran más v que élH2205
+- Job_42:17y murió Job v y lleno de díasH2205
+- Sal_119:100más que los v he entendido, porqueH2204
+- Pro_17:6corona de los v son los nietos, y laH2205
+- Pro_22:6aun cuando fuere v no se apartará de élH2204
+- Ecl_4:13rey v y necio que no admite consejosH2205
+- Cnt_7:9vino...hace hablar los labios de los vH3463
+- Isa_22:11foso...para las aguas del estanque vH3465
+- Isa_65:20no habrá...ni v que sus días no cumplaH2205
+- Jer_6:11será preso...el v como el muy ancianoH2205
+- Jer_31:13alegrará..]os jóvenes y los v juntamenteH2205
+- Jer_38:11tomó de allí trapos v y ropas raídas yH5499
+- Jer_38:12pon ahora esos trapos v y ropas raídasH5499
+- Jer_51:22medio de ti quebrantaré v y jóvenes, yH2205
+- Lam_2:21niños y v yacían por tierra en...callesH2205
+- Lam_4:16apartó...ni tuvieron compasión de los vH2205
+- Lam_5:12manos; no respetaron el rostro de los vH2205
+- Eze_9:6matad a v, jóvenes y vírgenes, niñosH2205
+- Mat_9:16remiendo de paño nuevo en vestido vG3820
+- Mat_9:17ni echan vino nuevo en odres v; de otraG3820
+- Mat_13:52saca de...tesoro cosas nuevas y cosas vG3820
+- Mar_2:21remiendo de paño nuevo en vestido vG3820
+- Mar_2:21el mismo remiendo nuevo tira de lo v, yG3820
+- Mar_2:22y nadie echa vino nuevo en odres v; deG3820
+- Luc_1:18soy v, y mi mujer es de edad avanzadaG4246
+- Luc_5:36nadie...lo pone en un vestido v; pues siG3820
+- Luc_5:36que el remiendo...no armoniza con el vG3820
+- Luc_5:37y nadie echa vino nuevo en odres v; deG3820
+- Jua_3:4¿cómo puede un hombre nacer siendo v?[[G1088]]
+- Jua_8:9salían...comenzando desde los más v hastaG4245
+- Jua_21:18cuando ya seas v, extenderás tus manosG1095
+- Rom_6:6v hombre fue crucificado juntamente conG3820
+- Rom_7:6nuevo...no bajo el régimen v de la letraG3821
+- 1Co_5:7limpiaos, pues, de la v levadura, paraG3820
+- 1Co_5:8que celebremos la...no con la v levaduraG3820
+- 2Co_5:17las cosas v pasaron; he aquí todasG744
+- Efe_4:22de vivir, despojaos del v hombre, queG3820
+- Col_3:9habiéndoos despojado del v hombre conG3820
+- 1Ti_4:7desecha las fábulas profanas y de vG1126
+- Heb_8:13al decir: Nuevo pacto, ha dado por vG3822
+- Heb_8:13lo que se da por v y se envejece, estáG1095

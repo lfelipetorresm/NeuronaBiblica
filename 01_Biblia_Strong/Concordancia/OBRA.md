@@ -1,0 +1,610 @@
+---
+tipo: concordancia
+palabra: OBRA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# OBRA
+
+- Gén_2:2acabó Dios...la o...toda la o que hizoH4399
+- Gén_2:3en él reposó de toda la o que había hechoH4399
+- Gén_4:22artífice de toda o de bronce y de hierro
+- Gén_5:29éste nos aliviará de nuestras o y delH4639
+- Gén_11:6y han comenzado la o, y nada les haráH6213
+- Gén_18:21y veré si han consumado su o según el
+- Éxo_5:13acabad vuestra o, la tarea de cada díaH4639
+- Éxo_12:16primer día...ninguna o se hará en ellosH4399
+- Éxo_20:9seis días trabajarás, y harás toda tu oH4399
+- Éxo_20:10no hagas en él o alguna, tú, ni tu hijoH4399
+- Éxo_26:1lo harás con querubines de o primorosaH4639
+- Éxo_26:31harás un velo de...hecho de o primorosaH4639
+- Éxo_26:36harás...una cortina de...o de recamador
+- Éxo_27:4le harás un enrejado de bronce de o de
+- Éxo_27:16una cortina...de azul...de o de recamador
+- Éxo_28:6y harán el efod de oro...de o primorosaH4639
+- Éxo_28:8cinto de o primorosa...será de la misma oH4639
+- Éxo_28:11o de grabador en piedra, como...de selloH4639
+- Éxo_28:15o primorosa...conforme a la o del efodH4639
+- Éxo_28:32tendrá un borde alrededor de o tejidaH4639
+- Éxo_28:39una mitra...un cinto de o de recamador
+- Éxo_31:14día de reposo...hiciere o alguna en élH4399
+- Éxo_32:16tablas eran o de Dios, y la escrituraH4639
+- Éxo_34:10y verá todo el pueblo...la o de JehováH4639
+- Éxo_35:21para la o del tabernáculo...toda su oH4399
+- Éxo_35:24la traía para toda la o del servicioH4399
+- Éxo_35:29voluntario para traer para toda la oH4399
+- Éxo_35:33en o de madera, para trabajar en todaH4399
+- Éxo_35:35que hagan toda o de arte y de invenciónH4399
+- Éxo_36:1saber hacer toda la o del servicio delH6213
+- Éxo_36:2le movió a venir a la o para trabajar enH4399
+- Éxo_36:3ofrenda...traído para la o del servicioH4399
+- Éxo_36:4maestros que hacían...la o del santuarioH4399
+- Éxo_36:4los maestros...cada uno de la o que hacíaH4399
+- Éxo_36:5la o que Jehová ha mandado que se hagaH4399
+- Éxo_36:7tenían material...para hacer toda la oH4399
+- Éxo_36:8los sabios...entre los que hacían la oH4399
+- Éxo_36:8, Éxo_36:35con querubines de o primorosaH4399
+- Éxo_36:37el velo...lino torcido, o de recamador
+- Éxo_38:4un enrejado de bronce de o de rejilla
+- Éxo_38:18la cortina de la...era de o de recamador
+- Éxo_38:21o de los levitas bajo la dirección de
+- Éxo_38:24oro empleado en la o, en toda la o delH4399
+- Éxo_39:8el pectoral de o primorosa como la o delH4639
+- Éxo_39:22hizo...el manto del efod de o de tejedorH4639
+- Éxo_39:27las túnicas de lino fino de o de tejedorH4639
+- Éxo_39:29también el cinto de...de o de recamador
+- Éxo_39:32así fue acabada...la o del tabernáculoH5656
+- Éxo_39:42así hicieron los...de Israel toda la oH5656
+- Éxo_39:43vio Moisés toda la o...la habían hechoH4399
+- Éxo_40:33erigió el atrio...Así acabó Moisés la oH4399
+- Lev_13:48en cuero, o en cualquiera o de cuero
+- Lev_13:49o en cualquiera o de cuero; plaga es de
+- Lev_13:51o en cualquiera o que se hace de cuero
+- Lev_13:52trama de lana...o cualquiera o de cuero
+- Lev_13:53extendido...o en cualquiera o de cuero
+- Lev_16:29ninguna o haréis, ni el natural ni elH4399
+- Lev_18:4mis ordenanzas pondréis por o, y mis
+- Lev_19:37; Lev_20:8mis estatutos, y ponedlos por o
+- Lev_20:22ponedlos por o, no sea que os vomite la
+- Lev_25:18y ponedlos por o, y habitaréis en la
+- Lev_26:3guardaréis mis...y los pusiereis por o
+- Núm_4:47y tener cargo de o en el tabernáculo
+- Núm_10:2dos trompetas...o de martillo las harás
+- Núm_15:39acordéis de todos...para ponerlos por o
+- Núm_28:18, Núm_28:25-26; Núm_29:1, Núm_29:7, Núm_29:12santa convocación; ninguna o de siervos haréisH4399
+- Núm_29:35el octavo...ninguna o de siervos haréisH4399
+- Núm_31:20purificaréis...toda o de pelo de cabraH4639
+- Deu_2:7te ha bendecido en toda o de tus manosH4639
+- Deu_3:24¿qué dios hay en...que haga o y proezasH4639
+- Deu_4:6guardadlos, pues, y ponedlos por o; porque
+- Deu_4:13su pacto, el cual os mandó poner por o
+- Deu_4:14que los pusieseis por o en la tierra a
+- Deu_5:1oye...y guardadlos, para ponerlos por o
+- Deu_5:13seis días trabajarás, y harás toda tu oH4399
+- Deu_5:14ninguna o harás tú, ni tu hijo, ni tuH4399
+- Deu_5:31pongan ahora por o en la tierra que yo
+- Deu_6:1los pongáis por o en la tierra a la cual
+- Deu_6:3oye...oh Israel, y cuida de ponerlos por o
+- Deu_6:25de poner por o todos estos mandamientos
+- Deu_7:12puesto por o...guardará contigo el pacto
+- Deu_8:1cuidaréis de poner por o todo mandamientoH6213
+- Deu_11:3o que hizo en medio de Egipto a FaraónH4639
+- Deu_11:7todas las grandes o que Jehová ha hechoH4640
+- Deu_12:1cuidaréis de poner por o en la tierra queH6213
+- Deu_12:7os alegraréis...o de vuestras manos en
+- Deu_12:18alegrarás...de toda la o de tus manos
+- Deu_14:29bendiga en toda o...tus manos hicierenH4639
+- Deu_16:15bendecido...en toda la o de tus manosH4639
+- Deu_17:19estos estatutos, para ponerlos por oH6213
+- Deu_19:9mandamientos que...para ponerlos por oH6213
+- Deu_23:20; Deu_24:19bendiga...en toda o de tus manos
+- Deu_26:16de ponerlos por o con todo tu corazón yH6213
+- Deu_27:15escultura...o de mano de artífice, y laH4639
+- Deu_28:1poner por o todos sus mandamientos queH6213
+- Deu_28:12y para bendecir toda o de tus manosH4639
+- Deu_28:20perezcas...causa de la maldad de tus oH4611
+- Deu_28:58de poner por o...palabras de esta leyH6213
+- Deu_29:9guardaréis...y las pondréis por o, paraH6213
+- Deu_30:8y pondrás por o todos sus mandamientosH6213
+- Deu_30:9te hará...abundar en toda o de tus manosH4639
+- Deu_31:29enojándole con la o de vuestras manosH4639
+- Deu_32:4es la Roca, cuya o es perfecta, porqueH6467
+- Deu_33:11y recibe con agrado la o de sus manosH6467
+- Jos_24:31todas las o que Jehová había hechoH4639
+- Jue_2:7visto todas las grandes o de JehováH4639
+- Jue_2:10ni la o que él había hecho por IsraelH4639
+- Jue_2:19no se apartaban de sus o, ni de...caminoH4611
+- Jue_9:16si le habéis pagado conforme a la o de
+- Rut_2:12recompense tu o, y tu remuneración seaH6467
+- 1Sa_8:8conforme a todas las o que han hechoH4639
+- 1Sa_8:16tomará...asnos, y con ellos hará sus oH4399
+- 1Sa_19:4sus o han sido muy buenas para contigoH4639
+- 1Sa_25:3el hombre era duro y de malas o; y eraH4611
+- 2Sa_7:23para hacer...o terribles a tu tierra
+- 1Re_5:16oficiales de...que estaban sobre la oH4399
+- 1Re_5:16tenían a cargo el pueblo que hacía la oH4399
+- 1Re_7:8y la casa en...era de o semejante a éstaH4639
+- 1Re_7:9o fueron de piedras costosas, cortadas y
+- 1Re_7:14Hiram era lleno de...ciencia en toda o deH6213
+- 1Re_7:14vino al rey Salomón, e hizo toda su oH4399
+- 1Re_7:22puso...y así se acabó la o de las columnasH4639
+- 1Re_7:28la o de las basas era esta: tenían unasH4639
+- 1Re_7:40así terminó toda la o que hizo a SalomónH4399
+- 1Re_7:51terminó toda la o que dispuso hacer elH4399
+- 1Re_9:1hubo acabado la o de la casa de JehováH1129
+- 1Re_9:23jefes y vigilantes sobre las o eran 550H4399
+- 1Re_9:23sobre el pueblo...trabajaba en aquella oH4399
+- 1Re_16:7provocándole a ira con las o de...manosH4639
+- 2Re_12:11daban el dinero a...que hacían la oH4399
+- 2Re_12:14lo daban a los que hacían la o, y con
+- 2Re_12:15ellos lo diesen a los que hacían la o
+- 2Re_16:19los demás hechos que puso por o Acaz
+- 2Re_17:37cuidaréis siempre de ponerlos por o
+- 2Re_18:12mandado, no las habían...ni puesto por oH6213
+- 2Re_19:18ellos no eran dioses, sino o de manosH4639
+- 2Re_22:5pongan en manos de los que hacen la oH4399
+- 2Re_22:5que lo entreguen a los que hacen la oH4399
+- 2Re_22:9dinero...en poder de los que hacen la oH4399
+- 2Re_22:17provocándome a ira con toda la o de susH4639
+- 1Cr_6:49ministraban en toda la o del lugarH4399
+- 1Cr_9:13muy eficaces en la o...en la casa de DiosH4399
+- 1Cr_9:19su cargo la o del ministerio, guardandoH4399
+- 1Cr_9:33de día y de noche estaban en aquella oH4399
+- 1Cr_16:8dad a conocer en los pueblos sus oH5949
+- 1Cr_22:13cuidares de poner por o los estatutos
+- 1Cr_22:15tienes...todo hombre experto en toda oH4399
+- 1Cr_22:16levántate, y manos a la o; y Jehová esté
+- 1Cr_23:4de éstos, 24.000 para dirigir la o de laH4399
+- 1Cr_23:28la demás o del ministerio de la casa deH4639
+- 1Cr_25:1idóneos para la o de su ministerio, fue
+- 1Cr_26:30la o de Jehová, y en el servicio del reyH4399
+- 1Cr_28:7a poner por o mis mandamientos y misH6213
+- 1Cr_28:13o del ministerio de la casa de JehováH4399
+- 1Cr_28:19me hizo entender todas las o del diseñoH4399
+- 1Cr_28:20anímate y esfuérzate, y manos a la oH4399
+- 1Cr_28:20que acabes toda la o para el servicio
+- 1Cr_28:21de Dios, estarán contigo en toda la o
+- 1Cr_29:1es joven y tierno de edad, y la o grandeH4399
+- 1Cr_29:5toda la o de las manos de los artífices
+- 2Cr_4:11y acabó Hiram la o que hacía al reyH4399
+- 2Cr_5:1acabada toda la o que hizo Salomón paraH4399
+- 2Cr_8:9hijos de Israel no puso...siervos en su oH4399
+- 2Cr_8:16la o de Salomón estaba preparada desdeH4399
+- 2Cr_13:10mas...los que están en la o son levitasH4399
+- 2Cr_14:4mandó a Judá que...pusiese por o la leyH6213
+- 2Cr_15:7manos...hay recompensa para vuestra oH6468
+- 2Cr_16:5oyendo esto Baasa, cesó...abandonó su oH4399
+- 2Cr_17:4anduvo en...y no según las o de IsraelH4640
+- 2Cr_20:37Jehová destruirá tus o...Y las naves seH4639
+- 2Cr_24:13hacían...los artesanos la o, y por susH4399
+- 2Cr_24:13y por sus manos la o fue restauradaH4399
+- 2Cr_29:34les ayudaron hasta que acabaron la oH4399
+- 2Cr_32:19dioses de...son o de manos de hombresH4639
+- 2Cr_34:10mano de los que hacían la o, que eran
+- 2Cr_34:10cuales lo daban a los que hacían la o
+- 2Cr_34:12hombres procedían con fidelidad en la oH4399
+- 2Cr_34:12levitas de los...para que activasen la o
+- 2Cr_34:13que se ocupaban en cualquier clase de oH4399
+- 2Cr_34:17dinero...en mano de los que hacen la o
+- 2Cr_34:25provocándome a ira con todas las o deH4639
+- 2Cr_34:31poniendo por o las palabras del pactoH6213
+- 2Cr_35:26de Josías, y sus o piadosas conforme a
+- Esd_2:69al tesorero de la o 61.000 dracmas deH4399
+- Esd_3:8que activasen la o de la,casa de JehováH4399
+- Esd_3:9activar a los que hacían la o en la casa
+- Esd_4:24entonces cesó la o de la casa de DiosH5673
+- Esd_5:8la o se hace de prisa, y prospera en susH5673
+- Esd_6:7dejad que se haga la o de esa casa de DiosH5673
+- Esd_6:8dados...los gastos, para que no cese la o
+- Esd_6:22fortalecer sus manos en la o de la casaH4399
+- Esd_9:13a causa de nuestras malas o, y a causaH4639
+- Esd_10:4contigo; esfuérzate, y pon mano a la o
+- Esd_10:13ni la o es de un día ni de dos, porqueH4399
+- Neh_1:9pusiereis por o...de allí os recogeréH6213
+- Neh_2:16los oficiales, ni a los...que hacían la oH4399
+- Neh_3:5no se prestaron para ayudar a la o de suH5656
+- Neh_4:11entremos en medio...y hagamos cesar la oH4399
+- Neh_4:16la mitad...trabajaba en la o, y la otraH4399
+- Neh_4:17con una mano trabajaban en la o, y en laH4399
+- Neh_4:19la o es grande y extensa, y nosotrosH4399
+- Neh_4:21nosotros, pues, trabajábamos en la oH4399
+- Neh_4:22sirvan de centinela y de día en la o
+- Neh_5:16en la o de este muro restauré mi parteH4399
+- Neh_5:16todos mis criados...estaban allí en la oH4399
+- Neh_6:3yo hago una gran o, y no puedo ir; porqueH4399
+- Neh_6:3porque cesaría la o, dejándola yo para irH4399
+- Neh_6:9sé debilitarán las manos de ellos en la oH4399
+- Neh_6:16por nuestro Dios había sido hecha esta oH4399
+- Neh_6:19contaban...las buenas o de él, y a él le
+- Neh_7:70algunos de los...dieron ofrendas para la oH4399
+- Neh_7:71dieron para...la o 20.000 dracmas de oroH4399
+- Neh_9:34no pusieron por o tu ley, ni atendieron
+- Neh_9:35no te...ni se convirtieron de sus malas oH4611
+- Neh_10:32de contribuir...para la o de la casa de
+- Neh_11:12los que hacían la o de la casa, 822H4399
+- Neh_11:16capataces de la o exterior de la casaH4399
+- Neh_11:22cantores, sobre la o de la casa de DiosH4399
+- Job_10:3que deseches la o de tus manos, y queH3818
+- Job_24:5salen a su o madrugando para robar; elH6467
+- Job_33:17quitar al hombre de su o, y apartar delH4639
+- Job_34:11porque él pagará al hombre según su oH6467
+- Job_34:19pobre, porque todos son o de sus manosH4639
+- Job_34:25él hará notorias las o de ellos, cuandoH4566
+- Job_36:9les dará a conocer la o de ellos, y queH6467
+- Job_36:24acuérdate de engrandecer su o, la cualH6467
+- Job_37:7que los hombres todos reconozcan su oH4639
+- Sal_8:3cuando veo tus cielos, o de tus dedosH4639
+- Sal_8:6hiciste señorear sobre las o de tus manosH4639
+- Sal_9:11en Sion; publicad entre los pueblos sus oH5949
+- Sal_9:16en la o de sus manos fue enlazado el maloH6467
+- Sal_14:1se han corrompido, hacen o abominablesH5949
+- Sal_17:4cuanto a las o humanas, por la palabra
+- Sal_19:1el firmamento anuncia la o de sus manos
+- Sal_28:4dales conforme a su o, y conforme a laH4639
+- Sal_28:4dales su...conforme a la o de sus manosH6467
+- Sal_28:5no atendieron a...ni a la o de sus manosH6468
+- Sal_33:4recta...toda su o es hecha con fidelidadH4640
+- Sal_33:15él formó el...atento está a todas sus oH4640
+- Sal_44:1han contado la o que hiciste en sus díasH6467
+- Sal_46:8venid, ved las o de Jehová, que ha puestoH4659
+- Sal_62:12tú pagas a cada uno conforme a su oH4639
+- Sal_64:9anunciarán la o de Dios, y entenderánH6467
+- Sal_66:3decid a Dios: ¡Cuán asombrosas...tus o![[H4639]]
+- Sal_66:5venid, y ved las o de Dios, temible enH4659
+- Sal_73:28mi esperanza, para contar todas sus oH4399
+- Sal_77:11me acordaré de las o de JAH; sí, haréH4611
+- Sal_77:12meditaré en todas tus o, y hablaré deH6467
+- Sal_78:7y no se olviden de las o de Dios; queH4611
+- Sal_78:11sino que se olvidaron de sus o, y deH5949
+- Sal_86:8ninguno hay como...ni o que igualen tus oH4639
+- Sal_90:16aparezca en tus siervos tu o, y...gloriaH6467
+- Sal_90:17(2)la o de nuestras manos confirmaH4639
+- Sal_92:4con tus o; en las o de tus manos me, gozoH6467, [[H4639]]
+- Sal_92:5¡cuán grandes son tus o, oh Jehová! muyH4639
+- Sal_95:9me tentaron...me probaron, y vieron mis oH6467
+- Sal_99:8les fuiste un Dios...retribuidor de sus o
+- Sal_101:3aborrezco la o de los que se desvíanH6213
+- Sal_102:25tierra, y los cielos son o de tus manosH4639
+- Sal_103:7Moisés, y a los hijos de Israel sus oH5949
+- Sal_103:18que se acuerdan...para ponerlos por oH6213
+- Sal_103:22bendecid a Jehová, vosotras todas sus oH4639
+- Sal_104:13del fruto de sus o se sacia la tierraH4639
+- Sal_104:24cuán innumerables son tus o, oh Jehová![[H4639]]
+- Sal_104:31para siempre; alégrese Jehová en sus oH4639
+- Sal_105:1dad a conocer sus o en los pueblosH5949
+- Sal_106:2expresará las poderosas o de Jehová?
+- Sal_106:13bien pronto olvidaron sus o...consejoH4639
+- Sal_106:29provocaron la ira de Dios con sus o
+- Sal_106:35se mezclaron con...aprendieron sus oH4639
+- Sal_106:39se contaminaron así con sus o, y seH4639
+- Sal_107:22ofrezcan...publiquen sus o con júbiloH4639
+- Sal_107:24ellos han visto las o de Jehová, y susH4639
+- Sal_111:2grandes son las o de Jehová, buscadasH4639
+- Sal_111:3gloria y hermosura es su o, y...justiciaH6467
+- Sal_111:6el poder de sus o manifestó a su puebloH4639
+- Sal_111:7las o de sus manos son verdad y juicioH4639
+- Sal_115:4son plata y oro, o de manos de hombresH4639
+- Sal_118:17sino que viviré, y contaré las o de JAHH4639
+- Sal_119:166y tus mandamientos he puesto por oH6213
+- Sal_135:15los ídolos de...o de manos de hombresH4639
+- Sal_138:8Jehová...no desampares la o de tus manosH4639
+- Sal_139:14formidables, maravillosas son tus oH4639
+- Sal_141:4corazón a cosa mala, a hacer o impíasH5950
+- Sal_143:5meditaba en...tus o...las o de tus manosH4639
+- Sal_145:4generación a generación celebrará tus oH4639
+- Sal_145:9y sus misericordias sobre todas sus oH4639
+- Sal_145:10te alaben, oh Jehová, todas tus o, yH4639
+- Sal_145:17justo...misericordioso en todas sus oH4639
+- Pro_8:22Jehová me poseía en el...antes de sus oH4659
+- Pro_10:16o del justo es para vida; mas el frutoH6468
+- Pro_11:18impío hace o falsa; mas el que siembraH6468
+- Pro_12:14le será pagado según la o de sus manos
+- Pro_16:3encomienda a Jehová tus o...pensamientosH4639
+- Pro_16:11o suya con todas las pesas de la bolsaH4639
+- Pro_24:12conocerá, y dará al hombre según sus oH6467
+- Pro_24:29le...daré el pago al hombre según su oH6467
+- Ecl_1:14miré todas las o que se hacen debajoH4639
+- Ecl_2:4engrandecí mis o, edifiqué para mí casasH4639
+- Ecl_2:11miré...las o que habían hecho mis manosH4639
+- Ecl_2:17porque la o que se hace...era fastidiosaH4639
+- Ecl_3:11sin que alcance...a entender la o que haH4639
+- Ecl_4:3las malas o que debajo del sol se hacenH4639
+- Ecl_4:4excelencia de o despierta la envidia delH4639
+- Ecl_5:6enoje...y que destruya la o de tus manosH4639
+- Ecl_7:13mira la o de Dios; porque ¿quién podráH4639
+- Ecl_8:11no se ejecuta...Sentencia sobre la mala oH4639
+- Ecl_8:14sucede como si hicieran o de impíos, yH4639
+- Ecl_8:14acontece como si hicieran o de justosH4639
+- Ecl_8:17y he visto todas las o de Dios, que elH4639
+- Ecl_8:17alcanzar la o que debajo del sol se haceH4639
+- Ecl_9:1los sabios, y sus o, están en la mano deH5652
+- Ecl_9:7porque tus o ya son agradables a DiosH4639
+- Ecl_9:10en el sepulcro, adonde vas, no hay o, niH4639
+- Ecl_11:5así ignoras la o de Dios, el cual haceH4639
+- Ecl_12:14Dios traerá toda o a juicio, juntamenteH4639
+- Cnt_7:1joyas, o de mano de excelente maestroH4639
+- Isa_1:16quitad la iniquidad de vuestras o deH4611
+- Isa_2:8se han arrodillado ante la o de sus manosH4639
+- Isa_3:8lengua de ellos y sus o han sido contraH4611
+- Isa_3:11según las o de sus manos le será pagado
+- Isa_5:12no miran la o de...ni consideran la o deH6467
+- Isa_5:19apresúrese su o, y veamos; acérquese, yH4639
+- Isa_10:12el Señor haya acabado toda su o en elH4639
+- Isa_12:4haced célebres en los pueblos sus oH5949
+- Isa_19:14hicieron errar a Egipto en toda su oH4639
+- Isa_19:25el asirio o de mis manos, e Israel miH4639
+- Isa_26:12hiciste en nosotros todas nuestras oH4639
+- Isa_28:21para hacer su o, su extraña o, y paraH4639
+- Isa_29:15o están en tinieblas, y dicen: ¿QuiénH4639
+- Isa_29:16¿acaso la o dirá de su hacedor: No meH4639
+- Isa_29:23porque verá a sus hijos, o de mis manosH4639
+- Isa_37:19porque no eran dioses, sino o de manosH4639
+- Isa_41:24que...sois nada, y vuestras o vanidadH6467
+- Isa_41:29todos son vanidad, y...o de ellos nadaH4639
+- Isa_45:9¿qué haces?; o tu o: ¿No tiene manos?[[H6467]]
+- Isa_45:11mandadme...acerca de las o de mis manosH6467
+- Isa_54:16y que saca la herramienta para su oH4639
+- Isa_57:12publicaré tu justicia y tus o, que noH4639
+- Isa_59:6para vestir, ni de sus o serán cubiertosH4639
+- Isa_59:6sus o son o de iniquidad, y o de rapiñaH4639
+- Isa_60:21renuevos de mi plantío, o de mis manosH4639
+- Isa_61:8tanto, afirmaré en verdad su o, y haréH6468
+- Isa_62:11viene tu Salvador...delante de él su oH6468
+- Isa_64:8así que o de tus manos somos...nosotrosH4639
+- Isa_65:7y les mediré su o antigua en su senoH6468
+- Isa_65:22mis escogidos disfrutarán la o de susH4639
+- Isa_66:18yo conozco sus o y sus pensamientosH4639
+- Jer_1:12apresuro mi palabra...ponerla por o
+- Jer_1:16extraños, y la o de sus manos adoraronH4639
+- Jer_4:4la apague, por la maldad de vuestras oH4611
+- Jer_4:18camina y tus o te hicieron esto; estaH4611
+- Jer_7:3mejorad vuestros caminos y vuestras o, yH4611
+- Jer_7:5si mejorareis...vuestras o; si con verdad)[[H4611]]
+- Jer_7:13por cuanto...habéis hecho todas estas oH4639
+- Jer_10:3leño...o de manos de artífice con burilH4639
+- Jer_10:9o del artífice, y de manos del fundidorH4639
+- Jer_10:9vestirán de azul y...o de peritos es todoH4639
+- Jer_10:14porque mentirosa es su o de fundición
+- Jer_10:15vanidad son, o vana; al tiempo de suH4639
+- Jer_11:6oíd las palabras de...y ponedlas por oH6213
+- Jer_11:18me lo hizo saber...me hiciste ver sus oH4611
+- Jer_17:10dar a cada uno...según el fruto de sus oH4611
+- Jer_18:11camino, y mejore sus caminos y sus oH4611
+- Jer_21:12mi ira no salga...por la maldad de...oH4611
+- Jer_21:14os castigaré conforme al fruto de...oH4611
+- Jer_23:2yo castigo la maldad de vuestras o, diceH4611
+- Jer_23:22habrían hecho volver...maldad de sus oH4611
+- Jer_25:5volveos...y de la maldad de vuestras oH4611
+- Jer_25:6ni me provoquéis a ira con la o...manosH4639
+- Jer_25:7para provocarme a ira con la o...manosH4639
+- Jer_25:14pagaré...y conforme a la o de sus manosH4639
+- Jer_26:3pienso hacerles por la maldad de sus oH4611
+- Jer_26:13mejorad...vuestros caminos y vuestras oH4611
+- Jer_32:19a cada uno...según el fruto de sus oH5950
+- Jer_32:30provocarme a ira con la o de sus manosH4639
+- Jer_35:15enmendad vuestras o, y no vayáis trasH4611
+- Jer_44:8haciéndome enojar con las o de...manosH4639
+- Jer_44:17pondremos por o toda palabra que haH6213
+- Jer_44:22a causa de la maldad de vuestras o, aH4611
+- Jer_44:25votos, y ponéis vuestros votos por o
+- Jer_48:10hiciere indolentemente la o de JehováH4399
+- Jer_50:25o de Jehová...en la tierra de los caldeosH4399
+- Jer_50:29pagadle según su o; conforme a todo loH6467
+- Jer_51:10y contemos en Sion la o de Jehová...DiosH4639
+- Jer_51:18vanidad son, o digna de burla; en elH4639
+- Lam_3:64dales el pago...según la o de sus manosH4639
+- Lam_4:2vasijas de barro, o de manos de alfarero![[H4639]]
+- Eze_1:16o era semejante al color del crisólitoH4639
+- Eze_1:16su apariencia y su o eran como rueda enH4639
+- Eze_6:6destruidas, y vuestras o serán deshechasH4639
+- Eze_15:3¿tomarán...madera para hacer alguna o?[[H4399]]
+- Eze_15:4medio se quemó; ¿servirá para o alguna?[[H4399]]
+- Eze_15:5cuando estaba entera no servía para oH4399
+- Eze_15:5quemada? ¿Servirá más para o alguna?[[H4399]]
+- Eze_16:30cosas, o de una ramera desvergonzadaH4639
+- Eze_20:19guardad...preceptos, y ponedlos por oH6213
+- Eze_20:21mis decretos para ponerlos por o, porH6213
+- Eze_20:24porque no pusieron por o mis decretosH6213
+- Eze_20:44según vuestras perversas o, oh...IsraelH5949
+- Eze_21:24vuestros pecados en todas vuestras oH5949
+- Eze_24:14según tus caminos y tus o te juzgaránH5949
+- Eze_33:31-32tus palabras...no las pondrán por oH6213
+- Eze_36:17contaminó con sus caminos y con sus oH5949
+- Eze_36:19caminos y conforme a sus o les juzguéH5949
+- Eze_36:27en...mis preceptos, y los pongáis por oH6213
+- Eze_36:31y de vuestras o que no fueron buenasH4611
+- Eze_37:24estatutos guardarán, y...pondrán por oH6213
+- Eze_43:11todas sus reglas, y las pongan por oH6213
+- Dan_4:37porque todas sus o son verdaderas, yH4567
+- Dan_9:14justo es Jehová...en todas sus o que haH4639
+- Ose_4:9castigaré...le pagaré conforme a sus oH4611
+- Ose_7:2ahora les rodearán sus o; delante de míH4611
+- Ose_9:15por la perversidad de sus o los echaréH4611
+- Ose_12:2pleito tiene...pagará conforme a sus oH4611
+- Ose_13:2han hecho...ídolos, toda o de artíficesH4634
+- Ose_14:3nunca...diremos a la o de nuestras manosH4639
+- Amó_8:7no me olvidaré jamás de todas sus oH4639
+- Miq_2:7¿se ha acortado el...¿Son estas sus o?[[H4611]]
+- Miq_3:4rostro...por cuanto hicisteis malvadas oH4611
+- Miq_5:13nunca más te inclinarás a la o de tusH4639
+- Miq_6:16y toda o de la casa de Acab; y en losH4639
+- Miq_7:13y será asolada...por el fruto de sus oH4611
+- Hab_1:5haré una o en vuestros días, que aunH6467
+- Hab_2:18imágenes...confíe el hacedor en su o?[[H3336]]
+- Hab_3:2aviva tu o en medio de los tiempos, enH6467
+- Sof_2:3los que pusisteis por o su juicio
+- Sof_3:11no serás avergonzada...ninguna de tus oH5949
+- Hag_2:14asimismo toda o de sus manos; y todoH4639
+- Hag_2:17con granizo en toda o de vuestras manosH4639
+- Zac_1:4volveos ahora de...de vuestras malas o
+- Zac_1:6pensó tratarnos...conforme a nuestras oH4611
+- Mat_5:16vean vuestras buenas o, y glorifiquenG2041
+- Mat_16:27Hijo...pagará a cada uno conforme a...oG4234
+- Mat_23:3mas no hagáis conforme a sus o, porqueG2041
+- Mat_23:5hacen todas sus o para ser vistos porG2041
+- Mat_26:10mujer...ha hecho conmigo una buena oG2041
+- Mar_13:34dio...a cada uno su o, y al porteroG2041
+- Mar_14:6qué la molestáis? Buena o me ha hechoG2041
+- Luc_13:32mañana, y al tercer día termino mi o
+- Luc_24:19poderoso en o y en palabra delante de
+- Jua_3:19amaron...las tinieblas...sus o eran malasG2041
+- Jua_3:20luz, para que sus o no sean reprendidasG2041
+- Jua_3:21manifiesto que sus o son hechas en DiosG2041
+- Jua_4:34que haga la voluntad...y que acabe su oG2041
+- Jua_5:20y mayores o que estas le mostrará, deG2041
+- Jua_5:36porque las o que el Padre me dio paraG2041
+- Jua_5:36las...o que yo hago, dan testimonio de míG2041
+- Jua_6:28para poner en práctica las o de Dios?[[G2038]]
+- Jua_6:29esta es la o de Dios, que creáis en elG2041
+- Jua_6:30¿qué señal, pues, haces...¿Qué o haces?[[G2038]]
+- Jua_7:3que también tus discípulos vean las oG2041
+- Jua_7:7yo testifico de él, que sus o son malasG2041
+- Jua_7:21dijo: Una o hice, y todos os maravilláisG2041
+- Jua_8:39si fueseis hijos...o de Abraham haríaisG2041
+- Jua_8:41vosotros hacéis las o de vuestro padreG2041
+- Jua_9:3que las o de Dios se manifiesten en élG2041
+- Jua_9:4es necesario hacer las o del que me envióG2038
+- Jua_10:25las o que yo hago en nombre de mi PadreG2041
+- Jua_10:32muchas buenas o os he mostrado de miG2041
+- Jua_10:33por buena o no te apedreamos, sino porG2041
+- Jua_10:37no hago las o de mi Padre, no me creáisG2041
+- Jua_10:38no me creáis a mí, creed a las o, paraG2041
+- Jua_14:10el Padre que mora en mí, él hace las oG2041
+- Jua_14:11otra manera, creedme por las mismas oG2041
+- Jua_14:12las o que yo hago, él las hará tambiénG2041
+- Jua_15:24hecho...o que ningún otro ha hecho, noG2041
+- Jua_17:4he acabado la o que me diste que hicieseG2041
+- Hec_5:38o es de los hombres, se desvaneceráG2041
+- Hec_7:22Moisés...era poderoso en sus palabras y oG2041
+- Hec_7:41y en las o de sus manos se regocijaronG2041
+- Hec_9:36abundaba en buenas o y en limosnas queG2041
+- Hec_13:2apartadme a Bernabé...para la o a que losG2041
+- Hec_13:41yo hago una o en vuestros días, o queG2041
+- Hec_14:26encomendados...la o que habían cumplidoG2041
+- Hec_15:38al que...no había ido con ellos a la oG2041
+- Hec_26:20haciendo o dignas de arrepentimientoG2041
+- Rom_2:6cual pagará a cada uno conforme a sus oG2041
+- Rom_2:15la o de la ley escrita en sus corazonesG2041
+- Rom_3:20por las o de la ley ningún...justificadoG2041
+- Rom_3:27¿por cuál ley? ¿Por la de las o? No, sinoG2041
+- Rom_3:28justificado por fe sin las o de la leyG2041
+- Rom_4:2si Abraham fue justificado por...o, tieneG2041
+- Rom_4:6del...a quien Dios atribuye justicia sin oG2041
+- Rom_8:13por el...hacéis morir las o de la carneG4234
+- Rom_9:11Dios...no por las o sino por el que llamaG2041
+- Rom_9:32como por o de la ley, pues tropezaronG2041
+- Rom_11:6y si por gracia, ya no es por o; de otraG2041
+- Rom_11:6por o, ya no es gracia; de otra maneraG2041
+- Rom_11:6gracia; de otra manera la o ya no es oG2041
+- Rom_13:12desechemos, pues, las o de las tinieblasG2041
+- Rom_14:20no destruyas la o de Dios por causa deG2041
+- Rom_15:18ha hecho...con la palabra y con las oG2041
+- 1Co_3:13la o de cada uno se hará manifiestaG2041
+- 1Co_3:13y la o de cada uno cuál sea, el fuego laG2041
+- 1Co_3:14si permaneciere la o de...que sobreedificóG2041
+- 1Co_3:15si la o de alguno se quemare, él sufriráG2041
+- 1Co_9:1¿no...¿No sois vosotros mi o en el Señor?[[G2041]]
+- 1Co_15:58creciendo en la o del Señor siempreG2041
+- 1Co_16:10porque él hace la o del Señor así como yoG2041
+- 2Co_8:6acabe también entre vosotros esta oG2041
+- 2Co_9:8fin de que...abundéis para toda buena oG2041
+- 2Co_10:16más allá...sin entrar en la o de otro
+- 2Co_11:15como...cuyo fin será conforme a sus oG2041
+- Gál_2:16el hombre no es justificado por las oG2041
+- Gál_2:16la fe de Cristo y no por las o de la leyG2041
+- Gál_2:16las o de la ley nadie será justificadoG2041
+- Gál_3:2¿recibisteis el Espíritu por las o de laG2041
+- Gál_3:5¿lo hace por las o de la ley, o por el oírG2041
+- Gál_3:10los que dependen de las o de la ley estánG2041
+- Gál_5:19manifiestas son las o de la carne, queG2041
+- Gál_6:4cada uno someta a prueba su propia o, yG2041
+- Efe_2:9no por o, para que nadie se gloríeG2041
+- Efe_2:10creados en Cristo Jesús para buenas oG2041
+- Efe_4:12perfeccionar a los santos para la o delG2041
+- Efe_5:11no participéis en las o infructuosas deG2041
+- Flp_1:6el que comenzó en vosotros la buena oG2041
+- Flp_1:22si el vivir...resulta...beneficio de la oG2041
+- Flp_2:30por la o de Cristo estuvo próximo a laG2041
+- Col_1:10llevando fruto en toda buena o, yG2041
+- Col_1:21extraños y enemigos...haciendo malas oG2041
+- 1Ts_1:3acordándonos...de la o de vuestra feG2041
+- 1Ts_5:13tengáis en mucha estima...causa de su oG2041
+- 2Ts_1:11y cumpla...toda o de fe con su poderG2041
+- 2Ts_2:9cuyo advenimiento es por o de SatanásG1753
+- 2Ts_2:17os confirme en toda buena palabra y oG2041
+- 1Ti_2:10sino con buenas o, como correspondeG2041
+- 1Ti_3:1si alguno anhela obispado, buena o deseaG2041
+- 1Ti_5:10que tenga testimonio de buenas o; si haG2041
+- 1Ti_5:10si ha criado...practicado toda buena oG2041
+- 1Ti_5:25se hacen manifiestas las buenas o; y lasG2041
+- 1Ti_6:18hagan bien, que sean ricos en buenas oG2041
+- 2Ti_1:9no conforme a nuestras o, sino segúnG2041
+- 2Ti_2:21útil al...y dispuesto para toda buena oG2041
+- 2Ti_3:17enteramente preparados para toda buena oG2041
+- 2Ti_4:5pero tú...haz o de evangelista, cumple tuG2041
+- 2Ti_4:18el Señor me librará de toda o mala, y meG2041
+- Tit_1:16reprobados en cuanto a toda buena oG2041
+- Tit_2:7presentándote...como ejemplo de buenas oG2041
+- Tit_2:14un pueblo propio, celoso de buenas oG2041
+- Tit_3:1que obedezcan...dispuestos a toda buena oG2041
+- Tit_3:5salvó, no por o de justicia que nosotrosG2041
+- Tit_3:8creen en...procuren ocuparse en buenas oG2041
+- Tit_3:14aprendan...a ocuparse en buenas o paraG2041
+- Heb_1:10Señor...los cielos son o de tus manosG2041
+- Heb_2:7le pusiste sobre las o de tus manos; todoG2041
+- Heb_3:9me probaron, y vieron mis o cuarenta añosG2041
+- Heb_4:3aunque las o suyas estaban acabadas desdeG2041
+- Heb_4:4dijo...Y reposó Dios de todas sus o en elG2041
+- Heb_4:10ha reposado de sus o, como Dios de lasG2041
+- Heb_6:1del arrepentimiento de o muertas, de laG2041
+- Heb_6:10Dios no es injusto para olvidar...o y elG2041
+- Heb_9:14limpiará...conciencias de o muertas paraG2041
+- Heb_10:24estimularnos al amor y a las buenas oG2041
+- Heb_13:21os haga aptos en toda o buena para queG2041
+- Stg_1:4mas tenga la paciencia su o completaG2041
+- Stg_1:25hacedor de la o...será bienaventurado enG2041
+- Stg_2:14alguno dice que tiene fe, y no tiene o?[[G2041]]
+- Stg_2:17la fe, si no tiene o, es muerta en síG2041
+- Stg_2:18tú tienes fe, y yo tengo o...Muéstrame tuG2041
+- Stg_2:18muéstrame tu fe sin tus o, y yo teG2041
+- Stg_2:18muéstrame...te mostraré mi fe por mis oG2041
+- Stg_2:20quieres saber...que la fe sin o es muerta?[[G2041]]
+- Stg_2:21¿no fue justificado por las o AbrahamG2041
+- Stg_2:22¿no ves que la fe actuó...con sus o, yG2041
+- Stg_2:22que la fe se perfeccionó por las o?[[G2041]]
+- Stg_2:24que el hombre es justificado por las oG2041
+- Stg_2:25Rahab...¿no fue justificada por o, cuandoG2041
+- Stg_2:26porque...también la fe sin o está muertaG2041
+- Stg_3:13muestre por...sus o en sabia mansedumbreG2041
+- Stg_3:16donde hay celos y...hay...toda o perversaG4229
+- 1Pe_1:17Padre...juzga según la o de cada unoG2041
+- 1Pe_2:12a Dios...al considerar vuestras buenas oG2041
+- 2Pe_3:10las o que en ella hay serán quemadasG2041
+- 1Jn_3:8Hijo...para deshacer las o del diabloG2041
+- 1Jn_3:12sus o eran malas, y las de su hermanoG2041
+- 2Jn_1:11que le dice...participa en sus malas oG2041
+- 3Jn_1:10las o que hace parloteando con palabrasG2041
+- Jud_1:15de todas sus o impías que han hechoG2041
+- Rev_2:2yo conozco tus o, y tu arduo trabajo yG2041
+- Rev_2:5arrepiéntete, y haz las primeras o; puesG2041
+- Rev_2:6que aborreces las o de los nicolaítas, lasG2041
+- Rev_2:9yo conozco tus o, y tu tribulación, y tuG2041
+- Rev_2:13yo conozco tus o, y dónde moras, dondeG2041
+- Rev_2:19conozco tus o, y amor, y fe, y servicioG2041
+- Rev_2:19tus o postreras son más que las primerasG2041
+- Rev_2:22si no se arrepienten de las o de ellaG2041
+- Rev_2:23y os daré a cada uno según vuestras oG2041
+- Rev_2:26al que venciere y guardare mis o hastaG2041
+- Rev_3:1conozco tus o, que tienes nombre de queG2041
+- Rev_3:2no he hallado tus o perfectas delante deG2041
+- Rev_3:8conozco tus o; he aquí, he puesto delanteG2041
+- Rev_3:15yo conozco tus o, que ni eres frío niG2041
+- Rev_9:20ni aun así se arrepintieron de las o deG2041
+- Rev_14:13descansarán de...sus o con ellos siguenG2041
+- Rev_15:3grandes y maravillosas son tus o, SeñorG2041
+- Rev_16:11dolores...no se arrepintieron de sus oG2041
+- Rev_18:6dadle a ella...pagadle doble según sus oG2041
+- Rev_20:12juzgados los muertos por...según sus oG2041
+- Rev_20:13fueron juzgados cada uno según sus oG2041
+- Rev_22:12recompensar a cada uno según sea su oG2041

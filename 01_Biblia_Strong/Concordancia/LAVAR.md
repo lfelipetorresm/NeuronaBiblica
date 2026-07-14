@@ -1,0 +1,136 @@
+---
+tipo: concordancia
+palabra: LAVAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LAVAR
+
+- Gén_18:4poco de agua, y lavad vuestros piesH7364
+- Gén_19:2os hospedéis, y lavaréis vuestros piesH7364
+- Gén_24:32agua para lavar los pies de él, y losH7364
+- Gén_43:24y les dio agua, y lavaron sus pies, yH7364
+- Gén_43:31lavó su rostro y salió, y se contuvoH7364
+- Gén_49:11lavó en el vino su vestido, y en laH3526
+- Éxo_2:5la hija de Faraón descendió a lavarseH7364
+- Éxo_19:10santifícalos hoy...y laven sus vestidosH3526
+- Éxo_19:14y santificó al...y lavaron sus vestidosH3526
+- Éxo_29:4a Aarón y a sus hijos...los lavarás conH7364
+- Éxo_29:17lavarás sus intestinos y sus piernasH7364
+- Éxo_30:18una fuente de bronce, con...para lavarH7364
+- Éxo_30:19y de ella se lavarán Aarón y sus hijosH7364
+- Éxo_30:20se lavarán con agua, para que no mueranH7364
+- Éxo_30:21se lavarán las manos y los pies, paraH7364
+- Éxo_40:12a Aarón y a sus...los lavarás con aguaH7364
+- Éxo_40:30fuente...y puso en ella agua para lavarH7364
+- Éxo_40:31Aarón y sus hijos lavaban en ella susH7364
+- Éxo_40:32acercaban al altar, se lavaban, comoH7364
+- Lev_1:9y lavará con agua los intestinos y lasH7364
+- Lev_1:13lavará las entrañas y...piernas con aguaH4364
+- Lev_6:27sangre...lavarás aquello sobre que cayereH3526
+- Lev_6:28vasija...será fregada y lavada con aguaH7857
+- Lev_8:6hizo acercarse a...y los lavó con aguaH7364
+- Lev_8:21lavó luego con agua los intestinos y lasH7364
+- Lev_9:14luego lavó los intestinos y las piernasH7364
+- Lev_11:25, Lev_11:28, Lev_11:40(2)lavará...vestidos y será inmundoH3526
+- Lev_13:6, Lev_13:34lavará sus vestidos y será limpioH3526
+- Lev_13:54mandará que laven donde está la plagaH3526
+- Lev_13:55después que la plaga fuere lavada; yH3526
+- Lev_13:56ha oscurecido después que fue lavadaH3526
+- Lev_13:58cosa...que lavares...se lavará segunda vezH3526
+- Lev_14:8lavará sus vestidos...y se l con agua, yH3526, [[H7364]]
+- Lev_14:9lavará sus vestidos, y l su cuerpo enH3526
+- Lev_14:47durmiere en aquella casa, lavará susH3526
+- Lev_14:47el que comiere en...lavará sus vestidosH3526
+- Lev_15:5-6, Lev_15:7, Lev_15:11, Lev_15:13, Lev_15:22, Lev_15:27lavará sus vestidos; se l también a sí mismoH3526
+- Lev_15:8éste lavará sus vestidos, y después deH3526
+- Lev_15:8después de haberse lavado con agua, seráH7364
+- Lev_15:10lavará...vestidos, y después de lavarseH3526
+- Lev_15:11tocare...y no lavare con agua sus manosH7857
+- Lev_15:12vasija de madera será lavada con aguaH7857
+- Lev_15:16lavará en agua todo su cuerpo, y seráH7364
+- Lev_15:17lavará con agua, y será inmunda hastaH3526
+- Lev_15:18se lavarán con agua, y serán inmundosH7364
+- Lev_15:21que tocare su cama, lavará sus vestidosH3526
+- Lev_15:21y después de lavarse con...será inmundoH7364
+- Lev_16:4ha de vestir después de lavar su cuerpoH7364
+- Lev_16:24lavará luego su cuerpo con agua en elH7364
+- Lev_16:26, Lev_16:28lavará sus vestidos, l...su cuerpoH3526
+- Lev_17:15lavará sus vestidos y a sí mismo se lH3526
+- Lev_17:16no los lavare, ni l su cuerpo, llevaráH3526
+- Lev_22:6y no comerá...antes que haya lavado suH7364
+- Núm_8:7lavarán sus vestidos, y...purificadosH3526
+- Núm_8:21se purificaron, y lavaron sus vestidosH3526
+- Núm_19:7-8lavará luego sus vestidos, l...cuerpoH3526
+- Núm_19:10recogió, cenizas...lavará, sus vestidosH3526
+- Núm_19:19él lavará...vestidos, y a sí mismo se lH3526
+- Núm_19:21el que rociare el...lavará sus vestidosH3526
+- Núm_31:24lavaréis vuestros vestidos el séptimoH3526
+- Deu_21:6lavarán sus manos sobre la becerraH7364
+- Deu_23:11al caer la noche se lavará con aguaH7364
+- Jue_19:21y se lavaron los pies, y comieronH7364
+- Rut_3:3te lavarás...te ungirás, y vistiéndoteH7364
+- 1Sa_25:41una sierva para lavar los pies deH7364
+- 2Sa_11:8desciende a tu casa, y lava tus piesH7364
+- 2Sa_12:20David...se lavó y se ungió, y cambió susH7364
+- 2Sa_19:24no había lavado sus pies, ni...su barbaH6213
+- 2Sa_19:24ni tampoco había lavado sus vestidosH3256
+- 1Re_22:38y lavaron el carro en el estanqueH7857
+- 1Re_22:38y también las rameras se lavaban allíH7364
+- 2Re_5:10y lávate siete veces en el JordánH7364
+- 2Re_5:12me lavare en ellos, ¿no seré...limpio?[[H7364]]
+- 2Re_5:13más, diciéndote: Lávate, y serás limpio?[[H7364]]
+- 2Cr_4:6fuentes...para lavar...que se ofrecíaH7364
+- 2Cr_4:6mar...para que los sacerdotes se lavaranH7364
+- Job_9:30aunque me lave con aguas de nieve, yH7364
+- Job_29:6cuando lavaba yo mis pasos con lecheH7364
+- Sal_26:6lavaré en inocencia mis manos, y asíH7364
+- Sal_51:2lávame más y más de mi maldad...pecadoH3526
+- Sal_51:7lávame, y seré más blanco que la nieveH3526
+- Sal_58:10sus pies lavará en la sangre del impíoH7364
+- Sal_60:8Moab, vasija para lavarme; sobre EdomH7366
+- Sal_73:13vano...lavado mis manos en inocenciaH7364
+- Sal_108:9Moab, la vasija para lavarme; sobreH7366
+- Cnt_5:3he lavado mis pies; ¿cómo los he deH7364
+- Cnt_5:12se lavan con leche, y a la perfecciónH7364
+- Isa_1:16lavaos y limpiaos...de hacer lo maloH7364
+- Isa_4:4cuando el Señor lava las inmundicias deH7364
+- Jer_2:22laves con lejía, y amontones jabónH3526
+- Jer_4:14lava tu corazón de maldad, oh JerusalénH3526
+- Eze_16:4ni fuiste lavada con aguas...ni saladaH7364
+- Eze_16:9te lavé con agua, y l tus sangres...de tiH7364
+- Eze_23:40amor de ellos te lavaste, y pintasteH7364
+- Eze_40:38una cámara...allí lavarán el holocaustoH1740
+- Mat_6:17cuando ayunes, unge tu cabeza y lavaG3538
+- Mat_15:2no se lavan las manos cuando comen panG3538
+- Mat_15:20pero el comer con las manos sin lavarG449
+- Mat_27:24tomó agua y se lavó las manos delanteG633
+- Mar_7:2comer pan con manos...no lavadas, losG449
+- Mar_7:3si muchas veces no se lavan las manos, noG3538
+- Mar_7:4volviendo de...si no se lavan, no comenG3538
+- Luc_5:2y los pescadores...lavaban sus redesG637
+- Luc_11:38se extrañó de que no se hubiese lavadoG907
+- Jua_9:7vé a lavarte en el estanque de SiloéG3538
+- Jua_9:7fue entonces, y se lavó, y regresó viendoG3538
+- Jua_9:11vé al Siloé, y lávate; y fui, y me lavéG3538
+- Jua_9:15me puso lodo sobre los ojos, y me lavéG3538
+- Jua_13:5comenzó a lavar los pies de...discípulosG3538
+- Jua_13:6le dijo: Señor, ¿tú me lavas los pies?[[G3538]]
+- Jua_13:8le dijo: No me lavarás los pies jamásG3538
+- Jua_13:8no te lavare, no tendrás parte conmigoG3538
+- Jua_13:10Jesús le dijo: El que está lavado, noG3068
+- Jua_13:10no necesita sino lavarse los pies, puesG3538
+- Jua_13:12después que les hubo lavado los piesG3538
+- Jua_13:14pues si yo, el...he lavado vuestros piesG3538
+- Jua_13:14debéis lavaros los pies los unos a losG3538
+- Hec_9:37después de lavada, la pusieron en unaG3068
+- Hec_16:33y él, tomándolos...les lavó las heridasG3068
+- Hec_22:16ahora...bautízate, y lava tus pecadosG628
+- 1Co_6:11habéis sido lavados, ya habéis sidoG628
+- 1Ti_5:10si ha lavado los pies de los santosG3538
+- Heb_10:22y lavados los cuerpos con agua puraG3068
+- 2Pe_2:22la puerca lavada a revolcarse en elG3068
+- Rev_1:5y nos lavó de nuestros pecados con suG3068
+- Rev_7:14han lavado sus ropas...en la sangre delG3068
+- Rev_22:14bienaventurados los que lavan sus ropasG4150

@@ -1,0 +1,337 @@
+---
+tipo: concordancia
+palabra: AMAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AMAR
+
+- Véase también Amado
+- Gén_22:2toma...Isaac, a quien amas, y vete aH157
+- Gén_24:67Isaac...tomó a Rebeca por mujer...amóH157
+- Gén_25:28amó Isaac a...Rebeca amaba a JacobH157
+- Gén_29:18Jacob amó a Raquel, y dijo...te serviréH157
+- Gén_29:20le parecieron como pocos días...la amabaH160
+- Gén_29:30a Raquel...la amó también más que a LeaH157
+- Gén_29:32ahora, por tanto, me amará mi maridoH157
+- Gén_37:3y amaba Israel a José mas que a todosH157
+- Gén_37:4viendo...que su Padre lo amaba más queH157
+- Gén_44:20él solo quedó de...y su padre lo amaH157
+- Éxo_20:6hago misericordia...a los que me amanH157
+- Éxo_21:5yo amo a mi señor, a mi mujer y a misH157
+- Lev_19:18amarás a tu prójimo como a ti mismoH157
+- Lev_19:34al extranjero...amarás como a ti mismoH157
+- Deu_4:37cuanto él amó a sus padres, escogióH157
+- Deu_5:10que me aman y guardan mis mandamientosH157
+- Deu_6:5amarás a Jehová tu Dios te todo tuH157
+- Deu_7:8por cuanto Jehová os amó, y quiso guardarH160
+- Deu_7:9que le aman y guardan sus mandamientosH157
+- Deu_7:13te amará...bendecirá y te multiplicaráH157
+- Deu_10:12que lo ames, y sirvas a Jehová tu DiosH157
+- Deu_10:15de tus padres se agradó...para amarlosH157
+- Deu_10:18que ama...al extranjero, dándole pan yH157
+- Deu_10:19amaréis, pues al extranjero; porqueH157
+- Deu_11:1amarás...a Jehová tu Dios, y guardarás suH157
+- Deu_11:13amando a Jehová...Dios y sirviéndoleH157
+- Deu_11:22amaréis a Jehová vuestro Dios, andandoH157
+- Deu_13:3saber si amáis a Jehová vuestro Dios conH157
+- Deu_15:16te dijere: No te dejaré; porque te amaH157
+- Deu_19:9ames a Jehová...y andes en sus caminosH157
+- Deu_23:5no quiso...porque Jehová tu Dios te amabaH157
+- Deu_30:6que ames a Jehová tu Dios con todo tuH157
+- Deu_30:16yo te mando hoy que ames a Jehová tuH157
+- Deu_30:20amando a Jehová...atendiendo a su vozH157
+- Deu_33:3ama a su pueblo; todos los consagradosH2245
+- Jos_22:5améis a Jehová vuestro Dios, y andéisH157
+- Jos_23:11para que améis a Jehová vuestro DiosH157
+- Jue_5:31mas que los que te amen, sean como el solH157
+- Jue_14:16y no me amas, pues no me declaras elH157
+- Jue_16:15le dijo: ¿Cómo dices: Yo te amo, cuandoH157
+- Rut_4:15tu nuera, que te ama, lo ha dado a luzH157
+- 1Sa_1:5porque amaba a Ana, aunque Jehová noH157
+- 1Sa_16:21Saúl...le amó mucho, y le hizo su pajeH157
+- 1Sa_18:1de David, y lo amó Jonatán como a síH157
+- 1Sa_18:3Jonatán...le amaba como a sí mismoH157
+- 1Sa_18:16mas todo Israel y Judá amaba a DavidH157
+- 1Sa_18:20pero Mical...hija de Saúl amaba a DavidH157
+- 1Sa_18:22el rey te ama, y todos sus siervos teH157
+- 1Sa_18:28Saúl, viendo...su hija Mical lo amabaH157
+- 1Sa_19:1Jonatán...amaba a David en gran maneraH2654
+- 1Sa_20:17porque le amaba, pues le a como a síH160
+- 2Sa_1:23Saúl y Jonatán, amados y queridos enH157
+- 2Sa_12:24su nombre Salomón, al cual amó JehováH157
+- 2Sa_13:4yo amó a Tamar la hermana de AbsalónH157
+- 2Sa_13:15mayor que el amor...que la había amadoH157
+- 2Sa_19:6amando a los que te aborrecen, yH157
+- 2Sa_19:6aborreciendo a los que te aman; porqueH157
+- 2Sa_20:11cualquiera que ame a Joab y a DavidH2654
+- 1Re_3:3Salomón amó a Jehová, andando en losH157
+- 1Re_5:1porque Hiram siempre había amado a DavidH157
+- 1Re_10:9porque Jehová ha amado siempre a IsraelH157
+- 1Re_11:1el rey Salomón amó...mujeres extrajerasH157
+- 2Cr_2:11porque Jehová amó a su pueblo, teH160
+- 2Cr_9:8tu Dios amó a Israel para afirmarloH2654
+- 2Cr_11:21Roboam amó a Maaca hija...sobre todasH157
+- 2Cr_19:2y amas a los que aborrecen a Jehová?[[H157]]
+- Neh_1:5que le aman y guardan sus mandamientosH157
+- Neh_13:26era amado de su Dios, y Dios lo habíaH157
+- Est_2:17el rey amó a Ester más que a todas lasH157
+- Job_19:19los que yo amaba se volvieron contraH157
+- Job_33:26orará a Dios, y éste le amará, y veráH7521
+- Sal_4:2amaréis la vanidad, y buscaréis laH157
+- Sal_5:11ti se regocijen los que aman tu nombreH157
+- Sal_11:5y al que ama la violencia, su alma losH157
+- Sal_11:7Jehová es justo, y ama la justiciaH157
+- Sal_18:1te amo, oh Jehová, fortaleza míaH7355
+- Sal_26:8Jehová, la habitación de tu casa he amadoH157
+- Sal_31:23amad a Jehová...vosotros sus santosH157
+- Sal_33:5él ama justicia y juicio...la misericordiaH157
+- Sal_35:27Jehová, que ama la paz de su siervoH2655
+- Sal_37:28Jehová ama la rectitud, y no desamparaH157
+- Sal_40:16y digan...los que aman tu salvaciónH157
+- Sal_45:7has amado la justicia y aborrecido laH157
+- Sal_47:4la hermosura de Jacob, al cual amóH157
+- Sal_51:6tú amas la verdad en lo íntimo, y en loH2654
+- Sal_52:3amaste el mal más que el bien, la mentiraH157
+- Sal_52:4has amado toda...de palabras perniciosasH157
+- Sal_62:4aman la mentira; con su boca bendicenH7521
+- Sal_69:36y los que aman su nombre habitarán enH157
+- Sal_70:4digan siempre los que aman tu salvaciónH157
+- Sal_78:68escogió...monte de Sion al cual amóH157
+- Sal_87:2ama Jehová las puertas de Sion más queH157
+- Sal_97:10los que amáis a Jehová, aborreced elH157
+- Sal_99:4y la gloria del rey ama el juicio; túH157
+- Sal_102:14tus siervos aman sus piedras, y delH7521
+- Sal_109:17amó la maldición, y ésta le sobrevinoH157
+- Sal_116:1amo a Jehová, pues ha oído mi voz y miH157
+- Sal_119:47tus mandamientos, los cuales he amadoH157
+- Sal_119:48mis manos a tus mandamientos que améH157
+- Sal_119:97¡oh, cuánto amo yo tu ley! Todo el díaH157
+- Sal_119:113aborrezco...hipócritas; mas amo tu leyH157
+- Sal_119:119tanto, yo he amado tus testimoniosH157
+- Sal_119:127por eso he amado tus mandamientosH157
+- Sal_119:132como acostumbras con los que amanH157
+- Sal_119:140pura es tu palabra, y la ama tu siervoH157
+- Sal_119:159oh Jehová, que amo tus mandamientosH157
+- Sal_119:163la mentira aborrezco y...tu ley amoH157
+- Sal_119:165mucha paz tienen los que aman tu leyH157
+- Sal_119:167guardado...he amado en gran maneraH157
+- Sal_122:6paz...sean prosperados los que te amanH157
+- Sal_145:20Jehová guarda a todos los que le amanH160
+- Sal_146:8a los caídos; Jehová ama a los justosH157
+- Pro_1:22¿hasta cuándo, oh...amaréis la simplezaH160
+- Pro_3:12Jehová al que ama castiga, como el padreH157
+- Pro_4:6no la dejes, y...ámala, y te conservaráH160
+- Pro_5:19como cierva amada y graciosa gacelaH160
+- Pro_8:17yo amo a los que me aman, y me hallanH157
+- Pro_8:21que los que me aman tengan su heredadH157
+- Pro_8:36los que me aborrecen aman la muerteH157
+- Pro_9:8reprendas...corrige al sabio y te amaráH157
+- Pro_12:1que ama la instrucción...a la sabiduríaH157
+- Pro_13:24que lo ama, desde temprano lo corrigeH157
+- Pro_14:20pero muchos son los que aman al ricoH157
+- Pro_15:9impío; mas él ama al que sigue justiciaH157
+- Pro_15:12escarnecedor no ama al que le reprendeH157
+- Pro_16:13y éstos aman al que habla lo rectoH157
+- Pro_17:17en todo tiempo ama el amigo, y es comoH157
+- Pro_17:19el que ama la disputa, a la transgresiónH157
+- Pro_18:21y el que la ama comerá de sus frutosH157
+- Pro_19:8el que posee entendimiento ama su almaH157
+- Pro_20:13no ames el sueño...que no te empobrezcasH157
+- Pro_21:17necesitado será el que ama el deleiteH157
+- Pro_21:17el que ama el vino...no se enriqueceráH157
+- Pro_22:11el que ama la limpieza de corazón, porH157
+- Pro_27:6fieles son las heridas del que ama; peroH157
+- Pro_29:3el hombre que ama la sabiduría alegra aH157
+- Ecl_3:8tiempo de amar, y tiempo de aborrecerH157
+- Ecl_5:10el que ama el dinero, no se saciará deH157
+- Ecl_5:10que ama el mucho tener, no sacará frutoH157
+- Ecl_9:9goza de la vida con la mujer que amasH157
+- Cnt_1:3como...por eso las doncellas te amanH157
+- Cnt_1:4nos acordaremos de tus...con razón te amanH157
+- Cnt_1:7hazme saber, oh tú a quien ama mi almaH157
+- Cnt_3:1busqué en mi lecho al que ama mi almaH157
+- Cnt_3:2buscaré al que ama mi alma; lo busquéH157
+- Cnt_3:3dije: ¿Habéis visto al que ama mi alma?[[H157]]
+- Cnt_3:4hallé luego al que ama mi alma; lo asíH157
+- Isa_1:23todos aman el soborno, y...recompensasH157
+- Isa_1:29os avergonzarán las encinas que amasteisH2530
+- Isa_43:4estima, fuiste honorable, y yo te améH157
+- Isa_48:14aquel a quien Jehová amó ejecutará suH157
+- Isa_56:6y que amen el nombre de Jehová para serH157
+- Isa_56:10soñolientos, echados, aman el dormirH157
+- Isa_57:8amaste su cama dondequiera que la veíasH157
+- Isa_66:3su alma amó sus propias abominacionesH2654
+- Isa_66:10gozaos con ella, todos los que la amáisH157
+- Jer_2:25extraños he amado, y tras ellos he deH157
+- Jer_6:10la...les es cosa vergonzosa, no la amanH2654
+- Jer_8:2el ejército del cielo, a quienes amaronH157
+- Jer_12:7he entregado lo que amaba mi alma enH3033
+- Jer_31:3con amor eterno te he amado; por tantoH160
+- Eze_16:37a todos los que amaste, con todos losH157
+- Dan_9:4que te aman y guardan tus mandamientosH157
+- Dan_9:23tú eres muy amado. Entiende, pues, laH2530
+- Ose_3:1ama a una mujer amada de su compañeroH157
+- Ose_3:1miran a dioses...y aman tortas de pasasH160
+- Ose_4:18sus príncipes amaron lo que avergüenzaH157
+- Ose_9:1amaste salario de ramera en todas las erasH157
+- Ose_9:10abominables como aquello que amaronH157
+- Ose_9:15no los amaré más; todos sus príncipesH160
+- Ose_11:1cuando Israel era muchacho, yo lo améH157
+- Ose_14:4los amaré de pura gracia; porque mi iraH157
+- Amó_5:15aborreced el mal, y amad el bienH157
+- Miq_3:2que aborrecéis lo bueno y amáis lo maloH157
+- Miq_6:8amar misericordia, y humillarte ante tuH160
+- Zac_8:17ni améis el juramento falso; porqueH157
+- Zac_8:19ha dicho...Amad, pues, la verdad y la pazH157
+- Mal_1:2yo os he amado...¿En qué nos amaste?[[H157]]
+- Mal_1:2¿no era Esaú hermano de...y amé a JacobH157
+- Mal_2:11ha profanado el santuario...que él amóH157
+- Mat_5:43que fue dicho: Amarás a tu prójimo, yG25
+- Mat_5:44amad a vuestros enemigos, bendecid a losG25
+- Mat_5:46porque si amáis a los que os aman, ¿quéG25
+- Mat_6:5aman el orar en pie en las sinagogasG5368
+- Mat_6:24o aborrecerá al uno y amará al otro, oG25
+- Mat_10:37que ama a padre o madre más que a míG5368
+- Mat_10:37el que ama a hijo o hija más que a míG5368
+- Mat_19:19amarás a tu prójimo como a ti mismoG25
+- Mat_22:37amarás al Señor tu Dios con todo tuG25
+- Mat_22:39segundo es...Amarás a tu prójimo comoG25
+- Mat_23:6aman los primeros asientos en las cenasG5368
+- Mar_10:21Jesús, mirándole, le amó, y le dijoG25
+- Mar_12:30amarás al Señor tu Dios con todo tuG25
+- Mar_12:31amarás a tu prójimo como a ti mismoG25
+- Mar_12:33y el amarle con todo el corazón, conG25
+- Mar_12:33y amar al prójimo como a uno mismoG25
+- Mar_12:38aman las salutaciones en las plazas
+- Luc_6:27amad a vuestros enemigos, haced bienG25
+- Luc_6:32amáis a los que os aman, ¿qué méritoG25
+- Luc_6:32los pecadores aman a los que los aG25
+- Luc_6:35amad, pues, a vuestros enemigos, y hacedG25
+- Luc_7:5ama a nuestra nación, y nos edificó unaG25
+- Luc_7:42dí, pues, ¿cuál de ellos le amará más?[[G25]]
+- Luc_7:47pecados le son perdonados, porque amóG25
+- Luc_7:47a quien se le perdona poco, poco amaG25
+- Luc_10:27dijo: Amarás al Señor tu Dios con todoG25
+- Luc_11:43que amáis las primeras sillas en lasG25
+- Luc_16:13o aborrecerá al uno y amará al otroG25
+- Luc_20:46y aman las salutaciones en las plazasG5368
+- Jua_3:16de tal manera amó Dios al mundo, queG25
+- Jua_3:19los hombres amaron más las tinieblas queG25
+- Jua_3:35el Padre ama al Hijo, y todas las cosasG25
+- Jua_5:20Padre ama al Hijo, y le muestra todasG5368
+- Jua_8:42si vuestro padre fuese Dios...me amaríaisG25
+- Jua_10:17por eso me ama el Padre, porque yoG25
+- Jua_11:3Señor, he aquí el que amas está enfermoG5368
+- Jua_11:5amaba Jesús a Marta, a su...y a LázaroG25
+- Jua_11:36dijeron...judíos: Mirad cómo le amabaG5368
+- Jua_12:25el que ama su vida, la perderá; y elG5368
+- Jua_12:43amaban más la gloria de los hombres queG25
+- Jua_13:1como había amado...los amó hasta el finG25
+- Jua_13:23al cual Jesús amaba...estaba recostadoG25
+- Jua_13:34os améis unos a...como yo os he amadoG25
+- Jua_14:15si me amáis, guardad mis mandamientosG25
+- Jua_14:21y los guarda, ése es el que me amaG25
+- Jua_14:21que me ama, será amado por mi PadreG25
+- Jua_14:21y yo le amaré, y me manifestaré a élG25
+- Jua_14:23el que me ama, mi palabra guardaráG25
+- Jua_14:23mi Padre le amará, y vendremos a élG25
+- Jua_14:24que no me ama, no guarda mis palabrasG25
+- Jua_14:28si me amarais, os habríais regocijadoG25
+- Jua_14:31que el mundo conozca que amo al PadreG25
+- Jua_15:9como el Padre me ha amado...yo os he aG25
+- Jua_15:12os améis unos a...como yo os he amadoG25
+- Jua_15:17os mando: Que os améis unos a otrosG25
+- Jua_15:19si fuerais del mundo, el mundo amaríaG5368
+- Jua_16:27Padre mismo os ama...me habéis amadoG5368
+- Jua_17:23has amado a ellos como...a mí me has aG25
+- Jua_17:24porque me has amado desde antes de laG25
+- Jua_17:26el amor con que me has amado, esté enG25
+- Jua_19:26vio Jesús...discípulo a quien él amabaG25
+- Jua_20:2aquel al que amaba Jesús, y les dijoG5368
+- Jua_21:7aquel...quien Jesús amaba, dijo a PedroG25
+- Jua_21:15-16, Jua_21:17Simón, hijo de Jonás, ¿me amasG5368
+- Jua_21:15-16sí, Señor; tú sabes que te amoG25
+- Jua_21:17que le dijese la tercera vez: ¿Me amas?[[G5368]]
+- Jua_21:17tú lo sabes todo; tú sabes que te amoG5368
+- Jua_21:20les seguía el discípulo a quien amabaG25
+- Rom_1:7los que estáis en Roma, amados de DiosG27
+- Rom_8:28a los que aman a Dios, todas las cosasG25
+- Rom_8:37más que vencedores...de aquel que nos amóG25
+- Rom_9:13como...A Jacob amé, mas a Esaú aborrecíG25
+- Rom_9:25llamaré pueblo mío...a la no amada, aG25
+- Rom_11:28son amados por causa de los padresG27
+- Rom_12:10amaos los unos a los otros con amorG5387
+- Rom_13:8no debáis...sino el amaros unos a otrosG25
+- Rom_13:8que ama al prójimo, ha cumplido la leyG25
+- Rom_13:9amarás a tu prójimo como a ti mismoG25
+- Rom_16:12saludad a la amada Pérsida, la cual haG27
+- 1Co_2:9ha preparado para los que le amanG25
+- 1Co_8:3si alguno ama a Dios, es conocido por élG25
+- 1Co_16:22el que no amare al Señor...sea anatemaG5368
+- 2Co_9:7dé...porque Dios ama al dador alegreG25
+- 2Co_9:14a quienes aman a causa de la...gracia
+- 2Co_11:11qué? ¿Porque no os amo? Dios lo sabeG25
+- 2Co_12:15aunque amándoos más, sea amado menosG25
+- Gál_2:20me amó y se entregó a sí mismo por míG25
+- Gál_5:14amarás a tu prójimo como a ti mismoG25
+- Efe_2:4Dios...por su gran amor con que nos amóG25
+- Efe_5:2y andad en amor, como...Cristo nos amóG25
+- Efe_5:25maridos, amad a vuestras mujeres, asíG25
+- Efe_5:25así como Cristo amó a la iglesia, y seG25
+- Efe_5:28los maridos deben amar a sus mujeresG25
+- Efe_5:28el que ama a su mujer, a sí mismo se aG25
+- Efe_5:33ame también a su mujer como a sí mismoG25
+- Efe_6:24la gracia sea con todos los que aman aG25
+- Flp_1:8Dios me es testigo de cómo os amo aG1971
+- Col_3:19maridos, amad a vuestras mujeres, yG25
+- 1Ts_4:9habéis aprendido de Dios que os améisG25
+- 2Ts_2:13hermanos amados por el Señor, de queG25
+- 2Ts_2:16nos amó y nos dio consolación eternaG25
+- 2Ti_4:8sino...a todos los que aman su venidaG25
+- 2Ti_4:10Demas me ha desamparado, amando esteG25
+- Tit_2:4enseñen a las...a amar a sus maridosG5362
+- Tit_3:15saluda a los que nos aman en la feG5368
+- Heb_1:9has amado la justicia, y aborrecido laG25
+- Heb_12:6porque el Señor al que ama, disciplinaG25
+- Stg_1:12Dios ha prometido a los que le amanG25
+- Stg_2:5reino que ha prometido a los que le aman?[[G25]]
+- Stg_2:8amarás a tu prójimo como a ti mismoG25
+- 1Pe_1:8a quien amáis sin haberle visto, enG25
+- 1Pe_1:22amaos unos a otros entrañablemente, deG25
+- 1Pe_2:17honrad a todos. Amad a los hermanosG25
+- 1Pe_3:8de un mismo sentir...amándoos fraternalmenteG5361
+- 1Pe_3:10el que quiere amar la vida y ver díasG25
+- 2Pe_2:15el cual amó el premio de la maldadG25
+- 1Jn_2:10el que ama a su hermano, permaneceG25
+- 1Jn_2:15no améis al mundo, ni las cosas queG25
+- 1Jn_2:15alguno ama al mundo, el amor del PadreG25
+- 1Jn_3:10que no ama a su hermano, no es de DiosG25
+- 1Jn_3:11el mensaje...Que nos amemos unos a otrosG25
+- 1Jn_3:14a vida, en que amamos a los hermanosG25
+- 1Jn_3:14el que no ama a su hermano, permanece enG25
+- 1Jn_3:18no amemos de palabra ni de lengua, sinoG25
+- 1Jn_3:23nos amemos unos a otros como nos lo haG25
+- 1Jn_4:7amados, amémonos unos a otros, porque elG25
+- 1Jn_4:7todo aquel que ama, es nacido de DiosG25
+- 1Jn_4:8el que no ama, no ha conocido a DiosG25
+- 1Jn_4:10no en que nosotros hayamos amado a DiosG25
+- 1Jn_4:10en que él nos amó a nosotros, y envió aG25
+- 1Jn_4:11amados, si Dios...ha amado así, debemosG25
+- 1Jn_4:11debemos también...amarnos unos a otrosG25
+- 1Jn_4:12nos amamos unos a otros, Dios permaneceG25
+- 1Jn_4:19amamos a él, porque él nos amó primeroG25
+- 1Jn_4:20si alguno dice: Yo amo a Dios, y aborreceG25
+- 1Jn_4:20el que no ama a su hermano a quien haG25
+- 1Jn_4:20¿cómo puede amar a Dios a quien no haG25
+- 1Jn_4:21el que ama a Dios, ame también...hermanoG25
+- 1Jn_5:1ama al que engendró, a también al que haG25
+- 1Jn_5:2amamos a los hijos de Dios, cuando a aG25
+- 2Jn_1:1hijos, a quienes yo amo en la verdadG25
+- 2Jn_1:5y ahora te ruego...nos amemos unos a otrosG25
+- 3Jn_1:1el anciano a Gayo...a quien amo en laG25
+- Rev_1:5al que nos amó, y nos lavó de nuestrosG25
+- Rev_3:9vengan...y reconozcan que yo te he amadoG25
+- Rev_3:19reprendo y castigo a todos los que amoG5368
+- Rev_22:15y todo aquel que ama y hace mentiraG5368

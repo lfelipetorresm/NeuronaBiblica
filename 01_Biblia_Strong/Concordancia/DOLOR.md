@@ -1,0 +1,105 @@
+---
+tipo: concordancia
+palabra: DOLOR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DOLOR
+
+- Gén_3:16multiplicaré...los d...con d darás a luzH6093, [[H6089]]
+- Gén_3:17con d comerás de ella todos los días deH6093
+- Gén_34:25cuando sentían ellos el mayor d, dosH3510
+- Gén_42:38; Gén_44:29descender mis canas con d alH3015
+- Gén_44:31canas de...nuestro padre con d al SeolH3015
+- Éxo_15:14apoderará d de la tierra...filisteosH2427
+- Jue_11:35tú...has venido a ser causa de mi dH5916
+- 1Sa_2:33para consumir...y llenar tu alma de dH109
+- 1Sa_4:19luz...le sobrevinieron sus d de repenteH6735
+- 1Sa_20:34y no comió...tenía d a causa de DavidH6087
+- 2Sa_19:2oyó decir...el rey tenía d por su hijoH6087
+- 1Cr_4:9Jabes...por cuanto lo di a luz en dH6090
+- 2Cr_6:29que conociera su...su d en su corazónH4341
+- Est_4:4la reina tuvo gran d, y envió vestidosH2342
+- Job_2:13porque veían que su d era muy grandeH3511
+- Job_6:10Si me asaltase con d sin dar más treguaH2427
+- Job_9:28me turban todos mis d; sé que no meH6094
+- Job_15:20sus días, el impío es atormentado de dH2342
+- Job_15:35concibieron d, dieron a luz iniquidadH5999
+- Job_16:5la consolación...apaciguaría vuestro d
+- Job_16:6si hablo, mi d no cesa; y si dejo deH3511
+- Job_17:7mis ojos se oscurecieron por el d, y misH3708
+- Job_21:17viene...y Dios en su ira les reparte d![[H2256]]
+- Job_30:17huesos, y los d que me roen no reposanH6207
+- Job_33:19castigado con d...en todos sus huesosH4341
+- Job_39:3hacen salir sus hijos, pasan sus dH2256
+- Sal_16:4multiplicarán los d de aquellos queH6094
+- Sal_31:10porque mi vida se va gastando de d, yH3015
+- Sal_32:10muchos d habrá para el impío; mas alH4341
+- Sal_38:17a punto de caer, y mi d está delante deH4341
+- Sal_39:2enmudecí con...me callé...y se agravó mi dH3511
+- Sal_41:3Jehová lo sustentará sobre el lecho del dH1741
+- Sal_48:6les tomó...d como de mujer que da a luzH2427
+- Sal_69:26cuentan del d de los que tú llagasteH4341
+- Sal_116:3del Seol; angustia y d había yo halladoH2256
+- Sal_127:2por demás es que...y que comáis pan de dH6089
+- Pro_14:13aun en la risa tendrá d el corazónH3510
+- Pro_15:13por el d del corazón el espíritu se abateH6094
+- Pro_19:13d es para su padre el hijo necio, yH1942
+- Pro_23:29¿para quién...el ay? ¿para quién el d?[[H17]]
+- Pro_23:32al fin...morderá, y como áspid dará dH6567
+- Ecl_1:18porque...quien añade ciencia, añade dH4341
+- Ecl_2:23porque todos sus días no son sino d, yH4341
+- Ecl_5:17comerá en tinieblas, con mucho afán y dH3707
+- Cnt_8:5allí tuvo tu madre d...tuvo d la que teH2254
+- Isa_13:8d se apoderarán de ellos, tendrán dH2256, [[H2342]]
+- Isa_17:11día de la angustia y del d desesperadoH3511
+- Isa_21:3por tanto, mis lomos se han llenado de dH2479
+- Isa_23:5Egipto, tendrán d de las nuevas de TiroH2342
+- Isa_26:17y da gritos en sus d, así hemos sidoH2256
+- Isa_26:18concebimos, tuvimos d de parto, dimosH2342
+- Isa_50:11os vendrá esto; en d seréis sepultadosH4620
+- Isa_51:11volverán a...y el d y el gemido huiránH3015
+- Isa_53:3varón de d, experimentado en quebrantoH4341
+- Isa_53:4sufrió nuestros d, y nosostros le tuvimosH4341
+- Isa_65:14clamaréis por el d del corazónH3511
+- Isa_66:7antes que le viniesen d, dio a luz hijoH2256
+- Jer_6:24se apoderó de nosotros angustia, dH2427
+- Jer_8:18de mi fuerte d, mi corazón desfalleceH3015
+- Jer_13:21¿no te darán d como de mujer...de parto?[[H2256]]
+- Jer_15:9se llenó de d su alma, su sol se puso
+- Jer_15:18¿por qué fue perpetuo mi d...curación?[[H3511]]
+- Jer_20:18¿para ver trabajo y d, y que mis díasH3015
+- Jer_22:23cuando te vinieren d, d como de mujerH2256, [[H2427]]
+- Jer_30:15incurable es tu d...te he hecho estoH4341
+- Jer_31:12gritos de gozo...y nunca más tendrán dH1669
+- Jer_31:13los consolaré, y los alegraré de su dH3015
+- Jer_45:3¡ ay...ha añadido Jehová tristeza a mi dH4341
+- Jer_49:24d le tomaron, como de mujer que está deH2256
+- Jer_50:43angustia le...d como de mujer de partoH2427
+- Jer_51:8tomad bálsamo para su d, quizá saneH4341
+- Lam_1:12mirad, y ved si hay d como mi d queH4341
+- Lam_1:13me dejó desolada, y con d todo el díaH1739
+- Lam_1:18oíd ahora, pueblos todos, y ved mi dH4341
+- Eze_23:33serás llena de...d por el cáliz de tuH3015
+- Eze_28:24nunca más será...ni aguijón que le dé dH3510
+- Eze_30:16tendrá gran d, y Tebas será destrozadaH2342
+- Eze_36:21d al ver mi santo nombre profanado porH2550
+- Dan_10:16con la visión me han sobrevenido dH6735
+- Ose_13:13d de mujer que da a luz le vendránH2256
+- Miq_4:9te ha tomado d como de mujer de parto?[[H2427]]
+- Nah_2:10d en las entrañas, rostros demudadosH2479
+- Mat_24:8y todo esto será principio de dG5604
+- Mar_13:8alborotos; principios de d son éstosG5604
+- Jua_16:21la mujer cuando da a luz, tiene dG3077
+- Hec_2:24levantó, sueltos los d de la muerteG5604
+- Rom_8:22a una está con d de parto hasta ahoraG4944
+- Rom_9:2gran tristeza y continuo d en mi corazónG3601
+- Gál_4:19míos, por quienes vuelvo a sufrir dG5605
+- Gál_4:27y clama, tú que no tienes d de partoG5605
+- 1Ts_5:3como los d a la mujer encinta, y noG5604
+- 1Ti_6:10y fueron traspasados de muchos dG3601
+- Rev_12:2clamaba con d de parto, en la angustiaG5605
+- Rev_16:10tinieblas, y mordían de d sus lenguasG4192
+- Rev_16:11blasfemaron...por sus d y...sus úlcerasG4192
+- Rev_21:4ni habrá más llanto, ni clamor, ni dG3997

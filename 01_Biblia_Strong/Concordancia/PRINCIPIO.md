@@ -1,0 +1,116 @@
+---
+tipo: concordancia
+palabra: PRINCIPIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRINCIPIO
+
+- Gén_1:1el p creó Dios los cielos y la tierraH7225
+- Gén_41:21su apariencia...era aún mala, como al pH8462
+- Gén_43:20descendimos al p a comprar alimentosH8462
+- Gén_49:3Rubén...mi fortaleza, y el p de mi vigorH7225
+- Éxo_12:2este mes os será p de los meses; paraH7218
+- Núm_10:10en los p de vuestros meses, tocaréisH7218
+- Deu_11:12sobre ella los ojos...Dios, desde el pH7225
+- Deu_21:17porque él es el p de su vigor, y suyoH7225
+- Jue_7:19al p de la guardia de la medianocheH7218
+- 1Sa_3:12contra Elí...desde el p hasta el fin
+- 2Sa_7:10ni...inicuos le aflijan más, como al pH7223
+- 2Sa_17:9y si al p cayeren algunos de los tuyosH8462
+- 2Sa_21:10la tendió para...desde el p de la siegaH8462
+- 1Re_6:1cuarto año del p del reino de Salomón
+- 1Re_20:9haré todo lo que mandaste a...al p; masH7223
+- 2Re_17:25p, cuando comenzaron a habitar allíH8462
+- Esd_4:6en el p de su reinado, escribieronH8462
+- Esd_7:9mes fue el p de la partida de BabiloniaH7223
+- Job_8:7aunque tu p haya sido pequeño...grandeH7225
+- Job_40:19él es el p de los caminos de Dios; elH7725
+- Sal_77:5consideraba los días desde el p, losH6924
+- Sal_102:25desde el p tú fundaste la tierra, y losH6440
+- Sal_111:10; Pro_1:7el p de la sabiduría es el temor deH7225
+- Pro_8:22Jehová me poseía en el p...de antiguoH7225
+- Pro_8:23tuve el principado, desde el p, antes deH7218
+- Pro_8:26los campos, ni el p del polvo del mundoH7218
+- Pro_9:10temor de Jehová es el p de la sabiduríaH8462
+- Pro_20:21bienes que se adquieren de prisa al pH7223
+- Ecl_3:11a entender la obra...el p hasta el finH7218
+- Ecl_7:8mejor es el fin del negocio que su pH7225
+- Ecl_10:13el p de las palabras...boca es necedadH8462
+- Isa_1:26restauraré tus jueces como al p, y tusH8462
+- Isa_18:2, Isa_18:7pueblo temible desde su p y despuésH1973
+- Isa_40:21¿nunca os lo han dicho desde el p? ¿NoH7218
+- Isa_41:4quién llama las generaciones desde el p?[[H7218]]
+- Isa_41:22dígannos lo que ha pasado desde el pH7223
+- Isa_41:26¿quién lo anunció desde el p, para queH7218
+- Isa_45:21¿quién hizo oír esto desde el p, y loH6924
+- Isa_46:10que anuncio lo por venir desde el p, yH6924
+- Isa_48:16desde el p no hablé en secreto; desdeH7218
+- Isa_60:9naves de Tarsis desde el p, para traerH7223
+- Jer_7:12Silo, donde hice morar mi nombre al pH7223
+- Jer_17:12trono de gloria, excelso desde el p, esH7223
+- Jer_26:1; Jer_27:1el p del reinado de Joacim hijoH7225
+- Jer_28:1en el p del reinado de Sedequías rey deH7225
+- Jer_33:7haré volver...los restableceré como al pH7223
+- Jer_33:11los cautivos de la tierra como al p, haH7223
+- Jer_49:34acerca de Elam, en el p del reinado deH7225
+- Lam_5:21Jehová...renueva...días como al...pH6924
+- Eze_21:21ha detenido...al p de los dos caminosH7218
+- Eze_36:11y os haré mayor bien que en vuestros pH7221
+- Eze_40:1al p del año, a los diez días del mes, aH7218
+- Dan_9:21a quien había visto en la visión al pH8462
+- Dan_9:23al p de tus ruegos fue dada la orden, yH8462
+- Ose_1:2el p de la palabra de Jehová por...OseasH8462
+- Ose_9:10como la fruta...de la higuera en su p viH7225
+- Joe_2:23lluvia temprana y tardía como al pH7223
+- Miq_1:13fuisteis p de pecado a la hija de SionH7225
+- Miq_5:2y sus salidas son desde el p, desde losH6924
+- Hab_1:12¿no eres tú desde el p, oh JehováH6924
+- Mat_19:4el que los hizo al p, varón y hembraG746
+- Mat_19:8Moisés os permitió...mas al p no fue asíG746
+- Mat_24:8y todo esto será p de doloresG746
+- Mat_24:21cual no ha habido desde el p del mundoG746
+- Mar_1:1p del evangelio de Jesucristo, Hijo deG746
+- Mar_10:6pero al p...varón y hembra los hizo DiosG746
+- Mar_13:8habrá hambres y alborotos; p de doloresG746
+- Mar_13:19cual nunca ha habido desde el p de laG746
+- Luc_1:2que desde el p lo vieron con sus ojosG746
+- Luc_1:70santos profetas que fueron desde el p
+- Jua_1:1en el p era el Verbo, y el Verbo eraG746
+- Jua_1:2éste era en el p con DiosG746
+- Jua_2:11este p de señales hizo Jesús en Caná deG746
+- Jua_6:64Jesús sabía desde el p quiénes eran losG746
+- Jua_8:25les dijo: Lo que desde el p os he dichoG746
+- Jua_8:44él ha sido homicida desde el p, y no haG746
+- Jua_9:32desde el p no se ha oído decir...abriese
+- Jua_12:16no las entendieron sus discípulos al pG4412
+- Jua_15:27porque habéis estado conmigo desde el pG746
+- Jua_16:4no os lo dije al p, porque yo estaba conG746
+- Hec_11:15Espíritu...como sobre nosotros al pG746
+- Hec_26:4la cual desde el p pasé en mi nación, enG746
+- Hec_26:5saben que yo desde el p...viví fariseoG509
+- Flp_4:15al p de la predicación del evangelioG746
+- Col_1:18que es el p, el primogénito de entreG746
+- 2Ts_2:13que Dios os haya escogido desde el pG746
+- Tit_1:2prometió desde antes del p de...siglos
+- Heb_1:10el p fundaste la tierra, y los cielosG746
+- Heb_3:14hasta el fin nuestra confianza del pG746
+- Heb_7:3que ni tiene p de días, ni fin de vidaG746
+- Heb_9:26padecer muchas veces desde el p...mundoG2602
+- 2Pe_3:4permanecen así como desde el p de laG746
+- 1Jn_1:1lo que era desde el p, lo que hemosG746
+- 1Jn_2:7mandamiento...que habéis tenido desde el pG746
+- 1Jn_2:7es la palabra que habéis oído desde el pG746
+- 1Jn_2:13porque conocéis al que es desde el pG746
+- 1Jn_2:14habéis conocido al que es desde el pG746
+- 1Jn_2:24que habéis oído desde el p, permanezcaG746
+- 1Jn_2:24oído desde el p permanece en vosotrosG746
+- 1Jn_3:8diablo; porque el diablo peca desde el pG746
+- 1Jn_3:11el mensaje que habéis oído desde el pG746
+- 2Jn_1:5el que hemos tenido desde el p, que nosG746
+- 2Jn_1:6que andéis en amor...habéis oído desde el pG746
+- Rev_1:8soy el Alta y la Omega, p y fin, diceG746
+- Rev_3:14el p de la creación de Dios, dice estoG746
+- Rev_13:8del Cordero que fue inmolado desde el pG2602
+- Rev_21:6; Rev_22:13yo soy el Alfa y la Omega, el p yG746

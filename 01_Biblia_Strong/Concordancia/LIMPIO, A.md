@@ -1,0 +1,150 @@
+---
+tipo: concordancia
+palabra: LIMPIO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LIMPIO, A
+
+- Gén_7:2de todo animal l tomarás siete parejasH2889
+- Gén_7:2de los animales que no son l, una parejaH2889
+- Gén_7:8los animales l, y de los...que no eran lH2889
+- Gén_8:20tomó de todo animal l y de toda ave lH2889
+- Éxo_31:8el candelero l y todos sus utensiliosH2889
+- Lev_4:12sacará fuera...a un lugar l, donde seH2889
+- Lev_6:11sacará las cenizas fuera...a un lugar lH2889
+- Lev_7:19toda persona l podrá comer la carneH2889
+- Lev_10:10poder discernir. entre lo inmundo y lo lH2889
+- Lev_10:14comeréis...en lugar l, tú y tus hijosH2889
+- Lev_11:32inmundo hasta la...entonces quedará lH2891
+- Lev_11:36fuente...donde se recogen aguas serán lH2889
+- Lev_11:37cayere...sobre alguna semilla...será lH2889
+- Lev_11:47diferencia entre lo inmundo y lo l, yH2889
+- Lev_12:7-8hará expiación por ella, y será lH2891
+- Lev_13:6lo declarará l...y lavará sus...y será lH2891
+- Lev_13:7que él se mostró al sacerdote para ser lH2893
+- Lev_13:13si la...declarará l al llagado. .él es lH2891
+- Lev_13:17declarará l...tenía la llaga, y será lH2891
+- Lev_13:23cicatriz...el sacerdote lo declarará lH2891
+- Lev_13:28el sacerdote lo declarará l...señal deH2891
+- Lev_13:34lo declarará l; y lavará sus...será lH2891
+- Lev_13:37está l, y l lo declarará el sacerdoteH2889
+- Lev_13:39empeine que brotó...está l la personaH2889
+- Lev_13:40le cayere el cabello, es calvo...pero lH2889
+- Lev_13:41cabello, es calvo por delante, pero lH2889
+- Lev_13:58lavará segunda vez, y entonces será lH2891
+- Lev_13:59ley...para que sea declarada l o InmundaH2891
+- Lev_14:4avecillas vivas, l, madera de cedroH2889
+- Lev_14:7y rociará siete veces...y le declarará lH2891
+- Lev_14:8raerá...y se lavará con agua, y será lH2891
+- Lev_14:9y lavará su cuerpo en agua, y será lH2891
+- Lev_14:20así hará...expiación por él, y será lH2891
+- Lev_14:48sacerdote declarará l la casa, porqueH2891
+- Lev_14:53hará expiación por la casa, y será lH2891
+- Lev_14:57enseñar cuándo es inmundo, y cuándo lH2889
+- Lev_15:8el que tiene flujo escupiere sobre el lH2889
+- Lev_15:13y lavará su cuerpo en aguas...y será lH2891
+- Lev_15:28contará siete días, y después será lH2891
+- Lev_16:30y seréis l de todos vuestros pecadosH2891
+- Lev_17:15será inmunda hasta la...entonces será lH2891
+- Lev_20:25diferencia entre animal l e inmundoH2889
+- Lev_20:25diferencia...entre ave inmunda y l; yH2889
+- Lev_22:4no comerá de...sagradas hasta que esté lH2891
+- Lev_22:7sol se pusiere, será l; y después podráH2891
+- Lev_24:4sobre el candelero l pondrá siempre enH2889
+- Lev_24:6seis...sobre la mesa l delante de JehováH2889
+- Núm_5:28sino que estuviere l, ella será libreH2889
+- Núm_9:13el que estuviere l, y no estuviere deH2889
+- Núm_18:11, Núm_18:13todo l en tu casa comerá de ellasH2889
+- Núm_19:9y un hombre l recogerá las cenizas deH2889
+- Núm_19:9las pondrá...en lugar l, y las guardaráH2889
+- Núm_19:12al séptimo día será l; y si al tercerH2891
+- Núm_19:12tercer día...no será l al séptimo díaH2891
+- Núm_19:18hombre l tomará hisopo, y lo mojaráH2889
+- Núm_19:19l rociará sobre el inmundo al terceroH2889
+- Núm_19:19se lavará con agua, y será l a la nocheH2891
+- Núm_31:23por fuego lo haréis pasar, y será lH2891
+- Núm_31:24lavaréis vuestros vestidos...seréis lH2891
+- Deu_12:15, Deu_12:22el inmundo y el l la podrá comerH2889
+- Deu_14:11, Deu_14:20toda ave l podréis comerH2889
+- Deu_15:22el inmundo lo mismo que el l comeránH2889
+- Deu_23:10si hubiere en...alguno que no fuere lH2889
+- Jos_22:17que no estamos aún l hasta este díaH2891
+- 1Sa_20:26y no está l; de seguro...purificadoH2889
+- 2Sa_22:27l te mostrarás para con el l, yH2889
+- 2Re_5:10vé y lávate siete veces...y serás lH2891
+- 2Re_5:12me lavare en ellos, ¿no seré también l?[[H2891]]
+- 2Re_5:13¿cuánto...diciéndote: Lávate, y serás l?[[H2891]]
+- 2Re_5:14se zambulló siete veces en...y quedó lH2891
+- 2Cr_13:11y ponen los panes sobre la mesa lH2889
+- Esd_6:20estaban l, y sacrificaron la pascuaH2889
+- Job_4:17será el varón más l que el que lo hizo?[[H2891]]
+- Job_8:6si fueres l y recto, ciertamente luegoH2134
+- Job_10:14y no me tendrás por l de mi iniquidadH5352
+- Job_11:4tú dices...yo soy l delante de tus ojosH1249
+- Job_11:15levantarás tu rostro l de mancha, yH4480
+- Job_14:4¿quién hará l a lo inmundo? NadieH2889
+- Job_15:14¿qué cosa es el hombre para que sea lH2135
+- Job_15:15y ni aun los cielos son l delante deH2141
+- Job_17:9y el l de manos aumentará la fuerzaH2891
+- Job_25:4¿y cómo será l el que nace de mujer?[[H2135]]
+- Job_25:5ni las estrellas son l delante de susH2141
+- Job_33:9yo soy l y sin defecto; soy inocenteH2134
+- Sal_12:6palabras de Jehová son palabras lH2889
+- Sal_18:26l te mostrarás para con el l, y severoH1305
+- Sal_19:9el temor de Jehová es l, que permaneceH2889
+- Sal_19:13entonces seré íntegro, y estaré l deH5352
+- Sal_24:4el l de manos y puro de corazón; el queH5355
+- Sal_51:7purifícame con hisopo, y seré l; lávameH2891
+- Sal_51:10crea en mí, oh Dios, un corazón l, yH2889
+- Sal_73:1es bueno Dios para...los l de corazónH1249
+- Pro_15:26mas las expresiones de los l son lH2889
+- Pro_16:2del hombre son l en su propia opiniónH2134
+- Pro_20:9podrá decir: Yo...l estoy de mi pecado?[[H2135]]
+- Pro_20:11muchacho...su conducta fuere l y rectaH2134
+- Pro_30:5toda palabra de Dios es l; él es escudoH6884
+- Pro_30:12hay generación l en su propia opiniónH2889
+- Ecl_9:2y al impío; al bueno, al l y al no lH2889
+- Isa_6:7y es quitada tu culpa, y l tu pecadoH3722
+- Isa_28:8está llena de...hasta no haber lugar l
+- Isa_30:24comerán grano l, aventado con pala yH2548
+- Isa_66:20traen la ofrenda en utensilios l a laH2889
+- Jer_13:27ti, Jerusalén! ¿No serás al fin l?[[H2891]]
+- Eze_22:24tú no eres tierra l, ni rociada conH2891
+- Eze_22:26ni distinguieron entre inmundo y l; yH2889
+- Eze_36:25esparciré sobre vosotros agua l, yH2889
+- Eze_44:23les enseñarán...entre lo l y lo no lH2889
+- Dan_7:9el pelo de su cabeza como lana l; suH5343
+- Dan_12:10muchos serán l, y emblanquecidos yH1305
+- Amó_4:6os hice estar a diente l en...ciudadesH5356
+- Hab_1:13muy l eres de ojos para ver el malH2889
+- Zac_3:5pongan mitra l...pusieron una mitra lH2889
+- Mal_1:11en todo lugar se ofrece...ofrenda lH2889
+- Mat_5:8bienaventurados...de l corazón, porqueG2513
+- Mat_8:3Jesús...le tocó, diciendo: Quiero; sé lG2511
+- Mat_23:26para que también lo de fuera sea lG2513
+- Mat_27:59el cuerpo, lo envolvió en una sábana lG2513
+- Mar_1:41Jesús...tocó, y le dijo: Quiero, sé lG2511
+- Mar_1:42así...la lepra se fue de aquél, y quedó lG2511
+- Mar_7:19decía, haciendo l todos los alimentosG2511
+- Luc_5:13mano, le tocó, diciendo: Quiero; sé lG2511
+- Luc_11:41dad limosna...entonces todo os será lG2513
+- Jua_13:10pues está todo l; y vosotros l estáisG2513
+- Jua_13:11sabía...por eso dijo: No estáis l todosG2513
+- Jua_15:3vosotros estáis l por la palabra que osG2513
+- Hec_18:6yo, l...ahora me iré a los gentilesG2513
+- Hec_20:26estoy l de la sangre de todos vosotrosG2513
+- Rom_14:20todas las cosas a la verdad son lG2513
+- 2Co_7:11en todo os habéis mostrado l en elG53
+- 1Ti_1:5es el amor nacido de corazón l, y deG2513
+- 1Ti_3:9el misterio de la fe con l concienciaG2513
+- 2Ti_1:3a Dios, al cual sirvo...l concienciaG2513
+- 2Ti_2:22los que de corazón l invocan al SeñorG2513
+- Heb_10:2l una vez, no tendrían ya...de pecadoG2508
+- 2Pe_3:1despierto con...vuestro ÁentendimientoG1506
+- Rev_15:6siete ángeles...vestidos de lino l yG2513
+- Rev_19:8concedido que se vista de lino fino, lG2513
+- Rev_19:14vestidos de lino...y l, le seguían enG2513
+- Rev_21:18era de oro puro, semejante al vidrio lG2513
+- Rev_22:1después me mostró un río l de agua deG2513

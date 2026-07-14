@@ -1,0 +1,126 @@
+---
+tipo: concordancia
+palabra: JEREMÍAS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JEREMÍAS
+
+- 1 De Libna, padre de Hamutal, 2Re_23:31; 2Re_24:18; Jer_52:1H3414
+- 2 Jefe de la tribu de Manasés, 1Cr_5:24; Neh_10:2; Neh_12:1, Neh_12:12, Neh_12:34H3414
+- 3 Nombre de tres guerreros que se unieron a David en Siclag, 1Cr_12:4, 1Cr_12:10, 1Cr_12:13H3414
+- 4 Profeta
+- 2Cr_35:25y J endechó en memoria de JosíasH3414
+- 2Cr_36:12y no se humilló delante del profeta JH3414
+- 2Cr_36:21-22la palabra de Jehová por boca de JH3414
+- Esd_1:1cumpliese la palabra...por boca de JH3414
+- Jer_1:1palabras de J hijo de Hilcías, de losH3414
+- Jer_1:11vino a mí, diciendo: ¿Qué ves tú, J?[[H3414]]
+- Jer_7:1; Jer_11:1; Jer_14:1; Jer_18:1; Jer_21:1; Jer_34:1, Jer_34:8, Jer_34:12; Jer_35:1, Jer_35:12; Jer_40:1; Jer_46:1; Jer_47:1; Jer_49:34palabra de Jehová que vino a JH3414
+- Jer_18:18dijeron: Venid y maquinemos contra JH3414
+- Jer_19:14y volvió J de Tofet, adonde le envióH3414
+- Jer_20:1Pasur...oyó a J que profetizaba estasH3414
+- Jer_20:2azotó Pasur al profeta J, y lo puso enH3414
+- Jer_20:3Pasur sacó a J del...Le dijo entonces JH3414
+- Jer_21:3y J les dijo: Diréis así a SedequíasH3414
+- Jer_24:3Jehová: ¿Qué ves tú, J? Y dije: HigosH3414
+- Jer_25:1palabra que vino a J acerca de todo elH3414
+- Jer_25:2habló el profeta J a todo el pueblo deH3414
+- Jer_25:13lo que está escrito...profetizado por JH3414
+- Jer_26:7oyeron a J hablar estas palabras en laH3414
+- Jer_26:8cuando terminó de hablar J todo lo queH3414
+- Jer_26:9todo el pueblo se juntó contra J en laH3414
+- Jer_26:12habló J...diciendo: Jehová me envió aH3414
+- Jer_26:20profetizó...conforme a...palabras de JH3414
+- Jer_26:24Ahicam...estaba a favor de J, para queH3414
+- Jer_27:1esta palabra de Jehová a J, diciendoH3414
+- Jer_28:5respondió el profeta J al...HananíasH3414
+- Jer_28:6y dijo el profeta J: Amén, así lo hagaH3414
+- Jer_28:10quitó el yugo del cuello del profeta JH3414
+- Jer_28:11romperé el yugo...Y siguió J su caminoH3414
+- Jer_28:12rompió el yugo...cuello del profeta JH3414
+- Jer_28:12; Jer_29:30; Jer_32:26; Jer_33:1, Jer_33:19, Jer_33:23; Jer_35:12; Jer_36:1, Jer_36:27; Jer_37:6; Jer_43:8vino palabra de Jehová a JH3414
+- Jer_28:15entonces dijo...J al profeta HananíasH3414
+- Jer_29:1de la carta que el profeta J envió deH3414
+- Jer_29:27¿por qué...no has reprendido ahora a JH3414
+- Jer_29:29leído esta carta a oídos del profeta JH3414
+- Jer_30:1; Jer_32:1palabra de Jehová que vino a JH3414
+- Jer_32:2el profeta J estaba preso en el patioH3414
+- Jer_32:6J: Palabra de Jehová vino a mí, diciendoH3414
+- Jer_34:6habló el profeta J a Sedequías rey deH3414
+- Jer_35:18dijo J a la familia de los recabitasH3414
+- Jer_36:4y llamó J a Baruc hijo de Nerías, yH3414
+- Jer_36:4escribió Baruc de boca de J, en un rolloH3414
+- Jer_36:5mandó J a Baruc, diciendo: A mí se meH3414
+- Jer_36:8todas las cosas que le mandó J profetaH3414
+- Jer_36:10Baruc leyó...palabras de J en la casaH3414
+- Jer_36:17cómo escribiste de boca de J todasH3414
+- Jer_36:19vé y escóndete, tú y J, y nadie sepaH3414
+- Jer_36:26que prendiesen a Baruc...y al profeta JH3414
+- Jer_36:27rey quemó el rollo, las palabras...de JH3414
+- Jer_36:32y tomó J otro rollo y lo dio a BarucH3414
+- Jer_36:32escribió en él de boca de J todas lasH3414
+- Jer_37:2palabras...cuales dijo por el profeta JH3414
+- Jer_37:3dijesen al profeta J: Ruega ahora porH3414
+- Jer_37:4J entraba y salía en medio del puebloH3414
+- Jer_37:12salía J de Jerusalén para irse a tierraH3414
+- Jer_37:13Irías...apresó al profeta J, diciendoH3414
+- Jer_37:14J dijo: Falso; no me paso a...caldeosH3414
+- Jer_37:14prendió Irías a J, y lo llevó delanteH3414
+- Jer_37:15los príncipes se airaron contra J, y leH3414
+- Jer_37:16entró...J en la casa de la cisterna, yH3414
+- Jer_37:16y habiendo estado...J por muchos díasH3414
+- Jer_37:17J dijo: Hay...Y dijo más: En mano delH3414
+- Jer_37:18dijo también J al rey Sedequías: ¿EnH3414
+- Jer_37:21custodiaron a J...Y quedó J en el patioH3414
+- Jer_38:1palabras que J hablaba a todo el puebloH3414
+- Jer_38:6tomaron...a J...metieron a J...se hundióH3414
+- Jer_38:7que habían puesto a J en la cisternaH3414
+- Jer_38:9mal hicieron...han hecho con el profeta JH3414
+- Jer_38:10haz sacar al profeta J de la cisternaH3414
+- Jer_38:11los echó a J con sogas en la cisternaH3414
+- Jer_38:12el etíope...a J: Pon ahora esos traposH3414
+- Jer_38:12debajo de las sogas...Y lo hizo así JH3414
+- Jer_38:13sacaron a J...y quedó J en el patio deH3414
+- Jer_38:14traer al profeta J...Y dijo el rey a JH3414
+- Jer_38:15J dijo a Sedequías: Si te lo declarareH3414
+- Jer_38:16juró el rey Sedequías en secreto a JH3414
+- Jer_38:17dijo J a Sedequías...Si te entregas enH3414
+- Jer_38:19rey Sedequías a J: Tengo temor de losH3414
+- Jer_38:20dijo J: No te entregarán...Oye...la vozH3414
+- Jer_38:24dijo Sedequías a J: Nadie sepa estasH3414
+- Jer_38:27vinieron luego...a J, y le preguntaronH3414
+- Jer_38:28quedó J en el patio de la cárcel hastaH3414
+- Jer_39:11había ordenado...acerca de J, diciendoH3414
+- Jer_39:14tomaron a J del patio de la cárcel, yH3414
+- Jer_39:15y había venido palabra de Jehová a JH3414
+- Jer_40:2tomó, pues, el capitán...a J y le dijoH3414
+- Jer_40:6se fue...J a Gedalías...y habitó con élH3414
+- Jer_42:2y dijeron al...J: Acepta...nuestro ruegoH3414
+- Jer_42:4el profeta J les dijo: He oído...He aquíH3414
+- Jer_42:5dijeron a J: Jehová sea...testigo de laH3414
+- Jer_42:7al cabo de diez días vino palabra...a JH3414
+- Jer_43:1cuando J acabó de hablar a...el puebloH3414
+- Jer_43:2soberbios dijeron a J: Mentira dicesH3414
+- Jer_43:6al profeta J y a Baruc hijo de NeríasH3414
+- Jer_44:1palabra que vino a J acerca de...judíosH3414
+- Jer_44:15el pueblo...respondieron a J, diciendoH3414
+- Jer_44:20y habló J a todo el pueblo...diciendoH3414
+- Jer_44:24y dijo J a todo el pueblo, y a todasH3414
+- Jer_45:1palabra que habló el profeta J a BarucH3414
+- Jer_45:1escribía...estas palabras de boca de JH3414
+- Jer_46:13palabra que habló Jehová al profeta JH3414
+- Jer_50:1habló Jehová...por medio del profeta JH3414
+- Jer_51:59palabra que...el profeta J a SeraíasH3414
+- Jer_51:60escribió...J en un libro todo el malH3414
+- Jer_51:61y dijo J a Seraías: Cuando llegues aH3414
+- Jer_51:64hasta aquí son las palabras de JH3414
+- Dan_9:2años de que habló Jehová al profeta JH3414
+- Mat_2:17se cumplió lo que fue dicho por...JG2408
+- Mat_16:14y otros, J, o alguno de los profetasG2408
+- Mat_27:9se cumplió lo dicho por el profeta JG2408
+- 5 Firmante del pacto de Nehemías, Neh_10:2G3414
+- 6 Sacerdote que regresó del cautiverio con Zorobabel, Neh_12:1, Neh_12:12G3414
+- 7 Príncipe de Judá en la dedicación del muro de Jerusalén, Neh_12:34G3414
+- 8 Padre de Jaazanías recabita, Jer_35:3G3414

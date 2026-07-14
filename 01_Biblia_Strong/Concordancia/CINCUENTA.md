@@ -1,0 +1,84 @@
+---
+tipo: concordancia
+palabra: CINCUENTA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CINCUENTA
+
+- Véase también Cincuenta y dos, Cincuenta mil, etc
+- Gén_6:15de c codos su anchura, y de treintaH2572
+- Gén_18:24quizá haya c justos dentro de la ciudadH2572
+- Gén_18:24perdonarás al lugar por amor a los cH2572
+- Gén_18:26si hallare en Sodoma c justos dentro deH2572
+- Gén_18:28quizá faltarán de c justos cincoH2572
+- Éxo_18:21y ponlos...por jefes...de c y de diezH2572
+- Éxo_18:25y los puso por jefes...sobre c y sobreH2572
+- Éxo_26:5c lazadas...en la primera cortina, y cH2572
+- Éxo_26:6harás también c corchetes de oro, conH2572
+- Éxo_26:10c lazadas en la orilla...y c lazadas enH2572
+- Éxo_26:11asimismo c corchetes de bronce, losH2572
+- Éxo_27:12lado occidental...cortinas de c codosH2572
+- Éxo_27:13en el ancho del atrio...habrá c codosH2572
+- Éxo_27:18anchura c por un lado y c por el otroH2572
+- Éxo_36:12c lazadas hizo en la...y otras c en laH2572
+- Éxo_36:13hizo también c corchetes de oro, conH2572
+- Éxo_36:17c lazadas en la orilla de...y otras c enH2572
+- Éxo_36:18hizo también c corchetes de bronce paraH2572
+- Éxo_38:12lado del occidente, cortinas de c codosH2572
+- Éxo_38:13del lado...al este, cortinas de c codosH2572
+- Lev_23:16hasta el día...reposo contaréis c díasH2572
+- Lev_25:10santificaréis el año c, y pregonaréisH2572
+- Lev_25:11el año c os será jubileo; no sembraréisH2572
+- Lev_27:3al varón...estimarás en c siclos de plataH2572
+- Lev_27:16un homer...se valorará en c siclos deH2572
+- Núm_4:3, Núm_4:23, Núm_4:30de treinta años arriba hasta cH2572
+- Núm_4:35, Núm_4:39, Núm_4:43, Núm_4:47hasta el de edad de c añosH2572
+- Núm_8:25desde los c años cesarán de ejercer suH2572
+- Núm_31:30tomarás uno de cada c de las personasH2572
+- Núm_31:47tomó Moisés uno de cada c, así de lasH2572
+- Deu_1:15los puse por jefes sobre...c y de diezH2572
+- Deu_22:29al padre de la joven c piezas de plataH2572
+- Jos_7:21vi...un lingote de oro...de c siclosH2572
+- 2Sa_15:1Absalón se hizo de carros...c hombresH2572
+- 2Sa_24:24compró la era...por c siclos de plataH2572
+- 1Re_1:5c hombres que corriesen delante de élH2572
+- 1Re_7:2tenía...c codos de anchura y 30 codos deH2572
+- 1Re_7:6un pórtico...que tenía c codos de largoH2572
+- 1Re_18:4, 1Re_18:13cien profetas...de c en c en cuevasH2572
+- 2Re_1:9envió a él un capitán de c con sus cH2572
+- 2Re_1:10Elías...dijo al capitán de c: Si yo soyH2572
+- 2Re_1:10, 2Re_1:12fuego del cielo...consúmate con tus cH2572
+- 2Re_1:10, 2Re_1:12fuego del...lo consumió a él y a sus cH2572
+- 2Re_1:11a enviar...otro capitán de c con sus cH2572
+- 2Re_1:13enviar al tercer capitán de c con sus cH2572
+- 2Re_1:13subiendo aquel tercer capitán de c, seH2572
+- 2Re_1:13mi vida, y la vida de estos tus c siervosH2572
+- 2Re_1:14ha consumido a...capitanes de c con sus cH2572
+- 2Re_2:7vinieron c varones de los hijos de losH2572
+- 2Re_2:16hay con tus siervos c varones fuertesH2572
+- 2Re_2:17ellos enviaron c hombres, los cuales loH2572
+- 2Re_13:7no le había quedado...sino c hombres deH2572
+- 2Re_15:20cada uno c siclos de plata, para dar alH2572
+- 2Re_15:23el año c de Azarías rey...reinó PekaíaH2572
+- 2Re_15:25en compañía...de c hombres...galaaditasH2572
+- 2Cr_3:9el peso de...era de uno hasta c siclosH2572
+- Esd_8:6hijo de Jonatán, y con él c varonesH2572
+- Neh_7:70el gobernador dio...c tazones, y 530H2572
+- Est_5:14hagan una horca de c codos de alturaH2572
+- Est_7:9la horca de c codos de altura que hizoH2572
+- Isa_3:3el capitán de c y el hombre de respetoH2572
+- Eze_40:15el frente de la puerta de...c codosH2572
+- Eze_40:21c codos de longitud, y veinticinco deH2572
+- Eze_40:25, Eze_40:29, Eze_40:33, Eze_40:36la longitud era de c codosH2572
+- Eze_42:2su longitud era...y el ancho de c codosH2572
+- Eze_42:7el muro...afuera...tenía c codos de largoH2572
+- Eze_42:8la longitud de las cámaras...de c codosH2572
+- Eze_45:2y c codos en derredor para sus ejidosH2572
+- Hag_2:16venían...sacar c cántaros, y había 20H2572
+- Mar_6:40se recostaron por grupos...de c en cG4004
+- Luc_7:41uno le debía 500 denarios, y el otro cG4004
+- Luc_9:14hacedlos sentar en grupos, de c en cG4004
+- Luc_16:6toma tu cuenta, siéntate...y escribe cG4004
+- Jua_8:57aún no tienes c años, ¿y has visto aG4004

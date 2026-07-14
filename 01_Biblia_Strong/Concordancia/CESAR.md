@@ -1,0 +1,117 @@
+---
+tipo: concordancia
+palabra: CESAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CESAR
+
+- Gén_8:22no cesarán la sementera y la siegaH7673
+- Gén_18:11a Sara le había cesado ya la costumbreH2308
+- Éxo_5:4¿por qué hacéis cesar al pueblo de suH6544
+- Éxo_5:5vosotros les hacéis cesar de sus tareasH7673
+- Éxo_9:28orad...para que cesen los truenos de DiosH6279
+- Éxo_9:29y los truenos cesarán, y no habrá másH2308
+- Éxo_9:33cesaron los truenos y el granizo, y laH2308
+- Éxo_9:34viendo Faraón...la lluvia había cesadoH2308
+- Éxo_16:14Y cuando el rocío cesó de descender
+- Éxo_31:17Jehová...el séptimo día cesó y reposóH7673
+- Núm_8:25desde los 50 años cesarán de ejercerH7725
+- Núm_11:25espíritu, profetizaron, y no cesaronH3254
+- Núm_16:31aconteció que cuando cesó él de hablarH3615
+- Núm_16:48se puso entre los...y cesó la mortandadH6113
+- Núm_16:50volvió Aarón...mortandad había cesadoH6113
+- Núm_17:5cesar...las quejas de los hijos de IsraelH7918
+- Núm_17:10harás cesar sus quejas de delante deH3615
+- Núm_25:8cesó la mortandad de los hijos de IsraelH6113
+- Deu_32:26haría cesar de entre los hombres laH7673
+- Jos_5:12el maná cesó el día siguiente, desdeH7673
+- 1Sa_2:3cesen las palabras arrogantes de...boca
+- 1Sa_7:8no ceses de clamar por nosotros a Jehová
+- 1Sa_10:13cesó de profetizar, y llegó al lugar altoH3615
+- 1Sa_12:23peque yo contra Jehová cesando de rogar
+- 2Sa_24:21que cese la mortandad del puebloH6113
+- 2Sa_24:25Jehová oyó...y cesó la plaga en IsraelH6113
+- 2Re_4:6no hay más vasijas...cesó el aceiteH5975
+- 1Cr_21:22lugar en la era...cese la mortandadH6113
+- 2Cr_16:5Baasa, cesó de edificar a RamáH2308
+- Esd_4:21dad orden que cesen aquellos hombresH989
+- Esd_4:23les hicieron cesar con poder y violenciaH989
+- Esd_4:24entonces cesó la obra de la casa de DiosH989
+- Esd_5:5y no les hicieron cesar hasta que elH989
+- Esd_6:8los gastos, para que no cese la obraH989
+- Neh_4:11entremos en...y hagamos cesar la obraH7673
+- Neh_6:3cesaría la obra, dejándola yo para ir aH7673
+- Job_10:20cesa...déjame, para que me consueleH2308
+- Job_16:6si hablo, mi dolor no cesa; y si dejoH2820
+- Job_32:1cesaron estos tres varones de responderH7673
+- Sal_46:9que hace cesar las guerras hasta losH7673
+- Sal_77:8cesado para siempre su misericordia?[[H8252]]
+- Sal_85:4y haz cesar tu ira de sobre nosotrosH656
+- Sal_89:44hiciste cesar su gloria, y echaste suH7673
+- Pro_19:27cesa, hijo mío, de oír las enseñanzasH2308
+- Pro_22:10echa...cesará el pleito y la afrentaH7673
+- Pro_26:20donde no...chismoso, cesa la contiendaH8367
+- Ecl_4:8nunca cesa de trabajar, ni susH7093
+- Ecl_10:4la mansedumbre hará cesar...ofensasH5117
+- Ecl_12:3y cesarán las muelas...han disminuidoH988
+- Isa_5:25; Isa_9:12, Isa_9:17, Isa_9:21; Isa_10:4ni con todo esto ha cesado su furorH7725
+- Isa_13:11y haré que cese la arrogancia de losH7673
+- Isa_16:10he hecho cesar el grito del lagareroH7673
+- Isa_17:3cesará el socorro de Efraín, y el reinoH7673
+- Isa_21:2oh Media. Todo su gemido hice cesarH7673
+- Isa_24:8cesó el regocijo de los panderos, seH7673
+- Isa_32:14la multitud de la ciudad cesará; lasH5800
+- Isa_33:8las calzadas están deshechas, cesaronH7673
+- Jer_6:7nunca cesa de manar...nunca cesa deH6979
+- Jer_7:13os hablé desde temprano y sin cesarH1696
+- Jer_7:25os envié todos los profetas...sin cesarH7971
+- Jer_7:34haré cesar...la voz de gozo y la voz deH7673
+- Jer_11:7amonestándoles...temprano y sin cesarH5749
+- Jer_14:17ojos lágrimas noche y día, y no cesenH1820
+- Jer_16:9haré cesar en este lugar...voz de gozoH7673
+- Jer_25:3he hablado desde temprano y sin cesarH1696
+- Jer_25:4; Jer_26:5los profetas...temprano y sin cesarH7971
+- Jer_29:19palabras...que les envié...y sin cesarH7971
+- Jer_32:33enseñaba desde temprano y sin cesar
+- Jer_35:14os he hablado...temprano y sin cesarH1696
+- Jer_35:15y sin cesar, para deciros: Volveos
+- Jer_44:4envié...siervos los profetas...sin cesarH7971
+- Lam_2:18no descanses, ni cesen las niñas deH1826
+- Lam_3:49mis ojos destilan y no cesan, porqueH1820
+- Lam_5:15cesó el gozo de nuestro corazón...lutoH7673
+- Eze_7:24cesar la soberbia de los poderososH7673
+- Eze_12:23cesar este refrán, y no repetirán másH7673
+- Eze_16:41y que ceses de prodigar tus donesH7673
+- Eze_23:27y haré cesar de ti tu lujuria, y tuH7673
+- Eze_23:48haré cesar la lujuria de la tierra, yH7673
+- Eze_26:13haré cesar el estrépito de...cancionesH7673
+- Eze_30:18; Eze_33:28cesará...soberbia de su poderíoH7673
+- Dan_9:27hará cesar el sacrificio y la ofrendaH7673
+- Dan_11:18mas un príncipe hará cesar su afrentaH7673
+- Ose_1:4haré cesar el reino de la casa de IsraelH7673
+- Ose_2:11haré cesar todo su gozo, sus fiestasH7673
+- Ose_4:18fornicaron sin cesar; sus príncipesH2181
+- Ose_7:4que cesa de avivar el fuego después queH7673
+- Amó_7:5Jehová, cesa ahora; ¿quién levantará aH2308
+- Mar_4:39cesó el viento, y se hizo...bonanzaG2869
+- Luc_7:45no ha cesado de besar mis piesG1257
+- Luc_8:24las olas...cesaron, y se hizo bonanzaG3973
+- Luc_9:36cuando cesó la...Jesús fue hallado soloG1096
+- Hec_5:42no cesaban de enseñar y predicarG3973
+- Hec_6:13no cesa de hablar palabras blasfemasG3973
+- Hec_12:5la iglesia hacía sin cesar oración aG1618
+- Hec_13:10¿no cesarás de trastornar los...del Señor?[[G3973]]
+- Hec_20:1después que cesó el alboroto, llamóG3973
+- Hec_20:31no he cesado de amonestar con lágrimas aG3973
+- Rom_1:9que sin cesar hago mención de vosotrosG89
+- 1Co_13:8y cesarán las lenguas, y la cienciaG3973
+- Efe_1:16no ceso de dar gracias por vosotrosG3973
+- Col_1:9no cesamos de orar por vosotros
+- 1Ts_1:3acordándonos sin cesar...de la obra deG89
+- 1Ts_2:13sin cesar damos gracias a Dios, de queG89
+- 1Ts_5:17orad sin cesarG89
+- 2Ti_1:3que sin cesar me acuerdo de ti en misG88
+- Heb_10:2de otra manera cesarían de ofrecerseG3973
+- Rev_4:8no cesaban día y noche de decir

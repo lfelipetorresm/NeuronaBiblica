@@ -1,0 +1,109 @@
+---
+tipo: concordancia
+palabra: ESAÚ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESAÚ
+
+- Primogénito de Jacob, y a veces su descendencia
+- Gén_25:25todo velludo...y llamaron su nombre EH6215
+- Gén_25:26trabada su mano al calcañar de E; y fueH6215
+- Gén_25:27E fue diestro en la caza, hombre delH6215
+- Gén_25:28amó Isaac a E, porque comía de su cazaH6215
+- Gén_25:29guisó Jacob...y volviendo E del campoH6215
+- Gén_25:32dijo E: He aquí yo me voy a morir; ¿paraH6215
+- Gén_25:34Jacob dio a E pan y del guisado de lasH6215
+- Gén_25:34así menospreció E la primogenituraH6215
+- Gén_26:34cuando E era de cuarenta años, tomó porH6215
+- Gén_27:1llamó a E su hijo mayor, y le dijo: HijoH6215
+- Gén_27:5estaba oyendo, cuando hablaba Isaac a EH6215
+- Gén_27:5se fue E al campo para buscar la cazaH6215
+- Gén_27:6he oído a tu padre que hablaba con EH6215
+- Gén_27:11E mi hermano es hombre velloso, y yoH6215
+- Gén_27:15tomó Rebeca los vestidos de E su hijoH6215
+- Gén_27:19Jacob dijo a...Yo soy E tu primogénitoH6215
+- Gén_27:21te palparé...por si eres mi hijo E o noH6215
+- Gén_27:22la voz...pero las manos, las manos de EH6215
+- Gén_27:23sus manos eran vellosas como las...de EH6215
+- Gén_27:24¿eres tú mi hijo E? Y Jacob respondióH6215
+- Gén_27:30luego...que E su hermano volvió de cazarH6215
+- Gén_27:32él le dijo: Yo soy...tu primogénito, EH6215
+- Gén_27:34cuando E oyó las palabras de su padreH6215
+- Gén_27:36E respondió: Bien llamaron su nombre
+- Gén_27:37Isaac respondió y dijo a E: He aquí yoH6215
+- Gén_27:38y E respondió a su padre: ¿No tienesH6215
+- Gén_27:38bendíceme...Y alzó E su voz, y lloróH6215
+- Gén_27:41aborreció E a Jacob por la bendiciónH6215
+- Gén_27:42dichas a Rebeca las palabras de E suH6215
+- Gén_27:42E tu hermano se consuela acerca de tiH6215
+- Gén_28:5Labán...hermano de Rebeca madre...de EH6215
+- Gén_28:6vio E cómo Isaac había bendecido a JacobH6215
+- Gén_28:8vio...E que las...de Canaán parecían malH6215
+- Gén_28:9y se fue E a Ismael, y tomó para sí porH6215
+- Gén_32:3envió Jacob mensajeros...a E su hermanoH6215
+- Gén_32:4diréis a mi señor E: Así dice tu siervoH6215
+- Gén_32:6vinimos a tu hermano E, y él tambiénH6215
+- Gén_32:8si viene E contra un campamento y loH6215
+- Gén_32:11líbrame...la mano de E, porque le temoH6215
+- Gén_32:13tomó de...un presente para su hermano EH6215
+- Gén_32:17mandó...Si E mi hermano te encontraréH6215
+- Gén_32:18es un presente...que envía a mi señor EH6215
+- Gén_32:19conforme a esto hablaréis a E, cuandoH6215
+- Gén_33:1alzando Jacob sus ojos, miró...venía EH6215
+- Gén_33:4E corrió a su encuentro y le abrazó, yH6215
+- Gén_33:8E dijo: ¿Qué te propones con todos estos
+- Gén_33:9y dijo E: Suficiente tengo yo, hermanoH6215
+- Gén_33:11acepta...e insistió con él, y E lo tomó
+- Gén_33:12E dijo: Anda, vamos; y yo iré delante
+- Gén_33:15y E dijo: Dejaré ahora contigo de laH6215
+- Gén_33:16así volvió E aquel día por su caminoH6215
+- Gén_35:1apareció cuando huías de tu hermano EH6215
+- Gén_35:29y lo sepultaron E y Jacob sus hijosH6215
+- Gén_36:1las generaciones de E, el cual es EdomH6215
+- Gén_36:2E tomó sus mujeres de...hijas de CanaánH6215
+- Gén_36:4Ada dio a luz a E a Elifaz; y BasematH6215
+- Gén_36:5a Coré; estos son los hijos de E, queH6215
+- Gén_36:6E tomó sus mujeres...hijos y sus hijasH6215
+- Gén_36:8E habitó en el monte de Seir; E es EdomH6215
+- Gén_36:9estos son los linajes de E, padre deH6215
+- Gén_36:10estos son los nombres de los hijos de EH6215
+- Gén_36:10de Ada mujer de E...Basemat mujer de EH6215
+- Gén_36:12fue concubina de Elifaz hijo de E, yH6215
+- Gén_36:12estos son los hijos de Ada, mujer de EH6215
+- Gén_36:13son los hijos de Basemat mujer de EH6215
+- Gén_36:14de Aholibama mujer de E, hija de AnáH6215
+- Gén_36:14ella dio a luz a...y Coré, hijos de EH6215
+- Gén_36:15son los jefes de entre los hijos de EH6215
+- Gén_36:15de Elifaz, primogénito de E; los jefesH6215
+- Gén_36:17hijos de Reuel, hijo de E; los jefesH6215
+- Gén_36:17estos hijos vienen de Basemat mujer de EH6215
+- Gén_36:18son los hijos de Aholibama mujer de EH6215
+- Gén_36:18de Aholibama mujer de E, hija de AnáH6215
+- Gén_36:19son los hijos de E, y sus jefes; él esH6215
+- Gén_36:40los nombres de los jefes de E por susH6215
+- Gén_36:43es el mismo E, padre de los edomitasH6215
+- Deu_2:4de vuestros hermanos los hijos de EH6215
+- Deu_2:5he dado por heredad a E el monte de SeirH6215
+- Deu_2:8de nuestros hermanos los hijos de E, queH6215
+- Deu_2:12a los cuales echaron los hijos de E; yH6215
+- Deu_2:22como hizo Jehová con los hijos de E queH6215
+- Deu_2:29lo hicieron conmigo los hijos de E queH6215
+- Jos_24:4a Isaac di Jacob y E. Y a E di elH6215
+- 1Cr_1:34hijos de Isaac fueron E e IsraelH6215
+- 1Cr_1:35hijos de E: Elifaz, Reuel, Jeús...CoréH6215
+- Jer_49:8quebrantamiento de E traeré sobre élH6215
+- Jer_49:10mas yo desnudaré a E, descubriré susH6215
+- Abd_1:6¡cómo fueron escudriñadas las...de E![[H6215]]
+- Abd_1:8que perezcan...la prudencia del monte de E?[[H6215]]
+- Abd_1:9todo hombre será cortado del monte de EH6215
+- Abd_1:18la casa de E estopa, y los quemarán y losH6215
+- Abd_1:18ni...resto quedará de la casa de E, porqueH6215
+- Abd_1:19y los del Neguev poseerán el monte de EH6215
+- Abd_1:21subirán...para juzgar al monte de E; y elH6215
+- Mal_1:2¿no era E hermano de Jacob? diceH6215
+- Mal_1:3y a E aborrecí, y convertí sus mentes enH6215
+- Rom_9:13está escrito: A Jacob amé, mas a EG2269
+- Heb_11:20por la fe bendijo Isaac a Jacob y a EG2269
+- Heb_12:16E, que por una sola comida vendió suG2269

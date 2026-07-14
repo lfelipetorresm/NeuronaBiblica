@@ -1,0 +1,614 @@
+---
+tipo: concordancia
+palabra: SUBIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SUBIR
+
+- Gén_2:6que subía de la tierra un vapor, el cualH5927
+- Gén_7:18subieron las aguas y crecieron en granH1396
+- Gén_7:19las aguas subieron mucho sobre la tierraH1396
+- Gén_7:20quince codos más alto subieron las aguasH1396
+- Gén_13:1subió...Abram de Egipto hacia el NeguevH5927
+- Gén_17:22él, y subió Dios de estar con AbrahamH5927
+- Gén_19:13clamor contra ellos ha subido de punto
+- Gén_19:27y subió Abraham por la mañana al lugar
+- Gén_19:28el humo subía de la tierra como el humoH5927
+- Gén_19:30Lot subió de Zoar y moró en el monteH5927
+- Gén_26:23y de allí subió a BeersebaH5927
+- Gén_28:12y he aquí ángeles de Dios que subían yH5957
+- Gén_31:17y subió sus hijos y sus mujeres sobreH5375
+- Gén_35:1levántate y sube a Bet-el, y quédate allíH5927
+- Gén_35:3subamos a Bet-el; y haré allí altar alH5927
+- Gén_38:12Judá...subía a los trasquiladores de susH5927
+- Gén_38:13tu suegro sube a Timnat a trasquilarH5927
+- Gén_41:2del río subían siete vacas, hermosas aH5927
+- Gén_41:3que tras ellas subían del río otras sieteH5927
+- Gén_41:18subían siete vacas de gruesas carnesH5927
+- Gén_41:19y que otras siete vacas subían despuésH5927
+- Gén_41:27las siete vacas...que subían tras ellasH5927
+- Gén_41:43y lo hizo subir en su segundo carro, yH7392
+- Gén_45:25y subieron de Egipto, y llegaron a laH5927
+- Gén_46:31subiré y lo haré saber a Faraón, y leH5927
+- Gén_49:4por cuanto subiste al lecho de tu padreH5927
+- Gén_49:4te envileciste, subiendo a mi estradoH5927
+- Gén_49:9de león, Judá; de la presa subiste, hijoH5927
+- Gén_50:7José subió para sepultar a su padreH5927
+- Gén_50:7y subieron con él todos los siervos deH5927
+- Gén_50:9subieron también con él carros y genteH5927
+- Gén_50:14volvió José...y todos los que subieronH5927
+- Gén_50:24Dios...os hará subir de esta tierra aH5927
+- Éxo_2:23subió a Dios el clamor de ellos conH5927
+- Éxo_8:3ranas, las cuales subirán y entrarán enH5927
+- Éxo_8:4y las ranas subirán sobre ti...tu puebloH5927
+- Éxo_8:5que haga subir ranas sobre la tierra deH5927
+- Éxo_8:6y subieron ranas que cubrieron la tierraH5927
+- Éxo_10:12langosta...suba sobre el país de EgiptoH5927
+- Éxo_10:14subió la langosta sobre toda la tierraH5927
+- Éxo_12:38subió con ellos grande multitud de todaH5927
+- Éxo_13:18subieron los hijos de Israel de EgiptoH5927
+- Éxo_13:19y haréis subir mis huesos de aquí conH5927
+- Éxo_16:13subieron codornices que cubrieron elH5927
+- Éxo_17:3¿por qué nos hiciste subir de EgiptoH5927
+- Éxo_17:10y Hur subieron a la cumbre del colladoH5927
+- Éxo_19:3Moisés subió a Dios; y Jehová lo llamóH5927
+- Éxo_19:12no subáis al...ni toquéis sus límitesH5927
+- Éxo_19:13suene largamente la bocina, subirán alH5927
+- Éxo_19:18el humo subía como el humo de un hornoH5927
+- Éxo_19:20llamó Jehová a...monte, y Moisés subióH5927
+- Éxo_19:23el pueblo no podrá subir al monte SinaíH5927
+- Éxo_19:24y subirás tú, y Aarón contigo; mas losH5927
+- Éxo_19:24no traspasen el...para subir a JehováH5927
+- Éxo_20:26no subirás por gradas a mi altar, paraH5927
+- Éxo_24:1sube ante Jehová, tú, y Aarón, Nadab, yH5927
+- Éxo_24:2ellos no se acerquen, ni suba el puebloH5927
+- Éxo_24:9y subieron Moisés y Aarón, Nadab y AbiúH5927
+- Éxo_24:12sube a mí al monte, y espera allá, y teH5927
+- Éxo_24:13Josué...y Moisés subió al monte de DiosH5927
+- Éxo_24:15entonces Moisés subió al monte, y unaH5927
+- Éxo_24:18y entró Moisés...nube, y subió al monteH935
+- Éxo_32:30yo subiré...a Jehová; quizá le aplacaréH5927
+- Éxo_33:1sube...tú y el pueblo que sacaste de laH5927
+- Éxo_33:3no subiré en medio...de ti...dura cervizH5927
+- Éxo_33:5en un momento subiré en medio de ti, yH5927
+- Éxo_34:2sube de mañana al monte...preséntate anteH5927
+- Éxo_34:3y no suba hombre contigo, ni parezcaH5927
+- Éxo_34:4se levantó de mañana y subió al monteH5927
+- Éxo_34:24cuando subas para...tres veces en el añoH5927
+- Lev_2:12mas no subirán...altar en olor gratoH5927
+- Lev_11:45Jehová, que os hago subir de...EgiptoH5927
+- Lev_14:20hará subir el sacerdote el holocausto
+- Núm_13:17subid de aquí al Neguev, y subid alH5927
+- Núm_13:21ellos subieron, y reconocieron la tierraH5927
+- Núm_13:22y subieron al Neguev y vinieron hastaH5927
+- Núm_13:30subamos luego, y tomemos posesión deH5927
+- Núm_13:31varones que subieron con él, dijeronH5927
+- Núm_13:31no podremos subir contra aquel puebloH5927
+- Núm_14:40se levantaron...y subieron a la cumbre
+- Núm_14:40henos aquí para subir al lugar del cualH5927
+- Núm_14:42no subáis...Jehová no está en medio deH5927
+- Núm_14:44se obstinaron en subir a la cima delH5927
+- Núm_16:14tampoco nos has metido...No subiremosH5927
+- Núm_20:5¿y por qué nos has hecho subir de EgiptoH5927
+- Núm_20:25toma a Aarón...y hazlos subir al monteH5927
+- Núm_20:27subieron al monte de Hor y a la vistaH5927
+- Núm_21:5¿por qué nos hiciste subir de EgiptoH5927
+- Núm_21:17cántico: Sube, oh pozo; a él cantadH5957
+- Núm_21:33subieron camino de Basán; y saltó...OgH5927
+- Núm_22:41Balac tomó a Balaam y lo hizo subir aH5927
+- Núm_27:12Jehová dijo...Sube a este monte AbarimH5927
+- Núm_32:9subieron hasta el torrente de Escol, yH5927
+- Núm_32:11no verán los varones que subieron deH5927
+- Núm_33:38subió el sacerdote Aarón al monte deH5927
+- Deu_1:21sube y toma posesión...como...ha dichoH5927
+- Deu_1:22razón del camino...donde hemos de subirH5927
+- Deu_1:24subieron al monte, y llegaron hasta elH5927
+- Deu_1:26no quisisteis subir...fuisteis rebeldesH5927
+- Deu_1:28¿a dónde subiremos? Nuestros hermanosH5927
+- Deu_1:41subiremos y pelearemos, conforme a todoH5927
+- Deu_1:41y os preparasteis para subir al monteH5927
+- Deu_1:42me dijo: Diles: No subáis, ni peleéisH5927
+- Deu_1:43y persistiendo con altivez subisteis alH5927
+- Deu_3:1volvimos...subimos camino de Basán, y nosH5927
+- Deu_3:27sube a la cumbre del Pisga y alza tusH5927
+- Deu_5:5tuvisteis temor...y no subisteis al monteH5927
+- Deu_9:9cuando yo subí...para recibir las tablasH5927
+- Deu_9:23subid y poseed la tierra que yo os he dadoH5927
+- Deu_10:1sube a mí al monte, y hazte un arca deH5927
+- Deu_10:3subí al monte con las dos tablas en miH5927
+- Deu_30:12¿quién subirá por nosotros al cielo, yH5927
+- Deu_32:13lo hizo subir sobre las alturas de laH7392
+- Deu_32:49sube a este monte de Abarim, al...NeboH5927
+- Deu_32:50muere en el monte al cual subes, y séH5927
+- Deu_34:1subió Moisés de los campos de Moab alH5927
+- Jos_2:6ella los había hecho subir al terradoH5927
+- Jos_2:8que se durmiesen, ella subió al terradoH5927
+- Jos_4:16a los sacerdotes...que suban del JordánH5927
+- Jos_4:17mandó a los...diciendo: Subid del JordánH5927
+- Jos_4:18subieron de en medio del Jordán, y lasH5927
+- Jos_4:19el pueblo subió del Jordán el día diezH5927
+- Jos_6:5entonces subirá...derecho hacia adelanteH5927
+- Jos_6:20el pueblo subió luego a la ciudad, cadaH5927
+- Jos_7:2subid y reconoced la...y ellos subieronH5927
+- Jos_7:3no suba todo el pueblo, sino suban comoH5927
+- Jos_7:4y subieron allá...como tres mil hombresH5927
+- Jos_8:1levántate y sube a Hai...yo he entregadoH5927
+- Jos_8:3toda la gente de guerra, para subir contra HaiH5927
+- Jos_8:10y subió...delante del pueblo contra HaiH5927
+- Jos_8:11la gente de guerra...subió y se acercóH5927
+- Jos_8:20el humo de la ciudad subía al cielo, yH5927
+- Jos_8:21viendo...que el humo de la ciudad subíaH5927
+- Jos_10:4subid a mí y ayudadme, y combatamos aH5927
+- Jos_10:5cinco reyes...subieron, ellos con todosH5927
+- Jos_10:6decir...sube...a nosotros para defendernosH5927
+- Jos_10:7y subió Josué de Gilgal, él y todo elH5927
+- Jos_10:9habiendo subido...la noche desde GilgalH5927
+- Jos_10:10y los siguió por el camino que sube aH4609
+- Jos_10:33rey de Gezer subió en ayuda de LaquisH5927
+- Jos_10:36subió luego Josué...de Eglón a HebrónH5927
+- Jos_11:17el monte Halac, que sube hacia SeirH5927
+- Jos_12:7el monte de Halac que sube hacia SeirH5927
+- Jos_14:8hermanos, los que habían subido conmigoH5927
+- Jos_15:3subiendo por el sur...y s por Adar dabaH5927
+- Jos_15:6sube este límite por Bet-hogla, y pasaH5927
+- Jos_15:6de aquí sube a la piedra de Bohán hijoH5927
+- Jos_15:7sube a Debir desde el valle de Acor; y alH5927
+- Jos_15:8sube este límite por el valle del hijoH5927
+- Jos_15:8luego sube por la cumbre del monte queH5927
+- Jos_15:15subió contra los que moraban en DebirH5927
+- Jos_16:1el desierto...que sube de Jericó por lasH5927
+- Jos_17:15subid al bosque, y haceos desmontes allíH5927
+- Jos_18:12y sube hacia...s después al monte haciaH5927
+- Jos_19:11y su límite sube hacia el occidente aH5927
+- Jos_19:12gira..sale a Daberat, y sube a JafíaH3318
+- Jos_19:47y subieron...Dan y combatieron a LesemH3318
+- Jos_22:12se juntó...en Silo, para subir a pelearH5927
+- Jos_22:33no hablaron más de subir contra ellosH5927
+- Jue_1:1¿quién...subirá primero a pelear contraH5927
+- Jue_1:2Judá subirá; he aquí...yo he entregado laH5927
+- Jue_1:3sube conmigo al territorio que se me haH5927
+- Jue_1:4y subió Judá, y Jehová entregó en susH5927
+- Jue_1:16subieron de la ciudad de las palmerasH5927
+- Jue_1:22la casa de José subió contra Bet-el; yH5927
+- Jue_2:1el ángel de Jehová subió de...a BoquimH5927
+- Jue_4:5hijos de Israel subían a ella a juicioH5927
+- Jue_4:10Barac...subió con...y Débora s con élH5927
+- Jue_4:12Barac...había subido al monte de TaborH5927
+- Jue_6:3subían los madianitas...s y los atacabanH5927
+- Jue_6:5subían ellos...y venían con sus tiendasH5927
+- Jue_6:21tocó...subió fuego de la peña, el cualH5927
+- Jue_8:8de allí subió a Peniel, y les dijo lasH5927
+- Jue_8:11subiendo...Gedeón por el camino de losH5927
+- Jue_8:13de la batalla antes que el sol subiese
+- Jue_9:48subió Abimelec al monte de Salmón, él y
+- Jue_9:51cerrando...puertas, se subieron al techo
+- Jue_11:13tomó mi tierra, cuando subió de EgiptoH5927
+- Jue_11:16cuando Israel subió de Egipto, anduvoH5927
+- Jue_12:3¿por qué...habéis subido hoy contra míH5927
+- Jue_13:20cuando la llama subía del altar haciaH5927
+- Jue_13:20el ángel...subió en la llama del altarH5927
+- Jue_14:2subió, y lo declaró a su padre y a suH5927
+- Jue_15:9filisteos subieron y acamparon en JudáH5927
+- Jue_15:10¿por qué habéis subido contra nosotrosH5927
+- Jue_15:10a prender a Sansón hemos subido, paraH5927
+- Jue_16:3y las subió a la cumbre del monte queH5927
+- Jue_18:9levantaos, subamos contra ellos, porqueH5927
+- Jue_18:17y subiendo los cinco hombres...entraronH5927
+- Jue_19:30desde...que los hijos de Israel subieronH5927
+- Jue_20:3oyeron que...Israel habían subido a MizpaH5927
+- Jue_20:9Gabaa: contra ella subiremos por sorteoH3212
+- Jue_20:18de Israel, y subieron a la casa de DiosH5927
+- Jue_20:18¿quién subirá...el primero en la guerraH5927
+- Jue_20:23los hijos de Israel subieron y lloraronH5927
+- Jue_20:23Jehová...respondió: Subid contra ellosH5927
+- Jue_20:26subieron...y vinieron a la casa de DiosH5927
+- Jue_20:28subid, porque mañana...os los entregaréH5927
+- Jue_20:30subiendo entonces los hijos de IsraelH5927
+- Jue_20:31los caminos, uno...sube a Bet-el, y elH5927
+- Jue_20:38hiciesen subir una gran humareda de laH5927
+- Jue_20:40de humo comenzó a subir de la ciudadH5927
+- Jue_20:40que el humo de la ciudad subía al cieloH5927
+- Jue_21:5¿quién...de Israel no subió a la reuniónH5927
+- Jue_21:5gran juramento contra el que no subieseH5927
+- Jue_21:8que no haya subido a Jehová en Mizpa?[[H5927]]
+- Jue_21:19oriental del camino que sube de Bet-elH5927
+- Rut_4:1Booz subió a la puerta y se sentó allíH5927
+- 1Sa_1:3varón subía de su ciudad para adorarH5927
+- 1Sa_1:7hacía...cuando subía a la casa de JehováH5927
+- 1Sa_1:21subió el varón Elcana con...su familiaH5927
+- 1Sa_1:22Ana no subió, sino dijo a su marido: YoH5927
+- 1Sa_1:22subiré hasta que el niño sea destetado
+- 1Sa_2:6él hace descender al Seol, y hace subirH5927
+- 1Sa_2:19la traía cada año, cuando subía con suH5927
+- 1Sa_5:12el clamor de la ciudad subía al cieloH5927
+- 1Sa_6:9si sube...camino de su tierra a Bet-semesH5927
+- 1Sa_6:20Dios...¿A quién subirá desde nosotros?[[H5927]]
+- 1Sa_7:7subieron...de los filisteos contra IsraelH5927
+- 1Sa_9:11cuando subían...la cuesta de la ciudadH5927
+- 1Sa_9:13antes que suba al lugar alto a comerH5927
+- 1Sa_9:13subid, pues, ahora...ahora le hallaréisH5927
+- 1Sa_9:14ellos entonces subieron a la ciudad; yH5927
+- 1Sa_9:14Samuel venía...para subir al lugar altoH5927
+- 1Sa_9:19el vidente; sube delante de mí al lugarH5927
+- 1Sa_10:3tres hombres que suben a Dios en Bet-elH5927
+- 1Sa_11:1subió Nahas...y acampó contra Jabes deH5927
+- 1Sa_13:5mar; y subieron y acamparon en MicmasH5927
+- 1Sa_13:15levantándose Samuel, subió de Gilgal
+- 1Sa_14:9nos estaremos...y no subiremos a ellosH5927
+- 1Sa_14:10dijeren así: Subid...subiremos, porqueH5927
+- 1Sa_14:12subid a nosotros, y os...Sube tras míH5927
+- 1Sa_14:13y subió Jonatán trepando con sus manosH5927
+- 1Sa_15:2al oponérsele...cuando subía de EgiptoH5927
+- 1Sa_15:6misericordia...cuando subían de EgiptoH5927
+- 1Sa_15:34Saúl subió a su casa en Gabaa de SaúlH5927
+- 1Sa_23:19subieron...de Zif para decirle a SaúlH5927
+- 1Sa_23:29entonces David subió de allí y habitóH5927
+- 1Sa_24:22David y sus...subieron al lugar fuerte
+- 1Sa_25:5les dijo: Subid a Carmel e id a NabalH5927
+- 1Sa_25:13y subieron tras David como 400 hombreH5927
+- 1Sa_25:35sube en paz a tu casa...he oído tu vozH5927
+- 1Sa_27:8subía David con sus hombres, y hacíanH5927
+- 1Sa_28:8y me hagas subir a quien yo te dijereH5927
+- 1Sa_28:13he visto dioses que suben de la tierraH5927
+- 2Sa_2:1¿subiré...Y Jehová le respondió: SubeH5927
+- 2Sa_2:1¿a dónde subiré? Y él le dijo: A HebrónH5927
+- 2Sa_2:2David subió allá, y con él sus dos mujeresH5927
+- 2Sa_5:8suba por el canal y hiera a los cojos yH5060
+- 2Sa_5:17subieron...filisteos para buscar a DavidH5927
+- 2Sa_5:23no subas, sino rodéalos, y vendrás a ellosH5927
+- 2Sa_15:24subió Abiatar después que...el puebloH5927
+- 2Sa_15:30David subió la cuesta...y la s llorandoH5927
+- 2Sa_15:30pueblo...iban llorando mientras subíanH5927
+- 2Sa_18:33el rey...subió a la sala de la puertaH5927
+- 2Sa_19:34para que yo suba con el rey a Jerusalén?[[H5927]]
+- 2Sa_22:9humo subió de su nariz, y de su bocaH5927
+- 2Sa_24:18sube, y levanta un altar a Jehová enH5927
+- 2Sa_24:19subió David, conforme al dicho de GadH5927
+- 1Re_1:40después subió todo el pueblo en posH5927
+- 1Re_1:45y de allí han subido con alegrías, y laH5927
+- 1Re_2:34Benaía...subió y arremetió contra él, yH5927
+- 1Re_6:8y se subía por una escalera de caracolH5927
+- 1Re_9:16Faraón...había subido y tomado a GezerH5927
+- 1Re_9:24subió la hija de Faraón de...a su casaH5927
+- 1Re_11:15subió Joab el general del ejército aH5927
+- 1Re_12:18apresuró a subirse en un carro y huirH5927
+- 1Re_12:27pueblo subiere a ofrecer sacrificiosH5927
+- 1Re_12:28bastante habéis subido a Jerusalén; heH5927
+- 1Re_12:28dioses...los cuales te hicieron subirH5927
+- 1Re_12:33y subió al altar para quemar incienso
+- 1Re_14:25al quinto año del...subió Sisac rey deH5927
+- 1Re_15:17subió Baasa...contra Judá, y edificó aH5927
+- 1Re_16:17subió Omri de Gibetón, y...todo IsraelH5927
+- 1Re_18:41sube, come y bebe; porque una lluviaH5927
+- 1Re_18:42Acab subió a comer y a beber...Y ElíasH5927
+- 1Re_18:42y Elías subió a la cumbre del CarmeloH5927
+- 1Re_18:43sube...y mira hacia el mar...Y él subióH5927
+- 1Re_18:44veo una pequeña nube...que sube del marH5927
+- 1Re_18:45lluvia...Y subiendo Acab, vino a Jezreel
+- 1Re_20:1subió y sitió a Samaria, y la combatióH5927
+- 1Re_20:33a Acab, y él le hizo subir en un carro
+- 1Re_22:6sube, porque Jehová la entregará...reyH5927
+- 1Re_22:12profetizaban...Sube a Ramot de GalaadH5927
+- 1Re_22:15sube, y serás prosperado, y Jehová laH5927
+- 1Re_22:20que suba y caiga en Ramot de Galaad?[[H5927]]
+- 1Re_22:29subió...el rey de Israel con Josafat reyH5927
+- 2Re_1:3levántate, y sube a encontrarte conH5927
+- 2Re_1:9capitán...el cual subió a donde él estabaH5927
+- 2Re_1:13subiendo...tercer capitán de cincuentaH5927
+- 2Re_2:11Elías subió al cielo en un torbellinoH5927
+- 2Re_2:23subió de allí a Bet-el; y subiendo porH5927
+- 2Re_2:23diciendo: ¡Calvo, sube! ¡calvo, s![[H5927]]
+- 2Re_3:21los reyes subían a pelear contra ellosH5927
+- 2Re_4:21ella...subió, Y lo puso sobre la cama delH5927
+- 2Re_4:34después subió y se tendió sobre el niñoH5927
+- 2Re_4:35subió, y se tendió sobre él nuevamenteH5927
+- 2Re_6:24Ben-adad rey de...subió y sitió a SamariaH5927
+- 2Re_10:15luego lo hizo subir consigo en el carroH5927
+- 2Re_12:17subió Hazael rey...y peleó contra GatH5927
+- 2Re_12:17y se propuso...subir contra JerusalénH5927
+- 2Re_14:11subió Joás...y se vieron las caras él yH5927
+- 2Re_15:14Manahem hijo de Gadi subió de TirsaH5927
+- 2Re_16:5Rezín rey...y Peka...subieron a JerusalénH5927
+- 2Re_16:7sube, y defiéndeme de mano del rey deH5927
+- 2Re_16:9subió el rey de Asiria contra DamascoH5927
+- 2Re_17:3contra éste subió Salmanasar rey de losH5927
+- 2Re_18:9el cuarto año del rey...subió SalmanasarH5957
+- 2Re_18:13subió Senaquerib rey...contra todas lasH5927
+- 2Re_18:17contra Jerusalén, y subieron y vinieronH5927
+- 2Re_18:17y habiendo subido, vinieron y acamparonH5927
+- 2Re_18:25Jehová me ha dicho: Sube a esta tierraH5927
+- 2Re_19:14hubo leído, subió a la casa de JehováH5927
+- 2Re_19:23he subido a las alturas de los montesH5927
+- 2Re_19:28tu arrogancia ha subido a mis oídosH5927
+- 2Re_20:5tercer día subirás a la casa de JehováH5927
+- 2Re_20:8que Jehová me sanará, y que subiré a laH5927
+- 2Re_23:2y subió el rey a la casa de Jehová conH5927
+- 2Re_23:9los sacerdotes de...no subían al altarH5927
+- 2Re_23:29rey de Egipto subió contra el rey deH5927
+- 2Re_24:1subió en campaña Nabucodonosor rey deH5927
+- 2Re_24:10subieron contra Jerusalén...BabiloniaH5927
+- 1Cr_11:6Joab...subió el primero, y fue hechoH5927
+- 1Cr_13:6subió David con todo Israel a BaalaH5927
+- 1Cr_14:8subieron...filisteos en busca de DavidH5927
+- 1Cr_14:10David...¿Subiré contra los filisteos?[[H5927]]
+- 1Cr_14:10dijo: Sube...los entregaré en tus manosH5927
+- 1Cr_14:11subieron...a Baal-perazim...los derrotóH5927
+- 1Cr_14:14Dios le dijo: No subas tras ellos, sinoH5927
+- 1Cr_21:18que subiese y construyese un altar aH5927
+- 1Cr_21:19David subió, conforme a la palabra queH5927
+- 2Cr_1:6subió...Salomón allá delante de JehováH5927
+- 2Cr_1:17subían y compraban en Egipto un carroH3318
+- 2Cr_9:4la escalinata por donde subía a la casaH5927
+- 2Cr_10:18Roboam, y subiendo en su carro huyó aH5927
+- 2Cr_11:4no subáis, ni...contra vuestros hermanosH5927
+- 2Cr_12:2en el quinto año del...subió Sisac rey deH5927
+- 2Cr_12:9subió...Sisac rey de Egipto a JerusalénH5927
+- 2Cr_16:1el año 36 del...subió Baasa rey de IsraelH5927
+- 2Cr_18:5sube, porque Dios los entregará en manoH5927
+- 2Cr_18:11sube contra Ramot de Galaad, y serásH5927
+- 2Cr_18:14subid, y seréis prosperados, pues seránH5927
+- 2Cr_18:19que suba y caiga en Ramot de Galaad?[[H5927]]
+- 2Cr_18:28subieron...el rey de Israel, y JosafatH5927
+- 2Cr_20:16ellos subirán por la cuesta de Sis, yH5927
+- 2Cr_21:17y subieron contra Judá, e invadieronH5927
+- 2Cr_24:23subió contra él el ejército de SiriaH5927
+- 2Cr_25:21subió, pues, Joás rey de Israel, y seH5927
+- 2Cr_29:20Ezequías...y subió a la casa de JehováH5927
+- 2Cr_34:30subió el rey a la casa de Jehová, y conH5927
+- 2Cr_35:20Necao rey de...subió para hacer guerraH5927
+- 2Cr_36:6y subió contra él Nabucodonosor rey deH5927
+- 2Cr_36:16que subió la ira de Jehová contra suH5927
+- 2Cr_36:23haya...sea Jehová su Dios con él, y subaH5927
+- Esd_1:3y suba a Jerusalén que está en JudáH5927
+- Esd_1:5para subir a edificar la casa de JehováH5927
+- Esd_1:11hizo llevar...con los que subieron delH5927
+- Esd_2:1los hijos...que subieron del cautiverioH5927
+- Esd_2:59los que subieron de Tel-mela, Tel-harsaH5927
+- Esd_4:12los judíos que subieron de ti a nosotrosH5559
+- Esd_7:6Esdras subió de Babilonia...Era escribaH5927
+- Esd_7:7con él subieron...algunos de los hijos deH5927
+- Esd_7:28reuní a los...para que subiesen conmigoH5927
+- Esd_8:1la genealogía de aquellos que subieronH5927
+- Neh_2:15subí de noche por...y observé el muroH5927
+- Neh_4:3muro...si subiere una zorra lo derribaráH5927
+- Neh_7:5la genealogía de los que habían subidoH5927
+- Neh_7:6estos son los...que subieron del cautiverioH5927
+- Neh_7:61estos son los que subieron de Tel-melaH5927
+- Neh_9:18es tu Dios que te hizo subir de EgiptoH5927
+- Neh_12:1levitas que subieron con Zorobabel hijoH5927
+- Neh_12:31subir a los príncipes de Judá sobre elH5927
+- Neh_12:37subieron por las gradas de la ciudadH5927
+- Job_7:9así el que desciende al Seol no subiráH5927
+- Job_20:6subiere su altivez hasta el cielo, y suH5927
+- Sal_18:8humo subió de su nariz, y de su bocaH5927
+- Sal_24:3¿quién subirá al monte de Jehová?...quiénH5927
+- Sal_30:3Jehová, hiciste subir mi alma del SeolH5927
+- Sal_47:5subió Dios con júbilo...con sonido deH5927
+- Sal_68:18subiste...alto, cautivaste la cautividadH5927
+- Sal_74:23el alboroto de los...sube continuamenteH6965
+- Sal_78:21el furor subió también contra IsraelH5927
+- Sal_81:10te hice subir de la tierra de EgiptoH5927
+- Sal_104:8subieron los montes, descendieron losH5927
+- Sal_107:26suben a los cielos, descienden a losH5927
+- Sal_122:4subieron las tribus, las tribus de JAHH5927
+- Sal_132:3ni subiré sobre el lecho de mi estradoH5927
+- Sal_135:7hace subir las nubes de los extremos deH5927
+- Sal_139:8si subiere a los cielos, allí estás túH5927
+- Sal_141:2suba mi oración delante de ti como el
+- Pro_15:1la palabra áspera hace subir el furor
+- Pro_25:7mejor es que se te diga: Sube acá, y noH5927
+- Pro_30:4¿quién subió al cielo, y descendió?[[H5927]]
+- Ecl_3:21espíritu de los...hombres sube arribaH5927
+- Cnt_3:6¿quién es ésta que sube del desiertoH5927
+- Cnt_4:2; Cnt_6:6como...ovejas...que suben del lavaderoH5927
+- Cnt_7:8yo dije: Subiré a la palmera, asiré susH5927
+- Cnt_8:5¿quién es ésta que sube del desiertoH5927
+- Isa_2:3venid, y subamos al monte de Jehova, aH5927
+- Isa_7:1subieron contra Jerusalén para combatirlaH5927
+- Isa_8:7el Señor hace subir sobre ellos aguas deH5927
+- Isa_8:7el cual subirá sobre todos sus ríos, yH5927
+- Isa_11:16el día que subió de la tierra de EgiptoH5927
+- Isa_14:8no ha subido cortador contra nosotrosH5927
+- Isa_14:13subiré al cielo; en lo alto, junto aH5927
+- Isa_14:14sobre las alturas de las nubes subiréH5927
+- Isa_15:2subió a Bayit y a Dibón, lugares altosH5927
+- Isa_15:5por la cuesta de Luhit subirán llorandoH5927
+- Isa_21:2sube, oh Elam; sitia, oh Media...TodoH5927
+- Isa_22:1que con todos los tuyos has subido sobreH5927
+- Isa_32:13sobre la tierra de mi pueblo subiránH5927
+- Isa_34:10perpetuamente subirá su humo...asoladaH5927
+- Isa_35:9ni fiera subirá por él, ni...se hallaráH5927
+- Isa_36:1rey de Asiria subió contra...las ciudadesH5927
+- Isa_36:10dijo: Sube a esta tierra y destrúyelaH5927
+- Isa_37:14las leyó; y subió a la casa de JehováH5927
+- Isa_37:24con la multitud de mis carros subiré aH5927
+- Isa_37:29y tu arrogancia ha subido a mis oídosH5927
+- Isa_38:22¿qué señal tendré de que subiré a laH5927
+- Isa_40:9súbete sobre un monte alto, anunciadoraH5927
+- Isa_53:2subirá cual renuevo delante de él, y como
+- Isa_57:7allí también subiste a hacer sacrificioH5927
+- Isa_57:8a otro...subiste, y ensanchaste tu camaH5927
+- Isa_58:14yo te haré subir sobre las alturas de
+- Isa_63:11¿dónde está el que les hizo subir delH5927
+- Jer_2:6¿dónde está Jehová...nos hizo subir deH5927
+- Jer_4:7el león sube de la espesura...destruidorH5927
+- Jer_4:13que subirá como nube, y su carro comoH5927
+- Jer_4:29entraron en las espesuras...y subieron aH5927
+- Jer_7:31yo no les mandé, ni subió en mi corazónH5927
+- Jer_9:21muerte ha subido por nuestras ventanasH5927
+- Jer_10:13hace subir las nubes de lo postrero deH5927
+- Jer_11:7día que les hice subir de la tierra deH5927
+- Jer_14:2enlutó...y subió el clamor de JerusalénH5927
+- Jer_16:14-15vive Jehová, que hizo subir...IsraelH5927
+- Jer_21:13¿quién subirá contra nosotros, y quién
+- Jer_22:20sube al Líbano y clama, y en Basán daH5927
+- Jer_23:7vive Jehová que hizo subir a...de EgiptoH5927
+- Jer_23:8vive Jehová que hizo subir y trajo laH5927
+- Jer_26:10subieron de la casa del rey a la casaH5927
+- Jer_31:6levantaos, y subamos a Sion, a JehováH5927
+- Jer_35:11Nabucodonosor rey...subió a la tierraH5927
+- Jer_38:13lo subieron de la cisterna; y quedóH5927
+- Jer_39:5le tomaron, y le hicieron subir a RiblaH5927
+- Jer_46:4uncid caballos y subid, vosotros losH5927
+- Jer_46:7éste que sube como río, y cuyas aguasH5927
+- Jer_46:8subiré, cubriré la tierra, destruiré aH5927
+- Jer_46:9subid, caballos, y alborotaos, carrosH5927
+- Jer_46:11sube a Galaad, y toma bálsamo, virgenH5927
+- Jer_47:2suben aguas del norte, y...harán torrenteH5927
+- Jer_48:5a la subida de Luhit con llanto subiráH5927
+- Jer_48:18el destruidor de Moab subió contra tiH5927
+- Jer_49:14venid contra ella, y subid a la batallaH6965
+- Jer_49:19león subirá de la espesura del JordánH5927
+- Jer_49:22he aquí que como águila subirá y volaráH5927
+- Jer_49:28subid contra Cedar, y destruid a losH5927
+- Jer_49:31subid contra una nación pacífica queH5927
+- Jer_50:3subió contra ella una nación del norteH5927
+- Jer_50:9hago subir contra Babilonia reunión deH5927
+- Jer_50:21sube contra la tierra de MerataimH5927
+- Jer_50:44león subirá de la espesura del JordánH5927
+- Jer_51:16hace subir las nubes de lo último de laH5927
+- Jer_51:21quebrantaré carros y a los que...suben
+- Jer_51:27subir caballos como langostas erizadasH5927
+- Jer_51:42subió el mar sobre Babilonia...cubiertaH5927
+- Jer_51:53aunque suba Babilonia hasta el cieloH5927
+- Eze_8:11y subía una nube espesa de inciensoH5927
+- Eze_11:5las cosas que suben a vuestro espírituH4609
+- Eze_13:5no habéis subido a las brechas, ni...muroH5927
+- Eze_16:40y harán subir contra ti muchedumbre deH5927
+- Eze_19:3hizo subir uno de sus cachorros; vino aH5927
+- Eze_23:46yo haré subir contra ellas tropas, lasH5927
+- Eze_24:8habiendo, pues, hecho subir la ira paraH5927
+- Eze_26:3y haré subir contra ti muchas nacionesH5927
+- Eze_26:3naciones, como el mar hace subir...olasH5927
+- Eze_26:19haré subir sobre ti el abismo, y lasH5927
+- Eze_32:3reunión de...y te harán subir con mi redH5927
+- Eze_37:6y haré subir sobre vosotros carne, y osH5927
+- Eze_37:8y la carne subió, y la piel cubrió porH5927
+- Eze_37:12os haré subir de vuestras sepulturasH5927
+- Eze_38:9subirás...y vendrás como tempestad; comoH5927
+- Eze_38:10en...día subirán palabras en tu corazónH5927
+- Eze_38:11subiré contra una tierra indefensa, iréH5927
+- Eze_38:16y subirás contra mi pueblo Israel comoH5927
+- Eze_38:18dijo Jehová...subirá mi ira y mi enojoH5927
+- Eze_39:2y te haré subir de las partes del norteH5927
+- Eze_40:6subió por sus gradas, y midió un posteH5927
+- Eze_40:22y se subía a ella por siete gradas, yH5927
+- Eze_40:49del pórtico...al cual subían por gradasH5927
+- Eze_41:7la escalera...subía muy alto alrededor
+- Eze_41:7del piso inferior se podía subir al de
+- Dan_7:3y cuatro bestias grandes...subían delH5559
+- Dan_11:23engañará y subirá, y saldrá vencedorH5927
+- Ose_1:11y subirán de la tierra; porque el díaH5927
+- Ose_4:15ni subáis a Bet-avén, ni juréis: ViveH5927
+- Ose_8:9subieron a Asiria, como asno montés paraH5927
+- Ose_12:13Jehová hizo subir a Israel de EgiptoH5927
+- Joe_1:6pueblo fuerte...subió a mi tierra; susH5927
+- Joe_2:7como hombres de guerra subirán el muroH5927
+- Joe_2:9subirán por las casas, entrarán por lasH5927
+- Joe_2:20su hedor, y subirá su pudrición, porqueH5927
+- Joe_3:12naciones, y suban al valle de JosafatH5927
+- Amó_2:10a vosotros os hice subir de la tierraH5927
+- Amó_3:1contra toda la familia que hice subir deH5927
+- Amó_4:10subir el hedor de vuestros campamentosH5927
+- Amó_8:5subiremos el precio, y falsearemos con
+- Amó_8:8subirá...como un río, y crecerá y mermaráH5927
+- Amó_9:2aunque subieren hasta el cielo, de alláH5927
+- Amó_9:7¿no hice yo subir a Israel de...Egipto, yH5927
+- Abd_1:21y subirán salvadores al monte de SionH5927
+- Jon_1:2porque ha subido su maldad delante deH5927
+- Miq_2:13subirá el que abre caminos delante deH5927
+- Miq_4:2venid, y subamos al monte de Jehová, y aH5927
+- Miq_6:4yo te hice subir de la tierra de EgiptoH5927
+- Nah_2:1subió destruidor contra ti; guarda laH5927
+- Nah_2:7mandarán que suba...criadas la llevaránH5927
+- Hab_3:16suba al pueblo el que lo invadirá conH5927
+- Hag_1:8subid...traed madera, y reedificad laH5927
+- Hag_2:22trastornaré los carros y los que...suben
+- Zac_14:16subirán de año en año para adorar alH5927
+- Zac_14:17que los de...que no subieren a JerusalénH5927
+- Zac_14:18y si la familia de Egipto no subiere yH5927
+- Zac_14:18herirá las naciones que no subieren aH5927
+- Zac_14:19no subieren para celebrar la fiesta deH5927
+- Mat_3:16después que fue bautizado, subió luegoG305
+- Mat_5:1subió al monte; y sentándose, vinieronG305
+- Mat_14:23subió al monte a orar aparte; y cuandoG305
+- Mat_14:32ellos subieron en la barca, se calmó elG1684
+- Mat_15:29Galilea; y subiendo al monte, se sentóG305
+- Mat_20:17subiendo Jesús a Jerusalén, tomó a susG305
+- Mat_20:18he aquí subimos a Jerusalén, y el HijoG305
+- Mar_1:10cuando subía del agua, vio abrirse losG305
+- Mar_3:13subió al monte, y llamó a sí a los queG305
+- Mar_6:51subió a ellos en la barca, y se calmó elG305
+- Mar_10:32iban por el camino subiendo a JerusalénG305
+- Mar_10:33he aquí subimos a Jerusalén, y el HijoG305
+- Mar_15:41otras muchas que habían subido con élG4872
+- Luc_2:4José subió a Galilea, de la ciudad deG305
+- Luc_2:42subieron a Jerusalén conforme a...fiestaG305
+- Luc_5:19subieron encima de la casa...con el lechoG305
+- Luc_9:28tomó a Pedro...y subió al monte a orarG305
+- Luc_14:10diga: Amigo, sube más arriba; entoncesG4320
+- Luc_18:10dos hombres subieron al templo a orarG305
+- Luc_18:31les dijo: He aquí subimos a JerusalénG305
+- Luc_19:4subió a un árbol sicómoro para verleG305
+- Luc_19:28esto, iba delante subiendo a JerusalénG305
+- Luc_19:35y lo trajeron...subieron a Jesús encima
+- Jua_1:51ángeles de Dios que suben y desciendenG305
+- Jua_2:13la pascua de...y subió Jesús a JerusalénG305
+- Jua_3:13nadie subió al cielo, sino...el Hijo delG305
+- Jua_5:1una fiesta...y subió Jesús a JerusalénG305
+- Jua_6:3subió Jesús a un monte, y se sentó allíG424
+- Jua_6:62qué, si viereis al Hijo del Hombre subirG305
+- Jua_7:8subid vosotros a la fiesta; yo no suboG305
+- Jua_7:10habían subido a la fiesta...también subióG305
+- Jua_7:14mas...subió Jesús al templo, y enseñabaG305
+- Jua_10:1que sube por otra parte, ése es ladrónG305
+- Jua_11:55subieron de aquella región a JerusalénG305
+- Jua_12:20entre los que habían subido a adorarG305
+- Jua_20:17no me toques...no he subido a mi PadreG305
+- Jua_20:17subo a mi Padre y a vuestro Padre, aG305
+- Jua_21:11subió Simón...y sacó la red a tierraG305
+- Hec_1:13entrados, subieron al aposento altoG305
+- Hec_2:34porque David no subió a los cielos; peroG305
+- Hec_3:1Pedro y Juan subían juntos al templo aG305
+- Hec_8:31rogó a Felipe que subiese y se sentaraG305
+- Hec_8:39cuando subieron del agua, el EspírituG305
+- Hec_10:4han subido para memoria delante de DiosG305
+- Hec_10:9subió a la azotea para orar, cerca deG305
+- Hec_11:2Pedro subió a Jerusalén, disputaban conG305
+- Hec_13:31que habían subido...con él de GalileaG4872
+- Hec_15:2se dispuso que subiesen Pablo y BernabéG305
+- Hec_18:22subió para saludar a la iglesia, y luegoG305
+- Hec_20:11después de haber subido, y partido elG305
+- Hec_21:4ellos decían a Pablo...que no subiese aG305
+- Hec_21:6subimos al barco, y ellos se volvieron
+- Hec_21:12le rogamos...que no subiese a JerusalénG305
+- Hec_21:15después de esos...subimos a JerusalénG305
+- Hec_24:11más de doce días que subí a adorar aG305
+- Hec_25:1subió de Cesarea a Jerusalén tres díasG1910
+- Hec_25:9¿quieres subir a Jerusalén, y allá serG305
+- Hec_27:17subido a bordo, usaron de refuerzosG142
+- Rom_10:6no digas en...¿Quién subirá al cielo?[[G305]]
+- Rom_10:7para hacer subir a Cristo de entre losG321
+- 1Co_2:9ni han subido en corazón de hombre
+- Gál_1:17ni subí a Jerusalén a los que eranG424
+- Gál_1:18años, subí a Jerusalén para ver a PedroG424
+- Gál_2:1después...subí otra vez a Jerusalén conG305
+- Gál_2:2pero subí según una revelación, y paraG305
+- Efe_4:8subiendo a lo alto, llevó cautiva laG305
+- Efe_4:9de que subió, ¿qué es, sino que tambiénG305
+- Efe_4:10el que descendió...subió por encima deG305
+- 1Pe_3:22quien habiendo subido al cielo estáG4198
+- Rev_4:1sube acá, y yo te mostraré las cosasG305
+- Rev_7:2a otro ángel que subía de donde sale elG305
+- Rev_8:4subió a la presencia de Dios el humo delG305
+- Rev_9:2subió humo del pozo como humo de un granG305
+- Rev_11:7bestia que sube del abismo hará guerraG305
+- Rev_11:12subid acá...Y subieron al cielo en unaG305
+- Rev_13:1vi subir del mar una bestia que teníaG305
+- Rev_13:11vi otra bestia que subía de la tierraG305
+- Rev_14:11y el humo de su tormento sube por losG305
+- Rev_17:8la bestia...y está para subir del abismoG305
+- Rev_19:3el horno de ella sube por los siglos deG305
+- Rev_20:9subieron sobre la anchura de la tierraG305

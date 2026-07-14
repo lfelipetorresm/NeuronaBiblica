@@ -1,0 +1,207 @@
+---
+tipo: concordancia
+palabra: VINO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VINO
+
+- Gén_9:21bebió del v, y se embriagó, y estabaH3196
+- Gén_14:18Melquisedec...sacerdote...sacó pan y vH3196
+- Gén_19:32ven, demos a beber v a nuestro padre, yH3196
+- Gén_19:33y dieron a beber v a su padre...nocheH3196
+- Gén_19:34démosle a beber v también esta noche, yH3196
+- Gén_19:35y dieron a beber v a su padre tambiénH3196
+- Gén_27:25Isaac comió; le trajo también v, y bebióH3196
+- Gén_27:37de trigo y de v le he provisto; ¿quéH8492
+- Gén_49:11lavó en el v su vestido, y en...de uvasH8492
+- Gén_49:12sus ojos, rojos de v, y sus dientesH8492
+- Éxo_29:40libación, la cuarta parte de un...de vH3196
+- Lev_10:9tú, y tus hijos contigo, no beberéis vH3196
+- Lev_23:13su libación será de v, la cuarta parteH3196
+- Núm_6:3abstendrá de v...no beberá vinagre de vH3196
+- Núm_6:20mecerá aquello...el nazareo podrá beber vH3196
+- Núm_15:5, Núm_15:7, Núm_15:10de v para la libación ofrecerás laH3196
+- Núm_28:7derramarás libación de v superior anteH7491
+- Núm_28:14sus libaciones de v, medio hin con cadaH3196
+- Deu_11:14recogerás tu grano, tu v y tu aceiteH8492
+- Deu_12:17; Deu_14:23el diezmo de tu grano, de tu vH8492
+- Deu_14:26darás el dinero por...por v, por sidraH3196
+- Deu_18:4las primicias...de tu v y de tu aceiteH8492
+- Deu_28:39plantarás viñas y...pero no beberás vH3196
+- Deu_29:6no habéis comido pan, ni bebisteis v niH3196
+- Deu_32:14trigo, y de la sangre de la uva bebiste vH6025
+- Deu_32:33veneno de serpientes es su v...áspidesH3196
+- Deu_32:38comían...bebían el v de sus libaciones?[[H3196]]
+- Deu_33:28habitará sola en tierra de grano y de vH8492
+- Jos_9:4tomaron...cueros viejos de v, rotos yH3196
+- Jos_9:13estos cueros de v...los llenamos nuevosH3196
+- Jue_13:4ahora, pues, no bebas v ni sidra, niH3196
+- Jue_13:7ahora no bebas v, ni sidra, ni comas cosaH3196
+- Jue_13:14no beberá v ni sidra, y no comerá cosaH3196
+- Jue_19:19tenemos pan y v para mí y...tu siervaH3196
+- 1Sa_1:14¿hasta cuándo...ebria? Digiere tu vH3196
+- 1Sa_1:15señor mío...no he bebido v ni sidra, sinoH3196
+- 1Sa_1:24y una vasija de v, y lo trajo a la casaH3196
+- 1Sa_10:3llevando uno...el tercero una vasija de vH3196
+- 1Sa_16:20tomó Isaí...una vasija de v y un cabritoH3196
+- 1Sa_25:18tomó...dos cueros de v, cinco ovejasH3196
+- 1Sa_25:37se le habían pasado los efectos del vH3196
+- 2Sa_13:28cuando...Amnón esté alegre por el vH3196
+- 2Sa_16:1panes de higos secos, y un cuero de vH3196
+- 2Sa_16:2el v para que beban los que se cansen enH3196
+- 2Re_18:32tierra de grano y de v, tierra deH8492
+- 1Cr_9:29tenían el cargo...del v, del aceiteH3196
+- 1Cr_12:40trajeron...tortas de higos, pasas, v yH3196
+- 2Cr_2:10dado...20.000 batos de v, y...aceiteH3196
+- 2Cr_2:15envíe...cebada, y aceite y v que ha dichoH3196
+- 2Cr_11:11puso en ellas capitanes, y...v y aceiteH3196
+- 2Cr_31:5dieron...primicias de grano, v, aceite, mielH8492
+- 2Cr_32:28hizo depósitos para las rentas del...vH8492
+- Esd_6:9v y aceite, conforme a lo que dijerenH2562
+- Neh_2:1estando ya el v delante...tomé el v y loH3196
+- Neh_5:11la centésima parte...del v y del aceiteH8492
+- Neh_5:15por el pan y por el v más de 40 siclosH3196
+- Neh_5:18y cada diez días v en toda abundanciaH3196
+- Neh_8:10bebed v dulce, y enviad porciones a losH4477
+- Neh_10:37del v y del aceite, para los sacerdotesH8492
+- Neh_10:39han de llevar...la ofrenda...del v y delH8492
+- Neh_13:5guardaban...el diezmo del grano, del v yH8492
+- Neh_13:12Judá trajo el diezmo del grano, del vH8492
+- Neh_13:15vi en Judá...que...cargaban asnos con vH3196
+- Est_1:7daban...mucho v real, de acuerdo con laH3196
+- Est_1:10estando...alegre del v, mandó a MehumánH3196
+- Est_5:6dijo el rey a Ester...mientras bebían vH3196
+- Est_7:2mientras bebían v, dijo el rey a EsterH3196
+- Job_1:13que sus hijos...bebían v en casa de suH3196
+- Job_1:18estaban comiendo y bebiendo v en casa deH3196
+- Job_32:19como el v que no tiene respiradero, yH3196
+- Sal_60:3nos hiciste beber v de aturdimientoH3196
+- Sal_75:8el v está fermentado, lleno de misturaH3196
+- Sal_78:65un valiente que grita excitado del vH3196
+- Sal_104:15el Y que alegra el corazón del hombreH3196
+- Pro_4:17porque comen pan...y beben v de robosH3196
+- Pro_9:2sus víctimas, mezcló su v, y puso su mesaH3196
+- Pro_9:5venid...y bebed del v que yo he mezcladoH3196
+- Pro_20:1el v es escarnecedor, la...alborotadoraH3196
+- Pro_21:17el que ama el v y los...no enriqueceráH3196
+- Pro_23:20no estés con los bebedores de v, ni conH3196
+- Pro_23:30para los que se detienen mucho en el vH3196
+- Pro_23:31no mires al v cuando rojea...en la copaH3196
+- Pro_31:4no es de los reyes beber v, ni de losH3196
+- Pro_31:6la sidra...el v a los de amargado ánimoH3196
+- Ecl_2:3en mi corazón agasajar mi carne con vH3196
+- Ecl_9:7come tu...y bebe tu v con alegre corazónH3196
+- Ecl_10:19el banquete, y el v alegra a los vivosH3196
+- Cnt_1:2porque mejores...tus amores que el vH3196
+- Cnt_1:4acordaremos de tus amores más que del vH3196
+- Cnt_4:10¡cuánto mejores que el v tus amores, yH3196
+- Cnt_5:1comido mi pan y mi miel, mi v y me lecheH3196
+- Cnt_7:9tu paladar como el buen v, que se entraH3196
+- Cnt_8:2yo te haría beber v adobado del mosto deH3196
+- Isa_1:22escorias, tu v está mezclado con aguaH5435
+- Isa_5:11la noche, hasta que el v los enciende![[H3196]]
+- Isa_5:12en sus banquetes hay arpas...flautas y vH3196
+- Isa_5:22ay de los que son valientes para beber vH3196
+- Isa_16:10no pisará v en los lagares el pisadorH3196
+- Isa_22:13comiendo carne y bebiendo v, diciendoH3196
+- Isa_24:7se perdió el v, enfermó la vid, gimieronH8492
+- Isa_24:9no beberán v con cantar; la sidra lesH3196
+- Isa_24:11clamores por falta de v en las callesH3196
+- Isa_25:6banquete de v refinados...v purificadosH8105
+- Isa_27:2día cantad acerca de la viña del v rojoH2561
+- Isa_28:1del valle fértil de los aturdidos del vH3196
+- Isa_28:7pero también éstos erraron con el v, yH3196
+- Isa_28:7el profeta...fueron trastornados por el vH3196
+- Isa_29:9embriagaos, y no de v, tambalead, y noH3196
+- Isa_36:17tierra de grano y de v, tierra de panH8492
+- Isa_49:26su sangre serán embriagados como con vH6071
+- Isa_51:21oye, pues...afligida, ebria, y no de vH3196
+- Isa_55:1venid, comprad sin dinero y sin precio, vH3196
+- Isa_56:12venid, dicen, tomemos v, embriaguémonosH3196
+- Isa_62:8ni beberán...extraños el v que es frutoH8492
+- Jer_13:12(2)toda tinaja se llenará de vH3196
+- Jer_23:9como hombre a quien dominó el v, delanteH3196
+- Jer_25:15toma de mi mano la copa del v de esteH3196
+- Jer_31:12al pan, al v, al aceite, y al ganado deH8492
+- Jer_35:2casa de los recabitas...dales a beber vH3196
+- Jer_35:5copas llenas de v, y les dije: Bebed vH3196
+- Jer_35:6mas ellos dijeron: No beberemos v; porqueH3196
+- Jer_35:6no beberéis jamás v vosotros ni vuestrosH3196
+- Jer_35:8de no beber v en todos nuestros días, niH3196
+- Jer_35:14que no bebiesen v, y no lo han bebidoH3196
+- Jer_40:10tomad el v, los frutos del verano y elH3196
+- Jer_40:12Judá...recogieron v y abundantes frutosH3196
+- Jer_48:33y de los lagares haré que falte el vH3196
+- Jer_51:7embriagó...la tierra; de su v bebieronH3196
+- Lam_2:12decían...¿Dónde está el trigo y el v?[[H3196]]
+- Eze_27:18Damasco comerciaba...con v de HelbónH3196
+- Eze_44:21ninguno de los sacerdotes beberá vH3196
+- Dan_1:5ración...de la comida...del v que él bebíaH3196
+- Dan_1:8no contaminarse...ni con el v que él bebíaH3196
+- Dan_1:16Melsar se llevaba...v que habían de beberH3196
+- Dan_5:1el rey...y en presencia de los mil bebía vH3196
+- Dan_5:2Belsasar, con el gusto del v, mandó queH2562
+- Dan_5:4bebieron v, y alabaron a los dioses deH2562
+- Dan_5:23tú y tus grandes...bebisteis v en ellosH2562
+- Dan_10:3ni entró en mi boca carne ni v, ni meH3196
+- Ose_2:8yo le daba el trigo, el v y el aceiteH8492
+- Ose_2:9tomaré...mi v a su sazón, y quitaré mi lanaH8492
+- Ose_2:22la tierra responderá...al v y al aceiteH8492
+- Ose_4:11fornicación, v y mosto quitan el juicioH8492
+- Ose_7:5rey...lo hicieron enfermar con copas de vH3196
+- Ose_14:7vid; su olor será como de v del LíbanoH8492
+- Joe_1:5llorad; gemid, todos los que bebéis vH3196
+- Joe_2:24y los lagares rebosarán de v y aceiteH8492
+- Joe_3:3y vendieron las niñas por v para beberH3196
+- Amó_2:8el v de los multados beben en la casaH3196
+- Amó_2:12disteis de beber v a los nazareos, y aH3196
+- Amó_5:11viñas, mas no beberéis el v de ellasH3196
+- Amó_6:6beben v en tazones, y se ungen con losH3196
+- Amó_9:14plantarán viñas, y beberán el v de ellasH3196
+- Miq_2:11profetizaré de v y de sidra; este talH3196
+- Miq_6:15el aceite; y mosto, mas no beberás el vH8492
+- Hab_2:5el que es dado al v es traicioneroH3196
+- Sof_1:12los...que reposan tranquilos como el vH3196
+- Sof_1:13plantarán viñas, mas no beberán el v deH3196
+- Hag_1:11y llamé la sequía...sobre el v, sobreH8492
+- Hag_2:12el vuelo de ella tocare pan...v, o aceiteH3196
+- Zac_9:15y harán estrépito como tomados de vH3196
+- Zac_9:17trigo alegrará...y el v a las doncellasH8492
+- Zac_10:7alegrará su corazón como a causa del vH3196
+- Mat_9:17ni echan v nuevo en odres viejos; deG3631
+- Mat_9:17los odres se rompen, y el v se derramaG3631
+- Mat_9:17pero echan el v nuevo en odres nuevos, yG3631
+- Mat_11:19dicen: He aquí un hombre...bebedor de vG3630
+- Mar_2:22y nadie echa v nuevo en odres viejosG3631
+- Mar_2:22el v nuevo rompe los odres, y el v seG3631
+- Mar_2:22v nuevo en odres nuevos se ha de echarG3631
+- Mar_15:23le dieron a beber v mezclado con mirraG3631
+- Luc_1:15no beberá v ni sidra, y será lleno delG3631
+- Luc_5:37nadie echa v nuevo en odres viejos; deG3631
+- Luc_5:37manera, el v nuevo romperá los odres yG3631
+- Luc_5:38v nuevo en odres nuevos se ha de echarG3631
+- Luc_7:33vino Juan...que ni comía pan ni bebía vG3631
+- Luc_7:34hombre comilón y bebedor de v, amigo deG3630
+- Luc_10:34vendó...heridas, echándoles aceite y vG3631
+- Jua_2:3y faltando el v...le dijo: No tienen vG3631
+- Jua_2:9el maestresala probó el agua hecha v, sinG3631
+- Jua_2:10todo hombre sirve primero el buen v, yG3631
+- Jua_2:10tú has reservado el buen v hasta ahoraG3631
+- Jua_4:46Caná...donde había convertido el agua en vG3631
+- Rom_14:21bueno es no comer carne, ni beber vG3631
+- Efe_5:18no os embriaguéis con v, en lo cual hayG3631
+- 1Ti_3:3no dado al v, no pendenciero...no avaroG3631
+- 1Ti_3:8los diáconos asimismo...no dados a mucho vG3631
+- 1Ti_5:23sino usa de un poco de v por causa de tuG3631
+- Tit_1:7obispo...no dado al v, no pendencieroG3943
+- Tit_2:3no esclavas del v, maestras del bienG3631
+- Rev_6:6decía...pero no dañes al aceite ni el vG3631
+- Rev_14:8ha hecho beber...del v del furor de suG3631
+- Rev_14:10beberá del v de la ira de Dios, que haG3631
+- Rev_16:19para darle el cáliz del v del ardor deG3631
+- Rev_17:2embriagado con el v, de su fornicaciónG3631
+- Rev_18:3han bebido del v del...de su fornicaciónG3631
+- Rev_18:13olíbano, v, aceite, flor de harinaG3631
+- Rev_19:15él pisa el lagar del v del furor y deG3025, [[G3631]]

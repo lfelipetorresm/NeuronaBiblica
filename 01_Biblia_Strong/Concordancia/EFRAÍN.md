@@ -1,0 +1,192 @@
+---
+tipo: concordancia
+palabra: EFRAÍN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EFRAÍN
+
+- 1 Hijo menor de José, la tribu que formó su posteridad, y su territorio; a veces se refiere a todo el reino norteño de Israel
+- Gén_41:52llamó el nombre del segundo E; porqueH669
+- Gén_46:20y nacieron a José en la...Manasés y EH669
+- Gén_48:1él tomó...a sus dos hijos, Manasés y EH669
+- Gén_48:5tus dos hijos E y...que te nacieron enH669
+- Gén_48:13ambos; E a su derecha, a la izquierdaH669
+- Gén_48:14su mano derecha...sobre la cabeza de EH669
+- Gén_48:17la mano derecha sobre la cabeza de EH669
+- Gén_48:17para cambiarla de la cabeza de E a laH669
+- Gén_48:20diciendo: Hágate Dios como a E y comoH669
+- Gén_48:20hágate...Y puso a E antes de ManasésH669
+- Gén_50:23y vio José los hijos de E hasta laH669
+- Núm_1:10de José: de E, Elisama hijo de AmiudH669
+- Núm_1:32de los hijos de E, por su descendenciaH669
+- Núm_1:33contados de la tribu de E fueron 40.500H669
+- Núm_2:18la bandera del campamento de E por susH669
+- Núm_2:18el jefe de los hijos de E, Elisama hijoH669
+- Núm_2:24todos...en el campamento de E, 108:100H669
+- Núm_7:48el príncipe de los hijos de E, ElisamaH669
+- Núm_10:22marchar la bandera...de los hijos de EH669
+- Núm_13:8de la tribu de E; Oseas hijo de NunH669
+- Núm_26:28de José por sus familias: Manasés y EH669
+- Núm_26:35son los hijos de E por sus familias; deH669
+- Núm_26:37son las familias de los hijos de E; yH669
+- Núm_34:24de la tribu de...E, el príncipe KemuelH669
+- Deu_33:17ellos son los diez millares de E, yH669
+- Deu_34:2la tierra de E y de Manasés, toda laH669
+- Jos_14:4hijos de José fueron...Manasés y EH669
+- Jos_16:4recibieron...su heredad los...Manasés y EH669
+- Jos_16:5cuanto al territorio de los hijos de EH669
+- Jos_16:8esta es la heredad...de los hijos de EH669
+- Jos_16:9también ciudades...para los hijos de EH669
+- Jos_16:10antes quedó el cananeo en medio de EH669
+- Jos_17:8pero Tapúa misma...es de los hijos de EH669
+- Jos_17:9ciudades de E están entre las ciudadesH669
+- Jos_17:10E al sur, y Manasés al norte, y el marH669
+- Jos_17:15monte de E es estrecho para vosotrosH669
+- Jos_17:17Josué respondió...casa de José, a E yH669
+- Jos_19:50dieron...Timnat-sera, en el monte de EH669
+- Jos_20:7señalaron a...Siquem en el monte de EH669
+- Jos_21:5diez ciudades...de la tribu de E, de laH669
+- Jos_21:20recibieron...ciudades de la tribu de EH669
+- Jos_21:21les dieron Siquem...en el monte de EH669
+- Jos_24:30en su heredad...en el monte de E, alH669
+- Jos_24:33le enterraron en el...en el monte de EH669
+- Jue_1:29tampoco E arrojó al cananeo...en GezerH669
+- Jue_2:9y lo sepultaron en su...en el monte de EH669
+- Jue_3:27tocó el cuerno en el monte de E, y losH669
+- Jue_4:5entre Ramá y Bet-el, en el monte de EH669
+- Jue_5:14de E vinieron los radicados en AmalecH669
+- Jue_7:24envió mensajeros por todo el monte de EH669
+- Jue_7:24los hombres de E, tomaron los vados deH669
+- Jue_8:1pero los hombres de E...le reconvinieronH669
+- Jue_8:2¿no es el rebusco de E mejor que laH669
+- Jue_10:1Tola...habitaba en Samir en el monte de EH669
+- Jue_10:9para hacer...guerra contra...la casa de EH669
+- Jue_12:1se reunieron los varones de E, y pasaronH669
+- Jue_12:4peleó contra E; y los...derrotaron a EH669
+- Jue_12:4sois fugitivos de E...en medio de E yH669
+- Jue_12:5tomaron...vados del Jordán a los de EH669
+- Jue_12:5que cuando decían los fugitivos de EH669
+- Jue_12:6murieron...los de E cuarenta y dos milH669
+- Jue_12:15y fue sepultado en...en la tierra de EH669
+- Jue_17:1hubo un hombre del monte de E...MicaíaH669
+- Jue_17:8llegando...al monte de E, vino a casa deH669
+- Jue_18:2vinieron al monte de E, hasta la casaH669
+- Jue_18:13y de allí pasaron al monte de E, yH669
+- Jue_19:1, Jue_19:18la parte más remota del monte de EH669
+- Jue_19:16un hombre...el cual era del monte de EH669
+- 1Sa_1:1un varón de...de Zofim, del monte de EH669
+- 1Sa_9:4pasó el monte de E, y de allí a...SalisaH669
+- 1Sa_14:22se habían escondido en el monte de EH669
+- 2Sa_2:9lo hizo rey sobre...E, sobre BenjamínH669
+- 2Sa_13:23aconteció...en Baal-hazor, que está junto a EH669
+- 2Sa_18:6se libró la batalla en el bosque de EH669
+- 2Sa_20:21un hombre del monte de E...Seba hijo deH669
+- 1Re_4:8son...el hijo de Hur en el monte de EH669
+- 1Re_12:25reedificó...a Siquem en el monte de EH669
+- 2Re_5:22vinieron...del monte de E dos jóvenesH669
+- 2Re_14:13desde la puerta de E hasta la puerta deH669
+- 1Cr_6:66dieron ciudades...de la tribu de EH669
+- 1Cr_6:67les dieron...Siquem...en el monte de EH669
+- 1Cr_7:20los hijos de E: Sutela, Bered su hijoH669
+- 1Cr_7:22E su padre hizo duelo por muchos díasH669
+- 1Cr_9:3en Jerusalén...los hijos de E y ManasésH669
+- 1Cr_12:30los hijos de E, 20.800, muy valientesH669
+- 1Cr_27:10era Heles pelonita, de los hijos de EH669
+- 1Cr_27:14Benaía piratonita, de los hijos de EH669
+- 1Cr_27:20los hijos de E, Oseas hijo de AzazíasH669
+- 2Cr_13:4Zemaraim...está en los montes de EH669
+- 2Cr_13:19a Jesana con sus aldeas, y a E con susH6085
+- 2Cr_15:8los ídolos...en la parte montañosa de EH669
+- 2Cr_15:9Judá...y con ellos los forasteros de EH669
+- 2Cr_17:2asimismo en las ciudades de E que suH669
+- 2Cr_19:4desde Beerseba hasta el monte de E, yH669
+- 2Cr_25:7porque Jehová no está con...hijos de EH669
+- 2Cr_25:10apartó el ejército de la gente...de EH669
+- 2Cr_25:23desde la puerta de E hasta la puertaH669
+- 2Cr_28:7Zicri, hombre poderoso de E, mató aH669
+- 2Cr_28:12se levantaron algunos varones...de EH669
+- 2Cr_30:1escribió cartas a E y a Manasés, paraH669
+- 2Cr_30:10los correos de...por la tierra de E yH669
+- 2Cr_30:18gran multitud del pueblo de E y ManasésH669
+- 2Cr_31:1derribaron los lugares altos...E y ManasésH669
+- 2Cr_34:6lo mismo hizo en las ciudades de...EH669
+- 2Cr_34:9recogido de mano de Manasés y de E y deH669
+- Sal_60:7E es la fortaleza de mi cabeza; JudáH669
+- Sal_78:9los hijos de E...volvieron las espaldasH669
+- Sal_78:67desechó la...y no escogió la tribu de EH669
+- Sal_80:2despierta tu poder delante de E, deH669
+- Sal_108:8E es la fortaleza de mi cabeza; JudáH669
+- Isa_7:2nueva: Siria se ha confederado con EH669
+- Isa_7:5sitio, con E y con el hijo de RemalíasH669
+- Isa_7:8E será quebrantado hasta dejar de serH669
+- Isa_7:9la cabeza de E es Samaria, y la cabezaH669
+- Isa_7:17desde el día que E se apartó de JudáH669
+- Isa_9:9sabrá todo el pueblo, E y los moradoresH669
+- Isa_9:21Manasés a E, y E a Manasés, y ambosH669
+- Isa_11:13y se disipará la envidia de E, y losH669
+- Isa_11:13E no tendrá envidia de Judá, ni...a EH669
+- Isa_17:3cesará el socorro de E, y el reino deH669
+- Isa_28:1¡ay de la corona de...los ebrios de EH669
+- Isa_28:3pisoteada la corona de soberbia...de EH669
+- Jer_4:15oír la calamidad desde el monte de EH669
+- Jer_7:15como eché a...toda la generación de EH669
+- Jer_31:6clamarán los guardas en el monte de EH669
+- Jer_31:9porque soy a Israel por padre, y E esH669
+- Jer_31:18oído a E que se lamentaba: Me azotasteH669
+- Jer_31:20¿no es E hijo precioso para mí? ¿noH669
+- Jer_50:19el monte de E y en Galaad se saciaráH669
+- Eze_37:16para José, palo de E, y para toda laH669
+- Eze_37:19palo de José que está en la mano de EH669
+- Eze_48:5desde...hasta del lado del mar, E, otraH669
+- Eze_48:6junto al límite de E, desde el ladoH669
+- Ose_4:17E es dado a ídolos; déjaloH669
+- Ose_5:3yo conozco a E...oh E, te has prostituidoH669
+- Ose_5:5Israel y E tropezarán en su pecado, yH669
+- Ose_5:9E será asolado en el día del castigo; enH669
+- Ose_5:11E es vejado, quebrantado en juicioH669
+- Ose_5:12seré como polilla a E, y como carcomaH669
+- Ose_5:13verá E su enfermedad, y Judá su llagaH669
+- Ose_5:13irá entonces E a Asiria, y enviará alH669
+- Ose_5:14porque yo seré como león a E, y comoH669
+- Ose_6:4¿qué haré a ti, E? ¿Qué haré a ti, ohH669
+- Ose_6:10allí fornicó E, y se contaminó IsraelH669
+- Ose_7:1a Israel, se descubrió la iniquidad de EH669
+- Ose_7:8E se ha mezclado con los demás pueblosH669
+- Ose_7:8se ha mezclado...E fue torta no volteadaH669
+- Ose_7:11E fue como paloma...sin entendimientoH669
+- Ose_8:9subieron...E con salario alquiló amantesH669
+- Ose_8:11porque multiplicó E altares para pecarH669
+- Ose_9:3sino que volverá E a Egipto y a AsiriaH669
+- Ose_9:8atalaya es E...con mi Dios; el profeta esH669
+- Ose_9:11la gloria de E volará cual ave, de modoH669
+- Ose_9:13E...veo, es semejante a Tiro, situado enH669
+- Ose_9:13pero E sacará su hijos a la matanzaH669
+- Ose_9:16E fue herido, su raíz está seca, no daráH669
+- Ose_10:6él llevado a Asiria...E será avergonzadoH669
+- Ose_10:11E es novilla...haré llevar yugo a EH669
+- Ose_11:3con todo...enseñaba a andar al mismo EH669
+- Ose_11:8¿cómo...abandonarte, oh E? ¿Te entregaréH669
+- Ose_11:9de mi ira, ni volveré para destruir a EH669
+- Ose_11:12me rodeó E de mentira, y la casa deH669
+- Ose_12:1E se apacienta de viento, y sigue alH669
+- Ose_12:8E dijo: Ciertamente he enriquecido, heH669
+- Ose_12:14E ha provocado a Dios con amargurasH669
+- Ose_13:1E hablaba, hubo temor; fue exaltado enH669
+- Ose_13:12atada está la maldad de E; su pecadoH669
+- Ose_14:8E dirá: ¿Qué más tendré...con los ídolos?[[H669]]
+- Abd_1:19poseerán también los campos de E, y losH669
+- Zac_9:10y de E destruiré los carros...caballosH669
+- Zac_9:13e hice a E su flecha, y despertaré aH669
+- Zac_10:7será E corno valiente, y se alegrará suH669
+- 2 Población cerca de Bet-el
+- 2Sa_13:23tenía esquiladores en...junto a EH669
+- 2Cr_13:19Abías le tomó...a E con sus aldeasH6085
+- Jua_11:54se alejó de...a una ciudad llamada EG2187
+- 3 Bosque al oriente del Jordán, 2Sa_18:6G669
+- 4 Puerta en el muro de Jerusalén
+- 2Re_14:13rompió...desde la puerta de E hastaH669
+- 2Cr_25:23muro...desde la puerta de E hastaH669
+- Neh_8:16en...y en la plaza de la puerta de EH669
+- Neh_12:39la puerta de E hasta la puerta ViejaH669

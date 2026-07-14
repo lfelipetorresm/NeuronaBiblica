@@ -1,0 +1,243 @@
+---
+tipo: concordancia
+palabra: TOCAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TOCAR
+
+- Gén_3:3no comeréis de él, ni le tocaréis, paraH5060
+- Gén_4:21fue padre de todos los que tocan arpaH8610
+- Gén_20:6le dijo...no te permití que la tocasesH5060
+- Gén_26:11que tocare a este hombre o a su mujerH5060
+- Gén_26:29como nosotros no te hemos tocado, yH5060
+- Gén_28:12tierra, y su extremo tocaba en el cieloH5060
+- Gén_32:25tocó...el sitio del encaje de su musloH5060
+- Gén_32:32tocó a Jacob este sitio de su muslo enH5060
+- Éxo_19:12no subáis al...ni toquéis sus límitesH5060
+- Éxo_19:12que tocare el monte, de seguro moriráH5060
+- Éxo_19:13no lo tocará mano, porque será apedreadoH5060
+- Éxo_19:15estad preparados para...no toquéis mujer
+- Éxo_29:37que tocare el altar, será santificadaH5060
+- Éxo_30:29que tocare en ellos, será santificadoH5060
+- Lev_5:2hubiere tocado cualquiera cosa inmundaH5060
+- Lev_5:3si tocare inmundicia de hombre...y no loH5060
+- Lev_6:18cosa que tocare en ellas será santificadaH5060
+- Lev_6:27lo que tocare su carne, será santificadoH5060
+- Lev_7:19la carne que tocare alguna cosa inmundaH5060
+- Lev_7:21persona que tocare alguna cosa inmundaH5060
+- Lev_11:8comeréis, ni tocaréis su cuerpo muertoH5060
+- Lev_11:24tocare sus cuerpos...será inmundo hastaH5060
+- Lev_11:26cualquiera que los tocare será inmundoH5060
+- Lev_11:27, Lev_11:39tocare sus cadáveres será inmundoH5060
+- Lev_11:31los tocare cuando estuvieren muertosH5060
+- Lev_11:36tocado en los cadáveres será inmundoH5060
+- Lev_12:4ninguna cosa santa tocará ni vendrá alH5060
+- Lev_15:5y cualquiera que tocare su cama lavaráH5060
+- Lev_15:7que tocare el cuerpo del que tiene flujoH5060
+- Lev_15:10tocare cualquiera cosa que haya estadoH5060
+- Lev_15:11quien tocare el que tiene flujo, y noH5060
+- Lev_15:12vasija...que tocare el que tiene flujoH5060
+- Lev_15:19cualquiera que la tocare será inmundoH5060
+- Lev_15:21cualquiera que tocare su cama, lavaráH5060
+- Lev_15:22cualquiera que tocare cualquier muebleH5060
+- Lev_15:23lo tocare será inmundo hasta la nocheH5060
+- Lev_15:27cualquiera que tocare esas cosas seráH5060
+- Lev_22:4que tocare cualquiera cosa de cadáveresH5060
+- Lev_22:5el varón que hubiere tocado...reptil porH5060
+- Lev_22:6la persona que lo tocare será inmundaH5060
+- Lev_25:9harás tocar...trompeta en el mes séptimoH5674
+- Lev_25:9tocar la trompeta por...vuestra tierraH5674
+- Núm_4:15pero no tocarán cosa santa, no sea queH5060
+- Núm_10:3cuando las tocaren...la congregación seH8628
+- Núm_10:4mas cuando tocaren sólo una, entoncesH8628
+- Núm_10:5cuando tocareis alarma, entonces moveránH8628
+- Núm_10:6y cuando tocareis alarma la segunda vezH8628
+- Núm_10:6al sur; alarma tocarán para sus partidasH8628
+- Núm_10:7tocaréis, mas no con sonido de alarmaH8628
+- Núm_10:8los sacerdotes, tocarán las trompetasH8628
+- Núm_10:9guerra...tocareis alarma con las trompetasH7321
+- Núm_10:10tocaréis...sobre vuestros holocaustosH8628
+- Núm_16:26y no toquéis ninguna cosa suya, paraH5060
+- Núm_19:11, Núm_19:13el que tocare cadáver de...personaH5060
+- Núm_19:16y cualquiera que tocare algún muertoH5060
+- Núm_19:18y sobre...que hubiere tocado el huesoH5060
+- Núm_19:21que tocare el agua de la purificaciónH5060
+- Núm_19:22y todo lo que el inmundo tocare, seráH5060
+- Núm_19:22la persona que lo tocare será inmundaH5060
+- Núm_31:6con las trompetas en su mano para tocarH8643
+- Núm_31:19haya tocado muerto, permaneced fueraH5060
+- Deu_14:8no...ni tocaréis sus cuerpos muertosH5060
+- Deu_32:9pueblo; Jacob la heredad que te tocó
+- Jos_2:19sangre será sobre...si mano le tocare
+- Jos_6:4arca...los sacerdotes tocarán las bocinasH8628
+- Jos_6:5cuando toquen prolongadamente el cuerno
+- Jos_6:8pasaron...tocaron las bocinas; y el arcaH8628
+- Jos_6:9los sacerdotes que tocaban las bocinasH8628
+- Jos_6:13andando siempre y tocando las bocinasH8628
+- Jos_6:13iba...las bocinas tocaban continuamenteH8628
+- Jos_6:16cuando...tocaron las bocinas la séptimaH8628
+- Jos_6:18ni toquéis, ni toméis alguna cosa del
+- Jos_6:20y los sacerdotes tocaron las bocinasH8628
+- Jos_9:19por tanto, ahora no les podemos tocarH5060
+- Jos_15:1la parte que tocó en suerte a la...Judá
+- Jos_16:1tocó en suerte a los hijos de José desde
+- Jos_16:7Naarat, y toca Jericó y sale al Jordán
+- Jos_17:5tocaron a Manasés diez partes además de
+- Jos_19:1la segunda suerte tocó a Simeón, para la
+- Jos_19:10tercera suerte tocó a los...de Zabulón
+- Jue_3:27tocó el cuerno en el monte de EfraínH8628
+- Jue_6:21tocó con la punta la carne y los panesH5060
+- Jue_6:34sobre Gedeón, y cuando...tocó el cuernoH8628
+- Jue_7:18tocaré la trompeta...vosotros tocaréisH8628
+- Jue_7:19tocaron las trompetas, y quebraron losH8628
+- Jue_7:20tres escuadrones tocaron las trompetasH8628
+- Jue_7:20tocaban, y gritaron: ¡Por la espada deH8628
+- Jue_7:22los trescientos tocaban las trompetasH8628
+- Jue_16:9rompe una cuerda...cuando toca el fuegoH8628
+- 1Sa_2:3Dios...a él toca el pesar las acciones
+- 1Sa_10:26hombres...corazones Dios había tocadoH5060
+- 1Sa_13:3hizo...tocar trompeta por todo el paísH8628
+- 1Sa_16:16busquen a alguno...sepa tocar el arpaH5059
+- 1Sa_16:16él toque con su mano, y tengas alivioH5059
+- 1Sa_16:17buscadme, pues...alguno que toque bienH5059
+- 1Sa_16:18hijo de Isaí de Belén, que sabe tocarH5059
+- 1Sa_16:23David tomaba el arpa y tocaba con suH5059
+- 1Sa_18:10David tocaba con...como los otros díasH5059
+- 1Sa_19:9sentado...mientras David estaba tocandoH5059
+- 1Sa_30:24así ha de ser...les tocará parte igual
+- 2Sa_2:28Joab tocó el cuerno...pueblo se detuvoH8628
+- 2Sa_14:10dijo...tráelo a mí, y no te tocará másH8628
+- 2Sa_18:12que ninguno toque al joven Absalón
+- 2Sa_18:16Joab tocó la trompeta, y el pueblo seH8628
+- 2Sa_20:1Seba...el cual tocó la trompeta, y dijoH8628
+- 2Sa_20:22y el tocó la trompeta, y se retiraronH8628
+- 2Sa_23:7el que quiere tocarlos se arma de lanzaH5060
+- 1Re_1:34tocaréis trompeta, diciendo: ¡Viva elH8628
+- 1Re_1:39tocaron trompeta, y dijo todo el puebloH8628
+- 1Re_6:27ala de uno tocaba una pared...t la otraH5060
+- 1Re_6:27las otras dos alas se tocaban la una aH5060
+- 1Re_19:5un ángel le tocó, y le dijo: LevántateH5060
+- 1Re_19:7y volviendo el ángel...lo tocó, diciendoH5060
+- 2Re_3:15mientras el tañedor tocaba, la manoH5059
+- 2Re_5:11y alzará su mano y tocará el lugar, y
+- 2Re_9:13tocaron corneta, y dijeron: Jehú es reyH8628
+- 2Re_11:14todo el pueblo...tocaban las trompetasH8628
+- 2Re_13:21a tocar el muerto los huesos de EliseoH5060
+- 1Cr_6:54de los coatitas...les tocó en suerte
+- 1Cr_15:24tocaban las trompetas delante del arcaH2690
+- 1Cr_16:22no toquéis, dijo, a mis ungidos, niH5060
+- 1Cr_16:42y címbalos para los que tocaban, y con
+- 1Cr_24:7la primera suerte tocó a Joiarib, la
+- 2Cr_3:11-12tocaba el ala del otro querubínH5060
+- 2Cr_5:12y con ellos 120 sacerdotes que tocabanH2690
+- 2Cr_7:6sacerdotes tocaban trompetas delante deH2690
+- 2Cr_13:14los sacerdotes tocaron las trompetasH2690
+- Neh_4:18que tocaba la trompeta...junto a míH8628
+- Est_5:2vino Ester y tocó la punta del cetroH5060
+- Est_9:10hijos de Amán...no tocaron sus bienes
+- Est_9:15-16mataron...pero no tocaron sus bienes
+- Job_1:11toca todo lo que tiene, y verás si nH5060
+- Job_2:5toca su hueso y su carne, y verás si noH5060
+- Job_5:19seis...en la séptima no te tocará el malH5060
+- Job_6:7las cosas que mi alma no quería tocar sonH5060
+- Job_19:21porque la mano de Dios me ha tocadoH5060
+- Job_20:6cielo, y su cabeza tocare en las nubesH5060
+- Sal_16:6hermosa la heredad que me ha tocado
+- Sal_81:3tocad la trompeta en la nueva luna, enH8627
+- Sal_91:10no te...mal, ni plaga tocará tu morada
+- Sal_104:32tiembla; toca los montes, y humeanH5060
+- Sal_105:15no toquéis, dijo, a mis ungidos, niH5060
+- Sal_144:5y desciende; toca los montes, y humeenH5060
+- Pro_6:29así no quedará impune...que la tocareH5060
+- Isa_6:7y tocando con él sobre mi boca, dijo
+- Isa_6:7tocó tus labios, y es quitada tu culpaH5060
+- Isa_9:1que livianamente tocaron...a la tierra de
+- Isa_18:3y cuando se toque trompeta, escuchadH8628
+- Isa_27:13se tocará con gran trompeta, y vendránH8628
+- Isa_52:11salid de ahí, no toquéis cosa inmundaH5060
+- Jer_1:9extendió Jehová su mano y tocó mi bocaH5060
+- Jer_4:5tocad trompeta en la tierra; pregonadH8628
+- Jer_6:1tocad bocina en Tecoa, y alzad por señalH8628
+- Jer_12:14que tocaran la heredad que hice poseer aH5060
+- Jer_26:14en lo que a mí toca, he aquí estoy en
+- Jer_51:27alzad...tocad trompeta en las nacionesH8628
+- Lam_4:14que no pudiesen tocarse sus vestidurasH5060
+- Lam_4:15¡apartaos!...les gritaban...no toquéis![[H5060]]
+- Eze_7:14tocarán trompeta, y prepararán todasH8628
+- Eze_17:10se secará...cuando el viento...la toque?[[H5060]]
+- Eze_33:3y tocare trompeta y avisare al puebloH8628
+- Eze_33:6venir la espada y no tocare la trompetaH8628
+- Dan_8:5un macho cabrío venía...sin tocar tierraH5060
+- Dan_8:18y él me toco, y me hizo estar en pieH5060
+- Dan_10:10me tocó, e hizo que me pusiese sobreH5060
+- Dan_10:16con semejanza...hombre tocó mis labiosH5060
+- Dan_10:18aquel...me tocó otra vez, y me fortalecióH5060
+- Ose_5:8tocad bocina en Gabaa, trompeta en RamáH8628
+- Joe_2:1tocad trompeta en Sion, y dad alarma enH8628
+- Joe_2:15tocad trompeta en Sion, proclamad ayunoH8628
+- Amó_3:6¿se tocará la trompeta en la ciudad, yH8628
+- Amó_9:5el Señor...es el que toca la tierra, y seH5060
+- Hag_2:12y con el vuelo de ella tocare pan, oH5060
+- Hag_2:13un inmundo...tocare alguna cosa de estasH5060
+- Zac_2:8el que os toca, t a la niña de su ojoH5060
+- Zac_9:14Jehová el Señor tocará trompeta, e iráH8628
+- Mat_6:2des limosna, no hagas tocar trompetaG4537
+- Mat_8:3extendió la mano y le tocó, diciendoG680
+- Mat_8:15y tocó su mano, y la fiebre la dejóG680
+- Mat_9:20se le acercó...tocó el borde de su mantoG680
+- Mat_9:21si tocare solamente su manto, seré salvaG680
+- Mat_9:23viendo a los que tocaban flautas, y la
+- Mat_9:29les tocó los ojos, diciendo...os sea hechoG680
+- Mat_11:17os tocamos flauta, y no bailasteis; osG832
+- Mat_14:36rogaban que les dejase tocar...mantoG680
+- Mat_14:36todos los que lo tocaron, quedaron sanosG680
+- Mat_17:7los toco, y dijo: Levantaos, y no temáisG680
+- Mat_20:34Jesús, compadecido, les tocó los ojosG680
+- Mar_1:41le tocó, y le dijo: Quiero, sé limpioG680
+- Mar_3:10manera que por tocarle...caían sobre élG680
+- Mar_5:27vino por detrás entre...y tocó su mantoG680
+- Mar_5:28decía: Si tocare...Su manto, seré salvaG680
+- Mar_5:30dijo: ¿Quién ha tocado mis vestidos?[[G680]]
+- Mar_5:31ves que...y dices: ¿Quién me ha tocado?[[G680]]
+- Mar_6:56rogaban que les dejase tocar...su mantoG680
+- Mar_6:56todos los que le tocaban quedaban sanosG680
+- Mar_7:33las orejas...y escupiendo, tocó su lenguaG680
+- Mar_8:22un ciego, y le rogaron que le tocaseG680
+- Mar_10:13presentaban niños para que los tocaseG680
+- Luc_1:9le tocó en suerte ofrecer el incienso
+- Luc_5:13le tocó, diciendo: Quiero; sé limpioG680
+- Luc_6:19toda la gente procuraba tocarle, porqueG680
+- Luc_7:14tocó el féretro; y los que lo llevabanG680
+- Luc_7:32os tocamos flauta, y no bailasteis; osG832
+- Luc_7:39conocería quién...le toca...es pecadoraG680
+- Luc_8:44acercó por detrás y tocó el borde deG680
+- Luc_8:45(2)¿quién es el que me ha tocado?[[G680]]
+- Luc_8:46pero Jesús dijo: Alguien me ha tocadoG680
+- Luc_8:47por qué causa le había tocado, y cómoG680
+- Luc_11:46vosotros ni aun con un dedo las tocáisG4379
+- Luc_18:15traían...los niños para que los tocaseG680
+- Luc_22:51ya; dejad. Y tocando su oreja, le sanóG680
+- Jua_20:17no me toques, porque...no he subidoG680
+- Hec_1:7no os toca a vosotros saber...tiempos
+- Hec_12:7un ángel...tocando a Pedro en el costadoG3960
+- Hec_27:2una nave...que iba a tocar en los puertos
+- 1Co_7:1bueno le...al hombre no tocar mujerG680
+- 1Co_14:7¿cómo se sabrá lo que se toca con la
+- 1Co_15:52se tocará la trompeta, y los muertosG4537
+- 2Co_6:17salid de en...y no toquéis lo inmundoG680
+- Col_2:21no manejes, ni gustes, ni aun toquesG680
+- Heb_11:28para que el...no los tocase a ellosG2345
+- Heb_12:20si...una bestia tocare el monte, seráG2345
+- 1Jn_5:18le guarda, y el maligno no le tocaG680
+- Rev_8:6siete ángeles...dispusieron a tocarlasG4537
+- Rev_8:7el primer ángel tocó la trompeta, y huboG4537
+- Rev_8:8el segundo ángel tocó la trompeta, y comoG4537
+- Rev_8:10tocó la trompeta, y cayó del cielo unaG4537
+- Rev_8:12ángel tocó la trompeta, y fue herida laG4537
+- Rev_9:1quinto ángel tocó la trompeta, y vi unaG4537
+- Rev_9:13sexto ángel tocó la trompeta, y oí unaG4537
+- Rev_10:7cuando él comience a tocar la trompetaG4537
+- Rev_11:15séptimo ángel tocó la trompeta, y huboG4537
+- Rev_14:2que oí era como de arpistas que tocabanG2789

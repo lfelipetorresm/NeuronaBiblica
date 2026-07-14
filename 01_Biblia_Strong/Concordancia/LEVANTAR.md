@@ -1,0 +1,886 @@
+---
+tipo: concordancia
+palabra: LEVANTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LEVANTAR
+
+- Gén_4:8se levantó contra su hermano Abel, yH6965
+- Gén_13:17levántate, vé por la tierra a lo largoH6965
+- Gén_18:16los varones se levantaron de allí, yH6965
+- Gén_19:1viéndolos Lot, se levantó a recibirlosH6965
+- Gén_19:2levantaréis, y seguiréis vuestro caminoH7925
+- Gén_19:14dijo: Levantaos, salid de este lugarH6965
+- Gén_19:15levántate, toma tu mujer, y tus...hijasH6965
+- Gén_19:33él no sintió...cuándo se levantó ellaH6965
+- Gén_19:35se levantó la menor, y durmió con élH6965
+- Gén_19:35no echó de ver...ni cuándo se levantóH6965
+- Gén_20:8Abimelec se levantó de mañana y llamóH7925
+- Gén_21:14Abraham se levantó muy de mañana, yH7925
+- Gén_21:18levántate, alza al muchacho...tu manoH6965
+- Gén_21:32se levantó Abimelec, y Ficol príncipeH6965
+- Gén_22:3y Abraham se levantó muy de mañana, yH7925
+- Gén_22:3levantó...y fue al lugar que Dios le dijoH6965
+- Gén_22:19y se levantaron y se fueron juntos aH6965
+- Gén_23:3levantó Abraham de delante de su muertaH6965
+- Gén_23:7y Abraham se levantó, y se inclinó alH6965
+- Gén_24:54levantándose...dijo: Enviadme a mi señorH6965
+- Gén_24:61se levantó Rebeca y sus doncellas, yH6965
+- Gén_25:34comió y bebió, y se levantó y se fueH6965
+- Gén_26:31se levantaron de madrugada, y juraronH7925
+- Gén_27:19levántate ahora, y siéntate, y come deH6965
+- Gén_27:31levántese mi padre, y coma de la cazaH6965
+- Gén_27:43levántate y huye a casa de Labán miH6965
+- Gén_28:2levántate, vé a Padan-aram, a casa deH6965
+- Gén_28:18y se levantó Jacob de mañana, y tomóH7925
+- Gén_31:13levántate ahora y sal de esta tierraH6965
+- Gén_31:17se levantó Jacob, y subió sus hijos yH6965
+- Gén_31:21y se levantó y pasó el Eufrates, y seH6965
+- Gén_31:35porque no me puedo levantar delante deH6965
+- Gén_31:45Jacob tomó una piedra, y la levantóH7311
+- Gén_31:55y se levantó Labán de mañana, y besóH7925
+- Gén_32:22se levantó aquella noche, y tomó susH6965
+- Gén_35:1levántate y sube a Bet-el, y quédateH6965
+- Gén_35:3y levantémonos, y subamos a Bet-el; yH6965
+- Gén_35:20levantó Jacob un pilar...su sepulturaH5324
+- Gén_37:7que mi manojo se levantaba y...derechoH6965
+- Gén_37:35se levantaron todos sus hijos y todasH6965
+- Gén_38:8dijo...levanta descendencia a tu hermanoH6965
+- Gén_38:19levantó y se fue, y se quitó el veloH6965
+- Gén_40:13tres días levantará Faraón tu cabezaH5375
+- Gén_43:8y nos levantaremos e iremos, a fin deH6965
+- Gén_43:13y levantaos, y volved a aquel varónH6965
+- Gén_43:15se levantaron y descendieron a EgiptoH6965
+- Gén_44:4dijo...levántate y sigue a esos hombresH6965
+- Gén_46:5se levantó Jacob de Beerseba; y tomaronH6965
+- Éxo_1:8se levantó sobre Egipto un nuevo reyH6965
+- Éxo_2:17Moisés se levantó y las defendió, y dioH6965
+- Éxo_5:8están ociosos, por eso levantan la vozH6817
+- Éxo_8:20; Éxo_9:13levántate...ponte delante de FaraónH7925
+- Éxo_10:23ni nadie se levantó de su lugar en tresH6965
+- Éxo_12:30se levantó aquella noche Faraón, él yH6965
+- Éxo_15:7has derribado a los que se levantaronH6965
+- Éxo_17:16la mano de Amalec se levantó contra el
+- Éxo_21:19se levantare y anduviere fuera sobreH6965
+- Éxo_23:5asno...caído...le ayudarás a levantarloH5973
+- Éxo_24:4levantándose de mañana edificó un altarH7925
+- Éxo_24:13levantó Moisés con Josué su servidorH6965
+- Éxo_32:1le dijeron: levántate, haznos dioses queH6965
+- Éxo_32:6sentó el pueblo...levantó a regocijarseH7925
+- Éxo_33:7tomó el tabernáculo y lo levantó lejosH5186
+- Éxo_33:8todo el pueblo se levantaba, y...en pieH6965
+- Éxo_33:10se levantaba cada uno a la puerta deH6965
+- Éxo_34:4se levantó de mañana y subió al monteH7925
+- Éxo_40:2día del...harás levantar el tabernáculoH6965
+- Éxo_40:18Moisés hizo levantar el tabernáculoH6965
+- Éxo_40:19levantó la tienda sobre el tabernáculoH6566
+- Lev_10:6levante la ira sobre...la congregación
+- Lev_19:32delante de las canas te levantarás, yH6965
+- Lev_26:1ni os levantaréis estatua, ni pondréisH6965
+- Núm_7:1acabado de levantar el tabernáculo, yH6965
+- Núm_9:21(2)cuando la nube se levantaba...partíanH5927
+- Núm_10:35Moisés decía: levántate, oh Jehová, yH6965
+- Núm_11:32el pueblo estuvo levantado...aquel díaH6965
+- Núm_14:40se levantaron...y subieron a la cumbreH7925
+- Núm_16:2y se levantaron contra Moisés con 250H6965
+- Núm_16:3¿por qué...os levantáis vosotros sobreH5375
+- Núm_16:25Moisés se levantó y fue a Datán y aH6965
+- Núm_22:13, Núm_22:21Balaam se levantó por la mañanaH6965
+- Núm_22:14príncipes...se levantaron, y vinieronH6965
+- Núm_22:20levántate y vete con ellos; pero harásH6965
+- Núm_23:18dijo: Balac, levántate y oye; escuchaH6965
+- Núm_23:24el pueblo que como león se levantaráH6965
+- Núm_24:17se levantará cetro de Israel, y heriráH6965
+- Núm_24:25se levantó Balaam y se fue, y volvió aH6965
+- Núm_25:7se levantó de...la congregación, y tomóH6965
+- Deu_2:13levantaos...pasad el arroyo de ZeredH6965
+- Deu_2:24levantaos...y pasad el arroyo de ArnónH6965
+- Deu_6:7y hablarás de ellas...cuando te levantesH6965
+- Deu_9:12dijo Jehová: levántate, desciende prontoH6965
+- Deu_10:11levántate...para que marches delante delH6965
+- Deu_11:19hablando de ellas...cuando te levantesH6965
+- Deu_13:1cuando se levantare...profeta, o soñadorH6965
+- Deu_16:22ni te levantarás estatua, lo...aborreceH6965
+- Deu_17:8te levantarás y recurrirás al lugar queH6905
+- Deu_18:15profeta...como yo, te levantará JehováH6965
+- Deu_18:18profeta les levantaré de en medio deH6965
+- Deu_19:11y se levantare contra él y lo hiriereH6965
+- Deu_19:16levantare testigo falso contra algunoH6965
+- Deu_22:4buey, caído...le ayudarás a levantarloH6965
+- Deu_22:26alguno se levanta contra su prójimo yH6965
+- Deu_25:8si él se levantare y dijere: No quieroH5975
+- Deu_27:2levantarás piedras grandes, y...con calH6965
+- Deu_27:4levantarás estas piedras...os mando hoyH6965
+- Deu_28:7tus enemigos que se levantaren contraH6965
+- Deu_29:22dirán...hijos que se levanten despuésH6965
+- Deu_31:16este pueblo se levantará y fornicaráH6965
+- Deu_32:38levántense...os ayuden y os defiendanH6965
+- Deu_33:11hiere los...para que nunca se levantenH6965
+- Deu_34:10nunca más se levantó profeta en IsraelH6965
+- Jos_1:2levántate y pasa este Jordán, tú yH6905
+- Jos_3:1Josué se levantó de mañana, y él y todosH7925
+- Jos_4:3levantadlas en el lugar donde habéis deH5117
+- Jos_4:8y las pasaron al...y las levantaron allíH5117
+- Jos_4:9Josué...levantó doce piedras en medio delH6965
+- Jos_6:12se levantó de mañana, y los sacerdotesH7925
+- Jos_6:15se levantaron al despuntar el alba, yH7925
+- Jos_6:26maldito...el hombre que se levantare yH6965
+- Jos_7:10Josué: Levántate; ¿por qué te postrasH6965
+- Jos_7:13levántate, santifica al pueblo, y díH6965
+- Jos_7:16levantándose de mañana hizo acercar aH7925
+- Jos_7:26levantaron sobre él un gran montón deH6965
+- Jos_8:1dijo a Josué...y levántate y sube a HaiH6905
+- Jos_8:3levantaron Josué y...para subir contra HaiH6965
+- Jos_8:7vosotros os levantaréis de la emboscadaH6965
+- Jos_8:10levantándose Josué muy de...pasó revistaH7925
+- Jos_8:19levantándose...de su lugar, la emboscadaH6965
+- Jos_8:29levantaron sobre él...montón de piedrasH6965
+- Jos_18:4ellos se levanten y recorran la tierraH6965
+- Jos_18:8levantándose...aquellos varones, fueronH6965
+- Jos_24:9después se levantó Balac hijo de ZiporH6965
+- Jos_24:26piedra, la levantó allí debajo de laH6965
+- Jue_2:10se levantó después...otra generaciónH6965
+- Jue_2:16Jehová levantó jueces que los librasenH6965
+- Jue_2:18y cuando Jehová les levantaba juecesH6965
+- Jue_3:9Jehová levantó un libertador a...IsraelH6965
+- Jue_3:15Jehová les levantó un libertador, a AodH6965
+- Jue_3:20Aod...él entonces se levantó de la sillaH6965
+- Jue_4:9y levantándose Débora, fue con Barac aH6965
+- Jue_4:14levántate, porque este es el día en queH6965
+- Jue_5:7yo Débora me levanté, me l como madre enH6965
+- Jue_5:12levántate, Barac, y lleva tus cautivosH6905
+- Jue_6:28cuando...se levantaron, he aquí que elH7925
+- Jue_6:38levantó de mañana, exprimió el vellónH7925
+- Jue_7:1levantándose, pues, de mañana JerobaalH7925
+- Jue_7:9levántate, y desciende al campamentoH6905
+- Jue_7:15Levantaos, porque Jehová ha entregadoH6905
+- Jue_8:20dijo a Jeter su...levántate, y mátalosH6965
+- Jue_8:21levántate tú...Gedeón se levantó, y matóH6965, [[[[H6965]]]]
+- Jue_8:28y nunca más volvió a levantar cabezaH5375
+- Jue_9:18os habéis levantado hoy contra la casaH6965
+- Jue_9:23de Siquem se levantaron contra AbimelecH898
+- Jue_9:32levántate...y el pueblo que está contigoH6965
+- Jue_9:34levantándose...Abimelec y todo el puebloH6965
+- Jue_9:35Abimelec...se levantaron de la emboscadaH6965
+- Jue_9:43y se levantó contra ellos y los atacóH6965
+- Jue_9:48levantándola...la puso sobre sus hombrosH5375
+- Jue_10:1levantó para librar a Israel Tola hijoH6965
+- Jue_10:3tras él se levantó Jair galaadita, elH6965
+- Jue_13:11se levantó Manoa, y siguió a su mujerH6965
+- Jue_16:3mas Sansón...a la medianoche se levantóH6965
+- Jue_18:9Levantaos, subamos...poneros en marchaH6905
+- Jue_18:30levantaron para sí la imagen de tallaH6965
+- Jue_18:31así tuvieron levantada entre ellos la imagen
+- Jue_19:3se levantó su marido y la siguió, paraH6965
+- Jue_19:5se levantaron...levantó también el levitaH7925, [[H6965]]
+- Jue_19:7y se levantó el varón para irse, peroH6965
+- Jue_19:8día, levantándose de mañana para irseH7925
+- Jue_19:9se levantó el varón para irse, él y suH6965
+- Jue_19:9levantaréis temprano a vuestro caminoH6965
+- Jue_19:10que se levantó y se fue, y llegó hastaH6965
+- Jue_19:27y se levantó por la mañana su señor, yH6965
+- Jue_19:28levántate, y vámonos...la levantó elH6965
+- Jue_19:28varón...se levantó y se fue a su lugarH6965
+- Jue_20:5y levantándose contra mí los de GabaaH6965
+- Jue_20:8el pueblo, como...se levantó, y dijeronH6965
+- Jue_20:18-19se levantaron los hijos de IsraelH6965
+- Jue_20:33se levantaron todos los de Israel deH6965
+- Jue_21:4al día siguiente el pueblo se levantóH7925
+- Rut_1:6levantó...regresó de los campos de MoabH6965
+- Rut_2:15luego se levantó para espigar. Y BoozH6965
+- Rut_3:14durmió a sus pies...se levantó antes queH6965
+- 1Sa_1:9levantó Ana después que hubo comidoH6965
+- 1Sa_1:19y levantándose de mañana, adoraronH7925
+- 1Sa_2:8él levanta del polvo al pobre, y delH6965
+- 1Sa_3:6levantándose Samuel, vino a Elí y dijoH6965
+- 1Sa_3:8levantó y vino a Elí, y dijo: Heme aquíH6965
+- 1Sa_5:3los de Asdod se levantaron de mañanaH7925
+- 1Sa_5:4volviéndose a levantar...Dagón había caídoH7925
+- 1Sa_9:3toma...levántate, y vé a buscar las asnasH6965
+- 1Sa_9:26y dijo: levántate...se levantó Saúl, yH7925
+- 1Sa_13:15levantándose Samuel, subió de GilgalH6965
+- 1Sa_15:12levantó un monumento, y dio la vueltaH7925
+- 1Sa_16:12dijo: levántate y úngelo, porque ésteH6965
+- 1Sa_16:13se levantó...Samuel, y se volvió a RamáH6965
+- 1Sa_17:20se levantó, pues, David de mañana, yH7925
+- 1Sa_17:35si se levantaba contra mí, yo...heríaH6965
+- 1Sa_17:48cuando el filisteo se levantó y echóH6965
+- 1Sa_17:52levantándose luego los de Israel y losH6965
+- 1Sa_18:27se levantó David y se fue con su genteH6965
+- 1Sa_20:25Jonatán se levantó, y se sentó AbnerH6965
+- 1Sa_20:34levantó Jonatán de la mesa con...iraH6965
+- 1Sa_20:41se levantó David del lado del sur, yH6965
+- 1Sa_20:42se levantó y se fue; y Jonatán entróH6965
+- 1Sa_21:10levantándose David aquel día, huyó deH6965
+- 1Sa_22:8cómo mi hijo ha levantado a mi siervoH6965
+- 1Sa_22:13para que se levantase contra mí y meH6965
+- 1Sa_23:4y dijo: levántate, desciende a KeilaH6965
+- 1Sa_23:13se levantó con sus hombres, que eranH6965
+- 1Sa_23:16se levantó Jonatán...y vino a David aH6965
+- 1Sa_23:24y ellos se levantaron, y se fueron aH6965
+- 1Sa_24:4y se levantó David, y...cortó la orillaH6965
+- 1Sa_24:7reprimió...que se levantasen contra SaúlH6965
+- 1Sa_24:8también David se levantó...de la cuevaH6965
+- 1Sa_25:1se levantó David y se fue al desiertoH6965
+- 1Sa_25:29aunque alguien se haya levantado paraH6965
+- 1Sa_25:41ella se levantó e inclinó su rostro aH6965
+- 1Sa_25:42levantándose luego Abigail con cincoH6965
+- 1Sa_26:2Saúl entonces se levantó y descendió alH6965
+- 1Sa_26:5se levantó David, y vino al sitio dondeH6965
+- 1Sa_27:2levantó, pues, David, y...se pasó a AquisH6965
+- 1Sa_28:23se levantó...y se sentó sobre una camaH6965
+- 1Sa_28:25después de haber comido, se levantaronH6965
+- 1Sa_29:10levántate, de mañana, tú y los siervosH7925
+- 1Sa_29:10y levantándoos al amanecer, marchadH7925
+- 1Sa_29:11se levantó David de mañana, él y susH7925
+- 1Sa_31:12los hombres valientes se levantaronH6965
+- 2Sa_2:14levántense ahora...Joab respondió: LH6965
+- 2Sa_2:15se levantaron, y pasaron en número igualH6965
+- 2Sa_2:22¿cómo levantaría...mi rostro delante deH5375
+- 2Sa_3:21dijo Abner...levantaré e iré, y juntaréH6965
+- 2Sa_6:2y se levantó David y partió de Baala deH6965
+- 2Sa_6:17una tienda que David le había levantadoH5186
+- 2Sa_7:12levantaré...a uno de tu linaje, el cualH6965
+- 2Sa_11:2que se levantó David de su lecho y seH6965
+- 2Sa_12:11yo haré levantar el mal sobre ti de tuH6965
+- 2Sa_12:17se levantaron los ancianos de su casaH6965
+- 2Sa_12:17a él para hacerlo levantar de la tierraH6965
+- 2Sa_12:20entonces David se levantó de la tierraH6965
+- 2Sa_12:21y muerto él, te levantaste y comisteH6965
+- 2Sa_13:15luego...dijo Amnón: levántate, y veteH6965
+- 2Sa_13:29se levantaron todos los hijos del reyH6965
+- 2Sa_13:31levantándose David, rasgó sus vestidosH6965
+- 2Sa_14:7toda la familia se ha levantado contraH6965
+- 2Sa_14:23se levantó luego Joab y fue a GesurH6965
+- 2Sa_14:31levantó Joab y vino a casa de AbsalónH6965
+- 2Sa_15:2levantaba Absalón de mañana, y se poníaH7925
+- 2Sa_15:9vé en paz...se levantó, y fue a HebrónH6965
+- 2Sa_15:14dijo a todos sus...Levantaos y huyamosH6965
+- 2Sa_17:1y me levantaré y seguiré a David estaH6965
+- 2Sa_17:21levantaos y daos prisa a pasar...aguasH6965
+- 2Sa_17:22David se levantó, y todo el pueblo queH6965
+- 2Sa_17:23y se levantó y se fue a su casa a suH6965
+- 2Sa_18:17y levantaron sobre él un...de piedrasH5324
+- 2Sa_18:28que habían levantado sus manos contraH5375
+- 2Sa_18:31los que se habían levantado contra tiH6965
+- 2Sa_18:32y todos los que se levanten contra tiH6965
+- 2Sa_19:7levántate...ahora, y vé afuera y hablaH6965
+- 2Sa_19:8entonces se levantó el rey y se sentóH6965
+- 2Sa_20:21Seba...levantado su mano contra el reyH5375
+- 2Sa_22:39los heriré, de modo que no se levantenH6965
+- 2Sa_22:49sobre los que se levantan contra míH6965
+- 2Sa_23:1dijo aquel...que fue levantado en altoH6965
+- 2Sa_23:10levantó e hirió a los filisteos hastaH6965
+- 2Sa_24:11cuando David se hubo levantado, vinoH6965
+- 2Sa_24:18y levanta un altar a Jehová en la eraH6965
+- 1Re_1:49se levantaron todos los convidadosH6965
+- 1Re_1:50Adonías...levantó y se fue, y se asió deH6965
+- 1Re_2:19y el rey se levantó a recibirla, y seH6965
+- 1Re_2:40Simei se levantó y ensilló su asno y fueH6965
+- 1Re_3:12ni después...se levantará otro como túH6965
+- 1Re_3:20levantó a medianoche y tomó a mi hijoH6965
+- 1Re_3:21yo me levanté...dar el pecho a mi hijoH6965
+- 1Re_8:20yo me he levantado en lugar de David miH6965
+- 1Re_8:54se levantó de estar de rodillas delanteH6965
+- 1Re_11:18se levantaron de Madián, y vinieron aH6965
+- 1Re_11:23Dios...levantó por adversario...a RezónH6965
+- 1Re_11:40Jeroboam se levantó y huyó a EgiptoH6965
+- 1Re_14:2levántate ahora y disfrázate, para queH6965
+- 1Re_14:4y la mujer de...se levantó y fue a SiloH6965
+- 1Re_14:7te levanté de en medio del pueblo, y teH7311
+- 1Re_14:12y tú levántate y vete a tu casa; y alH6965
+- 1Re_14:14Jehová levantará...un rey sobre IsraelH6965
+- 1Re_14:17la mujer de Jeroboam se levantó y seH6965
+- 1Re_15:4levantando a su hijo después de él, yH6965
+- 1Re_16:2yo te levanté del polvo y te puse porH7311
+- 1Re_17:9levántate, vete a Sarepta de Sidón, yH6965
+- 1Re_17:10él se levantó y se fue a SareptaH6965
+- 1Re_19:3se levantó y se fue para salvar su vidaH6965
+- 1Re_19:5un ángel le...y le dijo: Levántate, comeH6965
+- 1Re_19:7levántate y come, porque largo caminoH6965
+- 1Re_19:8se levantó, pues, y comió y bebió; yH6965
+- 1Re_19:21se levantó y fue tras Elías, Y le servíaH6965
+- 1Re_21:7levántate, y come y alégrate; yo te daréH6965
+- 1Re_21:15levántate y toma la viña de Nabot deH6965
+- 1Re_21:16Acab...levantó para descender a la viñaH6965
+- 1Re_21:18levántate, desciende a encontrarte conH6965
+- 2Re_1:3levántate, y sube a encontrarte conH6965
+- 2Re_1:4, 2Re_1:6del lecho en que estás no te levantarásH3381
+- 2Re_1:15se levantó, y descendió con él al reyH6965
+- 2Re_1:16no te levantarás, por tanto, del lechoH3381
+- 2Re_2:16quizá lo ha levantado el Espíritu de Jehová
+- 2Re_3:22cuando se levantaron por la mañana, yH7925
+- 2Re_3:24levantaron los israelitas y atacaron aH6965
+- 2Re_4:31se levantó y la siguió. Y Giezi habíaH6965
+- 2Re_6:15levantó de mañana y salió el que servíaH6965
+- 2Re_7:5se levantaron...al anochecer, para ir alH6965
+- 2Re_7:7así se levantaron y huyeron al anochecerH6965
+- 2Re_7:12y se levantó el rey de noche, y dijo aH6965
+- 2Re_8:1levántate, vete tú, a vivir donde puedasH6965
+- 2Re_8:2la mujer se levantó, e hizo como el varónH6965
+- 2Re_8:21y levantándose de noche atacó a los deH6965
+- 2Re_9:2haz que se levante de entre sus hermanosH6965
+- 2Re_9:6se levantó, y entró en casa; y el otroH6965
+- 2Re_10:12se levantó de allí para ir a SamariaH6965
+- 2Re_11:1se levantó y destruyó...la descendenciaH6965
+- 2Re_12:20levantaron sus siervos...mataron a JoásH6965
+- 2Re_13:21revivió, y se levantó sobre sus piesH6965
+- 2Re_16:7defiéndeme...se han levantado contra míH6965
+- 2Re_17:10levantaron estatuas e imágenes...AseraH5324
+- 2Re_19:22la voz, y levantado en alto tus ojos?[[H5375]]
+- 2Re_19:32no...ni levantará contra ella baluarteH8210
+- 2Re_19:35se levantaron...era cuerpos de muertosH7925
+- 2Re_21:3levantó altares a Baal, e hizo...imagenH6965
+- 2Re_25:1Jerusalén...y levantó torres contra ellaH1129
+- 2Re_25:26levantándose todo el pueblo, desde elH6965
+- 1Cr_10:12levantaron...los hombres valientesH6965
+- 1Cr_15:1para el arca...y le levantó una tiendaH5186
+- 1Cr_16:1la tienda que David había levantado paraH5186
+- 1Cr_17:11levantaré descendencia después de tiH6965
+- 1Cr_20:4se levantó guerra en Gezer contra losH5975
+- 1Cr_20:5volvió a levantarse guerra contra los
+- 1Cr_21:1pero Satanás se levantó contra IsraelH5975
+- 1Cr_22:16levántate, y manos a la obra; y JehováH6965
+- 1Cr_22:19levantaos, y edificad el santuario deH6965
+- 1Cr_28:2levantándose el rey David...dijo: OídmeH6965
+- 2Cr_1:4arca...le había levantado una tiendaH5186
+- 2Cr_6:10levanté yo en lugar de David mi padreH6965
+- 2Cr_6:41levántate...para habitar en tu reposoH6965
+- 2Cr_13:4y se levantó Abías sobre el monte deH6965
+- 2Cr_13:6Jeroboam...se levantó y rebeló contraH6965
+- 2Cr_20:19se levantaron los levitas de...de CoatH6965
+- 2Cr_20:20cuando se levantaron...salieron al desiertoH7925
+- 2Cr_20:23se levantaron contra los del monte deH5975
+- 2Cr_21:9se levantó de noche, y derrotó a losH6965
+- 2Cr_22:10Atalía...se levantó y exterminó toda laH6965
+- 2Cr_28:12se levantaron algunos varones de losH6965
+- 2Cr_28:15se levantaron los varones nombradosH6965
+- 2Cr_29:12se levantaron los levitas Mahat hijoH6965
+- 2Cr_29:20levantándose...rey Ezequías reunió losH7925
+- 2Cr_30:14levantándose, quitaron los altares queH6965
+- 2Cr_33:3y levantó altares a los baales, e hizoH6965
+- Esd_1:5se levantaron los jefes de las casasH6965
+- Esd_3:2levantaron Jesúa hijo de...y sus hermanosH6965
+- Esd_4:12los judíos...levantan los muros y reparanH3635
+- Esd_4:13que si...y los muros fueren levantadosH3635
+- Esd_4:16fuere...levantados sus muros, la regiónH3635
+- Esd_4:19se levanta contra los reyes y se rebelaH5376
+- Esd_5:2se levantaron Zorobabel hijo de SalatielH6965
+- Esd_5:3para edificar...y levantar estos muros?[[H3635]]
+- Esd_5:9os dio orden...para levantar estos muros?[[H3635]]
+- Esd_9:5a la hora del sacrificio...me levanté deH6965
+- Esd_9:6avergonzado estoy para levantar...rostroH7311
+- Esd_9:9para levantar la casa de nuestro Dios yH7311
+- Esd_10:4levántate, porque esta es tu obligaciónH6965
+- Esd_10:5se levantó...y juramentó a los príncipesH6965
+- Esd_10:6se levantó...Esdras de delante de la casaH6965
+- Esd_10:10levantó...Esdras y les dijo: VosotrosH6965
+- Neh_2:12me levanté de noche, yo y unos pocosH6965
+- Neh_2:18y dijeron: Levantémonos y edifiquemosH6965
+- Neh_2:20nos levantaremos y edificaremos, porqueH6965
+- Neh_3:1se levantó el sumo sacerdote Eliasib conH6965
+- Neh_3:1y levantaron sus puertas hasta la torreH6965
+- Neh_3:3, Neh_3:6, Neh_3:13levantaron sus puertas...cerrojosH5975
+- Neh_3:14-15levantó sus puertas, sus cerradurasH5975
+- Neh_4:14me levanté y dije a los nobles y a losH6965
+- Neh_9:4luego se levantaron sobre la grada de losH6965
+- Neh_9:5levantaos, bendecid a Jehová vuestro DiosH7311
+- Est_5:9que no se levantaba ni se movía de suH6965
+- Est_7:7el rey se levantó del banquete...en iraH6965
+- Est_8:4rey...y Ester se levantó, y se puso en pieH6965
+- Job_1:5Job...se levantaba de mañana y ofrecíaH7925
+- Job_1:20se levantó, y rasgó su manto, y rasuróH6965
+- Job_5:7como las chispas se levantan para volarH1361
+- Job_5:11y a los enlutados levanta a seguridadH7682
+- Job_7:4acostado, digo: ¿Cuándo me levantaré?[[H6965]]
+- Job_10:15si fuere justo, no levantaré mi cabezaH5375
+- Job_11:15levantarás tu rostro limpio de manchaH5375
+- Job_14:12hombre yace y no vuelve a levantarseH6965
+- Job_14:12hombre...ni se levantarán de su sueñoH5782
+- Job_16:8se levanta contra mí para testificar enH6965
+- Job_17:8el inocente se levantará contra el impíoH5782
+- Job_19:18aun...al levantarme, hablaban contra míH6965
+- Job_19:25y al fin se levantará sobre el polvoH6965
+- Job_20:27cielos...tierra se levantará contra élH6965
+- Job_24:14a la luz se levanta el matador; mataH6965
+- Job_24:22una vez que se levante, ninguno estáH6965
+- Job_29:8los ancianos se levantaban, y estabanH6965
+- Job_30:12mano derecha se levantó el populachoH6965
+- Job_30:28me he levantado en la congregación, yH6965
+- Job_31:14qué haría yo cuando Dios se levantase?[[H6965]]
+- Job_39:18luego que se levanta en alto, se burlaH4754
+- Sal_1:5por tanto, no se levantarán los malosH6965
+- Sal_2:2se levantarán los reyes de la tierra, yH3320
+- Sal_3:1muchos son los que se levantan contra míH6965
+- Sal_3:3mi gloria, y el que levanta mi cabezaH7311
+- Sal_3:7levántate, Jehová; sálvame, Dios míoH6965
+- Sal_7:6levántate, oh Jehová, en tu ira; álzateH6965
+- Sal_9:13tú que me levantas de las puertas de laH7311
+- Sal_9:19levántate, oh Jehová; no se fortalezcaH6965
+- Sal_10:12levántate, oh Jehová Dios, alza tu manoH6965
+- Sal_12:5levantaré, dice Jehová; pondré en salvoH6965
+- Sal_17:7de los que se levantan contra ellosH6965
+- Sal_17:13levántate, oh Jehová...a su encuentroH6965
+- Sal_18:38los herí de modo que no se levantasenH6965
+- Sal_18:48aun me eleva sobre los que se levantanH6965
+- Sal_20:8nosotros nos levantamos, y estamos enH6965
+- Sal_25:1a ti, oh Jehová, levantaré mi almaH5375
+- Sal_27:3aunque contra mí se levante guerra, yoH6965
+- Sal_27:6levantará mi cabeza sobre mis enemigosH7311
+- Sal_27:12han levantado contra mí testigos falsosH6965
+- Sal_35:2echa mano al...y levántate en mi ayudaH6965
+- Sal_35:11se levantan testigos malvados; de loH6965
+- Sal_36:12derribados, y no podrán levantarseH6965
+- Sal_40:12maldades, y no puede levantar la vistaH7200
+- Sal_41:8que cayó en cama no volverá a levantarseH6965
+- Sal_41:10misericordia de mí, y hazme levantarH6965
+- Sal_44:26levántate para ayudarnos, y redímenosH6965
+- Sal_54:3extraños se han levantado contra mí, yH6965
+- Sal_57:8despierta, alma...me levantaré de mañanaH5782
+- Sal_59:1a salvo de los que se levantan contra míH6965
+- Sal_68:1levántese Dios, sean esparcidos susH6965
+- Sal_71:20de nuevo me levantarás de los abismosH5927
+- Sal_74:5parecen a los que levantan el hacha enH935, [[H4605]]
+- Sal_74:22levántate, oh Dios, aboga tu causaH6965
+- Sal_74:23alboroto de los que se levantan contraH6965
+- Sal_76:9cuando te levantaste, oh Dios...juzgarH6965
+- Sal_78:6los que se levantarán lo cuentan a susH6965
+- Sal_82:8levántate, oh Dios, juzga la tierraH6965
+- Sal_86:4porque a ti, oh Señor, levanto mi almaH5375
+- Sal_86:14los soberbios se levantaron contra míH6965
+- Sal_88:10¿se levantarán los muertos...alabarte?[[H6965]]
+- Sal_89:9cuando se levantan sus ondas, tú lasH7721
+- Sal_89:43espada, y no lo levantaste en la batallaH6965
+- Sal_92:11oirán...de los que se levantaron contraH6965
+- Sal_94:16¿quién se levantará por mí contra losH6965
+- Sal_98:4levantad la voz, y aplaudid, y cantadH6476
+- Sal_102:13levantarás y tendrás misericordia deH6965
+- Sal_106:30se levantó Finees e hizo juicio, y seH5975
+- Sal_107:25hizo levantar un viento tempestuosoH5975
+- Sal_107:41levanta de la miseria al pobre, y haceH7682
+- Sal_109:28levántense, mas sean avergonzados, yH6965
+- Sal_110:7beberá...por lo cual levantará la cabezaH7311
+- Sal_113:7él levanta del polvo al pobre, y alH6965
+- Sal_119:62medianoche me levanto para alabarteH6965
+- Sal_124:2cuando se levantaron contra nosotrosH6965
+- Sal_127:2por demás...os levantéis de madrugadaH6965
+- Sal_132:8levántate...al lugar de tu reposo, túH6965
+- Sal_139:2conocido mi sentarme y mi levantarmeH6965
+- Sal_145:14Jehová...levanta a todos los oprimidosH2210
+- Sal_146:8Jehová levanta a los caídos...ama a losH2210
+- Pro_6:9¿cuándo te levantarás de tu sueño?[[H6965]]
+- Pro_16:28el hombre perverso levanta contiendaH7971
+- Pro_18:10él correrá el justo, y será levantadoH7682
+- Pro_24:16cae el justo, y vuelve a levantarseH6965
+- Pro_28:12cuando se levantan los impíos, tienenH6965
+- Pro_28:28los impíos son levantados se escondeH6965
+- Pro_29:22el hombre iracundo levanta contiendasH1624
+- Pro_30:13generación...párpados están levantadosH7311
+- Pro_31:15se levanta...y da comida a su familiaH6965
+- Pro_31:28se levantan sus hijos y...bienaventuradaH6965
+- Ecl_1:5a volver al lugar de donde se levantaH2224
+- Ecl_4:10el uno levantará a su compañero; peroH6965
+- Ecl_4:10cuando cayere, no habrá...que lo levanteH6965
+- Ecl_9:14y levanta contra ella grandes baluartesH1129
+- Ecl_12:4se levantará a la voz del ave, y todasH6965
+- Cnt_2:10, Cnt_2:13levántate, oh amiga mía, hermosaH6965
+- Cnt_3:2levantaré ahora, y rodearé por la ciudadH6965
+- Cnt_4:16levántate, Aquilón, y ven, Austro; sopladH5782
+- Cnt_5:5me levanté para abrir a mi amado, y misH6965
+- Cnt_7:12Levantémonos de mañana a las viñasH7925
+- Isa_2:19, Isa_2:21se levante para castigar la tierraH6965
+- Isa_3:5el joven se levantará contra el ancianoH7292
+- Isa_5:11de los que se levantan de mañana paraH6965
+- Isa_8:21maldecirán a su...levantando el rostroH4605
+- Isa_9:11Jehová levantará los enemigos de RezínH7682
+- Isa_10:15¡como si...levantase al que lo levantaH5130, [[H7311]]
+- Isa_10:26levantará Jehová...azote contra él comoH5782
+- Isa_11:12y levantará pendón a las naciones, yH5375
+- Isa_11:15levantará su mano con el poder de suH5130
+- Isa_13:2levantad bandera sobre un alto monteH5375
+- Isa_13:20ni levantará allí tienda el árabe, niH167
+- Isa_14:9hizo levantar de sus sillas a todos losH6965
+- Isa_14:13levantaré mi trono, y en el monte delH7311
+- Isa_14:21no se levanten, ni posean la tierra, niH6965
+- Isa_14:22porque yo me levantaré contra ellosH6965
+- Isa_15:5levantarán grito de quebrantamiento porH5782
+- Isa_18:3se levante bandera en los montes, miradH5375
+- Isa_19:2levantaré egipcios contra egipcios, yH5526
+- Isa_19:16la mano...que él levantará contra ellosH5130
+- Isa_21:5¡levantaos...príncipes, ungid el escudo![[H6965]]
+- Isa_23:4ni crié jóvenes, ni levanté vírgenesH7311
+- Isa_23:12levántate para pasar a Quitim, y aunH6965
+- Isa_23:13levantaron sus fortalezas, edificaronH6965
+- Isa_24:20ella...caerá, y nunca más se levantaráH6965
+- Isa_27:9y no se levanten los símbolos de AseraH6965
+- Isa_28:21Jehová se levantará como en el monteH6965
+- Isa_29:3sitiaré...levantaré contra ti baluartesH6965
+- Isa_31:2se levantará, pues, contra...los malignosH6965
+- Isa_32:9mujeres indolentes, levantaos, oíd miH6965
+- Isa_33:3las naciones...esparcidas al levantarteH7427
+- Isa_33:10me levantaré, dice Jehová; ahora seréH6965
+- Isa_34:3y de sus cadáveres se levantará hedorH5927
+- Isa_37:23¿contra quién has...levantado tus ojosH7311
+- Isa_37:33no...ni levantará contra ella baluarteH8210
+- Isa_37:36y cuando se levantaron por la mañanaH7925
+- Isa_40:9levanta...tu voz...levántala, no temas; díH7311
+- Isa_40:26levantad en alto vuestros ojos, Y miradH5375
+- Isa_40:31pero...levantarán alas como las águilasH5927
+- Isa_41:25del norte levanté a uno, y vendrá; delH4217
+- Isa_43:17caen juntamente para no levantarseH6965
+- Isa_49:6mi siervo para levantar las tribus deH6965
+- Isa_49:7verán reyes, y se levantarán príncipesH6965
+- Isa_49:11montes, y...calzadas serán levantadasH7311
+- Isa_49:22y a los pueblos levantaré mi banderaH5375
+- Isa_51:17levántate, oh Jerusalén, que bebisteH6965
+- Isa_52:2polvo; levántate y siéntate, JerusalénH6965
+- Isa_54:1levanta canción y da voces de júbiloH6476
+- Isa_54:17toda lengua que se levante contra tiH6965
+- Isa_55:12collados levantarán canción delante deH6476
+- Isa_58:12cimientos de generación y...levantarásH6965
+- Isa_59:19el Espíritu de Jehová levantará banderaH4217
+- Isa_60:1levántate, resplandece, ha venido tu luzH6965
+- Isa_61:4y levantarán los asolamientos primerosH6965
+- Isa_63:9trajo, y los levantó todos los días deH5375
+- Jer_1:17tú, pues, ciñe tus lomos, levántateH6965
+- Jer_2:27y en el dicen: levántate, y líbranosH6965
+- Jer_2:28tus dioses...levántense ellos, a ver siH6965
+- Jer_5:22mar...Se levantarán tempestades, mas noH1607
+- Jer_6:4levantaos y asaltémosla a mediodía. ¡AyH6965
+- Jer_6:5levantaos y asaltemos de...sus palaciosH6965
+- Jer_6:6levantad vallado Contra Jerusalén; estaH8210
+- Jer_6:22levantará de los confines de la tierraH5782
+- Jer_7:16ni levantes por ellos clamor ni oraciónH5375
+- Jer_7:29corta tu cabello...levanta llanto sobreH5375
+- Jer_8:4les dirás...El que cae, ¿no se levanta?[[H6965]]
+- Jer_9:10levantaré lloro y lamentación, y llantoH5375
+- Jer_9:18prisa, y levanten llanto por nosotrosH5375
+- Jer_10:20no hay ya más quien levante mi tiendaH6965
+- Jer_11:14levantes por ellos clamor ni oraciónH5375
+- Jer_12:6aun ellos se levantaron contra ti, aun
+- Jer_13:4cinto...y levántate y vete al EufratesH6965
+- Jer_13:6levántate y vete al Eufrates, y toma deH6965
+- Jer_18:2levántate y vete a casa del alfareroH6965
+- Jer_23:5en que levantaré a David renuevo justoH6965
+- Jer_25:27no os levantéis, a causa de la espadaH6965
+- Jer_25:32tempestad se levantará de los fines deH5782
+- Jer_26:17se levantaron algunos de los ancianosH6965
+- Jer_29:15dicho: Jehová nos ha levantado profetasH6965
+- Jer_30:9servirán a...su rey, a quien...levantaréH6965
+- Jer_31:6levantaos, y subamos a Sion, a JehováH6965
+- Jer_37:10cada uno se levantará de su tienda, yH6965
+- Jer_41:2se levantó Ismael...e hirieron a espadaH6965
+- Jer_46:16levántate y volvámonos a...pueblo, y aH6965
+- Jer_49:28levantaos, subid...Cedar, y destruid aH6965
+- Jer_49:31levantaos...contra una nación pacíficaH6965
+- Jer_50:2levantad también bandera, publicad, yH5375
+- Jer_50:9levanto y hago subir contra BabiloniaH5782
+- Jer_50:32y caerá, y no tendrá quien lo levanteH6965
+- Jer_50:41reyes se levantarán de los extremos deH5782
+- Jer_51:1yo levanto un viento destruidor contraH5782
+- Jer_51:1sus moradores que se levantan contra míH6965
+- Jer_51:12levantad bandera sobre los muros deH5375
+- Jer_51:14llenaré...levantarán contra ti griteríaH6030
+- Jer_51:64no se levantará del mal que yo traigoH6965
+- Lam_1:14contra las cuales no podré levantarmeH6965
+- Lam_2:19levántate, da voces en la noche, alH6965
+- Lam_3:41levantemos nuestros corazones y manosH5375
+- Lam_3:62dichos de...que contra mí se levantaronH6965
+- Lam_3:63su sentarse y su levantarse mira; yo soyH7012
+- Eze_1:19, Eze_1:21cuando...levantaban...las ruedas se lH5375
+- Eze_1:20ruedas también se levantaban tras ellosH5375
+- Eze_3:12me levantó el Espíritu, y oí detrás deH5375
+- Eze_3:14me levantó, pues, el Espíritu, y me tomóH5375
+- Eze_3:22levántate, y sal al campo...allí hablaréH6965
+- Eze_3:23y me levanté y salí al campo; y he aquíH6965
+- Eze_7:11la violencia se ha levantado en vara deH6965
+- Eze_10:15se levantaron los querubines; este esH7426
+- Eze_10:16alzaban sus alas para levantarse de laH5375
+- Eze_10:19alzando los querubines; se levantaronH5375
+- Eze_11:24me levantó el Espíritu y me volvió aH5375
+- Eze_17:14que el reino fuese...y no se levantaseH5375
+- Eze_17:17levanten vallados y se edifiquen torresH8210
+- Eze_17:24levanté el árbol bajo, hice secar elH1361
+- Eze_19:1levanta endecha sobre los príncipes deH5375
+- Eze_21:22para levantar la voz en grito de guerraH7311
+- Eze_21:22levantar vallados, y edificar torresH8210
+- Eze_23:27no levantarás ya más a ellos tus ojosH5375
+- Eze_26:8levantará contra ti baluarte, y escudoH8210
+- Eze_26:17y levantarán sobre ti endechas, y teH5375
+- Eze_27:2tú, hijo...levanta endechas sobre TiroH5375
+- Eze_27:32levantarán sobre ti endechas en susH5375
+- Eze_28:12levanta endechas sobre el rey de TiroH5375
+- Eze_31:10levantado su cumbre entre densas ramasH5414
+- Eze_31:14ni levanten su copa entre la espesuraH5414
+- Eze_32:2levanta endechas sobre Faraón rey deH5375
+- Eze_34:23levantaré sobre ellas a un pastor, yH6965
+- Eze_34:29levantaré para...una planta de renombreH6965
+- Dan_2:39después de ti se levantará otro reinoH6966
+- Dan_2:44el Dios del cielo levantará un reino queH6966
+- Dan_3:1la levantó en el campo de Dura, en laH6966
+- Dan_3:2-3(2),5,7estatua que el rey...levantadoH6966
+- Dan_3:12ni adoran la estatua...que has levantadoH6966
+- Dan_3:14ni adoráis la estatua...que he levantado?[[H6966]]
+- Dan_3:18ni...adoraremos la estatua...has levantadoH6966
+- Dan_3:24se levantó...y dijo a los de su consejoH6965
+- Dan_6:19el rey, pues, se levantó muy de mañanaH6966
+- Dan_7:4levantada del suelo y se puso enhiestaH5191
+- Dan_7:5fue dicho...Levántate, devora mucha carneH6966
+- Dan_7:17son cuatro reyes que se levantarán enH6966
+- Dan_7:24de aquel reino se levantarán diez reyesH6966
+- Dan_7:24y tras ellos se levantará otro, el cualH6966
+- Dan_8:7y se levantó contra él y lo hirió, y leH7993
+- Dan_8:22que cuatro reinos se levantarán de esaH5975
+- Dan_8:23se levantará un rey altivo de rostroH5975
+- Dan_8:25se levantará contra el Príncipe de losH5975
+- Dan_11:2levantará a...contra el reino de GreciaH5975
+- Dan_11:3se levantará luego un rey valiente, elH5975
+- Dan_11:4cuando se haya levantado, su reino seráH5975
+- Dan_11:7un renuevo...se levantará sobre su tronoH5975
+- Dan_11:14se levantarán muchos contra el rey delH5975
+- Dan_11:14se levanarán para cumplir la visiónH5375
+- Dan_11:15norte, y levantará baluartes, y tomaráH8210
+- Dan_11:20se levantará en su lugar uno que haráH5975
+- Dan_11:31se levantarán de su parte tropas queH5975
+- Dan_11:40el rey del norte se levantará contra élH5921
+- Dan_12:1se levantará Miguel, el gran príncipeH5975
+- Dan_12:13te levantarás para recibir tu heredadH5975
+- Ose_4:8comen, y en su maldad levantan su almaH5375
+- Ose_10:14en tus pueblos se levantará alborotoH6965
+- Ose_13:15se levantará desde el desierto, y seH5927
+- Joe_3:7yo los levantaré del lugar donde losH5782
+- Amó_2:11levanté de vuestros hijos...profetasH6965
+- Amó_3:5¿se levantará el lazo de la tierra, siH5927
+- Amó_5:1palabra que yo levanto para lamentaciónH5375
+- Amó_5:2cayó la virgen de...y no podrá levantarseH6965
+- Amó_5:2sobre su tierra, no hay quien la levanteH6965
+- Amó_6:14levantaré...una nación que os oprimiráH6965
+- Amó_7:2, Amó_7:5¿quién levantará a Jacob? porque esH6965
+- Amó_7:9me levantaré con espada sobre la casa deH6965
+- Amó_7:10decir...Amós se ha levantado contra tiH7194
+- Amó_8:14juran...caerán, y nunca...se levantaránH6965
+- Amó_9:11levantaré el tabernáculo caído de DavidH6965
+- Amó_9:11y levantaré sus ruinas, y lo edificaréH6965
+- Abd_1:1levantaos, y levantémonos contra esteH6965, [[[[H6965]]]]
+- Jon_1:2levántate y vé a Nínive, aquella granH6965
+- Jon_1:3Jonás se levantó para huir de...de JehováH6965
+- Jon_1:4Jehová hizo levantar un gran viento enH2904
+- Jon_1:6levántate, y clama a tu Dios; quizá élH6965
+- Jon_3:2levántate y vé a Nínive, aquella...ciudadH6965
+- Jon_3:3levantó Jonás, y fue a Nínive conformeH6965
+- Jon_3:6se levantó de su silla, se despojó deH6965
+- Miq_2:4levantarán sobre vosotros refrán, yH5375
+- Miq_2:8que ayer era mi pueblo, se ha levantadoH6965
+- Miq_2:10levantaos y andad, porque no es este elH6965
+- Miq_4:13levántate y trilla, hija de Sion...haréH6965
+- Miq_5:5levantaremos contra él siete pastores, yH6965
+- Miq_6:1levántate, contiende contra los montesH6965
+- Miq_7:6la hija se levanta contra la madre, laH6965
+- Miq_7:8porque aunque caí, me levantaré; aunqueH6965
+- Hab_1:3mí, y pleito y contienda se levantanH5375
+- Hab_1:6yo levanto a los caldeos, nación cruelH6965
+- Hab_1:10reirá...y levantará terraplén y la tomaráH6651
+- Hab_2:6¿no han de levantar todos éstos refránH5375
+- Hab_2:7¿no se levantarán...tus deudores, y seH6965
+- Hab_2:19que dice...a la piedra muda: Levántate![[H5782]]
+- Hab_3:6se levantó, y midió la tierra; miró, eH5975
+- Sof_2:7Jehová su...levantará su cautiverioH7725
+- Sof_3:8hasta el día...me levante para juzgarosH6965
+- Sof_3:20levante vuestro cautiverio delante deH7725
+- Zac_2:13se ha levantado de su santa moradaH5782
+- Zac_5:7levantaron la tapa de plomo, y una mujerH5375
+- Zac_11:16levanto en la tierra a un pastor queH6965
+- Zac_13:7levántate, oh espada, contra el pastorH5782
+- Zac_14:13levantará su mano contra la mano de suH5927
+- Mat_2:13, Mat_2:20levántate, y toma al niño y a suG1453
+- Mat_2:21se levantó, y tomó al niño y a su madreG1453
+- Mat_3:9que Dios puede levantar hijos a AbrahamG1453
+- Mat_8:15tocó su mano, y ella se levantó, y lesG1453
+- Mat_8:24que se levantó en el mar una tempestadG1096
+- Mat_8:26levantándose, reprendió a los vientosG1453
+- Mat_9:5perdonados, o decir: levántate y anda?[[G1453]]
+- Mat_9:6levántate, toma tu cama, y vete a...casaG1453
+- Mat_9:7entonces él se levantó y...fue a su casaG1453
+- Mat_9:9dijo: Sígueme. Y se levantó y le siguióG450
+- Mat_9:19se levantó Jesús, y le siguió con susG1453
+- Mat_9:25de la mano a la niña, y ella se levantóG1453
+- Mat_10:21hijos se levantarán contra los padresG1881
+- Mat_11:11no se ha levantado otro mayor que JuanG1453
+- Mat_11:23tú...que eres levantada hasta el cieloG5312
+- Mat_12:11oveja...no le eche mano, y la levante?[[G1453]]
+- Mat_12:41de Nínive se levantarán en el juicioG450
+- Mat_12:42reina del Sur se levantará en el juicioG1453
+- Mat_14:19levantando los ojos al cielo, bendijoG308
+- Mat_17:7los tocó, y dijo: Levantaos, y no temáisG1453
+- Mat_22:24y levantará descendencia a su hermanoG450
+- Mat_24:7se levantará nación contra nación, yG1453
+- Mat_24:11muchos falsos profetas se levantaránG1453
+- Mat_24:24porque se levantarán falsos CristosG1453
+- Mat_25:7todas aquellas vírgenes se levantaronG1453
+- Mat_26:46levantaos, vamos; ved, se acerca elG1453
+- Mat_26:62y levantándose el sumo sacerdote, leG450
+- Mat_27:52muchos cuerpos de santos...levantaronG1453
+- Mar_1:31él...la tomó de la mano y la levantóG1453
+- Mar_1:35levantándose muy de mañana, siendo aúnG450
+- Mar_2:9o decirle: levántate, toma tu...y anda?[[G1453]]
+- Mar_2:11levántate, toma tu lecho, y vete a tuG1453
+- Mar_2:12él se levantó...tomando su lecho, salióG1453
+- Mar_2:14y le dijo: Sígueme. Y levantándose, leG450
+- Mar_3:3la mano seca: levántate y ponte en medioG1453
+- Mar_3:26si Satanás se levanta contra sí mismoG450
+- Mar_4:27se levanta...y la semilla brota y creceG1453
+- Mar_4:37se levantó una gran tempestad de vientoG1096
+- Mar_4:39y levantándose, reprendió al viento, yG1326
+- Mar_5:41le dijo...Niña, a ti te digo, levántateG1453
+- Mar_5:42luego la niña se levantó y andaba, puesG450
+- Mar_6:41levantando los ojos al cielo, bendijoG308
+- Mar_7:24levantándose de...fue a la región de TiroG450
+- Mar_7:34levantando los ojos al cielo, gimió, yG308
+- Mar_9:27Jesús, tomándole de la mano...se levantóG450
+- Mar_10:1levantándose de allí, vino a la regiónG450
+- Mar_10:49ten confianza; levántate, te llamaG1453
+- Mar_10:50él entonces...se levantó y vino a JesúsG450
+- Mar_12:19y levante descendencia a su hermanoG1817
+- Mar_13:8se levantará nación contra nación, yG1453
+- Mar_13:12y se levantarán los hijos contra losG1881
+- Mar_13:22se levantarán falsos Cristos, y falsosG1453
+- Mar_14:42levantaos, vamos; he aquí, se acerca elG1453
+- Mar_14:57levantándose...dieron falso testimonioG450
+- Mar_14:60sumo sacerdote, levantándose en medioG450
+- Luc_1:39levantándose María, fue de prisa a laG450
+- Luc_1:69nos levantó un poderoso Salvador en laG1453
+- Luc_3:8Dios puede levantar hijos...aun de estasG1453
+- Luc_4:16entró en la sinagoga...se levantó a leerG450
+- Luc_4:29y levantándose, le echaron fuera de laG450
+- Luc_4:38Jesús se levantó y salió de la sinagogaG450
+- Luc_4:39levantándose ella al instante...servíaG450
+- Luc_5:23es más fácil...decir: levántate y anda?[[G1453]]
+- Luc_5:24levántate, toma tu lecho, y vete a tuG1453
+- Luc_5:25levantándose en presencia de ellos, yG450
+- Luc_5:28dejándolo todo, se levantó y le siguióG450
+- Luc_6:8al hombre...levántate, y ponte en medioG1453
+- Luc_6:8ponte...Y él, levantándose, se puso en pieG450
+- Luc_7:14dijo: Joven, a ti te digo, levántateG1453
+- Luc_7:16un gran profeta se ha levantado entreG1453
+- Luc_8:54él...clamó diciendo: Muchacha, levántateG1453
+- Luc_8:55inmediatamente se levantó; y él mandóG450
+- Luc_9:16levantando los ojos al cielo...bendijoG308
+- Luc_10:15tú...que hasta los cielos eres levantadaG5312
+- Luc_10:25se levantó y dijo...Maestro, ¿haciendoG450
+- Luc_11:7dice...no puedo levantarme, y dártelos?[[G450]]
+- Luc_11:8aunque no se levante a dárselos por serG1453
+- Luc_11:8por su importunidad se levantará y leG450
+- Luc_11:27una mujer de...levantó la voz y le dijoG1869
+- Luc_11:31reina del Sur se levantará en el juicioG1453
+- Luc_11:32de Nínive se levantarán en el juicioG450
+- Luc_13:25se haya levantado y cerrado la puertaG1453
+- Luc_15:18levantaré e iré a mi padre, y le diréG450
+- Luc_15:20levantándose, vino a su padre...lo vioG450
+- Luc_16:31aunque alguno se levantare de...muertosG450
+- Luc_17:19levántate, vete; tu fe te ha salvadoG450
+- Luc_20:28y levante descendencia a su hermanoG1817
+- Luc_21:1levantando los ojos, vio a los ricos queG308
+- Luc_21:10se levantará nación contra nación, yG1453
+- Luc_21:28erguíos y levantad vuestra cabezaG1869
+- Luc_22:45se levantó de la oración, y vino a susG450
+- Luc_22:46levantaos, y orad para que no entréisG450
+- Luc_23:1levantándose...la muchedumbre de ellosG450
+- Luc_24:12levantándose Pedro, corrió al sepulcroG450
+- Luc_24:33levantándose en la...hora, volvieron aG450
+- Jua_2:19destruid...y en tres días lo levantaréG1453
+- Jua_2:20dijeron...tú en tres días lo levantarás?[[G1453]]
+- Jua_3:14como Moisés levantó la serpiente en elG5312
+- Jua_3:14que el Hijo del Hombre sea levantadoG5312
+- Jua_5:8dijo: levántate, toma tu lecho, y andaG1453
+- Jua_5:21como el Padre levanta a los muertos, yG1453
+- Jua_6:18se levantaba el mar con un gran vientoG1326
+- Jua_7:52de Galilea nunca se ha levantado profetaG1453
+- Jua_8:28hayáis levantado al Hijo del HombreG5312
+- Jua_11:29cuando lo oyó, se levantó de prisa yG1453
+- Jua_11:31que María se había levantado de prisaG450
+- Jua_12:32y yo, si fuere levantado de la tierraG5312
+- Jua_12:34que el Hijo del Hombre sea levantado?[[G5312]]
+- Jua_13:4levantó de la cena, y se quitó su mantoG1453
+- Jua_13:18el que...levantó contra mí su calcañarG1869
+- Jua_14:31así hago. Levantaos, vamos de aquíG1453
+- Jua_17:1y levantando los ojos al cielo, dijoG1869
+- Hec_1:15Pedro se levantó en medio de losG450
+- Hec_2:24al cual Dios levantó, sueltos los doloresG450
+- Hec_2:30levantaría. Cristo para que se sentaseG450
+- Hec_3:6nombre de Jesucristo...levántate y andaG1453
+- Hec_3:7tomándole por la mano derecha le levantóG1453
+- Hec_3:22el Señor...Dios os levantará profeta deG450
+- Hec_3:26Dios, habiendo levantado a su Hijo, loG450
+- Hec_5:6levantándose los jóvenes...lo sepultaronG450
+- Hec_5:17levantándose el sumo sacerdote y todosG450
+- Hec_5:30Dios de nuestros padres levantó a JesúsG1453
+- Hec_5:34levantándose en el concilio un fariseoG450
+- Hec_5:36antes de estos días se levantó TeudasG450
+- Hec_5:37se levantó Judas el galileo, en los díasG450
+- Hec_6:9se levantaron unos de la...de los libertosG450
+- Hec_7:18hasta que se levantó en Egipto otro reyG450
+- Hec_7:37profeta os levantará el Señor...de entreG450
+- Hec_8:26diciendo: Levántate y vé hacia el surG450
+- Hec_8:27él se levantó y fue. Y sucedió que unG450
+- Hec_9:6levántate y entra en la ciudad, y se teG450
+- Hec_9:8Saulo se levantó...y abriendo los ojos, noG1453
+- Hec_9:11dijo: Levántate, y vé a la calle que seG450
+- Hec_9:18la vista; y levantándose, fue bautizadoG450
+- Hec_9:34sana; levántate...Y en seguida se levantóG450
+- Hec_9:39levantándose entonces Pedro, fue conG450
+- Hec_9:40y volviéndose...dijo: Tabita, levántateG450
+- Hec_9:41dándole la mano, la levantó; entoncesG450
+- Hec_10:13una voz: levántate, Pedro, mata y comeG450
+- Hec_10:20levántate...y desciende, y no dudes deG450
+- Hec_10:23levantándose, se fue con ellos; y le
+- Hec_10:26Pedro le levantó, diciendo: LevántateG1453
+- Hec_10:40a éste levantó Dios al tercer día, eG1453
+- Hec_11:7me decía: levántate, Pedro, mata y comeG450
+- Hec_11:28levantándose uno de ellos, llamadoG450
+- Hec_12:7le despertó, diciendo: levántate prontoG1453
+- Hec_13:16Pablo, levantándose...dijo: VaronesG450
+- Hec_13:17con brazo levantado los sacó de ellaG5312
+- Hec_13:22quitado...les levantó por rey a DavidG1453
+- Hec_13:23levantó a Jesús por Salvador a IsraelG1453
+- Hec_13:30mas Dios le levantó de los muertosG1453
+- Hec_13:34cuanto a que le levantó de los muertosG450
+- Hec_13:37quien Dios levantó, no vio corrupciónG1453
+- Hec_13:50levantaron persecución contra Pablo yG1892
+- Hec_14:10voz: Levántate derecho sobre tus piesG450
+- Hec_14:20se levantó y entró en la ciudad; y alG450
+- Hec_15:5se levantaron diciendo: Es necesarioG450
+- Hec_15:7Pedro se levantó y les dijo: VaronesG450
+- Hec_15:16repararé sus...y lo volveré a levantarG461
+- Hec_17:31con haberle levantado de los muertosG450
+- Hec_18:12judíos se levantaron de común acuerdoG2721
+- Hec_20:9cayó del...abajo, y fue levantado muertoG142
+- Hec_20:30se levantarán hombres que hablen cosasG450
+- Hec_21:38¿no eres tú...que levantó una sediciónG387
+- Hec_22:10me dijo: levántate, y vé a Damasco, yG450
+- Hec_22:16levántate y bautízate, y lava...pecadosG450
+- Hec_23:9levantándose los escribas de la parteG1096
+- Hec_26:16pero levántate, y ponte sobre tus piesG450
+- Hec_26:30se levantó el rey, y el gobernador, yG450
+- Rom_4:24; Rom_8:11levantó de los muertos a JesúsG1453
+- Rom_9:17para esto mismo te he levantado, paraG1825
+- Rom_10:9creyeres en tu...que Dios le levantó deG1453
+- Rom_13:11es ya hora de levantarnos del sueñoG1453
+- Rom_15:12que se levantará a regir los gentilesG450
+- 1Co_6:14que levantó al Señor...nos levantaráG1825, [[G1453]]
+- 1Co_10:7se sentó el pueblo...se levantó a jugarG450
+- 2Co_10:5derribando...altivez que se levantaG1869
+- Efe_5:14y levántate de los muertosG450
+- Col_2:12Dios que le levantó de los muertosG1453
+- 2Ts_2:4se opone y se levanta contra todo loG5229
+- 1Ti_2:8oren...levantando manos santas, sinG1869
+- Heb_7:11se levantase otro sacerdote, según elG450
+- Heb_7:15a semejanza de...se levanta un sacerdoteG450
+- Heb_8:2tabernáculo que levantó el Señor, y no elG4078
+- Heb_11:19Dios es poderoso para levantar aun deG1453
+- Heb_12:12levantad las manos caídas y...rodillasG461
+- Stg_5:15salvará al...y el Señor lo levantaráG1453
+- Rev_10:5ángel que vi...levantó su mano al cieloG142
+- Rev_11:1levántate, y mide el templo de Dios, yG1453
+- Rev_11:11se levantaron sobre sus pies, y cayóG2476

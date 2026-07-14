@@ -1,0 +1,127 @@
+---
+tipo: concordancia
+palabra: SACIAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SACIAR
+
+- Éxo_15:9mi alma se saciará de ellos; sacaréH4390
+- Éxo_16:3comíamos pan hasta saciarnos; pues nosH7648
+- Éxo_16:8dará...y en la mañana pan hasta saciarosH7648
+- Éxo_16:12y por la mañana os saciaréis de pan, yH7646
+- Lev_25:19comeréis hasta saciaros, y habitaréisH7648
+- Lev_26:5y comeréis vuestro pan hasta saciarosH7648
+- Lev_26:26por peso...comeréis, y no os saciaréisH7646
+- Deu_6:11viñas...y luego que comas y te saciesH7646
+- Deu_8:10y comerás y te saciarás, y bendecirás aH7646
+- Deu_8:12te sacies, y edifiques buenas casas enH7646
+- Deu_11:15daré también...y comerás, y te saciarásH7646
+- Deu_14:29el levita...y comerán y serán saciadosH7646
+- Deu_23:24podrás comer uvas hasta saciarte; masH7648
+- Deu_26:12y comerán en tus aldeas, y se saciaránH7646
+- Deu_31:20y comerán y se saciarán, y engordaránH7646
+- Deu_33:23Neftalí, saciado de favores, y lleno deH7649
+- Rut_2:14comió hasta que se sació, y le sobróH7646
+- Rut_2:18que le había sobrado después de...saciadaH7648
+- 1Sa_2:5los saciados se alquilaron por pan, yH7646
+- 2Cr_31:10hemos comido y nos hemos saciado
+- Neh_9:25saciaron, y se deleitaron en tu granH7646
+- Job_19:22y ni aun de mi carne os saciáis?[[H7646]]
+- Job_27:14sus pequeñuelos no se saciarán de panH7646
+- Job_31:31¿quién no se ha saciado de su carne?[[H7646]]
+- Job_38:27saciar la tierra desierta e inculta, yH7646
+- Job_38:39saciarás el hambre de los leoncillos?[[H4390]]
+- Sal_17:14sacian a sus hijos, y aun sobra paraH7646
+- Sal_22:26comerán los humildes, y serán saciadosH7646
+- Sal_36:8saciados de la grosura de tu casa, y túH7301
+- Sal_37:19en los días de hambre serán saciadosH7646
+- Sal_59:15y si no se sacian, pasen...quejándoseH7646
+- Sal_63:5como de meollo y...será saciada mi almaH7646
+- Sal_65:4seremos saciados del bien de tu casaH7646
+- Sal_78:25pan...les envió comida hasta saciarlesH7648
+- Sal_78:29comieron, y se saciaron; les cumplióH7646
+- Sal_81:16Dios..con miel de la peña les saciaríaH7649
+- Sal_90:14de mañana sácianos de tu misericordiaH7646
+- Sal_91:16lo saciaré de larga vida, y le mostraréH7646
+- Sal_103:5el que sacia de bien tu boca, de modoH7646
+- Sal_104:13del fruto de sus...se sacia la tierraH7646
+- Sal_104:28das...abres tu mano, se sacian de bienH7646
+- Sal_105:40pidieron...los sació de pan del cieloH7649
+- Sal_107:9sacia al alma menesterosa, y llena deH7646
+- Sal_132:15provisión; a sus pobres saciaré de panH7646
+- Sal_147:14te hará saciar con lo mejor del trigoH7646
+- Pro_5:10que extraños se sacien de tu fuerzaH7646
+- Pro_6:30saciar su apetito cuando tiene hambreH4390
+- Pro_11:25el que saciare, él también será saciadoH3384
+- Pro_12:11que labra su tierra se saciará de panH7646
+- Pro_12:14hombre será saciado de bien del frutoH7646
+- Pro_13:25el justo come hasta saciar su alma; masH7648
+- Pro_18:20se saciará del producto de sus labiosH7646
+- Pro_20:13abre tus ojos, y te saciarás de panH7646
+- Pro_27:7el...saciado desprecia el panal de mielH7646
+- Pro_27:20el Seol y el Abadón nunca se sacianH7646
+- Pro_28:19que labra su tierra se saciará de panH7646
+- Pro_30:9no sea que me sacie, y te niegue, y digaH7646
+- Pro_30:15tres cosas hay que nunca se sacian; aunH7646
+- Pro_30:16la tierra que no se sacia de aguas, yH7646
+- Pro_30:22por el necio cuando se sacia de panH7646
+- Ecl_1:8nunca se sacia el ojo de ver, ni el oídoH7646
+- Ecl_4:8ni sus ojos se sacian de sus riquezas, niH7646
+- Ecl_5:10el que ama el dinero, no se saciará deH7646
+- Ecl_6:3su alma no se sació del bien, y tambiénH7646
+- Ecl_6:7boca, y con todo eso su deseo no se saciaH4390
+- Isa_9:20comerá a la izquierda, y no se saciaráH7646
+- Isa_23:18para que coman hasta saciarse, y vistanH7654
+- Isa_43:24ni me saciaste con...de tus sacrificiosH7301
+- Isa_44:16prepara un asado, y se sacia; despuésH7646
+- Isa_55:2gastáis el dinero...en lo que no sacia?[[H7654]]
+- Isa_58:10hambriento, y saciares al alma afligidaH7646
+- Isa_58:11en las sequías saciará tu alma, y daráH7646
+- Isa_66:11que maméis y os saciéis de los pechosH7646
+- Jer_5:7los sacié, y adulteraron, y en casa deH7646
+- Jer_31:14mi pueblo será saciado de mi bien, diceH7646
+- Jer_31:25y saciaré a toda alma entristecidaH7301
+- Jer_46:10la espada devorará y se saciará, y seH7646
+- Jer_50:10todos los que la saquearen se saciaránH7646
+- Jer_50:19Efraín y en Galaad se saciará su almaH7646
+- Lam_5:6extendimos la mano, para saciarnos deH7646
+- Eze_5:13saciaré en ellos mi enojo, y tomaréH3615
+- Eze_7:19el día...no saciarán su alma, ni llenaránH7646
+- Eze_16:28con los asirios, por no haberte saciadoH7646
+- Eze_16:28fornicaste con...y tampoco te saciasteH7646
+- Eze_16:29caldeos, y tampoco con esto te saciasteH7646
+- Eze_16:42saciaré mi ira sobre ti, y se apartará
+- Eze_24:13hasta que yo sacie mi ira sobre ti
+- Eze_27:33saciabas a muchos pueblos; a los reyesH7646
+- Eze_32:4y saciaré de ti a las fieras de...tierraH7646
+- Eze_39:19comeréis grosura hasta saciaros, yH7654
+- Eze_39:20saciaréis sobre mi mesa, de caballosH7646
+- Ose_4:10comerán...no se saciarán; fornicarán
+- Ose_13:6en sus pastos se saciaron, y repletosH7646
+- Joe_2:19y seréis saciados de ellos; y nuncaH7646
+- Joe_2:26comeréis hasta saciaros, y alabaréis elH7646
+- Amó_4:8venían...beber agua, y no se saciabanH7646
+- Miq_6:14comerás, y no te saciarás...no salvarásH7646
+- Hab_2:5es como la muerte, que no se saciaráH7646
+- Hag_1:6coméis, y no os saciáis; bebéis, y no
+- Mat_5:6que tienen hambre y sed...serán saciadosG5526
+- Mat_14:20comieron...y se saciaron; y recogieronG5526
+- Mat_15:33para saciar a una multitud tan grande?[[G5526]]
+- Mat_15:37comieron...saciaron; y recogieron lo queG5526
+- Mar_6:42y comieron todos, y se saciaronG5526
+- Mar_7:27primero que se sacien los hijos, porqueG5526
+- Mar_8:4saciar de pan a éstos aquí en el desierto?[[G5526]]
+- Mar_8:8comieron, y se saciaron; y recogieron deG5526
+- Luc_6:21bienaventurados los...seréis saciadosG5526
+- Luc_6:25¡ay de...los que ahora estáis saciados![[G1705]]
+- Luc_9:17comieron...y se saciaron; y recogieron loG5526
+- Luc_16:21y ansiaba saciarse de las migajas queG5526
+- Jua_6:12y cuando se hubieron saciado, dijo aG1705
+- Jua_6:26porque comisteis el pan y os saciasteisG5526
+- 1Co_4:8ya estáis saciados, ya estáis ricosG2880
+- Flp_4:12estar saciado como para tener hambreG5526
+- Stg_2:16id en paz, calentaos y saciaos, peroG5526
+- 2Pe_2:14no se sacian de pecar, seducen a lasG180
+- Rev_19:21las aves se saciaron de las carnesG5526

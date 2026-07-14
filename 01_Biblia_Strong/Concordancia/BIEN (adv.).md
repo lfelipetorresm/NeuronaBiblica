@@ -1,0 +1,323 @@
+---
+tipo: concordancia
+palabra: BIEN (adv.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BIEN (adv.)
+
+- Gén_4:7si b hicieres, ¿no serás enaltecido?[[H3190]]
+- Gén_4:7y si no hicieres b, el pecado está a laH3190
+- Gén_12:13para que me vaya b por causa tuya,[[H3190]]
+- Gén_16:6haz con ella lo que b te parezca
+- Gén_19:8haced de ellas como b os pareciereH2890
+- Gén_20:15habita donde b te parezca
+- Gén_24:1era Abraham ya viejo, y b avanzado
+- Gén_27:36Esaú respondió: B llamaron su nombreH3588
+- Gén_29:6les dijo: ¿Está b? Y ellos dijeron: BH7965
+- Gén_34:18y parecieron b sus palabras a Hamor
+- Gén_35:22ahora b, los hijos de Israel
+- Gén_41:37el asunto pareció b a Faraón yH3190
+- Gén_43:27el anciano que dijisteis, lo pasa b?[[H7965]]
+- Gén_43:28b va a tu siervo nuestro padre: aúnH7965
+- Éxo_3:7B he visto la aflicción de mi pueblo
+- Éxo_4:14¿no conozco yo a tu hermano Aarón,...b?
+- Éxo_10:29b has dicho; no veré más tu rostroH3651
+- Éxo_18:17suegro...dijo: No está b lo que hacesH2896
+- Éxo_23:5antes b le ayudarás a levantarlo
+- Éxo_30:35b mezclado, puro y santo
+- Lev_5:2b que no lo supiere, será
+- Lev_6:2o b robare o calumniare a su prójimo
+- Núm_14:41dijo Moisés: Esto tampoco os saldrá b
+- Núm_14:25ahora b, el amalecita y el cananeo
+- Núm_19:15cuya tapa no esté b ajustada, será
+- Núm_23:27parecerá b a Dios que...lo maldigas
+- Núm_24:1cuando vio Balaam que parecía b a Jehová
+- Núm_27:7B dicen las hijas de ZelofehadH3651
+- Núm_31:23b que en las aguas de purificación habrá
+- Núm_35:23o b, sin verlo hizo caer sobre él
+- Deu_1:23Y el dicho me pareció b; y
+- Deu_4:9antes b, las enseñarás a tus hijos
+- Deu_4:40para que te vaya b a ti y a tus hijosH3190
+- Deu_5:16honra a tu padre...para que te vaya bH3190
+- Deu_5:28he oído...b está todo lo que han dichoH3190
+- Deu_5:29que a ellos...les fuese b para siempre![[H3190]]
+- Deu_5:33para que viváis y os vaya b, y tengáisH2895
+- Deu_6:3te vaya b en la tierra que fluye leche yH3190
+- Deu_6:18haz lo recto y bueno...para que te vaya bH2896
+- Deu_6:24para que nos vaya b todos los díasH2896
+- Deu_7:18para que nos vaya b todos los días
+- Deu_9:21y lo desmenucé moliéndolo muy b
+- Deu_12:8cada uno lo que b le pareceH3477
+- Deu_12:25, Deu_12:28para que te vaya b a ti y a tus hijosH3477
+- Deu_15:16dijere: No te dejaré...le va b contigoH2895
+- Deu_17:4y hubieres indagado b, la cosaH3190
+- Deu_18:17han hablado b en lo que han dichoH3190
+- Deu_19:13quitarás de...sangre inocente, y te irá bH2895
+- Deu_22:7que te vaya b, y prolongues tus díasH3190
+- Deu_23:6no procurarás la paz de ellos ni su bH2896
+- Deu_23:16donde a b tuviere; no le oprimirásH2896
+- Jos_1:8harás prosperar...todo te saldrá b
+- Jos_3:16se detuvieron...un montón b lejos deH3966
+- Jos_6:1ahora, Jericó estaba cerrada, b cerrada
+- Jos_14:10ahora b, Jehová me ha hecho vivirH2009
+- Jos_22:24lo hicimos más b...de que mañana
+- Jos_22:30les pareció b todo ello
+- Jos_22:33el asunto pareció b a...Israel
+- Jue_9:16si habéis actuado b con JerobaalH2895
+- Jue_10:15haz...con nosotros como b te parezcaH2896
+- Jue_17:6cada uno hacía lo que b le parecíaH3477
+- Jue_18:2que reconociesen y explorasen b la tierra
+- Jue_18:29b que antes se llamaba la ciudad LaisH199
+- Jue_21:19ahora b, dijeron, he aquí cada año
+- Jue_21:25cada uno hacía lo que b le parecíaH3477
+- Rut_2:9mira b el campo que sieguen
+- Rut_3:1hogar para ti, para que te vaya b?[[H3190]]
+- Rut_3:13si él te redimiere, b, redímateH2896
+- 1Sa_1:23haz lo que b te parezca; quédateH2896
+- 1Sa_3:18haga lo que b le pareciereH2896
+- 1Sa_9:10dices b; anda, vamosH2896
+- 1Sa_11:10todo lo que b os pareciereH2896
+- 1Sa_12:14si...servís a Jehová...Dios, haréis b
+- 1Sa_14:36haz lo que b te pareciere. DijoH2896
+- 1Sa_14:40haz lo que b te pareciereH2896
+- 1Sa_15:20antes b he obedecido la voz de Jehová
+- 1Sa_16:17alguno que toque b, y traédmeloH3190
+- 1Sa_17:22preguntó por...hermanos, si estaban b
+- 1Sa_18:20y le pareció b a sus ojos
+- 1Sa_18:22y todos sus siervos te quieren b
+- 1Sa_18:26pareció b la cosa a los ojos de David
+- 1Sa_19:4Jonatán habló b de David a SaúlH2896
+- 1Sa_20:7b está, entonces tendrá paz tu siervoH2896
+- 1Sa_20:9nunca tal te suceda; antes b
+- 1Sa_20:12si resultare b para con DavidH2896
+- 1Sa_26:16que has hecho no está b. Vive JehováH2896
+- 1Sa_28:2muy b...lo que hará tu siervo
+- 1Sa_29:6me ha parecido b...y tu entradaH2896
+- 2Sa_3:13David dijo: B; haré pactoH2896
+- 2Sa_3:19todo lo que parecía b a los deH2896
+- 2Sa_7:29ten ahora a b bendecir la casa de
+- 2Sa_10:12haga Jehová lo que b le pareciereH2896
+- 2Sa_11:23b que nosotros les hicimos retroceder
+- 2Sa_15:26haga de mí lo que b le pareciereH2896
+- 2Sa_17:4este consejo pareció b a Absalón
+- 2Sa_18:4yo haré lo que b os parezcaH3190
+- 2Sa_18:29rey dijo: ¿El joven Absalón está b?[[H7965]]
+- 2Sa_18:32¿el joven Absalón está b?[[H7965]]
+- 2Sa_19:27haz, pues, lo que b te parezcaH2896
+- 2Sa_19:37haz a él lo que b te pareciereH2896
+- 2Sa_19:38yo haré con él como b te parezcaH2896
+- 2Sa_20:9Joab dijo a Amasa: ¿Te va b, hermanoH7965
+- 2Sa_24:22ofrezca mi señor el rey lo que bH2896
+- 1Re_2:18Betsabé dijo: B; yo hablaréH2896
+- 1Re_2:28si b no se había adherido a Absalón
+- 1Re_2:44el cual tu corazón b sabe, que cometiste
+- 1Re_5:6sabes b que ninguno hay entre nosotros
+- 1Re_8:18b has hecho en tener tal deseoH3190
+- 1Re_18:24todo el pueblo...diciendo: B dichoH2896
+- 2Re_4:26digas: ¿Te va b a ti? ¿Le va b a tuH7965
+- 2Re_4:26tu marido, y a tu hijo? Y ella dijo: BH7965
+- 2Re_5:21se bajó del carro...y dijo: ¿Va todo b?[[H7965]]
+- 2Re_5:22él dijo: B. Mi señor me envía a decirteH7965
+- 2Re_7:9se dijeron el uno...No estamos haciendo bH3651
+- 2Re_9:31¿sucedió b a Zimri, que mató a su señor?
+- 2Re_10:5haz lo que b te parezcaH2896
+- 2Re_10:30por cuanto has hecho b ejecutandoH2895
+- 2Re_25:24no temáis...servid al rey...y os irá bH3190
+- 1Cr_5:2b que Judá llegó a ser el
+- 1Cr_13:2si os parece b y si es la voluntad deH2895
+- 1Cr_13:4la cosa parecía b a todo el puebloH3477
+- 1Cr_19:3¿no vienen más b sus siervos a ti para
+- 1Cr_19:13haga Jehová lo que b le parezca
+- 1Cr_21:23haga mi...lo que b le parezcaH2896
+- 2Cr_6:8b has hecho en haber tenido estoH2895
+- 2Cr_12:12también en Judá...cosas fueron bH2896
+- 2Cr_18:12tu palabra sea...de ellos, que hables bH2896
+- 2Cr_24:20no os vendrá b por ello; porque por
+- 2Cr_28:23b que fueron éstos su ruina...y Israel
+- 2Cr_33:23antes b aumentó el pecado
+- Esd_5:17y ahora, si al rey parece bH2869
+- Neh_5:5ahora b, nuestra carne es
+- Neh_13:26b que en muchas naciones no hubo rey
+- Est_1:19si parece b al rey,salga un
+- Est_3:11hagas de él lo que b te pareciereH2896
+- Est_7:9Mardoqueo...había hablado b por el reyH2896
+- Est_8:8escribid, pues,..a los judíos como b os
+- Job_9:4se endureció contra él, y le fue b?
+- Job_10:3¿te parece b que oprimas, que desechesH2896
+- Job_20:13si le parecía b, y no lo dejaba
+- Job_22:21tendrás paz; y por ello te vendrá bH2896
+- Job_32:14ahora b, Job no dirigió contra mí sus
+- Job_32:16Más b callaron y no respondieron más
+- Job_36:7antes b con los reyes los...para siempre
+- Job_36:31b que por...castiga a los pueblos
+- Sal_33:3hacedlo b, tañendo con júbiloH3190
+- Sal_68:13b que fuisteis echados entre los tiestos
+- Sal_106:13b pronto olvidaron sus obras
+- Sal_119:65b has hecho...tu siervo, oh Jehová
+- Sal_122:3Jerusalén...está b unida entre sí
+- Sal_128:2bienaventurado serás, y te irá bH2896
+- Sal_139:14estoy...Y mi alma lo sabe muy b
+- Sal_139:15b que en oculto fui formado
+- Pro_14:15mas el avisado mira b sus pasosH2896
+- Pro_30:12si b no se ha limpiado de su inmundicia
+- Pro_30:29tres cosas...Y la cuarta pasea muy b:
+- Pro_31:18que van b sus negocios; su lámparaH2428
+- Ecl_7:18aquel...a Dios teme, saldrá b
+- Ecl_8:12que les irá b a los que a Dios temenH2896
+- Ecl_8:13que no le irá b al impío, ni le seránH2896
+- Isa_3:10decid al justo que te irá b, porqueH2896
+- Isa_6:9oíd b, y no entendáis; ved por cierto
+- Isa_30:20b que os dará el Señor pan de congoja y
+- Isa_33:1b que nadie contra ti la hizo!
+- Isa_36:5ahora b, ¿en quién confías para que te
+- Isa_58:6¿no es más b el ayuno que yo escogí
+- Isa_63:16si b Abraham nos ignora, e Israel no nos
+- Isa_64:6si b todos nosotros somos como suciedad
+- Jer_1:12y me dijo Jehová: B has vistoH3190
+- Jer_5:8como caballos b alimentados, cada cual
+- Jer_7:19¿No obran más b ellos mismos su propia
+- Jer_7:23camino que os mande...que os vaya bH3190
+- Jer_10:5ni para hacer b tienen poderH3190
+- Jer_12:6No los creas cuando b te hablen
+- Jer_14:11No ruegues por este pueblo para bH2896
+- Jer_18:20me puse delante de ti para hablar bH2896
+- Jer_20:4terror a ti...y a todos los que b te quieren
+- Jer_20:6enterrado tú, y...los que b te quieren
+- Jer_22:15¿no hizo juicio...y entonces le fue bH2896
+- Jer_22:16él juzgó la...y...entonces estuvo bienH2896
+- Jer_32:5y si peleareis contra los...no os irá b
+- Jer_38:20oye ahora la voz de Jehová...te irá bH3190
+- Jer_40:4si te parece b venir conmigo a Babilonia
+- Jer_40:9servid al rey de Babilonia, y os irá bH3190
+- Jer_42:6que obedeciendo a la voz de...nos vaya bH2896
+- Eze_24:5toma una oveja...haz que hierva bH7571
+- Eze_25:3así dice Jehová el Señor:¡Ea, b!
+- Eze_26:2ea, b; quebrantada está la que era puerta
+- Eze_33:32tú eres...hermoso de voz y que canta b
+- Eze_36:32dice Jehová el Señor, sabedlo b
+- Dan_6:1pareció b a Darío constituir
+- Joe_3:4b pronto haré yo recaer...vuestra
+- Amó_5:26b, llevabais el tabernáculo de
+- Jon_4:4dijo: ¿Haces tú b en enojarte tanto?[[H3190]]
+- Miq_2:7¿no hacen mis palabras b al queH3190
+- Hab_3:16si b estaré quieto en el día de
+- Sof_1:12Jehová ni hará b ni hará malH3190
+- Hag_1:5meditad b sobre vuestros caminos
+- Zac_8:15así...he pensado hacer b a JerusalénH3190
+- Zac_9:3b que Tiro se edificó fortaleza
+- Zac_10:9b que los esparciré entre los pueblos
+- Zac_11:12si os parece b, dadme mi salarioH2896
+- Zac_12:3b que todas las naciones de la tierra
+- Mat_5:44haced b a los que os aborrecenG2573
+- Mat_7:5entonces verás b para sacar la paja del ojoG1227
+- Mat_10:28temed más b a aquel que puede destruir
+- Mat_15:7b profetizó de vosotros Isaías, cuando dijo:[[G2573]]
+- Mat_15:26no está b tomar el pan de los hijosG2570
+- Mat_25:9id más b a los que venden, y
+- Mat_25:21b, buen siervo y fiel; sobre poco hasG2095
+- Mat_25:23su señor le dijo: B, buen siervo y fielG2095
+- Mat_27:15b, en el día de la fiesta acostumbraba el
+- Mar_7:6hipócritas, b profetizó de vosotrosG2573
+- Mar_7:9b invalidáis el mandamiento de DiosG2573
+- Mar_7:27no está b tomar el pan de los hijos yG2570
+- Mar_7:35desató la...lengua, y hablaba bG3723
+- Mar_7:37diciendo: B lo ha hecho todo; hace aG2573
+- Mar_12:28que...sabía que les había respondido bG2573
+- Mar_12:32B, Maestro, verdad has dichoG2573
+- Mar_15:6ahora b, en el día...soltaba...que pidiesen
+- Mar_15:11para que les soltase más b a BarrabásG3123
+- Luc_1:4para que conozcas b la verdad de
+- Luc_1:17preparar al Señor un pueblo b dispuesto
+- Luc_6:26cuando...hombres hablen b de vosotrosG2573
+- Luc_6:42entonces verás b para sacar la paja queG1227
+- Luc_9:44haced que os penetren b en los oídos
+- Luc_10:28b has respondido; haz esto, y vivirásG3723
+- Luc_11:39ahora b,...limpiáis lo de fuera pero por
+- Luc_13:9si diere fruto, b; y si no, la cortarásG2573
+- Luc_17:8¿no le dice más b: Prepárame la cena
+- Luc_19:17él le dijo: Está b, buen siervoG2095
+- Luc_20:39los escribas, dijeron: Maestro, b hasG2095
+- Jua_4:17b has dicho: No tengo maridoG2573
+- Jua_8:48¿no decimos b nosotros, que tú eresG2573
+- Jua_13:13llamáis Maestro, y Señor; y decís bG2573
+- Jua_18:23y si b, ¿por qué me golpeas?[[G2573]]
+- Hec_7:43antes b llevasteis el tabernáculo
+- Hec_7:48si b el Altísimo no habita en templosG235
+- Hec_8:37si crees de todo corazón, b puedes
+- Hec_10:33y tú has hecho b en venirG2573
+- Hec_11:19ahora b, los que habían sido esparcidos
+- Hec_15:22pareció b a los apóstoles y a los ancianosG1380
+- Hec_15:25ha parecido b, habiendo llegado a un
+- Hec_15:28porque ha parecido b al Espíritu Santo
+- Hec_15:29os guardareis, b haréis. Pasadlo bG2095
+- Hec_15:34a Silas le pareció b el quedarse allíG1380
+- Hec_15:38a Pablo no le parecía b llevar consigoG515
+- Hec_23:30traten...lo que tengan contra él. Pásalo b
+- Hec_24:2cosas son b gobernadas en el pueblo por tuG2735
+- Hec_24:22estando b informado de este Camino, lesG197
+- Hec_25:10como tú sabes muy bG2573
+- Hec_28:25b habló el Espíritu Santo por medioG2573
+- Rom_3:4antes b sea Dios veraz, yG1161
+- Rom_10:18pero digo: ¿No han oído? Antes bG3304
+- Rom_11:20b; por su incredulidad fueron desgajadasG2573
+- Rom_14:13más b decidid no poner tropiezo
+- Rom_15:3antes b, como está escrito:Los vituperios
+- Rom_15:26porque Macedonia y Acaya tuvieron a bG2106
+- 1Co_2:9antes b, como está escrito: Cosas
+- 1Co_3:15sufrirá pérdida, si b él mismo será salvo
+- 1Co_4:2ahora b, se requiere de los administradores
+- 1Co_5:2¿no debierais más b haberos lamentadoG3123
+- 1Co_5:11más b os escribí que no os juntéis
+- 1Co_6:7¿por qué no sufrís más b el agravio?[[G3123]]
+- 1Co_7:7quisiera más b que todos los hombres...pero
+- 1Co_7:26hará b el hombre en quedarse como estáG2570
+- 1Co_7:37ha resuelto...guardar a su hija virgen, b haceG2573
+- 1Co_7:38el que la da en casamiento hace bG2573
+- 1Co_8:8si b la...hace más aceptos ante Dios
+- 1Co_12:4ahora b, hay diversidad de dones, pero
+- 1Co_12:22antes b los miembros del cuerpo que
+- 1Co_14:9si por la lengua no diereis palabra bG2154
+- 1Co_14:17porque tú, a la verdad, b das graciasG2573
+- 2Co_2:7vosotros más b debéis perdonarleG3123
+- 2Co_3:8¿cómo no será más b con gloria el ministerioG3123
+- 2Co_4:2antes b renunciamos a lo oculto y vergonzoso
+- 2Co_6:4antes b, nos...como ministros de Dios
+- 2Co_6:9como desconocidos, pero b conocidosG1921
+- 2Co_11:4u otro...habéis aceptado, b lo toleráisG2573
+- 2Co_12:9me gloriaré más b en mis debilidadesG3123
+- Gál_3:16ahora b, a Abraham fueron hechas
+- Gál_4:9o más b, siendo conocidos por DiosG3123
+- Gál_4:14antes b...como a un ángel de Dios
+- Gál_5:7vosotros corríais b; ¿quién os estorbóG2573
+- Efe_2:21b coordinado, va creciendo paraG4883
+- Efe_4:16de quien todo el cuerpo, b concertado yG4883
+- Efe_5:4sino antes b acciones de graciasG3123
+- Efe_5:11no participéis en las obras...más b reprendedlasG3123
+- Efe_5:16aprovechando b el...los días son malos
+- Efe_5:18antes b sed llenos del Espíritu
+- Efe_6:3que te vaya b, y seas de larga vidaG2095
+- Flp_1:12más b para el progreso del evangelioG3123
+- Flp_1:20antes b con toda confianza, como siempre
+- Flp_2:3nada hagáis por...antes b con humildad
+- Flp_4:14b hicisteis en participar conmigoG2573
+- 1Ts_1:5b sabéis cuáles fuimos entre vosotros
+- 1Ti_1:4disputas más b que edificación de DiosG3123
+- 1Ti_3:4gobierne b su casa, que tenga a sus hijosG2573
+- 1Ti_3:12que gobiernen b sus hijos y sus casasG2573
+- 1Ti_3:13porque los que ejerzan b el diaconadoG2573
+- 1Ti_5:17los ancianos que gobiernan b, sean tenidosG2573
+- 2Ti_2:15como obrero...que usa b la palabraG3718
+- Flm_1:9más b te ruego por amor
+- Heb_4:13b todas las cosas están desnudas
+- Heb_8:1ahora b, el punto principal de lo que venimos
+- Heb_9:1ahora b, aun el primer pacto tenía ordenanzaG3303
+- Heb_12:15mirad b, no sea...alcanzar la gracia de Dios
+- Heb_13:18deseando conducirnos b en todoG2570
+- Stg_2:8amarás a tu prójimo...mismo, b hacéisG2573
+- Stg_2:11ahora b, si no cometes adulterio
+- Stg_2:19tú crees que Dios es uno; b hacesG2573
+- 2Pe_1:19hacéis b en estar atentos...antorchaG2573
+- 2Pe_3:18antes b, creced en la gracia y el
+- 3Jn_1:6harás bien en encaminarlos como es dignoG2573

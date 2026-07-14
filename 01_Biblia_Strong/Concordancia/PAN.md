@@ -1,0 +1,412 @@
+---
+tipo: concordancia
+palabra: PAN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PAN
+
+- Gén_3:19con el sudor de tu rostro comerás el pH3899
+- Gén_14:18entonces Melquisedec rey...sacó p y vinoH3899
+- Gén_18:5y traeré un bocado de p, y sustentadH3899
+- Gén_18:6toma...harina, y amasa y haz p cocidosH5692
+- Gén_19:3hizo...y coció p sin levadura, y comieronH4682
+- Gén_21:14tomó p, y un odre de agua, y lo dioH3899
+- Gén_25:34Jacob dio a Esaú p y del guisado de lasH3899
+- Gén_27:17y entregó los guisados y el p...JacobH3899
+- Gén_28:20y me diere p para comer y vestido paraH3899
+- Gén_31:54a sus hermanos a comer p; y comieron pH3899
+- Gén_37:25se sentaron a comer p; y alzando losH3899
+- Gén_39:6no se preocupaba de cosa...sino del p queH3899
+- Gén_41:54mas en toda la tierra de Egipto había pH3899
+- Gén_41:55el pueblo clamó a Faraón por p. Y dijoH3899
+- Gén_43:25habían oído que allí habrían de comer pH3899
+- Gén_43:31salió, y se contuvo, y dijo: Poned pH3899
+- Gén_43:32no pueden comer p con los hebreos, loH3899
+- Gén_45:23trigo, y p y comida, para su padre enH3899
+- Gén_47:12alimentaba José a su padre y a...con pH3899
+- Gén_47:13no había p en...la tierra, y el hambreH3899
+- Gén_47:15danos p; ¿por qué moriremos delante deH3899
+- Gén_47:17les sustentó de p por todos sus ganadosH3899
+- Gén_47:19cómpranos a nosotros y a...tierra por pH3899
+- Gén_49:20p de Aser será substancioso, y él daraH3899
+- Éxo_12:8comerán la carne...y p sin levaduraH4682
+- Éxo_12:15siete días comeréis p sin levaduraH4682
+- Éxo_12:17y guardaréis la fiesta de los p sinH4682
+- Éxo_12:18en el mes primero comeréis los p sinH4682
+- Éxo_12:20habitaciones comeréis p sin levaduraH4682
+- Éxo_13:6siete días comerás p sin leudar, y elH4682
+- Éxo_13:7siete días se comerán los p sin levaduraH4682
+- Éxo_16:3cuando comíamos p hasta saciarnos; puesH3899
+- Éxo_16:4he aquí yo os haré llover p del cieloH3899
+- Éxo_16:8os dará...en la mañana p hasta saciarosH3899
+- Éxo_16:12y por la mañana os saciaréis de p, yH3899
+- Éxo_16:15les dijo: Es el p que Jehová os da paraH3899
+- Éxo_16:29en el sexto día os da p para dos díasH3899
+- Éxo_16:32que vean el p que yo os di a comer en elH3899
+- Éxo_23:15fiesta de los p sin levadura guardarásH4682
+- Éxo_23:15siete días comerás los p sin levaduraH4682
+- Éxo_23:18no ofrecerás con p leudo la sangre de
+- Éxo_23:25Jehová...él bendecirá tu p y tus aguasH3899
+- Éxo_25:30sobre la mesa el p de la proposición
+- Éxo_29:2y p sin levadura, y tortas sin levaduraH3899, [[H2471]]
+- Éxo_29:23una torta...de p...torta de p de aceiteH3899
+- Éxo_29:23una hojaldre del canastillo de los pH4682
+- Éxo_29:32y el p que estará en el canastillo, aH3899
+- Éxo_29:34si sobrare...del p, quemarás al fuegoH3899
+- Éxo_34:18fiesta de los p...siete días comerás pH4682
+- Éxo_34:28no comió p, ni bebió agua; y escribióH3899
+- Éxo_35:13; Éxo_39:36la mesa...el p de la proposición
+- Éxo_40:23puso por orden los p delante de JehováH3899
+- Lev_7:13con tortas de p leudo presentará suH3899, [[H2471]]
+- Lev_8:2toma...el canastillo de los p sin levaduraH4682
+- Lev_8:26y del canastillo de los p sin levaduraH4682
+- Lev_8:26tomó una torta...una torta de p de aceiteH4682
+- Lev_8:31y comedla allí con el p que está en elH3899
+- Lev_8:32y lo que sobre...del p, lo quemaréis alH3899
+- Lev_21:6las ofrendas...y el p de su Dios ofrecenH3899
+- Lev_21:8el p de tu Dios ofrece; santo será paraH3899
+- Lev_21:17defecto, se acercará para ofrecer el pH3899
+- Lev_21:21no se acercará a ofrecer el p de...DiosH3899
+- Lev_21:22del p de su Dios...lo santo...podrá comerH3899
+- Lev_22:25ofrecerlos como el p de vuestro DiosH3899
+- Lev_23:6la fiesta solemne de los p sin levaduraH4682
+- Lev_23:14no comeréis p...grano tostado, ni espigaH3899
+- Lev_23:17dos p para ofrenda mecida, que serán deH3899
+- Lev_23:18y ofreceréis con el p siete corderosH3899
+- Lev_23:20p de las primicias y los dos corderosH3899
+- Lev_24:7y será para el p como perfume, ofrendaH3899
+- Lev_26:5y comeréis vuestro p hasta saciaros, yH3899
+- Lev_26:26cuando...os quebrante el sbstento del pH3899
+- Lev_26:26cocerán diez mujeres vuestro p en unH3899
+- Lev_26:26y os devolverán vuestro p por peso; yH3899
+- Núm_4:7la mesa...p continuo estará sobre ellaH3899
+- Núm_6:17con el canastillo de los p sin levaduraH4682
+- Núm_9:11con p sin levadura y hierbas...la comeránH4682
+- Núm_14:9nosotros los comeremos como p...amparoH3899
+- Núm_15:19comencéis a comer del p de la tierraH3899
+- Núm_21:5no hay p ni agua...fastidio de este p tanH3899
+- Núm_28:2mi p con mis ofrendas encendidas en olorH3899
+- Núm_28:17siete días se comerán p sin levaduraH4682
+- Deu_8:3que no sólo de p vivirá el hombre, masH3899
+- Deu_8:9en la cual no comerás el p con escasezH3899
+- Deu_9:9en el monte...sin comer p ni beber aguaH3899
+- Deu_9:18no comí p ni bebí agua, a causa de todoH3899
+- Deu_10:18que ama también al extranjero dándole pH3899
+- Deu_16:3no comerás...p con levadura; siete díasH4682
+- Deu_16:3p sin levadura, p de aflicción, porqueH3899
+- Deu_16:8seis días comerás p sin levadura, y elH4682
+- Deu_16:16la fiesta solemne de los p sin levaduraH4682
+- Deu_23:4no os salieron a recibir con p y agua alH3899
+- Deu_29:6no habéis comido p, ni bebisteis vino niH3899
+- Jos_5:11comieron del fruto de...p sin levaduraH4682
+- Jos_9:5todo el p que traían...era seco y mohosoH3899
+- Jos_9:12nuestro p lo tomarnos caliente de...casasH3899
+- Jue_6:19preparó un cabrito, y p sin levaduraH4682
+- Jue_6:20la carne y los p sin levadura, y ponlosH4682
+- Jue_6:21tocó...los p sin levadura; y subió fuegoH4682
+- Jue_6:21consumió la carne y los p sin levaduraH2471
+- Jue_7:13veía un p de cebada que rodaba hasta elH6742
+- Jue_8:5ruego que deis a la gente...bocados de pH3899
+- Jue_8:6tu mano, para que demos p a tu ejército?[[H3899]]
+- Jue_8:15para que demos...p a tus hombres cansadosH3899
+- Jue_13:16aunque me detengas, no comeré de tu pH3899
+- Jue_19:5conforta tu corazón con un bocado de pH3899
+- Jue_19:19también tenemos p y vino para mí y paraH3899
+- Rut_1:6Jehová había visitado a...para darles pH3899
+- Rut_2:14ven aquí y come del p, y moja tu bocadoH3899
+- 1Sa_2:5los saciados se alquilaron por p, y losH3899
+- 1Sa_2:36postrarse...por...plata y un bocado de pH3899
+- 1Sa_2:36te ruego...que pueda comer un bocado de pH3899
+- 1Sa_9:7porque el p...se ha acabado, y no tenemosH3899
+- 1Sa_10:3llevando...tres tortas de p, y el terceroH3899
+- 1Sa_10:4dos p, los que tomarás de mano de ellosH3899
+- 1Sa_14:24cualquiera que coma p antes...la nocheH3899
+- 1Sa_14:24y todo el pueblo no había probado pH3899
+- 1Sa_16:20y tomó Isaí un asno cargado de p, unaH3899
+- 1Sa_17:17toma...estos diez p, y llévalo pronto alH3899
+- 1Sa_20:24nueva luna, se sentó el rey a comer pH3899
+- 1Sa_20:34y no comió p el segundo día de la lunaH3899
+- 1Sa_21:3a mano?...Dame cinco p, o lo que tengasH3899
+- 1Sa_21:4no tengo p...solamente tengo p sagradoH3899
+- 1Sa_21:6el sacerdote le dio el p sagrado, porque
+- 1Sa_21:6allí no había otro p sino los p de laH3899
+- 1Sa_21:6quitados de la...para poner p calientes
+- 1Sa_22:13diste p y espada, y consultaste por élH3899
+- 1Sa_25:11¿he de tomar yo ahora mi p, mi agua yH3899
+- 1Sa_25:18Abigail tomó luego 200 p, dos cueros deH1690
+- 1Sa_25:18doscientos p de higos secos, y lo cargóH3899
+- 1Sa_28:20estaba sin fuerzas...no había comido pH3899
+- 1Sa_28:22pondré...un bocado de p para que comasH3899
+- 1Sa_28:24tomó...y coció de ella p sin levaduraH4682
+- 1Sa_30:11dieron p, y comió, y le dieron a beberH3899
+- 1Sa_30:12no había comido p ni bebido agua en tresH3899
+- 2Sa_3:29nunca falte...quien tenga falta de pH3899
+- 2Sa_3:35antes que se ponga el sol gustare yo pH3899
+- 2Sa_6:19repartió...cada uno un p, y un pedazo deH3899
+- 2Sa_9:10para que el hijo de tu señor tenga p paraH3899
+- 2Sa_12:17mas él no quiso, ni comió con ellos pH3899
+- 2Sa_12:20vino...y pidió, y le pusieron p, y comióH3899
+- 2Sa_12:21muerto él, te levantaste y comiste pH3899
+- 2Sa_16:1doscientos p...cien p de higos secos, yH3899
+- 2Sa_16:2p y las pasas para que coman los criadosH3899
+- 1Re_7:48una mesa...sobre la cual estaban los pH3899
+- 1Re_13:8comería p ni bebería agua en este lugarH3899
+- 1Re_13:9no comas p, ni bebas agua, ni regresesH3899
+- 1Re_13:15le dijo: Ven conmigo a casa, y come pH3899
+- 1Re_13:16tampoco comeré p ni beberé agua contigoH3899
+- 1Re_13:17dicho: No comas p ni bebas agua allí, niH3899
+- 1Re_13:18a tu casa, para que coma p y beba aguaH3899
+- 1Re_13:19volvió con él, y comió p en su casa, yH3899
+- 1Re_13:22volviste, y comiste p y bebiste aguaH3899
+- 1Re_13:22Jehová había dicho que no comieses pH3899
+- 1Re_13:23cuando había comido p y bebido, el queH3899
+- 1Re_14:3diez p, y tortas, y una vasija de mielH3899
+- 1Re_17:6le traían p y carne por la mañana, y pH3899
+- 1Re_17:11ruego que me traigas...un bocado de pH3899
+- 1Re_17:12vive Jehová tu...que no tengo p cocidoH4580
+- 1Re_18:4los escondió...los sustentó con p y aguaH3899
+- 1Re_18:13escondí a...y los mantuve con p y agua?[[H3899]]
+- 1Re_22:27y mantenedie con p de angustia y conH3899
+- 2Re_4:42p de primicias, veinte p de cebadaH3899
+- 2Re_6:22pon delante de ellos p y agua, para queH3899
+- 2Re_18:32os lleve a una...tierra de p y de viñasH3899
+- 2Re_23:9sino que comían p sin levadura entre susH4682
+- 2Re_25:3hasta que no hubo p para el pueblo de laH3899
+- 1Cr_9:32a su cargo los p de la proposición
+- 1Cr_16:3y repartió...a cada uno una torta de pH3899
+- 1Cr_23:29para los p de la proposición, para laH7550, [[H4682]]
+- 2Cr_2:4y para la colocación...de los p de la
+- 2Cr_4:19sobre las cuales se ponían los p de la
+- 2Cr_8:13en la fiesta de los p sin levadura, enH4682
+- 2Cr_13:11ponen los p sobre la mesa limpia, y el
+- 2Cr_18:26sustentadle con p de aflicción y aguaH3899
+- 2Cr_30:13fiesta...de los p sin levadura en el mesH4682
+- 2Cr_30:21; 2Cr_35:17; Esd_6:22la fiesta...de los p sin levaduraH4682
+- Esd_10:6e ido allá, no comió p ni bebió aguaH3899
+- Neh_5:14ni yo ni...comimos el p del gobernadorH3899
+- Neh_5:15tomaron de ellos por el p y por el vinoH3899
+- Neh_5:18esto nunca requerí el p del gobernadorH3899
+- Neh_9:15les diste p del cielo en su hambre, yH3899
+- Neh_10:33para el p de la proposición y para la
+- Neh_13:2no salieron a recibir a los...con p y aguaH3899
+- Job_3:24antes que mi p viene mi suspiro, y mis
+- Job_15:23vaga alrededor tras el p, diciendo: ¿EnH3899
+- Job_22:7no diste...detuviste el p al hambrientoH3899
+- Job_27:14hijos...sus pequeños no se saciarán de pH3899
+- Job_28:5de la tierra nace el p, y debajo de ellaH3899
+- Job_33:20que le hace que su vida aborrezca el pH3899
+- Job_42:11vinieron...y comieron con él p en su casaH3899
+- Sal_14:4devoran a...pueblo como si comiesen pH3899
+- Sal_37:25visto...su descendencia que mendigue pH3899
+- Sal_41:9el hombre de mi paz...que de mi p comíaH3899
+- Sal_42:3fueron mis lágrimas mi p de día y...nocheH3899
+- Sal_53:4devoran a mi pueblo como si comiesen pH3899
+- Sal_78:20brotaron aguas...¿podrá dar también p?[[H3899]]
+- Sal_78:25p de nobles comió el hombre; les envióH6720
+- Sal_80:5diste a comer p de lágrimas, y a beberH3899
+- Sal_102:4por lo cual me olvido de comer mi pH3899
+- Sal_102:9lo cual yo como ceniza a manera de pH3899
+- Sal_104:14la hierba...sacando el p de la tierraH3899
+- Sal_104:15el p que sustenta la vida del hombreH3899
+- Sal_105:16trajo...quebrantó todo sustento de pH3899
+- Sal_105:40pidieron...y los sació de p del cicloH3899
+- Sal_109:10procuren su p lejos de sus...hogares
+- Sal_127:2por demás...y que comáis p de doloresH3899
+- Sal_132:15provisión; a sus pobres saciaré de pH3899
+- Sal_146:7hace justicia...da p a los hambrientosH3899
+- Pro_4:17porque comen p de maldad, y beben vinoH3899
+- Pro_6:26el hombre es reducido a un bocado de pH3899
+- Pro_9:5comed mi p, y bebed del vino que yo heH3899
+- Pro_9:17aguas...el p comido en oculto es sabrosoH3899
+- Pro_12:9más...que el que se jacta, y carece de pH3899
+- Pro_12:11el que labra su tierra se saciará de pH3899
+- Pro_13:23el barbecho de los pobres hay mucho pH400
+- Pro_14:4la fuerza del buey hay abundancia de pH7794
+- Pro_20:13abre tus ojos, y te saciarás de pH3899
+- Pro_20:17sabroso es al hombre el p de mentiraH3899
+- Pro_22:9será bendito...dio de su p al indigenteH3899
+- Pro_23:3no codicies sus...porque es p engañosoH3899
+- Pro_23:6no comas p con el avaro, ni codicies susH3899
+- Pro_25:21si tu...tuviere hambre, dale de comer pH3899
+- Pro_28:3como lluvia torrencial que deja sin pH3899
+- Pro_28:19el que labra su tierra se saciará de pH3899
+- Pro_28:21por un bocado de p prevaricará el hombreH3899
+- Pro_30:8ni riquezas; manténme del p necesarioH3899
+- Pro_30:22por...por el necio cuando se sacia de pH3899
+- Pro_31:14es como nave de mercader; trae su p deH3899
+- Pro_31:27considera los...y no come el p de baldeH3899
+- Ecl_9:7anda, y come tu p con gozo, y bebe tuH3899
+- Ecl_9:11de los fuertes, ni aun de los sabios el pH3899
+- Ecl_11:1echa tu p sobre las aguas...lo hallarásH3899
+- Isa_3:1todo sustento de p y todo socorro deH3899
+- Isa_3:7en mi casa ni hay p, ni qué vestir; noH3899
+- Isa_4:1nosotras comeremos de nuestro p, y nosH3899
+- Isa_21:14moradores...socorred con p al que huyeH3899
+- Isa_30:20os dará el Señor p de congoja y aguaH3899
+- Isa_30:23dará p del fruto de la tierra, y seráH3899
+- Isa_33:16les dará su p, y sus aguas serán segurasH3899
+- Isa_36:17tierra de grano y de vino, tierra de pH3899
+- Isa_44:15enciende también el horno, y cuece pH3899
+- Isa_44:19sobre sus brasas cocí p, asé carne, yH3899
+- Isa_51:14no...en la mazmorra, ni le faltará su pH3899
+- Isa_55:2¿por qué gastáis el dinero en...no es pH3899
+- Isa_55:10da semilla al que siembra, y p al queH3899
+- Isa_58:7que partas tu p con el hambriento, y aH3899
+- Isa_58:10dieres tu p al hambriento, y saciares
+- Jer_5:17comerá tu mies y tu p, comerá a tusH3899
+- Jer_16:7ni partirán p por ellos en el luto para
+- Jer_31:12al p, al vino, al aceite, y al ganadoH1715
+- Jer_37:21haciéndole dar una torta de p al díaH3899
+- Jer_37:21que todo el p de la ciudad se gastaseH3899
+- Jer_38:9allí morirá...no hay más p en la ciudadH3899
+- Jer_41:1vino Ismael...y comieron p juntos allíH3899
+- Jer_44:17tuvimos abundancia de p, y estuvimosH3899
+- Jer_52:6hambre...hasta no haber p para el puebloH3899
+- Jer_52:33y comía p en la mesa del rey siempreH3899
+- Lam_1:11todo su pueblo buscó su p suspirandoH3899
+- Lam_4:4pequeñuelos pidieron p, y no hubo quienH3899
+- Lam_5:6extendimos la mano, para saciarnos de pH3899
+- Lam_5:9con peligro de...vidas traíamos nuestro pH3899
+- Eze_4:9hazte p de ellos el número de los díasH3899
+- Eze_4:12comerás p de cebada cocido debajo de laH5692
+- Eze_4:13así comerán los...de Israel su p inmundoH3899
+- Eze_4:15estiércol de bueyes en...para cocer tu pH3899
+- Eze_4:16he aquí quebrantaré el sustento del p enH3899
+- Eze_4:16y comerán el p por peso y con angustiaH3899
+- Eze_4:17para que al faltarles el p y el agua, seH3899
+- Eze_5:16quebrantaré...vosotros el sustento del pH3899
+- Eze_12:18come tu p con temblor, y bebe tu aguaH3899
+- Eze_12:19su p comerán con temor, y con espantoH3899
+- Eze_13:19profanarme...por pedazos de p, matandoH3899
+- Eze_14:13y le quebrantare el sustento del p, yH3899
+- Eze_16:19mi p también, que yo te había dado, laH3899
+- Eze_16:49la maldad de Sodoma...saciedad de p, yH3899
+- Eze_18:7diere de su p al hambriento y cubriereH3899
+- Eze_18:16al hambriento diere de su p, y cubriereH3899
+- Eze_24:17no hagas luto...ni comas p de enlutadosH3899
+- Eze_24:22no os...ni comeréis p de hombres en lutoH3899
+- Eze_44:3se sentará allí para comer p delante deH3899
+- Eze_44:7de ofrecer mi p, la grosura y la sangreH3899
+- Eze_45:21siete días; se comerá p sin levadura
+- Ose_2:5mis amantes, que me dan mi p y mi aguaH3899
+- Ose_9:4como p de enlutados les serán a ellosH3899
+- Ose_9:4p de ellos...ese p no entrará en la casaH3899
+- Joe_2:19os envío p, mosto y aceite, y seréisH1715
+- Amó_4:5sacrificio de alabanza con p leudadoH2557
+- Amó_4:6y hubo falta de p en...vuestros pueblosH3899
+- Amó_7:12huye...come allá tu p, y profetiza alláH3899
+- Amó_8:5semana, y abriremos los graneros del pH7668
+- Amó_8:11no hambre de p...sino de oir la palabraH3899
+- Abd_1:7comían tu p pusieron lazo debajo de tiH3899
+- Hag_2:12ropa, y...el vuelo de ella tocare pH3899
+- Mal_1:7que ofrecéis sobre mi altar p inmundoH3899
+- Mat_4:3di que estas piedras se conviertan en pG740
+- Mat_4:4no sólo de p vivirá el hombre, sino deG740
+- Mat_6:11el p nuestro de cada día, dánoslo hoyG740
+- Mat_7:9si su hijo le pide p, le dará una piedra?[[G740]]
+- Mat_12:4comió los p de la proposición, que no lesG740
+- Mat_14:17tenemos aquí sino cinco p y dos pecesG740
+- Mat_14:19y tomando los cinco p y los dos pecesG740
+- Mat_14:19partió, y dio los p a los discípulos, yG740
+- Mat_15:2no se lavan las manos cuando comen pG740
+- Mat_15:26no está bien tomar el p de los hijosG740
+- Mat_15:33¿de dónde tenemos nosotros tantos p enG740
+- Mat_15:34¿cuántos p tenéis? Y ellos dijeron: 7, yG740
+- Mat_15:36tomando los siete p...dio gracias, losG740
+- Mat_16:5discípulos...habían olvidado de traer pG740
+- Mat_16:7dentro...Esto dice porque no trajimos pG740
+- Mat_16:8¿por qué pensáis dentro...que no tenéis p?[[G740]]
+- Mat_16:9acordáis de los cinco p entre cinco mil, yG740
+- Mat_16:10¿ni de los siete p entre cuatro mil, yG740
+- Mat_16:11no entendéis que no fue por el p que osG740
+- Mat_16:12que se guardasen de la levadura del pG740
+- Mat_26:17día de la fiesta de los p sin levaduraG106
+- Mat_26:26tomó Jesús el p, y bendijo, y lo partióG740
+- Mar_2:26comió los p de la proposición, de los
+- Mar_3:20de modo que ellos ni aún podían comer pG740
+- Mar_6:8ni alforja, ni p, ni dinero en el cintoG740
+- Mar_6:36vayan a los campos y aldeas...compren pG740
+- Mar_6:37y compremos p por doscientos denarios, yG740
+- Mar_6:38les dijo: ¿Cuántos p tenéis? Id y vedloG740
+- Mar_6:41tomó los cinco p y los dos peces, yG740
+- Mar_6:41partió los p, y dio a sus discípulos paraG740
+- Mar_6:52aún no habían entendido lo de los p, porG740
+- Mar_7:2viendo a...los discípulos de Jesús comer pG740
+- Mar_7:5no...sino que comen p con manos inmundas?[[G740]]
+- Mar_7:27no está bien tomar el p de los hijos yG740
+- Mar_8:4saciar de p a éstos aquí en el desiertoG740
+- Mar_8:5¿cuántos p tenéis? Ellos dijeron: SieteG740
+- Mar_8:6tomando los 7 p, habiendo dado graciasG740
+- Mar_8:14habían olvidado de traer p, y no teníanG740
+- Mar_8:14no tenían sino un p consigo en la harcaG740
+- Mar_8:16sí, diciendo: Es porque no trajimos pG740
+- Mar_8:17¿qué discutís, porque no tenéis p? ¿NoG740
+- Mar_8:19cuando partí los cinco p entre cinco milG740
+- Mar_8:20y cuando los siete p entre cuatro mil
+- Mar_14:1era la...y la fiesta de los p sin levaduraG106
+- Mar_14:12día de la fiesta de los p sin levaduraG106
+- Mar_14:22tomó p y bendijo, y lo partió y les dioG740
+- Luc_4:3di a esta piedra que se convierta en pG740
+- Luc_4:4no sólo de p vivirá el hombre, sino deG740
+- Luc_6:4y tomó los p de la proposición, de los
+- Luc_7:33vino Juan...que ni comía p ni bebía vinoG740
+- Luc_9:3ni p, ni dinero; ni llevéis dos túnicasG740
+- Luc_9:13dijeron...No tenemos más que cinco p yG740
+- Luc_9:16tomando los cinco p y los dos pescadosG740
+- Luc_11:3el p nuestro de cada día, dánoslo hoyG740
+- Luc_11:5va a...y le dice: Amigo, préstame tres pG740
+- Luc_11:11su hijo le pide p, le dará una piedra?[[G740]]
+- Luc_14:15le dijo: Bienaventurado el que coma p enG740
+- Luc_15:17en casa de mi padre tienen...de p, y yoG740
+- Luc_22:1cerca la fiesta de los p sin levaduraG106
+- Luc_22:7llegó el día de los p sin levadura, enG106
+- Luc_22:19tomó el p y dio gracias...y lo partióG740
+- Luc_24:30tomó el p y lo bendijo, lo partió, yG740
+- Luc_24:35le habían reconocido al partir el pG740
+- Jua_6:5¿de dónde compraremos p para que comanG740
+- Jua_6:7respondió: 200 denarios de p no bastaríanG740
+- Jua_6:9aquí está un muchacho que tiene cinco pG740
+- Jua_6:11tomó Jesús aquellos p, y habiendo dadoG740
+- Jua_6:13doce cestas de...de los cinco p de cebadaG740
+- Jua_6:23junto al lugar donde habían comido; el pG740
+- Jua_6:26me buscais...sino porque comisteis el pG740
+- Jua_6:31está escrito: P del cielo les dio a comerG740
+- Jua_6:32no os dio Moisés el p del cielo, mas miG740
+- Jua_6:32mi Padre os da el verdadero p del cieloG740
+- Jua_6:33el p de Dios es aquel que descendió delG740
+- Jua_6:34le dijeron: Señor, danos siempre este pG740
+- Jua_6:35Jesús les dijo: Yo soy el p de vida; elG740
+- Jua_6:41dicho...soy el p que descendió del cieloG740
+- Jua_6:48yo soy el p de vidaG740
+- Jua_6:50este es el p que desciende del cieloG740
+- Jua_6:51yo soy el p vivo que descendió del cieloG740
+- Jua_6:51si alguno comiere de este p, vivira paraG740
+- Jua_6:51y el p que yo daré es mi carne, la cualG740
+- Jua_6:58este es el p que descendió del cieloG740
+- Jua_6:58que come de este p, vivirá eternamenteG740
+- Jua_13:18el que come p conmigo, levantó contraG740
+- Jua_13:26a quien yo diere el p mojado, aquél esG5596
+- Jua_13:26mojando el p, lo dio a Judas IscarioteG5596
+- Jua_21:9brasas...y un pez encima de ellas, y pG740
+- Jua_21:13vino, pues, Jesús, y tomó el p y les dioG740
+- Hec_2:42partimiento del p y en las oracionesG740
+- Hec_2:46y partiendo el p en las casas, comíanG740
+- Hec_12:3entonces los días de los p sin levaduraG106
+- Hec_20:6pasados los días de los p sin levaduraG106
+- Hec_20:7reunidos los discípulos para partir el pG740
+- Hec_20:11después...partido el p y comido, hablóG740
+- Hec_27:35dicho esto, tomó el p y dio gracias aG740
+- 1Co_5:8con p sin levadura, de sinceridad yG106
+- 1Co_10:16el p que partimos, ¿no es la comuniónG740
+- 1Co_10:17siendo uno solo el p, nosotros, con serG740
+- 1Co_10:17pues todos participamos de aquel mismo pG740
+- 1Co_11:23que...la noche que fue entregado, tomó pG740
+- 1Co_11:26todas las veces que comiereis este p, yG740
+- 1Co_11:27cualquiera que comiere este p oG740
+- 1Co_11:28y coma así del p, y beba de la copaG740
+- 2Co_9:10el que da...p al que come, proveeráG740
+- 2Ts_3:8ni comimos de balde el p de nadieG740
+- 2Ts_3:12trabajando sosegadamente...su propio pG740
+- Heb_9:2en la primera parte...la mesa y los p

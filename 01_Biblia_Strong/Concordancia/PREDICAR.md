@@ -1,0 +1,84 @@
+---
+tipo: concordancia
+palabra: PREDICAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PREDICAR
+
+- Isa_61:1me ha enviado a predicar buenas nuevasH1319
+- Lam_2:14predicaron vanas profecías y extravíosH2372
+- Jon_3:4predicaba diciendo: De aquí a 40 díasH7121
+- Mat_3:1vino Juan el Bautista predicando en elG2784
+- Mat_4:17entonces comenzó Jesús a predicar, y aG2784
+- Mat_4:23y predicando el evangelio del reino, yG2784
+- Mat_9:35enseñando en...y predicando el evangelioG2784
+- Mat_10:7yendo, predicad, diciendo: El reino deG2784
+- Mat_11:1se fue...a predicar en las ciudades deG2784
+- Mat_24:14predicado este evangelio del reino enG2784
+- Mat_26:13os digo que dondequiera que se prediqueG2784
+- Mar_1:4bautizaba Juan...predicaba el bautismoG2784
+- Mar_1:7y predicaba diciendo: Viene tras mí elG2784
+- Mar_1:14Jesús vino...predicando el evangelio delG2784
+- Mar_1:38vamos a...para que predique también allíG2784
+- Mar_1:39y predicaba...en toda Galilea, y echabaG2784
+- Mar_2:2ya no cabían...y les predicaba la palabraG2980
+- Mar_3:14doce, para...y para enviarlos a predicarG2784
+- Mar_6:12predicaban...los hombres se arrepintiesenG2784
+- Mar_13:10que el evangelio sea predicado antes aG2784
+- Mar_14:9os digo que dondequiera que se prediqueG2784
+- Mar_16:15id por todo...y predicad el evangelio aG2784
+- Mar_16:20saliendo, predicaron en todas partesG2784
+- Luc_3:3fue por toda la...predicando el bautismoG2784
+- Luc_4:19a predicar el año agradable del SeñorG2784
+- Luc_4:44y predicaba en las sinagogas de GalileaG2784
+- Luc_8:1iba...predicando...el evangelio del reinoG2784
+- Luc_9:2y los envió a predicar el reino de DiosG2784
+- Luc_24:47se predicase en su hombre...el perdón deG2784
+- Hec_5:42no cesaban de...predicar a JesucristoG2097
+- Hec_8:5entonces Felipe...les predicaba a CristoG2784
+- Hec_9:20predicaba a Cristo en las sinagogasG2784
+- Hec_10:37después del bautismo que predicó JuanG2784
+- Hec_10:42nos mandó que predicásemos al puebloG2784
+- Hec_13:24antes de su venida, predicó Juan elG4296
+- Hec_14:7y allí predicaban el evangelioG2097
+- Hec_14:25habiendo predicado la palabra en PergeG2980
+- Hec_15:21Moisés...tiene...quien lo predique en lasG2784
+- Hec_17:18les predicaba el evangelio de Jesús, y deG2097
+- Hec_19:13conjuro por Jesús, el que predica PabloG2784
+- Hec_20:25entre quienes he pasado predicando elG2784
+- Hec_28:31predicando el reino de Dios y enseñandoG2784
+- Rom_2:21que predicas que no se ha de hurtarG2784
+- Rom_10:8esta es la palabra de fe que predicamosG2784
+- Rom_10:14cómo oirán sin haber quién les predique?[[G2784]]
+- Rom_10:15cómo predicarán si no fueren enviados?[[G2784]]
+- Rom_15:20me esforcé a predicar el evangelio, noG2097
+- 1Co_1:17sino a predicar el evangelio; no conG2097
+- 1Co_1:23nosotros predicamos a Cristo crucificadoG2784
+- 1Co_9:18que predicando el evangelio, presenteG2097
+- 1Co_15:1el evangelio que os he predicado, el cualG2097
+- 1Co_15:2retenéis la palabra que os he predicadoG2097
+- 1Co_15:11sea...así predicamos, y así habéis creídoG2784
+- 1Co_15:12si se predica de Cristo que resucitó deG2784
+- 2Co_1:19que...ha sido predicado por nosotrosG2784
+- 2Co_2:12cuando llegué a Troas para predicar el
+- 2Co_4:5no nos predicamos a nosotros mismos, sinoG2784
+- 2Co_11:4si viene alguno predicando a otro JesúsG2784
+- 2Co_11:4otro Jesús que el que os hemos predicadoG2784
+- 2Co_11:7por cuanto os he predicado el evangelioG2784
+- Gál_1:9alguno os predica diferente evangelioG2097
+- Gál_1:16que yo le predicase entre los gentilesG2097
+- Gál_1:23nos perseguía, ahora predica la fe queG2097
+- Gál_2:2expuse en...el evangelio que predico entreG2784
+- Gál_5:11si aún predico la circuncisión, ¿por quéG2784
+- Flp_1:15verdad, predican a Cristo por envidiaG2784
+- Col_1:23el cual se predica en toda la creaciónG2784
+- 1Ts_2:9os predicamos el evangelio de DiosG2784
+- 1Ti_3:16predicado a los gentiles, creído enG2784
+- 1Ti_5:17los que trabajan en predicar y enseñarG3056
+- 2Ti_4:2que prediques la palabra; que instesG2784
+- 1Pe_1:12los que os han predicado el evangelioG2097
+- 1Pe_3:19en el cual también fue y predicó a losG2784
+- 1Pe_4:6también ha sido predicado el evangelio aG2097
+- Rev_14:6el evangelio eterno para predicarlo aG2097

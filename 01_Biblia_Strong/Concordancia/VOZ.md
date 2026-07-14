@@ -1,0 +1,566 @@
+---
+tipo: concordancia
+palabra: VOZ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VOZ
+
+- Gén_3:8y oyeron la v de...Dios que se PaseabaH6963
+- Gén_3:10y él respondió: Oí tu v en el huerto, yH6963
+- Gén_3:17cuanto obedeciste a la v de tu mujer, yH6963
+- Gén_4:10la v de la sangre de tu hermano clama aH6963
+- Gén_4:23dijo Lamec a sus...Ada y Zila, oíd mi vH6963
+- Gén_21:12en todo lo que te dijere Sara, oye su vH6963
+- Gén_21:16enfrente, el muchacho alzó su v y lloróH6963
+- Gén_21:17oyó Dios la v del muchacho; y el ángelH6963
+- Gén_21:17porque Dios ha oído la v del muchachoH6963
+- Gén_22:11ángel de Jehová le dio v desde el cieloH7121
+- Gén_22:18benditas...por cuanto obedeciste a mi vH6963
+- Gén_26:5por cuanto oyó Abraham mi v, y guardóH6963
+- Gén_27:8mío, obedece a mi v en lo que te mandoH6963
+- Gén_27:13hijo...obedece a mi v y vé y tráemelosH6963
+- Gén_27:22la v es la v de Jacob, pero las manosH6963
+- Gén_27:38bendíceme...Y alzó Esaú su v, y lloróH6963
+- Gén_27:43hijo mío, obedece a mi v; levántate yH6963
+- Gén_29:11y Jacob besó a Raquel, y alzó su v yH6963
+- Gén_30:6también oyó mi v, y me dio un hijo...PorH6963
+- Gén_39:14para dormir conmigo, y yo di grandes vH6963
+- Gén_39:15y viendo que yo alzaba la v y gritabaH6963
+- Gén_39:18cuando yo alcé mi v y grité, él dejó suH6963
+- Éxo_3:18oirán tu v; e irás tú, y los ancianosH6963
+- Éxo_4:1que ellos no me creerán, ni oirán mi vH6963
+- Éxo_4:8ni obedecieren a la v...creerán a la v deH6963
+- Éxo_4:9ni oyeren tu v, tornarás de las aguas delH6963
+- Éxo_5:2¿quién es Jehová, para que yo oiga su vH6963
+- Éxo_5:8ociosos, por eso levantan la v diciendoH6817
+- Éxo_15:26si oyeres atentamente la v de JehováH6963
+- Éxo_18:19oye ahora mi v; yo te aconsejaré, yH6963
+- Éxo_18:24y oyó Moisés la v de su suegro, e hizoH6963
+- Éxo_19:5si diereis oído a mi v, y guardareis miH6963
+- Éxo_19:19y Dios le respondía con v tronanteH6963
+- Éxo_23:21guárdate delante de él, y oye su v, noH6963
+- Éxo_23:22oyeres su v e hicieres...yo te dijereH6963
+- Éxo_24:3todo el pueblo respondió a una v, y dijoH6963
+- Éxo_32:18él...No es v de alaridos de fuertes, niH6963
+- Éxo_32:18ni v de alaridos...v de cantar oigo yoH6963
+- Núm_7:89oía la v que le hablaba de encima delH6963
+- Núm_14:1toda la congregación gritó, y dio v; y elH6963
+- Núm_14:22me han tentado ya...y no han oído mi vH6963
+- Núm_20:16y clamamos a Jehová...oyó nuestra v, yH6963
+- Núm_21:3Jehová escuchó la v de Israel, y entregóH6963
+- Deu_1:34oyó Jehová la v de vuestras palabrasH6963
+- Deu_1:45pero Jehová no escuchó vuestra v, ni osH6963
+- Deu_4:12habló...oísteis la v de sus palabras, masH6963
+- Deu_4:12a excepción de oír la v, ninguna figuraH6963
+- Deu_4:30te volvieres a Jehová tu...y oyeres su vH6963
+- Deu_4:33¿ha oído pueblo alguno la v de DiosH6963
+- Deu_4:36desde los cielos te hizo oír su v, paraH6963
+- Deu_5:22estas palabras habló Jehová...a gran vH6963
+- Deu_5:23oísteis la v de en medio de...tinieblasH6963
+- Deu_5:24hemos oído su v de en medio del fuegoH6963
+- Deu_5:25si oyéremos otra vez la v de...moriremosH6963
+- Deu_5:26¿qué es el...para que oiga la v del DiosH6963
+- Deu_5:28oyó Jehová la v...me dijo...He oído la vH6963
+- Deu_8:20no habréis atendido a la v de JehováH6963
+- Deu_9:23rebeldes...Dios...ni obedecisteis a su vH6963
+- Deu_13:4a él temeréis...y escucharéis su v, y aH6963
+- Deu_13:18cuando obedecieres a la v de Jehová tuH6963
+- Deu_15:5si escuchares...la v de Jehová tu DiosH6963
+- Deu_18:16no vuelva yo a oír la v de Jehová miH6963
+- Deu_21:18no...a la v de su padre...v de su madreH6963
+- Deu_21:20es contumaz y no obedece a nuestra vH6963
+- Deu_22:24la joven porque no dio v en la ciudadH6817
+- Deu_22:27dio v la joven desposada, y no huboH6817
+- Deu_26:7y Jehová oyó nuestra v, y vio nuestraH6963
+- Deu_26:14he obedecido a la v de Jehová mi DiosH6963
+- Deu_26:17has declarado...y que escucharás su vH6963
+- Deu_27:10oirás, pues, la v de Jehová tu Dios, yH6963
+- Deu_27:14dirán a todo varón de Israel en alta vH6963
+- Deu_28:1que si oyeres...la v de Jehová tu DiosH6963
+- Deu_28:2bendiciones...si oyeres la v de JehováH6963
+- Deu_28:15no oyeres la v de Jehová tu Dios, paraH6963
+- Deu_28:45no habrás atendido a la v de Jehová tuH6963
+- Deu_28:62cuanto no obedecisteis a la v de JehováH6963
+- Deu_30:2y obedecieres a su v conforme a todo loH6963
+- Deu_30:8y tú volverás, y oirás la v de JehováH6963
+- Deu_30:10cuando obedecieres a la v de Jehová tuH6963
+- Deu_30:20atendiendo a su v, y siguiéndole a élH6963
+- Deu_33:7oye, oh Jehová, la v de Judá, y llévaloH6963
+- Jos_5:6cuanto no obedecieron a la v de JehováH6963
+- Jos_6:5el pueblo gritará a gran v, y el muro deH6963
+- Jos_6:10ni se oirá vuestra v, ni saldrá palabraH6963
+- Jos_10:14habiendo atendido Jehová a la v de unH6963
+- Jos_22:2habéis obedecido a mi v en todo lo queH6963
+- Jos_24:24Dios serviremos, y a su v obedeceremosH6963
+- Jue_2:2mas vosotros no habéis atendido a mi vH6963
+- Jue_2:4el ángel...habló...pueblo alzó su v y lloróH6963
+- Jue_2:20traspasa mi pacto...y no obedece a mi vH6963
+- Jue_5:28madre...por entre las celosías a v diceH6963
+- Jue_6:10dije...pero no habéis obedecido a mi vH6963
+- Jue_9:7y alzando su v clamó y les dijo: OídmeH6963
+- Jue_13:9Dios oyó la v de Manoa; y el ángel deH6963
+- Jue_18:3casa...reconocieron la v del joven levitaH6963
+- Jue_18:23dando v a los de Dan, éstos volvieronH6963
+- Jue_18:25no des v tras nosotros, no sea que losH6963
+- Jue_20:13no quisieron oír la v de sus hermanosH6963
+- Jue_21:2y alzando su v hicieron gran llanto, yH6963
+- Rut_1:9besó, y ellas alzaron su v y lloraronH6963
+- Rut_1:14ellas alzaron otra vez su v y lloraronH6963
+- 1Sa_1:13v no se oía; y Elí la tuvo por ebriaH6963
+- 1Sa_2:25pero ellos no oyeron la v de su padreH6963
+- 1Sa_4:6oyeron la v de...¿Qué v de gran júbilo esH6963
+- 1Sa_5:10los ecronitas dieron v, diciendo: HanH6963
+- 1Sa_8:7dijo Jehová...Oye la v del pueblo en todoH6963
+- 1Sa_8:9oye su v; mas protesta...contra ellos, yH6963
+- 1Sa_8:19el pueblo no quiso oír la v de SamuelH6963
+- 1Sa_8:22dijo a...Oye su v, y pon rey sobre ellosH6963
+- 1Sa_11:4Gabaa...todo el pueblo alzó su v y lloróH6963
+- 1Sa_12:1yo he oído vuestra v en todo cuanto meH6963
+- 1Sa_12:14si temiereis a Jehová...y oyereis su vH6963
+- 1Sa_12:15mas si no oyereis la v de Jehová, y siH6963
+- 1Sa_15:19¿por qué...no has oído la v de JehováH6963
+- 1Sa_15:20he obedecido la v de Jehová, y fui a laH6963
+- 1Sa_15:24yo he pecado...consentí a la v de ellosH6963
+- 1Sa_17:8y se paró y dio v a los escuadrones deH7121
+- 1Sa_19:6y escuchó Saúl la v de Jonatán, y juróH6963
+- 1Sa_20:37dio v tras el muchacho, diciendo: ¿NoH7121
+- 1Sa_24:8David...dio v detrás de Saúl, diciendoH7121
+- 1Sa_24:16Saúl dijo: ¿No es esta la v tuya, hijoH6963
+- 1Sa_24:16mío David? Y alzó Saúl su v y lloróH6963
+- 1Sa_25:35he oído tu v, y te he tenido respetoH6963
+- 1Sa_26:14dio v David al pueblo, y a Abner hijoH7121
+- 1Sa_26:17y conociendo Saúl la v de David, dijoH6963
+- 1Sa_26:17¿no es esta tu v...Mi v es, rey señorH6963
+- 1Sa_28:12y viendo la mujer a...clamó en alta vH6963
+- 1Sa_28:18tú no obedeciste a la v de Jehová, niH6963
+- 1Sa_28:21he aquí...tu sierva ha obedecido a tu vH6963
+- 1Sa_28:22te ruego, pues...oigas la v de tu siervaH6963
+- 1Sa_30:4David y...alzaron su v y lloraron, hastaH6963
+- 2Sa_2:26Abner dio v...diciendo: ¿Consumirá laH6963
+- 2Sa_3:32y alzando el rey su v, lloró junto alH6963
+- 2Sa_12:18hablábamos, y no quería oír nuestra vH6963
+- 2Sa_13:36los hijos del rey...alzando su v lloraronH6963
+- 2Sa_15:23y todo el país lloró en alta v; pasóH6963
+- 2Sa_18:25el atalaya dio luego v, y lo hizo saberH6963
+- 2Sa_18:26dio v el atalaya al portero, diciendoH6963
+- 2Sa_18:28Ahimaas dijo en alta v al rey: Paz...Y seH6963
+- 2Sa_19:4mas el rey...clamaba en alta v: ¡Hijo míoH6963
+- 2Sa_19:35¿oiré más la v de los cantores y de lasH6963
+- 2Sa_20:16una mujer sabia dio v en la ciudadH6963
+- 2Sa_22:7oyó mi v desde su templo, y mi clamorH6963
+- 2Sa_22:14tronó desde los...y el Altísimo dio su vH6963
+- 1Re_8:55bendijo...Israel, diciendo en v altaH6963
+- 1Re_13:32sin duda vendrá lo que él dijo a v porH6963
+- 1Re_17:22y Jehová oyó la v de Elías, y el almaH6963
+- 1Re_18:26, 1Re_18:29no había v, ni quien respondieseH6963
+- 1Re_18:27gritad en alta v...hay que despertarleH6963
+- 1Re_18:28clamaban a grandes v, y se sajaban conH6963
+- 1Re_19:13vino a él una v, diciendo: ¿Qué hacesH6963
+- 1Re_20:39cuando el rey pasaba, él dio v al reyH6963
+- 1Re_22:13profetas a una v anuncian al rey cosasH6963
+- 2Re_4:31pero no tenía v ni sentido, y así seH6963
+- 2Re_7:10que no había allí nadie, ni v de hombreH6963
+- 2Re_11:14a v en cuello: ¡Traición, traición![[H6963]]
+- 2Re_18:12no habían atendido a la v de Jehová suH6963
+- 2Re_18:28el Rabsaces...clamó a gran v en lenguaH6963
+- 2Re_19:22¿a quién...contra quién has alzado la vH6963
+- 1Cr_15:16cantores...alzasen la v con alegríaH6963
+- 2Cr_5:13que alzaban la v con trompetas yH6963
+- 2Cr_15:14y juraron a Jehová con gran v y júbiloH6963
+- 2Cr_18:12profetas a una v anuncian al rey cosasH6963
+- 2Cr_20:19alabar a Jehová el...con fuerte y alta vH6963
+- 2Cr_30:27y la v de ellos fue oída, y su oraciónH6963
+- 2Cr_32:18clamaron a gran v en judaico al puebloH6963
+- Esd_3:12lloraban en alta v, mientras muchosH6963
+- Esd_3:13los gritos de alegría, de la v del lloro
+- Esd_10:12dijeron en alta v: Así se haga conformeH6963
+- Neh_9:4y clamaron en v alta a Jehová su DiosH6963
+- Neh_12:42y los cantores cantaban en alta v, e
+- Job_3:18los cautivos; no oyen la v del capatazH6963
+- Job_5:1ahora...da v; ¿habrá quién te responda?[[H7121]]
+- Job_9:16aún no creeré que haya escuchado mi vH6963
+- Job_19:7no seré oído; daré v, y no habrá juicioH7768
+- Job_29:10la v de los principales se apagaba, yH6963
+- Job_30:31luto, y mi flauta en v de lamentadoresH6963
+- Job_33:8y yo oí la v de tus palabras que decíanH6963
+- Job_34:16oye esto; escucha la v de mis palabrasH6963
+- Job_37:2oíd...el estrépito de su v, y el sonidoH6963
+- Job_37:4el sonido, truena él con v majestuosa, yH6963
+- Job_37:4y aunque sea oída su v, no los detieneH6963
+- Job_37:5truena Dios...con su v; él hace grandesH6963
+- Job_38:34¿alzarás tú a...tu v, para que te cubraH6963
+- Job_39:7se burla de la...no oye las v del arrieroH8663
+- Job_40:9un brazo...y truenas con v como la suya?[[H6963]]
+- Sal_3:4con mi v clamé a Jehová, y...respondióH6963
+- Sal_5:2está atento a la v de mi clamor, Rey míoH6963
+- Sal_5:3Jehová, de mañana oirás mi v; de mañanaH6963
+- Sal_5:11den v de júbilo para siempre, porque túH7442
+- Sal_6:8porque Jehová ha oído la v de mi lloroH6963
+- Sal_18:6él oyó mi v desde su templo, y mi clamorH6963
+- Sal_18:13tronó en los...y el Altísimo dio su vH6963
+- Sal_19:3no hay lenguaje, ni...ni es oída su vH6963
+- Sal_19:4por toda la tierra salió su v, y hasta
+- Sal_26:7exclamar con v de acción de gracias, yH6963
+- Sal_27:7oh Jehová, mi v con que a ti clamo; tenH6963
+- Sal_28:2oye la v de mis ruegos cuando clamo a tiH6963
+- Sal_28:6bendito sea...que oyó la v de mis ruegosH6963
+- Sal_29:3v de Jehová sobre las aguas; truena elH6963
+- Sal_29:4v de Jehová con potencia; v de JehováH6963
+- Sal_29:5v de Jehová que quebranta los cedrosH6963
+- Sal_29:7v de Jehová que derrama llamas de fuegoH6963
+- Sal_29:8v de Jehová que hace temblar el desiertoH6963
+- Sal_29:9v de Jehová que desgaja las encinas, yH6963
+- Sal_31:22tú oíste la v de mis ruegos cuando a tiH6963
+- Sal_42:4v de alegría y de alabanza del pueblo enH6963
+- Sal_42:7un abismo llama a otro a la v de tusH6963
+- Sal_44:16por la v del que me vitupera y deshonraH6963
+- Sal_46:6reinos; dio él su v, se derritió la tierraH6963
+- Sal_47:1manos; aclamad a Dios con v de júbiloH6963
+- Sal_55:3de la v del enemigo, por la opresión delH6963
+- Sal_55:17y mañana y a...clamaré, y él oirá mi vH6963
+- Sal_58:5que no oye la v de los que encantan, porH6963
+- Sal_64:1escucha...Dios, la v de mi queja; guardaH6963
+- Sal_65:13valles...dan v de júbilo, y aun cantanH7321
+- Sal_66:8Dios, y haced oír la v de su alabanzaH6963
+- Sal_66:19me escuchó Dios; atendió a la v de miH6963
+- Sal_68:33cielos...he aquí dará su v, poderosa vH6963
+- Sal_74:23no olvides las v de tus enemigos; elH6963
+- Sal_77:1con mi v clamé a Dios, a Dios clamé, yH6963
+- Sal_77:18v de tu trueno estaba en el torbellinoH6963
+- Sal_81:11pero mi pueblo no oyó mi v, e Israel noH6963
+- Sal_86:6mi oración...atento a la v de mis ruegosH6963
+- Sal_95:7-8si oyereis hoy su v, no endurezcáisH6963
+- Sal_98:4cantad alegres...levantad la v, y aplaudid
+- Sal_98:5cantad salmos...con arpa y v de cánticoH6963
+- Sal_102:5por la v de mi gemido mis huesos se hanH6963
+- Sal_103:20obedeciendo a la v de su preceptoH6963
+- Sal_106:25tiendas, y no oyeron la v de JehováH6963
+- Sal_116:1amo a Jehová, pues ha oído mi v y misH6963
+- Sal_118:15v de júbilo y de salvación hay en lasH6963
+- Sal_119:149oye mi v conforme a tu misericordiaH6963
+- Sal_130:2Señor, oye mi v; estén atentos tusH6963
+- Sal_130:2atentos tus oídos a la v de mi súplicaH6963
+- Sal_132:16vestiré...sus santos darán v de júbiloH7442
+- Sal_140:6escucha, oh Jehová, la v de mis ruegosH6963
+- Sal_141:1a mí; escucha mi v cuando te invocareH6963
+- Sal_142:1con mi v clamaré a...con mi v pediré aH6963
+- Pro_1:20la sabiduría...alza su v en las plazasH6963
+- Pro_2:3si clamares...a la prudencia dieres tu vH6963
+- Pro_5:13no oí la v de los que me instruían, y aH6963
+- Pro_8:1¿no clama la...y da su v la inteligencia?[[H6963]]
+- Pro_8:3ciudad, a la entrada de las puertas da vH7442
+- Pro_8:4dirijo mi v a los hijos de los hombresH6963
+- Pro_27:14el que bendice a su amigo en alta vH6963
+- Ecl_5:3multitud de las palabras la v del necioH6963
+- Ecl_5:6que Dios se enoje a causa de tu v, y queH6963
+- Ecl_10:20las aves del cielo llevarán la v, y lasH6963
+- Ecl_12:4se levantará a la v del ave, y todas lasH6963
+- Cnt_2:8¡la v de mi amado! He aquí él vieneH6963
+- Cnt_2:12y en nuestro país se ha oído la v de laH6963
+- Cnt_2:14hazme oír tu v; porque dulce es laH6963
+- Cnt_5:2es la v de mi amado que llama: ÁbremeH6963
+- Cnt_8:13compañeros escuchan tu v; házmela oírH6963
+- Isa_6:3el uno al otro daba v, diciendo: SantoH6963
+- Isa_6:4estremecieron con la v del que clamabaH6963
+- Isa_6:8oí la v del Señor, que decía: ¿A quiénH6963
+- Isa_10:30grita en alta v, hija de Galim; hazH6963
+- Isa_13:2alzad la v a ellos, alzad la mano, paraH6963
+- Isa_14:10todos ellos darán v, y te dirán: ¿TúH6030
+- Isa_15:4gritarán, hasta Jahaza se oirá su v; porH6963
+- Isa_21:11me dan v de Seir: Guarda, ¿qué de laH7121
+- Isa_24:14alzarán su v...desde el mar darán vH6963
+- Isa_24:18el que huyere de la v del terror caeráH6963
+- Isa_28:23Estad atentos, y oíd mi v; atendedH6963
+- Isa_29:4y será tu v de la tierra como la de unH6963
+- Isa_30:7le di v, que su fortaleza sería estarseH7121
+- Isa_30:19al oír la v de tu clamor te responderáH6963
+- Isa_30:30y Jehová hará oír su potente v, y haráH6963
+- Isa_30:31con la v de Jehová será quebrantadaH6963
+- Isa_31:4como el león y...no lo espantarán sus vH6963
+- Isa_32:9mujeres indolentes, levantaos, oíd mi vH6963
+- Isa_33:3los pueblos huyeron a la v del estruendoH6963
+- Isa_33:7aquí que sus embajadores darán v afueraH6817
+- Isa_36:13el Rabsaces...en pie y gritó a gran vH6963
+- Isa_37:23¿contra quién has alzado tu v, y...ojosH6963
+- Isa_40:2decidle a v...su tiempo es ya cumplidoH7121
+- Isa_40:3v que clama en el desierto: PreparadH6963
+- Isa_40:6v que decía: Da v...tengo que decir a v?[[H6963]]
+- Isa_40:9levanta...tu v, anunciadora de JerusalénH6963
+- Isa_42:2no gritará, ni alzará su v, ni la haráH6817
+- Isa_42:11alcen la v el desierto y sus ciudades
+- Isa_42:11cumbre de los montes den v de júbilo
+- Isa_42:14v como la que está de parto; asolaréH6463
+- Isa_48:20dad nuevas de esto con v de alegríaH6963
+- Isa_50:10teme a Jehová, y...la v de su siervo?[[H6963]]
+- Isa_51:3hallará en ella...alabanza y v de cantoH6963
+- Isa_52:8¡v de tus atalayas! Alzarán la v...v deH6963
+- Isa_54:1levanta canción y da v de júbilo, la queH6670
+- Isa_58:1clama a v en cuello...tu v como trompetaH6963
+- Isa_58:4para que vuestra v sea oída en lo altoH6963
+- Isa_65:19nunca más...v de lloro, ni v de clamorH6963
+- Isa_65:19nunca...oirán en ella v de lloro, ni v de clamorH6963
+- Isa_66:6v de alboroto de la ciudad, v del temploH6963
+- Isa_66:6v de Jehová...da el pago a sus enemigosH6963
+- Jer_2:15alzaron su v, y asolaron su tierra
+- Jer_3:13fornicaste...no oíste mi v, dice JehováH6963
+- Jer_3:21v fue oída sobre las alturas, llanto deH6963
+- Jer_3:25día, y no hemos escuchado la v de JehováH6963
+- Jer_4:15porque una v trae las nuevas desde DanH6963
+- Jer_4:16lanzarán su v contra...ciudades de JudáH6963
+- Jer_4:31una v como de mujer que está de partoH6963
+- Jer_4:31oí...v de la hija de Sion que lamenta yH6963
+- Jer_7:23escuchad mi v, y seré a vosotros...DiosH6963
+- Jer_7:28nación que no escuchó la v de Jehová suH6963
+- Jer_7:34cesar...la v de gozo y la v de alegríaH6963
+- Jer_7:34v del esposo y la v de la esposa; porqueH6963
+- Jer_8:19v del clamor de la hija de mi puebloH6963
+- Jer_9:13y no obedecieron a mi v, ni caminaronH6963
+- Jer_9:19porque de Sion fue oída v de endechaH6963
+- Jer_10:13a su v se produce muchedumbre de aguasH6963
+- Jer_10:22v de rumor viene, y alboroto grande deH6963
+- Jer_11:4oíd mi v, y cumplid mis palabras...y meH6963
+- Jer_11:7hasta el día de hoy, diciendo: Oíd mi vH6963
+- Jer_11:16la v de recio estrépito hizo encenderH6963
+- Jer_16:9cesar...v de gozo y toda v de alegríaH6963
+- Jer_16:9cesar...v de esposo y toda v de esposaH6963
+- Jer_18:10si hiciere lo malo...no oyendo mi v, meH6963
+- Jer_18:19oh Jehová, mira por mí, y oye la v deH6963
+- Jer_20:8doy v, grito: Violencia y destrucciónH2199
+- Jer_20:16oiga gritos de mañana, y v a mediodíaH2201
+- Jer_22:20en Basán da tu v, y grita hacia todasH6963
+- Jer_22:21este fue tu camino...nunca oíste mi vH6963
+- Jer_25:10que desaparezca...la v de gozo y la vH6963
+- Jer_25:10la v de desposado y la v de desposadaH6963
+- Jer_25:30alto, y desde su morada santa dará su vH6963
+- Jer_25:36¡v de la gritería de los pastores, yH6963
+- Jer_26:13oíd la v de Jehová vuestro Dios, y seH6963
+- Jer_30:5hemos oído v de temblor; de espanto, yH6963
+- Jer_30:19saldrá de ellos...v de nación que estáH6963
+- Jer_31:7dad v de júbilo a la cabeza de naciones
+- Jer_31:15v fue oída en Ramá, llanto y lloroH6963
+- Jer_31:16ha dicho...Reprime del llanto tu v, yH6963
+- Jer_32:23y la disfrutaron; pero no oyeron tu vH6963
+- Jer_33:11oírse...v de gozo...v de desposado y v deH6963
+- Jer_33:11v de los que digan...v de los que traiganH6963
+- Jer_35:8hemos obedecido a la v de nuestro padreH6963
+- Jer_38:20oye...la v de Jehová que yo te hablo, yH6963
+- Jer_40:3pecasteis...no oísteis su v, por eso osH6963
+- Jer_42:6a la v de Jehová...obedeciendo a la v deH6963
+- Jer_42:13tierra, no obedeciendo así...v de JehováH6963
+- Jer_42:21no habéis obedecido a la v de JehováH6963
+- Jer_43:4no obedeció...pueblo, a la v de JehováH6963
+- Jer_43:7porque no obedecieron a la v de JehováH6963
+- Jer_44:23no obedecisteis a la v de Jehová, niH6963
+- Jer_46:22su v saldrá como de serpiente; porqueH6963
+- Jer_48:3¡v de clamor de Horonaim, destrucciónH6963
+- Jer_48:34hasta Jabaza dieron su v; desde ZoarH6963
+- Jer_49:21grito de su v se oirá en el Mar RojoH6963
+- Jer_50:28v de los que huyen y escapan de laH6963
+- Jer_50:42su v rugirá como el mar, y montaránH6963
+- Jer_51:16a su v se producen tumultos de aguasH6963
+- Jer_51:55como sonido de muchas aguas será la vH6963
+- Lam_1:19di v a mis amantes, mas ellos me hanH7121
+- Lam_2:7resonar su v en la casa de Jehová comoH6963
+- Lam_2:19levántate, da v en la noche...vigiliasH7442
+- Lam_3:8aun cuando clamé y di v, cerró los oídosH6963
+- Lam_3:56oíste mi v; no escondas tu oído al...misH7725
+- Eze_1:24como la v del Omnipotente, como ruidoH6963
+- Eze_1:25se oía una v de arriba de la expansiónH6963
+- Eze_1:28mi rostro, y oí la v de uno que hablabaH6963
+- Eze_3:12oí detrás de mí una v de gran estruendoH6963
+- Eze_8:18gritarán a mis oídos con gran v, y noH6963
+- Eze_9:1clamó en mis oídos con gran v, diciendoH6963
+- Eze_10:5se oía,...como la v del Dios OmnipotenteH6963
+- Eze_11:13clamé con gran v, y dije: ¡Ah, SeñorH6963
+- Eze_19:9su v no se oyese más sobre los montesH6963
+- Eze_21:22para levantar la v en grito de guerraH6963
+- Eze_23:42y se oyó en ella v de compañía que seH6963
+- Eze_27:28al estrépito de las v de tus marinerosH2201
+- Eze_27:30y harán oír su v sobre ti, y gritaránH6963
+- Eze_33:32cantor...hermoso de v y que canta bienH6963
+- Dan_3:4pregonero anunciaba en alta v: MándaseH7123
+- Dan_4:31vino una v del cielo: A ti se te diceH6963
+- Dan_5:7rey gritó en alta v que hiciesen venirH7123
+- Dan_6:20llamó a v a Daniel con v triste, y leH6963
+- Dan_8:16y oí una v de hombre entre las riberasH6963
+- Dan_9:10no obedecimos a la v de Jehová nuestroH6963
+- Dan_9:11Israel traspasó...para no obedecer tu vH6963
+- Dan_9:14lo trajo...Porque no obedecimos a su vH6963
+- Joe_3:16y Jehová...dará su v desde JerusalénH6963
+- Amó_1:2Sion, y dará su v desde Jerusalén, yH6963
+- Jon_2:2el seno del Seol clamé, y mi v oísteH6963
+- Jon_2:9con v de alabanza te ofreceré sacrificiosH6963
+- Miq_6:1contiende...y oigan los collados tu vH6963
+- Miq_6:9v de Jehová clama a la ciudad; es sabioH6963
+- Nah_2:13nunca...oirá la v de tus mensajerosH6963
+- Hab_1:2y daré v a ti a causa de la violenciaH7768
+- Hab_3:10el abismo dio su v, a lo alto alzó susH6963
+- Hab_3:16a la v temblaron mis labios; pudriciónH6963
+- Sof_1:10habrá...v de clamor desde la puertaH6818
+- Sof_1:14amarga la v del día de Jehová; gritaráH6963
+- Sof_2:14dinteles; su v cantará en las ventanasH6963
+- Sof_3:2no escuchó la v, ni...la corrección; noH6963
+- Sof_3:14da v de júbilo...gózate y regocíjate de
+- Hag_1:12oyó Zorobabel...v de Jehová su DiosH6963
+- Zac_6:15si oyereis obedientes la v de JehováH6963
+- Zac_9:9da v de júbilo, hija de Jerusalén; heH7321
+- Zac_11:3v de aullido de pastores...estruendo deH6963
+- Mat_2:18v fue...en Ramá, grande lamentaciónG5456
+- Mat_3:3Isaías...V del que clama en el desiertoG5456
+- Mat_3:17y hubo una v de los cielos, que decíaG5456
+- Mat_9:27allí, le siguieron dos ciegos, dando vG2896
+- Mat_11:16muchachos que...dan v a sus compañerosG4377
+- Mat_12:19no...ni nadie oirá en las calles su vG2896
+- Mat_14:26y los discípulos...y dieron v de miedoG2896
+- Mat_14:30tuvo miedo...dio v...¡Señor, sálvame![[G2896]]
+- Mat_15:23despídela, pues da v tras nosotrosG2896
+- Mat_17:5he aquí una v desde la nube, que decíaG5456
+- Mat_24:31y enviará sus ángeles con gran v deG5456
+- Mat_27:46Jesús clamó a gran v, diciendo: ElíG5456
+- Mat_27:50clamado a gran v, entregó el espírituG5456
+- Mar_1:3v del que clama en...desierto: PreparadG5456
+- Mar_1:11vino una v de los cielos que decía: TúG5456
+- Mar_1:23un hombre con espíritu inmundo, que dio vG349
+- Mar_1:26espíritu...clamando a gran v, salió deG5456
+- Mar_3:11daban v, diciendo: Tú eres el Hijo deG2896
+- Mar_5:5andaba dando v en los montes y...sepulcrosG2896
+- Mar_5:7y clamando a gran v, dijo: ¿Qué tienesG5456
+- Mar_9:7desde la nube una v que decía: Este esG5456
+- Mar_10:47oyendo que...comenzó a dar v y a decirG2896
+- Mar_11:9daban v, diciendo: ¡Hosanna! Bendito elG2896
+- Mar_15:13ellos volvieron a dar v: ¡Crucifícale![[G2896]]
+- Mar_15:34Jesús clamó a gran v, diciendo: EloiG5456
+- Mar_15:37mas Jesús, dando una gran v, expiróG5456
+- Luc_1:42y exclamó a gran v...Bendita tú entreG5456
+- Luc_1:44porque tan pronto como llegó la v de tuG5456
+- Luc_3:4que dice: V del que clama en el desiertoG5456
+- Luc_3:22vino una v del cielo que decía: Tú eresG5456
+- Luc_4:33un espíritu...el cual exclamó a gran vG5456
+- Luc_4:41dando v y diciendo: Tú eres el Hijo deG2896
+- Luc_7:32dan v unos a otros y dicen: Os tocamosG4377
+- Luc_8:8decía a gran v: El que tiene oídos paraG5456
+- Luc_8:28exclamó a gran v: ¿Qué tienes conmigoG5456
+- Luc_9:35vino...v desde la nube, que decía: EsteG5456
+- Luc_9:36y cuando cesó la v, Jesús fue halladoG5456
+- Luc_9:39de repente da v, y le sacude con violenciaG2896
+- Luc_11:27levantó la v y le dijo: BienaventuradoG5456
+- Luc_16:24él, dando v, dijo: Padre Abraham, tenG5455
+- Luc_17:13y alzaron la v, diciendo...misericordiaG5456
+- Luc_17:15volvió, glorificando a Dios a gran vG5456
+- Luc_18:38dio v, diciendo: ¡Jesús, Hijo de DavidG994
+- Luc_19:37conenzó a alabar a Dios a grandes vG5456
+- Luc_23:18la multitud dio v a...diciendo: ¡FueraG5455
+- Luc_23:21pero ellos volvieron a dar v, diciendoG5455
+- Luc_23:23ellos instaban a grandes v, pidiendoG5456
+- Luc_23:23las v de ellos y de los...prevalecieronG5456
+- Luc_23:46clamando a gran v, dijo: Padre, en tusG5456
+- Jua_1:23la v de uno que clama en el desiertoG5456
+- Jua_3:29el amigo...se goza...de la v del esposoG5456
+- Jua_5:25muertos oirán la v del Hijo de Dios; yG5456
+- Jua_5:28que están en los sepulcros oirán su vG5456
+- Jua_5:37nunca habéis oído su v, ni habéis vistoG5456
+- Jua_7:28alzó la v y dijo: A mí me conocéis, y
+- Jua_7:37puso en pie y alzó la v, diciendo: SiG2896
+- Jua_10:3y las ovejas oyen su v; y a sus ovejasG5456
+- Jua_10:4ovejas le siguen, porque conocen su vG5456
+- Jua_10:5porque no conocen la v de los extrañosG5456
+- Jua_10:16y oirán mi v; y habrá un rebaño, y unG5456
+- Jua_10:27mis ovejas oyen mi v, y yo las conozcoG5456
+- Jua_11:43y...clamó a gran v: ¡Lázaro, ven fuera![[G5456]]
+- Jua_12:28entonces vino una v del cielo: Lo heG5456
+- Jua_12:29había oído la v, decía que había sido
+- Jua_12:30no ha venido esta v por causa mía, sinoG5456
+- Jua_18:37aquel que es de la verdad, oye mi vG5456
+- Jua_18:40dieron v de nuevo, diciendo: No a ésteG2905
+- Jua_19:6dieron v...¡Crucifícale! ¡Crucifícale![[G2905]]
+- Jua_19:12pero los judíos daban v, diciendo: SiG2896
+- Hec_2:14Pedro...alzó la v y les habló diciendoG5456
+- Hec_4:24oído, alzaron...la v a Dios, y dijeronG5456
+- Hec_7:31acercándose...vino a él la v del SeñorG5456
+- Hec_7:57dando grandes v, se taparon los oídosG5456
+- Hec_7:60clamó a gran v: Señor, no les tomes enG5456
+- Hec_8:7salían éstos dando grandes v: y muchosG5456
+- Hec_9:4oyó una v que le decía: Saulo...¿por quéG5456
+- Hec_9:7oyendo a la verdad la v, mas sin ver aG5456
+- Hec_10:13una v: Levántate, Pedro, mata y comeG5456
+- Hec_10:15volvió la v a él la segunda vez: LoG5456
+- Hec_11:7oí una v que me decía: Levántate, PedroG5456
+- Hec_11:9la v me respondió del cielo por segundaG5456
+- Hec_12:14cuando reconoció la v de Pedro, de gozoG5456
+- Hec_12:22clamaba...¡V de Dios, y no de hombre![[G5456]]
+- Hec_14:10a gran v: Levántate derecho sobre tusG5456
+- Hec_14:11la v, diciendo...Dioses...han descendidoG5456
+- Hec_14:14y Pablo, rasgaron sus ropas...dando vG2896
+- Hec_16:17daba v, diciendo: Estos hombres sonG2896
+- Hec_16:28Pablo clamó a gran v, diciendo: No teG5456
+- Hec_19:34a una v gritaron...¡Grande es Diana deG5456
+- Hec_21:28dando v: ¡Varones israelitas, ayudad![[G2896]]
+- Hec_22:7y oí una v que me decía: Saulo, SauloG5456
+- Hec_22:9no entendieron la v del que hablabaG5456
+- Hec_22:22alzaron la v...Quita de la tierra a talG5456
+- Hec_23:6la v en el concilio: Varones hermanosG2896
+- Hec_24:21en alta v: Acerca de la resurrecciónG5456
+- Hec_25:24y aquí, dando v que no debe vivir másG5456
+- Hec_26:14oí una v que me hablaba...Saulo, ¿por quéG5456
+- Hec_26:24Festo a gran v dijo: Estás loco, PabloG5456
+- Rom_10:18por toda la tierra ha salido la v deG5353
+- Rom_15:6a una v, glorifiquéis al Dios y Padre
+- 1Co_14:7si no dieren distinción de v, ¿cómoG5456
+- 1Ts_4:16con v de mando, con v de arcángelG2752
+- Heb_3:7, Heb_3:15; Heb_3:4, Heb_3:7si oyereis hoy su vG5456
+- Heb_12:19y a la v que hablaba, la cual los queG5456
+- Heb_12:26la v del cual conmovió, la tierra, peroG5456
+- 2Pe_1:17fue enviada...una v que decía: EsteG5456
+- 2Pe_1:18oímos esta v enviada del cielo, cuandoG5456
+- 2Pe_2:16muda bestia...hablando con v de hombreG5456
+- Rev_1:10detrás de mí una...v como de trompetaG5456
+- Rev_1:12volví para ver la v que hablaba conmigoG5456
+- Rev_1:15y su v como estruendo de muchas aguasG5456
+- Rev_3:20si alguno oye mi v y abre...entraré a élG5456
+- Rev_4:1y la primera v que oí...dijo: Sube acá, yG5456
+- Rev_4:5trono salían relámpagos y truenos y vG5456
+- Rev_5:2un ángel fuerte que pregonaba a gran vG5456
+- Rev_5:11oí la v de muchos ángeles alrededor delG5456
+- Rev_5:12que decían a gran v: El Cordero que fueG5456
+- Rev_6:1decir como con v de trueno: Ven y miraG5456
+- Rev_6:6oí una v...que decía: Dos libras de trigoG5456
+- Rev_6:7oí la v del cuarto ser...que decía: VenG5456
+- Rev_6:10y clamaban a gran v, diciendo: ¿HastaG5456
+- Rev_7:2clamó a gran v a los cuatro ángeles, aG5456
+- Rev_7:10clamaban a gran v, diciendo...salvaciónG5456
+- Rev_8:5y hubo...v, y relámpagos, y un terremotoG5456
+- Rev_8:13diciendo a gran v: ¡Ay, ay, ay, de losG5456
+- Rev_9:13una v de entre los cuatro cuernos delG5456
+- Rev_10:3clamó a gran v...truenos emitieron sus vG5456
+- Rev_10:4truenos hubieron emitido sus v, yo ibaG5456
+- Rev_10:4oí una v del cielo que me decía: SellaG5456
+- Rev_10:7en los días de la v del séptimo ángelG5456
+- Rev_10:8la v que oí...habló otra vez conmigo, yG5456
+- Rev_11:12v del cielo, que les decía: Subid acáG5456
+- Rev_11:15v en el cielo, que decían: Los reinosG5456
+- Rev_11:19relámpagos, v, truenos, un terremotoG5456
+- Rev_12:10oí una gran v en el cielo, que decíaG5456
+- Rev_14:2una v...como estruendo de muchas aguasG5456
+- Rev_14:2y la v que oí era como de arpistas queG5456
+- Rev_14:7a gran v: Temed a Dios, y dadle gloriaG5456
+- Rev_14:9a gran v: Si alguno adora a la bestia yG5456
+- Rev_14:13oí una v que desde el cielo me decíaG5456
+- Rev_14:15salió otro ángel, clamando a gran v alG5456
+- Rev_14:18y llamó a gran v al que tenía la hozG5456
+- Rev_16:1gran v que decía...a los siete ángelesG5456
+- Rev_16:17salió una gran v del templo del cieloG5456
+- Rev_16:18hubo...v y truenos, y un gran temblorG5456
+- Rev_18:2clamó con v potente, diciendo: Ha caídoG5456
+- Rev_18:4y oí otra v del cielo, que decía: SalidG5456
+- Rev_18:18dieron v...¿Qué ciudad era semejante aG2896
+- Rev_18:19y dieron v, llorando y...diciendo: ¡AyG2896
+- Rev_18:22y v de arpistas...no se oirá más en tiG5456
+- Rev_18:23ni v de esposo y de esposa se oirá másG5456
+- Rev_19:1una gran v de gran multitud en el cieloG5456
+- Rev_19:5salió del trono una v que decía: AlabadG5456
+- Rev_19:6como la v de una gran multitud, comoG5456
+- Rev_19:6y oí...como la v de grandes truenos, queG5456
+- Rev_19:17clamó a gran v, diciendo a todas lasG5456
+- Rev_21:3oí una gran v, del cielo que decía: HeG5456

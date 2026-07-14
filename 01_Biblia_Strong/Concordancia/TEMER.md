@@ -1,0 +1,367 @@
+---
+tipo: concordancia
+palabra: TEMER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TEMER
+
+- Gén_15:1de Jehová a Abram en visión...No temasH3372
+- Gén_20:8y temieron los hombres en gran maneraH3372
+- Gén_21:17no temas; porque Dios ha oído la vozH3372
+- Gén_22:12conozco que temes a Dios, por cuantoH3373
+- Gén_26:24no temas, porque yo estoy contigo, yH3372
+- Gén_31:53Jacob juró por...a quien temía Isaac suH6343
+- Gén_32:11líbrame ahora...de Esaú, porque le temoH3373
+- Gén_35:17no temas, que también tendrás este hijoH3372
+- Gén_42:18haced esto, y vivid: Yo temo a DiosH3373
+- Gén_43:23respondió: Paz a vosotros, no temáisH3372
+- Gén_46:3no temas de descender a Egipto, porqueH3372
+- Gén_50:19no temáis: ¿acaso estoy yo en lugar deH3372
+- Éxo_1:12egipcios temían a los hijos de IsraelH6973
+- Éxo_1:17parteras temieron a Dios, y no hicieronH3372
+- Éxo_1:21y por haber las parteras temido a DiosH3372
+- Éxo_9:30ni tú ni tus siervos temeréis todavía laH3372
+- Éxo_14:10por lo que los hijos de Israel temieronH3372
+- Éxo_14:13Moisés dijo al pueblo: No temáis; estadH3372
+- Éxo_14:31y el pueblo temió a Jehová, y creyeronH3372
+- Éxo_20:20no temáis...para probaros vino Dios, yH3372
+- Lev_19:3temerá a su madre y a su padre, y misH3372
+- Lev_25:17sino temed a vuestro Dios; porque yoH3372
+- Núm_14:9no...ni temáis al pueblo de esta tierraH3372
+- Núm_14:9con nosotros está Jehová; no los temáisH3372
+- Deu_1:21toma posesión...no temas ni desmayesH3372
+- Deu_1:29os dije: No temáis, ni tengáis miedo deH3372
+- Deu_3:22no los temáis; porque Jehová vuestroH6206
+- Deu_4:10aprenderán, para temerme todos los díasH3372
+- Deu_5:29¡quién diera...me temiesen y guardasenH3372
+- Deu_6:2para que temas a Jehová tu Dios, guardandoH3372
+- Deu_6:13a Jehová tu Dios temerás, y a él soloH3372
+- Deu_6:24que temamos a Jehová nuestro Dios, paraH3372
+- Deu_7:19pueblos de cuya presencia tú temieresH3373
+- Deu_8:6Dios, andando en sus caminos, y temiéndoleH3372
+- Deu_9:19temí a causa del furor...con que JehováH3025
+- Deu_10:12sino que temas a Jehová tu Dios, queH3372
+- Deu_10:20a Jehová...temerás, a él solo servirásH3372
+- Deu_13:4Jehová...a él temeréis, guardaréis susH3372
+- Deu_13:11todo Israel oiga, y tema, y no vuelvaH3372
+- Deu_14:23que aprendas a temer a Jehová tu DiosH3372
+- Deu_17:13y todo el pueblo oirá, y temerá, y noH3372
+- Deu_17:19que aprenda a temer a Jehová su DiosH3372
+- Deu_19:20los que quedaren oirán y temerán, y noH3372
+- Deu_20:3no temáis, ni os azoréis, ni tampoco osH3372
+- Deu_21:21quitarás el mal...Israel oirá, y temeráH3372
+- Deu_28:10verán todos los pueblos...y te temeránH3372
+- Deu_28:58temiendo...nombre glorioso y temibleH3372
+- Deu_28:60todos los males...de los cuales temisteH3025
+- Deu_31:6no temáis, ni tengáis miedo de ellosH3372
+- Deu_31:8no te dejará...no temas, ni te intimidesH3376
+- Deu_31:12para que oigan...y teman a Jehová...DiosH3372
+- Deu_31:13los hijos de ellos...aprendan a temer aH3372
+- Deu_32:17a nuevos dioses...que no habían temidoH8175
+- Deu_32:27de no haber temido la provocación delH1481
+- Jos_1:9no temas ni desmayes, porque JehováH6206
+- Jos_4:14temieron, como habían temido a MoisésH3372
+- Jos_4:24para que temáis a Jehová vuestro DiosH3372
+- Jos_8:1no temas ni desmayes; toma contigo todaH3372
+- Jos_9:24temimos en...manera por nuestras vidasH3372
+- Jos_10:25no temáis, ni...sed fuertes y valientesH3372
+- Jos_22:25harían que...dejasen de temer a JehováH3372
+- Jos_24:14ahora...temed a Jehová, y servidle conH3372
+- Jue_6:10no temáis a los dioses de...amorreosH3372
+- Jue_6:27temiendo hacerlo de día...hizo de nocheH3372
+- Jue_7:3quien tema y se estremezca, madrugue yH3373
+- Rut_3:11no temas, hija...haré contigo lo queH3372
+- 1Sa_3:15y Samuel temía descubrir la visión aH3372
+- 1Sa_12:14si temiereis a Jehová y le sirviereisH3372
+- 1Sa_12:20no temáis; vosotros habéis hecho todoH3372
+- 1Sa_12:24temed a Jehová y servidle de verdad conH3372
+- 1Sa_14:26porque el pueblo temía el juramentoH3372
+- 1Sa_15:24temí al pueblo y consentí a la voz deH3372
+- 1Sa_22:23no temas...pues conmigo estarás a salvoH3372
+- 1Sa_23:17le dijo: No temas, pues no te hallaráH3372
+- 1Sa_28:13no temas. ¿Qué has visto? Y la mujerH3372
+- 2Sa_3:11no pudo responder palabra...le temíaH3372
+- 2Sa_6:9temiendo David a Jehová aquel día, dijoH3372
+- 2Sa_10:19los sitios temieron ayudar más a losH3372
+- 2Sa_12:18temían los...hacerle saber que el niñoH3372
+- 2Sa_13:28y no temáis, pues yo os lo he mandadoH3372
+- 1Re_1:50Adonías, temiendo de la...de SalomónH3372
+- 1Re_3:28y temieron al rey, porque vieron queH3372
+- 1Re_5:4pues ni hay adversarios, ni mal que temerH6294
+- 1Re_8:40que te teman todos los días que vivanH3372
+- 1Re_8:43todos...te teman, como tu pueblo IsraelH3372
+- 1Re_18:12me matará; y tu siervo teme a JehováH2026
+- 2Re_17:7pecaron...y temieron a dioses ajenosH3372
+- 2Re_17:25no temiendo...a Jehová, envió JehováH3372
+- 2Re_17:28enseñó cómo habían de temer a JehováH3372
+- 2Re_17:32temían a Jehová, e hicieron del bajoH3373
+- 2Re_17:33temían a Jehová, y honraban...diosesH3373
+- 2Re_17:34hacen...ni temen a Jehová, ni guardanH3373
+- 2Re_17:35diciendo: No temeréis a otros diosesH3372
+- 2Re_17:36mas a Jehová...éste temeréis, y a ésteH3372
+- 2Re_17:37por obra, y no temeréis a dioses ajenosH3372
+- 2Re_17:38el pacto...ni temeréis a dioses ajenosH3372
+- 2Re_17:39mas temed a Jehová vuestro Dios, y élH3372
+- 2Re_17:41así temieron a Jehová aquellas gentesH3373
+- 2Re_19:6no temas por las palabras que has oídoH3372
+- 2Re_25:24no temáis de ser siervos de...caldeosH3372
+- 1Cr_13:12y David temió a Dios aquel día, yH3372
+- 1Cr_16:25de ser temido sobre todos los diosesH3372
+- 1Cr_16:30temed en su presencia, toda la tierraH2342
+- 1Cr_22:13esfuérzate...y cobra ánimo; no temas, niH3372
+- 1Cr_28:20no temas, ni desmayes, porque JehováH3372
+- 2Cr_6:31que te teman y anden en tus caminosH3372
+- 2Cr_6:33tierra conozcan tu nombre, y te temanH3372
+- 2Cr_20:15no temáis ni os amedrentéis delanteH3372
+- 2Cr_20:17no temáis ni desmayéis; salid mañanaH3372
+- 2Cr_32:7no temáis, ni tengáis miedo del rey deH3372
+- Esd_9:4se me juntaron todos los que temíanH2730
+- Esd_10:3y de los que temen el mandamiento deH2730
+- Neh_2:2dijo el rey: ¿Por qué...Entonces temíH3372
+- Neh_4:14no temáis delante de ellos; acordaos delH3372
+- Neh_6:13pues fue sobornado para hacerme temerH3372
+- Neh_6:16lo oyeron...temieron todas las naciones
+- Job_1:9dijo: ¿Acaso teme Job a Dios de balde?[[H3372]]
+- Job_3:25temor...me ha acontecido lo que yo temíaH6342
+- Job_5:21encubierto; no temerás la destrucciónH3372
+- Job_5:22y no temerás de las fieras del campoH3372
+- Job_6:21pues habéis visto el tormento, y teméisH3372
+- Job_9:35hablaré, y no le temeré; porque en esteH3372
+- Job_11:15limpio...y serás fuerte, y nada temerásH3372
+- Job_19:29temed vosotros delante de la espadaH1481
+- Job_31:23porque temí el castigo de Dios, contraH6343
+- Job_32:6he...y he temido declararos mi opiniónH3372
+- Job_36:18teme, no sea que en su ira te quite con
+- Job_37:24temerán por tanto los hombres; él noH3372
+- Job_39:16no temiendo que su trabajo haya sidoH6343
+- Job_39:22y no teme, ni vuelve el rostro delanteH2865
+- Sal_3:6no temeré a diez millares de gente queH3372
+- Sal_15:4vil...pero honra a los que temen a JehováH3373
+- Sal_22:23los que teméis a Jehová, alabadleH3373
+- Sal_22:23y temedle...descendencia toda de IsraelH1481
+- Sal_22:25mis votos...delante de los que le temenH3373
+- Sal_23:4no temeré mal alguno, porque tú estarásH3372
+- Sal_25:12¿quién es el hombre que teme a Jehová?[[H3373]]
+- Sal_25:14la comunión...es con los que le temenH3373
+- Sal_27:1Jehová es mi luz y...¿de quién temeré?[[H3372]]
+- Sal_27:3no temerá mi corazón; aunque contra míH3372
+- Sal_31:19tu bondad, que...para los que te temenH3373
+- Sal_33:8tema a Jehová toda la tierra; temanH3372
+- Sal_33:18el ojo de Jehová sobre los que le temenH3373
+- Sal_34:7acampa alrededor de los que le temenH3373
+- Sal_34:9temed a Jehová, vosotros...santos, puesH3372
+- Sal_34:9pues nada falta a los que le temenH3373
+- Sal_40:3verán...temerán, y confiarán en JehováH3372
+- Sal_46:2tanto, no temeremos, aunque la tierraH3372
+- Sal_49:5¿por qué he de temer en los días deH3372
+- Sal_49:16no temas cuando se enriquece algunoH3372
+- Sal_52:6verán los justos, y temerán; se reiránH3372
+- Sal_55:19por cuanto no cambian, ni temen a DiosH3372
+- Sal_56:3en el día que temo, yo en ti confíoH3372
+- Sal_56:4, Sal_56:11en Dios he confiado; no temeré; ¿quéH3372
+- Sal_60:4has dado a los que te temen bandera queH3373
+- Sal_61:5la heredad de los que temen tu nombreH3373
+- Sal_64:4de repente lo asaetean, y no temenH3372
+- Sal_64:9entonces temerán todos los hombres, yH3372
+- Sal_65:8habitantes de...temen de tus maravillasH3372
+- Sal_66:16venid, oíd...los que teméis a Dios, yH3373
+- Sal_67:7témanlo todos los términos de la tierraH3372
+- Sal_72:5te temerán mientras duren el sol y laH3372
+- Sal_77:16las aguas te vieron, y temieron; losH2342
+- Sal_85:9está su salvación a los que le temenH3373
+- Sal_86:11afirma mi corazón...que tema tu nombreH3372
+- Sal_90:11tu indignación...que debes ser temido?[[H3374]]
+- Sal_91:5no temerás el terror nocturno, ni saetaH3372
+- Sal_96:9temed delante de él, toda la tierraH2342
+- Sal_102:15naciones temerán el nombre de JehováH3372
+- Sal_103:11, Sal_103:17su misericordia...los que te temenH3373
+- Sal_103:13compadece Jehová de los, que le temenH3373
+- Sal_111:5ha dado alimento a los que le temenH3373
+- Sal_112:1bienaventurado el...que teme a JehováH3372
+- Sal_112:8asegurado está su corazón; no temeráH3372
+- Sal_115:11los que teméis a Jehová, confiad enH3373
+- Sal_115:13bendecirá a los que temen a Jehová, aH3373
+- Sal_118:4digan ahora los que temen a Jehová, queH3373
+- Sal_118:6Jehová está conmigo; no temeré lo queH3372
+- Sal_119:38confirma...a tu siervo, que te temeH3374
+- Sal_119:39quita de mí el oprobio que he temidoH3025
+- Sal_119:63compañero...de todos los que te temenH3372
+- Sal_119:74que te temen me verán, y se alegraránH3373
+- Sal_119:79vuélvanse a mí los que te temen yH3373
+- Sal_128:1bienaventurado todo aquel que teme aH3373
+- Sal_128:4así será bendecido el hombre que temeH3373
+- Sal_135:20los que teméis a Jehová, bendecid aH3373
+- Sal_145:19cumplirá el deseo de los que le temenH3373
+- Sal_147:11complace Jehová en los que le temenH3373
+- Pro_1:26me burlaré...os viniere lo que teméisH6343
+- Pro_1:27cuando viniere como una...lo que teméisH6343
+- Pro_3:7seas...teme a Jehová, y apártate del malH3372
+- Pro_10:24lo que el impío teme, eso le vendráH4034
+- Pro_13:13mas el que teme el mandamiento seráH3373
+- Pro_14:2que camina en su rectitud teme a JehováH3373
+- Pro_14:16el sabio teme y se aparta del mal; masH3373
+- Pro_24:21teme a Jehová, hijo mío, y al rey; noH3372
+- Pro_28:14bienaventurado el hombre...teme a DiosH6342
+- Pro_31:30la mujer que teme a Jehová, ésa seráH3373
+- Ecl_3:14lo hace...para que delante de él temanH3372
+- Ecl_5:7las muchas palabras; mas tú, teme a DiosH6342
+- Ecl_7:18aquel que a Dios teme, saldrá bien enH3373
+- Ecl_8:12que les irá bien a los que a Dios temenH3373
+- Ecl_8:12los que temen delante de su presenciaH3372
+- Ecl_8:13no teme delante de la presencia de DiosH3373
+- Ecl_9:2que jura, como al que teme el juramentoH3373
+- Ecl_12:5cuando también temerán de lo que es altoH3372
+- Ecl_12:13teme a Dios, y guarda sus mandamientosH3372
+- Isa_7:4dile: Guarda, y repósate; no temas, niH3372
+- Isa_7:16la tierra...que tú temes será abandonadaH6973
+- Isa_8:12ni temáis lo que ellos temen, ni tengáisH3372
+- Isa_10:24pueblo mío...de Sion, no temas de AsiríaH3372
+- Isa_12:2salvación mía; me aseguraré y no temeréH6342
+- Isa_19:16asombrarán y temerán en la presenciaH6342
+- Isa_19:17acordare temerá por causa del consejoH6342
+- Isa_25:3te temerá la ciudad de gentes robustasH3372
+- Isa_29:23santificarán al...y temerán al Dios deH6206
+- Isa_35:4no temáis...que vuestro Dios viene conH3372
+- Isa_37:6no temas por las palabras que has oídoH3372
+- Isa_40:9levántala, no temas; di a las ciudadesH3372
+- Isa_41:10no temas, porque yo estoy contigo; noH3372
+- Isa_41:13Dios...te dice: No temas, yo te ayudoH3372
+- Isa_41:14no temas, gusano de Jacob, oh vosotrosH3372
+- Isa_43:1no temas, porque yo te redimí; te puseH3372
+- Isa_43:5no temas, porque yo estoy contigo; delH3372
+- Isa_44:2temas, siervo mío Jacob, y tú, JesurúnH3372
+- Isa_44:8no temáis, ni os amedrentéis; ¿no te loH6342
+- Isa_50:10¿quién hay...que teme a Jehová, y oye laH3373
+- Isa_51:7oídme...no temáis afrenta de hombre, niH3372
+- Isa_51:13todo el día temiste continuamente delH6342
+- Isa_54:4no temas, pues no serás confundida; y noH3372
+- Isa_54:14estarás lejos de opresión...no temerásH3372
+- Isa_57:11y de quién te asustaste y temiste, queH3372
+- Isa_57:11¿no he guardado silencio...has temido?[[H3372]]
+- Isa_59:19temerán desde el...el nombre de JehováH3372
+- Isa_66:4yo...traeré sobre ellos lo que temieronH4035
+- Jer_1:8no temas delante...contigo estoy paraH3372
+- Jer_1:17no temas delante de ellos, para que noH2865
+- Jer_5:22¿a mí no me temeréis? dice Jehová. ¿NoH3372
+- Jer_5:24y no dijeron en...Temamos ahora a JehováH3372
+- Jer_10:2señales...aunque las naciones las temanH2865
+- Jer_10:7¿quién no te temerá, oh Rey...naciones?[[H3372]]
+- Jer_22:25en mano de aquellos cuya vista temesH1481
+- Jer_23:4no temerán más, ni se amedrentarán, niH3372
+- Jer_26:19¿no temió a Jehová, y oró en presenciaH3373
+- Jer_30:10tú...Jacob, no temas...ni te atemoricesH3372
+- Jer_32:39para que me teman perpetuamente, paraH3372
+- Jer_33:9y temerán y temblarán de todo el bienH6342
+- Jer_39:17manos de aquellos a quienes tú temesH3025
+- Jer_41:18temían, por haber dado muerte IsmaelH3372
+- Jer_42:11no temáis de la...no t de su presenciaH3373
+- Jer_42:16espada que teméis, os alcanzará allíH3373
+- Jer_46:27y tú no temas, siervo mío Jacob, niH3372
+- Jer_46:28tú...Jacob, no temas...yo estoy contigoH3372
+- Jer_51:46ni temáis a causa del rumor que se oiráH3372
+- Lam_3:57acercaste el día...dijiste: No temasH3372
+- Eze_2:6tú...no les temas, ni tengas miedo deH3372
+- Eze_2:6ni temas delante de ellos, porque sonH2865
+- Eze_3:9no los temas, ni tengas miedo delante deH3372
+- Eze_11:8espada habéis temido, y espada traeréH3372
+- Dan_1:10temo a mi señor el rey, que señalóH3373
+- Dan_5:19todos los pueblos...temían delante de élH1763
+- Dan_6:26teman...la presencia del Dios de DanielH1763
+- Dan_9:4Señor, Dios grande, digno de ser temidoH3372
+- Dan_10:12Daniel, no temas...desde el primer díaH3372
+- Dan_10:19amado, no temas; la paz sea contigoH3372
+- Ose_3:5y temerán a Jehová y a su bondad en elH6342
+- Ose_10:3no tenemos rey...no temimos a JehováH3372
+- Joe_2:6delante de él temerán los pueblos; seH2342
+- Joe_2:21tierra, no temas; alégrate y gózateH3372
+- Joe_2:22animales del campo, no temáis; porqueH3372
+- Amó_3:8si el león ruge, ¿quién no temerá? SiH3372
+- Jon_1:9les respondió: Soy hebreo, y temo aH3373
+- Jon_1:10aquellos hombres temieron...y le dijeronH3372
+- Jon_1:16temieron aquellos hombres a Jehová conH3372
+- Miq_6:9la voz de Jehová clama...es sabio temer
+- Miq_7:17amedrentados...y temerán a causa de tiH3372
+- Hab_3:2oh Jehová, he oído tu palabra, y temíH3372
+- Sof_3:7me temerá; recibirá corrección, y noH3372
+- Sof_3:16no temas; Sion, no se debiliten tus manosH3372
+- Hag_1:12temió el pueblo delante de JehováH3372
+- Hag_2:5mi Espíritu estará en medio...no temáisH3372
+- Zac_8:13no temáis, mas esfuércense vuestrasH3372
+- Zac_8:15hacer bien a...en estos días; no temáisH3372
+- Zac_9:5verá Ascalón, y temerá; Gaza también, yH3372
+- Mal_2:5las cuales...le di para que me temieraH4172
+- Mal_3:16los que temían a Jehová hablaron cadaH3372
+- Mal_3:16fue escrito...para los que temen a JehováH3372
+- Mal_4:2mas a vosotros los que teméis mi nombreH3373
+- Mat_1:20José...no temas recibir a María tu mujerG5399
+- Mat_8:26¿por qué teméis, hombres de poca fe?[[G1169]]
+- Mat_10:26que, no los temáis...nada hay encubiertoG5399
+- Mat_10:28y no temáis a los que matan el cuerpoG5399
+- Mat_10:28temed más bien a...que puede destruir elG5399
+- Mat_10:31así que, no temáis; más valéis vosotrosG5399
+- Mat_14:5y Herodes quería matarle, pero temía alG5399
+- Mat_14:27habló...¡Tened ánimo; yo soy, no temáis![[G5399]]
+- Mat_17:7los tocó, y dijo: Levantaos, y no temáisG5399
+- Mat_21:26y si decimos, de los hombres, tememosG5399
+- Mat_21:46temían al pueblo, porque éste le teníaG5399
+- Mat_27:54el centurión...temieron en gran maneraG5399
+- Mat_28:5mas el ángel...dijo...No temáis vosotrasG5399
+- Mat_28:10dijo: No temáis; id, dad las nuevas aG5399
+- Mar_4:41entonces temieron con gran temor, yG5401
+- Mar_5:33la mujer, temiendo y...vino y se postróG5399
+- Mar_5:36Jesús...dijo...No temas, cree solamenteG5399
+- Mar_6:20Herodes temía a Juan...guardaba a salvoG5399
+- Mar_6:50dijo: ¡Tened ánimo; yo soy, no temáis![[G5399]]
+- Mar_11:32temían al pueblo, pues todos tenían aG5399
+- Mar_12:12temían a la multitud, y dejándole, seG5399
+- Luc_1:13Zacarías, no temas; porque tu oraciónG5399
+- Luc_1:30no temas...has hallado gracia delante deG5399
+- Luc_1:50su misericordia es...a los que le temenG5399
+- Luc_2:10el ángel les dijo: No temáis; porque heG5399
+- Luc_5:10no temas; desde ahora serás pescador deG5399
+- Luc_8:50le respondió: No temas; cree solamenteG5399
+- Luc_9:45temían preguntarle sobre esas palabrasG5399
+- Luc_12:4no temáis a los que matan el cuerpo, yG5399
+- Luc_12:5pero os enseñaré a quién debéis temerG5399
+- Luc_12:5temed a aquel que...tiene poder de echarG5399
+- Luc_12:5el infierno; sí, os digo, a éste temedG5399
+- Luc_12:7no temáis, pues; más valéis vosotros queG5399
+- Luc_12:32no temáis, manada pequeña, porque aG5399
+- Luc_18:2había...un juez, que ni temía a Dios, niG5399
+- Luc_18:4aunque ni temo a Dios, ni tengo respetoG5399
+- Luc_20:19echarle mano...pero temieron al puebloG5399
+- Luc_22:2cómo matarle; porque temían al puebloG5399
+- Luc_23:40¿ni aun temes tú a Dios, estando en laG5399
+- Jua_6:20mas él les dijo: Yo soy; no temáisG5399
+- Jua_12:15no temas, hija de Sión; he aquí tu ReyG5399
+- Hec_5:26temían ser apedreados por el puebloG5399
+- Hec_10:35agrada del que le teme y hace justiciaG5399
+- Hec_13:16israelitas, y los que teméis a Dios, oídG5399
+- Hec_13:26los que...teméis a Dios, a vosotros esG5399
+- Hec_18:9visión de noche...No temas, sino hablaG5399
+- Hec_27:24diciendo: Pablo, no temas; es necesarioG5399
+- Hec_27:29y temiendo dar en escollos, echaronG5399
+- Rom_11:20bien...No te ensoberbezcas, sino temeG5399
+- Rom_13:3¿quieres, pues, no temer la autoridad?[[G5399]]
+- Rom_13:4pero si haces lo malo, teme; porque noG5399
+- 2Co_11:3temo que como la serpiente con suG5399
+- 2Co_12:20me temo...no os halle tales como quieroG5399
+- Gál_4:11temo...que haya trabajado en vano conG5399
+- Col_3:22con corazón sincero, temiendo a DiosG5399
+- 1Ti_5:20para que los demás también temanG5401
+- Heb_4:1temamos, pues, no sea que permaneciendoG5399
+- Heb_11:23fue escondido...y no temieron el decretoG5399
+- Heb_11:27fe dejó a...no temiendo la ira del reyG5399
+- Heb_13:6no temeré lo que...pueda hacer el hombreG5399
+- 1Pe_2:17amad a...Temed a Dios. Honrad al reyG5399
+- 1Pe_3:6si hacéis el bien, sin temer...amenazaG5399
+- 2Pe_2:10no temen decir mal de las potestadesG5141
+- 1Jn_4:18que teme, no ha sido perfeccionadoG5399
+- Rev_1:17no temas...soy el primero y el últimoG5399
+- Rev_2:10no temas en nada lo que vas a padecerG5399
+- Rev_11:18el galardón...a los que temen tu nombreG5399
+- Rev_14:7temed a Dios, y dadle gloria, porque laG5399
+- Rev_15:4¿quién no te temerá...y glorificará tuG5399
+- Rev_19:5alabad a...Dios todos...los que le teméisG5399

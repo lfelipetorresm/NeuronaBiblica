@@ -1,0 +1,4126 @@
+---
+tipo: concordancia
+palabra: DIOS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DIOS
+
+- Véase también Diosa
+- Gén_1:1en el principio creó D los cielos y laH430
+- Gén_1:2Espíritu de D se movía sobre...las aguasH430
+- Gén_1:3y dijo D: Sea la luz; y fue la luzH430
+- Gén_1:4vio D que la luz era buena, y separó DH430
+- Gén_1:5llamó D a la luz Día, y a las tinieblasH430
+- Gén_1:6dijo D: Haya expansión en medio de...aguasH430
+- Gén_1:7hizo D la expansión, y separó las aguasH430
+- Gén_1:8llamó D a la expansión Cielos. Y fue laH430
+- Gén_1:9dijo también D: Júntense las aguas queH430
+- Gén_1:10llamó D a lo seco Tierra...y vio D queH430
+- Gén_1:11dijo D, produzca la tierra hierba verdeH430
+- Gén_1:12hierba verde...Y vio D que era buenoH430
+- Gén_1:14luego D: Haya lumbreras en la expansiónH430
+- Gén_1:16e hizo D las dos grandes lumbreras laH430
+- Gén_1:17las puso D en la expansión de los cielosH430
+- Gén_1:18de las tinieblas. Y vio D que era buenoH430
+- Gén_1:20dijo D Produzcan las...seres vivientesH430
+- Gén_1:21y creó D los grandes monstruos marinosH430
+- Gén_1:21y toda ave alada...Y vio D que era buenoH430
+- Gén_1:22y D los bendijo, diciendo: FructificadH430
+- Gén_1:24luego dijo D: Produzca la tierra seresH430
+- Gén_1:25e hizo D animales de la tierra según suH430
+- Gén_1:25todo animal que...Y vio D que era buenoH430
+- Gén_1:26D: Hagamos al hombre a nuestra imagenH430
+- Gén_1:27creó D al hombre a su...a imagen de D loH430
+- Gén_1:28los bendijo D, y les dijo: FructificadH430
+- Gén_1:29y dijo D: He aquí que os he dado todaH430
+- Gén_1:31Vio D todo lo que había hecho y he aquíH430
+- Gén_2:2y acabó D en el día séptimo la obra queH430
+- Gén_2:3bendijo D al día séptimo...lo santificóH430
+- Gén_2:4el día que Jehová D hizo la tierra y losH430
+- Gén_2:5Jehová D aún no había hecho llover sobreH430
+- Gén_2:7Jehová D formó al hombre del polvo de la
+- Gén_2:8y Jehová D plantó un huerto en Edén, alH430
+- Gén_2:9D hizo nacer de la tierra todo árbolH430
+- Gén_2:15tomó...Jehová D al hombre, y lo puso enH430
+- Gén_2:16mandó Jehová D al hombre, diciendo: DeH430
+- Gén_2:18dijo...D: No es bueno que el hombre estéH430
+- Gén_2:19D formó...de la tierra toda bestia delH430
+- Gén_2:21D hizo caer sueño profundo sobre AdánH430
+- Gén_2:22de la costilla que...D tomó del hombreH430
+- Gén_3:1los animales...que Jehová D había hechoH430
+- Gén_3:1¿conque D os ha dicho: No comáis de todoH430
+- Gén_3:3del fruto...dijo D: No comeréis de él, niH430
+- Gén_3:5que sabe D que el día que comáis de élH430
+- Gén_3:5seréis como D, sabiendo el bien y el malH430
+- Gén_3:8oyeron la voz de...D que se paseaba en elH430
+- Gén_3:9D llamó al hombre, y le dijo: ¿Dónde estásH430
+- Gén_3:11D le dijo: ¿Quién te enseñó que estabas
+- Gén_3:13D dijo a la mujer: ¿Qué es lo que hasH430
+- Gén_3:14D dijo a la serpiente...maldita serásH430
+- Gén_3:21D hizo al hombre y a su mujer túnicasH430
+- Gén_3:22dijo Jehová D...el hombre es como uno deH430
+- Gén_4:25D (dijo ella) me ha sustituido otro hijoH430
+- Gén_5:1que creó D al hombre, a semejanza de D loH430
+- Gén_5:22caminó Enoc con D...300 años, y engendróH430
+- Gén_5:24caminó, pues, Enoc con D, y...le llevó DH430
+- Gén_6:2viendo los hijos de D que las hijas deH430
+- Gén_6:4se llegaron los hijos de D a las hijasH430
+- Gén_6:9Noé, varón justo, era...con D caminó NoéH430
+- Gén_6:11y se corrompió la tierra delante de DH430
+- Gén_6:12miró D la tierra, y...estaba corrompidaH430
+- Gén_6:13dijo, pues, D a Noé: He decidido el finH430
+- Gén_6:22hizo conforme a todo lo que D le mandóH430
+- Gén_7:9,16macho y hembra, como mandó D a NoéH430
+- Gén_8:1acordó D de Noé, y de todos los animalesH430
+- Gén_8:1hizo pasar D un viento sobre la tierraH430
+- Gén_8:15entonces habló D a Noé, diciendoH430
+- Gén_9:1bendijo D a Noé y a sus hijos, y les dijoH430
+- Gén_9:6porque a imagen de D es hecho el hombreH430
+- Gén_9:8y habló D a Noé y a sus hijos con élH430
+- Gén_9:12dijo D: Esta es la señal del pacto queH430
+- Gén_9:16del pacto perpetuo entre D y todo serH430
+- Gén_9:17dijo, pues, D a Noé: Esta es la señalH430
+- Gén_9:26bendito por Jehová mi D sea Sem, y seaH430
+- Gén_9:27engrandezca D a Jafet, y habite en lasH430
+- Gén_14:18Melquisedec, rey...y sacerdote del DH430
+- Gén_14:19bendito sea Abram del D AltísimoH430
+- Gén_14:20bendito sea el D Altísimo, que entregaH430
+- Gén_14:22he alzado mi mano a Jehová D AltísimoH430
+- Gén_16:13tú eres D que ve; porque dijo: ¿No heH410
+- Gén_17:1le dijo: Yo soy el D Todopoderoso; andaH410
+- Gén_17:3se postró...y D habló con él, diciendoH430
+- Gén_17:7para ser tu D, y el de tu descendenciaH430
+- Gén_17:8tu descendencia...y seré el D de ellosH430
+- Gén_17:9dijo de nuevo D a Abraham: En cuanto aH430
+- Gén_17:15dijo también D a Abraham: A Sarai tuH430
+- Gén_17:18Abraham a D: Ojalá Ismael viva delanteH430
+- Gén_17:19respondió D: Ciertamente...dará a luzH430
+- Gén_17:22con él, y subió D de estar con AbrahamH430
+- Gén_17:23circuncidó la...como D le había dichoH430
+- Gén_18:14¿hay para D alguna cosa difícil?[[H3068]]
+- Gén_19:29cuando destruyó D las ciudades de laH430
+- Gén_19:29D se acordó de Abraham, y envió fueraH430
+- Gén_20:3D vino a Abimelec en sueños de nocheH430
+- Gén_20:6le dijo D en sueños: Yo también sé queH430
+- Gén_20:11no hay temor de D en este lugar, y meH430
+- Gén_20:13cuando D me hizo salir errante de laH430
+- Gén_20:17Abraham oró a D y D sanó a AbimelecH430
+- Gén_21:2hijo...en el tiempo que D le había dichoH430
+- Gén_21:4y circuncidó...como D le había mandadoH430
+- Gén_21:6D me ha hecho reír, y cualquiera que loH430
+- Gén_21:12dijo D a Abraham: No te parezca graveH430
+- Gén_21:17oyó D la voz del...y el ángel de D llamóH430
+- Gén_21:17porque D ha oído la voz del muchachoH430
+- Gén_21:19D le abrió los ojos, y vio una fuenteH430
+- Gén_21:20y D estaba con el muchacho; y crecióH430
+- Gén_21:22D está contigo en todo cuanto hacesH430
+- Gén_21:23júrame aquí por D, que no faltarás aH430
+- Gén_21:33invocó...el nombre de Jehová D eternoH410
+- Gén_22:1probó D a Abraham, y le dijo: AbrahamH430
+- Gén_22:3y Abraham...fue al lugar que D le dijoH430
+- Gén_22:8D se proveerá de cordero...el holocaustoH430
+- Gén_22:9cuando llegaron al lugar que D le habíaH430
+- Gén_22:12ya conozco que temes a D, por cuantoH430
+- Gén_23:6eres un príncipe de D entre nosotros
+- Gén_24:3D de los cielos y D de la tierra, queH430
+- Gén_24:7Jehová, D de los cielos, que me tomó deH430
+- Gén_24:12D de mi señor Abraham, dame, te ruegoH430
+- Gén_24:27bendito...D de mi amo Abraham, que noH430
+- Gén_24:42Jehová, D de mi señor Abraham, si túH430
+- Gén_24:48bendije a Jehová D de mi señor AbrahamH430
+- Gén_25:11que D bendijo a Isaac su hijo; y habitóH430
+- Gén_26:24soy el D de Abraham tu padre; no temasH430
+- Gén_27:20Jehová tu D hizo que la encontraseH430
+- Gén_27:28D, pues, te dé del rocío del cielo, yH430
+- Gén_28:3el D omnipotente te bendiga, y te hagaH410
+- Gén_28:4heredes la tierra...que D dio a AbrahamH430
+- Gén_28:12ángeles de D que subían y descendíanH430
+- Gén_28:13yo soy...D de Abraham...y el D de IsaacH430
+- Gén_28:17no es otra cosa que casa de D, y puertaH430
+- Gén_28:20si fuere D conmigo, y me guardare enH430
+- Gén_28:21si volviere en paz...Jehová será mi DH430
+- Gén_28:22y esta piedra...señal, será casa de DH430
+- Gén_30:2¿soy yo acaso D, que te impidió el frutoH430
+- Gén_30:6me juzgó D, y también oyó mi voz, y meH430
+- Gén_30:8con luchas de D he contendido con mi
+- Gén_30:17oyó D a Lea; y concibió, y dio a luzH430
+- Gén_30:18dijo Lea: D me ha dado mi recompensaH430
+- Gén_30:20dijo Lea: D me ha dado una buena doteH430
+- Gén_30:22se acordó D de Raquel, y la oyó D, yH430
+- Gén_30:23hijo, y dijo: D ha quitado mi afrentaH430
+- Gén_31:5mas el D de mi padre ha estado conmigoH430
+- Gén_31:7D no le ha permitido que me hiciese malH430
+- Gén_31:9así quitó D el ganado de vuestro padreH430
+- Gén_31:11me dijo el ángel de D en sueños: JacobH430
+- Gén_31:13soy el D de Bet-el, donde tú ungiste laH410
+- Gén_31:16la riqueza que D ha quitado a...padreH430
+- Gén_31:16pues, haz todo lo que D te ha dichoH430
+- Gén_31:24vino D a Labán arameo en sueños...nocheH430
+- Gén_31:29mas el D de tu padre me habló anocheH430
+- Gén_31:30te ibas...¿por qué me hurtaste mis d?[[H430]]
+- Gén_31:32en cuyo poder hallares tus d, no vivaH430
+- Gén_31:42si el D de mi padre, D de Abraham yH430
+- Gén_31:42pero D vio mi aflicción y el trabajoH430
+- Gén_31:50mira, D es testigo entre nosotros dosH430
+- Gén_31:53el D de Abraham y el D de Nacor juzqueH430
+- Gén_31:53juzgue...nosotros, el D de sus padresH430
+- Gén_32:1le salieron al encuentro ángeles de DH430
+- Gén_32:2y dijo Jacob...Campamento de D es esteH430
+- Gén_32:9D de mi padre Abraham, y D de...IsaacH430
+- Gén_32:28has luchado con D y con...y has vencidoH430
+- Gén_32:30porque dijo: Vi a D cara a cara, y fueH430
+- Gén_33:5son los niños que D ha dado a tu siervoH430
+- Gén_33:10como si hubiera visto el rostro de DH430
+- Gén_33:11acepta...porque D me ha hecho mercedH430
+- Gén_35:1D a Jacob: Levántate y sube a Bet-elH430
+- Gén_35:1haz allí un altar al D que te aparecióH410
+- Gén_35:2quitad los d...que hay entre vosotrosH430
+- Gén_35:3haré allí altar al D que me respondióH410
+- Gén_35:4así dieron a Jacob todos los d ajenosH430
+- Gén_35:5terror de D estuvo sobre las ciudadesH430
+- Gén_35:7allí le había aparecido D cuando huíaH430
+- Gén_35:9apareció otra vez D a Jacob, cuandoH430
+- Gén_35:10le dijo D: tu nombre es Jacob; no seH430
+- Gén_35:11dijo D: Yo soy el D omnipotente; creceH430, [[H410]]
+- Gén_35:13y se fue de él D, del lugar en dondeH430
+- Gén_35:15donde D había hablado con él, Bet-elH430
+- Gén_39:9¿cómo...haría...mal, y pecaría contra D?[[H430]]
+- Gén_40:8José: ¿No son de D las interpretaciones?[[H430]]
+- Gén_41:16D...que dé respuesta propicia a FaraónH430
+- Gén_41:25D ha mostrado a Faraón lo que va aH430
+- Gén_41:28lo que D va hacer, lo ha mostrado aH430
+- Gén_41:32cosa es firme de parte de D, y que DH430
+- Gén_41:38otro...en quien esté el espíritu de D?[[H430]]
+- Gén_41:39que D te ha hecho saber todo esto, noH430
+- Gén_41:51D me hizo olvidar todo mi trabajo, yH430
+- Gén_41:52D me hizo fructificar en la tierra deH430
+- Gén_42:18José: Haced esto, y vivid: Yo temo a DH430
+- Gén_42:28otro: ¿Qué es esto que nos ha hecho D?[[H430]]
+- Gén_43:14el D Omnipotente os dé misericordiaH410
+- Gén_43:23vuestro D y el D de vuestro padre osH430
+- Gén_43:29D tenga misericordia de ti, hijo míoH430
+- Gén_44:16D ha hallado la maldad de tus siervosH430
+- Gén_45:5para preservación de vida me envió DH430
+- Gén_45:7D me envió delante de vosotros, paraH430
+- Gén_45:8no me enviasteis acá vosotros, sino DH430
+- Gén_45:9D me ha puesto por señor de todo EgiptoH430
+- Gén_46:1y ofreció sacrificios al D de su padreH430
+- Gén_46:3y dijo: Yo soy D, el D de tu padre, noH410
+- Gén_48:3el D Omnipotente me apareció en Luz enH430
+- Gén_48:9son mis hijos, que D me ha dado aquíH430
+- Gén_48:11D me ha hecho ver...a tu descendenciaH430
+- Gén_48:15el D en cuya presencia anduvieron misH430
+- Gén_48:15el D que me mantiene desde que yo soyH430
+- Gén_48:20diciendo: Hágate D como a Efraín y comoH430
+- Gén_48:21yo muero, pero D estará con vosotrosH430
+- Gén_49:25el D de tu padre, el cual te ayudaráH410
+- Gén_49:25el D Omnipotente, el cual te bendeciráH7706
+- Gén_50:17la maldad de los siervos de: D de tuH430
+- Gén_50:19José...¿acaso estoy yo en lugar de D?[[H430]]
+- Gén_50:20mas D lo encaminé a bien, para hacerH430
+- Gén_50:24,25D ciertamente os visitará, yH430
+- Éxo_1:17pero las parteras temieron a D, y noH430
+- Éxo_1:20D hizo bien a las parteras; y el puebloH430
+- Éxo_1:21por haber las parteras temido a D, élH430
+- Éxo_2:23subió a D el clamor de ellos con motivoH430
+- Éxo_2:24oyó D el gemido de ellos y se acordóH430
+- Éxo_2:25miró D a los hijos de...y los reconoció DH430
+- Éxo_3:1ovejas...y llegó hasta Horeb, monte de DH430
+- Éxo_3:4llamó D de en medio de la zarza, y dijoH430
+- Éxo_3:6y dijo: Yo soy el D de tu padreH430
+- Éxo_3:6,15D de Abraham, D de Isaac y D de JacobH430
+- Éxo_3:6rostro, porque tuve miedo, de mirar a DH430
+- Éxo_3:11Moisés respondió a D: ¿Quién soy yo paraH430
+- Éxo_3:12señal...serviréis a D sobre este monteH430
+- Éxo_3:13dijo Moisés a D: He aquí que llego yo aH430
+- Éxo_3:13el D de vuestros padres me ha enviadoH430
+- Éxo_3:14respondió D...Yo soy EL QUE SOY. Y dijoH430
+- Éxo_3:15dijo D a Moisés...D de vuestros padresH430
+- Éxo_3:16Jehová, el D de nuestros padres, el DH430
+- Éxo_3:18y le diréis: Jehová el D de los hebreosH430
+- Éxo_3:18que ofrezcamos sacrificios a Jehová...DH430
+- Éxo_4:5creerán que...ha aparecido Jehová, el DH430
+- Éxo_4:5D de Abraham, D de Isaac y D de JacobH430
+- Éxo_4:16boca, y tú serás para él en lugar de DH430
+- Éxo_4:20tomó...Moisés la vara de D en su manoH430
+- Éxo_4:27lo encontró en el monte de D, y le besóH430
+- Éxo_5:1Jehová el D de Israel dice así: Deja irH430
+- Éxo_5:3el D de los hebreos nos ha encontradoH430
+- Éxo_5:3y ofreceremos sacrificios a...nuestro DH430
+- Éxo_5:8y ofrezcamos sacrificios a nuestro DH430
+- Éxo_6:2habló todavía D a Moisés, y le dijo: YoH430
+- Éxo_6:3aparecí a Abraham...como D OmnipotenteH410
+- Éxo_6:7tomaré por mi pueblo y seré vuestro DH430
+- Éxo_6:7sabréis que yo soy Jehová vuestro D, queH430
+- Éxo_7:1mira, yo te he constituido d para FaraónH430
+- Éxo_7:16dile: Jehová el D de los hebreos me haH430
+- Éxo_8:10que conozcas que no hay como...nuestro DH430
+- Éxo_8:19dijeron a Faraón: Dedo de D es ésteH430
+- Éxo_8:25ofreced sacrificio a vuestro D en laH430
+- Éxo_8:26ofreceríamos a...D la abominación deH430
+- Éxo_8:27y ofreceremos sacrificios a...nuestro DH430
+- Éxo_8:28para que ofrezcáis sacrificios a...D enH430
+- Éxo_9:1,13Jehová, el D de los hebreos, dice asíH430
+- Éxo_9:28orad...para que cesen los truenos de DH430
+- Éxo_9:30ni tú...temeréis...presencia de Jehová DH430
+- Éxo_10:3Jehová el D de los hebreos ha dicho asíH430
+- Éxo_10:7deja ir...para que sirvan a Jehová su DH430
+- Éxo_10:8dijo: Andad, servid a Jehová vuestro DH430
+- Éxo_10:16he pecado contra Jehová vuestro D, yH430
+- Éxo_10:17oréis a Jehová...D que quite de mí alH430
+- Éxo_10:25que sacrifiquemos para Jehová nuestro DH430
+- Éxo_10:26hemos de tomar para servir...nuestro DH430
+- Éxo_12:12ejecutaré mis juicios en todos los dH430
+- Éxo_13:17D no los llevó por el camino...filisteosH430
+- Éxo_13:17dijo D: Para que no se arrepienta elH430
+- Éxo_13:18hizo D que el pueblo rodease por elH430
+- Éxo_13:19D...visitará, y haréis subir mis huesosH430
+- Éxo_14:19y el ángel de D que iba delante delH430
+- Éxo_15:2es mi D, y lo alabaré; D de mi padreH410
+- Éxo_15:11¿quién como tú, oh Jehová, entre los d?[[H410]]
+- Éxo_15:26dijo: si oyeres...la voz de Jehová tu DH430
+- Éxo_16:12y sabréis que yo soy Jehová vuestro DH430
+- Éxo_17:9yo estaré...y la vara de D en mi manoH430
+- Éxo_18:1las cosas que D había hecho con MoisésH430
+- Éxo_18:4el D de mi padre me ayudó, y me libróH430
+- Éxo_18:5vino a Moisés en...junto al monte de DH430
+- Éxo_18:11Jehová es más grande que todos los dH430
+- Éxo_18:12tomó Jetro, suegro...sacrificios para DH430
+- Éxo_18:12con el suegro de Moisés delante de DH430
+- Éxo_18:15pueblo viene a mí para consultar a DH430
+- Éxo_18:16juzgo...y declaro las ordenanzas de DH430
+- Éxo_18:19yo te aconsejaré, y D estará contigoH430
+- Éxo_18:19está tu...delante de D, y somete...a DH430
+- Éxo_18:21varones de virtud, temerosos de DH430
+- Éxo_18:23si esto hicieres, y D ti lo mandareH430
+- Éxo_19:3y Moisés subió a D; y Jehová lo llamóH430
+- Éxo_19:17Moisés sacó...pueblo para recibir a DH430
+- Éxo_19:19Moisés hablaba, y D le respondía conH430
+- Éxo_20:1habló D todas estas palabras, diciendoH430
+- Éxo_20:2soy Jehová tu D, que te saqué de...EgiptoH430
+- Éxo_20:3no tendrás d ajenos delante de míH430
+- Éxo_20:5yo soy Jehová tu D, fuerte, celoso, queH430
+- Éxo_20:7no tomarás el nombre de...tu D en vanoH430
+- Éxo_20:10séptimo día es reposo para Jehová tu DH430
+- Éxo_20:12se alarguen en la tierra que...D te daH430
+- Éxo_20:19no hable D con nosotros...no muramosH430
+- Éxo_20:20no temáis, porque para probaros vino DH430
+- Éxo_20:21acercó a la oscuridad en la...estaba DH430
+- Éxo_20:23no hagáis conmigo d de plata, ni d deH430
+- Éxo_21:13no...sino que D lo puso en sus manosH430
+- Éxo_22:20que ofreciere sacrificio a D exceptoH430
+- Éxo_23:13y nombre de otros d no mentaréis, niH430
+- Éxo_23:19primicias...tráelas a la casa de...tu DH430
+- Éxo_23:24no te inclinarás a...d, ni los servirásH430
+- Éxo_23:25mas a Jehová vuestro D serviréis, y élH430
+- Éxo_23:32no harás alianza con ellos, ni...sus dH430
+- Éxo_23:33que te hagan pecar...sirviendo a sus dH430
+- Éxo_24:10vieron al D de Israel; y había debajoH430
+- Éxo_24:11y vieron a D, y comieron y bebieronH430
+- Éxo_24:13se levantó Moisés...subió al monte de DH430
+- Éxo_29:45habitaré entre...de Israel, y seré su DH430
+- Éxo_29:46que yo soy Jehová su D...Yo Jehová su DH430
+- Éxo_31:3y lo he llenado del Espíritu de D, enH430
+- Éxo_31:18dos tablas...escritas con el dedo de DH430
+- Éxo_32:1haznos d que vayan delante de nosotrosH430
+- Éxo_32:4estos son tus d, que te sacaron...EgiptoH430
+- Éxo_32:8dicho: Israel, estos son tus d, que teH430
+- Éxo_32:11Moisés oró en presencia de Jehová su DH430
+- Éxo_32:16tablas eran obra de D...escritura de DH430
+- Éxo_32:23dijeron: Haznos d que vayan delante deH430
+- Éxo_32:27ha dicho Jehová, el D de Israel: PonedH430
+- Éxo_32:31un gran pecado...se hicieron d de oroH430
+- Éxo_34:14no te has de inclinar a ningún otro dH430
+- Éxo_34:14Jehová, cuyo nombre es...D celoso esH430
+- Éxo_34:15en pos de sus d...sacrificios a sus dH430
+- Éxo_34:16fornicando sus hijas en pos de sus dH430
+- Éxo_34:16harán fornicar...pos de los d de ellasH430
+- Éxo_34:17no te harás d de fundiciónH430
+- Éxo_34:23varón tuyo delante...Señor D de IsraelH3068
+- Éxo_34:24delante de Jehová tu D tres veces enH430
+- Éxo_34:26las primicias...llevarás a la casa de...DH430
+- Éxo_34:29su rostro resplandecía...hablado con D
+- Éxo_34:35velo...hasta que entraba a hablar con D
+- Éxo_35:31y lo ha llenado del Espíritu de D, enH430
+- Lev_2:13que falte...la sal del pacto de tu DH430
+- Lev_4:22jefe...hiciere por yerro algo contra...DH430
+- Lev_11:44yo soy Jehová vuestro D...seréis santosH430
+- Lev_11:45hago subir...Egipto para ser vuestro DH430
+- Lev_18:2habla...diles: Yo soy Jehová vuestro DH430
+- Lev_18:4mis ordenanzas...Yo Jehová vuestro DH430
+- Lev_18:21no contamines así el nombre de tu DH430
+- Lev_18:30no os contaminéis...Yo Jehová vuestro DH430
+- Lev_19:2porque santo soy yo Jehová vuestro DH430
+- Lev_19:3mis días de...guardaréis. Yo Jehová...DH430
+- Lev_19:4ni haréis para vosotros d de fundiciónH430
+- Lev_19:10para el pobre y...Yo Jehová vuestro DH430
+- Lev_19:12profanando así el nombre de tu D. YoH430
+- Lev_19:14que tendrás temor de tu D. Yo JehováH430
+- Lev_19:25crecer su fruto. Yo Jehová vuestro DH430
+- Lev_19:31ni a los adivinos...Yo Jehová vuestro DH430
+- Lev_19:32y de tu D tendrás temor. Yo JehováH430
+- Lev_19:34amarás como a ti...Yo Jehová vuestro DH430
+- Lev_19:36yo Jehová vuestro D, que os saqué deH430
+- Lev_20:7santos, porque yo Jehová soy vuestro DH430
+- Lev_20:24Jehová vuestro D, que os he apartadoH430
+- Lev_21:6santos serán a su D, y no profanarán elH430
+- Lev_21:6no profanarán el nombre de su D, porqueH430
+- Lev_21:6las ofrendas...y el pan de su D ofrecenH430
+- Lev_21:7no...porque el sacerdote es santo a su DH430
+- Lev_21:8el pan de tu D ofrece; santo será paraH430
+- Lev_21:12ni profanará el santuario de su DH430
+- Lev_21:12la consagración...de su D está sobre élH430
+- Lev_21:17,21acercará a ofrecer el pan de su DH430
+- Lev_21:22de su D, de lo muy santo...podrá comerH430
+- Lev_22:25ofrecerlos como el pan de vuestro DH430
+- Lev_22:33saqué...para ser vuestro D. Yo JehováH430
+- Lev_23:14que hayáis ofrecido la ofrenda de...DH430
+- Lev_23:22para el pobre y...Yo Jehová vuestro DH430
+- Lev_23:28día...para reconciliaros delante de...DH430
+- Lev_23:40os regocijaréis delante de Jehová...DH430
+- Lev_23:43cuando los saqué...Yo Jehová vuestro DH430
+- Lev_24:15cualquiera que maldijera...D, llevaráH430
+- Lev_24:22mismo estatuto...soy Jehová vuestro DH430
+- Lev_25:17temed a vuestro D; porque yo soy...DH430
+- Lev_25:36ganancia, sino tendrás temor de tu DH430
+- Lev_25:38que os saqué de la...para ser vuestro DH430
+- Lev_25:43con dureza, sino tendrás temor de tu DH430
+- Lev_25:55los cuales saqué...Yo Jehová vuestro DH430
+- Lev_26:1ídolos...porque yo soy Jehová vuestro DH430
+- Lev_26:12seré vuestro D, y vosotros...mi puebloH430
+- Lev_26:13yo Jehová vuestro D, que os saqué de laH430
+- Lev_26:44no los desecharé...yo Jehová soy su DH430
+- Lev_26:45cuando los saqué de la...para ser su DH430
+- Núm_6:7la consagración de su D tiene sobre suH430
+- Núm_7:89y cuando entraba Moisés...hablar con D
+- Núm_10:9seréis recordados por Jehová vuestro DH430
+- Núm_10:10y os serán por memoria delante de...DH430
+- Núm_10:10tocaréis las trompetas...Yo vuestro DH430
+- Núm_12:13clamó...Te ruego, oh D, que la sanesH410
+- Núm_15:40os acordéis...seáis santos a vuestro DH430
+- Núm_15:41yo Jehová vuestro D, que os saqué deH430
+- Núm_15:41para ser vuestro D. Yo Jehová vuestro DH430
+- Núm_16:9¿os es poco que el D...os haya apartadoH430
+- Núm_16:22D, D de los espíritus de toda carneH410
+- Núm_21:5y habló el pueblo contra D y...MoisésH430
+- Núm_22:9y vino D a Balaam, y le dijo: ¿Qué...sonH430
+- Núm_22:10y Balaam respondió a D: Balac hijo deH430
+- Núm_22:12dijo D a Balaam: No vayas con ellos, niH430
+- Núm_22:18no puedo traspasar la palabra de...mi DH430
+- Núm_22:20y vino D a Balaam de noche, y le dijoH430
+- Núm_22:22la ira de D se encendió porque élH430
+- Núm_22:38la palabra que D pusiere en mi bocaH430
+- Núm_23:4vino D al encuentro de Balaam, y ésteH430
+- Núm_23:8¿por que maldeciré...que D no maldijo?[[H410]]
+- Núm_23:15ponte...y yo iré a encontrar a D allíH430
+- Núm_23:19D no es hombre, para que mienta, niH430
+- Núm_23:21Jehová su D está con él, y júbilo deH430
+- Núm_23:22D...ha sacado de Egipto; tiene fuerzasH430
+- Núm_23:23dicho de Jacob...¡Lo que ha hecho D![[H430]]
+- Núm_23:27parecerá bien a D que...me lo maldigasH430
+- Núm_24:4dijo el que oyó los dichos de D, el queH410
+- Núm_24:8D lo sacó de Egipto; tiene fuerzas comoH410
+- Núm_24:23vivirá cuando hiciere D estas cosas?[[H410]]
+- Núm_25:2invitaban...a los sacrificios de sus dH430
+- Núm_25:2el pueblo comió, y se inclinó a sus dH430
+- Núm_25:13tuvo celo por su D e hizo expiación porH430
+- Núm_27:16ponga Jehová, D de los espíritus deH430
+- Núm_33:4había hecho Jehová juicios contra sus dH430
+- Deu_1:6nuestro D nos habló en Horeb, diciendoH430
+- Deu_1:10Jehová vuestro D os ha multiplicado, yH430
+- Deu_1:11D de vuestros padres os haga mil vecesH430
+- Deu_1:17no tendréis temor de...el juicio es de DH430
+- Deu_1:19como Jehová nuestro D nos lo mandó; yH430
+- Deu_1:20monte...el cual Jehová nuestro D nos daH430
+- Deu_1:21Jehová tu D te ha entregado la tierraH430
+- Deu_1:21como...el D de tus padres te ha dichoH430
+- Deu_1:25buena la tierra que Jehová...D nos daH430
+- Deu_1:26antes fuisteis rebeldes al mandato...DH430
+- Deu_1:30D...él peleará por vosotros, conforme aH430
+- Deu_1:31has visto que Jehová tu D te ha traídoH430
+- Deu_1:32y aun...no creísteis a Jehová vuestro DH430
+- Deu_1:41conforme a...nuestro D nos ha mandadoH430
+- Deu_2:7D te ha bendecido en toda obra de tusH430
+- Deu_2:7estos 40 años...tu D ha estado contigoH430
+- Deu_2:29la tierra que nos da Jehová nuestro DH430
+- Deu_2:30tu D había endurecido su espíritu, yH430
+- Deu_2:33D lo entregó delante de nosotros; y loH430
+- Deu_2:36las entregó Jehová...D en nuestro poderH430
+- Deu_2:37a lugar alguno que...D había prohibidoH430
+- Deu_3:3D entregó...en nuestra mano a Og rey deH430
+- Deu_3:18D os ha dado esta tierra por heredadH430
+- Deu_3:20que...D les da al otro lado del JordánH430
+- Deu_3:21vieron todo lo que Jehová...D ha hechoH430
+- Deu_3:22Jehová vuestro D, él es el que pelea porH430
+- Deu_3:24¿qué d hay en el cielo...que haga obrasH410
+- Deu_4:1tierra que...el D de vuestros padres osH430
+- Deu_4:2los mandamientos de...D que yo os ordenoH430
+- Deu_4:3en pos de Baal-peor destruyó Jehová tu DH430
+- Deu_4:4seguisteis a...D, todos estáis vivos hoyH430
+- Deu_4:5he enseñado...como Jehová mi D me mandóH430
+- Deu_4:7d tan cercanos a ellos como lo está...DH430
+- Deu_4:10el día que estuviste delante de...tu DH430
+- Deu_4:19D los ha concedido a todos los pueblosH430
+- Deu_4:21buena tierra que Jehová tu D te da porH430
+- Deu_4:23no os olvidéis del pacto de...vuestro DH430
+- Deu_4:23de ninguna cosa que...D te ha prohibidoH430
+- Deu_4:24Jehová...D es fuego consumidor, D celosoH410
+- Deu_4:25hiciereis lo malo ante los...de vuestro DH410
+- Deu_4:28serviréis allí a d hechos de manos deH410
+- Deu_4:29si desde allí buscares a Jehová tu DH410
+- Deu_4:30te volvieres a Jehová tu D, y oyeresH410
+- Deu_4:31D misericordioso es Jehová tu D no teH430, [[H410]]
+- Deu_4:32el día que creó D al hombre sobre laH430
+- Deu_4:33¿ha oído pueblo...la voz de D, hablandoH430
+- Deu_4:34¿o ha intentado D venir a tomar para síH430
+- Deu_4:34todo lo que hizo...vuestro D en EgiptoH430
+- Deu_4:35que supieses que Jehová es D, y no hayH430
+- Deu_4:39Jehová es D arriba en el cielo y abajoH430
+- Deu_4:40sobre la tierra que Jehová tu D te daH430
+- Deu_5:2Jehová nuestro D hizo pacto con...en HorebH430
+- Deu_5:6soy Jehová tu D, que te saqué de...EgiptoH430
+- Deu_5:7no tendrás d ajenos delante de míH430
+- Deu_5:9yo soy Jehová tu D, fuerte, celoso, queH430
+- Deu_5:11no tomarás el nombre de...tu D en vanoH430
+- Deu_5:12guardarás el día de...D te ha mandadoH430
+- Deu_5:14el séptimo día es reposo a Jehová tu DH430
+- Deu_5:15tu D te sacó de allá con mano fuerte yH430
+- Deu_5:15D te ha mandado que guardes el día deH430
+- Deu_5:16honra a tu padre y...tu D te ha mandadoH430
+- Deu_5:16sobre la tierra que Jehová tu D te daH430
+- Deu_5:24nuestro D nos ha mostrado su gloria yH430
+- Deu_5:25oyéremos otra vez la voz de Jehová...DH430
+- Deu_5:26para que oiga la voz del D viviente queH430
+- Deu_5:27y oye...las cosas que dijere Jehová...DH430
+- Deu_5:27tú nos dirás todo lo que...D te dijereH430
+- Deu_5:32hagáis como Jehová...D os ha mandadoH430
+- Deu_5:33en todo el camino que...D os ha mandadoH430
+- Deu_6:1decretos que...D mandó que os enseñaseH430
+- Deu_6:2temas a Jehová tu D, guardando todos susH430
+- Deu_6:3te ha dicho Jehová el D de tus padresH430
+- Deu_6:4Israel: Jehová nuestro D, Jehová uno esH430
+- Deu_6:5amarás a Jehová tu D de todo tu corazónH430
+- Deu_6:10cuando Jehová tu D te haya introducidoH430
+- Deu_6:13Jehová tu D temerás, y a él...servirásH430
+- Deu_6:14no andaréis en pos de d ajenos...los dH430
+- Deu_6:15D celoso, Jehová tu D, en medio de tiH430, [[H410]]
+- Deu_6:15no se inflame el furor de...D contra tiH430
+- Deu_6:16no tentaréis a Jehová vuestro D, comoH430
+- Deu_6:17guardad...los mandamientos...vuestro DH430
+- Deu_6:20¿qué significan los...decretos que...DH430
+- Deu_6:24y que temamos a Jehová nuestro D, paraH430
+- Deu_6:25todos estos mandamientos delante de...DH430
+- Deu_7:1cuando Jehová tu D te haya introducidoH430
+- Deu_7:2tu D las haya entregado delante de tiH430
+- Deu_7:4desviará a tu hijo...servirán a d ajenosH430
+- Deu_7:6pueblo santo para Jehová tu D...D te haH430
+- Deu_7:9Jehová tu D es D, D fiel, que guarda elH430, [[H410]]
+- Deu_7:12Jehová tu D guardará contigo el pactoH430
+- Deu_7:16consumirás...los pueblos que te da...tu DH430
+- Deu_7:16no los perdonará...ni servirás a sus dH430
+- Deu_7:18de lo que hizo Jehová tu D con FaraónH430
+- Deu_7:19el brazo...con que Jehová tu D te sacóH430
+- Deu_7:19así hará...tu D con todos los pueblos deH430
+- Deu_7:20enviará Jehová tu D avispas sobre ellosH430
+- Deu_7:21tu D está en medio de ti, D grande yH430, [[H410]]
+- Deu_7:22Jehová tu, D echará a estas naciones deH430
+- Deu_7:23D las entregará delante de ti, y él lasH430
+- Deu_7:25las esculturas de sus d quemarás en elH430
+- Deu_7:25de ellas...es abominación a Jehová tuH430
+- Deu_8:2te acordarás...por donde te ha traído...DH430
+- Deu_8:5reconoce...así Jehová tu D te castigaH430
+- Deu_8:6guardarás...mandamientos de Jehová tu DH430
+- Deu_8:7D te introduce en la buena tierra, tierraH430
+- Deu_8:10bendecirás a...tu D por la buena tierraH430
+- Deu_8:11cuídate de no olvidarte de Jehová tu DH430
+- Deu_8:14te olvides de Jehová tu D, que te sacóH430
+- Deu_8:18acuérdate de...tu D, porque él te da elH430
+- Deu_8:19si llegares a olvidarte de Jehová tu DH430
+- Deu_8:19si anduvieres en pos de d ajenos, y lesH430
+- Deu_8:20cuanto no habréis atendido a la voz...DH430
+- Deu_9:3que es Jehová tu D el que pasa delanteH430
+- Deu_9:4no pienses...cuando...tu D los haya echadoH430
+- Deu_9:5por la impiedad...Jehová tu D las arrojaH430
+- Deu_9:6que Jehová tu D te da esta buena tierraH430
+- Deu_9:7que has provocado la ira de Jehová tu DH430
+- Deu_9:10dos tablas...escritas con el dedo de DH430
+- Deu_9:16habíais pecado contra Jehová vuestro DH430
+- Deu_9:23fuisteis rebeldes al mandato de...D, y noH430
+- Deu_10:9Jehová es su heredad, como...tu D le dijoH430
+- Deu_10:12¿qué pide...D de ti, sino que temas...DH430
+- Deu_10:12y sirvas a...tu D con todo tu corazónH430
+- Deu_10:14de Jehová tu D son los cielos, y losH430
+- Deu_10:17Jehová vuestro D es D de d, y Señor deH430
+- Deu_10:17D grande, poderoso y temible, que noH410
+- Deu_10:20a Jehová tu D temerás, a él...servirásH430
+- Deu_10:21él es tu D, que ha hecho contigo estasH430
+- Deu_11:1amarás...a Jehová tu D, y guardarás susH430
+- Deu_11:2ni visto el castigo de Jehová vuestro DH430
+- Deu_11:12tierra de la cual Jehová tu D cuidaH430
+- Deu_11:12siempre están sobre ella los ojos...DH430
+- Deu_11:13amando a Jehová...D, y sirviéndole conH430
+- Deu_11:16os apartéis y sirváis a d ajenos, y osH430
+- Deu_11:22si amareis a Jehová vuestro D, andandoH430
+- Deu_11:25miedo...pondrá...D sobre toda la tierraH430
+- Deu_11:27si oyereis los mandamientos de...D, queH430
+- Deu_11:28si no oyereis los mandamientos de...DH430
+- Deu_11:28para ir en pos de d ajenos que no habéisH430
+- Deu_11:29Jehová tu D te haya introducido en laH430
+- Deu_11:31poseer la tierra que os da Jehová...DH430
+- Deu_12:1en la tierra que...el D de tus padres teH430
+- Deu_12:2donde las naciones...sirvieron a sus dH430
+- Deu_12:3destruiréis las esculturas de sus d, yH430
+- Deu_12:4no haréis así a Jehová vuestro DH430
+- Deu_12:5que el lugar que...D escogiere de entreH430
+- Deu_12:7y comeréis allí delante de...vuestro DH430
+- Deu_12:7obra...en la cual...D te hubiere bendecidoH430
+- Deu_12:9no habéis entrado al reposo...que os da...DH430
+- Deu_12:10tierra que...vuestro D os hace heredarH430
+- Deu_12:11,21el lugar que Jehová tu D escogiereH430
+- Deu_12:12y os alegraréis delante de...vuestro DH430
+- Deu_12:15según la bendición que...D te haya dadoH430
+- Deu_12:18delante de Jehová tu D...el lugar que...DH430
+- Deu_12:18y te alegrarás delante de Jehová tu DH430
+- Deu_12:20cuando...tu D ensanchare tu territorioH430
+- Deu_12:27y ofrecerás...sobre el altar de...tu DH430
+- Deu_12:27será derramada sobre el altar de...tu DH430
+- Deu_12:28haciendo lo bueno...ante...Jehová tu DH430
+- Deu_12:29cuando...tu D haya destruido...nacionesH430
+- Deu_12:30no preguntes acerca de sus d, diciendoH430
+- Deu_12:30servían a sus d, yo también les serviréH430
+- Deu_12:31no harás así a Jehová tu D; porque todaH430
+- Deu_12:31abominable que...hicieron ellos a sus dH430
+- Deu_12:31sus hijas quemaban en el fuego a sus dH430
+- Deu_13:2vamos en pos de d...que no conociste, yH430
+- Deu_13:3vuestro D os está probando, para saberH430
+- Deu_13:3para saber si amáis a Jehová vuestro DH430
+- Deu_13:4en pos de Jehová vuestro D andaréisH430
+- Deu_13:5aconsejó rebelión contra...vuestro D queH430
+- Deu_13:5del camino por el cual...D te mandó queH430
+- Deu_13:6vamos y sirvamos a d ajenos, que ni túH430
+- Deu_13:7d de los pueblos que están en vuestrosH430
+- Deu_13:10procuró apartarte de Jehová tu D, queH430
+- Deu_13:12tus ciudades que...D te da para vivirH430
+- Deu_13:13sirvamos a d ajenos, que vosotros noH430
+- Deu_13:16botín...como holocausto a Jehová tu DH430
+- Deu_13:18cuando obedecieres a la voz de...tu DH430
+- Deu_13:18para hacer lo recto ante...Jehová tu DH430
+- Deu_14:1hijos sois de Jehová vuestro D, no osH430
+- Deu_14:2,21eres pueblo santo a Jehová tu DH430
+- Deu_14:23comerás delante de...D en el lugar queH430
+- Deu_14:23para que aprendas a temer a Jehová tu DH430
+- Deu_14:24el lugar que...D hubiere escogido paraH430
+- Deu_14:24lugar...cuando Jehová tu D te bendijereH430
+- Deu_14:25vendrás al lugar que...tu D escogiereH430
+- Deu_14:26y comerás allí delante de Jehová tu DH430
+- Deu_14:29que Jehová tu D te bendiga en toda obraH430
+- Deu_15:4en la tierra que...D te da por heredadH430
+- Deu_15:5si escuchares...la voz de Jehová tu DH430
+- Deu_15:6ya que Jehová tu D te habrá bendecidoH430
+- Deu_15:7en la tierra que Jehová tu D te da, noH430
+- Deu_15:10por ello te bendecirá Jehová tu D enH430
+- Deu_15:15fuiste siervo en la...tu D te rescatóH430
+- Deu_15:18D te bendecirá en todo cuanto hicieresH430
+- Deu_15:19consagrarás a...tu D todo primogénitoH430
+- Deu_15:20delante de...tu D los comerás cada añoH430
+- Deu_15:21en él defecto...no lo sacrificarás a...DH430
+- Deu_16:1y harás pascua a Jehová tu D; porque enH430
+- Deu_16:1te sacó Jehová tu D de Egipto, de nocheH430
+- Deu_16:2y sacrificarás la pascua a Jehová tu DH430
+- Deu_16:5de las ciudades que Jehová tu D te daH430
+- Deu_16:6,15en el lugar que...tu D escogiere paraH430
+- Deu_16:7,11el lugar que...tu D hubiere escogidoH430
+- Deu_16:8el séptimo día será fiesta solemne a...DH430
+- Deu_16:10fiesta solemne de las...a Jehová tu DH430
+- Deu_16:10dieres, según...D te hubiere bendecidoH430
+- Deu_16:11y te alegrarás delante de Jehová tu DH430
+- Deu_16:15celebrarás fiesta solemne a...tu D en elH430
+- Deu_16:15habrá bendecido...D en todos tus frutosH430
+- Deu_16:16aparecerá...delante de Jehová tu D enH430
+- Deu_16:17a la bendición que...D te hubiere dadoH430
+- Deu_16:18ciudades que...D te dará en tus tribusH430
+- Deu_16:20heredes la tierra que Jehová tu D teH430
+- Deu_16:21árbol...cerca del altar de Jehová tu DH430
+- Deu_16:22estatua, lo cual aborrece Jehová tu DH430
+- Deu_17:1no ofrecerás en sacrificio a...D, buey oH430
+- Deu_17:1haya falta...abominación a Jehová tu DH430
+- Deu_17:2en...tus ciudades que Jehová tu D te daH430
+- Deu_17:2hecho mal ante los ojos de Jehová tu DH430
+- Deu_17:3que hubiere ido y servido a d ajenosH430
+- Deu_17:8recurrirás al lugar que...tu D escogiereH430
+- Deu_17:12para ministrar allí delante de...tu DH430
+- Deu_17:14entrado en la tierra que...tu D te daH430
+- Deu_17:15por rey...al que Jehová tu D escogiereH430
+- Deu_17:19para que aprenda a temer a Jehová su DH430
+- Deu_18:5le ha escogido...tu D de entre...las tribusH430
+- Deu_18:7ministrará en el nombre de Jehová su DH430
+- Deu_18:9cuando entres a la tierra que...D te daH430
+- Deu_18:12por estas abominaciones...D echa estasH430
+- Deu_18:13perfecto serás delante de Jehová tu DH430
+- Deu_18:14mas a ti no te ha permitido esto...tu DH430
+- Deu_18:15profeta de...le levantará Jehová tu DH430
+- Deu_18:16pediste a Jehová tu D en Horeb el díaH430
+- Deu_18:16no vuelva yo a oír la voz de...mi D, niH430
+- Deu_18:20o que hablare en nombre de d ajenosH430
+- Deu_19:1cuando...D destruya a las naciones cuyaH430
+- Deu_19:1naciones cuya tierra Jehová tu D te daH430
+- Deu_19:2la tierra que Jehová tu D te da para queH430
+- Deu_19:3dividirás...la tierra que...tu D te daráH430
+- Deu_19:8si Jehová tu D ensanchare tu territorioH430
+- Deu_19:9que ames a...tu D y andes en sus caminosH430
+- Deu_19:10en medio de la tierra que...tu D te daH430
+- Deu_19:14en la heredad que...Jehová tu D te daH430
+- Deu_20:1no tengas temor...tu D está contigo, elH430
+- Deu_20:4Jehová vuestro D va con vosotros, paraH430
+- Deu_20:13tu D la entregue en tu mano, herirásH430
+- Deu_20:14enemigos, los cuales...tu D te entregóH430
+- Deu_20:16de las ciudades...que Jehová tu D te daH430
+- Deu_20:17destruirás...Jehová tu D te ha mandadoH430
+- Deu_20:18abominaciones...han hecho para sus dH430
+- Deu_20:18que...pequéis contra Jehová vuestro DH430
+- Deu_21:1si en la tierra que Jehová tu D te daH430
+- Deu_21:5a ellos escogió...D para que le sirvanH430
+- Deu_21:10Jehová tu D los entregare en tu manoH430
+- Deu_21:23porque maldito por D es el colgadoH430
+- Deu_21:23no contaminarás tu tierra que...D te daH430
+- Deu_22:5abominación es a...tu D cualquiera queH430
+- Deu_23:5mas no quiso Jehová tu D oír a BalaamH430
+- Deu_23:5D...maldición en bendición...D te amabaH430
+- Deu_23:14tu D anda en medio de tu campamentoH430
+- Deu_23:18no traerás la paga de...a la casa de...DH430
+- Deu_23:18abominación es a...D tanto lo uno comoH430
+- Deu_23:20para que te bendiga...D en toda obra deH430
+- Deu_23:21haces voto a...D, no tardes en pagarloH430
+- Deu_23:21lo demandará...D de ti, y sería pecadoH430
+- Deu_23:23conforme lo prometiste a Jehová tu DH430
+- Deu_24:4no...pervertir la tierra que...tu D te daH430
+- Deu_24:9lo que hizo...tu D a María en el caminoH430
+- Deu_24:13y te será justicia delante de...tu DH430
+- Deu_24:18y que de allí te rescató Jehová tu DH430
+- Deu_24:19para que te bendiga...D en toda obra deH430
+- Deu_25:15sobre la tierra que Jehová tu D te daH430
+- Deu_25:16porque abominación es a...D cualquieraH430
+- Deu_25:18te salió...y no tuvo ningún temor de DH430
+- Deu_25:19cuando Jehová tu D te dé descanso deH430
+- Deu_25:19en la tierra que...D te da por heredadH430
+- Deu_26:1entrado en la tierra que...D te da porH430
+- Deu_26:2que sacares de la tierra que...D te daH430
+- Deu_26:2irás al lugar que...tu D escogiere paraH430
+- Deu_26:3declaro hoy a...tu D, que he entrado enH430
+- Deu_26:4pondrá delante del altar de Jehová tu DH430
+- Deu_26:5dirás delante de...D: Un arameo a puntoH430
+- Deu_26:7y clamamos a...el D de nuestros padresH430
+- Deu_26:10delante de Jehová tu D, y adorarás...DH430
+- Deu_26:11el bien que Jehová tu D te haya dadoH430
+- Deu_26:13y dirás delante de...tu D: He sacado loH430
+- Deu_26:14he obedecido a la voz de Jehová mi DH430
+- Deu_26:16tu D te manda hoy que cumplas estosH430
+- Deu_26:17has declarado...hoy que Jehová es tu DH430
+- Deu_26:19que seas un pueblo santo a Jehová tu DH430
+- Deu_27:2pases el Jordán a la tierra que...D te daH430
+- Deu_27:3para entrar en la tierra que...D te daH430
+- Deu_27:3como...el D de tus padres te ha dichoH430
+- Deu_27:5edificarás allí un altar a Jehová tu DH430
+- Deu_27:6de piedras...edificarás el altar de...DH430
+- Deu_27:6ofrecerás sobre él holocausto a...tu DH430
+- Deu_27:7y te alegrarás delante de Jehová tu DH430
+- Deu_27:9has venido a ser pueblo de Jehová tu DH430
+- Deu_27:10oirás, pues, la voz de Jehová tu D, yH430
+- Deu_28:1si oyeres...la voz de Jehová tu D, paraH430
+- Deu_28:1D te exaltará sobre todas las nacionesH430
+- Deu_28:2bendiciones...si oyeres la voz de...tu DH430
+- Deu_28:8te bendecirá en la tierra que...D te daH430
+- Deu_28:9cuando guardares los mandamientos de...DH430
+- Deu_28:13si obedecieres los mandamientos de...DH430
+- Deu_28:14si no te apartares...ir tras d ajenosH430
+- Deu_28:15no oyeres la voz de...D, para procurarH430
+- Deu_28:36allá servirás a d ajenos, al palo y aH430
+- Deu_28:45no habrás atendido a la voz de...tu DH430
+- Deu_28:47cuanto no serviste a...D con alegría yH430
+- Deu_28:52toda la tierra que...D te hubiere dadoH430
+- Deu_28:53y de tus hijas que Jehová tu D te dioH430
+- Deu_28:58temiendo este nombre...JEHOVA Tu DH430
+- Deu_28:62cuanto no obedecisteis a la voz de...DH430
+- Deu_28:64servirás a d ajenos que no conocisteH430
+- Deu_29:6supierais que yo soy Jehová vuestro DH430
+- Deu_29:10estáis hoy en presencia de Jehová...DH430
+- Deu_29:12para que entres en el pacto de...tu DH430
+- Deu_29:12juramento...tu D concierta hoy contigoH430
+- Deu_29:13y para que él te sea a ti por D, de laH430
+- Deu_29:15con los que están aquí...delante de...DH430
+- Deu_29:18cuyo corazón se aparte hoy de...D para irH430
+- Deu_29:18ir a servir a los d de esas nacionesH430
+- Deu_29:25dejaron el pacto de Jehová el D de susH430
+- Deu_29:26sirvieron a d ajenos, y se inclinaron aH430
+- Deu_29:26y se inclinaron a...d que no conocíanH430
+- Deu_29:29las cosas secretas pertenecen a...D; masH430
+- Deu_30:1adonde te hubiere arrojado Jehová tu DH430
+- Deu_30:2te convirtieres a...D, y obedecieres a suH430
+- Deu_30:3pueblos adonde te hubiere esparcido...DH430
+- Deu_30:4allí te recogerá Jehová tu D, y de alláH430
+- Deu_30:5te hará volver Jehová tu D a la tierraH430
+- Deu_30:6circuncidará Jehová tu D tu corazón, yH430
+- Deu_30:6para que ames a...D con todo tu corazónH430
+- Deu_30:7pondrá...D todas estas maldiciones sobreH430
+- Deu_30:9y te hará...D abundar en toda obra de tusH430
+- Deu_30:10obedecieres a la voz...D, para guardarH430
+- Deu_30:10cuando te convirtieres a Jehová tu DH430
+- Deu_30:16yo te mando hoy que ames a Jehová tu DH430
+- Deu_30:16tu D te bendiga en la tierra a la cualH430
+- Deu_30:17inclinares a d ajenos y les sirvieresH430
+- Deu_30:20amando a Jehová tu D, atendiendo a suH430
+- Deu_31:3Jehová tu D, él pasa delante de ti; élH430
+- Deu_31:6porque Jehová tu D es el que va contigoH430
+- Deu_31:11a presentarse delante de Jehová tu DH430
+- Deu_31:12que oigan...y teman a Jehová vuestro DH430
+- Deu_31:13aprendan a temer a...D todos los díasH430
+- Deu_31:16pueblo se...fornicará tras los d ajenosH430
+- Deu_31:17no...porque no está mi D en medio de mí?[[H430]]
+- Deu_31:18el mal...por haberse vuelto a d ajenosH430
+- Deu_31:20se volverán a d ajenos y les serviránH430
+- Deu_31:26ponedlo al lado del arca del pacto...DH430
+- Deu_32:3proclamaré. Engrandeced a nuestro DH430
+- Deu_32:4D de verdad, y sin ninguna iniquidad enH430
+- Deu_32:12solo le guió, y con él no hubo d extrañoH430
+- Deu_32:15entonces abandonó al D que lo hizo, yH433
+- Deu_32:16despertaron a celos con los d ajenos
+- Deu_32:17sacrificaron a los demonios, y no a DH433
+- Deu_32:17a d que no habían conocido, a nuevosH430
+- Deu_32:17a nuevos d venidos de cerca, que noH433
+- Deu_32:18creó...te has olvidado de D tu creadorH410
+- Deu_32:21me movieron a celos con lo que no es DH430
+- Deu_32:37¿dónde están sus d, la roca en que seH430
+- Deu_32:39no hay d conmigo; yo hago morir, y yoH430
+- Deu_33:1bendijo Moisés varón de D a los hijosH430
+- Deu_33:26no hay como el D de Jesurún, quienH410
+- Deu_33:27el eterno D es tu refugio, y acá abajoH430
+- Jos_1:9porque Jehová tu D estará contigo enH430
+- Jos_1:11a poseer la tierra que Jehová...D os daH430
+- Jos_1:13Jehová vuestro D os ha dado reposo, yH430
+- Jos_1:15posean la tierra que Jehová...D les daH430
+- Jos_1:17Jehová tu D esté contigo, como estuvoH430
+- Jos_2:11porque Jehová vuestro D es D arriba enH430
+- Jos_3:3cuando veáis el arca del pacto de...DH430
+- Jos_3:9acercaos, y escuchad las palabras de...DH430
+- Jos_3:10conoceréis que el D...está en medio deH410
+- Jos_4:5pasad delante del arca de Jehová...D a laH430
+- Jos_4:23D secó las aguas del Jordán delante deH430
+- Jos_4:23la manera que Jehová...D lo había hechoH430
+- Jos_4:24que temáis a...vuestro D todos los díasH430
+- Jos_7:13el D de Israel dice así: Anatema hay enH430
+- Jos_7:19hijo...da gloria a Jehová el D de IsraelH430
+- Jos_7:20he pecado contra Jehová el D de IsraelH430
+- Jos_8:7pues...D la entregará en vuestras manosH430
+- Jos_8:30Josué edificó un altar a Jehová D deH430
+- Jos_9:9venido...causa del nombre de Jehová...DH430
+- Jos_9:18habían jurado por Jehová el D de IsraelH430
+- Jos_9:19les hemos jurado por Jehová D de IsraelH430
+- Jos_9:23y saque el agua para la casa de mi DH430
+- Jos_9:24Jehová tu D había mandado a Moisés suH430
+- Jos_10:19vuestro D los ha entregado en vuestraH430
+- Jos_10:40lo mató, como...D...se lo había mandadoH430
+- Jos_10:42Jehová...D de Israel peleaba por IsraelH430
+- Jos_13:14los sacrificios de...D...son su heredadH430
+- Jos_13:33D de Israel es la heredad de ellos, comoH430
+- Jos_14:8pero yo cumplí siguiendo a Jehová mi DH430
+- Jos_14:9por cuanto cumpliste siguiendo a...mi DH430
+- Jos_14:14Caleb hijo...había seguido...a Jehová DH430
+- Jos_18:3la tierra que os ha dado Jehová el D deH430
+- Jos_18:6yo os echaré suertes aquí delante de...DH430
+- Jos_22:3guardar los mandamientos de Jehová...DH430
+- Jos_22:4D ha dado reposo a vuestros hermanosH430
+- Jos_22:5améis a Jehová vuestro D, y andéis enH430
+- Jos_22:16que prevaricáis contra el D de IsraelH430
+- Jos_22:19,29además del altar de Jehová nuestro DH430
+- Jos_22:22Jehová D de los d, Jehová D de los dH410
+- Jos_22:24¿qué tenéis vosotros con...D de IsraelH430
+- Jos_22:33y bendijeron a D los hijos de IsraelH430
+- Jos_22:34porque testimonio es...que Jehová es DH430
+- Jos_23:3todo lo que Jehová vuestro D ha hechoH430
+- Jos_23:3D es quien ha peleado por vosotrosH430
+- Jos_23:5D las echará de delante de vosotros, yH430
+- Jos_23:5poseeréis...como Jehová...D os ha dichoH430
+- Jos_23:7ni juréis por el nombre de sus d, ni losH430
+- Jos_23:8mas a Jehová vuestro D seguiréis, comoH430
+- Jos_23:10vuestro D es quien pelea por vosotrosH430
+- Jos_23:11para que améis a Jehová vuestro DH430
+- Jos_23:13que...D no arrojará más a estas nacionesH430
+- Jos_23:13buena tierra que...vuestro D os ha dadoH430
+- Jos_23:14las buenas palabras que...D había dichoH430
+- Jos_23:15toda palabra buena...D os había dichoH430
+- Jos_23:15sobre la buena tierra que...D os ha dadoH430
+- Jos_23:16si traspasareis el pacto de...D que élH430
+- Jos_23:16honrando a d ajenos, e inclinándoos aH430
+- Jos_24:1llamó a...y se presentaron delante de DH430
+- Jos_24:2y dijo Josué...dice Jehová, D de IsraelH430
+- Jos_24:2vuestros padres...servían a d extrañosH430
+- Jos_24:14quitad de entre vosotros los d a losH430
+- Jos_24:15si a los d...o a los d de los amorreosH430
+- Jos_24:16que dejemos a Jehová para servir a...dH430
+- Jos_24:17nuestro D es el que nos sacó a nosotrosH430
+- Jos_24:18serviremos a Jehová...él es nuestro DH430
+- Jos_24:19porque él es D santo, y D celoso; noH430, [[H410]]
+- Jos_24:20sirviereis a d ajenos, él se volveráH430
+- Jos_24:23quitad...los d ajenos que están entreH430
+- Jos_24:23inclinad vuestro corazón a Jehová DH430
+- Jos_24:24a Jehová nuestro D serviremos, y a suH430
+- Jos_24:26escribió...en el libro de la ley de DH430
+- Jos_24:27para que no mintáis contra vuestro DH430
+- Jue_1:7mesa; como yo hice, así me ha pagado DH430
+- Jue_2:3serán azotes...sus d os serán tropezaderoH430
+- Jue_2:12dejaron a Jehová el D de sus padres, queH430
+- Jue_2:12tras otros d, los d de los pueblos queH430
+- Jue_2:17que fueron tras d ajenos, a los cualesH430
+- Jue_2:19siguiendo a d ajenos para servirles, eH430
+- Jue_3:6dieron sus hijas a...y sirvieron a sus dH430
+- Jue_3:7olvidaron a Jehová su D, y sirvieron aH430
+- Jue_3:20y Aod dijo: Tengo palabra de D para tiH430
+- Jue_4:6dijo: ¿No te ha mandado Jehová D de IsraelH430
+- Jue_4:23así abatió D...día a Jabín, rey de CanaánH430
+- Jue_5:3cantaré salmos a Jehová, el D de IsraelH430
+- Jue_5:5Sinaí, delante de Jehová D de IsraelH430
+- Jue_5:8cuando escogían nuevos d, la guerra estabaH430
+- Jue_6:8así ha dicho Jehová D de Israel: Yo osH430
+- Jue_6:10yo soy Jehová...D; no temáis a los d deH430
+- Jue_6:20el ángel de D le dijo: Toma la carne yH430
+- Jue_6:26edifica altar a...tu D en la cumbre deH430
+- Jue_6:31si es un d, contienda por sí mismo conH430
+- Jue_6:36y Gedeón dijo a D: Si has de salvar aH430
+- Jue_6:39Gedeón dijo a D: No se encienda tu iraH430
+- Jue_6:40y aquella noche lo hizo D así; sólo elH430
+- Jue_7:14D ha entregado en sus...a los madianitasH430
+- Jue_8:3D ha entregado en vuestras manos a OrebH430
+- Jue_8:33Israel...escogieron por d a Baal-beritH430
+- Jue_8:34no se acordaron...Israel de Jehová su DH430
+- Jue_9:7oídme, varones de Siquem, y...os oiga DH430
+- Jue_9:9con el cual en mí se honra a D y a losH430
+- Jue_9:13mosto, que alegra a D y a los hombresH430
+- Jue_9:23envió D un mal espíritu entre AbimelecH430
+- Jue_9:27entrando en el templo de sus d, comieronH430
+- Jue_9:46se metieron en...del templo del d BeritH410
+- Jue_9:56así pagó D a Abimelec el mal que hizoH430
+- Jue_9:57lo hizo D volver sobre sus cabezas, yH430
+- Jue_10:6a los d de Siria, a los d de Sidón, aH430
+- Jue_10:6a los d de Moab, a los d de los...de AmónH430
+- Jue_10:6sirvieron a...y a los d de los filisteosH430
+- Jue_10:10hemos dejado a nuestro D, y servido aH430
+- Jue_10:13habéis servido a d ajenos; por tantoH430
+- Jue_10:14clamad a los d que os habéis elegidoH430
+- Jue_10:16quitaron...los d ajenos, y sirvieron aH430
+- Jue_11:21D...entregó a Sehón y a todo su puebloH430
+- Jue_11:23lo que Jehová D de Israel desposeyó alH430
+- Jue_11:24lo que te hiciere poseer Quemos tu dH430
+- Jue_11:24todo lo que desposeyó...D...lo poseeremosH430
+- Jue_13:5porque el niño será nazareo a D desdeH430
+- Jue_13:6un varón de D...cuyo aspecto...ángel de DH430
+- Jue_13:7niño será nazareo a D desde su nacimientoH430
+- Jue_13:8que aquel varón de D que enviaste, vuelvaH430
+- Jue_13:9D oyó...de Manoa; y el ángel de D volvióH430
+- Jue_13:22moriremos, porque a D hemos vistoH430
+- Jue_15:19abrió D la cuenca que hay en Lehi: yH430
+- Jue_16:17soy nazareo de D desde el vientre deH430
+- Jue_16:23para ofrecer sacrificio a Dagón su dH430
+- Jue_16:23dijeron: Nuestro d entregó...a SansónH430
+- Jue_16:24alabaron a su d, diciendo: Nuestro dH430
+- Jue_16:28fortaléceme...esta vez, oh D, para queH430
+- Jue_17:5Micaía tuvo casa de d, e hizo efod yH430
+- Jue_18:5pregunta...ahora a D, para que sepamosH430
+- Jue_18:10D la ha entregado en vuestras manosH430
+- Jue_18:24tomasteis mis d que yo hice...y os vaisH430
+- Jue_18:31el tiempo que la casa de D estuvo enH430
+- Jue_20:2los jefes...en la reunión del pueblo de DH430
+- Jue_20:18casa de D y consultaron a D, diciendoH1008, [[H430]]
+- Jue_20:26subieron...y vinieron a la casa de DH1008
+- Jue_20:27el arca del pacto de D estaba allí enH430
+- Jue_21:2y vino...a la casa de D...presencia de DH1008, [[H430]]
+- Jue_21:3oh Jehová D de Israel, ¿por qué...estoH430
+- Rut_1:15se ha vuelto a su pueblo y a sus dH430
+- Rut_1:16tu pueblo será mi pueblo, y tu D mi DH430
+- Rut_2:12cumplida de parte de Jehová D de IsraelH430
+- 1Sa_1:17el D de Israel te otorgue la peticiónH430
+- 1Sa_2:2ti, y no hay refugio como el D nuestroH430
+- 1Sa_2:3porque el D de todo saber es Jehová, yH410
+- 1Sa_2:26joven Samuel...era acepto delante de DH3068
+- 1Sa_2:27y vino un varón de D a Elí, y le dijoH430
+- 1Sa_2:30Jehová el D de Israel dice: Yo habíaH430
+- 1Sa_2:32humillada, mientras D colma de bienes a
+- 1Sa_3:3donde estaba el arca de D...lámpara de DH430
+- 1Sa_3:13porque sus hijos han blasfemado a D, y
+- 1Sa_3:17Elí dijo...así te haga D y aun te añadaH430
+- 1Sa_4:4estaban allí con el arca del pacto de DH430
+- 1Sa_4:7porque decían: Ha venido D al campamentoH430
+- 1Sa_4:8estos d...son los d que hirieron a EgiptoH430
+- 1Sa_4:11el arca de D fue tomada, y muertos losH430
+- 1Sa_4:13Elí...temblando por causa del arca de DH430
+- 1Sa_4:17diciendo...y el arca de D ha sido tomadaH430
+- 1Sa_4:18que cuando él hizo mención del arca de DH430
+- 1Sa_4:19que el arca de D había sido tomada, yH430
+- 1Sa_4:21por haber sido tomada el arca de D, yH430
+- 1Sa_4:22dijo...porque ha sido tomada el arca de DH430
+- 1Sa_5:1los filisteos capturaron el arca de DH430
+- 1Sa_5:2tomaron los filisteos el arca de D, y laH430
+- 1Sa_5:7no quede con nosotros el arca del D deH430
+- 1Sa_5:7su mano es dura...sobre nuestro d DagónH430
+- 1Sa_5:8arca del D...pásese el arca del D...a GatH430
+- 1Sa_5:8y pasaron allá el arca del D de IsraelH430
+- 1Sa_5:10el arca de D a Ecrón...arca de D vino aH430
+- 1Sa_5:10han pasado a nosotros el arca del D paraH430
+- 1Sa_5:11enviad el arca del D...y la mano de D seH430
+- 1Sa_6:3si enviáis el arca del D de Israel, no laH430
+- 1Sa_6:5ratones...y daréis gloria al D de IsraelH430
+- 1Sa_6:5aliviará su mano de sobre...vuestros dH430
+- 1Sa_6:19D hizo morir a los hombres de Bet-semesH3068
+- 1Sa_6:20¿quién podrá estar delante de...D santo?[[H430]]
+- 1Sa_7:3volvéis a Jehová...quitad los d ajenos yH430
+- 1Sa_7:8no ceses de clamar...a Jehová nuestro DH430
+- 1Sa_8:8dejándome a mí y sirviendo a d ajenosH430
+- 1Sa_9:6hay en esta ciudad un varón de D, que esH430
+- 1Sa_9:7no tenemos qué ofrecerle al varón de DH430
+- 1Sa_9:8daré al varón de D, para que nos declareH430
+- 1Sa_9:9que iba a consultar a D, decía así: VenidH430
+- 1Sa_9:10a la ciudad donde estaba el varón de DH430
+- 1Sa_9:27para que te declare la palabra de DH430
+- 1Sa_10:3tres hombres que suben a D en Bet-elH430
+- 1Sa_10:5llegarás al collado de D dónde está laH430
+- 1Sa_10:7haz lo que te...porque D está contigoH430
+- 1Sa_10:9que al volver él...le mudó D su corazónH430
+- 1Sa_10:10Espíritu de D vino sobre él con poderH430
+- 1Sa_10:18así ha dicho...D de Israel: Yo saqué aH430
+- 1Sa_10:19habéis desechado hoy a vuestro D, queH430
+- 1Sa_10:26los hombres...corazones D había tocadoH430
+- 1Sa_11:6el Espíritu de D vino sobre él con poderH430
+- 1Sa_12:9olvidaron a Jehová su D, y él los vendióH430
+- 1Sa_12:12que Jehová vuestro D era vuestro reyH430
+- 1Sa_12:14servís a Jehová vuestro D, haréis bienH430
+- 1Sa_12:19ruega por tus siervos a Jehová tu DH430
+- 1Sa_13:13no guardaste el mandamiento de...tu DH430
+- 1Sa_14:18trae el arca de D...el arca de D estabaH430
+- 1Sa_14:36el sacerdote: Acerquémonos aquí a DH430
+- 1Sa_14:37Saúl consultó a D: ¿Descenderé tras losH430
+- 1Sa_14:41dijo Saúl a...D de Israel: Da suerteH430
+- 1Sa_14:44así me haga D y aun me añada, que sinH430
+- 1Sa_14:45de morir Jonatán...ha actuado hoy con DH430
+- 1Sa_15:15para sacrificarlas a Jehová tu D, pero loH430
+- 1Sa_15:21ofrecer sacrificios a Jehová tu D enH430
+- 1Sa_15:30conmigo para que adore a Jehová tu DH430
+- 1Sa_16:15ahora, un espíritu malo de parte de DH430
+- 1Sa_16:16sobre ti el espíritu malo de parte de DH430
+- 1Sa_16:23el espíritu malo de parte de D veníaH430
+- 1Sa_17:26que provoque a los escuadrones del DH430
+- 1Sa_17:36ha provocado al ejército del D vivienteH430
+- 1Sa_17:43¿soy yo...Y maldijo a David por sus dH430
+- 1Sa_17:45en el nombre de...D de los escuadronesH430
+- 1Sa_17:46toda la tierra sabrá que hay D en IsraelH430
+- 1Sa_18:10un espíritu malo de parte de D tomó aH430
+- 1Sa_19:20y vino, el Espíritu de D sobre losH430
+- 1Sa_19:23también vino sobre él el Espíritu de DH430
+- 1Sa_20:12dijo...¡Jehová D de Israel, sea testigo![[H430]]
+- 1Sa_22:3hasta que sepa lo que D hará de míH430
+- 1Sa_22:13le diste pan...y consultaste por él a DH430
+- 1Sa_22:15consultar por él a D? Lejos sea de míH430
+- 1Sa_23:7D lo ha entregado en mi mano, pues seH430
+- 1Sa_23:10Jehová D...tu siervo tiene entendido queH430
+- 1Sa_23:11D de Israel, te ruego que lo declaresH430
+- 1Sa_23:14Saúl...pero D no lo entregó en sus manosH430
+- 1Sa_23:16vino a David...fortaleció su mano en DH430
+- 1Sa_25:22así haga D a los enemigos de David yH430
+- 1Sa_25:29los que viven delante de Jehová tu DH430
+- 1Sa_25:32dijo...a Abigail: Bendito sea Jehová DH430
+- 1Sa_25:34vive Jehová D...que me ha defendido deH430
+- 1Sa_26:8hoy ha entregado D a tu enemigo en tuH430
+- 1Sa_26:19me han arrojado...Vé y sirve a d ajenosH430
+- 1Sa_28:13dijo...He visto d que suben de la tierraH430
+- 1Sa_28:15D se ha apartado...y no me responde másH430
+- 1Sa_29:9que tú eres bueno...como un ángel de DH430
+- 1Sa_30:6mas David se fortaleció en Jehová su DH430
+- 1Sa_30:15dijo: Júrame por D que no me matarásH430
+- 2Sa_2:27vive D, que si no hubieses habladoH430
+- 2Sa_3:9así haga D a Abner y aun le añada, alH430
+- 2Sa_3:35así me haga D y aun me añada, si antesH430
+- 2Sa_5:10Jehová D de los ejércitos estaba con élH430
+- 2Sa_6:2para hacer pasar de allí el arca de DH430
+- 2Sa_6:3pusieron el arca de D...un carro nuevoH430
+- 2Sa_6:4lo llevaban...con el arca de D, Ahío ibaH430
+- 2Sa_6:6Uza extendió su mano al arca de D, y laH430
+- 2Sa_6:7y lo hirió allí D por aquella temeridadH430
+- 2Sa_6:7y cayó allí muerto junto al arca de DH430
+- 2Sa_6:12ha bendecido la...a causa del arca de DH430
+- 2Sa_6:12el arca de D de casa de Obed-edom a laH430
+- 2Sa_6:13cuando los que llevaban el arca de DH3068
+- 2Sa_7:2mira...el arca de D está entre cortinasH430
+- 2Sa_7:22tú te has engrandecido, Jehová D; porH430
+- 2Sa_7:22ni hay D fuera de ti, conforme a todoH430
+- 2Sa_7:23fue D para rescatarlo por pueblo suyoH430
+- 2Sa_7:23rescataste...de las naciones y de sus dH430
+- 2Sa_7:24y tú, oh Jehová, fuiste a ellos por DH430
+- 2Sa_7:25Jehová D, confirma...la palabra que hasH430
+- 2Sa_7:26Jehová de...es D sobre Israel; y que laH430
+- 2Sa_7:27tú...D de Israel, revelaste al oído deH430
+- 2Sa_7:28D, tú eres D, y tus palabras son verdadH430
+- 2Sa_7:29porque tú, Jehová D, lo has dicho, y conH3069
+- 2Sa_9:3Saúl, a quien haga yo misericordia de D?[[H430]]
+- 2Sa_10:12por las ciudades de nuestro D; y hagaH430
+- 2Sa_12:7así ha dicho...D de Israel: Yo te ungíH430
+- 2Sa_12:16entonces David rogó a D por el niñoH430
+- 2Sa_12:22si D tendrá compasión de mí, y viviráH3069
+- 2Sa_14:11oh rey, que te acuerdes de Jehová tu DH430
+- 2Sa_14:13has pensado tú...contra el pueblo de D?[[H430]]
+- 2Sa_14:14ni D quita la vida, sino que proveeH430
+- 2Sa_14:16me quiere destruir...de la heredad de DH430
+- 2Sa_14:17mi señor el rey es como un ángel de DH430
+- 2Sa_14:17y lo malo. Así Jehová tu D sea contigoH430
+- 2Sa_14:20es sabio...la sabiduría de un ángel de DH430
+- 2Sa_15:21vive D...que o para muerte o para vidaH3068
+- 2Sa_15:24que llevaban el arca del pacto de DH430
+- 2Sa_15:24y asentaron el arca del pacto de DH430
+- 2Sa_15:25vuelve el arca de D a la ciudad. Si yoH430
+- 2Sa_15:29volvieron el arca de D a JerusalénH430
+- 2Sa_15:32David llegó a...para adorar allí a DH430
+- 2Sa_16:23como si se consultase la palabra de DH430
+- 2Sa_18:28dijo: Bendito sea Jehová D tuyo, queH430
+- 2Sa_19:13así me haga D, y aun me añada, si noH430
+- 2Sa_19:27mi señor el rey es como un ángel de DH430
+- 2Sa_21:14D fue propicio a la tierra después deH430
+- 2Sa_22:3D mío, fortaleza mía, en el confiaréH430
+- 2Sa_22:7en mi...invoqué a Jehová, y clamé a mi DH430
+- 2Sa_22:22y no me aparté impíamente de mi DH430
+- 2Sa_22:29lámpara...mi D alumbrará mis tinieblasH430
+- 2Sa_22:30ejércitos, y con mi D asaltaré murosH430
+- 2Sa_22:31en cuanto a D, perfecto es su caminoH410
+- 2Sa_22:32porque ¿quién es D, sino sólo Jehová?[[H410]]
+- 2Sa_22:32¿y qué roca hay fuera de nuestro D?[[H430]]
+- 2Sa_22:33D es el que me ciñe de fuerza, y quienH410
+- 2Sa_22:47engrandecido sea el D de mi salvaciónH430
+- 2Sa_22:48el D que venga mis agravios, y sujetaH410
+- 2Sa_23:1dijo David...el ungido del D de JacobH430
+- 2Sa_23:3el D de Israel ha dicho, me habló laH430
+- 2Sa_23:3justo...que gobierne en el temor de DH430
+- 2Sa_23:5no es así mi casa...con D; sin embargoH410
+- 2Sa_24:3añada...tu D al pueblo cien veces tantoH430
+- 2Sa_24:23al rey: Jehová tu D te sea propicioH430
+- 2Sa_24:24no ofreceré a...D holocaustos que no meH430
+- 1Re_1:17tú juraste...por Jehová tu D, diciendoH430
+- 1Re_1:30que como yo te he jurado por Jehová DH430
+- 1Re_1:36así lo diga Jehová, D de mi señor el reyH430
+- 1Re_1:47D haga bueno el nombre de Salomón másH430
+- 1Re_1:48bendito sea Jehová D de Israel, qué haH430
+- 1Re_2:3guarda los preceptos de...tu D, andandoH430
+- 1Re_2:23diciendo: Así me haga D y aun me añadaH430
+- 1Re_3:3dijo D: Pide lo que quieras que yo te déH3068
+- 1Re_3:7D mío, tú me has puesto a mí tu siervoH430
+- 1Re_3:11dijo D: Porque has demandado esto, y noH430
+- 1Re_3:28había en él sabiduría de D para juzgarH430
+- 1Re_4:29D dio a Salomón sabiduría y prudenciaH430
+- 1Re_5:3no pudo edificar casa al nombre de...su DH430
+- 1Re_5:4mi D me ha dado paz por todas partesH430
+- 1Re_5:5edificar casa al nombre de Jehová mi DH430
+- 1Re_8:15bendito sea Jehová, D de Israel, queH430
+- 1Re_8:17edificar casa al nombre de Jehová D deH430
+- 1Re_8:20y he edificado la casa al...D de IsraelH430
+- 1Re_8:23Jehová D de Israel, no hay D como tú, niH430
+- 1Re_8:25D de Israel, cumple a tu siervo DavidH430
+- 1Re_8:26Jehová D de Israel, cúmplase la palabraH430
+- 1Re_8:27es verdad que D morará sobre la tierra?[[H430]]
+- 1Re_8:28tú atenderás a la oración...Jehová D míoH430
+- 1Re_8:57esté con nosotros Jehová nuestro D, comoH430
+- 1Re_8:59mis palabras...estén cerca de Jehová...DH430
+- 1Re_8:60todos los pueblos...sepan que Jehová es DH430
+- 1Re_8:61perfecto vuestro corazón para con...DH430
+- 1Re_8:65una gran congregación...delante de...DH430
+- 1Re_9:6sino que fuereis y sirviereis a d ajenosH430
+- 1Re_9:9dirán: Por cuanto dejaron a Jehová su DH430
+- 1Re_9:9echaron mano a d ajenos, y los adoraronH430
+- 1Re_10:9tu D sea bendito, que se agradó de tiH430
+- 1Re_10:24la sabiduría que D había puesto en suH430
+- 1Re_11:2harán Inclinar...corazones tras sus dH430
+- 1Re_11:4sus...inclinaron su corazón tras d ajenosH430
+- 1Re_11:4su corazón no era perfecto con...su DH430
+- 1Re_11:8las cuales quemaban incienso...a sus dH430
+- 1Re_11:9corazón se habla apartado de Jehová DH430
+- 1Re_11:10que no siguiese a d ajenos; mas él noH430
+- 1Re_11:23D...levantó por adversario...Rezón hijoH430
+- 1Re_11:31así dijo Jehová D de Israel: He aquíH430
+- 1Re_11:33Quemos d de Moab, y a Moloc d de AmónH430
+- 1Re_12:22vino palabra de...a Semaías varón de DH430
+- 1Re_12:24oyeron la palabra de D, y volvieron yH3068
+- 1Re_12:28he aquí tus d, oh Israel, los cualesH430
+- 1Re_13:1que un varón de D...vino de Judá a Bet-elH430
+- 1Re_13:4Jeroboam oyó la palabra del varón de DH430
+- 1Re_13:5la señal que el varón de D había dadoH430
+- 1Re_13:6al varón de D: Te pido que ruegues anteH430
+- 1Re_13:6el varón de D oró a Jehová, y la manoH430
+- 1Re_13:7el rey dijo al varón de D: Ven conmigoH430
+- 1Re_13:8pero el varón de D dijo al rey: Aunque meH430
+- 1Re_13:11todo lo que el varón de D había hechoH430
+- 1Re_13:12por donde había regresado el varón de DH430
+- 1Re_13:14tras el varón de D...tú el varón de D?[[H430]]
+- 1Re_13:17por palabra de D me ha sido dicho: NoH3068
+- 1Re_13:21clamó al varón de D que había venidoH430
+- 1Re_13:21mandamiento que...D te había prescritoH430
+- 1Re_13:26el varón de D es, que fue rebelde alH430
+- 1Re_13:29tomó...el cuerpo del varón de D, y loH430
+- 1Re_13:31en que está sepultado el varón de DH430
+- 1Re_14:7vé y di a Jeroboam: Así dijo Jehová DH430
+- 1Re_14:9pues...te hiciste d ajenos e imágenes deH430
+- 1Re_14:13alguna cosa buena delante de Jehová DH430
+- 1Re_15:3no fue su corazón perfecto con...su DH430
+- 1Re_15:4por amor...Jehová su D le dio lámpara enH430
+- 1Re_15:30provocó a enojo a Jehová D de IsraelH430
+- 1Re_16:13provocando a enojo con sus...a Jehová DH430
+- 1Re_16:26provocando a ira a Jehová D de IsraelH430
+- 1Re_16:33provocar la ira de Jehová D de IsraelH430
+- 1Re_17:1dijo a Acab: Vive Jehová D de Israel, enH430
+- 1Re_17:12vive Jehová tu D, que no tengo panH430
+- 1Re_17:14Jehová D...ha dicho así: La harina deH430
+- 1Re_17:18ella...¿qué tengo yo contigo, varón de D?[[H430]]
+- 1Re_17:20dijo: Jehová D mío, ¿aun a la viuda enH430
+- 1Re_17:21clamó...y dijo: Jehová D mío, te ruegoH430
+- 1Re_17:24ahora conozco que tú eres varón de DH430
+- 1Re_18:10vive...tu D, que no ha habido nación niH430
+- 1Re_18:21si Jehová es D, seguidle; y si Baal, idH430
+- 1Re_18:24Invocad luego...el nombre de vuestros dH430
+- 1Re_18:24D que respondiere por...fuego, ése sea DH430
+- 1Re_18:25invocad el nombre de vuestros d, mas noH430
+- 1Re_18:27gritad en alta voz, porque d es: quizáH430
+- 1Re_18:36D de Abraham, de Isaac y de Israel, seaH430
+- 1Re_18:36que tú eres D en Israel, y que yo soyH430
+- 1Re_18:37conozca...que tú, oh Jehová, eres el DH430
+- 1Re_18:39¡Jehová es el D, Jehová es el D![[H430]]
+- 1Re_19:2así me hagan los d, y aún me añadan, siH430
+- 1Re_19:8caminó 40...hasta Horeb, el monte de DH430
+- 1Re_19:10,14he sentido un vivo celo por Jehová DH430
+- 1Re_20:10así me hagan los d, y aun me añadanH430
+- 1Re_20:23sus d son d de los montes, por eso nosH430
+- 1Re_20:28vino entonces el varón de D al rey deH430
+- 1Re_20:28Jehová es D de los montes, y no D deH430
+- 1Re_20:35dijo...Por palabra de D: Hiéreme ahoraH3068
+- 1Re_21:10digan: Tú has blasfemado a D y al reyH430
+- 1Re_21:13Nabot ha blasfemado a D y al rey. Y loH430
+- 1Re_22:53y provocó a ira a Jehová D de IsraelH430
+- 2Re_1:2y consultad a Baal-zebub d de EcrónH430
+- 2Re_1:3diles: ¿No hay D en Israel, que vela aH430
+- 2Re_1:3,6a consultar a Baal-zebub d de Ecrón?[[H430]]
+- 2Re_1:6así...¿No hay D en Israel, que tú envíasH430
+- 2Re_1:9,11dijo: Varón de D, el rey ha dicho queH430
+- 2Re_1:10,12al yo soy varón de D, descienda fuegoH430
+- 2Re_1:13varón de D, te ruego que sea de valorH430
+- 2Re_1:16d de Ecrón, ¿no hay D en Israel paraH430
+- 2Re_2:14dijo: ¿Dónde está Jehová, el D de Elías?[[H430]]
+- 2Re_4:7vino...y lo contó al varón de D, el cualH430
+- 2Re_4:9entiendo que éste...es varón santo de DH430
+- 2Re_4:16varón de D, no hagas burla de tu siervaH430
+- 2Re_4:21y lo puso sobre la cama del varón de DH430
+- 2Re_4:22que yo vaya corriendo al varón de D, yH430
+- 2Re_4:25y vino al varón de D, al monte CarmeloH430
+- 2Re_4:25y cuando el varón de D la vio de lejosH430
+- 2Re_4:27llegó a donde estaba el varón de D enH430
+- 2Re_4:27el varón de D le dijo: Déjala, porqueH430
+- 2Re_4:40¡varón de D, hay muerte en esa olla![[H430]]
+- 2Re_4:42trajo al varón de D panes de primiciasH430
+- 2Re_5:7¿soy yo D, que mate y dé vida, para queH430
+- 2Re_5:8Eliseo el varón de D oyó que el rey deH430
+- 2Re_5:11decía...Invocará el nombre de Jehová su DH430
+- 2Re_5:14conforme a la palabra del varón de DH430
+- 2Re_5:15y volvió al varón de D, él y toda suH430
+- 2Re_5:15conozco que no hay D en toda la tierraH430
+- 2Re_5:17ni ofrecerá sacrificio a otros d, sinoH430
+- 2Re_5:20Giezi, criado de Eliseo el varón de DH430
+- 2Re_6:6el varón de D preguntó: ¿Dónde cayó?[[H430]]
+- 2Re_6:9y el varón de D envió a decir al rey deH430
+- 2Re_6:10aquel lugar que el varón de D había dichoH430
+- 2Re_6:15salió el que servía al varón de D, y heH430
+- 2Re_6:31él dijo: Así me haga D, y aun me añadaH430
+- 2Re_7:2y un príncipe...respondió al varón de DH430
+- 2Re_7:17que había dicho el varón de D, cuandoH430
+- 2Re_7:18que el varón de D había hablado al reyH430
+- 2Re_7:19respondido al varón de D, diciendo: SiH430
+- 2Re_8:2mujer...hizo como el varón de D le dijoH430
+- 2Re_8:4rey hablado con...criado del varón de DH430
+- 2Re_8:7diciendo: El varón de D ha venido aquíH430
+- 2Re_8:8vé a recibir al varón de D, y consultaH430
+- 2Re_8:11y el varón de D le miró fijamente, y
+- 2Re_8:11estuvo así...luego lloró el varón de DH430
+- 2Re_9:6dijo Jehová D...Yo te he ungido por reyH430
+- 2Re_9:36es la palabra de D, la cual él habló porH3068
+- 2Re_10:31Jehú no cuidó de andar en la ley de...DH430
+- 2Re_13:19el varón de D...le dijo: Al dar cinco oH430
+- 2Re_14:25conforme a la palabra de...D de IsraelH430
+- 2Re_16:2no hizo lo recto ante...de Jehová su DH430
+- 2Re_17:7de Israel pecaron contra Jehová su DH430
+- 2Re_17:7los hijos de Israel...temieron a d ajenosH430
+- 2Re_17:9cosas no rectas contra Jehová su DH430
+- 2Re_17:14los cuales no creyeron en Jehová su DH430
+- 2Re_17:16dejaron todos los mandamientos de...DH430
+- 2Re_17:19guardó los mandamientos de Jehová su DH430
+- 2Re_17:26no conocen la ley del D de la tierraH430
+- 2Re_17:27allí, y les enseñe la ley del D del paísH430
+- 2Re_17:29pero cada nación se hizo sus d, y losH430
+- 2Re_17:31adorar a Adramelec y...d de SefarvaimH430
+- 2Re_17:33temían a Jehová, y honraban a sus dH430
+- 2Re_17:35no temeréis a otros d, ni...adoraréisH430
+- 2Re_17:37por obra, y no temeréis a d ajenosH430
+- 2Re_17:38no olvidaréis...ni temeréis a d ajenosH430
+- 2Re_17:39temed a Jehová vuestro D...os libraráH430
+- 2Re_18:5en Jehová D de Israel puso su esperanzaH430
+- 2Re_18:12no habían atendido a la voz de...su DH430
+- 2Re_18:22decís...confiamos en Jehová vuestro DH430
+- 2Re_18:33¿acaso alguno de los d...ha librado suH430
+- 2Re_18:34¿dónde está el d de Hamat y de Arfad?[[H430]]
+- 2Re_18:34¿dónde está el d de Sefarvaim...de Iva?[[H430]]
+- 2Re_18:35¿qué d de todos los d de estas tierrasH430
+- 2Re_19:4quizá oirá...tu D todas las palabras delH430
+- 2Re_19:4ha enviado para blasfemar al D vivienteH430
+- 2Re_19:4palabras...las cuales Jehová tu D ha oídoH430
+- 2Re_19:10no te engañe tu D en quien tú confíasH430
+- 2Re_19:12¿acaso libraron sus d a las nacionesH430
+- 2Re_19:15Jehová D de Israel, que moras entre losH430
+- 2Re_19:15sólo tú eres D de todos los reinos deH430
+- 2Re_19:16ha enviado a blasfemar al D vivienteH430
+- 2Re_19:18que echaron al fuego a sus d...no eran dH430
+- 2Re_19:19Jehová D nuestro...sálvanos, te ruegoH430
+- 2Re_19:19que sepan...que sólo tú, Jehová, eres DH430
+- 2Re_19:20ha dicho Jehová, D de Israel: Lo queH430
+- 2Re_19:37adoraba en el templo de Nisroc su dH430
+- 2Re_20:5así dice Jehová, el D de David tu padreH430
+- 2Re_21:12ha dicho Jehová el D de Israel: He aquíH430
+- 2Re_21:22dejó a Jehová el D de sus padres, y noH430
+- 2Re_22:15así ha dicho...el D de Israel: Decid alH430
+- 2Re_22:17cuanto...quemaron incienso a d ajenosH430
+- 2Re_22:18diréis así: Así ha dicho...D de IsraelH430
+- 2Re_23:16conforme a...profetizado el varón de DH430
+- 2Re_23:17el sepulcro del varón de D que vino deH430
+- 2Re_23:21haced la pascua a Jehová vuestro DH430
+- 1Cr_4:10invocó Jabes al D de Israel, diciendoH430
+- 1Cr_4:10si me dieras...Y le otorgó D lo que pidióH430
+- 1Cr_5:20porque clamaron a D en la guerra, y losH430
+- 1Cr_5:22y cayeron muchos...la guerra era de DH430
+- 1Cr_5:25se rebelaron contra el D de sus padresH430
+- 1Cr_5:25siguiendo a los d de los pueblos de laH430
+- 1Cr_5:26el D de...excitó el espíritu de Pul reyH430
+- 1Cr_6:48sobre...del tabernáculo de la casa de DH430
+- 1Cr_6:49a todo lo que Moisés siervo de D habíaH430
+- 1Cr_9:11hijo de Ahitob, príncipe de la casa de DH430
+- 1Cr_9:13eficaces en...ministerio en la casa de DH430
+- 1Cr_9:26su cargo...los tesoros de la casa de DH430
+- 1Cr_9:27estos moraban alrededor de la casa de DH430
+- 1Cr_10:10sus armas en el templo de sus d, yH430
+- 1Cr_11:2Jehová tu D te ha dicho: Tú apacentarásH430
+- 1Cr_11:19guárdeme mi D...de beber la sangre y laH430
+- 1Cr_12:17véalo el D de nuestros padres, y loH430
+- 1Cr_12:18oh David...pues también tu D te ayudaH430
+- 1Cr_12:22hasta hacerse un...como ejército de DH430
+- 1Cr_13:2si es la voluntad de Jehová nuestro DH430
+- 1Cr_13:3y traigamos el arca de...D a nosotrosH430
+- 1Cr_13:5David...para que trajesen el arca de DH430
+- 1Cr_13:6para pasar de allí el arca de Jehová DH430
+- 1Cr_13:7y llevaron el arca de D de la casa deH430
+- 1Cr_13:8se regocijaban delante de D con...arpasH430
+- 1Cr_13:10y lo hirió...y murió allí delante de DH430
+- 1Cr_13:12y David temió a D aquel día, y dijoH430
+- 1Cr_13:12¿cómo he de traer a mi...el arca de D?[[H430]]
+- 1Cr_13:14el arca de D estuvo con la familia deH430
+- 1Cr_14:10David consultó a D...¿Subiré contra losH430
+- 1Cr_14:11D rompió mis enemigos por mi manoH430
+- 1Cr_14:12dejaron allí sus d, y David dijo queH430
+- 1Cr_14:14volvió a consultar a D, y D le dijo: NoH430
+- 1Cr_14:15sal luego a la...D saldrá delante de tiH430
+- 1Cr_14:16hizo, pues, David como D le mandé, yH430
+- 1Cr_15:1y arregló un lugar para el arca de DH430
+- 1Cr_15:2el arca de D no debe ser llevada sinoH430
+- 1Cr_15:12pasad el arca de Jehová D de Israel alH430
+- 1Cr_15:13nuestro D nos quebrantó, por cuanto noH430
+- 1Cr_15:14para traer el arca de Jehová D de IsraelH430
+- 1Cr_15:15de los levitas trajeron el arca de DH430
+- 1Cr_15:24las trompetas delante del arca de DH430
+- 1Cr_15:26ayudando D a los levitas que llevabanH430
+- 1Cr_16:1trajeron el arca de D, y la pusieronH430
+- 1Cr_16:1ofrecieron holocaustos...delante de DH430
+- 1Cr_16:4levitas, para que...loasen a Jehová DH430
+- 1Cr_16:6las trompetas delante del arca...de DH430
+- 1Cr_16:14Jehová, él es nuestro D; sus juiciosH430
+- 1Cr_16:25digno...de ser temido sobre todos los dH430
+- 1Cr_16:26todos los d de los pueblos son ídolosH430
+- 1Cr_16:35sálvanos, oh D, salvación nuestraH430
+- 1Cr_16:36bendito sea Jehová D de Israel, deH430
+- 1Cr_16:42con otros instrumentos de música de DH430
+- 1Cr_17:2haz todo lo que...porque D está contigoH430
+- 1Cr_17:3misma noche vino palabra de D a NatánH430
+- 1Cr_17:16Jehová D, ¿quién soy yo, y cuál es miH430
+- 1Cr_17:17y aun esto, oh D, te ha parecido pocoH430
+- 1Cr_17:17me has mirado como a un...oh Jehová DH430
+- 1Cr_17:20no hay semejante a ti, ni hay D sinoH430
+- 1Cr_17:21cuyo D...se redimiese un pueblo, paraH430
+- 1Cr_17:22y tú, Jehová, has venido a ser su DH430
+- 1Cr_17:24Jehová D de Israel, es D para IsraelH430
+- 1Cr_17:25D mío, revelaste al oído a tu siervoH430
+- 1Cr_17:26el D que has hablado de tu siervo esteH430
+- 1Cr_19:13por las ciudades de nuestro D; y hagaH430
+- 1Cr_21:7esto desagradó a D, e hirió a IsraelH430
+- 1Cr_21:8dijo David a D: He pecado...al hacer estoH430
+- 1Cr_21:17dijo David a D: ¿No soy yo el que hizoH430
+- 1Cr_21:17D mío, sea ahora tu mano contra mí, yH430
+- 1Cr_21:30David no pudo ir allá a consultar a DH430
+- 1Cr_22:1aquí estará la casa de Jehová D, y aquíH430
+- 1Cr_22:2labrasen piedras...edificar la casa de DH430
+- 1Cr_22:6le mandó que edificase casa a Jehová DH430
+- 1Cr_22:7el edificar templo al nombre de...mi DH430
+- 1Cr_22:11edifiques casa a Jehová tu D, como élH430
+- 1Cr_22:12para que...guardes la ley de Jehová tu DH430
+- 1Cr_22:18¿no está con vosotros Jehová vuestro DH430
+- 1Cr_22:19poned...ánimos en buscar a Jehová...DH430
+- 1Cr_22:19edificad el santuario de Jehová D, paraH430
+- 1Cr_22:19traer...los utensilios consagrados a DH430
+- 1Cr_23:14los hijos de Moisés varón de D fueronH430
+- 1Cr_23:25D...ha dado paz a su pueblo Israel, yH430
+- 1Cr_23:28obra del ministerio de la casa de DH430
+- 1Cr_24:5santuario, y príncipes de la casa de DH430
+- 1Cr_24:19que le había mandado...el D de IsraelH430
+- 1Cr_25:5vidente del rey en las cosas de D, paraH430
+- 1Cr_25:5y D dio a Hemán 14 hijos y tres hijasH430
+- 1Cr_25:6arpas, para el ministerio del templo de DH430
+- 1Cr_26:5porque D había bendecido a Obed-edomH430
+- 1Cr_26:20cargo de los tesoros de la casa de DH430
+- 1Cr_26:32las cosas de D y los negocios del reyH430
+- 1Cr_28:2para el estrado de los pies de nuestro DH430
+- 1Cr_28:3mas D me dijo: Tú no edificarás casa aH430
+- 1Cr_28:4D de Israel me eligió de toda la casaH430
+- 1Cr_28:8todo Israel...y en oídos de nuestro DH430
+- 1Cr_28:8e inquirid...los preceptos de Jehová...DH430
+- 1Cr_28:9tú, Salomón...reconoce al D de tu padreH430
+- 1Cr_28:12para las tesorerías de la casa de DH430
+- 1Cr_28:20porque Jehová D, mi D, estará contigoH430
+- 1Cr_28:21para todo el ministerio de la casa de DH430
+- 1Cr_29:1a Salomón mi hijo ha elegido D; él esH430
+- 1Cr_29:1la casa no es para hombre, sino para...DH430
+- 1Cr_29:2he preparado para la casa de mi D, oroH430
+- 1Cr_29:3tengo mi afecto en la casa de mi D, yoH430
+- 1Cr_29:3las cosas...he dado para la casa de mi DH430
+- 1Cr_29:7dieron para el servicio de la casa de DH430
+- 1Cr_29:10bendito seas...D de Israel nuestro padreH430
+- 1Cr_29:13D nuestro, nosotros alabamos y loamosH430
+- 1Cr_29:16D nuestro, toda esta abundancia queH430
+- 1Cr_29:17yo sé, D mío, que tú escudriñas losH430
+- 1Cr_29:18Jehová, D...conserva...esta voluntad delH430
+- 1Cr_29:20dijo...Bendecid ahora a Jehová vuestro DH430
+- 1Cr_29:20la congregación bendijo a Jehová D deH430
+- 2Cr_1:1Salomón...Jehová su D estaba con élH430
+- 2Cr_1:3porque allí estaba el tabernáculo...de DH430
+- 2Cr_1:4pero David había traído el arca de D deH430
+- 2Cr_1:7aquella noche apareció D a Salomón y loH430
+- 2Cr_1:8y Salomón dijo a D: Tú has tenido conH430
+- 2Cr_1:9confírmese...Jehová D, tu palabra dada aH430
+- 2Cr_1:11dijo D a Salomón: Por cuanto hubo estoH430
+- 2Cr_2:4edificar casa al nombre de Jehová mi DH430
+- 2Cr_2:4festividades de Jehová nuestro D: lo cualH430
+- 2Cr_2:5el D nuestro es grande sobre todos los dH430
+- 2Cr_2:12bendito sea Jehová el D de Israel, queH430
+- 2Cr_3:3medidas que dio Salomón a...la casa de DH430
+- 2Cr_4:11acabó Hiram la obra...para la casa de DH430
+- 2Cr_4:19hizo...los utensilios para la casa de DH430
+- 2Cr_5:1y puso...en los tesoros de la casa de DH430
+- 2Cr_5:14la gloria...había llenado la casa de DH430
+- 2Cr_6:4bendito sea Jehová D de Israel, quien conH430
+- 2Cr_6:7edificar casa al nombre de Jehová D deH430
+- 2Cr_6:10he edificado casa al nombre de Jehová DH430
+- 2Cr_6:14D de Israel, no hay D semejante a ti enH430
+- 2Cr_6:16Jehová D...cumple a tu siervo David miH430
+- 2Cr_6:17D de Israel, cúmplase tu palabra queH430
+- 2Cr_6:18¿es verdad que D habitará con el hombreH430
+- 2Cr_6:19tú mirarás a la oración de tu siervo...DH430
+- 2Cr_6:40D mío, te ruego que estén abiertos tusH430
+- 2Cr_6:41D, levántate ahora para habitar en tuH430
+- 2Cr_6:41Jehová D, sean vestidos de salvación tusH430
+- 2Cr_6:42D, no rechaces a tu ungido; acuérdateH430
+- 2Cr_7:5así dedicaron la casa de D el rey y todoH430
+- 2Cr_7:19si vosotros os...y sirviereis a d ajenosH430
+- 2Cr_7:22cuanto dejaron a Jehová D de sus padresH430
+- 2Cr_7:22cuanto...han abrazado a d ajenos, yH430
+- 2Cr_8:14así lo había mandado David, varón de DH430
+- 2Cr_9:8bendito sea Jehová tu D, el cual se haH430
+- 2Cr_9:8para ponerte...como rey para Jehová tu DH430
+- 2Cr_9:8cuanto tu D amó a Israel para afirmarloH430
+- 2Cr_9:23para oír la sabiduría que D le había dadoH430
+- 2Cr_10:15la causa era de D, para que...cumplieraH430
+- 2Cr_11:2vino palabra de...a Semaías varón de DH430
+- 2Cr_11:16buscar a Jehová D...el D de sus padresH430
+- 2Cr_13:5Jehová D de Israel dio el reino a DavidH430
+- 2Cr_13:8tenéis...los becerros de oro que...por dH430
+- 2Cr_13:9así sea sacerdote de los que no son d?[[H430]]
+- 2Cr_13:10Jehová es nuestro D, y no le...dejadoH430
+- 2Cr_13:11guardamos la ordenanza de Jehová...DH430
+- 2Cr_13:12he aquí D está con nosotros por jefeH430
+- 2Cr_13:12Israel, no peleéis contra Jehová el DH430
+- 2Cr_13:15D desbarató a Jeroboam y a todo IsraelH430
+- 2Cr_13:16de Judá, y D los entregó en sus manosH430
+- 2Cr_13:18porque se apoyaban en Jehová el D deH430
+- 2Cr_14:2hizo Asa lo bueno y lo recto ante...de DH430
+- 2Cr_14:4mandó a Judá que buscase a Jehová el DH430
+- 2Cr_14:11porque hemos buscado a Jehová nuestro DH430
+- 2Cr_14:11clamó Asa a Jehová su D, y dijo: ¡OhH430
+- 2Cr_14:11Jehová D nuestro...tu eres nuestro DH430
+- 2Cr_15:1vino el Espíritu de D sobre Azarías hijoH430
+- 2Cr_15:3muchos días ha estado Israel sin...D yH430
+- 2Cr_15:4cuando...se convirtieron a Jehová D deH430
+- 2Cr_15:6D los turbó con...clase de calamidadesH430
+- 2Cr_15:9viendo que Jehová su D estaba con élH430
+- 2Cr_15:12que buscarían a...D de sus padres, deH430
+- 2Cr_15:13que no buscase a Jehová el D de IsraelH430
+- 2Cr_15:18trajo a la casa de D lo que su padreH430
+- 2Cr_16:7y no te apoyaste en...tu D, por eso elH430
+- 2Cr_17:4que buscó al D de su padre, y anduvo enH430
+- 2Cr_18:5porque D los entregará en mano del reyH430
+- 2Cr_18:13que lo que mi D me dijere, eso hablaréH430
+- 2Cr_18:31mas Josafat clamó...y los apartó D de élH430
+- 2Cr_19:3has dispuesto tu corazón para buscar a DH430
+- 2Cr_19:4los conducía a Jehová el D de sus padresH430
+- 2Cr_19:7con Jehová nuestro D no hay injusticiaH430
+- 2Cr_20:6D de nuestros padres, ¿no eres tú D enH430
+- 2Cr_20:7D nuestro, ¿no echaste tú los moradoresH430
+- 2Cr_20:12¡oh D nuestro! ¿no los juzgarás tú?[[H430]]
+- 2Cr_20:15no es vuestra la guerra, sino de DH430
+- 2Cr_20:19para alabar a Jehová el D de Israel conH430
+- 2Cr_20:20creed en Jehová vuestro D...sus profetasH430
+- 2Cr_20:29pavor de D cayó sobre todos los reinosH430
+- 2Cr_20:30Josafat...D le dio paz por todas partesH430
+- 2Cr_20:33no había enderezado su corazón al D deH430
+- 2Cr_21:10él había dejado a...el D de sus padresH430
+- 2Cr_21:12Jehová el D de David tu padre ha dichoH430
+- 2Cr_22:7esto venía de D, para que Ocozías fueseH430
+- 2Cr_22:12y estuvo...escondido en la casa de DH430
+- 2Cr_23:3hizo pacto con el rey en la casa de DH430
+- 2Cr_23:9las lanzas...que estaban en la casa de DH430
+- 2Cr_24:5año sea reparada la casa de vuestro DH430
+- 2Cr_24:7Atalía...habían destruido la casa de DH430
+- 2Cr_24:9la ofrenda que Moisés siervo de D habíaH430
+- 2Cr_24:13la obra...y restituyeron la casa de DH430
+- 2Cr_24:16había hecho bien con Israel, y...con DH430
+- 2Cr_24:18desampararon la casa de Jehová D de susH430
+- 2Cr_24:18entonces la ira de D vino sobre JudáH430
+- 2Cr_24:20el Espíritu de D vino sobre ZacaríasH430
+- 2Cr_24:24habían dejado a...el D de sus padresH430
+- 2Cr_25:8así...D te hará caer...en D está el poderH430
+- 2Cr_25:9y Amasías dijo al varón de D: ¿Qué, puesH430
+- 2Cr_25:9el varón de D respondió: Jehová puedeH430
+- 2Cr_25:14los d de...de Seir...puso ante sí por dH430
+- 2Cr_25:15buscado los d de otra nación, que noH430
+- 2Cr_25:16yo sé que D ha decretado destruirteH430
+- 2Cr_25:20era la voluntad de D, que los queríaH430
+- 2Cr_25:20por cuanto habían buscado los d de EdomH430
+- 2Cr_25:24los utensilios que se...en la casa de DH430
+- 2Cr_26:3persistió en buscar a D en los días deH430
+- 2Cr_26:5de Zacarías, entendido en visiones de DH430
+- 2Cr_26:7D le dio ayuda contra los filisteos, yH430
+- 2Cr_26:16se rebeló contra Jehová su D, entrandoH430
+- 2Cr_26:18no te será para gloria delante de...DH430
+- 2Cr_27:6preparó sus caminos delante de...su DH430
+- 2Cr_28:5su D lo entregó en manos del rey de losH430
+- 2Cr_28:6cuanto habían dejado a Jehová el D deH430
+- 2Cr_28:9el D de vuestros padres, por el enojoH430
+- 2Cr_28:10¿no habéis pecado...contra Jehová...D?[[H430]]
+- 2Cr_28:23sacrificios a los d de Damasco que leH430
+- 2Cr_28:23los d de los reyes de Siria les ayudanH430
+- 2Cr_28:24Acaz los utensilios de la casa de DH430
+- 2Cr_28:25para quemar incienso a los d ajenosH430
+- 2Cr_28:25provocando así a...él D de sus padresH430
+- 2Cr_29:5y santificad la casa de Jehová el D deH430
+- 2Cr_29:6han hecho lo malo ante los ojos de...DH430
+- 2Cr_29:7no quemaron incienso ni...al D de IsraelH430
+- 2Cr_29:10hacer pacto con Jehová el D de IsraelH430
+- 2Cr_29:36de que D hubiese preparado el puebloH430
+- 2Cr_30:1,5para celebrar la pascua a...D de IsraelH430
+- 2Cr_30:6volveos a...el D de Abraham, de Isaac yH430
+- 2Cr_30:7se rebelaron contra...el D de sus padresH430
+- 2Cr_30:8servid a Jehová vuestro D, y el ardor deH430
+- 2Cr_30:9vuestro D es clemente y misericordiosoH430
+- 2Cr_30:12en Judá también estuvo la mano de DH430
+- 2Cr_30:16conforme a la ley de Moisés varón de DH430
+- 2Cr_30:18preparado su corazón para buscar a DH430
+- 2Cr_30:19a Jehová el D de sus padres, aunque noH430
+- 2Cr_30:22y dando gracias a Jehová el D de susH430
+- 2Cr_31:6de las cosas que habían prometido a...DH430
+- 2Cr_31:13de Azarías, príncipe de la casa de DH430
+- 2Cr_31:14tenía cargo de las ofrendas...para DH430
+- 2Cr_31:20y ejecutó lo bueno...delante de...su DH430
+- 2Cr_31:21el servicio de la casa de D, de acuerdoH430
+- 2Cr_31:21buscó a su D, lo hizo de todo corazónH430
+- 2Cr_32:8mas con nosotros está Jehová nuestro DH430
+- 2Cr_32:11nuestro D nos librará de la mano delH430
+- 2Cr_32:13¿pudieron los d de las naciones de esasH430
+- 2Cr_32:14¿qué d hubo de entró todos los d deH430
+- 2Cr_32:14¿cómo podrá vuestro D libraros de miH430
+- 2Cr_32:15si ningún d de todas aquellas nacionesH433
+- 2Cr_32:15menos vuestro D os podrá librar de miH430
+- 2Cr_32:16hablaron...sus siervos contra Jehová DH430
+- 2Cr_32:17cartas en que blasfemaba contra...el DH430
+- 2Cr_32:17como los d de las naciones, no pudieronH430
+- 2Cr_32:17tampoco el D de Ezequías librará al suyoH430
+- 2Cr_32:19contra el D...como contra los d de losH430
+- 2Cr_32:21en el templo de su d, allí lo mataronH430
+- 2Cr_32:29porque D le había dado muchas riquezasH430
+- 2Cr_32:31D lo dejó, para probarlo, para...conocerH430
+- 2Cr_33:7puso una imagen fundida...en la casa de DH430
+- 2Cr_33:7de la cual había dicho D a David y aH430
+- 2Cr_33:12fue puesto en angustias, oró a...su DH430
+- 2Cr_33:12en la presencia del D de sus padresH430
+- 2Cr_33:13pues D oyó su oración y lo restauró aH430
+- 2Cr_33:13reconoció Manasés que Jehová era DH430
+- 2Cr_33:15quitó los d ajenos, y el ídolo de laH430
+- 2Cr_33:16Judá que sirviesen a Jehová D de IsraelH430
+- 2Cr_33:17altos, aunque lo hacía para Jehová su DH430
+- 2Cr_33:18su oración a su D, y las palabras deH430
+- 2Cr_33:18que le hablaron en nombre de...el D deH430
+- 2Cr_34:3a los 8...comenzó a buscar al D de DavidH430
+- 2Cr_34:8que reparasen la casa de Jehová su DH430
+- 2Cr_34:23D de Israel ha dicho así:Decid al varónH430
+- 2Cr_34:25y han ofrecido sacrificios a d ajenosH430
+- 2Cr_34:26D de Israel ha dicho así: Por cuantoH430
+- 2Cr_34:27te humillaste delante de D al oír susH430
+- 2Cr_34:32conforme al pacto de Él, del D de susH430
+- 2Cr_34:33e hizo que...sirviesen a Jehová su DH430
+- 2Cr_34:33no se apartaron...de Jehová el D de susH430
+- 2Cr_35:3ahora servid a Jehová vuestro D, y a suH430
+- 2Cr_35:8y Jehiel, oficiales de la casa de DH430
+- 2Cr_35:21D me ha dicho que me apresure. Deja deH430
+- 2Cr_35:21de oponerte a D, quien está conmigoH430
+- 2Cr_35:22las palabras de...que eran de boca de DH430
+- 2Cr_36:5,12malo ante los ojos de Jehová su DH430
+- 2Cr_36:13se rebeló...al cual había jurado por DH430
+- 2Cr_36:13no volverse a Jehová el D de IsraelH430
+- 2Cr_36:15D de sus padres envió...palabra a ellosH430
+- 2Cr_36:16hacían escarnio de los mensajeros de DH430
+- 2Cr_36:18los utensilios de la casa de D...llevóH430
+- 2Cr_36:19y quemaron la casa de D, y rompieronH430
+- 2Cr_36:23el D de los cielos, me ha dado todosH430
+- 2Cr_36:23haya...sea Jehová su D con él, y subaH430
+- Esd_1:2Jehová el D de los cielos me ha dadoH430
+- Esd_1:3sea D con él, y suba a Jerusalén, queH430
+- Esd_1:3edifique la casa a Jehová D...(él es el D)[[H430]]
+- Esd_1:4ofrendas...para la casa de D, la cual estáH430
+- Esd_1:5aquellos cuyo espíritu despertó D paraH430
+- Esd_1:7y los había puesto en la casa de sus dH430
+- Esd_2:68hicieron ofrendas...para la casa de DH430
+- Esd_3:2y edificaron el altar del D de IsraelH430
+- Esd_3:2escrito en la ley de Moisés varón de DH430
+- Esd_3:8de su venida a la casa de D en JerusalénH430
+- Esd_3:9los que hacían la obra en la casa de DH430
+- Esd_4:1edificaban el templo de...D de IsraelH430
+- Esd_4:2buscamos a vuestro D, y a él ofrecemosH430
+- Esd_4:3edificar con vosotros casa a nuestro DH430
+- Esd_4:3edificaremos a Jehová D de Israel, comoH430
+- Esd_4:24entonces cesó la obra de la casa de DH426
+- Esd_5:1profetizaron Hageo...en el nombre del DH426
+- Esd_5:2y comenzaron a reedificar la casa de DH426
+- Esd_5:2con ellos los profetas de D...les ayudabanH426
+- Esd_5:5los ojos de D estaban sobre los ancianosH426
+- Esd_5:8que fuimos...a la casa del gran D, la cualH426
+- Esd_5:11somos siervos del D del cielo y de laH426
+- Esd_5:12provocaron a ira al D de los cielosH426
+- Esd_5:13que esta casa de D fuese reedificadaH426
+- Esd_5:14los utensilios de oro...de la casa de DH426
+- Esd_5:15y sea reedificada la casa de D en suH426
+- Esd_5:16Y puso los cimientos de la casa de DH426
+- Esd_5:17la orden para reedificar esta casa de DH426
+- Esd_6:3rey Ciro dio orden acerca de la casa de DH426
+- Esd_6:5los utensilios de oro...de la casa de DH426
+- Esd_6:5vayan a...y sean puestos en la casa de DH426
+- Esd_6:7se haga la obra de esa casa de D; que elH426
+- Esd_6:7reedifiquen esa casa de D en su lugarH426
+- Esd_6:8orden de...para reedificar esa casa de DH426
+- Esd_6:9para holocaustos al D del cielo, trigoH426
+- Esd_6:10para que ofrezcan sacrificios...al D delH426
+- Esd_6:12y el D que hizo habitar allí su nombreH426
+- Esd_6:12o destruir esa casa de D, la cual estáH426
+- Esd_6:14terminaron, por orden del D de IsraelH426
+- Esd_6:16dedicación de esta casa de D con gozoH426
+- Esd_6:17en la dedicación de esta casa de D cienH426
+- Esd_6:18el servicio de D en Jerusalén, conformeH426
+- Esd_6:21habían apartado...para buscar a Jehová DH430
+- Esd_6:22la obra de la casa de D, del D de IsraelH430
+- Esd_7:6la ley...que Jehová D de Israel había dadoH430
+- Esd_7:6mano de Jehová su D estaba sobre EsdrasH430
+- Esd_7:9llegó...estando con él la buena mano de DH430
+- Esd_7:12erudito en la ley del D del cielo: PazH426
+- Esd_7:14conforme a la ley de tu D que está enH426
+- Esd_7:15oro que el rey...ofrecen al D de IsraelH426
+- Esd_7:16que...ofrecieren para la casa de su DH426
+- Esd_7:17sobre el altar de la casa de vuestro DH426
+- Esd_7:18hacedlo conforme a la voluntad de...DH426
+- Esd_7:19los utensilios...de tu D...delante de DH426
+- Esd_7:20que se requiere para la casa de tu DH426
+- Esd_7:21escriba de la ley del D del cielo, seH426
+- Esd_7:23mandado por el D...para la casa del DH426
+- Esd_7:24a todos los...ministros de la casa de DH426
+- Esd_7:25conforme...sabiduría que tienes de tu DH426
+- Esd_7:25todos los que conocen las leyes de tu DH426
+- Esd_7:26que no cumpliere la ley de tu D, y laH426
+- Esd_7:27bendito Jehová D de nuestros padres, queH430
+- Esd_7:28fortalecido por la mano de mi D, reuníH430
+- Esd_8:17trajesen ministros para la casa de...DH430
+- Esd_8:18nos trajeron según la buena mano de...DH430
+- Esd_8:21para afligirnos delante de nuestro DH430
+- Esd_8:22la mano de nuestro D es para bien sobreH430
+- Esd_8:23ayunamos, pues, y pedimos...D sobre estoH430
+- Esd_8:25ofrenda que para la casa de nuestro DH430
+- Esd_8:28ofrenda...a Jehová D de nuestros padresH430
+- Esd_8:30para traerlo...a la casa de nuestro DH430
+- Esd_8:31y la mano de...D estaba sobre nosotrosH430
+- Esd_8:33pesada la plata...en la casa de nuestro DH430
+- Esd_8:35ofrecieron holocaustos al D de IsraelH430
+- Esd_8:36ayudaron al pueblo y a la casa de DH430
+- Esd_9:4todos los que temían las palabras del DH430
+- Esd_9:5postré...y extendí mis manos a Jehová mi DH430
+- Esd_9:6D mío, confuso y avergonzado estoy paraH430
+- Esd_9:6para levantar, oh D mío, mi rostro a tiH430
+- Esd_9:8ha habido misericordia de parte de...DH430
+- Esd_9:8fin de alumbrar nuestro D nuestros ojosH430
+- Esd_9:9no nos ha desamparado nuestro D, sinoH430
+- Esd_9:9vida para levantar la casa de nuestro DH430
+- Esd_9:10¿qué diremos, oh D nuestro, después deH430
+- Esd_9:13tú, D nuestro, no nos has castigado deH430
+- Esd_9:15oh Jehová D de Israel, tú eres justoH430
+- Esd_10:1y postrándose...delante de la casa de DH430
+- Esd_10:2nosotros hemos pecado contra nuestro DH430
+- Esd_10:3ahora, pues, hagamos pacto con nuestro DH430
+- Esd_10:3que temen el mandamiento de nuestro DH430
+- Esd_10:6se levantó...de delante de la casa de DH430
+- Esd_10:9se sentó...en la plaza de la casa de DH430
+- Esd_10:11dad gloria a...D de vuestros padres, yH430
+- Esd_10:14apartemos de...el ardor de la ira de...DH430
+- Neh_1:4y ayuné y oré delante del D de losH430
+- Neh_1:5Jehová, D de los cielos, fuerte, grandeH430
+- Neh_2:4pides? Entonces oré al D de los cielosH430
+- Neh_2:12y no declaré...lo que D había puesto enH430
+- Neh_2:18cómo la mano de mi D había sido buenaH430
+- Neh_2:20el D de los cielos, él nos prosperaráH430
+- Neh_4:4oye, oh D nuestro, que somos objeto deH430
+- Neh_4:9oramos a nuestro D, y...pusimos guardaH430
+- Neh_4:15que D había desbaratado el consejo deH430
+- Neh_4:20reuníos allí con...D peleará por nosotrosH430
+- Neh_5:9¿no andaréis en el temor de nuestro DH430
+- Neh_5:13sacuda D de su casa y de su trabajo aH430
+- Neh_5:15yo no hice así, a causa del temor de DH430
+- Neh_5:19acuérdate de mí para bien, D mío, y deH430
+- Neh_6:9ahora, pues, oh D, fortalece tú mis manos
+- Neh_6:10reunámonos en la casa de D, dentro delH430
+- Neh_6:12entendí que D no lo había enviado, sinoH430
+- Neh_6:14acuérdate, D mío, de Tobías...SambalatH430
+- Neh_6:16que por...D había sido hecha esta obraH430
+- Neh_7:2éste era varón de verdad y temeroso de DH430
+- Neh_7:5puso D en mi corazón que reuniese a losH430
+- Neh_8:6bendijo...Esdras a Jehová, D grandeH430
+- Neh_8:8leían...el libro de la ley de D claramenteH430
+- Neh_8:9día santo es a Jehová nuestro D; no osH430
+- Neh_8:16en los patios de la casa de D, en laH430
+- Neh_8:18leyó...en el libro de la ley de D cadaH430
+- Neh_9:3leyeron el libro de la ley de...su D laH430
+- Neh_9:3confesaron sus...y adoraron a Jehová su DH430
+- Neh_9:4y clamaron en voz alta a Jehová su DH430
+- Neh_9:5bendecid a...D desde la eternidad hastaH430
+- Neh_9:7tú eres...el D que escogiste a Abram, yH430
+- Neh_9:17pero tú eres D que perdonas, clementeH433
+- Neh_9:18este es tu D que te hizo subir de EgiptoH430
+- Neh_9:31porque eres D clemente y misericordiosoH410
+- Neh_9:32D nuestro, D grande, fuerte, temibleH430, [[H410]]
+- Neh_10:28se habían apartado de...a la ley de DH430
+- Neh_10:29ley de D...dada por Moisés siervo de DH430
+- Neh_10:32para la obra de la casa de nuestro DH430
+- Neh_10:33todo el servicio de la casa de nuestro DH430
+- Neh_10:34la leña...traerla a la casa de nuestro DH430
+- Neh_10:34para quemar sobre el altar...nuestro DH430
+- Neh_10:36traeríamos...a la casa de nuestro D, aH430
+- Neh_10:36que ministran en la casa de nuestro DH430
+- Neh_10:37a las cámaras de la casa de nuestro DH430
+- Neh_10:38llevarían el diezmo...a la casa de...DH430
+- Neh_10:39no abandonaremos la casa de nuestro DH430
+- Neh_11:11de Ahitob, príncipe de la casa de DH430
+- Neh_11:16capataces de la obra...de la casa de DH430
+- Neh_11:22de Asaf...sobre la obra de la casa de DH430
+- Neh_12:24conforme al estatuto de David...de DH430
+- Neh_12:36los instrumentos...de David varón de DH430
+- Neh_12:40llegaron...los dos coros a la casa de DH430
+- Neh_12:43se regocijaron...D los había recreadoH430
+- Neh_12:45y habían cumplido el servicio de su DH430
+- Neh_12:46los cánticos...y acción de gracias a DH430
+- Neh_13:1no debían entrar...la congregación de DH430
+- Neh_13:2D volvió la maldición en bendiciónH430
+- Neh_13:4de la cámara de la casa de nuestro DH430
+- Neh_13:7una cámara en los atrios de la casa de DH430
+- Neh_13:9volver...los utensilios de la casa de DH430
+- Neh_13:11¿por qué está la casa de D abandonada?[[H430]]
+- Neh_13:14acuérdate de mí, oh D, en orden a estoH430
+- Neh_13:14mis misericordias...en la casa de mi DH430
+- Neh_13:18y trajo nuestro D todo este mal sobreH430
+- Neh_13:22acuérdate de mí, D mío, y perdónameH430
+- Neh_13:26era amado de su D, y D lo había puestoH430
+- Neh_13:27este mal...prevaricar contra nuestro DH430
+- Neh_13:29acuérdate de ellos, D mío, contra losH430
+- Neh_13:31acuérdate de mí, D mío, para bienH430
+- Job_1:1,8temeroso de D y apartado del malH430
+- Job_1:5quizá...y habrán blasfemado contra D enH430
+- Job_1:6vinieron a presentarse...los hijos de DH430
+- Job_1:9Satanás...¿Acaso teme Job a D de balde?[[H430]]
+- Job_1:16fuego de D cayó del cielo, que quemó lasH430
+- Job_1:22Job...ni atribuyó a D despropósito algunoH430
+- Job_2:1que otro día vinieron los hijos de D paraH430
+- Job_2:3recto, temeroso de D y apartado del malH430
+- Job_2:9le dijo su mujer...Maldice a D, y muéreteH430
+- Job_2:10¿recibiremos de D el bien, y el mal noH430
+- Job_3:4aquel día...no cuide de él D desde arribaH433
+- Job_3:23se da vida al...a quien D ha encerrado?[[H433]]
+- Job_4:6¿no es tu temor a D tu confianza? ¿No es
+- Job_4:9perecen por el aliento de D, y por elH433
+- Job_4:17¿será el hombre más justo que D? ¿SeráH433
+- Job_5:8yo buscaría a D, y encomendaría a D miH410, [[H430]]
+- Job_5:17bienaventurado es el...a quien D castigaH433
+- Job_6:4las saetas...y terrores de D me combatenH433
+- Job_6:8¡quién...que me otorgase D lo que anheloH433
+- Job_6:9agradara a D quebrantarme; que soltaraH433
+- Job_8:3acaso torcerá D el derecho, o pervertiráH410
+- Job_8:5buscares a D, y rogares al TodopoderosoH410
+- Job_8:13caminos de todos los que olvidan a DH410
+- Job_8:20D no aborrece al perfecto, ni apoya laH410
+- Job_9:2¿y cómo se justificará el hombre con D?[[H410]]
+- Job_9:13D no volverá atrás su ira, y debajo deH433
+- Job_10:2a D: No me condenes; hazme entender porH433
+- Job_11:5quién diera que D hablara, y abriera susH433
+- Job_11:6conocerías...D te ha castigado menos deH433
+- Job_11:7¿descubrirás tú los secretos de D?[[H433]]
+- Job_12:4yo soy...que invoca a D, y él le respondeH433
+- Job_12:6y los que provocan a D viven seguros, enH410
+- Job_12:13con D está la sabiduría y el poder
+- Job_13:3hablaría con el...y querría razonar con DH410
+- Job_13:7¿hablaréis iniquidad por D? ¿HablaréisH410
+- Job_13:8¿haréis...¿contenderéis vosotros por D?[[H410]]
+- Job_15:4y menoscabas la oración delante de DH410
+- Job_15:8¿oíste...secreto de D, y está limitada aH433
+- Job_15:11tan poco tienes las consolaciones de DH410
+- Job_15:13para que contra D vuelvas tu espírituH410
+- Job_15:25extendió su mano contra D, y se portóH410
+- Job_16:11me ha entregado D al mentiroso, y enH410
+- Job_16:20son...mas ante D derramaré mis lágrimasH433
+- Job_16:21disputar el hombre con D, como con suH433
+- Job_17:3dame fianza, oh D; sea mi protección
+- Job_18:21será el lugar del que no conoció a DH410
+- Job_19:6sabed ahora que D me ha derribado, y meH433
+- Job_19:21mí! Porque la mano de D me ha tocadoH433
+- Job_19:22¿por qué me perseguís como D, y ni aunH410
+- Job_19:26después de...en mi carne he de ver a DH433
+- Job_20:15vomitará; de su vientre las sacará DH410
+- Job_20:23D enviará sobre él el ardor de su ira
+- Job_20:29porción que D prepara al hombre impíoH430
+- Job_20:29y la heredad que D le señala por suH410
+- Job_21:9temor, ni viene azote de D sobre ellosH433
+- Job_21:14dicen, pues, a D: Apártate de nosotrosH410
+- Job_21:17y D en su ira les reparte dolores!
+- Job_21:19D guardará para los hijos de ellos suH433
+- Job_21:22enseñará...a D sabiduría, juzgando elH410
+- Job_22:2¿traerá el hombre provecho a D?[[H410]]
+- Job_22:12¿no está D en la altura de los cielos?[[H433]]
+- Job_22:13dirás tú: ¿Qué sabe D? ¿Cómo juzgaráH410
+- Job_22:17decían a D: Apártate de nosotrosH410
+- Job_22:26entonces te...y alzarás a D tu rostroH433
+- Job_22:29dirás...y D salvará al humilde de ojos
+- Job_23:3me diera el saber dónde hallar a D!
+- Job_23:16D ha enervado mi corazón...ha turbadoH410
+- Job_24:12claman...pero D no atiende su oraciónH433
+- Job_25:4se justificará el hombre para con D?[[H410]]
+- Job_27:2vive D, que ha quitado mi derecho, y elH410
+- Job_27:3mí, y haya hálito de D en mis naricesH433
+- Job_27:8¿cuál es...cuando D le quitare la vida?[[H433]]
+- Job_27:9¿oirá D su clamor...tribulación viniereH410
+- Job_27:10deleitará...invocará a D en todo tiempo?[[H433]]
+- Job_27:11os enseñaré en cuanto a la mano de DH410
+- Job_27:13es para con D la porción del hombreH410
+- Job_27:22D, pues, descargará sobre él, y no
+- Job_28:23D entiende el camino...conoce su lugarH430
+- Job_29:2como en los días en que D me guardabaH433
+- Job_29:4cuando el favor de D velaba sobre miH433
+- Job_30:11D desató su cuerda, y me afligió; por
+- Job_31:2¿qué galardón me daría de arriba D, yH433
+- Job_31:6péseme D en balanzas de justicia, yH433
+- Job_31:14¿qué haría yo cuando D se levantase?[[H410]]
+- Job_31:23porque temí el castigo de D, contraH410
+- Job_31:28porque habría negado al D soberanoH410
+- Job_32:2se justificaba a sí mismo más que a DH430
+- Job_32:13sabiduría; lo vence D, no el hombreH410
+- Job_33:4el espíritu de D me hizo, y el soploH410
+- Job_33:6heme aquí a mí en lugar de D, conformeH410
+- Job_33:12yo te responderé que mayor es D que elH433
+- Job_33:14en una o en dos maneras habla D; peroH410
+- Job_33:24le diga que D tuvo de él misericordia
+- Job_33:26orará a D, y éste le amará, y verá suH433
+- Job_33:28D redimirá su alma para que no pase al
+- Job_33:29estas cosas hace D dos y tres veces conH410
+- Job_34:5dicho: Yo soy justo, y D me ha quitadoH410
+- Job_34:9servirá al...conformar su voluntad a DH430
+- Job_34:10oídme: lejos esté de D la impiedad, yH410
+- Job_34:12sí, por cierto, D no hará injusticiaH410
+- Job_34:23lo justo, para que vaya con D a juicioH410
+- Job_34:31conviene que se diga a D: He llevadoH410
+- Job_34:37y contra D multiplica sus palabrasH410
+- Job_35:2que has dicho: Más justo soy yo que D?[[H410]]
+- Job_35:10y ninguno...¿Dónde está D mi HacedorH433
+- Job_35:13D no oirá la vanidad, ni la mirará elH410
+- Job_36:2todavía tengo razones en defensa de DH433
+- Job_36:5D es grande, pero no desestima a nadieH410
+- Job_36:22he aquí que D es excelso en su poderH410
+- Job_36:26D es grande, y...no le conocemos, ni seH410
+- Job_37:5truena D maravillosamente con su vozH410
+- Job_37:10por el soplo de D se da el hielo, yH410
+- Job_37:14Job...y considera las maravillas de DH410
+- Job_37:15¿sabes tú cómo D las pone en conciertoH433
+- Job_37:22norte...En D hay una majestad terribleH433
+- Job_38:7se regocijaban todos los hijos de D?[[H430]]
+- Job_38:41cuando sus polluelos claman a D, yH410
+- Job_39:17le privó D de sabiduría, y no le dioH433
+- Job_40:2el que disputa con D, responda a estoH433
+- Job_40:9¿tienes tú un brazo como el de D?[[H410]]
+- Job_40:19él es el principio de los caminos de DH410
+- Sal_3:2dicen...No hay para él salvación en DH430
+- Sal_3:7levántate, Jehová; sálvame, D...heristeH430
+- Sal_4:1respóndeme...clamo, oh D de mi justiciaH430
+- Sal_5:2a la voz de mi clamor, Rey mío y D míoH430
+- Sal_5:4porque tú no eres un D que se complace enH410
+- Sal_5:10castígalos, oh D; caigan por sus mismosH430
+- Sal_7:1Jehová D mío, en ti he confiado; sálvameH430
+- Sal_7:3D mío, si yo he hecho esto, si hay en misH430
+- Sal_7:9el D justo prueba la mente y el corazónH430
+- Sal_7:10mi escudo está en D, que salva a losH430
+- Sal_7:11D es juez justo, y D está airado contraH430, [[H410]]
+- Sal_9:17todas las gentes que se olvidan de DH430
+- Sal_10:4el malo, por...no busca a D; no hay D enH430
+- Sal_10:11dice en su corazón: D ha olvidado; haH410
+- Sal_10:12levántate, oh...D, alza tu mano; no teH410
+- Sal_10:13¿por qué desprecia el malo a D? En suH430
+- Sal_13:3respóndeme, oh Jehová D mío; alumbraH430
+- Sal_14:1dice el necio en su corazón: No hay DH430
+- Sal_14:2si había...entendido, que buscara a DH430
+- Sal_14:5D está con la generación de los justosH430
+- Sal_16:1guárdame...D, porque en ti he confiadoH410
+- Sal_16:4aquellos que sirven diligentes a otro d
+- Sal_17:6yo te he invocado...tú me oirás, oh DH410
+- Sal_18:2D mío, fortaleza mía, en él confiaréH410
+- Sal_18:6en mi angustia invoqué...y clamé a mi DH430
+- Sal_18:21yo he...no me aparté impíamente de mi DH430
+- Sal_18:28Jehová mi D alumbrará mis tinieblasH430
+- Sal_18:29desbarataré...con mi D asaltaré murosH430
+- Sal_18:30en cuanto a D, perfecto es su caminoH410
+- Sal_18:31¿quién es D sino sólo Jehová? ¿Y quéH433
+- Sal_18:31¿y qué roca hay fuera de nuestro D?[[H430]]
+- Sal_18:32D es el que me ciñe de poder, y quienH410
+- Sal_18:46y enaltecido sea el D de mi salvaciónH430
+- Sal_18:47el D que venga mis agravios, y someteH410
+- Sal_19:1los cielos cuentan la gloria de D, y elH410
+- Sal_20:1el nombre del D de Jacob te defiendaH430
+- Sal_20:5y alzaremos pendón en el nombre de...DH430
+- Sal_20:7nombre de...nuestro D tendremos memoriaH430
+- Sal_22:1D mío, D mío, ¿por qué...desamparado?[[H410]]
+- Sal_22:2D mío, clamo de día, y no respondesH430
+- Sal_22:10desde el vientre de mi...tú eres mi DH410
+- Sal_24:5recibirá...justicia del D de salvaciónH430
+- Sal_24:6de los que buscan tu rostro, oh D de
+- Sal_25:2D...en ti confío; no sea yo avergonzadoH430
+- Sal_25:5porque tú eres el D de mi salvaciónH430
+- Sal_25:22redime, oh D, a Israel de todas susH430
+- Sal_27:9no me...desampares, D de mi salvaciónH430
+- Sal_29:3truena el D de gloria, Jehová sobre lasH410
+- Sal_30:2Jehová D mío, a ti clamé, y me sanasteH430
+- Sal_30:12Jehová D mío, te alabaré para siempreH430
+- Sal_31:5me has redimido, oh Jehová, D de verdadH410
+- Sal_31:14mas yo en ti confío...digo: Tú eres mi DH430
+- Sal_33:12bienaventurada la nación cuyo D esH430
+- Sal_35:23D mío y Señor mío...defender mi causaH430
+- Sal_35:24júzgame conforme a tu...Jehová D míoH430
+- Sal_36:1no hay temor de D delante de sus ojosH430
+- Sal_36:6tu justicia es como los montes de D, tus
+- Sal_36:7cuán preciosa, oh D, es tu misericordia![[H430]]
+- Sal_37:31la ley de su D está en su corazón; porH430
+- Sal_38:15he esperado; tú responderás, Jehová DH430
+- Sal_38:21oh Jehová; D mío, no te alejes de miH430
+- Sal_40:3cántico nuevo, alabanza a nuestro DH430
+- Sal_40:5has aumentado, oh...D mío, tus maravillasH430
+- Sal_40:8hacer tu voluntad, D mío, me ha agradadoH430
+- Sal_40:17libertador eres...D mío, no te tardesH430
+- Sal_41:13bendito sea Jehová, el D de Israel, porH430
+- Sal_42:1así clama por ti, oh D, el alma míaH430
+- Sal_42:2mi alma tiene sed de D, del D vivoH430, [[H410]]
+- Sal_42:2¿cuándo...me presentaré delante de D?[[H430]]
+- Sal_42:3mientras me dicen...¿Dónde está tu D?[[H430]]
+- Sal_42:4la conduje hasta la casa de D, entreH430
+- Sal_42:5,11espera en D...salvación mía y D míoH430
+- Sal_42:6D mío, mi alma está abatida en mí; meH430
+- Sal_42:8conmigo, y mi oración al D de mi vidaH410
+- Sal_42:9diré a D: Roca mía, ¿por qué te hasH410
+- Sal_42:10diciéndome cada día: ¿Dónde está tu D?[[H430]]
+- Sal_43:1júzgame, oh D, y defiende mi causaH430
+- Sal_43:2pues que tú eres el D de mi fortalezaH430
+- Sal_43:4entraré al altar de D, al D de...alegríaH430, [[H410]]
+- Sal_43:4gozo; y te alabaré con arpa, oh D, D míoH430
+- Sal_43:5espera en D...salvación mía y D míoH430
+- Sal_44:1oh D, con nuestros oídos hemos oídoH430
+- Sal_44:4tú, oh D, eres mi rey; manda salvaciónH430
+- Sal_44:8en D nos gloriaremos todo el tiempoH430
+- Sal_44:20nos hubiésemos olvidado...de nuestro DH430
+- Sal_44:20si...o alzado nuestras manos a d ajenoH410
+- Sal_44:21¿no demandaría D esto? Porque él conoceH430
+- Sal_45:2tanto, D te ha bendecido para siempreH430
+- Sal_45:6trono, oh D, es eterno y para siempreH430
+- Sal_45:7por tanto, te ungió D, el D tuyo, conH430
+- Sal_46:1D es nuestro amparo y...pronto auxilioH430
+- Sal_46:4sus corrientes alegran la ciudad de DH430
+- Sal_46:5D está en medio de...no será conmovidaH430
+- Sal_46:5D la ayudará al clarear la mañanaH430
+- Sal_46:7,11nuestro refugio es el D de JacobH430
+- Sal_46:10estad quietos, y conoced que yo soy DH430
+- Sal_47:1las manos; aclamad a D con voz de júbiloH430
+- Sal_47:5subió D con júbilo, Jehová con sonidoH430
+- Sal_47:6cantad a D, cantad...a nuestro Rey, cantadH430
+- Sal_47:7porque D es el Rey de toda la tierraH430
+- Sal_47:8reinó D sobre las naciones; se sentó DH430
+- Sal_47:9reunieron como pueblo del D de AbrahamH430
+- Sal_47:10de D son los escudos de la tierra; élH430
+- Sal_48:1en la ciudad de nuestro D, en su monteH430
+- Sal_48:3en...palacios D es conocido por refugioH430
+- Sal_48:8hemos visto...en la ciudad de nuestro DH430
+- Sal_48:8ciudad de...la afirmará D para siempreH430
+- Sal_48:9nos acordamos de tu misericordia, oh DH430
+- Sal_48:10conforme a tu nombre, oh D, así es tuH430
+- Sal_48:14este D es D nuestro eternamente y paraH430
+- Sal_49:7ninguno de...podrá...ni dar a D su rescateH430
+- Sal_49:15D redimirá mi vida del poder del SeolH430
+- Sal_50:1el D de d...ha hablado y convocado laH430
+- Sal_50:2de Sion, perfección...D ha resplandecidoH430
+- Sal_50:3vendrá nuestro D, y no callará; fuegoH430
+- Sal_50:6cielos declararán su justicia...D es el juezH430
+- Sal_50:7escucha, Israel, y...yo soy D, el D tuyoH430
+- Sal_50:14sacrifica a D alabanza, y paga...votosH430
+- Sal_50:16pero al malo dijo D: ¿Qué tienes tú queH430
+- Sal_50:22entended...los que os olvidáis de DH433
+- Sal_50:23camino, le mostraré la salvación de DH430
+- Sal_51:1ten piedad de mí, oh D, conforme a tuH430
+- Sal_51:10crea en mí, oh D, un corazón limpioH430
+- Sal_51:14líbrame de homicidios, oh D, D de miH430
+- Sal_51:17los sacrificios de D son el espírituH430
+- Sal_51:17al corazón...no despreciarás tú, oh DH430
+- Sal_52:1oh...La misericordia de D es continuaH410
+- Sal_52:5por tanto, D te destruirá para siempreH410
+- Sal_52:7aquí...que no puso a D por su fortalezaH430
+- Sal_52:8estoy como olivo verde en la casa de DH430
+- Sal_52:8en la misericordia de D confío...siempreH430
+- Sal_53:1dice el necio en su corazón: No hay DH430
+- Sal_53:2D desde los cielos miró sobre los hijosH430
+- Sal_53:2había algún entendido que buscara a DH430
+- Sal_53:4que hacen iniquidad...y a D no invocan?[[H430]]
+- Sal_53:5D ha esparcido los huesos del que pusoH430
+- Sal_53:5los avergonzaste, porque D los desechóH430
+- Sal_53:6D hiciere volver de la cautividad a suH430
+- Sal_54:1oh D, sálvame por tu nombre, y con tuH430
+- Sal_54:2D, oye mi oración; escucha las razonesH430
+- Sal_54:3porque...no han puesto a D delante de síH430
+- Sal_54:4D es el que me ayuda; el Señor está conH430
+- Sal_55:1escucha, oh D, mi oración...te escondasH430
+- Sal_55:14andábamos en amistad en la casa de DH430
+- Sal_55:16en cuanto a mí, a D clamaré, y JehováH430
+- Sal_55:19D oirá, y los quebrantará luego, el queH410
+- Sal_55:19por cuanto no cambian, ni temen a DH430
+- Sal_55:23tú, oh D, harás descender aquéllos alH430
+- Sal_56:1ten misericordia de mi, oh D, porque meH430
+- Sal_56:4D alabaré su palabra; en D he confiadoH430
+- Sal_56:7pésalos según su iniquidad, oh D, yH430
+- Sal_56:9yo clamaré; esto sé, que D está por míH430
+- Sal_56:10en D alabaré su palabra; en Jehová suH430
+- Sal_56:11en D he confiado; no temeré; ¿qué puedeH430
+- Sal_56:12sobre mí, oh D, están tus votos; teH430
+- Sal_56:13para que ande delante de D en la luzH430
+- Sal_57:1ten misericordia de mi, oh D, ten...de míH430
+- Sal_57:2clamaré al D...al D que me favoreceH430, [[H410]]
+- Sal_57:3D enviará su misericordia y su verdadH430
+- Sal_57:5exaltado seas sobre los cielos, oh DH430
+- Sal_57:7está...oh D, mi corazón está dispuestoH430
+- Sal_57:11exaltado seas sobre los cielos, oh DH430
+- Sal_58:6oh D, quiebra sus dientes en sus bocasH430
+- Sal_58:11ciertamente...D que juzga en la tierraH430
+- Sal_59:1líbrame de mis enemigos, oh D mío; ponmeH430
+- Sal_59:5y tú...D de los ejércitos, D de IsraelH430
+- Sal_59:9esperaré en ti, porque D es mi defensaH430
+- Sal_59:10D...irá delante de mí; D hará que veaH430
+- Sal_59:13sépase que D gobierna en Jacob hastaH430
+- Sal_59:17porque eres, oh D, mi refugio, el D deH430
+- Sal_60:1oh D, tú nos has desechado...¡vuélveteH430
+- Sal_60:6D ha dicho en su santuario: Yo meH430
+- Sal_60:10¿no serás tú, oh D, que nos hablasH430
+- Sal_60:10y no salías, oh D, con...ejércitos?[[H430]]
+- Sal_60:12en D haremos proezas, y él hollará aH430
+- Sal_61:1oye, oh D, mi clamor...oración atiendeH430
+- Sal_61:5porque tú, oh D, has oído mis votosH430
+- Sal_61:7estará...siempre delante de D; preparaH430
+- Sal_62:1en D solamente está acallada mi almaH430
+- Sal_62:5alma mía, en D solamente reposa porqueH430
+- Sal_62:7en D está mi salvación y mi gloria; enH430
+- Sal_62:7en D está mi roca fuerte, y mi refugioH430
+- Sal_62:8esperad en él en...D es nuestro refugioH430
+- Sal_62:11una vez habló D...que de D es el poderH430
+- Sal_63:1D, D mío eres...de madrugada te buscaréH430, [[H410]]
+- Sal_63:11el rey se alegrará en D; será alabadoH430
+- Sal_64:1escucha, oh D, la voz de mi quejaH430
+- Sal_64:7mas D los herirá con saeta; de repenteH430
+- Sal_64:9anunciarán la obra de D, y entenderánH430
+- Sal_65:1tuya es la alabanza en Sion, oh D, y aH430
+- Sal_65:5oh D de nuestra salvación, esperanzaH430
+- Sal_65:9el río de D, lleno de aguas, preparas elH430
+- Sal_66:1aclamad a D con alegría, toda la tierraH430
+- Sal_66:3decida D: ¡Cuán asombrosas...tus obras![[H430]]
+- Sal_66:5venid, y ved las obras de D, temible enH430
+- Sal_66:8bendecid, pueblos, a nuestro D, y hacedH430
+- Sal_66:10tú nos probaste, oh D; nos ensayasteH430
+- Sal_66:16venid, oíd todos los que teméis a DH430
+- Sal_66:19ciertamente me escuchó D; atendió aH430
+- Sal_66:20bendito sea D, que no echó de sí miH430
+- Sal_67:1D tenga misericordia de nosotros, y nosH430
+- Sal_67:3,5te alaben los pueblos, oh D; todosH430
+- Sal_67:6su fruto; nos bendecirá D, el D nuestroH430
+- Sal_67:7bendíganos D, y témanlo todos...la tierraH430
+- Sal_68:1levántese D...esparcidos sus enemigosH430
+- Sal_68:3mas los justos...gozarán delante de DH430
+- Sal_68:5padre de huérfanos y defensor de...es DH430
+- Sal_68:6D hace habitar en...a los desamparadosH430
+- Sal_68:7oh D, cuando tú saliste delante de tuH430
+- Sal_68:8también destilaron los cielos ante...DH430
+- Sal_68:8aquel Sinaí temblé delante de D, del DH430
+- Sal_68:9abundante lluvia esparciste, oh D; a tuH430
+- Sal_68:10por tu bondad, oh D, has previsto alH430
+- Sal_68:15monte de D es el monte de Basán...altoH430
+- Sal_68:16al monte que deseó D para su morada?[[H430]]
+- Sal_68:17carros de D se cuentan por veintenasH430
+- Sal_68:18para que habite entre ellos JAH DH430
+- Sal_68:19bendito el...el D de nuestra salvaciónH410
+- Sal_68:20D, nuestro D ha de salvarnos, y deH410
+- Sal_68:21D herirá la cabeza de sus enemigos, laH430
+- Sal_68:24vieron tus caminos, oh D; los...de mi DH430, [[H410]]
+- Sal_68:26bendecid a D en ¡u congregaciones; lasH430
+- Sal_68:28tu D ha ordenado tu fuerza; confirmaH430
+- Sal_68:28confirma, oh D, lo que has hecho paraH430
+- Sal_68:31apresurará a extender...manos hacia DH430
+- Sal_68:32reinos de...cantad a D, cantad al SeñorH430
+- Sal_68:34atribuid poder a D; sobre Israel es suH430
+- Sal_68:35temible eres, oh D, desde...santuariosH430
+- Sal_68:35el D de Israel, él da fuerza y vigorH410
+- Sal_68:35da...vigor a su pueblo. Bendito sea DH430
+- Sal_69:1sálvame, oh D, porque las aguas hanH430
+- Sal_69:3desfallecido mis ojos esperando a mi DH430
+- Sal_69:5D, tú conoces mi insensatez...pecadosH430
+- Sal_69:6no sean confundidos por...oh D de IsraelH430
+- Sal_69:13a ti oraba...oh D, por...tu misericordiaH430
+- Sal_69:29tu salvación, oh D, me ponga en altoH430
+- Sal_69:30alabaré yo el nombre de D con cánticoH430
+- Sal_69:32buscad a D, y vivirá vuestro corazónH430
+- Sal_69:35D salvará a Sion, y reedificará lasH430
+- Sal_70:1oh D...apresúrate, oh D, a socorrermeH430
+- Sal_70:4digan siempre los...Engrandecido sea DH430
+- Sal_70:5apresúrate a mí, oh D...no te detengasH430
+- Sal_71:4D mío, líbrame de la mano del impío, deH430
+- Sal_71:11D lo ha desamparado; perseguidle yH430
+- Sal_71:12oh D, no te alejes de mí; D mío, acudeH430
+- Sal_71:17oh D, me enseñaste desde mi juventudH430
+- Sal_71:18en la vejez y...oh D, no me desamparesH430
+- Sal_71:19y tu justicia, oh D, hasta lo excelsoH430
+- Sal_71:19grandes cosas; oh D, ¿quién como tú?[[H430]]
+- Sal_71:22oh D mío; tu verdad cantaré a ti en elH430
+- Sal_72:1D, da tus juicios al rey, y tu justiciaH430
+- Sal_72:18bendito Jehová D, el D de Israel, elH430
+- Sal_73:1ciertamente es bueno D para con IsraelH430
+- Sal_73:10por eso D hará volver a su pueblo aquí
+- Sal_73:11¿cómo sabe D? ¿Y hay conocimiento enH410
+- Sal_73:17hasta que entrado...el santuario de DH410
+- Sal_73:26roca de mi corazón y mi porción es DH430
+- Sal_73:28acercarme a D es el bien; he puesto enH430
+- Sal_74:1¿por qué, oh D, nos has desechado paraH430
+- Sal_74:8han quemado todas las sinagogas de D enH410
+- Sal_74:10¿hasta cuándo, oh D, nos afrentará elH430
+- Sal_74:12pero D es mi rey desde tiempo antiguoH430
+- Sal_74:22oh D, aboga tu causa; acuérdate de cómoH430
+- Sal_75:1gracias te damos, oh D...cercano está tuH430
+- Sal_75:7D es el juez; a éste humilla, y a aquélH430
+- Sal_75:9pero yo...cantaré alabanzas al D de JacobH430
+- Sal_76:1D es conocido en Judá; en Israel esH430
+- Sal_76:6a tu reprensión, oh D de Jacob...fueronH430
+- Sal_76:9te levantaste, oh D, para juzgar, paraH430
+- Sal_76:11prometed, y pagad a Jehová vuestro DH430
+- Sal_77:1clamé a D, a D clamé, y él me escucharáH430
+- Sal_77:3me acordaba de D, y me conmovía; meH430
+- Sal_77:9¿ha olvidado D el tener misericordia?[[H410]]
+- Sal_77:13D...¿qué d es grande como nuestro D?[[H430]], [[H410]]
+- Sal_77:14eres el D que hace maravillas; hicisteH410
+- Sal_77:16te vieron las aguas, Oh D; las aguasH430
+- Sal_78:7a fin de que pongan en D su confianzaH430
+- Sal_78:7y no se olviden de las obras de D; queH410
+- Sal_78:8no...ni fue fiel para con D su espírituH410
+- Sal_78:10no guardaron el pacto de D, ni...su leyH430
+- Sal_78:18tentaron a D en su corazón, pidiendoH410
+- Sal_78:19y hablaron contra D, diciendo: ¿PodráH430
+- Sal_78:22por cuanto no habían creído a D, niH430
+- Sal_78:31vino...el furor de D, e hizo morir a losH430
+- Sal_78:34los hacía morir, entonces buscaban a DH410
+- Sal_78:35que D era...el D altísimo su RedentorH430
+- Sal_78:41volvían, y tentaban a D, y...al SantoH410
+- Sal_78:56pero ellos tentaron y...al D AltísimoH430
+- Sal_78:59lo oyó D y se enojó, y en gran maneraH430
+- Sal_79:1D, vinieron las naciones a tu heredadH430
+- Sal_79:9ayúdanos, oh D de nuestra salvaciónH430
+- Sal_79:10dirán las gentes: ¿Dónde está su D?[[H430]]
+- Sal_80:3oh D, restáuranos; haz resplandecer tuH430
+- Sal_80:4Jehová D de los ejércitos, ¿hasta cuándoH430
+- Sal_80:7,19oh D de los ejércitos, restáuranosH430
+- Sal_80:10y con sus sarmientos los cedros de DH410
+- Sal_80:14oh D de los ejércitos, vuelve ahoraH430
+- Sal_81:1cantad con gozo a D...al D de JacobH430
+- Sal_81:4estatuto es...ordenanza del D de JacobH430
+- Sal_81:9no habrá en ti d ajeno, ni...d extrañoH410
+- Sal_81:10yo soy Jehová tu D, qué te hice subirH430
+- Sal_81:16sustentaría D con lo mejor del trigo
+- Sal_82:1D está en...d...en medio de los d juzgaH430
+- Sal_82:6vosotros sois d, y todos vosotros hijosH430
+- Sal_82:8levántate, oh D, juzga la tierra, porqueH430
+- Sal_83:1oh D, no guardes silencio; no callesH410
+- Sal_83:1no calles, oh D, ni te estés quietoH410
+- Sal_83:12ha dicho: Heredemos...las moradas de DH430
+- Sal_83:13D mío, ponlos como torbellinos, comoH430
+- Sal_84:2mi corazón y mi carne cantan al D vivoH410
+- Sal_84:3cerca de tus altares...Rey mío, y D míoH430
+- Sal_84:7irán de poder en poder; verán a D enH430
+- Sal_84:8D de los ejércitos, oye mi oraciónH430
+- Sal_84:8oye mi oración; escucha, oh D de JacobH430
+- Sal_84:9mira oh D, escudo nuestro, y pon losH430
+- Sal_84:10estar a la puerta de la casa de mi DH430
+- Sal_84:11sol y escudo es Jehová D; gracia yH430
+- Sal_85:4restáuranos, oh D de nuestra salvación,[[H430]]
+- Sal_85:8escucharé lo que hablará Jehová D...pazH410
+- Sal_86:2salva tú, oh D mío, a tu siervo que enH430
+- Sal_86:8Señor, ninguno hay como tú entre los dH430
+- Sal_86:10porque tú eres grande...sólo tú eres DH430
+- Sal_86:12te alabaré, oh Jehová D mío, con todoH430
+- Sal_86:14D, los soberbios se levantaron contraH430
+- Sal_86:15tú Señor, D misericordioso y ClementeH410
+- Sal_87:3cosas...se han dicho de ti, Ciudad de DH430
+- Sal_88:1Jehová, D de mi salvación, día y nocheH430
+- Sal_89:7D temible en la gran congregación deH410
+- Sal_89:8oh...D de los ejércitos, ¿quién como tú?[[H430]]
+- Sal_89:26clamará: Mi padre eres tú, mi D, y laH410
+- Sal_90 tít.Oración de Moisés, varón de DH430
+- Sal_90:2el siglo y hasta el siglo, tú eres DH410
+- Sal_90:17sea la luz de...D sobre nosotros, y laH430
+- Sal_91:2castillo mío; mi D, en quien confiaréH430
+- Sal_92:13en los atrios de nuestro D floreceránH430
+- Sal_94:1Jehová, D de las venganzas, D de lasH410
+- Sal_94:7no Verá JAH, ni entenderá el D de JacobH430
+- Sal_94:22me ha sido...D por roca de mi confianzaH430
+- Sal_94:23hará...los destruirá Jehová nuestro DH430
+- Sal_95:3es D grande, y Rey...sobre todos los dH410, [[H430]]
+- Sal_95:7él es nuestro D; nosotros el pueblo deH430
+- Sal_96:4grande es...temible sobre todos los dH430
+- Sal_96:5todos los d de los pueblos son ídolosH430
+- Sal_97:7los ídolos...Póstrense a él todos los dH430
+- Sal_97:9eres muy exaltado sobre todos los dH430
+- Sal_98:3han visto la salvación de nuestro DH430
+- Sal_99:5,9exaltad a...nuestro D, y postraos anteH430
+- Sal_99:8Jehová D...les fuiste un D perdonadorH430, [[H410]]
+- Sal_99:9y postraos...Jehová nuestro D es santoH430
+- Sal_100:1cantad alegres a D, habitantes de todaH3068
+- Sal_100:3reconoced que Jehová es D; él nos hizoH430
+- Sal_102:24D mío, no me cortes en la mitad de misH410
+- Sal_104:1D mío, mucho te has, engrandecido; teH430
+- Sal_104:21la presa, y para buscar de D su comidaH410
+- Sal_104:33a mi D cantaré salmos mientras vivaH430
+- Sal_105:7es Jehová nuestro D; en toda la tierraH430
+- Sal_106:14deseo...y tentaron a D en la soledadH410
+- Sal_106:21olvidaron al D de su salvación, queH410
+- Sal_106:29provocaron la ira de D con sus obras
+- Sal_106:47sálvanos, Jehová D...y recógenos deH430
+- Sal_106:48bendito Jehová D de Israel, desde laH430
+- Sal_108:1corazón está dispuesto, oh D; cantaréH430
+- Sal_108:5exaltado seas sobre los cielos, oh DH430
+- Sal_108:7D ha dicho en su santuario...me alegraréH430
+- Sal_108:11¿no serás tú, oh D que nos habíasH430
+- Sal_108:11no salías...D, con nuestros ejércitos?[[H430]]
+- Sal_108:13en D haremos proezas, y él hollaráH430
+- Sal_109:1D de mi alabanza, no calles; porqueH430
+- Sal_109:26ayúdame, Jehová D...sálvame conformeH430
+- Sal_113:5¿quién como...nuestro D, que se sientaH430
+- Sal_114:7tiembla...a la presencia del D de Jacob,[[H433]]
+- Sal_115:2han de decir...¿Dónde está ahora su D?[[H430]]
+- Sal_115:3nuestro D está en los cielos; todo loH430
+- Sal_116:5y justo...misericordioso es nuestro DH430
+- Sal_118:27Jehová es D, y nos ha dado luz; atadH410
+- Sal_118:28mi D eres tú, y te alabaré; D mío, teH410
+- Sal_119:115guardaré los mandamientos de mi DH430
+- Sal_122:9por amor a la casa...D buscaré tu bienH430
+- Sal_123:2nuestros ojos miran a Jehová nuestro DH430
+- Sal_127:2pues que a su amado dará D el sueño
+- Sal_135:2en los atrios de la casa de nuestro DH430
+- Sal_135:5Señor nuestro, mayor que todos los dH430
+- Sal_136:2alabad al D de los d, porque paraH430
+- Sal_136:26alabad al D de los cielos, porque paraH410
+- Sal_138:1delante de los d te cantaré salmosH430
+- Sal_139:17¡cuán Preciosos me son, oh D, tusH410
+- Sal_139:19de cierto, oh D, harás morir al impíoH433
+- Sal_139:23examíname, oh D, y conoce mi corazónH410
+- Sal_140:6dicho a Jehová: D mío eres tú; escuchaH410
+- Sal_143:10enséñame a hacer tu voluntad...mi DH430
+- Sal_144:9oh D, a ti cantaré cántico nuevo; conH430
+- Sal_144:15bienaventurado el pueblo cuyo D esH430
+- Sal_145:1te exaltaré...D, mi Rey, y bendeciré tuH430
+- Sal_146:2cantaré salmos a mi D mientras vivaH430
+- Sal_146:5aquel cuyo ayudador es el D de JacobH410
+- Sal_146:5cuya esperanza está en Jehová su DH430
+- Sal_146:10tu D, oh...de generación en generaciónH430
+- Sal_147:1es bueno cantar salmos a nuestro DH430
+- Sal_147:7alabanza, cantad con arpa a nuestro DH430
+- Sal_147:12alabad a Jehová...alaba a tu D, oh SionH430
+- Sal_149:6exalten a D...sus gargantas, y espadasH410
+- Sal_150:1alabad a D en su santuario; alabadleH410
+- Pro_2:5temor...y hallarás el conocimiento de DH430
+- Pro_2:17abandona...y se olvida del pacto de su DH430
+- Pro_3:4buena opinión ante los ojos de D y de losH430
+- Pro_12:7D trastornará a los impíos, y no serán
+- Pro_25:2gloria de D es encubrir un asunto; peroH430
+- Pro_28:14bienaventurado el hombre que...teme a D
+- Pro_30:5palabra de D es limpia; él es escudo aH433
+- Pro_30:9o...hurte, y blasfeme el nombre de mi DH430
+- Ecc_1:13este...trabajo dio D a los hijos de losH430
+- Ecc_2:24he visto que esto es de la mano de DH430
+- Ecc_2:26hombre que le agrada, D le da sabiduría
+- Ecc_2:26recoger...para darlo al que agrada a DH430
+- Ecc_3:10trabajo que D ha dado a los hijos de losH430
+- Ecc_3:11entender la obra que ha hecho D desdeH430
+- Ecc_3:13es don de D que todo hombre coma y bebaH430
+- Ecc_3:14que todo lo que D hace será perpetuoH430
+- Ecc_3:14lo hace D, para que delante de él temanH430
+- Ecc_3:15lo que ha de ser...D restaura lo que pasóH430
+- Ecc_3:17dije yo...Al justo y al impío juzgará DH430
+- Ecc_3:18para que D los pruebe, y para que veanH430
+- Ecc_5:1cuando fueres a la casa de D, guarda tuH430
+- Ecc_5:2delante de D; porque D está en el cieloH430
+- Ecc_5:4cuando a D haces promesa, no tardes enH430
+- Ecc_5:6¿por qué harás que D se enoje a causa deH430
+- Ecc_5:7las muchas palabras; mas tú, teme a DH430
+- Ecc_5:18todos los días de su vida que D le haH430
+- Ecc_5:19hombre a quien D da riquezas y bienesH430
+- Ecc_5:19y goce de su trabajo, esto es don de DH430
+- Ecc_5:20pues D le llenará de alegría el corazónH430
+- Ecc_6:2del hombre a quien D da riquezas y bienesH430
+- Ecc_6:2pero D no le da facultad de disfrutar deH430
+- Ecc_7:13mira la obra de D; porque ¿quién podráH430
+- Ecc_7:14D hizo tanto lo uno como lo otro, a finH430
+- Ecc_7:18porque aquel Que a D teme, saldrá bienH430
+- Ecc_7:26el que agrada a D escapará de ella; masH430
+- Ecc_7:29que D hizo al hombre recto, pero ellosH430
+- Ecc_8:2guardes...la palabra del juramento de DH430
+- Ecc_8:12sé que les irá bien a los que a D temenH430
+- Ecc_8:13no teme delante de la presencia de DH430
+- Ecc_8:15días...que D le concede debajo del solH430
+- Ecc_8:17y he visto todas las obras de D, que elH430
+- Ecc_9:1los justos y los sabios...en la mano de DH430
+- Ecc_9:7porque tus obras ya son agradables a DH430
+- Ecc_11:5así ignoras la obra de D, el cual haceH430
+- Ecc_11:9que sobre todas estas cosas te juzgará DH430
+- Ecc_12:7el espíritu vuelva a D que lo dio, comoH430
+- Ecc_12:13teme a D, y guarda sus mandamientosH430
+- Ecc_12:14porque D traerá toda obra a juicioH430
+- Isa_1:10escuchad la ley de nuestro D, puebloH430
+- Isa_2:3y subamos al...a la casa del D de JacobH430
+- Isa_5:16D Santo será santificado con justiciaH410
+- Isa_7:11pide para ti señal de Jehová tu D...seaH430
+- Isa_7:13¿os es poco...también lo seáis a mi D?[[H430]]
+- Isa_8:10y no será firme...D está con nosotrosH410
+- Isa_8:19si os...¿No consultará el pueblo a su D?[[H430]]
+- Isa_8:21enojarán y maldecirán a su rey y a...DH430
+- Isa_9:6se llamará su...D fuerte, Padre eternoH410
+- Isa_10:21el remanente de...volverá al D fuerteH410
+- Isa_12:2D es salvación mía; me aseguraré y noH410
+- Isa_13:19Sodoma y Gomorra...que trastornó DH430
+- Isa_14:13en lo alto, junto a las estrellas de DH410
+- Isa_17:6quedarán en él...dice Jehová D de IsraelH430
+- Isa_17:10te olvidaste del D de tu salvación, yH430
+- Isa_17:13pero D los reprenderá, y huirán lejosH430
+- Isa_21:9todos los ídolos de sus d quebrantó enH430
+- Isa_21:10os he dicho lo que oí de...D de IsraelH430
+- Isa_21:17porque Jehová D de Israel lo ha dichoH430
+- Isa_24:15orillas del mar...sea nombrado Jehová DH430
+- Isa_25:1tú eres mi D; te exaltaré, alabaré tuH430
+- Isa_25:9éste es nuestro D, le hemos esperadoH430
+- Isa_26:1salvación puso D por muros y antemuro
+- Isa_26:13Jehová D nuestro, otros señores fueraH430
+- Isa_28:26su D le Instruye, y le enseña lo rectoH430
+- Isa_29:23santificarán...temerán al D de IsraelH430
+- Isa_30:18es D justo; bienaventurados todos losH430
+- Isa_31:3y los egipcios hombres son, y no DH410
+- Isa_35:2ellos verán...la hermosura del D nuestroH430
+- Isa_35:4que vuestro D viene con...D mismo vendráH430
+- Isa_36:7me decís: En Jehová nuestro D confiamosH430
+- Isa_36:18¿acaso libraron los d de las nacionesH430
+- Isa_36:19¿dónde está el d de Hamat y de Arfad?[[H430]]
+- Isa_36:19Arfad? ¿Dónde está el d de Sefarvaim?[[H430]]
+- Isa_36:20¿qué d hay entre los d de estas tierrasH430
+- Isa_37:4quizá oirá Jehová tu D las palabras delH430
+- Isa_37:4blasfemar al D vivo, y para vituperarH430
+- Isa_37:4con las palabras que oyó Jehová tu DH430
+- Isa_37:10no te engañe tu D en quien tú confíasH430
+- Isa_37:12¿acaso libraron sus d a las nacionesH430
+- Isa_37:16Jehová...D de Israel...sólo tú eres D deH430
+- Isa_37:17ha enviado a blasfemar al D vivienteH430
+- Isa_37:19y entregaron los d de ellos al fuegoH430
+- Isa_37:19porque no eran d, sino obra de manosH430
+- Isa_37:20Jehová D nuestro, líbranos de su manoH430
+- Isa_37:21ha dicho Jehová D de Israel: Acerca deH430
+- Isa_37:38adoraba en el templo de Nisroc su dH430
+- Isa_38:5Jehová D de David tu padre dice así: HeH430
+- Isa_40:1consolaos, pueblo mío, dice vuestro DH430
+- Isa_40:3enderezad calzada...soledad a nuestro DH430
+- Isa_40:8mas la palabra del D nuestro permaneceH430
+- Isa_40:9a las ciudades...¡Ved aquí al D vuestro![[H430]]
+- Isa_40:18¿a qué, pues, haréis semejante a D, oH410
+- Isa_40:27mi camino está escondido de Jehová...DH430
+- Isa_40:28no has oído que el D eterno es JehováH430
+- Isa_41:10porque yo soy tu D que te esfuerzoH430
+- Isa_41:13yo Jehová soy tu D, quien te sostieneH430
+- Isa_41:17yo Jehová los oiré, yo el D de IsraelH430
+- Isa_41:23para que sepamos que vosotros sois dH430
+- Isa_42:5dice Jehová D, Creador de los cielosH410
+- Isa_42:17dicen a las...Vosotros sois nuestros dH430
+- Isa_43:3yo Jehová, D tuyo...soy tu Salvador; aH430
+- Isa_43:10antes de mí no fue formado d, ni loH410
+- Isa_43:12oír, y no hubo entre vosotros d ajenoH410
+- Isa_43:12mis testigos, dice Jehová, que yo soy DH410
+- Isa_44:6soy el postrero, y fuera de mi no hay DH430
+- Isa_44:8no hay D sino yo. No hay Fuerte; noH433
+- Isa_44:10¿quién formó un d, o quién fundió unaH410
+- Isa_44:15hace además un d, y lo adora; fabricaH410
+- Isa_44:17hace del sobrante un d, un ídolo suyoH410
+- Isa_44:17adora, y le ruega diciendo...mi d eresH410
+- Isa_45:3sepas que yo soy Jehová, el D de IsraelH430
+- Isa_45:5yo soy Jehová, y...no hay D fuera de míH430
+- Isa_45:14en ti está D, y no hay otro fuera de DH410
+- Isa_45:15tú eres D que te encubres, D de IsraelH410, [[H430]]
+- Isa_45:18él es D, el que formó la tierra, el queH430
+- Isa_45:20y los que ruegan a un d que no salvaH410
+- Isa_45:21no...más D que yo; D justo y SalvadorH430
+- Isa_45:22mirad a mi, y...yo soy D, y no hay másH410
+- Isa_46:6alquilan un platero para hacer un d deH410
+- Isa_46:9yo soy D, y no hay otro D, y nada hayH410, [[H430]]
+- Isa_48:1hacen memoria del D de Israel, mas noH430
+- Isa_48:2y en el D de Israel confían; su nombreH430
+- Isa_48:17yo soy Jehová D tuyo, que te enseñaH430
+- Isa_49:4mi causa está...mi recompensa con mi DH430
+- Isa_49:5estimado seré...el D mío será mi fuerzaH430
+- Isa_50:10confío en el nombre...apóyese en su DH430
+- Isa_51:15soy tu D, cuyo nombre es Jehová de losH430
+- Isa_51:20llenos de la indignación...del D tuyoH430
+- Isa_51:22dijo...D, el cual aboga por su puebloH430
+- Isa_52:7pies...del que dice a Sion: ¡Tu D reina![[H430]]
+- Isa_52:10los...verán la salvación del D nuestroH430
+- Isa_52:12iréis...y os congregará el D de IsraelH430
+- Isa_53:4le tuvimos por azotado, por herido de DH430
+- Isa_54:5el Santo de Israel; D de toda la tierraH430
+- Isa_54:6a la esposa...repudiada, dijo el D tuyoH430
+- Isa_55:5por causa de Jehová tu D, y del SantoH430
+- Isa_55:7y al D nuestro, el cual será amplio enH430
+- Isa_57:2sus lechos...los que andan delante de D
+- Isa_57:21no hay paz, dijo mi D, para los impíosH430
+- Isa_58:2y que no hubiese dejado la ley de su DH430
+- Isa_58:2como gente que...quieren acercarse a DH430
+- Isa_59:2división entre vosotros y vuestro D, yH430
+- Isa_59:13y el apartarse de en pos de nuestro DH430
+- Isa_60:9al nombre de Jehová tu D, y al Santo deH430
+- Isa_60:19será por luz...el D tuyo por tu gloriaH430
+- Isa_61:2y el día de venganza del D nuestro; aH430
+- Isa_61:6ministros de nuestro D seréis llamadosH430
+- Isa_61:10mi alma se alegrará en mi D; porque meH430
+- Isa_62:3y serás corona...en la mano del D tuyoH430
+- Isa_62:5la esposa, así se gozará...contigo el DH430
+- Isa_64:4nunca...ni ojo ha visto a D fuera de tiH430
+- Isa_65:16en el D de verdad se bendecirá; y elH430
+- Isa_65:16la tierra, por el D de verdad juraráH430
+- Isa_66:9yo...¿impediré el nacimiento? dice tu DH430
+- Jer_1:16dejaron, e incensaron a d extrañosH430
+- Jer_2:11cambiado sus d, aunque ellos no son d?[[H430]]
+- Jer_2:17¿no te...el haber dejado a Jehová tu DH430
+- Jer_2:19amargo...haber dejado tú a Jehová tu DH430
+- Jer_2:28dónde están tus d que hiciste para ti?[[H430]]
+- Jer_2:28según el número...oh Judá, fueron tus dH430
+- Jer_3:13contra Jehová tu D has prevaricado, yH430
+- Jer_3:21porque...de Jehová su D se han olvidadoH430
+- Jer_3:22a ti, porque tú eres Jehová nuestro DH430
+- Jer_3:23en Jehová nuestro D está la salvaciónH430
+- Jer_3:25porque pecamos contra Jehová nuestro DH430
+- Jer_3:25no hemos escuchado la voz de Jehová...DH430
+- Jer_4:10¡ay, ay, Jehová D!...has engañado a esteH3069
+- Jer_5:4,5el camino de Jehová, el juicio de su DH430
+- Jer_5:7me dejaron, y juraron por lo que no es DH430
+- Jer_5:14así ha dicho Jehová D de los ejércitosH430
+- Jer_5:19¿por qué Jehová el D nuestro hizo conH430
+- Jer_5:19y servisteis a d ajenos en...tierra, asíH430
+- Jer_5:24no dijeron en...Temamos ahora a Jehová DH430
+- Jer_7:3así ha dicho Jehová...D de Israel: MejoradH430
+- Jer_7:6ni anduviereis en pos de d ajenos paraH430
+- Jer_7:9incensando a...y andando tras d extrañosH430
+- Jer_7:18tortas a la reina...ofrendas a D ajenosH430
+- Jer_7:21así ha dicho Jehová...D de Israel: AñadidH430
+- Jer_7:23y seré a vosotros por D, y vosotros meH430
+- Jer_7:28que no escuchó la voz de Jehová su D, niH430
+- Jer_8:14nuestro D nos ha destinado a perecerH430
+- Jer_9:15ha dicho D...yo les daré a comer ajenjoH430
+- Jer_10:10Jehová es el D...es D vivo y Rey eternoH430
+- Jer_10:11los d que no hicieron los cielos y laH426
+- Jer_11:3así dijo Jehová D de Israel: Maldito elH430
+- Jer_11:4me seréis...y yo seré a vosotros por DH430
+- Jer_11:10se fueron tras d ajenos para servirlesH430
+- Jer_11:12y clamarán a los d a quienes...inciensoH430
+- Jer_11:13según el...de tus ciudades fueron tus dH430
+- Jer_12:4porque dijeron: No verá D nuestro fin
+- Jer_13:10va en pos de d ajenos para servirlesH430
+- Jer_13:12así ha dicho Jehová, D...Toda tinaja seH430
+- Jer_13:16dad gloria a Jehová D vuestro, antesH430
+- Jer_14:22¿no eres tú, Jehová, nuestro D? En tiH430
+- Jer_15:16se invocó sobre mí, oh Jehová D de losH430
+- Jer_16:9dicho Jehová...D de Israel...yo haré cesarH430
+- Jer_16:10hemos cometido contra...nuestro D?[[H430]]
+- Jer_16:11padres...anduvieron en pos de d ajenosH430
+- Jer_16:13allí serviréis a d ajenos de día y deH430
+- Jer_16:20¿hará...d para sí? Mas ellos no son dH430
+- Jer_19:3dice...D...yo traigo mal sobre este lugarH430
+- Jer_19:4y ofrecieron en el incienso a d ajenosH430
+- Jer_19:13y vertieron libaciones a d ajenosH430
+- Jer_19:15ha dicho...D...traigo sobre esta ciudadH430
+- Jer_21:4dicho Jehová D...vuelvo atrás las armasH430
+- Jer_22:9porque dejaron el pacto de Jehová su DH430
+- Jer_22:9y adoraron d ajenos y les sirvieronH430
+- Jer_23:2ha dicho...D de Israel a los pastores queH430
+- Jer_23:23yo D de cerca...y no D desde muy lejos?[[H430]]
+- Jer_23:36las palabras del D viviente...D nuestroH430
+- Jer_24:5ha dicho Jehová D...Como a estos higosH430
+- Jer_24:7me serán por pueblo, y yo les seré...DH430
+- Jer_25:6y no vayáis en pos de d...sirviéndolesH430
+- Jer_25:15dijo Jehová D...Toma de mi mano la copaH430
+- Jer_25:27así ha dicho Jehová...D de Israel: BebedH430
+- Jer_26:13oíd la voz de Jehová vuestro D, y seH430
+- Jer_26:16en nombre de Jehová...D nos ha habladoH430
+- Jer_27:4así ha dicho...D...Así habéis de decir aH430
+- Jer_27:21ha dicho Jehová...D...de los utensiliosH430
+- Jer_28:2habló...D...Quebranté el yugo del rey deH430
+- Jer_28:14dicho Jehová...D...Yugo de hierro puseH430
+- Jer_29:4dicho...D de Israel, a todos los de laH430
+- Jer_29:8así ha dicho Jehová...D...No os engañenH430
+- Jer_29:21ha dicho Jehová...D acerca de Acab hijoH430
+- Jer_29:25así habló...D...Tú enviaste cartas en tuH430
+- Jer_30:2habló Jehová D...Escríbete en un libroH430
+- Jer_30:9servirán a Jehová su D y a David su reyH430
+- Jer_30:22me seréis por pueblo, y yo...vuestro DH430
+- Jer_31:1yo seré por D a todas las familias deH430
+- Jer_31:6y subamos a Sion, a Jehová nuestro DH430
+- Jer_31:18seré convertido, porque tú eres...mi DH430
+- Jer_31:23dicho Jehová...D de Israel: Aún diránH430
+- Jer_31:33seré a ellos por D, y ellos me seránH430
+- Jer_32:14ha dicho Jehová...D...Toma estas cartasH430
+- Jer_32:15ha dicho Jehová...D...Aún se compraránH430
+- Jer_32:18D grande, poderoso, Jehová...su nombreH410
+- Jer_32:27yo soy Jehová, D de toda carne; ¿habráH430
+- Jer_32:29derramaron libaciones a d ajenos, paraH430
+- Jer_32:36dice Jehová D de Israel a esta ciudadH430
+- Jer_32:38me serán por pueblo, y yo seré...por DH430
+- Jer_33:4dicho Jehová D...acerca de las casas deH430
+- Jer_34:2dicho Jehová D de Israel: Vé y habla aH430
+- Jer_34:13dice...D de Israel: Yo hice pacto conH430
+- Jer_35:4de Hanán hijo de Igdalías, varón de DH430
+- Jer_35:13ha dicho Jehová...D de Israel: Vé y díH430
+- Jer_35:15no vayáis tras d ajenos para servirlesH430
+- Jer_35:17ha dicho Jehová D de los...D de IsraelH430
+- Jer_35:18así ha dicho...D de Israel: Por cuantoH430
+- Jer_35:19ha dicho...D...No faltará de Jonadab hijoH430
+- Jer_37:3ruega...por nosotros a Jehová nuestro DH430
+- Jer_37:7ha dicho Jehová D...Diréis así al rey deH430
+- Jer_38:17dicho...D de los ejércitos, D de IsraelH430
+- Jer_39:16a Ebed-melec...así ha dicho...D de IsraelH430
+- Jer_40:2Jehová tu D habló este mal contra esteH430
+- Jer_42:2y ruega por nosotros a Jehová tu D porH430
+- Jer_42:3que Jehová tu D nos enseñe el camino porH430
+- Jer_42:4que voy a orar a Jehová vuestro D, comoH430
+- Jer_42:5todo aquello para lo cual Jehová tu DH430
+- Jer_42:6(2)a la voz de Jehová nuestro DH430
+- Jer_42:9ha dicho Jehová D de Israel, al cual meH430
+- Jer_42:13no obedeciendo a la voz de Jehová...DH430
+- Jer_42:15así ha dicho...D...Si vosotros volviereisH430
+- Jer_42:18ha dicho...D...Como se derramó mi enojoH430
+- Jer_42:20enviasteis a Jehová vuestro D...Ora porH430
+- Jer_42:21y no habéis obedecido a la voz de...DH430
+- Jer_43:1las palabras de Jehová D...D de ellosH430
+- Jer_43:2no te ha enviado Jehová nuestro D paraH430
+- Jer_43:10así ha dicho...D...yo enviaré y tomaré aH430
+- Jer_43:12pondrá fuego a los templos de los dH430
+- Jer_43:13los templos de los d de Egipto quemaráH430
+- Jer_44:2dicho...D...habéis visto todo el mal queH430
+- Jer_44:3a ofrecer incienso, honrando a d ajenosH430
+- Jer_44:5dejar de ofrecer incienso a d ajenosH430
+- Jer_44:7ha dicho...D de Israel: ¿Por qué hacéisH430
+- Jer_44:8ofreciendo incienso a d ajenos en laH430
+- Jer_44:11ha dicho...D...yo vuelvo mi rostro contraH430
+- Jer_44:15habían ofrecido Incienso a d ajenosH430
+- Jer_44:25ha hablado Jehová de los...D de IsraelH430
+- Jer_45:2así ha dicho Jehová D...a ti, oh BarucH430
+- Jer_46:10día será para Jehová D. retribuciónH3069
+- Jer_46:10sacrificio será para Jehová D de losH3069
+- Jer_46:25D...ha dicho...que yo castigo a Amón dH430
+- Jer_46:25a Egipto, a sus d y a sus reyes: asíH430
+- Jer_48:1acerca de Moab. Así ha dicho Jehová...DH430
+- Jer_48:35exterminaré...quien ofrezca...a sus dH430
+- Jer_50:4y llorando, y buscarán a Jehová su DH430
+- Jer_50:18ha dicho Jehová...D...Yo castigo al reyH430
+- Jer_50:25es obra de Jehová, D de los ejércitosH3069
+- Jer_50:28las nuevas de la retribución de...D, deH430
+- Jer_50:40como en la destrucción que D hizo deH430
+- Jer_51:5Israel y Judá no han enviudado de su DH430
+- Jer_51:10contemos...la obra de Jehová nuestro DH430
+- Jer_51:33ha dicho...D...La hija de Babilonia esH430
+- Jer_51:56Jehová, D de retribuciones, dará laH410
+- Lam_3:28siente solo...es D quien se lo impuso
+- Lam_3:41levantemos nuestros corazones...a D enH410
+- Eze_1:1cielos se abrieron, y vi visiones de DH430
+- Eze_8:3y me llevó en visiones de D a JerusalénH430
+- Eze_8:4la gloria del D de Israel, como la visiónH430
+- Eze_9:3y la gloria del D de Israel se elevó deH430
+- Eze_10:5se oía...corno la voz del D OmnipotenteH410
+- Eze_10:19la gloria del D de Israel...sobre ellosH430
+- Eze_10:20vi debajo del D de Israel junto al ríoH430
+- Eze_11:20y me sean por pueblo, y yo sea...por DH430
+- Eze_11:22la gloria del D de Israel estaba sobreH430
+- Eze_11:24a llevar en visión del Espíritu de D aH430
+- Eze_14:11me sean por pueblo, y yo les sea por DH430
+- Eze_20:5juré diciendo: Yo soy Jehová vuestro DH430
+- Eze_20:7ídolos de Egipto...soy Jehová vuestro DH430
+- Eze_20:19yo soy Jehová vuestro D; andad en misH430
+- Eze_20:20que sepáis que yo soy Jehová vuestro DH430
+- Eze_28:2dijiste: Yo soy un d, en el trono de DH410
+- Eze_28:2siendo tú hombre y no D), y has puestoH410
+- Eze_28:6pusiste tu corazón como corazón de DH430
+- Eze_28:9yo soy D? Tú, hombre eres, y no D, en laH430
+- Eze_28:13en el huerto de D estuviste; de todaH430
+- Eze_28:14yo te puse en el santo monte de D, allíH430
+- Eze_28:16por lo que yo te eché del monte de DH430
+- Eze_28:26todos...sabrán que yo soy Jehová su DH430
+- Eze_31:8los...no lo cubrieron en el huerto de DH430
+- Eze_31:8árbol en el huerto de D fue semejante aH430
+- Eze_31:9árboles...que estaban en el huerto de DH430
+- Eze_34:24yo Jehová les seré por D, y mi siervoH430
+- Eze_34:30y sabrán que yo Jehová su D estoy conH430
+- Eze_34:31ovejas...hombres sola, y yo vuestro DH430
+- Eze_36:28por pueblo, y yo seré a vosotros por DH430
+- Eze_37:23serán por pueblo, y yo a ellos por DH430
+- Eze_37:27y seré a ellos por D, y ellos me seránH430
+- Eze_39:22sabrá...Israel que yo soy Jehová su DH430
+- Eze_39:28sabrán que, yo soy Jehová su D, cuandoH430
+- Eze_40:2en visiones de D me llevó a la tierra deH430
+- Eze_43:2la gloria del D de Israel, que venia delH430
+- Eze_44:2porque Jehová D de Israel entró por ellaH430
+- Dan_1:2los utensilios de la casa de D; y losH430
+- Dan_1:2y los trajo...a la casa de su d, y colocóH430
+- Dan_1:2colocó...en la casa del tesoro de su dH430
+- Dan_1:9y puso D a Daniel en gracia y en buenaH430
+- Dan_1:17a estos cuatro...D les dio conocimientoH430
+- Dan_2:11salvo los d cuya morada no es con laH426
+- Dan_2:18pidiesen misericordias del D del cieloH426
+- Dan_2:19por lo cual bendijo Daniel al D del cieloH426
+- Dan_2:20sea bendito el nombre de D de siglos enH426
+- Dan_2:23a ti, oh D de mis padres, te doy graciasH426
+- Dan_2:28hay un D en los cielos, el cual revelaH426
+- Dan_2:37el D del cielo te ha dado reino, poderH426
+- Dan_2:44el D del cielo levantará un reino queH426
+- Dan_2:45el gran D ha mostrado al rey lo que haH426
+- Dan_2:47D vuestro es D de d, y Señor de señoresH426
+- Dan_3:12no adoran tus d, ni adoran la estatuaH426
+- Dan_3:14vosotros no honráis a mi d, ni adoráisH426
+- Dan_3:15d será aquel que os libre de mis manos?[[H426]]
+- Dan_3:17D a quien servimos puede librarnos delH426
+- Dan_3:18no serviremos a tus d, ni...adoraremosH426
+- Dan_3:25aspecto...es semejante a hijo de los dH426
+- Dan_3:26siervos del D Altísimo, salid y venidH426
+- Dan_3:28bendito sea el D de ellos, de SadracH426
+- Dan_3:28antes que servir y...a otro d que su DH426
+- Dan_3:29dijere blasfemia contra el D de SadracH426
+- Dan_3:29cuanto no hay d que pueda librar comoH426
+- Dan_4:2las señales...que el D Altísimo ha hechoH426
+- Dan_4:8Beltsasar, como el nombre de mi d, y enH426
+- Dan_4:8y en quien mora el espíritu de los dH426
+- Dan_4:9que hay en ti espíritu de los d santosH426
+- Dan_4:18mora en ti el espíritu de los d santosH426
+- Dan_5:3del templo de la casa de D...en JerusalénH426
+- Dan_5:4alabaron a los d de oro y de plata, deH426
+- Dan_5:11en el cual mora el espíritu de los dH426
+- Dan_5:11halló en él...sabiduría, como...de los dH426
+- Dan_5:14el espíritu de los d santos está en tiH426
+- Dan_5:18D, oh rey, dio a Nabucodonosor tu padreH426
+- Dan_5:21que...D tiene dominio sobre el reino deH426
+- Dan_5:23diste alabanza a d de plata y oro, deH426
+- Dan_5:23al D en cuya mano está tu vida, y cuyosH426
+- Dan_5:26MENE: Contó D tu reino, y le ha puestoH426
+- Dan_6:5si no la...en relación con la ley de su DH426
+- Dan_6:7petición de cualquier d u hombre fueraH426
+- Dan_6:10daba gracias delante de su D, como loH426
+- Dan_6:11orando y rogando en presencia de su DH426
+- Dan_6:12pida a cualquier d u hombre fuera de tiH426
+- Dan_6:16el D tuyo, a quien...sirves, él te libreH426
+- Dan_6:20Daniel, siervo del D viviente, el D tuyoH426
+- Dan_6:22D envió su ángel, el cual cerró la bocaH426
+- Dan_6:23Daniel...porque había confiado en su DH426
+- Dan_6:26y tiemblen ante la presencia del D deH426
+- Dan_6:26es el D viviente y permanece por...siglosH426
+- Dan_9:3volví mi rostro a D el Señor...en oraciónH430
+- Dan_9:4y oré a Jehová mi D e hice confesiónH430
+- Dan_9:4diciendo...D grande, digno de ser temidoH410
+- Dan_9:9de Jehová...D es el tener misericordia yH430
+- Dan_9:10no obedecimos a la voz de...nuestro DH430
+- Dan_9:11está...en la ley de Moisés siervo de DH430
+- Dan_9:13no hemos implorado el favor de...D, paraH430
+- Dan_9:14justo es Jehová nuestro D en todas susH430
+- Dan_9:15D nuestro, que sacaste tu pueblo de laH430
+- Dan_9:17D nuestro, oye la oración de tu siervoH430
+- Dan_9:18inclina, oh D mío, tu oído, y oye; abreH430
+- Dan_9:19no tardes, por amor de ti mismo, D míoH430
+- Dan_9:20y derramaba mi ruego delante de...mi DH430
+- Dan_9:20mi ruego...por el monte santo de mi DH430
+- Dan_10:12a humillarte en la presencia de tu DH430
+- Dan_11:8y aun a los d de ellos, sus imágenesH430
+- Dan_11:32pueblo que conoce a su D se esforzaráH430
+- Dan_11:36el rey...se engrandecerá sobre todo dH410
+- Dan_11:36el rey...contra el D de los d hablaráH410
+- Dan_11:37del D de sus padres no hará caso, niH430
+- Dan_11:37no hará caso...ni respetará a d algunoH433
+- Dan_11:38honrará...al d de las fortalezas, d queH433
+- Dan_11:39con un d ajeno se hará de...fortalezasH433
+- Ose_1:6le dijo D: Ponte por nombre Lo-ruhama
+- Ose_1:7y los salvaré por Jehová su D; y no losH430
+- Ose_1:9y dijo D: Ponle...nombre Lo-ammi, porque
+- Ose_1:9no sois mi pueblo, ni yo seré vuestro D
+- Ose_1:10será dicho: Soís hijos del D vivienteH410
+- Ose_2:23diré...eres pueblo mío, y él dirá: D míoH430
+- Ose_3:1miran a d ajenos, y aman tortas de pasasH430
+- Ose_3:5volverán...y buscarán a Jehová su D, y aH430
+- Ose_4:1no hay...conocimiento de D en la tierraH430
+- Ose_4:6olvidaste la ley de tu D...yo me olvidaréH430
+- Ose_4:12mi pueblo...dejaron a su D para fornicarH430
+- Ose_5:4no piensan en convertirse a su D, porqueH430
+- Ose_6:6y conocimiento de D más que holocaustosH430
+- Ose_7:10y no se volvieron a Jehová su D, ni loH430
+- Ose_8:2clamará Israel: D mío, te hemos conocidoH430
+- Ose_8:6y artífice lo hizo; no es D; por lo queH430
+- Ose_9:1pues has fornicado apartándote de tu DH430
+- Ose_9:8atalaya es Efraín...con mi D; el profetaH430
+- Ose_9:8el profeta es...odio en la casa de su DH430
+- Ose_9:17mi D los desechará, porque ellos no leH430
+- Ose_11:9D soy, y no hombre, el Santo en medioH410
+- Ose_11:12Judá aún gobierna con D, y es fiel conH430
+- Ose_12:5Jehová es D de los ejércitos; Jehová esH430
+- Ose_12:6tú...vuélvete a tu D...y en tu D confíaH430
+- Ose_12:9yo soy Jehová tu D desde la...de EgiptoH430
+- Ose_12:14Efraín ha provocado a D con amarguras
+- Ose_13:4mas yo soy Jehová tu D desde la tierraH430
+- Ose_13:4no conocerás, pues, otro d fuera de míH430
+- Ose_13:16asolada, porque se rebeló contra su DH430
+- Ose_14:1vuelve...Israel, a Jehová tu D; porqueH430
+- Ose_14:3nunca más diremos...D nuestros; porque enH430
+- Joe_1:13dormid en cilicio, ministros de mi DH430
+- Joe_1:13quitada es de la casa de...D la ofrendaH430
+- Joe_1:14congregad...en la casa de...vuestro D, yH430
+- Joe_1:16y el placer de la casa de nuestro D?[[H430]]
+- Joe_2:13rasgad...convertíos a Jehová vuestro DH430
+- Joe_2:14ofrenda y libación para...vuestro D?[[H430]]
+- Joe_2:17han de decir entre los...Dónde está su D?[[H430]]
+- Joe_2:23hijos de Sion, alegraos y gozaos en...DH430
+- Joe_2:26alabaréis el nombre de Jehová vuestro DH430
+- Joe_2:27que yo soy Jehová vuestro D, y no hayH430
+- Joe_3:17conoceréis que yo soy Jehová vuestro DH430
+- Amó_2:8el vino de...beben en la casa de sus dH430
+- Amó_3:13oíd y testificad contra la...ha dicho...DH430
+- Amó_4:11os trastorné como cuando D trastornó aH430
+- Amó_4:12venir al encuentro de tu D, oh IsraelH430
+- Amó_4:13Jehová D de los ejércitos es su nombreH430
+- Amó_5:14Jehová D de...estará con vosotros, comoH430
+- Amó_5:15D...tendrá piedad del remanente de JoséH430
+- Amó_5:16ha dicho Jehová, D...llamarán a lloro, yH430
+- Amó_5:26estrella de vuestros d que os hicisteisH430
+- Amó_5:27más allá de Damasco, ha dicho Jehová...DH430
+- Amó_6:8D...dicho: Abomino la grandeza de JacobH430
+- Amó_6:14dice...D...levantaré yo sobre vosotros aH430
+- Amó_8:14por tu D, oh Dan, y: Por el camino deH430
+- Amó_9:15los plantaré sobre...ha dicho Jehová DH430
+- Jon_1:5y cada uno clamaba a su d; y echaronH430
+- Jon_1:6dijo...Levántate, y clama a tu D; quizáH430
+- Jon_1:9temo a Jehová, D de los cielos, que hizoH430
+- Jon_2:1oró Jonás a Jehová su D desde el...del pezH430
+- Jon_2:6sacaste mi vida de la sepultura...D míoH430
+- Jon_3:5y los hombres de Nínive creyeron a D, yH430
+- Jon_3:8y clamen a D fuertemente; y conviértaseH430
+- Jon_3:9si se volverá y se arrepentirá D, y seH430
+- Jon_3:10vio D...se arrepintió del mal que habíaH430
+- Jon_4:2porque sabía yo que tú eres D clementeH410
+- Jon_4:6preparó Jehová D una calabacera, la cualH430
+- Jon_4:7D preparó un gusano, el cual hirió laH430
+- Jon_4:8preparó D un recio viento solano, y elH430
+- Jon_4:9dijo D a Jonás: ¿Tanto te enojas por laH430
+- Miq_3:7labios, porque no hay respuesta de DH430
+- Miq_4:2y subamos al...y a la casa del D de JacobH430
+- Miq_4:5anden cada uno en el nombre de su dH430
+- Miq_4:5andaremos en el nombre de...nuestro DH430
+- Miq_5:4con grandeza del nombre de Jehová su DH430
+- Miq_6:6¿con qué me...y adoraré al D Altísimo?[[H430]]
+- Miq_6:8y qué pide Jehová...humillarte ante tu DH430
+- Miq_7:7esperaré al D de mi salvación; el D míoH430
+- Miq_7:10que me decía: ¿Dónde está Jehová tu D?[[H430]]
+- Miq_7:17volverán amedrentados ante Jehová...DH430
+- Miq_7:18¿qué D como tú, que perdona la maldadH410
+- Nah_1:2Jehová es D celoso...guarda enojo paraH410
+- Nah_1:14de la casa de tu d destruirá esculturaH430
+- Hab_1:11ofenderá atribuyendo su fuerza a su dH430
+- Hab_1:12¿no eres tú desde el principio, oh...DH430
+- Hab_3:3D vendrá de Temán, y el Santo desde elH433
+- Hab_3:18y me gozaré en el D de mi salvaciónH430
+- Sof_2:7Jehová su D los visitará, y levantaráH430
+- Sof_2:9dice Jehová...D de Israel, que Moab seráH430
+- Sof_2:11destruirá a todos los d de la tierraH430
+- Sof_3:2no confió en Jehová, no se acercó a su DH430
+- Hag 1:12oyó Zorobabel...la voz de Jehová su DH430
+- Hag 1:12Hageo, como le había enviado Jehová su DH430
+- Hag 1:14trabajaron en la casa de Jehová., su DH430
+- Zac_6:15esto sucederá si oyereis...la voz...DH430
+- Zac_8:8y yo seré a ellos por D en verdad y enH430
+- Zac_8:23porque hemos oído...D está con vosotrosH430
+- Zac_9:7quedará...un remanente para nuestro D, yH430
+- Zac_9:16los salvará en aquel día Jehová su DH430
+- Zac_10:6porque yo soy Jehová su D, y los oiréH430
+- Zac_11:4así ha dicho Jehová mi D: Apacienta lasH430
+- Zac_12:5tienen fuerza...en Jehová de los...su DH430
+- Zac_12:8la casa de David como D, como el ángelH430
+- Zac_13:9pueblo mío; y él dirá: Jehová es mi DH430
+- Zac_14:5vendrá Jehová mi D, y con él...los santosH430
+- Mal_1:9orad por el favor de D, para que tengaH410
+- Mal_2:10padre? ¿No nos ha creado un mismo D?[[H410]]
+- Mal_2:11Judá ha...se casó con hija de d extrañoH410
+- Mal_2:15porque buscaba una descendencia para DH430
+- Mal_2:16D...ha dicho que él aborrece el repudioH430
+- Mal_2:17o si no, ¿dónde está el D de justicia?[[H430]]
+- Mal_3:8¿robará el hombre a D?...me habéis robadoH430
+- Mal_3:14habéis dicho: Por demás es servir a DH430
+- Mal_3:15no...sino que tentaron a D y escaparonH430
+- Mal_3:18el que sirve a D y el que no le sirveH430
+- Mat_1:23que traducido es: D con nosotrosG2316
+- Mat_3:9D puede levantar hijos a Abraham aun deG2316
+- Mat_3:16vio al Espíritu de D que descendía comoG2316
+- Mat_4:3si eres Hijo de D, di que estas piedrasG2316
+- Mat_4:4de toda palabra que sale de la boca de DG2316
+- Mat_4:6si eres Hijo de D, échate abajo; porqueG2316
+- Mat_4:7escrito está...No tentarás al Señor tu DG2316
+- Mat_4:10al Señor tu D adorarás, y a él...servirásG2316
+- Mat_5:8los de limpio corazón...ellos verán a DG2316
+- Mat_5:9porque ellos serán llamados hijos de DG2316
+- Mat_5:34por el cielo, porque es el trono de DG2316
+- Mat_6:24no podéis servir a D y a las riquezasG2316
+- Mat_6:30si la hierba...D la viste así, ¿no haráG2316
+- Mat_6:33mas buscad primeramente el reino de D yG2316
+- Mat_8:29¿qué tienes con nosotros...Hijo de D?[[G2316]]
+- Mat_9:8la gente...glorificó a D, que había dadoG2316
+- Mat_12:4cómo entró en la casa de D, y comió losG2316
+- Mat_12:28si yo por el Espíritu de D echo fueraG2316
+- Mat_12:28ha llegado a vosotros el reino de DG2316
+- Mat_14:33diciendo: Verdaderamente eres Hijo de DG2316
+- Mat_15:3quebrantáis el mandamiento de D porG2316
+- Mat_15:4D mandó diciendo: Honra a tu padre y aG2316
+- Mat_15:5es mi ofrenda a D todo aquello con queG2316
+- Mat_15:6habéis invalidado el mandamiento de DG2316
+- Mat_15:31viendo...y glorificaban al D de IsraelG2316
+- Mat_16:16eres el Cristo, el Hijo del D vivienteG2316
+- Mat_16:23no pones la mira en las cosas de D, sinoG2316
+- Mat_19:6lo que D Juntó, no lo separe el hombreG2316
+- Mat_19:17bueno? Ninguno hay bueno sino uno: DG2316
+- Mat_19:24que entrar un rico en el reino de DG2316
+- Mat_19:26imposible; mas para D todo es posibleG2316
+- Mat_21:12entró Jesús en el templo de D, y echóG2316
+- Mat_21:31van delante de vosotros al reino de DG2316
+- Mat_21:43os digo, que el reino de D será quitadoG2316
+- Mat_22:16que enseñas con verdad el camino de DG2316
+- Mat_22:21les dijo: Dad, pues...a D lo que es de DG2316
+- Mat_22:29dijo: Erráis, ignorando...el poder de DG2316
+- Mat_22:30serán como los ángeles de D en el cieloG2316
+- Mat_22:31¿no habéis leído...os fue dicho por DG2316
+- Mat_22:32D de Abraham, el D de Isaac y el D deG2316
+- Mat_22:32D no es D de muertos, sino de vivosG2316
+- Mat_22:37amarás al Señor tu D con...tu corazónG2316
+- Mat_23:22por el cielo, jura por el trono de DG2316
+- Mat_26:61dijo: Puedo derribar el templo de D, yG2316
+- Mat_26:63te conjuro por el D viviente, que nosG2316
+- Mat_26:63si eres tú el Cristo, el Hijo del DG2316
+- Mat_26:64sentado a la diestra del poder de D
+- Mat_27:40eres Hijo de D, desciende de la cruzG2316
+- Mat_27:43confió en D...ha dicho: Soy hijo de DG2316
+- Mat_27:46D mío, D mío, ¿por qué...desamparado?[[G2316]]
+- Mat_27:54verdaderamente éste era Hijo de DG2316
+- Mar_1:1del evangelio de Jesucristo, Hijo de DG2316
+- Mar_1:14predicando el evangelio del reino de DG2316
+- Mar_1:15diciendo...el reino de D se ha acercadoG2316
+- Mar_1:24diciendo...Sé quién eres, el Santo de DG2316
+- Mar_2:7¿quién puede perdonar pecados, sino...D?[[G2316]]
+- Mar_2:12glorificaron a D, diciendo: Nunca...talG2316
+- Mar_2:26entró en la casa de D, siendo AbiatarG2316
+- Mar_3:11voces, diciendo: Tú eres el Hijo de DG2316
+- Mar_3:35aquel que hace la voluntad de D, ése esG2316
+- Mar_4:11dado saber el misterio del reino de DG2316
+- Mar_4:26es el reino de D, como cuando un hombreG2316
+- Mar_4:30¿a qué haremos semejante el reino de DG2316
+- Mar_5:7¿qué tienes conmigo, Jesús, Hijo del DG2316
+- Mar_5:7te conjuro por D que no me atormentesG2316
+- Mar_7:8dejando el mandamiento de D...tradiciónG2316
+- Mar_7:9bien invalidáis el mandamiento de D paraG2316
+- Mar_7:11Corbán...quiere decir, mi ofrenda a D
+- Mar_7:13invalidando la palabra de D con vuestraG2316
+- Mar_8:33no pones la mira en las cosas de D, sinoG2316
+- Mar_9:1que hayan visto el reino de D...con poderG2316
+- Mar_9:47mejor te es entrar en el reino de D conG2316
+- Mar_10:6al principio...varón y hembra los hizo DG2316
+- Mar_10:9lo que D juntó, no lo separe el hombreG2316
+- Mar_10:14porque de los tales es el reino de DG2316
+- Mar_10:15no reciba el reino de D como un niñoG2316
+- Mar_10:18ninguno hay bueno, sino sólo uno, DG2316
+- Mar_10:23difícilmente entrarán en el reino de DG2316
+- Mar_10:24difícil les es entrar en el reino de DG2316
+- Mar_10:25que entrar un rico en el reino de DG2316
+- Mar_10:27hombres es imposible; mas para D, noG2316
+- Mar_10:27todas las cosas son posibles para DG2316
+- Mar_11:22respondiendo...les dijo: Tened fe en DG2316
+- Mar_12:14que con verdad enseñas el camino de DG2316
+- Mar_12:17dad a César lo...y a D lo que es de DG2316
+- Mar_12:24ignoráis...Escrituras, y el poder de D?[[G2316]]
+- Mar_12:26cómo le habló D en la zarza, diciendoG2316
+- Mar_12:26D de Abraham, el D de Isaac y el D deG2316
+- Mar_12:27D no es D de muertos, sino D de vivosG2316
+- Mar_12:29el Señor nuestro D, el Señor uno esG2316
+- Mar_12:30amarás al Señor tu D con todo...corazónG2316
+- Mar_12:32verdad has dicho, que uno es D, y noG2316
+- Mar_12:34le dijo: No estás lejos del reino de DG2316
+- Mar_13:19de la creación que D creó, hasta esteG2316
+- Mar_14:25en que lo beba nuevo en el reino de DG2316
+- Mar_14:62sentado a la diestra del poder de D
+- Mar_15:29tú que derribas el templo de D, y en
+- Mar_15:34clamó...D mío, D mío, ¿por qué me hasG2316
+- Mar_15:39verdaderamente...hombre era Hijo de DG2316
+- Mar_15:43José...también esperaba el reino de DG2316
+- Mar_16:19el cielo, y se sentó a la diestra de DG2316
+- Luc_1:6eran Justos delante de D, y andabanG2316
+- Luc_1:8ejerciendo...el sacerdocio delante de DG2316
+- Luc_1:15será grande delante de D. No beberá vinoG2962
+- Luc_1:16muchos de los...se conviertan al Señor DG2316
+- Luc_1:19yo soy Gabriel, que estoy delante de DG2316
+- Luc_1:26el ángel Gabriel fue enviado por D a unaG2316
+- Luc_1:30porque has hallado gracia delante de DG2316
+- Luc_1:32D le dará el trono de David su padreG2316
+- Luc_1:35el Santo Ser...será llamado Hijo de DG2316
+- Luc_1:37porque nada hay imposible para DG2316
+- Luc_1:47espíritu se regocija en D mi SalvadorG2316
+- Luc_1:58oyeron...que D había engrandecido paraG2962
+- Luc_1:64fue abierta...y habló bendiciendo a DG2316
+- Luc_1:68bendito el Señor D de Israel, que haG2316
+- Luc_1:78la entrañable misericordia de nuestro DG2316
+- Luc_2:13una multitud...que alababan a D, y decíanG2316
+- Luc_2:14¡gloria a D en las alturas, y en la tierraG2316
+- Luc_2:20y volvieron los pastores...alabando a DG2316
+- Luc_2:28le tomó en sus brazos, y bendijo a DG2316
+- Luc_2:38daba gracias a D, y hablaba del niñoG2962
+- Luc_2:40crecía...y la gracia de D era sobre élG2316
+- Luc_2:52y Jesús crecía...en gracia para con D yG2316
+- Luc_3:2vino palabra de D a Juan...en el desiertoG2316
+- Luc_3:6y verá toda carne la salvación de DG2316
+- Luc_3:8D puede levantar hijos a Abraham aun deG2316
+- Luc_3:38hijo de Set, hijo de Adán, hijo de DG2316
+- Luc_4:3si eres Hijo de D, dí a esta piedra queG2316
+- Luc_4:4no sólo de pan...sino de toda palabra de DG2316
+- Luc_4:8al Señor tu D adorarás, y a él...servirásG2316
+- Luc_4:9si eres Hijo de D, échate de aquí abajoG2316
+- Luc_4:12dicho está: No tentarás al Señor tu DG2316
+- Luc_4:34yo te conozco quien eres, el Santo de DG2316
+- Luc_4:41voces y diciendo: Tú eres el Hijo de DG2316
+- Luc_4:43anuncie el evangelio del reino de DG2316
+- Luc_5:1se agolpaba...para oír la palabra de DG2316
+- Luc_5:21puede perdonar pecados sino sólo D?[[G2316]]
+- Luc_5:25se fue a su casa, glorificando a DG2316
+- Luc_5:26glorificaban a D, y llenos de temorG2316
+- Luc_6:4cómo entró en la casa de D, y tomó losG2316
+- Luc_6:12al monte...y pasó la noche orando a DG2316
+- Luc_6:20los pobres...vuestro es el reino de DG2316
+- Luc_7:16y glorificaban a D, diciendo: Un granG2316
+- Luc_7:16profeta...y: D ha visitado a su puebloG2316
+- Luc_7:28pero el más pequeño en el reino de DG2316
+- Luc_7:29justificaron a D, bautizándose con elG2316
+- Luc_7:30desecharon los designios de D respectoG2316
+- Luc_8:1anunciando el evangelio del reino de DG2316
+- Luc_8:10conocer los misterios del reino de DG2316
+- Luc_8:11parábola: La semilla es la palabra de DG2316
+- Luc_8:21son los que oyen la palabra de D, y laG2316
+- Luc_8:28¿qué tienes conmigo, Jesús, Hijo del DG2316
+- Luc_8:39cuán grandes cosas ha hecho D contigoG2316
+- Luc_9:2los envió a predicar el reino de D, y aG2316
+- Luc_9:11les hablaba del reino de D, y sanaba aG2316
+- Luc_9:20decís que soy?...le dijo: el Cristo de DG2316
+- Luc_9:27la muerte hasta que vean el reino de DG2316
+- Luc_9:43todos se admiraban de la grandeza de DG2316
+- Luc_9:60deja...y tú vé, y anuncia el reino de DG2316
+- Luc_9:62hacia atrás, es apto para el reino de DG2316
+- Luc_10:9se ha acercado a vosotros el reino de DG2316
+- Luc_10:11el reino de D se ha acercado a vosotrosG2316
+- Luc_10:27amarás al Señor tu D con...tu corazónG2316
+- Luc_11:20si por el dedo de D echo...los demoniosG2316
+- Luc_11:20el reino de D ha llegado a vosotrosG2316
+- Luc_11:28bienaventurados...oyen la palabra de DG2316
+- Luc_11:42y pasáis por alto la...y el amor de DG2316
+- Luc_11:49la sabiduría de D...dijo: Les enviaréG2316
+- Luc_12:6ni uno de...está olvidado delante de DG2316
+- Luc_12:8confesará delante de los ángeles de DG2316
+- Luc_12:9será negado delante de los ángeles de DG2316
+- Luc_12:20D le dijo: Necio, esta noche vienen aG2316
+- Luc_12:21hace...tesoro, y no es rico para con DG2316
+- Luc_12:24ni tienen despensa...y D los alimentaG2316
+- Luc_12:28si así viste D la hierba que hoy estáG2316
+- Luc_12:31mas buscad el reino de D, y todas estasG2316
+- Luc_13:13y ella se enderezó...y glorificaba a DG2316
+- Luc_13:18¿a qué es semejante el reino de D, yG2316
+- Luc_13:20decir: ¿A qué compararé el reino de D?[[G2316]]
+- Luc_13:28veáis a Abraham...en el reino de D, yG2316
+- Luc_13:29se sentarán a la mesa en el reino de DG2316
+- Luc_14:15dijo...el que coma pan en el reino de DG2316
+- Luc_15:10hay gozo delante de los ángeles de DG2316
+- Luc_16:13no podéis servir a D y a las riquezasG2316
+- Luc_16:15D conoce vuestros corazones; porque loG2316
+- Luc_16:15sublime, delante de D es abominaciónG2316
+- Luc_16:16el reino de D es anunciado, y todos seG2316
+- Luc_17:15volvió, glorificando a D a gran vozG2316
+- Luc_17:18¿no hubo quien...diese gloria a D sinoG2316
+- Luc_17:20cuándo había de venir el reino de DG2316
+- Luc_17:20el reino de D no vendrá con advertenciaG2316
+- Luc_17:21aquí el reino de D está entre vosotrosG2316
+- Luc_18:2un juez, que ni temía a D, ni respetabaG2316
+- Luc_18:4aunque ni temo a D, ni tengo respeto aG2316
+- Luc_18:7acaso D no hará justicia a sus escogidosG2316
+- Luc_18:11D, te doy gracias porque no soy comoG2316
+- Luc_18:13diciendo: D, sé propicio a mí, pecadorG2316
+- Luc_18:16porque de los tales es el reino de DG2316
+- Luc_18:17no recibe el reino de D como un niñoG2316
+- Luc_18:19dijo...Ninguno hay bueno, sino sólo DG2316
+- Luc_18:24difícilmente entrarán en el reino de DG2316
+- Luc_18:25que entrar un rico en el reino de DG2316
+- Luc_18:27imposible para los...es posible para DG2316
+- Luc_18:29que haya dejado casa...por el reino de DG2316
+- Luc_18:43vio, y le seguía, glorificando a DG2316
+- Luc_18:43todo el pueblo...vio...dio alabanza a DG2316
+- Luc_19:11pensaban...el reino de D se manifestaríaG2316
+- Luc_19:37a alabar a D a grandes voces por todasG2316
+- Luc_20:16oyeron esto, dijeron: ¡D nos libre![[G3361]], [[G1096]]
+- Luc_20:21que enseñas el camino de D con verdadG2316
+- Luc_20:25dad a César lo...y a D lo que es de DG2316
+- Luc_20:36y son hijos de D, al ser hijos de laG2316
+- Luc_20:37D de Abraham, D de Isaac y D de JacobG2316
+- Luc_20:38D no es D de muertos, sino de vivosG2316
+- Luc_21:4echaron para las ofrendas de D de lo queG2316
+- Luc_21:31así sabed que está cerca el reino de DG2316
+- Luc_22:16hasta que se cumpla en el reino de DG2316
+- Luc_22:18la vid, hasta que el reino de D vengaG2316
+- Luc_22:69se sentará a la diestra del poder de DG2316
+- Luc_22:70dijeron...¿Luego eres tú el Hijo de D?[[G2316]]
+- Luc_23:35si éste es el Cristo, el escogido de DG2316
+- Luc_23:40¿ni aun temes tú a D, estando en laG2316
+- Luc_23:47el centurión...dio gloria a D, diciendoG2316
+- Luc_23:51también esperaba el reino de D, y noG2316
+- Luc_24:19poderoso...en palabra delante de D y deG2316
+- Luc_24:53el templo, alabando y bendiciendo a DG2316
+- Jua_1:1el Verbo era con D, y el Verbo era DG2316
+- Jua_1:2éste era en el principio con DG2316
+- Jua_1:6hubo un hombre enviado de D, el cual seG2316
+- Jua_1:12dio potestad de ser hechos hijos de DG2316
+- Jua_1:13no...ni de voluntad de varón, sino de DG2316
+- Jua_1:18a D nadie le vio jamás; el unigénitoG2316
+- Jua_1:29he aquí el Cordero de D, que quita elG2316
+- Jua_1:34testimonio de que éste es el Hijo de DG2316
+- Jua_1:36mirando a Jesús...aquí el Cordero de DG2316
+- Jua_1:49Rabí, tú eres el Hijo de D; tú eres elG2316
+- Jua_1:51los ángeles de D que suben y desciendenG2316
+- Jua_3:2Rabí, sabemos que has venido de D comoG2316
+- Jua_3:2nadie puede hacer...si no está D con élG2316
+- Jua_3:3no naciere...no puede ver el reino de DG2316
+- Jua_3:5digo...no puede entrar en el reino de DG2316
+- Jua_3:16tal manera amó D al mundo, que ha dadoG2316
+- Jua_3:17porque no envió D a su Hijo al mundoG2316
+- Jua_3:18no ha creído en el nombre del...Hijo de DG2316
+- Jua_3:21sea manifiesto que sus obras son...en DG2316
+- Jua_3:33recibe...éste atestigua que D es verazG2316
+- Jua_3:34el que D envió, las palabras de D hablaG2316
+- Jua_3:34pues D no da el Espíritu por medidaG2316
+- Jua_3:36vida, sino que la ira de D está sobre élG2316
+- Jua_4:10si conocieras el don de D, y quién es elG2316
+- Jua_4:24D es Espíritu; y los que le adoran, enG2316
+- Jua_5:18D era su...Padre, haciéndose igual a DG2316
+- Jua_5:25los muertos oirán la voz del Hijo de DG2316
+- Jua_5:42que no tenéis amor de D en vosotrosG2316
+- Jua_5:44no buscáis la gloria que...del D único?[[G2316]]
+- Jua_6:27dará; porque a éste señaló D el PadreG2316
+- Jua_6:28para poner en práctica las obras de D?[[G2316]]
+- Jua_6:29esta es la obra de D, que creáis en elG2316
+- Jua_6:33el pan de D es aquel que descendió delG2316
+- Jua_6:45escrito...Y serán todos enseñados por DG2316
+- Jua_6:46que vino de D; éste ha visto al PadreG2316
+- Jua_6:69eres el Cristo, el Hijo del D vivienteG2316
+- Jua_7:17el que quiera hacer la voluntad de DG846
+- Jua_7:17conocerá si la doctrina es de D, o siG2316
+- Jua_8:40hablado la verdad, la cual he oído de DG2316
+- Jua_8:41le dijeron...un padre tenemos, que es DG2316
+- Jua_8:42si vuestro padre fuese D...me amaríaisG2316
+- Jua_8:42porque yo de D he salido, y he venidoG2316
+- Jua_8:47el que es de D, las palabras de D oyeG2316
+- Jua_8:47no las oís vosotros, porque no sois de DG2316
+- Jua_8:54el que vosotros decís que es vuestro DG2316
+- Jua_9:3que las obras de D se manifiesten en élG2316
+- Jua_9:16ese hombre no procede de D, porque noG2316
+- Jua_9:24da gloria a D; nosotros sabemos que eseG2316
+- Jua_9:29sabemos que D ha hablado a Moisés, peroG2316
+- Jua_9:31y sabemos que D no oye a los pecadoresG2316
+- Jua_9:31si alguno es temeroso de D, y hace suG2318
+- Jua_9:33si...no viniera de D, nada podría hacerG2316
+- Jua_9:35le dijo: ¿Crees tú en el Hijo de D?[[G2316]]
+- Jua_10:33porque tú, siendo hombre, te haces DG2316
+- Jua_10:34¿no está escrito en...Yo dije, d sois?[[G2316]]
+- Jua_10:35si llamó d a aquellos a quienes vinoG2316
+- Jua_10:35vino la palabra de D (y la EscrituraG2316
+- Jua_10:36blasfemas, porque dijo: Hijo de D soy?[[G2316]]
+- Jua_11:4para muerte, sino para la gloria de DG2316
+- Jua_11:4que el Hijo de D sea glorificado porG2316
+- Jua_11:22todo lo que pidas a D, D te lo daráG2316
+- Jua_11:27he creído que tú eres el...Hijo de DG2316
+- Jua_11:40que si crees, verás la gloria de D?[[G2316]]
+- Jua_11:52congregar en uno a los hijos de D queG2316
+- Jua_12:43porque amaban más...que la gloria de DG2316
+- Jua_13:3Jesús...que había salido de D, y a D ibaG2316
+- Jua_13:31glorificado...y D es glorificado en élG2316
+- Jua_13:32si D es glorificado en él, D tambiénG2316
+- Jua_14:1turbe...creéis en D, creed también en míG2316
+- Jua_16:2os mate, pensará que rinde servicio a DG2316
+- Jua_16:27amado, y habéis creído que yo salí de DG2316
+- Jua_16:30por esto creemos que has salido de DG2316
+- Jua_17:3te conozcan a ti, el único D verdaderoG2316
+- Jua_19:7porque se hizo a sí mismo Hijo de DG2316
+- Jua_20:17y diles: Subo a...a mi D y a vuestro DG2316
+- Jua_20:28Tomás respondió...¡Señor mío, y D mío![[G2316]]
+- Jua_20:31que Jesús es el Cristo, el Hijo de DG2316
+- Jua_21:19con qué muerte había de glorificar a DG2316
+- Hch_1:3y hablándoles acerca del reino de DG2316
+- Hch_2:11les oímos hablar...las maravillas de DG2316
+- Hch_2:17dice D, derramaré de mi Espíritu sobreG2316
+- Hch_2:22Jesús nazareno, varón aprobado por DG2316
+- Hch_2:22con las maravillas...señales que D hizoG2316
+- Hch_2:23por el...anticipado conocimiento de DG2316
+- Hch_2:24al cual D levantó, sueltos los doloresG2316
+- Hch_2:30con juramento D le había jurado que deG2316
+- Hch_2:32este Jesús resucitó D, de lo cual todosG2316
+- Hch_2:33así que, exaltado por la diestra de DG2316
+- Hch_2:36este Jesús...D le ha hecho Señor y CristoG2316
+- Hch_2:39para cuantos el Señor nuestro D llamareG2316
+- Hch_2:47alabando a D, y teniendo favor con todoG2316
+- Hch_3:8entró con ellos...saltando, y alabando a DG2316
+- Hch_3:9todo el pueblo le vio andar y alabar a DG2316
+- Hch_3:13D de Abraham...el D de nuestros padresG2316
+- Hch_3:15a quien D ha resucitado de los muertosG2316
+- Hch_3:18D ha cumplido así lo que había antesG2316
+- Hch_3:21de que habló D por boca de sus santosG2316
+- Hch_3:22el Señor vuestro D os levantará profetaG2316
+- Hch_3:25pacto que D hizo con nuestros padresG2316
+- Hch_3:26D, habiendo levantado a su Hijo, loG2316
+- Hch_4:10a quien D resucitó de los muertos, porG2316
+- Hch_4:19si es justo delante de D obedecer aG2316
+- Hch_4:19obedecer a vosotros antes que a DG2316
+- Hch_4:21glorificaban a D por lo que se habíaG2316
+- Hch_4:24alzaron unánimes la voz a D, y dijeronG2316
+- Hch_4:24tú eres el D que hiciste el cielo y laG2316
+- Hch_5:4no has mentido a los hombres, sino a DG2316
+- Hch_5:29obedecer a D antes que a los hombresG2316
+- Hch_5:30el D de nuestros padres levantó a JesúsG2316
+- Hch_5:31a éste, D ha exaltado con su diestra porG2316
+- Hch_5:32el cual ha dado D a los que le obedecenG2316
+- Hch_5:39mas si es de D, no la podréis destruirG2316
+- Hch_5:39seáis tal vez hallados luchando contra DG2314
+- Hch_6:2no es justo que...dejemos la palabra de DG2316
+- Hch_6:11hablar palabras blasfemas...y contra DG2316
+- Hch_7:2D de la gloria apareció a nuestro padreG2316
+- Hch_7:4D le trasladó a esta tierra, en la cual
+- Hch_7:6le dijo D así: Que su descendencia seríaG2316
+- Hch_7:7juzgaré, dijo D, a la nación de la cualG2316
+- Hch_7:9vendieron a José...pero D estaba con élG2316
+- Hch_7:17promesa, que D había jurado a AbrahamG2316
+- Hch_7:20nació Moisés, y fue agradable a D; y
+- Hch_7:25que D les daría libertad por mano suyaG2316
+- Hch_7:32soy el D de tus padres, el D de AbrahamG2316
+- Hch_7:32yo soy...el D de Isaac, y el D de JacobG2316
+- Hch_7:35envió D como gobernante y libertadorG2316
+- Hch_7:37profeta os levantará el Señor vuestro DG2316
+- Hch_7:40a Aarón: Haznos d que vayan delante deG2316
+- Hch_7:42y D se apartó, y los entregó a queG2316
+- Hch_7:43la estrella de vuestro d Renfán, figurasG2316
+- Hch_7:44había ordenado D cuando dijo a Moisés
+- Hch_7:45a los cuales D arrojó de la presenciaG2316
+- Hch_7:46gracia delante de D, y pidió proveerG2316
+- Hch_7:46proveer tabernáculo para el D de JacobG2316
+- Hch_7:55la gloria de D, y a Jesús...diestra de DG2316
+- Hch_7:56al Hijo del Hombre...a la diestra de DG2316
+- Hch_8:10diciendo: Este es el gran poder de DG2316
+- Hch_8:12anunciaba el evangelio del reino de DG2316
+- Hch_8:14Samaria había recibido la palabra de DG2316
+- Hch_8:20has pensado que el don de D se obtieneG2316
+- Hch_8:21tu corazón no es recto delante de DG2316
+- Hch_8:22ruega a D, si quizá te sea perdonadoG2316
+- Hch_8:25hablado la palabra de D, se volvieronG2962
+- Hch_8:37creo que Jesucristo es el Hijo de DG2316
+- Hch_9:20diciendo que éste era el Hijo de DG2316
+- Hch_10:2temeroso de D con toda su casa, y queG2316
+- Hch_10:2hacía muchas limosnas al...y oraba a DG2316
+- Hch_10:3un ángel de D entraba donde él estabaG2316
+- Hch_10:4han subido para memoria delante de DG2316
+- Hch_10:15que D limpió, no lo llames tú comúnG2316
+- Hch_10:22Cornelio...varón justo y temeroso de DG2316
+- Hch_10:28me ha mostrado D que a ningún hombreG2316
+- Hch_10:31tus limosnas...recordadas delante de DG2316
+- Hch_10:33estamos aquí en la presencia de D, paraG2316
+- Hch_10:33para oír todo lo que D te ha mandadoG2316
+- Hch_10:34que D no hace acepción de personasG2316
+- Hch_10:36D envió mensaje a los hijos de Israel
+- Hch_10:38cómo D ungió con el Espíritu Santo yG2316
+- Hch_10:38sanando a todos...porque D estaba con élG2316
+- Hch_10:40éste levantó D al tercer día, e hizoG2316
+- Hch_10:41a los testigos que D había ordenado deG2316
+- Hch_10:42él es el que D ha puesto por Juez deG2316
+- Hch_10:46oían que hablaban...que magnificaban aG2316
+- Hch_11:1gentiles habían recibido la palabra de DG2316
+- Hch_11:9lo que D limpió, no lo llames tú comúnG2316
+- Hch_11:17D...les concedió también el mismo donG2316
+- Hch_11:17¿quién era yo...pudiese estorbar a D?[[G2316]]
+- Hch_11:18entonces...glorificaron a D, diciendoG2316
+- Hch_11:18ha dado D arrepentimiento para vida![[G2316]]
+- Hch_11:23y vio la gracia de D, se regocijó, yG2316
+- Hch_12:5iglesia hacía sin cesar oración a D porG2316
+- Hch_12:22gritando: ¡Voz de D, y no de hombre![[G2316]]
+- Hch_12:23lo hirió, por cuanto no dio gloria a DG2316
+- Hch_13:5y llegados...anunciaban la palabra de DG2316
+- Hch_13:7procónsul...deseaba oír la palabra de DG2316
+- Hch_13:16israelitas, y los que teméis a D, oídG2316
+- Hch_13:17el D de este pueblo de Israel escogióG2316
+- Hch_13:21pidieron rey, y D les dio a Saúl hijoG2316
+- Hch_13:23D levantó a Jesús...Salvador a IsraelG2316
+- Hch_13:26y los que...teméis a D, a vosotros esG2316
+- Hch_13:30mas D le levantó de los muertosG2316
+- Hch_13:33la cual D ha cumplido a los hijos deG2316
+- Hch_13:36servido a su...según la voluntad de DG2316
+- Hch_13:37a quien D levantó, no vio corrupciónG2316
+- Hch_13:43a que perseverasen en la gracia de DG2316
+- Hch_13:44juntó casi...para oír la palabra de DG2316
+- Hch_13:46se os hablase primero la palabra de DG2316
+- Hch_14:11d bajo la semejanza de hombres hanG2316
+- Hch_14:15os convirtáis al D vivo, que hizo elG2316
+- Hch_14:22través de...entremos en el reino de DG2316
+- Hch_14:26encomendados a la gracia de D para laG2316
+- Hch_14:27grandes cosas había hecho D con ellosG2316
+- Hch_15:4y refirieron...cosas que D había hechoG2316
+- Hch_15:7D escogió que los gentiles oyesen porG2316
+- Hch_15:8y D...les dio testimonio, dándoles elG2316
+- Hch_15:10¿por qué tentáis a D, poniendo sobreG2316
+- Hch_15:12señales...había hecho D por medio deG2316
+- Hch_15:14cómo D visitó por primera vez a losG2316
+- Hch_15:19a los gentiles que se convierten a DG2316
+- Hch_16:10por cierto que D nos llamaba para queG2962
+- Hch_16:14mujer llamada Lidia...que adoraba a DG2316
+- Hch_16:17hombres son siervos del D AltísimoG2316
+- Hch_16:25cantaban himmos a D; y los presos losG2316
+- Hch_16:34se regocijó con...de haber creído a DG2316
+- Hch_17:13anunciada la palabra de D por PabloG2316
+- Hch_17:18parece que es predicador de nuevos dG1140
+- Hch_17:23esta inscripción: Al D no conocidoG2316
+- Hch_17:24el D que hizo el mundo y...las cosasG2316
+- Hch_17:27que busquen a D, si en alguna maneraG2962
+- Hch_17:29siendo, pues, linaje de D, no debemosG2316
+- Hch_17:30pero D, habiendo pasado por alto losG2316
+- Hch_18:7casa de uno llamado Justo, temeroso de DG2316
+- Hch_18:11detuvo...enseñándoles la palabra de DG2316
+- Hch_18:13persuade...a honrar a D contra la leyG2316
+- Hch_18:21pero...volveré a vosotros, si D quiereG2316
+- Hch_18:26y le expusieron más...el camino de DG2316
+- Hch_19:8discutiendo y...acerca del reino de DG2316
+- Hch_19:11y hacía D milagros...por mano de PabloG2316
+- Hch_19:26que no son d los que se hacen con lasG2316
+- Hch_20:21acerca del arrepentimiento para con DG2316
+- Hch_20:24dar testimonio del...de la gracia de DG2316
+- Hch_20:25he pasado predicando el reino de DG2316
+- Hch_20:27no he rehuido anunciaros...consejo de DG2316
+- Hch_20:32os encomiendo a D, y a la palabra deG2316
+- Hch_21:19las cosas que D había hecho entre losG2316
+- Hch_21:20glorificaron a D, y le dijeron: Ya vesG2962
+- Hch_22:3celoso de D, como hoy lo sois todosG2316
+- Hch_22:14D de nuestros padres te ha escogidoG2316
+- Hch_23:1he vivido delante de D hasta el día deG2316
+- Hch_23:3¡D te golpeará a ti, pared blanqueada![[G2316]]
+- Hch_23:4¿al sumo sacerdote de D injurias?[[G2316]]
+- Hch_23:9si un...le ha hablado...no resistamos a DG2313
+- Hch_24:14así sirvo al D de mis padres, creyendoG2316
+- Hch_24:15teniendo esperanza en D, la cual ellosG2316
+- Hch_24:16conciencia sin ofensa ante D y ante losG2316
+- Hch_26:6la promesa que hizo D a nuestros padresG2316
+- Hch_26:7tribus, sirviendo...a D de día y de noche
+- Hch_26:8increíble que D resucite a los muertos?[[G2316]]
+- Hch_26:18y de la potestad de Satanás a D; paraG2316
+- Hch_26:20y se convirtiesen a D, haciendo obrasG2316
+- Hch_26:22pero habiendo obtenido auxilio de DG2316
+- Hch_26:29¡quisiera D que por poco o por muchoG2316
+- Hch_27:23estado conmigo el ángel del D de quienG2316
+- Hch_27:24D te ha concedido todos los que naveganG2316
+- Hch_27:25yo confío en D que será así como se meG2316
+- Hch_27:35dio gracias a D en presencia de todosG2316
+- Hch_28:6cambiaron de...y dijeron que era un dG2316
+- Hch_28:15Pablo dio gracias a D y cobró alientoG2316
+- Hch_28:23les testificaba el reino de D desdeG2316
+- Hch_28:28enviada esta salvación de D; y ellosG2316
+- Hch_28:31predicando el reino de D y enseñandoG2316
+- Rom_1:1Pablo...apartado para el evangelio de DG2316
+- Rom_1:4que fue declarado Hijo de D con poderG2316
+- Rom_1:7todos los que estáis en Roma, amados de DG2316
+- Rom_1:7gracia y paz...de D nuestro Padre y delG2316
+- Rom_1:8doy gracias a mi D mediante JesucristoG2316
+- Rom_1:9porque testigo me es D, a quien sirvo enG2316
+- Rom_1:10por la voluntad de D, un próspero viajeG2316
+- Rom_1:16porque es poder de D para salvación aG2316
+- Rom_1:17la justicia de D se revela por fe y paraG2316
+- Rom_1:18la ira de D se revela desde el cieloG2316
+- Rom_1:19lo que de D se conoce les es manifiestoG2316
+- Rom_1:19es manifiesto, pues D se lo manifestóG2316
+- Rom_1:21a D, no le glorificaron como a D, ni leG2316
+- Rom_1:23cambiaron la gloria del D incorruptibleG2316
+- Rom_1:24también D los entregó a la inmundiciaG2316
+- Rom_1:25cambiaron la verdad de D por la mentiraG2316
+- Rom_1:26D los entregó a pasiones vergonzosasG2316
+- Rom_1:28ellos no aprobaron tener en cuenta a DG2316
+- Rom_1:28D los entregó a una mente reprobadaG2316
+- Rom_1:30aborrecedores de D...soberbios, altivosG2319
+- Rom_1:32habiendo entendido el juicio de D, queG2316
+- Rom_2:2el juicio de D contra los que practicanG2316
+- Rom_2:3piensas...tú escaparás del juicio de D?[[G2316]]
+- Rom_2:5de la revelación del justo juicio de DG2316
+- Rom_2:11no hay acepción de personas para con DG2316
+- Rom_2:13no son los oidores...los justos ante DG2316
+- Rom_2:16el día en que D juzgará por JesucristoG2316
+- Rom_2:17te apoyas en la ley, y te glorías en DG2316
+- Rom_2:23con infracción de la ley deshonras a D?[[G2316]]
+- Rom_2:24el nombre de D es blasfemado entre losG2316
+- Rom_2:29cual no viene de los hombres, sino de DG2316
+- Rom_3:2que les ha sido confiada la palabra de DG2316
+- Rom_3:3su...habrá hecho nula la fidelidad de D?[[G2316]]
+- Rom_3:4bien sea D veraz, y todo hombre mentirosoG2316
+- Rom_3:5si...hace resaltar la justicia de D, ¿quéG2316
+- Rom_3:5¿será injusto D que da castigo? (HabloG2316
+- Rom_3:6otro modo, ¿cómo juzgaría D al mundo?[[G2316]]
+- Rom_3:7si por mi mentira la verdad de D abundóG2316
+- Rom_3:11quien entienda, no hay quien busque a DG2316
+- Rom_3:18no hay temor de D delante de sus ojosG2316
+- Rom_3:19todo el mundo quede bajo el juicio de DG2316
+- Rom_3:21ley, se ha manifestado la justicia de DG2316
+- Rom_3:22la justicia de D por medio de la fe enG2316
+- Rom_3:23y están destituidos de la gloria de DG2316
+- Rom_3:25a quien D puso como propiciación porG2316
+- Rom_3:29¿es D solamente D de los judíos? ¿No esG2316
+- Rom_3:29¿no es también D de los gentiles?[[G2316]]
+- Rom_3:30D es uno, y él justificará por la fe aG2316
+- Rom_4:2tiene de qué gloriarse, pero no...con DG2316
+- Rom_4:3creyó Abraham a D, y le fue contado porG2316
+- Rom_4:6del hombre a quien D atribuye justiciaG2316
+- Rom_4:17delante de D, a quien creyó, el cual deG2316
+- Rom_4:20tampoco dudó...de la promesa de D, sinoG2316
+- Rom_4:20se fortaleció en fe, dando gloria a DG2316
+- Rom_5:1la fe, tenemos paz para con D por medioG2316
+- Rom_5:2nos gloriamos en la...de la gloria de DG2316
+- Rom_5:5porque el amor de D ha sido derramado enG2316
+- Rom_5:8D muestra su amor para con nosotros, enG2316
+- Rom_5:10reconciliados con D por la muerte de suG2316
+- Rom_5:11nos gloriamos en D por el Señor nuestroG2316
+- Rom_5:15el don de D por la gracia de un hombreG2316
+- Rom_6:10murió...mas en cuanto vive, para D viveG2316
+- Rom_6:11muertos...pero vivos para D en CristoG2316
+- Rom_6:13presentaos vosotros mismos a D comoG2316
+- Rom_6:13vuestros miembros a D como instrumentosG2316
+- Rom_6:17gracias a D, que aunque erais esclavosG2316
+- Rom_6:22sido libertados...y hechos siervos de DG2316
+- Rom_6:23dádiva de D es vida eterna en CristoG2316
+- Rom_7:4a fin de que llevemos fruto para DG2316
+- Rom_7:22porque según...me deleito en la ley de DG2316
+- Rom_7:25gracias doy a D, por Jesucristo SeñorG2316
+- Rom_7:25con la mente sirvo a la ley de D, masG2316
+- Rom_8:3D, enviando a su Hijo en semejanza deG2316
+- Rom_8:7los...de la carne son enemistad contra DG2316
+- Rom_8:7no se sujeta a la ley de D, ni tampocoG2316
+- Rom_8:8según la carne no pueden agradar a DG2316
+- Rom_8:9es que el Espíritu de D mora en vosotrosG2316
+- Rom_8:14por el Espíritu de D...son hijos de DG2316
+- Rom_8:16da testimonio...de que somos hijos de DG2316
+- Rom_8:17herederos de D y coherederos con CristoG2316
+- Rom_8:19de la manifestación de los hijos de DG2316
+- Rom_8:21la libertad gloriosa de los hijos de DG2316
+- Rom_8:27conforme a la voluntad de D intercedeG2316
+- Rom_8:28los que aman a D, todas las cosas lesG2316
+- Rom_8:31si D es por nosotros, ¿quién contraG2316
+- Rom_8:33acusará a los escogidos de D? D es elG2316
+- Rom_8:34el que además está a la diestra de DG2316
+- Rom_8:39podrá separar del amor de D, que es enG2316
+- Rom_9:5vino Cristo, el cual es D sobre todas lasG2316
+- Rom_9:6no que la palabra de D haya falladoG2316
+- Rom_9:8no...según la carne son los hijos de DG2316
+- Rom_9:11para que el propósito de D...permanecieseG2316
+- Rom_9:14pues, diremos? ¿Qué hay injusticia en D?[[G2316]]
+- Rom_9:16depende...de D que tiene misericordiaG2316
+- Rom_9:20¿quién eres tú...que alterques con D?[[G2316]]
+- Rom_9:22¿y qué, si D, queriendo mostrar su iraG2316
+- Rom_9:26allí serán llamados hijos del D vivienteG2316
+- Rom_10:1y mi oración a D por Israel, es paraG2316
+- Rom_10:2doy testimonio de que tienen celo de DG2316
+- Rom_10:3ignorando la justicia de D, y procurandoG2316
+- Rom_10:3no se han sujetado a la justicia de DG2316
+- Rom_10:9creyeres...D le levantó de los muertosG2316
+- Rom_10:17el oír, y el oír, por la palabra de DG2316
+- Rom_11:1pues: ¿Ha desechado D a su pueblo? EnG2316
+- Rom_11:2no ha desechado D a su pueblo, al cualG2316
+- Rom_11:2de Elías...cómo invoca a D contra IsraelG2316
+- Rom_11:8D les dio espíritu de estupor, ojos conG2316
+- Rom_11:21si D no perdonó a las ramas naturalesG2316
+- Rom_11:22mira...la bondad y la severidad de DG2316
+- Rom_11:23pues poderoso es D para volverlos aG2316
+- Rom_11:29irrevocables son los dones y el...de DG2316
+- Rom_11:30erais desobedientes a D, pero ahoraG2316
+- Rom_11:32D sujetó a todos en desobediencia, paraG2316
+- Rom_11:33¡oh profundidad...de la ciencia de D![[G2316]]
+- Rom_12:1ruego por las misericordias de D, queG2316
+- Rom_12:1que presentéis vuestros cuerpos...a DG2316
+- Rom_12:2comprobéis cuál sea la...voluntad de DG2316
+- Rom_12:3medida de la fe que D repartió a cadaG2316
+- Rom_12:19os venguéis...dejad lugar a la ira de D
+- Rom_13:1no hay autoridad sino de parte de D, yG2316
+- Rom_13:1que hay, por D han sido establecidasG2316
+- Rom_13:2se opone...a lo establecido por D resisteG2316
+- Rom_13:4es servidor de D, para tu bienG2316
+- Rom_13:4es servidor de D, vengador para castigarG2316
+- Rom_13:6son servidores de D que atienden...a estoG2316
+- Rom_14:3no juzgue al...porque D le ha recibidoG2316
+- Rom_14:6para el Señor porque da gracias a DG2316
+- Rom_14:6para el Señor no come y da gracias a DG2316
+- Rom_14:11doblará y toda lengua confesará a DG2316
+- Rom_14:12que cada uno de...dará a D cuenta de síG2316
+- Rom_14:17el reino de D no es comida ni bebidaG2316
+- Rom_14:18el que sirve a Cristo...agrada a DG2316
+- Rom_14:20no destruyas la obra de D por causa deG2316
+- Rom_14:22tú fe? Tenla para contigo delante de DG2316
+- Rom_15:5el D de la paciencia y de la consolaciónG2316
+- Rom_15:6glorifiquéis al D y Padre de nuestroG2316
+- Rom_15:7Cristo nos reciba para gloria de DG2316
+- Rom_15:8siervo de...para mostrar la verdad de DG2316
+- Rom_15:9para que las gentes glorifiquen a DG2316
+- Rom_15:13D de esperanza os llene de todo gozoG2316
+- Rom_15:15por la gracia que de D me es dadaG2316
+- Rom_15:16ministrando el evangelio de D, para queG2316
+- Rom_15:17gloriarme en...lo que a D se refiereG2316
+- Rom_15:19con potencia...poder del Espíritu de DG2316
+- Rom_15:30os ruego me ayudéis orando por mi a DG2316
+- Rom_15:32llegue a vosotros por la voluntad de DG2316
+- Rom_15:33y el D de paz sea con todos vosotrosG2316
+- Rom_16:20D de paz aplastará en breve a SatanásG2316
+- Rom_16:26según el mandamiento del D eterno seG2316
+- 1Co_1:1a ser apóstol por la voluntad de DG2316
+- 1Co_1:2a la iglesia de D que está en CorintoG2316
+- 1Co_1:3gracia y paz a vosotros de D Padre yG2316
+- 1Co_1:4gracias doy a mi D siempre por vosotrosG2316
+- 1Co_1:9fiel es D por el cual fuisteis llamadosG2316
+- 1Co_1:14doy gracias a D de que a ninguno deG2316
+- 1Co_1:18pero a los que se salvan...es poder de DG2316
+- 1Co_1:20¿no ha enloquecido D la sabiduría delG2316
+- 1Co_1:21ya que en la sabiduría de D, el mundoG2316
+- 1Co_1:21no conoció a D mediante la sabiduríaG2316
+- 1Co_1:21agradó a D salvar a los creyentes porG2316
+- 1Co_1:24Cristo poder de D y sabiduría de DG2316
+- 1Co_1:25lo insensato de D es más sabio que losG2316
+- 1Co_1:25y lo débil de D es más fuerte que losG2316
+- 1Co_1:27lo necio...escogió D, para avergonzar aG2316
+- 1Co_1:27lo débil...escogió D, para avergonzar aG2316
+- 1Co_1:28lo vil del mundo y lo...escogió D y loG2316
+- 1Co_1:30cual nos ha sido hecho por D sabiduríaG2316
+- 1Co_2:1para anunciaros el testimonio de D noG2316
+- 1Co_2:5no este fundada sino...en el poder se DG2316
+- 1Co_2:7hablamos sabiduría de D en misterio laG2316
+- 1Co_2:7la cual D predestinó antes de los siglosG2316
+- 1Co_2:9que D ha preparado para los que le amanG2316
+- 1Co_2:10pero D nos lo reveló a nosotros por elG2316
+- 1Co_2:10todo lo escudriña...aun lo profundo de DG2316
+- 1Co_2:11las cosas de D sino el Espíritu de DG2316
+- 1Co_2:12el Espíritu que proviene de D, para queG2316
+- 1Co_2:12que sepamos lo que D nos ha concedidoG2316
+- 1Co_2:14no percibe las cosas...del Espíritu de DG2316
+- 1Co_3:6regó; pero el crecimiento lo ha dado DG2316
+- 1Co_3:7el que planta...ni el que siega sino DG2316
+- 1Co_3:9porque nosotros somos colaboradores de DG2316
+- 1Co_3:9vosotros...labranza de D, edificio de DG2316
+- 1Co_3:10conforme a la gracia de D que me ha sidoG2316
+- 1Co_3:16templo de D...el Espíritu de D mora enG2316
+- 1Co_3:17alguno destruyere el templo de D D leG2316
+- 1Co_3:17el templo de D, el cual sois...santo; esG2316
+- 1Co_3:19la sabiduría...es insensatez para con DG2316
+- 1Co_3:23y vosotros de Cristo, y Cristo de DG2316
+- 1Co_4:1administradores de los misterios de DG2316
+- 1Co_4:5venga...cada uno recibiría su alabanza de DG2316
+- 1Co_4:9D nos ha exhibido a...los apóstoles comoG2316
+- 1Co_4:20el reino de D no consiste en palabrasG2316
+- 1Co_5:13porque a los que están fuera D juzgaráG2316
+- 1Co_6:9los injustos no heredarán el Reino de D?[[G2316]]
+- 1Co_6:10ni los avaros...heredarán el Reino de DG2316
+- 1Co_6:11justificados en...por el Espíritu de DG2316
+- 1Co_6:13al uno como a los otras destruirá DG2316
+- 1Co_6:14y D, que levantó al Señor, también aG2316
+- 1Co_6:19tenéis de D, y que no sois vuestros?[[G2316]]
+- 1Co_6:20glorificad, pues, a D...cuales son de DG2316
+- 1Co_7:7pero cada uno tiene su propio don de DG2316
+- 1Co_7:15sujeto a...sino que a paz nos llamó DG2316
+- 1Co_7:17y como D llamó a cada uno así hagaG2316
+- 1Co_7:19Sino el guardar los mandamientos de DG2316
+- 1Co_7:24fue llamado, así permanezca para con DG2316
+- 1Co_7:40que también yo tengo el Espíritu de DG2316
+- 1Co_8:3pero si alguno ama a D, es conocido por élG2316
+- 1Co_8:4en el mundo, y que no hay más que un DG2316
+- 1Co_8:5se llamen d (como hay muchos d y muchosG2316
+- 1Co_8:6para nosotros...sólo hay un D, el PadreG2316
+- 1Co_8:8la vianda no nos hace más aceptos ante DG2316
+- 1Co_9:9trilla. ¿Tiene D cuidado de los bueyesG2316
+- 1Co_9:21no estando yo sin ley de D, sino bajo laG2316
+- 1Co_10:5pero de los más de ellos no se agradó DG2316
+- 1Co_10:13fiel es D, que no os dejará ser tentadosG2316
+- 1Co_10:20a los demonios lo sacrifican, y no a DG2316
+- 1Co_10:31cosa, hacedlo todo para la gloria de DG2316
+- 1Co_10:32no seáis tropiezo...a la iglesia de DG2316
+- 1Co_11:3Cristo es la...y D la cabeza de CristoG2316
+- 1Co_11:7varón...pues él es imagen y gloria de DG2316
+- 1Co_11:12de la mujer; pero todo procede de DG2316
+- 1Co_11:13que la mujer ore a D sin cubrirse laG2316
+- 1Co_11:16tal costumbre, ni las iglesias de DG2316
+- 1Co_11:22¿o menospreciáis la iglesia de D yG2316
+- 1Co_12:3nadie que hable por el Espíritu de DG2316
+- 1Co_12:6pero D que hace todas las cosas en todosG2316
+- 1Co_12:18D ha colocado los miembros cada unoG2316
+- 1Co_12:24D ordenó el cuerpo, dando mis honorG2316
+- 1Co_12:28unos puso D en la iglesia, primeramenteG2316
+- 1Co_14:2no habla a los hombres, sino a D; puesG2316
+- 1Co_14:18gracias a D que hablo en lenguas másG2316
+- 1Co_14:25postrándose...adorará a D, declarandoG2316
+- 1Co_14:25verdaderamente D está entre vosotrosG2316
+- 1Co_14:28calle hable para sí mismo y para DG2316
+- 1Co_14:33pues D no es D de confusión, fino deG2316
+- 1Co_14:36ha salido de vosotros la palabra de DG2316
+- 1Co_15:9porque yo...perseguí a la iglesia de DG2316
+- 1Co_15:10pero por la gracia de D soy lo que soyG2316
+- 1Co_15:10pero no yo, sino la gracia de D conmigoG2316
+- 1Co_15:15somos hallados falsos testigos de DG2316
+- 1Co_15:15hemos testificado de D que él resucitóG2316
+- 1Co_15:24el fin, cuando entregue el reino al D yG2316
+- 1Co_15:28las cosas, para que D sea todo en todosG2316
+- 1Co_15:34velad...porque algunos no conocen a DG2316
+- 1Co_15:38pero D le da el cuerpo como él quisoG2316
+- 1Co_15:50no pueden heredar el reino de D ni laG2316
+- 1Co_15:57gracias sean dadas a D...da la victoriaG2316
+- 2Co_1:1Pablo, apóstol...por la voluntad de DG2316
+- 2Co_1:1a la iglesia de D que está en CorintoG2316
+- 2Co_1:2gracia y paz a vosotros de D...Padre yG2316
+- 2Co_1:3bendito sea el D...D de toda consolaciónG2316
+- 2Co_1:4consolación con que...consolados por DG2316
+- 2Co_1:9para que no confiásemos en...sino en DG2316
+- 2Co_1:12con sencillez y sinceridad de D, no conG2316
+- 2Co_1:12con la gracia de D, nos hemos conducidoG2316
+- 2Co_1:18mas, como D es fiel, nuestra palabra aG2316
+- 2Co_1:19el Hijo de D...ha sido predicado entreG2316
+- 2Co_1:20son en él...Amén...para la gloria de DG2316
+- 2Co_1:20todas las promesas de D son en él sí, yG2316
+- 2Co_1:21el que nos confirma, y...nos ungió, es DG2316
+- 2Co_1:23invoco a D por testigo sobre mi almaG2316
+- 2Co_2:14a D gracias, el cual nos lleva siempreG2316
+- 2Co_2:15para D somos grato olor de Cristo enG2316
+- 2Co_2:17que medran falsificando la palabra de DG2316
+- 2Co_2:17de parte de D, y delante de D, hablamosG2316
+- 2Co_3:3escrita no...sino en el Espíritu del DG2316
+- 2Co_3:4confianza...mediante Cristo para con DG2316
+- 2Co_3:5que nuestra competencia proviene de DG2316
+- 2Co_4:2ni adulterando la palabra de D, sinoG2316
+- 2Co_4:2a toda conciencia humana delante de DG2316
+- 2Co_4:4d de este siglo cegó el entendimientoG2316
+- 2Co_4:4de Cristo, el cual es la imagen de DG2316
+- 2Co_4:6D, que mandó que de las tinieblas...luzG2316
+- 2Co_4:6del conocimiento de la gloria de D enG2316
+- 2Co_4:7que la excelencia del poder sea de D, yG2316
+- 2Co_4:15la acción de gracias para gloria de DG2316
+- 2Co_5:1tenemos de D un edificio, una casa noG2316
+- 2Co_5:5mas el que nos hizo para esto mismo es DG2316
+- 2Co_5:11pero a D le es manifiesto lo que somosG2316
+- 2Co_5:13si estamos locos, es para D; y si somosG2316
+- 2Co_5:18esto proviene de D, quien nos reconcilióG2316
+- 2Co_5:19D estaba en Cristo reconciliando consigoG2316
+- 2Co_5:20como si D rogase por medio de nosotrosG2316
+- 2Co_5:20rogamos en nombre...reconciliaos con DG2316
+- 2Co_5:21nosotros fuésemos hechos justicia de DG2316
+- 2Co_6:1que no recibáis en vano la gracia de DG2316
+- 2Co_6:4nos recomendamos...como ministros de DG2316
+- 2Co_6:7en poder de D, con armas de justicia aG2316
+- 2Co_6:16que acuerdo hay entre el templo de DG2316
+- 2Co_6:16vosotros sois el templo del D vivienteG2316
+- 2Co_6:16como D dijo Habitaré...y seré su D, yG2316
+- 2Co_7:1perfeccionando la santidad en el...de DG2316
+- 2Co_7:6pero D...nos consoló con la venida de TitoG2316
+- 2Co_7:9habéis sido contristados según D, paraG2316
+- 2Co_7:10la tristeza que es según D produceG2316
+- 2Co_7:11que hayáis sido contristados según DG2316
+- 2Co_7:12solicitud...por vosotros delante de DG2316
+- 2Co_8:1os hacemos saber la gracia de D que seG2316
+- 2Co_8:5luego a nosotros por la voluntad de DG2316
+- 2Co_8:16gracias a D que puso en el corazón deG2316
+- 2Co_9:7dé como...porque D ama al dador alegreG2316
+- 2Co_9:8poderoso es D para hacer que abunde enG2316
+- 2Co_9:11la cual produce...acción de gracias a DG2316
+- 2Co_9:12abunda en...acciones de gracias a DG2316
+- 2Co_9:13glorifican a D por la obediencia queG2316
+- 2Co_9:14a causa de la...gracia de D en vosotrosG2316
+- 2Co_9:15¡gracias a D por su don inefable![[G2316]]
+- 2Co_10:4poderosas en D para la destrucción deG2316
+- 2Co_10:5se levanta contra el conocimiento de DG2316
+- 2Co_10:13conforme a la regla que D nos ha dadoG2316
+- 2Co_10:18aprobado...sino aquel a quien D alabaG2962
+- 2Co_11:2porque os celo con celo de D; pues osG2316
+- 2Co_11:7he predicado el evangelio de D de balde?[[G2316]]
+- 2Co_11:11¿por qué ¿Porque no os amo? D lo sabeG2316
+- 2Co_11:31el D y Padre de...sabe que no mientoG2316
+- 2Co_12:2,3si fuera del cuerpo, no lo sé; D lo sabeG2316
+- 2Co_12:19delante de D en Cristo hablamos; y todoG2316
+- 2Co_12:21me humille D entre vosotros, y quizáG2316
+- 2Co_13:4fue crucificado...vive por el poder de DG2316
+- 2Co_13:4viviremos con él por el poder de D paraG2316
+- 2Co_13:7oramos a D que ninguna cosa mala hagáisG2316
+- 2Co_13:11el D de paz y de...estará con vosotrosG2316
+- 2Co_13:14amor de D, y la comunión del EspírituG2316
+- Gál_1:1sino por Jesucristo y por D el PadreG2316
+- Gál_1:3gracia y paz sean a vosotros, de D el PadreG2316
+- Gál_1:4conforme a la voluntad de nuestro D yG2316
+- Gál_1:10el favor de los hombres, o el de D?[[G2316]]
+- Gál_1:13que perseguía...a la iglesia de D, y laG2316
+- Gál_1:15pero cuando agradó a D, que me apartóG2316
+- Gál_1:20en esto que...delante de D que no mientoG2316
+- Gál_1:24y glorificaban a D en míG2316
+- Gál_2:6importa; D no hace acepción de personasG2316
+- Gál_2:19ley soy muerto...a fin de vivir para DG2316
+- Gál_2:20lo vivo en la fe del Hijo de D, el cualG2316
+- Gál_2:21no desecho la gracia de D; pues si porG2316
+- Gál_3:6Abraham creyó a D, y le fue contado porG2316
+- Gál_3:8la Escritura, previendo que D había deG2316
+- Gál_3:11por la ley ninguno se justifica...con DG2316
+- Gál_3:17el pacto previamente ratificado por DG2316
+- Gál_3:18pero D la concedió a Abraham mediante laG2316
+- Gál_3:20el mediador no lo es de...pero D es unoG2316
+- Gál_3:21ley es contraria a las promesas de D?[[G2316]]
+- Gál_3:26sois hijos de D por la fe en CristoG2316
+- Gál_4:4D envió a su Hijo, nacido de mujer yG2316
+- Gál_4:6D envió a vuestros corazones el EspírituG2316
+- Gál_4:7hijo...heredero de D por medio de CristoG2316
+- Gál_4:8no conociendo a D, servíais a los que porG2316
+- Gál_4:8servíais a...que por naturaleza no son dG2316
+- Gál_4:9conociendo a D...siendo conocidos por DG2316
+- Gál_4:14bien me recibisteis como a un ángel de DG2316
+- Gál_5:21practican...no heredarán el reino de DG2316
+- Gál_6:7D no puede ser burlado: pues todo lo queG2316
+- Gál_6:16paz y...sea a ellos, y al Israel de DG2316
+- Efe_1:1Pablo, apóstol...por la voluntad de DG2316
+- Efe_1:2y paz a vosotros, de D nuestro Padre yG2316
+- Efe_1:3bendito sea el D y Padre de...JesucristoG2316
+- Efe_1:17el D de nuestro Señor...os dé espírituG2316
+- Efe_2:4D, que es rico en misericordia, por suG2316
+- Efe_2:8y esto no de vosotros, pues es don de DG2316
+- Efe_2:10las cuales D preparó de antemano paraG2316
+- Efe_2:12ajenos...sin esperanza y sin D en el mundoG112, [[G2316]]
+- Efe_2:16mediante la cruz reconciliar con D aG2316
+- Efe_2:19los santos, miembros de la familia de DG2316
+- Efe_2:22juntamente edificados para morada de DG2316
+- Efe_3:2de la administración de la gracia de DG2316
+- Efe_3:7fui hecho ministro por...la gracia de DG2316
+- Efe_3:9misterio escondido desde los siglos en DG2316
+- Efe_3:10que la multiforme sabiduría de D seaG2316
+- Efe_3:19seáis llenos de toda la plenitud de DG2316
+- Efe_4:6un D y Padre de todos, el cual es sobreG2316
+- Efe_4:13lleguemos...conocimiento del Hijo de DG2316
+- Efe_4:18ajenos de la vida de D por la ignoranciaG2316
+- Efe_4:24del nuevo hombre, creado según D en laG2316
+- Efe_4:30no contristéis al Espíritu Santo de DG2316
+- Efe_4:32perdonándoos...D también os perdonó enG2316
+- Efe_5:1sed...imitadores de D como hijos amadosG2316
+- Efe_5:2entregó a sí...ofrenda y sacrificio a DG2316
+- Efe_5:5herencia en el reino de Cristo y de DG2316
+- Efe_5:6por estas cosas viene la ira de D sobreG2316
+- Efe_5:20dando siempre gracias por todo al D yG2316
+- Efe_5:21someteos unos a otros en el temor de DG2316
+- Efe_6:6de corazón haciendo la voluntad de DG2316
+- Efe_6:11vestíos de toda la armadura de D paraG2316
+- Efe_6:13tomad toda la armadura de D, para queG2316
+- Efe_6:17del Espíritu, que es la palabra de DG2316
+- Efe_6:23paz...de D Padre y del Señor JesucristoG2316
+- Flp_1:2paz a vosotros, de D nuestro Padre yG2316
+- Flp_1:3gracias a mi D...me acuerdo de vosotrosG2316
+- Flp_1:8D me es testigo de cómo os amo a todosG2316
+- Flp_1:11de frutos...para gloria y alabanza de DG2316
+- Flp_1:28para vosotros de salvación, y esto de DG2316
+- Flp_2:6el cual, siendo en forma de D, no estimóG2316
+- Flp_2:6no estimó el ser igual a D como cosa aG2316
+- Flp_2:9por lo cual D...le exaltó hasta lo sumoG2316
+- Flp_2:11es el Señor, para gloria de D PadreG2316
+- Flp_2:13D es el que en vosotros produce así elG2316
+- Flp_2:15para que seáis...hijos de D sin manchaG2316
+- Flp_2:27pero D tuvo misericordia de él, y noG2316
+- Flp_3:3servimos a D y nos gloriamos en CristoG2316
+- Flp_3:9sino...la justicia que es de D por la feG2316
+- Flp_3:14al premio del supremo llamamiento de DG2316
+- Flp_3:15sentís, esto también os lo revelará DG2316
+- Flp_3:19cuyo d es el vientre, y cuya gloria esG2316
+- Flp_4:6sean conocidas vuestras peticiones delante de DG2316
+- Flp_4:7de D, que sobrepasa todo entendimientoG2316
+- Flp_4:9esto...y el D de paz estará con vosotrosG2316
+- Flp_4:18olor...sacrificio acepto, agradable a DG2316
+- Flp_4:19D, pues, suplirá todo lo que os faltaG2316
+- Flp_4:20al D y Padre nuestro sea gloria por losG2316
+- Col_1:1Pablo, apóstol...por la voluntad de DG2316
+- Col_1:2gracia y paz...de D nuestro Padre y delG2316
+- Col_1:3damos gracias a D, Padre de...JesucristoG2316
+- Col_1:6y conocisteis la gracia de D en verdadG2316
+- Col_1:10y creciendo en el conocimiento de DG2316
+- Col_1:15él es la imagen del D invisible, elG2316
+- Col_1:25ministro, según la administración de DG2316
+- Col_1:25anuncie cumplidamente la palabra de DG2316
+- Col_1:27a quienes D quiso dar a conocer lasG2316
+- Col_2:2fin de conocer el misterio de D el PadreG2316
+- Col_2:12la fe en el poder de D que le levantóG2316
+- Col_2:19todo...crece con el crecimiento que da DG2316
+- Col_3:1está Cristo sentado a la diestra de DG2316
+- Col_3:3vuestra vida está escondida con...en DG2316
+- Col_3:6cosas por las cuales la ira de D vieneG2316
+- Col_3:12vestíos...como escogidos de D, santos yG2316
+- Col_3:15y la paz de D gobierne en...corazonesG2316
+- Col_3:17dando gracias a D Padre por medio de élG2316
+- Col_3:22sino con corazón sincero, temiendo a DG2316
+- Col_4:11que me ayudan en el reino de D, y hanG2316
+- Col_4:12y completos en todo lo que D quiereG2316
+- 1Ts_1:1la iglesia...en D Padre y en el SeñorG2316
+- 1Ts_1:1paz sean a vosotros, de D nuestro PadreG2316
+- 1Ts_1:2damos...gracias a D por todos vosotrosG2316
+- 1Ts_1:3acordándonos sin cesar delante del D yG2316
+- 1Ts_1:4porque conocemos...amados de D, vuestraG2316
+- 1Ts_1:8lugar vuestra fe en D se ha extendidoG2316
+- 1Ts_1:9a D, para servir al D vivo y verdaderoG2316
+- 1Ts_2:2denuedo en nuestro D para anunciaros elG2316
+- 1Ts_2:2anunciaros el evangelio de D en medio deG2316
+- 1Ts_2:4como para agradar a los hombres, sino a DG2316
+- 1Ts_2:4fuimos aprobados por D para que se nosG2316
+- 1Ts_2:5ni encubrimos avaricia; D es testigoG2316
+- 1Ts_2:8entregaros no sólo el evangelio de DG2316
+- 1Ts_2:9cómo...os predicamos el evangelio de DG2316
+- 1Ts_2:10sois testigos, y D también, de cuánG2316
+- 1Ts_2:12anduvieseis como es digno de D, que osG2316
+- 1Ts_2:13sin cesar damos gracias a D, de queG2316
+- 1Ts_2:13según es en verdad, la palabra de DG2316
+- 1Ts_2:13que cuando recibisteis la palabra de DG2316
+- 1Ts_2:14a ser imitadores de las iglesias de DG2316
+- 1Ts_2:15y no agradan a D, y se oponen a todosG2316
+- 1Ts_3:2y enviamos a Timoteo...servidor de D yG2316
+- 1Ts_3:9acción de gracias podamos dar a D porG2316
+- 1Ts_3:9causa de vosotros delante de nuestro DG2316
+- 1Ts_3:11mismo D y Padre...dirija nuestro caminoG2316
+- 1Ts_3:13sean afirmados...en santidad delante de DG2316
+- 1Ts_4:1os conviene conduciros y agradar a D, asíG2316
+- 1Ts_4:3voluntad de D es vuestra santificaciónG2316
+- 1Ts_4:5no...como los gentiles que no conocen a DG2316
+- 1Ts_4:7no nos ha llamado D a inmundicia, sinoG2316
+- 1Ts_4:8desecha...no desecha a hombre, sino a DG2316
+- 1Ts_4:9habéis aprendido de D que os améis unosG2312
+- 1Ts_4:14traerá D con Jesús a los que durmieronG2316
+- 1Ts_4:16con trompeta de D, descenderá del cieloG2316
+- 1Ts_5:9no nos ha puesto D para ira, sino paraG2316
+- 1Ts_5:18dad gracias...esta es la voluntad de DG2316
+- 1Ts_5:23el...D de paz os santifique por completoG2316
+- 2Ts_1:1la iglesia de los tesalonicenses en DG2316
+- 2Ts_1:2paz a vosotros de D nuestro padre y delG2316
+- 2Ts_1:3debemos...dar gracias a D por vosotrosG2316
+- 2Ts_1:4nos gloriamos de...en las iglesias de DG2316
+- 2Ts_1:5es demostración del justo juicio de DG2316
+- 2Ts_1:5seáis tenidos por dignos del reino de DG2316
+- 2Ts_1:6porque es justo delante de D pagar conG2316
+- 2Ts_1:8retribución a los que no conocieron a DG2316
+- 2Ts_1:11que nuestro D os tenga por dignos de suG2316
+- 2Ts_1:12por la gracia de nuestro D y del SeñorG2316
+- 2Ts_2:4se levanta contra todo lo que se llama DG2316
+- 2Ts_2:4en el templo de D como D...pasar por DG2316
+- 2Ts_2:11por esto D les envía un poder engañosoG2316
+- 2Ts_2:13dar...gracias a D respecto a vosotrosG2316
+- 2Ts_2:13D os haya escogido desde el principioG2316
+- 2Ts_2:16D nuestro padre, el cual nos amó y nosG2316
+- 2Ts_3:5encamine vuestros corazones al amor de DG2316
+- 1Ti_1:1Pablo, apóstol de...por mandato de DG2316
+- 1Ti_1:2y paz, de D nuestro Padre y de CristoG2316
+- 1Ti_1:4disputas más bien que edificación de DG2316
+- 1Ti_1:11el glorioso evangelio del D bendito, queG2316
+- 1Ti_1:17al único y sabio D, sea honor y gloriaG2316
+- 1Ti_2:3esto es bueno y agradable delante de DG2316
+- 1Ti_2:5un solo D, y un solo mediador entre D yG2316
+- 1Ti_3:5casa; ¿como cuidará de la iglesia de D?[[G2316]]
+- 1Ti_3:15cómo debes conducirte en la casa de DG2316
+- 1Ti_3:15es la iglesia del D viviente, columnaG2316
+- 1Ti_3:16la piedad: D fue manifestado en carneG2316
+- 1Ti_4:3abstenerse de alimentos que D creó paraG2316
+- 1Ti_4:4todo lo que D creó es bueno, y nada esG2316
+- 1Ti_4:5por la palabra de D y por la oración esG2316
+- 1Ti_4:10esperamos en el D viviente, que es elG2316
+- 1Ti_5:4porque esto es lo bueno y...delante de DG2316
+- 1Ti_5:5es viuda...espera en D, y es diligente enG2316
+- 1Ti_5:21te encarezco delante de D y del SeñorG2316
+- 1Ti_6:1que no sea blasfemado el nombre de D y laG2316
+- 1Ti_6:11tú, oh hombre de D, huye de estas cosasG2316
+- 1Ti_6:13mando delante de D, que da vida a todasG2316
+- 1Ti_6:17en las riquezas...sino en el D vivo, queG2316
+- 2Ti_1:1Pablo, apóstol...por la voluntad de DG2316
+- 2Ti_1:2paz, de D Padre y de Jesucristo nuestroG2316
+- 2Ti_1:3doy gracias a D, al cual sirvo desde misG2316
+- 2Ti_1:6avives el fuego del don de D que está enG2316
+- 2Ti_1:7no nos ha dado D espíritu de cobardíaG2316
+- 2Ti_1:8sino participa de...según el poder de DG2316
+- 2Ti_2:9sufro...mas la palabra de D no está presaG2316
+- 2Ti_2:15procura con...presentarte a D aprobadoG2316
+- 2Ti_2:19el fundamento de D está firme, teniendoG2316
+- 2Ti_2:25D les conceda que se arrepientan paraG2316
+- 2Ti_3:4amadores de los deleites más que de DG5377
+- 2Ti_3:16toda la Escritura es inspirada por DG2316
+- 2Ti_3:17fin de que el hombre de D sea perfectoG2316
+- 2Ti_4:1te encarezco delante de D y del SeñorG2316
+- Tit_1:1siervo de D y apóstol de JesucristoG2316
+- Tit_1:1conforme a la fe de los escogidos de DG2316
+- Tit_1:2en la esperanza de la vida...la cual DG2316
+- Tit_1:3que me fue encomendada por mandato de DG2316
+- Tit_1:4y paz, de D Padre y del Señor JesucristoG2316
+- Tit_1:7irreprensible, como administrador de DG2316
+- Tit_1:16profesan conocer a D, pero con losG2316
+- Tit_2:5que la palabra de D no sea blasfemadaG2316
+- Tit_2:10que en todo adornen la doctrina de DG2316
+- Tit_2:11la gracia de D se ha manifestado paraG2316
+- Tit_2:13la manifestación gloriosa de...gran DG2316
+- Tit_3:4pero cuando se manifestó la bondad de DG2316
+- Tit_3:8los que creen en D procuren ocuparse enG2316
+- Flm_1:3gracia y paz...de D nuestro Padre y delG2316
+- Flm_1:4doy gracias a mi D, haciendo...memoria deG2316
+- Heb_1:1D, habiendo hablado muchas veces y deG2316
+- Heb_1:5, 13¿a cuál de los ángeles dijo D jamás
+- Heb_1:6dice: Adórenle todos los ángeles de DG2316
+- Heb_1:8tu trono, oh D, por el siglo del sigloG2316
+- Heb_1:9por lo cual te ungió D, el D tuyo, conG2316
+- Heb_2:4testificando D...con ellos...con señalesG2316
+- Heb_2:9que por la gracia de D gustase la muerteG2316
+- Heb_2:13he aquí, yo y los hijos que D me dioG2316
+- Heb_2:17y fiel, sumo sacerdote en lo que a D seG2316
+- Heb_3:2como...fue Moisés en toda la casa de DG846
+- Heb_3:4pero el que hizo todas las cosas es DG2316
+- Heb_3:5Moisés...fue fiel en toda la casa de DG846
+- Heb_3:12incredulidad para apartarse del D vivoG2316
+- Heb_4:4reposó D de todas sus obras en el...díaG2316
+- Heb_4:9queda un reposo para el pueblo de DG2316
+- Heb_4:10reposado de...obras, como D de las suyasG2316
+- Heb_4:12la palabra de D es viva y eficaz, y másG2316
+- Heb_4:14un gran sumo sacerdote...el Hijo de DG2316
+- Heb_5:1a favor de los hombres en lo que a D seG2316
+- Heb_5:4sino el que es llamado por D, como lo fueG2316
+- Heb_5:10declarado por D sumo sacerdote según elG2316
+- Heb_5:12primeros rudimentos de las palabras de DG2316
+- Heb_6:1otra vez el fundamento del...de la fe en DG2316
+- Heb_6:3esto haremos, si D en verdad lo permiteG2316
+- Heb_6:5gustaron de la buena palabra de D y losG2316
+- Heb_6:6crucificando de nuevo para...al Hijo de DG2316
+- Heb_6:7bebe la lluvia...recibe bendición de DG2316
+- Heb_6:10D no es injusto para olvidar vuestraG2316
+- Heb_6:13cuando D hizo la promesa a Abraham, noG2316
+- Heb_6:17queriendo D mostrar...inmutabilidad deG2316
+- Heb_6:18en las cuales es imposible que D mientaG2316
+- Heb_7:1Melquisedec...sacerdote del D AltísimoG2316
+- Heb_7:3hecho semejante al Hijo de D, permaneceG2316
+- Heb_7:19esperanza, por la cual...acercarnos a DG2316
+- Heb_7:25salvar...los que por él se acercan a DG2316
+- Heb_8:10seré a ellos por D, y ellos me serán aG2316
+- Heb_9:14se ofreció a sí mismo sin mancha a DG2316
+- Heb_9:14limpiará para que sirváis al D vivo?[[G2316]]
+- Heb_9:20esta es la sangre del pacto que D osG2316
+- Heb_9:24presentarse ahora por nosotros ante DG2316
+- Heb_10:7,9vengo, oh D, para hacer tu voluntadG2316
+- Heb_10:12Cristo...ha sentado a la diestra de DG2316
+- Heb_10:21un gran sacerdote sobre la casa de DG2316
+- Heb_10:29que pisoteare al Hijo de D, y tuviereG2316
+- Heb_10:31¡horrenda...caer en manos del D vivo![[G2316]]
+- Heb_10:36que habiendo hecho la voluntad de DG2316
+- Heb_11:3constituido el universo por la...de DG2316
+- Heb_11:4por la fe Abel ofreció a D...sacrificioG2316
+- Heb_11:4dando D testimonio de sus ofrendas yG2316
+- Heb_11:5y no fue hallado, porque lo traspuso DG2316
+- Heb_11:5tuvo testimonio de haber agradado a DG2316
+- Heb_11:6pero sin fe es imposible agradar a DG2316
+- Heb_11:7Noé, cuando fue advertido por D acerca
+- Heb_11:10cuyo arquitecto y constructor es DG2316
+- Heb_11:16D no se avergüenza de llamarse D deG2316
+- Heb_11:19pensando...D es poderoso para levantarG2316
+- Heb_11:25ser maltratado con el pueblo de D, queG2316
+- Heb_11:40proveyendo D alguna cosa mejor paraG2316
+- Heb_12:2y se sentó a la diestra del trono de DG2316
+- Heb_12:7si soportáis...D os trata como a hijosG2316
+- Heb_12:15deje de alcanzar la gracia de D; queG2316
+- Heb_12:22acercado a Sion, a la ciudad del DG2316
+- Heb_12:23a D el Juez de todos, a los espíritusG2316
+- Heb_12:28sirvamos a D agradándole con temor yG2316
+- Heb_12:29porque nuestro D es fuego consumidorG2316
+- Heb_13:4pero a los fornicarios...los juzgará DG2316
+- Heb_13:7pastores...os hablaron la palabra de DG2316
+- Heb_13:15ofrezcamos siempre a D, por medio deG2316
+- Heb_13:16porque de tales sacrificios se agrada DG2316
+- Heb_13:20D de paz que resucitó de los muertosG2316
+- Stg_1:1Santiago, siervo de D y...JesucristoG2316
+- Stg_1:5tiene falta de sabiduría, pídala a D, elG2316
+- Stg_1:12recibirá la corona de vida, que D haG2316
+- Stg_1:13tentado...de D...D no puede ser tentadoG2316
+- Stg_1:20la ira del...no obra la justicia de DG2316
+- Stg_1:27la religión pura...delante de D el PadreG2316
+- Stg_2:19crees que D es uno; bien haces. TambiénG2316
+- Stg_2:23Abraham creyó a D, y le fue contado porG2316
+- Stg_2:23por justicia, y fue llamado amigo de DG2316
+- Stg_3:9con ella bendecimos al D y Padre, y conG2316
+- Stg_3:9que están hechos a la semejanza de DG2316
+- Stg_4:4la amistad del...es enemistad contra D?[[G2316]]
+- Stg_4:4amigo del...se constituye enemigo de DG2316
+- Stg_4:6D resiste a los soberbios, y da graciaG2316
+- Stg_4:7someteos, pues, a D; resistid al diabloG2316
+- Stg_4:8acercaos a D, y él se acercará a vosotrosG2316
+- 1Pe_1:2elegidos según la presciencia de DG2316
+- 1Pe_1:3bendito el D y Padre de nuestro SeñorG2316
+- 1Pe_1:5que sois guardados por el poder de DG2316
+- 1Pe_1:21mediante el cual creéis en D, quien leG2316
+- 1Pe_1:21que vuestra fe y esperanza sean en DG2316
+- 1Pe_1:23siendo renacidos...por la palabra de DG2316
+- 1Pe_2:4hombres, mas para D, escogida y preciosaG2316
+- 1Pe_2:5para ofrecer sacrificios...a D por medioG2316
+- 1Pe_2:9vosotros sois...pueblo adquirido por D
+- 1Pe_2:10pero que ahora sois pueblo de D; que enG2316
+- 1Pe_2:12para que...glorifiquen a D en el día deG2316
+- 1Pe_2:15es la voluntad de D; que haciendo bienG2316
+- 1Pe_2:16no como los que...sino como siervos de DG2316
+- 1Pe_2:17honrad a todos...Temed a D. Honrad al reyG2316
+- 1Pe_2:19a causa de la conciencia delante de DG2316
+- 1Pe_2:20ciertamente es aprobado delante de DG2316
+- 1Pe_3:4que es de grande estima delante de DG2316
+- 1Pe_3:5así...santas mujeres que esperaban en DG2316
+- 1Pe_3:15santificad a D...en vuestros corazonesG2316
+- 1Pe_3:17si la voluntad de D así lo quiere, queG2316
+- 1Pe_3:18por los injustos, para llevarnos a DG2316
+- 1Pe_3:20la paciencia de D en los días de NoéG2316
+- 1Pe_3:21de una buena conciencia hacia D por laG2316
+- 1Pe_3:22habiendo subido al...a la diestra de DG2316
+- 1Pe_4:2vivir...sino conforme a la voluntad de DG2316
+- 1Pe_4:6en carne...pero vivan en espíritu según DG2316
+- 1Pe_4:10buenos administradores de...gracia de DG2316
+- 1Pe_4:11hable conforme a las palabras de D; siG2316
+- 1Pe_4:11ministre conforme al poder que D daG2316
+- 1Pe_4:11para que en todo sea D glorificado porG2316
+- 1Pe_4:14el...Espíritu de D reposa sobre vosotrosG2316
+- 1Pe_4:16alguno padece...glorifique a D por elloG2316
+- 1Pe_4:17que el juicio comience por la casa de DG2316
+- 1Pe_4:17el fin...no obedecen al evangelio de D?[[G2316]]
+- 1Pe_4:19los que padecen según la voluntad de DG2316
+- 1Pe_5:2apacentad la grey de D que está entreG2316
+- 1Pe_5:5D resiste a los soberbios, y da gracia aG2316
+- 1Pe_5:6humillaos...bajo la poderosa mano de DG2316
+- 1Pe_5:10el D de toda gracia, que nos llamó a suG2316
+- 1Pe_5:12esta es la verdadera gracia de D, en laG2316
+- 2Pe_1:1habéis alcanzado, por la justicia...DG2316
+- 2Pe_1:2el conocimiento de D y de nuestro SeñorG2316
+- 2Pe_1:17cuando él recibió de D Padre honra yG2316
+- 2Pe_1:21los santos hombres de D hablaron siendoG2316
+- 2Pe_2:4si D no perdonó a los ángeles que pecaronG2316
+- 2Pe_3:5hechos por la palabra de D los cielos, yG2316
+- 2Pe_3:12esperando...la venida del día de D, en elG2316
+- 1Jn_1:5D es luz, y no hay...tinieblas en élG2316
+- 1Jn_2:5en éste...el amor de D se ha perfeccionadoG2316
+- 1Jn_2:14y la palabra de D permanece en vosotrosG2316
+- 1Jn_2:17el que hace la voluntad de D permaneceG2316
+- 1Jn_3:1cuál amor...que seamos llamados hijos de DG2316
+- 1Jn_3:2amados, ahora somos hijos de D, y aún noG2316
+- 1Jn_3:8para esto apareció el Hijo de D, paraG2316
+- 1Jn_3:9aquel que es nacido de D, no practica elG2316
+- 1Jn_3:9porque la simiente de D permanece en élG848
+- 1Jn_3:9y no puede pecar, porque es nacido de DG2316
+- 1Jn_3:10en esto se manifiestan los hijos de DG2316
+- 1Jn_3:10y que no ama a su hermano, no es de DG2316
+- 1Jn_3:17ve a su...¿cómo mora el amor de D en él?[[G2316]]
+- 1Jn_3:20mayor que nuestro corazón es D, y élG2316
+- 1Jn_3:21no nos reprende, confianza tenemos en DG2316
+- 1Jn_3:24que guarda...permanece en D, y D en élG846
+- 1Jn_4:1sino probad los espíritus si son de DG2316
+- 1Jn_4:2en esto conoced el Espíritu de D: TodoG2316
+- 1Jn_4:2Jesucristo ha venido en carne, es de DG2316
+- 1Jn_4:3que no confiesa...no es de D: y este es elG2316
+- 1Jn_4:4vosotros sois de D, y los habéis vencidoG2316
+- 1Jn_4:6somos de D; el que conoce a D, nos oyeG2316
+- 1Jn_4:6el que no es de D, no nos oye. En estoG2316
+- 1Jn_4:7amémonos unos a otros...el amor es de DG2316
+- 1Jn_4:7que ama, es nacido de D, y conoce a DG2316
+- 1Jn_4:8no ha conocido a D; porque D es amorG2316
+- 1Jn_4:9se mostró el amor de D...en que D envió aG2316
+- 1Jn_4:10no en que nosotros hayamos amado a DG2316
+- 1Jn_4:11si D nos ha amado así, debemos tambiénG2316
+- 1Jn_4:12nadie ha visto jamás a D. Si nos amamosG2316
+- 1Jn_4:12D permanece en nosotros, y su amor seG2316
+- 1Jn_4:15que confiese que Jesús es el Hijo de DG2316
+- 1Jn_4:15confiese...D permanece en él, y él en DG2316
+- 1Jn_4:16conocido y creído el amor que D tieneG2316
+- 1Jn_4:16D es amor; y el que permanece en amorG2316
+- 1Jn_4:16en amor, permanece en D, y D en élG2316
+- 1Jn_4:20yo amo a D, y aborrece a su hermano, esG2316
+- 1Jn_4:20cómo puede amar a D a quien no ha visto?[[G2316]]
+- 1Jn_4:21que ama a D, ame también a su hermanoG2316
+- 1Jn_5:1que Jesús es el Cristo, es nacido de DG2316
+- 1Jn_5:2que amamos a los hijos de D...amamos a DG2316
+- 1Jn_5:3este es el amor de D, que guardemos susG2316
+- 1Jn_5:4lo que es nacido de D vence al mundoG2316
+- 1Jn_5:5el que cree que Jesús es el Hijo de D?[[G2316]]
+- 1Jn_5:9mayor es el testimonio de D; porque esteG2316
+- 1Jn_5:9el testimonio con que D ha testificadoG2316
+- 1Jn_5:10el que cree en el Hijo de D, tiene elG2316
+- 1Jn_5:10que no cree, a D le ha hecho mentirosoG2316
+- 1Jn_5:10no ha creído en el testimonio que D haG2316
+- 1Jn_5:11D nos ha dado vida eterna, y esta vidaG2316
+- 1Jn_5:12el que no tiene al Hijo de D no tieneG2316
+- 1Jn_5:13que creéis en el nombre del Hijo de DG2316
+- 1Jn_5:13y para que creáis en el...del Hijo de DG2316
+- 1Jn_5:16pedirá, y D le dará vida; esto es paraG2316
+- 1Jn_5:18aquel que ha nacido de D, no practica elG2316
+- 1Jn_5:18aquel que fue engendrado por D le guardaG2316
+- 1Jn_5:19somos de D, y el mundo...bajo el malignoG2316
+- 1Jn_5:20sabemos que el Hijo de D ha venido, yG2316
+- 1Jn_5:20éste es el verdadero D, y la vida eternaG2316
+- 2Jn_1:3paz, de D Padre y del señor JesucristoG2316
+- 2Jn_1:9cualquiera que se extravía...no tiene a DG2316
+- 3Jn_1:6como es digno de su servicio a D, paraG2316
+- 3Jn_1:11el que hace lo bueno es de D; pero el queG2316
+- 3Jn_1:11pero el que hace lo malo, no ha visto a DG2316
+- Jud_1:1Judas...a los...santificados en D PadreG2316
+- Jud_1:4convierten en libertinaje la gracia de...DG2316
+- Jud_1:4niegan a D el único soberano, y a...SeñorG2316
+- Jud_1:21conservaos en el amor de D, esperando laG2316
+- Jud_1:25al único y sabio D...sea gloria y majestadG2316
+- Rev_1:1revelación de Jesucristo, que D le dioG2316
+- Rev_1:2que ha dado testimonio de la palabra de DG2316
+- Rev_1:6nos hizo reyes y sacerdotes para D, suG2316
+- Rev_1:9Patmos, por causa de la palabra de D yG2316
+- Rev_2:7el cual está en medio del paraíso de DG2316
+- Rev_2:18el Hijo de D, el que tiene ojos comoG2316
+- Rev_3:1el que tiene los siete espíritus de DG2316
+- Rev_3:2no he hallado tus obras...delante de DG2316
+- Rev_3:12lo haré columna en el templo de mi DG2316
+- Rev_3:12escribiré sobre él el nombre de mi DG2316
+- Rev_3:12nombre de la ciudad de mi D, la nuevaG2316
+- Rev_3:12la cual desciende del cielo, de mi DG2316
+- Rev_3:14el principio de la creación de D, diceG2316
+- Rev_4:5lámparas...son los siete espíritus de DG2316
+- Rev_4:8santo, santo es el Señor D TodopoderosoG2316
+- Rev_5:6son los siete espíritus de D enviados porG2316
+- Rev_5:9con tu sangre nos has redimido para DG2316
+- Rev_5:10y nos has hecho para nuestro D reyes yG2316
+- Rev_6:9muertos por causa de la palabra de D yG2316
+- Rev_7:2y tenía el sello del D vivo; y clamó aG2316
+- Rev_7:3sellado en...a los siervos de nuestro DG2316
+- Rev_7:10la salvación pertenece a nuestro D queG2316
+- Rev_7:11se postraron sobre sus...y adoraron a DG2316
+- Rev_7:12honra...sean a nuestro D por los siglosG2316
+- Rev_7:15por esto están delante del trono de DG2316
+- Rev_7:17D enjugará toda lágrima de los ojos deG2316
+- Rev_8:2y vi a los siete ángeles...en pie ante DG2316
+- Rev_8:4a la presencia de D el humo del inciensoG2316
+- Rev_9:4los hombres que no tuviesen el sello de DG2316
+- Rev_9:13del altar de oro que estaba delante de DG2316
+- Rev_10:7el misterio de D se consumará, como élG2316
+- Rev_11:1dijo: Levántate, y mide el templo de DG2316
+- Rev_11:4los dos candeleros que...delante del DG2316
+- Rev_11:11entró en ellos el espíritu de vida...DG2316
+- Rev_11:13demás...y dieron gloria al D del cieloG2316
+- Rev_11:16que estaban sentados delante de D enG2316
+- Rev_11:16se postraron sobre sus...y adoraron a DG2316
+- Rev_11:17te damos gracias, Señor D TodopoderosoG2316
+- Rev_11:19el templo de D fue abiertoS en el cieloG2316
+- Rev_12:5y su hijo fue arrebatado para D y paraG2316
+- Rev_12:6tiene lugar preparado por D, para queG2316
+- Rev_12:10ha venido la...y el reino de nuestro DG2316
+- Rev_12:10que los acusaba delante de nuestro DG2316
+- Rev_12:17los que guardan los mandamientos de DG2316
+- Rev_13:6y abrió su boca en blasfemias contra DG2316
+- Rev_14:4redimidos de...como primicias para D yG2316
+- Rev_14:5son sin mancha delante del trono de DG2316
+- Rev_14:7a gran voz: Temed a D, y dadle gloriaG2316
+- Rev_14:10beberá del vino de la ira de D, que haG2316
+- Rev_14:12los que guardan los mandamientos de DG2316
+- Rev_14:19las uvas en el...lagar de la ira de DG2316
+- Rev_15:1siete plagas...se consumaba la ira de DG2316
+- Rev_15:2en pie sobre el mar...con las arpas de DG2316
+- Rev_15:3y maravillosas son tus obras, Señor DG2316
+- Rev_15:3el cántico de Moisés siervo de D, y elG2316
+- Rev_15:7siete copas de...llenas de la ira de DG2316
+- Rev_15:8se llenó de humo por la gloria de D, yG2316
+- Rev_16:1derramad...las siete copas de la ira de DG2316
+- Rev_16:7Señor D...tus juicios son verdaderos yG2316
+- Rev_16:9y blasfemaron el nombre de D, que tieneG2316
+- Rev_16:11blasfemaron contra el D del cielo porG2316
+- Rev_16:14a la batalla de aquel gran día del DG2316
+- Rev_16:19Babilonia vino en memoria delante de DG2316
+- Rev_16:21los hombres blasfemaron contra D porG2316
+- Rev_17:17porque D ha puesto en sus corazones elG2316
+- Rev_17:17hasta que se cumplan las palabras de DG2316
+- Rev_18:5y D se ha acordado de sus maldadesG2316
+- Rev_18:8será quemada con fuego...poderoso es DG2316
+- Rev_18:20porque D os ha hecho justicia en ellaG2316
+- Rev_19:1gloria y poder son del Señor D nuestroG2316
+- Rev_19:4se postraron en tierra y adoraron a DG2316
+- Rev_19:5alabad a nuestro D todos sus siervosG2316
+- Rev_19:6el Señor nuestro D Todopoderoso reina![[G2316]]
+- Rev_19:9me dijo...son palabras verdaderas de DG2316
+- Rev_19:10dijo...Adora a D porque el testimonioG2316
+- Rev_19:13sangre y su nombre es: El Verbo de DG2316
+- Rev_19:15él pisa el lagar del...de la ira del DG2316
+- Rev_19:17venid, y congregaos a la...cena de DG2316
+- Rev_20:4los decapitados por...la palabra de DG2316
+- Rev_20:6que serán sacerdotes de D y de CristoG2316
+- Rev_20:9de D descendió fuego del cielo, y losG2316
+- Rev_20:12y vi a los muertos, grandes y...ante DG2316
+- Rev_21:2Jerusalén, descender del cielo, de DG2316
+- Rev_21:3decía: He aquí el tabernáculo de D conG2316
+- Rev_21:3y D mismo estará con ellos como su DG2316
+- Rev_21:4enjugará D toda lágrima de los ojos deG2316
+- Rev_21:7heredará...seré su D, y él será mi hijoG2316
+- Rev_21:10Jerusalén...descendía del cielo, de DG2316
+- Rev_21:11teniendo la gloria de D. Y su fulgorG2316
+- Rev_21:22el Señor D...es el templo de ella, y elG2316
+- Rev_21:23porque la gloria de D la ilumina, y elG2316
+- Rev_22:1un río...que salía del trono de D y delG2316
+- Rev_22:3el trono de D y del Cordero estará enG2316
+- Rev_22:5D el Señor los iluminará; y reinarán porG2316
+- Rev_22:6el D de los espíritus de los profetasG2316
+- Rev_22:9me dijo: Mira, no lo hagas...Adora a DG2316
+- Rev_22:18D traerá sobre él las plagas que estánG2316
+- Rev_22:19D quitará su parte del libro de la vidaG2316

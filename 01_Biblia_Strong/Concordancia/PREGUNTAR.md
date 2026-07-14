@@ -1,0 +1,211 @@
+---
+tipo: concordancia
+palabra: PREGUNTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PREGUNTAR
+
+- Gén_24:47le pregunté, y...¿De quién eres hija?[[H7592]]
+- Gén_24:57llamemos a la doncella y preguntémosle
+- Gén_24:65había preguntado al criado: ¿Quién es
+- Gén_26:7le preguntaron acerca de su mujer; y élH7592
+- Gén_32:17si Esaú...te preguntare, diciendo: ¿De
+- Gén_32:29Jacob le preguntó...Declárame...nombreH7592
+- Gén_32:29¿por qué me preguntas por mi nombre?[[H7592]]
+- Gén_37:15preguntó aquel hombre, diciendo: ¿QuéH7592
+- Gén_38:21y preguntó a los hombres de aquel lugarH7592
+- Gén_40:7preguntó a aquellos oficiales de FaraónH7592
+- Gén_43:7preguntó expresamente por nosotros y porH7592
+- Gén_43:27les preguntó José cómo estaban, y dijoH7592
+- Gén_44:19mi señor preguntó a sus...¿Tenéis padreH7592
+- Éxo_3:13si ellos me preguntaren: ¿Cuál es su
+- Éxo_13:14te pregunte tu hijo, diciendo: ¿Qué esH7592
+- Éxo_18:7preguntaron el uno al otro cómo estabanH7592
+- Lev_10:16Moisés preguntó por el macho cabrío
+- Deu_4:32pregunta...si en los tiempos pasadosH7592
+- Deu_6:20cuando te preguntare tu hijo, diciendoH7592
+- Deu_12:30no preguntes...de sus dioses, diciendo
+- Deu_13:14buscarás y preguntarás con diligencia
+- Deu_17:9vendrás a los sacerdotes...y preguntarás
+- Deu_32:7pregunta a tu padre, y él te declararáH7592
+- Jos_4:6cuando vuestros hijos preguntaren aH7592
+- Jos_4:21preguntaren vuestros hijos a sus padresH7592
+- Jue_4:20y te preguntare, diciendo: ¿Hay aquí
+- Jue_8:14tomó a un joven de los...y le preguntó
+- Jue_12:5los de Galaad te preguntaban: ¿Eres tú
+- Jue_13:6y no le pregunté de dónde ni quién eraH7592
+- Jue_13:18¿por qué preguntas por mi nombre, queH7592
+- Jue_18:5pregunta...a Dios, para que sepamos siH7592
+- Jue_18:15a la casa del...levita...y le preguntaron
+- Jue_20:27los hijos de Israel preguntaron a Jehová
+- 1Sa_6:2preguntaron: ¿Qué haremos del arca de
+- 1Sa_10:22preguntaron...a Jehová si aún no había
+- 1Sa_17:22preguntó por sus hermanos, si estaban
+- 1Sa_17:30apartándose...preguntó de igual manera
+- 1Sa_17:56rey. Pregunta de quién es, hijo ese joven
+- 1Sa_19:22preguntó...dónde están Samuel y David?[[H7592]]
+- 1Sa_20:12cuando le haya preguntado a mi padre
+- 1Sa_25:8pregunta a tus criados, y, ellos te loH7592
+- 1Sa_28:7vaya a ella y por medio de ella pregunte
+- 1Sa_28:16dijo: ¿Y para qué me preguntas a mí, si
+- 2Sa_1:3le preguntó David: ¿De dónde vienes?[[H7592]]
+- 2Sa_1:8y me preguntó: ¿Quién eres tú? Y yo le
+- 2Sa_9:4el rey le preguntó: ¿Dónde está? Y Siba
+- 2Sa_11:3envió...a preguntar por aquella mujer, y
+- 2Sa_11:7David le preguntó por la salud de JoabH7592
+- 2Sa_14:18no me encubras nada...yo te preguntare
+- 2Sa_20:18quien preguntare, pregunte en Abel; y
+- 2Re_6:6varón de Dios preguntó: ¿Dónde cayó?
+- 2Re_8:6preguntando el rey a la mujer, ella seH7592
+- 2Re_22:13id y preguntad a Jehová por mí, y por
+- 2Re_22:18enviado para que preguntaseis a Jehová
+- 2Cr_18:5y les preguntó ¿Iremos a la guerra
+- 2Cr_18:6profeta de...para que...de él preguntemos?
+- 2Cr_18:7por el cual podemos preguntar a Jehová
+- 2Cr_18:19y Jehová preguntó: ¿Quién inducirá a
+- 2Cr_31:9preguntó Ezequías a los sacerdotes y aH1875
+- Esd_5:4preguntaron: ¿Cuáles son los nombres
+- Esd_5:9preguntamos a los ancianos, diciéndolesH7592
+- Esd_5:10preguntamos sus nombres para hacérteloH7593
+- Neh_1:2les pregunté por los judíos que habíanH7592
+- Est_1:13preguntó entonces el rey a los sabios
+- Est_1:15les preguntó qué se había de hacer con
+- Est_3:3siervos del rey...preguntaron a Mardoqueo
+- Job_8:8pregunta...a las generaciones pasadas, y
+- Job_12:7pregunta ahora a las bestias, y ellas te
+- Job_21:29¿no habéis preguntado a los que pasanH7592
+- Job_31:14él preguntara, ¿qué le respondería yo?[[H6485]]
+- Job_38:3yo te preguntaré, y tú me contestarásH7592
+- Job_40:7yo te preguntaré, y tú me responderásH7592
+- Job_42:4ruego, te preguntaré, y tú me enseñarásH7592
+- Sal_35:11malvados...lo que no sé me preguntan
+- Sal_41:5enemigos dicen mal de mí, preguntando
+- Ecl_4:8ni se pregunta: ¿Para quién trabajo yo
+- Ecl_7:10nunca de esto preguntarás con sabiduría
+- Isa_8:19preguntad a los encantadores y a losH1875
+- Isa_19:3su consejo: y preguntarán a sus imágenesH1875
+- Isa_21:12preguntad si queréis, p; volved, venid
+- Isa_30:2apartan...y no han preguntado de mi bocaH7592
+- Isa_41:28pregunté de...y ningún consejero huboH7592
+- Isa_41:28les pregunté, y no respondieron palabraH7592
+- Isa_45:11dice...Preguntadme de las cosas por venirH7592
+- Isa_65:1fui buscado por los que no preguntabanH7592
+- Jer_3:19yo preguntaba: ¿Cómo os pondré por
+- Jer_6:16preguntad por las sendas antiguas, cuálH7592
+- Jer_8:2sol y a la luna...a quienes preguntaronH1875
+- Jer_15:2si te preguntaren: ¿A dónde saldremos?[[H7592]]
+- Jer_15:5o quién vendrá a preguntar por tu paz?[[H7592]]
+- Jer_18:13así dijo Jehová: Preguntad ahora a lasH7592
+- Jer_23:33cuando te preguntare este pueblo, o elH7592
+- Jer_36:17preguntaron...a Baruc...Cuéntanos ahoraH7592
+- Jer_37:17le preguntó el rey secretamente en suH7592
+- Jer_38:27vinieron...a Jeremías, y le preguntaronH7592
+- Jer_48:19pregunta a la que va huyendo, y a la queH7592
+- Jer_50:5preguntarán por el camino de Sion, haciaH7592
+- Eze_14:7y viniere al profeta para preguntarle
+- Eze_34:6no hubo...ni quien preguntase por ellasH1245
+- Eze_37:18y cuando te pregunten los hijos de tu
+- Dan_2:10ningún rey...preguntó cosa semejanteH7593
+- Dan_7:16y le pregunté la verdad acerca de todoH1156
+- Dan_8:13otro de los santos preguntó a aquél que
+- Ose_4:12mi pueblo a su ídolo...pregunta, y elH7592
+- Hag_2:11pregunta...a los sacerdotes acerca deH7592
+- Zac_13:6preguntarán: ¿Qué heridas son estas
+- Mat_2:4preguntó; dónde había de nacer el CristoG4441
+- Mat_11:3preguntarle: ¿Eres tú aquel que había de
+- Mat_12:10y preguntaron a Jesús, para...acusarleG1905
+- Mat_16:13preguntó a sus discípulos, diciendoG2065
+- Mat_17:10sus discípulos le preguntaron...¿Por quéG1905
+- Mat_22:23vinieron...los saduceos...y le preguntaronG1905
+- Mat_22:35intérprete de la...preguntó por tentarleG1905
+- Mat_22:41estando juntos los...Jesús les preguntóG1905
+- Mat_22:46osó alguno desde aquel día preguntarleG1905
+- Mat_27:11éste le preguntó, diciendo: ¿Eres tú elG1905
+- Mar_4:10los doce le preguntaron...la parábolaG2065
+- Mar_5:9le preguntó: ¿Cómo te llamas? Y respondióG1905
+- Mar_7:5le preguntaron...los fariseos...¿Por quéG1905
+- Mar_7:17le preguntaron sus discípulos sobre laG1905
+- Mar_8:5les preguntó: ¿Cuántos panes tenéis? EllosG1905
+- Mar_8:23las manos encima, y le preguntó si veíaG1905
+- Mar_8:27en el camino preguntó a sus discípulosG1905
+- Mar_9:11le preguntaron, diciendo: ¿Por qué dicenG1905
+- Mar_9:16les preguntó: ¿Qué disputáis con ellos?[[G1905]]
+- Mar_9:21Jesús preguntó...¿Cuánto tiempo hace queG1905
+- Mar_9:28discípulos le preguntaron aparte: ¿PorG1905
+- Mar_9:32ellos no...y tenían miedo de preguntarleG1905
+- Mar_9:33en casa, les preguntó: ¿Qué disputabaisG1905
+- Mar_10:2le preguntaron...si era lícito al maridoG1905
+- Mar_10:10los discípulos a preguntarle de lo mismoG1905
+- Mar_10:17le preguntó: Maestro bueno, ¿qué haréG1905
+- Mar_12:18vinieron...los saduceos...y le preguntaronG1905
+- Mar_12:28le preguntó: ¿Cuál es el...mandamientoG1905
+- Mar_12:34Dios...Y ya ninguno osaba preguntarleG1905
+- Mar_13:3y Pedro, Jacobo...le preguntaron aparteG1905
+- Mar_14:60sacerdote...preguntó a Jesús, diciendoG1905
+- Mar_14:61el sumo sacerdote le volvió a preguntarG1905
+- Mar_15:2Pilato le preguntó: ¿Eres tú el Rey deG1905
+- Mar_15:4preguntó Pilato...¿Nada respondes? MiraG1905
+- Mar_15:44Pilato...preguntó si ya estaba muertoG1905
+- Luc_1:62preguntaron por señas a su padre, cómo
+- Luc_2:46sentado en...Oyéndoles y preguntándolesG1905
+- Luc_3:10y la gente le preguntaba...¿qué haremos?[[G1905]]
+- Luc_3:14le preguntaron unos soldados, diciendoG1905
+- Luc_3:15preguntándose todos...si acaso Juan sería
+- Luc_6:9os preguntaré una cosa: ¿Es lícito en díaG1905
+- Luc_7:19envió a Jesús, para preguntarle: ¿Eres
+- Luc_7:20para preguntarte: ¿Eres tú el que había
+- Luc_8:9le preguntaron, diciendo: ¿Qué significaG1905
+- Luc_8:30y le preguntó Jesús...diciendo: ¿Cómo teG1905
+- Luc_9:18les preguntó, diciendo: ¿Quién dice laG1905
+- Luc_9:45temían preguntarle sobre esas palabrasG2065
+- Luc_15:26llamando...le preguntó qué era aquelloG4441
+- Luc_17:20preguntado...cuándo había de venir elG1905
+- Luc_18:18le preguntó...Maestro bueno, ¿qué haréG1905
+- Luc_18:36al oír a la multitud...preguntó qué eraG4441
+- Luc_18:40traerle a...y cuando llegó, le preguntóG1905
+- Luc_19:31si alguien os preguntare: ¿Por qué loG2065
+- Luc_20:21le preguntaron...Maestro, sabemos queG1905
+- Luc_20:27algunos de los saduceos...preguntaronG1905
+- Luc_20:40y no osaron preguntarle nada másG1905
+- Luc_21:7preguntaron...Maestro, ¿cuándo será esto?[[G1905]]
+- Luc_22:64y le preguntaban, diciendo: ProfetizaG1905
+- Luc_22:68si os preguntare, no me responderéisG2065
+- Luc_23:3Pilato le preguntó...¿Eres tú el Rey deG1905
+- Luc_23:6Pilato...preguntó si el hombre era galileoG1905
+- Jua_1:19que le preguntasen: ¿Tú, quién eres?[[G2065]]
+- Jua_1:21y le preguntaron: ¿Qué pues? ¿Eres túG2065
+- Jua_1:25preguntaron...¿Por qué, pues, bautizasG2065
+- Jua_4:27¿Qué preguntas? o, ¿Qué hablas con ella?[[G2212]]
+- Jua_4:52les preguntó a qué hora había comenzado
+- Jua_5:12le preguntaron: ¿Quién es el que te dijoG2065
+- Jua_8:7insistieran en preguntarle, se enderezóG2065
+- Jua_9:2preguntaron sus discípulos...¿quién pecóG2065
+- Jua_9:15a preguntarle...cómo había recibido laG2065
+- Jua_9:19les preguntaron...¿Es éste vuestro hijoG2065
+- Jua_9:21, Jua_9:23edad tiene, preguntadle a élG2065
+- Jua_11:56se preguntaban unos a...¿Qué os parece?
+- Jua_13:24que preguntase quién era aquel de quienG4441
+- Jua_16:5ninguno de...me pregunta: ¿A dónde vas?[[G2065]]
+- Jua_16:19Jesús conoció que querían preguntarleG2065
+- Jua_16:19¿preguntáis entre vosotros acerca deG2065
+- Jua_16:23en aquel día no me preguntaréis nadaG2065
+- Jua_16:30y no necesitas que nadie te pregunteG2065
+- Jua_18:7pues, a preguntarles: ¿A quién buscáis?[[G1905]]
+- Jua_18:19sumo sacerdote preguntó a Jesús acercaG2065
+- Jua_18:21por qué me preguntas a mí? Pregunta aG1905
+- Jua_21:12ninguno de los...se atrevía a preguntarleG1833
+- Hec_1:6le preguntaron...Señor, ¿restaurarás elG1905
+- Hec_4:7les preguntaron: ¿Con qué potestad...o enG4441
+- Hec_5:27trajeron...el sumo sacerdote les preguntóG1905
+- Hec_10:17preguntando por la casa de...llegaronG1331
+- Hec_10:18preguntaron si moraba allí un Simón queG4441
+- Hec_10:29que pregunto: ¿Por qué causa me habéisG4441
+- Hec_21:33preguntó quién era y qué había hechoG4441
+- Hec_23:19le preguntó: ¿Qué es lo que tienes queG2065
+- Hec_23:34leída la...preguntó de qué provincia eraG1905
+- Hec_25:20le pregunté si quería ir a Jerusalén yG3004
+- Rom_10:20me manifesté a los que no preguntabanG1905
+- 1Co_10:25, 1Co_10:27comed, sin preguntar nada porG350
+- 1Co_14:35algo, pregunten en casa a sus maridosG1905

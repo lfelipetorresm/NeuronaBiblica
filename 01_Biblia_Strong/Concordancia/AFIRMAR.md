@@ -1,0 +1,81 @@
+---
+tipo: concordancia
+palabra: AFIRMAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AFIRMAR
+
+- Gén_42:14he dicho, afirmando que sois espíasH559
+- Éxo_15:17santuario que tus manos...han afirmadoH3559
+- Lev_26:9haré...afirmaré mi pacto con vosotrosH6965
+- Deu_8:19yo lo afirmo hoy contra vosotros, queH6965
+- 1Sa_2:8Jehová...afirmó sobre ellas el mundoH7896
+- 2Sa_7:12uno de tu linaje...afirmaré su reinoH3559
+- 2Sa_7:13afirmaré...siempre el trono de su reinoH3559
+- 2Sa_7:16será afirmada tu casa y tu reino paraH3559
+- 1Re_9:5afirmaré el trono de tu reino sobreH6965
+- 2Re_14:5hubo afirmado en sus manos el reinoH2388
+- 1Cr_17:11descendencia...y afirmaré su reinoH3559
+- 1Cr_22:10afirmaré el trono de su reino sobreH3559
+- 2Cr_1:1Salomón...fue afirmado en su reinoH2388
+- 2Cr_9:8tu Dios amó a Israel para afirmarloH5975
+- Est_1:2fue afirmado el rey Asuero sobre elH3427
+- Est_1:22que...afirmase su autoridad en su casaH8323
+- Job_18:9lazo...se afirmará la trampa contra élH7760
+- Sal_24:2la fundó...la afirmó sobre los ríosH3559
+- Sal_30:7Jehová...me afirmaste como monte fuerteH5975
+- Sal_48:8ciudad...la afirmará Dios para siempreH3559
+- Sal_65:6el que afirma los montes con su poderH3559
+- Sal_80:15y el renuevo que para ti afirmasteH5193
+- Sal_80:17hijo de hombre que para ti afirmasteH553
+- Sal_86:11afirma mi corazón para que tema tuH3161
+- Sal_89:2en los cielos...afirmarás tu verdadH3559
+- Sal_93:1afirmó también el mundo, y no se moveráH3559
+- Sal_96:10afirmó el mundo, no será conmovidoH3559
+- Sal_101:7el que habla mentira no se afirmaráH3559
+- Sal_111:8afirmados eternamente y para siempreH5564
+- Sal_119:90tú afirmaste la tierra, y subisteH3559
+- Pro_3:19afirmó los cielos con inteligenciaH3559
+- Pro_8:28afirmaba los cielos...a las fuentes deH553
+- Pro_12:3el hombre no se afirmará por medio deH3559
+- Pro_15:22la multitud de consejeros se afirmanH6965
+- Pro_15:25pero afirmará la heredad de la viudaH5324
+- Pro_16:3y tus pensamientos serán afirmadosH3559
+- Pro_16:12con justicia será afirmado el tronoH3559
+- Pro_22:18si...se afirmaren sobre tus labiosH3559
+- Pro_24:3la casa, y con prudencia se afirmaráH3559
+- Pro_25:5y su trono se afirmará en justiciaH3559
+- Pro_29:4el rey con el juicio afirma la tierraH5975
+- Pro_30:4¿quién afirmó...términos de la tierra?[[H6965]]
+- Isa_33:23no afirmaron su mástil, ni entesaronH2388
+- Isa_35:3manos...afirmad las rodillas endeblesH553
+- Isa_41:7lo afirmó con clavos...que no se movieseH2388
+- Isa_59:16le salvó...le afirmó su misma justiciaH5564
+- Isa_61:8por tanto, afirmaré en verdad su obraH5414
+- Jer_10:4con clavos y martillo lo afirman paraH2388
+- Jer_33:2Jehová que la formó para afirmarlaH3559
+- Jer_51:15que afirmó el mundo con su sabiduríaH3559
+- Lam_2:4afirmó su...derecha como adversarioH5324
+- Eze_2:2me afirmó sobre mis pies, y oí al queH5975
+- Eze_3:24y me afirmó sobre mis pies, y me hablóH5975
+- Eze_4:3afirmarás luego tu rostro contra ellaH3559
+- Eze_4:7asedio de Jerusalén afirmarás tu rostroH3559
+- Eze_26:8baluarte, y escudo afirmará contra tiH6965
+- Dan_11:17afirmará luego su rostro para venirH7760
+- Hab_2:1sobre la fortaleza afirmaré el pieH3320
+- Zac_14:4se afirmarán sus pies en aquel díaH5975
+- Luc_9:51afirmó su rostro para ir a JerusalénG4741
+- Luc_22:59afirmaba...también éste estaba con élG1340
+- Hec_3:7al momento se le afirmaron los piesG4732
+- Hec_23:8pero los fariseos afirman estas cosasG3004
+- Hec_25:19Jesús...que Pablo afirmaba estar vivoG5335
+- Rom_3:8algunos...afirman que nosotros decimosG5346
+- 1Ts_3:13sean afirmados vuestros corazonesG4741
+- 2Ts_3:3fiel es el Señor, que os afirmaráG4741
+- 1Ti_1:7sin entender ni lo...ni lo que afirmanG1226
+- Heb_13:9buena cosa es afirmar el corazón conG950
+- Stg_5:8afirmad vuestros corazones; porque laG4741
+- 1Pe_5:10él mismo os...afirme, fortalezca yG4741
+- Rev_3:2afirma las otras cosas que están paraG4741

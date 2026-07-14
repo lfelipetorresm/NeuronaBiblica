@@ -1,0 +1,352 @@
+---
+tipo: concordancia
+palabra: BENDECIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BENDECIR
+
+- Gén_1:22los bendijo, diciendo: FructificadH1288
+- Gén_1:28bendijo Dios, y les dijo: FructificadH1288
+- Gén_2:3bendijo Dios al día séptimo...santificóH1288
+- Gén_5:2los bendijo, y llamó el nombre de ellosH1288
+- Gén_9:1bendijo Dios a Noé y a sus hijos, y lesH1288
+- Gén_9:26bendecido por Jehová mi Dios sea Sem, yH1288
+- Gén_12:2te bendeciré, y engrandeceré tu nombreH1288
+- Gén_12:3bendeciré a los que te bendijeren, y aH1288
+- Gén_12:3benditas en ti todas las familias de laH1288
+- Gén_14:19bendijo, diciendo: Bendito sea AbramH1288
+- Gén_14:20y bendito sea el Dios Altísimo, queH1288
+- Gén_17:16bendeciré, y también te daré de ellaH1288
+- Gén_17:16la bendeciré, y vendrá a ser madre deH1288
+- Gén_17:20le bendeciré, y le haré fructificar yH1288
+- Gén_18:18habiendo de ser benditas en él todasH1288
+- Gén_22:17de cierto te bendeciré, y multiplicaréH1288
+- Gén_22:18en tu simiente serán benditas todas lasH1288
+- Gén_24:1y Jehová había bendecido a AbrahamH1288
+- Gén_24:27bendito sea Jehová, Dios de mi amoH1288
+- Gén_24:31ven, bendito de Jehová; ¿por qué estásH1288
+- Gén_24:35Jehová ha bendecido mucho a mi amoH1288
+- Gén_24:48bendije a Jehová Dios de mi...AbrahamH1288
+- Gén_24:60y bendijeron a Rebeca, y le dijeronH1288
+- Gén_25:11que Dios bendijo a Isaac su hijoH1288
+- Gén_26:3estaré contigo, y te bendeciré; porqueH1288
+- Gén_26:4las naciones...benditas en tu simienteH1288
+- Gén_26:12Isaac...cosechó...y le bendijo JehováH1288
+- Gén_26:24porque yo estoy contigo, y te bendeciréH1288
+- Gén_26:29paz; tú eres ahora bendito de JehováH1288
+- Gén_27:4para que yo te bendiga antes que mueraH1288
+- Gén_27:7te bendiga en presencia de Jehová antesH1288
+- Gén_27:10que él te bendiga antes de su muerteH1288
+- Gén_27:19come de mi caza, para que me bendigasH1288
+- Gén_27:23no le conoció, porque sus...y le bendijoH1288
+- Gén_27:25comeré de la...para que yo te bendigaH1288
+- Gén_27:27y le bendijo, diciendo: Mira, el olorH1288
+- Gén_27:27olor del campo que Jehová ha bendecidoH1288
+- Gén_27:29señor...y benditos los que te bendijerenH1288
+- Gén_27:30que Isaac acabó de bendecir a JacobH1293
+- Gén_27:31come de la caza...para que me bendigaH1288
+- Gén_27:33¿quién...Yo le bendije, y será benditoH1288
+- Gén_27:34, Gén_27:38bendíceme también a mí, padre míoH1288
+- Gén_27:41con que su padre le había bendecidoH1288
+- Gén_28:1Isaac llamó a Jacob, y lo bendijo, y leH1288
+- Gén_28:3Dios omnipotente te bendiga, y te hagaH1288
+- Gén_28:6vio Esaú cómo Isaac había bendecido aH1288
+- Gén_28:6que cuando le bendijo, le había mandadoH1288
+- Gén_28:14familias de la tierra serán benditasH1288
+- Gén_30:27Jehová me ha bendecido por tu causaH1288
+- Gén_30:30Jehová te ha bendecido con mi llegadaH1288
+- Gén_31:55Labán...besó sus hijos...y los bendijoH1288
+- Gén_32:26dijo...No te dejaré, si no me bendicesH1288
+- Gén_32:29el varón respondió...y lo bendijo allíH1288
+- Gén_35:9apareció...Dios a Jacob, y le bendijoH1288
+- Gén_39:5bendijo la casa del egipcio a causa deH1288
+- Gén_47:7lo presentó...y Jacob bendijo a FaraónH1288
+- Gén_47:10Jacob bendijo a Faraón, y salió de laH1288
+- Gén_48:3Dios...me apareció en Luz...y me bendijoH1288
+- Gén_48:9acércalos ahora a mí, y los bendeciréH1288
+- Gén_48:15bendijo a José, diciendo: El Dios enH1288
+- Gén_48:16el Ángel que...bendiga a estos jóvenesH1288
+- Gén_48:20y los bendijo...En ti bendecirá IsraelH1288
+- Gén_49:25Omnipotente, el cual te bendecirá conH1288
+- Gén_49:28que su padre les dijo, al bendecirlosH1288
+- Gén_49:28cada uno por su bendición los bendijoH1288
+- Éxo_12:32salid...e idos; y bendecidme tambiénH1288
+- Éxo_18:10bendito sea Jehová, que os libró deH1288
+- Éxo_20:11Jehová bendijo el día de reposo y loH1288
+- Éxo_20:24mi nombre, vendré a ti y te bendeciréH1288
+- Éxo_23:25Jehová...bendecirá tu pan y tus aguasH1288
+- Éxo_39:43vio Moisés toda la obra...los bendijoH1288
+- Lev_9:22alzó Aarón sus manos y los bendijoH1288
+- Lev_9:23Moisés y Aarón...y bendijeron al puebloH1288
+- Núm_6:23así bendeciréis a los hijos de IsraelH1288
+- Núm_6:24Jehová te bendiga, y te guardeH1288
+- Núm_6:27pondrán mi nombre...y yo los bendeciréH1288
+- Núm_22:6sé que el que tú bendigas, será benditoH1288
+- Núm_22:12ni maldigas al pueblo...bendito esH1288
+- Núm_23:20he aquí, he recibido orden de bendecirH1288
+- Núm_23:25que no lo maldices, tampoco lo bendigasH1288
+- Núm_24:1parecía bien...que él bendijese a IsraelH1288
+- Núm_24:9benditos...te bendijeren, y malditos losH1288
+- Núm_24:10he aquí los has bendecido ya tres vecesH1288
+- Deu_1:11Dios...bendiga, como os ha prometido![[H1288]]
+- Deu_2:7tu Dios te ha bendecido en toda obra deH1288
+- Deu_7:13te amará, te bendecirá, y b el fruto deH1288
+- Deu_7:14bendito serás más que todos los pueblosH1288
+- Deu_8:10comerás...y bendecirás a Jehová tu DiosH1288
+- Deu_10:8para bendecir en su nombre, hasta hoyH1288
+- Deu_12:7en la cual...Dios te hubiere bendecidoH1288
+- Deu_14:24cuando Jehová tu Dios te bendijereH1288
+- Deu_14:29Dios te bendiga en toda obra que tusH1288
+- Deu_15:4Jehová te bendecirá con abundancia enH1288
+- Deu_15:6Jehová tu Dios te habrá bendecidoH1288
+- Deu_15:10por ello te bendecirá Jehová tu DiosH1288
+- Deu_15:14en que Jehová te hubiere bendecidoH1288
+- Deu_15:18te bendecirá en todo cuanto hicieresH1288
+- Deu_16:10según Jeboyá tu...te hubiere bendecidoH1288
+- Deu_16:15te habrá bendecido Jehová tu Dios enH1288
+- Deu_21:5y para bendecir en el nombre de JehováH1288
+- Deu_23:20para que te bendiga Jehová...toda obraH1288
+- Deu_24:13pueda dormir en su ropa, y te bendigaH1288
+- Deu_24:19para que te bendiga Jehová...toda obraH1288
+- Deu_26:15y bendice a tu pueblo Israel, y a laH1288
+- Deu_27:12sobre el monte Gerizim para bendecirH1288
+- Deu_28:3bendito serás tú en la ciudad, y b túH1288
+- Deu_28:4bendito el fruto de tu vientre, elH1288
+- Deu_28:5benditas serán tu canasta y tu artesaH1288
+- Deu_28:6bendito serás en tu entrar, y b en tuH1288
+- Deu_28:8y te bendecirá en la tierra que JehováH1288
+- Deu_28:12para bendecir toda obra de tus manosH1288
+- Deu_29:19él se bendiga en su corazón, diciendoH1288
+- Deu_30:16Jehová...te bendiga en la tierra a laH1288
+- Deu_33:1la bendición con la cual bendijo MoisésH1288
+- Deu_33:11bendice, oh Jehová, lo que hicieren, yH1288
+- Deu_33:13bendita de Jehová sea tu tierra, conH1288
+- Deu_33:20bendito el que hizo ensanchar a GadH1288
+- Deu_33:24bendito sobre los hijos sea Aser; seaH1288
+- Jos_8:33que bendijesen...al pueblo de IsraelH1288
+- Jos_14:13Josué...le bendijo, y dio a Caleb hijoH1288
+- Jos_17:14Jehová nos ha bendecido hasta ahora?[[H1288]]
+- Jos_22:6bendiciéndolos, Josué los despidió, yH1288
+- Jos_22:7envió...después de haberlos bendecidoH1288
+- Jos_22:33bendijeron a Dios los hijos de IsraelH1288
+- Jos_24:10por lo cual os bendijo repetidamenteH1288
+- Jue_5:24bendita sea entre las mujeres JaelH1288
+- Jue_5:24sobre las mujeres bendita sea en laH1288
+- Jue_13:24el niño creció, y Jehová lo bendijoH1288
+- Jue_17:2la madre dijo: Bendito seas de JehováH1288
+- Rut_2:4ellos respondieron: Jehová te bendigaH1288
+- Rut_2:19bendito sea el que te ha reconocidoH1288
+- Rut_2:20dijo Noemí...Sea él bendito de JehováH1288
+- Rut_3:10dijo: Bendita seas tú de Jehová, hijaH1288
+- 1Sa_2:20y Elí bendijo a Elcana y a su mujerH1288
+- 1Sa_9:13él es el que bendice el sacrificioH1288
+- 1Sa_15:13Saúl le dijo: Bendito seas tú de JehováH1288
+- 1Sa_23:21Saúl dijo: Benditos seáis vosotros deH1288
+- 1Sa_25:32David a Abigail: Bendito sea JehováH1288
+- 1Sa_25:33bendito sea tu razonamiento, y b túH1288
+- 1Sa_25:39bendito sea Jehová que juzgó la causaH1288
+- 1Sa_26:25dijo a David: Bendito eres tú, hijoH1288
+- 2Sa_2:5benditos seáis vosotros de Jehová, queH1288
+- 2Sa_6:11bendijo Jehová a Obed-edom y a toda suH1288
+- 2Sa_6:12ha bendecido la casa de Obed-edom y todoH1288
+- 2Sa_6:18bendijo al pueblo en el nombre de JehováH1288
+- 2Sa_6:20Volvió luego David para bendecir su casaH1288
+- 2Sa_7:29ten ahora a bien bendecir la casa deH1288
+- 2Sa_7:29con tu bendición será bendita la casaH1288
+- 2Sa_8:10envió Toi a Joram su...para bendecirleH1288
+- 2Sa_13:25porfió...no quiso ir, mas le bendijoH1288
+- 2Sa_14:22después que bendijo al rey, dijo: Hoy
+- 2Sa_18:28dijo: Bendito sea Jehová Dios tuyoH1288
+- 2Sa_19:39el rey besó a Barzilai, y lo bendijoH1288
+- 2Sa_21:3para que bendigáis la heredad de Jehová?[[H1288]]
+- 2Sa_22:47viva Jehová, y bendita sea mi rocaH1288
+- 1Re_1:47han venido a bendecir a nuestro señorH1288
+- 1Re_1:48bendito sea Jehová Dios de Israel, queH1288
+- 1Re_2:45el rey Salomón será bendito, y el tronoH1288
+- 1Re_5:7bendito sea hoy Jehová, que dio hijoH1288
+- 1Re_8:14el rey...bendijo a toda la congregaciónH1288
+- 1Re_8:15bendito sea Jehová, Dios de Israel, queH1288
+- 1Re_8:55bendijo a la congregación de IsraelH1288
+- 1Re_8:56bendito sea Jebová, que ha dado paz aH1288
+- 1Re_8:66y ellos, bendiciendo al rey, se fueronH1288
+- 1Re_10:9Dios sea bendito, que se agradó de tiH1288
+- 1Cr_13:14bendijo Jehová la casa de Obed-edomH1288
+- 1Cr_16:2David...bendijo al pueblo en el nombre deH1288
+- 1Cr_16:36bendito sea Jehová Dios de Israel, deH1288
+- 1Cr_16:43David se volvió para bendecir su casaH1288
+- 1Cr_17:27querido bendecir la casa de tu siervoH1288
+- 1Cr_17:27tú...la has bendecido, y será benditaH1288
+- 1Cr_18:10para...bendecirle por haber peleado con
+- 1Cr_23:13bendijesen en su nombre para siempreH1288
+- 1Cr_26:5porque Dios había bendecido a Obed-edomH1288
+- 1Cr_29:10bendijo a Jehová delante de toda laH1288
+- 1Cr_29:10bendito seas tú, oh Jehová Dios deH1288
+- 1Cr_29:20bendecid ahora a Jehová vuestro DiosH1288
+- 1Cr_29:20la congregación bendijo a Jehová DiosH1288
+- 2Cr_2:12bendito...Jehová el Dios de IsraelH1288
+- 2Cr_6:3bendijo a toda la congregación de IsraelH1288
+- 2Cr_6:4bendito sea Jehová Dios de Israel, quienH1288
+- 2Cr_9:8bendito sea Jehová tu Dios, el cual seH1288
+- 2Cr_20:26Beraca; porque allí bendijeron a JehováH1288
+- 2Cr_30:27los sacerdotes...bendijeron al puebloH1288
+- 2Cr_31:8bendijeron a Jehová, y a su pueblo IsraelH1288
+- 2Cr_31:10Jehová ha bendecido a su pueblo; y haH1288
+- Esd_7:27bendito...Dios de nuestros padres, queH1288
+- Neh_8:6bendijo...Esdras a Jehová, Dios grandeH1288
+- Neh_9:5bendecid a Jehová vuestro Dios desde laH1288
+- Neh_9:5y bendígase el nombre tuyo, glorioso yH1288
+- Neh_11:2bendijo el pueblo a todos los varonesH1288
+- Job_1:21dio...sea el nombre de Jehová benditoH1288
+- Job_31:20si no me bendijeron sus lomos, y delH1288
+- Job_42:12bendijo Jehová el postrer estado de JobH1288
+- Sal_5:12tú, oh Jehová, bendecirás al justoH1288
+- Sal_10:3bendice al codicioso, y desprecia aH1288
+- Sal_16:7bendeciré a Jehová que me aconseja; aunH1288
+- Sal_18:46bendita sea mi roca, y enaltecido seaH1288
+- Sal_21:6porque lo has bendecido para siempreH1288
+- Sal_26:12las congregaciones bendeciré a JehováH1288
+- Sal_28:6bendito sea Jehová, que oyó la voz deH1288
+- Sal_28:9a tu pueblo, y bendice a tu heredadH1288
+- Sal_29:11Jehová bendecirá a su pueblo con pazH1288
+- Sal_31:21bendito...maravillosa su misericordiaH1288
+- Sal_34:1bendeciré a Jehová en todo tiempo; suH1288
+- Sal_37:22los benditos de él heredarán la tierraH1288
+- Sal_41:13bendito sea Jehová, el Dios de IsraelH1288
+- Sal_45:2por tanto, Dios te ha bendecido paraH1288
+- Sal_62:4con su boca bendicen, pero maldicen enH1288
+- Sal_63:4te bendeciré en mi vida; en tu nombreH1288
+- Sal_65:10la ablandas con...bendices sus renuevosH1288
+- Sal_66:8bendecid, pueblos, a nuestro Dios, yH1288
+- Sal_66:20bendito sea Dios, que no echó de sí miH1288
+- Sal_67:1Dios tenga misericordia...y nos bendigaH1288
+- Sal_67:6nos bendecirá Dios, el Dios nuestroH1288
+- Sal_67:7bendíganos Dios, y témanlo todos losH1288
+- Sal_68:19bendito el Señor; cada día nos colmaH1288
+- Sal_68:26bendecid a Dios en las congregacionesH1288
+- Sal_68:35bendito sea DiosH1288
+- Sal_72:15se orará...todo el día se le bendeciráH1288
+- Sal_72:17benditas serán en él todas las nacionesH1288
+- Sal_72:18bendito Jehová Dios, el Dios de IsraelH1288
+- Sal_72:19bendito su nombre glorioso para siempreH1288
+- Sal_89:52bendito sea Jehová para siempre. AménH1288
+- Sal_96:2cantad a Jehová, bendecid su nombreH1288
+- Sal_100:4entrad...alabadle, bendecid su nombreH1288
+- Sal_103:1bendice, alma mía, a Jehová, y bendigaH1288
+- Sal_103:2bendice, alma...a Jehová, y no olvidesH1288
+- Sal_103:20bendecid a Jehová, vosotros...ángelesH1288
+- Sal_103:21bendecid a Jehová, vosotros todos susH1288
+- Sal_103:22bendecid a Jehová...todas sus obrasH1288
+- Sal_103:22; Sal_104:1bendice, alma mía, a JebováH1288
+- Sal_104:35bendice, alma mía, a Jehová. AleluyaH1288
+- Sal_106:48bendito Jehová Dios de Israel, desdeH1288
+- Sal_107:38los bendice, y se multiplican en granH1288
+- Sal_109:28maldigan ellos, pero bendice túH1288
+- Sal_112:2la generación de los rectos será benditaH1288
+- Sal_113:2sea el nombre de Jehová bendito desdeH1288
+- Sal_115:12se acordó de nosotros; nos bendeciráH1288
+- Sal_115:12bendecirá a la casa de Israel; b a laH1288
+- Sal_115:13bendecirá a los que temen a JehováH1288
+- Sal_115:15benditos vosotros de Jehová, que hizoH1288
+- Sal_115:18bendeciremos a JAH desde ahora y paraH1288
+- Sal_118:26bendito el que viene en el nombre deH1288
+- Sal_118:26desde la casa de Jehová os bendecimosH1288
+- Sal_119:12bendito tú, oh...enséñame tus estatutosH1288
+- Sal_124:6bendito sea Jehová, que no nos dio porH1288
+- Sal_128:4bendecido el hombre que teme a JehováH1288
+- Sal_128:5bendígate Jehová desde Sion, y veas elH1288
+- Sal_129:8os bendecimos en el nombre de JehováH1288
+- Sal_132:15Bendeciré abundantemente su provisiónH1288
+- Sal_134:1mirad, bendecid a Jehová, vosotros todosH1288
+- Sal_134:2alzad...manos al...y bendecid a JehováH1288
+- Sal_134:3desde Sion te bendiga Jehová, el cualH1288
+- Sal_135:19casa de Israel, bendecid a JehováH1288
+- Sal_135:19casa de Aarón, bendecid a JehováH1288
+- Sal_135:20casa de Leví, bendecid a Jehová; losH1288
+- Sal_135:20los que teméis a Jehová, bendecid aH1288
+- Sal_135:21desde Sion sea bendecido Jehová, quienH1288
+- Sal_144:1bendito sea Jehová, mi roca, quienH1288
+- Sal_145:1y bendeciré tu nombre eternamente yH1288
+- Sal_145:2cada día te bendeciré, y alabaré tuH1288
+- Sal_145:10te alaben...y tus santos te bendiganH1288
+- Sal_145:21bendigan su santo nombre...para siempreH1288
+- Sal_147:13bendijo a tus hijos dentro de tiH1288
+- Pro_3:33pero bendecirá la morada de los justosH1288
+- Pro_5:18bendita tu manantial, y alégrate conH1288
+- Pro_10:7la memoria del justo será bendita; masH1293
+- Pro_20:21de prisa...no serán al final bendecidosH1288
+- Pro_22:9el ojo misericordioso será benditoH1288
+- Pro_27:14el que bendice a su amigo en alta vozH1288
+- Pro_30:11que maldice...y a su madre no bendiceH1288
+- Isa_19:25Jehová de los ejércitos los bendeciráH1288
+- Isa_19:25bendito el pueblo mío Egipto, y elH1288
+- Isa_51:2lo llamé, y lo bendije y lo multipliquéH1288
+- Isa_61:9reconocerán que son linaje bendito deH1288
+- Isa_65:16el que se bendijere en la tierra, enH1288
+- Isa_65:16en el Dios de verdad se bendeciráH1288
+- Isa_65:23son linaje de los benditos de JehováH1288
+- Isa_66:3incienso, como si bendijese a un ídoloH1288
+- Jer_4:2naciones serán benditas en él, y enH1288
+- Jer_17:7bendito el varón que confía en JehováH1288
+- Jer_20:14día en que...me dio a luz no sea benditoH1288
+- Jer_31:23dirán...Jehová te bendiga, oh moradaH1288
+- Eze_3:12que decía: Bendita sea la gloria deH1288
+- Dan_2:19por lo cual bendijo Daniel al DiosH1289
+- Dan_2:20bendito el nombre de Dios de siglos enH1289
+- Dan_3:28dijo: Bendito sea el Dios de ellos, deH1289
+- Dan_4:34me fue devuelta; y bendije al AltísimoH1289
+- Hag_2:19mas desde este día os bendeciréH1288
+- Zac_11:5bendito sea Jehová...he enriquecidoH1288
+- Mat_5:44amad...bendecid a los que os maldicenG2127
+- Mat_14:19bendijo, y partió y dio los panes a losG2127
+- Mat_21:9¡bendito...viene en el nombre deG2127
+- Mat_23:39¡bendito...viene en el nombre del Señor
+- Mat_25:34Rey dirá...Venid, benditos de mi PadreG2127
+- Mat_26:26tomó el pan, y bendijo, y lo partióG2127
+- Mar_6:41bendijo, y partió los panes, y dio aG2127
+- Mar_8:7los bendijo, y mandó...pusiesen delanteG2127
+- Mar_10:16tomándolos en los brazos...los bendecíaG2127
+- Mar_11:9¡bendito el que viene en el nombre delG2127
+- Mar_11:10¡bendito el reino de nuestro padreG2127
+- Mar_14:22pan y bendijo, y lo partió y les dioG2127
+- Mar_14:61eres tú el Cristo, el Hijo del Bendito?[[G2127]]
+- Luc_1:28el Señor es contigo; bendita tú entreG2127
+- Luc_1:42bendita tú entre...y bendito el fruto deG2127
+- Luc_1:64su lengua, y habló bendiciendo a DiosG2127
+- Luc_1:68bendito el Señor Dios de Israel, que haG2127
+- Luc_2:28le tomó en sus brazos, y bendijo a DiosG2127
+- Luc_2:34los bendijo Simeón, y dijo a su madreG2127
+- Luc_6:28bendecid a los que os maldicen, y oradG2127
+- Luc_9:16los bendijo, y los partió, y dio a susG2127
+- Luc_13:35bendito el que viene en nombre delG2127
+- Luc_19:38bendito el rey que viene en el nombreG2127
+- Luc_24:30tomó el pan y lo bendijo, lo partióG2127
+- Luc_24:50sacó...alzando sus manos, los bendijoG2127
+- Luc_24:51bendiciéndolos, se separó de ellos, yG2127
+- Luc_24:53alabando y bendiciendo a Dios. AménG2127
+- Jua_12:13bendito el que viene en el nombre delG2127
+- Hec_3:25en tu simiente serán benditas todasG1757
+- Hec_3:26lo envió para que os bendijese, a fin deG2127
+- Rom_1:25al Creador, el cual es bendito por losG2128
+- Rom_9:5el cual es Dios...bendito por los siglosG2128
+- Rom_12:14bendecid a los que os persiguen; b, y noG2127
+- 1Co_4:12maldicen, y bendecimos; padecemosG2127
+- 1Co_10:16la copa de...que bendecimos, ¿no es laG2127
+- 1Co_14:16si bendices sólo con el espíritu, elG2127
+- 2Co_1:3bendito sea el Dios y Padre...SeñorG2128
+- 2Co_11:31Dios y Padre...bendito por los siglosG2128
+- Gál_3:8diciendo: En ti serán benditas todasG1757
+- Gál_3:9que los de la fe son bendecidos con elG2127
+- Efe_1:3bendito sea el Dios y Padre de nuestroG2128
+- Efe_1:3bendijo con toda bendición espiritual enG2127
+- 1Ti_1:11glorioso evangelio del Dios benditoG3107
+- Heb_6:14de cierto te bendeciré...multiplicaréG2127
+- Heb_7:1salió a recibir a Abrabam...y le bendijoG2127
+- Heb_7:6tomó...bendijo al que tenía las promesasG2127
+- Heb_7:7sin...el menor es bendecido por el mayorG2127
+- Heb_11:20por la fe bendijo Isaac a Jacob y aG2127
+- Heb_11:21bendijo a cada uno de los hijos de JoséG2127
+- Stg_3:9con ella bendecimos al Dios y PadreG2127
+- 1Pe_1:3bendito el Dios y Padre de nuestroG2128
+- 1Pe_3:9sino por el contrario, bendiciendoG2129

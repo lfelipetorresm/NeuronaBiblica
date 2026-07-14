@@ -1,0 +1,176 @@
+---
+tipo: concordancia
+palabra: VESTIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VESTIR
+
+- Gén_3:21Dios hizo al...túnicas de...y los vistióH3847
+- Gén_27:15Rebeca...vistió a Jacob su hijo menorH3847
+- Gén_28:20y me diere pan...y vestido para vestirH3847
+- Gén_38:19sí, y se vistió las ropas de su viudezH3847
+- Gén_41:42hizo vestir de ropas de lino finísimoH3847
+- Éxo_28:41con ellos vestirás a Aarón tu hermanoH3847
+- Éxo_29:5y vestirás a Aarón la túnica, el mantoH3847
+- Éxo_29:8sus hijos, y les vestirás las túnicasH3801
+- Éxo_29:30siete días las vestirá el que de susH3847
+- Éxo_33:4vistieron luto, y ninguno se puso susH7896
+- Éxo_40:13y harás vestir a Aarón las vestidurasH3847
+- Éxo_40:14sus hijos, y les vestirás las túnicasH3847
+- Lev_6:10vestirá calzoncillos de lino sobre suH4055
+- Lev_8:7le vistió después el manto y puso sobreH4598
+- Lev_8:13hizo acercarse...les vistió las túnicasH3801
+- Lev_16:4vestirá la...túnica santa de lino, y sobreH3847
+- Lev_16:4ellas se ha de vestir después de lavarH3801
+- Lev_16:23las vestiduras de lino que había vestidoH3847
+- Lev_16:32se vestirá...las vestiduras de lino, lasH3847
+- Núm_20:26y viste con ellas a Eleazar su hijoH3847
+- Núm_20:28las vistió a Eleazar su hijo, y AarónH3847
+- Deu_22:5no vestirá la mujer traje de hombreH8071
+- Deu_22:5ni el hombre vestirá...de mujer; porque esH8162
+- Deu_22:11no vestiréis...de lana y lino juntamenteH8162
+- Rut_3:3y vistiéndote tus vestidos, irás a laH7760
+- 1Sa_2:18ministraba en la...vestido de un efodH2296
+- 1Sa_17:38y Saúl vistió a David con sus ropas, yH4055
+- 1Sa_22:18mató...a 85 varones que vestían efod deH5375
+- 2Sa_1:24os vestía de escarlata con deleitesH3830
+- 2Sa_6:14estaba David vestido con un efod de linoH2296
+- 2Sa_13:18vestían las hijas vírgenes de los reyesH3801
+- 2Sa_13:19ropa de colores de que estaba vestidaH3801
+- 2Sa_14:2te vistas ropas de luto, y no te unjasH3847
+- 1Re_22:10vestidos de sus ropas reales, en laH3847
+- 1Cr_15:27y David iba vestido de lino finoH4598
+- 2Cr_5:12levitas cantores...vestidos de linoH3847
+- 2Cr_6:41vestidos de salvación tus sacerdotes, yH3847
+- 2Cr_18:9su trono, vestidos con sus ropas realesH3847, [[[[H3847]]]]
+- 2Cr_18:29yo me...pero tú vístele tus ropas realesH3847
+- 2Cr_20:21que cantasen y...vestidos de ornamentos
+- 2Cr_28:15del despojo vistieron a los...desnudosH3847
+- 2Cr_28:15vistieron, los calzaron, y les dieronH3847
+- Esd_3:10los sacerdotes vestidos de sus ropasH3847
+- Est_4:1se vistió de cilicio y de ceniza, y seH3847
+- Est_4:4vestidos para hacer vestir a MardoqueoH3847
+- Est_5:1se vistió Ester su vestido real, y entróH3847
+- Est_6:8el vestido real de que el rey se visteH3830
+- Est_6:9vistan a aquel varón cuya honra desea elH3830
+- Est_6:11Aman...vistió a Mardoqueo, y lo condujoH3830
+- Job_7:5mi carne está vestida de gusanos, y deH3847
+- Job_8:22los que te aborrecen serán vestidos deH3847
+- Job_10:11vestiste de piel y carne, y me tejisteH3847
+- Job_27:17preparado él, mas el justo se vestiráH3847
+- Job_29:14vestía de justicia, y ella me cubríaH3847
+- Job_39:19¿diste...¿vestiste tú su cuello de crinesH3847
+- Job_40:10y vístete de honra y de hermosuraH3847
+- Sal_35:13vestí de cilicio; afligí con ayunoH3830
+- Sal_35:26vístanse de vergüenza y de confusiónH3847
+- Sal_65:13se visten de manadas los llanos, y losH3847
+- Sal_93:1Jehová reina; se vistió...se v, se ciñóH3847
+- Sal_104:1Jehová Dios...te has vestido de gloriaH3847
+- Sal_109:18se vistió de maldición como...vestidoH3847
+- Sal_109:29sean vestidos de ignominia los que meH3847
+- Sal_132:9tus sacerdotes se vistan de justiciaH3847
+- Sal_132:16vestiré de salvación a sus sacerdotesH3847
+- Sal_132:18a sus enemigos vestiré de confusiónH3847
+- Pro_23:21el sueño hará vestir vestidos rotosH3847
+- Pro_31:21familia está vestida de ropas doblesH3847
+- Cnt_5:3he desnudado...¿cómo me he de vestir?[[H3801]]
+- Isa_3:7en mi casa ni hay pan, ni qué vestirH8071
+- Isa_4:1pan, y nos vestiremos de nuestras ropasH3847
+- Isa_22:12a raparse el cabello y a vestir cilicioH2296
+- Isa_22:21vestiré de tus vestiduras, y lo ceñiréH3847
+- Isa_23:18para que coman hasta saciarse, y vistanH4374
+- Isa_49:18de vestidura de honra, serás vestidaH3847
+- Isa_50:3visto de oscuridad los cielos, y hagoH3847
+- Isa_50:9envejecerán como ropa de vestir, seránH3847
+- Isa_51:6la tierra se envejecerá como...de vestirH3847
+- Isa_51:9vístete de poder, oh brazo de JehováH3847
+- Isa_52:1vístete de poder, oh Sion; v tu ropaH3847
+- Isa_59:6sus telas no servirán para vestir, niH3847
+- Isa_59:17de justicia se vistió como de...corazaH3847
+- Isa_61:10me vistió con vestiduras de salvaciónH4598
+- Jer_4:8por esto vestías de cilicio, endechadH2296
+- Jer_4:30aunque te vistas de grana...adornes conH3847
+- Jer_10:9los vestirán de azul y de púrpura, obraH3830
+- Jer_46:4limpiad las lanzas, vestíos las corazasH3847
+- Jer_49:3de Rabá, vestíos de cilicio, endechadH2296
+- Eze_7:27el príncipe se vestirá de tristeza, yH3847
+- Eze_9:2un varón vestido de lino, el cual traíaH3847
+- Eze_9:3y llamó Jehová al varón vestido de linoH3847
+- Eze_9:11el varón vestido de lino, que tenía elH3847
+- Eze_10:2y habló al varón vestido de lino, y leH3847
+- Eze_10:6que al mandar al varón vestido de linoH3847
+- Eze_10:7las manos del que estaba vestido de linoH3847
+- Eze_16:10te vestí de bordado, te calcé de tejónH3847
+- Eze_23:6vestidos de púrpura, gobernadores yH3847
+- Eze_23:12asirios...capitanes, vestidos de ropasH3847
+- Eze_26:16ropas bordadas; de espanto se vestiránH3847
+- Eze_34:3la grosura, y os vestís de la lana; laH3847
+- Eze_42:14se vestirán otros vestidos, y así seH3847
+- Eze_44:17entren...se vestirán vestiduras de linoH3847
+- Eze_44:19y se vestirán de otros vestidos, paraH3847
+- Dan_5:7, Dan_5:16vestido de púrpura, y un collar deH3848
+- Dan_5:29vestir a Daniel de púrpura, y poner enH3848
+- Dan_10:5un varón vestido de lino, y ceñidos susH3847
+- Dan_12:6dijo uno al varón vestido de lino, queH3847
+- Dan_12:7El hombre vestido de lino...sus manos al cielo yH3847
+- Joe_1:8llora tú como joven...vestida de cilicioH2296
+- Jon_3:5vistieron de cilicio desde el mayorH3847
+- Nah_2:3los varones de su...vestidos de grana
+- Sof_1:8a...los que visten vestido extranjeroH4403
+- Hag_1:6os vestís, y no os calentáis; y el queH3847
+- Zac_3:3estaba vestido de vestiduras viles, yH3847
+- Zac_3:4que...te he hecho vestir de ropas de galaH3847
+- Zac_3:5y le vistieron las ropas. Y el ángel deH3847
+- Zac_13:4ni nunca más vestirán el manto vellosoH155
+- Zac_14:14y ropas de vestir, en gran abundanciaH3847
+- Mat_3:4Juan estaba vestido de pelo de camelloG1742
+- Mat_6:25por vuestro cuerpo, qué habéis de vestirG1742
+- Mat_6:29ni aun Salomón...se vistió así como unoG4016
+- Mat_6:30la hierba del campo Dios la viste asíG294
+- Mat_6:31no os...qué beberemos, o qué vestiremosG4016
+- Mat_22:11hombre que no estaba vestido de bodaG1742
+- Mat_22:12entraste...sin estar vestido de boda?[[G1742]]
+- Mar_1:6Juan estaba vestido de pelo de camelloG1746
+- Mar_5:15sentado, vestido, y en su juicio cabalG2439
+- Mar_6:9sandalias, y no vistiesen dos túnicasG1746
+- Mar_15:17le vistieron de púrpura, y...una coronaG1746
+- Luc_8:27y no vestía ropa, ni moraba en casaG2440
+- Luc_8:35sentado...vestido, y en su cabal juicioG2439
+- Luc_12:22no os afanéis...el cuerpo, qué vestiréisG1746
+- Luc_12:27ni aun Salomón...se vistió como uno deG4016
+- Luc_12:28y si así viste Dios la hierba que hoyG294
+- Luc_15:22dijo...Sacad el mejor vestido, y vestidle
+- Luc_16:19hombre rico, que se vestía de púrpuraG1737
+- Luc_23:11vistiéndole de una ropa espléndida; yG2066
+- Jua_19:2le vistieron con un manto de púrpuraG2440
+- Hec_12:21Herodes, vestido de ropas reales, seG1746
+- Rom_13:12obras...vistámonos las armas de la luzG1746
+- Rom_13:14sino vestíos del Señor Jesucristo, y noG1746
+- 1Co_12:23éstos vestimos más dignamente; y losG1746
+- 1Co_15:53corruptible se vista de incorrupciónG1746
+- 1Co_15:53y esto mortal se vista de inmortalidadG1746
+- 1Co_15:54cuando esto corruptible se haya vestidoG1746
+- 1Co_15:54mortal se haya vestido de inmortalidadG1746
+- 2Co_5:3así seremos hallados vestidos, y noG1746
+- Efe_4:24y vestíos del nuevo hombre, creadoG1746
+- Efe_6:11vestíos...toda la armadura de Dios, paraG1746
+- Efe_6:14y vestidos con la coraza de justiciaG1746
+- Col_3:12vestíos, pues, como escogidos de DiosG1746
+- Col_3:14sobre todas estas cosas vestíos de amor
+- 1Ts_5:8habiéndonos vestido con la coraza deG1746
+- Rev_1:13vestido de una ropa que llegaba hastaG4158
+- Rev_3:5que venciere será vestido de vestidurasG4016
+- Rev_3:18vestiduras blancas para vestirte, y queG4016
+- Rev_4:4vi...ancianos, vestidos de ropas blancasG4016
+- Rev_7:9vestidos de ropas blancas, y con palmasG4016
+- Rev_7:13éstos que...vestidos de ropas blancasG4016
+- Rev_11:3dos testigos que profeticen...vestidos deG4016
+- Rev_12:1una mujer vestida del sol, con la lunaG4016
+- Rev_15:6siete ángeles...vestidos de lino limpioG4016
+- Rev_17:4y la mujer estaba vestida de púrpura yG4016
+- Rev_18:16la gran ciudad, que estaba vestida deG4016
+- Rev_19:8se le ha concedido que se vista de linoG4016
+- Rev_19:13vestido de una ropa teñida en sangreG4016
+- Rev_19:14vestidos de lino finísimo...le seguíanG4016

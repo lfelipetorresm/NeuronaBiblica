@@ -1,0 +1,276 @@
+---
+tipo: concordancia
+palabra: DISCÍPULO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DISCÍPULO, A
+
+- 1Cr_25:8turnos...mismo el maestro que el dH8527
+- Isa_8:16testimonio, sella la ley entre mis dH3928
+- Mat_5:1subió...sentándose, vinieron a él sus dG3101
+- Mat_8:21de sus d le dijo: Señor, permíteme queG3101
+- Mat_8:23entrado él en la barca...d le siguieronG3101
+- Mat_8:25vinieron...d y le despertaron, diciendoG3101
+- Mat_9:10se sentaron...a la mesa con Jesús y sus dG3101
+- Mat_9:11los fariseos, dijeron a los d: ¿Por quéG3101
+- Mat_9:14vinieron a él los d de Juan, diciendoG3101
+- Mat_9:14¿por qué...ayunamos...y tus d no ayunan?[[G3101]]
+- Mat_9:19se levantó Jesús, y le siguió con sus dG3101
+- Mat_9:37a sus d: A la verdad la mies es muchaG3101
+- Mat_10:1llamando a sus doce d, les dio autoridadG3101
+- Mat_10:24el d no es más que su maestro, ni elG3101
+- Mat_10:25bástale al d ser como su maestro, y alG3101
+- Mat_10:42agua fría solamente, por cuanto es dG3101
+- Mat_11:1terminó de dar instrucciones a sus...dG3101
+- Mat_11:2al oír Juan, en la...le envió dos de sus dG3101
+- Mat_12:1y sus d tuvieron hambre, y comenzaron aG3101
+- Mat_12:2tus d hacen lo que no es lícito hacer enG3101
+- Mat_12:49extendiendo su mano hacia sus d, dijoG3101
+- Mat_13:10acercándose los d, le dijeron: ¿Por quéG3101
+- Mat_13:36y acercándose a él sus d, le dijeronG3101
+- Mat_14:12llegaron sus d, y tomaron el cuerpo yG3101
+- Mat_14:15se acercaron a él sus d, diciendo: ElG3101
+- Mat_14:19y dio los panes a los d, y los d a laG3101
+- Mat_14:22hizo a sus d entrar en la barca e irG3101
+- Mat_14:26y los d, viéndole andar sobre el marG3101
+- Mat_15:2¿por qué tus d quebrantan la tradiciónG3101
+- Mat_15:12acercándose sus d, le dijeron: ¿SabesG3101
+- Mat_15:23acercándose sus d, le rogaron, diciendoG3101
+- Mat_15:32Jesús, llamando a sus d, dijo: TengoG3101
+- Mat_15:33sus d le dijeron: ¿De dónde tenemosG3101
+- Mat_15:36los partió y dio a sus d, y los d a laG3101
+- Mat_16:5llegando sus d al otro lado, se habíanG3101
+- Mat_16:13a sus d...¿Quién dicen...que es el HijoG3101
+- Mat_16:20mandó a sus d que a nadie dijesen queG3101
+- Mat_16:21comenzó Jesús a declarar a sus d queG3101
+- Mat_16:24dijo a sus d: Si alguno quiere venir enG3101
+- Mat_17:6al oír esto los d, se postraron sobreG3101
+- Mat_17:10sus d le preguntaron, diciendo: ¿PorG3101
+- Mat_17:13d comprendieron que les había habladoG3101
+- Mat_17:16y lo he traído a tus d, pero no le hanG3101
+- Mat_17:19viniendo...d a Jesús, aparte, dijeronG3101
+- Mat_18:1los d vinieron a Jesús, diciendo: ¿QuiénG3101
+- Mat_19:10dijeron sus d: Si así es la condiciónG3101
+- Mat_19:13unos niños...y los d les reprendieronG3101
+- Mat_19:23Jesús dijo a sus d: De cierto os digoG3101
+- Mat_19:25sus d, oyendo esto, se asombraron enG3101
+- Mat_20:17tomó a sus doce d aparte en el caminoG3101
+- Mat_21:1vinieron a Betfagé...Jesús envió dos dG3101
+- Mat_21:6los d fueron, e hicieron como Jesús lesG3101
+- Mat_21:20viendo esto los d, decían...¿Cómo es queG3101
+- Mat_22:16y le enviaron los d de ellos con losG3101
+- Mat_23:1habló Jesús a la...y a sus d, diciendoG3101
+- Mat_24:1se acercaron sus d para mostrarle losG3101
+- Mat_24:3los d se le acercaron aparte, diciendoG3101
+- Mat_26:1acabado Jesús...palabras, dijo a sus dG3101
+- Mat_26:8los d se enojaron, diciendo: ¿Para quéG3101
+- Mat_26:17sin levadura, vinieron los d a JesúsG3101
+- Mat_26:18tu casa celebraré la pascua con mis dG3101
+- Mat_26:19y los d hicieron como Jesús les mandóG3101
+- Mat_26:26y dio a sus d, y dijo: Tomad, comedG3101
+- Mat_26:35morir...Y todos los d dijeron lo mismoG3101
+- Mat_26:36entonces...dijo a sus d: Sentaos aquíG3101
+- Mat_26:40vino...a sus d, y los halló durmiendoG3101
+- Mat_26:45vino a sus d y les dijo: Dormid ya, yG3101
+- Mat_26:56entonces...los d, dejándole, huyeronG3101
+- Mat_27:57José, que también había sido d de JesúsG3100
+- Mat_27:64que vengan sus d de noche, y lo hurtenG3101
+- Mat_28:7id...y decid a sus d que ha resucitadoG3101
+- Mat_28:8ellas...fueron...a dar las nuevas a sus dG3101
+- Mat_28:8mientras iban a dar las nuevas a los dG3101
+- Mat_28:13decid vosotros: Sus d vinieron de nocheG3101
+- Mat_28:16pero los once d se fueron a Galilea, alG3101
+- Mat_28:19id, y haced d a todas las nacionesG3100
+- Mar_2:15también a la mesa...con Jesús y sus dG3101
+- Mar_2:16dijeron a los d: ¿Qué es esto, que élG3101
+- Mar_2:18y los d de Juan...ayunaban; y vinieronG3101
+- Mar_2:18¿por qué los d de...y tus d no ayunan?[[G3101]]
+- Mar_2:23sus d...comenzaron a arrancar espigasG3101
+- Mar_3:7Jesús se retiró al mar con sus d, y leG3101
+- Mar_3:9dijo a sus d que le tuviesen...la barcaG3101
+- Mar_4:34a sus d en particular les declaraba todoG3101
+- Mar_5:31sus d le dijeron: Ves que la multitud teG3101
+- Mar_6:1y vino a su tierra, y le seguían sus dG3101
+- Mar_6:29cuando oyeron esto sus d, vinieron yG3101
+- Mar_6:35sus d se acercaron a él, diciendo: ElG3101
+- Mar_6:41y partió los panes, y dio a sus d paraG3101
+- Mar_6:45a sus d entrar en la barca e ir delanteG3101
+- Mar_7:2algunos de los d de Jesús comer pan conG3101
+- Mar_7:5¿por qué tus d no andan conforme a laG3101
+- Mar_7:17le preguntaron sus d sobre la parábolaG3101
+- Mar_8:1no tenían qué comer, Jesús llamó a sus dG3101
+- Mar_8:4sus d le respondieron: ¿De dónde podráG3101
+- Mar_8:6dado gracias, los partió, y dio a sus dG3101
+- Mar_8:10entrando en la barca con sus d vino aG3101
+- Mar_8:27salieron Jesús y sus d por las aldeasG3101
+- Mar_8:27preguntó a sus d, diciéndoles: ¿QuiénG3101
+- Mar_8:33él...mirando a los d, reprendió a PedroG3101
+- Mar_8:34llamando...a sus d, les dijo: Si algunoG3101
+- Mar_9:14cuando llegó a donde estaban los d, vioG3101
+- Mar_9:18dije a tus d que lo echasen fuera, y noG3101
+- Mar_9:28sus d le preguntaron aparte: ¿Por quéG3101
+- Mar_9:31enseñaba a sus d, y les decía: El HijoG3101
+- Mar_10:10en casa volvieron los d a preguntarleG3101
+- Mar_10:13d reprendían a los que los presentabanG3101
+- Mar_10:23a sus d: ¡Cuán difícilmente entraránG3101
+- Mar_10:24los d se asombraron de sus palabrasG3101
+- Mar_10:46salir de Jericó él y sus d y una granG3101
+- Mar_11:1se acercaban...Jesús envió dos de sus dG3101
+- Mar_11:14jamás coma nadie fruto...los oyeron sus dG3101
+- Mar_12:43llamando a sus d, les dijo: De ciertoG3101
+- Mar_13:1dijo uno de sus d: Maestro, mira quéG3101
+- Mar_14:12sus d le dijeron: ¿Dónde quieres queG3101
+- Mar_14:13envió dos de sus d, y les dijo: Id aG3101
+- Mar_14:14donde he de comer la pascua con mis dG3101
+- Mar_14:16fueron sus d y entraron en la ciudadG3101
+- Mar_14:32y dijo a sus d: Sentaos aquí, entreG3101
+- Mar_14:50entonces...los d, dejándole, huyeron
+- Mar_16:7sus d, y a Pedro, que él va delante deG3101
+- Luc_5:30los fariseos murmuraban contra los dG3101
+- Luc_5:33¿por qué los d de Juan ayunan muchasG3101
+- Luc_6:1que...sus d arrancaban espigas y comíanG3101
+- Luc_6:13llamó a sus d, y escogió a doce de ellosG3101
+- Luc_6:17se detuvo en un...en compañía de sus dG3101
+- Luc_6:20y alzando los ojos hacia sus d, decíaG3101
+- Luc_6:40el d no es superior a su maestro; masG3101
+- Luc_7:11iban con él muchos de sus d, y una granG3101
+- Luc_7:18d de Juan le dieron las nuevas de todasG3101
+- Luc_7:18las nuevas...Y llamó Juan a dos de sus dG3101
+- Luc_8:9y sus d le preguntaron...¿Qué significaG3101
+- Luc_8:22día, que entró en una barca con sus dG3101
+- Luc_9:1habiendo reunido a sus doce d, les dioG3101
+- Luc_9:14dijo a sus d: Hacedlos sentar en gruposG3101
+- Luc_9:16a sus d para que les pusiesen delanteG3101
+- Luc_9:18estaban con él los d; y les preguntóG3101
+- Luc_9:40rogué a tus d que le echasen fuera, y noG3101
+- Luc_9:43maravillándose todos de...dijo a sus dG3101
+- Luc_9:54viendo esto...d Jacobo y Juan, dijeronG3101
+- Luc_10:23volviéndose a los d, les dijo aparteG3101
+- Luc_11:1uno de sus d le dijo: Señor, enséñanosG3101
+- Luc_11:1orar, como también Juan enseñó a sus dG3101
+- Luc_12:1decir a sus d: Guardaos de la levaduraG3101
+- Luc_12:22dijo luego a sus d: Por tanto os digoG3101
+- Luc_14:26no aborrece...vida, no puede ser mi dG3101
+- Luc_14:27no lleva su cruz y...no puede ser mi dG3101
+- Luc_14:33no renuncia a todo...no puede ser mi dG3101
+- Luc_16:1dijo...a sus d: Había un hombre rico queG3101
+- Luc_17:1dijo Jesús a sus d: Imposible es que noG3101
+- Luc_17:22y dijo a sus d: Tiempo vendrá cuandoG3101
+- Luc_18:15lo cual viendo los d, les reprendieronG3101
+- Luc_19:29llegando cerca de...envió dos de sus dG3101
+- Luc_19:37la multitud de los d...comenzó a alabarG3101
+- Luc_19:39le dijeron: Maestro, reprende a tus dG3101
+- Luc_20:45oyéndole todo el pueblo, dijo a sus dG3101
+- Luc_22:11donde he de comer la pascua con mis d?[[G3101]]
+- Luc_22:39se fue...y sus d también le siguieronG3101
+- Luc_22:45y vino a sus d, los halló durmiendoG3101
+- Jua_1:35otra vez estaba Juan, y dos de sus dG3101
+- Jua_1:37oyeron...los dos d, y siguieron a JesúsG3101
+- Jua_2:2fueron también invitados...Jesús y sus dG3101
+- Jua_2:11manifestó su gloria; y sus d creyeronG3101
+- Jua_2:12descendieron a Capemaum, él...y sus dG3101
+- Jua_2:17se acordaron sus d que está escrito: ElG3101
+- Jua_2:22sus d se acordaron que había dicho estoG3101
+- Jua_3:22Jesús con sus d a la tierra de JudeaG3101
+- Jua_3:25hubo discusión entre los d de Juan y losG3101
+- Jua_4:1oído decir: Jesús hace y bautiza más dG3101
+- Jua_4:2aunque Jesús no bautizaba, sino sus dG3101
+- Jua_4:8sus d habían ido a la...a comprar de comerG3101
+- Jua_4:27vinieron sus d, y se maravillaron de queG3101
+- Jua_4:31los d le rogaban, diciendo: Rabí, comeG3101
+- Jua_4:33los d decían...¿Le habrá traído alguienG3101
+- Jua_6:3subió Jesús...y se sentó allí con sus dG3101
+- Jua_6:8uno de sus d, Andrés, hermano de SimónG3101
+- Jua_6:11los repartió entre los d, y los d entreG3101
+- Jua_6:12dijo a sus d: Recoged los pedazos queG3101
+- Jua_6:16al anochecer, descendieron sus d al marG3101
+- Jua_6:22Jesús no había entrado en ella con...dG3101
+- Jua_6:24vio...que Jesús no estaba allí, ni sus dG3101
+- Jua_6:60muchos de sus d dijeron: Dura es estaG3101
+- Jua_6:61sabiendo Jesús en...que sus d murmurabanG3101
+- Jua_6:66muchos de sus d volvieron atrás, y ya noG3101
+- Jua_7:3también tus d vean las obras que hacesG3101
+- Jua_8:31si permanecieres en mi palabra...mis dG3101
+- Jua_9:2le preguntaron sus d...¿quién pecó, ésteG3101
+- Jua_9:27queréis también vosotros haceros sus d?[[G3101]]
+- Jua_9:28tú eres su d; pero nosotros, d de MoisésG3101
+- Jua_11:7dijo a los d: Vamos a Judea otra vezG3101
+- Jua_11:8le dijeron los d: Rabí, ahora procurabanG3101
+- Jua_11:12dijeron...d: Señor, si duerme, sanaráG3101
+- Jua_11:54se alejó de...y se quedó allí con sus dG3101
+- Jua_12:4dijo uno de sus d, Judas Iscariote hijoG3101
+- Jua_12:16estas cosas no las entendieron sus dG3101
+- Jua_13:5comenzó a lavar los pies de los d, y aG3101
+- Jua_13:22los d se miraban unos a otros, dudandoG3101
+- Jua_13:23y uno de sus d, al cual Jesús amabaG3101
+- Jua_13:35en esto conocerán todos que sois mis dG3101
+- Jua_15:8llevéis mucho fruto, y seáis así mis dG3101
+- Jua_16:17dijeron algunos de sus d...¿Qué es estoG3101
+- Jua_16:29dijeron sus d...ahora hablas claramenteG3101
+- Jua_18:1con sus d al otro lado del torrente deG3101
+- Jua_18:1un huerto, en el cual entró con sus dG3101
+- Jua_18:2Jesús se había reunido allí con sus dG3101
+- Jua_18:15seguían a Jesús Simón Pedro y otro dG3101
+- Jua_18:15este d era conocido del sumo sacerdoteG3101
+- Jua_18:16salió...el d que era conocido del sumoG3101
+- Jua_18:17¿no eres tú también de los d de esteG3101
+- Jua_18:19preguntó a Jesús acerca de sus d y deG3101
+- Jua_18:25dijeron: ¿No eres tú de sus d? El negóG3101
+- Jua_19:26vio Jesús a...y al d a quien él amabaG3101
+- Jua_19:27dijo al d: He aquí tu madre. Y desdeG3101
+- Jua_19:27desde aquella hora el d la recibió enG3101
+- Jua_19:38José de Arimatea, que era d de JesúsG3101
+- Jua_20:2corrió, y fue a Simón Pedro y al otro dG3101
+- Jua_20:3y salieron Pedro y el otro d, y fueronG3101
+- Jua_20:4el otro d corrió más aprisa que PedroG3101
+- Jua_20:8entonces entró también el otro d, queG3101
+- Jua_20:10y volvieron los d a los suyosG3101
+- Jua_20:18fue...para dar a los d las nuevas de queG3101
+- Jua_20:19el lugar donde los d estaban reunidosG3101
+- Jua_20:20y los d se regocijaron viendo al SeñorG3101
+- Jua_20:25dijeron, pues, los otros d: Al SeñorG3101
+- Jua_20:26estaban otra vez sus d dentro, y conG3101
+- Jua_20:30hizo...señales en presencia de sus dG3101
+- Jua_21:1se manifestó otra vez a sus d Junto alG3101
+- Jua_21:2estaban juntos...y otros dos de sus dG3101
+- Jua_21:4en la playa...d no sabían que era JesúsG3101
+- Jua_21:7d a quien Jesús amaba dijo a Pedro: ¡EsG3101
+- Jua_21:8y los otros d vinieron con la barcaG3101
+- Jua_21:12de los d se atrevía a preguntarle: TúG3101
+- Jua_21:14vez que Jesús se manifestaba a sus dG3101
+- Jua_21:20que les seguía el d a quien amaba JesúsG3101
+- Jua_21:23este dicho se...que aquel d no moriríaG3101
+- Jua_21:24el d que da testimonio de estas cosasG3101
+- Hec_6:1días, como creciera el número de los dG3101
+- Hec_6:2doce convocaron a la multitud de los dG3101
+- Hec_6:7y el número de los d se multiplicabaG3101
+- Hec_9:1amenazas...contra los d del Señor, vino alG3101
+- Hec_9:10había...en Damasco un d llamado AnaníasG3101
+- Hec_9:19estuvo Saulo por algunos días con los dG3101
+- Hec_9:25los d, tomándole de noche, le bajaronG3101
+- Hec_9:26Jerusalén, trataba de juntarse con los dG3101
+- Hec_9:26tenían miedo, no creyendo que fuese dG3101
+- Hec_9:36entonces en Jope una d llamada TabitaG3102
+- Hec_9:38los d, oyendo que Pedro estaba allí, leG3101
+- Hec_11:26y a los d se les llamó cristianos porG3101
+- Hec_11:29los d...determinaron enviar socorro aG3101
+- Hec_13:52y los d estaban llenos de gozo y delG3101
+- Hec_14:20rodeándolo los d, se levantó y entróG3101
+- Hec_14:21después...de hacer muchos d, volvieron
+- Hec_14:22confirmando los ánimos de los dG3101
+- Hec_14:28quedaron allí mucho tiempo con los dG3101
+- Hec_15:10poniendo sobre la cerviz de los d unG3101
+- Hec_16:1había allí cierto d llamado Timoteo, hijoG3101
+- Hec_18:23de Frigia, confirmando a todos los dG3101
+- Hec_18:27escribieron a los d que le recibiesenG3101
+- Hec_19:1vino a Efeso, y hallando a ciertos dG3101
+- Hec_19:9apartó Pablo de ellos y separó a los dG3101
+- Hec_19:30salir al pueblo, los d no le dejaronG3101
+- Hec_20:1cesó el alboroto, llamó Pablo a los dG3101
+- Hec_20:7primer día de la...reunidos los d paraG3101
+- Hec_20:30hombres...para arrastrar tras sí a los dG3101
+- Hec_21:4hallados los d, nos quedamos allí sieteG3101
+- Hec_21:16vinieron...de Cesarea algunos de los dG3101
+- Hec_21:16llamado Mnasón...d antiguo, con quienG3101

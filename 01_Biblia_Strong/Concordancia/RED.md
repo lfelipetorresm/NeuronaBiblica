@@ -1,0 +1,75 @@
+---
+tipo: concordancia
+palabra: RED
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RED
+
+- 1Re_7:17había trenzas a manera de r, y unosH7638
+- 1Re_7:18hileras de granadas alrededor de la rH7639
+- 1Re_7:20globo, el cual estaba rodeado por la rH7639
+- 1Re_7:41y dos r que cubrían los dos capitelesH7639
+- 1Re_7:42granadas para las dos r, dos...en cada rH7639
+- 2Re_25:17y sobre el capitel...una r y granadasH7639
+- 2Re_25:17igual labor...la otra columna con su rH7639
+- 2Cr_4:12dos r para cubrir las dos esferas deH7639
+- 2Cr_4:13dos r, dos hileras de granadas en cada rH7639
+- Job_18:8r será echada a...pies, y sobre mallasH7568
+- Job_19:6sabed ahora que Dios...envuelto en su rH4685
+- Sal_9:15en la r que escondieron fue tomadoH7568
+- Sal_10:9arrebata al pobre trayéndolo a su rH7568
+- Sal_25:15ojos...porque él sacará mis pies de la rH7568
+- Sal_31:4sácame de la r que han escondido para míH7568
+- Sal_35:7sin causa escondieron para mí su r en unH7568
+- Sal_35:8sepa, y la r que él escondió lo prendaH7568
+- Sal_57:6r han armado a mis pasos; se ha abatidoH7568
+- Sal_66:11nos metiste en la r; pusiste sobreH7568
+- Sal_140:5han tendido r junto a la senda; me hanH7568
+- Sal_141:10caigan los impíos a una en...r, mientrasH4365
+- Pro_1:17en vano se tenderá la r ante los ojosH7568
+- Pro_7:23como el ave que se apresura a la r, y noH6341
+- Pro_12:12codicia el impío la r de los malvadosH4686
+- Pro_29:5el hombre que lisonjea...r tiende delanteH7568
+- Ecl_7:26a la mujer cuyo corazón es lazos y rH2764
+- Ecl_9:12los peces que son presos en la mala rH4686
+- Isa_8:14lazo y por r al morador de JerusalénH4170
+- Isa_19:8desfallecerán los que extienden r sobreH4364
+- Isa_19:9lino...los que tejen r serán confundidosH2355
+- Isa_19:10porque todas sus r serán rotas; y se
+- Isa_24:17y r sobre ti, oh morador de la tierraH6341
+- Isa_24:18el que saliere de...será preso en la rH6341
+- Isa_51:20estuvieron...como antílope en la r...deH4364
+- Jer_52:22con una r y granadas alrededor delH7639
+- Jer_52:23ellas eran ciento sobre la r alrededorH7639
+- Lam_1:13ha extendido r a mis pies, me volvióH7568
+- Eze_12:13yo extenderé mi r sobre él, y caeráH7568
+- Eze_17:20extenderé sobre él mi r, y seráH7568
+- Eze_19:8extendieron sobre él su r, y en el fosoH7568
+- Eze_26:5tendedero de r será en medio del marH2764
+- Eze_26:14una pefia lisa; tendedero de r serás, yH2764
+- Eze_32:3yo extenderé sobre ti mi r con reuniónH7568
+- Eze_32:3así ha dicho...te harán subir con mi rH2764
+- Eze_47:10hasta En-eglaim será su tendedero de rH2764
+- Ose_5:1habéis sido lazo en Mizpa, y r tendidaH7564
+- Ose_7:12cuando fueren, tenderé sobre ellos mi rH7568
+- Miq_7:2sangre; cada cual arma r a su hermanoH2764
+- Hab_1:15los recogerá con su r, y los juntaráH2764
+- Hab_1:16esto hará sacrificios a su r, y ofreceráH2764
+- Hab_1:17¿vaciará por eso...r, y no tendrá piedadH2764
+- Mat_4:18y Andrés su hermano, que echaban la rG293
+- Mat_4:20dejando al instante las r, le siguieronG1350
+- Mat_4:21vio a otros dos...que remendaban sus rG1350
+- Mat_13:47el reino de los...es semejante a una rG4522
+- Mar_1:16vio a Simón y...echaban la r en el marG293
+- Mar_1:18y dejando luego sus r, le siguieronG1350
+- Mar_1:19vio a Jacobo hijo...que remendaban las rG1350
+- Luc_5:2barcas...los pescadores...lavaban sus rG1350
+- Luc_5:4adentro, y echad vuestras r para pescarG1350
+- Luc_5:5Maestro...mas en tu palabra echaré la rG1350
+- Luc_5:6gran cantidad de peces, y su r se rompíaG1350
+- Jua_21:6echad la r a la derecha de la barcaG1350
+- Jua_21:8vinieron con...arrastrando la r de pecesG1350
+- Jua_21:11y sacó la r a tierra...la r no se rompióG1350
+- Rom_11:9sea vuelto su convite en trampa y en rG3803

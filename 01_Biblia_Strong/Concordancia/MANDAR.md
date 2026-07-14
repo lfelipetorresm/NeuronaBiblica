@@ -1,0 +1,544 @@
+---
+tipo: concordancia
+palabra: MANDAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MANDAR
+
+- Gén_2:16mandó Jehová Dios al hombre, diciendoH6680
+- Gén_3:11árbol de que yo te mandé no comieses?[[H6680]]
+- Gén_3:17que te mandé diciendo: No comerás de élH6680
+- Gén_6:22Noé; hizo...todo lo que Dios le mandóH6680
+- Gén_7:5hizo Noé...todo lo que le mandó JehováH6680
+- Gén_7:9macho y hembra, como mandó Dios a NoéH6680
+- Gén_7:16vinieron, como le había mandado DiosH6680
+- Gén_18:19yo sé que mandará a sus hijos y a suH6680
+- Gén_21:4circuncidó...como Dios le había mandadoH6680
+- Gén_26:11Abimelec mandó...pueblo, diciendo: ElH6680
+- Gén_27:8obedece a mi voz en lo que te mandoH6680
+- Gén_28:1Isaac...lo bendijo, y le mandó diciendoH6680
+- Gén_28:6le había mandado diciendo: No tomarásH6680
+- Gén_32:4y les mandó diciendo: Así diréis a miH6680
+- Gén_32:17y mandó al primero, diciendo: Si EsaúH6680
+- Gén_32:19mandó también al segundo, y al terceroH6680
+- Gén_42:25mandó José que llenaran sus sacos deH6680
+- Gén_44:1mandó José al mayordomo de su casaH6680
+- Gén_45:19y tú manda: Haced esto: tomaos de laH6680
+- Gén_47:11tierra de Ramesés, como mandó FaraónH6680
+- Gén_49:29les mandó luego, y les dijo: Yo voy aH6680
+- Gén_50:2mandó José a sus siervos los médicos queH6680
+- Gén_50:12hicieron, pues...según les había mandadoH6680
+- Gén_50:16José: Tu padre mandó antes de su muerteH6680
+- Éxo_1:17y no hicieron como les mandó el reyH1696
+- Éxo_1:22entonces Faraón mandó a todo su puebloH6680
+- Éxo_5:6y mandó Faraón...a los cuadrilleros delH6680
+- Éxo_7:2tú dirás todas las cosas que yo te mandeH6680
+- Éxo_7:6e hizo Moisés y...como Jehová les mandóH6680
+- Éxo_7:10hicieron como Jehová lo había mandadoH6680
+- Éxo_7:20y Aarón hicieron como Jehová lo mandóH6680
+- Éxo_8:12tocante a las ranas que había mandadoH7760
+- Éxo_12:28hicieron...como Jehová había mandado aH6680
+- Éxo_12:50como mandó Jehová a Moisés...hicieronH6680
+- Éxo_16:16es lo que Jehová ha mandado: RecogedH6680
+- Éxo_16:24lo guardaron...según lo...había mandadoH6680
+- Éxo_16:32es lo que Jehová ha mandado: Llenad unH6680
+- Éxo_16:34lo puso...como Jehová lo mandó a MoisésH6680
+- Éxo_18:23si esto hicieres, y Dios te lo mandareH6680
+- Éxo_19:7palabras que Jehová le había mandadoH6680
+- Éxo_19:23has mandado diciendo: Señala límites alH5749
+- Éxo_23:15panes sin levadura, como yo te mandéH6680
+- Éxo_25:22lo que yo te mandare para los hijos deH6680
+- Éxo_27:20mandarás...que te traigan aceite puroH6680
+- Éxo_29:35harás a Aarón y...que yo te he mandadoH6680
+- Éxo_31:6para que hagan todo lo que te he mandadoH6680
+- Éxo_31:11harán conforme...lo que te he mandadoH6680
+- Éxo_32:8apartado del camino que yo les mandéH6680
+- Éxo_34:4y subió al monte...como le mandó JehováH6680
+- Éxo_34:11guarda lo que yo te mando hoy; he aquíH6680
+- Éxo_34:18comerás pan sin...según te he mandadoH6680
+- Éxo_34:32mandó...lo que Jehová le había dicho enH6680
+- Éxo_34:34decía a...Israel lo que le era mandadoH6680
+- Éxo_35:1las cosas que Jehová ha mandado que seH6680
+- Éxo_35:4habló Moisés...lo que Jehová ha mandadoH6680
+- Éxo_35:10hará...las cosas que Jehová ha mandadoH6680
+- Éxo_35:29toda la obra, que Jehová había mandadoH6680
+- Éxo_36:1harán...las cosas que ha mandado JehováH6680
+- Éxo_36:5más...para la obra que Jehová ha mandadoH6680
+- Éxo_36:6entonces Moisés mandó pregonar por elH6680
+- Éxo_38:22hizo...cosas que Jehová mandó a MoisésH6680
+- Éxo_39:1, Éxo_39:5, Éxo_39:7, Éxo_39:21, Éxo_39:31-32; Éxo_40:19, Éxo_40:21, Éxo_40:23, Éxo_40:25, Éxo_40:27, Éxo_40:29, Éxo_40:32como Jehová lo había mandado a MoisésH6680
+- Éxo_39:26, Éxo_39:29como Jehová lo mandó a MoisésH6680
+- Éxo_39:42las cosas que Jehová había mandado aH6680
+- Éxo_39:43habían hecho...Jehová había mandadoH6680
+- Éxo_40:16hizo conforme...lo que Jehová le mandóH6680
+- Lev_6:9manda a Aarón y a sus hijos, y dilesH6680
+- Lev_7:36mandó Jehová que les diesen, desde elH6680
+- Lev_7:38mandó Jehová a Moisés en el monte deH6680
+- Lev_7:38el día que mandó a los hijos de IsraelH6680
+- Lev_8:4hizo, pues, Moisés como Jehová le mandóH6680
+- Lev_8:5esto es lo que Jehová ha mandado hacerH6680
+- Lev_8:9, Lev_8:13, Lev_8:11, Lev_8:21, Lev_8:29; Lev_9:10, Lev_9:21como Jehová lo había mandado a MoisésH6680
+- Lev_8:31según yo he mandado, diciendo: Aarón yH6680
+- Lev_8:34hecho, mandó hacer Jehová para expiarosH6680
+- Lev_8:35ordenanza...porque...me ha sido mandadoH6680
+- Lev_8:36hicieron...las cosas que mandó JehováH6680
+- Lev_9:5y llevaron lo que mandó Moisés delanteH6680
+- Lev_9:6esto es lo que mandó Jehová; hacedlo, yH6680
+- Lev_9:7haz...por ellos, como ha mandado JehováH6680
+- Lev_10:1fuego extraño, que él nunca les mandóH6680
+- Lev_10:13la comeréis...así me ha sido mandadoH6680
+- Lev_10:15tuyo y de...como Jehová lo ha mandadoH6680
+- Lev_10:18vosotros debíais comer...como yo mandéH6680
+- Lev_13:54mandará que laven donde está la plagaH6680
+- Lev_14:4el sacerdote mandará...que se tomen paraH6680
+- Lev_14:5mandará el sacerdote matar una avecillaH6680
+- Lev_14:36el sacerdote mandará desocupar la casaH6680
+- Lev_14:40mandará el sacerdote, y arrancarán lasH6680
+- Lev_14:46durante los días en que la mandó cerrar
+- Lev_16:34y Moisés lo hizo como Jehová le mandóH6680
+- Lev_17:2diles: Esto es lo que ha mandado JehováH6680
+- Lev_24:2manda a los hijos de Israel...te traiganH6680
+- Lev_24:23hicieron según Jehová había mandado aH6680
+- Núm_1:19como Jehová...había mandado a MoisésH6680
+- Núm_1:54conforme a todas las...que mandó JehováH6680
+- Núm_2:33levitas...como Jehová lo mandó a MoisésH6680
+- Núm_2:34todas las cosas que Jehová mandó a MoisésH6680
+- Núm_3:16y Moisés los contó...como le fue mandadoH6680
+- Núm_3:42contó Moisés, como Jehová...mandó, todosH6680
+- Núm_3:51según lo que...había mandado a MoisésH6680
+- Núm_4:37, Núm_4:45contaron Moisés...lo mandó JehováH6310
+- Núm_4:49como...mandó Jehová por medio de MoisésH6680
+- Núm_4:49los cuales contó él, como le fue mandadoH6310
+- Núm_5:2manda a los hijos de Israel que echen delH6680
+- Núm_8:3encendió...como Jehová lo mandó a MoisésH6680
+- Núm_8:20conforme a...las cosas que mandó JehováH6680
+- Núm_8:22de la manera que mandó Jehová a MoisésH6680
+- Núm_9:5conforme a...las cosas que mandó JehováH6680
+- Núm_15:23las cosas que Jehová os ha mandado porH6680
+- Núm_15:23desde el día que Jehová lo mandó, y enH6680
+- Núm_15:36lo apedrearon...Jehová mandó a MoisésH6680
+- Núm_17:11hizo Moisés como le mandó Jehová, asíH6680
+- Núm_20:9Moisés tomó la vara...como él le mandóH6680
+- Núm_20:27y Moisés hizo como Jehová le mandóH6680
+- Núm_26:4contaréis...como mandó Jehová a MoisésH6680
+- Núm_27:11estatuto...como Jehová mandó a MoisésH6680
+- Núm_27:22hizo como Jehová le había mandado, puesH6680
+- Núm_27:23como Jehová había mandado por mano deH1696
+- Núm_28:2manda a los hijos de Israel, y dilesH6680
+- Núm_29:40dijo...lo que Jehová le había mandadoH6680
+- Núm_30:1habló...Esto es lo que Jehová ha mandadoH6680
+- Núm_30:16ordenanzas que Jehová mandó a MoisésH6680
+- Núm_31:7, Núm_31:31, Núm_31:41como Jehová lo mandó a MoisésH6680
+- Núm_31:21es la ordenanza...que Jehová ha mandadoH6680
+- Núm_31:47como Jehová lo había mandado a MoisésH6680
+- Núm_32:25siervos harán como mi señor ha mandadoH6680
+- Núm_34:2manda a los hijos de Israel y dilesH6680
+- Núm_34:13y mandó Moisés a los hijos de IsraelH6680
+- Núm_34:13la tierra...que mandó Jehová que dieseH6680
+- Núm_34:29a éstos mandó Jehová que hiciesen laH6680
+- Núm_35:2manda a los hijos de Israel que den aH6680
+- Núm_36:2Jehová mandó...que por sorteo diese laH6680
+- Núm_36:2ha mandado Jehová...que dé la posesiónH6680
+- Núm_36:5Moisés mandó a los hijos de Israel porH6680
+- Núm_36:6es lo que ha mandado Jehová acerca deH6680
+- Núm_36:10como Jehová mandó...hicieron las hijasH6680
+- Núm_36:13estatutos que mandó Jehová por medioH6680
+- Deu_1:3hablé a...que Jehová le había mandadoH6680
+- Deu_1:16mandé a vuestros jueces, diciendo: OídH6680
+- Deu_1:18os mandé, pues...lo que habíais de hacerH6680
+- Deu_1:19como Jehová nuestro Dios nos lo mandóH6680
+- Deu_1:41conforme a...lo que Jehová...ha mandadoH6680
+- Deu_2:4manda al pueblo, diciendo: Pasando...EsaúH6680
+- Deu_3:18os mandé...diciendo: Jehová vuestro DiosH6680
+- Deu_3:28manda a Josué, y anímalo, y fortaléceloH6680
+- Deu_4:2no añadiréis a la palabra que...os mandoH6680
+- Deu_4:5enseñado...como Jehová mi Dios me mandóH6680
+- Deu_4:13pacto, el cual os mandó poner por obraH6680
+- Deu_4:14me mandó Jehová en...que os enseñase losH6680
+- Deu_4:40estatutos...los cuales yo te mando hoyH6680
+- Deu_5:12guardarás el día...tu Dios te ha mandadoH6680
+- Deu_5:15ha mandado que guardes el día de reposoH6680
+- Deu_5:16honra a tu padre...tu Dios te ha mandadoH6680
+- Deu_5:32que hagáis como Jehová...os ha mandadoH6680
+- Deu_5:33camino que Jehová...Dios os ha mandadoH6680
+- Deu_6:1decretos que...Dios mandó que os enseñaseH6680
+- Deu_6:2guardando...mandamientos que yo te mandoH6680
+- Deu_6:6palabras que yo te mando...estarán sobreH6680
+- Deu_6:17guardad...sus estatutos que te ha mandadoH6680
+- Deu_6:20y decretos que Jehová...Dios os mandó?[[H6680]]
+- Deu_6:24mandó...cumplamos todos estos estatutosH6680
+- Deu_6:25poner por obra...como él nos ha mandadoH6680
+- Deu_7:11guarda...y decretos que yo te mando hoyH6680
+- Deu_9:12han apartado del camino que yo les mandéH6680
+- Deu_9:16del camino que Jehová os había mandadoH6680
+- Deu_10:5arca...allí están, como Jehová me mandóH6680
+- Deu_12:11allí llevaréis...cosas que yo os mandoH6680
+- Deu_12:14y allí harás todo lo que yo te mandoH6680
+- Deu_12:21podrás matar...como te he mandado yo, yH6680
+- Deu_12:28escucha...estas palabras que yo te mandoH6680
+- Deu_12:32cuidarás de hacer...lo que yo te mandoH6680
+- Deu_13:5por el cual Jehová...mandó que anduviesesH6680
+- Deu_13:18sus mandamientos que yo te mando hoyH6680
+- Deu_15:11yo te mando, diciendo: Abrirás tu manoH6680
+- Deu_15:15te rescató; por tanto yo te mando estoH6680
+- Deu_18:18les hablará todo lo que yo le mandareH6680
+- Deu_18:20a quien yo no le haya mandado hablarH6680
+- Deu_19:7por tanto yo te mando...Separarás tresH6680
+- Deu_20:17los destruirás...tu Dios te ha mandadoH6680
+- Deu_24:8según yo les he mandado, así cuidaréisH6680
+- Deu_24:18, Deu_24:22por tanto, yo te mando que hagasH6680
+- Deu_26:13-14conforme a...lo que me has mandadoH6680
+- Deu_26:16te manda...que cumplas estos estatutosH6680
+- Deu_27:4levantarás...piedras que yo os mando hoyH6680
+- Deu_27:11y mandó Moisés al pueblo en aquel díaH6680
+- Deu_28:14todas las palabras que yo te mando hoyH6680
+- Deu_28:45guardar...sus estatutos, que él te mandóH6680
+- Deu_29:1las palabras...que Jehová mandó a MoisésH6680
+- Deu_30:2y obedecieres a...lo que yo te mando hoyH6680
+- Deu_30:16yo te mando hoy que ames a Jehová tuH6680
+- Deu_31:5haréis con ellos...lo que os he mandadoH6680
+- Deu_31:10les mandó Moisés, diciendo: Al fin deH6680
+- Deu_31:29os apartaréis del camino...he mandadoH6680
+- Deu_32:46para que las mandéis a vuestros hijosH6680
+- Deu_34:9e hicieron como Jehová mandó a MoisésH6680
+- Jos_1:7la ley que mi siervo Moisés te mandóH6680
+- Jos_1:9mira que te mando que te esfuerces y seasH6680
+- Jos_1:10Josué mandó a los oficiales del puebloH6680
+- Jos_1:11mandad al pueblo, diciendo: PreparaosH6680
+- Jos_1:13la palabra que Moisés...mandó diciendoH6680
+- Jos_1:16haremos...las cosas que nos has mandadoH6680
+- Jos_1:16e iremos adondequiera que nos mandesH6680
+- Jos_1:18no obedeciere...las cosas que le mandesH6680
+- Jos_3:3y mandaron al pueblo, diciendo: CuandoH6680
+- Jos_3:8mandarás a los sacerdotes que llevan elH6680
+- Jos_4:3mandadles, diciendo: Tomad...del JordánH6680
+- Jos_4:8Israel lo hicieron...como Josué les mandóH6680
+- Jos_4:10lo que Jehová había mandado a Josué queH6680
+- Jos_4:10cosas que Moisés había mandado a JosuéH6680
+- Jos_4:16manda a...sacerdotes que llevan el arcaH6680
+- Jos_4:17Josué mandó a los sacerdotes...Subid delH6680
+- Jos_6:10Josué mandó al pueblo...no gritaréis, niH6680
+- Jos_7:11quebrantado mi pacto que yo les mandéH6680
+- Jos_8:4y les mandó, diciendo: Atended, pondréisH6680
+- Jos_8:8conforme a...mirad que os lo he mandadoH6680
+- Jos_8:27palabra de Jehová que le había mandadoH6680
+- Jos_8:29mandó Josué que quitasen del madero suH6680
+- Jos_8:31como Moisés...lo había mandado a...IsraelH6680
+- Jos_8:33que Moisés, siervo de...lo había mandadoH6680
+- Jos_8:35todo cuanto mandó Moisés...hiciese leerH6680
+- Jos_9:24Dios había mandado a Moisés su siervoH6680
+- Jos_10:27mandó Josué que los quitasen de losH6680
+- Jos_10:40mató, como Jehová...se lo había mandadoH6680
+- Jos_11:9con ellos como Jehová le había mandadoH559
+- Jos_11:12como Moisés siervo...lo había mandadoH6680
+- Jos_11:15, Jos_11:20Jehová lo había mandado a MoisésH6680
+- Jos_11:15Moisés lo mandó a Josué; y así JosuéH6680
+- Jos_11:15lo que Jehová había mandado a MoisésH6680
+- Jos_13:6repartirás...por suerte...te he mandadoH6680
+- Jos_14:2como Jehová había mandado a Moisés queH6680
+- Jos_14:5Jehová lo había mandado a Moisés, así loH6680
+- Jos_17:4mandó a Moisés que nos diese heredadH6680
+- Jos_18:8mandó Josué a...que iban para delinearH6680
+- Jos_21:2Jehová mandó...nos fuesen dadas ciudadesH6680
+- Jos_21:8dieron, pues...como había mandado JehováH6680
+- Jos_22:2guardado todo lo que Moisés...os mandóH6680
+- Jos_22:2habéis obedecido...lo que os he mandadoH6680
+- Jos_23:16el pacto de...Dios que él os ha mandadoH6680
+- Jue_4:6dijo: ¿No te ha mandado Jehová DiosH6680
+- Jue_13:14no beberá vino...todo lo que le mandéH6680
+- Jue_21:10y les mandaron, diciendo: Id y heridH6680
+- Jue_21:20mandaron a...Benjamín, diciendo: Id, yH6680
+- Rut_2:9mandado a los criados...no te molestenH6680
+- Rut_2:15Booz mandó a sus...diciendo: Que recojaH6680
+- Rut_3:5respondió: Haré todo lo que tú me mandesH559
+- Rut_3:6hizo...lo que su suegra le había mandadoH6680
+- 1Sa_2:29mis ofrendas, que yo mandé ofrecer enH6680
+- 1Sa_13:14no has guardado lo que Jehová te mandóH6680
+- 1Sa_17:20se fue con...como Isaí le había mandadoH6680
+- 1Sa_18:22y mandó Saúl a sus siervos: Hablad enH6680
+- 1Sa_20:29dejes ir...mi hermano me lo ha mandadoH6680
+- 2Sa_5:25así, como Jehová se lo había mandadoH6680
+- 2Sa_7:7a quien haya mandado apacentar a...IsraelH6680
+- 2Sa_9:11ha mandado mi señor...lo hará tu siervoH6680
+- 2Sa_11:19mandó al mensajero, diciendo: CuandoH6680
+- 2Sa_13:28y no temáis, pues yo os lo he mandadoH6680
+- 2Sa_13:29los criados...Absalón les había mandadoH6680
+- 2Sa_14:19Joab, él me mandó, y él puso en boca deH6680
+- 2Sa_14:29mandó Absalón por Joab, para enviarloH7971
+- 2Sa_18:5el rey mandó a Joab, a Abisai y a ItaiH6680
+- 2Sa_18:12el rey te mandó...diciendo: Mirad queH6680
+- 2Sa_21:14e hicieron todo lo que...había mandadoH6680
+- 2Sa_24:19subió David...había mandado JehováH6680
+- 1Re_2:46el rey mandó a Benaía...el cual salióH6680
+- 1Re_5:6manda...que me corten cedros del LíbanoH6680
+- 1Re_5:8he oído lo que me mandaste a decir; yoH7971
+- 1Re_5:17y mandó el rey que trajesen piedrasH6680
+- 1Re_8:44batalla...por el camino que tú les mandesH7971
+- 1Re_8:58los cuales mandó a nuestros padresH6680
+- 1Re_9:4haciendo...cosas que yo te he mandado, yH6680
+- 1Re_11:10y le había mandado...que no siguiese aH6680
+- 1Re_11:10mas él no guardó lo que le mandó JehováH6680
+- 1Re_11:11no has guardado mi pacto...yo te mandéH6680
+- 1Re_11:38oído a todas las cosas que te mandareH6680
+- 1Re_12:12vino...según el rey lo había mandadoH1696
+- 1Re_15:5cosa que le mandase se había apartadoH6680
+- 1Re_17:4yo he mandado a los cuervos que te denH6680
+- 1Re_20:9haré todo lo que mandaste a tu siervoH7971
+- 1Re_21:11los...hicieron como Jezabel les mandóH7971
+- 1Re_22:31había mandado a sus 32 capitanes deH6680
+- 2Re_5:13si el...te mandara alguna gran cosaH1696
+- 2Re_5:24luego mandó a los hombres...se fuesenH7971
+- 2Re_10:5tuyos...haremos todo lo que nos mandesH559
+- 2Re_11:5mandó diciendo: Esto es lo que habéisH6680
+- 2Re_11:9hicieron todo como...Joiada les mandóH6680
+- 2Re_11:15Joiada mandó a los jefes de centenasH6680
+- 2Re_14:6Jehová mandó...No matarán a los padresH6680
+- 2Re_16:15mandó el rey Acaz al sacerdote UríasH6680
+- 2Re_16:16hizo...cosas que el rey Acaz le mandóH6680
+- 2Re_17:15les había mandado que no hiciesen a laH6680
+- 2Re_17:27rey de Asiria mandó, diciendo: LlevadH6680
+- 2Re_17:35les mandó diciendo: No temeréis a otrosH6680
+- 2Re_18:12las cosas que Moisés...había mandadoH6680
+- 2Re_21:8hagan...las cosas que yo les he mandadoH6680
+- 2Re_21:8la ley que mi siervo Moisés les mandóH6680
+- 2Re_23:1rey mandó reunir...a todos los ancianosH7971
+- 2Re_23:4mandó el rey al sumo sacerdote HilcíasH6680
+- 2Re_23:21mandó el rey a todo...Haced la pascuaH6680
+- 1Cr_6:49todo lo que Moisés...había mandadoH6680
+- 1Cr_14:16hizo, pues, David como Dios le mandóH6680
+- 1Cr_15:15el arca...como lo había mandado MoisésH6680
+- 1Cr_16:15de la palabra que él mandó para milH6680
+- 1Cr_17:6los cuales mandé que apacentasen a miH6680
+- 1Cr_19:5el rey mandó que les dijeran: Estaos enH7971
+- 1Cr_22:2mandó...que se reuniese a los extranjerosH559
+- 1Cr_22:6y le mandó que edificase casa a JehováH6680
+- 1Cr_22:13y decretos que Jehová mandó a MoisésH6680
+- 1Cr_22:17mandó David...que ayudasen a SalomónH6680
+- 1Cr_24:19que le había mandado Jehová el Dios deH6680
+- 2Cr_7:13mandaron a la langosta que consumaH6680
+- 2Cr_7:17hicieres...las cosas que yo te he mandadoH6680
+- 2Cr_8:10los cuales mandaban sobre aquella genteH7287
+- 2Cr_8:14lo había mandado David, varón de DiosH4687
+- 2Cr_10:12vino...según el rey les había mandadoH1696
+- 2Cr_14:4y mandó a Judá que buscase a Jehová elH559
+- 2Cr_18:30mandado a los capitanes de los carrosH6680
+- 2Cr_19:9les mandó diciendo: Procederéis asimismoH6680
+- 2Cr_23:8hicieron todo como lo había mandado elH6680
+- 2Cr_23:14Joiada mandó que salieran los jefes de
+- 2Cr_23:14había mandado que no la matasen en laH559
+- 2Cr_24:8mandó...el rey que hiciesen un arca, laH559
+- 2Cr_25:4Jehová mandó...No morirán los padres porH6680
+- 2Cr_29:24mandó el rey hacer el holocausto y laH559
+- 2Cr_29:27entonces mandó Ezequías sacrificar elH559
+- 2Cr_30:6cartas de...como el rey lo había mandadoH4687
+- 2Cr_31:4mandó...que diese la porción a, levitasH559
+- 2Cr_31:11mandó Ezequías que preparasen cámarasH559
+- 2Cr_33:8hagan...las cosas que yo les he mandadoH6680
+- 2Cr_33:16y mandó a Judá que sirviesen a JehováH559
+- 2Cr_34:20y mandó a Hilcías y a Ahicam hijo deH6680
+- 2Cr_36:23él me ha mandado que le edifique casaH6845
+- Esd_1:2me ha mandado que le edifique casa enH6845
+- Esd_4:3como...mandó el rey Ciro, rey de PersiaH6680
+- Esd_7:23lo que es mandado por el Dios del cieloH4480, [[H2941]]
+- Neh_5:14desde el día que me mandó el rey queH6680
+- Neh_7:2mandé a mi hermano Hanani, y a Hananías
+- Neh_8:14ley que Jehová había mandado por manoH6680
+- Neh_13:5estaba mandado dar a los levitas, a losH4687
+- Est_1:8porque así lo había mandado el rey aH3245
+- Est_1:10mandó a Mehumán, Bizta, Harbona, BigtaH559
+- Est_1:17rey Asuero mandó traer...la reina VastiH559
+- Est_2:10porque Mardoqueo le había mandado queH6680
+- Est_2:20Ester, según le había mandado MardoqueoH6680
+- Est_3:2se inclinaban...lo había mandado el reyH6680
+- Est_3:12fue escrito conforme...lo que mandó AmánH6680
+- Est_4:5lo mandó a Mardoqueo, con orden de saberH6680
+- Est_4:17Mardoqueo...hizo...lo que le mandó EsterH6680
+- Est_5:8haré conforme a lo que el rey ha mandadoH1697
+- Est_8:9se escribió...todo lo que mandó MardoqueoH6680
+- Est_9:14mandó el rey que se hiciese así. Se dioH559
+- Job_9:7él manda al sol, y no sale; y sella lasH559
+- Job_36:32y le manda no brillar, interponiendoH6680
+- Job_37:12para hacer sobre...lo que él les mandeH6680
+- Job_38:12¿has mandado...a la mañana en tus días?[[H6680]]
+- Sal_7:6en favor mío el juicio que mandasteH6680
+- Sal_33:9dijo, y fue hecho; él mandó, y existióH6680
+- Sal_42:8de día mandará Jehová su misericordiaH6680
+- Sal_44:4tú...eres mi rey; manda salvación a JacobH6680
+- Sal_78:5puso ley...cual mandó a nuestros padresH6680
+- Sal_78:23mandó a las nubes de arriba, y abrióH6680
+- Sal_91:11sus ángeles mandará acerca de ti, queH6680
+- Sal_105:8la palabra que mandó...mil generacionesH6680
+- Sal_148:5porque él mandó, y fueron creadosH6680
+- Isa_5:6aun a las nubes mandaré que no derramenH6680
+- Isa_10:6le mandaré contra una nación pérfidaH6680
+- Isa_13:3mandé a mis consagrados, asimismo llaméH6680
+- Isa_23:11Jehová mandó respecto a Canaán, que susH6680
+- Isa_34:16porque su boca mandó, y los reunió suH6680
+- Isa_36:21el rey así lo había mandado, diciendoH4687
+- Isa_45:11mandadme acerca de mis hijos, y acercaH6680
+- Isa_45:12los cielos, y a todo su ejército mandéH6680
+- Isa_48:5mi ídolo lo hizo...mandaron estas cosasH6680
+- Jer_1:7irás tú, y dirás todo lo que te mandeH6680
+- Jer_1:17háblales todo cuanto te mande; no temasH6680
+- Jer_7:22ni nada les mandé acerca de holocaustosH6680
+- Jer_7:23les mandé, diciendo: Escuchad mi vozH6680
+- Jer_7:23andad en todo camino que os mande, paraH6680
+- Jer_7:31yo no les mandé, ni subió en mi corazónH6680
+- Jer_11:4el cual mandé a vuestros padres el díaH6680
+- Jer_11:4conforme a todo lo que os mando; y meH6680
+- Jer_11:8pacto, el cual mandé que cumpliesen, yH6680
+- Jer_13:5fui...lo escondí...como Jehová me mandóH6680
+- Jer_13:6toma...el cinto que te mandé esconderH6680
+- Jer_14:14no los envié, ni les mandé, ni...habléH6680
+- Jer_17:22santificad...día de reposo, como mandéH6680
+- Jer_19:5cosa que no les mandé, ni hablé, ni meH6680
+- Jer_23:32yo no los envié ni les mandé; y ningúnH6680
+- Jer_26:2habla a...las palabras que yo te mandéH6680
+- Jer_26:8todo lo que Jehová le había mandado queH6680
+- Jer_27:4y les mandarás que digan a sus señoresH6680
+- Jer_29:23hablaron en...palabra que no les mandéH6680
+- Jer_32:23nada hicieron de lo que les mandasteH6680
+- Jer_32:35lo cual no les mandé, ni me vino alH6680
+- Jer_34:22mandaré yo, dice Jehová...haré volverH6680
+- Jer_35:8hemos obedecido...cosas que nos mandóH6680
+- Jer_35:10conforme a...las cosas que nos mandóH6680
+- Jer_35:14de Jonadab...el cual mandó a sus hijosH6680
+- Jer_35:18e hicisteis conforme a...que os mandóH6680
+- Jer_36:5mandó Jeremías a Baruc...A mí se me haH6680
+- Jer_36:8todas las cosas que le mandó JeremíasH6680
+- Jer_36:26mandó el rey...que prendiesen a BarucH6680
+- Jer_38:10mandó el rey al...etíope, Ebed-melecH6680
+- Jer_38:27a todo lo que el rey le había mandadoH6680
+- Jer_50:21haz conforme a...que yo te he mandadoH6680
+- Lam_1:10las cuales mandaste que no entrasenH6680
+- Lam_2:17la cual él había mandado desde tiempoH6680
+- Lam_3:37que sucedió algo que el Señor no mandóH6680
+- Eze_9:11hecho conforme a...lo que me mandasteH6680
+- Eze_10:6que al mandar al varón vestido de linoH6680
+- Eze_12:7yo hice así como me fue mandado; saquéH6680
+- Eze_24:18a la mañana hice como me fue mandadoH6680
+- Eze_37:7profeticé...como me fue mandado; y huboH6680
+- Eze_37:10y profeticé como me había mandado, yH6680
+- Dan_2:12mandó...que matasen a todos los sabiosH560
+- Dan_2:46rey...mandó que le ofreciesen presentesH560
+- Dan_3:4mándase a vosotros, oh pueblos, nacionesH560
+- Dan_3:20y mandó a hombres...que atasen a SadracH560
+- Dan_4:6por esto mandé que vinieran...los sabiosH2942
+- Dan_5:2mandó que trajesen los vasos de oro y deH560
+- Dan_5:29entonces mandó Belsasar vestir a DanielH560
+- Dan_6:16el rey mandó, y trajeron a Daniel, y leH560
+- Dan_6:23y mandó sacar a Daniel del foso; y fueH560
+- Amó_2:12y a los profetas mandasteis diciendoH6680
+- Amó_6:11Jehová mandará, y herirá con hendidurasH6680
+- Amó_9:3allí mandaré a la serpiente y los morderáH6680
+- Amó_9:4fueren en cautiverio...mandaré la espadaH6680
+- Amó_9:9yo mandaré y haré que la casa de IsraelH6680
+- Jon_2:10y mandó Jehová al pez, y vomitó aH559
+- Nah_1:14mandará Jehová...no quede ni memoriaH6680
+- Nah_2:7la reina será cautiva; mandarán que suba
+- Zac_1:6mis ordenanzas que mandé a mis siervosH6680
+- Zac_3:4y mandó a los que estaban delante de élH559
+- Mat_1:24hizo como el ángel...le había mandadoG4367
+- Mat_2:16Herodes...mandó matar a todos los niñosG649
+- Mat_4:6sus ángeles mandará acerca de ti, y, EnG1781
+- Mat_8:18mucha gente, mandó pasar al otro ladoG2753
+- Mat_14:9entonces el rey...mandó que se la diesenG2753
+- Mat_14:19mandó a la gente recostarse sobre laG2753
+- Mat_14:28Señor, si eres tú, manda que yo vaya aG2753
+- Mat_15:4Dios mandó, diciendo: Honra a tu padreG1781
+- Mat_15:35mandó a la multitud que se recostaseG2753
+- Mat_16:20mandó...discípulos que a nadie dijesenG1291
+- Mat_17:9Jesús les mandó, diciendo: No digáis aG1781
+- Mat_19:7¿por qué, pues, mandó Moisés dar cartaG1781
+- Mat_21:6fueron, e hicieron como Jesús les mandóG4367
+- Mat_26:19como Jesús les mandó, y prepararon laG4929
+- Mat_27:19le mandó decir: No tengas nada que verG649
+- Mat_27:58Pilato mandó que se le diese el cuerpoG2753
+- Mat_27:64manda, pues, que se asegure el sepulcroG2753
+- Mat_28:20todas las cosas que os he mandado; yG1781
+- Mar_1:27manda aun a los espíritus inmundos, yG2004
+- Mar_1:44por tu purificación lo que Moisés mandóG4367
+- Mar_5:43él les mandó mucho que nadie lo supieseG1291
+- Mar_6:8les mandó que no llevasen nada para elG3853
+- Mar_6:27rey...mandó que fuese traída la cabezaG2004
+- Mar_6:39les mandó que hiciesen recostar a todosG2004
+- Mar_7:36y les mandó que no lo dijesen a nadieG1291
+- Mar_7:36más...mandaba...más y más lo divulgabanG1291
+- Mar_8:6mandó a la multitud que se recostase enG3853
+- Mar_8:7mandó que también los pusiesen delanteG2036
+- Mar_8:15mandó, diciendo: Mirad, guardaos de laG1291
+- Mar_8:30él les mandó que no dijesen esto de élG2008
+- Mar_9:9mandó que a nadie dijesen lo que habíanG1291
+- Mar_9:25mando, sal de él, y no entres más en élG2004
+- Mar_10:3él, respondiendo...¿Qué os mandó Moisés?[[G1781]]
+- Mar_10:49Jesús...mandó llamarle; y llamaron alG2036
+- Mar_11:6dijeron como Jesús había mandado; y losG1781
+- Mar_13:34su obra, y al portero mandó que velaseG1781
+- Luc_4:10sus ángeles mandará acerca de ti, queG1781
+- Luc_4:36manda a los espíritus inmundos, y salen?[[G2004]]
+- Luc_5:14y él le mandó que no lo dijese a nadieG4367
+- Luc_5:14según mandó Moisés, para testimonio aG3853
+- Luc_8:25aun...a las aguas manda, y le obedecen?[[G2004]]
+- Luc_8:29porque mandaba al espíritu inmundo queG3853
+- Luc_8:31rogaban que no los mandase ir al abismoG2004
+- Luc_8:55y él mandó que se le diese de comerG1299
+- Luc_8:56; Luc_9:21les mandó que a nadie dijesenG3853
+- Luc_9:54mandemos que descienda fuego del cieloG2036
+- Luc_14:22se ha hecho como mandaste, y aún hayG2004
+- Luc_17:9porque hizo lo que se le había mandado?[[G1299]]
+- Luc_18:40Jesús...mandó traerle a su presenciaG2753
+- Jua_8:5mandó Moisés apedrear a tales mujeresG1781
+- Jua_14:31mas...como el Padre me mandó, así hagoG1781
+- Jua_15:14amigos, si hacéis lo que yo os mandoG1781
+- Jua_15:17os mando: Que os améis unos a otrosG1781
+- Hec_1:4mandó que no se fueran de JerusalénG3853
+- Hec_5:28¿no os mandamos...que no enseñaseis enG3853
+- Hec_5:34mandó que sacasen fuera...los apóstolesG2753
+- Hec_8:38y mandó parar el carro; y descendieronG2753
+- Hec_10:33para oir todo lo que Dios te ha mandadoG4367
+- Hec_10:42nos mandó que predicásemos al puebloG3853
+- Hec_10:48y mandó bautizarles en el nombre delG4367
+- Hec_13:15los principales de...mandaron a decirlesG649
+- Hec_13:47así nos ha mandado el Señor, diciendoG1781
+- Hec_15:5mandarles que guarden la ley de MoisésG3853
+- Hec_15:24mandando circuncidaros y guardar la ley
+- Hec_16:18te mando en el nombre de JesucristoG3853
+- Hec_16:23mandando al carcelero...los guardaseG3853
+- Hec_16:36los magistrados han mandado a decirG649
+- Hec_17:30manda a todos los hombres en todo lugarG3853
+- Hec_18:2Claudio había mandado...judíos saliesenG1299
+- Hec_21:33prendió y le mandó atar con 2 cadenasG2753
+- Hec_21:34como...le mandó llevar a la fortalezaG2753
+- Hec_22:24mandó el tribuno que le metiesen en laG2753
+- Hec_22:30mandó venir a los...y sacando a PabloG2753
+- Hec_23:3quebrantando la ley me mandas golpear?[[G2753]]
+- Hec_23:10tribuno...mandó que bajasen soldados yG2753
+- Hec_23:22mandándole que a nadie dijese que leG3853
+- Hec_23:23mandó que preparasen...200 soldados, 70
+- Hec_23:35mandó...le custodiasen en el pretorioG2753
+- Hec_24:8mandando a sus acusadores que viniesenG2753
+- Hec_24:23mandó...que se custodiase a Pablo, peroG1299
+- Hec_25:6se sentó...y mandó que fuese traído PabloG2753
+- Hec_25:17al día siguiente...mandé traer al hombreG2753
+- Hec_25:21mandé que le custodiasen hasta que leG2753
+- Hec_27:43y mandó que los que pudiesen nadar seG2753
+- 1Co_7:10mando...Que la mujer no se separe delG3853
+- 2Co_4:6Dios, que mandó que de las tinieblasG2036
+- 2Co_8:8no hablo como quien manda, sino paraG2003
+- 1Ts_4:11de la manera que os hemos mandadoG3853
+- 2Ts_3:4que hacéis...lo que os hemos mandadoG3853
+- 2Ts_3:12mandamos...que trabajando sosegadamenteG3853
+- 1Ti_1:3que mandases a algunos que no enseñenG3853
+- 1Ti_4:3mandarán abstenerse de alimentos que Dios
+- 1Ti_4:11esto manda y enseñaG3853
+- 1Ti_5:7manda también estas cosas, para que seanG3853
+- 1Ti_6:13te mando delante de Dios, que da vida aG3853
+- 1Ti_6:17a los ricos...manda que no sean altivosG3853
+- Tit_1:5en cada ciudad, así como yo te mandéG1299
+- Flm_1:8libertad...para mandarte lo que convieneG2004
+- Heb_9:20sangre del pacto que...os ha mandadoG1781
+- 1Jn_3:23nos amemos...como nos lo ha mandadoG1785
+- Rev_9:4les mandó que no dañasen a la hierbaG4483
+- Rev_13:14mandando...le hagan imagen a la bestiaG3004

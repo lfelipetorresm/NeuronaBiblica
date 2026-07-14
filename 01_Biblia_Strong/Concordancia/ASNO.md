@@ -1,0 +1,119 @@
+---
+tipo: concordancia
+palabra: ASNO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ASNO
+
+- Véase también Asna
+- Gén_12:16y él tuvo ovejas, vacas, a, siervosH2543
+- Gén_22:3y enalbardó su a, y tomó consigo dosH2543
+- Gén_22:5dijo Abraham...Esperad aquí con el a, yH2543
+- Gén_24:35y le ha dado...y siervas, camellos y aH2543
+- Gén_30:43y siervas y siervos, y camellos y aH2543
+- Gén_32:5tengo...a, ovejas, y siervos y siervasH2543
+- Gén_34:28tomaron...sus a, y lo que había en laH2543
+- Gén_36:24apacentaban los a de Zibeón su padreH2543
+- Gén_42:26y ellos pusieron su trigo sobre sus aH2543
+- Gén_42:27para dar de comer a su a en el mesónH2543
+- Gén_43:18tomarnos por siervos...y a nuestros aH2543
+- Gén_43:24y les dio agua...y dio de comer a sus aH2543
+- Gén_44:3los hombres fueron despedidos con sus aH2543
+- Gén_44:13cargó cada uno su a y volvieron a laH2543
+- Gén_45:23diez a cargados de lo mejor de EgiptoH2543
+- Gén_47:17José les dio alimentos por...y por a; yH2543
+- Gén_49:14Isacar, a fuerte que se recuesta entreH2543
+- Éxo_4:20los puso sobre un a, y volvió a tierraH2543
+- Éxo_9:3sobre tus...a, camellos, vacas y ovejasH2543
+- Éxo_13:13todo primogénito de a redimirás con unH2543
+- Éxo_20:17no codiciarás...ni su a, ni cosa algunaH2543
+- Éxo_21:33no la cubriere, y cayere allí buey o aH2543
+- Éxo_22:4hurto en la mano...sea buey o a u ovejaH2543
+- Éxo_22:9en toda clase de fraude...sobre a, sobreH2543
+- Éxo_22:10dado a su prójimo a, o buey...a guardarH2543
+- Éxo_23:4si encontrares...a extraviado, vuelve aH2543
+- Éxo_23:5si vieres el a del que te aborrece caídoH2543
+- Éxo_23:12reposarás...que descanse tu buey y tu aH2543
+- Éxo_34:20con cordero el primogénito del a; y siH2543
+- Núm_16:15ni aun un a he tomado de ellos, ni aH2543
+- Núm_31:28así de las personas como...de los a y deH2543
+- Núm_31:30tomarás...de los a, de las ovejas y deH2543
+- Núm_31:34y sesenta y un mil aH2543
+- Núm_31:39, Núm_31:45de los a, treinta mil quinientosH2543
+- Deu_5:14ninguna obra harás tú, ni tu...ni tu aH2543
+- Deu_5:21ni desearás...su a, ni cosa alguna de tuH2543
+- Deu_22:3así harás con su a, así harás tambiénH2543
+- Deu_22:4si vieres el a de tu hermano, o su bueyH2543
+- Deu_22:10no ararás con buey y con a juntamenteH2543
+- Deu_28:31tu a será arrebatado de delante de tiH2543
+- Jos_6:21destruyeron a filo de espada...los aH2543
+- Jos_7:24tomaron a Acán...sus a, sus ovejas, suH2543
+- Jos_9:4fueron...tomaron sacos viejos sobre sus aH2543
+- Jos_15:18ella...se bajó del a. Y Caleb le dijoH2543
+- Jue_1:14ella se bajó del a, y Caleb le dijoH2543
+- Jue_6:4y no dejaban...ni ovejas, ni bueyes, ni aH2543
+- Jue_10:4hijos, que cabalgaban sobre treinta aH5895
+- Jue_12:14nietos, que cabalgaban sobre setenta aH5895
+- Jue_15:15y hallando una quijada de a fresca aúnH2543
+- Jue_15:16con la quijada de un a, un montón, dosH2543
+- Jue_15:16la quijada de un a maté a mil hombresH2543
+- Jue_19:3llevaba consigo...criado, y un par de aH2543
+- Jue_19:10llegó hasta...con su par de a ensilladosH2543
+- Jue_19:19tenemos paja y forraje para nuestros aH2543
+- Jue_19:21dio de comer a sus a; y se lavaron losH2543
+- Jue_19:28y echándola sobre su a...fue a su lugarH2543
+- 1Sa_8:16tomará...vuestros a, y con ellos haráH2543
+- 1Sa_12:3atestiguad...si he tomado el a de algunoH2543
+- 1Sa_15:3mata a hombres...ovejas, camellos y aH2543
+- 1Sa_16:20y tomó Isaí un a cargado de pan...vinoH2543
+- 1Sa_22:19bueyes, a y ovejas, todo lo hirió a filoH2543
+- 1Sa_25:18Abigail tomó luego...lo cargó todo en aH2543
+- 1Sa_25:20montando un a, descendió por una parteH2543
+- 1Sa_25:23Abigail...se bajó prontamente del a, yH2543
+- 1Sa_25:42Abigail...montó en un a y siguió a losH2543
+- 1Sa_27:9David...se llevaba...los a, los camellosH2543
+- 2Sa_16:1que salía a recibirle con un par de aH2543
+- 2Sa_16:2los a son para que monte la familia delH2543
+- 2Sa_17:23enalbardó su a, y se levantó y se fueH2543
+- 2Sa_19:26enalbárdame un a, y montaré en él, eH2543
+- 1Re_2:40Simei...ensilló su a y fue a Aquis enH2543
+- 1Re_13:13ensilladme el a. Y...le ensillaron el aH2543
+- 1Re_13:23cuando había comido pan...ensilló el aH2543
+- 1Re_13:24estaba echado...y el a junto a él, y elH2543
+- 1Re_13:27ensilladme un a. Y...se lo ensillaronH2543
+- 1Re_13:28halló...el a y el león...junto al cuerpoH2543
+- 1Re_13:28el león no había comido...ni dañado al aH2543
+- 1Re_13:29el cuerpo...lo puso sobre el a y se loH2543
+- 2Re_6:25que la cabeza de un a se vendía porH2543
+- 2Re_7:7abandonando sus...sus a, y el campamentoH2543
+- 2Re_7:10que no había allí...sino...a también atadosH2543
+- 1Cr_5:21tomaron...250.000 ovejas y 2.000 aH2543
+- 1Cr_12:40trajeron víveres en a, camellos, mulosH2543
+- 2Cr_28:15condujeron en a todos los débilesH2543
+- Esd_2:67; Neh_7:69sus camellos, 435; a,Neh_6:720H2543
+- Neh_13:15vi...cargaban a con vino, y también deH2543
+- Job_6:5gime el a montés junto a la hierba?[[H6501]]
+- Job_11:12un pollino de a montés nazca hombreH6501
+- Job_24:3se llevan el a de los huérfanos, y tomanH2543
+- Job_24:5como a monteses en el desierto, salen aH6501
+- Job_39:5¿quién echó libre al a montés, y quiénH6501
+- Sal_104:11dan...mitigan su sed los a montesesH6501
+- Pro_26:3el látigo para...el cabestro para el aH2543
+- Isa_1:3conoce...y el a el pesebre de su señorH2543
+- Isa_21:7vio hombres montados...sobre a...camellosH2543
+- Isa_30:6llevan sobre lomos de a sus riquezasH5895
+- Isa_30:24a que labran la tierra comerán granoH5895
+- Isa_32:14cuevas...donde descansen a montesesH6501
+- Isa_32:20aguas, y dejáis libres al buey y al aH2543
+- Jer_14:6a monteses se ponían en las alturasH6501
+- Jer_22:19en sepultura de a será enterradoH2543
+- Eze_23:20es como el ardor carnal de los a, yH2543
+- Dan_5:21y con los a monteses fue su moradaH6501
+- Ose_8:9subieron a Asiria, como a montés paraH6501
+- Zac_9:9tu rey vendrá...cabalgando sobre un aH2543
+- Zac_14:15así también será la plaga de...de los aH2543
+- Mat_18:6se le colgase...piedra de molino de aG3684
+- Luc_13:15¿no desata en el día de reposo su aG3688
+- Luc_14:5¿quién de vosotros, si su a o su buey caeG3688

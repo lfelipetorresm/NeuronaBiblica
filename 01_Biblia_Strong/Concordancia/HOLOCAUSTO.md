@@ -1,0 +1,258 @@
+---
+tipo: concordancia
+palabra: HOLOCAUSTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HOLOCAUSTO
+
+- Gén_8:20edificó Noé...y ofreció h en el altarH5930
+- Gén_22:2y ofrécelo allí en h sobre uno de losH5930
+- Gén_22:3y cortó leña para el h, y se levantóH5930
+- Gén_22:6tomó Abraham la leña del h, y la pusoH5930
+- Gén_22:7mas ¿donde está el cordero para el h?[[H5930]]
+- Gén_22:8Dios se proveerá de cordero para el hH5930
+- Gén_22:13lo ofreció en h en lugar de su hijoH5930
+- Éxo_10:25tú también nos darás sacrificios y hH5930
+- Éxo_18:12tomó Jetro, suegro de...h y sacrificiosH5930
+- Éxo_20:24y sacrificarás sobre él tus h y tusH5930
+- Éxo_24:5envió jóvenes...ofrecieron h y becerrosH5930
+- Éxo_29:18altar; es h de olor grato para JehováH5930
+- Éxo_29:25en el altar, sobre el h, por olor gratoH5930
+- Éxo_29:42h continuo por vuestras generacionesH5930
+- Éxo_30:9no ofreceréis sobre él...h, ni ofrendaH5930
+- Éxo_30:28altar del h con todos sus utensiliosH5930
+- Éxo_31:9el altar del h y todos sus utensiliosH5930
+- Éxo_32:6ofrecieron h, y presentaron ofrendasH5930
+- Éxo_35:16el altar del h, su enrejado de bronceH5930
+- Éxo_38:1hizo de madera de acacia el altar del hH5930
+- Éxo_40:6pondrás el altar del h delante de laH5930
+- Éxo_40:10ungirás...altar del h y...sus utensiliosH5930
+- Éxo_40:29colocó el altar del h a la entrada delH5930
+- Éxo_40:29sacrificó sobre él h y ofrenda, comoH5930
+- Lev_1:3si su ofrenda fuere h vacuno, macho sinH5930
+- Lev_1:4y pondrá su mano sobre la cabeza del hH5930
+- Lev_1:6y desollará el h, y lo dividirá en susH5930
+- Lev_1:9, Lev_1:13, Lev_1:17h es, ofrenda encendida de olorH5930
+- Lev_1:10si su ofrenda para h fuere del rebañoH5930
+- Lev_1:14la ofrenda para Jehová fuere h de avesH5930
+- Lev_3:5el h que estará sobre la leña encima delH5930
+- Lev_4:7, Lev_4:18, Lev_4:25sangre...al pie del altar del hH5930
+- Lev_4:10la hará arder sobre el altar del hH5930
+- Lev_4:24, Lev_4:29, Lev_4:33el lugar donde se degüella el hH5930
+- Lev_4:25, Lev_4:30, Lev_4:34sobre los cuernos del altar del hH5930
+- Lev_5:7el uno para expiación, y el otro para hH5930
+- Lev_5:10y del otro hará h conforme al rito; asíH5930
+- Lev_6:9la ley del h: El h estará sobre el fuegoH5930
+- Lev_6:10cuando el fuego hubiere consumido el hH5930
+- Lev_6:12y acomodará el h sobre él, y quemaráH5930
+- Lev_6:25en el lugar donde se degüella el h seráH5930
+- Lev_7:2el lugar donde degüellan el h, degollaránH5930
+- Lev_7:8sacerdote que ofreciere h...piel del hH5930
+- Lev_7:37esta es la ley del h, de la ofrenda, delH5930
+- Lev_8:18hizo que trajeran el cordero del h, yH5930
+- Lev_8:21h de olor grato, ofrenda encendida paraH5930
+- Lev_8:28las hizo arder en el altar sobre el hH5930
+- Lev_9:2toma...y un carnero para h, sin defectoH5930
+- Lev_9:3cordero de un año, sin defecto, para hH5930
+- Lev_9:7acércate al...y haz tu expiación y tu hH5930
+- Lev_9:12degolló asimismo el h...sobre el altarH5930
+- Lev_9:13le presentaron el h pieza por pieza, yH5930
+- Lev_9:14lavó...los quemó sobre el h en el altarH5930
+- Lev_9:16y ofreció el h, e hizo según el ritoH5930
+- Lev_9:17hizo quemar...además del h de la mañanaH6999, [[H5930]]
+- Lev_9:22después de hacer...el h y el sacrificioH5930
+- Lev_9:24salió fuego de...y consumió el h con lasH5930
+- Lev_10:19hoy han ofrecido...h delante de JehováH5930
+- Lev_12:6traerá un cordero de un año para h, yH5930
+- Lev_12:8o dos palominos, uno para h y otro paraH5930
+- Lev_14:13se degüella el sacrificio por...y el hH5930
+- Lev_14:19el sacrificio...después degollará el hH5930
+- Lev_14:20subir...el h y la ofrenda sobre el altarH5930
+- Lev_14:22será para expiación...y el otro para hH5930
+- Lev_14:31y el otro en h, además de la ofrendaH5930
+- Lev_15:15, Lev_15:30el sacerdote hará del...y del otro hH5930
+- Lev_16:3entrará Aarón...con, y un carnero para hH5930
+- Lev_16:5tomará dos machos...y un carnero para hH5930
+- Lev_16:24saldrá, y hará su h, y el h del puebloH5930
+- Lev_17:8varón de...que ofreciere h o sacrificioH5930
+- Lev_22:18ofrendas voluntarias ofrecidas en h aH5930
+- Lev_23:12ofreceréis un cordero...en h a JehováH5930
+- Lev_23:18serán h a Jehová, con su ofrenda y susH5930
+- Lev_23:37h y ofrenda, sacrificio y libacionesH5930
+- Núm_6:11el sacerdote ofrecerá...el otro en hH5930
+- Núm_6:14ofrecerá su...un cordero de un año...en hH5930
+- Núm_6:16el sacerdote...hará su expiación y su hH5930
+- Núm_7:15, Núm_7:21, Núm_7:27, Núm_7:33, Núm_7:39, Núm_7:45, Núm_7:51, Núm_7:57, Núm_7:63, Núm_7:69, Núm_7:75, Núm_7:81un cordero de un año para hH5930
+- Núm_7:87todos los bueyes para h, doce becerrosH5930
+- Núm_8:12ofrecerás...el otro en h a Jehová, paraH5930
+- Núm_10:10tocaréis...trompetas sobre vuestros hH5930
+- Núm_15:3h, o sacrificio, por especial voto, oH5930
+- Núm_15:5de vino...además del h...por cada corderoH5930
+- Núm_15:8ofrecieres novillo en h o sacrificioH5930
+- Núm_15:24ofrecerá un novillo por h en olor gratoH5930
+- Núm_23:3, Núm_23:15ponte junto a tu h, y yo iré...JehováH5930
+- Núm_23:6, Núm_23:17a él, y he aquí estaba él junto a su hH5930
+- Núm_28:3dos corderos...día, será el h continuoH5930
+- Núm_28:6es h continuo, que fue ordenado en elH5930
+- Núm_28:10h de cada día...además del h continuoH5930
+- Núm_28:11ofreceréis en h a Jehová dos becerrosH5930
+- Núm_28:13h de olor grato, ofrenda encendida aH5930
+- Núm_28:14el h de cada mes por todos los mesesH5930
+- Núm_28:15, Núm_28:24, Núm_28:31además del h continuo con suH5930
+- Núm_28:19ofreceréis...h a Jehová, dos becerrosH5930
+- Núm_28:23además del h de la mañana...h continuoH5930
+- Núm_28:27ofreceréis en h...dos becerros de laH5930
+- Núm_29:2ofreceréis h en olor grato a Jehová, unH5930
+- Núm_29:6además del h del mes...y el h continuoH5930
+- Núm_29:8ofreceréis en h...becerro de la vacadaH5930
+- Núm_29:11y del h continuo y de sus ofrendas yH5930
+- Núm_29:13ofreceréis en h...trece becerros de laH5930
+- Núm_29:16, Núm_29:19, Núm_29:22, Núm_29:25, Núm_29:28, Núm_29:31, Núm_29:34, Núm_29:38además del h continuo, su ofrenda y su libaciónH5930
+- Núm_29:36ofreceréis en h, en ofrenda encendida de olor
+- Núm_29:39ofrendas voluntarias, para vuestros hH5930
+- Deu_12:6, Deu_12:11allí llevaréis vuestros h, vuestrosH5930
+- Deu_12:13de no ofrecer tus h en cualquier lugarH5930
+- Deu_12:14allí ofrecerás tus h, y allí harás todoH5930
+- Deu_12:27ofrecerás tus h, la carne y la sangreH3632
+- Deu_13:16su botín, todo ello, como h a JehováH5930
+- Deu_27:6ofrecerás sobre él h a Jehová tu DiosH3632
+- Deu_33:10pondrán el incienso...h sobre tu altarH5930
+- Jos_8:31y ofrecieron sobre él h a JehováH5930
+- Jos_22:23altar para...para sacrificar h u ofrendaH5930
+- Jos_22:26un altar, no para h ni para sacrificioH5930
+- Jos_22:27el servicio de Jehová...con nuestros hH5930
+- Jos_22:28no para h o sacrificios, sino para queH5930
+- Jos_22:29edificando altar para h, para ofrendaH5930
+- Jue_6:26el segundo toro, sacrifícalo en hH5930
+- Jue_6:28ofrecido en h sobre el altar edificadoH5930
+- Jue_11:31será de Jehová, y lo ofreceré en hH5930
+- Jue_13:16si quieres hacer h, ofrécelo a JehováH5930
+- Jue_13:23no aceptaría de nuestras manos el hH5930
+- Jue_20:26ofrecieron h y ofrendas de paz delanteH5930
+- Jue_21:4altar, y ofrecieron h y ofrendas de pazH5930
+- 1Sa_6:14ofrecieron las vacas en h a JehováH5930
+- 1Sa_6:15sacrificaron h y dedicaron sacrificiosH5930
+- 1Sa_7:9un cordero...lo sacrificó entero en hH5930
+- 1Sa_7:10mientras Samuel sacrificaba el h, losH5930
+- 1Sa_10:8descenderé yo a ti para ofrecer h yH5930
+- 1Sa_13:9dijo Saúl: Traedme h...y ofreció el hH5930
+- 1Sa_13:10y cuando él acababa de ofrecer el hH5930
+- 1Sa_13:12no he...Me esforcé, pues, y ofrecí hH5930
+- 1Sa_15:22¿se complace Jehová tanto en los h yH5930
+- 2Sa_6:17sacrificó David h y ofrendas de pazH5930
+- 2Sa_6:18David había acabado de ofrecer los hH5930
+- 2Sa_24:22he aquí bueyes para el h, y...la leñaH5930
+- 2Sa_24:24no ofreceré...h que no me cuesten nadaH5930
+- 2Sa_24:25David...sacrificó h y ofrendas de pazH5930
+- 1Re_3:4mil h sacrificaba Salomón sobre aquelH5930
+- 1Re_3:15sacrificó h y ofreció sacrificios de pazH5930
+- 1Re_8:64ofreció allí los h, las ofrendas y laH5930
+- 1Re_8:64no cabían en él los h, las ofrendas yH5930
+- 1Re_9:25ofrecía Salomón tres veces cada año hH5930
+- 1Re_10:5sus h que ofrecía en la casa de JehováH5930
+- 1Re_18:34derramadla sobre el h y sobre la leñaH5930
+- 1Re_18:36cuando llegó la hora de ofrecerse el hH4503
+- 1Re_18:38y consumió el h, la leña, las piedrasH5930
+- 2Re_3:27y lo sacrificó en h sobre el muroH5930
+- 2Re_5:17tu siervo no sacrificará h ni ofreceráH5930
+- 2Re_10:24y cuando ellos entraron para hacer...hH5930
+- 2Re_10:25acabaron ellos de hacer el h, Jehú pusoH5930
+- 2Re_16:13encendió su h y su ofrenda, y derramóH5930
+- 2Re_16:15en el gran altar encenderás el h de laH5930
+- 2Re_16:15el h del rey y...el h de todo el puebloH5930
+- 2Re_16:15y esparcirás sobre él...la sangre del hH5930
+- 1Cr_6:49Aarón y sus hijos...el altar del hH5930
+- 1Cr_16:1trajeron el arca de Dios...y ofrecieron hH5930
+- 1Cr_16:2cuando David acabó de ofrecer el h y losH5930
+- 1Cr_16:40y tarde, h a Jehová en el altar del hH5930
+- 1Cr_21:23aun los bueyes daré para el h, y losH5930
+- 1Cr_21:24no...ni sacrificaré h que nada me cuesteH5930
+- 1Cr_21:26en el que ofreció h y ofrendas de pazH5930
+- 1Cr_21:26por fuego...el cielo en el altar del hH5930
+- 1Cr_21:29y el altar del h, estaban...en GabaónH5930
+- 1Cr_22:1aquí estará...el altar del h para IsraelH5930
+- 1Cr_23:31para ofrecer...h a Jehová los días deH5930
+- 1Cr_29:21ofrecieron a Jehová h...de todo IsraelH5930
+- 2Cr_1:6Salomón...y ofreció sobre él mil hH5930
+- 2Cr_2:4y para h a mañana y tarde, en los díasH5930
+- 2Cr_4:6lavar...en ellas lo que se ofrecía en hH5930
+- 2Cr_7:1fuego...y consumió el h y las víctimasH5930
+- 2Cr_7:7por cuanto había ofrecido allí los h, y laH5930
+- 2Cr_7:7en el altar de...no podían caber los hH5930
+- 2Cr_8:12ofreció Salomón h a Jehová sobre elH5930
+- 2Cr_13:11queman...los h cada mañana y cada tardeH5930
+- 2Cr_23:18para ofrecer a Jehová los h, como estáH5930
+- 2Cr_24:14y sacrificaban h continuamente en laH5930
+- 2Cr_29:7ni sacrificaron h en el santuario alH5930
+- 2Cr_29:18ya hemos limpiado...el altar del h, yH5930
+- 2Cr_29:24por...Israel mandó el rey hacer el hH5930
+- 2Cr_29:27mandó Ezequías sacrificar el h en elH5930
+- 2Cr_29:27cuando comenzó el h, comenzó...cánticoH5930
+- 2Cr_29:28todo esto duró hasta consumirse el hH5930
+- 2Cr_29:31los generosos de corazón trajeron hH5930
+- 2Cr_29:32h que trajo la congregación, setentaH5930
+- 2Cr_29:32corderos, todo para el h de JehováH5930
+- 2Cr_29:34no bastaban para desollar los h; y asíH5930
+- 2Cr_29:35hubo abundancia de h, con grosura deH5930
+- 2Cr_29:35las ofrendas...y libaciones para cada hH5930
+- 2Cr_30:15y trajeron los h a la casa de JehováH5930
+- 2Cr_31:2y los levitas para ofrecer el h y lasH5930
+- 2Cr_31:3el rey contribuyó...para los h a mañanaH5930
+- 2Cr_31:3h de los días de reposo, nuevas lunasH5930
+- 2Cr_35:12tomaron luego del h, para dar conformeH5930
+- 2Cr_35:14ocupados...en el sacrificio de los h yH5930
+- 2Cr_35:16para sacrificar los h sobre el altarH5930
+- Esd_3:2ofrecer sobre él h, como está escritoH5930
+- Esd_3:3ofrecieron sobre él h a Jehová, h por laH5930
+- Esd_3:4y h cada día por orden conforme al ritoH5930
+- Esd_3:5además...el h continuo, las nuevas lunasH5930
+- Esd_3:6comenzaron a ofrecer h a Jehová; pero losH5930
+- Esd_6:9h al Dios del cielo, trigo, sal, vino yH5928
+- Esd_8:35ofrecieron h al Dios de...en h a JehováH5930
+- Neh_10:33el h continuo, los días de reposoH5930
+- Job_1:5ofrecía h conforme al número de todosH5930
+- Job_42:8y ofreced h por vosotros, y mi siervoH5930
+- Sal_20:3memoria de...ofrendas, y acepte tu hH5930
+- Sal_40:6oídos; h y expiación no has demandadoH5930
+- Sal_50:8no te reprenderé por tus...ni por tus hH5930
+- Sal_51:16sacrificio...yo lo daría; no quieres hH5930
+- Sal_51:19entonces te agradarán...el h u ofrendaH5930
+- Sal_66:13entraré en tu casa con h; te pagaré misH5930
+- Sal_66:15h de animales engordados te ofreceréH5930
+- Isa_1:11hastiado estoy de h de carneros y deH5930
+- Isa_43:23no me trajiste...los animales de tus hH5930
+- Isa_56:7sus h y...serán aceptos sobre mi altarH5930
+- Isa_61:8aborrecedor del latrocinio para h; porH5930
+- Jer_6:20vuestros h no son aceptables, niH5930
+- Jer_7:21añadid vuestros h sobre...sacrificiosH5930
+- Jer_7:22no hablé...ni nada les mandé acerca de hH5930
+- Jer_14:12ofrezcan h y ofrenda no lo aceptaréH5930
+- Jer_17:26trayendo h y sacrificio, y ofrenda eH5930
+- Jer_19:5quemar a sus hijos...en h al mismo BaalH5930
+- Jer_33:18que delante de mí ofrezca h y enciendaH5930
+- Eze_40:38había allí una cámara...lavarán el hH5930
+- Eze_40:39mesas...para degollar sobre ellas el hH5930
+- Eze_40:42cuatro mesas para el h eran de piedraH5930
+- Eze_40:42los utensilios con que degollarán el hH5930
+- Eze_43:18para ofrecer h sobre él y para esparcirH5930
+- Eze_43:24sacerdotes...los ofrecerán en h a JehováH5930
+- Eze_43:27sacrificarán sobre el altar vuestros hH5930
+- Eze_44:11ellos matarán el h y la víctima paraH5930
+- Eze_45:15para h y para ofrendas de paz, paraH5930
+- Eze_45:17al príncipe corresponderá el dar el hH5930
+- Eze_45:17él dispondrá...el h y las ofrendas deH5930
+- Eze_45:23los siete días de...ofrecerá h a JehováH5930
+- Eze_45:25en estos siete días en cuanto a...al hH5930
+- Eze_46:2mientras los sacerdotes ofrezcan su hH5930
+- Eze_46:4el h que el príncipe ofrecerá a JehováH5930
+- Eze_46:12libremente hiciere h u ofrendas de pazH5930
+- Eze_46:12hará su h y sus ofrendas de paz, comoH5930
+- Eze_46:13ofrecerás...en h un cordero de un añoH5930
+- Eze_46:15ofrecerán...las mañanas en h continuoH5930
+- Ose_6:6no...y conocimiento de Dios más que hH5930
+- Amó_5:22me ofreciereis vuestros h y vuestrasH5930
+- Miq_6:6me presentaré ante él con h...de un año?[[H5930]]
+- Mar_12:33y el amarle...es más que todos los hG3646
+- Heb_10:6, Heb_10:8h y expiaciones por el pecado noG3646

@@ -1,0 +1,131 @@
+---
+tipo: concordancia
+palabra: VENDER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VENDER
+
+- Gén_25:31véndeme en este día tu primogenituraH4376
+- Gén_25:33juró, y vendió a Jacob su primogenituraH4376
+- Gén_31:15como por extrañas, pues que nos vendióH4376
+- Gén_37:27venid, y vendámosle a los ismaelitasH4376
+- Gén_37:28y le vendieron a los ismaelitas por 20H4376
+- Gén_37:36los madianitas lo vendieron en EgiptoH4376
+- Gén_41:56abrió José todo granero...vendía a losH7666
+- Gén_42:6le vendía a todo el pueblo de la tierraH7666
+- Gén_45:4soy José...el que vendisteis para EgiptoH4376
+- Gén_45:5no os...ni os pese de haberme vendido acáH4376
+- Gén_47:20vendieron cada uno sus tierras, porqueH4376
+- Gén_47:22los sacerdotes...no vendieron su tierraH4376
+- Éxo_21:7vendiere su hija por sierva, no saldráH4376
+- Éxo_21:8y no la podrá vender a pueblo extrañoH4376
+- Éxo_21:16el que robare una persona y la vendiereH4376
+- Éxo_21:35venderán el buey vivo y partirán elH4376
+- Éxo_22:1hurtare buey...y lo degollare o vendiereH4376
+- Éxo_22:3si no tuviere...será vendido por su hurtoH4376
+- Lev_25:14y cuando vendiereis algo a...prójimoH4376
+- Lev_25:15conforme al número...te venderá él a tiH4376
+- Lev_25:16según el número de las...te venderá elH4376
+- Lev_25:23la tierra no se venderá a perpetuidadH4376
+- Lev_25:25tu hermano...vendiere...de su posesiónH4376
+- Lev_25:25rescatará lo que su hermano...vendidoH4465
+- Lev_25:27contará los años desde que vendió, yH4376
+- Lev_25:27y pagará...al varón a quien vendió, yH4376
+- Lev_25:28lo que vendió estará en poder del queH4465
+- Lev_25:29varón que vendiere casa de habitaciónH4465
+- Lev_25:33comprare de...saldrá de la casa vendidaH4465
+- Lev_25:34la tierra del ejido de...no se venderáH4376
+- Lev_25:39hermano empobreciere...se vendiere a tiH4376
+- Lev_25:42no serán vendidos a manera de esclavosH4376
+- Lev_25:47se vendiere al forastero o extranjeroH4376
+- Lev_25:48después que se hubiere vendido, podráH4376
+- Lev_25:50desde el año que se vendió a él hastaH4376
+- Lev_25:51años...del dinero por el cual se vendióH4376
+- Lev_27:20y la tierra se vendiere a otro, no laH4376
+- Lev_27:27se venderá conforme a tu estimaciónH4376
+- Lev_27:28no se venderá ni se...cosa consagradaH4376
+- Deu_2:28la comida me venderás por dinero, yH7666
+- Deu_14:21véndela a un extranjero...eres...santoH4376
+- Deu_14:25lo venderás y guardarás el dinero enH6887
+- Deu_15:12si se vendiere a ti tu hermano hebreoH4376
+- Deu_21:14en libertad; no la venderás por dineroH4376
+- Deu_24:7hubiere vendido, morirá el tal ladrónH4376
+- Deu_28:68allí seréis vendidos a vuestros enemigosH4376
+- Deu_32:30mil, si su Roca no los hubiese vendidoH4376
+- Jue_2:14los vendió en mano de sus enemigosH4376
+- Jue_3:8y los vendió en manos de Cusan-risataimH4376
+- Jue_4:2y Jehová los vendió en mano de Jabín reyH4376
+- Jue_4:9en mano de mujer venderá Jehová a SísaraH4376
+- Rut_4:3Noemí...vende una parte de las tierrasH4376
+- 1Sa_12:9los vendió en mano de Sísara jefe delH4376
+- 1Re_21:20has vendido a hacer lo malo delanteH4376
+- 1Re_21:25que se vendió para hacer lo malo anteH4376
+- 2Re_4:7dijo: Vé y vende el aceite, y paga aH4376
+- 2Re_6:25cabeza...asno se vendía por 80 piezas de
+- 2Re_7:16fue vendido un seah de flor de harina
+- 2Re_7:18el seah de...harina será vendido por un
+- Neh_5:8habían sido vendidos a las nacionesH4376
+- Neh_5:8vendéis aun...hermanos, y serán vendidosH4376
+- Neh_10:31si los pueblos de...trajesen a venderH4376
+- Neh_13:15del día en que vendían las provisionesH4376
+- Neh_13:16pescado...y vendían en día de reposo aH4376
+- Neh_13:20y se quedaron fuera...los que vendíanH4376
+- Est_7:4hemos sido vendidos, yo y mi puebloH4376
+- Est_7:4si para siervos y...fuéramos vendidos, meH4376
+- Sal_44:12has vendido a tu pueblo de baldeH4376
+- Sal_105:17a José, que fue vendido por siervoH4376
+- Pro_11:26bendición será sobre...que lo vendeH7666
+- Pro_23:23compra la verdad, y no la vendas; laH4376
+- Pro_31:24hace telas, y vende, y da cintas alH4376
+- Isa_24:2así, como al que compra, al que vendeH4376
+- Isa_50:1acreedores, a quienes yo os he vendido?[[H4376]]
+- Isa_50:1por vuestras maldades sois vendidos, yH4376
+- Isa_52:3de balde fuisteis vendidos; por tantoH4376
+- Jer_34:14hermano hebreo que le fuere vendidoH4376
+- Eze_7:12el que vende, no llore, porque la iraH4376
+- Eze_7:13el que vende no volverá a lo vendidoH4465
+- Eze_48:14no venderán nada de...ni lo permutaránH4465
+- Joe_3:3vendieron las niñas por vino para beberH4376
+- Joe_3:6vendisteis los hijos de Judá...JerusalénH4376
+- Joe_3:7levantaré del lugar donde los vendisteisH4376
+- Joe_3:8y venderé vuestros hijos a los hijos deH4376
+- Joe_3:8ellos los venderán a los sabeos, naciónH4376
+- Amó_2:6porque vendieron por dinero al justoH4376
+- Amó_8:5pasará el mes, y venderemos el trigoH7666
+- Amó_8:6y venderemos los desechos del trigo?[[H7666]]
+- Zac_11:5el que las vende, dice: Bendito seaH4376
+- Mat_10:29¿no se venden dos pajarillos por unG4453
+- Mat_13:44vende...que tiene, y compra aquel campoG4453
+- Mat_13:46vendió todo lo que tenía, y la compróG4097
+- Mat_18:25a éste...ordenó su señor venderle, y aG4097
+- Mat_19:21anda, vende lo que tienes, y dalo a losG4453
+- Mat_21:12y echó fuera a todos los que vendían yG4453
+- Mat_21:12volcó las...las sillas de los que vendíanG4453
+- Mat_25:9id más bien a los que venden, y compradG4453
+- Mat_26:9esto podía haberse vendido a gran precioG4097
+- Mar_10:21vende todo lo que tienes, y dalo a losG4453
+- Mar_11:15comenzó a echar fuera a los que vendíanG4453
+- Mar_11:15y volcó...las sillas de los que vendíanG4453
+- Mar_14:5esto podía haberse vendido por más de 300G4097
+- Luc_12:6¿no se venden cinco pajarillos por dosG4453
+- Luc_12:33vended lo que poseéis, y dad limosnaG4453
+- Luc_17:28en los días de Lot...vendían, plantabanG4453
+- Luc_18:22vende todo lo que tienes, y dalo a losG4453
+- Luc_19:45echar fuera a...que vendían y comprabanG4453
+- Luc_22:36y el que no tiene espada, venda su capaG4453
+- Jua_2:14en el templo a los que vendían bueyesG4453
+- Jua_2:16y dijo a los que vendían...Quitad de aquíG4453
+- Jua_12:5¿por qué no fue este perfume vendido porG4097
+- Hec_2:45vendían sus propiedades y sus bienesG4097
+- Hec_4:34las vendían, y...el precio de lo vendidoG4453
+- Hec_4:37la vendió y trajo el precio y lo puso aG4453
+- Hec_5:1Ananías, con Safira...vendió una heredadG4453
+- Hec_5:4y vendida, ¿no estaba en tu poder? ¿PorG4097
+- Hec_5:8¿vendisteis en tanto la heredad? Y ellaG591
+- Hec_7:9vendieron a José para Egipto; pero DiosG591
+- Rom_7:14mas yo soy carnal, vendido al pecadoG4097
+- 1Co_10:25que se vende en la carnicería, comedG4453
+- Heb_12:16sola comida vendió su primogenituraG591
+- Rev_13:17que ninguno pudiese comprar ni venderG4453

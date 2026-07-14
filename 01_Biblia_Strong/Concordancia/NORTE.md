@@ -1,0 +1,166 @@
+---
+tipo: concordancia
+palabra: NORTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NORTE
+
+- Gén_13:14lugar donde estás hacia el n y el surH6828
+- Gén_14:15les fue siguiendo hasta Hoba al n deH8040
+- Gén_28:14te extenderás...al n y al sur, y todasH6828
+- Éxo_26:20al otro lado...lado del n, 20 tablasH6828
+- Éxo_26:35fuera del velo...la mesa al lado del nH6828
+- Éxo_27:11al lado del n habrá a lo largo cortinasH6828
+- Éxo_36:25al lado n, hizo otras veinte tablasH6828
+- Éxo_38:11del lado n cortinas de cien codos; susH6828
+- Éxo_40:22puso la mesa...al lado n de la cortinaH6828
+- Lev_1:11degollará al lado n del altar, delanteH6828
+- Núm_2:25bandera del...de Dan estará al n, porH6828
+- Núm_3:35acamparán al lado del tabernáculo, al nH6828
+- Núm_34:7el límite del n será este: desde el MarH6828
+- Núm_34:9Hazar-enán; este será el límite del nH6828
+- Núm_35:5mil codos, y al lado del n dos mil codosH6828
+- Deu_2:3bastante habéis rodeado...volveos al nH6828
+- Deu_3:27y alza tus ojos al oeste, y al n, y alH6828
+- Jos_8:11y llegaron...y acamparon al n de HaiH6828
+- Jos_8:13todo el campamento al n de la ciudad, yH6828
+- Jos_11:2a los reyes que...del n en las montañasH6828
+- Jos_13:3Sihor...hasta el límite de Ecrón al nH6828
+- Jos_15:5el límite del lado del n, desde la bahíaH6828
+- Jos_15:6pasa al n de Bet-arabá, y de aquí subeH6828
+- Jos_15:7n mira sobre Gilgal, que está enfrenteH6828
+- Jos_15:8al extremo del valle...por el lado del nH6828
+- Jos_15:10al lado del monte Jearim hacia el n, elH6828
+- Jos_15:11al lado de Ecrón hacia el n; y rodea aH6828
+- Jos_16:6el límite hasta...y hasta Micmetat al nH6828
+- Jos_17:9límite...es desde el n del mismo arroyoH6828
+- Jos_17:10Efraín al sur, y Manasés al n, y el marH6828
+- Jos_17:10encuentra con Aser al n, y con IsacarH6828
+- Jos_18:5los de la casa de José en el suyo al nH6828
+- Jos_18:12fue el límite de...del n desde el JordánH6828
+- Jos_18:12y sube hacia el lado de Jericó al nH6828
+- Jos_18:16que está al n en el valle de RefaimH6828
+- Jos_18:17luego se inclina hacia el n y sale aH6828
+- Jos_18:19pasa el límite al lado n de Bet-hoglaH6828
+- Jos_18:19termina en la bahía n del Mar SaladoH6828
+- Jos_19:14al n, el límite gira hacia HanatónH6828
+- Jos_19:27de Jefte-el al n...y sale a Cabul al nH6828
+- Jos_24:30en su heredad...al n del monte de GaasH6828
+- Jue_2:9lo sepultaron...al n del monte de GaasH6828
+- Jue_7:1el campamento de los madianitas al n, másH6828
+- Jue_12:1y pasaron hacia el n, y dijeron a JeftéH6828
+- Jue_21:19fiesta...en Silo, que está al n de Bet-elH6828
+- 1Sa_14:5de los peñascos estaba situado al nH6828
+- 1Re_7:25sobre doce bueyes; tres miraban al nH6828
+- 2Re_16:14lo puso al lado del altar hacia el nH6828
+- 1Cr_9:24estaban los porteros...al n y al surH6828
+- 1Cr_26:14y salió la suerte suya para la del nH6828
+- 1Cr_26:17n cuatro de día; al sur cuatro de díaH6828
+- 2Cr_4:4tres de los cuales miraban al n, tresH6828
+- Job_23:9muestra su poder al n, yo no lo veréH8040
+- Job_26:7él extiende el n sobre vacío, cuelga laH6828
+- Job_37:9viene...y el frío de los vientos del nH4215
+- Job_37:22viniendo de...del n la dorada claridadH6828
+- Sal_48:2el monte de Sien, a los lados del nH6828
+- Sal_89:12el n y el sur, tú los creaste; el TaborH6828
+- Sal_107:3los ha congregado de...del n y del surH6828
+- Pro_25:23el viento del n ahuyenta la lluviaH6828
+- Ecl_1:6el viento tira hacia el sur, y...al nH6828
+- Ecl_11:3si el árbol cayere...al n, en el lugar queH6828
+- Isa_14:13trono...me sentaré, a los lados del nH6828
+- Isa_14:31porque horno vendrá del n, no quedaráH6828
+- Isa_41:25del n levanté a uno, y vendrá...del solH6828
+- Isa_43:6diré al n: Da acá; y al sur: No detengasH6828
+- Isa_49:12he aquí éstos del n y del occidente, yH6828
+- Jer_1:13que hierve; y su faz está hacia el nH6828
+- Jer_1:14del n se soltará el mal sobre todos losH6828
+- Jer_1:15yo convoco a todas las familias...del nH6828
+- Jer_3:12vé y clama estas palabras hacia el nH6828
+- Jer_3:18vendrán juntamente de la tierra del n aH6828
+- Jer_4:6huid...porque yo hago venir mal del n, yH6828
+- Jer_6:1huid, hijos porque del n se ha visto malH6828
+- Jer_6:22viene pueblo de la tierra del n, y unaH6828
+- Jer_10:22alboroto grande de la tierra del n, paraH6828
+- Jer_13:20alzad...y ved a los que vienen del nH6828
+- Jer_15:12quebrar...el hierro del n y el bronce?[[H6828]]
+- Jer_16:15hizo subir...Israel de la tierra del nH6828
+- Jer_23:8que hizo subir...Israel de tierra del nH6828
+- Jer_25:9tomaré a todas las tribus del n, diceH6828
+- Jer_25:26a todos los reyes del n, los de cercaH6828
+- Jer_31:8yo los hago volver de la tierra del nH6828
+- Jer_46:6al n junto a la ribera del EufratesH6828
+- Jer_46:10sacrificio...tierra del n junto al ríoH6828
+- Jer_46:20es Egipto; mas viene destrucción, del nH6828
+- Jer_46:24entregada será en manos...pueblo del nH6828
+- Jer_47:2suben aguas del n, y se harán torrenteH6828
+- Jer_50:3subió contra ella una nación del n...laH6828
+- Jer_50:9de grandes pueblos de la tierra del nH6828
+- Jer_50:41aquí viene un pueblo del n, y una naciónH6828
+- Jer_51:48del n vendrán contra ella destruidoresH6828
+- Eze_1:4aquí venía del n un viento tempestuosoH6828
+- Eze_8:3la puerta de adentro que mira hacia el nH6828
+- Eze_8:5alza ahora tus ojos hacia el lado del nH6828
+- Eze_8:5alcé mis ojos hacia el n, y he aquí al nH6828
+- Eze_8:14me llevó a la entrada de...que está al nH6828
+- Eze_9:2la puerta de arriba que mira hacia el nH6828
+- Eze_16:46ella y sus hijas, que habitan al n de tiH8040
+- Eze_20:47y serán quemados en...el sur hasta el nH6828
+- Eze_21:4cortar de ti al...desde el sur hasta el nH6828
+- Eze_26:7que del n traigo...a Nabucodonosor rey deH6828
+- Eze_32:30allí los príncipes del n, todos ellosH6828
+- Eze_38:6casa de Togarma, de los confines del nH6828
+- Eze_38:15vendrás de...de las regiones del n, tú yH6828
+- Eze_39:2te haré subir de las partes del n, y teH6828
+- Eze_40:19de cien codos hacia el oriente y el nH6828
+- Eze_40:20de la puerta que estaba hacia el n enH6828
+- Eze_40:23estaba enfrente de la puerta hacia el nH6828
+- Eze_40:35me llevó...a la puerta del n, y midióH6828
+- Eze_40:40a la entrada de la puerta del n, habíaH6828
+- Eze_40:44el atrio...al lado de la puerta del nH6828
+- Eze_40:44al lado de la...que miraba hacia el nH6828
+- Eze_40:46cámara que mira hacia el n es de losH6828
+- Eze_41:11una puerta hacia el n, y otra puertaH6828
+- Eze_42:1me trajo...al atrio exterior hacia el nH6828
+- Eze_42:1espacio abierto que quedaba...hacia el nH6828
+- Eze_42:2delante de la puerta del n su longitudH6828
+- Eze_42:4un corredor...y sus puertas daban al nH6828
+- Eze_42:11de las cámaras que estaban hacia el nH6828
+- Eze_42:13las cámaras del n y las del sur, queH6828
+- Eze_42:17midió al lado del n, quinientas cañasH6828
+- Eze_44:4y me llevó hacia la puerta del n porH6828
+- Eze_46:9entrare por la puerta del n saldrá porH6828
+- Eze_46:9que entrare...saldrá por la puerta del nH6828
+- Eze_46:19las cámaras...las cuales miraban al nH6828
+- Eze_47:2me sacó por...la puerta del n, y me hizoH6828
+- Eze_47:15el límite de la...hacia el lado del nH6828
+- Eze_47:17será el límite del n desde el mar hastaH6828
+- Eze_47:17Hazar-enán en el límite de Damasco al nH6828
+- Eze_47:17y al límite de Hamat al lado del nH6828
+- Eze_48:1desde el extremo n por la vía de HetlónH6828
+- Eze_48:1al n, hacia Hamat, tendrá Dan una parteH6828
+- Eze_48:10será de veinticinco mil cañas al n, yH6828
+- Eze_48:16lado del n cuatro mil quinientas cañasH6828
+- Eze_48:17el ejido de la ciudad será al n de 250H6828
+- Eze_48:30al lado del n, 4.500 cañas por medidaH6828
+- Eze_48:31tres puertas al n: la puerta de RubénH6828
+- Dan_8:4vi que el carnero hería...al n y al surH6828
+- Dan_11:6hija del rey del sur vendrá al rey del nH6828
+- Dan_11:7vendrá...contra el rey del n, y entraráH6828
+- Dan_11:8años se mantendrá él contra el rey del nH6828
+- Dan_11:11y saldrá y peleará contra el rey del nH6828
+- Dan_11:13el rey del n volverá a poner en campañaH6828
+- Dan_11:15el rey del n, y levantará baluartesH6828
+- Dan_11:40rey del n se levantará contra él comoH6828
+- Dan_11:44noticias del...y del n lo atemorizaránH6828
+- Joe_2:20y haré alejar de vosotros al del n, yH6830
+- Amó_8:12el n hasta el oriente discurriránH6828
+- Sof_2:13extenderá su mano sobre el n...AsiriaH6828
+- Zac_2:6huid de la tierra del n, dice JehováH6828
+- Zac_6:6el carro con...salía hacia la tierra del nH6828
+- Zac_6:8los que salieron hacia la tierra del nH6828
+- Zac_6:8reposar mi Espíritu en la tierra del nH6828
+- Zac_14:4la mitad...se apartará hacia el n, y laH6828
+- Luc_13:29vendrán del oriente...del n y del surG1005
+- Rev_21:13n tres puertas; al sur tres puertasG1005

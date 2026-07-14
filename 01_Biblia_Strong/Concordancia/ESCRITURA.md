@@ -1,0 +1,76 @@
+---
+tipo: concordancia
+palabra: ESCRITURA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESCRITURA
+
+- Éxo_32:16obra de Dios, y la e era e de DiosH4385
+- Deu_10:4y escribió...conforme a la primera eH4385
+- Esd_4:7la e y el lenguaje de la carta eran enH3791
+- Est_1:22a cada provincia conforme a su e, yH3791
+- Est_3:12; Est_8:9cada provincia según su e, y a cadaH3791
+- Est_8:9a los judíos también conforme a su e y aH3791
+- Isa_38:9e de Ezequías rey...de cuando enfermóH4385
+- Jer_32:44harán e y la sellarán y...testigosH3789
+- Dan_5:7cualquiera que lea esta e y me muestreH3792
+- Dan_5:8no pudieron leer la e ni mostrar al reyH3792
+- Dan_5:15para que leyesen esta e y me diesen suH3792
+- Dan_5:16si ahora puedes leer esta e y darme suH3792
+- Dan_5:17leeré la e...y le daré la interpretaciónH3792
+- Dan_5:24fue enviada la mano que trazó esta eH3792
+- Dan_5:25y la e que trazó es: MENE, MENE, TEKELH3792
+- Mat_21:42¿nunca leísteis en las E: La piedraG1124
+- Mat_22:29erráis, ignorando las E y el poder deG1124
+- Mat_26:54cómo entonces se cumplirían las E, deG1124
+- Mat_26:56que se cumplan las E de los profetasG1124
+- Mar_12:10¿ni aun esta e habéis leído: La piedraG1124
+- Mar_12:24ignoráis las E, y el poder de Dios?[[G1124]]
+- Mar_14:49pero es así, para que se cumplan las EG1124
+- Mar_15:28se cumplió la E que dice: Y fue contadoG1124
+- Luc_4:21hoy se ha cumplido esta E delante deG1124
+- Luc_24:27declaraba en todas las E lo que de élG1124
+- Luc_24:32ardía nuestro corazón...nos abría las E?[[G1124]]
+- Luc_24:45les abrió...para que comprendiesen las EG1124
+- Jua_2:22creyeron la E y la palabra que JesúsG1124
+- Jua_5:39escudriñad las E; porque a vosotros osG1124
+- Jua_7:38como dice la E, de su interior correránG1124
+- Jua_7:42¿no dice la E que del linaje de DavidG1124
+- Jua_10:35llamó...y la E no puede ser quebrantadaG1124
+- Jua_13:18se cumpla la E: El que come pan conmigoG1124
+- Jua_17:12el hijo de perdición, para que la E seG1124
+- Jua_19:24para que se cumpliese la E, que diceG1124
+- Jua_19:28para que la E se cumpliese: Tengo sedG1124
+- Jua_19:36cumpliese la E: No será quebrado huesoG1124
+- Jua_19:37otra E dice: Mirarán al que traspasaronG1124
+- Jua_20:9porque aún no habían entendido la E, queG1124
+- Hec_1:16se cumpliese la E en que el EspírituG1124
+- Hec_8:32el pasaje de la E que leía era esteG1124
+- Hec_8:35comenzando desde esta e, le anunció elG1124
+- Hec_17:3exponiendo por medio de las E, que eraG1124
+- Hec_17:11escudriñando cada día las E para verG1124
+- Hec_18:24Apolos...elocuente, poderoso en las EG1124
+- Hec_18:28demostrando por las E que Jesús era elG1124
+- Rom_1:2había prometido antes...en las santas EG1124
+- Rom_4:3¿qué dice la E? Creyó Abraham a Dios, yG1124
+- Rom_9:17la E dice a Faraón: Para esto mismo teG1124
+- Rom_10:11E dice: Todo aquel que en él creyereG1124
+- Rom_11:2no sabéis qué dice de Elías la E, cómoG1124
+- Rom_15:4de que por...las E, tengamos esperanzaG1124
+- Rom_16:26que por las E...se ha dado a conocer aG1124
+- 1Co_15:3que Cristo murió...conforme a las EG1124
+- 1Co_15:4que resucitó al...día, conforme a las EG1124
+- Gál_3:8la E...dio de antemano la buena nueva aG1124
+- Gál_3:22la E lo encerró todo bajo pecado, paraG1124
+- Gál_4:30¿qué dice la E? Echa fuera a la esclavaG1124
+- 1Ti_5:18la E dice: No pondrás bozal al bueyG1124
+- 2Ti_3:15la niñez has sabido las Sagradas EG1121
+- 2Ti_3:16toda la E es inspirada por Dios, y útilG1124
+- Stg_2:8cumplís la ley real, conforme a la EG1124
+- Stg_2:23cumplió la E que dice: Abraham creyó aG1124
+- Stg_4:5¿o pensáis que la E dice en vano: ElG1124
+- 1Pe_2:6contiene la E: He aquí, pongo en SionG1124
+- 2Pe_1:20ninguna profecía de la E es...privadaG1124
+- 2Pe_3:16también las otras E, para su...perdiciónG1124

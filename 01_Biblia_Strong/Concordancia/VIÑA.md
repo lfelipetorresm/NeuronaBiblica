@@ -1,0 +1,131 @@
+---
+tipo: concordancia
+palabra: VIÑA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VIÑA
+
+- Gén_9:20comenzó Noé a labrar...y plantó una vH3754
+- Éxo_22:5alguno hiciere pastar en campo o v, yH3754
+- Éxo_22:5de lo mejor de su campo y...su v pagaráH3754
+- Éxo_23:11coman los pobres de...así harás con tu vH3754
+- Lev_19:10no rebuscarás tu v, ni recogerás elH3754
+- Lev_19:10ni recogerás el fruto caído de tu vH3754
+- Lev_25:3seis años podarás tu v y recogerás susH3754
+- Lev_25:4no sembrarás tu tierra, ni podarás tu vH3754
+- Núm_16:14ni nos has...heredades de tierras y vH3754
+- Núm_20:5no es lugar de...v ni de granadas; ni aunH1612
+- Núm_20:17no pasaremos por labranza, ni por v, niH3754
+- Núm_21:22no nos iremos...sembrados, ni por las vH3754
+- Núm_22:24el ángel de...se puso en una senda de vH3754
+- Deu_6:11casas...v y olivares que no plantasteH3754
+- Deu_20:6plantado v, y no ha disfrutado de ella?[[H3754]]
+- Deu_22:9no sembrarás tu v con semillas diversasH3754
+- Deu_22:9no sea que se pierda todo...fruto de la vH3754
+- Deu_23:24la v de tu prójimo, podrás comer uvasH3754
+- Deu_24:21cuando vendimies tu v, no rebuscarásH3754
+- Deu_28:30casa...plantarás v, y no la disfrutarásH3754
+- Deu_28:39plantarás v...pero no beberás vino, niH3754
+- Jos_24:13las v y olivares que no plantasteisH3754
+- Jue_11:33hasta la vega de las v, los derrotóH3754
+- Jue_14:5cuando llegaron a las v de Timnat, heH3754
+- Jue_15:5quemó las mieses...en pie, v y olivaresH3754
+- Jue_21:20mandaron a...poned emboscadas en las vH3754
+- Jue_21:21salid de las v, y arrebatad cada...mujerH3754
+- 1Sa_8:14tomará lo mejor...de vuestras v y deH3754
+- 1Sa_8:15diezmará...grano y vuestras v para dar aH3754
+- 1Sa_22:7¿os dará...el hijo de Isaí tierras y vH3754
+- 1Re_21:1que Nabot...tenía allí una v junto alH3754
+- 1Re_21:2dame tu v para un huerto de legumbresH3754
+- 1Re_21:2te daré por ella otra v mejor que estaH3754
+- 1Re_21:6me diera su v...le daría otra v por ellaH3754
+- 1Re_21:6Nabot...él respondió: Yo no te daré mi vH3754
+- 1Re_21:7rey...yo te daré la v de Nabot de JezreelH3754
+- 1Re_21:15toma la v de Nabot de Jezreel, que noH3754
+- 1Re_21:16levantó para descender a la v de NabotH3754
+- 1Re_21:18él está en la v de Nabot, a la cual haH3754
+- 2Re_5:26de tomar...v, ovejas, bueyes, siervosH3754
+- 2Re_18:32tierra de pan y de v, tierra de olivasH3754
+- 2Re_19:29y plantaréis v, y comeréis el fruto deH3754
+- 2Re_25:12los pobres...para que labrasen las v yH3754
+- 1Cr_27:27las v, Simei...y del fruto de las vH3754
+- 2Cr_26:10y v y labranzas, así en los montesH3754
+- Neh_5:3empeñado...nuestras v y nuestras casasH3754
+- Neh_5:4hemos tomado...sobre nuestras tierras y vH3754
+- Neh_5:5porque nuestras tierras y nuestras v sonH3754
+- Neh_5:11os ruego que les devolváis hoy...sus vH3754
+- Neh_9:25heredaron casas llenas de todo bien...vH3754
+- Job_24:6siegan...impíos vendimian la v ajenaH3754
+- Job_24:18huyen...no andarán por el camino de las vH3754
+- Sal_78:47sus v destruyó con granizo, y susH1612
+- Sal_80:14mira desde...considera, y visita esta vH1612
+- Sal_105:33destrozó sus v y sus higueras, y quebróH1612
+- Sal_107:37plantan v, y rinden abundante frutoH3754
+- Pro_24:30pasé...junto a la v del hombre falto deH3754
+- Pro_31:16compra...planta v del fruto de sus manosH3754
+- Ecl_2:4edifiqué para mí casas, planté para mí vH3754
+- Cnt_1:6guardar las v; y mi v...mía, no guardéH3754
+- Cnt_1:14racimo de flores de alheña en las v esH3754
+- Cnt_2:15echan a perder las v...v están en cierneH3754
+- Cnt_7:12levantémonos de mañana a las v; veamosH3754
+- Cnt_8:11Salomón tuvo una v en Baal-hamón, la cualH3754
+- Cnt_8:12mi v, que es mía, está delante de míH3754
+- Isa_1:8la hija de Sion como enramada en v, yH3754
+- Isa_3:14habéis devorado la v, y el despojo delH3754
+- Isa_5:1ahora cantaré...cantar de mi amado a su vH3754
+- Isa_5:1tenía mi amado una v en una ladera fértilH3754
+- Isa_5:3y varones...juzgad ahora entre mí y mi vH3754
+- Isa_5:4¿qué más se podía hacer a mi v, que yo noH3754
+- Isa_5:5os mostraré...ahora lo que haré yo a mi vH3754
+- Isa_5:7v de Jehová de los...es la casa de IsraelH3754
+- Isa_5:10y diez yugadas de v producirán un batoH3754
+- Isa_16:9con lloro de Jazer por la v de Sibma; teH1612
+- Isa_16:10las v no cantarán, ni se regocijaránH3754
+- Isa_27:2día cantad acerca de la v del vino rojoH3754
+- Isa_36:16y coma cada uno de su v, y cada uno deH1612
+- Isa_36:17y os lleve a una tierra...de pan y de vH3754
+- Isa_37:30año...plantaréis v, y comeréis su frutoH3754
+- Isa_65:21plantarán v, y comerán el fruto de ellasH3754
+- Jer_5:17vacas, comerá tus v y tus higuerasH1612
+- Jer_12:10pastores han destruido mi v, hollaronH3754
+- Jer_31:5aún plantarás v en los montes de SamariaH3754
+- Jer_32:15aún se comprarán casas, heredades y vH3754
+- Jer_35:7ni plantaréis v, ni la retendréis; sinoH3754
+- Jer_35:9de no tener v, ni heredad, ni sementeraH3754
+- Jer_39:10a los pobres del...les dio v y heredadesH3754
+- Eze_19:10madre fue...una vid en medio de la vH1612
+- Eze_28:26plantarán v, y vivirán confiadamenteH3754
+- Ose_2:15le daré sus v desde allí, y el valleH3754
+- Ose_10:1Israel es una frondosa v, que da...frutoH1612
+- Amó_4:9langosta devoró...huertos y vuestras vH3754
+- Amó_5:11plantasteis...v, mas no beberéis el vinoH3754
+- Amó_5:17y en todas las v habrá llanto; porqueH3754
+- Amó_9:14plantarán v, y beberán el vino de ellasH3754
+- Miq_1:6haré...Samaria...tierra para plantar vH3754
+- Sof_1:13plantarán v, mas no beberán el vinoH3754
+- Mat_20:1salió...a contratar obreros para su vG290
+- Mat_20:2y habiendo convenido...los envió a su vG290
+- Mat_20:4Id también vosotros a mi v, y os daréG290
+- Mat_20:7id también vosotros a la v, y recibiréisG290
+- Mat_20:8el señor de la v dijo a su mayordomoG290
+- Mat_21:28dijo: Hijo, vé hoy a trabajar en mi vG290
+- Mat_21:33plantó una v, la cercó de vallado, cavóG290
+- Mat_21:39le echaron fuera de la v, y le mataronG290
+- Mat_21:40cuando venga, pues, el señor de la vG290
+- Mat_21:41arrendará su v a otros labradores, queG290
+- Mar_12:1un hombre plantó una v, la cercó deG290
+- Mar_12:2para que recibiese...del fruto de la vG290
+- Mar_12:8le mataron, y le echaron fuera de la vG290
+- Mar_12:9¿qué...hará el señor de la v? Vendrá, yG290
+- Mar_12:9a los labradores, y dará su v a otrosG290
+- Luc_13:6tenía...una higuera plantada en su vG290
+- Luc_20:9plantó una v, la arrendó a labradores, yG290
+- Luc_20:10para que le diesen del fruto de la vG290
+- Luc_20:13entonces el señor de la v...¿Qué haré?[[G290]]
+- Luc_20:15le echaron fuera de la v, y le mataronG290
+- Luc_20:15¿qué, pues, les hará el señor de la v?[[G290]]
+- Luc_20:16vendrá y destruirá...dará su v a otrosG290
+- 1Co_9:7¿quién planta v y no come de...fruto?[[G290]]
+- Rev_14:19el ángel...vendimió la v de la tierraG288

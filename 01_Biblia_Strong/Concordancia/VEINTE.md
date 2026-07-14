@@ -1,0 +1,102 @@
+---
+tipo: concordancia
+palabra: VEINTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VEINTE
+
+- Véase también Veintiuno, Veinte Mil, etc.
+- Gén_18:31he aquí...quizá se hallarán allí vH6242
+- Gén_18:31no la destruiré...por amor a los vH6242
+- Gén_31:38v años he estado contigo; tus ovejasH6242
+- Gén_31:41he estado v años en tu casa; catorceH6242
+- Gén_32:14v machos cabríos...ovejas y v carnerosH6242
+- Gén_32:15diez novillos, v asnas y diez borricosH6242
+- Gén_37:28le vendieron a...por v piezas de plataH6242
+- Éxo_26:18v tablas al lado del mediodía, al surH6242
+- Éxo_26:19basas de plata debajo de las v tablasH6242
+- Éxo_26:20al otro lado del tabernáculo...v tablasH6242
+- Éxo_27:10sus v columnas y sus v basas serán deH6242
+- Éxo_27:11v columnas con sus v basas de bronceH6242
+- Éxo_27:16y para la puerta...cortina de v codosH6242
+- Éxo_30:13el siclo es de v geras...La mitad de unH6242
+- Éxo_30:14el que sea contado, de v años arribaH6242
+- Éxo_36:23v tablas al lado del sur, al mediodíaH6242
+- Éxo_36:24cuarenta basas...debajo de las v tablasH6242
+- Éxo_36:25para...lado norte, hizo otras v tablasH6242
+- Éxo_38:10sus columnas eran v, con sus v basasH6242
+- Éxo_38:11columnas, v, con sus v basas de bronceH6242
+- Éxo_38:18la cortina...era de v codos de longitudH6242
+- Éxo_38:26a todos los...de edad de v años arribaH6242
+- Lev_27:3al varón de v años hasta sesenta, loH6242
+- Lev_27:5si fuere de cinco años hasta v, al varónH6242
+- Lev_27:5al varón lo estimarás en v siclos, y aH6242
+- Lev_27:25será conforme al siclo...tiene v gerasH6242
+- Núm_1:3, Núm_1:18, Núm_1:20, Núm_1:22, Núm_1:24, Núm_1:26, Núm_1:28, Núm_1:30, Núm_1:32, Núm_1:34, Núm_1:36, Núm_1:38, Núm_1:40, Núm_1:42, Núm_1:45de v años arriba, todos los queH6242
+- Núm_3:47siclos por cabeza...siclo tiene v gerasH6242
+- Núm_10:11a los v días del mes, la nube se alzóH6242
+- Núm_11:19no comeréis un día, ni dos..ni v díasH6242
+- Núm_14:29que fueron contados...de v años arribaH6242
+- Núm_18:16siclo del santuario, que es de v gerasH6242
+- Núm_26:2tomad el censo de toda...de v años arribaH6242
+- Núm_26:4contaréis el pueblo de v años arribaH6242
+- Núm_32:11no verán los varones...de v años arribaH6242
+- Jue_4:3oprimido...hijos de Israel por v añosH6242
+- Jue_11:33Aroer hasta llegar a Minit, v ciudadesH6242
+- Jue_15:20juzgó a Israel en los días de...v añosH6242
+- Jue_16:31sepultaron...Y él juzgó a Israel v añosH6242
+- 1Sa_7:2que llegó el arca a...pasaron...v añosH6242
+- 1Sa_14:14matanza que hicieron...como v hombresH6242
+- 2Sa_3:20vino, pues, Abner...con él v hombresH6242
+- 2Sa_9:10y tenía Siba quince hijos y v siervosH6242
+- 2Sa_19:17venían...asimismo Siba...y sus v siervosH6242
+- 2Sa_24:8volvieron...al cabo de 9 meses y v díasH6242
+- 1Re_4:23diez bueyes gordos, v bueyes de pastoH6242
+- 1Re_5:11daba a Hiram...y v coros de aceite puroH6242
+- 1Re_6:2la casa...v de ancho, y 30 codos de altoH6242
+- 1Re_6:3el pórtico...tenía v codos de largo a loH6242
+- 1Re_6:16final de la casa un edificio de v codosH6242
+- 1Re_6:20v codos de largo, v de ancho, y v deH6242
+- 1Re_9:10cabo de v años, cuando Salomón ya habíaH6242
+- 1Re_9:11el rey Salomón dio a Hiram v ciudadesH6242
+- 1Re_15:9en el año v de Jeroboam rey de IsraelH6242
+- 2Re_4:42v panes de cebada, y trigo nuevo enH6242
+- 2Re_15:27Peka hijo de Remalías...y reinó v añosH6242
+- 2Re_15:30a los v años de Jotam hijo de UzíasH6242
+- 2Re_16:2comenzó a reinar Acaz era de v años, yH6242
+- 1Cr_23:24los hijos de Leví...v años arribaH6242
+- 1Cr_23:27cuenta de los hijos de Leví de v añosH6242
+- 1Cr_27:23no tomó...los que eran de v años abajoH6242
+- 2Cr_3:3casa de Dios...la anchura de v codosH6242
+- 2Cr_3:4el pórtico que...era de v codos de largoH6242
+- 2Cr_3:8el lugar santísimo, cuya...era: de v codosH6242
+- 2Cr_3:8anchura de v codos; y lo cubrió de oroH6242
+- 2Cr_3:11la longitud de las alas..era de v codosH6242
+- 2Cr_3:13tenían las alas extendidas por v codosH6242
+- 2Cr_4:1un altar de bronce de v codos de longitudH6242
+- 2Cr_4:1altar...v codos de anchura, y diez codosH6242
+- 2Cr_8:1v años, durante los cuales Salomón habíaH6242
+- 2Cr_25:5en lista a todos los de v años arribaH6242
+- 2Cr_28:1v años era Acaz cuando comenzó a reinarH6242
+- 2Cr_31:17a los levitas de edad de v años arribaH6242
+- Esd_3:8pusieron a los levitas de v años arribaH6242
+- Esd_8:19y con él a...sus hermanos y a sus hijos, vH6242
+- Esd_8:27v tazones de oro de mil dracmas, y dosH6242
+- Esd_10:9se reunieron...a los v días del mes, queH6242
+- Neh_1:1el año v, estando yo en Susa, capitalH6242
+- Neh_2:1sucedió...en el año v del rey ArtajerjesH6242
+- Neh_5:14el año v del rey Artajerjes hasta el añoH6242
+- Eze_4:10la comida...de peso de v siclos al díaH6242
+- Eze_40:49la longitud del pórtico, v codos, y elH6242
+- Eze_41:2midió su longitud...la anchura de v codosH6242
+- Eze_41:4su longitud, de v codos, y...anchura de vH6242
+- Eze_41:10y entre las cámaras había anchura de vH6242
+- Eze_42:3frente a...v codos que había en el atrioH6242
+- Eze_45:5cual será para los levitas...con v cámarasH6242
+- Eze_45:12y el siclo será de v geras...V siclosH6242
+- Hag_2:16venían al montón de v efas, y habíaH6242
+- Hag_2:16lagar para sacar 50 cántaros, y había vH6242
+- Zac_5:2veo un rollo que vuela, de v codos deH6242
+- Hec_27:28echando la sonda, hallaron v brazasG1501

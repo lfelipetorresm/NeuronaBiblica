@@ -1,0 +1,85 @@
+---
+tipo: concordancia
+palabra: PLAGA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PLAGA
+
+- Gén_12:17Jehová hirió a Faraón...con grandes pH5061
+- Éxo_9:3la mano de Jehová estará...p gravísimaH1698
+- Éxo_9:14yo enviaré...vez todas mis p a tu corazónH4096
+- Éxo_9:15para herirte a ti y a tu pueblo de pH1698
+- Éxo_10:17que quite de mí al menos esta p mortal
+- Éxo_11:1una p traeré aún sobre Faraón y sobreH5061
+- Éxo_12:13y no habrá en vosotros p de mortandadH5063
+- Lev_13:47en un vestido hubiere p de lepra, yaH5061
+- Lev_13:49p fuere verdosa, o rojiza, en vestidoH5061
+- Lev_13:49p es de lepra, y se ha de mostrar alH5061
+- Lev_13:50el sacerdote mirará la p, y encerraráH5061
+- Lev_13:51mirará la p...se hubiere extendido la pH5061
+- Lev_13:51si...lepra maligna es la p; inmunda seráH5061
+- Lev_13:52vestido...en que hubiere tal p, porqueH5061
+- Lev_13:53no pareciere que la p se haya extendidoH5061
+- Lev_13:54mandará que laven donde está la p, y loH5061
+- Lev_13:55mirará...la p...que la p no ha cambiadoH5061
+- Lev_13:55no se haya extendido la p, inmunda esH5061
+- Lev_13:56que la p se ha oscurecido después queH5061
+- Lev_13:57al fuego aquello en que estuviere la pH5061
+- Lev_13:58le quitare la p, se lavará segunda vezH5061
+- Lev_13:59esta es la ley para la p de la lepra delH5061
+- Lev_14:3si ve que está sana la p de la lepra delH5061
+- Lev_14:32para el que hubiere tenido p de lepraH5061
+- Lev_14:34si pusiere yo p de lepra en alguna casaH5061
+- Lev_14:35algo como p ha aparecido en mi casaH5061
+- Lev_14:36antes que entre a mirar la p, para queH5061
+- Lev_14:37examinará la p; y si se vieren manchasH5061
+- Lev_14:39p se hubiere extendido en las paredesH5061
+- Lev_14:40las piedras en que estuviere la p, y lasH5061
+- Lev_14:43la p volviere a brotar en aquella casaH5061
+- Lev_14:44haberse extendido la p en la casa, esH5061
+- Lev_14:48viere que la p no se ha extendido en laH5061
+- Lev_14:48limpia la casa...la p ha desaparecidoH5061
+- Lev_14:54es la ley acerca de toda p de lepra yH5061
+- Lev_26:21siete veces...p según vuestros pecadosH4347
+- Núm_8:19que no haya p en los hijos de IsraelH5063
+- Núm_11:33e hirió Jehová al pueblo con una p muyH4347
+- Núm_14:37que habían hablado mal...murieron de pH4046
+- Deu_7:15las malas p de Egipto, que tú conocesH4064
+- Deu_24:8cuanto a la p de la lepra, ten cuidadoH5061
+- Deu_28:59Jehová aumentará...tus p y las p de tuH4347
+- Deu_28:59aumentará...p grandes y permanentesH4347
+- Deu_28:61toda p que no está escrita en el libroH4347
+- Deu_29:22cuando vieren las p de aquella tierraH4347
+- 1Sa_4:8que hirieron a Egipto con toda p enH4347
+- 1Sa_6:4una misma p ha afligido a todos vosotrosH4046
+- 2Sa_24:25Jehová oyó las...cesó la p en IsraelH4046
+- 1Re_8:37hubiere...cualquier p o enfermedad queH5061
+- 1Re_8:38cualquiera sintiere la p en su corazónH5061
+- 2Cr_6:28cualquiera p o enfermedad que seaH5061
+- 2Cr_21:14Jehová herirá a tu pueblo de una gran pH5061
+- Sal_38:11amigos...se mantienen lejos de mi pH5061
+- Sal_39:10quita de sobre mí tu p; estoy consumidoH5061
+- Sal_64:7Dios los herirá...de repente serán sus pH5061
+- Sal_91:10no te sobrevendrá...p tocará tu moradaH5061
+- Sal_106:30levantó Finees e hizo...se detuvo la pH4046
+- Jer_14:17es quebrantada la...de p muy dolorosaH4347
+- Zac_14:12será la p con que herirá Jehová aH4046
+- Zac_14:15así tambiénserá la p de los caballosH4046
+- Zac_14:18vendrá la p con que Jehová herirá lasH4046
+- Mar_3:10tocarle, cuantos tenían p caían sobreG3148
+- Luc_7:21sanó a muchos de enfermedades y p, yG3148
+- Hec_24:5hemos hallado que...hombre es una pG3061
+- Rev_9:18p fue muerta la tercera parte de los
+- Rev_9:20los...que no fueron muertos con estas pG4127
+- Rev_11:6poder...para herir la tierra con toda pG4127
+- Rev_15:1, Rev_15:6siete ángeles que tenían las siete pG4127
+- Rev_15:8que se hubiesen cumplido las siete p deG4127
+- Rev_16:9de Dios, que tiene poder sobre estas pG4127
+- Rev_16:21blasfemaron...Dios por la p del granizoG4127
+- Rev_16:21porque su p fue sobremanera grandeG4127
+- Rev_18:4sus pecados, ni recibáis parte de sus pG4127
+- Rev_18:8por lo cual en un solo día vendrán sus pG4127
+- Rev_21:9las siete copas llenas de las siete pG4127
+- Rev_22:18Dios traerá sobre él las p que estánG4127

@@ -1,0 +1,306 @@
+---
+tipo: concordancia
+palabra: CONTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONTAR
+
+- Gén_13:16si alguno puede contar el polvo de laH4487
+- Gén_13:16también tu descendencia será contadaH4487
+- Gén_15:5cuenta las estrellas, si...puedes contarH5608
+- Gén_15:6y creyó a Jehová...contado por justiciaH2803
+- Gén_16:10que no podrá ser contada a causa de laH5608
+- Gén_24:66criado contó a Isaa c todo lo que habíaH5608
+- Gén_29:13y él contó a Labán todas estas cosasH5608
+- Gén_32:12que no se puede contar por la multitudH5608
+- Gén_37:5y soñó José un sueño, y lo contó a susH5046
+- Gén_37:9otro sueño, y lo contó a sus hermanosH5608
+- Gén_37:10lo contó a su padre y a sus hermanosH5608
+- Gén_40:8¿no son de Dios las...Contádmelo ahoraH5608
+- Gén_40:9contó su sueño a José, y le dijo: YoH5608
+- Gén_41:8los magos...les contó Faraón sus sueñosH5608
+- Gén_41:12y se lo contamos, y él nos interpretóH5608
+- Gén_41:49no poderse contar...no tenía númeroH5608
+- Gén_42:29le contaron todo lo que les...acontecidoH5046
+- Gén_44:24le contamos las palabras de mi señorH5046
+- Gén_45:27le contaron todas las palabras de JoséH1696
+- Éxo_4:28contó Moisés a Aarón...las palabras deH5046
+- Éxo_10:2que cuentes a tus hijos y a tus nietosH5608
+- Éxo_12:37hombres de a pie, sin contar los niñosH905
+- Éxo_13:8lo contarás...a tu hijo, diciendo: Se haceH5046
+- Éxo_18:8y Moisés contó a su suegro todas lasH5608
+- Éxo_24:3vino y contó al pueblo, las palabras deH5608
+- Éxo_30:12cuando los cuentes, para que no hayaH6485
+- Éxo_30:12haya mortandad cuando los hayas contadoH6485
+- Éxo_30:13esto dará todo aquel que sea contadoH6485
+- Éxo_30:14el que sea contado...dará la ofrenda aH6485
+- Lev_7:18no será acepto, ni le será contadoH2803
+- Lev_15:13contará siete días...su purificación, yH5608
+- Lev_15:28libre de su flujo, contará siete díasH5608
+- Lev_23:15y contaréis desde el día que sigue alH5608
+- Lev_23:16día de reposo contaréis cincuenta díasH5608
+- Lev_25:8contarás siete semanas de años, sieteH5608
+- Lev_25:27contará los años desde que vendió, yH2803
+- Lev_25:50se contará el tiempo que estuvo con élH2803
+- Núm_1:3los que pueden salir a...los contaréisH6485
+- Núm_1:19Moisés...contó en el desierto de SinaíH6485
+- Núm_1:21los contados de la tribu de Rubén fueronH6485
+- Núm_1:22fueron contados conforme a la cuenta deH6485
+- Núm_1:23contados de la tribu de Simeón fueronH6485
+- Núm_1:25los contados de la tribu de Gad fueronH6485
+- Núm_1:27los contados de la tribu de Judá fueronH6485
+- Núm_1:29contados de la tribu de Isacar fueronH6485
+- Núm_1:31contados de la tribu de Zabulón fueronH6485
+- Núm_1:33contados de la tribu de Efraín fueronH6485
+- Núm_1:35contados de la tribu de Manasés fueronH6485
+- Núm_1:37contados de la tribu de Benjamín fueronH6485
+- Núm_1:39los contados de la tribu de Dan fueronH6485
+- Núm_1:41los contados de la tribu de Aser fueronH6485
+- Núm_1:43contados de la tribu de Neftalí fueronH6485
+- Núm_1:44fueron...contados, los cuales contaronH6485
+- Núm_1:45los contados de los hijos de Israel porH6485
+- Núm_1:46fueron todos los contados 603.550H6485
+- Núm_1:47levitas...no fueron contados entre ellosH6485
+- Núm_1:49solamente no contarás la tribu de LevíH6485
+- Núm_2:4, Núm_2:6, Núm_2:8, Núm_2:11, Núm_2:13, Núm_2:15, Núm_2:19, Núm_2:21, Núm_2:23, Núm_2:26, Núm_2:28, Núm_2:30cuerpo de ejército, con sus contadosH6485
+- Núm_2:9los contados en el campamento de JudáH6485
+- Núm_2:16los contados en el campamento de RubénH6485
+- Núm_2:24los contados en el campamento de EfraínH6485
+- Núm_2:31los contados en el campamento de DanH6485
+- Núm_2:32son los contados de los hijos de IsraelH6485
+- Núm_2:32todos los contados por campamentos, porH6485
+- Núm_2:33los levitas no fueron contados entre losH6485
+- Núm_3:15cuenta los hijos de Leví según...casasH6485
+- Núm_3:15contarás...los varones de un mes arribaH6485
+- Núm_3:16Moisés los contó conforme a...de JehováH6485
+- Núm_3:22los contados...conforme a la cuenta deH6485
+- Núm_3:22los contados de ellos fueron 7.500H6485
+- Núm_3:34contados...conforme al número de todosH6485
+- Núm_3:39los contados de los levitas, que MoisésH6485
+- Núm_3:39que Moisés...contaron por sus familiasH6485
+- Núm_3:40cuenta todos los primogénitos varonesH6485
+- Núm_3:40de un mes...y cuéntalos por sus nombresH4557
+- Núm_3:42contó Moisés, como Jehová le mandóH6485
+- Núm_4:23, Núm_4:30de treinta años arriba...los contarásH6485
+- Núm_4:29contarás los hijos de Merari por susH6485
+- Núm_4:34contaron a los hijos de Coat por susH6485
+- Núm_4:36, Núm_4:40, Núm_4:44contados de ellos por sus familiasH6485
+- Núm_4:37los contados de las familias de CoatH6485
+- Núm_4:37, Núm_4:41, Núm_4:45cuales contaron Moisés y AarónH6485
+- Núm_4:38, Núm_4:41los contados de los hijos de GersónH6485
+- Núm_4:42, Núm_4:45contados de las familias de...MerariH6485
+- Núm_4:46todos los contados de los levitas queH6485
+- Núm_4:46que Moisés...contaron por sus familiasH6485
+- Núm_4:48los contados de ellos fueron 8:580H6485
+- Núm_4:49como lo mandó Jehová...fueron contadosH6485
+- Núm_4:49los cuales contó...como le fue mandadoH6485
+- Núm_7:2los príncipes...estaban sobre los contadosH6485
+- Núm_13:27contaron, diciendo: Nosotros llegamosH5608
+- Núm_14:29que fueron contados de entre vosotrosH6485
+- Núm_18:27y se os contará, como grano de la eraH2803
+- Núm_18:30será contado...como producto de la eraH2803
+- Núm_23:9y no será contado entre las nacionesH2803
+- Núm_23:10¿quién contará el polvo de Jacob, o elH4487
+- Núm_26:4contaréis el pueblo de 20 años arriba
+- Núm_26:7estas...fueron contados de ellas 43:730H6485
+- Núm_26:18Gad; y fueron contados de ellas 40.500H6485
+- Núm_26:22de Judá, y fueron contados de...76.500H6485
+- Núm_26:25de Isacar, y...contados de ellas 64.300H6485
+- Núm_26:27zabulonitas...contados de ellas 60.500H6485
+- Núm_26:34estas...fueron contados de ellas 52.700H6485
+- Núm_26:37Efraín; y fueron contados de...32.500H6485
+- Núm_26:41de Benjamín...contados de ellas 45.600H6485
+- Núm_26:43los suhamitas fueron contados 64.400H6485
+- Núm_26:47de Aser; y fueron contados de...53.400H6485
+- Núm_26:50de Neftalí...contados de ellas 45.400H6485
+- Núm_26:51son los contados de los hijos de IsraelH6485
+- Núm_26:54su heredad conforme a sus contadosH6485
+- Núm_26:57los contados de los levitas por susH6485
+- Núm_26:62de los levitas fueron contados 23.000H6485
+- Núm_26:62no fueron contados entre los hijos deH6485
+- Núm_26:63los contados por Moisés y el...EleazarH6485
+- Núm_26:63los cuales contaron los hijos de IsraelH6485
+- Núm_26:64ninguno...de los contados por Moisés yH6485
+- Núm_26:64quienes contaron a los hijos de IsraelH6485
+- Deu_3:5sin contar otras muchas ciudades sinH905
+- Deu_15:9podrá clamar...y se te contará por pecado
+- Deu_16:9siete semanas contarás...que comenzareH5608
+- Deu_16:9comenzarás a contar las siete semanasH5608
+- Jos_2:23vinieron...le contaron todas las cosasH5608
+- Jue_6:13han contado, diciendo: ¿No nos sacóH5608
+- Jue_7:13un hombre estaba contando a...un sueñoH5608
+- Jue_13:6y le vino y se lo contó a su maridoH559
+- Jue_20:15contados...de Benjamín...26.000 hombresH6485
+- Jue_20:17fueron contados los varones de IsraelH6485
+- Jue_21:9fue contado el pueblo, y no hubo allíH6485
+- Rut_2:19contó ella a su suegra con quién habíaH5046
+- Rut_3:16y le contó ella todo lo que...acontecidoH5046
+- 1Sa_11:5y le contaron las palabras de...JabesH5608
+- 1Sa_11:8los contó en Bezec; y fueron...300.000H6485
+- 1Sa_13:15contó la gente que se hallaba con élH6485
+- 2Sa_4:2Beerot...también...contado con BenjamínH2803
+- 2Sa_11:19cuando acabes de contar al rey todosH1696
+- 2Sa_11:22contó a David todo aquello a que JoabH5046
+- 1Re_3:8pueblo grande, que no se puede contarH5608
+- 1Re_8:5bueyes...no se podían contar ni numerarH5608
+- 1Re_13:11le contó todo lo que el varón de DiosH5608
+- 1Re_13:11contaron...a su padre las palabras queH5608
+- 2Re_4:7vino ella...y lo contó al varón de DiosH5046
+- 2Re_8:4me cuentes...las maravillas que ha hechoH5608
+- 2Re_8:5contando al rey cómo había hecho vivirH5608
+- 2Re_8:6preguntando el rey...ella se lo contóH5608
+- 2Re_12:10y contaban el dinero que hallaban enH4487
+- 2Re_18:37le contaron las palabras del RabsacesH5046
+- 1Cr_5:1y no fue contado por primogénitoH3187
+- 1Cr_5:7por sus familias, cuando eran contadosH3187
+- 1Cr_5:17fueron contados...en días de Jotam reyH3187
+- 1Cr_7:2de Tola fueron contados por sus linajes
+- 1Cr_7:5contados...sus genealogías, eran 87.000H3187
+- 1Cr_7:7los hijos de Bela...fueron contados 22:034H3187
+- 1Cr_7:9contados por...resultaron 20.200 hombresH3187
+- 1Cr_7:40y contados que fueron por sus linajesH3187
+- 1Cr_9:1contado todo Israel...fueron escritos enH3187
+- 1Cr_9:22eran 212 cuando fueron contados por elH3187
+- 1Cr_21:6no fueron contados los levitas, ni losH6485
+- 1Cr_21:17soy yo el que hizo contar el pueblo?[[H4487]]
+- 1Cr_23:3fueron contados los levitas de 30 añosH5608
+- 1Cr_23:3levitas...contados uno por uno, 38.000H4557
+- 1Cr_23:11cual fueron contados como una familiaH6486
+- 1Cr_23:14los hijos de Moisés...fueron contadosH7121
+- 1Cr_23:24los hijos de Leví en...contados por susH6485
+- 1Cr_27:24Joab...había comenzado a contar; peroH4487
+- 2Cr_2:17contó Salomón todos los...extranjerosH5608
+- 2Cr_2:17después de haberlos ya contado DavidH5610
+- 2Cr_5:6por ser tantos no se pudieron contar niH5608
+- 2Cr_31:17contados entre los sacerdotes segúnH3187
+- 2Cr_34:16lo llevó al rey y le contó el asuntoH7725
+- Esd_2:65sin contar sus siervos y siervas, losH905
+- Neh_6:19contaban delante de mí...obras de elH559
+- Est_4:9Hata c y contó a Ester las palabras deH5046
+- Est_6:13contó...todo lo que le había acontecidoH5608
+- Job_3:6no sea contada entre los días del añoH4557
+- Job_13:24¿por qué...me cuentas por tu enemigoH2803
+- Job_14:16me cuentas los pasos, y no das treguaH5608
+- Job_15:17mostraré, y te contaré lo que he vistoH5608
+- Job_15:18los sabios nos contaron de sus padresH5046
+- Job_16:22los años contados vendrán, y yo iré aH4557
+- Job_19:11y me contó para sí entre sus enemigosH2803
+- Job_31:4mis caminos, y cuenta todos mis pasosH5608
+- Job_31:27yo le contaría el número de mis pasosH4557
+- Job_37:20será preciso contarle cuando yo hablareH5608
+- Job_39:2¿contaste tú los meses de su preñez, yH5608
+- Sal_9:1Jehová...contaré todas tus maravillasH5608
+- Sal_9:14para que cuente yo todas tus alabanzasH5608
+- Sal_19:1los cielos cuentan la gloria de DiosH5608
+- Sal_22:17contar puedo todos mis huesos; entreH5608
+- Sal_22:30esto será contado...hasta la postreraH5608
+- Sal_26:7y para contar todas tus maravillasH5608
+- Sal_40:5y tus...no es posible contarlos ante tiH5608
+- Sal_44:1nos han contado, la obra que hiciste enH5608
+- Sal_44:22contados como ovejas para el mataderoH2803
+- Sal_48:12andad...y rodeadla; contad sus torresH5608
+- Sal_48:13que lo contéis a la generación venideraH5608
+- Sal_56:8mis huidas tú has contado...lágrimasH5608
+- Sal_66:16y contaré lo que ha hecho a mi almaH5608
+- Sal_68:17los carros de Dios se cuentan por
+- Sal_69:26y cuentan del dolor de los que túH5608
+- Sal_73:28mi esperanza, para contar...tus obrasH5608
+- Sal_75:1los hombres cuentan tus maravillasH5608
+- Sal_78:3que nuestros padres nos las contaronH5608
+- Sal_78:4contando a la...las alabanzas de JehováH5608
+- Sal_78:6se levantarán lo cuenten a sus hijosH5608
+- Sal_87:6Jehová contará al inscribir a...pueblosH5608
+- Sal_88:4soy contado entre los que descienden alH2803
+- Sal_88:11contada en el sepulcro tu misericordiaH5608
+- Sal_90:12enséñanos de tal modo a contar nuestrosH4487
+- Sal_106:2obras...¿quién contará sus alabanzas?[[H8085]]
+- Sal_106:31contado por justicia de generación enH2803
+- Sal_118:17viviré, y contaré las obras de JAHH5608
+- Sal_119:13contado todos los juicios de tu bocaH5608
+- Sal_147:4él cuenta el número de las estrellasH4557
+- Pro_17:28el necio, cuando calla, es contado porH2803
+- Pro_27:14alta voz...por maldición se le contaráH2803
+- Ecl_1:15y lo incompleto no puede contarseH4487
+- Isa_10:19número que un niño los pueda contarH3789
+- Isa_10:28Migrón; en Micmas contará su ejércitoH6485
+- Isa_14:20no serás contado con...en la sepulturaH3161
+- Isa_22:10y contasteis las casas de Jerusalén, yH5608
+- Isa_36:22le contaron las palabras del RabsacesH5046
+- Isa_38:13contaba yo hasta la mañana. Como unH7737
+- Isa_40:26él saca y cuenta su ejército; a todosH4557
+- Isa_41:23haced...para que tengamos qué contarH8159
+- Isa_47:13que cuentan los meses, para pronosticarH3045
+- Isa_52:15verán lo que nunca les fue contado, yH5608
+- Isa_53:8y su generación, ¿quién la contará?[[H7878]]
+- Isa_53:12contado con los pecadores, habiendoH4487
+- Jer_23:27con sus sueños que cada uno cuentaH5608
+- Jer_23:28el profeta que tuviere un sueño, cuenteH5608
+- Jer_23:28y aquel a...cuente mi palabra verdaderaH1696
+- Jer_23:32los que profetizan sueños...los cuentanH5608
+- Jer_33:13por las manos del que los cuente, haH4487
+- Jer_33:22puede ser contado el ejército del cieloH5608
+- Jer_36:13y les contó Micaías todas las palabrasH5046
+- Jer_36:16sin duda contaremos al rey...palabrasH5046
+- Jer_36:17cuéntanos...cómo escribiste de boca deH5046
+- Jer_36:20y contaron a oídos del rey...palabrasH5046
+- Jer_51:10venid, y contemos en Sion la obra deH5608
+- Eze_12:16que cuenten todas sus abominacionesH5608
+- Eze_40:4cuenta...lo que ves a la casa de IsraelH5046
+- Eze_44:26después de su purificación...contaránH5608
+- Dan_4:8conté delante de él el sueño, diciendoH560
+- Dan_5:26MENE: contó Dios tu reino, y le haH4483
+- Ose_1:10arena...que no se puede medir ni contarH4557
+- Joe_1:3de esto contaréis a vuestros hijos, yH5608
+- Hab_1:5cuando se os contare, no la creeréisH5608
+- Mat_8:33y viniendo...contaron todas las cosasG518
+- Mat_10:30vuestros cabellos están todos contadosG705
+- Mat_14:21cinco mil...sin contar las mujeres y losG5565
+- Mat_15:38cuatro mil...sin contar las mujeres yG5565
+- Mat_26:13se contará lo que ésta ha hecho, paraG2980
+- Mar_5:16les contaron...cómo le había acontecidoG1334
+- Mar_5:19cuéntales cuán grandes cosas el Señor haG312
+- Mar_6:30y le contaron todo lo que habían hechoG518
+- Mar_14:9se contará lo que ésta ha hecho, paraG2980
+- Mar_15:28se cumplió...fue contado con los inicuosG3049
+- Luc_8:36les contaron cómo había sido salvadoG518
+- Luc_8:39cuenta cuán grandes cosas ha hecho DiosG1334
+- Luc_9:10le contaron todo lo que habían hechoG1334
+- Luc_12:7aun los cabellos...están todos contadosG705
+- Luc_13:1que le contaban acerca de los galileosG518
+- Luc_22:37cumpla. Y fue contado con los inicuosG3049
+- Luc_24:35contaban las cosas que les...acontecidoG1834
+- Hec_1:17y era contado con nosotros, y teníaG2674
+- Hec_1:26y fue contado con los once apóstolesG4785
+- Hec_4:23contaron todo lo que los principalesG518
+- Hec_8:33mas su generación, ¿quién la contará?[[G1334]]
+- Hec_9:27y les contó cómo Saulo había visto enG1334
+- Hec_10:8Jope, después de haberles contado todoG1834
+- Hec_11:4comenzó Pedro a contarles por orden loG1620
+- Hec_11:13quien nos contó cómo había visto en suG518
+- Hec_12:17les contó cómo el Señor te había sacadoG1334
+- Hec_13:41no creeréis, si alguien os la contareG1555
+- Hec_15:3contando la conversión de los gentilesG1555
+- Hec_15:12contaban cuán grandes señales...habíaG1834
+- Hec_15:14Simón ha contado cómo Dios visitó porG1834
+- Hec_21:19contó...las cosas que Dios había hechoG1834
+- Rom_4:3creyó...y le fue contado por justiciaG3049
+- Rom_4:4no se te cuenta el salario como graciaG3049
+- Rom_4:5cree...su fe le es contada por justiciaG3049
+- Rom_4:9que a Abraham le fue contada la fe porG3049
+- Rom_4:10¿como, pues, le fue contada? ¿EstandoG3049
+- Rom_4:11también a ellos la fe les sea contadaG3049
+- Rom_4:22también su fe le fue contada...justiciaG3049
+- Rom_4:23a él se escribió que le fue contadaG3049
+- Rom_4:24a nosotros a quienes ha de ser contadaG3049
+- Rom_8:36somos contados como ovejas de mataderoG3049
+- Rom_9:8no los...son contados como descendientesG3049
+- 2Co_10:12a contarnos ni a compararnos conG1469
+- Gál_3:6creyó...y te fue contado por justiciaG3049
+- 1Ts_1:9cuentan, manera en que...recibisteisG518
+- Heb_7:6aquel cuya genealogía no es contada deG1075
+- Heb_11:32tiempo me faltaría contando de GedeónG1334
+- Stg_2:23y le fue contado por justicia, y fueG3049
+- Rev_7:9multitud, la cual nadie podía contarG705
+- Rev_13:18cuente el número de la bestia, pues esG5585

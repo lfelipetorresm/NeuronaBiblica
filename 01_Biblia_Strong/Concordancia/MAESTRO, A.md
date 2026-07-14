@@ -1,0 +1,94 @@
+---
+tipo: concordancia
+palabra: MAESTRO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MAESTRO, A
+
+- Éxo_36:4vinieron todos los m que hacían todaH2450
+- 2Re_12:11en pagar a los...m que reparaban laH1129
+- 2Re_22:6a los carpinteros, m y albañiles, paraH1129
+- 1Cr_15:27Quenanías era m de canto entre losH8269
+- 1Cr_25:8servir...lo mismo el m que el discípuloH995
+- 2Cr_2:7que sepa esculpir con los m que estánH2450
+- Ecl_12:11clavos hincados son las de los m deH2450
+- Cnt_7:1joyas, obra de mano de excelente mH542
+- Isa_30:20tus m nunca más te serán quitadosH3384
+- Isa_30:20nunca...sino que tus ojos verán a tus mH3384
+- Isa_40:20se busca un m sabio, que le haga unaH2796
+- Isa_55:4lo di...por jefe y por m a las nacionesH6680
+- Nah_3:4ramera...m en hechizos, que seduce aH1172
+- Mat_8:19M, te seguiré adondequiera que vayasG1320
+- Mat_9:11qué come vuestro M con los publicanos yG1320
+- Mat_10:24el discípulo no es más que su m, ni elG1320
+- Mat_10:25bástale al discípulo ser como su m, yG1320
+- Mat_12:38diciendo: M, deseamos ver de ti señalG1320
+- Mat_17:24¿vuestro M no paga las dos dracmas?[[G1320]]
+- Mat_19:16M bueno, ¿qué bien haré para tener laG1320
+- Mat_22:16M, sabemos que eres amante de...verdadG1320
+- Mat_22:24M, Moisés dijo: Si alguno muriere sinG1320
+- Mat_22:36M: ¿cuál es el gran mandamiento en laG1320
+- Mat_23:8uno es vuestro M, el Cristo, y todosG2519
+- Mat_23:10ni seáis llamados m...uno es vuestro MG2519
+- Mat_26:18el M dice: Mi tiempo está cerca; en tuG1320
+- Mat_26:25respondiendo Judas...dijo: ¿Soy yo, M?[[G4461]]
+- Mat_26:49se acercó a Jesús y dijo: ¡Salve, MG4461
+- Mar_4:38M, ¿no tienes cuidado que perecemos?[[G1320]]
+- Mar_5:35ha muerto; ¿para qué molestas más al M?[[G1320]]
+- Mar_9:5M, bueno es para nosotros que estemosG4461
+- Mar_9:17dijo: M, traje a ti mi hijo, que tieneG1320
+- Mar_9:38M, hemos visto a uno que en tu nombreG1320
+- Mar_10:17M bueno, ¿qué haré para heredar la vidaG1320
+- Mar_10:20M, todo esto lo he guardado desde miG1320
+- Mar_10:35diciendo: M, querríamos que nos hagasG1320
+- Mar_10:51¿qué quieres...M, que recobre la vistaG4462
+- Mar_11:21M, mira, la higuera que maldijiste seG4461
+- Mar_12:14M, sabemos que eres hombre veraz, y queG1320
+- Mar_12:19M, Moisés...escribió que si el hermanoG1320
+- Mar_12:32M, verdad has dicho, que uno es DiosG1320
+- Mar_13:1M, mira qué piedras, y qué edificiosG1320
+- Mar_14:14M dice: ¿Dónde está el aposento dondeG1320
+- Mar_14:45se acercó...le dijo: M, Y le besóG4461
+- Luc_3:12publicanos...dijeron: M, ¿qué haremos?[[G1320]]
+- Luc_5:5M, toda la noche hemos estado trabajandoG1988
+- Luc_6:40el discípulo no es superior a su m; masG1320
+- Luc_6:40que fuere perfeccionado, será como su mG1320
+- Luc_7:40tengo que decirte...Y él le dijo: Dí, MG1320
+- Luc_8:24y vinieron a él...¡M, M, que perecemos![[G1988]]
+- Luc_8:45M, la multitud te aprieta y oprime, yG1988
+- Luc_8:49tu hija ha muerto; no molestes más al MG1320
+- Luc_9:33M, bueno es para nosotros que estemosG1988
+- Luc_9:38M, te ruego que veas a mi hijo, pues esG1320
+- Luc_9:49M, hemos visto a uno que echaba fueraG1988
+- Luc_10:25M, ¿haciendo qué cosa heredaré la vidaG1320
+- Luc_11:45M, cuando dices esto...nos afrentas aG1320
+- Luc_12:13M, dí a mi hermano que parta conmigo laG1320
+- Luc_17:13voz...M, ten misericordia de nosotros![[G1988]]
+- Luc_18:18M bueno, ¿qué haré para heredar la vidaG1320
+- Luc_19:39dijeron: M, reprende a tus discípulosG1320
+- Luc_20:21M, sabemos que dices...rectamente, y queG1320
+- Luc_20:28M, Moisés nos escribió: Si el hermanoG1320
+- Luc_21:7diciendo: M, ¿cuándo será esto? ¿y quéG1320
+- Luc_22:11el M te dice: ¿Dónde está el aposentoG1320
+- Jua_1:38(que traducido es, M) ¿dónde moras?[[G1320]]
+- Jua_3:2sabemos que has venido de Dios como mG1320
+- Jua_3:10¿eres tú m de Israel, y no sabes esto?[[G1320]]
+- Jua_8:4M, esta mujer ha sido sorprendida en elG1320
+- Jua_11:28diciéndole...el M está aquí y te llamaG1320
+- Jua_13:13me llamáis M, y Señor; y decís bienG1320
+- Jua_13:14si yo...el M, he lavado vuestros piesG1320
+- Jua_20:16dijo: ¡Raboni! (que quiere decir, M)[[G1320]]
+- Hec_13:1había...en la Iglesia...profetas y mG1320
+- Rom_2:20m de niños, que tienes en la ley laG3810
+- 1Co_12:28lo tercero m, luego los que hacenG1320
+- 1Co_12:29¿son...todos m? ¿hacen todos milagros?[[G1320]]
+- Efe_4:11constituyó a...a otros, pastores y mG1320
+- 1Ti_2:7y m de los gentiles en fe y verdadG1320
+- 2Ti_1:11fui constituido...m de los gentilesG1320
+- 2Ti_4:3se amontonarán m conforme a sus propiasG1320
+- Tit_2:3sean...no esclavas del vino, m del bienG2567
+- Heb_5:12debiendo ser ya m, después de tantoG1320
+- Stg_3:1no os hagáis m muchos de vosotrosG1320
+- 2Pe_2:1como habrá entre vosotros falsos mG5572

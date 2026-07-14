@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: OCCIDENTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# OCCIDENTE
+
+- Gén_12:8tienda, teniendo a Bet-el al o y HaiH3220
+- Gén_13:14alza ahora tus ojos, y mira al...y al oH3220
+- Gén_28:14extenderás al o, al oriente, al norte yH3220
+- Éxo_26:22, Éxo_26:27posterior del tabernáculo, al oH3220
+- Éxo_36:32posterior del tabernáculo hacia el oH3220
+- Éxo_38:12del lado del o, cortinas de 50 codosH3220
+- Núm_2:18bandera del campamento de Efraín...oH3220
+- Núm_3:23las familias de Gersón acamparán...al oH3220
+- Núm_34:5límite desde...y sus remates serán al o
+- Núm_35:5al lado del o dos mil codos, y al ladoH3220
+- Deu_11:30camino del o en la tierra del cananeo
+- Deu_33:23Neftalí, saciado...posee el o y el surH3220
+- Jos_5:1los reyes...al otro lado del Jordán al oH3220
+- Jos_8:9ellos se fueron a la emboscada...o de HaiH3220
+- Jos_8:12los puso en emboscada...al o de la ciudadH3220
+- Jos_8:13su emboscada al o de la ciudad, y JosuéH3220
+- Jos_11:2los reyes...en las regiones de Dor al oH3220
+- Jos_11:3al cananeo que estaba al oriente y al oH3220
+- Jos_12:7reyes...que derrotaron Josué...hacia el oH3220
+- Jos_15:8enfrente del valle de Hinom hacia el oH3220
+- Jos_15:10gira este...hacia el o al monte de SeirH3220
+- Jos_15:12límite del o es el Mar Grande...Este fueH3220
+- Jos_16:3y baja hacia el o al territorio de losH3220
+- Jos_18:12sube...al monte hacia el o, y viene aH3220
+- Jos_18:14tuerce hacia el...Este es el lado del oH3220
+- Jos_18:15y sale al o, a la fuente de las aguasH3220
+- Jos_19:11su límite sube hacia el o a Marala, y
+- Jos_19:26y Miscal; y llega hasta Carmelo al oH3220
+- Jos_19:34giraba el límite hacia el o...a HucocH3220
+- Jos_19:34y al o confinaba con Aser, y con JudáH3220
+- Jos_22:7la otra mitad dio Josué heredad...al oH3220
+- Jue_18:12de Dan...está al o de Quiriat-jearim
+- 1Re_7:25tres miraban al o, tres miraban alH3220
+- 1Cr_7:28a la parte del o Gezer y sus aldeasH4628
+- 1Cr_9:24estaban los porteros...al oriente, al oH3220
+- 1Cr_26:16Supim y Hosa, la del o, la puerta deH4628
+- 1Cr_26:18en la cámara de los utensilios al o, 4H4628
+- 1Cr_26:30gobernaban a Israel...al o, en toda laH4628
+- 2Cr_4:4doce bueyes...tres al o, tres al surH3220
+- 2Cr_32:30condujo el agua hacia el o de la ciudadH4628
+- 2Cr_33:14edificó el muro...al o de Gihón, en elH4628
+- Job_18:20sobre su día se espantarán los de o
+- Job_23:8he aquí yo iré...al o, y no lo percibiré
+- Sal_75:6ni de o, ni...viene el enaltecimientoH4628
+- Sal_103:12cuanto está lejos el oriente del oH4628
+- Sal_107:3los ha congregado...del oriente y del oH4628
+- Isa_11:14volarán sobre...de los filisteos al oH3220
+- Isa_43:5del oriente traerá...y del o te recogeréH4628
+- Isa_49:12aquí éstos del norte y del o, y éstosH3220
+- Isa_59:19temerán desde el o el nombre de JehováH4628
+- Eze_41:12espacio abierto al lado del o era deH3220
+- Eze_42:19al lado del o, y midió quinientas cañasH3220
+- Eze_46:19allí un lugar en el fondo del lado de oH3220
+- Eze_47:20del lado del o del Mar Grande será elH3220
+- Eze_48:10porción...de diez mil de anchura al oH3220
+- Eze_48:16y al lado del o cuatro mil quinientasH3220
+- Eze_48:17el ejido...de doscientas cincuenta al oH3220
+- Eze_48:18diez mil al o, que será lo que quedaráH3220
+- Eze_48:21y al o delante de las 25.000 hasta elH3220
+- Ose_11:10los hijos vendrán temblando desde el oH3220
+- Zac_14:4se partirá...el oriente y hacia el oH3220
+- Mat_8:11vendrán muchos del oriente y del o, yG1424
+- Mat_24:27que sale del...y se muestra hasta el oG1424
+- Luc_13:29porque vendrán del oriente y del oG1424
+- Rev_21:13sur tres puertas; al o tres puertasG1424

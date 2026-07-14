@@ -1,0 +1,108 @@
+---
+tipo: concordancia
+palabra: EXTRAÑO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EXTRAÑO, A
+
+- Gén_19:9vino...e para habitar entre nosotros
+- Gén_31:15¿no nos tiene ya como por e, pues queH5237
+- Éxo_12:43la pascua; ningún e comerá de ellaH1121, [[H5236]]
+- Éxo_21:8y no la podrá vender a pueblo e cuandoH5237
+- Éxo_29:33el e no las comerá, porque son santasH2114
+- Éxo_30:9no ofreceréis sobre él incienso e, niH2114
+- Éxo_30:33ungüento...y que pusiere de él sobre eH2114
+- Lev_10:1ofrecieron delante de Jehová fuego eH2114
+- Lev_22:10ningún e comerá...sagrada; el huéspedH2114
+- Lev_22:12la hija del...si se casare con varón eH376, [[H2114]]
+- Lev_22:13podrá comer...pero ningún e coma de élH2114
+- Núm_1:51levitas...el e que se acercare moriráH2114
+- Núm_3:4Abiú murieron...cuando ofrecieron fuego eH2114
+- Núm_3:10, Núm_3:38y el e que se acercare, moriráH2114
+- Núm_16:40que ningún e...se acerque para ofrecerH2114
+- Núm_18:4ningún e se ha de acercar a vosotrosH2114
+- Núm_18:7servicio...el e que se acercare, moriráH2114
+- Núm_26:61Abiú murieron cuando ofrecieron fuego eH2114
+- Deu_23:20del e podrás exigir interés, mas deH5237
+- Deu_25:5la mujer...no se casará...con hombre eH2114
+- Deu_32:12solo le guió, y con él no hubo dios eH5236
+- Jos_24:2vuestros padres...servían a dioses eH5236
+- 2Sa_22:45los hijos de e se someterán a mí; alH1121, [[H5236]]
+- 2Sa_22:46e se debilitarán, y saldrán temblandoH1121, [[H5236]]
+- 2Re_19:24yo he cavado y bebido las aguas eH2114
+- 2Cr_14:3quitó los altares del culto e, y losH5236
+- Job_15:19y no pasó e por en medio de ellosH2114
+- Job_19:13mis conocidos como e se apartaron deH2114
+- Job_19:15criadas me tuvieron por e; forasteroH2114
+- Job_19:17mi aliento vino a ser e a mi mujerH2114
+- Sal_18:44los hijos de e se sometieron a míH1121, [[H5236]]
+- Sal_18:45e se debilitaron y salieron temblandoH1121, [[H5236]]
+- Sal_54:3porque e se han levantado contra mí, yH2114
+- Sal_69:8e he sido para mis hermanos, y...madreH2114
+- Sal_81:9dios ajeno, ni te inclinarás a dios eH2114
+- Sal_109:11el acreedor se...y e saqueen su trabajoH2114
+- Sal_137:4cantaremos...de Jehová en tierra de e?[[H5236]]
+- Sal_144:7sácame...de la mano de los hombres eH5236
+- Sal_144:11líbrame...de los hombres e, cuya bocaH5236
+- Pro_2:16serás librado de la mujer e...la ajenaH2114
+- Pro_5:3los labios de la mujer e destilan mielH2114
+- Pro_5:9para que no des a los e tu honor, y tusH312
+- Pro_5:10no sea que e se sacien de tu fuerza, yH2114
+- Pro_5:10no sea...tus trabajos estén en casa del eH5236
+- Pro_5:17para ti solo, y no para los e contigoH2114
+- Pro_5:20¿por qué...y abrazarás el seno de la e?[[H2114]]
+- Pro_6:1hijo...si has empeñado tu palabra a un eH2114
+- Pro_6:24la blandura de la lengua de la mujer eH5237
+- Pro_7:5guarden de...la e que ablanda sus palabrasH2114
+- Pro_11:15el que sale por fiador de un e; mas elH2114
+- Pro_14:10y e no se entremeterá en su alegríaH2114
+- Pro_20:16quítale al que salió por fiador del eH2114
+- Pro_20:16prenda del que sale fiador por los eH5236
+- Pro_21:8el camino del...perverso es torcido y eH2054
+- Pro_22:14fosa profunda es la boca de la mujer eH2114
+- Pro_23:27abismo profundo es...y pozo angosto la eH5237
+- Pro_23:33tus ojos mirarán cosas e, y tu corazónH2114
+- Pro_27:2alábate el e, y no tu propia boca; elH5237
+- Pro_27:13quítale...al que salió fiador por el eH2114
+- Pro_27:13ropa...al que fía a la e, tómale prendaH5237
+- Ecl_6:2no le da...sino que lo disfrutan los eH376, [[H5237]]
+- Isa_1:7comida...asolada como asolamiento de eH2114
+- Isa_5:17e devorarán los campos desolados de losH1481
+- Isa_17:10sembrarás...y plantarás sarmiento eH2114
+- Isa_25:2alcázar de los e para que no sea ciudadH2114
+- Isa_25:5así humillarás el orgullo de los e; yH2114
+- Isa_28:11y en e lengua hablará a este puebloH312
+- Isa_28:21para hacer...su e obra...su e operaciónH5237
+- Isa_61:5e serán vuestros labradores y vuestrosH2114
+- Isa_62:8ni beberán los e el vino que es frutoH5236
+- Jer_1:16me dejaron, e incensaron a dioses eH312
+- Jer_2:21te me has vuelto sarmiento de vid e?[[H5237]]
+- Jer_2:25no hay remedio...porque a e he amado, yH2114
+- Jer_3:13y fornicaste con los e debajo de todoH2114
+- Jer_5:19de...así serviréis a e en tierra ajenaH5236
+- Jer_7:9andando tras dioses e que no conocisteisH312
+- Lam_5:2heredad ha pasado a e, nuestras casasH2114
+- Eze_7:21en mano de e la entregué...ser saqueadaH2114
+- Eze_11:9entregaré en manos de e, y haré juiciosH2114
+- Ose_5:7porque han engendrado hijos e; ahoraH2114
+- Ose_7:9devoraron e su fuerza, y él no lo supoH2114
+- Ose_8:7ni...harina; y si la hiciere, e la comeránH2114
+- Ose_8:12de mi ley, y fueron tenidas por cosa eH2114
+- Joe_3:17Jerusalén será santa, y e no pasaránH2114
+- Abd_1:11llevaban e cautivo su ejército, y eH2114
+- Mal_2:11Judá ha...se casó con hija de dios eH5236
+- Mat_17:25cobran...¿de sus hijos, o de los e?[[G245]]
+- Mat_17:26Pedro le respondió: De los e. Jesús leG245
+- Jua_10:5mas al e no seguirán, sino huirán deG245
+- Jua_10:5él, porque no conocen la voz de los eG245
+- Hec_17:20pues traes a nuestros oídos cosas eG3579
+- 1Co_14:4el que habla en lengua e, a sí mismo
+- 1Co_14:13por lo cual, el que habla en lengua e
+- 1Co_14:27si habla alguno en lengua e, sea esto
+- 2Co_11:15no es e si también sus ministros seG3173
+- Col_1:21que erais en otro tiempo e y enemigosG526
+- Heb_13:9no os dejéis llevar de doctrinas...eG3581
+- 1Pe_4:4parece cosa e que vosotros no corráisG3579
+- 1Pe_4:12como si alguna cosa e os acontecieseG3579

@@ -1,0 +1,91 @@
+---
+tipo: concordancia
+palabra: CÁRCEL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CÁRCEL
+
+- Gén_39:20lo puso en la c...estuvo allí en la cH1004, [[H5470]]
+- Gén_39:21gracia en los ojos del jefe de la cH1004, [[H5470]]
+- Gén_39:22jefe de la c entregó en mano de JoséH1004, [[H5470]]
+- Gén_39:23no necesitaba atender el jefe de la cH1004, [[H5470]]
+- Gén_40:3puso...en la c donde José estaba presoH1004, [[H5470]]
+- Gén_40:15tampoco...por qué me pusiesen en la cH953
+- Gén_41:14y lo sacaron apresuradamente de la cH953
+- Gén_42:17los puso juntos en la c por tres díasH4929
+- Gén_42:19preso en la casa de vuestra c uno deH4929
+- Éxo_12:29primogénito del...que estaba en la cH1004, [[H953]]
+- Lev_24:12y lo pusieron en la c, hasta que lesH4929
+- Núm_15:34pusieron en la c, porque no estabaH4929
+- Jue_16:21le ataron...para que moliese en la cH615, [[H1004]]
+- Jue_16:25llamaron a Sansón de la c, y sirvió deH1004, [[H615]]
+- 1Re_22:27echad a éste en la c, y mantenedleH1004, [[H3608]]
+- 2Re_17:4y le aprisionó en la casa de la cH1004, [[H3608]]
+- 2Re_25:27libertó a Joaquín...sacándole de la cH1004, [[H3608]]
+- 2Cr_16:10se enojó Asa...y lo echó en la cH4115, [[H1004]]
+- 2Cr_18:26poned a éste en la c, y sustentadleH1004, [[H3608]]
+- Neh_3:25torre...que está en el patio de la cH4307
+- Neh_12:39y se detuvieron en la puerta de la CH4307
+- Sal_105:18pies...en c fue puesta su personaH3525
+- Sal_142:7saca mi alma de la c, para que alabeH4525
+- Ecl_4:14de la c salió para reinar, aunque enH1004, [[H631]]
+- Isa_14:17que a sus presos nunca abrió la c?[[H1004]], [[H615]]
+- Isa_61:1publicar...a los presos apertura de la cH6495
+- Jer_32:2estaba preso en el patio de la c queH4307
+- Jer_32:8vino a mí...al patio de la c, y me dijoH4307
+- Jer_32:12judíos que estaban en el patio de la cH4307
+- Jer_33:1estando él...preso en el patio de la cH4307
+- Jer_37:4todavía no lo habían puesto en la cH1004, [[H3628]]
+- Jer_37:15en la casa...la habían convertido en cH1004, [[H3608]]
+- Jer_37:18¿en qué...me pusieseis en la c?[[H1004]], [[H3608]]
+- Jer_37:21y custodiaron a...en el patio de la cH4307
+- Jer_37:21y quedó Jermías en el patio de la cH4307
+- Jer_38:6cisterna...que estaba en el patio de la cH4307
+- Jer_38:13, Jer_38:28quedó Jeremías en el patio de la cH4307
+- Jer_39:14tomaron a Jeremías del patio de la cH4307
+- Jer_39:15estando preso en el patio de la cH4307
+- Jer_52:11y lo puso en la c hasta el día en queH1004, [[H6486]]
+- Jer_52:31alzó la cabeza de y lo sacó de la cH1004, [[H3628]]
+- Lam_3:55invoqué tu nombre, oh desde la cH4480, [[H953]]
+- Mat_5:25te entregue y seas echado en la cG5438
+- Mat_11:2y al oír Juan, en la c, los hechos deG1201
+- Mat_14:3y le había encadenado y metido en la cG5438
+- Mat_14:10y ordenó decapitar a Juan en la cG5438
+- Mat_18:30y le echó en la c, hasta que pagaseG5438
+- Mat_25:36enfermo, y...en la c, y vinisteis a míG5438
+- Mat_25:39¿cuándo te vimos en la c, y vinimos a ti?[[G5438]]
+- Mat_25:43enfermo...o en la c, y no me visitasteisG5438
+- Mat_25:44enfermo, o en la c, y no te servimosG5438
+- Mar_6:17le había encadenado en la c por causaG5438
+- Mar_6:27el guarda fue, le decapitó en la c, yG5438
+- Luc_3:20además esta: encerró a Juan en la cG5438
+- Luc_12:58juez...y el alguacil te meta en la cG5438
+- Luc_21:12y os entregarán a las sinagogas y cG5438
+- Luc_22:33dispuesto estoy a ir contigo a la cG5438
+- Luc_23:19, Luc_23:25sido echado en la c por sediciónG5438
+- Hec_4:3y los pusieron en la c hasta el díaG5084
+- Hec_5:18los apóstoles...pusieron en la c públicaG5084
+- Hec_5:19abriendo de noche las puertas de la cG5438
+- Hec_5:21enviaron a la c para que fuesen traídosG1201
+- Hec_5:22los alguaciles, no los hallaron en la cG5438
+- Hec_5:23la c hemos hallado cerrada con todaG1201
+- Hec_5:25varones que pusisteis en la c están enG5438
+- Hec_8:3arrastraba a...y los entregaba en la cG5438
+- Hec_12:4le puso en la c, entregándole a cuatroG5438
+- Hec_12:5Pedro estaba custodiado en la c; peroG5438
+- Hec_12:6los guardas delante...custodiaban la cG5438
+- Hec_12:7ángel...y una luz resplandeció en la cG3612
+- Hec_12:17cómo el Señor le había sacado de la cG5438
+- Hec_16:23haberlos azotado...los echaron en la cG5438
+- Hec_16:26que los cimientos de la c se sacudíanG1201
+- Hec_16:27viendo abiertas las puertas de la cG5438
+- Hec_16:37echaron en la c, ¿y ahora nos echanG5438
+- Hec_16:40saliendo de la c, entraron en casa deG5438
+- Hec_22:4y entregando en c a hombres y mujeresG5438
+- Hec_26:10yo encerré en c a muchos de los santosG5438
+- 2Co_6:5en c, en tumultos, en trabajos, enG5438
+- 2Co_11:23yo más...en azotes sin número; en c másG5438
+- Heb_11:36azotes, y a más de...prisiones y cG5438
+- Rev_2:10el diablo echará a algunos...en la cG5438

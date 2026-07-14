@@ -1,0 +1,83 @@
+---
+tipo: concordancia
+palabra: DIGNO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DIGNO, A
+
+- Deu_21:22cometido algún crimen d de muerteH4941
+- 1Sa_26:16vive Jehová, que sois d de muerteH1121
+- 2Sa_12:5que el que tal hizo es d de muerteH1121
+- 2Sa_19:28la casa de mi padre era d de muerte
+- 2Sa_22:4invocaré a Jehová, quien es d de ser
+- 1Re_2:26vete a...pues eres d de muerte; peroH376
+- 1Cr_16:25y d de suprema alabanza, y de serH3966
+- Sal_18:3invocaré a Jehová, quien es d de ser
+- Sal_48:1grande es Jehová, y d de ser en granH3966
+- Sal_96:4; Sal_145:3grande...y d de suprema alabanzaH3966
+- Jer_51:18vanidad son, obra d de burla; en el
+- Eze_16:56no su hermana Sodoma d de mención
+- Dan_9:4Dios...d de ser temido, que guardas el
+- Mat_3:8haced...frutos d de arrepentimientoG514
+- Mat_3:11cuyo calzado yo no soy d de llevar, esG2425
+- Mat_8:8no soy d de que entres bajo mi techoG2425
+- Mat_10:10porque el obrero es d de su alimentoG514
+- Mat_10:11informaos quién en ella sea d, y posadG514
+- Mat_10:13si la casa fuere d, vuestra paz vendráG514
+- Mat_10:13si no fuere d, vuestra paz se volveráG514
+- Mat_10:37(2)ama...más que a mí, no es d de míG514
+- Mat_10:38el que no toma su cruz...no es d de míG514
+- Mat_22:8mas los que fueron convidados no eran dG514
+- Mar_1:7a quien no soy d de desatar encorvadoG2425
+- Mar_14:64todas...declarándole ser d de muerteG1777
+- Luc_3:8haced, pues, frutos d de arrepentimientoG514
+- Luc_3:16no soy d de desatar la correa de suG2425
+- Luc_7:4le rogaron...Es d de que le concedas estoG514
+- Luc_7:6no soy d de que entres bajo mi techoG2425
+- Luc_7:7que ni aun me tuve por d de venir a tiG515
+- Luc_10:7porque el obrero es d de su salarioG514
+- Luc_12:48el que sin conocerla hizo cosas d deG514
+- Luc_15:19, Luc_15:21ya no soy d de ser llamado tu hijoG514
+- Luc_20:35los que fueren tenidos por d de alcanzarG2661
+- Luc_21:36que seáis tenidos por d de escapar deG2661
+- Luc_23:15nada d de muerte ha hecho este hombreG514
+- Luc_23:22ningún delito d de muerte he hallado enG514
+- Jua_1:27yo no soy d de desatar la correa delG514
+- Hec_5:41haber sido tenidos por d de padecerG2661
+- Hec_13:25de quien no soy d de desatar el calzadoG514
+- Hec_13:28y sin hallar en él causa d de muerte
+- Hec_13:46no os juzgáis d de la vida eterna, heG514
+- Hec_23:29ningún delito tenía d de muerte o deG514
+- Hec_25:11si...cosa alguna d de muerte he hechoG514
+- Hec_25:25que ninguna cosa d de muerte ha hechoG514
+- Hec_26:20haciendo obras d de arrepentimientoG514
+- Hec_26:31cosa d ni de muerte ni de prisión haG514
+- Rom_1:32que practican tales...son d de muerteG514
+- Rom_16:2que la recibáis en el Señor, como es dG516
+- 1Co_12:23que nos parecen menos d, a éstosG820
+- 1Co_15:9no soy d de ser llamado apóstol, porqueG2425
+- 1Co_15:19los más d de conmiseración de todos los
+- Efe_4:1andéis como es d de la vocación con queG516
+- Flp_1:27os comportéis como es d del evangelioG516
+- Flp_4:8si algo d de alabanza, en esto pensad
+- Col_1:10para que andes como es d del SeñorG516
+- 1Ts_2:12que anduvisteis como es d de ellosG516
+- 2Ts_1:3dar gracias a Dios por vosotros...es dG514
+- 2Ts_1:5que seáis tenidos por d del reino de DiosG2661
+- 2Ts_1:11Dios os tenga por d de su llamamientoG515
+- 1Ti_1:15palabra fiel y d de ser recibida porG514
+- 1Ti_4:9palabra fiel es...y d de ser recibida porG514
+- 1Ti_5:17por d de doble honor, mayormente los queG515
+- 1Ti_5:18dice...D es el obrero de su salarioG514
+- 1Ti_6:1tengan a sus amos por d de todo honorG514
+- Heb_3:3de...mayor gloria que Moisés es...d esteG515
+- Heb_11:38de los cuales el mundo no era dG514
+- 3Jn_1:6encaminarlos como es d de su servicio
+- Rev_3:4andarán...en vestiduras blancas...son dG514
+- Rev_4:11d eres de recibir la gloria y la honraG514
+- Rev_5:2¿quién es d de abrir el libro y desatarG514
+- Rev_5:4no se había hallado a ninguno d de abrirG514
+- Rev_5:9d eres de tomar el libro y de abrir susG514
+- Rev_5:12Cordero que fue inmolado es d de tomarG514

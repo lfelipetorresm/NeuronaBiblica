@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: BAUTIZAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BAUTIZAR
+
+- Mat_3:6y eran bautizados por él en el JordánG907
+- Mat_3:11os bautizo en agua para arrepentimientoG907
+- Mat_3:11os bautizará en Espíritu Santo y fuegoG907
+- Mat_3:13Jesús vino...para ser bautizado por élG907
+- Mat_3:14yo necesito ser bautizado por ti, ¿y túG907
+- Mat_3:16Jesús, después que fue bautizado, subióG907
+- Mat_20:22bautizados con...que yo soy bautizado?[[G907]]
+- Mat_20:23que yo soy bautizado, seréis bautizadosG907
+- Mat_28:19bautizándolos en el nombre del PadreG907
+- Mar_1:4bautizaba Juan en el desierto, yG907
+- Mar_1:5eran bautizados por él en el río JordánG907
+- Mar_1:8yo a la verdad os he bautizado con aguaG907
+- Mar_1:8pero él os bautizará con Espíritu SantoG907
+- Mar_1:9y fue bautizado por Juan en el JordánG907
+- Mar_10:38bautizados con...que yo soy bautizadoG907
+- Mar_10:39que yo soy bautizado, seréis bautizadosG907
+- Mar_16:16creyere y fuere bautizado, será salvoG907
+- Luc_3:7que salían para ser bautizadas por élG907
+- Luc_3:12unos publicanos para ser bautizados, yG907
+- Luc_3:16yo a la verdad os bautizo en agua; peroG907
+- Luc_3:16os bautizará en Espíritu Santo y fuegoG907
+- Luc_3:21pueblo se bautizaba...Jesús fue bautizadoG907
+- Luc_7:29bautizándose con el bautismo de JuanG907
+- Luc_7:30fariseos...no siendo bautizados por JuanG907
+- Luc_12:50de un bautismo tengo que ser bautizadoG907
+- Jua_1:25¿por qué, pues, bautizas, si tú no eresG907
+- Jua_1:26les respondió...Yo bautizo con agua, masG907
+- Jua_1:28Jordán, donde Juan estaba bautizandoG907
+- Jua_1:31por esto vine yo bautizando con aguaG907
+- Jua_1:33el que me envió a bautizar con aguaG907
+- Jua_1:33ése es el que bautiza con el EspírituG907
+- Jua_3:22y estuvo allí con ellos, y bautizabaG907
+- Jua_3:23Juan bautizaba también en Enón, juntoG907
+- Jua_3:23en Enón...y venían, y eran bautizadosG907
+- Jua_3:26dijeron...bautiza, y todos vienen a élG907
+- Jua_4:1Jesús hace y bautiza más discípulos queG907
+- Jua_4:2Jesús no bautizaba, sino sus discípulosG907
+- Jua_10:40donde...había estado bautizando JuanG907
+- Hec_1:5bautizó con agua...seréis bautizadosG907
+- Hec_2:38bautícese cada uno de vosotros en elG907
+- Hec_2:41fueron bautizados; y...como tres milG907
+- Hec_8:12cuando creyeron a Felipe...se bautizabanG907
+- Hec_8:13habiéndose bautizado, estaba siempreG907
+- Hec_8:16habían sido bautizados en el nombre deG907
+- Hec_8:36agua; ¿qué impide que yo sea bautizado?[[G907]]
+- Hec_8:38descendieron ambos al agua...y le bautizóG907
+- Hec_9:18la vista; y levantándose, fue bautizadoG907
+- Hec_10:47para que no sean bautizados estos queG907
+- Hec_10:48mandó bautizarlos en el nombre delG907
+- Hec_11:16Juan ciertamente bautizó en aguaG907
+- Hec_11:16mas vosotros seréis bautizados con elG907
+- Hec_16:15fue bautizada, y su familia, nos rogóG907
+- Hec_16:33se bautizó él con todos los suyosG907
+- Hec_18:8los corintios...creían y eran bautizadosG907
+- Hec_19:3¿en qué, pues, fuisteis bautizados?[[G907]]
+- Hec_19:4dijo Pablo: Juan bautizó con bautismoG907
+- Hec_19:5fueron bautizados en el nombre delG907
+- Hec_22:16ahora...bautízate, y lava tus pecadosG907
+- Rom_6:3bautizados en Cristo...b en su muerte?[[G907]]
+- 1Co_1:13¿o fuisteis bautizados en...Pablo?[[G907]]
+- 1Co_1:14que a ninguno de vosotros he bautizadoG907
+- 1Co_1:15que fuisteis bautizados en mi nombreG907
+- 1Co_1:16bauticé a la familia de EstéfanasG907
+- 1Co_1:16no sé si he bautizado algún otroG907
+- 1Co_1:17no me envió Crisio a bautizar, sino aG907
+- 1Co_10:2en Moisés fueron bautizados en la nubeG907
+- 1Co_12:13fuimos todos bautizados en un cuerpoG907
+- 1Co_15:29los que se bautizan por los muertosG907
+- 1Co_15:29¿por qué...se bautizan por los muertos?[[G907]]
+- Gál_3:27todos los que habéis sido bautizadosG907

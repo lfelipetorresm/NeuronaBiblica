@@ -1,0 +1,248 @@
+---
+tipo: concordancia
+palabra: SABIDURÍA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SABIDURÍA
+
+- Gén_3:6y árbol codiciable para alcanzar la sH7919
+- Éxo_28:3quienes yo he llenado de espíritu de sH2451
+- Éxo_31:3lo he llenado del Espíritu de Dios, en sH2451
+- Éxo_31:6he puesto s en el ánimo de todo sabio deH2451
+- Éxo_35:26cuyo corazón las impulsó en s hilaronH2451
+- Éxo_35:31en s, en inteligencia, en ciencia y enH2451
+- Éxo_35:35los ha llenado de s de corazón, para queH2451
+- Éxo_36:1a quien Jehová dio s e inteligencia paraH2451
+- Éxo_36:2en cuyo corazón había puesto Jehová sH2451
+- Deu_4:6esta es vuestra s y vuestra inteligenciaH2451
+- Deu_34:9Josué hijo...fue lleno de espíritu de sH2451
+- 2Sa_14:20es sabio conforme a la s de un ángelH2451
+- 2Sa_20:22la...fue luego a todo el pueblo con su sH2451
+- 1Re_2:6tú...harás conforme a tu s; no dejarásH2451
+- 1Re_3:28porque vieron que había en él s de DiosH2451
+- 1Re_4:29dio a Salomón s y prudencia muy grandesH2451
+- 1Re_4:30era mayor la s de Salomón que...s de losH2451
+- 1Re_4:34para oír la s de Salomón venían de todosH2451
+- 1Re_4:34de...adonde había llegado la fama de su sH2451
+- 1Re_5:12pues, dio a Salomón s como le había dichoH2451
+- 1Re_7:14e Hiram era lleno de s, inteligencia yH2451
+- 1Re_10:4cuando la reina de Sabá vio toda la s deH2451
+- 1Re_10:6es lo que oí en...de tus cosas y de tu sH2451
+- 1Re_10:7es mayor tu s y bien, que la fama que yoH2451
+- 1Re_10:8continuamente delante de ti, y oyen tu sH2451
+- 1Re_10:23así excedía el rey...en riquezas y en sH2451
+- 1Re_10:24para oír la s que Dios había puesto enH2451
+- 1Re_11:41su s, ¿no está escrito en el libro de losH2451
+- 2Cr_1:10dame ahora s y ciencia, para...gobernarH2451
+- 2Cr_1:11pedido para ti s y ciencia para gobernarH2451
+- 2Cr_1:12s y ciencia te son dadas; y también teH2451
+- 2Cr_9:3viendo la reina de Sabá la s de SalomónH2451
+- 2Cr_9:5había oído en mi tierra acerca de...tu sH2451
+- 2Cr_9:6ni aun la mitad de...s me había sido dichaH2451
+- 2Cr_9:7y dichosos estos siervos que...oyen tu sH2451
+- 2Cr_9:22excedió...reyes de la tierra...en...y en sH2451
+- 2Cr_9:23para oír la s que Dios le había dadoH2451
+- Esd_7:25tú, Esdras, conforme a la s que tienesH2451
+- Job_4:21pierde...mueren sin haber adquirido sH2451
+- Job_11:6te declarara los secretos de la s, queH2451
+- Job_12:2sois el pueblo, y con vosotros morirá la sH2451
+- Job_12:13con Dios está la s y el poder; suyo esH2451
+- Job_12:16con él está el poder y la s; suyo es elH2451
+- Job_13:5ojalá callarais...porque esto os fuera sH2451
+- Job_15:2¿proferirá el sabio vana s, y llenará suH1847
+- Job_15:8¿oíste tú el...y está limitada a ti la s?[[H2451]]
+- Job_21:22¿enseñará alguien a Dios s, juzgando élH1847
+- Job_28:12¿dónde se hallará la s? ¿Dónde está elH2451
+- Job_28:18la s es mejor que las piedras preciosasH2451
+- Job_28:20¿de dónde, pues, vendrá la s? ¿Y dóndeH2451
+- Job_28:28he aquí que el temor del Señor es la sH2451
+- Job_32:7y la muchedumbre de años declarará sH2451
+- Job_32:10escuchadme; declararé yo también mi sH1843
+- Job_32:13que no digáis: Nosotros hemos hallado sH2451
+- Job_33:33óyeme tú a mí; calla, y te enseñaré sH2451
+- Job_34:35Job no habla con s, y que sus palabrasH2451
+- Job_35:16por eso Job...multiplica palabras sin sH1847
+- Job_36:5Dios es grande...poderoso en fuerza de sH3820
+- Job_36:12pasados a espada, y perecerán sin sH1847
+- Job_37:16¿has...las maravillas del Perfecto en s?[[H1843]]
+- Job_38:2oscurece el consejo con palabras sin s?[[H1847]]
+- Job_38:36¿quién puso la s en el corazón?...quiénH2451
+- Job_38:37¿quién puso por cuenta los cielos con s?[[H2451]]
+- Job_39:17porque le privó Dios de s, y no le dioH2451
+- Job_39:26¿vuela el gavilán por tu s, y extiendeH998
+- Job_40:2¿es s contender con el Omnipotente? ElH3250
+- Sal_19:2y una noche a otra noche declara sH1847
+- Sal_37:30la boca del justo habla s, y su lenguaH2451
+- Sal_49:3mi boca hablará s, y el pensamiento deH2454
+- Sal_51:6en lo secreto me has hecho comprender sH2451
+- Sal_90:12enséñanos...que traigamos al corazón sH2451
+- Sal_104:24hiciste todas ellas con s; la tierra estáH2451
+- Sal_105:22para que...y a sus ancianos enseñara sH2451
+- Sal_111:10principio de la s es el temor de JehováH2451
+- Sal_119:66enséñame buen sentido y s, porque tusH1847
+- Pro_1:2para entender s y doctrina, para conocerH2451
+- Pro_1:7el principio de la s es el temor de JehováH2451
+- Pro_1:7insensatos desprecian la s y la enseñanzaH2451
+- Pro_1:20la s clama en las calles, alza su voz enH2451
+- Pro_1:29cuanto aborrecieron la s, y no escogieronH1847
+- Pro_2:2haciendo estar atento tu oído a la s; síH2451
+- Pro_2:6porque Jehová da la s, y de su boca vieneH2451
+- Pro_2:7provee de sana s a los rectos; es escudoH2451
+- Pro_2:10cuando la s entrare en tu corazón, y laH2451
+- Pro_3:13bienaventurado el hombre que halla la sH2451
+- Pro_3:19Jehová con s fundó la tierra; afirmó losH2451
+- Pro_4:5adquiere s, adquiere inteligencia; no teH2451
+- Pro_4:7s ante todo; adquiere s, y sobre todas tusH2451
+- Pro_4:11por el camino de la s te he encaminadoH2451
+- Pro_5:1hijo mío, está atento a mi s, y...tu oídoH2451
+- Pro_7:4dí a la s: Tú eres mi hermana, y a laH2451
+- Pro_8:1clama la s, y da su voz la inteligencia?[[H2451]]
+- Pro_8:9son..razonables a los que han hallado sH1847
+- Pro_8:11mejor es la s que las piedras preciosasH2451
+- Pro_8:12la s, habito con la cordura, y hallo laH2451
+- Pro_9:1la s edificó su casa, labró sus...columnasH2451
+- Pro_9:10temor de Jehová es el principio de la sH2451
+- Pro_10:13en los labios del prudente se halla sH2451
+- Pro_10:14los sabios guardan la s; mas la boca delH1847
+- Pro_10:23la s recrea al hombre de entendimientoH2451
+- Pro_10:31la boca del justo producirá s; mas laH2451
+- Pro_11:2soberbia...mas con los humildes está la sH2451
+- Pro_11:9daña...mas los justos son librados con la sH1847
+- Pro_12:1el que ama la instrucción ama la s; masH1847
+- Pro_12:8según su s es alabado el hombre; mas elH7922
+- Pro_13:10contienda; mas con...avisados está la sH2451
+- Pro_13:16todo hombre prudente procede con s; masH1847
+- Pro_14:6busca el escarnecedor la s y no la hallaH2451
+- Pro_14:6mas al hombre entendido la s le es fácilH2451
+- Pro_14:18mas los prudentes se coronarán de sH2451
+- Pro_14:33en el corazón del prudente reposa la sH2451
+- Pro_15:2la lengua de los sabios adornará la sH1847
+- Pro_15:7la boca de los sabios esparce s; no asíH1847
+- Pro_15:14el corazón entendido busca la s; mas laH1847
+- Pro_15:33el temor de Jehová es enseñanza de sH2451
+- Pro_16:16mejor es adquirir s que oro preciadoH2451
+- Pro_17:16precio en la mano del...para comprar sH2451
+- Pro_17:24el rostro del entendido aparece la sH2451
+- Pro_17:27el que ahorra sus palabras tiene s; deH1847
+- Pro_18:4y arroyo que rebosa, la fuente de la sH2451
+- Pro_18:15el corazón del entendido adquiere s; y elH1847
+- Pro_19:27que te hacen divagar de las razones de sH1847
+- Pro_21:16hombre que se aparta del camino de la sH7919
+- Pro_21:30no hay s ni...ni consejo, contra JehováH2451
+- Pro_22:17inclina tu...y aplica tu corazón a mi sH1847
+- Pro_23:12aplica...tus oídos a las palabras de sH1847
+- Pro_23:23compra la verdad, y...la s, la enseñanzaH2451
+- Pro_24:3s se edificará la casa, y con prudenciaH2451
+- Pro_24:7alta está para el insensato la s; en laH2454
+- Pro_24:14será a tu alma el conocimiento de la sH2451
+- Pro_28:26mas el que camina en s será libradoH2451
+- Pro_29:3el hombre que ama la s alegra a su padreH2451
+- Pro_29:7conoce el justo...el impío no entiende s
+- Pro_29:15la vara y la corrección dan s; mas elH2451
+- Pro_30:3yo ni aprendí s, ni conozco la cienciaH2451
+- Pro_31:26abre su boca con s, y la ley de, estáH2451
+- Ecl_1:13y di mi corazón...a buscar con s sobreH2451
+- Ecl_1:16yo...he crecido en s sobre todos los queH2451
+- Ecl_1:16corazón ha percibido mucha s y cienciaH2451
+- Ecl_1:17y dediqué mi corazón a conocer la s, yH2451
+- Ecl_1:18porque en la mucha s hay mucha molestiaH2451
+- Ecl_2:3anduviese mi corazón en s, con retenciónH2451
+- Ecl_2:9fui...a más de esto, conservé conmigo mi sH2451
+- Ecl_2:12después volví yo a mirar para ver la s yH2451
+- Ecl_2:13que la s sobrepasa a la necedad, como laH2451
+- Ecl_2:19de todo mi trabajo...en que ocupé...mi s?[[H2449]]
+- Ecl_2:20el trabajo...en que había ocupado...mi s
+- Ecl_2:21el hombre trabaje con s, y con cienciaH2451
+- Ecl_2:26al hombre que le agrada, Dios le da sH2451
+- Ecl_7:10porque nunca de esto preguntarás con sH2451
+- Ecl_7:12s excede, en que da vida a sus poseedoresH2451
+- Ecl_7:19la s fortalece al sabio más que diezH2451
+- Ecl_7:23cosas probé con s...la s se alejó de míH2451
+- Ecl_7:25fijé mi corazón para saber e inquirir la sH2451
+- Ecl_8:1la s del hombre ilumina su rostro, y laH2451
+- Ecl_8:16dediqué mi corazón a conocer s, y a verH2451
+- Ecl_9:10en el Seol...no hay obra...ni ciencia, ni sH2451
+- Ecl_9:13también vi esta s debajo del sol, la cualH2451
+- Ecl_9:15sabio, el cual libra a la ciudad con su sH2451
+- Ecl_9:16mejor es la s que la fuerza, aunque laH2451
+- Ecl_9:18mejor es la s que las armas de guerraH2451
+- Ecl_10:10pero la s es provechosa para dirigirH2451
+- Ecl_12:9más sabio fue el...más enseñó s al puebloH1847
+- Isa_10:13con...mi mano lo he hecho, y con mi sH2451
+- Isa_11:2espíritu de s y de inteligencia...poderH2451
+- Isa_28:29hacer maravilloso...y engrandecer la s
+- Isa_29:14porque perecerá la s de sus sabios, yH2451
+- Isa_33:6reinarán en tus tiempos la s y...cienciaH2451
+- Isa_44:25hago volver atrás a...y desvanezco su sH1847
+- Isa_47:10tu s y tu misma ciencia te engañaronH2451
+- Jer_8:9que aborrecieron la...y qué s tienen?[[H2451]]
+- Jer_9:23no se alabe el sabio en su s, ni en suH2451
+- Jer_10:12el que...y extendió los cielos con su sH2451
+- Jer_49:7¿no hay más s en Temán? ¿Se ha acabadoH2451
+- Jer_49:7consejo en los sabios?...corrompió su sH2451
+- Jer_51:15poder, el que afirmó el mundo con su sH2451
+- Eze_28:4con tu s y con...has acumulado riquezasH2451
+- Eze_28:5con...tu s...has multiplicado tus riquezasH2451
+- Eze_28:7sus espadas contra la hermosura de tu sH2451
+- Eze_28:12tú...lleno de s, y acabado de hermosuraH2451
+- Eze_28:17corrompiste tu s a causa de...esplendorH2451
+- Dan_1:4muchachos...enseñados en toda s, sabiosH2451
+- Dan_1:20en todo asunto de s...el rey les consultóH2451
+- Dan_2:20sea bendito el...suyos son el poder y la sH2451
+- Dan_2:21da la s a los sabios, y la ciencia a losH2451
+- Dan_2:23porque me has dado s y fuerza, y ahoraH2451
+- Dan_2:30no porque en mí haya más s que en todosH2451
+- Dan_5:11se halló en él...s, como s de los diosesH2451
+- Dan_5:14he oído...que en ti se halló...y mayor sH2451
+- Dan_9:22he salido para darte s y entendimientoH998
+- Mal_2:7porque los labios...han de guardar la sH1847
+- Mat_11:19pero la s es justificada por sus hijosG4678
+- Mat_12:42ella vino de...para oír la s de SalomónG4678
+- Mat_13:54¿de dónde tiene éste esta s y...milagros?[[G4678]]
+- Mar_6:2decían...¿Y qué s es esta que le es dadaG4678
+- Luc_2:40el niño crecía y...y se llenaba de sG4678
+- Luc_2:52Jesús crecía en s y en estatura, y enG4678
+- Luc_7:35la s es justificada por todos sus hijosG4678
+- Luc_11:31ella vino de...para oír la s de SalomónG4678
+- Luc_11:49por eso la s de Dios también dijo: LesG4678
+- Luc_21:15porque yo os daré palabra y s, la cualG4678
+- Hec_6:3llenos...de s, a quienes encarguemos deG4678
+- Hec_6:10no podían resistir a la s y al EspírituG4678
+- Hec_7:10le dio...s delante de Faraón rey de EgiptoG4678
+- Hec_7:22fue enseñado Moisés en toda la s de losG4678
+- Rom_11:33las riquezas de la s y de la cienciaG4678
+- 1Co_1:17a predicar el...no con s de palabrasG4678
+- 1Co_1:19escrito: Destruiré la s de los sabios, yG4678
+- 1Co_1:20¿no ha enloquecido Dios la s del mundo?[[G4678]]
+- 1Co_1:21pues ya que en la s de Dios, el mundo noG4678
+- 1Co_1:21el mundo no conoció a Dios mediante la sG4678
+- 1Co_1:22piden señales, y los griegos buscan sG4678
+- 1Co_1:24para...Cristo poder de Dios, y s de DiosG4678
+- 1Co_1:30el cual nos ha sido hecho por Dios sG4678
+- 1Co_2:1no fui con excelencia de palabras o de sG4678
+- 1Co_2:4fue con palabras persuasivas de humana sG4678
+- 1Co_2:5vuestra fe no esté fundada en la s de losG4678
+- 1Co_2:6hablamos s...s, no de este siglo, ni de losG4678
+- 1Co_2:7mas hablamos s de Dios...s oculta, la cualG4678
+- 1Co_2:13no con palabras enseñadas por s humanaG4678
+- 1Co_3:19la s de este mundo es insensatez para conG4678
+- 1Co_12:8éste es dada por el Espíritu palabra de sG4678
+- 2Co_1:12no con s humana, sino con la gracia deG4678
+- Efe_1:8sobreabundar...en toda s e inteligenciaG4678
+- Efe_1:17el Padre de gloria, os dé espíritu de sG4678
+- Efe_3:10la multiforme s de Dios sea ahora dadaG4678
+- Col_1:9conocimiento de su voluntad en toda sG4678
+- Col_1:28y enseñando a todo hombre en toda s, aG4678
+- Col_2:3están escondidos todos los tesoros de la sG4678
+- Col_2:23tienen a la verdad cierta reputación de sG4678
+- Col_3:16y exhortándoos unos a otros en toda sG4678
+- Stg_1:5si alguno de...tiene falta de s, pídalaG4678
+- Stg_3:15porque esta s no es la que desciende deG4678
+- Stg_3:17la s que es de lo alto es...pura, despuésG4678
+- 2Pe_3:15hermano Pablo, según la s que le haG4678
+- Rev_5:12la s, la fortaleza, la honra, la gloriaG4678
+- Rev_7:12la gloria y la s y la acción de graciasG4678
+- Rev_13:18hay s...cuente el número de la bestiaG4678
+- Rev_17:9para la mente que tenga s...Las sieteG4678

@@ -1,0 +1,402 @@
+---
+tipo: concordancia
+palabra: ALTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ALTAR
+
+- Gén_8:20edificó Noé un a...holocausto en el aH4196
+- Gén_12:7y edificó allí un a a Jehová, quien leH4196
+- Gén_12:8y edificó allí a a Jehová, e invocó elH4196
+- Gén_13:4al lugar del a que había hecho allí antesH4196
+- Gén_13:18Abram, pues...edificó allí a a JehováH4196
+- Gén_22:9edificó allí Abraham un a...ató a IsaacH4196
+- Gén_22:9a Isaac...lo puso en el a sobre la leñaH4196
+- Gén_26:25edificó allí un a, e invocó el nombreH4196
+- Gén_33:20erigió...a, y lo llamó El-Elohe-IsraelH4196
+- Gén_35:1sube a Bet-el...y haz allí un a al DiosH4196
+- Gén_35:3haré allí a al Dios que me respondióH4196
+- Gén_35:7edificó allí un a, y llamó el...El-bet-elH4196
+- Éxo_17:15y Moisés edificó un a, y llamó suH4196
+- Éxo_20:24a de tierra harás para...y sacrificarásH4196
+- Éxo_20:25y si me hicieras a de piedras no lasH4196
+- Éxo_20:26no subirás por gradas a mi a, para queH4196
+- Éxo_21:14de mi a lo quitarás para que mueraH4196
+- Éxo_24:4levantándose...edificó un a al pie delH4196
+- Éxo_24:6la otra mitad de la sangre sobre el aH4196
+- Éxo_27:1harás también un a...será cuadrado el aH4196
+- Éxo_27:5dentro del cerco del a...la mitad del aH4196
+- Éxo_27:6harás también varas para el a, varas deH4196
+- Éxo_27:7estarán aquellas varas a...lados del aH4196
+- Éxo_28:43cuando se acerquen al a para servir enH4196
+- Éxo_29:12y pondrás sobre los cuernos del a conH4196
+- Éxo_29:12derramarás toda la...sangre al pie del aH4196
+- Éxo_29:13la grosura...y lo quemarás sobre el aH4196
+- Éxo_29:16y con su sangre rociarás sobre el aH4196
+- Éxo_29:18y quemarás todo el carnero sobre el aH4196
+- Éxo_29:20rociarás la sangre sobre el a alrededorH4196
+- Éxo_29:21y con la sangre que estará sobre el aH4196
+- Éxo_29:25lo tomarás...y lo harás arder en el aH4196
+- Éxo_29:36purificarás el a...hagas expiación porH4196
+- Éxo_29:37expiación por el a...será un a santísimoH4196
+- Éxo_29:37cosa que tocare el a, será santificadaH4196
+- Éxo_29:38esto es lo que ofrecerás sobre el a: 2H4196
+- Éxo_29:44santificaré el tabernáculo de...y el aH4196
+- Éxo_30:1asimismo un a para quemar el inciensoH4196
+- Éxo_30:18colocarás entre el tabernáculo...y el aH4196
+- Éxo_30:20cuando se acerquen al a para ministrarH4196
+- Éxo_30:27el candelero con...y el a del inciensoH4196
+- Éxo_30:28el a del holocausto con...sus utensiliosH4196
+- Éxo_31:8el candelero limpio...el a del inciensoH4196
+- Éxo_31:9el a del holocausto y...sus utensiliosH4196
+- Éxo_32:5Aarón, edificó un a delante del becerroH4196
+- Éxo_34:13derribaréis sus a, y quebraréis susH4196
+- Éxo_35:15el a del incienso y sus varas, el aceiteH4196
+- Éxo_35:16el a del holocausto, su enrejado deH4196
+- Éxo_37:25hizo...el a del incienso, de madera deH4196
+- Éxo_38:1de madera de acacia el a del holocaustoH4196
+- Éxo_38:3hizo asimismo todos los utensilios del aH4196
+- Éxo_38:4e hizo para el a un enrejado de bronceH4196
+- Éxo_38:4debajo de su cerco hasta la mitad del aH4196
+- Éxo_38:7las varas...los anillos a los lados del aH4196
+- Éxo_38:30el a de bronce y...los utensilios del aH4196
+- Éxo_39:38el a de oro, el aceite de la unciónH4196
+- Éxo_39:39a de bronce con su enrejado de bronceH4196
+- Éxo_40:5y pondrás el a de oro para el inciensoH4196
+- Éxo_40:6pondrás el a del holocausto delante deH4196
+- Éxo_40:7entre el tabernáculo de reunión y el aH4196
+- Éxo_40:10ungirás también el a del holocausto yH4196
+- Éxo_40:10santificarás el a, y...un a santísimoH4196
+- Éxo_40:26puso...el a de oro en el tabernáculo deH4196
+- Éxo_40:29colocó el a del holocausto a la entradaH4196
+- Éxo_40:30entre el tabernáculo de reunión y el aH4196
+- Éxo_40:32cuando se acercaban al a, se lavabanH4196
+- Éxo_40:33atrio alrededor del tabernáculo y del aH4196
+- Lev_1:5y la rociarán alrededor sobre el a, elH4196
+- Lev_1:7fuego sobre el a, y compondrán la leñaH4196
+- Lev_1:8, Lev_1:12sobre el fuego que habrá encima del aH4196
+- Lev_1:9el sacerdote hará arder todo sobre el aH4196
+- Lev_1:11lo degollará al lado norte del a delanteH4196
+- Lev_1:11de Aarón rociarán su sangre sobre el aH4196
+- Lev_1:13, Lev_1:17el sacerdote...hará arder sobre el aH4196
+- Lev_1:15el sacerdote la ofrecerá sobre el a, yH4196
+- Lev_1:15hará que arda en el a; y su sangre seráH4196
+- Lev_1:15su sangre será exprimida...la pared del aH4196
+- Lev_1:16el buche y las plumas...echarán junto al aH4196
+- Lev_2:2lo hará arder sobre el a para memorialH4196
+- Lev_2:8la ofrenda...el sacerdote...la llevará al...aH4196
+- Lev_2:9su memorial, y lo hará arder sobre el aH4196
+- Lev_2:12mas no subirán sobre el a en olor gratoH4196
+- Lev_3:2, Lev_3:8, Lev_3:13Aarón rociarán su sangre sobre el aH4196
+- Lev_3:5hijos de Aarón harán arder esto en el aH4196
+- Lev_3:11, Lev_3:16sacerdote hará arder esto sobre el aH4196
+- Lev_4:7, Lev_4:18, Lev_4:25, Lev_4:30, Lev_4:34sangre...los cuernos del aH4196
+- Lev_4:7, Lev_4:18, Lev_4:25, Lev_4:30, Lev_4:34de la sangre al pie del aH4196
+- Lev_4:10, Lev_4:19, Lev_4:31, Lev_4:35lo hará arder sobre el aH4196
+- Lev_4:26quemará...su grosura sobre el a, como laH4196
+- Lev_5:9rociará...la sangre...sobre la pared del aH4196
+- Lev_5:9lo que sobrare...lo exprimirá al pie del aH4196
+- Lev_5:12la hará arder en el a sobre las ofrendasH4196
+- Lev_6:9el holocausto estará...el a toda la nocheH4196
+- Lev_6:9hasta la mañana; el fuego del a arderáH4196
+- Lev_6:10apartará él las cenizas de sobre el a, yH4196
+- Lev_6:10apartará él las...las pondrá junto al aH4196
+- Lev_6:12el fuego...sobre el a no se apagará, sinoH4196
+- Lev_6:13el fuego arderá continuamente en el aH4196
+- Lev_6:14ofrecerán los hijos de Aarón...ante el aH4196
+- Lev_6:15lo hará arder sobre el a por memorialH4196
+- Lev_7:2rociará su sangre alrededor sobre el aH4196
+- Lev_7:5y el sacerdote lo hará arder sobre el aH4196
+- Lev_7:31la grosura la hará arder...en el a, masH4196
+- Lev_8:11y roció de él sobre el a siete vecesH4196
+- Lev_8:11y ungió el a y todos sus utensilios, yH4196
+- Lev_8:15puso con su dedo sobre los cuernos del aH4196
+- Lev_8:15purificó el a; y...sangre al pie del aH4196
+- Lev_8:16tomó...y lo hizo arder Moisés sobre el aH4196
+- Lev_8:19, Lev_8:24roció Moisés la sangre sobre el aH4196
+- Lev_8:21quemó Moisés todo el carnero sobre el aH4196
+- Lev_8:28hizo arder en el a sobre el holocaustoH4196
+- Lev_8:30tomó...de la sangre que estaba sobre el aH4196
+- Lev_9:7acércate al a, y haz tu expiación y tuH4196
+- Lev_9:8se acercó Aarón al a y degolló el becerroH4196
+- Lev_9:9y puso de ella sobre los cuernos del aH4196
+- Lev_9:9derramó el resto...la sangre al pie del aH4196
+- Lev_9:10e hizo arder sobre el a la grosura conH4196
+- Lev_9:12, Lev_9:18la sangre...la cual roció...sobre el aH4196
+- Lev_9:13holocausto...los hizo quemar sobre el aH4196
+- Lev_9:14y los quemó sobre el holocausto en el aH4196
+- Lev_9:17la ofrenda, y lo hizo quemar sobre el aH4196
+- Lev_9:20las grosuras...y él las quemó sobre el aH4196
+- Lev_9:24y consumió...con las grosuras sobre el aH4196
+- Lev_10:12comedia...junto al a...es cosa muy santaH4196
+- Lev_14:20y hará subir el...la ofrenda sobre el aH4196
+- Lev_16:12tomará un incensario lleno...fuego del aH4196
+- Lev_16:18saldrá al a que está delante de JehováH4196
+- Lev_16:18y la pondrá sobre los cuernos del aH4196
+- Lev_16:20cuando hubiera acabado de expiar...el aH4196
+- Lev_16:26en el a la grosura del sacrificio porH4196
+- Lev_16:33también hará expiación por el a por losH4196
+- Lev_17:6esparcirá la sangre sobre el a de JehováH4196
+- Lev_17:11he dado para hacer expiación sobre el aH4196
+- Lev_21:23ni se acercará al a...hay defecto en élH4196
+- Lev_22:22ni de ellos pondréis...el a de JehováH4196
+- Núm_3:26y la cortina de...junto al a alrededorH4196
+- Núm_3:31a cargo de ellos estarán el arca...los aH4196
+- Núm_4:11sobre el a de oro extenderán un pañoH4196
+- Núm_4:13quitarán la ceniza del a, y extenderánH4196
+- Núm_4:14y pondrán sobre él...los utensilios del aH4196
+- Núm_4:26la cortina de la...que está cerca del...aH4196
+- Núm_5:25la ofrenda...y la ofrecerá delante del aH4196
+- Núm_5:26lo quemará sobre el a, y después dará aH4196
+- Núm_7:1santificado el a y todos sus utensiliosH4196
+- Núm_7:10trajeron...para la dedicación del a el díaH4196
+- Núm_7:10los príncipes su ofrenda delante del aH4196
+- Núm_7:11ofrecerán su...para la dedicación del aH4196
+- Núm_7:84para la dedicación del a, el día en queH4196
+- Núm_7:88fue la ofrenda para la dedicación del aH4196
+- Núm_16:38de él planchas batidas para cubrir el aH4196
+- Núm_16:39tomó...y los batieron para cubrir el aH4196
+- Núm_16:46pon en él fuego del a, y sobre él ponH4196
+- Núm_18:3no se acercarán a...ni al a, para que noH4196
+- Núm_18:5tendréis el cuidado...del a, para que noH4196
+- Núm_18:7en todo lo relacionado con el a, y delH4196
+- Núm_18:17la sangre de ellos rociarás sobre el aH4196
+- Núm_23:1Balaam dijo a...Edifícame aquí siete aH4196
+- Núm_23:2ofrecieron un...y un carnero en cada aH4196
+- Núm_23:4dijo: Siete a he ordenado, y en cada aH4196
+- Núm_23:14edificó siete a, y ofreció un becerro yH4196
+- Núm_23:14ofreció un becerro y...carnero en cada aH4196
+- Núm_23:29edifícame aquí siete a, y prepárame aquíH4196
+- Núm_23:30y Balac...ofreció un becerro...en cada aH4196
+- Deu_7:5sus a destruiréis, y quebraréis susH4196
+- Deu_12:3derribaréis sus a y quebraréis...AseraH4196
+- Deu_12:27ofrecerás...sobre el a de Jehová tu DiosH4196
+- Deu_12:27la sangre...será derramada sobre el a deH4196
+- Deu_16:21no plantarás ningún árbol...cerca del aH4196
+- Deu_26:4pondrá delante del a de Jehová tu DiosH4196
+- Deu_27:5edificarás allí un a...Dios, a de piedrasH4196
+- Deu_27:6de piedras enteras edificarás el a deH4196
+- Deu_33:10el incienso...y el holocausto sobre tu aH4196
+- Jos_8:30Josué edificó un a a Jehová Dios deH4196
+- Jos_8:31ley de Moisés, un a de piedras enterasH4196
+- Jos_9:27a ser...aguadores...para el a de JehováH4196
+- Jos_22:10un a junto al...a de grande aparienciaH4196
+- Jos_22:11edificado un a frente a la tierra deH4196
+- Jos_22:16edificándoos a para ser rebeldes contraH4196
+- Jos_22:19edificándoos a además del a de JehováH4196
+- Jos_22:23si nos hemos edificado a para volvernosH4196
+- Jos_22:26edifiquemos...un a, no para holocaustoH4196
+- Jos_22:28mirad el símil del a de Jehová, el cualH4196
+- Jos_22:29edificando a para holocaustos, paraH4196
+- Jos_22:29además del a de Jehová nuestro Dios queH4196
+- Jos_22:34Gad pusieron por nombre al a Ed; porqueH4196
+- Jue_2:2moradores...cuyos a habéis de derribarH4196
+- Jue_6:24edificó allí Gedeón a a Jehová, y loH4196
+- Jue_6:25derriba el a de Baal que tu padre tieneH4196
+- Jue_6:26edifica a a Jehová...en la cumbre de esteH4196
+- Jue_6:28he aquí que el a de Baal estaba derribadoH4196
+- Jue_6:28había...ofrecido...sobre el a edificadoH4196
+- Jue_6:30ha derribado el a de Baal y ha cortadoH4196
+- Jue_6:31Baal...sí mismo con el que derribó su aH4196
+- Jue_6:32llamado Jerobaal...por cuanto derribó su aH4196
+- Jue_13:20cuando la llama subía del a hacia elH4196
+- Jue_13:20ángel de Jehová subió en la llama del aH4196
+- Jue_21:4y edificaron allí a, y...holocaustosH4196
+- 1Sa_2:28le escogí...que ofreciese sobre mi aH4196
+- 1Sa_2:33el varón...que yo no corte de mi a, seráH4196
+- 1Sa_7:17después volvía a Ramá...edificó allí un aH4196
+- 1Sa_14:35edificó Saúl a a Jehová; este a fue elH4196
+- 2Sa_24:18levanta un a a Jehová en la era deH4196
+- 2Sa_24:21a fin de edificar un a a Jehová, paraH4196
+- 2Sa_24:25edificó allí...a a Jehová, y sacrificóH4196
+- 1Re_1:50fue, y se asió de los cuernos del aH4196
+- 1Re_1:51pues se ha asido de los cuernos del aH4196
+- 1Re_1:53envió el rey...y lo trajeron del a; y élH4196
+- 1Re_2:28huyó Joab...se asió de los cuernos del aH4196
+- 1Re_2:29Joab había huido...que estaba junto al aH4196
+- 1Re_3:4mil holocaustos...Salomón sobre aquel aH4196
+- 1Re_6:20asimismo cubrió de oro el a de cedroH4196
+- 1Re_6:22cubrió de oro...el a que estaba frenteH4196
+- 1Re_7:48un a de oro, y una mesa también de oroH4196
+- 1Re_8:22se puso Salomón delante del a de JehováH4196
+- 1Re_8:31y vieron el juramento delante de tu aH4196
+- 1Re_8:54se levantó de...delante del a de JehováH4196
+- 1Re_8:64el a de...delante de Jehová era pequeñoH4196
+- 1Re_9:25y ofrecía...sobre el a que él edificó aH4196
+- 1Re_12:32fiesta solemne...y sacrificó sobre un aH4196
+- 1Re_12:33sacrificó...sobre el a que él había hechoH4196
+- 1Re_12:33hizo...y subió al a para quemar inciensoH4196
+- 1Re_13:1a Bet-el; y estando Jeroboam junto al aH4196
+- 1Re_13:2clamó contra el a...y dijo: A, a, así haH4196
+- 1Re_13:3a se quebrará, y la ceniza que sobre élH4196
+- 1Re_13:4que había clamado contra el a de Bet-elH4196
+- 1Re_13:4extendiendo su mano desde el a, dijoH4196
+- 1Re_13:5el a se rompió, y se...la ceniza del aH4196
+- 1Re_13:32vendrá lo que él dijo...contra el a queH4196
+- 1Re_16:32e hizo a a Baal, en el templo de BaalH4196
+- 1Re_18:26ellos andaban saltando cerca del a queH4196
+- 1Re_18:30él arregló el a de Jehová que estabaH4196
+- 1Re_18:32edificó...un a en el nombre de JehováH4196
+- 1Re_18:32hizo una zanja alrededor del a, en queH4196
+- 1Re_18:35que el agua corría alrededor del a, yH4196
+- 1Re_19:10, 1Re_19:14han derribado tus a, y han matado aH4196
+- 2Re_11:11junto al a y el templo, en derredorH4196
+- 2Re_11:18de Baal...despedazaron...a y sus imágenesH4196
+- 2Re_11:18mataron a Matán...Baal delante de los aH4196
+- 2Re_12:9tomó un arca...la puso junto al a, a laH4196
+- 2Re_16:10envió...la descripción del a, conformeH4196
+- 2Re_16:10vio el rey...el a que estaba en DamascoH4196
+- 2Re_16:11y el sacerdote Urías edificó el aH4196
+- 2Re_16:12el rey...vio el a, se acercó el rey a élH4196
+- 2Re_16:13esparció la sangre de sus...junto al aH4196
+- 2Re_16:14el a de bronce...entre el a y el temploH4196
+- 2Re_16:14lo puso al lado del a hacia el norteH4196
+- 2Re_16:15en el gran a encenderás el holocaustoH4196
+- 2Re_16:15el a de bronce será mío para consultarH4196
+- 2Re_18:22¿no es éste aquel cuyos...a ha quitadoH4196
+- 2Re_18:22delante de este a adoraréis en JerusalénH4196
+- 2Re_21:3levantó a a Baal, e hizo una imagen deH4196
+- 2Re_21:4edificó a en la casa de Jehová, de laH4196
+- 2Re_21:5edificó a para...el ejército de los cielosH4196
+- 2Re_23:8derribó los a de las puertas que estabanH4196
+- 2Re_23:9los sacerdotes...no subían al a de JehováH4196
+- 2Re_23:12derribó...el rey los a que estaban sobreH4196
+- 2Re_23:12y los a que había hecho Manasés en losH4196
+- 2Re_23:15el a que estaba en Bet-el...destruyóH4196
+- 2Re_23:15aquel a y el lugar alto destruyó, y loH4196
+- 2Re_23:16los quemó sobre el a para contaminarloH4196
+- 2Re_23:17estas cosas...tú has hecho sobre el aH4196
+- 2Re_23:20mató...sobre los a a todos los sacerdotesH4196
+- 1Cr_6:49ofrecían...sobre el a del holocaustoH4196
+- 1Cr_6:49sobre el a del perfume quemaban inciensoH4196
+- 1Cr_16:40y tarde, holocaustos a Jehová en el aH4196
+- 1Cr_21:18a David que...construyese un a a JehováH4196
+- 1Cr_21:22la era, para que edifique un a a JehováH4196
+- 1Cr_21:26y edificó allí David un a a Jehová, enH4196
+- 1Cr_21:26quien le respondió por fuego...en el aH4196
+- 1Cr_21:29el a del holocausto, estaban...GabaónH4196
+- 1Cr_22:1y aquí el a del holocausto para IsraelH4196
+- 1Cr_28:18oro puro en peso para el a del inciensoH4196
+- 2Cr_1:5a de bronce que había hecho BezaleelH4196
+- 2Cr_1:6subió, pues, Salomón, allá...al a de bronceH4196
+- 2Cr_4:1hizo...un a de bronce de veinte codos deH4196
+- 2Cr_4:19hizo...el a de oro, y las mesas sobre lasH4196
+- 2Cr_5:12los levitas cantores...al oriente del aH4196
+- 2Cr_6:12se puso luego Salomón delante del a deH4196
+- 2Cr_6:22viniere a jurar ante tu a en esta casaH4196
+- 2Cr_7:7en el a de bronce...no podían caber losH4196
+- 2Cr_7:9hecho la dedicación del a en siete díasH4196
+- 2Cr_8:12ofreció Salomón holocaustos...sobre el aH4196
+- 2Cr_14:3porque quitó los a del culto extrañoH4196
+- 2Cr_15:8reparó el a de Jehová que estaba delanteH4196
+- 2Cr_23:10hacia el a y la casa, alrededor del reyH4196
+- 2Cr_23:17Baal, y lo derribaron, y también sus aH4196
+- 2Cr_23:17y mataron delante de los a a MatánH4196
+- 2Cr_26:16quemar incienso en el a del inciensoH4196
+- 2Cr_26:19Uzías...la lepra le brotó en...junto al aH4196
+- 2Cr_28:24a en Jerusalén en todos los rinconesH4196
+- 2Cr_29:18ya hemos limpiado...el a del holocaustoH4196
+- 2Cr_29:19he aquí están delante del a de JehováH4196
+- 2Cr_29:21que los ofreciesen sobre el a de JehováH4196
+- 2Cr_29:22la sangre, y la esparcieron sobre el aH4196
+- 2Cr_29:22(2)y esparcieron la sangre sobre el aH4196
+- 2Cr_29:24ofrenda de expiación con...sobre el aH4196
+- 2Cr_29:27mandó...sacrificar el holocausto en el aH4196
+- 2Cr_30:14quitaron los a que...los a de inciensoH4196
+- 2Cr_31:1y derribaron los lugares altos y los aH4196
+- 2Cr_32:12ha quitado sus...y sus a, y ha dicho aH4196
+- 2Cr_32:12delante de este solo a adoraréis, yH4196
+- 2Cr_33:3levantó a a los baales, e hizo imágenesH4196
+- 2Cr_33:4edificó también a en la casa de JehováH4196
+- 2Cr_33:5edificó...a a todo el ejército de losH4196
+- 2Cr_33:15quitó...todos los a que había edificadoH4196
+- 2Cr_33:16reparó...el a de Jehová, y sacrificóH4196
+- 2Cr_34:4derribaron...los a de los baales, e hizoH4196
+- 2Cr_34:5los huesos de los sacerdotes sobre sus aH4196
+- 2Cr_34:7hubo derribado los a y las imágenes deH4196
+- 2Cr_35:16sacrificar los...sobre el a de JehováH4196
+- Esd_3:2edificaron el a del Dios de IsraelH4196
+- Esd_3:3y colocaron al a sobre su base, porqueH4196
+- Esd_7:17los ofrecerás sobre el a de la casa deH4196
+- Neh_10:34quemar sobre el a de Jehová nuestroH4196
+- Sal_26:6andaré alrededor de tu a, oh JehováH4196
+- Sal_43:4y entraré al a de Dios, al Dios de miH4196
+- Sal_51:19entonces ofrecerán becerros sobre tu aH4196
+- Sal_84:3ponga sus polluelos, cerca de tus a, ohH4196
+- Sal_118:27atad víctimas con...a los cuernos del aH4196
+- Isa_6:6carbón...tomado del a con unas tenazasH4196
+- Isa_17:8y no mirará a los a que hicieron susH4196
+- Isa_19:19en aquel tiempo habrá a para Jehová enH4196
+- Isa_27:9haga todas las piedras del a como...calH4196
+- Isa_36:7cuyos a hizo quitar Ezequías, y dijo aH4196
+- Isa_36:7y dijo a...Delante de este a adoraréisH4196
+- Isa_56:7sacrificios serán aceptos sobre mi aH4196
+- Isa_60:7serán ofrecidos con agrado sobre mi aH4196
+- Jer_11:13los a de ignominia, a para...a BaalH4196
+- Jer_17:1esculpido está...en los cuernos de sus aH4196
+- Jer_17:2sus hijos se acuerdan de sus a y de susH4196
+- Lam_2:7desechó el Señor su a, menospreció suH4196
+- Eze_6:4vuestros a serán asolados, y vuestrasH4196
+- Eze_6:5vuestros huesos esparciré en...vuestros aH4196
+- Eze_6:6que sea asolados...desiertos vuestros aH4196
+- Eze_6:13sus muertos estén...en derredor de sus aH4196
+- Eze_8:5junto a la puerta del a, aquella imagenH4196
+- Eze_8:16entre la entrada y el a, como 25 varonesH4196
+- Eze_9:2entrados...pararon junto al a de bronceH4196
+- Eze_16:24y te hiciste a en todas las plazasH4196
+- Eze_16:31haciendo tus a en todas las plazas![[H4196]]
+- Eze_16:39derribarán tus a, y te despojarán deH4196
+- Eze_40:46es de los...que hacen la guardia del aH4196
+- Eze_40:47atrio...y el a estaba delante de la casaH4196
+- Eze_41:22altura del a de madera era tres codosH4196
+- Eze_43:13son las medidas del a...el zócalo del aH4196
+- Eze_43:15a era de cuatro codos, y encima del aH741
+- Eze_43:16el a tenía doce codos de largo, y doceH741
+- Eze_43:18estas son las ordenanzas del a el díaH4196
+- Eze_43:20y pondrás en los cuatro cuernos del aH4196
+- Eze_43:22purificarán el a como lo purificaronH4196
+- Eze_43:26por siete días harán expiación por el aH4196
+- Eze_43:27los sacerdotes sacrificarán sobre el aH4196
+- Eze_45:19los cuatro ángulos del descanso del aH4196
+- Eze_47:1las aguas descendían de...al sur del aH4196
+- Ose_8:11multiplicó...a para pecar, tuvo a paraH4196
+- Ose_10:1multiplicó también los a, conforme a laH4196
+- Ose_10:2Jehová demolerá sus a, destruirá susH4196
+- Ose_10:8crecerá sobre sus a espino y cardoH4196
+- Ose_12:11sus a son como montones en los surcosH4196
+- Joe_1:13gemid, ministros del a; venid, dormidH4196
+- Joe_2:17la entrada y el a lloren los...ministrosH4196
+- Amó_2:8sobre...se acuestan junto a cualquier aH4196
+- Amó_3:14día...castigaré también los a de Bet-elH4196
+- Amó_3:14y serán cortados los cuernos del aH4196
+- Amó_9:1vi al Señor que estaba sobre el a, y dijoH4196
+- Zac_9:15se llenarán como...como cuernos del aH4196
+- Zac_14:20y las ollas de...como los tazones del aH4196
+- Mal_1:7en que ofrecéis sobre mi a pan inmundoH4196
+- Mal_1:10las puertas o alumbre mi a de balde?[[H4196]]
+- Mal_2:13haréis cubrir el a de Jehová de lágrimasH4196
+- Mat_5:23si traes tu ofrenda al a, y allí teG2379
+- Mat_5:24deja allí tu ofrenda delante del a, yG2379
+- Mat_23:18si alguno jura por el a, no es nadaG2379
+- Mat_23:19la ofrenda, o el a que santifica laG2379
+- Mat_23:20pues el que jura por el a, jura por élG2379
+- Mat_23:35quien matasteis entre el templo y el aG2379
+- Luc_1:11un ángel del Señor...a la derecha del aG2379
+- Luc_11:51que murió entre el a y el templo; síG2379
+- Hec_17:23a en el cual estaba esta inscripciónG1041
+- Rom_11:3y tus a han derribado; y sólo yo heG2379
+- 1Co_9:13que sirven al a, del a participan?[[G2379]]
+- 1Co_10:18los que comen...¿no son partícipes del a?[[G2379]]
+- Heb_7:13tribu, de la cual nadie sirvió al aG2379
+- Heb_13:10a, del cual no tienen derecho de comerG2379
+- Stg_2:21ofreció a su hijo Isaac sobre el a?[[G2379]]
+- Rev_6:9bajo el a las almas de los que habíanG2379
+- Rev_8:3otro ángel vino...y se paró ante el a conG2379
+- Rev_8:3el a de oro que estaba delante del tronoG2379
+- Rev_8:5lo llenó del fuego del a, y lo arrojó aG2379
+- Rev_9:13oí una voz de entre los cuernos del aG2379
+- Rev_11:1mide el templo de Dios, y el a, y a losG2379
+- Rev_14:18salió del a otro ángel, que tenía poderG2379
+- Rev_16:7también oí a otro que desde el a decíaG2379

@@ -1,0 +1,207 @@
+---
+tipo: concordancia
+palabra: RÍO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RÍO
+
+- Gén_2:10salía de Edén un r...regar el huertoH5104
+- Gén_2:13nombre del segundo r es Gihón; éste esH5104
+- Gén_2:14el nombre del tercer r es Hidekel; ésteH5104
+- Gén_2:14es Hidekel...y el cuarto r es el EufratesH5104
+- Gén_15:18daré esta tierra, desde el r de EgiptoH5104
+- Gén_15:18daré...hasta el r grande, el r EufratesH5104
+- Gén_41:1Faraón...parecía que estaba junto al rH2975
+- Gén_41:2que del r subían siete vacas, hermosasH2975
+- Gén_41:3que tras ellas subían del r otras sieteH2975
+- Gén_41:3se pararon cerca de...a la orilla del rH2975
+- Gén_41:17me parecía que estaba a la orilla del rH2975
+- Gén_41:18que del r subían siete vacas de gruesasH2975
+- Éxo_1:22echad al r a todo hijo que nazca, y aH2975
+- Éxo_2:3lo puso en un carrizal a la orilla del rH2975
+- Éxo_2:5hija de Faraón descendió a lavarse al rH2975
+- Éxo_2:5paseándose sus...por la ribera del r, vioH2975
+- Éxo_4:9las aguas del r...aguas que tomarás del rH2975
+- Éxo_7:15vé por la mañana a Faraón...él sale al rH2975
+- Éxo_7:17golpearé con...el agua que está en el rH2975
+- Éxo_7:18y los peces que hay en el r morirán, yH2975
+- Éxo_7:18hederá el r...asco de beber el agua del rH2975
+- Éxo_7:19tu vara...sobre sus r, sobre sus arroyosH2975
+- Éxo_7:20golpeó las aguas que había en el r, enH2975
+- Éxo_7:20las aguas...r se convirtieron en sangreH2975
+- Éxo_7:21los peces que había en el r murieron; yH2975
+- Éxo_7:21r se corrompió...no pudieron beber de élH2975
+- Éxo_7:24hicieron pozos alrededor...r para beberH2975
+- Éxo_7:24porque no podían beber...las aguas del rH2975
+- Éxo_7:25siete días después que Jehová hirió el rH2975
+- Éxo_8:3y el r criará ranas, las cuales subirán yH2975
+- Éxo_8:5extiende tu mano...sobre los r, arroyos yH2975
+- Éxo_8:9las ranas...que solamente queden en el rH2975
+- Éxo_8:11y las ranas...solamente quedarán en el rH2975
+- Éxo_8:20sale al r; y dile: Jehová ha dicho asíH4325
+- Éxo_17:5toma...vara con que golpeaste el r, y veteH2975
+- Lev_11:9todos los que tienen aletas...en los rH5158
+- Lev_11:10no tienen aletas...en el mar y en los rH5158
+- Núm_22:5junto al r en la tierra de...su puebloH5104
+- Núm_24:6huertos junto al r, como áloes plantadosH5104
+- Deu_1:7Líbano, hasta el gran r, el r EufratesH5104
+- Deu_11:24el r Eufrates hasta el mar occidentalH5104
+- Jos_1:4desde el desierto y...hasta el gran rH5104
+- Jos_15:47hasta el r de Egipto, y el Mar GrandeH5104
+- Jos_24:2padres habitaron...otro lado del r, estoH5104
+- Jos_24:3y yo tomé a...Abraham del otro lado del rH5104
+- Jos_24:14-15vuestros padres...al otro lado del rH5104
+- 2Sa_8:3recuperar su territorio al r EufratesH5104
+- 1Re_8:65entran en Hamat hasta el r de EgiptoH5104
+- 2Re_5:12Farfar, r de Damasco, ¿no son mejoresH5104
+- 2Re_17:6los puso en...junto al r Gozán, y en lasH5104
+- 2Re_18:11los puso...en Habor junto al r Gozán, yH5104
+- 2Re_19:24he secado con las...todos los r de EgiptoH2975
+- 2Re_23:29Necao rey de Egipto subió...r EufratesH5104
+- 2Re_24:7le tomó...desde el r de Egipto hasta el rH5158
+- 1Cr_5:9habitó también...desde el r EufratesH5104
+- 1Cr_5:26y los llevó...a Hara y al r Gozán, hastaH5104
+- 1Cr_11:32Hurai del r Gaas, Abiel arbatitaH5158
+- 1Cr_18:3asegurar su dominio junto al r EufratesH5104
+- Esd_4:10demás provincias del otro lado del rH5103
+- Esd_4:11siervos del otro lado del r te saludanH5103
+- Esd_4:16la región de más allá del r no será tuyaH5103
+- Esd_4:17a los...del otro lado del r: Salud y pazH5103
+- Esd_4:20dominaron en...lo que hay más allá del rH5103
+- Esd_5:3, Esd_5:6Tatnai gobernador del otro lado del rH5103
+- Esd_5:6los gobernadores que...al otro lado del rH5103
+- Esd_6:6, Esd_6:13Tatnai gobernador del otro lado del rH5103
+- Esd_6:6que estáis al otro lado del r, alejaos deH5103
+- Esd_6:8la hacienda...tributo del otro lado del rH5103
+- Esd_7:21tesoreros que están al otro lado del rH5103
+- Esd_7:25el pueblo que está al otro lado del rH5103
+- Esd_8:15los reuní junto al r que viene a AhavaH5104
+- Esd_8:21y publiqué ayuno allí junto al r AhavaH5104
+- Esd_8:31y partimos del r Ahava el doce del mesH5104
+- Esd_8:36del rey a...capitanes del otro lado del rH5104
+- Neh_2:7, Neh_2:9los gobernadores al otro lado del rH5104
+- Neh_3:7bajo...del gobernador del otro lado del rH5104
+- Job_14:11las aguas...y el r se agota y se secaH5104
+- Job_20:17no verá...los r, los torrentes de mielH5104
+- Job_22:16fundamento fue como un r derramado?[[H5104]]
+- Job_28:10de los peñascos cortó r, y...ojos vieronH2975
+- Job_28:11detuvo los r en su nacimiento, e hizoH5104
+- Job_29:6y la piedra me derramaba r de aceite![[H6388]]
+- Job_40:23sale de madre el r, pero él no se inmutaH5104
+- Sal_24:2él la fundó...y la afirmó sobre los rH5104
+- Sal_46:4del r sus corrientes alegran la ciudadH5104
+- Sal_65:9el r de Dios, llenó de aguas, preparasH5104
+- Sal_66:6el mar en seco; por el r pasaron a pieH5104
+- Sal_72:8dominará...desde el r hasta los confinesH5104
+- Sal_74:15abriste la fuente y el r; secaste rH5158
+- Sal_78:16la peña...e hizo descender aguas como rH5104
+- Sal_78:44volvió sus r en sangre, y...corrientesH5140
+- Sal_80:11sus vástagos...hasta el r sus renuevosH5104
+- Sal_89:25su mano sobre...sobre los r su diestraH5104
+- Sal_93:3alzaron los r...los r alzaron su sonidoH5104
+- Sal_93:3oh Jehová...alzaron los r sus ondasH5104
+- Sal_98:8los r batan las manos, los montes todosH5104
+- Sal_105:41corrieron por los sequedales como un rH5104
+- Sal_107:33él convierte los r en desierto, y losH5104
+- Sal_119:136r de agua descendieron de mis ojosH6388
+- Sal_137:1junto a los r de Babilonia...sentábamosH5104
+- Ecl_1:7los r todos van al mar, y el mar no seH5158
+- Ecl_1:7de donde los r vinieron, allí vuelven deH5158
+- Cnt_8:7apagar el amor, ni lo ahogarán los rH5104
+- Isa_7:18en el fin de los r de Egipto, y a laH2975
+- Isa_7:20con los que habitan al otro lado del rH5104
+- Isa_8:7Señor hace subir sobre ellos aguas de rH5104
+- Isa_8:7subirá sobre todos sus r, y pasará sobreH5104
+- Isa_11:15y levantará su mano con el...sobre el rH5104
+- Isa_18:1¡ay de la tierra...tras los r de EtiopíaH5104
+- Isa_18:2, Isa_18:7gente...cuya tierra es surcada por rH5104
+- Isa_19:5mar faltarán, y el r se agotará y secaráH5104
+- Isa_19:6se alejarán los r, se agotarán y secaránH5104
+- Isa_19:7junto al r, de junto a la ribera del rH2975
+- Isa_19:7y toda sementera del r, se secarán, seH2975
+- Isa_19:8harán duelo...que echan anzuelo en el rH2975
+- Isa_23:3su provisión procedía...de la mies del rH2975
+- Isa_23:10cual r de tu tierra, oh hija de TarsisH2975
+- Isa_27:12que trillará Jehová desde el r EufratesH5104
+- Isa_30:25habrá r y corrientes de aguas el día deH6388
+- Isa_33:21lugar de r, de arroyos muy anchos, porH5103
+- Isa_37:25mis pies secaré todos los r de EgiptoH2975
+- Isa_41:18en las alturas abriré r, y fuentes enH5103
+- Isa_42:15los r tornaré en islas, y secaré losH5103
+- Isa_43:2cuando pases...por los r, no te anegaránH5103
+- Isa_43:19abriré camino en el...y r en la soledadH5103
+- Isa_43:20daré...r en la soledad, para que beba miH5103
+- Isa_44:3yo derramaré, y r sobre la tierra áridaH5140
+- Isa_44:27que dice a...Secaos, y tus r haré secarH5103
+- Isa_47:2pies, descubre las piernas, pasa los rH5103
+- Isa_48:18fuera entonces tu paz como un r, y tuH5104
+- Isa_50:2convierto los r en desierto; sus pecesH5103
+- Isa_59:19porque vendrá el enemigo como r, mas elH5104
+- Isa_66:12yo extiendo sobre ella paz como un rH5104
+- Jer_46:2cerca del r Eufrates en Carquemis, aH5104
+- Jer_46:7como r, y cuyas aguas se mueven como r?[[H5104]]
+- Jer_46:8como r se ensancha, y...se mueven como rH5104
+- Jer_46:10porque sacrificio...junto al r EufratesH5104
+- Lam_3:48r de aguas echan mis ojos por...puebloH6388
+- Eze_1:1estando yo en medio...junto al r QuebarH5104
+- Eze_1:3en la tierra de los caldeos, junto al rH5104
+- Eze_3:15cautivos...que moraban junto al r QuebarH5104
+- Eze_3:23como la gloria que había visto junto al rH5104
+- Eze_10:15el ser viviente que vi en el r QuebarH5104
+- Eze_10:20vi debajo del Dios...junto al r QuebarH5104
+- Eze_10:22de los rostros que vi junto al r QuebarH5104
+- Eze_29:3gran dragón que yace en medio de sus rH2975
+- Eze_29:4pegaré los peces de tus r a tus escamasH2975
+- Eze_29:4los peces de tus r saldrán pegados a tusH2975
+- Eze_29:5en el desierto a ti y a...peces de tus rH2975
+- Eze_29:10aquí yo estoy contra ti, y contra tus rH2975
+- Eze_30:12secaré los r, y entregaré la tierra enH2975
+- Eze_31:4aguas...sus r corrían alrededor de su pieH5104
+- Eze_31:15hice cubrir por él el...y detuve sus rH5104
+- Eze_32:2secabas tus r, y enturbiabas las aguasH5104
+- Eze_32:14y haré correr sus r como aceite, diceH5104
+- Eze_43:3como la visión que vi junto al r QuebarH5104
+- Eze_47:5era ya un r que yo no podía pasar, porqueH5158
+- Eze_47:5que el r no se podía pasar sino a nadoH5158
+- Eze_47:6y me hizo volver por la ribera del rH5158
+- Eze_47:7que en la ribera del r había...árboles aH5158
+- Eze_47:9por dondequiera que entraren estos dos rH5158
+- Eze_47:9y vivirá todo lo que entrare en este rH5158
+- Eze_47:12junto al r, en la ribera...crecerá todaH5158
+- Dan_7:10un r de fuego...salía de delante de élH5103
+- Dan_8:2pues, en visión, estando junto al r UlaiH180
+- Dan_8:3aquí un carnero que estaba delante del rH180
+- Dan_8:6que yo había visto en la ribera del r, yH180
+- Dan_10:4estaba yo a la orilla del gran r HidekelH5104
+- Dan_12:5a este lado del r, y...al otro lado del rH2975
+- Dan_12:6-7al...que estaba sobre las aguas del rH2975
+- Amó_8:8subirá como un r, y crecerá y mermaráH2975
+- Amó_8:8y crecerá y mermará como el r de EgiptoH2975
+- Amó_9:5y crecerá toda como un r...el r de EgiptoH2975
+- Miq_7:12las ciudades fortificadas hasta el RH5104
+- Nah_1:4amenaza al mar...y agosta todos los rH5104
+- Nah_2:6puertas de los r se abrirán, y el palacioH5104
+- Hab_3:8¿te airaste, oh Jehová, contra los r?[[H5104]]
+- Hab_3:8¿contra los r te airaste? ¿Fue tu iraH5104
+- Hab_3:9se descubrió...hendiste la tierra con rH5104
+- Sof_3:10región más allá de los r de EtiopíaH5104
+- Zac_9:10desde el r hasta...fines de la tierraH5104
+- Zac_10:11y se secarán...las profundidades del rH2975
+- Mat_7:25, Mat_7:27y vinieron r, y soplaron vientosG4215
+- Mar_1:5eran bautizados por él en el r JordánG4215
+- Luc_6:48r dio con ímpetu contra aquella casaG4215
+- Luc_6:49contra la cual el r dio con ímpetu, yG4215
+- Jua_7:38de su interior correrán r de agua vivaG4215
+- Hec_16:13salimos fuera, la puerta, junto al rG4215
+- 2Co_11:26peligros de r, peligros de ladronesG4215
+- Rev_8:10cayó sobre la tercera parte de los rG4215
+- Rev_9:14que están atados junto al gran r EufratesG4215
+- Rev_12:15y la serpiente arrojó...agua como un rG4215
+- Rev_12:15para que fuese arrastrada por el rG4215
+- Rev_12:16tragó el r que el dragón había echadoG4215
+- Rev_16:4derramó su copa sobre los r, y sobre lasG4215
+- Rev_16:12derramó...copa sobre el gran r EufratesG4215
+- Rev_22:1me mostró un r limpio de agua de vidaG4215
+- Rev_22:2uno y otro lado del r, estaba el árbolG4215

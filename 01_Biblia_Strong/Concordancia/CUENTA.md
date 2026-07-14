@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: CUENTA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CUENTA
+
+- Gén_43:9te respondo por él; a mí me pedirás cH1245
+- Éxo_12:4hombre, haréis la c sobre el corderoH3699
+- Éxo_30:12conforme a la c de ellos, cada uno daráH6485
+- Éxo_38:21estas son las c del tabernáculo, delH6485
+- Lev_25:50hará la c con el que lo compró, desdeH2803
+- Lev_27:18el sacerdote hará la c...conforme a losH2803
+- Núm_1:2tomad el censo de...la c de los nombresH4557
+- Núm_1:18, Núm_1:20, Núm_1:22, Núm_1:24, Núm_1:26, Núm_1:28, Núm_1:30, Núm_1:32, Núm_1:34, Núm_1:36, Núm_1:38, Núm_1:40, Núm_1:42conforme a la c de los nombresH4557
+- Núm_1:49tribu de Leví, ni tomarás la c de ellosH6485
+- Núm_3:22conforme a la c de todos los varones deH6485
+- Núm_4:2toma la c de los hijos de Coat de entreH7218
+- Núm_26:53se repartirá...por la c de los nombresH4557
+- Núm_31:26toma la c del botín que se ha hecho, asíH7218
+- Deu_1:25y nos dieron c, y dijeron: Es buena laH1697
+- Deu_18:19cualquiera que no oyere...yo le pediré cH1875
+- Deu_19:15no se tomará en c a un solo testigoH6965
+- Deu_32:29y se dieran c del fin que les espera![[H995]]
+- Jue_20:15fueron por c 700 hombres escogidosH6485
+- 2Re_12:15y no se tornaba c a los hombres enH2803
+- 2Re_22:7y que no se les tome c del dinero cuyoH2803
+- 2Re_22:9dio c al rey y dijo: Tus siervos hanH1697
+- 1Cr_9:28se metían por c, y por c se sacabanH4557
+- 1Cr_21:4dio la c del número del pueblo a DavidH4557
+- 1Cr_22:3preparó David...madera de cedro sin cH4557
+- 1Cr_22:16del oro...bronce y del hierro, no hay cH4557
+- 1Cr_23:27se hizo la c de los hijos de Leví deH4557
+- 1Cr_23:29para lo tostado, y para toda medida y cH4060
+- 2Cr_34:15y dando c Hilcías, dijo al escribaH6030
+- Esd_1:8Mitrídates...los dio por c a SesbasarH5608
+- Esd_1:9y esta es la c de ellos: 30 tazones deH4557
+- Esd_8:34por c y por peso se entregó todo, y seH4557
+- Est_9:11mismo día se le dio c al rey acercaH4557
+- Job_7:3así...noches de trabajo me dieron por cH4487
+- Job_33:13él no da c de ninguna de sus razonesH6030
+- Job_38:37puso por c los cielos con sabiduría?[[H5608]]
+- Sal 52 tít.vino Doeg edomita y dio c a SaúlH5046
+- Isa_1:18venid...dice Jehová, y estemos a cH3198
+- Eze_18:24ninguna de las...le serán tenidas en cH2142
+- Dan_6:2uno, a quienes estos sátrapas diesen cH2941
+- Mat_12:36de ella darán c en el día del juicioG3056
+- Mat_18:23rey que quiso hacer c con sus siervosG3056
+- Mat_18:24comenzando a hacer c...fue presentadoG4868
+- Mat_25:19vino el señor de...y arregló c con ellosG4868, [[G3056]]
+- Luc_16:2da c de tu mayordomía, porque ya noG3056
+- Luc_16:6le dijo: Toma tu c...y escribe cincuentaG1121
+- Luc_16:7le dijo: Toma tu c, y escribe ochentaG1121
+- Jua_7:17conocerá...si yo hablo por mi propia cG1683
+- Jua_7:18habla por su propia c, su propia gloriaG1438
+- Jua_12:49yo no he hablado por mi propia c; elG1683
+- Jua_14:10no las hablo por mi propia c, sino queG1683
+- Jua_16:13no hablará por su propia c, sino queG1438
+- Hec_7:60Señor, no les tomes en c este pecadoG2476
+- Hec_19:18muchos...venían...dando c de sus hechosG312
+- Hec_19:19hecha la c de su precio, hallaron queG4860
+- Rom_1:28ellos no aprobaron tener en c a DiosG2192
+- Rom_14:12cada uno de nosotros dará a Dios c deG3056
+- 2Co_5:19no tomándoles en c a...sus pecadosG3049
+- 2Co_10:11esto tenga en c tal persona, que asíG3049
+- Flp_4:17busco fruto que abunde en vuestra cG3056
+- 2Ti_4:16desampararon; no les sea tomado en cG3049
+- Flm_1:18algo te dañó, o te debe, ponlo a mi cG1677
+- Heb_4:13ojos de aquel a quien tenemos que dar cG3056
+- Heb_13:17velan por...como quienes han de dar cG3056
+- 1Pe_4:5ellos darán c al que está preparadoG3056

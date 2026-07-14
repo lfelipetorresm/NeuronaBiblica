@@ -1,0 +1,2141 @@
+---
+tipo: concordancia
+palabra: HOMBRE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HOMBRE
+
+- Gén_1:26entonces dijo Dios: Hagamos al h aH120
+- Gén_1:27creó Dios al h a su imagen, a imagen deH120
+- Gén_2:5ni había h para que labrase la tierraH120
+- Gén_2:7Dios formó al h del polvo de la tierraH120
+- Gén_2:7sopló en su...y fue el h un ser vivienteH120
+- Gén_2:8Dios...puso allí al h que había formadoH120
+- Gén_2:15tomó...Jehová Dios al h, y lo puso en elH120
+- Gén_2:16y mandó Jehová Dios al h, diciendo: DeH120
+- Gén_2:18Dios: No es bueno que el h esté soloH120
+- Gén_2:22del h, hizo una mujer, y la trajo al hH120
+- Gén_2:24dejará el h a su padre y a su madre, yH120
+- Gén_3:8el h y su mujer se escondieron de...DiosH120
+- Gén_3:9mas Jehová Dios llamó al h, y le dijoH120
+- Gén_3:12el h respondió: La mujer...me dio delH120
+- Gén_3:17al h dijo: Por cuanto obedeciste a laH120
+- Gén_3:21Dios hizo al h y a su mujer túnicas deH120
+- Gén_3:22he aquí el h es como uno de nosotrosH120
+- Gén_3:24echó, pues, fuera al h...del huerto deH120
+- Gén_4:26entonces los h comenzaron a invocar elH2490
+- Gén_5:1día en que creó Dios al h, a semejanzaH120
+- Gén_6:1comenzaron los h a multiplicarse sobreH120
+- Gén_6:2viendo...las hijas de los h eran hermosasH120
+- Gén_6:3no contenderá mi espíritu con el h paraH120
+- Gén_6:4los hijos de Dios a las hijas de los hH120
+- Gén_6:5que la maldad de los h era mucha en laH120
+- Gén_6:6se arrepintió Jehová de haber hecho hH120
+- Gén_6:7raeré de...a los h...el h hasta la bestiaH120
+- Gén_7:21murió toda carne...la tierra, y todo hH120
+- Gén_7:23destruido...desde el h hasta la bestiaH120
+- Gén_8:21a maldecir la tierra por causa del hH120
+- Gén_8:21el intento del corazón del h es maloH120
+- Gén_9:5la sangre...la demandaré...de mano del hH120
+- Gén_9:5de su hermano demandaré la vida del hH120
+- Gén_9:6el que derramare sangre de h, por el hH120
+- Gén_9:6porque a imagen de Dios es hecho el hH120
+- Gén_11:5torre que edificaban los hijos de...hH120
+- Gén_13:13los h de Sodoma eran malos y pecadoresH582
+- Gén_16:12él será h fiero; su mano contra todosH120
+- Gén_17:17¿a h de cien años ha de nacer hijo?[[H582]]
+- Gén_19:4rodearon la casa los h de la ciudadH582
+- Gén_19:11a los h que estaban a la puerta de laH582
+- Gén_20:8dijo...y temieron los h en gran maneraH582
+- Gén_24:21y el h estaba maravillado de...callandoH376
+- Gén_24:22le dio el h un pendiente de oro queH376
+- Gén_24:26el h...se inclinó, y adoró a JehováH376
+- Gén_24:29corrió afuera hacia el h, a la fuenteH376
+- Gén_24:30que decía: Así me habló aquel h, vinoH376
+- Gén_24:32el h vino a casa, y Labán desató losH376
+- Gén_24:32y los pies de los h que con él veníanH376
+- Gén_24:59ir...y al criado de Abraham y a sus hH582
+- Gén_24:61Rebeca y...montaron...y siguieron al hH376
+- Gén_25:27Esaú fue diestro en la caza, h de campoH376
+- Gén_26:7y los h de aquel lugar le preguntaronH376
+- Gén_26:7los h del lugar lo matarían por...RebecaH376
+- Gén_26:11el que tocare a este h o a su mujerH376
+- Gén_27:11mi hermano es h velloso, y yo lampiñoH376
+- Gén_29:19la dé a ti, y no que la dé a otro hH376
+- Gén_32:6Esaú...viene...y cuatrocientos h con élH376
+- Gén_32:28has luchado con Dios y con los h, y hasH376
+- Gén_33:1he aquí venía Esaú, y los 400 h con élH376
+- Gén_34:14dar nuestra hermana a h incircuncisoH376
+- Gén_34:22consentirán estos h en habitar conH376
+- Gén_34:30teniendo yo pocos h, se juntarán contraH4962
+- Gén_37:15lo halló un h, andando él errante porH376
+- Gén_37:15y le preguntó aquel h, diciendo: ¿QuéH376
+- Gén_37:17aquel h respondió: Ya se han ido deH376
+- Gén_38:2vio allí Judá la hija de un h cananeoH376
+- Gén_38:21y preguntó a los h de aquel lugarH376
+- Gén_38:22también los h del lugar dijeron: AquíH376
+- Gén_41:38¿acaso hallaremos a otro h como ésteH376
+- Gén_42:11somos h honrados; tus siervos nunca
+- Gén_42:19si sois h honrados, quede preso en la
+- Gén_42:31somos h honrados, nunca fuimos espías
+- Gén_42:33en esto conoceré que sois h honrados
+- Gén_42:34que no sois espías, sino h honradosH376
+- Gén_43:16lleva a casa a esos h, y degüella unaH376
+- Gén_43:16estos h comerán conmigo al mediodíaH376
+- Gén_43:17e hizo el h como José dijo, y llevó aH376
+- Gén_43:17hizo...y llevó a los h a casa de JoséH376
+- Gén_43:18entonces aquellos h tuvieron temorH376
+- Gén_43:24y llevó...varón a los h a casa de JoséH376
+- Gén_43:33estaban aquellos h atónitos mirándoseH376
+- Gén_44:3los h fueron despedidos con sus asnosH376
+- Gén_44:4dijo José a...Levántate y sigue a esos hH376
+- Gén_44:15sabéis que un h como yo sabe adivinar?[[H376]]
+- Gén_46:32los h son pastores...son h ganaderosH376
+- Gén_46:34diréis: H de ganadería han sido tusH376
+- Gén_47:6entiendes que hay entre ellos h capacesH376
+- Gén_49:6porque en su furor mataron h, y en suH376
+- Éxo_2:20dijo...¿Por qué habéis dejado a ese h?[[H376]]
+- Éxo_4:10nunca he sido h de fácil palabra, niH376
+- Éxo_4:11le respondió: ¿Quién dio la boca al h?[[H120]]
+- Éxo_8:17-18piojos...los h como en las bestiasH120
+- Éxo_9:9sarpullido con úlceras en los h como enH120
+- Éxo_9:10produjo úlceras tanto en los h como enH120
+- Éxo_9:19todo h o animal que se halle en el campoH120
+- Éxo_9:22para que venga granizo en...sobre los hH120
+- Éxo_9:25y aquel granizo hirió...h como bestiasH120
+- Éxo_10:7¿hasta cuándo será este h un lazo paraH120
+- Éxo_10:7deja ir a estos h...que sirvan a JehováH376
+- Éxo_11:7de Israel, desde el h hasta la bestiaH376
+- Éxo_12:4conforme al comer de cada h, haréis laH376
+- Éxo_12:12heriré...de los h como de las bestiasH120
+- Éxo_12:37partieron...seiscientos mil h de a pieH1397
+- Éxo_13:2de los h como de los animales, mío esH120
+- Éxo_19:13tocará...sea animal o sea h, no viviráH376
+- Éxo_21:28si un buey acorneare a h o a mujer, yH376
+- Éxo_21:29fuere acorneador...matare a h o mujerH376
+- Éxo_22:7y fuere hurtado de la casa de aquel hH376
+- Éxo_30:32sobre carne de h no será derramado, niH120
+- Éxo_32:28cayeron...en aquel día como tres mil hH120
+- Éxo_33:20no podrás ver...no me verá h, y viviráH120
+- Éxo_34:3no suba h contigo, ni parezca alguno enH376
+- Éxo_35:22vinieron así h como mujeres, todos losH376
+- Éxo_35:23todo h que tenía azul, púrpura, carmesíH376
+- Éxo_35:29h como mujeres...que tuvieron corazónH376
+- Éxo_36:1h sabio de corazón, a quien Jehová dioH376
+- Éxo_36:2h a quien su corazón le movió a venirH376
+- Éxo_36:6ningún hombre ni mujer haga más paraH376
+- Lev_5:3tocare inmundicia de h...será culpableH120
+- Lev_5:4cosa que el h profiere con juramentoH120
+- Lev_6:3aquellas cosas en que suele pecar el hH120
+- Lev_7:21la persona que tocare...inmundicia de hH120
+- Lev_13:2cuando el h tuviere en la piel de suH120
+- Lev_13:9cuando hubiere llaga de lepra en el hH120
+- Lev_13:29h...que le saliere llaga en la cabezaH376
+- Lev_13:38el h...tuviere en la piel de su cuerpoH376
+- Lev_13:40el h, cuando se le cayere el cabelloH376
+- Lev_15:16cuando el h tuviere emisión de semenH376
+- Lev_15:18y cuando un h yaciere con una mujerH376
+- Lev_15:33el h que durmiere con mujer inmundaH2145
+- Lev_16:17ningún h estará en el tabernáculo deH120
+- Lev_16:21por mano de un h destinado para estoH376
+- Lev_18:5cuales haciendo el h, vivirá en ellosH120
+- Lev_18:27estas abominaciones hicieron los h deH376
+- Lev_19:20un h yaciere con una mujer que fuereH376
+- Lev_20:9todo h que maldijere a su padre o a suH376
+- Lev_20:10h cometiere adulterio con la mujer deH376
+- Lev_20:27el h...que evocare espíritus de muertosH376
+- Lev_21:4no se contaminará como cualquier h deH1167
+- Lev_22:5u h por el cual venga a ser inmundoH120
+- Lev_24:10el hijo de...y un h de Israel riñeron enH376
+- Lev_24:17el h que hiere de muerte a cualquieraH120
+- Lev_24:21que hiere de muerte a un h, que mueraH120
+- Lev_25:26cuando el h no tuviere rescatador, yH376
+- Lev_27:28de h y de animales, y de las tierrasH120
+- Núm_3:13así de h como de animales, míos seránH120
+- Núm_5:3así a h como a mujeres echaréis; fueraH2145
+- Núm_5:6el h o la mujer que cometiere alguno deH376
+- Núm_5:6de los pecados con que los h prevaricanH376
+- Núm_5:8si aquel h no tuviere pariente al cualH376
+- Núm_5:31el h será libre de iniquidad, y la mujerH376
+- Núm_6:2el h...que se apartare haciendo voto deH376
+- Núm_8:17primogénito...así de h como de animalesH120
+- Núm_9:7le dijeron aquellos h: Nosotros estamosH120
+- Núm_9:13no ofreció...el tal h llevará su pecadoH376
+- Núm_12:3era muy manso, más que todos los h queH376
+- Núm_13:2envía tú h que reconozcan la tierra deH376
+- Núm_13:32el pueblo que...son h de grande estaturaH582
+- Núm_14:15que has hecho morir a...como un solo hH376
+- Núm_14:38de entre aquellos h que habían ido aH582
+- Núm_15:32hallaron a un h que recogía leña en díaH376
+- Núm_15:35y Jehová dijo a Moisés...muera aquel hH376
+- Núm_16:14¿sacarás los ojos de...h? No subiremosH582
+- Núm_16:22¿no es un solo h el que pecó? ¿Por quéH376
+- Núm_16:26apartaos...de las tiendas de estos hH582
+- Núm_16:29si como mueren todos los h murierenH120
+- Núm_16:29o si...siguen la suerte de todos los hH120
+- Núm_16:30si...conoceréis que estos h irritaron aH582
+- Núm_16:32y los tragó a...a todos los h de CoréH120
+- Núm_16:35consumió a los 250 h que ofrecían alH376
+- Núm_18:15así de h como de animales, será tuyoH120
+- Núm_18:15harás...se redima el primogénito del hH120
+- Núm_19:9un h limpio recogerá las cenizas de laH376
+- Núm_19:18un h limpio tomará hisopo, y lo mojaráH376
+- Núm_22:20dijo: Si vinieron...llamarte estos hH582
+- Núm_22:35vé con esos h; pero la palabra que yoH582
+- Núm_23:19no es h, para que mienta, ni hijo de hH582
+- Núm_31:11tomaron...todo el botín, así de h comoH120
+- Núm_31:21dijo a los h de guerra que venían de laH120
+- Núm_31:28apartarás...tributo de los h de guerraH582
+- Núm_31:32del botín que tomaron los h de guerraH4971
+- Núm_31:42apartó...de los h que habían ido a laH582
+- Núm_31:49han tomado razón de los h de guerraH376
+- Núm_31:53los h del...habían tomado botín cada unoH376
+- Núm_32:14prole de h pecadores, para añadir aúnH582
+- Deu_1:16y juzgad...entre el h y su hermano, yH376
+- Deu_1:31te ha traído, como trae el h a su hijoH376
+- Deu_1:35no verá h...de esta mala generación, laH582
+- Deu_2:14toda la generación de los h de guerraH582
+- Deu_2:16que murieron todos los h de guerra deH582
+- Deu_2:34y destruimos todas...h, mujeres y niñosH4962
+- Deu_3:6matando en...ciudad a h, mujeres y niñosH4962
+- Deu_3:11de cuatro codos, según el codo de un hH376
+- Deu_4:3que a todo h que fue en pos de Baal-peorH376
+- Deu_4:28serviréis allí a dioses...de manos de hH120
+- Deu_4:32día que creó Dios al h sobre la tierraH120
+- Deu_5:24hoy hemos visto que Jehová habla al hH120
+- Deu_5:26¿qué es el h...que oiga la voz del DiosH1320
+- Deu_8:3no sólo de pan vivirá el h, mas de todoH120
+- Deu_8:3que sale de la boca de Jehová vivirá el hH120
+- Deu_8:5como castiga el h a su hijo, así JehováH376
+- Deu_13:13salido...h impíos que han instigado aH582
+- Deu_17:2h o mujer que haya hecho mal ante losH376
+- Deu_17:5al h...que hubiere hecho esta mala cosaH376
+- Deu_17:5sacarás a...h o mujer, y los apedrearásH376
+- Deu_17:12el h que procediere con soberbia, noH376
+- Deu_17:15no podrás poner...a h extranjero, queH376
+- Deu_20:8¿quién es h medroso y pusilánime? VayaH376
+- Deu_20:19el árbol...no es h para venir contra tiH120
+- Deu_21:15si un h tuviere dos mujeres, la unaH376
+- Deu_21:21todos los h de su ciudad lo apedrearánH582
+- Deu_22:5no vestirá la mujer traje de h, ni elH1397
+- Deu_22:5ni el h vestirá ropa de mujer; porqueH1397
+- Deu_22:16yo di mi hija a este h por mujer, y élH376
+- Deu_22:18ancianos...tomarán al h y le castigaránH376
+- Deu_22:21la apedrearán los h de su ciudad, yH582
+- Deu_22:22el h que se acostó con la mujer, y laH376
+- Deu_22:24y el h porque humilló a la mujer de suH376
+- Deu_22:25si un h hallare en el campo a la jovenH376
+- Deu_22:25y la forzare aquel h, acostándose conH376
+- Deu_22:25morirá...el h que se acostó con ellaH376
+- Deu_22:28algún h hallare a una joven virgen queH376
+- Deu_22:29el h que...dará al padre de la joven 30H376
+- Deu_24:2salida...podrá ir y casarse con otro hH376
+- Deu_24:3si hubiere muerto el postrer h que laH376
+- Deu_24:6sería tomar en prenda la vida del hH376
+- Deu_24:11el h a quien prestaste te sacará laH376
+- Deu_24:12si el h fuere pobre, no te acostarásH376
+- Deu_25:5no se casará fuera con h extraño; suH376
+- Deu_25:7si el h no quisiere tomar a su cuñadaH376
+- Deu_26:5descendió a...y habitó allí con pocos hH4932
+- Deu_27:15maldito el h que hiciere escultura oH376
+- Deu_28:54el h tierno...mirará con malos ojos aH376
+- Deu_29:20humeará...su celo sobre el tal h, y seH376
+- Deu_32:8cuando hizo dividir a los hijos de los hH120
+- Deu_32:25así...al niño de pecho como al h canoH376
+- Deu_32:26haría cesar de entre los h la memoriaH582
+- Jos_2:2h de los hijos de Israel han venidoH582
+- Jos_2:3saca a los h que han venido a ti, y hanH582
+- Jos_2:4pero la mujer había tomado a los dos hH582
+- Jos_2:4verdad que unos h vinieron a mí, peroH582
+- Jos_2:5h se salieron, y no sé a donde han idoH582
+- Jos_2:7los h fueron tras ellos por el caminoH582
+- Jos_2:11ni ha quedado más aliento en h algunoH376
+- Jos_2:23volvieron los dos h; descendieron delH582
+- Jos_3:12tomad...doce h de las tribus de IsraelH376
+- Jos_4:2tomad del pueblo 12 h, uno de cada tribuH376
+- Jos_4:4Josué llamó a los doce h a los cuales élH376
+- Jos_4:13cuarenta mil h armados, listos para laH2502
+- Jos_5:4todos los h de guerra, habían muerto enH582
+- Jos_5:6los h...salido de Egipto fueron consumidoH582
+- Jos_6:3rodeaéis, pues, la ciudad todos los hH582
+- Jos_6:9h armados iban delante de los sacerdotesH582
+- Jos_6:13los h armados iban delante de ellos, y laH582
+- Jos_6:21destruyeron a...h y mujeres, jóvenes yH376
+- Jos_6:22a los dos h que habían reconocido laH582
+- Jos_6:26maldito...h que...reedificare esta ciudadH376
+- Jos_7:2después Josué envió h desde Jericó a HaiH582
+- Jos_7:3dos mil o tres mil h, y tomarán a HaiH376
+- Jos_7:4subieron allá del pueblo como tres mil hH376
+- Jos_7:5los de Hai mataron de ellos a unos 36 hH582
+- Jos_8:3y escogió Josué treinta mil h fuertesH376
+- Jos_8:12cinco mil h, y los puso en emboscadaH376
+- Jos_8:14los h...salieron al encuentro de IsraelH582
+- Jos_8:17no quedó h en Hai...que no saliera trasH376
+- Jos_8:20los h de Hai volvieron el rostro, y alH582
+- Jos_8:25los que cayeron...h y mujeres...de HaiH376
+- Jos_9:14h de Israel tomaron de las provisionesH582
+- Jos_10:2era una gran ciudad...sus h eran fuertesH582
+- Jos_10:7subió Josué de...y todos los h valientesH1397
+- Jos_10:14habiendo atendido Jehová a la...de un hH376
+- Jos_10:18poned h junto a...para que los guardenH582
+- Jos_11:14todos los h hirieron a filo de espadaH120
+- Jos_14:15Arba fue un h grande entre los anaceosH120
+- Jos_17:1Maquir...fue h de guerra, tuvo Galaad yH376
+- Jos_22:20aquel h no pereció solo en su iniquidadH376
+- Jue_1:4hirieron de ellos en Bezec a diez mil hH376
+- Jue_1:24vieron a un h que salía de la ciudadH376
+- Jue_1:25dejaron ir a aquel h con toda su familiaH376
+- Jue_1:26se fue el h a la tierra de los heteosH376
+- Jue_3:17rey de Moab; y era Eglón h muy gruesoH376
+- Jue_3:29como a diez mil h...y todos h de guerraH376
+- Jue_3:31mató a seiscientos h de los filisteosH376
+- Jue_4:6toma...diez mil h de la tribu de NeftalíH376
+- Jue_4:10Barac...subió con diez mil h a su mandoH376
+- Jue_4:14descendió Barac...10.000 h en pos de élH376
+- Jue_6:16derrotarás a los madianitas como a...hH376
+- Jue_6:27Gedeón tomó 10 h de sus siervos, e hizoH582
+- Jue_6:27temiendo hacerlo...por los h de la ciudadH582
+- Jue_6:29entonces los h de la ciudad dijeron aH376
+- Jue_7:6fue el número de los que lamieron...300 hH376
+- Jue_7:7con estos 300 h que lamieron el agua osH376
+- Jue_7:8envió a todos...retuvo a aquellos 300 hH376
+- Jue_7:13un h estaba contando a su compañero unH376
+- Jue_7:16repartiendo los 300 h en 3 escuadronesH376
+- Jue_7:19Gedeón y los cien h que llevaba consigoH376
+- Jue_7:24los h de Efraín, tomaron los vados deH376
+- Jue_8:1los h de Efraín lo dijeron: ¿Qué es estoH376
+- Jue_8:4pasó él y los 300 h que traía consigoH376
+- Jue_8:10y con ellos su ejército...de 15.000 hH582
+- Jue_8:10habían caído 120.000 h...sacaban espadaH376
+- Jue_8:14tomó a un joven de los h de Sucot, y leH582
+- Jue_8:15entrando a los h de Sucot, dijo: He aquíH582
+- Jue_8:15que demos nosotros pan a tus h cansados?[[H582]]
+- Jue_8:18a Zeba...¿Qué aspecto tenían aquellos hH582
+- Jue_9:2os gobiernen 70 h...os gobierne un solo h?[[H376]]
+- Jue_9:4Abimelec alquiló h ociosos y vagabundosH376
+- Jue_9:9con el cual...se honra a Dios y a los hH376
+- Jue_9:13mi mosto, que alegra a Dios y a los hH376
+- Jue_9:23mal espíritu entre Abimelec y los h deH1167
+- Jue_9:24sobre Abimelec...y sobre los h de SiquemH1167
+- Jue_9:36ves la sombra de los...como si fueran hH582
+- Jue_9:47reunidos...los h de la torre de SiquemH1167
+- Jue_9:49murieron, como unos mil h y mujeresH376
+- Jue_9:51a la cual se retiraron todos los h y lasH582
+- Jue_9:57el mal de los h de...lo hizo Dios volverH582
+- Jue_11:3Jefté...y se juntaron con él h ociososH582
+- Jue_13:2había un h de Zora, de la tribu de DanH376
+- Jue_14:19descendió a Ascalón y mató a 30 h deH376
+- Jue_15:11vinieron tres mil h de Judá a...de EtamH376
+- Jue_15:15una quijada de...y mató con ella a mil hH376
+- Jue_15:16con la quijada de un asno maté a mil hH376
+- Jue_16:7, Jue_16:11, Jue_16:17seré como cualquiera de los hH120
+- Jue_16:9ella tenía h en acecho en el aposento
+- Jue_16:19llamó a un h, quien le rapó las sieteH376
+- Jue_16:27y la casa estaba llena de h y mujeresH582
+- Jue_16:27en el piso alto había como 3.000 h yH376
+- Jue_17:1hubo un h del monte de Efraín...MicaíaH376
+- Jue_17:5h Micaía tuvo casa de dioses, e hizo efodH376
+- Jue_17:8este h partió de...Belén de Judá para irH376
+- Jue_17:11agradó...al levita morar con aquel h, yH376
+- Jue_18:2enviaron...cinco h...h valientes, de ZoraH582, [[H1121]]
+- Jue_18:7aquellos cinco h salieron, y vinieron aH582
+- Jue_18:11salieron...600 h de la familia de DanH376
+- Jue_18:14aquellos 5 h...dijeron a sus hermanosH582
+- Jue_18:16y los 600 h...estaban armados de susH376
+- Jue_18:17y subiendo los cinco h...entraron alláH582
+- Jue_18:17estaba el sacerdote a la...con los 600 hH376
+- Jue_18:19seas tú sacerdote en casa de un solo hH376
+- Jue_18:22los h que...cercanas a la casa de MicaíaH582
+- Jue_19:10mas el h no quiso pasar allí la nocheH376
+- Jue_19:16un h viejo que venía de su trabajo delH376
+- Jue_19:20y el h anciano dijo: Paz sea contigoH376
+- Jue_19:22los h...h perversos, rodearon la casaH376
+- Jue_19:22saca al h que ha entrado en tu casaH376
+- Jue_19:23ya que este h ha entrado en mi casa, noH376
+- Jue_19:24y no hagáis a este h cosa tan infameH376
+- Jue_19:25aquellos h no lo quisieron oír; por loH582
+- Jue_19:25tomando aquel h a su concubina, la sacóH376
+- Jue_19:26cayó delante de...de la casa de aquel hH376
+- Jue_20:1se reunió la...como un solo h, desde DanH376
+- Jue_20:2se hallaron presentes...400.000 h de aH376
+- Jue_20:8el pueblo, como un solo h, se levantóH376
+- Jue_20:10tomaremos diez h de cada ciento porH582
+- Jue_20:11juntaron todos los h...como un solo hH376
+- Jue_20:13entregad...a aquellos h perversos queH582
+- Jue_20:15contados...26.000 h que sacaban espadaH376
+- Jue_20:15en Gabaa...por cuenta 700 h escogidosH376
+- Jue_20:16había 700 h escogidos, que eran zurdosH376
+- Jue_20:17de Israel...400.000 h que...h de guerraH376
+- Jue_20:21derribaron...22.000 h de los hijos deH376
+- Jue_20:25derribaron...18.000 h de los hijos deH376
+- Jue_20:31Benjamín...mataron unos 30 h de IsraelH376
+- Jue_20:34contra Gabaa diez mil h escogidos deH376
+- Jue_20:35mataron...25:100 h de Benjamín, todosH376
+- Jue_20:37los h de las emboscadas acometieron
+- Jue_20:38la señal...entre los h de Israel y lasH376
+- Jue_20:39a herir y matar...de Israel como 30 hH376
+- Jue_20:41entonces se volvieron los h de IsraelH376
+- Jue_20:44y cayeron...dieciocho mil h...h de guerraH376
+- Jue_20:45abatidos cinco mil h en los caminosH376
+- Jue_20:45hasta...y mataron de ellos a dos mil hH376
+- Jue_20:46murieron...25.000 h...todos h de guerraH376
+- Jue_20:47huyeron al...a la peña de Rimón 600 hH376
+- Jue_20:48y los h de Israel volvieron sobre losH376
+- Jue_20:48hirieron...a los h de cada ciudad comoH4974
+- Jue_21:10la congregación envió allá a 12.000 hH376
+- Rut_2:1tenía Noemí un pariente...h rico de laH376
+- Rut_3:8que...se estremeció aquel h, y se volvióH376
+- Rut_3:14se levantó antes que los h pudieranH376
+- Rut_3:18h no descansará hasta que concluya elH376
+- 1Sa_2:12los hijos de Elí eran h impíos, y noH1121
+- 1Sa_2:16si el h le respondía: Quemen la grosuraH376
+- 1Sa_2:17h menospreciaban las ofrendas de JehováH582
+- 1Sa_2:25si pecare el h contra el h, los juecesH376
+- 1Sa_2:26Samuel...acepto delante de Dios...de los hH582
+- 1Sa_4:2hirieron en la batalla...como a 4.000 hH376
+- 1Sa_4:9esforzaos, oh...y sed h...sed h, y peleadH582
+- 1Sa_4:10pues cayeron de Israel 30.000 h de a pieH7242
+- 1Sa_4:12corriendo...un h de Benjamín, llegó elH376
+- 1Sa_4:13llegado, pues, aquel h a la ciudad, yH376
+- 1Sa_4:14h vino aprisa y dio las nuevas a ElíH376
+- 1Sa_4:16dijo, pues, aquel h a Elí: Yo vengo deH376
+- 1Sa_4:18Elí cayó...porque era h viejo y pesadoH376
+- 1Sa_5:9afligió a los h de aquella ciudad desdeH582
+- 1Sa_6:10y aquellos h lo hicieron así; tomandoH582
+- 1Sa_6:15h de Bet-semes sacrificaron...a JehováH582
+- 1Sa_6:19Dios hizo morir a los h de...a 50:070 hH376
+- 1Sa_9:1había un varón de Benjamín, h valerosoH376
+- 1Sa_9:6hay...un varón de Dios, que es h insigneH376
+- 1Sa_9:22los convidados, que eran unos treinta hH376
+- 1Sa_10:2hallarás dos h junto al sepulcro deH582
+- 1Sa_10:3saldrán al encuentro tres h que subenH582
+- 1Sa_10:6profetizarás...y serás mudado en otro hH376
+- 1Sa_10:26y fueron con él los h de guerra cuyosH2428
+- 1Sa_11:5contaron las palabras de los h de JabesH582
+- 1Sa_11:7cayó temor...y salieron como un solo hH376
+- 1Sa_11:8de Israel...y treinta mil los h de JudáH376
+- 1Sa_11:12dijo...dadnos esos h, y los mataremosH582
+- 1Sa_12:4ni has tomado algo de mano de ningún hH376
+- 1Sa_13:2escogió luego a 3.000 h de Israel, de
+- 1Sa_13:5los filisteos...seis mil h de a caballoH6571
+- 1Sa_13:6los h de Israel vieron que estaban enH376
+- 1Sa_13:15Saúl contó la gente que...como 600 hH376
+- 1Sa_14:2gente que estaba con él era como 600 hH376
+- 1Sa_14:8dijo...Jonatán: Vamos a pasar a esos hH582
+- 1Sa_14:12los h...respondieron a Jonatán y a suH582
+- 1Sa_14:14matanza que hicieron...como veinte hH376
+- 1Sa_14:24h de Israel fueron puestos en apuroH376
+- 1Sa_14:28maldito...el h que tome hoy alimentoH376
+- 1Sa_14:52el que Saúl veía que era h esforzadoH376
+- 1Sa_15:3mata a h, mujeres, niños, y aun los deH376
+- 1Sa_15:4Saúl...pasé revista...10.000 h de JudáH376
+- 1Sa_15:29porque no es h para que se arrepientaH120
+- 1Sa_16:7Jehová no mira lo que mira el h; puesH120
+- 1Sa_16:7el h mira lo que está delante de susH120
+- 1Sa_16:18es valiente y vigoroso y h de guerraH376
+- 1Sa_17:2Saúl y los h de Israel se juntaron, yH376
+- 1Sa_17:8entre vosotros un h que venga contra míH376
+- 1Sa_17:10añadió...dadme un h que pelee conmigoH376
+- 1Sa_17:12David era hijo de aquel h efrateo deH376
+- 1Sa_17:12en el tiempo de Saúl este h era viejoH376
+- 1Sa_17:12era viejo y de gran edad entre los hH376
+- 1Sa_17:24varones de Israel que veían aquel hH376
+- 1Sa_17:25habéis visto aquel h que ha salido?[[H376]]
+- 1Sa_17:26¿qué harán al h que venciere a esteH376
+- 1Sa_17:27así se hará al h que le venciereH376
+- 1Sa_17:28oyéndole hablar Eliab...con aquellos hH582
+- 1Sa_17:33él un h de guerra desde su juventudH376
+- 1Sa_18:17daré...con tal que me seas h valienteH1121
+- 1Sa_18:23siendo...h pobre y de ninguna estimaH376
+- 1Sa_18:27fue...y mató a 200 h de los filisteosH582
+- 1Sa_21:14he aquí, veis que este h es dementeH376
+- 1Sa_22:2hecho jefe...y tuvo consigo como 400 hH376
+- 1Sa_22:19hirió...así a h como a mujeres, niñosH376
+- 1Sa_23:5fue, pues, David con sus h a Keila, yH582
+- 1Sa_23:8Keila, y poner sitio a David y a sus hH582
+- 1Sa_23:12¿me entregarán los...a mí y a mis h enH1167
+- 1Sa_23:13David entonces se levantó con sus hH582
+- 1Sa_23:26David con sus h por el otro lado delH582
+- 1Sa_23:26Saúl y sus h habían encerrado a DavidH582
+- 1Sa_24:2tomando Saúl 3.000 h escogidos de todoH376
+- 1Sa_24:2Saúl...fue en busca de David y de sus hH582
+- 1Sa_24:3David y sus h estaban sentados en losH582
+- 1Sa_24:4h de David le dijeron: He aquí el díaH582
+- 1Sa_24:6a sus h: Jehová me guarde de hacer talH582
+- 1Sa_24:7así reprimió David a sus h con palabrasH582
+- 1Sa_24:22David y sus h subieron al lugar fuerteH582
+- 1Sa_25:2un h que tenía su hacienda en Carmel, elH376
+- 1Sa_25:3el h era duro y de malas obras; y eraH376
+- 1Sa_25:11y darla a h que no sé de dónde son?[[H582]]
+- 1Sa_25:13David dijo a sus h: Cíñase...su espadaH582
+- 1Sa_25:13ciñó...subieron tras David como 400 hH376
+- 1Sa_25:15h han sido muy buenos con nosotrosH582
+- 1Sa_25:17es un h tan perverso, que no hay quienH1121
+- 1Sa_25:20David y sus h venían frente a ella, yH376
+- 1Sa_25:25no haga caso ahora mi Señor de ese hH582
+- 1Sa_25:27sea dado a los h que siguen a mi señorH376
+- 1Sa_26:2llevando consigo tres mil h escogidosH376
+- 1Sa_26:15dijo David a Abner: ¿No eres tú un h?[[H376]]
+- 1Sa_26:19mas si fueren hijos de h, malditos seanH120
+- 1Sa_27:2con los 600 h que tenía...se pasó a AquisH376
+- 1Sa_27:3moró David con Aquis en Gat, él y sus hH582
+- 1Sa_27:8y subía David con sus h...incursionesH582
+- 1Sa_27:9David...y no dejaba con vida h ni mujerH376
+- 1Sa_27:11h ni mujer dejaba David con vida paraH376
+- 1Sa_28:1que has de salir...a campaña, tú y tus hH582
+- 1Sa_28:8con dos h, y vinieron a aquella mujerH582
+- 1Sa_28:14h anciano viene, cubierto de un mantoH376
+- 1Sa_29:2sus compañías de a ciento y de a mil hH376
+- 1Sa_29:2David y sus h iban en la retaguardia conH582
+- 1Sa_29:4despide a este h, para que se vuelva alH120
+- 1Sa_29:4volvería...con las cabezas de estos h?[[H582]]
+- 1Sa_29:11se levantó David...y sus h, para irseH582
+- 1Sa_30:1cuando David y sus h vinieron a SiclagH582
+- 1Sa_30:9partió, pues, David, él y los 600 h queH376
+- 1Sa_30:10David siguió adelante con 400 h; porqueH376
+- 1Sa_30:11y hallaron en el campo a un h egipcioH376
+- 1Sa_30:21y vino David a los 200 h que habíanH582
+- 1Sa_30:31donde David había estado con sus hH582
+- 1Sa_31:12todos los h valientes se levantaronH376
+- 2Sa_1:11lo mismo hicieron los h que estabanH582
+- 2Sa_1:15llamó David a uno de sus h, y le dijoH582
+- 2Sa_2:3llevó...a los h que con él habían estadoH582
+- 2Sa_2:17Abner y los h...fueron vencidos por losH582
+- 2Sa_2:21echa mano de alguno de los h, y tomaH582
+- 2Sa_2:30faltaron de los...de David diecinueve hH376
+- 2Sa_2:31hirieron...a 360 h, los cuales murieronH376
+- 2Sa_2:32caminaron...aquella noche Joab y sus hH582
+- 2Sa_3:20vino, pues, Abner a...y con él veinte hH582
+- 2Sa_3:34como los que caen delante de malos hH1121
+- 2Sa_3:39h, los hijos de Sarvia, son muy durosH582
+- 2Sa_4:2el hijo de Saúl tenía dos h, capitanesH582
+- 2Sa_4:11los malos h que mataron a un h justoH582
+- 2Sa_5:6marchó el rey con sus h a JerusalénH582
+- 2Sa_5:21sus ídolos, y David y sus h los quemaronH582
+- 2Sa_6:19repartió...así a h como a mujeres...panH376
+- 2Sa_7:14vara de h, y con azotes de hijos de hH582
+- 2Sa_7:19es así como procede el h, Señor Jehová?[[H120]]
+- 2Sa_8:41.700 h de a caballo, y 20.000 h de a pieH376
+- 2Sa_8:5y David hirió de los sirios a 22.000 hH376
+- 2Sa_10:6y tomaron a sueldo...20.000 h de a pieH376
+- 2Sa_10:6de Maaca mil h, y de Is-tob doce mil hH376
+- 2Sa_10:18David mató de...a 40.000 h de a caballoH6571
+- 2Sa_11:16sabía que estaban los h más valientesH582
+- 2Sa_11:23prevalecieron...h que salieron contraH582
+- 2Sa_12:1había dos h...uno rico, y el otro pobreH582
+- 2Sa_12:4y vino uno de camino al h rico; y ésteH376
+- 2Sa_12:4sino que tomó la oveja de aquel h pobreH376
+- 2Sa_12:5se encendió el furor de...contra aquel hH376
+- 2Sa_12:7dijo Natán a David: Tú eres aquel hH376
+- 2Sa_13:3un amigo...y Jonadab era h muy astutoH376
+- 2Sa_14:16librar a su sierva de mano del h queH376
+- 2Sa_15:1Absalón se hizo de...50 h que corriesenH376
+- 2Sa_15:11fueron con Absalón 200 h de JerusalénH376
+- 2Sa_15:18y todos los geteos, 600 h que habíanH376
+- 2Sa_15:22y pasó Itai...y todos sus h, y toda suH582
+- 2Sa_16:6los h valientes estaban a su derecha y aH1397
+- 2Sa_16:7decía...¡fuera, fuera, h sanguinario yH376
+- 2Sa_16:8en tu maldad, porque eres h sanguinarioH376
+- 2Sa_16:15Absalón y...los h de Israel, entraron enH376
+- 2Sa_17:1escogeré ahora 12.000 h, y me levantaréH376
+- 2Sa_17:3pues tú buscas solamente la vida de un hH376
+- 2Sa_17:8sabes que tu padre y...son h valientesH582
+- 2Sa_17:8tu padre es h de guerra, y no pasará laH376
+- 2Sa_17:10el h valiente, cuyo corazón sea comoH1121
+- 2Sa_17:10Israel sabe que tu padre es h valienteH1397
+- 2Sa_17:18llegaron a casa de un h en Bahurim, queH376
+- 2Sa_18:7se hizo...una gran matanza de 20.000 h
+- 2Sa_18:11y Joab respondió al h que le daba laH376
+- 2Sa_18:12el h dijo a Joab: Aunque me pesaras milH376
+- 2Sa_18:26dio voces...aquí otro h que corre soloH376
+- 2Sa_18:27es h de bien, y viene con buenas nuevasH376
+- 2Sa_18:28que ha entregado a los h que habíanH582
+- 2Sa_19:7no quedará ni un h contigo esta nocheH376
+- 2Sa_19:14corazón de todos...como el de un solo hH376
+- 2Sa_19:16con los h de Judá a recibir al rey DavidH376
+- 2Sa_19:17con él venían mil h de Benjamín...SibaH376
+- 2Sa_19:32era Barzilai muy anciano...era h muy ricoH376
+- 2Sa_19:41todos los h de Israel vinieron al reyH376
+- 2Sa_19:41por qué los h de Judá...te han llevadoH376
+- 2Sa_19:42los h de Judá respondieron a todos losH376
+- 2Sa_19:43los h de Israel, y dijeron a los de JudáH376
+- 2Sa_19:43y las palabras de los h de Judá fueronH376
+- 2Sa_19:43más violentas que...de los h de IsraelH376
+- 2Sa_20:1allí un h perverso...Seba...h de BenjamínH376
+- 2Sa_20:2todos los h de Israel abandonaron a DavidH376
+- 2Sa_20:4convócame a los h de Judá para dentroH376
+- 2Sa_20:7salieron en pos de él los h de Joab, y losH582
+- 2Sa_20:11uno de los h de Joab se paró junto a élH376
+- 2Sa_20:12viendo aquel h que...el pueblo se parabaH376
+- 2Sa_20:21un h del monte de Efraín...Seba hijo deH376
+- 2Sa_21:4no...ni queremos que muera h de IsraelH376
+- 2Sa_21:5aquel h que nos destruyó, y que maquinóH376
+- 2Sa_21:12los huesos...de los h de Jabes de GalaadH1167
+- 2Sa_21:17los h de David le juraron, diciendoH582
+- 2Sa_21:20había un h de gran estatura, el cualH376
+- 2Sa_22:26mostrarás...recto para con el h íntegroH1397
+- 2Sa_23:3un justo que gobierne entre los h, queH120
+- 2Sa_23:8Adino el...mató a 800 h en una ocasión
+- 2Sa_23:9y se habían alejado los h de IsraelH376
+- 2Sa_23:21mató él...egipcio, h de gran estaturaH376
+- 2Sa_24:9fueron los de Israel 800.000 h fuertesH376
+- 2Sa_24:9el censo...fueron...los de Judá 500.000 hH376
+- 2Sa_24:14dijo a Gad...no caiga yo en manos de hH120
+- 2Sa_24:15murieron del pueblo, desde...70.000 hH376
+- 1Re_1:5de 50 h que corriesen delante de élH376
+- 1Re_1:42eres h valiente, y traerás buenas nuevasH376
+- 1Re_1:52fuere h de bien, ni uno de sus cabellosH1121
+- 1Re_2:2yo sigo el camino de...esfuérzate, y sé hH376
+- 1Re_2:9h sabio eres, y sabes cómo debes hacerH376
+- 1Re_4:31fue más sabio que todos los h, más queH120
+- 1Re_5:13decretó...la leva fue de treinta mil hH376
+- 1Re_5:18los h de Gebal, cortaron y prepararon
+- 1Re_8:38y toda súplica que hiciere cualquier hH120
+- 1Re_8:39conoces el corazón de...hijos de los hH120
+- 1Re_8:46pecaren...porque no hay h que no pequeH120
+- 1Re_9:22sino que eran h de guerra, o sus criadosH582
+- 1Re_10:8bienaventurados tus h, dichosos estosH582
+- 1Re_11:18tomando consigo h de Parán, vinieronH582
+- 1Re_11:28viendo Salomón...que era h activo, leH376
+- 1Re_12:21Judá...180.000 h, guerreros escogidos
+- 1Re_13:2altar...sobre ti quemarán huesos de hH120
+- 1Re_18:22mas de los profetas de Baal hay 450 hH376
+- 1Re_18:44nube como la palma de la mano de un hH376
+- 1Re_20:17le dio aviso...Han salido h de SamariaH582
+- 1Re_20:29mataron de los sirios...cien mil h de aH7272
+- 1Re_20:30muro cayó sobre 27.000 h que habíanH376
+- 1Re_20:33tomaron aquellos h por buen augurioH582
+- 1Re_20:37luego se encontró con otro h, y le dijoH376
+- 1Re_20:37el h le dio un golpe, y le hizo unaH376
+- 1Re_20:39me trajo un h...Guarda a este h, y suH376
+- 1Re_20:40estaba ocupado en...el h desaparecióH369
+- 1Re_20:42por cuanto soltaste...el h de mi anatemaH376
+- 1Re_21:10poned a dos h perversos delante de élH582
+- 1Re_21:13vinieron entonces dos h perversos, yH582
+- 1Re_21:13aquellos h...atestiguaron contra NabotH582
+- 1Re_22:6rey...reunió a los profetas, como 400 hH376
+- 1Re_22:34h disparó su arco a la ventura e hirióH376
+- 2Re_2:17cincuenta h, los cuales lo buscaronH376
+- 2Re_2:19y los h de la ciudad dijeron a EliseoH582
+- 2Re_3:26tomó...700 h que manejaban espada, paraH376
+- 2Re_4:40después sirvió para que comieran los hH582
+- 2Re_4:42vino entonces un h de Baal-salisa, elH376
+- 2Re_4:43¿cómo pondré esto delante de cien h?[[H376]]
+- 2Re_5:1este h valeroso en extremo, pero leprosoH376
+- 2Re_5:7envíe a mí a que sane un h de su lepra?[[H376]]
+- 2Re_5:24él lo tomó...mandó a los h que se fuesenH582
+- 2Re_5:26el h volvió de su carro a recibirte?[[H376]]
+- 2Re_6:19seguidme...yo os guiaré al h que buscáisH376
+- 2Re_6:32el rey envió a él un h. Mas antes que elH376
+- 2Re_7:3había a la entrada de...cuatro h leprososH582
+- 2Re_7:10que no había allí nadie, ni voz de hH120
+- 2Re_9:11vosotros conocéis al h y sus palabrasH376
+- 2Re_10:24Jehú puso fuera a 80 h, y les dijoH376
+- 2Re_10:24dejare vivo a alguno de aquellos h queH582
+- 2Re_12:15no se tomaba cuenta a los h en cuyasH582
+- 2Re_13:7no le había quedado...sino cincuenta hH6571
+- 2Re_13:7a caballo...carros, y diez mil h de a pieH7272
+- 2Re_13:21aconteció que al sepultar unos a un hH582
+- 2Re_15:25de 50 h de los hijos de los galaaditasH376
+- 2Re_16:6y echó de Elat a los h de Judá; y los
+- 2Re_18:27y no a los h que están sobre el muroH582
+- 2Re_19:18no...dioses, sino obra de manos de hH120
+- 2Re_23:14llenó el lugar de ellos de huesos de hH120
+- 2Re_23:20mató...quemó sobre ellos huesos de hH120
+- 2Re_24:14en cautiverio...a todos los h valientesH1397
+- 2Re_24:16todos los h de guerra...llevó cautivosH582
+- 2Re_25:4huyeron de noche todos los h de guerraH582
+- 2Re_25:19que tenía a su cargo los h de guerraH582
+- 1Cr_4:42quinientos h de...al monte de SeirH582
+- 1Cr_5:18Gad...h valientes, h que traían escudoH582
+- 1Cr_5:24estos fueron los jefes...h valientes yH582
+- 1Cr_7:2fueron contados...22.600 h muy valerososH1397
+- 1Cr_7:4había con ellos en...36.000 h de guerraH1397
+- 1Cr_7:5familias de Isacar...87.000 h valientesH1397
+- 1Cr_7:7los hijos de Bela: Ezbón...h de gran valorH1397
+- 1Cr_7:9por sus linajes...resultaron 20.200 h deH1397
+- 1Cr_7:11h muy valerosos, 17.200 que salían aH1397
+- 1Cr_7:40Aser...el número de ellos fue 26.000 hH582
+- 1Cr_8:40fueron los hijos de Ulam h valientes yH582
+- 1Cr_9:9todos estos h fueron jefes de familiaH582
+- 1Cr_9:13h...eficaces en la obra del ministerioH1368
+- 1Cr_10:12se levantaron todos los h valientesH376
+- 1Cr_11:23venció a un egipcio, h de cinco codosH376
+- 1Cr_12:8h de guerra muy valientes para pelearH582
+- 1Cr_12:14el menor tenía cargo de cien h, y el
+- 1Cr_12:21eran h valientes, y fueron capitanesH1397
+- 1Cr_12:25los hijos de Simeón,1Cr_7:100 h, valientesH1397
+- 1Cr_12:38h de guerra...para poner a David por reyH582
+- 1Cr_16:3así a h como a mujeres...una torta de panH376
+- 1Cr_17:17me has mirado como a un h excelenteH120
+- 1Cr_18:4le tomó David mil...y 20.000 h de a pieH376
+- 1Cr_18:5los sirios...David hirió de ellos 22.000 hH376
+- 1Cr_19:8con todo el ejército de los h valientesH1397
+- 1Cr_19:18mató David de los sirios a 7.000 h deH7393
+- 1Cr_19:18de los carros, y 40.000 h de a pieH7272
+- 1Cr_20:6en Gat...había un h de grande estaturaH376
+- 1Cr_20:7este h injurió a Israel, pero lo mató
+- 1Cr_21:5y de Judá 470.000 h que sacaban espadaH376
+- 1Cr_21:13dijo a Gad...que no caiga en manos de hH120
+- 1Cr_21:14peste...y murieron en Israel 70.000 hH376
+- 1Cr_22:15tú tienes...todo h experto en toda obraH2450
+- 1Cr_25:1el número de ellos, h idóneos para laH376
+- 1Cr_26:7los hijos de Semaías: Otni...h esforzadosH1121
+- 1Cr_26:8h robustos y fuertes para el servicioH376
+- 1Cr_26:9y los hijos de Meselemías y sus...18 hH1121
+- 1Cr_26:30de los hebronitas...h de vigor, 1.700H1121
+- 1Cr_26:31fueron hallados entre ellos h fuertesH1397
+- 1Cr_26:32sus hermanos, h valientes, eran 2.700H1121
+- 1Cr_28:1los más poderosos y valientes de sus hH1397
+- 1Cr_28:3tú no edificarás casa...eres h de guerraH376
+- 1Cr_29:1la casa no es para h, sino para JehováH120
+- 2Cr_2:2designó Salomón 70.000 h que llevasenH376
+- 2Cr_2:2y 80.000 h que cortasen en los montesH376
+- 2Cr_2:7un h hábil que sepa trabajar en oro, enH376
+- 2Cr_2:13te he enviado un h hábil y entendidoH376
+- 2Cr_2:14que sabe trabajar...con tus h peritosH376
+- 2Cr_2:17contó Salomón todos los h extranjerosH376
+- 2Cr_6:18Dios habitará con el h en la tierra?[[H120]]
+- 2Cr_6:29y todo ruego que hiciere cualquier hH120
+- 2Cr_6:30sólo tú conoces el corazón...de los hH120
+- 2Cr_6:36pecaren...(pues no hay h que no peque)[[H120]]
+- 2Cr_8:9eran h de guerra, y sus oficiales y susH582
+- 2Cr_9:7bienaventurados tus h, y dichosos estosH582
+- 2Cr_11:1Roboam...reunió...a 180.000 h escogidosH970
+- 2Cr_12:360.000 h de a caballo; mas el puebloH6571
+- 2Cr_13:3con un ejército de 40.000 h de guerraH376
+- 2Cr_13:3ordenó batalla...con 800.000 h escogidosH376
+- 2Cr_13:7se juntaron con él h vanos y perversosH582
+- 2Cr_13:17cayeron heridos...500.000 h escogidosH376
+- 2Cr_14:8tuvo también Asa ejército...h diestrosH1397
+- 2Cr_14:9ejército de un millón de h y 300 carrosH2428
+- 2Cr_14:11eres Dios; no prevalezca contra ti el hH582
+- 2Cr_15:13que no buscase a Jehová...muriese...h oH376
+- 2Cr_17:13h de guerra muy valientes en JerusalénH582
+- 2Cr_17:14el general Adnas, y con él 300.000 hH1397
+- 2Cr_17:16Amasías...con él 200.000 h valientesH1397
+- 2Cr_17:17Eliada, h muy valeroso, y con él 200.000H1397
+- 2Cr_18:7aquí un h por el cual podemos preguntarH376
+- 2Cr_19:6porque no juzgáis en lugar de h, sinoH120
+- 2Cr_25:6tomó a sueldo...a cien mil h valientesH1397
+- 2Cr_28:6Peka...Mató...un día 120.000 h valientesH120
+- 2Cr_28:7Zicri, h poderoso...mató a Maasías hijoH1397
+- 2Cr_30:11algunos h de Aser, de...se humillaronH1121
+- 2Cr_32:3tuvo consejo con...con sus h valientesH1397
+- 2Cr_32:19los dioses...que son obra de manos de hH120
+- 2Cr_34:12h procedían con fidelidad en la obraH582
+- Esd_1:4ayúdenle los h de su lugar con plataH582
+- Esd_2:64la congregación, unida como un solo h
+- Esd_3:1se juntó el pueblo como un solo h enH376
+- Esd_3:9como un solo h asistían para activar a
+- Esd_4:21ahora...dad orden que cesen aquellos hH1400
+- Esd_5:4¿cuáles son...h que hacen este edificio?[[H1400]]
+- Esd_5:10para escribirte los nombres de los hH1400
+- Esd_8:16despaché a...h principales, asimismoH1400
+- Esd_8:16despaché...Joiarib y a Elnatán, h doctosH4000
+- Esd_10:1se juntó a él una...h, mujeres y niñosH582
+- Esd_10:9así todos los h de Judá...se reunieronH582
+- Neh_2:12no declaré a h alguno lo que DiosH582
+- Neh_5:13sacuda Dios de su casa...a todo h queH376
+- Neh_6:11¿un h como yo ha de huir? ¿Y quién, queH376
+- Neh_8:1se juntó todo el pueblo como un solo hH376
+- Neh_8:2ley delante de la congregación, así de hH376
+- Neh_8:3leyó...en presencia de h y mujeres y deH582
+- Neh_9:29los cuales si el h hiciere, en ellosH120
+- Neh_11:6de Fares que...en Jerusalén fueron 478 hH582
+- Neh_11:14y sus hermanos, h de gran vigor, 128H1397
+- Est_1:22que todo h afirmase su autoridad enH376
+- Est_4:11que cualquier h o mujer que entra en elH376
+- Est_6:6¿qué se hará al h cuya honra desea el rey?[[H376]]
+- Est_9:6y destruyeron los judíos a quinientos hH376
+- Est_9:12los judíos han matado a quinientos h, y aH376
+- Est_9:15mataron en Susa a trescientos h; peroH376
+- Job_1:1era este h perfecto y recto, temerosoH376
+- Job_2:4todo lo que el h tiene dará por su vidaH376
+- Job_3:23se da vida al h que no sabe por dondeH1397
+- Job_4:13visiones...cuando el sueño cae sobre...hH582
+- Job_4:17¿será el h más justo que Dios? ¿SeráH582
+- Job_5:7chispas...así el h nace para la aflicciónH120
+- Job_5:17bienaventurado...h a quien Dios castigaH582
+- Job_7:1¿no es acaso brega la vida del h sobreH582
+- Job_7:17¿qué es el h, para que lo engrandezcasH582
+- Job_7:20¿qué puedo hacerte...oh Guarda de los h?[[H120]]
+- Job_9:2¿y cómo se justificará el h con Dios?[[H582]]
+- Job_9:32porque no es h como yo, para que yo leH376
+- Job_10:4¿tienes tú...ojos...¿ves tú como ve el h?[[H582]]
+- Job_10:5¿son tus días como los días del h, oH582
+- Job_11:2el h que habla mucho será justificado?[[H376]]
+- Job_11:3¿harán tus falacias callar a los h?[[H4962]]
+- Job_11:11él conoce a los h vanos; ve asimismoH4962
+- Job_11:12el h vano se hará entendido, cuandoH376
+- Job_11:12cuando un pollino de asno...nazca hH120
+- Job_12:14encerrará al h, y no habrá quien leH376
+- Job_13:9¿os burlaréis de él como...de algún h?[[H582]]
+- Job_14:1el h nacido de mujer, corto de días, yH120
+- Job_14:10el h morirá, y será cortado; pereceráH1397
+- Job_14:10mas...perecerá el h, ¿y dónde estará él?[[H120]]
+- Job_14:12así el h yace y no vuelve a levantarseH376
+- Job_14:14si el h muriere, ¿volverá a vivir?[[H1397]]
+- Job_14:19haces tú perecer la esperanza del hH582
+- Job_15:10y h muy ancianos hay entre nosotros
+- Job_15:14¿qué cosa es el h para que sea limpioH582
+- Job_15:16¿cuánto menos el h abominable y vilH376
+- Job_16:21¡ojalá pudiese disputar el h con DiosH1397
+- Job_20:4que fue puesto el h sobre la tierraH120
+- Job_20:29porción que Dios prepara al h impíoH120
+- Job_21:4¿acaso me quejo yo de algún h? ¿Y porH120
+- Job_21:33tras de él será llevado todo h, y antesH120
+- Job_22:2el h provecho a Dios? Al contrario, paraH1397
+- Job_22:2para sí mismo es provechoso el h sabioH4905
+- Job_22:8el h pudiente tuvo la tierra, y habitóH376
+- Job_22:15la senda...que pisaron los h perversosH4692
+- Job_25:4¿cómo, pues, se justificará el h paraH582
+- Job_25:6¿cuánto menos el h, que es un gusanoH582
+- Job_25:6menos...el hijo de h, también gusano?[[H120]]
+- Job_27:13para con Dios la porción del h impíoH120
+- Job_28:4son...balanceados, lejos de los demás hH582
+- Job_28:13no conoce su valor el h, ni se hallaH582
+- Job_28:28al h: He aquí que el temor del SeñorH120
+- Job_30:8hijos de viles, y h sin nombre...bajosH1121
+- Job_31:33si encubrí como h mis transgresionesH120
+- Job_32:8espíritu hay en el h, y el soplo delH582
+- Job_32:13que no digáis...lo vence Dios, no...el hH376
+- Job_33:12responderé que mayor es Dios que el hH582
+- Job_33:14habla Dios; pero el h no entiende
+- Job_33:15en visión...el sueño cae sobre los hH582
+- Job_33:16revela al oído de los h, y les señalaH582
+- Job_33:17quitar al h de su obra, y apartar delH120
+- Job_33:23escogido, que anuncie al h su deberH120
+- Job_33:26júbilo, y restaurará al h su justiciaH582
+- Job_33:27él mira sobre los h; y al que dijereH582
+- Job_33:29todas estas cosas hace Dios...con el hH1397
+- Job_34:7h hay como Job, que bebe el escarnioH1397
+- Job_34:8va en compañía...anda con los h malos?[[H582]]
+- Job_34:9de nada servirá al h el conformar suH1397
+- Job_34:11porque él pagará al h según su obraH120
+- Job_34:14si él pusiese sobre el h su corazón
+- Job_34:15perecería...y el h volvería al polvoH120
+- Job_34:21ojos están sobre los caminos del hH376
+- Job_34:23no carga, pues, él al h más de lo justoH376
+- Job_34:29sobre una nación, y lo mismo sobre un...hH120
+- Job_34:30haciendo que no reine el h impío paraH120
+- Job_34:34los h inteligentes dirán conmigo, yH1397
+- Job_34:34dirán conmigo, y el h sabio que me oigaH582
+- Job_34:36respuestas semejantes a...los h inicuosH582
+- Job_35:8al h como tú dañará tu impiedad, y alH376
+- Job_35:8al hijo de h aprovechará tu justiciaH120
+- Job_36:24su obra, la cual contemplan los hH582
+- Job_36:25h todos la ven; la mira el h de lejosH120
+- Job_36:28goteando en abundancia sobre los hH120
+- Job_37:7así hace retirarse a todo h, para queH120
+- Job_37:7para que los h todos reconozcan su obraH376
+- Job_37:20por más que el h razone, quedará comoH376
+- Job_37:24temerán por tanto los h; él no estimaH582
+- Job_38:26llover sobre...desierto, donde no hay hH120
+- Sal_4:2hijos de los h...mi honra en infamia?[[H376]]
+- Sal_5:6al h sanguinario y engañador abominaráH376
+- Sal_8:4¿qué es el h...y el hijo del h, para queH582
+- Sal_9:19oh Jehová, no se fortalezca el h; seanH582
+- Sal_9:20conozcan las naciones que no son sino hH582
+- Sal_10:18a hacer violencia el h de la tierraH582
+- Sal_11:4párpados examinan a los hijos de los hH120
+- Sal_11:7es justo...el h recto mirará su rostroH3477
+- Sal_12:1los fieles de entre los hijos de los hH120
+- Sal_12:8cuando la vileza es exaltada entre...hH120
+- Sal_14:2Jehová miró...sobre los hijos de los hH120
+- Sal_17:14de los h con tu mano...los h mundanosH4962
+- Sal_18:25mostrarás...recto para con el h íntegroH1397
+- Sal_21:10y su descendencia de entre...de los hH120
+- Sal_22:6soy gusano, y no h; oprobio de los hH376
+- Sal_25:12¿quién es el h que teme a Jehová? ElH376
+- Sal_26:4no me he sentado con h hipócritas, niH4962
+- Sal_26:9mi alma, ni mi vida con h sanguinariosH582
+- Sal_31:19bondad...delante de los hijos de los hH120
+- Sal_31:20los esconderás de la conspiración del hH376
+- Sal_32:2bienaventurado el h a quien Jehová noH120
+- Sal_33:13miró...vio a todos los hijos de los hH120
+- Sal_34:8Jehová; dichoso el h que confía en élH1397
+- Sal_34:12¿quién es el h que desea vida...díasH376
+- Sal_36:6oh Jehová, al h y al animal conservasH120
+- Sal_36:7los hijos de los h se amparan bajo laH120
+- Sal_37:7te alteres...por el h que hace maldadesH376
+- Sal_37:23por Jehová...ordenados los pasos del hH1397
+- Sal_37:24h cayere, no quedará postrado, porque
+- Sal_37:37hay un final dichoso para el h de pazH376
+- Sal_38:14soy...como un h que no oye, y en cuyaH376
+- Sal_39:5es completa vanidad todo h que viveH120
+- Sal_39:6una sombra es el h...en vano se afanaH376
+- Sal_39:11castigos por el pecado corriges al hH376
+- Sal_39:11de él; ciertamente vanidad es todo hH120
+- Sal_40:4bienaventurado el h que puso en JehováH1397
+- Sal_41:9el h de mi paz, en quien yo confiabaH376
+- Sal_43:1líbrame de...y del h engañoso e inicuoH376
+- Sal_45:2el más hermoso de los hijos de los hH120
+- Sal_49:12mas el h no permanecerá en honra; esH120
+- Sal_49:20el h que está en honra y no entiendeH120
+- Sal_52:7he aquí el h que no puso a Dios por suH1397
+- Sal_53:2Dios...miró sobre los hijos de los hH120
+- Sal_54:3y h violentos buscan mi vida; no hanH6184
+- Sal_55:13h...íntimo mío, mi guía, y mi familiarH582
+- Sal_55:23los h sanguinarios...no llegarán a laH582
+- Sal_56:1misericordia...porque me devoraría el hH582
+- Sal_56:4, Sal_56:11no temeré; ¿qué puede hacerme el h?[[H120]]
+- Sal_57:4entre hijos de h que vomitan llamasH120
+- Sal_58:1¿juzgáis rectamente, hijos de los h?[[H120]]
+- Sal_58:11dirá el h: Ciertamente hay galardónH120
+- Sal_59:2líbrame...y sálvame de h sanguinariosH582
+- Sal_60:11danos socorro...vana es la ayuda de los hH120
+- Sal_62:3¿hasta cuándo maquinaréis contra un hH376
+- Sal_62:9cierto, vanidad son los hijos de los hH376
+- Sal_64:9temerán todos los h, y anunciarán laH120
+- Sal_66:5temible en hechos sobre los hijos...hH120
+- Sal_66:12hiciste cabalgar h sobre nuestra cabezaH582
+- Sal_68:18tomaste dones para los h, y tambiénH120
+- Sal_73:5no...ni son azotados como los demás hH582
+- Sal_75:1nombre; los h cuentan tus maravillas
+- Sal_76:10ciertamente la ira del h te alabaráH120
+- Sal_78:25pan de nobles comió el h; les envióH376
+- Sal_78:60la tienda en que habitó entre los hH120
+- Sal_80:17el hijo del h que para ti afirmasteH120
+- Sal_82:7como h moriréis, y como cualquiera deH120
+- Sal_84:5Bienaventurado el h que tiene en ti sus fuerzasH120
+- Sal_84:12Jehová...dichoso el h que en ti confíaH120
+- Sal_88:4soy contado entre...como h sin fuerzaH1397
+- Sal_89:47habrás creado en vano a...hijo de h?[[H1121]], [[H120]]
+- Sal_89:48¿qué h vivirá y no verá muerte...Seol?[[H1397]]
+- Sal_90:3vuelves al h hasta ser quebrantado, yH582
+- Sal_90:3y dices: Convertíos, hijos de los hH120
+- Sal_92:6el h necio no sabe, y el insensato noH376
+- Sal_94:10sabrá el que enseña al h la ciencia?[[H120]]
+- Sal_94:11conoce los pensamientos de los h, queH120
+- Sal_94:12bienaventurado el h a quien tú, JAHH1397
+- Sal_103:15el h, como la hierba son sus díasH582
+- Sal_104:14y la hierba para el servicio del hH120
+- Sal_104:15el vino que alegra el corazón del hH582
+- Sal_104:15y el pan que sustenta la vida del hH582
+- Sal_104:23sale el h a su labor, y...labranzaH120
+- Sal_107:8, Sal_107:15, Sal_107:21, Sal_107:31sus maravillas para con los hijos de los hH120
+- Sal_108:12danos socorro...vana es la ayuda del hH120
+- Sal_109:16por cuanto...persiguió al h afligidoH376
+- Sal_112:1bienaventurado el h que teme a JehováH376
+- Sal_112:5h de bien tiene misericordia, y prestaH376
+- Sal_115:4los ídolos de ellos son...de manos de hH120
+- Sal_115:16dado la tierra a los hijos de los hH120
+- Sal_116:11y dije en mi...Todo h es mentirosoH120
+- Sal_118:6no temeré lo que me pueda hacer el hH120
+- Sal_118:8mejor es confiar en Jehová que...el hH120
+- Sal_119:113aborrezco a los h hipócritas; mas amoH5588
+- Sal_119:134líbrame de la violencia de los h, yH120
+- Sal_124:2se levantaron contra nosotros los hH120
+- Sal_127:5bienaventurado el h...llenó su aliabaH1397
+- Sal_128:4será bendecido el h que teme a JehováH1397
+- Sal_135:8quien hizo morir...el h hasta la bestiaH120
+- Sal_135:15los ídolos de...son obra de manos de hH120
+- Sal_139:19apartaos pues, de mí, h sanguinariosH582
+- Sal_140:1líbrame...del h malo...de h violentosH120, [[H376]]
+- Sal_140:4h injuriosos, que han pensado trastornarH376
+- Sal_140:11el h deslenguado no será firme en laH376
+- Sal_140:11cazará al h injusto para derribarloH376
+- Sal_144:3¿qué es el h...el hijo de h, para queH120
+- Sal_144:4h es semejante a la vanidad; sus díasH120
+- Sal_144:7sácame...de la mano de los h extrañosH1121
+- Sal_144:11líbrame de la mano de los h extrañosH1121
+- Sal_145:6del poder de tus hechos...hablarán los h
+- Sal_145:12hacer saber a los hijos de los h susH120
+- Sal_146:3no confiéis...en hijo de h, porque noH120
+- Sal_147:10ni se complace en la agilidad del hH376
+- Pro_2:12librarte...h que hablan perversidadesH376
+- Pro_3:4hallarás gracia y buena opinión...los hH120
+- Pro_3:13bienaventurado el h que...la sabiduríaH120
+- Pro_3:31no envidies al h injusto, ni escojasH376
+- Pro_5:21los caminos del h están ante...JehováH376
+- Pro_6:11tu necesidad...tu pobreza como h armadoH376
+- Pro_6:12el h malo, el h depravado, es el queH376
+- Pro_6:26el h es reducido a un bocado de pan, y laH376
+- Pro_6:27¿tomará el h fuego en su seno sin queH376
+- Pro_6:28¿andará el h sobre brasas sin que susH376
+- Pro_6:34porque los celos son el furor del hH1397
+- Pro_8:4oh h, a vosotros clamo...hijos de los hH120
+- Pro_8:31delicias son con los hijos de los hH120
+- Pro_8:34bienaventurado el h que me escuchaH120
+- Pro_10:5que recoge en el verano es h entendidoH1121
+- Pro_10:23sabiduría recrea al h de entendimientoH376
+- Pro_11:7muere el h impío, perece su esperanzaH120
+- Pro_11:12menosprecia a...mas el h prudente callaH376
+- Pro_11:17su alma hace bien el h misericordiosoH376
+- Pro_12:2él condenará al h de malos pensamientosH376
+- Pro_12:3el h no se afirmará por...de la impiedadH120
+- Pro_12:8según su sabiduría es alabado el h; masH376
+- Pro_12:14el h será saciado de bien del fruto deH376
+- Pro_12:18hay h cuyas palabras son como golpes de
+- Pro_12:23el h cuerdo encubre su saber; mas elH120
+- Pro_12:25la congoja en el corazón del h lo abateH376
+- Pro_12:27haber precioso del h es la diligenciaH120
+- Pro_13:2del fruto de su boca el h comerá el bienH376
+- Pro_13:8el rescate de la vida del h está en susH376
+- Pro_13:16todo h prudente procede con sabiduríaH6175
+- Pro_14:6al h entendido la sabiduría le es fácil
+- Pro_14:7vete de delante del h necio, porque enH376
+- Pro_14:12hay camino que al h le parece derechoH376
+- Pro_14:14el h de bien estará contento del suyoH376
+- Pro_14:17enoja...el h perverso será aborrecidoH376
+- Pro_15:11¡cuánto más los corazones de los h![[H120]]
+- Pro_15:18el h iracundo promueve contiendas; masH376
+- Pro_15:20mas el h necio menosprecia a su madreH120
+- Pro_15:21mas el h entendido endereza sus pasosH376
+- Pro_15:23el h se alegra con la respuesta de suH376
+- Pro_16:1del h son las disposiciones del corazónH120
+- Pro_16:2caminos del h son limpios en su propiaH376
+- Pro_16:6con el temor...los h se apartan del mal
+- Pro_16:7caminos del h son agradables a JehováH376
+- Pro_16:9el corazón del h piensa su camino; masH120
+- Pro_16:14la ira del rey...el h sabio la evitaráH376
+- Pro_16:25hay camino que parece derecho al h, peroH376
+- Pro_16:27el h perverso cava en busca del malH376
+- Pro_16:28el h perverso levanta contienda, y elH376
+- Pro_16:29el h malo lisonjea a su prójimo, y leH376
+- Pro_17:18el h falto de entendimiento prestaH120
+- Pro_17:27de espíritu prudente es el h entendidoH376
+- Pro_18:4aguas profundas son las palabras, del hH376
+- Pro_18:9negligente...es hermano del h disipador
+- Pro_18:12antes del...se eleva el corazón del hH376
+- Pro_18:14el ánimo del h soportará su enfermedadH376
+- Pro_18:16la dádiva del h le ensancha el caminoH120
+- Pro_18:20del fruto de la boca del h se llenaráH376
+- Pro_18:24el h que tiene amigos ha de mostrarseH376
+- Pro_19:3la insensatez del h tuerce su caminoH120
+- Pro_19:6buscan...cada uno es amigo del h que daH376
+- Pro_19:11la cordura del h detiene su furor, yH120
+- Pro_19:21pensamientos hay en el corazón del hH376
+- Pro_19:22contentamiento...h hacer misericordiaH120
+- Pro_19:23y con él vivirá lleno de reposo el h
+- Pro_20:3honra es del h dejar la contienda; masH376
+- Pro_20:5aguas...el consejo en el corazón del hH376
+- Pro_20:5el consejo...el h entendido lo alcanzaráH376
+- Pro_20:6h proclaman cada uno su propia bondadH120
+- Pro_20:6pero h de verdad, ¿quién lo hallará?[[H376]]
+- Pro_20:17sabroso es al h el pan de mentira; peroH376
+- Pro_20:24de Jehová son los pasos del h; ¿cómoH1397
+- Pro_20:24¿cómo, pues, entenderá el h su camino?[[H120]]
+- Pro_20:25lazo es al h hacer apresuradamente votoH120
+- Pro_20:27lámpara de Jehová es el espíritu del hH120
+- Pro_21:2todo camino del h es recto en su propiaH376
+- Pro_21:8el camino del h perverso es torcido yH376
+- Pro_21:16el h que se aparta del camino de laH120
+- Pro_21:17h necesitado será el que ama el deleiteH376
+- Pro_21:20sabio...el h insensato todo lo disipaH120
+- Pro_21:28el h que oye, permanecerá en su dichoH376
+- Pro_21:29el h impío endurece su rostro; mas elH376
+- Pro_22:24no...ni te acompañes con el h de enojosH376
+- Pro_22:29¿has visto h solícito en su trabajo?[[H376]]
+- Pro_23:28acecha, y multiplica entre los h losH120
+- Pro_24:1no tengas envidia de los h malos, niH582
+- Pro_24:5h sabio es fuerte, y de pujante vigorH1397
+- Pro_24:5fuerte, y de pujante vigor el h doctoH376
+- Pro_24:8mal, le llamarán h de malos pensamientosH1167
+- Pro_24:9y abominación a los h el escarnecedorH120
+- Pro_24:12conocerá, y dará al h según sus obrasH120
+- Pro_24:29haré; daré el pago al h según su obra aH376
+- Pro_24:30campo del h perezoso...del h falto deH120
+- Pro_24:34así vendrá...tu pobreza como h armadoH376
+- Pro_25:14el h que se jacta de falsa liberalidadH376
+- Pro_25:18saeta aguda es el h que habla contraH376
+- Pro_25:28es el h cuyo espíritu no tiene riendaH376
+- Pro_26:12has visto h sabio en su propia opinión?[[H376]]
+- Pro_26:19tal es el h que engaña a su amigo, yH376
+- Pro_26:21h rencilloso para encender contiendaH376
+- Pro_27:7el h saciado desprecia el panal de mielH5315
+- Pro_27:8cual ave...es el h que se va de su lugarH376
+- Pro_27:9y el cordial consejo del amigo, al h
+- Pro_27:17así el h aguza el rostro de su amigoH376
+- Pro_27:19rostro, así el corazón del h al del hH120
+- Pro_27:20los ojos del h nunca están satisfechosH120
+- Pro_27:21prueba...al h la boca del que lo alabaH376
+- Pro_28:2mas por el h entendido y sabio permaneceH120
+- Pro_28:3el h pobre y robador de los pobres esH1397
+- Pro_28:5los h malos no entienden el juicio; masH582
+- Pro_28:11el h rico es sabio en su propia opiniónH376
+- Pro_28:12los impíos, tienen que esconderse los hH120
+- Pro_28:14bienaventurado el h que...teme a DiosH120
+- Pro_28:17h cargado de la sangre de alguno huiráH120
+- Pro_28:20h de verdad tendrá muchas bendicionesH376
+- Pro_28:21por un bocado de pan prevaricará el hH1397
+- Pro_28:23el que reprende al h, hallará despuésH120
+- Pro_28:24roba a...compañero es del h destruidorH376
+- Pro_28:28impíos son levantados se esconde el hH120
+- Pro_29:1el h que reprendido endurece la cervizH376
+- Pro_29:3el h que ama la sabiduría alegra a suH376
+- Pro_29:5el h que lisonjea...red tiende delanteH1397
+- Pro_29:6en la transgresión del h malo hay lazoH376
+- Pro_29:8los h escarnecedores ponen la ciudad enH582
+- Pro_29:9si el h sabio contendiere con el necioH376
+- Pro_29:10h sanguinarios aborrecen al perfectoH376
+- Pro_29:20¿has visto h ligero en sus palabras?[[H376]]
+- Pro_29:22el h iracundo levanta contiendas, y elH1167
+- Pro_29:23la soberbia del h le abate; pero alH120
+- Pro_29:25el temor del h pondrá lazo; mas el queH120
+- Pro_29:27abominación es a los justos el h inicuoH376
+- Pro_30:2más rudo...ni tengo entendimiento de hH120
+- Pro_30:14devorar...menesterosos de entre los hH120
+- Pro_30:19mar; y el rastro del h en la doncellaH1397
+- Ecl_1:3¿qué provecho tiene el h de...su trabajoH120
+- Ecl_1:8son fatigosas más de lo que el h puedeH376
+- Ecl_1:13trabajo dio Dios a los hijos de los hH120
+- Ecl_2:3fuese el bien de los hijos de los h, enH120
+- Ecl_2:8de los deleites de los hijos de los hH120
+- Ecl_2:12qué podrá hacer el h que venga despuésH120
+- Ecl_2:21¡que el h trabaje con sabiduría, y conH120
+- Ecl_2:21y que haya de dar su hacienda a h queH120
+- Ecl_2:22¿qué tiene el h de todo su trabajo, yH120
+- Ecl_2:24no hay cosa mejor para el h sino queH120
+- Ecl_2:26h que le agrada, Dios le da sabiduríaH120
+- Ecl_3:10trabajo que Dios ha dado a los...h paraH120
+- Ecl_3:11sin que alcance el h a entender la obraH120
+- Ecl_3:13es don de Dios que todo h coma y bebaH120
+- Ecl_3:14Dios, para que delante de él teman los hH582
+- Ecl_3:18es así, por causa de los hijos de los hH120
+- Ecl_3:19lo que sucede a los hijos de los h, yH120
+- Ecl_3:19todos; ni tiene más el h que la bestiaH120
+- Ecl_3:21que el espíritu de...los h sube arribaH120
+- Ecl_3:22cosa mejor para el h que alegrarse enH120
+- Ecl_4:4todo trabajo...despierta la envidia del hH376
+- Ecl_4:8h solo y sin sucesor, que no tiene hijo
+- Ecl_5:19todo h a quien Dios da riquezas y bienesH120
+- Ecl_6:1un mal que he visto...común entre los hH120
+- Ecl_6:2del h a quien Dios da riquezas y bienesH376
+- Ecl_6:3el h engendrare cien hijos, y viviereH376
+- Ecl_6:7todo el trabajo del h es para su bocaH120
+- Ecl_6:10sabe que es h y que no puede contenderH120
+- Ecl_6:11las muchas palabras...¿Qué más tiene el hH120
+- Ecl_6:12¿quién sabe cuál es el bien del h en laH120
+- Ecl_6:12¿quién enseñará al h qué será despuésH120
+- Ecl_7:2porque aquello es el fin de todos los hH120
+- Ecl_7:14a fin de que el h nada halle después deH120
+- Ecl_7:20no hay h justo en la tierra, que hagaH120
+- Ecl_7:28un h entre mil he hallado, pero mujerH120
+- Ecl_7:29que Dios hizo al h recto, pero ellosH120
+- Ecl_8:1la sabiduría del h ilumina su rostro, y laH120
+- Ecl_8:6porque el mal del h es grande sobre élH120
+- Ecl_8:8h que tenga potestad sobre el espírituH120
+- Ecl_8:9hay tiempo en que el h se enseñorea del hH120
+- Ecl_8:11el corazón...h está en ellos dispuestoH120
+- Ecl_8:15no tiene el h bien debajo del sol, sinoH120
+- Ecl_8:17que el h no puede alcanzar la obra queH120
+- Ecl_8:17por mucho que trabaje el h buscándolaH120
+- Ecl_9:1amor o que sea odio, no lo saben los hH120
+- Ecl_9:3el corazón de...los h está lleno de malH120
+- Ecl_9:12el h tampoco conoce su tiempo; como losH120
+- Ecl_9:12así son enlazados los hijos de los h enH120
+- Ecl_9:14una pequeña ciudad, y pocos h en ellaH582
+- Ecl_9:15se halla en ella un h pobre, sabio, elH120
+- Ecl_9:15y nadie se acordaba de aquel h pobreH376
+- Ecl_11:8un h viva muchos años, y en todos ellosH120
+- Ecl_12:3se encorvarán los h fuertes, y cesaránH582
+- Ecl_12:5porque el h va a su morada eterna, y losH120
+- Ecl_12:13teme a...porque esto es el todo del hH120
+- Cnt_8:7si diese el h todos los bienes de suH376
+- Isa_2:9se ha inclinado el h...se ha humilladoH120
+- Isa_2:11altivez de los ojos del h será abatidaH120
+- Isa_2:11, Isa_2:17la soberbia de los h será humilladaH120
+- Isa_2:17la altivez del h será abatida, y laH120
+- Isa_2:20arrojará el h a los topos...sus ídolosH120
+- Isa_2:22dejaos del h, cuyo aliento está en suH120
+- Isa_3:2el valiente y el h de guerra, el juez yH376
+- Isa_3:3h de respeto, el consejero, el artífice
+- Isa_4:1echarán mano de un h siete mujeres enH376
+- Isa_5:7y los h de Judá planta deliciosa suyaH376
+- Isa_5:15el h será humillado, y el varón seráH120
+- Isa_5:22que son...h fuertes para mezclar bebidaH582
+- Isa_6:5siendo h inmundo de labios, y habitandoH376
+- Isa_6:11y no haya h en las casas, y la tierraH120
+- Isa_6:12que Jehová haya echado lejos a los hH120
+- Isa_7:13¿os es poco el ser molestos a los hH582
+- Isa_7:21que criará un h una vaca y dos ovejasH376
+- Isa_9:19el h no tendrá piedad de su hermanoH376
+- Isa_13:7mano...y desfallecerá todo corazón de hH1397
+- Isa_13:12más precioso...que el oro de Ofir al hH582
+- Isa_17:7en aquel día mirará el h a su HacedorH120
+- Isa_19:17todo h que de ella se acordare temerá
+- Isa_21:7, Isa_21:9h montados, jinetes de dos en dosH376
+- Isa_24:6fueron consumidos...disminuyeron los hH582
+- Isa_29:13no es más que un mandamiento de h queH582
+- Isa_29:19aun los más pobres de los h se gozaránH120
+- Isa_29:21los que hacen pecar al h en palabraH120
+- Isa_31:3y los egipcios h son, y no Dios; y susH120
+- Isa_31:7arrojará el h sus ídolos de plata...oroH376
+- Isa_31:8y la consumirá espada no de h; y huiráH376
+- Isa_33:8anulado el pacto...tuvo en nada a los hH582
+- Isa_36:12y no a los h que están sobre el muroH582
+- Isa_37:19no eran dioses, sino obra de manos de hH120
+- Isa_38:11no veré más h con los moradores del mundoH120
+- Isa_38:16por todas estas cosas los h vivirán
+- Isa_39:3dijo: ¿Qué dicen estos h, y de dónde hanH582
+- Isa_42:13Jehová saldrá como...como h de guerraH376
+- Isa_43:4daré...h por ti, y naciones por tu vidaH120
+- Isa_44:11he aquí que...los artífices mismos son hH120
+- Isa_44:13lo hace en forma de...a semejanza de hH376
+- Isa_44:15de él se sirve luego el h para quemarH120
+- Isa_45:12hice la tierra, y creé sobre ella al hH120
+- Isa_45:14h de elevada estatura, se pasarán a tiH582
+- Isa_47:3retribución, y no se librará h algunoH120
+- Isa_49:26y conocerá todo h que yo Jehová soyH1320
+- Isa_51:7no temáis afrenta de h, ni desmayéis porH582
+- Isa_51:12tengas temor del h...y del hijo del hH582, [[H120]]
+- Isa_52:14fue desfigurado de los h su parecerH120
+- Isa_52:14hermosura más que...los hijos de los hH376
+- Isa_53:3despreciado y desechado entre los hH376
+- Isa_55:7deje el impío su camino, y el h inicuoH376
+- Isa_56:2bienaventurado el h que hace esto, y elH582
+- Isa_56:2el hijo del h que lo abraza; que guardaH120
+- Isa_58:5de día aflija el h su alma, que inclineH120
+- Isa_59:16vio que no había h, y se maravilló queH376
+- Isa_66:3sacrifica buey es como si matase un hH376
+- Isa_66:16Jehová juzgará con fuego y...a todo hH1320
+- Isa_66:24y verán los cadáveres de los h que seH582
+- Isa_66:24gusano...y serán abominables a todo hH1320
+- Jer_2:6cual no pasó varón, ni allí habitó h?[[H376]]
+- Jer_3:1yéndose ésta de él se juntare a otro hH376
+- Jer_4:25miré, y no había h, y todas las aves delH120
+- Jer_5:1ver si halláis h, si hay alguno que hagaH376
+- Jer_5:26impíos...pusieron trampas para cazar hH582
+- Jer_6:23h dispuestos para la guerra, contra tiH376
+- Jer_7:5si...hiciereis justicia entre el h y suH376
+- Jer_7:20mi furor y mi ira se derramarán...los hH120
+- Jer_8:6no hay h que se arrepienta de su malH376
+- Jer_9:22cuerpos de los h muertos caerán comoH120
+- Jer_10:14todo h se embrutece, y le falta cienciaH120
+- Jer_10:23conozco...el h no es señor de su caminoH120
+- Jer_10:23ni del h que camina es el ordenar susH120
+- Jer_12:11fue asolada...no hubo h que reflexionaseH376
+- Jer_13:11el cinto se junta a los lomos del h, asíH376
+- Jer_14:9¿por qué eres como h atónito, y comoH376
+- Jer_15:10madre mía...engendraste h de contiendaH3769
+- Jer_16:20¿hará acaso el h dioses para sí? MasH120
+- Jer_17:5maldito el varón que confía en el hH1397
+- Jer_18:11habla luego a todo h de Judá y a losH376
+- Jer_20:15maldito el h que dio nuevas a mi padreH376
+- Jer_20:16el tal h como las ciudades que asolóH376
+- Jer_21:6h y las bestias morirán de pestilenciaH120
+- Jer_22:28¿es...h Conías una vasija despreciadaH376
+- Jer_22:30a este h...h a quien nada prósperoH376, [[H1397]]
+- Jer_23:9ebrio, y como h a quien dominó el vinoH1397
+- Jer_23:34enviaré castigo sobre tal h y sobre suH376
+- Jer_26:11en pena de muerte ha incurrido este hH376
+- Jer_26:16no ha incurrido...h en pena de muerteH376
+- Jer_26:20hubo...un h que profetizaba en nombreH376
+- Jer_26:22envió h a Egipto...y a otros h con élH582
+- Jer_27:5yo hice la tierra, el h y las bestiasH120
+- Jer_29:26para que te encargues...de todo h locoH376
+- Jer_30:6visto que todo h tenía las manos sobreH1397
+- Jer_31:27que sembraré...simiente de h...de animalH120
+- Jer_31:30los dientes de todo h que comiere lasH120
+- Jer_32:19todos los caminos de los hijos de los hH120
+- Jer_32:20señales y portentos en...y entre los hH120
+- Jer_32:43está desierta, sin h y sin animalesH120
+- Jer_33:5para llenarlas de cuerpos de h muertosH120
+- Jer_33:10que está desierto sin h y sin animalesH120
+- Jer_33:10que están asoladas, sin h y sin moradorH120
+- Jer_33:12este lugar desierto, sin h y sin animalH120
+- Jer_34:18entregaré a los h que traspasaron miH582
+- Jer_36:29hará que no queden...ni h ni animalesH120
+- Jer_37:10quedasen de ellos solamente h heridosH376
+- Jer_38:4dijeron los...al rey: Muera ahora este hH376
+- Jer_38:4desmayar las manos de los h de guerraH582
+- Jer_38:4este h no busca la paz de este puebloH376
+- Jer_38:7oyendo Ebed-melec, h etíope, eunuco deH376
+- Jer_38:10treinta h de...y haz sacar al profetaH582
+- Jer_38:11y tomó Ebed-melec en su poder a los hH582
+- Jer_39:4los h de guerra, huyeron y salieron deH582
+- Jer_40:7sus h, oyeron...había puesto a GedalíasH582
+- Jer_40:7había encomendado los h y las mujeresH582
+- Jer_40:8vinieron luego a Gedalías...ellos y sus hH582
+- Jer_40:9y les juró Gedalías...a ellos y a sus hH582
+- Jer_40:15mataré a Ismael...y ningún h lo sabráH376
+- Jer_41:1Ismael...y algunos príncipes y diez hH582
+- Jer_41:2diez h que con él estaban...hirieron aH582
+- Jer_41:5que venían unos h...ochenta h, raída laH376
+- Jer_41:7los degolló, y los echó...él y los h queH582
+- Jer_41:8hallados diez h que dijeron a IsmaelH582
+- Jer_41:9los cuerpos de los h que mató a causa deH582
+- Jer_41:12tomaron...los h y fueron a pelear contraH582
+- Jer_41:15Ismael...escapó...con ocho h, y se fueH582
+- Jer_41:16h de guerra, mujeres, niños y eunucosH582
+- Jer_42:17los h que volvieren sus rostros paraH582
+- Jer_43:6a h y mujeres y niños, y a las hijasH1397
+- Jer_43:9cúbrelas de...a vista de los h de JudáH582
+- Jer_44:7para ser destruidos el h y la mujer, elH376
+- Jer_44:20habló Jeremías...a los h y a las mujeresH1397
+- Jer_44:26no será invocado más...boca de ningún hH376
+- Jer_44:27los h de Judá que están en tierra deH376
+- Jer_44:28volverán...a la tierra de Judá pocos hH4962
+- Jer_47:2h clamarán, y lamentará todo morador deH120
+- Jer_48:14¿cómo, pues, diréis: Somos h valientesH582
+- Jer_48:31Moab...sobre los h de Kir-hares gemiréH582
+- Jer_48:36resonará mi corazón...h de Kir-haresH582
+- Jer_49:15te haré...y menospreciado entre los hH120
+- Jer_49:18, Jer_49:33no morará...ni la habitará hijo de hH120
+- Jer_49:26los h de guerra morirán en aquel díaH582
+- Jer_50:3no habrá ni h ni animal que en ella moreH120
+- Jer_50:13todo h que pasare por Babilonia se
+- Jer_50:30h de guerra serán destruidos en aquelH582
+- Jer_50:40así no morará allí h, ni hijo de h laH376, [[H120]]
+- Jer_50:42se prepararán contra ti como h a laH376
+- Jer_51:14yo te llenaré de h como de langostasH120
+- Jer_51:17h se ha infatuado, y no tiene cienciaH120
+- Jer_51:22por tu medio quebrantaré h y mujeresH376
+- Jer_51:32y se consternaron los h de guerraH582
+- Jer_51:43tierra...ni pasará por ella hijo de hH120
+- Jer_51:62hasta no quedar en él...ni h ni animalH120
+- Jer_52:7los h de guerra huyeron, y salieron deH582
+- Jer_52:25un oficial que era capitán de los hH582
+- Jer_52:25siete h de los consejeros íntimos delH582
+- Jer_52:25y sesenta h del pueblo que se hallaronH376
+- Jer_52:28llevó cautivo...año...a 3:023 h de JudáH5971
+- Jer_52:30llevó cautivas a 745 personas de los hH5315
+- Lam_1:15el Señor ha hollado a...mis h fuertes
+- Lam_3:1yo soy el h que ha visto aflicción bajoH1397
+- Lam_3:27bueno le es al h llevar el yugo desdeH1397
+- Lam_3:33no...ni entristece...a los hijos de los hH376
+- Lam_3:35torcer el derecho del h delante de laH1397
+- Lam_3:36trastornar al h en su causa, el SeñorH120
+- Lam_3:39lamenta el h...laméntese el h...su pecadoH120, [[H1397]]
+- Eze_1:5seres...Había en ellos semejanza de hH120
+- Eze_1:8a sus cuatro lados, tenían manos de hH120
+- Eze_1:10el aspecto de sus caras era cara de hH120
+- Eze_1:26una semejanza que parecía de h sentadoH120
+- Eze_2:1me dijo: Hijo de h, ponte sobre tus piesH120
+- Eze_2:3hijo de h, yo te envío a los hijos deH120
+- Eze_2:6tú, hijo de h, no les temas, ni tengasH120
+- Eze_2:8mas tú, hijo de h, oye lo que yo te habloH120
+- Eze_3:1me dijo: Hijo de h, come lo que hallasH120
+- Eze_3:3hijo de h, alimenta tu vientre, y llenaH120
+- Eze_3:4hijo de h, vé y entra a...casa de IsraelH120
+- Eze_3:10hijo de h, toma en tu corazón todas misH120
+- Eze_3:17hijo de h, yo te he puesto por atalayaH120
+- Eze_3:25oh hijo de h...pondrán sobre ti cuerdasH120
+- Eze_4:1tú, hijo de h, tómate un adobe, y ponloH120
+- Eze_4:16hijo de h...quebrantaré el sustento delH120
+- Eze_5:1tú, hijo de h, tómate un cuchillo agudoH120
+- Eze_6:2hijo de h, pon tu rostro hacia...montesH120
+- Eze_7:2hijo de h, así ha dicho Jehová el SeñorH120
+- Eze_8:2una figura que parecía de h; desde sus
+- Eze_8:5hijo de h, alza ahora tus ojos hacia elH120
+- Eze_8:6hijo de h, ¿no ves lo que éstos hacenH120
+- Eze_8:8dijo: Hijo de h, cava ahora en la paredH120
+- Eze_8:12dijo: Hijo de h, ¿has visto las cosasH120
+- Eze_8:15dijo: ¿No ves, hijo de h? Vuélvete aúnH120
+- Eze_8:17me dijo: ¿No has visto, hijo de h? ¿EsH120
+- Eze_9:4ponles una señal...a los h que gimen y queH582
+- Eze_10:8apareció en...la figura de una mano de hH120
+- Eze_10:14la segunda, de h; la tercera, cara deH120
+- Eze_10:21figuras de mano de h debajo de sus alasH120
+- Eze_11:1a la entrada de la puerta veinticinco hH376
+- Eze_11:2hijo de h, estos son los h que maquinanH120
+- Eze_11:4tanto profetiza contra ellos, hijo de hH120
+- Eze_11:15hijo de h...h de tu parentesco y toda laH120
+- Eze_12:2hijo de h, tú habitas en medio de casaH120
+- Eze_12:3hijo de h, prepárate enseres de marchaH120
+- Eze_12:9hijo de h, ¿no te ha dicho la casa deH120
+- Eze_12:18hijo de h, come tu pan con temblor, yH120
+- Eze_12:22hijo de h, ¿qué refrán es este queH120
+- Eze_12:27hijo de h...de la casa de Israel dicenH120
+- Eze_13:2hijo de h, profetiza contra los profetasH120
+- Eze_13:17hijo de h, pon tu rostro contra lasH120
+- Eze_14:3hijo de h, estos h han puesto sus ídolosH120
+- Eze_14:4cualquier h de la casa de Israel queH376
+- Eze_14:7cualquier h de la casa de Israel, y deH376
+- Eze_14:8pondré mi rostro contra aquel h, y leH376
+- Eze_14:13hijo de h, cuando la tierra pecareH120
+- Eze_14:13hambre, y cortare de ella h y bestiasH120
+- Eze_14:17, Eze_14:19, Eze_14:21para cortar de ella h y bestiasH120
+- Eze_15:2hijo de h, ¿qué es la madera de la vidH120
+- Eze_16:2hijo de h, notifica a Jerusalén susH120
+- Eze_16:17te hiciste imágenes de h y fornicasteH2145
+- Eze_17:2hijo de h, propón una figura, y compónH120
+- Eze_18:5el h que fuere justo, e hiciere segúnH376
+- Eze_18:8e hiciere juicio verdadero entre h y hH376
+- Eze_19:3y aprendió a arrebatar...y a devorar hH120
+- Eze_19:6aprendió a arrebatar la presa, devoró hH120
+- Eze_20:3hijo de h, habla a...ancianos de IsraelH120
+- Eze_20:4los quieres juzgar tú, hijo de h? HazlesH120
+- Eze_20:11, Eze_20:13, Eze_20:21el h que los cumpliere viviráH120
+- Eze_20:27hijo de h, habla a la casa de IsraelH120
+- Eze_20:46hijo de h, pon tu rostro hacia el surH120
+- Eze_21:2hijo de h...tu rostro contra JerusalénH120
+- Eze_21:6hijo de h, gime con quebrantamiento deH120
+- Eze_21:9hijo de h, profetiza, y di: Así ha dichoH120
+- Eze_21:12clama...oh hijo de h; porque ésta seráH120
+- Eze_21:14tú, pues, hijo de h, profetiza, y bateH120
+- Eze_21:19hijo de h, traza dos caminos por dondeH120
+- Eze_21:28y tú, hijo de h, profetiza, y di: AsíH120
+- Eze_21:31y te entregaré en mano de h temerariosH582
+- Eze_22:2hijo de h, ¿no juzgarás tú a la ciudadH120
+- Eze_22:18hijo de h, la casa de Israel se me haH120
+- Eze_22:24hijo de h, di a ella...no eres tierraH120
+- Eze_22:30busqué entre ellos h...hiciese valladoH376
+- Eze_23:2hijo de h, hubo dos mujeres, hijas deH120
+- Eze_23:14a h pintados en la pared, imágenes deH582
+- Eze_23:15a la manera de los h de Babilonia, deH1121
+- Eze_23:17se llegaron a ella los h de BabiloniaH1121
+- Eze_23:36hijo de h, ¿no juzgarás tú a Ahola yH120
+- Eze_23:40enviaron por h que viniesen de lejosH582
+- Eze_23:45h justos las juzgarán por la ley de lasH582
+- Eze_24:2hijo de h, escribe la fecha de este díaH120
+- Eze_24:16hijo de h, he aquí que yo te quito deH120
+- Eze_24:22rebozo, ni comeréis pan de h en lutoH582
+- Eze_24:25tú, hijo de h, el día que yo arrebate aH120
+- Eze_25:2hijo de h, pon tu rostro hacia...de AmónH120
+- Eze_25:13cortaré de ella h y bestias...asolaréH120
+- Eze_26:2hijo de h...dijo Tiro contra JerusalénH120
+- Eze_27:2hijo de h, levanta endechas sobre TiroH120
+- Eze_27:10fueron en tu ejército tus h de guerraH582
+- Eze_27:13con h y con utensilios...comerciaban enH120
+- Eze_27:27tus h de guerra que hay en ti...caeránH582
+- Eze_28:2hijo de h, di al príncipe de Tiro: AsíH120
+- Eze_28:2yo soy un dios...siendo tú h y no DiosH120
+- Eze_28:9tú, h eres, y no Dios, en la mano deH120
+- Eze_28:12hijo de h, levanta endechas sobre elH120
+- Eze_28:21hijo de h, pon tu rostro hacia SidónH120
+- Eze_29:2hijo de h, pon tu rostro contra FaraónH120
+- Eze_29:8he aquí que...cortaré de ti h y bestiasH120
+- Eze_29:11no pasará por ella pie de h, ni pieH120
+- Eze_29:18hijo de h, Nabucodonosor rey de...hizoH120
+- Eze_30:2hijo de h, profetiza, y di: Así ha dichoH120
+- Eze_30:21de h, he quebrado el brazo de FaraónH120
+- Eze_31:2hijo de h, di a Faraón rey de EgiptoH120
+- Eze_31:14entre los hijos de los h, con los queH120
+- Eze_32:2hijo de h, levanta endechas sobre FaraónH120
+- Eze_32:13las enturbiará pie de h, ni pezuña deH120
+- Eze_32:18hijo de h, endecha sobre la multitud deH120
+- Eze_33:2hijo de h, habla a...hijos de tu puebloH120
+- Eze_33:2el pueblo...tomare un h de su territorioH376
+- Eze_33:7A ti, pues, hijo de hH120
+- Eze_33:10tu...hijo de h, dí a la casa de IsraelH120
+- Eze_33:12hijo de h, dí a los hijos de tu puebloH120
+- Eze_33:24hijo de h, los que habitan aquellosH120
+- Eze_33:30tú, hijo de h, los hijos de tu puebloH120
+- Eze_34:2hijo de h, profetiza contra los pastoresH120
+- Eze_34:31ovejas de...h sois, y yo vuestro DiosH120
+- Eze_35:2hijo de h, pon tu rostro hacia...de SeirH120
+- Eze_36:1tú, hijo de h, profetiza a los montes deH120
+- Eze_36:10multiplicar sobre vosotros h, a toda laH120
+- Eze_36:11multiplicaré sobre vosotros h y ganadoH120
+- Eze_36:12haré andar h sobre vosotros, a mi puebloH120
+- Eze_36:13comedora de h, y matadora de...tu naciónH120
+- Eze_36:14por tanto, no devorarás más h, y nuncaH120
+- Eze_36:17hijo de h, mientras la casa de IsraelH120
+- Eze_36:37multiplicaré los h como se...los rebañosH120
+- Eze_36:38desiertas serán llenas de rebaños de hH120
+- Eze_37:3dijo: Hijo de h, ¿vivirán estos huesos?[[H120]]
+- Eze_37:9profetiza, hijo de h, y di al espírituH120
+- Eze_37:11hijo de h, todos estos huesos son laH120
+- Eze_37:16hijo de h, toma...un palo, y escribe enH120
+- Eze_38:2hijo de h, pon tu rostro contra Gog enH120
+- Eze_38:14profetiza, hijo de h, y di a Gog: AsíH120
+- Eze_38:20los h que...temblarán ante mi presenciaH120
+- Eze_39:1hijo de h, profetiza contra Gog, y diH120
+- Eze_39:14tomarán h a jornal que vayan por el paísH582
+- Eze_39:15que vea los huesos de algún h pondráH120
+- Eze_39:17y tú, hijo de h, así ha dicho JehováH120
+- Eze_39:20de todos los h de guerra, dice JehováH376
+- Eze_40:4hijo de h, mira con tus ojos, y oye conH120
+- Eze_41:19un rostro de h hacia la palmera del unH120
+- Eze_43:7hijo de h, este es el lugar de mi tronoH120
+- Eze_43:10hijo de h, muestra a la casa de IsraelH120
+- Eze_43:18hijo de h, asi ha dicho Jehová el SeñorH120
+- Eze_44:2no se abrirá, ni entrará por ella hH376
+- Eze_44:5hijo de h, pon atención, y mira con tusH120
+- Eze_44:25no se acercarán a h muerto...pero porH120
+- Eze_47:6dijo: ¿Has visto, hijo de h? Después meH120
+- Dan_2:10no hay h...que pueda declarar el asuntoH606
+- Dan_2:38y dondequiera que habitan hijos de hH606
+- Dan_3:10que todo h, al oír el son de la bocinaH606
+- Dan_3:20mandó a h muy vigorosos...que atasen aH1400
+- Dan_4:16su corazón de h sea cambiado, y le seaH120
+- Dan_4:17el Altísimo gobierna el reino de los hH606
+- Dan_4:17constituye sobre él al más bajo de los hH606
+- Dan_4:25que te echarán de entre los h, y con lasH606
+- Dan_4:25tiene dominio en el reino de los h, yH606
+- Dan_4:32de entre los h te arrojarán, y con lasH606
+- Dan_4:32tiene el dominio en el reino de los hH606
+- Dan_4:33echado de entre los h; y comía hierbaH606
+- Dan_5:5aparecieron los dedos de una mano de hH582
+- Dan_5:11un h en el cual mora el espíritu de losH1400
+- Dan_5:21fue echado de entre los hijos de los hH606
+- Dan_5:21tiene dominio sobre el reino de los hH606
+- Dan_6:5dijeron aquellos h: No hallaremos contraH1400
+- Dan_6:7petición de cualquier dios u h fuera deH606
+- Dan_6:11se juntaron aquellos h, y hallaron aH1400
+- Dan_6:12pida a cualquier dios u h fuera de tiH606
+- Dan_6:15aquellos h rodearon al rey y lo dijeronH1400
+- Dan_6:24traídos aquellos h que habían acusado aH1400
+- Dan_7:4manera de h, y le fue dado corazón de hH606
+- Dan_7:8este cuerno tenía ojos como de h, y unaH606
+- Dan_7:13venía uno como un hijo de h, que vinoH606
+- Dan_8:15delante de mí uno con apariencia de hH1397
+- Dan_8:16oí una voz de h entre las riberas deÁH120
+- Dan_8:17entiende, hijo de h, porque la visiónH120
+- Dan_9:7como en el día de hoy lleva todo h de JudáH376
+- Dan_10:7no la vieron los h que estaban conmigoH582
+- Dan_10:16uno con semejanza de hijo de h tocó misH120
+- Dan_10:18tenía semejanza de h me tocó otra vezH120
+- Dan_11:14y h turbulentos de tu...se levantaránH1121
+- Dan_11:21sucederá en su lugar un h despreciable
+- Ose_4:4h no contienda ni reprenda a h, porqueH376
+- Ose_6:9como ladrones que esperan a algún h, asíH376
+- Ose_9:12los quitaré de entre los h, porque ¡ayH120
+- Ose_11:9Dios soy, y no h, el Santo en medio deH376
+- Ose_13:2dicen a los h que sacrifican, que besenH120
+- Joe_1:12extinguió el gozo de los...de los hH120
+- Joe_2:7como h de guerra subirán el muro; cadaH582
+- Joe_3:9acérquense, vengan todos los h de guerraH582
+- Amó_4:13el que...anuncia al h su pensamientoH120
+- Amó_6:9si diez h quedaren en una casa, moriránH582
+- Abd_1:9todo h será cortado del monte de EsaúH376
+- Jon_1:10aquellos h temieron sobremanera, yH582
+- Jon_1:13h trabajaron para hacer volver la naveH582
+- Jon_1:14no perezcamos...por la vida de este hH376
+- Jon_1:16temieron aquellos h a Jehová con granH582
+- Jon_3:5y los h de Nínive creyeron a Dios, yH376
+- Jon_3:7h y animales...no gusten cosa alguna; noH120
+- Jon_3:8cúbranse de cilicio h y animales, y clamenH120
+- Miq_2:2oprimen al h y a su casa, al h y a suH1397, [[H376]]
+- Miq_2:12harán estruendo por la multitud de hH120
+- Miq_5:5siete pastores, y ocho h principalesH120
+- Miq_5:7no esperan a...ni aguardan a hijos de hH376
+- Miq_6:8oh h, él te ha declarado lo que es buenoH120
+- Miq_7:2y ninguno hay recto entre los h; todosH376
+- Miq_7:6y los enemigos del h son los de su casaH582
+- Hab_1:14que sean los h como los peces del marH120
+- Hab_2:5el que es...h soberbio, que no permaneceráH1397
+- Hab_2:8, Hab_2:17a causa de la sangre de los h, y deH120
+- Sof_1:3destruiré los h y las bestias...avesH120
+- Sof_1:3raeré a los h de sobre...la tierra, diceH120
+- Sof_1:12y castigaré a los h que reposan...comoH582
+- Sof_1:17atribularé a...h, y andarán como ciegosH120
+- Sof_3:4profetas son livianos, h prevaricadoresH376
+- Sof_3:6sus ciudades...asoladas hasta no quedar hH376
+- Hag_1:11sobre los h y sobre las bestias, yH120
+- Zac_2:4causa de la multitud de h y de ganadoH120
+- Zac_4:1como un h que es despertado de su sueñoH376
+- Zac_7:2había enviado...con Regem-melec y sus hH582
+- Zac_8:10no ha habido paga de h ni...de bestiaH120
+- Zac_8:10yo dejé a todos los h cada cual contraH120
+- Zac_8:23diez h de...tomarán del manto a un judíoH582
+- Zac_9:1a Jehová deben mirar los ojos de los hH120
+- Zac_11:6entregare los h cada cual en mano de suH120
+- Zac_12:1y forma el espíritu del h dentro de élH120
+- Zac_13:7levántate...contra el h compañero míoH1397
+- Mal_2:12Jehová cortará...al h que hiciere estoH376
+- Mal_3:8¿robará el h a Dios? Pues vosotros meH120
+- Mal_3:17los perdonaré, como el h que perdona aH376
+- Mat_4:4no sólo de pan vivirá el h, sino deG444
+- Mat_4:19en pos de mí, y os haré pescadores de hG444
+- Mat_5:13ser echada fuera y hollada por los hG444
+- Mat_5:16así alumbre vuestra luz delante de los hG444
+- Mat_5:19quebrante uno de...y así enseñe a los hG444
+- Mat_6:1hacer vuestra justicia delante de los hG444
+- Mat_6:2las calles, para ser alabados por los hG444
+- Mat_6:5el orar en pie...para ser vistos de los hG444
+- Mat_6:14porque si perdonáis a los h sus ofensasG444
+- Mat_6:15mas si no perdonáis a los h sus ofensasG444
+- Mat_6:16rostros para mostrar a los h que ayunanG444
+- Mat_6:18no mostrar a los h que ayunas, sino aG444
+- Mat_6:30hará mucho más a vosotros, h de poca fe?[[G3640]]
+- Mat_7:9¿qué h hay...que si su hijo le pide panG444
+- Mat_7:12las cosas que queráis que los h haganG444
+- Mat_7:24compararé a un h prudente, que edificóG435
+- Mat_7:26compararé a un h insensato, que edificóG435
+- Mat_8:9soy h bajo autoridad, y tengo bajo misG444
+- Mat_8:20el Hijo del H no tiene dónde recostar suG444
+- Mat_8:26les dijo: ¿Por qué teméis, h de poca fe?[[G3640]]
+- Mat_8:27h se maravillaron, diciendo: ¿Qué h esG444
+- Mat_9:6sepáis que el Hijo del H tiene potestadG444
+- Mat_9:8a Dios...había dado tal potestad a los hG444
+- Mat_9:9un h llamado Mateo, que estaba sentado alG444
+- Mat_9:18vino un h principal y se postró ante élG758
+- Mat_10:17guardaos de los h, porque...os azotaránG444
+- Mat_10:23Israel, antes que venga el Hijo del HG444
+- Mat_10:32que me confiese delante de los h, yoG444
+- Mat_10:33me niegue delante de los h...le negaréG444
+- Mat_10:35para poner en disensión al h contra suG444
+- Mat_10:36los enemigos del h serán los de su casaG444
+- Mat_11:8a un h cubierto de vestiduras delicadas?[[G444]]
+- Mat_11:19vino el Hijo del H, que come y bebe, yG444
+- Mat_11:19dicen: He aquí un h comilón, y bebedorG444
+- Mat_12:8el Hijo del H es Señor del día de reposoG444
+- Mat_12:11¿qué h habrá de vosotros, que tenga unaG444
+- Mat_12:12¿cuánto más vale un h que una oveja?[[G444]]
+- Mat_12:13dijo a aquel h: Extiende tu mano. Y élG444
+- Mat_12:29¿cómo...entrar en la casa del h fuerteG2478
+- Mat_12:31todo pecado...será perdonado a los hG444
+- Mat_12:32dijere...palabra contra el Hijo del HG444
+- Mat_12:35el h bueno, del buen tesoro del corazónG444
+- Mat_12:35el h malo, del mal tesoro saca malasG444
+- Mat_12:36de toda palabra ociosa que hablen los hG444
+- Mat_12:40estará el Hijo del H en el corazón deG444
+- Mat_12:41h de Nínive se levantarán en el juicioG435
+- Mat_12:43cuando el espíritu inmundo sale del hG444
+- Mat_12:45y el postrer estado de aquel h viene aG444
+- Mat_13:24reino...es semejante a un h que sembróG444
+- Mat_13:25mientras dormían...h, vino su enemigoG444
+- Mat_13:31al grano de mostaza que un h tomó yG444
+- Mat_13:37el que siembra la...es el Hijo del HG444
+- Mat_13:41enviará el Hijo del H a sus ángelesG444
+- Mat_13:44el cual un h halla, y lo esconde deG444
+- Mat_14:21los que comieron fueron...cinco mil hG435
+- Mat_14:31asió de él, y le dijo: H de poca fe![[G3640]]
+- Mat_14:35cuando le conocieron los h de aquelG435
+- Mat_15:9enseñando...doctrinas, mandamientos de hG444
+- Mat_15:11no lo que entra...boca contamina al hG444
+- Mat_15:11, Mat_15:18que sale de la boca...contamina al hG444
+- Mat_15:20estas cosas...contaminan al h; pero elG444
+- Mat_15:20las manos sin lavar no contamina al hG444
+- Mat_15:38los que habían comido, cuatro mil hG435
+- Mat_16:8¿por qué pensáis...h de poca fe, que noG3640
+- Mat_16:9de los cinco panes entre cinco mil h
+- Mat_16:13¿quién dicen los h...es el Hijo del H?[[G444]]
+- Mat_16:23en las cosas de Dios, sino...de los hG444
+- Mat_16:26¿qué aprovechará al h, si ganare todoG444
+- Mat_16:26qué recompensa dará el h por su almaG444
+- Mat_16:27el Hijo del H vendrá en la gloria deG444
+- Mat_16:28hayan visto al Hijo del H viniendo enG444
+- Mat_17:9hasta que el Hijo del H resucite de losG444
+- Mat_17:12así...el Hijo del H padecerá de ellosG444
+- Mat_17:14vino...h que se arrodilló delante de élG444
+- Mat_17:22el Hijo del H será entregado en...de hG444
+- Mat_18:7pero ¡ay de aquel h por quien viene elG444
+- Mat_18:11el Hijo del H ha venido para salvar loG444
+- Mat_18:12un h tiene cien ovejas, y se descarríaG444
+- Mat_19:3¿es lícito al h repudiar a su mujer porG444
+- Mat_19:5el h dejará padre y madre, y se unirá aG444
+- Mat_19:6lo que Dios juntó, no lo separe el hG444
+- Mat_19:10si así es la condición del h con suG444
+- Mat_19:12hay eunucos que son hechos...por los hG444
+- Mat_19:26los h esto es imposible; mas para DiosG444
+- Mat_19:28el Hijo del H se siente en el trono deG444
+- Mat_20:1el reino...es semejante a un h, padre deG444
+- Mat_20:18y el Hijo del H será entregado a losG444
+- Mat_20:28el Hijo del H no vino para ser servidoG444
+- Mat_21:25el bautismo...¿del cielo, o de los h?[[G444]]
+- Mat_21:26si decimos, de los h, tememos al puebloG444
+- Mat_21:28un h tenía dos hijos, y acercándose alG444
+- Mat_21:33hubo un h...el cual plantó una viña, laG444
+- Mat_22:11vio...a un h que no estaba vestido deG444
+- Mat_22:16porque no miras la apariencia de los hG3762
+- Mat_23:4las ponen sobre los hombros de los hG444
+- Mat_23:5hacen...obras para ser vistos por los hG444
+- Mat_23:7y que los h los llamen: Rabí, RabíG444
+- Mat_23:13cerráis el reino de...delante de los hG444
+- Mat_23:28la verdad, os mostráis justos a los hG444
+- Mat_24:27será también la venida del Hijo del HG444
+- Mat_24:30aparecerá la señal del Hijo del H enG444
+- Mat_24:30y verán al Hijo del H viniendo sobreG444
+- Mat_24:37, Mat_24:39así será la venida del Hijo del HG444
+- Mat_24:44el Hijo del H vendrá a la hora que noG444
+- Mat_25:13hora en que el Hijo del H ha de venirG444
+- Mat_25:14reino...es como un h que yéndose lejosG444
+- Mat_25:24te conocía que eres h duro, que siegasG444
+- Mat_25:31cuando el Hijo del H venga en su gloriaG444
+- Mat_26:2el Hijo del H será entregado para serG444
+- Mat_26:18id...a cierto h, y decidle: El MaestroG1170
+- Mat_26:24a la verdad el Hijo del H va, segúnG444
+- Mat_26:24¡ay de aquel h por quien el Hijo del HG444
+- Mat_26:24bueno le fuera a...h no haber nacidoG444
+- Mat_26:45y el Hijo del H es entregado en manosG444
+- Mat_26:64ahora veréis al Hijo del H sentado aG444
+- Mat_26:72él negó otra vez con...No conozco al hG444
+- Mat_26:74no conozco al h. Y en seguida cantó elG444
+- Mat_27:32a un h de Cirene que se llamaba SimónG444
+- Mat_27:57un h rico de Arimatea, llamado JoséG444
+- Mar_1:17mí, y haré que seáis pescadores de hG444
+- Mar_1:23había en la...un h con espíritu inmundoG444
+- Mar_2:10sepáis que el Hijo del H tiene potestadG444
+- Mar_2:27por causa del h, y no el h por causa delG444
+- Mar_2:28el Hijo del H es Señor aun del día deG444
+- Mar_3:1había allí un h que tenía seca una manoG444
+- Mar_3:3al h que tenía la mano seca: LevántateG444
+- Mar_3:5al h: Extiende tu mano. Y él la extendióG444
+- Mar_3:27puede entrar en la casa de un h fuerteG2478
+- Mar_3:28serán perdonados a los hijos de los hG444
+- Mar_4:26cuando un h echa semilla en la tierraG444
+- Mar_5:2vino a su encuentro...h con un espírituG444
+- Mar_5:8decía: Sal de este h, espíritu inmundoG444
+- Mar_6:12predicaban que los h se arrepintiesen
+- Mar_6:44y los que comieron eran cinco mil hG435
+- Mar_7:7enseñando...doctrinas, mandamientos de hG444
+- Mar_7:8os aferráis a la tradición de los h: losG444
+- Mar_7:11basta que diga un h al padre...Es CorbánG444
+- Mar_7:15nada hay fuera del h que entre en él, queG444
+- Mar_7:15lo que sale de él, eso...contamina al hG444
+- Mar_7:18todo lo de fuera que entra en el h, noG444
+- Mar_7:20lo que del h sale, eso contamina al hG444
+- Mar_7:21del corazón de los h, salen los malosG444
+- Mar_7:23todas...de dentro salen, y contaminan al hG444
+- Mar_8:24veo los h como árboles, pero los veo queG444
+- Mar_8:27preguntó...¿Quién dicen los h que soy yo?[[G444]]
+- Mar_8:31le era necesario al Hijo del H padecerG444
+- Mar_8:33no pones la mira...sino en las de los hG444
+- Mar_8:36¿qué aprovechará al h si ganare todo elG444
+- Mar_8:37o qué recompensa dará el h por su alma?[[G444]]
+- Mar_8:38el Hijo del H se avergonzará también deG444
+- Mar_9:9cuando el Hijo del H hubiese resucitadoG444
+- Mar_9:12cómo está escrito del Hijo del H, queG444
+- Mar_9:31el Hijo del H será entregado en...de hG444
+- Mar_10:7por esto dejará el h a su padre y a suG444
+- Mar_10:9lo que Dios juntó, no lo separe el hG444
+- Mar_10:27los h es imposible, mas para Dios, noG444
+- Mar_10:33y el Hijo del H será entregado a losG444
+- Mar_10:45el Hijo del H no vino para ser servidoG444
+- Mar_11:2un pollino...el cual ningún h ha montadoG444
+- Mar_11:30de Juan, ¿era del cielo, o de los h?[[G444]]
+- Mar_11:32¿y si decimos, de los h...? Pero temíanG444
+- Mar_12:1h plantó una viña, la cercó de valladoG444
+- Mar_12:14Maestro, sabemos que eres h veraz, yG444
+- Mar_12:14no miras la apariencia de los h, sinoG444
+- Mar_13:26verán al Hijo del h que vendrá en lasG444
+- Mar_13:34es como el h que yéndose lejos, dejóG444
+- Mar_14:13os saldrá...un h que lleva un cántaroG444
+- Mar_14:21a la verdad el Hijo del H va, segúnG444
+- Mar_14:21¡ay de...h por quien el Hijo del H esG444
+- Mar_14:21bueno le fuera a ese h no haber nacidoG444
+- Mar_14:41el Hijo del H es entregado en manos deG444
+- Mar_14:62al Hijo del H sentado a la diestra delG444
+- Mar_14:71no conozco a este h de quien habláisG444
+- Mar_15:39verdaderamente este h era Hijo de DiosG444
+- Luc_1:25dignó quitar mi afrenta entre los hG444
+- Luc_2:14y en la tierra paz...para con los h![[G444]]
+- Luc_2:25un h llamado Simeón, y este h, justo yG444
+- Luc_2:52y Jesús crecía...en gracia para...los hG444
+- Luc_4:4escrito está: No sólo de pan vivirá el hG444
+- Luc_4:33un h que tenía un espíritu de demonioG444
+- Luc_5:8apártate de mí...porque soy h pecadorG435
+- Luc_5:10dijo...desde ahora serás pescador de hG444
+- Luc_5:12se presentó un h lleno de lepra, el cualG435
+- Luc_5:18unos h que traían...a un h...paralíticoG444
+- Luc_5:20dijo: H, tus pecados te son perdonadosG444
+- Luc_5:24que el Hijo del H tiene potestad en laG444
+- Luc_6:5el Hijo del H es Señor aun del día deG444
+- Luc_6:6estaba allí un h que tenía seca la manoG444
+- Luc_6:8mas...dijo al h que tenía la mano secaG444
+- Luc_6:10dijo al h: Extiende tu mano. Y él loG444
+- Luc_6:22cuando los h os aborrezcan, y cuandoG444
+- Luc_6:22y desechen...por causa del Hijo del HG444
+- Luc_6:26todos los h hablen bien de vosotros![[G444]]
+- Luc_6:31y como queréis que hagan los h...hacedG444
+- Luc_6:45el h bueno, del buen tesoro...lo buenoG444
+- Luc_6:45h malo, del mal tesoro de su corazónG444
+- Luc_6:48semejante es al h que al edificar unaG444
+- Luc_6:49semejante es al h que edificó su casaG444
+- Luc_7:8yo soy h puesto bajo autoridad, y tengoG444
+- Luc_7:20cuando...los h vinieron a él, dijeronG435
+- Luc_7:25un h cubierto de vestiduras delicadas?[[G444]]
+- Luc_7:31¿a qué, pues, compararé los h de estaG444
+- Luc_7:34vino el Hijo del H, que come y bebe, yG444
+- Luc_7:34este es un h comilón y bebedor de vinoG444
+- Luc_8:27vino a su encuentro un h de la ciudadG435
+- Luc_8:29al espíritu inmundo que saliese del hG444
+- Luc_8:33los demonios, salidos del h, entraronG444
+- Luc_8:35hallaron al h de quien habían salido losG444
+- Luc_8:38h de quien habían salido los demoniosG435
+- Luc_9:14y eran como cinco mil h. Entonces dijoG435
+- Luc_9:22es necesario que el Hijo del H padezcaG444
+- Luc_9:25¿qué aprovecha al h, si gana todo elG444
+- Luc_9:26de éste se avergonzará el Hijo del HG444
+- Luc_9:38un h...clamó diciendo: Maestro, te ruegoG435
+- Luc_9:44el Hijo del H será entregado en...de hG444
+- Luc_9:56el Hijo del H no ha venido para perderG444
+- Luc_9:56no...para perder las almas de los h, sinoG444
+- Luc_9:58el Hijo del H no tiene dónde recostar suG444
+- Luc_10:30un h descendía de Jerusalén a JericóG444
+- Luc_11:21el h fuerte armado guarda su palacioG2478
+- Luc_11:24cuando el espíritu inmundo sale del hG444
+- Luc_11:26el postrer estado de aquel h viene aG444
+- Luc_11:30también lo será el Hijo del H a estaG444
+- Luc_11:31se levantará en el juicio con los h deG435
+- Luc_11:32h de Nínive se levantarán en el juicioG435
+- Luc_11:44y los h que andan encima no lo sabenG444
+- Luc_11:46porque cargáis a los h con cargas queG444
+- Luc_12:8me confesare delante de los h, tambiénG444
+- Luc_12:8el Hijo del H le confesará delante deG444
+- Luc_12:9mas el que me negare delante de los hG444
+- Luc_12:10dijere...palabra contra el Hijo del HG444
+- Luc_12:14h, ¿quién me ha puesto sobre vosotrosG444
+- Luc_12:15porque la vida del h no consiste en laG5100
+- Luc_12:16la heredad de un h rico había producidoG444
+- Luc_12:28¿cuánto más a vosotros, h de poca fe?[[G3640]]
+- Luc_12:36semejantes a h que aguardan a que suG444
+- Luc_12:40estad preparados...el Hijo del H vendráG444
+- Luc_13:4eran más culpables que todos los h deG444
+- Luc_13:6tenía un h una higuera plantada en suG5100
+- Luc_13:19mostaza, que un h tomó y sembró en suG444
+- Luc_14:2aquí estaba delante de él un h hidrópicoG444
+- Luc_14:16un h hizo una gran cena, y convidó aG444
+- Luc_14:24que ninguno de aquellos h que fueronG435
+- Luc_14:30este h comenzó a edificar, y no pudoG444
+- Luc_15:4h de vosotros, teniendo cien ovejas, siG444
+- Luc_15:11también dijo: Un h tenía dos hijosG444
+- Luc_16:1había un h rico que tenía un mayordomoG444
+- Luc_16:15que os justificáis...delante de los hG444
+- Luc_16:15h tienen por sublime...es abominaciónG444
+- Luc_16:19un h rico, que se vestía de púrpuraG444
+- Luc_17:12salieron al encuentro diez h leprososG435
+- Luc_17:22ver uno de los días del Hijo del H, yG444
+- Luc_17:24también será el Hijo del H en su díaG444
+- Luc_17:26así...será en los días del Hijo del HG444
+- Luc_17:30así será el día en que el Hijo del HG444
+- Luc_18:2que ni temía a Dios, ni respetaba a hG444
+- Luc_18:4ni temo a Dios, ni tengo respeto a hG444
+- Luc_18:8cuando venga el Hijo del H, ¿hallaráG444
+- Luc_18:10dos h subieron al templo a orar: UnoG444
+- Luc_18:11gracias porque no soy como los otros hG444
+- Luc_18:18un h...le preguntó, diciendo: MaestroG846
+- Luc_18:27que es imposible para los h, es posibleG444
+- Luc_18:31cosas escritas...acerca del Hijo del HG444
+- Luc_19:7había entrado a posar con un h pecadorG435
+- Luc_19:10el Hijo del H vino a buscar y a salvarG444
+- Luc_19:12h noble se fue a un país lejano, paraG444
+- Luc_19:21por cuanto eres h severo, que tomas loG444
+- Luc_19:22sabías que yo era h severo, que tomoG444
+- Luc_19:30en el cual ningún h ha montado jamásG444
+- Luc_20:4bautismo...¿era del cielo, o de los h?[[G444]]
+- Luc_20:6si decimos, de los h, todo el puebloG444
+- Luc_20:9un h plantó una viña, la arrendó aG444
+- Luc_21:26desfalleciendo los h por el temor yG444
+- Luc_21:27verán al Hijo del H, que vendrá en unaG444
+- Luc_21:36estar en pie delante del Hijo del HG444
+- Luc_22:10os saldrá...un h que lleva un cántaroG444
+- Luc_22:22el Hijo del H va, según lo que estáG444
+- Luc_22:22¡ay de aquel h por quien es entregadoG444
+- Luc_22:48¿con un beso entregas al Hijo del H?[[G444]]
+- Luc_22:58eres de...Y Pedro dijo: H, no lo soyG444
+- Luc_22:60y Pedro dijo: H, no sé lo que dicesG444
+- Luc_22:63h que custodiaban a Jesús se burlabanG435
+- Luc_22:69el Hijo del H se sentará a la diestraG444
+- Luc_23:4Pilato...Ningún delito hallo en este hG444
+- Luc_23:6Pilato...preguntó si el h era galileoG444
+- Luc_23:14éste como un h que perturba al puebloG444
+- Luc_23:14no he hallado en este h delito algunoG444
+- Luc_23:15nada digno de muerte ha hecho este hG846
+- Luc_23:47diciendo: Verdaderamente...h era justoG444
+- Luc_24:7es necesario que el Hijo del H seaG444
+- Luc_24:7sea entregado en manos de h pecadoresG444
+- Jua_1:4la vida, y la vida era la luz de los hG444
+- Jua_1:6hubo un h enviado de Dios, el cual seG444
+- Jua_1:9la luz verdadera, que alumbra a todo hG444
+- Jua_1:51suben y descienden sobre el Hijo del HG444
+- Jua_2:10todo h sirve primero el buen vino, yG444
+- Jua_2:25testimonio del h...lo que había en el hG444
+- Jua_3:1un h de los fariseos...se llamaba NicodemoG444
+- Jua_3:4¿cómo puede un h nacer siendo viejo?[[G444]]
+- Jua_3:13sino el que descendió...el Hijo del HG444
+- Jua_3:14es necesario...Hijo del H sea levantadoG444
+- Jua_3:19h amaron más las tinieblas que la luzG444
+- Jua_3:27no puede el h recibir nada, si no leG444
+- Jua_4:28mujer...fue a la ciudad, y dijo a los hG444
+- Jua_4:29venid, ved a un h que me ha dicho todoG444
+- Jua_4:50el h creyó la palabra que Jesús le dijoG444
+- Jua_5:5h que hacía 38 años que estaba enfermoG444
+- Jua_5:9aquel h fue sanado, y tomó su lecho, yG444
+- Jua_5:15el h se fue, y dio aviso a los judíosG444
+- Jua_5:27autoridad...por cuanto es el Hijo del HG444
+- Jua_5:34no recibo testimonio de h alguno; masG444
+- Jua_5:41gloria de los h no reciboG444
+- Jua_6:14aquellos h...viendo la señal que JesúsG444
+- Jua_6:27comida...la cual el Hijo del H os daráG444
+- Jua_6:53si no coméis la carne del Hijo del HG444
+- Jua_6:62si vieres al Hijo del H subir adondeG444
+- Jua_7:22en el día de reposo circuncidáis al hG444
+- Jua_7:23recibe el h la circuncisión en el díaG444
+- Jua_7:23de reposo sané completamente a un h?[[G444]]
+- Jua_7:46jamás h alguno ha hablado como este hG444
+- Jua_7:51¿juzga...nuestra ley a un h si primeroG444
+- Jua_8:17que el testimonio de dos h es verdaderoG444
+- Jua_8:28cuando hayáis levantado al Hijo del HG444
+- Jua_8:40h que os he hablado la verdad, la cualG444
+- Jua_9:1Jesús, vio a un h ciego de nacimientoG444
+- Jua_9:11aquel h que se llama Jesús hizo lodoG444
+- Jua_9:16h no procede de Dios, porque no guardaG444
+- Jua_9:16puede un h pecador hacer estas señales?[[G444]]
+- Jua_9:24a llamar al h que había sido ciego, yG444
+- Jua_9:24nosotros sabemos que ese h es pecadorG444
+- Jua_9:30respondió el h...esto es lo maravillosoG444
+- Jua_10:33porque tú, siendo h, te haces DiosG444
+- Jua_11:47¿qué...Porque este h hace muchas señalesG444
+- Jua_11:50conviene que un h muera por el puebloG444
+- Jua_12:23para que el Hijo del H sea glorificadoG444
+- Jua_12:34¿cómo...que el Hijo del H sea levantado?[[G444]]
+- Jua_12:34dices tú...¿Quién es este Hijo del H?[[G444]]
+- Jua_12:43amaban más la gloria de los h que laG444
+- Jua_13:31ahora es glorificado el Hijo del HG444
+- Jua_16:21por el gozo de que haya nacido un h enG444
+- Jua_17:6he manifestado tu nombre a los h que delG444
+- Jua_18:14que un solo h muriese por el puebloG444
+- Jua_18:17no eres...de los discípulos de este h?[[G444]]
+- Jua_18:29¿qué acusación traéis contra este h?[[G444]]
+- Jua_19:5salió...Y Pilato les dijo: ¡He aquí el h![[G444]]
+- Hec_1:21que de estos h que han estado juntosG435
+- Hec_3:2y era traído un h cojo de nacimientoG435
+- Hec_4:9acerca del beneficio...a un h enfermo, deG444
+- Hec_4:10este h está en vuestra presencia sanoG3778
+- Hec_4:12dado a los h, en que podamos ser salvosG444
+- Hec_4:13sabiendo que eran h sin letras y delG444
+- Hec_4:14viendo al h que había sido sanado, queG444
+- Hec_4:16diciendo: ¿Qué haremos con estos h?[[G444]]
+- Hec_4:17no hablen de...a h alguno en este nombreG444
+- Hec_4:22que el h en quien se había hecho esteG444
+- Hec_5:1cierto h llamado Ananías, con Safira suG435
+- Hec_5:4no has mentido a los h, sino a DiosG444
+- Hec_5:14gran número así de h como de mujeresG435
+- Hec_5:28echar sobre nosotros la sangre de...hG444
+- Hec_5:29es necesario obedecer a Dios antes que...hG444
+- Hec_5:35lo que vais a hacer respecto a estos hG444
+- Hec_5:36a éste se unió un número como de 400 hG435
+- Hec_5:38digo: Apartaos de estos h, y dejadlosG444
+- Hec_5:38esta obra es de los h, se desvaneceráG444
+- Hec_6:13que decían: Este h no cesa de hablarG444
+- Hec_7:56al Hijo del H que está a la diestra deG444
+- Hec_8:2h piadosos llevaron a enterrar a EstebanG435
+- Hec_8:3arrastraba a h y a mujeres...en la cárcelG435
+- Hec_8:9pero había un h llamado Simón, que antesG435
+- Hec_8:12cuando creyeron...bautizaban h y mujeresG435
+- Hec_9:2si hallase...h o mujeres de este CaminoG435
+- Hec_9:7y los h que iban con Saulo se pararonG435
+- Hec_9:13Señor, he oído de muchos acerca de...hG435
+- Hec_9:38enviaron dos h, a rogarle: No tardes enG435
+- Hec_10:1había en Cesarea un h llamado CornelioG435
+- Hec_10:5envía...h a Jope, y haz venir a SimónG435
+- Hec_10:17h...enviados por Cornelio, los cualesG435
+- Hec_10:19le dijo el...He aquí tres h te buscanG435
+- Hec_10:21descendiendo a donde estaban los h queG435
+- Hec_10:26levántate, pues yo mismo también soy hG444
+- Hec_10:28que a ningún h llame común o inmundoG444
+- Hec_11:3has entrado en casa de h incircuncisosG435
+- Hec_11:11luego llegaron tres h a la casa dondeG435
+- Hec_11:13envía h a Jope, y haz venir a SimónG435
+- Hec_12:22gritando: ¡Voz de Dios, y no de h![[G444]]
+- Hec_14:8cierto h de Listra estaba sentado...cojoG435
+- Hec_14:11diciendo...Dioses bajo la semejanza de hG444
+- Hec_14:15somos h semejantes a vosotros, que osG444
+- Hec_15:17que el resto de los h busque al SeñorG444
+- Hec_15:26h...han expuesto su vida por el nombreG444
+- Hec_16:17estos h son siervos del Dios AltísimoG444
+- Hec_16:20estos h, siendo judíos, alborotan...ciudadG444
+- Hec_16:35enviaron...decir: Suelta a aquellos hG444
+- Hec_17:5tomaron consigo a...ociosos, h malosG435
+- Hec_17:12creyeron muchos de ellos...no pocos hG435
+- Hec_17:25ni es honrado por manos de h, como siG444
+- Hec_17:26de una sangre...todo el linaje de los hG444
+- Hec_17:29escultura de...y de imaginación de hG444
+- Hec_17:30ahora manda a todos los h en todo lugarG444
+- Hec_18:13éste persuade a los h a honrar a DiosG444
+- Hec_19:7eran por todos unos doce hG435
+- Hec_19:16el h en quien estaba el espíritu maloG444
+- Hec_19:35¿y quién es el h que no sabe que laG444
+- Hec_19:37porque habéis traído a estos h, sin serG435
+- Hec_20:30levantarán h que hablen cosas perversasG435
+- Hec_21:23hay entre nosotros cuatro h que tienenG435
+- Hec_21:26Pablo tomó consigo a aquellos h, y alG435
+- Hec_21:28es el h que por todas partes enseña aG444
+- Hec_21:39dijo...Yo de cierto soy h judío de TarsoG444
+- Hec_22:4entregando en cárceles a h y mujeresG435
+- Hec_22:15serás testigo suyo a todos los h, deG444
+- Hec_22:22quita de la tierra a tal h, porque no
+- Hec_22:26¿qué vas a...este h es ciudadano romanoG444
+- Hec_23:9ningún mal hallamos en este h; que siG444
+- Hec_23:21más de cuarenta h de ellos le acechanG435
+- Hec_23:27a este h, aprehendido por los judíosG435
+- Hec_23:30de asechanzas...tendido contra este hG435
+- Hec_24:5que este h es una plaga, y promotor deG435
+- Hec_24:16una conciencia sin ofensa ante...los hG444
+- Hec_25:5si hay algún crimen en este h, acúsenleG435
+- Hec_25:14un h ha sido dejado preso por FélixG435
+- Hec_25:17así...al día siguiente...mandé traer al hG435
+- Hec_25:22yo...quisiera oír a ese h. Y él le dijoG444
+- Hec_25:23entrando...con los...principales h de laG435
+- Hec_25:24aquí tenéis a este h, respecto del cualG435
+- Hec_26:31ninguna cosa digna de...ha hecho este hG444
+- Hec_26:32podía este h ser puesto en libertad, siG444
+- Hec_28:4este h es homicida, a quien, escapadoG444
+- Hec_28:7había propiedades del h principal de la
+- Rom_1:18toda impiedad e injusticia de los hG444
+- Rom_1:23en semejanza de imagen de h corruptibleG444
+- Rom_1:27de igual modo también los h, dejando elG730
+- Rom_1:27cometiendo hechos vergonzosos h con hG730
+- Rom_2:1eres inexcusable, oh h, quienquiera queG444
+- Rom_2:3¿y piensas esto, oh h, tú que juzgas aG444
+- Rom_2:16en que Dios juzgará...secretos de los hG444
+- Rom_2:29la alabanza del cual no viene de los hG444
+- Rom_3:4bien sea Dios veraz, y todo h mentirosoG444
+- Rom_3:5¿será injusto Dios que...(Hablo como h)[[G444]]
+- Rom_3:28concluimos...el h es justificado por feG444
+- Rom_4:6David habla de la bienaventuranza del hG444
+- Rom_5:12el pecado entró en el mundo por un hG444
+- Rom_5:12la muerte pasó a todos los h, por cuantoG444
+- Rom_5:15y el don de Dios por la gracia de un hG444
+- Rom_5:18vino la condenación a todos los h, deG444
+- Rom_5:18vino a todos los h la justificación deG444
+- Rom_5:19así como por la desobediencia de un hG444
+- Rom_6:6nuestro viejo h fue crucificado...con élG444
+- Rom_7:1la ley se enseñorea del h entre tanto queG444
+- Rom_7:22según el h interior, me deleito en laG444
+- Rom_9:20h, ¿quién eres tú, para que alterquesG444
+- Rom_10:5el h que haga estas cosas, vivirá porG444
+- Rom_11:4me he reservado siete mil h, que no hanG435
+- Rom_12:17procurad lo bueno delante de todos...hG444
+- Rom_12:18si es posible...en paz con todos los hG444
+- Rom_14:18agrada a Dios, y es aprobado por los hG444
+- Rom_14:20es malo que el h haga tropezar a otrosG444
+- 1Co_1:25lo insensato...más sabio que los hG444
+- 1Co_1:25débil de Dios es más fuerte que los hG444
+- 1Co_2:5no esté fundada en la sabiduría de los hG444
+- 1Co_2:9oído oyó, ni han subido en corazón de hG444
+- 1Co_2:11¿quién de los h sabe las cosas del hG444
+- 1Co_2:11sino el espíritu del h que está en él?[[G444]]
+- 1Co_2:14el h natural no percibe las cosas queG444
+- 1Co_3:3aún...¿no sois carnales, y andáis como h?[[G444]]
+- 1Co_3:21así que, ninguno se gloríe en los hG3367
+- 1Co_4:1téngannos los h por servidores de CristoG444
+- 1Co_4:9espectáculo al...a los ángeles y a los hG444
+- 1Co_6:18pecado que el h cometa, está fuera delG444
+- 1Co_7:1bueno le sería al h no tocar mujerG444
+- 1Co_7:7quisiera...que todos los h fuesen como yoG444
+- 1Co_7:23precio...no os hagáis esclavos de los hG444
+- 1Co_7:26hará bien el h en quedarse como estáG444
+- 1Co_9:8¿digo esto sólo como h? ¿No dice...la ley?[[G444]]
+- 1Co_13:11cuando ya fui h, dejé lo que era deG435
+- 1Co_14:2que habla en lenguas no habla a los hG3762
+- 1Co_14:3pero el que profetiza habla a los h paraG444
+- 1Co_15:19somos los más dignos de...de todos los hG444
+- 1Co_15:21por cuanto la muerte entró por un hG444
+- 1Co_15:21también por un h la resurrección deG444
+- 1Co_15:32como h batallé en Efeso contra fierasG444
+- 1Co_15:39una carne es la de los h, otra carne laG444
+- 1Co_15:45hecho el primer h Adán alma vivienteG444
+- 1Co_15:47el primer h es de la tierra, terrenalG444
+- 1Co_15:47el segundo h, que es el Señor, es delG444
+- 2Co_3:2conocidas y leídas por todos los hG444
+- 2Co_4:16nuestro h exterior se va desgastandoG444
+- 2Co_5:11conociendo...persuadimos a los h; peroG444
+- 2Co_5:19no tomándoles en cuenta a los h susG846
+- 2Co_8:21honradamente...también delante de los hG444
+- 2Co_12:2conozco a un h en Cristo, que hace 14G444
+- 2Co_12:3conozco al tal h (si en el cuerpo, oG444
+- 2Co_12:4oyó...que no le es dado al h expresarG444
+- 2Co_12:5de tal h me gloriaré; pero de mí mismoG5108
+- Gál_1:1Pablo, apóstol (no de h ni por h, sinoG444
+- Gál_1:10¿busco ahora el favor de los h, o el deG444
+- Gál_1:10¿o trato de agradar a los h? Pues siG444
+- Gál_1:10si todavía agradara a los h, no seríaG444
+- Gál_1:11el evangelio anunciado...no es según hG444
+- Gál_1:12ni lo recibí ni lo aprendí de h algunoG444
+- Gál_2:16sabiendo que el h no es justificado porG444
+- Gál_3:15hermanos...un pacto, aunque sea de h, unaG444
+- Gál_5:3vez testifico a todo h que se circuncidaG444
+- Gál_6:7todo lo que el h sembrare, eso...segaráG444
+- Efe_2:15crear en sí mismo un solo y nuevo hG444
+- Efe_3:5no se dio a conocer a los hijos de los hG444
+- Efe_3:16el ser fortalecidos...en el h interiorG444
+- Efe_4:8llevó cautiva la...y dio dones a los hG444
+- Efe_4:14por estratagema de h que para engañarG444
+- Efe_4:22despojados del viejo h, que está viciadoG444
+- Efe_4:24vestíos del nuevo h, creado según DiosG444
+- Efe_5:31por esto dejará el h a su padre y a suG444
+- Efe_6:6no...como los que quieren agradar a los hG444
+- Efe_6:7sirviendo...como al Señor y no a los hG444
+- Flp_2:7se despojó...hecho semejante a los hG444
+- Flp_2:8estando en la condición de h, se humillóG444
+- Flp_4:5vuestra gentileza sea conocida de...los hG444
+- Col_1:28anunciamos, amonestando a todo h, yG444
+- Col_1:28y enseñando a todo h en toda sabiduríaG444
+- Col_1:28a fin de presentar perfecto...a todo hG444
+- Col_2:8nadie os engañe...tradiciones de los hG444
+- Col_2:22en conformidad a mandamientos y...de hG444
+- Col_3:9habiéndoos despojado del viejo h con susG444
+- Col_3:22como los que quieren agradar a los hG444
+- Col_3:23todo...como para el Señor y no para los hG444
+- 1Ts_2:4no como para agradar a los h, sinoG444
+- 1Ts_2:6ni buscamos gloria de los h; ni de otrosG444
+- 1Ts_2:13recibisteis no como palabra de h, sinoG444
+- 1Ts_2:15no agradan...y se oponen a todos los hG444
+- 1Ts_4:8el que desecha esto, no desecha a h, sinoG444
+- 2Ts_2:3se manifieste el h de pecado, el hijoG444
+- 2Ts_3:2seamos librados de h perversos y malosG444
+- 1Ti_2:1acciones de gracias, por todos los hG444
+- 1Ti_2:4cual quiere que todos los h sean salvosG444
+- 1Ti_2:5mediador entre Dios y...h, Jesucristo hG444
+- 1Ti_2:8quiero pues, que los h oren en todo lugarG435
+- 1Ti_2:12ejercer dominio sobre el h, sino estarG435
+- 1Ti_4:10el Dios...es Salvador de todos los hG444
+- 1Ti_5:24pecados de algunos h se hacen patentesG444
+- 1Ti_6:5disputas necias de h corruptos deG444
+- 1Ti_6:9hunden a los h en destrucción y perdiciónG444
+- 1Ti_6:11tú, oh h de Dios, huye de estas cosasG444
+- 1Ti_6:16a quien ninguno de los h ha visto niG444
+- 2Ti_2:2encarga a h fieles que sean idóneosG444
+- 2Ti_3:2habrá h amadores de si mismos, avarosG444
+- 2Ti_3:8h corruptos de entendimiento, réprobosG444
+- 2Ti_3:13mas los malos h...irán de mal en peorG444
+- 2Ti_3:17a fin de que el h de Dios sea perfectoG444
+- Tit_1:14a mandamientos de h que se apartanG444
+- Tit_2:11gracia...para salvación a todos los hG444
+- Tit_3:2toda mansedumbre para con todos los hG444
+- Tit_3:4se manifestó la...su amor para con los hG5363
+- Tit_3:8estas cosas son buenas y útiles a los hG444
+- Tit_3:10al h que cause divisiones...deséchaloG444
+- Heb_2:6¿qué es el h...o el hijo del h, para queG444
+- Heb_5:1todo sumo sacerdote tomado de entre los hG444
+- Heb_5:1es constituido a favor de los h en lo queG444
+- Heb_6:16los h...juran por uno mayor que ellosG444
+- Heb_7:8y aquí...reciben los diezmos h mortalesG444
+- Heb_7:28ley constituye...sacerdotes a débiles hG444
+- Heb_8:2tabernáculo...levantó el Señor y no el hG444
+- Heb_9:27está establecido para los h que mueranG444
+- Heb_13:6no temeré lo que me pueda hacer el hG444
+- Stg_1:8el h de doble ánimo es inconstante enG435
+- Stg_1:19todo h sea pronto para oír, tardo paraG444
+- Stg_1:20ira del h no obra la justicia de DiosG435
+- Stg_1:23es semejante al h que considera en unG435
+- Stg_2:2entra un h con anillo de oro y con ropaG435
+- Stg_2:20quieres saber, h vano, que la fe sinG444
+- Stg_2:24que el h es justificado por las obrasG444
+- Stg_3:8ningún h puede domar la lengua, que esG444
+- Stg_3:9con ella maldecimos a los h, que estánG444
+- Stg_5:17Elías era h sujeto a pasiones...y oróG444
+- 1Pe_1:24gloria del h como flor de la hierbaG444
+- 1Pe_2:4él, piedra viva, desechada...por los hG444
+- 1Pe_2:15hagáis callar la ignorancia de los hG444
+- 1Pe_4:2no vivir...las concupiscencias de los hG444
+- 1Pe_4:6que sean juzgados en carne según los hG444
+- 2Pe_1:21los santos h de Dios hablaron siendoG444
+- 2Pe_2:16bestia de carga, hablando con voz de hG444
+- 2Pe_3:7día del juicio y de la...de los h impíosG444
+- 1Jn_5:9si recibimos el testimonio de los hG444
+- Jud_1:4algunos h han entrado encubiertamenteG444
+- Jud_1:4h impíos, que convierten en libertinaje la
+- Rev_1:13uno semejante al Hijo del H, vestidoG444
+- Rev_4:7el tercero tenía rostro como de h; y elG444
+- Rev_8:11muchos h murieron a causa de esas aguasG444
+- Rev_9:4los h que no tuviesen el sello de DiosG444
+- Rev_9:5tormento de escorpión cuando hiere al hG444
+- Rev_9:6aquellos días los h buscarán la muerteG444
+- Rev_9:10para dañar a los h durante cinco mesesG444
+- Rev_9:15fin de matar a la tercera parte de los hG444
+- Rev_9:18fue muerta la tercera parte de los hG444
+- Rev_9:20y los otros h que no fueron muertos conG444
+- Rev_11:13murieron en número de siete mil h; yG444
+- Rev_13:13descender fuego del...delante de los hG444
+- Rev_13:18el número de la bestia...es número de hG444
+- Rev_14:4redimidos de entre los h como primiciasG444
+- Rev_14:14uno sentado semejante al Hijo del HG444
+- Rev_16:2vino una úlcera maligna...sobre los h queG444
+- Rev_16:8cual fue dado quemar a los h con fuegoG444
+- Rev_16:9y los h se quemaron con el gran calorG444
+- Rev_16:18no...desde que los h han estado sobre laG444
+- Rev_16:21cayó...sobre los h un enorme granizoG444
+- Rev_16:21los h blasfemaron contra Dios por laG444
+- Rev_18:13ovejas, caballos...esclavos, almas de hG444
+- Rev_21:3aquí el tabernáculo de Dios con los hG444
+- Rev_21:17de medida de h, la cual es de ángelG444

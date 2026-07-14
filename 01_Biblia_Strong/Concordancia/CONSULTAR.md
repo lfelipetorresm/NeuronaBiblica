@@ -1,0 +1,76 @@
+---
+tipo: concordancia
+palabra: CONSULTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONSULTAR
+
+- Gén_25:22los hijos luchaban...fue a consultarH1875
+- Éxo_18:15el pueblo viene a mí para consultarH1875
+- Lev_19:31no los consultéis contaminándoos conH1245
+- Núm_27:21le consultará por el juicio del Urim
+- Deu_18:11ni...ni quien consulte a los muertosH7592
+- Jos_9:14tomaron...y no consultaron a Jehová
+- Jue_1:1hijos de Israel consultaron a JehováH7592
+- Jue_20:18consultaron a Dios...¿Quién subirá deH7592
+- Jue_20:23consultaron a Jehová...¿Volveremos aH7592
+- 1Sa_9:9que iba a consultar a Dios, decía asíH1875
+- 1Sa_14:37Saúl consultó a Dios: ¿Descenderé trasH7592
+- 1Sa_22:10el cual consultó por él a Jehová y leH7592
+- 1Sa_22:13diste pan...consultaste por él a DiosH7592
+- 1Sa_22:15¿he comenzado yo...a consultar por élH7592
+- 1Sa_23:2David consultó a Jehová, diciendo: ¿IréH7592
+- 1Sa_23:4David volvió a consultar a JehováH7592
+- 1Sa_28:6consultó Saúl a Jehová; pero Jehová noH7592
+- 1Sa_30:8David consultó a Jehová...¿Perseguiré aH7592
+- 2Sa_2:1consultó a Jehová, diciendo: ¿SubiréH7592
+- 2Sa_5:19consultó David a Jehová...¿Iré contraH7592
+- 2Sa_5:23consultando David a Jehová...respondióH7592
+- 2Sa_16:23como si se consultase la palabra deH7592
+- 2Sa_21:1David consultó a Jehová, y Jehová leH1245
+- 1Re_14:5vendrá a consultarte por su hijo, queH1245
+- 1Re_22:5ruego que consultes hoy la palabra deH1875
+- 1Re_22:7algún profeta...por el cual consultemos?[[H1875]]
+- 1Re_22:8un varón por el cual podríamos consultarH1875
+- 2Re_1:2y consultad a Baal-zebub dios de EcrónH1875
+- 2Re_1:3, 2Re_1:6, 2Re_1:16a consultar a Baal-zebub dios deH1875
+- 2Re_1:16¿no hay Dios en Israel para consultar enH1875
+- 2Re_3:11consultemos a Jehová por medio de él?[[H1875]]
+- 2Re_6:8consultando con sus siervos, dijo: En talH3289
+- 2Re_8:8vé a recibir...y consulta por él a JehováH3289
+- 2Re_16:15altar de bronce será...para consultarH3289
+- 1Cr_10:13murió Saúl...consultó a una adivinaH3289
+- 1Cr_10:14no consultó a Jehová; por esta causaH3289
+- 1Cr_14:10consultó a Dios, diciendo: ¿SubiréH7592
+- 1Cr_14:14volvió a consultar a Dios, y Dios leH7592
+- 1Cr_21:30David no pudo ir allá a consultar aH1875
+- 2Cr_1:5el altar...fue a consultar SalomónH1875
+- 2Cr_18:4te ruego que consultes hoy la palabraH1875
+- 2Cr_20:3humilló su rostro para consultar aH1875
+- 2Cr_33:6consultaba a adivinos y encantadoresH6213
+- 2Cr_34:21consultad a Jehová por mí y por elH1875
+- 2Cr_34:26rey...que os ha enviado a consultar aH1875
+- Esd_2:63sacerdote para consultar con Urim yH5975
+- Neh_6:7ven, por tanto, y consultemos juntosH3289
+- Sal_2:2príncipes consultarán unidos contraH3245
+- Sal_31:13consultan juntos contra mí e ideanH3245
+- Sal_62:4solamente consultan para arrojarle deH3289
+- Sal_71:10los que acechan mi alma consultaronH3289
+- Sal_83:3contra tu pueblo han consultado astutaH5475
+- Isa_8:19¿no consultará el pueblo a su Dios?[[H1875]]
+- Isa_8:19¿consultará a...muertos por los vivos?[[H1875]]
+- Isa_45:21proclamad...y entren todos en consultaH3289
+- Jer_21:2consulta ahora acerca de nosotros aH1875
+- Jer_37:7os envió a mí para que me consultaseisH1875
+- Eze_14:3he de ser yo...consultado por ellos?[[H1875]]
+- Eze_14:10como la maldad del que consultare, asíH1875
+- Eze_20:1vinieron algunos...a consultar a JehováH1875
+- Eze_20:3¿a consultarme venís vosotros? Vivo yoH1875
+- Eze_21:21consultó a sus ídolos, miró el hígadoH7592
+- Dan_1:20todo asunto...que el rey les consultóH1245
+- Sof_1:6que no buscaron a...ni le consultaronH1875
+- Mat_22:15se fueron los fariseos y consultaronG4824
+- Mat_27:7y después de consultar, compraron conG4824
+- Gál_1:16no consulté en seguida con carne yG4323

@@ -1,0 +1,125 @@
+---
+tipo: concordancia
+palabra: CRIADO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CRIADO
+
+- Véase también Criada
+- Gén_14:14armó a sus c, los nacidos en su casa
+- Gén_18:7al c, y éste se dio prisa a prepararloH5288
+- Gén_24:2dijo Abraham a un c suyo, el más viejoH5650
+- Gén_24:5c le respondió: Quizá la mujer no querráH5650
+- Gén_24:9el c puso su mano debajo del muslo deH5650
+- Gén_24:10el c tomó diez camellos...de su señorH5650
+- Gén_24:17el c corrió hacia ella, y dijo: Te ruegoH5650
+- Gén_24:34entonces dijo: Yo soy c de AbrahamH5650
+- Gén_24:52cuando el c de Abraham oyó...palabrasH5650
+- Gén_24:53sacó el c alhajas de plata y...de oroH5650
+- Gén_24:59dejaron ir a Rebeca...y al c de AbrahamH5650
+- Gén_24:61entonces...el c tomó a Rebeca, y se fueH5650
+- Gén_24:65había preguntado al c: ¿Quién es esteH5650
+- Gén_24:65el c había respondido: Este es mi señorH5650
+- Gén_24:66el c contó a Isaa c todo lo que habíaH5650
+- Gén_26:15los pozos que habían abierto los c deH5650
+- Gén_26:32vinieron los c de Isaac, y le dieronH5650
+- Gén_50:23fueron c sobre las rodillas de JoséH3205
+- Éxo_9:20hizo huir sus c y su ganado a casaH5650
+- Éxo_9:21dejó sus c y sus ganados en el campoH5650
+- Lev_25:6dará para comer...a tu sierva, a tu cH5650
+- Lev_25:40como c, como extranjero estará contigoH7916
+- Lev_25:50conforme al tiempo de un c asalariadoH7916
+- Núm_22:22iba...montado...y con él dos c suyosH5288
+- Jue_7:10baja tú con Fura tu c al campamentoH5288
+- Jue_7:11él descendió con Fura su c hasta losH5288
+- Jue_19:3llevaba consigo un c, y un par de asnosH5288
+- Jue_19:9para irse, él y su concubina y su cH5288
+- Jue_19:11y dijo el c a su señor: Ven ahora, yH5288
+- Jue_19:12que pasaremos hasta Gabaa. Y dijo a su cH5288
+- Jue_19:19pan...para el c que está con tu siervoH5288
+- Rut_2:5dijo a su c...¿De quién es esta joven?[[H5288]]
+- Rut_2:6y el c...respondió y dijo: Es la...moabitaH5288
+- Rut_2:9yo he mandado a los c que no te molestenH5288
+- Rut_2:9vé a las...y bebe del agua que sacan los cH5288
+- Rut_2:15a sus c, diciendo: Que recoja espigasH5288
+- 1Sa_2:13venía el c del sacerdote mientras seH5288
+- 1Sa_2:15venía el c...y decía al que sacrificabaH5288
+- 1Sa_9:3toma...alguno de los c, y levántate, y véH5650
+- 1Sa_9:5Saúl dijo a su c...Ven, volvámonos, porqueH5288
+- 1Sa_9:7respondió Saúl a su c...¿qué llevaremos alH5288
+- 1Sa_9:8volvió el c a responder a Saúl, diciendoH5288
+- 1Sa_9:10dijo entonces Saúl a su c: Dices bienH5288
+- 1Sa_9:22entonces Samuel tomó a Saúl y a su c; losH5288
+- 1Sa_9:27al c que se adelante...se adelantó el cH5288
+- 1Sa_10:14un tío de Saúl dijo a él Y a su c; ¿AH5288
+- 1Sa_14:1dijo a su c que le traía las armas: VenH5288
+- 1Sa_16:15los c de Saúl le dijeron: He aquí ahoraH5650
+- 1Sa_16:17Saúl respondió la sus c: Buscadme, puesH5650
+- 1Sa_16:18uno de los c respondió...he visto a unH5288
+- 1Sa_18:23los c de Saúl hablaron estas palabrasH5650
+- 1Sa_18:24y los c de Saúl le dieron la respuestaH5650
+- 1Sa_20:21al c, diciéndole: Ve...busca las saetasH5288
+- 1Sa_20:21si dijere al c: He allí las saetas másH5288
+- 1Sa_21:2y yo les señalé a los c un cierto lugarH5288
+- 1Sa_21:4pero lo daré si los c se han guardado aH5288
+- 1Sa_25:8pregunta a tus c, y ellos te lo diránH5650
+- 1Sa_25:14pero uno de los c dio aviso a AbigailH5288
+- 1Sa_25:19dijo a su c: Id delante de mí, y yo osH5288
+- 1Sa_26:22lanza...pase acá uno de los c Y tómelaH5288
+- 1Sa_28:7Saúl dijo a sus c: Buscadme una mujerH5650
+- 1Sa_28:7sus c le respondieron: He aquí hay unaH5650
+- 2Sa_12:3había comprado y c, y queH7069
+- 2Sa_13:17llamando a su c...le dijo: Echame aH5288
+- 2Sa_13:18su c, pues, la echó fuera, y cerró laH8334
+- 2Sa_13:28y Absalón había dado orden a sus cH5288
+- 2Sa_13:29y los c de Absalón hicieron con AmnónH5288
+- 2Sa_13:31sus c...también rasgaron sus vestidos
+- 2Sa_16:1aquí Siba el c de Mefi-boset, que salíaH5288
+- 2Sa_16:2panes y las pasas para que coman los cH5288
+- 2Sa_17:20llegando...los c de Absalón a la casa deH5650
+- 2Sa_19:17asimismo Siba, c de la casa de Saúl, conH5288
+- 1Re_9:22sus c, sus príncipes, sus capitanesH5650
+- 1Re_10:13y ella...se fue a su tierra con sus cH5650
+- 1Re_12:8jóvenes que se habían c con élH1431
+- 1Re_12:10los jóvenes que se habían c con élH1431
+- 1Re_18:43dijo a su c: Sube ahora, y mira haciaH5288
+- 1Re_19:3y vino a Beerseba...dejó allí a su cH5288
+- 2Re_4:12a Giezi su c: Llama a esta sunamitaH5288
+- 2Re_4:19padre dijo a un c: Llévalo a su madreH5288
+- 2Re_4:22envíes conmigo a alguno de los c y unaH5288
+- 2Re_4:24y dijo al c: Guía y anda...y no me hagasH5288
+- 2Re_4:25dijo a su c Giezi: He aquí la sunamitaH5288
+- 2Re_4:38dijo a su c: Pon una y grande, y hazH5288
+- 2Re_5:13sus c...le hablaron diciendo: Padre míoH5650
+- 2Re_5:20Giezi, c de Eliseo el varón de Dios, dijoH5288
+- 2Re_5:23lo puso todo a cuestas a dos de su cH5650
+- 2Re_6:15entonces su c le dijo: ¡Ah, señor mío![[H8334]]
+- 2Re_6:17Jehová abrió los ojos del c, y miróH5228
+- 2Re_8:4hablado con Giezi, c del varón de DiosH5288
+- 2Cr_9:4el estado de sus c y los vestidos deH5650
+- Neh_4:22cada uno con su c permanezca dentroH5288
+- Neh_5:10yo...y mis c les hemos prestado dineroH5288
+- Neh_5:15y aun sus c se enseñoreaban del puebloH5288
+- Neh_5:16y mis c juntos estaban allí en la obraH5288
+- Neh_6:5Sanbalat envió a mí su c para decir loH5288
+- Neh_13:19puse a las puertas algunos de mis cH5288
+- Est_2:2dijeron los c del rey, sus cortesanosH5288
+- Job_1:3quinientas asnas, y muchísimos c; y eraH5657
+- Job_1:15, Job_1:17y mataron a los c a filo de espadaH5288
+- Jer_14:3enviaron sus c al agua...y no hallaronH6810
+- Jer_21:7entregaré a Sedequías rey...a sus c, alH5650
+- Jer_22:4entrarán montados...y sus c y su puebloH5650
+- Mat_8:6Señor, mi c está postrado...paralíticoG3816
+- Mat_8:8solamente dí la palabra, y mi c sanaráG3816
+- Mat_8:13y su c fue sanado en aquella misma horaG3816
+- Mat_14:2dijo a sus c: Este es Juan el BautistaG3816
+- Luc_12:45comenzare a golpear a los c y a lasG3816
+- Luc_15:26llamando a uno de los c, le preguntóG3816
+- Hec_7:20fue c tres meses en casa de su padreG397
+- Hec_10:7llamó a dos de sus c, y a un devotoG3610
+- Hec_13:1el que se había c junto con HerodesG4939
+- Hec_22:3nacido en Tarso de Cilicia, pero c enG4939
+- Rom_14:4tú quién eres, que juzgas al c ajeno?[[G3610]]
+- 1Pe_2:18c, estad sujetos con...a vuestros amosG3610

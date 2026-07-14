@@ -1,0 +1,104 @@
+---
+tipo: concordancia
+palabra: AFLICCIÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AFLICCIÓN
+
+- Gén_16:11Ismael, porque Jehová ha oído tu aH6040
+- Gén_29:32concibió Lea...Ha mirado Jehová mi aH6040
+- Gén_31:42Dios vio mi a y el trabajo de...manosH6040
+- Gén_41:52hizo fructificar en la tierra de mi aH6040
+- Éxo_3:7he visto la a de mi pueblo...en EgiptoH6040
+- Éxo_3:17yo os sacaré de la a de Egipto, a laH6040
+- Éxo_4:31y que había visto su a, se inclinaronH6040
+- Éxo_5:19entonces los capataces...se vieron en aH7451
+- Deu_16:3pan de a...aprisa saliste de...EgiptoH6040
+- Deu_26:7Jehová...vio nuestra a, nuestro trabajoH6040
+- Deu_32:35porque el día de su a está cercano, yH343
+- Jue_2:15estaba contra ellos...tuvieron gran aH3334
+- Jue_10:14os libren ellos en el tiempo de...aH6869
+- Jue_10:16angustiado a causa de la a de IsraelH5999
+- Jue_11:7venís ahora a mí cuando estáis en a?[[H6862]]
+- 1Sa_1:11dignares mirar a la a de tu siervaH6040
+- 1Sa_1:16de mis congojas y de mi a he habladoH3708
+- 1Sa_10:19que os guarda de todas vuestras a yH7451
+- 1Sa_26:24ojos de Jehová, y me libre de toda aH6869
+- 2Sa_16:12quizá mirará Jehová mi a y me daráH6040
+- 1Re_22:27con pan de angustia y con agua de aH3905
+- 2Re_13:4Jehová lo oyó...miró la a de IsraelH3906
+- 2Re_14:26Jehová miró la muy amarga a de IsraelH6040
+- 1Cr_7:23por cuanto había estado en a en suH7451
+- 2Cr_15:5sino...a sobre los habitantes de lasH4103
+- 2Cr_18:26sustentadle con pan de a y agua deH3905
+- Esd_9:5hora del sacrificio...levanté de mi aH8589
+- Neh_9:9y miraste la a de nuestros padres enH6040
+- Job_5:6porque la a no sale del polvo, ni laH205
+- Job_5:7como las...así el hombre nace para la aH5999
+- Job_22:23volvieres...alejarás de tu tienda la aH5766
+- Job_30:16ahora...días de a se apoderan de míH6040
+- Job_30:27agitan...días de a me han sobrecogidoH6040
+- Job_36:8y aprisionados en las cuerdas de aH6040
+- Job_36:15librará...y en la a despertará su oídoH6040
+- Job_36:21pues ésta escogiste más bien que la aH6040
+- Job_42:10quitó Jehová la a de Job, cuando élH7622
+- Sal_9:13mira mi a que padezco a causa de lasH6040
+- Sal_22:24no menospreció ni...la a del afligidoH6039
+- Sal_25:18mira mi a y mi trabajo, y perdonaH6040
+- Sal_31:7me gozaré y alegraré...has visto mi aH6040
+- Sal_34:19muchas son las a del justo, pero deH7451
+- Sal_44:24¿por qué...te olvidas de nuestra a, yH6040
+- Sal_88:9mis ojos enfermaron a causa de mi aH6040
+- Sal_94:13hacerle descansar en los días de aH7451
+- Sal_107:6, Sal_107:13, Sal_107:19clamaron...y los libró de sus aH4691
+- Sal_107:10aprisionados en a y en hierrosH6040
+- Sal_107:28claman a Jehová...los libra de sus aH4691
+- Sal_119:50ella es mi consuelo en mi a, porqueH6040
+- Sal_119:92si tu ley...en mi a hubiera perecidoH6040
+- Sal_119:143a y angustia se han apoderado de míH6862
+- Sal_119:153mira mi a, y líbrame, porque de tuH6040
+- Sal_132:1acuérdate...de David, y de toda su aH6031
+- Pro_27:10ni vayas a la casa...el día de tu aH343
+- Ecl_1:14todo ello es vanidad y a de espírituH7469
+- Ecl_1:17conocí que aun esto era a de espírituH7475
+- Ecl_2:11aquí, todo era vanidad y a de espírituH7469
+- Ecl_2:17cuanto todo es vanidad y a de espírituH7469
+- Ecl_2:26; Ecl_4:4esto es vanidad y a de espírituH7469
+- Ecl_4:6que ambos puños llenos con trabajo y aH7469
+- Ecl_4:16esto es también vanidad y a de espírituH7475
+- Ecl_6:9también esto es vanidad y a de espírituH7469
+- Isa_9:1en angustia, tal como la a que le vinoH4164
+- Isa_25:4fuiste...fortaleza al menesteroso en su aH2230
+- Isa_48:10he aquí...te he escogido en horno de aH6040
+- Isa_53:11verá el fruto de la a de su alma, yH5999
+- Isa_57:1de delante de la a es quitado el justoH7451
+- Jer_2:28podrán librar en el tiempo de tu aH7451
+- Jer_11:14no oiré en el día que en su a clamenH7451
+- Jer_14:8Guardador suyo en el tiempo de la aH6869
+- Jer_15:11en tiempo de a y en época de angustiaH6869
+- Jer_16:19y refugio mío en el tiempo de la aH6869
+- Jer_28:8profetizaron...a y pestilencia contraH7451
+- Lam_1:3a causa de la a y de la...servidumbreH6040
+- Lam_1:7se acordó de los días de su a, y de susH6040
+- Lam_1:9mira, oh Jehová, mi a, porque el enemigoH6040
+- Lam_3:1yo soy el hombre que ha visto a bajo elH6040
+- Lam_3:19acuérdate de mi a y de mi abatimientoH6040
+- Eze_35:5poder de la espada en el tiempo de su aH343
+- Hab_3:7he visto las tiendas de Cusán en aH205
+- Mat_13:21pues al venir la a o...luego tropiezaG2347
+- Jua_16:33el mundo tendréis a; pero confiadG2347
+- Hec_7:34he visto la a de mi pueblo que estáG2561
+- Rom_8:18que las a del tiempo presente no sonG3804
+- 1Co_7:28pero los tales tendrán a de la carneG2347
+- 2Co_1:5abundan en nosotros las a de CristoG3804
+- 2Co_1:6cual se opera en el sufrir las mismas aG3804
+- 2Co_1:7que así como sois compañeros en las aG3804
+- Flp_1:16pensando añadir a a mis prisionesG2347
+- Col_1:24cumplo...que falta de las a de CristoG2347
+- 1Ts_3:7en medio de...a fuimos consolados deG2347
+- 2Ti_1:8participa de las a por el evangelioG4777
+- 2Ti_4:5soporta las a, haz obra de evangelistaG2553
+- Heb_2:10perfeccionase por a al autor de laG3804
+- Stg_5:10tomad como ejemplo de a a...profetasG2552

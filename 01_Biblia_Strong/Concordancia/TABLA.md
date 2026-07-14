@@ -1,0 +1,86 @@
+---
+tipo: concordancia
+palabra: TABLA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TABLA
+
+- Éxo_24:12sube...te daré t de piedra, y la leyH3871
+- Éxo_26:15harás para el tabernáculo t de maderaH7175
+- Éxo_26:16longitud de cada t será de diez codosH7175
+- Éxo_26:17tendrá cada t...así harás todas las tH7175
+- Éxo_26:18las t del tabernáculo; veinte t al ladoH7175
+- Éxo_26:19cuarenta basas...debajo de las veinte tH7175
+- Éxo_26:19, Éxo_26:21, Éxo_26:25basas debajo de una t...otra tH7175
+- Éxo_26:20al otro lado del tabernáculo...veinte tH7175
+- Éxo_26:22posterior...al occidente, harás seis tH7175
+- Éxo_26:23harás además dos t para las esquinasH7175
+- Éxo_26:25suerte que serán ocho t, con sus basasH7175
+- Éxo_26:26para las t de un lado del tabernáculoH7175
+- Éxo_26:27t del otro lado...t del lado posteriorH7175
+- Éxo_26:28la barra...pasará por en medio de las tH7175
+- Éxo_26:29y cubrirás de oro las t, y harás susH3871
+- Éxo_27:8lo harás hueco, de t; de la manera queH3871
+- Éxo_31:18t de testimonio, t de piedra escritasH3871
+- Éxo_32:15dos t...las t escritas por ambos ladosH3871
+- Éxo_32:16t eran obra de Dios, y la escrituraH3871
+- Éxo_32:16escritura de Dios grabada sobre las tH3871
+- Éxo_32:19arrojó las t de sus manos, y las quebróH3871
+- Éxo_34:1t de piedra...y escribiré sobre esas tH3871
+- Éxo_34:1palabras que estaban en las t primerasH3871
+- Éxo_34:4Moisés alisó dos t...como las primerasH3871
+- Éxo_34:4y llevó en su mano las dos t de piedraH3871
+- Éxo_34:28y escribió en t las palabras del pactoH3871
+- Éxo_34:29descendiendo Moisés...con las dos t delH3871
+- Éxo_35:11sus t, sus barras, sus columnas y susH7175
+- Éxo_36:20además hizo para el tabernáculo las tH7175
+- Éxo_36:21longitud de cada t era de diez codosH7175
+- Éxo_36:22t tenía dos espigas, para unirlas unaH7175
+- Éxo_36:22así hizo todas las t del tabernáculoH7175
+- Éxo_36:23hizo...las t...veinte t al lado del surH7175
+- Éxo_36:24cuarenta basas de...debajo de las 20 tH7175
+- Éxo_36:24, Éxo_36:26dos basas debajo de una t...otra tH7175
+- Éxo_36:25para el otro lado del...hizo otras 20 tH7175
+- Éxo_36:27y para el lado occidental...hizo seis tH7175
+- Éxo_36:28esquinas...en los dos lados hizo dos tH7175
+- Éxo_36:30ocho t, y...dos basas debajo de cada tH7175
+- Éxo_36:31las barras...para las t de un lado delH7175
+- Éxo_36:32para las t...las t del lado posteriorH7175
+- Éxo_36:33la barra...pasase por en medio de las tH7175
+- Éxo_36:34cubrió de oro las t, e hizo de oro losH7175
+- Éxo_38:7los lados del altar...hueco lo hizo, de tH3871
+- Éxo_39:33sus t, sus barras, sus columnas, susH7175
+- Éxo_40:18y colocó sus t, y puso sus barras, eH7175
+- Núm_3:36a cargo...estará la custodia de las tH7175
+- Núm_4:31será el deber de...las t del tabernáculoH7175
+- Deu_4:13; Deu_5:22los escribió en dos t de piedraH3871
+- Deu_9:9t de piedra, las t del pacto que JehováH3871
+- Deu_9:10y me dio...dos t de piedra escritas conH3871
+- Deu_9:11me dio las dos t de piedra...t del pactoH3871
+- Deu_9:15y descendí...con las t del pacto en misH3871
+- Deu_9:17tomé las...t y las arrojé de mis...manosH3871
+- Deu_10:1Jehová me dijo: Lábrate dos t de piedraH3871
+- Deu_10:2y escribiré en aquellas t las palabrasH3871
+- Deu_10:2estaban en las primeras t que quebrasteH3871
+- Deu_10:3labré dos t...subí al monte con las dos tH3871
+- Deu_10:4escribió en las t conforme a la primeraH3871
+- Deu_10:5y puse las t en el arca que había hechoH3871
+- 1Re_6:15y cubrió las paredes...con t de cedroH6763
+- 1Re_6:16hizo...un edificio...de t de cedro desdeH6763
+- 1Re_7:3y estaba cubierta de t de cedro arribaH730
+- 1Re_7:36hizo en las t...entalladuras...de leonesH3871
+- 1Re_8:9ninguna cosa...sino las dos t de piedraH3871
+- 2Cr_5:10las dos t que Moisés había puestoH3871
+- Pro_3:3átalas a tu cuello, escríbelas en la tH3871
+- Pro_7:3dedos; escríbelos en la t de tu corazónH3871
+- Cnt_8:9si...la guarneceremos con t de cedroH3871
+- Isa_8:1toma una t grande, y escribe en ellaH1549
+- Isa_30:8vé, pues...escribe esta visión en una tH3871
+- Jer_17:1esculpido está en la t de su corazónH3871
+- Hab_2:2escribe la visión, y declárala en tH3871
+- Hab_2:11y la t del enmaderado le responderáH3714
+- Hec_27:44parte en t, parte...cosas de la naveG4548
+- 2Co_3:3no en t de piedra, sino en t de carneG4109
+- Heb_9:4estaba una urna de...y las t del pactoG4109

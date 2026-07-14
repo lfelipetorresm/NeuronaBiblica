@@ -1,0 +1,141 @@
+---
+tipo: concordancia
+palabra: SAMUEL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SAMUEL
+
+- Profeta y último juez de Israel
+- 1Sa_1:20puso por nombre S, diciendo...lo pedíH8050
+- 1Sa_2:18S ministraba en la presencia de JehováH8050
+- 1Sa_2:21y el joven S crecía delante de JehováH8050
+- 1Sa_2:26el joven S iba creciendo, y era aceptoH8050
+- 1Sa_3:1S ministraba a Jehová en presencia de ElíH8050
+- 1Sa_3:3S estaba durmiendo en el templo de JehováH8050
+- 1Sa_3:4Jehová llamó a S; y él respondió: HemeH8050
+- 1Sa_3:6a llamar otra vez a S...Y levantándose SH8050
+- 1Sa_3:7y S no había conocido aún a Jehová, niH8050
+- 1Sa_3:8Jehová, pues, llamó la tercera vez a SH8050
+- 1Sa_3:9Elí a S: Ve y acuéstate; y si te llamareH8050
+- 1Sa_3:9así se fue S, y se acostó en su lugarH8050
+- 1Sa_3:10y llamó...¡S, S! Entonces S dijo: HablaH8050
+- 1Sa_3:11a S: He aquí haré yo una cosa en IsraelH8050
+- 1Sa_3:15y S estuvo acostado hasta la mañana, yH8050
+- 1Sa_3:15y S temía descubrir la visión a ElíH8050
+- 1Sa_3:16llamando...Elí a S, le dijo: Hijo mío, SH8050
+- 1Sa_3:18S se lo manifestó todo, sin encubrirleH8050
+- 1Sa_3:19S creció, y Jehová estaba con él, y noH8050
+- 1Sa_3:20Israel...conoció que S era fiel profetaH8050
+- 1Sa_3:21Jehová se manifestó a S en Silo por laH8050
+- 1Sa_4:1S habló a todo Israel...Por aquel tiempoH8050
+- 1Sa_7:3habló S a...la casa de Israel, diciendoH8050
+- 1Sa_7:5y S dijo: Reunid a todo Israel en MizpaH8050
+- 1Sa_7:6y juzgó S a los hijos de Israel en MizpaH8050
+- 1Sa_7:8dijeron...Israel a S: No ceses de clamarH8050
+- 1Sa_7:9S tomó un cordero...clamó S a Jehová porH8050
+- 1Sa_7:10que mientras S sacrificaba el holocaustoH8050
+- 1Sa_7:12tomó luego S una piedra y la puso entreH8050
+- 1Sa_7:13contra los filisteos todos los días de 5H8050
+- 1Sa_7:15juzgó S a Israel...el tiempo que vivióH8050
+- 1Sa_8:1habiendo S envejecido, puso a sus hijosH8050
+- 1Sa_8:4ancianos...vinieron a Ramá para ver a SH8050
+- 1Sa_8:6pero no agradó a S esta...S oró a JehováH8050
+- 1Sa_8:7dijo Jehová a S: Oye la voz del puebloH8050
+- 1Sa_8:10refirió S todas las palabras de JehováH8050
+- 1Sa_8:19pero el pueblo no quiso oír la voz de SH8050
+- 1Sa_8:21y oyó S todas las palabras del puebloH8050
+- 1Sa_8:22Jehová dijo a S: Oye su voz, y pon reyH8050
+- 1Sa_8:22dijo S...Idos cada uno a vuestra ciudadH8050
+- 1Sa_9:14he aquí S venía hacia ellos para subirH8050
+- 1Sa_9:15había revelado al oído de S, diciendoH8050
+- 1Sa_9:17luego que S vio a Saúl, Jehová le dijoH8050
+- 1Sa_9:18acercándose, pues, Saúl a S en medio deH8050
+- 1Sa_9:19y S respondió a Saúl, diciendo: Yo soyH8050
+- 1Sa_9:22entonces S tomó a Saúl y a su criado, losH8050
+- 1Sa_9:23dijo S al cocinero: Trae acá la porciónH8050
+- 1Sa_9:24S dijo...come...y Saúl comió...día con SH8050
+- 1Sa_9:26S llamó a Saúl...salieron ambos, él y SH8050
+- 1Sa_9:27S a Saúl: Di al criado que se adelanteH8050
+- 1Sa_10:1tomando entonces S una redoma de aceiteH8050
+- 1Sa_10:9volver él la espalda para apartarse de SH8050
+- 1Sa_10:14como vimos que no parecían, fuimos a SH8050
+- 1Sa_10:15yo te ruego me declares qué os dijo SH8050
+- 1Sa_10:16del reino, de que S le había habladoH8050
+- 1Sa_10:17S convocó al pueblo delante...en MizpaH8050
+- 1Sa_10:20haciendo S que se acercasen todas lasH8050
+- 1Sa_10:24S dijo a todo el pueblo: ¿Habéis vistoH8050
+- 1Sa_10:25S recitó luego al pueblo las leyes delH8050
+- 1Sa_10:26envió S...el pueblo cada uno a su casaH8050
+- 1Sa_11:7del que no saliere en pos de Saúl y...SH8050
+- 1Sa_11:12el pueblo...dijo a S: ¿Quiénes son losH8050
+- 1Sa_11:14S dijo al pueblo: Venid, vamos a GilgalH8050
+- 1Sa_12:1dijo S...He aquí, yo he oído vuestra vozH8050
+- 1Sa_12:6S dijo al pueblo: Jehová que designó aH8050
+- 1Sa_12:11envió a Jerobaal, a Barac, a Jefté y a SH8050
+- 1Sa_12:18S clamó a Jehová, y Jehová dio truenosH8050
+- 1Sa_12:18y todo el pueblo tuvo gran temor de...SH8050
+- 1Sa_12:19dijo todo el pueblo a S: Ruega por tusH8050
+- 1Sa_12:20y S respondió al pueblo: No temáisH8050
+- 1Sa_13:8al plazo que S había dicho...S no veníaH8050
+- 1Sa_13:10cuando él acababa de ofrecer el...aquí SH8050
+- 1Sa_13:11entonces S dijo: ¿Qué has hecho?[[H8050]]
+- 1Sa_13:13S dijo a Saúl: Locamente has hecho; noH8050
+- 1Sa_13:15y levantándose S, subió de Gilgal aH8050
+- 1Sa_15:1S dijo a Saúl: Jehová me envió a que teH8050
+- 1Sa_15:10y vino palabra de Jehová a S, diciendoH8050
+- 1Sa_15:11y se apesadumbró S, y clamó a JehováH8050
+- 1Sa_15:12madrugó...S para ir...fue dado aviso a SH8050
+- 1Sa_15:13vino, pues, S a Saúl, y Saúl le dijoH8050
+- 1Sa_15:14S...dijo: ¿Pues qué balido de ovejas yH8050
+- 1Sa_15:16dijo S a Saúl: Déjame declararte lo queH8050
+- 1Sa_15:17y dijo S: Aunque eras pequeño en tusH8050
+- 1Sa_15:20respondió a S: Antes bien he obedecidoH8050
+- 1Sa_15:22S dijo: ¿Se complace Jehová tanto enH8050
+- 1Sa_15:24Saúl dijo a S: Yo he pecado; pues heH8050
+- 1Sa_15:26S respondió a Saúl: No volveré contigoH8050
+- 1Sa_15:27volviéndose S para irse, él se asió deH8050
+- 1Sa_15:28S le dijo: Jehová ha rasgado hoy de tiH8050
+- 1Sa_15:31y volvió S tras Saúl, y adoró Saúl aH8050
+- 1Sa_15:32dijo S: Traedme a Agag rey de AmalecH8050
+- 1Sa_15:33S dijo: Como tu espada dejó...sin hijosH8050
+- 1Sa_15:33S cortó en pedazos a Agag delante deH8050
+- 1Sa_15:34se fue luego S a Ramá, y Saúl subió aH8050
+- 1Sa_15:35y nunca después vio S a Saúl en todaH8050
+- 1Sa_15:35su vida; y S lloraba a Saúl; y JehováH8050
+- 1Sa_16:1dijo Jehová a S: ¿Hasta cuándo llorarásH8050
+- 1Sa_16:2y dijo S: ¿Cómo iré? Si Saúl lo supieraH8050
+- 1Sa_16:4hizo...S como le dijo Jehová; y luego queH8050
+- 1Sa_16:7y Jehová respondió a S: No mires a suH8050
+- 1Sa_16:8lo hizo pasar delante de S, el cual dijoH8050
+- 1Sa_16:10hijos suyos delante de S; pero S dijoH8050
+- 1Sa_16:11S a Isaí: ¿Son estos todos tus hijos?[[H8050]]
+- 1Sa_16:11dijo S a Isaí: Envía por él; porque noH8050
+- 1Sa_16:13S tomó el cuerno del aceite, y lo ungióH8050
+- 1Sa_16:13se levantó luego S, y se volvió a RamáH8050
+- 1Sa_19:18y vino a S en Ramá, y le dijo todo loH8050
+- 1Sa_19:18y él y S se fueron y moraron en NaiotH8050
+- 1Sa_19:20y a S que estaba allí y los presidíaH8050
+- 1Sa_19:22diciendo: ¿Dónde están S y David? Y unoH8050
+- 1Sa_19:24él profetizó igualmente delante de SH8050
+- 1Sa_25:1murió S, y se juntó todo Israel, y loH8050
+- 1Sa_28:3S había muerto, y todo Israel lo habíaH8050
+- 1Sa_28:11dijo: Y él respondió: Hazme venir a SH8050
+- 1Sa_28:12viendo la mujer a S, clamó en alta vozH8050
+- 1Sa_28:14Saúl entonces entendió que era S, yH8050
+- 1Sa_28:15S dijo a Saúl: ¿Por qué...has inquietadoH8050
+- 1Sa_28:16S dijo: ¿Y para qué me preguntas a míH8050
+- 1Sa_28:20tuvo gran temor por las palabras de SH8050
+- 1Cr_6:28los hijos de S: el primogénito VasniH8050
+- 1Cr_6:33el cantor Hemán hijo de Joel, hijo de SH8050
+- 1Cr_9:22cuales constituyó en su oficio David y SH8050
+- 1Cr_11:3y la palabra de Jehová por medio de SH8050
+- 1Cr_26:28había consagrado el vidente S, y SaúlH8050
+- 1Cr_29:29están escritos en...las crónicas de SH8050
+- 2Cr_35:18una pascua...desde los días de S elH8050
+- Sal_99:6S entre los que invocaron su nombreH8050
+- Jer_15:1si Moisés y S se pusieran delante deH8050
+- Hec_3:24los profetas desde S...han anunciadoG4545
+- Hec_13:20años, les dio jueces hasta el profeta SG4545
+- Heb_11:32el tiempo me faltaría contando...de SG4545

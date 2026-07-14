@@ -1,0 +1,922 @@
+---
+tipo: concordancia
+palabra: CORAZÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CORAZÓN
+
+- Gén_6:5todo designio...del c de ellos era...malH3820
+- Gén_6:6se arrepintió Jehová...le dolió en su cH3820
+- Gén_8:21dijo Jehová en su c: No volveré más aH3820
+- Gén_8:21intento del c del hombre es malo desdeH3820
+- Gén_17:17Abraham...dijo en su c: ¿A hombre deH3820
+- Gén_18:5pan, y sustentad vuestro c, y despuésH3820
+- Gén_20:5con sencillez de mi c y con limpieza deH3824
+- Gén_20:6con integridad de tu c has hecho estoH3824
+- Gén_24:45antes que acabase de hablar en mi cH3820
+- Gén_27:41aborreció Esaú a Jacob...dijo en su cH3820
+- Gén_34:3se apegó a Dina...y habló al c de ellaH3820
+- Gén_42:28se les sobresaltó el c...¿Qué es estoH3820
+- Gén_45:26el c de Jacob se afligió, porque no losH3820
+- Gén_50:21miedo...los consoló, y les habló al cH3820
+- Éxo_4:14Aarón...al verte se alegrará en su cH3820
+- Éxo_4:21pero yo endureceré su c, de modo que noH3820
+- Éxo_7:3yo endureceré el c de Faraón, y...señalesH3820
+- Éxo_7:13, Éxo_7:22el c de Faraón se endureció, y noH3820
+- Éxo_7:14el c de Faraón está endurecido, y noH3820
+- Éxo_8:15endureció su c y no los escuchó, comoH3820
+- Éxo_8:19mas el c de Faraón se endureció, y noH3820
+- Éxo_8:32Faraón endureció...su c, y no dejó ir alH3820
+- Éxo_9:7, Éxo_9:35c de Faraón se endureció, y no dejóH3820
+- Éxo_9:12pero Jehová endureció el c de FaraónH3820
+- Éxo_9:14yo enviaré...vez todas mis plagas a tu cH3820
+- Éxo_9:21que no puso en su c la palabra de JehováH3820
+- Éxo_9:34y endurecieron su c él y sus siervosH3820
+- Éxo_10:1porque yo he endurecido su c, y el c deH3820
+- Éxo_10:20, Éxo_10:27Jehová endureció el c de FaraónH3820
+- Éxo_11:10Jehová había endurecido el c de FaraónH3820
+- Éxo_14:4endureceré el c de Faraón para que losH3820
+- Éxo_14:5c de Faraón y de sus siervos se volvióH3824
+- Éxo_14:8endureció Jehová el c de Faraón rey deH3820
+- Éxo_14:17endureceré el c de los egipcios paraH3820
+- Éxo_25:2la diere de...de c, tomaréis mi ofrendaH3820
+- Éxo_28:3y tú hablarás a todos los sabios de cH3820
+- Éxo_28:29en el pectoral del juicio sobre su cH3820
+- Éxo_28:30que estén sobre el c de Aarón cuandoH3820
+- Éxo_28:30juicio...sobre su c delante de JehováH3820
+- Éxo_31:6puesto...en el ánimo de todo sabio de cH3820
+- Éxo_35:5todo generoso de c la traerá a JehováH3820
+- Éxo_35:10todo sabio de c...vendrá y hará todasH3820
+- Éxo_35:21vino todo varón a quien su c estimulóH3820
+- Éxo_35:22vinieron...todos los voluntarios de cH3820
+- Éxo_35:25todas las mujeres sabias de c hilabanH3820
+- Éxo_35:26las mujeres cuyo c las impulsó...hilaronH3820
+- Éxo_35:29que tuvieron c voluntario para traerH3820
+- Éxo_35:34ha puesto en su c el que pueda enseñarH3820
+- Éxo_35:35los ha llenado de sabiduría de c, paraH3820
+- Éxo_36:1y todo hombre sabio de c a quien JehováH3820
+- Éxo_36:2todo varón sabio de c, en cuyo c habíaH3820
+- Éxo_36:2hombre a quien su c le movió a venir aH3820
+- Éxo_36:8sabios de c entre los que hacían la obraH3820
+- Lev_19:17no aborrecerás a tu hermano en tu cH3824
+- Lev_26:36infundiré en sus c tal cobardía, en laH3824
+- Lev_26:41entonces se humillará su c incircuncisoH3824
+- Núm_15:39y no miréis en pos de vuestro c y deH3824
+- Deu_1:28hermanos han atemorizado nuestro cH3824
+- Deu_2:30había...obstinado su c para entregarloH3824
+- Deu_4:9ni se aparten de tu c todos los días deH3824
+- Deu_4:29si lo buscares de todo tu c y de toda tuH3824
+- Deu_4:39reflexiona en tu c que Jehová es DiosH3824
+- Deu_5:29¡quién diera que tuviesen tal c, que meH3824
+- Deu_6:5amarás a Jehová tu Dios de todo tu c, yH3824
+- Deu_6:6y estas palabras que...estarán sobre tu cH3824
+- Deu_7:17si dijeres en tu c: Estas naciones sonH3824
+- Deu_8:2probarte...saber lo que había en tu c, siH3824
+- Deu_8:5reconoce...en tu c, que como castiga elH3824
+- Deu_8:14se enorgullezca tu c, y te olvides deH3824
+- Deu_8:17digas en tu c: Mi poder y la fuerza deH3824
+- Deu_9:4no pienses en tu c cuando Jehová tu DiosH3824
+- Deu_9:5no...ni por la rectitud de tu c entras aH3824
+- Deu_10:12sirvas a Jehová tu Dios con todo tu cH3824
+- Deu_10:16circuncidad...el prepucio de vuestro cH3824
+- Deu_11:13sirviéndole con todo vuestro c, y conH3824
+- Deu_11:16guardaos...que vuestro c no se infatúeH3824
+- Deu_11:18pondréis...mis palabras en vuestro cH3824
+- Deu_13:3si amáis a...Dios con todo vuestro c, yH3824
+- Deu_15:7haya...menesteroso...no endurecerás tu cH3824
+- Deu_15:9de tener en tu c pensamiento perversoH3824
+- Deu_15:10no serás de mezquino c cuando le desH3824
+- Deu_17:17mujeres, para que su c no se desvíeH3824
+- Deu_17:20que no se eleve su c sobre sus hermanosH3824
+- Deu_18:21si dijeres en tu c...¿Cómo conoceremosH3824
+- Deu_20:3no desmaye vuestro c, no temáis, ni osH3824
+- Deu_20:8vaya...y no apoque el c...como el c suyoH3824
+- Deu_26:16de ponerlos por obra con todo tu c yH3824
+- Deu_28:47no serviste a Jehová tu...con gozo de cH3824
+- Deu_28:65pues allí te dará Jehová c temeroso, yH3820
+- Deu_28:67por el miedo de tu c con que estarásH3824
+- Deu_29:4Jehová no os ha dado c para entenderH3820
+- Deu_29:18varón o mujer...cuyo c se aparte hoy deH3824
+- Deu_29:19él se bendiga en su c, diciendo: TendréH3824
+- Deu_29:19paz, aunque ande en la dureza de mi cH3820
+- Deu_30:2y obedecieres a su voz...con todo tu cH3824
+- Deu_30:6circuncidará Jehová...tu c, y el c de tuH3824
+- Deu_30:6que ames a Jehová tu Dios con todo tu cH3824
+- Deu_30:10te convirtieres a...con todo tu c y conH3824
+- Deu_30:14tu boca y en tu c, para que la cumplasH3824
+- Deu_30:17si tu c se apartare y no oyeres, y teH3824
+- Deu_32:46dijo: Aplicad vuestro c...las palabrasH3824
+- Jos_2:11oyendo esto, ha desmayado nuestro cH3824
+- Jos_5:1desfalleció su c, y no hubo más alientoH3824
+- Jos_7:5por lo cual el c del pueblo desfallecióH3824
+- Jos_11:20endurecía el c de...para que resistiesenH3820
+- Jos_14:7traje noticias como lo sentía en mi cH3824
+- Jos_14:8hicieron desfallecer el c del pueblo; peroH3820
+- Jos_22:5le sirváis de todo vuestro c y de todaH3824
+- Jos_23:14reconoced...con todo vuestro c y conH3824
+- Jos_24:23e inclinad vuestro c a Jehová Dios deH3824
+- Jue_5:9mi c es para vosotros, jefes de IsraelH3820
+- Jue_5:15-16de Rubén hubo grandes...del cH3820
+- Jue_9:3y el c...se inclinó a favor de AbimelecH3820
+- Jue_16:15te amo, cuando tu c no está conmigo?[[H3820]]
+- Jue_16:17descubrió, pues, todo su c, y le dijoH3820
+- Jue_16:18que él le había descubierto todo su cH3820
+- Jue_16:18porque él me ha descubierto todo su cH3820
+- Jue_16:25que cuando sintieron alegría en su cH3820
+- Jue_18:20se alegró el c del sacerdote, el cualH3820
+- Jue_19:5conforta tu c con un bocado de pan, yH3820
+- Jue_19:6pasar aquí la noche, y se alegrará tu cH3820
+- Jue_19:8conforta ahora tu c, y aguarda hasta queH3824
+- Jue_19:9duerme aquí, para que se alegre tu cH3824
+- Rut_2:13porque has hablado al c de tu siervaH3820
+- Rut_3:7su c estuvo contento, se retiró a dormirH3820
+- 1Sa_1:8no comes? ¿y por qué está afligido tu c?[[H3824]]
+- 1Sa_1:13Ana hablaba en su c...y su voz no se oíaH3820
+- 1Sa_2:1Ana...dijo: Mi c se regocija en JehováH3820
+- 1Sa_2:35un sacerdote...que haga conforme a mi cH3824
+- 1Sa_4:13c estaba temblando por causa del arcaH3820
+- 1Sa_6:6endurecéis vuestro c como...egipcios... c?[[H3824]]
+- 1Sa_7:3de todo vuestro c os volvéis a JehováH3824
+- 1Sa_7:3preparad vuestro c a Jehová, y sólo a élH3824
+- 1Sa_9:19te descubriré todo lo que está en tu cH3824
+- 1Sa_10:9aconteció luego, que al...mudó Dios su cH3820
+- 1Sa_10:26los hombres...cuyos c Dios había tocadoH3820
+- 1Sa_12:20no...sino servidle con todo vuestro cH3824
+- 1Sa_12:24servidle de verdad con todo vuestro cH3824
+- 1Sa_13:14ha buscado un varón conforme a su cH3824
+- 1Sa_14:7su paje...Haz todo lo que tienes en tu cH3824
+- 1Sa_16:7el hombre mira...pero Jehová mira el cH3824
+- 1Sa_17:28conozco...la malicia de tu c, que paraH3824
+- 1Sa_17:32no desmaya el c de ninguno a causa deH3820
+- 1Sa_21:12David puso en su c estas palabras, yH3824
+- 1Sa_24:5después de esto se turbó el c de DavidH3820
+- 1Sa_25:36y el c de Nabal estaba alegre...ebrioH3820
+- 1Sa_25:37desmayó su c en él, y se quedó como unaH3820
+- 1Sa_27:1dijo luego David en su c: Al fin seréH3820
+- 1Sa_28:5vio Saúl...se turbó su c en gran maneraH3820
+- 2Sa_3:21pacto, y...reines como lo desea tu cH5315
+- 2Sa_6:16y vio al rey...y le menospreció en su cH3820
+- 2Sa_7:3anda, y haz todo lo que está en tu cH3824
+- 2Sa_7:21y conforme a tu c, haciéndolas saber aH3820
+- 2Sa_7:27tu siervo ha hallado en su c valor paraH3820
+- 2Sa_13:20calla...no se angustie tu c por estoH3820
+- 2Sa_13:28que miréis cuando el c de Amnón estéH3820
+- 2Sa_13:33no ponga...en su c ese rumor que diceH3820
+- 2Sa_14:1conociendo Joab...que el c del rey seH3820
+- 2Sa_15:6así robaba Absalón el c de los de IsraelH3820
+- 2Sa_15:13el c de todo Israel se va tras AbsalónH3820
+- 2Sa_17:10el hombre...cuyo c sea como c de leónH3820
+- 2Sa_18:14los clavó en el c de Absalón, quienH3820
+- 2Sa_19:14así inclinó el c de todos los varonesH3824
+- 2Sa_19:19males...no los guarde el rey en su cH3820
+- 2Sa_24:10hubo censado al pueblo le pesó en su cH3820
+- 1Re_2:4con verdad, de todo su c y de toda suH3824
+- 1Re_2:44sabes...el mal, el cual tu c bien sabeH3824
+- 1Re_3:6anduvo...con rectitud de c para contigoH3824
+- 1Re_3:9da, pues, a tu siervo c entendido paraH3820
+- 1Re_3:12te he dado c sabio y entendido, tantoH3820
+- 1Re_4:29dio...anchura de c como la arena que estáH3820
+- 1Re_8:17mi padre tuvo en su c edificar casa alH3824
+- 1Re_8:18haber tenido en tu c edificar casa a miH3824
+- 1Re_8:23que andan delante de ti con todo su cH3820
+- 1Re_8:38cualquiera sintiere la plaga en su cH3824
+- 1Re_8:39cuyo c tú conoces...tú conoces el c deH3824
+- 1Re_8:48y si se convirtieren a ti de todo su cH3824
+- 1Re_8:58que incline nuestro c hacia él, para queH3824
+- 1Re_8:61sea, pues, perfecto vuestro c...JehováH3824
+- 1Re_8:66se fueron...alegres y gozosos de c, porH3820
+- 1Re_9:3casa...y en ella estarán mis ojos y mi cH3824
+- 1Re_9:4si tú anduvieres...en integridad de c yH3824
+- 1Re_10:2vino...expuso todo lo que en su c teníaH3824
+- 1Re_10:24sabiduría...Dios había puesto en su cH3820
+- 1Re_11:2harán inclinar vuestros c...sus diosesH3824
+- 1Re_11:3tuvo 700...sus mujeres desviaron su cH3820
+- 1Re_11:4sus mujeres inclinaron su c tras diosesH3824
+- 1Re_11:4su c no era perfecto...como el c...DavidH3824
+- 1Re_11:9su c se había apartado de Jehová DiosH3824
+- 1Re_12:26y dijo Jeroboam en su c...se volverá elH3820
+- 1Re_12:27c de este pueblo se volverá a su señorH3820
+- 1Re_12:33que él había inventado de su propio cH3820
+- 1Re_14:8y anduvo en pos de mí con todo su cH3824
+- 1Re_15:3no fue su c perfecto con...como el c deH3824
+- 1Re_15:14el c de Asa fue perfecto...con JehováH3824
+- 1Re_18:37y que tú vuelves a ti el c de ellosH3820
+- 2Re_5:26¿no estaba también allí mi c, cuandoH3824
+- 2Re_6:11el c del rey de Siria se turbó por estoH3824
+- 2Re_9:24la saeta salió por su c, y él cayó en elH3824
+- 2Re_10:15¿es recto tu c, como el mío es rectoH3824
+- 2Re_10:30conforme a todo lo que estaba en mi cH3824
+- 2Re_10:31no cuidó de andar en la...con todo su cH3824
+- 2Re_14:10derrotado a...y tu c se ha envanecidoH3820
+- 2Re_20:3que he andado...en verdad y con íntegro cH3824
+- 2Re_22:19tu c se enterneció, y te humillasteH3824
+- 2Re_23:3guardarían...sus estatutos, con todo el cH3820
+- 2Re_23:25que se convirtiese a Jehová de...su cH3824
+- 1Cr_12:17mi c será unido con vosotros; masH3824
+- 1Cr_12:33dispuestos a pelear sin doblez de cH3820
+- 1Cr_12:38vinieron con c perfecto a Hebrón, paraH3824
+- 1Cr_15:29vio al rey...y lo menospreció en su cH3820
+- 1Cr_16:10alégrese el c de...que buscan a JehováH3820
+- 1Cr_17:2a David: Haz todo lo que está en tu cH3824
+- 1Cr_17:19por amor de tu siervo y según tu c, hasH3820
+- 1Cr_22:7mi c tuve el edificar templo al nombreH3824
+- 1Cr_22:19poned...vuestros c...en buscar a JehováH3824
+- 1Cr_28:9con c perfecto y con ánimo voluntarioH3820
+- 1Cr_28:9porque Jehová escudriña los c de todosH3824
+- 1Cr_29:9porque de todo c ofrecieron a JehováH3820
+- 1Cr_29:17sé, Dios mío, que tú escudriñas los cH3824
+- 1Cr_29:17yo con rectitud de mi c...te he ofrecidoH3824
+- 1Cr_29:18conserva...voluntad del c de tu puebloH3824
+- 1Cr_29:18de tu pueblo, y encamina su c a tiH3824
+- 1Cr_29:19da a mi hijo Salomón c perfecto, paraH3824
+- 2Cr_1:11dijo...Por cuanto hubo esto en tu cH3824
+- 2Cr_6:7David mi padre tuvo en su c edificar casaH3824
+- 2Cr_6:8haber tenido en tu c deseo de edificarH3824
+- 2Cr_6:8bien has hecho en...tenido esto en tu cH3824
+- 2Cr_6:14que caminan delante de ti de todo su cH3820
+- 2Cr_6:29conociere su llaga y su dolor en su c
+- 2Cr_6:30y perdonarás...habiendo conocido su cH3824
+- 2Cr_6:30sólo tú conoces el c de...de los hombresH3824
+- 2Cr_6:38si se convirtieren a ti de todo su cH3820
+- 2Cr_7:10envió al pueblo a sus...gozosos de c porH3820
+- 2Cr_7:16mis ojos y mi c estarán ahí para siempeH3820
+- 2Cr_9:1habló con él todo lo que en su c teníaH3824
+- 2Cr_11:16los que habían puesto su c en buscar aH3824
+- 2Cr_12:14no dispuso su c para buscar a JehováH3820
+- 2Cr_15:12que buscarían a Jehová...de todo su cH3824
+- 2Cr_15:15porque de todo su c lo juraban, y deH3824
+- 2Cr_15:17el c de Asa fue perfecto en todos susH3824
+- 2Cr_16:9favor de los que tienen c perfecto paraH3824
+- 2Cr_17:6se animó su c en los caminos de JehováH3820
+- 2Cr_19:3y has dispuesto tu c para buscar a DiosH3824
+- 2Cr_19:9procederéis...con temor...y con c íntegroH3824
+- 2Cr_20:33no había enderezado su c al Dios de susH3824
+- 2Cr_22:9Josafat...de todo su c buscó a JehováH3824
+- 2Cr_25:2hizo él lo recto ante...no de perfecto cH3824
+- 2Cr_25:19dices...y tu c se enaltece para gloriarteH3820
+- 2Cr_26:16c se enalteció para su ruina; porqueH3820
+- 2Cr_29:31los generosos de c trajeron holocaustosH3820
+- 2Cr_29:34los levitas fueron más rectos de c paraH3824
+- 2Cr_30:12para darles un solo c, para cumplir elH3820
+- 2Cr_30:18sé propicio a...que ha preparado su cH3824
+- 2Cr_30:22habló Ezequías al c de...los levitasH3820
+- 2Cr_31:21lo hizo de todo c, y fue prosperadoH3824
+- 2Cr_32:6los hizo reunir...y habló al c de ellosH3824
+- 2Cr_32:25que se enalteció su c, y vino la iraH3820
+- 2Cr_32:26después de haberse enaltecido su c, seH3820
+- 2Cr_32:31hacer conocer todo lo que estaba en su cH3824
+- 2Cr_34:27c se conmovió, y te humillaste delanteH3824
+- 2Cr_34:31de caminar en pos de...con todo su c yH3824
+- 2Cr_36:13obstinó su c para no volverse a JehováH3824
+- Esd_6:22había vuelto el c del rey de AsiríaH3820
+- Esd_7:10Porque Esdras había preparado su c paraH3824
+- Esd_7:27que puso tal cosa en el c del rey, paraH3820
+- Neh_2:2dijo...No es esto sino quebranto de cH3820
+- Neh_2:12lo que Dios había puesto en mi c queH3820
+- Neh_6:8dices, sino que de tu c tú lo inventasH3820
+- Neh_7:5puso Dios en mi c que reuniese a losH3820
+- Neh_9:8y hallaste fiel su c delante de ti, cH3824
+- Est_1:10estando el c del rey alegre del vinoH3820
+- Est_5:9salió Amán...día contento y alegre de cH3820
+- Est_6:6y dijo Amán en su c: ¿A quién deseará elH3820
+- Est_7:5¿quién...que ha ensoberbecido su c paraH3820
+- Job_1:5y habrán blasfemado...Dios en sus cH3824
+- Job_7:17¿qué es...para que pongas sobre él tu cH3820
+- Job_8:10te hablarán, y de su c sacarán palabras?[[H3820]]
+- Job_9:4él es sabio de c, y poderoso en fuerzasH3824
+- Job_10:13estas cosas tienes guardadas en tu cH3824
+- Job_11:13si tú dispusieres tu c, y extendieresH3820
+- Job_15:12¿Por qué tu c te aleja, y...tus ojosH3820
+- Job_17:4porque a éstos has escondido de su c laH3820
+- Job_17:11fueron arrancados...designios de mi cH3824
+- Job_19:27aunque mi c desfallece dentro de míH3629
+- Job_22:22de su boca, y pon sus palabras en tu cH3824
+- Job_23:16Dios ha enervado mi c, y me ha turbadoH3820
+- Job_27:6no me reprochará mi c en todos mis díasH3824
+- Job_29:13mí, y al c de la viuda yo daba alegríaH3820
+- Job_31:7si mi c se fue tras mis ojos, y si algoH3820
+- Job_31:9si fue mi c engañado acerca de mujerH3820
+- Job_31:27mi c se engañó en secreto, y mi bocaH3820
+- Job_32:19mi c está como el vino que no tieneH990
+- Job_33:3razones declararán la rectitud de mi cH3820
+- Job_34:14si él pusiese sobre el hombre su c, yH3820
+- Job_36:13hipócritas de c atesoran para sí la iraH3820
+- Job_37:1se estremece mi c, y salta de su lugarH3820
+- Job_37:24a ninguno que cree en su...c ser sabioH3820
+- Job_38:36¿quién puso la sabiduría en el c?[[H7907]]
+- Job_41:24su c es firme como una piedra, y fuerteH3820
+- Sal_4:4meditad en vuestro c estando en...camaH3824
+- Sal_4:7tú diste alegría a mi c mayor que la deH3820
+- Sal_7:9el Dios justo prueba la mente y el cH3820
+- Sal_7:10en Dios, que salva a los rectos de cH3820
+- Sal_9:1te alabaré, oh Jehová, con todo mi cH3820
+- Sal_10:6dice en su c: No seré movido jamásH3820
+- Sal_10:11su c: Dios ha olvidado...nunca lo veráH3820
+- Sal_10:13en su c ha dicho: Tú no lo inquirirásH3820
+- Sal_10:17tú dispones su c, y haces atento tuH3820
+- Sal_11:2asaetear en oculto a los rectos de cH3820
+- Sal_12:2habla mentira...hablan...con doblez de cH3820
+- Sal_13:2alma, con tristezas en mi c cada día?[[H3824]]
+- Sal_13:5mas...mi c se alegrará en tu salvaciónH3820
+- Sal_14:1dice el necio en su c: No hay DiosH3820
+- Sal_15:2el que anda en...y habla verdad en su cH3824
+- Sal_16:9se alegró por tanto mi c, y se gozó miH3820
+- Sal_17:3tú has probado mi c, me has visitado deH3820
+- Sal_19:8los mandamientos de...que alegran el cH3820
+- Sal_19:14y la meditación de mi c delante de tiH3820
+- Sal_20:4dé conforme al deseo de tu c, y cumplaH3824
+- Sal_21:2le has concedido el deseo de su c, y noH3820
+- Sal_22:14mi c fue como cera, derritiéndose enH3820
+- Sal_22:26buscan; vivirá vuestro c para siempreH3824
+- Sal_24:4el limpio de manos y puro de c; el queH3824
+- Sal_25:17las angustias de mi c se han aumentadoH3824
+- Sal_26:2examina mis íntimos pensamientos y...cH3820
+- Sal_27:3no temerá mi c; aunque contra mí seH3820
+- Sal_27:8mi c ha dicho de ti: Buscad mi rostroH3820
+- Sal_27:14aliéntese tu c; sí, espera a JehováH3820
+- Sal_28:3hablan paz...pero la maldad está en su cH3824
+- Sal_28:7en él confió mi c, y fui ayudado, por loH3820
+- Sal_28:7lo que se gozó mi c, y con mi cántico leH3820
+- Sal_31:12he sido olvidado de su c como un muertoH3820
+- Sal_31:24esforzaos...y torne aliento vuestro cH3824
+- Sal_32:11y cantad con júbilo...los rectos de cH3820
+- Sal_33:11los pensamientos de su c por todas lasH3820
+- Sal_33:15él formó el c de todos ellos; atentoH3820
+- Sal_33:21en él se alegrará nuestro c, porque enH3820
+- Sal_34:18cercano está...a los quebrantados de cH3820
+- Sal_35:25no digan en su c: ¡Ea, alma nuestra![[H3820]]
+- Sal_36:1la iniquidad del impío me dice al cH3820
+- Sal_36:10extiende, justicia a los rectos de cH3820
+- Sal_37:4él te concederá las peticiones de tu cH3820
+- Sal_37:15su espada entrará en su mismo c, y suH3820
+- Sal_37:31ley de su Dios está en su c; por tantoH3820
+- Sal_38:8gimo a causa de la conmoción de mi cH3820
+- Sal_38:10mi c está acongojado, me ha dejado miH3820
+- Sal_39:3se enardeció mi c dentro de mí; en miH3820
+- Sal_40:8Dios...y tu ley está en medio de mi cH4578
+- Sal_40:10no encubrí tu justicia dentro de mi cH3820
+- Sal_40:12han aumentado más que...y mi c me fallaH3820
+- Sal_41:6su c recoge para sí iniquidad, y al salirH3820
+- Sal_44:18no se ha vuelto atrás nuestro c, ni seH3820
+- Sal_44:21porque él conoce los secretos del cH3820
+- Sal_45:1rebosa mi c palabra buena; dirijo al reyH3820
+- Sal_45:5tus saetas agudas...penetrarán en el c deH3820
+- Sal_46:2se traspasen los montes al c del marH3820
+- Sal_49:3y el pensamiento de mi c inteligenciaH3820
+- Sal_51:10crea en mí, oh Dios, un c limpio, yH3820
+- Sal_51:17al c contrito...no despreciarás tú, ohH3820
+- Sal_53:1dice el necio en su c: No hay DiosH3820
+- Sal_55:4mi c está dolorido dentro de mí, yH3820
+- Sal_55:21de su boca...pero guerra hay en su cH3820
+- Sal_57:7Pronto está mi c...mi c está dispuestoH3820
+- Sal_58:2antes en el c maquináis iniquidadesH3820
+- Sal_61:2clamaré a ti, cuando mi c desmáyareH3820
+- Sal_62:4su boca bendicen, pero maldicen en su c,[[H7130]]
+- Sal_62:8derramad delante de él vuestro c; DiosH3824
+- Sal_62:10las riquezas, no pongáis el c en ellasH3820
+- Sal_64:6pensamiento...así como su c, es profundoH3820
+- Sal_64:10y se gloriarán todos los rectos de cH3820
+- Sal_66:18mi c hubiese yo mirado a la iniquidadH3820
+- Sal_69:20escarnio ha quebrantado mi c, y estoyH3820
+- Sal_69:32buscad a Dios, y vivirá vuestro cH3824
+- Sal_73:1es bueno Dios...para con los de limpio cH3824
+- Sal_73:7logran con creces los antojos del cH3824
+- Sal_73:13en vano he limpiado mi c, y lavado misH3824
+- Sal_73:21de amargura...y en mi c sentía punzadasH3824
+- Sal_73:26mi carne y mi c desfallecen; mas laH3824
+- Sal_73:26la roca de mi c y mi porción es DiosH3824
+- Sal_74:8dijeron en su c: Destruyámoslos de unaH3820
+- Sal_76:5los fuertes de c fueron despojadosH3820
+- Sal_77:6meditaba en mi c, y mi espíritu inquiríaH3824
+- Sal_78:8generación que no dispuso su c, ni fueH3820
+- Sal_78:18pues tentaron a Dios en su c, pidiendoH3824
+- Sal_78:37pues sus c no eran rectos con él, niH3820
+- Sal_78:72apacentó conforme...integridad de su cH3824
+- Sal_81:12los dejé, por tanto, a la dureza de su cH3820
+- Sal_83:5se confabulan de c a una, contra ti hanH3820
+- Sal_84:2mi c y mi carne cantan al Dios vivoH3820
+- Sal_84:5el hombre...en cuyo c están tus caminosH3824
+- Sal_86:11afirma mi c para que tema tu nombreH3824
+- Sal_86:12te alabaré, oh Jehová...con todo mi cH3824
+- Sal_90:12a contar...que traigamos al c sabiduríaH3824
+- Sal_94:15en pos de ella...todos los rectos de cH3820
+- Sal_95:8no endurezcáis vuestro c, como en MeribaH3824
+- Sal_95:10dije: Pueblo es que divaga de c, y noH3824
+- Sal_97:11justo, y alegría para los rectos de cH3820
+- Sal_101:2integridad de mi c andaré en medio deH3824
+- Sal_101:4c perverso se apartará...no conoceré alH3824
+- Sal_101:5no sufriré al de ojos...de c vanidosoH3824
+- Sal_102:4mi c está herido, y seco como la hierbaH3824
+- Sal_104:15y el vino que alegra el c del hombreH3824
+- Sal_105:3alégrese el c de...que buscan a JehováH3820
+- Sal_105:25cambió el c de...para que aborreciesenH3820
+- Sal_107:12por eso quebrantó...el trabajo sus cH3820
+- Sal_108:1mi c está dispuesto, oh Dios; cantaréH3820
+- Sal_109:16quebrantado de c, para darle muerteH3824
+- Sal_109:22estoy...mi c está herido dentro de míH3820
+- Sal_111:1alabaré a Jehová con todo el c en laH3824
+- Sal_112:7su c está firme, confiado en JehováH3820
+- Sal_112:8asegurado está su c; no temerá hastaH3820
+- Sal_119:2los que guardan...con todo el c le buscanH3820
+- Sal_119:7te alabaré con rectitud de c cuandoH3824
+- Sal_119:10con todo mi c te he buscado; no meH3820
+- Sal_119:11en mi c he guardado tus dichos, paraH3820
+- Sal_119:32por...correré, cuando ensanches mi cH3820
+- Sal_119:34y guardaré tu ley...cumpliré de todo cH3820
+- Sal_119:36inclina mi c a tus testimonios, y noH3820
+- Sal_119:58tu presencia supliqué de todo c; tenH3820
+- Sal_119:69guardaré de todo c tus mandamientosH3820
+- Sal_119:70se engrosó el c de ellos como sebo, masH3820
+- Sal_119:80sea mi c íntegro en tus estatutos, paraH3820
+- Sal_119:111tus testimonios...son el gozo de mi cH3820
+- Sal_119:112mi c incliné a cumplir tus estatutosH3820
+- Sal_119:145clamé con...mi c; respóndeme, JehováH3820
+- Sal_119:161pero mi c tuvo temor de tus palabrasH3820
+- Sal_125:4haz bien...a los que son rectos en su cH3826
+- Sal_131:1no se ha envanecido mi c, ni mis ojosH3820
+- Sal_138:1te alabaré con todo mi c; delante deH3820
+- Sal_139:23examíname, oh Dios, y conoce mi cH3824
+- Sal_140:2maquinan males en el c, cada día urdenH3820
+- Sal_141:4no dejes...se incline mi c a cosa malaH3820
+- Sal_143:4mi espíritu se angustió...desolado mi cH3820
+- Sal_147:3sana a los quebrantados de c, y vendaH3820
+- Pro_2:2si inclinares tu c a la prudenciaH3820
+- Pro_2:10cuando la sabiduría entrare en tu c, yH3820
+- Pro_3:1mi ley, y tu c guarde mis mandamientosH3820
+- Pro_3:3átalas...escríbelas en la tabla de tu cH3820
+- Pro_3:5fíate de Jehová de todo tu c, y no teH3820
+- Pro_4:4decía: Retenga tu c mis razones, guardaH3820
+- Pro_4:21de tus ojos; guárdalas en medio de tu cH3821
+- Pro_4:23sobre toda cosa guardada, guarda tu cH3820
+- Pro_5:12¡cómo...mi c menospreció la reprensiónH3820
+- Pro_6:14perversidades hay en su c; anda...el malH3820
+- Pro_6:18el c que máquina pensamientos inicuosH3820
+- Pro_6:21átalos siempre en tu c, enlázalos a tuH3820
+- Pro_6:25no codicies su hermosura en tu c, ni ellaH3824
+- Pro_7:3tus dedos; escríbelos en la tabla de tu cH3820
+- Pro_7:10mujer...atavío de ramera y astuta de cH3820
+- Pro_7:23como el ave que...la saeta traspasa su cH3516
+- Pro_7:25se aparte tu c a sus caminos; no yerresH3820
+- Pro_10:8el sabio de c recibirá los mandamientosH3820
+- Pro_10:20mas el c de los impíos es como nadaH3820
+- Pro_11:20abominación son a...los perversos de cH3820
+- Pro_11:29y el necio será siervo del sabio de cH3820
+- Pro_12:8mas el perverso de c será menospreciadoH3820
+- Pro_12:10cuida...mas el c de los impíos es cruelH7356
+- Pro_12:20hay en el c de los que piensan el malH3820
+- Pro_12:23el c de los necios publica la necedadH3820
+- Pro_12:25la congoja en el c del hombre lo abateH3820
+- Pro_13:12la esperanza...demora es tormento del cH3820
+- Pro_14:10el c conoce la amargura de su almaH3820
+- Pro_14:13aun en la risa tendrá dolor el c; y elH3820
+- Pro_14:14de sus caminos...hastiado el necio de cH3820
+- Pro_14:30el c apacible es vida de la carne; masH3820
+- Pro_14:33el c del prudente reposa la sabiduríaH3820
+- Pro_15:7sabiduría; no así el c de los neciosH3820
+- Pro_15:11¡cuánto más los c de los hombres![[H3826]]
+- Pro_15:13el c alegre hermosea el rostro; mas porH3820
+- Pro_15:13por el dolor del c el espíritu se abateH3820
+- Pro_15:14el c entendido busca la sabiduría; masH3820
+- Pro_15:15mas el de c contento tiene un banqueteH3820
+- Pro_15:28el c del justo piensa para responderH3820
+- Pro_15:30la luz de los ojos alegra el c, y laH3820
+- Pro_16:1del hombre son las disposiciones del cH3820
+- Pro_16:5abominación es a Jehová todo altivo de cH3820
+- Pro_16:9el c del hombre piensa su camino; masH3820
+- Pro_16:21el sabio de c es llamado prudente, y laH3820
+- Pro_16:23el c del sabio hace prudente su bocaH3820
+- Pro_17:3crisol para la...pero Jehová prueba los cH3826
+- Pro_17:20el perverso de c nunca hallará el bienH3820
+- Pro_17:22el c alegre constituye buen remedioH3820
+- Pro_18:2placer en...sino en que su c se descubraH3820
+- Pro_18:12antes...quebrantamiento se eleva el cH3820
+- Pro_18:15el c del entendido adquiere sabiduríaH3820
+- Pro_19:3y luego contra Jehová se irrita su cH3820
+- Pro_19:21muchos pensamientos hay en el c delH3820
+- Pro_20:5aguas profundas es el consejo en el cH3820
+- Pro_20:9¿quién podrá decir: Yo he limpiado mi cH3820
+- Pro_20:27cual escudriña lo más profundo del cH990
+- Pro_20:30los azotes...y el castigo purifica el cH990
+- Pro_21:1está el c del rey en la mano de JehováH3820
+- Pro_21:2todo camino del...pero Jehová pesa los cH3826
+- Pro_21:4altivez de...y orgullo de c...son pecadoH3826
+- Pro_22:11el que ama la limpieza de c...la graciaH3820
+- Pro_22:15necedad...ligada en el c del muchachoH3826
+- Pro_22:17inclina...y aplica tu c a mi sabiduríaH3826
+- Pro_23:7cual es su pensamiento en su c, tal esH5315
+- Pro_23:7come y bebe...mas su c no está contigoH3820
+- Pro_23:12aplica tu c a la enseñanza, y tus oídosH3820
+- Pro_23:15si tu c fuera sabio...me alegrará el cH3820
+- Pro_23:17no tenga tu c envidia de los pecadoresH3820
+- Pro_23:19y sé sabio, y endereza tu c al caminoH3820
+- Pro_23:26dame, hijo mío, tu c, y miren tus ojosH3820
+- Pro_23:33tus ojos mirarán cosas extrañas, y tu cH3820
+- Pro_24:2su c piensa en robar, e iniquidad hablanH3820
+- Pro_24:12no lo entenderá el que pesa los c?[[H3826]]
+- Pro_24:17y cuando tropezare, no se alegre tu cH3820
+- Pro_24:32lo puse en mi c; lo vi, y tomé consejoH3820
+- Pro_25:3y para el c de los reyes...investigaciónH3820
+- Pro_25:20el que canta canciones al c afligido esH3820
+- Pro_26:23como escoria de plata...son...el c maloH3820
+- Pro_26:25porque siete abominaciones hay en su cH3820
+- Pro_27:9el ungüento y el perfume alegran el cH3820
+- Pro_27:11sé sabio, hijo mío, y alegra mi c, yH3820
+- Pro_27:19agua...así el c del hombre al del hombreH3820
+- Pro_28:14el que endurece su c caerá en el malH3820
+- Pro_28:26el que confía en su propio c es necioH3820
+- Pro_31:11c de su marido está en ella confiadoH3820
+- Ecl_1:13y di mi c a inquirir y a buscar conH3820
+- Ecl_1:16hablé yo en mi c, diciendo: He aquí yoH3820
+- Ecl_1:16y mi c ha percibido mucha sabiduría yH3820
+- Ecl_1:17dediqué mi c a conocer la sabiduría, yH3820
+- Ecl_2:1dije yo en mi c: Ven ahora, te probaréH3820
+- Ecl_2:3propuse en mi c agasajar mi carne...vinoH3820
+- Ecl_2:3y que anduviese mi c en sabiduría, conH3820
+- Ecl_2:10ojos...ni aparté mi c de placer algunoH3820
+- Ecl_2:10porque mi c gozó de todo mi trabajoH3820
+- Ecl_2:15dije yo en mi c: Como sucederá al necioH3820
+- Ecl_2:15y dije en mi c, que...esto era vanidadH3820
+- Ecl_2:20volvió...a desesperanzarse mi c acercaH3820
+- Ecl_2:22¿qué tiene...de la fatiga de su c, conH3820
+- Ecl_2:23aun de noche su c no reposa...es vanidadH3820
+- Ecl_3:11y ha puesto eternidad en el c de ellosH3820
+- Ecl_3:17y dije yo en mi c: Al justo y al impíoH3820
+- Ecl_3:18dije en mi c: Es así, por causa de losH3820
+- Ecl_5:2ni tu c se apresure a proferir palabraH3820
+- Ecl_5:20pues Dios le llenará de alegría el cH3820
+- Ecl_7:2el fin...y el que vive lo pondrá en su cH3820
+- Ecl_7:3con la tristeza del...se enmendará el cH3820
+- Ecl_7:4el c de los sabios...en la casa del lutoH3820
+- Ecl_7:4el c de los insensatos, en la casa en queH3820
+- Ecl_7:7al sabio, y las dádivas corrompen el cH3820
+- Ecl_7:21apliques tu c a todas las cosas que seH3820
+- Ecl_7:22tu c sabe que tú también dijiste mal deH3820
+- Ecl_7:25volví y fijé mi c para saber y examinarH3820
+- Ecl_7:26la mujer cuyo c es lazos y redes, y susH3820
+- Ecl_8:5el c del sabio discierne el tiempo y elH3820
+- Ecl_8:9he puesto mi c...en todo lo que debajo delH3820
+- Ecl_8:11el c de los...está en ellos dispuesto paraH3820
+- Ecl_8:16dediqué mi c a conocer sabiduría, y aH3820
+- Ecl_9:1he dado mi c a todas estas cosas, paraH3820
+- Ecl_9:3el c...de los hombres está lleno de malH3820
+- Ecl_9:3y de insensatez en su c durante su vidaH3824
+- Ecl_9:7y bebe tu vino con alegre c; porque tusH3820
+- Ecl_10:2el c del sabio está a su mano derechaH3820
+- Ecl_10:2mas el c del necio a su mano izquierdaH3820
+- Ecl_11:9y tome placer tu c en los días de tuH3820
+- Ecl_11:9y anda en los caminos de tu c y en laH3820
+- Ecl_11:10quita...de tu c el enojo, y aparta de tuH3820
+- Cnt_3:11el día de...y el día del gozo de su cH3820
+- Cnt_4:9prendiste mi c, hermana, esposa mía; hasH3823
+- Cnt_4:9has apresado mi c con uno de tus ojosH3823
+- Cnt_5:2yo dormía, pero mi c velaba. Es la vozH3820
+- Cnt_5:4metió...y mi c se conmovió dentro de míH4578
+- Cnt_8:6ponme como un sello sobre tu c, como unaH3820
+- Isa_1:5cabeza está enferma, y todo c dolienteH3824
+- Isa_6:10engruesa el c de este...ni su c entiendaH3820
+- Isa_7:2le estremeció el c, y el c de su puebloH3824
+- Isa_7:4ni se turbe tu c a causa de estos dosH3824
+- Isa_9:9con soberbia y con altivez de c dicenH3824
+- Isa_10:7así, ni su c lo imaginará de esta maneraH3824
+- Isa_10:12de la soberbia del c del rey de AsiriaH3824
+- Isa_13:7mano...y desfallecerá todo c de hombreH3824
+- Isa_14:13tú que decías en tu c: Subiré al cieloH3824
+- Isa_15:5c dará gritos por Moab; sus fugitivosH3820
+- Isa_16:11entrañas vibrarán...mi c por Kir-haresetH4578
+- Isa_19:1y desfallecerá el c de los egipciosH3824
+- Isa_21:4pasmó mi c, el horror me ha intimidadoH3824
+- Isa_24:7gimieron todos los que eran alegres de cH3820
+- Isa_29:13su c está lejos de mí, y su temor de míH3824
+- Isa_30:29tendréis...alegría de c, como el que vaH3824
+- Isa_32:4el c de los necios entenderá para saberH3824
+- Isa_32:6porque el ruin hablará ruindades, y su cH3820
+- Isa_33:18c imaginará el espanto, y dirá: ¿QuéH3820
+- Isa_35:4decid a los de c apocado: Esforzaos, noH3820
+- Isa_38:3he andado delante de ti...con íntegro cH3820
+- Isa_40:2hablad al c de Jerusalén; decidle aH3820
+- Isa_41:22pondremos nuestro c en ello; sepamosH3820
+- Isa_44:18para no ver, y su c para no entenderH3826
+- Isa_44:20su c engañado le desvía, para que noH3820
+- Isa_46:12oídme, duros de c, que estáis lejos deH3820
+- Isa_47:8que dices en tu c: Yo soy, y fuera deH3824
+- Isa_47:10y dijiste en tu c: Yo, y nadie másH3820
+- Isa_49:21y dirás en tu c: ¿Quién me engendróH3824
+- Isa_51:7oídme...pueblo en cuyo c está mi leyH3820
+- Isa_57:15para vivificar el c de los quebrantadosH3820
+- Isa_57:17siguió rebelde por el camino de su cH3820
+- Isa_59:13y proferir de c palabras de mentiraH3820
+- Isa_60:5se maravillará y ensanchará tu c, porqueH3824
+- Isa_61:1me ha enviado...a los quebrantados de cH3820
+- Isa_63:4el día de la venganza está en mi c, yH3820
+- Isa_63:17y endureciste nuestro c a tu temor?[[H3820]]
+- Isa_65:14mis siervos cantarán por júbilo del cH3820
+- Isa_65:14vosotros clamaréis por el dolor del cH3820
+- Isa_66:14alegrará vuestro c, y vuestros huesosH3820
+- Jer_3:10Judá no se volvió a mí de todo c, sinoH3820
+- Jer_3:15y os daré pastores según mi c, que osH3820
+- Jer_3:17ni andarán más tras la...de su malvado cH3820
+- Jer_4:4quitad el prepucio de vuestro c...de JudáH3824
+- Jer_4:9desfallecerá el c del rey y el c de losH3820
+- Jer_4:14lava tu c de maldad, oh Jerusalén, paraH3820
+- Jer_4:18lo cual amargura penetrará hasta tu cH3820
+- Jer_4:19me duelen las fibras de mi c; mi c seH3820
+- Jer_5:21oíd ahora esto, pueblo necio y sin c, queH3820
+- Jer_5:23este pueblo tiene c falso y rebelde; seH3820
+- Jer_5:24y no dijeron en su c: Temamos ahora aH3824
+- Jer_7:24caminaron...en la dureza de su c malvadoH3820
+- Jer_7:31que yo no les mandé, ni subió en mi cH3820
+- Jer_8:18a causa de...dolor, mi c desfallece en míH3820
+- Jer_9:14se fueron tras la imaginación de su cH3820
+- Jer_9:26la casa de Israel es incircuncisa de cH3820
+- Jer_11:8se fueron cada uno tras...de su malvado cH3820
+- Jer_11:20que escudriñas la mente y el c, vea yoH3820
+- Jer_12:2tú en sus bocas, pero lejos de sus cH3629
+- Jer_12:3me viste, y probaste mi c para contigoH3820
+- Jer_13:10que anda en las imaginaciones de su cH3820
+- Jer_13:22si dijeres en tu c: ¿Por qué me haH3824
+- Jer_14:14vanidad y engaño de su c os profetizanH3820
+- Jer_15:16tu palabra me fue...por alegría de mi cH3824
+- Jer_16:12uno tras la imaginación de su malvado cH3820
+- Jer_17:1esculpido está en la tabla de su c, yH3820
+- Jer_17:5el varón que...su c se aparta de JehováH3820
+- Jer_17:9engañoso es el c más que...y perversoH3820
+- Jer_17:10yo Jehová...que pruebo el c, para darH3820
+- Jer_18:12uno el pensamiento de nuestro malvado cH3820
+- Jer_20:9había en mi c como un fuego ardienteH3820
+- Jer_20:12que ves los pensamientos y el c, veaH3820
+- Jer_22:17mas tus ojos y tu c no son sino paraH3820
+- Jer_23:9mi c está quebrantado dentro de mi, todosH3820
+- Jer_23:16hablan visión de su propio c, no de laH3820
+- Jer_23:17que anda tras la obstinación de su cH3820
+- Jer_23:20haya cumplido los pensamientos de su cH3820
+- Jer_23:26¿hasta cuándo estará esto en el c deH3820
+- Jer_23:26profetizan mentira...el engaño de su c?[[H3820]]
+- Jer_24:7le daré c...volverán a mí de todo su cH3820
+- Jer_29:13porque me buscaréis de todo vuestro cH3824
+- Jer_30:24y cumplido los pensamientos de su cH3820
+- Jer_31:33daré mi ley en...la escribiré en su cH3820
+- Jer_32:39les daré un c, y un camino, para queH3820
+- Jer_32:40pondré mi temor en el c de ellos, paraH3824
+- Jer_32:41los plantaré...de todo mi c y de todaH3820
+- Jer_48:29de Moab, que es...altivo y altanero de cH3820
+- Jer_48:36mi c resonará...mi c a modo de flautasH3820
+- Jer_48:41c de los valientes...como el c de mujerH3820
+- Jer_49:16te engañó...la soberbia de tu c. Tú queH3820
+- Jer_49:22c de los valientes...como el c de mujerH3820
+- Jer_51:46y no desmaye vuestro c, ni temáis aH3824
+- Lam_1:20mi c se trastorna dentro de mí, porqueH3820
+- Lam_1:22muchos son mis suspiros, y mi c estáH3820
+- Lam_2:18el c de ellos clamaba al Señor; oh hijaH3820
+- Lam_2:19derrama como agua tu c ante...del SeñorH3820
+- Lam_3:21esto recapacitaré en mi c, por lo tantoH3820
+- Lam_3:41levantemos nuestros c y manos a Dios enH3820
+- Lam_3:65entrégalos al endurecimiento de c; tuH3820
+- Lam_5:15cesó el gozo de nuestro c; nuestra danzaH3820
+- Lam_5:17por esto fue entristecido nuestro c, porH3820
+- Eze_2:4a hijos de duro rostro...empedernido cH3820
+- Eze_3:7Israel es dura de frente y obstinada de cH3820
+- Eze_3:10toma en tu c todas mis palabras que yoH3824
+- Eze_6:9me quebranté a causa de su c fornicarioH3820
+- Eze_11:19y les daré un c, y un espíritu nuevoH3820
+- Eze_11:19quitaré el c...y les daré un c de carneH3820
+- Eze_11:21a aquellos cuyo c anda tras el deseo deH3820
+- Eze_13:2, Eze_13:17a los que profetizan de su propio cH3820
+- Eze_13:22entristecisteis...el c del justo, al cualH3820
+- Eze_14:3hombres han puesto sus ídolos en su cH3820
+- Eze_14:4, Eze_14:7que hubiere puesto sus ídolos en su cH3820
+- Eze_14:5tomar a la casa de Israel por el c, yaH3820
+- Eze_16:30¡ cuán inconstante es tu c, dice JehováH3820
+- Eze_18:31haceos un c nuevo y un espíritu nuevoH3826
+- Eze_20:16profanaron...tras sus ídolos iba su cH3820
+- Eze_21:7que desfallezca todo c, y toda mano seH3820
+- Eze_21:15para que el c desmaye, y los estragosH3820
+- Eze_22:14¿estará firme tu c? ¿Serán fuertes tusH3820
+- Eze_27:4en el c de los mares están tus confinesH3820
+- Eze_28:2se enalteció tu c, y dijiste: Yo soy unH3820
+- Eze_28:2no Dios, y has puesto tu c como c de DiosH3820
+- Eze_28:5de tus riquezas se ha enaltecido tu cH3824
+- Eze_28:6por cuanto pusiste tu c como c de DiosH3824, [[H3820]]
+- Eze_28:17enalteció tu c a causa de tu hermosuraH3820
+- Eze_31:10densas ramas, su c se elevó con su alturaH3824
+- Eze_32:9y entristeceré el c de muchos pueblosH3820
+- Eze_33:31el c de ellos anda en pos de su avariciaH3820
+- Eze_36:5que se disputaron mi tierra...de todo cH3824
+- Eze_36:26os daré c nuevo...os daré un c de carneH3820
+- Eze_36:26quitaré de...carne el c de piedra, y osH3820
+- Eze_38:10en aquel día subirán palabras en tu cH3824
+- Eze_40:4tu c a todas las cosas que te muestroH3820
+- Eze_44:7traer extranjeros, incircuncisos de cH3820
+- Eze_44:9ningún hijo...incircunciso de c...entraráH3820
+- Dan_1:8propuso en su c no contaminarse con laH3820
+- Dan_2:30que etiendas los pensamientos de tu cH3825
+- Dan_4:16c de hombre sea cambiado, y le sea dadoH3825
+- Dan_4:16dado c de bestia, y pasen sobre él sieteH3825
+- Dan_5:20mas cuando su c se ensoberbeció, y suH3825
+- Dan_5:22tú...no has humillado tu c, sabiendo todoH3825
+- Dan_7:4fue levantada...y le fue dado c de hombreH3825
+- Dan_7:28se demudó; pero guardé el asunto en mi cH3821
+- Dan_8:25y en su c se engrandecerá, y sin avisoH3824
+- Dan_10:12desde...que dispusiste tu c a entenderH3820
+- Dan_11:12se elevará su c, y derribará a muchosH3824
+- Dan_11:27el c de estos dos reyes será para hacerH3824
+- Dan_11:28su c será contra el pacto santo; haráH3824
+- Ose_2:14llevaré al desierto, y hablaré a su cH3820
+- Ose_7:2no consideran en su c...tengo en memoriaH3824
+- Ose_7:6aplicaron su c, semejante a un horno, a susH3820
+- Ose_7:14no clamaron a...con su c cuando gritabanH3820
+- Ose_10:2está dividido su c...Ahora serán halladosH3820
+- Ose_11:8c se conmueve dentro de mí, se inflamaH3820
+- Ose_13:6repletos, se ensoberbeció su c; por estaH3820
+- Ose_13:8y desgarraré las fibras de su c, y allíH3820
+- Joe_2:12convertíos a mí con todo vuestro cH3824
+- Joe_2:13rasgad vuestro c, y no...vestidos, yH3824
+- Abd_1:3la soberbia de tu c te ha engañado, tuH3820
+- Abd_1:3que dices en tu c: ¿Quién me derribará aH3820
+- Nah_2:10y desolada está, y el c desfallecidoH3820
+- Sof_1:12dicen en su c: Jehová ni hará bien niH3824
+- Sof_2:15que decía en su c: Yo, y no más. ¡CómoH3824
+- Sof_3:14regocíjate de todo c, hija de JerusalénH3820
+- Hag_2:15, Hag_2:18(2)meditad en vuestro cH3824
+- Zac_7:10ninguno piense mal en su c contra suH3824
+- Zac_7:12pusieron su c como diamante, para no oirH3820
+- Zac_8:17y ninguno...piense mal en su c contra suH3824
+- Zac_10:7se alegrará su c como a causa del vinoH3820
+- Zac_10:7se alegrarán; su c se gozará en JehováH3820
+- Zac_12:5los capitanes de Judá dirán en su cH3820
+- Mal_2:2no decidís de c dar gloria a mi nombreH3820
+- Mal_2:2he maldecido...no os habéis decidido de cH3820
+- Mal_4:6volver el c de los padres hacia los hijosH3820
+- Mal_4:6y el c de los hijos hacia los padres, noH3820
+- Mat_5:8bienaventurados los de limpio c, porqueG2588
+- Mat_5:28que mira...ya adulteró con ella en su cG2588
+- Mat_6:21tesoro, allí estará también vuestro cG2588
+- Mat_9:4¿por qué pensáis mal en vuestros c?[[G2588]]
+- Mat_11:29de mí, que soy manso y humilde de cG2588
+- Mat_12:34de la abundancia del c habla la bocaG2588
+- Mat_12:35del buen tesoro del c saca buenas cosasG2588
+- Mat_12:40estará el Hijo...en el c de la tierraG2588
+- Mat_13:15el c de este pueblo se ha engrosadoG2588
+- Mat_13:15y con el c entiendan, y se conviertanG2588
+- Mat_13:19y arrebata lo que fue sembrado en su cG2588
+- Mat_15:8de labios me honra; mas su c está lejosG2588
+- Mat_15:18pero lo que sale de la boca, del c saleG2588
+- Mat_15:19del c salen los malos pensamientos, losG2588
+- Mat_18:35si no perdonáis de todo c cada uno a suG2588
+- Mat_19:8dureza de vuestro c Moisés os permitióG4641
+- Mat_22:37amarás al Señor tu Dios con todo tu cG2588
+- Mat_24:48siervo malo dijere en su c: Mi señorG2588
+- Mar_2:6escribas, los cuales cavilaban en sus cG2588
+- Mar_2:8¿por qué caviláis así en vuestros cG2588
+- Mar_3:5entristecido por la dureza de sus c, dijoG2588
+- Mar_4:15quita la palabra que se sembró en sus cG2588
+- Mar_6:52por cuanto estaban endurecidos sus cG2588
+- Mar_7:6de labios me honra, mas su c está lejosG2588
+- Mar_7:19no entra en su c, sino en el vientre, yG2588
+- Mar_7:21del c de los hombres, salen los malosG2588
+- Mar_8:17¿aún tenéis endurecido vuestro cG2588
+- Mar_10:5por la dureza de vuestro c os escribióG4641
+- Mar_11:23y no dudare en su c, sino creyere queG2588
+- Mar_12:30amarás al Señor tu Dios con todo tu cG2588
+- Mar_12:33y el amarle con todo el c, con todo elG2588
+- Mar_16:14les reprochó su...y dureza de c, porqueG4641
+- Luc_1:17volver los c de los padres a los hijosG2588
+- Luc_1:51los soberbios en el pensamiento de sus cG2588
+- Luc_1:66las guardaban en su c, diciendo: ¿QuiénG2588
+- Luc_2:19María guardaba...meditándolas en su cG2588
+- Luc_2:35revelados los pensamientos de muchos cG2588
+- Luc_2:51su madre guardaba...estas cosas en su cG2588
+- Luc_3:15preguntándose...en sus c si acaso JuanG2588
+- Luc_4:18enviado a sanar a los quebrantados de c
+- Luc_5:22les dijo: ¿Qué caviláis en vuestros c?[[G2588]]
+- Luc_6:45del buen tesoro de su c saca lo buenoG2588
+- Luc_6:45del mal tesoro de su c saca lo maloG2588
+- Luc_6:45de la abundancia del c habla la bocaG2588
+- Luc_8:12viene el diablo y quita...c la palabraG2588
+- Luc_8:15éstos son los que con c bueno y rectoG2588
+- Luc_9:47percibiendo los pensamientos de sus cG2588
+- Luc_10:27amarás al Señor tu Dios con todo tu cG2588
+- Luc_12:34tesoro, allí estará también vuestro cG2588
+- Luc_12:45siervo dijere en su c: Mi señor tardaG2588
+- Luc_16:15mas Dios conoce vuestros c; porque loG2588
+- Luc_21:14proponed en vuestro c no pensar antesG2588
+- Luc_21:34vuestros c no se carguen de glotoneríaG2588
+- Luc_24:25oh insensatos, y tardos de c para creerG2588
+- Luc_24:32ardía nuestro c en nosotros, mientrasG2588
+- Luc_24:38y vienen a vuestro c...pensamientos?[[G2588]]
+- Jua_12:40los ojos de ellos, y endureció su cG2588
+- Jua_12:40para que no vean...y entiendan con el cG2588
+- Jua_13:2diablo ya había puesto en el c de JudasG2588
+- Jua_14:1no se turbe vuestro c; creéis en DiosG2588
+- Jua_14:27no se turbe vuestro c, ni tenga miedoG2588
+- Jua_16:6dicho...la tristeza ha llenado vuestro cG2588
+- Jua_16:22gozará vuestro c, y nadie os quitaráG2588
+- Hec_1:24tú, Señor, que conoces los c de todosG2589
+- Hec_2:26por lo cual mi c se alegró, y se gozóG2588
+- Hec_2:37se compungieron de c, y dijeron a PedroG2588
+- Hec_2:46comían juntos con alegría y sencillez de cG2588
+- Hec_4:32de los que habían creído era de un cG2588
+- Hec_5:3llenó Satanás tu c para que mintieses alG2588
+- Hec_5:4¿por qué pusiste esto en tu c? No hasG2588
+- Hec_7:23le vino al c el visitar a sus hermanosG2588
+- Hec_7:39sino...y en sus c se volvieron a EgiptoG2588
+- Hec_7:51¡duros de cerviz, e incircuncisos de cG2588
+- Hec_7:54oyendo...cosas, se enfurecían en sus cG2588
+- Hec_8:21porque tu c no es recto delante de DiosG2588
+- Hec_8:22te sea perdonado el pensamiento de tu cG2588
+- Hec_8:37dijo: Si crees de todo c, bien puedesG2588
+- Hec_11:23que con propósito de c permaneciesenG2588
+- Hec_13:22a David hijo de...varón conforme a mi cG2588
+- Hec_14:17llenando de sustento y de alegría...cG2588
+- Hec_15:8Dios, que conoce los c, les dio testimonioG2589
+- Hec_15:9diferencia...purificando por la fe sus cG2588
+- Hec_16:14el Señor abrió el c de ella para queG2588
+- Hec_21:13¿qué hacéis...y quebrantándome el c?[[G2588]]
+- Hec_28:27el c de este pueblo se ha engrosado, yG2588
+- Hec_28:27entiendan de c, y se conviertan, y yoG2588
+- Rom_1:21sino que...su necio c fue entenebrecidoG2588
+- Rom_1:24entregó a...las concupiscencias de sus cG2588
+- Rom_2:5por tu c no arrepentido, atesoras...iraG2588
+- Rom_2:15mostrando la obra de la ley...en sus cG2588
+- Rom_2:29la circuncisión es la del c, en espírituG2588
+- Rom_5:5el amor...ha sido derramado en nuestro cG2588
+- Rom_6:17habéis obedecido de c a aquella formaG2588
+- Rom_8:27el que escudriña los c sabe cuál es laG2588
+- Rom_9:2gran tristeza y continuo dolor en mi cG2588
+- Rom_10:1el anhelo de mi c, y mi oración a DiosG2588
+- Rom_10:6no digas en tu c: ¿Quién subirá al cieloG2588
+- Rom_10:8cerca de ti está...en tu boca y en tu cG2588
+- Rom_10:9y creyeres en tu c que Dios le levantóG2588
+- Rom_10:10porque con el c se cree para justiciaG2588
+- Rom_16:18lisonjas engañan los c de los ingenuosG2588
+- 1Co_2:9ni han subido en c de hombre, son losG2588
+- 1Co_4:5y manifestará las intenciones de los cG2588
+- 1Co_7:37pero el que está firme en su c, sin tenerG2588
+- 1Co_7:37ha resuelto en su c guardar a su hijaG2588
+- 1Co_14:25lo oculto de su c se hace manifiestoG2588
+- 2Co_1:22ha dado las arras del...en nuestros cG2588
+- 2Co_2:4por la mucha...angustia del c os escribíG2588
+- 2Co_3:2nuestras cartas...escritas en nuestros cG2588
+- 2Co_3:3de piedra, sino en tablas de carne del cG2588
+- 2Co_3:15el velo está puesto sobre el c de ellosG2588
+- 2Co_4:6Dios...el que resplandeció en nuestros cG2588
+- 2Co_5:12glorían en las apariencias y no en el cG2588
+- 2Co_6:11oh corintios; nuestro c se ha ensanchadoG2588
+- 2Co_6:12sí sois estrechos en vuestro propio cG4698
+- 2Co_7:3ya he dicho antes que estáis en nuestro cG2588
+- 2Co_8:16que puso en el c de Tito la...solicitudG2588
+- 2Co_9:7cada uno dé como propuso en su c: no conG2588
+- Gál_4:6Dios envió a vuestros c el Espíritu deG2588
+- Efe_3:17habite Cristo por la fe en vuestros cG2588
+- Efe_4:18ajenos de la vida...por la dureza de su cG2588
+- Efe_5:19cantando y alabando al...en vuestros cG2588
+- Efe_6:5obedeced a...con sencillez de vuestro cG2588
+- Efe_6:6como...de c haciendo la voluntad de DiosG5590
+- Efe_6:22que sepáis...y que consuele vuestros cG2588
+- Flp_1:7os tengo en el c; y en mis prisionesG2588
+- Flp_4:7y la paz de Dios...guardará vuestros c yG2588
+- Col_2:2para que sean consolados sus c, unidosG2588
+- Col_3:15la paz de Dios gobierne en vuestros cG2588
+- Col_3:16cantando con gracia en vuestros c alG2588
+- Col_3:22sino con c sincero, temiendo a DiosG2588
+- Col_3:23todo lo que hagáis, hacedlo de c, comoG5590
+- Col_4:8para que conozca...y conforte vuestros cG2588
+- 1Ts_2:4sino a Dios, que prueba nuestros cG2588
+- 1Ts_2:17separados de...de vista pero no de cG2588
+- 1Ts_3:13para que sean afirmados vuestros cG2588
+- 2Ts_2:17conforte vuestros c, y os confirmeG2588
+- 2Ts_3:5y el Señor encamine vuestros c al amorG2588
+- 1Ti_1:5es el amor nacido de c limpio, y deG2588
+- 2Ti_2:22con los que de c limpio invocan alG2588
+- Flm_1:7han sido confortados los c de los santosG4698
+- Flm_1:20sí, hermano...conforta mi c en el SeñorG4698
+- Heb_3:8no endurezcáis vuestros c, como en laG2588
+- Heb_3:10dije: Siempre andan vagando en su c, yG2588
+- Heb_3:12que no haya en...c malo de incredulidadG2588
+- Heb_3:15no endurezcáis vuestros c, como en laG2588
+- Heb_4:7si oyereis hoy...no endurezcáis vuestros cG2588
+- Heb_4:12discierne los pensamientos y las...del cG2588
+- Heb_8:10mis leyes en...y sobre su c las escribiréG2588
+- Heb_10:16pondré mis leyes en sus c, y en susG2588
+- Heb_10:22acerquémonos con c sincero, en plenaG2588
+- Heb_10:22purificados los c de mala concienciaG2588
+- Heb_13:9buena cosa es afirmar el c...la graciaG2588
+- Stg_1:26engaña su c, la religión del tal esG2588
+- Stg_3:14si tenéis celos amargos...en vuestro cG2588
+- Stg_4:8los de doble ánimo, purificad vuestros cG2588
+- Stg_5:5habéis engordado vuestros c como en díaG2588
+- Stg_5:8afirmad vuestros c; porque la venida delG2588
+- 1Pe_1:22amaos unos a...entrañablemente, de cG2588
+- 1Pe_3:4el interno, el del c, en el incorruptibleG2588
+- 1Pe_3:15sino santificad...el Señor en vuestros cG2588
+- 2Pe_1:19el lucero de la mañana salga en...cG2588
+- 2Pe_2:14tienen el c habituado a la codicia, yG2588
+- 1Jn_3:17ve a su...y cierra contra él su cG4698
+- 1Jn_3:19aseguraremos nuestros c delante de élG2588
+- 1Jn_3:20pues si nuestro c nos reprende, mayorG2588
+- 1Jn_3:20mayor que nuestro c es Dios, y él sabeG2588
+- 1Jn_3:21si nuestro c no nos reprende, confianzaG2588
+- Rev_2:23soy el que escudriña la mente y el cG2588
+- Rev_17:17Dios ha puesto en sus c el ejecutar loG2588
+- Rev_18:7dice en su c: Yo estoy sentada como reinaG2588

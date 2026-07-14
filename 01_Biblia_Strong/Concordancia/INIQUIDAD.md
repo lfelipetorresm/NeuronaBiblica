@@ -1,0 +1,205 @@
+---
+tipo: concordancia
+palabra: INIQUIDAD
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# INIQUIDAD
+
+- Gén_49:5Simeón y Leví...armas de i sus armasH2555
+- Éxo_34:7perdona la i, la rebelión y el pecadoH5771
+- Éxo_34:7que visita la i de los padres sobre losH5771
+- Éxo_34:9perdona nuestra i y...pecado, y tómanosH5771
+- Lev_10:17para llevar la i de la congregaciónH5771
+- Lev_16:21confesará...las i de los hijos de IsraelH5771
+- Lev_16:22macho cabrío llevará sobre sí...las iH5771
+- Lev_17:16si...ni lavare su cuerpo, llevará su iH5771
+- Lev_20:19descubrir la desnudez de...su i llevaránH5771
+- Lev_22:16pues les harían llevar la i del pecadoH5771
+- Lev_24:15que maldijere a su Dios, llevará su iH5771
+- Lev_26:39decaerán...por su i...la i de sus padresH5771
+- Lev_26:40confesarán su i, y la i de sus padresH5771
+- Lev_26:43se someterán al castigo de sus i; porH5771
+- Núm_5:31el hombre será libre de i, y la mujerH5771
+- Núm_14:18que perdona la i y la rebelión, aunqueH5771
+- Núm_14:19perdona...la i de este pueblo según laH5771
+- Núm_14:34llevaréis vuestras i 40 años, un añoH5771
+- Núm_15:31será cortada esa...su i caerá sobre ellaH5771
+- Núm_18:23los levitas harán...ellos llevarán su iH5771
+- Núm_23:21no ha notado i en Jacob, ni ha vistoH205
+- Deu_32:4Dios de verdad, y sin ninguna i en élH5766
+- Jos_22:20Acán hijo...no pereció solo en su iH5771
+- 1Sa_3:13yo juzgaré su casa...la i que él sabeH5771
+- 1Sa_3:14la i de la casa de Elí no será expiadaH5771
+- 2Sa_19:19al rey: No me culpe mi señor de iH5771
+- 1Re_17:18para traer a memoria mis i, y paraH5771
+- 1Cr_12:17sin haber i en mis manos, véalo elH2555
+- 1Cr_17:9ni los hijos de i lo consumirán másH5766
+- 1Cr_21:8te ruego que quites la i de tu siervoH5771
+- 2Cr_36:14aumentaron la i, siguiendo todasH4603
+- Esd_9:6nuestras i se han multiplicado sobreH5771
+- Esd_9:7por nuestras i...hemos sido entregados enH5771
+- Esd_9:13no nos has castigado de acuerdo con...iH5771
+- Neh_4:5no cubras su i, ni su pecado...borradoH5771
+- Neh_9:2en pie, confesaron...las i de sus padresH5771
+- Job_4:8yo he visto, los que aran i y siembranH205
+- Job_5:16es esperanza al...la i cerrará su bocaH5766
+- Job_6:29volved ahora, y no haya i; volved aúnH5766
+- Job_6:30¿hay i en mi lengua? ¿Acaso no puede miH5766
+- Job_7:21¿y por qué no quitas...y perdonas mi i?[[H5771]]
+- Job_10:6para que inquieras mi i, y busques miH5771
+- Job_10:14has...y no me tendrás por limpio de mi iH5771
+- Job_11:11él...ve asimismo la i, ¿y no hará caso?[[H205]]
+- Job_11:14si alguna i hubiere en tu mano, y laH205
+- Job_13:7¿hablaréis i por Dios? ¿Hablaréis porH5766
+- Job_13:23¿cuántas i y pecados tengo yo? HazmeH5771
+- Job_14:17tienes sellada...y tienes cosida mi iH5771
+- Job_15:5porque tu boca declaró tu i, pues hasH5771
+- Job_15:16el hombre...que bebe la i como agua?[[H5766]]
+- Job_15:35concibieron dolor, dieron a luz i, yH4820
+- Job_16:17a pesar de no haber i en mis manos, yH2555
+- Job_20:27cielos descubrirán su i, y la tierraH5771
+- Job_27:4mis labios no hablarán i, ni mi lenguaH5766
+- Job_31:3y extrañamiento para los que hacen i?[[H205]]
+- Job_31:11es...i que han de castigar los juecesH5771
+- Job_31:33encubrí...escondiendo en mi seno mi iH5771
+- Job_34:8y va en compañía con los que hacen iH205
+- Job_34:10lejos esté de Dios...Omnipotente la iH5766
+- Job_36:10y les dice que se conviertan de la iH205
+- Job_36:21guárdate, no te vuelvas a la i; puesH205
+- Job_36:33tempestad proclama su ira contra la i
+- Sal_5:5aborreces a todos los que hacen iH205
+- Sal_6:8apartaos de mí, todos los hacedores de iH205
+- Sal_7:3si...he hecho esto, si hay en mis manos iH5766
+- Sal_7:14aquí...se preñó de i, y dio a luz engañoH205
+- Sal_7:16i volverá sobre su cabeza, y su agravioH5999
+- Sal_14:4¿no tienen discernimiento...que hacen iH205
+- Sal_28:3que hacen i, los cuales hablan paz conH205
+- Sal_31:10se agotan mis fuerzas a causa de mi iH5771
+- Sal_32:2el hombre a quien Jehová no culpa de iH5771
+- Sal_32:5mi pecado te declaré, y no encubrí mi iH5771
+- Sal_36:1la i del impío me dice al corazón: NoH6588
+- Sal_36:2que su i no será hallada y aborrecidaH5771
+- Sal_36:3las palabras de su boca son i y fraudeH205
+- Sal_36:12allí cayeron los hacedores de i; fueronH205
+- Sal_37:1ni tengas envidia de los que hacen iH5766
+- Sal_38:4mis i se han agravado sobre mi cabezaH5771
+- Sal_38:12los que procuran mi mal hablan i, y losH1942
+- Sal_41:6su corazón recoge para sí i, y al salirH205
+- Sal_49:5he de temer...cuando la i...me rodeare?[[H5771]]
+- Sal_53:4¿no tienen conocimiento...los que hacen iH205
+- Sal_55:3porque sobre mí echaron i, y con furorH205
+- Sal_55:10e i y trabajo hay en medio de ellaH205
+- Sal_56:7pésalos según su i, oh Dios, y derribaH205
+- Sal_58:2en el corazón maquináis i; hacéis pesarH5766
+- Sal_59:2líbrame de los que cometen i, y sálvameH205
+- Sal_59:5no...de todos los que se rebelan con iH205
+- Sal_64:2de la conspiración de los que hacen iH205
+- Sal_64:6inquieren i, hacen una investigaciónH5766
+- Sal_65:3las i prevalecen contra mí; mas nuestrasH5771
+- Sal_66:18en mi corazón hubiese yo mirado a la iH205
+- Sal_79:8no recuerdes contra nosotros las i deH5771
+- Sal_85:2perdonaste la i de tu pueblo; todos losH5771
+- Sal_89:22enemigo, ni hijo de i lo quebrantaráH5766
+- Sal_89:32castigaré con vara...con azotes sus iH5771
+- Sal_92:7brotan...florecen todos los que hacen iH205
+- Sal_94:4se vanagloriarán todos los que hacen i?[[H205]]
+- Sal_94:16estará por mí contra los que hacen i?[[H205]]
+- Sal_94:20¿se juntará contigo el trono de i queH1942
+- Sal_94:23hará volver sobre ellos su i, y losH205
+- Sal_101:8exterminar de...todos los que hagan iH205
+- Sal_103:3él es quien perdona todas tus i, elH5771
+- Sal_103:10no ha hecho...conforme a nuestras iH5771
+- Sal_106:6pecamos...hicimos i, hicimos impiedadH5753
+- Sal_119:3pues no hacen i los que andan en susH5766
+- Sal_119:133pasos...y ninguna i se enseñoree de míH205
+- Sal_125:3no sea que extiendan sus manos a la iH5766
+- Sal_125:5Jehová los llevará con los que hacen iH205
+- Sal_141:4hacen obras impías con los que hacen iH205
+- Sal_141:9y de las trampas de los que hacen iH205
+- Pro_4:24aparta...aleja de ti la i de los labiosH3891
+- Pro_5:22prenderán al impío sus...i, y retenidoH5771
+- Pro_10:3al justo; mas la i lanzará a los impíosH1942
+- Pro_19:28la boca de los impíos encubrirá la iH205
+- Pro_21:15mas destrucción a los que hacen iH205
+- Pro_22:8el que sembrare i, i segará, y la varaH5766
+- Pro_24:2piensa en robar, e i hablan sus labiosH5999
+- Ecl_3:16vi...en lugar de la justicia, allí iH7562
+- Isa_1:13luna...son i vuestras fiestas solemnesH205
+- Isa_1:16lavaos...quitad la i de vuestras obrasH7455
+- Isa_5:18¡ay de los que traen la i con cuerdasH5771
+- Isa_13:11y castigaré al mundo...impíos por su iH5771
+- Isa_26:10en tierra de rectitud hará i, y noH5765
+- Isa_27:9esta manera será perdonada la i de JacobH5771
+- Isa_29:20todos los que se desvelan para hacer iH205
+- Isa_30:12confiasteis en violencia y en i, y enH3868
+- Isa_31:2y contra el auxilio de los que hacen iH205
+- Isa_32:6el ruin hablará ruindades...fabricará iH205
+- Isa_33:24pueblo que more...será perdonada la iH5771
+- Isa_53:11justificará, y llevará las i de ellosH5771
+- Isa_57:17por la i de su codicia me enojé, y leH5771
+- Isa_59:2pero vuestras i han hecho división entreH5771
+- Isa_59:3vuestras manos están contaminadas...de iH5771
+- Isa_59:4hablan...conciben maldades, y dan a luz iH205
+- Isa_59:6obras son obras de i, y obra de rapiñaH205
+- Isa_59:7sus pensamientos, pensamientos de iH205
+- Isa_59:12porque con nosotros están nuestras iH6588
+- Isa_59:20los que se volvieren de la i en JacobH6588
+- Isa_64:9ni tengas perpetua memoria de la i; heH5771
+- Isa_65:7por vuestras i...las i de vuestros padresH5771
+- Jer_4:14en medio de ti los pensamientos de i?[[H205]]
+- Jer_5:25vuestras i han estorbado estas cosas, yH5771
+- Jer_14:7nuestras i testifican contra nosotrosH5771
+- Jer_14:20reconocemos, la i de nuestros padresH5771
+- Jer_16:18pero primero pagaré al doble su i y suH5771
+- Jer_30:15por la grandeza de tu i y...pecados teH5771
+- Lam_4:6aumentó la i de la hija de mi puebloH5771
+- Lam_4:22castigará tu i, oh...de Edom; descubriráH5771
+- Eze_7:13causa de su i ninguno podrá ampararH5771
+- Eze_7:16estarán...gimiendo...cada uno por su iH5771
+- Eze_18:26haciendo i, él morirá...la i que hizoH5766
+- Eze_18:30apartaos...y no os será la i causa deH5771
+- Eze_28:16fuiste lleno de i, y pecaste; por loH2555
+- Eze_28:18y con la i...profanaste tu santuarioH5766
+- Eze_33:13confiado...hiciere i...morirá por su iH5766
+- Eze_33:15caminare en los...no haciendo i, viviráH5766
+- Eze_33:18se apartare de su...e hiciere i, moriráH5766
+- Eze_36:31os avergonzaréis de...por vuestras iH5771
+- Eze_36:32y cubríos de confusión por vuestras i
+- Eze_36:33día que os limpie de todas vuestras iH5771
+- Eze_44:10que se apartaron de mi...llevarán su iH5771
+- Eze_44:12dice Jehová...que ellos llevarán su iH5771
+- Dan_4:27y tus i haciendo misericordias paraH5758
+- Dan_9:5hemos pecado, hemos cometido i, hemosH5753
+- Dan_9:24y expiar la i, para traer la justiciaH5771
+- Ose_6:8ciudad de hacedores de i, manchada deH205
+- Ose_7:1a Israel, se descubrió la i de EfraínH5771
+- Ose_9:13; Ose_9:9se acordará de su i, y castigaráH5771
+- Ose_10:13habéis arado impiedad, y segasteis iH5766
+- Ose_12:8nadie hallará i en mí, ni pecado en todosH5771
+- Ose_12:11¿es Galaad i? Ciertamente vanidad hanH205
+- Ose_14:2quita toda i, y acepta el bien, y teH5771
+- Amó_6:3vosotros que...acercáis la silla de iH2555
+- Miq_2:1¡ay de los que en sus camas piensan iH205
+- Miq_7:19él...sepultará nuestras i, y echará en loH5771
+- Hab_1:3¿por qué me haces ver i...y molestia?[[H205]]
+- Hab_2:12¡ay del que...que funda una ciudad con i![[H5766]]
+- Sof_3:5Jehová en medio...es justo, no hará iH5766
+- Zac_5:6esta es la i de ellos en toda la tierraH5869
+- Mal_2:6e i no fue hallada en sus labios; enH5766
+- Mal_2:6anduvo...y a muchos hizo apartar de la iH5771
+- Mal_2:16aborrece...al que cubre de i su vestidoH2555
+- Mat_13:41recogerán...a todos...los que hacen iG458
+- Mat_23:28pero por dentro estáis llenos de...e iG458
+- Hec_1:18con el salario de su i adquirió unG93
+- Rom_4:7i son perdonadas, y cuyos pecados sonG458
+- Rom_6:13vuestros miembros...instrumentos de iG93
+- Rom_6:19así como para i presentasteis...miembrosG458
+- Rom_6:19para servir a la inmundicia y a la i, asíG458
+- 2Ts_2:7está en acción el misterio de la iG458
+- 2Ts_2:10y con todo engaño de i para los que seG93
+- 2Ti_2:19apártese de i todo aquel que invocaG93
+- Tit_2:14se dio a...para redimirnos de toda iG458
+- Heb_8:12nunca más me acordaré de...y de sus iG93
+- 2Pe_2:16y fue reprendido por su i; pues unaG3892

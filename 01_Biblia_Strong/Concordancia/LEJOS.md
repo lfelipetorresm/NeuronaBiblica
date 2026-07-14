@@ -1,0 +1,144 @@
+---
+tipo: concordancia
+palabra: LEJOS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LEJOS
+
+- Gén_18:25l de ti el...que hagas morir al justoH2486
+- Gén_22:4alzó Abraham sus ojos, y vio el lugar de lH7350
+- Gén_25:6los envió l de Isaac su hijo, mientras él vivía
+- Gén_37:18vieron de l,...conspiraron contra él para matarleH7350
+- Éxo_2:4a lo l, para ver lo que le aconteceríaH7350
+- Éxo_8:28con tal que no vayáis más l; orad porH7368
+- Éxo_20:18temblaron, y se pusieron de lH7350
+- Éxo_20:21el pueblo estuvo a lo l, y Moisés se acercóH7350
+- Éxo_24:1sube ante Jehová,...y os inclinaréis desde lH7350
+- Éxo_33:7Moisés tomó el tabernáculo, y lo levantó lH7368
+- Núm_9:10estuviere de viaje l, celebrará la pascuaH7350
+- Deu_12:21estuviere l de ti el lugar que JehováH7368
+- Deu_13:7los dioses...cerca de ti o l de ti, desdeH7350
+- Deu_14:24por estar l de ti el lugar que JehováH7368
+- Deu_20:15así harás a...ciudades que estén muy lH7350
+- Deu_28:49Jehová traerá contra ti una nación de lH7350
+- Deu_30:11no...demasiado difícil para ti, ni está lH7350
+- Deu_32:26yo había dicho que los esparciría lH6284
+- Jos_3:16se detuvieron como en un montón bien lH7368
+- Jos_9:22diciendo: Habitamos muy l de vosotrosH7350
+- Jue_5:11L del ruido de los arqueros, en los
+- Jue_18:7y estaban l de los sidonios, y no tenían negociosH7350
+- Jue_18:28estaban l de Sidón, y no tenían negocios con nadieH7350
+- 1Sa_12:23l...de mí que peque yo contra Jehová
+- 1Sa_21:5las mujeres han estado l de nosotrosH6113
+- 1Sa_22:15l sea de mí; no culpe el rey de cosaH2486
+- 1Sa_26:13se puso en la cumbre del monte a lo lH7350
+- 2Sa_23:17l sea de mí, oh Jehová, que yo hagaH2486
+- 1Re_8:46y lleve a tierra enemiga, sea l o cercaH7350
+- 2Re_2:7vinieron...y se pararon delante a lo lH7350
+- 2Re_3:22vieron...de Moab desde l las aguas rojasH5048
+- 2Cr_6:36que...los lleven cautivos...l o cercaH7350
+- 2Cr_26:15fama se extendió l, porque fue ayudadoH7350
+- Esd_3:13y se oía el ruido hasta de lH7350
+- Neh_4:19apartados en el muro, l unos de otrosH7350
+- Neh_12:43alborozo de Jerusalén fue oído desde lH7350
+- Job_2:12alzando los ojos desde l, no loH7350
+- Job_5:4sus hijos estarán l de la seguridad; enH7350
+- Job_21:16el consejo de los impíos l esté de míH7350
+- Job_22:18pero sea el consejo de ellos l de míH7350
+- Job_28:4abren minas l...l de los demás hombresH5973
+- Job_34:10oídme: L esté de Dios la impiedad, y delH2486
+- Job_36:3tomaré mi saber desde lH7350
+- Job_36:25todos la ven; la mira el hombre de lH7350
+- Job_39:25y desde l huele la batallaH7350
+- Job_39:29sus ojos observan de muy lH7350
+- Sal_10:1¿por qué estás l...y te escondes enH7350
+- Sal_10:5tus juicios los tiene muy l de su vistaH5048
+- Sal_22:1¿por qué estás tan l de mi salvación, yH7350
+- Sal_38:11mis amigos...se mantienen l de mi plagaH7350
+- Sal_55:7ciertamente huiría l; moraría...desiertoH7368
+- Sal_103:12está l el oriente del occidente, hizoH7350
+- Sal_109:10procuren su pan l de sus desolados hogares
+- Sal_119:155l está de los impíos la salvaciónH7350
+- Sal_138:6al humilde, mas al altivo mira de lH4801
+- Sal_139:2has entendido desde l mis pensamientosH7350
+- Pro_15:29Jehová está l de los impíos; pero élH7350
+- Pro_27:10mejor...vecino cerca que el hermano lH7350
+- Pro_31:14como nave de mercader; trae su pan de lH4801
+- Ecl_7:24l está lo que fue; y lo muy profundoH7350
+- Isa_6:12que Jehová haya echado l a los hombresH7350
+- Isa_10:3cuando venga de l el asolamiento?[[H4801]]
+- Isa_17:13pero Dios los reprenderá, y huirán lH4801
+- Isa_22:3fueron atados juntamente, aunque habían huido lH7350
+- Isa_22:11ni mirasteis de l al que lo labró
+- Isa_23:7sus pies la llevarán a morar lH7350
+- Isa_29:13me honra, pero su corazón está l de míH7368
+- Isa_30:27he aquí que el nombre de Jehová viene de lH4801
+- Isa_33:13oíd, los que estáis l, lo que he hechoH7350
+- Isa_33:17tus ojos verán...la tierra que está lH4801
+- Isa_43:6trae de l mis hijos, y mis hijas de losH7350
+- Isa_46:12oídme, duros...estáis l de la justiciaH7350
+- Isa_49:12éstos vendrán de l...éstos del norte yH7350
+- Isa_49:19y tus destruidores serán apartados lH7368
+- Isa_54:14con justicia...estarás l de opresiónH7368
+- Isa_57:9y enviaste tus embajadores lH7350
+- Isa_57:19paz, paz al que está l y al cercanoH7350
+- Isa_59:14el...se retiró, y la justicia se puso lH7350
+- Isa_60:4vinieron a ti; tus hijos vendrán de l, yH7350
+- Isa_60:9para traer tus hijos de l, su plata y su oroH7350
+- Jer_5:15traigo sobre vosotros gente de l, ohH4801
+- Jer_12:2cercano estás tú en sus bocas, pero l de susH7350
+- Jer_23:23Dios de cerca...y no Dios desde muy l?[[H7350]]
+- Jer_25:26los de cerca y los de l, los unos conH7350
+- Jer_30:10yo soy el que te salvo de l a ti y a tuH7350
+- Jer_31:10hacedlo saber en las costas que están lH4801
+- Jer_46:27te salvaré de l, y a tu descendenciaH7350
+- Jer_48:24sobre todas las ciudades...de l y las deH7350
+- Jer_49:30huid, idos muy l, habitad en lugaresH3966
+- Eze_6:12el que esté l morirá de pestilenciaH7350
+- Eze_11:16les he arrojado l entre las nacionesH7368
+- Eze_22:5cerca de ti y las que están l se reiránH7350
+- Eze_23:40enviaron por hombres que viniesen de lH4801
+- Eze_43:9arrojarán l de mí sus fornicacionesH7350
+- Dan_9:7todo Israel, los de cerca y los de lH7350
+- Amó_7:17Israel será llevado cautivo l de
+- Jon_1:3a Tarsis, l de la presencia de Jehová
+- Miq_4:3corregirá a naciones poderosas hasta muy lH7350
+- Hab_1:8vendrán de l sus jinetes, y volaránH7350
+- Zac_6:15los que están l vendrán y ayudarán aH7350
+- Mat_8:30estaba paciendo l de ellos un hato de
+- Mat_15:8me honra; mas su corazón está l de míG4206
+- Mat_21:33edificó una torre, y la arrendó...fue l
+- Mat_25:14es como un hombre que yéndose l
+- Mat_25:15conforme a su capacidad; y luego se fue l
+- Mat_26:58le seguía de l hasta el patio del sumo sacerdoteG3113
+- Mat_27:55estaban allí muchas mujeres mirando de lG3113
+- Mar_5:6vio, pues, a Jesús de l, corrió, y seG3113
+- Mar_7:6me honra, mas su corazón está l de míG4206
+- Mar_8:3pues algunos de ellos han venido de lG3113
+- Mar_8:25fue restablecido, y vio de l...y claramenteG5081
+- Mar_11:13viendo de l una higuera que tenía hojasG3113
+- Mar_12:1la arrendó a unos labradores, y se fue l
+- Mar_12:34no estás l del reino de DiosG3112
+- Mar_14:54Pedro le siguió de l hasta dentro del patioG3113
+- Mar_15:40había algunas mujeres mirando de lG3113
+- Luc_7:6pero cuando ya no estaban l de la casaG3112
+- Luc_14:32cuando el otro está todavía l
+- Luc_15:13se fue l a una provincia apartadaG3117
+- Luc_15:20y cuando aún estaba l, lo vio su padre
+- Luc_16:23vio de l a Abraham, y a Lázaro en su senoG3113
+- Luc_17:12los cuales se pararon de lG4207
+- Luc_18:13estando l, no quería ni aun alzar los ojos alG3113
+- Luc_22:54y Pedro le seguía de lG3113
+- Luc_23:49estaban l mirando estas cosasG3113
+- Luc_24:28llegaron...y él hizo como que iba más lG4208
+- Hec_2:39promesa...para todos los que están lG3112
+- Hec_17:27no está l de cada uno de nosotrosG3112
+- Hec_22:21vé, porque yo te enviaré l a los gentilesG3112
+- Gál_6:14pero l esté de mí gloriarme
+- Efe_2:13otro tiempo estabais l, habéis sidoG3112
+- Efe_2:17anunció...paz a vosotros que estabais lG3112
+- Heb_11:13sino mirándolo de l, y creyéndolo, yG4207
+- Rev_18:10, Rev_18:15l por el temor de su tormentoG3113
+- Rev_18:17los que trabajan en el mar, se pararon lG3113

@@ -1,0 +1,83 @@
+---
+tipo: concordancia
+palabra: MARÍA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MARÍA
+
+- 1 Hermana de Moisés
+- Éxo_15:20M la profetisa...tomó un pandero enH4813
+- Éxo_15:21y M les respondía: Cantad a JehováH4813
+- Núm_12:1M y Aarón hablaron contra Moisés aH4813
+- Núm_12:4dijo Jehová a...M: Salid vosotros tresH4813
+- Núm_12:5Jehová descendió...llamó a Aarón y a MH4813
+- Núm_12:10que M estaba leprosa...y miró Aarón a MH4813
+- Núm_12:15M fue echada del campamento siete díasH4813
+- Núm_12:15pueblo no pasó...hasta que se reunió MH4813
+- Núm_20:1y allí murió M, y allí fue sepultadaH4813
+- Núm_26:39dio a luz...a Aarón y a Moisés, y a MH4813
+- Deu_24:9acuérdate de lo que hizo...Dios a MH4813
+- 1Cr_6:3hijos de Amram: Aarón, Moisés y MH4813
+- Miq_6:4envié delante de ti a Moisés...y a MH4813
+- 2 Hija de Esdras No.1, 1Cr_4:17H4813
+- 3 Madre de Jesucristo
+- Mat_1:16Jacob engendró a José, marido de MG3137
+- Mat_1:18estando desposada M su madre con JoséG3137
+- Mat_1:20no temas recibir a M tu mujer, porqueG3137
+- Mat_2:11la casa, vieron al niño con su madre MG3137
+- Mat_13:55¿no se llama su madre M, y sus hermanosG3137
+- Mar_6:3¿no es éste el carpintero, hijo de MG3137
+- Luc_1:27virgen...el nombre de la virgen era MG3137
+- Luc_1:30M, no temas, porque has hallado graciaG3137
+- Luc_1:34M dijo al ángel: ¿Cómo será esto? puesG3137
+- Luc_1:38entonces M dijo: He aquí la sierva delG3137
+- Luc_1:39M, fue de prisa a la montaña, a...de JudáG3137
+- Luc_1:41cuando oyó Elisabet la salutación de MG3137
+- Luc_1:46entonces M dijo: Engrandece mi alma alG3137
+- Luc_1:56y se quedó M con ella como tres mesesG3137
+- Luc_2:5empadronado con M su mujer, desposadaG3137
+- Luc_2:16vinieron...y hallaron a M y a José, yG3137
+- Luc_2:19M guardaba todas estas cosas...corazónG3137
+- Luc_2:34dijo a su madre M: He aquí, éste estáG3137
+- Hec_1:14perseveraban...oración y ruego...con MG3137
+- 4 Magdalena
+- Mat_27:56entre las cuales estaban M MagdalenaG3137
+- Mat_27:61estaban allí M Magdalena, y la otraG3137
+- Mat_28:1vinieron M Magdalena y la otra MaríaG3137
+- Mar_15:40entre las cuales estaban M MagdalenaG3137
+- Mar_15:47y M Magdalena y María madre de JoséG3137
+- Mar_16:1M Magdalena...compraron especiasG3137
+- Mar_16:9apareció primeramente a M Magdalena, deG3137
+- Luc_8:2M, que se llamaba Magdalena, de la queG3137
+- Luc_24:10M Magdalena, y Juana, y María madreG3137
+- Jua_19:25estaban junto a la cruz...M MagdalenaG3137
+- Jua_20:1M Magdalena fue de mañana, siendo aúnG3137
+- Jua_20:11pero M estaba fuera llorando junto alG3137
+- Jua_20:16Jesús le dijo: ¡M! Volviéndose ellaG3137
+- Jua_20:18fue...M Magdalena para dar...las nuevasG3137
+- 5 Madre de Jacobo el menor (quizá = No. 7)
+- Mat_27:56estaban...M la madre de Jacobo y deG3137
+- Mat_27:61otra M, sentadas delante del sepulcroG3137
+- Mat_28:1vinieron...la otra M, a ver el sepulcroG3137
+- Mar_15:40M la madre de Jacobo el menor y deG3137
+- Mar_15:47Magdalena y M madre de José mirabanG3137
+- Mar_16:1M la madre de Jacobo...para ir a ungirleG3137
+- Luc_24:10M madre de Jacobo, y las demás conG3137
+- 6 Hermana de Marta y Lázaro
+- Luc_10:39tenía una hermana que se llamaba MG3137
+- Luc_10:42M ha escogido la buena parte, la cualG3137
+- Jua_11:1Betania, la aldea de M y de Marta suG3137
+- Jua_11:2M...fue la que ungió al Señor con perfumeG3137
+- Jua_11:19los judíos habían venido a Marta y a MG3137
+- Jua_11:20Marta...salió...pero M se quedó en casaG3137
+- Jua_11:28habiendo dicho esto, fue y llamó a MG3137
+- Jua_11:31M se había levantado de prisa y habíaG3137
+- Jua_11:32M, cuando llegó a donde estaba JesúsG3137
+- Jua_11:45que habían venido para acompañar a MG3137
+- Jua_12:3entonces M tomó una libra de perfume deG3137
+- 7 Mujer de Cleofas (posiblemente = No. 5), Jua_19:25G3137
+- 8 Madre de Juan Marcos
+- Hec_12:12llegó a casa de M la madre de JuanG3137
+- 9 Cristiana saludada por Pablo, Rom_16:6G3137

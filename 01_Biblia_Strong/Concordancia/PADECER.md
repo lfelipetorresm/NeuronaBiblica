@@ -1,0 +1,84 @@
+---
+tipo: concordancia
+palabra: PADECER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PADECER
+
+- Lev_15:33para la que padece su costumbre, yH1739
+- Lev_22:4varón...padeciere flujo, no comerá de lasH1739
+- Núm_5:2echen...a todos los que padecen flujoH2100
+- 2Sa_3:29nunca falte de...Joab quien padezcaH2100
+- Job_20:22de su abundancia padecerá estrechezH5607
+- Sal_9:13mi aflicción que padezco a causa de
+- Sal_103:6derecho a...los que padecen violenciaH6231
+- Pro_10:3no dejará padecer hambre al justo; mas
+- Pro_19:15y el alma negligente padecerá hambre
+- Isa_38:14Jehová, violencia padezco; fortalécemeH6234
+- Jer_42:14Egipto, en la...ni padeceremos hambre
+- Lam_5:5padecemos persecución sobre nosotros
+- Eze_24:13en tu inmunda lujuria padecerásH2154
+- Mat_5:10los que padecen persecución por causa
+- Mat_16:21le era necesario ir a...y padecer muchoG3958
+- Mat_17:12el Hijo del Hombre padecerá de ellosG3958
+- Mat_17:15es lunático, y padece muchísimo; porqueG2560
+- Mat_27:19he padecido...en sueños por causa de élG3958
+- Mar_5:25doce años padecía de flujo de sangre
+- Mar_8:31era necesario al Hijo del hombre padecerG3958
+- Mar_9:12que padezca mucho y sea tenido en nada?[[G3958]]
+- Luc_8:43mujer que padecía de flujo de sangre
+- Luc_9:22el Hijo del Hombre padezca muchas cosasG3958
+- Luc_13:2porque padecieron...eran más pecadoresG3958
+- Luc_17:25es necesario que padezca mucho, y seaG3958
+- Luc_22:15comer...esta pascua antes que padezca![[G3958]]
+- Luc_23:41nosotros...justamente padecemos, porqueG514
+- Luc_24:26era necesario que el Cristo padecieraG3958
+- Luc_24:46fue necesario que el Cristo padecieseG3958
+- Hec_1:3haber padecido, se presentó vivoG3958
+- Hec_3:18anunciado...su Cristo había de padecerG3958
+- Hec_5:41tenidos por dignos de padecer afrentaG818
+- Hec_9:16cuánto le es necesario padecer por miG3958
+- Hec_17:3era necesario que el Cristo padecieseG3958
+- Hec_26:23que el Cristo había de padecer, y serG3805
+- Hec_28:5él, sacudiendo la...ningún daño padecióG3958
+- Rom_8:17que padecemos juntamente con élG4841
+- 1Co_4:11padecemos hambre, tenemos sed
+- 1Co_4:12padecemos persecución...la soportamosG430
+- 1Co_12:26un miembro padece, todos los miembrosG4841
+- 2Co_1:6las mismas aflicciones que...padecemosG3958
+- 2Co_4:15padecemos por amor a vosotros, para que
+- 2Co_7:9para que ninguna pérdida padecieseis porG2210
+- 2Co_7:12por causa del que lo padeció, sino para
+- 2Co_11:25tres veces he padecido naufragio; una
+- Gál_3:4¿tantas cosas habéis padecido en vano?[[G3958]]
+- Gál_5:11¿por qué padezco persecución todavía?[[G1377]]
+- Gál_6:12para no padecer persecución a causa deG1377
+- Efe_4:28compartir con el que padece necesidad
+- Flp_1:29él, sino también que padezcáis por élG3958
+- Flp_4:12así para...como para padecer necesidadG5302
+- Col_1:24en lo que padezco por vosotrosG3804
+- 1Ts_2:2habiendo...padecido y sido ultrajadosG4310
+- 1Ts_2:14padecido de los de vuestra...nación lasG3958
+- 1Ts_2:14las mismas cosas que ellas padecieron deG3958
+- 2Ts_1:5reino de Dios, por el cual...padecéis
+- 2Ti_1:12por lo cual asimismo padezco estoG5278
+- 2Ti_3:12quieren vivir piadosamente en...padeceránG1377
+- Heb_2:18él mismo padeció siendo tentado, esG3958
+- Heb_5:8y aunque era Hijo, por lo que padecióG3958
+- Heb_9:26padecer muchas veces desde el principioG3958
+- Heb_13:12santificar...padeció fuera de la puertaG3958
+- 1Pe_2:19si alguno...sufre molestias padeciendoG3958
+- 1Pe_2:21Cristo padeció por nosotros, dejándonosG3958
+- 1Pe_2:23maldición; cuando padecía, no amenazabaG3958
+- 1Pe_3:14cosa padecéis por causa de la justiciaG3958
+- 1Pe_3:17mejor es que padezcáis haciendo el bienG3958
+- 1Pe_3:18padeció una sola vez por los pecados, elG3958
+- 1Pe_4:1que Cristo ha padecido por nosotros en laG3958
+- 1Pe_4:1quien ha padecido en la carne, terminó conG3958
+- 1Pe_4:15así que, ninguno...padezca como homicidaG3958
+- 1Pe_4:16pero si alguno padece como cristiano, noG3958
+- 1Pe_4:19que padecen según la voluntad de DiosG3958
+- 1Pe_5:10después que hayáis padecido un poco deG3958
+- Rev_2:10no temas en nada lo que vas a padecerG3958

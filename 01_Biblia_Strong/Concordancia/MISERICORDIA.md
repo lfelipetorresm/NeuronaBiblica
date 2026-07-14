@@ -1,0 +1,365 @@
+---
+tipo: concordancia
+palabra: MISERICORDIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MISERICORDIA
+
+- Gén_19:16según la m de Jehová para con élH2551
+- Gén_19:19vuestra m que habéis hecho conmigoH2617
+- Gén_24:12oh Jehová...haz m con mi señor AbrahamH2617
+- Gén_24:14en esto conoceré que habrás hecho m conH2617
+- Gén_24:27no apartó de mi amo su m y su verdadH2617
+- Gén_24:49si vosotros hacéis m y verdad con miH2617
+- Gén_32:10menor soy que todas las m y que te daH2617
+- Gén_39:21le extendió su m, y le dio gracia enH2617
+- Gén_40:14ruego que uses conmigo de m, y hagasH2617
+- Gén_43:14el Dios Omnipotente os dé m delante deH7356
+- Gén_43:29y dijo: Dios tenga m de ti, hijo míoH2603
+- Gén_47:29harás conmigo m y verdad. Te ruego queH2580
+- Éxo_15:13condujiste en tu m a este pueblo queH2617
+- Éxo_20:6y hago m a millares, a los que me amanH2617
+- Éxo_33:19y tendré m del que tendré m, y seréH7355
+- Éxo_34:6tardo...la ira, y grande en m y verdadH7349
+- Éxo_34:7que guarda m a millares, que perdona laH2617
+- Núm_6:25haga resplandecer su...y tenga de ti mH2603
+- Núm_14:18tardo para la ira y grande en m, queH2617
+- Núm_14:19perdona...según la grandeza de tu m, yH2617
+- Deu_5:10hago m a millares, a los que me amanH2617
+- Deu_7:2no harás...alianza, ni tendrás de ellas mH2603
+- Deu_7:9que guarda el...y la m a los que le amanH2617
+- Deu_7:12Dios guardará...m que juró a tus padresH2617
+- Deu_13:8no...ni le tendrás m, ni le encubrirásH2347
+- Deu_13:17que Jehová se aparte...y tenga de ti mH7356
+- Deu_30:3tendrá m de ti, y volverá a recogerteH7355
+- Jos_2:12como he hecho m con vosotros, así laH2617
+- Jos_2:14si...nosotros haremos contigo m y verdadH2617
+- Jos_11:20y que no les fuese hecha m, sino queH8467
+- Jue_1:24muéstranos ahora...haremos contigo mH2617
+- Jue_2:18Jehová era movido a m por sus gemidosH5162
+- Rut_1:8Jehová haga con vosotras m, como laH2617
+- 1Sa_15:6mostrasteis m...los hijos de IsraelH2617
+- 1Sa_20:8harás, pues, m con tu siervo, ya queH2617
+- 1Sa_20:14harás conmigo m de Jehová, para que noH2617
+- 1Sa_20:15y no apartarás tu m de mi casa paraH2617
+- 2Sa_2:5que habéis hecho esta m con...con SaúlH2617
+- 2Sa_2:6pues, Jehová haga con vosotros m y verdadH2617
+- 2Sa_3:8yo he hecho hoy m con la casa de Saúl tuH2617
+- 2Sa_7:15mi m no se apartará de él como...de SaúlH2617
+- 2Sa_9:1a quien haga yo m por amor de Jonatán?[[H2617]]
+- 2Sa_9:3ha quedado...a quien haga yo m de Dios?[[H2617]]
+- 2Sa_9:7contigo m por amor de Jonatán tu padreH2617
+- 2Sa_10:2haré m con Hanún hijo de Nahas, comoH2617
+- 2Sa_12:6debe...porque hizo tal cosa, y no tuvo mH2550
+- 2Sa_22:26con el m te mostrarás m, y recto paraH2623
+- 2Sa_22:51salva...y usa de m para con su ungidoH2617
+- 2Sa_24:14porque sus m son muchas, mas no caigaH7356
+- 1Re_2:7a los hijos de Barzilai...harás mH2617
+- 1Re_3:6hiciste gran m a tu siervo David mi padreH2617
+- 1Re_3:6le has reservado esta tu gran m, en queH2617
+- 1Re_8:23guardas el pacto y la m a tus siervosH2617
+- 1Re_8:50harás que tengan de ellos m los que losH7356
+- 2Re_13:23mas Jehová tuvo m de ellos, y seH7355
+- 1Cr_16:34él es bueno; porque su m es eternaH2617
+- 1Cr_16:41glorificar a Jehová...es eterna su mH2617
+- 1Cr_17:13no quitaré de él mi m, como la quitéH2617
+- 1Cr_19:2m con Hanún hijo...su padre me mostró mH2617
+- 1Cr_21:13porque sus m son muchas en extremoH7356
+- 2Cr_1:8has tenido con David mi padre gran mH2617
+- 2Cr_5:13es bueno, porque su m es para siempreH2617
+- 2Cr_6:14que guardas el...y la m con tus siervosH2617
+- 2Cr_6:42acuérdate de tus m para con David tuH2617
+- 2Cr_7:3porque él es bueno...su m es para siempreH2617
+- 2Cr_7:6; 2Cr_20:21porque su m es para siempreH2617
+- 2Cr_24:22Joás no se acordó de la m que JoiadaH2617
+- 2Cr_30:9m delante de los que...tienen cautivosH7349
+- 2Cr_32:32los demás hechos de Ezequías, y sus mH2617
+- 2Cr_36:15porque él tenía m de su pueblo y de suH2550
+- Esd_3:11para siempre es su m sobre IsraelH2617
+- Esd_7:28inclinó hacia mí su m delante del reyH2617
+- Esd_9:8ahora por un breve momento ha habido mH8467
+- Esd_9:9m delante de los reyes de Persia, paraH2617
+- Neh_1:5que guarda el pacto y la m a los queH2617
+- Neh_9:17grande en m, porque no los abandonasteH7349
+- Neh_9:19tú...por tus muchas m no los abandonasteH7356
+- Neh_9:27gran m les enviaste libertadores paraH7356
+- Neh_9:28según tus m muchas veces los librasteH7356
+- Neh_9:31por tus muchas m no los consumiste, niH7356
+- Neh_9:32Dios grande...que guardas el pacto y la mH2617
+- Neh_13:14no borres mis m que hice en la casa deH2617
+- Neh_13:22y perdóname según la grandeza de tu mH2617
+- Job_10:12vida y m me concediste, y tu cuidadoH2617
+- Job_33:24que le diga que Dios tuvo de él m, queH2603
+- Job_37:13por azote...otras por m las hará venirH2617
+- Sal_4:1clamo...ten m de mí, y oye mi oraciónH2603
+- Sal_5:7abundancia de tu m entraré en tu casaH2617
+- Sal_6:2ten m de mí, oh...porque estoy enfermoH2603
+- Sal_6:4vuélvete, oh Jehová...sálvame por tu mH2617
+- Sal_9:13ten m de mí, Jehová; mira mi aflicciónH2603
+- Sal_13:5yo en tu m he confiado; mi corazón seH2617
+- Sal_17:7muestra tus maravillosas m...que salvasH2617
+- Sal_18:50y hace m a su ungido, a David y a suH2617
+- Sal_21:7el rey confía en...en la m del AltísimoH2617
+- Sal_23:6bien y la m me seguirán todos los díasH2617
+- Sal_25:6acuérdate, oh Jehová, de...y de tus mH7356
+- Sal_25:7conforme a tu m acuérdate de mí, porH2617
+- Sal_25:10las sendas de Jehová son m y verdadH2617
+- Sal_25:16mírame, y ten m de mí, porque estoyH2603
+- Sal_26:3porque tu m está delante de mis ojosH2617
+- Sal_26:11yo andaré en...redímeme, y ten m de míH2603
+- Sal_27:7; Sal_30:10oye, oh Jehová...ten m de míH2603
+- Sal_31:7me gozaré y alegraré en tu m, porqueH2617
+- Sal_31:9ten m de mí...porque estoy en angustiaH2603
+- Sal_31:16haz resplandecer tu...sálvame por tu mH2617
+- Sal_31:21ha hecho maravillosa su m para conmigoH2617
+- Sal_32:10al que espera en Jehová, le rodea la mH2617
+- Sal_33:5de la m de Jehová está llena la tierraH2617
+- Sal_33:18el ojo...sobre los que esperan en su mH2617
+- Sal_33:22sea tu m, oh Jehová, sobre nosotrosH2617
+- Sal_36:5Jehová, hasta los cielos llega tu m, yH2617
+- Sal_36:7¡cuán preciosa, oh Dios, es tu m! PorH2617
+- Sal_36:10extiende tu m a los que te conocen, yH2617
+- Sal_37:21y no paga; mas el justo tiene m, y daH2603
+- Sal_37:26en todo tiempo tiene m, y presta; y suH2603
+- Sal_40:10no oculté tu m y tu verdad en grandeH2617
+- Sal_40:11Jehová, no retengas de mí tus m; tuH7356
+- Sal_40:11tu m y tu verdad me guarden siempreH2617
+- Sal_41:4yo dije: Jehová, ten m de mí; sana miH2603
+- Sal_41:10Jehová, ten m de mí, y hazme levantarH2603
+- Sal_42:8de día mandará Jehová su m, y de nocheH2617
+- Sal_44:26levántate...redímenos por causa de tu mH2617
+- Sal_48:9acordamos de tu m, oh Dios, en medio deH2617
+- Sal_51:1piedad de mí, oh Dios, conforme a tu mH2617
+- Sal_52:1¿por qué te...La m de Dios es continuaH2617
+- Sal_52:8la m de Dios confío eternamente y paraH2617
+- Sal_56:1ten m de mí, oh Dios...me devoraría elH2603
+- Sal_57:1m de mí, oh Dios, ten m de mí; porqueH2603
+- Sal_57:3enviará...Dios enviará su m y su verdadH2617
+- Sal_57:10porque grande es hasta los cielos tu mH2617
+- Sal_59:5no tengas m de...los que se rebelan conH2603
+- Sal_59:10Dios de mi m irá delante de mí; DiosH2617
+- Sal_59:16y alabaré de mañana tu m; porque hasH2617
+- Sal_59:17porque eres, oh Dios...el Dios de mi mH2617
+- Sal_61:7prepara m y verdad...que lo conservenH2617
+- Sal_62:12y tuya, oh Señor, es la m; porque túH2617
+- Sal_63:3mejor es tu m que la vida; mis labiosH2617
+- Sal_66:20que no echó de sí mi...ni de mí su mH2617
+- Sal_67:1Dios tenga m de nosotros, y nos bendigaH2603
+- Sal_69:13Dios, por la abundancia de tu m, porH2617
+- Sal_69:16respóndeme, Jehová...benigna es tu mH7356
+- Sal_72:13tendrá m del pobre y del menesterosoH2347
+- Sal_77:8¿ha cesado para siempre su m? ¿Se haH2617
+- Sal_77:9¿ha olvidado Dios el tener m...con IraH2589
+- Sal_79:8vengan pronto tus m a encontrarnosH7356
+- Sal_85:7muéstranos, oh Jehová, tu m, y danos tuH2617
+- Sal_85:10la m y la verdad se encontraron; laH2617
+- Sal_86:3m de mí, oh Jehová; porque a ti clamoH2603
+- Sal_86:5grande en m para con todos los que teH2617
+- Sal_86:13porque tu m es grande para conmigo, yH2617
+- Sal_86:15tú, Señor, Dios...grande en m y verdadH2617
+- Sal_86:16mírame, y ten m de mí; da tu poder aH2603
+- Sal_88:11¿será contada en el sepulcro tu m, oH2617
+- Sal_89:1las m de Jehová cantaré perpetuamenteH2617
+- Sal_89:2para siempre será edificada m; en losH2617
+- Sal_89:14m y verdad van delante de tu rostroH2617
+- Sal_89:24mi verdad y mi m estarán con él, y enH2617
+- Sal_89:28para siempre le conservaré mi m, y miH2617
+- Sal_89:33no quitaré de él mi m, ni falsearé miH2617
+- Sal_89:49Señor, ¿dónde están tus antiguas m, queH2617
+- Sal_90:14de mañana sácianos de tu m...cantaremosH2617
+- Sal_92:2anunciar por la mañana tu m, y...nocheH2617
+- Sal_94:18mi pie...tu m, oh Jehová, me sustentabaH2617
+- Sal_98:3se ha acordado de su m y de su verdadH2617
+- Sal_100:5es bueno; para siempre es su m, y suH2617
+- Sal_101:1m y juicio cantaré; a ti cantaré yoH2617
+- Sal_102:13te levantarás y tendrás m de SionH7355
+- Sal_102:13porque es tiempo de tener m de ellaH2603
+- Sal_103:4vida; el que te corona de favores y mH7356
+- Sal_103:8es...lento para la ira, y grande en mH2617
+- Sal_103:11engrandeció su m sobre...que le temenH2617
+- Sal_103:17la m de Jehová es desde la eternidadH2617
+- Sal_106:1alabad a Jehová...para siempre es su mH2617
+- Sal_106:7no se acordaron de la muchedumbre...mH2617
+- Sal_106:45se arrepentía conforme a la...de sus mH2617
+- Sal_106:46que tuviesen de ellos m todos los queH7356
+- Sal_107:1es bueno; porque para siempre es su mH2617
+- Sal_107:8, Sal_107:15, Sal_107:21, Sal_107:31alaben la m de Jehová, y susH2617
+- Sal_107:43¿quién es...entenderá las m de Jehová?[[H2617]]
+- Sal_108:4más grande que los cielos es tu m, yH2617
+- Sal_109:12no tenga quien lo haga m, ni hayaH2617
+- Sal_109:16por cuanto no se acordó de hacer mH2617
+- Sal_109:21Señor...líbrame, porque tu m es buenaH2617
+- Sal_109:26Jehová Dios...sálvame conforme a tu mH2617
+- Sal_112:5el hombre de bien tiene m, y prestaH2603
+- Sal_115:1da gloria, por tu m, por tu verdadH2617
+- Sal_117:2ha engrandecido sobre nosotros su mH2617
+- Sal_118:1es bueno; porque para siempre es su mH2617
+- Sal_118:2-3, Sal_118:4diga...que para siempre es su mH2617
+- Sal_118:29alabad a Jehová...para siempre es su mH2617
+- Sal_119:29aparta de...y en tu m concédeme tu leyH2603
+- Sal_119:41venga a mí tu m, oh Jehová...salvaciónH2617
+- Sal_119:58supliqué...ten m de mí según tu palabraH2603
+- Sal_119:64tu m, oh Jehová, está llena la tierraH2617
+- Sal_119:76sea...tu m para consolarme, conforme aH2617
+- Sal_119:77vengan a mí tus m, para que vivaH7356
+- Sal_119:88vivifícame conforme a tu m, y guardaréH2617
+- Sal_119:124haz con tu siervo según tu m, yH2617
+- Sal_119:132ten m de mí, como acostumbras conH2603
+- Sal_119:149oye mi voz conforme a tu m; oh JehováH2617
+- Sal_119:156muchas...tus m, oh Jehová; vivifícameH7356
+- Sal_119:159amo tus...vivifícame conforme a tu mH2617
+- Sal_123:2Dios, hasta que tenga m de nosotrosH2603
+- Sal_123:3ten m de...oh Jehová, ten m de nosotrosH2603
+- Sal_130:7espere Israel...porque en Jehová hay mH2617
+- Sal_136:1-26 porque para siempre es su mH2617
+- Sal_138:2postraré...alabaré tu nombre por tu mH2617
+- Sal_138:8tu m, oh Jehová, es para siempre; noH2617
+- Sal_142:1clamaré...con mi voz pediré a Jehová mH2603
+- Sal_143:8hazme oir por la mañana tu m, porqueH2617
+- Sal_143:12y por tu m disiparás a mis enemigosH2617
+- Sal_144:2m mía y mi castillo, fortaleza mía yH2617
+- Sal_145:8es...lento para la ira, y grande en mH2617
+- Sal_145:9bueno...y sus m sobre todas sus obrasH7356
+- Sal_147:11temen, y en los que esperan en su mH2617
+- Pro_3:3nunca se aparten de ti la m y...verdadH2617
+- Pro_14:21mas el que tiene m de los pobres esH2603
+- Pro_14:22m y verdad alcanzarán los que piensanH2617
+- Pro_14:31mas el que tiene m del pobre, lo honraH2603
+- Pro_16:6con m y verdad se corrige el pecado, yH2617
+- Pro_19:22contentamiento es a...hombres hacer mH2617
+- Pro_20:28m y verdad guardan al rey...clemenciaH2617
+- Pro_21:21que sigue la justicia y la m hallaráH2617
+- Pro_28:13mas el que los confiesa...alcanzará mH7355
+- Isa_9:17ni de sus huérfanos y viudas tendrá mH7355
+- Isa_13:18y no tendrán m del fruto del vientreH7355
+- Isa_16:5se dispondrá el trono en m; y sobre élH2617
+- Isa_27:11no tendrá de él m, ni se compadeceráH7355
+- Isa_30:14un vaso de...que sin m lo hacen pedazosH2550
+- Isa_30:18será exaltado teniendo de vosotros mH7355
+- Isa_30:19el que tiene m se apiadará de ti; alH2603
+- Isa_33:2Jehová, ten m de nosotros, a ti hemosH2603
+- Isa_49:10el que tiene de ellos m los guiará, yH7355
+- Isa_49:13ha consolado...y de sus pobres tendrá mH7355
+- Isa_54:7te abandoné...te recogeré con grandes mH7356
+- Isa_54:8pero con m eterna tendré compasión deH7355
+- Isa_54:10pero no se apartará de ti mi m, ni elH7355
+- Isa_54:10paz...dijo Jehová, el que tiene m de tiH2617
+- Isa_55:3haré...pacto eterno, las m firmes a DavidH2617
+- Isa_55:7a Jehová, el cual tendrá de él m, y alH7355
+- Isa_60:10en mi buena voluntad tendré de ti mH7355
+- Isa_63:7de las m de Jehová haré memoria, de lasH7356
+- Isa_63:7beneficios...les ha hecho según sus mH2617
+- Jer_6:23arco y...crueles son, y no tendrán mH7355
+- Jer_9:24hago m, juicio y justicia en la tierraH2617
+- Jer_12:15y tendré m de ellos, y los haré volverH7355
+- Jer_13:14ni tendré...ni m, para no destruirlosH7355
+- Jer_16:5yo he quitado mi paz...dice Jehová, mi mH7356
+- Jer_21:7ni tendrá compasión de ellos, ni...mH7355
+- Jer_30:18de sus tiendas tendré m, y la ciudadH7355
+- Jer_31:3he amado; por tanto, te prolongué mi mH2617
+- Jer_31:9irán con lloro...con m los haré volverH8469
+- Jer_31:20por eso...tendré de él m, dice JehováH7355
+- Jer_32:18que haces m a millares, y castigas laH2617
+- Jer_33:11Jehová es bueno...para siempre es su mH2617
+- Jer_33:26haré volver sus cautivos, y tendré...mH7355
+- Jer_42:12tendré...m, y él tendrá m de vosotrosH7356, [[H7355]]
+- Lam_3:22por la m de...nunca decayeron sus mH2617
+- Lam_3:32compadece según la multitud de sus mH2617
+- Eze_5:11no perdonará, ni tampoco tendré yo mH2550
+- Eze_7:4, Eze_7:9; Eze_8:18ojo no perdonará, ni tendré mH2550
+- Eze_9:5no perdone vuestro ojo, ni tengáis mH2550
+- Eze_9:10mi ojo no perdonará, ni tendré m; haréH2550
+- Eze_16:5se compadeciese de ti...teniendo de ti mH2550
+- Eze_24:14ni tendré m, ni me arrepentiré; segúnH2347
+- Eze_39:25tendré m de toda la casa de Israel, yH7355
+- Dan_2:18pidiesen m del Dios del ciclo sobreH7359
+- Dan_4:27tus iniquidades haciendo m para conH2604
+- Dan_9:4guardas el...y la m con los que te amanH2617
+- Dan_9:9de Jehová nuestro Dios es el tener m yH7356
+- Dan_9:18ante ti confiados...sino en tus muchas mH7356
+- Ose_1:7la casa de Judá tendré m, yH7355
+- Ose_2:4ni tendré m de sus hijos, porque sonH7355
+- Ose_2:19te desposaré conmigo en justicia...y mH7356
+- Ose_2:23y la sembraré...y tendré m de Lo-ruhamaH7355
+- Ose_4:1no hay...m, ni conocimiento de Dios en laH2617
+- Ose_6:6m quiero, y no sacrificio, y conocimientoH2617
+- Ose_10:12segad para vosotros en m; haced paraH2617
+- Ose_12:6guarda m y juicio, y en tu Dios confíaH2617
+- Ose_14:3porque en ti el huérfano alcanzará mH7355
+- Joe_2:13tardo para la ira y grande en m, y queH2617
+- Jon_2:8que siguen vanidades...su m abandonanH2617
+- Jon_4:2eres...tardo en enojarte, y de grande mH2617
+- Miq_6:8y amar m, y humillarte ante tu DiosH2617
+- Miq_7:18no retuvo para...porque se deleita en mH2617
+- Miq_7:19volverá a tener m de nosotros...echaráH7355
+- Miq_7:20a Abraham la m, que juraste a...padresH2617
+- Hab_3:2Jehová...en la ira acuérdate de la mH7355
+- Zac_1:16yo me he vuelto a Jerusalén con mH7356
+- Zac_7:9haced m y piedad cada uno con su hermanoH2617
+- Mat_5:7los misericordiosos...ellos alcanzarán mG1653
+- Mat_9:13que significa: M quiero, y no sacrificioG1656
+- Mat_9:27diciendo: ¡Ten m de nosotros, Hijo deG1653
+- Mat_12:7qué significa: M quiero, y no sacrificioG1656
+- Mat_15:22¡Señor, Hijo de David, ten m de mí![[G1653]]
+- Mat_17:15ten m de mi hijo, que es lunático, yG1653
+- Mat_18:27movido a m, le soltó y le perdonó laG4697
+- Mat_18:33tener m de tu...como yo tuve m de ti?[[G1653]]
+- Mat_20:30-31Hijo de David, ten m de nosotros![[G1653]]
+- Mat_21:41los malos destruirá sin m, y arrendaráG2560
+- Mat_23:23y dejáis lo...la justicia, la m y la feG1653
+- Mar_1:41Jesús, teniendo m de él, extendió laG4697
+- Mar_5:19y cuéntales...y cómo ha tenido m de tiG1653
+- Mar_9:22si puedes hacer algo, ten m de nosotrosG4697
+- Mar_10:47-48¡Hijo de David, ten m de mí![[G1653]]
+- Luc_1:50su m es de generación en generaciónG1656
+- Luc_1:54socorrió a Israel...acordándose de la mG1656
+- Luc_1:58había engrandecido para con ella su mG1656
+- Luc_1:72hacer m con nuestros padres, y...su pactoG1656
+- Luc_1:78por la entrañable m de nuestro Dios, conG1656
+- Luc_10:33samaritano...viéndole, fue movido a mG4697
+- Luc_10:37el que usó de m con él...haz tú lo mismoG1656
+- Luc_15:20lo vio su padre, y fue movido a m, yG4697
+- Luc_16:24padre Abraham, ten m de mí, y envía aG1653
+- Luc_17:13¡Jesús, Maestro, ten m de nosotros![[G1653]]
+- Luc_18:38-39¡Hijo de David, ten m de mí![[G1653]]
+- Hec_13:34así: Os daré las m fieles de DavidG3741
+- Rom_1:31necios, desleales...implacables, sin mG415
+- Rom_9:15dice: Tendré m del que yo tenga m, y meG1653
+- Rom_9:16no depende de...sino de Dios que tiene mG1653
+- Rom_9:18que de quien quiere, tiene m, y al queG1653
+- Rom_9:23las mostró para con los vasos de m queG1656
+- Rom_11:30pero ahora habéis alcanzado m por laG1653
+- Rom_11:31por la m concedida a vosotros, ellosG1656
+- Rom_11:31concedida a...ellos también alcancen mG1653
+- Rom_11:32sujetó a todos...para tener m de todosG1653
+- Rom_12:1así que, hermanos, os ruego por las m deG3628
+- Rom_12:8solicitud; el que hace m, con alegríaG1653
+- Rom_15:9los gentiles glorifiquen a Dios por su mG1656
+- 1Co_7:25como quien ha alcanzado m del SeñorG1653
+- 2Co_1:3bendito sea el Dios y...Padre de m yG3628
+- 2Co_4:1teniendo...según la m que hemos recibidoG1653
+- Gál_6:16paz y m sea a ellos, y al Israel deG1656
+- Efe_2:4Dios, que es rico en m, por su granG1653
+- Flp_2:1si hay alguna consolación...alguna mG3628
+- Flp_2:27pero Dios tuvo m de él, y no solamenteG1653
+- Col_3:12de entrañable m, de benignidad, deG3628
+- 1Ti_1:2m y paz, de Dios nuestro Padre y deG1656
+- 1Ti_1:13mas fui recibido a m porque lo hice porG1653
+- 1Ti_1:16pero por esto fui recibido a m, para queG1653
+- 2Ti_1:2gracia, m y paz, de Dios Padre y deG1656
+- 2Ti_1:16tenga el Señor m de...casa de OnesíforoG1656
+- 2Ti_1:18concédale el Señor que halle m cerca delG1656
+- Tit_1:4a Tito...m y paz, de Dios Padre y delG1656
+- Tit_3:5nos salvó, no por obras...sino por su mG1656
+- Heb_4:16acerquémonos, pues...para alcanzar mG1656
+- Stg_2:13juicio sin m se hará con aquel queG448
+- Stg_2:13no hiciere ni; y la m triunfa sobre elG1656
+- Stg_3:17benigna, llena de m y de buenos frutosG1656
+- 1Pe_1:3que según su grande m nos hizo renacerG1656
+- 1Pe_2:10no habíais alcanzado m, pero ahora...mG1653
+- 2Jn_1:3sea con vosotros gracia, m y paz, deG1656
+- Jud_1:2m y paz y amor os sean multiplicadosG1656
+- Jud_1:21esperando la m de...Jesucristo para vidaG1656
+- Jud_1:23del fuego; y de otros tened m con temorG4982

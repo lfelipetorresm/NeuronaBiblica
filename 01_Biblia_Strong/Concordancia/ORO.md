@@ -1,0 +1,436 @@
+---
+tipo: concordancia
+palabra: ORO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ORO
+
+- Gén_2:11toda la tierra de Havila, donde hay oH2091
+- Gén_2:12y el o de aquella tierra es bueno; hayH2091
+- Gén_13:2Abram era riquísimo en...en plata y en oH2091
+- Gén_24:22le dio el...un pendiente de o que pesabaH2091
+- Gén_24:35Jehová...le ha dado ovejas y vacas...y oH2091
+- Gén_24:53sacó el criado alhajas de plata...de oH2091
+- Gén_41:42Faraón...puso un collar de o en su cuelloH2091
+- Gén_44:8hurtar de casa de tu señor plata ni o?[[H2091]]
+- Éxo_3:22pedirá cada mujer a su...alhajas de oH2091
+- Éxo_11:2una a su vecina, alhajas de plata y de oH2091
+- Éxo_12:35pidiendo de...alhajas de plata, y de oH2091
+- Éxo_20:23no...de plata, ni dioses de o os haréisH2091
+- Éxo_25:3la ofrenda que tomaréis...o, plata, cobreH2091
+- Éxo_25:11la cubrirás de o puro por dentro y porH2091
+- Éxo_25:11sobre ella una cornisa de o alrededorH2091
+- Éxo_25:12fundirás para ella cuatro anillos de oH2091
+- Éxo_25:13unas varas...las cuales cubrirás de oH2091
+- Éxo_25:17harás un propiciatorio de o fino, cuyaH2091
+- Éxo_25:18harás...dos querubines de o; labrados aH2091
+- Éxo_25:24la cubrirás de o puro, y le harás unaH2091
+- Éxo_25:24y le harás una cornisa de o alrededorH2091
+- Éxo_25:25y harás a la moldura una cornisa de o
+- Éxo_25:26harás cuatro anillos de o, los cualesH2091
+- Éxo_25:28harás las varas de...y las cubrirás de oH2091
+- Éxo_25:29platos...cucharas...de o fino los harásH2091
+- Éxo_25:31además un candelero de o puro; labradoH2091
+- Éxo_25:36una pieza labrada a martillo, de o puroH2091
+- Éxo_25:38despabiladeras y sus platillos, de oH2091
+- Éxo_25:39de un talento de o fino lo harás, conH2091
+- Éxo_26:6harás también cincuenta corchetes de oH2091
+- Éxo_26:29cubrirás de o las tablas, y harás susH2091
+- Éxo_26:29harás sus anillos de o...o las barrasH2091
+- Éxo_26:32acacia cubiertas de o...capiteles de oH2091
+- Éxo_26:37cubrirás de o, con sus capiteles de oH2091
+- Éxo_28:5tomarán o, azul, púrpura, carmesí y linoH2091
+- Éxo_28:6harán el efod de o, azul, púrpura...linoH2091
+- Éxo_28:8y su cinto...de o, azul, púrpura, carmesíH2091
+- Éxo_28:11piedras...harás alrededor engastes de oH2091
+- Éxo_28:13harás, pues, los engastes de oH2091
+- Éxo_28:14cordones de o fino, los cuales harás enH2091
+- Éxo_28:15pectoral del juicio...o, azul, púrpuraH2091
+- Éxo_28:20todas estarán montadas en engastes de oH2091
+- Éxo_28:22cordones de hechura de trenzas de oH2091
+- Éxo_28:23harás en el pectoral dos anillos de oH2091
+- Éxo_28:24fijarás los dos cordones de o en losH2091
+- Éxo_28:26-27harás también dos anillos de o, losH2091
+- Éxo_28:33entre ellas campanillas de o alrededorH2091
+- Éxo_28:34campanilla de o...otra campanilla de oH2091
+- Éxo_28:36harás además una lámina de o fino, yH2091
+- Éxo_30:3lo cubrirás de o puro, su cubierta, susH2091
+- Éxo_30:3y le harás en derredor una cornisa de oH2091
+- Éxo_30:4le harás...dos anillos de o debajo de suH2091
+- Éxo_30:5harás las varas de...y las cubrirás de oH2091
+- Éxo_31:4diseños, para trabajar en o, en plataH2091
+- Éxo_32:2apartad los zarcillos de o que están enH2091
+- Éxo_32:3apartó los zarcillos de o que tenían enH2091
+- Éxo_32:24les respondí: ¿Quién tiene o? ApartadloH2091
+- Éxo_32:31un gran pecado...se hicieron dioses de oH2091
+- Éxo_35:5ofrenda para Jehová...o, plata, bronceH2091
+- Éxo_35:22joyas de o...presentaban ofrenda de oH2091
+- Éxo_35:32para trabajar en o, en plata y en bronceH2091
+- Éxo_36:13hizo también 50 corchetes de o, con losH2091
+- Éxo_36:34cubrió de o las tablas...de o los anillosH2091
+- Éxo_36:34barras; cubrió también de o las barrasH2091
+- Éxo_36:36cubrió de o, y sus capiteles eran de oH2091
+- Éxo_36:38cubrió de o los capiteles y...moldurasH2091
+- Éxo_37:2y la cubrió de o...hizo una cornisa de oH2091
+- Éxo_37:3cuatro anillos de o a...cuatro esquinasH2091
+- Éxo_37:4hizo también varas...y las cubrió de oH2091
+- Éxo_37:6hizo asimismo el propiciatorio de o; suH2091
+- Éxo_37:7dos querubines de o, labrados a martilloH2091
+- Éxo_37:11la cubrió de o...hizo una cornisa de oH2091
+- Éxo_37:12hizo en derredor de...una cornisa de oH2091
+- Éxo_37:13hizo...de fundición cuatro anillos de oH2091
+- Éxo_37:15las varas...la mesa, y las cubrió de oH2091
+- Éxo_37:16sus cubiertos y sus tazones...de o finoH2091
+- Éxo_37:17hizo asimismo el candelero de o puroH2091
+- Éxo_37:22era una pieza labrada a martillo, de oH2091
+- Éxo_37:23sus despabiladeras y sus platillos, de oH2091
+- Éxo_37:24de un talento de o puro lo hizo, conH2091
+- Éxo_37:26lo cubrió de o puro...una cornisa de oH2091
+- Éxo_37:27dos anillos de o debajo de la cornisaH2091
+- Éxo_37:28e hizo las varas de...y las cubrió de oH2091
+- Éxo_38:24todo el o...el cual fue o de la ofrendaH2091
+- Éxo_39:2también el efod de o, de azul, púrpuraH2091
+- Éxo_39:3batieron láminas de o, y cortaron hilosH2091
+- Éxo_39:5el cinto...de o, azul, púrpura, carmesí yH2091
+- Éxo_39:6las piedras...montadas en engastes de oH2091
+- Éxo_39:8pectoral...de o, azul, púrpura, carmesíH2091
+- Éxo_39:13montadas y encajadas en engastes de oH2091
+- Éxo_39:15cordones de forma de trenza, de o puroH2091
+- Éxo_39:16hicieron...engastes y dos anillos de oH2091
+- Éxo_39:16dos anillos de o en los dos extremos delH2091
+- Éxo_39:17cordones de o en aquellos dos anillosH2091
+- Éxo_39:18dos cordones de o en los dos engastesH2091
+- Éxo_39:19-20hicieron...anillos de o que pusieronH2091
+- Éxo_39:25hicieron también campanillas de o puroH2091
+- Éxo_39:30la lámina de la diadema santa de o puroH2091
+- Éxo_39:38el altar de o, el aceite de la unciónH2091
+- Éxo_40:5pondrás el altar de o para el inciensoH2091
+- Éxo_40:26puso...el altar de o en el tabernáculoH2091
+- Lev_8:9y sobre la mitra...puso la lámina de oH2091
+- Núm_4:11el altar de o extenderán un paño azulH2091
+- Núm_7:14, Núm_7:20, Núm_7:26, Núm_7:32, Núm_7:38, Núm_7:44, Núm_7:50, Núm_7:56, Núm_7:62, Núm_7:68, Núm_7:74, Núm_7:80una cuchara de o de diez siclosH2091
+- Núm_7:84doce jarros de plata, 12 cucharas de oH2091
+- Núm_7:86doce cucharas de o llenas de inciensoH2091
+- Núm_7:86todo el o de las cucharas, 120 siclosH2091
+- Núm_8:4del candelero, de o labrado a martilloH2091
+- Núm_22:18; Núm_24:13diese su casa llena de plata y oH2091
+- Núm_31:22ciertamente el o y la plata, el bronceH2091
+- Núm_31:50hemos ofrecido a Jehová...alhajas de oH2091
+- Núm_31:51y Moisés y...Eleazar recibieron el o deH2091
+- Núm_31:52todo el o de la ofrenda que ofrecieronH2091
+- Núm_31:54recibieron, pues...el o de los jefes deH2091
+- Deu_7:25no codiciarás...o de ellas para tomarloH2091
+- Deu_8:13y la plata y el o se te multipliquen, yH2091
+- Deu_17:17ni o amontonará para sí en abundanciaH2091
+- Deu_29:17sus ídolos...plata y o...tienen consigoH2091
+- Jos_6:19la plata y el o...consagrados a JehováH2091
+- Jos_6:24pusieron en el tesoro...de Jehová...el oH2091
+- Jos_7:21un lingote de o...lo cual codicié y toméH2091
+- Jos_7:24tomaron a Acán...lingote de o, sus hijosH2091
+- Jos_22:8volved a...con o, y bronce, y...vestidosH2091
+- Jue_8:24traían zarcillos de o, porque eranH2091
+- Jue_8:26de los zarcillos de o...1.700 siclos de oH2091
+- 1Sa_6:4cinco tumores de o, y 5 ratones de oH2091
+- 1Sa_6:8y las joyas de o que le habéis de pagarH2091
+- 1Sa_6:11caja con los ratones de o y las figurasH2091
+- 1Sa_6:15caja...en la cual estaban las joyas de oH2091
+- 1Sa_6:17tumores de o que pagaron los filisteosH2091
+- 1Sa_6:18ratones de o fueron conforme al númeroH2091
+- 2Sa_1:24quien adornaba vuestras ropas con...oH2091
+- 2Sa_8:7y tomó David los escudos de o que traíanH2091
+- 2Sa_8:10Joram llevaba en su...utensilios de...de oH2091
+- 2Sa_8:11dedicó a Jehová, con la plata y el o queH2091
+- 2Sa_12:30la corona de la...pesaba un talento de oH2091
+- 2Sa_21:4no tenemos...querella...sobre o con SaúlH2091
+- 1Re_6:20y lo cubrió de o purísimo; asimismoH2091
+- 1Re_6:20asimismo cubrió de o el altar de cedroH2091
+- 1Re_6:21cubrió de o puro la casa por dentro, yH2091
+- 1Re_6:21cerró...cadenas de o, y lo cubrió de oH2091
+- 1Re_6:22cubrió, pues, de o...casa de arriba abajoH2091
+- 1Re_6:22asimismo cubrió de o todo el altar queH2091
+- 1Re_6:28y cubrió de o los querubinesH2091
+- 1Re_6:30y cubrió de o el piso de la casa, porH2091
+- 1Re_6:32talló en ellas figuras...las cubrió de oH2091
+- 1Re_6:32cubrió también de o los querubines y lasH2091
+- 1Re_6:35cubrió de o ajustado a las talladurasH2091
+- 1Re_7:48un altar de o, y una mesa también de oH2091
+- 1Re_7:49cinco candeleros de o...y tenazas de oH2091
+- 1Re_7:50los cántaros...de o...de o los quicialesH2091
+- 1Re_7:51metió Salomón lo...plata, o y utensiliosH2091
+- 1Re_9:11había traído a Salomón...cuanto o quisoH2091
+- 1Re_9:14había enviado al rey 120 talentos de oH2091
+- 1Re_9:28fueron a Ofir y tomaron de allí o, 420H2091
+- 1Re_10:2a Jerusalén con...o en gran abundanciaH2091
+- 1Re_10:10y dio ella al rey 120 talentos de oH2091
+- 1Re_10:11la flota...que había traído el o de OfirH2091
+- 1Re_10:14el peso del o...era 666 talentos de oH2091
+- 1Re_10:16hizo...200 escudos grandes de o batidoH2091
+- 1Re_10:16seiscientos siclos de o gastó en cadaH2091
+- 1Re_10:17hizo 300 escudos de o batido, en cadaH2091
+- 1Re_10:17en cada uno de...gastó tres libras de oH2091
+- 1Re_10:18trono de marfil, el cual cubrió de oH2091
+- 1Re_10:21los vasos de beber del rey...eran de oH2091
+- 1Re_10:21la vajilla de la casa...era de o finoH2091
+- 1Re_10:22traía o, plata, marfil, monos y pavosH2091
+- 1Re_10:25le llevaban...alhajas de o y de plataH2091
+- 1Re_12:28hizo el rey dos becerros de o, y dijoH2091
+- 1Re_14:26se llevó...los escudos de o que SalomónH2091
+- 1Re_15:15metió en la casa de Jehová...o, plataH2091
+- 1Re_15:18tomando Asa...y el o que había quedadoH2091
+- 1Re_15:19te envío un presente de plata y de oH2091
+- 1Re_20:3tu plata y tu o son míos, y tus mujeresH2091
+- 1Re_20:5tu o, y tus mujeres y tus hijos me darásH2091
+- 1Re_20:7ha enviado a mí...por mi plata y por mi oH2091
+- 1Re_22:48las cuales habían de ir a Ofir por oH2091
+- 2Re_5:5consigo seis mil piezas de o, y diezH2091
+- 2Re_7:8tomaron de allí plata y o y vestidos, yH2091
+- 2Re_10:29en pie los becerros de o que estaban enH2091
+- 2Re_12:13ningún otro utensilio de o ni de plataH2091
+- 2Re_12:18todo el o que se halló en los tesorosH2091
+- 2Re_14:14tomó todo el o, y la plata, y todos losH2091
+- 2Re_16:8tomando Acaz...el o que se halló en laH2091
+- 2Re_18:14impuso a Ezequías rey...30 talentos de oH2091
+- 2Re_18:16Ezequías quitó el o de las puertas delH2091
+- 2Re_18:16quiciales que el...había cubierto de oH2091
+- 2Re_20:13Ezequías los oyó...mostró...o, y especiasH2091
+- 2Re_23:33de cien talentos de plata, y uno de oH2091
+- 2Re_23:35Joacim pagó a Faraón la plata y el oH2091
+- 2Re_23:35sacando...y el o del pueblo de la tierraH2091
+- 2Re_24:13rompió...los utensilios de o que habíaH2091
+- 2Re_25:15cuencos, los que de o, en o, y los queH2091
+- 1Cr_18:7tomó también David los escudos de oH2091
+- 1Cr_18:10envió...toda clase de utensilios de oH2091
+- 1Cr_18:11dedicó a Jehová, con la plata y el oH2091
+- 1Cr_20:2y la halló de peso de un talento de oH2091
+- 1Cr_21:25dio David...el peso de 600 siclos de oH2091
+- 1Cr_22:14he preparado...cien mil talentos de oH2091
+- 1Cr_22:16del o, de la plata, del...no hay cuentaH2091
+- 1Cr_28:14dio o en peso para las cosas de o, paraH2091
+- 1Cr_28:15o en peso para los candeleros de o, yH2091
+- 1Cr_28:15en peso el o para cada candelero y susH2091
+- 1Cr_28:16asimismo dio o en peso para las mesasH2091
+- 1Cr_28:17también o puro...y para las tazas de oH2091
+- 1Cr_28:18o...para el altar...los querubines de oH2091
+- 1Cr_29:2o para las cosas de o, plata para lasH2091
+- 1Cr_29:3guardo en mi tesoro particular o y plataH2091
+- 1Cr_29:4tres mil talentos de o, de o de Ofir, yH2091
+- 1Cr_29:5o, pues, para las cosas de o, y plataH2091
+- 1Cr_29:7dieron...5.000 talentos y...dracmas de oH2091
+- 2Cr_1:15acumuló...rey plata y o en JerusalénH2091
+- 2Cr_2:7un hombre hábil que sepa trabajar en oH2091
+- 2Cr_2:14cual sabe trabajar en o, plata, bronceH2091
+- 2Cr_3:4el pórtico...cubrió por dentro de o puroH2091
+- 2Cr_3:5ciprés, la cual cubrió de o fino, e hizoH2091
+- 2Cr_3:6cubrió también...y el o era o de ParvaimH2091
+- 2Cr_3:7que cubrió la casa...y sus puertas con oH2091
+- 2Cr_3:8y lo cubrió de o fino que ascendía a 600H2091
+- 2Cr_3:9clavos...de o...Cubrió...de o los aposentosH2091
+- 2Cr_3:10dos querubines de madera...cubiertos de oH2091
+- 2Cr_4:7hizo asimismo diez candeleros de o segúnH2091
+- 2Cr_4:8hizo diez mesas...hizo cien tazones de oH2091
+- 2Cr_4:19hizo...el altar de o, y las mesas sobreH2091
+- 2Cr_4:20los candeleros y sus lámparas, de o puroH2091
+- 2Cr_4:21las flores, y tenazas de o, de o finísimoH2091
+- 2Cr_4:22las cucharas y los incensarios...de o puroH2091
+- 2Cr_4:22de o también la entrada de la casa, susH2091
+- 2Cr_5:1plata y el o...en los tesoros de la casaH2091
+- 2Cr_8:18tomaron de allá 450 talentos de o, y losH2091
+- 2Cr_9:1o en abundancia, y piedras preciosas, paraH2091
+- 2Cr_9:9y dio al rey 120 talentos de o, y granH2091
+- 2Cr_9:10siervos...que habían traído el o de OfirH2091
+- 2Cr_9:13el peso del o que...era 666 talentos de oH2091
+- 2Cr_9:14los gobernadores de...traían o y plata aH2091
+- 2Cr_9:15hizo...Salomón doscientos paveses de oH2091
+- 2Cr_9:15paveses...cada uno de...600 siclos de oH2091
+- 2Cr_9:16escudos de o batido...300 siclos de oH2091
+- 2Cr_9:17trono de marfil, y lo cubrió de o puroH2091
+- 2Cr_9:18seis gradas, y un estrado de o fijadoH2091
+- 2Cr_9:20toda la vajilla del rey Salomón era de oH2091
+- 2Cr_9:20la vajilla de la casa del Líbano, de oH2091
+- 2Cr_9:21las naves de Tarsis, y traían o, plataH2091
+- 2Cr_9:24traía su presente...plata, alhajas de oH2091
+- 2Cr_12:9tomó los escudos de o que Salomón habíaH2091
+- 2Cr_13:8tenéis con vosotros los becerros de oH2091
+- 2Cr_13:11el candelero de o con sus lámparas paraH2091
+- 2Cr_15:18y trajo a la casa de Dios lo...plata, oH2091
+- 2Cr_16:2sacó Asa...el o de los tesoros de la casaH2091
+- 2Cr_16:3te he enviado plata y o, para que vengasH2091
+- 2Cr_21:3había dado muchos regalos de o y plataH2091
+- 2Cr_24:14hicieron de él...vasos de o y de plataH2091
+- 2Cr_25:24tomó todo el o y la plata, y todos losH2091
+- 2Cr_32:27Ezequías...adquirió tesoros de plata y oH2091
+- 2Cr_36:3pagar cien talentos de plata y uno de oH2091
+- Esd_1:4ayúdenle los hombres de...con plata, oH2091
+- Esd_1:6les ayudaron con plata y o, con bienes yH2091
+- Esd_1:9treinta tazones de o, mil tazones...plataH2091
+- Esd_1:10treinta tazas de o...410 tazas de plataH2091
+- Esd_1:11los utensilios de o y de plata eran 5.400H2091
+- Esd_2:69dieron...61.000 dracmas de o, cinco milH2091
+- Esd_5:14; Esd_6:5los utensilios de o y de plata de laH1722
+- Esd_7:15llevar la plata y el o que el rey y susH1722
+- Esd_7:16el o que halles en toda la provincia deH1722
+- Esd_7:18os parezca hacer de la otra plata y oH1722
+- Esd_8:25les pesé la plata, el o y los utensiliosH2091
+- Esd_8:26utensilios de plata...cien talentos de oH2091
+- Esd_8:27veinte tazones de o de mil dracmas, yH2091
+- Esd_8:27dos vasos de bronce...preciados como el oH2091
+- Esd_8:28son santos los...la plata y el o, ofrendaH2091
+- Esd_8:30y los levitas recibieron el peso...del oH2091
+- Esd_8:33pesada la plata, el o y los utensiliosH2091
+- Neh_7:70el gobernador dio...mil dracmas de oH2091
+- Neh_7:71cabezas de familia...20.000 dracmas de oH2091
+- Neh_7:72del pueblo dio 20.000 dracmas de oH2091
+- Est_1:6reclinatorios de o y de plata, sobreH2091
+- Est_1:7y daban a beber en vasos de o, y vasosH2091
+- Est_4:11a quien el rey extendiere el cetro de oH2091
+- Est_5:2; Est_8:4rey extendió a Ester el cetro de oH2091
+- Est_8:15con vestido real...y una gran corona de oH2091
+- Job_3:15o con los príncipes que poseían el oH2091
+- Job_22:24tendrás más o que tierra, y...o de OfirH1220
+- Job_23:10él conoce...me probará, y saldré como oH2091
+- Job_28:1la plata...y el o lugar donde se refinaH2091
+- Job_28:6piedras son zafiro, y sus polvos de oH2091
+- Job_28:15no se dará por o, ni su precio será aH5458
+- Job_28:16no puede ser apreciada con o de Ofir, niH3800
+- Job_28:17el o no se le igualará, ni el diamanteH2091
+- Job_28:17ni se cambiará por alhajas de o finoH6337
+- Job_28:19ella...no se podrá apreciar con o finoH3800
+- Job_31:24en el o mi esperanza, y dije al o: MiH2091
+- Job_36:19¿hará él estima de tus riquezas, del oH1222
+- Job_42:11cada uno de ellos le dio...anillo de oH2091
+- Sal_19:10deseables...más que el o...o afinadoH2091
+- Sal_21:3corona de o...has puesto sobre su cabezaH6337
+- Sal_45:9está la reina a tu diestra con o de OfirH3800
+- Sal_45:13la hija...de brocado de o es su vestidoH2091
+- Sal_68:13plata, y sus plumas con amarillez de oH2742
+- Sal_72:15vivirá, y se le dará del o de Sabá, yH2091
+- Sal_105:37los sacó con plata y o; y no hubo enH2091
+- Sal_115:4ídolos de ellos son plata y o, obra deH2091
+- Sal_119:72mejor me es la ley...que millares de oH2091
+- Sal_119:127más que el o, y más que o muy puroH2091
+- Sal_135:15ídolos de las naciones son plata y oH2091
+- Pro_3:14plata, y sus frutos más que el o finoH2742
+- Pro_8:10plata; y ciencia antes que el o escogidoH2742
+- Pro_8:19mejor es mi fruto que el o, y que el oH2742
+- Pro_11:22zarcillo de o en el hocico de un cerdoH2091
+- Pro_16:16mejor es adquirir sabiduría...o preciadoH2742
+- Pro_17:3crisol para la plata...hornaza para el oH2091
+- Pro_20:15hay o y multitud de piedras preciosasH2091
+- Pro_22:1y la buena fama más que la plata y el oH2091
+- Pro_25:11manzana de o con figuras de plata es laH2091
+- Pro_25:12como zarcillo de o y joyel de o fino esH2091
+- Pro_27:21el crisol prueba la...y la hornaza el oH2091
+- Ecl_2:8amontoné también plata y o, y tesorosH2091
+- Ecl_12:6se quiebre, y se rompa el cuenco de oH2091
+- Cnt_1:11zarcillos de o te haremos, tachonadosH2091
+- Cnt_3:10su respaldo de o, su asiento de granaH2091
+- Cnt_5:11su cabeza como o finísimo; sus cabellosH6337
+- Cnt_5:14manos, como anillos de o engastados deH2091
+- Cnt_5:15sus piernas, como...sobre basas de o finoH6337
+- Isa_2:7su tierra está llena de plata y o, susH2091
+- Isa_2:20arrojará el hombre a los...sus ídolos de oH2091
+- Isa_13:12haré más precioso que el o fino al varónH6337
+- Isa_13:12haré...y más que el o de Ofir al hombreH3800
+- Isa_13:17no se ocuparán de la...ni codiciarán oH2091
+- Isa_14:4¡cómo...acabó la ciudad codiciosa de o![[H4062]]
+- Isa_30:22profanarás...tus imágenes fundidas de oH2091
+- Isa_31:7en aquel día arrojará...sus ídolos de oH2091
+- Isa_39:2mostró la casa de su tesoro, plata y oH2091
+- Isa_40:19el platero le extiende el o y le fundeH2091
+- Isa_46:6sacan o de la bolsa, y pesan plata conH2091
+- Isa_60:6o e incienso, y publicarán alabanzas deH2091
+- Isa_60:9traer tus hijos de lejos...su o con ellosH2091
+- Isa_60:17en vez de bronce traeré o, y por hierroH2091
+- Jer_4:30aunque te adornes con atavíos de oH2091
+- Jer_10:4con plata y o lo adornan; con clavos yH2091
+- Jer_10:9traerán plata batida de Tarsis y o deH2091
+- Jer_51:7copa de o fue Babilonia en la mano deH2091
+- Jer_52:19lo de o por o, y lo de plata por plataH2091
+- Lam_4:1¡cómo se ha ennegrecido el o! ¡Cómo elH2091
+- Lam_4:1¡cómo el buen o ha perdido su brillo![[H2091]]
+- Lam_4:2preciados y estimados más que el o puroH6337
+- Eze_7:19arrojarán su plata...o será desechadoH2091
+- Eze_7:19ni su plata ni su o podrá librarlos enH2091
+- Eze_16:13fuiste adornada de o y de plata, y tuH2091
+- Eze_16:17tomaste...tus hermosas alhajas de o yH2091
+- Eze_27:22toda piedra...o, vinieron a tus feriasH2091
+- Eze_28:4has adquirido o y plata en tus tesorosH2091
+- Eze_28:13de zafiro, carbunclo, esmeralda y oH2091
+- Eze_38:13quitar plata y o, para tomar ganados yH2091
+- Dan_2:32la cabeza de esta imagen era de o finoH1722
+- Dan_2:35fueron desmenuzados...la plata y el oH1722
+- Dan_2:38te ha dado...tú eres aquella cabeza de oH1722
+- Dan_2:45desmenuzó el hierro...la plata y el oH1722
+- Dan_3:1hizo una estatua de o cuya altura era deH1722
+- Dan_3:5os postréis y adoréis la estatua de o queH1722
+- Dan_3:7se postraron y adoraron la estatua de oH1722
+- Dan_3:10que...se postre y adore la estatua de oH1722
+- Dan_3:12ni adoran la estatua de o...has levantadoH1722
+- Dan_3:14que vosotros no...adoráis la estatua de oH1722
+- Dan_5:2que trajesen los vasos de o y de plata queH1722
+- Dan_5:3fueron traídos los vasos de o que habíanH1722
+- Dan_5:4y alabaron a los dioses de o y de plataH1722
+- Dan_5:7y un collar de o llevará en su cuello, yH1722
+- Dan_5:16y un collar de o llevarás en tu cuelloH1722
+- Dan_5:23diste alabanza a dioses de plata y o, deH1722
+- Dan_5:29y poner en su cuello un collar de o, yH1722
+- Dan_10:5un varón...ceñidos sus lomos de o de UfazH3800
+- Dan_11:8y sus objetos preciosos de plata y de oH2091
+- Dan_11:38al dios de las...honrará con o y plataH2091
+- Dan_11:43apoderará de los tesoros de o y plataH2091
+- Ose_2:8y que le multipliqué la plata y el oH2091
+- Ose_8:4plata y de su o hicieron ídolos para síH2091
+- Joe_3:5porque habéis llevado mi plata y mi oH2091
+- Nah_2:9saquead o; no hay fin de las riquezasH2091
+- Hab_2:19está cubierto de o y plata, y no hayH2091
+- Sof_1:18ni su o podrá librarlos en el día deH2091
+- Hag_2:8mía es la plata, y mío es el o, diceH2091
+- Zac_4:2he aquí un candelabro todo de o, conH2091
+- Zac_4:12tubos de o vierten de sí aceite como o?[[H2091]]
+- Zac_6:11tomarás...plata y o, y harás coronas, yH2091
+- Zac_9:3amontonó plata...o como lodo de las callesH2742
+- Zac_13:9plata, y los probaré como se prueba el oH2091
+- Zac_14:14o y plata, y ropas de vestir, en granH2091
+- Mal_3:3los afinará como a o y como a plataH2091
+- Mat_2:11ofrecieron presentes: o, incienso yG5557
+- Mat_10:9no os proveáis de o, ni plata, ni cobreG5557
+- Mat_23:16si alguno jura por el o del templo, esG5557
+- Mat_23:17el o, o el templo que santifica al o?[[G5557]]
+- Hec_3:6dijo: No tengo plata ni o, pero lo queG5553
+- Hec_17:29que la Divinidad sea semejante a o, oG5557
+- Hec_20:33ni plata ni o ni...de nadie he codiciadoG5553
+- 1Co_3:12si sobre este...alguno edificare oG5557
+- 1Ti_2:9ni o, ni perlas...ni vestidos costososG5557
+- 2Ti_2:20no solamente hay utensilios de o yG5552
+- Heb_9:4el cual tenía un incensario de o y elG5553
+- Heb_9:4el arca del pacto cubierta de o por todasG5552
+- Heb_9:4urna de o que contenía el maná, la varaG5552
+- Stg_2:2entra un hombre con anillo de o y conG5554
+- Stg_5:3vuestro o y plata están enmohecidos; y suG5557
+- 1Pe_1:7vuestra fe, mucho más preciosa que...oG5553
+- 1Pe_1:18con cosas corruptibles, como o o plataG5553
+- 1Pe_3:3no...de adornos de o o de vestidos lujososG5553
+- Rev_1:12y vuelto, vi siete candeleros de oG5552
+- Rev_1:13ceñido por el pecho con un cinto de oG5552
+- Rev_1:20el misterio de...siete candeleros de oG5552
+- Rev_2:1anda en medio de los 7 candeleros de oG5552
+- Rev_3:18te aconsejo que de mí compres o refinadoG5553
+- Rev_4:4ancianos...con coronas de o en sus cabezasG5552
+- Rev_5:8y copas de o llenas de incienso, que sonG5552
+- Rev_8:3otro ángel vino...con un incensario de oG5552
+- Rev_8:3sobre el altar de o...delante del tronoG5552
+- Rev_9:7en las cabezas tenían como coronas de oG5557
+- Rev_9:13voz de entre los...cuernos del altar de oG5552
+- Rev_9:20ni dejaron de adorar...las imágenes de oG5552
+- Rev_14:14tenía en la cabeza una corona de o, yG5552
+- Rev_15:6ceñidos alrededor del...con cintos de oG5552
+- Rev_15:7dio a los siete ángeles siete copas de oG5552
+- Rev_17:4adornada de o, de piedras preciosas y deG5552
+- Rev_17:4tenía en la mano un cáliz de o lleno deG5557
+- Rev_18:12mercadería de o, de plata, de piedrasG5557
+- Rev_18:16adornada de o, de piedras preciosas yG5557
+- Rev_21:15conmigo tenía una caña de medir, de oG5552
+- Rev_21:18la ciudad era de o puro, semejante alG5553
+- Rev_21:21y la calle de la ciudad era de o puroG5553

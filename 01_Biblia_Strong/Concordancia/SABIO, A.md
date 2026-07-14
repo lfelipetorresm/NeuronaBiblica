@@ -1,0 +1,202 @@
+---
+tipo: concordancia
+palabra: SABIO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SABIO, A
+
+- Gén_41:8hizo llamar a...y a todos sus s; y lesH2450
+- Gén_41:33provéase ahora...un varón prudente y sH2450
+- Gén_41:39todo esto, no hay entendido ni s como túH2450
+- Éxo_1:10seamos s para con él, para que no seH2449
+- Éxo_7:11llamó también Faraón s y hechiceros, eH2450
+- Éxo_28:3y tú hablarás a todos los s de corazónH2450
+- Éxo_31:6puesto sabiduría en el ánimo de todo sH2450
+- Éxo_35:10todo s de corazón...vendrá y hará todasH2450
+- Éxo_35:25las mujeres s de...hilaban con sus manosH2450
+- Éxo_36:1hombre s de corazón a quien Jehová dioH2450
+- Éxo_36:2Moisés llamó...a todo varón s de corazónH2450
+- Éxo_36:8s de corazón de entre los que hacían laH2450
+- Deu_1:13dadme de entre...varones s y entendidosH2450
+- Deu_1:15tomé a...varones s y expertos, y los puseH2450
+- Deu_4:6pueblo s y entendido, nación grande es estaH2450
+- Deu_16:19porque el soborno ciega los ojos de los sH2450
+- Deu_32:29fueran s, que comprendieran esto, y seH2449
+- 2Sa_14:20es s conforme a la sabiduría de unH2450
+- 2Sa_20:16mujer s dio voces en la ciudad, diciendoH2450
+- 1Re_2:9hombre s eres, y sabes cómo debes hacerH2450
+- 1Re_3:12te he dado corazón s y entendido, tantoH2450
+- 1Re_4:31fue más s que todos los hombres, más queH2449
+- 1Re_5:7bendito sea hoy...que dio hijo s a DavidH2450
+- 2Cr_2:12Jehová...dio al rey David un hijo sH2450
+- Est_1:13preguntó...el rey a los s que conocíanH2450
+- Est_6:13le dijeron sus s, y Zeres su mujer: SiH2450
+- Job_5:13prende a los s en la astucia de ellosH2450
+- Job_9:4él es s de corazón, y poderoso en fuerzasH2450
+- Job_15:2¿proferirá el s vana sabiduría...vientoH2450
+- Job_15:18lo que los s nos contaron de sus padresH2450
+- Job_17:10y venid...y no hallaré entre vosotros sH2450
+- Job_22:2para sí mismo es provechoso el hombre sH7919
+- Job_32:9no son los s los de mucha edad, ni losH2449
+- Job_34:2oíd, s, mis palabras, y...estadme atentosH2450
+- Job_34:34inteligentes...y el hombre s que me oigaH2450
+- Job_35:11nos hace s más que a las aves del cielo?[[H2449]]
+- Job_37:24que cree en su propio corazón ser sH2450
+- Sal_19:7el testimonio de...hace s al sencilloH2449
+- Sal_49:10verá que aun los s mueren; que perecenH2450
+- Sal_94:8y vosotros, fatuos, ¿cuándo seréis s?[[H7919]]
+- Sal_107:43¿quién es s y guardará estas cosas, yH2450
+- Sal_119:98me has hecho más s que mis enemigosH2449
+- Pro_1:5oirá el s, y aumentará el saber, y elH2450
+- Pro_1:6palabras de s, y sus dichos profundosH2450
+- Pro_3:7no seas s en tu propia opinión; teme aH2450
+- Pro_3:35los s heredarán honra, mas los neciosH2450
+- Pro_6:6vé a la hormiga...mira sus caminos, y sé sH2450
+- Pro_8:33atended el consejo, y sed s, y no loH2450
+- Pro_9:8corrige al s, y te amaráH2450
+- Pro_9:9da al s, y será más s; enseña al justo, yH2450
+- Pro_9:12fueres s, para ti lo serás; y si fueresH2449
+- Pro_10:1el hijo s alegra al padre, pero el hijoH2450
+- Pro_10:8el s...recibirá los mandamientos; mas elH2450
+- Pro_10:14los s guardan la sabiduría; mas la bocaH2450
+- Pro_11:14no hay dirección s, caerá el puebloH2450
+- Pro_11:29y el necio será siervo del s de corazónH2450
+- Pro_11:30árbol de vida; y el que gana almas es sH2450
+- Pro_12:15necio...el que obedece al consejo es sH2450
+- Pro_12:18mas la lengua de los s es medicinaH2450
+- Pro_13:1el hijo s recibe el consejo del padreH2450
+- Pro_13:14la ley del s es manantial de vida paraH2450
+- Pro_13:20el que anda con s, s será; mas el queH2450
+- Pro_14:1la mujer s edifica su casa; mas la neciaH2450
+- Pro_14:3mas los labios de los s los guardaránH2450
+- Pro_14:16el s teme y se aparta del mal; mas elH2450
+- Pro_14:24riquezas de los s son su corona; peroH2450
+- Pro_15:2la lengua de los s adornará la sabiduríaH2450
+- Pro_15:7la boca de los s esparce sabiduría; no asíH2450
+- Pro_15:12escarnecedor no...ni se junta con los sH2450
+- Pro_15:20hijo s alegra al padre; mas el hombreH2450
+- Pro_15:31el oído que escucha...entre los s moraráH2450
+- Pro_16:14la ira del rey...el hombre s la evitaráH2450
+- Pro_16:21el s de corazón es llamado prudente, yH2450
+- Pro_16:23el corazón del s hace prudente su bocaH2450
+- Pro_17:28necio, cuando calla, es contado por sH2450
+- Pro_18:15y el oído de los s busca la cienciaH2450
+- Pro_19:20escucha el...para que seas s en tu vejezH2449
+- Pro_20:1cualquiera que por ellos yerra no es sH2449
+- Pro_20:18y con dirección s se hace la guerra
+- Pro_20:26el rey s avienta a los impíos, y sobreH2450
+- Pro_21:11es castigado, el simple se hace sH2449
+- Pro_21:11y cuando se le amonesta al s, aprendeH2450
+- Pro_21:20tesoro precioso...hay en la casa del sH2450
+- Pro_21:22tomó el s la ciudad de los fuertes, yH2450
+- Pro_22:17oye las palabras de los s, y aplica tuH2450
+- Pro_23:15si tu corazón fuere s, también a mí seH2449
+- Pro_23:19sé s, y endereza tu corazón al caminoH2449
+- Pro_23:24y el que engendra s se gozará con élH2450
+- Pro_24:5hombre s es fuerte, y de pujante vigorH2450
+- Pro_24:23también estos son dichos de los sH2450
+- Pro_25:12que reprende al s que tiene oído dócilH2450
+- Pro_26:5que no se estime s en su propia opiniónH2450
+- Pro_26:12has visto hombre s en su propia opinión?[[H2450]]
+- Pro_26:16en su...opinión el perezoso es más s queH2450
+- Pro_27:11sé s, hijo mío, y alegra mi corazón, yH2449
+- Pro_28:2mas por el hombre...s permanece estableH3045
+- Pro_28:11el hombre rico es s en su propia opiniónH2450
+- Pro_29:8en llamas, mas los s apartan la iraH2450
+- Pro_29:9si el hombre s contendiere con el necioH2450
+- Pro_29:11toda su ira, mas el s al fin la sosiegaH2450
+- Pro_30:24cuatro cosas son...son más s que los sH2450
+- Ecl_2:14el s tiene sus ojos en su cabeza, masH2450
+- Ecl_2:15he trabajado hasta...por hacerme más s?[[H2450]]
+- Ecl_2:16ni del s ni del necio habrá memoria paraH2450
+- Ecl_2:16pues...también morirá el s como el necioH2450
+- Ecl_2:19¿quién sabe si será s o necio el que seH2450
+- Ecl_4:13mejor es el muchacho pobre y s, que elH2450
+- Ecl_6:8porque ¿qué más tiene el s que el necio?[[H2450]]
+- Ecl_7:4el corazón de los s...en la casa del lutoH2450
+- Ecl_7:5mejor es oír la reprensión del s que laH2450
+- Ecl_7:7la opresión hace entontecer al s, y lasH2450
+- Ecl_7:16ni seas s con exceso; ¿por qué habrás deH2449
+- Ecl_7:19la sabiduría fortalece al s más que diezH2450
+- Ecl_7:23seré s; pero la sabiduría se alejó de míH2450
+- Ecl_8:1¿quién como el s? ¿y quién como el queH2450
+- Ecl_8:5el corazón del s discierne el tiempo y elH2450
+- Ecl_8:17aunque diga el s que la conoce, no porH2450
+- Ecl_9:1los justos, y los s, y sus obras, estánH2450
+- Ecl_9:11ni aun de los s el pan, ni de...prudentesH2450
+- Ecl_9:15se halla en ella un hombre pobre, s, elH2450
+- Ecl_9:17palabras del s...mejores que el clamor delH2450
+- Ecl_10:1al que es estimado como s y honorableH2451
+- Ecl_10:2el corazón del s está a su mano derechaH2450
+- Ecl_10:12las palabras...del s son llenas de graciaH2450
+- Ecl_12:9y cuanto más s fue el Predicador, tantoH2450
+- Ecl_12:11las palabras de los s son como aguijonesH2450
+- Isa_5:21¡ay de los s en sus propios ojos, y deH2450
+- Isa_19:11soy hijo de los s, e hijo de los reyesH2450
+- Isa_19:12¿dónde están ahora aquellos tus s? QueH2450
+- Isa_29:14porque perecerá la sabiduría de sus sH2450
+- Isa_31:2pero él también es s, y traerá el malH2450
+- Isa_40:20se busca un maestro s, que le haga unaH2450
+- Isa_44:25deshago...que hago volver atrás a los sH2450
+- Isa_50:4el Señor me dio lengua de s, para saberH3928
+- Isa_50:4despertará mi oído...que oiga como los sH3928
+- Jer_4:22son s para hacer el mal, pero hacerH2450
+- Jer_8:8¿cómo decís: Nosotros somos s, y la leyH2450
+- Jer_8:9los s se avergonzaron, se espantaron yH2450
+- Jer_9:12¿quién es varón s que entiende esto? ¿y aH2450
+- Jer_9:23no se alabe el s en su sabiduría, ni enH2450
+- Jer_10:7entre todos los s de las naciones y enH2450
+- Jer_18:18la ley no faltará...ni el consejo al sH2450
+- Jer_49:7¿se ha acabado el consejo en los s ¿SeH2451
+- Jer_50:35espada...contra sus príncipes y...sus sH2450
+- Jer_51:57embriagaré a sus príncipes y a sus s, a susH2450
+- Eze_27:8tus s, oh Tiro, estaban en ti; ellosH2450
+- Eze_28:3he aquí que tú eres más s que Daniel; noH2450
+- Dan_1:4s en ciencia y de buen entendimientoH2451
+- Dan_2:12que matasen a todos los s de BabiloniaH2445
+- Dan_2:13de que los s fueran llevados a la muerteH2445
+- Dan_2:14que había salido para matar a los s deH2445
+- Dan_2:18pereciesen con los otros s de BabiloniaH2445
+- Dan_2:21da la sabiduría a los s, y la ciencia aH2445
+- Dan_2:24el rey había puesto para matar a los sH2445
+- Dan_2:24dijo así: No mates a los s de BabiloniaH2445
+- Dan_2:27el misterio...ni s...lo pueden revelar alH2445
+- Dan_2:48jefe supremo de todos los s de BabiloniaH2445
+- Dan_4:6mandé que vinieran...los s de BabiloniaH2445
+- Dan_4:18todos los s de mi reino no han podidoH2445
+- Dan_5:7dijo el rey a los s...Cualquiera que leaH2445
+- Dan_5:8fueron introducidos todos los s del reyH2445
+- Dan_5:15ahora fueron traídos delante de mí s yH2445
+- Dan_11:33los s del pueblo instruirán a muchosH7919
+- Dan_11:35también algunos de los s caerán paraH7919
+- Ose_13:13un hijo no s, porque ya hace tiempoH2450
+- Ose_14:9¿quién es s para que entienda esto, yH2450
+- Abd_1:8¿no haré que perezcan en...los s de EdomH2450
+- Miq_6:9Jehová clama...es s temer a tu nombreH8454
+- Zac_9:2éste: Tiro y Sidón, aunque sean muy sH2449
+- Mat_11:25escondiste estas cosas de los s y deG4680
+- Mat_23:34yo os envío...s y escribas; y de ellosG4680
+- Luc_10:21porque escondiste estas cosas de los sG4680
+- Rom_1:14a griegos y...a s y a no s soy deudorG4680
+- Rom_1:22profesando ser s, se hicieron neciosG4680
+- Rom_12:16no seáis s en vuestra propia opiniónG4680
+- Rom_16:19pero quiero que seáis s para el bienG4680
+- Rom_16:27al único y s Dios, sea gloria medianteG4680
+- 1Co_1:19destruiré la sabiduría de los s, yG4680
+- 1Co_1:20¿dónde está el s? ¿Dónde está elG4680
+- 1Co_1:25porque lo insensato de Dios es más s queG4680
+- 1Co_1:26que no sois muchos s según la carne; niG4680
+- 1Co_1:27que lo necio del...para avergonzar a los sG4680
+- 1Co_3:18si alguno de vosotros se cree s en esteG4680
+- 1Co_3:18hágase ignorante, para que llegue a ser sG4680
+- 1Co_3:19él prende a los s en la astucia de ellosG4680
+- 1Co_3:20el Señor conoce los pensamientos de los sG4680
+- 1Co_6:5no hay entre vosotros s, ni aun uno, queG4680
+- Efe_5:15cómo andéis, no como necios sino como sG4680
+- 1Ti_1:17único y s Dios, sea honor y gloriaG4680
+- 2Ti_3:15las cuales te pueden hacer s para laG4679
+- Stg_3:13¿quién es s y entendido...vosotros?[[G4680]]
+- Stg_3:13muestre por...sus obras en s mansedumbreG4680
+- Jud_1:25único y s Dios...sea gloria y majestadG4680

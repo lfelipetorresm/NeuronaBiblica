@@ -1,0 +1,77 @@
+---
+tipo: concordancia
+palabra: ENTENDIMIENTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENTENDIMIENTO
+
+- Deu_32:28nación privada de...no hay en ellos eH8394
+- 1Sa_25:3Abigail. Era aquella mujer de buen eH7922
+- 1Cr_22:12Jehová te dé e y prudencia, paraH7922
+- Job_12:3también tengo yo e como vosotros; noH3824
+- Job_12:24él quita el e a los jefes del puebloH3820
+- Job_26:12y con su e hiere la arrogancia suyaH8394
+- Job_34:16si...hay en ti e, oye esto; escucha laH998
+- Job_34:35que Job no...sus palabras no son con eH7919
+- Job_42:3¿quién...que oscurece el consejo sin e?[[H1847]]
+- Sal_32:9no seáis como el caballo, o...sin eH995
+- Sal_111:10buen e tienen todos los que practicanH7922
+- Sal_119:34dame e, y guardaré tu ley...la cumpliréH995
+- Sal_119:125tu siervo soy yo, dame e para conocerH995
+- Sal_119:144son tus testimonios: dame e, y viviréH995
+- Sal_119:169Jehová; dame e conforme a tu palabraH995
+- Sal_136:5al que hizo los cielos con e, porqueH8394
+- Sal_147:5grande es el Señor...su e es infinitoH8394
+- Pro_6:32el que comete adulterio es falto de eH3820
+- Pro_7:7consideré entre los...un joven falto de eH3820
+- Pro_10:21mas los necios mueren por falta de eH3820
+- Pro_10:23mas la sabiduría recrea al hombre de eH8394
+- Pro_11:12carece de e menosprecia a su prójimoH8394
+- Pro_12:11sigue a los vagabundos es falto de eH3820
+- Pro_13:15el buen e da gracia; mas el camino deH7922
+- Pro_14:29el que tarda en airarse es grande de eH8394
+- Pro_15:21la necedad es alegría al falto de eH8394
+- Pro_15:32el que escucha la corrección tiene eH3820
+- Pro_16:22manantial de vida es el e al que loH7922
+- Pro_17:16de qué sirve el precio...no teniendo e?[[H2451]]
+- Pro_17:18el hombre falto de e presta fianzas, yH3820
+- Pro_19:8que posee e ama su alma; el que guardaH3820
+- Pro_24:30junto a la viña del hombre falto de eH3820
+- Pro_28:16el príncipe falto de e multiplicará laH8394
+- Pro_30:2ciertamente más rudo soy yo...ni tengo eH998
+- Isa_27:11porque aquél no es pueblo de e; porH998
+- Isa_40:28el Dios...su e no hay quien lo alcanceH8394
+- Isa_44:19ni e para decir: Parte de esto queméH8394
+- Dan_1:4muchachos...de buen e, e idóneos paraH995
+- Dan_1:17Daniel tuvo e en toda visión y sueñosH995
+- Dan_5:12fue hallado en él mayor espíritu...y eH7924
+- Dan_5:14que en ti se halló...e y mayor sabiduríaH7924
+- Dan_9:22ahora he salido para darte sabiduría y eH998
+- Ose_4:14por tanto, el pueblo sin e caeráH995
+- Ose_7:11Efraín fue como paloma incauta, sin eH3820
+- Ose_13:2plata se han hecho según su e imágenesH8394
+- Abd_1:7pusieron lazo debajo...no hay en ello eH8394
+- Mat_15:16; Mar_7:18¿también vosotros...sin e?[[G801]]
+- Mar_12:33el amarle...con todo el e...es más queG4907
+- Luc_24:45entonces les abrió el e, para queG3563
+- Rom_12:2por medio de la renovación de vuestro eG3563
+- 1Co_1:19y desecharé el e de los entendidosG4907
+- 1Co_14:14mi espíritu ora...mi e queda sin frutoG3563
+- 1Co_14:15oraré con mi...oraré también con el eG3563
+- 1Co_14:15cantaré con...cantaré también con el eG3563
+- 1Co_14:19prefiero hablar cinco palabras con mi eG3563
+- 2Co_3:14pero el e de ellos se embotó; porqueG3540
+- 2Co_4:4cegó el e de los incrédulos, para que noG3540
+- Efe_1:18alumbrando los ojos de vuestro e, paraG1271
+- Efe_4:18teniendo el e entenebrecido, ajenos deG1271
+- Flp_4:7la paz de Dios, que sobrepasa todo eG3563
+- Col_2:2todas las riquezas de pleno e, a finG4907
+- 1Ti_6:5disputas...de hombres corruptos de eG3563
+- 2Ti_2:7considera...el Señor te dé e en todoG4907
+- 2Ti_3:8corruptos de e, réprobos en cuanto a laG3563
+- 1Pe_1:13tanto, ceñid los lomos de vuestro eG1271
+- 2Pe_3:1despierto con exhortación vuestro...eG1271
+- 1Jn_5:20nos ha dado e para conocer al queG1271
+- Rev_13:18el que tiene e, cuente el número deG3563

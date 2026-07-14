@@ -1,0 +1,100 @@
+---
+tipo: concordancia
+palabra: LINO (s.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LINO (s.)
+
+- Gén_41:42hizo vestir de ropas de l finísimoH8336
+- Éxo_9:31el l...y la cebada fueron destrozadosH6594
+- Éxo_9:31la cebada estaba ya espigada, y el l enH6594
+- Éxo_25:4azul, púrpura, carmesí, l fino, pelo deH8336
+- Éxo_26:1tabernáculo de diez cortinas de l, azulH8336
+- Éxo_26:31también harás un velo de...y l torcidoH8336
+- Éxo_26:36cortina de azul...y l torcido, obra deH8336
+- Éxo_27:9tendrá el atrio cortinas de l torcidoH8336
+- Éxo_27:16una cortina de...l torcido, de obra deH8336
+- Éxo_27:18cortinas de l torcido, y sus basas deH8336
+- Éxo_28:5tomarán...púrpura, carmesí y l torcidoH8336
+- Éxo_28:6y harán el efod de...l torcido, de obraH8336
+- Éxo_28:8su cinto de...azul, púrpura, carmesí y lH8336
+- Éxo_28:15el pectoral del...púrpura, carmesí y lH8336
+- Éxo_28:39túnica de l, y harás una mitra de lH8336
+- Éxo_28:42harás calzoncillos de l para cubrir suH8336
+- Éxo_35:6azul, púrpura, carmesí, l fino, pelo deH8336
+- Éxo_35:23todo hombre que tenía...carmesí, l finoH8336
+- Éxo_35:25y traían...azul, púrpura, carmesí o lH8336
+- Éxo_35:35bordado en azul...en l fino y en telarH8336
+- Éxo_36:8tabernáculo de diez cortinas de l, azulH8336
+- Éxo_36:35el velo de azul...y l torcido; lo hizoH8336
+- Éxo_36:37la puerta...púrpura, carmesí y l torcidoH8336
+- Éxo_38:9, Éxo_38:16las cortinas del atrio...de l torcidoH8336
+- Éxo_38:18entrada...púrpura, carmesí y l torcidoH8336
+- Éxo_38:23recamador en azul, púrpura, carmesí y lH8336
+- Éxo_39:2el efod de oro, de azul...y l torcidoH8336
+- Éxo_39:3el carmesí y el l, con labor primorosaH8336
+- Éxo_39:5el cinto...púrpura, carmesí y l torcidoH8336
+- Éxo_39:8el pectoral...de oro, azul, púrpura...y lH8336
+- Éxo_39:24granadas de azul...carmesí y l torcido
+- Éxo_39:27túnicas de l fino de obra de tejedorH8336
+- Éxo_39:28la mitra de l fino...tiaras de l finoH8336
+- Éxo_39:28y los calzoncillos de l, de l torcidoH8336, [[H906]]
+- Éxo_39:29el cinto de l torcido, de azul, púrpuraH8336
+- Lev_6:10vestidura de l, y...calzoncillos de lH906, [[[[H906]]]]
+- Lev_13:47plaga de lepra, ya sea vestido de...lH6593
+- Lev_13:48en trama de l o de lana, o en cueroH6593
+- Lev_13:52quemado el vestido...de lana o de l, oH6593
+- Lev_13:59de la lepra del vestido de lana o de lH6593
+- Lev_16:4vestirá la túnica santa de l, y sobreH906
+- Lev_16:4tendrá calzoncillos de l...el cinto de lH906
+- Lev_16:4ceñirá...y con la mitra de l se cubriráH906
+- Lev_16:23quitará las vestiduras de l que habíaH906
+- Lev_16:32y se vestirá las vestiduras de l, lasH906
+- Deu_22:11no vestirás...de lana y l juntamenteH6593
+- Jos_2:6escondido entre los manojos de l queH6593
+- Jue_14:12yo os daré treinta vestidos de l y
+- Jue_14:13me daréis...los treinta vestidos de l
+- Jue_15:14cuerdas...se volvieron como l quemadoH6593
+- 1Sa_2:18ministraba...vestido de un efod de lH906
+- 1Sa_22:18mató a...varones que vestían efod de lH906
+- 2Sa_6:14y estaba David vestido...un efod de lH906
+- 1Cr_4:21de los que trabajan l en Bet-asbeaH948
+- 1Cr_15:27David iba vestido de l fino, y...levitasH948
+- 1Cr_15:27llevaba...David sobre sí un efod de lH906
+- 2Cr_2:14sabe trabajar en...l y en carmesíH948
+- 2Cr_3:14el velo de azul, púrpura, carmesí y lH948
+- 2Cr_5:12levitas cantores...vestidos de l finoH948
+- Est_1:6tendido sobre cuerdas de l y púrpuraH948
+- Est_8:15con vestido...y un manto de l y púrpuraH948
+- Pro_31:13lana y l, y con voluntad trabaja conH6593
+- Pro_31:22hace...de l fino y púrpura es su vestidoH8336
+- Isa_3:23los espejos, el l fino, las gasas yH5466
+- Isa_19:9los que labran l fino y los que tejenH6593
+- Jer_13:1vé y cómprate un cinto de l, y cíñeloH6593
+- Eze_9:2entre ellos había un varón vestido de lH906
+- Eze_9:3llamó Jehová al varón vestido de l, queH906
+- Eze_9:11que el varón vestido de l, que tenía elH906
+- Eze_10:2habló al varón vestido de l, y le dijoH906
+- Eze_10:6mandar al varón vestido de l, diciendoH906
+- Eze_10:7las manos del que estaba vestido de lH906
+- Eze_16:10te vestí...ceñí de l y te cubrí de sedaH8336
+- Eze_16:13y tu vestido era de l...seda y bordadoH8336
+- Eze_27:7de l fino...era tu cortina, para que teH8336
+- Eze_27:16con...l finos, corales y rubíes venía aH948
+- Eze_40:3tenía un cordel de l en su mano, y unaH6593
+- Eze_44:17entren por...vestirán vestiduras de lH6593
+- Eze_44:18turbantes de l...y calzoncillos de lH6593
+- Dan_10:5un varón vestido de l, y ceñidos susH906
+- Dan_12:6y dijo uno al varón vestido de l, queH906
+- Dan_12:7y oí al varón vestido de l, que estabaH906
+- Ose_2:5amantes, que me dan...mi l, mi aceiteH6593
+- Ose_2:9quitaré...mi l que había dado para cubrirH6593
+- Luc_16:19se vestía de púrpura y de l fino, yG1040
+- Rev_15:6siete ángeles...vestidos de l limpioG3043
+- Rev_18:12mercadería de...l fino, de púrpura, deG1040
+- Rev_18:16ciudad, que estaba vestida de l finoG1039
+- Rev_19:8le ha concedido que se vista de l finoG1039
+- Rev_19:8el l fino es las acciones justas de losG1039
+- Rev_19:14vestidos de l finísimos...le seguían enG1039

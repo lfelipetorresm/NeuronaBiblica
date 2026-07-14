@@ -1,0 +1,109 @@
+---
+tipo: concordancia
+palabra: SIERVA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SIERVA
+
+- Gén_16:1ella tenía una s...que se llamaba AgarH8198
+- Gén_16:2te ruego, pues, que te llegues a mi sH8198
+- Gén_16:3a Agar su s...la dio por mujer a AbramH8198
+- Gén_16:5di mi s por mujer, y viéndose encintaH8198
+- Gén_16:6tu s está en tu mano; haz con ella loH8198
+- Gén_16:8Agar, s de Sarai, ¿de dónde vienes túH8198
+- Gén_20:14y siervos y s, y se los dio a AbrahamH8198
+- Gén_20:17Dios sanó...a sus s, y tuvieron hijosH8198
+- Gén_21:10echa a esta s y a su hijo, porque elH519
+- Gén_21:10el hijo de esta s no ha de heredar conH519
+- Gén_21:12grave a causa del muchacho y de tu sH519
+- Gén_21:13hijo de la s haré una nación, porqueH519
+- Gén_24:35ha dado...siervos y s, camellos y asnosH8198
+- Gén_25:12le dio a luz Agar egipcia, s de SaraH8198
+- Gén_29:24dio Labán su s Zilpa a su hija Lea porH8198
+- Gén_29:29dio Labán a Raquel...s Bilha por criadaH8198
+- Gén_30:3mi s Bilha; llégate a ella, y dará a luzH519
+- Gén_30:4le dio a Bilha su s por mujer; y JacobH8198
+- Gén_30:7concibió otra vez Bilha la s de RaquelH8198
+- Gén_30:9tomó a Zilpa su s, y la dio a Jacob porH8198
+- Gén_30:10y Zilpa s de Lea dio a luz un hijo aH8198
+- Gén_30:12Zilpa la s de Lea dio a luz otro hijoH8198
+- Gén_30:18por cuanto di mi s a mi marido; por esoH8198
+- Gén_30:43y tuvo muchas ovejas, y s y siervos, yH8198
+- Gén_31:33entró Labán...en la tienda de las dos sH8198
+- Gén_32:5y tengo...asnos, ovejas, y siervos y sH8198
+- Gén_32:22tomó...sus dos s, y sus once hijos, yH8198
+- Gén_33:1los niños entre Lea y Raquel y las dos sH8198
+- Gén_33:2y puso las s y sus niños delante, luegoH8198
+- Gén_33:6vinieron las s, ellas y sus niños, y seH8198
+- Gén_35:25los hijos de Bilha, s de Raquel: Dan yH8198
+- Gén_35:26hijos de Zilpa, s de Lea; Gad y AserH8198
+- Éxo_11:5morirá...hasta el primogénito de la sH8198
+- Éxo_21:7cuando alguno vendiere su hija por s, noH519
+- Éxo_21:20si alguno hiriere a su siervo o a su sH519
+- Éxo_21:26hiriere el ojo de su siervo, o...de su sH519
+- Éxo_21:27saltar un diente de su siervo, o...su sH519
+- Éxo_21:32el buey acorneare a un siervo o a una sH519
+- Éxo_23:12tome refrigerio el hijo de tu s, y elH519
+- Lev_19:20con una mujer que fuere s desposadaH8198
+- Lev_25:6te dará para comer a ti...a tu s, a tuH519
+- Deu_5:14ninguna obra harás tú...ni tu s, ni tuH519
+- Deu_5:14que descanse tu siervo y tu s como túH519
+- Deu_5:21ni desearás...su siervo, ni su s, ni suH519
+- Deu_12:12os alegraréis...vuestros siervos y...sH519
+- Deu_12:18tu siervo, tu s, y el levita que habitaH519
+- Deu_16:11, Deu_16:14alegrarás...tu siervo, tu s, el levitaH519
+- Jue_19:19tenemos pan y...para mí y para tu sH519
+- Rut_2:13porque has hablado al corazón de tu sH519
+- Rut_3:9respondió: Yo soy Rut tu s; extiende elH519
+- Rut_3:9extiende el borde de tu capa sobre tu sH519
+- 1Sa_1:11dignares mirar a la aflicción de tu sH519
+- 1Sa_1:11si...no te olvidares de tu s, sino queH519
+- 1Sa_1:11que dieres a tu s un hijo varón, yo loH519
+- 1Sa_1:16no tengas a tu s por una mujer impíaH519
+- 1Sa_1:18halle tu s gracia delante de tus ojosH519
+- 1Sa_8:16tomará vuestros siervos y vuestras sH8198
+- 1Sa_25:24que tu s hable a...las palabras de tu sH519
+- 1Sa_25:25mas yo tu s no vi a los jóvenes que túH519
+- 1Sa_25:27este presente que tu s ha traído a miH8198
+- 1Sa_25:28ruego que perdones a tu s esta ofensaH519
+- 1Sa_25:31Jehová haga bien a...acuérdate de tu sH519
+- 1Sa_25:41tu s...será una s para lavar los pies deH519
+- 1Sa_28:21he aquí que tu s ha obedecido a tu vozH8198
+- 1Sa_28:22ruego, pues, que...oigas la voz de tu sH8198
+- 2Sa_14:6s tenía dos hijos, y los dos riñeronH8198
+- 2Sa_14:7la familia se ha levantado contra tu sH8198
+- 2Sa_14:12permitas que tu s hable una palabra aH8198
+- 2Sa_14:15tu s dijo: Hablaré ahora al rey; quizáH8198
+- 2Sa_14:15el rey; quizá él hará lo que su s digaH519
+- 2Sa_14:16pues el rey oirá, para librar a su s deH519
+- 2Sa_14:17tu s...dice: Sea ahora de consuelo laH8198
+- 2Sa_14:19en boca de tu s todas estas palabrasH8198
+- 2Sa_20:17ella le dijo: Oye las palabras de tu sH519
+- 1Re_1:13rey señor mío, ¿no juraste a tu sH519
+- 1Re_1:17señor mío, tú juraste a tu s por JehováH519
+- 1Re_3:20a mi hijo de...estando yo tu s durmiendoH519
+- 2Re_4:2tu s ninguna cosa tiene en casa, sinoH8198
+- 2Re_4:16no, señor mío...no hagas burla de tu sH8198
+- 2Re_5:26tiempo de tomar...bueyes, siervos y s?[[H8198]]
+- 2Cr_28:10sujetar a vosotros a...siervos y sH5650
+- Esd_2:65contar sus siervos y s, los cualesH519
+- Neh_7:67sin sus siervos y s, que eran 7:337H519
+- Est_7:4si para siervos y s fuéramos vendidosH8198
+- Job_31:13tenido en poco el derecho...de mi sH519
+- Sal_86:16da tu poder...guarda al hijo de tu sH519
+- Sal_116:16siervo tuyo soy, hijo de tu s; tú hasH519
+- Sal_123:2como los ojos de la s a...de su señoraH1404
+- Pro_30:23y por la s cuando hereda a su señoraH8198
+- Ecl_2:7siervos y s, y tuve siervos nacidos enH8198
+- Jer_34:9cada uno dejase libre a su...y a su sH8198
+- Jer_34:10pacto de dejar libre...cada uno a su sH8198
+- Jer_34:11hicieron volver a los siervos y a las sH8198
+- Jer_34:11libres...los sujetaron como siervos y sH8198
+- Jer_34:16habéis vuelto a tomar cada uno a su...sH8198
+- Jer_34:16sujetado para que os sean siervos y sH8198
+- Joe_2:29sobre los siervos y...las s derramaréH8198
+- Luc_1:38dijo: He aquí la s del Señor; hágaseG1399
+- Luc_1:48porque ha mirado la bajeza de su s; puesG1399
+- Hec_2:18sobre mis siervos y sobre mis s enG1399

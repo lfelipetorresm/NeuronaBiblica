@@ -1,0 +1,169 @@
+---
+tipo: concordancia
+palabra: EXPIACIÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EXPIACIÓN
+
+- Éxo_29:33aquellas cosas...las cuales se hizo eH3722
+- Éxo_29:36ofrecerás el becerro del...para las eH3725
+- Éxo_29:36y purificarás el altar cuando hagas eH3722
+- Éxo_29:37por siete días harás e por el altar, yH3722
+- Éxo_30:10sobre sus cuernos hará Aarón e una vezH3722
+- Éxo_30:10del sacrificio por el pecado para eH3725
+- Éxo_30:10una vez en el año hará e sobre él porH3722
+- Éxo_30:15-16para hacer e por vuestras personasH3722
+- Éxo_30:16tomarás...el dinero de las e, y lo darásH3725
+- Lev_1:4pondrá su mano...será aceptado para eH3722
+- Lev_4:3ofrecerá...un becerro sin defecto para eH2403
+- Lev_4:8tomará del becerro para la e...su grosuraH2403
+- Lev_4:14congregación ofrecerá un becerro por eH2403
+- Lev_4:20hará...como hizo con el becerro de la eH2403
+- Lev_4:20así hará el sacerdote e por ellos, yH3722
+- Lev_4:21quemará como...e es por la congregaciónH2403
+- Lev_4:24lo degollará...delante de Jehová; es eH2403
+- Lev_4:25sacerdote tomará de la sangre de la eH2403
+- Lev_4:26así el sacerdote hará...e de su pecadoH3722
+- Lev_4:29, Lev_4:33pondrá su mano sobre la cabeza...eH2403
+- Lev_4:31así hará el sacerdote e por él, y seráH3722
+- Lev_4:33y la degollará por e en el lugar dondeH2403
+- Lev_4:34sacerdote tomará de la sangre de la eH2403
+- Lev_4:35y le hará el sacerdote e de su pecadoH3722
+- Lev_5:6para su e traerá a Jehová por su pecadoH2403
+- Lev_5:6una cordera o...cabra como ofrenda de eH2403
+- Lev_5:6y el sacerdote le hará e por su pecadoH3722
+- Lev_5:7traerá...en e por su pecado que cometióH817
+- Lev_5:8el uno para e, y el otro para holocaustoH2403
+- Lev_5:8ofrecerá primero el que es para e, y leH2403
+- Lev_5:9y rociará de la sangre de la e sobre laH2403
+- Lev_5:10así...hará e por el pecado de aquel queH3722
+- Lev_5:11traerá un efa de flor de harina para eH2403
+- Lev_5:11no pondrá sobre ella aceite, ni...es eH2403
+- Lev_5:12la hará arder en el altar sobre...es eH2403
+- Lev_5:13hará...e por él en cuanto al pecado queH2403
+- Lev_5:16sacerdote hará e por él con el carneroH3722
+- Lev_5:18para e, según tú lo estimes, un carneroH817
+- Lev_5:18el sacerdote le hará e por el yerro queH3722
+- Lev_6:5restituirá...y añadirá...en el día de su eH819
+- Lev_6:6y para e de su culpa traerá a Jehová unH817
+- Lev_6:6carnero...lo dará al sacerdote para la eH817
+- Lev_6:7y el sacerdote hará e por él delante deH3722
+- Lev_6:30ofrenda...para hacer e en el santuarioH2403
+- Lev_7:5lo hará arder sobre el...es e de la culpaH817
+- Lev_7:7será del sacerdote que hiciere la e conH3722
+- Lev_8:2toma...las vestiduras...el becerro de la eH2403
+- Lev_8:14hizo traer el becerro de la e, y AarónH2403
+- Lev_8:14sus manos sobre la...del becerro de la eH2403
+- Lev_9:2toma de la vacada un becerro para e, y unH2403
+- Lev_9:3un macho cabrío para e, y un becerro y unH2403
+- Lev_9:7acércate al...y haz tu e y tu holocaustoH2403
+- Lev_9:8degolló el becerro de la e que era por élH2403
+- Lev_9:10hizo arder...grosura del hígado de la eH2403
+- Lev_9:15tomó el macho cabrío que era para la eH2403
+- Lev_9:22y después de hacer la e...paz, descendióH2403
+- Lev_10:16preguntó por el macho cabrío de la eH2403
+- Lev_10:17¿por qué no comisteis la e en lugarH3722
+- Lev_10:19hoy han ofrecido su e y su holocaustoH2403
+- Lev_10:19si...yo comido hoy del sacrificio de eH2403
+- Lev_12:6traerá...una tórtola para e a la puertaH2403
+- Lev_12:7-8hará e por ella, y será limpiaH3722
+- Lev_12:8uno para holocausto y otro para e, y elH2403
+- Lev_14:18y hará el sacerdote e por él delante deH3722
+- Lev_14:19hará e por el que se ha de purificar deH3722
+- Lev_14:20el sacerdote e por él, y será limpioH3722
+- Lev_14:22uno será para e por el pecado, y el otroH2403
+- Lev_14:24tomará el cordero de la e por la culpaH817
+- Lev_14:31uno en sacrificio de e por el pecado, yH2403
+- Lev_14:31hará...e por el que se ha de purificarH3722
+- Lev_14:53así hará e por la casa, y será limpiaH3722
+- Lev_16:3entrará Aarón en...con un becerro para eH2403
+- Lev_16:5tomará dos machos cabríos para e, y unH2403
+- Lev_16:6y hará traer Aarón el becerro de la eH3722
+- Lev_16:9el macho cabrío sobre...lo ofrecerá en eH2403
+- Lev_16:11hará traer...el becerro que era para eH2403
+- Lev_16:11degollará en e el becerro que es suyoH3722
+- Lev_16:15degollará...e por el pecado del puebloH2403
+- Lev_16:17él entre a hacer la e en el santuarioH3722
+- Lev_16:17y haya hecho la e por sí, por su casaH3722
+- Lev_16:24y hará la e por sí y por el puebloH3722
+- Lev_16:27sangre fue llevada al...para hacer la eH3722
+- Lev_16:30en este día se hará e por vosotros, yH3722
+- Lev_16:32hará la e el sacerdote que fuere ungidoH3722
+- Lev_16:33y hará la e por el santuario santo, yH3722
+- Lev_16:33también hará e por el altar, por losH3722
+- Lev_16:34para hacer e una vez al año por todosH3722
+- Lev_17:11la he dado para hacer e sobre el altarH3722
+- Lev_17:11y la misma sangre hará e de la personaH3722
+- Lev_19:21traerá a...un carnero en e por su culpaH817
+- Lev_19:22con el carnero de la e lo reconciliaráH3722
+- Lev_23:19ofreceréis...un macho cabrío por e, y 2H2403
+- Lev_23:27a los diez días de este mes...día de eH3725
+- Lev_23:28porque es día de e, para reconciliarosH3725
+- Lev_25:9el día de la e haréis tocar la trompetaH3725
+- Núm_5:8del carnero de las e, con el cual hará eH3725
+- Núm_6:11el sacerdote ofrecerá el uno en e, y elH3722
+- Núm_6:11hará e de lo que pecó a causa del muertoH2403
+- Núm_6:12traerá un cordero de...en e por la culpaH817
+- Núm_6:14y ofrecerá...una cordera de un año...en eH2403
+- Núm_6:16el sacerdote...hará su e y su holocaustoH2403
+- Núm_7:16, Núm_7:22, Núm_7:28, Núm_7:34, Núm_7:40, Núm_7:46, Núm_7:52, Núm_7:58, Núm_7:64, Núm_7:70, Núm_7:76, Núm_7:82un macho cabrío para eH2403
+- Núm_7:87bueyes...doce los machos cabríos para eH2403
+- Núm_8:6toma a los levitas de...y haz e por ellosH2891
+- Núm_8:7así harás para e...Rocía...el agua de la eH2403
+- Núm_8:8con aceite; y tomarás otro novillo para eH2403
+- Núm_8:12y ofrecerás el uno por e, y el otro enH2403
+- Núm_8:12a Jehová, para hacer e por los levitasH3722
+- Núm_8:21e hizo...e por ellos para purificarlosH3722
+- Núm_15:24con su ofrenda...un macho cabrío en eH2403
+- Núm_15:25sacerdote hará e por...la congregaciónH3722
+- Núm_15:25ellos traerán...sus e delante de JehováH2403
+- Núm_15:27si...ofrecerá una cabra de un año para eH2403
+- Núm_15:28y el sacerdote hará e por la personaH3722
+- Núm_16:46ve pronto...y haz e por ellos, porqueH3722
+- Núm_16:47puso incienso, e hizo e por el puebloH3722
+- Núm_18:9y toda e por el pecado...e por la culpaH2403
+- Núm_19:9las guardará la congregación...es una eH2403
+- Núm_19:17la ceniza de la vaca quemada de la eH2403
+- Núm_25:13celo...e hizo e por los hijos de IsraelH3722
+- Núm_28:15y un macho cabrío en e se ofrecerá aH2403
+- Núm_28:22macho cabrío por e, para reconciliarosH3722
+- Núm_28:30macho cabrío para hacer e por vosotrosH3722
+- Núm_29:5macho cabrío por e, para reconciliarosH2403
+- Núm_29:11y un macho cabrío por e; además de laH2403
+- Núm_29:11de la ofrenda de las e por el pecadoH3725
+- Núm_29:16, Núm_29:19, Núm_29:22, Núm_29:25, Núm_29:28, Núm_29:31, Núm_29:34, Núm_29:38un macho cabrío por eH2403
+- Núm_31:50para hacer e por nuestras almas delanteH3722
+- Deu_32:43y hará e por la tierra de su puebloH3722
+- 1Sa_6:3no la enviéis vacía, sino pagadle la eH817
+- 1Sa_6:4ellos...¿Y qué será la e que le pagaremos?[[H817]]
+- 1Sa_6:17que pagaron los filisteos en e a JehováH817
+- 1Cr_6:49hacían las e por Israel conforme aH3722
+- 2Cr_29:21y siete machos cabríos para e porH2403
+- 2Cr_29:23acercar...los machos cabríos para la eH2403
+- 2Cr_29:24hicieron ofrenda de e con la sangre deH2403
+- 2Cr_29:24por todo Israel mandó el rey hacer...eH3722
+- Esd_6:17machos cabríos...en e por todo IsraelH2403
+- Esd_8:35ofrecieron...por e, todo en holocaustoH2403
+- Neh_10:33los sacrificios de e por el pecadoH3722
+- Neh_12:45habían cumplido...el servicio de la eH2893
+- Sal_40:6has...holocausto y e no has demandadoH2401
+- Isa_53:10puesto su vida en e por el pecadoH817
+- Eze_40:39para degollar...la e y el sacrificioH2403
+- Eze_42:13pondrán...la e y el sacrificio por elH2403
+- Eze_43:19darás un becerro de la vacada para eH2403
+- Eze_43:21tomarás luego el becerro de la e, y loH2403
+- Eze_43:22ofrecerás un macho cabrío sin...para eH2403
+- Eze_43:25sacrificarán un macho cabrío...día en eH2403
+- Eze_43:26por siete días harán e por el altarH3722
+- Eze_44:27el día que entre...ofrecerá su e, diceH2403
+- Eze_44:29y la e y el sacrificio por el pecadoH2403
+- Eze_45:15para e por ellos, dice Jehová el SeñorH3722
+- Eze_45:17el príncipe...dispondrá la e, la ofrendaH2403
+- Eze_45:17paz, para hacer e por la casa de IsraelH3722
+- Eze_45:19sacerdote tomará de la sangre de la eH2403
+- Eze_45:20que pecaron por error y...e por la casaH3722
+- Eze_45:25como en estos...días en cuanto a la eH2403
+- Eze_46:20donde los sacerdotes y cocerán...la eH2403
+- Heb_10:6, Heb_10:8e por el pecado no te agradaron, niG4012

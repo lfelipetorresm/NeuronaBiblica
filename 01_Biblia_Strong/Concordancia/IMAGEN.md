@@ -1,0 +1,135 @@
+---
+tipo: concordancia
+palabra: IMAGEN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# IMAGEN
+
+- Gén_1:26dijo...Hagamos al hombre a nuestra iH6754
+- Gén_1:27y creó...al hombre a su i, a i de DiosH6754
+- Gén_5:3Adán...engendró un hijo...conforme a su iH6754
+- Gén_9:6porque a i de Dios es hecho el hombreH6754
+- Éxo_20:4no te harás i, ni ninguna semejanzaH6754
+- Éxo_34:13estatuas, y cortaréis sus i de AseraH4676
+- Lev_26:30lugares altos, y derribaré vuestras iH2553
+- Núm_33:52destruiréis...todas sus i de fundiciónH6754
+- Deu_4:16i de figura alguna, efigie de varónH6459
+- Deu_4:23no os hagáis...o i de ninguna cosa queH6459
+- Deu_4:25e hiciereis escultura o i de cualquierH6459
+- Deu_5:8no harás para ti escultura, ni i algunaH6459
+- Deu_7:5destruiréis sus i de Asera, y quemaréisH4676
+- Deu_9:12pueblo...se han hecho una i de fundiciónH4541
+- Deu_12:3y sus i de Asera consumiréis con fuegoH6456
+- Deu_27:15maldito el hombre que hiciere...i deH6459
+- Jue_3:7sirvieron a los baales y a las i deH842
+- Jue_6:25corta también la i de Asera que estáH842
+- Jue_6:26en holocausto con la madera de la i deH842
+- Jue_6:28cortada la i de Asera que estaba juntoH842
+- Jue_6:30y ha cortado la i de Asera que estabaH842
+- Jue_17:3hacer una i de talla y una de fundiciónH6459
+- Jue_17:4quien hizo de ellos una i de talla y unaH6459
+- Jue_18:14hay...una i de talla y una de fundiciónH6459
+- Jue_18:17-18tomaron la í de talla...i de fundiciónH6459
+- Jue_18:20tomó...i, y se fue en medio del puebloH6459
+- Jue_18:30Dan levantaron para sí la i de tallaH6459
+- Jue_18:31así tuvieron levantada...la i de tallaH6459
+- 1Re_14:9te hiciste dioses...e i de fundiciónH4541
+- 1Re_14:15por cuanto han hecho sus i de AseraH842
+- 1Re_14:23e i de Asera, en todo collado alto yH4676
+- 1Re_16:33hizo...Acab una i de Asera, haciendo asíH842
+- 2Re_11:18despedazaron...sus altares y sus iH6754
+- 2Re_13:6la i de Asera permaneció en SamariaH842
+- 2Re_17:10levantaron estatuas e i de Asera enH4676
+- 2Re_17:16se hicieron i fundidas de dos becerros4541
+- 2Re_17:16se hicieron...i de Asera, y adoraron aH842
+- 2Re_18:4quebré las i, y cortó los símbolos deH4676
+- 2Re_21:3hizo una i de Asera, como había hechoH842
+- 2Re_21:7puso una i de Asera...en la casa de laH6459
+- 2Re_23:6sacar la i de Asera fuera de la casa deH842
+- 2Re_23:14quebró las...y derribó las i de AseraH4676
+- 2Re_23:15lo hizo polvo, y puso fuego a la i deH842
+- 2Cr_14:3quebró las i, y destruyó...de AseraH4676
+- 2Cr_14:5quitó...Judá los lugares altos y las iH2553
+- 2Cr_15:16porque había hecho una i de AseraH842
+- 2Cr_15:16Asa destruyó la i, y la desmenuzó, y laH4656
+- 2Cr_17:6quitó...i de Asera de en medio de JudáH842
+- 2Cr_19:3quitado de la tierra las i de Asera, yH842
+- 2Cr_23:17templo de Baal...e hicieron pedazos sus iH6754
+- 2Cr_24:18sirvieron...Asera y a las i esculpidasH842
+- 2Cr_28:2y además hizo i fundidas a los baalesH4541
+- 2Cr_31:1estatuas y destruyeron las i de AseraH842
+- 2Cr_33:3e hizo i de Asera, y adoró a todo elH842
+- 2Cr_33:7puso una i fundida...en la casa de DiosH6459
+- 2Cr_33:19los sitios donde...erigió i de Asera eH6456
+- 2Cr_34:3limpiar a Judá...i de Asera...i fundidasH842, [[H4541]]
+- 2Cr_34:4los baales, e hizo pedazos las i del solH2553
+- 2Cr_34:4despedazó también las i de Asera, lasH2553
+- 2Cr_34:7cuando hubo derribado...las i de AseraH6456
+- Sal_78:58le provocaron a celo con sus i deH6456
+- Sal_97:7todos los que sirven a las i de tallaH6459
+- Sal_106:19se postraron ante una i de fundiciónH4541
+- Sal_106:20por la i de un buey que come hierbaH8403
+- Isa_10:10siendo sus i más que...de JerusalénH6456
+- Isa_17:8no mirará a...Asera, ni a la i del solH2553
+- Isa_19:3preguntarán a sus i, a sus hechicerosH457
+- Isa_27:9no se levanten...Asera ni las i de solH2553
+- Isa_30:22la vestidura de tus i fundidas de oroH6459
+- Isa_40:18semejante a...o qué i le compondréis?[[H1823]]
+- Isa_40:19el artífice prepara la i de talla, elH6459
+- Isa_40:20le haga una i de talla que no se muevaH6459
+- Isa_41:29viento y vanidad son sus i fundidasH5262
+- Isa_42:17y dicen a las i de fundición: VosotrosH6459
+- Isa_44:9los formadores de i...ellos son vanidadH6459
+- Isa_44:10o quien fundió una i que para nada esH6459
+- Isa_45:16irán con afrenta...los fabricadores de iH6736
+- Isa_46:1Bel...sus i fueron puestas sobre bestiasH6091
+- Isa_48:5mi ídolo lo hizo, mis i de escultura yH6459
+- Jer_8:19me hicieron airar con sus i de tallaH6456
+- Jer_17:2hijos se acuerdan de...de sus i de AseraH842
+- Jer_50:38es tierra de ídolos...entontecen con iH6456
+- Eze_6:4y vuestras i del sol serán quebradasH2553
+- Eze_6:6vuestras i del sol serán destruidas, yH2553
+- Eze_7:20hicieron de ello las i de sus...ídolosH6754
+- Eze_8:3estaba la habitación de la i del celo, laH5566
+- Eze_8:5junto a la puerta...aquella i del celo enH5566
+- Eze_8:12cada uno en sus cámaras pintadas de i?[[H4906]]
+- Eze_16:17te hiciste i de hombres y fornicasteH6754
+- Eze_16:21ofrecieras a aquellas i como ofrenda
+- Eze_23:14vio a...i de caldeos pintadas de colorH6754
+- Eze_30:13destruiré también las i, y...los ídolosH457
+- Dan_2:31veías, y he aquí una gran i. Esta iH6755
+- Dan_2:32la cabeza de esta i era de oro finoH6755
+- Dan_2:34hirió a la i en sus pies de hierro y deH6755
+- Dan_2:35la piedra que hirió a la i fue hecha unH6755
+- Dan_11:8a los dioses de ellos, y sus i fundidasH5257
+- Ose_13:2se han hecho...i de fundición, ídolosH4551
+- Miq_5:13haré destruir...tus i en medio de tiH6456
+- Miq_5:14arrancaré tus i de Asera de en medio deH842
+- Hab_2:18haciendo i mudas confíe el hacedorH6459
+- Zac_13:2quitaré de la tierra los nombres...iH6091
+- Mat_22:20; Mar_12:16¿de quién es esta i, y laG1504
+- Luc_20:24¿de quién tiene la i y la inscripción?[[G1504]]
+- Hec_19:35guardiana...la i venida de Júpiter?
+- Rom_1:23semejanza de i de hombre corruptibleG1504
+- Rom_8:29que fuesen hechos conformes a la i de suG1504
+- 1Co_11:7el varón...él es i y gloria de DiosG1504
+- 1Co_15:49así como hemos traído la i del terrenalG1504
+- 1Co_15:49traeremos también la i del celestialG1504
+- 2Co_3:18de gloria en gloria en la misma iG1504
+- 2Co_4:4la gloria de Cristo, el cual es la i deG1504
+- Col_1:15él es la i del Dios invisible, elG1504
+- Col_3:10el cual conforme a la i del que lo creóG1504
+- Heb_1:3y la i misma de su sustancia, y quienG5481
+- Heb_10:1no la i misma de las cosas, nunca puedeG1504
+- Rev_9:20ni dejaron de adorar...a las i de oroG1497
+- Rev_13:14que le hagan i a la bestia que tieneG1504
+- Rev_13:15infundir aliento a la i de la bestiaG1504
+- Rev_13:15para que la i hablase e hiciese matarG1504
+- Rev_14:9si alguno adora a la bestia y a su iG1504
+- Rev_14:11los que adoran a la bestia y a su iG1504
+- Rev_15:2victoria sobre la bestia y su i, y suG1504
+- Rev_16:2úlcera...sobre los...que adoraban su iG1504
+- Rev_19:20habían adorado su i. Estos dos fueronG1504
+- Rev_20:4no habían adorado a la bestia ni a su iG1504

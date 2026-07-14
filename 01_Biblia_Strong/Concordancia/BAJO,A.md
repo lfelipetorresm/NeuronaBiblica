@@ -1,0 +1,122 @@
+---
+tipo: concordancia
+palabra: BAJO,A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BAJO,A
+
+- Véase también el Apéndice
+- Gén_6:16y le harás piso b, segundo y terceroH8482
+- Gén_16:9Vuélvete...y ponte sumisa b su manoH8478
+- Gén_41:35recojan el trigo b la mano de FaraónH8478
+- Éxo_21:20y muriere b su mano, seráH8478
+- Éxo_38:21obra de los levitas b la dirección de
+- Éxo_39:19frente a la parte b del efod
+- Lev_27:32todo lo que pasa b la varaH8478
+- Núm_2:2b...de las casas de sus padres
+- Núm_4:28estará b la dirección de Itamar hijo
+- Núm_4:33b...Itamar hijo del sacerdote Aarón
+- Núm_7:8conforme su ministerio b la mano de Itamar
+- Núm_33:1ejércitos, b el mando de Moisés y Aarón
+- Jos_7:21está escondido b tierra en
+- Jue_3:30Así fue...Moab aquel día bH8478
+- Jue_4:5acostumbraba sentarse b...de DéboraH8478
+- Jue_9:15abrigaos b de mi sombra; y si no
+- Jue_9:29Ojalá estuviera este pueblo b mi mano
+- Rut_2:12b cuyas alas has venido aH8478
+- 2Sa_6:22me haré más vil...seré b a tus ojosH8217
+- 2Sa_11:11El arca e Israel y Judá están bH3427
+- 2Sa_18:2una tercera parte b el mando de Joab
+- 2Sa_24:6fueron a Galaad y a la tierra b de
+- 1Re_5:3puso sus enemigos b las plantasH8478
+- 1Re_7:29había unas añadiduras de b relieve
+- 1Re_9:17restauró...Salomón...a la b Bet-horónH8481
+- 2Re_17:7b la mano de Faraón rey de EgiptoH8478
+- 2Re_17:32temían a Jehová, e hicieron del bH7098
+- 1Cr_7:24edificó a Bet-horón la b yH8481
+- 1Cr_23:28b las órdenes de los hijos de AarónH3027
+- 1Cr_23:32la guarda del santuario, b las órdenesH4931
+- 1Cr_25:2hijos de Asaf, b la dirección de AsafH5921
+- 1Cr_25:3b la dirección de su padre JedutúnH5921
+- 1Cr_25:6estaban b la dirección de su padreH5921
+- 2Cr_5:7b las alas de los querubinesH8478
+- 2Cr_13:5él y a sus hijos, b pacto de sal?
+- 2Cr_14:5estuvo el reino en paz b su reinadoH6440
+- 2Cr_23:18b la mano de los sacerdotes y levitas
+- 2Cr_26:13b la mano de éstos estaba el ejércitoH5921
+- Neh_3:7estaban b el dominio del gobernador
+- Neh_4:13por las partes b del...puse al puebloH8482
+- Job_28:24Y ve cuanto hay b los cielosH8478
+- Job_30:8hijos de viles...más b que la...tierraH5217
+- Job_38:14de aspecto como barro b el sello
+- Sal_17:8Escóndeme b la sombra de tus
+- Sal_36:7se amparan b la sombra de tus alas
+- Sal_39:10Estoy consumido b los golpes de tu
+- Sal_61:4Estaré seguro b la cubierta de tus alasH5643
+- Sal_63:9caerán en los sitios b de la tierraH8482
+- Sal_91:1Morará b la sombra del Omnipotente
+- Sal_94:20Que hace agravio b forma de ley?
+- Pro_22:29no estará delante...de b condiciónH2823
+- Ecl_10:6ricos están sentados en lugar bH8216
+- Ecl_12:4se cerrarán, por lo b del ruido de laH8213
+- Cnt_2:3B la sombra del deseado me
+- Isa_24:5la...contaminó b sus moradoresH8478
+- Jer_34:1todos los reinos de la tierra b
+- Jer_38:12b los sobacos, debajo de las sogasH8478
+- Lam_3:1ha visto aflicción b el
+- Lam_3:3desmenuzar b los pies a todos losH8478
+- Lam_5:13desfallecieron b el peso de la leña
+- Eze_17:24levanté el árbol b, hice secar elH8217
+- Eze_20:37Os haré pasar b la vara, yH8478
+- Eze_21:26sea exaltado lo b, y humillado lo altoH8217
+- Eze_40:18los portales, era el enlosado más bH8481
+- Eze_42:5que de las b...de en medio del edificioH8481
+- Dan_4:17constituye sobre él al más b de losH8215
+- Ose_9:9hasta lo más b en su corrupción, comoH6009
+- Ose_14:7y se sentarán b su sombra
+- Mal_2:9hecho viles y b ante todo el puebloH8217
+- Mal_4:3ceniza b las plantas de vuestros piesH8478
+- Mat_8:8no...de que entres b mi techo
+- Mat_8:9también yo soy hombre b autoridad, yG5259
+- Mar_4:32aves del cielo...b su sombra
+- Luc_7:6no soy...que entres b mi techo
+- Luc_7:8yo soy hombre puesto b autoridadG5259
+- Hec_2:5todas las naciones b el cielo
+- Hec_4:12no hay otro nombre b el cieloG5259
+- Hec_14:11Dioses b la semejanza de hombres han
+- Hec_23:12se juramentaron b maldiciónG332
+- Hec_23:21se han juramentado b maldición
+- Rom_2:12los que b la ley han pecado
+- Rom_3:9que todos están b pecadoG5259
+- Rom_3:19dice a los que están b la leyG1722
+- Rom_6:14no estáis b la ley, sino bajo la graciaG5259
+- Rom_6:15no estamos b la ley, sino bajoG5259
+- Rom_7:6de modo que sirvamos b el régimen
+- Rom_16:20aplastará...a Satanás b vuestros piesG5259
+- 1Co_9:21sino b la ley de Cristo)[[G1722]]
+- 1Co_10:1todos estuvieron b la nubeG5259
+- Gál_3:10obras de la ley están b maldiciónG5259
+- Gál_3:22escritura lo encerró todo b pecadoG5259
+- Gál_3:23estábamos confinados b la leyG5259
+- Gál_3:25la fe, ya no estamos b ayoG5259
+- Gál_4:2no que está b tutores y curadoresG5259
+- Gál_4:3estábamos en esclavitud b los rudimentosG5259
+- Gál_4:4nacido de mujer y nacido b la leyG5259
+- Gál_4:5redimiese a los que estaban b la leyG5259
+- Gál_4:21los que queréis estar b la leyG5259
+- Gál_5:18Pero si sois guiados...estáis b la leyG5259
+- Efe_1:22sometió todas las...b sus piesG5259
+- Efe_4:9había descendido...a las partes más bG2597, [[G2737]]
+- 1Ti_6:1están b el yugo de esclavitudG5259
+- Heb_2:8Todo lo sujetaste b sus piesG5293
+- Heb_7:11b él recibió el pueblo la ley)
+- Heb_9:15remisión...que había b el primer pactoG1909
+- Stg_2:3siéntate aquí b mi estradoG5259
+- 1Pe_5:6Humillaos...b la poderosa manoG5259
+- 1Jn_5:19el mundo...está b el malignoG2749
+- Jud_1:6los ha guardado b oscuridadG5259
+- Rev_6:9vi b el altar las almas deG5270
+- [Entrada procedente del Apéndice]
+- Gn 6.16; 16.9; 41.35 Éx 21.20; 38.21 Lv 27.32 Nm 2.2; 4.28, 33; 7.8; 33.1 Jos 7.21 Jue 3.30; 4.5; 9.15, 29 Rt 2.12 2 S 6.22; 11.11; 18.2(2) 1 R 5.3; 7.29 2 R 17.7, 32 1 Cr 23.28, 32; 25.2(2), 3, 6 2 Cr 5.7; 13.5; 14.5; 23.18; 26.13 Neh 3.7 Job 28.24; 38.14 Sal 17.8; 36.7; 39.10; 61.4; 91.1; 94.20 Ec 10.6; 12.4 Cnt 2.3 Is 24.5 Jer 34.1; 38.12 Lm 3.1, 34; 5.13 Ez 17.24; 20.37; 21.26; 40.18 Dn 4.17 Os 9.9; 14.7 Mal 4.3 Mt 8.8, 9(2) Mc 4.32 Lc 7.6, 8(2) Hch 2.5; 4.12; 14.11; 23.12, 14, 21 Ro 2.12; 3.9, 19(2); 6.14(2), 15(2); 7.6(2); 16.20 1 Co 9.21; 10.1 Gl 3.10, 22, 23, 25; 4.2, 3, 4, 5, 21; 5.18 Ef 1.22 1 Ti 6.1 Heb 2.8; 7.11; 9.15 Stg 2.3 1 P 5.6 1 Jn 5.19 Jud 6 Ap 6.9

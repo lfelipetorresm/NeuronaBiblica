@@ -1,0 +1,75 @@
+---
+tipo: concordancia
+palabra: SIGUIENTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SIGUIENTE
+
+- Gén_19:34el día sH4283
+- Gén_41:31a causa del hambre s la cual
+- Éxo_2:13al día s salió y vio a dos
+- Éxo_9:6al día s Jehová hizo aquelloH4283
+- Éxo_18:13aconteció que al día s seH4283
+- Éxo_32:6y al día s madrugaron, yH4283
+- Éxo_32:30y aconteció que al día s dijoH4283
+- Lev_7:16quedare, lo comerán al día sH4283
+- Lev_19:6que lo ofreciereis, y al día sH4283
+- Lev_23:11el día s del día de reposo laH4283
+- Lev_23:16hasta el día s del séptimoH4283
+- Núm_11:32toda la noche, y todo el día sH4283
+- Núm_16:41el día s, toda la congregaciónH4283
+- Núm_17:8y aconteció que el día s vinoH4283
+- Núm_22:41el día s, Balac tomó a BalaamH1242
+- Jos_5:12y el maná cesó el día sH4283
+- Jos_10:32de Israel, y la tomó al día s
+- Jue_9:42aconteció el s día, que elH4283
+- Jue_21:4y al día s el pueblo seH4279
+- 1Sa_5:3y cuando al día s los de AsdodH4283
+- 1Sa_5:4a levantar de mañana el sH4283
+- 1Sa_11:11aconteció que al día s dispusoH4283
+- 1Sa_20:27al s día, el segundo día de laH4283
+- 1Sa_25:36cosa alguna hasta el día s
+- 1Sa_30:17hasta la tarde del día sH4283
+- 1Sa_31:8aconteció al s día, queH4283
+- 2Sa_11:1acontecio al año s
+- 2Sa_11:12en Jerusalén aquel día y el sH4283
+- 2Re_4:17y dio a luz un hijo el año s
+- 2Re_6:29el día s yo le dije: Da acáH312
+- 2Re_8:15el día s, tomó un paño y loH4283
+- 1Cr_10:8sucedió al día s, que al venirH4283
+- 1Cr_29:21a Jehová holocaustos al día sH4283
+- Neh_8:13al día s se reunieron los cabezasH4283
+- Est_2:14y a la mañana s volvía a laH4283
+- Jer_20:3y el día s Pasur sacó aH4283
+- Jon_4:7al venir el alba del día sH4283
+- Mat_27:62al día s, que es después deG1887
+- Mar_11:12al día s, cuando salieron deG1887
+- Luc_9:37al día s, cuando descendieron delG1836
+- Jua_1:29el s día vio Juan a Jesús queG1887
+- Jua_1:35el s día otra vez estaba JuanG1887
+- Jua_1:43el s día quiso Jesús ir aG1887
+- Jua_6:22el día s, la gente que estabaG1887
+- Jua_12:12el s día, grandes multitudesG1887
+- Hec_4:3en la cárcel hasta el día sG839
+- Hec_4:5aconteció al día s, que se reunieronG839
+- Hec_7:26y al día s, se presentó a unos deG1966
+- Hec_10:9al dia s, mientras ellos iban por elG1887
+- Hec_10:23los hospedó. Y al día sG1887
+- Hec_13:42gentiles les rogaron que el sG3342
+- Hec_13:44el s día de reposo se juntóG2064
+- Hec_14:20y al día s salió con BernabéG1887
+- Hec_16:11y el día s a NeápolisG1966
+- Hec_20:7habiendo de salir al día sG1887
+- Hec_20:15al día s llegamos delante deG1966
+- Hec_20:15al día s llegamos a MiletoG2192
+- Hec_21:1y al día s a Rodas, y de allíG1836
+- Hec_21:18y al día s Pablo entró conG1966
+- Hec_21:26a aquellos hombres, y al día sG2192
+- Hec_22:30al día s, queriendo saber deG1887
+- Hec_23:11a la noche s se le presentó el
+- Hec_23:32y al día s, dejando a los jinetesG1887
+- Hec_25:6al s día se sentó en elG1887
+- Hec_25:17ninguna dilación, al día sG1836
+- Hec_27:18al s día empezaron a alijarG1836

@@ -1,0 +1,87 @@
+---
+tipo: concordancia
+palabra: PAÍS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PAÍS
+
+- Gén_14:7devastaron todo el p de los amalecitasH7704
+- Gén_34:1salió Dina la...a ver a las hijas del pH776
+- Gén_34:21habitarán en el p, y traficarán en élH776
+- Gén_41:34haga...ponga gobernadores sobre el pH776
+- Gén_41:36aquella provisión en depósito para el pH776
+- Gén_41:36Egipto, y el p no perecerá de hambreH776
+- Gén_41:54hubo hambre en todos los p, mas en todaH776
+- Gén_41:56el hambre...por toda la extensión del pH776
+- Gén_42:9, Gén_42:12ver lo descubierto del p...habéis venidoH776
+- Éxo_8:16para que se vuelva piojos por todo el pH776
+- Éxo_8:17se volvió piojos en todo el p de EgiptoH776
+- Éxo_8:24vino...moscas...sobre todo el p de EgiptoH776
+- Éxo_9:9sarpullido con úlceras en...el p de EgiptoH776
+- Éxo_9:22la hierba del campo en el p de EgiptoH776
+- Éxo_9:25el granizo...desgajó...los árboles del pH776
+- Éxo_10:12la langosta...suba sobre el p de EgiptoH776
+- Éxo_10:13trajo un viento oriental sobre el p todoH776
+- Éxo_10:14la langosta...y se asentó en todo el pH776
+- Éxo_10:15cubrió la faz de todo el p...de EgiptoH776
+- Éxo_10:19ni una langosta quedó en todo el p deH1366
+- Éxo_11:10no envió a los...de Israel fuera de su pH776
+- Éxo_12:19leudado, así extranjero...natural del pH776
+- Lev_26:6la espada no pasará por vuestro pH776
+- Núm_13:20esforzaos, y tomad del fruto del pH776
+- Núm_14:36toda la congregación, desacreditando aquel pH776
+- Núm_20:18respondió: No pasarás por mi p; de otra
+- Núm_32:1vieron...les pareció el p lugar de ganadoH776
+- Núm_32:17niños...a causa de los moradores del pH776
+- Núm_32:22sea el p sojuzgado delante de JehováH776
+- Núm_32:29luego que el p sea sojuzgado delante deH776
+- Núm_32:33dio a los...las ciudades del p alrededorH776
+- Núm_33:37acamparon...la extremidad del p de EdomH776
+- Núm_33:52echaréis...a todos los moradores del pH776
+- Núm_33:55si no echareis a los moradores del pH776
+- Deu_1:25tomaron en sus manos del fruto del pH776
+- Deu_28:11p que Jehová juró a tus padres que lesH127
+- Jos_2:9los moradores del p ya han desmayadoH776
+- Jos_2:24los moradores del p desmayan delante deH776
+- Jos_13:6repartirás tú...el p a los israelitas por
+- Jue_11:21los amorreos que habitaban en aquel pH776
+- 1Sa_13:3hizo Saúl tocar trompeta por todo el pH776
+- 1Sa_14:29Jonatán: Mi padre ha turbado el p...VedH776
+- 1Sa_23:27ven...han hecho una irrupción en el pH776
+- 1Sa_27:9asolaba David el p, y no dejaba con vidaH776
+- 2Sa_15:23y todo el p lloró en alta voz; pasóH776
+- 2Sa_18:8y la batalla se extendió por todo el pH776
+- 2Sa_19:9rey...ha huido del p por miedo de AbsalónH7704
+- 1Re_15:12porque quitó del p a los sodomitasH776
+- 1Re_18:5vé por el p a todas las fuentes de aguasH776
+- 1Re_18:6dividieron entre sí el p para recorrerloH776
+- 1Re_20:7llamó a todos los ancianos del p, y lesH776
+- 2Re_8:6sus tierras desde el día que dejó el pH776
+- 2Re_11:3seis años; y Atalía fue reina sobre el pH776
+- 2Re_11:14y todo el pueblo del p se regocijabaH776
+- 2Re_15:20el rey de Asiria no se detuvo...en el pH776
+- 2Re_17:5rey de Asiria invadió todo el p, y sitióH776
+- 2Re_17:27vaya...y les enseñe la ley del Dios del pH776
+- 2Re_25:19llevaba el registro de la gente del pH776
+- 2Cr_9:28traían...caballos de...y todos los pH776
+- 2Cr_14:1cuyos días tuvo sosiego el p por 10 añosH776
+- 2Cr_22:12entre tanto, Atalía reinaba en el pH776
+- 2Cr_23:2recorrieron el p de Judá, y reunieron a
+- 2Cr_23:21se regocijó todo el pueblo del p; y laH776
+- 2Cr_32:17dioses de los p no pudieron librar a suH776
+- 2Cr_32:31saber del prodigio que había...en el pH776
+- Neh_9:24y humillaste...a los moradores del pH776
+- Sal_105:35y comieron toda la hierba de su pH776
+- Cnt_2:12en nuestro p se ha oído la voz de laH776
+- Jer_14:4por no haber llovido en el p, estánH776
+- Jer_52:16de los pobres del p dejó NabuzaradánH776
+- Eze_34:13en todos los lugares habitados del pH776
+- Eze_36:24os recogeré de...y os traeré a vuestro pH127
+- Eze_39:14que vayan por el p con los que viajenH776
+- Eze_39:15y pasarán los que irán por el p, y elH776
+- Dan_11:42su mano...y no escapará el p de EgiptoH776
+- Zac_7:5habla a todo el pueblo del p, y a losH776
+- Zac_10:9aun en lejanos p se acordarán de mí; y
+- Luc_19:12un hombre noble se fue a un p lejanoG5561

@@ -1,0 +1,684 @@
+---
+tipo: concordancia
+palabra: LLEVAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LLEVAR
+
+- Gén_5:24y desapareció, porque le llevó DiosH3947
+- Gén_12:15fue llevada la mujer a casa de FaraónH3947
+- Gén_15:5lo llevó fuera, y le dijo: Mira ahoraH3318
+- Gén_19:17los hubieron llevado fuera, dijeronH3318
+- Gén_27:10tú las llevarás a tu padre, y comeráH935
+- Gén_30:15te has de llevar las mandrágoras deH3947
+- Gén_31:32lo que yo tenga tuyo, y llévateloH3947
+- Gén_32:17¿y para quién es...que llevas delante
+- Gén_34:29llevaron cautivos a todos sus niños yH7617
+- Gén_37:25y mirra, e iban a llevarlo a EgiptoH3381
+- Gén_37:28vendieron...Y llevaron a José a EgiptoH935
+- Gén_39:1llevado, pues, José a Egipto, PotifarH3381
+- Gén_39:1ismaelitas que lo habían llevado alláH3381
+- Gén_42:19vosotros id y llevad el alimento paraH935
+- Gén_42:36y a Benjamín le llevaréis; contra míH3947
+- Gén_43:11llevad a aquel varón un presente, unH3947
+- Gén_43:12llevad...el dinero vuelto en las bocasH3947
+- Gén_43:16dijo al...Lleva a casa a esos hombresH935
+- Gén_43:17y llevó a los hombres a casa de JoséH935
+- Gén_43:18cuando fueron llevados a casa de JoséH3947
+- Gén_43:24llevó aquel varón a los hombres a casaH935
+- Gén_44:1cuanto puedan llevar, y pon el dineroH5375
+- Gén_45:27carros que José enviaba para llevarloH5375
+- Gén_46:5que Faraón había enviado para llevarloH5375
+- Gén_47:30cuando duerma...me llevarás de EgiptoH5375
+- Gén_49:15y bajó su hombro para llevar, y sirvióH5445
+- Gén_50:13lo llevaron sus hijos a la tierra deH5375
+- Gén_50:25jurar...haréis llevar de aquí mis huesosH5927
+- Éxo_2:9lleva a este niño y críamelo, y yo teH3212
+- Éxo_3:1llevó las ovejas a través del desiertoH5090
+- Éxo_12:34llevó el pueblo su...antes que leudaseH5375
+- Éxo_12:46no llevarás de aquella carne fuera deH3318
+- Éxo_13:17Dios no los llevó por el camino de laH5148
+- Éxo_15:13lo llevaste con tu poder a tu...moradaH5095
+- Éxo_18:22la carga...y la llevarán ellos contigoH935
+- Éxo_21:6su amo lo llevará ante los jueces, y leH5066
+- Éxo_22:10animal...fuere llevado sin verlo nadieH5414
+- Éxo_23:4si encontrares el...vuelve a llevárseloH7725
+- Éxo_23:23y te llevará a la tierra del amorreoH935
+- Éxo_25:14meterás...para llevar el arca con ellasH5375
+- Éxo_25:27anillos...las varas para llevar la mesaH5375
+- Éxo_25:28varas...con ellas será llevada la mesaH5375
+- Éxo_27:7varas a ambos lados...cuando sea llevadoH5375
+- Éxo_28:12y Aarón llevará los nombres de ellosH5375
+- Éxo_28:29y llevará Aarón los nombres de...IsraelH5375
+- Éxo_28:30y llevará siempre Aarón el juicio deH5375
+- Éxo_28:38llevará Aarón las faltas cometidas enH5375
+- Éxo_28:43para que no lleven pecado y mueranH5375
+- Éxo_29:4y llevarás a Aarón y a sus hijos a laH7126
+- Éxo_29:10después llevarás el becerro delante delH7126
+- Éxo_30:4para meter...varas con que será llevadoH5375
+- Éxo_32:34lleva a este pueblo a donde te he dichoH5148
+- Éxo_34:4llevó en su...las dos tablas de piedraH3947
+- Éxo_34:26los primeros frutos...llevarás a la casaH935
+- Éxo_37:5y metió las varas...para llevar el arcaH5375
+- Éxo_37:14metían las varas para llevar la mesaH5375
+- Éxo_37:15e hizo las varas...para llevar la mesaH5375
+- Éxo_38:7metió las varas...para llevarlo con ellasH5375
+- Éxo_40:12llevarás a Aarón y...hijos a la puertaH7126
+- Lev_2:8sacerdote, el cual la llevará al altarH5066
+- Lev_5:1y no lo denunciare, él llevará su pecadoH5375
+- Lev_5:17cosas...es culpable, y llevará su pecadoH5375
+- Lev_7:18la...que de él comiere llevará su pecadoH5375
+- Lev_9:5llevaron lo que mandó Moisés delante delH3947
+- Lev_10:17llevar la iniquidad de la congregaciónH5375
+- Lev_10:18ved...no fue llevada dentro del santuarioH935
+- Lev_11:25que llevare algo de sus cadáveres lavaráH5375
+- Lev_11:28el que llevare sus cadáveres, lavaráH5375
+- Lev_13:45el leproso...llevará vestidos rasgados
+- Lev_15:10el que la llevare, lavará sus vestidosH5375
+- Lev_16:12perfume...y lo llevará detrás del veloH935
+- Lev_16:15y llevará la sangre detrás del velo, yH935
+- Lev_16:22y aquel macho cabrío llevará sobre síH5375
+- Lev_16:26el que hubiere llevado el macho cabríoH7971
+- Lev_16:27cuya sangre fue llevada al santuarioH935
+- Lev_17:16si no los lavare...llevará su iniquidadH5375
+- Lev_19:8y el que lo comiere llevará su delitoH5375
+- Lev_20:17la desnudez de su...su pecado llevaráH5375
+- Lev_20:19al descubrir la...su iniquidad llevaránH5375
+- Lev_20:20su pecado llevarán; morirán sin hijosH5375
+- Lev_21:10consagrado para llevar las vestidurasH3847
+- Lev_22:9para que no lleven pecado por ello, noH5375
+- Lev_22:16harían llevar la iniquidad del pecadoH5375
+- Lev_24:11el hijo...blasfemó...lo llevaron a MoisésH935
+- Lev_24:15que maldijere a...llevará su iniquidadH5375
+- Lev_27:8será llevado ante el sacerdote, quienH5975
+- Núm_1:50llevarán el tabernáculo y todos susH5375
+- Núm_4:15vendrán...hijos de Coat para llevarlosH5375
+- Núm_4:24el oficio...para ministrar y para llevarH4853
+- Núm_4:25llevarán las cortinas del tabernáculoH5375
+- Núm_5:31libre de...y la mujer llevará su pecadoH5375
+- Núm_7:9porque llevaban sobre sí en los hombrosH5375
+- Núm_9:13dejare de celebrar...llevará su pecadoH5375
+- Núm_10:17los hijos de Merari, que lo llevabanH5375
+- Núm_10:21luego...coatitas llevando el santuarioH5375
+- Núm_11:12digas: Llévalo...como lleva la que críaH5375
+- Núm_11:17llevarán contigo la carga del puebloH5375
+- Núm_11:17la carga del...no la llevarás tú soloH5375
+- Núm_14:8él nos llevará a esta tierra, y nos laH935
+- Núm_14:33llevarán vuestras rebeldías, hasta queH5375
+- Núm_14:34llevaréis vuestras iniquidades 40 añosH5375
+- Núm_15:18en la tierra a la cual yo os llevoH935
+- Núm_18:1tú y...llevaréis el pecado del santuarioH5375
+- Núm_18:1tú y...llevaréis el pecado de...sacerdocioH5375
+- Núm_18:22para que no lleven pecado por el cualH5375
+- Núm_18:23levitas...ellos llevarán su iniquidadH5375
+- Núm_18:32y no llevaréis pecado por ello, cuandoH5375
+- Núm_23:14lo llevó al campo de Zofin, a...PisgaH3947
+- Núm_23:27te llevaré a otro lugar; por venturaH3947
+- Núm_23:28llevó a Balaam a la cumbre de Peor, queH3947
+- Núm_24:22será echado, cuando Asiria te llevaráH7617
+- Núm_25:11Finees...llevado de celo entre ellos
+- Núm_27:5Moisés llevó...causa delante de JehováH7126
+- Núm_30:15entonces él llevará el pecado de ellaH5375
+- Núm_31:9llevaron cautivas a las mujeres de los
+- Deu_1:9diciendo: Yo solo no puedo llevarosH5375
+- Deu_1:12¿cómo llevaré yo solo vuestras molestiasH5375
+- Deu_4:27naciones a las cuales os llevará JehováH5090
+- Deu_10:8apartó...de Leví para que llevase el arcaH5375
+- Deu_12:6y allí llevaréis vuestros holocaustosH935
+- Deu_12:11allí llevaréis...cosas que yo os mandoH935
+- Deu_14:24no puedas llevarlo, por estar lejos deH5375
+- Deu_20:20el árbol que sepas que no lleva fruto
+- Deu_21:3una becerra...que no haya llevado yugoH4900
+- Deu_28:36te llevará...a nación que no conocisteH1980
+- Deu_28:37pueblos a los cuales te llevará JehováH5090
+- Deu_31:9a los sacerdotes...que llevaban el arcaH5375
+- Deu_31:25órdenes...a los levitas que llevaban elH5375
+- Deu_32:11los toma, los lleva sobre sus plumasH5375
+- Deu_33:7oye, oh Jehová...y llévalo a su puebloH935
+- Jos_3:3los levitas sacerdotes que la llevanH5375
+- Jos_3:8a los sacerdotes que llevan el arca delH5375
+- Jos_3:13de los sacerdotes que llevan el arca deH5375
+- Jos_3:14sacerdotes...llevando el arca del pactoH5375
+- Jos_3:15los que llevaban el arca entraron en elH5375
+- Jos_3:15los Pies de los...que llevaban el arcaH5375
+- Jos_3:17que llevaban el arca del pacto...en secoH5375
+- Jos_4:9los sacerdotes que llevaban el arca delH5375
+- Jos_4:10los sacerdotes que llevaban el arca seH5375
+- Jos_4:16que llevan el arca del pacto...que subanH5375
+- Jos_4:18los sacerdotes que llevaban el arca delH5375
+- Jos_6:4siete sacerdotes llevarán siete bocinasH5375
+- Jos_6:6dijo: llevad el arca del pacto, y sieteH5375
+- Jos_6:6y siete sacerdotes lleven bocinas deH5375
+- Jos_6:8llevando las siete bocinas de cuerno de carneroH5375
+- Jos_6:13sacerdotes, llevando las siete bocinasH5375
+- Jos_7:24Acán...y lo llevaron, al valle de AcorH5927
+- Jos_8:33levitas que llevaban el arca del pactoH5375
+- Jos_10:24y cuando los hubieron llevado a JosuéH3318
+- Jos_15:18cuando la llevaba, él la persuadió queH935
+- Jue_1:7le llevaron a Jerusalén, donde murióH935
+- Jue_5:12y lleva tus cautivos, hijo de AbinoamH7617
+- Jue_5:19no llevaron ganancia alguna de dineroH3947
+- Jue_7:4llévalos a las aguas, y...te los probaréH3381
+- Jue_7:5entonces llevó el pueblo a las aguas; yH3381
+- Jue_7:6lamieron llevando el agua con la mano a
+- Jue_7:19Gedeón y los cien hombres que llevaban
+- Jue_7:19y quebraron los cántaros que llevaban
+- Jue_16:21mas los filisteos...le llevaron a GazaH3381
+- Jue_16:31llevaron, y le sepultaron entre ZoraH5927
+- Jue_18:27ellos, llevando las cosas que había hechoH3947
+- Jue_19:3llevaba consigo un criado, y un par de
+- Jue_20:10mil...que lleven víveres para el puebloH3947
+- 1Sa_1:22para que lo lleve y sea presentadoH935
+- 1Sa_1:24lo llevó...con tres becerros, un efa deH5927
+- 1Sa_2:28le escogí...llevase efod delante de míH5375
+- 1Sa_5:1arca...llevaron desde Eben-ezer a AsdodH935
+- 1Sa_6:21descended, pues, Y llevadle a vosotrosH5927
+- 1Sa_7:1vinieron...y llevaron el arca de JehováH5927
+- 1Sa_9:7vamos...pero ¿qué llevaremos al varón?[[H935]]
+- 1Sa_10:3tres hombres...llevando uno 3 cabritosH5375
+- 1Sa_14:3Ahías...llevaba el efod; y no sabía elH5375
+- 1Sa_14:27y la mojó...y llevó su mano a la bocaH7725
+- 1Sa_17:5y llevaba una cota de malla; y era elH3847
+- 1Sa_17:17y llévalo pronto al campamento a tusH3947
+- 1Sa_17:18diez quesos de leche los llevarás alH935
+- 1Sa_17:57lo tomó y lo llevó delante de SaúlH935
+- 1Sa_18:4se quitó el manto que llevaba, y...dioH5921
+- 1Sa_20:8no hay necesidad de llevarme hasta tuH935
+- 1Sa_20:40le dijo: Vete y llévalas a la ciudadH935
+- 1Sa_23:5peleó contra los...se llevó sus ganadosH5090
+- 1Sa_26:2Saúl...llevando consigo 3.000 hombres
+- 1Sa_26:12se llevó...David la lanza y la vasijaH3947
+- 1Sa_27:9David...llevaba las ovejas, las vacasH3947
+- 1Sa_30:2habían llevado cautivas a las mujeresH7617
+- 1Sa_30:2los habían llevado al seguir su caminoH5090
+- 1Sa_30:3sus hijos e hijas habían sido llevadosH7617
+- 1Sa_30:15¿me llevarás tú a esa tropa? Y él dijoH3381
+- 1Sa_30:15júrame por...y yo te llevaré a esa genteH3381
+- 1Sa_30:16lo llevó...estaban desparramados sobreH3381
+- 1Sa_31:9para que llevaran las buenas nuevas alH1319
+- 2Sa_2:3llevó...David consigo a los hombres queH5927
+- 2Sa_2:8tomó a Is-boset...y lo llevó a MahanaimH5674
+- 2Sa_3:27Joab lo llevó aparte en medio...la puertaH5186
+- 2Sa_6:3el arca...llevaron de la casa de AbinadabH5375
+- 2Sa_6:4y cuando lo llevaban...Ahío iba delanteH5375
+- 2Sa_6:10hizo llevar David a casa de Obed-edomH5186
+- 2Sa_6:12David fue, y llevó con alegría el arcaH5927
+- 2Sa_6:13cuando los que llevaban el arca de DiosH5375
+- 2Sa_8:7escudos de oro...y los llevó a JerusalénH935
+- 2Sa_8:10Joram llevaba en su mano utensilios deH3027
+- 2Sa_10:16llevando por jefe a Sobac, general del
+- 2Sa_13:10Tamar...las llevó a su hermano Amnón aH935
+- 2Sa_13:18y llevaba ella un vestido de...coloresH3318
+- 2Sa_15:24todos los levitas que llevaban el arcaH5375
+- 2Sa_15:30llevando la cabeza cubierta y los pies
+- 2Sa_17:13todos los de Israel llevarán sogas aH5375
+- 2Sa_18:20no llevarás las nuevas...las ll otro díaH1319
+- 2Sa_19:41los hombres de Judá...te han llevado, yH1589
+- 2Sa_21:13hizo llevar de allí los huesos de SaúlH5927
+- 1Re_1:33montad a Salomón...llevadlo a GihónH3381
+- 1Re_1:38montaron a Salomón...lo llevaron a GihónH1980
+- 1Re_2:26por cuanto has llevado el arca de JehováH5375
+- 1Re_5:9mis siervos la llevarán desde el LíbanoH3381
+- 1Re_5:15tenía...70.000 que llevaban las cargasH5375
+- 1Re_8:4llevaron el arca de...y el tabernáculo deH5927
+- 1Re_8:4cuales llevaban los sacerdotes y levitasH5927
+- 1Re_8:46que los cautive y lleve a tierra enemigaH7617
+- 1Re_8:48los hubieren llevado cautivos, y orarenH7617
+- 1Re_8:50los que los hubieron llevado cautivosH7617
+- 1Re_10:25todos...llevaban cada año sus presentesH935
+- 1Re_13:29y lo puso sobre el asno y se lo llevóH7725
+- 1Re_14:26se llevó todos los escudos de oro queH3947
+- 1Re_14:28el rey entraba...la guardia los llevabanH5375
+- 1Re_17:19y lo llevó al aposento donde él estabaH5927
+- 1Re_18:12el Espíritu...te llevará adonde yo noH5375
+- 1Re_18:40y los llevó Elías al arroyo de CisónH8610
+- 1Re_20:6llevarán todo lo precioso que tengasH3947
+- 1Re_21:13y lo llevaron fuera de la ciudad y loH3318
+- 1Re_22:26toma a...y llévalo a Amón gobernador deH7725
+- 2Re_4:19dijo a un criado: llévalo a su madreH5375
+- 2Re_5:2habían llevado cautiva de...a una muchachaH7617
+- 2Re_5:5salió...él, llevando consigo diez talentosH3947
+- 2Re_5:23dos de sus criados para que lo llevasenH5375
+- 2Re_9:2haz que se levante...llévalo a la cámaraH935
+- 2Re_9:28sus siervos le llevaron en un carro aH7392
+- 2Re_11:19llevaron al rey desde la casa de JehováH3381
+- 2Re_12:16el dinero...no se llevaba a la casa deH935
+- 2Re_15:29tomó a...y los llevó cautivos a AsiriaH1540
+- 2Re_16:9y llevó cautivos a los moradores a KirH1540
+- 2Re_17:6llevó a Israel cautivo a Asiria, y losH1540
+- 2Re_17:23Israel fue llevado cautivo de su tierraH1540
+- 2Re_17:27llevad allí a alguno de los sacerdotesH1980
+- 2Re_17:28uno de los sacerdotes...llevado cautivoH1540
+- 2Re_18:11el rey de Asiria llevó cautivo a IsraelH1540
+- 2Re_18:32os lleve a una tierra como la vuestraH3947
+- 2Re_19:30a echar raíces...y llevará fruto arribaH6213
+- 2Re_20:17será llevado a Babilonia, sin quedarH5375
+- 2Re_22:20y serás llevado a tu sepulcro en pazH622
+- 2Re_23:4hizo llevar las cenizas de ellos a Bet-elH5375
+- 2Re_23:34y tomó a Joacaz y lo llevó a EgiptoH935
+- 2Re_24:14llevó en cautiverio a toda Jerusalén, aH1540
+- 2Re_24:15llevó...a Joaquín...cautivos los ll deH1540, [[H1980]]
+- 2Re_24:16los...llevó cautivos el rey de BabiloniaH935
+- 2Re_25:7y a Sedequías...lo llevaron a BabiloniaH935
+- 2Re_25:11pueblo...los llevó cautivos NabuzaradánH1540
+- 2Re_25:13mar...y llevaron el bronce a BabiloniaH5375
+- 2Re_25:14llevaron...los calderos, las paletas, lasH3947
+- 2Re_25:15todo lo llevó el capitán de la guardiaH3947
+- 2Re_25:19de la ciudad tomó...llevaba el registroH6633
+- 2Re_25:20los llevó a Ribla al rey de BabiloniaH1980
+- 2Re_25:21así fue llevado cautivo Judá de sobreH1540
+- 1Cr_4:42llevando por capitanes a PelatíasH5375
+- 1Cr_5:26y los llevó a Halah, a Habor, a Hara yH1540
+- 1Cr_6:15y Josadac fue llevado cautivo cuandoH1540
+- 1Cr_13:7llevaron el arca de Dios de la casa deH7392
+- 1Cr_13:13el arca...la llevó a casa de Obed-edomH5186
+- 1Cr_15:2arca de Dios no debe ser llevada sinoH5375
+- 1Cr_15:2ha elegido...para que lleven el arca deH5375
+- 1Cr_15:26ayudando Dios a los...que llevaban elH5375
+- 1Cr_15:27todos los levitas que llevaban el arcaH5375
+- 1Cr_15:27llevaba...David sobre sí un efod de lino
+- 1Cr_15:28de esta manera llevaba...Israel el arcaH5927
+- 1Cr_18:7tomé...los escudos de oro que llevabanH5921
+- 1Cr_23:26los levitas no tendrán que llevar másH5375
+- 2Cr_2:2designó...hombres que llevasen cargasH5445
+- 2Cr_2:16la madera...harás llevar hasta JerusalénH5927
+- 2Cr_2:18y señaló de ellos 70.000...llevar cargasH5449
+- 2Cr_5:5llevaron el arca...y los levitas los llH5927
+- 2Cr_6:36los lleven cautivos a tierra de enemigosH7617
+- 2Cr_6:37la tierra donde fueren llevados cautivosH7617
+- 2Cr_6:38en la tierra...donde los hubieren llevadoH7617
+- 2Cr_12:9todo lo llevó, y tomó los escudos de oroH3947
+- 2Cr_12:11venían...de la guardia y los llevabanH5375
+- 2Cr_14:15se llevaron muchas ovejas y camellosH7617
+- 2Cr_16:6llevaran de Ramá la piedra y la maderaH5375
+- 2Cr_18:25toma a...y llevadlo a Amón gobernador deH7725
+- 2Cr_20:25muchas riquezas...no los podían llevarH4853
+- 2Cr_24:11llevar el arca al secretario del reyH935
+- 2Cr_24:11y llevaban el arca, y la vaciaban, yH5375
+- 2Cr_25:12los cuales llevaron a la cumbre de unH935
+- 2Cr_25:23a Amasías...y lo llevó a Jerusalén; yH935
+- 2Cr_28:5de prisioneros que llevaron a DamascoH7617
+- 2Cr_28:8ellos mucho botín que llevaron a SamariaH7617
+- 2Cr_28:15a los cautivos...llevaron hasta JericóH5095
+- 2Cr_28:17los edomitas...habían llevado cautivosH7617
+- 2Cr_29:9nuestros hijos...fueron llevados cautivos
+- 2Cr_29:16de allí los levitas la llevaron fueraH3318
+- 2Cr_33:11con cadenas lo llevaron a BabiloniaH3212
+- 2Cr_34:16y Safán lo llevó al rey, y le contó elH935
+- 2Cr_35:24lo llevaron a Jerusalén, donde murióH1980
+- 2Cr_36:4Joacaz...tomó Necao, y lo llevó a EgiptoH935
+- 2Cr_36:6lo llevó a Babilonia atado con cadenasH3212
+- 2Cr_36:7llevó...de los utensilios de la casa deH935
+- 2Cr_36:10rey...envió y lo hizo llevar a BabiloniaH935
+- 2Cr_36:18utensilios...todo lo llevó a BabiloniaH935
+- 2Cr_36:20fueron llevados cautivos a BabiloniaH1473
+- Esd_1:11los hizo llevar...con los que subieronH5927
+- Esd_2:1Nabucodonosor...había llevado cautivos aH1540
+- Esd_5:5que el asunto fuese llevado a Darío; yH1946
+- Esd_5:12y llevó cautivo al pueblo a BabiloniaH1541
+- Esd_5:14los había llevado al templo de BabiloniaH2987
+- Esd_5:15vé, y llévalos al templo...en JerusalénH5182
+- Esd_7:15a llevar la plata...que el rey y...ofrecenH2987
+- Neh_7:6que llevó cautivos Nabucodonosor reyH1540
+- Neh_9:23y los llevaste a la tierra de la cualH935
+- Neh_10:38llevarían el diezmo del diezmo a la casaH5927
+- Neh_10:39a las cámaras del...han de llevar...aceiteH935
+- Est_2:3lleven a todas las jóvenes vírgenes deH6908
+- Est_2:6con los cautivos...llevados con JeconíasH1540
+- Est_2:8Ester también fue llevada a la casa delH3947
+- Est_2:9y la llevó con sus doncellas a lo mejor
+- Est_2:16fue, pues, Ester llevada al rey AsueroH3947
+- Est_6:9llévenlo en el caballo por la plaza deH7392
+- Est_6:14para llevar a Amán al banquete que EsterH935
+- Est_9:26y lo que llevó a su conocimientoH5090
+- Job_1:17contra los camellos y se los llevaronH3947
+- Job_10:19llevado del vientre a la sepulturaH2986
+- Job_12:19él lleva despojados a los príncipes, yH1980
+- Job_14:19agua...se lleva el polvo de la tierraH7857
+- Job_21:32llevado será a los sepulcros, y sobreH2986
+- Job_21:33tras de él será llevado todo hombreH4900
+- Job_24:3se llevan el asno de los huérfanosH5090
+- Job_31:36yo lo llevaría sobre mi hombro, y meH5375
+- Job_34:31he llevado ya castigo, no ofenderé yaH5375
+- Job_38:20para que las lleves a sus límites, yH3947
+- Sal_45:14con vestidos bordados será llevadaH2986
+- Sal_49:17porque cuando muera no llevará nadaH3947
+- Sal_60:9¿quién me llevará...me ll hasta Edom?[[H2986]]
+- Sal_61:2llévame a la roca que es más alta que yoH5148
+- Sal_68:11multitud...que llevaban buenas nuevasH1319
+- Sal_72:3los montes llevarán paz al pueblo, y losH5375
+- Sal_78:52los llevó por el desierto como un rebañoH5090
+- Sal_88:15la juventud he llevado tus terrores, heH5375
+- Sal_89:50oprobio de muchos pueblos, que llevoH5375
+- Sal_91:12en las manos te llevarán, para que tuH5375
+- Sal_125:5los llevará con los que hacen iniquidadH1980
+- Sal_126:6irá...el que lleva la preciosa semillaH5375
+- Sal_128:3mujer será como vid que lleva fruto a
+- Sal_137:3y los que nos habían llevado cautivosH7617
+- Pro_3:35honra...los necios llevarán ignominiaH7311
+- Pro_7:20la bolsa de dinero llevó en su mano; elH3947
+- Pro_18:16dádiva...le lleva delante de los grandesH5148
+- Pro_19:19el de grande ira llevará la pena; y siH5375
+- Pro_19:24perezoso...ni aun a su boca la llevaráH7725
+- Pro_22:21vuelvas a llevar palabras de verdad aH7725
+- Pro_24:11libra a los que son llevados a la muerteH3947
+- Pro_26:15plato; se cansa de llevarla a su bocaH7725
+- Pro_26:17el que pasando se deja llevar de la iraH5674
+- Pro_27:12mas los simples pasan y llevan el daño
+- Pro_30:10sea que te maldiga, y lleves el castigo
+- Ecl_3:22¿quién lo llevará para que vea lo queH935
+- Ecl_5:15nada tiene de su trabajo para llevar enH3212
+- Ecl_10:20las aves del cielo llevarán la voz, yH3212
+- Cnt_2:4me llevó a la casa del banquete, y suH935
+- Cnt_8:2yo te llevaría, te metería en casa de miH5090
+- Isa_4:1solamente, permítenos llevar tu nombreH7121
+- Isa_5:13mi pueblo fue llevado cautivo, porque no
+- Isa_5:29la llevará con seguridad, y nadie se laH6403
+- Isa_9:5todo calzado que lleva el guerrero en el
+- Isa_15:7las llevarán al torrente de los saucesH5375
+- Isa_20:4llevará el rey de Asiria a los cautivosH5090
+- Isa_21:14llevadle agua, moradores de tierra deH857
+- Isa_23:7sus pies la llevarán a morar lejosH2986
+- Isa_30:6llevan sobre lomos de asnos sus riquezasH5375
+- Isa_36:17yo venga y os lleve a una tierra comoH3947
+- Isa_39:6llevado a Babilonia todo lo que hay enH5375
+- Isa_40:11en su brazo llevará...en su seno los llH5375
+- Isa_40:24el torbellino los lleva como hojarascaH5375
+- Isa_41:16los aventarás, y los llevará el vientoH5375
+- Isa_46:1esas cosas que vosotros solíais llevarH5385
+- Isa_46:3los que sois llevados desde la matrizH5375
+- Isa_46:4yo; yo hice, yo llevaré, yo soportaréH5445
+- Isa_46:7lo echan sobre los hombros, lo llevanH5375
+- Isa_48:20publicadlo, llevadlo hasta lo postreroH3318
+- Isa_48:21sed cuando los llevó por los desiertosH1980
+- Isa_52:5que mi pueblo es llevado injustamente?[[H3947]]
+- Isa_52:11que lleváis los utensilios de JehováH5375
+- Isa_53:4llevó él nuestras enfermedades, y sufrióH5445
+- Isa_53:7como cordero fue llevado al mataderoH2986
+- Isa_53:11verá...llevará las iniquidades de ellosH5445
+- Isa_53:12habiendo él llevado el pecado...y oradoH5375
+- Isa_56:7yo los llevaré a mi santo monte, y losH935
+- Isa_57:13pero a todos ellos llevará el vientoH5375
+- Isa_60:4y tus hijas serán llevadas en brazosH539
+- Isa_64:6y nuestras maldades nos llevaron comoH5375
+- Jer_10:5son llevados, porque no pueden andarH5375
+- Jer_11:19yo era como cordero...llevan a degollarH2986
+- Jer_13:19toda Judá fue...llevada en cautiverioH7617
+- Jer_17:21guardaos...vuestra vida de llevar cargaH5375
+- Jer_19:1vasija...y lleva contigo de los ancianos
+- Jer_20:4los llevará cautivos a Babilonia, y losH1540
+- Jer_20:5los tomarán y los llevarán a BabiloniaH935
+- Jer_22:12morirá en el lugar adonde lo llevaronH1540
+- Jer_22:26haré llevar cautivo a ti y a tu madreH2904
+- Jer_24:1después...haberlos llevado a BabiloniaH7617
+- Jer_28:3de este lugar para llevarlos a BabiloniaH935
+- Jer_29:1pueblo que...llevó cautivo de JerusalénH1473
+- Jer_29:14volver al lugar de donde os hice llevarH1540
+- Jer_31:19porque llevé la afrenta de mi juventudH5375
+- Jer_32:5y hará llevar a Sedequías a BabiloniaH1980
+- Jer_34:18no han llevado a efecto las palabrasH6965
+- Jer_35:4llevé a la casa de Jehová, al aposentoH935
+- Jer_37:14Irías...lo llevó delante de los príncipesH935
+- Jer_39:7le aprisionó con grillos para llevarleH935
+- Jer_41:5incienso para llevar a la casa de JehováH935
+- Jer_41:10llevó Ismael...Los ll, pues, cautivosH7617
+- Jer_41:16a quienes llevó de Mizpa después queH7725
+- Jer_43:12quemará...y a ellos los llevará cautivosH7617
+- Jer_48:7Quemos será llevado en cautiverio, susH3318
+- Jer_49:3Milcom fue llevado en cautiverio, susH1980
+- Jer_52:11lo hizo llevar a Babilonia; y lo pusoH935
+- Jer_52:17y llevaron todo el bronce a BabiloniaH5375
+- Jer_52:18se llevaron...los calderos, las palasH3947
+- Jer_52:19y lo de plata...se llevó el capitán deH3947
+- Jer_52:26los llevó al rey de Babilonia en RiblaH1980
+- Jer_52:28es el pueblo que Nabucodonosor llevóH1540
+- Jer_52:29él llevó cautivas de Jerusalén a 832H1540
+- Jer_52:30llevó cautivas a 745 personas...de JudáH1540
+- Lam_1:18jóvenes fueron llevados en cautiverioH1980
+- Lam_3:2me guió y me llevó en tinieblas, y no enH1980
+- Lam_3:27bueno le es al hombre llevar el yugoH5375
+- Lam_4:22Sion; nunca más te hará llevar cautivaH1540
+- Lam_5:7pecaron...y nosotros llevamos su castigoH5445
+- Lam_5:13llevaron a los jóvenes a moler, y losH5375
+- Eze_4:4número de los días...llevarás sobre tiH5375
+- Eze_4:5así llevarás tú la maldad de la casa deH5375
+- Eze_4:6y llevarás la maldad de la casa de JudáH5375
+- Eze_8:3me llevó en visiones de Dios a JerusalénH935
+- Eze_8:7me llevó a la entrada del atrio, y miréH935
+- Eze_8:14me llevó a la entrada de la puerta de laH935
+- Eze_8:16me llevó al atrio de adentro de la casaH935
+- Eze_11:1llevó por la puerta oriental de la casaH935
+- Eze_11:24volvió a llevar en visión del EspírituH935
+- Eze_12:6delante de sus ojos los llevarás sobreH5375
+- Eze_12:7los llevé sobre los hombros a vista deH5375
+- Eze_12:12y al príncipe que...llevarán a cuestasH5375
+- Eze_12:13haré llevarlo a Babilonia, a tierra deH935
+- Eze_14:10llevarán ambos el castigo de su maldadH5375
+- Eze_14:22hijos e hijas, que serán llevados fueraH3318
+- Eze_16:39se llevarán tus hermosas alhajas, y teH3947
+- Eze_16:52lleva tu vergüenza en los pecados queH5375
+- Eze_16:52y lleva tu confusión, por cuanto hasH5375
+- Eze_16:54lleves tu confusión, y te avergüencesH5375
+- Eze_16:57llevas tú la afrenta de las hijas de
+- Eze_17:4lo llevó a tierra de mercaderes, y loH935
+- Eze_17:12tomó...y los llevó consigo a BabiloniaH935
+- Eze_17:13se llevó...a los poderosos de la tierraH3947
+- Eze_18:19¿por qué el hijo no llevará el pecadoH5375
+- Eze_18:20el hijo no llevará el pecado del padreH5375
+- Eze_18:20ni el padre llevará el pecado del hijoH5375
+- Eze_19:4lo llevaron con grillos a la tierra deH935
+- Eze_19:9lo llevaron con cadenas, y lo ll al reyH935, [[[[H935]]]]
+- Eze_23:35lleva...tu lujuria y tus fornicacionesH5375
+- Eze_25:3y llevada en cautiverio la casa de JudáH1980
+- Eze_29:14y los llevaré a la tierra de Patros, aH7725
+- Eze_32:9cuando lleve al cautiverio a los tuyosH935
+- Eze_32:24-25llevaron su confusión con los queH5375
+- Eze_36:6por cuanto habéis llevado el oprobio deH5375
+- Eze_36:7las naciones...han de llevar su afrentaH5375
+- Eze_36:8llevaréis vuestro fruto para mi puebloH5375
+- Eze_36:15ni más llevarás denuestos de pueblosH5375
+- Eze_37:1y me llevó en el Espíritu de Jehová, yH3318
+- Eze_39:23de Israel fue llevada cautiva por suH1540
+- Eze_39:28cuando después de haberlos llevado alH1540
+- Eze_40:1sobre mí la mano de Jehová, y me llevóH935
+- Eze_40:2en visiones de Dios me llevó a...IsraelH935
+- Eze_40:3me llevó allí, y he aquí un varón, cuyoH935
+- Eze_40:17me llevó luego al atrio exterior, y heH935
+- Eze_40:24llevó después hacia el sur, y he aquíH1980
+- Eze_40:28me llevó después en el atrio de adentroH935
+- Eze_40:32y me llevó al atrio interior hacia elH935
+- Eze_40:35me llevó luego a la puerta del norteH935
+- Eze_40:48llevó al pórtico del templo, y midióH935
+- Eze_42:1me llevó a la cámara que estaba delanteH935
+- Eze_43:1me llevó...a la puerta que mira hacia elH1980
+- Eze_43:5me alzó el...y me llevó al atrio interiorH935
+- Eze_44:4y me llevó hacia la puerta del norte porH935
+- Eze_44:10los levitas que...llevarán su iniquidadH5375
+- Eze_44:12dice...que ellos llevarán su iniquidadH5375
+- Eze_44:13sino que llevarán su vergüenza y lasH5375
+- Eze_44:17no llevarán sobre ellos cosa de lanaH5927
+- Eze_46:21llevó por los cuatro rincones del atrioH5674
+- Eze_47:3salió el...llevando un cordel en su mano
+- Eze_47:6me llevó, y me hizo volver por la riberaH1980
+- Dan_1:16se llevaba la porción de la comida deH5375
+- Dan_2:13los sabios fueran llevados a la muerte
+- Dan_2:24llévame a la presencia del rey, y yo leH5924
+- Dan_2:25Arioc llevó...a Daniel ante el rey, y leH5954
+- Dan_2:35se los llevó el viento sin que de ellosH5376
+- Dan_5:7y un collar de oro llevará en su cuello
+- Dan_5:16un collar de oro llevarás en tu cuello
+- Dan_9:7el día de hoy lleva todo hombre de Judá
+- Dan_11:8a los dioses de ellos...llevará cautivosH935
+- Dan_11:10llevará la guerra hasta su fortaleza
+- Dan_11:12al llevarse él la multitud, se elevaráH5375
+- Ose_2:14y la llevaré al desierto, y hablaré aH1980
+- Ose_10:6será él llevado a Asiria como presenteH2986
+- Ose_10:11haré llevar yugo a Efraín; arará Judá
+- Ose_12:1pacto con...y el aceite se lleva a EgiptoH2986
+- Ose_14:2llevad con vosotros palabras de súplicaH3947
+- Joe_2:22porque los árboles llevarán su frutoH5375
+- Joe_3:5habéis llevado mi plata y mi oro, y misH935
+- Amó_1:6porque llevó cautivo a todo un puebloH1540
+- Amó_4:2días en que os llevarán con ganchos, yH5375
+- Amó_5:5porque Gilgal será llevada en cautiverioH1540
+- Amó_5:26bien, llevabais el tabernáculo de...MolocH5375
+- Amó_7:11e Israel será llevado de su tierra enH1540
+- Amó_7:17e Israel será llevado cautivo lejos deH1540
+- Amó_9:13el pisador de las uvas al que lleve laH4900
+- Abd_1:11el día que...llevaban extraños cautivoH7617
+- Miq_6:16llevaréis, por tanto, el oprobio de miH5375
+- Nah_2:7sus criadas la llevarán gimiendo comoH5090
+- Nah_3:10sin embargo...fue llevada en cautiverioH1473
+- Hag_2:12si alguno llevare carne santificadaH5375
+- Zac_5:10dije al ángel...¿A dónde llevan el efa?[[H3212]]
+- Zac_6:13llevará gloria, y se sentará y dominaráH5375
+- Zac_11:16ni llevará la cansada a cuestas, sinoH3557
+- Mat_3:11cuyo calzado yo no soy digno de llevarG941
+- Mat_4:1fue llevado por el Espíritu al desiertoG321
+- Mat_4:5el diablo le llevó a la santa ciudad, yG3880
+- Mat_4:8le llevó el diablo a un monte muy altoG3880
+- Mat_5:41te obligue a llevar carga por una millaG29
+- Mat_7:13y espacioso el camino que lleva a laG520
+- Mat_7:14angosto el camino que lleva a la vidaG520
+- Mat_8:17él mismo...y llevó nuestras dolenciasG941
+- Mat_10:18ante...reyes seréis llevados por causaG71
+- Mat_11:8los que llevan vestiduras delicadas, enG5409
+- Mat_11:29llevad mi yugo sobre...y aprended de míG142
+- Mat_17:1tomó...los llevó aparte a un monte altoG3880
+- Mat_23:4cargas pesadas y difíciles de llevar, yG1419
+- Mat_24:39vino el diluvio y se los llevó a todosG142
+- Mat_26:57le llevaron al sumo sacerdote CaifásG520
+- Mat_27:2y le llevaron atado, y le entregaron aG520
+- Mat_27:27soldados...llevaron a Jesús al pretorioG3880
+- Mat_27:31manto...y le llevaron para crucificarleG520
+- Mat_27:32a éste obligaron a que llevase la cruzG142
+- Mar_4:28porque de suyo lleva fruto la tierraG2592
+- Mar_6:8mandó...no llevasen nada para el caminoG142
+- Mar_9:2los llevó aparte solos a un monte altoG399
+- Mar_11:16nadie atravesase...llevando utensilioG1308
+- Mar_13:9delante...de reyes os llevarán por causaG2476
+- Mar_14:13un hombre que lleva un cántaro de aguaG941
+- Mar_14:44prendedle, y llevadle con seguridadG520
+- Mar_15:1llevaron a Jesús atado, y le entregaronG667
+- Mar_15:16le llevaron dentro del atrio, esto esG520
+- Mar_15:21obligaron a...a que le llevase la cruzG142
+- Mar_15:22le llevaron a un lugar llamado GólgotaG5342
+- Mar_15:24suertes...ver qué se llevaría cada unoG142
+- Luc_4:1Jesús...fue llevado por el Espíritu alG71
+- Luc_4:5y le llevó el diablo a un alto monte, yG321
+- Luc_4:9y le llevó a Jerusalén, y le puso sobreG71
+- Luc_4:29le llevaron hasta la cumbre del monteG71
+- Luc_5:18llevarle adentro y ponerle delante deG1533
+- Luc_7:12llevaban a enterrar a un difunto, hijoG1580
+- Luc_7:14tocó...los que lo llevaban se detuvieronG941
+- Luc_8:8y nació y llevó fruto a ciento por unoG4160
+- Luc_8:14son ahogados por los...y no llevan frutoG2592
+- Luc_9:3ni pan, ni dinero; ni llevéis dos túnicasG2192
+- Luc_10:4no llevéis bolsa, ni alforja, ni calzadoG941
+- Luc_10:34vendó sus heridas...y lo llevó al mesónG71
+- Luc_11:46con cargas que no pueden llevar, peroG1419
+- Luc_13:15¿no desata...su buey...lo lleva a beber?[[G520]]
+- Luc_14:27no lleva su cruz y viene en pos de míG941
+- Luc_16:22y fue llevado por los ángeles al senoG667
+- Luc_21:12y seréis llevados ante reyes y anteG71
+- Luc_21:24y serán llevados cautivos a todas lasG163
+- Luc_22:10un hombre que lleva un cántaro de aguaG941
+- Luc_22:54le llevaron, y le condujeron a casa delG4815
+- Luc_23:1levantándose...llevaron a Jesús a PilatoG71
+- Luc_23:26llevándole, tomaron a cierto Simón deG520
+- Luc_23:26la cruz para que la llevase tras JesúsG5342
+- Luc_23:32llevaban también con él a otros dosG71
+- Luc_24:51separó de ellos, y fue llevado arribaG399
+- Jua_2:8sacad...y llevadlo al...Y se lo llevaronG5342
+- Jua_5:6y supo que llevaba ya mucho tiempo asíG2192
+- Jua_5:10día de...no te es lícito llevar tu lechoG142
+- Jua_9:13llevaron ante los fariseos al que...ciegoG71
+- Jua_12:24el grano...si muere, lleva mucho frutoG5342
+- Jua_15:2todo pámpano que en mí no lleva frutoG5342
+- Jua_15:2todo aquel que lleva fruto, lo limpiaráG5342
+- Jua_15:2lo limpiará, para que lleve más frutoG5342
+- Jua_15:4como el pámpano no puede llevar frutoG5342
+- Jua_15:5que permanece...éste lleva mucho frutoG5342
+- Jua_15:8glorificado...en que llevéis mucho frutoG5342
+- Jua_15:16que vayáis y llevéis fruto, y vuestroG5342
+- Jua_18:13llevaron primeramente a Anás; porqueG520
+- Jua_18:28llevaron a Jesús de casa de Caifás alG71
+- Jua_19:5y salió...llevando la corona de espinasG5409
+- Jua_19:13llevó fuera a Jesús, y se sentó en elG71
+- Jua_19:16tomaron, pues, a Jesús, y le llevaronG520
+- Jua_19:38permitiese llevarse el cuerpo de JesúsG142
+- Jua_19:38vino, y se llevó el cuerpo de JesúsG142
+- Jua_20:2se han llevado del sepulcro al Señor, yG142
+- Jua_20:13han llevado a mi Señor, y no sé dóndeG142
+- Jua_20:15si tú lo has llevado, dime dónde lo hasG941
+- Jua_20:15dónde lo has puesto, y yo lo llevaréG142
+- Jua_21:18te ceñirá otro, y te llevará a dondeG5342
+- Hec_5:37y llevó en pos de sí a mucho puebloG868
+- Hec_7:43antes bien llevasteis el tabernáculo de MolocG353
+- Hec_8:2hombres piadosos llevaron a enterrar aG4792
+- Hec_8:32como oveja a la muerte fue llevado, yG71
+- Hec_9:8llevándole por la mano, le metieron enG5496
+- Hec_9:15para llevar mi nombre en presencia deG941
+- Hec_9:21a eso vino acá, para llevarlos presosG71
+- Hec_9:30hermanos, le llevaron hasta Cesarea, yG2609
+- Hec_9:39le llevaron a la sala, donde le rodearonG321
+- Hec_11:10y volvió todo a ser llevado arriba alG385
+- Hec_12:19Herodes...ordenó llevarlos a la muerteG520
+- Hec_12:25llevando también consigo a Juan, el queG4838
+- Hec_14:12Mercurio, porque...llevaba la palabra
+- Hec_15:10que...ni nosotros hemos podido llevar?[[G941]]
+- Hec_15:37quería que llevasen consigo a Juan, elG4838
+- Hec_15:38Pablo no le parecía bien llevar consigoG4838
+- Hec_16:34llevándolos a su casa, les puso la mesaG321
+- Hec_17:15conducir a Pablo le llevaron a AtenasG71
+- Hec_18:12levantaron...y le llevaron al tribunalG71
+- Hec_19:12se llevaban a los enfermos los paños oG2018
+- Hec_20:12y llevaron al joven vivo, y...consoladosG71
+- Hec_21:34nada de...le mandó llevar a la fortalezaG71
+- Hec_21:35aconteció que era llevado en peso porG941
+- Hec_22:11llevado de la mano...llegué a DamascoG5496
+- Hec_23:10bajasen...y le llevasen a la fortalezaG71
+- Hec_23:17lleva a este joven ante el tribunoG520
+- Hec_23:18le llevó al tribuno, y dijo: El presoG71
+- Hec_23:20en rogarte que mañana lleves a PabloG2609
+- Hec_23:24a Pablo, le llevasen en salvo a FélixG1295
+- Hec_23:28saber la causa...le llevé al concilioG2609
+- Hec_23:31a Pablo...llevaron de noche a AntípatrisG71
+- Hec_27:15nos abandonamos...y nos dejamos llevarG1929
+- Hec_27:27llevados a través del mar AdriáticoG1308
+- Rom_7:4a fin de que llevemos fruto para DiosG2592
+- Rom_7:5obraban en...llevando fruto para muerteG2592
+- Rom_7:23que me lleva cautivo a la ley del pecadoG163
+- Rom_13:4porque no en vano lleva la espada, puesG5409
+- 1Co_9:24pero uno solo se lleva el premio?[[G2983]]
+- 1Co_12:2llevándoos, como se os llevaba, a losG520
+- 1Co_16:3que lleven vuestro donativo a JerusalénG667
+- 2Co_2:14a Dios gracias, el cual nos llevaG2358
+- 2Co_4:10llevando...siempre...la muerte de JesúsG4064
+- 2Co_8:11llevad también a cabo el hacerlo, paraG2005
+- 2Co_8:19fue designado...para llevar este donativoG4862
+- 2Co_10:5llevando cautivo todo pensamiento a laG163
+- Gál_2:1subí...llevando también conmigo a TitoG4838
+- Gál_3:24nuestro ayo, para llevarnos a Cristo
+- Gál_5:10el que os perturba llevará la sentenciaG941
+- Gál_6:5porque cada uno llevará su propia cargaG941
+- Efe_4:8llevó cautiva la cautividad, y dioG162
+- Efe_4:14llevados por doquiera de todo viento deG4064
+- Col_1:6y lleva fruto y crece...en vosotrosG2592
+- Col_1:10llevando fruto en toda buena obra, yG2592
+- 2Ti_3:6y llevan cautivas a las mujercillasG162
+- Heb_2:10habiendo de llevar muchos hijos a laG71
+- Heb_9:28una sola vez para llevar los pecados deG399
+- Heb_13:9no os dejéis llevar de doctrinas diversasG4064
+- Heb_13:13salgamos, pues...llevando su vituperioG5342
+- Stg_3:4naves...llevadas de impetuosos vientosG1643
+- 1Pe_2:24llevó él mismo nuestros pecados enG399
+- 1Pe_3:18Cristo padeció...para llevarnos a DiosG4317
+- 1Jn_4:18porque el temor lleva en sí castigoG2192
+- Jud_1:12nubes...llevadas de acá para allá por losG4064
+- Rev_13:10si alguno lleva en cautividad, va enG4863
+- Rev_17:3me llevó en el Espíritu al desierto; yG667
+- Rev_21:10y me llevó en el Espíritu a un monteG667
+- Rev_21:26llevarán la gloria...de las naciones aG5342

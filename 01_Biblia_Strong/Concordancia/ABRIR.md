@@ -1,0 +1,255 @@
+---
+tipo: concordancia
+palabra: ABRIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ABRIR
+
+- Véase también Abierto
+- Gén_3:5serán abiertos vuestros ojos, y seréisH6491
+- Gén_3:7fueron abiertos los ojos de ambos, yH6491
+- Gén_4:11tierra, que abrió su boca para recibirH6475
+- Gén_7:11y las cataratas de los cielos...abiertasH6605
+- Gén_8:6abrió Noé la ventana del arca que habíaH6605
+- Gén_21:19abrió Dios los ojos, y vio una fuenteH6491
+- Gén_26:15pozos que habían abierto los criadosH2658
+- Gén_26:18volvió a abrir Isaac los pozos de aguaH2658
+- Gén_26:18pozos...que habían abierto en los díasH2658
+- Gén_26:21abrieron otro pozo, y también riñeronH2658
+- Gén_26:22se apartó de allí, y abrió otro pozoH2658
+- Gén_26:25abrieron allí los...de Isaac un pozoH3738
+- Gén_26:32acerca del pozo que habían abiertoH2658
+- Gén_38:29ella dijo: ¡Qué brecha te has abierto![[H6555]]
+- Gén_41:56abrió José todo granero donde había, yH6605
+- Gén_42:27abriendo uno de ellos su saco para darH6605
+- Gén_43:21abrimos nuestros costales...el dinero deH6605
+- Gén_44:11ellos...abrid cada cual el costal suyoH6605
+- Éxo_2:6cuando la abrió, vio al niño; y...llorabaH6605
+- Éxo_13:2cualquiera que abre matriz entre losH6363
+- Éxo_13:12dedicarás a Jehová...que abriere matrizH6363
+- Éxo_21:33si...abriere un pozo, o cavare cisternaH6605
+- Núm_16:30tierra abriere su boca y los tragareH6475
+- Núm_16:31se abrió la tierra que estaba debajo deH1234
+- Núm_16:32abrió la tierra su boca, y los tragó aH6605
+- Núm_18:15todo lo que abre matriz, de toda carneH6363
+- Núm_22:28Jehová abrió la boca al asna, la cualH6605
+- Núm_22:31Jehová abrió los ojos de Balaam, y vioH1540
+- Núm_26:10la tierra abrió su boca y los tragó aH6605
+- Deu_11:6abrió su boca la tierra, y los tragóH6475
+- Deu_15:8sino abrirás a él tu mano liberalmenteH6605
+- Deu_15:11te mando...Abrirás tu mano a tu hermanoH6605
+- Deu_20:11si respondiere: Paz, y te abriere, todoH6605
+- Deu_28:12abrirá Jehová su buen tesoro, el cieloH6605
+- Jos_10:22dijo...Abrid la entrada de la cuevaH6605
+- Jue_3:25él no abría las puertas...y abrieronH6605
+- Jue_4:19ella abrió un odre de leche y le dioH6605
+- Jue_15:19abrió Dios la cuenca que hay en LehiH1234
+- Jue_19:27abrió las puertas de la casa, y salióH6605
+- Jue_21:15Jehová había abierto una brecha entreH6213
+- 1Sa_3:15abrió las puertas de la casa de JehováH6605
+- 2Re_4:35el niño estornudó...y abrió sus ojosH6491
+- 2Re_6:17ruego...que abras sus ojos para que veaH6491
+- 2Re_6:17Jehová abrió los ojos del criado, y miróH6491
+- 2Re_6:20abre los ojos de éstos...Y Jehová abrióH6491
+- 2Re_8:12abrirás el vientre a sus mujeres queH1234
+- 2Re_9:3y abriendo la puerta, echa a huir, y noH6605
+- 2Re_9:10seguida abrió la puerta, y echó a huirH6605
+- 2Re_11:16le abrieron, pues, paso; y en el caminoH7760
+- 2Re_13:17dijo: Abre la ventana que da al orienteH6605
+- 2Re_13:17cuando él la abrió, dijo Eliseo: TiraH6605
+- 2Re_15:16porque no le habían abierto...puertasH6605
+- 2Re_15:16abrió el vientre a todas sus mujeresH1234
+- 2Re_19:16oye; abre, oh Jehová, tus ojos, y miraH6491
+- 2Re_25:4abierta ya...la ciudad, huyeron de nocheH1234
+- 1Cr_9:27cargo...de abrirla todas las mañanasH4668
+- 2Cr_26:10abrió muchas cisternas; porque tuvoH2672
+- 2Cr_29:3abrió las puertas de la casa de JehováH6605
+- Neh_7:3no se abran las puertas de JerusalénH6605
+- Neh_8:5abrió, pues, Esdras el libro a ojos deH6605
+- Neh_8:5cuando lo abrió, todo el pueblo estuvoH6605
+- Neh_13:19que no las abriesen hasta después delH6605
+- Job_3:1abrió Job su boca, y maldijo su díaH6605
+- Job_11:5que Dios...abriera sus labios contigoH6605
+- Job_12:14encerrará...y no habrá quien le abraH6605
+- Job_14:3¿sobre éste abres tus ojos, y me traesH6491
+- Job_16:10abrieron contra mí su boca; hirieronH6473
+- Job_27:19pero...abrirá sus ojos, y nada tendráH6491
+- Job_28:4abren minas lejos de lo habitado, enH6555
+- Job_29:23abrían su boca como a la lluvia tardíaH6473
+- Job_31:32noche; mis puertas abría al caminanteH6605
+- Job_32:20pues...abriré mis labios, y responderéH6605
+- Job_33:2yo abriré ahora mi boca, y mi lenguaH6605
+- Job_35:16por eso Job abre su boca vanamente, yH6475
+- Job_41:14¿quién abrirá las puertas de su rostro?[[H6605]]
+- Sal_22:13abrieron sobre mí su boca como leónH6475
+- Sal_38:13y soy como mudo que no abre la bocaH6605
+- Sal_39:9no abrí mi boca, porque tú lo hicisteH6605
+- Sal_40:6has abierto mis oídos; holocausto yH3738
+- Sal_51:15Señor, abre mis labios, y publicaráH6605
+- Sal_74:15abriste la fuente y el río; secasteH1234
+- Sal_78:2abriré mi boca en proverbios; hablaréH6605
+- Sal_78:23y abrió las puertas de los cielosH6605
+- Sal_81:10yo soy...abre tu boca, y yo la llenaré
+- Sal_104:28das...abres tu mano, se sacian de bienH6605
+- Sal_105:41abrió la peña, y fluyeron aguas...ríoH6605
+- Sal_106:17se abrió la tierra y tragó a DatánH6605
+- Sal_109:2boca de impío...se han abierto contraH6605
+- Sal_118:19abridme las puertas de la justiciaH6605
+- Sal_119:18abre mis ojos, y miraré las...de tu leyH1540
+- Sal_119:131boca abrí y suspiré, porque deseabaH6473
+- Sal_145:16abres tu mano, y colmas de bendiciónH6605
+- Sal_146:8Jehová abre los ojos a los ciegosH6491
+- Pro_8:6y abriré mis labios para cosas rectasH4669
+- Pro_13:3el que mucho abre sus labios tendráH6589
+- Pro_17:19el que abre demasiado la puerta buscaH1361
+- Pro_20:13abre tus ojos, y te saciarás de panH6491
+- Pro_24:7el insensato...en la puerta no abriráH6605
+- Pro_31:8abre tu boca por el mudo en el juicioH6605
+- Pro_31:9abre tu boca, juzga con justicia, yH6605
+- Pro_31:26abre su boca con sabiduría, y la leyH6605
+- Cnt_5:2ábreme, hermana mía, amiga mía, palomaH6605
+- Cnt_5:5yo me levanté para abrir a mi amado, yH6605
+- Cnt_5:6abrí yo a mi amado; pero mi amado seH6605
+- Isa_10:14no hubo...ni abriese boca y graznaseH6475
+- Isa_14:17a sus presos nunca abrió la cárcel?[[H6605]]
+- Isa_22:22abrirá, y nadie cerrará...y nadie aH6605
+- Isa_24:18porque de lo alto se abrirán ventanasH6605
+- Isa_26:2abrid las puertas, y entrará la genteH6605
+- Isa_35:5los ojos...serán abiertos...oídos...abriránH6491
+- Isa_37:17abre, oh Jehová, tus ojos, y miraH6491
+- Isa_41:18en las alturas abriré ríos, y fuentesH6605
+- Isa_41:18abriré en el desierto estanques deH7760
+- Isa_42:7para que abras los ojos de los ciegosH6491
+- Isa_42:20advierte, que abre los oídos y no oye?[[H6491]]
+- Isa_43:16así dice Jehová, el que abre camino enH5414
+- Isa_43:19otra vez abriré camino en el desiertoH7760
+- Isa_45:1para abrir delante de él puertas, y lasH6605
+- Isa_45:8rociad...ábrase la tierra, y prodúzcanseH6605
+- Isa_48:8ciertamente no se abrió antes tu oídoH6605
+- Isa_48:21abrió la peña, y corrieron las aguasH1234
+- Isa_50:5me abrió el oído, y yo no fui rebeldeH6605
+- Isa_53:7llevado...enmudeció, y no abrió su bocaH6605
+- Jer_13:19ciudades...no hubo quien las abrieseH6605
+- Jer_22:14le abre ventanas, y la cubre de cedroH7167
+- Jer_39:2nueve días del mes se abrió brecha enH1234
+- Jer_50:25abrió Jehová su tesoro, y sacó...furorH6605
+- Jer_50:26abrid sus almacenes, convertidla enH6605
+- Jer_52:7y fue abierta una brecha en el muro deH1234
+- Lam_2:16tus enemigos abrieron contra ti su bocaH6475
+- Lam_3:46todos nuestros enemigos abrieron...bocaH6475
+- Eze_1:1los cielos se abrieron, y vi visionesH6605
+- Eze_2:8mas tu...abre tu boca y come lo que te doyH6475
+- Eze_3:2abrí mi boca, y me hizo comer aquel rolloH6605
+- Eze_3:27yo te hubiera hablado, abriré tu bocaH6605
+- Eze_12:5te abrirás paso por entre la pared, yH2864
+- Eze_12:7a la tarde me abrí paso por entre laH2864
+- Eze_12:12por la pared abrirán paso para sacarloH2864
+- Eze_16:63y nunca más abras la boca, a causa deH6610
+- Eze_24:27se abrirá tu boca para hablar con elH6605
+- Eze_25:9he aquí yo abro el lado de Moab desdeH6605
+- Eze_29:21y abriré tu boca en medio de ellos, yH6610
+- Eze_33:22había abierto mi boca...abrió mi bocaH6605
+- Eze_37:12yo abro vuestros sepulcros, pueblo míoH6605
+- Eze_37:13sabréis que yo soy Jehová, cuando abraH6605
+- Eze_44:2puerta...no se abrirá, ni entrará por ellaH6605
+- Eze_46:1el día de reposo se abrirá; se a tambiénH6605
+- Eze_46:12abrirán la puerta que mira al orienteH6605
+- Dan_7:10se sentó y los libros fueron abiertosH6606
+- Dan_9:18abre tus ojos, y mira...desolaciones, yH6491
+- Dan_10:16entonces abrí mi boca y hablé, y dijeH6605
+- Ose_13:16sus mujeres encintas serán abiertasH1234
+- Amó_1:13abrieron a las mujeres de Galaad queH1234
+- Amó_8:5semana, y abriremos los graneros del panH6605
+- Miq_2:13subirá; el que abre caminos delante deH6555
+- Miq_2:13abrirán camino y pasarán la puerta, yH6555
+- Miq_7:5la que duerme...cuídate, no abras tu bocaH8104
+- Nah_2:6las puertas de los ríos se abriránH6605
+- Nah_3:13las puertas de tu tierra se abrirán deH6605
+- Zac_11:1Líbano, abre tus puertas, y consumaH6605
+- Zac_12:4sobre la casa de Judá abriré mis ojosH6491
+- Zac_13:1un manantial abierto para la casa deH6605
+- Mal_3:10os abriré las ventanas de los cielosH6605
+- Mat_2:11abriendo sus tesoros, le ofrecieronG455
+- Mat_3:16los cielos le fueron abiertos, y vio alG455
+- Mat_5:2abriendo su boca les enseñaba, diciendoG455
+- Mat_7:7buscad, y hallaréis; llamad...os abriráG455
+- Mat_7:8que busca...y al que llama, se le abriráG455
+- Mat_9:30y los ojos de ellos fueron abiertosG455
+- Mat_13:35profeta...Abriré en parábolas mi bocaG455
+- Mat_17:27tómalos, y al abrirle la boca, hallarásG455
+- Mat_20:33Señor, que sean abiertos nuestros ojosG455
+- Mat_25:11diciendo: ¡Señor, señor, ábrenos![[G455]]
+- Mat_27:52y se abrieron los sepulcros, y muchosG455
+- Mar_1:10subía del agua, vio abrirse los cielosG4977
+- Mar_7:34y le dijo: Efata, es decir: Sé abiertoG1272
+- Mar_7:35fueron abiertos sus oídos, y se desatóG1272
+- Luc_1:64fue abierta su boca y suelta su lenguaG455
+- Luc_2:23todo varón que abriere la matriz seráG1272
+- Luc_3:21bautizado; y orando, el cielo se abrióG455
+- Luc_4:17y habiendo abierto el libro, halló elG380
+- Luc_11:9buscad, y hallaréis; llamad...os abriráG455
+- Luc_11:10halla; y al que llama, se le abriráG455
+- Luc_12:36que cuando...llame, le abran en seguidaG455
+- Luc_13:25Señor, Señor, ábrenos...os dirá: No séG455
+- Luc_23:53lo puso en un sepulcro abierto en unaG2991
+- Luc_24:31entonces les fueron abiertos los ojosG1272
+- Luc_24:32y cuando nos abría las Escrituras?[[G1272]]
+- Luc_24:45les abrió el entendimiento, para queG1272
+- Jua_9:10¿cómo te fueron abiertos los ojos?[[G455]]
+- Jua_9:14el lodo, y le había abierto los ojosG455
+- Jua_9:17¿quién dices tú del que te abrió...ojos?[[G455]]
+- Jua_9:21no lo sabemos; o quien le haya abiertoG455
+- Jua_9:26¿qué te hizo? ¿Cómo te abrió los ojos?[[G455]]
+- Jua_9:30que no sepáis...y a mí me abrió los ojosG455
+- Jua_9:32que alguno abriese los ojos a uno queG455
+- Jua_10:3a éste abre el portero, y las ovejasG455
+- Jua_10:21demonio abrir los ojos de los ciegos?[[G455]]
+- Jua_11:37podía éste, que abrió los ojos al ciegoG455
+- Jua_19:34le abrió el costado con una lanza, yG3572
+- Hec_5:19abriendo de noche las puertas de laG455
+- Hec_5:23cuando abrimos, a nadie hallamos dentroG455
+- Hec_8:32como oveja a la...así no abrió su bocaG455
+- Hec_8:35Felipe, abriendo su boca...le anunció elG455
+- Hec_9:8Saulo se levantó...y abriendo los ojosG455
+- Hec_9:40ella abrió los ojos, y al ver a PedroG455
+- Hec_10:34entonces Pedro, abriendo la boca, dijoG455
+- Hec_12:10se les abrió por sí misma; y salidosG455
+- Hec_12:14de gozo no abrió la puerta, sino queG455
+- Hec_12:16Pedro...cuando abrieron y le vieron, seG455
+- Hec_14:27cómo había abierto la puerta de la feG455
+- Hec_16:14y el Señor abrió el corazón de ellaG1272
+- Hec_16:26se abrieron todas las puertas, y lasG455
+- Hec_16:27y viendo abiertas las puertas de laG455
+- Hec_26:18para que abras sus ojos, para que seG455
+- Hec_27:41la popa se abría con la violencia delG3089
+- 1Co_15:52en un abrir y cerrar de ojos, a laG4493
+- 1Co_16:9se me ha abierto puerta grande y eficazG455
+- 2Co_2:12aunque se me abrió puerta en el SeñorG455
+- 2Co_6:11nuestra boca se ha abierto a vosotrosG455
+- Efe_6:19al abrir mi boca me sea dada palabraG457
+- Col_4:3Señor nos abra puerta para la palabraG455
+- Heb_10:20camino nuevo y vivo que él nos abrióG1457
+- Rev_3:7abre y ninguno cierra...y ninguno aG455
+- Rev_3:20oye mi voz y abre la puerta, entraré aG455
+- Rev_5:2voz: ¿Quién es digno de abrir el libro yG455
+- Rev_5:3ninguno...podía abrir el libro, ni aunG455
+- Rev_5:4a ninguno digno de abrir el libro, ni deG455
+- Rev_5:5ha vencido para abrir el libro y desatarG455
+- Rev_5:9digno eres...de abrir sus sellos; porqueG455
+- Rev_6:1vi cuando el Cordero abrió uno de losG455
+- Rev_6:3abrió el segundo sello, oí al segundo serG455
+- Rev_6:5abrió el tercer sello, oí al tercer serG455
+- Rev_6:7cuando abrió el cuarto sello, oí la vozG455
+- Rev_6:9abrió el quinto sello, vi bajo el altarG455
+- Rev_6:12miré cuando abrió el sexto sello, y heG455
+- Rev_8:1cuando abrió el séptimo sello, se hizoG455
+- Rev_9:2abrió el pozo del abismo, y subió humoG455
+- Rev_10:8toma el librito que está abierto en laG455
+- Rev_11:19el templo de Dios fue abierto en elG455
+- Rev_12:16la tierra abrió su boca y tragó el ríoG455
+- Rev_13:6abrió su boca en blasfemias contra DiosG455
+- Rev_15:5fue abierto en el cielo el templo delG455
+- Rev_20:12y los libros fueron abiertos, y otroG455
+- Rev_20:12otro libro fue abierto, el cual es elG455

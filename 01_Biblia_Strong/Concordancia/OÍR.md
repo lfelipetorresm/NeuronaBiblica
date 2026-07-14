@@ -1,0 +1,1348 @@
+---
+tipo: concordancia
+palabra: OÍR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# OÍR
+
+- Gén_3:8y oyeron la voz de Jehová Dios que seH8085
+- Gén_3:10y él respondió: Oí tu voz en el huertoH8085
+- Gén_4:23y dijo Lamec a...Ada y Zila, oíd mi vozH8085
+- Gén_14:14oyó Abram que su pariente estaba prisioneroH8085
+- Gén_16:11he aquí que...Jehová ha oído tu aflicciónH8085
+- Gén_17:20en cuanto a Ismael, también te he oídoH8085
+- Gén_21:6y cualquiera que lo oyere, se reiráH8085
+- Gén_21:12oye su voz, porque en Isaac te seráH8085
+- Gén_21:17y oyó Dios la voz del muchacho; y elH8085
+- Gén_21:17Dios ha oído la voz del muchacho enH8085
+- Gén_21:26me lo hiciste saber, ni yo lo he oídoH8085
+- Gén_23:6óyenos, señor nuestro; eres un príncipeH8085
+- Gén_23:8oídme, e interceded por mí con EfrónH8085
+- Gén_23:11no, señor mío, óyeme: te doy la heredadH8085
+- Gén_23:13si te place, te ruego que me oigas...YoH8085
+- Gén_24:52el criado de Abraham oyó sus palabrasH8085
+- Gén_26:5por cuanto oyó Abraham mi voz, y guardó
+- Gén_27:5y Rebeca estaba oyendo, cuando hablabaH8085
+- Gén_27:6yo he oído a tu padre que hablaba conH8085
+- Gén_27:34Esaú oyó las palabras de...padre, clamóH8085
+- Gén_29:13así que oyó Labán las nuevas de JacobH8085
+- Gén_29:33y dijo: Por cuanto oyó Jehová que yoH8085
+- Gén_30:6y también oyó mi voz, y me dio un hijoH8085
+- Gén_30:17y oyó Dios a Lea; y concibió, y dio aH8085
+- Gén_30:22y la oyó Dios, y le concedió hijosH8085
+- Gén_31:1oía Jacob las palabras de los hijos deH8085
+- Gén_34:5oyó Jacob que Siquem había amancilladoH8085
+- Gén_37:6les dijo: Oíd ahora este sueño que heH8085
+- Gén_37:17se han ido de aquí; y yo les oí decirH8085
+- Gén_37:21Rubén oyó esto, lo libró de sus manosH8085
+- Gén_39:19oyó el amo de José las palabras que suH8085
+- Gén_41:15he oído decir de ti, que oyes sueñosH8085
+- Gén_42:2yo he oído que hay víveres en EgiptoH8085
+- Gén_43:25habían oído que allí habrían de comerH8085
+- Gén_45:2y oyeron los egipcios, y oyó...de FaraónH8085
+- Gén_45:16se oyó la noticia en la casa de FaraónH8085
+- Gén_49:2y oíd, hijos de Jacob, y escuchad aH8085
+- Éxo_2:15oyendo Faraón...procuró matar a MoisésH8085
+- Éxo_2:24oyó Dios el gemido de ellos, y se acordóH8085
+- Éxo_3:7oído su clamor a causa de sus exactoresH8085
+- Éxo_3:18oirán tu voz; e irás...al rey de EgiptoH8085
+- Éxo_4:1que ellos no me creerán, ni oirán mi vozH8085
+- Éxo_4:9y si aún no creyeren...ni oyeren tu vozH8085
+- Éxo_4:31oyendo que Jehová había visitado a losH8085
+- Éxo_5:2¿quién es Jehová...que yo oiga su voz?
+- Éxo_6:5he oído el gemido de los hijos de IsraelH8085
+- Éxo_6:30Yo soy torpe...¿cómo, pues, me ha de oirH8085
+- Éxo_7:4Faraón no os oirá; mas yo pondré mi manoH8085
+- Éxo_7:16aquí que hasta ahora no has querido oirH8085
+- Éxo_9:12endureció el corazón de...y no los oyóH8085
+- Éxo_11:9dijo a Moisés: Faraón no os oirá, paraH8085
+- Éxo_15:14lo oirán los pueblos, y temblarán; seH8085
+- Éxo_15:26si oyeres atentamente la voz de JehováH8085
+- Éxo_16:7-8, Éxo_16:9él ha oído vuestras murmuracionesH8085
+- Éxo_16:12he oído las murmuraciones de los hijosH8085
+- Éxo_18:1oyó Jetro sacerdote de Madián, suegroH8085
+- Éxo_18:19oye ahora mi voz; yo te aconsejaré, yH8085
+- Éxo_18:24oyó Moisés la voz de su suegro, e hizoH8085
+- Éxo_19:9una nube espesa, para que el pueblo oigaH8085
+- Éxo_20:19dijeron...Habla tú...y nosotros oiremosH8085
+- Éxo_22:23ellos clamaren a mí...oiré yo su clamorH8085
+- Éxo_22:27yo le oiré, porque soy misericordiosoH8085
+- Éxo_23:13nombre de...ni se oirá de vuestra bocaH8085
+- Éxo_23:21guárdate delante de él, y oye su voz
+- Éxo_23:22si en verdad oyeres su voz e hicieres
+- Éxo_28:35se oirá su sonido cuando él entre en el santuarioH8085
+- Éxo_32:17cuando oyó Josué el clamor del puebloH8085
+- Éxo_32:18ni voz de alaridos...voz de cantar oigoH8085
+- Éxo_33:4y oyendo el pueblo esta mala noticiaH8085
+- Lev_10:20cuando Moisés oyó esto, se dio porH8085
+- Lev_24:14que le oyeron pongan sus manos sobreH8085
+- Lev_26:14si no me oyereis, ni hiciereis todosH8085
+- Lev_26:18si aun con estas cosas no me oyereisH8085
+- Lev_26:21no me quisiereis oír, yo añadiré sobreH8085
+- Lev_26:27si aun con esto no me oyereis, sino queH8085
+- Núm_7:89cuando entraba Moisés...oía la voz queH8085
+- Núm_9:8y oiré lo que ordena Jehová acerca deH8085
+- Núm_11:1quejó...y lo oyó Jehová, y ardió su iraH8085
+- Núm_11:10oyó Moisés al pueblo, que lloraba porH8085
+- Núm_12:2también por nosotros? Y lo oyó JehováH8085
+- Núm_12:6y él les dijo: Oíd ahora mis palabrasH8085
+- Núm_14:13lo oirán luego los egipcios, porque deH8085
+- Núm_14:14han oído que tú, oh Jehová, estabas enH8085
+- Núm_14:15las gentes que hubieren oído tu famaH8085
+- Núm_14:22me han tentado...y no han oído mi vozH8085
+- Núm_14:27¿hasta cuándo oiré esta...multitud queH8085
+- Núm_16:4cuando oyó esto Moisés, se postró sobreH8085
+- Núm_16:8dijo...Moisés...Oíd ahora, hijos de LevíH8085
+- Núm_20:10y les dijo: ¡Oíd ahora, rebeldes! ¿OsH8085
+- Núm_20:16clamamos a Jehová, el cual oyó nuestraH8085
+- Núm_21:1cuando el cananeo, el rey de Arad...oyóH8085
+- Núm_22:36oyendo Balac que Balaam venía, salió aH8085
+- Núm_23:18dijo: Balac, levántate y oye; escuchaH8085
+- Núm_24:4dijo el que oyó los dichos de Dios, elH8085
+- Núm_24:16dijo el que oyó los dichos de JehováH8085
+- Núm_30:4su padre oyere su voto, y la obligaciónH8085
+- Núm_30:5si su padre le vedare el día que oyereH8085
+- Núm_30:7marido lo oyere, y cuando lo o callareH8085
+- Núm_30:8pero si cuando su marido lo oyó, le vedóH8085
+- Núm_30:11si su marido oyó, y calló a ello, y noH8085
+- Núm_30:12su marido los anuló el día que los oyóH8085
+- Núm_30:14cuanto calló a ello el día que lo oyóH8085
+- Núm_30:15si los anulare después de haberlos oídoH8085
+- Núm_33:40el cananeo...oyó que habían venido losH8085
+- Deu_1:16oíd entre vuestros hermanos, y juzgadH8085
+- Deu_1:17así al pequeño como al grande oiréisH8085
+- Deu_1:17causa...la traeréis a mí, y yo la oiréH8085
+- Deu_1:34oyó Jehová la voz de vuestras palabrasH8085
+- Deu_2:25los cuales oirán tu fama, y temblaránH8085
+- Deu_4:1oh Israel, oye los estatutos y decretosH8085
+- Deu_4:6los cuales oirán todos estos estatutosH8085
+- Deu_4:10les haga oír mis palabras, las cualesH8085
+- Deu_4:12oísteis la voz...mas a excepción de oírH8085
+- Deu_4:28dioses...que no ven, ni oyen, ni comenH8085
+- Deu_4:30te volvieres a Jehová...y oyeres su voz
+- Deu_4:32pregunta...se haya oído otra como ellaH8085
+- Deu_4:33¿ha oído pueblo alguno la voz de DiosH8085
+- Deu_4:36desde los cielos te hizo oír su voz, paraH8085
+- Deu_4:36has oído sus palabras de en medio delH8085
+- Deu_5:1oye, Israel, los estatutos y decretos queH8085
+- Deu_5:23que cuando vosotros oísteis la voz deH8085
+- Deu_5:24hemos oído su voz de en medio del fuegoH8085
+- Deu_5:25si oyéremos otra vez la voz de JehováH8085
+- Deu_5:26que oiga la voz...como nosotros la oímosH8085
+- Deu_5:27oye todas las cosas que dijere JehováH8085
+- Deu_5:27nos dirás...nosotros oiremos y haremosH8085
+- Deu_5:28oyó Jehová la voz,...y me dijo...He oídoH8085
+- Deu_6:3oye...oh Israel, y cuida de ponerlos porH8085
+- Deu_6:4oye, Israel: Jehová nuestro Dios...uno esH8085
+- Deu_7:12haber oído estos decretos, y haberlosH8085
+- Deu_9:1oye, Israel...vas hoy a pasar el JordánH8085
+- Deu_9:2oído decir: ¿Quién se sostendrá delanteH8085
+- Deu_11:27bendición, si oyereis los mandamientos
+- Deu_11:28la maldición, si no oyereis...apartareis
+- Deu_13:11para que todo Israel oiga, y tema, y noH8085
+- Deu_13:12si oyeres que se dice de alguna de tusH8085
+- Deu_17:4que oyeres...la cosa pareciere de verdadH8085
+- Deu_17:13todo el pueblo oirá, y temerá, y no seH8085
+- Deu_18:14porque estas naciones...a adivinos oyenH8085
+- Deu_18:15profeta...levantará Jehová...a él oiréisH8085
+- Deu_18:16no vuelva yo a oír la voz de Jehová miH8085
+- Deu_18:19a cualquiera que no oyere mis palabrasH8085
+- Deu_19:20los que quedaren oirán y temerán, y noH8085
+- Deu_20:3oye, Israel, vosotros os juntáis hoy enH8085
+- Deu_21:21quitarás...y todo Israel oirá, y temeráH8085
+- Deu_23:5mas no quiso Jehová tu Dios oír a BalaamH8085
+- Deu_26:7Jehová oyó nuestra voz, y vio nuestraH8085
+- Deu_27:10oirás, pues, la voz de Jehová tu Dios
+- Deu_28:1que si oyeres...la voz de Jehová tu DiosH8085
+- Deu_28:2bendiciones...si oyeres la voz de JehováH8085
+- Deu_28:15si no oyeres la voz de Jehová tu DiosH8085
+- Deu_29:4Jehová no os ha dado...ni oídos para oírH8085
+- Deu_29:19al oír las palabras de esta maldiciónH8085
+- Deu_30:8y tú volverás, y oirás la voz de Jehová
+- Deu_30:12¿quién subirá...y nos lo hará oír paraH8085
+- Deu_30:13nos lo traiga y nos lo haga oír, a finH8085
+- Deu_30:17si...no oyeres, y te dejares extraviarH8085
+- Deu_31:12que oigan y aprendan, y teman a JehováH8085
+- Deu_31:13los hijos...oigan, y aprendan a temer aH8085
+- Deu_32:1y oiga la tierra los dichos de mi bocaH8085
+- Deu_33:7dijo as!: Oye, oh Jehová, la voz de JudáH8085
+- Jos_2:10hemos oído que Jehová hizo secar lasH8085
+- Jos_2:11oyendo esto, ha desmayado...corazón; niH8085
+- Jos_5:1oyeron cómo Jehová había secado las aguasH8085
+- Jos_6:5oigáis el sonido de la bocina, todo elH8085
+- Jos_6:10no gritaréis, ni se oirá vuestra voz, ni
+- Jos_6:20cuando el pueblo hubo oído el sonido deH8085
+- Jos_7:9los moradores...oirán, y nos rodearán, yH8085
+- Jos_9:1cuando oyeron estas cosas todos los reyesH8085
+- Jos_9:3cuando oyeron lo que Josué había hechoH8085
+- Jos_9:9hemos oído su fama, y todo lo que hizoH8085
+- Jos_9:16tres días...oyeron que eran sus vecinosH8085
+- Jos_10:1oyó que Josué había tomado a Hai, y queH8085
+- Jos_11:1cuando oyó esto Jabín...envió mensaje aH8085
+- Jos_14:12tú oíste...que los anaceos están allíH8085
+- Jos_22:11oyeron decir que los hijos de Rubén yH8085
+- Jos_22:12cuando oyeron esto los...de Israel, seH8085
+- Jos_22:30oyendo Finees...les pareció bien todoH8085
+- Jos_24:27esta piedra...oído todas las palabrasH8085
+- Jue_2:17tampoco oyeron a sus jueces, sino queH8085
+- Jue_5:3oíd, reyes; escuchad, oh príncipes; yoH8085
+- Jue_5:16para oír los balidos de los rebaños?[[H8085]]
+- Jue_7:11y oirás lo que hablan; y entonces tusH8085
+- Jue_7:15cuando Gedeón oyó el relato del sueñoH8085
+- Jue_9:7oídme, varones de...y así os oiga DiosH8085
+- Jue_9:30cuando Zebul...oyó las palabras de GaalH8085
+- Jue_9:46cuando oyeron esto...los que estaban enH8085
+- Jue_13:9Dios oyó la voz de Manoa; y el ángel deH8085
+- Jue_14:13ellos...Propón tu enigma, y lo oiremosH8085
+- Jue_19:25aquellos hombres no le quisieron oírH8085
+- Jue_20:3oyeron que...de Israel habían subido aH8085
+- Jue_20:13de Benjamín no quisieron oír la voz deH8085
+- Rut_1:6oyó...Jehová había visitado a su puebloH8085
+- Rut_2:8oye, hija mía, no vayas a espigar a otroH8085
+- 1Sa_1:13voz no se oía; y Elí la tuvo por ebriaH8085
+- 1Sa_2:22oía de todo lo que sus hijos hacían conH8085
+- 1Sa_2:23yo oigo de...vuestros malos procederesH8085
+- 1Sa_2:24hijos...no es buena fama la que yo oigoH8085
+- 1Sa_2:25pero ellos no oyeron la voz de su padreH8085
+- 1Sa_3:9-10habla, Jehová, porque tu siervo oyeH8085
+- 1Sa_3:11a quien la oyere, le retiñirán...oídosH8085
+- 1Sa_4:6filisteos oyeron la voz de júbilo, dijeronH8085
+- 1Sa_4:14Elí oyó el estruendo de la gritería, dijoH8085
+- 1Sa_4:19su nuera...oyendo el rumor que el arcaH8085
+- 1Sa_7:7oyeron los filisteos que los...de IsraelH8085
+- 1Sa_7:7oír esto los hijos de Israel, tuvieronH8085
+- 1Sa_7:9clamó Samuel a Jehová...y Jehová le oyóH8085
+- 1Sa_8:7y dijo Jehová...Oye la voz del pueblo enH8085
+- 1Sa_8:9oye su voz; mas protesta...contra ellosH8085
+- 1Sa_8:19el pueblo no quiso oír la voz de Samuel
+- 1Sa_8:21y oyó Samuel...las palabras del puebloH8085
+- 1Sa_8:22dijo...Oye su voz, y pon rey sobre ellosH8085
+- 1Sa_11:6al oír Saúl estas palabras, el EspírituH8085
+- 1Sa_12:1yo he oído vuestra voz en todo cuanto meH8085
+- 1Sa_12:14si temiereis a...y oyereis su voz, y no
+- 1Sa_12:15mas si no oyereis la voz de Jehová, y
+- 1Sa_13:3Jonatán atacó...lo oyeron los filisteosH8085
+- 1Sa_13:3trompeta...diciendo: Oigan los hebreosH8085
+- 1Sa_13:4todo Israel oyó que se decía: Saúl haH8085
+- 1Sa_14:22Efraín, oyendo que los filisteos huíanH8085
+- 1Sa_14:27Jonatán no había oído cuando su padreH8085
+- 1Sa_15:14bramido de vacas es este que yo oigoH8085
+- 1Sa_15:19¿por qué...no has oído la voz de Jehová
+- 1Sa_17:11oyendo Saúl y...Israel estas palabrasH8085
+- 1Sa_17:23las mismas palabras, y las oyó DavidH8085
+- 1Sa_17:28oyéndole hablar Eliab su hermano mayorH8085
+- 1Sa_17:31fueron oídas las palabras que DavidH8085
+- 1Sa_22:6oyó Saúl que se sabía de David y de losH8085
+- 1Sa_22:7oíd ahora, hijos de Benjamín: ¿Os daráH8085
+- 1Sa_22:12oye ahora, hijo de Ahitob...Y él dijoH8085
+- 1Sa_23:11¿descenderá...como ha oído tu siervo?[[H8085]]
+- 1Sa_23:25cuando Saúl oyó esto, siguió a DavidH8085
+- 1Sa_24:9¿por qué oyes las palabras de los queH8085
+- 1Sa_25:4oyó David...Nabal esquilaba sus ovejasH8085
+- 1Sa_25:35sube en paz...mira que he oído tu vozH8085
+- 1Sa_25:39que David oyó que Nabal había muertoH8085
+- 1Sa_26:19el rey...oiga ahora las palabras de suH8085
+- 1Sa_28:21y he oído las palabras que tú me hasH8085
+- 1Sa_28:22tú también oigas la voz de tu siervaH8085
+- 1Sa_31:11mas oyendo los de Jabes de Galaad estoH8085
+- 2Sa_4:1oyó el hijo de Saúl que Abner habíaH8085
+- 2Sa_5:17oyendo los filisteos que David había sidoH8085
+- 2Sa_5:17David lo oyó, descendió a la fortalezaH8085
+- 2Sa_5:24y cuando oigas ruido como de marcha porH8085
+- 2Sa_7:22conforme a todo lo que hemos oído conH8085
+- 2Sa_8:9oyendo Toi...que David había derrotado aH8085
+- 2Sa_10:7cuando David oyó esto, envió a Joab conH8085
+- 2Sa_11:26oyendo la mujer de Urías que su maridoH8085
+- 2Sa_12:18hablábamos, y no quería oír nuestra vozH8085
+- 2Sa_13:14no la quiso oír, sino que pudiendo másH8085
+- 2Sa_13:16no hay razón...Mas él no la quiso oírH8085
+- 2Sa_13:21y luego que el rey David oyó todo estoH8085
+- 2Sa_14:16el rey oirá, para librar a su sierva deH8085
+- 2Sa_15:3no tienes quien te oiga de parte del reyH8085
+- 2Sa_15:10cuando oigáis el sonido de la trompetaH8085
+- 2Sa_15:35lo que oyeres...se lo comunicarás a losH8085
+- 2Sa_15:36me enviaréis aviso de...lo que oyereisH8085
+- 2Sa_16:21todo el pueblo...oirá que te has hechoH8085
+- 2Sa_17:5a Husai arquita...oigamos lo que él diráH8085
+- 2Sa_17:9que lo oyere dirá...ha sido derrotadoH8085
+- 2Sa_18:5el pueblo oyó cuando dio el rey ordenH8085
+- 2Sa_18:12oímos cuando el rey te mandó a ti y aH241
+- 2Sa_19:2oyó decir...que el rey tenía dolor porH8085
+- 2Sa_19:35¿oiré más la voz de los cantores y deH8085
+- 2Sa_20:16oíd, o; os ruego que digáis a Joab queH8085
+- 2Sa_20:17ella le dijo: Oye...el respondió: OigoH8085
+- 2Sa_22:7Dios; él oyó mi voz desde su templo, yH8085
+- 2Sa_22:42clamaron, y...a Jehová, mas no les oyó
+- 2Sa_22:45extraños...al oír de mí, me obedeceránH8085
+- 2Sa_24:25Jehová oyó las súplicas de la tierraH8085
+- 1Re_1:11¿no has oído que reina Adonías hijoH8085
+- 1Re_1:41lo oyó Adonías, y todos los convidadosH8085
+- 1Re_1:41y oyendo Joab el sonido de la trompetaH8085
+- 1Re_1:45alegría...el alboroto que habéis oídoH8085
+- 1Re_3:11demandaste...inteligencia para oír juicio
+- 1Re_3:28Israel oyó aquel juicio que había dadoH8085
+- 1Re_4:34oír la sabiduría de Salomón venían deH8085
+- 1Re_5:1luego que oyó que lo habían ungido porH8085
+- 1Re_5:7cuando Hiram oyó las palabras de SalomónH8085
+- 1Re_5:8he oído lo que me mandaste a decir; yo
+- 1Re_6:7martillos ni hachas se oyeron en la casaH8085
+- 1Re_8:28oyendo...la oración que tu siervo haceH8085
+- 1Re_8:29oigas la oración que tu siervo haga enH8085
+- 1Re_8:30oye, pues, la oración de tu siervo, y deH8085
+- 1Re_8:30tú lo oirás en el lugar de tu morada, enH8085
+- 1Re_8:32tú oirás desde el cielo y actuarás, yH8085
+- 1Re_8:34, 1Re_8:36tú oirás en los cielos, y perdonarásH8085
+- 1Re_8:39, 1Re_8:43, 1Re_8:49oirás en los cielos, en el lugarH8085
+- 1Re_8:42oirán de tu gran nombre, de tu manoH8085
+- 1Re_8:45tú oirás en los cielos su oración y suH8085
+- 1Re_8:52para oírlos en...por lo cual te invocarenH8085
+- 1Re_9:3dijo...Yo he oído tu oración y tu ruegoH8085
+- 1Re_10:1oyendo la reina de Sabá la fama queH8085
+- 1Re_10:6verdad es lo que oí en mi tierra de tusH8085
+- 1Re_10:7es mayor...que la fama que yo había oídoH8085
+- 1Re_10:8dichosos estos...que...oyen tu sabiduríaH8085
+- 1Re_10:24para oír la sabiduría que Dios habíaH8085
+- 1Re_11:21oyendo Hadad...que David había dormidoH8085
+- 1Re_12:2que cuando lo oyó Jeroboam hijo de NabatH8085
+- 1Re_12:15y no oyó el rey al pueblo; porque eraH8085
+- 1Re_12:16vio que el rey no les había oído, leH8085
+- 1Re_12:20oyendo todo Israel que Jeroboam habíaH8085
+- 1Re_12:24y ellos oyeron la palabra de Dios, yH8085
+- 1Re_13:4rey Jeroboani oyó la palabra del varón deH8085
+- 1Re_13:26oyéndolo el profeta...dijo: El varón deH8085
+- 1Re_14:6cuando Ahías oyó el sonido de sus piesH8085
+- 1Re_15:21oyendo esto Baasa, dejó de edificar aH8085
+- 1Re_16:16oyó decir: Zimri ha conspirado, y haH8085
+- 1Re_17:22Jehová oyó la voz de Elías, y el almaH8085
+- 1Re_18:41bebe; porque una lluvia grande se oye
+- 1Re_19:13cuando lo oyó Elías, cubrió su rostroH8085
+- 1Re_20:12cuando él oyó esta palabra...dijo a susH8085
+- 1Re_20:31hemos oído de...que son reyes clementesH8085
+- 1Re_21:15oyó que Nabot había sido apedreado yH8085
+- 1Re_21:16oyendo Acab que Nabot era muerto, seH8085
+- 1Re_21:27cuando Acab oyó estas palabras, rasgóH8085
+- 1Re_22:19él dijo: Oye, pues, palabra de JehováH8085
+- 1Re_22:28en seguida dijo: Oíd, pueblos todosH8085
+- 2Re_3:21de Moab oyeron que los reyes subíanH8085
+- 2Re_5:8oyó que el rey de Israel había rasgadoH8085
+- 2Re_6:30el rey oyó las palabras de aquella mujerH8085
+- 2Re_6:32¿no se oye tras él ruido de los pasos
+- 2Re_7:1oíd palabra de Jehová: Así dijo JehováH8085
+- 2Re_7:6se oyese estruendo de carros, ruido deH8085
+- 2Re_9:30cuando Jezabel lo oyó, se pintó los ojosH8085
+- 2Re_11:13oyendo Atalía el estruendo del puebloH8085
+- 2Re_13:4Joacaz oró...Jehová lo oyó; porque miróH8085
+- 2Re_18:28oíd la palabra del gran rey, el rey deH8085
+- 2Re_18:32no oigáis a Ezequías...os engaña cuandoH8085
+- 2Re_19:1cuando el rey Ezequías lo oyó, rasgó susH8085
+- 2Re_19:4oirá Jehová tu Dios todas las palabrasH8085
+- 2Re_19:4palabras, las cuales Jehová tu...ha oídoH8085
+- 2Re_19:6no temas por las palabras que has oídoH8085
+- 2Re_19:7oirá rumor, y volverá a su tierra; y haréH8085
+- 2Re_19:8porque oyó que se había ido de LaquisH8085
+- 2Re_19:9y oyó decir que Tirhaca...había salidoH8085
+- 2Re_19:11has oído lo que han hecho los reyesH8085
+- 2Re_19:16inclina, oh Jehová, tu oído, y oye...abreH8085
+- 2Re_19:16y oye las palabras de Senaquerib, queH8085
+- 2Re_19:20lo que me pediste acerca de...he oídoH8085
+- 2Re_19:25¿nunca has oído que.desde...yo lo hiceH8085
+- 2Re_20:5yo he oído tu oración, y he visto tusH8085
+- 2Re_20:12oído que Ezequías había caído enfermoH8085
+- 2Re_20:13Ezequías los oyó, y les mostró toda laH8085
+- 2Re_20:16Isaías dijo a...Oye palabra de JehováH8085
+- 2Re_21:12que al que lo oyere le retiñirán...oídosH8085
+- 2Re_22:11el rey hubo oído las palabras del libroH8085
+- 2Re_22:18por cuanto oíste las palabras del libroH8085
+- 2Re_22:19oíste lo que yo he pronunciado contraH8085
+- 2Re_22:19también yo te he oído, dice JehováH8085
+- 2Re_23:2el rey...leyó, oyéndolo ellos, todas lasH8085
+- 2Re_25:23oyendo todos los príncipes del ejércitoH8085
+- 1Cr_10:11oyendo...lo que los filisteos habíanH8085
+- 1Cr_14:8oyendo los filisteos que David...ungidoH8085
+- 1Cr_14:8cuando David lo oyó, salió contra ellosH8085
+- 1Cr_14:15así que oigas venir un estruendo porH8085
+- 1Cr_17:20según todas las cosas que hemos oídoH8085
+- 1Cr_18:9y oyendo Toi...que David había deshechoH8085
+- 1Cr_19:8oyéndolo David, envió a Joab con todoH8085
+- 1Cr_21:28viendo David que Jehová le había oído
+- 1Cr_28:2dijo: Oídme, hermanos míos, y pueblo míoH8085
+- 2Cr_6:19oír el clamor y la oración con queH8085
+- 2Cr_6:20oigas la oración con que tu siervo oraH8085
+- 2Cr_6:21que oigas el ruego de tu siervo, y deH8085
+- 2Cr_6:21oirás desde los...que oigas y perdonesH8085
+- 2Cr_6:23tú oirás desde los cielos, y actuarásH8085
+- 2Cr_6:25tú oirás desde los cielos, y perdonarásH8085
+- 2Cr_6:27los oirás en los cielos, y perdonarás elH8085
+- 2Cr_6:30, 2Cr_6:33, 2Cr_6:35, 2Cr_6:39oirás desde los cielos, desdeH8085
+- 2Cr_7:12he oído tu oración, y he elegido paraH8085
+- 2Cr_7:14yo oiré desde los cielos, y perdonaréH8085
+- 2Cr_9:1oyendo la reina de Sabá la...de SalomónH8085
+- 2Cr_9:5verdad es lo que había oído en mi tierraH8085
+- 2Cr_9:6tú superas la fama que yo había oídoH8085
+- 2Cr_9:7y dichosos estos...que...oyen tu sabiduríaH8085
+- 2Cr_9:23oír la sabiduría que Dios le había dadoH8085
+- 2Cr_10:2y cuando lo oyó Jeroboam hijo de NabatH8085
+- 2Cr_10:16viendo...que el rey no les había oídoH8085
+- 2Cr_11:4ellos oyeron la palabra de Jehová y se
+- 2Cr_13:4y dijo: Oídme, Jeroboam y todo IsraelH8085
+- 2Cr_15:2dijo: Oídme, Asa y todo Judá y BenjamínH8085
+- 2Cr_15:8oyó Asa las palabras y la profecía deH8085
+- 2Cr_16:5oyendo esto Baasa, cesó de edificar aH8085
+- 2Cr_18:18oíd...palabra de Jehová: Yo he vistoH8085
+- 2Cr_18:27Micaías...dijo además: Oíd, pueblos todosH8085
+- 2Cr_20:9clamaremos...y tú nos oiréis y salvarásH8085
+- 2Cr_20:15oíd, Judá todo, y vosotros moradoresH8085
+- 2Cr_20:20oídme, Judá y moradores de JerusalénH8085
+- 2Cr_20:29cuando oyeron...Jehová había peleadoH8085
+- 2Cr_23:12cuando Atalía oyó el estruendo de laH8085
+- 2Cr_24:17obediencia al rey; y el rey los oyóH8085
+- 2Cr_25:20Amasías no quiso oír; porque era laH8085
+- 2Cr_28:11oídme...y devolved a los cautivos queH8085
+- 2Cr_29:5¡oídme, levitas! Santificaos ahora, yH8085
+- 2Cr_30:20y oyó Jehová a Ezequías, y sanó alH8085
+- 2Cr_30:27la voz de ellos fue oída, y su oraciónH8085
+- 2Cr_33:13pues Dios oyó su oración y lo restauróH8085
+- 2Cr_33:19su oración también, y cómo fue oídoH8085
+- 2Cr_34:19que el rey oyó las palabras de la leyH8085
+- 2Cr_34:26por cuanto oíste las palabras del libroH8085
+- 2Cr_34:27y te humillaste...al oír sus palabrasH8085
+- 2Cr_34:27yo también te he oído, dice JehováH8085
+- Esd_3:13clamor...oía el ruido hasta de lejosH8085
+- Esd_4:1oyendo los enemigos de Judá y...BenjamínH8085
+- Esd_9:3cuando oí esto, rasgué mi vestido y miH8085
+- Neh_1:4cuando oí estas palabras me senté yH8085
+- Neh_1:6atento tu oído...para oír la oración deH8085
+- Neh_2:10oyéndolo Sanbalat horonita y Tobías elH8085
+- Neh_2:19pero cuando lo oyeron Sanbalat horonitaH8085
+- Neh_4:1oyó Sanbalat que...edificábamos el muroH8085
+- Neh_4:4oye, oh Dios nuestro, que somos objeto deH8085
+- Neh_4:7oyendo Sanbalat y Tobías...que los murosH8085
+- Neh_4:15cuando oyeron nuestros enemigos que leH8085
+- Neh_4:20donde oyereis el sonido de la trompetaH8085
+- Neh_5:6me enojé...cuando oí su clamor y estasH8085
+- Neh_6:1cuando oyeron Sanbalat y Tobías y GesemH8085
+- Neh_6:6se ha oído entre las naciones, y Gasmu
+- Neh_6:7serán oídas del rey las tales palabrasH8085
+- Neh_6:16y cuando 10 Oyeron...nuestros enemigosH8085
+- Neh_8:9el pueblo lloraba oyendo las palabrasH8085
+- Neh_9:9oíste el clamor de ellos en el Mar RojoH8085
+- Neh_9:17no quisieron oír, ni se acordaron de tus
+- Neh_9:27-28a ti, y tú desde los cielos los oíasH8085
+- Neh_9:29y no oyeron tus mandamientos, sino queH8085
+- Neh_12:43alborozo de Jerusalén fue oído desdeH8085
+- Neh_13:1aquel día se leyó...oyéndolo el pueblo
+- Neh_13:3cuando oyeron, pues, la ley, separaronH8085
+- Est_1:18dirán esto las señoras...que oigan elH8085
+- Est_1:20el decreto...será oído en todo su reino
+- Job_2:11luego que oyeron todo este mal que leH8085
+- Job_3:18los cautivos; no oyen la voz del capatazH8085
+- Job_4:16ojos un fantasma...y quedo, oí que decíaH8085
+- Job_5:27óyelo, y conócelo tú para tu provechoH8085
+- Job_13:1todas estas cosas han...oído...mis oídosH8085
+- Job_13:6oíd ahora mi razonamiento, y...atentos aH8085
+- Job_13:17oíd con atención mi razonamiento, y miH8085
+- Job_15:8¿oíste tú el secreto de Dios, y estáH8085
+- Job_16:2muchas veces he oído cosas como estasH8085
+- Job_19:7clamaré agravio, y no seré oído; daréH8085
+- Job_20:3la reprensión de mi censura he oído, yH8085
+- Job_21:2oíd atentamente mi palabra, y sea estoH8085
+- Job_22:27orarás...él te oirá; y tú pagarás tusH8085
+- Job_26:14y cuán leve es el susurro...oído de él![[H8085]]
+- Job_27:9¿oirá Dios su clamor cuando la...viniereH8085
+- Job_28:22su fama hemos oído con nuestros oídosH8085
+- Job_29:11que me oían me llamaban bienaventuradoH8085
+- Job_29:21me oían, y esperaban, y callaban a miH8085
+- Job_30:20clamo a ti, y no me oyes; me presentoH8085
+- Job_31:35quién me diera quien me oyese! He aquíH8085
+- Job_33:1por tanto, Job, oye ahora mis razones, yH8085
+- Job_33:8yo oí la voz de tus palabras que decíanH8085
+- Job_33:31escucha...y óyeme; calla, y yo hablaréH8085
+- Job_33:33y si no, óyeme tú a mí; calla, y teH8085
+- Job_34:2oíd, sabios, mis palabras; y vosotrosH8085
+- Job_34:10varones...oídme: Lejos esté de Dios laH8085
+- Job_34:16oye...escucha la voz de mis palabrasH8085
+- Job_34:28que oiga el clamor de los necesitadosH8085
+- Job_34:34dirán...y el hombre sabio que me oigaH8085
+- Job_35:12allí clamarán, y él no oirá, por la
+- Job_35:13Dios no oirá la vanidad, ni la miraráH8085
+- Job_36:11si oyeren y les sirvieren, acabaran sus
+- Job_36:12si no oyeren, serán pasados a espada
+- Job_37:2oíd...el estrépito de su voz, y el sonidoH8085
+- Job_37:4aunque sea oída su voz, no los detieneH8085
+- Job_39:7se burla...no oye las voces del arriero
+- Job_42:4oye, te ruego, y hablaré; te preguntaréH8085
+- Job_42:5de oídas te había oído; mas ahora misH8085
+- Sal_4:1misericordia de mí, y oye mi oraciónH8085
+- Sal_4:3sí; Jehová oirá cuando yo a él clamareH8085
+- Sal_5:3de mañana oirás mi voz; de mañana meH8085
+- Sal_6:8porque Jehová ha oído la voz de mi lloroH8085
+- Sal_6:9ha oído mi ruego; ha recibido Jehová miH8085
+- Sal_10:17deseo de los humildes oíste, oh JehováH8085
+- Sal_17:1oye, oh Jehová, una causa justa; estáH8085
+- Sal_17:6te he invocado, por cuanto tú me oirásH8085
+- Sal_18:6oyó mi voz desde su templo, y mi clamorH8085
+- Sal_18:41clamaron...aun a Jehová, pero no los oyó
+- Sal_18:44al oír de mí me obedecieron...extrañosH8085
+- Sal_19:3no hay lenguaje, ni...ni es oída su vozH8085
+- Sal_20:1Jehová te oiga en el día de conflictoH6030
+- Sal_20:6lo oirá desde sus santos cielos con laH6030
+- Sal_20:9que el rey nos oiga en el día que loH6030
+- Sal_22:24ni...sino que cuando clamó a él, le oyóH8085
+- Sal_27:7oye, oh Jehová, mi voz con que...clamoH8085
+- Sal_28:2oye la voz de mis ruegos cuando clamo aH8085
+- Sal_28:6bendito sea Jehová, que oyó la voz de misH8085
+- Sal_30:10oye, oh Jehová, y ten misericordia deH8085
+- Sal_31:13oigo la calumnia de muchos; el miedoH8085
+- Sal_31:22tú oíste la voz de mis ruegos cuandoH8085
+- Sal_34:2lo oirán los mansos, y se alegraránH8085
+- Sal_34:4busqué a Jehová, y él me oyó, y me libróH8085
+- Sal_34:6este pobre clamó, y le oyó Jehová, y loH8085
+- Sal_34:11oídme; el temor de Jehová os enseñaréH8085
+- Sal_34:17claman los justos, y Jehová oye, y losH8085
+- Sal_38:13mas yo, como si fuera sordo, no oigoH8085
+- Sal_38:14soy, pues, como un hombre que no oyeH8085
+- Sal_39:12oye mi oración, oh Jehová, y escuchaH8085
+- Sal_40:1esperé...se inclinó a mí, y oyó mi clamorH8085
+- Sal_44:1oh Dios, con nuestros oídos hemos oídoH8085
+- Sal_45:10oye, hija, y mira, e inclina tu oídoH8085
+- Sal_48:8como lo oímos, así lo hemos visto en laH8085
+- Sal_49:1oíd esto, pueblos...habitantes todos delH8085
+- Sal_50:7oye, pueblo mío, y hablaré; escuchaH8085
+- Sal_51:8hazme oír gozo y alegría...se recrearánH8085
+- Sal_54:2oh Dios, oye mi oración; escucha lasH8085
+- Sal_55:17día oraré y clamaré, y él oirá mí vozH8085
+- Sal_55:19Dios oirá, y los quebrantará luego, elH8085
+- Sal_58:5que no oye la voz de los que encantanH8085
+- Sal_59:7en sus labios, porque dicen: ¿Quién oye?[[H8085]]
+- Sal_60:5libren...salva con tu diestra, y óyemeH6030
+- Sal_61:1oye, oh Dios, mi clamor; a mi oraciónH8085
+- Sal_61:5porque tú, oh Dios, has oído mis votosH8085
+- Sal_62:11dos veces he oído esto: que de Dios esH8085
+- Sal_65:2oyes la oración; a ti vendrá toda carneH8085
+- Sal_66:8Dios, y haced oír la voz de su alabanzaH8085
+- Sal_66:16venid, oíd todos los que teméis a DiosH8085
+- Sal_69:17estoy angustiado; apresúrate, óyemeH6030
+- Sal_69:33porque Jehová oye a los menesterososH8085
+- Sal_76:8desde los cielos hiciste oír juicio; laH8085
+- Sal_78:3las cuales hemos oído y entendido; queH8085
+- Sal_78:21por tanto, oyó Jehová, y se indignóH8085
+- Sal_78:59oyó Dios y se enojó, y en gran maneraH8085
+- Sal_81:5de Egipto...Oí lenguaje que no entendíaH8085
+- Sal_81:8oye, pueblo mío...Israel, si me oyeresH8085
+- Sal_81:11mi pueblo no oyó mi voz, e Israel noH8085
+- Sal_81:13¡oh, si me hubiera oído mi pueblo, siH8085
+- Sal_84:8Jehová Dios de...oye mi oración; escuchaH8085
+- Sal_92:11oirán...oídos de los que se levantaronH8085
+- Sal_94:9el que hizo el oído, ¿no oirá? El queH8085
+- Sal_95:7ovejas de su mano...Si oyereis hoy suH8085
+- Sal_97:8oyó Sion, y se alegró; y las hijas deH8085
+- Sal_102:20para oír el gemido de los presos, paraH8085
+- Sal_106:25antes...y no oyeron la voz de JehováH8085
+- Sal_106:44con todo, él miraba...y oía su clamorH8085
+- Sal_115:6orejas tienen, mas no oyen...narices, yH8085
+- Sal_116:1amo a Jehová, pues ha oído mi voz y misH8085
+- Sal_118:21te alabaré porque me has oído, y meH6030
+- Sal_119:149oye mi voz conforme a...misericordiaH8085
+- Sal_130:2Señor, oye mi voz; estén atentos tusH8085
+- Sal_132:6aquí en Efrata lo oímos; lo hallamosH8085
+- Sal_135:17tienen orejas, y no oyen; tampoco hayH238
+- Sal_138:4porque han oído los dichos de tu bocaH8085
+- Sal_141:6oirán mis palabras, que son verdaderasH8085
+- Sal_143:1Jehová, oye mi oración, escucha misH8085
+- Sal_143:8hazme oír...misericordia, porque en tiH8085
+- Sal_145:19oirá asimismo el clamor de ellos, yH8085
+- Pro_1:5oirá el sabio, y aumentará el saberH8085
+- Pro_1:8oye, hijo mío, la instrucción de tu padreH8085
+- Pro_1:24llamé, y no quisisteis oír, extendí mi
+- Pro_1:33el que me oyere, habitará confiadamenteH8085
+- Pro_4:1oíd, hijos, la enseñanza de un padre, yH8085
+- Pro_4:10oye, hijo mío, y recibe mis razones, yH8085
+- Pro_5:7oídme, y no os apartéis de las razonesH8085
+- Pro_5:13no oí la voz de los que me instruían, Y a
+- Pro_7:24oídme, y estad atentos a las razones deH8085
+- Pro_8:6oíd, porque hablaré cosas excelentes, yH8085
+- Pro_8:32hijos, oídme, y bienaventurados los queH8085
+- Pro_13:8riquezas; pero el pobre no oye censurasH8085
+- Pro_15:29pero él oye la oración de los justosH8085
+- Pro_18:13al que responde palabra antes de oírH8085
+- Pro_19:27cesa, hijo mío, de oír las enseñanzasH8085
+- Pro_20:12oído que oye, y el ojo que ve, ambasH8085
+- Pro_21:13el que cierra...clamará, y no será oídoH8085
+- Pro_21:28el hombre que oye, permanecerá en suH8085
+- Pro_22:17inclina tu oído y oye las palabras deH8085
+- Pro_23:19oye, hijo mío, y sé sabio, y enderezaH8085
+- Pro_23:22oye a tu padre, a...que te engendróH8085
+- Pro_25:10no sea que te deshonre el que lo oyereH8085
+- Pro_28:9que aparta su oído para no oír la leyH8085
+- Pro_29:24pues oye la imprecación y no dice nadaH8085
+- Ecl_1:8nunca se sacia el ojo...el oído de oírH8085
+- Ecl_5:1acércate más para oír que para ofrecerH8085
+- Ecl_7:5mejor es oír la reprensión del sabio queH8085
+- Ecl_7:21que no oigas a tu siervo cuando dice malH8085
+- Ecl_12:13el fin de todo el discurso oído es esteH8085
+- Cnt_2:12país se ha oído la voz de la tórtolaH8085
+- Cnt_2:14hazme oír tu voz; porque dulce es la vozH8085
+- Cnt_8:13compañeros escuchan tu voz; házmela oírH8085
+- Isa_1:2oíd, cielos, y escucha tú, tierraH8085
+- Isa_1:10príncipes de Sodoma, oíd la palabra deH8085
+- Isa_1:15multipliquéis la oración, yo no oiréH8085
+- Isa_1:19si quisiereis y oyereis, comeréis el bien
+- Isa_6:8oí la voz del Señor, que decía: ¿A quiénH8085
+- Isa_6:9di a este...Oíd bien, y no entendáis; vedH8085
+- Isa_6:10no...ni oiga con sus oídos, ni su corazónH8085
+- Isa_7:13dijo...Isaías: Oíd ahora, casa de DavidH8085
+- Isa_8:9oíd, todos...que sois de lejanas tierrasH238
+- Isa_10:30haz que se oiga hacia Lais, pobrecillaH7181
+- Isa_11:3ni argüirá por lo que oigan sus oídosH4926
+- Isa_15:4gritarán, hasta Jahaza se oirá su vozH8085
+- Isa_16:6hemos oído la soberbia de Moab; muyH8085
+- Isa_21:3agobié oyendo, y al ver me he espantadoH8085
+- Isa_21:10os he dicho lo que oí de Jehová de losH8085
+- Isa_24:16postrero de la tierra oímos cánticosH8085
+- Isa_28:12este es el reposo...mas no quisieron oirH8085
+- Isa_28:14burladores...oíd la palabra de JehováH8085
+- Isa_28:19y será...espanto el entender lo oído
+- Isa_28:22porque destrucción...he oído del SeñorH8085
+- Isa_28:23estad atentos, y oíd mi voz...o mi dichoH8085
+- Isa_29:18tiempo los sordos oirán las palabrasH8085
+- Isa_30:9que no quisieron oír la ley de JehováH8085
+- Isa_30:19oír la voz de tu clamor te responderáH8085
+- Isa_30:21tus oídos oirán a tus espaldas palabraH8085
+- Isa_30:30Jehová hará oír su potente voz, y haráH8085
+- Isa_32:3los oídos de los oyentes oirán atentosH8085
+- Isa_32:9mujeres indolentes...oíd mi voz; hijasH8085
+- Isa_33:13oíd, los que estáis lejos, lo que heH8085
+- Isa_33:15tapa sus oídos para no oír propuestasH8085
+- Isa_34:1acercaos, naciones, juntaos para oír; yH8085
+- Isa_34:1oiga la tierra y cuanto hay en ella, elH8085
+- Isa_36:11lo oye el pueblo que está sobre el muro
+- Isa_36:13oíd las palabras del gran rey, el reyH8085
+- Isa_37:1cuando el rey Ezequías oyó esto, rasgóH8085
+- Isa_37:4quizá oirá Jehová tu Dios las palabrasH8085
+- Isa_37:4para vituperar con las palabras que oyóH8085
+- Isa_37:6no temas por las palabras que has oídoH8085
+- Isa_37:7pondré...un espíritu, y oirá un rumor, yH8085
+- Isa_37:8ya había oído que se había apartado deH8085
+- Isa_37:9al oírlo, envió embajadores a EzequíasH8085
+- Isa_37:11tú oíste lo que han hecho los reyes deH8085
+- Isa_37:17inclina, oh Jehová, tu oído, y oye; abreH8085
+- Isa_37:17oye todas las palabras de SenaqueribH8085
+- Isa_37:26¿no has oído decir que desde...lo hiceH8085
+- Isa_38:5he oído tu oración, y visto tus lágrimasH8085
+- Isa_39:5oye palabra de Jehová de los ejércitosH8085
+- Isa_40:21¿no sabéis? ¿No habéis oído? ¿NuncaH8085
+- Isa_40:28has oído que el Dios eterno es JehováH8085
+- Isa_41:17Jehová los oiré, yo el Dios de IsraelH6030
+- Isa_41:26ciertamente no hay quien oiga vuestrasH8085
+- Isa_42:2ni alzará...ni la hará oír en las callesH8085
+- Isa_42:18sordos, oíd, y vosotros, ciegos, miradH8085
+- Isa_42:20advierte, que abre los oídos y no oye?[[H8085]]
+- Isa_42:23¿quién de vosotros oirá esto? ¿QuiénH8085
+- Isa_42:24no quisieron andar en...ni oyeron su ley
+- Isa_43:9y que nos haga oír las cosas primeras?[[H8085]]
+- Isa_43:9justifíquense; oigan, y digan: Verdad esH8085
+- Isa_43:12yo anuncié, y salvé, e hice oír, y no
+- Isa_44:1ahora pues, oye, Jacob, siervo mío, y túH8085
+- Isa_44:8¿no te lo hice oír desde la antigüedad
+- Isa_45:21¿quién hizo oir...desde el principio, y
+- Isa_46:3oídme, oh casa de Jacob, y todo...IsraelH8085
+- Isa_46:12oídme, duros de corazón, que estáisH8085
+- Isa_47:8oye, pues, ahora esto, mujer voluptuosaH8085
+- Isa_48:1oíd esto, casa de Jacob, que os llamáisH8085
+- Isa_48:6oíste...te he hecho oír cosas nuevas yH8085
+- Isa_48:7ni antes de este día las habías oídoH8085
+- Isa_48:8sí, nunca lo habías oído, ni...conocidoH8085
+- Isa_48:12óyeme, Jacob...Israel, a quien llaméH8085
+- Isa_48:14juntaos todos vosotros, y oíd...¿QuiénH8085
+- Isa_48:16acercaos...oíd esto: desde el principioH8085
+- Isa_49:1oídme, costas, y escuchad, pueblosH7181
+- Isa_49:8en tiempo aceptable te oí, y en el díaH6030
+- Isa_50:4despertará mi oído para que oiga comoH8085
+- Isa_50:10que teme...y oye la voz de su siervo?
+- Isa_51:1oídme, los que seguís la justicia, losH8085
+- Isa_51:4a mí, pueblo mío, y oídme, nación míaH7181
+- Isa_51:7oídme, los que conocéis justicia, puebloH8085
+- Isa_51:21oye, pues, ahora esto, afligida, ebriaH8085
+- Isa_52:15y entenderán lo que jamás habían oídoH8085
+- Isa_55:2oídme atentamente, y comed del bien, yH8085
+- Isa_55:3venid a mí; oíd, y vivirá vuestra almaH8085
+- Isa_58:4para que vuestra voz sea oída en lo altoH8085
+- Isa_58:9entonces invocarás, y te oirá JehováH8085
+- Isa_59:1salvar, ni...agravado su oído para oírH8085
+- Isa_59:2han hecho ocultar...rostro para no oírH8085
+- Isa_60:18nunca...se oirá en ti; tierra violenciaH8085
+- Isa_62:11Jehová hizo oír hasta lo último de laH8085
+- Isa_64:4ni nunca oyeron, ni oídos percibieronH8085
+- Isa_65:12y no oísteis, sino...hicisteis lo maloH8085
+- Isa_65:19nunca...se oirán en ella voz de lloroH8085
+- Isa_65:24mientras aún hablan, yo habré oídoH8085
+- Isa_66:4hablé, y no oyeron, sino que hicieronH8085
+- Isa_66:5oíd palabra de Jehová, vosotros los queH8085
+- Isa_66:8¿quién oyó cosa semejante? ¿quién vioH8085
+- Isa_66:19a las costas lejanas que no oyeron deH8085
+- Jer_2:4oíd...palabra de Jehová, casa de JacobH8085
+- Jer_3:13fornicaste con los...y no oíste mi vozH8085
+- Jer_3:21voz fue oída sobre las alturas, llantoH8085
+- Jer_4:15hace oír la calamidad desde el monteH8085
+- Jer_4:16aquí, haced oír sobre Jerusalén: GuardasH8085
+- Jer_4:19porque sonido de trompeta has oído, ohH8085
+- Jer_4:21¿hasta cuándo he de ver...oir sonido deH8085
+- Jer_4:31oí una voz como de mujer que...de partoH8085
+- Jer_5:20haced que esto se oiga en Judá, diciendoH8085
+- Jer_5:21oíd ahora esto...que tiene oídos y no oyeH8085
+- Jer_6:7maldad; injusticia y robo se oyen en ellaH8085
+- Jer_6:10¿a quién...amonestaré, para que oigan?[[H8085]]
+- Jer_6:18por tanto, oíd, naciones, y entended, ohH8085
+- Jer_6:19oye, tierra...yo traigo mal sobre esteH8085, [[H7181]]
+- Jer_6:24su fama oímos...manos se descoyuntaronH8085
+- Jer_7:2oíd palabra de Jehová, todo Judá, los queH8085
+- Jer_7:13no oísteis...llamé, y no respondisteisH8085
+- Jer_7:16ores...ni me ruegues; porque no te oiréH8085
+- Jer_7:24no oyeron ni inclinaron su oído; antesH8085
+- Jer_7:26pero no me oyeron ni inclinaron su oídoH8085
+- Jer_7:27todas estas palabras, pero no te oiránH8085
+- Jer_8:6escuché y oí; no hablan rectamente, noH8085
+- Jer_8:16desde Dan se oyó el bufido de...caballosH8085
+- Jer_9:10no quedar...ni oírse bramido de ganadoH8085
+- Jer_9:19porque de Sion fue oída voz de endechaH8085
+- Jer_9:20oíd, pues, oh mujeres, palabra de JehováH8085
+- Jer_10:1oíd la palabra que Jehová ha habladoH8085
+- Jer_11:2oíd las palabras de este pacto, y habladH8085
+- Jer_11:4oíd mi voz, y cumplid mis palabrasH8085
+- Jer_11:6oíd las palabras de...ponedlas por obraH8085
+- Jer_11:7hasta el día de hoy, diciendo: Oíd miH8085
+- Jer_11:8pero no oyeron, ni inclinaron su oídoH8085
+- Jer_11:11traigo...y clamarán a mí, y no los oiréH8085
+- Jer_11:14yo no oiré en el día que...clamen a míH8085
+- Jer_12:17mas si no oyeren, arrancaré esa naciónH8085
+- Jer_13:10este pueblo malo, que no quiere oír misH8085
+- Jer_13:15escuchad y oíd; no os envanezcáis, puesH8085
+- Jer_13:17si no oyereis esto, en secreto lloraráH8085
+- Jer_14:12cuando ayunen, yo no oiré su clamor, yH8085
+- Jer_16:12tras la imaginación...no oyéndome a míH8085
+- Jer_17:20diles: Oíd la palabra de Jehová, reyesH8085
+- Jer_17:23ellos no oyeron, ni inclinaron su oídoH8085
+- Jer_17:23endurecieron su cerviz para no oír, niH8085
+- Jer_17:27pero si no me oyereis para santificarH8085
+- Jer_18:2vete a...y allí te haré oír mis palabrasH8085
+- Jer_18:10no oyendo mi voz, me arrepentiré delH8085
+- Jer_18:13preguntad...quién ha oído cosa semejanteH8085
+- Jer_18:19oh Jehová, mira por mí, y oye la vozH8085
+- Jer_18:22óigase clamor de sus casas, cuandoH8085
+- Jer_19:3dirás...Oíd palabra de Jehová, oh reyesH8085
+- Jer_19:3a todo el que lo oyere, le retiñan losH8085
+- Jer_19:15han endurecido su cerviz para no oírH8085
+- Jer_20:1oyó a Jeremías que profetizaba estasH8085
+- Jer_20:10oí la murmuración de muchos, temor deH8085
+- Jer_20:16oiga gritos de mañana, y...a mediodíaH8085
+- Jer_21:11y a la casa del...Oíd palabra de JehováH8085
+- Jer_22:2oye palabra de Jehová, oh rey de JudáH8085
+- Jer_22:5mas si no oyereis estas palabras, porH8085
+- Jer_22:21dijiste: No oiré...nunca oíste mi vozH8085
+- Jer_22:29¡tierra...tierra! oye palabra de JehováH8085
+- Jer_23:18¿quién estuvo en el secreto de...y oyóH8085
+- Jer_23:18estuvo atento a su palabra, y la oyó?[[H8085]]
+- Jer_23:22pero si...habrían hecho oír mis palabrasH8085
+- Jer_23:25yo he oído lo que...profetas dijeronH8085
+- Jer_25:3-4temprano y sin cesar; pero no oísteisH8085
+- Jer_25:7no me habéis oído...provocarme a ira conH8085
+- Jer_25:8por cuanto no habéis oído mis palabrasH8085
+- Jer_26:3quizá oigan, y se vuelvan cada uno deH8085
+- Jer_26:4si no me oyereis para andar en mi leyH8085
+- Jer_26:5profetas...a los cuales no habéis oídoH8085
+- Jer_26:7los profetas y todo el pueblo oyeron aH8085
+- Jer_26:10príncipes de Judá oyeron estas cosasH8085
+- Jer_26:11profetizó...como vosotros habéis oídoH8085
+- Jer_26:12profetizar...palabras que habéis oídoH8085
+- Jer_26:13y oíd la voz de Jehová vuestro DiosH8085
+- Jer_26:21y oyeron sus palabras el rey Joacim yH8085
+- Jer_27:14, Jer_27:16no oigáis las palabras de...profetasH8085
+- Jer_27:17no los oigáis; servid al rey...y vividH8085
+- Jer_28:7con todo esto, oye ahora esta palabraH8085
+- Jer_28:15oye, Hananías: Jehová no te envió, yH8085
+- Jer_29:12me invocaréis...oraréis...y yo os oiréH8085
+- Jer_29:19por cuanto no oyeron mis palabras, diceH8085
+- Jer_29:20oíd, pues, palabra de Jehová, vosotrosH8085
+- Jer_30:5hemos oído voz de temblor; de espantoH8085
+- Jer_31:7haced oir, alabad, y decid: Oh JehováH8085
+- Jer_31:10oíd palabra de Jehová, oh naciones, yH8085
+- Jer_31:15voz fue oída en Ramá, llanto y lloroH8085
+- Jer_31:18he oído a Efraín que se lamentaba: MeH8085
+- Jer_32:23la disfrutaron; pero no oyeron tu vozH8085
+- Jer_33:9las naciones...habrán oído todo el bienH8085
+- Jer_33:11ha de oírse...voz de gozo y de alegría
+- Jer_34:4oye palabra...rey...No morirás a espadaH8085
+- Jer_34:10y cuando oyeron todos los príncipes, yH8085
+- Jer_34:14padres no me oyeron, ni inclinaron suH8085
+- Jer_34:17no me habéis oído para promulgar cadaH8085
+- Jer_35:14yo os he hablado...y no me habéis oídoH8085
+- Jer_35:15no inclinasteis...oído, ni me oísteisH8085
+- Jer_35:17les hablé, y no oyeron; los llamé, yH8085
+- Jer_36:3quizá oiga la casa de Judá todo el malH8085
+- Jer_36:11Micaías hijo...habiendo oído del libroH8085
+- Jer_36:13palabras que había oído cuando BarucH8085
+- Jer_36:16oyeron...palabras, cada uno se volvióH8085
+- Jer_36:24sus siervos que oyeron...estas palabrasH8085
+- Jer_36:25que no quemase...rollo, no los quiso oírH8085
+- Jer_37:20oye, te ruego, oh rey mi señor; caigaH8085
+- Jer_38:1oyeron Sefatías hijo de Matán...y PasurH8085
+- Jer_38:7oyendo Ebed-melec...etíope, eunuco de laH8085
+- Jer_38:20oye...la voz de Jehová que yo te habloH8085
+- Jer_38:25si...oyeren que yo he hablado contigoH8085
+- Jer_38:27se alejaron...asunto no se había oídoH8085
+- Jer_40:3no oísteis su voz, Por eso os ha venidoH8085
+- Jer_40:7oyeron que...había puesto a GedalíasH8085
+- Jer_40:11oyeron decir que el rey de BabiloniaH8085
+- Jer_41:11y oyeron Johanán hijo de Carca y todosH8085
+- Jer_42:4he oído...voy a orar a Jehová vuestroH8085
+- Jer_42:14Egipto...ni oiremos sonido de trompetaH8085
+- Jer_42:15oíd la palabra de Jehová, remanente deH8085
+- Jer_44:5pero no oyeron ni inclinaron su oídoH8085
+- Jer_44:16la palabra que nos...no la oiremos de tiH8085
+- Jer_44:24oíd palabra de Jehová, todos...de JudáH8085
+- Jer_44:26oíd palabra de Jehová, todo Judá queH8085
+- Jer_46:12las naciones oyeron tu afrenta, y tuH8085
+- Jer_48:4hicieron que se oyese el clamor de susH8085
+- Jer_48:5los enemigos oyeron clamor de quebrantoH8085
+- Jer_48:29hemos oído la soberbia de Moab, que esH8085
+- Jer_49:2haré oír clamor de guerra en Rabá de losH8085
+- Jer_49:14noticia oí, que de Jehová había sidoH8085
+- Jer_49:20oíd el consejo que Jehová ha acordadoH8085
+- Jer_49:21grito de su voz se oirá en el Mar RojoH8085
+- Jer_49:23se confundieron...oyeron malas nuevasH8085
+- Jer_50:43oyó la noticia el rey de Babilonia, yH8085
+- Jer_50:45tanto, oíd la determinación que JehováH8085
+- Jer_50:46tembló, y el clamor se oyó entre lasH8085
+- Jer_51:46ni temáis...del rumor que se oirá porH8085
+- Jer_51:51avergonzados, porque oímos la afrentaH8085
+- Jer_51:54¡óyese el clamor de Babilonia, y el
+- Lam_1:18oíd ahora, pueblos todos, y ved miH8085
+- Lam_1:21oyeron que gemía, mas no hay consoladorH8085
+- Lam_1:21enemigos han oído mi mal, se alegran deH8085
+- Lam_3:56oíste mi voz; no escondas tu oído alH8085
+- Lam_3:61has oído el oprobio de ellos, oh JehováH8085
+- Eze_1:24y oí el sonido de sus alas...andabanH8085
+- Eze_1:25se oía una voz de arriba de la expansión
+- Eze_1:28me postré...oí la voz de uno que hablabaH8085
+- Eze_2:2sobre mis pies, y oí al que me hablabaH8085
+- Eze_2:8oye lo que yo te hablo; no seas rebeldeH8085
+- Eze_3:6y si a ellos te enviara, ellos te oyeranH8085
+- Eze_3:7no te querrá oír, porque no me quiere oH8085
+- Eze_3:10todas mis palabras...y oye con tus oídosH8085
+- Eze_3:12y oí detrás de mí una voz de...estruendoH8085
+- Eze_3:13oí...el sonido de las alas de los seres
+- Eze_3:17oirás, pues, tú la palabra de mi bocaH8085
+- Eze_3:27que oye, oiga...no quiere oír, no oigaH8085
+- Eze_6:3montes de Israel, oíd palabra de JehováH8085
+- Eze_8:18gritarán a mis oídos con...y no los oiréH8085
+- Eze_9:5dijo, oyéndolo yo: Pasad por la ciudadH241
+- Eze_10:5las alas de los querubines se oía hastaH8085
+- Eze_10:13a las ruedas, oyéndolo yo...les gritabaH241
+- Eze_12:2tienen oídos para oír y no oyen, porqueH8085
+- Eze_13:2que profetizan...Oíd palabra de JehováH8085
+- Eze_16:35tanto, ramera, oye palabra de JehováH8085
+- Eze_18:25oíd...Israel: ¿no es recto mi camino?[[H8085]]
+- Eze_19:4las naciones oyeron de él; fue tomado, enH8085
+- Eze_19:9su voz no se oyese más sobre los montesH8085
+- Eze_20:47al bosque del Neguev: Oye la palabra deH8085
+- Eze_23:42se oyó en ella voz de compañía que se
+- Eze_25:3hijos de Amón: Oíd palabra de Jehová elH8085
+- Eze_26:13y no se oirá más el son de tus cítarasH8085
+- Eze_27:30harán oír su voz sobre ti, y gritaránH8085
+- Eze_33:4oyere el sonido de la trompeta y no seH8085
+- Eze_33:5el sonido de la trompeta oyó...y no seH8085
+- Eze_33:7he puesto...y oirás la palabra de mi bocaH8085
+- Eze_33:30venid...oíd qué palabra viene de JehováH8085
+- Eze_33:31-32oirán...pero no las pondrán por obraH8085
+- Eze_34:7, Eze_34:9tanto, pastores, oíd palabra de JehováH8085
+- Eze_35:12yo Jehová he oído todas tus injuriasH8085
+- Eze_35:13y multiplicasteis...palabras...Yo lo oíH8085
+- Eze_36:1, Eze_36:4montes de Israel, oíd palabra deH8085
+- Eze_36:15nunca...te haré oir injuria de nacionesH8085
+- Eze_37:4y diles: Huesos...oíd palabra de JehováH8085
+- Eze_40:4oye con tus oídos, Y Pon tu corazón aH8085
+- Eze_43:6y oí uno que me hablaba desde la casaH8085
+- Eze_44:5oye con tus oídos todo lo que yo habloH8085
+- Dan_3:5, Dan_3:7, Dan_3:10, Dan_3:15al oír el son de la bocina, deH8086
+- Dan_5:14yo he oído de ti que el espíritu de losH8086
+- Dan_5:16he oído...que puedes dar interpretacionesH8086
+- Dan_5:23dioses...que ni ven, ni oyen, ni sabenH8086
+- Dan_6:14cuando el rey oyó el asunto, le pesó enH8086
+- Dan_8:13oí a un santo que hablaba; y otro de losH8085
+- Dan_8:16oí una voz de hombre entre las riberasH8086
+- Dan_9:17Dios...oye la oración de tu siervo, y susH8085
+- Dan_9:18inclina...tu oído, y oye; abre tus ojosH8085
+- Dan_9:19oye, Señor; oh Señor, perdona; prestaH8085
+- Dan_10:9oí el sonido de sus palabras; y al oírH8085
+- Dan_10:12fueron oídas tus palabras; y a causa deH8085
+- Dan_12:7oí al varón vestido de lino, que estabaH8085
+- Dan_12:8y yo oí, mas no entendí...Y dije: SeñorH8085
+- Ose_4:1oíd palabra de Jehová, hijos de IsraelH8085
+- Ose_5:1sacerdotes, oíd esto, y estad atentosH8085
+- Ose_9:17los desechará, porque ellos no le oyeronH8085
+- Ose_14:8yo lo oiré, y miraré; yo seré a él comoH6030
+- Joe_1:2oíd esto, ancianos, y escuchad, todosH8085
+- Amó_3:1oíd esta palabra que ha hablado JehováH8085
+- Amó_3:13oíd y testificad contra...casa de JacobH8085
+- Amó_4:1oíd esta palabra, vacas de Basán, queH8085
+- Amó_5:1oíd esta palabra que yo levanto paraH8085
+- Amó_7:16ahora...oye palabra de Jehová...Tú dicesH8085
+- Amó_8:4oíd...los que explotáis a...menesterososH8085
+- Amó_8:11hambre a...de oír la palabra de JehováH8085
+- Abd_1:1dicho...Hemos oído el pregón de JehováH8085
+- Jon_2:2invoqué en mi...a Jehová, y él me oyóH6030
+- Jon_2:2desde el...del Seol clamé, y mi voz oíste
+- Miq_1:2oíd, pueblos todos; está atenta, tierraH8085
+- Miq_3:1oíd ahora, príncipes de Jacob, y jefesH8085
+- Miq_3:9oíd...esto, jefes de la casa de Jacob, yH8085
+- Miq_6:1oíd ahora lo que dice Jehová: LevántateH8085
+- Miq_6:1levántate...y oigan los collados tu vozH8085
+- Miq_6:2oíd, montes, y fuertes cimientos de laH8085
+- Miq_7:7esperaré al Dios de...el Dios mío me oiráH8085
+- Nah_2:13más se oirá la voz de tus mensajerosH8085
+- Nah_3:19los que oigan tu fama batirán las manosH8085
+- Hab_1:2¿hasta cuándo...clamare, y no oirás?[[H8085]]
+- Hab_3:2oh Jehová, he oído tu palabra, y temíH8085
+- Hab_3:16oí, y se conmovieron mis entrañas; a laH8085
+- Sof_2:8he oído las afrentas de Moab, y losH8085
+- Hag_1:12oyó Zorobabel hijo...la voz de JehováH8085
+- Zac_6:15esto sucederá si oyereis obedientesH8085
+- Zac_7:11antes...taparon sus oídos para no oírH8085
+- Zac_7:12para no oír la ley ni las palabras queH8085
+- Zac_8:9los que oís...estas palabras de la bocaH8085
+- Zac_8:23hemos oído que Dios está con vosotrosH8085
+- Zac_10:6porque yo soy Jehová su Dios, y los oiréH6030
+- Zac_13:9él invocará mi nombre, y yo le oiré, yH6030
+- Mal_2:2si no oyereis, y si no decidís deH8085
+- Mal_3:16y Jehová escuchó Y oyó, y fue escritoH8085
+- Mat_2:3oyendo esto, el rey Herodes se turbóG191
+- Mat_2:9ellos, habiendo oído al rey, se fueronG191
+- Mat_2:18voz...oída en Ramá, grande lamentaciónG191
+- Mat_2:22oyendo que Arquelao reinaba en JudeaG191
+- Mat_4:12cuando Jesús oyó que Juan estaba presoG191
+- Mat_5:21oísteis que fue dicho a los...No matarásG191
+- Mat_5:27oísteis...dicho: No cometerás adulterioG191
+- Mat_5:33oído que fue dicho a los...No perjurarásG191
+- Mat_5:38oísteis que fue dicho: Ojo por ojo, yG191
+- Mat_5:43oísteis...fue dicho: Amarás a tu prójimoG191
+- Mat_6:7piensan que por su palabrería serán oídosG1522
+- Mat_7:24que me oye estas palabras, y las hace, leG191
+- Mat_7:26que me oye estas palabras y no las haceG191
+- Mat_8:10al oirla Jesús, se maravilló, y dijo aG191
+- Mat_9:12al oír esto Jesús, les dijo: Los sanosG191
+- Mat_10:14ni oyere vuestras palabras, salid deG191
+- Mat_10:27lo que oís al oído, proclamadlo desdeG191
+- Mat_11:2al oír Juan...los hechos de Cristo, leG191
+- Mat_11:4haced saber a Juan las cosas que oís yG191
+- Mat_11:5sordos oyen, los muertos...resucitadosG191
+- Mat_11:15el que tiene oídos para oír, oigaG191
+- Mat_12:19ni nadie oirá en las calles su vozG191
+- Mat_12:24los fariseos, al oírlo, decían: Este noG191
+- Mat_12:42ella vino...oír la sabiduría de SalomónG191
+- Mat_13:9el que tiene oídos para oír, oigaG191
+- Mat_13:13porque...oyendo no oyen, ni entiendenG191
+- Mat_13:14de oído oiréis, y no entenderéis; yG191
+- Mat_13:15con los oídos oyen pesadamente, y hanG191
+- Mat_13:15oigan con los oídos, y con el corazónG191
+- Mat_13:16bienaventurados...oídos, porque oyenG191
+- Mat_13:17ver...y oír lo que oís, y no lo oyeronG191
+- Mat_13:18oíd, pues...la parábola del sembradorG191
+- Mat_13:19alguno oye la palabra del reino, y noG191
+- Mat_13:20el que oye la palabra, y al momento laG191
+- Mat_13:22el que oye la palabra, pero el afán deG191
+- Mat_13:23es el que oye y entiende la palabra, yG191
+- Mat_13:43el que tiene oídos para oír, oigaG191
+- Mat_14:1Herodes...tetrarca oyó la fama de JesúsG191
+- Mat_14:13oyéndolo Jesús, se apartó de allí enG191
+- Mat_14:13y cuando la gente lo oyó, le siguió aG191
+- Mat_15:10llamando a...les dijo: Oíd, y entendedG191
+- Mat_15:12ofendieron cuando oyeron esta palabra?[[G191]]
+- Mat_17:5decía: Este es mi Hijo amado...a él oídG191
+- Mat_17:6al oír esto los discípulos, se postraronG191
+- Mat_18:15si te oyere, has ganado a tu hermanoG191
+- Mat_18:16si no te oyere, toma aún contigo a unoG191
+- Mat_18:17si no los oyere...dilo a la iglesia; yG3878
+- Mat_18:17y si no oyere a la iglesia, tenle porG3878
+- Mat_19:22oyendo el joven esta palabra, se fueG191
+- Mat_19:25discípulos, oyendo esto, se asombraronG191
+- Mat_20:24los diez oyeron esto, se enojaron contraG191
+- Mat_20:30y dos ciegos...oyeron que Jesús pasabaG191
+- Mat_21:16¿oyes lo que éstos dicen? Y Jesús lesG191
+- Mat_21:33oíd...parábola: Hubo un hombre, padreG191
+- Mat_21:45oyendo sus parábolas los...sacerdotesG191
+- Mat_22:7al oírlo el rey, se enojó; y enviandoG191
+- Mat_22:22oyendo...se maravillaron, y dejándoleG191
+- Mat_22:33oyendo esto la gente, se admiraba deG191
+- Mat_22:34fariseos, oyendo que había hecho callarG191
+- Mat_24:6oiréis de guerras y rumores de guerrasG191
+- Mat_25:6a la medianoche se oyó...¡Aquí viene el
+- Mat_26:65ahora mismo habéis oído su blasfemiaG191
+- Mat_27:13dijo: ¿No oyes cuántas cosas testificanG191
+- Mat_27:47decían, al oírlo: A Elías llama ésteG191
+- Mat_28:14y si...lo oyere el gobernador, nosotrosG191
+- Mar_2:1entró Jesús...se oyó que estaba en casa
+- Mar_2:17al oír esto Jesús, les dijo: Los sanosG191
+- Mar_3:8Sidón, oyendo cuán grandes cosas hacíaG191
+- Mar_3:21lo oyeron los suyos, vinieron...prenderleG191
+- Mar_4:3oíd...aquí, el sembrador salió a sembrarG191
+- Mar_4:9dijo: El que tiene oídos para oír, oigaG191
+- Mar_4:12vean y no perciban; y oyendo, oigan yG191
+- Mar_4:15después que la oyen...viene Satanás, yG191
+- Mar_4:16cuando han oído la palabra, al momentoG191
+- Mar_4:18entre espinos: los que oyen la palabraG191
+- Mar_4:20que oyen la palabra y la reciben, y danG191
+- Mar_4:23si alguno tiene oídos para oír, oigaG191
+- Mar_4:24mirad lo que oís; porque con la medidaG191
+- Mar_4:24aun se os añadirá a vosotros los que oísG191
+- Mar_4:33la palabra, conforme a lo que podían oírG191
+- Mar_5:27cuando oyó hablar de Jesús, vino porG191
+- Mar_5:36pero Jesús, luego que oyó lo que se decíaG191
+- Mar_6:2muchos, oyéndole, se admiraban, y decíanG191
+- Mar_6:11ni os oyeren, salid de allí, y sacudidG191
+- Mar_6:14oyó el rey Herodes la fama de JesúsG191
+- Mar_6:16al oír esto Herodes, dijo: Este es JuanG191
+- Mar_6:20oyéndole, se quedaba muy perplejo, peroG191
+- Mar_6:29oyeron esto sus discípulos, vinieron yG191
+- Mar_6:55traer...enfermos...donde oían que estabaG191
+- Mar_7:14llamando a sí a...les dijo: Oídme todosG191
+- Mar_7:16si alguno tiene oídos para oír, oigaG191
+- Mar_7:25luego que oyó de él, vino y se postróG191
+- Mar_7:37a los sordos oir, y a los mudos hablarG191
+- Mar_8:18teniendo oídos no oís? ¿Y no recordáis?[[G191]]
+- Mar_9:7decía: Este es mi Hijo amado; a él oídG191
+- Mar_10:41cuando lo oyeron los diez, comenzaronG191
+- Mar_10:47y oyendo que era Jesús...comenzó a darG191
+- Mar_11:14jamás coma...Y lo oyeron sus discípulosG191
+- Mar_11:18oyeron los escribas y los...sacerdotesG191
+- Mar_12:28escribas, que los había oído disputarG191
+- Mar_12:29oye, Israel; el Señor nuestro Dios, elG191
+- Mar_12:37gran multitud del...le oía de buena ganaG191
+- Mar_13:7cuando oigáis de guerras y de rumoresG191
+- Mar_14:11al oírlo, se alegraron, y prometieronG191
+- Mar_14:58oído decir: Yo derribaré este temploG191
+- Mar_14:64oído la blasfemia; ¿qué os parece?[[G191]]
+- Mar_15:35decían, al oírlo: Mirad, llama a ElíasG191
+- Mar_16:11ellos, cuando oyeron que vivía, y queG191
+- Luc_1:13tu oración ha sido oída, y tu mujerG1522
+- Luc_1:41que cuando oyó Elisabet la salutaciónG191
+- Luc_1:58oyeron los vecinos y los parientes queG191
+- Luc_1:66todos los que las oían las guardaban enG191
+- Luc_2:18todos los que oyeron, se maravillaronG191
+- Luc_2:20todas las cosas que habían oído y vistoG191
+- Luc_2:46sentado en...oyéndoles y preguntándolesG191
+- Luc_2:47todos los que le oían, se maravillabanG191
+- Luc_4:23cosas que hemos oído que se han hechoG191
+- Luc_4:28al oir estas cosas...se llenaron de iraG191
+- Luc_5:1se agolpaba...para oir la palabra de DiosG191
+- Luc_5:15se reunía mucha gente para oírle, y paraG191
+- Luc_6:17de gente...que había venido para oírleG191
+- Luc_6:27a vosotros los que oís, os digo: AmadG191
+- Luc_6:47oye mis palabras y las hace, os indicaréG191
+- Luc_6:49mas el que oyó y no hizo, semejante esG191
+- Luc_7:1todas sus palabras al pueblo que le oía
+- Luc_7:3cuando el centurión oyó hablar de JesúsG191
+- Luc_7:9al oír esto, Jesús se maravilló de élG191
+- Luc_7:22saber a Juan lo que habéis visto y oídoG191
+- Luc_7:22ven, los cojos andan...los sordos oyenG191
+- Luc_7:29cuando lo oyeron, justificaron a DiosG191
+- Luc_8:8voz: El que tiene oídos para oir, oigaG191
+- Luc_8:10viendo no vean, y oyendo no entiendanG191
+- Luc_8:12de junto al camino son los que oyen, yG191
+- Luc_8:13son los que habiendo oído, reciben laG191
+- Luc_8:14los que oyen, pero yéndose, son ahogadosG191
+- Luc_8:15son los que...retienen la palabra oídaG191
+- Luc_8:18mirad, pues, cómo oís; porque a todo elG191
+- Luc_8:21mi madre y...son los que oyen la palabraG191
+- Luc_8:50oyéndole Jesús, le respondió: No temasG191
+- Luc_9:7Herodes el tetrarca oyó...todas las cosasG191
+- Luc_9:9¿quién...es éste, de quien oigo...cosas?[[G191]]
+- Luc_9:35decía: Este es mi Hijo amado; a él oídG191
+- Luc_10:16el que a vosotros oye, a mí me o; y elG191
+- Luc_10:24ver...y oír lo que oís, y no lo oyeronG191
+- Luc_10:39sentándose a los pies de...oía su palabraG191
+- Luc_11:28antes bienaventurados los que oyen laG191
+- Luc_11:31vino...para oír la sabiduría de SalomónG191
+- Luc_12:3dicho en tinieblas, a la luz se oiráG191
+- Luc_14:15oyendo esto uno de los que...a la mesaG191
+- Luc_14:35el que tiene oídos para oír, oigaG191
+- Luc_15:1se acercaban a Jesús todos...para oírleG191
+- Luc_15:25hijo mayor...oyó la música y las danzasG191
+- Luc_16:2¿qué es esto que oigo acerca de ti? DaG191
+- Luc_16:14oían...todas estas cosas los fariseosG191
+- Luc_16:29a Moisés y...profetas tienen; óiganlosG191
+- Luc_16:31si no oyen a Moisés y a los profetasG191
+- Luc_18:6y dijo...Oíd lo que dijo el juez injustoG191
+- Luc_18:22oyendo esto, le dijo: Aún te falta unaG191
+- Luc_18:23él, oyendo esto, se puso muy tristeG191
+- Luc_18:26y los que oyeron esto dijeron: ¿QuiénG191
+- Luc_18:36al oir a la multitud...preguntó qué eraG191
+- Luc_19:11oyendo ellos estas cosas, prosiguióG191
+- Luc_19:48todo el pueblo estaba suspenso oyéndoleG191
+- Luc_20:16oyeron esto, dijeron: ¡Dios nos libre![[G191]]
+- Luc_20:45y oyéndole todo el pueblo, dijo a sus
+- Luc_21:9oigáis de guerras y de sediciones, no osG191
+- Luc_21:38todo el pueblo venía a él...para oírleG191
+- Luc_22:71porque nosotros mismos lo hemos oído deG191
+- Luc_23:6Pilato, oyendo decir, Galilea, preguntóG191
+- Luc_23:8había oído muchas cosas acerca de él, yG191
+- Jua_1:37le oyeron hablar los dos discípulosG191
+- Jua_1:40Andrés...uno de los dos que habían oídoG191
+- Jua_3:8y oyes su sonido; mas ni sabes de dóndeG191
+- Jua_3:29amigo del esposo, que...le oye, se gozaG191
+- Jua_3:32y lo que vio y oyó, esto testifica; yG191
+- Jua_4:1fariseos habían oído decir: Jesús hace yG191
+- Jua_4:42hemos oído, y sabemos...es el SalvadorG191
+- Jua_4:47cuando oyó que Jesús había llegado deG191
+- Jua_5:24el que oye mi palabra, y cree al que meG191
+- Jua_5:25muertos oirán...los que la oyeren viviránG191
+- Jua_5:28que están en los sepulcros oirán su vozG191
+- Jua_5:30según oigo, así juzgo; y mi juicio esG191
+- Jua_5:37nunca habéis oído su voz, ni habéis vistoG191
+- Jua_6:45todo aquel que oyó al Padre, y aprendióG191
+- Jua_6:60al oirlas...sus discípulos dijeron: DuraG191
+- Jua_6:60dura es...palabra; ¿quién la puede oír?[[G191]]
+- Jua_7:32oyeron a la gente que murmuraba de élG191
+- Jua_7:40algunos...oyendo estas palabras, decíanG191
+- Jua_7:51si primero no le oye, y sabe lo que haG191
+- Jua_8:9al oír esto, acusados por su concienciaG191
+- Jua_8:26yo, lo que he oído de él...hablo al mundoG191
+- Jua_8:38vosotros hacéis lo que habéis oído cerca
+- Jua_8:40os he hablado la verdad, la cual he oídoG191
+- Jua_8:47palabras de Dios oye; por esto no las oísG191
+- Jua_9:27os lo he dicho, y no habéis querido oírG191
+- Jua_9:27¿por qué lo queréis oir otra vez?[[G191]]
+- Jua_9:31sabemos que Dios no oye a los pecadoresG191
+- Jua_9:31si alguno es temeroso de Dios...a ése oyeG191
+- Jua_9:32no se ha oído decir que alguno abrieseG191
+- Jua_9:35oyó Jesús que le habían expulsado; yG191
+- Jua_9:40al oír esto, le dijeron: ¿Acaso nosotrosG191
+- Jua_10:3las ovejas oyen su voz; y a sus ovejasG191
+- Jua_10:8y salteadores...no los oyeron las ovejasG191
+- Jua_10:16aquéllas...debo traer, y oirán mi vozG191
+- Jua_10:20y está fuera de sí; ¿por qué le oís?[[G191]]
+- Jua_10:27ovejas oyen mi voz, y yo las conozcoG191
+- Jua_11:4oyéndolo...dijo: Esta enfermedad no esG191
+- Jua_11:6oyó, pues, que estaba enfermo, se quedóG191
+- Jua_11:20cuando oyó que Jesús venía, salió aG191
+- Jua_11:29ella, cuando lo oyó, se levantó de prisaG191
+- Jua_11:41Padre, gracias te doy por haberme oídoG191
+- Jua_11:42yo sabía que siempre me oyes; pero loG191
+- Jua_12:12día...al oir que Jesús venía a JerusalénG191
+- Jua_12:18porque había oído que él había hechoG191
+- Jua_12:29había oído la voz, decía que había sidoG191
+- Jua_12:34hemos oído de...que el Cristo permaneceG191
+- Jua_12:47que oye mis palabras, y no las guardaG191
+- Jua_14:24y la palabra que habéis oído no es míaG191
+- Jua_14:28habéis oído que yo os he dicho: Voy, yG191
+- Jua_15:15las cosas que oí de mi Padre, os lasG191
+- Jua_16:13sino que hablará todo lo que oyere, yG191
+- Jua_18:21pregunta a los que han oído, qué lesG191
+- Jua_18:37aquel que es de la verdad, oye mi voz
+- Jua_19:8Pilato oyó decir esto, tuvo más miedoG191
+- Jua_19:13oyendo esto, llevó fuera a Jesús, y seG191
+- Jua_21:7Pedro, cuando oyó que era el Señor, seG191
+- Hec_1:4la Promesa...les dijo, oísteis de miG191
+- Hec_2:6uno les oía hablar en su propia lenguaG191
+- Hec_2:8¿cómo pues, les oímos...hablar cada uno enG191
+- Hec_2:11les oímos hablar en nuestras lenguas lasG191
+- Hec_2:14esto os sea notorio, y oíd mis palabrasG1801
+- Hec_2:22varones israelitas, oíd estas palabrasG191
+- Hec_2:33derramado esto que vosotros veis y oísG191
+- Hec_2:37al oír esto, se compungieron de corazónG191
+- Hec_3:22a él oiréis en todas las cosas que osG191
+- Hec_3:23toda alma que no oiga a aquel profetaG191
+- Hec_4:4los que habían oído la palabra, creyeronG191
+- Hec_4:20no podemos dejar de decir lo que...oídoG191
+- Hec_4:24habiéndolo oído, alzaron...la voz a DiosG191
+- Hec_5:5al oír Ananías estas palabras, cayó yG191
+- Hec_5:5, Hec_5:11temor sobre todos los que lo oyeronG191
+- Hec_5:21habiendo oído esto, entraron de mañanaG191
+- Hec_5:24oyeron estas palabras el sumo sacerdoteG191
+- Hec_5:33oyendo esto, se enfurecían y queríanG191
+- Hec_6:11que le habían oído hablar...contra MoisésG191
+- Hec_6:14pues le hemos oído decir que ese JesúsG191
+- Hec_7:2hermanos y padres, oíd: El Dios de laG191
+- Hec_7:12cuando oyó Jacob...había trigo en EgiptoG191
+- Hec_7:29oír esta palabra, Moisés huyó, y vivió
+- Hec_7:34he oído su gemido, y he descendido paraG191
+- Hec_7:37profeta os levantará el Señor...oiréisG191
+- Hec_7:54oyendo estas cosas, se enfurecían en susG191
+- Hec_8:6oyendo y viendo las señales que hacíaG191
+- Hec_8:10a éste oían atentamente todos, desde eG4337
+- Hec_8:14oyeron que Samaria había recibido laG191
+- Hec_8:30oyó que leía al profeta Isaías, y dijoG191
+- Hec_9:4oyó una voz que le decía: Saulo, SauloG191
+- Hec_9:7oyendo a la...la voz, mas sin ver a nadieG191
+- Hec_9:13he oído de muchos acerca de este hombreG191
+- Hec_9:21todos los que le oían estaban atónitosG191
+- Hec_9:38los discípulos, oyendo que Pedro estabaG191
+- Hec_10:22hacerte venir...para oír tus palabrasG191
+- Hec_10:31Cornelio, tu oración ha sido oída, yG1522
+- Hec_10:33para oír todo lo que Dios te ha mandadoG191
+- Hec_10:44Espíritu Santo cayó sobre...los que oíanG191
+- Hec_10:46los oían que hablaban en lenguas, y queG191
+- Hec_11:1oyeron los apóstoles y los hermanos queG191
+- Hec_11:7y oí una voz que me decía: LevántateG191
+- Hec_11:18entonces, oídas estas cosas, callaronG191
+- Hec_13:7Sergio...deseaba oir la palabra de DiosG191
+- Hec_13:16varones...y los que teméis a Dios, oíd
+- Hec_13:44la ciudad para oir la palabra de DiosG191
+- Hec_13:48gentiles, oyendo esto, se regocijabanG191
+- Hec_14:9oyó hablar a Pablo, el cual, fijando enG191
+- Hec_14:14oyeron...Bernabé y Pablo, rasgaron susG191
+- Hec_15:7Dios escogió que los gentiles oyesen porG191
+- Hec_15:12calló, y oyeron a Bernabé y a PabloG191
+- Hec_15:13diciendo: Varones hermanos, oídmeG191
+- Hec_15:24hemos oído que algunos que han salidoG191
+- Hec_16:14Lidia, vendedora de...estaba oyendoG191
+- Hec_16:25cantaban himnos...los presos los oíanG1874
+- Hec_16:38tuvieron miedo al oir que eran romanosG191
+- Hec_17:8y alborotaron al...oyendo estas cosasG191
+- Hec_17:21cosa...sino en decir o en oir algo nuevoG191
+- Hec_17:32cuando oyeron lo de la resurrecciónG191
+- Hec_17:32ya te oiremos acerca de esto otra vezG191
+- Hec_18:8los corintios, oyendo...eran bautizadosG191
+- Hec_18:26cuando le oyeron Priscila y Aquila, leG191
+- Hec_19:2ni siquiera hemos oído si hay EspírituG191
+- Hec_19:5cuando oyeron esto, fueron bautizados enG191
+- Hec_19:10judíos y griegos, oyeron la palabra delG191
+- Hec_19:26y oís que este Pablo, no solamente enG191
+- Hec_19:28oyeron estas cosas, se llenaron de iraG191
+- Hec_21:12al oir esto, le rogamos...no subiese aG191
+- Hec_21:20cuando ellos lo oyeron, glorificaron aG191
+- Hec_21:22se reunirá...porque oirán que has venidoG191
+- Hec_22:1hermanos y padres, oíd ahora mi defensaG191
+- Hec_22:2al oír que les hablaba en lengua hebreaG191
+- Hec_22:7oí una voz que me decía: Saulo, SauloG191
+- Hec_22:14su voluntad, y oigas la voz de su bocaG191
+- Hec_22:15testigo suyo...lo que has visto y oídoG191
+- Hec_22:22le oyeron hasta esta palabra; entonces
+- Hec_22:26el centurión oyó esto, fue y dio avisoG191
+- Hec_23:16el hijo de...oyendo hablar de la celadaG191
+- Hec_23:35te oiré cuando vengan tus acusadoresG1251
+- Hec_24:4que nos oigas brevemente conforme a tuG191
+- Hec_24:22Félix, oídas estas cosas...les aplazóG191
+- Hec_24:24le oyó acerca de la fe en JesucristoG191
+- Hec_25:22yo también quisiera oír a ese hombreG191
+- Hec_25:22Festo...Y él le dijo: Mañana le oirásG191
+- Hec_26:3por lo cual te ruego que me oigas conG191
+- Hec_26:14oí una voz que me hablaba, y decía enG191
+- Hec_26:29los que hoy me oyen, fueseis hechosG191
+- Hec_27:21haberme oído, y no zarpar de Creta tanG3980
+- Hec_28:15donde, oyendo de nosotros los hermanosG191
+- Hec_28:22pero querríamos oir de ti lo que piensasG191
+- Hec_28:26vé a...De oído oiréis, y no entenderéisG191
+- Hec_28:27con los oídos oyeron pesadamente, y susG191
+- Hec_28:27y oigan con los oídos, y entiendan deG191
+- Hec_28:28es enviada esta salvación...ellos oiránG191
+- Rom_10:14¿Cómo creerán...de quien no han oído?[[G191]]
+- Rom_10:14cómo oirán sin haber quien...predique?[[G191]]
+- Rom_10:17la fe es por el oír, y el o, por la palabraG189
+- Rom_10:18pero digo: ¿No han oído? Antes bienG191
+- Rom_11:8Dios les dio...y oídos con que no oiganG191
+- Rom_15:21y los que nunca han oído...entenderánG191
+- 1Co_2:9cosas que ojo no vio, ni oído oyó, niG191
+- 1Co_5:1de cierto se oye que hay entre vosotros
+- 1Co_11:18oigo que hay entre vosotros divisionesG191
+- 1Co_14:21y ni aun así me oirán, dice el SeñorG1522
+- 2Co_6:2en tiempo aceptable te he oído, y enG1873
+- 2Co_8:18cuya alabanza en el evangelio se oye por
+- 2Co_12:4donde oyó palabras inefables que no leG191
+- 2Co_12:6piense de mí más de lo que...ve, u oyeG191
+- Gál_1:13habéis oído acerca de mi conducta enG191
+- Gál_1:23oían decir: Aquel que en otro tiempo nosG191
+- Gál_3:2, Gál_3:5por las obras de...o por el oir con fe?[[G189]]
+- Gál_4:21decidme, los...¿no habéis oído la ley?[[G191]]
+- Efe_1:13vosotros, habiendo oído la palabra deG191
+- Efe_1:15habiendo oído de vuestra fe en el SeñorG191
+- Efe_3:2si...habéis oído de la administración deG191
+- Efe_4:21si en verdad le habéis oído, y habéisG191
+- Flp_1:27oiga de vosotros que estáis firmes enG191
+- Flp_1:30conflicto que...ahora oís que hay en míG191
+- Flp_2:26porque habíais oído que había enfermadoG191
+- Flp_4:9oísteis y visteis en mí, esto haced; yG191
+- Col_1:4habiendo oído de vuestra fe en CristoG191
+- Col_1:5la esperanza...de la cual ya habéis oídoG4257
+- Col_1:6desde el día que oísteis y conocisteis laG191
+- Col_1:9desde...que lo oímos, no cesamos de orarG191
+- Col_1:23sin moveros de...evangelio que habéis oídoG191
+- 1Ts_2:13la palabra...que oísteis de nosotrosG189
+- 2Ts_3:11oímos que algunos...no trabajando enG191
+- 1Ti_4:16salvarás a ti...y a los que te oyerenG191
+- 2Ti_1:13retén...palabras que de mí oíste, enG191
+- 2Ti_2:2lo que has oído de mí...encarga a hombresG191
+- 2Ti_4:3teniendo comezón de oir, se amontonaránG189
+- 2Ti_4:17que todos los gentiles oyesen...Así fuiG191
+- Flm_1:5oigo del amor y de la fe que tienesG191
+- Heb_2:1atendamos a las cosas que hemos oídoG191
+- Heb_2:3nos fue confirmada por los que oyeronG191
+- Heb_3:7, Heb_3:15si oyereis hoy su vozG191
+- Heb_3:16los que, habiendo oído, le provocaron?[[G191]]
+- Heb_4:2pero no les aprovechó el oir la palabraG191
+- Heb_4:2ir acompañada de fe en los que la oyeronG191
+- Heb_4:7si oyereis hoy su voz, no endurezcáisG191
+- Heb_5:7fue oído a causa de su temor reverenteG1522
+- Heb_5:11cuanto os habéis hecho tardos para oírG189
+- Heb_12:19los que la oyeron rogaron que no se lesG191
+- Stg_1:19todo hombre sea pronto para oír, tardoG191
+- Stg_2:5oíd: ¿No ha elegido Dios a los pobres deG191
+- Stg_5:11habéis oído de la paciencia de Job, yG191
+- 2Pe_1:18nosotros oímos esta voz...del cicloG191
+- 2Pe_2:8viendo y oyendo los hechos inicuos de ellosG191
+- 1Jn_1:1lo que hemos oído, lo que hemos vistoG191
+- 1Jn_1:3hemos visto y oído, eso os anunciamosG191
+- 1Jn_1:5este es el mensaje que hemos oído de élG191
+- 1Jn_2:7es la palabra que habéis oído desde elG191
+- 1Jn_2:18oísteis que el anticristo viene, asíG191
+- 1Jn_2:24lo que habéis oído desde el...permanezcaG191
+- 1Jn_3:11es el mensaje que habéis oído desde elG191
+- 1Jn_4:3habéis oído que viene, y que ahora yaG191
+- 1Jn_4:5eso hablan del mundo, y el mundo los oyeG191
+- 1Jn_4:6conoce a Dios, nos oye; el que no...no nos oG191
+- 1Jn_5:14que si pedimos alguna cosa...él nos oyeG191
+- 1Jn_5:15si sabemos que él nos oye en...tenemosG191
+- 2Jn_1:6que andéis en amor, como...habéis oídoG191
+- 3Jn_1:4oir que mis hijos andan en la verdadG191
+- Rev_1:3que oyen las palabras de esta profecíaG191
+- Rev_1:10y oí detrás de mí una gran voz como deG191
+- Rev_2:7, Rev_2:11, Rev_2:17, Rev_2:29oiga lo que el Espíritu dice aG191
+- Rev_3:3acuérdate...de lo que has recibido y oídoG191
+- Rev_3:6, Rev_3:13, Rev_3:22oiga lo que el Espíritu dice a lasG191
+- Rev_3:20si alguno oye mi voz y abre la puertaG191
+- Rev_4:1y la primera voz que oí...dijo: Sube acáG191
+- Rev_5:11oí la voz de muchos ángeles alrededorG191
+- Rev_5:13oí decir: Al que está sentado en el tronoG191
+- Rev_6:1y oí a uno de los cuatro seres vivientesG191
+- Rev_6:3oí al segundo ser viviente, que decíaG191
+- Rev_6:5oí al tercer ser...que decía: Ven y miraG191
+- Rev_6:6oí una voz de en medio de los cuatro seresG191
+- Rev_6:7oí la voz del cuarto ser viviente, queG191
+- Rev_7:4y oí el número de los sellados: 144.000G191
+- Rev_8:13y oí a un ángel volar por en medio delG191
+- Rev_9:13oí una voz de entre los cuatro cuernosG191
+- Rev_9:16era doscientos millones...Yo oí su númeroG191
+- Rev_9:20cuales no pueden ver, ni oír, ni andarG191
+- Rev_10:4oí una voz...que me decía: Sella las cosasG191
+- Rev_10:8la voz que oí del cielo habló otra vezG191
+- Rev_11:12y oyeron una gran voz del cielo, queG191
+- Rev_12:10oí una gran voz en el cielo, que decíaG191
+- Rev_13:9si alguno tiene oído, oigaG191
+- Rev_14:2oí tina voz del cielo como estruendo deG191
+- Rev_14:2la voz que oí era como de arpistas queG191
+- Rev_14:13oí una voz que desde el cielo me decíaG191
+- Rev_16:1oí una...voz que decía desde el templo aG191
+- Rev_16:5y oí al ángel de las aguas, que decíaG191
+- Rev_16:7también oí a otro, que desde el altarG191
+- Rev_18:4y oí otra voz...que decía: Salid de ellaG191
+- Rev_18:22voz de arpistas...no se oirá más en tiG191
+- Rev_18:22ni ruido de molino se oirá más en tiG191
+- Rev_18:23ni voz de esposo y...se oirá más en tiG191
+- Rev_19:1oí una gran voz...que decía: ¡Aleluya![[G191]]
+- Rev_19:6y oí como la voz de una gran multitudG191
+- Rev_21:3y oí una gran voz del cielo que decíaG191
+- Rev_22:8Juan soy el que oyó y vio estas cosasG191
+- Rev_22:8después que...oído y visto, me postréG191
+- Rev_22:17el que oye, diga: Ven...Y el que tieneG191
+- Rev_22:18yo testifico a todo aquel que oye lasG191

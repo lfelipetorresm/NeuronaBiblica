@@ -1,0 +1,711 @@
+---
+tipo: concordancia
+palabra: ENTRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENTRAR
+
+- Gén_6:18entrarás en el arca tú, tus hijos, tuH935
+- Gén_6:20dos de cada especie entrarán contigoH935
+- Gén_7:1Noé: Entra tú y toda tu casa en el arcaH935
+- Gén_7:7por causa...del diluvio entró Noé al arcaH935
+- Gén_7:9de dos en dos entraron con Noé en el arcaH935
+- Gén_7:13entraron Noé, y Sem, Cam y Jafet hijosH935
+- Gén_8:9tomándola, la hizo entrar consigo en elH935
+- Gén_12:11que cuando estaba para entrar en EgiptoH935
+- Gén_12:14que cuando entró Abram en Egipto, losH935
+- Gén_19:3y fueron con él, y entraron en su casaH935
+- Gén_19:31y no queda varón...que entre a nosotrasH935
+- Gén_19:33entró la mayor, y durmió con su padreH935
+- Gén_19:34a beber vino...y entra y duerme con élH935
+- Gén_23:10, Gén_23:18los que entraban por la puerta deH935
+- Gén_31:33entró Labán en la tienda de Jacob, enH935
+- Gén_31:33Labán...y entró en la tienda de RaquelH935
+- Gén_39:11entró él un día en casa para hacer suH935
+- Gén_41:21y éstas entraban en sus entrañas, masH935
+- Gén_41:21mas no se conocía que hubiesen entradoH935
+- Gén_43:30José...entró en su cámara, y lloró allíH935
+- Gén_46:8hijos de Israel que entraron en EgiptoH935
+- Gén_46:27las personas...que entraron en EgiptoH935
+- Gén_49:6en su consejo no entre mi alma, ni miH5475
+- Éxo_1:1entraron en Egipto...cada uno entró conH935
+- Éxo_5:1Moisés y Aarón entraron a la presencia deH935
+- Éxo_6:11entra y habla a Faraón rey de EgiptoH935
+- Éxo_8:1entra a la presencia de Faraón y dileH935
+- Éxo_8:3entrarán en tu casa, en la cámara dondeH935
+- Éxo_9:1; Éxo_10:1entra a la presencia de FaraónH935
+- Éxo_12:23Jehová...no dejará entrar al heridor enH935
+- Éxo_12:25cuando entréis en la tierra que...daráH935
+- Éxo_14:16entren los...de Israel por en medio delH935
+- Éxo_14:22hijos de Israel entraron por en medioH935
+- Éxo_14:23y siguiéndolos los egipcios, entraronH935
+- Éxo_14:28ejército...que había entrado tras ellosH935
+- Éxo_15:19Faraón entró cabalgando con sus carrosH935
+- Éxo_21:3entró solo, solo saldrá; si tenía mujerH935
+- Éxo_23:27consternaré a todo pueblo donde entresH935
+- Éxo_24:18entró Moisés en medio...nube, y subió alH935
+- Éxo_28:29llevará...cuando entre en el santuarioH935
+- Éxo_28:30Aarón cuando entre delante de JehováH935
+- Éxo_28:35se oirá su sonido cuando él entre en elH935
+- Éxo_28:43hijos cuando entren en el tabernáculoH935
+- Éxo_30:20entren en el tabernáculo...se lavaránH935
+- Éxo_33:8en pos de Moisés, hasta que él entrabaH935
+- Éxo_33:9cuando Moisés entraba en el tabernáculoH935
+- Éxo_34:12de hacer alianza...donde has de entrarH935
+- Éxo_34:35hasta que entraba a hablar con DiosH935
+- Éxo_40:32entraban en el tabernáculo...se lavabanH935
+- Éxo_40:35no podía Moisés entrar en el tabernáculoH935
+- Lev_9:23entraron Moisés y...en el tabernáculoH935
+- Lev_10:9no beberéis vino...cuando entréis en elH935
+- Lev_14:8entrará...campamento, y morará fuera deH935
+- Lev_14:34cuando hayáis entrado en la tierra deH935
+- Lev_14:36desocupar la casa antes que entre aH935
+- Lev_14:35casa...el sacerdote entrará a examinarlaH935
+- Lev_14:44sacerdote entrará y la examinará; y siH935
+- Lev_14:46cualquiera que entrare...será inmundoH935
+- Lev_14:48si entrare el sacerdote y la examinareH935
+- Lev_16:2no en todo tiempo entre en el santuarioH935
+- Lev_16:3con esto entrará Aarón en el santuarioH935
+- Lev_16:17cuando él entró a hacer la expiaciónH935
+- Lev_16:23había vestido...entrar en el santuarioH935
+- Lev_16:26agua...después entrará en el campamentoH935
+- Lev_16:28y después podrá entrar en el campamentoH935
+- Lev_19:23cuando entréis en la tierra, y plantéisH935
+- Lev_21:11ni entrará donde haya...persona muertaH935
+- Lev_23:10; Lev_25:2cuando hayáis entrado...la tierraH935
+- Lev_26:41los habré hecho entrar en la tierra deH935
+- Núm_4:3todos los que entran en compañía paraH935
+- Núm_4:20no entrarán para ver cuando cubran lasH935
+- Núm_4:23, Núm_4:30, Núm_4:35, Núm_4:39, Núm_4:43todos los que entran enH935
+- Núm_4:47todos los que entraban para ministrarH935
+- Núm_5:22y estas aguas...entren en tus entradasH935
+- Núm_5:24, Núm_5:27agua...entrarán en ella para amargarH935
+- Núm_7:89cuando entraba Moisés...oía la voz que leH935
+- Núm_8:24entrarán a ejercer su ministerio en elH935
+- Núm_13:21de Zin hasta Rehob, entrando en HamatH935
+- Núm_14:24yo le entraré en la tierra donde entróH935
+- Núm_14:30no entraréis en la tierra, por la cualH935
+- Núm_15:2, Núm_15:18cuando hayáis entrado en la tierraH935
+- Núm_19:7y después entraréis en el campamento; yH935
+- Núm_20:24Aarón...no entrará en la tierra que yoH935
+- Núm_27:17y que entre delante de ellos, que losH935
+- Núm_27:21por el dicho de él entrarán él y todosH935
+- Núm_31:24y después entraréis en el campamentoH935
+- Núm_33:51pasado el Jordán entrando en la tierraH776
+- Núm_34:2diles: Cuando hayáis entrado en...CanaánH935
+- Núm_35:12no morirá...hasta que entró en juicioH5975
+- Deu_1:8entrad y poseed la tierra que JehováH935
+- Deu_1:37se airó...y me dijo: Tampoco tú entrarásH935
+- Deu_1:38Josué hijo de Nun...él entrará...anímaleH935
+- Deu_1:39vuestros hijos que...ellos entrarán alláH935
+- Deu_2:24comienza a...y entra en guerra con élH1624
+- Deu_4:1y entréis y poseáis la tierra que JehováH935
+- Deu_4:5la tierra en la cual entráis para tomarH935
+- Deu_4:21ni entrarla en la buena tierra que...daH935
+- Deu_6:18y entres y poseas la buena tierra queH935
+- Deu_7:1tierra en la cual entrarás para tomarlaH935
+- Deu_8:1entréis y poseéis la tierra que JehováH935
+- Deu_9:1para entrar a desposeer a naciones másH935
+- Deu_9:5ni por la rectitud de...entras a poseer laH935
+- Deu_9:7de Egipto hasta que entrasteis en...lugarH935
+- Deu_10:11que entren y posean la tierra que juréH935
+- Deu_11:8y entreis y poseais la tierra a la cualH935
+- Deu_11:10la tierra a la cual entras...no es comoH935
+- Deu_12:9no habeis entrado al reposo y...heredadH935
+- Deu_17:14hayas entrado en la tierra que JehováH935
+- Deu_18:9cuando entres a la tierra que Jehová tuH935
+- Deu_23:1-2, Deu_23:3no entrara en la congregacion deH935
+- Deu_23:2no entrara bastardo en la congregacionH935
+- Deu_23:3no entrara amonita ni moabita en laH935
+- Deu_23:8los hijos...entrarán en la congregación de JehováH935
+- Deu_23:10saldrá fuera del campamento, y no entrará en él
+- Deu_23:11noche...podra entrar en el campamentoH935
+- Deu_23:24cuando entres en la viña de tu projimoH935
+- Deu_23:25cuando entres en la mies de tu projimoH935
+- Deu_24:10no entrarás en su casa...tomarle prendaH935
+- Deu_26:1cuando hayas entrado en la tierra queH935
+- Deu_26:3declaro...que he entrado en la tierra queH935
+- Deu_27:3hayas pasado para entrar en la tierraH935
+- Deu_28:6bendito serás en tu entrar...en tu salirH935
+- Deu_28:19maldito serás en tu entrar, y...tu salirH935
+- Deu_28:21consuma de la tierra a la cual entrasH935
+- Deu_28:63de sobre la tierra a la cual entráisH935
+- Deu_29:12para que entres en el pacto de JehováH5674
+- Deu_30:16la tierra a la cual entras para tomarH935
+- Deu_30:18el Jordán, para entrar en posesión deH935
+- Deu_31:2no puedo más salir ni entrar; además deH935
+- Deu_31:7tú entrarás con este pueblo a la tierraH935
+- Deu_32:52no entraréis allá, a la tierra que doyH935
+- Jos_1:11días pasaréis el Jordán para entrarH935
+- Jos_1:15la tierra...entraréis en posesión de ellaH7725
+- Jos_2:1y entraron en casa de una ramera que seH935
+- Jos_2:3a los hombres que...han entrado a tu casaH935
+- Jos_2:18cuando...entremos en la tierra...atarásH935
+- Jos_3:8hayáis entrado hasta el borde del aguaH935
+- Jos_3:15llevaban el arca entraron en el JordánH935
+- Jos_6:1estaba cerrada...nadie entraba ni salíaH935
+- Jos_6:19el oro...entren en el tesoro de JehováH935
+- Jos_6:22entrad en casa de la mujer ramera, yH935
+- Jos_6:23los espías entraron y sacaron a RahabH935
+- Jos_10:19sin dejarles entrar en sus ciudadesH935
+- Jos_13:1siendo Josué ya viejo, entrado en años, JehováH935
+- Jos_14:11es mi fuerza...para salir y para entrarH935
+- Jos_23:14estoy para entrar hoy por el camino deH1980
+- Jue_3:22la empuñadura entró también tras laH935
+- Jue_3:27cuando había entrado tocó el cuerno enH935
+- Jue_4:22él entró donde ella estaba, y he aquíH935
+- Jue_6:19y entrando Gedeón, preparó un cabritoH935
+- Jue_8:15entrando a los hombres de Sucot, dijoH935
+- Jue_9:27y entrando en el templo de sus diosesH935
+- Jue_11:18no entró en territorio de Moab; porqueH935
+- Jue_15:1entraré a mi mujer en el aposento. MasH935
+- Jue_15:1mas el padre de ella no lo dejó entrarH935
+- Jue_18:17entraron...y tomaron la imagen de tallaH935
+- Jue_18:18entrando pues...en la casa de MicaíaH935
+- Jue_19:3le hizo entrar en la casa de su padreH935
+- Jue_19:15para entrar a pasar allí la noche enH935
+- Jue_19:15entrando se sentaron en la plaza deH935
+- Jue_19:22saca al hombre que ha entrado en tuH935
+- Jue_19:23que este hombre ha entrado en mi casaH935
+- Jue_19:25y entraron a ella, y abusaron de ellaH3045
+- Rut_1:19habiendo entrado en Belén...la ciudadH935
+- Rut_2:7entró pues y está desde por la mañanaH935
+- Rut_4:11Jehová haga a la mujer que entra en tuH935
+- 1Sa_5:5los que entran en el templo de DagónH935
+- 1Sa_7:13y no volvieron más a entrar en...IsraelH935
+- 1Sa_9:13cuando entréis...le encontraréis luegoH935
+- 1Sa_10:5cuando entres...en la ciudad encontrarásH935
+- 1Sa_11:11entraron en medio del campamento a laH935
+- 1Sa_12:8cuando Jacob hubo entrado en Egipto, yH935
+- 1Sa_14:26entró pues el pueblo en el bosque, yH935
+- 1Sa_16:12envió pues, por él, y le hizo entrarH935
+- 1Sa_18:13y salía y entraba delante del puebloH935
+- 1Sa_18:16él salía y entraba delante de ellosH935
+- 1Sa_19:16mensajeros entraron he aquí la estatuaH935
+- 1Sa_20:8ya que has hecho entrar a tu siervo enH935
+- 1Sa_20:42se fue y Jonatán entró en la ciudadH935
+- 1Sa_21:15¿había de entrar éste en mi casa?[[H935]]
+- 1Sa_23:7se ha encerrado entrando en ciudad conH935
+- 1Sa_24:3entró Saúl en ella para cubrir sus piesH935
+- 1Sa_26:15uno del pueblo ha entrado a matar a tuH935
+- 2Sa_4:5y entraron en el mayor calor del díaH935
+- 2Sa_4:7cuando entraron...la casa, Is-boset dormíaH935
+- 2Sa_5:6tú no entrarás acá, pues aun los ciegosH935
+- 2Sa_5:6queriendo decir: David no puede entrarH935
+- 2Sa_5:8se dijo: Ciego ni cojo no entrará en laH935
+- 2Sa_7:18entró el rey David y se puso delante de Jehová,
+- 2Sa_11:11¿y había yo de entrar en mi casa paraH935
+- 2Sa_12:16y entró y pasó la noche acostado enH935
+- 2Sa_12:20David se...y entró a la casa de JehováH935
+- 2Sa_14:3entrarás al rey, y le hablarás de estaH935
+- 2Sa_14:4entró...aquella mujer de Tecoa al rey, y
+- 2Sa_15:37vino Husai...Absalón entró en JerusalénH935
+- 2Sa_16:15entraron en Jerusalén, y...él AhitofelH935
+- 2Sa_18:9y el mulo entró por debajo de las ramasH935
+- 2Sa_19:3entró...como suele entrar a escondidas elH935
+- 1Re_1:2abrigue...y entrará en calor mi señor
+- 1Re_1:13entra al rey David, y dile: Rey señorH935
+- 1Re_1:14entraré tras ti y reafirmaré tus razonesH935
+- 1Re_1:15Betsabé entró a la cámara del rey; y elH935
+- 1Re_1:23cuando entró...se postró delante del reyH935
+- 1Re_1:28y ella entró a la presencia del rey, yH935
+- 1Re_1:32y ellos entraron a la presencia del reyH935
+- 1Re_1:42al cual dijo Adonías: Entra porque túH935
+- 1Re_2:30entró Benaía al tabernáculo de JehováH935
+- 1Re_3:7soy joven, y no sé como entrar ni salirH935
+- 1Re_7:31la boca...entraba un codo en el remate
+- 1Re_8:65desde donde entran en Hamat hasta el ríoH935
+- 1Re_13:22no entrará tu cuerpo en el sepulcro deH935
+- 1Re_14:6Ahías oyó el sonido de...al entrar ellaH935
+- 1Re_14:6Ahías...dijo Entra, mujer de JeroboamH935
+- 1Re_14:17entrando...por el umbral...el niño murioH935
+- 1Re_14:28cuando el rey entraba en la casa de Jehová
+- 1Re_15:17para no dejar...salir ni entrar a AsaH935
+- 1Re_17:12entrar y prepararlo para mí y para miH935
+- 1Re_22:30entraré en la batalla...y entró en laH935
+- 2Re_4:4entra...y enciérrate tú y tus hijosH935
+- 2Re_4:33entrando él...cerró la puerta tras ambosH935
+- 2Re_4:34él, y el cuerpo del niño entró en calor
+- 2Re_4:36entrando ella, él le dijo: Toma tu hijoH935
+- 2Re_4:37asi que ella entró, se echó a sus piesH935
+- 2Re_5:4entrando Naamán a su señor, le relatóH935
+- 2Re_5:18mi señor...entrare en el templo de RimónH935
+- 2Re_5:25él entró, y se puso delante de su señorH935
+- 2Re_7:4si tratáremos de entrar en la ciudad, porH935
+- 2Re_7:8entraron en una tienda y comieron yH935
+- 2Re_7:8y vueltos, entraron en otra tienda, y deH935
+- 2Re_7:9entremos y demos la nueva en casa del reyH935
+- 2Re_7:12los tomaremos vivos, y entraremos en laH935
+- 2Re_9:2y entrando, haz que se levante de entreH935
+- 2Re_9:5cuando él entró, he aquí los príncipes delH935
+- 2Re_9:6se levantó, y entró en casa; y el otroH935
+- 2Re_9:31cuando entraba Jehú por la puerta, ellaH935
+- 2Re_9:34entró...después que comió y bebió, dijoH935
+- 2Re_10:21y entraron en el templo de Baal, y elH935
+- 2Re_10:23entró Jehú con Jonadab...en el temploH935
+- 2Re_10:24ellos entraron para hacer sacrificiosH935
+- 2Re_10:25entrad, y matadlos...no escape ningunoH935
+- 2Re_11:8y cualquiera que entrare en las filasH935
+- 2Re_11:8y estaréis con el rey...y cuando entreH935
+- 2Re_11:9los que entraban el día de reposo y losH935
+- 2Re_11:13entró al pueblo en el templo de JehováH935
+- 2Re_11:16por donde entran los de a caballo a laH3996
+- 2Re_11:18el pueblo...entró en el templo de BaalH935
+- 2Re_12:9así que se entra en el templo de JehováH935
+- 2Re_13:20entrado el año, vinieron...moabitas a laH935
+- 2Re_18:21entrará por la mano y la traspasaráH935
+- 2Re_19:1cilicio, y entró en la casa de JehováH935
+- 2Re_19:32de Asiria: No entrará en esta ciudadH935
+- 2Re_19:33volverá, y no entrará en esta ciudadH935
+- 1Cr_2:21entró Hezrón a la hija de MaquirH935
+- 1Cr_9:2los primeros moradores que entraron en
+- 1Cr_11:5Jebús dijeron a David: No entrarás acáH935
+- 1Cr_17:16entró el rey David y estuvo delante deH935
+- 1Cr_19:15Amón...huyeron...entraron en la ciudadH935
+- 1Cr_24:19entrasen en la casa de Jehová, segúnH935
+- 1Cr_25:8entrando el pequeño con el grande, lo
+- 1Cr_27:1de las divisiones que entraban y salíanH935
+- 2Cr_7:2no podían entrar los sacerdotes enH935
+- 2Cr_8:11donde ha entrado el arca...son sagradasH935
+- 2Cr_15:5no hubo paz, ni para el que entraba niH935
+- 2Cr_16:1no dejar salir ni entrar a ninguno alH935
+- 2Cr_18:24día, cuando entres de cámara en cámaraH935
+- 2Cr_18:29me disfrazaré para entrar en la batallaH935
+- 2Cr_18:29se disfrazó el...y entró en la batallaH935
+- 2Cr_23:4los que entran el día de reposo, estaránH935
+- 2Cr_23:6ninguno entre en la casa de Jehová, sinoH935
+- 2Cr_23:6entrarán, porque están consagradosH935
+- 2Cr_23:7cualquiera que entre...casa, que mueraH935
+- 2Cr_23:7con el rey cuando entre y cuando salgaH935
+- 2Cr_23:8los que entraban el día de reposo, y losH935
+- 2Cr_23:17entró todo el pueblo en el templo deH935
+- 2Cr_23:19por ninguna vía entrase ningún inmundoH935
+- 2Cr_26:16entrando en el templo de Jehová paraH935
+- 2Cr_26:17y entró tras él el sacerdote AzaríasH935
+- 2Cr_27:2salvo que no entró en el santuario deH935
+- 2Cr_28:9cuando entraba en Samaria, y les dijoH935
+- 2Cr_29:15entraron, conforme al mandamiento delH935
+- 2Cr_29:16entrando los sacerdotes dentro de laH935
+- 2Cr_31:16los que entraban en la casa de JehováH935
+- 2Cr_32:21entrando en el templo de su dios, allíH935
+- Esd_9:11tierra a la cual entráis para poseerlaH935
+- Neh_2:15entré por la puerta del Valle, y meH935
+- Neh_4:11no sepan, ni vean, hasta que entremosH935
+- Neh_6:11¿y quién...entraría al templo...No entraréH935
+- Neh_9:15dijiste que entrasen a poseer la tierraH935
+- Neh_9:23dicho...que habían de entrar a poseerlaH935
+- Neh_13:1los amonitas y moabitas no debían entrarH935
+- Est_4:11entra en el patio interior para verH935
+- Est_4:16y entonces entraré a ver al rey, aunqueH935
+- Est_5:1Ester...entró en el patio interior de laH5975
+- Est_5:14y entra alegre con el rey al banqueteH935
+- Est_6:5he aquí Amán...Y el rey dijo: Que entreH935
+- Est_6:6entró...Amán, y el rey le dijo: ¿Qué seH935
+- Job_13:16no entrará en su presencia el impíoH935
+- Job_13:17mi declaración entre en vuestros oídos
+- Job_37:8las bestias entran en su escondrijo, yH935
+- Job_38:16¿has entrado tú hasta las fuentes delH935
+- Job_38:22¿has entrado tú en los tesoros de laH935
+- Job_41:16se junta...viento no entra entre ellosH935
+- Sal_5:7por...misericordia entraré en tu casaH935
+- Sal_24:7, Sal_24:9alzaos...y entrará el Rey de gloriaH935
+- Sal_26:4hipócritas, ni entré con los que andanH935
+- Sal_37:15su espada entrará en su mismo corazónH935
+- Sal_43:4entraré al altar de Dios, al Dios de miH935
+- Sal_45:15gozo; entrarán en el palacio del reyH935
+- Sal_49:19entrará en la generación de sus padresH935
+- Sal_66:13entraré en tu casa con holocaustos; teH935
+- Sal_69:1las aguas han entrado hasta el almaH935
+- Sal_69:27su maldad, y no entren en tu justiciaH935
+- Sal_73:17entrando en...comprendí el fin de ellosH935
+- Sal_83:3entrado en consejo contra tus protegidos
+- Sal_95:11juré en...que no entrarían en mi reposoH935
+- Sal_100:4entrad por sus...con acción de graciasH935
+- Sal_105:23entró Israel en Egipto, y Jacob moróH935
+- Sal_109:18entró como agua en sus entrañas, yH935
+- Sal_118:19entraré por ellas, alabaré a JAHH935
+- Sal_118:20puerta...por ella entrarán los justosH935
+- Sal_132:3no entraré en la morada de mi casa, niH935
+- Sal_132:7entraremos en su tabernáculo...estradoH935
+- Sal_143:2y no entres en juicio con tu siervoH935
+- Pro_2:10la sabiduría entrare en tu corazónH935
+- Pro_4:14no entres por la vereda de los impíosH935
+- Pro_8:5y vosotros, necios, entrad en cordura
+- Pro_11:8el justo...el impío entra en lugar suyoH935
+- Pro_23:10ni entres en la heredad de...huérfanosH935
+- Pro_23:31cuando resplandece...se entra suavementeH1980
+- Pro_25:8no entres apresuradamente en pleito, noH3318
+- Cnt_7:9el buen vino, que se entra a mi amadoH1980
+- Isa_13:2que entren por puertas de príncipesH935
+- Isa_19:1que Jehová monta...y entrará en EgiptoH935
+- Isa_19:23asirios entrarán en Egipto, y egipciosH935
+- Isa_22:15vé, entra a este tesorero, a Sebna elH935
+- Isa_23:1hasta no quedar casa, ni a donde entrarH935
+- Isa_24:10se ha cerrado, para que no entre nadieH935
+- Isa_26:2las puertas, y entrará la gente justaH935
+- Isa_26:20anda...entra en tus aposentos, cierraH935
+- Isa_36:6le entrará por la mano, y la atravesaráH935
+- Isa_37:33no entrará en esta ciudad, ni arrojaráH935
+- Isa_37:34volverá, y no entrará en esta ciudadH935
+- Isa_41:3por donde sus pies nunca habían entradoH935
+- Isa_43:26entremos en juicio juntamente; hablaH8199
+- Isa_45:21proclamad...y entren todos en consulta
+- Isa_47:5entra en tinieblas, hija de los caldeosH935
+- Isa_57:2entrará en la paz; descansarán en susH935
+- Jer_2:7entrasteis y contaminasteis mi tierraH935
+- Jer_2:35he aquí yo entraré en juicio contigoH8199
+- Jer_4:5entrémonos en las ciudades fortificadasH935
+- Jer_4:29entraron en...espesuras de los bosquesH935
+- Jer_7:2oíd...los que entráis por estas puertasH935
+- Jer_8:14entremos en las ciudades fortificadasH935
+- Jer_9:21muerte...ha entrado en nuestros palaciosH935
+- Jer_14:18y si entro en la ciudad, he aquí enfermosH935
+- Jer_16:5no entres en casa de luto, ni vayas aH935
+- Jer_16:8asimismo no entres en casa de banqueteH935
+- Jer_17:19ponte a la puerta...por la cual entranH935
+- Jer_17:20los moradores de Jerusalén que entráisH935
+- Jer_17:25entrarán...las puertas de esta ciudadH935
+- Jer_20:6entrarás en Babilonia, y allí morirásH935
+- Jer_21:13y quién entrará en nuestras moradas?[[H935]]
+- Jer_22:2tu pueblo que entra por estas puertasH935
+- Jer_22:4los reyes...entrarán montados en carrosH935
+- Jer_28:4a todos los...que entraron en BabiloniaH935
+- Jer_32:23y entraron, y la disfrutaron; pero noH935
+- Jer_34:3tus ojos verán...y en Babilonia entrarásH935
+- Jer_36:5se me ha prohibido entrar en la casa deH935
+- Jer_36:6entra tú, pues, y lee de este rollo queH935
+- Jer_36:20y entraron a donde estaba el rey, alH935
+- Jer_37:4Jeremías entraba y salía en medio delH935
+- Jer_37:16entró, pues, Jeremías en la casa de laH935
+- Jer_38:11entró a la casa del rey debajo de laH935
+- Jer_39:3y entraron todos los príncipes del reyH935
+- Jer_42:14no, sino que entraremos en la tierraH935
+- Jer_42:15para entrar en Egipto, y entrareis paraH935
+- Jer_42:17volvieren sus rostros para entrar enH935
+- Jer_42:18se derramará mi ira...cuando entrareisH935
+- Jer_42:22el lugar donde deseasteis entrar paraH935
+- Jer_43:7y entraron en tierra de Egipto, porqueH935
+- Jer_44:8tierra de Egipto, adonde habéis entradoH935
+- Jer_44:14del resto de los de Judá que entraronH935
+- Jer_44:28que ha entrado en Egipto a morar allíH935
+- Lam_1:10ha visto entrar en su santuario a lasH935
+- Lam_1:10de las cuales mandaste que no entrasenH935
+- Lam_3:13hizo entrar en mis entrañas las saetasH935
+- Lam_4:12que el enemigo...entrara por las puertasH935
+- Eze_2:2entró el Espíritu en mí y me afirmóH935
+- Eze_3:4vé y entra a la casa de Israel, y hablaH3212
+- Eze_3:11vé y entra a los cautivos, a los hijosH3212
+- Eze_3:24entró el Espíritu en mí y me afirmóH935
+- Eze_3:24entra, y enciérrate dentro de tu casaH935
+- Eze_4:14nunca en mi boca entró carne inmundaH935
+- Eze_7:22entrarán en él invasores...profanaránH935
+- Eze_8:9entra, y ve las malvadas abominacionesH935
+- Eze_8:10entré...y miré; y he aquí toda forma deH935
+- Eze_9:2entrados, se pararon junto al altar deH935
+- Eze_10:2entra en medio de...Y entró a vista míaH935
+- Eze_10:3mano derecha...cuando este varón entróH935
+- Eze_10:6que...él entró y se paró entre las ruedasH935
+- Eze_16:8y entré en pacto contigo, dice JehováH935
+- Eze_17:20allí entraré en juicio con él por suH8199
+- Eze_20:37haré entrar en los vínculos del pactoH935
+- Eze_20:38mas a la tierra de Israel no entraránH935
+- Eze_23:39entraban en mi santuario el mismo díaH935
+- Eze_26:10cuando entre por tus puertas como porH935
+- Eze_37:5yo hago entrar espíritu en vosotros, yH935
+- Eze_37:10y entró espíritu en ellos, y vivieronH935
+- Eze_41:6entraban modillones en la pared de laH935
+- Eze_42:9entrar en él desde el atrio exteriorH935
+- Eze_42:12sur...para quien entraba en las cámarasH935
+- Eze_42:14los sacerdotes entren, no saldrán delH935
+- Eze_43:4y la gloria de Jehová entró en la casaH935
+- Eze_44:2ni entrará...hombre, porque Jehová DiosH935
+- Eze_44:2Jehová Dios de Israel entró por ellaH935
+- Eze_44:3por el vestíbulo de la puerta entraráH935
+- Eze_44:9ningún hijo de extranjero...entrará enH935
+- Eze_44:16ellos entrarán en mi santuario, y seH935
+- Eze_44:17cuando entren...las puertas del atrioH935
+- Eze_44:21ninguno...beberá vino...haya de entrarH935
+- Eze_44:27día que entre al santuario, al atrioH935
+- Eze_46:2el príncipe entrará por el camino delH935
+- Eze_46:8cuando...entrare, entrará por el caminoH935
+- Eze_46:9pueblo de la tierra entrare delante deH935
+- Eze_46:9el que entrare por la puerta del norteH935
+- Eze_46:9y el que entrare por la puerta del surH935
+- Eze_46:9no volverá por...donde entró, sino queH935
+- Eze_46:10cuando...entraren, entrará en medio deH935
+- Eze_47:1hizo volver luego a la entrada de la casaH6607
+- Eze_47:8y entrarán en el mar; y entradas en elH935
+- Eze_47:9dondequiera que entraren estos dos ríosH935
+- Eze_47:9por haber entrado allá estas aguas, yH935
+- Eze_47:9vivirá todo lo que entrare en este ríoH935
+- Dan_2:16y Daniel entró y pidió al rey que leH5954
+- Dan_4:8hasta que entró delante de mí DanielH5954
+- Dan_5:10la reina...entró a la sala del banqueteH5954
+- Dan_6:10entró en su casa, y abiertas...ventanasH5954
+- Dan_10:3ni entró en mi boca carne ni vino, niH935
+- Dan_11:7entrará en la fortaleza, y hará en ellosH935
+- Dan_11:9así entrará en el reino el rey del surH935
+- Dan_11:24entrará y hará lo que no hicieron susH935
+- Dan_11:40y entrará por las tierras, e inundaráH935
+- Dan_11:41entrará a la tierra gloriosa, y muchasH935
+- Ose_4:15y no entréis en Gilgal, ni subáis aH935
+- Ose_7:1entra el ladrón, y el salteador despojaH935
+- Ose_9:4ese pan no entrará en la casa de JehováH935
+- Ose_11:9Dios soy, y...y no entraré en la ciudadH935
+- Joe_2:9entrarán por las ventanas a manera deH935
+- Joe_3:2entraré en juicio con ellas a causa deH8199
+- Amó_2:10que entraseis en posesión de la tierra
+- Amó_5:5y no busquéis a Bet-el, ni entréis enH935
+- Amó_5:19o como si entrare en casa y apoyare suH935
+- Abd_1:5si entraran a ti vendimiadores, ¿noH935
+- Abd_1:11y extraños entraban por sus puertas, yH935
+- Abd_1:13no debiste haber entrado por la puerta deH935
+- Jon_1:3entró...para irse con ellos a TarsisH3381
+- Jon_3:4y comenzó Jonás a entrar por la ciudadH935
+- Nah_3:14entra en el lodo...refuerza el hornoH935
+- Hab_3:16pudrición entró en mis huesos, yH935
+- Zac_6:10irás...y entrarás en casa de JosíasH935
+- Zac_8:10ni hubo paz...ni para el que entraba, aH935
+- Mat_2:11entrar...vieron al niño con su madreG2064
+- Mat_5:20no entraréis en el reino de los cielosG1525
+- Mat_6:6tú, cuando ores, entra en tu aposento, yG1525
+- Mat_7:13entrad por la puerta estrecha; porqueG1525
+- Mat_7:13y muchos son los que entran por ellaG1525
+- Mat_7:21no todo el...entrará en el reino de losG1525
+- Mat_8:5entrando Jesús en Capernaum, vino a élG1525
+- Mat_8:8no soy digno de que entres bajo mi techoG1525
+- Mat_8:23entrando él en la barca, sus discípulosG1684
+- Mat_9:1entrando Jesús en la barca, pasó al otroG1684
+- Mat_9:23al entrar Jesús en la casa del principalG2064
+- Mat_9:25entró, y tomó de la mano a la niña, yG1525
+- Mat_10:5y en ciudad de samaritanos no entréisG1525
+- Mat_10:11donde entréis, informaos quién en ellaG1525
+- Mat_10:12y al entrar en la casa, saludadlaG1525
+- Mat_12:4cómo entró en la casa de Dios, y comióG1525
+- Mat_12:29¿cómo puede alguno entrar en la casaG1525
+- Mat_12:45y entrados, moran allí; y el postrerG1525
+- Mat_13:2y entrando él en la barca, se sentó, yG1684
+- Mat_13:36entró Jesús en la casa; y acercándoseG2064
+- Mat_14:22Jesús hizo a sus discípulos entrar enG1684
+- Mat_15:11no lo que entra en la boca contamina alG1525
+- Mat_15:17que todo lo que entra en la boca va alG1531
+- Mat_15:39entró en la barca, y vino a la regiónG1684
+- Mat_17:25y al entrar él en casa, Jesús le hablóG1525
+- Mat_18:3no entraréis en el reino de los cielosG1525
+- Mat_18:8mejor te es entrar en la vida cojo oG1525
+- Mat_18:9mejor te es entrar con un solo ojo enG1525
+- Mat_19:17si quieres entrar en la vida, guardaG1525
+- Mat_19:23que difícilmente entrará un rico en elG1525
+- Mat_19:24que entrar un rico en el reino de DiosG1525
+- Mat_21:10cuando entró él en Jerusalén, toda laG1525
+- Mat_21:12y entró Jesús en el templo de Dios, yG1525
+- Mat_22:11entró el rey para ver a los convidadosG1525
+- Mat_22:12¿cómo entraste...sin estar vestido deG1525
+- Mat_23:13cerráis el reino...ni entráis vosotrosG1525
+- Mat_23:13ni dejáis entrar a los que...entrandoG1525
+- Mat_24:38hasta el día en que...entró en el arcaG1525
+- Mat_25:10las que estaban preparadas entraron conG1525
+- Mat_25:21, Mat_25:23pondré; entra en el gozo de tu señorG1525
+- Mat_26:41velad y orad, para que no entréis enG1525
+- Mat_26:58entrando, se sentó con los alguacilesG1525
+- Mat_27:1entraron en consejo contra Jesús, paraG2983
+- Mar_1:21entraron en Capernaum; y los días deG1531
+- Mar_1:21días...entrando en la sinagoga, enseñabaG1525
+- Mar_1:45ya Jesús no podía entrar...en la ciudadG1525
+- Mar_2:1entró Jesús otra vez en Capernaum...díasG1525
+- Mar_2:26cómo entró en la casa de Dios, siendoG1525
+- Mar_3:1entró Jesús en la sinagoga; y había allíG1525
+- Mar_3:27ninguno puede entrar en la casa de unG1525
+- Mar_4:1entrando en una barca, se sentó en ellaG1525
+- Mar_4:19entran y ahogan la palabra, y se haceG1531
+- Mar_5:12envíanos a los cerdos...que entremos enG1525
+- Mar_5:13entraron en los cerdos, los cuales eranG1525
+- Mar_5:18al entrar él en la barca, el que habíaG1684
+- Mar_5:39entrando...dijo: ¿Por qué alborotáis yG1525
+- Mar_5:40tomó al...y entró donde estaba la niñaG1531
+- Mar_6:10dijo: Dondequiera que entréis en una casaG1525
+- Mar_6:22entrando la hija de Herodías, danzó, yG1525
+- Mar_6:25ella entró...al rey, y pidió diciendoG1525
+- Mar_6:45entrar en la barca e ir delante de élG1684
+- Mar_6:56y dondequiera que entraba, en aldeasG1525
+- Mar_7:15que entre en él, que le pueda contaminarG1531
+- Mar_7:17cuando...entró en casa, le preguntaronG1525
+- Mar_7:18lo de fuera que entra en el hombre, noG1531
+- Mar_7:19porque no entra en su corazón, sino enG1531
+- Mar_7:24y entrando en una casa, no quiso queG1525
+- Mar_8:10entrando en la barca...vino a la regiónG1684
+- Mar_8:13volvió a entrar en la barca, y se fueG1684
+- Mar_8:26no entres en la aldea, ni lo digas aG1525
+- Mar_9:25yo te mando, sal de él, y no entres másG1525
+- Mar_9:28cuando él entró en casa, sus discípulosG1525
+- Mar_9:43mejor te es entrar en la vida manco, queG1525
+- Mar_9:45mejor te es entrar a la vida cojo, queG1525
+- Mar_9:47mejor te es entrar en el reino de DiosG1525
+- Mar_10:15no reciba el...como un niño, no entraráG1525
+- Mar_10:23dijo...¡Cuán difícilmente entrarán en elG1525
+- Mar_10:24¡cuán difícil les es entrar en el reinoG1525
+- Mar_10:25que entrar un rico en el reino de DiosG1525
+- Mar_11:2luego que entréis en ella, hallaréis unG1531
+- Mar_11:11y entró Jesús en Jerusalén, y en elG1525
+- Mar_11:15entrando Jesús en el templo, comenzó aG1525
+- Mar_13:15ni entre para tomar algo de su casaG1525
+- Mar_14:14y donde entrare, decid al señor de laG1525
+- Mar_14:16entraron en la ciudad, y hallaron comoG2064
+- Mar_14:38orad, para que no entréis en tentaciónG1525
+- Mar_15:43José...vino y entró osadamente a PilatoG1525
+- Mar_16:5cuando entraron en el sepulcro, vieronG1525
+- Luc_1:9el incienso, entrando en el santuarioG1525
+- Luc_1:28entrando el ángel en donde ella estabaG1525
+- Luc_1:40entró en casa de Zacarías, y saludó aG1525
+- Luc_4:16el día de reposo entró en la sinagogaG1525
+- Luc_4:38Jesús...salió...y entró en casa de SimónG1525
+- Luc_5:3entrando en una de aquellas barcas, laG1684
+- Luc_6:4cómo entró en la casa de Dios, y tomó losG1525
+- Luc_6:6que él entró en la sinagoga y enseñabaG1525
+- Luc_7:1que hubo terminado...entró en CapernaumG1525
+- Luc_7:6pues no soy digno de que entres bajo miG1525
+- Luc_7:36y habiendo entrado en casa del fariseoG1525
+- Luc_7:44entré en tu casa, y no me diste aguaG1525
+- Luc_7:45desde que entré, no ha cesado de besarG1525
+- Luc_8:16la pone...que los que entran vean la luzG1531
+- Luc_8:22entró en una barca con sus discípulosG1684
+- Luc_8:30muchos demonios habían entrado en élG1525
+- Luc_8:32rogaron que los dejase entrar en ellosG1525
+- Luc_8:33y los demonios...entraron en los cerdosG1525
+- Luc_8:37Jesús, entrando en la barca, se volvióG1684
+- Luc_8:41Jairo...le rogaba que entrase en su casaG1525
+- Luc_8:51entrando en la casa, no dejó entrar aG1525
+- Luc_9:4casa donde entréis, quedad allí, y de allíG1525
+- Luc_9:34y tuvieron temor al entrar en la nubeG1525
+- Luc_9:46entraron en discusión sobre quién deG1525
+- Luc_9:52fueron y entraron en una aldea de losG1525
+- Luc_10:5casa donde entréis...decid: Paz sea aG1525
+- Luc_10:8donde entréis, y os reciban, comed loG1525
+- Luc_10:10ciudad donde entréis, y no os recibanG1525
+- Luc_10:38yendo de camino, entró en una aldeaG1525
+- Luc_11:26y entrados, moran allí; y el postrerG1525
+- Luc_11:33para que los que entran vean la luzG1531
+- Luc_11:37entrando Jesús en la casa, se sentó aG1525
+- Luc_11:52no entrasteis, y a los que entraban seG1525
+- Luc_13:24esforzaos a entrar...la puerta angostaG1525
+- Luc_13:24muchos procurarán entrar, y no podránG1525
+- Luc_14:1habiendo entrado para comer en casa deG2064
+- Luc_14:23fuérzalos a entrar, para que se lleneG1525
+- Luc_15:28entonces se enojó, y no quería entrarG1525
+- Luc_15:28su padre, y le rogaba que entraseG1525
+- Luc_16:16y todos se esfuerzan por entrar en élG1519
+- Luc_17:12y al entrar en una aldea, le salieronG1525
+- Luc_17:27hasta el día en que entró Noé en el arcaG1525
+- Luc_18:17no recibe el...como un niño, no entraráG1525
+- Luc_18:24cuán difícilmente entrarán en el reinoG1525
+- Luc_18:25que entrar un rico en el reino de DiosG1525
+- Luc_19:1habiendo entrado Jesús en Jericó, ibaG1525
+- Luc_19:7que había entrado a posar con un hombreG1525
+- Luc_19:30al entrar en ella hallaréis un pollinoG1531
+- Luc_19:45entrando en el templo, comenzó a echarG1525
+- Luc_21:21estén en los campos, no entren en ellaG1525
+- Luc_22:3y entró Satanás en Judas...el cual eraG1525
+- Luc_22:10al entrar en la ciudad os saldrá alG1525
+- Luc_22:10seguidle hasta la casa donde entrareG1531
+- Luc_22:40dijo: Orad que no entréis en tentaciónG1525
+- Luc_22:46orad para que no entréis en tentaciónG1525
+- Luc_24:3y entrando, no hallaron el cuerpo delG1525
+- Luc_24:26padeciera...que entrara en su gloria?[[G1525]]
+- Luc_24:29mas...entró, pues, a quedarse con ellosG1525
+- Jua_3:4¿puede acaso entrar...en el vientre deG1525
+- Jua_3:5no naciere...no puede entrar en el reinoG1525
+- Jua_4:38vosotros habéis entrado en sus laboresG1525
+- Jua_6:17y entrando en una barca, iban cruzandoG1684
+- Jua_6:22que Jesús no había entrado en ella conG1684
+- Jua_6:24entraron en las barcas y fueron aG1684
+- Jua_10:1que no entra por la puerta en el redilG1525
+- Jua_10:2el que entra por la puerta, el pastorG1535
+- Jua_10:9el que por mí entrare, será salvo; yG1525
+- Jua_10:9y entrará, y saldrá, y hallará pastosG1525
+- Jua_11:30todavía no había entrado en la aldeaG2064
+- Jua_13:27después del bocado, Satanás entró en élG1525
+- Jua_18:1había un huerto, en el cual entró conG1525
+- Jua_18:15y entró con Jesús al patio del sumoG4897
+- Jua_18:16y habló a la portera, e hizo entrar aG1521
+- Jua_18:28ellos no entraron en el pretorio paraG1525
+- Jua_18:33Pilato volvió a entrar en el pretorioG1525
+- Jua_19:9entró otra vez en el pretorio, y dijoG1525
+- Jua_20:5vio los lienzos puestos...pero no entróG1525
+- Jua_20:6llegó Simón Pedro...entró en el sepulcroG1525
+- Jua_20:8entonces entró...el otro discípulo, queG1525
+- Jua_21:3entraron en una barca; y aquella nocheG305
+- Hec_1:13entrados, subieron al aposento altoG1525
+- Hec_1:21el tiempo que el Señor Jesús entraba yG1525, [[G1831]]
+- Hec_3:2que pidiese limosna de los que entrabanG1531
+- Hec_3:3iban a entrar en el templo, les rogabaG1524
+- Hec_3:8entró con ellos en el templo, andandoG1525
+- Hec_5:7que entró su mujer, no sabiendo lo queG1525
+- Hec_5:10expiró; y cuando entraron los jóvenesG1525
+- Hec_5:21esto, entraron de mañana en el temploG1525
+- Hec_8:3entrando casa por casa, arrastraba aG1531
+- Hec_9:6levántate y entra en la ciudad, y se teG1525
+- Hec_9:12a un varón...entra y le pone las manosG1525
+- Hec_9:17entró en la casa, y poniendo sobre élG1525
+- Hec_9:28y estaba con ellos...y entraba y salíaG1531
+- Hec_10:3que un ángel...entraba donde él estabaG1525
+- Hec_10:23haciéndoles entrar, los hospedó. Y alG1528
+- Hec_10:24entraron en Cesarea. Y Cornelio losG1525
+- Hec_10:25cuando Pedro entró, salió Cornelio aG1525
+- Hec_10:27entró, y halló a muchos que se habíanG1525
+- Hec_11:3diciendo: ¿Por qué has entrado en casaG1525
+- Hec_11:8ninguna cosa común...entró jamás en miG1525
+- Hec_11:12fueron...entramos en casa de un varónG1525
+- Hec_11:20cuales, cuando entraron en AntioquíaG1525
+- Hec_13:14y entraron en la sinagoga un día deG1525
+- Hec_14:1entraron juntos en la sinagoga de losG1525
+- Hec_14:20se levantó y entró en la ciudad; y alG1525
+- Hec_14:22de muchas tribulaciones entremos en elG1525
+- Hec_16:15nos rogó...entrad en mi casa, y posadG1525
+- Hec_16:40la cárcel, entraron en casa de LidiaG1525
+- Hec_17:10entraron en la sinagoga de los judíosG549
+- Hec_18:19entrando en la sinagoga, discutía conG1525
+- Hec_19:8y entrando Pablo en la sinagoga, hablóG1525
+- Hec_20:18desde el primer día que entré en AsiaG1910
+- Hec_20:29entrarán en medio de vosotros lobosG1525
+- Hec_21:8y entrando en casa de Felipe...posamosG1525
+- Hec_21:18Pablo entró con nosotros a ver a JacoboG1524
+- Hec_21:26entró en el templo, para anunciar elG1524
+- Hec_23:16entró en la fortaleza, y dio aviso aG1525
+- Hec_25:23y entrando en la audiencia con losG1525
+- Hec_28:8entró Pablo a verle, y después de haberG1525
+- Rom_5:12como el pecado entró en el mundo porG1525
+- Rom_11:25hasta que haya entrado la plenitud deG1525
+- 1Co_14:23entran indoctos o incrédulos, ¿noG1525
+- 1Co_14:24profetizan, y entra algún incrédulo oG1525
+- 1Co_15:21cuanto la muerte entró por un hombre
+- 2Co_10:16sin entrar en la obra de otro paraG1519
+- Gál_2:4falsos hermanos...entraban para espiarG3922
+- Heb_3:11juré en...ira: No entrarán en mi reposoG1525
+- Heb_3:18juró que no entrarían en su reposo, sinoG1525
+- Heb_3:19vemos que no pudieron entrar a causa deG1525
+- Heb_4:1aún la promesa de entrar en su reposoG1525
+- Heb_4:3que hemos creído entramos en el reposoG1525
+- Heb_4:3juré en mi ira, no entrarán en mi reposoG1525
+- Heb_4:5otra vez aquí: No entrarán en mi reposoG1525
+- Heb_4:6puesto que falta que algunos entren en élG1525
+- Heb_4:6no entraron por causa de desobedienciaG1525
+- Heb_4:10porque el que ha entrado en su reposoG1525
+- Heb_4:11procuremos, pues, entrar en aquel reposoG1525
+- Heb_6:20Jesús entró por nosotros como precursorG1525
+- Heb_9:6entran los sacerdotes continuamente paraG1524
+- Heb_9:12entró una vez para siempre en el lugarG1525
+- Heb_9:24porque no entró Cristo en el santuarioG1525
+- Heb_9:25no...como entra el sumo sacerdote en elG1525
+- Heb_10:5entrando en el mundo dice: Sacrificio yG1525
+- Heb_10:19teniendo libertad para entrar en elG1529
+- Stg_2:2si...entra un hombre con anillo de oroG1525
+- Stg_2:2entra un pobre con vestido andrajosoG1525
+- Stg_5:4los clamores de...han entrado en los oídosG1525
+- Jud_1:4hombres han entrado encubiertamente, losG3921
+- Rev_3:20oye mi voz y abre la puerta, entraréG1525
+- Rev_11:11entró en ellos el espíritu de vidaG1525
+- Rev_15:8nadie podía entrar en el templo hastaG1525
+- Rev_21:27no entrará en ella...ninguna cosa inmundaG1525
+- Rev_22:14entrar por las puertas en la ciudadG1525

@@ -1,0 +1,2254 @@
+---
+tipo: concordancia
+palabra: DÍA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DÍA
+
+- Gén_1:5llamó Dios a la luz D, y a las tinieblasH3117
+- Gén_1:5noche. Y fue la tarde y la mañana un dH3117
+- Gén_1:8y fue la tarde y la mañana el d segundoH3117
+- Gén_1:13fue la tarde y la mañana el d terceroH3117
+- Gén_1:14lumbreras...para separar el d de la nocheH3117
+- Gén_1:14sirvan de señales, para...para d y añosH3117
+- Gén_1:16la...mayor para que señorease en el dH3117
+- Gén_1:18y para señorear en el d y en la nocheH3117
+- Gén_1:19y fue la tarde y la mañana el d cuartoH3117
+- Gén_1:23y fue la tarde y la mañana el d quintoH3117
+- Gén_1:31y fue la tarde y la mañana el d sextoH3117
+- Gén_2:2acabó Dios en el d séptimo la obra queH3117
+- Gén_2:2reposó el d séptimo de toda la obra queH3117
+- Gén_2:3bendijo Dios al d séptimo...lo santificóH3117
+- Gén_2:4el d que Jehová Dios hizo la tierra y losH3117
+- Gén_2:17porque el d que de él comieres...morirásH3117
+- Gén_3:5que sabe Dios que el d que comáis de élH3117
+- Gén_3:8se paseaba en el huerto, al aire del dH3117
+- Gén_3:14polvo comerás todos los d de tu vidaH3117
+- Gén_3:17con dolor comerás de ella todos los dH3117
+- Gén_5:1de Adán...El d en que creó Dios al hombreH3117
+- Gén_5:2llamó el nombre de ellos Adán, el d enH3117
+- Gén_5:4fueron los d de Adán...ochocientos añosH3117
+- Gén_5:5los d que vivió Adán 930 años; Y murióH3117
+- Gén_5:8y fueron todos los d de Set 912 añosH3117
+- Gén_5:11y fueron todos los d de Enós 905 añosH3117
+- Gén_5:14fueron todos los d de Cainán 910 añosH3117
+- Gén_5:17y fueron...los d de Mahalaleel 895 añosH3117
+- Gén_5:20fueron todos los d de Jared 962 años,[[H3117]]
+- Gén_5:23y fueron todos los d de Enoc 365 añosH3117
+- Gén_5:27fueron...los días de Matusalén 969 añosH3117
+- Gén_5:31y fueron todos los d de Lamec 777 añosH3117
+- Gén_6:3carne; mas serán sus d ciento veinte añosH3117
+- Gén_6:4había gigantes en la tierra en aquellos dH3117
+- Gén_7:4porque pasados aún 7 d, yo haré lloverH3117
+- Gén_7:4haré llover sobre la tierra cuarenta dH3117
+- Gén_7:10sucedió que al séptimo d las aguas delH3117
+- Gén_7:11los 17 d del mes, aquel d fueron rotasH3117
+- Gén_7:12hubo lluvia sobre la tierra 40 d y 40H3117
+- Gén_7:13este mismo d entraron Noé, y Sem, CamH3117
+- Gén_7:17y fue el diluvio 40 d sobre la tierraH3117
+- Gén_7:24prevalecieron las aguas...la tierra 150 dH3117
+- Gén_8:3se retiraron las aguas al cabo de 150 dH3117
+- Gén_8:4reposó el arca en el...a los 17 d del mesH3117
+- Gén_8:6al cabo de 40 d abrió Noé la ventana delH3117
+- Gén_8:10esperó aún otros siete d, y volvió aH3117
+- Gén_8:12aún otros siete d, y envió la palomaH3117
+- Gén_8:13d primero del mes, las aguas se secaronH3117
+- Gén_8:14a los 27 d del mes, se secó la tierraH3117
+- Gén_8:22no cesarán...el invierno...d y la nocheH3117
+- Gén_9:29y fueron todos los d de Noé 950 añosH3117
+- Gén_10:25en sus d fue repartida la tierra; y elH3117
+- Gén_11:32fueron...los d de Taré 205 años; y murióH3117
+- Gén_14:1aconteció en los d de Amrafel rey deH3117
+- Gén_15:18aquel d hizo Jehová un pacto con AbramH3117
+- Gén_17:12de edad de ocho d será circuncidadoH3117
+- Gén_17:23circuncidó la carne...en aquel mismo dH3117
+- Gén_17:26mismo d fueron circuncidados AbrahamH3117
+- Gén_18:1sentado a la puerta...en el calor del dH3117
+- Gén_19:34d siguiente, dijo la mayor a la menorH4283
+- Gén_21:4circuncidó Abraham a...Isaac de ocho dH3117
+- Gén_21:8e hizo Abraham gran banquete el d queH3117
+- Gén_21:34moró Abraham en...los filisteos muchos dH3117
+- Gén_22:4al tercer d alzó Abraham sus ojos, Y vioH3117
+- Gén_24:55espere la doncella...a lo menos diez dH3117
+- Gén_25:7estos fueron los d que vivió AbrahamH3117
+- Gén_25:24cuando se cumplieron sus d para dar aH3117
+- Gén_25:31véndeme en este d tu primogenituraH3117
+- Gén_25:33dijo Jacob: Júramelo en este d. Y élH3117
+- Gén_26:1la primera hambre que hubo en los d deH3117
+- Gén_26:8que después que él estuvo allí muchos dH3117
+- Gén_26:15criados de Abraham su padre en sus dH3117
+- Gén_26:18los pozos...abierto en los d de AbrahamH3117
+- Gén_26:32aquel d...vinieron los criados de IsaacH3117
+- Gén_26:33el nombre de...es Beerseba hasta este dH3117
+- Gén_27:2ya soy viejo, no sé el d de mi muerteH3117
+- Gén_27:41llegarán los d del luto de mi padreH3117
+- Gén_27:44y mora con él algunos d, hasta que elH3117
+- Gén_27:45seré privada de vosotros ambos en un d?[[H3117]]
+- Gén_29:7dijo: He aquí es aún muy de d; no esH3117
+- Gén_29:20y le parecieron como pocos d, porqueH3117
+- Gén_30:35y Labán apartó...d los machos cabríosH3117
+- Gén_30:36puso tres d de camino entre sí y JacobH3117
+- Gén_31:22tercer d fue dicho a Labán que JacobH3117
+- Gén_31:23fue tras Jacob camino de siete d, y leH3117
+- Gén_31:39lo hurtado así de d como de noche, aH3117
+- Gén_31:40de d me consumía el calor, y de nocheH3117
+- Gén_32:32no comen...hasta hoy d, del tendón queH3117
+- Gén_33:13si las fatigan, en un d morirán todasH3117
+- Gén_33:16volvió Esaú aquel d...su camino a SeirH3117
+- Gén_34:25pero sucedió que al tercer d, cuandoH3117
+- Gén_35:3al Dios que me respondió en el d de miH3117
+- Gén_35:28y fueron los d de Isaac 180 añosH3117
+- Gén_35:29exhaló Isaac...murió...viejo y lleno de dH3117
+- Gén_37:34y guardó luto por su hijo muchos dH3117
+- Gén_38:12pasaron muchos d, y murió la hija deH3117
+- Gén_39:10ella a José cada d, y no escuchándolaH3117
+- Gén_39:11que entró él un d en casa para hacerH3117
+- Gén_40:4les servía; y estuvieron d en la prisiónH3117
+- Gén_40:12dijo...los tres sarmientos son tres dH3117
+- Gén_40:13al cabo de tres d levantará Faraón tuH3117
+- Gén_40:18dijo...Los tres canastillos tres d sonH3117
+- Gén_40:19al cabo de tres d quitará Faraón tuH3117
+- Gén_40:20tercer d, que era el d del cumpleañosH3117
+- Gén_42:17los puso juntos en la cárcel por tres dH3117
+- Gén_42:18al tercer d les dijo José: Haced estoH3117
+- Gén_47:8cuántos son los d de los años de tuH3117
+- Gén_47:9los d de...pocos y malos han sido los dH3117
+- Gén_47:9no han llegado a los d de los años deH3117
+- Gén_47:9mis padres en los d de su peregrinaciónH3117
+- Gén_47:28fueron los d de Jacob, los años de suH3117
+- Gén_47:29y llegaron los d de Israel para morirH3117
+- Gén_48:15el Dios que me mantiene hasta este dH3117
+- Gén_48:20los bendijo aquel d, diciendo: En tiH3117
+- Gén_49:1que os ha de acontecer en los d veniderosH3117
+- Gén_50:3y le cumplieron cuarenta d, porque asíH3117
+- Gén_50:3así cumplían los d de los embalsamadosH3117
+- Gén_50:3y lo lloraron los egipcios setenta dH3117
+- Gén_50:4pasados los d de su luto, habló José aH3117
+- Gén_50:10José hizo a su padre duelo por siete dH3117
+- Éxo_2:11en aquellos d sucedió que crecido yaH3117
+- Éxo_2:13al d siguiente salió y vio a dos hebreosH3117
+- Éxo_2:23que después de muchos d murió el rey deH3117
+- Éxo_3:18; Éxo_5:3iremos ahora camino de tres d porH3117
+- Éxo_5:6Faraón aquel mismo d a los cuadrillerosH3117
+- Éxo_5:13acabad...obra, la tarea de cada d en su dH3117
+- Éxo_5:19no se disminuirá...la tarea de cada dH3117
+- Éxo_7:24cumplieron siete d después que JehováH3117
+- Éxo_8:22aquel d yo apartaré la tierra de GosénH3117
+- Éxo_8:27camino de tres d iremos por el desiertoH3117
+- Éxo_9:6al d siguiente Jehová hizo aquello, yH4283
+- Éxo_9:18granizo...desde el d que se fundó hasta
+- Éxo_10:13Jehová trajo un viento...todo aquel dH3117
+- Éxo_10:22tinieblas sobre toda...Egipto, por tres dH3117
+- Éxo_10:23nadie se levantó de su lugar en tres dH3117
+- Éxo_10:28en...d que vieres mi rostro, morirásH3117
+- Éxo_12:6lo guardaréis hasta el d 14 de este mesH3117
+- Éxo_12:14d os será en memoria, y lo celebraréisH3117
+- Éxo_12:15siete d comeréis panes sin levaduraH3117
+- Éxo_12:15el primer d haréis que no haya levaduraH3117
+- Éxo_12:15que comiere leudado desde el primer dH3117
+- Éxo_12:16el primer d habrá santa convocaciónH3117
+- Éxo_12:16séptimo d tendréis...santa convocaciónH3117
+- Éxo_12:17este mismo d saqué vuestras huestes deH3117
+- Éxo_12:18el d 14 del mes por la tarde hasta laH3117
+- Éxo_12:19por siete d no se hallará levadura enH3117
+- Éxo_12:41el mismo d todas las huestes...salieronH3117
+- Éxo_12:51aquel mismo d sacó Jehová a los hijosH3117
+- Éxo_13:3tened memoria de este d...habéis salidoH3117
+- Éxo_13:6siete d comerás pan sin leudar, y elH3117
+- Éxo_13:6y el séptimo d será fiesta para JehováH3117
+- Éxo_13:7por los siete d se comerán los panes sinH3117
+- Éxo_13:8contarás en aquel d a tu hijo, diciendoH3117
+- Éxo_13:21Jehová iba delante de ellos de d en unaH3119
+- Éxo_13:21a fin de que anduviesen de d y de nocheH3119
+- Éxo_13:22nunca se apartó...columna de nube de dH3119
+- Éxo_14:30así salvó Jehová aquel d a Israel deH3117
+- Éxo_15:22anduvieron tres d por el desierto sinH3117
+- Éxo_16:1Sinaí, a los quince d del segundo mesH3117
+- Éxo_16:4saldrá, y recogerá...la porción de un dH3117
+- Éxo_16:5en el sexto d prepararán para guardarH3117
+- Éxo_16:5el doble de lo que suelen recoger cada dH3117
+- Éxo_16:20que algunos dejaron de ello para otro dH1242
+- Éxo_16:22en el sexto d recogieron doble porciónH3117
+- Éxo_16:23dicho...Mañana es el santo d de reposoH7676
+- Éxo_16:25comedlo hoy...es d de reposo para JehováH3117
+- Éxo_16:26seis d lo recogeréis; mas el séptimoH3117
+- Éxo_16:26el séptimo d es d de reposo; en él noH3117
+- Éxo_16:27salieron en el séptimo d a recoger, yH3117
+- Éxo_16:29Jehová os dio el d de reposo, y por esoH3117
+- Éxo_16:29y...en el sexto d os da pan para dos dH3117
+- Éxo_16:29y nadie salga de él en el séptimo dH3117
+- Éxo_16:30así el pueblo reposó el séptimo dH3117
+- Éxo_18:13al d siguiente se sentó Moisés a juzgarH4283
+- Éxo_19:1el mismo d llegaron al desierto de SinaíH3117
+- Éxo_19:11y estén preparados para el d terceroH3117
+- Éxo_19:11al tercer d Jehová descenderá a ojos deH3117
+- Éxo_19:15estad preparados para el tercer d; noH3117
+- Éxo_19:16que al tercer d...truenos y relámpagosH3117
+- Éxo_20:8acuérdate del d de reposo...santificarloH3117
+- Éxo_20:9seis d trabajarás, y harás toda tu obraH3117
+- Éxo_20:10el séptimo d es reposo para Jehová tuH3117
+- Éxo_20:11en seis d hizo Jehová los cielos y laH3117
+- Éxo_20:11y reposó en el séptimo d; por tantoH3117
+- Éxo_20:11bendijo el d de reposo y lo santificóH3117
+- Éxo_20:12d se alarguen en la tierra que JehováH3117
+- Éxo_21:21sobreviviere por un d o dos, no seráH3117
+- Éxo_22:3fuere de d, el autor de la muerte seráH8121, [[H2224]]
+- Éxo_22:30siete d estará...al octavo d me lo darásH3117
+- Éxo_23:12seis d trabajarás, y al séptimo dH3117
+- Éxo_23:15siete d comerás los panes sin levaduraH3117
+- Éxo_23:26y yo completaré el número de tus dH3117
+- Éxo_24:16Sinaí, y la nube lo cubrió por seis dH3117
+- Éxo_24:16al séptimo d llamó a Moisés de...la nubeH3117
+- Éxo_24:18estuvo Moisés en el monte cuarenta dH3117
+- Éxo_29:30por siete d las vestirá el que de susH3117
+- Éxo_29:35a Aarón y a...siete d los consagrarásH3117
+- Éxo_29:36cada d ofrecerás el becerro...el pecadoH3117
+- Éxo_29:37siete d harás expiación por el altarH3117
+- Éxo_29:38ofrecerás...2 corderos de un año cada dH3117
+- Éxo_31:13vosotros guardaréis mis d de reposoH7676
+- Éxo_31:14guardaréis el d de reposo...santo es aH7676
+- Éxo_31:15seis d se trabajará...d séptimo es d deH3117
+- Éxo_31:15que trabaje en el d de reposo...moriráH3117
+- Éxo_31:16guardarán...el d de reposo los hijos deH3117
+- Éxo_31:17en seis d hizo...y en el séptimo d cesóH3117
+- Éxo_32:6al d siguiente madrugaron, y ofrecieronH4283
+- Éxo_32:28cayeron...en aquel d como 3.000 hombresH3117
+- Éxo_32:30al d siguiente dijo Moisés al puebloH4283
+- Éxo_32:34en el d del castigo, yo castigaré enH3117
+- Éxo_34:18siete d comerás pan sin levadura, segúnH3117
+- Éxo_34:21seis d trabajarás, mas en el séptimo dH3117
+- Éxo_34:28estuvo allí con Jehová 40 d y 40 nochesH3117
+- Éxo_35:2seis d se trabajará, mas el d séptimoH3117
+- Éxo_35:2d de reposo para Jehová; cualquiera queH3117
+- Éxo_35:3no encenderéis fuego...en el d de reposoH3117
+- Éxo_40:2el primer d del mes...harás levantar elH3117
+- Éxo_40:17en el d primero del primer mes, en elH3117
+- Éxo_40:37no se movían hasta el d en que ella seH3117
+- Éxo_40:38la nube de Jehová estaba de d sobre elH3119
+- Lev_6:5añadirá a ello...en el d de su expiaciónH3119
+- Lev_6:20que ofrecerán...el d que fueren ungidosH3119
+- Lev_7:15se comerá en el d que fuere ofrecidaH3119
+- Lev_7:15no dejarán de ella nada para otro dH4283
+- Lev_7:16será comido en el d que ofreciere suH3119
+- Lev_7:16de él quedare, lo comerán al d siguienteH4283
+- Lev_7:17y lo que quedare de...hasta el tercer dH3119
+- Lev_7:18si se comiere de la carne...al tercer dH3117
+- Lev_7:35desde el d que él los consagró para serH3117
+- Lev_7:36el d que él los ungió de entre los hijosH3117
+- Lev_7:38la cual mandó Jehová...el d que mandó aH3117
+- Lev_8:33no saldréis en siete d, hasta el d queH3117
+- Lev_8:33cumplan los d...7 d seréis consagradosH3117
+- Lev_8:35d y noche por siete d, y guardaréis laH3119, [[H3117]]
+- Lev_9:1en el d octavo, Moisés llamó a Aarón y aH3117
+- Lev_12:2y dé a luz varón, será inmunda siete dH3117
+- Lev_12:2conforme a los d de su menstruación seráH3117
+- Lev_12:3y al octavo d se circuncidará al niñoH3117
+- Lev_12:4ella permanecerá 33 d purificándose deH3117
+- Lev_12:5y 66 d estará purificándose de su sangreH3117
+- Lev_12:6d de su purificación fueren cumplidosH3117
+- Lev_13:4sacerdote encerrará al llagado...siete dH3117
+- Lev_13:5y al séptimo d el sacerdote lo miraráH3117
+- Lev_13:5le volverá a encerrar por otros siete dH3117
+- Lev_13:6, Lev_13:27séptimo d el sacerdote 1e reconoceráH3117
+- Lev_13:14el d que apareciere en él la carne vivaH3117
+- Lev_13:21, Lev_13:26sacerdote le encerrará por siete dH3117
+- Lev_13:31encerrará por siete d al llagado de laH3117
+- Lev_13:32séptimo d el sacerdote mirará la llagaH3117
+- Lev_13:33encerrará...otros siete d al que tieneH3117
+- Lev_13:34séptimo d mirará el sacerdote la tiñaH3117
+- Lev_13:50encerrará la cosa plagada por siete dH3117
+- Lev_13:51al séptimo d mirará la plaga; y si seH3117
+- Lev_13:54y lo encerrará otra vez por siete dH3117
+- Lev_14:8raerá...morará fuera de su tienda siete dH3117
+- Lev_14:9el séptimo d raerá...el pelo de su cabezaH3117
+- Lev_14:10el d octavo tomará dos corderos sinH3117
+- Lev_14:23al octavo d de su purificación traeráH3117
+- Lev_14:38saldrá...y cerrará la casa por siete dH3117
+- Lev_14:39al séptimo d volverá el sacerdote, y laH3117
+- Lev_14:46durante los d en que la mandó cerrarH3117
+- Lev_15:13contar siete d desde su purificaciónH3117
+- Lev_15:14el octavo d tomará dos tórtolas o dosH3117
+- Lev_15:19la mujer...siete d estará apartada; yH3117
+- Lev_15:24durmiere con ella...inmundo por siete dH3117
+- Lev_15:25cuando siguiere el flujo...por muchos dH3117
+- Lev_15:25inmunda como en los d de su costumbreH3117
+- Lev_15:28contará siete d, y después será limpiaH3117
+- Lev_15:29el octavo d tomará consigo dos tórtolasH3117
+- Lev_16:29en el mes séptimo, a los diez d del mesH7676
+- Lev_16:30este d se hará expiación por vosotrosH3117
+- Lev_16:31d de reposo...es para vosotros, y afligiréisH7676
+- Lev_19:3temerá a...y mis d de reposo guardaréisH7676
+- Lev_19:6el d que le ofreciereis, y el d siguienteH3117
+- Lev_19:6quedare para el tercer d, será quemadoH3117
+- Lev_19:7comiere el d tercero, será abominaciónH3117
+- Lev_19:30d de reposo guardaréis...en reverenciaH7676
+- Lev_22:27siete d estará mamando de su madreH3117
+- Lev_22:27octavo d en adelante será acepto paraH3117
+- Lev_22:28no degollaréis en un mismo d a ella yH3117
+- Lev_22:30el mismo d se comerá; no...para otro dH3117
+- Lev_23:3seis d se trabajará, mas el septimo dH3117
+- Lev_23:3ningún trabajo haréis, d de reposo es deH7676
+- Lev_23:6a los 15 d de este mes es la fiestaH3117
+- Lev_23:6siete d comeréis panes sin levaduraH3117
+- Lev_23:7el primer d tendréis santa convocaciónH3117
+- Lev_23:8ofreceréis...siete d ofrenda encendidaH3117
+- Lev_23:8el séptimo d será santa convocaciónH3117
+- Lev_23:11d siguiente del d de reposo la meceráH7676
+- Lev_23:12el d que ofrezcáis la gavilla...corderoH3117
+- Lev_23:14no comeréis pan...hasta este mismo dH3117
+- Lev_23:15desde el d que sigue al d de reposoH7676
+- Lev_23:15el d en que ofrecisteis la gavilla deH3117
+- Lev_23:16el d siguiente del séptimo d de reposoH7676
+- Lev_23:16contaréis 50 d; entonces ofreceréis elH3117
+- Lev_23:21y convocaréis en este mismo d santaH3117
+- Lev_23:24el mes séptimo...tendréis d de reposoH7676
+- Lev_23:27diez d de este mes séptimo será el dH3117
+- Lev_23:28ningún trabajo haréis en este,d; porqueH3117
+- Lev_23:28es d de expiación, para reconciliarosH3117
+- Lev_23:29que no se afligiere en este mismo dH3117
+- Lev_23:30que hiciere trabajo alguno en este dH3117
+- Lev_23:32d de reposo...a vosotros, y afligiréisH7676
+- Lev_23:32comenzando a los nueve d del mes en laH7676
+- Lev_23:34a los quince d de este mes séptimo seráH3117
+- Lev_23:34fiesta solemne...a Jehová por siete dH3117
+- Lev_23:35el primer d habrá santa convocaciónH3117
+- Lev_23:36siete d ofreceréis ofrenda encendidaH3117
+- Lev_23:36el octavo d tendréis santa convocaciónH3117
+- Lev_23:38además de los d de reposo de JehováH7676
+- Lev_23:39a los quince d del mes séptimo, cuandoH3117
+- Lev_23:39fiesta...por siete d, el primer d seráH3117
+- Lev_23:40tomaréis el primer d ramas con frutoH3117
+- Lev_23:40os regocijaréis delante...por siete dH3117
+- Lev_23:41fiesta a lehová por siete d cada añoH3117
+- Lev_23:42en tabernáculos habitaréis siete d; todoH3117
+- Lev_24:8cada d de reposo lo pondrá...en ordenH7676
+- Lev_25:8que los d de las siete semanas de añosH7676
+- Lev_25:9tocar...a los diez d del mes; el d de laH3117
+- Lev_26:2guardad mis d de reposo, y tened enH7676
+- Lev_26:34sus d de reposo...los d que esté asoladaH7676
+- Lev_26:34descansará...y gozará sus d de reposoH7676
+- Lev_26:35por lo que no reposó en los d de reposoH7676
+- Lev_26:43la tierra será...gozará sus d de reposoH7676
+- Lev_27:23aquel d dará tu precio señalado, cosaH3117
+- Núm_1:1habló...en el d primero del mes segundoH259
+- Núm_1:18reunieron...la congregación...el d PrimeroH259
+- Núm_3:1el d en que Jehová habló a Moisés en elH3117
+- Núm_3:13mío...desde el d en que yo hice morir aH3117
+- Núm_6:5hasta que sean cumplidos los d de suH3117
+- Núm_6:9el d de su purificación raerá su cabezaH3117
+- Núm_6:9raerá su cabeza; al séptimo d la raeraH3117
+- Núm_6:10el d octavo traerá dos tórtolas o dosH3117
+- Núm_6:11y santificará su cabeza en aquel dH3117
+- Núm_6:12y consagrará para...los d de su nazareatoH3117
+- Núm_6:12d primeros serán anulados, por cuantoH3117
+- Núm_6:13la ley del nazareo el d que se cumpliereH3117
+- Núm_7:10trajeron ofrendas...d en que fue ungidoH3117
+- Núm_7:11un príncipe un d, y otro príncipe otro dH3117
+- Núm_7:12el que of reció...el primer d fue NaasónH3117
+- Núm_7:18el segundo d ofreció Natanael hijo deH3117
+- Núm_7:24el tercer d, Eliab...de Helón, príncipeH3117
+- Núm_7:30el cuarto d, Elisur...de Sedeur, príncipeH3117
+- Núm_7:36el quinto d, Selumiel hijo de ZurisadaiH3117
+- Núm_7:42el sexto d, Eliasaf...de Deuel, príncipeH3117
+- Núm_7:48el séptimo d, el príncipe de...de EfraínH3117
+- Núm_7:54el octavo d, el príncipe de...de ManasésH3117
+- Núm_7:60el noveno d, el príncipe de...de BenjamínH3117
+- Núm_7:66el décimo d, el príncipe de los...de DanH3117
+- Núm_7:72el undécimo d, el príncipe de...de AserH3117
+- Núm_7:78el duodécimo d, el príncipe de...NeftalíH3117
+- Núm_7:84para la dedicación del altar, el d enH3117
+- Núm_8:17el d que yo herí a todo primogénito enH3117
+- Núm_9:3el decimocuarto d de este mes, entre lasH3117
+- Núm_9:5la pascua en el...a los catorce d del mesH3117
+- Núm_9:6no pudieron celebrar la pascua aquel dH3117
+- Núm_9:6y vinieron delante de Moisés y...aquel dH3117
+- Núm_9:11el mes segundo, a los catorce d del mesH3117
+- Núm_9:15el d que el tabernáculo fue erigido, laH3117
+- Núm_9:16la nube lo cubría de d, y de noche la
+- Núm_9:18todos los d que la nube estaba sobre elH3117
+- Núm_9:19la nube se detenía sobre el...muchos dH3117
+- Núm_9:20y cuando la nube estaba sobre...pocos dH3117
+- Núm_9:21si había estado un d...entonces partíanH3119
+- Núm_9:22si dos d...mientras la nube se deteníaH3117
+- Núm_10:10y en el d de vuestra alegria, y enH3117
+- Núm_10:11los veinte d del mes, la nube se alzóH6242
+- Núm_10:33partieron del monte...camino de tres dH6242
+- Núm_10:33arca...fue delante...camino de tres dH6242
+- Núm_10:34la nube de Jehová iba sobre ellos de dH3119
+- Núm_11:19no comeréis un d, ni dos d, ni cinco dH3117
+- Núm_11:19no comeréis...ni diez d, ni veinte dH3117
+- Núm_11:31un d de camino a un lado, y un d deH3117
+- Núm_11:32levantado todo aquel d...el d siguienteH3117
+- Núm_12:14¿no se avergonzaría por siete d? SeaH3117
+- Núm_12:14sea echada...del campamento por siete dH3117
+- Núm_12:15María fue echada del campamento 7 dH3117
+- Núm_13:25de reconocer la tierra al fin de 40 dH3117
+- Núm_14:14de d ibas delante de ellos en columnaH3119
+- Núm_14:34al número de los d, de los cuarenta dH3117
+- Núm_14:34cuarenta años, un año por cada d; yH3117
+- Núm_15:23desde el d que Jehová lo mandó, y enH3117
+- Núm_15:32hombre que recogía leña en d de reposoH7676
+- Núm_16:41el d siguiente, toda la congregaciónH4283
+- Núm_17:8d siguiente vino Moisés al tabernáculoH4283
+- Núm_19:11tocare cadáver...será inmundo siete dH3117
+- Núm_19:12tercer d se purificará con aquella aguaH3117
+- Núm_19:12y al séptimo d será limpio y si alH3117
+- Núm_19:12y si al tercer d no se purificare, noH3117
+- Núm_19:12purificare, no será limpio al séptimo dH3117
+- Núm_19:14que esté en ella, será inmundo siete dH3117
+- Núm_19:16tocare algún muerto...7 d será inmundoH3117
+- Núm_19:19rociará sobre...al tercero y al séptimo dH3117
+- Núm_19:19cuando lo haya purificado al d séptimoH3117
+- Núm_20:29le hicieron duelo por treinta d todasH3117
+- Núm_22:41el d siguiente, Balac tomó a Balaam yH1242
+- Núm_24:14pueblo...a tu pueblo en los postreros dH3117
+- Núm_25:18muerta el d de la mortandad por causaH3117
+- Núm_28:3dos corderos sin tacha...cada d, será elH3117
+- Núm_28:9el d de reposo, dos corderos de un añoH3117
+- Núm_28:10es el holocausto de cada d de reposoH7676
+- Núm_28:17a los quince d de este mes, la fiestaH3117
+- Núm_28:17siete d se comerán panes sin levaduraH3117
+- Núm_28:18el primer d será santa convocaciónH3117
+- Núm_28:24esto ofreceréis cada uno de los siete dH3117
+- Núm_28:25el séptimo d tendréis santa convocaciónH3117
+- Núm_28:26el d de las primicias...tendréis santaH3117
+- Núm_29:1primero...será d de sonar las trompetasH3117
+- Núm_29:12los quince d del mes séptimo tendréisH3117
+- Núm_29:12celebraréis fiesta solemne...por siete dH3117
+- Núm_29:17segundo d, doce becerros de la vacadaH3117
+- Núm_29:20d tercero, once becerros, dos carnerosH3117
+- Núm_29:23cuarto d, diez becerros, dos carnerosH3117
+- Núm_29:26quinto d, nueve becerros, dos carnerosH3117
+- Núm_29:29el sexto d, ocho becerros, dos carnerosH3117
+- Núm_29:32séptimo d, siete becerros, dos carnerosH3117
+- Núm_29:35octavo d tendréis solemnidad; nmgunaH3117
+- Núm_30:5mas si su padre le vedare el d que oyereH3117
+- Núm_30:12su marido los anuló el d que los oyóH3117
+- Núm_30:14si su marido callare a ello de d en dH3117
+- Núm_30:14por cuanto calló a ello el d que lo oyóH3117
+- Núm_31:19permaneced fuera del campamento dH3117
+- Núm_31:19purificaréis al tercer d y al séptimoH3117
+- Núm_31:24lavaréis...vestidos el séptimo d, y asíH3117
+- Núm_33:3salieron en...a los 15 d del mes primeroH3117
+- Núm_33:3el segundo d de la pascua salieron losH4283
+- Núm_33:8anduvieron tres d...el desierto de EtamH3117
+- Deu_1:33iba delante de vosotros...con nube de dH3119
+- Deu_1:46estuvisteis en Cades por...d, los d queH3117
+- Deu_2:14d que anduvimos de Cades-barnea hastaH3117
+- Deu_4:9ni se aparten de...todos los d de tu vidaH3117
+- Deu_4:10el d que estuviste delante de Jehová tuH3117
+- Deu_4:10para temerme todos los d que vivierenH3117
+- Deu_4:15ninguna figura...el d que Jehová hablóH3117
+- Deu_4:20el puebio de su heredad como en este dH3117
+- Deu_4:26no...largos d sin que seáis destruidosH3117
+- Deu_4:30los postreros d te volvieres a JehováH3117
+- Deu_4:32el d que creó Dios al hombre sobre laH3117
+- Deu_4:40y prolongues tus d sobre la tierra queH3117
+- Deu_5:12guardarás el d de reposo...como JehováH7676
+- Deu_5:13seis d trabajarás, y harás toda tu obraH3117
+- Deu_5:14el séptimo d es reposo a lehová tu DiosH3117
+- Deu_5:15ha mandado que guardes el d de reposoH3117
+- Deu_5:16que sean prolongados tus d...te vaya bienH3117
+- Deu_5:29guardasen todos los d...mis mandamientosH3117
+- Deu_5:33bien, y tengáis largos d en la tierraH3117
+- Deu_6:2guardando todos...todos los d de tu vidaH3117
+- Deu_6:2temas...para que tus d sean prolongadosH3117
+- Deu_6:24para que nos vaya bien todos los d, yH3117
+- Deu_8:18de confirmar su pacto...como en este dH3117
+- Deu_9:7desde el d que saliste de la tierra deH3117
+- Deu_9:9estuve...en el monte cuarenta d...nochesH3117
+- Deu_9:10os habló Jehová...el d de la asambleaH3117
+- Deu_9:11al fin de los 40 d...que lehová me dioH3117
+- Deu_9:18y me postré...40 d y 40 noches; no comíH3117
+- Deu_9:24rebeldes...desde el d que yo os conozcoH3117
+- Deu_9:25cuarenta d y 40 noches estuve postradoH3117
+- Deu_10:4os había hablado...el d de la asambleaH3117
+- Deu_10:10y yo estuve en el monte...40 d y 40 nochesH3117
+- Deu_10:15de entre...los pueblos, como en este dH3117
+- Deu_11:1y guardarás sus ordenanzas...todos los dH3117
+- Deu_11:9sean prolongados los d sobre la tierraH3117
+- Deu_11:21que sean vuestros d, y los d de...hijosH3117
+- Deu_11:21como los d de los cielos sobre la tierraH3117
+- Deu_12:1todos los d...viviereis sobre la tierraH3117
+- Deu_12:19no desamparar al levita en todos tus dH3117
+- Deu_14:23aprendas a temer a...tu Dios todos los dH3117
+- Deu_16:3siete d comerás...pan sin levadura, panH3117
+- Deu_16:3los d de tu vida te acuerdes del d en queH3117
+- Deu_16:4no se verá levadura contigo...por siete dH3117
+- Deu_16:4que matares en la tarde del primer dH3117
+- Deu_16:8seis d comerás...el séptimo d será fiestaH3117
+- Deu_16:13la fiesta solemne...harás por siete dH3117
+- Deu_16:15siete d celebrarás fiesta solemne aH3117
+- Deu_17:9y al juez que hubiere en aquelilos d, yH3117
+- Deu_17:19y leerá en él todos los d de su vidaH3117
+- Deu_17:20prolongue sus d en su reino, él y susH3117
+- Deu_18:16pediste a Jehová...el d de la asambleaH3117
+- Deu_19:9que...andes en sus caminos todos los dH3117
+- Deu_19:17los jueces que hubiere en aquellos dH3117
+- Deu_20:19ciudad peleando contra ella muchos dH3117
+- Deu_21:16el d que hiciere heredar a sus hijosH3117
+- Deu_21:23sin falta lo enterrarás el mismo dH3117
+- Deu_22:7que te vaya bien, y prolongues tus dH3117
+- Deu_22:19, Deu_22:29no podrá despedirla en todos sus dH3117
+- Deu_23:6no procurarás...su bien en todos los dH3117
+- Deu_24:15en su d le darás su jornal, y no seH3117
+- Deu_25:15para que tus d sean prolongados sobreH3117
+- Deu_26:3al sacerdote que hubiere en aquellos dH3117
+- Deu_27:2el d que pases el Jordán a la tierra queH3117
+- Deu_27:11y mandó Moisés al pueblo en aquel dH3117
+- Deu_28:29y no serás sino...y robado todos los dH3117
+- Deu_28:32y desfallecerán por ellos todo el dH3117
+- Deu_28:33sino oprimido y quebrantado todos los dH3117
+- Deu_28:66estarás temeroso de noche y de d, y noH3119
+- Deu_30:18no prolongaréis vuestros d sobre laH3117
+- Deu_30:20él es vida...y prolongación de tus dH3117
+- Deu_31:2este d soy de edad de ciento veinte añosH3117
+- Deu_31:13a temer a...todos los d que viviereisH3117
+- Deu_31:14ha acercado el d de tu muerte; llama aH3117
+- Deu_31:17encenderá...furor contra él en aquel dH3117
+- Deu_31:17y dirán en aquel d: ¿No me han venidoH3117
+- Deu_31:18yo esconderé mi rostro en aquel d, porH3117
+- Deu_31:22Moisés escribió este cántico aquel dH3117
+- Deu_31:29os ha de venir mal en los postreros dH3117
+- Deu_32:35el d de su aflicción está cercano, yH3117
+- Deu_32:47ley haréis prolongar vuestros d sobreH3117
+- Deu_32:48habló lehová a Moisés aquel mismo dH3117
+- Deu_33:25hierro...y como tus d serán tus fuerzasH3117
+- Deu_34:8lloraron...treinta d...cumplieron los dH3117
+- Jos_1:5te podrá hacer frente en todos los dH3117
+- Jos_1:8de d y de noche meditarás en él, para queH3119
+- Jos_1:11dentro de tres d pasaréis el Jordán paraH3117
+- Jos_2:16estad escondidos allí tres d, hasta queH3117
+- Jos_2:22al monte y estuvieron allí tres d, hastaH3117
+- Jos_3:2tres d, los...recorrieron el campamentoH3117
+- Jos_3:7desde este d comenzaré a engrandecerteH3117
+- Jos_4:14en aquel d Jehová engrandeció a JosuéH3117
+- Jos_4:14y le temieron...todos los d de su vidaH3117
+- Jos_4:19y el pueblo subió del Jordán el d diezH6218
+- Jos_4:24que temáis a...vuestro Dios todos los dH3117
+- Jos_5:10y celebraron la pascua a los catorce dH3117
+- Jos_5:11otro d de la pascua comieron del frutoH4283
+- Jos_5:11en el mismo d espigas nuevas tostadasH3117
+- Jos_5:12y el maná cesó el d siguiente, desde queH4283
+- Jos_6:3rodearéis...y esto haréis durante seis dH3117
+- Jos_6:4al séptimo d daréis siete vueltas a laH3117
+- Jos_6:10no...hasta el d que yo os diga: GritadH3117
+- Jos_6:14dieron otra vuelta a la...el segundo dH3117
+- Jos_6:14de esta manera hicieron durante seis dH3117
+- Jos_6:15al séptimo d se levantaron al...el albaH3117
+- Jos_6:15este d dieron vuelta...de ella siete vecesH3117
+- Jos_7:25le dijo Josué...Túrbete Jehová en este dH3117
+- Jos_8:25los que cayeron aquel d...fue de doce milH3117
+- Jos_9:12pan lo tomamos caliente...d que salimosH3117
+- Jos_9:16tres d después que hicieron alianza conH3117
+- Jos_9:17al tercer d llegaron a las ciudades deH3117
+- Jos_9:27los destinó aquel d a ser leñadores yH3117
+- Jos_10:12Josué habló...el d en que Jehová entregóH3117
+- Jos_10:13y no se apresuró a ponerse casi un dH3117
+- Jos_10:14y no hubo d como aquel, ni antes niH3117
+- Jos_10:28en aquel mismo d tomó Josué a MacedaH3117
+- Jos_10:32a Laquis...la tomó al d siguiente, y laH3117
+- Jos_10:35la tomaron el mismo d, y la hirieron aH3117
+- Jos_10:35aquel d mató a todo lo que...tenía vidaH3117
+- Jos_14:11estoy tan fuerte como el d que MoisésH3117
+- Jos_14:12monte, del cual habló Jehová aquel dH3117
+- Jos_14:12oíste en aquel d que los anaceos estánH3117
+- Jos_22:3no habéis dejado a...hasta el d de hoyH3117
+- Jos_22:17que no estamos aún limpios hasta este dH3117
+- Jos_23:1muchos d después que Jehová diera reposoH3117
+- Jos_24:7estuvisteis muchos d en el desiertoH3117
+- Jos_24:25hizo pacto con el pueblo el mismo dH3117
+- Jue_3:30fue subyugado Moab aquel d bajo laH3117
+- Jue_4:14este es el d en que Jehová ha entregadoH3117
+- Jue_4:23así abatió Dios aquel d a Jabín, rey deH3117
+- Jue_5:1aquel d cantó Débora con Barac hijo deH3117
+- Jue_5:6en los d de Samgar hijo...en los d de JaelH3117
+- Jue_6:27temiendo hacerlo de d...lo hizo de nocheH3119
+- Jue_6:32aquel d Gedeón fue llamado Jerobaal, estoH3117
+- Jue_8:28reposó la tierra...en los d de GedeónH3117
+- Jue_9:42el siguiente d, que el pueblo salió alH4283
+- Jue_9:45y Abimelec peleó...todo aquel d, y tomóH3117
+- Jue_10:15te rogamos que nos libres en este dH3117
+- Jue_11:40endechar a la hija de Jefté...cuatro dH3117
+- Jue_13:7será nazareo...hasta el d de su muerteH3117
+- Jue_13:10aquel varón que vino a mí el otro dH3117
+- Jue_14:8y volviendo después de algunos d paraH3117
+- Jue_14:12si en los siete d del banquete me loH3117
+- Jue_14:14no pudieron declararle el...en tres dH3117
+- Jue_14:15al séptimo d dijeron a la mujer deH3117
+- Jue_14:17ella lloró...siete d...mas al séptimo dH3117
+- Jue_14:18séptimo d, antes que el sol se pusieseH3117
+- Jue_15:1en los d de la siega del trigo SansónH3117
+- Jue_15:20y juzgó a Israel en los d de...20 añosH3117
+- Jue_16:16que, presionándole ella cada d con susH3117
+- Jue_17:6; Jue_18:1aquellos d no había rey en IsraelH3117
+- Jue_18:1en aquellos d la tribu de Dan buscabaH3117
+- Jue_18:30sacerdotes...hasta el d del cautiverioH3117
+- Jue_19:1en aquellos d, cuando no había rey enH3117
+- Jue_19:4le detuvo su...y quedó en su casa tres dH3117
+- Jue_19:5al cuarto d...se levantaron de mañana, seH3117
+- Jue_19:8quinto d, levantándose de mañana paraH3117
+- Jue_19:8le dijo...aguarda hasta que decline el dH3117
+- Jue_19:9he aqui ya el d declina para anochecerH3117
+- Jue_19:11el d había declinado mucho; y dijo elH3117
+- Jue_19:26vino la mujer, y...hasta que fue de dH1242
+- Jue_20:21derribaron...aquel d 22.000 hombres deH3117
+- Jue_20:22donde la habían ordenado el primer dH3117
+- Jue_20:24acercaron los...de Israel...el segundo dH3117
+- Jue_20:25segundo d, saliendo Benjamín de GabaaH3117
+- Jue_20:26y ayunaron aquel d hasta la noche, yH3117
+- Jue_20:27el arca de...estaba allí en aquellos dH3117
+- Jue_20:28Finees hijo...ministraba...en aquellos dH3117
+- Jue_20:30tercer d, ordenaron la batalla delanteH3117
+- Jue_20:35mataron...aquel d a 25:100 hombres deH3117
+- Jue_20:46de Benjamín murieron aquel d, 25.000H3117
+- Jue_21:4al d siguiente el pueblo se levantó deH4283
+- Jue_21:25en estos d no había rey en Israel; cadaH3117
+- Rut_1:1en los d que gobernaban los jueces, queH3117
+- Rut_3:13pasa aquí la noche, y cuando sea de dH1242
+- Rut_4:5el mismo d que compres las tierras deH1242
+- 1Sa_1:4llegaba el d en que Elcana ofrecíaH3117
+- 1Sa_1:11yo lo dedicaré a Jehová todos los d deH3117
+- 1Sa_1:28todos los d que viva, será de JehováH3117
+- 1Sa_2:31vienen d en que cortaré tu brazo y elH3117
+- 1Sa_2:34Ofni y Finees: ambos morirán en un dH3117
+- 1Sa_2:35andará delante de mi ungido todos los dH3117
+- 1Sa_3:1y la palabra de Jehova escaseaba en...dH3117
+- 1Sa_3:2aconteció un d, que estando Elí acostadoH3117
+- 1Sa_3:12aquel d yo cumpliré contra Elí todas lasH3117
+- 1Sa_4:12un hombre de...llegó el mismo d a SiloH3117
+- 1Sa_5:3y cuando al siguiente d los de Asdod seH4283
+- 1Sa_5:4volviéndose a levantar...el siguiente dH4283
+- 1Sa_6:15y dedicaron sacrificios a Jehová en...dH3117
+- 1Sa_6:16los cinco príncipes...volvieron...mismo dH3117
+- 1Sa_7:2el d que llegó el arca a Quiriat-jearimH3117
+- 1Sa_7:2el arca a Quiriat-jearim pasaron muchos dH3117
+- 1Sa_7:6ayunaron aquel d, y dijeron allí: ContraH3117
+- 1Sa_7:10tronó aquel d con gran estruendo sobreH3117
+- 1Sa_7:13estuvo contra los filisteos todos los dH3117
+- 1Sa_8:8desde el d que los saqué de Egipto hastaH3117
+- 1Sa_8:18clamaréis aquel d a causa de vuestro reyH3117
+- 1Sa_8:18mas Jehová no os responderá en aquel dH3117
+- 1Sa_9:15y un d antes que Saúl viniese JehováH3117
+- 1Sa_9:20asnas que se te perdieron hace ya tres dH3117
+- 1Sa_9:24come...Y Saúl comió aquel d con SamuelH3117
+- 1Sa_9:26al otro d madrugaron; y al despertar elH7837
+- 1Sa_10:8espera siete d, hasta que yo venga a tiH3117
+- 1Sa_10:9estas señales acontecieron en aquel dH3117
+- 1Sa_11:3danos siete d...que enviemos mensajerosH3117
+- 1Sa_11:11al d siguiente...hasta que el d calentóH3117
+- 1Sa_12:2andando...desde mi juventud hasta este dH3117
+- 1Sa_12:5su ungido también es testigo en este dH3117
+- 1Sa_12:18jehová dio truenos y lluvia en aquel dH3117
+- 1Sa_13:8esperó siete d conforme al plazo queH3117
+- 1Sa_13:22el d de la batalla no se halló espadaH3117
+- 1Sa_14:1aconteció un d que Jonatán hijo de SaúlH3117
+- 1Sa_14:23así salvó Jehová a Israel aquel dH3117
+- 1Sa_14:24puestos en apuro aquel d; porque SaúlH3117
+- 1Sa_14:31hirieron aquel d...Micmas hasta AjalónH3117
+- 1Sa_14:37mas Jehová no le dio respuesta aquel dH3117
+- 1Sa_16:13desde aquel d...el Espíritu de JehováH3117
+- 1Sa_17:16venía...así lo hizo durante cuarenta dH3117
+- 1Sa_18:2y Saúl le tomó aquel d, y no le dejóH3117
+- 1Sa_18:9desde aquel d Saúl no miró con buenosH3117
+- 1Sa_18:10aconteció al otro d, que un espírituH4283
+- 1Sa_18:10tocaba con su mano como los otros dH3117
+- 1Sa_18:29fue Saúl enemigo de David todos los dH3117
+- 1Sa_19:24estuvo desnudo todo aquel d y...nocheH3117
+- 1Sa_20:5me esconda...hasta la tarde del tercer dH7992
+- 1Sa_20:12le haya preguntado a...el d tercero, siH7992
+- 1Sa_20:19estarás...tres d, y luego descenderásH8027
+- 1Sa_20:19al lugar donde estabas escondido el dH3117
+- 1Sa_20:26aquel d Saúl no dijo nada, porque seH3117
+- 1Sa_20:27siguiente d, el segundo d de la nuevaH4283
+- 1Sa_20:34no comió pan el segundo d de la...lunaH3117
+- 1Sa_20:35al otro d...salió Jonatán al campo, alH1242
+- 1Sa_21:6poner panes calientes el d que aquéllosH3117
+- 1Sa_21:7estaba allí aquel d detenido delante deH3117
+- 1Sa_21:10y levantándose David aquel d, huyó deH3117
+- 1Sa_22:13y me acechase, como lo hace hoy d?[[H3117]]
+- 1Sa_22:18Doeg...mató en aquel d a 85 varones queH3117
+- 1Sa_22:22yo sabía que estando allí aquel d DoegH3117
+- 1Sa_23:14y lo buscaba Saúl todos los d peroH3117
+- 1Sa_24:4he aquí el d de que te dijo jehóvá: HeH3117
+- 1Sa_24:19Jehová te pague...por lo que en este dH3117
+- 1Sa_25:8hemos venido en buen d; te ruego que desH3117
+- 1Sa_25:16muro fueron...d y de noche, todos los dH3119
+- 1Sa_25:28y mal no se ha hallado en ti en tus dH3117
+- 1Sa_25:36no le declaró cosa alguna hasta el dH1242
+- 1Sa_25:38diez d después, Jehová hirió a NabalH3117
+- 1Sa_26:10que si...o su d llegue para que mueraH3117
+- 1Sa_27:1al fin seré muerto algún d por...SaúlH3117
+- 1Sa_27:6Aquis le dio aquel d a Siclag, por loH3117
+- 1Sa_27:7el número de los d que David habitó enH3117
+- 1Sa_28:1aconteció en aquellos d...los filisteosH3117
+- 1Sa_28:20en todo aquel d...no había comido panH3117
+- 1Sa_29:3David...ha estado conmigo por d y añosH3117
+- 1Sa_29:3desde el d que se pasó a mí hasta hoyH3117
+- 1Sa_29:6desde el d que viniste a mí hasta hoyH3117
+- 1Sa_29:8¿qué has hallado...desde el d que estoyH3117
+- 1Sa_30:1David y...vinieron a Siclag al tercer dH3117
+- 1Sa_30:12comido pan ni bebido agua en tres d yH3117
+- 1Sa_30:13yo soy...me dejó mi amo hoy hace tres dH3117
+- 1Sa_30:17los hirió David...hasta la tarde del dH4283
+- 1Sa_30:25aquel d en adelante fue esto por leyH3117
+- 1Sa_31:6así murió Saúl en aquel d, juntamenteH3117
+- 1Sa_31:8al siguiente d...viniendo los filisteosH4283
+- 1Sa_31:13los sepultaron...y ayunaron siete dH3117
+- 2Sa_1:1vuelto David...estuvo dos d en SiclagH3117
+- 2Sa_1:2al tercer d...vino uno del campamento deH3117
+- 2Sa_2:11los d que David reinó en Hebrón sobreH3117
+- 2Sa_2:17batalla fue muy reñida aquel d, y AbnerH3117
+- 2Sa_3:35que comiera, antes que acabara el dH3117
+- 2Sa_4:5entraron en el mayor calor del d en casaH3117
+- 2Sa_5:8dijo David aquel d: Todo el que hiera aH3117
+- 2Sa_6:9temiendo David a Jehová aquel d, dijoH3117
+- 2Sa_6:23Mical...nunca tuvo hijos hasta el d deH3117
+- 2Sa_7:6no he habitado en casas desde el d en queH3117
+- 2Sa_7:11desde el d en que puse jueces sobre miH3117
+- 2Sa_7:12cuando tus d sean cumplidos, y duermasH3117
+- 2Sa_11:2sucedió un d, al caer la tarde, que se
+- 2Sa_11:12se quedó Urías...aquel d y el siguienteH3117
+- 2Sa_12:18al séptimo d murió el niño y temíanH3117
+- 2Sa_13:4¿por qué de d en d vas enflaqueciendoH1242
+- 2Sa_13:32desde el d en que Amnón forzó a TamarH3117
+- 2Sa_13:37David lloraba por su hijo todos los dH3117
+- 2Sa_16:23consejo que daba Ahitofel en aquellos dH3117
+- 2Sa_18:7hizo allí en aquel d una gran matanzaH3117
+- 2Sa_18:8más los que destruyó el bosque aquel dH3117
+- 2Sa_18:20hoy no llevarás las nuevas...las...otro dH3117
+- 2Sa_19:2se volvió aquel d la victoria en lutoH3117
+- 2Sa_19:2oyó decir el pueblo aquel d que el reyH3117
+- 2Sa_19:3y entró el pueblo aquel d en la ciudadH3117
+- 2Sa_19:19males que tu siervo hizo el día en queH3117
+- 2Sa_19:24d en que el rey salió hasta el d enH3117
+- 2Sa_19:35edad de ochenta años soy este d. ¿PodréH3117
+- 2Sa_20:4convócame a los...para dentro de tres dH3117
+- 2Sa_21:1hambre en los d de David por tres añosH3117
+- 2Sa_21:9muertos en los primeros d de la siegaH3117
+- 2Sa_21:10posase sobre ellos de d, ni fieras deH3119
+- 2Sa_22:1el d que Jehová le había librado de laH3117
+- 2Sa_22:19me asaltaron en el d de mi quebrantoH3117
+- 2Sa_23:10aquel d Jehová dio una gran victoriaH3117
+- 2Sa_24:8volvieron...al cabo de nueve meses y 20 dH3117
+- 2Sa_24:13que tres d haya peste en tu tierra?[[H3117]]
+- 2Sa_24:18Gad vino a David aquel d, y le dijoH3117
+- 1Re_1:1rey David era viejo y avanzado en dH3117
+- 1Re_1:6nunca le había entristecido en...sus dH3117
+- 1Re_2:1llegaron...d en que David había de morirH3117
+- 1Re_2:8me maldijo...el d que yo iba a MahanaimH3117
+- 1Re_2:11los d que reinó David...fueron 40 añosH3117
+- 1Re_2:37el d que salieres y pasares el torrenteH3117
+- 1Re_2:38y habitó Simei en Jerusalén muchos dH3117
+- 1Re_2:42el d que salieres y fueres acá o alláH3117
+- 1Re_3:6se sentase en su...como sucede en este dH3117
+- 1Re_3:11porque...no pediste para ti muchos d, niH3117
+- 1Re_3:13que ninguno haya como tú en todos tus dH3117
+- 1Re_3:14y si anduvieres en mis...alargarés tus dH3117
+- 1Re_3:18al tercer d después de dar yo a luz queH3117
+- 1Re_4:21y sirvieron a Salomón...los d que vivióH3117
+- 1Re_4:22la provisión de Salomón para cada d eraH3117
+- 1Re_4:25vivían seguros...todos los d de SalomónH3117
+- 1Re_8:2se reunieron con...en el d de la fiestaH2282
+- 1Re_8:16d que saqué de Egipto a mi puebio IsraelH3117
+- 1Re_8:24lo has cumplido, como sucede en este dH3117
+- 1Re_8:29tus ojos abiertos de noche y de d sobreH3117
+- 1Re_8:40te teman todos los d que vivan sobre laH3117
+- 1Re_8:59cerca de...nuestro Dios de d y de nocheH3119
+- 1Re_8:61sus mandamientos, como en el d de hoyH3119
+- 1Re_8:64d santificó el rey el medio del atrioH3119
+- 1Re_8:65Salomón hizo fiesta por siete d y aunH3119
+- 1Re_8:65otros siete d, esto es, por catorce dH3119
+- 1Re_8:66al octavo d despidió al pueblo; y ellosH3119
+- 1Re_9:3y en ella estarán mis ojos...todos los dH3119
+- 1Re_11:12no lo haré en tus d, por amor a DavidH3119
+- 1Re_11:25fue adversario de Israel todos los dH3119
+- 1Re_11:34lo retendré por rey todos los d de suH3119
+- 1Re_11:36que...David tenga lámpara todos los dH3119
+- 1Re_11:42los d que Salomón reinó...fueron 40 añosH3119
+- 1Re_12:5les dijo: Idos, y de aquí a tres d volvedH3119
+- 1Re_12:12al tercer d vino Jeroboam con todo elH3119
+- 1Re_12:12rey...diciendo: Volved a mí al tercer dH3119
+- 1Re_12:32fiesta solemne...a los quince d del mesH3119
+- 1Re_12:33sacrificó...los quince d del mes octavoH3119
+- 1Re_13:3aquel mismo d dio una señal, diciendoH3119
+- 1Re_13:11el varón...había hecho aquel d en Bet-elH3119
+- 1Re_14:14destruirá la casa de Jeroboam en...dH3119
+- 1Re_14:30hubo guerra entre Roboam...todos los dH3119
+- 1Re_15:5se había apartado en todos los d de suH3119
+- 1Re_15:6hubo guerra entre Roboam...todos los dH3119
+- 1Re_15:23mas en los d de su vejez enfermó de losH6256
+- 1Re_16:15a reinar Zimri, y reinó siete d en TirsaH3117
+- 1Re_16:16aquel mismo d por rey...a Omri, generalH3117
+- 1Re_17:7pasados algunos d, se secó el arroyoH3117
+- 1Re_17:14hasta el d en que Jehová haga lloverH3117
+- 1Re_17:15comió él, y ella, y su casa, muchos dH3117
+- 1Re_18:1pasados muchos d, vino palabra de JehováH3117
+- 1Re_19:4se fue por el desierto un d de caminoH3117
+- 1Re_19:8cuarenta d y cuarenta noches hasta HorebH3117
+- 1Re_20:29siete d estuvieron acampados los unosH3117
+- 1Re_20:29al séptimo d se dio la batalla; y losH3117
+- 1Re_20:29mataron...en un solo d cien mil hombresH3117
+- 1Re_21:29no traeré el mal en sus d; en los d deH3117
+- 1Re_22:25tú lo verás en aquel d, cuando te irásH3117
+- 1Re_22:35la batalla había arreciado aquel d, yH3117
+- 2Re_2:17buscaron tres d, mas no lo hallaronH3117
+- 2Re_3:9anduvieron...el desierto siete d de caminoH3117
+- 2Re_4:8un d pasaba Eliseo por Sunem; y había allíH3117
+- 2Re_4:11que un d vino él por allí, y se quedó enH3117
+- 2Re_4:18un d, que vino a su padre, que estabaH3117
+- 2Re_4:23no es nueva luna, ni d de reposo. Y ellaH3117
+- 2Re_6:29d siguiente yo le dije: Da acá tu hijoH3117
+- 2Re_7:9es d de buena nueva, y nosotros callamosH3117
+- 2Re_8:6desde el d que dejó el país hasta ahoraH3117
+- 2Re_8:15el d siguiente, tomó un paño y lo metióH4283
+- 2Re_10:20dijo...Santificad un d solemne a BaalH7676
+- 2Re_10:32en aquellos d comenzó Jehová a cercenarH3117
+- 2Re_11:5tendrá la guardia de la...el d de reposoH7676
+- 2Re_11:7las dos partes...que salen el d de reposoH7676
+- 2Re_11:9los que entraban el d de reposo y los queH7676
+- 2Re_11:9los que salían el d de reposo, vinieronH7676
+- 2Re_15:5estuvo leproso hasta el d de su muerteH3117
+- 2Re_15:29en los d de Peka rey de Israel, vinoH3117
+- 2Re_16:18el pórtico para los d de reposo, queH7676
+- 2Re_19:3este d es d de angustia, de reprensiónH3117
+- 2Re_19:25desde los d de la antigüedad lo tengoH3117
+- 2Re_20:1en aquellos d Ezequías cayó enfermo deH3117
+- 2Re_20:5al tercer d subirás a la casa de JehováH3117
+- 2Re_20:6añadiré a tus d quince años...te libraréH3117
+- 2Re_20:8subiré a la casa de Jehová al tercer d?[[H3117]]
+- 2Re_20:17vienen d en que todo lo que está en tuH3117
+- 2Re_20:19habrá al menos...y seguridad en mis dH3117
+- 2Re_21:15desde el d que sus padres salieron deH3117
+- 2Re_23:29aquellos d...Necao rey de Egipto subióH3117
+- 2Re_25:1a los diez d del mes, que NabucodonosorH6218
+- 2Re_25:3a los nueve d del cuarto mes prevalecióH8672
+- 2Re_25:8a los siete d del mes, siendo el año 19H7651
+- 2Re_25:27a los 27 d del mes, que Evil-merodacH7651, [[H6242]]
+- 2Re_25:29comió...delante de él todos los d de suH3117
+- 2Re_25:30le fue dada su comida...todos los d deH3117
+- 1Cr_1:19en sus d fue dividida la tierraH3117
+- 1Cr_4:41vinieron en d de Ezequías rey de JudáH3117
+- 1Cr_5:10los d de Saúl hicieron guerra contra losH3117
+- 1Cr_5:17en d de Jotam...y en d de Jeroboam reyH3117
+- 1Cr_7:22Efraín su padre hizo duelo por muchos dH3117
+- 1Cr_9:25cada siete d según su turno para estarH3117
+- 1Cr_9:32los panes...por orden cada d de reposoH7676
+- 1Cr_9:33de d y de noche estaban en aquella obraH3119
+- 1Cr_10:8sucedió al d siguiente, que al venir losH4283
+- 1Cr_10:12y enterraron sus...y ayunaron siete dH3117
+- 1Cr_12:22todos los d venía ayuda a David, hastaH3117
+- 1Cr_12:39y estuvieron allí con David tres dH3117
+- 1Cr_13:12y David temió a Dios aquel d, y dijoH3117
+- 1Cr_16:7en aquel d, David comenzó a aclamar aH3117
+- 1Cr_16:23cantad...proclamad de d en d su salvaciónH3117
+- 1Cr_16:37delante del arca, cada cosa en su dH3117
+- 1Cr_17:5no he habitado en casa...desde el d queH3117
+- 1Cr_17:11tus d sean cumplidos para irte con tusH3117
+- 1Cr_21:12tres d la espada de Jehová...la pesteH3117
+- 1Cr_22:9daré paz y reposo sobre Israel en sus dH3117
+- 1Cr_23:1siendo...David ya viejo y lleno de dH3117
+- 1Cr_23:30para asistir...todos los d a dar graciasH1242
+- 1Cr_23:31los holocaustos...los d de reposo, lunasH7676
+- 1Cr_26:17al norte cuatro de d; al sur cuatro de dH3117
+- 1Cr_28:7por obra...mis decretos, como en este dH3117
+- 1Cr_29:15y nuestros d...cual sombra que no duraH3117
+- 1Cr_29:21y ofrecieron a Jehová...al d siguienteH3117
+- 1Cr_29:22comieron...delante de Jehová aquel dH3117
+- 1Cr_29:28murió en...lleno de d, de riquezas y deH3117
+- 2Cr_1:11ni pediste muchos d, sino que hasH3117
+- 2Cr_2:4para holocaustos a...en los d de reposoH7676
+- 2Cr_3:2comenzó a edificar...a los dos d del mesH8145
+- 2Cr_6:5desde el d que saqué a mi pueblo de laH3117
+- 2Cr_6:15lo has cumplido como se ve en este dH3117
+- 2Cr_6:20que tus ojos estén abiertos...de d y deH3119
+- 2Cr_6:31anden en tus caminos, todos los d queH3117
+- 2Cr_7:8hizo Salomón fiesta siete d, y con él todoH3117
+- 2Cr_7:9al octavo d hicieron solemne asambleaH3117
+- 2Cr_7:9la dedicación del altar en siete d, yH3117
+- 2Cr_7:9celebrado la fiesta solemne por siete dH3117
+- 2Cr_7:10y a los 23 d del mes séptimo envió alH3117
+- 2Cr_8:13para que ofreciesen cada cosa en su dH3117
+- 2Cr_8:13en los d de reposo, en las nuevas lunasH7676
+- 2Cr_8:14los levitas en sus...cada cosa en su dH3117
+- 2Cr_8:16estaba preparada desde el d en que seH3117
+- 2Cr_9:20en los d de Salomón la plata no eraH3117
+- 2Cr_10:5les dijo: Volved a mí de aquí a tres dH3117
+- 2Cr_10:12vino, pues...al tercer d, según el reyH3117
+- 2Cr_10:12mandado...Volved a mí de aquí a tres dH3117
+- 2Cr_13:20nunca más tuvo...poder en los d de AbíasH3117
+- 2Cr_14:1Asa, en cuyos d tuvo sosiego el país porH3117
+- 2Cr_15:3muchos d ha estado Israel sin...Dios yH3117
+- 2Cr_15:11y en aquel mismo d sacrificaron paraH3117
+- 2Cr_15:17corazón de Asa fue perfecto en...sus dH3117
+- 2Cr_18:24tú lo verás aquel d, cuando entres deH3117
+- 2Cr_18:34y arreció la batalla aquel d, por loH3117
+- 2Cr_20:25tres d estuvieron recogiendo el botínH3117
+- 2Cr_20:26y al cuarto d se juntaron en el valleH3117
+- 2Cr_21:8los d de éste se rebeló Edom contra elH3117
+- 2Cr_21:19al pasar muchos d...al cabo de dos añosH3117
+- 2Cr_23:4los que entran el d de reposo, estaránH7676
+- 2Cr_23:8los que entraban el d de reposo, y losH7676
+- 2Cr_23:8y los que salían el d de reposo; porqueH7676
+- 2Cr_24:2e hizo Joás lo recto...los d de Joiada elH3117
+- 2Cr_24:11lo hacian de d en d, y recogían muchoH3117
+- 2Cr_24:14y sacrificaban...todos los d de JoiadaH3117
+- 2Cr_24:15Joiada...murió lleno de d; de 130 añosH3117
+- 2Cr_26:5persistió en buscar a Dios en los d deH3117
+- 2Cr_26:5en estos d en que buscó a Jehová, él leH3117
+- 2Cr_26:21fue leproso hasta el d de su muerteH3117
+- 2Cr_28:6mató en Judá en un d 120.000 hombresH3117
+- 2Cr_29:17comenzaron a santificarse el d primeroH259
+- 2Cr_29:17santificaron la casa de Jehová en 8 dH3117
+- 2Cr_29:17en el d 16 del mes primero terminaronH3117
+- 2Cr_30:15sacrificaron la pascua, a los 14 d del
+- 2Cr_30:21celebraron la fiesta...7 d con grande gozoH3117
+- 2Cr_30:21glorificaban a Jehová todos los d losH3117
+- 2Cr_30:22y comieron de lo sacrificado...siete dH3117
+- 2Cr_30:23celebrasen la fiesta por otros siete dH3117
+- 2Cr_30:23celebraron otros siete d con alegriaH3117
+- 2Cr_30:26desde los d de Salomón hijo de DavidH3117
+- 2Cr_31:3para los holocaustos de los d de reposoH7676
+- 2Cr_32:26no vino...la ira de Jehová en los d deH3117
+- 2Cr_35:1sacrificaron la pascua a los 14 d delH702, [[H6240]]
+- 2Cr_35:16fue preparado todo el servicio...aquel dH3117
+- 2Cr_35:17celebraron la pascua en...por siete dH3117
+- 2Cr_35:18una pascua...desde los d de Samuel elH3117
+- 2Cr_36:9Joaquín...reinó tres meses y diez d enH3117
+- Esd_3:4fiesta solemne...y holocaustos cada dH3117
+- Esd_3:4orden conforme al rito, cada cosa en su dH3117
+- Esd_3:6el primer d del mes séptimo comenzarón aH3117
+- Esd_4:2ofrecemos...desde los d de Esar-hadón reyH3117
+- Esd_4:7también en d de Artajerjes escribieronH3117
+- Esd_6:9les sea dado d por d sin obstaculo algunoH3118
+- Esd_6:15terminada el tercer d del mes de AdarH3118
+- Esd_6:19colebraron la pascua a los 14 d del mesH702, [[H6240]]
+- Esd_6:22celebraron...la fiesta solemne...siete dH3117
+- Esd_7:9porque el d primero del primer mes fue
+- Esd_8:15junto al río y acampamos allí tres dH3117
+- Esd_8:32y llegamos a...y reposamos allí tres dH3117
+- Esd_8:33al cuarto d fue luego pesada la plataH3117
+- Esd_9:7los d de nuestros padres hasta este dH3117
+- Esd_9:7entregados en...a vergüenza...como hoy dH3117
+- Esd_9:15un remanente que ha escapado...en este dH3117
+- Esd_10:8que el que no viniera dentro de tres dH3117
+- Esd_10:9todos...se reunieron...dentro de los 3 dH3117
+- Esd_10:9se reunieron en...a los 20 d del mes, queH6242
+- Esd_10:13la obra es de un d ni de dos, porqueH3117
+- Esd_10:16se sentaron el primer d del mes décimoH3117
+- Esd_10:17terminaron...primer d del mes primeroH3117
+- Neh_1:4hice duelo por algunos d, y ayuné yH3117
+- Neh_1:6oír la oración...que hago ahora...d y nosheH3119
+- Neh_2:11llegué...y después de estar allí tres dH3117
+- Neh_4:2¿acabarán en un d? ¿Resucitarán de losH3117
+- Neh_4:9pusimos guarda contra...de d y de nocheH3119
+- Neh_4:16desde aquel d la mitad de mis siervosH3117
+- Neh_4:22sirvan de centinela y de d en la obraH3117
+- Neh_5:14desde el d que me mandó el rey que fueseH3117
+- Neh_5:18que se preparaba para cada d era un bueyH3117
+- Neh_5:18y cada diez d vino en toda abundanciaH3117
+- Neh_6:15fue termirdado, pues, el muro...en 52 dH3117
+- Neh_6:17en aquellos d iban muchas cartas de losH3117
+- Neh_8:2Esdras trajo la ley...el primer d del mesH3117
+- Neh_8:9d santo es a jehová nuestro Dios; no osH3117
+- Neh_8:10porque d santo es a nuestro Señor; no osH3117
+- Neh_8:11diciendo: Callad, porque es d santo, yH3117
+- Neh_8:13al d siguiente se reunieron los cabezasH3117
+- Neh_8:17desde los d de Josué...hasta aquel d, noH3117
+- Neh_8:18y leyó...cada d, desde el primer d hastaH3117
+- Neh_8:18fiesta...por siete d, y el octavo d fueH3117
+- Neh_9:1el d 24 del mismo mes se reunieron losH3117
+- Neh_9:3leyeron el libro...la cuarta parte del dH3117
+- Neh_9:10hiciste nombre grande, como en este dH3117
+- Neh_9:12con columna de nube los guiaste de dH3119
+- Neh_9:14ordenaste el d de reposo santo para tiH7676
+- Neh_9:19la columna de nube no se apartó...de dH3119
+- Neh_9:32los días de los reyes de...hasta este dH3117
+- Neh_10:31si...trajesen a vender...en d de reposoH3117
+- Neh_10:31nada tomaríamos de...ese d ni en otro dH3117
+- Neh_10:33los d de reposo, las nuevas lunas, lasH7676
+- Neh_11:23distribución para los cantores...cada dH3117
+- Neh_12:7eran los príncipes...en los d de JesúaH3117
+- Neh_12:12y en los d de Joiacim los sacerdotesH3117
+- Neh_12:22los levitas en d de Eliasib, de JoiadaH3117
+- Neh_12:23inscritos en...hasta los d de JohanánH3117
+- Neh_12:26estos fueron en los d de Joiacim hijoH3117
+- Neh_12:26y en los d del gobernador Nehemías yH3117
+- Neh_12:43sacrificaron aquel d...víctimas, y seH3117
+- Neh_12:44aquel d fueron puestos varones sobreH3117
+- Neh_12:47en d de Zorobabel y en d de NehemíasH3117
+- Neh_12:47daba alimentos a los...cada cosa en su dH3117
+- Neh_13:1aquel d se leyó en el libro de MoisésH3117
+- Neh_13:6al cabo de algunos d pedí permiso al reyH3117
+- Neh_13:15en aquellos d vi en Judá a algunos queH3117
+- Neh_13:15pisaban en lagares en el d de reposoH7676
+- Neh_13:15que traían a Jerusalén en d de reposoH3117
+- Neh_13:15amonesté acerca del d en que vendíanH3117
+- Neh_13:16pescado...y vendían en d de reposo a losH7676
+- Neh_13:17-18profanando así el d de reposo?[[H3117]]
+- Neh_13:19iba oscureciendo...antes del d de reposoH7676
+- Neh_13:19hasta después del d de reposo; y puseH7676
+- Neh_13:19en d de reposo no introdujeran cargaH7676
+- Neh_13:21entonces no vinieron en d de reposoH7676
+- Neh_13:22viniesen a...santificar el d de reposoH3117
+- Neh_13:23vi asimismo en aquellos d a judíos queH3117
+- Est_1:1los d de Asuero, el Asuero que reinóH3117
+- Est_1:2en aquellos d, cuando fue afirmado el reyH3117
+- Est_1:4para mostrar él las...por muchos d, 180 dH3117
+- Est_1:5cumplidos estos d, hizo el...otro banqueteH3117
+- Est_1:10el séptimo d, estando el corazón del reyH3117
+- Est_2:11cada d Mardoqueo se paseaba delante delH3117
+- Est_2:21aquellos d, estando Mardoqueo sentado aH3117
+- Est_3:4que hablándole cada d de esta manera, yH3117
+- Est_3:7suerte para cada d y cada mes del añoH3117
+- Est_3:12en el mes primero, al d trece del mismoH3117
+- Est_3:13en un mismo d, en el d trece del mesH3117
+- Est_3:14de que estuviesen listos para aquel dH3117
+- Est_4:11yo no he sido llamada...estos treinta dH3117
+- Est_4:16comáis ni bebáis en tres d, noche y dH3117
+- Est_5:1tercer d se vistió Ester su vestido realH3117
+- Est_5:9salió Amán aquel d contento y alegre deH3117
+- Est_7:2el segundo d, mientras bebían vino, dijoH3117
+- Est_8:1el mismo d, el rey Asuero dio a la...EsterH3117
+- Est_8:9fueron llamados...a los 23 d de ese mesH7969, [[H6242]]
+- Est_8:12en un mismo d en...en el d trece del mesH3117
+- Est_8:13preparados para aquel d, para vengarseH3117
+- Est_8:17los judíos tuvieron alegría...d de placerH3117
+- Est_9:1a los trece d del mismo mes cuando debíaH3117
+- Est_9:1el mismo d en que los enemigos de losH3117
+- Est_9:11mismo d se le dio cuenta al rey acercaH3117
+- Est_9:17esto fue en el d trece del mes de AdarH3117
+- Est_9:17y reposaron en el d catorce del mismoH3117
+- Est_9:17lo hicieron d de banquete y de alegrlaH3117
+- Est_9:18se juntaron el d 13 y el 14 del mismoH7969, [[H6242]]
+- Est_9:18lo hicieron d de banquete y de regocijoH3117
+- Est_9:19hacen...d de alegría...un d de regocijoH3117
+- Est_9:21celebrasen el d decimocuarto del mes deH3117
+- Est_9:22como d en que los judíos tuvieron pazH3117
+- Est_9:22se les cambió en...y de luto en d buenoH3117
+- Est_9:22que los hiciesen d de banquete y de gozoH3117
+- Est_9:26por esto llamaron a estos d Purim, porH3117
+- Est_9:27que no dejarían de celebrar estos dos dH3117
+- Est_9:28estos d serían recordados y celebradosH3117
+- Est_9:28d de Purim no dejarían de ser guardadosH3117
+- Est_9:31para confirmar estos d de Purim en susH3117
+- Job_1:4hacían banquetes en...cada uno en su dH3117
+- Job_1:5que habiendo pasado en...los d del conviteH3117
+- Job_1:5Job...de esta manera hacía todos los dH3117
+- Job_1:6un d vinieron a presentarse delante deH3117
+- Job_1:13y un d aconteció que sus hijos e hijasH3117
+- Job_2:1otro d vinieron los hijos de Dios paraH3117
+- Job_2:13se sentaron con él...siete d y 7 nochesH3117
+- Job_3:1esto abrió Job su boca, y maldijo su dH3117
+- Job_3:3perezca el d en que yo nací, y la nocheH3117
+- Job_3:4sea aquel d sombrío, y no cuide de élH3117
+- Job_3:5que lo haga horrible cosno d caliginosoH3117
+- Job_3:6no sea contada entre los d del año, niH3117
+- Job_3:8maldíganla los que maldicen el d, los queH3117
+- Job_5:14de d tropiezan con tsmeblas, y...andanH3119
+- Job_7:1¿no eS...sus d como los d del jornalero?[[H3117]]
+- Job_7:6mis d fueron más veloces que la lanzaderaH3117
+- Job_7:16déjeme, pues, porque mis d son vanidadH3117
+- Job_8:9siendo nuestros d sobre la tierra comoH3117
+- Job_9:25mis d han sido más ligeros que un correoH3117
+- Job_10:5¿son tus d como los d del hombre, o tusH3117
+- Job_10:20¿no son pocos mis d? Cesa, pues, yH3117
+- Job_14:1el hombre nacido de mujer, corto de dH3117
+- Job_14:5ciertamente sus d están determinadosH3117
+- Job_14:6tanto deseará, como el jornalero, su dH3117
+- Job_14:14los d de mi edad esperaré, hasta queH3117
+- Job_15:10mucho más avanzados en d que tu padreH3117
+- Job_15:20todos sus d, el impío es atormentadoH3117
+- Job_15:23que le está preparado d de tinieblasH3117
+- Job_17:1mi aliento se agota, se acortan mis dH3117
+- Job_17:11pasaron mis d, fueron arrancados misH3117
+- Job_17:12pusieron la noche por d, y la luz seH3117
+- Job_18:20sobre su d se espantarán...de occidenteH3117
+- Job_20:28serán esparcidos en el d de su furorH3117
+- Job_21:13pasan sus d en prosperidad, y en pazH3117
+- Job_21:30que el malo es preservado en el d deH3117
+- Job_21:30malo...guardado será en el d de la iraH3117
+- Job_24:1por qué los que le conocen no ven sus d?[[H3117]]
+- Job_24:16las casas que de d para sí señalaronH3119
+- Job_27:6no me reprochará mi corazón en...mis dH3117
+- Job_29:2como en los d en que Dios me guardabaH3117
+- Job_29:4fui en los d de mi juventud, cuando elH3117
+- Job_29:18decía yo...como arena multiplicaré mis dH3117
+- Job_30:16en mí; d de aflicción se apoderan de míH3117
+- Job_30:27d de aflicción me han sobrecogidoH3117
+- Job_32:7yo decía: Los d hablarán, y...declararáH3117
+- Job_33:25carne...volverá a los d de su juventudH3117
+- Job_36:11acabarán sus d en bienestar, y sus añosH3117
+- Job_38:12¿has mandado tú a la mañana en tus d?[[H3117]]
+- Job_38:21sabes...y es grande el número de tus dH3117
+- Job_38:23que tengo...para el d de la guerra y deH3117
+- Job_42:17y murió Job viejo y lleno de dH3117
+- Sal_1:2sino...en su ley medita de d y de nocheH3119
+- Sal_7:11está airado contra el impío todos los dH3117
+- Sal_13:2con tristezas en mi corazón cada d?[[H3119]]
+- Sal 18 tít.el d que le libró Jehová de mano deH3117
+- Sal_18:18me asaltaron en el d de mi quebrantoH3117
+- Sal_19:2un d emite palabra a otro d, y una nocheH3117
+- Sal_20:1Jehová te oiga en el d de conflicto; elH3117
+- Sal_20:9Rey nos oiga en el d que lo invoquemosH3117
+- Sal_21:4largura de d eternamente y para siempreH3117
+- Sal_22:2Dios mío, clamo de d, y no respondesH3119
+- Sal_23:6me seguirán todos los d de mi vida, y enH3117
+- Sal_23:6en la casa de Jehova moraré por largos dH3117
+- Sal_25:5tú eres el...en ti he esperado todo el dH3117
+- Sal_27:4en la casa de...todos los d de mi vidaH3117
+- Sal_27:5él me esconderá en su...en el d del malH3117
+- Sal_32:3se envejecieron...en mi gemir todo el dH3117
+- Sal_32:4de d y de noshe se agravó sobre mí tuH3119
+- Sal_34:12que desea muchos d para ver el bien?[[H3117]]
+- Sal_35:28lengua hablará...tu alabanza todo el dH3117
+- Sal_37:13reirá de él; porque ve que viene su dH3117
+- Sal_37:18conoce Jehová los d de los perfectosH3117
+- Sal_37:19y en los d de hambre serán saciadosH3117
+- Sal_38:6estoy humillado en...enlutado todo el dH3117
+- Sal_38:12hablan...y meditan fraudes todo el dH3117
+- Sal_39:4y cuánta sea la medida de mis d; sepa yoH3117
+- Sal_39:5he aquí, diste a mis d término cortoH3117
+- Sal_41:1en el pobre, en el d malo lo libraráH3117
+- Sal_42:3fueron...lágrimas mi pan de d y de nocheH3119
+- Sal_42:3, Sal_42:10todos los d: ¿Dónde está tu Dios?[[H3117]]
+- Sal_42:8de d mandará Jehová su misericordia, yH3119
+- Sal_44:1la obra que hiciste en sus d, en losH3117
+- Sal_44:15cada d mi vergüenza está delante de míH3117
+- Sal_44:22pero por causa de ti nos matan cada dH3117
+- Sal_49:5¿por qué he de temer...d de adversidadH3117
+- Sal_50:15e invócame en el d de la angustia; teH3117
+- Sal_55:10d y noche la rodean sobre sus murosH3119
+- Sal_55:23no llegarán a la mitad de sus d; peroH3117
+- Sal_56:1homhre; me oprime combatiéndome todo el dH3117
+- Sal_56:2todo el d mis enemigos me pisoteanH3117
+- Sal_56:3en el d que temo, yo en ti confíoH3117
+- Sal_56:5todos los d ellos pervierten mi causaH3117
+- Sal_56:9vueltos atrás...el d en que yo clamareH3117
+- Sal_59:16sido mi...refugio en el d de mi angustiaH3117
+- Sal_61:6d sobre d añadirás al rey; sus años seránH3117
+- Sal_61:8así cantaré tu...pagando mis votos cada dH3117
+- Sal_68:19cada d nos colma de beneficios el DiosH3117
+- Sal_71:8llena mi boca...de tu gloria todo el dH3117
+- Sal_71:15y tus hechos de salvación todo el dH3117
+- Sal_71:24lengua hablará...tu justicia todo el dH3117
+- Sal_72:7florecerá en sus d justicia, y...de pazH3117
+- Sal_72:15y se orará...todo el d se le bendeciráH3117
+- Sal_73:14he sido azotado todo el d, y castigadoH3117
+- Sal_74:16tuyo es el d, tuya también es la nosheH3117
+- Sal_74:22de cómo el insensato te injuria cada dH3117
+- Sal_77:2al Señor busqué en el d de mi angustiaH3117
+- Sal_77:5consideraba los d desde el principioH3117
+- Sal_78:9volvieron las espaldas en el d de laH3117
+- Sal_78:14les guió de d con nube, y toda la nocheH3119
+- Sal_78:33consumió sus d en vanidad, y sus añosH3117
+- Sal_78:42del d que los redimió de la angustiaH3117
+- Sal_81:3el d señalado, en el d de nuestra fiestaH3117
+- Sal_84:10mejor es un d en tus atrios que milH3117
+- Sal_86:3ten misericordia...a ti clamo todo el dH3117
+- Sal_86:7el d de mi angustia te llamaré, porqueH3117
+- Sal_88:1Jehová...d y noche clamo delante de tiH3117
+- Sal_88:9te he llamado, oh Jehová, cada d; heH3117
+- Sal_89:16en tu nombre se alegrará todo el d, yH3117
+- Sal_89:29y su trono como los d de los cielosH3117
+- Sal_89:45has acortado los d de su juventud; leH3117
+- Sal_90:4mil años...como el d de ayer, que pasaH3117
+- Sal_90:9nuestros d declinan a causa de tu iraH3117
+- Sal_90:10los d de nuestra edad son setenta añosH3117
+- Sal_90:12enséñanos...tal modo a contar nuestros dH3117
+- Sal_90:14y nos alegraremos todos nuestros dH3117
+- Sal_90:15alégranos conforme a los d que nosH3117
+- Sal_91:5no temerás el...ni saeta que vuele de dH3119
+- Sal_91:6mortandad que en medio del d destruyaH6672
+- Sal 92 tít.Salmo. Cántico para el d de reposoH3117
+- Sal_94:13hacerle descansar en los d de aflicciónH3117
+- Sal_95:8como en el d de Masab en el desiertoH3117
+- Sal_96:2cantad...anunciad de d en d su salvaciónH3117
+- Sal_102:2no escondas de mí tu rostro en el d deH3117
+- Sal_102:2apresúrate a responderme el d que teH3117
+- Sal_102:3mis d se han consumido como humo, y miH3117
+- Sal_102:8cada d me afrentan mis enemigos; losH3117
+- Sal_102:11mis d son como sombra que se va, y meH3117
+- Sal_102:23él debilitó mi fuerza...acortó mis dH3117
+- Sal_102:24mío, no me cortes en la mitad de mis dH3117
+- Sal_103:15el hombre, como la hierba son sus dH3117
+- Sal_109:8sean sus d pocos; tome otro su oficioH3117
+- Sal_110:3pueblo se te ofrecerá...el d de tu poderH3117
+- Sal_110:5quebrantará a los reyes en el d de suH3117
+- Sal_116:2por tanto, le invocaré en todos mis d
+- Sal_118:24este es el d que hizo Jehová; nosH3117
+- Sal_119:84¿cuántos son los d de tu siervo?[[H3117]]
+- Sal_119:97ley! Todo el d es ella mi meditaciónH3117
+- Sal_119:164siete veces al d te alabo a causa deH3117
+- Sal_121:6el sol no te fatigará de d, ni la lunaH3117
+- Sal_128:5veas el bien...todos los d de tu vidaH3117
+- Sal_136:8el sol para que señorease en el dH3117
+- Sal_137:7ob Jehová, recuerda...el d de JerusalénH3117
+- Sal_138:3el d que clamé, me respondiste; meH3117
+- Sal_139:12ti, y la noche resplandece como el dH3117
+- Sal_140:2en el corazón; cada d urden contiendas
+- Sal_140:7pusiste a cubierto mi cabeza en el dH3117
+- Sal_143:5me acordé de los d antiguos; meditabaH3117
+- Sal_144:4sus d son como la sombra que pasaH3117
+- Sal_145:2d te bendeciré, y alabaré tu nombreH3117
+- Sal_146:4ese mismo d perecen sus pensamientosH3117
+- Pro_3:2largura de d y años de vida y paz teH3117
+- Pro_3:16largura de d está en su mano derecha; enH3117
+- Pro_4:18va en aumento hasta que el d es perfectoH3117
+- Pro_6:34y no perdonará en el d de la venganzaH3117
+- Pro_7:9a la tarde del d, cuando ya oscurecía, en
+- Pro_7:20llevó...el d señalado volverá a su casaH3117
+- Pro_8:30yo...era su delicia de d en d, teniendoH3117
+- Pro_8:34velando a...puertas cada d, aguardandoH3117
+- Pro_9:11por mí se aumentarán tus d, y años deH3117
+- Pro_10:27el temor de Jehová aumentará los dH3117
+- Pro_11:4no aprovecharán las riquezas en el d deH3117
+- Pro_15:15todos los d del afligido son difícilesH3117
+- Pro_16:4ha hecho...aun al impío para el d maloH3117
+- Pro_21:26hay quien todo el d codicia; pero elH3117
+- Pro_21:31el caballo se alista para el d de laH3117
+- Pro_24:10si fueres flojo en el d de trabajo, tusH3117
+- Pro_27:1no te jactes del d de mañana; porque noH3117
+- Pro_27:10ni vayas a la...en el d de tu aflicciónH3117
+- Pro_28:16aborrece la avaricia prolongará sus dH3117
+- Pro_31:12da ella bien...todos los d de su vidaH3117
+- Ecl_2:3en el cual se ocuparan...d de su vidaH3117
+- Ecl_2:16los d venideros ya todo será olvidadoH3117
+- Ecl_2:23todos sus d no son sino dolores, y susH3117
+- Ecl_5:17todos los d...comerá en tinieblas, conH3117
+- Ecl_5:18gozar...todos los d de su vida que DiosH3117
+- Ecl_5:20no se acordará mucho de los d de su vidaH3117
+- Ecl_6:3y los d de su edad fueren numerosos; siH3117
+- Ecl_6:12todos los d de la vida de su vanidadH3117
+- Ecl_7:1y mejor el d de la muerte que el d delH3117
+- Ecl_7:14el d del bien goza del bien; y en el dH3117
+- Ecl_7:15esto he visto en los d de mi vanidadH3117
+- Ecl_7:15impío que por su maldad alarga sus d
+- Ecl_8:8ni potestad sobre el d de la muerte; yH3117
+- Ecl_8:12y prolongue sus d, con todo yo también
+- Ecl_8:13ni le serán prolongados los d, que sonH3117
+- Ecl_8:15le quede de su trabajo los d de su vidaH3117
+- Ecl_8:16hay quien ni de noche ni de d ve sueñoH3117
+- Ecl_9:9goza de la...todos los d...de tu vanidadH3117
+- Ecl_11:1porque después de muchos d lo hallarásH3117
+- Ecl_11:8acuérdese...que los d de las tinieblasH3117
+- Ecl_11:9tome placer...en los d de tu adolescenciaH3117
+- Ecl_12:1acuérdate de tu Creador en los d de tuH3117
+- Ecl_12:1vengan los d malos, y lleguen los añosH3117
+- Cnt_2:17hasta que apunte el d, y huyan lasH3117
+- Cnt_3:11le coronó su...en el d de su desposorioH3117
+- Cnt_3:11le coronó...el d del gozo de su corazónH3117
+- Cnt_4:6hasta que apunte el d y huyan las sombrasH3117
+- Isa_1:1visión de Isaías hijo de...en d de UzíasH3117
+- Isa_1:13y d de reposo...no lo puedo sufrir; son
+- Isa_2:11, Isa_2:17Jehová solo será exaltado en aquel dH3117
+- Isa_2:12d de Jehová de...sobre todo soberbio yH3117
+- Isa_2:20aquel d arrojará el hombre a los toposH3117
+- Isa_3:7jurará aquel d, diciendo: No tomaré eseH3117
+- Isa_3:18aquel d quitará el Señíor el atavío delH3117
+- Isa_4:5nube y oscuridad de d, y de noche...fuegoH3119
+- Isa_4:6habrá...para sombra contra el calor del dH3119
+- Isa_5:30bramará sobre él en aquel d como...marH3117
+- Isa_7:1aconteció en los d de Acaz hijo de JotamH3117
+- Isa_7:17d cuales nunca vinieron desde el d queH3117
+- Isa_7:18que aquel d silbará Jehová a la moscaH3117
+- Isa_7:20en aquel d el Señor raerá con navajaH3117
+- Isa_9:4tú quebraste su...como en el d de MadiánH3117
+- Isa_9:14cortará de...rama y caña en un mismo dH3117
+- Isa_10:3¿y qué haréis en el d del castigo?[[H3117]]
+- Isa_10:17que abrase y consuma en un d sus cardosH3117
+- Isa_10:32vendrá d cuando reposará en Nob; alzaráH3117
+- Isa_11:16el d que subió de la tierra de EgiptoH3117
+- Isa_12:1aquel d dirás: Cantaré a ti, oh JehováH3117
+- Isa_12:4y diréis en aquel d:Cantad a JehováH3117
+- Isa_13:6aullad, porque cerca está el d de JehováH3117
+- Isa_13:9el d de Jehová viene, terrible, y deH3117
+- Isa_13:13se moverá...en el d del ardor de su iraH3117
+- Isa_13:22está su tiempo, y sus d no se alargaránH3117
+- Isa_14:3y en el d que Jehová te dé reposo de tuH3117
+- Isa_16:3tu sombra en medio del d como la nocheH6672
+- Isa_17:7en aquel d mirará el hombre a su HacedorH3117
+- Isa_17:9aquel d sus ciudades fortificadas seránH3117
+- Isa_17:11el d que las plantes, las harás crecerH3117
+- Isa_17:11será arrebatada en el d de la angustiaH3117
+- Isa_19:16aquel d los egipcios serán como mujeresH3117
+- Isa_19:21de Egipto conocerán a Jehová en aquel dH3117
+- Isa_20:6dirá en aquel d el morador de esta costaH3117
+- Isa_21:8estoy yo continuamente de d, y...nochesH3119
+- Isa_22:5porque d es de alboroto, de angustia yH3117
+- Isa_22:8y miraste en aquel d hacia la casa deH3117
+- Isa_22:12llamó en este d a llanto y a endechasH3117
+- Isa_22:20aquel d llamaré a mi siervo EliaquimH3117
+- Isa_22:25aquel d, dice Jehová de los ejércitosH3117
+- Isa_23:7era ésta...con muchos d de antigüedad?[[H3117]]
+- Isa_23:15acontecerá en aquel d, que Tiro seráH3117
+- Isa_24:21en aquel d, que Jehová castigará alH3117
+- Isa_24:22serán castigados después de muchos dH3117
+- Isa_25:9y se dirá en aquel d: He aquí, éste esH3117
+- Isa_26:1aquel d cantarán este cántico en tierraH3117
+- Isa_27:1aquel d Jehová castigará con su espadaH3117
+- Isa_27:2en aquel d cantad acerca de la viña delH3117
+- Isa_27:3la guardaré de noche y de d, para queH3117
+- Isa_27:6d vendrán cuando Jacob echará raíces
+- Isa_27:8él los remueve...en el d del aire solanoH3117
+- Isa_27:12acontecerá en aquel d, que trillaráH3117
+- Isa_27:13acontecerá...en aquel d, que se tocaráH3117
+- Isa_28:5en aquel d Jehová...será por corona deH3117
+- Isa_28:19de mañana en mañana pasará, de d y deH3117
+- Isa_28:24¿arará todo el d? ¿Romperá y quebraráH3117
+- Isa_30:8quede hasta el d postrero, eternamente
+- Isa_30:25habrá...aguas el d de la gran matanzaH3117
+- Isa_30:26como la luz de siete d, el d que vendareH3117
+- Isa_31:7en aquel d arrojará el hombre sus ídolosH3117
+- Isa_34:8porque es d de venganza de Jehová, añoH3117
+- Isa_34:10no se apagará de noche ni de d...humoH3117
+- Isa_37:3d de angustia...y de blasfemia es este dH3117
+- Isa_37:26desde los d de la antigüedad lo tengoH3117
+- Isa_38:1en aquellos d Ezequías enfermó de muerteH3117
+- Isa_38:5he aquí que yo añado a tus d quince añosH3117
+- Isa_38:10dije: A la mitad de mis d iré a...SeolH3117
+- Isa_38:12me consumirás entre el d y la nocheH3117
+- Isa_38:20cánticos...todos los d de nuestra vidaH3117
+- Isa_39:6d en que será llevado a Babilonia todoH3117
+- Isa_39:8lo menos, haya paz y seguridad en mis dH3117
+- Isa_43:13antes que hubiera d, yo era, y no hayH3117
+- Isa_47:9dos...en un mismo d, orfandad y viudezH3117
+- Isa_48:7ahora han sido creadas, no en d pasadosH3117
+- Isa_49:8te oí, y en el d de salvación te ayudéH3117
+- Isa_51:13y todo el d temiste continuamente delH3117
+- Isa_52:5dice...es blasfemado mi nombre todo el dH3117
+- Isa_52:6mi pueblo sabrá mi nombre...en aquel dH3117
+- Isa_53:10verá linaje, vivirá por largos d, y laH3117
+- Isa_54:9será como en los d de Noé, cuando juré
+- Isa_56:2guarda el d de reposo para no profanarlo
+- Isa_56:4que guarden mis d de reposo, y escojan
+- Isa_56:6a todos los que guarden el d de reposo
+- Isa_56:12el d de mañana como este, o mucho másH3117
+- Isa_58:2que me buscan cada d, y quieren saberH3117
+- Isa_58:3en el d de vuestro ayuno buscáis vuestroH3117
+- Isa_58:5que de d aflija el hombre su alma, queH3117
+- Isa_58:5llamaréis esto...d agradable a Jehová?[[H3117]]
+- Isa_58:13si retrajeres del d de reposo tu pieH3117
+- Isa_58:13de hacer tu voluntad en mi d santo, yH3117
+- Isa_60:11no se cerrarán de d ni de noche, paraH3119
+- Isa_60:19el sol nunca más te...de luz para el dH3117
+- Isa_60:20luz...los d de tu luto serán acabadosH3117
+- Isa_61:2año...y el d de venganza del Dios nuestroH3117
+- Isa_62:6todo el d y toda la noche no callaránH3117
+- Isa_63:4el d de la venganza está en mi corazónH3117
+- Isa_63:9los trajo, y los levantó todos los d deH3117
+- Isa_63:11se acordó de los d antiguos, de MoisésH3117
+- Isa_65:2extendí mis manos todo el d a puebloH3117
+- Isa_65:5en mi furor, fuego que arde todo el dH3117
+- Isa_65:20pocos d, ni viejo que sus d no cumplaH3117
+- Isa_65:22según los d de los árboles serán los dH3117
+- Isa_66:8¿concebirá la tierra en un d? ¿NaceráH3117
+- Isa_66:23de d de reposo en d de reposo, vendrán
+- Jer_1:2palabra...que le vino en los d de JosíasH3117
+- Jer_1:3le vino...en d de Joacim hijo de JosíasH3117
+- Jer_1:10te he puesto en este d sobre naciones yH3117
+- Jer_1:18yo te he puesto en este d como ciudadH3117
+- Jer_2:32se ha olvidado de mí por innumerables dH3117
+- Jer_3:6me dijo Jehová en d del rey Josías: ¿HasH3117
+- Jer_3:16en esos d, dice Jehová, no se dirá másH3117
+- Jer_3:25hasta este d, y no hemos escuchado laH3117
+- Jer_4:9en aquel d, dice Jehová, desfallecerá elH3117
+- Jer_5:18aquellos d, dice Jehová, no os destruiréH3117
+- Jer_6:4que va cayendo ya el d, que las sombrasH3117
+- Jer_7:22d que los saqué de la tierra de EgiptoH3117
+- Jer_7:25el d que vuestros padres salieron de laH3117
+- Jer_7:32vendrán d, ha dicho Jehová, en que no seH3117
+- Jer_8:15esperamos paz...d de curación, y he aquíH6256
+- Jer_9:1para que llore d y noche los muertos deH3119
+- Jer_9:25que vienen d...en que castigaré a todoH3117
+- Jer_11:4el cual mandé a vuestros padres el d queH3117
+- Jer_11:5que les daría la tierra...como en este dH3117
+- Jer_11:7el d que les hice subir de la tierra deH3117
+- Jer_11:14no oiré en el d que en su...clamen a míH6256
+- Jer_12:3y señálalos para el d de la matanzaH3117
+- Jer_13:6que después de muchos d me dijo JehováH3117
+- Jer_14:17derramen mis ojos lágrimas noche y dH3119
+- Jer_15:9su sol se puso siendo aún de d; fueH3119
+- Jer_16:9cesar...en vuestros d, toda voz de gozoH3117
+- Jer_16:13allá serviréis a dioses ajenos de d yH3119
+- Jer_16:14vienen d...no se dirá más: Vive JehováH3117
+- Jer_17:11en la mitad de sus d las dejará, y enH3117
+- Jer_17:16ni deseé d de calamidad, tú lo sabesH3117
+- Jer_17:17pues mi refugio eres tú en el d maloH3117
+- Jer_17:18sobre ellos d malo, y quebrántalos conH3117
+- Jer_17:21guardaos...de llevar cargaón el d deH3117
+- Jer_17:22ni saquéis carga de...en el d de reposoH3117
+- Jer_17:22santificad el d de reposo, como mandéH3117
+- Jer_17:24no metiendo carga...en el d de reposoH3117
+- Jer_17:24sino que santificaréis el d de reposoH3117
+- Jer_17:27si no me oyereis para santificar el dH3117
+- Jer_17:27para no traer carga ni...en d de reposoH3117
+- Jer_18:17les mostraré las espaldas...en el d deH3117
+- Jer_19:6vienen d, dice Jehová, que este lugar noH3117
+- Jer_20:3y el d siguiente Pasur sacó a JeremíasH4283
+- Jer_20:7cada d he sido escarnecido, cada cual se
+- Jer_20:8ha sido para afrenta y escarnio cada d
+- Jer_20:14maldito el d en que nací; el d en queH3117
+- Jer_20:18y que mis d se gastasen en afrenta?[[H3117]]
+- Jer_22:30nada próspero sucederá en todos los dH3117
+- Jer_23:5que vienen d...en que levantaré a DavidH3117
+- Jer_23:6sus d será salvo Judá, e Israel habitaráH3117
+- Jer_23:7vienen d...no dirán más: Vive JehováH3117
+- Jer_23:20en los postreros d lo entenderéisH3117
+- Jer_25:3el año trece de Josías...hasta este dH3117
+- Jer_25:33yacerán los muertos...en aquel d desdeH3117
+- Jer_25:34porque cumplidos son vuestros d paraH3117
+- Jer_27:22allí estarán hasta el d en que yo losH3117
+- Jer_30:3vienen d...en que haré volver...cautivosH3117
+- Jer_30:7¡ah, cuán grande es aquel d! tanto, queH3117
+- Jer_30:8aquel d...quebraré su yugo de tu cuelloH3117
+- Jer_30:24en el fin de los d entenderéis estoH3117
+- Jer_31:6habrá d en que clamarán los guardas enH3117
+- Jer_31:27vienen d...en que sembraré la casa deH3117
+- Jer_31:29en aquellos d no dirán más: Los padresH3117
+- Jer_31:31d...en los cuales haré nuevo pacto conH3117
+- Jer_31:32el d que tomé su mano para sacarlos deH3117
+- Jer_31:33pacto que haré...después de aquellos dH3117
+- Jer_31:35Jehová, que da el sol para luz del dH3119
+- Jer_31:38vienen d...que la ciudad será edificadaH3117
+- Jer_32:14ponlas en...que se conserven muchos dH3117
+- Jer_32:20señales...hasta este d...en el d de hoyH3119
+- Jer_32:31desde el d que la edificaron hasta hoyH3119
+- Jer_33:14vienen d...confirmaré la buena palabraH3117
+- Jer_33:15en aquellos d...haré brotar a David unH3117
+- Jer_33:16aquellos d Judá será salvo, y JerusalénH3117
+- Jer_33:18varón que...haga sacrificio todos los d
+- Jer_33:20pacto con el d...que no haya d ni nocheH3117
+- Jer_33:25si no permanece mi pacto con el d y laH3119
+- Jer_34:13hice pacto...d que los saqué de tierraH3117
+- Jer_35:1palabra...vino a Jeremías en d de JoacimH3117
+- Jer_35:7que moraréis en tiendas todos vuestros dH3117
+- Jer_35:7que viváis muchos d sobre la faz de laH3117
+- Jer_35:8de no beber vino en todos nuestros dH3117
+- Jer_35:19que esté en mi presencia todos los d
+- Jer_36:2d que comencé...los d de Josías hasta hoyH3117
+- Jer_36:6este rollo...el d del ayuno; y las leerásH3117
+- Jer_36:30será echado al calor del d y al hieloH3117
+- Jer_37:16habiendo estado...Jeremías por muchos dH3117
+- Jer_37:21haciéndole dar una torta de pan al d
+- Jer_38:28de la cárcel hasta el d que fue tomadaH3117
+- Jer_39:2a los nueve d del mes se abrió brechaH3117
+- Jer_39:16sucederá...en aquel d en presencia tuyaH3117
+- Jer_39:17en aquel d yo te libraré, dice JehováH3117
+- Jer_41:4sucedió...d después que mató a GedalíasH3117
+- Jer_42:7al cabo de diez d vino palabra de JehováH3117
+- Jer_44:2aquí que ellas están el d de hoy asoladasH3117
+- Jer_44:10no se han humillado hasta el d de hoyH3117
+- Jer_46:10mas ese d será para...d de retribuciónH3117
+- Jer_46:21vino...el d de su quebrantamiento, elH3117
+- Jer_46:26será habitado como en los d pasadosH3117
+- Jer_47:4causa del d que viene para destrucciónH3117
+- Jer_48:12vienen d...yo le enviaré trasvasadoresH3117
+- Jer_48:41en aquel d el corazón de los valientesH3117
+- Jer_49:2vienen d...haré oír clamor de guerra enH3117
+- Jer_49:22corazón de...Edom será en aquel d comoH3117
+- Jer_49:26hombres de guerra morirán en aquel dH3117
+- Jer_49:39en los últimos d, que haré volver a losH3117
+- Jer_50:4aquellos d...vendrán los hijos de IsraelH3117
+- Jer_50:20en aquellos d...la maldad de Israel seráH3117
+- Jer_50:27ha venido su d, el tiempo de su castigoH3117
+- Jer_50:30sus hombres de...destruidos en aquel dH3117
+- Jer_50:31porque tu d ha venido, el tiempo en queH3117
+- Jer_51:2se pondrán contra ella...en el d del malH3117
+- Jer_51:47vienen d en que...destruiré los ídolosH3117
+- Jer_51:50andad...acordaos por muchos d de Jehová
+- Jer_51:52vienen d...que yo destruiré sus ídolosH3117
+- Jer_52:4diez d del mes, que vino Nabucodonosor
+- Jer_52:6nueve d del mes, prevaleció el hambre
+- Jer_52:11lo puso en la cárcel hasta el d en queH3117
+- Jer_52:12a los diez d del mes, que era el año 19
+- Jer_52:31los veinticinco d del mes, Evil-merodac
+- Jer_52:33comía pan...mesa del rey...todos los dH3117
+- Jer_52:34cada d...todos los d...hasta el d de suH3117
+- Lam_1:7se acordó de los d su aflicción, yH3117
+- Lam_1:12me ha angustiado en el d de su...furorH3117
+- Lam_1:13me dejó desolada, y con dolor todo el dH3117
+- Lam_1:21harás venir el d que has anunciado, yH3117
+- Lam_2:1y no se acordó del...en el d de su furorH3117
+- Lam_2:6hecho olvidar...los d de reposo en Sion
+- Lam_2:7resonar su voz en...como en d de fiestaH3117
+- Lam_2:16este es el d que esperábamos; lo hemosH3117
+- Lam_2:18echa lágrimas cual arroyo d y noche; noH3119
+- Lam_2:21mataste en el d de tu furor; degollasteH3117
+- Lam_2:22convocado...como en un d de solemnidadH3117
+- Lam_2:22y en el d del furor de Jehová no huboH3117
+- Lam_3:3contra mí...y revolvió su mano todo el dH3117
+- Lam_3:14escarnio a...burla de ellos todos los dH3117
+- Lam_3:57acercaste el d que te invoqué; dijisteH3117
+- Lam_4:10hijos les sirvieron de comida en el d
+- Lam_4:18acercó...fin, se cumplieron nuestros dH3117
+- Lam_5:21renueva nuestros d como al principioH3117
+- Eze_1:1a los cinco d del mes, que estando yo
+- Eze_1:2en el quinto año...a los cinco d del mes
+- Eze_1:28el arco iris que está en las nubes el dH3117
+- Eze_2:3se han rebelado contra mí hasta este...dH3117
+- Eze_3:15permanecí siete d atónito entre ellosH3117
+- Eze_4:4el número de los d que duermas sobre élH3117
+- Eze_4:5los años...por el número de los d, 390 dH3117
+- Eze_4:6cuarenta d; d por año, d por año te lo heH3117
+- Eze_4:8hasta que hayas cumplido los d de...asedioH3117
+- Eze_4:9y hazte pan de ellos el número de los dH3117
+- Eze_4:9pan...trescientos noventa d comerás de élH3117
+- Eze_4:10comida...de peso de veinte siclos al dH3117
+- Eze_5:2parte quemarás...cuando se cumplan los dH3117
+- Eze_7:7cercano está el d; d de tumulto, y no deH3117
+- Eze_7:10el d, he aquí que viene; ha salido laH3117
+- Eze_7:12el tiempo ha venido, se acercó el d; elH3117
+- Eze_7:19librarlos en el d del furor de JehováH3117
+- Eze_8:1cinco d del mes, aconteció que estaba yo
+- Eze_12:3prepárate...y parte de d delante de susH3119
+- Eze_12:4sacarás tus enseres de d delante de susH3119
+- Eze_12:7saqué mis enseres de d, como enseres deH3119
+- Eze_12:22se van prolongando los d, y...visión?[[H3117]]
+- Eze_12:23diles: Se han acercado aquellos d, y elH3117
+- Eze_12:25en vuestros d, oh casa rebelde, hablaréH3117
+- Eze_12:27la visión...es para de aquí a muchos dH3117
+- Eze_13:5resista...la batalla en el d de JehováH3117
+- Eze_16:4d que naciste no fue cortado tu ombligoH3117
+- Eze_16:5que fuiste arrojada...en el d que nacisteH3117
+- Eze_16:22no te has acordado de los d...JuventudH3117
+- Eze_16:43no...acordaste de los d de tu juventudH3117
+- Eze_16:60mi pacto que concerté...en los d de tuH3117
+- Eze_20:1los diez d del mes, que vinieron algunos
+- Eze_20:5el d que escogí a Israel, y que alcé miH3117
+- Eze_20:6aquel d que les alcé mi mano, jurandoH3117
+- Eze_20:12di...mis d de reposo, para que fuesenH7676
+- Eze_20:13, Eze_20:16, Eze_20:21, Eze_20:24mis d de reposo profanaronH7676
+- Eze_20:20y santificad mis d de reposo, y seanH7676
+- Eze_20:29y fue llamada...Bama hasta el d de hoyH3117
+- Eze_21:25impío príncipe...cuyo d ha llegado yaH3117
+- Eze_21:29cuyo d vino en el tiempo de...la maldadH3117
+- Eze_22:4has hecho acercar tu d, y has llegadoH3117
+- Eze_22:8mis...y mis d de reposo has profanadoH7676
+- Eze_22:14¿serán fuertes tus manos en los d enH3117
+- Eze_22:24rociada con lluvia en el d del furorH3117
+- Eze_22:26de mis d de reposo apartaron sus ojosH7676
+- Eze_23:19trayendo en memoria...d de su juventudH3117
+- Eze_23:38contaminaron mi santuario en aquel dH3117
+- Eze_23:38aun esto...profanaron mis d de reposoH7676
+- Eze_23:39entraban en mi santuario el mismo dH3117
+- Eze_24:1palabra...a los diez d del mes, diciendo
+- Eze_24:2escribe la fecha de este d; el rey deH3117
+- Eze_24:2puso sitio a Jerusalén este mismo dH3117
+- Eze_24:25el d que yo arrebate a...su fortalezaH3117
+- Eze_24:26ese d vendrá a ti...que haya escapadoH3117
+- Eze_24:27aquel d se abrirá tu boca para hablarH3117
+- Eze_26:1undécimo año, en el d primero del mes
+- Eze_26:18se estremecerán...en el d de tu caídaH3117
+- Eze_27:27caerán en medio de...el d de tu caídaH3117
+- Eze_28:13preparados para ti...d de tu creaciónH3117
+- Eze_28:15perfecto eras...el d que fuiste creadoH3117
+- Eze_29:1los doce d del mes, vino a mí palabra
+- Eze_29:17el d primero del mes, que vino a míH3117
+- Eze_30:2así ha dicho...Lamentad: ¡Ay de aquel d![[H3117]]
+- Eze_30:3porque cerca está el d...el d de JehováH3117
+- Eze_30:3d de nublado, d de castigo de...nacionesH3117
+- Eze_30:9tendrán espanto como en el d de EgiptoH3117
+- Eze_30:18se oscurecerá el d, cuando quebrante yoH3117
+- Eze_30:20a los siete d del mes, que vino a mí
+- Eze_31:1d primero del mes, que vino a mí palabra
+- Eze_31:15el d que descendió al Seol, hice...AutoH3117
+- Eze_32:1d primero del mes, que vino a mí palabra
+- Eze_32:10se sobresaltarán...en el d de tu caídaH3117
+- Eze_32:17a los quince d del mes, que vino a mí
+- Eze_33:12no lo librará el d que se rebelare; yH3117
+- Eze_33:12el d que se volviere...el d que pecareH3117
+- Eze_34:12reconoce su rebaño el pastor el d queH3117
+- Eze_34:12fueron esparcidas el d del nublado yH3117
+- Eze_36:33d que os limpie de todas...iniquidadesH3117
+- Eze_38:8aquí a muchos d serás visitado; al caboH3117
+- Eze_38:10aquel d subirán palabras en tu corazónH3117
+- Eze_38:16al cabo de los d; y te traeré sobre miH3117
+- Eze_39:8dice...este es el d del cual he habladoH3117
+- Eze_39:13célebre el d en que yo sea glorificadoH3117
+- Eze_39:22de aquel d en adelante sabrá la casa deH3117
+- Eze_40:1a los diez d del mes, a los catorce años
+- Eze_40:1aquel mismo d vino sobre mí la mano deH3117
+- Eze_43:18las ordenanzas del altar el d en que seaH3117
+- Eze_43:22al segundo d ofrecerás un macho cabríoH3117
+- Eze_43:25siete d sacrificarán un macho cabríoH3117
+- Eze_43:25un macho cabrío cada d en expiaciónH3117
+- Eze_43:26siete d harán expiación por el altarH3117
+- Eze_43:27y acabados estos d, del octavo d enH3117
+- Eze_44:24estarán...santificarán mis d de reposoH7676
+- Eze_44:26su purificación, le contarán siete dH3117
+- Eze_44:27el d que entre al santuario, al atrioH3117
+- Eze_45:17la libación...en los d de reposo y enH7676
+- Eze_45:18el d primero del mes, tomarás de la
+- Eze_45:20así harás el séptimo d del mes para los
+- Eze_45:21a los catorce d del mes, tendréis laH3117
+- Eze_45:21tendréis la pascua, fiesta de siete dH3117
+- Eze_45:22aquel d el príncipe sacrificará por síH3117
+- Eze_45:23y en los siete d de la fiesta solemneH3117
+- Eze_45:23sin defecto, cada d de los siete d; yH3117
+- Eze_45:23por el pecado un macho cabrío cada dH3117
+- Eze_45:25a los quince d del mes, en la fiestaH3117
+- Eze_45:25hará como en estos siete d en cuantoH3117
+- Eze_46:1estará cerrada los seis d de trabajo, yH3117
+- Eze_46:1y el d de reposo se abrirá; se abriráH3117
+- Eze_46:1se abrirá también el d de la luna nuevaH3117
+- Eze_46:3adorará el pueblo...en los d de reposo yH7676
+- Eze_46:4ofrecerá a Jehová en el d de reposo seráH7676
+- Eze_46:6mas el d de la luna nueva, un becerroH3117
+- Eze_46:12ofrendas, como hace en el d de reposoH3117
+- Eze_46:13cada d en holocausto un cordero de unH3117
+- Eze_48:35el nombre...desde aquel d...Jehová-samaH3117
+- Dan_1:5les señaló el rey ración para cada dH3117
+- Dan_1:12que hagas la prueba...por diez d, y nosH3117
+- Dan_1:14consintió...y probó con ellos diez dH3117
+- Dan_1:15al cabo de los diez d pareció el rostroH3117
+- Dan_1:18pasados...los d al fin de los cuales habíaH3117
+- Dan_2:28que ha de acontecer en los postreros dH3118
+- Dan_2:44y en los d de estos reyes el Dios delH3118
+- Dan_5:11en los d de tu padre se halló en él luzH3118
+- Dan_6:7que en el espacio de treinta d demandeH3118
+- Dan_6:10se arrodillaba tres veces al d, y orabaH3118
+- Dan_6:12que en el espacio de treinta d pida aH3118
+- Dan_6:13sino que tres veces al d hace su peticiónH3118
+- Dan_7:9se sentó un Anciano de d, cuyo vestidoH3118
+- Dan_7:13venía uno...vino hasta el Anciano de dH3118
+- Dan_7:22hasta que vino el Anciano de d, y se dioH3118
+- Dan_8:26tú guarda la visión...es para muchos dH3117
+- Dan_8:27y estuve enfermo algunos d, y cuandoH3117
+- Dan_9:7en el d de hoy lleva todo hombre de JudáH3117
+- Dan_10:2en aquellos d yo Daniel estuve afligidoH3117
+- Dan_10:4el d veinticuatro del mes primero estabaH3117
+- Dan_10:12el primer d que dispusiste tu corazónH3117
+- Dan_10:13se me opuso durante veintiún d; peroH3117
+- Dan_10:14que ha de venir...en los postreros dH3117
+- Dan_10:14hacerte saber...visión es para esos dH3117
+- Dan_11:20en pocos d será quebrantado, aunque noH3117
+- Dan_11:33por algunos d caerán a espada y a fuegoH3117
+- Dan_12:11hasta la abominación...habrá 1:290 dH3117
+- Dan_12:12bienaventurado el...y llegue a 1:335 dH3117
+- Dan_12:13tú irás...te levantarás...al fin de los dH3117
+- Ose_1:1vino...en d de Uzías...en d de JeroboamH3117
+- Ose_1:5en aquel d quebraré yo el arco de IsraelH3117
+- Ose_1:11y subirán...el d de Jezreel será grandeH3117
+- Ose_2:3que yo...la ponga como el d en que nacióH3117
+- Ose_2:11haré cesar todo su...y sus d de reposoH7676
+- Ose_2:13la castigaré por los d en que incensabaH3117
+- Ose_2:15y como en el d de su subida de...EgiptoH3117
+- Ose_3:3le dije: Tú serás mía durante muchos dH3117
+- Ose_3:4muchos d estarán los hijos de Israel sinH3117
+- Ose_3:5y temerán a Jehová...en el fin de los dH3117
+- Ose_4:5caerás...en el d, y caerá...el profeta deH3117
+- Ose_5:9Efraín será asolado en el d del castigoH3117
+- Ose_6:2nos dará vida después de dos d; en elH3117
+- Ose_6:2el tercer d nos resucitará, y viviremosH3117
+- Ose_7:5en el d de nuestro rey los príncipes loH3117
+- Ose_9:5¿qué haréis en el d de la solemnidad, yH3117
+- Ose_9:5¿qué haréis...d de la fiesta de Jehová?[[H3117]]
+- Ose_9:7vinieron los d del castigo...los d de laH3117
+- Ose_9:9en los d de Gabaa; ahora se acordará deH3117
+- Ose_10:9desde...d de Gabaa has pecado, oh IsraelH3117
+- Ose_10:14destruyó Salmán...en el d de la batallaH3117
+- Ose_12:9te haré morar en tiendas, como en los dH3117
+- Joe_1:2¿ha acontecido esto en vuestros d, o enH3117
+- Joe_1:15¡ay del d! porque cercano está el d deH3117
+- Joe_2:1porque viene el d de Jehová...está cercanoH3117
+- Joe_2:2d de tinieblas y...d de nube y de sombraH3117
+- Joe_2:11porque grande es el d de Jehová, y muyH3117
+- Joe_2:29derramaré mi Espíritu en aquellos dH3117
+- Joe_2:31antes que venga el d grande...de JehováH3117
+- Joe_3:1que en aquellos d...en que haré volver laH3117
+- Joe_3:14cercano está el d de Jehová en el valleH3117
+- Amó_1:1profetizó...d de Uzías...d de JeroboamH3117
+- Amó_1:14consumirá sus palacios...en el d de laH3117
+- Amó_1:14fuego...con tempestad en d tempestuosoH3117
+- Amó_2:16el esforzado de...huirá desnudo aquel dH3117
+- Amó_3:14que el d que castigue las rebeliones deH3117
+- Amó_4:2vienen...d en que os llevarán con ganchosH3117
+- Amó_4:4y traed...y vuestros diezmos cada tres dH3117
+- Amó_5:8y hace oscurecer el d como noche; el queH3117
+- Amó_5:18¡ay de los que desean el d de Jehová![[H3117]]
+- Amó_5:18¿para qué queréis este d de Jehová?[[H3117]]
+- Amó_5:20¿no será el d de Jehová tinieblas, y noH3117
+- Amó_6:3oh vosotros que dilatáis el d malo, yH3117
+- Amó_8:3cantores del templo gemirán en aquel dH3117
+- Amó_8:9acontecerá en aquel d...que se ponga el solH3117
+- Amó_8:9y cubriré de tinieblas la tierra en el dH3117
+- Amó_8:10volveré...su postrimería como d amargoH3117
+- Amó_8:11vienen d...en los cuales enviaré hambreH3117
+- Amó_9:11en aquel d yo levantaré el tabernáculoH3117
+- Amó_9:13vienen d...en que el que ara alcanzaráH3117
+- Abd_1:8¿no haré que perezcan en aquel d, diceH3117
+- Abd_1:11el d que...llevaban extraños cautivo suH3117
+- Abd_1:12mirando en el d de...el d de su infortunioH3117
+- Abd_1:12d en que se perdieron...d de la angustiaH3117
+- Abd_1:13entrado...en el d de su quebrantamientoH3117
+- Abd_1:13haber mirado su mal...el d de su quebrantoH3117
+- Abd_1:13ni haber echado mano a sus...en el d de suH3117
+- Abd_1:14a los que quedaban en el d de angustiaH3117
+- Abd_1:15porque cercano está el d de Jehová sobreH3117
+- Jon_1:17Jonás en el vientre del pez tres dH3117
+- Jon_3:3era Nínive ciudad...de tres d de caminoH3117
+- Jon_3:4a entrar por la ciudad, camino de un dH3117
+- Jon_3:4de aquí a 40 d Nínive será destruidaH3117
+- Jon_4:7al venir el alba del d siguiente, DiosH4283
+- Miq_1:1palabra de...a Miqueas...en d de JotamH3117
+- Miq_3:6se pondrá el sol, y el d se entenebreceráH3117
+- Miq_4:6en aquel d, dice...juntaré la que cojeaH3117
+- Miq_5:2salidas son desde los d de la eternidadH3117
+- Miq_5:10en aquel d, dice Jehová, que haré matarH3117
+- Miq_7:4d de tu castigo viene, el que anunciaronH3117
+- Miq_7:11viene el d...que se edificarán tus murosH3117
+- Miq_7:11aquel d se extenderán los límitesH3117
+- Miq_7:12en ese d vendrán hasta ti desde AsiriaH3117
+- Miq_7:15maravillas como el d que saliste deH3117
+- Nah_1:7es...fortaleza en el d de la angustiaH3117
+- Nah_2:3el d que se prepare, temblarán las hayasH3117
+- Nah_3:17que se sientan en vallados en d de fríoH3117
+- Hab_1:5haré una obra en vuestros d, que aunH3117
+- Hab_3:16estaré quieto en el d de la angustiaH3117
+- Sof_1:1en d de Josías hijo de Amón, rey deH3117
+- Sof_1:7porque el d de Jehová está cercanoH3117
+- Sof_1:8d del sacrificio de Jehová castigaré aH3117
+- Sof_1:9castigaré en aquel d a todos los queH3117
+- Sof_1:10habrá en aquel d...voz de clamor desdeH3117
+- Sof_1:14cercano está el d grande de JehováH3117
+- Sof_1:14amarga la voz del d de Jehová; gritaráH3117
+- Sof_1:15d de ira aquel d, d de angustia y deH3117
+- Sof_1:15d de alboroto y...d de tiniebla y...d deH3117
+- Sof_1:16d de trompeta y de algazara sobre lasH3117
+- Sof_1:18ni su oro podrá librarlos en el d de laH3117
+- Sof_2:2y el d se pase como el tamo; antes queH3117
+- Sof_2:2que el d de la ira de Jehová venga sobreH3117
+- Sof_2:3seréis guardados en el d del enojo deH3117
+- Sof_2:4saquearán a Asdod en pleno d, y EcrónH6672
+- Sof_3:8esperadme...hasta el d que me levante paraH3117
+- Sof_3:11en aquel d no serás avergonzada porH3117
+- Hag_1:1en el primer d del mes, vino palabraH3117
+- Hag_1:15en el d veinticuatro del mes sexto, enH3117
+- Hag_2:1a los veintiún d del mes, vino palabra
+- Hag_2:10a los veinticuatro d del noveno mes, en
+- Hag_2:15meditad...este d en adelante, antes queH3117
+- Hag_2:18meditad...desde este d...el d veinticuatroH3117
+- Hag_2:18desde el d que se echó el cimiento delH3117
+- Hag_2:19todavía; mas desde este d os bendeciréH3117
+- Hag_2:20vino...palabra de...a los veinticuatro d
+- Hag_2:23aquel d...te tomaré, oh Zorobabel hijoH3117
+- Zac_1:7a los 24 d del mes undécimo, que es elH3117
+- Zac_2:11se unirán muchas naciones...en aquel dH3117
+- Zac_3:9quitaré el pecado de la tierra en un dH3117
+- Zac_3:10en aquel d, dice Jehová...cada uno deH3117
+- Zac_4:10menospreciaron el d de las pequeñecesH3117
+- Zac_6:10irás tú en aquel d, y entrarás en casaH3117
+- Zac_7:1vino palabra de...a los cuatro d del mes
+- Zac_8:4con bordón en...por la multitud de los dH3117
+- Zac_8:6parecerá maravilloso a...en aquellos dH3117
+- Zac_8:9los que oís en estos d estas palabras deH3117
+- Zac_8:9desde el d que se echó el cimiento a laH3117
+- Zac_8:10antes de estos d no ha habido paga deH3117
+- Zac_8:11no lo haré...como en aquellos d pasadosH3117
+- Zac_8:15pensado hacer bien a...Judá en estos dH3117
+- Zac_8:23aquellos d acontecerá que diez hombresH3117
+- Zac_9:16los salvará en aquel d Jehová su DiosH3117
+- Zac_11:11fue deshecho en ese d, y así conocieronH3117
+- Zac_12:3en aquel d yo pondré a Jerusalén porH3117
+- Zac_12:4en aquel d...heriré con pánico a todoH3117
+- Zac_12:6aquel d pondré a los capitanes de JudáH3117
+- Zac_12:8aquel d Jehová defenderá al morador deH3117
+- Zac_12:9en aquel d yo procuraré destruir a todasH3117
+- Zac_12:11en aquel d habrá...llanto en JerusalénH3117
+- Zac_13:2aquel d...quitaré de la tierra...nombresH3117
+- Zac_14:1el d de Jehová viene, y en medio de tiH3117
+- Zac_14:3y peleará...peleó en el d de la batallaH3117
+- Zac_14:4se afirmarán sus pies en aquel d sobreH3117
+- Zac_14:5huisteis...en los d de Uzías rey de JudáH3117
+- Zac_14:6en ese d no habrá luz clara, ni oscuraH3117
+- Zac_14:7será un d...que no será ni d ni nocheH3117
+- Zac_14:8aquel d, que saldrán de Jerusalén aguasH3117
+- Zac_14:9en aquel d Jehová será uno, y uno suH3117
+- Zac_14:13aquel d que habrá entre ellos...pánicoH3117
+- Zac_14:20en aquel d estará grabado sobre lasH3117
+- Zac_14:21no habrá en aquel d más mercader en laH3117
+- Mal_3:4será grata a...como en los d pasadosH3117
+- Mal_3:7desde los d de vuestros padres os habéisH3117
+- Mal_3:17mí especial tesoro...el d en que yo actúeH3117
+- Mal_4:1aquí, viene el d ardiente como un hornoH3117
+- Mal_4:1aquel d que vendrá los abrasará, ha dichoH3117
+- Mal_4:3en el d en que yo actúe, ha dicho JehováH3117
+- Mal_4:5antes que venga el d de Jehová, grandeH3117
+- Mat_2:1Jesús nació en...en d del rey HerodesG2250
+- Mat_3:1en aquellos d vino Juan el BautistaG2250
+- Mat_4:2y después de haber ayunado cuarenta d yG2250
+- Mat_6:11el pan nuestro de cada d, dánoslo hoyG4594
+- Mat_6:34así...no os afanéis por el d de mañanaG839
+- Mat_6:34porque el d de mañana traerá su afánG839
+- Mat_6:34su afán. Basta a cada d su propio malG2250
+- Mat_7:22me dirán en aquel d: Señor, Señor, ¿noG2250
+- Mat_9:15d cuando el esposo les será quitado, yG2250
+- Mat_10:15os digo que en el d del juicio, seráG2250
+- Mat_11:12desde los d de Juan...el reino de losG2250
+- Mat_11:22, Mat_11:24d del juicio, será más tolerableG2250
+- Mat_11:23habría permanecido hasta el d de hoyG4594
+- Mat_12:1iba Jesús...sembrados en un d de reposoG4521
+- Mat_12:2que no es lícito hacer en el d de reposoG4521
+- Mat_12:5el d de reposo...profanan el d de reposoG4521
+- Mat_12:8el Hijo del Hombre es Señor del d deG4521
+- Mat_12:10¿es lícito sanar en el d de reposo?[[G4521]]
+- Mat_12:11ésta cayere en un hoyo en d de reposoG4521
+- Mat_12:12lícito hacer el bien en los d de reposoG4521
+- Mat_12:36de ella darán cuenta en el d del juicioG2250
+- Mat_12:40estuvo Jonás en el...del gran pez tres dG2250
+- Mat_12:40estará el Hijo...tres d y tres nochesG2250
+- Mat_13:1aquel d salió Jesús de la casa y se sentóG2250
+- Mat_15:32ya hace tres d que están conmigo, y noG2250
+- Mat_16:21y ser muerto, y resucitar al tercer dG2250
+- Mat_17:1seis d después, Jesús tomó a Pedro, aG2250
+- Mat_17:23le matarán; mas al tercer d resucitaráG2250
+- Mat_20:2habiendo convenido...en un denario al dG2250
+- Mat_20:3cerca de la hora tercera del d, vio a
+- Mat_20:6¿por qué...aquí todo el d desocupados?[[G2250]]
+- Mat_20:12hemos soportado la...y el calor del dG2250
+- Mat_20:19crucifiquen; mas al tercer d resucitaráG2250
+- Mat_22:23aquel d vinieron a él los saduceos, queG2250
+- Mat_22:46ni osó alguno desde...d preguntarle másG2250
+- Mat_23:30decís: Si hubiésemos vivido en los d deG2250
+- Mat_24:19¡ay de...de las que críen en aquellos d![[G2250]]
+- Mat_24:20vuestra huida no sea en...d de reposoG4521
+- Mat_24:22si aquellos d no fuesen acortados, nadieG2250
+- Mat_24:22por causa...aquellos d serán acortadosG2250
+- Mat_24:29después de la tribulación de aquellos dG2250
+- Mat_24:36del d y la hora nadie sabe, ni aun losG2250
+- Mat_24:37mas como en los d de Noé, así será laG2250
+- Mat_24:38d antes del diluvio estaban comiendoG2250
+- Mat_24:38hasta el d en que Noé entró en el arcaG2250
+- Mat_24:50vendrá...en d que éste no espera, y a laG2250
+- Mat_25:13no sabéis el d ni la hora en que elG2250
+- Mat_26:2que dentro de dos d se celebra la pascuaG2250
+- Mat_26:17el primer d de la fiesta de los panes
+- Mat_26:29hasta aquel d en que lo beba nuevo conG2250
+- Mat_26:55cada d me sentaba con...enseñando en elG2250
+- Mat_26:61derribar el templo...en tres d reedificarloG2250
+- Mat_27:8se llama hasta el d de...Campo de sangreG4594
+- Mat_27:15en el d de la fiesta acostumbraba elG1859
+- Mat_27:40en tres d lo reedificas, sálvate a tiG2250
+- Mat_27:62al d siguiente, que es después de laG1887
+- Mat_27:63dijo...Después de tres d resucitaréG2250
+- Mat_27:64que se asegure el...hasta el tercer dG2250
+- Mat_28:1pasado el d de reposo, al amanecer delG4521
+- Mat_28:1al amanecer del primer d de la semana
+- Mat_28:15ha divulgado entre...hasta el d de hoyG4594
+- Mat_28:20estoy con vosotros todos los d, hastaG2250
+- Mar_1:9aquellos d, que Jesús vino de NazaretG2250
+- Mar_1:13estuvo allí en el desierto cuarenta dG2250
+- Mar_1:21los d de reposo, entrando en la sinagogaG4521
+- Mar_2:1entró...en Capernaum después de algunos dG2250
+- Mar_2:20d cuando el esposo les será quitado, yG2250
+- Mar_2:20y entonces en aquellos d ayunaránG2250
+- Mar_2:23al pasar él por los sembrados un d de reposoG4521
+- Mar_2:24¿por qué hacen en el d de reposo lo queG4521
+- Mar_2:27el d de reposo fue hecho por causa delG4521
+- Mar_2:27no el hombre por causa del d de reposoG4521
+- Mar_2:28el Hijo...es Señor aun del d de reposoG4521
+- Mar_3:2en el d de reposo le sanaría, a fin deG4521
+- Mar_3:4¿es lícito en los d de reposo hacer bienG4521
+- Mar_4:27y duerme y se levanta, de noche y de dG2250
+- Mar_4:35aquel d, cuando llegó la noche, les dijoG2250
+- Mar_5:5de d y de noche, andaba dando voces enG2250
+- Mar_6:2el d de reposo, comenzó a enseñar en laG4521
+- Mar_6:11en el d del juicio, será más tolerableG2250
+- Mar_8:1en aquellos d...había una gran multitudG2250
+- Mar_8:2ya hace tres d que están conmigo, y noG2250
+- Mar_8:31muerto, y resucitar después de tres dG2250
+- Mar_9:2seis d después, Jesús tomó a Pedro, aG2250
+- Mar_9:31matarán; pero...resucitará al tercer dG2250
+- Mar_10:34le matarán; mas al tercer d resucitaráG2250
+- Mar_11:12al d siguiente, cuando salieron deG1887
+- Mar_13:17¡ay...de las que críen en aquellos d![[G2250]]
+- Mar_13:19aquellos d serán de tribulación cualG2250
+- Mar_13:20Señor no hubiese acortado aquellos dG2250
+- Mar_13:20por...los escogidos...acortó aquellos dG2250
+- Mar_13:32de aquel d y de la hora nadie sabe, niG2250
+- Mar_14:1dos d después era la pascua, y la fiestaG2250
+- Mar_14:12el primer d de la fiesta de los panesG2250
+- Mar_14:25no beberé...hasta aquel d en que lo bebaG2250
+- Mar_14:49cada d estaba con vosotros enseñando enG2250
+- Mar_14:58en tres d edificaré otro hecho sin manoG2250
+- Mar_15:6el d de la fiesta les soltaba un presoG1859
+- Mar_15:29que derribas...en tres d lo reedificasG2250
+- Mar_15:42es decir, la víspera del d de reposoG4315
+- Mar_16:1pasó el d de reposo, María MagdalenaG4521
+- Mar_16:2el primer d de la semana, vinieron alG3391, [[G4521]]
+- Mar_16:9resucitado Jesús...primer d de la semanaG4413, [[G4521]]
+- Luc_1:5hubo en los d de Herodes...un sacerdoteG2250
+- Luc_1:20mudo y...hasta el d en que esto se hagaG2250
+- Luc_1:23y cumplidos los d de su ministerio, seG2250
+- Luc_1:24después de aquellos d concibió su mujerG2250
+- Luc_1:25los d en que se dignó quitar mi afrentaG2250
+- Luc_1:39en aquellos d, levantándose María, fueG2250
+- Luc_1:59al octavo d vinieron para circuncidarG2250
+- Luc_1:75justicia delante de él, todos nuestros dG2250
+- Luc_1:80hasta el d de su manifestación a IsraelG2250
+- Luc_2:1en aquellos d...se promulgó un edicto deG2250
+- Luc_2:6se cumplieron los d de su alumbramientoG2250
+- Luc_2:21cumplidos los ocho d para circuncidar alG2250
+- Luc_2:22se cumplieron los d de la purificaciónG2250
+- Luc_2:37sirviendo de noche y de d con ayunos yG2250
+- Luc_2:44camino de un d; y le buscaban entre losG2250
+- Luc_2:46tres d después le hallaron en el temploG2250
+- Luc_4:2cuarenta d, y era tentado por el diabioG2250
+- Luc_4:2no comió nada en aquellos d, pasados losG2250
+- Luc_4:16en el d de reposo entró en la sinagogaG2250
+- Luc_4:25muchas viudas había...en los d de ElíasG2250
+- Luc_4:31Jesús...les enseñaba en los d de reposoG4521
+- Luc_4:42cuando ya era de d, salió y se fue a unG2250
+- Luc_5:17aconteció un d, que él estaba enseñandoG2250
+- Luc_5:35mas...d cuando el esposo les será quitadoG2250
+- Luc_5:35les será quitado...en aquellos d ayunaránG2250
+- Luc_6:1un d de reposo, que pasando Jesús por losG4521
+- Luc_6:2no es lícito hacer en los d de reposo?[[G4521]]
+- Luc_6:5el Hijo del...es Señor aun del d de reposoG4521
+- Luc_6:6en otro d de reposo, que él entró en laG4521
+- Luc_6:7para ver si en el d de reposo lo sanaríaG4521
+- Luc_6:9¿es lícito en d de reposo hacer bien, oG4521
+- Luc_6:12en aquellos d él fue al monte a orarG2250
+- Luc_6:13cuando era de d, llamó a sus discípulosG2250
+- Luc_6:23gozaos en aquel d, y alegraos, porqueG2250
+- Luc_8:22aconteció un d, que entró en una barcaG2250
+- Luc_9:12el d comenzaba a declinar; y acercándoseG2250
+- Luc_9:22que sea muerto, y resucite al tercer dG2250
+- Luc_9:23mismo, tome su cruz cada d, y sígameG2250
+- Luc_9:28como ocho d después...que tomó a PedroG2250
+- Luc_9:36por aquellos d no dijeron nada a nadieG2250
+- Luc_9:37al d siguiente, cuando descendieron delG2250
+- Luc_10:12aquel d será más tolerable el castigoG2250
+- Luc_10:35otro d al partir, sacó dos denariosG839
+- Luc_11:3el pan nuestro de cada d, dánoslo hoyG1967
+- Luc_12:46vendrá...en d que éste no espera, y aG2250
+- Luc_13:10enseñaba Jesús en...en el d de reposoG4521
+- Luc_13:14de que Jesús hubiese sanado en el d deG4521
+- Luc_13:14seis d hay en que se debe trabajar; enG2250
+- Luc_13:14en éstos...venid...y no en d de reposoG2250
+- Luc_13:15¿no desata en el d de reposo su buey oG4521
+- Luc_13:16se le debía desatar...en el d de reposo?[[G2250]]
+- Luc_13:31aquel mismo d llegaron unos fariseosG2250
+- Luc_13:32mañana, y al tercer d termino mi obra
+- Luc_14:1d de reposo, que habiendo entrado paraG4521
+- Luc_14:3¿es lícito sanar en el d de reposo?[[G4521]]
+- Luc_14:5no lo sacará, aunque sea...d de reposo?[[G2250]]
+- Luc_15:13no muchos d después, juntándolo todo elG2250
+- Luc_16:19hacía cada d banquete con esplendidezG2250
+- Luc_17:4si siete veces al d pecare contra ti, yG2250
+- Luc_17:4siete veces al d volviere a ti, diciendoG2250
+- Luc_17:22desearéis ver uno de los d del Hijo delG2250
+- Luc_17:24así...será el Hijo del Hombre en su dG2250
+- Luc_17:26como fue en los d de Noé, así tambiénG2250
+- Luc_17:26así...será en los d del Hijo del HombreG2250
+- Luc_17:27d en que entró Noé en el arca, y vinoG2250
+- Luc_17:28como sucedió en los d de Lot, comíanG2250
+- Luc_17:29el d en que Lot salió de Sodoma, llovióG2250
+- Luc_17:30será el d en que el Hijo del Hombre seG2250
+- Luc_17:31en aquel d, el que esté en la azoteaG2250
+- Luc_18:7escogidos, que claman a él d y noche9G2250
+- Luc_18:33le matarán; mas al tercer d resucitaráG2250
+- Luc_19:42en este tu d, lo que es para tu paz![[G2250]]
+- Luc_19:43porque vendrán d sobre ti, cuando tusG2250
+- Luc_19:47enseñaba cada d en el templo, pero losG2250
+- Luc_20:1un d...enseñando Jesús al puebio en elG2250
+- Luc_21:6d vendrán en que no quedará piedra sobreG2250
+- Luc_21:22estos son d de retribución, para queG2250
+- Luc_21:23¡ay...de las que crían en aquellos d![[G2250]]
+- Luc_21:34y venga de repente...vosotros aquel dG2250
+- Luc_21:37enseñaba de d en el templo, y de nocheG2250
+- Luc_22:7llegó el d de los panes sin levadura, enG2250
+- Luc_22:53habiendo estado con vosotros cada d enG2250
+- Luc_22:66era de d, se juntaron los ancianos delG2250
+- Luc_23:7que en aquellos d...estaba en JerusalénG2250
+- Luc_23:12se hicieron amigos Pilato y...aquel dG2250
+- Luc_23:29porque he aquí vendrán d en que diránG2250
+- Luc_23:54era d de la víspera de la pascua, yG2250
+- Luc_23:54y estaba para rayar el d de reposoG4521
+- Luc_23:56descansaron el d de reposo, conformeG4521
+- Luc_24:1el primer d de la semana...muy de mañanaG3391, [[G4521]]
+- Luc_24:13el mismo d a una aldea llamada EmaúsG2250
+- Luc_24:18cosas que...han acontecido en estos d?[[G2250]]
+- Luc_24:21ya el tercer d que esto ha acontecidoG2250
+- Luc_24:22las que antes del d fueron al sepulcroG3721
+- Luc_24:29se hace tarde, y el d ya ha declinadoG2250
+- Luc_24:46resucitase de los muertos al tercer dG2250
+- Jua_1:29el siguiente d vio Juan a Jesús queG1887
+- Jua_1:35el siguiente d...estaba Juan, y dos deG1887
+- Jua_1:39se quedaron con él aquel d; porque eraG2250
+- Jua_1:43el siguiente d quiso Jesús ir a GalileaG1887
+- Jua_2:1tercer d se hicieron unas bodas en CanáG2250
+- Jua_2:12Capernaum...estuvieron allí no muchos dG2250
+- Jua_2:19destruid este...en tres d lo levantaréG2250
+- Jua_2:20templo, ¿y tú en tres d lo levantarás?[[G2250]]
+- Jua_4:40le rogaron que...y se quedó allí dos dG2250
+- Jua_4:43dos d después, salió de...y fue a GalileaG2250
+- Jua_5:9fue sanado...Y era d de reposo aquel dG2250
+- Jua_5:10es d de reposo; no te es lícito llevarG4521
+- Jua_5:16hacía estas cosas en el d de reposoG4521
+- Jua_5:18no sólo quebrantaba el d de reposo, sinoG4521
+- Jua_6:22el d siguiente, la gente que estaba alG1887
+- Jua_6:39sino que lo resucite en el d postreroG2250
+- Jua_6:40, Jua_6:44, Jua_6:54le resucitaré en el d postreroG2250
+- Jua_7:22el d de reposo circuncidáis al hombreG4521
+- Jua_7:23si recibe...la circuncisión en el d deG4521
+- Jua_7:23enojáis...porque en el d de reposo sanéG4521
+- Jua_7:37el último y gran d de la fiesta, JesúsG2250
+- Jua_8:56Abraham...gozó de que había de ver mi dG2250
+- Jua_9:4es necesario...entre tanto que el d duraG2250
+- Jua_9:14era d de reposo cuando Jesús había hechoG4521
+- Jua_9:16ese hombre...no guarda el d de reposoG4521
+- Jua_11:6se quedó dos d más...lugar donde estabaG2250
+- Jua_11:9respondió...¿No tiene el d doce horas?[[G2250]]
+- Jua_11:9el que anda de d, no tropieza, porqueG2250
+- Jua_11:17hacía ya cuatro d que Lázaro estaba enG2250
+- Jua_11:24yo sé que resucitará...en el d postreroG2250
+- Jua_11:39Señor, hiede ya, porque es de cuatro dG2250, [[G5066]]
+- Jua_11:53así...desde aquel d acordaron matarleG2250
+- Jua_12:1seis d antes de la pascua, vino JesúsG2250
+- Jua_12:7para el d de mi sepultura ha guardadoG2250
+- Jua_12:12el siguiente d, grandes multitudes queG1887
+- Jua_12:48palabra...le juzgará en el d postreroG2250
+- Jua_14:20en aquel d vosotros conoceréis que yoG2250
+- Jua_16:23en aquel d no me preguntaréis nadaG2250
+- Jua_16:26en aquel d pediréis en mi nombre; y noG2250
+- Jua_19:31cuerpos no quedasen en...el d de reposoG4521
+- Jua_19:31aquel d de reposo era de...solemnidadG2250
+- Jua_20:1primer d de la semana, María MagdalenaG3391
+- Jua_20:19cuando llegó la noche de aquel mismo dG3391
+- Jua_20:26ocho d después, estaban otra vez susG3391
+- Hec_1:2hasta el d en que fue recibido arribaG3391
+- Hec_1:3apareciéndoseles durante cuarenta d yG3391
+- Hec_1:5bautizados con el...dentro de no muchos dG3391
+- Hec_1:12está cerca de...camino de un d de reposoG4521
+- Hec_1:15en aquellos d Pedro se levantó en medioG2250
+- Hec_1:22hasta el d en que...fue recibido arribaG2250
+- Hec_2:1llegó el d de Pentecostés, estaban todosG2250
+- Hec_2:15no...puesto que es la hora tercera del dG2250
+- Hec_2:17y en los postreros d...derramaré de miG2250
+- Hec_2:18en aquellos d derramaré de mi EspírituG2250
+- Hec_2:20antes que venga el d del Señor, grandeG2250
+- Hec_2:29su sepulcro está con...hasta el d de hoyG2250
+- Hec_2:41y se añadieron aquel d como tres milG2250
+- Hec_2:46y perseverando...cada d en el templo, yG2250
+- Hec_2:47el Señor añadía cada d a la iglesia losG2250
+- Hec_3:2cojo...a quien ponían cada d a la puertaG2250
+- Hec_3:24todos los profetas...anunciado estos dG2250
+- Hec_4:3y los pusieron en la cárcel hasta el dG839
+- Hec_4:5al d siguiente...se reunieron en JerusalénG839
+- Hec_5:36porque antes de estos d se levantó TeudasG2250
+- Hec_5:37se levantó Judas el...en los d del censoG2250
+- Hec_5:42y todos los d, en el templo y por lasG2250
+- Hec_6:1en aquellos d, como creciera el númeroG2250
+- Hec_7:8engendró a...y le circuncidó al octavo dG2250
+- Hec_7:26al d siguiente, se presentó a unos deG2250
+- Hec_7:45Dios arrojó de la...hasta los d de DavidG2250
+- Hec_8:1aquel d hubo una gran persecución contraG2250
+- Hec_9:9donde estuvo tres d sin ver, y no comióG2250
+- Hec_9:19y estuvo Saulo por algunos d con losG2250
+- Hec_9:23pasados muchos d, los judíos...matarleG2250
+- Hec_9:24guardaban las puertas de d y de nocheG2250
+- Hec_9:37aconteció...aquellos d enfermó y murióG2250
+- Hec_9:43se quedó muchos d en Jope en casa de unG2250
+- Hec_10:3vio...como a la hora novena del d, que unG2250
+- Hec_10:9al d siguiente, mientras ellos iban porG1887
+- Hec_10:23y al d siguiente, levantándose, se fueG1887
+- Hec_10:24otro d entraron en Cesarea. Y CornelioG1887
+- Hec_10:30hace cuatro d que a esta hora yo estabaG2250
+- Hec_10:40a éste levantó Dios al tercer d, e hizoG2250
+- Hec_10:48rogaron que se quedase por algunos dG2250
+- Hec_11:27aquellos d unos profetas descendieronG2250
+- Hec_12:3eran...los d de los panes sin levaduraG2250
+- Hec_12:18de d, hubo no poco alboroto entre losG2250
+- Hec_12:21d señalado, Herodes, vestido de ropasG2250
+- Hec_13:14entraron en la sinagoga un d de reposoG2250
+- Hec_13:27los profetas que se leen todos los d deG4521
+- Hec_13:31se apareció durante muchos d a los queG2250
+- Hec_13:41hago una obra en vuestros d, obra queG2250
+- Hec_13:42siguiente d de reposo les hablasen deG4521
+- Hec_13:44el siguiente d de reposo se juntó casiG4521
+- Hec_14:20al d siguiente salió con Bernabé paraG1887
+- Hec_15:21porque Moisés...leído cada d de reposoG4521
+- Hec_15:36después de...d, Pabio dijo a BernabéG2250
+- Hec_16:5iglesias...aumentaban en número cada dG2250
+- Hec_16:11Samotracia, y el d siguiente a NeápolisG1966
+- Hec_16:12estuvimos en aquella ciudad algunos dG2250
+- Hec_16:13y un d de reposo salimos fuera de laG4521
+- Hec_16:18hacía por muchos d; mas desagradando aG2250
+- Hec_16:35fue de d, los magistrados enviaronG2250
+- Hec_17:2por tres d de reposo discutió con ellosG4521
+- Hec_17:11escudriñando cada d las Escrituras paraG2250
+- Hec_17:17así que discutía en...cada d con los queG2250
+- Hec_17:31un d en el cual juzgará al mundo conG2250
+- Hec_18:4discutía en la sinagoga...los d de reposoG4521
+- Hec_18:18habiéndose detenido aún muchos d allíG2250
+- Hec_19:9discutiendo cada d en la escuela de unoG2250
+- Hec_20:6pasados los d de los panes sin levaduraG2250
+- Hec_20:6cinco d nos reunimos con ellos en TroasG2250
+- Hec_20:6en Troas, donde nos quedamos siete dG2250
+- Hec_20:7el primer d de la semana, reunidos losG3391
+- Hec_20:7Pablo...habiendo de salir al d siguienteG1887
+- Hec_20:15al d siguiente llegamos delante de QuíoG1966
+- Hec_20:15y al otro d tomamos puerto en SamosG2087
+- Hec_20:15el d siguiente llegamos a MiletoG2192
+- Hec_20:16pues se apresuraba por estar el d deG2250
+- Hec_20:18me he comportado...desde el primer dG2250
+- Hec_20:26os protesto en el d de hoy, que estoyG2250
+- Hec_20:31años, de noche y de d, no he cesado deG2250
+- Hec_21:1al d siguiente a Rodas, y de allí aG1836
+- Hec_21:4quedamos allí siete d; y ellos decían aG2250
+- Hec_21:5cumplidos...d, salimos, acompañándonosG2250
+- Hec_21:7saludado...nos quedamos con ellos un dG2250
+- Hec_21:8al otro d, saliendo...fuimos a CesareaG2250
+- Hec_21:10permaneciendo nosotros allí algunos dG2250
+- Hec_21:15después de esos d...subimos a JerusalénG2250
+- Hec_21:18al d siguiente Pablo entró con nosotrosG1966
+- Hec_21:26al d siguiente, habiéndose purificadoG2250
+- Hec_21:26para anunciar el cumplimiento de los dG2250
+- Hec_21:27cuando estaban para cumplirse los 7 dG2250
+- Hec_21:38levantó una sedición antes de estos dG2250
+- Hec_22:30d siguiente, queriendo saber de ciertoG1887
+- Hec_23:1vivido delante de Dios hasta el d de hoyG2250
+- Hec_23:12venido el d, algunos de los judíosG2250
+- Hec_23:32al d siguiente, dejando a los jinetesG1887
+- Hec_24:11no hace más de doce d que subí a adorarG2250
+- Hec_24:24algunos d después, viniendo Félix conG2250
+- Hec_25:1de Cesarea a Jerusalén tres d despuésG2250
+- Hec_25:6deteniéndose...no más de ocho o diez dG2250
+- Hec_25:6al siguiente d se sentó en el tribunalG1887
+- Hec_25:13algunos d, el rey Agripa y BereniceG2250
+- Hec_25:14como estuvieron allí muchos d, FestoG2250
+- Hec_25:17al d siguiente...mandé traer al hombreG1836
+- Hec_25:23al otro d, viniendo Agripa y BereniceG1887
+- Hec_26:7sirviendo constantemente a Dios de d yG2250
+- Hec_26:22persevero...hasta el d de hoy, dandoG2250
+- Hec_27:3al otro d llegamos a Sidon; y JulioG2087
+- Hec_27:7muchos d despacio, y llegando...a GnidoG2250
+- Hec_27:18pero...al siguiente d empezaron a alijarG1836
+- Hec_27:19al tercer d con nuestras propias manosG5154
+- Hec_27:20no apareciendo ni sol ni...por muchos dG2250
+- Hec_27:29popa, y ansiaban que se hiciese de dG2250
+- Hec_27:33este es el decimocuarto d que veláisG2250
+- Hec_27:39cuando se hizo de d, no reconocían laG2250
+- Hec_28:7recibió y hospedó solícitamente tres dG2250
+- Hec_28:12llegados a Siracusa...allí tres dG2250
+- Hec_28:13otro d después, soplando el viento surG2250
+- Hec_28:13sur, llegamos al segundo d a PuteoliG1206
+- Hec_28:14que nos quedásemos con ellos siete dG2250
+- Hec_28:17que tres d despues, Pablo convocó a losG2250
+- Hec_28:23habiéndole señalado un d vinieron aG2250
+- Rom_2:5atesoras...ira para el d de la ira y deG2250
+- Rom_2:16el d en que Dios juzgará por JesucristoG2250
+- Rom_10:21dice: Todo el d extendí mis manos a unG2250
+- Rom_11:8ojos con que no vean...hasta el d de hoyG2250
+- Rom_13:12noche está avanzada, y se acerca el dG2250
+- Rom_13:13andemos como de d, honestamente; noG2250
+- Rom_14:5uno hace diferencia entre d y d; otroG2250
+- Rom_14:5otro juzga iguales todos los d. Cada unoG2250
+- Rom_14:6el que hace caso del d, lo hace para elG2250
+- Rom_14:6el que no hace caso del d, para el SeñorG2250
+- 1Co_1:8que seáis irreprensibles en el d deG2250
+- 1Co_3:13el d la declarará, pues por el fuegoG2250
+- 1Co_5:5el espíritu sea salvo en el d del SeñorG2250
+- 1Co_10:8como...y cayeron en un d veintitrés milG2250
+- 1Co_15:4y que resucitó al tercer d, conforme aG2250
+- 1Co_15:31os aseguro, hermanos...que cada d mueroG2250
+- 1Co_16:2cada primer d de la semana cada uno deG3391
+- 2Co_1:14somos nuestra gloria...el d del SeñorG2250
+- 2Co_3:14porque hasta el d de hoy, cuando leen elG4594
+- 2Co_3:15aun hasta el d de hoy, cuando se lee aG4594
+- 2Co_4:16el interior...se renueva de d en dG2250
+- 2Co_6:2oído, y en d de salvación te he socorridoG2250
+- 2Co_6:2he aquí ahora...ahora el d de salvaciónG2250
+- 2Co_11:25noche y un d he estado como náufragoG3574
+- 2Co_11:28lo que sobre mí se agolpa cada d, laG2250
+- Gál_1:18a Pedro, y permanecí con él quince dG2250
+- Gál_4:10guardáis los d, los meses, los tiemposG2250
+- Efe_4:30con el cual fuisteis sellados para el dG2250
+- Efe_5:16aprovechando...porque los d son malosG2250
+- Efe_6:13para que podáis resistir en el d maloG2250
+- Flp_1:5comunión en...el primer d hasta ahoraG2250
+- Flp_1:6la perfeccionará hasta el d de JesucristoG2250
+- Flp_1:10que seáis sinceros...para el d de CristoG2250
+- Flp_2:16en el d de Cristo yo pueda gloriarme deG2250
+- Flp_3:5circuncidado al octavo d, del linaje deG2250
+- Col_1:6desde el d que oísteis y conocisteisG2250
+- Col_1:9desde el d que lo oímos, no cesamos deG2250
+- Col_2:16en cuanto a d de fiesta...o d de reposoG1859, [[G4521]]
+- 1Ts_2:9trabajando de noche y de d, para noG2250
+- 1Ts_3:10orando de noche y de d con...insistenciaG2250
+- 1Ts_5:2sabéis...que el d del Señor vendrá así comoG2250
+- 1Ts_5:4para que aquel d os sorprenda como ladrónG2250
+- 1Ts_5:5todos...sois hijos de luz e hijos del dG2250
+- 1Ts_5:8pero nosotros, que somos del d, seamosG2250
+- 2Ts_1:10cuando venga en aquel d para serG2250
+- 2Ts_2:2el sentido de que el d del Señor...cercaG2250
+- 2Ts_3:8que trabajamos...d y noche, para no serG2250
+- 1Ti_5:5es diligente en súplicas...noche y dG2250
+- 2Ti_1:3acuerdo de ti...oraciones noche y dG2250
+- 2Ti_1:12para guardar mi depósito para aquel dG2250
+- 2Ti_1:18halla misericordia...del Señor en aquel dG2250
+- 2Ti_3:1que en los postreros d vendrán tiemposG2250
+- 2Ti_4:8me dará el Señor, juez justo, en aquel dG2250
+- Heb_1:2en estos...d nos ha hablado por el HijoG2250
+- Heb_3:8en el d de la tentación en el desiertoG2250
+- Heb_3:13exhortaos los unos a los otros cada dG2250
+- Heb_4:4dijo así del séptimo d: Y reposó Dios deG1442
+- Heb_4:4reposó Dios de...sus obras en el séptimo dG2250
+- Heb_4:7determina un d: Hoy, diciendo después deG2250
+- Heb_4:8el reposo, no hablaría después de otro dG2250
+- Heb_5:7Cristo, en los d de su carne, ofreciendoG2250
+- Heb_7:3ni tiene principio de d, ni fin de vidaG2250
+- Heb_7:27no tiene necesidad cada d, como aquellosG2250
+- Heb_8:8vienen d...en que estableceré con la casaG2250
+- Heb_8:9el d que los tomé de...para sacarlos deG2250
+- Heb_8:10después de aquellos d, dice el SeñorG2250
+- Heb_10:11sacerdote está d tras d ministrandoG2250
+- Heb_10:16después de aquellos d, dice el SeñorG2250
+- Heb_10:25más, cuanto veis que aquel d se acercaG2250
+- Heb_10:32traed a la memoria los d pasados, enG2250
+- Heb_11:30cayeron...después de rodearlos siete dG2250
+- Heb_12:10por pocos d nos disciplinaban como aG2250
+- Stg_2:15necesidad del mantenimiento de...dG2184
+- Stg_5:3acumulado tesoros para los d postrerosG2250
+- Stg_5:5engordado vuestros corazones como en dG2250
+- 1Pe_2:12glorifiquen a Dios en el d de laG2250
+- 1Pe_3:10el que quiere...ver d buenos, refrene suG2250
+- 1Pe_3:20esperaba...en los d de Noé, mientras seG2250
+- 2Pe_1:19alumbra...hasta que el d esclarezcaG2250
+- 2Pe_2:8afligía cada d su alma justa, viendo yG2250
+- 2Pe_2:9para ser castigados en el d del juicioG2250
+- 2Pe_2:13por delicia el gozar de deleites cada dG2250
+- 2Pe_3:3que en los postreros d vendrán burladoresG2250
+- 2Pe_3:4desde el d en que los padres durmieron
+- 2Pe_3:7guardados para el fuego en el d del juicioG2250
+- 2Pe_3:8d es como mil años, y mil años como un...dG2250
+- 2Pe_3:10pero el d del Señor vendrá como ladrónG2250
+- 2Pe_3:12esperando...la venida del d de Dios, enG2250
+- 2Pe_3:18sea gloria...hasta el d de la eternidadG2250
+- 1Jn_4:17confianza en el d del juicio; puesG2250
+- Jud_1:6ha guardado...para el juicio del gran dG2250
+- Rev_1:10yo estaba en el Espíritu en el d delG2250
+- Rev_2:10y tendréis tribulación por diez d. SéG2250
+- Rev_2:13aun en los d en que Antipas...fue muertoG2250
+- Rev_4:8y no cesaban d y noche de decir: SantoG2250
+- Rev_6:17porque el gran d de su ira ha llegadoG2250
+- Rev_7:15y 1e sirven d y noche en su temploG2250
+- Rev_8:12y no hubiese luz en la tercera...del dG2250
+- Rev_9:6en aquellos d...buscarán la muerte, peroG2250
+- Rev_9:15preparados para la hora, d, mes y añoG2250
+- Rev_10:7que en los d de la voz del séptimo ángelG2250
+- Rev_11:3daré a mis...que profeticen por 1:260 dG2250
+- Rev_11:6que no llueva en los d de su profecíaG2250
+- Rev_11:9verán sus cadáveres por tres d y medioG2250
+- Rev_11:11pero después de tres d y medio entróG2250
+- Rev_12:6para que allí la sustenten por 1:260 dG2250
+- Rev_12:10los acusaba delante de...Dios d y nocheG2250
+- Rev_14:11no tiene reposo de d ni de noche losG2250
+- Rev_16:14para...la batalla de aquel gran d delG2250
+- Rev_18:8en un solo d vendrán sus plagas; muerteG2250
+- Rev_20:10serán atormentados d y noche por losG2250
+- Rev_21:25sus puertas nunca serán cerradas de dG2250

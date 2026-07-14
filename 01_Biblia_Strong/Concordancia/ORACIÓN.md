@@ -1,0 +1,143 @@
+---
+tipo: concordancia
+palabra: ORACIÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ORACIÓN
+
+- 1Re_8:28tú atenderás a la o de tu siervo, yH8605
+- 1Re_8:28el clamor y la o que tu siervo hace hoyH8605
+- 1Re_8:29y que oigas la o que tu siervo haga enH8605
+- 1Re_8:30oye, pues, la o de tu siervo, y de tuH8467
+- 1Re_8:38toda o y...que hiciere cualquier hombreH8605
+- 1Re_8:45tú oirás en los cielos su o y...súplicaH8605
+- 1Re_8:49oirás en los cielos...su o y su súplicaH8605
+- 1Re_8:52estén, pues, atentos tus ojos a la o deH8467
+- 1Re_8:54cuando acabó Salomón...esta o y súplicaH8605
+- 1Re_9:3yo he oído tu o y tu ruego que has hechoH8605
+- 2Re_19:4por tanto, eleva o por el remanenteH8605
+- 2Re_20:5he oído tu o, y he visto tus lágrimasH8605
+- 2Cr_6:19mirarás a la o de tu...para oír...la oH8605
+- 2Cr_6:20que oigas la o con que tu siervo ora enH8605
+- 2Cr_6:21oigas el ruego...de tu pueblo...hicieren oH8469
+- 2Cr_6:29toda o y...que hiciere cualquier hombreH8605
+- 2Cr_6:35, 2Cr_6:39tú oirás desde los cielos su o y suH8605
+- 2Cr_6:40estén...atentos tus oídos a la o en esteH8605
+- 2Cr_7:12he oído tu o, y he elegido para mí esteH8605
+- 2Cr_7:15y atentos mis oídos a la o en este lugarH8605
+- 2Cr_30:27fue oída, y su o llegó a la habitaciónH8605
+- 2Cr_33:13Dios oyó su o y lo restauró...a su reinoH8467
+- 2Cr_33:18los demás hechos de Manasés, y su o aH8605
+- 2Cr_33:19o también, y cómo fue oído, todos susH8605
+- Neh_1:6, Neh_1:11atento tu oído...la o de tu siervoH8605
+- Neh_1:11y a la o de tus siervos, quienes deseanH8605
+- Neh_11:17el que empezaba las...al tiempo de la oH8605
+- Job_15:4tú...menoscabas la o delante de DiosH7878
+- Job_16:17a pesar de...y de haber sido mi o puraH8605
+- Job_24:12claman las...pero Dios no atiende su o
+- Job_42:9fueron, pues...Jehová aceptó la o de Job
+- Sal_4:1ten misericordia de mí, y oye mi oH8605
+- Sal_6:9oído mi ruego; ha recibido Jehová mi oH8467
+- Sal 17,86 títsH...o de DavidH8605
+- Sal_17:1escucha mi o hecha de labios sin engañoH8605
+- Sal_35:13con ayuno...y mi o se volvía a mi senoH8605
+- Sal_39:12mi o, oh Jehová, y escucha mi clamorH8605
+- Sal_42:8su cántico...y mi o al Dios de mi vidaH8605
+- Sal_54:2oh Dios, oye mi o; escucha las razonesH8605
+- Sal_55:1escucha, oh Dios, mi o, y no te escondasH8605
+- Sal_55:2está atento, y respóndeme; clamo en mi oH7878
+- Sal_61:1oye, oh Dios, mi clamor; a mi o atiendeH8605
+- Sal_65:2tú oyes la o; a ti vendrá toda carneH8605
+- Sal_66:20Dios, que no echó de sí mi o, ni de míH8605
+- Sal_72:20aquí terminan las o de David, hijo deH8605
+- Sal_80:4tu indignación contra la o de tu pueblo?[[H8605]]
+- Sal_84:8Jehová Dios de los ejércitos, oye mi oH8605
+- Sal_86:6escucha...mi o, y está atento a la vozH8605
+- Sal_88:2llegue mi o a tu presencia; inclina tuH8605
+- Sal_88:13de mañana mi o se presentará delante deH8605
+- Sal 90 títH...o de Moisés, varón de DiosH8605
+- Sal 102 títH...o del que sufre, cuando...angustiadoH8605
+- Sal_102:1escucha mi o, y llegue a ti mi clamorH8605
+- Sal_102:17considerado la o de los desvalidos, yH8605
+- Sal_109:7salga culpable; y su o sea para pecadoH8605
+- Sal_119:170llegue mi o delante de ti; líbrameH8467
+- Sal_141:2suba mi o delante de ti como el inciensoH8605
+- Sal_141:5mi o...contra las maldades de aquéllosH8605
+- Sal 142 títH...o que hizo cuando estaba en la cuevaH8605
+- Sal_143:1Jehová, oye mi o, escucha mis ruegosH8605
+- Pro_15:8mas la o de los rectos es su gozoH8605
+- Pro_15:29lejos...pero él oye la o de los justosH8605
+- Pro_28:9aparta su oído...o también es abominableH8605
+- Isa_1:15cuando multipliquéis la o, yo no oiréH8605
+- Isa_26:16derramaron o cuando los castigasteH3908
+- Isa_37:4eleva, pues, o tú por el remanente queH8605
+- Isa_38:2volvió Ezequías su rostro a...e hizo oH6419
+- Isa_38:5he oído tu o, y visto tus lágrimas; heH8605
+- Isa_56:7monte, y los recrearé en mi casa de oH8605
+- Isa_56:7casa será llamada casa de o para todosH8605
+- Jer_7:16ni levantes por ellos...ni oH8605
+- Jer_11:14ni levantes por ellos clamor ni oH8605
+- Jer_36:7llegue la o de ellos a la presencia deH8467
+- Lam_3:8cuando clamé...cerró los oídos a mi oH8605
+- Lam_3:44nube.para que no pasase la o nuestraH8605
+- Dan_9:3y volví mi rostro a...buscándole en oH8605
+- Dan_9:17oye la o de tu siervo, y sus ruegosH8605
+- Dan_9:21estaba hablando en o, cuando el varónH8605
+- Jon_2:7mi o llegó hasta ti en tu santo temploH8605
+- Hab_3:1o del profeta Habacuc, sobre SigionotH8605
+- Zac_12:10espíritu de gracia y de o...lloraránH8605
+- Mat_17:21pero este género no sale sino con oG4335
+- Mat_21:13mi casa, casa de o será llamada; masG4335
+- Mat_21:22y todo lo que pidiereis en o, creyendoG4335
+- Mat_23:14como pretexto hacéis largas o; por esoG4336
+- Mar_9:29este...con nada puede salir, sino con oG4335
+- Mar_11:17casa será llamada casa de o para todasG4335
+- Mar_12:40viudas, y por pretexto hacen largas oG4336
+- Luc_1:13tu o ha sido oída, y tu mujer ElisabetG1162
+- Luc_2:37sirviendo de noche y de día...ayunos y oG1162
+- Luc_5:33de Juan ayunan muchas veces y hacen oG1162
+- Luc_19:46mi casa es casa de o; mas vosotros laG4335
+- Luc_20:47viudas, y por pretexto hacen largas oG4336
+- Luc_22:45cuando se levantó de la o, y vino a susG4335
+- Hec_1:14perseveraban unánimes en o y ruegoG4335
+- Hec_2:42perseveraban en la doctrina...y en las oG4335
+- Hec_3:1al templo a la hora novena, la de la oG4335
+- Hec_6:4persistiremos en la o y en el ministerioG4335
+- Hec_10:4tus o...han subido para memoria delanteG4335
+- Hec_10:31y dijo: Cornelio, tu o ha sido oída, yG4335
+- Hec_12:5la iglesia hacía sin cesar o a Dios porG4335
+- Hec_16:13junto al río, donde solía hacerse la oG4335
+- Hec_16:16que mientras íbamos a la o, nos salióG4335
+- Rom_1:9mención de vosotros siempre en mis oG4335
+- Rom_10:1o a Dios por Israel, es para salvaciónG1162
+- Rom_12:12en la tribulación; constantes en la oG4335
+- 1Co_7:5para ocuparos sosegadamente en la oG4335
+- 1Co_14:13lengua...pida en o poder interpretarlaG4336
+- 2Co_1:11vosotros a favor nuestro con la oG4336
+- 2Co_9:14asimismo en la o de ellos por vosotrosG1162
+- Efe_1:16haciendo memoria de vosotros en mis oG4335
+- Efe_6:18orando en todo...con toda o y súplica enG4335
+- Flp_1:4en todas mis o rogando con gozo porG1162
+- Flp_1:9esto pido en o, que vuestro amor abundeG4336
+- Flp_1:19sé que por vuestra o...en mi liberaciónG1162
+- Flp_4:6sino sean conocidas...en toda o y ruegoG4335
+- Col_4:2perseverad en la o, velando en ellaG4335
+- Col_4:12rogando...por vosotros en sus o, para queG4335
+- 1Ts_1:2haciendo memoria de vosotros en...oG4335
+- 1Ti_2:1se hagan rogativas, o, peticiones yG4335
+- 1Ti_4:5por la palabra...por la o es santificadoG1783
+- 1Ti_5:5es diligente en súplicas y o noche y díaG4335
+- 2Ti_1:3me acuerdo de ti en mis o noche y díaG1162
+- Flm_1:4haciendo siempre memoria de ti en mis oG4335
+- Flm_1:22espero que por vuestras o...seré concedidoG4335
+- Stg_5:13está alguno...vosotros afligido? Haga oG1162
+- Stg_5:15y la o de fe salvará al enfermo, y elG2171
+- Stg_5:16orad...La o eficaz del justo puede muchoG1162
+- 1Pe_3:7para que vuestras o no tengan estorboG4335
+- 1Pe_3:12los ojos...y sus oídos atentos a sus oG1162
+- 1Pe_4:7acerca; sed, pues, sobrios, y velad en oG4335
+- Rev_5:8llenas de incienso, que son las o de losG4335
+- Rev_8:3mucho incienso para añadirlo a las o deG4335
+- Rev_8:4subió a la...el humo del incienso con las oG4335

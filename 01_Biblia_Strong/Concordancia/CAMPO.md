@@ -1,0 +1,326 @@
+---
+tipo: concordancia
+palabra: CAMPO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CAMPO
+
+- Gén_2:5toda planta del c...toda hierba del cH7704
+- Gén_2:19formó...toda bestia del c, y toda aveH7704
+- Gén_2:20puso Adán nombre...a todo ganado del cH7704
+- Gén_3:1era astuta, más que...los animales del cH7704
+- Gén_3:14maldita serás entre...los animales del cH7704
+- Gén_3:18te producirá, y comerás plantas del cH7704
+- Gén_4:8Caín a su hermano Abel: Salgamos al c
+- Gén_4:8estando ellos en el c, Caín se levantóH7704
+- Gén_24:63y había salido Isaa c a meditar al c, aH7704
+- Gén_24:65que viene por el c hacia nosotros?[[H7704]]
+- Gén_25:27Esaú fue diestro en la...hombre del cH7704
+- Gén_25:29y volviendo Esaú del c, cansadoH7704
+- Gén_27:3toma...arco, y sal al c y tráeme cazaH7704
+- Gén_27:5se fue Esaú al c para buscar la cazaH7704
+- Gén_27:27el olor del c que Jehová ha bendecidoH7704
+- Gén_29:2miró, y vio un pozo en el c; y he aquíH7704
+- Gén_30:14fue Rubén...halló mandrágoras en el cH7704
+- Gén_30:16cuando, pues, Jacob volvía del c a laH7704
+- Gén_31:4llamó...al c donde estaban sus ovejasH7704
+- Gén_32:3a Esaú...a la tierra de Seir, c de EdomH7704
+- Gén_33:19una parte del c, donde plantó su tiendaH7704
+- Gén_34:5estando sus hijos con su ganado en el cH7704
+- Gén_34:7hijos de Jacob vinieron del c cuandoH7704
+- Gén_34:28tomaron sus...y lo que había...en el cH7704
+- Gén_36:35que derrotó a Madián en el c de MoabH7704
+- Gén_37:7atábamos manojos en medio del c, y heH7704
+- Gén_37:15lo halló...andando él errante por el cH7704
+- Gén_39:5Jehová bendijo la...en casa como en el cH7704
+- Gén_41:48en cada ciudad el alimento del c deH7704
+- Gén_49:29-30en la cueva que está en el c deH7704
+- Gén_49:30la cual compró Abraham con el mismo cH7704
+- Gén_49:32la compra del c y de la cueva...en élH7704
+- Gén_50:13y lo sepultaron en la cueva del c deH7704
+- Gén_50:13la que había comprado...con el mismo cH7704
+- Éxo_1:14toda labor del c y en todo su servicioH7704
+- Éxo_8:13murieron las ranas de las casas...los cH7704
+- Éxo_9:3tus ganados que están en el c, caballosH7704
+- Éxo_9:19tu ganado, y todo lo que tienes en el cH7704
+- Éxo_9:19animal que se halle en el c, y no seaH7704
+- Éxo_9:21dejó sus criados y sus ganados en el cH7704
+- Éxo_9:22granizo...sobre toda la hierba del c enH7704
+- Éxo_9:25hirió en...todo lo que estaba en el cH7704
+- Éxo_9:25destrozó el granizo...la hierba del cH7704
+- Éxo_10:5todo árbol que os fructifica en el cH7704
+- Éxo_10:15no quedó cosa verde...en hierba del cH7704
+- Éxo_16:25es día de reposo...no hallaréis en el cH7704
+- Éxo_22:5pastar en c o...su bestia en c de otroH7704
+- Éxo_22:5de lo mejor de su c y...su viña pagaráH7704
+- Éxo_22:6quemare mieses amontonadas o en...o cH7704
+- Éxo_22:31carne destrozada por...fieras en el cH7704
+- Éxo_23:11que quedare comerán las bestias del cH7704
+- Éxo_23:16frutos...que hubieres sembrado en el cH7704
+- Éxo_23:16recogido los frutos de...labores del cH7704
+- Éxo_23:29se aumenten contra ti las fieras del cH7704
+- Lev_14:7y soltará la avecilla viva en el cH7704
+- Lev_14:53la avecilla viva...sobre la faz del cH7704
+- Lev_17:5los que sacrifican en medio del c, paraH7704
+- Lev_19:19c no sembrarás con mezcla de semillasH7704
+- Lev_25:31estimadas como los terrenos del cH7704
+- Lev_26:4yo daré...y el árbol del c dará su frutoH7704
+- Núm_19:16muerto a espada sobre la faz del cH7704
+- Núm_21:20al valle que está en los c de MoabH7704
+- Núm_22:1y acamparon en los c de Moab junto alH6160
+- Núm_22:4lamerá...lame el buey la grama del cH7704
+- Núm_22:23se apartó el asna del...e iba por el cH7704
+- Núm_23:14lo llevó al c de Zofim, a la cumbreH7704
+- Núm_26:3hablaron con ellos en los c de MoabH6160
+- Núm_26:63contaron los...Israel en los c de MoabH6160
+- Núm_33:48acamparon en los c de Moab, junto alH6160
+- Núm_33:49finalmente acamparon...los c de MoabH6160
+- Núm_33:50; Núm_35:1habló Jehová a Moisés en los cH6160
+- Núm_36:13que mandó Jehová...en los c de MoabH6160
+- Deu_7:22que las fieras del c no se aumentenH7704
+- Deu_11:15daré...hierba en tu c para tus ganadosH7704
+- Deu_14:22del grano que rindiere tu c cada añoH7704
+- Deu_20:19el árbol del c no es hombre para venirH7704
+- Deu_21:1hallado alguien muerto, tendido en el cH7704
+- Deu_22:25hallare en el c a la joven desposadaH7704
+- Deu_22:27la halló en el c; dio voces la jovenH7704
+- Deu_24:19cuando siegues tu mies en tu c, yH7704
+- Deu_24:19y olvides alguna gavilla en el c, noH7704
+- Deu_28:3bendito serás tú en la ciudad...en el cH7704
+- Deu_28:16maldito serás tú en la ciudad, y...el cH7704
+- Deu_28:38mucha semilla al c, y recogerás pocoH7704
+- Deu_32:13lo hizo subir...comió los frutos del cH7704
+- Deu_32:32vid de Sodoma...y de los c de GomorraH7709
+- Deu_34:1subió Moisés de los c de Moab al monteH6160
+- Deu_34:8y lloraron...a Moisés en los c de MoabH6160
+- Jos_8:24matar a...moradores de Hai en el cH7704
+- Jos_21:12mas el c de la ciudad...dieron a CalebH7704
+- Jos_24:32c que Jacob compró de los...de HamorH7704
+- Jue_1:14persuadió...pidiese a su padre un cH7704
+- Jue_5:4cuando te marchaste de los c de EdomH7704
+- Jue_5:18Zabulón...Neftalí en las alturas del cH7704
+- Jue_9:27saliendo al c, vendimiaron sus viñedosH7704
+- Jue_9:32levántate, pues...pon emboscadas en el cH7704
+- Jue_9:42pueblo salió al c; y fue dado aviso aH7704
+- Jue_9:43puso emboscadas en el c; y cuando miróH7704
+- Jue_9:44acometieron a...los que estaban en el cH7704
+- Jue_13:9el ángel...volvió...estando ella en el cH7704
+- Jue_19:16un hombre viejo que venía de su...del cH7704
+- Jue_20:31a Bet-el, y el otro a Gabaa en el cH7704
+- Jue_20:36los...de Israel cedieron c a BenjamínH4725
+- Rut_1:1un varón...fue a morar en los c de MoabH7704
+- Rut_1:2llegaron...a los c de Moab, y se quedaronH7704
+- Rut_1:6se levantó...y regresó de los c de MoabH7704
+- Rut_1:6oyó en el c...que Jehová había visitadoH7704
+- Rut_1:22volvió de los c de Moab, y llegaron aH7704
+- Rut_2:2ruego que me dejes ir al c, y recogeréH7704
+- Rut_2:3espigó en el c...c era de Booz, el cualH7704
+- Rut_2:6que volvió con Noemí de los c de MoabH7704
+- Rut_2:8no vayas a espigar a otro c, ni pasesH7704
+- Rut_2:9mira bien el c que sieguen, y síguelasH7704
+- Rut_2:17espigó, pues, en el c hasta la nocheH7704
+- Rut_2:22mejor...que no te encuentren en otro cH7704
+- Rut_4:3al pariente: Noemí, que ha vuelto del cH7704
+- 1Sa_4:2hirieron...el c como a 4.000 hombresH7704
+- 1Sa_6:14carro vino al c de Josué de Bet-semesH7704
+- 1Sa_6:18la gran piedra...está en el c de JosuéH7704
+- 1Sa_8:12los pondrá...a que aren sus c y sieguenH2758
+- 1Sa_11:5Saúl que venía del c, tras los bueyesH2758
+- 1Sa_14:15hubo pánico en el campamento y...el cH2758
+- 1Sa_14:25había miel en la superficie del cH2758
+- 1Sa_17:44y daré tu carne...a las bestias del cH2758
+- 1Sa_19:3y yo...estaré junto a mi padre en el cH2758
+- 1Sa_20:5tú dejarás que me esconda en el c hastaH2758
+- 1Sa_20:11salgamos al c. Y salieron ambos al cH2758
+- 1Sa_20:24David...se escondió en el c, y cuandoH2758
+- 1Sa_20:35salió Jonatán al c, al tiempo señaladoH2758
+- 1Sa_30:11hallaron en el c a un hombre egipcioH2758
+- 2Sa_2:18ligero de pies como una gacela del cH2758
+- 2Sa_3:22siervos de David y Joab venían del cH1416
+- 2Sa_10:8los sirios de...estaban aparte en el cH7704
+- 2Sa_11:11y los siervos de mi señor, en el cH7704
+- 2Sa_11:23hombres...salieron contra nosotros al cH7704
+- 2Sa_14:6dos hijos, y los dos riñeron en el cH7704
+- 2Sa_14:30el c de Joab...prendieron fuego al cH2513
+- 2Sa_14:31han prendido fuego tus siervos a mi c?[[H2513]]
+- 2Sa_17:8la osa en el c cuando le han quitado susH7704
+- 2Sa_18:6salió...el pueblo al c contra Israel, yH7704
+- 2Sa_21:10no dejó que...ni fieras del c de nocheH7704
+- 1Re_11:29y estaban ellos dos solos en el cH7704
+- 1Re_14:11el que muera en el c, lo comerán lasH7704
+- 1Re_16:4el que de él fuere muerto en el c, loH7704
+- 1Re_16:16a Omri, general...en el c de batallaH4264
+- 1Re_20:25luego pelearemos con ellos en c rasoH4334
+- 1Re_21:24que fuere muerto en el c, lo comeránH7704
+- 1Re_22:34y sácame del c, pues estoy heridoH4264
+- 2Re_4:39salió uno al c a recoger hierbas, yH7704
+- 2Re_7:12y se han escondido en el c, diciendoH7704
+- 2Re_9:10Jezabel la comerán los perros en el cH2506
+- 2Re_19:23lugares, en el bosque de sus feraces cH3760
+- 2Re_19:26vinieron a ser como la hierba del cH7704
+- 2Re_23:4los quemó fuera de...en el c del CedrónH7709
+- 1Cr_1:46derrotó a Madián en el c de MoabH7704
+- 1Cr_16:32alégrese el c, y todo lo que contieneH7704
+- 1Cr_19:9los reyes que...estaban aparte en el cH7704
+- 1Cr_27:25Jonatán hijo de...los tesoros de los cH7704
+- 2Cr_18:33sácame del c...estoy mal heridoH4264
+- 2Cr_26:23sepultaron con sus padres en el c deH7704
+- 2Cr_35:22a darle batalla en el c de MeguidoH1237
+- Neh_6:2ven y reunámonos en...en el c de OnoH1237
+- Neh_12:29de los c de Geba y de Asmavet; porqueH7704
+- Job_5:10que da...envía las aguas sobre los cH2351
+- Job_5:22reirás, y no temerás de...fieras del cH776
+- Job_5:23con las piedras del c tendrás tu pactoH7704
+- Job_5:23las fieras del c estarán en paz contigoH7704
+- Job_24:6en el c siegan su pasto, y los impíosH7704
+- Job_39:15que puede quebrarlos la bestia del cH7704
+- Job_40:20montes...toda bestia del c retoza alláH7704
+- Sal_8:7ello, y asimismo las bestias del cH7704
+- Sal_50:11lo que se mueve en los c me perteneceH7704
+- Sal_78:12hizo maravillas en...en el c de ZoánH7704
+- Sal_78:43puso...sus maravillas en el c de ZoánH7704
+- Sal_80:13destroza...y la bestia del c la devoraH7704
+- Sal_96:12regocíjese el c, y todo lo que en élH7704
+- Sal_103:15hombre...florece como la flor del cH7704
+- Sal_104:11dan de beber a todas las bestias del cH7704
+- Sal_107:37siembran c, y plantan viñas, y...frutoH7704
+- Sal_132:6oímos...hallamos en los c del bosqueH7704
+- Sal_144:13que se multipliquen...en nuestros cH7339
+- Pro_8:26había aún hecho la tierra, ni los cH2351
+- Pro_24:27prepara...fuera, y disponlas en tus cH7704
+- Pro_24:30pasé junto al c del hombre perezosoH7704
+- Pro_27:26y los cabritos para el precio del cH7704
+- Ecl_5:9el rey mismo está sujeto a los cH7704
+- Cnt_2:7; Cnt_3:5conjuro...por las ciervas del cH7704
+- Cnt_7:11oh amado mío, salgamos al c, moremosH7704
+- Isa_5:17extraños devorarán los c desoladosH2723
+- Isa_10:18su bosque y de su c fértil consumiráH3759
+- Isa_16:8los c de Hesbón fueron talados, y lasH7709
+- Isa_16:10quitado es el gozo y la...del c fértilH3759
+- Isa_29:17convertirá...el Líbano en c fructíferoH3759
+- Isa_32:12lamentarán por los c deleitosos, porH7704
+- Isa_32:15el desierto se convierta en c fértilH3759
+- Isa_32:15el c fértil sea estimado por bosqueH3759
+- Isa_32:16y en el c fértil morará la justiciaH3759
+- Isa_37:24llegaré...al bosque de sus feraces cH3759
+- Isa_37:27fueron como hierba del c y hortalizaH7704
+- Isa_40:6carne...toda su gloria como flor del cH7704
+- Isa_43:20fieras del c me honrarán, los chacalesH7704
+- Isa_55:12todos los árboles del c darán palmadasH7704
+- Isa_56:9las bestias del c, todas las fieras delH7704
+- Jer_4:3arad c para vosotros, y no sembréisH5215
+- Jer_4:17guardas de c estuvieron en derredor deH7704
+- Jer_4:26y he aquí el c fértil era un desiertoH3759
+- Jer_6:25no salgas al c, ni andes por el caminoH7704
+- Jer_7:20se derramarán...sobre los árboles del cH7704
+- Jer_8:10daré a...sus c a quienes los conquistenH7704
+- Jer_9:22caerán como estiércol sobre la...del cH7704
+- Jer_12:4y marchita la hierba de todo el c?[[H7704]]
+- Jer_12:9vosotras todas las fieras del c, venidH7704
+- Jer_13:27en el c vi tus abominaciones. ¡Ay de tiH7704
+- Jer_14:5las ciervas en los c parían y dejaban laH7704
+- Jer_14:18si salgo al c, he aquí muertos a espadaH7704
+- Jer_17:3sobre las montañas y sobre el c. TodosH7704
+- Jer_18:14¿faltará la nieve...de la piedra del c?[[H7704]]
+- Jer_26:18Sion será arada como c, y JerusalénH7704
+- Jer_27:6aun las bestias del c le he dado paraH7704
+- Jer_28:14también le he dado las bestias del cH7704
+- Jer_40:7los jefes...que estaban por el c...oyeronH7704
+- Jer_40:13los príncipes de...que estaban en el cH7704
+- Jer_41:8tenemos en el c tesoros de trigos yH7704
+- Jer_48:33cortada la alegría y el regocijo...cH3759
+- Eze_3:22y sal al c, y allí hablaré contigoH1237
+- Eze_3:23salí al c...estaba la gloria de JehováH1237
+- Eze_7:15el que esté en el c morirá a espada, yH7704
+- Eze_8:4como la visión que yo había visto en el cH1237
+- Eze_16:5que fuiste arrojada sobre la faz del cH7704
+- Eze_16:7hice multiplicar como la hierba del cH7704
+- Eze_17:5la puso en un c bueno para sembrar, laH7704
+- Eze_17:8en un buen c, junto a muchas aguas, fueH7704
+- Eze_17:24sabrán todos los árboles del c que yoH7704
+- Eze_26:6hijas que están en el c serán muertasH7704
+- Eze_26:8matará...a tus hijas que están en el cH7704
+- Eze_29:5la faz del c caerás; no serás recogidoH7704
+- Eze_31:4a todos los árboles del c enviaba susH7704
+- Eze_31:5encumbró...sobre todos los árboles del cH7704
+- Eze_31:6ramaje parían todas las bestias del cH7704
+- Eze_31:13sobre sus ramas...las bestias del cH7704
+- Eze_31:15todos los árboles del c se desmayaronH7704
+- Eze_32:4te echaré sobre la faz del c, y haréH7704
+- Eze_33:27que está sobre la faz del c entregaréH7704
+- Eze_34:5, Eze_34:8son presa de todas las fieras del cH7704
+- Eze_34:27y el árbol del c dará su fruto, y laH7704
+- Eze_36:30multiplicaré asimismo el fruto de...cH7704
+- Eze_37:2que eran muchísimos sobre la faz del cH1237
+- Eze_38:20bestias del c y toda serpiente que seH7704
+- Eze_39:4las fieras del c, te he dado por comidaH7704
+- Eze_39:5sobre la faz del c caerás; porque yo heH7704
+- Eze_39:10no traerán leña del c, ni cortarán deH7704
+- Eze_39:17a toda fiera del c: Juntaos, y venidH7704
+- Dan_2:38que habitan...bestias del c y aves delH1251
+- Dan_3:1una estatua...la levantó en el c de DuraH1236
+- Dan_4:12se ponían a la sombra las bestias del cH1251
+- Dan_4:15, Dan_4:23atadura de...entre la hierba del cH1251
+- Dan_4:21debajo del...moraban las bestias del cH1251
+- Dan_4:23y con las bestias del c sea su parteH1251
+- Dan_4:25con las bestias del c será tu moradaH1251
+- Dan_4:25con hierba del c te apacentarán como a
+- Dan_4:32las bestias del c será tu habitaciónH1251
+- Ose_2:12vides...las comerán las bestias del cH7704
+- Ose_2:18haré para ti pacto con las bestias del cH7704
+- Ose_4:3se extenuará...con las bestias del c yH7704
+- Ose_10:4juicio florecerá...en los surcos del cH7704
+- Ose_12:11son como montones en los surcos del cH7704
+- Ose_13:8devoraré...fiera del c los despedazaráH7704
+- Joe_1:10c está asolado, se enlutó la tierraH7704
+- Joe_1:11gemid...porque se perdió la mies del cH7704
+- Joe_1:12todos los árboles del c se secaron, porH7704
+- Joe_1:19y llama abrasó todos los árboles del cH7704
+- Joe_1:20las bestias del c bramarán también a tiH7704
+- Joe_2:22animales del c, no temáis; porque losH7704
+- Amó_1:2los c de los pastores se enlutarán, yH7704
+- Abd_1:19poseerán...los c de Efraín, y los c deH7704
+- Miq_2:4¡cómo nos quitó nuestros c! Los dio yH7704
+- Miq_3:12Sion será arada como c, y JerusalénH7704
+- Miq_4:10saldrás de la ciudad y morarás en el cH7704
+- Miq_7:14mora solo en...en c fértil; busque pastoH3760
+- Sof_2:9Moab...c de ortigas, y mina de salH4476
+- Sof_2:14harán en ella majada...las bestias del cH1471
+- Zac_10:1y hierba verde en el c a cada unoH7704
+- Zac_13:5he estado en el c desde mi juventudH7069
+- Mal_3:11ni vuestra vid en el c será estérilH7704
+- Mat_6:28considerad los lirios del c...crecenG68
+- Mat_6:30si la hierba del c...Dios la viste asíG68
+- Mat_13:24hombre...sembró buena semilla en su cG68
+- Mat_13:27¿no sembraste buena semilla en tu c?[[G68]]
+- Mat_13:31mostaza...un hombre...sembró en su cG68
+- Mat_13:36explícanos la parábola de la...del cG68
+- Mat_13:38el c es el mundo; la buena semilla sonG68
+- Mat_13:44semejante a...tesoro escondido en un cG68
+- Mat_13:44vende todo...tiene, y compra aquel cG68
+- Mat_24:18el que esté en el c, no vuelva atrásG68
+- Mat_24:40entonces estarán dos en el c; el unoG68
+- Mat_27:7compraron con ellas el c del alfareroG68
+- Mat_27:8aquel c se llama hasta el...C de SangreG68
+- Mat_27:10y las dieron para el c del alfareroG68
+- Mar_5:14dieron aviso en la ciudad y en los cG68
+- Mar_6:36para que vayan a los c...y compren panG68
+- Mar_6:56c, ponían en las calles a los enfermosG68
+- Mar_13:16el que esté en el c, no vuelva atrásG68
+- Mar_15:21venía del c, a que le llevase la cruzG68
+- Mar_16:12apareció...a dos de ellos...yendo al cG68
+- Luc_8:34dieron aviso en la ciudad y por los cG68
+- Luc_9:12que vayan a las aldeas y c...y se alojenG68
+- Luc_12:28hierba que hoy está en el c, y mañanaG68
+- Luc_15:25su hijo mayor estaba en el c; y cuandoG68
+- Luc_17:7al volver él del c, luego le dice: PasaG68
+- Luc_17:31y el que en el c, asimismo no vuelvaG68
+- Luc_17:36estarán en el c; el uno será tomado, yG68
+- Luc_21:21que estén en los c, no entren en ellaG5561
+- Luc_23:26Simón de Cirene, que venía del c, y leG68
+- Jua_4:35alzad vuestros ojos y mirad los cG5561
+- Hec_1:18adquirió un c, y cayendo de cabezaG5564
+- Hec_1:19c se llama en su...lengua...C de SangreG5564
+- Rom_15:23no teniendo más c en estas regionesG5117

@@ -1,0 +1,76 @@
+---
+tipo: concordancia
+palabra: JOÁS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JOÁS
+
+- 1 Padre de Gedeón
+- Jue_6:11encina...la cual era de J abiezeritaH3101
+- Jue_6:29dijeron: Gedeón hijo de J lo ha hechoH3101
+- Jue_6:29los hombres de la ciudad dijeron a JH3101
+- Jue_6:31y J respondió a todos los que estabanH3101
+- Jue_7:14es...sino la espada de Gedeón hijo de JH3101
+- Jue_8:13Gedeón hijo de J volvió de la batallaH3101
+- Jue_8:29Jerobaal hijo de J...habitó en su casaH3101
+- Jue_8:32murió Gedeón hijo de J en buena vejezH3101
+- Jue_8:32fue sepultado en el sepulcro de su...JH3101
+- 2 Hijo del rey Acab, 1Re_22:26; 2Cr_18:25H3101
+- 3 Rey de Judá, hijo de Ocozías
+- 2Re_11:2a J...lo sacó furtivamente de entreH3101
+- 2Re_11:21era J de siete años cuando comenzó aH3060
+- 2Re_12:1en el séptimo año...comenzó a reinar JH3060
+- 2Re_12:2J hizo lo recto ante los ojos de JehováH3060
+- 2Re_12:4J dijo a los sacerdotes: Todo el dineroH3060
+- 2Re_12:6año 23 del rey J aún no habían reparadoH3060
+- 2Re_12:7llamó...rey J al sumo sacerdote JoiadaH3060
+- 2Re_12:18tomó J...ofrendas que habían dedicadoH3060
+- 2Re_12:19los demás hechos de J...¿no está escritoH3101
+- 2Re_12:20levantaron...y mataron a J en la casaH3101
+- 2Re_13:1en el año 23 de J hijo de Ocozías, reyH3101
+- 2Re_13:10el año 37 de J...comenzó a reinar JoásH3060
+- 2Re_14:1comenzó a reinar Amasías hijo de J reyH3101
+- 2Re_14:3hizo...todas las cosas que había hecho JH3101
+- 2Re_14:13tomó a Amasías rey de Judá, hijo de JH3060
+- 2Re_14:17Amasías hijo de J...vivió después de IaH3060
+- 2Re_14:23el año quince de Amasías hijo de J reyH3101
+- 1Cr_3:11hijo fue Ocozías, hijo del cual...JH3101
+- 2Cr_22:11Josabet, tornó a J hijo de OcozíasH3101
+- 2Cr_24:1de 7 años era J cuando comenzó a reinarH3101
+- 2Cr_24:2e hizo J lo recto ante...ojos de JehováH3101
+- 2Cr_24:4J decidió restaurar la casa de JehováH3101
+- 2Cr_24:22J no se acordó de la misericordia queH3101
+- 2Cr_24:24Siria...Así ejecutaron juicios contra JH3101
+- 2Cr_24:27cuanto a los hijos de J...está escritoH3101
+- 2Cr_25:23apresó...a Amasías...hijo de J, hijo deH3101
+- 2Cr_25:25vivió Amasías hijo de J, rey de JudáH3101
+- 4 Rey de Israel, hijo y sucesor de Joacaz
+- 2Re_13:9durmió...reinó en su lugar J su hijoH3101
+- 2Re_13:10reinar J hijo de Joacaz sobre IsraelH3060
+- 2Re_13:12demás hechos de J...¿no está escrito enH3101
+- 2Re_13:13y durmió J...J fue sepultado en SamariaH3101
+- 2Re_13:14y descendió a él J rey de Israel, yH3101
+- 2Re_13:25volvió J...y tomó de mano de Ben-adadH3060
+- 2Re_13:25tres veces los derrotó J, y restituyóH3101
+- 2Re_14:1el año segundo de J...comenzó a reinarH3101
+- 2Re_14:8Amasías envió mensajeros a J hijo deH3060
+- 2Re_14:9J...envió...esta respuesta: El cardo queH3060
+- 2Re_14:11subió J rey...y se vieron las caras élH3060
+- 2Re_14:13J rey de Israel tomó a Amasías rey deH3060
+- 2Re_14:15los demás hechos que ejecutó J...y susH3060
+- 2Re_14:16durmió J con sus padres...fue sepultadoH3060
+- 2Re_14:17después de la muerte de J...quince añosH3060
+- 2Re_14:23comenzó a reinar Jeroboam hijo de JH3101
+- 2Re_14:27salvó por mano de Jeroboam hijo de JH3101
+- 2Cr_25:17Amasías...envió a decir a J hijoH3101
+- 2Cr_25:18J rey de Israel envió a decir a...reyH3101
+- 2Cr_25:21subió...J rey de Israel, y se vieronH3101
+- 2Cr_25:23J rey de Israel apresó...a Amasías reyH3101
+- 2Cr_25:25Amasías...después de la muerte de JH3101
+- Ose_1:1; Amó_1:1en días de Jeroboam hijo de JH3101
+- 5 Descendiente de Judá, 1Cr_4:22H3101
+- 6 Descendiente de Benjamín, 1Cr_7:8H3135
+- 7 Uno de los valientes de David, 1Cr_12:3H3101
+- 8 Funcionario del rey David, 1Cr_27:28H2728

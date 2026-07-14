@@ -1,0 +1,110 @@
+---
+tipo: concordancia
+palabra: ANGUSTIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ANGUSTIA
+
+- Gén_35:3Dios que me respondió en el día de...aH6869
+- Gén_42:21vimos la a de su alma cuando nos rogabaH6869
+- Gén_42:21por eso ha venido sobre nosotros esta aH6869
+- Éxo_3:7he oído su clamor...he conocido sus aH6040
+- Deu_4:30a, y te alcanzaren todas estas cosasH6862
+- Deu_31:17vendrán sobre ellos muchos males y aH6869
+- Deu_31:21cuando les vinieren muchos males y aH6869
+- Jue_16:16su alma fue reducida a mortal aH7114
+- 1Sa_10:19que os guarda de todas vuestras...aH6869
+- 2Sa_1:9ha apoderado de mi la a; pues mi vidaH7661
+- 2Sa_1:26a tengo por ti, hermano mío JonatánH6887
+- 2Sa_4:9Jehová que ha redimido mi alma de toda aH6869
+- 2Sa_22:7en mi a invoqué a Jehová, y clamé a miH6862
+- 2Sa_24:14David dijo a Gad: En grande a estoyH6862
+- 1Re_1:29que ha redimido mi alma de toda aH6869
+- 1Re_22:27y mantenedle con pan de a y con aguaH3906
+- 2Re_19:3este día es día de a, de reprensiónH6869
+- 1Cr_21:13David...a Gad: Estoy en grande aH6887
+- 2Cr_18:26con pan de aflicción y agua de aH3906
+- 2Cr_33:12fue puesto en a, oró a Jehová su DiosH6887
+- Neh_9:37por nuestros pecados...en grande aH6869
+- Job_7:11hablaré en la a de mi espíritu, y meH6862
+- Job_15:24tribulación y a le turbarán, y seH4691
+- Job_36:16te apartará de la boca de la a a lugarH6862
+- Job_38:23tengo reservados para el tiempo de aH6862
+- Sal_4:1estaba en a, tú me hiciste ensancharH6862
+- Sal_9:9del pobre, refugio para el tiempo de aH6869
+- Sal_18:6en mi a invoqué a Jehová, y clamé a miH6862
+- Sal_22:11no te alejes de mí, porque la a estáH6869
+- Sal_25:17las a de mi corazón se han aumentadoH6869
+- Sal_25:22redime, oh Dios, a Israel de todas...aH6869
+- Sal_31:7has visto...has conocido mi alma en las aH6869
+- Sal_31:9ten misericordia de...porque estoy en aH6862
+- Sal_32:7tú eres mi refugio, me guardarás de la aH6862
+- Sal_34:6le oyó Jehová, y lo libró de todas sus aH6869
+- Sal_34:17Jehová oye, y los libra de todas sus aH6869
+- Sal_37:39él es su fortaleza en el tiempo de la aH6869
+- Sal_50:15invócame en el día de la a; te libraréH6869
+- Sal_54:7él me ha librado de toda a, y mis ojosH6869
+- Sal_59:16has sido mi...refugio en el día de mi aH6862
+- Sal_71:20que me has hecho ver muchas a y malesH6869
+- Sal_77:2al Señor busqué en al día de mi a; alzabaH6869
+- Sal_78:42mano, del día que los redimió de la aH6862
+- Sal_78:49sobre ellos el...enojo, indignación y aH6869
+- Sal_86:7en el día de mi a te llamaré, porque túH6869
+- Sal_91:15con él estaré yo en la a; lo libraré yH6869
+- Sal_102:2no escondas de mí tu...en el día de mi aH6862
+- Sal_106:44miraba cuando estaban en a, y oía suH6862
+- Sal_107:6, Sal_107:13, Sal_107:19clamaron a Jehová en su a...libróH6862
+- Sal_107:28claman a Jehová en su a, y los libraH6862
+- Sal_116:3muerte, me encontraron las a del SeolH4712
+- Sal_116:3me rodearon...a y dolor había yo halladoH6869
+- Sal_118:5desde la a invoqué a JAH...me respondióH4712
+- Sal_119:143aflicción y a se han apoderado de míH6862
+- Sal_120:1a Jehová clamé estando en a, y él meH6869
+- Sal_138:7si anduviere yo en medio de la a, tú meH6869
+- Sal_142:2queja; delante de él manifestaré mi aH6869
+- Sal_143:11por tu justicia sacarás mi alma de aH6869
+- Pro_1:27sobre vosotros viniere tribulación y aH6695
+- Pro_17:17y es como un hermano en tiempo de aH6869
+- Pro_21:23que guarda su boca...su alma guarda de aH6869
+- Pro_25:19es la confianza en el...en tiempo de aH6869
+- Isa_8:22y mirarán a la tierra...oscuridad y aH6869
+- Isa_9:1oscuridad para la que está ahora en aH4164
+- Isa_13:8a y dolores se apoderarán de ellosH6735
+- Isa_17:11será arrebatada en el día de la a, yH2470
+- Isa_21:3a se apoderaron de mí, como a de mujerH6735
+- Isa_22:5día es de alboroto, de a y de confusiónH4103
+- Isa_30:6tierra de tribulación y de a, de dondeH6869
+- Isa_30:20os dará el Señor pan de...y agua de aH3906
+- Isa_37:3día de a, de reprensión y de blasfemiaH6869
+- Isa_63:9en toda a de ellos él fue angustiado, y elH6869
+- Isa_65:16porque las a primeras serán olvidadasH6869
+- Jer_4:31a como de primeriza; voz de la hijaH6869
+- Jer_6:24se apoderó de nosotros a, dolor como deH6869
+- Jer_15:11en tiempo de aflicción y en época de a![[H6869]]
+- Jer_30:7tiempo de a para Jacob; pero de ella seráH6869
+- Jer_48:41de Moab como el corazón de mujer en aH6887
+- Jer_49:22de Edom...como el corazón de mujer en aH6887
+- Jer_49:24tomó temblor y a, y dolores le tomaronH6869
+- Jer_50:43a le tomó, dolor como de mujer de partoH6869
+- Eze_4:16pan...y comerán el pan por peso y con aH8078
+- Eze_30:16Tebas será...Menfis tendrá continuas aH6862
+- Dan_12:1será tiempo de a, cual nunca fue desdeH6869
+- Ose_5:15que reconozcan su...En su a me buscaránH6862
+- Abd_1:12ni...haberte jactado en el día de la aH6869
+- Abd_1:14ni...a los que quedaban en el día de la aH6869
+- Jon_2:2invoqué en mi a a Jehová, y él me oyóH6869
+- Nah_1:7Jehová es...fortaleza en el día de la aH6869
+- Hab_3:16bien estaré quieto en el día de la aH6869
+- Sof_1:15día de ira aquel...de a y de aprietoH6869
+- Luc_2:48tu padre y yo te hemos buscado con aG3600
+- Luc_21:25señales...en la tierra a de las gentesG4928
+- Jua_16:21pero después...no se acuerda de la aG2347
+- Rom_2:9a sobre todo ser humano que hace lo maloG2347
+- Rom_8:35a, o persecución, o hambre, o desnudezG2347
+- 2Co_2:4la mucha...a del corazón os escribíG2347
+- 2Co_5:4estamos en este tabernáculo gemimos con aG4727
+- 2Co_6:4en tribulaciones, en necesidades, en aG2347
+- 2Co_12:10me gozo en...persecuciones, en a; porqueG4730
+- Rev_12:2clamaba con...en la a del alumbramientoG928

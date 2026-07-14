@@ -1,0 +1,170 @@
+---
+tipo: concordancia
+palabra: CUATRO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CUATRO
+
+- Véase también Cuatrocientos, Cuatro mil, etc.
+- Gén_2:10río...de allí se repartía en c brazosH702
+- Gén_14:9Quedorlaorner rey...c reyes contra cincoH702
+- Gén_47:24las c partes serán vuestras para sembrarH702
+- Éxo_22:1pagará...y por aquella oveja c ovejasH702
+- Éxo_25:12c anillos...pondrás en sus c esquinasH702
+- Éxo_25:26le harás c anillos...en las c esquinasH702
+- Éxo_25:26anillos...que corresponden a sus c patasH702
+- Éxo_25:34en la caña central...c copas en forma deH702
+- Éxo_26:2anchura de la misma cortina dec codosH702
+- Éxo_26:8la anchura de cada cortina de c codosH702
+- Éxo_26:32sobre c columnas de...cubiertas de oroH702
+- Éxo_27:2y le harás cuernos en sus c esquinasH702
+- Éxo_27:4c anillos de bronce a sus c esquinasH702
+- Éxo_27:16atrio...sus columnas c, con sus c basasH702
+- Éxo_28:17y lo llenarás de pedrería en c hilerasH702
+- Éxo_36:9anchura de c codos; todas las cortinasH702
+- Éxo_36:15anchura de c codos; las once cortinasH702
+- Éxo_36:36c columnas de madera...c basas de plataH702
+- Éxo_37:3fundió...c anillos de oro a sus c esquinasH702
+- Éxo_37:13c anillos de oro puso a las c esquinasH702
+- Éxo_37:13que correspondían a las c patas de ellaH702
+- Éxo_37:20en la caña del candelero había c copasH702
+- Éxo_38:2e hizo sus cuernos a sus c esquinas, losH702
+- Éxo_38:5fundió c anillos a los c extremos delH702
+- Éxo_38:19sus columnas eran c, con sus c basasH702
+- Éxo_39:10engastaron en él c hileras de piedrasH702
+- Lev_11:20insecto alado que anduviere sobre cH702
+- Lev_11:21todo insecto...que anda sobre c patasH702
+- Lev_11:23todo insecto alado que tenga c patasH702
+- Lev_11:27todos los animales que andan en c patasH702
+- Lev_11:42todo lo que anda sobre c o más patasH702
+- Núm_7:7y c bueyes dio a los hijos de GersónH702
+- Núm_7:8y a los hijos de Merari dio c carros yH702
+- Deu_3:11su anchura de c codos, según el codoH702
+- Deu_22:12te harás flecos en las c puntas de tuH702
+- Jos_19:7Aín, Rimón...c ciudades con sus aldeasH702
+- Jos_21:18Anatot con sus ejidos...c ciudadesH702
+- Jos_21:22Bet-horón con sus ejidos; c ciudadesH702
+- Jos_21:24y Gat-Rimón con sus ejidos; c ciudadesH702
+- Jos_21:29y En-ganim con sus ejidos; c ciudadesH702
+- Jos_21:31y Rehob con sus ejidos; c ciudadesH702
+- Jos_21:35y Naalal con sus ejidos; c ciudadesH702
+- Jos_21:37y Mefaat con sus ejidos; c ciudadesH702
+- Jos_21:39y Jazer con sus ejidos; c ciudadesH702
+- Jue_9:34pusieron emboscada...con c compañíasH702
+- Jue_11:40endechar a la hija de Jefté...c días enH702
+- Jue_19:2y su concubina...se fue de él...c mesesH702
+- Jue_20:47estuvieron en la peña de Rimón c mesesH702
+- 1Sa_27:7David habitó en la...un año y c mesesH702
+- 2Sa_12:6debe pagar la cordera con c tantosH706
+- 2Sa_15:7al cabo de c años...Absalón dijo al reyH705
+- 2Sa_21:22c eran descendientes de los gigantesH702
+- 1Re_7:2sobre c hileras de columnas de cedroH702
+- 1Re_7:19capiteles que estaban...eran de c codosH702
+- 1Re_7:27cada basa de c codos, y la anchura de cH702
+- 1Re_7:30c ruedas de bronce...en sus c esquinasH702
+- 1Re_7:32c ruedas estaban debajo de los tablerosH702
+- 1Re_7:34las c repisas de las c esquinas de cadaH702
+- 1Re_7:38cada una era de c codos; y colocó unaH702
+- 1Re_18:34y dijo: Llenad c cántaros de agua, yH702
+- 2Re_7:3a la entrada...c hombres leprosos, losH702
+- 1Cr_3:5c le nacieron en Jerusalén: SimeaH702
+- 1Cr_7:1los hijos de Isacar fueron c: Tola, FúaH702
+- 1Cr_9:24estaban los porteros a los c lados; alH702
+- 1Cr_9:26c principales de los porteros levitasH702
+- 1Cr_21:20por lo que se escondieron c hijos suyosH702
+- 1Cr_23:10estos c fueron los hijos de SimeiH702
+- 1Cr_23:12hijos de Coat: Amram, Izhar...ellos cH702
+- 1Cr_26:17al norte c de día; al sur c de díaH702
+- 1Cr_26:18en la...c al camino, y dos en la cámaraH702
+- Neh_6:4enviaron a mí...hasta c veces, y yo lesH702
+- Job_1:19azotó las c esquinas de la casa, laH702
+- Pro_30:24c cosas son de las más pequeñas deH702
+- Isa_11:12reunirá los esparcidos de...c confinesH702
+- Isa_17:6c o cinco en sus ramas más fructíferasH702
+- Jer_15:3y enviaré sobre ellos c géneros deH702
+- Jer_36:23Jehudí había leído tres o c planas, loH702
+- Jer_49:36traeré...los c vientos de los c puntosH702
+- Jer_52:21las columnas...su espesor era de c dedosH702
+- Eze_1:5en medio...figura de c seres vivientesH702
+- Eze_1:6cada uno tenía c caras y c alasH702
+- Eze_1:8a sus c lados...sus alas por los c ladosH702
+- Eze_1:10derecho de los c...la izquierda en los cH702
+- Eze_1:10asimismo había en los c cara de águilaH702
+- Eze_1:15rueda...junto a los seres...los c ladosH702
+- Eze_1:16y las c tenían una misma semejanza; suH702
+- Eze_1:17se movían hacia sus c costados; no seH702
+- Eze_1:18arcos...llenos de ojos alrededor en las cH702
+- Eze_7:2el fin viene sobre los c extremos de laH702
+- Eze_10:9y miré...c ruedas junto a los querubinesH702
+- Eze_10:10las c eran de una misma forma, como siH702
+- Eze_10:11andaban, hacia los c frentes andabanH702
+- Eze_10:12estaban llenos de ojos...sus c ruedasH702
+- Eze_10:14cada uno tenía c caras...La primera eraH702
+- Eze_10:21cada uno tenía c caras y cada...c alasH702
+- Eze_14:21mis c juicios terribles, espada, hambreH702
+- Eze_37:9espíritu, ven de los c vientos, y soplaH702
+- Eze_40:41c mesas a un lado, y c mesas al otroH702
+- Eze_40:42las c mesas...eran de piedra labrada, deH702
+- Eze_41:5y de c codos la anchura de las cámarasH702
+- Eze_42:20a los c lados lo midió; tenía un muroH702
+- Eze_43:14hasta la cornisa mayor, c codos, y elH702
+- Eze_43:15el altar era de c codos, y...c cuernosH702
+- Eze_43:16el altar tenía...cuadrado a sus c ladosH702
+- Eze_43:17catorce de anchura en sus c lados, y deH702
+- Eze_43:20y pondrás en los c cuernos del altarH702
+- Eze_43:20y en las c esquinas del descanso, y enH702
+- Eze_45:19sobre los c ángulos del descanso delH702
+- Eze_46:21me llevó por los c rincones del atrioH702
+- Eze_46:22los c rincones del atrio había patiosH702
+- Eze_46:22patios...una misma medida tenían los cH702
+- Eze_46:23y había una pared...alrededor de los cH702
+- Dan_1:17a estos c...Dios les dio conocimientoH702
+- Dan_3:25yo veo c varones sueltos, que se paseanH703
+- Dan_7:2que los c vientos del cielo combatían enH703
+- Dan_7:3c bestias grandes, diferentes la una deH703
+- Dan_7:6un leopardo, con c alas de ave..c cabezasH703
+- Dan_7:17estas c grandes bestias son c reyes queH703
+- Dan_8:8y en su lugar salieron otros c cuernosH702
+- Dan_8:8salieron...hacia los c vientos del cieloH702
+- Dan_8:22y sucedieron c...c reinos se levantaránH702
+- Dan_11:4repartido hacia los c vientos del cieloH702
+- Zac_1:18mis ojos y miré, y he aquí c cuernosH702
+- Zac_1:20me mostró luego Jehová c carpinterosH702
+- Zac_2:6pues por los c vientos de los cielos osH702
+- Zac_6:1y he aquí c carros que salían de entreH702
+- Zac_6:5estos son los c vientos de los cielosH702
+- Zac_7:1palabra de Jehová...a los c días del mesH702
+- Mat_24:31a sus escogidos, de los c vientosG5064
+- Mar_2:3un paralítico, que era cargado por cG5064
+- Mar_13:27juntará a sus escogidos de...c vientosG5064
+- Jua_4:35aún faltan c meses para que llegue laG5072
+- Jua_11:17que hacía ya c días que Lázaro estabaG5064
+- Jua_11:39Señor, hiede ya, porque es de c díasG5066
+- Jua_19:23c hicieron c partes...para cada soldadoG5064
+- Hec_10:11atado de las c puntas era bajado aG5064
+- Hec_10:30hace c días que a esta hora yo estabaG5064
+- Hec_11:5que por las c puntas era bajado del cieloG5064
+- Hec_12:4entregándole a c grupos de c soldadosG5064
+- Hec_21:9éste tenía c hijas...que profetizabanG5064
+- Hec_21:23hay entre nosotros c hombres que tienenG5064
+- Hec_27:29c anclas por la popa, y ansiaban queG5064
+- Rev_4:6y junto al trono...c seres vivientesG5064
+- Rev_4:8los c seres...tenían cada uno seis alasG5064
+- Rev_5:6que en medio...de los c seres vivientesG5064
+- Rev_5:8los c seres vivientes y los 24 ancianosG5064
+- Rev_5:14los c seres vivientes decían: Amén; y losG5064
+- Rev_6:1oí a uno de los c seres vivientes decirG5064
+- Rev_6:6y oí una voz de en medio de los c seresG5064
+- Rev_7:1a c ángeles en pie sobre los c ángulos deG5064
+- Rev_7:1que detenían los c vientos de la tierraG5064
+- Rev_7:2y clamó a gran voz a los c ángeles, aG5064
+- Rev_7:11alrededor del...y de los c seres vivientesG5064
+- Rev_9:13una voz de entre los c cuernos del altarG5064
+- Rev_9:14desata a los c ángeles que están atadosG5064
+- Rev_9:15y fueron desatados los c ángeles queG5064
+- Rev_14:3y cantaban un cántico...delante de los cG5064
+- Rev_15:7uno de los c seres vivientes dio a losG5064
+- Rev_19:4los c seres vivientes se postraron enG5064
+- Rev_20:8a engañar a las naciones...los c ángulosG5064

@@ -1,0 +1,338 @@
+---
+tipo: concordancia
+palabra: JUSTO, A (adj. y s.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUSTO, A (adj. y s.)
+
+- Gén_6:9Noé, varón j, era perfecto en...con DiosH6662
+- Gén_7:1porque a ti he visto j delante de mí enH6662
+- Gén_18:23¿destruirás también al j con el impío?[[H6662]]
+- Gén_18:24quizá haya 50 j dentro de la ciudadH6662
+- Gén_18:24por amor a los 50 j que estén dentroH6662
+- Gén_18:25que hagas morir al j con el impío, yH6662
+- Gén_18:25y que sea el j tratado como el impíoH6662
+- Gén_18:25el Juez...¿no ha de hacer lo que es j?[[H4941]]
+- Gén_18:26hallare en Sodoma cincuenta j dentroH6662
+- Gén_18:28quizá faltarán de cincuenta j cincoH6662
+- Gén_23:9la cueva...que por su j precio me la déH6663
+- Gén_38:26Judá...dijo: Más j es ella que yo, porH6663
+- Gén_43:21he aquí...nuestro dinero en su j pesoH4948
+- Éxo_9:27Jehová es j, y yo y mi pueblo impíosH6662
+- Éxo_23:7no matarás al inocente y j; porque yoH6662
+- Éxo_23:8el presente...pervierte las palabras...jH6662
+- Lev_19:36balanzas j, pesas j y medidas jH6664
+- Deu_4:8juicios j como es toda esta ley que yoH6662
+- Deu_16:18cuales juzgarán al pueblo con j juicioH6664
+- Deu_16:19ojos...y pervierte las palabras de los jH6664
+- Deu_25:1éstos absolverán al j, y condenarán alH6662
+- Deu_25:15pesa exacta y j tendrás; efa cabal y jH6664
+- Deu_32:4ninguna iniquidad en él, es j y rectoH6662
+- Deu_33:21ejecutó los...los j decretos de JehováH6666
+- 1Sa_24:17dijo a David: Más j eres tú que yoH6662
+- 2Sa_4:11mataron a un hombre j en su casa yH6662
+- 2Sa_15:3mira, tus palabras son buenas y j; masH5228
+- 2Sa_23:3un j que gobierne entre los hombres, queH6662
+- 1Re_2:32dado muerte a dos varones más j queH6662
+- 1Re_8:32justificando al j para darle conforme aH6662
+- 2Re_10:9vosotros sois j...yo he conspiradoH6662
+- 1Cr_21:24sino...la compraré por su j precioH4392
+- 2Cr_6:23justificando al j al darle conformeH6662
+- 2Cr_12:6se humillaron, y dijeron: j es JehováH6662
+- Esd_4:14no nos es j ver el menosprecio delH749
+- Esd_9:15Dios de Israel, tú eres j, puesto queH6662
+- Neh_9:8cumpliste tu palabra, porque eres jH6662
+- Neh_9:33eres j en todo lo que ha venido sobreH6662
+- Job_4:17¿será el hombre más j que Dios? ¿SeráH6663
+- Job_9:15aunque fuese yo j, no respondería; antesH6663
+- Job_10:15y si fuere j, no levantaré mi cabezaH6663
+- Job_12:4todo, el j y perfecto es escarnecidoH6662
+- Job_17:9no obstante, proseguirá el j su caminoH6662
+- Job_22:19verán...j y se gozarán; y el inocenteH6662
+- Job_23:7el j razonaría con él; y yo escaparíaH3477
+- Job_27:17habrá preparado él...el j se vestiráH6662
+- Job_32:1por cuanto él era j a sus propios ojosH6662
+- Job_34:5Job ha dicho: Yo soy j, y Dios me haH6663
+- Job_34:17¿y condenarás tú al que es tan j?[[H6662]]
+- Job_34:23no carga...él al hombre más de lo j, paraH4941
+- Job_35:2que has dicho: Más j soy yo que Dios?[[H6664]]
+- Job_35:7si fueres j, ¿qué te darás a él? ¿O quéH6663
+- Job_36:7no apartará de los j sus ojos; antesH6662
+- Sal_1:5pecadores en la congregación de los jH6662
+- Sal_1:6Jehová conoce el camino de los j; mas laH6662
+- Sal_5:12porque tú, oh Jehová, bendecirás al jH6662
+- Sal_7:9fenezca ahora la...mas establece tú al jH6662
+- Sal_7:9el Dios j prueba la mente y el corazónH6662
+- Sal_7:11es juez j, y Dios está airado contra elH6662
+- Sal_11:3los fundamentos, ¿qué ha de hacer el j?[[H6662]]
+- Sal_11:5Jehová prueba al j; pero al malo y alH6662
+- Sal_11:7porque Jehová es j, y ama la justiciaH6662
+- Sal_14:5Dios está con la generación de los jH6662
+- Sal_17:1oh Jehová, una causa j; está atento aH6664
+- Sal_19:9juicios de Jehová son verdad, todos jH6663
+- Sal_31:18que hablan contra el j cosas duras conH6662
+- Sal_32:11alegraos en Jehová y gozaos, j...cantadH6662
+- Sal_33:1alegraos, oh j, en Jehová...los íntegrosH6662
+- Sal_34:15los ojos de Jehová están sobre los jH6662
+- Sal_34:17claman los j, y Jehová oye, y los libra
+- Sal_34:19muchas son las aflicciones del j, peroH6662
+- Sal_34:21los que aborrecen al j serán condenadosH6662
+- Sal_35:27los que están a favor de mi j causaH6662
+- Sal_37:12máquina el impío contra el j, y crujeH6662
+- Sal_37:16es lo poco del j, que las riquezas deH6662
+- Sal_37:17mas el que sostiene a los j es JehováH6662
+- Sal_37:21no paga...el j tiene misericordia, y daH6662
+- Sal_37:25no he visto j desamparado...mendigueH6662
+- Sal_37:29los j heredarán la tierra, y viviránH6662
+- Sal_37:30la boca del j habla sabiduría, y suH6662
+- Sal_37:32acecha...impío al j, y procura matarloH6662
+- Sal_37:37considera al íntegro, y mira al jH3477
+- Sal_37:39pero la salvación de los j es de JehováH6662
+- Sal_51:4para que seas reconocido j en tu palabraH6663
+- Sal_52:6verán los j, y temerán; se reirán deH6662
+- Sal_55:22él...no dejará para siempre caído al jH6662
+- Sal_58:10se alegrará el j...viere la venganzaH6662
+- Sal_58:11entonces dirá...hay galardón para el jH6662
+- Sal_64:10se alegrará el j en Jehová, y confiaráH6662
+- Sal_68:3los j se alegrarán; se gozarán delanteH6662
+- Sal_69:28raídos...no sean escritos entre los jH6662
+- Sal_75:10pero el poder del j será exaltadoH6662
+- Sal_92:12j florecerá como la palmera; creceráH6662
+- Sal_94:21juntan contra la vida del j, y condenanH6664
+- Sal_97:11luz está sembrada para el j, y alegríaH6662
+- Sal_97:12alegraos, j, en Jehová, y alabad laH6662
+- Sal_112:4rectos; es clemente, misericordioso y jH6662
+- Sal_112:6por lo cual...en memoria eterna será el jH6662
+- Sal_116:5clemente es Jehová, y j...nuestro DiosH6662
+- Sal_118:15voz de...hay en las tiendas de los jH6662
+- Sal_118:20es puerta de...por ella entrarán los jH6662
+- Sal_119:7te alabaré...aprendiere tus j juiciosH6664
+- Sal_119:62me levanto...alabarte por tus j juiciosH6664
+- Sal_119:75conozco...Jehová, que tus juicios son jH6664
+- Sal_119:106juré y...que guardaré tus j juiciosH6664
+- Sal_119:137j eres tú, oh...y rectos tus juiciosH6662
+- Sal_119:164te alabo a causa de tus j juiciosH6664
+- Sal_125:3sobre la heredad de los j; no sea queH6662
+- Sal_125:3no sea que extiendan los j sus manos aH6662
+- Sal_129:4Jehová es j; cortó las coyundas de losH6662
+- Sal_140:13los j alabarán tu nombre; los rectosH6662
+- Sal_141:5que el j me castigue, será un favorH6662
+- Sal_142:7me rodearán los j, porque tú me serásH6662
+- Sal_145:17j es Jehová en todos sus caminos, yH6662
+- Sal_146:8Jehová levanta a Jehová ama a los jH6662
+- Pro_2:20andarás...seguirás las veredas de los jH6662
+- Pro_3:32Jehová...su comunión íntima es con los jH3477
+- Pro_3:33impío, pero bendecirá la morada de los jH6662
+- Pro_4:18la senda de los j es como la luz de laH6662
+- Pro_8:8j son todas las razones de mi boca; noH6664
+- Pro_9:9da al...enseña al j, y aumentará su saberH6662
+- Pro_10:3Jehová no dejará padecer hambre al jH6662
+- Pro_10:6hay bendiciones sobre la cabeza del jH6662
+- Pro_10:7la memoria del j será bendita; mas elH6662
+- Pro_10:11manantial de vida es la boca del jH6662
+- Pro_10:16obra del j es para vida; mas el frutoH6662
+- Pro_10:20plata escogida es la lengua del j; masH6662
+- Pro_10:21los labios del j apacientan a muchosH6662
+- Pro_10:24pero a los j les será dado lo que deseanH6662
+- Pro_10:25pasa...mas el j permanece para siempreH6662
+- Pro_10:28la esperanza de los j es alegría; masH6662
+- Pro_10:30el j no será removido jamás; pero losH6662
+- Pro_10:31la boca del j producirá sabiduría; masH6662
+- Pro_10:32los labios del j saben hablar lo queH6662
+- Pro_11:8el j es librado de la tribulación; masH6662
+- Pro_11:9mas los j son librados con la sabiduríaH6662
+- Pro_11:10en el bien de los j la ciudad se alegraH6662
+- Pro_11:21la descendencia de los j será libradaH6662
+- Pro_11:23el deseo de los j es solamente el bienH6662
+- Pro_11:24quienes retienen más de lo que es jH3476
+- Pro_11:28caerá; mas los j reverdecerán como ramasH6662
+- Pro_11:30el fruto del j es árbol de vida; y elH6662
+- Pro_11:31el j será recompensado en la tierraH6662
+- Pro_12:3mas la raíz de los j no será removidaH6662
+- Pro_12:5los pensamientos de los j son rectitudH6662
+- Pro_12:7pero la casa de los j permanecerá firmeH6662
+- Pro_12:10el j cuida de la vida de su bestia; masH6662
+- Pro_12:12el impío...la raíz de los j dará frutoH6662
+- Pro_12:13el impío...el j saldrá de la tribulaciónH6662
+- Pro_12:21ninguna adversidad acontecerá al j; masH6662
+- Pro_12:26el j sirve de guía a su prójimo; masH6662
+- Pro_13:5el j aborrece la palabra de mentira; masH6662
+- Pro_13:9la luz de los j se alegrará...se apagaráH6662
+- Pro_13:21mas los j serán premiados con el bienH6662
+- Pro_13:22riqueza del...está guardada para el jH6662
+- Pro_13:25el j come hasta saciar su alma; mas elH6662
+- Pro_14:19inclinarán...impíos a las puertas del jH6662
+- Pro_14:32mas el j en su muerte tiene esperanzaH6662
+- Pro_15:6en la casa del j hay gran provisión; peroH6662
+- Pro_15:28el corazón del j piensa para responderH6662
+- Pro_15:29Jehová está...oye la oración de los jH6662
+- Pro_16:11peso y balanzas j son de Jehová; obraH4941
+- Pro_16:13los labios j son el contentamiento deH6664
+- Pro_17:15que justifica al...el que condena al jH6662
+- Pro_17:26no es bueno condenar al j, ni herir aH6662
+- Pro_18:5para pervertir el derecho del j, no esH6662
+- Pro_18:10a él correrá el j, y será levantadoH6662
+- Pro_18:17j parece el primero que aboga por suH6662
+- Pro_20:7camina en su integridad el j; sus hijosH6662
+- Pro_21:12considera el j la casa del impío, cómoH6662
+- Pro_21:15alegría es para el j el hacer juicioH6662
+- Pro_21:18rescate del j es el impío, y por losH6662
+- Pro_21:26codicia...el j da, y no detiene su manoH6662
+- Pro_23:24mucho se alegrará el padre del j, y elH6662
+- Pro_24:15no aceches la tienda del j, no saqueesH6662
+- Pro_24:16porque siete veces cae el j, y vuelveH6662
+- Pro_24:24que dijere al malo: j eres...maldeciránH6662
+- Pro_25:26como...es el j que cae delante del impíoH6662
+- Pro_28:1impío...el j está confiado como un leónH6662
+- Pro_28:12cuando los j se alegran, grande es laH6662
+- Pro_28:28cuando perecen, los j se multiplicanH6662
+- Pro_29:2cuando...j dominan, el pueblo se alegraH6662
+- Pro_29:6lazo; mas el j cantará y se alegraráH6662
+- Pro_29:7conoce el j la causa de los pobres; masH6662
+- Pro_29:16impíos...los j verán la ruina de ellosH6662
+- Pro_29:27abominación es a...j el hombre inicuoH6662
+- Ecl_3:17al j y al impío juzgará Dios; porqueH6662
+- Ecl_7:15j hay que perece por su justicia, y hayH6662
+- Ecl_7:16no seas demasiado j, ni seas sabio conH6662
+- Ecl_7:20no hay hombre j en la tierra, que hagaH6662
+- Ecl_8:14hay j a quienes sucede como si...impíosH6662
+- Ecl_8:14acontece como si hicieran obras de jH6662
+- Ecl_9:1los j y los...están en la mano de DiosH6662
+- Ecl_9:2un mismo suceso ocurre al j y al impíoH6662
+- Isa_3:10decid al j que le irá bien, porqueH6662
+- Isa_5:23justifican al...y al j quitan su derecho![[H6662]]
+- Isa_24:16oímos cánticos: Gloria al j. Y yo dijeH6662
+- Isa_26:2abrid las puertas...entrará la gente jH6662
+- Isa_26:7el camino del j es rectitud; tú, queH6662
+- Isa_26:7que eres recto, pesas el camino del jH6662
+- Isa_29:21pervierten la causa del j con vanidadH6662
+- Isa_30:18Jehová es Dios j; bienaventurados todosH4941
+- Isa_41:2¿quién despertó del oriente al j, loH6664
+- Isa_41:26o de tiempo atrás, y diremos: Es j?[[H6662]]
+- Isa_45:21y no hay más Dios que yo: Dios j yH6662
+- Isa_53:11justificará mi siervo j a muchos, yH6662
+- Isa_57:1perece el j, y no hay quien piense enH6662
+- Isa_57:1delante de la aflicción es quitado el jH6662
+- Isa_58:2me piden j juicios, y quieren acercarseH6666
+- Isa_60:21tu pueblo, todos ellos serán j, paraH6662
+- Jer_3:11ha resultado j la rebelde Israel enH6663
+- Jer_12:1j eres tú, oh Jehová...dispute contigoH6662
+- Jer_20:12Jehová...que pruebas a los j, que vesH6662
+- Jer_23:5levantaré a David renuevo j, y reinaráH6662
+- Lam_1:18Jehová es j; yo contra su palabra meH6662
+- Lam_4:13derramaron en...ella la sangre de los jH6662
+- Eze_3:20si el j se apartare de su justicia eH6662
+- Eze_3:21si al j amonestares para que no pequeH6662
+- Eze_13:22entristecisteis...el corazón del j, alH6662
+- Eze_16:52más j son que tú; avergüénzate, puesH6663
+- Eze_18:5el hombre que fuere j, e hiciere segúnH6662
+- Eze_18:9y guardare mis...éste es j; éste viviráH6662
+- Eze_18:20la justicia del j será sobre él, y laH6662
+- Eze_18:24si el j se apartare de su justicia yH6662
+- Eze_18:26apartándose el j de su justicia, yH6662
+- Eze_21:3espada...cortaré de ti al j y al impíoH6662
+- Eze_21:4he de cortar de ti al j y al impío, porH6662
+- Eze_23:45hombres j las juzgarán por la ley deH6662
+- Eze_33:12la justicia del j no lo librará el díaH6662
+- Eze_33:12y el j no podrá vivir por su justiciaH6662
+- Eze_33:13yo dijere al j: De cierto vivirás, y élH6662
+- Eze_33:18cuando el j se apartare de su justiciaH6662
+- Eze_45:10balanzas j, efa j, y bato j tendréisH6664
+- Dan_4:37obras son verdaderas, y sus caminos jH1780
+- Dan_9:14j es Jehová nuestro Dios en todas susH6662
+- Ose_14:9son rectos, y los j andarán por ellosH6662
+- Amó_2:6porque vendieron por dinero al j, y alH6662
+- Amó_5:12sé que afligís al j, recibís cohechoH6662
+- Miq_3:1¿no concierne a vosotros...lo que es j?[[H4941]]
+- Hab_1:4por cuanto el impío asedia al j, porH6662
+- Hab_1:13cuando destruye el impío al más j queH6662
+- Hab_2:4enorgullece; mas el j por su fe viviráH6662
+- Sof_3:5Jehová en medio de ella es j, no haráH6662
+- Zac_9:9aquí tu rey vendrá a ti, j y salvadorH6662
+- Mal_3:18la diferencia entre el j y el maloH6662
+- Mat_1:19su marido, como era j, y no queríaG1342
+- Mat_5:45y que hace llover sobre j e injustosG1342
+- Mat_9:13porque no he venido a llamar a j, sinoG1342
+- Mat_10:41y el que recibe a un j por cuanto es jG1342
+- Mat_10:41que recibe a...recompensa de j recibiráG1342
+- Mat_13:17muchos...j desearon ver toque veis, yG1342
+- Mat_13:43los j resplandecerán como el sol enG1342
+- Mat_13:49apartarán a los malos de entre los jG1342
+- Mat_20:4id...a mi viña, y os daré lo que sea jG1342
+- Mat_20:7id también...y recibiréis lo que sea jG1342
+- Mat_23:28os mostráis j a los hombres, pero porG1342
+- Mat_23:29y adornáis los monumentos de los jG1342
+- Mat_23:35venga sobre vosotros toda la sangre jG1342
+- Mat_23:35desde la sangre de Abel el j hasta laG1342
+- Mat_25:37los j le responderán diciendo: SeñorG1342
+- Mat_25:46e irán éstos...y los j a la vida eternaG1342
+- Mat_27:19decir: No tengas nada que ver con ese jG1342
+- Mat_27:24inocente soy yo de la sangre de este jG1342
+- Mar_2:17dijo...No he venido a llamar a j, sinoG1342
+- Mar_6:20sabiendo que era varón j y santo, y leG1342
+- Luc_1:6ambos eran j delante de Dios, y andabanG1342
+- Luc_1:17de los rebeldes a la prudencia de los jG1342
+- Luc_2:25y este hombre, j y piadoso, esperaba laG1342
+- Luc_5:32no he venido a llamar a j...a pecadoresG1342
+- Luc_12:57¿y por qué no juzgáis...lo que es j?[[G1342]]
+- Luc_14:14recompensado en la resurrección de...jG1342
+- Luc_15:7más gozo en...que por noventa y nueve jG1342
+- Luc_18:9unos que confiaban en sí mismos como jG1342
+- Luc_20:20enviaron espías que se simulasen j, aG1342
+- Luc_23:47verdaderamente este hombre era jG1342
+- Luc_23:50José, de Arimatea...varón bueno y jG1342
+- Jua_5:30y mi juicio es j, porque no busco miG1342
+- Jua_7:24no juzguéis...sino juzgad con j juicioG1342
+- Jua_17:25Padre j, el mundo no te ha conocidoG1342
+- Hec_3:14vosotros negasteis al Santo y al jG1342
+- Hec_4:19juzgad si es j delante de Dios obedecerG1342
+- Hec_6:2no es j que nosotros dejemos la palabraG701
+- Hec_7:52los que anunciaron de...la venida del jG1342
+- Hec_10:22Cornelio...varón j y temeroso de DiosG1342
+- Hec_22:14te ha escogido para que...y veas al jG1342
+- Hec_24:15resurrección...así de j como de injustosG1342
+- Rom_1:17está escrito...el j por la fe viviráG1342
+- Rom_2:5y de la revelación del j juicio de DiosG1341
+- Rom_2:13no son los oidores de...los j ante DiosG1342
+- Rom_3:8algunos, cuya condenación es j, afirmanG1738
+- Rom_3:10como está escrito: No hay j, ni aun unoG1342
+- Rom_3:26él sea el j, y el que justifica al queG1342
+- Rom_5:7apenas morirá alguno por un j; con todoG1342
+- Rom_5:19de uno, los muchos serán constituidos jG1342
+- Rom_7:12ley...y el mandamiento santo, j y buenoG1342
+- Gál_3:11evidente, porque: El j por la fe viviráG1342
+- Efe_6:1hijos, obedeced en el Señor...esto es jG1342
+- Flp_1:7me es j sentir esto de todos vosotrosG1342
+- Flp_4:8todo lo j, todo lo puro, todo lo amableG1342
+- Col_4:1amos, haced lo que es j y recto conG1342
+- 2Ts_1:5es demostración del j juicio de DiosG1342
+- 2Ts_1:6porque es j delante de Dios pagar conG1342
+- 1Ti_1:9la ley no fue dada para el j, sinoG1342
+- 2Ti_4:8la cual me dará el Señor, juez j, enG1342
+- Tit_1:8sobrio, j, santo, dueño de sí mismoG1342
+- Tit_2:12vivamos en este siglo...j y piadosamenteG1346
+- Heb_10:38j vivirá por fe; y si retrocediereG1342
+- Heb_11:4alcanzó testimonio de que era j, dandoG1342
+- Heb_12:23los espíritus de los j hechos perfectosG1342
+- Stg_5:6habéis condenado y dado muerte al jG1342
+- Stg_5:16la oración eficaz del j puede muchoG1342
+- 1Pe_3:12los ojos del Señor están sobre los jG1342
+- 1Pe_3:18el j por los injustos, para llevarnos aG1342
+- 1Pe_4:18y si el j con dificultad se salva, ¿enG1342
+- 2Pe_1:13tengo por j, en tanto...despertaros conG1342
+- 2Pe_2:7libró al j Lot, abrumado por la nefandaG1342
+- 2Pe_2:8este j, que moraba entre ellos, afligíaG1342
+- 2Pe_2:8afligía...su alma j, viendo y oyendo losG1342
+- 1Jn_1:9es fiel y j para perdonar nuestrosG1342
+- 1Jn_2:1abogado tenemos para...a Jesucristo el jG1342
+- 1Jn_2:29si sabéis que él es j, sabed también queG1342
+- 1Jn_3:7el que hace justicia es j, como él es jG1342
+- 1Jn_3:12obras eran malas, y las de su hermano jG1342
+- Rev_15:3j y verdaderos son tus caminos, ReyG1342
+- Rev_16:5j eres tú, oh Señor, el que eres y queG1342
+- Rev_16:7Señor...tus juicios son verdaderos y jG1342
+- Rev_19:2porque sus juicios son verdaderos y jG1342
+- Rev_19:8lino...es las acciones j de los santosG1345
+- Rev_22:11y el que es j, practique la justiciaG1342

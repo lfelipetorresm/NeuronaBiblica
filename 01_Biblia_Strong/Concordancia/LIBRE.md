@@ -1,0 +1,77 @@
+---
+tipo: concordancia
+palabra: LIBRE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LIBRE
+
+- Gén_24:8no quisiere...serás l de...juramentoH5352
+- Gén_24:41serás l de mi juramento, cuando hayasH5352
+- Gén_24:41si no te la...serás l de mi juramentoH5355
+- Éxo_21:2te servirá; mas al séptimo saldrá lH2670
+- Éxo_21:5dijere: Yo amo a mi señor...no saldré lH2670
+- Éxo_21:27sierva, por su diente le dejará ir lH2670
+- Éxo_23:11el séptimo año la dejarás l, para queH8058, [[H5203]]
+- Lev_15:28cuando fuere l de su flujo, contaráH2891
+- Lev_19:20no morirán, por cuanto ella no es lH2666
+- Lev_25:41entonces saldrá l de tu casa; él y susH3318
+- Núm_5:19si...l seas de estas aguas amargas queH5352
+- Núm_5:28sino que...ella será l, y será fecundaH5352
+- Núm_5:31hombre será l de iniquidad, y la mujerH5352
+- Núm_32:22seréis l de culpa para con Jehová, yH5355
+- Deu_15:12servido...al séptimo le despedirás lH2670
+- Deu_15:13despidieres l, no le enviarás con lasH2670
+- Deu_15:18no te parezca duro cuando le enviares lH2670
+- Deu_24:5l estará en su casa por un año, paraH5355
+- Deu_32:36viere...y que no queda ni siervo ni lH5800
+- Jos_2:17, Jos_2:20quedaremos l de este juramentoH5355
+- 1Sa_14:41sobre Jonatán...y el pueblo salió lH3318
+- 1Re_14:10destruiré...así el siervo como el lH5800
+- 1Re_21:21y barreré...tanto el siervo como el lH5800
+- 2Re_9:8destruiré de Acab...siervo como al lH5800
+- 2Re_14:26no había siervo ni l, ni quien dieseH5800
+- Esd_9:8hacer que nos quedase un remanente lH6413
+- Job_3:19allí están...y el siervo l de su señorH2670
+- Job_10:1daré l curso a mi queja, hablaré conH5800
+- Job_36:16te apartará...a lugar...l de todo apuro
+- Job_39:5¿quién echó l al asno montés, y quiénH2670
+- Sal_105:20envió el rey, y le...le dejó ir lH6605
+- Isa_20:6nos acogimos por socorro para ser lH5337
+- Isa_32:20y dejáis l al buey y al asno
+- Isa_58:6y dejar ir l a los quebrantados, y queH2670
+- Jer_2:31somos l; nunca más vendremos a ti?[[H7300]]
+- Jer_34:9que cada uno dejase l a su siervo y aH2670
+- Jer_34:10pacto de dejar l cada uno a su siervoH2670
+- Jer_34:11a los siervos y...que habían dejado lH2670
+- Jer_34:14le servirá seis años, y lo enviará lH2670
+- Jer_34:16su siervo...que habíais dejado l a suH2670
+- Luc_13:12dijo: Mujer, eres l de tu enfermedadG630
+- Jua_8:32conoceréis la...y la verdad os hará lG1659
+- Jua_8:33jamás hemos...¿Cómo dices tú: Seréis l?[[G1658]]
+- Jua_8:36que, si el Hijo os libertare, seréis...lG1659
+- Rom_6:20porque...erais l acerca de la justiciaG1658
+- Rom_7:2el marido muere, ella queda l de la leyG2673
+- Rom_7:3si su marido muriere, es l de esa ley, deG1658
+- Rom_7:6estamos l de la ley, por haber muertoG2673
+- 1Co_7:21si puedes hacerte l, procúralo másG1658
+- 1Co_7:22el que fue llamado siendo l, esclavo esG1658
+- 1Co_7:27¿estás l de mujer? No procures casarteG3089
+- 1Co_7:39l es para casarse con quien quiera, conG1658
+- 1Co_9:1¿no soy l? ¿No he visto a Jesús el SeñorG1658
+- 1Co_9:19siendo l...me he hecho siervo de todosG1658
+- 1Co_12:13judíos o griegos, sean esclavos o l; yG1658
+- Gál_3:28no hay esclavo ni l; no hay varón niG1658
+- Gál_4:22dos...uno de la esclava, el otro de la lG1658
+- Gál_4:23la carne; mas el de la l, por la promesaG1658
+- Gál_4:26la cual es madre de todos nosotros, es lG1658
+- Gál_4:30porque no heredará...con el hijo de la lG1658
+- Gál_4:31no somos...de la esclava, sino de la lG1658
+- Gál_5:1en la libertad con que Cristo nos hizo lG1659
+- Efe_6:8recibirá del Señor, sea siervo o sea lG1658
+- Col_3:11donde no hay...siervo ni l, sino queG1658
+- 1Pe_2:16como l, pero no como los que tienenG1657
+- Rev_6:15todo l, se escondieron en las cuevasG1658
+- Rev_13:16l y esclavos, se les pusiese una marcaG1658
+- Rev_19:18para que comáis carnes de...l y esclavosG1658

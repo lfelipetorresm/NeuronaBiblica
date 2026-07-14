@@ -1,0 +1,357 @@
+---
+tipo: concordancia
+palabra: QUITAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# QUITAR
+
+- Gén_8:13quitó Noé la cubierta del arca, y miróH5493
+- Gén_19:9respondieron: Quita allá; y añadieron
+- Gén_21:25pozo de agua, que...le habían quitadoH1497
+- Gén_30:23hijo, y dijo: Dios ha quitado mi afrentaH622
+- Gén_31:9quitó Dios el ganado de vuestro padreH5337
+- Gén_31:16la riqueza que Dios ha quitado a...padreH5337
+- Gén_31:31pensé...quitarías por fuerza a tus hijasH1497
+- Gén_35:2quitad los dioses ajenos que hay entreH5493
+- Gén_37:23quitaron a José su túnica, la túnica de
+- Gén_38:7Er...fue malo...y le quitó Jehová la vida
+- Gén_38:10Jehová...a él también le quitó la vida
+- Gén_38:14se quitó ella los vestidos de su viudezH5921
+- Gén_38:19se fue, y se quitó el velo de sobre sí
+- Gén_40:19quitará Faraón tu cabeza de sobre tiH5375
+- Gén_41:42Faraón quitó su anillo de su mano, y loH5493
+- Gén_49:10no será quitado el cetro de Judá, ni elH5493
+- Éxo_3:5dijo: No te acerques; quita tu calzadoH5394
+- Éxo_8:8orad a Jehová para que quite las ranas deH5493
+- Éxo_8:9para que las ranas sean quitadas de ti y
+- Éxo_8:31y quitó todas aquellas moscas de FaraónH5493
+- Éxo_9:15de plaga, y serás quitado de la tierraH3582
+- Éxo_10:17quite de mí al menos esta plaga mortalH5493
+- Éxo_10:19quitó la langosta y la arrojó en el MarH5375
+- Éxo_14:25y quitó las ruedas de sus carros, y losH5493
+- Éxo_21:14de mi altar lo quitarás para que mueraH3947
+- Éxo_23:25quitaré toda enfermedad de en medio deH5493
+- Éxo_25:15varas quedarán...no se quitarán de ellaH5403
+- Éxo_33:5quítate...tus atavíos, para que yo sepaH3381
+- Éxo_34:34Moisés...quitaba el velo hasta que salíaH5493
+- Lev_1:15le quitará la cabeza, y hará que arda
+- Lev_1:16quitará el buche y las plumas, lo cualH5493
+- Lev_3:4, Lev_3:10, Lev_3:15con los riñones quitará la grosuraH5493
+- Lev_3:9cola...la cual quitará a raíz del espinazoH5493
+- Lev_4:9con los riñones quitará la grosura de sobreH5493
+- Lev_4:10de la manera que se quita del buey delH7311
+- Lev_4:19quitará toda la grosura y la hará arderH7311
+- Lev_4:31, Lev_4:35y le quitará toda su grosura, de laH5493
+- Lev_4:31, Lev_4:35fue quitada la grosura del sacrificioH7311
+- Lev_6:11quitará sus vestiduras y se pondrá otrasH6584
+- Lev_7:4con los riñones quitará la grosura de sobreH5493
+- Lev_13:58que se le quitare la plaga, se lavaráH5493
+- Lev_14:42las pondrán en lugar de las...quitadasH3947
+- Lev_16:23Aarón...quitará las vestiduras de linoH6584
+- Lev_26:6haré quitar de...tierra las malas bestiasH7673
+- Núm_4:13quitarán la ceniza del altar, y...paño
+- Núm_21:7que quite de nosotros estas serpientesH5493
+- Núm_27:4será quitado el nombre de nuestro padreH1639
+- Núm_36:3la herencia de ellas será así quitada deH1639
+- Núm_36:3y será quitada de la porción de nuestraH1639
+- Núm_36:4así la heredad de ellas será quitada de laH1639
+- Deu_7:15quitará Jehová de ti toda enfermedadH5493
+- Deu_12:32no añadirás a ello, ni de ello quitarásH1639
+- Deu_13:5; Deu_17:7; Deu_19:19; Deu_21:21; Deu_22:21, Deu_22:24; Deu_24:7y así quitarás el mal de en medio de tiH1197
+- Deu_17:12y quitarás el mal de en medio de IsraelH1197
+- Deu_19:13quitarás de Israel la sangre inocenteH1197
+- Deu_21:9quitarás la culpa de la sangre inocenteH1197
+- Deu_21:13se quitará el vestido de su cautiverio
+- Deu_22:22morirán...así quitarás el mal de IsraelH1197
+- Deu_22:26alguno se levanta...y le quita la vida
+- Deu_25:9se acercará...y le quitar el calzado delH2502
+- Deu_27:25soborno para quitar la vida al inocente
+- Deu_29:19de que con la embriaguez quite la sed
+- Jos_5:9hoy he quitado de vosotros el oprobio
+- Jos_5:15quita el calzado de tus pies, porque elH5394
+- Jos_7:13hasta que hayáis quitado el anatema deH5394
+- Jos_8:29mandó Josué que quitasen del madero suH3381
+- Jos_10:27mandó...los quitasen de los maderos, yH3381
+- Jos_11:15así Josué lo hizo, sin quitar palabra
+- Jos_24:14y quitad de entre vosotros los diosesH5493
+- Jos_24:23quitad, pues, ahora los dioses ajenosH5493
+- Jue_10:16quitaron de entre sí...dioses ajenosH5493
+- Jue_15:6Sansón...porque le quitó su mujer y la dioH3947
+- Jue_20:13los matemos, y quitemos el mal de IsraelH1197
+- Rut_3:15quítate el manto que traes sobre tiH3051
+- Rut_4:7el uno se quitaba el zapato y lo daba aH8025
+- Rut_4:8a Booz: Tómalo tú...Y se quitó el zapatoH8025
+- 1Sa_7:3quitad los dioses ajenos y a AstarotH5493
+- 1Sa_7:4hijos de Israel quitaron a los baales yH5493
+- 1Sa_17:26que venciere.,...y...quitare el oprobio deH5493
+- 1Sa_18:4Jonatán se quitó el manto que llevabaH6584
+- 1Sa_20:15el nombre de Jonatán sea quitado de la
+- 1Sa_21:6habían sido quitados de la presencia deH5493
+- 1Sa_21:6panes...el día que aquéllos fueron quitadosH3947
+- 1Sa_24:11tú andas a caza de mi vida...quitármelaH3947
+- 1Sa_28:17Jehová ha quitado el reino de tu manoH7167
+- 1Sa_30:22no les daremos del botín que...quitadoH5337
+- 1Sa_31:12quitaron el cuerpo de Saúl y...del muroH3947
+- 2Sa_3:15Is-boset...quitó a su marido PaltielH3947
+- 2Sa_4:11he de demandar...y quitaros de la tierra?[[H1197]]
+- 2Sa_7:15de Saúl, al cual quité de delante de tiH5493
+- 2Sa_12:30quitó la corona de la cabeza de su reyH3947
+- 2Sa_14:14ni Dios quita la vida, sino que provee
+- 2Sa_16:9me dejes pasar, y le quitaré la cabezaH5493
+- 2Sa_17:8osa cuando le han quitado sos cachorrosH7909
+- 2Sa_24:10quites el pecado de tu siervo, porqueH5674
+- 1Re_2:31y quita de mí...la sangre que Joab haH5493
+- 1Re_11:34no quitaré nada del reino de sus manosH3947
+- 1Re_11:35quitaré el reino de la mano de su hijoH3947
+- 1Re_15:12quitó...a los sodomitas, y q...los ídolosH5674
+- 1Re_15:14sin embargo, los...altos nose quitaronH5493
+- 1Re_15:22quitaron de Ramá la piedra y la maderaH5375
+- 1Re_19:4quítame la vida, pues no soy yo mejor queH3947
+- 1Re_19:10, 1Re_19:14y me buscan para quitarme la vidaH3947
+- 1Re_20:41él se quitó de pronto la venda de sobre
+- 1Re_22:43los lugares altos no fueron quitadosH5493
+- 2Re_2:3, 2Re_2:5que Jehová te quitará hoy a tu señorH2347
+- 2Re_2:9pide...antes de que yo sea quitado de tiH3947
+- 2Re_2:10si me vieres cuando fuere quitado de tiH3947
+- 2Re_3:2quitó las estatuas de Baal que su padreH5493
+- 2Re_4:27se acercó Giezi para quitarla; pero el
+- 2Re_12:3; 2Re_15:4los lugares altos no se quitaronH5493
+- 2Re_14:4; 2Re_15:35lugares altos no fueron quitadosH5493
+- 2Re_16:17les quitó las fuentes...q también el marH5493
+- 2Re_16:18quitó el templo de Jehová, por causa
+- 2Re_17:18airó...los quitó de delante de rostroH5493
+- 2Re_17:23Jehová quitó a Israel de delante de suH5493
+- 2Re_18:4él quitó los lugares altos, y quebró lasH5493
+- 2Re_18:16Ezequías quitó el oro de las puertas delH7112
+- 2Re_18:22cuyos lugares altos y altares ha quitadoH5493
+- 2Re_23:5y quitó a los sacerdotes idólatras queH7760
+- 2Re_23:11quitó...los caballos que...dedicado al solH7673
+- 2Re_23:19los lugares altos...quitó también JosíasH5493
+- 2Re_23:27quitaré de...a Judá, como quité a IsraelH5493
+- 2Re_24:3Judá...para quitarla de su presencia, porH5493
+- 1Cr_5:25de los pueblos...Jehová había quitadoH8045
+- 1Cr_17:13no quitaré de él mi misericordia, comoH5493
+- 1Cr_17:13como la quité de aquel que fue antesH5493
+- 1Cr_21:8te ruego que quites la iniquidad de tuH5674
+- 2Cr_14:3quitó los altares del culto extrañoH5493
+- 2Cr_14:5quitó...los lugares altos y las imágenesH5493
+- 2Cr_15:8oyó Asa...quitó los ídolos abominables deH3920
+- 2Cr_15:17los lugares altos no eran quitados deH5493
+- 2Cr_17:6quitó los lugares altos y las imágenes
+- 2Cr_19:3has quitado de la...las imágenes de AseraH1197
+- 2Cr_20:33los lugares altos no fueron quitadosH5493
+- 2Cr_30:14quitaron los altares...q también todos
+- 2Cr_32:12que ha quitado sus lugares altos y susH5493
+- 2Cr_33:8nunca más quitaré el pie de Israel de laH5493
+- 2Cr_33:15quitó los dioses ajenos, y el ídolo de
+- 2Cr_34:33quitó Josías todas las abominaciones de
+- 2Cr_35:23quitadme de...estoy gravemente herido
+- 2Cr_36:3el rey de Egipto lo quitó de Jerusalén
+- Neh_4:23ni yo...nos quitamos nuestro vestidoH6584
+- Neh_5:10grano; quitémosles ahora este gravamenH5800
+- Est_3:10el rey quitó el anillo de su mano,yH5493
+- Est_4:4hacerle quitar el cilicio; mas él no losH5493
+- Est_8:2y se quitó el rey el anillo que recogió deH5674
+- Job_1:21dijo...Jehová dio, y Jehová quitó; seaH3947
+- Job_7:21¿y por qué no quitas mi rebelión, yH5674
+- Job_9:34quite de sobre mí su vara, y su terrorH5493
+- Job_12:20priva...y quita a los ancianos el concejoH3947
+- Job_12:24quita el entendimiento a los jefes deH5493
+- Job_13:14¿por qué quitaré yo mi carne con misH5375
+- Job_19:9me ha...quitado la corona de mi cabezaH5493
+- Job_24:9quitan el pecho a los huérfanos,y deH2254
+- Job_24:10a los hambrientos quitan las gavillasH5375
+- Job_27:2vive Dios, que ha quitado mi derecho, yH5493
+- Job_27:5muera, no quitaré de mí mi integridadH5493
+- Job_27:8impío...cuando Dios le quitare la vida?[[H7953]]
+- Job_33:17quitar al hombre de su obra, y apartarH5493
+- Job_34:5justo, y Dios me ha quitado mi derechoH5493
+- Job_34:20y sin mano será quitado el poderosoH5493
+- Job_36:18no sea que en su ira te quite con golpeH5496
+- Job_38:15la luz de los impíos es quitada de ellosH4513
+- Job_42:10quitó Jehová la aflicción de Job, cuandoH7725
+- S 31:13consultan...e idean quitarme la vidaH3947
+- S 39:10quita de...mí tu plaga; estoy consumidoH5493
+- S 51:11no...y no quites de mí tu santo espírituH3947
+- S 78:30no habían quitado de sí su anhelo, aún
+- S 84:11no quitará el bien a los que andan enH4513
+- S 89:33mas no quitaré de él mi misericordiaH6331
+- S 94:6matan, y a los huérfanos quitan la vida
+- S 104:29les quitas el hálito, dejan de serH622
+- S 119:39quita de mí el oprobio que he temido
+- S 119:43no quites de mi boca...la palabra deH5337
+- Pro_1:19cual quita la vida de sus poseedoresH3947
+- Pro_15:1la blanda respuesta quita la ira; masH7725
+- Pro_20:16quítale su ropa al que salió por fiadorH3947
+- Pro_22:27han de quitar tu cama de debajo de ti?[[H3947]]
+- Pro_25:4quita las escorias de la plata, y saldráH1898
+- Pro_25:20es como el que quita la ropa en tiempoH5710
+- Pro_27:13quítale su ropa al que salió fiador porH3947
+- Ecl_11:10quita, pues, de tu corazón el enojoH5493
+- Cnt_5:7me quitaron mi manto de encima losH5375
+- Isa_1:16quitad la iniquidad de vuestras obrasH5493
+- Isa_1:25y limpiaré...y quitaré toda tu impurezaH5493
+- Isa_2:18y quitará totalmente los ídolosH2498
+- Isa_3:1quita de Jerusalén...al sustentador y alH5493
+- Isa_3:18en aquel día quitará el eños el atavíoH5493
+- Isa_4:1llevar tu nombre, quita nuestro oprobioH2388
+- Isa_5:5le quitaré su vallado, y será consumidaH5493
+- Isa_5:23los que...y al justo quitan su derecho![[H5493]]
+- Isa_5:29se la llevarán con...y nadie se la quitaráH5337
+- Isa_6:7es quitada tu culpa, y limpio tu pecadoH5493
+- Isa_7:20el pelo de...y aun la barba también quitaráH5595
+- Isa_8:4será quitada la riqueza de Damasco y losH5376
+- Isa_10:2para quitar el derecho a los afligidosH1497
+- Isa_10:6para que quite despojos, y arrebate presaH7997
+- Isa_10:13quité los territorios de los pueblosH5493
+- Isa_10:27su carga será quitada de tu hombro, yH5493
+- Isa_14:25y su carga será quitada de su hombroH5493
+- Isa_16:10quitado es el gozo y...del campo fértilH622
+- Isa_18:5podará con...cortará y quitará las ramasH5493
+- Isa_20:2quita el cilicio de tus lomos, y descalzaH6605
+- Isa_22:25el clavo hincado el...firme será quitadoH4185
+- Isa_25:8quitará la afrenta de su pueblo de todaH5493
+- Isa_30:11quitad de nuestra presencia al santo deH7673
+- Isa_30:20maestros nunca más te serán quitadosH3670
+- Isa_32:6vacía...y quitando la bebida al sediento
+- Isa_36:7aquel cuyos altares hizo quitar EzequíasH5493
+- Isa_49:24¿será quitado el botín al valiente?[[H3947]]
+- Isa_51:22he aquí he quitado de tu mano el calízH3947
+- Isa_53:8por cárcel y por juicio fue quitado; yH3947
+- Isa_57:1de delante de la aflicción es quitado elH622
+- Isa_57:14quitad los tropiezos del camino de miH7311
+- Isa_58:9si quitares de en medio de ti el yugoH5493
+- Isa_62:10quitad las piedras, alzad pendón a losH5619
+- Jer_4:1si quitares de...mí tus abominacionesH5493
+- Jer_4:4y quitad el prepucio de vuestro corazónH5493
+- Jer_5:10quitad las almenas de sus muros, porqueH5493
+- Jer_16:5he quitado mi paz de este pueblo, diceH622
+- Jer_27:20no quitó Nabucodonosor rey...cuandoH3947
+- Jer_28:10Hananías quitó el yugo del cuello delH3947
+- Jer_28:16te quito de sobre la faz de la tierraH7971
+- Jer_32:31para que la haga quitar de mi presenciaH5493
+- Jer_48:2venid, y quitémosla de entre...naciones
+- Jer_51:55y quitará de ella la mucha jactancia
+- Lam_2:6quitó su tienda como enramada de huerto
+- Eze_11:18volverán...y quitarán...sus idolatríasH5493
+- Eze_11:19y quitaré el corazón de piedra de enH5493
+- Eze_16:50abominación...y cuando lo vi las quitéH5493
+- Eze_21:26quita la corona; esto no será más asíH7311
+- Eze_23:25te quitarán tu nariz y tus orejas, y loH5493
+- Eze_24:6olla...cuya herrumbre no ha sido quitada![[H3318]]
+- Eze_24:16quito de golpe el deleite de tus ojosH3947
+- Eze_26:16quitarán sus mantos, y desnudarán sus
+- Eze_34:25paz, y quitaré de la tierra las fierasH7673
+- Eze_36:26quitaré...corazón de piedra, y os daréH5493
+- Eze_38:13quitar plata y oro,para tomar ganadosH962
+- Eze_42:5las galerías quitaban de ellas más que de
+- Eze_44:19cuando salgan...quitarán las vestidurasH6584
+- Eze_45:9quitad vuestras imposiciones de sobre miH7311
+- Dan_2:21él muda los...quita reyes, y pone reyesH5709
+- Dan_4:14quitadle el follaje, y dispersad su frutoH5426
+- Dan_4:31se te dice...reino ha sido quitado de tiH5709
+- Dan_7:12quitado a las otras bestias su dominioH5709
+- Dan_7:26y le quitarán su dominio para que seaH5709
+- Dan_8:11por él fue quitado el continuo sacrificioH7311
+- Dan_9:26quitará la vida al Mesías, mas no por síH3772
+- Dan_11:31tropas...quitarán el continuo sacrificioH5493
+- Dan_12:11desde...que sea quitado el...sacrificioH5493
+- Ose_1:6no me compadeceré...los quitaré del todoH5375
+- Ose_2:9quitaré mi lana y mi lino que había dadoH3947
+- Ose_2:17porque quitaré de su boca los nombres deH5493
+- Ose_2:18y quitaré de la tierra arco y espada y
+- Ose_4:11fornicación...y mosto quitan el juicioH3947
+- Ose_9:12si llegaren a grandes sus...los quitaréH7921
+- Ose_13:11te di rey en...y te lo quité en mi iraH3947
+- Ose_14:2quita toda iniquidad, y acepta el bienH5375
+- Joe_1:5porque os es quitado de vuestra bocaH3772
+- Joe_1:13quitada es de la casa...la ofrenda y laH4513
+- Amó_2:3y quitaré el juez de en medio de él, yH3772
+- Amó_5:23quita de mí la multitud de tus cantaresH5493
+- Jon_4:3te ruego que me quites la vida; porqueH3947
+- Miq_1:11llanto de Bet-esel os quitará su apoyo
+- Miq_2:4¡cómo nos quitó nuestros campos! Los dioH5375
+- Miq_2:8quitasteis las capas atrevidamente a losH6584
+- Miq_2:9niños quitasteis mi perpetua alabanzaH3947
+- Miq_3:2les quitáis su piel y su carne de sobreH1497
+- Hab_3:17las ovejas sean quitadas de la majadaH1504
+- Sof_3:11quitaré...a los que se alegran en tuH5493
+- Zac_3:4ángel...Quitadle esas vestiduras vilesH5493
+- Zac_3:4dijo: Mira que ha quitado de ti tu pecadoH5674
+- Zac_3:9quitaré el pecado de la tierra en undíaH5493
+- Zac_9:7quitaré la sangre de su boca...sus dientesH5493
+- Zac_13:2quitaré de...los nombres de las imágenesH3772
+- Mat_5:40y quitarte la túnica, déjale...la capaG2983
+- Mat_9:15días cuando el esposo les será quitadoG522
+- Mat_13:12pero...aun lo que tiene le será quitadoG142
+- Mat_16:23¡quítate de delante de mí, Satanás![[G5217]]
+- Mat_21:21si...dijereis: Quítate y échate en el marG142
+- Mat_21:43el reino de...será quitado de vosotrosG142
+- Mat_25:28quitadle, pues, el talento, y dadlo al
+- Mat_25:29al que...aun lo que tiene le será quitado
+- Mat_26:51hiriendo a un siervo...le quitó la oreja
+- Mat_27:31le quitaron al manto, le pusieron sus
+- Mar_2:20cuando el esposo les será quitado, y
+- Mar_3:4¿es lícito...salvar la vida, o quitarla?
+- Mar_4:15y quita la palabra que se sembró en sus
+- Mar_4:25que no tiene...lo que tiene se le quitara
+- Mar_8:33¡quítate de delante de mí, Satanás![[G142]]
+- Mar_11:23este monte: Quítate y échate en el marG142
+- Mar_15:46y quítandolo, lo envolvío en la sábanaG2507
+- Luc_1:25se dignó quitar mi afrenta entre losG851
+- Luc_1:52quitó de los tronos a los poderosos, y
+- Luc_5:35días cuando el esposo les será quitadoG522
+- Luc_6:9¿es lícito en...salvar la vida, o quitarla?
+- Luc_8:12y quita de su corazón la palabra, paraG142
+- Luc_8:18y a todo el que no tiene...se le quitará
+- Luc_10:42buena parte, la cual no le será quitadaG851
+- Luc_11:22le quita todas sus armas...y reparte elG142
+- Luc_11:52habéis quitado la llave de la cienciaG142
+- Luc_12:5después de haber quitado la vida, tiene
+- Luc_16:3porque mi amo me quita la mayordomíaG851
+- Luc_16:4que cuando me quite de la mayordomía, meG3179
+- Luc_19:24quitadle la mina, y dadla al que tieneG142
+- Luc_19:26al que no tiene, aun lo...se le quitaráG142
+- Luc_23:53quitándolo, lo envolvío en una sábanaG2507
+- Jua_1:29el Cordero...quita el pecado del mundoG142
+- Jua_2:16dijo...Quitad de aquí esto, Y no lo hagáisG142
+- Jua_10:18nadie me la quita, sino que yo de míG2983
+- Jua_11:39dijo Jesús: Quitad la piedra...Marta, laG142
+- Jua_11:41entonces quitaron la piedra de dondeG142
+- Jua_13:4se quitó su manto, y tomando una toalla
+- Jua_15:2que en mí no lleva fruto, lo quitaráG142
+- Jua_16:22gozará...nadie os quitará vuestro gozoG142
+- Jua_17:15no ruego que los quites del mundo, sinoG142
+- Jua_19:31quebrasen las...y fuesen quitados de allíG142
+- Jua_20:1María...vio quitada la piedra del sepulcroG142
+- Hec_7:33quita el calzado de tus pies, porqueG3089
+- Hec_8:33porque fue quitada de la tierra de su vidaG142
+- Hec_13:22quitado esté...levantó por rey a DavidG3179
+- Hec_13:29quitándolo del madero, lo pusieron enG2507
+- Hec_22:22quita de la tierra a tal hombre, porqueG142
+- Hec_24:7el tribuno...le quitó de nuestras manosG520
+- Rom_11:27mi pacto...cuando yo quite sus pecadosG851
+- 1Co_5:2quitado de en medio de vosotros el queG1808
+- 1Co_5:13quitad, pues, a ese perverso de entreG1808
+- 1Co_6:15¿quitaré, pues, los miembros de CristoG142
+- 2Co_3:14velo...el cual por Cristo es quitadoG2673
+- 2Co_3:16conviertan al Señor, el velo se quitaráG4014
+- 2Co_11:12para quitar la ocasión de aquellos queG1581
+- 2Co_12:8he rogado al Señor, que lo quite de míG2673
+- Gál_5:11se ha quitado el tropiezo de la cruzG2673
+- Efe_4:31quítense de vosotros toda amarguraG142
+- Col_2:14quitándola de en medio y clavándolaG142
+- 2Ts_2:7hasta que el...sea quitado de en medioG1096
+- 2Ti_1:10el cual quitó la muerte y sacó a luzG2673
+- Heb_9:26vez...para quitar de en medio el pecadoG115
+- Heb_10:4sangra de...no puede quitar los pecadosG851
+- Heb_10:9quita lo primero, para establecer estoG337
+- Heb_10:11que nunca pueden quitar los pecadosG4014
+- 1Pe_3:21quitando las inmundicias de la carneG595
+- 1Jn_3:5apareció para quitar nuestros pecadosG142
+- Rev_2:5quitaré tu candelero de su lugar, si noG2795
+- Rev_6:4dado poder de quitar de la tierra la pazG2983
+- Rev_22:19si alguno quitare de las palabras delG851
+- Rev_22:19Dios quitará su parte del libro de laG851

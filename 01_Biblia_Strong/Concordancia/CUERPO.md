@@ -1,0 +1,260 @@
+---
+tipo: concordancia
+palabra: CUERPO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CUERPO
+
+- Gén_15:11descendían aves de rapiña sobre los cH6297
+- Gén_47:18nada ha quedado...sino nuestros c yH1472
+- Éxo_22:27eso es su vestido para cubrir su cH5785
+- Lev_6:10vestirá calzoncillos de lino...su cH1320
+- Lev_11:8no comeréis, ni tocaréis su c muertoH5038
+- Lev_11:11carne no comeréis, y abominaréis sus cH1320
+- Lev_11:24que tocare sus c muertos será inmundoH5038
+- Lev_11:40el que comiere del c...que sacare el cH5038
+- Lev_13:2el hombre tuviere en la piel de su cH1320
+- Lev_13:2hubiere en la piel de su c como llagaH1320
+- Lev_13:3mirará la llaga en la piel de c; si elH1320
+- Lev_13:4y si en la piel de su c hubiere manchaH1320
+- Lev_13:11es lepra crónica en la piel de su cH1320
+- Lev_13:13si la lepra hubiere cubierto todo su cH1320
+- Lev_13:24hubiere en la piel del c quemadura deH1320
+- Lev_13:38tuviere en la piel de su c manchasH1320
+- Lev_13:39si en...su c aparecieren manchas blancasH1320
+- Lev_13:43parecer de la lepra de la piel del cH1320
+- Lev_14:9y lavará su c en agua, y será limpioH1320
+- Lev_15:3sea que su c destiló a causa de su flujoH1320
+- Lev_15:7el que tocare el c del que tiene flujoH1320
+- Lev_15:13y lavará su c en aguas corrientes, yH1320
+- Lev_15:16emisión de...lavará en agua todo su cH1320
+- Lev_15:19y su flujo fuere en su c, siete díasH1320
+- Lev_16:4sobre su c tendrá calzoncillos de linoH1320
+- Lev_16:4vestir después de lavar su c con aguaH1320
+- Lev_16:24lavará...su c con agua en el lugar delH1320
+- Lev_16:26lavará...su c, y después entrará en elH1320
+- Lev_16:28quemare...lavará también su c con aguaH1320
+- Lev_17:16ni lavare su c, llevará su iniquidadH1320
+- Lev_19:28y no haréis rasguños en vuestro c porH1320
+- Lev_22:6no comerá...antes que haya lavado su cH1320
+- Lev_26:30pondré vuestros c muertos sobre los cH6297
+- Núm_2:4, Núm_2:6, Núm_2:8, Núm_2:11, Núm_2:13, Núm_2:15, Núm_2:19, Núm_2:21, Núm_2:23, Núm_2:26, Núm_2:28, Núm_2:30su c de ejército, con sus contadosH6635
+- Núm_8:7y haz pasar la navaja sobre todo su cH1320
+- Núm_10:14Naasón...estaba sobre su c de ejércitoH6635
+- Núm_10:15-16, Núm_10:19-20, Núm_10:23-24, Núm_10:26-27sobre el c de ejército de la tribuH6635
+- Núm_10:18Elisur...estaba sobre su c de ejércitoH6635
+- Núm_10:22Elisama hijo...sobre su c de ejércitoH6635
+- Núm_10:25Ahiezer hijo...sobre su c de ejércitoH6635
+- Núm_14:29en este desierto caerán vuestros cH6297
+- Núm_14:32vuestros c caerán en este desiertoH6297
+- Núm_14:33hasta que vuestros c sean consumidosH6297
+- Núm_19:7luego...lavará también su c con agua, yH1320
+- Núm_19:8lavará en agua su c, y será inmundoH1320
+- Deu_14:8éstos no comeréis, ni tocaréis sus cH5038
+- Deu_21:23no dejaréis que su c pase la nocheH5038
+- Jos_8:29Josué que quitasen del madero su cH5038
+- Jue_14:8para ver el c muerto...el c del leónH4658, [[H1472]]
+- Jue_14:9que había tomado...miel del c del leónH1472
+- 1Sa_17:46daré hoy los c de los filisteos a lasH6297
+- 1Sa_31:10y colgaron su c en el muro de Bet-sánH1472
+- 1Sa_31:12y quitaron el c de Saúl y los c de susH1472
+- 1Re_13:22no entrará tu c en el sepulcro deH5038
+- 1Re_13:24c estaba...y el león también junto al cH1472
+- 1Re_13:25vieron el c...y el león que...junto al cH1472
+- 1Re_13:28halló el c tendido...el león...junto al cH1472
+- 1Re_13:28el león no había comido el c, ni dañadoH1472
+- 1Re_13:29tomó el profeta el c del varón de DiosH1472
+- 1Re_13:30el c en su sepulcro; y le endecharonH1472
+- 2Re_4:34subió...el c del niño entró en calorH1320
+- 2Re_6:30y el pueblo vio el cilicio...sobre su cH1320
+- 2Re_9:37el c de Jezabel será como estiércol sobreH5038
+- 2Re_19:35por la mañana...todo era c de muertosH6297
+- 1Cr_10:12tomaron el c de Saúl y los c de susH1480
+- 2Cr_3:5y techó el c mayor del edificio con
+- Neh_9:37quienes se enseñorean...nuestros cH1472
+- Job_4:15hizo que se erizara el pelo de mi cH1320
+- Job_13:28y mi c se va gastando como de carcoa
+- Job_20:25saeta le traspasará y saldrá de su cH1465
+- Sal_31:9consumido de tristeza...mi alma...mi cH990
+- Sal_44:25nuestro c está postrado hasta la tierraH990
+- Sal_79:2dieron los c de tus siervos por comidaH5038
+- Sal_139:15no fue encubierto de ti mi c, bienH6108
+- Pro_3:8será medicina a tu c, y refrigerío paraH8270
+- Pro_4:22porque son vida...y medicina a todo su cH1320
+- Pro_5:11gimas al final, cuando se consuma...tu cH7607
+- Cnt_5:14su c, como claro marfil cubierto deH4578
+- Isa_10:18la gloria de su...consumirá...alma y cH1320
+- Isa_14:19eres echado de...como c muerto holladoH6297
+- Isa_37:36por la mañana...todo era c de muertosH6297
+- Isa_50:6di mi c a los heridores, y mis mejillasH1460
+- Isa_51:23y tú pusiste tu c como tierra, y comoH1460
+- Jer_7:33c muertos de este pueblo para comidaH5038
+- Jer_9:22los c de los hombres muertos caerán comoH5038
+- Jer_16:4sus c servirán de comida a las aves delH5038
+- Jer_19:7sus c para comida a las aves del cieloH5038
+- Jer_26:23y echó su c en los sepulcros del vulgoH5038
+- Jer_31:40todo el valle de los c muertos y de laH6297
+- Jer_33:5para llenarlas de c de hombres muertosH6297
+- Jer_34:20sus c muertos serán comida de las avesH5038
+- Jer_36:30su c será echado al calor del día y alH5038
+- Jer_41:9cisterna en que echó Ismael todos los cH6297
+- Lam_4:7más rubios eran sus c que el coral, suH6106
+- Eze_1:11sus alas...las otras dos cubrían sus cH1472
+- Eze_1:23cada uno tenía dos alas que cubrían su cH1472
+- Eze_6:5y pondré los c muertos de los...de IsraelH6297
+- Eze_10:12y todo su c, sus espaldas, sus manos yH1320
+- Eze_43:7ni con los c muertos de sus reyes en susH6297
+- Eze_43:9arrojarán lejos...c muertos de sus reyesH6297
+- Dan_3:27el fuego no había tenido poder...sus cH1655
+- Dan_3:28y entregaron sus c antes que servir yH1655
+- Dan_4:33; Dan_5:21c se mojaba con el rocío del cieloH1655
+- Dan_7:11su c fue destrozado y entregado para serH1655
+- Dan_7:15me turbó el espíritu...en medio de mi cH5085
+- Dan_10:6su c era como de berilo, y su rostroH1472
+- Amó_8:3gemirán en...muchos serán los c muertosH6297
+- Hag_2:13inmundo a causa de c muerto tocareH5315
+- Mat_5:29-30todo tu c sea echado al infiernoG4983
+- Mat_6:22la lámpara del c es el ojo; así que, siG4983
+- Mat_6:22ojo es bueno...tu c estará lleno de luzG4983
+- Mat_6:23si tu ojo es maligno, todo tu c estaráG4983
+- Mat_6:25ni por vuestro c, qué habéis de vestirG4983
+- Mat_6:25¿no es la...y el c más que el vestido?[[G4983]]
+- Mat_10:28no temáis a los que matan el c, mas elG4983
+- Mat_10:28destruir el alma y el c en el infiernoG4983
+- Mat_14:12tomaron el c y lo enterraron; y fueronG4983
+- Mat_24:28dondequiera que estuviere el c muertoG4430
+- Mat_26:12al derramar este perfume sobre mi c, loG4983
+- Mat_26:26y dijo: Tomad, comed; esto es mi cG4983
+- Mat_27:52muchos c de santos que habían dormidoG4983
+- Mat_27:58éste fue a Pilato y pidió el c de JesúsG4983
+- Mat_27:58Pilato mandó que se le diese el cG4983
+- Mat_27:59tomando José el c, lo envolvió en unaG4983
+- Mar_5:29y sintió en el c que estaba sana deG4983
+- Mar_6:29vinieron y tomaron su c, y lo pusieronG4430
+- Mar_14:8se ha anticipado a ungir mi c para laG4983
+- Mar_14:22les dio, diciendo: Tomad, esto es mi cG4983
+- Mar_14:51le seguía, cubierto el c con una sábanaG4983
+- Mar_15:43José de Arimatea...pidió el c de JesúsG4983
+- Mar_15:45informado por el centurión, dio el c aG4983
+- Luc_11:34la lámpara del c es el ojo; cuandoG4983
+- Luc_11:34también todo tu c está lleno de luzG4983
+- Luc_11:34maligno, también tu c está en tinieblasG4983
+- Luc_11:36así que, si todo tu c está lleno de luzG4983
+- Luc_12:4os digo...No temáis a los que matan el cG4983
+- Luc_12:22no os afanéis por...el c, qué vestiréisG4983
+- Luc_12:23la vida es más que...el c que el vestidoG4983
+- Luc_17:37donde estuviere el c, allí se juntaránG4983
+- Luc_22:19esto es mi c, que por vosotros es dadoG4983
+- Luc_23:52fue a Pilato, y pidió el c de JesúsG4983
+- Luc_23:55vieron el supulcro, y cómo...puesto su cG4983
+- Luc_24:3y entrando, no hallaron el c del SeñorG4983
+- Luc_24:23no hallaron su c, vinieron diciendo queG4983
+- Jua_2:21mas él hablaba del templo de su cG4983
+- Jua_19:31c no quedasen en la cruz en el día deG4983
+- Jua_19:38le permitiese llevarse el c de JesúsG4983
+- Jua_19:38José de...vino, y se llevó el c de JesúsG4983
+- Jua_19:40tomaron, pues, el c de Jesús...lienzosG4983
+- Jua_20:12donde el c de Jesús había sido puestoG4983
+- Hec_9:40oró; y volviéndose al c, dijo: TabitaG4983
+- Hec_19:12se llevaban a los...delantales de su cG5559
+- Rom_1:24deshonraron entre sí sus propios cG4983
+- Rom_4:19fe al considerar su c...de casi cien añosG4983
+- Rom_6:6para que el c del pecado sea destruidoG4983
+- Rom_6:12no reine...el pecado en vuestro c mortalG4983
+- Rom_7:4habéis muerto a la ley mediante el c deG4983
+- Rom_7:24¿quién me librará de este c de muerte?[[G4983]]
+- Rom_8:10el c en verdad está muerto a causa delG4983
+- Rom_8:11vivificará también vuestros c mortalesG4983
+- Rom_8:23esperando la...la redención de nuestro cG4983
+- Rom_12:1que presentéis vuestros c en sacrificioG4983
+- Rom_12:4en un c tenemos muchos miembros, peroG4983
+- Rom_12:5así...siendo muchos, somos un c en CristoG4983
+- 1Co_5:3como ausente en c, pero presente enG4983
+- 1Co_6:13el c...para el Señor, y el Señor para el cG4983
+- 1Co_6:15que vuestros c son miembros de Cristo?[[G4983]]
+- 1Co_6:16que se une con una...es un c con ella?[[G4983]]
+- 1Co_6:18pecado que el...cometa, está fuera del cG4983
+- 1Co_6:18el que fornica, contra su propio c pecaG4983
+- 1Co_6:19¿o ignoráis que vuestro c es templo delG4983
+- 1Co_6:20glorificad, pues, a Dios en vuestro c yG4983
+- 1Co_7:4la mujer no tiene potestad sobre su...cG4983
+- 1Co_7:4el marido potestad sobre su propio c, sinoG4983
+- 1Co_7:34para ser santa así en c como en espírituG4983
+- 1Co_9:27golpeo mi c, y lo pongo en servidumbreG4983
+- 1Co_10:16¿no es la comunión del c de Cristo?[[G4983]]
+- 1Co_10:17nosotros, con ser muchos, somos un cG4983
+- 1Co_11:24comed; esto es mi c que por...es partidoG4983
+- 1Co_11:27será culpado del c y de la sangre delG4983
+- 1Co_11:29sin discernir el c del Señor, juicioG4983
+- 1Co_12:12así como el c es uno, y tiene muchosG4983
+- 1Co_12:12todos los miembros del c...son un solo cG4983
+- 1Co_12:13todos bautizados en un c, sean judíosG4983
+- 1Co_12:14el c no es un solo miembro, sino muchosG4983
+- 1Co_12:15-16porque...no soy del c...no será del c?[[G4983]]
+- 1Co_12:17si todo el c fuese ojo, ¿dónde estaríaG4983
+- 1Co_12:18Dios ha colocado los miembros...en el cG4983
+- 1Co_12:19un solo miembro, ¿dónde estaría el c?[[G4983]]
+- 1Co_12:22los miembros del c...más débiles, sonG4983
+- 1Co_12:23aquellos del c que nos parecen menosG4983
+- 1Co_12:24Dios ordenó el c, dando más abundanteG4983
+- 1Co_12:25para que no haya desavenencia en el cG4983
+- 1Co_12:27vosotros, pues, sois el c de Cristo, yG4983
+- 1Co_13:3y si entregase mi c para ser quemadoG4983
+- 1Co_15:35pero dirá alguno...¿Con qué c vendrán?[[G4983]]
+- 1Co_15:37lo que siembras no es el c que ha deG4983
+- 1Co_15:38pero Dios le da el c como él quiso, yG4983
+- 1Co_15:38Dios le da...a cada semilla su propio cG4983
+- 1Co_15:40hay c celestiales, y c terrenales; peroG4983
+- 1Co_15:44se siembra c animal, resucitará cG4983
+- 1Co_15:44hay c animal, y hay c espiritualG4983
+- 2Co_4:10llevando en el c...muerte de JesúsG4983
+- 2Co_4:10la vida de...se manifieste en nuestros cG4983
+- 2Co_5:6entre tanto que estamos en el c, estamosG4983
+- 2Co_5:8y más quisiéramos estar ausentes del cG4983
+- 2Co_5:10que haya hecho mientras estaba en el cG4983
+- 2Co_7:5ningún reposo tuvo nuestro c, sino queG4561
+- 2Co_12:2si en el c, no lo sé; si fuera del c, noG4983
+- 2Co_12:3en el c, o fuera del c, no lo sé; DiosG4983
+- Gál_4:13que a causa de una enfermedad del c osG4561
+- Gál_4:14por la prueba que tenía en mi c, antesG4561
+- Gál_6:17yo traigo en mi c las marcas del SeñorG4983
+- Efe_1:23la cual es su c, la plenitud de AquelG4983
+- Efe_2:16reconciliar con Dios a ambos en un...cG4983
+- Efe_3:6los gentiles son...miembros del mismo cG4954
+- Efe_4:4un c, y un Espíritu...una misma esperanzaG4983
+- Efe_4:12a fin de...la edificación del c de CristoG4983
+- Efe_4:16de quien todo el c, bien concertado yG4983
+- Efe_5:23es cabeza de la iglesia, la cual es su cG4983
+- Efe_5:28amar a sus mujeres como a sus mismos cG4983
+- Efe_5:30somos miembros de su c, de su carne y deG4983
+- Flp_1:20será magnificado Cristo en mi c, oG4983
+- Flp_3:2guardaos de los perros...mutiladores del c
+- Flp_3:21cual trasformará el c de la humillaciónG4983
+- Flp_3:21que sea semejante al c de la gloria suyaG4983
+- Col_1:18es la cabeza del c que es la iglesiaG4983
+- Col_1:22en su c de carne, por medio de la muerteG4983
+- Col_1:24de las aflicciones de Cristo por su cG4983
+- Col_2:5aunque estoy ausente en c, no obstanteG4561
+- Col_2:11echar de vosotros el c pecaminoso carnalG4983
+- Col_2:17lo cual es sombra de...el c es de CristoG4983
+- Col_2:19en virtud de quien todo el c...crece conG4983
+- Col_2:23en humildad y en duro trato del c; peroG4983
+- Col_3:15la que...fuisteis llamados en un solo cG4983
+- 1Ts_5:23ser, espíritu, alma y c, sea guardadoG4983
+- Heb_3:17¿no...cuyos c cayeron en el desierto?[[G2966]]
+- Heb_10:5y ofrenda no quisiste...me preparaste cG4983
+- Heb_10:10la ofrenda del c de Jesucristo hecha unaG4983
+- Heb_10:22purificados...y lavados los c con aguaG4983
+- Heb_13:3también vosotros mismos estáis en el cG4983
+- Heb_13:11los c de aquellos animales cuya sangreG4983
+- Stg_2:16no les dais las cosas que...para el cG4983
+- Stg_2:26como el c sin espíritu está muerto, asíG4983
+- Stg_3:2es...capaz también de refrenar todo el cG4983
+- Stg_3:3ponemos freno...y dirigimos así todo su cG4983
+- Stg_3:6lengua...contamina todo el c, e inflamaG4983
+- 1Pe_2:24quien llevó...nuestros pecados en su cG4983
+- 2Pe_1:13justo, en tanto que estoy en este cG4638
+- 2Pe_1:14que en breve debo abandonar el c, comoG4638
+- Jud_1:9disputando con él por el c de Moisés, noG4983

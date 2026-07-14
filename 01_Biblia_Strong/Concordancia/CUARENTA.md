@@ -1,0 +1,94 @@
+---
+tipo: concordancia
+palabra: CUARENTA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CUARENTA
+
+- Véase también Cuarenta y uno, Cuarenta mil, etc.
+- Gén_7:4yo haré llover...c días y c noches; yH705
+- Gén_7:12y hubo lluvia sobre...c días y c nochesH705
+- Gén_7:17fue el diluvio c días sobre la tierraH705
+- Gén_8:6al cabo de c días abrió Noé la ventanaH705
+- Gén_18:29y dijo: Quizá se hallarán allí cH705
+- Gén_18:29respondió: No lo haré por amor a los cH705
+- Gén_25:20Isaa c de c años cuando tomó por mujerH705
+- Gén_26:34y cuando Esaú era de c años, tomó porH705
+- Gén_32:15c vacas y diez novillos, veinte asnasH705
+- Gén_50:3y le cumplieron c días, porque así seH705
+- Éxo_16:35comieron los...de Israel maná c añosH705
+- Éxo_24:18Moisés en el monte c días y c nochesH705
+- Éxo_26:19harás c basas de plata debajo de lasH705
+- Éxo_26:21c basas de plata; dos basas debajo deH705
+- Éxo_34:28él estuvo allí con...c días y c nochesH705
+- Éxo_36:24hizo...c basas de plata debajo de lasH705
+- Éxo_36:26sus c basas de plata; dos basas debajoH705
+- Núm_13:25volvieron de reconocer...fin de c díasH705
+- Núm_14:33pastoreando en el desierto c años, yH705
+- Núm_14:34c días en que reconocisteis la tierraH705
+- Núm_14:34llevaréis vuestras iniquidades c añosH705
+- Núm_32:13los hizo andar errantes c años por elH705
+- Núm_33:38y allí murió a los c años de la salidaH705
+- Deu_1:3que a los c años, en el mes undécimoH705
+- Deu_2:7estos c años Jehová...ha estado contigoH705
+- Deu_8:2te ha traído Jehová tu Dios estos c añosH705
+- Deu_8:4ni el pie se te ha hinchado en...c añosH705
+- Deu_9:9estuve...en el monte c días y c noches, sinH705
+- Deu_9:11sucedió al fin de los c días y c nochesH705
+- Deu_9:18me postré delante de...c días y c nochesH705
+- Deu_9:25me...c días y c noches estuve postradoH705
+- Deu_10:10yo estuve...c días y c noches; y JehováH705
+- Deu_25:3se podrá dar c azotes, no más; no seaH705
+- Deu_29:5yo os he traído c años en el desiertoH705
+- Jos_5:6anduvieron por el desierto c añosH705
+- Jos_14:7yo era de...c años cuando Moisés siervoH705
+- Jue_3:11y reposó la tierra c años; y murióH705
+- Jue_5:31como el sol...Y la tierra reposó c añosH705
+- Jue_8:28reposó la tierra c años en los días deH705
+- Jue_12:14este tuvo c hijos y treinta nietos, queH705
+- Jue_13:1entregó en mano de...filisteos por c añosH705
+- 1Sa_4:18Elí...había juzgado a Israel c añosH705
+- 1Sa_17:16aquel filisteo...lo hizo durante c díasH705
+- 2Sa_2:10de c años era Is-boset hijo de SaúlH705
+- 2Sa_5:4David...comenzó a reinar, y reinó c añosH705
+- 1Re_2:11días que reinó David...fueron c añosH705
+- 1Re_6:17es, el templo de adelante, tenía c codosH705
+- 1Re_7:38cada fuente contenía c batos, y cada unaH705
+- 1Re_11:42días que Salomón reinó...fueron c añosH705
+- 1Re_19:8caminó c días y c noches hasta Horeb, elH705
+- 2Re_8:9tomó, pues, Hazael...c camellos cargadosH705
+- 2Re_12:1comenzó a reinar Joás, y reinó c añosH705
+- 1Cr_26:31en el año c del reinado de David seH705
+- 1Cr_29:27tiempo que reinó sobre Israel fue c añosH705
+- 2Cr_9:30reinó Salomón sobre...Israel c añosH705
+- 2Cr_24:1años era Joás...c años reinó en JerusalénH705
+- Neh_5:15por el vino más de c siclos de plataH705
+- Neh_9:21los sustentaste c años en el desiertoH705
+- Sal_95:10c años estuve disgustado...la naciónH705
+- Eze_4:6llevarás la maldad de...de Judá c díasH705
+- Eze_29:11no pasará...ni será habitada, por c añosH705
+- Eze_29:12y sus ciudades...desoladas por c añosH705
+- Eze_29:13al fin de c años recogeré a Egipto deH705
+- Eze_41:2y midió su longitud, de c codos, y laH705
+- Eze_46:22había patios...de c codos de longitudH705
+- Amó_2:10y os conduje por el desierto c añosH705
+- Amó_5:25¿me ofrecisteis sacrificios...en c añosH705
+- Jon_3:4de aquí a c días Nínive será destruidaH705
+- Mat_4:2y después de haber ayunado c días y cG5062
+- Mar_1:13y estuvo allí en el desierto c díasG5062
+- Luc_4:2por c días, y era tentado por el diabloG5062
+- Hec_1:3vivo...apareciéndoseles durante c díasG5062
+- Hec_4:22ya que el hombre...tenía más de c añosG5062
+- Hec_7:23cuando hubo cumplido la edad de c añosG5063
+- Hec_7:30pasados c años, un ángel se le aparecióG5062
+- Hec_7:36señales en...y en el desierto por c añosG5062
+- Hec_7:42el desierto por c años, casa de Israel?[[G5062]]
+- Hec_13:18de c años los soportó en el desiertoG5063
+- Hec_13:21Dios les dio a Saúl hijo de...por c añosG5062
+- Hec_23:13eran más de c los que habían hecho estaG5062
+- Hec_23:21más de c hombres de ellos le acechanG5062
+- 2Co_11:24cinco veces he recibido c azotesG5062
+- Heb_3:9me probaron, y vieron mis obras c añosG5062
+- Heb_3:17¿y con quiénes...él disgustado c añosG5062

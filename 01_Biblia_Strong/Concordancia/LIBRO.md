@@ -1,0 +1,159 @@
+---
+tipo: concordancia
+palabra: LIBRO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LIBRO
+
+- Gén_5:1es el l de las generaciones de AdánH5612
+- Éxo_17:14escribe esto para memoria en un l, yH5612
+- Éxo_24:7tomó el l del pacto y lo leyó a oídosH5612
+- Éxo_32:32y si no, ráeme ahora de tu l que hasH5612
+- Éxo_32:33al que pecare...éste raeré yo de mi lH5612
+- Núm_5:23escribirá estas maldiciones en un lH5612
+- Núm_21:14dice en el l de las batallas de JehováH5612
+- Deu_17:18escribirá para sí en un l una copiaH5612
+- Deu_28:58todas las palabras...escritas en este lH5612
+- Deu_28:61toda plaga que no está escrita en el lH5612
+- Deu_29:20asentará...maldición escrita en este lH5612
+- Deu_29:21del pacto escrito en este l de la leyH5612
+- Deu_29:27traer...maldiciones escritas en este lH5612
+- Deu_30:10guardar...estatutos escritos en este lH5612
+- Deu_31:24escribir las palabras de...ley en un lH5612
+- Deu_31:26tomad este l de la ley, y ponedlo alH5612
+- Jos_1:8nunca se apartará de tu boca este l deH5612
+- Jos_8:31, Jos_8:34está escrito en el l de la ley deH5612
+- Jos_10:13¿no está escrito esto en el l de Jaser?[[H5612]]
+- Jos_18:9delineándola...en siete partes en un lH5612
+- Jos_23:6lo que está escrito en el l de la leyH5612
+- Jos_24:26escribió...palabras en el l de la leyH5612
+- 1Sa_10:25leyes del reino...escribió en un lH5612
+- 2Sa_1:18que está escrito en el l de JaserH5612
+- 1Re_11:41¿no está...en el l de los hechos deH5612
+- 1Re_14:19está escrito en el l de las historiasH5612
+- 1Re_15:7, 1Re_15:23, 1Re_15:31; 1Re_16:5, 1Re_16:14, 1Re_16:20, 1Re_16:27; 1Re_22:39, 1Re_22:45; 2Re 1:18; 8:23; 10:34; 12:19; 13:8,12; 14:15,18,28; 15:6,11,15,21,26,31,36; 16:19; 20:20; 21:17,25; 23:28; 24:5; 1Cr_29:29; Est_10:2escrito en el l de las crónicasH5612
+- 2Re_14:6lo que está escrito en el l de la leyH5612
+- 2Re_22:8he hallado el l de la ley en la casa deH5612
+- 2Re_22:8e Hilcías dio el l a Safán, y lo leyóH5612
+- 2Re_22:10el sacerdote Hilcías me ha dado un lH5612
+- 2Re_22:11el rey hubo oído las palabras del lH5612
+- 2Re_22:13preguntad a...de las palabras de este lH5612
+- 2Re_22:13no escucharon las palabras de este lH5612
+- 2Re_22:16todo el mal de que habla este l que haH5612
+- 2Re_22:18por cuanto oíste las palabras del l
+- 2Re_23:2leyó...las palabras del l del pacto queH5612
+- 2Re_23:3todas las palabras...escritas en aquel lH5612
+- 2Re_23:21haced la pascua...está escrito en el lH5612
+- 2Re_23:24en el l que...Hilcías había hallado enH5612
+- 1Cr_9:1; 2Cr_16:11; 2Cr_25:26; 2Cr_27:7; 2Cr_28:26; 2Cr_32:32; 2Cr_35:27; 2Cr_36:8escritos en el l de los reyesH5612
+- 2Cr_9:29escritos en los l del profeta NatánH1697
+- 2Cr_12:15escritos en los l del profeta SemaíasH1697
+- 2Cr_17:9en Judá, teniendo consigo el l de la leyH5612
+- 2Cr_20:34se hace mención en el l de los reyesH1697
+- 2Cr_24:27escrito en la historia del l de...reyesH5612
+- 2Cr_25:4escrito en la ley, en el l de MoisésH5612
+- 2Cr_34:14halló el l de la ley de Jehová dada porH5612
+- 2Cr_34:15he hallado el l de...y dio Hilcías el lH5612
+- 2Cr_34:18Hilcías me dio un l. Y leyó Safán en élH5612
+- 2Cr_34:21acerca de las palabras del l que se haH5612
+- 2Cr_34:21hacer...lo que está escrito en este lH5612
+- 2Cr_34:24las maldiciones que...escritas en el lH5612
+- 2Cr_34:26así: Por cuanto oíste las palabras del l
+- 2Cr_34:30todas las palabras del l del pacto queH5612
+- 2Cr_34:31las palabras del...escritas en aquel lH5612
+- 2Cr_35:12según está escrito en el l de MoisésH5612
+- 2Cr_35:25las...están escritas en el l de Lamentos
+- Esd_4:15se busque en el l de las memorias deH5609
+- Esd_4:15hallarás en el l de las memorias, yH5609
+- Esd_6:2hallado...un l en el cual estaba escritoH4040
+- Esd_6:18conforme a lo escrito en el l de MoisésH5609
+- Neh_7:5y hallé el l de la genealogía de losH5612
+- Neh_8:1dijeron a Esdras...que trajese el l de laH5612
+- Neh_8:3y leyó en el l delante de la plaza que
+- Neh_8:3oídos de...estaban atentos al l de la leyH5612
+- Neh_8:5abrió, pues, Esdras el l a ojos de todoH5612
+- Neh_8:8leían en el l de la ley de...claramenteH5612
+- Neh_8:18leyó Esdras en el l de la ley de DiosH5612
+- Neh_9:3leyeron el l de la ley de Jehová su DiosH5612
+- Neh_12:23fueron inscritos en el l de...crónicasH5612
+- Neh_13:1se leyó en el l de Moisés, oyéndolo elH5612
+- Est_2:23fue escrito el caso en el l de lasH5612
+- Est_6:1que le trajesen el l de las memorias yH5612
+- Est_9:32de Purim, y esto fue registrado en un lH5612
+- Job_19:23¡quién diese...se escribiesen en un lH5612
+- Sal_40:7en el rollo del l está escrito de míH5612
+- Sal_56:8mis lágrimas...¿no están ellas en tu l?[[H5612]]
+- Sal_69:28sean raídos del l de los vivientes, yH5612
+- Sal_139:16tu l estaban escritas todas aquellasH5612
+- Ecl_12:12no hay fin de hacer muchos l; y elH5612
+- Isa_29:11como palabras de l sellado, el cualH5612
+- Isa_29:12y si se diere el l al que no sabe leerH5612
+- Isa_29:18los sordos oirán las palabras del lH5612
+- Isa_30:8escribe esta visión...regístrala en un lH5612
+- Isa_34:4y se enrollarán los cielos como un lH5612
+- Isa_34:16inquirid en el l de Jehová, y leed siH5612
+- Jer_25:13todo lo que está escrito en este lH5612
+- Jer_30:2escríbete en un l todas las palabras queH5612
+- Jer_36:2toma un rollo de l, y escribe en él todasH5612
+- Jer_36:4escribió Baruc...en un rollo de l, todasH5612
+- Jer_36:8leyendo en el l las palabras de JehováH5612
+- Jer_36:10y Baruc leyó en el l las palabras deH5612
+- Jer_36:11habiendo oído del l...las palabras deH5612
+- Jer_36:13Baruc leyó en el l a oídos del puebloH5612
+- Jer_36:18él me dictaba...y yo escribía...en el lH5612
+- Jer_36:32todas las palabras del l que quemó enH5612
+- Jer_45:1cuando escribía en el l estas palabrasH5612
+- Jer_51:60escribió, pues, Jeremías en un l todoH5612
+- Jer_51:63acabes de leer este l, le atarás unaH5612
+- Eze_2:9una mano...en ella había un rollo de lH5612
+- Eze_13:9ni serán inscritos en el l de la casaH3791
+- Dan_7:10el Juez se sentó, y los l...abiertosH5609, [[H5612]]
+- Dan_9:2miré...en los l el número de los años deH5612
+- Dan_10:21declararé lo que está escrito en el lH3791
+- Dan_12:1todos los que se hallen escritos en el lH5612
+- Dan_12:4y sella el l hasta el tiempo del finH5612
+- Nah_1:1profecía...L de la visión de Nahum deH5612
+- Mal_3:16fue escrito l de memoria delante deH5612
+- Mat_1:1l de la genealogía de Jesucristo, hijoG976
+- Mar_12:26¿no habéis leído en el l de MoisésG976
+- Luc_3:4en el l de las palabras del profetaG976
+- Luc_4:17y se le dio el l del profeta IsaíasG975
+- Luc_4:17habiendo abierto el l, halló el lugarG975
+- Luc_4:20enrollando el l, lo dio al ministro, yG975
+- Luc_20:42David dice en el l de los Salmos: DijoG976
+- Jua_20:30cuales no están escritas en este lG975
+- Jua_21:25que ni aun en el mundo cabrían los lG975
+- Hec_1:20está escrito en el l de los SalmosG976
+- Hec_7:42está escrito en el l de los profetasG976
+- Hec_19:19trajeron los l y los quemaron delanteG976
+- Gál_3:10permaneciere en...escritas en el l deG975
+- Flp_4:3cuyos nombres están en el l de la vidaG976
+- 2Ti_4:13y los l, mayormente los pergaminosG975
+- Heb_9:19roció el mismo l y también a todo elG975
+- Heb_10:7en el rollo del l está escrito de míG975
+- Rev_1:11escribe en un l lo que ves, y envíaloG975
+- Rev_3:5y no borraré su nombre del l de la vidaG976
+- Rev_5:1vi...un l escrito por dentro y por fueraG975
+- Rev_5:2¿quién es digno de abrir el l y desatarG975
+- Rev_5:3ninguno, ni en el...podía abrir el l, niG975
+- Rev_5:4hallado a ninguno digno de abrir el l, niG975
+- Rev_5:5ha vencido para abrir el l y desatar susG975
+- Rev_5:7vino, y tomó el l de la mano derecha delG975
+- Rev_5:8cuando hubo tomado el l...los cuatro seresG975
+- Rev_5:9digno eres de tomar el l y de abrir susG975
+- Rev_13:8; Rev_17:8nombres no estaban...en el l de laG976
+- Rev_20:12pie ante Dios; y los l fueron abiertosG975
+- Rev_20:12otro l fue abierto...es el l de la vidaG976
+- Rev_20:12las cosas que estaban escritas en los lG975
+- Rev_20:15el que no se halló...en el l de la vidaG976
+- Rev_21:27los que están inscritos en el l de laG975
+- Rev_22:7el que guarda las palabras...de este lG975
+- Rev_22:9los que guardan las palabras de este lG975
+- Rev_22:10no selles las palabras de...de este lG975
+- Rev_22:18las palabras de la profecía de este lG975
+- Rev_22:18traerá sobre él las plagas...en este lG975
+- Rev_22:19alguno quitare de las palabras del lG976
+- Rev_22:19Dios quitará su parte del l de la vidaG976
+- Rev_22:19de las cosas que...escritas en este lG975

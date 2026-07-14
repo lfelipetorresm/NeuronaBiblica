@@ -1,0 +1,171 @@
+---
+tipo: concordancia
+palabra: FUERZA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FUERZA
+
+- Gén_4:12la tierra, no te volverá a dar su fH3581
+- Gén_31:6sabéis que con todas mis f he servido aH3581
+- Gén_31:31que quizá me quitarías por f tus hijasH1497
+- Éxo_14:27el mar se volvió en toda su f, y losH386
+- Lev_26:20vuestra f se consumirá en vanoH3581
+- Núm_23:22Dios los ha...tiene f como de búfaloH8443
+- Núm_24:8Dios lo sacó de...tiene f como de búfaloH8443
+- Deu_6:5y de toda tu alma, y con todas tus fH3966
+- Deu_8:17poder y la f de mi mano me han traídoH6108
+- Deu_28:32ojos lo verán...no habrá f en tu manoH410
+- Deu_32:36cuando viere que la f pereció, y queH3027
+- Deu_33:25cerrojos, y como tus días serán tus fH1679
+- Jos_14:11cual era mi f...tal es ahora mi fH3581
+- Jue_1:35cuando la casa de José cobró f, loH3513
+- Jue_5:31sean como el sol cuando sale en su fH1369
+- Jue_6:14vé con esta tu f, y salvarás a IsraelH3581
+- Jue_16:5e infórmate en qué consiste su gran fH3581
+- Jue_16:6que me declares en qué consiste tu...fH3581
+- Jue_16:9rompió...no se supo el secreto de su fH3581
+- Jue_16:15no me has...en qué consiste tu gran fH3581
+- Jue_16:17si fuere rapado, mi f se apartará deH3581
+- Jue_16:19afligirlo, pues su f se apartó de élH3581
+- Jue_16:30se inclinó con toda su f, y cayó laH3581
+- 1Sa_2:9nadie será fuerte por su propia fH3581
+- 1Sa_2:16no...de otra manera yo la tomaré por la fH2394
+- 1Sa_28:1que los filisteos reunieron sus f paraH4264
+- 1Sa_28:20y estaba sin f...no había comido panH3581
+- 1Sa_28:22comas...que cobres f, y sigas tu caminoH3581
+- 1Sa_29:1filisteos juntaron todas sus f en AfecH4264
+- 1Sa_30:4hasta que les faltaron las f para llorarH3581
+- 2Sa_6:14David danzaba con toda su f delanteH5797
+- 2Sa_22:33Dios es el que me ciñe de f, y quienH4581
+- 2Sa_22:40pues me ceñiste de f para la pelea; hasH2428
+- 2Re_18:20consejo tengo y f para la guerraH1369
+- 2Re_19:3de nacer, y la que da a luz no tiene fH3581
+- 2Re_23:25que se convirtiese a...de todas sus fH3966
+- 1Cr_13:8Israel se regocijaban...todas sus fH5797
+- 1Cr_20:1sacó las f del ejército, y destruyó laH2428
+- 1Cr_29:2yo con todas mis f he preparado para laH3581
+- 1Cr_29:12en tu mano está la f y el poder, y enH2388
+- 2Cr_13:15los de Judá gritaron con f; y así
+- 2Cr_14:11en dar ayuda al...o al que no tiene f![[H3581]]
+- 2Cr_20:6¿no está en tu mano tal f y poder, queH3581
+- 2Cr_20:12¡oh Dios...en nosotros no hay f contraH3581
+- 2Cr_22:9no tenía f para poder retener el reinoH3581
+- 2Cr_32:9rey de...sitiaba a Laquis con todas sus fH4475
+- Esd_2:69según sus f dieron al tesorero de laH3581
+- Neh_4:10dijo Judá: Las f de los acarreadoresH3581
+- Neh_8:10porque el gozo de Jehová es vuestra fH4581
+- Est_8:11acabar con toda f armada del puebloH2428
+- Job_3:17y allí descansan los de agotadas fH3581
+- Job_6:11¿cuál es mi f para esperar aún? ¿Y cuálH3581
+- Job_6:12¿es mi f la de las piedras, o...bronce?[[H3581]]
+- Job_9:4él es sabio de corazón, y poderoso en fH3581
+- Job_17:9y el limpio de manos aumentará la fH555
+- Job_18:12serán gastadas de hambre sus f, y a suH202
+- Job_23:6¿contendería conmigo con grandeza de f?[[H3581]]
+- Job_26:2¿cómo has amparado al brazo sin f?[[H5797]]
+- Job_30:2la f de sus manos?...no tienen f algunaH3581
+- Job_36:5que Dios...es poderoso en f de sabiduríaH3581
+- Job_36:19¿hará él estima...o de todas las f delH3981
+- Job_39:11¿confiarás tú en él...ser grande su fH3581
+- Job_39:19¿diste tú al caballo la f? ¿Vestiste túH1369
+- Job_39:21se alegra en su f, sale al encuentro deH3581
+- Job_40:16su f está en sus lomos, y su vigor enH3581
+- Job_41:12no guardaré silencio...ni sobre sus fH1369
+- Job_41:22en su cerviz está la f, y delante deH5797
+- Sal_6:6me he consumido a f de gemir; todas
+- Sal_18:2mi escudo, y la f de mi salvación, miH6697
+- Sal_18:39pues me ceñiste de f para la pelea; hasH2428
+- Sal_31:10agotan mis f a causa de mi iniquidadH3581
+- Sal_33:16ni escapa el valiente por la mucha fH3581
+- Sal_33:17grandeza de su f a nadie podrá librarH2428
+- Sal_39:13déjame, y tomaré f, antes que vaya yH1082
+- Sal_68:28tu Dios ha ordenado tu f; confirma, ohH5797
+- Sal_68:35el Dios de Israel, él da f y vigor aH5797
+- Sal_71:9cuando mi f se acabare, no me desamparesH3581
+- Sal_78:51las primicias de su f en las tiendasH202
+- Sal_84:5hombre que tiene en ti sus f, en cuyoH5797
+- Sal_88:4soy contado entre...soy como hombre sin fH353
+- Sal_92:10aumentarás mis f como las del búfaloH7161
+- Sal_102:23él debilitó mi f en el camino; acortóH3581
+- Sal_105:36hirió de...las primicias de toda su fH202
+- Sal_147:10no se deleita en la f del caballo, niH1369
+- Pro_5:10no sea que extraños se sacien de tu fH3581
+- Pro_14:4por la f del buey hay abundancia de panH3581
+- Pro_20:29la gloria de los jóvenes es su f, y laH3581
+- Pro_21:22y derribó la f en que ella confiabaH5797
+- Pro_24:10si fueres flojo en...tu f será reducidaH3581
+- Pro_31:3no des a las mujeres tu f, ni...caminosH2428
+- Pro_31:17ciñe de f sus lomos, y esfuerza susH5797
+- Pro_31:25f y honor son su vestidura; y se ríeH5797
+- Ecl_4:1f estaba en la mano de sus opresoresH3581
+- Ecl_9:10lo que te viniere a...hazlo según tus fH3581
+- Ecl_9:16mejor es la sabiduría que la f, aunqueH1369
+- Ecl_10:10hay que añadir entonces más f; pero laH2428
+- Ecl_10:17para reponer sus f y no para beber![[H1369]]
+- Isa_3:25caerán a espada, y tu f en la guerraH1369
+- Isa_28:2como torbellino...con f derriba a tierraH3027
+- Isa_28:6por f a los que rechacen la batalla enH1369
+- Isa_30:2para fortalecerse con la f de FaraónH4581
+- Isa_30:3pero la f de Faraón se os cambiará enH4581
+- Isa_37:3de nacer, y la que da a luz no tiene fH3581
+- Isa_40:26la grandeza de su f, y el poder de suH202
+- Isa_40:29da...y multiplica las f al que no tieneH6109
+- Isa_40:31que esperan a Jehová tendrán nuevas fH3581
+- Isa_42:25el ardor de su ira, y f de guerra; leH5807
+- Isa_43:17que saca carro y caballo, ejército y fH5808
+- Isa_44:12y trabaja en ello con la f de su brazoH3581
+- Isa_44:12y le faltan las f; no bebe agua, y seH3581
+- Isa_45:24en Jehová está la justicia y la f; a élH5797
+- Isa_47:9en toda su f vendrán sobre ti, a pesarH8537
+- Isa_49:4vano y sin provecho he consumido mis fH3581
+- Isa_49:5estimado seré...y el Dios mío será mi fH5797
+- Jer_16:19oh Jehová, fortaleza mía y f mía, yH5797
+- Jer_48:45Hesbón se pararon sin f los que huíanH3581
+- Jer_51:30les faltaron las f, se volvieron comoH1369
+- Lam_1:6fueron...sin f delante del perseguidorH3581
+- Lam_1:14ha debilitado mis f; me ha entregado elH3581
+- Lam_3:18dije: Perecieron mis f, y mi esperanzaH5331
+- Dan_2:23me has dado sabiduría y f, y ahora meH1370
+- Dan_2:37el Dios del cielo te ha dado...poder, fH8632
+- Dan_2:41mas habrá en él algo de la f del hierroH5326
+- Dan_4:30que yo edifiqué...con la f de mi poderH8632
+- Dan_8:6corrió contra él con la furia de su fH3581
+- Dan_8:7carnero no tenía f para pararse delanteH3581
+- Dan_8:8estando en su mayor f, aquel gran cuernoH6105
+- Dan_8:22se levantarán...aunque no con la f de élH3581
+- Dan_8:24se fortalecerá, mas no con f propiaH3581
+- Dan_10:8no quedó f en mí, antes mi f se cambióH3581
+- Dan_10:16sobrevenido dolores, y no me queda fH3581
+- Dan_10:17me faltó la f, y no me quedó alientoH3581
+- Dan_10:19recobré las f, y dije: Hable mi señorH2388
+- Dan_11:6ella no podrá retener la f de su brazoH3581
+- Dan_11:15y las f del sur no podrán sostenerseH2220
+- Dan_11:15sur no podrán...no habrá f para resistirH3581
+- Dan_11:22las f enemigas serán barridas delanteH2220
+- Dan_11:25despertará sus f...contra el rey delH3581
+- Ose_7:9devoraron extraños su f...él no lo supoH3581
+- Amó_2:14y al fuerte no le ayudará su f, ni elH3581
+- Amó_6:13¿no hemos adquirido poder con nuestra f?[[H2392]]
+- Miq_3:8estoy lleno de...y de f, para denunciarH1369
+- Hab_1:11ofenderá atribuyendo su f a su diosH3581
+- Hag_2:22destruiré la f de los reinos de lasH2392
+- Zac_4:6no con ejército, ni con f, sino con miH3581
+- Zac_12:5tienen f los habitantes de Jerusalén enH556
+- Mar_12:30amarás al Señor tu...con todas tus fG2479
+- Mar_12:33y el amarle...con todas las f, y amar alG2479
+- Luc_10:19potestad...y sobre toda f del enemigoG1411
+- Luc_10:27amarás al Señor...Dios con todas tus fG2479
+- Hec_9:19habiendo tomado alimento, recobró fG1765
+- 2Co_1:8abrumados...más allá de nuestras fG1411
+- 2Co_8:3conforme a sus f, y...más allá de sus fG1411
+- Efe_1:19según la operación del poder de su fG1411
+- Efe_6:10fortaleceos en el...en el poder de su fG2479
+- 2Ti_4:17Señor estuvo a mi lado, y me dio fG1743
+- Heb_11:11misma Sara...recibió f para concebirG1411
+- Heb_11:34sacaron f de debilidad, se hicieronG1743
+- 1Pe_5:2no por f, sino voluntariamente; noG317
+- 2Pe_2:11los ángeles, que son mayores en f yG2479
+- Rev_1:16y su rostro era como el sol...en su fG1411
+- Rev_3:8aunque tienes poca f, has guardado miG1411

@@ -1,0 +1,179 @@
+---
+tipo: concordancia
+palabra: ACEITE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ACEITE
+
+- Gén_28:18la alzó...y derramó a encima de ellaH8081
+- Gén_35:14erigió una señal...y echó sobre ella aH8081
+- Éxo_25:6a para el alumbrado, especias para elH8081
+- Éxo_27:20mandarás...te traigan a puro de olivasH8081
+- Éxo_29:2y tortas sin levadura amasadas con aH8081
+- Éxo_29:2y hojaldres sin levadura untadas con aH8081
+- Éxo_29:7luego tomarás el a de la unción, y loH8081
+- Éxo_29:21el a de la unción, rociarás sobre AarónH8081
+- Éxo_29:23una torta de pan de a, y una hojaldreH8081
+- Éxo_29:40amasada...la cuarta parte de un hin de aH8081
+- Éxo_30:24de casia quinientos...a de olivas un hinH8081
+- Éxo_30:25el a de...será el a de la unción santaH8081
+- Éxo_30:31este será mi a de la santa unción porH8081
+- Éxo_31:11el a de la unción, y el incienso paraH8081
+- Éxo_35:8a...alumbrando, especias para el a de laH8081
+- Éxo_35:14sus lámparas, y el a para el alumbradoH8081
+- Éxo_35:15el altar...a de la unción, el inciensoH8081
+- Éxo_35:28el a para el alumbrado...a de la unciónH8081
+- Éxo_37:29el a santo de la unción, y el inciensoH8081
+- Éxo_39:37sus utensilios, el a para el alumbradoH8081
+- Éxo_39:38altar...el a de la unción, el inciensoH8081
+- Éxo_40:9tomarás el a de la unción y ungirás elH8081
+- Lev_2:1flor de harina, sobre la cual echará aH8081
+- Lev_2:2puño lleno de la flor de harina y del aH8081
+- Lev_2:4tortas de flor de harina amasadas con aH8081
+- Lev_2:4y hojaldres sin levadura untadas con aH8081
+- Lev_2:5será de flor de harina sin...amasada con aH8081
+- Lev_2:6piezas, y echarás sobre ella a; es ofrendaH8081
+- Lev_2:7la ofrenda...hará de flor de harina con aH8081
+- Lev_2:15pondrás sobre ella a y...incienso; esH8081
+- Lev_2:16hará arder...parte del grano...y del aH8081
+- Lev_5:11no pondrá sobre ella a, ni...inciensoH8081
+- Lev_6:15tomará...su a, y todo el incienso queH8081
+- Lev_6:21en sartén se preparará con a; frita laH8081
+- Lev_7:10y toda ofrenda amasada con a, o secaH8081
+- Lev_7:12tortas sin levadura amasadas con a, yH8081
+- Lev_7:12hojaldres sin levadura untadas con aH8081
+- Lev_7:12harina frita en tortas amasadas con aH8081
+- Lev_8:2toma...las vestiduras, el a de la unciónH8081
+- Lev_8:10tomó Moisés el a de la unción y ungióH8081
+- Lev_8:12derramó del a...sobre la cabeza de AarónH8081
+- Lev_8:26tomó una torta...una torta de pan de aH8081
+- Lev_8:30luego tomó Moisés del a de la unciónH8081
+- Lev_9:4un carnero...y una ofrenda amasada con aH8081
+- Lev_10:7el a de la unción...está sobre vosotrosH8081
+- Lev_14:10ofrenda amasada con a, y un log de aH8081
+- Lev_14:12ofrecerá por la culpa, con el log de aH8081
+- Lev_14:15tomará del log de a...y lo echará sobreH8081
+- Lev_14:16dedo derecho en el a...esparcirá del aH8081
+- Lev_14:17-18de lo que quedare del a que tieneH8081
+- Lev_14:21de harina amasada con a para ofrendaH8081
+- Lev_14:21flor de harina amasada...y un log de aH8081
+- Lev_14:24el log de a, y los mecerá el sacerdoteH8081
+- Lev_14:26echará...a sobre la palma de su manoH8081
+- Lev_14:27el sacerdote rociará el a que tieneH8081
+- Lev_14:28pondrá del a...el lóbulo de la orejaH8081
+- Lev_14:29lo que sobre del a...lo pondrá sobre laH8081
+- Lev_21:10sobre cuya cabeza fue derramado el aH8081
+- Lev_21:12consagración por el a...está sobre élH8081
+- Lev_23:13ofrenda...flor de harina amasada con aH8081
+- Lev_24:2que te traigan para el alumbrado a puroH8081
+- Núm_4:9sus utensilios del a con que se sirveH8081
+- Núm_4:16cargó de Eleazar...el a del alumbradoH8081
+- Núm_4:16la ofrenda continua y el a de la unciónH8081
+- Núm_5:15no echará sobre ella a, ni pondrá sobreH8081
+- Núm_6:15tortas...amasadas con a...untadas con aH8081
+- Núm_7:13, Núm_7:19, Núm_7:25, Núm_7:31, Núm_7:37, Núm_7:43, Núm_7:49, Núm_7:55, Núm_7:61, Núm_7:67, Núm_7:73, Núm_7:79flor de harina amasada con aH8081
+- Núm_8:8ofrenda de flor de harina amasada con aH8081
+- Núm_11:8su sabor era como sabor de a nuevoH8081
+- Núm_15:4efa...con la cuarta parte de un hin de aH8081
+- Núm_15:6ofrenda...flor de harina, amasada con...aH8081
+- Núm_15:9amasada con la mitad de un hin de aH8081
+- Núm_18:12de a, de mosto y de trigo...escogidoH8081
+- Núm_28:5de harina, amasada con...de a de olivasH8081
+- Núm_28:9, Núm_28:12(2),13,20,28; Núm_29:3, Núm_29:9, Núm_29:14flor de harina amasada con aH8081
+- Núm_35:25el cual fue ungido con el a santoH8081
+- Deu_7:13bendecirá...tu a, la cría de tus vacasH3323
+- Deu_8:8trigo...tierra de olivos, de a y de mielH8081
+- Deu_11:14y recogerás tu grano, tu vino y tu aH3323
+- Deu_12:17el diezmo...de tu a, ni las primiciasH3323
+- Deu_14:23el diezmo...de tu a, y las primicias deH3323
+- Deu_18:4las primicias de...de tu vino y de tu aH3323
+- Deu_28:40olivos en...mas no te ungirás con el aH8081
+- Deu_28:51no te dejará...mosto, ni a, ni la críaH3323
+- Deu_32:13hizo que chupase...a del duro pedernalH8081
+- Deu_33:24bendito...sea Aser, y moje en a su pieH8081
+- Jue_9:9¿he de dejar mi a, con el cual en míH1880
+- 1Sa_10:1tomando...Samuel una redoma de a, laH8081
+- 1Sa_16:1llena tu cuerno de a, y...te enviaré aH8081
+- 1Sa_16:13Samuel tomó el cuerno...a, y lo ungióH8081
+- 2Sa_1:21como si no hubiera sido ungido con aH8081
+- 1Re_1:39tomando...Sadoc el cuerno del a delH8081
+- 1Re_5:11daba a Hiram...veinte coros de a puroH8081
+- 1Re_17:12tengo...y un poco de a en una vasijaH8081
+- 1Re_17:14ni el a de la vasija disminuirá, hastaH8081
+- 1Re_17:16la harina...ni el a de la vasija menguóH8081
+- 2Re_4:2ninguna cosa...sino una vasija de aH8081
+- 2Re_4:5traían las vasijas, y ella echaba del aH8081
+- 2Re_4:6no hay más vasijas. Entonces cesó el aH8081
+- 2Re_4:7y vende el a, y paga a tus acreedoresH8081
+- 2Re_9:1toma esta redoma de a en tu mano, y véH8081
+- 2Re_9:3toma luego la redoma de a, y derrámalaH8081
+- 2Re_9:6y el otro derramó el a sobre su cabezaH8081
+- 2Re_18:32tierra...de a, y de miel; y viviréisH3323
+- 1Cr_9:29tenían el cargo...del vino, del aH8081
+- 1Cr_12:40trajeron...pasas, vino y a, y bueyesH8081
+- 1Cr_27:28de los...de los almacenes del a, JoásH8081
+- 2Cr_2:10de vino, y veinte mil batos de aH8081
+- 2Cr_2:15envío mi señor...cebada, y a y vino, queH8081
+- 2Cr_11:11fortaleza, y puso en ellas...vino y aH8081
+- 2Cr_31:5primicias de grano, vino, a, miel, y deH3323
+- 2Cr_32:28hizo depósitos para las rentas...del aH3323
+- Esd_3:7y dieron...a a los sidonios y tiriosH3323
+- Esd_6:9vino y a, conforme a lo que dijeren losH4887
+- Esd_7:22y cien batos de a; y sal sin medidaH4887
+- Neh_5:11centésima parte del dinero...y del aH3323
+- Neh_10:37primicias...del a, para los sacerdotesH3323
+- Neh_10:39la ofrenda del grano, del vino y del aH3323
+- Neh_13:5guardaban...el diezmo...del vino y del aH3323
+- Neh_13:12todo Judá trajo el diezmo...y del a, aH3323
+- Job_24:11dentro de sus paredes exprimen el aH6671
+- Job_29:6y la piedra me derramaba ríos de a![[H8081]]
+- Sal_23:5unges mi cabeza con a; mi copa estáH8081
+- Sal_55:21suaviza sus palabras más que el a, masH8081
+- Sal_92:10mis fuerzas...seré ungido con a frescoH8081
+- Sal_104:15el a que hace brillar el rostro, y elH8081
+- Sal_109:18entró como agua en...a en sus huesosH8081
+- Pro_5:3y su paladar es más blando que el aH8081
+- Pro_21:20tesoro...y a hay en la casa del sabioH8081
+- Pro_27:16como...sujetar el a en la mano derechaH8081
+- Isa_1:6no están...vendadas, ni suavizadas con aH8081
+- Jer_31:12al pan, al vino, al a, y al ganadoH3323
+- Jer_40:10tomad el...el a y ponedlo en vuestrosH8081
+- Jer_41:8tesoros de trigos y cebadas y a y mielH8081
+- Eze_16:9lavé tus sangres de...y te ungí con aH8081
+- Eze_16:13comiste flor de harina de trigo...y aH8081
+- Eze_16:18y mi a y mi...pusisteis delante de ellasH8081
+- Eze_16:19el a y la miel, con que yo te mantuveH8081
+- Eze_23:41sobre ella pusiste mi incienso y mi aH8081
+- Eze_27:17con trigos...a y resina negociaban enH8081
+- Eze_32:14corren sus ríos como a, dice JehováH8081
+- Eze_45:14ordenanza para el a será...un bato de aH8081
+- Eze_45:24ofrecerá...y por cada efa un hin de aH8081
+- Eze_45:25en cuanto al presente y en cuanto al aH8081
+- Eze_46:5por ofrenda...y un hin de a con el efaH8081
+- Eze_46:7, Eze_46:11ofrenda...un hin de a con cada efaH8081
+- Eze_46:14la tercera parte de un hin de a paraH8081
+- Eze_46:15ofrecerán, pues...y la ofrenda y el aH8081
+- Ose_2:5que me dan...mi lino, mi a y mi bebidaH8081
+- Ose_2:8que yo le daba el trigo...el vino y el aH3323
+- Ose_2:22y la tierra responderá...al vino y al aH3323
+- Ose_12:1hicieron pacto...el a se lleva a EgiptoH8081
+- Joe_1:10trigo...secó el mosto, se perdió el aH3323
+- Joe_2:19yo os envío pan, mosto y a, y seréisH3323
+- Joe_2:24y los lagares rebosarán de vino y aH3323
+- Miq_6:7se agradará...de diez mil arroyos de a?[[H8081]]
+- Miq_6:15aceitunas, mas no te ungirás con el aH8081
+- Hag_1:11llamé la sequía...sobre el a, sobreH3323
+- Hag_2:12tocara pan...a, o cualquier otra comidaH8081
+- Zac_4:12tubos de...vierten de sí a como oro?
+- Mat_25:3las insensatas...no tomaron consigo aG1637
+- Mat_25:4las prudentes tomaron a en sus vasijasG1637
+- Mat_25:8dijeron...Dadnos de vuestro a; porqueG1637
+- Mar_6:13ungían con a a muchos enfermos, y losG1637
+- Luc_7:46no ungiste mi cabeza con a; mas éstaG1637
+- Luc_10:34vendó sus heridas, echándoles a y vinoG1637
+- Luc_16:6él dijo: Cien barriles de a. Y le dijoG1637
+- Stg_5:14ungiéndole con a en el nombre delG1637
+- Rev_6:6por un denario; pero no dañes el a niG1637
+- Rev_18:13a, flor de harina, trigo, bestiasG1637

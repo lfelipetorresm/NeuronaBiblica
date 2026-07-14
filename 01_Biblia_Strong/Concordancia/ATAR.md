@@ -1,0 +1,92 @@
+---
+tipo: concordancia
+palabra: ATAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ATAR
+
+- Gén_22:9ató a Isaac su hijo, y lo puso en elH6123
+- Gén_37:7que atábamos manojos en medio del campoH481
+- Gén_38:28tomó y ató a su mano un hilo de granaH7194
+- Gén_49:11atando a la vid su pollino, y a la cepaH631
+- Éxo_29:9y les atarás las tiaras, y tendrán elH2280
+- Éxo_39:21ataron el pectoral por sus anillos aH7405
+- Deu_6:8y las atarás como una señal en tu manoH7194
+- Deu_11:18las ataréis como señal en vuestra manoH7194
+- Jos_2:18tú atarás este cordón...a la ventanaH7194
+- Jos_2:21ella ató el cordón de grana a la ventanaH7194
+- Jue_15:13le ataron con dos cuerdas nuevasH631
+- Jue_16:5cómo...para que lo atemos y lo dominemosH631
+- Jue_16:6cómo podrás ser atado para ser dominadoH631
+- Jue_16:7si me ataren con siete mimbres verdes queH631
+- Jue_16:8siete mimbres...y ella le ató con ellosH631
+- Jue_16:10, Jue_16:13descúbreme...cómo podrás ser atadoH631
+- Jue_16:11Si me ataren...con cuerdas nuevas que noH631
+- Jue_16:12y Dalila tomó cuerdas nuevas, y le atóH631
+- Jue_16:21le ataron con cadenas para que molieseH631
+- 2Sa_3:34tus manos no estaban atadas, ni tusH631
+- 2Re_5:23ató dos talentos de plata en...bolsasH6696
+- 2Re_7:10sino caballos atados, asnos también aH631
+- 2Re_25:7y atado con...lo llevaron a BabiloniaH631
+- 2Cr_33:11; 2Cr_36:6llevó a Babilonia atado conH631
+- Job_12:18rompe...y les ata una soga a sus lomosH631
+- Job_26:8ata las aguas en sus nubes, y las nubesH6887
+- Job_36:13ira, y no clamarán cuando él los atareH631
+- Job_38:31¿podrás tú atar los lazos de...PléyadesH7194
+- Job_39:10¿atarás tú al búfalo con coyundas paraH7194
+- Job_41:5¿jugarás con...lo atarás para tus niñas?[[H7194]]
+- Sal_118:27atad víctimas con cuerdas a...altarH7194
+- Pro_3:3átalas a tu cuello, escríbelas en laH7194
+- Pro_6:21átalos siempre en tu corazón...tu cuelloH7194
+- Pro_30:4¿Quién ató las aguas en un paño? ¿QuiénH6887
+- Isa_8:16ata el testimonio, sella la ley entreH6887
+- Isa_22:3juntos huyeron del arco, fueron atadosH631
+- Isa_22:3que en ti se hallaron, fueron atadosH631
+- Jer_40:1cuando...estando atado con cadenasH631
+- Jer_51:63le atarás una piedra, y lo echarásH7194
+- Jer_52:11le sacó los ojos...y le ató con grillosH631
+- Lam_1:14yugo de mis rebeliones ha sido atadoH8244
+- Lam_3:53ataron mi vida en cisterna, pusieronH6789
+- Eze_5:3y los atarás en la falda de tu mantoH6696
+- Eze_24:17ata tu turbante...y pon tus zapatos enH2280
+- Dan_3:20que atasen a Sadrac, Mesac y Abed-negoH3729
+- Dan_3:21fueron atados con sus mantos, sus calzasH3729
+- Dan_3:23cayeron atados dentro del horno de fuegoH3729
+- Dan_3:24¿no echaron a tres varones atados dentroH3729
+- Ose_4:19el viento los ató en sus alas, y deH6887
+- Ose_10:10cuando sean atados por su doble crimenH631
+- Ose_13:12atada está la maldad de Efraín...pecadoH6887
+- Mat_12:29sus bienes, si primero no le ata?[[G1210]]
+- Mat_13:30recoged...la cizaña, y atadla en manojosG1210
+- Mat_16:19lo que atares en la tierra será atadoG1210
+- Mat_18:18lo que atéis en la tierra, será atadoG1210
+- Mat_21:2hallaréis una asna atada, y un pollinoG1210
+- Mat_22:13atadle de pies y manos, y echadle en lasG1210
+- Mat_23:4porque atan cargas...difíciles de llevarG1195
+- Mat_27:2y le llevaron atado, y le entregaron aG1210
+- Mar_3:27saquear sus bienes, si antes no le ataG1210
+- Mar_5:3nadie podía atarle, ni aun con cadenasG1210
+- Mar_5:4había sido atado con grillos y cadenasG1210
+- Mar_9:42le atase una piedra de molino al cuelloG4029
+- Mar_11:2hallaréis un pollino atado, en el cualG1210
+- Mar_11:4hallaron el pollino atado afuera a laG1210
+- Mar_15:1a Jesús atado, y le entregaron a PilatoG1210
+- Luc_8:29le ataban con cadenas y grillos, peroG1196
+- Luc_13:16esta hija de...que Satanás había atadoG1210
+- Luc_17:2que se le atase al cuello una piedra deG4029
+- Luc_19:30hallaréis un pollino atado, en el cualG1210
+- Jua_11:44salió, atadas las manos y los piesG1210
+- Jua_18:12judíos, prendieron a Jesús y le ataronG1210
+- Jua_18:24Anás entonces le envió atado a CaifásG1210
+- Hec_10:11que atado de las cuatro puntas eraG1210
+- Hec_12:8le dijo...Cíñete, y átate las sandaliasG5265
+- Hec_21:11y atándose los pies y las manos, dijoG1210
+- Hec_21:11así atarán los judíos...al varón de quienG1210
+- Hec_21:13yo estoy dispuesto no sólo a ser atadoG1210
+- Hec_21:33prendió y le mandó atar con dos cadenasG1210
+- Hec_22:25pero cuando le ataron...Pablo dijo alG4385
+- Hec_22:29también tuvo temor por haberle atadoG1210
+- Rev_9:14desata a los...ángeles que están atadosG1210
+- Rev_20:2prendió al dragón...lo ató por mil añosG1210

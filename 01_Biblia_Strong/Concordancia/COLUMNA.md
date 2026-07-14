@@ -1,0 +1,110 @@
+---
+tipo: concordancia
+palabra: COLUMNA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# COLUMNA
+
+- Éxo_13:21una c de nube...una c de fuego paraH5982
+- Éxo_13:22la c de nube de día, ni de noche la cH5982
+- Éxo_14:19la c de nube que iba delante de ellosH5982
+- Éxo_14:24Jehová miró el campamento...desde la cH5982
+- Éxo_24:4doce c, según las doce tribus de IsraelH4676
+- Éxo_26:32lo pondrás sobre cuatro c de maderaH5982
+- Éxo_26:37harás para la cortina cinco c de maderaH5982
+- Éxo_27:10-11sus veinte c...los capiteles de las cH5982
+- Éxo_27:12cortinas...c diez, con sus diez basasH5982
+- Éxo_27:14-15sus c tres, con sus tres basasH5982
+- Éxo_27:16sus c cuatro, con sus cuatro basasH5982
+- Éxo_27:17c alrededor del atrio estarán ceñidasH5982
+- Éxo_33:9Moisés entraba...la c de nube descendíaH5982
+- Éxo_33:10y viendo todo el pueblo la c de nubeH5982
+- Éxo_35:11tablas, sus barras, sus c y sus basasH5982
+- Éxo_35:17c y sus basas, la cortina de la puertaH5982
+- Éxo_36:36él hizo cuatro c de madera de acaciaH5982
+- Éxo_36:38cinco c con sus capiteles; y cubrió deH5982
+- Éxo_38:10-11sus c eran veinte...capiteles de las cH5982
+- Éxo_38:12sus c diez, y...los capiteles de las cH5982
+- Éxo_38:14-15cortinas...tres c y sus tres basasH5982
+- Éxo_38:17las basas de las c eran de bronce, losH5982
+- Éxo_38:17los capiteles de las c y sus moldurasH5982
+- Éxo_38:17c del atrio tenían molduras de plataH5982
+- Éxo_38:19sus c eran cuatro, con sus cuatro basasH5982
+- Éxo_38:28hizo los capiteles de las c, y cubrióH5982
+- Éxo_39:33tablas, sus barras, sus c, sus basasH5982
+- Éxo_39:40sus c y sus basas, la cortina para laH5982
+- Éxo_40:18y puso sus barras, e hizo alzar sus cH5982
+- Núm_3:36sus c, sus basas y todos sus enseresH5982
+- Núm_3:37y las c alrededor del atrio, sus basasH5982
+- Núm_4:31tablas del tabernáculo...c y sus basasH5982
+- Núm_4:32las c del atrio alrededor y sus basasH5982
+- Núm_12:5Jehová descendió en la c de la nube, yH5982
+- Núm_14:14en c de nube, y de noche en c de fuegoH5982
+- Deu_31:15se apareció Jehová...en la c de nubeH5982
+- Deu_31:15la c de nube se puso sobre la puertaH5982
+- Jue_16:25a Sansón...y lo pusieron entre las cH5982
+- Jue_16:26acércame, y hazme palpar las c sobreH5982
+- Jue_16:29asió luego Sansón...dos c de en medioH5982
+- Jue_20:40cuando la c de humo comenzó a subir deH5982
+- 1Sa_2:8de Jehová son las c de la tierra, yH4690
+- 2Sa_18:18había...erigido una c...en el valleH4678
+- 2Sa_18:18llamó aquella c por su...C de AbsalónH4678
+- 1Re_7:2sobre cuatro hileras de c de cedroH5982
+- 1Re_7:2la casa...con vigas de cedro sobre las cH5982
+- 1Re_7:3vigas...45 c; cada hilera tenía quince cH5982
+- 1Re_7:6también hizo un pórtico de c...con sus cH5982
+- 1Re_7:15vació dos c de bronce; la altura de cadaH5982
+- 1Re_7:16para que fuesen puestos sobre...de las cH5982
+- 1Re_7:17que se habían de poner sobre...de las cH5982
+- 1Re_7:18los capiteles...en las cabezas de las cH5982
+- 1Re_7:19los capiteles...sobre las c en el pórticoH5982
+- 1Re_7:20tenían...los capiteles de las dos c, 200H5982
+- 1Re_7:21estas c erigió en el pórtico del temploH5982
+- 1Re_7:21alzado la c del lado derecho, le pusoH5982
+- 1Re_7:21atando la c del lado izquierdo, llamóH5982
+- 1Re_7:22puso en las cabezas de las c tallado enH5982
+- 1Re_7:22lirios, y así se acabó la obra de las cH5982
+- 1Re_7:41c, y los capiteles redondos que estabanH5982
+- 1Re_7:41los capiteles...en lo alto de las dos cH5982
+- 1Re_7:41-42que estaba sobre la cabeza de las cH5982
+- 2Re_11:14el rey estaba junto a la c, conformeH5982
+- 2Re_23:3poniéndose el rey en pie junto a la cH5982
+- 2Re_25:13quebraron los caldeos las c de broncoH5982
+- 2Re_25:16dos c, un mar, y las basas que SalomónH5982
+- 2Re_25:17la altura de una c era de 18 codos, yH5982
+- 2Re_25:17e igual labor había en la otra c con suH5982
+- 1Cr_18:8con el que Salomón hizo el mar...cH5982
+- 2Cr_3:15hizo dos c de 35 codos de alturaH5982
+- 2Cr_3:16las puso sobre los capiteles de las cH5982
+- 2Cr_3:17colocó las c delante del templo, una aH5982
+- 2Cr_4:12dos c...los capiteles sobre...las dos cH5982
+- 2Cr_4:12-13capiteles que estaban encima de las cH5982
+- 2Cr_23:13vio al rey que estaba junto a su c aH5982
+- Neh_9:12c de nube...de día, y con c de fuegoH5982
+- Neh_9:19c de nube no se apartó de ellos de díaH5982
+- Neh_9:19no se apartó...ni de noche la c de fuegoH5982
+- Est_1:6anillos de plata y c de mármol; losH5982
+- Job_9:6remueve la tierra...hace temblar sus cH5982
+- Job_26:11c del cielo tiemblan, y se espantan aH5982
+- Sal_75:3y sus moradores; yo sostengo sus cH5982
+- Sal_99:7c de nube hablaba con ellos; guardabanH5982
+- Pro_9:1la sabiduría edificó...labró sus siete cH5982
+- Cnt_3:6que sube del desierto como c de humoH8490
+- Cnt_3:10sus c de plata, su respaldo de oro, suH5982
+- Cnt_5:15sus piernas, como c de mármol fundadasH5982
+- Jer_1:18que yo te he puesto...como c de hierroH5982
+- Jer_27:19acerca de aquellas c, del estanque, deH5982
+- Jer_52:17los caldeos quebraron las c de bronceH5982
+- Jer_52:20las dos c, un mar, y los doce bueyesH5982
+- Jer_52:21a las c la altura de cada c era de 18H5982
+- Jer_52:22lo mismo era lo de la segunda c con susH5982
+- Eze_26:11y tus fuertes c caerán a tierraH4676
+- Eze_40:49y había c junto a los postes, una deH5982
+- Eze_42:6no tenían c como las c de los atriosH5982
+- Joe_2:30y daré...sangre, y fuego, y c de humoH8490
+- Gál_2:9y Juan, que eran considerados como cH4769
+- 1Ti_3:15iglesia...c y baluarte de la verdadG4769
+- Rev_3:12venciere, yo lo haré c en el temploG4769
+- Rev_10:1otro ángel...y sus pies como c de fuegoG4769

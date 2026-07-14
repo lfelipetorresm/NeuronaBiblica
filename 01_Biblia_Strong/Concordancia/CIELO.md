@@ -1,0 +1,725 @@
+---
+tipo: concordancia
+palabra: CIELO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CIELO
+
+- Gén_1:1el principio creó Dios los c y la tierraH8064
+- Gén_1:8y llamó Dios a la expansión C. Y fue laH8064
+- Gén_1:9júntense las aguas que...debajo de los cH8064
+- Gén_1:14-15lumbreras en la expansión de los cH8064
+- Gén_1:17las puso Dios en la expansión de los cH8064
+- Gén_1:20aves...en la abierta expansión de los cH8064
+- Gén_1:26señoree...en las aves de los c, en lasH8064
+- Gén_1:28señoread...en las aves de los c, y en todasH8064
+- Gén_1:30a todas las aves de los c, y a todo loH8064
+- Gén_2:1fueron, pues, acabados los c y la tierraH8064
+- Gén_2:4estos son los orígenes de los c y de laH8064
+- Gén_2:4el día que Jehová Dios hizo la...y los cH8064
+- Gén_2:19Jehová Dios formó...toda ave de los cH8064
+- Gén_2:20puso Adán nombre a toda...ave de los cH8064
+- Gén_6:7y hasta el reptil y las aves del c; puesH8064
+- Gén_6:17carne en que haya...de vida debajo del cH8064
+- Gén_7:3aves de los c, siete parejas, macho yH8064
+- Gén_7:11las cataratas de los c fueron abiertasH8064
+- Gén_7:19todos los montes altos...debajo de...los cH8064
+- Gén_7:23destruido...el hombre hasta...aves del cH8064
+- Gén_8:2las cataratas de los c...la lluvia de los cH8064
+- Gén_9:2el temor...estarán sobre toda ave de los cH8064
+- Gén_11:4y una torre, cuya cúspide llegue al cH8064
+- Gén_14:19, Gén_14:22creador de los c y de la tierraH8064
+- Gén_15:5mira ahora los c, y cuenta las estrellasH8064
+- Gén_19:24fuego de parte de Jehová desde los cH8064
+- Gén_21:17ángel de Dios llamó a Agar desde el cH8064
+- Gén_22:11el ángel de Jehová le dio voces del cH8064
+- Gén_22:15llamó el ángel...segunda vez desde el cH8064
+- Gén_22:17descendencia como las estrellas del cH8064
+- Gén_24:3Dios de los c y Dios de la tierra, queH8064
+- Gén_24:7Dios de los c, que me tomó de la casaH8064
+- Gén_26:4descendencia como las estrellas del cH8064
+- Gén_27:28Dios, pues, te dé del rocío del c, yH8064
+- Gén_27:39será tu...del rocío de los c de arribaH8064
+- Gén_28:12una escalera...su extremo tocaba en el cH8064
+- Gén_28:17lugar...casa de Dios, y puerta del cH8064
+- Gén_49:25con bendiciones de los c de arriba, conH8064
+- Éxo_9:8la esparcirá Moisés hacia el c delanteH8064
+- Éxo_9:10ceniza...la esparció Moisés hacia el cH8064
+- Éxo_9:22extiende tu mano hacia el c, para queH8064
+- Éxo_9:23y Moisés extendió su vara hacia el cH8064
+- Éxo_10:21extiende tu mano hacia el c, para queH8064
+- Éxo_10:22y extendió Moisés su mano hacia el cH8064
+- Éxo_16:4Jehová dijo...yo os haré llover pan del cH8064
+- Éxo_17:14la memoria de Amale c de debajo del cH8064
+- Éxo_20:4ni ninguna semejanza de...arriba en el cH8064
+- Éxo_20:11seis días hizo Jehová los c y la tierraH8064
+- Éxo_20:22que he hablado desde el c con vosotrosH8064
+- Éxo_24:10semejante al c cuando está serenoH8064
+- Éxo_31:17seis días hizo Jehová los c y la tierraH8064
+- Éxo_32:13descendencia como las estrellas del cH8064
+- Lev_26:19haré vuestro c como hierro, y vuestraH8064
+- Deu_1:10vosotros sois como las estrellas del cH8064
+- Deu_1:28las ciudades...y amuralladas hasta el cH8064
+- Deu_2:25sobre los pueblos debajo de todo el cH8064
+- Deu_3:24¿qué dios hay en el c...que haga obrasH8064
+- Deu_4:11el monte ardía...hasta en medio de los cH8064
+- Deu_4:19alces tus ojos al c...el ejército del cH8064
+- Deu_4:19todos los pueblos debajo de todos los cH8064
+- Deu_4:26yo pongo hoy por testigos al c y...tierraH8064
+- Deu_4:32si desde un extremo del c al otro se haH8064
+- Deu_4:36desde los c te hizo oír su voz, para queH8064
+- Deu_4:39Jehová es Dios arriba en el c y abajo enH8064
+- Deu_5:8imagen...de cosa que está arriba en los cH8064
+- Deu_7:24destruirás el nombre de...de debajo del cH8064
+- Deu_9:1ciudades grandes y amuralladas hasta el cH8064
+- Deu_9:14borre su nombre de debajo del c, y yo teH8064
+- Deu_10:14de Jehová...son los c, y los c de los cH8064
+- Deu_10:22te ha hecho como las estrellas del c enH8064
+- Deu_11:11que bebe las aguas de la lluvia del cH8064
+- Deu_11:17y cierre los c, y no haya lluvia, ni laH8064
+- Deu_11:21como los días de los c sobre la tierraH8064
+- Deu_17:3inclinado a...o a todo el ejército del cH8064
+- Deu_25:19borrarás la memoria de Amalec...del cH8064
+- Deu_26:15mira...desde el c, y bendice a...IsraelH8064
+- Deu_28:12te abrirá Jehová su buen tesoro, el cH8064
+- Deu_28:23los c...sobre tu cabeza serán de bronceH8064
+- Deu_28:24de los c descenderán sobre ti hasta queH8064
+- Deu_28:26servirán de comida a toda ave del c yH8064
+- Deu_28:62de haber sido como las estrellas del cH8064
+- Deu_29:20tal hombre...su nombre de debajo del cH8064
+- Deu_30:4partes más lejanas que hay debajo del cH8064
+- Deu_30:12no está en el c, para que digas: ¿QuiénH8064
+- Deu_30:12¿quién subirá...al c, y nos lo traerá yH8064
+- Deu_30:19a los c...llamo por testigos hoy contraH8064
+- Deu_31:28llamaré por testigos...c y a la tierraH8064
+- Deu_32:1escuchad, c, y hablaré; y oiga la tierraH8064
+- Deu_32:40alzaré a los c mi mano, y diré: VivoH8064
+- Deu_33:13bendita...con lo mejor de los c, con elH8064
+- Deu_33:26cabalga sobre los c para tu ayuda, yH8064
+- Deu_33:28de vino; también sus c destilarán rocíoH8064
+- Jos_2:11Jehová...Dios es Dios arriba en los cH8064
+- Jos_8:20que el humo de la ciudad subía al c, yH8064
+- Jos_10:11desde el c grandes piedras sobre ellosH8064
+- Jos_10:13el sol se paró en medio del c, y no seH8064
+- Jue_5:4la tierra tembló, y los c destilaronH8064
+- Jue_5:20desde los c pelearon las estrellas; desdeH8064
+- Jue_13:20la llama subía del altar hacia el cH8064
+- Jue_20:40vieron...el humo de la ciudad subía al cH8064
+- 1Sa_2:10y sobre ellos tronará desde los cH8064
+- 1Sa_5:12y el clamor de la ciudad subía al cH8064
+- 1Sa_17:44ven...y daré tu carne a las aves del cH8064
+- 1Sa_17:46daré hoy los cuerpos...a las aves del cH8064
+- 2Sa_18:9quedó suspendido entre el c...tierraH8064
+- 2Sa_21:10hasta que llovió sobre ellos agua del cH8064
+- 2Sa_21:10ninguna ave del c se posase sobre ellosH8064
+- 2Sa_22:8se conmovieron los cimientos de los cH8064
+- 2Sa_22:10e inclinó los c, y descendió; y habíaH8064
+- 2Sa_22:14tronó desde los c Jehová...dio su vozH8064
+- 1Re_8:22del altar...extendiendo sus manos al cH8064
+- 1Re_8:23arriba en los c ni abajo en la tierraH8064
+- 1Re_8:27que los c, los c de los c, no te puedenH8064
+- 1Re_8:30tú lo oirás en el lugar de tu...en los cH8064
+- 1Re_8:32oirás desde el c...Juzgarás a tus siervosH8064
+- 1Re_8:34, 1Re_8:36tú oirás en los c, y perdonarás elH8064
+- 1Re_8:35el c se cerrare y no lloviere, por haberH8064
+- 1Re_8:39, 1Re_8:43, 1Re_8:49tú oirás en los c, en el lugar de tuH8064
+- 1Re_8:45tú oirás en los c su oración y su súplicaH8064
+- 1Re_8:54se levantó...sus manos extendidas al cH8064
+- 1Re_14:11el que muera...lo comerán las aves del cH8064
+- 1Re_16:4muerto en el, lo comerán las aves del cH8064
+- 1Re_18:45que los c se oscurecieron con nubes yH8064
+- 1Re_21:24muerto en el...lo comerán las aves del cH8064
+- 1Re_22:19el ejército de los c estaba junto a élH8064
+- 2Re_1:10, 2Re_1:12descienda fuego del c, y consúmateH8064
+- 2Re_1:10, 2Re_1:12y descendió fuego del c...lo consumióH8064
+- 2Re_1:14he aquí ha descendido fuego del c, y haH8064
+- 2Re_2:1a Elías en un torbellino al c, Elías veníaH8064
+- 2Re_2:11y Elías subió al c en un torbellinoH8064
+- 2Re_7:2, 2Re_7:19si Jehová hiciese...ventanas en el cH8064
+- 2Re_14:27raer el nombre de Israel de debajo...cH8064
+- 2Re_17:16adoraron a todo el ejército de los cH8064
+- 2Re_19:15sólo tú...tú hiciste el c y la tierraH8064
+- 2Re_21:3y adoró a todo el ejército de los c, yH8064
+- 2Re_21:5altares para todo el ejército de los cH8064
+- 2Re_23:4hechos para...todo el ejército de los cH8064
+- 2Re_23:5incienso...a todo el ejército de los cH8064
+- 1Cr_16:26son ídolos; mas Jehová hizo los cH8064
+- 1Cr_16:31alégrense los c, y gócese la tierraH8064
+- 1Cr_21:16vio al ángel...entre el c y la tierraH8064
+- 1Cr_21:26le respondió por fuego desde los c enH8064
+- 1Cr_27:23multiplicaría a Israel como las...del cH8064
+- 1Cr_29:11las cosas están en los c...son tuyasH8064
+- 2Cr_2:6que los c y los c de los c no puedenH8064
+- 2Cr_2:12hizo los c y la tierra, y que dio al reyH8064
+- 2Cr_6:13se arrodilló...y extendió sus manos al cH8064
+- 2Cr_6:14no hay Dios semejante a ti en el c ni enH8064
+- 2Cr_6:18c y los c de los c no te pueden contenerH8064
+- 2Cr_6:21tú oirás desde los c, desde el lugar deH8064
+- 2Cr_6:23tú oirás...los c, y actuarás, y juzgarásH8064
+- 2Cr_6:25, 2Cr_6:27tú oirás desde los c, y perdonarás elH8064
+- 2Cr_6:26los c se cerraren y no hubieren lluviasH8064
+- 2Cr_6:30, 2Cr_6:33, 2Cr_6:39oirás desde los c, desde el lugarH8064
+- 2Cr_6:35oirás desde los c su oración y su ruegoH8064
+- 2Cr_7:1descendió fuego de los c y consumió elH8064
+- 2Cr_7:13yo cerrare los c para que no haya lluviaH8064
+- 2Cr_7:14yo oiré desde los c, y perdonaré susH8064
+- 2Cr_18:18el ejército de los c estaba a su manoH8064
+- 2Cr_20:6¿no eres tú Dios en los c, y tienesH8064
+- 2Cr_28:9matado con ira que ha llegado hasta el cH8064
+- 2Cr_30:27su oración llegó a...su santuario, al cH8064
+- 2Cr_32:20Ezequías y el...oraron...y clamaron al cH8064
+- 2Cr_33:3adoró a todo el ejército de los c, y lesH8064
+- 2Cr_33:5altares a todo el ejército de los c enH8064
+- 2Cr_36:23Jehová, el Dios de los c, me ha dadoH8064
+- Esd_1:2Dios de los c me ha dado todos losH8064
+- Esd_5:11siervos del Dios del c y de la tierraH8065
+- Esd_5:12padres provocaron a ira al Dios de los cH8065
+- Esd_6:9para holocaustos al Dios del c, trigo, salH8065
+- Esd_6:10que ofrezcan sacrificios...al Dios del cH8065
+- Esd_7:12erudito en la ley del Dios del c: PazH8065
+- Esd_7:21Esdras, escriba de la ley del Dios del cH8065
+- Esd_7:23todo lo que es mandado por el Dios del cH8065
+- Esd_7:23sea hecho...para la casa del Dios del cH8065
+- Esd_9:6nuestros delitos han crecido hasta el cH8065
+- Neh_1:4ayuné y oré delante del Dios de los cH8065
+- Neh_1:5oh Jehová, Dios de los c, fuerte, grandeH8065
+- Neh_1:9fuere hasta el extremo de los c, de allíH8065
+- Neh_2:4me dijo...Entonces oré al Dios de los cH8064
+- Neh_2:20el Dios de los c, él nos prosperará, yH8064
+- Neh_9:6tú hiciste los c, y los c de los c, conH8064
+- Neh_9:6tú solo...los ejércitos de los c te adoranH8064
+- Neh_9:13y hablaste con ellos desde el c, y lesH8064
+- Neh_9:15les diste pan del c en su hambre, y enH8064
+- Neh_9:23sus hijos como las estrellas del c, y losH8064
+- Neh_9:27clamaron a ti...tú desde los c los oísteH8064
+- Neh_9:28y tú desde los c los oías, y según tusH8064
+- Job_1:16fuego de Dios cayó del c, que quemóH8064
+- Job_2:12los tres esparcieron polvo...hacia el cH8064
+- Job_9:8él solo extendió los c, y anda sobre lasH8064
+- Job_11:8es más alta que los c, ¿qué harás?[[H8064]]
+- Job_12:7aves de los c, y ellas te lo mostraránH8064
+- Job_14:12hasta que no haya c, no despertarán, niH8064
+- Job_15:15ni aun los c son limpios delante de susH8064
+- Job_16:19he aquí que en los c está mi testigoH8064
+- Job_20:6aunque subiere su altivez hasta el cH8064
+- Job_20:27c descubrirán su iniquidad, y la tierraH8064
+- Job_22:12¿no está Dios en la altura de los c?[[H8064]]
+- Job_22:14no ve; y por el circuito del c se paseaH8064
+- Job_26:11las columnas del c tiemblan...espantanH8064
+- Job_26:13su espíritu adornó los c; su mano creóH8064
+- Job_28:21viviente, y a toda ave del c es ocultaH8064
+- Job_28:24mira hasta...y ve cuanto hay bajo los cH8064
+- Job_35:5mira a los c, y ve, y considera que lasH8064
+- Job_35:11nos hace sabios más que a las aves del c?[[H8064]]
+- Job_37:3debajo de todos los c lo dirige, y suH8064
+- Job_37:18¿extendiste tú con él los c, firmesH7834
+- Job_37:21ya no se puede mirar la luz...en los cH7834
+- Job_38:29la escarcha del c, ¿quién la engendró?[[H8064]]
+- Job_38:32¿sacarás tú...las constelaciones de los cH6256
+- Job_38:33¿supiste tú las ordenanzas de los c?[[H8064]]
+- Job_38:37puso por cuenta los c con sabiduría?[[H8064]]
+- Job_38:37y los odres de los c, ¿quién los haceH7834
+- Job_41:11todo lo que hay debajo del c es míoH8064
+- Sal_2:4que mora en los c se reirá; el SeñorH8064
+- Sal_8:1Señor...has puesto tu gloria sobre los cH8064
+- Sal_8:3cuando veo tus c, obra de tus dedos, laH8064
+- Sal_8:8las aves de los c y los peces del marH8064
+- Sal_11:4templo; Jehová tiene en el c su tronoH8064
+- Sal_14:2Jehová miró desde los c sobre los hijosH8064
+- Sal_18:9inclinó los c, y descendió; y...tinieblasH8064
+- Sal_18:11puso...oscuridad de aguas, nubes de los cH7834
+- Sal_18:13tronó en los c Jehová, y el AltísimoH8064
+- Sal_19:1los c cuentan la gloria de Dios, y elH8064
+- Sal_19:6de un extremo de los c es su salida, yH8064
+- Sal_20:6su ungido; lo oirá desde sus santos cH8064
+- Sal_33:6por la palabra de...fueron hechos los cH8064
+- Sal_33:13desde los c miró Jehová; vio a todosH8064
+- Sal_36:5hasta los c llega tu misericordia, y tuH8064
+- Sal_50:4convocará a los c...y a la tierra, paraH8064
+- Sal_50:6y los c declararán su justicia, porqueH8064
+- Sal_53:2Dios desde los c miró sobre los hijos deH8064
+- Sal_57:3él enviará desde los c, y me salvará deH8064
+- Sal_57:5, Sal_57:11exaltado seas sobre los c, oh DiosH8064
+- Sal_57:10grande es hasta los c tu misericordiaH8064
+- Sal_68:4exaltad al que cabalga sobre los cH6160
+- Sal_68:8destilaron los c ante la presencia deH8064
+- Sal_68:33al que cabalga sobre los c de los cH8064
+- Sal_68:34atribuid poder...su poder está en los cH7834
+- Sal_69:34alábenle los c y la tierra, los maresH8064
+- Sal_73:9ponen su boca contra el c, y su lenguaH8064
+- Sal_73:25¿a quién tengo yo en los c sino a ti?[[H8064]]
+- Sal_76:8desde los c hiciste oír juicio; la tierraH8064
+- Sal_77:17tronaron los c, y discurrieron...rayosH7834
+- Sal_78:23mandó a...y abrió las puertas de los cH8064
+- Sal_78:24hizo llover...y les dio trigo de los cH8064
+- Sal_78:26movió el solano en el c, y trajo conH8064
+- Sal_79:2siervos por comida a las aves de los cH8064
+- Sal_80:14mira desde el c...y visita esta viñaH8064
+- Sal_85:11verdad...la justicia mirará desde los cH8064
+- Sal_89:2en los c mismos afirmarás tu verdadH8064
+- Sal_89:5celebrarán...c tus maravillas, oh JehováH8064
+- Sal_89:6¿quién en los c se igualará a Jehová?[[H7834]]
+- Sal_89:11tuyos son los c...también la tierraH8064
+- Sal_89:29pondré...trono como los días de los cH8064
+- Sal_89:37la luna...como un testigo fiel en el cH7834
+- Sal_96:5son ídolos; pero Jehová hizo los cH8064
+- Sal_96:11alégrense los c, y gócese la tierraH8064
+- Sal_97:6los c anunciaron su justicia, y todosH8064
+- Sal_102:19Jehová miró desde los c a la tierraH8064
+- Sal_102:25tierra, y los c son obra de tus manosH8064
+- Sal_103:11porque como la altura de los c sobreH8064
+- Sal_103:19Jehová estableció en los c su tronoH8064
+- Sal_104:2que extiende los c como una cortinaH8064
+- Sal_104:12sus orillas habitan las aves de los cH8064
+- Sal_105:40codornices, y los sació de pan del cH8064
+- Sal_107:26suben a los c, descienden a...abismosH8064
+- Sal_108:4más grande que los c es tu misericordiaH8064
+- Sal_108:4más grande...y hasta los c tu verdadH8064
+- Sal_108:5exaltado seas sobre los c, oh DiosH8064
+- Sal_113:4excelso sobre...sobre los c su gloriaH8064
+- Sal_113:6que se humilla a mirar en el c y en laH8064
+- Sal_115:3nuestro Dios está en los c; todo lo queH8064
+- Sal_115:15de Jehová, que hizo los c y la tierraH8064
+- Sal_115:16los c son los c de Jehová; y ha dadoH8064
+- Sal_119:89Jehová, permanece tu palabra en los cH8064
+- Sal_121:2de Jehová, que hizo los c y la tierraH8064
+- Sal_123:1mis ojos, a ti que habitas en los cH8064
+- Sal_124:8de Jehová, que hizo el c y la tierraH8064
+- Sal_134:3el cual ha hecho los c y la tierraH8064
+- Sal_135:6en los c y en la tierra, en los maresH8064
+- Sal_136:5al que hizo los c con entendimientoH8064
+- Sal_136:26alabad al Dios de los c, porque paraH8064
+- Sal_139:8si subiere a los c, allí estás tú; y siH8064
+- Sal_144:5oh Jehová, inclina tus c y desciendeH8064
+- Sal_146:6el cual hizo los c y la tierra, el marH8064
+- Sal_147:8él es quien cubre de nubes los c, el queH8064
+- Sal_148:1alabad a Jehová desde los c; alabadleH8064
+- Sal_148:4alabadle, c de los c, y las aguas queH8064
+- Sal_148:4y las aguas que están sobre los cH8064
+- Sal_148:13porque...su gloria es sobre tierra y cH8064
+- Pro_3:19Jehová...afirmó los c con inteligenciaH8064
+- Pro_3:20con su ciencia...y destilan rocío los cH7834
+- Pro_8:27cuando formaba los c, allí estaba yoH8064
+- Pro_8:28cuando afirmaba los c arriba, cuandoH7834
+- Pro_23:5porque se harán alas...y volarán al cH8064
+- Pro_25:3altura de los c, y para la profundidadH8064
+- Pro_30:4¿quién subió al c, y descendió? ¿QuiénH8064
+- Ecl_1:13a buscar...lo que se hace debajo del cH8064
+- Ecl_2:3en el cual se ocuparan debajo del c todosH8064
+- Ecl_3:1lo que se quiere debajo del c tiene suH8064
+- Ecl_5:2Dios está en el c, y tú sobre la tierraH8064
+- Ecl_6:1hay un mal que he visto debajo del c, yH8121
+- Ecl_10:20porque las aves del c llevarán la vozH8064
+- Isa_1:2oíd, c, y escucha tú, tierra; porqueH8064
+- Isa_5:30mirará...y en sus c se oscurecerá la luzH6183
+- Isa_13:5de lejana tierra, de lo postrero de los cH8064
+- Isa_13:10las estrellas de los c...no darán su luzH8064
+- Isa_13:13haré estremecer los c, y la tierra seH8064
+- Isa_14:12¡cómo caíste del c, oh Lucero, hijo deH8064
+- Isa_14:13subiré al c; en lo alto, junto a lasH8064
+- Isa_24:21castigará al ejército de los c en loH4791
+- Isa_34:4todo el ejército de los c se disolveráH8064
+- Isa_34:4enrollarán los c como un libro; y caeráH8064
+- Isa_34:5porque en los c se embriagará mi espadaH8064
+- Isa_37:16eres Dios...tú hiciste los c y la tierraH8064
+- Isa_40:12¿quién midió las...y los c con su palmoH8064
+- Isa_40:22él extiende los c como una cortina, losH8064
+- Isa_42:5así dice Jehová Dios, Creador de los cH8064
+- Isa_44:23cantad loores, oh c, porque Jehová loH8064
+- Isa_44:24que extiendo solo los c, que extiendo laH8064
+- Isa_45:8rociad, c, de arriba, y...nubes destilenH8064
+- Isa_45:12yo, mis manos, extendieron los c, y aH8064
+- Isa_45:18así dijo Jehová, que creó los c; él esH8064
+- Isa_47:13defiendan los contempladores de los cH3556
+- Isa_48:13mano derecha midió los c con el palmoH8064
+- Isa_49:13alabanzas, oh c, y alégrate, tierraH8064
+- Isa_50:3visto de oscuridad los c, y hagoH8064
+- Isa_51:6alzad a los c vuestros ojos, y miradH8064
+- Isa_51:6porque los c serán deshechos como humoH8064
+- Isa_51:13que extendió los c y fundó la tierraH8064
+- Isa_51:16de mi mano te cubrí, extendiendo los cH8064
+- Isa_55:9como son más altos los c que la tierraH8064
+- Isa_55:10como desciende de los c la lluvia y laH8064
+- Isa_63:15mira desde el c, y contempla desde tuH8064
+- Isa_64:1¡oh, si rompieses los c, y descendierasH8064
+- Isa_65:17que yo crearé nuevos c y nueva tierraH8064
+- Isa_66:1Jehová dijo así: El c es mi trono, y laH8064
+- Isa_66:22como los c nuevos y la nueva tierra queH8064
+- Jer_2:12espantaos, c, sobre...y horrorizaosH8064
+- Jer_4:23miré...a los c, y no había en ellos luzH8064
+- Jer_4:25miré, y...las aves del c se habían idoH8064
+- Jer_4:28se enlutará la tierra, y los c arriba seH8064
+- Jer_7:18para hacer tortas a la reina del c yH8064
+- Jer_7:33para comida de las aves del c y de lasH8064
+- Jer_8:2los esparcirán...a todo el ejército del cH8064
+- Jer_8:7aun la cigüeña en el c conoce su tiempoH8064
+- Jer_9:10desde las aves del c hasta las bestiasH8064
+- Jer_10:2ni de las señales del c tengáis temorH8064
+- Jer_10:11los dioses que no hicieron los c ni laH8065
+- Jer_10:11desaparezcan de la tierra y...de los cH8065
+- Jer_10:12el que...extendió los c con su sabiduríaH8064
+- Jer_10:13produce muchedumbre de aguas en el cH8064
+- Jer_14:22haga llover? ¿y darán los c lluvias?[[H8064]]
+- Jer_15:3aves del c y bestias de la tierra paraH8064
+- Jer_16:4servirán de comida a las aves del c y aH8064
+- Jer_19:7daré sus cuerpos...a las aves del c y aH8064
+- Jer_19:13ofrecieron...a todo el ejército del cH8064
+- Jer_23:24¿no lleno yo, dice Jehová, el c y laH8064
+- Jer_31:37así...Si los c arriba se pueden medirH8064
+- Jer_32:17hiciste el c y la tierra con tu granH8064
+- Jer_33:22no puede ser contado el ejército del cH8064
+- Jer_33:25si yo no he puesto las leyes del c yH8064
+- Jer_34:20serán comida de las aves del c, y deH8064
+- Jer_44:17-18, Jer_44:25ofrecer incienso a la reina del cH8064
+- Jer_44:19ofrecimos incienso a la reina del cH8064
+- Jer_49:36vientos de los cuatro puntos del cH8064
+- Jer_51:9porque ha llegado hasta el c su juicioH8064
+- Jer_51:15y extendió los c con su inteligenciaH8064
+- Jer_51:16se producen tumultos de aguas en los cH8064
+- Jer_51:48los c y la tierra y...cantarán de gozoH8064
+- Jer_51:53aunque suba Babilonia hasta el c, y seH8064
+- Lam_2:1derribó del c a la tierra la hermosuraH8064
+- Lam_3:41levantemos...corazones...a Dios en los cH8064
+- Lam_3:50hasta que Jehová mire y vea desde los cH8064
+- Lam_3:66y quebrántalos de debajo de los c, ohH8064
+- Lam_4:19más ligeros fueron...que las águilas del cH8064
+- Eze_1:1los c se abrieron, y vi visiones de DiosH8064
+- Eze_8:3Espíritu me alzó entre el c y la tierraH8064
+- Eze_29:5a las aves del c te he dado por comidaH8064
+- Eze_31:6ramas hacían nido todas las aves del cH8064
+- Eze_31:13sobre su ruina habitarán...aves del cH8064
+- Eze_32:4haré posar sobre ti...las aves del cH8064
+- Eze_32:7cubriré los c...sol cubriré con nubladoH8064
+- Eze_32:8entenebrecer...los astros brillantes del cH8064
+- Eze_38:20las aves del c, las bestias del campoH8064
+- Dan_2:18pidiesen misericordias del Dios del cH8065
+- Dan_2:19por lo cual bendijo Daniel al Dios del cH8065
+- Dan_2:28hay un Dios en los c, el cual revela losH8065
+- Dan_2:37el Dios del c te ha dado reino, poderH8065
+- Dan_2:38dondequiera que habitan...y aves del cH8065
+- Dan_2:44el Dios del c levantará un reino que noH8065
+- Dan_4:11y su copa llegaba hasta el c, y se leH8065
+- Dan_4:12sus ramas hacían morada las aves del cH8065
+- Dan_4:13, Dan_4:23un vigilante y santo descendía del cH8065
+- Dan_4:15, Dan_4:23sea mojado con el rocío del c, y con lasH8065
+- Dan_4:20copa llegaba hasta el c, y que se veíaH8065
+- Dan_4:21en cuyas ramas anidaban las aves del cH8065
+- Dan_4:22tu grandeza y ha llegado hasta el c, yH8065
+- Dan_4:25con el rocío del c serás bañado; y sieteH8065
+- Dan_4:26luego que reconozcas que el c gobiernaH8065
+- Dan_4:31vino una voz del c: A ti se te dice, reyH8064
+- Dan_4:33su cuerpo se mojaba con el rocío del cH8064
+- Dan_4:34alcé mis ojos al c, y mi razón me fueH8064
+- Dan_4:35él hace según su voluntad en el...del cH8064
+- Dan_4:37y glorifico al Rey del c, porque todasH8064
+- Dan_5:21su cuerpo fue mojado con el rocío del cH8064
+- Dan_5:23sino que contra el Señor del c te hasH8064
+- Dan_6:27hace...maravillas en el c y en la tierraH8064
+- Dan_7:2los cuatro vientos del c combatían en elH8064
+- Dan_7:13con las nubes del c venía uno como unH8064
+- Dan_7:27de los reinos debajo de todo el c, seaH8064
+- Dan_8:8cuernos...hacia los cuatro vientos del cH8064
+- Dan_8:10se engrandeció hasta el ejército del cH8064
+- Dan_9:12pues nunca fue hecho debajo del c nadaH8064
+- Dan_11:4y repartido hacia los 4 vientos del cH8064
+- Dan_12:7el cual alzó su diestra...al c, y juróH8064
+- Ose_2:18haré para ti pacto con...las aves del cH8064
+- Ose_2:21responderé a los c, y ellos responderánH8064
+- Ose_4:3extenuará todo...las bestias...aves del cH8064
+- Ose_7:12haré caer como aves del c; les castigaréH8064
+- Joe_2:10estremecerán los c; el sol y la lunaH8064
+- Joe_2:30daré prodigios en el c y en la tierraH8064
+- Joe_3:16temblarán...c y la tierra; pero JehováH8064
+- Amó_9:2y aunque subieren hasta el c, de alláH8064
+- Amó_9:6él edificó en el c sus cámaras, y haH8064
+- Jon_1:9soy hebreo, y temo a...Dios de los cH8064
+- Nah_3:16mercaderes más que...estrellas del cH8064
+- Hab_3:3su gloria cubrió los c, y la tierra seH8064
+- Sof_1:3destruiré las aves del c y los pecesH8064
+- Sof_1:5a los que...se postran al ejército del cH8064
+- Hag_1:10por eso se detuvo del los c...la lluviaH8064
+- Hag_2:6, Hag_2:21yo haré temblar los c y la tierraH8064
+- Zac_2:6los cuatro vientos de los c os esparcíH8064
+- Zac_5:9alzaron el efa entre la tierra y los cH8064
+- Zac_6:5estos son los cuatro vientos de los cH8064
+- Zac_8:12y los c darán su rocío; y haré que elH8064
+- Zac_12:1Jehová, que extiende los c y funda laH8064
+- Mal_3:10si no os abriré las ventanas de los cH8064
+- Mat_3:2arrepentíos, porque el reino de los cG3772
+- Mat_3:16he aquí los c le fueron abiertos, y vioG3772
+- Mat_3:17hubo una voz de los c, que decía: EsteG3772
+- Mat_4:17porque el reino de los c se ha acercadoG3772
+- Mat_5:3, Mat_5:10porque de ellos es el reino de los cG3772
+- Mat_5:12vuestro galardón es grande en los cG3772
+- Mat_5:16glorifiquen a...Padre que está en los cG3772
+- Mat_5:18hasta que pasen el c y la tierra, ni unaG3772
+- Mat_5:19muy pequeño será llamado en el...de los cG3772
+- Mat_5:19será llamado grande en el reino de los cG3772
+- Mat_5:20que...no entraréis en el reino de los cG3772
+- Mat_5:34ni por el c, porque es el trono de DiosG3772
+- Mat_5:45hijos de vuestro Padre que está en los cG3772
+- Mat_5:48como vuestro Padre que está en los c esG3772
+- Mat_6:1recompensa de...Padre que está en los cG3772
+- Mat_6:9así: Padre nuestro que estás en los cG3772
+- Mat_6:10hágase tu voluntad, como en el c, asíG3772
+- Mat_6:20sino haceos tesoros en el c, donde ni laG3772
+- Mat_6:26mirad las aves del c, que no siembranG3772
+- Mat_7:11vuestro Padre que está en los c daráG3772
+- Mat_7:21no todo el...entrará en el reino de los cG3772
+- Mat_7:21hace la voluntad de mi Padre...en los cG3772
+- Mat_8:11y se sentarán con...en el reino de los cG3772
+- Mat_8:20y las aves del c nidos; mas el Hijo delG3772
+- Mat_10:7predicad...reino de los c se ha acercadoG3772
+- Mat_10:32-33delante de...Padre que está en los cG3772
+- Mat_11:11pero el más pequeño en el reino de los cG3772
+- Mat_11:12el reino de los c sufre violencia, y losG3772
+- Mat_11:23Capernaum...eres levantada hasta el cG3772
+- Mat_11:25te alabo...Señor del c y de la tierraG3772
+- Mat_12:50hace la voluntad de mi Padre...en los cG3772
+- Mat_13:11saber los misterios del reino de los cG3772
+- Mat_13:24, Mat_13:31, Mat_13:33, Mat_13:44-45, Mat_13:47reino de los c es semejanteG3772
+- Mat_13:32vienen las aves del c y hacen nidos enG3772
+- Mat_13:52escriba docto en el reino de los c esG3772
+- Mat_14:19levantando los ojos al c, bendijo, yG3772
+- Mat_16:1le pidieron que les mostrase señal del cG3772
+- Mat_16:2decís: Buen tiempo...c tiene arrebolesG3772
+- Mat_16:3porque tiene arreboles el c nubladoG3772
+- Mat_16:3que sabéis distinguir el aspecto del cG3772
+- Mat_16:17lo reveló...mi Padre que está en los cG3772
+- Mat_16:19te daré las llaves del reino de los cG3772
+- Mat_16:19lo que atares en...será atado en los cG3772
+- Mat_16:19que desatares...será desatado en los cG3772
+- Mat_18:1¿quién es el mayor en el reino de...c?[[G3772]]
+- Mat_18:3que...no entraréis en el reino de los cG3772
+- Mat_18:4ése es el mayor en el reino de los cG3772
+- Mat_18:10os digo que sus ángeles en los c venG3772
+- Mat_18:10rostro de mi Padre que está en los cG3772
+- Mat_18:14la voluntad...Padre que está en los cG3772
+- Mat_18:18todo lo que atéis...será atado en el cG3772
+- Mat_18:18lo que desatéis...será desatado en el cG3772
+- Mat_18:19hecho por mi Padre que está en los cG3772
+- Mat_18:23el reino de los c es semejante a un reyG3772
+- Mat_19:12eunucos por causa del reino de los cG3772
+- Mat_19:14porque de los tales es el reino de los cG3772
+- Mat_19:21vende lo que...tendrás tesoro en el cG3772
+- Mat_19:23difícilmente entrará un rico en...los cG3772
+- Mat_20:1porque el reino de los c es semejante aG3772
+- Mat_21:25el bautismo...¿del c, o de los hombres?[[G3772]]
+- Mat_21:25si decimos, del c, nos dirá: ¿Por quéG3772
+- Mat_22:2el reino de los c es semejante a un reyG3772
+- Mat_22:30serán como los ángeles de Dios en el cG3772
+- Mat_23:9es vuestro Padre, el que está en los cG3772
+- Mat_23:13cerráis el reino de los c delante de losG3772
+- Mat_23:22el que jura por el c, jura por el tronoG3772
+- Mat_24:29y las estrellas caerán del c, y lasG3772
+- Mat_24:29las potencias de los c serán conmovidasG3772
+- Mat_24:30aparecerá la señal del Hijo...en el cG3772
+- Mat_24:30Hijo...viniendo sobre las nubes del cG3772
+- Mat_24:31desde un extremo del c hasta el otroG3772
+- Mat_24:35el c y la tierra pasarán, pero misG3772
+- Mat_24:36nadie sabe, ni...los ángeles de los cG3772
+- Mat_25:1el reino de los c será semejante a diezG3772
+- Mat_25:14reino de los c es como un hombre que
+- Mat_26:64al Hijo...viniendo en las nubes del cG3772
+- Mat_28:2un ángel del Señor, descendiendo del cG3772
+- Mat_28:18toda potestad me es dada en el c y enG3772
+- Mar_1:10vio abrirse los c, y al Espíritu comoG3772
+- Mar_1:11vino una voz de los c que decía: Tú eresG3772
+- Mar_4:4y vinieron las aves del c y la comieronG3772
+- Mar_4:32que las aves del c pueden morar bajo suG3772
+- Mar_6:41levantando los ojos al c, bendijo, yG3772
+- Mar_7:34levantando los ojos al c, gimió, y leG3772
+- Mar_8:11pidiéndole señal del c, para tentarleG3772
+- Mar_10:21vende todo...y tendrás tesoro en el cG3772
+- Mar_11:25Padre que está en los c os perdone aG3772
+- Mar_11:26tampoco vuestro Padre que está en...cG3772
+- Mar_11:30el bautismo de Juan, ¿era del c, o deG3772
+- Mar_11:31si decimos, del c, dirá: ¿Por qué, puesG3772
+- Mar_12:25sino serán como los ángeles...en los cG3772
+- Mar_13:25y las estrellas caerán del c, y lasG3772
+- Mar_13:25las potencias que están en los c seránG3772
+- Mar_13:27extremo de la tierra...el extremo del cG3772
+- Mar_13:31el c y...pasarán, pero mis palabras noG3772
+- Mar_13:32ni aún los ángeles que están en el cG3772
+- Mar_14:62al Hijo...viniendo en las nubes del cG3772
+- Mar_16:19después...fue recibido arriba en el cG3772
+- Luc_2:15los ángeles se fueron de ellos al cG3772
+- Luc_3:21fue bautizado; y orando, el c se abrióG3772
+- Luc_3:22y vino una voz del c que decía: Tú eresG3772
+- Luc_4:25cuando el c fue cerrado por tres añosG3772
+- Luc_6:23vuestro galardón es grande en los cG3772
+- Luc_8:5fue hollada, y las aves del c la comieronG3772
+- Luc_9:16levantando los ojos al c, los bendijoG3772
+- Luc_9:54descienda fuego del c, como hizo ElíasG3772
+- Luc_9:58y las aves de los c nidos; mas el HijoG3772
+- Luc_10:15que hasta los c eres levantada, hastaG3772
+- Luc_10:18yo veía a Satanás caer del c como unG3772
+- Luc_10:20vuestros nombres están escritos en...cG3772
+- Luc_10:21oh Padre, Señor del c y de la tierraG3772
+- Luc_11:2decid: Padre nuestro que estás en los cG3772
+- Luc_11:2hágase tu voluntad, como en el c, así enG3772
+- Luc_11:16para tentarle, le pedían señal del cG3772
+- Luc_12:33tesoro en los c que no se agote, dondeG3772
+- Luc_12:56sabéis distinguir el aspecto del c y deG3772
+- Luc_13:19las aves del c anidaron en sus ramasG3772
+- Luc_15:7habrá más gozo en el c por un pecadorG3772
+- Luc_15:18, Luc_15:21he pecado contra el c y contra tiG3772
+- Luc_16:17más fácil es que pasen el c y la tierraG3772
+- Luc_17:24resplandece desde un extremo del c, asíG3772
+- Luc_17:29de Sodoma, llovió del c fuego y azufreG3772
+- Luc_18:13ni aun alzar los ojos al c, sino queG3772
+- Luc_18:22a los pobres, y tendrás tesoro en el cG3772
+- Luc_19:38paz en el c, y gloria en las alturas![[G3772]]
+- Luc_20:4el bautismo...del c, o de los hombres?[[G3772]]
+- Luc_20:5si decimos, del c, dirá: ¿Por qué, puesG3772
+- Luc_21:11habrá terror y grandes señales del cG3772
+- Luc_21:26las potencias de los c serán conmovidasG3772
+- Luc_21:33el c y la tierra pasarán, pero misG3772
+- Luc_22:43y se le apareció un ángel del c paraG3772
+- Luc_24:51se separó...y fue llevado arriba al cG3772
+- Jua_1:32al Espíritu que descendía del c comoG3772
+- Jua_1:51veréis el c abierto, y a los ángeles deG3772
+- Jua_3:13subió al c, sino el que descendió del cG3772
+- Jua_3:13el Hijo del Hombre, que está en el cG3772
+- Jua_3:27recibir nada, si no le fuere dado del cG3772
+- Jua_3:31el que viene del c, es sobre todos; elG3772
+- Jua_6:31está escrito: Pan del c les dio a comerG3772
+- Jua_6:32no os dio Moisés el pan del c, mas miG3772
+- Jua_6:32mi Padre os da el verdadero pan del cG3772
+- Jua_6:33es aquel que descendió del c y da vidaG3772
+- Jua_6:38he descendido del c, no para hacer miG3772
+- Jua_6:41dicho: Yo soy el pan que descendió del cG3772
+- Jua_6:42¿cómo...dice éste: Del c he descendido?[[G3772]]
+- Jua_6:50este es el pan que desciende del c, paraG3772
+- Jua_6:51yo soy el pan vivo que descendió del cG3772
+- Jua_6:58este es el pan que descendió del c; noG3772
+- Jua_12:28vino una voz del c: Lo he glorificadoG3772
+- Jua_17:1levantando los ojos al c, dijo: PadreG3772
+- Hec_1:10ellos con los ojos puestos en el cG3772
+- Hec_1:11galileos, ¿por qué estáis mirando al c?[[G3772]]
+- Hec_1:11que ha sido tomado de vosotros al c, asíG3772
+- Hec_1:11así vendrá como le habéis visto ir al cG3772
+- Hec_2:2vino del c un estruendo como de un vientoG3772
+- Hec_2:5judíos...de todas las naciones bajo el cG3772
+- Hec_2:19daré prodigios arriba en el c, y señalesG3772
+- Hec_2:34porque David no subió a los c; pero élG3772
+- Hec_3:21de cierto es necesario que el c recibaG3772
+- Hec_4:12no hay otro nombre bajo el c, dado a losG3772
+- Hec_4:24tú eres el Dios que hiciste el c y laG3772
+- Hec_7:42que rindiesen culto al ejército del cG3772
+- Hec_7:49el c es mi trono, y la tierra el estradoG3772
+- Hec_7:55puestos los ojos en el c, vio la gloriaG3772
+- Hec_7:56veo los c abiertos, y al Hijo del HombreG3772
+- Hec_9:3le rodeó un resplandor de luz del cG3772
+- Hec_10:11vio el c abierto, y que descendía algoG3772
+- Hec_10:12había de todos...reptiles y aves del cG3772
+- Hec_10:16lienzo volvió a ser recogido en el cG3772
+- Hec_11:5lienzo...bajado del c y venía hasta míG3772
+- Hec_11:6cuadrúpedos...y reptiles, y aves del cG3772
+- Hec_11:9voz me respondió del c por segunda vezG3772
+- Hec_11:10y volvió todo a ser llevado arriba al cG3772
+- Hec_14:15al Dios vivo, que hizo el c y la tierraG3772
+- Hec_14:17bien, dándonos lluvias del c y tiemposG3772
+- Hec_17:24siendo Señor del c y de la tierra, noG3772
+- Hec_22:6de repente me rodeó mucha luz del cG3772
+- Hec_26:13vi una luz del c que sobrepasaba elG3771
+- Rom_1:18la ira de Dios se revela desde el cG3772
+- Rom_10:6digas en tu corazón: ¿Quién subirá al c?[[G3772]]
+- 1Co_8:5se llamen dioses, sea en el c, o enG3772
+- 1Co_15:47el segundo...que es el Señor, es del cG3772
+- 2Co_5:1una casa no hecha...eterna, en los cG3772
+- 2Co_12:2que...fue arrebatado hasta el tercer cG3772
+- Gál_1:8si...un ángel del c, os anunciare otroG3772
+- Efe_1:10así las que están en los c, como lasG3772
+- Efe_3:15toma nombre toda familia en los c y enG3772
+- Efe_4:10subió por encima de todos los c paraG3772
+- Efe_6:9sabiendo que el Señor de...está en los cG3772
+- Flp_2:10que están en los c, y en la tierraG2032
+- Flp_3:20mas nuestra ciudadanía está en los c, deG3772
+- Col_1:5esperanza...os está guardada en los cG3772
+- Col_1:16las que hay en los c y las que hay en laG3772
+- Col_1:20en la tierra como las que están en los cG3772
+- Col_1:23toda la creación que está debajo del cG3772
+- Col_4:1sabiendo que...tenéis un Amo en los cG3772
+- 1Ts_1:10esperar de los c a su Hijo, al cualG3772
+- 1Ts_4:16el Señor mismo con...descenderá del cG3772
+- 2Ts_1:7se manifieste el Señor...desde el cG3772
+- Heb_1:10fundaste la tierra, y los c son obraG3772
+- Heb_4:14gran sumo sacerdote que traspasó los cG3772
+- Heb_7:26inocente...y hecho más sublime que los cG3772
+- Heb_8:1se sentó a la diestra del trono...en los cG3772
+- Heb_9:24en el c mismo para presentarse ahora porG3772
+- Heb_10:34mejor y perdurable herencia en los cG3772
+- Heb_11:12como las estrellas del c en multitudG3772
+- Heb_12:23de los primogénitos...inscritos en los cG3772
+- Heb_12:25nosotros...al que amonesta desde los cG3772
+- Heb_12:26aun una vez, y conmoveré...también el cG3772
+- Stg_5:12no juréis, ni por el c, ni por la tierraG3772
+- Stg_5:18otra vez oró, y el c dio lluvia, y laG3772
+- 1Pe_1:4reservada en los c para vosotrosG3772
+- 1Pe_1:12por el Espíritu Santo enviado del cG3772
+- 1Pe_3:22habiendo subido al c está a la diestraG3772
+- 2Pe_1:18oímos esta voz enviada del c, cuandoG3772
+- 2Pe_3:5hechos por la palabra de Dios los c, yG3772
+- 2Pe_3:7pero los c y la tierra que existen ahoraG3772
+- 2Pe_3:10los c pasarán con grande estruendo, y losG3772
+- 2Pe_3:12en el cual los c...serán deshechos, y losG3772
+- 2Pe_3:13esperamos...c nuevos y tierra nueva, enG3772
+- 1Jn_5:7son los que dan testimonio en el cG3772
+- Rev_3:12Jerusalén, la cual desciende del c, deG3772
+- Rev_4:1he aquí una puerta abierta en el c; y laG3772
+- Rev_4:2y he aquí, un trono establecido en el cG3772
+- Rev_5:3ninguno, ni en el c ni en la tierra ni enG3772
+- Rev_5:13todo lo creado que está en el c, y sobreG3772
+- Rev_6:13y las estrellas del c cayeron sobre laG3772
+- Rev_6:14y el c se desvaneció como un pergaminoG3772
+- Rev_8:1se hizo silencio en el c...por media horaG3772
+- Rev_8:10cayó del c una gran estrella, ardiendoG3772
+- Rev_8:13oí a un ángel volar por en medio del cG3321
+- Rev_9:1una estrella que cayó del c a la tierraG3772
+- Rev_10:1vi descender del c a otro ángel fuerteG3772
+- Rev_10:4oí una voz del c que me decía: Sella lasG3772
+- Rev_10:5y el ángel que vi...levantó su mano al cG3772
+- Rev_10:6que creó el c y las cosas que están enG3772
+- Rev_10:8voz que oí del c habló otra vez conmigoG3772
+- Rev_11:6éstos tienen poder para cerrar el c, aG3772
+- Rev_11:12oyeron una...voz del c, que les decíaG3772
+- Rev_11:12subid acá; y subieron al c en una nubeG3772
+- Rev_11:13los demás...dieron gloria al Dios del cG3772
+- Rev_11:15tocó la...y hubo grandes voces en el cG3772
+- Rev_11:19el templo de Dios fue abierto en el cG3772
+- Rev_12:1apareció en el c una gran señal...mujerG3772
+- Rev_12:3apareció otra señal en el c: he aquí unG3772
+- Rev_12:4su cola arrastraba...las estrellas del cG3772
+- Rev_12:7después hubo una gran batalla en el cG3772
+- Rev_12:8ni se halló ya lugar para ellos en el cG3772
+- Rev_12:10entonces oí una gran voz en el c, queG3772
+- Rev_12:12alegraos, c, y los que moráis en ellosG3772
+- Rev_13:6blasfemar de...de los que moran en el cG3772
+- Rev_13:13hace descender fuego del c a la tierraG3772
+- Rev_14:2y oí una voz del c como estruendo deG3772
+- Rev_14:6vi volar por en medio del c a otro ángelG3321
+- Rev_14:7adorad a aquel que hizo el c y la tierraG3772
+- Rev_14:13una voz que desde el c me decía: EscribeG3772
+- Rev_14:17salió otro ángel del templo...en el cG3772
+- Rev_15:1vi en el c otra señal, grande y admirableG3772
+- Rev_15:5aquí fue abierto en el c el templo delG3772
+- Rev_16:11y blasfemaron contra el Dios del c porG3772
+- Rev_16:17y salió una gran voz del templo del cG3772
+- Rev_16:21cayó del c...un enorme granizo como deG3772
+- Rev_18:1vi a otro ángel descender del c con granG3772
+- Rev_18:4otra voz del c, que decía: Salid de ellaG3772
+- Rev_18:5sus pecados han llegado hasta el c, yG3772
+- Rev_18:20alégrate sobre ella, c, y vosotrosG3772
+- Rev_19:1oí una gran voz de gran multitud en el cG3772
+- Rev_19:11vi el c abierto; y he aquí un caballoG3772
+- Rev_19:17a...las aves que vuelan en medio del cG3321
+- Rev_20:1vi a un ángel que descendía del c, conG3772
+- Rev_20:9descendió fuego del c, y los consumióG3772
+- Rev_20:11del cual huyeron la tierra y el c, yG3772
+- Rev_21:1vi un c nuevo y...el primer c y...pasaronG3772
+- Rev_21:2la nueva Jerusalén, descender del c, deG3772
+- Rev_21:3y oí una gran voz del c que decía: HeG3772
+- Rev_21:10gran ciudad santa...que descendía del cG3772

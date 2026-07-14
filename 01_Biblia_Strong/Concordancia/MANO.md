@@ -1,0 +1,1610 @@
+---
+tipo: concordancia
+palabra: MANO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MANO
+
+- Gén_3:22que no alargue su m, y tome tambiénH3027
+- Gén_4:11recibir de tu m la sangre de tu hermanoH3027
+- Gén_5:29nos aliviará de...trabajo de nuestras mH3027
+- Gén_8:9extendió su m y...la hizo entrar consigoH3027
+- Gén_9:2todo animal...en vuestra m son entregadosH3027
+- Gén_9:5de m de todo animal...y de m del hombreH3027
+- Gén_9:5de m del varón su...demandaré la vida delH3027
+- Gén_13:9si fueres a la m izquierda, yo iré a laH8040
+- Gén_14:20el Dios...entregó tus enemigos en tu mH3027
+- Gén_14:22he alzado mi m a Jehová Dios AltísimoH3027
+- Gén_16:6tu sierva está en tu m; haz con ella loH3027
+- Gén_16:9vuélvete a tu...y ponte sumisa bajo su mH3027
+- Gén_16:12m será contra todos, y la m de todosH3027
+- Gén_19:10los varones alargaron la m, y metieronH3027
+- Gén_19:16varones asieron de su m, y de la m deH3027
+- Gén_19:16y de las m de sus dos hijas, según laH3027
+- Gén_20:5y con limpieza de mis m he hecho estoH3709
+- Gén_21:18alza al muchacho, y sostenlo con tu mH3027
+- Gén_21:30estas siete corderas tomarás de mi mH3027
+- Gén_22:6él tomó en su m el fuego y el cuchilloH3027
+- Gén_22:10extendió Abraham su m...para degollarH3027
+- Gén_22:12no extiendas tu m sobre el muchachoH3027
+- Gén_24:2dijo...Pon ahora tu m debajo de mi musloH3027
+- Gén_24:9el criado puso su m debajo del muslo deH3027
+- Gén_24:18prisa a bajar su cántaro sobre su mH3027
+- Gén_24:30vio el pendiente...las m de su hermanaH3027
+- Gén_25:26trabada su m al calcañar de Esaú; y fueH3027
+- Gén_27:16cubrió sus m y la parte de su cuelloH3027
+- Gén_27:17y entregó los guisados...en m de JacobH3027
+- Gén_27:22voz de Jacob, pero las m, las m de EsaúH3027
+- Gén_27:23sus m eran vellosas como las m de EsaúH3027
+- Gén_30:35ovejas, y las puso en m de sus hijosH3027
+- Gén_31:29poder hay en mi m para haceros malH3027
+- Gén_31:42me enviarías ahora con las m vacías
+- Gén_31:42pero Dios vio...y el trabajo de mis mH3709
+- Gén_32:11líbrame ahora de la m de...la m de EsaúH3027
+- Gén_32:13de lo que le vino a la m un presenteH3027
+- Gén_33:19compró una...de m de los hijos de HamorH3027
+- Gén_37:21Rubén oyó esto, lo libró de sus m, yH3027
+- Gén_37:22echadlo en esta...y no pongáis m en élH3027
+- Gén_37:22por librarlo así de sus m, para hacerloH3027
+- Gén_37:27no sea nuestra m sobre él; porque élH3027
+- Gén_38:18tu sello...tu báculo que tienes en tu mH3027
+- Gén_38:28sacó la m el uno, y la partera tomó yH3027
+- Gén_38:28partera...ató a su m un hilo de granaH3027
+- Gén_38:29pero volviendo él a meter la m, he aquíH3027
+- Gén_38:30el que tenía en su m el hilo de granaH3027
+- Gén_39:3todo...Jehová lo hacía prosperar en su mH3027
+- Gén_39:6y dejó todo lo que tenía en m de JoséH3027
+- Gén_39:8y ha puesto en mi m todo lo que tieneH3027
+- Gén_39:12dejó su ropa en las m de ella, y huyóH3027
+- Gén_39:13que le había dejado su ropa en sus mH3027
+- Gén_39:22jefe...entregó en m de José el cuidadoH3027
+- Gén_40:11que la copa de Faraón estaba en mi mH3027
+- Gén_40:11uvas...y daba yo la copa en m de FaraónH3709
+- Gén_40:13darás la copa a Faraón en su m, comoH3027
+- Gén_40:21hizo...y dio éste la copa en m de FaraónH3709
+- Gén_41:35recojan el trigo bajo la m de FaraónH3027
+- Gén_41:42anillo de su m...lo puso en la m de JoséH3027
+- Gén_41:44sin ti ninguno alzará su m ni su pieH3027
+- Gén_42:37entrégalo en mi m, que yo lo devolveréH3027
+- Gén_43:12tomad en vuestras m doble cantidad deH3027
+- Gén_43:12llevad en vuestra m el dinero vueltoH3027
+- Gén_43:15y tomaron en su m doble cantidad deH3027
+- Gén_43:22traído en nuestras m otro dinero paraH3027
+- Gén_43:26ellos...el presente que tenían en su mH3027
+- Gén_46:4contigo...y la m de José cerrará tus ojosH3027
+- Gén_47:29te ruego que pongas tu m debajo de miH3027
+- Gén_48:14extendió su m derecha, y...m izquierdaH3225
+- Gén_48:14de Manasés, colocando así sus m adredeH3027
+- Gén_48:17ponía la m derecha sobre la cabeza deH3027
+- Gén_48:17asió la m...cambiarla de la cabeza deH3027
+- Gén_48:18éste...pon tu m derecha sobre su cabezaH3225
+- Gén_48:22la cual tomé yo de m del amorreo conH3027
+- Gén_49:8Judá...tu m en la cerviz de tus enemigosH3027
+- Gén_49:24los brazos de sus m se fortalecieronH3027
+- Gén_49:24por las m del Fuerte de Jacob (por elH3027
+- Éxo_2:19nos defendió de m de los pastores, yH3027
+- Éxo_3:8y he descendido para librarlos de m deH3027
+- Éxo_3:19rey...no os dejará ir sino por m fuerteH3027
+- Éxo_3:20yo extenderé mi m, y heriré a Egipto conH3027
+- Éxo_3:21salgáis, no vayáis con las m vacías
+- Éxo_4:2Jehová...¿Qué es eso que tienes en tu m?[[H3027]]
+- Éxo_4:4extiende tu m...y él extendió su m, y laH3027, [[[[H3027]]]]
+- Éxo_4:4y la tomó, y se volvió vara en su mH3709
+- Éxo_4:6mete...tu m en tu seno. Y él metió la mH3027
+- Éxo_4:6y cuando la sacó...su m estaba leprosaH3027
+- Éxo_4:7a meter tu m...Y él volvió a meter su mH3027
+- Éxo_4:17tomarás en tu m esta vara, con la cualH3027
+- Éxo_4:20tomó...Moisés la vara de Dios en su mH3027
+- Éxo_4:21las maravillas que he puesto en tu mH3027
+- Éxo_5:21la espada en la m para que nos matenH3027
+- Éxo_6:1porque con m fuerte los dejará ir, y conH3027
+- Éxo_6:1y con m fuerte los echará de su tierraH3027
+- Éxo_6:8la tierra por la cual alcé mi m jurandoH3027
+- Éxo_7:4yo pondré mi m sobre Egipto, y sacaré aH3027
+- Éxo_7:5extienda mi m sobre Egipto, y saque a losH3027
+- Éxo_7:15en tu m la vara que se volvió culebraH3027
+- Éxo_7:17golpearé con la vara que tengo en mi mH3027
+- Éxo_7:19vara, y extiende tu m sobre las aguasH3027
+- Éxo_8:5extiende tu m con tu vara sobre los ríosH3027
+- Éxo_8:6Aarón extendió su m sobre las aguas deH3027
+- Éxo_8:17así; y Aarón extendió su m con su varaH3027
+- Éxo_9:3la m de Jehová estará sobre tus ganadosH3027
+- Éxo_9:15extenderé mi m para herirte a ti y a tuH3027
+- Éxo_9:22extiende tu m hacia el cielo, para queH3027
+- Éxo_9:29extenderé mis m...y los truenos cesaránH3709
+- Éxo_9:33extendió sus m a Jehová, y cesaron losH3709
+- Éxo_10:12extiende tu m sobre la tierra de EgiptoH3027
+- Éxo_10:21extiende tu m hacia el cielo, para queH3027
+- Éxo_10:22y extendió Moisés su m hacia el cieloH3027
+- Éxo_12:11comeréis...vuestro bordón en vuestra mH3027
+- Éxo_13:3Jehová os ha sacado de aquí con m fuerteH3027
+- Éxo_13:9, Éxo_13:16te será como una señal sobre tu mH3027
+- Éxo_13:9con m fuerte te sacó Jehová de EgiptoH3027
+- Éxo_13:14le dirás: Jehová nos sacó con m fuerteH3027
+- Éxo_13:16Jehová nos sacó de Egipto con m fuerteH3027
+- Éxo_14:8de Israel habían salido con m poderosaH3027
+- Éxo_14:16tu vara, y extiende tu m sobre el marH3027
+- Éxo_14:21y extendió Moisés su m sobre el mar, eH3027
+- Éxo_14:26extiende tu m sobre el mar, para queH3027
+- Éxo_14:27Moisés extendió su m sobre el mar, yH3027
+- Éxo_14:30así salvó...Israel de m de los egipciosH3027
+- Éxo_15:9sacaré mi espada, los destruirá mi mH3027
+- Éxo_15:17en el santuario que tus m, oh JehováH3027
+- Éxo_15:20María la...tomó un pandero en su m, yH3027
+- Éxo_16:3ojalá hubiéramos muerto por m de JehováH3027
+- Éxo_17:5y toma también en tu m tu vara con queH3027
+- Éxo_17:9estaré sobre...y la vara de Dios en mi mH3027
+- Éxo_17:11alzaba Moisés su m, Israel prevalecíaH3027
+- Éxo_17:11cuando...bajaba su m, prevalecía AmalecH3027
+- Éxo_17:12y las m de Moisés se cansaban; por loH3027
+- Éxo_17:12Aarón y Hur sostenían sus m, el uno deH3027
+- Éxo_17:12así hubo en sus m firmeza hasta que seH3027
+- Éxo_17:16por cuanto la m de Amalec se levantóH3027
+- Éxo_18:9al haberlo librado de m de los egipciosH3027
+- Éxo_18:10os libró de m...egipcios...in de FaraónH3027
+- Éxo_18:10libró al pueblo de la m de los egipciosH3027
+- Éxo_19:13no lo tocará m, porque será apedreadoH3027
+- Éxo_21:13que no...sino que Dios lo puso en sus mH3027
+- Éxo_21:16o si fuere hallada en sus m, moriráH3027
+- Éxo_21:20y muriere bajo su m, será castigadoH3027
+- Éxo_21:24diente por diente, m por m, pie por pieH3027
+- Éxo_22:4si fuere hallado con el hurto en la mH3027
+- Éxo_22:8si ha metido su m en los bienes de suH3027
+- Éxo_22:11juramento...no metió su m a los bienesH3027
+- Éxo_23:15y ninguno se presentará...las m vacías
+- Éxo_23:31pondré en tus m a los moradores de laH3027
+- Éxo_24:11no extendió su m sobre los príncipesH3027
+- Éxo_29:10, Éxo_29:15, Éxo_29:19pondrán sus m sobre la cabeza delH3027
+- Éxo_29:20sobre el dedo pulgar de las m derechasH3027
+- Éxo_29:24en las m de Aarón...las m de sus hijosH3709
+- Éxo_29:25lo tomarás de sus m y lo harás arderH3027
+- Éxo_29:33para llenar sus m para consagrarlosH3027
+- Éxo_30:19lavarán Aarón y sus...las m y los piesH3027
+- Éxo_30:21se lavarán las m y los pies, para queH3027
+- Éxo_32:4tomó de las m de ellos, y le dio formaH3027
+- Éxo_32:11pueblo, que tú sacaste...con m fuerte?[[H3027]]
+- Éxo_32:15en su m las dos tablas del testimonioH3027
+- Éxo_32:19Moisés, y arrojó las tablas de sus mH3027
+- Éxo_33:22y te cubriré con mi m hasta que hayaH3709
+- Éxo_33:23apartaré mi m, y verás mis espaldasH3709
+- Éxo_34:4llevó en su m las dos tablas de piedraH3027
+- Éxo_34:20ninguno se presentará...con las m vacías
+- Éxo_34:29las dos tablas del testimonio en su mH3027
+- Éxo_35:25mujeres sabias de...hilaban con sus mH3027
+- Éxo_40:31Aarón y sus hijos lavaban en ella...mH3027
+- Lev_1:4pondrá su m...la cabeza del holocaustoH3027
+- Lev_3:2, Lev_3:8su m sobre la cabeza de su ofrendaH3027
+- Lev_3:13pondrá su m sobre la cabeza de ella, yH3027
+- Lev_4:4, Lev_4:15pondrá...m sobre la cabeza del becerroH3027
+- Lev_4:24pondrá su m sobre la cabeza del machoH3027
+- Lev_4:29, Lev_4:33su m sobre la cabeza de la ofrendaH3027
+- Lev_6:2negare...lo encomendado o dejado en su mH3027
+- Lev_7:30sus m traerán las ofrendas que se hanH3027
+- Lev_8:14, Lev_8:18, Lev_8:22pusieron sus m sobre la cabezaH3027
+- Lev_8:23sobre el dedo pulgar de su m derecha, yH3027
+- Lev_8:24sobre los pulgares de sus m derechas, yH3027
+- Lev_8:27las m de Aarón, y en las m de sus hijosH3709
+- Lev_8:28tornó aquellas cosas...de las m de ellosH3709
+- Lev_9:17y llenó de ella su m, y la hizo quemarH3709
+- Lev_9:22alzó Aarón sus m hacia el pueblo y loH3027
+- Lev_14:14, Lev_14:17, Lev_14:25, Lev_14:28el pulgar de su m derechaH3027
+- Lev_14:15, Lev_14:26sobre la palma de su m izquierdaH8042
+- Lev_14:16dedo...en el aceite que tiene en su mH3709
+- Lev_14:17-18, Lev_14:27-28del aceite que tiene en su mH3709
+- Lev_14:29que sobre el aceite que...tiene en su mH3709
+- Lev_15:11tocare el...y no lavare con agua sus mH3027
+- Lev_16:21pondrá Aarón sus dos m sobre la cabezaH3027
+- Lev_16:21por m de un hombre destinado para estoH3027
+- Lev_21:19tenga quebradura de pie o rotura de mH3027
+- Lev_22:25ni de m de extranjeros tomarás estosH3027
+- Lev_24:14los que le oyeron pongan sus m sobreH3027
+- Lev_25:14o compraréis de m de vuestro prójimoH3027
+- Lev_26:25y seréis entregados en m del enemigoH3027
+- Lev_26:46que estableció Jehová...por m de MoisésH3027
+- Núm_5:18mujer...pondrá sobre sus m la ofrendaH3709
+- Núm_5:18el sacerdote tendrá en la m las aguasH3027
+- Núm_5:25tomará de la m de la mujer la ofrendaH3027
+- Núm_6:19y las pondrá sobre las m del nazareoH3709
+- Núm_7:8conforme a su ministerio bajo la m deH3027
+- Núm_8:10hijos de Israel sus m sobre los levitasH3027
+- Núm_8:12pondrán sus m sobre las cabezas de losH3027
+- Núm_11:23¿acaso se ha acortado la m de Jehová?[[H3027]]
+- Núm_14:30alcé mi m y juré que os haría habitarH3027
+- Núm_20:11alzó Moisés su m y golpeó la peña conH3027
+- Núm_20:20salió Edom contra él con...y m fuerteH3027
+- Núm_21:2si en...entregares este pueblo en mi mH3027
+- Núm_21:34porque en tu m lo he entregado, a élH3027
+- Núm_22:7con las dádivas de adivinación en su mH3027
+- Núm_22:23vio al ángel...con su espada...en su mH3027
+- Núm_22:29al asna...¡Ojalá tuviera espada en mi mH3027
+- Núm_22:31y tenía su espada desnuda en su mH3027
+- Núm_24:7m destilarán aguas, y su descendencia
+- Núm_24:10batiendo sus m le dijo: Para maldecirH3709
+- Núm_25:7vio Finees...y tomó una lanza en su mH3027
+- Núm_27:18torna a Josué...y pondrás tu m sobre élH3027
+- Núm_27:23puso sobre él sus m, y le dio el cargoH3027
+- Núm_27:23Jehová había mandado por m de MoisésH3027
+- Núm_31:6y con las trompetas en su m para tocarH3027
+- Núm_33:3salieron los...de Israel con m poderosaH3027
+- Núm_35:17y si con piedra en la m...lo hiriere yH3027
+- Núm_35:18y si con instrumento de palo en la mH3027
+- Núm_35:21o por enemistad lo hirió con su m, yH3027
+- Núm_35:25librará al homicida de m del vengadorH3027
+- Deu_1:25y tomaron en sus m del fruto del paísH3027
+- Deu_1:27para entregarnos en m del amorreo paraH3027
+- Deu_2:7te ha bendecido en toda obra de tus mH3027
+- Deu_2:15la m de Jehová vino sobre ellos paraH3027
+- Deu_2:24aquí he entregado en tu m a Sehón reyH3027
+- Deu_2:30para entregarlo en tu m, como hasta hoyH3027
+- Deu_3:2tu m he entregado a él y a todo su puebloH3027
+- Deu_3:3entregó...en nuestra m a Og rey de BasánH3027
+- Deu_3:8Hermón, de m de los dos reyes amorreosH3027
+- Deu_3:24mostrar...tu grandeza, y tu m poderosaH3027
+- Deu_4:28serviréis allí a dioses hechos de m deH3027
+- Deu_4:34m poderosa y brazo extendido, y hechosH3027
+- Deu_5:15te sacó de allá con m fuerte y brazoH3027
+- Deu_6:8y las atarás como una señal en tu m, yH3027
+- Deu_6:21y Jehová nos sacó de...con m poderosaH3027
+- Deu_7:8os ha sacado Jehová con m poderosa, yH3027
+- Deu_7:8os ha rescatado...de la m de Faraón reyH3027
+- Deu_7:19de la m poderosa y el brazo extendidoH3027
+- Deu_7:24él entregará sus reyes en tu m, y túH3027
+- Deu_8:17digas...Mi poder y la fuerza de mi m meH3027
+- Deu_9:15con las tablas del pacto en mis dos mH3027
+- Deu_9:17las arrojé de mis dos m, y las quebréH3027
+- Deu_9:26que sacaste de Egipto con m poderosaH3027
+- Deu_10:3y subí al...con las dos tablas en mi mH3027
+- Deu_11:2ni visto el...su m poderosa, y su brazoH3027
+- Deu_11:18y las ataréis como señal en vuestra mH3027
+- Deu_12:6, Deu_12:11, Deu_12:17la ofrenda elevada de vuestras mH3027
+- Deu_12:7os alegraréis...en toda obra de vuestra mH3027
+- Deu_12:18te alegrarás...de toda la obra de tus mH3027
+- Deu_13:9tu m se alzará...la m de todo el puebloH3027
+- Deu_13:17y no se pegará a tu m nada del anatemaH3027
+- Deu_14:25guardarás el dinero en tu m, y vendrásH3027
+- Deu_14:29te bendiga en...obra que tus m hicierenH3027
+- Deu_15:2todo aquel que hizo empréstito de su mH3027
+- Deu_15:3lo que...tuviere tuyo, lo perdonará tu mH3027
+- Deu_15:7no...ni cerrarás tu m contra tu hermanoH3027
+- Deu_15:8sino abrirás a él tu m liberalmente, yH3027
+- Deu_15:11abrirás tu m a tu hermano, al pobre yH3027
+- Deu_15:13libre, no le enviarás con las m vacías
+- Deu_16:10de la abundancia voluntaria de tu mH3027
+- Deu_16:15habrá bendecido...toda la obra de tus mH3027
+- Deu_16:16ninguno se presentará...con las m vacías
+- Deu_16:17con la ofrenda de su m conforme a laH3027
+- Deu_17:7m de los testigos caerá...sobre él paraH3027
+- Deu_17:7y después la m de todo el pueblo; asíH3027
+- Deu_19:5al dar su m el golpe con el hacha paraH3027
+- Deu_19:12lo entregarán en m del vengador de laH3027
+- Deu_19:21diente por diente, m por m, pie por pieH3027
+- Deu_20:13que Jehová tu Dios la entregue en tu mH3027
+- Deu_21:6todos...lavarán sus m sobre la becerraH3027
+- Deu_21:7nuestras m no han derramado esta sangreH3027
+- Deu_21:10Jehová tu Dios los entregare en tu mH3027
+- Deu_23:20que te bendiga...en toda obra de tus mH3027
+- Deu_23:25podrás arrancar espigas con tu m; masH3027
+- Deu_24:1se la entregará en su m, y la despediráH3027
+- Deu_24:3la entregare en su m, y la despidiereH3027
+- Deu_24:19que te bendiga...en toda obra de tus niH3027
+- Deu_25:11para librar a su marido de m del que leH3027
+- Deu_25:11y alargando su m asiere de sus partesH3027
+- Deu_25:12le cortarás...la m; no la perdonarásH3709
+- Deu_26:4el sacerdote tomará la canasta de tu mH3027
+- Deu_26:8Jehová nos sacó de Egipto con m fuerteH3027
+- Deu_27:15hiciere escultura o...de m de artíficeH3027
+- Deu_28:8y sobre...aquello en que pusieres tu mH3027
+- Deu_28:12y para bendecir toda obra de tus mH3027
+- Deu_28:20y asombro en todo cuanto pusieres mH3027
+- Deu_28:32ojos lo verán...no habrá fuerza en tu mH3027
+- Deu_30:9te hará...abundar en toda obra de tus mH3027
+- Deu_31:29enojándole con la obra de vuestras mH3027
+- Deu_32:27no sea que digan: Nuestra m poderosaH3027
+- Deu_32:39y no hay quien pueda librar de mi mH3027
+- Deu_32:40yo alzaré a los cielos mi m, y diréH3027
+- Deu_32:41echare m del juicio...tomaré venganzaH3027
+- Deu_33:2vino...con la ley de fuego a su m derechaH3225
+- Deu_33:3los consagrados a él estaban en su mH3027
+- Deu_33:7m le basten, y tú seas su ayuda contraH3027
+- Deu_33:11y recibe con agrado la obra de sus mH3027
+- Deu_34:9Moisés había puesto sus m sobre élH3027
+- Jos_2:19su sangre será sobre...si m le tocareH3027
+- Jos_2:24entregado toda la tierra en nuestras mH3027
+- Jos_4:24conozcan que la m de Jehová es poderosaH3027
+- Jos_5:13un varón que...tenía una espada...en su niH3027
+- Jos_6:2mira, yo he entregado en tu m a JericóH3027
+- Jos_7:7para entregarnos en las m de los amorreosH3027
+- Jos_8:1yo he entregado en tu m al rey de Hai, aH3027
+- Jos_8:7vuestro Dios la entregará en vuestras mH3027
+- Jos_8:18extiende la lanza que tienes en tu mH3027
+- Jos_8:18hacia Hai, porque...la entregaré en tu mH3027
+- Jos_8:18extendió...la lanza que en su m teníaH3027
+- Jos_8:19los que...corrieron luego que él alzó su mH3027
+- Jos_8:26no retiró su m...extendido con la lanzaH3027
+- Jos_9:11tomad en vuestras m provisión para elH3027
+- Jos_9:25ahora, pues, henos aquí en tu m...hazloH3027
+- Jos_9:26los libró de la m de los hijos de IsraelH3027
+- Jos_10:8porque yo los he entregado en tu m, yH3027
+- Jos_10:19Dios los ha entregado en vuestra mH3027
+- Jos_10:30entregó...ella y su rey en m de IsraelH3027
+- Jos_10:32entregó a Laquis en m de Israel, y laH3027
+- Jos_11:8los entregó Jehová en m de Israel, yH3027
+- Jos_20:5no entregarán en su m al homicida, porH3027
+- Jos_20:9que no muriese por m del vengador de laH3027
+- Jos_21:44entregó en sus m a todos sus enemigosH3027
+- Jos_22:31librado a...de Israel de la m de JehováH3027
+- Jos_24:8amorreos...yo los entregué en vuestras mH3027
+- Jos_24:10cual os bendijo...y os libré de sus mH3027
+- Jos_24:11de Jericó...los entregué en vuestras mH3027
+- Jue_1:2que yo he entregado la tierra en sus mH3027
+- Jue_1:4Jehová entregó en sus m al cananeo y alH3027
+- Jue_1:6le cortaron los pulgares de las m y deH3027
+- Jue_1:7cortados los pulgares de sus m y de susH3027
+- Jue_2:14los entregó en m de robadores que losH3027
+- Jue_2:14Jehová...los vendió en m de sus enemigosH3027
+- Jue_2:15la m de Jehová estaba contra ellos paraH3027
+- Jue_2:16jueces que los librasen de m de los queH3027
+- Jue_2:18los libraba de m de los enemigos todo elH3027
+- Jue_2:23por esto...no las entregó en m de JosuéH3027
+- Jue_3:4él había dado a...padres por m de MoisésH3027
+- Jue_3:8los vendió en m de Cusan-risataim rey deH3027
+- Jue_3:10entregó en su m a Cusan-risataim rey deH3027
+- Jue_3:10prevaleció su m contra Cusan-risataimH3027
+- Jue_3:21alargó Aod su m izquierda, y tomó elH3027
+- Jue_3:28ha entregado a...moabitas en vuestras mH3027
+- Jue_3:30fue subyugado Moab...bajo la m de IsraelH3027
+- Jue_4:2Jehová los vendió en m de Jabín rey deH3027
+- Jue_4:7y yo atraeré...y lo entregaré en tus m?[[H3027]]
+- Jue_4:9en m de mujer venderá Jehová a SísaraH3027
+- Jue_4:14Jehová ha entregado a Sísara en tus mH3027
+- Jue_4:21poniendo un mazo en su m, se le acercóH3027
+- Jue_4:24la m de...Israel fue endureciéndose másH3027
+- Jue_5:26tendió su m a la estaca, y su diestra alH3027
+- Jue_6:1los entregó en m de Madián por siete añosH3027
+- Jue_6:2la m de Madián prevaleció contra IsraelH3027
+- Jue_6:9os libré de m de los egipcios, y de m deH3027
+- Jue_6:13nos ha entregado en m de los madianitasH3709
+- Jue_6:14vé...y salvarás a Israel de la m de losH3709
+- Jue_6:21el báculo que tenía en su m, tocó con laH3027
+- Jue_6:36si has de salvar a Israel por mi m, comoH3027
+- Jue_6:37entenderé...salvarás a Israel por mi mH3027
+- Jue_7:2que yo entregue a los madianitas en su mH3027
+- Jue_7:2se alabe...diciendo: Mi m me ha salvadoH3027
+- Jue_7:6lamieron llevando el agua con la m a suH3027
+- Jue_7:7y entregaré a los madianitas en tus mH3027
+- Jue_7:9levántate...yo lo he entregado en tus mH3027
+- Jue_7:11oirás...y entonces tus m se esforzaránH3027
+- Jue_7:14de Gedeón...Dios ha entregado en sus m aH3027
+- Jue_7:15entregado el...de Madián en vuestras mH3027
+- Jue_7:16dio a todos ellos trompetas en sus mH3027
+- Jue_7:19y quebraron los cántaros que...en sus mH3027
+- Jue_7:20tomaron en la m izquierda las teas, yH3027
+- Jue_8:3entregado en vuestras m a Oreb y a ZeebH3027
+- Jue_8:6, Jue_8:15¿están ya en tu m Zeba y Zalmuna, paraH3027
+- Jue_8:7Jehová haya entregado en mi m a Zeba y aH3027
+- Jue_8:22pues que nos ha librado de m de MadiánH3027
+- Jue_9:16si...pagado conforme a la obra de sus mH3027
+- Jue_9:17mi padre...para libraros de m de MadiánH3027
+- Jue_9:24de Siquem que fortalecieron las m de élH3027
+- Jue_9:29ojalá estuviera este pueblo bajo mi mH3027
+- Jue_9:48Abimelec un hacha en su m, y cortó unaH3027
+- Jue_10:7en m de los filisteos, y en m...de AmónH3027
+- Jue_10:12y clamando a mí no os libré de sus m?[[H3027]]
+- Jue_11:21Dios...entregó a Sehón...en m de IsraelH3027
+- Jue_11:30si entregares a los amonitas en mis mH3027
+- Jue_11:32fue Jefté...Jehová los entregó en su mH3027
+- Jue_12:2os llamé, y no me defendisteis de su mH3027
+- Jue_12:6le echaban m, y le degollaban junto aH3027
+- Jue_13:1los entregó en m de los filisteos porH3027
+- Jue_13:5salvar a Israel de m de los filisteosH3027
+- Jue_13:23no aceptaría de...m el holocausto y laH3027
+- Jue_14:6despedazó al...sin tener nada en su mH3027
+- Jue_14:9tomándolo en sus m, se fue comiéndoloH3709
+- Jue_15:12para...entregarte en m de los filisteosH3027
+- Jue_15:13te entregaremos en sus m; mas no teH3027
+- Jue_15:14y las ataduras se cayeron de sus mH3027
+- Jue_15:15extendió la m y la tomó, y mató conH3027
+- Jue_15:17arrojó de su m la quijada, y llamó aH3027
+- Jue_15:18grande salvación por m de tu siervoH3027
+- Jue_15:18sed, y caeré en m de los incircuncisos?[[H3027]]
+- Jue_16:18vinieron...trayendo en su m el dineroH3027
+- Jue_16:21mas los filisteos le echaron m, y le
+- Jue_16:23-24nuestro dios entregó en nuestras mH3027
+- Jue_16:26dijo al joven que le guiaba de la mH3027
+- Jue_16:29m derecha sobre una y su m izquierdaH3225, [[H8040]]
+- Jue_18:10pues Dios la ha entregado en vuestras mH3027
+- Jue_18:19pon la m sobre tu boca, y vente conH3027
+- Jue_19:27estaba tendida...las m sobre el umbralH3027
+- Jue_19:29echó m de su concubina, y la partió porH2388
+- Rut_1:13la m de Jehová ha salido contra míH3027
+- Rut_1:21Jehová me ha vuelto con las m vacías
+- Rut_3:17no vayas a tu suegra con las m vacías
+- Rut_4:5día que compres las tierras de m de NoemíH3027
+- Rut_4:9he adquirido de m de Noemí todo lo queH3027
+- 1Sa_2:13en su m un garfio de tres dientesH3027
+- 1Sa_4:3nos salve de la m de nuestros enemigosH3709
+- 1Sa_4:8¿quién nos librará de la m de...diosesH3027
+- 1Sa_5:4palmas de sus m estaban cortadas sobreH3027
+- 1Sa_5:6y se agravó la m de Jehová sobre...AsdodH3027
+- 1Sa_5:7Dios...porque su m es dura sobre nosotrosH3027
+- 1Sa_5:9la m de Jehová estuvo contra la ciudadH3027
+- 1Sa_5:11y la m de Dios se había agravado allíH3027
+- 1Sa_6:3por qué no se apartó de vosotros su mH3027
+- 1Sa_6:5quizá aliviará su m de sobre vosotrosH3027
+- 1Sa_6:9sabremos que no es su m...nos ha heridoH3027
+- 1Sa_7:3y os librará de la m de los filisteosH3027
+- 1Sa_7:8que nos guarde de la m de los filisteosH3027
+- 1Sa_7:13m de Jehová estuvo contra los filisteosH3027
+- 1Sa_7:14Israel libró su territorio de m de losH3027
+- 1Sa_9:8se halla en mi m la cuarta parte de unH3027
+- 1Sa_9:16salvará a mi pueblo de m de...filisteosH3027
+- 1Sa_10:4dos panes, los que tomarás de m de ellosH3027
+- 1Sa_10:7haz lo que te viniere a la m, porqueH3027
+- 1Sa_10:18os libré de m de los egipcios, y de mH3027
+- 1Sa_12:4has tomado algo de m de ningún hombreH3027
+- 1Sa_12:5no habéis hallado cosa alguna en mi mH3027
+- 1Sa_12:9él los vendió en m de Sísara jefe delH3027
+- 1Sa_12:9m de los filisteos...m del rey de MoabH3027
+- 1Sa_12:10líbranos...de m de nuestros enemigos, yH3027
+- 1Sa_12:11y os libró de m de vuestros enemigosH3027
+- 1Sa_12:15la m de Jehová estará contra vosotrosH3027
+- 1Sa_13:22no se halló espada...en m de ninguno delH3027
+- 1Sa_14:10Jehová los ha entregado en nuestra mH3027
+- 1Sa_14:12Jehová los ha entregado en m de IsraelH3027
+- 1Sa_14:13subió...trepando con sus m y sus piesH3027
+- 1Sa_14:19dijo Saúl al sacerdote: Detén tu mH3027
+- 1Sa_14:26quien hiciera llegar su m a su bocaH3027
+- 1Sa_14:27y alargó...una vara que traía en su mH3027
+- 1Sa_14:27la mojó en un...y llevó su m a la bocaH3027
+- 1Sa_14:34y trajo...cada cual por su m su vacaH3027
+- 1Sa_14:37tras...¿los entregarás en m de Israel?[[H3027]]
+- 1Sa_14:43la punta de la vara que traía en mi mH3027
+- 1Sa_14:48libró a...de m de los que lo saqueabanH3027
+- 1Sa_16:16arpa...toque con su m, y tengas alivioH3027
+- 1Sa_16:23David...tocaba con su m; y Saúl teníaH3027
+- 1Sa_17:22dejó su carga en m del que guardaba elH3027
+- 1Sa_17:35le echaba m de la quijada, y lo heríaH2388
+- 1Sa_17:37él...me librará de la m de este filisteoH3027
+- 1Sa_17:40y tomó su cayado en su m, y escogió 5H3027
+- 1Sa_17:40tomó su honda en su m, y se fue haciaH3027
+- 1Sa_17:46Jehová te entregará hoy en mi m, y yoH3027
+- 1Sa_17:47de Jehová...él entregará en nuestras mH3027
+- 1Sa_17:49metiendo David su m en la bolsa, tomóH3027
+- 1Sa_17:50y lo mató, sin tener...espada en su mH3027
+- 1Sa_17:57David la cabeza del filisteo en su mH3027
+- 1Sa_18:10tocaba...tenía Saúl la lanza en la mH3027
+- 1Sa_18:17no será mi m...sino la m de los filisteosH3027
+- 1Sa_18:21que la m de los filisteos sea contra élH3027
+- 1Sa_18:25hacer caer a David en m de...filisteosH3027
+- 1Sa_19:5pues él tomó su vida en su m, y mató alH3709
+- 1Sa_19:9una lanza a m, mientras David tocabaH3027
+- 1Sa_20:16requiéralo...de la m de los enemigos deH3027
+- 1Sa_21:3¿qué tienes a m? Dame cinco panes, o loH3027
+- 1Sa_21:4no tengo pan común a la m...pan sagradoH3027
+- 1Sa_21:8¿no tienes aquí a m lanza o espada?[[H3027]]
+- 1Sa_21:8no tomé en mi m mi espada ni mis armasH3027
+- 1Sa_22:6Saúl...tenía su lanza en su m, y todosH3027
+- 1Sa_22:17también la m de ellos está con DavidH3027
+- 1Sa_22:17no quisieron extender sus m para matarH3027
+- 1Sa_23:4yo entregaré en tus m a los filisteosH3027
+- 1Sa_23:6Abiatar...descendió con el efod en su mH3027
+- 1Sa_23:7Dios lo ha entregado en mi m; pues seH3027
+- 1Sa_23:11¿me entregarán los...de Keila en sus m?[[H3027]]
+- 1Sa_23:12dijo...¿Me entregarán los...en m de Saúl?[[H3027]]
+- 1Sa_23:14buscaba...Dios no lo entregó en sus mH3027
+- 1Sa_23:16Jonatán hijo...fortaleció su m en DiosH3027
+- 1Sa_23:17no te hallará la m de Saúl mi padreH3027
+- 1Sa_23:20nosotros lo entregaremos en la m delH3027
+- 1Sa_24:4el día...entrego a tu enemigo en tu mH3027
+- 1Sa_24:6mi m contra él; porque es el ungido deH3027
+- 1Sa_24:10Jehová te ha puesto hoy en mis m en laH3027
+- 1Sa_24:10dije: No extenderé mi m contra mi señorH3027
+- 1Sa_24:11y mira...la orilla de tu manto en mi mH3027
+- 1Sa_24:11ve que no hay mal ni traición en mi mH3027
+- 1Sa_24:12juzgue Jehová...mi m no será contra tiH3027
+- 1Sa_24:13dice...así que mi m no será contra tiH3027
+- 1Sa_24:15vea...mi causa, y me defienda de tu mH3027
+- 1Sa_24:18habiéndome entregado Jehová en tu mH3027
+- 1Sa_24:20el reino de...ha de ser en tu m firmeH3027
+- 1Sa_25:8te ruego que des lo que tuvieres a mH3027
+- 1Sa_25:26ha impedido...vengarte por tu propia mH3027
+- 1Sa_25:33de ir a...y a vengarme por mi propia mH3027
+- 1Sa_25:35recibió David de su m lo que le habíaH3027
+- 1Sa_25:39juzgó...afrenta recibida de m de NabalH3027
+- 1Sa_26:8ha entregado Dios a tu enemigo en tu mH3027
+- 1Sa_26:9¿quién extenderá su m contra el ungidoH3027
+- 1Sa_26:11de extender mi m contra el ungido deH3027
+- 1Sa_26:18¿qué he hecho? ¿Qué mal hay en mi m?[[H3027]]
+- 1Sa_26:23Jehová te había entregado hoy en mi mH3027
+- 1Sa_26:23mas yo no quise extender mi m contraH3027
+- 1Sa_27:1al fin seré muerto...día por la m de SaúlH3027
+- 1Sa_27:1que fugarme a la...así escaparé de su mH3027
+- 1Sa_28:17Jehová ha quitado el reino de tu m, yH3027
+- 1Sa_28:19Jehová entregará...m de los filisteosH3027
+- 1Sa_28:19al ejército de...en m de los filisteosH3027
+- 1Sa_30:15ni me entregarás en m de mi amo, y yoH3027
+- 1Sa_30:23entregado en nuestra m...merodeadoresH3027
+- 2Sa_1:14extender tu m para matar al ungidoH3027
+- 2Sa_2:7esfuércense, pues, ahora vuestras m, yH3027
+- 2Sa_2:16y cada uno echó m de...de su adversarioH2388
+- 2Sa_2:21echa m de alguno de los hombres, y tomaH270
+- 2Sa_3:8no te he entregado en m de David; ¿y túH3027
+- 2Sa_3:12que mi m estará contigo para volver a tiH3027
+- 2Sa_3:18por la m de...David libraré a mi puebloH3027
+- 2Sa_3:18mi pueblo Israel de m de los filisteosH3027
+- 2Sa_3:18libraré a...y de m de todos sus enemigosH3027
+- 2Sa_3:34tus m no estaban atadas, ni tus piesH3027
+- 2Sa_4:1luego que oyó...las m se le debilitaronH3027
+- 2Sa_4:11demandar yo su sangre de vuestras m, yH3027
+- 2Sa_4:12y les cortaron las m y los pies, y losH3027
+- 2Sa_5:19¿iré contra los...Los entregarás en mi m?[[H3027]]
+- 2Sa_5:19vé...entregaré a los filisteos en tu mH3027
+- 2Sa_6:6Uza extendió su m al arca de Dios, y la
+- 2Sa_8:1tomó...a Meteg-ama de m de los filisteosH3027
+- 2Sa_8:10llevaba en su m utensilios de plata, deH3027
+- 2Sa_10:10resto del ejército en m de Abisai suH3027
+- 2Sa_11:14una carta, la cual envió por m de UríasH3027
+- 2Sa_12:7yo te ungí...y te libré de la m de SaúlH3027
+- 2Sa_13:5para que al verla yo la coma de su mH3027
+- 2Sa_13:6dos hojuelas, para que coma yo de su mH3027
+- 2Sa_13:10trae la comida a...que yo coma de tu mH3027
+- 2Sa_13:19su m sobre su cabeza, se fue gritandoH3027
+- 2Sa_14:16librar a su sierva de m del hombre queH3709
+- 2Sa_14:19¿no anda la m de Joab...en todas estasH3027
+- 2Sa_15:5a él, él extendía la m y lo tomaba, yH3027
+- 2Sa_16:8ha entregado el reino en m de tu hijoH3027
+- 2Sa_16:21se fortalecerán las m de todos los queH3027
+- 2Sa_17:2y caeré sobre él mientras...débil de mH3027
+- 2Sa_18:12no extendería yo mi m contra el hijoH3709
+- 2Sa_18:14tomando tres dardos en su m, los clavóH3709
+- 2Sa_18:19ha defendido...de la m de sus enemigos?
+- 2Sa_18:28que habían levantado sus m contra miH3027
+- 2Sa_18:31ha defendido tu causa de la m de todosH3027
+- 2Sa_19:9el rey nos ha librado de m de...enemigosH3709
+- 2Sa_19:9y nos ha salvado de m de los filisteosH3709
+- 2Sa_20:10de la daga que estaba en la m de JoabH3027
+- 2Sa_20:21ha levantado su m contra el rey DavidH3027
+- 2Sa_21:9y los entregó en m de los gabaonitasH3027
+- 2Sa_21:20doce dedos en las m, y otros doce enH3027
+- 2Sa_21:22por m de David y por m de sus siervosH3027
+- 2Sa_22:1le había librado de la m...la m de SaúlH3709
+- 2Sa_22:21, 2Sa_22:25conforme a la limpieza de mis mH3027
+- 2Sa_22:35quien adiestra mis m para la batallaH3027
+- 2Sa_23:6espinos...los cuales nadie toma con la mH3027
+- 2Sa_23:10su m se cansó, y quedó pegada su m aH3027
+- 2Sa_23:21y tenía el egipcio una lanza en su mH3027
+- 2Sa_23:21arrebató al egipcio la lanza de la mH3027
+- 2Sa_24:14caigamos ahora en m de Jehová, porqueH3027
+- 2Sa_24:14de Jehová...no caiga yo en m de hombresH3027
+- 2Sa_24:16el ángel extendió su m sobre JerusalénH3027
+- 2Sa_24:16basta ahora; detén tu m. Y el ángel deH3027
+- 2Sa_24:17te ruego que tu m se vuelva contra míH3027
+- 1Re_2:25Salomón envió por m de Benaía hijo deH3027
+- 1Re_2:46reino fue confirmado en la m de SalomónH3027
+- 1Re_7:39basas a la m derecha...a la m izquierdaH3802
+- 1Re_7:49cinco candeleros de oro...a la m derecha
+- 1Re_8:15que habló...lo que con su m ha cumplidoH3027
+- 1Re_8:22Salomón...y extendiendo sus m al cieloH3709
+- 1Re_8:24con tu m lo has cumplido, como sucedeH3027
+- 1Re_8:38súplica...extendiere sus m a esta casaH3709
+- 1Re_8:42oirán de...de tu m fuerte y de tu brazoH3027
+- 1Re_8:54levantó...con sus m extendidas al cieloH3709
+- 1Re_9:9dejaron a...y echaron m a dioses ajenosH2388
+- 1Re_10:29los adquirían por m de ellos todos losH3027
+- 1Re_11:12padre; lo romperé de la m de tu hijoH3027
+- 1Re_11:26Jeroboam hijo...alzó su m contra el reyH3027
+- 1Re_11:27la causa por la cual éste alzó su mH3027
+- 1Re_11:31yo rompo el reino de la m de SalomónH3027
+- 1Re_11:34pero no quitaré nada del reino de sus mH3027
+- 1Re_11:35quitaré el reino de la m de su hijo, yH3027
+- 1Re_13:4extendiendo su m...mas la m...se le secóH3027
+- 1Re_13:6ores por mí...que mi m me sea restauradaH3027
+- 1Re_13:6oró a...y la m del rey se le restauróH3027
+- 1Re_14:3y toma en tu m diez panes, y tortas, yH3027
+- 1Re_16:7provocándole...con las obras de sus mH3027
+- 1Re_17:11me traigas...un bocado de pan en tu ¡mH3027
+- 1Re_18:9que entregues a tu siervo en m de AcabH3027
+- 1Re_18:44una pequeña nube como la palma de la mH3709
+- 1Re_18:46la m de Jehová estuvo sobre Elías, elH3027
+- 1Re_20:13te la entregaré hoy en tu m, para queH3027
+- 1Re_20:14¿por m de quién?...Por m de los siervos
+- 1Re_20:28entregaré...esta gran multitud en tu mH3027
+- 1Re_20:42por cuanto soltaste de la m el hombreH3027
+- 1Re_22:3no hemos hecho nada para tomarla de mH3027
+- 1Re_22:6, 1Re_22:12, 1Re_22:15Jehová la entregará en m del reyH3027
+- 2Re_3:10, 2Re_3:13entregarlos en m de los moabitasH3027
+- 2Re_3:15tocaba, la m de Jehová vino sobre EliseoH3027
+- 2Re_3:18también a los moabitas en vuestras mH3027
+- 2Re_4:29ciñe...y toma mi báculo en tu m, y véH3027
+- 2Re_4:34poniendo...sus m sobre las m suyas; asíH3709
+- 2Re_5:11alzará su m y tocará el lugar, y sanaráH3027
+- 2Re_5:20no tomando de su m las cosas que habíaH3027
+- 2Re_5:24él lo tomó de m de ellos, y lo guardóH3027
+- 2Re_6:7tómalo. Y él extendió la m, y lo tomóH3027
+- 2Re_8:8rey dijo...Toma en tu m un presente, y véH3027
+- 2Re_8:9tomó, pues, Hazael en su m un presenteH3027
+- 2Re_9:1toma esta redoma de aceite en tu m, y véH3027
+- 2Re_9:7yo vengue la sangre...de la m de JezabelH3027
+- 2Re_9:35más que...pies, y las palmas de las mH3027
+- 2Re_10:15dame la m. Y él le dio la m. Luego loH3027
+- 2Re_10:24hombres que yo he puesto en vuestras mH3027
+- 2Re_11:8teniendo cada uno sus armas en las mH3027
+- 2Re_11:11teniendo cada uno sus armas en sus mH3027
+- 2Re_11:12batiendo las m dijeron: ¡viva el rey![[H3709]]
+- 2Re_12:5recíbanlo los...de m de sus familiares
+- 2Re_12:9a la m derecha así que se entra en elH3225
+- 2Re_12:15cuyas m el dinero era entregado, paraH3027
+- 2Re_13:3en m de Hazael rey...y en m de Ben-adadH3027
+- 2Re_13:16tu m sobre el arco. Y puso él su mH3027
+- 2Re_13:16puso Eliseo sus m sobre las m del reyH3027
+- 2Re_13:25tomó de m de Ben-adad...las ciudades queH3027
+- 2Re_13:25había tomado en guerra de m de JoacazH3027
+- 2Re_14:5afirmado en sus m el reino, mató a losH3027
+- 2Re_14:27salvó por m de Jeroboam hijo de JoásH3027
+- 2Re_16:7defiéndeme de m del rey de Siria, y deH3709
+- 2Re_16:7y de m del rey de Israel, que se hanH3709
+- 2Re_17:7los sacó...de bajo la m de Faraón rey deH3027
+- 2Re_17:20los entregó en m de saqueadores, hastaH3027
+- 2Re_17:39os librará de m de...vuestros enemigosH3027
+- 2Re_18:21se le entrará por la m y la traspasaráH3709
+- 2Re_18:29Ezequías...no os podrá librar de mi mH3027
+- 2Re_18:30ciudad no será entregada en m del reyH3027
+- 2Re_18:33ha librado su tierra de la m del reyH3027
+- 2Re_18:34¿pudieron...librar a Samaria de mi m ?[[H3027]]
+- 2Re_18:35qué dios...ha librado su tierra de mi mH3027
+- 2Re_18:35que Jehová libre de mi m a Jerusalén?[[H3027]]
+- 2Re_19:10Jerusalén no será entregada en m delH3027
+- 2Re_19:14tomó...cartas de m de los embajadoresH3027
+- 2Re_19:18no eran dioses...obra de m de hombresH3027
+- 2Re_19:19sálvanos, te ruego, de su m, para queH3027
+- 2Re_19:23por m de tus mensajeros has vituperadoH3027
+- 2Re_20:6te libraré a ti...de m del rey de AsiriaH3709
+- 2Re_21:14y lo entregaré en m de sus enemigosH3027
+- 2Re_22:5que lo pongan en m de los que hacen laH3027
+- 2Re_22:17provocándome a ira con...obra de sus mH3027
+- 2Re_23:8la m izquierda, a la puerta de la ciudadH8040
+- 2Re_23:13lugares altos...la m derecha del monteH3225
+- 1Cr_4:10si tu m estuviera conmigo...librarasH3027
+- 1Cr_5:10los agarenos, los cuales cayeron en su mH3027
+- 1Cr_5:20y los agarenos...se rindieron en sus mH3027
+- 1Cr_6:15transportó a Judá...m de NabucodonosorH3027
+- 1Cr_6:39su hermano Asaf...estaba a su m derechaH3225
+- 1Cr_6:44a la m izquierda estaban sus hermanosH8040
+- 1Cr_11:23arrebató al egipcio la lanza de la mH3027
+- 1Cr_12:2y usaban de ambas m para tirar piedrasH3231, [[H8041]]
+- 1Cr_12:17sin haber iniquidad en mis m, véalo elH3709
+- 1Cr_13:9cuando...Uza extendió su m al arca paraH3027
+- 1Cr_13:10había extendido su m al arca; y murióH3027
+- 1Cr_14:10los filisteos? ¿Los entregarás en mi m?[[H3027]]
+- 1Cr_14:10sube, porque yo los entregaré en tus mH3027
+- 1Cr_14:11Dios rompió mis enemigos por mi mH3027
+- 1Cr_16:7aclamar a Jehová por m de Asaf y de susH3027
+- 1Cr_18:1tomó a Gat y sus...de m de los filisteosH3027
+- 1Cr_19:11puso luego el resto de...en m de AbisaiH3027
+- 1Cr_20:6hombre...tenía seis dedos en pies y m
+- 1Cr_20:8cayeron por m de David y de...siervosH3027
+- 1Cr_21:13ruego que yo caiga en la m de JehováH3027
+- 1Cr_21:13ruego...que no caiga en m de hombresH3027
+- 1Cr_21:15y dijo al ángel...Basta ya; detén tu mH3027
+- 1Cr_21:16ángel...con una espada desnuda en su mH3027
+- 1Cr_21:17Dios mío, sea ahora tu m contra mí, yH3027
+- 1Cr_22:16levántate, y m a la obra; y Jehová esté
+- 1Cr_22:18él ha entregado en mi m a los moradoresH3027
+- 1Cr_28:19me fueron trazadas por la m de JehováH3027
+- 1Cr_28:20anímate y esfuérzate, y m a la obra
+- 1Cr_29:5toda la obra de las m de los artíficesH3027
+- 1Cr_29:8el tesoro de...en m de Jehiel gersonitaH3027
+- 1Cr_29:12en tu m está la fuerza y el poder, yH3027
+- 1Cr_29:12en tu m el hacer grande y el dar poderH3027
+- 1Cr_29:14tuyo, y de lo recibido de tu m te damosH3027
+- 1Cr_29:16toda esta abundancia que...de tu m esH3027
+- 2Cr_3:17las columnas...una a la m derecha, yH3225
+- 2Cr_3:17a la de la m derecha llamó Jaquín, y aH8040
+- 2Cr_6:4con su m ha cumplido lo que prometió conH3027
+- 2Cr_6:12se puso luego Salomón, y extendió sus mH3709
+- 2Cr_6:13Salomón...extendió sus m al cielo, y dijoH3709
+- 2Cr_6:15con tu m lo has cumplido, como se ve enH3027
+- 2Cr_6:29si extendiere sus m hacia esta casaH3709
+- 2Cr_6:32venido...a causa de...y de tu m poderosaH3027
+- 2Cr_8:18Hiram le había enviado naves por m deH3027
+- 2Cr_12:5yo también os he dejado en m de SisacH3027
+- 2Cr_12:7no se derramará mi ira...por m de SisacH3027
+- 2Cr_13:8al reino...en m de los hijos de DavidH3027
+- 2Cr_13:16huyeron...y Dios los entregó en sus mH3027
+- 2Cr_15:7no desfallezcan vuestras m, pues hayH3027
+- 2Cr_16:7el ejército del...ha escapado de tus mH3027
+- 2Cr_16:8te apoyaste en...él los entregó en tus mH3027
+- 2Cr_17:5por tanto, confirmó el reino en su mH3027
+- 2Cr_18:5porque Dios los entregará en m del reyH3027
+- 2Cr_18:11porque Jehová la entregará en m del reyH3027
+- 2Cr_18:14pues serán entregados en vuestras mH3027
+- 2Cr_18:18el ejército de...estaba a su m derechaH3225
+- 2Cr_20:6¿no está en tu m tal fuerza y poder, queH3027
+- 2Cr_23:7rey...cada uno tendrá sus armas en la mH3027
+- 2Cr_23:10teniendo cada uno su espada en la mH3027
+- 2Cr_23:15le echaron m, y luego que ella huboH3027
+- 2Cr_23:18bajo la m de los sacerdotes y levitasH3027
+- 2Cr_24:11llevar el arca...por m de los levitasH3027
+- 2Cr_24:13y por sus m la obra fue restaurada, yH3027
+- 2Cr_24:24Jehová entregó en sus m un ejércitoH3027
+- 2Cr_25:15que no libraron a su pueblo de tus m?[[H3027]]
+- 2Cr_25:20quería entregar en m de sus enemigosH3027
+- 2Cr_26:11la lista hecha por m de Jeiel escribaH3027
+- 2Cr_26:13bajo la m de éstos estaba el ejércitoH3027
+- 2Cr_26:19Uzías, teniendo en la m un incensarioH3027
+- 2Cr_28:5lo entregó en m del rey de los siriosH3027
+- 2Cr_28:5fue...entregado en m del rey de IsraelH3027
+- 2Cr_28:9Dios...los ha entregado en vuestras mH3027
+- 2Cr_29:23cabríos...pusieron sobre ellos sus mH3027
+- 2Cr_30:6correos con cartas de m del rey y deH3027
+- 2Cr_30:6quedado de la m de los reyes de AsiriaH3709
+- 2Cr_30:12en Judá también estuvo la m de DiosH3027
+- 2Cr_30:16esparcían la sangre que recibían de mH3027
+- 2Cr_32:11Dios nos librará de la m del rey deH3709
+- 2Cr_32:13¿pudieron...librar su tierra de mi m?[[H3027]]
+- 2Cr_32:14¿qué dios...pudiese salvar...de mis m?[[H3027]]
+- 2Cr_32:14podrá vuestro Dios libraros de mi m?[[H3027]]
+- 2Cr_32:15de mis m, y de las m de mis padresH3027
+- 2Cr_32:15menos...Dios os podrá librar de mi m?[[H3027]]
+- 2Cr_32:17no pudieron librar a...pueblo de mis mH3027
+- 2Cr_32:17tampoco el...librará al suyo de mis mH3027
+- 2Cr_32:19dioses...que son obra de m de hombresH3027
+- 2Cr_32:22así salvó...de las m de Senaquerib reyH3027
+- 2Cr_32:22de las m de todos; y les dio reposo porH3027
+- 2Cr_34:9recogido de m de Manasés y de EfraínH3027
+- 2Cr_34:10lo entregaron en m de los que hacíanH3027
+- 2Cr_34:17han entregado en m de los encargadosH3027
+- 2Cr_34:17dinero...en m de los que hacen la obraH3027
+- 2Cr_34:25provocándome a ira con...obras de sus mH3027
+- 2Cr_35:11la sangre recibida de m de los levitasH3027
+- 2Cr_36:17de los caldeos...los entregó en sus mH3027
+- Esd_1:8los sacó...por m de Mitrídates tesoreroH3027
+- Esd_5:8se hace de prisa, y prospera en sus mH3028
+- Esd_5:12los entregó en m de Nabucodonosor reyH3028
+- Esd_6:12que pusiere su m para cambiar o destruirH3028
+- Esd_6:22fortalecer sus m en la obra de la casaH3027
+- Esd_7:6m de Jehová su Dios estaba sobre EsdrasH3027
+- Esd_7:9llegó...estando con él la buena m de DiosH3027
+- Esd_7:14a la ley de tu Dios que está en tu mH3028
+- Esd_7:28y yo, fortalecido por la m de mi DiosH3027
+- Esd_8:18nos trajeron según la buena m de...DiosH3027
+- Esd_8:22la m de nuestro Dios es para bien sobreH3027
+- Esd_8:26pesé, pues, en m de ellos 650 talentosH3027
+- Esd_8:31y la m de...Dios estaba sobre nosotrosH3027
+- Esd_8:31libró de m del enemigo y del acechadorH3709
+- Esd_8:33fue pesada la plata...por m del sacerdoteH3027
+- Esd_9:2m de los príncipes...ha sido la primeraH3027
+- Esd_9:5postré...extendí mis m a Jehová mi DiosH3709
+- Esd_9:7hemos sido entregados en m de los reyesH3027
+- Esd_10:4contigo; esfuérzate, y pon m a la obra
+- Esd_10:19m en promesa de que despedirían susH3027
+- Neh_1:10cuales redimiste...con tu m poderosaH3027
+- Neh_2:8según la benéfica m de Jehová sobre míH3027
+- Neh_2:18cómo la m de mi Dios había sido buenaH3027
+- Neh_2:18y dijeron...esforzaron sus m para bienH3027
+- Neh_4:17con una m trabajaban en la obra, y en laH3027
+- Neh_6:5envió a...con una carta abierta en su mH3027
+- Neh_6:9se debilitarán las m de ellos en la obraH3027
+- Neh_6:9ahora, pues, oh Dios, fortalece tú mis mH3027
+- Neh_8:4junto a él estaban Matatías...su m derechaH3225
+- Neh_8:4m izquierda, Pedaías, Misael, MalquíasH8040
+- Neh_8:6respondió: ¡Amén! ¡Amén! alzando sus mH3027
+- Neh_8:14Jehová había mandado por m de MoisésH3027
+- Neh_9:14y por m de...tu siervo les prescribisteH3027
+- Neh_9:15la tierra, por la cual alzaste tu m yH3027
+- Neh_9:24los cuales entregaste en su m, y a susH3027
+- Neh_9:27los entregaste en m de sus enemigos, losH3027
+- Neh_9:27que los salvasen de m de sus enemigosH3027
+- Neh_9:28los abandonaste en m de sus enemigosH3027
+- Neh_9:30los entregaste en m de los pueblos deH3027
+- Neh_13:21si lo hacéis otra vez, os echaré mH3027
+- Est_2:21procuraban poner m en el rey AsueroH3027
+- Est_3:6pero tuvo en poco poner m en MardoqueoH3027
+- Est_3:10rey quitó el anillo de su m, y lo dioH3027
+- Est_5:2extendió...cetro de oro que tenía en la mH3027
+- Est_6:2que habían procurado poner m en el reyH3027
+- Est_6:9y den...en m de alguno de los príncipesH3027
+- Est_8:7cuanto extendió su m contra los judíosH3027
+- Est_9:2m sobre los que habían procurado su malH3027
+- Job_1:10al trabajo de sus m has dado bendiciónH3027
+- Job_1:11extiende ahora tu m y toca todo lo queH3027
+- Job_1:12he aquí, todo lo que tiene está en tu mH3027
+- Job_1:12solamente no pongas tu m sobre élH3027
+- Job_2:5extiende ahora tu m, y toca su hueso yH3027
+- Job_2:6aquí, él está en tu m; mas guarda su vidaH3027
+- Job_4:3tú enseñabas...fortalecías las m débilesH3027
+- Job_5:12frustra...para que sus m no hagan nadaH3027
+- Job_5:15boca de los impíos, y de la m violentaH3027
+- Job_5:18hace la llaga...él hiere, y sus m curanH3027
+- Job_6:9Dios...soltara su m, y acabara conmigo![[H3027]]
+- Job_6:23libradme de...m del opresor, y redimidmeH3027
+- Job_8:20Dios no...m apoya la m de los malignosH3027
+- Job_9:24la tierra es entregada en m de...impíosH3027
+- Job_9:30y Limpie mis m con la limpieza mismaH3709
+- Job_9:33árbitro que ponga su m sobre nosotrosH3027
+- Job_10:3oprimas, que deseches la obra de tus mH3709
+- Job_10:7y que no hay quien de tu m me libre?[[H3027]]
+- Job_10:8tus m me hicieron y me formaron; ¿yH3027
+- Job_11:13tu corazón, y extendieres a él tus mH3709
+- Job_11:14si alguna iniquidad hubiere en tu m, yH3027
+- Job_12:6en cuyas m él ha puesto cuanto tienenH3027
+- Job_12:9no entiende que la m de Jehová la hizo?[[H3027]]
+- Job_12:10en su m está el alma de todo vivienteH3027
+- Job_13:14mis dientes, y tomaré mi vida en mi m?[[H3709]]
+- Job_13:21aparta de mí tu m, y no me asombre tuH3709
+- Job_14:15tendrás afecto a la hechura de tus mH3027
+- Job_15:25por cuanto él extendió su m contra DiosH3027
+- Job_16:11y en las m de los impíos me hizo caerH3027
+- Job_16:17pesar de no haber iniquidad en mis mH3709
+- Job_17:9y el limpio de m aumentará la fuerzaH3027
+- Job_19:21mí, porque la m de Dios me ha tocadoH3027
+- Job_20:10hijos...sus m devolverán ío que él robóH3027
+- Job_20:22la m de...los malvados vendrá sobre élH3027
+- Job_21:5espantaos, y poned la m sobre la bocaH3027
+- Job_21:16aquí que su bien no está en m de ellosH3027
+- Job_22:30la limpieza de tus m éste será libradoH3709
+- Job_26:13cielos; su m creó la serpiente tortuosaH3027
+- Job_27:11os enseñaré en cuanto a la m de DiosH3027
+- Job_27:22no perdonará; hará él por huir de su mH3027
+- Job_27:23batirán las m sobre él, y...le silbaránH3709
+- Job_28:9en el pedernal puso su m, y trastornóH3027
+- Job_29:9los príncipes...ponían la m sobre su bocaH3709
+- Job_29:20mí, y mi arco se fortalecía en mi mH3027
+- Job_30:2de qué me serviría...la fuerza de sus m?[[H3027]]
+- Job_30:12la m derecha se levantó el populachoH3225
+- Job_30:21mí; con el poder de tu m me persiguesH3027
+- Job_30:24no extenderá la m contra el sepulcroH3027
+- Job_31:7si mi corazón...si algo se pegó a mis mH3709
+- Job_31:21alcé contra el huérfano mi m, aunqueH3027
+- Job_31:25si me alegré...que mi m hallase muchoH3027
+- Job_31:27mi corazón se engañó boca besó mi mH3027
+- Job_33:7terror no...m mi m se agravará sobre tiH405
+- Job_34:19pobre, porque todos son obra de sus m?[[H3027]]
+- Job_34:20pueblos...sin m será quitado el poderosoH3027
+- Job_35:7le darás a él? ¿o qué recibirá de tu m?[[H3027]]
+- Job_40:4te responderé? Mi m pongo sobre mi bocaH3027
+- Job_41:8pon tu m sobre él; te acordarás de laH3709
+- Sal_7:3Dios mío, si hay en mis m iniquidadH3709
+- Sal_8:6señorear sobre las obras de tus m; todoH3027
+- Sal_9:16la obra de sus m fue enlazado el maloH3709
+- Sal_10:12alza tu m, no te olvides de los pobresH3027
+- Sal_10:14para dar la recompensa con tu m; a tiH3027
+- Sal_17:14de los hombres con tu m, oh Jehová, deH3027
+- Sal 18 tít.m de...sus enemigos, y de m de SaúlH3709
+- Sal_18:20, Sal_18:24conforme a la limpieza de mis mH3027
+- Sal_18:34quien adiestra mis m para la batallaH3027
+- Sal_19:1el firmamento anuncia la obra de sus mH3027
+- Sal_21:8alcanzará tu m a todos tus enemigos; tuH3027
+- Sal_22:16malignos; horadaron mis m y mis piesH3027
+- Sal_24:4el limpio de m y puro de corazón; el queH3709
+- Sal_26:6lavaré en inocencia mis m, y así andaréH3709
+- Sal_26:10en cuyas m está el mal, y su diestraH3027
+- Sal_28:2cuando alzo...m hacia tu santo temploH3027
+- Sal_28:4dales su...conforme a la obra de sus mH3027
+- Sal_28:5no atendieron a...ni a la obra de sus mH3027
+- Sal_31:5en tu m encomiendo mi espíritu; tú meH3027
+- Sal_31:8no me entregaste en m del enemigoH3027
+- Sal_31:15en tu m están mis tiempos; líbrame deH3027
+- Sal_31:15líbrame de la m de mis enemigos y deH3027
+- Sal_32:4día y de noche se agravó sobre mí tu mH3027
+- Sal_35:2echa m al escudo y al pavés, y...ayudaH2388
+- Sal_36:11no venga pie...m de impíos no me muevaH3027
+- Sal_37:24postrado, porque Jehová sostiene su mH3027
+- Sal_37:33Jehová no lo dejará en sus m, m loH3027
+- Sal_38:2tus saetas...sobre mí ha descendido tu mH3027
+- Sal_39:10estoy consumido bajo...golpes de tu mH3027
+- Sal_44:2tú con tu m echaste las naciones, y losH3027
+- Sal_44:20si...o alzado nuestras m a dios ajenoH3709
+- Sal_47:1pueblos todos, batid las m; aclamad aH3709
+- Sal_55:20extendió el inicuo sus m contra los queH3027
+- Sal_58:2pesar la violencia de vuestras m en laH3027
+- Sal_63:4te bendeciré...en tu nombre alzaré mis mH3709
+- Sal_68:31se apresurará a extender sus m haciaH3027
+- Sal_71:4líbrame de la m del impío, de la m delH3027
+- Sal_73:13en vano he...lavado mis m en inocenciaH3709
+- Sal_73:23contigo; me tomaste de la m derechaH3027
+- Sal_74:11¿por qué retraes tu m?...tu diestra enH3027
+- Sal_75:8porque el cáliz está en la m de JehováH3027
+- Sal_76:5no hizo uso de sus m ninguno de...fuertesH3027
+- Sal_77:2alzaba...mis m de noche, sin descansoH3027
+- Sal_77:20condujiste a tu pueblo...m de MoisésH3027
+- Sal_78:42no se acordaron de su m, del día queH3027
+- Sal_78:54los trajo...monte que ganó su m derechaH3225
+- Sal_78:61y entregó...su gloria en m del enemigoH3027
+- Sal_78:72los pastoreó con la pericia de sus mH3709
+- Sal_80:17sea tu m sobre el varón de tu diestraH3027
+- Sal_81:6sus m fueron descargadas de los cestosH3709
+- Sal_81:14y vuelto mi m contra sus adversariosH3027
+- Sal_82:4al afligido...libradlo de m de los impíosH3027
+- Sal_88:5quienes...que fueron arrebatados de tu mH3027
+- Sal_88:9te he llamado...he extendido a ti mis mH3709
+- Sal_89:13fuerte es tu m, exaltada tu diestraH3027
+- Sal_89:21mi m estará siempre con él, mi brazoH3027
+- Sal_89:25pondré su m sobre el mar, y sobre losH3027
+- Sal_90:17la obra de nuestras m confirma sobreH3027
+- Sal_90:17sí, la obra de nuestras m confirmaH3027
+- Sal_91:12en las m te llevarán, para que tu pieH3709
+- Sal_92:4Jehová...en las obras de tus m me gozoH3027
+- Sal_95:4en su m están las profundidades de laH3027
+- Sal_95:5hizo; y sus m formaron la tierra secaH3027
+- Sal_95:7pueblo de su prado, y ovejas de su mH3027
+- Sal_97:10guarda...de m de los impíos los libraH3027
+- Sal_98:8los ríos batan las m, los montes todosH3709
+- Sal_102:25fundaste...los cielos son obra de tus mH3027
+- Sal_104:28les das...abres tu m, se sacian de bienH3027
+- Sal_106:10los salvó de m del enemigo, y losH3027
+- Sal_106:10y los rescató de m del adversarioH3027
+- Sal_106:26por tanto, alzó su m...para abatirlosH3027
+- Sal_106:42y fueron quebrantados debajo de su mH3027
+- Sal_109:27y entiendan que esta es tu m; que túH3027
+- Sal_111:7las obras de sus m son verdad y juicioH3027
+- Sal_115:4ídolos de ellos...obra de m de hombresH3027
+- Sal_115:7m tienen, mas no palpan; tienen piesH3027
+- Sal_119:48alzaré...mis m a tus mandamientos queH3709
+- Sal_119:73tus m me hicieron y me formaron; hazmeH3027
+- Sal_119:173esté tu m pronta para socorrermeH3027
+- Sal_121:5Jehová es...es tu sombra a tu m derechaH3027
+- Sal_123:2como los ojos de, miran a la m de susH3027
+- Sal_123:2como los ojos de la sierva a la m deH3027
+- Sal_125:3no sea que extiendan los justos sus mH3027
+- Sal_127:4como saetas en m del valiente, así sonH3027
+- Sal_128:2cuando comieres el trabajo de tus mH3709
+- Sal_129:7de la cual no llenó el segador su mH3709
+- Sal_134:2vuestras m al santuario, y bendecid aH3027
+- Sal_135:15los ídolos de...obra de m de hombresH3027
+- Sal_136:12m fuerte, y brazo extendido, porqueH3027
+- Sal_138:7contra la ira de mis...extenderás tu mH3027
+- Sal_138:8Jehová...no desampares la obra de tus mH3027
+- Sal_139:5me rodeaste, y sobre mí pusiste tu mH3709
+- Sal_139:10aun allí me guiará tu m, y me asiráH3027
+- Sal_140:4guárdame, oh Jehová, de m del impíoH3027
+- Sal_141:2el don de mis m como la ofrenda de laH3709
+- Sal_143:5reflexionaba en las obras de tus mH3027
+- Sal_143:6extendí mis m a ti, mi alma a ti comoH3027
+- Sal_144:1quien adiestra mis m para la batallaH3027
+- Sal_144:7envía tu m desde lo alto; redímeme, yH3027
+- Sal_144:7sácame de las...de la m de los hombresH3027
+- Sal_144:11líbrame de la m de...hombres extrañosH3027
+- Sal_145:16abres tu m, y colmas de bendición aH3027
+- Sal_149:6con...y espadas de dos filos en sus mH3027
+- Pro_1:24extendí mi m, y no...quien atendieseH3027
+- Pro_3:16largura de días está en su m derecha; enH3027
+- Pro_3:18árbol de vida a los que de ella echan mH2388
+- Pro_6:3ya que has caído en la m de tu prójimoH3709
+- Pro_6:5escápate como gacela de la m del cazadorH3027
+- Pro_6:5y como ave de la m del que arma lazosH3027
+- Pro_6:10y cruzar por un poco las m para reposoH3027
+- Pro_6:17las m derramadoras de sangre inocenteH3027
+- Pro_7:20la bolsa de dinero llevó en su m; el díaH3027
+- Pro_10:4la m negligente empobrece; mas la m deH3027
+- Pro_12:14le será pagado según la obra de sus mH3027
+- Pro_12:24la m de los diligentes señoreará; masH3027
+- Pro_13:11que recoge con m laboriosa las aumenta
+- Pro_14:1edifica...la necia con sus m la derribaH3027
+- Pro_17:16¿de qué sirve el precio en la m delH3027
+- Pro_19:24el perezoso mete su m en el plato, yH3027
+- Pro_21:1así está el corazón del rey en la m deH3027
+- Pro_21:25mata, porque tus m no quieren trabajarH3027
+- Pro_21:26pero el justo da, y no detiene su m
+- Pro_24:33poniendo m sobre m otro poco...dormirH3027
+- Pro_26:6el que envía recado por m de un necioH3027
+- Pro_26:9espinas hincadas en m del embriagadoH3027
+- Pro_26:15mete el perezoso su m en el plato; seH3027
+- Pro_27:16es como...o sujetar el aceite en la mH3027
+- Pro_30:28la araña que atrapas con la m, y estáH3027
+- Pro_31:13lino, y con voluntad trabaja con sus mH3709
+- Pro_31:16compra, y planta viña del fruto de...mH3709
+- Pro_31:19aplica...m al huso, y sus m a la ruecaH3027
+- Pro_31:20alarga su m al pobre, y extiende susH3709
+- Pro_31:20pobre, y extiende sus m al menesterosoH3027
+- Pro_31:31dadle del fruto de sus m, y alábenlaH3027
+- Ecl_2:11miré...las obras que habían hecho mis mH3027
+- Ecl_2:24he visto que esto es de la m de DiosH3027
+- Ecl_4:1fuerza estaba en la m de sus opresoresH3027
+- Ecl_4:5el necio cruza sus m y come su...carneH3027
+- Ecl_5:6enoje...y que destruya la obra de tus m?[[H3027]]
+- Ecl_5:14y a los hijos...nada les queda en la mH3027
+- Ecl_5:15nada tiene de su...para llevar en su mH3027
+- Ecl_7:18y también de aquello no apartes tu mH3027
+- Ecl_7:26cuyo corazón es lazos...sus m ligadurasH3027
+- Ecl_9:1los justos y los...están en la m de DiosH3027
+- Ecl_9:10que te viniere a la m para hacer, hazloH3027
+- Ecl_10:2el corazón del sabio está a su m derechaH3225
+- Ecl_10:2el corazón del necio a su m izquierda
+- Ecl_10:18por la flojedad de las m se llueve laH3027
+- Ecl_11:6la tarde no dejes reposar tu m; porqueH3027
+- Cnt_5:4mi amado metió su m por la ventanillaH3027
+- Cnt_5:5mis m gotearon mirra, y mis dedos mirraH3027
+- Cnt_5:14sus m, como anillos de oro engastados deH3027
+- Cnt_7:1joyas, obra de m de excelente maestroH3027
+- Isa_1:12¿quién demanda esto de vuestras mH3027
+- Isa_1:15cuando extendáis...m, yo esconderé deH3709
+- Isa_1:15no oiré; llenas...de sangre vuestras mH3027
+- Isa_1:25y volveré mi m contra ti, y limpiaréH3027
+- Isa_2:8se han arrodillado ante la obra de sus mH3027
+- Isa_3:6alguno tomare de la m a su hermano, deH3027
+- Isa_3:6serás nuestro príncipe, y toma en tus mH3027
+- Isa_3:10irá bien...comerá de los frutos de sus mH4611
+- Isa_3:11según las obras de sus m le será pagadoH3027
+- Isa_4:1echarán m de un hombre siete mujeres enH2388
+- Isa_5:12Jehová, m consideran la obra de sus mH3027
+- Isa_5:25y extendió contra él su m, y le hirióH3027
+- Isa_5:25no...sino que todavía su m está extendidaH3027
+- Isa_6:6un serafín...en su m un carbón encendidoH3027
+- Isa_8:11me dijo de esta manera con m fuerte, yH3027
+- Isa_9:12, Isa_9:17, Isa_9:21; Isa_10:4sino que todavía su m está extendidaH3027
+- Isa_9:20cada uno hurtará a la m derecha...hambreH3225
+- Isa_10:5Asiria, vara...en su m he puesto mi iraH3027
+- Isa_10:10halló mi m los reinos de los ídolosH3027
+- Isa_10:13ton el poder de mi m lo he hecho, y conH3027
+- Isa_10:14halló mi m como nido las riquezas deH3027
+- Isa_10:32alzará su m al monte de la hija de SionH3027
+- Isa_11:8recién destetado extenderá su m sobreH3027
+- Isa_11:11que Jehová alzará otra vez su m paraH3027
+- Isa_11:15y levantará su m con el poder de suH3027
+- Isa_13:2alzad la voz a ellos, alzad la m, paraH3027
+- Isa_13:7toda m se debilitará, y desfalleceráH3027
+- Isa_14:26y esta, la m extendida sobre todas lasH3027
+- Isa_14:27y su m extendida...la hará retroceder?[[H3027]]
+- Isa_17:8no mirará...altares que hicieron sus mH3027
+- Isa_19:4y entregaré a Egipto en m de señor duroH3027
+- Isa_19:16temerán en la presencia de la m alta deH3027
+- Isa_19:25el asirio obra de mis m, e Israel miH3027
+- Isa_22:21entregaré en sus m tu potestad; y seráH3027
+- Isa_23:11extendió...m sobre el mar, hizo temblarH3027
+- Isa_25:10la m de Jehová reposará en este monteH3027
+- Isa_25:11extenderá su m por en medio de él, comoH3027
+- Isa_25:11y abatirá su...y la destreza de sus mH3027
+- Isa_26:11Jehová, tu m está alzada, pero ellosH3027
+- Isa_28:4se la traga tan luego como la tiene a mH3709
+- Isa_29:23porque verá a sus hijos, obra de mis mH3027
+- Isa_30:21no echéis a la m derecha,ni tampocoH541
+- Isa_30:21ni tampoco torzáis a la m izquierda
+- Isa_31:3extender Jehová su m, caerá el ayudadorH3027
+- Isa_31:7ídolos...han hecho vuestras m pecadorasH3027
+- Isa_33:15sacude sus m para no recibir cohechoH3709
+- Isa_34:17les echó suertes, y su m les repartióH3027
+- Isa_35:3fortaleced las m cansadas, afirmad lasH3027
+- Isa_36:6se le entrará por la m, y la atravesaráH3709
+- Isa_36:15no será entregada...m del rey de AsiriaH3027
+- Isa_36:18¿acaso libraron...m del rey de Asiria?[[H3027]]
+- Isa_36:19el dios...¿Libraron a Samaria de mi m?[[H3027]]
+- Isa_36:20dios...haya librado su tierra de mi mH3027
+- Isa_36:20que Jehová libre de mi m a Jerusalén?[[H3027]]
+- Isa_37:10Jerusalén no será entregada en m delH3027
+- Isa_37:14tomó Ezequías las cartas de m de losH3027
+- Isa_37:19porque no eran dioses, sino obra de mH3027
+- Isa_37:20Jehová Dios nuestro, líbranos de su mH3027
+- Isa_37:24por m de tus siervos has vituperado alH3027
+- Isa_38:6libraré...y a esta ciudad, de m del reyH3709
+- Isa_40:2doble ha recibido de la m de Jehová porH3027
+- Isa_40:12midió las aguas con el hueco de su m?[[H8168]]
+- Isa_41:13quien te sostiene de tu m derecha, yH3225
+- Isa_41:20m de Jehová hace esto, y, que el SantoH3027
+- Isa_42:6en justicia, y te sostendré por la mH3027
+- Isa_43:13yo era; y no hay quien de mi m libreH3027
+- Isa_44:5y otro escribirá con su m: A Jehová, yH3027
+- Isa_44:20¿no es...mentira lo que tengo en mi mH3225
+- Isa_45:1Ciro, al cual tomé yo por su m derechaH3225
+- Isa_45:9¿qué haces?; o tu obra: ¿No tiene m?[[H3027]]
+- Isa_45:11mandadme...acerca de la obra de mis mH3027
+- Isa_45:12yo, mis m, extendieron los cielos, yH3027
+- Isa_47:6mi heredad, y los entregué en tu m; noH3027
+- Isa_48:13mi m fundó también la tierra, y mi mH3027
+- Isa_49:2me cubrió con la sombra de su m; y meH3027
+- Isa_49:16que en las palmas de las m te tengoH3709
+- Isa_49:22tenderé mi m a las naciones, y a losH3027
+- Isa_50:2se ha acortado mi m para no redimir?[[H3027]]
+- Isa_50:11mi m os vendrá esto; en dolor seréisH3027
+- Isa_51:16boca...con la sombra de mi m te cubríH3027
+- Isa_51:17bebiste de la m de Jehová el cáliz deH3027
+- Isa_51:18m quien la tome de la m, de todos losH3027
+- Isa_51:22he aquí he quitado de tu m el cáliz deH3027
+- Isa_51:23y lo pondré en m de tus angustiadoresH3027
+- Isa_53:10y la voluntad de Jehová será en su mH3027
+- Isa_54:3te extendería a la m derecha y a la mH3225
+- Isa_56:2que hace...guarda su m de hacer todo malH3027
+- Isa_57:10dijiste...hallaste nuevo vigor en tu mH3027
+- Isa_59:1no se ha acortado la m de Jehová paraH3027
+- Isa_59:3vuestras m están contaminadas de sangreH3709
+- Isa_59:6iniquidad, y obra de rapiña...en sus mH3709
+- Isa_60:21todos...obra de mis m, para glorificarmeH3027
+- Isa_62:3serás corona de gloria en la m de JehováH3027
+- Isa_62:3diadema de reino en la m del Dios tuyoH3709
+- Isa_62:8juró Jehová por su m derecha y...brazoH3225
+- Isa_64:8que obra de tus m somos todos nosotrosH3027
+- Isa_65:2extendí mis m...el día a pueblo rebeldeH3027
+- Isa_65:22escogidos disfrutarán la obra de sus mH3027
+- Isa_66:2m hizo todas estas cosas, y así todasH3027
+- Isa_66:14y la m de Jehová para con sus siervosH3027
+- Jer_1:9extendió Jehová su m y tocó mi bocaH3027
+- Jer_1:16a dioses...y la obra de sus m adoraronH3027
+- Jer_2:37allí saldrás con tus m sobre tu cabezaH3027
+- Jer_4:31extiende sus m, diciendo: ¡Ay ahora deH3709
+- Jer_5:31los sacerdotes dirigían por m de ellosH3027
+- Jer_6:9vuelve tu m como vendimiador entro losH3027
+- Jer_6:12extenderé mi m sobre los moradores deH3027
+- Jer_6:24oímos, y nuestras m se descoyuntaronH3027
+- Jer_10:3leño...obra de m de artífice con burilH3027
+- Jer_10:9obra del artífice, y de m del fundidorH3027
+- Jer_11:21no profetices...no mueras a nuestras mH3027
+- Jer_12:7he entregado lo que amaba...en m de susH3709
+- Jer_15:6extenderé sobre ti mi m y te destruiréH3027
+- Jer_15:21te libraré do la m de los malos, y teH3027
+- Jer_15:21y te redimiré de la m de los fuertesH3709
+- Jer_16:21haré conocer mi m y mi poder, y sabránH3027
+- Jer_18:4la vasija de...se echó a perder en su mH3027
+- Jer_18:6como el barro en la m del alfarero, asíH3027
+- Jer_18:6así sois vosotros en mi m, oh...IsraelH3027
+- Jer_19:7y en las m de los que buscan sus vidasH3027
+- Jer_20:4y a todo Judá entregaré en m del rey deH3027
+- Jer_20:5todos los tesoros...en m de sus enemigosH3027
+- Jer_20:13ha librado el alma del pobre de m deH3027
+- Jer_21:4vuelvo atrás las armas...en vuestras mH3027
+- Jer_21:5pelearé contra vosotros con m alzada yH3027
+- Jer_21:7en m de Nabucodonosor rey...en m de susH3027
+- Jer_21:10esta ciudad...en m del rey de BabiloniaH3027
+- Jer_21:12y librad al oprimido de m del opresorH3027
+- Jer_22:3librad al oprimido de m del opresor, yH3027
+- Jer_22:24si Conías hijo...fuera anillo en mi mH3027
+- Jer_22:25te entregaré en m de los que buscan tuH3027
+- Jer_22:25en m de aquellos cuya vista temes; síH3027
+- Jer_22:25en m de Nabucodonosor...y en m de losH3027
+- Jer_23:14los profetas de...fortalecían las m deH3027
+- Jer_25:6-7no...a ira con la obra de vuestras mH3027
+- Jer_25:14pagaré...conforme a la obra de sus mH3027
+- Jer_25:15toma de mi m la copa del vino de esteH3027
+- Jer_25:17tomé la copa de la m de Jehová, y diH3027
+- Jer_25:28y si no quieren tomar la copa de tu mH3027
+- Jer_26:8echaron m, diciendo: De cierto morirásH8610
+- Jer_26:14estoy en vuestras m; haced de mí comoH3027
+- Jer_26:24la m de Ahicam hijo de Safán estaba aH3027
+- Jer_26:24no lo entregasen en las m del puebloH3027
+- Jer_27:3por m de los mensajeros que vienen aH3027
+- Jer_27:6he puesto todas estas tierras en m deH3027
+- Jer_27:8castigaré a...que la acabe yo por su mH3027
+- Jer_29:3por m de Elasa hijo de...y de GemaríasH3027
+- Jer_29:21los entrego yo en m de NabucodonosorH3027
+- Jer_30:6todo hombre tenía las m sobre sus lomosH3027
+- Jer_31:11lo redimió de m del más fuerte que élH3027
+- Jer_31:32el día que tomé su m para sacarlos deH3027
+- Jer_32:3yo entrego esta ciudad en m del rey deH3027
+- Jer_32:4no escapará de la m de los caldeos, sinoH3027
+- Jer_32:4será entregado en m del rey de BabiloniaH3027
+- Jer_32:21con m fuerte y brazo extendido, y conH3027
+- Jer_32:24va a ser entregada en m de los caldeosH3027
+- Jer_32:25aunque la ciudad sea entregada en m deH3027
+- Jer_32:28ciudad en m de los caldeos, y en m deH3027
+- Jer_32:30provocarme a ira con la obra de sus mH3027
+- Jer_32:36entregada será en m del rey...a espadaH3027
+- Jer_32:43y sin animales, es entregada en m deH3027
+- Jer_33:13aún pasarán ganados por las m del queH3027
+- Jer_34:1los reinos de...bajo el señorío de su mH3027
+- Jer_34:3no escaparás tú de su m...en su m serásH3027
+- Jer_34:20-21los entregaré en m de sus enemigosH3027
+- Jer_34:20-21en m de los que buscan su vida, y enH3027
+- Jer_34:21en m del ejército del rey de BabiloniaH3027
+- Jer_36:14Baruc...tomó el rollo en su m y vino aH3027
+- Jer_37:17más: En m del rey de Babilonia serásH3027
+- Jer_38:3será entregada...en m del ejército delH3027
+- Jer_38:4hace desmayar las m...las m de...puebloH3027
+- Jer_38:5él está en vuestras m; pues el rey nadaH3027
+- Jer_38:16ni te entregaré en m de estos varonesH3027
+- Jer_38:18en m...caldeos...no escaparás de sus mH3027
+- Jer_38:19no sea que me entreguen en sus m y meH3027
+- Jer_38:23tú no escaparás de sus m, sino que porH3027
+- Jer_38:23que por m del rey de Babilonia serásH3027
+- Jer_39:17no serás entregado en m de aquellos aH3027
+- Jer_40:4he soltado...cadenas que tenías en tus mH3027
+- Jer_41:5traían en sus m ofrenda e incienso paraH3027
+- Jer_42:11yo para salvaros y libraros de su mH3027
+- Jer_43:3para entregarnos en m de los caldeosH3027
+- Jer_43:9con tu m piedras grandes, y cúbrelas deH3027
+- Jer_44:8haciéndome enojar...obras de vuestras mH3027
+- Jer_44:25vuestras m lo ejecutasteis, diciendoH3027
+- Jer_44:30en m de sus enemigos...en m de los queH3027
+- Jer_44:30así como entregué a Sedequías...en m deH3027
+- Jer_46:24entregada...en m del pueblo del norteH3027
+- Jer_46:26los entregaré en m de los que buscanH3027
+- Jer_46:26m de Nabucodonosor...m de sus siervosH3027
+- Jer_47:3no cuidaron...por la debilidad de sus mH3027
+- Jer_48:37sobre toda m habrá rasguños, y cilicioH3027
+- Jer_50:43oyó la noticia...y sus m se debilitaronH3027
+- Jer_51:7copa de oro fue Babilonia en la m deH3027
+- Jer_51:25extenderé mi m contra ti...haré rodarH3027
+- Lam_1:7cuando cayó su pueblo en m del enemigoH3027
+- Lam_1:10extendió su m el enemigo a todas susH3027
+- Lam_1:14el yugo de mis...ha sido atado por su mH3027
+- Lam_1:14me ha entregado el Señor en m contra lasH3027
+- Lam_1:17Sion extendió sus m; no tiene quien laH3027
+- Lam_2:4afirmó su m derecha como adversario, yH3225
+- Lam_2:7ha entregado en m del enemigo los murosH3027
+- Lam_2:8no retrajo su m de la destrucción; hizoH3027
+- Lam_2:15los que pasaban...batieron las m sobreH3709
+- Lam_2:19alza tus m a él implorando la vida deH3709
+- Lam_3:3contra mi...y revolvió su m todo el díaH3027
+- Lam_3:41levantemos nuestros corazones y m a DiosH3709
+- Lam_3:64dales el pago, según la obra de sus mH3027
+- Lam_4:2vasijas de barro, obra de m de alfarero![[H3027]]
+- Lam_4:10m de mujeres piadosas cocieron a susH3027
+- Lam_5:6extendimos la m, para saciarnos de panH3027
+- Lam_5:8siervos...no hubo quien nos librase de su mH3027
+- Lam_5:12a los príncipes colgaron de las m; noH3027
+- Eze_1:3río...vino allí sobre él la m de JehováH3027
+- Eze_1:8a sus cuatro lados, tenían m de hombreH3027
+- Eze_2:9una m extendida hacia mí, y...un rolloH3027
+- Eze_3:14pero la m de Jehová era fuerte sobre míH3027
+- Eze_3:18, Eze_3:20pero su sangre demandaré de tu mH3027
+- Eze_3:22vino allí la m de Jehová sobre mí, y meH3027
+- Eze_6:11palmotea con tus m, y golpea con tu pieH3709
+- Eze_6:14extenderé mi m contra ellos...conoceránH3027
+- Eze_7:17toda m se debilitará, y toda rodilla seráH3027
+- Eze_7:21en m de extraños la entregué para serH3027
+- Eze_7:27las m del pueblo de la tierra temblaránH3027
+- Eze_8:1allí se posó sobre mí la m de Jehová elH3027
+- Eze_8:3aquella figura extendió la m, y me tomóH3027
+- Eze_8:11cada uno con su incensario en su m; yH3027
+- Eze_9:1y cada uno trae en su m su instrumentoH3027
+- Eze_9:2cada uno traía en su m su instrumentoH3027
+- Eze_10:2llena tus m de carbones encendidos deH2651
+- Eze_10:3los querubines estaban a la m derechaH3225
+- Eze_10:7extendió su m...y lo puso en las m delH3027, [[H2651]]
+- Eze_10:8apareció...la figura de una m de hombreH3027
+- Eze_10:12sus m, sus alas y las ruedas estabanH3027
+- Eze_10:21figuras de m de hombre debajo de susH3027
+- Eze_11:9os entregaré en m de extraños, y haréH3027
+- Eze_12:7me abrí paso...la pared con mi propia mH3027
+- Eze_13:9m contra los profetas que ven vanidadH3027
+- Eze_13:18cosen vendas mágicas para todas las mH3027
+- Eze_13:20yo las libraré de vuestras m, y soltaréH2220
+- Eze_13:21, Eze_13:23libraré a mi pueblo de vuestra mH3027
+- Eze_13:21no estarán más como presa en vuestra mH3027
+- Eze_13:22fortalecisteis las m del impío, paraH3027
+- Eze_14:9extenderé mi m contra él...destruiré deH3027
+- Eze_14:13pecare...extendiere yo mi m sobre ellaH3027
+- Eze_16:27extendí contra ti mi m, y disminuí tuH3027
+- Eze_16:39entregaré en m de ellos; y destruiránH3027
+- Eze_16:49no fortaleció la m del afligido y delH3027
+- Eze_17:18aquí que había dado su m, y ha hechoH3027
+- Eze_18:8de la maldad retrajere su m, e hiciereH3027
+- Eze_18:17apartare su m del pobre, interés yH3027
+- Eze_20:5alcé mi m para jurar a la descendenciaH3027
+- Eze_20:5cuando alcé mi m y les juré diciendoH3027
+- Eze_20:6alcé mi m, jurando así que los sacaríaH3027
+- Eze_20:15les alcé mi m en el desierto, jurandoH3027
+- Eze_20:22mas retrajo mi m a causa de mi nombreH3027
+- Eze_20:23alcé yo mi m en el desierto, jurandoH3027
+- Eze_20:28la tierra sobre la cual...alzado mi mH3027
+- Eze_20:33que con m fuerte...he de reinar sobreH3027
+- Eze_20:34y os reuniré de...con m fuerte y brazoH3027
+- Eze_20:42la cual alcé mi m jurando que la daríaH3027
+- Eze_21:7toda m se debilitará, y se angustiaráH3027
+- Eze_21:11y la dio a pulir para tenerla a m; laH3709
+- Eze_21:11dio...para entregarla en m del matadorH3027
+- Eze_21:14bate una m contra otra, y duplíqueseH3709
+- Eze_21:17y yo también batiré mi m contra mi mH3709
+- Eze_21:22la adivinación señaló a su m derechaH3225
+- Eze_21:24en memoria, seréis entregados en su mH3079
+- Eze_21:31te entregaré en m de hombres temerariosH3027
+- Eze_22:13que batí mis m a causa de tu avariciaH3079
+- Eze_22:14¿serán fuertes tus m en los días en queH3027
+- Eze_23:9lo cual la entregué en m de sus amantesH3027
+- Eze_23:9en m de los hijos de los asirlos, deH3027
+- Eze_23:28yo te entrego en m de...que aborrecisteH3027
+- Eze_23:28m de aquellos de los cuales se hastióH3027
+- Eze_23:31de tu hermana...pondré su cáliz en tu mH3027
+- Eze_23:37hay sangre en sus m, y han fornicadoH3027
+- Eze_23:42pusieron pulseras en sus m, y bellasH3027
+- Eze_23:45son adúlteras, y sangre hay en sus mH3027
+- Eze_25:6batiste tus m, y golpeaste con tu pieH3027
+- Eze_25:7he aquí yo extenderé mi m contra ti, yH3027
+- Eze_25:13yo también extenderé mi m sobre EdomH3027
+- Eze_25:14y pondré mi venganza...m de mi puebloH3027
+- Eze_25:16yo extiendo mi m contra los filisteosH3027
+- Eze_27:15tomaban mercadería de tu m; colmillosH3027
+- Eze_28:9tú, hombre eres...en la m de tu matadorH3027
+- Eze_28:10morirás por m de extranjeros; porqueH3027
+- Eze_29:7tomaron con la m, te quebraste, y lesH3709
+- Eze_30:10destruiré las riquezas de Egipto por mH3027
+- Eze_30:12y entregaré la tierra en m de malosH3027
+- Eze_30:12m de extranjeros destruiré la tierraH3027
+- Eze_30:22haré que la espada se le caiga de la mH3027
+- Eze_30:24Babilonia, y pondré mi espada en su mH3027
+- Eze_30:25cuando yo ponga mi espada en la m delH3027
+- Eze_31:11lo entregaré en m del poderoso de lasH3027
+- Eze_33:6demandaré su sangre de m del atalayaH3027
+- Eze_33:8pero su sangre yo la demandaré de tu mH3027
+- Eze_33:22y la m de Jehová había sido sobre míH3027
+- Eze_34:10y demandaré mis ovejas de su m, y lesH3027
+- Eze_34:27los libre de m de los que se sirven deH3027
+- Eze_35:3Seir, y extenderé mi m contra ti, y teH3027
+- Eze_36:7alzado mi m, he jurado que las nacionesH3027
+- Eze_37:1m de Jehová vino sobre mí, y me llevóH3027
+- Eze_37:17júntalos luego...serán uno solo en tu mH3027
+- Eze_37:19tomo el palo de José que está en la mH3027
+- Eze_37:19haré un solo palo, y serán uno en mi mH3027
+- Eze_37:20los palos...estarán en tu m delante deH3027
+- Eze_38:12poner tus m sobre las tierras desiertasH3027
+- Eze_39:3y sacaré tu arco de tu m izquierda, yH3027
+- Eze_39:3y derribaré tus saetas de tu m derechaH3027
+- Eze_39:9y quemarán armas...dardos de m y lanzasH3027
+- Eze_39:21mi juicio...mi m que sobre ellos puseH3027
+- Eze_39:23y los entregué en m de sus enemigosH3027
+- Eze_40:1mismo día vino sobre mí la m de JehováH3027
+- Eze_40:3tenía un cordel de lino en su m, y unaH3027
+- Eze_40:5la caña de medir que...tenía en la m eraH3027
+- Eze_44:12he alzado mi m y jurado, dice JehováH3027
+- Eze_47:3el oriente, llevando un cordel en su mH3027
+- Eze_47:14alcé mi m jurando que la había de darH3027
+- Dan_1:2y el Señor entregó en sus m a JoacimH3027
+- Dan_2:34que una piedra fue cortada, no con mH3028
+- Dan_2:38los ha entregado en tu m, y te ha dadoH3028
+- Dan_2:45cortada una piedra, no con m, la cualH3028
+- Dan_3:15¿y qué dios será...os libre de mis m?[[H3028]]
+- Dan_3:17pueden...y de tu m, oh rey, nos libraráH3028
+- Dan_4:35y no hay quien detenga su m, y le digaH3028
+- Dan_5:5una m...que escribía...y el rey veía la mH3028
+- Dan_5:23el Dios en cuya m está tu vida, y cuyosH3028
+- Dan_5:24enviada la m que trazó esta escrituraH3028
+- Dan_7:25serán entregados en su m hasta tiempoH3028
+- Dan_8:25hará prosperar el engaño en su m; y enH3027
+- Dan_8:25quebrantado, aunque no por m humanaH3027
+- Dan_9:15que sacaste tu pueblo...con m poderosaH3027
+- Dan_10:10una m me tocó, e hizo que me pusieseH3027
+- Dan_10:10rodillas y sobre las palmas de mis mH3027
+- Dan_11:11toda...multitud será entregada en su mH3027
+- Dan_11:41estas escaparán de su m: Edom y MoabH3027
+- Dan_11:42extenderá su m contra las tierras, yH3027
+- Ose_2:10descubriré...nadie la librará de mi mH3027
+- Ose_7:5rey...extendió su ni con los escarnecedoresH3027
+- Ose_12:7mercader que tiene en su in peso falsoH3027
+- Ose_13:14de la m del Seol los redimiré...libraréH3027
+- Ose_14:3nunca...diremos a la obra de nuestras mH3027
+- Amó_1:8volveré mi m contra Ecrón, y el restoH3027
+- Amó_5:19y apoyare su m en la pared, y le muerdeH3027
+- Amó_7:7plomo, y en su m una plomada de albañilH3027
+- Amó_9:2aunque cavasen...de allá los tomará mi mH3027
+- Abd_1:13haber echado m a sus bienes en el día
+- Jon_3:8conviértase...de la rapiña...en sus mH3709
+- Jon_4:11entre su m derecha y su m izquierda?[[H3225]], [[H8040]]
+- Miq_2:1lo ejecutan...tienen en su m el poder![[H3027]]
+- Miq_4:10allí te redimirá Jehová de la m de tusH3709
+- Miq_5:9m se alzará sobre tus enemigos, y todosH3027
+- Miq_5:12destruiré de tu m las hechicerías, y noH3027
+- Miq_5:13nunca...te inclinarás a la obra de tus mH3027
+- Miq_7:3para completar la maldad con sus m, elH3709
+- Miq_7:16las naciones...pondrán la m sobre su bocaH3027
+- Nah_3:19los que oigan...batirán las m sobreH3709
+- Hab_2:16el cáliz de la m derecha de JehováH3027
+- Hab_3:4rayos brillantes salían de su m, y allíH3027
+- Hab_3:10abismo dio su voz, a lo alto alzó sus mH3027
+- Sof_1:4extenderé mi m sobre Judá, y sobreH3027
+- Sof_2:13extenderá su m sobre el norte, a AsiriaH3027
+- Sof_2:15cualquiera...se burlará, y sacudirá su mH3027
+- Sof_3:16no temas; Sion, no se debiliten tus mH3027
+- Hag_1:11llamé la sequía sobre...trabajo de mH3709
+- Hag_2:14y asimismo toda obra de sus m; y todoH3027
+- Hag_2:17os herí...en toda obra de vuestras mH3027
+- Zac_2:1un varón que tenía en su ni un cordelH3027
+- Zac_2:9alzo mi m sobre ellos, y serán despojoH3027
+- Zac_3:1y Satanás estaba a su m derecha paraH3225
+- Zac_4:9las m de Zorobabel echarán el cimientoH3027
+- Zac_4:9m la acabarán; y conocerás que JehováH3027
+- Zac_4:10verán la plomada en la m de ZorobabelH3027
+- Zac_8:4morar...cada cual con bordón en su m porH3027
+- Zac_8:9esfuércense vuestras m, los que oís enH3027
+- Zac_8:13no temáis, mas esfuércense vuestras mH3027
+- Zac_11:6en m de su compañero y en m de su reyH3027
+- Zac_11:6asolarán...y yo no los libraré de sus mH3027
+- Zac_13:6¿qué heridas son estas en tus m? Y élH3027
+- Zac_13:7haré volver mi m contra los pequeñitosH3027
+- Zac_14:13trabará cada uno...la m de su compañeroH3027
+- Zac_14:13y levantará su ni contra la m de suH3027
+- Mal_1:10no...ni de vuestra m aceptaré ofrendaH3027
+- Mal_1:13¿aceptaré yo eso de vuestra m? diceH3027
+- Mal_2:13para aceptarla con gusto de vuestra mH3027
+- Mat_3:12aventador está en su m, y limpiaráG5495
+- Mat_4:6m te sostendrán, para que no tropiecesG5495
+- Mat_5:30si tu m derecha te es ocasión de caerG5495
+- Mat_8:3Jesús extendió la m y le tocó, diciendoG5495
+- Mat_8:15tocó su m, y la fiebre la dejó; y ellaG5495
+- Mat_9:18mas ven y pon tu m sobre ella, y viviráG5495
+- Mat_9:25tomó de la m a la niña, y...se levantóG5495
+- Mat_12:10había allí uno que tenía seca una mG5495
+- Mat_12:11cayere en...no le eche m, y la levante?[[G2902]]
+- Mat_12:13dijo a aquel hombre: Extiende tu mG5495
+- Mat_12:49extendiendo su m...He aquí mi madreG5495
+- Mat_14:31Jesús, extendiendo la m, asió de él, yG5495
+- Mat_15:2porque no se lavan las m cuando comenG5495
+- Mat_15:20comer con las m sin lavar no contaminaG5495
+- Mat_17:22Hijo...será entregado en m de hombresG5495
+- Mat_18:8si tu m o tu pie te es ocasión de caerG5495
+- Mat_18:8teniendo dos m...ser echado en el fuegoG5495
+- Mat_19:13que pusiese las m sobre ellos, y oraseG5495
+- Mat_19:15habiendo puesto sobre ellos las m, seG5495
+- Mat_21:46buscar cómo echarle m, temían al puebloG2902
+- Mat_22:13atadle de pies y m, y echadle en lasG5495
+- Mat_26:23el que mete la m conmigo en el platoG5495
+- Mat_26:45Hijo...es entregado en m de pecadoresG5495
+- Mat_26:50y echaron m a Jesús, y le prendieronG5495
+- Mat_26:51uno...extendiendo la m, sacó su espadaG5495
+- Mat_27:24agua y se lavó las m delante del puebloG5495
+- Mat_27:29y pusieron...una caña en su m derechaG1188
+- Mar_1:31él se acercó, y la tomó de la m y laG5495
+- Mar_1:41él, extendió la m y le tocó, y le dijoG5495
+- Mar_3:1había allí un hombre que tenía seca una inG5495
+- Mar_3:3dijo al...que tenía la m seca: LevántateG5495
+- Mar_3:5dijo al hombre: Extiende tu m. Y él laG5495
+- Mar_3:5extendió, y la m le fue restaurada sanaG5495
+- Mar_5:23pon las m sobre ella para que sea salvaG5495
+- Mar_5:41tomando la m de la niña...dijo: TalitaG5495
+- Mar_6:2estos milagros que por sus m son hechos?[[G5495]]
+- Mar_6:5que sanó a...poniendo sobre ellos las mG5495
+- Mar_7:2comer pan con m inmundas...no lavadasG5495
+- Mar_7:3si muchas veces no se lavan las m, noG5495
+- Mar_7:5¿por qué tus...comen pan con m inmundas?[[G5495]]
+- Mar_7:32le rogaron que le pusiera la m encimaG5495
+- Mar_8:23tomando la m del ciego, le sacó fueraG5495
+- Mar_8:23le puso las m encima, y le preguntó siG5495
+- Mar_8:25te puso otra vez las m sobre los ojosG5495
+- Mar_9:27Jesús, tomándole de la m, le enderezóG5495
+- Mar_9:31el Hijo...será entregado en m de hombresG5495
+- Mar_9:43tu m te fuere ocasión de caer, córtalaG5495
+- Mar_9:43que teniendo dos m ir al infierno, alG5495
+- Mar_10:16poniendo las m sobre ellos...bendecíaG5495
+- Mar_12:3mas ellos...le enviaron con las m vacías
+- Mar_14:41el Hijo...entregado en m de los pecadoresG5495
+- Mar_14:46ellos le echaron m, y le prendieronG5495
+- Mar_14:58yo derribaré este templo hecho a m, yG5499
+- Mar_14:58tres días edificaré otro hecho sin mG886
+- Mar_16:18en las m serpientes, y si bebieren cosa
+- Mar_16:18sobre los enfermos pondrán sus m, yG5495
+- Luc_1:66niño? Y la m del Señor estaba con élG5495
+- Luc_1:71la m de todos los que nos aborrecieronG5495
+- Luc_3:17su aventador está en su m, y limpiaráG5495
+- Luc_4:11y, En las m te sostendrán, para que noG5495
+- Luc_4:40poniendo las m sobre cada uno de ellosG5495
+- Luc_5:13extendiendo él la m, le tocó, diciendoG5495
+- Luc_6:1arrancaban...restregándolas con las mG5495
+- Luc_6:6un hombre que tenía seca la m derechaG5495
+- Luc_6:8y dijo al hombre que tenía la m secaG5495
+- Luc_6:10dijo al...Extiende tu m. Y él lo hizo asíG5495
+- Luc_6:10él lo hizo así, y su m fue restauradaG5495
+- Luc_8:54él, tomándola de la m, clamó diciendoG5495
+- Luc_9:44el Hijo...será entregado en m de hombresG5495
+- Luc_9:62ninguno que poniendo su m en el aradoG5495
+- Luc_10:30y cayó en m de ladrones, los cuales le
+- Luc_10:36prójimo del que...en m de los ladrones?
+- Luc_13:13las ni sobre ella; y ella se enderezóG5495
+- Luc_15:22poned un anillo en su m, y calzado enG5495
+- Luc_20:10le golpearon, y le enviaron...ni vacías
+- Luc_20:11afrentado...enviaron con las m vacías
+- Luc_20:19los escribas echarle m en aquella horaG5495
+- Luc_21:12os echarán m, y os perseguirán, y osG5495
+- Luc_22:21la m del que me entrega está conmigoG5495
+- Luc_22:53no extendisteis las m contra mí; masG5495
+- Luc_23:46Padre, en tus m encomiendo mi espírituG5495
+- Luc_24:7entregado en m de hombres pecadores, yG5495
+- Luc_24:39mirad mis m y mis pies, que yo mismoG5495
+- Luc_24:40diciendo...les mostró las m y los piesG5495
+- Luc_24:50los sacó...alzando sus m, los bendijoG5495
+- Jua_3:35todas las cosas ha entregado en su mG5495
+- Jua_7:30ninguno le echó m, porque aún no habíaG5495
+- Jua_7:44ellos querían...pero ninguno le echó mG5495
+- Jua_10:28jamás, ni nadie las arrebatará de mi mG5495
+- Jua_10:29nadie las puede arrebatar de la m deG5495
+- Jua_10:39prenderle, pero él se escapó de sus mG5495
+- Jua_11:44atadas las m y los pies con vendas, yG5495
+- Jua_13:3le había dado todas las cosas en las mG5495
+- Jua_13:9no sólo mis pies, sino también las mG5495
+- Jua_20:20esto, les mostró las m y el costadoG5495
+- Jua_20:25si no viere en sus m...y metiere mi mG5495, [[[[G5495]]]]
+- Jua_20:27aquí tu dedo, y mira mis m; y acercaG5495
+- Jua_20:27y acerca tu m, y métela en mi costadoG5495
+- Jua_21:18extenderás tus m, y te ceñirá otro, yG5495
+- Hec_2:23a éste...matasteis por m de inicuosG5495
+- Hec_3:7tomándole por la m derecha le levantóG5495
+- Hec_4:3echaron m, y los pusieron en la cárcelG5495
+- Hec_4:28cuanto tu m y tu...habían...determinadoG5495
+- Hec_4:30mientras extiendes tu m para que seG5495
+- Hec_5:12y por la m de los apóstoles se hacíanG5495
+- Hec_5:18m a los apóstoles y los pusieron en laG5495
+- Hec_6:6quienes, orando, les impusieron las mG5495
+- Hec_7:25que Dios les daría libertad por m suyaG5495
+- Hec_7:35por m del ángel que se le apareció enG5495
+- Hec_7:41en las obras de sus m se regocijaronG5495
+- Hec_7:48no habita en templos hechos de m, comoG5499
+- Hec_7:50¿no hizo mi m todas estas cosas?[[G5495]]
+- Hec_8:17imponían las m, y recibían el EspírituG5495
+- Hec_8:18que por la imposición de las m de losG5495
+- Hec_8:19a quien yo impusiere las m reciba elG5495
+- Hec_9:8así que, llevándole por la m, le metieronG5496
+- Hec_9:12que entra y le pone las m encima paraG5495
+- Hec_9:17fue...y poniendo sobre él las m, dijoG5495
+- Hec_9:41el, dándole la m, la levantó; entoncesG5495
+- Hec_11:21y la m del Señor estaba con ellos; yG5495
+- Hec_11:30enviándolo a los...por m de Bernabé yG5495
+- Hec_12:1Herodes echó m a algunos de la iglesiaG5495
+- Hec_12:7y las cadenas se le cayeron de las mG5495
+- Hec_12:11y me ha librado de la m de Herodes, yG5495
+- Hec_12:17él, haciéndoles con la m señal de queG5495
+- Hec_13:3les impusieron las m y los despidieronG5495
+- Hec_13:11he aquí la m del Señor está contra tiG5495
+- Hec_13:11buscaba quien le condujese de la mG5497
+- Hec_13:16hecha señal de silencio con la m, dijoG5495
+- Hec_14:3se hiciesen por las m de ellos señalesG5495
+- Hec_17:24Dios...no habita en templos hechos por inG5499
+- Hec_17:25ni es honrado por m de hombres, comoG5495
+- Hec_18:10y ninguno pondrá sobre ti la m para
+- Hec_19:6habiéndoles impuesto Pablo las m, vinoG5495
+- Hec_19:11hacía Dios milagros...por m de PabloG5495
+- Hec_19:26son dioses los que se hacen con las mG5495
+- Hec_19:33Alejandro, pedido silencio con la mG5495
+- Hec_20:34necesario a mí...estas m me han servidoG5495
+- Hec_21:3dejándola a m izquierda, navegamos aG2176
+- Hec_21:11atándose los pies y las m, dijo: EstoG5495
+- Hec_21:11y le entregarán en m de los gentilesG5495
+- Hec_21:27alborotaron...multitud y le echaron mG5495
+- Hec_21:40Pablo...hizo señal con la m al puebloG5495
+- Hec_22:11llevado de la m por...llegué a DamascoG5496
+- Hec_23:19tomándole de la m...le preguntó: ¿QuéG5495
+- Hec_24:7interviniendo...le quitó de nuestras mG5495
+- Hec_26:1Pablo...extendiendo la m, comenzó así suG5495
+- Hec_27:19con nuestras propias m arrojamos losG849
+- Hec_28:3víbora, huyendo...se le prendió en la mG5495
+- Hec_28:4vieron la víbora colgando de su m, seG5495
+- Hec_28:8entró Pablo...impuso las m, y le sanóG5495
+- Hec_28:17he sido entregado...en m de los romanosG5495
+- Rom_10:21extendí mis m a un pueblo rebelde yG5495
+- 1Co_4:12trabajando con nuestras propias mG5495
+- 1Co_12:15si...Porque no soy m, no soy del cuerpoG5495
+- 1Co_12:21ni el ojo puede decir a la m: No teG5495
+- 1Co_16:21yo, Pablo, os escribo...de mi propia mG5495
+- 2Co_5:1tenemos de Dios...casa no hecha de mG886
+- 2Co_11:33descolgado del muro...escapé de sus mG5495
+- Gál_3:19medio de ángeles en m de un mediadorG5495
+- Gál_6:11mirad...letras os escribo de mi propia mG5495
+- Efe_2:11la llamada circuncisión hecha con mG5499
+- Efe_4:28sino...haciendo con sus m lo que es buenoG5495
+- Col_2:11circuncisión no hecha a m, al echarG886
+- Col_4:18la salutación de mi propia m, de PabloG5495
+- 1Ts_4:11negocios, y trabajar con vuestras mG5495
+- 2Ts_3:17la salutación es de mi propia m, deG5495
+- 1Ti_2:8oren...levantando m santas, sin iraG5495
+- 1Ti_4:14te fue dado...con la imposición de las mG5495
+- 1Ti_5:22no impongas con ligereza las m a ningunoG5495
+- 1Ti_6:12fe, echa m de la vida eterna, a la cualG1949
+- 1Ti_6:19por venir, que echen m de la vida eternaG1949
+- 2Ti_1:6está en ti por la imposición de...mG5495
+- Flm_1:19Pablo lo escribo de mi m, yo lo pagaréG5495
+- Heb_1:10Señor...los cielos son obra de tus mG5495
+- Heb_2:7y le pusiste sobre las obras de tus mG5495
+- Heb_3:16que salieron de Egipto por m de Moisés?
+- Heb_6:2la imposición de m, de la resurrecciónG5495
+- Heb_8:9día que los tomé de la m para sacarlosG5495
+- Heb_9:11no hecho de m, es decir, no de estaG5499
+- Heb_9:24no entró...en el santuario hecho de mG5499
+- Heb_10:31¡horrenda...es caer en m del Dios vivo![[G5495]]
+- Heb_12:12levantad las m caídas y las rodillasG5495
+- Stg_4:8pecadores, limpiad las m...purificadG5495
+- 1Pe_5:6humillaos, pues, bajo la poderosa mG5495
+- 1Jn_1:1que...palparon nuestras m tocante alG5495
+- Rev_5:1en la m derecha del que estaba sentadoG1188
+- Rev_5:7y tomó el libro de la m derecha del queG1188
+- Rev_6:5que lo montaba tenía una balanza en la mG5495
+- Rev_7:9de ropas blancas, y con palmas en las mG5495
+- Rev_8:4y de la m del ángel subió...el humo delG5495
+- Rev_9:20se arrepintieron de las obras de sus mG5495
+- Rev_10:2tenía en su m un librito abierto; y pusoG5495
+- Rev_10:5el ángel que vi...levantó su m al cieloG5495
+- Rev_10:8el librito que está...en la m del ángelG5495
+- Rev_10:10tomé el librito de la m del ángel, yG5495
+- Rev_13:16les pusiese una marca en la m derechaG5495
+- Rev_14:9recibe la marca en su frente o en su mG5495
+- Rev_14:14que tenía en...y en la m una hoz agudaG5495
+- Rev_17:4tenía en la m un cáliz de oro lleno deG5495
+- Rev_19:2ha vengado la sangre...de la m de ellaG5495
+- Rev_20:1vi a un ángel...una gran cadena en la mG5495
+- Rev_20:4no recibieron la marca en...ni en sus mG5495

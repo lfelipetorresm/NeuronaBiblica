@@ -1,0 +1,501 @@
+---
+tipo: concordancia
+palabra: ANDAR(v.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ANDAR(v.)
+
+- Gén_3:14sobre tu pecho andarás, y polvo comerásH1980
+- Gén_4:3y aconteció andando el tiempo, que CaínH7093
+- Gén_9:23Sem...andando hacia atrás, cubrieron laH1980
+- Gén_13:5también Lot, que andaba con Abram, teníaH1980
+- Gén_15:2¿qué me darás, siendo así que ando sinH1980
+- Gén_17:1dijo...anda delante de mí y sé perfectoH1980
+- Gén_21:14salió y anduvo errante por el desiertoH8582
+- Gén_24:40Jehová, en...presencia he andado, enviaráH1980
+- Gén_24:42prosperas...mi camino por el cual andoH1980
+- Gén_33:12dijo: Anda, vamos; y yo iré delante de tiH1980
+- Gén_35:3al Dios que...en el camino que he andadoH1980
+- Gén_37:15halló...andando él errante por el campoH8582
+- Gén_42:33tomad para...de vuestras casas, y andadH1980
+- Gén_48:15el Dios en cuya presencia anduvieronH1980
+- Éxo_8:25andad, ofreced sacrificio a...Dios en elH1980
+- Éxo_10:8dijo: Andad servid a Jehová vuestro DiosH1980
+- Éxo_13:21fin de que anduviesen de día y de nocheH1980
+- Éxo_15:22y anduvieron tres días por el desiertoH1980
+- Éxo_16:4que yo lo pruebe si anda en mi ley, o noH1980
+- Éxo_18:20muéstrales el camino por donde...andarH1980
+- Éxo_21:19si se...y anduviere fuera sobre su báculoH1980
+- Éxo_32:7Moisés: Anda, desciende, porque tu puebloH1980
+- Éxo_33:1anda, sube de aquí, tú y el pueblo queH5927
+- Éxo_33:16sino en que tú andes con nosotros, y queH1980
+- Lev_11:20insecto...que anduviere sobre cuatroH1980
+- Lev_11:21esto comeréis de...insecto alado que andaH1980
+- Lev_11:27los animales que andan en cuatro patasH1980
+- Lev_11:27por inmundo a...que ande sobre sus garrasH1980
+- Lev_11:42todo lo que anda sobre el pecho, y todoH1980
+- Lev_11:42lo que anda sobre cuatro o más patas, deH1980
+- Lev_18:3ni haréis...ni andaréis en sus estatutosH1980
+- Lev_18:4estatutos guardaréis, andando en ellosH1980
+- Lev_19:16no andarás chismeando entre tu puebloH1980
+- Lev_20:23y no andéis en las prácticas de lasH1980
+- Lev_26:3si anduviereis en mis decretos...por obraH1980
+- Lev_26:12así andaré entre vosotros, y...vuestro DiosH1980
+- Lev_26:13os he hecho andar con el rostro erguidoH1980
+- Lev_26:21, Lev_26:23si anduviereis conmigo en oposiciónH1980
+- Lev_26:40porque anduvieron conmigo en oposiciónH1980
+- Lev_26:41también habré andado en contra de ellosH1980
+- Núm_13:26y así anduvieron y vinieron a Moisés y aH1980
+- Núm_14:33vuestros hijos andarán pastoreando enH7462
+- Núm_32:13los hizo andar errantes cuarenta añosH5128
+- Núm_33:8anduvieron tres días de camino por elH1980
+- Núm_36:9no ande la heredad rodando de una tribuH5437
+- Deu_1:19anduvimos...grande y terrible desiertoH1980
+- Deu_1:31todo el camino que habéis andado, hastaH1980
+- Deu_1:33para mostraros el...por donde anduvieseisH1980
+- Deu_2:7él sabe que andas por este gran desiertoH1980
+- Deu_2:14y los días que anduvimos de Cades-barneaH1980
+- Deu_5:33andad...camino que Jehová vuestro Dios osH1980
+- Deu_6:7y las repetirás a...andando por el caminoH1980
+- Deu_6:14no andaréis en pos de dioses ajenos, deH1980
+- Deu_8:6Dios, andando en sus caminos, y temiéndoleH1980
+- Deu_8:19si...anduvieres en pos de dioses ajenosH1980
+- Deu_10:11anda, para que marches delante del puebloH1980
+- Deu_10:12que andes en todos sus caminos, y queH1980
+- Deu_11:19hablando de...cuando andes por el caminoH1980
+- Deu_11:22andando en...sus caminos, y siguiéndoleH1980
+- Deu_13:4en pos de Jehová vuestro Dios andaréisH1980
+- Deu_13:5por el cual...Dios te mandó que anduviesesH1980
+- Deu_19:9y andes en sus caminos todos los díasH1980
+- Deu_23:14tu Dios anda en medio de tu campamentoH1980
+- Deu_26:17declarado...que andarás en sus caminosH1980
+- Deu_28:9guardares...y anduvieres en sus caminosH1980
+- Deu_29:19tendré paz, aunque ande en la dureza deH1980
+- Deu_30:16te mando hoy...que andes en sus caminosH1980
+- Jos_2:1andad, reconoced la tierra, y a JericóH1980
+- Jos_5:6anduvieron por el desierto cuarenta añosH1980
+- Jos_6:13andando siempre y tocando las bocinasH1980
+- Jos_14:10cuando Israel andaba por el desiertoH1980
+- Jos_22:5que améis...y andéis en todos sus caminosH1980
+- Jos_24:17ha guardado...por donde hemos andadoH5674
+- Jue_2:17camino en que anduvieron sus padresH1980
+- Jue_2:22seguir el camino de Jehová, andando porH1980
+- Jue_5:6que andaban por las sendas se apartaronH1980
+- Jue_9:10, Jue_9:14anda tú, reina sobre nosotrosH1980
+- Jue_10:14andad y clamad a los dioses que...elegidoH1980
+- Jue_11:4aconteció andando el tiempo, que...AmónH3117
+- Jue_11:16Israel...anduvo por el desierto hasta elH1980
+- Jue_18:6id en paz...vuestro camino en que andáisH1980
+- Rut_1:8andad, volveos cada una a la casa de suH1980
+- Rut_1:19anduvieran...hasta que llegaron a BelénH1980
+- 1Sa_2:30que tu casa y...andarían delante de míH1980
+- 1Sa_2:35andará delante de mi ungido todos los díasH1980
+- 1Sa_6:12las vacas...seguían...andando y bramandoH1980
+- 1Sa_8:3no anduvieron...por los caminos de su padreH1980
+- 1Sa_8:5y tus hijos no andan en tus caminos porH1980
+- 1Sa_9:10dices bien; anda, vamos. Y fueron a laH1980
+- 1Sa_12:2yo he andado delante de vosotros desdeH1980
+- 1Sa_17:39probó a andar, porque nunca había hechoH1980
+- 1Sa_17:39dijo David...Yo no puedo andar con estoH1980
+- 1Sa_17:41el filisteo venía andando y acercándoseH1980
+- 1Sa_17:48echó a andar para ir al encuentro deH7126
+- 1Sa_19:23y siguió andando y profetizando hastaH1980
+- 1Sa_22:5Gad dijo...anda y vete a tierra de JudáH1980
+- 1Sa_23:13Keila, y anduvieron de un lugar a otroH1980
+- 1Sa_24:11no hay mal...tú andas a caza de mi vidaH6658
+- 1Sa_27:1para que Saúl...no me ande buscando más
+- 1Sa_31:12todos los...anduvieron toda aquella nocheH1980
+- 2Sa_3:16dijo Abner: Anda, vuélvete...volvióH1980
+- 2Sa_3:29que nunca falte...quien ande con báculoH2388
+- 2Sa_6:13habían andado seis pasos, él sacrificóH6805
+- 2Sa_7:3anda, y haz...lo que está en tu corazónH1980
+- 2Sa_7:6que he andado en tienda y en tabernáculoH1980
+- 2Sa_7:7y en todo cuanto he andado con...de IsraelH1980
+- 2Sa_7:9estado contigo en todo cuanto has andadoH1980
+- 2Sa_14:19¿no anda la mano de Joab contigo en
+- 2Sa_16:13Simei iba por el...andando y maldiciendoH1980
+- 1Re_2:3andando en sus caminos, y observandoH1980
+- 1Re_2:4hijos...andando delante de mí con verdadH1980
+- 1Re_3:3andando en...estatutos de su padre DavidH1980
+- 1Re_3:6porque él anduvo delante de ti en verdadH1980
+- 1Re_3:14si anduvieres en mis...como anduvo DavidH1980
+- 1Re_6:12anduvieres en mis estatutos e hicieresH1980
+- 1Re_6:12todos mis mandamientos andando en ellosH1980
+- 1Re_8:23los que andan delante de ti con todo suH1980
+- 1Re_8:25anden delante de mí como tú has andadoH1980
+- 1Re_8:36enseñándoles el...camino en que andenH1980
+- 1Re_8:58para que andemos en todos sus caminosH1980
+- 1Re_8:61andando en sus estatutos y guardandoH1980
+- 1Re_9:4y si tú anduvieres...como anduvo David tuH1980
+- 1Re_11:33no han andado en mis caminos para hacerH1980
+- 1Re_11:38anduvieres en mis caminos, e hicieresH1980
+- 1Re_14:8anduvo en pos de mí con todo su corazónH1980
+- 1Re_15:3anduvo en todos los pecados que su padreH1980
+- 1Re_15:26andando en el camino de su padre, y enH1980
+- 1Re_15:34anduvo en el camino de Jeroboam, y enH1980
+- 1Re_16:2has andado en el camino de Jeroboam, yH1980
+- 1Re_16:19andando en los caminos de JeroboamH1980
+- 1Re_16:26anduvo en todos los caminos de JeroboamH1980
+- 1Re_16:31fue ligera cosa andar en los pecados deH1980
+- 1Re_18:26ellos andaban saltando cerca del altarH6452
+- 1Re_21:27durmió en cilicio, y anduvo humilladoH1980
+- 1Re_22:43anduvo en...el camino de Asa su padreH1980
+- 1Re_22:52anduvo en el camino de su padre, y enH1980
+- 2Re_3:9anduvieron...por el desierto siete díasH1980
+- 2Re_4:24guía y anda; y no me hagas detener en elH1980
+- 2Re_5:5anda, vé, y yo enviaré cartas al rey deH1980
+- 2Re_6:2y hagamos allí lugar en...Y él dijo: AndadH1980
+- 2Re_8:18anduvo en el camino de...reyes de IsraelH1980
+- 2Re_8:27anduvo en el camino de la casa de AcabH1980
+- 2Re_10:31no cuidó de andar en la ley de JehováH1980
+- 2Re_13:6de los pecados de la...en ellos anduvieronH1980
+- 2Re_13:11los pecados de Jeroboam...en ellos anduvoH1980
+- 2Re_16:3antes anduvo en el camino de los reyes deH1980
+- 2Re_17:8y anduvieron en los estatutos de lasH1980
+- 2Re_17:19anduvieron en los estatutos de IsraelH1980
+- 2Re_17:22anduvieron en...los pecados de JeroboamH1980
+- 2Re_20:3que he andado delante de ti en verdadH1980
+- 2Re_21:21anduvo en...los caminos en que su padre aH1980
+- 2Re_21:22dejó a Jehová...no anduvo en el caminoH1980
+- 2Re_22:2anduvo en...el camino de David su padreH1980
+- 1Cr_16:20andaban de nación en nación, y deH1980
+- 1Cr_17:6dondequiera que anduve con todo IsraelH1980
+- 1Cr_17:8estado contigo en todo cuanto has andadoH1980
+- 2Cr_6:16andando...mi ley, como tú has andadoH1980
+- 2Cr_6:27enseñarás el buen camino para que andenH1980
+- 2Cr_6:31para que te teman y anden en tus caminosH1980
+- 2Cr_7:17y si tú anduvieres...como anduvo David tuH1980
+- 2Cr_11:17tres años anduvieron en el camino deH1980
+- 2Cr_17:3anduvo en los...caminos de David su padreH1980
+- 2Cr_17:4buscó al...y andaba en sus mandamientosH1980
+- 2Cr_18:21tú le...y lo lograrás; anda, y hazlo asíH3318
+- 2Cr_20:32y anduvo en el camino de Asa su padreH3318
+- 2Cr_21:6anduvo en el camino de...reyes de IsraelH3318
+- 2Cr_21:12por cuanto no has andado en los caminosH3318
+- 2Cr_21:13sino que has andado en el camino de losH3318
+- 2Cr_22:3él anduvo en los caminos de la casa deH3318
+- 2Cr_22:5anduvo en los consejos de ellos, y fueH3318
+- 2Cr_28:2anduvo en los caminos de los reyes deH3318
+- 2Cr_34:2anduvo en los caminos de David su padreH3318
+- 2Cr_34:21andad, consultad a Jehová por mí y porH3318
+- Neh_5:9¿no andaréis en el temor de nuestroH3318
+- Neh_10:29y jurar que andarían en la ley de DiosH3318
+- Job_1:7; Job_2:2de rodear la tierra, y de andar porH3318
+- Job_5:14a mediodía andan a tientas como de nocheH4959
+- Job_9:8extendió...y anda sobre las olas del marH1869
+- Job_12:17hace andar despojados de consejo a losH1980
+- Job_18:8red será echada...y sobre mallas andaráH1980
+- Job_21:11como manada, y sus hijos andan saltandoH7540
+- Job_24:10al desnudo hacen andar sin vestido, y aH1980
+- Job_24:18no andarán por el camino de las viñasH6437
+- Job_30:3por causa de...del hambre andaban solos
+- Job_30:28ando ennegrecido, y no por el solH1980
+- Job_31:5si anduve con mentira, y si mi pie seH1980
+- Job_34:8compañía...anda con los hombres malos?[[H1980]]
+- Job_38:16y has andado escudriñando el abismo?[[H1980]]
+- Job_38:41y andan errantes por falta de comida?[[H8582]]
+- Job_39:8su pasto, y anda buscando toda cosa verdeH1875
+- Sal_1:1el varón que no anduvo en consejo deH1980
+- Sal_12:8cercando andan los malos, cuando laH1980
+- Sal_15:2el que anda en integridad y hace justiciaH1980
+- Sal_23:4aunque ande en valle de sombra de muerteH1980
+- Sal_26:1porque yo en mi integridad he andado; heH1980
+- Sal_26:3tu misericordia está...ando en tu verdadH1980
+- Sal_26:4ni entré con los que andan simuladamenteH5956
+- Sal_26:6andaré alrededor de tu altar, oh JehováH5437
+- Sal_26:11yo andaré en mi integridad; redímemeH1980
+- Sal_32:8te enseñaré el camino en que debes andarH1980
+- Sal_35:14como por mi hermano andaba; como elH1980
+- Sal_38:6humillado en...ando enlutado todo el díaH1980
+- Sal_42:9; Sal_43:2¿por qué andaré yo enlutado por laH1980
+- Sal_48:12andad alrededor de Sion, y rodeadlaH5437
+- Sal_55:14andábamos en amistad en la casa de DiosH1980
+- Sal_56:13para que ande delante de Dios en la luzH1980
+- Sal_59:15anden ellos errantes para hallar...comerH5128
+- Sal_68:7Dios...cuando anduviste por el desiertoH6805
+- Sal_78:10de Dios, ni quisieron andar en su leyH1980
+- Sal_81:13en mis caminos hubiera andado Israel![[H1980]]
+- Sal_82:5saben, no entienden, andan en tinieblasH1980
+- Sal_84:11no quitará el bien a los que andan enH1980
+- Sal_89:15andará...Jehová, a la luz de tu rostroH1980
+- Sal_89:30mi ley, y no anduvieren en mis juiciosH1980
+- Sal_91:6ni pestilencia que ande en oscuridad, niH1980
+- Sal_101:2en la integridad...andaré en medio de miH1980
+- Sal_101:6que ande en el camino de la perfecciónH1980
+- Sal_104:3el que anda sobre las alas del vientoH1980
+- Sal_104:26allí andan las naves; allí este leviatánH1980
+- Sal_105:13y andaban de nación en nación, de unH1980
+- Sal_107:4anduvieron perdidos por el desierto, porH8582
+- Sal_107:40y les hace andar perdidos, vagabundosH8562
+- Sal_109:10anden sus hijos vagabundos, y...lejosH5128
+- Sal_115:7tienen pies, mas no andan; no hablanH1980
+- Sal_116:9andaré delante de Jehová en la tierraH1980
+- Sal_119:1los que andan en la ley de JehováH1980
+- Sal_119:3no hacen iniquidad los que andan en susH1980
+- Sal_119:45y andaré en libertad, porque busqué tuH1980
+- Sal_119:67antes que fuera yo...descarriado andabaH7683
+- Sal_119:176anduve errante como oveja extraviadaH8582
+- Sal_126:6irá andando y llorando el que lleva laH1980
+- Sal_128:1todo aquel que...que anda en sus caminosH1980
+- Sal_131:1ni anduve en grandezas, ni en cosasH1980
+- Sal_138:7si anduviere yo en medio de la angustiaH1980
+- Sal_142:3en el camino en que andaba me...lazoH1980
+- Sal_143:8hazme saber el camino por donde andeH1980
+- Pro_1:15hijo mío, no andes en camino con ellosH1980
+- Pro_2:13dejan...para andar por sendas tenebrosasH1980
+- Pro_2:20así andarás por el camino de los buenosH1980
+- Pro_3:23andarás por tu camino confiadamente, y tuH1980
+- Pro_3:28no digas a...Anda, y vuelve, y mañana teH1980
+- Pro_4:11por veredas derechas te he hecho andarH1869
+- Pro_4:12cuando anduvieres, no se estrecharán tusH1980
+- Pro_5:20¿y por qué...andarás ciego con la mujerH7686
+- Pro_6:12el hombre malo...que anda en perversidadH1980
+- Pro_6:14anda pensando el mal en todo tiempoH2790
+- Pro_6:22te guiarán cuando andes; cuando duermasH1980
+- Pro_6:28¿andará el hombre sobre brasas sin queH1980
+- Pro_9:6andad por el camino de la inteligenciaH833
+- Pro_10:9que camina en integridad anda confiadoH1980
+- Pro_11:13que anda en chismes descubre el secretoH1980
+- Pro_13:20el que anda con sabios, sabio será; masH1980
+- Pro_16:29y le hace andar por camino no buenoH1980
+- Pro_20:19que anda en chismes descubre el secretoH1980
+- Ecl_2:3que anduviese mi corazón en sabiduríaH5090
+- Ecl_2:14el sabio...mas el necio anda en tinieblasH1980
+- Ecl_9:7anda, y come tu pan con gozo, y bebe tuH1980
+- Ecl_10:7príncipes que andaban como siervos sobreH1980
+- Ecl_11:9y anda en los caminos de tu corazón y enH1980
+- Ecl_12:5los endechadores andarán alrededor porH5437
+- Isa_3:16y andan con cuello erguido y con ojosH1980
+- Isa_3:16cuando andan van danzando, y haciendoH1980
+- Isa_6:9anda, y dí a este pueblo: Oíd bien, y noH1980
+- Isa_9:2el pueblo que andaba en tinieblas vio granH1980
+- Isa_11:6y el león y la bestia...andarán juntos
+- Isa_16:3no entregues a los que andan errantesH5074
+- Isa_18:2andad, mensajeros veloces, a la naciónH1980
+- Isa_20:2lo hizo así, andando desnudo y descalzoH1980
+- Isa_20:3de la manera que anduvo mi siervo IsaíasH1980
+- Isa_26:20anda, pueblo...entra en tus aposentosH1980
+- Isa_30:21diga: Este es el camino, andad por élH1980
+- Isa_33:21no andará galera de remos, ni por élH1980
+- Isa_35:8que anduviere en este...no se extraviaráH1980
+- Isa_38:3que he andado delante de ti en verdadH1980
+- Isa_38:15andaré humildemente todos mis añosH1718
+- Isa_42:5da...espíritu a los que por ella andanH1980
+- Isa_42:16les haré andar por sendas que no habíanH1869
+- Isa_42:24no quisieron andar en sus caminos, niH1980
+- Isa_50:10el que anda en tinieblas y carece de luzH1980
+- Isa_50:11andad a la luz de vuestro fuego, y deH1980
+- Isa_57:2descansarán...que andan delante de DiosH1980
+- Isa_58:13lo venerares, no andando en tus propiosH1870
+- Isa_59:9esperamos luz...y andamos en oscuridadH1980
+- Isa_59:10como ciegos, y andamos a tientas comoH1659
+- Isa_60:3andarán las naciones a tu luz, y los reyesH1980
+- Isa_65:2el cual anda por camino no bueno, en posH1980
+- Jer_2:2anda y clama a los oídos de JerusalénH1980
+- Jer_2:2andabas en pos de mí en el desierto, enH1980
+- Jer_2:8y anduvieron tras lo que no aprovechaH1980
+- Jer_2:23inmunda, nunca anduve tras los baales?[[H1980]]
+- Jer_2:25guarda tus pies de andar descalzos, y tuH1980
+- Jer_3:17ni andarán más tras la dureza...corazónH1980
+- Jer_4:1si te...y no anduvieres de acá para allá
+- Jer_6:16andad por él...Mas dijeron: No andaremosH1980
+- Jer_6:25salgas al campo, ni andes por el caminoH1980
+- Jer_6:28rebeldes, porfiados, andan chismeando
+- Jer_7:6ni anduviereis en pos de dioses ajenosH1980
+- Jer_7:9Baal, y andando tras dioses extraños queH1980
+- Jer_7:12andad ahora a mi lugar en Silo, dondeH1980
+- Jer_7:23andad en todo camino que os mande, paraH1980
+- Jer_8:2en pos de quienes anduvieron, a quienesH1980
+- Jer_9:4engaña...todo compañero anda calumniandoH1980
+- Jer_10:5son llevados, porque no pueden andarH6805
+- Jer_13:10anda en las imaginaciones de su corazónH1980
+- Jer_14:18el profeta como el...anduvieron vagandoH5503
+- Jer_16:11vuestros padres...anduvieron en pos deH1980
+- Jer_23:14los profetas de...andaban en mentiras, yH1980
+- Jer_23:17anda tras la obstinación de...corazónH1980
+- Jer_26:4si no me oyereis para andar en mi leyH1980
+- Jer_31:9los haré andar junto a arroyos de aguasH1980
+- Jer_31:22¿hasta cuándo andarás errante, oh hijaH2559
+- Jer_32:23no oyeron tu voz, ni anduvieron en tuH1980
+- Jer_44:23ni anduvisteis en su ley ni en susH1980
+- Jer_50:4e irán andando y llorando, y buscarán aH1980
+- Jer_50:6anduvieron de monte en collado, y seH1980
+- Jer_51:50los que escapasteis de la espada, andadH1980
+- Lam_1:6anduvieron sin...delante del perseguidorH1980
+- Lam_4:18cazaron nuestros pasos...no anduviésemosH1980
+- Lam_5:18por el monte de Sion...zorras andan por élH1980
+- Eze_1:9no se volvían cuando andaban, sino queH1980
+- Eze_1:12que anduviesen, andaban; y cuando a, noH1980
+- Eze_1:13de hachones...que andaba entre los seresH1980
+- Eze_1:17cuando andaban...no se volvían cuando aH1980
+- Eze_1:19cuando los seres...andaban, las ruedas aH1980
+- Eze_1:20(2)el espíritu les movía que anduviesenH1980
+- Eze_1:21cuando ellos andaban, a ellas, y cuandoH1980
+- Eze_1:24oí el sonido de sus alas cuando andabanH1980
+- Eze_5:6desecharon mis decretos...no anduvieron enH1980
+- Eze_5:7no habéis andado en mis mandamientos, niH1980
+- Eze_5:7ni aun según...las naciones...habéis andadoH6213
+- Eze_10:11cuando andaban, hacia los...frentes aH1980
+- Eze_10:11(2)no se volvían cuando andabanH1980
+- Eze_10:16andaban los querubines, a las ruedasH1980
+- Eze_11:12no habéis andado en mis estatutos, niH1980
+- Eze_11:20anden en mis ordenanzas, y guarden misH1980
+- Eze_11:21mas a aquellos cuyo corazón anda tras elH1980
+- Eze_13:3¡ay de los profetas...que andan en pos deH1980
+- Eze_14:7se hubiere apartado de andar en pos de
+- Eze_16:47ni aun anduviste en sus caminos, niH1980
+- Eze_18:17decretos y anduviere en mis ordenanzasH1980
+- Eze_19:6y él andaba entre los leones; se hizoH1980
+- Eze_20:13, Eze_20:16, Eze_20:21no anduvieron en mis estatutosH1980
+- Eze_20:18antes dije...No andéis en los estatutosH1980
+- Eze_20:19andad en mis estatutos, y guardad misH1980
+- Eze_20:39dicho...Andad cada uno tras sus ídolosH1980
+- Eze_23:31en el camino de tu hermana anduvisteH1980
+- Eze_33:31el corazón...anda en pos de su avariciaH1980
+- Eze_34:5y andan errantes por falta de pastorH6327
+- Eze_34:6anduvieron perdidas mis ovejas por todosH7686
+- Eze_36:12y haré andar hombres sobre vosotros, aH1980
+- Eze_36:27que andéis en mis estatutos, y guardéisH1980
+- Eze_37:24andarán en mis preceptos, y...por obraH1980
+- Dan_4:37humillar a los que andan con soberbiaH1981
+- Dan_9:10andar en sus leyes que él puso delanteH1980
+- Dan_12:9anda, Daniel, pues estas palabras estánH1980
+- Ose_5:6con...vacas andarán buscando a JehováH1980
+- Ose_5:11porque quiso andar en pos de vanidadesH1980
+- Ose_5:15andaré y volveré a mi lugar, hasta queH1980
+- Ose_9:17y andarán errantes entre las nacionesH5074
+- Ose_11:3yo...enseñaba a andar al mismo EfraínH8637
+- Ose_14:9rectos, y los justos andarán por ellosH8637
+- Joe_1:18¡cuán turbados anduvieron los hatos de
+- Amó_2:4en pos de las cuales anduvieron susH1980
+- Amó_3:3¿andarán dos juntos, si no estuvieren deH1980
+- Miq_1:8aullaré, y andaré despojado y desnudoH1980
+- Miq_2:3ni andaréis erguidos; porque el tiempoH1980
+- Miq_2:10y andad, porque no es este el lugar deH1980
+- Miq_2:11alguno andando con espíritu de falsedadH1980
+- Miq_4:2sus caminos y andaremos por sus veredasH1980
+- Miq_4:5anden cada uno en el nombre de su diosH1980
+- Miq_4:5nosotros con todo andaremos en el nombreH1980
+- Miq_6:16y en los consejos de ellos anduvisteisH1980
+- Hab_3:11a la luz de tus saetas anduvieranH1980
+- Hab_3:19Jehová el...en mis alturas me hace andarH1869
+- Sof_1:17andarán como ciegos, porque pecaronH1980
+- Zac_3:7si anduvieres por mis caminos, y siH1980
+- Mal_2:6en paz y en justicia anduvo conmigoH1980
+- Mal_3:14que andemos afligidos en presencia deH1980
+- Mat_4:18andando Jesús junto al mar de GalileaG4043
+- Mat_5:24delante del altar, y anda, reconcíliateG5217
+- Mat_9:5es más fácil, decir...Levántate y anda?[[G4043]]
+- Mat_11:5los ciegos ven, los cojos andan, losG4043
+- Mat_12:43el espíritu inmundo...anda por lugaresG1330
+- Mat_14:25Jesús vino a ellos andando sobre el marG4043
+- Mat_14:26viéndole andar...el mar, se turbaronG4043
+- Mat_14:29andaba sobre las aguas para ir a JesúsG4043
+- Mat_15:31viendo...a los cojos andar...ciegos verG4043
+- Mat_19:21si quieres...anda, vende lo que tienesG5217
+- Mar_1:16andando junto al mar de Galilea, vioG4043
+- Mar_2:9o decirle: Levántate, toma tu...y anda?[[G4043]]
+- Mar_2:23andando, comenzaron a arrancar espigasG3899
+- Mar_5:5andaba dando voces en los montes y en losG2258
+- Mar_5:42luego la niña se levantó y andaba, puesG4043
+- Mar_6:48vino a ellos andando sobre el mar, yG4043
+- Mar_6:49viéndole...andar sobre el mar...gritaronG4043
+- Mar_7:5¿por qué tus discípulos no andan conformeG4043
+- Mar_8:24veo los hombres...pero los veo que andanG4043
+- Mar_10:21anda, vende todo lo que tienes, y daloG5217
+- Mar_11:27andando él por el templo, vinieron a élG4043
+- Mar_12:38que gustan de andar con largas ropasG4043
+- Luc_1:6y andaban irreprensibles en todos losG4198
+- Luc_2:44anduvieron camino de un día...buscabanG2064
+- Luc_5:23es más fácil, decir...Levántate y anda?[[G4043]]
+- Luc_7:22cojos andan, los leprosos son limpiadosG4043
+- Luc_11:24sale del hombre, anda por lugares secosG1330
+- Luc_11:44hombres que andan encima no lo sabenG4043
+- Luc_13:11andaba encorvada, y en ninguna maneraG4794
+- Luc_20:46que gustan de andar con ropas largasG4043
+- Jua_1:36y mirando a Jesús que andaba por allíG4043
+- Jua_5:8le dijo: Levántate, toma tu lecho, y andaG4043
+- Jua_5:9y tomó su lecho, y anduvo. Y era día deG4043
+- Jua_5:11él mismo me dijo: Toma tu lecho y andaG4043
+- Jua_5:12el que te dijo: Toma tu lecho y anda?[[G4043]]
+- Jua_6:19vieron a Jesús que andaba sobre el marG4043
+- Jua_6:66volvieron atrás, y ya no andaban con élG4043
+- Jua_7:1andaba Jesús en Galilea...no quería andarG4043
+- Jua_8:12el que me sigue, no andará en tinieblasG4043
+- Jua_10:23andaba en el templo por el pórtico deG4043
+- Jua_11:9el que anda de día, no tropieza, porqueG4043
+- Jua_11:10el que anda de noche, tropieza, porqueG4043
+- Jua_11:54Jesús ya no andaba abiertamente entreG4043
+- Jua_12:35andad entre tanto que tenéis luz, paraG4043
+- Jua_12:35que anda en tinieblas, no sabe a dóndeG4043
+- Hec_3:6te doy; en el nombre de Jesucristo...andarG4043
+- Hec_3:8saltando, se puso en pie y anduvo; y entróG4043
+- Hec_3:8y entró con ellos en el templo, andandoG4043
+- Hec_3:9el pueblo le vio andar y alabar a DiosG4043
+- Hec_3:12o piedad hubiésemos hecho andar a éste?[[G4043]]
+- Hec_9:31iglesias...andando en el temor del SeñorG4198
+- Hec_10:38éste anduvo haciendo bienes y sanandoG1330
+- Hec_13:11andando...buscaba quien le condujese deG4013
+- Hec_14:8hombre de Listra...que jamás había andadoG4043
+- Hec_14:10levántate derecho. Y él saltó, y anduvoG4043
+- Hec_14:16ha dejado...andar en sus propios caminosG4198
+- Hec_21:24sino que tú también andas ordenadamenteG4748
+- Rom_6:4así también nosotros andemos en vidaG4043
+- Rom_8:1que no andan conforme a la carne, sinoG4043
+- Rom_8:4en nosotros, que no andamos conforme a laG4043
+- Rom_13:13andemos como de dia, honestamente; noG4043
+- Rom_14:15ya no andas conforme al amor. No hagasG4043
+- 1Co_3:3sois carnales, y andáis como hombres?[[G4043]]
+- 1Co_4:19el poder de los que andan envanecidosG5448
+- 2Co_4:2vergonzoso, no andando con astuciaG4043
+- 2Co_5:7porque por fe andamos, no por vistaG4043
+- 2Co_6:16habitaré y andaré entre ellos, y seré suG1704
+- 2Co_10:2nos tienen como si anduviésemos según laG4043
+- 2Co_10:3aunque andamos en la carne, no militamosG4043
+- Gál_2:14cuando vi que no andaban rectamenteG3716
+- Gál_5:16digo, pues: Andad en el Espíritu, y noG4043
+- Gál_5:25si vivimos por el Espíritu, andemosG4748
+- Gál_6:16todos los que anden conforme a esta reglaG4748
+- Efe_2:2los cuales anduvisteis en otro tiempoG4043
+- Efe_2:10buenas obras...que anduviésemos en ellasG4043
+- Efe_4:1os ruego que andéis como es digno de laG4043
+- Efe_4:17que ya no andéis como los otros gentilesG4043
+- Efe_4:17que andan en la vanidad de su menteG4043
+- Efe_5:2andad en amor, como...Cristo nos amó, y seG4043
+- Efe_5:8ahora sois luz...andad como hijos de luzG4043
+- Efe_5:15mirad, pues, con diligencia como andéisG4043
+- Flp_3:18andan muchos...son enemigos de la cruzG4043
+- Col_1:10que andéis como es digno del SeñorG4043
+- Col_2:6que habéis recibido al Señor...andad en élG4043
+- Col_3:7en las cuales...anduvisteis en otro tiempoG4043
+- Col_4:5andad sabiamente para con los de afueraG4043
+- 1Ts_2:12anduvieseis como es digno de DiosG4043
+- 2Ts_3:6hermano que ande desordenadamenteG4043
+- 2Ts_3:7nosotros no anduvimos desordenadamenteG812
+- 2Ts_3:11que algunos de...andan desordenadamenteG4043
+- 1Ti_5:13ser ociosas, andando de casa en casaG4022
+- Heb_3:10siempre andan vagando en su corazón
+- Heb_11:37anduvieron de acá...cubiertos de pielesG4022
+- 1Pe_4:3andando en lascivias, concupiscenciasG4198
+- 1Pe_5:8diablo...anda alrededor buscando a quienG4043
+- 2Pe_2:10la carne, andan en concupiscencia eG4198
+- 2Pe_3:3andando según sus propias concupiscenciasG4198
+- 2Pe_3:11andar en santa y piadosa manera de vivir
+- 1Jn_1:6si decimos...y andamos en tinieblasG4043
+- 1Jn_1:7si andamos en luz...tenemos comunión unosG4043
+- 1Jn_2:6el que dice que...debe andar como él anduvoG4043
+- 1Jn_2:11el que aborrece a su...anda en tinieblasG4043
+- 2Jn_1:4a algunos de tus hijos andando en laG4043
+- 2Jn_1:6amor, que andemos según sus mandamientosG4043
+- 2Jn_1:6este es el mandamiento: que andéis en amorG4043
+- 3Jn_1:3testimonio...de cómo andas en la verdadG4043
+- 3Jn_1:4el oír que mis hijos andan en la verdadG4043
+- Jud_1:16que andan según sus propios deseos, cuyoG4198
+- Jud_1:18que andarán según sus malvados deseosG4198
+- Rev_2:1que anda en medio de los siete candelerosG4043
+- Rev_3:4y andarán conmigo en vestiduras blancasG4043
+- Rev_9:20las cuales no pueden...ni oír, ni andarG4043
+- Rev_16:15que no ande desnudo, y vean su vergüenzaG4043
+- Rev_21:24las naciones...andarán a la luz de ellaG4043

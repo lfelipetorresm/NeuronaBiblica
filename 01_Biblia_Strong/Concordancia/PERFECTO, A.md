@@ -1,0 +1,80 @@
+---
+tipo: concordancia
+palabra: PERFECTO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PERFECTO, A
+
+- Gén_6:9Noé, varón...era p en sus generacionesH8549
+- Gén_17:1yo soy el...anda delante de mi y se pH8549
+- Núm_19:2que te traigan una vaca...p, en la cualH8549
+- Núm_32:11no...por cuanto no fueron p en pos de míH4390
+- Núm_32:12excepto Caleb...que fueron p en pos deH4390
+- Deu_18:13p serás delante de Jehová tu DiosH8549
+- Deu_32:4él es la Roca, cuya obra es p, porqueH8549
+- 1Sa_14:41dijo Saúl a Jehová Dios...Da suerte pH8549
+- 2Sa_22:31en cuanto a Dios, p es su caminoH8549
+- 1Re_8:61sea...p vuestro corazón para...JehováH8003
+- 1Re_11:4su corazón no era p con Jehová su DiosH8003
+- 1Re_15:3no fue su corazón p con Jehová su DiosH8003
+- 1Re_15:14Asa fue p para con Jehová toda su vidaH8003
+- 1Cr_12:38vinieron con corazón p a HebrónH8003
+- 1Cr_28:9Dios...sírvele con corazón p y con ánimoH8003
+- 1Cr_29:19da a mi hijo Salomón corazón p, paraH8003
+- 2Cr_15:17el corazón de Asa fue p en todosH8003
+- 2Cr_16:9favor de los que tienen corazón p paraH8003
+- 2Cr_25:2lo recto ante...aunque no de p corazónH8003
+- Job_1:1, Job_1:8; Job_2:3p y recto, temeroso de Dios yH8535
+- Job_8:20aquí, Dios no aborrece al p, ni apoyaH8535
+- Job_9:20si me dijere p, esto me haría inicuoH8535
+- Job_9:22yo diga: Al p y impío él los consumeH8535
+- Job_12:4con todo, el justo y p es escarnecidoH8549
+- Job_22:3provecho de que tú hagas p tus caminos?[[H8552]]
+- Job_37:16de...las maravillas del p en sabiduría?[[H8549]]
+- Sal_18:30en cuanto a Dios, p es su camino, yH8549
+- Sal_18:32Dios es el que...quien hace p mi caminoH8549
+- Sal_19:7la ley de Jehová es p, que convierte elH8549
+- Sal_37:18conoce Jehová los días de los p, y laH8549
+- Sal_119:1bienaventurados los p de camino, losH8549
+- Pro_2:21tierra, y los p permanecerán en ellaH8549
+- Pro_4:18que va en aumento hasta que el día es pH3559
+- Pro_10:29el camino de Jehová es fortaleza al pH8537
+- Pro_11:5la justicia del p enderezará su caminoH8549
+- Pro_11:20mas los p de camino le son agradablesH8549
+- Pro_13:6la justicia guarda al de p camino; masH8537
+- Pro_28:10caerá en...mas los p heredarán el bienH8549
+- Pro_29:10los hombres sanguinarios aborrecen al pH8535
+- Cnt_5:2ábreme...p mía, porque mi cabeza estáH8511
+- Cnt_6:9mas una es la paloma mía, la p mía; esH8511
+- Isa_18:5el fruto sea p, y pasada la flor seH8552
+- Lam_2:15¿es esta la ciudad que...de p hermosuraH3632
+- Eze_16:14era p, a causa de mi hermosura queH3632
+- Eze_27:3Tiro...has dicho: Yo soy de p hermosuraH3632
+- Eze_28:15p eras en todos tus caminos desde elH8549
+- Mat_5:48sed..p, como vuestro Padre que..es pG5046
+- Mat_19:21si quieres ser p, anda, vende lo queG5046
+- Jua_17:23para que sean p en unidad, para queG5048
+- Rom_12:2buena voluntad de Dios, agradable y pG5046
+- 1Co_13:10cuando venga lo p...que es en parteG5046
+- 2Co_10:6para...cuando vuestra obediencia sea pG4137
+- Efe_4:13varón p, a la medida de la estaturaG5046
+- Flp_3:12ya, ni que ya sea p; sino que prosigoG5048
+- Flp_3:15los que somos p, esto mismo sintamosG5046
+- Col_1:28presentar p en Cristo Jesús a todoG5046
+- Col_3:14vestíos de amor, que es el vínculo pG5047
+- Col_4:12para que estéis firmes, p y completosG5046
+- 2Ti_3:17fin de que el hombre de Dios sea pG739
+- Heb_7:28constituye...al Hijo...p para siempreG5048
+- Heb_9:9presentan ofrendas...que no pueden hacer pG5048
+- Heb_9:11por el más amplio y más p tabernáculoG5046
+- Heb_10:1nunca puede...hacer p a los que se acercanG5048
+- Heb_10:14hizo p para siempre a los santificadosG5048
+- Heb_12:23los espíritus de los justos hechos pG5048
+- Stg_1:4para que seáis p y cabales, sin queG5046
+- Stg_1:17todo don p desciende de lo alto, delG5046
+- Stg_1:25el que mira atentamente en la p ley, laG5046
+- Stg_3:2si...no ofende en palabra, éste es varón pG5046
+- 1Jn_4:18que el p amor echa fuera el temorG5046
+- Rev_3:2no he hallado tus obras p delante deG4137

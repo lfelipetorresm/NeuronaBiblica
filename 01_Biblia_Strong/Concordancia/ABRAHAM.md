@@ -1,0 +1,249 @@
+---
+tipo: concordancia
+palabra: ABRAHAM
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ABRAHAM
+
+- =Abram
+- Gén_17:5no...Abram, sino que será tu nombre AH85
+- Gén_17:9dijo de nuevo Dios a A: En cuanto a tiH85
+- Gén_17:15a A: A Sarai tu mujer no la llamarásH85
+- Gén_17:17A se postró sobre su rostro, y se rióH85
+- Gén_17:18y dijo A a Dios ojalá Ismael vivaH85
+- Gén_17:22con él, y subió Dios de estar con AH85
+- Gén_17:23tomó A a Ismael su hijo, y a todos losH85
+- Gén_17:23a todo varón entre los...de la casa de AH85
+- Gén_17:24era A de edad de noventa y nueve añosH85
+- Gén_17:26el mismo día fueron circuncidados A eH85
+- Gén_18:6A fue de prisa a la tienda a Sara, y leH85
+- Gén_18:7corrió A a las...y tomó un becerro tiernoH85
+- Gén_18:11A y Sara eran viejos, de edad avanzadaH85
+- Gén_18:13dijo a A: ¿Por qué se ha reído SaraH85
+- Gén_18:16de allí...A iba con ellos acompañándolosH85
+- Gén_18:17¿encubriré yo a A lo que voy a hacerH85
+- Gén_18:18habiendo de ser A una nación grande yH85
+- Gén_18:19que haga venir Jehová sobre A lo que haH85
+- Gén_18:22pero A estaba aún delante de JehováH85
+- Gén_18:23se acercó A y dijo: ¿Destruirás tambiénH85
+- Gén_18:27A replicó y dijo: He aquí ahora que heH85
+- Gén_18:33que acabó de hablar a A; y A volvió a suH85
+- Gén_19:27y subió A por la mañana al lugar dondeH85
+- Gén_19:29se acordó de A y envió fuera a Lot deH85
+- Gén_20:1de allí partió A a la tierra del NeguevH85
+- Gén_20:2dijo A de Sara su mujer: Es mi hermanaH85
+- Gén_20:9llamó Abimelec a A, y le dijo: ¿Qué nosH85
+- Gén_20:10dijo...Abimelec a A: ¿Qué pensabas, paraH85
+- Gén_20:11y A respondió: Porque dije para míH85
+- Gén_20:14dio a A, y le devolvió a Sara su mujerH85
+- Gén_20:17A oró a Dios; y Dios sanó a AbimelecH85
+- Gén_20:18de Abimelec, a causa de Sara mujer de AH85
+- Gén_21:2Sara concibió y dio a A un hijo en suH85
+- Gén_21:3y llamó A el nombre de su hijo que leH85
+- Gén_21:4y circuncidó A a su hijo Isaac de ochoH85
+- Gén_21:5era A de cien años cuando nació IsaacH85
+- Gén_21:7¿quién dijera a A que Sara habría de darH85
+- Gén_21:8hizo A gran banquete el día que fueH85
+- Gén_21:9el cual ésta le había dado a luz a A, seH85
+- Gén_21:10dijo A: Echa a esta sierva y a su hijoH85
+- Gén_21:11dicho pareció grave en gran manera a AH85
+- Gén_21:12dijo Dios a A: No te parezca grave aH85
+- Gén_21:14A se levantó muy de mañana, y tomó panH85
+- Gén_21:22que habló Abimelec...a A, diciendo: DiosH85
+- Gén_21:24y respondió A: Yo juraréH85
+- Gén_21:25A reconvino a Abimelec a causa de unH85
+- Gén_21:27y tomó A ovejas y...y dio a AbimelecH85
+- Gén_21:28puso A siete corderas del rebaño aparteH85
+- Gén_21:29y dijo Abimelec a A: ¿Qué significanH85
+- Gén_21:33y plantó A un...tamarisco en BeersebaH85
+- Gén_21:34moró A en tierra de los filisteos...díasH85
+- Gén_22:1que probó Dios a A, y le dijo: A. Y élH85
+- Gén_22:3A se levantó muy de mañana...fue al lugarH85
+- Gén_22:4alzó A sus ojos, y vio el lugar de lejosH85
+- Gén_22:5dijo A a sus siervos: Esperad aquí conH85
+- Gén_22:6tomó A la leña del holocausto, y la pusoH85
+- Gén_22:7habló Isaac a A su padre, y dijo: PadreH85
+- Gén_22:8y respondió A: Dios se proveerá deH85
+- Gén_22:9edificó allí A un altar, y compuso laH85
+- Gén_22:10extendió A su mano y tomó el cuchilloH85
+- Gén_22:11dijo: A, A. Y él respondió: Heme aquíH85
+- Gén_22:13alzó A sus ojos y miró, y he aquí a susH85
+- Gén_22:13fue A y tomó el carnero, y lo ofrecióH85
+- Gén_22:14y llamó A el nombre de aquel lugarH85
+- Gén_22:15y llamó el ángel de...a A segunda vezH85
+- Gén_22:19volvió A a sus...y habitó A en BeersebaH85
+- Gén_22:20que fue dada noticia a A, diciendo: HeH85
+- Gén_22:23los ocho hijos...de Nacor hermano de AH85
+- Gén_23:2y vino A a hacer duelo por Sara, y aH85
+- Gén_23:3se levantó A de delante de su muertaH85
+- Gén_23:5respondieron los hijos de Het a A, y leH85
+- Gén_23:7A se levantó, y se inclinó al pueblo deH85
+- Gén_23:10respondió Efrón...a A, en presencia deH85
+- Gén_23:12A se inclinó delante del pueblo de laH85
+- Gén_23:14respondió Efrón a A, diciéndoleH85
+- Gén_23:16A se convino con...y pesó A...el dineroH85
+- Gén_23:18como propiedad de A, en presencia deH85
+- Gén_23:19sepultó A a Sara su mujer en la cuevaH85
+- Gén_23:20quedó la heredad y la cueva que...de AH85
+- Gén_24:1era A ya viejo, y bien avanzado en añosH85
+- Gén_24:1y Jehová había bendecido a A en todoH85
+- Gén_24:2dijo A a un criado suyo, el más viejoH85
+- Gén_24:6A le dijo: Guárdate que no vuelvas aH85
+- Gén_24:9puso su mano debajo del muslo de A suH85
+- Gén_24:12Dios de mi señor A, dame, te ruego, elH85
+- Gén_24:12y haz misericordia con mi señor AH85
+- Gén_24:15de Milca mujer de Nacor hermano de AH85
+- Gén_24:27bendito sea Jehová, Dios de mi amo AH85
+- Gén_24:34entonces dijo: Yo soy criado de AH85
+- Gén_24:42Dios de mi señor A, si tú prosperasH85
+- Gén_24:48y bendije a Jehová Dios de mi señor AH85
+- Gén_24:52cuando el criado de A oyó...palabrasH85
+- Gén_24:59dejaron ir a...al criado de A y a susH85
+- Gén_25:1A tomó otra mujer...nombre era CeturaH85
+- Gén_25:5y A dio todo cuanto tenía a IsaacH85
+- Gén_25:6los hijos de sus concubinas dio A donesH85
+- Gén_25:7fueron los días que vivió A: 175 añosH85
+- Gén_25:8murió A en buena vejez, anciano y llenoH85
+- Gén_25:10heredad que compró A de los hijos deH85
+- Gén_25:10allí fue sepultado A, y Sara su mujerH85
+- Gén_25:11muerto A, que Dios bendijo a Isaac suH85
+- Gén_25:12los descendientes de Ismael hijo de AH85
+- Gén_25:19de Isaac hijo de A: A engendró a IsaacH85
+- Gén_26:1primera hambre que hubo en...días de AH85
+- Gén_26:3confirmaré el juramento que hice a AH85
+- Gén_26:5por cuanto oyó A mi voz, y guardó miH85
+- Gén_26:15que habían abierto los criados de AH85
+- Gén_26:18los pozos de...abierto en los días de AH85
+- Gén_26:18habían cegado después de la muerte de AH85
+- Gén_26:24le dijo: Yo soy el Dios de A tu padreH85
+- Gén_26:24descendencia por amor de A mi siervoH85
+- Gén_28:4y te dé la bendición de A...que heredesH85
+- Gén_28:4heredes la tierra en...que Dios dio a AH85
+- Gén_28:9hija de Ismael hijo de A, hermana deH85
+- Gén_28:13yo soy Jehová, el Dios de A tu padreH85
+- Gén_31:42si el Dios...Dios de A y temor de IsaacH85
+- Gén_31:53el Dios de A y el Dios de Nacor juzgueH85
+- Gén_32:9Dios de mi padre A, y Dios de...IsaacH85
+- Gén_35:12la tierra que he dado a A y a Isaac, laH85
+- Gén_35:27es Hebrón, donde habitaron A e IsaacH85
+- Gén_48:15anduvieron mis padres A e Isaac, elH85
+- Gén_48:16y el nombre de mis padres A e IsaacH85
+- Gén_49:30la cual compró A con el mismo campoH85
+- Gén_49:31allí sepultaron a A y a Sara su mujerH85
+- Gén_50:13en la cueva...la que había comprado AH85
+- Gén_50:24a la tierra que juró a A, a Isaac y aH85
+- Éxo_2:24y se acordó de su pacto con A, IsaacH85
+- Éxo_3:6, Éxo_3:15-16Dios de A, Dios de Isaac, y DiosH85
+- Éxo_4:5el Dios de A, Dios de Isaac y Dios deH85
+- Éxo_6:3aparecí a A, a...como Dios OmnipotenteH85
+- Éxo_6:8mano jurando que la daría a A, a Isaac yH85
+- Éxo_32:13acuérdate de A, de Isaac y de IsraelH85
+- Éxo_33:1sube...a la tierra de la cual juré a AH85
+- Lev_26:42de mi pacto con A me acordaré, y haréH85
+- Núm_32:11la tierra que prometí...a A, Isaac yH85
+- Deu_1:8la tierra que Jehová juró a...A, IsaacH85
+- Deu_6:10la tierra que juró a tus padres A, IsaacH85
+- Deu_9:5la palabra que Jehová juró a...A IsaacH85
+- Deu_9:27acuérdate de...siervos A, Isaac y JacobH85
+- Deu_29:13como lo juró a tus...A, Isaac y JacobH85
+- Deu_30:20la tierra que juró Jehová a...A, IsaacH85
+- Deu_34:4es la tierra de que juré a A, a IsaacH85
+- Jos_24:2esto es, Taré, padre de A y de NacorH85
+- Jos_24:3tomé a vuestro padre A del otro lado delH85
+- 1Re_18:36Dios de A, de Isaac y de Israel, seaH85
+- 2Re_13:23los miró a causa de su pacto con AH85
+- 1Cr_1:27y Abram, el cual es AH85
+- 1Cr_1:28los hijos de A: Isaac e IsmaelH85
+- 1Cr_1:32y Cetura, concubina de A, dio a luz aH85
+- 1Cr_1:34A engendró a Isaac, y los hijos de IsaacH85
+- 1Cr_16:16del pacto que concertó con A, y de suH85
+- 1Cr_29:18Dios de A...conserva...esta voluntad delH85
+- 2Cr_20:7y la diste a la descendencia de AH85
+- 2Cr_30:6volveos a Jehová el Dios de A, de IsaacH85
+- Neh_9:7lo sacaste...y le pusiste el nombre AH85
+- Sal_47:9reunieron como pueblo del Dios de AH85
+- Sal_105:6vosotros, descendencia de A su siervoH85
+- Sal_105:9la cual concertó con A, y de...a IsaacH85
+- Sal_105:42su santa palabra dada a A su siervoH85
+- Isa_29:22Jehová, que redimió a A, dice así aH85
+- Isa_41:8tú, Israel...descendencia de A mi amigoH85
+- Isa_51:2mirad a A vuestro padre, y a Sara que osH85
+- Isa_63:16A nos ignora, e Israel no nos conoceH85
+- Jer_33:26sobre la posteridad de A, de IsaacH85
+- Eze_33:24A era uno, y poseyó la tierra; puesH85
+- Miq_7:20cumplirás la...y a A la misericordiaH85
+- Mat_1:1Jesucristo, hijo de David, hijo de AG11
+- Mat_1:2A engendró a Isaac, Isaac a Jacob...JudáG11
+- Mat_1:17las generaciones desde A hasta David sonG11
+- Mat_3:9no penséis decir...A A tenemos por padreG11
+- Mat_3:9digo que Dios puede levantar hijos a AG11
+- Mat_8:11y se sentarán con A e Isaac y Jacob enG11
+- Mat_22:32; Mar_12:26soy el Dios de A, el DiosG11
+- Luc_1:55con A y su descendencia para siempreG11
+- Luc_1:73del juramento que hizo a A nuestro padreG11
+- Luc_3:8a decir dentro de...Tenemos a A por padreG11
+- Luc_3:8Dios puede levantar hijos a A aun deG11
+- Luc_3:34hijo de A, hijo de Taré, hijo de NacorG11
+- Luc_13:16y a esta hija de A...¿no se le debíaG11
+- Luc_13:28cuando veáis a A...en el reino de DiosG11
+- Luc_16:22llevado por los ángeles al seno de AG11
+- Luc_16:23y vio de lejos A, y a Lázaro en suG11
+- Luc_16:24dijo: Padre A, ten misericordia de míG11
+- Luc_16:25pero A le dijo: Hijo, acuérdate queG11
+- Luc_16:29A le dijo: A Moisés y a los profetasG11
+- Luc_16:30no, padre A; pero si alguno fuere aG11
+- Luc_16:31A le dijo: Si no oyen a Moisés y a losG11
+- Luc_19:9por cuanto él también es hijo de AG11
+- Luc_20:37cuando llama al Señor, Dios de A, DiosG11
+- Jua_8:33le respondieron: Linaje de A somos, yG11
+- Jua_8:37sé que sois descendientes de A; peroG11
+- Jua_8:39respondieron y...Nuestro padre es AG11
+- Jua_8:39si...hijos de A, las obras de A haríaisG11
+- Jua_8:40ahora procuráis matarme...no hizo esto AG11
+- Jua_8:52A murió, y los profetas; y tu dices: ElG11
+- Jua_8:53¿eres tú acaso mayor que nuestro padre AG11
+- Jua_8:56A vuestro padre se gozó de que había deG11
+- Jua_8:57aún no tienes...años, ¿y has visto a A?[[G11]]
+- Jua_8:58cierto os digo: Antes que A fuese, yo soyG11
+- Hec_3:13el Dios de A, de Isaac y de JacobG11
+- Hec_3:25a A: En tu simiente serán benditas todasG11
+- Hec_7:2el Dios de...apareció a nuestro padre AG11
+- Hec_7:8A engendró a Isaac, y le circuncidó alG11
+- Hec_7:16que...compró A de los hijos de HamorG11
+- Hec_7:17la promesa, que Dios había jurado a AG11
+- Hec_7:32yo soy el Dios de...A, el Dios de IsaacG11
+- Hec_13:26hermanos, hijos del linaje de A y losG11
+- Rom_4:1qué...diremos que halló A, nuestro padreG11
+- Rom_4:2porque si A fue justificado por...obrasG11
+- Rom_4:3creyó A a Dios, y le fue contado porG11
+- Rom_4:9decimos que a A le fue contada la fe porG11
+- Rom_4:12la fe que tuvo nuestro padre A antes deG11
+- Rom_4:13no por la ley fue dada a A...la promesaG11
+- Rom_4:16para la que es de la fe de A, el cualG11
+- Rom_9:7ni por ser descendientes de A, son todosG11
+- Rom_11:1soy...israelita, de la descendencia de AG11
+- 2Co_11:22¿son descendientes de A? También yoG11
+- Gál_3:6A creyó a Dios, y le fue contado porG11
+- Gál_3:7los que son de fe, éstos son hijos de AG11
+- Gál_3:8dio...la buena nueva a A, diciendo: En tiG11
+- Gál_3:9los de la fe son bendecidos con el...AG11
+- Gál_3:14bendición de A alcanzase a los gentilesG11
+- Gál_3:16a A fueron hechas las promesas, y a suG11
+- Gál_3:18Dios la concedió a A mediante la promesaG11
+- Gál_3:29linaje de A sois, y herederos según laG11
+- Gál_4:22está escrito que A tuvo dos hijos; unoG11
+- Heb_2:16que socorrió a la descendencia de AG11
+- Heb_6:13porque cuando Dios hizo la promesa a AG11
+- Heb_7:1este Melquisedec...que salió a recibir a AG11
+- Heb_7:2a quien...dio A los diezmos de todo; cuyoG11
+- Heb_7:4a quien aun A el patriarca dio diezmosG11
+- Heb_7:5también hayan salido de los lomos de AG11
+- Heb_7:6tomó de A los diezmos, y bendijo al queG11
+- Heb_7:9así, en A pagó el diezmo también LevíG11
+- Heb_11:8A, siendo llamado, obedeció para salirG11
+- Heb_11:17A, cuando fue probado, ofreció a IsaacG11
+- Stg_2:21¿no fue justificado por las obras AG11
+- Stg_2:23A creyó a Dios, y le fue contado porG11
+- 1Pe_3:6Sara obedecía a A, llamándole señorG11

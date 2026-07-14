@@ -1,0 +1,109 @@
+---
+tipo: concordancia
+palabra: PROCURAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PROCURAR
+
+- Éxo_2:15Faraón...procuró matar a Moisés; peroH1245
+- Éxo_4:19han muerto todos los que procuraban tuH1245
+- Núm_16:10¿procuráis también el sacerdocio?[[H1245]]
+- Núm_35:23no era su enemigo, ni procuraba su malH1245
+- Deu_13:10procuró apartarte de Jehová tu DiosH1245
+- Deu_23:6no procurarás la paz de ellos ni su bienH1875
+- Deu_28:15para procurar cumplir...sus mandamientos
+- Jue_2:22si procurarían o no seguir el camino
+- 1Sa_14:4por donde Jonatán procuraba pasar aH1245
+- 1Sa_19:2dio aviso...Saúl mi padre procura matarteH1245
+- 1Sa_19:10Saúl procuró enclavar a David con laH1245
+- 1Sa_24:9dicen: Mira que David procura tu mal?[[H1245]]
+- 1Sa_25:26los que procuran mal contra mi señorH1245
+- 2Sa_3:17procurabais que David fuese rey sobreH1245
+- 2Sa_4:8Is-boset hijo de Saúl...que procuraba matarteH1245
+- 2Sa_20:19tú procuras destruir una ciudad que esH1245
+- 2Sa_21:2pero Saúl había procurado matarlos en su celoH1245
+- 1Re_10:24toda la tierra procuraba ver...de SalomónH1245
+- 1Re_11:22¿qué te falta...que procuras irte aH1245
+- 1Re_11:40Salomón procuró matar a Jeroboam, peroH1245
+- 1Cr_21:3¿para qué procura mi señor esto, queH1245
+- 2Cr_9:23los reyes...procuraban ver el rostroH1245
+- 2Cr_24:6le dijo: ¿Por qué no has procurado queH1875
+- Esd_9:12ni procuraréis jamás su paz ni suH1875
+- Neh_2:10viniese alguno para procurar el bienH1245
+- Neh_6:14de los otros...que procuraban infundirme miedoH1245
+- Est_2:15ninguna cosa procuró sino lo que dijoH1245
+- Est_2:21y procuraban poner mano en el rey AsueroH1245
+- Est_3:6procuró Amán destruir a todos los judíosH1245
+- Est_6:2que habían procurado poner mano en...AsueroH1245
+- Est_9:2sobre los que habían procurado su mal, yH1245
+- Est_10:3procuró el bienestar de su pueblo y...pazH1875
+- Sal_37:32acecha el impío...y procura matarloH1245
+- Sal_38:12procuran mi mal hablan iniquidadesH1245
+- Sal_71:24confundidos los que mi mal procurabanH1245
+- Sal_109:10procuren su pan lejos de sus...hogaresH1875
+- Pro_11:27el que procura el bien buscará favorH7836
+- Pro_30:32si...has procurado enaltecerte, o si has
+- Ecl_12:10procuró...hallar palabras agradablesH1245
+- Jer_26:21rey procuró matarle...huyó a EgiptoH1245
+- Jer_29:7procurad la paz de la...ciudad a la cualH1875
+- Dan_8:15mientras yo...procuraba comprenderlaH1245
+- Zac_12:9yo procuraré destruir...las nacionesH1245
+- Mat_2:20los que procuraban la muerte del niñoG2212
+- Mar_12:12procuraban prenderle...entendían queG2212
+- Luc_5:18procuraban llevarle adentro y ponerleG2212
+- Luc_6:19toda la gente procuraba tocarle, porqueG2212
+- Luc_9:9¿quién, pues, es éste...Y procuraba verleG2212
+- Luc_11:54procurando cazar alguna palabra de suG2212
+- Luc_12:58procura en el camino arreglarte con élG1325
+- Luc_13:24muchos procurarán entrar, y no podránG2212
+- Luc_17:33todo el que procure salvar su vida, laG2212
+- Luc_19:3procuraba ver quien era Jesús; pero noG2212
+- Luc_19:47y los principales...procuraban matarleG2212
+- Luc_20:19procuraban...los escribas echarle manoG2212
+- Jua_5:16procuraban matarle, porque hacía estasG2212
+- Jua_5:18los judíos aun más procuraban matarleG2212
+- Jua_7:1no...porque los judíos procuraban matarleG2212
+- Jua_7:4ninguno que procura darse a conocer haceG4160
+- Jua_7:19ninguno...cumple la ley? ¿Por qué procuráisG2212
+- Jua_7:20Demonio tienes; ¿quién procura matarte?[[G2212]]
+- Jua_7:30procuraban prenderle; pero ninguno leG2212
+- Jua_8:37procuráis matarme, porque mi palabra noG2212
+- Jua_8:40procuráis matarme a mí, hombre que os heG2212
+- Jua_10:39procuraron otra vez prenderle, pero élG2212
+- Jua_11:8ahora procuraban los judíos apedrearteG2212
+- Jua_19:12procuraba Pilato soltarle...daban vocesG2212
+- Hec_9:29disputaban...estos procuraban matarleG2212
+- Hec_13:8procurando apartar de la fe al procónsulG2212
+- Hec_16:10vio...procuramos partir para MacedoniaG2212
+- Hec_17:5asaltando...procuraban sacarlos al puebloG2212
+- Hec_21:31procurando ellos matarle, se le avisóG2212
+- Hec_24:16procuro tener...una conciencia sin ofensaG778
+- Hec_27:30marineros procuraron huir de la nave
+- Rom_10:3ignorando la justicia de Dios, y procurandoG2212
+- Rom_11:3yo he quedado, y procuran matarme?[[G2212]]
+- Rom_12:17procurad lo bueno delante de todos losG4306
+- 1Co_7:21si puedes hacerte libre, procúraloG5530
+- 1Co_7:27ligado a mujer? No procures soltarteG2212
+- 1Co_7:27estás libre de mujer? No procures casarteG2212
+- 1Co_10:33yo...no procurando mi propio beneficioG2212
+- 1Co_12:31procurad, pues, los dones mejores. MasG2212
+- 1Co_14:1y procurad los dones espirituales, peroG2206
+- 1Co_14:12procurad abundar en...para edificaciónG2212
+- 1Co_14:39así que, hermanos, procurad profetizarG2206
+- 2Co_5:9tanto procuramos...serle agradables
+- 2Co_8:21procurando hacer las cosas honradamenteG4306
+- Gál_2:10lo cual...procuré con diligencia hacerG4704
+- 1Ts_2:17más procuramos...ver vuestro rostroG4704
+- 1Ts_4:11y que procuréis tener tranquilidad, y
+- 2Ti_2:15procura con diligencia presentarte
+- 2Ti_4:9procura venir pronto a vermeG4704
+- 2Ti_4:21procura venir antes del inviernoG4704
+- Tit_3:8los que creen...procuren ocuparse
+- Heb_4:11procuremos...entrar en aquel reposo
+- Heb_8:7no se hubiera procurado lugar...el segundoG2212
+- Heb_12:17no hubo...aunque la procuró con lágrimasG1567
+- 2Pe_1:10más procurad...firme vuestra vocación
+- 2Pe_1:15yo procuraré...que después de mi partidaG4704
+- 2Pe_3:14procurad...ser hallados por él sin mancha

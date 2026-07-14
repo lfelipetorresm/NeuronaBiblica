@@ -1,0 +1,222 @@
+---
+tipo: concordancia
+palabra: JEFE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JEFE
+
+- Gén_36:15son los j de entre los hijos de EsaúH441
+- Gén_36:15los j Temán, Ornar, Zefo, CenazH441
+- Gén_36:16los j de Elifaz en la tierra de EdomH441
+- Gén_36:17Esaú: los j Nahat, Zera, Sama y MizaH441
+- Gén_36:17estos son los j de la línea de ReuelH441
+- Gén_36:18de Esaú: los j Jeús, Jaalam y CoréH441
+- Gén_36:18los j que salieron de Aholibama mujerH441
+- Gén_36:19son los hijos de Esaú, y sus j; él esH441
+- Gén_36:21estos son los j de los horeos, hijoH441
+- Gén_36:29los j de los horeos: los j Lotán, SobalH441
+- Gén_36:30estos fueron los j de los horeos, porH441
+- Gén_36:40los nombres de los j de Esaú por susH441
+- Gén_36:43estos fueron los j de Edom según susH441
+- Gén_39:21gracia en los ojos del j de la cárcelH8269
+- Gén_39:22el j de la cárcel entregó en mano deH8269
+- Gén_39:23no necesitaba atender...j de laH8269
+- Gén_40:2el j de los coperos...j de los panaderosH8269
+- Gén_40:9j de los coperos contó su sueño a JoséH8269
+- Gén_40:16viendo el j de...que había interpretadoH8269
+- Gén_40:20alzó la cabeza del j de los coperosH8269
+- Gén_40:20y la cabeza del j de los panaderosH8269
+- Gén_40:21e hizo volver a...al j de los coperosH8269
+- Gén_40:22mas hizo ahorcar al j de los panaderosH8269
+- Gén_40:23j de los coperos no se acordó de JoséH8269
+- Gén_41:9el j de los coperos habló a FaraónH8269
+- Gén_41:10echó a...a mí y al j de los panaderosH8269
+- Éxo_6:14estos son los j de las familias deH7218
+- Éxo_6:25son los j de los padres de los levitasH7218
+- Éxo_18:21sobre el pueblo por j de millares, deH8269
+- Éxo_18:25puso por j sobre el pueblo, sobre milH7218
+- Lev_4:22pecare un j, e hiciere por yerro algoH5387
+- Núm_1:4cada uno j de la casa de sus padresH7218
+- Núm_2:3el j de los hijos de Judá, Naasón hijo deH5387
+- Núm_2:5y el j de los hijos de Isacar, NatanaelH5387
+- Núm_2:7el j de los hijos de Zabulón, Eliab hijoH5387
+- Núm_2:10el j de los hijos de Rubén, Elisur hijoH5387
+- Núm_2:12y el j de los hijos de Simeón, SelumielH5387
+- Núm_2:14el j de los hijos de Gad, Eliasaf hijoH5387
+- Núm_2:18j de los hijos de Efraín, Elisama hijoH5387
+- Núm_2:20el j de los hijos de Manasés, GamalielH5387
+- Núm_2:22y el j de los hijos de Benjamín, AbidánH5387
+- Núm_2:25el j de los hijos de Dan, Ahiezer hijoH5387
+- Núm_2:27el j de los hijos de Aser, Pagiel hijoH5387
+- Núm_2:29y el j de los hijos de Neftalí, AhiraH5387
+- Núm_3:24j del linaje de los gersonitas, EliasafH5387
+- Núm_3:30el j del linaje de las familias de CoatH5387
+- Núm_3:32y el principal de los j...será EleazarH5387
+- Núm_3:32hijo del sacerdote Aarón, j de los queH5387
+- Núm_3:35y el j de la casa del linaje de MerariH5387
+- Núm_4:34y los j de la congregación, contaron aH5387
+- Núm_4:46Moisés...y los j de Israel contaron porH5387
+- Núm_7:2j de las casas de sus padres, los cualesH7218
+- Núm_10:4se congregarán...los j de los millaresH7218
+- Núm_17:3cada j de familia de...tendrá una varaH7218
+- Núm_25:14Salu, j de una familia de la tribu deH5387
+- Núm_31:14y se enojó Moisés...contra los j de2428
+- Núm_31:26toma la cuenta...y los j de los padresH7218
+- Núm_31:48vinieron a Moisés los j de millaresH8269
+- Núm_31:52oro de la ofrenda...los j de millaresH8269
+- Núm_31:54recibieron...oro de los j de millaresH8269
+- Núm_36:1hablaron delante de...j de las casasH7218
+- Deu_1:13para que yo los ponga por vuestros jH7218
+- Deu_1:15Y los puse por j sobre...j de millaresH8269
+- Deu_33:5cuando se congregaron los j del puebloH7218
+- Jos_21:1j de los padres...vinieron...a JosuéH7218
+- Jos_22:14cada uno...j de la casa de sus padresH7218
+- Jos_22:30oyendo...los j de los millares de IsraelH7218
+- Jue_5:9mi corazón es para...j de Israel, paraH2710
+- Jue_5:30la ropa de color...para los j de los que
+- Jue_11:6dijeron a Jefté: Ven, y serás nuestro jH7101
+- Jue_11:11el pueblo lo eligió por su caudillo y jH7101
+- Jue_20:2los j de todo el pueblo, las tribus deH6438
+- 1Sa_8:12nombrará para sí j de miles y j deH8269
+- 1Sa_12:9mano de Sísara j del ejército de HazorH8269
+- 1Sa_15:17¿no has sido hecho j de las tribus deH7218
+- 1Sa_17:18quesos...los llevarás al j de los milH8269
+- 1Sa_18:13Saúl lo alejó de sí, y le hizo j de milH8269
+- 1Sa_22:2se juntaron con...y fue hecho j de ellosH8269
+- 1Sa_22:7os hará a todos...j de millares y j deH8269
+- 2Sa_10:16llevando por j a Sobac, general delH8269
+- 2Sa_17:25Absalón nombró a Amasa j del ejércitoH5921
+- 2Sa_18:1y puso...j de millares y j de centenasH8269
+- 2Sa_23:13tres de los treinta j descendieron yH7218
+- 2Sa_23:19llegó a ser su j; mas no igualó a losH8269
+- 2Sa_23:23y lo puso David como j de su guardia
+- 1Re_4:2fueron los j que tuvo: Azarías hijoH8269
+- 1Re_8:1Salomón reunió ante sí en...a todos los jH8269
+- 1Re_9:23que Salomón había hecho j...eran 550H8269
+- 2Re_11:4envió Joiada y tomó j de centenasH8269
+- 2Re_11:9los j de centenas, pues, hicieron todoH8269
+- 2Re_11:10el sacerdote dio a los j...las lanzasH8269
+- 2Re_11:15Joiada mandó a los j...Sacadla fuera delH8269
+- 2Re_11:19tomó a los j de centenas, los capitanesH8269
+- 1Cr_1:51sucedieron en Edom los j Timna, AlvaH441
+- 1Cr_1:54Magdiel e Iram...fueron los j de EdomH441
+- 1Cr_5:24fueron los j de las casas de sus padresH7218
+- 1Cr_7:2de Tola...j de las familias de sus padresH7218
+- 1Cr_7:7cinco j de casas paternas, hombres deH7218
+- 1Cr_7:9que eran j de familias...20.200 hombresH7218
+- 1Cr_7:11j de familias, hombres muy valerososH7218
+- 1Cr_7:40fueron hijos de Aser...j de príncipesH7218
+- 1Cr_8:6estos los j de casas paternas...en GebaH7218
+- 1Cr_8:10Jeúz...Estos son sus hijos, j de familiasH7218
+- 1Cr_8:13Bería también, y Sema, que fueron j deH7218
+- 1Cr_8:28estos fueron j principales de familiasH7218
+- 1Cr_9:9estos hombres fueron j de familia en susH7218
+- 1Cr_9:13sus hermanos, j de sus casas paternasH7218
+- 1Cr_9:17y los porteros: Salum...Salum era el jH7218
+- 1Cr_9:33cantores, j de familias de los levitasH7218
+- 1Cr_9:34j de...de los levitas...j...en JerusalénH7218
+- 1Cr_11:6derrote a los jebuseos será cabeza y jH7218
+- 1Cr_11:6Joab...subió el primero, y fue hecho jH8269
+- 1Cr_11:20Abisai...era j de los treinta, el cualH7218
+- 1Cr_11:21fue el j de ellos, pero no igualó a losH8269
+- 1Cr_12:18el Espíritu vino sobre Amasai, j de losH7218
+- 1Cr_12:19los j de los filisteos...lo despidieron5633
+- 1Cr_13:1David tomó consejo con...con todos los jH8269
+- 1Cr_23:9estos fueron los j de las familias deH7218
+- 1Cr_23:16hijo de Gersón fue Sebuel el jH7218
+- 1Cr_23:17e hijo de Eliezer fue Rehabías el jH7218
+- 1Cr_23:18hijo de Izhar fue Selomit el jH7218
+- 1Cr_23:19hijos de Hebrón: Jerías el j, AmaríasH7218
+- 1Cr_23:20hijos de Uziel: Micaía el j, e IsíasH7218
+- 1Cr_23:24j de familias según el censo de ellosH7218
+- 1Cr_24:6delante de...los j de las casas paternasH7218
+- 1Cr_24:21de los hijos de Rehabías, Islas el jH7218
+- 1Cr_24:23de los hijos de Hebrón: Jerías el j
+- 1Cr_24:31delante...de los j de las casas paternasH7218
+- 1Cr_25:1David y los j del ejército apartaronH8269
+- 1Cr_26:10Simri el j...mas su padre lo puso por jH7218
+- 1Cr_26:21los j de las casas paternas de LaadánH7218
+- 1Cr_26:24Sebuel hijo...era j sobre los tesorosH5057
+- 1Cr_26:26j de las casas...y los j del ejércitoH8269
+- 1Cr_26:31de los hebronitas, Jerías era el j deH7218
+- 1Cr_26:32eran 2.700, j de familias, los cualesH7218
+- 1Cr_27:1de Israel, j de familias, j de millaresH7218
+- 1Cr_27:3él fue j de todos los capitanes de lasH7218
+- 1Cr_27:4Miclot era j en su división, en la queH5057
+- 1Cr_27:5el j de la tercera división...era BenaíaH8269
+- 1Cr_27:7cuarto j para el cuarto mes era Asaeló
+- 1Cr_27:8quinto j para el quinto mes era SamhutH8269
+- 1Cr_27:16el j de los rubenitas era Eliezer hijoH5057
+- 1Cr_27:22fueron los j de las tribus de IsraelH8269
+- 1Cr_28:1reunió David en...los j de las tribusH8269
+- 1Cr_28:1j de las divisiones...j de millares y deH8269
+- 1Cr_29:6los j de familia, y...j de millares y deH8269
+- 2Cr_1:2todo Israel, a j de millares...j deH8269
+- 2Cr_5:2Salomón reunió en...los j de las familiasH5387
+- 2Cr_11:22puso Roboam a Abías...por j y príncipeH5057
+- 2Cr_12:10los entregó a los j de la guardia, losH8269
+- 2Cr_13:12y he aquí Dios está con nosotros por jH7218
+- 2Cr_17:14de los j de los millares de Judá, elH8269
+- 2Cr_17:15después de él, el j Johanán, y con élH8269
+- 2Cr_23:1consigo en alianza a los j de centenasH8269
+- 2Cr_23:8cada j a los suyos, los que entraban
+- 2Cr_23:9dio...a los j de centenas las lanzas, losH8269
+- 2Cr_23:14mandó que salieran los j de centenasH8269
+- 2Cr_23:20llamó después a los j de centenas, yH8269
+- 2Cr_24:10los j y todo el pueblo se gozaron, yH8269
+- 2Cr_25:5les puso j de millares y de centenasH8269
+- 2Cr_26:11y de Hananías, uno de los j del reyH8269
+- 2Cr_26:12el número de los j de familia...2.600H8269
+- 2Cr_32:21un ángel...destruyó a...los j y capitanesH8269
+- 2Cr_35:9y Josabad, j de los levitas, dieron aH8269
+- Esd_1:5levantaron los j de las casas...JudáH7218
+- Esd_2:68los j de las casas, cuando vinieron aH7218
+- Esd_3:12los j de las casas paternas, ancianosH7218
+- Esd_4:2vinieron...a los j de las casas paternasH7218
+- Esd_4:3y los demás j de las casas, dijeron: NoH7218
+- Esd_8:1estos son los j de las casas paternasH7218
+- Esd_8:17a Iddo, j en el lugar llamado CasifiaH7218
+- Esd_8:29delante de...los j de las casas paternasH8269
+- Esd_10:16ciertos varones j de casas paternasH7218
+- Neh_4:16y detrás de ellos estaban los j deH8269
+- Neh_7:2mandé...y a Hananías, j de la fortalezaH8269
+- Neh_11:1habitaron los j del pueblo en JerusalénH8269
+- Neh_11:3son los j de la provincia que moraronH7218
+- Neh_11:13y sus hermanos, j de familias, 242,7218
+- Neh_11:14el j de los cuales era Zabdiel hijo deH6496
+- Neh_11:22el j de los levitas...era Uzi hijo deH6496
+- Neh_12:12los sacerdotes j de familias fueronH7218
+- Neh_12:22fueron inscritos por j de familiasH7218
+- Neh_12:23j de familias, fueron inscritos en elH7218
+- Neh_13:4Eliasib, siendo j de la cámara de laH5414
+- Job_12:24quita el entendimiento a los j delH7218
+- Job_29:25yo...me sentaba entre ellos como el jH7218
+- Isa_55:4por j y por maestro a las nacionesH5057
+- Jer_40:7los j del ejército que estaban porH8269
+- Jer_51:23a j y a príncipes quebrantaré por...tiH6346
+- Dan_1:3dijo el rey a Aspenaz, j de sus eunucosH7227
+- Dan_1:7a éstos el j de los eunucos puso nombresH8269
+- Dan_1:8pidió...al j de los eunucos que no se leH8269
+- Dan_1:9puso...en buena voluntad con el j de losH8269
+- Dan_1:10dijo el j de...a Daniel: Temo a mi señorH8269
+- Dan_1:11estaba puesto por el j de los eunucosH8269
+- Dan_1:18el j de los eunucos los trajo delante deH8269
+- Dan_2:48y j supremo de...los sabios de BabiloniaH7229
+- Dan_4:9Beltsasar, j de los magos...he entendidoH7229
+- Dan_5:11rey...constituyó j sobre todos los magosH7229
+- Dan_9:12la palabra que habló...contra nuestros jH8199
+- Ose_1:11nombrarán un solo j, y subirán de laH7218
+- Miq_3:1dije: Oíd ahora...j de la casa de IsraelH7101
+- Miq_3:9oíd ahora esto, j de la casa de Jacob, yH7218
+- Miq_3:11sus j juzgan por cohecho, y...por precioH7218
+- Hab_3:19al j de los cantores, sobre misH5329
+- Zac_10:3castigaré a los j; pero Jehová de losH7462
+- Luc_19:2Zaqueo, que era j de los publicanosG754
+- Luc_22:4éste fue y habló con...j de la guardiaG749
+- Luc_22:52Jesús dijo...a los j de la guardia delG749
+- Hec_4:1vinieron...los sacerdotes con el j deG4755
+- Hec_5:24cuando oyeron...el j de la guardia delG749
+- Hec_5:26el j de la guardia con los alguacilesG4755
+- Hec_19:14tal Esceva, judío, j de los sacerdotesG749

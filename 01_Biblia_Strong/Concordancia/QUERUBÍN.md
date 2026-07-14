@@ -1,0 +1,82 @@
+---
+tipo: concordancia
+palabra: QUERUBÍN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# QUERUBÍN
+
+- Gén_3:24puso al oriente del huerto de Edén qH3742
+- Éxo_25:18harás también dos q de oro; labradosH3742
+- Éxo_25:19un q en un extremo, y un q en el otroH3742
+- Éxo_25:19una pieza con el propiciatorio...los qH3742
+- Éxo_25:20los q extenderán por encima las alasH3742
+- Éxo_25:20al propiciatorio los rostros de los qH3742
+- Éxo_25:22hablaré...de entre los dos q que estánH3742
+- Éxo_26:1cortinas...harás con q de obra primorosaH3742
+- Éxo_26:31un velo...hecho de obra primorosa, con qH3742
+- Éxo_36:8las hicieron con q de obra primorosaH3742
+- Éxo_36:35el velo...hizo con q de obra primorosaH3742
+- Éxo_37:7los dos q de oro, labrados a martilloH3742
+- Éxo_37:8un q a un extremo, y otro q al otroH3742
+- Éxo_37:8de una pieza...los q a sus dos extremosH3742
+- Éxo_37:9y los q extendían sus alas por encimaH3742
+- Núm_7:89de entre los dos q; y hablaba con élH3742
+- 1Sa_4:4el arca del...que moraba entre los qH3742
+- 2Sa_6:2Jehová de los...que mora entre los qH3742
+- 2Sa_22:11cabalgó sobre un q, y voló; voló sobreH3742
+- 1Re_6:23hizo...en el lugar santísimo dos q deH3742
+- 1Re_6:24una ala del q tenía...la otra ala del qH3742
+- 1Re_6:25el otro q tenía diez codos...ambos q eranH3742
+- 1Re_6:27puso estos q dentro de la casa en elH3742
+- 1Re_6:28y cubrió de oro los qH3742
+- 1Re_6:29esculpió...q, de palmeras y de botonesH3742
+- 1Re_6:32y talló...figuras de q, de palmeras y deH3742
+- 1Re_6:32oro; cubrió...de oro los q y las palmerasH3742
+- 1Re_6:35y talló en ellas q y palmeras y botonesH3742
+- 1Re_7:29había figuras de leones...bueyes y de qH3742
+- 1Re_7:36hizo...entalladuras de q, de leones y deH3742
+- 1Re_8:6el arca del...debajo de las alas de los qH3742
+- 1Re_8:7los q tenían...así cubrían los q el arcaH3742
+- 2Re_19:15Dios...que moras entre los q, sóloH3742
+- 1Cr_13:6Jehová Dios, que mora entre los qH3742
+- 1Cr_28:18oro puro...para el carro de los q de oroH3742
+- 2Cr_3:7con oro; y esculpió q en las paredesH3742
+- 2Cr_3:10dentro del lugar santísimo hizo dos qH3742
+- 2Cr_3:11la longitud de las alas de los q era deH3742
+- 2Cr_3:11una ala...la cual tocaba el ala del otro qH3742
+- 2Cr_3:12ala del otro q...tocaba el ala del otro qH3742
+- 2Cr_3:13estos q tenían las alas extendidas porH3742
+- 2Cr_3:14también el velo...e hizo realzar q en élH3742
+- 2Cr_5:7el arca del pacto...bajo las alas de los qH3742
+- 2Cr_5:8los q extendían las alas...los q cubríanH3742
+- Sal_18:10cabalgó sobre un q, y voló; volóH3742
+- Sal_80:1tú que...que estás entre q, resplandeceH3742
+- Sal_99:1está sentado sobre los q, se conmoveráH3742
+- Isa_37:16Dios de Israel, que moras entre los qH3742
+- Eze_9:3y la gloria...se elevó de encima del qH3742
+- Eze_10:1sobre...los q como una piedra de zafiroH3742
+- Eze_10:2entra en medio...ruedas debajo de los qH3742
+- Eze_10:2de carbones encendidos de entre los qH3742
+- Eze_10:3y los q estaban a la mano derecha de laH3742
+- Eze_10:4se elevó de encima del q al umbral de laH3742
+- Eze_10:5el estruendo de las alas de los q se oíaH3742
+- Eze_10:6toma fuego de entre las...de entre los qH3742
+- Eze_10:7q extendió su mano...de en medio de los qH3742
+- Eze_10:8apareció en los q la figura de una manoH3742
+- Eze_10:9junto a los q, junto a cada q una ruedaH3742
+- Eze_10:14la primera era rostro de q; la segundaH3742
+- Eze_10:15y se levantaron los q; este es el serH3742
+- Eze_10:16andaban los q...los q alzaban sus alasH3742
+- Eze_10:18gloria de Jehová...se puso sobre los qH3742
+- Eze_10:19alzando los q sus alas, se levantaronH3742
+- Eze_10:20los mismos seres...y conocí que eran qH3742
+- Eze_11:22alzaron los q sus alas, y las ruedas enH3742
+- Eze_28:14tú, q grande, protector, yo te puse enH3742
+- Eze_28:16te arrojé de entre las...oh q protectorH3742
+- Eze_41:18estaba labrada con q y palmeras, entreH3742
+- Eze_41:18entre q y q una palmera; y cada q teníaH3742
+- Eze_41:20encima de la puerta había q labradosH3742
+- Eze_41:25en las puertas del...había labrados de qH3742
+- Heb_9:5sobre ella los q de gloria que cubríanG5502

@@ -1,0 +1,110 @@
+---
+tipo: concordancia
+palabra: GOBERNADOR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GOBERNADOR
+
+- Gén_41:34Ponga g sobre el país, y quinte laH6496
+- Gén_45:8y por g en toda la tierra de EgiptoH4910
+- Deu_1:15los puse Por...g de vuestras tribusH7860
+- Jue_9:30Zebul g de la ciudad oyó...palabrasH8269
+- 1Re_4:5Azarías hijo de Natán, sobre los gH5324
+- 1Re_4:7tensa Salomón doce g sobre todo IsraelH5324
+- 1Re_4:19éste era el único g en aquella tierraH5333
+- 1Re_4:27y estos g mantengan al rey Salomón, yH5324
+- 1Re_22:26toma a Micaías, y llévalo a Amón g deH8269
+- 1Re_22:47no había...rey en Edom; habla g enH5324
+- 2Re_10:5el g de la ciudad, los ancianos yH5921
+- 2Re_23:8de la puerta de Josué, g de la ciudadH8269
+- 2Re_25:22al pueblo...puso por g a Gedalías hijoH6485
+- 2Re_25:23el rey...había puesto por g a GedalíasH6485
+- 1Cr_23:4de estos...seis mil para g y juecesH7860
+- 1Cr_26:29Quenanías y sus hijos eran g y juecesH7860
+- 2Cr_8:10y tenía Salomón 250 g principalH5324
+- 2Cr_9:14los g de la tierra traían oro y plataH6346
+- 2Cr_18:25llevadlo a Amón g de la ciudad, y aH8269
+- 2Cr_26:11la lista hecha por mano de...Maasías gH7860
+- 2Cr_34:8envió...a Maasías g de la ciudad, y aH8269
+- 2Cr_34:13y de los levitas habla...g y porterosH7860
+- Esd_2:63el g les dijo que no comiesen de lasH8660
+- Esd_4:9g y oficiales, y los de Persia, de ErecH1169
+- Esd_5:3vino...Tatnai g del otro lado del río, yH6347
+- Esd_5:6la carta que Tatnai g del otro lado delH6347
+- Esd_5:6y sus compañeros los g que estaban alH6347
+- Esd_5:14a Sesbasar, a quien habla puesto por gH6347
+- Esd_6:6Tatnai g...y vuestros compañeros los gH6347
+- Esd_6:7que el g de los judíos y sus ancianosH6347
+- Esd_6:13entonces Tatnai g del otro lado del ríoH6347
+- Esd_7:25pon...g que gobiernen a todo el puebloH1782
+- Esd_9:2la mano...de los g ha sido la primera enH8269
+- Neh_2:7cartas para los g al otro lado delH6346
+- Neh_2:9vine luego a los g del otro lado delH6346
+- Neh_3:7bajo el dominio del g del otro lado delH6346
+- Neh_3:9Refaías...g de la mitad de la región deH8269
+- Neh_3:12Salum...g de la mitad de la región deH8269
+- Neh_3:14Malquías...g de la provincia...reedificóH8269
+- Neh_3:15Salum hijo de Colhoze, g de la regiónH8269
+- Neh_3:16g de la mitad de la región de Bet-surH8269
+- Neh_3:17-18g de la mitad de la región de KeilaH8269
+- Neh_3:19Ezer hijo de Jesúa g de Mizpa, otroH8269
+- Neh_5:14fuese g de ellos en la tierra de JudáH6346
+- Neh_5:14ni mis hermanos comimos el pan del gH6346
+- Neh_5:15g que fueron antes de mí abrumaron alH6346
+- Neh_5:18nunca requerí el pan del g, porque laH6346
+- Neh_7:65les dijo el g que no comiesen de lasH8660
+- Neh_7:70el g dio para el tesoro mil dracmas deH7218
+- Neh_8:9y Nehemías el g, y el sacerdote EsdrasH8660
+- Neh_10:1los que firmaron...Nehemías el g, hijoH8660
+- Neh_12:26y en los días del g Nehemías y delH6346
+- Est_1:3teniendo delante de él...g y príncipesH6579
+- Sal_105:21lo puso...g de todas sus posesionesH4910
+- Pro_6:7la cual no teniendo capitán, ni g, niH7860
+- Pro_8:16por mi...todos los g juzgan la tierraH8269
+- Isa_9:16los g de este pueblo son engañadoresH833
+- Eze_23:6g y capitanes, jóvenes codiciablesH5461
+- Eze_23:12g y capitanes, vestidos de ropas yH5461
+- Eze_23:23g y capitanes, nobles y varones deH5461
+- Dan_2:48g de toda la provincia de BabiloniaH7981
+- Dan_3:2se reuniesen los...g de las provinciasH7984
+- Dan_3:3reunidos...los g de las provincias, a laH7984
+- Dan_3:27se juntaron...los g, los capitanes y losH5460
+- Dan_4:36y mis g y mis consejeros me buscaronH7261
+- Dan_6:2sobre ellos tres g, de los cuales DanielH5632
+- Dan_6:3Daniel mismo era superior a estos...gH5632
+- Dan_6:4los g...buscan la ocasión para acusarH5632
+- Dan_6:6estos g...se juntaron delante del rey, yH5632
+- Dan_6:7g del reino...han acordado por consejoH5632
+- Amó_1:5destruiré...Avén, y los g de Bet-edónH8551, [[H7626]]
+- Amó_1:8destruiré g los...y a los g de AscalónH8551, [[H7626]]
+- Hag_1:1vino palabra...a Zorobabel...g de JudáH6346
+- Hag_1:14despertó Jehová...Zorobabel...g de JudáH6346
+- Hag_2:2hijo de Salatiel, g de Judá, y a JosuéH6346
+- Hag_2:21habla a Zorobabel g de Judá, diciendoH6346
+- Mat_10:18aun ante g y reyes seréis llevadosG2232
+- Mat_27:2lo entregaron a Poncio Pilato, el gG2232
+- Mat_27:11Jesús...estaba en pie delante del gG2232
+- Mat_27:14manera que el g se maravillaba muchoG2232
+- Mat_27:15acostumbraba el g soltar...un presoG2232
+- Mat_27:21respondiendo el g, les dijo: ¿A cuálG2232
+- Mat_27:23g les dijo: Pues ¿qué mal ha hecho?[[G2232]]
+- Mat_27:27los soldados del g llevaron a JesúsG2232
+- Mat_28:14y si esto lo oyere el g nosotros leG2232
+- Mar_13:9delante de g y de reyes os llevaránG2232
+- Luc_2:2primer censo se hizo siendo Cirenio gG2230
+- Luc_3:1año...siendo g de Judea Poncio PilatoG2230
+- Luc_20:20entregarle al poder y autoridad del gG2232
+- Luc_21:12reyes y ante g por causa de mi nombreG2232
+- Hec_7:10Faraón...lo puso por g sobre EgiptoG2233
+- Hec_23:24le lleva en salvo a Félix el gG2232
+- Hec_23:26Claudio Lisias al excelentísimo gG2232
+- Hec_23:33y dieron la carta al g, presentaronG2232
+- Hec_23:34el g...preguntó de qué provincia eraG2232
+- Hec_24:1y comparecieron ante el g contra PabloG2232
+- Hec_24:10habiéndole hecho igual el g a PabloG2232
+- Hec_26:30se levantó el rey, y el g, y BereniceG2232
+- 2Co_11:32el g de la provincia...guardaba laG1481
+- Efe_6:12contra los g de las tinieblas de e teG2888
+- 1Pe_2:14a los g, como por él enviados paraG2232

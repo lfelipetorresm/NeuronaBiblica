@@ -1,0 +1,409 @@
+---
+tipo: concordancia
+palabra: ENEMIGO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENEMIGO, A
+
+- Gén_14:20Dios...que entregó tus e en tu manoH6862
+- Gén_22:17tu descendencia poseerá las puertas...eH341
+- Gén_24:60tus descendientes la puerta de sus eH8130
+- Gén_49:8Judá...tu mano en la cerviz de tus eH341
+- Éxo_1:10él también se una a nuestros e y peleeH8130
+- Éxo_15:6diestra, oh Jehová, ha quebrantado al eH341
+- Éxo_15:9e dijo: Perseguiré, apresaré, repartiréH341
+- Éxo_23:4si encontrares el buey de tu e o su asnoH341
+- Éxo_23:22pero si...oyeres su voz...seré e de tus eH340, [[H341]]
+- Éxo_23:27yo...te daré la cerviz de todos tus eH341
+- Éxo_32:25permitido, para vergüenza entre sus eH6965
+- Lev_26:7perseguiréis a vuestros e, y caeránH341
+- Lev_26:8y vuestros e caerán a filo de espadaH341
+- Lev_26:16en vano...porque vuestros e la comeránH341
+- Lev_26:17seréis heridos delante de vuestros eH341
+- Lev_26:25espada...seréis entregados en mano del eH341
+- Lev_26:32se pasmarán por ello vuestros e que enH341
+- Lev_26:34estéis en la tierra de vuestros e; laH341
+- Lev_26:36tal cobardía, en la tierra de sus eH341
+- Lev_26:37y no podréis resistir delante de...eH341
+- Lev_26:38la tierra de vuestros e os consumiráH341
+- Lev_26:39decaerán en las tierras de vuestros eH341
+- Lev_26:41habré hecho entrar en la tierra de sus eH341
+- Lev_26:44estando ellos en tierra de sus e, yoH341
+- Núm_10:9cuando saliereis...contra el e que osH341
+- Núm_10:9tocaréis...seréis salvos de vuestros eH341
+- Núm_10:35sean dispersados tus e, y huyan de tuH341
+- Núm_14:42no seáis heridos delante de vuestros eH341
+- Núm_23:11te he traído para que maldigas a mis eH341
+- Núm_24:8devorará a las naciones e, desmenuzaráH6862
+- Núm_24:10para maldecir a mis e te he llamado, yH341
+- Núm_24:18será también tomada Seir por sus eH341
+- Núm_32:21haya echado a sus e de delante de síH341
+- Núm_35:23y él no era su e, ni procuraba su malH341
+- Deu_1:42que no seáis derrotados por vuestros eH341
+- Deu_6:19él arroje a tus e de delante de ti, comoH341
+- Deu_12:10os dará reposo de...vuestros e alrededorH341
+- Deu_20:1cuando salgas a la guerra contra tus eH341
+- Deu_20:3juntáis...en batalla contra vuestros eH341
+- Deu_20:4pelear por vosotros contra vuestros eH341
+- Deu_20:14comerás del botín de tus e, los cualesH341
+- Deu_21:10cuando salieres a...guerra contra tus eH341
+- Deu_23:9cuando salieres a campaña contra tus eH341
+- Deu_23:14y para entregar a tus e delante de tiH341
+- Deu_25:19Jehová...te dé descanso de todos tus eH341
+- Deu_28:7derrotará a...e que se levantaren contraH341
+- Deu_28:25Jehová te entregará...delante de tus eH341
+- Deu_28:31tus ovejas serán dadas a tus e, y noH341
+- Deu_28:48servirás...a tus e que enviare JehováH341
+- Deu_28:53en el apuro con que te angustiará tu eH341
+- Deu_28:55, Deu_28:57el apuro con que tu e te oprimiráH341
+- Deu_28:68allí seréis vendidos a vuestros e porH341
+- Deu_30:7pondrá...estas maldiciones sobre tus eH341
+- Deu_32:27no haber temido la provocación del eH341
+- Deu_32:31y aun nuestros e son de ello juecesH341
+- Deu_32:41yo tomaré venganza de mis e, y daré laH6862
+- Deu_32:42las cabezas de larga cabellera del eH341
+- Deu_32:43él vengará...y tomará venganza de sus eH6862
+- Deu_33:7de Judá...tú seas su ayuda contra sus eH6862
+- Deu_33:11hiere los lomos de sus e, y de los queH6965
+- Deu_33:27él echó de delante de ti al e, y dijoH341
+- Deu_33:29tus e serán humillados, y tú hollarásH341
+- Jos_5:13dijo: ¿Eres de los nuestros, o...e?[[H6862]]
+- Jos_7:8ha vuelto la espalda delante de sus e?[[H341]]
+- Jos_7:12Israel no podrán hacer frente a sus eH341
+- Jos_7:12que delante de sus e volverán la espaldaH341
+- Jos_7:13Israel; no podrás hacer frente a tus eH341
+- Jos_10:13que la gente se hubo vengado de sus eH341
+- Jos_10:19no os detengáis...seguid a vuestros eH341
+- Jos_10:25hará Jehová a todos vuestros e contraH341
+- Jos_21:44ninguno de...sus e pudo hacerles frenteH341
+- Jos_21:44Jehová entregó en sus manos a...sus eH341
+- Jos_22:8compartid con...el botín de vuestros eH341
+- Jos_23:1diera reposo a Israel de todos sus eH341
+- Jue_2:14Jehová...los vendió en mano de sus eH341
+- Jue_2:14y no pudieron ya hacer frente a sus eH341
+- Jue_2:18Jehová...los libraba de mano de los eH341
+- Jue_3:28ha entregado a vuestros e los moabitasH341
+- Jue_5:31así perezcan todos tus e, oh Jehová; masH341
+- Jue_8:34que los había librado de todos sus e enH341
+- Jue_11:36que Jehová ha hecho venganza en tus eH341
+- Jue_16:23nuestro dios entregó...Sansón nuestro eH341
+- Jue_16:24nuestro dios entregó en...a nuestro eH341
+- 1Sa_2:1mi boca se ensanchó sobre mis e, porH341
+- 1Sa_4:3el arca...salve de la mano de nuestros eH341
+- 1Sa_11:10los de Jabes dijeron a los e: Mañana
+- 1Sa_12:10líbranos, pues...de mano de nuestros eH341
+- 1Sa_12:11y os libró de mano de vuestros e enH341
+- 1Sa_14:24antes que haya tomado venganza de mis eH341
+- 1Sa_14:30comido...hoy del botín tomado de sus e?[[H341]]
+- 1Sa_14:47hizo guerra a todos sus e en derredorH341
+- 1Sa_18:25para que sea tomada venganza de los eH341
+- 1Sa_18:29temor de David; y fue Saúl e de DavidH341
+- 1Sa_19:17por qué...y has dejado escapar a mi e?[[H341]]
+- 1Sa_20:15cuando Jehová haya cortado...e de DavidH341
+- 1Sa_20:16requiéralo Jehová...de los e de DavidH341
+- 1Sa_24:4he aquí que entrego a tu e en tu manoH341
+- 1Sa_24:19¿quién hallará a su e, y lo dejará irH341
+- 1Sa_25:22así haga Dios a los e de David y aunH341
+- 1Sa_25:26sean, pues, como Nabal tus e, y todosH341
+- 1Sa_25:29él arrojará la vida de tus e como deH341
+- 1Sa_26:8hoy ha entregado Dios a tu e en tu manoH341
+- 1Sa_28:16si Jehová se ha apartado...y es tu e?[[H6145]]
+- 1Sa_29:4sea que en la batalla se nos vuelva eH7854
+- 1Sa_29:8pelee contra los e de mi señor el rey?[[H341]]
+- 1Sa_30:26presente...del botín de los e de JehováH341
+- 2Sa_3:18libraré a mi pueblo...de todos sus eH341
+- 2Sa_4:8la cabeza de Is-boset hijo de Saúl tu eH341
+- 2Sa_5:20quebrantó Jehová a mis e delante de míH341
+- 2Sa_7:1le había dado reposo de todos sus e enH341
+- 2Sa_7:9he destruido a todos tus e, y te he dadoH341
+- 2Sa_7:11y a ti te daré descanso de todos tu eH341
+- 2Sa_8:10envió Toi a Joram...era e de Hadad-ezerH4421
+- 2Sa_12:14hiciste blasfemar a los e de JehováH341
+- 2Sa_18:19ha defendido su...de la mano de sus e?[[H341]]
+- 2Sa_18:32como aquel joven sean los e de mi señorH341
+- 2Sa_19:9rey nos ha librado de mano de nuestros eH341
+- 2Sa_22:1le había librado de...todos sus e, y deH341
+- 2Sa_22:4invocaré a Jehová...seré salvo de mis eH341
+- 2Sa_22:18me libró de poderoso e, y de los queH341
+- 2Sa_22:38perseguiré a mis e, y los destruiréH341
+- 2Sa_22:40has humillado a mis e debajo de míH6965
+- 2Sa_22:41hecho que mis e me vuelvan las espaldasH341
+- 2Sa_22:49el que me libra de e, y aun me exaltaH341
+- 2Sa_24:13¿o que huyas tres meses...de tus e y queH6862
+- 1Re_3:11ni pediste la vida de tus e, sino queH341
+- 1Re_5:3puso sus e bajo las plantas de sus pies
+- 1Re_8:33Israel fuere derrotado delante de sus eH341
+- 1Re_8:37si sus e los sitiaren en la tierra enH341
+- 1Re_8:44si tu pueblo saliere en...contra sus eH341
+- 1Re_8:46airado...y los entregares delante del eH341
+- 1Re_8:46para que los cautive y lleve a tierra eH341
+- 1Re_8:48se convirtien...en la tierra de sus eH341
+- 1Re_21:20dijo a Elías: ¿Me has hallado, e mío?[[H341]]
+- 2Re_17:39librará de mano de todos vuestros eH341
+- 2Re_21:14heredad...entregaré en manos de sus eH341
+- 1Cr_12:17mas si es para entregarme a mis eH341
+- 1Cr_14:11Dios rompió mis e por mi mano, como seH341
+- 1Cr_17:8cortado a todos tus e de delante de tiH341
+- 1Cr_17:10mas humillaré a todos tus e. Te hagoH341
+- 1Cr_21:12ser derrotado delante de tus e con laH341
+- 1Cr_22:9porque yo le daré paz de todos sus eH341
+- 2Cr_6:24si...fuere derrotado delante del eH341
+- 2Cr_6:28si los sitiaren sus e en la tierra enH341
+- 2Cr_6:34si tu pueblo saliere a la...contra sus eH341
+- 2Cr_6:36y los entregares delante de sus e, paraH341
+- 2Cr_6:36lleven cautivos a tierra de e, lejos o
+- 2Cr_20:27había dado gozo librándolos de sus eH341
+- 2Cr_20:29había peleado contra los e de IsraelH341
+- 2Cr_25:8así...Dios te hará caer delante de los eH341
+- 2Cr_25:20los quería entregar en mano de sus e
+- 2Cr_26:13fuertes, para ayudar al rey contra...eH341
+- Esd_4:1oyendo los e de Judá y de Benjamín queH6862
+- Esd_8:22que nos defendiesen del e en el caminoH341
+- Esd_8:31libró de mano del e y del asechador enH341
+- Neh_4:11y nuestros e dijeron: No sepan, niH6862
+- Neh_4:15oyeron nuestros e...lo habíamos entendidoH341
+- Neh_5:9no ser oprobio de las naciones e nuestrasH341
+- Neh_6:1oyeron Sanbalat...los demás de nuestros eH341
+- Neh_6:16cuando lo oyeron...nuestros e, temieronH341
+- Neh_9:27entonces los entregaste en mano de sus eH6862
+- Neh_9:27para que los salvasen de mano de sus eH341
+- Neh_9:28los abandonaste en mano de sus e que losH341
+- Est_3:10dio a Amán...agagueo, e de los judíosH6887
+- Est_7:6el e y adversario es este malvado AmánH341
+- Est_8:1a...Ester la casa de Amán e de los judíosH6887
+- Est_8:13preparados...día, para vengarse de sus eH341
+- Est_9:1el mismo día en que los e de los judíosH341
+- Est_9:5asolaron...todos sus e a filo de espadaH341
+- Est_9:5judíos...hicieron con sus e como quisieronH8130
+- Est_9:10diez hijos de Amán hijo...e de los judíosH6887
+- Est_9:16descansaron de sus e, y mataron de susH341
+- Est_9:22que los judíos tuvieron paz de sus eH341
+- Est_9:24Amán...e de...judíos, había ideado contraH6887
+- Job_13:24escondes tu...y me cuentas por tu e?[[H341]]
+- Job_16:9crujió...contra mí aguzó sus ojos mi eH6862
+- Job_19:11furor, y me contó para sí entre sus eH6862
+- Job_27:7como el impío mi e, y como el inicuoH341
+- Job_33:10buscó reproches...y me tiene por su eH341
+- Sal_3:7heriste a todos mis e en la mejillaH341
+- Sal_5:8guíame, Jehová, en tu...a causa de mis eH341
+- Sal_6:10se avergonzarán y se turbarán...mis eH341
+- Sal_7:4he libertado al que sin causa era mi eH6887
+- Sal_7:5si...persiga el e mi alma, y alcáncelaH341
+- Sal_8:2causa de tus e, para hacer callar al eH6887
+- Sal_9:3e volvieron atrás...perecieron delante deH341
+- Sal_9:6los e han perecido; han quedado desoladosH341
+- Sal_13:2¿hasta cuándo será enaltecido mi e sobreH341
+- Sal_13:4para que no diga mi e: Lo vencí. MisH341
+- Sal_13:4mis e se alegrarían, si yo resbalaraH6862
+- Sal_17:9me oprimen, de mis e que buscan mi vidaH341
+- Sal 18 tít.libró Jehová de mano de todos sus eH341
+- Sal_18:3invocaré a Jehová...seré salvo de mis eH341
+- Sal_18:17me libró de mi poderoso e, y de los queH341
+- Sal_18:37perseguí a mis e, y los alcancé, y noH341
+- Sal_18:39pues...has humillado a mis e debajo de míH6965
+- Sal_18:40hecho que mis e me vuelvan las espaldasH341
+- Sal_18:48que me libra de mis e, y aun me elevaH341
+- Sal_21:8alcanzará tu mano a todos tus e; tuH341
+- Sal_25:2en ti confío...no se alegren de mí mis eH341
+- Sal_25:19mira mis e, cómo se han multiplicadoH341
+- Sal_27:2los malignos, mis angustiadores y mis eH6862
+- Sal_27:6levantará mi cabeza sobre mis e que meH341
+- Sal_27:11guíame por senda de...a causa de mis eH8324
+- Sal_27:12no me entregues a la voluntad de mis eH6862
+- Sal_30:1no permitiste que mis e se alegraran deH341
+- Sal_31:8no me entregaste en mano del e; pusisteH341
+- Sal_31:11de todos mis e soy objeto de oprobioH6887
+- Sal_31:15líbrame de la mano de mis e y de misH341
+- Sal_35:19no se alegren de mí los que...son mis eH341
+- Sal_37:20y los e de Jehová como la grasa de losH341
+- Sal_38:19porque mis e están vivos y fuertes, yH341
+- Sal_41:2y no le entregarás a la voluntad de...eH341
+- Sal_41:5e dicen mal de mí, preguntando: ¿CuándoH341
+- Sal_41:11conoceré...que mi e no se huelgue de míH341
+- Sal_42:9andaré yo enlutado por la opresión...e?[[H341]]
+- Sal_42:10mis e me afrentan, diciéndome cada díaH6887
+- Sal_43:2andaré enlutado por la opresión del e?[[H341]]
+- Sal_44:5por medio de ti sacudiremos a nuestros eH6862
+- Sal_44:7pues tú nos has guardado de nuestros eH6862
+- Sal_44:10nos hiciste retroceder delante del eH6862
+- Sal_44:16por la voz del que...por razón del eH341
+- Sal_45:5penetrarán en el corazón de los e delH341
+- Sal_54:5él devolverá el mal a mis e; córtalosH8324
+- Sal_54:7mis ojos han visto la ruina de mis eH341
+- Sal_55:3causa de la voz del e, por la opresiónH341
+- Sal_55:12no me afrentó un e, lo cual...soportadoH341
+- Sal_56:2todo el día mis e me pisotean; porqueH8324
+- Sal_56:9serán...vueltos atrás mis e, el día enH341
+- Sal_59:1líbrame de mis e, oh Dios mío; ponme aH341
+- Sal_59:9a causa del poder del e esperaré en ti
+- Sal_59:10Dios hará que vea en mis e mi deseoH8324
+- Sal_60:11danos socorro contra el e, porque vanaH6862
+- Sal_60:12en Dios haremos...hollará a nuestros eH6862
+- Sal_61:3tú has sido...torre fuerte delante del eH341
+- Sal_64:1oh Dios...guarda mi vida del temor del eH341
+- Sal_66:3por...tu poder se someterán a ti tus eH341
+- Sal_68:1levántese Dios, sean esparcidos sus eH341
+- Sal_68:21herirá la cabeza de sus e, la testaH341
+- Sal_68:23pie se enrojecerá de sangre de tus eH341
+- Sal_69:4se han hecho poderosos mis e, los queH341
+- Sal_69:18acércate a...líbrame a causa de mis eH341
+- Sal_71:10mis e hablan de mí, y los que acechanH341
+- Sal_72:9se postrarán...y sus e lamerán el polvoH341
+- Sal_74:3mal que el e ha hecho en el santuarioH341
+- Sal_74:4e vociferan en medio de tus asambleasH6887
+- Sal_74:10Dios...¿ha de blasfemar el e...tu nombre?[[H341]]
+- Sal_74:18el e ha afrentado a Jehová, y puebloH341
+- Sal_74:23no olvides las...de tus e; el alborotoH6887
+- Sal_78:53los guío con...y el mar cubrió a sus eH341
+- Sal_78:61entregó a...y su gloria en mano del eH6862
+- Sal_78:66e hirió a sus e por detrás; les dioH6862
+- Sal_80:6nuestros vecinos, y nuestros e se burlanH341
+- Sal_81:14habría yo derribado a sus e, y vueltoH341
+- Sal_83:2porque he aquí que rugen tus e, y losH341
+- Sal_89:10tu brazo poderoso esparciste a tus eH341
+- Sal_89:22no lo sorprenderá el e, ni hijo deH341
+- Sal_89:23que quebrantaré delante de él a sus eH6862
+- Sal_89:42has exaltado la diestra de sus e; hasH341
+- Sal_89:51tus e, oh Jehová...tus e han deshonradoH341
+- Sal_92:9porque he aquí tus e, oh Jehová, porqueH341
+- Sal_92:9aquí perecerán tus e; serán esparcidosH341
+- Sal_92:11mirarán mis ojos sobre mis e; oirán misH7790
+- Sal_97:3fuego irá...abrasará a sus e alrededorH6862
+- Sal_102:8cada día me afrentan mis e...se enfurecenH341
+- Sal_105:24pueblo...lo hizo más fuerte que sus eH6862
+- Sal_106:10los salvó de mano del e, y los rescatóH341
+- Sal_106:11cubrieron...aguas a sus e; no quedó niH6862
+- Sal_106:42e los oprimieron...fueron quebrantadosH341
+- Sal_107:2los que ha redimido del poder del eH6862
+- Sal_108:13haremos proezas...hollará a nuestros eH6862
+- Sal_110:1ponga a tus e por estrado de tus piesH341
+- Sal_110:2de tu poder; domina en medio de tus eH341
+- Sal_112:8no temerá, hasta que vea en sus e suH6862
+- Sal_119:98me has hecho más sabio que mis e conH341
+- Sal_119:139mis e se olvidaron de tus palabrasH6862
+- Sal_119:157muchos son mis perseguidores y mis eH6862
+- Sal_127:5cuando hablare con los e en la puertaH341
+- Sal_132:18sus e vestiré de confusión, mas sobreH341
+- Sal_136:24nos rescató de nuestros e, porque paraH6862
+- Sal_138:7contra la ira de mis e extenderás tuH341
+- Sal_139:20porque...tus e toman en vano tu nombreH6145
+- Sal_139:21¿no odio...me enardezco contra tus e?[[H8618]]
+- Sal_139:22los aborrezco por...los tengo por eH341
+- Sal_143:3ha perseguido el e mi alma; ha postradoH341
+- Sal_143:9líbrame de mis e, oh Jehová; en ti meH341
+- Sal_143:12disiparás a mis e, y destruirás a todosH341
+- Pro_16:7aun a sus e hace estar en paz con élH341
+- Pro_24:17cuando cayere tu e, no te regocijesH341
+- Isa_1:24ea, tomaré satisfacción de mis e, meH341
+- Isa_9:11levantará los e de...y juntará a sus eH341
+- Isa_11:13Efraín, y los e de Judá serán destruidosH6887
+- Isa_17:14antes de la mañana el e ya no existe
+- Isa_26:11envidian...a tus e fuego los consumiráH6862
+- Isa_29:5la muchedumbre de tus e será como polvoH2114
+- Isa_42:13celo; voceará, se esforzará sobre sus eH341
+- Isa_59:18para retribuir con ira a sus e, y darH341
+- Isa_59:19vendrá el e como río, mas el EspírituH6862
+- Isa_62:8jamás daré tu trigo por comida a tus eH341
+- Isa_63:10por lo cual se les volvió e, y él mismoH341
+- Isa_63:18nuestros e han hollado tu santuarioH6862
+- Isa_64:2hicieras notorio tu nombre a tus e, yH6862
+- Isa_66:6voz de Jehová que da el pago a sus eH341
+- Isa_66:14conocido, y se enojará contra sus eH341
+- Jer_6:25porque espada de e y temor hay porH341
+- Jer_12:7he entregado lo que...en mano de sus eH341
+- Jer_15:9entregaré a la espada delante de sus eH341
+- Jer_15:11no he suplicado ante ti en favor del eH341
+- Jer_15:14te haré servir a tus e en tierra que noH341
+- Jer_15:15véngame de mis e. No me reproches enH7291
+- Jer_17:4te haré servir a tus e en tierra que noH341
+- Jer_18:17como viento...los esparciré delante del eH341
+- Jer_19:7les haré caer a espada delante de sus eH341
+- Jer_19:9los estrecharán sus e y los que buscanH341
+- Jer_20:4caerán por la espada de sus e, y tus ojosH341
+- Jer_20:5todos los tesoros de...en manos de sus eH341
+- Jer_21:7entregaré a...en mano de sus e y de losH341
+- Jer_30:14como hiere un e te herí, con azote deH341
+- Jer_31:16salario...y volverán de la tierra del eH341
+- Jer_34:20-21los entregaré en mano de sus e y enH341
+- Jer_44:30yo entrego a Faraón...en mano de sus eH341
+- Jer_44:30de Babilonia, su e que buscaba su vidaH341
+- Jer_46:10ese día será...para vengarse de sus eH6862
+- Jer_46:22vendrán los e, y con hachas vendrán eH2428
+- Jer_48:5bajada...los e oyeron clamor de quebrantoH6862
+- Jer_49:37que Elam se intimide delante de sus eH341
+- Jer_50:7decían sus e: No pecaremos, porque ellosH6862
+- Lam_1:2amigos le faltaron, se le volvieron eH341
+- Lam_1:5sus e han sido hechos príncipes, susH341
+- Lam_1:5sus hijos...en cautividad delante del eH6862
+- Lam_1:7cayó su pueblo en mano del e y no huboH6862
+- Lam_1:7miraron los e, y se burlaron de su caídaH6862
+- Lam_1:9aflicción, porque el e se ha engrandecidoH341
+- Lam_1:10su mano el e a todas sus cosas preciosasH6862
+- Lam_1:16son destruidos, porque el e prevalecióH341
+- Lam_1:17mandamiento...sus vecinos fuesen sus eH6862
+- Lam_1:21mis e han oído mi mal, se alegran de loH341
+- Lam_2:3retiró de él su diestra frente al e, y seH341
+- Lam_2:4entesó su arco como e, afirmó su manoH341
+- Lam_2:5el Señor llegó a ser como e, destruyó aH341
+- Lam_2:7ha entregado en mano del e los muros deH341
+- Lam_2:16todos tus e abrieron contra ti su bocaH341
+- Lam_2:17y ha hecho que el e se alegre sobre tiH341
+- Lam_2:22los que crie y mantuve, mi e los acabóH341
+- Lam_3:46nuestros e abrieron...nosotros su bocaH341
+- Lam_3:52e me dieron caza como a ave, sin haberH341
+- Lam_4:12que el e y el adversario entrara por lasH341
+- Eze_36:2por cuanto el e dijo de vosotros: ¡Ea![[H341]]
+- Eze_39:23yo...los entregué en manos de sus e, yH6862
+- Eze_39:27los reúna de la tierra de sus e, y seaH341
+- Dan_4:19señor mío, el sueño sea para tus eH8131
+- Dan_11:22las fuerzas e serán barridas delante
+- Ose_8:3Israel desechó el bien; e lo perseguiráH341
+- Amó_3:11e vendrá por todos lados de la tierraH6862
+- Amó_6:8y entregaré al e la ciudad y cuanto hay
+- Amó_9:4fueren en cautiverio delante de sus eH341
+- Miq_2:8era mi pueblo, se ha levantado como eH341
+- Miq_4:10te redimirá Jehová de la mano de tus eH341
+- Miq_5:9tu mano se alzará sobre tus e, y todosH341
+- Miq_7:6y los e del hombre son los de su casaH341
+- Miq_7:8tú, e mía, no te alegres de mí, porqueH341
+- Miq_7:10y mi e lo verá, y la cubrirá vergüenzaH341
+- Nah_1:2Jehová es...y guarda enojo para sus eH341
+- Nah_1:8mas con...tinieblas perseguirán a sus eH341
+- Nah_1:9no tomará venganza dos veces de sus e
+- Nah_3:11también buscarás refugio a causa del eH341
+- Nah_3:13las puertas de tu tierra se abrirán...eH341
+- Sof_3:15ha echado fuera tus e; Jehová es ReyH341
+- Zac_8:10ni hubo paz para el...a causa del eH6862
+- Zac_10:5huellan al e en el lodo de las callesH341
+- Mat_5:43amarás a tu prójimo, y aborrecerás...eG2190
+- Mat_5:44yo os digo: Amad a vuestros e, bendecidG2190
+- Mat_10:36los e del hombre serán los de su casaG2190
+- Mat_13:25mientras dormían...vino su e y sembróG2190
+- Mat_13:28él les dijo: Un e ha hecho esto. Y losG2190
+- Mat_13:39el e que la sembró es el diablo; laG2190
+- Mat_22:44; Mar_12:36ponga a tus e por estradoG2190
+- Luc_1:71salvación de nuestros e, y de la manoG2190
+- Luc_1:74que librados de nuestros e, sin temor leG2190
+- Luc_6:27amad a vuestros e, haced bien a los queG2190
+- Luc_6:35amad, pues, a vuestros e, y haced bienG2190
+- Luc_10:19doy potestad: Sobre toda fuerza del eG2190
+- Luc_19:27a aquellos mis e que no querían que yoG2190
+- Luc_19:43cuando tus e te rodearán con vallado, yG2190
+- Luc_20:43; Hec_2:35ponga a tus e por estradoG2190
+- Hec_13:10hijo del diablo, e de toda justicia![[G2190]]
+- Rom_5:10siendo e, fuimos reconciliados conG2190
+- Rom_11:28así que en cuanto al evangelio, son eG2190
+- Rom_12:20si tu e tuviere hambre, dale de comerG2190
+- 1Co_15:25haya puesto a todos sus e debajo deG2190
+- 1Co_15:26el postrer e...destruido es la muerteG2190
+- Gál_4:16me he hecho...e, por deciros la verdadG2190
+- Flp_3:18digo...que son e de la cruz de CristoG2190
+- Col_1:21erais...extraños y e en vuestra menteG2190
+- 2Ts_3:15mas no lo tengáis por e...amonestadleG2190
+- Heb_1:13ponga a tus e por estrado de tus pies?[[G2190]]
+- Heb_10:13que sus e sean puestos por estrado deG2190
+- Stg_4:4quiera ser amigo del mundo...e de DiosG2190
+- Rev_11:5sale fuego de la boca...devora a sus eG2190
+- Rev_11:12subieron al cielo...y sus e los vieronG2190

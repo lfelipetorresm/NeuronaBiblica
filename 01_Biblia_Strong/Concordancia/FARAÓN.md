@@ -1,0 +1,282 @@
+---
+tipo: concordancia
+palabra: FARAÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FARAÓN
+
+- 1 Rey de Egipto en tiempo de Abram
+- Gén_12:15también la vieron los príncipes de FH6547
+- Gén_12:15él; y fue llevada la mujer a casa de FH6547
+- Gén_12:17mas Jehová hirió a F y a su casa conH6547
+- Gén_12:18entonces F llamó a Abram, y le dijoH6547
+- Gén_12:20F dio orden a...gente acerca de AbramH6547
+- 2 Rey de Egipto en tiempo de José
+- Gén_37:36a Potifar, oficial de F, capitán deH6547
+- Gén_39:1Potifar oficial de F...lo compró de losH6547
+- Gén_40:2y se enojó F contra sus dos oficialesH6547
+- Gén_40:7él preguntó a aquellos oficiales de FH6547
+- Gén_40:11y que la copa de F estaba en mi manoH6547
+- Gén_40:11en la copa de F...la copa en mano de FH6547
+- Gén_40:13tres días levantará F tu cabeza, y teH6547
+- Gén_40:13y darás la copa a F en su mano, comoH6547
+- Gén_40:14hagas mención de mí a F, y me saquesH6547
+- Gén_40:17de toda clase de manjares de...para FH6547
+- Gén_40:19quitará F tu cabeza de sobre ti, y teH6547
+- Gén_40:20día, que era el día del cumpleaños de FH6547
+- Gén_40:21al jefe...dio éste la copa en mano de FH6547
+- Gén_41:1que pasados dos años tuvo F un sueñoH6547
+- Gén_41:4las vacas...devoraban a las...Y despertó FH6547
+- Gén_41:7y despertó F, y he aquí que era sueñoH6547
+- Gén_41:8contó F sus sueños, mas no había quienH6547
+- Gén_41:8había quien los pudiese interpretar a FH6547
+- Gén_41:9jefe de los coperos habló a F, diciendoH6547
+- Gén_41:10cuando F se enojó contra sus siervosH6547
+- Gén_41:14F envió y llamó a José. Y lo sacaronH6547
+- Gén_41:14José...mudó sus vestidos, y vino a FH6547
+- Gén_41:15y dijo F...Yo he tenido un sueño, y noH6547
+- Gén_41:16respondió...a F, diciendo: No está enH6547
+- Gén_41:16será el que dé respuesta propicia a FH6547
+- Gén_41:17entonces F dijo a José: En mi sueño meH6547
+- Gén_41:25respondió José a F: El sueño de F esH6547
+- Gén_41:25Dios ha mostrado a F lo que va a hacerH6547
+- Gén_41:28esto es lo que respondo a F. Lo queH6547
+- Gén_41:28Dios va a hacer, lo ha mostrado a FH6547
+- Gén_41:32y el suceder el sueño a F dos vecesH6547
+- Gén_41:33provéase ahora F de un varón prudenteH6547
+- Gén_41:34haga esto F, y ponga gobernadores sobreH6547
+- Gén_41:35recojan el trigo bajo la mano de F paraH6547
+- Gén_41:37asunto pareció bien a F y a sus siervosH6547
+- Gén_41:38F a sus siervos: ¿Acaso hallaremos aH6547
+- Gén_41:39y dijo F a José: Pues que Dios te haH6547
+- Gén_41:41dijo además F a José: He aquí yo te heH6547
+- Gén_41:42F quitó su anillo de su mano, y lo pusoH6547
+- Gén_41:44y dijo F a José: Yo soy F; y sin tiH6547
+- Gén_41:45llamó F...José, Zafnat-panea; y le dioH6547
+- Gén_41:46años cuando fue presentado delante de FH6547
+- Gén_41:46salió José de delante de F, y recorrióH6547
+- Gén_41:55pueblo clamó a F. Y dijo F...id a JoséH6547
+- Gén_42:15vive F, que no saldréis de aquí sinoH6547
+- Gén_42:16si...y si no, vive F, que sois espíasH6547
+- Gén_44:18no se encienda tu...pues tú eres como FH6547
+- Gén_45:2los egipcios, y oyó también la casa de FH6547
+- Gén_45:8que me ha puesto por padre de F y porH6547
+- Gén_45:16y se oyó la noticia en la casa de FH6547
+- Gén_45:16esto agradó en los ojos de F y de susH6547
+- Gén_45:17y dijo F a José: Di a tus hermanosH6547
+- Gén_45:21dio...carros conforme a la orden de FH6547
+- Gén_46:5en los carros que F había enviado paraH6547
+- Gén_46:31y lo haré saber a F, y le diré: MisH6547
+- Gén_46:33cuando F os llamare y dijere: ¿Cuál esH6547
+- Gén_47:1y lo hizo saber a F, y dijo: Mi padreH6547
+- Gén_47:2tomó cinco...y los presentó delante de FH6547
+- Gén_47:3F dijo a sus hermanos: ¿Cuál es...oficio?[[H6547]]
+- Gén_47:3respondieron a F: Pastores de ovejasH6547
+- Gén_47:4dijeron además a F: Para morar en estaH6547
+- Gén_47:5F habló a José, diciendo: Tu padre y tusH6547
+- Gén_47:7lo presentó delante de F...bendijo a FH6547
+- Gén_47:8dijo F a Jacob: ¿Cuántos son los días deH6547
+- Gén_47:9y Jacob respondió a F: Los días de losH6547
+- Gén_47:10Jacob bendijo a F...la presencia de FH6547
+- Gén_47:11en la tierra de Ramesés, como mandó FH6547
+- Gén_47:14y metió José el dinero en casa de YH6547
+- Gén_47:19cómpranos a...y seremos...siervos de FH6547
+- Gén_47:20compró José...tierra de Egipto para FH6547
+- Gén_47:20compró José...la tierra vino a ser de FH6547
+- Gén_47:22los sacerdotes tenían ración de F, yH6547
+- Gén_47:22ellos comían la ración que F les dabaH6547
+- Gén_47:23os he comprado hoy...para F; ved aquíH6547
+- Gén_47:24de los frutos daréis el quinto a F, yH6547
+- Gén_47:25nuestro señor, y seamos siervos de FH6547
+- Gén_47:26señalando para F el quinto, exceptoH6547
+- Gén_47:26sólo la tierra de los...que no fue de FH6547
+- Gén_50:4luto, habló José a los de la casa de FH6547
+- Gén_50:4que habléis en oídos de F, diciendoH6547
+- Gén_50:6F dijo: Vé, y sepulta a tu padre, comoH6547
+- Gén_50:7subieron con él todos los siervos de FH6547
+- Hec_7:10le dio gracia...delante de F rey deG5328
+- Hec_7:13fue manifestado a F el linaje de JoséG5328
+- 3 Rey de Egipto en tiempo de la infancia de Moisés
+- Éxo_1:11y edificaron para F las ciudades deG6547
+- Éxo_1:19las parteras respondieron a F: PorqueG6547
+- Éxo_1:22F mandó a...su pueblo, diciendo: Echad alG6547
+- Éxo_2:5la hija de F descendió a lavarse al ríoG6547
+- Éxo_2:7entonces su hermana dijo a la hija de FG6547
+- Éxo_2:8y la hija de F respondió: Vé. EntoncesG6547
+- Éxo_2:9dijo la hija de F: Lleva a este niño yG6547
+- Éxo_2:10ella lo trajo a la hija de F, la cual loG6547
+- Hec_7:21hija de F le recogió y le crió comoG5328
+- Heb_11:24rehusó llamarse hijo de la hija de FG5328
+- 4 Rey de Egipto cuando Moisés era hombre
+- Éxo_2:15oyendo F...pero Moisés huyó de...de FG6547
+- 5 Rey de Egipto cuando Moisés regresó de Madián
+- Éxo_3:10por tanto, ahora, y te enviaré a FG6547
+- Éxo_3:11soy yo para que vaya a F, y saque deG6547
+- Éxo_4:21delante de F todas las maravillas queG6547
+- Éxo_4:22a F: Jehová ha dicho así: Israel es miG6547
+- Éxo_5:1Moisés y...entraron a la presencia de FG6547
+- Éxo_5:2F respondió: ¿Quién es Jehová, para queG6547
+- Éxo_5:5dijo también F: He aquí el pueblo de laG6547
+- Éxo_5:6mandó F...a los cuadrilleros del puebloG6547
+- Éxo_5:10diciendo...ha dicho F: Yo no os doy pajaG6547
+- Éxo_5:14que los cuadrilleros de F habían puestoG6547
+- Éxo_5:15y los capataces de...Israel vinieron a FG6547
+- Éxo_5:20ellos cuando salían de la presencia de FG6547
+- Éxo_5:21habéis hecho abominables delante de FG6547
+- Éxo_5:23desde que yo vine a F para hablarle enG6547
+- Éxo_6:1ahora verás lo que yo haré a F; porqueG6547
+- Éxo_6:11habla a F rey de Egipto, que deje ir deG6547
+- Éxo_6:12¿cómo...escuchará F, siendo yo torpe deG6547
+- Éxo_6:13dio mandamiento...para F rey de EgiptoG6547
+- Éxo_6:27éstos son los que hablaron a F rey deG6547
+- Éxo_6:29di a F rey de Egipto todas las cosasG6547
+- Éxo_6:30soy torpe...¿cómo, pues, me ha de oír F?[[G6547]]
+- Éxo_7:1mira, yo te he constituido dios para FG6547
+- Éxo_7:2Aarón tu hermano hablará a F, Para queG6547
+- Éxo_7:3endureceré el corazón de F, y...señalesG6547
+- Éxo_7:4F no os oirá; mas yo pondré mi mano sobreG6547
+- Éxo_7:7Aarón de edad de 83, cuando hablaron a FG6547
+- Éxo_7:9si F os respondiere diciendo: MostradG6547
+- Éxo_7:9y échala delante de F, para que se hagaG6547
+- Éxo_7:10vinieron, pues, Moisés y Aarón a F, eG6547
+- Éxo_7:10y echó Aarón su vara delante de F y deG6547
+- Éxo_7:11llamó también F sabios y hechicerosG6547
+- Éxo_7:13, Éxo_7:22el corazón de F se endureció, y noG6547
+- Éxo_7:14el corazón de F está endurecido, y noG6547
+- Éxo_7:15vé por la mañana a F, he aquí que élG6547
+- Éxo_7:20golpeó las aguas...en presencia de F yG6547
+- Éxo_7:23F se volvió y fue a su casa, y no dioG6547
+- Éxo_8:1dijo a...Entra a la presencia de F y dileG6547
+- Éxo_8:8entonces F llamó a Moisés y Aarón, y lesG6547
+- Éxo_8:9dijo Moisés a F: Dígnate indicarme cuándoG6547
+- Éxo_8:12salieron Moisés...de la presencia de FG6547
+- Éxo_8:12clamó...las ranas que había mandado a FG6547
+- Éxo_8:15pero viendo F que le habían dado reposoG6547
+- Éxo_8:19los hechiceros dijeron a F: Dedo de DiosG6547
+- Éxo_8:19mas el corazón de F se endureció, y noG6547
+- Éxo_8:20levántate de mañana y...delante de F; heG6547
+- Éxo_8:24moscas molestísimas sobre la casa de FG6547
+- Éxo_8:25entonces F llamó a Moisés y a Aarón, yG6547
+- Éxo_8:28F: Yo os dejaré ir para que ofrezcáisG6547
+- Éxo_8:29diversas clases de moscas se vayan de FG6547
+- Éxo_8:29con tal que F no falte más, no dejandoG6547
+- Éxo_8:30Moisés salió de la presencia de F, y oróG6547
+- Éxo_8:31y quitó todas aquellas moscas de F, deG6547
+- Éxo_8:32mas F endureció aun esta vez su corazónG6547
+- Éxo_9:1dijo a Moisés: Entra a la presencia de FG6547
+- Éxo_9:7F envió, y he aquí que del ganado de losG6547
+- Éxo_9:7el corazón de F se endureció, y no dejóG6547
+- Éxo_9:8la esparcirá Moisés hacia...delante de FG6547
+- Éxo_9:10se pusieron delante de F, y la esparcióG6547
+- Éxo_9:12pero Jehová endureció el corazón de FG6547
+- Éxo_9:13levántate...y ponte delante de F, y dileG6547
+- Éxo_9:20de los siervos de F, el que tuvo temorG6547
+- Éxo_9:27F envió a llamar a Moisés y a Aarón, yG6547
+- Éxo_9:33salido Moisés de la presencia de F, fueraG6547
+- Éxo_9:34y viendo F que la lluvia había cesadoG6547
+- Éxo_9:35el corazón de F se endureció, y no dejóG6547
+- Éxo_10:1entra a la presencia de F; porque yo heG6547
+- Éxo_10:3vinieron Moisés y Aarón a F, y le dijeronG6547
+- Éxo_10:6y se volvió y salió de delante de FG6547
+- Éxo_10:7siervos de F le dijeron: ¿Hasta cuándoG6547
+- Éxo_10:8y Aarón volvieron a ser llamados ante FG6547
+- Éxo_10:11no...y los echaron de la presencia de FG6547
+- Éxo_10:16F se apresuró a llamar a Moisés y aG6547
+- Éxo_10:18salió Moisés de delante de F, y oró aG6547
+- Éxo_10:20, Éxo_10:27Jehová endureció el corazón de FG6547
+- Éxo_10:24entonces F hizo llamar a Moisés, y dijoG6547
+- Éxo_10:28dijo F: Retírate de mí; guárdate que noG6547
+- Éxo_11:1una plaga traeré aún sobre F y sobreG6547
+- Éxo_11:3a los ojos de los siervos de F, y a losG6547
+- Éxo_11:5morirá...desde el primogénito de F queG6547
+- Éxo_11:8salió muy enojado de la presencia de FG6547
+- Éxo_11:9F no os oirá, para que mis maravillasG6547
+- Éxo_11:10hicieron...estos prodigios delante de FG6547
+- Éxo_11:10Jehová había endurecido el corazón de FG6547
+- Éxo_12:29primogénito de F que se sentaba sobreG6547
+- Éxo_12:30se levantó aquella noche F, él y todosG6547
+- Éxo_13:15endureciéndose F para no dejarnos irG6547
+- Éxo_13:17y luego que F dejó ir al pueblo, DiosG6547
+- Éxo_14:3F dirá...Encerrados están en la tierraG6547
+- Éxo_14:4yo endureceré el corazón de F para queG6547
+- Éxo_14:4seré glorificado en F y en...su ejércitoG6547
+- Éxo_14:5corazón de F y de sus siervos se volvióG6547
+- Éxo_14:8endureció Jehová el corazón de F rey deG6547
+- Éxo_14:9con toda la caballería y carros de F, suG6547
+- Éxo_14:10cuando F se hubo acercado, los hijos deG6547
+- Éxo_14:17me glorificaré en F y en...su ejércitoG6547
+- Éxo_14:18sabrán...cuando me glorifique en F, enG6547
+- Éxo_14:23toda la caballería de F, sus carros yG6547
+- Éxo_14:28cubrieron...el ejército de F que habíaG6547
+- Éxo_15:4echó en el mar los carros de F y suG6547
+- Éxo_15:19F entró cabalgando con sus carros y suG6547
+- Éxo_18:4el Dios de...me libró de la espada de FG6547
+- Éxo_18:8Moisés contó a...Jehová había hecho a FG6547
+- Éxo_18:10Jehová, que os libró...de la mano de FG6547
+- Deu_6:21siervos de F en Egipto, y Jehová nosH6547
+- Deu_6:22Jehová hizo señales y...sobre F y sobreH6547
+- Deu_7:8os ha rescatado...de la mano de F rey deH6547
+- Deu_7:18de lo que hizo Jehová tu Dios con F yH6547
+- Deu_11:3sus obras que hizo...a F rey de EgiptoH6547
+- Deu_29:2ha hecho...a F y a todos sus siervos, y aH6547
+- Deu_34:11prodigios...a F y a todos sus siervosH6547
+- 1Sa_2:27cuando estaban en Egipto...casa de F?[[H6547]]
+- 1Sa_6:6los egipcios y F endurecieron su corazón?[[H6547]]
+- 2Re_17:7los sacó...de bajo la mano de F reyH6547
+- Neh_9:10señales y maravillas contra F, contraH6547
+- Sal_135:9señales y...contra F, y contra todosH6547
+- Sal_136:15y arrojó a F y a su...en el Mar RojoH6547
+- Rom_9:17la Escritura dice a F: Para esto mismoG5328
+- 6 Rey de Egipto en tiempo de Salomón
+- 1Re_3:1parentezco con F...tomó la hija de FH6547
+- 1Re_7:8edificó...Salomón para la hija de F, queH6547
+- 1Re_9:16F el rey...había subido y tomado a GezerH6547
+- 1Re_9:24y subió la hija de F de...a su casa queH6547
+- 1Re_11:1Salomón amó, además de la hija de F, aH6547
+- 1Re_11:18vinieron...a F rey de Egipto, el cualH6547
+- 1Re_11:19y halló Hadad gran favor delante de FH6547
+- 1Re_11:20al cual destetó Tahpenes en casa de FH6547
+- 1Re_11:20en casa de F entre los hijos de FH6547
+- 1Re_11:21Hadad dijo a F: Déjame ir a mi tierraH6547
+- 1Re_11:22F le respondió: ¿Por qué? ¿Qué te faltaH6547
+- 2Cr_8:11pasó...a la hija de F, de la ciudadH6547
+- Cnt_1:9a yegua de los...de F te he comparadoH6547
+- 7 Rey de Egipto en tiempo de Ezequías
+- 2Re_18:21tal es F rey de Egipto para todosH6547
+- Isa_19:11el consejo de los...consejeros de FH6547
+- Isa_19:11¿cómo diréis a F: Yo soy hijo de losH6547
+- Isa_30:2para fortalecerse con la fuerza de FH6547
+- Isa_30:3pero la fuerza de F se os cambiará enH6547
+- Isa_36:6tal es F rey de Egipto para con todosH6547
+- 8 Faraón Necao, rey de Egipto en tiempo de Josías
+- 2Re_23:29F Necao rey de Egipto subió contraH6549
+- 2Re_23:33lo puso preso F Necao en Ribla en laH6549
+- 2Re_23:34F Necao puso por rey a Eliaquim hijo deH6549
+- 2Re_23:35Joacim pagó a F la plata y el oro; masH6547
+- 2Re_23:35el dinero conforme al mandamiento de FH6547
+- 2Re_23:35sacando la plata...del pueblo...darlo a FH6549
+- Jer_25:19a F rey de Egipto, a sus siervos, aH6547
+- Jer_37:5el ejército de F había salido de EgiptoH6547
+- Jer_37:7que el ejército de F que había salido enH6547
+- Jer_37:11se retiró...a causa del ejército de FH6547
+- Jer_43:9a la puerta de la casa de F en TafnesH6547
+- Jer_46:2contra el ejército de F Necao rey deH6549
+- Jer_46:17gritaron: F rey de Egipto es destruidoH6547
+- Jer_46:25yo castigo...a F...así a F como a los queH6547
+- Jer_47:1los filisteos, antes que F destruyese aH6547
+- Eze_17:17ni con mucha compañía hará F nada porH6547
+- Eze_29:2pon tu rostro contra F rey de EgiptoH6547
+- Eze_29:3yo estoy contra ti, F rey de Egipto, elH6547
+- Eze_30:21he quebrado el brazo de F rey de EgiptoH6547
+- Eze_30:22contra F rey de Egipto, y quebraré susH6547
+- Eze_30:24mas quebraré los brazos de F...gemiráH6547
+- Eze_30:25los brazos de F caerán; y sabrán queH6547
+- Eze_31:2dí a F rey de Egipto, y a su pueblo: ¿AH6547
+- Eze_31:18este es F y todo su pueblo, dice JehováH6547
+- Eze_32:2levanta endechas sobre F rey de EgiptoH6547
+- Eze_32:31a éstos verá F...F muerto a espada, yH6547
+- Eze_32:32F y toda su multitud yacerán entre losH6547
+- 9 Padre de Bitia, mujer de Mered, 1Cr_4:18H6547
+- 10 Faraón Hofra, rey de Egipto derrotado por Nabucodonosor, Jer_44:30H6548

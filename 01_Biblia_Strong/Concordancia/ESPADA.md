@@ -1,0 +1,427 @@
+---
+tipo: concordancia
+palabra: ESPADA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESPADA
+
+- Gén_3:24puso...querubines, y una e encendidaH2719
+- Gén_27:40tu e vivirás, y a tu hermano servirásH2719
+- Gén_34:25Simeón y Leví...tomaron cada uno su eH2719
+- Gén_34:26a Hamor y a...los mataron a filo de eH2719
+- Gén_48:22la cual tomé...mi e y con mi arcoH2719
+- Éxo_5:3no venga sobre nosotros con peste...eH2719
+- Éxo_5:21poniéndoles la e en la mano para que nosH2719
+- Éxo_15:9dijo...sacaré mi e, los destruirá mi manoH2719
+- Éxo_17:13Josué deshizo a Amalec y...a filo de eH2719
+- Éxo_18:4el Dios de...me libró de la e de FaraónH2719
+- Éxo_22:24mi furor se encenderá, y os mataré a eH2719
+- Éxo_32:27poned cada uno su e sobre su musloH2719
+- Lev_26:6paz...la e no pasará por vuestro paísH2719
+- Lev_26:7vuestros enemigos, y caerán a e delanteH2719
+- Lev_26:8caerán a filo de e delante de vosotrosH2719
+- Lev_26:25traeré sobre vosotros e vengadora, enH2719
+- Lev_26:33y desenvainaré e en pos de vosotrosH2719
+- Lev_26:36huirán como ante la e, y caerán sin queH2719
+- Lev_26:37como si huyeran ante la e, aunque nadieH2719
+- Núm_14:3por qué nos trae...para caer a e, y queH2719
+- Núm_14:43caeréis a e...cuanto os habéis negado aH2719
+- Núm_19:16que tocare algún muerto a e sobre laH2719
+- Núm_21:24y lo hirió Israel a filo de e, y tomóH2719
+- Núm_22:23el asna vio al ángel...con su e desnudaH2719
+- Núm_22:29¡ojalá tuviera e en...ahora te mataría![[H2719]]
+- Núm_22:31vio al ángel...su e desnuda en su manoH2719
+- Núm_31:8también a Balaam...de Beor mataron a eH2719
+- Deu_13:15herirás a filo de e a los moradoresH2719
+- Deu_13:15y también matarás sus ganados a...de eH2719
+- Deu_20:13herirás a todo varón suyo a filo de eH2719
+- Deu_32:25por fuera desolará la e, y dentro deH2719
+- Deu_32:41afilare mi reluciente e, y echare manoH2719
+- Deu_32:42mi e devorará carne; en la sangre de losH2719
+- Deu_33:29Jehová, escudo de tu socorro, y e de tuH2719
+- Jos_5:13un varón...tenía una e desenvainada enH2719
+- Jos_6:21destruyeron a filo de e todo lo que enH2719
+- Jos_8:24todos habían caído a filo de e hasta serH2719
+- Jos_8:24a Hai...también la hirieron a filo de eH2719
+- Jos_10:11más...que los hijos de Israel mataron a eH2719
+- Jos_10:28la hirió a filo de e, y mató a su reyH2719
+- Jos_10:30, Jos_10:32la hirió a filo de e, con todo loH2719
+- Jos_10:35la tomaron...y la hirieron a filo de eH2719
+- Jos_10:37la hirieron a filo de e, a su rey y aH2719
+- Jos_10:39ciudades; y las hirieron a filo de eH2719
+- Jos_11:10tomó en...a Hazor, y mató a e a su reyH2719
+- Jos_11:11mataron a e todo cuanto en ella teníaH2719
+- Jos_11:12los hirió a filo de e, y los destruyóH2719
+- Jos_11:14los hombres hirieron a filo de e hastaH2719
+- Jos_13:22mataron a e...Balaam el adivino, hijo deH2719
+- Jos_19:47a Lesem, y...la hirieron a filo de eH2719
+- Jos_24:12tábanos...no con tu e, ni con tu arcoH2719
+- Jue_1:8pasaron a sus habitantes a filo de eH2719
+- Jue_1:25la hirieron a filo de e; pero dejaron irH2719
+- Jue_4:15quebrantó a...su ejército, a filo de eH2719
+- Jue_4:16el ejército de Sísara cayó a filo de eH2719
+- Jue_7:14no es otra cosa sino la e de Gedeón hijoH2719
+- Jue_7:20y gritaron: ¡Por la e de Jehová y deH2719
+- Jue_7:22Jehová puso la e de cada uno contra suH2719
+- Jue_8:10caído 120.000 hombres que sacaban eH2719
+- Jue_8:20y mátalos...el joven no desenvainó su eH2719
+- Jue_9:54saca tu e y mátame...que no se diga de míH2719
+- Jue_18:27los hirieron a filo de e, y quemaron laH2719
+- Jue_20:2de Dan, 400.000 hombres...que sacaban eH2719
+- Jue_20:15veintiséis mil hombres que sacaban eH2719
+- Jue_20:17Israel...400.000 hombres que sacaban eH2719
+- Jue_20:25otros 18.000...los cuales sacaban eH2719
+- Jue_20:35y mataron...todos los cuales sacaban eH2719
+- Jue_20:37hirieron a filo de e a toda la ciudadH2719
+- Jue_20:46veinticinco mil hombres que sacaban eH2719
+- Jue_20:48volvieron...y los hirieron a filo de eH2719
+- Jue_21:10y herid a filo de e a los moradores deH2719
+- 1Sa_13:19que los hebreos no hagan e o lanzaH2719
+- 1Sa_13:22no se halló e...en mano de ninguno delH2719
+- 1Sa_14:20la e de cada uno estaba vuelta contraH2719
+- 1Sa_15:8pero a todo el pueblo mató a filo de eH2719
+- 1Sa_15:33como tu e dejó a las mujeres sin hijosH2719
+- 1Sa_17:39y ciñó David su e sobre sus vestidos, yH2719
+- 1Sa_17:45tú vienes a mí con e y lanza y jabalinaH2719
+- 1Sa_17:47sabrá toda...que Jehová no salva con eH2719
+- 1Sa_17:50lo mató, sin tener David e en su manoH2719
+- 1Sa_17:51tomando la e de él y sacándola de suH2719
+- 1Sa_18:4dio...hasta su e, su arco y su talabarteH2719
+- 1Sa_21:8¿no tienes aquí a mano lanza o e? PorqueH2719
+- 1Sa_21:8no tomé en mi mano mi e ni mis armasH2719
+- 1Sa_21:9la e de Goliat el filisteo...está aquíH2719
+- 1Sa_22:10también le dio la e de Goliat el filisteoH2719
+- 1Sa_22:13le diste pan y e, y consultaste por élH2719
+- 1Sa_22:19y a Nob, ciudad de...hirió a filo de eH2719
+- 1Sa_22:19asnos y ovejas...lo hirió a filo de eH2719
+- 1Sa_25:13cíñase cada uno su e. Y se ciñó...su eH2719
+- 1Sa_25:13David dijo...también David se ciñó su eH2719
+- 1Sa_31:4saca tu e, y traspásame con ella, paraH2719
+- 1Sa_31:4tomó Saúl su propia e y se echó sobreH2719
+- 1Sa_31:5él...se echó sobre su e, y murió con élH2719
+- 2Sa_1:12lloraron...habían caído a filo de eH2719
+- 2Sa_1:22el arco...ni la e de Saúl volvió vacíaH2719
+- 2Sa_2:16cada uno...metió su e en el costado deH2719
+- 2Sa_2:26a Joab...¿Consumirá la e perpetuamente?[[H2719]]
+- 2Sa_3:29que nunca falte de la...quien muera a eH2719
+- 2Sa_11:25porque la e consume, ora a uno, ora aH2719
+- 2Sa_12:9Urías heteo heriste a e, y tomaste porH2719
+- 2Sa_12:9él lo mataste con la e de los hijos deH2719
+- 2Sa_12:10no se apartará jamás de tu casa la eH2719
+- 2Sa_15:14no sea que...hiera la ciudad a filo de eH2719
+- 2Sa_18:8y fueron más...que los que destruyó la eH2719
+- 2Sa_21:16quien estaba ceñido con una e nueva
+- 2Sa_23:10hirió...y quedó pegada su mano a la eH2719
+- 2Sa_24:9de Israel 800.000 hombres...que sacaban eH2719
+- 1Re_1:51júreme...que no matará a e a su siervoH2719
+- 1Re_2:8le juré...diciendo: Yo no te mataré a eH2719
+- 1Re_2:32a los cuales mató a e sin que mi padreH2719
+- 1Re_3:24traedme una e. Y trajeron al rey una eH2719
+- 1Re_19:1había matado a e a todos los profetasH2719
+- 1Re_19:10, 1Re_19:14y han matado a e a tus profetasH2719
+- 1Re_19:17escapare de la e de Hazael...e de JehúH2719
+- 2Re_3:23dijeron: ¡Esto es sangre de e! Los
+- 2Re_3:26tomó...700 hombres que manejaban eH2719
+- 2Re_6:22los que tomaste cautivos con tu e y conH2719
+- 2Re_8:12sus jóvenes matarás a e, y estrellarásH2719
+- 2Re_10:25los mataron a e, y los dejaron tendidosH2719
+- 2Re_11:15dijo...al que la siguiere, matadlo a eH2719
+- 2Re_11:20habiendo sido Atalía muerta a e junto aH2719
+- 2Re_19:7oirá...y haré que en su tierra caiga a eH2719
+- 2Re_19:37sus hijos lo hirieron a e, y huyeron aH2719
+- 1Cr_5:18hombres que traían escudo y e, queH2719
+- 1Cr_10:4saca tu e...tomó la e, y se echó sobreH2719
+- 1Cr_10:5él también se echó sobre su e y se matóH2719
+- 1Cr_21:5en todo Israel 1:100.000 que sacaban eH2719
+- 1Cr_21:5y de Judá 470.000 hombres que sacaban eH2719
+- 1Cr_21:12por tres meses ser derrotado...con la eH2719
+- 1Cr_21:12por tres días la e de Jehová...la pesteH2719
+- 1Cr_21:16al ángel de Jehová...con una e desnudaH2719
+- 1Cr_21:27al ángel, y éste volvió su e a la vainaH2719
+- 1Cr_21:30atemorizado a causa de la e del ángelH2719
+- 2Cr_20:9viniere...e de castigo, o pestilenciaH2719
+- 2Cr_21:4Joram...mató a e a todos sus hermanosH2719
+- 2Cr_23:10puso...teniendo cada uno su e en la manoH7973
+- 2Cr_23:14al que la siguiere, matadlo a filo de eH2719
+- 2Cr_23:21después que mataron a Atalía a filo de eH2719
+- 2Cr_29:9he aquí nuestros padres han caído a eH2719
+- 2Cr_32:5a Milo...también hizo muchas e y escudosH7973
+- 2Cr_32:21allí lo mataron a e sus propios hijosH2719
+- 2Cr_36:17mató a e a sus jóvenes en la casa deH2719
+- 2Cr_36:20que escaparon de la e fueron...cautivosH2719
+- Esd_9:7sido entregados en...a e, a cautiverioH2719
+- Neh_4:13puse al pueblo...con sus e, con susH2719
+- Neh_4:17con una mano...y en la otra tenían la eH7973
+- Neh_4:18cada uno tenía su e ceñida a sus lomosH2719
+- Est_9:5y asolaron...sus enemigos a filo de eH2719
+- Job_1:15, Job_1:17mataron a los criados a filo de eH2719
+- Job_5:15así libra de la e al pobre, de la bocaH2719
+- Job_5:20te salvará de la...y del poder de la eH2719
+- Job_15:22no cree...y descubierto está para la eH2719
+- Job_19:29temed vosotros delante de la e; porqueH2719
+- Job_19:29sobreviene el furor de la e a causa deH2719
+- Job_27:14si sus hijos fueren...serán para la eH2719
+- Job_33:18detendrá...su vida de que perezca a eH2973
+- Job_36:12pero si no oyeren, serán pasados a eH2973
+- Job_39:22no...ni vuelve el rostro delante de la eH2719
+- Job_40:19puede hacer que su e a él se acerqueH2719
+- Job_41:26ni e, ni lanza, ni...ni coselete duraráH2719
+- Sal_7:12si no se arrepiente, él afilará su eH2719
+- Sal_17:13libra mi alma de los malos con tu eH2719
+- Sal_22:20libra de la e mi alma, del poder delH2719
+- Sal_37:14los impíos desenvainan e y entesan suH2719
+- Sal_37:15su e entrará en su mismo corazón, y suH2719
+- Sal_44:3no se apoderaron de la tierra por su eH2719
+- Sal_44:6no confiaré en...ni mi e me salvaráH2719
+- Sal_45:3ciñe tu e sobre el muslo, oh valienteH2719
+- Sal_55:21suaviza sus palabras...son e desnudasH6609
+- Sal_57:4dientes son lanzas...y su lengua e agudaH2719
+- Sal_59:7e hay en sus labios...dicen: ¿Quién oye?[[H2719]]
+- Sal_63:10destruirán a filo de e; serán porciónH2719
+- Sal_64:3que afilan como e su lengua; lanzan cualH2719
+- Sal_76:3allí quebró...la e y las armas de guerraH2719
+- Sal_78:62entregó también su pueblo a la e, y seH2719
+- Sal_78:64sacerdotes cayeron a e, y sus viudasH2719
+- Sal_88:5como los pasados a e que yacen en el
+- Sal_89:43embotaste asimismo el filo de su e, yH2719
+- Sal_144:10el que rescata de maligna e a DavidH2719
+- Sal_149:6a Dios...y e de dos filos en sus manosH2719
+- Pro_5:4es amargo...agudo como e de dos filosH2719
+- Pro_12:18cuyas palabras son como golpes de eH2719
+- Pro_30:14hay generación cuyos dientes son e, yH2719
+- Cnt_3:8todos ellos tienen e, diestros en laH2719
+- Cnt_3:8cada uno con su e sobre su muslo, por losH2719
+- Isa_1:20seréis consumidos a e; porque la bocaH2719
+- Isa_2:4volverán sus e en rejas de arado, y susH2719
+- Isa_2:4no alzará e nación contra nación, ni seH2719
+- Isa_3:25tus varones caerán a e, y tu fuerza enH2719
+- Isa_13:15que por ellos sea tomado, caerá a eH2719
+- Isa_14:19como vestido de muertos pasados a e, queH2719
+- Isa_21:15ante la e huye, ante la e desnuda, anteH2719
+- Isa_22:2muertos no son muertos a e, ni muertosH2719
+- Isa_27:1Jehová castigará con su e dura, grandeH2719
+- Isa_31:8entonces caerá Asiria por e no de varónH2719
+- Isa_31:8y la consumirá e no de hombre; y huiráH2719
+- Isa_31:8Asiria...huirá de la presencia de la eH2719
+- Isa_34:5en los cielos se embriagará mi e; he aquíH2719
+- Isa_34:6llena está de sangre la e de JehováH2719
+- Isa_37:7oirá...haré que en su tierra perezca a eH2719
+- Isa_37:38sus hijos...le mataron a e, y huyeron aH2719
+- Isa_41:2los entregó a su e como polvo, comoH2719
+- Isa_49:2y puso mi boca como e aguda, me cubrióH2719
+- Isa_51:19hambre y e. ¿Quién se dolerá de ti?[[H2719]]
+- Isa_65:12también os destinaré a la e, y todosH2719
+- Isa_66:16juzgará con...y con su e a todo hombreH2719
+- Jer_2:30vuestra e devoró a vuestros profetasH2719
+- Jer_4:10engañado...la e ha venido hasta el almaH2719
+- Jer_5:12no vendrá mal...ni veremos e ni hambreH2719
+- Jer_5:17y a e convertirá en nada tus ciudadesH2719
+- Jer_6:25porque e de enemigo y temor hay por elH2719
+- Jer_9:16y enviaré e en pos de ellos, hasta queH2719
+- Jer_11:22jóvenes morirán a e, sus hijos y susH2719
+- Jer_12:12porque la e de Jehová devorará desde unH2719
+- Jer_14:12los consumiré con e, con hambre y conH2719
+- Jer_14:13les dicen: No veréis e, ni habrá hambreH2719
+- Jer_14:15que dicen: Ni e ni hambre habrá en estaH2719
+- Jer_14:15con e y con hambre serán consumidosH2719
+- Jer_14:18si salgo al campo, he aquí muertos a eH2719
+- Jer_15:2así ha dicho Jehová: El que...a e, a eH2719
+- Jer_15:3e para matar, y perros para despedazarH2719
+- Jer_15:9entregaré a la e delante de...enemigosH2719
+- Jer_16:4con e y con hambre serán consumidos, yH2719
+- Jer_18:21hambre, dispérsalos por medio de la eH2719
+- Jer_18:21sus jóvenes heridos a e en la guerraH2719
+- Jer_19:7haré caer a e delante de sus enemigosH2719
+- Jer_20:4caerán por la e de sus enemigos, y tusH2719
+- Jer_20:4los llevará cautivos...y los matará a eH2719
+- Jer_21:7al pueblo y a los que queden...de la eH2719
+- Jer_21:7Nabucodonosor...los herirá a filo de eH2719
+- Jer_21:9que quedare en esta ciudad morirá a eH2719
+- Jer_24:10enviaré sobre ellos e...y pestilenciaH2719
+- Jer_25:16, Jer_25:27causa de la e que yo envío entreH2719
+- Jer_25:29no seréis absueltos; porque e traigoH2719
+- Jer_25:31entregará los impíos a e, dice JehováH2719
+- Jer_26:23lo mató a e, y echó su cuerpo en losH2719
+- Jer_27:8castigaré a tal nación con e y...hambreH2719
+- Jer_27:13¿por qué moriréis tú y tu pueblo a eH2719
+- Jer_29:17he aquí envío yo contra ellos e, hambreH2719
+- Jer_29:18los perseguiré con e, con hambre y conH2719
+- Jer_31:2pueblo que escapó de la e halló graciaH2719
+- Jer_32:24de la e, del hambre y de la pestilenciaH2719
+- Jer_32:36entregada será en...a e, a hambre y aH2719
+- Jer_34:4ha dicho Jehová...de ti: No morirás a eH2719
+- Jer_34:17promulgo libertad, dice Jehová, a la eH2719
+- Jer_38:2morirá a e, o de hambre, o...pestilenciaH2719
+- Jer_39:18no caerás a e, sino que tu vida te seráH2719
+- Jer_41:2hirieron a e a Gedalías hijo de AhicamH2719
+- Jer_42:16la e que toméis, os alcanzará allí enH2719
+- Jer_42:17morirán a e, de hambre y...pestilenciaH2719
+- Jer_42:22sabed de cierto que a e, de hambre y deH2719
+- Jer_43:11los que a muerte, a...los que a e, a eH2719
+- Jer_44:12caerán a e...serán consumidos de hambreH2719
+- Jer_44:12a e y de hambre morirán desde el menorH2719
+- Jer_44:13como castigué a Jerusalén, con e, conH2719
+- Jer_44:18mas...a e y de hambre somos consumidosH2719
+- Jer_44:27consumidos a e y de hambre, hasta queH2719
+- Jer_44:28y los que escapen de la e volverán deH2719
+- Jer_46:10e devorará y se saciará...de la sangreH2719
+- Jer_46:14en pie y prepárate, porque e devoraráH2719
+- Jer_46:16levántate...huyamos ante la e vencedoraH2719
+- Jer_47:6e de Jehová, ¿hasta cuándo reposarás?[[H2719]]
+- Jer_48:2Madmena, serás cortada; e irá en pos deH2719
+- Jer_48:10maldito...detuviere de la sangre su eH2719
+- Jer_49:37y enviaré en pos de ellos e hasta queH2719
+- Jer_50:16delante de la e destructora cada unoH2719
+- Jer_50:35e contra los caldeos, dice Jehová, yH2719
+- Jer_50:36e contra los adivinos, y...e contra susH2719
+- Jer_50:37e contra sus caballos...e...sus tesorosH2719
+- Jer_51:50los que escapasteis de la e, andad, noH2719
+- Lam_1:20fuera hizo estragos la e; por dentroH2719
+- Lam_2:21mis vírgenes y mis jóvenes cayeron a eH2719
+- Lam_4:9más dichosos fueron los muertos a e queH2719
+- Lam_5:9peligro...traíamos nuestro pan ante la eH2719
+- Eze_5:2cortarás con e alrededor de la ciudadH2719
+- Eze_5:2al viento, y yo desenvainaré e en pos deH2719
+- Eze_5:12tercera parte caerá a e alrededor de tiH2719
+- Eze_5:12esparciré...y tras ellos desenvainaré eH2719
+- Eze_5:17en medio de ti, y enviaré sobre ti eH2719
+- Eze_6:3haré venir sobre vosotros e, y destruiréH2719
+- Eze_6:8que tengáis...algunos que escapen de la eH2719
+- Eze_6:11e y con hambre y con pestilencia caeránH2719
+- Eze_6:12el que esté cerca caerá a e, y el queH2719
+- Eze_7:15fuera e, de dentro pestilencia y hambreH2719
+- Eze_7:15el que esté en el campo morirá a e, y alH2719
+- Eze_11:8e habéis temido, y e traeré...vosotrosH2719
+- Eze_11:10a e caeréis; en los límites de IsraelH2719
+- Eze_12:14tropas...desenvainaré e en pos de ellosH2719
+- Eze_12:16y haré que unos pocos...escapen de la eH2719
+- Eze_14:17si yo trajere e...y dijere: E, pasa porH2719
+- Eze_14:21mis cuatro juicios...e, hambre, fierasH2719
+- Eze_16:40apedrearán, y te atravesarán con sus eH2719
+- Eze_17:21todos sus fugitivos...caerán a e, y losH2719
+- Eze_21:3sacaré mi e de su vaina, y cortaré de tiH2719
+- Eze_21:4mi e saldrá...contra toda carne, desde elH2719
+- Eze_21:5yo Jehová saqué mi e de su vaina; no laH2719
+- Eze_21:9dí: La e, la e está afilada, y tambiénH2719
+- Eze_21:11la e está afilada, y está pulida paraH2719
+- Eze_21:12caerán...a e juntamente con mi puebloH2719
+- Eze_21:13y qué, si la e desprecia aun al cetro?
+- Eze_21:14triplíquese el furor de la e homicidaH2719
+- Eze_21:14esta es la e de la gran matanza que losH2719
+- Eze_21:15todas las puertas...puesto espanto de eH2719
+- Eze_21:19dos caminos por donde venga la e delH2719
+- Eze_21:20donde venga la e a Rabá de los hijos deH2719
+- Eze_21:28dirás...La e, la e está desenvainadaH2719
+- Eze_23:10tomaron sus hijos...a ella mataron a eH2719
+- Eze_23:25quitarán...lo que te quedare caerá a eH2719
+- Eze_23:47las turbas...las atravesarán con sus eH2719
+- Eze_24:21vuestros hijos y...hijas que...caerán a eH2719
+- Eze_25:13desde Temán hasta Dedán caerán a eH2719
+- Eze_26:6sus hijas...el campo serán muertas a eH2719
+- Eze_26:8matará a e a tus hijas que están en elH2719
+- Eze_26:11a tu pueblo matará a filo de e, y tusH2719
+- Eze_28:7fuertes...desenvainarán sus e contra laH2719
+- Eze_28:23con e contra ella por todos lados; yH2719
+- Eze_29:8yo traigo contra ti e, y cortaré de tiH2719
+- Eze_30:4y vendrá e a Egipto, y habrá miedo enH2719
+- Eze_30:5aliadas, caerán con ellos a filo de eH2719
+- Eze_30:6caerán en él a filo de e, dice JehováH2719
+- Eze_30:11y desenvainarán sus e sobre Egipto, yH2719
+- Eze_30:17jóvenes de Avén y...caerán a filo de eH2719
+- Eze_30:21fortalecerlo...que pueda sostener la eH2719
+- Eze_30:22haré que la e se le caiga de la manoH2719
+- Eze_30:24y pondré mi e en su mano; mas quebraréH2719
+- Eze_30:25cuando yo ponga mi e en la mano del reyH2719
+- Eze_31:17ellos descendieron...con los muertos a eH2719
+- Eze_31:18derribado...yacerás, con los muertos a eH2719
+- Eze_32:10cuando haga resplandecer mi e delanteH2719
+- Eze_32:11e del rey de Babilonia vendrá sobre tiH2719
+- Eze_32:12con e de fuertes haré caer tu puebloH2719
+- Eze_32:20e caerá; a la e es entregado; traedloH2719
+- Eze_32:21yacen con los incircuncisos muertos a eH2719
+- Eze_32:22-23, Eze_32:24todos ellos cayeron muertos a eH2719
+- Eze_32:25-26todos ellos incircuncisos, muertos a eH2719
+- Eze_32:27y sus e puestas debajo de sus cabezasH2719
+- Eze_32:28tú, pues...yacerás con los muertos a eH2719
+- Eze_32:29allí Edom...puestos con los muertos a eH2719
+- Eze_32:30yacen también...con los muertos a e, yH2719
+- Eze_32:31Faraón muerto a e, y todo su ejércitoH2719
+- Eze_32:32Faraón...yacerán...con los muertos a eH2719
+- Eze_33:2cuando trajere yo e sobre la tierra, yH2719
+- Eze_33:3él viere venir la e sobre la tierra, yH2719
+- Eze_33:4viniendo la e lo hiriere, su sangre seráH2719
+- Eze_33:6el atalaya viere venir la e y no tocareH2719
+- Eze_33:6y viniendo la e, hiriere de él a algunoH2719
+- Eze_33:26estuvisteis sobre vuestras e, hicisteisH2719
+- Eze_33:27en aquellos lugares asolados caerán a eH2719
+- Eze_35:5entregaste a...Israel al poder de la eH2719
+- Eze_35:8en tus valles y en...caerán muertos a eH2719
+- Eze_38:4gran multitud...teniendo todos ellos eH2719
+- Eze_38:8años vendrás a la tierra salvada de la eH2719
+- Eze_38:21llamaré contra él la e, dice Jehová elH2719
+- Eze_38:21e de cada cual será contra su hermanoH2719
+- Eze_39:23los entregué en...y cayeron todos a eH2719
+- Dan_11:33por algunos días caerán a e y a fuegoH2719
+- Ose_1:7no los salvaré con...e, ni con batallaH2719
+- Ose_2:18quitaré de la tierra arco y e y guerraH2719
+- Ose_7:16cayeron...príncipes a e por la soberbiaH2719
+- Ose_11:6caerá e sobre sus ciudades, y...aldeasH2719
+- Ose_13:16caerán a e...sus niños serán estrelladosH2719
+- Joe_2:8y aun cayendo sobre la e no se heriránH7973
+- Joe_3:10forjad e de vuestros azadones, lanzasH2719
+- Amó_1:11persiguió a e a su hermano, y violóH2719
+- Amó_4:10Egipto; maté a e a vuestros jóvenes, conH2719
+- Amó_7:9me levantaré con e...la casa de JeroboamH2719
+- Amó_7:11Jeroboam morirá a e, e Israel...llevadoH2719
+- Amó_7:17tus hijos y tus hijas caerán a e, y tuH2719
+- Amó_9:1al postrero de ellos mataré a e; no habráH2719
+- Amó_9:4fueren en cautiverio...allí mandaré la eH2719
+- Amó_9:10a e morirán todos los pecadores de miH2719
+- Miq_4:3martillarán sus e para azadones, y susH2719
+- Miq_4:3no alzará e nación contra nación, ni seH2719
+- Miq_5:6devastarán...Asiria a e, y con sus e laH2719
+- Miq_6:14lo que salvares, lo entregaré yo a la eH2719
+- Nah_2:13e devorará tus leoncillos; y cortaréH2719
+- Nah_3:3jinete enhiesto, y resplandor de e...lanzaH2719
+- Nah_3:15te consumirá el fuego, te talará la eH2719
+- Sof_2:12de Etiopía seréis muertos con mi eH2719
+- Hag_2:22vendrán abajo...cada cual por la e deH2719
+- Zac_9:13porque...te pondré como e de valienteH2719
+- Zac_11:17hiera la e su brazo, y su ojo derechoH2719
+- Zac_13:7levántate, oh e, contra el pastor, yH2719
+- Mat_10:34no he venido para traer paz, sino eG3162
+- Mat_26:47vino Judas...y con él mucha gente con eG3162
+- Mat_26:51sacó su e, e hiriendo a un siervo delG3162
+- Mat_26:52Jesús le dijo: Vuelve tu e a su lugarG3162
+- Mat_26:52todos los que tomen e, a e pereceránG3162
+- Mat_26:55habéis salido con e y con palos paraG3162
+- Mar_14:43vino Judas...con él mucha gente con eG3162
+- Mar_14:47sacando la e, hirió al siervo del sumoG3162
+- Mar_14:48habéis salido con e y con palos paraG3162
+- Luc_2:35una e traspasará tu misma alma), paraG4501
+- Luc_21:24y caerán a filo de e, y serán llevadosG3162
+- Luc_22:36y el que no tiene e, venda su capa yG3162
+- Luc_22:38ellos dijeron: Señor, aquí hay dos eG3162
+- Luc_22:49le dijeron: Señor, ¿heriremos a e?[[G3162]]
+- Luc_22:52¿como...habéis salido con e y palos?[[G3162]]
+- Jua_18:10tenía una e, la desenvainó, e hirióG3162
+- Jua_18:11dijo a Pedro: Mete tu e en la vainaG3162
+- Hec_12:2y mató a e a Jacobo, hermano de JuanG3162
+- Hec_16:27sacó la e y se iba a matar, pensandoG3162
+- Rom_8:35o hambre, o desnudez, o peligro, o e?[[G3162]]
+- Rom_13:4no en vano lleva la e, pues es servidorG3162
+- Efe_6:17la e del Espíritu, que es la palabraG3162
+- Heb_4:12más cortante que toda e de dos filosG3162
+- Heb_11:34evitaron filo de e, sacaron fuerzas deG3162
+- Heb_11:37puestos a prueba, muertos a filo de eG3162
+- Rev_1:16de su boca salía una e...de dos filosG4501
+- Rev_2:12el que tiene la e aguda de...dice estoG4501
+- Rev_2:16pelearé contra ellos con la e de mi bocaG4501
+- Rev_6:4que se matasen...y se le dio una gran eG3162
+- Rev_6:8le fue dada potestad...para matar con eG4501
+- Rev_13:10alguno mata a e, a e debe ser muertoG3162
+- Rev_13:14a la bestia que tiene la herida de eG3162
+- Rev_19:15de su boca sale una e aguda, para herirG4501
+- Rev_19:21los demás fueron muertos con la e queG4501

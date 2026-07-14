@@ -1,0 +1,163 @@
+---
+tipo: concordancia
+palabra: LLORAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LLORAR
+
+- Gén_21:16el muchacho alzó su voz y lloróH1058
+- Gén_23:2a hacer duelo por Sara, y a llorarlaH1058
+- Gén_27:38bendíceme...alzó Esaú su voz, y lloróH1058
+- Gén_29:11Jacob besó a...y alzó su voz y lloróH1058
+- Gén_33:4y se echó sobre su cuello...y lloraronH1058
+- Gén_37:35no quiso...consuelo...lo lloró su padreH1058
+- Gén_42:24y se apartó José de ellos, y lloróH1058
+- Gén_43:30buscó dónde llorar...su cámara, y lloróH1058
+- Gén_45:2se dio a llorar a gritos; y oyeron losH1065
+- Gén_45:14lloró; y...Benjamín ll sobre su cuelloH1058
+- Gén_45:15besó a todos sus...y lloró sobre ellosH1058
+- Gén_46:29José...lloró sobre su cuello largamenteH1058
+- Gén_50:1echó José sobre el rostro de...y lloróH1058
+- Gén_50:3lo lloraron los egipcios setenta díasH1058
+- Gén_50:17ruego...Y José lloró mientras hablabanH1058
+- Éxo_2:6la abrió...he aquí que el niño llorabaH1058
+- Núm_11:4los hijos de Israel...volvieron a llorarH1058
+- Núm_11:10oyó Moisés al pueblo, que lloraba porH1058
+- Núm_11:13lloran a mí, diciendo: Danos carne queH1058
+- Núm_11:18llorado en oídos de Jehová, diciendoH1058
+- Núm_11:20y llorasteis delante de él, diciendoH1058
+- Núm_14:1gritó...y el pueblo lloró aquella nocheH1058
+- Núm_25:6lloraban...a la puerta del tabernáculoH1058
+- Deu_1:45y llorasteis delante de Jehová, peroH1058
+- Deu_21:13y llorará a su padre y a su madre unH1058
+- Deu_34:8lloraron los hijos de Israel a MoisésH1065
+- Jue_2:4habló...el pueblo alzó su voz y lloróH1058
+- Jue_11:37que vaya...y llore mi virginidad, yo yH1058
+- Jue_11:38y lloró su virginidad por los montesH1058
+- Jue_14:16lloró la mujer de Sansón en presenciaH1058
+- Jue_14:17lloró en presencia de él los siete díasH1058
+- Jue_20:23y lloraron delante de Jehová hasta laH1058
+- Jue_20:26lloraron, y se sentaron...en presenciaH1058
+- Rut_1:9besó, y ellas alzaron su voz y lloraronH1058
+- Rut_1:14ellas alzaron otra vez su voz y lloraronH1058
+- 1Sa_1:7por lo cual Ana lloraba, y no comíaH1058
+- 1Sa_1:8dijo: Ana, ¿por qué lloras?...no comes?[[H1058]]
+- 1Sa_1:10amargura de alma oró a Jehová, y lloróH1058
+- 1Sa_6:19lloró el pueblo...Jehová lo había heridoH56
+- 1Sa_11:4y todo el pueblo alzó su voz y lloróH1058
+- 1Sa_11:5dijo...¿Qué tiene el pueblo, que llora?[[H1058]]
+- 1Sa_15:35y Samuel lloraba a Saúl; y Jehová seH56
+- 1Sa_16:1a Samuel: ¿Hasta cuando llorarás a SaúlH56
+- 1Sa_20:41lloraron el uno con...David lloró másH1058
+- 1Sa_24:16mío David? Y alzó Saúl su voz y lloróH1058
+- 1Sa_25:1lo lloraron, y lo sepultaron en su casaH5594
+- 1Sa_30:4David y la...alzaron su voz y lloraronH1058
+- 1Sa_30:4que les faltaron las fuerzas para llorarH1058
+- 2Sa_1:12y lloraron y lamentaron y ayunaronH1058
+- 2Sa_1:24hijas de Israel, llorad por Saúl, quienH1058
+- 2Sa_3:16su marido fue...llorando hasta BahurimH1058
+- 2Sa_3:32el rey...lloró...ll también todo el puebloH1058
+- 2Sa_3:34todo el pueblo volvió a llorar sobre élH1058
+- 2Sa_12:21por el niño, viviendo aún...y llorabasH1058
+- 2Sa_12:22viviendo aún el...yo ayunaba y llorabaH1058
+- 2Sa_13:36lloraron...ll con muy grandes lamentosH1058
+- 2Sa_13:37David lloraba por su hijo todos...díasH56
+- 2Sa_15:23todo el país lloró en alta voz; pasóH1058
+- 2Sa_15:30subió la cuesta...y la subió llorandoH1058
+- 2Sa_15:30pueblo...iban llorando mientras subíanH1058
+- 2Sa_18:33subió a la sala de la puerta, y lloróH1058
+- 2Sa_19:1el rey llora, y hace duelo por AbsalónH1058
+- 2Re_8:11miró...luego lloró el varón de DiosH1058
+- 2Re_8:12dijo Hazael: ¿Por qué llora mi señor?[[H1058]]
+- 2Re_13:14llorando...dijo: ¡Padre mío, padre míoH1058
+- 2Re_20:3ruego...Y lloró Ezequías con gran lloroH1058
+- 2Re_22:19lloraste en mi presencia...te he oídoH1058
+- 2Cr_34:27lloraste en mi presencia...he oídoH1058
+- Esd_3:12viendo echar los cimientos...llorabanH1058
+- Esd_10:1oraba Esdras y...llorando y postrándoseH1058
+- Esd_10:1oraba...y lloraba el pueblo amargamenteH1058
+- Neh_1:4oí estas palabras, me senté y lloréH1058
+- Neh_8:9ni lloréis; porque todo el pueblo llorabaH1058, [[[[H1058]]]]
+- Est_8:3a sus pies, llorando y rogándole queH1058
+- Job_2:12no lo conocieron, y lloraron a gritosH1058
+- Job_27:15muerte...y no los llorarán sus viudasH1058
+- Job_29:25como el que consuela a los que lloranH57
+- Job_30:25¿no lloré yo al afligido? Y mi almaH1058
+- Job_31:38si mi tierra...lloran todos sus surcosH2199
+- Sal_69:10lloré afligiendo con ayuno mi almaH1058
+- Sal_126:6irá andando y llorando el que lleva laH1058
+- Sal_137:1allí nos sentábamos, y aun llorábamosH1058
+- Ecl_3:4tiempo de llorar, y tiempo de reirH1058
+- Isa_15:2a Bayit y a...lugares altos, a llorarH1065
+- Isa_15:5la cuesta de Luhit subirán llorando, yH1065
+- Isa_22:4dije: Dejadme, lloraré amargamente; noH1065
+- Isa_30:19Sion, en Jerusalén; nunca más llorarásH1058
+- Isa_33:7he aquí...los mensajeros de paz lloraránH1058
+- Isa_38:3ojos...Y lloró Ezequías con gran lloroH1058
+- Jer_9:1que llore día y noche los muertos deH1058
+- Jer_12:11fue puesta en asolamiento, y lloróH56
+- Jer_13:17llorará mi alma...llorando amargamenteH1058, [[H1830]]
+- Jer_22:10no lloréis al muerto...llorad...que se vaH1058
+- Jer_22:18no lo llorarás, diciendo: ¡Ay, hermanoH5594
+- Jer_41:6les salió al encuentro, llorando, IsmaelH1058
+- Jer_48:5con llanto subirá el que llora; porqueH1065
+- Jer_48:32con llanto de Jazer lloraré por ti, ohH1058
+- Jer_50:4irán andando y llorando, y buscarán aH1058
+- Lam_1:2amargamente llora en la noche, y susH1058
+- Lam_1:16por esta causa lloro...mis ojos fluyenH1058
+- Eze_7:12el que vende, no llore, porque la iraH56
+- Eze_24:16no endeches, ni llores, ni corran tusH1058
+- Eze_24:23no endecharéis ni lloraréis, sino queH1058
+- Ose_12:4lloró, y le rogó; en Bet,el le hallóH1058
+- Joe_1:5despertad, borrachos, y llorad, gemidH1058
+- Joe_1:8llora tú como joven vestida de cilicioH421
+- Joe_2:17entre la entrada y el altar lloren losH1058
+- Amó_8:8¿no llorará todo habitante de ella?[[H56]]
+- Amó_9:5y llorarán todos los que en ella moranH56
+- Miq_1:10no lo digáis en Gat, ni lloréis muchoH1058
+- Zac_7:3¿lloraremos en el mes quinto?...años?[[H1058]]
+- Zac_7:5cuando...llorasteis en el quinto y en elH5594
+- Zac_12:10llorarán como se llora por...unigénitoH5594
+- Mat_2:18gemido; Raquel que llora a sus hijosG2805
+- Mat_5:4bienaventurados los que lloran, porqueG3996
+- Mat_26:75y saliendo fuera, lloró amargamenteG2799
+- Mar_5:38vino...a los que lloraban y lamentabanG2799
+- Mar_5:39les dijo: ¿Por qué alborotáis y lloráis?[[G2799]]
+- Mar_14:72Pedro se...y pensando en esto, llorabaG2799
+- Mar_16:10hizo saber a los...tristes y llorandoG2799
+- Luc_6:21bienaventurados los que ahora lloráisG2799
+- Luc_6:25¡ay de...porque lamentaréis y lloraréisG2799
+- Luc_7:13se compadeció de...y le dijo: No lloresG2799
+- Luc_7:32dicen...os endechamos, y no llorasteisG2799
+- Luc_7:38detrás de él a sus pies, llorando...ungíaG2799
+- Luc_8:52lloraban...y hacían lamentación por ellaG2799
+- Luc_8:52dijo: No lloréis; no está muerta, sinoG2799
+- Luc_19:41la ciudad, al verla, lloró sobre ellaG2799
+- Luc_22:62y Pedro, saliendo...lloró amargamenteG2799
+- Luc_23:27multitud del...de mujeres que llorabanG2875
+- Luc_23:28no lloréis por mí...llorad por vosotrasG2799
+- Jua_11:31diciendo: Va al sepulcro a llorar allíG2799
+- Jua_11:33verla llorando...estremeció en espírituG2799
+- Jua_11:33y a los judíos que la...también llorandoG2799
+- Jua_11:35Jesús lloróG1145
+- Jua_16:20que vosotros lloraréis y lamentaréisG2799
+- Jua_20:11María estaba fuera llorando junto alG2799
+- Jua_20:11y mientras lloraba, se inclinó paraG2799
+- Jua_20:13y le dijeron: Mujer, ¿por qué lloras?[[G2799]]
+- Jua_20:15Jesús le dijo: Mujer, ¿por qué lloras?[[G2799]]
+- Hec_9:39le rodearon...las viudas, llorando yG2799
+- Hec_21:13llorando y quebrantándome el corazónG2799
+- Rom_12:15gozaos con...llorad con los que lloranG2799
+- 1Co_7:30los que lloran, como si no llorasenG2799, [[[[G2799]]]]
+- 2Co_12:21quizá tenga que llorar por muchosG3996
+- Flp_3:18digo llorando, que son enemigos de laG2799
+- Stg_4:9afligíos, y lamentad, y lloradG2799
+- Stg_5:1llorad y aullad por las miserias que osG2799
+- Rev_5:4lloraba yo mucho, porque no se habíaG2799
+- Rev_5:5uno de los ancianos me dijo: No lloresG2799
+- Rev_18:9llorarán y harán lamentación sobre ellaG2799
+- Rev_18:11lloran y hacen lamentación sobre ellaG2799
+- Rev_18:15mercaderes...se pararán lejos...llorandoG2799
+- Rev_18:19llorando...diciendo: ¡Ay, ay de la granG2799

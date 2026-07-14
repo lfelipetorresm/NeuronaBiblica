@@ -1,0 +1,90 @@
+---
+tipo: concordancia
+palabra: SERVICIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SERVICIO
+
+- Gén_29:27s que hagas conmigo otros siete añosH5656
+- Gén_30:26servido...tú sabes los s que te he hechoH5656
+- Éxo_1:14toda labor del campo y en todo su sH5656
+- Éxo_27:19todos los utensilios del...en todo su sH5656
+- Éxo_30:16y lo darás para el s del tabernáculoH5656
+- Éxo_31:10vestidos del s, las vestiduras santasH8278
+- Éxo_35:19las vestiduras del s para ministrar enH8278
+- Éxo_35:24todo el...traía para toda la obra del sH5656
+- Éxo_36:1para saber hacer toda la obra del s delH5656
+- Éxo_36:3traído para la obra del s del santuarioH5656
+- Éxo_39:40los utensilios del s del tabernáculoH5656
+- Éxo_39:41las vestiduras del s para ministrar enH8278
+- Núm_3:8y ministren en el s del tabernáculoH5656
+- Núm_3:26las cortinas...sus cuerdas para todo su sH5656
+- Núm_3:31a cargo de ellos...el velo con todo su sH5656
+- Núm_3:36sus basas...sus enseres, con todo su sH5656
+- Núm_4:12los utensilios del s de que hacen usoH8335
+- Núm_4:26todos los instrumentos de su s y todo loH5656
+- Núm_4:27todos sus cargos, y en todo su s; y lesH5656
+- Núm_4:28es el s de las familias de los hijos deH5656
+- Núm_4:31todo su s en el tabernáculo de reuniónH5656
+- Núm_4:32con todos sus instrumentos y todo su sH5656
+- Núm_4:33el s de las familias de los...de MerariH5656
+- Núm_4:47para ministrar en el s y tener cargo deH5656
+- Núm_7:5tómalos...serán para el s del tabernáculoH5656
+- Núm_7:9sobre sí en los hombros el s del santuarioH5656
+- Núm_8:24su ministerio en el s del tabernáculo deH5656
+- Núm_16:9que ministréis en el s del tabernáculoH5656
+- Núm_18:4el cargo...en todo el s del tabernáculoH5656
+- Núm_18:7os he dado...el s de vuestro sacerdocioH5656
+- Núm_18:23los levitas harán el s del tabernáculoH5656
+- Jos_22:27de que podemos hacer el s de JehováH5656
+- 1Re_9:22a ninguno...de Israel impuso Salomón sH5650
+- 1Cr_4:23moraban allá con el rey...en su sH4399
+- 1Cr_6:31los que David puso sobre el s de cantoH3027
+- 1Cr_9:33exentos de otros s, porque de día y deH6359, [[H6362]]
+- 1Cr_26:8hombres robustos y fuertes para el sH5656
+- 1Cr_26:30la obra de Jehová, y en el s del reyH5656
+- 1Cr_28:14(2)para todos los utensilios de cada sH5656
+- 1Cr_28:15oro...conforme al s de cada candeleroH5656
+- 1Cr_28:20acabes...la obra para el s de la casaH5656
+- 1Cr_28:21e inteligentes para toda forma de sH5656
+- 1Cr_29:7y dieron para el s de la casa de DiosH5656
+- 2Cr_10:8tomó consejo con los jóvenes...a su s
+- 2Cr_24:12los que hacían el trabajo del s de laH5656
+- 2Cr_24:14hicieron de él...utensilios para el sH8335
+- 2Cr_29:35quedó restablecido el s de la casa deH5656
+- 2Cr_30:22buena inteligencia en el s de Jehová
+- 2Cr_31:13los mayordomos al s de Conanías y de
+- 2Cr_31:15a su s estaban Edén, Miniamín, Jesúa
+- 2Cr_31:21en todo cuanto emprendió en el s de laH5656
+- 2Cr_35:10preparado así el s, los sacerdotes seH5656
+- 2Cr_35:16así fue preparado todo el s de JehováH5656
+- Esd_6:18pusieron...levitas...para el s de DiosH5673
+- Esd_7:19utensilios...el s de la casa de tu DiosH6402
+- Neh_10:33para todo el s de la casa de...DiosH4399
+- Neh_11:24Petaías...al s del rey en todo negocio
+- Neh_12:45cumplido el s de su Dios, y el s de laH4931
+- Neh_13:10los levitas y cantores que hacían el sH4399
+- Neh_13:13y al s de ellos a Hanán hijo de Zacur
+- Neh_13:14mis misericordias que hice en...en su sH4929
+- Neh_13:30y puse a...levitas...a cada uno en su sH4399
+- Est_4:5de los eunucos...puesto al s de ellaH6440
+- Sal_104:14y la hierba para el s del hombreH5656
+- Eze_29:18hizo...prestar un arduo s contra TiroH5656
+- Eze_29:18ni para...hubo paga de Tiro, por el sH5656
+- Eze_44:14guardas...casa, para todo el s de ellaH5656
+- Jua_16:2os mate, pensará que rinde s a DiosG2999
+- Hec_12:25y Saulo, cumplido su s, volvieron deG1248
+- Rom_12:7de s, en servir; o el que enseña, enG1248
+- Rom_15:31y que la ofrenda de mi s a...sea aceptaG1248
+- 1Co_16:15se han dedicado al s de los santosG1248
+- 2Co_8:4el privilegio de participar en este sG1248
+- 2Co_9:12la ministración de este s...suple lo queG3009
+- Flp_2:17sobre el sacrificio y s de vuestra feG3009
+- Flp_2:30suplir lo que faltaba en vuestro s porG3009
+- 1Ti_6:2los que se benefician de su buen sG1398
+- Heb_1:14espíritus...enviados para s a favor deG3010
+- 3Jn_1:5cuando prestas algún s a los hermanos
+- 3Jn_1:6encaminarlos como es digno de su s a Dios
+- Rev_2:19conozco tus obras, y amor, y fe, y sG1248

@@ -1,0 +1,187 @@
+---
+tipo: concordancia
+palabra: PRINCIPAL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRINCIPAL
+
+- Gén_49:3Rubén, tú...p en dignidad, p en poderH3499
+- Gén_49:4impetuoso como...aguas, no serás el pH3498
+- Núm_3:32el p de los jefes...será Eleazar hijoH5387
+- Núm_11:16reúneme setenta varones de los...sus pH7860
+- Núm_20:19por el camino p iremos; y si bebiéremos
+- Deu_1:15p de vuestras tribus, varones sabiosH7218
+- Jos_10:24dijo a los p de la gente de guerraH7101
+- Jue_8:6y los p de Sucot respondieron: ¿EstánH8269
+- Jue_8:14le dio por escrito los nombres de los pH8269
+- Jue_16:18envió a llamar a los p de los filisteos...pH5633
+- Jue_16:23los p de los filisteos se juntaron paraH5633
+- Jue_16:27todos los p de los filisteos estaban allíH5633
+- Jue_16:30cayó la casa sobre los p, y sobre todoH5633
+- 1Sa_2:29engordándoos de lo p de...las ofrendasH7225
+- 1Sa_14:38venid acá...los p del pueblo, y sabedH6438
+- 1Sa_21:7era Doeg...el p de los pastores de SaúlH47
+- 1Sa_22:9Doeg...era el p de los siervos de Saúl
+- 2Sa_23:8Joseb-basebet el...p de los capitanesH7218
+- 2Sa_23:18y Abisai hermano...el p de los treintaH7218
+- 1Re_3:4Gabaón...aquél era el lugar alto p, yH1419
+- 1Re_4:5Zabud hijo...ministro p y amigo del reyH3548
+- 1Re_5:16los p oficiales de Salomón que estabanH8269
+- 1Re_8:1Salomón reunió...los p de las familias deH5387
+- 1Re_10:15sin lo de los...y de los p de la tierraH6346
+- 1Re_21:8escribió cartas...a los p que moraban enH2205
+- 1Re_21:11los p que moraban en su ciudad, hicieronH2205
+- 2Re_10:1escribió cartas...a los p de JezreelH2205
+- 2Re_10:6los hijos del rey...estaban con los p deH1419
+- 2Re_25:19tomó...el p escriba del ejército, queH8269
+- 1Cr_4:38son los p entre sus familias; y lasH5387
+- 1Cr_5:6Beera su hijo, el...era p de los rubenitasH5387
+- 1Cr_5:12Joel fue el p en Basán; el segundo SafánH7218
+- 1Cr_5:15Ahí hijo...fue p en la casa de sus padresH7218
+- 1Cr_8:28éstos fueron jefes p de familias por susH7218
+- 1Cr_9:26p de los porteros levitas estaban en elH1368
+- 1Cr_11:10los p de los valientes que David tuvoH7218
+- 1Cr_11:15tres de los treinta p descendieron a laH7218
+- 1Cr_12:3p Ahiezer, después Joás, hijos de SemaaH7218
+- 1Cr_12:23el número de los p que estaban listosH7218
+- 1Cr_12:28Sadoc...veintidós de los p de la casa deH8269
+- 1Cr_12:32de los hijos de Isacar, doscientos p
+- 1Cr_15:5de Coat, Uriel el p, y sus hermanos, 120H8269
+- 1Cr_15:6de Merari, Asaías el p, y sus hermanosH8269
+- 1Cr_15:7de los hijos de Gersón, Joel el p, y susH8269
+- 1Cr_15:8Elizafán, Sernaías el p, y sus hermanosH8269
+- 1Cr_15:9Hebrón, Eliel el p, y sus hermanos, 80H8269
+- 1Cr_15:10Uziel, Aminadab el p, y sus hermanosH8269
+- 1Cr_15:12vosotros que sois los p padres de lasH7218
+- 1Cr_15:16dijo David a los p de los levitas, queH8269
+- 1Cr_15:22Quenanías, p de los levitas en...músicaH8269
+- 1Cr_22:17mandó David a todos los p de Israel queH8269
+- 1Cr_23:2juntando a todos los p de Israel, y aH8269
+- 1Cr_24:4había más varones p que de...de Itamar
+- 1Cr_24:31el p de los padres igualmente que elH7218
+- 1Cr_26:12alternando los p de los varones en laH7218
+- 1Cr_27:1éstos son los p de los hijos de IsraelH7218
+- 1Cr_28:1reunió David...a todos los p de IsraelH8269
+- 2Cr_8:10y tenía Salomón 250 gobernadores pH8269
+- 2Cr_23:20llamó...a los p, a los que gobernaban
+- 2Cr_24:23destruyeron en el pueblo a todos los p
+- 2Cr_28:12se levantaron algunos varones de los p
+- 2Cr_29:20rey Ezequías reunió los p de la ciudad
+- 2Cr_31:12cargo de ello al levita Conanías, el p
+- 2Cr_36:14p sacerdotes...aumentaron la iniquidad
+- Esd_7:28yo...reuní a los p de Israel para que
+- Esd_8:16Mesulam, hombres p, asimismo a Joiarib
+- Esd_8:24aparté...doce de los p de los sacerdotes
+- Neh_6:17cartas de los p de Judá a Tobías, y
+- Neh_10:29se reunieron con sus hermanos y sus p
+- Neh_11:16de los p de los levitas, capataces de
+- Neh_11:17el p, el que empezaba las alabanzas yH7218
+- Neh_12:24los p de los levitas: Hasabías, SerebíasH7218
+- Job_29:10voz de los p se apagaba, y su lengua
+- Sal 4,5,6,8,9,11,12,13,14,18,19,20,21,22,31,36,39,40,41,42,44,45,46,47,49,51,52,53,54,55,56,57,58,59,60,61,62,64,65,66,67,68,69,70, 75,76,77,80,81,84,85,88,109,139,140 títs.al músico pH5329
+- Pro_1:21clama en los p lugares de reunión; enH7218
+- Cnt_4:14con todas las p especias aromáticasH7218
+- Jer_49:35el arco de Elam...p de su fortalezaH7225
+- Jer_51:59profeta Jeremías a Seraías...p camarero
+- Jer_52:24tomó también...a Seraías el p sacerdoteH7218
+- Jer_52:25y al p secretario de la milicia, que pasaba revistaH8269
+- Eze_11:1a Jaazanías...a Pelatías...p del puebloH8269
+- Eze_17:4arrancó el p de sus renuevos y lo llevóH7218
+- Eze_17:22del p de sus renuevos cortaré un talloH7218
+- Eze_27:22lo p de toda especiería y toda piedraH7218
+- Dan_7:1luego escribió...relató lo p del asuntoH7217
+- Dan_10:13he aquí Miguel, uno de los p príncipesH7223
+- Amó_6:1los notables y p entre las naciones, aH7225
+- Miq_5:5levantaremos contra él...ocho hombres p
+- Mat_2:4convocados...los p sacerdotes...preguntóG749
+- Mat_9:18vino un hombre p y se postró ante élG749
+- Mat_9:23al entrar Jesús en la casa del p, viendoG758
+- Mat_16:21padecer...de los p sacerdotes y de losG749
+- Mat_20:18será entregado a los p sacerdotes y aG749
+- Mat_21:15los p sacerdotes y los escribas, viendoG749
+- Mat_21:23los p sacerdotes y...se acercaron a élG749
+- Mat_21:45p sacerdotes...entendieron que hablabaG749
+- Mat_26:3p sacerdotes, los escribas...reunieronG749
+- Mat_26:14llamaba Judas...fue a los p sacerdotesG749
+- Mat_26:47de parte de los p sacerdotes y de losG749
+- Mat_26:59los p sacerdotes y los ancianos y todoG749
+- Mat_27:1venida la mañana, todos los p sacerdotesG749
+- Mat_27:3devolvió...plata a los p sacerdotes y aG749
+- Mat_27:6los p sacerdotes, tomando las piezas deG749
+- Mat_27:12siendo acusado por los p sacerdotes yG749
+- Mat_27:20pero los p sacerdotes...persuadieron aG749
+- Mat_27:41los p sacerdotes, escarneciéndole conG749
+- Mat_27:62se reunieron los p sacerdotes y losG749
+- Mat_28:11y dieron aviso a los p sacerdotes deG749
+- Mar_5:22los p de la sinagoga, llamado JairoG752
+- Mar_5:35vinieron de casa del p de la sinagogaG752
+- Mar_5:36dijo al p de la sinagoga: No temas, creeG752
+- Mar_5:38vino a casa del p de la sinagoga, y vioG752
+- Mar_6:21Herodes...daba una cena a...p de GalileaG4413
+- Mar_8:31ser desechado por...los p sacerdotes y porG749
+- Mar_10:33será entregado a los p sacerdotes y aG749
+- Mar_11:18oyeron los escribas y los p sacerdotesG749
+- Mar_11:27templo, vinieron a él los p sacerdotesG749
+- Mar_12:30y amarás al...Este es el p mandamientoG749
+- Mar_14:1buscaban los p sacerdotes...cómo prenderleG749
+- Mar_14:10Judas Iscariote...fue a los p sacerdotesG749
+- Mar_14:43con él mucha gente...de parte de los pG749
+- Mar_14:53se reunieron todos los p sacerdotes yG749
+- Mar_14:55los p sacerdotes...buscaban testimonioG749
+- Mar_15:1tenido consejo los p sacerdotes con losG749
+- Mar_15:3y los p sacerdotes le acusaban muchoG749
+- Mar_15:10le habían entregado los p sacerdotesG749
+- Mar_15:11los p sacerdotes incitaron a la multitudG749
+- Mar_15:31también los p sacerdotes, escarneciendoG749
+- Luc_8:41vino...Jairo, que era p de la sinagogaG758
+- Luc_8:49vino uno de casa del p de la sinagogaG752
+- Luc_9:22y sea desechado por...los p sacerdotes yG749
+- Luc_13:14pero el p de la sinagoga, enojado de queG752
+- Luc_18:18un hombre p le preguntó...Maestro buenoG758
+- Luc_19:47los p sacerdotes...procuraban matarleG749
+- Luc_19:47y los p del pueblo procuraban matarleG4413
+- Luc_20:1llegaron los p sacerdotes y los escribasG749
+- Luc_20:19procuraban los p sacerdotes y...escribasG749
+- Luc_22:2p sacerdotes y...buscaban cómo matarleG749
+- Luc_22:4éste fue y habló con los p sacerdotesG749
+- Luc_22:52Jesús dijo a los p sacerdotes, a losG749
+- Luc_22:66de día, se juntaron...los p sacerdotesG749
+- Luc_23:4Pilato dijo a los p sacerdotes, y a laG749
+- Luc_23:10estaban los p sacerdotes y...escribasG749
+- Luc_23:13Pilato, convocando a los p sacerdotesG749
+- Luc_23:23voces de ellos y de los p sacerdotesG749
+- Luc_24:20cómo le entregaron los p sacerdotes yG758
+- Jua_3:1había...Nicodemo, un p entre los judíosG758
+- Jua_7:32los p sacerdotes...enviaron alguacilesG749
+- Jua_7:45alguaciles vinieron a los p sacerdotesG749
+- Jua_11:47p sacerdotes y...reunieron el concilioG749
+- Jua_11:57los p sacerdotes...habían dado orden deG749
+- Jua_12:10los p sacerdotes acordaron dar muerteG749
+- Jua_18:3tomando...alguaciles de los p sacerdotesG749
+- Jua_18:35tu nación, y los p...te han entregado aG749
+- Jua_19:6cuando le vieron los p sacerdotes y losG749
+- Jua_19:15los p sacerdotes: No tenemos más rey queG749
+- Jua_19:21a Pilato los p sacerdotes...No escribasG749
+- Hec_4:23lo que los p sacerdotes les habíanG749
+- Hec_5:24oyeron...y los p sacerdotes, dudaban enG749
+- Hec_9:14aquí tiene autoridad de los p sacerdotesG749
+- Hec_9:21vino...para llevarlos presos ante los pG749
+- Hec_13:15los p de la sinagoga mandaron a decirlesG752
+- Hec_13:50judíos instigaron...a los p de la ciudadG4413
+- Hec_15:22a Silas, varones p entre los hermanosG2233
+- Hec_18:8Crispo, el p de la sinagoga, creyó enG752
+- Hec_18:17griegos, apoderándose de Sóstenes, pG752
+- Hec_22:30y mandó venir a los p sacerdotes y aG749
+- Hec_23:14los cuales fueron a los p sacerdotesG749
+- Hec_25:2los p sacerdotes...se presentaron anteG4413
+- Hec_25:15se me presentaron los p sacerdotes yG749
+- Hec_25:23entrando...con los tribunos y p hombresG1851
+- Hec_26:10recibido poderes de los p sacerdotesG749
+- Hec_26:12iba yo...en comisión de los p sacerdotesG749
+- Hec_28:7había propiedades del hombre p de la islaG4413
+- Hec_28:17Pablo convocó a los p de los judíos, aG4413
+- Efe_2:20siendo la p piedra...Jesucristo mismoG204
+- Heb_8:1el punto p de lo que venimos diciendoG2774
+- 1Pe_2:6pongo en Sion la p piedra del ánguloG204

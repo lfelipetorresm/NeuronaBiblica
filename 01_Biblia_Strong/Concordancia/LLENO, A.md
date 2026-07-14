@@ -1,0 +1,177 @@
+---
+tipo: concordancia
+palabra: LLENO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LLENO, A
+
+- Gén_6:11y estaba la tierra ll de violenciaH4390
+- Gén_6:13está ll de violencia a causa de ellosH4390
+- Gén_9:19Noé, y de ellos fue ll toda la tierraH5310
+- Gén_14:10valle...estaba ll de pozos de asfalto
+- Gén_25:8y murió Abraham...anciano y ll de añosH7649
+- Gén_35:29Isaac...murió...viejo y ll de días; y loH7649
+- Gén_41:5siete espigas ll y hermosas crecían deH1277
+- Gén_41:7devoraban a las...espigas gruesas y llH4392
+- Gén_41:22espigas crecían en una misma caña, llH4392
+- Lev_2:2tomará...puño ll de la flor de harinaH4393
+- Lev_5:12el sacerdote tomará de ella su puño llH4393
+- Lev_16:12tomará un incensario ll de brasas deH4393
+- Lev_16:12y sus puños ll del perfume aromáticoH4393
+- Núm_7:13, Núm_7:19, Núm_7:25, Núm_7:31, Núm_7:37, Núm_7:43, Núm_7:49, Núm_7:55, Núm_7:61, Núm_7:67, Núm_7:73, Núm_7:79ll de flor de harina amasada con aceiteH4392
+- Núm_7:14, Núm_7:20, Núm_7:26, Núm_7:32, Núm_7:38, Núm_7:44, Núm_7:50, Núm_7:56, Núm_7:62, Núm_7:68, Núm_7:74, Núm_7:80una cuchara de oro...ll de inciensoH4392
+- Núm_7:86las doce cucharas de oro ll de inciensoH4392
+- Núm_22:18; Núm_24:13me diese su casa ll de plataH4393
+- Deu_6:11ll de todo bien, que tú no llenasteH4392
+- Deu_8:15un desierto...ll de serpientes ardientes
+- Deu_33:23Neftalí...ll de la bendición de JehováH4392
+- Deu_34:9Josué...fue ll del espíritu de sabiduríaH4392
+- Jue_6:38exprimió...sacó...un tazón ll de aguaH4392
+- Jue_16:27la casa estaba ll de hombres y mujeresH4390
+- Rut_1:21me fui ll, pero Jehová me ha vueltoH4390
+- 1Sa_12:2yo soy ya viejo y ll de canas; pero
+- 2Sa_23:11un pequeño terreno ll de lentejasH4392
+- 1Re_1:45ungido...ciudad está ll de estruendo
+- 1Re_7:14e Hiram era ll de sabiduría...y cienciaH4390
+- 2Re_3:17pero este valle será ll de agua, yH4390
+- 2Re_4:4echa...y cuando una esté ll, ponla aparteH4392
+- 2Re_4:6cuando las vasijas estuvieron ll, dijoH4390
+- 2Re_6:17monte estaba ll de gente de a caballoH4390
+- 2Re_7:15todo el camino estaba ll de vestidos yH4392
+- 1Cr_11:13una parcela de tierra ll de cebadaH4392
+- 1Cr_23:1siendo, pues, David ya viejo y ll de díasH7646
+- 1Cr_29:28ll de días, de riquezas y de gloriaH7646
+- 2Cr_24:15Joiada...murió ll de días; de 130H7646
+- 2Cr_30:15levitas ll de vergüenza se santificaron
+- Neh_9:25y heredaron casas ll de todo bienH4392
+- Job_7:4estoy ll de inquietudes hasta el albaH7646
+- Job_20:11sus huesos están ll de su juventud, masH4390
+- Job_21:24sus vasijas estarán ll de leche, y susH4390
+- Job_32:18ll estoy de palabras, y me apremia elH4390
+- Job_36:16y te preparará mesa ll de grosuraH4390
+- Job_42:17y murió Job viejo y ll de díasH7649
+- Sal_10:7ll está su boca de maldición, y deH4390
+- Sal_17:14y cuyo vientre está ll de tu tesoroH7646
+- Sal_26:10mal, y su diestra está ll de sobornosH4390
+- Sal_33:5de la misericordia...está ll la tierraH4390
+- Sal_38:7porque mis lomos están ll de ardor, yH4390
+- Sal_48:10Dios...de justicia está ll tu diestraH4390
+- Sal_65:9el río de Dios, ll de aguas, preparasH4390
+- Sal_71:8sea ll mi boca de tu alabanza, de tuH4390
+- Sal_72:19y toda la tierra sea ll de su gloriaH4390
+- Sal_74:20los lugares tenebrosos...ll de violenciaH4390
+- Sal_75:8el vino está fermentado, ll de misturaH4392
+- Sal_104:24la tierra está ll de tus beneficiosH4390
+- Sal_119:64de tu misericorida...está ll la tierraH4390
+- Sal_144:13nuestros graneros ll, provistos deH4392
+- Pro_3:10serán ll tus graneros con abundanciaH4390
+- Pro_17:1que casa de contiendas ll de provisionesH4392
+- Pro_19:23y con él vivirá ll de reposo el hombreH7949
+- Pro_20:17pero después su boca será ll de cascajoH4390
+- Ecl_4:6más vale un puño ll con descanso, queH4393
+- Ecl_4:6ambos puños ll con trabajo y aflicciónH4393
+- Ecl_9:3corazón de los...hombres está ll de malH4390
+- Ecl_10:12palabras...del sabio son ll de gracia
+- Ecl_11:3si las nubes fueren ll de aguas, sobreH4390
+- Cnt_5:2porque mi cabeza está ll de rocío, misH4390
+- Isa_1:15ll están de sangre vuestras manosH4390
+- Isa_1:21ll estuvo de justicia, en ella habitóH4392
+- Isa_2:6ll de costumbres traídas del oriente, yH4390
+- Isa_2:7tierra está ll de plata...ll de caballosH4390
+- Isa_2:8además su tierra está ll de ídolos, y seH4390
+- Isa_6:3toda la tierra está ll de su gloriaH4393
+- Isa_9:12y a boca ll devorarán a Israel. Ni conH3605
+- Isa_11:9la tierra será ll del conocimiento deH4390
+- Isa_22:2tú, ll de alborotos, ciudad turbulentaH4392
+- Isa_22:7hermosos valles fueron ll de carros, yH4390
+- Isa_28:8toda mesa está ll de vómito y suciedadH4390
+- Isa_30:27sus labios ll de ira, y su lengua comoH4390
+- Isa_34:6ll está de sangre la espada de JehováH4390
+- Isa_41:15trillo nuevo, ll de dientes; trillarásH1167
+- Isa_51:20ll de la indignación de Jehová, de laH4392
+- Jer_5:27como jaula ll de pájaros, así estánH4392
+- Jer_5:27sus casas ll de engaño; así se hicieronH4392
+- Jer_6:6ciudad...toda ella está ll de violenciaH3605
+- Jer_6:11por tanto, estoy ll de la ira de JehováH4392
+- Jer_15:9fue avergonzada y ll de confusión; y lo
+- Jer_23:10porque la tierra está ll de adúlterosH4390
+- Jer_35:5copas ll de vino, y les dije: Bebed vinoH4392
+- Jer_51:5su tierra fue ll de pecado contra elH4390
+- Eze_1:18y ll de ojos alrededor en las cuatroH4392
+- Eze_7:23ll de delitos...y la ciudad está ll deH4390
+- Eze_9:9está ll de sangre, y...ll de perversidadH4390
+- Eze_10:4la casa fue ll de la nube, y el atrioH4390
+- Eze_10:12alas y las ruedas estaban ll de ojosH4392
+- Eze_17:3gran águila...ll de plumas de diversosH4392
+- Eze_23:33serás ll de embriaguez y de dolor porH4390
+- Eze_26:2se volvió; yo seré ll, y ella desiertaH4390
+- Eze_28:12eras el sello de la...ll de sabiduríaH4392
+- Eze_28:16fuiste ll de iniquidad, y pecaste; porH4390
+- Eze_36:38ciudades desiertas serán ll de rebañosH4390
+- Eze_37:1en medio de un valle que...ll de huesosH4392
+- Joe_3:13el lagar está ll, rebosan las cubasH4390
+- Amó_2:13como se aprieta el carro ll de gavillasH4392
+- Miq_3:8mas yo estoy ll de poder del EspírituH4390
+- Nah_1:2es vengador y ll de indignación; se
+- Nah_3:1¡ay de ti, ciudad...toda ll de mentira yH4392
+- Hab_2:14la tierra será ll del conocimiento deH4390
+- Zac_8:5las calles...estarán ll de muchachosH4390
+- Mat_6:22si tu ojo es...cuerpo estará ll de luzG5460
+- Mat_13:48y una vez ll, la sacan a la orillaG4137
+- Mat_14:20sobró de los pedazos, doce cestas llG4134
+- Mat_15:37sobró de los pedazos, siete canastas llG4134
+- Mat_22:10y las bodas fueron ll de convidadosG4130
+- Mat_23:25pero por dentro estáis ll de robo y deG1073
+- Mat_23:27dentro están ll de huesos de muertosG1073
+- Mat_23:28por dentro estáis ll de hipocresía eG3324
+- Mar_4:28espiga, después grano ll en la espigaG4134
+- Mar_6:43los pedazos doce cestas ll, y de lo queG4134
+- Mar_8:19cestas ll de los pedazos recogisteis?[[G4134]]
+- Mar_8:20¿cuántas canastas ll de...recogisteis?[[G4138]]
+- Luc_1:15ll del Espíritu Santo, aun desde elG4130
+- Luc_1:41y Elisabet fue ll del Espíritu SantoG4130
+- Luc_1:67Zacarías...fue ll del Espíritu Santo, yG4130
+- Luc_4:1Jesús, ll del Espíritu Santo, volvió delG4134
+- Luc_5:12se presentó un hombre ll de lepraG4134
+- Luc_5:26y ll de temor, decían: Hoy hemos vistoG4130
+- Luc_11:34también todo tu cuerpo está ll de luzG5460
+- Luc_11:36que, si todo tu cuerpo está ll de luzG5460
+- Luc_11:39pero por dentro estáis ll de rapacidadG1073
+- Luc_16:20mendigo...a la puerta de...ll de llagas
+- Jua_1:14su gloria...ll de gracia y de verdadG4134
+- Jua_19:29estaba allí una vasija ll de vinagreG3324
+- Jua_21:11la red a tierra, ll de grandes pecesG3324
+- Hec_2:4y fueron todos ll del Espíritu SantoG4130
+- Hec_2:13burlándose, decían: Están ll de mostoG3325
+- Hec_4:8Pedro, ll del Espíritu Santo, les dijoG4130
+- Hec_4:31todos fueron ll del Espíritu Santo, yG4130
+- Hec_6:3a siete varones...ll del Espíritu SantoG4134
+- Hec_6:5varón ll de fe y del Espíritu SantoG4134
+- Hec_6:8Esteban, ll de gracia y de poder, hacíaG4134
+- Hec_7:55Esteban, ll del Espíritu Santo, puestosG4134
+- Hec_9:17recibas la vista y seas ll del EspírituG4130
+- Hec_11:24varón bueno, y ll del Espíritu Santo yG4134
+- Hec_13:9Pablo, ll del Espíritu Santo, fijando enG4130
+- Hec_13:10¡oh ll de todo engaño y de toda maldadG4134
+- Hec_13:52y los discípulos estaban ll de gozo yG4137
+- Rom_1:29ll de envidia, homicidios, contiendasG4137
+- Rom_3:14boca está ll de maldición y...amarguraG1073
+- Rom_15:14ll de bondad, ll de todo conocimientoG3324, [[G4137]]
+- 2Co_7:4ll estoy de consolación; sobreabundoG4137
+- Efe_3:19seáis ll de toda la plenitud de DiosG4137
+- Efe_5:18no os...antes bien sed ll del EspírituG4137
+- Flp_1:11ll de frutos de justicia que son porG4137
+- Flp_4:18ll, habiendo recibido de Epafrodito loG4137
+- Col_1:9pedir que seáis ll del conocimientoG4137
+- Stg_3:8la lengua es un...ll de veneno mortalG3324
+- Stg_3:17ll de misericordia y de buenos frutosG3324
+- 2Pe_2:14tienen los ojos ll de adulterio, noG3324
+- Rev_4:6había...cuatro seres vivientes ll de ojosG1073
+- Rev_4:8alrededor y por dentro...ll de ojos; y noG1073
+- Rev_5:8arpas, y copas de oro ll de incienso, queG1073
+- Rev_15:7copas de oro, ll de la ira de Dios, queG1073
+- Rev_17:3ll de nombres de blasfemia, que teníaG1073
+- Rev_17:4un cáliz de oro ll de abominaciones yG1073
+- Rev_21:9las siete copas ll de las siete plagasG1073

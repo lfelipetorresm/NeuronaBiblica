@@ -1,0 +1,131 @@
+---
+tipo: concordancia
+palabra: SANAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SANAR
+
+- Véase también Sano
+- Gén_20:17Abraham oró...y Dios sanó a AbimelecH7495
+- Lev_13:18cuando...hubiere divieso, y se sanareH7495
+- Lev_13:24hubiere en lo sanado del fuego mancha
+- Lev_13:37la tiña está sanada; él está limpio, yH7495
+- Núm_12:13te ruego, oh Dios, que la sanes ahoraH7495
+- Deu_32:39yo hiero, y yo sano; y no hay quienH7495
+- Jos_5:8gente, se quedaron...hasta que sanaronH2421
+- 2Re_1:2consultad a Baal-zebub...si he de sanarH2421
+- 2Re_2:21yo sané estas aguas, y no habrá más enH7495
+- 2Re_5:3si rogase mi señor...sanaría de su lepraH622
+- 2Re_5:6mi siervo Naamán, para que lo sanes de, suH622
+- 2Re_5:7envíe...a que sane un hombre de su lepra?[[H622]]
+- 2Re_5:11y tocará el lugar, y sanará la lepraH622
+- 2Re_8:8y consulta...¿Sanaré de esta enfermedad?[[H2421]]
+- 2Re_8:9ti, diciendo: ¿Sanaré de esta enfermedad?[[H2421]]
+- 2Re_8:10le dijo: Ve, dile: Seguramente sanarásH2421
+- 2Re_8:14¿qué...Me dijo que seguramente sanarásH2421
+- 2Re_20:5yo te sano; al tercer día subirás a laH7495
+- 2Re_20:7higos...pusieron sobre la llaga, y sanóH2421
+- 2Re_20:8¿qué señal tendré de que...me sanará, yH7495
+- 2Cr_7:14perdonaré sus...y sanaré su tierraH7495
+- 2Cr_30:20oyó Jehová a Ezequías, y sanó al puebloH7495
+- Sal_6:2sáname, oh Jehová, porque mis huesosH7495
+- Sal_30:2Jehová Dios...a ti clamé, y me sanasteH7495
+- Sal_41:4dije...sana mi alma...Contra ti he pecadoH7495
+- Sal_60:2temblar la tierra, la...sana sus roturasH7495
+- Sal_103:3es quien...que sana todas tus dolenciasH7495
+- Sal_107:20envió su palabra, y los sanó, y losH7495
+- Sal_147:3él sana a los quebrantados de corazónH7495
+- Isa_19:22y sanará...les será clemente y los sH7495
+- Isa_38:9escritura de Ezequías...enfermó y sanóH2421
+- Isa_38:21higos...pónganla en la llaga, y sanaráH2421
+- Isa_57:18he visto sus caminos; pero le sanaréH7495
+- Isa_57:19Paz, paz al...dijo Jehová; y lo sanaréH7495
+- Jer_3:22convertíos, hijos rebeldes, y sanaréH7495
+- Jer_17:14sáname, oh Jehová, y seré sano...salvoH7495
+- Jer_30:13no hay quien juzgue tu...para sanarteH8085
+- Jer_30:17mas yo...sanaré tus heridas, dice JehováH7495
+- Jer_51:8tomad bálsamo para su dolor, quizá saneH7495
+- Jer_51:9curamos a Babilonia, y no ha sanadoH7495
+- Lam_2:13tu quebrantamiento; ¿quién te sanará?[[H7495]]
+- Ose_5:13él no os podrá sanar, ni os curará laH7495
+- Ose_14:4sanaré su rebelión, los amaré de puraH7495
+- Mat_4:23sanando toda enfermedad y...dolencia enG2323
+- Mat_4:24le trajeron...los afligidos...y los sanóG2323
+- Mat_8:7y Jesús le dijo: Yo iré y le sanaréG2323
+- Mat_8:8solamente dí la palabra, y...criado sanaráG2390
+- Mat_8:13y su criado fue sanado en aquella...horaG2390
+- Mat_8:16echó fuera...y sanó a todos los enfermosG2323
+- Mat_9:35sanando toda enfermedad y toda dolenciaG2323
+- Mat_10:1autoridad...para sanar toda enfermedadG2323
+- Mat_10:8sanad enfermos, limpiad leprosos...echadG2323
+- Mat_12:10¿es lícito sanar en el día de reposo?[[G2323]]
+- Mat_12:15le siguió mucha gente, y sanaba a todosG2323
+- Mat_12:22y le sanó, de tal manera que el ciegoG2323
+- Mat_13:15oigan...y se conviertan, y yo los saneG2390
+- Mat_14:14y sanó a los que de...estaban enfermosG2323
+- Mat_15:28su hija fue sanada desde aquella horaG2390
+- Mat_15:30traía...a los pies de Jesús, y los sanóG2323
+- Mat_15:31los mancos sanados, a los cojos andarG5199
+- Mat_17:16tus discípulos...no le han podido sanarG2323
+- Mat_19:2siguieron grandes multitudes, y los sanóG2323
+- Mat_21:14vinieron a él en el templo...y los sanóG2323
+- Mar_1:34y sanó a muchos que estaban enfermosG2323
+- Mar_3:2para ver si en día de reposo le sanaríaG2323
+- Mar_3:10había sanado a muchos; de manera que porG2323
+- Mar_3:15y que tuviesen autoridad para sanarG2323
+- Mar_6:5no...salvo que sanó a unos pocos enfermosG2323
+- Mar_6:13ungían...muchos enfermos, y los sanabanG2323
+- Mar_16:18enfermos pondrán sus manos, y sanaránG2192, [[G2573]]
+- Luc_4:18enviado a sanar a los quebrantados deG309
+- Luc_4:40él, poniendo las manos sobre...los sanabaG2323
+- Luc_5:15para que les sanase de sus enfermedadesG2323
+- Luc_5:17el poder del...estaba con él para sanarG2390
+- Luc_6:7para ver si en el día de reposo lo sanaríaG2323
+- Luc_6:17y para ser sanados de sus enfermedadesG2390
+- Luc_6:18atormentados de espíritus...eran sanadosG2323
+- Luc_6:19porque poder salía de él y sanaba a todosG2390
+- Luc_7:3envió...que viniese y sanase a su siervoG1295
+- Luc_7:21sanó a muchos de enfermedades y plagasG2323
+- Luc_8:2algunas mujeres que habían sido sanadasG2390
+- Luc_8:47y cómo al instante había sido sanadaG2390
+- Luc_9:1les dio poder...y para sanar enfermedadesG2323
+- Luc_9:2envió a predicar...a sanar a los enfermosG2390
+- Luc_9:6el evangelio y sanando por todas partesG2323
+- Luc_9:11sanaba a los que necesitaban ser curadosG2323
+- Luc_9:42sanó al muchacho, y se lo devolvió a suG2390
+- Luc_10:9y sanad a los enfermos que en ella hayaG2323
+- Luc_13:14enojado de que Jesús hubiese sanado enG2323
+- Luc_13:14en éstos, pues, venid y sed sanados, yG2323
+- Luc_14:3¿es lícito sanar en el día de reposo?[[G2323]]
+- Luc_14:4y él, tomándole, le sanó, y le despidióG2323
+- Luc_17:15viendo que había sido sanado, volvióG2390
+- Luc_22:51ya; dejad...Y tocando su oreja, le sanóG2390
+- Jua_4:47le rogó que descendiese y sanase a suG2390
+- Jua_5:9aquel hombre fue sanado, y tomó su lechoG5199
+- Jua_5:10dijeron a aquel que había sido sanado: EsG2323
+- Jua_5:11el que me sanó, él...dijo: Toma tu lechoG5199
+- Jua_5:13el que había sido sanado no sabía quiénG2390
+- Jua_5:14has sido sanado: no peques más, para queG5199
+- Jua_5:15aviso...Jesús era el que le había sanadoG5199
+- Jua_7:23en el día de reposo sané...a un hombre?[[G5199]]
+- Jua_11:12dijeron entonces sus...si duerme, sanaráG4982
+- Jua_12:40no vean...y se conviertan, y yo los saneG2390
+- Hec_3:11el cojo que había sido sanado, todoG2390
+- Hec_4:9de qué manera éste haya sido sanadoG4982
+- Hec_4:14viendo al...que había sido sanado, queG2323
+- Hec_5:16muchos venían a...y todos eran sanadosG2323
+- Hec_8:7muchos paralíticos y cojos eran sanadosG2323
+- Hec_9:34Eneas, Jesucristo te sana; levántate yG2390
+- Hec_10:38sanando a todos los oprimidos por elG2390
+- Hec_14:9y viendo que tenía fe para ser sanadoG4982
+- Hec_28:8Pablo...le impuso las manos, y le sanóG2390
+- Hec_28:9los otros que...venían, y eran sanadosG2323
+- Hec_28:27corazón, y se conviertan, y yo...saneG2392
+- 1Co_12:28los que sanan, los que ayudan, losG2386
+- Heb_12:13cojo no se salga...sino que sea sanadoG2390
+- Stg_5:16y orad unos...para que seáis sanadosG2390
+- 1Pe_2:24y por cuya herida fuisteis sanadosG2390
+- Rev_13:3pero su herida mortal fue sanada; y seG2323
+- Rev_13:12bestia, cuya herida mortal fue sanadaG2323

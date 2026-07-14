@@ -1,0 +1,802 @@
+---
+tipo: concordancia
+palabra: JERUSALÉN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JERUSALÉN
+
+- = Jebús
+- Jos_10:1rey de J oyó que Josué había tomadoH3389
+- Jos_10:3Adonisedec rey de J envió a Hoham...reyH3389
+- Jos_10:5, Jos_10:23el rey de J, el rey de Hebrón, elH3389
+- Jos_12:10rey de J, otro; el rey de Hebrón, otroH3389
+- Jos_15:8sube...al lado sur del jebuseo, que es JH3389
+- Jos_15:63mas a los jebuseos que habitaban en JH3389
+- Jos_15:63y ha quedado el jebuseo en J con losH3389
+- Jos_18:28Zela, Elef, Jebús (que es J), Gabaa yH3389
+- Jue_1:7dijo...Y le llevaron a J, donde murióH3389
+- Jue_1:8combatieron los hijos de Judá a J y laH3389
+- Jue_1:21mas al jebuseo que habitaba en J no loH3389
+- Jue_1:21el jebuseo habitó con...Benjamín en JH3389
+- Jue_19:10llegó...enfrente de Jebús, que es J, conH3389
+- 1Sa_17:54David tomó la cabeza...la trajo a JH3389
+- 2Sa_5:5en J reinó 33 años sobre todo IsraelH3389
+- 2Sa_5:6entonces marchó el rey...sus hombres a JH3389
+- 2Sa_5:13tomó David...concubinas y mujeres de JH3389
+- 2Sa_5:14los nombres de los que le nacieron en JH3389
+- 2Sa_8:7tomó David los escudos de...los llevó a JH3389
+- 2Sa_9:13y moraba Mefi-boset en J, porque comíaH3389
+- 2Sa_10:14volvió, pues Joab...de Amón, y vino a JH3389
+- 2Sa_11:1envió a Joab...pero David se quedó en JH3389
+- 2Sa_11:12y se quedó Urías en J aquel día y elH3389
+- 2Sa_12:31y volvió David con todo el pueblo a JH3389
+- 2Sa_14:23y fue a Gesur, y trajo a Absalón a JH3389
+- 2Sa_14:28y estuvo Absalón por...de dos años en JH3389
+- 2Sa_15:8diciendo: Si Jehová me hiciere volver a JH3389
+- 2Sa_15:11y, fueron con Absalón 200 hombres de JH3389
+- 2Sa_15:14sus siervos que estaban con él en JH3389
+- 2Sa_15:29Sadoc y...volvieron el arca de Dios a JH3389
+- 2Sa_15:37así vino Husai...y Absalón entró en JH3389
+- 2Sa_16:3Siba respondió...él se ha quedado en JH3389
+- 2Sa_16:15Absalón y toda...Israel, entraron en JH3389
+- 2Sa_17:20como...no los hallaron, volvieron a JH3389
+- 2Sa_19:19día en que mi señor el rey salió de JH3389
+- 2Sa_19:25luego que vino él a J a recibir al reyH3389
+- 2Sa_19:33pasa...y yo te sustentaré conmigo en JH3389
+- 2Sa_19:34Barzilai dijo...yo suba con el rey a J?[[H3389]]
+- 2Sa_20:2siguieron a su...desde el Jordán hasta JH3389
+- 2Sa_20:3luego que llegó David a su casa en JH3389
+- 2Sa_20:7salieron de J para ir tras Seba hijo deH3389
+- 2Sa_20:22ciudad...y Joab se volvió al rey a JH3389
+- 2Sa_24:8volvieron a J al cabo de nueve meses yH3389
+- 2Sa_24:16el ángel extendió su mano sobre J paraH3389
+- 1Re_2:11reinó en Hebrón, y 33 años reinó en JH3389
+- 1Re_2:36dijo: Edifícale una casa en J y mora ahíH3389
+- 1Re_2:38hará...Y habitó Simei en J muchos díasH3389
+- 1Re_2:41que Simei había ido de J hasta Gat, yH3389
+- 1Re_3:1que acababa de edificar...los muros de JH3389
+- 1Re_3:15y vino a J, y se presentó delante delH3389
+- 1Re_8:1Salomón reunió...en J a los ancianos deH3389
+- 1Re_9:15para edificar...y el muro de J, y HazorH3389
+- 1Re_9:19lo que Salomón quiso edificar en J, enH3389
+- 1Re_10:2y vino a J con un séquito muy grandeH3389
+- 1Re_10:26los cuales puso en...y con el rey en JH3389
+- 1Re_10:27que en J la plata llegara a ser comoH3389
+- 1Re_11:7en el monte que está enfrente de J, yH3389
+- 1Re_11:13por amor a J, la cual yo he elegidoH3389
+- 1Re_11:29saliendo Jeroboam de J, le encontró enH3389
+- 1Re_11:32él tendrá una tribu por...por amor a JH3389
+- 1Re_11:36lámpara...delante de mí en J, ciudad queH3389
+- 1Re_11:42los días que Salomón reinó en J sobreH3389
+- 1Re_12:18el rey Roboam se apresuró a...huir a JH3389
+- 1Re_12:21cuando Roboam vino a J, reunió a todaH3389
+- 1Re_12:27a ofrecer...en la casa de Jehová en JH3389
+- 1Re_12:28bastante habéis subido a J; he aquí tusH3389
+- 1Re_14:21Roboam...17 años reinó en J, ciudad queH3389
+- 1Re_14:25subió Sisac rey de Egipto contra JH3389
+- 1Re_15:2reinó tres años en J. El nombre de suH3389
+- 1Re_15:4mas...Jehová su Dios le dio lámpara en JH3389
+- 1Re_15:4levantando a su hijo...sosteniendo a JH3389
+- 1Re_15:10y reinó 41 años en J; el nombre de suH3389
+- 1Re_22:42era Josafat de...y reinó 25 años en JH3389
+- 2Re_8:17de 32 años era...ocho años reinó en JH3389
+- 2Re_8:26reinó un año en J. El nombre de su madreH3389
+- 2Re_9:28sus siervos le llevaron en un carro a JH3389
+- 2Re_12:1reinar Joás, y reinó cuarenta años en JH3389
+- 2Re_12:17y se propuso Hazael subir contra JH3389
+- 2Re_12:18lo envió a Hazael...y él se retiró de JH3389
+- 2Re_14:2comenzó a reinar...y 29 años reinó en JH3389
+- 2Re_14:2el nombre de su madre fue Joadán, de JH3389
+- 2Re_14:13vino a J, y rompió el muro de J desdeH3389
+- 2Re_14:19conspiraron contra él en J, y él huyóH3389
+- 2Re_14:20lo sepultaron en J con sus padres enH3389
+- 2Re_15:2comenzó a reinar...y 52 años reinó en JH3389
+- 2Re_15:2nombre de su madre fue Jecolías, de JH3389
+- 2Re_15:33comenzó a...y reinó dieciséis años en JH3389
+- 2Re_16:2Acaz era...y reinó en J dieciséis añosH3389
+- 2Re_16:5subieron a J para hacer guerra...a AcazH3389
+- 2Re_18:2comenzó...y reinó en J veintinueve añosH3389
+- 2Re_18:17contra J, y subieron y vinieron a JH3389
+- 2Re_18:22Ezequías...ha dicho a Judá y a J: DelanteH3389
+- 2Re_18:22delante de este altar adoraréis en J?[[H3389]]
+- 2Re_18:35para que Jehová libre de mi mano a J?[[H3389]]
+- 2Re_19:10J no será entregada en mano del rey deH3389
+- 2Re_19:21detrás...mueve su cabeza la hija de JH3389
+- 2Re_19:31saldrá de J remanente, y del monte deH3389
+- 2Re_21:1Manasés...reinó en J 55 años; el nombreH3389
+- 2Re_21:4había dicho: Yo pondré mi nombre en JH3389
+- 2Re_21:7pondré mi nombre...en esta casa, y en JH3389
+- 2Re_21:12yo traigo tal mal sobre J y sobre JudáH3389
+- 2Re_21:13extenderé sobre J el cordel de SamariaH3389
+- 2Re_21:13limpiaré a J como se limpia un platoH3389
+- 2Re_21:16derramó...sangre inocente...llenar a J deH3389
+- 2Re_21:19Amón...reinó dos años en J...El nombreH3389
+- 2Re_22:1Josías...y reinó en J treinta y un añosH3389
+- 2Re_22:14profetisa Hulda...la cual moraba en JH3389
+- 2Re_23:1rey mandó reunir...los ancianos...de JH3389
+- 2Re_23:2subió el rey...con...los moradores de JH3389
+- 2Re_23:4los quemó fuera de J en el campo delH3389
+- 2Re_23:5los lugares altos...los alrededores de JH3389
+- 2Re_23:6sacar la imagen...fuera de J...y la quemóH3389
+- 2Re_23:9no subían al altar de Jehová en J, sinoH3389
+- 2Re_23:13lugares altos que estaban delante de JH3389
+- 2Re_23:20mató...los sacerdotes de...y volvió a JH3389
+- 2Re_23:23fue hecha aquella pascua a Jehová en JH3389
+- 2Re_23:24barrió Josías...las abominaciones...en JH3389
+- 2Re_23:27desecharé a esta ciudad...a J, y a laH3389
+- 2Re_23:30lo trajeron muerto de Meguido a J, yH3389
+- 2Re_23:31de 23 años era...y reinó tres meses en JH3389
+- 2Re_23:33puso preso...para que no reinase en JH3389
+- 2Re_23:36Joacim...a reinar, y 11 años reinó en JH3389
+- 2Re_24:4Manasés...llenó a J de sangre inocenteH3389
+- 2Re_24:8era Joaquín...y reinó en J tres mesesH3389
+- 2Re_24:8su madre fue Nehusta...de Elnatán, de JH3389
+- 2Re_24:10subieron contra J los...rey de BabiloniaH3389
+- 2Re_24:14llevó en cautiverio a toda J, a todosH3389
+- 2Re_24:15cautivos los llevó de J a BabiloniaH3389
+- 2Re_24:18era Sedequías...y reinó en J once añosH3389
+- 2Re_24:20vino, pues, la ira de Jehová contra JH3389
+- 2Re_25:1Nabucodonosor rey...ejército contra JH3389
+- 2Re_25:8a J Nabuzaradán, capitán de la guardiaH3389
+- 2Re_25:9quemó...todas las casas de J; y todas lasH3389
+- 2Re_25:10caldeos...derribó...muros alrededor de JH3389
+- 1Cr_3:4y en J reinó treinta y tres añosH3389
+- 1Cr_3:5cuatro le nacieron en J: Simea, SobabH3389
+- 1Cr_6:10en la casa que Salomón edificó en JH3389
+- 1Cr_6:15cautivo cuando Jehová transportó...a JH3389
+- 1Cr_6:32que Salomón edificó la casa de...en JH3389
+- 1Cr_8:28estos fueron jefes...y habitaron en JH3389
+- 1Cr_8:32también habitaron con sus hermanos en JH3389
+- 1Cr_9:3habitaron en J, de los hijos de Judá, deH3389
+- 1Cr_9:34jefes de familias...que habitaban en JH3389
+- 1Cr_9:38habitaban también en J con sus hermanosH3389
+- 1Cr_11:4se fue David con...a J, la cual es JebúsH3389
+- 1Cr_14:3David tomó...mujeres en J, y engendróH3389
+- 1Cr_14:4los nombres de los que le nacieron en JH3389
+- 1Cr_15:3congregó David a todo Israel en J, paraH3389
+- 1Cr_18:7tomó...escudos de oro...y los trajo a JH3389
+- 1Cr_19:15habían huido...Entonces Joab volvió a JH3389
+- 1Cr_20:1David estaba en J; y Joab batió a RabáH3389
+- 1Cr_20:3y volvió David con todo el pueblo a JH3389
+- 1Cr_21:4volvió a J y dio la cuenta del númeroH3389
+- 1Cr_21:15y envió Jehová el ángel a J...destruirlaH3389
+- 1Cr_21:16una espada desnuda...extendida contra JH3389
+- 1Cr_23:25Jehová...él habitará en J para siempreH3389
+- 1Cr_28:1reunió David en J...los principales deH3389
+- 1Cr_29:27en Hebrón, y treinta y tres reinó en JH3389
+- 2Cr_1:4le había levantado una tienda en JH3389
+- 2Cr_1:13volvió Salomón a J, y reinó sobre IsraelH3389
+- 2Cr_1:14jinetes, los cuales puso...el rey en JH3389
+- 2Cr_1:15acumuló el rey plata y oro en J comoH3389
+- 2Cr_2:7esculpir con los maestros...Judá y en JH3389
+- 2Cr_2:16la madera...y tú la harás llevar hasta JH3389
+- 2Cr_3:1comenzó Salomón...la casa de Jehová en JH3389
+- 2Cr_5:2Salomón reunió en J a los ancianos deH3389
+- 2Cr_6:6a J he elegido para que en ella esté miH3389
+- 2Cr_8:6todo lo que Salomón quiso edificar en JH3389
+- 2Cr_9:1oyendo la reina de Sabá...vino a J con unH3389
+- 2Cr_9:25los cuales puso en...y con el rey en JH3389
+- 2Cr_9:27acumuló el rey plata en J como piedrasH3389
+- 2Cr_9:30reinó Salomón en J sobre todo Israel 40H3389
+- 2Cr_10:18el rey...subiendo en su carro huyó a JH3389
+- 2Cr_11:1cuando vino Roboam a J, reunió de laH3389
+- 2Cr_11:5habitó Roboam en J, y edificó ciudadesH3389
+- 2Cr_11:14los levitas...venían a Judá y a J; puesH3389
+- 2Cr_11:16vinieron a J para ofrecer sacrificiosH3389
+- 2Cr_12:2año...subió Sisac rey de Egipto contra JH3389
+- 2Cr_12:4las ciudades...de Judá, y llegó hasta JH3389
+- 2Cr_12:5que estaban reunidos en J por causa deH3389
+- 2Cr_12:7y no se derramará mi ira contra J porH3389
+- 2Cr_12:9subió, pues, Sisac rey de Egipto a J, yH3389
+- 2Cr_12:13fortalecido, pues, Roboam, reinó en JH3389
+- 2Cr_12:13era Roboam de 41...17 años reinó en JH3389
+- 2Cr_13:2reinó tres años en J. El nombre de suH3389
+- 2Cr_14:15atacaron las cabañas...y volvieron a JH3389
+- 2Cr_15:10se reunieron, pues, en J, en el mesH3389
+- 2Cr_17:13hombres de guerra muy valientes en JH3389
+- 2Cr_19:1Josafat...volvió en paz a su casa en JH3389
+- 2Cr_19:4habitó, pues, Josafat en J...y salía alH3389
+- 2Cr_19:8puso...Josafat en J a...Y volvieron a JH3389
+- 2Cr_20:5Josafat...en pie en la asamblea de...de JH3389
+- 2Cr_20:15oíd, Judá...y vosotros moradores de JH3389
+- 2Cr_20:17oh Judá y J, no temáis ni desmayéisH3389
+- 2Cr_20:18moradores de J se postraron delante deH3389
+- 2Cr_20:20oídme, Judá y moradores de J...Creed enH3389
+- 2Cr_20:27todo Judá y los de J...volvieron...a JH3389
+- 2Cr_20:28vinieron a J con salterios, arpas yH3389
+- 2Cr_20:31así reinó Josafat...reinó 25 años en JH3389
+- 2Cr_21:5era de 32 años, y reinó ocho años en JH3389
+- 2Cr_21:11moradores de J fornicasen tras ellosH3389
+- 2Cr_21:13que fornicase Judá y los moradores de JH3389
+- 2Cr_21:20reinó en J ocho años; y murió sin queH3389
+- 2Cr_22:1de J hicieron rey en lugar de Joram aH3389
+- 2Cr_22:2Ocozías comenzó a...y reinó un año en JH3389
+- 2Cr_23:2recorrieron el país de...y vinieron a JH3389
+- 2Cr_24:1era Joás...y cuarenta años reinó en JH3389
+- 2Cr_24:6traigan de...de J la ofrenda que MoisésH3389
+- 2Cr_24:9hicieron pregonar...en J, que trajesenH3389
+- 2Cr_24:18la ira de Dios vino sobre Judá y J porH3389
+- 2Cr_24:23de Siria; y vinieron a Judá y a J, yH3389
+- 2Cr_25:1años era Amasías...y 29 años reinó en JH3389
+- 2Cr_25:1el nombre de su madre fue Joadán, de JH3389
+- 2Cr_25:23lo llevó a J, y derribó el muro de JH3389
+- 2Cr_25:27empezaron a conspirar contra él en JH3389
+- 2Cr_26:3de 16 años era...y 52 años reinó en JH3389
+- 2Cr_26:3nombre de su madre fue Jecolías, de JH3389
+- 2Cr_26:9edificó...Uzías torres en J, junto a laH3389
+- 2Cr_26:15e hizo en J máquinas inventadas porH3389
+- 2Cr_27:1años era Jotam...16 años reinó en JH3389
+- 2Cr_27:8comenzó...de 25 años, y 16 reinó en JH3389
+- 2Cr_28:1era Acaz...y dieciséis años reinó en JH3389
+- 2Cr_28:10sujetar a vosotros a Judá y a J comoH3389
+- 2Cr_28:24Acaz...se hizo altares en J en todos losH3389
+- 2Cr_28:27Acaz...la sepultaron en la ciudad de JH3389
+- 2Cr_29:1Ezequías...reinó veintinueve años en JH3389
+- 2Cr_29:8la ira de Jehová ha venido sobre...y JH3389
+- 2Cr_30:1que viniesen a J a la casa de JehováH3389
+- 2Cr_30:2y con toda la congregación en J, paraH3389
+- 2Cr_30:3no...ni el pueblo se había reunido en JH3389
+- 2Cr_30:5viniesen a celebrar la pascua a...en JH3389
+- 2Cr_30:11de Aser...se humillaron, y vinieron a JH3389
+- 2Cr_30:13reunió en J mucha gente para celebrarH3389
+- 2Cr_30:14quitaron los altares que había en JH3389
+- 2Cr_30:21los hijos de Israel que estaban en JH3389
+- 2Cr_30:26hubo entonces...regocijo en J; porqueH3389
+- 2Cr_30:26no había habido cosa semejante en JH3389
+- 2Cr_31:4mandó...al pueblo que habitaban en J, queH3389
+- 2Cr_32:2viendo...y su intención de combatir a JH3389
+- 2Cr_32:9siervos a J para decir a Ezequías reyH3389
+- 2Cr_32:9y a todos los de Judá que estaban en JH3389
+- 2Cr_32:10confiáis...al resistir el sitio en J?[[H3389]]
+- 2Cr_32:12ha dicho a Judá y a J: Delante de esteH3389
+- 2Cr_32:18clamaron a gran voz...al pueblo de JH3389
+- 2Cr_32:19y hablaron contra el Dios de J, comoH3389
+- 2Cr_32:22salvó Jehová...a los moradores de J deH3389
+- 2Cr_32:23muchos trajeron a J ofrenda a JehováH3389
+- 2Cr_32:25la ira contra él, y contra Judá y JH3389
+- 2Cr_32:26se humilló, él y los moradores de JH3389
+- 2Cr_32:33honrándole en su...todo Judá y toda JH3389
+- 2Cr_33:1años era Manasés...y 55 años reinó en JH3389
+- 2Cr_33:4en J estará mi nombre perpetuamenteH3389
+- 2Cr_33:7en esta casa y en J, la cual yo elegíH3389
+- 2Cr_33:9hizo extraviarse...los moradores de JH3389
+- 2Cr_33:13oyó su...y lo restauró a J, a su reinoH3389
+- 2Cr_33:15quitó...todos los altares...en J, y losH3389
+- 2Cr_33:21Amón...a reinar, y dos años reinó en JH3389
+- 2Cr_34:1Josías...y treinta y un años reinó en JH3389
+- 2Cr_34:3comenzó a limpiar a Judá y a J de losH3389
+- 2Cr_34:5quemó además los...y limpió a Judá y a JH3389
+- 2Cr_34:7cuando hubo derribado los...volvió a JH3389
+- 2Cr_34:9habían recogido...de los habitantes de JH3389
+- 2Cr_34:22Hulda profetisa...la cual moraba en JH3389
+- 2Cr_34:29reunió a todos los ancianos de...y de JH3389
+- 2Cr_34:30y subió el rey...y los moradores de JH3389
+- 2Cr_34:32se obligaran...los que estaban en J yH3389
+- 2Cr_34:32J hicieron conforme al pacto de DiosH3389
+- 2Cr_35:1Josías celebró la pascua a Jehová en JH3389
+- 2Cr_35:18la que celebró...con los moradores de JH3389
+- 2Cr_35:24carro...y lo llevaron a J, donde murióH3389
+- 2Cr_35:24todo Judá y J hicieron duelo por JosíasH3389
+- 2Cr_36:1tomó a Joacaz hijo...lo hizo rey...en JH3389
+- 2Cr_36:2años era Joacaz...tres meses reinó en JH3389
+- 2Cr_36:3rey de Egipto lo quitó de J, y condenóH3389
+- 2Cr_36:4Egipto a Eliaquim...rey sobre Judá y JH3389
+- 2Cr_36:5Joacim era de...y reinó once años en JH3389
+- 2Cr_36:9Joaquín...reinó 3 meses y 10 días en JH3389
+- 2Cr_36:10a Sedequías...por rey sobre Judá y JH3389
+- 2Cr_36:11era Sedequías...y once años reinó en JH3389
+- 2Cr_36:14casa...cual él había santificado en JH3389
+- 2Cr_36:19quemaron la...y rompieron el muro de JH3389
+- 2Cr_36:23ha mandado que le edifique casa en JH3389
+- Esd_1:2ha mandado que le edifique casa en JH3389
+- Esd_1:3y suba a J que está en Judá, y edifiqueH3389
+- Esd_1:3y edifique la casa a...la cual está en JH3389
+- Esd_1:4para la casa de Dios, la cual está en JH3389
+- Esd_1:5edificar la casa de...la cual está en JH3389
+- Esd_1:7Nabucodonosor había sacado de J, y losH3389
+- Esd_1:11con los que subieron...de Babilonia a JH3389
+- Esd_2:1que volvieron a J y a Judá, cada uno aH3389
+- Esd_2:68cuando vinieron a la casa de Jehová...JH3389
+- Esd_3:1juntó el pueblo como un solo hombre en JH3389
+- Esd_3:8de su venida a la casa de Dios en J, enH3389
+- Esd_3:8que habían venido de la cautividad a JH3389
+- Esd_4:6escribieron...contra los...de Judá y de JH3389
+- Esd_4:8escribieron...contra J al rey ArtajerjesH3389
+- Esd_4:12los judíos que subieron...vinieron a JH3389
+- Esd_4:20hubo en J reyes fuertes que dominaronH3389
+- Esd_4:23a J a los judíos, y les hicieron cesarH3389
+- Esd_4:24cesó la obra de la casa de Dios...en JH3389
+- Esd_5:1profetizaron Hageo...a los judíos...en JH3389
+- Esd_5:2a reedificar la casa de Dios que...en JH3389
+- Esd_5:14había sacado del templo que estaba en JH3389
+- Esd_5:15llévalos al templo que está en J; y seaH3389
+- Esd_5:16los cimientos de la casa de Dios...en JH3389
+- Esd_5:17para reedificar esta casa de Dios en JH3389
+- Esd_6:3Ciro dio orden acerca de la casa...en JH3389
+- Esd_6:5Nabucodonosor sacó del templo que...en JH3389
+- Esd_6:5vayan a su lugar, al templo...está en JH3389
+- Esd_6:9lo que dijeren los sacerdotes...en J, lesH3389
+- Esd_6:12o destruir esa casa de Dios...está en JH3389
+- Esd_6:18levitas...para el servicio de Dios en JH3389
+- Esd_7:7con él subieron a J algunos de...IsraelH3389
+- Esd_7:8llegó a J en el mes quinto del año...reyH3389
+- Esd_7:9y al primero del mes quinto llegó a JH3389
+- Esd_7:13aquel...que quiera ir contigo a J, vayaH3389
+- Esd_7:14eres enviado a visitar a Judea y a JH3389
+- Esd_7:15Dios de Israel, cuya morada está en JH3389
+- Esd_7:16la casa de su Dios, la cual está en JH3389
+- Esd_7:17sobre el altar de la casa...está en JH3389
+- Esd_7:19los restituirás delante de Dios en JH3389
+- Esd_7:27honrar la casa de Jehová que está en JH3389
+- Esd_8:29los jefes de las casas paternas...en JH3389
+- Esd_8:30traerlo a J a la casa de nuestro DiosH3389
+- Esd_8:31y partimos del río Ahava...para ir a JH3389
+- Esd_8:32llegamos a J, y reposamos allí 3 díasH3389
+- Esd_9:9para...darnos protección en Judá y en JH3389
+- Esd_10:7hicieron pregonar...en J que todos losH3389
+- Esd_10:7hijos del cautiverio se reuniesen en JH3389
+- Esd_10:9reunieron en J dentro de los tres díasH3389
+- Neh_1:2les pregunté por los judíos...y por JH3389
+- Neh_1:3y el muro de J derribado, y sus puertasH3389
+- Neh_2:11llegué...a J, y después de estar allíH3389
+- Neh_2:12puesto en mi corazón que hiciese en JH3389
+- Neh_2:13observé los muros de J que...derribadosH3389
+- Neh_2:17veis...que J está desierta, y sus puertasH3389
+- Neh_2:17venid, y edifiquemos el muro de J, y noH3389
+- Neh_2:20no tenéis...ni derecho ni memoria en JH3389
+- Neh_3:8dejaron reparada a J hasta el muro anchoH3389
+- Neh_3:9, Neh_3:12gobernador de la mitad de la...de JH3389
+- Neh_4:7oyendo...que los muros de J eran reparadosH3389
+- Neh_4:8y conspiraron...para venir a atacar a JH3389
+- Neh_4:22cada uno con su...permanezca dentro de JH3389
+- Neh_6:7que proclamen acerca de ti en J, diciendoH3389
+- Neh_7:2y a Hananías, jefe de la fortaleza de JH3389
+- Neh_7:3no se abran las puertas de J hasta queH3389
+- Neh_7:3y señalé guardas de los moradores de JH3389
+- Neh_7:6y que volvieron a J y a Judá, cada unoH3389
+- Neh_8:15y pasar pregón...por J, diciendo: SalidH3389
+- Neh_11:1habitaron los jefes del pueblo en JH3389
+- Neh_11:1uno de cada diez para que morase en JH3389
+- Neh_11:2varones...se ofrecieron para morar en JH3389
+- Neh_11:3éstos son los jefes...que moraron en JH3389
+- Neh_11:4en J, pues, habitaron algunos de...JudáH3389
+- Neh_11:6hijos de Fares que moraron en J fueronH3389
+- Neh_11:22y el jefe de los levitas en J era UziH3389
+- Neh_12:27para la dedicación...muro de J buscaronH3389
+- Neh_12:27traerlos a J, para hacer la dedicaciónH3389
+- Neh_12:28así de la región alrededor de J comoH3389
+- Neh_12:29habían edificado aldeas alrededor de JH3389
+- Neh_12:43el alborozo de J fue oído desde lejosH3389
+- Neh_13:6yo no estaba en J, porque en el año 32H3389
+- Neh_13:7volver a J; y...supe del mal que habíaH3389
+- Neh_13:15vi...y que traían a J en día de reposoH3389
+- Neh_13:16vendían en día de reposo a los...en JH3389
+- Neh_13:19iba oscureciendo a las puertas de JH3389
+- Neh_13:20se quedaron fuera de J una y dos vecesH3389
+- Est_2:6el cual había sido transportado de JH3389
+- Sal_51:18haz bien con...edifica los muros de JH3389
+- Sal_68:29por razón de tu templo en J los reyesH3389
+- Sal_79:1han profanado...redujeron a J a escombrosH3389
+- Sal_79:3sangre como agua en...J, y no hubo quienH3389
+- Sal_102:21para que publique...su alabanza en JH3389
+- Sal_116:19en los atrios...en medio de ti, oh JH3389
+- Sal_122:2pies estuvieron...de tus puertas, oh JH3389
+- Sal_122:3J, que se ha edificado como una ciudadH3389
+- Sal_122:6pedid por la paz de J...prosperados losH3389
+- Sal_125:2como J tiene montes...así Jehová estáH3389
+- Sal_128:5y veas el bien de J todos los días deH3389
+- Sal_135:21sea bendecido Jehová, quien mora en JH3389
+- Sal_137:5si me olvidare de ti, oh J, pierda miH3389
+- Sal_137:6si no enalteciere a J como preferenteH3389
+- Sal_137:7recuerda contra...de Edom el día de JH3389
+- Sal_147:2Jehová edifica a J; a los desterradosH3389
+- Sal_147:12alaba a Jehová, J; alaba a tu Dios, ohH3389
+- Ecl_1:1palabras del...hijo de David, rey en JH3389
+- Ecl_1:12el Predicador fui rey sobre Israel en JH3389
+- Ecl_1:16; Ecl_2:7, Ecl_2:9los que fueron antes de mí en JH3389
+- Cnt_1:5morena...oh hijas de J, pero codiciableH3389
+- Cnt_2:7; Cnt_3:5yo os conjuro, oh doncellas de JH3389
+- Cnt_3:10recamado de amor por las doncellas de JH3389
+- Cnt_5:8yo os conjuro, oh doncellas de J, siH3389
+- Cnt_5:16tal...tal es mi amigo, oh doncellas de JH3389
+- Cnt_6:4hermosa eres tú, oh...y de desear, como JH3389
+- Cnt_8:4os conjuro, oh doncellas de J, que noH3389
+- Isa_1:1visión de Isaías...acerca de Judá y JH3389
+- Isa_2:1lo que vio Isaías...acerca de Judá y de JH3389
+- Isa_2:3de Sion...ley, y de J la palabra de JehováH3389
+- Isa_3:1quita de J y de Judá al sustentador y alH3389
+- Isa_3:8pues arruinada está J, y Judá ha caídoH3389
+- Isa_4:3fuere dejado en J, será llamado santoH3389
+- Isa_4:3los que en J estén registrados entre losH3389
+- Isa_4:4y limpie la sangre de J de en medio deH3389
+- Isa_5:3vecinos de J y varones de Judá, juzgadH3389
+- Isa_7:1Peka...subieron contra J para combatirlaH3389
+- Isa_8:14y por lazo y por red al morador de JH3389
+- Isa_10:10siendo sus imágenes más que las de JH3389
+- Isa_10:11¿no haré también así a J y a...ídolos?[[H3389]]
+- Isa_10:12toda su obra en el monte de Sion y en JH3389
+- Isa_10:32alzará su mano al monte...collado de JH3389
+- Isa_22:10las casas de J, y derribasteis casasH3389
+- Isa_22:21y será padre al morador de J, y a laH3389
+- Isa_24:23Jehová de los ejércitos reine...y en JH3389
+- Isa_27:13adorarán a...en el monte santo, en JH3389
+- Isa_28:14gobernáis a este pueblo que está en JH3389
+- Isa_30:19el pueblo morará en Sion, en J; nuncaH3389
+- Isa_31:5amparará Jehová de los ejércitos a JH3389
+- Isa_31:9cuyo fuego...en Sion, y su horno en JH3389
+- Isa_33:20tus ojos verán a J, morada de quietudH3389
+- Isa_36:2rey de Asiria envió al Rabsaces...a JH3389
+- Isa_36:7a J: Delante de este altar adoraréis?[[H3389]]
+- Isa_36:20para que Jehová libre de mi mano a JH3389
+- Isa_37:10J no será entregada en mano del rey deH3389
+- Isa_37:22detrás...mueve su cabeza la hija de JH3389
+- Isa_37:32de J saldrá un remanente, y...de SionH3389
+- Isa_40:2hablad al corazón de J; decidle a vocesH3389
+- Isa_40:9Sion; levanta...tu voz, anunciadora de JH3389
+- Isa_41:27J daré un mensajero de alegres nuevasH3389
+- Isa_44:26que dice a J: Serás habitada; y a lasH3389
+- Isa_44:28de Ciro...al decir a J: Serás edificadaH3389
+- Isa_51:17oh J, que bebiste de la mano de JehováH3389
+- Isa_52:1vístete tu ropa hermosa, oh J, ciudadH3389
+- Isa_52:2siéntate, J; suelta las ataduras de tuH3389
+- Isa_52:9alegraos...de J; porque...a J ha redimidoH3389
+- Isa_62:1por amor de J no descansaré, hasta queH3389
+- Isa_62:6sobre tus muros...J, he puesto guardasH3389
+- Isa_62:7hasta que restablezca a J, y la pongaH3389
+- Isa_64:10Sion es un desierto, J una soledadH3389
+- Isa_65:18yo traigo a J alegría, y a su puebloH3389
+- Isa_65:19y me alegraré con J, y me gozaré conH3389
+- Isa_66:10alegraos con J, y gozaos con ellaH3389
+- Isa_66:13os consolaré...en J tomaréis consueloH3389
+- Isa_66:20a mi santo monte de J, dice Jehová, alH3389
+- Jer_1:3la cautividad de J en el mes quintoH3389
+- Jer_1:15cada uno su campamento a...puertas de JH3389
+- Jer_2:2anda y clama a los oídos de J, diciendoH3389
+- Jer_3:17llamarán a J: Trono de Jehová, y todasH3389
+- Jer_3:17vendrán a...en el nombre de Jehová en JH3389
+- Jer_4:3dice Jehová a todo varón de Judá y de JH3389
+- Jer_4:4circuncidaos a Jehová...moradores de JH3389
+- Jer_4:5proclamad en J, y decid: Tocad trompetaH3389
+- Jer_4:10dije...has engañado a este pueblo y a JH3389
+- Jer_4:11dirá a este pueblo y a J: Viento secoH3389
+- Jer_4:14lava tu corazón de maldad, oh J, paraH3389
+- Jer_4:16aquí, haced oír sobre J: Guardas vienenH3389
+- Jer_5:1recorred las calles de J, y mirad ahoraH3389
+- Jer_6:1huid...de en medio de J, y tocad bocinaH3389
+- Jer_6:6y levantad vallado contra J; esta es laH3389
+- Jer_6:8corrígete, J...no se aparte mi alma de tiH3389
+- Jer_7:17lo que éstos hacen en las calles de J?[[H3389]]
+- Jer_7:34haré cesar...de las calles de J, la vozH3389
+- Jer_8:1sacarán...los huesos de los moradores de JH3389
+- Jer_8:5¿por qué es este pueblo de J rebelde conH3389
+- Jer_9:11reduciré a J a un montón de ruinas...JudáH3389
+- Jer_11:2hablad a...Judá, y a todo morador de JH3389
+- Jer_11:6en las calles de J, diciendo: Oíd lasH3389
+- Jer_11:9conspiración se ha hallado entre...de JH3389
+- Jer_11:12irán las ciudades de Judá y los...de JH3389
+- Jer_11:13oh J, pusiste los altares de ignominiaH3389
+- Jer_13:9haré podrir la...la mucha soberbia de JH3389
+- Jer_13:13lleno de embriaguez a...moradores de JH3389
+- Jer_13:27¡ay de ti, J! ¿No serás al fin limpia?[[H3389]]
+- Jer_14:2se enlutó Judá...y subió el clamor de JH3389
+- Jer_14:16echado en las calles de J por hambreH3389
+- Jer_15:4causa de Manasés...por lo que hizo en JH3389
+- Jer_15:5¿quién tendrá compasión de ti, oh J?[[H3389]]
+- Jer_17:19vé...y ponte en todas las puertas de JH3389
+- Jer_17:20diles: Oíd la palabra...moradores de JH3389
+- Jer_17:21, Jer_17:27y de meterla por las puertas de JH3389
+- Jer_17:25varones de Judá y los moradores de JH3389
+- Jer_17:26vendrán...Judá, de los alrededores de JH3389
+- Jer_17:27consumirá los palacios de J, y no seH3389
+- Jer_18:11habla...a los moradores de J, diciendoH3389
+- Jer_19:3oíd palabra de Jehová...moradores de JH3389
+- Jer_19:7desvaneceré el consejo de Judá y de JH3389
+- Jer_19:13las casas de J, y las casas de los reyesH3389
+- Jer_22:19arrastrándole y echándole fuera...de JH3389
+- Jer_23:14en los profetas de J he visto torpezasH3389
+- Jer_23:15los profetas de J salió la hipocresíaH3389
+- Jer_24:1artesanos y herreros de J...a BabiloniaH3389
+- Jer_24:8pondré a Sedequías rey...al resto de JH3389
+- Jer_25:2Jeremías...a todos los moradores de JH3389
+- Jer_25:18a J, a las ciudades de Judá y a susH3389
+- Jer_26:18y J vendrá a ser montones de ruinasH3389
+- Jer_27:3mano de los mensajeros que vienen a JH3389
+- Jer_27:18los utensilios que han quedado en...JH3389
+- Jer_27:20transportó de J a...los nobles de...JH3389
+- Jer_27:21de los utensilios que quedaron...en JH3389
+- Jer_29:1la carta que...Jeremías envió de J a losH3389
+- Jer_29:1todo el pueblo que...llevó cautivo de JH3389
+- Jer_29:2la reina...los príncipes de Judá y de JH3389
+- Jer_29:2salió...artífices y los ingenieros de JH3389
+- Jer_29:4a todos los...que hice transportar de JH3389
+- Jer_29:20todos los transportados que envié de JH3389
+- Jer_29:25enviaste cartas...pueblo que está en JH3389
+- Jer_32:2sitiada a J...Jeremías estaba preso enH3389
+- Jer_32:32varones de Judá y los moradores de JH3389
+- Jer_32:44en los contornos de J, y en...de JudáH3389
+- Jer_33:10en las calles de J, que están asoladasH3389
+- Jer_33:13y alrededor de J y en las ciudades deH3389
+- Jer_33:16en aquellos días...J habitará seguraH3389
+- Jer_34:1y todos los pueblos, peleaban contra JH3389
+- Jer_34:6Jeremías a Sedequías rey...palabras en JH3389
+- Jer_34:7el ejército del rey...peleaba contra JH3389
+- Jer_34:8hizo pacto con todo el pueblo en J paraH3389
+- Jer_34:19a los príncipes de J, a los oficialesH3389
+- Jer_35:11ocultémonos en J...y en J nos quedamosH3389
+- Jer_35:13vé y di a...y a los moradores de J: ¿NoH3389
+- Jer_35:17sobre todos los moradores de J todo elH3389
+- Jer_36:9pueblo de J y...que venía...de Judá a JH3389
+- Jer_36:31y traeré...sobre los moradores de J yH3389
+- Jer_37:5tenían sitiada a J, se retiraron de JH3389
+- Jer_37:11ejército de los caldeos se retiró de JH3389
+- Jer_37:12salía Jeremías de J para irse a tierraH3389
+- Jer_38:28fue tomada J; y allí estaba cuando JH3389
+- Jer_39:1vino...con todo su ejército contra J, yH3389
+- Jer_39:8los caldeos...derribaron los muros de JH3389
+- Jer_40:1atado...entre todos los cautivos de JH3389
+- Jer_42:18se derramó...sobre los moradores de JH3389
+- Jer_44:2el mal que traje sobre J y sobre todasH3389
+- Jer_44:6mi ira...se encendió...en las calles de JH3389
+- Jer_44:9maldades...hicieron...en las calles de J?[[H3389]]
+- Jer_44:13castigué a J, con espada, con hambreH3389
+- Jer_44:17en las ciudades...y en las plazas de JH3389
+- Jer_44:21incienso que ofrecisteis, calles de JH3389
+- Jer_51:35mi sangre caiga sobre...Caldea, dirá JH3389
+- Jer_51:50acordaos...de Jehová, y acordaos de JH3389
+- Jer_52:1era Sedequías...y reinó once años en JH3389
+- Jer_52:3y a causa de la ira de Jehová contra JH3389
+- Jer_52:4vino...él y todo su ejército, contra JH3389
+- Jer_52:12a J Nabuzaradán capitán de la guardiaH3389
+- Jer_52:13casa del rey, y todas las casas de JH3389
+- Jer_52:14destruyó...los muros en derredor de JH3389
+- Jer_52:29él llevó cautivas de J a 832 personasH3389
+- Lam_1:7J, cuando cayó su pueblo en mano delH3389
+- Lam_1:8pecado cometió J, por lo cual...removidaH3389
+- Lam_1:17J fue objeto de abominación entre ellosH3389
+- Lam_2:10las vírgenes de J bajaron sus cabezas aH3389
+- Lam_2:13a quién te haré semejante, hija de J?[[H3389]]
+- Lam_2:15movieron...sus cabezas sobre la hija de JH3389
+- Lam_4:12el enemigo...entrara por las puertas de JH3389
+- Eze_4:1adobe...diseña sobre él la ciudad de JH3389
+- Eze_4:7al asedio de J afirmarás tu rostro, yH3389
+- Eze_4:16quebrantaré el sustento del pan en JH3389
+- Eze_5:5así ha dicho Jehová el Señor: Esta es JH3389
+- Eze_8:3me llevó en visiones de Dios a J, a laH3389
+- Eze_9:4por en medio de J, y ponles una señal enH3389
+- Eze_9:8de Israel derramando tu furor sobre J?[[H3389]]
+- Eze_11:15a quienes dijeron los moradores de JH3389
+- Eze_12:10profecía se refiere al príncipe en JH3389
+- Eze_12:19así ha dicho...sobre los moradores de JH3389
+- Eze_13:16profetas...que profetizan acerca de JH3389
+- Eze_14:21cuando yo enviare contra J mis cuatroH3389
+- Eze_14:22mal que hice venir sobre J, de todasH3389
+- Eze_15:6como la...así haré a los moradores de JH3389
+- Eze_16:2hijo de...notifica a J sus abominacionesH3389
+- Eze_16:3ha dicho Jehová...sobre J: Tu origen, tuH3389
+- Eze_17:12el rey de Babilonia vino a J, y tomóH3389
+- Eze_21:2pon tu rostro contra J, y...profetizaH3389
+- Eze_21:20Judá contra J, la ciudad fortificadaH3389
+- Eze_21:22sobre J, para dar la orden de ataqueH3389
+- Eze_22:19aquí que yo os reuniré en medio de JH3389
+- Eze_23:4llamaron: Samaria, Ahola; y J, AholibaH3389
+- Eze_24:2el rey...puso sitio a J este mismo díaH3389
+- Eze_26:2por cuanto dijo Tiro contra J: Ea, bienH3389
+- Eze_33:21vino a mí un fugitivo de J, diciendoH3389
+- Eze_36:38como las ovejas de J en sus fiestasH3389
+- Dan_1:1vino Nabucodonosor...a J, y la sitióH3389
+- Dan_5:2vasos de oro...del templo de J, para queH3390
+- Dan_5:3del templo de...en J, y bebieron en ellosH3390
+- Dan_6:10y abiertas las ventanas de su...hacia JH3390
+- Dan_9:2de cumplirse las desolaciones de J en 70H3389
+- Dan_9:7los moradores de J, y todo Israel, losH3389
+- Dan_9:12semejante a lo que se ha hecho contra JH3389
+- Dan_9:16tu ira y tu furor de sobre tu ciudad JH3389
+- Dan_9:16J y tu pueblo son el oprobio de todosH3389
+- Dan_9:25la orden para restaurar y edificar a JH3389
+- Joe_2:32monte de Sion y en J habrá salvaciónH3389
+- Joe_3:1en que haré volver la cautividad de...JH3389
+- Joe_3:6vendisteis...los hijos de J a los hijos deH3389
+- Joe_3:16y Jehová rugirá...y dará su voz desde JH3389
+- Joe_3:17y J será santa, y extraños no pasaránH3389
+- Joe_3:20Judá será habitada...y J por generaciónH3389
+- Amó_1:2Jehová rugirá...y dará su voz desde JH3389
+- Amó_2:5fuego...cual consumirá los palacios de JH3389
+- Abd_1:11y echaban suertes sobre J, tú tambiénH3389
+- Abd_1:20y los cautivos de J que están en SefaradH3389
+- Miq_1:1Miqueas...lo que vio sobre Samaria y JH3389
+- Miq_1:5son los lugares altos de Judá? ¿No es J?[[H3389]]
+- Miq_1:9hasta la puerta de mi pueblo, hasta JH3389
+- Miq_1:12había descendido hasta la puerta de JH3389
+- Miq_3:10edificáis a Sion...y a J con injusticiaH3389
+- Miq_3:12J vendrá a ser montones de ruinas, y elH3389
+- Miq_4:2de Sion saldrá...J la palabra de JehováH3389
+- Miq_4:8hasta ti vendrá...reino de la hija de JH3389
+- Sof_1:4extenderé mi mano...habitantes de JH3389
+- Sof_1:12que yo escudriñaré a J con linternaH3389
+- Sof_3:14regocíjate de todo corazón, hija de JH3389
+- Sof_3:16en aquel tiempo se dirá a J: No temasH3389
+- Zac_1:12¿hasta cuándo no tendrás piedad de JH3389
+- Zac_1:14dicho...Celé con gran celo a J y a SionH3389
+- Zac_1:16yo me he vuelto a J con misericordiaH3389
+- Zac_1:16dice...la plomada será tendida sobre JH3389
+- Zac_1:17consolará...Sion, y escogerá todavía a JH3389
+- Zac_1:19son los cuernos que dispersaron a...a JH3389
+- Zac_2:2dije: ¿A dónde vas?...A medir a J, paraH3389
+- Zac_2:4sin muros será habitada J, a causa de laH3389
+- Zac_2:12Jehová poseerá a Judá...escogerá aún a JH3389
+- Zac_3:2Jehová que ha escogido a J te reprendaH3389
+- Zac_7:7cuando J estaba habitada y tranquila, yH3389
+- Zac_8:3y moraré en medio de J; y J se llamaráH3389
+- Zac_8:4han de morar ancianos...en las calles de JH3389
+- Zac_8:8y los traeré, y habitarán en medio de JH3389
+- Zac_8:15he pensado hacer bien a J y a la casaH3389
+- Zac_8:22a buscar a Jehová de los ejércitos en JH3389
+- Zac_9:9da voces de júbilo, hija de J; he aquí tuH3389
+- Zac_9:10destruiré...caballos de J, y los arcosH3389
+- Zac_12:2yo pongo a J por copa que hará temblarH3389
+- Zac_12:2que hará temblar...en el sitio contra JH3389
+- Zac_12:3pondré a J por piedra pesada a todos losH3389
+- Zac_12:5tienen fuerza los...de J en Jehová de losH3389
+- Zac_12:6J será...vez habitada en su lugar, en JH3389
+- Zac_12:7y del habitante de J no se engrandezcaH3389
+- Zac_12:8tiempo Jehová defenderá al morador de JH3389
+- Zac_12:9todas las naciones que vinieren contra JH3389
+- Zac_12:10derramaré...sobre los moradores de JH3389
+- Zac_12:11aquel día habrá gran llanto en J, comoH3389
+- Zac_13:1un manantial...para los habitantes de JH3389
+- Zac_14:2las naciones para combatir contra JH3389
+- Zac_14:4el monte de los...que está en frente de JH3389
+- Zac_14:8que saldrán de J aguas vivas, la mitadH3389
+- Zac_14:10como llanura...hasta Rimón al sur de JH3389
+- Zac_14:11más maldición, sino que J será habitadaH3389
+- Zac_14:12a...los pueblos que pelearon contra JH3389
+- Zac_14:14Judá también peleará en J...Y seránH3389
+- Zac_14:16de las naciones que vinieron contra JH3389
+- Zac_14:17que no subieren a J para adorar al ReyH3389
+- Zac_14:21toda olla en J y Judá será consagradaH3389
+- Mal_2:11Judá...J se ha cometido abominaciónH3389
+- Mal_3:4será grata a Jehová...de Judá y de JH3389
+- Mat_2:1vinieron del oriente a J unos magosG2414
+- Mat_2:3el rey Herodes se turbó, y toda J con élG2414
+- Mat_3:5y salía a él J, y toda Judea, y toda laG2414
+- Mat_4:25y le siguió mucha gente...de J, de JudeaG2414
+- Mat_5:35por J, porque es la ciudad del gran ReyG2414
+- Mat_15:1se acercaron...escribas y fariseos de JG2414
+- Mat_16:21que le era necesario ir a J y padecerG2414
+- Mat_20:17subiendo Jesús a J, tomó a sus doceG2414
+- Mat_20:18subimos a J, y el Hijo del Hombre seráG2414
+- Mat_21:1se acercaron a J, y vinieron a BetfagéG2414
+- Mat_21:10cuando entró él en J, toda la ciudadG2414
+- Mat_23:37¡J, J, que matas a los profetas, yG2419
+- Mar_1:5y salían a él...todos los de J; y eranG2415
+- Mar_3:8J, de Idumea, del otro lado del JordánG2414
+- Mar_3:22escribas que habían venido de J decíanG2414
+- Mar_7:1de los escribas, que habían venido de JG2414
+- Mar_10:32subiendo a J; y Jesús iba delante, yG2414
+- Mar_10:33subimos a J, y el Hijo del Hombre seráG2419
+- Mar_11:1se acercaban a J, junto a Betfagé y aG2414
+- Mar_11:11entró Jesús en J, y en el templo; yG2414
+- Mar_11:15vinieron, pues, a J; y entrando JesúsG2414
+- Mar_11:27volvieron...a J; y andando él por elG2414
+- Mar_15:41y otras...que habían subido con él a JG2414
+- Luc_2:22le trajeron a J para presentarle alG2414
+- Luc_2:25había en J un hombre llamado Simeón, yG2419
+- Luc_2:38todos...que esperaban la redención en JG2419
+- Luc_2:41padres...a J en la fiesta de la pascuaG2419
+- Luc_2:42subieron a J conforme a la costumbre deG2414
+- Luc_2:43se quedó el niño Jesús en J, sin que loG2419
+- Luc_2:45pero como no le hallaron, volvieron a JG2419
+- Luc_4:9le llevó a J, y le puso sobre el pináculoG2419
+- Luc_5:17los cuales habían venido...de Judea y JG2419
+- Luc_6:17multitud...de J y de la costa de TiroG2419
+- Luc_9:31partida, que iba Jesús a cumplir en JG2419
+- Luc_9:51cumplió...afirmó su rostro para ir a JG2419
+- Luc_9:53porque su aspecto era como de ir a JG2419
+- Luc_10:30un hombre descendía de J a Jericó, yG2419
+- Luc_13:4que todos los hombres que habitan en J?[[G2419]]
+- Luc_13:22pasaba Jesús por...y encaminándose a JG2419
+- Luc_13:33no es posible...profeta muera fuera de JG2419
+- Luc_13:34¡J, J, que matas a los profetas, yG2419
+- Luc_17:11yendo Jesús a J, pasaba entre SamariaG2419
+- Luc_18:31subimos a J, y se cumplirán todas lasG2414
+- Luc_19:11por cuanto estaba cerca de J, y ellosG2419
+- Luc_19:28dicho esto, iba delante subiendo a JG2414
+- Luc_21:20pero cuando viereis a J rodeada deG2419
+- Luc_21:24J será hollada por los gentiles, hastaG2419
+- Luc_23:7que en aquellos días también estaba en JG2414
+- Luc_23:28hijas de J, no lloréis por mí, sinoG2419
+- Luc_24:13a una aldea...a sesenta estadios de JG2419
+- Luc_24:18¿eres tú el único forastero en J queG2419
+- Luc_24:33volvieron a J, y hallaron a los onceG2419
+- Luc_24:47que se predicase...comenzando desde JG2419
+- Luc_24:49en...J, hasta que seáis investidos deG2419
+- Luc_24:52adorado, volvieron a J con gran gozoG2419
+- Jua_1:19los judíos enviaron de J sacerdotesG2414
+- Jua_2:13cerca la pascua de...y subió Jesús a JG2414
+- Jua_2:23estando en J en la fiesta de la pascuaG2414
+- Jua_4:20decís que en J es...donde se debe adorarG2414
+- Jua_4:21ni en este monte ni en J adoraréis alG2414
+- Jua_4:45todas las cosas que había hecho en J, enG2414
+- Jua_5:1fiesta de los judíos, y subió Jesús a JG2414
+- Jua_5:2hay en J...un estanque, llamado en hebreoG2414
+- Jua_7:25decían...unos de J: ¿No es éste a quienG2415
+- Jua_10:22celebrábase en J la fiesta...dedicaciónG2414
+- Jua_11:18Betania estaba cerca de J, como a 15G2414
+- Jua_11:55muchos subieron...J antes de la pascuaG2414
+- Jua_12:12multitudes...al oír que Jesús venía a JG2414
+- Hec_1:4les mandó que no se fueran de J, sinoG2414
+- Hec_1:8me seréis testigos en J, en toda JudeaG2419
+- Hec_1:12volvieron a J desde el monte que seG2419
+- Hec_1:12el cual está cerca de J, camino de unG2419
+- Hec_1:19fue notorio a todos los habitantes de JG2419
+- Hec_2:5moraban entonces en J judíos, varonesG2419
+- Hec_2:14judíos, y todos los que habitáis en JG2419
+- Hec_4:5se reunieron en J los gobernantes, losG2419
+- Hec_4:16notoria a todos los que moran en J, yG2419
+- Hec_5:16muchos venían a J, trayendo enfermosG2419
+- Hec_5:28habéis llenado a J de vuestra doctrinaG2419
+- Hec_6:7de los discípulos se multiplicaba...en JG2419
+- Hec_8:1hubo...contra la iglesia que estaba en JG2414
+- Hec_8:14cuando los apóstoles...en J oyeron queG2414
+- Hec_8:25volvieron a J, y en muchas poblacionesG2419
+- Hec_8:26el camino que desciende de J a Gaza, elG2419
+- Hec_8:27etíope...y había venido a J para adorarG2419
+- Hec_9:2hallase alguno...los trajese presos a JG2419
+- Hec_9:13cuántos males ha hecho a...santos en JG2419
+- Hec_9:21¿no es éste el que asolaba en J a losG2419
+- Hec_9:26cuando llegó a J, trataba de juntarseG2419
+- Hec_9:28estaba con ellos en J; y entraba y salíaG2419
+- Hec_10:39todas las cosas que Jesús hizo...y en JG2419
+- Hec_11:2cuando Pedro subió a J, disputaban conG2414
+- Hec_11:22a oídos de la iglesia que estaba en JG2414
+- Hec_11:27días unos profetas descendieron de JG2414
+- Hec_12:25cumplido su servicio, volvieron de JG2419
+- Hec_13:13Juan, apartándose de ellos, volvió a JG2414
+- Hec_13:27los habitantes de J...no conociendo aG2414
+- Hec_13:31habían subido juntamente con él...a JG2419
+- Hec_15:2se dispuso que subiesen Pablo y...a JG2419
+- Hec_15:4llegados a J, fueron recibidos por laG2419
+- Hec_16:4habían acordado los...que estaban en JG2419
+- Hec_18:21guarde en J la fiesta que viene; peroG2414
+- Hec_19:21Pablo se propuso en espíritu ir a JG2419
+- Hec_20:16por estar...si le fuese posible, en JG2414
+- Hec_20:22voy a J, sin saber lo que allá me haG2419
+- Hec_21:4decían a Pablo por...que no subiese a JG2419
+- Hec_21:11así atarán los judíos en J al varón deG2419
+- Hec_21:12le rogamos nosotros...que no subiese a JG2419
+- Hec_21:13yo estoy dispuesto...aun a morir en JG2419
+- Hec_21:15después de esos días...subimos a JG2419
+- Hec_21:17cuando llegamos a J, los hermanos nosG2414
+- Hec_21:31toda la ciudad de J estaba alborotadaG2419
+- Hec_22:5y fui a Damasco para traer presos a JG2419
+- Hec_22:17vuelto a J...me sobrevino un éxtasisG2419
+- Hec_22:18prisa, y sal...de J; porque no recibiránG2419
+- Hec_23:11como has testificado de mí en J, asíG2419
+- Hec_24:11más de doce días que subí a adorar a JG2419
+- Hec_25:1subió de Cesarea a J tres días despuésG2414
+- Hec_25:3como gracia, que le hiciese traer a JG2419
+- Hec_25:7le rodearon los...que habían venido de JG2414
+- Hec_25:9¿quieres subir a J, y allá ser juzgadoG2414
+- Hec_25:15cuando fui a J, se me presentaron losG2419
+- Hec_25:20le pregunté si quería ir a J y allá serG2419
+- Hec_25:24ha demandado en J y aquí, dando vocesG2414
+- Hec_26:4mi juventud...pasé en mi nación, en JG2414
+- Hec_26:10lo cual también hice en J...Yo encerréG2414
+- Hec_26:20anuncié...a los que están en...J, y porG2414
+- Hec_28:17sido entregado preso desde J en manosG2414
+- Rom_15:19desde J...lo he llenado del evangelioG2419
+- Rom_15:25voy a J para ministrar a los santosG2419
+- Rom_15:26que hay entre los santos que están en JG2419
+- Rom_15:31ofrenda...a los santos en J sea aceptaG2419
+- 1Co_16:3para que lleven vuestro donativo a JG2419
+- Gál_1:17ni subí a J a los que eran apóstolesG2414
+- Gál_1:18pasados tres años...a J para ver a PedroG2414
+- Gál_2:1subí otra vez a J con Bernabé, llevandoG2414
+- Gál_4:25y corresponde a la J actual, pues éstaG2419
+- Gál_4:26J de arriba, la cual es madre de todosG2419
+- Heb_12:22la ciudad del Dios...J la celestialG2419
+- Rev_3:12nueva J, la cual desciende del cieloG2419
+- Rev_21:2yo Juan vi la santa ciudad, la nueva JG2419
+- Rev_21:10me mostró la gran ciudad santa de JG2419

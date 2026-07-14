@@ -1,0 +1,96 @@
+---
+tipo: concordancia
+palabra: VACA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VACA
+
+- Gén_12:16y él tuvo ovejas, v, asnos, siervosH1241
+- Gén_13:5también Lot...tenía ovejas, v y tiendasH6629
+- Gén_18:7y corrió Abraham a las v, y tomó unH1241
+- Gén_20:14tomó ovejas y v, y siervos y siervasH1241
+- Gén_21:27y tomó Abraham...v, y dio a AbimelecH1241
+- Gén_24:35y le ha dado ovejas y v, plata y oroH6629
+- Gén_26:14y tuvo...hato de v, y mucha labranzaH6629
+- Gén_32:5y tengo v, asnos y ovejas, y siervos yH6629
+- Gén_32:7y distribuyó...las v y los camellos, enH6629
+- Gén_32:15cuarenta v y diez novillos, 20 asnasH6510
+- Gén_33:13y que tengo ovejas y v paridas; y siH6629
+- Gén_34:28tomaron sus ovejas y v y sus asnos, yH1241
+- Gén_41:2, Gén_41:18que del río subían siete v...pacíanH6510
+- Gén_41:3tras ellas subían...siete v de feo aspectoH6510
+- Gén_41:3se pararon cerca de las v hermosas a laH6510
+- Gén_41:4y que las v de feo aspecto y enjutas deH6510
+- Gén_41:4devoraban a las siete v hermosas y muyH6510
+- Gén_41:19y que otras siete v subían después deH6510
+- Gén_41:20y las v flacas...devoraban a...v gordasH6510
+- Gén_41:26las siete v hermosas siete años son; yH6510
+- Gén_41:27las siete v flacas y feas...siete añosH6510
+- Gén_45:10ganados y tus v, y todo lo que tienesH1241
+- Gén_46:32han traído sus ovejas y sus v, y todoH1241
+- Gén_47:1mi padre...sus ovejas y sus vacas...venidoH6629
+- Gén_47:17José les dio...por el ganado de las vH6629
+- Gén_50:8dejaron en...Gosén...sus ovejas y sus vH6629
+- Éxo_9:3sobre tus...asnos, camellos, v y ovejasH1241
+- Éxo_10:9con nuestras ovejas y con...v hemos de irH6629
+- Éxo_10:24id...queden vuestras ovejas y vuestras vH6629
+- Éxo_12:32también vuestras v, como habéis dichoH6629
+- Éxo_20:24sacrificarás sobre él...ovejas y tus vH1241
+- Éxo_34:19mío...todo primogénito de v o de ovejaH4735
+- Lev_22:21como ofrenda...sea de v o de ovejasH7794
+- Lev_22:28v u oveja, no degollaréis en un mismoH7794
+- Lev_27:32todo diezmo de v o de...será consagradoH1241
+- Núm_15:3ofrecer...olor grato...de v o de ovejasH6629
+- Núm_18:17mas el primogénito de v...no redimirásH7794
+- Núm_19:2de Israel que te traigan una v alazanaH6510
+- Núm_19:5hará quemar la v ante sus ojos; su cuerpoH6510
+- Núm_19:6y lo echará en...fuego en que arde la vH6510
+- Núm_19:9un hombre...recogerá las cenizas de la vH6510
+- Núm_19:10y el que recogió las cenizas de la vH6510
+- Núm_19:17la ceniza de la v...de la expiación
+- Deu_7:13bendecirá...aceite, la cría de tus vH504
+- Deu_8:13y tus v y tus ovejas se aumenten, y laH6629
+- Deu_12:6primicias de vuestras v y de vuestrasH6629
+- Deu_12:17ni las primicias de tus v, ni de tusH1241
+- Deu_12:21podrás matar de tus v y de tus ovejasH1241
+- Deu_14:26y darás el dinero...por v, por ovejasH1241
+- Deu_15:19consagrarás...todo primogénito...tus vH1241
+- Deu_15:19no te servirás...primogénito de tus vH7794
+- Deu_16:2sacrificarás la pascua...de las v, en elH1241
+- Deu_21:3tomarán de las v una becerra que no hayaH5697
+- Deu_28:4bendito...la cría de tus v y los rebañosH6231
+- Deu_28:18maldito el fruto de...la cría de tus vH6231
+- Deu_28:51no te dejará...ni la cría de tus v, niH6231
+- Deu_32:14mantequilla de v y leche de ovejas, conH1241
+- 1Sa_6:7tomad luego dos v...uncid las v al carroH5763
+- 1Sa_6:10dos v que criaban, las uncieron al carroH5763
+- 1Sa_6:12y las v se encaminaron por el camino deH6510
+- 1Sa_6:14ofrecieron las v en holocausto a JehováH6510
+- 1Sa_14:32y tornaron ovejas y v y becerros, y losH1241
+- 1Sa_14:34me traigan cada uno su v...Y trajo...su vH7794
+- 1Sa_15:3mata a hombres...v, ovejas, camellos yH7794
+- 1Sa_15:14qué bramido de v es este que yo oigoH1241
+- 1Sa_15:15el pueblo perdonó lo mejor...y de las vH1241
+- 1Sa_15:21mas el pueblo tomó del botín ovejas y vH1241
+- 1Sa_27:9David...se llevaba las ovejas, las v, losH1241
+- 2Sa_12:2el rico tenía numerosas ovejas y vH6629
+- 2Sa_12:4no quiso tomar de sus ovejas y de sus vH1241
+- 2Sa_17:29quesos de v, para que comiesen; porqueH1241
+- 1Re_1:9matando Adonías...v y animales gordosH1241
+- 2Cr_31:6dieron...los diezmos de las v y de lasH1241
+- 2Cr_32:29hatos de ovejas y de v en...abundanciaH1241
+- Neh_10:36los primogénitos de nuestras v y deH6629
+- Job_21:10paren sus v, y no malogran su críaH6510
+- Ecl_2:7tuve posesión grande de v y de ovejasH4735
+- Isa_7:21criará un hombre una v y dos ovejasH5697
+- Isa_11:7v y la osa pacerán, sus crías...juntasH6510
+- Isa_22:13gozo y alegría, matando v y degollandoH1241
+- Isa_65:10valle de Acor para majada de v, paraH6629
+- Jer_3:24consumió...ovejas, sus v, sus hijosH6629
+- Jer_5:17comerá tus ovejas y tus v, comerá tusH6629
+- Jer_31:12correrán al bien...las ovejas y de las vH1241
+- Ose_5:6con sus v andarán buscando a Jehová, yH6629
+- Amó_4:1oíd...palabra, v de Basán, que estáisH6510
+- Hab_3:17quitadas...no haya v en los corralesH1241

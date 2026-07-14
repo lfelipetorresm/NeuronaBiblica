@@ -1,0 +1,103 @@
+---
+tipo: concordancia
+palabra: PENSAMIENTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PENSAMIENTO
+
+- Gén_6:5todo designio de los p del corazón deH4284
+- Deu_15:9de tener en tu corazón p perversoH1697
+- 1Re_18:21claudicaréis vosotros entre dos p?[[H5587]]
+- 1Cr_28:9y entiende todo intento de los pH4284
+- Job_5:12frustra los p de los astutos, para queH4284
+- Job_17:7mis ojos...mis p todos son como sombraH3338
+- Job_17:11fueron arrancados mis p, los designiosH4180
+- Job_20:2por cierto mis p me hacen responder, yH5587
+- Job_21:27he aquí, yo conozco vuestros p, y lasH4284
+- Job_42:2todo...y que no hay p que se esconda de tiH4209
+- Sal_10:4malo...no hay Dios en ninguno de sus pH4209
+- Sal_26:2pruébame; examina mis...p y mi corazónH3629
+- Sal_33:11los p de su corazón por...generacionesH4284
+- Sal_40:5tus p para con nosotros, no es posibleH4284
+- Sal_49:3boca...el p de mi corazón inteligenciaH1900
+- Sal_49:11su...p es que sus casas serán eternas
+- Sal_56:5todos los días...contra mí son todos sus pH4284
+- Sal_64:6íntimo p...como su corazón, es profundo
+- Sal_90:9tu ira; acabamos nuestros años como un p
+- Sal_92:5obras, oh Jehová! Muy profundos son tus pH4284
+- Sal_94:11los p de los hombres, que son vanidadH4284
+- Sal_94:19en la multitud de mis p dentro de míH8312
+- Sal_139:2tú has...has entendido desde lejos mis pH7454
+- Sal_139:17¡cuán preciosos me son, oh Dios, tus p![[H7454]]
+- Sal_139:23examíname...pruébame y conoce mis pH8312
+- Sal_140:8no saques adelante su p, para que no
+- Sal_146:4sale...en ese mismo día perecerán sus pH6250
+- Pro_6:18el corazón que maquina p inicuos, losH4284
+- Pro_12:2mas él condenará al hombre de malos pH4209
+- Pro_12:5los p de los justos son rectitud; masH4284
+- Pro_15:22p son frustrados donde no hay consejoH4284
+- Pro_15:26abominación...a Jehová los p del maloH4284
+- Pro_16:3encomienda a...y tus p serán afirmadosH4284
+- Pro_19:21muchos p hay en el corazón del hombreH4284
+- Pro_20:18los p con el consejo se ordenan; y conH4284
+- Pro_21:4altivez de...y p de impíos, son pecadoH5215
+- Pro_21:5p del diligente...tienden a la abundanciaH4284
+- Pro_23:7cual es su p en su corazón, tal es élH8176
+- Pro_24:8piensa...le llamarán hombre de malos pH2803
+- Pro_24:9el p del necio es pecado, y abominaciónH2154
+- Ecl_10:20ni aun en tu p digas mal del rey, niH4093
+- Isa_10:7p será desarraigar y cortar naciones
+- Isa_26:3completa paz a...cuyo p en ti perseveraH3336
+- Isa_55:7deje el impío...y el hombre inicuo sus pH4284
+- Isa_55:8p no son vuestros p, ni vuestros caminosH4284
+- Isa_55:9caminos más altos...p más que vuestros pH4284
+- Isa_57:11y no te has acordado...ni te vino al p?[[H3820]]
+- Isa_59:7sus pies corren...sus p, p de iniquidadH4287
+- Isa_65:2rebelde, el cual anda...en pos de sus pH4284
+- Isa_65:17no habrá memoria, ni más vendrá al pH3820
+- Isa_66:18porque yo conozco sus obras y sus pH4284
+- Jer_3:16no se dirá más: Arca...ni vendrá al pH3820
+- Jer_4:14permitirás en medio de...p de iniquidad?[[H4284]]
+- Jer_6:19mal sobre este pueblo, el fruto de sus pH4284
+- Jer_18:12y haremos cada uno el p de...corazónH4284
+- Jer_19:5cosa que no les mandé...ni me vino al pH3820
+- Jer_20:12que ves los p y el corazón, vea yo tuH3629
+- Jer_23:20que haya cumplido los p de su corazónH4209
+- Jer_29:11yo sé los p que tengo acerca...p de pazH4284
+- Jer_30:24que haya hecho y cumplido los p de suH4209
+- Jer_32:35lo cual no les mandé, ni me vino al pH3820
+- Jer_49:20sus p que ha resuelto sobre...de TemánH4284
+- Jer_50:45los p que ha formado contra...los caldeosH4284
+- Jer_51:11porque contra Babilonia es su p paraH4209
+- Jer_51:29contra Babilonia todo el p de JehováH4284
+- Lam_3:60has visto toda...todos sus p contra míH4284
+- Eze_38:10subirán palabras...concebirás mal pH3842
+- Dan_2:29te vinieron p por saber lo que habíaH7476
+- Dan_2:30para que entiendas los p de tu corazónH7476
+- Dan_4:19atónito...una hora, y sus p lo turbabanH7476
+- Dan_5:6sus p lo turbaron, y se debilitaron susH7476
+- Dan_5:10rey...no te turben tus p, ni palidezca tuH7476
+- Dan_7:28mis p me turbaron y mi rostro se demudóH7476
+- Amó_4:13el que forma...y anuncia al hombre su pH7808
+- Miq_4:12ellos no conocieron los p de JehováH4284
+- Mat_9:4conociendo Jesús los p de ellos, dijoG1761
+- Mat_12:25sabiendo Jesús los p de ellos, les dijoG1761
+- Mat_15:19porque del corazón salen los malos pG1261
+- Mar_7:21dentro, del corazón...salen los malos pG1261
+- Luc_1:51esparció a los soberbios en el p deG1271
+- Luc_2:35que sean revelados los p de...corazonesG1261
+- Luc_5:22Jesús entonces, conociendo los p de ellosG1261
+- Luc_6:8mas él conocía los p de ellos; y dijo alG1261
+- Luc_9:47percibiendo los p de sus corazones, tomóG1261
+- Luc_11:17él, conociendo los p de ellos, les dijoG1270
+- Luc_24:38y vienen a vuestro corazón estos p?[[G1261]]
+- Hec_8:22quizás te sea perdonado el p de tuG1963
+- 1Co_3:20el Señor conoce los p de los sabiosG1261
+- 2Co_10:5cautivo todo p a la obediencia aG3053
+- Efe_2:3haciendo la voluntad de la...de los pG1271
+- Flp_4:7la paz de Dios...guardará...p en CristoG3540
+- Heb_4:12y discierne los p y las intencionesG1761
+- Stg_2:4¿no...venís a ser jueces con malos p?[[G1261]]
+- 1Pe_4:1vosotros también armaos del mismo pG1771

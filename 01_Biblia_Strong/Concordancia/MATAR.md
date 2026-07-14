@@ -1,0 +1,567 @@
+---
+tipo: concordancia
+palabra: MATAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MATAR
+
+- Véanse también Morir, Muerte, Muerto
+- Gén_4:8Caín se levantó contra su...y lo matóH2026
+- Gén_4:14cualquiera que me hallare, me mataráH2026
+- Gén_4:15cualquiera que matare a Caín, 7 vecesH2026
+- Gén_4:15señal en Caín, para que no lo mataseH5221
+- Gén_4:23varón mataré por mi herida, y un jovenH2026
+- Gén_4:25hijo en lugar de Abel, a quien mató CaínH2026
+- Gén_12:12me matarán a mí, y a ti te reservaránH2026
+- Gén_20:4Señor, ¿matarás también al inocente?[[H2026]]
+- Gén_20:11dije...me matarán por causa de mi mujerH2026
+- Gén_26:7lo matarían por causa de Rebeca, puesH2026
+- Gén_27:41y dijo...yo mataré a mi hermano JacobH2026
+- Gén_27:42consuela...de ti con la idea de matarteH2026
+- Gén_34:25vinieron contra...y mataron a todo varónH2026
+- Gén_34:26a Hamor...los mataron a filo de espadaH2026
+- Gén_37:18conspiraron contra él para matarleH4191
+- Gén_37:20matémoslo y echémosle en una cisternaH2026
+- Gén_37:21Rubén...lo libró...y dijo: No lo matemosH5221
+- Gén_37:26dijo...¿Qué provecho hay en que matemosH2026
+- Gén_49:6porque en su furor mataron hombres, y enH2026
+- Éxo_1:16si es hijo, matadlo; y si es hijaH4191
+- Éxo_2:12mató al egipcio y lo escondió en la arenaH5221
+- Éxo_2:14piensas matarme como mataste al egipcio?[[H2026]]
+- Éxo_2:15oyendo Faraón...procuró matar a MoisésH2026
+- Éxo_4:23voy a matar a tu hijo, tu primogénitoH2026
+- Éxo_4:24le salió al encuentro, y quiso matarlaH4191
+- Éxo_5:21poniéndoles la espada en...que nos matenH2026
+- Éxo_16:3matar de hambre a toda esta multitudH4191
+- Éxo_17:3subir...para matarnos de sed a nosotrosH4191
+- Éxo_20:13no matarásH7523
+- Éxo_21:14y lo matare...de mi altar lo quitarásH2026
+- Éxo_21:29matare a hombre o mujer, el buey seráH4191
+- Éxo_21:34pagará...y lo que fue muerto será suyoH4191
+- Éxo_22:14bestia...y fuere estropeada o muertaH4191
+- Éxo_22:20que ofreciere sacrificios...será muertoH2763
+- Éxo_22:24mi furor se encenderá, y os mataré aH2026
+- Éxo_23:7no matarás al inocente...no justificaréH2026
+- Éxo_29:11matarás el becerro delante de JehováH7819
+- Éxo_29:16y matarás el carnero, y con su sangreH7819
+- Éxo_29:20matarás el carnero, y tomarás de suH7819
+- Éxo_32:12los sacó, para matarlos en los montesH2026
+- Éxo_32:27matad cada uno a su hermano...su amigoH2026
+- Lev_14:5mandará...matar una avecilla en un vasoH7819
+- Lev_20:4si...cerrare sus ojos...para no matarleH4191
+- Lev_20:10el adúltero y la adúltera...serán muertosH4191
+- Lev_20:11ambos han de ser muertos: su sangre seráH4191
+- Lev_20:13han de ser muertos; sobre ellos será suH4191
+- Lev_20:15cópula con bestia, ha de ser muerto, yH2026
+- Lev_20:15tuviere cópula...mataréis a la bestiaH2026
+- Lev_20:16la mujer y el animal matarás; moriránH2026
+- Lev_20:17serán muertos a ojos de los hijos de suH3772
+- Lev_24:16que blasfemare el nombre...de ser muertoH4191
+- Lev_27:29separada como anatema...de ser muertaH4191
+- Núm_14:16no pudo Jehová...mató en el desiertoH7819
+- Núm_22:29tuviera espada...que ahora te mataría![[H2026]]
+- Núm_22:33te mataría a ti, y a ella dejaría vivaH2026
+- Núm_22:40y Balac hizo matar bueyes y ovejas, yH2076
+- Núm_25:5matad...que se han juntado con Baal-peorH2026
+- Núm_25:14nombre del...que fue muerto...era ZimriH5221
+- Núm_25:15de la mujer madianita muerta era CozbiH5221
+- Núm_25:18fue muerta el día de la mortandad porH5221
+- Núm_31:7contra Madián...y mataron a todo varónH2026
+- Núm_31:8mataron también...a los reyes de MadiánH2026
+- Núm_31:8a Balaam hijo de Beor mataron a espadaH2426
+- Núm_31:17matad...niños; m también a toda mujerH2026
+- Núm_35:19vengador...lo encontrare, él lo mataráH4191
+- Núm_35:21el vengador...matará al homicida cuandoH4191
+- Núm_35:23hizo caer...piedra que pudo matarlo, yH4191
+- Núm_35:27y el vengador de la sangre matare alH7523
+- Deu_3:6matando en...a hombres, mujeres y niñosH2763
+- Deu_4:42el homicida que matase a su prójimo sinH7523
+- Deu_5:17no matarásH7523
+- Deu_9:28los sacó para matarlos en el desiertoH4191
+- Deu_12:15podrás matar y comer carne en todas tusH2076
+- Deu_12:21podrás matar de tus vacas y...tus ovejasH2076
+- Deu_13:5o soñador de sueños ha de ser muertoH4191
+- Deu_13:9sino que lo matarás; tu mano se alzaráH2026
+- Deu_13:9se alzará primero sobre él para matarleH4191
+- Deu_13:15matarás sus ganados a filo de espada
+- Deu_16:4y de la carne que matares...no quedaráH2076
+- Deu_17:7la mano de los testigos caerá...matarloH4191
+- Deu_21:1muerto...y no se supiere quién lo matóH2491
+- Deu_28:31buey será matado delante de tus ojosH2873
+- Jos_7:5los de Hai mataron...unos 36 hombresH5221
+- Jos_8:24acabaron de matar a todos los...de HaiH2026
+- Jos_9:18y no los mataron los hijos de IsraelH5221
+- Jos_9:26los libró de...Israel, y no los mataronH2026
+- Jos_10:11que los que...Israel mataron a espadaH2026
+- Jos_10:26Josué los hirió y los mató, y...colgarH4191
+- Jos_10:28tomó Josué a Maceda...y mató a su reyH2763
+- Jos_10:35mató a todo lo que en ella tenía vidaH2763
+- Jos_10:40todo lo que tenía vida lo mató, comoH2763
+- Jos_11:10tomó...Hazor, y mató a espada a su reyH5221
+- Jos_11:11y mataron...cuanto en ella tenía vidaH5221
+- Jos_11:17a todos sus reyes, y los hirió y matóH4191
+- Jos_13:22mataron a espada...a Balaam el adivinoH2026
+- Jos_13:22a Balaam...entre los demás que mataronH2491
+- Jos_20:3se acoja allí el homicida que matare aH5221
+- Jue_3:29mataron de los moabitas como 10.000H5221
+- Jue_3:31Samgar...mató a seiscientos hombres deH5221
+- Jue_7:25mataron a Oreb...Zeeb lo ni en el lagarH2026
+- Jue_8:17derribó la...y mató a los de la ciudadH2026
+- Jue_8:18aquellos hombres...matasteis en Tabor?[[H2026]]
+- Jue_8:19conservado la vida, yo no os mataría![[H2026]]
+- Jue_8:20levántate, y mátalos. Pero el joven noH2026
+- Jue_8:21dijeron Zeba...Levántate tú, y mátanosH6293
+- Jue_8:21Gedeón se levantó, y mató a Zeba y aH2026
+- Jue_9:5mató a sus hermanos...hijos de JerobaalH2026
+- Jue_9:18y habéis matado a sus hijos, setentaH2026
+- Jue_9:24sobre Abimelec su hermano que los matóH2026
+- Jue_9:24fortalecieron las manos de él...matar aH2026
+- Jue_9:44acometieron a todos los...y los mataronH5221
+- Jue_9:45tomó la ciudad, y mató al pueblo que enH2026
+- Jue_9:54mátame...no se diga...Una mujer lo matóH2026, [[[[H2026]]]]
+- Jue_9:56el mal que hizo...matando a...70 hermanosH2026
+- Jue_13:23su mujer...Si Jehová nos quisiera matarH4191
+- Jue_14:19descendió a Ascalón y mató a treintaH5221
+- Jue_15:12juradme que vosotros no me mataréisH6293
+- Jue_15:13te prenderemos, y...mas no te mataremosH4191
+- Jue_15:15la tomó, y mató con ella a mil hombresH5221
+- Jue_15:16con la quijada de un asno maté a milH5221
+- Jue_16:2hasta la luz de la mañana...lo mataremosH2026
+- Jue_16:30que mató al morir fueron muchos másH4191
+- Jue_16:30más que los que había matado duranteH4191
+- Jue_20:5rodearon contra mí...con idea de matarmeH2026
+- Jue_20:13entregad, pues...para que los matemosH4191
+- Jue_20:31matándolos como las otras veces por losH2491
+- Jue_20:31y mataron unos 30 hombres de Israel
+- Jue_20:35mataron...a 25:100 hombres de BenjamínH7843
+- Jue_20:39comenzaron...matar a la gente de IsraelH2491
+- Jue_20:45y mataron de ellos a dos mil hombresH5221
+- Jue_21:11mataréis a todo varón, y a toda mujerH2763
+- Jue_21:16fueron muertas...mujeres de BenjamínH8045
+- 1Sa_1:25matando el becerro, trajeron el niñoH7819
+- 1Sa_2:6mata, y él da vida; él hace descender alH4191
+- 1Sa_4:11fue...y muertos los dos hijos de Elí, OfniH4191
+- 1Sa_4:17dos hijos, Ofni y Finees, fueron muertosH4191
+- 1Sa_5:10han pasado...el arca del...para matarnosH4191
+- 1Sa_5:11arca...no nos mate...ni a nuestro puebloH4191
+- 1Sa_11:12dadnos esos hombres, y los mataremosH4191
+- 1Sa_14:13su paje de...que iba tras él los matabaH4191
+- 1Sa_15:3mata a hombres, mujeres, niños y aun losH4191
+- 1Sa_15:8a todo el pueblo mató a filo de espadaH2763
+- 1Sa_16:2¿cómo iré? Si Saúl lo supiera, me mataríaH2026
+- 1Sa_17:35le echaba mano...lo hería y lo matabaH4191
+- 1Sa_17:36fuese león...oso, tu siervo lo matabaH5221
+- 1Sa_17:50hirió al filisteo y lo mató, sin tenerH4191
+- 1Sa_17:51lo acabó de matar, y le cortó con ellaH4191
+- 1Sa_17:57; 1Sa_18:6David volvía de matar al filisteoH5221
+- 1Sa_18:27se fue con...y mató a doscientos hombresH5221
+- 1Sa_19:1habló Saúl a...para que matasen a DavidH4191
+- 1Sa_19:2a David...Saúl mi padre procura matarteH4191
+- 1Sa_19:5y mató al filisteo, y Jehová dio granH5221
+- 1Sa_19:5¿por qué...matando a David sin causaH4191
+- 1Sa_19:11Saúl envió...y lo matasen a la mañanaH4191
+- 1Sa_19:11si no salvas tu...mañana serás muertoH4191
+- 1Sa_19:15traédmelo en la cama para que lo mateH4191
+- 1Sa_19:17dijo: Déjame ir; si no, yo te mataréH4191
+- 1Sa_20:8si hay maldad en mí, mátame tú, pues noH4191
+- 1Sa_20:33que su padre estaba resuelto de matarH4191
+- 1Sa_22:17dijo el rey...matad a los sacerdotes deH4191
+- 1Sa_22:17no quisieron...matar a los sacerdotesH6293
+- 1Sa_22:18Doeg...mató...a ochenta y cinco varonesH4191
+- 1Sa_24:10me dijeron que te matase...te perdonéH2026
+- 1Sa_24:11yo corté la...de tu manto, y no te matéH2026
+- 1Sa_26:9no le mates; porque ¿quién extenderá suH7843
+- 1Sa_26:15ha entrado a matar a tu señor el reyH7843
+- 1Sa_27:1al fin seré muerto...por la mano de SaúlH5595
+- 1Sa_28:24tenía...un ternero...el cual mató luegoH2076
+- 1Sa_30:15júrame por Dios que no me matarás, niH4191
+- 1Sa_31:2los filisteos a Saúl...mataron a JonatánH5221
+- 1Sa_31:7que Saúl y sus hijos habían sido muertosH4191
+- 2Sa_1:9me volvió a decir: Te ruego...me matesH4191
+- 2Sa_1:10yo entonces me puse sobre él y le matéH4191
+- 2Sa_1:14tu mano para matar al ungido de Jehová?[[H7843]]
+- 2Sa_1:15dijo: Vé y mátalo. Y él lo hirió, y murióH4191
+- 2Sa_1:16diciendo: Yo maté al ungido de JehováH4191
+- 2Sa_3:30Joab, pues, y Abisai...mataron a AbnerH2026
+- 2Sa_3:37que no...del rey el matar a Abner hijoH4191
+- 2Sa_4:1oyó...Abner había sido muerto en HebrónH4191
+- 2Sa_4:7lo hirieron y lo mataron, y le cortaronH4191
+- 2Sa_4:8cabeza de Is-boset...que procuraba matarteH5315
+- 2Sa_4:10le maté en Siclag en pago de la nuevaH2026
+- 2Sa_4:11hombres que mataron a un hombre justoH2026
+- 2Sa_4:12David ordenó a sus...y ellos los mataronH2026
+- 2Sa_10:18David mató...a la gente de 700 carrosH2126
+- 2Sa_12:9él lo mataste con la espada de...de AmónH2026
+- 2Sa_13:28y al decir yo: Herid a Amnón...matadleH4191
+- 2Sa_13:32-33sólo Amnón ha sido muertoH4191
+- 2Sa_13:33no diga...hijos del rey han sido muertosH4191
+- 2Sa_14:6hijos...hirió el uno al otro, y lo matóH4191
+- 2Sa_14:7entrega al que mató a su hermano, paraH2026
+- 2Sa_14:7a quien él mató, y matemos...al herederoH4191
+- 2Sa_14:32vea yo...y si hay en mí pecado, mátemeH4191
+- 2Sa_17:2el pueblo...huirá, y mataré al rey soloH5221
+- 2Sa_18:11tú, ¿por qué no le mataste luego allíH5221
+- 2Sa_18:15hirieron a Absalón...acabaron de matarleH4191
+- 2Sa_21:1Saúl...por cuanto mató a los gabaonitasH4191
+- 2Sa_21:2había procurado matarlos en su celo porH5221
+- 2Sa_21:9fueron muertos en los...días de la siegaH4191
+- 2Sa_21:12los filisteos mataron a Saúl en GilboaH5221
+- 2Sa_21:16e Isbi-benob...trató de matar a DavidH5221
+- 2Sa_21:17mas Abisai...hirió al filisteo y lo matóH4191
+- 2Sa_21:18Sibecai...mató a Saf, quien era uno deH5221
+- 2Sa_21:19Elhanán...mató a Goliat geteo, el astaH5221
+- 2Sa_21:21desafió a Israel, y lo mató Jonatán hijoH5221
+- 2Sa_23:8éste era Adino...que mató a 800 hombresH2491
+- 2Sa_23:12mató a los filisteos; y Jehová dio unaH5221
+- 2Sa_23:18su lanza contra 300, a quienes mató, yH2491
+- 2Sa_23:20mató a dos leones de Moab; y él mismoH5221
+- 2Sa_23:20y mató a un león en medio de un fosoH5221
+- 2Sa_23:21también mató él a un egipcio, hombreH2026
+- 2Sa_23:21al egipcio...lo mató con su propia lanzaH5221
+- 1Re_1:9y matando Adonías ovejas y vacas yH2076
+- 1Re_1:19, 1Re_1:25ha matado bueyes y animales gordosH2076
+- 1Re_1:51júreme hoy...que no matará a espada a suH4191
+- 1Re_2:5dos generales del...a los cuales él matóH2026
+- 1Re_2:8yo le juré por Jehová: Yo no te mataré aH4191
+- 1Re_2:26pero no te mataré hoy, por cuanto hasH4191
+- 1Re_2:31mátale y entiérrale, y quita de mí y deH6293
+- 1Re_2:32a los cuales mató a espada sin que miH2026
+- 1Re_2:34Benaía hijo de Joiada subió...y lo matóH4191
+- 1Re_3:26dad a ésta el niño vivo, y no lo matéisH4191
+- 1Re_3:27a aquélla el hijo vivo, y no lo matéisH4191
+- 1Re_11:15y mató a todos los varones de EdomH2491
+- 1Re_11:40Salomón procuró matar a Jeroboam, peroH4191
+- 1Re_12:27matarán a mí, y se volverán a RoboamH2026
+- 1Re_13:24yéndose, le topó un león en...y le matóH4191
+- 1Re_13:26león, que le ha quebrantado y matadoH4191
+- 1Re_15:28lo mató, pues, Baasa en el tercer añoH4191
+- 1Re_15:29mató a toda la casa de Jeroboam, sinH5221
+- 1Re_16:4que de Baasa fuere muerto en la ciudadH4191
+- 1Re_16:4el que de él fuere muerto en el campoH4191
+- 1Re_16:10vino Zimri...lo mató, en el año 27 deH4191
+- 1Re_16:11reinar...mató a toda la casa de BaasaH5221
+- 1Re_18:9tu siervo en mano de Acab...que me mate?[[H4191]]
+- 1Re_18:12a Acab, al no hallarte él, me mataráH2026
+- 1Re_18:13cuando Jezabel mataba a los profetasH2026
+- 1Re_18:14aquí está Elías; para que él me mate?[[H2026]]
+- 1Re_19:1cómo había matado a...todos los profetasH2026
+- 1Re_19:10, 1Re_19:14han matado a espada a tus profetasH2026
+- 1Re_19:17escapare...Jehú lo matará...Eliseo lo niH4191
+- 1Re_19:21y tomó un par de bueyes y los mató, yH2076
+- 1Re_20:20mató cada uno al que venía contra élH5221
+- 1Re_20:29mataron de...cien mil hombres de a pieH5221
+- 1Re_20:36apartó...le encontró un león, y le matóH5221
+- 1Re_21:15oyó que Nabot había sido...muerto, dijoH4191
+- 1Re_21:19¿no mataste, y también has despojado?[[H7523]]
+- 1Re_21:24que de Acab fuere muerto en la ciudadH4191
+- 1Re_21:24fuere muerto en el campo, lo comerán losH4191
+- 2Re_3:24persiguieron matando a los de MoabH5221
+- 2Re_5:7¿soy yo Dios, que mate y dé vida, paraH4191
+- 2Re_6:21dijo a Eliseo: ¿Los mataré, padre mío?[[H5221]]
+- 2Re_6:22no los mates. ¿Matarás tú a los...cautivosH5221
+- 2Re_8:12fuego, a sus jóvenes matarás a espadaH2026
+- 2Re_9:31¿sucedió bien a Zimri, que mató a suH2026
+- 2Re_10:11mató entonces Jehú a todos los queH5221
+- 2Re_10:17mató a todos los que habían quedado deH5221
+- 2Re_10:25entrad, y matadlos...no escape ningunoH5221
+- 2Re_10:25los mataron a espada, y los dejaronH5221
+- 2Re_11:2hijos del rey a quienes estaban matandoH4191
+- 2Re_11:2lo ocultó...en esta forma no lo mataronH4191
+- 2Re_11:8que entrare en las filas, sea muertoH4191
+- 2Re_11:15al que la siguiere, matadlo a espadaH4191
+- 2Re_11:15no la matasen en el templo de JehováH4191
+- 2Re_11:16donde entran los de...allí la mataronH4191
+- 2Re_11:18y mataron a Matán sacerdote de BaalH2026
+- 2Re_11:20habiendo sido Atalía muerta a espadaH4191
+- 2Re_12:20y se levantaron...y mataron a Joás enH5221
+- 2Re_14:5mató a...que habían dado muerte al reyH5221
+- 2Re_14:6pero no mató a los hijos de los que leH4191
+- 2Re_14:6no matarán a los padres por los hijosH4191
+- 2Re_14:7mató...a diez mil edomitas en el ValleH5221
+- 2Re_14:19pero le persiguieron...allá lo mataronH4191
+- 2Re_15:10lo hirió...lo mató, y reinó en su lugarH4191
+- 2Re_15:14hirió a Salum...lo mató, y reinó en suH4191
+- 2Re_15:25conspiró contra él Peka hijo...lo matóH4191
+- 2Re_15:30lo hirió y lo mató, y reinó en su lugarH4191
+- 2Re_16:9tomó, y llevó cautivos...y mató a RezínH4191
+- 2Re_17:25envió Jehová...leones que los matabanH2026
+- 2Re_17:26los leones los matan...no conocen la leyH4191
+- 2Re_19:35mató en el campamento de los asirlosH5221
+- 2Re_21:23los siervos de Amón...mataron al rey enH4191
+- 2Re_21:24el pueblo...mató a todos los que habíanH5221
+- 2Re_23:20mató...sobre los altares a...sacerdotesH2076
+- 2Re_23:29pero...así que le vio, lo mató en MeguidoH4191
+- 2Re_25:21el rey de...los hirió y mató en RiblaH4191
+- 1Cr_2:3fue malo delante de Jehová...lo matóH4191
+- 1Cr_7:21los hijos de Gat...los mataron, porqueH2026
+- 1Cr_10:2hijos, y mataron los filisteos a JonatánH5221
+- 1Cr_10:5él...se echó sobre su espada y se matóH4191
+- 1Cr_10:14por esta causa lo mató, y traspasó elH4191
+- 1Cr_11:11lanza...contra 300, a los cuales matóH2491
+- 1Cr_11:20Abisai...blandió su lanza...y los matóH2490
+- 1Cr_11:22mató a un león en medio de un foso, enH5221
+- 1Cr_11:23al egipcio...lo mató con su misma lanzaH2026
+- 1Cr_19:18mató David de los sirios a siete milH2026
+- 1Cr_19:18mató a Sofac general del ejércitoH4191
+- 1Cr_20:4Sibecai husatita mató a Sipai, de losH5221
+- 1Cr_20:5Elhanán hijo...mató a Lahmi, hermano deH5221
+- 1Cr_20:7injurió a Israel, pero lo mató JonatánH5221
+- 2Cr_18:2por lo que Acab mató muchas ovejasH2076
+- 2Cr_20:22Amón...se mataron los unos a los otrosH5062
+- 2Cr_20:23se levantaron contra los...para matarlosH2763
+- 2Cr_21:4mató a espada a todos sus hermanos, yH2026
+- 2Cr_22:1banda armada...había matado a todos losH2026
+- 2Cr_22:8hijos...que servían a Ocozías, y los matóH2026
+- 2Cr_22:9lo trajeron a Jehú, y le mataron; y leH4191
+- 2Cr_22:11a los cuales mataban, le guardó a élH4191
+- 2Cr_22:11lo escondió Josabet...y no lo mataronH4191
+- 2Cr_23:14matadlo...no la matasen en la casa deH4191, [[[[H4191]]]]
+- 2Cr_23:15pasado la entrada de...allí la mataronH4191
+- 2Cr_23:17mataron delante de los altares a MatánH2026
+- 2Cr_23:21que mataron a Atalía a filo de espadaH4191
+- 2Cr_24:21apedrearon hasta matarlo, en el patio
+- 2Cr_24:22mató a su hijo, quien dijo al morirH2026
+- 2Cr_25:3mató a los siervos que habían matado alH2026, [[H5221]]
+- 2Cr_25:4no mató a los hijos de ellos, según loH4191
+- 2Cr_25:11mató de los hijos de Seir diez milH5221
+- 2Cr_25:13de Judá, mataron a tres mil de ellosH5221
+- 2Cr_25:16eso.¿Por qué quieres que te maten?[[H5221]]
+- 2Cr_25:27enviaron tras él...y allá lo mataronH4191
+- 2Cr_28:6Peka...mató en Judá en un día 120.000H2026
+- 2Cr_28:7Zicri...mató a Maasías hijo del rey, aH2026
+- 2Cr_28:9vosotros los habéis matado con ira queH2026
+- 2Cr_29:22mataron...los novillos, y los sacerdotesH7819
+- 2Cr_29:22mataron...los carneros...m los corderosH7819
+- 2Cr_29:24los sacerdotes los mataron, e hicieronH7819
+- 2Cr_32:21lo mataron a espada sus propios hijosH5307
+- 2Cr_33:24conspiraron...y lo mataron en su casaH4191
+- 2Cr_33:25mas el pueblo de...mató a todos los queH5221
+- 2Cr_36:17que mató a espada a sus jóvenes en laH2026
+- Neh_4:11hasta que entremos en...y los matemosH2026
+- Neh_6:10vienen para matarte...noche vendrán a mH2026
+- Neh_9:26mataron a tus profetas que protestabanH2026
+- Est_3:13destruir, matar y exterminar a todosH2026
+- Est_7:4hemos sido vendidos...para ser muertos yH2026
+- Est_8:11a destruir, y matar, y acabar con todaH2026
+- Est_9:6en Susa...mataron...judíos a 500 hombresH2026
+- Est_9:7mataron entonces a Parsandata, Dalfón
+- Est_9:12los judíos han matado a 500 hombres, y aH2026
+- Est_9:15y mataron en Susa a trescientos hombresH2026
+- Est_9:16y mataron de sus contrarios a 75.000H2026
+- Job_1:15, Job_1:17mataron a los criados a filo deH5221
+- Job_5:2es cierto que al necio lo mata la ira, yH2026
+- Job_9:23si azote mata de repente, se ríe delH4191
+- Job_13:15aunque él me matare, en él esperaréH6991
+- Job_20:16veneno de...lo matará lengua de víboraH2026
+- Job_24:14matador; mata al pobre y al necesitadoH6991
+- Sal_10:8se...en escondrijos mata al inocenteH2026
+- Sal_34:21matará al malo la maldad, y los queH4191
+- Sal_37:14para matar a los de recto procederH2873
+- Sal_37:32acecha el impío al...y procura matarloH4191
+- Sal_44:22pero por causa de ti nos matan cada díaH2026
+- Sal 59 tít.y vigilaron la casa para matarloH4191
+- Sal_59:11no los mates, para que mi pueblo noH2026
+- Sal_94:6a la viuda y al extranjero matan, y aH2026
+- Sal_105:29sus aguas en sangre, y mató sus pecesH4191
+- Sal_135:10destruyó a...y mató a reyes poderososH2026
+- Sal_136:18mató a reyes poderosos, porque paraH2026
+- Pro_1:32desvío de los ignorantes los mataráH2026
+- Pro_7:26más fuertes han sido muertos por ellaH2026
+- Pro_9:2mató...víctimas, mezcló su vino, y pusoH2873
+- Pro_21:25el deseo del perezoso le mata, porqueH4191
+- Pro_22:13león está fuera; seré muerto en la calleH7523
+- Ecl_3:3tiempo de matar, y tiempo de curarH2026
+- Isa_11:4con el espíritu de sus labios mataráH4191
+- Isa_14:20tú destruiste tu tierra, mataste a tuH2026
+- Isa_22:13he aquí gozo y alegría, matando vacasH2026
+- Isa_27:1y matará al dragón que está en el marH2026
+- Isa_27:7ha sido muerto como los que lo mataron?[[H2026]]
+- Isa_37:36y mató a 185.000 en el campamento deH5221
+- Isa_37:38hijos...le mataron a espada, y huyeronH5221
+- Isa_65:15el Señor te matará, y a sus siervosH4191
+- Isa_66:3sacrifica...como si matase a un hombreH5221
+- Jer_5:6el león de la selva los matará, losH5221
+- Jer_7:9matando, adulterando, jurando en falsoH7523
+- Jer_15:3espada para matar...y aves del cielo yH2026
+- Jer_20:4llevará cautivos...los matará a espadaH5221
+- Jer_20:17no me mató en el vientre, y mi madreH4191
+- Jer_26:15si me matáis, sangre inocente echaréisH4191
+- Jer_26:19¿acaso lo mataron Ezequías rey de JudáH4191
+- Jer_26:21oyeron sus...y el rey procuró matarleH4191
+- Jer_26:23lo mató a espada, y echó su cuerpo enH5221
+- Jer_26:24en las manos del pueblo para matarloH4191
+- Jer_29:21él los matará delante de vuestros ojosH5221
+- Jer_38:15¿no es verdad que me matarás? y si teH4191
+- Jer_38:16el rey...Vive Jehová...que no te mataréH4191
+- Jer_38:25no nos lo encubras, y no te mataremosH4191
+- Jer_40:14enviado a Ismael hijo...para matarte?[[H5221]], [[H5315]]
+- Jer_40:15mataré a Ismael...¿por qué te ha de matarH5221
+- Jer_41:2matando así a aquel a quien el rey deH4191
+- Jer_41:3asimismo mató Ismael a todos los judíosH5221
+- Jer_41:4día después que mató a Gedalías, cuandoH4191
+- Jer_41:8no nos mates...y no los mató entre susH4191, [[[[H4191]]]]
+- Jer_41:9los hombres que mató a causa de GedalíasH5221
+- Jer_41:16después que mató a Gedalías hijo deH5221
+- Jer_43:3para matarnos y hacernos transportar aH4191
+- Jer_50:21destruye y mata en pos de ellos, diceH2763
+- Jer_50:27matad a todos sus novillos; que vayanH2717
+- Jer_52:27los mató en Ribla en tierra de HamatH4191
+- Lam_2:20¿han de ser muertos en el santuarioH2026
+- Lam_2:21mataste en el día de...furor degollasteH2026
+- Lam_3:43perseguiste; mataste, y no perdonasteH2026
+- Eze_9:5pasad...la ciudad en pos de él, y matadH5221
+- Eze_9:6matad a viejos, jóvenes y vírgenes, niñosH2026
+- Eze_9:7salid. Y salieron, y mataron en la ciudadH5221
+- Eze_9:8que cuando ellos iban matando y quedé yoH5221
+- Eze_13:19matando a...personas que no deben morirH4191
+- Eze_20:17pues no los maté, ni los exterminé enH7843
+- Eze_23:10a ella mataron a espada; y vino a serH2026
+- Eze_23:47matarán a sus hijos y a sus hijas, yH4191
+- Eze_26:6sus hijas que...serán muertas a espadaH2026
+- Eze_26:8matará a espada a tus hijas que estánH4191
+- Eze_26:11a tu pueblo matará a filo de espada, yH4191
+- Eze_28:9delante del que te mate...Yo soy Dios?[[H2026]]
+- Eze_32:15cuando mate a...los que en ella moranH5221
+- Eze_36:12Israel...nunca más les matarás los hijosH7921
+- Eze_36:14y nunca más matarás a los hijos de tuH7921
+- Eze_44:11servirán...ellos matarán el holocaustoH7819
+- Dan_2:12mandó que matasen a todos los sabiosH7
+- Dan_2:13y buscaron a Daniel y a...para matarlosH6992
+- Dan_2:14había salido para matar a los sabios deH6992
+- Dan_2:24había puesto para matar a los sabios deH7
+- Dan_2:24así: No mates a los sabios de BabiloniaH7
+- Dan_3:22la llama del...mató a aquellos que habíanH6992
+- Dan_5:19quien quería mataba, y a quien queríaH6992
+- Dan_5:30la misma noche fue muerto Belsasar reyH6992
+- Dan_7:11miraba hasta que mataron a la bestiaH6992
+- Dan_11:44gran ira para destruir y matar a muchosH2763
+- Ose_2:3la deje como tierra seca, y la mate deH4191
+- Ose_4:2matar, hurtar y adulterar prevalecenH7523
+- Ose_6:5con las palabras de mi boca los matéH2026
+- Ose_6:9compañía de sacerdotes mata en el caminoH7523
+- Ose_9:16yo mataré lo deseable de su vientreH4191
+- Amó_2:3y mataré con él a todos sus príncipesH2026
+- Amó_4:10maté a espada a vuestros jóvenes, conH2026
+- Amó_9:1y al postrero de ellos mataré a espadaH2026
+- Amó_9:4mar, allí mandaré la espada, y los mataráH2026
+- Abd_1:14para matar a los que de ellos escapasenH3772
+- Miq_5:10haré matar tus caballos de en medio deH3772
+- Sof_2:12los de Etiopía seréis muertos con miH2491
+- Zac_11:5a las cuales matan sus compradoresH2026
+- Mat_2:13Herodes buscará al niño para matarloG622
+- Mat_2:16mandó matar a todos los niños menoresG337
+- Mat_5:21no matarás; y cualquiera que matare seráG5407
+- Mat_10:28matan el cuerpo...alma no pueden matarG615
+- Mat_14:5Herodes quería matarle, pero temía alG615
+- Mat_16:21y ser muerto, y resucitar al tercer díaG615
+- Mat_17:23matarán; mas al tercer día resucitaráG615
+- Mat_19:18dijo: No matarás. No adulterarás. NoG5407
+- Mat_21:35a otro mataron, y a otro apedrearonG615
+- Mat_21:38este es el heredero; venid, matémosleG615
+- Mat_21:39echaron fuera de la viña, y le mataronG615
+- Mat_22:4mis animales gordos han sido muertosG2380
+- Mat_22:6tomando a los siervos los mataronG615
+- Mat_23:31que sois hijos de aquellos que mataronG5407
+- Mat_23:34yo os envío profetas...a unos mataréisG615
+- Mat_23:35a quien matasteis entre el templo y elG5407
+- Mat_23:37que matas a los profetas, y apedreas aG615
+- Mat_24:9matarán, y seréis aborrecidos de todasG615
+- Mat_26:4prender con engaño a Jesús, y matarleG615
+- Mat_27:20persuadieron a...que Jesús fuese muertaG622
+- Mar_6:19Herodías...deseaba matarle, y no podíaG615
+- Mar_8:31ser muerto, y resucitar después de tresG615
+- Mar_9:22en el fuego y en el agua, para matarleG622
+- Mar_9:31el Hijo...matarán; pero después de muertoG615
+- Mar_10:19no mates. No hurtes. No digas falsoG5407
+- Mar_10:34y escupirán en él, y lo matarán; masG615
+- Mar_11:18y lo oyeron...y buscaban cómo matarleG622
+- Mar_12:5volvió a enviar otro, y a éste mataronG615
+- Mar_12:5otros muchos, golpeando a unos y matandoG615
+- Mar_12:7matémosle, y la heredad será nuestraG615
+- Mar_12:8mataron, y le echaron fuera de la viñaG615
+- Mar_13:12hijos contra los padres, y los mataránG2289
+- Mar_14:1buscaban...prenderle por engaño y matarleG615
+- Luc_9:22sea muerto, y resucite al tercer díaG615
+- Luc_11:47profetas a quienes mataron...padres![[G615]]
+- Luc_11:48ellos los mataron, y vosotros edificáisG615
+- Luc_11:49a unos matarán y a otros perseguiránG615
+- Luc_12:4no temáis a los que matan el cuerpo, yG615
+- Luc_13:4los cuales cayó la torre en...y los matóG615
+- Luc_13:31y vete...porque Herodes te quiere matarG615
+- Luc_13:34Jerusalén, que matas a los profetas, yG615
+- Luc_15:23el becerro gordo y matadlo, y comamosG2380
+- Luc_15:27padre ha hecho matar el becerro gordoG2380
+- Luc_15:30hecho matar para él el becerro gordoG2380
+- Luc_18:20sabes: No adulterarás; no matarás; noG5407
+- Luc_18:33matarán; mas al tercer día resucitaráG615
+- Luc_19:47y los principales...procuraban matarleG622
+- Luc_20:14venid, matémosle, para que la heredadG615
+- Luc_20:15echaron fuera de la viña, y le mataronG615
+- Luc_21:16seréis...y matarán a algunos de vosotrosG2289
+- Luc_22:2y los escribas buscaban cómo matarleG337
+- Luc_23:32que eran malhechores, para ser muertosG337
+- Jua_5:16judíos perseguían...procuraban matarleG615
+- Jua_5:18los judíos aun más procuraban matarleG615
+- Jua_7:1en Judea...los judíos procuraban matarleG615
+- Jua_7:19cumple la...¿Por qué procuráis matarme?[[G615]]
+- Jua_7:20demonio tienes; ¿quién procura matarte?[[G615]]
+- Jua_7:25¿no es éste a quien buscan para matarle?[[G615]]
+- Jua_8:22¿acaso se matará a sí mismo, que diceG615
+- Jua_8:37procuráis matarme, porque mi palabra noG615
+- Jua_8:40procuráis matarme a mí, hombre que os heG615
+- Jua_10:10el ladrón no viene sino para...matar yG2380
+- Jua_11:53que, desde aquel día acordaron matarloG615
+- Jua_16:2cuando cualquiera que os mate, pensaráG615
+- Hec_2:23éste...matasteis por manos de inicuosG337
+- Hec_3:15matasteis al Autor de la vida, a quienG615
+- Hec_5:30a Jesús, a quien vosotros matasteisG1315
+- Hec_5:33esto, se enfurecían y querían matarlosG337
+- Hec_5:36Teudas...él fue muerto, y todos los que leG337
+- Hec_7:28matarme, como mataste ayer al egipcio?[[G337]]
+- Hec_7:52mataron a los que anunciaron...la venidaG615
+- Hec_9:23judíos resolvieron en consejo matarleG337
+- Hec_9:29hablaba...pero éstos procuraban matarleG337
+- Hec_10:13una voz: Levántate, Pedro, mata y comeG2380
+- Hec_10:39quien mataron colgándole en un maderoG337
+- Hec_11:7me decía: Levántate, Pedro, mata y comeG2380
+- Hec_12:2mató a espada a Jacobo, hermano de JuanG337
+- Hec_13:28pidieron a Pilato que se le mataseG337
+- Hec_16:27la espada y se iba a matar, pensando queG337
+- Hec_21:31procurando ellos matarle, se le avisóG615
+- Hec_22:20guardaba...ropas de los que le matabanG337
+- Hec_23:15estaremos listos para matarle antes queG337
+- Hec_23:27y que iban ellos a matar, lo libré yoG615
+- Hec_25:3preparando ellos una celada para matarleG337
+- Hec_26:10yo...cuando los mataron, yo di mi votoG337
+- Hec_26:21prendiéndome en el...intentaron matarmeG1315
+- Hec_27:42soldados acordaron matar a los presosG615
+- Rom_7:11el pecado...me engañó, y por él me matóG615
+- Rom_8:36por causa de ti somos muertos todo el díaG2289
+- Rom_11:3sólo yo he quedado, y procuran matarme?[[G615]]
+- Rom_13:9no matarás, no hurtarás, no dirás falsoG5407
+- 2Co_3:6la letra mata...el espíritu vivificaG615
+- Efe_2:16un solo cuerpo, matando en ella lasG615
+- 1Ts_2:15los cuales mataron al Señor JesúsG615
+- 2Ts_2:8inicuo, a quien el Señor matará conG355
+- 2Ti_2:11si somos muertos con él...viviremosG4880
+- Heb_11:37fueron...muertos a filo de espadaG599
+- Stg_2:11dijo...también ha dicho: No matarásG5407
+- Stg_2:11pero matas, te has hecho transgresor deG5407
+- Stg_4:2matáis y ardéis de envidia, y no podéisG5407
+- 1Jn_3:12mató a su...¿Y por qué causa le m?[[G4969]]
+- Rev_2:13Antipas mi testigo fiel fue muertoG615
+- Rev_6:4que se matasen unos a otros; y se leG4969
+- Rev_6:8fue dada potestad...para matar con espadaG615
+- Rev_6:9las almas de los que habían sido muertosG4969
+- Rev_6:11que...habían de ser muertos como ellosG615
+- Rev_9:5y les fue dado, no que los matasen, sinoG615
+- Rev_9:15a fin de matar a la tercera parte de losG615
+- Rev_9:18por estas...fue muerta la tercera parte deG615
+- Rev_9:20no fueron muertos con estas plagasG615
+- Rev_11:7hará guerra...los vencerá y los mataráG615
+- Rev_13:10alguno mata...a espada debe ser muertoG615
+- Rev_13:15hiciese matar a...el que no la adoraseG615
+- Rev_18:24los que han sido muertos en la tierraG4969
+- Rev_19:21los demás fueron muertos con la espadaG615

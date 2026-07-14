@@ -1,0 +1,97 @@
+---
+tipo: concordancia
+palabra: CÁMARA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CÁMARA
+
+- Gén_43:30José...entró en su c, y lloró allíH2315
+- Éxo_8:3la c donde duermes, y sobre tu cama
+- Deu_32:25dentro de las c el espanto; así al
+- 2Sa_4:5estaba durmiendo la siesta en su cH4904
+- 2Sa_4:7Is-boset dormía...en su c; y lo hirieron
+- 1Re_1:15Betsabé entró a la c del rey; y elH2315
+- 1Re_6:5edificó...e hizo c laterales alrededorH6763
+- 1Re_14:28los ponían en la c de los de la guardiaH8372
+- 2Re_6:12declara...palabras...tú hablas en tu c
+- 2Re_9:2haz que se levante de...y llévalo a la cH2315
+- 2Re_11:2lo ocultó de Atalía...en la c de dormir
+- 2Re_23:11junto a la c de Natán-mele c eunuco, elH3957
+- 1Cr_9:26a su cargo las c y los tesoros deH3957
+- 1Cr_9:33cantores...moraban en las c del temploH3957
+- 1Cr_23:28las c, y en la purificación de todasH3957
+- 1Cr_26:18la c de los utensilios al occidenteH6503
+- 1Cr_26:18cuatro al camino, y dos en la cH6503
+- 1Cr_28:11David dio a Salomón...el plano...sus cH5944
+- 1Cr_28:12el plano...para todas las c alrededorH3957
+- 2Cr_12:11los volvían a la c de la guardiaH8372
+- 2Cr_18:24tú...entres de c en c para esconderteH2315
+- 2Cr_31:11que preparasen c en la casa de JehováH3957
+- Esd_10:6a la c de Johanán hijo de EliasibH3957
+- Neh_3:30restauró Mesulam...enfrente de su cH5393
+- Neh_10:37las primicias...a las c de la casa deH3957
+- Neh_10:38llevarían el diezmo...las c de la casaH3957
+- Neh_10:39a las c del tesoro han de llevar losH3957
+- Neh_12:44varones sobre las c de los tesoros, deH5393
+- Neh_13:4Eliasib, siendo jefe de la c de la casaH3957
+- Neh_13:5le había hecho una gran c, en la cualH3957
+- Neh_13:7haciendo para él una c en los atrios deH5393
+- Neh_13:8y arrojé todos los muebles de...de la cH3957
+- Neh_13:9que limpiasen las c, e hice volver allíH3957
+- Sal_105:30ranas hasta en las c de sus reyesH2315
+- Pro_7:17he perfumado mi c con mirra, áloes yH4904
+- Pro_7:27casa, que conduce a las c de la muerteH2315
+- Pro_24:4con ciencia se llenarán las c de todoH2315
+- Pro_24:15no aceches la tienda...no saquees su c
+- Ecl_10:20ni en lo...de tu c digas mal del rico
+- Cnt_1:4el rey me ha metido en sus c; nosH2315
+- Cnt_3:4lo metí...en la c de la que me dio a luzH2315
+- Eze_8:12uno en sus c pintadas de imágenes?[[H2315]]
+- Eze_40:7cada c tenía una caña de largo, y unaH8372
+- Eze_40:7entre las c había cinco codos de anchoH8372
+- Eze_40:10y la puerta oriental tenía tres c aH8372
+- Eze_40:12el espacio delante de las c era de unH8372
+- Eze_40:12cada c tenía seis codos por un ladoH8372
+- Eze_40:13midió, desde el techo de una c hastaH8372
+- Eze_40:16había ventanas estrechas en las c, yH8372
+- Eze_40:17había c...treinta c había alrededor enH3957
+- Eze_40:21sus c eran tres de un lado, y tres delH8372
+- Eze_40:29, Eze_40:33c...eran conforme a estas medidasH8372
+- Eze_40:36sus c, sus postes, sus arcos y susH8372
+- Eze_40:38había...una c, y su puerta con postesH3957
+- Eze_40:44el atrio...estaban las c de los cantoresH3957
+- Eze_40:45esta c que mira hacia el sur es de losH3957
+- Eze_40:46y la c que mira hacia el norte es deH3957
+- Eze_41:5y de cuatro codos la anchura de las cH6763
+- Eze_41:6las c laterales estaban sobrepuestasH6763
+- Eze_41:6sobre los que estribasen las c, paraH6763
+- Eze_41:7mayor anchura en las c de más arribaH6763
+- Eze_41:8los cimientos de las c eran de una cañaH6763
+- Eze_41:9el ancho de la pared de...las c era deH6763
+- Eze_41:9igual al espacio que quedaba de las cH6763
+- Eze_41:10entre las c había anchura de 20 codosH3957
+- Eze_41:11la puerta de cada c salía al espacioH6763
+- Eze_41:15midió...las c de uno y otro lado, cienH862
+- Eze_41:16y las c alrededor de los tres pisosH862
+- Eze_41:26eran las c de la casa y los umbralesH6763
+- Eze_42:1me llevó a la c...delante del espacioH3957
+- Eze_42:3las c, las unas enfrente de las otrasH862
+- Eze_42:4delante de las c había un corredor deH3957
+- Eze_42:5y las c más altas eran más estrechasH3957
+- Eze_42:7el muro...enfrente de las c, hacia elH3957
+- Eze_42:7muro...delante de las c, tenía 50 codosH3957
+- Eze_42:8la longitud de las c...cincuenta codosH3957
+- Eze_42:9y debajo de las c estaba la entrada alH3957
+- Eze_42:10hacia...delante del edificio, había cH3957
+- Eze_42:11el corredor...era semejante al de las cH3957
+- Eze_42:12así también eran las puertas de las cH3957
+- Eze_42:12una puerta...para quien entraba en las c
+- Eze_42:13me dijo: Las c...c santas en las cualesH3957
+- Eze_44:19y las dejarán en las c del santuarioH3957
+- Eze_45:5cual será para los levitas...con veinte cH3957
+- Eze_46:19me trajo...a las c...de los sacerdotesH3957
+- Dan_6:10y abiertas las ventanas de su c queH5952
+- Joe_2:16de su c el novio, y de su tálamo laH2315
+- Amó_9:6él edificó en el cielo sus c, y haH4609

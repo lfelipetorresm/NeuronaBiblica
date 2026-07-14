@@ -1,0 +1,127 @@
+---
+tipo: concordancia
+palabra: NÚMERO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NÚMERO
+
+- Gén_30:30poco tenías...y ha crecido en gran nH6555
+- Gén_41:49no poderse contar, porque no tenía nH4557
+- Gén_47:12y alimentaba...según el n de los hijos
+- Éxo_12:4tomarán...según el n de las personasH4373
+- Éxo_16:16conforme al n de vuestras personasH4557
+- Éxo_23:26y yo completaré el n de tus díasH4557
+- Éxo_30:12el n de los hijos de Israel conforme aH6485
+- Lev_25:15al n de los años después del jubileoH4557
+- Lev_25:15conforme al n de...años de los frutosH4557
+- Lev_25:16cuanto mayor fuere el n de los añosH4557
+- Lev_25:16cuanto menor fuere el n, disminuirás elH7230
+- Lev_25:16según el n de las cosechas te venderáH4557
+- Lev_25:50apreciarse...conforme al n de los añosH4557
+- Lev_26:22os reduzcan en n, y vuestros caminos
+- Núm_3:28el n de todos los varones de un mesH4557
+- Núm_3:34los contados de ellos conforme al n deH4557
+- Núm_3:43varones, conforme al n de sus nombresH4557
+- Núm_3:49los que excedían el n de los redimidos
+- Núm_4:22n de los hijos de Gersón según las casasH7218
+- Núm_14:29todo el n de los que fueron contadosH4557
+- Núm_14:34conforme al n de los días...los 40 díasH4557
+- Núm_15:12conforme al n así haréis según el n deH4557
+- Núm_23:10o el n de la cuarta parte de Israel?[[H4557]]
+- Núm_29:18, Núm_29:21, Núm_29:24, Núm_29:27, Núm_29:30, Núm_29:33, Núm_29:37según el n de ellosH4557
+- Núm_31:36y la mitad...fue el n de 337.500 ovejasH4557
+- Deu_4:27quedaréis pocos en n entre las nacionesH4557
+- Deu_25:2según su delito será el n de azotesH4557
+- Deu_28:62quedaréis pocos en n, en lugar de haber
+- Deu_32:8los límites...según el n de los hijos deH4557
+- Jos_4:5, Jos_4:8conforme al n de las tribus de losH4557
+- Jos_8:25n de los que cayeron aquel día...12.000
+- Jue_7:6el n de los que lamieron...300 hombresH4557
+- Jue_21:23hijos tomaron mujeres conforme a su nH4557
+- 1Sa_6:4conforme al n de los príncipes de losH4557
+- 1Sa_6:18ratones...fueron conforme al n de todasH4557
+- 1Sa_27:7fue el n de los días que David habitó
+- 2Sa_2:11el n de los días que David reinó en
+- 2Sa_2:15y pasaron en n igual, doce de BenjamínH4557
+- 2Sa_24:2censo...para que yo sepa el n de la genteH4557
+- 1Re_18:31conforme al n de las tribus de losH4557
+- 1Cr_7:40contados...el n de ellos fue 26.000H4557, [[H3187]]
+- 1Cr_9:13sus hermanos, jefes de...en n de 1:760
+- 1Cr_11:11el n de los valientes que David tuvoH4557
+- 1Cr_12:23y este es el n de los principales queH4557
+- 1Cr_16:19cuando ellos eran pocos en n, pocos y
+- 1Cr_21:2haced censo...e informadme sobre el n deH5608
+- 1Cr_21:4dio la cuenta del n del pueblo a David
+- 1Cr_23:3levitas...fue el n de ellos por...38.000H4557
+- 1Cr_23:31según su n y de acuerdo con su ritoH4557
+- 1Cr_25:1el n de ellos, hombres idóneos para laH4557
+- 1Cr_25:7el n de...instruidos en el canto...fue 288H4557
+- 1Cr_27:23no tomo David el n de los que eran deH4557
+- 1Cr_27:24así el n no fue puesto en el registroH4487
+- 2Cr_4:18todos estos enseres en n tan grande
+- 2Cr_12:3que venía con él de Egipto...no tenía nH4557
+- 2Cr_17:14este es el n de ellos según sus casasH6486
+- 2Cr_26:12el n de los jefes de familia...era 2.600H4557
+- 2Cr_28:5y le tomaron gran n de prisioneros que
+- 2Cr_29:32el n de los holocaustos que trajo laH4557
+- 2Cr_35:7dio el rey Josías...en n de treinta milH4557
+- Esd_2:2n de los varones del pueblo de IsraelH4557
+- Esd_6:17conforme al n de las tribus de IsraelH4510
+- Neh_7:7n de los varones del pueblo de IsraelH4557
+- Est_9:11dio cuenta al rey...n de los muertosH4557
+- Job_1:5y ofrecía holocaustos conforme al n deH4557
+- Job_3:6del año, ni venga en el n de los mesesH4557
+- Job_5:9hace cosas grandes...y maravillas sin nH4557
+- Job_9:10hace cosas grandes...maravillosas, sin nH4557
+- Job_14:5el n de sus meses está cerca de ti; leH4557
+- Job_15:20el n de sus años está escondido paraH4557
+- Job_21:21sí, siendo cortado el n de sus meses?[[H4557]]
+- Job_25:3¿tienen sus ejércitos n? ¿Sobre quién noH4557
+- Job_31:37le contaría el n de mis pasos, y comoH4557
+- Job_38:21nacido, y es grande el n de tus díasH4557
+- Sal_40:12porque me han rodeado males sin n
+- Sal_71:15mi boca publicará...aunque no sé su nH5615
+- Sal_105:12ellos eran pocos en n, y forasterosH4557
+- Sal_105:34y vinieron langostas, y pulgón sin nH4557
+- Sal_147:4cuenta el n de las estrellas; a todasH4557
+- Cnt_6:8sesenta son las...y las doncellas sin nH4557
+- Isa_10:19en n que un niño los pueda contar
+- Isa_21:17sobrevivientes del n de los valientesH4557
+- Jer_2:28según el n de tus ciudades, oh JudáH4557
+- Jer_11:13según el n de tus ciudades...tus diosesH4557
+- Jer_11:13según el n de tus calles...los altaresH4557
+- Jer_46:23serán más numerosos que...no tendrán nH369, [[H4557]]
+- Eze_4:4el n de los días que duermas sobre élH4557
+- Eze_4:5te he dado los años...por el n de los díasH4557
+- Eze_4:9hazte pan de ellos el n de los días queH4557
+- Eze_5:3tomarás también de allí unos pocos en nH4557
+- Dan_9:2miré...en los libros el n de los años deH4557
+- Ose_1:10será el n de los...Israel como la arenaH4557
+- Luc_22:3Judas...el cual era uno del n de losG706
+- Jua_6:10se recostaron...en n de 5.000 varonesG706
+- Hec_1:15y los reunidos eran como 120 en nG3793
+- Hec_4:4el n de los varones era como cinco milG706
+- Hec_5:14gran n así de hombres como de mujeresG4128
+- Hec_5:36a éste se unió un n como de 400 hombresG706
+- Hec_6:1como creciera el n de los discípulos, hubo
+- Hec_6:7el n de los discípulos se multiplicabaG706
+- Hec_7:14su parentela, en n de setenta y cinco
+- Hec_11:21gran n creyó y se convirtió al SeñorG706
+- Hec_16:5las iglesias...aumentaban en n cada díaG706
+- Hec_17:4los griegos piadosos gran n, y mujeresG4128
+- Rom_9:27si fuere el n de los hijos de IsraelG706
+- 1Co_9:19hecho siervo...para ganar a mayor n
+- 2Co_11:23en azotes sin n; en cárceles másG5234
+- Rev_5:11ángeles...su n era millones de millonesG706
+- Rev_6:11que se completara el n de sus consiervosG706
+- Rev_7:4oí el n de los sellados: 144.000 selladosG706
+- Rev_9:16y el n de los ejércitos de los jinetesG706
+- Rev_9:16era doscientos millones...Yo oí su nG706
+- Rev_11:13murieron en n de siete mil hombres; yG7227
+- Rev_13:17tuviese la marca...o el n de su nombreG706
+- Rev_13:18el n de la bestia, pues es n de hombreG706
+- Rev_13:18y su n es seiscientos sesenta y seisG706
+- Rev_15:2la victoria sobre la bestia...y el n deG706
+- Rev_20:8el n de los cuales es como la arena delG706

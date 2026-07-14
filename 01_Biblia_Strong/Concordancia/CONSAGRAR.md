@@ -1,0 +1,84 @@
+---
+tipo: concordancia
+palabra: CONSAGRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONSAGRAR
+
+- Éxo_13:2conságrame todo primogénito...mío esH6942
+- Éxo_16:23reposo, el reposo consagrado a Jehová
+- Éxo_28:3consagrarle para que sea mi sacerdoteH6942
+- Éxo_28:38consagrado en todas sus santas ofrendasH6942
+- Éxo_28:41y los consagrarás y santificarás, paraH4390, [[H3027]]
+- Éxo_29:1es lo que les harás para consagrarlosH3547
+- Éxo_29:9así consagrarás a Aarón y a sus hijosH4390, [[H3027]]
+- Éxo_29:29ungidos...para ser en ellas consagradosH4390, [[H3027]]
+- Éxo_29:33para llenar sus manos para consagrarlosH4390, [[H3027]]
+- Éxo_29:35harás...por siete días los consagrarásH4390, [[H3027]]
+- Éxo_30:29consagrarás, y serán cosas santísimasH6942
+- Éxo_30:30a Aarón y a...consagrarás para que seanH6942
+- Éxo_31:15es día de reposo consagrado a JehováH6944
+- Éxo_32:29Moisés dijo: Hoy os habéis consagradoH4390, [[H3027]]
+- Éxo_32:29cada uno se ha consagrado en su hijoH4390, [[H3027]]
+- Éxo_40:13consagrarás para que sea mi sacerdoteH6942
+- Lev_7:35el día que él los consagró para serH7126
+- Lev_8:33porque por siete días seréis consagradosH4394
+- Lev_16:32fuere...consagrado para ser sacerdoteH4390, [[H3027]]
+- Lev_19:24su fruto será consagrado en alabanzasH6944
+- Lev_21:10y que fue consagrado para llevar lasH4390, [[H3027]]
+- Lev_22:3los hijos de Israel consagran a JehováH6942
+- Lev_27:14consagrándola a Jehová, la valoraráH6942
+- Lev_27:21la tierra será santa...tierra consagradaH2764
+- Lev_27:23tu precio...cosa consagrada a JehováH6944
+- Lev_27:28ni se rescatará ninguna cosa consagradaH2764
+- Lev_27:28todo lo consagrado será cosa santísimaH2764
+- Lev_27:32el diezmo será consagrado a JehováH6944
+- Núm_3:3consagró para ejercer el sacerdocioH4390, [[H3027]]
+- Núm_6:9su cabeza consagrada será contaminadaH5145
+- Núm_6:12consagrará para Jehová los días de suH5144
+- Núm_6:18el nazareo raerá...su cabeza consagradaH5145
+- Núm_6:18los cabellos de su cabeza consagrada yH5145
+- Núm_6:19que fuere raída su cabeza consagradaH5145
+- Núm_18:8todas las cosas consagradas...te he dadoH6944
+- Núm_18:14lo consagrado por voto en...será tuyoH2764
+- Núm_18:29la porción que ha de ser consagradaH4720
+- Deu_12:26las cosas que hubieres consagradoH6944
+- Deu_15:19consagrarás a Jehová todo primogénitoH6942
+- Deu_26:13he sacado lo consagrado de mi casaH6944
+- Deu_33:3los consagrados a él estaban en su manoH6918
+- Jos_6:19la plata y el oro...sean consagradosH6944
+- Jue_17:5consagró a uno de sus hijos para queH4390, [[H3027]]
+- Jue_17:12Micaía consagró al levita...le servía deH4390, [[H3027]]
+- 1Re_13:33y a quien quería lo consagraba paraH4390, [[H3027]]
+- 2Re_12:4dinero consagrado que se suele traerH6944
+- 1Cr_22:19los utensilios consagrados a DiosH6944
+- 1Cr_26:26que había consagrado el rey David, yH6944
+- 1Cr_26:27lo que habían consagrado de las guerrasH6942
+- 1Cr_26:28que había consagrado el vidente SamuelH6942
+- 1Cr_26:28y todo lo que cualquiera consagrabaH6942
+- 2Cr_2:4edificar casa al...para consagrárselaH6942
+- 2Cr_7:7consagró la parte central del atrio queH6942
+- 2Cr_13:9venga a consagrarse con un becerro y 7H4390, [[H3027]]
+- 2Cr_15:18trajo a...y lo que él había consagradoH6944
+- 2Cr_23:6éstos entrarán, porque están consagradosH6944
+- 2Cr_24:7cosas consagradas de la casa de JehováH6944
+- 2Cr_26:18hijos de Aarón, que son consagradosH6942
+- 2Cr_29:31os habéis consagrado ahora a JehováH4390, [[H3027]]
+- 2Cr_31:12y los diezmos y las cosas consagradasH6944
+- 2Cr_31:18con...se consagraban a las cosas santasH6942
+- Esd_8:28vosotros estáis consagrados a JehováH6944
+- Neh_12:47consagraban...porciones a los levitasH6942
+- Neh_12:47y los levitas consagraban parte a losH6942
+- Isa_13:3yo mandé a mis consagrados, asimismoH6942
+- Isa_23:18ganancias serán consagrados a JehováH6944
+- Eze_20:40con todas vuestras cosas consagradasH6944
+- Eze_36:38las ovejas consagradas...de JerusalénH6944
+- Eze_43:26lo limpiarán, y así lo consagraránH4390, [[H3027]]
+- Eze_44:29cosa consagrada en Israel será de ellosH2764
+- Eze_45:1porción...le consagraréis en la tierraH6944
+- Eze_45:4lo consagrado de esta tierra sera paraH6944
+- Eze_48:14porque es cosa consagrada a JehováH6944
+- Miq_4:13consagrarás a Jehová su botín, y susH2763
+- Zac_14:21toda olla...será consagrada a JehováH6944

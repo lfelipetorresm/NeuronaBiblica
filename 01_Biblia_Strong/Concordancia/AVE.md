@@ -1,0 +1,128 @@
+---
+tipo: concordancia
+palabra: AVE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AVE
+
+- Gén_1:20produzcan las aguas...y a que vuelenH5775
+- Gén_1:21y creó...toda a alada según su especieH5775
+- Gén_1:22y multiplíquense las a en la tierraH5775
+- Gén_1:26y señoree...en las a de los cielos, enH5775
+- Gén_1:28y señoread en...en las a de los cielosH5775
+- Gén_1:30a todas las a de los cielos, y a todoH5775
+- Gén_2:19Dios formó...toda a de los cielos, y lasH5775
+- Gén_2:20puso Adán nombre a toda bestia y a deH5775
+- Gén_6:7raeré...hasta el reptil y las a del cieloH5775
+- Gén_6:20las a según su especie, y de las bestiasH5775
+- Gén_7:3de las a de los cielos, siete parejasH5775
+- Gén_7:8de las a, y de todo lo que se arrastraH5775
+- Gén_7:14toda a según su especie, y todo pájaroH5775
+- Gén_7:21murió toda carne...de a como de ganadoH5775
+- Gén_7:23destruido...desde el hombre hasta...las aH5775
+- Gén_8:17de a de bestias y de todo reptil queH5775
+- Gén_8:19todo reptil y toda a...salieron del arcaH5775
+- Gén_8:20tomó de todo animal limpio y de toda aH5775
+- Gén_9:2sobre toda a de los cielos, en todo loH5775
+- Gén_9:10a, animales y toda bestia de las tierraH5775
+- Gén_15:10partió por la mitad...no partió las aH6833
+- Gén_15:11descendían a de rapiña sobre...cuerposH5861
+- Gén_40:17y las a las comían del canastillo deH5775
+- Gén_40:19y las a comerán tu carne de sobre tiH5775
+- Lev_1:14si la ofrenda para Jehová fuere...de aH5775
+- Lev_7:26ninguna sangre...ni de a ni de bestiasH5775
+- Lev_11:13de las a, éstas tendréis en abominaciónH5775
+- Lev_11:46la ley acerca de las bestias, y las aH5775
+- Lev_17:13que cazare animal o a que sea de comerH5775
+- Lev_20:25diferencia...entre a inmunda y limpiaH5775
+- Lev_20:25no contaminéis...con las a, ni con nadaH5775
+- Deu_4:17figura de a alguna alada que vuele porH5775
+- Deu_14:11, Deu_14:20toda a limpia podréis comerH5775
+- Deu_22:6cuando encuentres...algún nido de a enH6833
+- Deu_28:26servirán de comida a toda a del cieloH5775
+- 1Sa_17:44y daré tu carne a las a del cieloH5775
+- 1Sa_17:46los cuerpos de los filisteos a las aH5775
+- 2Sa_21:10que ninguna a...posase sobre ellosH5775
+- 1Re_4:23sin los ciervos, gacelas, corzos y aH1257
+- 1Re_4:33disertó sobre las a, sobre los reptilesH5775
+- 1Re_14:11que muera...lo comerán las a del cieloH5775
+- 1Re_16:4; 1Re_21:24muerto...comerán las a del cieloH5775
+- Neh_5:18también eran preparadas para mí aH5775
+- Job_12:7las a de los cielos...te lo mostraránH5775
+- Job_28:7senda que nunca la conoció a, ni ojo deH344
+- Job_28:21ojos...y a toda a del cielo es ocultaH5775
+- Job_35:11y nos hace sabios más que a las a delH5775
+- Sal_8:8a de los cielos y los peces del marH6833
+- Sal_11:1a mi alma que escape al monte cual a?[[H6833]]
+- Sal_50:11conozco a todas las a de los montesH5775
+- Sal_78:27hizo llover sobre ellos...a que vuelanH5775
+- Sal_79:2dieron los cuerpos...por comida a las aH5775
+- Sal_104:12sus orillas habitan las a de los cielosH5775
+- Sal_104:17allí anidan las a; en las hayas haceH6833
+- Sal_124:7nuestra alma escapó cual a del lazo deH6833
+- Pro_1:17tiende la red ante los ojos de toda aH1167
+- Pro_6:5y como a de la mano del que arma lazosH6833
+- Pro_7:23el a que se apresura a la red, y no sabeH6833
+- Pro_27:8cual a que se va de su nido, tal es elH6833
+- Ecl_9:12como las a que se enredan en lazo, asíH6833
+- Ecl_10:20las a del cielo llevarán la voz, y lasH5775
+- Ecl_12:4se levantarán a la voz del a, y todasH6833
+- Isa_16:2cual a espantada que huye de su nidoH5775
+- Isa_18:6dejados todos para las a de los montesH5861
+- Isa_18:6sobre ellos tendrán el verano las a, eH5861
+- Isa_31:5como las a que vuelan...amparará JehováH6833
+- Isa_46:11que llamo desde el oriente al a, y deH5861
+- Jer_4:25todas las a del cielo se habían idoH5775
+- Jer_7:33para comida de las a del cielo y de lasH5775
+- Jer_9:10desde las a del cielo hasta las bestiasH5775
+- Jer_12:4faltaron los ganados y las a; porqueH5775
+- Jer_12:9¿es mi heredad para mí como a de rapiñaH5861
+- Jer_12:9contra ella a de rapiña en derredor?[[H5861]]
+- Jer_15:3a del cielo y bestias de la tierra paraH5775
+- Jer_16:4servirán de comida a las a del cielo yH5775
+- Jer_19:7y daré sus cuerpos para comida a las aH5775
+- Jer_34:20sus cuerpos...serán comida de las a delH5775
+- Lam_3:52mis enemigos me dieron caza como a aH6833
+- Eze_13:20vuelen como a las almas que...cazáis
+- Eze_17:23habitarán debajo de él todas las a deH6833
+- Eze_29:5a las a del cielo te he dado por conmidaH5775
+- Eze_31:6en sus ramas hacían nido todas las aH5775
+- Eze_31:13sobre su ruina habitarán...a del cieloH5775
+- Eze_32:4posar sobre ti todas las a del cieloH5775
+- Eze_38:20las a del cielo, las bestias del campoH5775
+- Eze_39:4a a de rapiña...te he dado por comidaH6833
+- Eze_39:17di a las a de toda especie...JuntaosH6833
+- Eze_44:31ninguna cosa mortecina...así de a comoH5775
+- Dan_2:38dondequiera que habitan...a del cieloH5776
+- Dan_4:12sus ramas hacían morada las a del cieloH6853
+- Dan_4:14váyanse las bestias...las a de sus ramasH6853
+- Dan_4:21en cuyas ramas anidaban las a del cieloH6853
+- Dan_4:33su pelo...y sus uñas como las de las aH6853
+- Dan_7:6con cuatro alas de a en sus espaldasH5776
+- Ose_2:18haré para ti pacto...las a del cieloH5775
+- Ose_4:3se extenuará...las bestias...a del cieloH5775
+- Ose_7:12mi red; les haré caer como a del cieloH5775
+- Ose_9:11la gloria de Efraín volará cual a, deH5775
+- Ose_11:11como a acudirán velozmente de EgiptoH6833
+- Amó_3:5¿caerá el a en lazo sobre la tierraH6833
+- Sof_1:3destruiré las a del cielo y los pecesH5775
+- Mat_6:26las a del cielo, que no siembran, niG4071
+- Mat_8:20las a del cielo nidos; mas el Hijo delG4071
+- Mat_13:4camino; y vinieron las a y la comieronG4071
+- Mat_13:32vienen las a del cielo y hacen nidos enG4071
+- Mar_4:4al camino, y vinieron las a del cieloG4071
+- Mar_4:32a del cielo pueden morar bajo su sombraG4071
+- Luc_8:5hollada, y las a del cielo la comieronG4071
+- Luc_9:58guaridas, y las a de los cielos nidosG4071
+- Luc_12:24¿no valéis vosotros más que las a?[[G4071]]
+- Luc_13:19las a del cielo anidaron en sus ramasG4071
+- Hec_10:12de todos los...reptiles y a del cieloG4071
+- Hec_11:6vi...y fieras, y reptiles, y a del cieloG4071
+- Rom_1:23imagen de hombre...de a, de cuadrúpedosG4071
+- 1Co_15:39otra carne la de...otra la de las aG4421
+- Stg_3:7toda naturaleza...de a...se doma y haG4071
+- Rev_18:2ha hecho...albergue de toda a inmundaG3732
+- Rev_19:17y clamó a gran voz...a todas las a queG3732
+- Rev_19:21a se saciaron de las carnes de ellosG3732

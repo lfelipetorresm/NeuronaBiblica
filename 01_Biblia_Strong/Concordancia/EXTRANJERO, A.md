@@ -1,0 +1,155 @@
+---
+tipo: concordancia
+palabra: EXTRANJERO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EXTRANJERO, A
+
+- Gén_4:12fuerza; errante y e serás en la tierraH5110
+- Gén_4:14me echas...seré errante y e en la tierraH5110
+- Gén_17:12el comprado por dinero a cualquier eH1121, [[H5236]]
+- Gén_17:27el siervo...comprado del e por dineroH1121, [[H5236]]
+- Gén_23:4e y forastero soy entre vosotros; dadmeH1616
+- Éxo_12:19comiere leudado, así e como naturalH1616
+- Éxo_12:45el e y el jornalero no comerán de ellaH8453
+- Éxo_12:48mas si algún e morare contigo, y quiereH1616
+- Éxo_12:49ley será para el natural, y para el eH1616
+- Éxo_20:10no hagas en él obra alguna...ni tu e queH1616
+- Éxo_22:21al e no...angustiarás, porque e fuisteisH1616
+- Éxo_23:9no angustiarás al e...ya que e fuisteisH1616
+- Éxo_23:9vosotros sabéis cómo es el alma del eH1616
+- Éxo_23:12y tome refrigerio...tu sierva, y el eH1616
+- Lev_16:29ni el natural ni el e que mora entreH1616
+- Lev_17:8de los e que moran entre vosotros, queH1616
+- Lev_17:10, Lev_17:13o de los e que moran entre ellosH1616
+- Lev_17:12ni el e que mora entre vosotros comeráH1616
+- Lev_17:15así de los naturales como de los e, queH1616
+- Lev_18:26natural ni el e que mora entre vosotrosH1616
+- Lev_19:10para el pobre y para el e lo dejarásH1616
+- Lev_19:33cuando el e morare...en vuestra tierraH1616
+- Lev_19:34un natural de vosotros tendréis al eH1616
+- Lev_19:34porque e fuisteis en la tierra de EgiptoH1616
+- Lev_20:2de Israel, o de los e que moran en IsraelH1616
+- Lev_22:18cualquier varón...o de los e en IsraelH1616
+- Lev_22:25ni de mano de e tomarás estos animalesH5236
+- Lev_23:22para el pobre y para el e la dejarásH1616
+- Lev_24:16el e como el natural, si blasfemare elH1616
+- Lev_24:22un mismo estatuto tendréis para el eH1616
+- Lev_25:6te dará para...tu e que morare contigoH8453
+- Lev_25:23vosotros forasteros y e sois...conmigoH1616
+- Lev_25:35empobreciera...como forastero y e viviráH1616
+- Lev_25:40como criado, como e estará contigoH8453
+- Lev_25:47el e que está contigo se enriqueciereH8453
+- Lev_25:47y se vendiere al...e que esta contigoH1616
+- Lev_25:47vendiere...a alguno de la familia del eH1616
+- Núm_9:14si morare con vosotros e, y celebrareH1616
+- Núm_9:14un mismo rito...el e como el natural deH1616
+- Núm_11:4la gente e...tuvo un vivo deseo, y losH628
+- Núm_15:14y cuando habitare con vosotros e, oH1616
+- Núm_15:15estatuto...de la congregación y el e queH1616
+- Núm_15:15como vosotros...el e delante de JehováH1616
+- Núm_15:16un mismo decreto...vosotros y el e queH1616
+- Núm_15:26será perdonado a...al e que mora entreH1616
+- Núm_15:29nacido entre...y el e que habitare entreH1616
+- Núm_15:30con soberbia, así el natural como el eH1616
+- Núm_19:10estatuto perpetuo...para el e que moraH1616
+- Núm_35:15serán de refugio...para el e y el queH1616
+- Deu_1:16juzgad...hombre y su hermano, y el eH1616
+- Deu_5:14ninguna obra harás tú...ni el e que estáH1616
+- Deu_10:18ama también al e dándole pan y vestidoH1616
+- Deu_10:19amaréis, pues, al e; porque e fuisteisH1616
+- Deu_14:21al e que...la darás...o véndela a un eH1616
+- Deu_14:29y el e...que hubiere en tus poblacionesH1616
+- Deu_15:3del e demandarás el reintegro; pero lo queH5237
+- Deu_16:11tú...y el e, el huérfano y la viuda queH1616
+- Deu_16:14el e, el huérfano y la viuda que vivenH1616
+- Deu_17:15no podrás poner sobre ti a hombre eH376, [[H5237]]
+- Deu_24:14ya sea de tus hermanos o de los e queH1616
+- Deu_24:17no torcerás el derecho del e ni delH1616
+- Deu_24:19gavilla...para recogerla; será para el eH1616
+- Deu_24:20-21será para el e, para el huérfanoH1616
+- Deu_26:11levita y el e que está en medio de tiH1616
+- Deu_26:12darás...al e, al huérfano y a la viudaH1616
+- Deu_26:13he dado...al e, al huérfano y a la viudaH1616
+- Deu_27:19que pervirtiere el derecho del e, delH1616
+- Deu_28:43el e...se elevará sobre ti muy alto, yH1616
+- Deu_29:11y tus e que habitan en...tu campamentoH1616
+- Deu_29:22y el e que vendrá de lejanas tierrasH5237
+- Deu_31:12harás congregar...tus e que estuvierenH1616
+- Jos_8:33Israel...así los e como los naturalesH1616
+- Jos_8:35delante de...los e que moraban entre ellosH1616
+- Jos_20:9para el e que morase entre ellos, paraH1616
+- Jue_19:12no iremos a ninguna ciudad de e, queH5237
+- Rut_2:10por qué he hallado gracia...siendo yo e?[[H5237]]
+- 2Sa_1:13y él respondió: Yo soy hijo de un eH376, [[H1616]]
+- 2Sa_15:19tú eres e, y desterrado también de tuH5237
+- 1Re_8:41el e, que no es de tu pueblo IsraelH5237
+- 1Re_8:43por lo cual el e hubiere clamado a tiH5237
+- 1Re_11:1el rey Salomón amó...a muchas mujeres eH5237
+- 1Re_11:8así hizo para todas sus mujeres e, lasH5237
+- 1Cr_22:2mandó David que se reuniese a los eH1616
+- 1Cr_29:15e y advenedizos somos delante de tiH1616
+- 2Cr_2:17contó Salomón todos los hombres eH582, [[H1616]]
+- 2Cr_6:32al e que no fuere de tu pueblo IsraelH5237
+- 2Cr_6:33por las cuales hubiere clamado a ti el eH5237
+- Esd_10:2tomamos mujeres e de los pueblos deH5237
+- Esd_10:10pecado, por cuanto tomasteis mujeres eH5237
+- Esd_10:11apartaos de los pueblos...las mujeres eH5237
+- Esd_10:14que...hayan tomado mujeres e, vengan enH5237
+- Esd_10:17aquellos que habían tomado mujeres eH5237
+- Esd_10:18sacerdotes que habían tomado mujeres eH5237
+- Esd_10:44todos estos habían tomado mujeres eH5237
+- Neh_9:2y se había apartado...de todo los eH1121, [[H5236]]
+- Neh_13:3separaron...a todos los mezclados con eH6154
+- Neh_13:26a él le hicieron pecar las mujeres eH5237
+- Neh_13:27prevaricar contra...tomando mujeres e?[[H5237]]
+- Neh_13:30los limpié, pues, de todo e, y puse aH5236
+- Sal_94:6viuda y al e matan, y a los huérfanosH1616
+- Sal_114:1salió...la casa de Jacob del pueblo eH3937
+- Sal_119:54cánticos...en la casa en donde fui eH4033
+- Sal_146:9Jehová guarda a los e; al huérfano y aH1616
+- Isa_1:7vuestra tierra delante...comida por eH2114
+- Isa_2:6están llenos de...y pactan con hijos de eH5237
+- Isa_14:1y a ellos se unirán e, y se juntarán aH1616
+- Isa_56:3e que sigue a Jehová no hable diciendoH5236
+- Isa_56:6a los hijos de los e que sigan a JehováH5236
+- Isa_60:10y e edificarán tus muros, y sus reyesH5236
+- Isa_61:5e apacentarán vuestras ovejas, y losH2114
+- Jer_7:6no oprimiereis al e, al huérfano y aH1616
+- Jer_22:3juicio...y no engañéis ni robéis al e, niH1616
+- Jer_30:8e no lo volverán más a...en servidumbreH2114
+- Jer_51:51vinieron e contra los santuarios de laH2114
+- Eze_14:7de los e que moran en Israel, que seH1616
+- Eze_22:7al e trataron con violencia en medio deH1616
+- Eze_22:29violencia, y al e oprima sin derechoH1616
+- Eze_28:7traigo sobre ti e, los fuertes de lasH2114
+- Eze_28:10morirás por mano de e...dice Jehová elH2114
+- Eze_30:12y por mano de e destruiré la tierraH2114
+- Eze_31:12lo destruirán e, los poderosos de lasH2114
+- Eze_44:7de traer e, incircuncisos de corazón eH1121, [[H5236]]
+- Eze_44:8que habéis puesto e como guardas de las
+- Eze_44:9ningún hijo de e, incircunciso...entraráH1121, [[H5236]]
+- Eze_44:9de...los hijos de e que están entre losH1121, [[H5236]]
+- Eze_47:22y para los e que moran entre vosotrosH1616
+- Eze_47:23en la tribu en que morare el e, allí leH1616
+- Sof_1:8castigaré...los que visten vestido eH5237
+- Zac_7:10no oprimáis a la...al e ni al pobreH1616
+- Zac_9:6habitará en Asdod un e, y pondré fin aH4464
+- Mal_3:5contra...los que hacen injusticia al eH1616
+- Mat_27:7el campo del...para sepultura de los eG3581
+- Luc_17:18y diese gloria a Dios sino este e?[[G241]]
+- Hec_7:6descendencia sería e en tierra ajenaG3941
+- Hec_7:29Moisés huyó, y vivió como e en tierraG3941
+- Hec_10:28para un varón judío...acercarse a un eG246
+- Hec_13:17siendo ellos e en tierra de Egipto, yG3940
+- Hec_17:21los atenienses y los e residentes allíG3581
+- Hec_26:11los perseguí hasta en las ciudades eG1854
+- 1Co_14:11seré como e para el que habla, y élG915
+- 1Co_14:11y el que habla será como e para miG915
+- Efe_2:19que ya no sois e ni advenedizos, sinoG3581
+- Heb_11:9por la fe habitó como e en la tierraG3939
+- Heb_11:13y confesando que eran e y peregrinosG3581
+- Heb_11:34fuertes...pusieron en fuga ejércitos eG245
+- 1Pe_2:11os ruego como a e y peregrinos, queG3941

@@ -1,0 +1,86 @@
+---
+tipo: concordancia
+palabra: PERPETUO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PERPETUO, A
+
+- Gén_9:12la señal del pacto que...por siglos pH5769
+- Gén_9:16estará el arco...me acordaré del pacto pH5769
+- Gén_17:7por pacto p, para ser tu Dios, y el deH5769
+- Gén_17:8toda la tierra de Canaán en heredad pH5769
+- Gén_17:13mi pacto en vuestra carne por pacto pH5769
+- Gén_17:19confirmaré mi pacto con él como pacto pH5769
+- Gén_48:4y daré esta tierra a tu...por heredad pH5769
+- Éxo_12:14como fiesta solemne...por estatuto pH5769
+- Éxo_12:17guardaréis la fiesta...por costumbre pH5769
+- Éxo_27:21estatuto p de los hijos de Israel porH5769
+- Éxo_28:43estatuto p para él, y...su descendenciaH5769
+- Éxo_29:9y tendrán el sacerdocio por derecho pH5769
+- Éxo_29:28como estatuto p para los hijos de IsraelH5769
+- Éxo_30:8el incienso; rito p delante de JehováH8548
+- Éxo_30:21y lo tendrán por estatuto p él y suH5769
+- Éxo_31:16día de...por sus generaciones por pacto pH5769
+- Éxo_40:15su unción les servirá por sacerdocio pH5769
+- Lev_3:17estatuto p será por vuestras edadesH5769
+- Lev_6:18estatuto p...para vuestras generacionesH5769
+- Lev_6:20ofrenda p, la mitad a la mañana...tardeH8548
+- Lev_6:22estatuto p de Jehová...ella será quemadaH5769
+- Lev_7:34y lo he dado a Aarón...como estatuto pH5769
+- Lev_7:36ungió...estatuto p en sus generacionesH5769
+- Lev_10:9estatuto p...para vuestras generacionesH5769
+- Lev_10:15será por derecho p tuyo y de tus hijosH5769
+- Lev_16:29y esto tendréis por estatuto p: En elH5769
+- Lev_16:31afligiréis vuestras almas...estatuto pH5769
+- Lev_16:34y esto tendréis como estatuto p, paraH5769
+- Lev_17:7tendrán esto por estatuto p por...edadesH5769
+- Lev_23:14estatuto p es por vuestras edades enH5769
+- Lev_23:21estatuto p en dondequiera que habitéisH5769
+- Lev_23:31, Lev_23:41; Lev_24:3estatuto p por vuestras generacionesH5769
+- Lev_24:8lo pondrá continuamente...como pacto pH5769
+- Lev_24:9de Aarón y de sus hijos...por derecho pH5769
+- Lev_25:34no se venderá...es p posesión de ellosH5769
+- Núm_10:8; Núm_15:15estatuto p por...generacionesH5769
+- Núm_18:8, Núm_18:11he dado...a tus hijos, por estatuto pH5769
+- Núm_18:19he dado...por estatuto p; pacto de sal pH5769
+- Núm_18:23estatuto p para vuestros descendientesH5769
+- Núm_19:10estatuto p para los hijos de Israel, yH5769
+- Núm_19:21será estatuto p; también el que rociareH5769
+- Núm_25:13y tendrá él...el pacto del sacerdocio pH5769
+- Jos_14:9para ti, y...tus hijos en herencia pH5769
+- 2Sa_20:3que quedaron encerradas...en viudez p
+- 2Sa_23:5él ha hecho conmigo pacto p, ordenadoH5769
+- 2Cr_2:4Dios; lo cual ha de ser p en IsraelH5769
+- Job_41:4¿hará pacto...lo tomes por siervo p?[[H5769]]
+- Sal_25:6acuérdate...de tus piedades...que son p
+- Sal_45:17p la memoria de tu nombre en todas lasH5769
+- Sal_78:66e hirió a sus enemigos...dio p afrentaH5769
+- Pro_27:24será la corona para p generaciones?[[H5769]]
+- Ecl_3:14todo lo que Dios hace será p; sobreH5769
+- Isa_35:10; Isa_51:11gozo p será sobre sus cabezasH5769
+- Isa_56:5nombre p les daré, que nunca pereceráH5769
+- Isa_60:19que Jehová te será por luz p, y el DiosH5769
+- Isa_60:20porque Jehová te será por luz p, y los díasH5769
+- Isa_61:7poseerán doble honra, y tendrán p gozoH5769
+- Isa_61:8afirmaré...obra, y haré con ellos pacto pH5769
+- Isa_63:12que los guíe...haciéndose así nombre pH5769
+- Isa_63:16padre; nuestro Redentor p es tu nombreH5769
+- Isa_64:9ni tengas p memoria de la iniquidad, heH5703
+- Jer_8:5este pueblo...rebelde con rebeldía p?[[H5331]]
+- Jer_15:18¿por qué fue p mi dolor, y mi heridaH5331
+- Jer_18:16poner su tierra en...objeto de burla pH5769
+- Jer_20:11p confusión que jamás será olvidadaH5769
+- Jer_23:40y pondré sobre vosotros afrenta p, yH5769
+- Jer_25:9pondré por escarnio...y en desolación pH5769
+- Jer_49:13todas sus ciudades serán desolaciones pH5769
+- Jer_51:26p asolamiento serás, ha dicho JehováH5769
+- Eze_35:5tuviste enemistad p, y entregaste aH5769
+- Eze_35:9pondré en asolamiento p, y tus ciudadesH5769
+- Eze_37:26pacto de paz, pacto p será con ellosH5769
+- Eze_46:14ofrenda para Jehová...por estatuto pH5769
+- Dan_12:2y otros para vergüenza y confusión pH5769
+- Dan_12:3los...como las estrellas a p eternidadH5769
+- Miq_2:9a sus niños quitasteis mi p alabanzaH5769
+- Sof_2:9Moab será como Sodoma...asolamiento pH5769

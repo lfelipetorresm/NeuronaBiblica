@@ -1,0 +1,111 @@
+---
+tipo: concordancia
+palabra: ORDEN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ORDEN
+
+- Gén_12:20Faraón dio o...acerca de Abram; y leH6680
+- Gén_25:13son...nombrados en el o de su nacimientoH8435
+- Gén_45:21les dio José...conforme a la o de FaraónH6310
+- Éxo_27:21las pondrá en o Aarón y sus hijos paraH6186
+- Éxo_28:10conforme al o de nacimiento de ellos
+- Éxo_38:21las que le hicieron por o de Moisés porH6310
+- Éxo_39:37lamparillas que debían mantenerse en oH4634
+- Éxo_40:4meterás la mesa y la pondrás en oH6187
+- Éxo_40:23puso por o los panes delante de JehováH6186
+- Lev_24:4en o las lámparas delante de JehováH6186
+- Lev_24:8lo pondrá...en o delante de Jehová, enH6186
+- Núm_2:17en el o en que acampan; así marchará
+- Núm_4:27según la o de Aarón y de sus hijos seráH6310
+- Núm_10:12y partieron los...según el o de marcha
+- Núm_10:28el o de marcha de los hijos de IsraelH4550
+- Núm_23:20he aquí, he recibido o de bendecir; él
+- Deu_31:23dio o a Josué, y dijo: Esfuérzate yH6680
+- Deu_31:25dio o Moisés a los levitas que llevabanH6680
+- Jue_20:33Israel...se pusieron en o de batallaH6186
+- 1Sa_17:2pusieron en o de batalla contra losH6186
+- 1Sa_17:8qué os habéis puesto en o de batalla?[[H6186]]
+- 1Sa_17:20ejército salía en o de batalla, y dabaH6680
+- 1Sa_17:21pusieron en o de batalla Israel y losH6186
+- 1Sa_21:8por cuanto la o del rey era apremianteH1697
+- 1Sa_22:14sirve a tusó y es ilustre en tu casaH4928
+- 2Sa_10:8de Amón, se pusieron en o de batallaH6186
+- 2Sa_10:9puso en o de batalla contra los sitiosH6186
+- 2Sa_10:17los sitios se pusieron en o de batallaH6186
+- 2Sa_13:28y Absalón había dado o a sus criadosH6680
+- 2Sa_14:8tu casa, y yo daré o con respecto a tiH6680
+- 2Sa_17:23después de poner su casa en o...ahorcóH6680
+- 2Sa_18:5cuando dio el rey o acerca de AbsalónH6680
+- 1Re_17:9dado o allí a una mujer...te sustenteH6680
+- 2Re_22:12el rey dio o al sacerdote HilcíasH6680
+- 2Re_23:4mandó el...a los sacerdotes de segundo oH6680
+- 1Cr_9:22eran 212 por el o de sus linajes
+- 1Cr_9:32panes...los cuales ponían por o cada día
+- 1Cr_15:18con ellos a sus hermanos del segundo o
+- 1Cr_21:4la o del rey pudo más que Joab...SalióH1697
+- 1Cr_21:6la o del rey era abominable a JoabH1697
+- 1Cr_23:28, 1Cr_23:32bajo las o de los hijos de Aarón
+- 1Cr_25:2Asaf, el cual profetizaba bajo las o delH3027
+- 1Cr_28:21todo el pueblo para ejecutar todas tus oH1697
+- 2Cr_8:14los porteros por su o a cada puertaH4941
+- 2Cr_23:10y puso en o a todo el pueblo, teniendoH5975
+- Esd_3:4holocaustos...por o conforme al rito
+- Esd_4:19por mí fue dada o y buscaron y hallaronH7761, [[H2942]]
+- Esd_4:21dad o que cesen aquellos hombres, y noH2942
+- Esd_4:21no...hasta que por mí sea dada nueva oH2941
+- Esd_5:3, Esd_5:9¿quién os ha dado o para edificar estaH7761, [[H2942]]
+- Esd_5:13Ciro dio o para que...fuese reedificadaH2942
+- Esd_5:17había sido dada la o para reedificar estaH2942
+- Esd_6:1rey Darío dio la o de buscar en la casaH2942
+- Esd_6:3Ciro dio o acerca de la casa de Dios, laH2942
+- Esd_6:8es dada o de lo que habéis de hacer conH2942
+- Esd_6:11por mí es dada o, que cualquiera queH2942
+- Esd_6:14y terminaron, por o del Dios de IsraelH2942
+- Esd_7:13por mí es dada o que todo aquel en miH2942
+- Esd_7:21dada o a todos los tesoreros que estánH2942
+- Neh_13:14acuérdate de mí, oh Dios, en o a esto
+- Est_1:12Vasti no quiso comparecer a la o delH1697
+- Est_1:15no había cumplido la o del rey AsueroH3982
+- Est_3:13la o de destruir, matar y exterminar a
+- Est_4:5o de saber qué sucedía, y por qué estabaH6680
+- Est_8:5se dé o escrita para revocar las cartas
+- Est_8:14los correos...salieron...por la o del reyH1697
+- Est_9:14se dio la o en Susa, y colgaron a losH559
+- Job_10:22sombra de muerte y sin o, y cuya luzH5468
+- Job_34:13¿y quién puso en o todo el mundo?[[H7760]]
+- Sal_110:4siempre, según el o de MelquisedecH1700
+- Cnt_6:4, Cnt_6:10imponente como ejércitos en o
+- Isa_44:7¿y quién...pondrá en o delante de míH7760
+- Jer_10:12que puso en o el mundo con su saberH3559
+- Jer_32:13di o a Baruc delante de ellos, diciendoH6680
+- Jer_37:21dio o el rey Sedequías, y custodiaronH6680
+- Jer_50:14poneos en o contra Babilonia alrededorH6186
+- Eze_21:22la o de ataque, para dar comienzo aH7760
+- Dan_3:22y como la o del rey era apremiante, yH4406
+- Dan_4:26en cuanto a la o de dejar en la tierraH560
+- Dan_6:24dio o el rey, y fueron traídos aquellosH560
+- Dan_9:23principio de tus ruegos fue dada la oH1697
+- Dan_9:23entiende, pues, la o, y entiende...visiónH1697
+- Dan_9:25desde la salida de la o para restaurarH1697
+- Joe_2:11Jehová dará...o delante de su ejércitoH6213
+- Joe_2:11fuerte es el que ejecuta su o; porqueH1697
+- Mat_8:9y tengo bajo mis ó soldados; y digo a
+- Luc_1:1han tratado de poner en o la historiaG1299
+- Luc_1:3me ha parecido...escribírtelas por o, ohG2517
+- Luc_1:8ejerciendo...el sacerdocio según el o deG5010
+- Luc_7:8tengo soldados bajo mis ó; y digo a éste
+- Jua_11:57dado o de que si alguno supiese dóndeG1785
+- Hec_11:4comenzó Pedro a contarles por o loG2517
+- Hec_15:24han salido de...a los cuales no dimos o
+- Hec_17:15recibido o para Silas y Timoteo, de queG1785
+- Hec_17:26les ha prefijado el o de los tiemposG2540
+- Hec_18:23recorriendo por o la región de GalaciaG2517
+- 1Co_11:34demás cosas las pondré en o cuandoG1299
+- 1Co_14:40pero hágase todo decentemente y con oG5010
+- 1Co_15:23cada uno en su debido o: Cristo, lasG5001
+- Col_2:5gozándome y mirando vuestro buen o yG5010
+- Heb_5:6, Heb_5:10; Heb_6:20; Heb_7:11, Heb_7:17, Heb_7:21sacerdote según el o de MelquisedecG5010
+- Heb_7:11no fuese llamado según el o de AarónG5010

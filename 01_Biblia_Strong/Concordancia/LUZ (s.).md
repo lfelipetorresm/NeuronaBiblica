@@ -1,0 +1,196 @@
+---
+tipo: concordancia
+palabra: LUZ (s.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LUZ (s.)
+
+- Gén_1:3y dijo Dios: Sea la l; y fue la lH216
+- Gén_1:4la l era buena; y separó Dios la l de lasH216
+- Gén_1:5llamó Dios a la l Día, y a las tinieblasH216
+- Gén_1:18y para separar la l de las tinieblasH216
+- Éxo_10:23Israel tenían l en sus habitacionesH216
+- Jue_16:2hasta la l de la mañana; entonces loH216
+- 2Sa_23:4será como la l de la mañana, comoH216
+- Est_8:16los judíos tuvieron l y alegría, yH219
+- Job_3:9espere la l, y no venga, ni vea losH216
+- Job_3:16los pequeñitos que nunca vieron la lH216
+- Job_3:20¿por qué se da l al trabajado, y vidaH216
+- Job_10:22como...cuya l es como densas tinieblasH3313
+- Job_12:22él...y saca a l la sombra de muerteH216
+- Job_12:25a tientas, como en tinieblas y sin lH216
+- Job_17:12la l se acorta delante de las tinieblasH216
+- Job_18:5la l de los impíos será apagada, y noH216
+- Job_18:6la l se oscurecerá en su tienda, y seH216
+- Job_18:18de la l será lanzado a las tinieblasH216
+- Job_22:28y sobre tus caminos resplandecerá lH216
+- Job_24:13rebeldes a la l, nunca conocieron susH216
+- Job_24:14a la l se levanta el matador; mata alH216
+- Job_24:16las tinieblas minan...no conocen la lH216
+- Job_25:3¿tienen sus...¿Sobre quién no está su l?[[H216]]
+- Job_26:10hasta el fin de la l y las tinieblasH216
+- Job_28:11detuvo...e hizo salir a l lo escondidoH216
+- Job_29:3a cuya l yo caminaba en la oscuridadH216
+- Job_29:24creían; y no abatían la l de mi rostroH216
+- Job_30:26cuando esperaba l, vino la oscuridadH216
+- Job_33:28Dios redimirá...y su vida se verá en lH216
+- Job_33:30iluminarlo con la l de los vivientesH216
+- Job_36:30sobre él extiende su l, y cobija conH216
+- Job_36:32con las nubes encubre la l, y le mandaH216
+- Job_37:3y su l hasta los fines de la tierraH216
+- Job_37:11disipar...y con su l esparce la nieblaH216
+- Job_37:15y hace resplandecer la l de su nube?[[H216]]
+- Job_37:21no se puede mirar la l esplendente enH216
+- Job_38:15la l de los impíos es quitada de ellosH216
+- Job_38:19va el camino a la habitación de la lH216
+- Job_38:24¿por qué camino se reparte la l, y seH216
+- Sal_4:6alza sobre nosotros...l de tu rostroH216
+- Sal_27:1Jehová es mi l y mi salvación...temeré?[[H216]]
+- Sal_36:9contigo...la vida; en tu l veremos la lH216
+- Sal_37:6exhibirá tu justicia como la l, y tuH216
+- Sal_38:10y aun la l de mis ojos me falta yaH216
+- Sal_43:3tu l y tu verdad; éstas me guiarán; meH216
+- Sal_44:3tu brazo, y la l de tu rostro, porqueH216
+- Sal_49:19entrará en la...y nunca más verá la lH216
+- Sal_56:13para que ande...la l de los que vivenH216
+- Sal_89:15andará, oh Jehová, a la l de tu rostroH216
+- Sal_90:8ti, nuestros yerros a la l de tu rostroH3974
+- Sal_90:17la l de Jehová...Dios sobre nosotros, yH5278
+- Sal_97:11l...sembrada para el justo, y alegríaH216
+- Sal_104:2que se cubre de l como de vestiduraH216
+- Sal_112:4resplandeció en las tinieblas l a losH216
+- Sal_118:27Jehová es Dios, y nos ha dado l; atadH216
+- Sal_139:12mismo te son las tinieblas que la lH219
+- Pro_4:18la senda de los justos es como la lH216
+- Pro_6:23y la enseñanza es l, y camino de vidaH216
+- Pro_13:9la l de los justos se alegrará; mas seH216
+- Pro_15:30la l de los ojos alegra el corazón, yH3974
+- Ecl_2:13la necedad, como la l a las tinieblasH216
+- Ecl_11:7suave...es la l, y agradable a los ojosH216
+- Ecl_12:2antes que se oscurezca el sol, y la lH216
+- Isa_2:5venid...y caminaremos a la l de JehováH216
+- Isa_5:20hacen de la l tinieblas...las tinieblas lH216
+- Isa_5:30he aquí...en sus cielos se oscurecerá la lH216
+- Isa_9:2el pueblo que...en tinieblas vio gran lH216
+- Isa_9:2de muerte, l resplandeció sobre ellosH216
+- Isa_10:17y la l de Israel será por fuego, y suH216
+- Isa_13:10las estrellas, no darán su l; y el solH216
+- Isa_30:26l de la luna será como la l del sol, yH216
+- Isa_30:26la l del sol...como la l de siete díasH216
+- Isa_42:6y te pondré por...por l de las nacionesH216
+- Isa_42:9antes que salgan a l, yo os las haréH6779
+- Isa_42:16delante...cambiaré las tinieblas en lH216
+- Isa_43:19yo hago cosa nueva; pronto saldrá a lH6779
+- Isa_45:7que formo la l y creo las tinieblas, queH216
+- Isa_49:6te di por l de las naciones, para queH7043
+- Isa_50:10el que anda en tinieblas y carece de lH5051
+- Isa_50:11andad a la l de vuestro fuego, y de lasH217
+- Isa_51:4saldrá la ley, y mi justicia para l deH216
+- Isa_58:8entonces nacerá tu l como el alba, y tuH216
+- Isa_58:10dieres...en las tinieblas nacerá tu lH216
+- Isa_59:4conciben maldades, y dan a l iniquidad
+- Isa_59:9alejó...esperamos l, y he aquí tinieblasH216
+- Isa_60:1resplandece; porque ha venido tu l, y laH216
+- Isa_60:3andarán las naciones a tu l, y los reyesH216
+- Isa_60:19el sol nunca más te servirá de l paraH216
+- Isa_60:19que Jehová te será por l perpetua, yH216
+- Isa_60:20porque Jehová te será por l perpetuaH216
+- Jer_4:23a los cielos, y no había en ellos lH216
+- Jer_13:16esperéis l, y os la vuelva en sombraH216
+- Jer_25:10desaparezca de...ruido de molino y l deH216
+- Jer_31:35el sol para l del día...l de la nocheH216
+- Jer_51:10Jehová sacó a l nuestras justiciasH3318
+- Lam_3:2guió y me llevó en tinieblas, y no en lH216
+- Eze_32:7y la luna no hará resplandecer su lH216
+- Dan_2:22revela lo profundo...con él mora la lH5094
+- Dan_5:11hombre...se halló en él l e inteligenciaH5094
+- Dan_5:14que en ti se halló l, entendimiento yH5094
+- Ose_6:5y tus juicios serán como l que saleH216
+- Amó_5:18el día...será de tinieblas, y no de lH216
+- Amó_5:20¿no será el día de...tinieblas, y no lH216
+- Miq_7:8more en tinieblas, Jehová será mi lH216
+- Miq_7:9Jehová...me sacará a l; veré su justiciaH216
+- Hab_3:4y el resplandor fue como la l; rayosH216
+- Hab_3:11a la l de tus saetas anduvieron, y alH216
+- Sof_3:5sacará a l su juicio, nunca faltaráH216
+- Zac_14:6ese día no habrá l clara, ni oscuraH216
+- Zac_14:7sucederá que al caer la tarde habrá lH216
+- Mat_4:16pueblo asentado en tinieblas vio...lG5457
+- Mat_4:16y a los asentados...l les resplandecióG5457
+- Mat_5:14vosotros sois la l del mundo; una ciudadG5457
+- Mat_5:15ni se enciende una l y se pone debajoG2545
+- Mat_5:16así alumbre vuestra l delante de losG5457
+- Mat_6:22bueno, todo tu cuerpo estará lleno de lG3088
+- Mat_6:23que, si la l que en ti hay es tinieblasG5457
+- Mat_10:27os digo en tinieblas, decidlo en la lG5457
+- Mat_17:2vestidos se hicieron blancos como la lG5457
+- Mat_17:5una nube de l los cubrió; y he aquí unaG5460
+- Mar_4:21se trae la l para ponerla debajo delG3088
+- Mar_4:22ni escondido, que no haya de salir a lG5318
+- Luc_1:79dar l a los que habitan en tinieblasG2014
+- Luc_2:32l para revelación a los gentiles, yG5457
+- Luc_8:16nadie que enciende una l la cubre conG3088
+- Luc_8:16sino...para que los que entran vean la lG5457
+- Luc_8:17escondido, que no haya de...y salir a lG5318
+- Luc_11:33nadie pone en oculto la l encendida, niG3088
+- Luc_11:33sino...para que los que entran vean la lG5338
+- Luc_11:34todo tu cuerpo está lleno de l; peroG5460
+- Luc_11:35que la l que en ti hay, sea tinieblasG5457
+- Luc_11:36si todo tu cuerpo está lleno de l, noG5460
+- Luc_12:3dicho en tinieblas, a la l se oirá; yG5457
+- Luc_16:8son más sagaces en...que los hijos de lG5457
+- Jua_1:4vida y la vida era la l de los hombresG5457
+- Jua_1:5la l en las tinieblas resplandece, y lasG5457
+- Jua_1:7-8para que diese testimonio de la lG5457
+- Jua_1:9l verdadera, que alumbra a todo hombreG5457
+- Jua_3:19que la l vino al mundo, y los hombresG5457
+- Jua_3:19amaron más...tinieblas que la l, porqueG5457
+- Jua_3:20aborrece la l y no viene a la l, paraG5457
+- Jua_3:21viene a la l, para que sea manifiestoG5457
+- Jua_5:35quisisteis regocijaros por un...en su lG5457
+- Jua_8:12habló, diciendo: Yo soy la l del mundoG5457
+- Jua_8:12el que me sigue...tendrá la l de la vidaG5457
+- Jua_9:5que estoy en el mundo, l soy del mundoG5457
+- Jua_11:9no tropieza, porque ve la l de...mundoG5457
+- Jua_11:10noche, tropieza, porque no hay l en élG5457
+- Jua_12:35por un poco está la l entre vosotrosG5457
+- Jua_12:35andad entre tanto que tenéis l, paraG5457
+- Jua_12:36entre tanto que tenéis la l, creed enG5457
+- Jua_12:36creed...la l, para que seáis hijos de lG5457
+- Jua_12:46yo, la l, he venido al mundo, para queG5457
+- Hec_9:3le rodeó un resplandor de l del cieloG5457
+- Hec_12:7ángel...una l resplandeció en la cárcelG5457
+- Hec_13:47te he puesto para l de los gentiles, aG5457
+- Hec_16:29él...pidiendo l, se precipitó adentroG5457
+- Hec_22:6de repente me rodeó mucha l del cieloG5457
+- Hec_22:9vieron...la l, y se espantaron; pero noG5457
+- Hec_22:11no veía a causa de la gloria de la lG5457
+- Hec_26:13por el camino, vi una l del cielo queG5457
+- Hec_26:18se conviertan de las tinieblas a la lG5457
+- Hec_26:23anunciar l al pueblo y a los gentilesG5457
+- Rom_2:19guía...l de los que están en tinieblasG5457
+- Rom_13:12obras...y vistámonos las armas de la lG5457
+- 2Co_4:4para que no les resplandezca la l delG5462
+- 2Co_4:6que de las tinieblas resplandeciese la lG5457
+- 2Co_6:14¿y qué comunión la l con las tinieblas?[[G5457]]
+- 2Co_11:14Satanás se disfraza como ángel de lG5457
+- Efe_5:8ahora sois l en...andad como hijos de lG5457
+- Efe_5:13son puestas en evidencia por la l, sonG5457
+- Efe_5:13porque la l es lo que manifiesta todoG5457
+- Col_1:12de la herencia de los santos en lG5457
+- 1Ts_5:5vosotros sois hijos de l e hijos delG5457
+- 1Ti_6:16que habita en l inaccesible; a quienG5457
+- 2Ti_1:10sacó a l la vida y la inmortalidadG5461
+- Stg_1:17desciende de lo...del Padre de las lG5457
+- 1Pe_2:9que os llamó de las tinieblas a su lG5457
+- 1Jn_1:5Dios es l, y no hay...tinieblas en élG5457
+- 1Jn_1:7pero si andamos en l, como él está en lG5457
+- 1Jn_2:8van pasando, y la l verdadera ya alumbraG5457
+- 1Jn_2:9que dice que está en la l, y aborrece aG5457
+- 1Jn_2:10el que ama a su...permanece en la l, yG5457
+- Rev_8:12no hubiese l en la tercera parte delG5316
+- Rev_18:23l de lámpara no alumbrará más en ti, niG5457
+- Rev_21:24las naciones...andarán a la l de ellaG5457
+- Rev_22:5necesidad de l de lámpara, ni de l delG5457

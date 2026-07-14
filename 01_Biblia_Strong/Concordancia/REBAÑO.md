@@ -1,0 +1,75 @@
+---
+tipo: concordancia
+palabra: REBAÑO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REBAÑO
+
+- Gén_21:28puso Abraham 7 corderas del r aparte
+- Gén_29:2tres r de ovejas que yacían cerca de élH6629
+- Gén_29:3juntaban allí todos los r; y revolvíanH5739
+- Gén_29:8no podemos, hasta que se junten...los rH5739
+- Gén_29:9ellos, Raquel vino con el r de su padreH6629
+- Gén_29:10y abrevó el r de Labán hermano de suH6629
+- Gén_30:32yo pasaré hoy por todo tu r, poniendoH6629
+- Gén_30:40y ponía con su propio r los listados yH6629
+- Lev_1:10su ofrenda...fuere del r, de las ovejasH6629
+- Lev_5:6traerá...una hembra de los r, una corderaH6629
+- Lev_5:15, Lev_5:18; Lev_6:6un carnero sin defecto de los rH6629
+- Deu_7:13bendecirá...los r de tus ovejas, en laH6251
+- Deu_28:4bendito el fruto de...los r de tus ovejasH6251
+- Deu_28:18maldito el fruto...y los r de tus ovejasH6251
+- Deu_28:51y no te dejará...ni los r de tus ovejasH6251
+- Jos_14:4ejidos de ellas para sus ganados y rH7075
+- Jue_5:16quedaste...oír los balidos de los r?[[H5739]]
+- 1Sa_8:17diezmará también vuestros r, y seréisH6629
+- 2Cr_35:7dio el rey Josías...cabritos de los rH6629
+- Esd_10:19por su pecado un carnero de los rH6629
+- Sal_49:14como a r que son conducidos al SeolH6629
+- Sal_78:52y los llevó por el desierto como un rH6629
+- Sal_107:41hace multiplicar las familias como rH6629
+- Pro_27:23diligente...mira con cuidado por tus rH6629
+- Cnt_1:7yo como errante junto a los r de tusH5739
+- Cnt_1:8vé, sigue las huellas del r, y apacientaH6629
+- Isa_40:11como pastor apacentará su r; en suH5739
+- Isa_63:11les hizo subir...con el pastor de su r?[[H6629]]
+- Jer_6:3contra ella vendrán pastores y sus rH5739
+- Jer_13:17porque el r de Jehová fue hecho cautivoH5739
+- Jer_13:20alzad...¿Dónde está el r que te fue dadoH5739
+- Jer_23:1¡ay de los...dispersan las ovejas de mi rH6629
+- Jer_25:34revolcaos en el polvo, mayorales del rH6629
+- Jer_25:35se acabará la...el escape de los...del rH6629
+- Jer_25:36aullido de los mayorales del r! porqueH6629
+- Jer_31:10lo...y guardará, como el pastor a su rH5739
+- Jer_31:24habitará allí Judá...y los que van con rH5739
+- Jer_49:20más pequeños de su r los arrastraránH6629
+- Jer_50:8los machos cabríos que van delante del rH6629
+- Jer_50:17r descarriado es Israel...lo dispersaronH7716
+- Jer_50:45más pequeños de su r los arrastraránH6629
+- Jer_51:23quebrantaré por...ti al pastor y a su rH5739
+- Eze_34:2¿no apacientan los pastores a los r?[[H6629]]
+- Eze_34:8mi r fue para ser robado, y mis ovejasH6629
+- Eze_34:12como reconoce su r el pastor el día queH5739
+- Eze_36:37multiplicaré los hombres como se...los rH6629
+- Eze_36:38ciudades...serán llenas de r de hombresH6629
+- Eze_43:25sacrificarán...carnero sin tacha del rH6629
+- Eze_45:15una cordera del r de doscientas, de lasH6629
+- Joe_1:18fueron asolados los r de las ovejasH5739
+- Amó_6:4comen los corderos del r, y...novillosH6629
+- Miq_2:12lo reuniré...r en medio de su apriscoH5739
+- Miq_4:8oh torre del r, fortaleza de la hija deH5739
+- Miq_7:14apacienta tu pueblo...el r de tu heredadH6629
+- Sof_2:14r de ganado harán en ella majadaH5739
+- Zac_9:16los salvará...Jehová su Dios como r deH6629
+- Zac_10:3pero Jehová...visitará su r, la casa deH5739
+- Zac_11:7apacenté...esto es, a los pobres del rH6629
+- Zac_11:11y así conocieron los pobres del r queH6629
+- Mal_1:14teniendo machos en su r, promete, yH5739
+- Mat_26:31las ovejas del r serán dispersadasG4167
+- Luc_2:8guardaban las vigilias de...sobre su rG4167
+- Jua_10:16traer, y oirán mi voz; y habrá un rG4167
+- Hec_20:28mirad por vosotros, y por todo el rG4168
+- Hec_20:29lobos rapaces, que no perdonarán al rG4168
+- 1Co_9:7apacienta el r y no toma de la...del r?[[G4167]]

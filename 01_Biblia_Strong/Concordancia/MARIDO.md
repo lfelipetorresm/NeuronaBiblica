@@ -1,0 +1,147 @@
+---
+tipo: concordancia
+palabra: MARIDO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MARIDO
+
+- Gén_3:6tomó de su fruto...dio también a su mH376
+- Gén_3:16tu deseo será para tu m, y él se...de tiH376
+- Gén_16:3a Agar...la dio por mujer a Abram su mH376
+- Gén_20:3de la mujer que...la cual es casada con mH1167
+- Gén_20:7ahora, pues, devuelve la mujer a su mH376
+- Gén_29:32dijo...ahora, por tanto, me amará mi mH376
+- Gén_29:34unirá mi m conmigo, porque le he dadoH376
+- Gén_30:15¿es poco que hayas tomado mi m, sinoH376
+- Gén_30:18por cuanto di mi sierva a mi m; por esoH376
+- Gén_30:20dijo Lea...morará conmigo mi m, porqueH376
+- Éxo_21:22penados conforme a...impusiere el mH1167
+- Lev_21:3su hermana...la cual no haya tenido mH376
+- Lev_21:7ni con mujer repudiada de su m; porqueH376
+- Núm_5:13cohabitare...su m no lo hubiese vistoH376
+- Núm_5:15el m traerá su mujer al sacerdote, y conH376
+- Núm_5:19le dirá...si no te has apartado de tu mH376
+- Núm_5:20si te has descarriado de tu m y te hasH376
+- Núm_5:20y ha cohabitado contigo...fuera de tu mH376
+- Núm_5:27hubiere sido infiel a su m, las aguasH376
+- Núm_5:29mujer cometiere infidelidad contra su mH376
+- Núm_5:30del m sobre el cual pasare...de celos
+- Núm_30:7m lo oyere, y cuando lo oyere callareH376
+- Núm_30:8si cuando su m lo oyó, le vedó, entoncesH376
+- Núm_30:10si hubiere hecho voto en casa de su mH376
+- Núm_30:11su m oyó, y calló a ello y no le vedóH376
+- Núm_30:12si su m los anuló el día que los oyóH376
+- Núm_30:12su m los anuló, y Jehová la perdonaráH376
+- Núm_30:13su m lo confirmará, o su m lo anularáH376
+- Núm_30:14si su m callare a ello de día en díaH376
+- Núm_36:4será añadida a...la tribu de sus m: así
+- Deu_21:13tú serás su m, y ella será tu mujerH1167
+- Deu_22:22acostado con una mujer casada con mH1167
+- Deu_24:4no podrá su primer m...volverla a tomarH1167
+- Deu_25:11librar a su m de mano del que le hiereH376
+- Deu_28:56mirará con malos ojos al m de su senoH376
+- Jue_13:6la mujer vino y se lo contó a su mH376
+- Jue_13:9el ángel...su m Manoa no estaba con ellaH376
+- Jue_13:10y la mujer corrió...a avisarle a su mH376
+- Jue_14:15induce a tu m a que nos declare esteH376
+- Jue_19:3y se levantó su m y la siguió, paraH376
+- Jue_20:4el varón levita, m de la mujer muertaH376
+- Rut_1:3y murió Elimelec, m de Noemí, y quedóH376
+- Rut_1:5desamparada de sus dos hijos y de su mH376
+- Rut_1:9que halléis descanso...en casa de su mH376
+- Rut_1:11más hijos...que puedan ser vuestros m?[[H582]]
+- Rut_1:12yo ya soy vieja para tener m. Y aunqueH376
+- Rut_1:12esta noche estuviese con m, y aun dieseH376
+- Rut_2:1tenía Noemí un pariente de su m...ricoH376
+- Rut_2:11has hecho...después de la muerte de tu mH376
+- 1Sa_1:8y Elcana su m le dijo: Ana, ¿por quéH376
+- 1Sa_1:22Ana...dijo a su m: Yo no subiré hasta queH376
+- 1Sa_1:23su m le respondió: Haz lo que bien teH376
+- 1Sa_2:19la traía cada año cuando subía con su mH376
+- 1Sa_4:19y muertos su suegro y su m, se inclinóH376
+- 1Sa_4:21y por la muerte de su suegro y de su mH376
+- 1Sa_25:19criados...y nada declaró a su m NabalH376
+- 2Sa_3:15se la quitó a su m Paltiel hijo deH376
+- 2Sa_3:16m fue con ella, siguiéndola y llorandoH376
+- 2Sa_11:26oyendo la...que su m Urías era muertoH376
+- 2Sa_11:26la mujer de Urías...hizo duelo por su mH1167
+- 2Sa_14:5yo...soy una mujer viuda y mi m ha muertoH376
+- 2Sa_14:7no dejando a mi m nombre ni reliquiaH376
+- 2Re_4:1tu siervo mi m ha muerto; y tú sabesH376
+- 2Re_4:9ella dijo a su m...es varón santo de DiosH376
+- 2Re_4:14que ella no tiene hijo, y su m es viejoH376
+- 2Re_4:22llamando...a su m, le dijo: Te ruego queH376
+- 2Re_4:26¿le va bien a tu m, y a tu hijo? Y ellaH376
+- Est_1:17ellas tendrán en poca estima a sus mH1167
+- Est_1:20todas las mujeres darán honra a sus mH1167
+- Pro_7:19el m no está en casa; se ha ido a unH376
+- Pro_12:4mujer virtuosa es corona de su m; masH1167
+- Pro_31:11corazón de su m está en ella confiadoH1167
+- Pro_31:23m es conocido en las puertas, cuandoH1167
+- Pro_31:28bienaventurada...su m también la alabaH1167
+- Isa_54:5porque tu m es tu Hacedor; Jehová deH1167
+- Jer_6:11será preso tanto el m como la mujerH376
+- Jer_18:21sus m sean puestos a muerte...a espadaH376
+- Jer_29:6dad m a vuestras hijas, para que tenganH582
+- Jer_31:32mi pacto, aunque fui yo un m para ellosH1167
+- Jer_44:19le...sin consentimiento de nuestros mH376
+- Eze_16:32que en lugar de su m recibe a ajenosH376
+- Eze_16:45madre, que desechó a su m y a sus hijosH376
+- Eze_16:45que desecharon a sus m y a sus hijosH582
+- Eze_44:25por...hermana que no haya tenido m, síH376
+- Ose_2:2porque ella no es mi mujer, ni yo su mH376
+- Ose_2:7iré y me volveré a mi primer m; porqueH376
+- Joe_1:8llora tú como...por el m de su juventudH1167
+- Mat_1:16y Jacob engendró a José, m de MaríaG435
+- Mat_1:19José su m, como era justo, y no queríaG435
+- Mar_10:2era lícito al m repudiar a su mujerG435
+- Mar_10:12la mujer repudia a su m y se casa conG435
+- Luc_2:36pues había vivido con su m siete añosG435
+- Luc_16:18casa con la repudiada del m, adulteraG435
+- Jua_4:17respondió la mujer y dijo: No tengo mG435
+- Jua_4:17Jesús le...Bien has dicho: No tengo mG435
+- Jua_4:18cinco m has tenido, y el que...no es tu mG435
+- Hec_5:9han sepultado a tu m, y te sacarán aG435
+- Hec_5:10sacaron, y la sepultaron junto a su mG435
+- Rom_7:2está sujeta...al m...pero si el m muereG5220
+- Rom_7:2pero...ella queda libre de la ley del mG435
+- Rom_7:3si en vida del m se uniere a otro varónG435
+- Rom_7:3si su m muriere...si se uniere a otro mG435
+- 1Co_7:2mujer, y cada una tenga su propio mG435
+- 1Co_7:3el m cumpla con la...el deber conyugalG435
+- 1Co_7:3cumpla con...asimismo la mujer con el mG435
+- 1Co_7:4la mujer no tiene potestad...sino el mG435
+- 1Co_7:4ni tampoco tiene el m postestad sobre suG435
+- 1Co_7:10mando...Que la mujer no se separe del mG435
+- 1Co_7:11sin casar, o reconcíliese con su mG435
+- 1Co_7:11y que el m no abandone a su mujerG435
+- 1Co_7:13una mujer tiene m que no sea creyenteG435
+- 1Co_7:14m incrédulo es santificado en la mujerG435
+- 1Co_7:14y la mujer incrédula en el m; pues deG435
+- 1Co_7:16sabes tú...si quizá harás salvo a tu m?[[G435]]
+- 1Co_7:16¿o qué sabes tú, oh m, si quizá harásG435
+- 1Co_7:34tiene cuidado...de cómo agradar a su mG435
+- 1Co_7:39ligada por la ley mientras su m viveG435
+- 1Co_7:39si su m muriere, libre es para casarseG435
+- 1Co_14:35si quieren...pregunten en casa a sus mG435
+- Gál_4:27de la desolada, que de la que tiene mG435
+- Efe_5:22casadas estén sujetas a sus propios mG435
+- Efe_5:23el m es cabeza de la mujer, así comoG435
+- Efe_5:24también las casadas lo estén a sus m enG435
+- Efe_5:25m, amad a vuestras mujeres, así comoG435
+- Efe_5:28los m deben amar a sus mujeres como aG435
+- Efe_5:33a sí mismo; y la mujer respete a su mG435
+- Col_3:18casadas, estad sujetas a vuestros mG435
+- Col_3:19m, amad a vuestras mujeres, y no seáisG435
+- 1Ti_3:2el obispo sea...m de una sola mujerG435
+- 1Ti_3:12los diáconos sean m de una sola mujerG435
+- 1Ti_5:9viuda...que haya sido esposa de un solo mG435
+- Tit_1:6m de una sola mujer, y tenga hijosG435
+- Tit_2:4enseñen...a amar a sus m y a sus hijosG5362
+- Tit_2:5sujetas a sus m, para que la palabra deG435
+- 1Pe_3:1mujeres, estad sujetas a vuestros mG435
+- 1Pe_3:5santas mujeres...estando sujetas a sus mG435
+- 1Pe_3:7vosotros, m...vivid con ellas sabiamenteG435
+- Rev_21:2como una esposa ataviada para su mG435

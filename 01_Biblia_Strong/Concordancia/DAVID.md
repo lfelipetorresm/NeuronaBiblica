@@ -1,0 +1,1022 @@
+---
+tipo: concordancia
+palabra: DAVID
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DAVID
+
+- Rut_4:17Obed...es padre de Isaí, padre de DH1732
+- Rut_4:22Obed engendró a Isaí, e...engendró a DH1732
+- 1Sa_16:13el Espíritu de Jehová vino sobre DH1732
+- 1Sa_16:19envíame a D tu hijo el que está conH1732
+- 1Sa_16:20Isaí...lo envió a Saú; por medio de DH1732
+- 1Sa_16:21viniendo D a Saúl, estuvo delante deH1732
+- 1Sa_16:22te ruego que esté D conmigo, pues haH1732
+- 1Sa_16:23D tomaba el arpa y tocaba con su manoH1732
+- 1Sa_17:12D era hijo de aquel hombre efrateo deH1732
+- 1Sa_17:14y D era el menor. Siguieron...los tresH1732
+- 1Sa_17:15D había ido y vuelto, dejando a SaúlH1732
+- 1Sa_17:17dijo Isaí a D su hijo: Toma ahora paraH1732
+- 1Sa_17:20levantó, pues, D de mañana y dejandoH1732
+- 1Sa_17:22D dejó su carga...y corrió al ejércitoH1732
+- 1Sa_17:23habló las mismas palabras, y las oyó...DH1732
+- 1Sa_17:26habló D a los que estaban junto a élH1732
+- 1Sa_17:28oyéndole...se encendió en ira contra D yH1732
+- 1Sa_17:29D respondió: ¿Qué he hecho yo ahora?[[H1732]]
+- 1Sa_17:31oídas las palabras que D había dichoH1732
+- 1Sa_17:32dijo D a Saúl: No desmaye el corazón deH1732
+- 1Sa_17:33dijo Saúl a D: No podrás tú ir contraH1732
+- 1Sa_17:34D respondió a...Tu siervo era pastor deH1732
+- 1Sa_17:37añadió D: Jehová, que me ha librado deH1732
+- 1Sa_17:37Saul a D: Vé, y Jehová esté contigoH1732
+- 1Sa_17:38Saúl vistió a D con sus ropas, y pusoH1732
+- 1Sa_17:39y ciñó D su espada sobre sus vestidosH1732
+- 1Sa_17:39dijo D a Saúl: Yo no puedo andar conH1732
+- 1Sa_17:39probó...Y D echó de sí aquellas cosasH1732
+- 1Sa_17:41y el filisteo venía...acercándose a DH1732
+- 1Sa_17:42y cuando el...vio a D, le tuvo en pocoH1732
+- 1Sa_17:43dijo el filisteo a D: ¿Soy yo perro, paraH1732
+- 1Sa_17:43¿soy yo...Y maldijo a D por sus diosesH1732
+- 1Sa_17:44dijo luego el filisteo a D: Ven a mí, yH1732
+- 1Sa_17:45entonces dijo D al filisteo: Tú vienesH1732
+- 1Sa_17:48ir al encuentro de D, D se dio prisaH1732
+- 1Sa_17:49metiendo D su mano en la bolsa, tomóH1732
+- 1Sa_17:50así venció D al...sin tener D espada enH1732
+- 1Sa_17:51corrió D y se puso sobre el filisteoH1732
+- 1Sa_17:54y D tomó la cabeza del filisteo y laH1732
+- 1Sa_17:55Saúl vio a D que salía a...el filisteoH1732
+- 1Sa_17:57cuando D volvía de matar al filisteoH1732
+- 1Sa_17:57teniendo D la cabeza del...en su manoH1732
+- 1Sa_17:58D respondió...yo soy hijo de tu siervoH1732
+- 1Sa_18:1el alma de Jonatán quedó ligada con...DH1732
+- 1Sa_18:3e hicieron pacto Jonatán y D, porque élH1732
+- 1Sa_18:4se quitó el manto que...y se lo dio a DH1732
+- 1Sa_18:5y salía D adondequiera que Saúl leH1732
+- 1Sa_18:6cuando D volvió de matar al filisteoH1732
+- 1Sa_18:7Saúl hirió a sus...y D a sus diez milesH1732
+- 1Sa_18:8a D dieron diez miles, y a mí miles; noH1732
+- 1Sa_18:9día Saúl no miró con buenos ojos a DH1732
+- 1Sa_18:10D tocaba con su...como los otros díasH1732
+- 1Sa_18:11enclavaré a D a la...Pero D lo evadióH1732
+- 1Sa_18:12Saúl estaba temeroso de D, por cuantoH1732
+- 1Sa_18:14D se conducía prudentemente en todosH1732
+- 1Sa_18:16todo Israel y Judá amaba a D, porqueH1732
+- 1Sa_18:17dijo Saúl a D...te daré Merab mi hijaH1732
+- 1Sa_18:18D respondió a Saúl: ¿Quién soy yo, oH1732
+- 1Sa_18:19que Merab hija de...se había de dar a DH1732
+- 1Sa_18:20Mical la otra hija de Saúl amaba a DH1732
+- 1Sa_18:21dijo, pues, Saúl a D...serás mi yernoH1732
+- 1Sa_18:22hablad en secreto a D, diciéndole: HeH1732
+- 1Sa_18:23hablaron...a los oídos de D. Y D dijoH1732
+- 1Sa_18:24diciendo: Tales palabras ha dicho DH1732
+- 1Sa_18:25así a D: El rey no desea la dote, sinoH1732
+- 1Sa_18:25hacer caer a D en manos de...filisteosH1732
+- 1Sa_18:26siervos declararon a D estas palabrasH1732
+- 1Sa_18:26pareció bien la cosa a los ojos de DH1732
+- 1Sa_18:27se levantó D...y trajo D los prepuciosH1732
+- 1Sa_18:28Saúl, viendo...que Jehová estaba con DH1732
+- 1Sa_18:29temor de D; y fue Saúl enemigo de DH1732
+- 1Sa_18:30cada vez...D tenía más éxito que todosH1732
+- 1Sa_19:1habló Saúl...para que matasen a D; peroH1732
+- 1Sa_19:1pero Jonatán...amaba a D en gran maneraH1732
+- 1Sa_19:2dio aviso a D, diciendo: Saúl mi padreH1732
+- 1Sa_19:4Jonatán habló bien de D a Saúl su padreH1732
+- 1Sa_19:4dijo: No peque el rey contra su siervo DH1732
+- 1Sa_19:5pecarás contra...matando a D sin causa?[[H1732]]
+- 1Sa_19:7y llamó Jonatán a David, y le declaró todasH1732
+- 1Sa_19:8y salió D y peleó contra los filisteosH1732
+- 1Sa_19:9sobre Saúl...mientras D estaba tocandoH1732
+- 1Sa_19:10procuró enclavar a D...D huyó, y escapóH1732
+- 1Sa_19:11Saúl envió luego mensajeros a casa de DH1732
+- 1Sa_19:11Mical su mujer avisó a D, diciendoH1732
+- 1Sa_19:12y descolgó Mical a D por una ventanaH1732
+- 1Sa_19:14Saúl envió mensajeros para prender a DH1732
+- 1Sa_19:15volvió Saúl a enviar...que viesen a DH1732
+- 1Sa_19:18huyó...D, y escapó, y vino a Samuel enH1732
+- 1Sa_19:19he aquí que D está en Naiot en RamáH1732
+- 1Sa_19:20Saúl envió...para que trajeran a D, losH1732
+- 1Sa_19:22preguntó..¿Dónde están Samuel y D?[[H1732]]
+- 1Sa_20:1D huyó de...y vino delante de JonatánH1732
+- 1Sa_20:3D volvió a jurar diciendo: Tu padre sabeH1732
+- 1Sa_20:4y Jonatán dijo a D: Lo que deseare tuH1732
+- 1Sa_20:5D respondió...que mañana será nueva lunaH1732
+- 1Sa_20:10D a Jonatán? ¿Quién me dará aviso siH1732
+- 1Sa_20:11y Jonatán dijo a D: Ven, salgamos alH1732
+- 1Sa_20:12si resultare bien para con D, entoncesH1732
+- 1Sa_20:15haya cortado...los enemigos de D de laH1732
+- 1Sa_20:15no dejes...sea quitado de la casa de DH1732
+- 1Sa_20:16así hizo Jonatán pacto con la casa de DH1732
+- 1Sa_20:16requiéralo Jehová de...los enemigos de DH1732
+- 1Sa_20:17Jonatán hizo jurar a D otra vez, porqueH1732
+- 1Sa_20:24D...se escondió en el campo, y cuandoH1732
+- 1Sa_20:25se sentó...y el lugar de D quedó vacíoH1732
+- 1Sa_20:27aconteció...el asiento de D quedó vacíoH1732
+- 1Sa_20:28D me pidió...que le dejase ir a BelénH1732
+- 1Sa_20:33su padre estaba resuelto a matar a DH1732
+- 1Sa_20:34y no comió...tenía dolor a causa de DH1732
+- 1Sa_20:35salió Jonatán...al tiempo señalado con DH1732
+- 1Sa_20:39Jonatán y D entendían...que se tratabaH1732
+- 1Sa_20:41se levantó D del lado del sur, y seH1732
+- 1Sa_20:41y besándose...lloraron...y D lloró másH1732
+- 1Sa_20:42Jonatán dijo a D: Vete en paz, porqueH1732
+- 1Sa_21:1vino D a Nob, al sacerdote AhimelecH1732
+- 1Sa_21:2y respondió D al sacerdote Ahimelec: ÉLH1732
+- 1Sa_21:4respondió a D y dijo: No tengo pan comúnH1732
+- 1Sa_21:5y D respondió al sacerdote, y le dijoH1732
+- 1Sa_21:8D dijo a Ahimelec: ¿No tienes...espada?[[H1732]]
+- 1Sa_21:9y dijo D: Ninguna como ella; dámelaH1732
+- 1Sa_21:10levantándose D aquel día, huyó de laH1732
+- 1Sa_21:11¿no es este D, el rey de la tierra?[[H1732]]
+- 1Sa_21:11hirió Saúl a sus...y D sus diez miles?[[H1732]]
+- 1Sa_21:12y D puso en su corazón estas palabrasH1732
+- 1Sa_22:1yéndose...D de allí, huyó a la cueva deH1732
+- 1Sa_22:3fue D...a Mizpa de Moab, y dijo al reyH1732
+- 1Sa_22:4habitaron...el tiempo que D estuvo en elH1732
+- 1Sa_22:5el profeta Gad dijo a D: No te estés enH1732
+- 1Sa_22:5y D se fue, y vino al bosque de HaretH1732
+- 1Sa_22:6oyó Saúl que se sabía de D y de los queH1732
+- 1Sa_22:14¿y quién...es tan fiel como D, yernoH1732
+- 1Sa_22:17también la mano de ellos está con DH1732
+- 1Sa_22:20uno...Abiatar, escapó, y huyó tras DH1732
+- 1Sa_22:21dio aviso a D de cómo Saúl había dadoH1732
+- 1Sa_22:22dijo D a Abiatar: Yo sabía que...DoegH1732
+- 1Sa_23:1dieron aviso a D, diciendo...los filisteosH1732
+- 1Sa_23:2D consultó a Jehová, diciendo: ¿Iré aH1732
+- 1Sa_23:2Jehová respondió a D: Vé, ataca a losH1732
+- 1Sa_23:3pero los que estaban con D le dijeronH1732
+- 1Sa_23:4entonces D volvió a consultar a JehováH1732
+- 1Sa_23:5fue, pues, D...y libró D a los de KeilaH1732
+- 1Sa_23:6que cuando Abiatar...huyó siguiendo a DH1732
+- 1Sa_23:7dado aviso a Saúl que D había venido aH1732
+- 1Sa_23:8para...poner sitio a D y a sus hombresH1732
+- 1Sa_23:9entendiendo D que Saúl ideaba el malH1732
+- 1Sa_23:10y dijo D: Jehová Dios de Israel, tuH1732
+- 1Sa_23:12dijo...D: ¿Me entregarán los vecinos deH1732
+- 1Sa_23:13D entonces se levantó con sus hombresH1732
+- 1Sa_23:13vino a Saúl la nueva de que D se habíaH1732
+- 1Sa_23:14y D se quedó en el desierto en lugaresH1732
+- 1Sa_23:15viendo, pues, D que Saúl había salidoH1732
+- 1Sa_23:16no levantó Jonatán...y vino a D a HoresH1732
+- 1Sa_23:18y D se quedó en Hores, y Jonatán seH1732
+- 1Sa_23:19¿no está D escondido...en las peñas deH1732
+- 1Sa_23:24D y su gente estaban en el desiertoH1732
+- 1Sa_23:25D...quedó en el desierto...siguió a DH1732
+- 1Sa_23:26y D con sus hombres por el otro ladoH1732
+- 1Sa_23:26se daba prisa D para escapar de SaúlH1732
+- 1Sa_23:26mas...habían encerrado a D y a su genteH1732
+- 1Sa_23:28volvió...tanto, Saúl de perseguir a DH1732
+- 1Sa_23:29D subió de allí y habitó en...de En-gadiH1732
+- 1Sa_24:1aquí D está en el desierto de En-gadiH1732
+- 1Sa_24:2fue en busca de D y de sus hombres, porH1732
+- 1Sa_24:3D y...estaban sentados en los rincones deH1732
+- 1Sa_24:4los hombres de D le dijeron: He aquí elH1732
+- 1Sa_24:4D...cortó la orilla del manto de SaúlH1732
+- 1Sa_24:5después de esto se turbó el corazón de DH1732
+- 1Sa_24:7reprimió D a sus hombres con palabrasH1732
+- 1Sa_24:8D se levantó...y saliendo de la cueva dioH1732
+- 1Sa_24:8D inclinó su rostro a tierra, e hizoH1732
+- 1Sa_24:9D a Saúl: ¿Por qué oyes las palabras deH1732
+- 1Sa_24:9que dicen: Mira que D procura tu mal?[[H1732]]
+- 1Sa_24:16D acabó de decir estas palabras a SaúlH1732
+- 1Sa_24:16¿no es esta la voz tuya, hijo mío D?[[H1732]]
+- 1Sa_24:17y dijo a D: Más justo eres tú que yoH1732
+- 1Sa_24:22D juró a Saúl. Y se fue Saúl a su casaH1732
+- 1Sa_24:22y D y sus hombres subieron al lugarH1732
+- 1Sa_25:1y se levantó D y se fue al desierto deH1732
+- 1Sa_25:4oyó D...que Nabal esquilaba sus ovejasH1732
+- 1Sa_25:5entonces envió D diez jóvenes y les dijoH1732
+- 1Sa_25:8des lo que tuvieres a mano...a tu hijo DH1732
+- 1Sa_25:9dijeron...estas palabras en nombre de DH1732
+- 1Sa_25:10Nabal respondió a los...enviados por DH1732
+- 1Sa_25:10¿quién es D, y quién es el hijo de IsaíH1732
+- 1Sa_25:12los...que había enviado D...dijeron a DH1732
+- 1Sa_25:13D dijo...Cíñase...y D se ciñó su espadaH1732
+- 1Sa_25:13y subieron tras D como 400 hombres, yH1732
+- 1Sa_25:14he aquí D envió mensajeros del desiertoH1732
+- 1Sa_25:20D y sus hombres venían frente a ellaH1732
+- 1Sa_25:21D había dicho: Ciertamente en vano heH1732
+- 1Sa_25:22así haga Dios a los enemigos de D y aunH1732
+- 1Sa_25:23Abigail vio a D, se bajó...del asno, yH1732
+- 1Sa_25:23postrándose...delante de D, se inclinóH1732
+- 1Sa_25:32dijo D a Abigaíl: Bendito sea JehováH1732
+- 1Sa_25:35y recibió D de su mano lo que le habíaH1732
+- 1Sa_25:39que D oyó que Nabal había muerto, dijoH1732
+- 1Sa_25:39después envió D a hablar con AbigaílH1732
+- 1Sa_25:40y los siervos de D vinieron a AbigaílH1732
+- 1Sa_25:40D nos ha enviado a ti, para tomateH1732
+- 1Sa_25:42Abigail...siguió a los mensajeros de DH1732
+- 1Sa_25:40y los siervos de D vinieron a AbigaílH1732
+- 1Sa_25:40D nos ha enviado a ti, para tomateH1732
+- 1Sa_25:42Abigaíl...siguió a los mensajeros de DH1732
+- 1Sa_25:43tomó D a Ahinoam de Jezreel, y ambasH1732
+- 1Sa_25:44Saúl había dado a...mujer de D a PaltiH1732
+- 1Sa_26:1¿no está D escondido en el collado deH1732
+- 1Sa_26:2para buscar a D en el desierto de ZifH1732
+- 1Sa_26:3estaba D en el desierto, y entendió queH1732
+- 1Sa_26:4D...envió espías, y supo con certeza queH1732
+- 1Sa_26:5levantó D, y vino al sitio donde SaúlH1732
+- 1Sa_26:5y miró D el lugar donde dormían Saúl yH1732
+- 1Sa_26:6D dijo a Ahimelec heteo y a Abisai hijoH1732
+- 1Sa_26:7D...y Abisai fueron de noche al ejércitoH1732
+- 1Sa_26:8dijo Abisai a D: Hoy ha entregado DiosH1732
+- 1Sa_26:9y D respondió a Abisai: No le matesH1732
+- 1Sa_26:10dijo además D: Vive Jehová, que siH1732
+- 1Sa_26:12se llevó, pues, D la lanza y la vasijaH1732
+- 1Sa_26:13pasó D al lado opuesto, y se puso enH1732
+- 1Sa_26:14dio voces D al pueblo, y a Abner hijoH1732
+- 1Sa_26:15dijo D a Abner ¿No eres tú un hombre?[[H1732]]
+- 1Sa_26:17conociendo Saúl la voz de D, dijo: ¿NoH1732
+- 1Sa_26:17¿no es ésta tu voz...D? Y D respondióH1732
+- 1Sa_26:21vuélvete, hijo mío D, que ningún malH1732
+- 1Sa_26:22D respondió y dijo: He aquí la lanzaH1732
+- 1Sa_26:25dijo a D: Bendito eres tú, hijo mío DH1732
+- 1Sa_26:25D se fue...su camino, y Saúl se volvióH1732
+- 1Sa_27:1dijo luego D en su corazón...seré muertoH1732
+- 1Sa_27:2se levantó, pues, D y...se pasó a AquisH1732
+- 1Sa_27:3y moró D con Aquis en Gat, él y susH1732
+- 1Sa_27:3D con sus dos mujeres, Ahinoam...AbigailH1732
+- 1Sa_27:4vino...nueva de que D había huido a GatH1732
+- 1Sa_27:5y D dijo a Aquis: Si he hallado graciaH1732
+- 1Sa_27:7días D habitó en la tierra de los filisteosH1732
+- 1Sa_27:8subía D con sus hombres, y hacíanH1732
+- 1Sa_27:9asolaba D el país, y no dejaba con vidaH1732
+- 1Sa_27:10D decía: En el Neguev de Judá, y elH1732
+- 1Sa_27:11ni hombre ni mujer dejaba D con vidaH1732
+- 1Sa_27:11que den aviso...y digan: Esto hizo DH1732
+- 1Sa_27:12y Aquis creía a D, y decía: El se haH1732
+- 1Sa_28:1dijo Aquis a D: Ten entendido que hasH1732
+- 1Sa_28:2D respondió a Aquis...tú sabrás lo queH1732
+- 1Sa_28:2y Aquis dijo a D...te constituiré guardaH1732
+- 1Sa_28:17reino...y lo ha dado a tu compañero, DH1732
+- 1Sa_29:2D y sus hombres iban en la...con AquisH1732
+- 1Sa_29:3respondió...¿No es éste D, el siervo deH1732
+- 1Sa_29:5¿no es éste D, de quien cantaban en lasH1732
+- 1Sa_29:5Saúl hirió a sus...y D a sus diez miles?[[H1732]]
+- 1Sa_29:6Aquis llamó a D y le dijo: Vive JehováH1732
+- 1Sa_29:8y D respondió a Aquis: ¿Qué he hecho?[[H1732]]
+- 1Sa_29:9Aquis respondió a D...Yo sé que tú eresH1732
+- 1Sa_29:11levantó D de mañana, él y sus hombresH1732
+- 1Sa_30:1cuando D...vinieron a Siclag al tercerH1732
+- 1Sa_30:3vino, pues, D con los suyos a la ciudadH1732
+- 1Sa_30:4D y la gente...alzaron su voz y lloraronH1732
+- 1Sa_30:5las dos mujeres de D...eran cautivasH1732
+- 1Sa_30:6D se angustió mucho, porque el puebloH1732
+- 1Sa_30:6mas D se fortaleció en Jehová su DiosH1732
+- 1Sa_30:7y dijo D al sacerdote Abiatar hijo deH1732
+- 1Sa_30:7el efod. Y Abiatar acercó el efod a DH1732
+- 1Sa_30:8y D consultó a Jehová...¿Perseguiré aH1732
+- 1Sa_30:9partió, pues, D, él y los 600 hombresH1732
+- 1Sa_30:10y D siguió adelante con 400 hombresH1732
+- 1Sa_30:11hombre egipcio, el cual trajeron a DH1732
+- 1Sa_30:13y le dijo D: ¿De quién eres tú, y deH1732
+- 1Sa_30:15dijo D: ¿Me llevarás tú a esa tropa?[[H1732]]
+- 1Sa_30:17los hirió D desde aquella mañana hastaH1732
+- 1Sa_30:18y libró D...libertó D a sus dos mujeresH1732
+- 1Sa_30:19no les faltó cosa...todo lo recuperó DH1732
+- 1Sa_30:20tomó...D todas las ovejas y el ganadoH1732
+- 1Sa_30:20delante, decían: Este es el botín de DH1732
+- 1Sa_30:21y vino D a los 200 hombres que habíanH1732
+- 1Sa_30:21los 200...no habían podido seguir a DH1732
+- 1Sa_30:21salieron a recibir a D y al pueblo queH1732
+- 1Sa_30:21cuando D llegó a la gente, les saludóH1732
+- 1Sa_30:22malos...entre los que habían ido con DH1732
+- 1Sa_30:23D dijo: No hagáis eso, hermanos míosH1732
+- 1Sa_30:26y cuando D llegó a Siclag, envió delH1732
+- 1Sa_30:31donde D había estado con sus hombresH1732
+- 2Sa_1:1vuelto D de la derrota de...amalecitasH1732
+- 2Sa_1:2llegando a D, se postró en tierra e hizoH1732
+- 2Sa_1:3y le preguntó D: ¿De dónde vienes? Y élH1732
+- 2Sa_1:4D le dijo: ¿Qué ha acontecido? Te ruegoH1732
+- 2Sa_1:5dijo D a aquel joven...¿Cómo sabes queH1732
+- 2Sa_1:11D, asiendo de sus vestidos, los rasgóH1732
+- 2Sa_1:13D dijo a aquel joven...¿De dónde eres tú?[[H1732]]
+- 2Sa_1:14y le dijo D: ¿Cómo no tuviste temor deH1732
+- 2Sa_1:15llamó D a uno...y le dijo: Vé y mátaloH1732
+- 2Sa_1:16D le dijo: Tu sangre sea sobre tu cabezaH1732
+- 2Sa_1:17y endechó D a Saúl y a Jonatán su hijoH1732
+- 2Sa_2:1después...D consultó a Jehová, diciendoH1732
+- 2Sa_2:1D volvió a decir: ¿A dónde subiré?[[H1732]]
+- 2Sa_2:2D subió allá, y con él sus dos mujeresH1732
+- 2Sa_2:3llevó también D consigo a los hombresH1732
+- 2Sa_2:4a D, diciendo: Los de Jabes de Galaad sonH1732
+- 2Sa_2:4ungieron allí a D por rey sobre la casaH1732
+- 2Sa_2:5envió D mensajeros a los de Jabes deH1732
+- 2Sa_2:10los de la casa de Judá siguieron a DH1732
+- 2Sa_2:11D reinó en Hebrón siete años y 6 mesesH1732
+- 2Sa_2:13los siervos de D...los encontraron juntoH1732
+- 2Sa_2:15y pasaron en...doce de los siervos de DH1732
+- 2Sa_2:17fueron vencidos por los siervos de DH1732
+- 2Sa_2:30faltaron de los siervos de D diecinueveH1732
+- 2Sa_2:31los siervos de D hirieron de...BenjamínH1732
+- 2Sa_3:1entre la casa de Saúl y la casa de DH1732
+- 2Sa_3:1D se iba fortaleciendo, la casa de SaúlH1732
+- 2Sa_3:2y nacieron hijos a D...su primogénito fueH1732
+- 2Sa_3:5el sexto, Itream, de Egla mujer de DH1732
+- 2Sa_3:5estos le nacieron a D en HebrónH1732
+- 2Sa_3:9si como ha jurado Jehová a D, no haga yoH1732
+- 2Sa_3:10confirmando el trono de D sobre IsraelH1732
+- 2Sa_3:12envió Abner mensajeros a D de su parteH1732
+- 2Sa_3:13D dijo: Bien; haré pacto contigo, masH1732
+- 2Sa_3:14envió D mensajeros a Is-Boset hijo deH1732
+- 2Sa_3:17procurabais que D...rey sobre vosotrosH1732
+- 2Sa_3:18porque Jehová ha hablado a D, diciendoH1732
+- 2Sa_3:18por la mano de...D libraré a mi puebloH1732
+- 2Sa_3:19a decir a D todo lo que parecía bien aH1732
+- 2Sa_3:20vino, pues, Abner a D...D hizo banqueteH1732
+- 2Sa_3:21y dijo Abner a D: Yo me levantaré e iréH1732
+- 2Sa_3:21D despidió luego a Abner, y él se fue enH1732
+- 2Sa_3:22los siervos de D y Joab venían del campoH1732
+- 2Sa_3:22Abner no estaba con D en Hebrón pues yaH1732
+- 2Sa_3:26saliendo Joab de la presencia de D envióH1732
+- 2Sa_3:26le hicieron volver...sin que D lo supieraH1732
+- 2Sa_3:28cuando D supo esto dijo: Inocente soy yoH1732
+- 2Sa_3:31dijo D...el rey D iba detrás del féretroH1732
+- 2Sa_3:35todo el pueblo vino para persuadir a DH1732
+- 2Sa_3:35mas D juró diciendo: Así me haga Dios yH1732
+- 2Sa_4:8y trajeron la cabeza de Is-boset a D enH1732
+- 2Sa_4:9D respondió a Recab...Vive Jehová que haH1732
+- 2Sa_4:12D ordenó a sus siervos, y...los mataronH1732
+- 2Sa_5:1vinieron todas las tribus de Israel a DH1732
+- 2Sa_5:3el rey D hizo pacto...ungieron a D por reyH1732
+- 2Sa_5:4era D de 30 años cuando comenzó a reinarH1732
+- 2Sa_5:6hablaron a D, diciendo: Tú no entrarás acáH1732
+- 2Sa_5:6queriendo decir: D no puede entrar acáH1732
+- 2Sa_5:7D tomó...Sion, la cual es la ciudad de DH1732
+- 2Sa_5:8dijo D aquel día: Todo el que hiera a losH1732
+- 2Sa_5:8a los cojos y...aborrecidos del alma de DH1732
+- 2Sa_5:9D moró...puso por nombre la Ciudad de DH1732
+- 2Sa_5:10y D iba adelantando y engrandeciéndoseH1732
+- 2Sa_5:11Hiram...envió embajadores a D, y maderaH1732
+- 2Sa_5:11y carpinteros...edificaron la casa de DH1732
+- 2Sa_5:12entendió D que Jehová le había...por reyH1732
+- 2Sa_5:13y tomó D más concubinas y mujeres deH1732
+- 2Sa_5:17oyendo...que D había sido ungido por reyH1732
+- 2Sa_5:17los filisteos para buscar a D...D lo oyóH1732
+- 2Sa_5:19consultó D a Jehová, diciendo: ¿IréH1732
+- 2Sa_5:19Jehová respondió a D: Vé...entregaré aH1732
+- 2Sa_5:20vino D a...y allí los venció D, y dijoH1732
+- 2Sa_5:21ídolos, y D y sus hombres los quemaronH1732
+- 2Sa_5:23consultando D a Jehová, él le respondióH1732
+- 2Sa_5:25D lo hizo así, como Jehová se lo habíaH1732
+- 2Sa_6:1D volvió a reunir a todos los escogidosH1732
+- 2Sa_6:2se levantó D y partió de Baala de JudáH1732
+- 2Sa_6:5D y...Israel danzaban delante de JehováH1732
+- 2Sa_6:8entristeció D por haber herido Jehová aH1732
+- 2Sa_6:9y temiendo D a Jehová aquel día, dijoH1732
+- 2Sa_6:10D no quiso traer...el arca...ciudad de DH1732
+- 2Sa_6:10la hizo llevar D a casa de Obed-edomH1732
+- 2Sa_6:12dado aviso al rey D, diciendo: JehováH1732
+- 2Sa_6:12D fue, y llevó...arca...a la ciudad de DH1732
+- 2Sa_6:14D danzaba...estaba D vestido con un efodH1732
+- 2Sa_6:15D y...Israel conducían el arca de JehováH1732
+- 2Sa_6:16cuando el arca...llegó a la ciudad de DH1732
+- 2Sa_6:16Mical hija de...vio al rey D que saltabaH1732
+- 2Sa_6:17de una tienda que D le había levantadoH1732
+- 2Sa_6:17sacrificó D holocaustos y ofrendas deH1732
+- 2Sa_6:18cuando D había acabado de ofrecer losH1732
+- 2Sa_6:20volvió luego D para bendecir su casaH1732
+- 2Sa_6:20y saliendo Mical a recibir a D, dijoH1732
+- 2Sa_6:21D respondió a Mical: Fue delante deH1732
+- 2Sa_7:5y di a mi siervo D: Así ha dicho JehováH1732
+- 2Sa_7:8dirás así a...D: Así ha dicho Jehová deH1732
+- 2Sa_7:17conforme...visión, así habló Natán a DH1732
+- 2Sa_7:18entró...D y se puso delante de JehováH1732
+- 2Sa_7:20más puede añadir D hablando contigo?[[H1732]]
+- 2Sa_7:26y que la casa de tu siervo D sea firmeH1732
+- 2Sa_8:1que D derrotó a los filisteos...tomó D aH1732
+- 2Sa_8:2fueron...moabitas siervos de D...tributoH1732
+- 2Sa_8:3derrotó D a Hadad-ezer hijo de Rehob, reyH1732
+- 2Sa_8:4tomó D de...y desjarretó D los caballosH1732
+- 2Sa_8:5D hirió de los sirios a 22.000 hombresH1732
+- 2Sa_8:6puso...D guarnición en Siria de DamascoH1732
+- 2Sa_8:6y los sirios fueron hechos siervos de DH1732
+- 2Sa_8:6dio la victoria a D por dondequiera queH1732
+- 2Sa_8:7y tomó D los escudos de oro que traíanH1732
+- 2Sa_8:8tomó el rey D gran cantidad de bronceH1732
+- 2Sa_8:9D había derrotado a todo el ejército deH1732
+- 2Sa_8:10envió toi a Joram su hijo al rey D, paraH1732
+- 2Sa_8:11los cuales el rey D dedicó a JehováH1732
+- 2Sa_8:13así ganó D fama. Cuando regresaba deH1732
+- 2Sa_8:14y todos los edomitas fueron siervos de DH1732
+- 2Sa_8:14dio la victoria a D por dondequiera queH1732
+- 2Sa_8:15y reinó D sobre todo IsraelH1732
+- 2Sa_8:15y D administraba justicia y equidad aH1732
+- 2Sa_8:18y los hijos de D eran los príncipesH1732
+- 2Sa_9:1dijo D: ¿Ha quedado alguno de la...SaúlH1732
+- 2Sa_9:2al cual llamaron para que viniese a DH1732
+- 2Sa_9:5envió el rey D, y le trajo de la casa deH1732
+- 2Sa_9:6vino Mefi-boset...a D, y se postró sobre suH1732
+- 2Sa_9:6dijo D: Mefi-boset. Y él respondió: HeH1732
+- 2Sa_9:7dijo D: No tengas temor, porque yo a laH1732
+- 2Sa_10:2dijo D: Yo haré misericordia con HanúnH1732
+- 2Sa_10:2envió D...para consolarlo por su padreH1732
+- 2Sa_10:2llegados los siervos de D a la...de AmónH1732
+- 2Sa_10:3por honrar D a tu padre te ha enviadoH1732
+- 2Sa_10:3¿no ha enviado D...a ti para reconocerH1732
+- 2Sa_10:4tomó los siervos de D, les rapó...barbaH1732
+- 2Sa_10:6viendo...que se habían hecho odiosos a DH1732
+- 2Sa_10:7cuando D oyó esto, envió a Joab con todoH1732
+- 2Sa_10:17fue dado aviso a D, reunió a todo IsraelH1732
+- 2Sa_10:17sirios se pusieron en...batalla contra DH1732
+- 2Sa_10:18D mató de los sirios a la gente de 700H1732
+- 2Sa_11:1D envió a Joab...D se quedó en JerusalénH1732
+- 2Sa_11:2se levantó D de su lecho y se paseabaH1732
+- 2Sa_11:3envió D a preguntar por aquella mujerH1732
+- 2Sa_11:4envió D mensajeros, y la tomó; y vinoH1732
+- 2Sa_11:5la mujer, y envió a hacerlo saber a DH1732
+- 2Sa_11:6D envió a decir...Joab envió a Urías a DH1732
+- 2Sa_11:7D le preguntó por la salud de Joab, yH1732
+- 2Sa_11:8dijo D a Urías: Desciende a tu casa, yH1732
+- 2Sa_11:10hicieron saber...a D...vé dijo D a UriasH1732
+- 2Sa_11:11Urías respondió a D: El arca e IsraelH1732
+- 2Sa_11:12D dijo a Urías: Quédate aquí aún hoyH1732
+- 2Sa_11:13D lo convidó a comer y a beber con élH1732
+- 2Sa_11:14escribió D a Joab una carta, la cualH1732
+- 2Sa_11:17cayeron algunos...de los siervos de DH1732
+- 2Sa_11:18e hizo saber a D...asuntos de la guerraH1732
+- 2Sa_11:22contó a D todo aquello a que Joab leH1732
+- 2Sa_11:23dijo el mensajero a D: PrevalecieronH1732
+- 2Sa_11:25D dijo al mensajero: Así dirás a JoabH1732
+- 2Sa_11:27pasado el luto, envió D y la trajo a suH1732
+- 2Sa_11:27esto que D había hecho, fue desagradableH1732
+- 2Sa_12:1Jehová envió a Natán a D; y viniendo aH1732
+- 2Sa_12:5encendió el furor de D en gran maneraH1732
+- 2Sa_12:7dijo Natán a D: Tú eres aquel hombreH1732
+- 2Sa_12:13dijo D a Natán: Pequé contra JehováH1732
+- 2Sa_12:13dijo a D: También Jehová ha remitidoH1732
+- 2Sa_12:15hirió al niño que la...había dado a DH1732
+- 2Sa_12:16D rogó a Dios por el niño; y ayunó DH1732
+- 2Sa_12:18temían los siervos de D hacerle saberH1732
+- 2Sa_12:19D, viendo a sus siervos hablar entreH1732
+- 2Sa_12:19por lo que dijo D...¿Ha muerto el niño?[[H1732]]
+- 2Sa_12:20D se levantó de la tierra, y se lavóH1732
+- 2Sa_12:24consoló D a Betsabé...y llegándose a ellaH1732
+- 2Sa_12:27envió Joab mensajeros a D, diciendoH1732
+- 2Sa_12:29juntando D a todo el pueblo, fue contraH1732
+- 2Sa_12:30la corona...puesta sobre la cabeza de DH1732
+- 2Sa_12:31y volvió D con...el pueblo a JerusalénH1732
+- 2Sa_13:1teniendo Absalón hijo de D una hermanaH1732
+- 2Sa_13:1se enamoró de ella Amnón hijo de DH1732
+- 2Sa_13:3, 2Sa_13:32Jonadab, hijo de Simea hermano de DH1732
+- 2Sa_13:7D envió a Tamar a su casa, diciendo: VéH1732
+- 2Sa_13:21y luego que...D oyó todo esto, se enojóH1732
+- 2Sa_13:30llegó a D el rumor que decía: AbsalónH1732
+- 2Sa_13:31levantándose D, rasgó sus vestidos, yH1732
+- 2Sa_13:37D lloraba por su hijo todos los díasH1732
+- 2Sa_13:39el rey D deseaba ver a Absalón; puesH1732
+- 2Sa_14:18D respondió...que no me encubras nadaH1732
+- 2Sa_15:12llamó a Ahitofel...consejero de D, deH1732
+- 2Sa_15:13y un mensajero vino a D, diciendo: ElH1732
+- 2Sa_15:14D dijo a todos sus siervos...LevantaosH1732
+- 2Sa_15:22D dijo a Itai: Ven, pues, y pasaH1732
+- 2Sa_15:30D subió la cuesta de los Olivos y laH1732
+- 2Sa_15:31dieron aviso a D, diciendo: AhitofelH1732
+- 2Sa_15:31dijo D: Entorpece ahora, oh Jehová, elH1732
+- 2Sa_15:32cuando D llegó a la cumbre del monteH1732
+- 2Sa_15:33dijo D: Si pasares conmigo, me serásH1732
+- 2Sa_15:37así vino Husai amigo de D a la ciudadH1732
+- 2Sa_16:1cuando D pasó...más allá de la cumbre delH1732
+- 2Sa_16:5vino el rey D hasta Bahurim; y he aquíH1732
+- 2Sa_16:6arrojando piedras contra D, y contraH1732
+- 2Sa_16:6y contra todos los siervos del rey DH1732
+- 2Sa_16:10Jehová le ha dicho que maldiga a DH1732
+- 2Sa_16:11dijo D a Abisai...He aquí, mi hijo queH1732
+- 2Sa_16:13mientras D y los suyos iban...el caminoH1732
+- 2Sa_16:16que cuando Husai...amigo de D, vino alH1732
+- 2Sa_16:23así era...tanto con D como con AbsalónH1732
+- 2Sa_17:1y me levantaré y seguiré a D esta nocheH1732
+- 2Sa_17:16dad aviso a D, diciendo: No te quedesH1732
+- 2Sa_17:17fueron y se lo hicieron saber al rey DH1732
+- 2Sa_17:21y dieron aviso al rey D, diciéndoleH1732
+- 2Sa_17:22D se levantó, y todo el pueblo que conH1732
+- 2Sa_17:24D llegó a Mahanaim- y Absalón pasó elH1732
+- 2Sa_17:27que D llegó a Mahanaim, Sobi hijo deH1732
+- 2Sa_17:28trajeron a D...camas, tazas, vasijas deH1732
+- 2Sa_18:1D, pues, pasó revista al pueblo que teníaH1732
+- 2Sa_18:2y envió D al pueblo, una tercera parteH1732
+- 2Sa_18:7allí cayó...delante de los siervos de DH1732
+- 2Sa_18:9encontró Absalón con los siervos de DH1732
+- 2Sa_18:24D estaba sentado entre las dos puertasH1732
+- 2Sa_19:11el rey D envió a los sacerdotes Sadoc yH1732
+- 2Sa_19:16Simei...descendió...a recibir al rey DH1732
+- 2Sa_19:22D...dijo: ¿Qué tengo yo con vosotrosH1732
+- 2Sa_19:41pasar...todos los siervos de D con él?[[H1732]]
+- 2Sa_19:43en el mismo D más que vosotros. ¿PorH1732
+- 2Sa_20:1dijo: No tenemos nosotros parte en DH1732
+- 2Sa_20:2los hombres de Israel abandonaron a DH1732
+- 2Sa_20:3que llegó D a su casa en Jerusalén, tomóH1732
+- 2Sa_20:6dijo D a Abisai: Seba hijo de Bicri nosH1732
+- 2Sa_20:11ame a Joab y a D, vaya en pos de JoabH1732
+- 2Sa_20:21ha levantado su mano contra el rey DH1732
+- 2Sa_20:26Ira jaireo fue también sacerdote de DH1732
+- 2Sa_21:1hubo hambre en los días de D por 3 añosH1732
+- 2Sa_21:1D consultó a Jehová, y Jehová le dijoH1732
+- 2Sa_21:3dijo...D a los gabaonitas: ¿Qué haré porH1732
+- 2Sa_21:7por el juramento...entre D y Jonatán hijoH1732
+- 2Sa_21:11fue dicho a D lo que hacía Rizpa hijaH1732
+- 2Sa_21:12D fue y tomó los huesos de Saúl y losH1732
+- 2Sa_21:15descendió D y sus siervos...D se cansoH1732
+- 2Sa_21:16Isbi-benob, uno de...trató de matar a DH1732
+- 2Sa_21:17los hombres de D le juraron, diciendoH1732
+- 2Sa_21:21Jonatán, hijo de Simea hermano de DH1732
+- 2Sa_21:22los cuales cayeron por mano de D y deH1732
+- 2Sa_22:1habló D...las palabras de este cánticoH1732
+- 2Sa_22:51a D y a su descendencia para siempreH1732
+- 2Sa_23:1son las palabras postreras de D. Dijo DH1732
+- 2Sa_23:8los nombres de los valientes que tuvo DH1732
+- 2Sa_23:9los tres valientes que estaban con DH1732
+- 2Sa_23:13vinieron...a D en la cueva de AdulamH1732
+- 2Sa_23:14D...estaba en el lugar fuerte, y habíaH1732
+- 2Sa_23:15y D dijo...¡Quién me diera a beber delH1732
+- 2Sa_23:16y la trajeron a D; más él no la quisoH1732
+- 2Sa_23:23y lo puso D como jefe de su guardiaH1732
+- 2Sa_24:1e incitó a D...dijese: Vé, haz un censoH1732
+- 2Sa_24:10después que D hubo censado al puebloH1732
+- 2Sa_24:10D a Jehová: Yo he pecado gravementeH1732
+- 2Sa_24:11D se hubo levantado, vino palabra deH1732
+- 2Sa_24:11de Jehová al profeta Gad, vidente de DH1732
+- 2Sa_24:12vé y di a D: Así ha dicho Jehová: TresH1732
+- 2Sa_24:13vino...Gad a D, y se lo hizo saber, y leH1732
+- 2Sa_24:14D dijO a Gad: En grande angustia estoyH1732
+- 2Sa_24:17y D dijo a Jehová, cuando vio al ángelH1732
+- 2Sa_24:18Gad vino a D aquel día, y le dijo: SubeH1732
+- 2Sa_24:19subió D, conforme al dicho de GadH1732
+- 2Sa_24:21D respondió: Para comprar de ti la eraH1732
+- 2Sa_24:22Arauna dijo a D: Tome y ofrezca...el reyH1732
+- 2Sa_24:24entonces D compró la era y los bueyesH1732
+- 2Sa_24:25y edificó allí D un altar a Jehová, yH1732
+- 1Re_1:1el rey D era viejo y avanzado en díasH1732
+- 1Re_1:8los grandes de D, no seguían a AdoníasH1732
+- 1Re_1:11que reina Adonías hijo...sin saberlo DH1732
+- 1Re_1:13entra al rey D, y dile: Rey señor míoH1732
+- 1Re_1:28el rey D respondió y dijo: Llamadme aH1732
+- 1Re_1:31viva mi señor el rey D para siempreH1732
+- 1Re_1:32rey D dijo: Llamadme al sacerdote SadocH1732
+- 1Re_1:37haga mayor...que el trono de...el rey DH1732
+- 1Re_1:38montaron a Salomón en la mula del...DH1732
+- 1Re_1:43señor el rey D ha hecho rey a SalomónH1732
+- 1Re_1:47han venido a bendecir a nuestro señor...DH1732
+- 1Re_2:1que D había de morir, y ordenó a SalomónH1732
+- 1Re_2:10durmió D con sus padres, y...sepultadoH1732
+- 1Re_2:11que reinó D sobre Israel fueron 40 añosH1732
+- 1Re_2:12sentó Salomón en el trono de D su padreH1732
+- 1Re_2:24quien...me ha puesto sobre el trono de DH1732
+- 1Re_2:26llevado el arca...delante de D mi padreH1732
+- 1Re_2:32mató...sin que mi padre D supiese nadaH1732
+- 1Re_2:33mas sobre D y...habrá perpetuamente pazH1732
+- 1Re_2:44el mal...que cometiste contra mi padre DH1732
+- 1Re_2:45el trono de D será firme perpetuamenteH1732
+- 1Re_3:1hija de Faraón...la trajo a la ciudad de DH1732
+- 1Re_3:3andando en los estatutos de su padre DH1732
+- 1Re_3:6hiciste gran misericordia a tu siervo DH1732
+- 1Re_3:7tú me has puesto por rey en lugar de DH1732
+- 1Re_3:14si anduvieres...como anduvo D tu padreH1732
+- 1Re_5:1porque Hiram siempre había amado a DH1732
+- 1Re_5:3que mi padre D no pudo edificar casa alH1732
+- 1Re_5:5según lo que Jehová habló a D mi padreH1732
+- 1Re_5:7que dio hijo sabio a D sobre este puebloH1732
+- 1Re_6:12yo cumpliré...mi palabra que hablé a DH1732
+- 1Re_7:51metió...lo que D su padre había dedicadoH1732
+- 1Re_8:1para traer el arca del...de la ciudad de DH1732
+- 1Re_8:15bendito sea Jehová...habló a D mi padreH1732
+- 1Re_8:16aunque escogí a D para que presidieseH1732
+- 1Re_8:17y D...tuvo en su corazón edificar casaH1732
+- 1Re_8:18Jehová dijo a D: Cuanto a haber tenidoH1732
+- 1Re_8:20me he levantado en lugar de D mi padreH1732
+- 1Re_8:24que has cumplido a tu siervo D mi padreH1732
+- 1Re_8:25cumple a tu siervo D mi padre lo que leH1732
+- 1Re_8:26la palabra que dijiste a tu...D mi padreH1732
+- 1Re_8:66beneficios que Jehová había hecho a DH1732
+- 1Re_9:4si tú anduvieres...como anduvo D tu padreH1732
+- 1Re_9:5hablé a D tu padre, diciendo: No faltaráH1732
+- 1Re_9:24subió la hija de Faraón...la ciudad de DH1732
+- 1Re_11:4no era perfecto...como el...de su padre DH1732
+- 1Re_11:6y no siguió...a Jehová como D su padreH1732
+- 1Re_11:12no lo haré en tus días, por amor a D tuH1732
+- 1Re_11:13daré una tribu a tu hijo, por amor a DH1732
+- 1Re_11:15cuando D estaba en Edom, y subió JoabH1732
+- 1Re_11:21oyendo Hadad en...que D había dormidoH1732
+- 1Re_11:24hecho capitán...cuando D deshizo...SobaH1732
+- 1Re_11:27cerró el portillo de la ciudad de D suH1732
+- 1Re_11:32y él tendrá una tribu por amor a D miH1732
+- 1Re_11:33no han andado en...como hizo D su padreH1732
+- 1Re_11:34que lo retendré...por amor a D mi siervoH1732
+- 1Re_11:36D tenga lámpara todos los días delanteH1732
+- 1Re_11:38como hizo D mi siervo...estaré contigoH1732
+- 1Re_11:38te edificaré casa...como la edifiqué a DH1732
+- 1Re_11:39yo afligiré a la descendencia de D aH1732
+- 1Re_11:43sepultado en la ciudad de su padre DH1732
+- 1Re_12:16¿qué parte tenemos nosotros con D? NoH1732
+- 1Re_12:16¡Israel...¡Provee ahora en tu casa, D![[H1732]]
+- 1Re_12:19así se apartó Israel de la casa de DH1732
+- 1Re_12:20que siguiese la casa de D, sino sólo laH1732
+- 1Re_12:26se volverá el reino a la casa de DH1732
+- 1Re_13:2a la casa de D nacerá un hijo...JosíasH1732
+- 1Re_14:8rompí el reino de la casa de D y te loH1732
+- 1Re_14:8no has sido como D mi siervo, que guardóH1732
+- 1Re_14:31fue sepultado con...en la ciudad de DH1732
+- 1Re_15:3no fue...como el corazón de D su padreH1732
+- 1Re_15:4por amor a D, Jehová...le dio lámpara enH1732
+- 1Re_15:5D había hecho lo recto ante...de JehováH1732
+- 1Re_15:8sepultaron en la ciudad de D; y reinóH1732
+- 1Re_15:11Asa hizo lo recto ante...como D su padreH1732
+- 1Re_15:24; 1Re_22:50fue sepultado...en la ciudad de DH1732
+- 2Re_8:19no quiso destruir a...por amor a DH1732
+- 2Re_8:24sepultado con ellos en la ciudad de DH1732
+- 2Re_9:28allá le sepultaron...en la ciudad de DH1732
+- 2Re_11:10los escudos que habían sido del rey DH1732
+- 2Re_12:21lo sepultaron con...en la ciudad de DH1732
+- 2Re_14:3él hizo lo recto ante...aunque no como DH1732
+- 2Re_14:20; 2Re_15:7lo sepultaron...en la ciudad de DH1732
+- 2Re_15:38y fue sepultado con...en la ciudad de DH1732
+- 2Re_16:2no hizo lo recto ante...como D su padreH1732
+- 2Re_16:20fue sepultado con...en la ciudad de DH1732
+- 2Re_17:21porque separó a Israel de la casa de DH1732
+- 2Re_18:3las cosas que había hecho D su padreH1732
+- 2Re_19:34esta ciudad para salvarla...por amor a DH1732
+- 2Re_20:5así dice Jehová, el Dios de D tu padreH1732
+- 2Re_20:6ampararé esta...por amor a D mi siervoH1732
+- 2Re_21:7casa de la cual Jehová había dicho a DH1732
+- 2Re_22:2anduvo en todo el camino de D su padreH1732
+- 1Cr_2:15el sexto Ozem, el séptimo DH1732
+- 1Cr_3:1los hijos de D que le nacieron en HebrónH1732
+- 1Cr_3:9todos éstos fueron los hijos de D, sinH1732
+- 1Cr_4:31fueron sus ciudades hasta el reinado de DH1732
+- 1Cr_6:31que D puso sobre el servicio de canto enH1732
+- 1Cr_7:2de Tola fueron contados...el tiempo de DH1732
+- 1Cr_9:22constituyó en su oficio D y Samuel elH1732
+- 1Cr_10:14y traspasó el reino de D hijo de IsaíH1732
+- 1Cr_11:1Israel se juntó a D en Hebrón, diciendoH1732
+- 1Cr_11:3y D hizo con ellos pacto delante deH1732
+- 1Cr_11:3y ungieron a D por rey sobre IsraelH1732
+- 1Cr_11:4se fue D con todo Israel a JerusalénH1732
+- 1Cr_11:5y los moradores de Jebús dijeron a DH1732
+- 1Cr_11:5D tomó la fortaleza...es la ciudad de DH1732
+- 1Cr_11:6D había dicho: El que primero derrote aH1732
+- 1Cr_11:7D habitó en la fortaleza, y por esto laH1732
+- 1Cr_11:7y por esto la llamaron la Ciudad de DH1732
+- 1Cr_11:9D iba adelantando y creciendo, y JehováH1732
+- 1Cr_11:10los principales de los valientes que DH1732
+- 1Cr_11:11el número de los valientes que D tuvoH1732
+- 1Cr_11:13estuvo con D en Pas-damin...en batallaH1732
+- 1Cr_11:15tres de los...descendieron a la peña a DH1732
+- 1Cr_11:16D estaba entonces en la fortaleza, yH1732
+- 1Cr_11:17D deseó...dijo: ¡Quién me diera de beberH1732
+- 1Cr_11:18del pozo de Belén...y la trajeron a DH1732
+- 1Cr_11:25a éste puso D en su guardia personalH1732
+- 1Cr_12:1los que vinieron a D en Siclag, estandoH1732
+- 1Cr_12:8los de Gad huyeron y fueron a D, al lugarH1732
+- 1Cr_12:16y de Judá vinieron a D al lugar fuerteH1732
+- 1Cr_12:17D salió...les habló diciendo: Si habéisH1732
+- 1Cr_12:18por ti, oh D, y contigo, oh hijo de IsaíH1732
+- 1Cr_12:18y D los recibió, y los puso entre losH1732
+- 1Cr_12:19pasaron a D algunos de Manasés, cuandoH1732
+- 1Cr_12:19D no les ayudó, porque los jefes de losH1732
+- 1Cr_12:21éstos ayudaron a D contra la banda deH1732
+- 1Cr_12:22todos los días venía ayuda a D, hastaH1732
+- 1Cr_12:23el número de...vinieron a D en HebrónH1732
+- 1Cr_12:31de Manasés...venir a poner a D por reyH1732
+- 1Cr_12:38para poner a D por rey sobre todo IsraelH1732
+- 1Cr_12:38un mismo ánimo para poner a D por reyH1732
+- 1Cr_12:39y estuvieron allí con D tres díasH1732
+- 1Cr_13:1D tomó consejo con los capitanes deH1732
+- 1Cr_13:2y dijo D a toda la asamblea de IsraelH1732
+- 1Cr_13:5D reunió a todo Israel, desde Sihor deH1732
+- 1Cr_13:6y subió D con todo Israel a Baala deH1732
+- 1Cr_13:8D...se regocijaban delante de Dios conH1732
+- 1Cr_13:11y D tuvo pesar, porque Jehová habíaH1732
+- 1Cr_13:12y D temió a Dios aquel día, y dijoH1732
+- 1Cr_13:13no trajo D el arca a...la ciudad de DH1732
+- 1Cr_14:1Hiram rey de Tiro envió a D embajadoresH1732
+- 1Cr_14:2y entendió D que Jehová lo había...reyH1732
+- 1Cr_14:3D tomó...mujeres...y engendró D más hijosH1732
+- 1Cr_14:8oyendo los filisteos que D...sido ungidoH1732
+- 1Cr_14:8los filisteos en busca de D...D lo oyóH1732
+- 1Cr_14:10D consultó a Dios, diciendo: ¿SubiréH1732
+- 1Cr_14:11subieron, pues...y allí los derrotó DH1732
+- 1Cr_14:11dijo...D: Dios rompió mis enemigos porH1732
+- 1Cr_14:12sus dioses, y D dijo que los quemasenH1732
+- 1Cr_14:14D volvió a consultar a Dios, y Dios leH1732
+- 1Cr_14:16hizo, pues, D como Dios le mandó, yH1732
+- 1Cr_14:17la fama de D fue divulgada por todasH1732
+- 1Cr_14:17puso el temor de D sobre...las naciones
+- 1Cr_15:1hizo D...casas para sí en la ciudad de DH1732
+- 1Cr_15:2D: El arca de Dios no debe ser llevadaH1732
+- 1Cr_15:3congregó D a todo Israel en JerusalénH1732
+- 1Cr_15:4reunió...D a los hijos de Aarón y a losH1732
+- 1Cr_15:11y llamó D a los sacerdotes Sadoc yH1732
+- 1Cr_15:16dijo D a los principales de los levitasH1732
+- 1Cr_15:25D...fueron a traer el arca del pacto deH1732
+- 1Cr_15:27y D iba vestido de lino fino...levitasH1732
+- 1Cr_15:27llevaba también D sobre sí un efod deH1732
+- 1Cr_15:29cuando el arca...llegó a la ciudad de DH1732
+- 1Cr_15:29Mical hija, vio al rey D que saltabaH1732
+- 1Cr_16:1el arca...la tienda que D había levantadoH1732
+- 1Cr_16:2D acabó de ofrecer el holocausto y losH1732
+- 1Cr_16:7D comenzó a aclamar a Jehová por manoH1732
+- 1Cr_16:43y D se volvió para bendecir su casaH1732
+- 1Cr_17:1morando D en su casa, dijo D al profetaH1732
+- 1Cr_17:2y Natán dijo a D: Haz todo lo que estáH1732
+- 1Cr_17:4y di a D mi siervo: Así ha dicho JehováH1732
+- 1Cr_17:7ahora dirás a mi siervo D: Así ha dichoH1732
+- 1Cr_17:15conforme...visión, así habló Natán a DH1732
+- 1Cr_17:16y entró...D y estuvo delante de JehováH1732
+- 1Cr_17:18¿qué más puede añadir D pidiendo de tiH1732
+- 1Cr_17:24sea la casa de...D firme delante de tiH1732
+- 1Cr_18:1D derrotó a los filisteos, y los humillóH1732
+- 1Cr_18:2Moab, y los moabitas fueron siervos de DH1732
+- 1Cr_18:3derrotó D a Hadad-ezer rey de Soba, enH1732
+- 1Cr_18:4y le tomó D mil carros, siete mil de aH1732
+- 1Cr_18:4desjarretó D los caballos de todos losH1732
+- 1Cr_18:5sirios...D hirió de ellos 22.000 hombresH1732
+- 1Cr_18:6y puso D guarnición en Siria de DamascoH1732
+- 1Cr_18:6los sirios fueron hechos siervos de DH1732
+- 1Cr_18:6, 1Cr_18:13porque Jehová daba la victoria a DH1732
+- 1Cr_18:7tornó también D los escudos de oro queH1732
+- 1Cr_18:8y de Cun...tomó D muchísimo bronce, conH1732
+- 1Cr_18:9oyendo Toi...que D había deshecho todo elH1732
+- 1Cr_18:10envió a Adoram su hijo al rey D, paraH1732
+- 1Cr_18:11los cuales el rey D dedicó a JehováH1732
+- 1Cr_18:13edomitas fueron siervos de D; porqueH1732
+- 1Cr_18:14reinó D sobre todo Israel, y juzgabaH1732
+- 1Cr_18:17y los hijos de D eran los príncipesH1732
+- 1Cr_19:2y dijo D: Manifestaré misericordia conH1732
+- 1Cr_19:2D envió embajadores que lo consolasenH1732
+- 1Cr_19:2pero cuando llegaron los siervos de DH1732
+- 1Cr_19:3¿a tu parecer honra D a tu padre, queH1732
+- 1Cr_19:4entonces Hanún tomó los siervos de D yH1732
+- 1Cr_19:5cuando llegó a D la noticia...él envióH1732
+- 1Cr_19:6de Amón que se habían hecho odiosos a DH1732
+- 1Cr_19:8oyéndolo D, envió a Joab con todo elH1732
+- 1Cr_19:17luego que fue dado aviso a D, reunióH1732
+- 1Cr_19:17D hubo ordenado su tropa contra ellosH1732
+- 1Cr_19:18mató D de los sirios a 7.000 hombresH1732
+- 1Cr_19:19los sirios de...concertaron paz con D, yH1732
+- 1Cr_20:1D estaba en Jerusalén; y Joab batió aH1732
+- 1Cr_20:2tomó D la corona de encima de la cabezaH1732
+- 1Cr_20:3lo mismo hizo D a todas las ciudades deH1732
+- 1Cr_20:3volvió D con todo el pueblo a JerusalénH1732
+- 1Cr_20:7lo mató Jonatán, hijo de...hermano de DH1732
+- 1Cr_20:8cayeron por mano de D y de sus siervosH1732
+- 1Cr_21:1incitó a D a que hiciese censo de IsraelH1732
+- 1Cr_21:2dijo D a Joab y a...Id, hacer censo deH1732
+- 1Cr_21:5dio la cuenta del número del pueblo a DH1732
+- 1Cr_21:8dijo D a Dios: He pecado gravemente alH1732
+- 1Cr_21:9y habló...a Gad, vidente de D, diciendoH1732
+- 1Cr_21:10habla a D, y dile: Así ha dicho JehováH1732
+- 1Cr_21:11viniendo Gad a D, te dijo: Así ha dichoH1732
+- 1Cr_21:13D dijo a Gad: Estoy en grande angustiaH1732
+- 1Cr_21:16alzando D sus ojos, vio al ángel deH1732
+- 1Cr_21:16D y los ancianos se postraron sobre susH1732
+- 1Cr_21:17dijo D a Dios: ¿No soy yo el que hizoH1732
+- 1Cr_21:18el ángel...ordenó a Gad que dijese a DH1732
+- 1Cr_21:19D subió, conforme a la palabra que GadH1732
+- 1Cr_21:21y viniendo D a Ornán, miró...y vio a DH1732
+- 1Cr_21:21de la era, se postró en tierra ante DH1732
+- 1Cr_21:22dijo D a Ornán: Dame este lugar de laH1732
+- 1Cr_21:23y Ornán respondió a D: Tómala para tiH1732
+- 1Cr_21:24el rey D dijo a Ornán: No, sino queH1732
+- 1Cr_21:25y dio D...el peso de 600 siclos de oroH1732
+- 1Cr_21:26edificó allí D un altar a Jehová, en elH1732
+- 1Cr_21:28viendo D que Jehová le había oído en laH1732
+- 1Cr_21:30D no pudo ir allí a consultar a DiosH1732
+- 1Cr_22:1dijo D: Aquí estará la casa de JehováH1732
+- 1Cr_22:2mandó D...se reuniese a los extranjerosH1732
+- 1Cr_22:3preparó D...hierro para la clavazón deH1732
+- 1Cr_22:4habían traído a D...de madera de cedroH1732
+- 1Cr_22:5y dijo D: Salomón mi hijo es muchachoH1732
+- 1Cr_22:5D antes de su muerte...preparativos enH1732
+- 1Cr_22:6llamó entonces D a Salomón su hijo, y
+- 1Cr_22:7D a Salomón: Hijo mío, en mi corazónH1732
+- 1Cr_22:17mandó D a...los principales de IsraelH1732
+- 1Cr_23:1siendo pues, D ya viejo y lleno de díasH1732
+- 1Cr_23:5dijo D, con los instrumentos que heH1732
+- 1Cr_23:6los repartió D en grupos conforme a losH1732
+- 1Cr_23:25D dijo: Jehová Dios de Israel ha dadoH1732
+- 1Cr_23:27conforme a las...palabras de D, se hizoH1732
+- 1Cr_24:3y D...los repartió por sus turnos en elH1732
+- 1Cr_24:31echaron suertes...delante del rey D, yH1732
+- 1Cr_25:1D y...apartaron para el ministerio a losH1732
+- 1Cr_26:26cosas...que había consagrado el rey DH1732
+- 1Cr_26:31en el año cuarenta del reinado de D seH1732
+- 1Cr_26:32los cuales el rey D constituyó sobreH1732
+- 1Cr_27:18de Judá, Eliú, uno de los hermanos de DH1732
+- 1Cr_27:23no tomó D el número de los que eran deH1732
+- 1Cr_27:24puesto en...de las crónicas del rey DH1732
+- 1Cr_27:31eran administradores de la...del rey DH1732
+- 1Cr_27:32Jonatán tío de D era consejero, varónH1732
+- 1Cr_28:1reunió D en...los principales de IsraelH1732
+- 1Cr_28:2y levantándose el rey D...dijo: OídmeH1732
+- 1Cr_28:11D dio a Salomón su hijo el plano delH1732
+- 1Cr_28:19estas cosas, dijo D, me fueron trazadas
+- 1Cr_28:20dijo además D a Salomón su...Anímate yH1732
+- 1Cr_29:1el rey D a toda la asamblea: SolamenteH1732
+- 1Cr_29:10se alegró mucho el rey D, y bendijo aH1732
+- 1Cr_29:10y dijo D: Bendito seas tú, oh JehováH1732
+- 1Cr_29:20dijo D a toda...Bendecid ahora a JehováH1732
+- 1Cr_29:22la investidura del reino a...hijo de DH1732
+- 1Cr_29:23se sentó Salomón por rey...en lugar de DH1732
+- 1Cr_29:24los hijos del rey D...al rey SalomónH1732
+- 1Cr_29:26así reinó D hijo de...sobre todo IsraelH1732
+- 1Cr_29:29hechos del rey D, primeros y postrerosH1732
+- 2Cr_1:1Salomón hijo de D fue afirmado en suH1732
+- 2Cr_1:4pero D había traído el arca de Dios deH1732
+- 2Cr_1:8tú has tenido con D...gran misericordiaH1732
+- 2Cr_1:9confírmese...tu palabra dada a D mi padreH1732
+- 2Cr_2:3haz conmigo como hiciste con D mi padreH1732
+- 2Cr_2:12que dio al rey D un hijo sabio, entendidoH1732
+- 2Cr_2:14sabe trabajar...y con los de mi señor DH1732
+- 2Cr_2:17después de haberlos ya contado D su padreH1732
+- 2Cr_3:1en el monte...que había sido mostrado a DH1732
+- 2Cr_3:1en el lugar que D había preparado en laH1732
+- 2Cr_5:1las cosas que D su padre había dedicadoH1732
+- 2Cr_5:2que trajesen el arca...de la ciudad de DH1732
+- 2Cr_6:4que prometió con su boca a D mi padreH1732
+- 2Cr_6:6a D he elegido para que esté sobre miH1732
+- 2Cr_6:7D...tuvo en su corazón edificar casa alH1732
+- 2Cr_6:8Jehová dijo a D...Respecto a haber tenidoH1732
+- 2Cr_6:10me levanté yo en lugar de D mi padreH1732
+- 2Cr_6:15has guardado a tu siervo D mi padre loH1732
+- 2Cr_6:16cumple a tu...D...lo que le has prometidoH1732
+- 2Cr_6:17cúmplase tu palabra que dijiste a tu...DH1732
+- 2Cr_6:42acuérdate de tus...para con D tu siervoH1732
+- 2Cr_7:6instrumentos de...que había hecho el rey DH1732
+- 2Cr_7:6cuando D alababa por medio de ellosH1732
+- 2Cr_7:10beneficios que Jehová había hecho a DH1732
+- 2Cr_7:17tú anduvieres...como anduvo D tu padreH1732
+- 2Cr_7:18de tu reino, como pacté con D tu padreH1732
+- 2Cr_8:11pasó...de la ciudad de D a la casa queH1732
+- 2Cr_8:11mi mujer no morará en la casa de D reyH1732
+- 2Cr_8:14conforme a lo ordenado por D su padreH1732
+- 2Cr_8:14así lo había mandado D, varón de DiosH1732
+- 2Cr_9:31sepultaron en la ciudad de D su padreH1732
+- 2Cr_10:16¿qué parte tenemos nosotros con D?[[H1732]]
+- 2Cr_10:16¡Israel...¡D, mira ahora por tu casa![[H1732]]
+- 2Cr_10:19así se apartó Israel de la casa de DH1732
+- 2Cr_11:17tres años anduvieron en el camino de DH1732
+- 2Cr_11:18de Jerimot, hijo de D y de Abihail hijaH1732
+- 2Cr_12:16Roboam...fue sepultado en la ciudad de DH1732
+- 2Cr_13:5Jehová dio el reino a D sobre IsraelH1732
+- 2Cr_13:6Jeroboam...siervo de Salomón hijo de DH1732
+- 2Cr_13:8al reino de...en mano de los hijos de DH1732
+- 2Cr_14:1Abías...fue sepultado en la ciudad de DH1732
+- 2Cr_16:14y lo sepultaron en...en la ciudad de DH1732
+- 2Cr_17:3anduvo en los primeros caminos de D suH1732
+- 2Cr_21:1lo sepultaron con sus...en la ciudad de DH1732
+- 2Cr_21:7Jehová...no quiso destruir la casa de DH1732
+- 2Cr_21:7a causa del pacto que había hecho con DH1732
+- 2Cr_21:12Jehová el Dios de D tu padre ha dichoH1732
+- 2Cr_21:20lo sepultaron en la ciudad de D, peroH1732
+- 2Cr_23:3como...ha dicho respecto a los hijos de DH1732
+- 2Cr_23:9los escudos que habían sido del rey DH1732
+- 2Cr_23:18D los había distribuido en la casa deH1732
+- 2Cr_23:18cánticos conforme a la disposición de DH1732
+- 2Cr_24:16, 2Cr_24:25y lo sepultaron en la ciudad de DH1732
+- 2Cr_27:9Jotam...lo sepultaron en la ciudad de DH1732
+- 2Cr_28:1Acaz...no hizo lo recto...como D su padreH1732
+- 2Cr_29:2las cosas que había hecho D su padreH1732
+- 2Cr_29:25conforme al mandamiento de D, de GadH1732
+- 2Cr_29:26los levitas...con los instrumentos de DH1732
+- 2Cr_29:27y los instrumentos de D rey de IsraelH1732
+- 2Cr_29:30alabasen...con las palabras de D y deH1732
+- 2Cr_30:26desde los días de Salomón hijo de DH1732
+- 2Cr_32:5fortificó...a Milo en la ciudad de DH1732
+- 2Cr_32:30el agua hacia el occidente de la...de DH1732
+- 2Cr_32:33en...los sepulcros de los hijos de DH1732
+- 2Cr_33:7cual había dicho Dios a D y a SalomónH1732
+- 2Cr_33:14edificó el muro...de la ciudad de D, alH1732
+- 2Cr_34:2y anduvo en los caminos de D su padreH1732
+- 2Cr_34:3comenzó a buscar al Dios de D su padreH1732
+- 2Cr_35:3en la casa que edificó Salomón hijo de DH1732
+- 2Cr_35:4ordenaron D rey de Israel y Salomón suH1732
+- 2Cr_35:15conforme al mandamiento de D, de AsafH1732
+- Esd_3:10según la ordenanza de D rey de IsraelH1732
+- Esd_8:2hijos de Itamar...los hijos de D, HatúsH1732
+- Esd_8:20a quienes D con los príncipes puso paraH1732
+- Neh_3:15gradas...descienden de la ciudad de DH1732
+- Neh_3:16delante de los sepulcros de D, y hastaH1732
+- Neh_12:24conforme al estatuto de D varón de DiosH1732
+- Neh_12:36los instrumentos...de D varón de DiosH1732
+- Neh_12:37subieron...las gradas de la ciudad de DH1732
+- Neh_12:37desde la casa de D hasta la puerta deH1732
+- Neh_12:45al estatuto de D y de Salomón su hijoH1732
+- Neh_12:46porque desde el tiempo de D y de AsafH1732
+- Sal 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 51, 61, 62, 63, 64, 68, 69, 70, 101, 103, 108, 109, 110, 138, 139, 140, 141, 143, 144tits. Salmo de DH1732
+- Sal 7 tít.Sigaión de D, que cantó a JehováH1732
+- Sal 16, 56, 57, 58, 59, 60 títs.Mictam de DH1732
+- Sal 17, 86 títs.Oración de DH1732
+- Sal_18:50a D y a su descendencia, para siempreH1732
+- Sal 52, 53, 54, 55, 142 títs.Masquil de DH1732
+- Sal 52 tít.diciéndole: D ha venido a casa deH1732
+- Sal 54 tít.dijeron a Saúl ¿No está D escondidoH1732
+- Sal 65 tít.al músico principal...Cántico de DH1732
+- Sal_72:20aquí terminan las oraciones de D, hijoH1732
+- Sal_78:70eligió a D su siervo, y lo tomó de lasH1732
+- Sal_89:3hice pacto con mi escogido; juré a D miH1732
+- Sal_89:20hallé a D mi siervo; lo ungí con miH1732
+- Sal_89:35una vez he jurado por...y no mentiré a DH1732
+- Sal_89:49misericordias, que juraste a D por tuH1732
+- Sal 122, 124, 131, 133 títs.Cántico gradual; de DH1732
+- Sal_122:5allá están...los tronos de la casa de DH1732
+- Sal_132:1acuérdate...de D, y de toda su aflicciónH1732
+- Sal_132:10por amor de D tu siervo no vuelvas deH1732
+- Sal_132:11en verdad juró Jehová a D, y no seH1732
+- Sal_132:17allí haré retoñar el poder de D; heH1732
+- Sal_144:10el que rescata de maligna espada a DH1732
+- Sal 145 tít.Salmo de alabanza; de DH1732
+- Pro_1:1los proverbios de Salomón, hijo de DH1732
+- Ecl_1:1palabras del Predicador, hijo de D, reyH1732
+- Cnt_4:4cuello, como la torre de D, edificadaH1732
+- Isa_7:2vino la nueva a la casa de D, diciendoH1732
+- Isa_7:13dijo...Isaías: Oíd ahora, casa de D...¿OsH1732
+- Isa_9:7sobre el trono de D y sobre su reinoH1732
+- Isa_16:5él se sentará...en el tabernáculo de DH1732
+- Isa_22:9visteis las brechas de la ciudad de DH1732
+- Isa_22:22pondré la llave de la casa de D sobreH1732
+- Isa_29:1¡ay de Ariel...ciudad donde habitó D![[H1732]]
+- Isa_37:35mí mismo, y por amor de D mi siervoH1732
+- Isa_38:5Jehová Dios de D tu padre dice así: HeH1732
+- Isa_55:3pacto...las misericordias firmes a DH1732
+- Jer_13:13a los reyes de la estirpe de D queH1732
+- Jer_17:25los...que se sientan sobre el trono de DH1732
+- Jer_21:12casa de D, así dijo Jehová: Haced deH1732
+- Jer_22:2que estás sentado sobre el trono de DH1732
+- Jer_22:4los reyes que en lugar de D se sientanH1732
+- Jer_22:30logrará sentarse sobre el trono de DH1732
+- Jer_23:5levantaré a D renuevo justo, y reinaráH1732
+- Jer_29:16que está sentado sobre el trono de DH1732
+- Jer_30:9servirán a Jehová su Dios y a D su reyH1732
+- Jer_33:15haré brotar a D un Renuevo de justiciaH1732
+- Jer_33:17no faltará a D varón que se siente sobreH1732
+- Jer_33:21invalidarse mi pacto con mi siervo DH1732
+- Jer_33:22así multiplicaré la descendencia de DH1732
+- Jer_33:26desecharé la descendencia de Jacob...DH1732
+- Jer_36:30no...quien se siente sobre el trono de DH1732
+- Eze_34:23mi siervo D, él las apacentará, y élH1732
+- Eze_34:24mi siervo D príncipe en medio de ellosH1732
+- Eze_37:24mi siervo D seré rey sobre ellos, yH1732
+- Eze_37:25y mi siervo D será príncipe de ellosH1732
+- Ose_3:5buscarán a Jehová su Dios, y a D su reyH1732
+- Amó_6:5inventan instrumentos musicales, como DH1732
+- Amó_9:11yo levantaré el tabernáculo caído de DH1732
+- Zac_12:7que la gloria de la casa de D y delH1732
+- Zac_12:8débil en aquel tiempo será como D, y laH1732
+- Zac_12:8y la casa de D como Dios, como el ángelH1732
+- Zac_12:10derramaré sobre la casa de D, y sobreH1732
+- Zac_12:12los descendientes de la casa de D por síH1732
+- Zac_13:1un manantial abierto para la casa de D yH1732
+- Mat_1:1la genealogía de Jesucristo, hijo de DG1138
+- Mat_1:6Isaí engendró al rey D, y...D engendró aG1138
+- Mat_1:17las generaciones desde Abraham hasta DG1138
+- Mat_1:17desde D hasta la deportación a...catorceG1138
+- Mat_1:20hijo de D, no temas recibir a María tuG1138
+- Mat_9:27ten misericordia de nosotros, Hijo de D![[G1138]]
+- Mat_12:3dijo: ¿No habéis leído lo que hizo DG1138
+- Mat_12:23y decía: ¿Será este aquel Hijo de D?[[G1138]]
+- Mat_15:22; Mat_20:30-31Hijo de D, ten misericordiaG1138
+- Mat_21:9, Mat_21:15diciendo: ¡Hosanna al Hijo de D![[G1138]]
+- Mat_22:42¿de quién es hijo? Le dijeron: De DG1138
+- Mat_22:43cómo D en el Espíritu le llama Señor?[[G1138]]
+- Mat_22:45si D le llama Señor, ¿cómo es su hijo?[[G1138]]
+- Mar_2:25¿nunca leisteis lo que hizo D cuandoG1138
+- Mar_10:47-48¡Hijo de D, ten misericordia de mí![[G1138]]
+- Mar_11:10¡bendito el reino de nuestro padre DG1138
+- Mar_12:35¿cómo dicen...el Cristo es hijo de D?[[G1138]]
+- Mar_12:36el mismo D dijo por el Espíritu SantoG1138
+- Mar_12:37D mismo le llama Señor; ¿cómo, pues, esG1138
+- Luc_1:27varón...llamaba José, de la casa de DG1138
+- Luc_1:32Dios le dará el trono de D su padreG1138
+- Luc_1:69un poderoso Salvador en la casa de DG1138
+- Luc_2:4José subió de Galilea...a la ciudad de DG1138
+- Luc_2:4por cuanto era de la casa y familia de DG1138
+- Luc_2:11que os ha nacido hoy, en la ciudad de DG1138
+- Luc_3:32hijo de D, hijo de Isaí, hijo de ObedG1138
+- Luc_6:3lo que hizo D cuando tuvo hambre él, yG1138
+- Luc_18:38-39Hijo de D, ten misericordia de mí![[G1138]]
+- Luc_20:41cómo dicen que el Cristo es hijo de D?[[G1138]]
+- Luc_20:42pues el mismo D dice en el libro de losG1138
+- Luc_20:44D...le llama Señor; ¿cómo...es su hijo?[[G1138]]
+- Jua_7:42linaje de D...ha de venir el Cristo?[[G1138]]
+- Jua_7:42de Belén, de donde era D, ha de venirG1138
+- Hec_1:16Espíritu...habló antes por boca de DG1138
+- Hec_2:25D dice de él: Veía al Señor siempreG1138
+- Hec_2:29decir...del patriarca D, que murió y fueG1138
+- Hec_2:34porque D no subió a los cielos; pero élG1138
+- Hec_4:25por boca de D tu siervo dijiste: ¿Por quéG1138
+- Hec_7:45Dios arrojó de la...hasta los días de DG1138
+- Hec_13:22les levantó por rey a D, de quien dioG1138
+- Hec_13:22diciendo: He hallado a D hijo de IsaíG1138
+- Hec_13:34os daré las misericordias fieles de DG1138
+- Hec_13:36a la verdad D, habiendo servido a suG1138
+- Hec_15:16el tabernáculo de D, que está caídoG1138
+- Rom_1:3que era del linaje de D según la carneG1138
+- Rom_4:6D habla de la bienaventuranza del hombreG1138
+- Rom_11:9y D dice: Sea vuelto su convite en...redG1138
+- 2Ti_2:8del linaje de D, resucitado de losG1138
+- Heb_4:7diciendo...por medio de D...Si oyereis hoyG1138
+- Heb_11:32el tiempo me faltaría cantando de...DG1138
+- Rev_3:7esto dice...el que tiene la llave de DG1138
+- Rev_5:5el León de la...la raíz de D, ha vencidoG1138
+- Rev_22:16la raíz y el linaje de D, la estrellaG1138

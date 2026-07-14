@@ -1,0 +1,90 @@
+---
+tipo: concordancia
+palabra: FIEL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FIEL
+
+- Núm_12:7no así a mi siervo Moisés, que es f enH539
+- Deu_7:9que Jehová tu Dios es Dios, Dios f, queH539
+- 1Sa_2:35yo me suscitaré un sacerdote f, queH539
+- 1Sa_3:20conoció...Samuel era f profeta de JehováH539
+- 1Sa_22:14¿y quién...es tan f como David, yernoH539
+- 2Sa_20:19soy de las pacíficas y f de IsraelH539
+- 1Cr_12:29se mantenían f a la casa de SaúlH4931
+- Neh_9:8hallaste f su corazón delante de tiH539
+- Neh_13:13eran tenidos por f, y ellos tenían queH539
+- Sal_12:1han desaparecido los f de entre losH539
+- Sal_19:7el testimonio de Jehová es f, que haceH539
+- Sal_31:23a los f guarda Jehová...abundantementeH539
+- Sal_78:8no...ni fue f para con Dios su espírituH539
+- Sal_89:37firme...como un testigo f en el cieloH539
+- Sal_101:6mis ojos pondré en los f de la tierraH539
+- Sal_111:7Juicio; f son todos sus mandamientosH539
+- Sal_119:138tus testimonios...son rectos y muy fH539
+- Pro_11:13mas el de espíritu f lo guarda todoH539
+- Pro_13:17mal...mas el mensajero f acarrea saludH529
+- Pro_25:13es el mensajero f a los que lo envíanH539
+- Pro_27:6f son las heridas del que ama; peroH539
+- Isa_1:21has convertido en ramera, oh ciudad f?[[H539]]
+- Isa_1:26llamarán Ciudad de justicia, Ciudad fH539
+- Isa_8:2junté conmigo por testigos f al...UríasH539
+- Isa_49:7porque f es el Santo de Israel, el cualH539
+- Dan_2:45Dios ha...y el sueño es verdadero, y fH540
+- Dan_6:4él era f, y ningún vicio...hallado en élH540
+- Ose_11:12aún gobierna...y es f con los santosH539
+- Mat_24:45¿quién es...el siervo f y prudente, alG4103
+- Mat_25:21, Mat_25:23le dijo: Bien, buen siervo y fG4103
+- Mat_25:21, Mat_25:23has sido f, sobre mucho te pondréG4103
+- Luc_12:42¿quién es el mayordomo f y prudenteG4103
+- Luc_16:10que es f en lo muy poco...en lo más es fG4103
+- Luc_16:11en las riquezas injustas no fuisteis fG4103
+- Luc_16:12si en lo ajeno no fuisteis f, ¿quién osG4103
+- Luc_19:17cuanto en lo poco has sido f, tendrásG4103
+- Hec_10:45los f de la circuncisión que habíanG4103
+- Hec_11:23exhortó a que...permaneciesen f al SeñorG4357
+- Hec_13:34os daré las misericordias f de DavidG4103
+- Hec_16:15habéis juzgado que yo sea f al SeñorG4103
+- 1Co_1:9f es Dios, por el cual fuisteisG4103
+- 1Co_4:2se requiere...que cada uno sea hallado fG4103
+- 1Co_4:17a Timoteo, que es mi hijo amado y f enG4103
+- 1Co_7:25ha alcanzado misericordia...para ser fG4103
+- 1Co_10:13pero f es Dios, que no os dejará serG4103
+- 2Co_1:18como Dios es f, nuestra palabra aG4103
+- Efe_1:1a los santos y f en Cristo Jesús queG4103
+- Efe_6:21Tíquico, hermano amado y f ministro enG4103
+- Flp_4:3te ruego...compañero f, que ayudes aG1103
+- Col_1:2a los santos y f hermanos en CristoG4103
+- Col_1:7Epafras...que es un f ministro de CristoG4103
+- Col_4:7os lo hará saber Tíquico...f ministro yG4103
+- Col_4:9con Onésimo, amado y f hermano, que esG4103
+- 1Ts_5:24f es el que os llama, el cual...haráG4103
+- 2Ts_3:3pero f es el Señor, que os afirmaráG4103
+- 1Ti_1:12porque me tuvo por f, poniéndome enG4103
+- 1Ti_1:15palabra f y digna de ser recibida porG4103
+- 1Ti_3:1palabra f: Si alguno anhela obispadoG4103
+- 1Ti_3:11las mujeres asimismo...sobrias, f en todoG4103
+- 1Ti_4:9palabra f es...y digna de ser recibida porG4103
+- 2Ti_2:2lo que has oído...encarga a hombres fG4103
+- 2Ti_2:11palabra f es esta: Si somos muertos conG4103
+- 2Ti_2:13si fuéremos infieles, él permanece fG4103
+- Tit_1:9retenedor de la palabra f tal como haG4103
+- Tit_2:10no defraudando, sino mostrándose f enG4102
+- Tit_3:8palabra f es esta, y en estas cosasG4103
+- Heb_2:17ser misericordioso y f sumo sacerdoteG4103
+- Heb_3:2el cual es f al que le constituyó, comoG4103
+- Heb_3:5Moisés...fue f en toda la casa de DiosG4103
+- Heb_10:23firme, sin...porque f es el que prometióG4103
+- Heb_11:11porque creyó que era f quien lo habíaG4103
+- 1Pe_4:19encomienden sus almas al f CreadorG4103
+- 1Pe_5:12Silvano, a quien tengo por hermano fG4103
+- 1Jn_1:9es f y justo para perdonar nuestrosG4103
+- Rev_1:5el testigo f, el primogénito de losG4103
+- Rev_2:10sé f hasta la muerte, y yo te daré laG4103
+- Rev_2:13en que Antipas mi testigo f fue muertoG4103
+- Rev_3:14aquí el Amén, el testigo f y verdaderoG4103
+- Rev_17:14los que están con él son llamados y...fG4103
+- Rev_19:11que lo montaba se llamaba F y VerdaderoG4103
+- Rev_21:5; Rev_22:6estas palabras son f y verdaderasG4103

@@ -1,0 +1,83 @@
+---
+tipo: concordancia
+palabra: PROVINCIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PROVINCIA
+
+- Jos_12:23el rey de Dor, de la p de Dor, otroH5299
+- Jos_17:11Manasés en Isacar y en Aser a...tres pH5316
+- 1Re_4:13tenía también la p de Argob...BasánH2256
+- 1Re_20:14, 1Re_20:17siervos de los príncipes de las pH4082
+- 1Re_20:15pasó revista a los siervos...de las pH4082
+- 1Re_20:17los siervos de los príncipes de las pH4082
+- 1Re_20:19salieron...los siervos de los...de las pH4082
+- 2Re_23:33puso preso Faraón...en la p de HamatH776
+- 1Cr_8:8y Saharaim engendró...en la p de Moab
+- Esd_2:1son los hijos de la p que subieron delH4082
+- Esd_4:10hizo habitar...las demás p del otro lado
+- Esd_4:15ciudad rebelde, y perjudicial...a las pH4083
+- Esd_5:8que fuimos a la p de Judea, a la casa del
+- Esd_6:2en el palacio que está en la p de MediaH4082
+- Esd_7:16plata y el oro que halles en toda la pH4082
+- Neh_1:3en la p, están en gran mal y afrentaH4082
+- Neh_3:14gobernador de la p de Bet-haquerem; élH6418
+- Neh_7:6estos son los hijos de la p que subieronH4082
+- Neh_11:3jefes de la p que moraron en JerusalénH4082
+- Est_1:1Asuero que reinó desde...sobre 127 pH4082
+- Est_1:3teniendo delante de él a...príncipes de pH4082
+- Est_1:16pueblos que hay en todas las p del reyH4082
+- Est_1:22cartas a todas las p del rey...a cada pH4082
+- Est_2:3ponga el rey personas en todas las p deH4082
+- Est_2:18y disminuyó tributos a las p, e hizo yH4082
+- Est_3:8hay un pueblo esparcido...p de tu reinoH4082
+- Est_3:12los capitanes que estaban sobre cada pH4082
+- Est_3:12a cada p según su escritura, y a cadaH4082
+- Est_3:13enviadas cartas...a todas las p del reyH4082
+- Est_3:14que se dio por mandamiento en cada pH4082
+- Est_4:3en cada p...donde el mandamiento del reyH4082
+- Est_4:11el pueblo de las p del rey, saben queH4082
+- Est_8:5destruir a los judíos que están en...las pH4082
+- Est_8:9se escribió...a...los príncipes de las pH4082
+- Est_8:9se escribió...a...127 p; a cada p según suH4082
+- Est_8:11y acabar con toda fuerza armada del pueblo o pH4082
+- Est_8:12en todas las p del rey Asuero, en el díaH4082
+- Est_8:13que había de darse por decreto en cada pH4082
+- Est_8:17en cada p y en cada ciudad donde llegóH4082
+- Est_9:2los judíos se reunieron...las p del reyH4082
+- Est_9:3los príncipes de las p...apoyaban a losH4082
+- Est_9:4Mardoqueo...su fama iba por todas las pH4082
+- Est_9:12qué habrán hecho en las otras p del rey?[[H4082]]
+- Est_9:16los otros judíos que estaban en las pH4082
+- Est_9:20cartas a...judíos que estaban en...las pH4082
+- Est_9:28celebrados por todas las...p y ciudadesH4082
+- Est_9:30enviadas cartas a...a las 127 p del reyH4082
+- Sal_48:2hermosa p, el gozo de toda la tierraH5131
+- Ecl_2:8me amontoné...tesoros...de reyes y de pH4082
+- Ecl_5:8si opresión de pobres y...vieres en la pH4082
+- Lam_1:1la señora de p ha sido hecha tributariaH4082
+- Eze_19:8arremetieron...las gentes de las p deH4082
+- Dan_2:48gobernador de toda la p de BabiloniaH4083
+- Dan_2:49que pusiera sobre los negocios de la pH4083
+- Dan_3:1la levantó en...Dura, en la p de BabiloniaH4083
+- Dan_3:2se reuniesen...los gobernadores de las pH4082
+- Dan_3:3reunidos...los gobernadores de las p, aH4082
+- Dan_3:12pusiste sobre los negocios de la p deH4083
+- Dan_3:30el rey engrandeció a Sadrac...en la p deH4082
+- Dan_8:2Susa...capital del reino en la p de ElamH4083
+- Dan_11:24estando la p en paz y en abundanciaH4082
+- Dan_11:41y muchas p caerán; mas éstas escaparán
+- Mat_3:5salía a él...toda la p de alrededor delG4066
+- Mar_1:5salían a él toda la p de Judea, y todosG5561
+- Mar_1:28difundió su fama por toda la p...GalileaG4066
+- Luc_3:1Felipe tetrarca...de la p de TraconiteG5561
+- Luc_15:13se fue lejos a una p apartada; y allíG5561
+- Luc_15:14vino una gran hambre en aquella p, yG5561
+- Hec_13:49la palabra...se difundía por toda...pG5561
+- Hec_16:6y atravesando Frigia y la p de GalaciaG5561
+- Hec_16:12Filipos...es la primera ciudad de la pG3310
+- Hec_23:34leída la carta, preguntó de qué p eraG1885
+- Hec_25:1llegado, pues, Festo a la p, subió deG1885
+- 2Co_11:32en Damasco, el gobernador de la p

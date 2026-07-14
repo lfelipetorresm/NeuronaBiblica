@@ -1,0 +1,382 @@
+---
+tipo: concordancia
+palabra: ESCRIBIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESCRIBIR
+
+- Éxo_17:14escribe esto para memoria en un libroH3789
+- Éxo_24:4Moisés escribió todas las palabras deH3789
+- Éxo_24:12y te daré...mandamientos que he escritoH3789
+- Éxo_31:18tablas...escritas con el dedo de DiosH3789
+- Éxo_32:15las tablas escritas por ambos lados; deH3789
+- Éxo_32:15de uno y otro lado estaban escritasH3789
+- Éxo_32:32si no, ráeme...tu libro que has escritoH3789
+- Éxo_34:1escribiré sobre esas tablas las palabrasH3789
+- Éxo_34:27dijo a Moisés: Escribe tú estas palabrasH3789
+- Éxo_34:28y escribió en tablas las palabras delH3789
+- Éxo_39:30escribieron en...como grabado de selloH3789
+- Núm_5:23escribirá estas maldiciones en un libroH3789
+- Núm_17:2escribirás el nombre de...sobre su varaH3789
+- Núm_17:3escribirás el nombre de Aarón sobre laH3789
+- Núm_33:2Moisés escribió sus salidas conforme aH3789
+- Deu_4:13; Deu_5:22escribió en dos tablas de piedraH3789
+- Deu_6:9las escribirás en los postes de tu casaH3789
+- Deu_9:10tablas de...escritas con el dedo de DiosH3789
+- Deu_9:10y en ellas estaba escrito...las palabras
+- Deu_10:2y escribiré en...tablas las palabras queH3789
+- Deu_10:4y escribió en las tablas conforme a laH3789
+- Deu_11:20las escribirás en los postes de tu casaH3789
+- Deu_17:18escribirá...una copia de esta ley, delH3789
+- Deu_24:1le escribirá carta de divorcio, y se laH3789
+- Deu_24:3le escribiere carta de divorcio, y se laH3789
+- Deu_27:3, Deu_27:8escribirás...las palabras de esta leyH3789
+- Deu_28:58las palabras...escritas en este libroH3789
+- Deu_28:61toda plaga que no está escrita en elH3789
+- Deu_29:20sobre él toda maldición escrita en esteH3789
+- Deu_29:21maldiciones del pacto escrito en esteH3789
+- Deu_29:27las maldiciones escritas en este libroH3789
+- Deu_30:10sus estatutos escritos en este libroH3789
+- Deu_31:9y escribió Moisés esta ley, y la dio aH3789
+- Deu_31:19escribíos este cántico, y enséñalo aH3789
+- Deu_31:22Moisés escribió este cántico aquel díaH3789
+- Deu_31:24acabó Moisés de escribir las palabrasH3789
+- Jos_1:8hagas...todo lo que en él está escritoH3789
+- Jos_8:31como está escrito en el libro de la leyH3789
+- Jos_8:32escribió...una copia de la ley de MoisésH3789
+- Jos_8:32escribió delante de los hijos de IsraelH3789
+- Jos_8:34leyó...lo que está escrito en el libro deH3789
+- Jos_10:13está escrito esto en el libro de Jaser?[[H3789]]
+- Jos_23:6todo lo que está escrito en...de la leyH3789
+- Jos_24:26y escribió Josué estas palabras en elH3789
+- 1Sa_10:25las leyes...las escribió en un libroH3789
+- 1Sa_21:13escribía en las portadas de las puertasH8427
+- 2Sa_1:18que está escrito en el libro de JaserH3789
+- 2Sa_11:14escribió David a Joab una carta...envióH3789
+- 2Sa_11:15escribió...diciendo: Poned a Urías alH3789
+- 1Re_2:3la manera que está escrito en la leyH3789
+- 1Re_11:41está escrito en el libro de los hechosH3789
+- 1Re_14:19escrito en el libro de las historias deH3789
+- 1Re_14:29escrito en las crónicas de los reyes deH3789
+- 1Re_15:7, 1Re_15:23, 1Re_15:31; 1Re_16:5, 1Re_16:14, 1Re_16:20, 1Re_16:27; 1Re_22:39, 1Re_22:45; 2Re 1:18; 8:23; 10:34; 12:19; 13:8,12; 14:15,18,28; 15:6,11,15,21,26,31,36; 16:19; 20:20; 21:17,25; 23:28; 24:5; 1Cr_29:29escrito en el libro de las crónicasH3789
+- 1Re_21:8escribió cartas en nombre de AcabH3789
+- 1Re_21:9y las cartas que escribió decían asíH3789
+- 1Re_21:11conforme a lo escrito en las cartas queH3789
+- 2Re_10:1y Jehú escribió cartas y las envió aH3789
+- 2Re_10:6les escribió la segunda vez, diciendoH3789
+- 2Re_14:6conforme...escrito en el libro de la leyH3789
+- 2Re_22:13conforme a todo lo que nos fue escritoH3789
+- 2Re_23:3las palabras...escritas en aquel libroH3789
+- 2Re_23:21conforme a lo que está escrito en elH3789
+- 2Re_23:24palabras...escritas en el libro que elH3789
+- 1Cr_4:41han sido escritos por sus nombresH3789
+- 1Cr_9:1; 2Cr_16:11; 2Cr_25:26; 2Cr_27:7; 2Cr_28:26; 2Cr_35:27; 2Cr_36:8escritos en el libro de los reyes deH3789
+- 1Cr_16:40conforme a todo lo que está escritoH3789
+- 1Cr_24:6escriba Semaías...escribió sus nombresH3789
+- 2Cr_9:29escritos en los libros del profetaH3789
+- 2Cr_12:15están escritas en los libros del profetaH3789
+- 2Cr_13:22están escritos en la historia de IddoH3789
+- 2Cr_20:34escritos en las palabras de Jehú hijoH3789
+- 2Cr_23:18como está escrito en la ley de MoisésH3789
+- 2Cr_24:27escrito en la historia del libro de losH3789
+- 2Cr_25:4según lo que está escrito en la ley, enH3789
+- 2Cr_26:22demás hechos de Uzías...fueron escritosH3789
+- 2Cr_30:1Ezequías...escribió cartas a Efraín y aH3789
+- 2Cr_30:5no...celebrado al modo que está escritoH3789
+- 2Cr_30:18la pascua no conforme a lo...escritoH3789
+- 2Cr_31:3como está escrito en la ley de JehováH3789
+- 2Cr_32:17escribió cartas en que blasfemaba contraH3789
+- 2Cr_32:32están escritos en la profecía...IsaíasH3789
+- 2Cr_33:18escrito en las actas de los reyes de
+- 2Cr_33:19escritas en las palabras de...videntesH3789
+- 2Cr_34:21conforme a todo lo que está escrito enH3789
+- 2Cr_34:24las maldiciones...escritas en el libroH3789
+- 2Cr_34:31las palabras...escritas en aquel libroH3789
+- 2Cr_35:12según...escrito en el libro de MoisésH3789
+- 2Cr_35:25están escritas en el libro de LamentosH3789
+- 2Cr_35:26conforme a lo que está escrito en laH3789
+- Esd_3:2como está escrito en la ley de MoisésH3789
+- Esd_3:4celebraron...la fiesta...como está escritoH3789
+- Esd_4:6escribieron...contra los habitantes deH3789
+- Esd_4:7en días de Artajerjes escribieron BislamH3789
+- Esd_4:8escribieron una carta contra JerusalénH3790
+- Esd_4:9escribieron Rehum canciller y Simsai
+- Esd_5:7así estaba escrito en ella: Al rey DaríoH3690
+- Esd_5:10escribirte los nombres de los hombresH3790
+- Esd_6:2en el cual estaba escrito así: MemoriaH3690
+- Esd_6:18conforme a lo escrito en el...de MoisésH3792
+- Neh_6:6en la cual estaba escrito: Se ha oídoH3789
+- Neh_7:5hallé el libro...y encontré en él escritoH3789
+- Neh_8:14y hallaron escrito en la ley que JehováH3789
+- Neh_8:15hacer tabernáculos, como está escritoH3789
+- Neh_9:38hacemos fiel promesa, y la escribimosH3789
+- Neh_10:34la ofrenda...como está escrito en la leyH3789
+- Neh_10:36ganados, como está escrito en la leyH3789
+- Neh_13:1hallado escrito en él que los amonitasH3789
+- Est_1:19se escriba entre las leyes de PersiaH3789
+- Est_2:23fue escrito el caso en el libro de lasH3789
+- Est_3:12fue escrito conforme a todo lo que mandóH3789
+- Est_3:12en nombre del rey Asuero fue escritoH3789
+- Est_6:2entonces hallaron escrito que MardoqueoH3789
+- Est_8:5dé orden escrita para revocar las cartasH3789
+- Est_8:5que escribió para destruir a los judíosH3789
+- Est_8:8escribid, pues, vosotros a los judíosH3789
+- Est_8:8edicto que se escribe en nombre del reyH3789
+- Est_8:9se escribió...todo lo que mandó MardoqueoH3789
+- Est_8:10y escribió en nombre del rey Asuero, yH3789
+- Est_9:20escribió Mardoqueo estas cosas, y envióH3789
+- Est_9:23hacer...lo que les escribió MardoqueoH3789
+- Est_9:27días según está escrito tocante a ellosH3791
+- Est_10:2escrito en el libro de las crónicas deH3789
+- Job_13:26escribes contra mí amarguras, y meH3789
+- Job_19:23diese...mis palabras fuesen escritas![[H3789]]
+- Job_19:23¡quién diese que se escribiesen en unH2710
+- Sal_40:7en el rollo del libro está escritoH3789
+- Sal_69:28y no sean escritos entre los justosH3789
+- Sal_102:18se escribirá esto para la generaciónH3789
+- Sal_139:16y en tu libro estaban escritas todasH3789
+- Pro_3:3escríbelas en la tabla de tu corazónH3789
+- Pro_7:3escríbelos en la tabla de tu corazónH3789
+- Pro_22:20¿no te he escrito 3 veces en consejosH3789
+- Ecl_12:10hallar palabras...escribir rectamenteH3789
+- Isa_8:1escribe en ella con caracteres legiblesH3789
+- Isa_30:8vé...y escribe esta visión en una tablaH3789
+- Isa_44:5otro escribirá con su mano: A Jehová, yH3789
+- Isa_65:6he aquí que escrito está delante de míH3789
+- Jer_17:1el pecado de Judá escrito está conH3789
+- Jer_17:13los que se apartan...serán escritos enH3789
+- Jer_22:30escribid lo que sucederá a este hombreH3789
+- Jer_25:13todo lo que está escrito en este libroH3789
+- Jer_30:2escríbete en un libro todas las palabrasH3789
+- Jer_31:33mi ley...y la escribiré en su corazónH3789
+- Jer_32:10escribí la carta y la sellé, y la hiceH3789
+- Jer_36:2escribe...todas las palabras que te heH3789
+- Jer_36:4escribió Baruc de boca de Jeremías, enH3789
+- Jer_36:6lee de este rollo que escribiste de miH3789
+- Jer_36:17cómo escribiste de boca de JeremíasH3789
+- Jer_36:18él me dictaba...yo escribía con tintaH3789
+- Jer_36:27las palabras que Baruc había escritoH3789
+- Jer_36:28escribe en él...las palabras primerasH3789
+- Jer_36:29¿por qué escribiste en él, diciendoH3789
+- Jer_36:32y escribió en él de boca de JeremíasH3789
+- Jer_45:1escribía en el libro estas palabras deH3789
+- Jer_51:60escribió, pues, Jeremías en un libroH3789
+- Jer_51:60todas las palabras que están escritasH3789
+- Eze_2:10estaba escrito...escritas en él...ayesH3789
+- Eze_24:2escribe la fecha de este día; el rey deH3789
+- Eze_37:16escribe en él: Para Judá...e...Para JoséH3789
+- Eze_37:20los palos sobre que escribas estaránH3789
+- Dan_5:5una mano...escribía...veía la mano que eH3790
+- Dan_6:25rey Darío escribió a todos los pueblosH3790
+- Dan_7:1escribió el sueño, y relató lo principalH3790
+- Dan_9:11el juramento que está escrito en la leyH3789
+- Dan_9:13está escrito en la ley de Moisés, todoH3789
+- Dan_10:21te declararé lo que está escrito en elH7559
+- Dan_12:1los que se hallen escritos en el libroH3789
+- Ose_8:12le escribí las grandezas de mi ley, yH3789
+- Hab_2:2escribe la visión, y declárala...tablasH3789
+- Mal_3:16fue escrito libro de memoria delanteH3789
+- Mat_2:5Belén...así está escrito por el profetaG1125
+- Mat_4:4escrito está: No sólo de pan vivirá elG1125
+- Mat_4:6escrito...A sus ángeles mandará acerca deG1125
+- Mat_4:7escrito está...No tentarás al Señor tuG1125
+- Mat_4:10escrito está: Al Señor tu Dios adorarásG1125
+- Mat_11:10es de quien está escrito: He aquí, yoG1125
+- Mat_21:13escrito está: Mi casa, casa de oraciónG1125
+- Mat_26:24va, según está escrito de él, mas ¡ayG1125
+- Mat_26:31porque escrito está: Heriré al pastorG1125
+- Mat_27:37pusieron...su cabeza su causa escritaG1125
+- Mar_1:2como está escrito en Isaías...He aquíG1125
+- Mar_7:6escrito: Este pueblo de labios me honraG1125
+- Mar_9:12cómo está escrito del Hijo del HombreG1125
+- Mar_9:13y le hicieron...como está escrito de élG1125
+- Mar_10:5por la dureza de...corazón os escribióG1125
+- Mar_11:17¿no está escrito: Mi casa será llamadaG1125
+- Mar_12:19Moisés nos escribió que si el hermanoG1125
+- Mar_14:21va, según está escrito de él, mas ¡ayG1125
+- Mar_14:27escrito está: Heriré al pastor, y lasG1125
+- Mar_15:26el título escrito...era: El Rey de losG1125
+- Luc_1:3escribírtelas por orden, oh...TeófiloG1125
+- Luc_1:63escribió, diciendo: Juan es su nombreG1125
+- Luc_2:23como está escrito en la ley del SeñorG1125
+- Luc_3:4como está escrito en el libro de...IsaíasG1125
+- Luc_4:4escrito está: No sólo de pan vivirá elG1125
+- Luc_4:8escrito está: Al Señor tu Dios adorarásG1125
+- Luc_4:10escrito está: A sus ángeles mandaráG1125
+- Luc_4:17halló el lugar donde estaba escritoG1125
+- Luc_7:27éste es de quién está escrito: He aquíG1125
+- Luc_10:20nombres están escritos en los cielosG1125
+- Luc_10:26le dijo: ¿Qué está escrito en la ley?[[G1125]]
+- Luc_16:6siéntate pronto, y escribe cincuentaG1125
+- Luc_16:7dijo: Toma tu cuenta, y escribe ochentaG1125
+- Luc_18:31cosas escritas por los profetas acercaG1125
+- Luc_19:46escrito está: Mi casa es...de oraciónG1125
+- Luc_20:17es lo que está escrito: La piedra queG1125
+- Luc_20:28Moisés nos escribió: Si el hermano deG1125
+- Luc_21:22cumplan...las cosas que están escritasG1125
+- Luc_22:37que se cumpla...aquello que está escritoG1125
+- Luc_22:37lo...escrito de mí, tiene cumplimiento
+- Luc_23:38un título escrito con letras griegasG1125
+- Luc_24:44que se cumpliese...lo que está escritoG1125
+- Luc_24:46así está escrito, y así fue necesarioG1125
+- Jua_1:45aquel de quien escribió Moisés en laG1125
+- Jua_2:17escrito: El celo de tu casa me consumeG1125
+- Jua_5:46me creeríais...porque de mí escribió élG1125
+- Jua_6:31comieron el maná en...como está escritoG1125
+- Jua_6:45escrito está...Y serán todos enseñadosG1125
+- Jua_8:6inclinado...escribía en tierra con el dedoG1125
+- Jua_8:8inclinándose de nuevo...siguió escribiendoG1125
+- Jua_8:17está escrito que el testimonio de dosG1125
+- Jua_10:34está escrito en vuestra ley: Yo dijeG1125
+- Jua_12:14y montó sobre él, como está escritoG1125
+- Jua_12:16estas cosas estaban escritas acerca deG1125
+- Jua_15:25se cumpla la palabra que está escritaG1125
+- Jua_19:19escribió...Pilato un título, que pusoG1125
+- Jua_19:20y el título estaba escrito en hebreoG1125
+- Jua_19:21no escribas: Rey de los judíos; sinoG1125
+- Jua_19:22respondió...Lo que he escrito, he eG1125
+- Jua_20:30cuales no están escritas en este libroG1125
+- Jua_20:31éstas se han escrito para que creáisG1125
+- Jua_21:24el discípulo que...escribió estas cosasG1125
+- Jua_21:25cosas...si se escribieran una por unaG1125
+- Jua_21:25los libros que se habrían de escribirG1125
+- Hec_1:20porque está escrito en...los SalmosG1125
+- Hec_7:42está escrito en el libro de los profetasG1125
+- Hec_13:29las cosas que de él estaban escritasG1125
+- Hec_13:33escrito también en el salmo segundoG1125
+- Hec_15:15las palabras de los...como está escritoG1125
+- Hec_15:20que se les escriba que se aparten deG1989
+- Hec_15:23y escribir por conducto de ellos: LosG1125
+- Hec_18:27y escribieron a los discípulos que leG1125
+- Hec_21:25hemos escrito...que no guarden nada deG1989
+- Hec_23:5pues escrito está: No maldecirás a unG1125
+- Hec_23:25escribió una carta en estos términosG1125
+- Hec_24:14las cosas que en la ley...están escritasG1125
+- Hec_25:26no tengo cosa...que escribir a mi señorG1125
+- Hec_25:26que después de...tenga yo qué escribirG1125
+- Rom_1:17está escrito: Mas el justo por la feG1125
+- Rom_2:15obra de la ley escrita en sus corazonesG1123
+- Rom_2:24como está escrito, el nombre de Dios esG1125
+- Rom_3:4está escrito: Para que seas justificadoG1125
+- Rom_3:10como está escrito: No hay justo, ni aunG1125
+- Rom_4:17está escrito: Te he puesto por padre deG1125
+- Rom_4:23con respecto a él se escribió que le fueG1125
+- Rom_8:36escrito: Por causa de ti somos muertosG1125
+- Rom_9:13como está escrito: A Jacob amé, mas aG1125
+- Rom_9:33escrito: He aquí pongo en Sion piedra deG1125
+- Rom_10:5Moisés escribe así: El hombre que hagaG1125
+- Rom_10:15como está escrito: ¡Cuán hermosos sonG1125
+- Rom_11:8está escrito: Dios les dio espíritu deG1125
+- Rom_11:26como está escrito: Vendrá de Sion elG1125
+- Rom_12:19escrito está: Mía es la venganza, yoG1125
+- Rom_14:11escrito está: Vivo yo, dice el SeñorG1125
+- Rom_15:3está escrito: Los vituperios de los queG1125
+- Rom_15:4las cosas que se escribieron antes, paraG4270
+- Rom_15:4para nuestra enseñanza se escribieronG4270
+- Rom_15:9está escrito: Por tanto, yo te confesaréG1125
+- Rom_15:15he escrito...en parte con atrevimientoG1125
+- Rom_15:21como está escrito: Aquellos a quienesG1125
+- Rom_16:22yo Tercio, que escribí la epístola, osG1125
+- 1Co_1:19está escrito: Destruiré la sabiduríaG1125
+- 1Co_1:31escrito: El que se gloría, gloríese enG1125
+- 1Co_2:9está escrito: Cosas que ojo no vio, niG1125
+- 1Co_3:19escrito está: El prende a los sabios enG1125
+- 1Co_4:6a no pensar más de lo que está escritoG1125
+- 1Co_4:14no escriba esto para avergonzaros, sinoG1125
+- 1Co_5:9he escrito por carta, que no os juntéisG1125
+- 1Co_5:11os escribí que no os juntéis con ningunoG1125
+- 1Co_7:1cuanto a las cosas de que me escribisteisG1125
+- 1Co_9:9está escrito: No pondrás bozal al bueyG1125
+- 1Co_9:10por nosotros se escribió; porque conG1125
+- 1Co_9:15ni tampoco he escrito esto para que seG1125
+- 1Co_10:7escrito: Se sentó el pueblo a comer y aG1125
+- 1Co_10:11y están escritas para amonestarnos aG1125
+- 1Co_14:21está escrito: En otras lenguas y conG1125
+- 1Co_14:37reconozca que lo que os escribo sonG1125
+- 1Co_15:45está escrito: Fue hecho el primer hombreG1125
+- 1Co_15:54cumplirá la palabra que está escritaG1125
+- 1Co_16:21yo, Pablo, os escribo...salutación de
+- 2Co_1:13no os escribimos otras cosas de lasG1125
+- 2Co_2:3mismo os escribí, para que cuando llegueG1125
+- 2Co_2:4os escribí con muchas lágrimas, no paraG1125
+- 2Co_2:9os escribí, para tener la prueba de siG1125
+- 2Co_3:2nuestras cartas sois vosotros, escritasG1449
+- 2Co_3:3carta...escrita no con tinta, sino con elG1449
+- 2Co_4:13está escrito: Creí, por lo cual habléG1125
+- 2Co_7:12aunque os escribí, no fue por causa delG1125
+- 2Co_8:15está escrito: El que recogió mucho, noG1125
+- 2Co_9:1santos, es por demás que yo os escribaG1125
+- 2Co_9:9escrito: Repartió, dio a los pobres; suG1125
+- 2Co_13:2lo escribo a los que antes pecaron, y aG1125
+- 2Co_13:10por esto os escribo estando ausenteG1125
+- Gál_1:20esto que os escribo, he aquí delanteG1125
+- Gál_3:10escrito está: Maldito todo aquel que noG1125
+- Gál_3:10que no permaneciere en...cosas escritasG1125
+- Gál_3:13escrito: Maldito todo el que es colgadoG1125
+- Gál_4:22escrito que Abraham tuvo dos hijos; unoG1125
+- Gál_4:27escrito: Regocíjate, oh estéril, tú queG1125
+- Gál_6:11con cuán grandes letras os escribo de miG1125
+- Efe_3:3como antes lo he escrito brevementeG4270
+- Flp_3:1a mí no me es molesto el escribirosG1125
+- 1Ts_4:9; 1Ts_5:1no tenéis necesidad...os escribaG1125
+- 2Ts_3:17el signo en...carta mía; así escriboG1125
+- 1Ti_3:14escribo, aunque tengo la esperanzaG1125
+- Flm_1:19yo Pablo lo escribo de mi mano, yo loG1125
+- Flm_1:21te he escrito confiando en tu obedienciaG1125
+- Heb_8:10y sobre su corazón las escribiré; yG1924
+- Heb_10:7el rollo del libro está escrito de míG1125
+- Heb_10:16leyes...y en sus mentes las escribiréG1924
+- Heb_13:22ruego...pues os he escrito brevementeG1989
+- 1Pe_1:16escrito está: Sed santos, porque yoG1125
+- 1Pe_5:12os he escrito brevemente, amonestándoosG1125
+- 2Pe_3:1es la segunda carta que os escribo, yG1125
+- 2Pe_3:15Pablo, según la sabiduría...ha escritoG1125
+- 1Jn_1:4os escribimos, para que vuestro gozoG1125
+- 1Jn_2:1cosas os escribo para que no pequéisG1125
+- 1Jn_2:7no os escribo mandamiento nuevo, sino elG1125
+- 1Jn_2:8os escribo un mandamiento nuevo, que esG1125
+- 1Jn_2:12os escribo a...porque vuestros pecadosG1125
+- 1Jn_2:13os escribo a...padres, porque conocéisG1125
+- 1Jn_2:13os escribo a vosotros, jóvenes, porqueG1125
+- 1Jn_2:13os escribo a vosotros, hijitos, porqueG1125
+- 1Jn_2:14he escrito a vosotros, padres, porqueG1125
+- 1Jn_2:14he escrito a vosotros, jóvenes, porqueG1125
+- 1Jn_2:21no os he escrito como si ignoraseis laG1125
+- 1Jn_2:26os he escrito...sobre los que os engañanG1125
+- 1Jn_5:13os he escrito a vosotros que creéis enG1125
+- 2Jn_1:5ruego...no como escribiéndote un nuevoG1125
+- 2Jn_1:12tengo muchas cosas que escribiros, peroG1125
+- 3Jn_1:9escrito a la iglesia; pero DiótrefesG1125
+- 3Jn_1:13tenía muchas cosas que escribirte, peroG1125
+- 3Jn_1:13pero no quiero escribírtelas con tinta yG1125
+- Jud_1:3de escribiros acerca de nuestra comúnG1125
+- Jud_1:3escribiros exhortándoos que contendéisG1125
+- Rev_1:3y guardan las cosas en ella escritasG1125
+- Rev_1:11que decía...Escribe en un libro lo que vesG1125
+- Rev_1:19escribe las cosas que has visto, y lasG1125
+- Rev_2:1escribe al ángel de la iglesia en EfesoG1125
+- Rev_2:8escribe al ángel de la iglesia en EsmirnaG1125
+- Rev_2:12escribe al ángel...la iglesia en PérgamoG1125
+- Rev_2:17la piedrecita escrito un nombre nuevoG1125
+- Rev_2:18escribe al ángel...la iglesia en TiatiraG1125
+- Rev_3:1escribe al ángel de la iglesia en SardisG1125
+- Rev_3:7escribe al ángel...iglesia en FiladelfiaG1125
+- Rev_3:12escribiré sobre él el nombre de mi DiosG1125
+- Rev_3:14y escribe al ángel...iglesia en LaodiceaG1125
+- Rev_5:1un libro escrito por dentro y por fueraG1125
+- Rev_10:4yo iba a escribir; pero oí una voz delG1125
+- Rev_10:4sella las cosas que...y no las escribasG1125
+- Rev_13:8nombres no estaban escritos en el libroG1125
+- Rev_14:1el nombre de él y...escrito en la frenteG1125
+- Rev_14:13que desde el cielo me decía: EscribeG1125
+- Rev_17:5y en su frente un nombre escrito, unG1125
+- Rev_17:8cuyos nombres no están escritos desde laG1125
+- Rev_19:9escribe: Bienaventurados los que sonG1125
+- Rev_19:12un nombre escrito que ninguno conocíaG1125
+- Rev_19:16escrito este nombre: REY DE REYES YG1125
+- Rev_20:12por las cosas que estaban escritas enG1125
+- Rev_21:5dijo: Escribe...estas palabras son fielesG1125
+- Rev_22:18Dios...las plagas que están escritasG1125
+- Rev_22:19cosas que están escritas; en este libroG1125

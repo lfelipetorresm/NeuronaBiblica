@@ -1,0 +1,187 @@
+---
+tipo: concordancia
+palabra: TERCERO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TERCERO, A
+
+- Gén_1:13y fue la tarde y la mañana el día tH7992
+- Gén_2:14el nombre del t río es Hidekel; éste esH7992
+- Gén_6:16arca...y le harás piso bajo, segundo y tH7992
+- Gén_22:4al t día alzó Abraham sus ojos, y vio elH7992
+- Gén_31:22y al t día fue dicho a Labán que JacobH7992
+- Gén_32:19mandó...al t, y a todos los que iban trasH7992
+- Gén_34:25al t día, cuando sentían ellos...dolorH7992
+- Gén_40:20t día, que era el día del cumpleaños deH7992
+- Gén_42:18al t día les dijo José: Haced esto, yH7992
+- Gén_50:23y vio José los...hasta la t generaciónH8029
+- Éxo_19:1en el mes t de la salida de...de IsraelH7992
+- Éxo_19:11estén preparados para el día t, porqueH7992
+- Éxo_19:11t día Jehová descenderá a ojos de todoH7992
+- Éxo_19:15dijo...Estad preparados para el t díaH7969
+- Éxo_19:16al t día...vinieron truenos y relámpagosH7992
+- Éxo_20:5hasta la t y cuarta generación de losH8029
+- Éxo_28:19t hilera, un jacinto, una ágata y unaH7992
+- Éxo_34:7visita...hasta la t y cuarta generaciónH3029
+- Éxo_39:12t hilera, un jacinto, una ágata y unaH7992
+- Lev_7:17quedare...hasta el t día, será quemadoH7992
+- Lev_7:18si se comiere de la carne del...al t díaH7992
+- Lev_19:6que quedare para el t día, será quemadoH7992
+- Lev_19:7si se comiere el día t, será abominaciónH7992
+- Núm_2:24de Efraín...por sus ejércitos...los tH7992
+- Núm_7:24el t día, Eliab hijo de Helón, príncipeH7992
+- Núm_14:18visita la maldad de...hasta los t y hastaH8029
+- Núm_15:6de harina, amasada con la t parte de unH7992
+- Núm_15:7de vino...ofrecerás la t parte de un hinH7992
+- Núm_19:12al t día se purificará con...agua, y alH7992
+- Núm_19:12si al t día no se purificare, no seráH7992
+- Núm_19:19rociará sobre el...al t y al séptimo díaH7992
+- Núm_28:14la t parte de un hin con cada carneroH7992
+- Núm_29:20el día t, once becerros, dos carnerosH7992
+- Núm_31:19os purificaréis el t día y al séptimoH7992
+- Deu_5:9visito la maldad...hasta la t y cuartaH8029
+- Deu_23:8hijos...en la t generación entrarán enH7992
+- Deu_26:12cuando acabes de diezmar...en el año tH7992
+- Jos_9:17al t día llegaron a las ciudades deH7992
+- Jos_19:10la t suerte tocó a los hijos de ZabulónH7992
+- Jue_20:30subiendo...Israel...t día, ordenaronH7992
+- 1Sa_3:8Jehová, pues, llamó la t vez a SamuelH7992
+- 1Sa_10:3llevando uno...y el t una vasija de vino
+- 1Sa_13:18el t escuadrón marchaba hacia la región
+- 1Sa_13:21la t parte de un siclo por afilar las
+- 1Sa_17:13eran...el segundo Abinadab, y el t SamaH7992
+- 1Sa_19:21volvió a enviar mensajeros por t vezH7992
+- 1Sa_20:5me...en el campo hasta la tarde del t díaH7992
+- 1Sa_20:12haya preguntado a mi padre a...el día tH7992
+- 1Sa_30:1David y sus...vinieron a Siclag al t díaH7992
+- 2Sa_1:2t día, sucedió que vino uno...de SaúlH7992
+- 2Sa_3:3t, Absalón hijo de Maaca, hija de TalmaiH7992
+- 2Sa_18:2una t parte...Joab, una t parte...AbisaiH7992
+- 2Sa_18:2envió...una t parte al mando de Itai geteoH7992
+- 1Re_3:18al t día después de dar yo a luz, queH7992
+- 1Re_6:6aposento...y el t de siete codos de anchoH7992
+- 1Re_6:8subía...y del aposento de en medio al tH7992
+- 1Re_12:12t día vino Jeroboam con todo el puebloH7992
+- 1Re_12:12rey había mandado...Volved a mí al t díaH7992
+- 1Re_15:28lo mató...Baasa en el t año de Asa reyH7969
+- 1Re_15:33el t año de Asa rey de Judá, comenzóH7969
+- 1Re_18:1palabra de Jehová a Elías en el t añoH7992
+- 1Re_18:34hacedlo la t vez; y lo hicieron la tH8027
+- 1Re_22:2aconteció al t año, que Josafat rey deH7992
+- 2Re_1:13volvió a enviar al t capitán de 50H7992
+- 2Re_1:13subiendo aquel t capitán de cincuentaH7992
+- 2Re_11:5la t parte...tendrá la guardia de la casaH7992
+- 2Re_11:6otra t parte estará a la puerta de ShurH7992
+- 2Re_11:6la otra t parte a la puerta del postigoH7992
+- 2Re_18:1en el t año de Oseas...comenzó a reinarH7969
+- 2Re_19:29y el t año sembraréis, y segaréis, yH7992
+- 2Re_20:5te sano; al t día subirás a la casa deH7992
+- 2Re_20:8que subiré a la casa de Jehová al t día?[[H7992]]
+- 1Cr_2:13e Isaí engendró a Eliab...Simea el tH7992
+- 1Cr_3:2t, Absalón hijo de Maaca, hija de TalmaiH7992
+- 1Cr_3:15hijos de Josías...t Sedequías, el cuartoH7992
+- 1Cr_8:1Benjamín engendró a Bela su...Ahara el tH7992
+- 1Cr_8:39los hijos de Esec...Jehús...Elifelet el tH7992
+- 1Cr_12:9Ezer el...Obadías el segundo, Eliab el tH7992
+- 1Cr_23:19hijos de Hebrón: Jerías...Jahaziel el tH7992
+- 1Cr_24:8la t a Harim, la cuarta a SeorimH7992
+- 1Cr_24:23el segundo Amarías, el t Jahaziel, elH7992
+- 1Cr_25:10la t para Zacur, con sus hijos y susH7992
+- 1Cr_26:2los hijos de Meselemías...Zebadías el tH7992
+- 1Cr_26:4de Obed-edom...Joa el t, el cuarto SacarH7992
+- 1Cr_26:11t Tebalías, el cuarto Zacarías; todosH7992
+- 1Cr_27:5el jefe de la t división para el t mesH7992
+- 2Cr_10:12vino...el pueblo a Roboam al t díaH7992
+- 2Cr_15:10reunieron, pues...en el mes t del añoH7969
+- 2Cr_17:7al t año de su reinado envió...príncipesH7992
+- 2Cr_23:4una t parte de vosotros...de porteros conH7992
+- 2Cr_23:5otra t parte, a la casa del rey; y laH7992
+- 2Cr_23:5otra t parte, a la puerta del CimientoH7992
+- 2Cr_27:5y lo mismo en el segundo año y en el tH7992
+- 2Cr_31:7el mes t comenzaron a formar aquellosH7992
+- Esd_6:15terminada el t día del mes de AdarH8531
+- Neh_10:32contribuir...la t parte de un sicloH7992
+- Est_1:3el t año de su reinado hizo banqueteH7969
+- Est_5:1que al t día se vistió Ester su vestidoH7992
+- Est_8:9llamados los escribanos...en el mes t, queH7992
+- Job_42:14llamó el nombre...la t, Keren-hapucH7992
+- Isa_19:24en aquel tiempo Israel...t con EgiptoH7992
+- Isa_37:30año t sembraréis y segaréis...su frutoH7992
+- Jer_38:14a su presencia, en la t entrada deH7992
+- Eze_5:2una t parte quemarás a fuego en medioH7992
+- Eze_5:2tomarás una t parte...t parte esparcirásH7992
+- Eze_5:12una t parte de ti morirá de pestilenciaH7992
+- Eze_5:12una t parte caerá a...t parte esparciréH7992
+- Eze_10:14la t, cara de león; la cuarta...águilaH7992
+- Eze_31:1mes t, el día primero del mes, que vinoH7992
+- Eze_46:14y la t parte de un hin de aceite paraH7992
+- Dan_1:1en el año t del reinado de Joacim reyH7969
+- Dan_2:39y luego un t reino de bronce, el cualH8523
+- Dan_5:7que lea esta...será el t señor en el reinoH8523
+- Dan_5:16vestido...y serás el t señor en el reinoH8531
+- Dan_5:29proclamar que...era el t señor del reinoH8531
+- Dan_8:1en el año t del reinado del rey BelsasarH7969
+- Dan_10:1en el año t de Ciro rey de Persia fueH7969
+- Ose_6:2el t día nos resucitará, y viviremosH7992
+- Zac_6:3en el t carro caballos blancos, y enH7992
+- Zac_13:8que las dos t partes serán cortadas enH7992
+- Zac_13:8y se perderán; mas la t quedará en ellaH7992
+- Zac_13:9meteré en el fuego a la t parte, y losH7992
+- Mat_16:21y ser muerto, y resucitar al t díaG5154
+- Mat_17:23y le matarán; mas al t día resucitaráG5154
+- Mat_20:3cerca de la hora t del día, vio a otrosG5154
+- Mat_20:19le crucifiquen; mas al t día resucitaráG5154
+- Mat_22:26de la misma manera...y el t, hasta elG5154
+- Mat_26:44y oró por t vez, diciendo las mismasG5154
+- Mat_27:64se asegure el sepulcro hasta el t díaG5154
+- Mar_9:31después de muerto, resucitará al t díaG5154
+- Mar_10:34y le matarán; mas al t día resucitaráG5154
+- Mar_12:21el segundo...y el t, de la misma maneraG5154
+- Mar_14:41vino la t vez, y les dijo: Dormid ya, yG5154
+- Mar_15:25era la hora t cuando le crucificaronG5154
+- Luc_9:22y que sea muerto, y resucite al t díaG5154
+- Luc_12:38y aunque venga a la t vigilia, si losG5154
+- Luc_13:32y mañana, y al t día termino mi obraG5154
+- Luc_18:33y le matarán; mas al t día resucitaráG5154
+- Luc_20:12volvió a enviar un t siervo; mas ellosG5154
+- Luc_20:31la tomó el t, y así todos los siete, yG5154
+- Luc_23:22por t vez: ¿Pues qué mal ha hecho éste?[[G5154]]
+- Luc_24:7que sea crucificado, y resucite al t díaG5154
+- Luc_24:21es ya el t día que esto ha acontecidoG5154
+- Luc_24:46y resucitase de los muertos al t díaG5154
+- Jua_2:1al t día se hicieron unas bodas en CanáG5154
+- Jua_21:14ya la t vez que Jesús se manifestaba aG5154
+- Jua_21:17le dijo la t vez: Simón, hijo de JonásG5154
+- Jua_21:17de que le dijese la t vez: ¿Me amas?[[G5154]]
+- Hec_2:15no están ebrios...es la hora t del díaG5154
+- Hec_10:40éste levantó Dios al t día, e hizo queG5154
+- Hec_20:9cayó del t piso abajo, y fue levantadoG5152
+- Hec_23:23preparasen para la hora t de la nocheG5154
+- Hec_27:19y al t día...arrojamos los aparejos deG5154
+- 1Co_12:28lo t maestros, luego los que hacenG5154
+- 1Co_15:4y que resucitó al t día, conforme a lasG5154
+- 2Co_12:2si...fue arrebatado hasta el t cieloG5154
+- 2Co_12:14aquí, por t vez estoy preparado para irG5154
+- 2Co_13:1esta es la t vez que voy a vosotros. PorG5154
+- Rev_4:7el t tenía rostro como de hombre; y elG5154
+- Rev_6:5abrió el t sello, oí al t ser vivienteG5154
+- Rev_8:7y la t parte de los árboles se quemó, yG5154
+- Rev_8:8la t parte del mar se convirtió en sangreG5154
+- Rev_8:9murió la t parte de los seres vivientesG5154
+- Rev_8:9y la t parte de las naves fue destruidaG5154
+- Rev_8:10el t ángel tocó la trompeta, y cayó delG5154
+- Rev_8:10y cayó sobre la t parte de los ríos, yG5154
+- Rev_8:11y la t parte de las aguas se convirtióG5154
+- Rev_8:12y fue herida la t parte del sol, y laG5154
+- Rev_8:12la t parte de la luna, y la t parte deG5154
+- Rev_8:12que se oscureciese la t parte de ellosG5154
+- Rev_8:12y no hubiese luz en la t parte del díaG5154
+- Rev_9:15fin de matar a la t parte de los hombresG5154
+- Rev_9:18por estas...fue muerta la t parte de losG5154
+- Rev_11:14ay pasó; he aquí, el t ay viene prontoG5154
+- Rev_12:4y su cola arrastraba la t parte de lasG5154
+- Rev_14:9el t ángel los siguió, diciendo a granG5154
+- Rev_16:4t ángel derramó su copa sobre los ríosG5154
+- Rev_21:19era...el t, ágata; el cuarto, esmeraldaG5154

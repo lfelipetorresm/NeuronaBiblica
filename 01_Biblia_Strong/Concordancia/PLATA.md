@@ -1,0 +1,281 @@
+---
+tipo: concordancia
+palabra: PLATA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PLATA
+
+- Gén_13:2Abram era riquísimo en...en p y en oroH3701
+- Gén_20:16he dado mil monedas de p a tu hermanoH3701
+- Gén_23:15la tierra vale 400 siclos de p; ¿qué esH3701
+- Gén_23:16pesó Abraham y Efrón...400 siclos de pH3701
+- Gén_24:35le ha dado...p y oro, siervos y siervasH3701
+- Gén_24:53sacó el criado alhajas de p y...de oroH3701
+- Gén_37:28le vendieron a...por veinte piezas de pH3701
+- Gén_44:2la copa de p, en la boca del costal delH3701
+- Gén_44:4¿por qué habéis robado mi copa de p?[[H3701]]
+- Gén_44:8de hurtar de casa de tu señor p ni oro?[[H3701]]
+- Gén_45:22a Benjamín dio...trescientas piezas de pH3701
+- Éxo_3:22pedirá...alhajas de p, alhajas de oroH3701
+- Éxo_11:2pida...su vecina, alhajas de p y de oroH3701
+- Éxo_12:35pidiendo de los egipcios alhajas de pH3701
+- Éxo_20:23no hagáis...dioses de p, ni dioses deH3701
+- Éxo_21:32pagará su dueño treinta siclos de pH3701
+- Éxo_22:7alguno diere a su prójimo p...a guardarH3701
+- Éxo_22:17pesará p conforme a la dote...vírgenesH3701
+- Éxo_25:3ofrenda que tomaréis de ellos: oro, pH3701
+- Éxo_26:19y harás cuarenta basas de p debajo deH3701
+- Éxo_26:21y sus cuarenta basas de p; dos basasH3701
+- Éxo_26:25serán ocho tablas, con sus basas de pH3701
+- Éxo_26:32sus capiteles de oro, sobre basas de pH3701
+- Éxo_27:10-11capiteles de las columnas y...de pH3701
+- Éxo_27:17estarán ceñidas de p...capiteles de pH3701
+- Éxo_31:4para trabajar en oro, en p y en bronceH3701
+- Éxo_35:5ofrenda para...traerá a Jehová; oro, pH3701
+- Éxo_35:24todo el que ofrecía ofrenda de p o deH3701
+- Éxo_35:32para trabajar en oro, en p y en bronceH3701
+- Éxo_36:24cuarenta basas de p debajo de...tablasH3701
+- Éxo_36:26cuarenta basas de p; dos basas debajoH3701
+- Éxo_36:30eran...ocho tablas, y sus basas de p 16H3701
+- Éxo_36:36y fundió para ellas cuatro basas de pH3701
+- Éxo_38:10-11, Éxo_38:12, Éxo_38:17, Éxo_38:19los capiteles...y sus molduras, de pH3701
+- Éxo_38:17las cubiertas de las cabezas de...de pH3701
+- Éxo_38:17las columnas del atrio...molduras de pH3701
+- Éxo_38:19basas de bronce y sus capiteles de pH3701
+- Éxo_38:25p de...empadronados de la congregaciónH3701
+- Éxo_38:27cien talentos de p para fundir...basasH3701
+- Lev_5:15conforme a...estimación en siclos de pH3701
+- Lev_27:3lo estimarás en cincuenta siclos de pH3701
+- Lev_27:6estimarás al varón en cinco siclos de pH3701
+- Lev_27:6estimarás...la mujer en tres siclos de pH3701
+- Lev_27:16se valorará en cincuenta siclos de pH3701
+- Núm_7:13, Núm_7:19, Núm_7:25, Núm_7:31, Núm_7:37, Núm_7:43, Núm_7:49, Núm_7:55, Núm_7:61, Núm_7:67, Núm_7:73, Núm_7:79plato de p...jarro de pH3701
+- Núm_7:84doce platos de p, doce jarros de p, 12H3701
+- Núm_7:85toda la p de la vajilla, 2.400 siclosH3701
+- Núm_10:2hazte dos trompetas de p; de obra deH3701
+- Núm_22:18; Núm_24:13diese su casa llena de p y oroH3701
+- Núm_31:22oro y la p, el bronce, hierro, estañoH3701
+- Deu_7:25no codiciarás p...para tornarlo para tiH3701
+- Deu_8:13la p y el oro se te multipliquen, y todoH3701
+- Deu_17:17ni p ni oro amontonará...en abundanciaH3701
+- Deu_22:19le multarán en cien piezas de p, lasH3701
+- Deu_22:29dará al padre de la joven 50 piezas de pH3701
+- Deu_29:17ídolos...de p y oro, que tienen consigoH3701
+- Jos_6:19toda la p...sean consagrados a JehováH3701
+- Jos_6:24pusieron en el tesoro de, la p y el oroH3701
+- Jos_7:21vi entre los despojos...200 siclos de pH3701
+- Jos_22:8volved a vuestras tiendas...con p, con oroH3701
+- Jue_9:4dieron setenta siclos de p del temploH3701
+- Jue_16:5cada uno...te dará mil cien siclos de pH3701
+- Jue_17:2los mil cien siclos de p que te fueronH3701
+- Jue_17:3él devolvió los mil cien siclos de p aH3701
+- Jue_17:4tomó su madre 200 siclos de p y los dioH3701
+- Jue_17:10y yo te daré diez siclos de p por añoH3701
+- 1Sa_2:36a postrarse...por una moneda de p y unH3701
+- 1Sa_9:8he aquí...la cuarta parte de un siclo de pH3701
+- 2Sa_8:10Joram llevaba...utensilios de p, deH3701
+- 2Sa_8:11dedicó a Jehová, con la p y el oro queH3701
+- 2Sa_18:11hubiera placido darte diez siclos de pH3701
+- 2Sa_18:12aunque me pesaras mil siclos de p, noH3701
+- 2Sa_21:4no tenemos...querella sobre p ni sobre oroH3701
+- 2Sa_24:24David compró la era...por 50 siclos de pH3701
+- 1Re_7:51metió Salomón...p, oro y utensiliosH3701
+- 1Re_10:21la vajilla de...de oro fino; nada de pH3701
+- 1Re_10:22y traía oro, p, marfil, monos y pavosH3701
+- 1Re_10:25todos le llevaban...alhajas de oro y de pH3701
+- 1Re_10:27que en...la p llegara a ser como piedrasH3701
+- 1Re_10:29el carro por seiscientas piezas de pH3701
+- 1Re_15:15metió en la casa de...oro, p y alhajasH3701
+- 1Re_15:18entonces tomando Asa toda la p y el oroH3701
+- 1Re_15:19yo te envío un presente de p y de oroH3701
+- 1Re_16:24Omri compró a...por dos talentos de pH3701
+- 1Re_20:3tu p y tu oro son míos, y tus mujeresH3701
+- 1Re_20:5tu p y tu oro, y tus mujeres...me darásH3701
+- 1Re_20:7ha enviado a mí...por mi p y por mi oroH3701
+- 1Re_20:39por la suya, o pagarás un talento de pH3701
+- 2Re_5:5llevando consigo diez talentos de pH3701
+- 2Re_5:22te ruego que les des un talento de p, yH3701
+- 2Re_5:23ató dos talentos de p en dos bolsas, yH3701
+- 2Re_5:26¿es tiempo de tomar p, y de...siervas?[[H3701]]
+- 2Re_6:25cabeza de un asno...por 80 piezas de pH3701
+- 2Re_6:25de estiércol de...por cinco piezas de pH3701
+- 2Re_7:8y tomaron de allí p y oro y vestidos, yH3701
+- 2Re_12:13aquel dinero...no se hacían tazas de pH3701
+- 2Re_12:13ningún otro utensilio...de p se hacíaH3701
+- 2Re_14:14y tomó...la p, y todos los utensiliosH3701
+- 2Re_15:19Manahem dio a Pul mil talentos de pH3701
+- 2Re_15:20cada uno cincuenta siclos de p, paraH3701
+- 2Re_16:8tomando Acaz la p...que se halló en laH3701
+- 2Re_18:14impuso a Ezequías...300 talentos de pH3701
+- 2Re_18:15toda la p que fue...hallada en la casaH3701
+- 2Re_20:13Ezequías...mostró...p, oro, y especiasH3701
+- 2Re_23:33multa de cien talentos de p, y uno deH3701
+- 2Re_23:35y Joacim pagó a Faraón la p y el oroH3701
+- 2Re_23:35sacando la p y el oro del pueblo de laH3701
+- 2Re_25:15los que de p, en P; todo lo llevó elH3701
+- 1Cr_18:10le envió...utensilios de oro, de pH3701
+- 1Cr_18:11el rey David dedicó a Jehová, con la pH3701
+- 1Cr_19:6Hanún...enviaron mil talentos de p paraH3701
+- 1Cr_22:14un millón de talentos de p, y bronceH3701
+- 1Cr_22:16de la p, del bronce y...no hay cuentaH3701
+- 1Cr_28:14y p en peso para todas las cosas de pH3701
+- 1Cr_28:15y para los candeleros de p, p en pesoH3701
+- 1Cr_28:16del mismo modo p para las mesas de pH3701
+- 1Cr_28:17para las tazas de p, por peso para cadaH3701
+- 1Cr_29:2he preparado para...p para las cosas de pH3701
+- 1Cr_29:3guardo en mi tesoro particular oro y pH3701
+- 1Cr_29:4siete mil talentos de p refinada paraH3701
+- 1Cr_29:5p para las cosas de p, y para toda laH3701
+- 1Cr_29:7diez mil talentos de p, 18.000...bronceH3701
+- 2Cr_1:15acumuló el rey p y oro en JerusalénH3701
+- 2Cr_1:17un carro por seiscientas piezas de p, yH3701
+- 2Cr_2:7un hombre hábil que sepa trabajar en...pH3701
+- 2Cr_2:14el cual sabe trabajar en oro, p, bronceH3701
+- 2Cr_5:1puso la p...en los tesoros de la casa deH3701
+- 2Cr_9:14los gobernadores de la...traían oro y pH3701
+- 2Cr_9:20en los días de...la p no era apreciadaH3701
+- 2Cr_9:21y traían oro, p, marfil, monos y pavosH3701
+- 2Cr_9:24éstos traía su presente, alhajas de pH3701
+- 2Cr_9:27y acumuló el rey p en Jerusalén comoH3701
+- 2Cr_15:18trajo a la casa de Dios lo que...p, oroH3701
+- 2Cr_16:2sacó Asa la p y el oro de los tesorosH3701
+- 2Cr_16:3he aquí yo te he enviado p y oro, paraH3701
+- 2Cr_17:11traían de los filisteos...tributos de pH3701
+- 2Cr_21:3padre les había dado muchos regalos...pH3701
+- 2Cr_24:14e hicieron de él...vasos de oro y de pH3701
+- 2Cr_25:6tomó a sueldo por cien talentos de p, aH3701
+- 2Cr_25:24el oro y la p, y todos los utensiliosH3701
+- 2Cr_27:5le dieron...de Amón cien talentos de pH3701
+- 2Cr_32:27adquirió tesoros de p y oro, piedrasH3701
+- 2Cr_36:3a pagar cien talentos de p y uno de oroH3701
+- Esd_1:4ayúdenle los hombres de su lugar con pH3701
+- Esd_1:6y todos...les ayudaron con p y oro, conH3701
+- Esd_1:9mil tazones de p, veintinueve cuchillosH3701
+- Esd_1:10tazas de oro, otras 410 tazas de p, yH3701
+- Esd_1:11los utensilios de oro y de p eran 5.400H3701
+- Esd_2:69dieron...cinco mil libras de p, y cienH3701
+- Esd_5:14utensilios de oro y de p de la casa deH3701
+- Esd_6:5los utensilios de oro y de p de la casaH3701
+- Esd_7:15llevar la p y el oro que el rey y susH3701
+- Esd_7:16la p y el oro que halles en...BabiloniaH3701
+- Esd_7:18y lo que...os parezca hacer de la otra pH3701
+- Esd_7:22hasta cien talentos de p, cien coros deH3701
+- Esd_8:25les pesé la p, el oro y los utensiliosH3701
+- Esd_8:26650 talentos de p, y utensilios de p porH3701
+- Esd_8:28son santos los utensilios...la p y el oroH3701
+- Esd_8:30los levitas recibieron el peso de la pH3701
+- Esd_8:33al cuarto día fue luego pesada la p, elH3701
+- Neh_5:15tomaron...más de 40 siclos de p, y aunH3701
+- Neh_7:71los cabezas...dieron...2.200 libras de pH3701
+- Neh_7:72del pueblo dio...dos mil libras de p, yH3701
+- Est_1:6en anillos de p y columnas de mármolH3701
+- Est_1:6los reclinatorios de oro y de p, sobreH3701
+- Est_3:9yo pesaré diez mil talentos de p a losH3701
+- Est_3:11p que ofreces sea para ti, y asimismoH3701
+- Est_4:7dio noticia de la p que Amán había dichoH3701
+- Job_3:15con los...que llenaban de p sus casasH3701
+- Job_22:25tu defensa, y tendrás p en abundanciaH3701
+- Job_27:16amontone p como polvo, y prepare ropaH3701
+- Job_27:17vestirá, y el inocente repartirá la pH3701
+- Job_28:1la p tiene sus veneros, y el oro lugarH3701
+- Job_28:15por oro, ni su precio será a peso de pH3701
+- Sal_12:6como p refinada en horno de tierraH3701
+- Sal_66:10tú...nos ensayaste como se afina la pH3701
+- Sal_68:13como alas de paloma cubiertas de p, yH3701
+- Sal_68:30todos se sometan con sus piezas de pH3701
+- Sal_105:37los sacó con p y oro; y no hubo en susH3701
+- Sal_115:4los ídolos de ellos son p y oro, obraH3701
+- Sal_119:72mejor me es...que millares de oro y pH3701
+- Sal_135:15los ídolos de las naciones son p y oroH3701
+- Pro_2:4como a la p la buscares...escudriñaresH3701
+- Pro_3:14es mejor que la ganancia de la p, y susH3701
+- Pro_8:10recibid mi enseñanza, y no p; y cienciaH3701
+- Pro_8:19oro...y mi rédito mejor que la p escogidaH3701
+- Pro_10:20p escogida es la lengua del justo; masH3701
+- Pro_16:16y adquirir inteligencia...más que la pH3701
+- Pro_17:3el crisol para la p, y la hornaza paraH3701
+- Pro_22:1y la buena fama más que la p y el oroH3701
+- Pro_25:4quita las escorias de la p, y saldráH3701
+- Pro_25:11manzana de oro con figuras de p es laH3701
+- Pro_26:23como escoria de p...labios lisonjerosH3701
+- Pro_27:21el crisol prueba la p, y la hornaza elH3701
+- Ecl_2:8me amontoné también p y oro, y tesorosH3701
+- Ecl_12:6antes que la cadena de p se quiebre, yH3701
+- Cnt_1:11zarcillos de oro te...tachonados de pH3701
+- Cnt_3:10hizo sus columnas de p, su respaldo deH3701
+- Cnt_8:9edificaremos sobre él un palacio de p; siH3701
+- Cnt_8:11traer mil monedas de p por su frutoH3701
+- Isa_1:22tu p se ha convertido en escorias, tuH3701
+- Isa_2:7su tierra está llena de p y oro, susH3701
+- Isa_2:20día arrojará el hombre...sus ídolos de pH3701
+- Isa_7:23mil vides que valían mil siclos de pH3701
+- Isa_13:17no se ocuparán de la p, ni codiciaránH3701
+- Isa_30:22profanarás la...de tus esculturas de PH3701
+- Isa_31:7arrojará el hombre sus ídolos de p y susH3701
+- Isa_39:2y les mostró la casa de su tesoro, p yH3701
+- Isa_40:19el platero le...y le funde cadenas de pH3701
+- Isa_46:6oro de la bolsa, y pesan p con balanzasH3701
+- Isa_48:10he aquí te he purificado, y no como a pH3701
+- Isa_60:9para traer tus hijos de lejos, su p y suH3701
+- Isa_60:17y por hierro p, y por madera bronce, yH3701
+- Jer_6:30p desechada los llamarán...los desechóH3701
+- Jer_10:4con p y oro lo adornan; con clavos yH3701
+- Jer_10:9p batida de Tarsis y oro de Ufaz; obraH3701
+- Jer_32:9pesé el dinero; diecisiete siclos de pH3701
+- Jer_52:19lo de p por p, se llevó el capitán deH3701
+- Eze_7:19arrojarán su p en las calles, y su oroH3701
+- Eze_7:19ni su p ni su oro podrá librarlos en elH3701
+- Eze_16:13así fuiste adornada de oro y de p, y tuH3701
+- Eze_16:17tomaste...alhajas de oro y de p que yoH3701
+- Eze_22:18ellos...en escorias de p se convirtieronH3701
+- Eze_22:20como quien junta p y bronce y hierro yH3701
+- Eze_22:22como se funde la p en medio del hornoH3701
+- Eze_27:12con p, hierro...comerciaba en tus feriasH3701
+- Eze_28:4y has adquirido oro y p en tus tesorosH3701
+- Eze_38:13para quitar p y oro, para tomar ganadosH3701
+- Dan_2:32pecho y sus brazos, de p; su vientreH3702
+- Dan_2:35fueron desmenuzados el...la p y el oroH3702
+- Dan_2:45la cual desmenuzó...barro, la p y el oroH3702
+- Dan_5:2que trajesen los vasos de oro y de p queH3702
+- Dan_5:4y alabaron a los dioses...de p, de bronceH3702
+- Dan_5:23diste alabanza a dioses de p y oro, deH3702
+- Dan_11:8y sus objetos preciosos de p y de oroH3701
+- Dan_11:38honrará con...p, con piedras preciosasH3701
+- Dan_11:43se apoderará de los tesoros de oro y pH3701
+- Ose_2:8y que le multipliqué la p y el oro queH3701
+- Ose_3:2la compré...para mí por quince siclos de pH3701
+- Ose_8:4de su p y de su oro hicieron ídolos paraH3701
+- Ose_9:6la ortiga conquistará lo deseable de su pH3701
+- Ose_13:2y de su p se han hecho según...imágenesH3701
+- Joe_3:5porque habéis llevado mi p y mi oro, yH3701
+- Nah_2:9saquead p...no hay fin de las riquezasH3701
+- Hab_2:19está cubierto de oro y p, y no hayH3701
+- Sof_1:18ni su p...podrá librarlos en el díaH3701
+- Hag_2:8mía es la p, y mío es el oro, diceH3701
+- Zac_6:11tomarás...p y oro, y harás coronas, yH3701
+- Zac_9:3amontonó p como polvo, y oro como lodoH3701
+- Zac_11:12pesaron por mi salario treinta piezas de pH3701
+- Zac_11:13tomé las treinta piezas de p, y las eché en la casaH3701
+- Zac_13:9los fundiré como se funde la p, y los probaréH3701
+- Zac_14:14oro y p, y ropas de vestir, en gran abundanciaH3701
+- Mal_3:3se sentará para afinar y limpiar la pH3701
+- Mal_3:3los afinará como a oro y como a p, y traeránH3701
+- Mat_10:9No os proveáis de oro, ni p, ni cobre
+- Mat_26:15ellos le asignaron treinta piezas de p
+- Mat_27:3devolvió...las treinta piezas de p a los principales
+- Mat_27:5arrojando las piezas de p en el templo, salió
+- Mat_27:6tomando las piezas de p, dijeron
+- Mat_27:9tomaron las treinta piezas de p, precio del apreciado
+- Hec_3:6No tengo p ni oro, pero lo que tengo te doy
+- Hec_17:29la Divinidad sea semejante a oro, o p, o piedra
+- Hec_19:19hallaron que era 50.000 piezas de pG694
+- Hec_19:24que hacía de p templecillos de DianaG693
+- Hec_20:33ni p ni oro ni vestido de...he codiciadoG694
+- 1Co_3:12edificare oro, p, piedras preciosasG696
+- 2Ti_2:20no solamente hay utensilios...de pG693
+- Stg_5:3vuestro oro y p están enmohecidos; yG696
+- 1Pe_1:18con cosas corruptibles, como oro o pG694
+- Rev_9:20ni dejaron de adorar...imágenes de...pG693
+- Rev_18:12mercadería de oro, de p, de piedrasG696

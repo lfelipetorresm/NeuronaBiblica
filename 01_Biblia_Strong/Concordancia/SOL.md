@@ -1,0 +1,182 @@
+---
+tipo: concordancia
+palabra: SOL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SOL
+
+- Gén_15:12a la caída del s sobrecogió el sueñoH8121
+- Gén_15:17puesto el s, y ya oscurecido, se veíaH8121
+- Gén_19:23s salía sobre...cuando Lot llegó a ZoarH8121
+- Gén_28:11ya el s se había puesto; y tomó de lasH8121
+- Gén_32:31pasado Peniel, le salió el s; y cojeabaH8121
+- Gén_37:9que el s y la luna...se inclinaban a míH8121
+- Éxo_16:21luego que el s calentaba, se derretíaH8121
+- Éxo_17:12hubo en...firmeza hasta que se puso el sH8121
+- Éxo_22:26si...a la puesta del s se lo devolverásH8121
+- Lev_22:7cuando el s se pusiere, será limpioH8121
+- Núm_21:11en el desierto...al nacimiento del sH8121
+- Núm_25:4y ahórcalos ante Jehová delante del sH8121
+- Núm_34:15Jericó al oriente, al nacimiento del sH8121
+- Deu_4:19viendo el s y la luna y las estrellasH8121
+- Deu_4:41apartó tres ciudades...nacimiento del sH4217, [[H8121]]
+- Deu_16:6sacrificarás la pascua...la puesta del sH8121
+- Deu_17:3hubiere inclinado a ellos, ya sea al sH8121
+- Deu_23:11hubiere puesto el s, podrá entrar en elH8121
+- Deu_24:13le devolverás la prenda...el s se pongaH8121
+- Deu_24:15y no se pondrá el s sin dárselo; puesH8121
+- Deu_33:14los más escogidos frutos del s, con elH8121
+- Jos_1:4hasta el gran mar donde se pone el sH8121
+- Jos_1:15a este lado del Jordán...donde nace el sH4217, [[H8121]]
+- Jos_8:29y cuando el s se puso, mandó Josué queH8121
+- Jos_10:12s, detente en Gabaón; y tú, luna, en elH8121
+- Jos_10:13el s se detuvo y la luna se paró, hastaH8121
+- Jos_10:13el s se paró en medio del cielo, y noH8121
+- Jos_10:27cuando el s se iba a poner, mandó JosuéH8121
+- Jos_12:1otro lado del Jordán...donde nace el sH8121
+- Jos_13:5y todo el Líbano hacia donde sale el sH4217, [[H8121]]
+- Jos_19:12y gira de Sarid...hacia donde nace el sH4217, [[H8121]]
+- Jos_19:34por el Jordán hacia donde nace el sH4217, [[H8121]]
+- Jos_23:4Jordán hasta...hacia donde se pone el sH3996, [[H8121]]
+- Jue_5:31mas los que te aman, sean como el sH8121
+- Jue_8:13Gedeón...volvió...antes que el s subieseH2775
+- Jue_9:33por la mañana al salir el s madruga yH8121
+- Jue_14:18antes que el s se pusiese, los de laH2775
+- Jue_19:14se les puso el s junto a GabaaH4217, [[H8121]]
+- Jue_20:43hasta...de Gabaa hacia donde nace el sH4217, [[H8121]]
+- 1Sa_11:9mañana al calentar el s...libradosH8121
+- 2Sa_2:24puso el s cuando llegaron al colladoH8121
+- 2Sa_3:35si antes que se ponga el s gustare yoH8121
+- 2Sa_12:11el cual yacerá con tus mujeres a...del sH8121
+- 2Sa_12:12haré esto delante de todo...y a pleno sH8121
+- 2Sa_23:4el resplandor del s en una mañana sinH8121
+- 1Re_22:36a la puesta del s salió un pregónH8121
+- 2Re_3:22cuando...brilló el s sobre las aguasH8121
+- 2Re_10:33el Jordán al nacimiento del s, toda laH4217, [[H8121]]
+- 2Re_23:5los que quemaban incienso...al s y a laH4217, [[H8121]]
+- 2Re_23:11los caballos que...habían dedicado al sH4217, [[H8121]]
+- 2Re_23:11quitó...quemó al fuego los carros del sH4217, [[H8121]]
+- 2Cr_18:34el carro...y murió al ponerse el sH8121
+- 2Cr_34:4e hizo pedazos las imágenes del s, que
+- Neh_7:3no se abran...hasta que caliente el sH8121
+- Job_8:16de un árbol está verde delante del sH8121
+- Job_9:7él manda al s, y no sale; y sella lasH2775
+- Job_30:28ando ennegrecido, y no por el s; me heH2535
+- Job_31:26si he mirado al s cuando resplandecíaH216
+- Sal_19:4en ellos puso tabernáculo para el sH8121
+- Sal_50:1desde el nacimiento del s hasta dondeH8121
+- Sal_58:8como el que nace muerto, no vean el sH8121
+- Sal_72:5temerán mientras duren el s y la lunaH8121
+- Sal_72:17se perpetuará su...mientras dure el sH8121
+- Sal_74:16noche; tú estableciste la luna y el sH8121
+- Sal_84:11s y escudo es Jehová Dios; gracia yH8121
+- Sal_89:36será...su trono como el s delante de míH8121
+- Sal_104:19hizo la luna...y el s conoce su ocasoH8121
+- Sal_104:22sale el s, se recogen, y se echan enH8121
+- Sal_113:3desde el nacimiento del s hasta dondeH8121
+- Sal_121:6el s no te fatigará de día, ni la lunaH8121
+- Sal_136:8s para que señorease en el día, porqueH8121
+- Sal_148:3alabadle, s y luna; alabadle vosotrasH8121
+- Ecl_1:3trabajo con que se afana debajo del sH8121
+- Ecl_1:5sale el s, y se pone el s, y se apresuraH8121
+- Ecl_1:9lo mismo...y nada hay nuevo debajo del sH8121
+- Ecl_1:14miré...obras que se hacen debajo del sH8121
+- Ecl_2:11era vanidad...sin provecho debajo del sH8121
+- Ecl_2:17la obra que se hace debajo del s me eraH8121
+- Ecl_2:18aborrecí todo mi trabajo...debajo del sH8121
+- Ecl_2:19que ocupé debajo del s mi sabiduría?[[H8121]]
+- Ecl_2:20y en que había ocupado debajo del s miH8121
+- Ecl_2:22fatiga...con que se afana debajo del s?[[H8121]]
+- Ecl_3:16vi más debajo del s: en lugar del juicioH8121
+- Ecl_4:1las violencias que se hacen debajo del sH8121
+- Ecl_4:3las malas obras que debajo del s se hacenH8121
+- Ecl_4:7yo me volví...y vi vanidad debajo del sH8121
+- Ecl_4:15a...los que viven debajo del s caminandoH8121
+- Ecl_5:13hay un mal...que he visto debajo del sH8121
+- Ecl_5:18trabajo con que se fatiga debajo del sH8121
+- Ecl_6:5no ha visto el s, ni lo ha conocido; másH8121
+- Ecl_6:12qué será después de él debajo del s?[[H8121]]
+- Ecl_7:11buena...provechosa para los que ven el sH8121
+- Ecl_8:9en todo lo que debajo del s se hace; hayH8121
+- Ecl_8:15que no tiene el hombre bien debajo del sH8121
+- Ecl_8:15días...que Dios le concede debajo del sH8121
+- Ecl_8:17la obra que debajo del s se hace; porH8121
+- Ecl_9:3entre todo lo que se hace debajo del sH8121
+- Ecl_9:6parte en todo lo que se hace debajo del sH8121
+- Ecl_9:9los días...que te son dados debajo del sH8121
+- Ecl_9:9trabajo con que te afanas debajo del sH8121
+- Ecl_9:11debajo del s, que ni es de los ligerosH8121
+- Ecl_9:13vi esta sabiduría debajo del s, la cualH8121
+- Ecl_10:5hay un mal que he visto debajo del s, aH8121
+- Ecl_11:7la luz, y agradable a los ojos ver el sH8121
+- Ecl_12:2antes que se oscurezca el s, y la luzH8121
+- Cnt_1:6que soy morena, porque el s me miróH8121
+- Cnt_6:10esclarecida como el s, imponente comoH2535
+- Isa_13:10s se oscurecerá al nacer, y la lunaH8121
+- Isa_17:8no mirará a los altares...imágenes del s
+- Isa_18:4los miraré desde mi morada, como s claroH2527
+- Isa_24:23y el s se confundirá, cuando Jehová deH8121
+- Isa_27:9no se levanten...ni las imágenes del s
+- Isa_30:26luz de la luna será como la luz del sH8121
+- Isa_30:26y la luz del s siete veces mayor, comoH8121
+- Isa_38:8los grados que ha descendido con el sH8121
+- Isa_38:8volvió el s diez grados atrás, por losH8121
+- Isa_41:25el nacimiento del s invocará mi nombreH8121
+- Isa_45:6sepa desde el nacimiento del s, y hastaH8121
+- Isa_49:10sed, ni el calor ni el s los afligiráH8121
+- Isa_59:19Jehová, y desde el nacimiento del s suH8121
+- Isa_60:19el s nunca más te servirá de luz paraH8121
+- Isa_60:20no se pondrá jamás tu s, ni menguará tuH8121
+- Jer_8:2y los esparcirán s y a la luna y aH8121
+- Jer_15:9se llenó de dolor su alma, su s se pusoH8121
+- Jer_31:35dicho Jehová, que da el s para luz delH8121
+- Eze_6:4imágenes del s serán quebradas; y haréH8121
+- Eze_6:6vuestras imágenes del s serán destruidasH8121
+- Eze_8:16y adoraban al s, postrándose hacia elH8121
+- Eze_32:7el s cubriré con nublado, y la luna noH8121
+- Dan_6:14y hasta la puesta del s trabajó paraH8122
+- Joe_2:10el s y la luna se oscurecerán, y lasH8121
+- Joe_2:31el s se convertirá en tinieblas, y laH8121
+- Joe_3:15el s y la luna se oscurecerán...estrellasH8121
+- Amó_8:9que haré que se ponga el s a mediodíaH8121
+- Jon_4:8al salir el s, preparó Dios un...vientoH8121
+- Jon_4:8y el s hirió a Jonás en la cabeza, y seH8121
+- Miq_3:6sobre los profetas se pondrá el s, yH8121
+- Nah_3:17salido el s se van, y no se conoceH8121
+- Hab_3:11el s y la luna se pararon en su lugarH8121
+- Zac_8:7salvo...la tierra donde se pone el s
+- Mal_1:11donde el s nace...es grande mi nombreH8121
+- Mal_4:2mas a vosotros...nacerá el S de justiciaH8121
+- Mat_5:45hace salir su s sobre malos y buenosG2246
+- Mat_13:6pero salido el s, se quemó; y porque noG2246
+- Mat_13:43resplandecerán como el s en el reino deG2246
+- Mat_17:2resplandeció su rostro como el s, y susG2246
+- Mat_24:29el s se oscurecerá, y la luna no daráG2246
+- Mar_1:32luego que el s se puso, le trajeronG2246
+- Mar_4:6salido el s, se quemó; y porque no teníaG2246
+- Mar_13:24el s se oscurecerá, y la luna no daráG2246
+- Mar_16:2vinieron al sepulcro, ya salido el sG2246
+- Luc_4:40al ponerse el s, todos los que teníanG2246
+- Luc_21:25habrá señales en el s, en la luna y enG2246
+- Luc_23:45el s se oscureció, y el velo del temploG2246
+- Hec_2:20el s se convertirá en tinieblas, y laG2246
+- Hec_13:11serás ciego, y no verás el s por algúnG2246
+- Hec_26:13luz...que sobrepasaba el resplandor del sG2246
+- Hec_27:20y no apareciendo ni s ni estrellas porG2246
+- 1Co_15:41una es la gloria del s, otra...lunaG2246
+- Efe_4:26no se ponga el s sobre vuestro enojoG2246
+- Stg_1:11cuando sale el s con calor abrasadorG2246
+- Rev_1:16era como el s cuando resplandece enG2246
+- Rev_6:12el s se puso negro como tela de cilicioG2246
+- Rev_7:2que subía de donde sale el s, y tenía elG2246
+- Rev_7:16ni sed, y el s no caerá más sobre ellosG2246
+- Rev_8:12fue herida la tercera parte del s, y laG2246
+- Rev_9:2se oscureció el s y el aire por el humoG2246
+- Rev_10:1y su rostro era como el s, y sus piesG2246
+- Rev_12:1una gran señal, una mujer vestida del sG2246
+- Rev_16:8cuarto ángel derramó su copa sobre el sG2246
+- Rev_19:17vi a un ángel que estaba en pie en el sG2246
+- Rev_21:23la ciudad no tiene necesidad de s ni deG2246
+- Rev_22:5y no tienen necesidad...ni de luz del sG2246

@@ -1,0 +1,109 @@
+---
+tipo: concordancia
+palabra: CAUSA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CAUSA
+
+- Véase también el Apéndice
+- Gén_3:17maldita será la tierra por tu c; conH5668
+- Éxo_3:3y veré...por qué c la zarza no se quemaH4069
+- Éxo_22:9c de ambos vendrá delante de los juecesH1697
+- Éxo_23:3ni al pobre distinguirás en su cH7379
+- Núm_27:5y Moisés llevó su c delante de JehováH4941
+- Núm_31:16fueron c de que...Israel prevaricasenH1961
+- Deu_1:17la c que os fuere difícil, la traeréisH1697
+- Jos_5:4la c por la cual Josué los circuncidóH1697
+- Jue_6:31y Joás respondió...¿Defenderéis su c?
+- 1Sa_19:5por qué, pues...matando a David sin c?[[H2600]]
+- 1Sa_24:15él vea y sustente mi c, y me defiendaH7379
+- 1Sa_25:31por haber derramado sangre sin c, o porH2600
+- 1Sa_25:39que juzgó la c de mi afrenta recibidaH7379
+- 2Sa_18:19Jehová ha defendido su c de mano deH8199
+- 2Sa_18:31ha defendido tu c de la mano de todosH8199
+- 1Re_8:59para que él proteja la c de su siervoH4941
+- 1Re_11:27la c por la cual éste alzó su manoH1697
+- 1Re_12:30fue c de pecado; porque el pueblo ibaH1961
+- 1Re_13:34fue c de pecado a la casa de JeroboamH1961
+- 2Cr_6:35, 2Cr_6:39oirás...ruego, y ampararás su cH4941
+- 2Cr_10:15c era de Dios...que Jehová cumplieraH5252
+- 2Cr_19:8a algunos de los levitas y...para las cH7379
+- 2Cr_19:10cualquier c que viniere a vosotros deH7379
+- 2Cr_19:10en c de sangre, entre ley y precepto
+- Job_2:3contra él para que lo arruinara sin c?[[H2600]]
+- Job_5:8yo buscaría a Dios, y encomendaría...mi cH1700
+- Job_13:18he aquí ahora, si yo expusiere mi cH4941
+- Job_22:6sacaste prenda a tus hermanos sin c, yH2600
+- Job_23:4expondría mi c delante de él...mi bocaH4941
+- Job_29:16de la c que no entendía, me informabaH7379
+- Job_35:14la c está delante de él; por tantoH1779
+- Sal_7:4antes he libertado al que sin c eraH7387
+- Sal_9:4porque has mantenido mi derecho y mi cH1779
+- Sal_17:1oye, oh Jehová, una c justa; está atento
+- Sal_35:23despierta...Dios...para defender mi cH7379
+- Sal_35:27los que están a favor de mi justa cH6664
+- Sal_56:5todos los días ellos pervierten mi cH1697
+- Sal_69:4aumentado...los que me aborrecen sin cH2600
+- Sal_74:22oh Dios, aboga tu c: acuérdate de cómoH7379
+- Sal_106:36sirvieron a sus ídolos...c de su ruina
+- Sal_109:3rodeado, y pelearon contra mí sin cH2600
+- Sal_119:78porque sin c me han calumniado; peroH8267
+- Sal_119:86verdad; sin c me persiguen; ayúdameH8267
+- Sal_119:154defiende mi c, y redímeme...palabraH7379
+- Sal_119:161príncipes me han perseguido sin cH2600
+- Sal_140:12tomará a su cargo la c del afligidoH1779
+- Pro_18:17justo parece el...que aboga por su cH7379
+- Pro_22:23porque Jehová juzgará la c de ellosH7379
+- Pro_23:11el cual juzgará la c de ellos contra tiH7379
+- Pro_24:28seas sin c testigo contra tu prójimoH2600
+- Pro_25:9tu c con tu compañero, y no descubrasH7379
+- Pro_26:2así la maldición nunca vendrá sin cH2600
+- Pro_29:7conoce el justo la c de los pobresH1779
+- Pro_31:9y defiende la c del pobre...menesterosoH1777
+- Ecl_7:10¿cuál es la c de que los tiemposH1961
+- Isa_1:23no...ni llega a ellos la c de la viudaH7379
+- Isa_29:21pervierten la c del justo con vanidad
+- Isa_41:21alegad por vuestra c, dice JehováH7379
+- Isa_49:4pero mi c está delante de Jehová, y miH4941
+- Isa_50:8el adversario de mi c? Acérquese a miH4941
+- Jer_3:3esta c las aguas han sido detenidas
+- Jer_5:28no juzgaron la c, la c del huérfanoH1779
+- Jer_5:28con todo...c de los pobres no juzgaronH1779
+- Jer_9:12¿por qué c la tierra ha perecido, haH4100
+- Jer_11:20vea...porque ante ti he expuesto mi cH7379
+- Jer_12:1sin embargo, alegaré mi c ante ti
+- Jer_15:5¿quién se entristecerá por tu c...paz?
+- Jer_20:12oh Jehová...a ti he encomendado mi cH7379
+- Jer_22:16él juzgó la c del afligido y delH1779
+- Jer_30:13no hay quien juzgue tu c para sanarteH1779
+- Jer_50:34de cierto abogará la c de ellos paraH7379
+- Jer_51:36que yo juzgo tu c y haré tu venganzaH7379
+- Lam_3:36trastornar al hombre en su c, elH7379
+- Lam_3:58abogaste, Señor, la c de mi alma...vidaH7379
+- Lam_3:59tú has visto...mi agravio; defiende mi cH4941
+- Eze_14:23y conoceréis que no sin c hice todoH2600
+- Dan_2:15¿cuál es la c de que este edicto seH4101
+- Amó_5:12y en...hacéis perder su c a los pobres
+- Jon_1:7sepamos por c de quién nos ha venidoH7945
+- Jon_1:12por mi c ha venido esta gran tempestadH7945
+- Miq_7:9que juzgue mi c y haga mi justiciaH7379
+- Mat_19:3repudiar a su mujer por cualquier c?[[G156]]
+- Mat_19:9salvo por c de fornicación, y se casaG156
+- Mat_19:12se hicieron eunucos por c del reino deG1223
+- Mat_27:37pusieron sobre su cabeza su c escritaG156
+- Mar_15:26el título escrito de su c era: El ReyG156
+- Jua_12:30no ha venido...por c mía, sino por cG1223
+- Jua_15:25está escrita...Sin c me aborrecieronG1432
+- Hec_10:29¿por qué c me habéis hecho venir?[[G3056]]
+- Hec_19:40ninguna c por la cual podamos dar razónG158
+- Hec_22:30saber de...la c por la cual le acusabanG804
+- Hec_23:28y queriendo saber la c...qué le acusabanG156
+- Hec_25:14expuso al rey la c de Pablo, diciendoG156
+- Rom_8:36por c de ti somos muertos todo el tiempoG1752
+- Rom_15:22por esta c me he visto impedido, irG1352
+- Efe_3:1por esta c yo Pablo, prisionero deG5484
+- Heb_12:11ninguna disciplina...parece ser c de
+- [Entrada procedente del Apéndice]
+- Gn 3.17; 5.29; 6.13; 7.7; 8.21; 12.13(2), 16, 17; 16.10; 20.3, 11, 18; 21.11, 12, 25; 26.7, 9, 33; 27.46; 30.27; 36.7; 37.8; 38.24; 39.5; 41.31; 43.30 Éx 2.23; 3.3, 7; 4.26; 6.9; 8.24; 9.11; 13.15; 21.28; 22.9; 23.3 Lv 15.3(2), 32; 16.16; 26.43 Nm 6.11; 9.6, 7, 10; 12.1; 22.3(2); 25.18; 27.5; 31.16; 32.17 Dt 1.17; 3.26; 4.21; 9.18, 19; 14.1; 28.20, 34 Jos 2.9, 11; 5.4; 6.1; 9.9, 13, 20, 24; 23.3 Jue 2.18; 6.2, 6, 7, 31; 10.16; 11.8, 35; 21.6 Rt 1.19 1 S 4.13; 5.5; 8.18; 10.12; 17.32; 19.5; 20.34; 23.10, 28; 24.15; 25.31, 39 2 S 6.12; 12.25; 18.19, 31; 21.1 1 R 8.11, 41, 59; 11.27, 39; 12.30; 13.34; 14.4 2 R 9.14; 13.23; 16.18 1 Cr 10.14; 12.1; 21.30 2 Cr 5.14; 6.32, 35, 39; 10.2, 15; 12.5; 16.10; 19.10; 20.9; 21.7, 15; 24.25; 28.19 Esd 9.4, 11, 13(2), 15; 10.6, 9 Neh 4.9; 5.3, 15; 9.38 Job 2.3; 5.8; 9.17; 13.18; 18.4; 19.29; 22.4, 6; 23.4, 15; 29.16; 30.3; 34.36; 35.9, 14; 37.13, 19; 41.25 Sal 5.8; 6.7; 7.4; 8.2; 9.4, 13; 17.1; 25.3; 27.11; 31.10; 35.7(2), 19(2), 23, 27; 37.1; 38.3(2), 5, 8, 19; 43.1; 44.22, 26; 46.3; 55.3; 56.5; 59.9; 60.4; 69.4, 6, 18; 74.22; 88.9; 90.9; 102.10; 105.14; 106.32, 36; 107.17(2), 39; 109.3, 24; 119.53, 78, 86, 154, 161, 164; 140.12 Pr 6.26; 18.17; 19.26; 20.4; 22.23; 23.11; 24.28; 25.9; 26.2; 29.7; 31.9 Ec 3.18; 5.6; 7.10 Is 1.23; 5.25; 7.2, 4, 22; 10.27; 14.8; 17.9; 19.17, 20; 24.6(2); 29.21; 38.15; 41.21; 49.4; 50.8; 52.6; 55.5; 66.5 Jer 1.16; 3.3; 4.31; 5.28(3); 8.18; 9.12; 11.17, 20; 12.1, 13; 13.17; 15.4, 5, 17; 20.12; 22.16, 22; 23.9, 10; 25.16, 27; 30.13, 14, 15; 32.24; 33.5; 37.11; 41.9(2), 18; 44.3, 22(2); 47.4; 48.36; 50.34; 51.6, 36, 46; 52.3 Lm 1.3, 16; 2.11; 3.36, 58, 59; 4.13; 5.10 Ez 5.9; 6.9(3); 7.13; 9.4; 14.15, 23; 16.14(2), 15, 63; 18.30; 19.10, 11; 20.9, 14, 22, 43; 22.13(2); 24.23; 26.18; 28.5, 16, 17(2); 31.5; 32.10; 33.6, 10; 35.11; 36.22; 43.2 Dn 2.15; 6.23; 7.11; 8.12, 27; 9.7, 16; 10.12 Os 1.4; 6.5; 9.6, 7; 10.5, 15; 11.6; 13.6 Jl 1.5; 3.2 Am 5.12 Jon 1.7, 12 Miq 3.12; 7.9, 13, 17 Nah 3.4, 11 Hab 1.2; 2.8, 17 Sof 3.18 Hag 2.13 Zac 2.4; 8.10; 10.7; 14.5 Mt 5.10, 11, 32; 10.18, 22, 39; 13.21, 58; 14.3, 9; 16.25; 19.3, 9, 12; 24.9, 22; 27.19, 37 Mc 2.4, 27(2); 3.9; 4.17; 6.17, 26; 8.35; 10.29; 13.9, 13, 20; 15.26 Lc 3.19; 5.19; 6.22; 8.19, 47; 9.24; 19.3; 21.12, 17, 25; 22.45 Jn 5.16; 7.43; 11.42; 12.9, 11, 30(2), 42; 15.21, 25; 19.42 Hch 4.21; 5.41; 10.21, 29; 11.19; 13.28; 16.3; 19.40; 21.34, 35; 22.11, 24, 30; 23.28; 25.14; 26.21; 28.2, 18, 20 Ro 2.24; 3.25; 5.16(2); 8.3, 10(2), 20, 36; 11.28(2); 13.5; 14.15, 20; 15.22 1 Co 4.6; 7.2, 5, 26; 9.23; 10.28; 11.9(2), 10 2 Co 3.7; 4.11; 7.12(2); 9.14 Gl 3.19; 4.13; 6.12 Ef 1.15; 3.1, 13, 14 Flp 1.24, 29 Col 1.5 1 Ts 3.9; 5.13 1 Ti 5.23 Tit 1.5 Heb 2.9, 10; 3.10, 19; 4.6; 5.3, 7; 7.18; 12.11; 13.11 1 P 2.13, 19, 23; 3.14 2 P 1.4; 2.2 1 Jn 3.12 2 Jn 2 3 Jn 10 Ap 1.9; 6.9; 8.11, 13; 20.4

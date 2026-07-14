@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: FAZ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FAZ
+
+- Gén_1:2las tinieblas estaban sobre la f delH6440
+- Gén_1:2de Dios se movía sobre la f de las aguasH6440
+- Gén_2:6un vapor, el cual regaba toda la f de laH6440
+- Gén_6:1a multiplicarse sobre la f de la tierraH6440
+- Gén_6:7dijo...Raeré de sobre la f de la tierra aH6440
+- Gén_7:3viva la especie sobre la f de la tierraH6440
+- Gén_7:4raeré de sobre la f de la tierra a todoH6440
+- Gén_7:23fue destruido todo ser...sobre la f deH6440
+- Gén_8:8se habían retirado de sobre la f de laH6440
+- Gén_8:9aguas estaban aún sobre la f de...tierraH6440
+- Gén_8:13aquí que la f de la tierra estaba secaH6440
+- Gén_11:4esparcidos sobre la f de toda la tierraH6440
+- Gén_11:8-9los esparció sobre la f de...la tierraH6440
+- Éxo_10:5cubrirá la f de la tierra, de modo queH5869
+- Éxo_10:15cubrió la f de...el país, y oscurecióH5869
+- Éxo_16:14aquí sobre la f del desierto una cosaH6440
+- Éxo_32:12raerlos de sobre la f de la tierra?[[H6440]]
+- Éxo_33:16los pueblos que están sobre la f de laH6440
+- Lev_14:53soltará la avecilla...sobre la f delH2351
+- Núm_11:31dos codos sobre la f de la tierraH6440
+- Núm_19:16tocare algún muerto a...sobre la f delH6440
+- Núm_22:5, Núm_22:11un pueblo...cubre la f de la tierraH5869
+- 1Re_8:40días que vivan sobre la f de la tierraH6440
+- 1Re_9:7cortaré a Israel de...la f de la tierraH6440
+- 1Re_13:34fue cortada...de sobre la f de la tierraH6440
+- 1Re_17:14haga llover sobre la f de la tierraH6440
+- 1Re_18:1yo haré llover sobre la f de la tierraH6440
+- 2Re_9:37será como estiércol sobre la f de laH6440
+- 2Cr_6:31los días que vivieren sobre la f deH6440
+- Job_5:10da la lluvia sobre la f de la tierraH6440
+- Job_26:9él encubre la f de su trono, y sobre élH6440
+- Job_33:26verá su f con júbilo; y restaurará alH6440
+- Job_37:12para hacer sobre la f del mundo, en laH6440
+- Job_38:30piedra, y se congela la f del abismoH6440
+- Sal_104:30son creados, y renuevas la f de laH6440
+- Pro_8:27cuando trazaba el círculo sobre la fH6440
+- Pro_24:31ortigas habían ya cubierto su f, y suH6440
+- Isa_14:21ni llenen de ciudades la f del mundoH6440
+- Isa_23:17fornicará con todos...sobre la f de laH6440
+- Isa_24:1trastorna su f, y hace esparcir a susH6440
+- Isa_27:6Israel...la f del mundo llenará de frutoH6440
+- Isa_63:9el ángel de su f los salvó; en su amorH6440
+- Jer_1:13olla que hierve; y su f está haciaH6440
+- Jer_8:2; Jer_9:22; Jer_16:4como estiércol sobre la f deH6440
+- Jer_25:26los reinos del mundo...sobre la f de laH6440
+- Jer_25:33como estiércol quedarán sobre la f deH6440
+- Jer_27:5hice...bestias que están sobre la f deH6440
+- Jer_28:16yo te quito de sobre la f de la tierraH6440
+- Jer_35:7que viváis muchos días sobre la f de laH6440
+- Eze_16:5fuiste arrojada sobre la f del campoH6440
+- Eze_29:5sobre la f del campo caerás; no serásH6440
+- Eze_32:4te echaré sobre la f del campo, y haréH6440
+- Eze_33:27que está sobre la f del campo entregaréH6440
+- Eze_34:6la f de la tierra fueron esparcidas misH6440
+- Eze_37:2que eran muchísimos sobre la f del campoH6440
+- Eze_38:20los hombres...sobre la f de la tierraH6440
+- Eze_39:5sobre la f del campo caerás; porque yoH6440
+- Eze_39:14enterrar a los que quedan sobre la f deH6440
+- Dan_8:5poniente sobre la f de toda la tierraH6440
+- Joe_2:20su f será hacia el mar oriental, y suH6440
+- Amó_5:8y las derrama sobre la f de la tierraH6440
+- Amó_9:6y sobre la f de la tierra las derramaH6440
+- Amó_9:8yo lo asolaré de la f de la tierra; masH6440
+- Sof_1:2destruiré...las cosas de sobre la f deH6440
+- Sof_1:3raeré a los hombres de sobre la f de laH6440
+- Zac_5:3la maldición que sale sobre la f deH6440
+- Mat_11:10; Mar_1:2; Luc_7:27envío mi mensajero delante de tu fG4383
+- Luc_21:35los que habitan sobre la f de toda laG4383
+- Hec_17:26para que habiten sobre toda la f deG4383
+- 2Co_4:6gloria de Dios en la f de JesucristoG4383

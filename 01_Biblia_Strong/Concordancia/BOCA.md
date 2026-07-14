@@ -1,0 +1,394 @@
+---
+tipo: concordancia
+palabra: BOCA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BOCA
+
+- Gén_4:11la tierra, que abrió su b para recibirH6310
+- Gén_29:2había una gran piedra sobre la b del pozoH6310
+- Gén_29:3revolvían la piedra de la b del pozoH6310
+- Gén_29:3volvían la piedra sobre la b del pozoH6310
+- Gén_29:8y remuevan la piedra de la b del pozoH6310
+- Gén_29:10Jacob y removió la piedra de la b delH6310
+- Gén_42:27dinero que estaba en la b de su costalH6310
+- Gén_43:12el dinero vuelto en las b de vuestrosH6310
+- Gén_43:21el dinero...estaba en la b de su costalH6310
+- Gén_44:1pon el dinero de...en la b de su costalH6310
+- Gén_44:2y pondrás mi copa...en la b del costalH6310
+- Gén_44:8hallamos en la b de nuestros costalesH6310
+- Gén_45:12vuestros ojos ven...que mi b os hablaH6310
+- Éxo_4:11respondió: ¿Quién dio la b al hombre?[[H6310]]
+- Éxo_4:12estaré con tu b, y te enseñaré lo queH6310
+- Éxo_4:15pondrás en su b...y yo estaré con tu bH6310
+- Éxo_4:16él te será...en lugar de b, y tú serásH6310
+- Éxo_13:9para que la ley de Jehová esté en tu bH6310
+- Éxo_23:13otros dioses...ni se oirá de vuestra bH6310
+- Núm_16:30la tierra abriere su b y los tragareH6310
+- Núm_16:32abrió la tierra su b, y...tragó a ellosH6310
+- Núm_22:28Jehoyá abrió la b al asna, la cual dijoH6310
+- Núm_22:38la palabra que Dios pusiere en mi bH6310
+- Núm_23:5Jehová puso palabra en la b de BalaamH6310
+- Núm_23:12de decir lo que Jehová ponga en mi b?[[H6310]]
+- Núm_23:16puso palabra en su b, y le dijo: VuelveH6310
+- Núm_26:10tierra abrió su b y los tragó a ellosH6310
+- Núm_30:2conforme a todo lo que salió de su bH6310
+- Núm_32:24y haced lo que ha declarado vuestra bH6310
+- Deu_8:3de todo lo que sale de la b de JehováH6310
+- Deu_11:6cómo abrió su b la tierra, y los tragóH6310
+- Deu_18:18pondré mis palabras en su b, y él lesH6310
+- Deu_23:23la ofrenda...que prometiste con tu bH6310
+- Deu_30:14cerca...está...en tu b y en tu corazónH6310
+- Deu_31:19en b de ellos, para que este cánticoH6310
+- Deu_31:21pues será recordado por la b de susH6310
+- Deu_32:1y oiga la tierra los dichos de mi bH6310
+- Jos_1:8nunca se apartará de tu b este libroH6310
+- Jos_6:10ni saldrá palabra de vuestra b, hastaH6310
+- Jue_7:6llevando el agua con la mano a su bH6310
+- Jue_9:38¿dónde está ahora tu b con que decíasH6310
+- Jue_18:19pon la mano sobre tu b, y vente conH6310
+- 1Sa_1:12Elí estaba observando la b de ellaH6310
+- 1Sa_2:1mi b se ensanchó sobre mis enemigosH6310
+- 1Sa_2:3cesen las palabras arrogantes de vuestra bH6310
+- 1Sa_14:26quien hiciera llegar su mano a su bH6310
+- 1Sa_14:27panal de miel, y llevó su mano a la bH6310
+- 1Sa_17:35salía yo tras él...lo libraba de su bH6310
+- 2Sa_1:16misma b atestiguó contra ti, diciendoH6310
+- 2Sa_14:3rey...y puso Joab las palabras en su bH6310
+- 2Sa_14:19en b de tu sierva todas estas palabrasH6310
+- 2Sa_17:19extendió sobre la b del pozo, y tendióH6310
+- 2Sa_22:9y de su b fuego consumidor; carbonesH6310
+- 1Re_7:31la b de la fuente...la b era redondaH6310
+- 1Re_7:31había también sobre la b entalladurasH6310
+- 1Re_8:24lo dijiste con tu b, y con tu mano loH6310
+- 1Re_17:24la palabra de Jebová es verdad en tu bH6310
+- 1Re_19:18siete mil...y cuyas b no lo besaronH6310
+- 1Re_20:33a tomar la palabra de su b, y dijeronH6310
+- 1Re_22:22-23espíritu de mentira en b...profetasH6310
+- 2Re_4:34poniendo su b sobre la b de él, y susH6310
+- 2Re_21:13como se limpia un...y se vuelve b abajo
+- 1Cr_16:12memoria...y de los juicios de su bH6310
+- 2Cr_6:4prometió con su b a David mi padreH6310
+- 2Cr_6:15lo dijiste con tu b, y con tu mano loH6310
+- 2Cr_18:21-22espíritu de mentira en la b...profetasH6310
+- 2Cr_35:22palabras de Necao...eran de b de DiosH6310
+- 2Cr_36:21-22palabra de Jehová por b de JeremíasH6310
+- Esd_1:1palabra de Jehová por b de JeremíasH6310
+- Esd_8:17y puse en b de ellos las palabras queH6310
+- Neh_9:20no retiraste tu maná de su b, y aguaH6310
+- Job_3:1esto abrió Job su b, y maldijo su díaH6310
+- Job_5:15libra...de la b de los impíos, y de laH6310
+- Job_5:16esperanza...y la iniquidad cerrará su bH6310
+- Job_7:11por tanto, no refrenaré mi b; hablaréH6310
+- Job_8:2las palabras de tu b serán como vientoH6310
+- Job_8:21aún llenará tu b de risa, y tus labiosH6310
+- Job_9:20yo me justifícare, me condenaría mi bH6310
+- Job_15:5porque tu b declaró tu iniquidad, puesH6310
+- Job_15:6b te condenará, yno yo; y tus labiosH6310
+- Job_15:13para que...saques tales palabras de tu b?[[H6310]]
+- Job_15:30y con el aliento de su b pereceráH6310
+- Job_16:10abrieron contra mí su b; hirieron misH6310
+- Job_19:16llamé a...de mi propia b le suplicabaH6310
+- Job_20:12si el mal se endulzó en su b, si loH6310
+- Job_21:5espantaos, y poned la mano sobre la bH6310
+- Job_22:22toma ahora la ley de su b, y pon susH6310
+- Job_23:4mi causa...y llenaría mi b de argumentosH6310
+- Job_23:12guardé las palabras de su b más que miH6310
+- Job_29:9los príncipes...ponían la mano sobre su bH6310
+- Job_29:23y abrían su b como a la lluvia tardíaH6310
+- Job_31:27engañó en secreto, y mi b besó mi manoH6310
+- Job_32:5no había respuesta en la b de aquellosH6310
+- Job_33:2abriré ahora mi b, y mi lengua hablaráH2441
+- Job_35:16Job abre su b vanamente, y multiplicaH6310
+- Job_36:16te apartará de la b de la angustia a
+- Job_37:2su voz, y el sonido que sale de su bH6310
+- Job_40:4yo soy vil...mi mano pongo sobre mi bH6310
+- Job_40:23todo un Jordán se estrelle contra su bH6310
+- Job_41:19su b salen hachones de fuego; centellasH6310
+- Job_41:21su aliento enciende...de su b sale llamaH6310
+- Sal_5:9en la b de ellos no hay sinceridadH6310
+- Sal_8:2de la b de los niños y de los que mamanH6310
+- Sal_10:7llena está su b de maldición...de fraudeH6310
+- Sal_17:3resuelto que mi b no haga transgresiónH6310
+- Sal_17:10con su b hablan arrogantementeH6310
+- Sal_18:8y de su b fuego consumidor; carbonesH6310
+- Sal_19:14sean gratos los dichos de mi b y laH6310
+- Sal_22:7todos...estiran la b, menean la cabeza
+- Sal_22:13abrieron sobre mí su b como...rapazH6310
+- Sal_22:21sálvame de la b del león, y líbrameH6310
+- Sal_33:6hechos los cielos...el aliento de su bH6310
+- Sal_34:1su alabanza estará de continuo en mi bH6310
+- Sal_35:21ensancharon contra mí su b; dijeronH6310
+- Sal_36:3las palabras de su b son iniquidad yH6310
+- Sal_37:30la b del justo habla sabiduría, y suH6310
+- Sal_38:13mas yo soy como mudo que no abre la bH6310
+- Sal_38:14como un hombre que no oye, y en cuya bH6310
+- Sal_39:1guardaré mi b con freno, en tanto queH6310
+- Sal_39:9enmudecí, no abrí mi b...tú lo hicisteH6310
+- Sal_40:3puso...en mi b cántico nuevo, alabanzaH6310
+- Sal_49:3mi b hablará sabiduría, y...inteligenciaH6310
+- Sal_50:16leyes, y que tomar mi pacto en tu b?[[H6310]]
+- Sal_50:19tu b metías en mal,Y tu lenguaH6310
+- Sal_51:15labios, y publicará mi b tu alabanzaH6310
+- Sal_54:2oh Dios...escucha las razones de mi bH6310
+- Sal_55:21los dichos de su b son más blandos queH6310
+- Sal_58:6oh Dios, quiebra sus dientes en sus bH6310
+- Sal_59:7proferirán con su b; espadas hay en susH6310
+- Sal_59:12por el pecado de su b, por la palabraH6310
+- Sal_62:4con su b bendicen, pero maldicen en suH6310
+- Sal_63:5con labios de júbilo te alabará mi bH6310
+- Sal_63:11la b de los que hablan mentira seráH6310
+- Sal_66:14habló mi b, cuando estaba angustiadoH6310
+- Sal_66:17a él clamé con mi b, y fue exaltadoH6310
+- Sal_69:15no me...ni el pozo cierre sobre mí su bH6310
+- Sal_71:8sea llena mi b de tu alabanza, de tuH6310
+- Sal_71:15b publicará tu justicia y tus hechosH6310
+- Sal_73:9ponen su b contra el cielo, y su lenguaH6310
+- Sal_78:1inclinad...oído a las palabras de mi bH6310
+- Sal_78:2abriré mi b en proverbios; hablaréH6310
+- Sal_78:30anhelo, aún estaba la comida en su bH6310
+- Sal_78:36pero le lisonjeaban con su b, y conH6310
+- Sal_81:10tu Dios...abre tu b, y yo la llenaréH6310
+- Sal_89:1haré notoria tu fidelidad con mi bH6310
+- Sal_103:5el que sacia de bien tu b de modo queH6310
+- Sal_105:5acordaos de...y de los juicios de su bH6310
+- Sal_107:42véanlo...todos los malos cierren su bH6310
+- Sal_109:2b de impío y b de engañador se hanH6310
+- Sal_109:30alabaré a Jehová en gran...con mi bH6310
+- Sal_115:5tienen b, mas no hablan; tienen ojosH6310
+- Sal_119:13he contado todos los juicios de tu bH6310
+- Sal_119:43no quites de mi b...palabra de verdadH6310
+- Sal_119:72mejor me es la ley de tu b que...oroH6310
+- Sal_119:88y guardaré los testimonios de tu bH6310
+- Sal_119:103dulces son...más que la miel a mi bH6310
+- Sal_119:108agradables los sacrificios...de mi bH6310
+- Sal_119:131mi b abrí y suspiré, porque deseabaH6310
+- Sal_126:2entonces nuestra b se llenará de risaH6310
+- Sal_135:16tienen b, y no hablan; tienen ojosH6310
+- Sal_135:17no oyen; tampoco hay aliento en sus bH6310
+- Sal_138:4porque han oído los dichos de tu bH6310
+- Sal_141:3pon guarda a mi b, oh Jehová; guardaH6310
+- Sal_141:7esparcidos nuestros huesos a la b delH6310
+- Sal_144:8cuya b habla vanidad, y cuya diestraH6310
+- Sal_144:11los...extraños, cuya b habla vanidadH6310
+- Sal_145:21la alabanza de Jehová proclamará mi bH6310
+- Pro_2:6y de su b viene el conocimiento y laH6310
+- Pro_4:5ni te apartes de las razones de mi bH6310
+- Pro_4:24aparta de ti la perversidad de la b, yH6310
+- Pro_5:7no os apartéis de las razones de mi bH6310
+- Pro_6:2has enlazado con las palabras de tu bH6310
+- Pro_6:12malo...el que anda en perversidad de bH6310
+- Pro_7:24y estad atentos a las razones de mi bH6310
+- Pro_8:7mi b hablará verdad, y la impiedadH2441
+- Pro_8:8justas son todas las razones de mi bH6310
+- Pro_8:13la soberbia...y la b perversa, aborrezcoH6310
+- Pro_10:6violencia cubrirá la b de los impíosH6310
+- Pro_10:11manantial de vida es la b del justoH6310
+- Pro_10:11violencia cubrirá la b de los impíosH6310
+- Pro_10:14la b del necio es calamidad cercanaH6310
+- Pro_10:31la b del justo producirá sabiduría; masH6310
+- Pro_10:32la b de los impíos habla perversidadesH6310
+- Pro_11:9el hipócrita con la b daña a su prójimoH6310
+- Pro_11:11por la b de los impíos será trastornadaH6310
+- Pro_12:6impíos...la b de los rectos los libraráH6310
+- Pro_12:14será saciado de bien del fruto de su bH6310
+- Pro_13:2del fruto de su b el hombre comerá elH6310
+- Pro_13:3el que guarda su b guarda su alma; masH6310
+- Pro_14:3en la b del necio está la vara de laH6310
+- Pro_15:2mas la b de los necios hablará sandecesH6310
+- Pro_15:7la b de los sabios esparce sabiduríaH8193
+- Pro_15:14mas la b de los necios se alimenta deH6310
+- Pro_15:23se alegra con la respuesta de su bH6310
+- Pro_15:28la b de los impíos derrama malas cosasH6310
+- Pro_16:10del rey; en juicio no prevaricará su bH6310
+- Pro_16:23corazón del sabio hace prudente su bH6310
+- Pro_16:26trabaja para...porque su b le estimulaH6310
+- Pro_18:4aguas profundas...las palabras de la bH6310
+- Pro_18:6traen contienda; y su b los azotes llamaH6310
+- Pro_18:7b del necio es quebrantamiento para síH6310
+- Pro_18:20del fruto de la b...llenará su vientreH6310
+- Pro_19:24su mano...y ni aun a su b la llevaráH6310
+- Pro_19:28b de los impíos encubrirá la iniquidadH6310
+- Pro_20:17pero después su b será llena de cascajoH6310
+- Pro_21:23el que guarda su b y su lengua, su almaH6310
+- Pro_22:14profunda es la b de la mujer extrañaH6310
+- Pro_24:7insensato...la puerta no abrirá él su bH6310
+- Pro_26:7, Pro_26:9así es el proverbio en la b del necioH6310
+- Pro_26:15su mano...se cansa de llevarla a su bH6310
+- Pro_26:28lengua...la b lisonjera hace resbalarH6310
+- Pro_27:2alábete el extraño, y no tu propia bH6310
+- Pro_27:21oro, y al hombre la b del que lo alaba
+- Pro_30:20come, y limpia su b y dice: No heH6310
+- Pro_30:32si...hacer mal, pon el dedo sobre tu bH6310
+- Pro_31:8abre tu b por el mudo en el juicio deH6310
+- Pro_31:9abre tu b, juzga...justicia, y defiendeH6310
+- Pro_31:26abre su b con sabiduría, y la ley deH6310
+- Ecl_5:2no te des prisa con tu b, ni tu corazónH6310
+- Ecl_5:6no dejes que tu b te haga pecar, ni digasH6310
+- Ecl_6:7todo el trabajo del hombre es para su bH6310
+- Ecl_10:12palabras de la b del sabio son llenasH6310
+- Ecl_10:13el principio de las palabras de su bH6310
+- Cnt_1:2oh, si él me besara con besos de su b![[H6310]]
+- Cnt_7:8vid, el olor de tu b como de manzanas
+- Isa_1:20porque la b de Jehová lo ha dichoH6310
+- Isa_5:14ensanchó...y sin medida extendió su bH6310
+- Isa_6:7tocando con él sobre mi b, dijo: He aquíH6310
+- Isa_9:12y a b llena devorarán a Israel. Ni conH6310
+- Isa_9:17son falsos...toda b habla despropósitosH6310
+- Isa_10:14y no hubo quien...abriese b y graznaseH6310
+- Isa_11:4y herirá la tierra con la vara de su bH6310
+- Isa_29:13este pueblo se acerca a mí con su bH6310
+- Isa_30:2se apartan...no han preguntado de mi bH6310
+- Isa_34:16su b mandó, y los reunió su...EspírituH6310
+- Isa_40:5verá; porque la b de Jehová ha habladoH6310
+- Isa_45:23de mi b salió palabra en justicia, yH6310
+- Isa_48:3lo dije, y de mi b salió; lo publiquéH6310
+- Isa_49:2puso mi b como espada aguda, me cubrióH6310
+- Isa_51:16en tu b he puesto mis palabras, y conH6310
+- Isa_52:15los reyes cerrarán ante él la b, porqueH6310
+- Isa_53:7angustiado...afligido, no abrió su bH6310
+- Isa_53:7como oveja...enmudeció, y no abrió su bH6310
+- Isa_53:9nunca hizo maldad, ni...engaño en su bH6310
+- Isa_55:11así será mi palabra que sale de mi bH6310
+- Isa_57:4¿contra quién ensanchasteis la b, YH6310
+- Isa_58:14porque la b de Jehová lo ha habladoH6310
+- Isa_59:21palabras...en tu b, no faltarán de tu bH6310
+- Isa_59:21ni de la b de tus hijos, ni de la b deH6310
+- Isa_62:2un nombre...que la b de Jehová nombraráH6310
+- Jer_1:9tocó mi b y...mis palabras en tu bH6310
+- Jer_5:14yo pongo mis palabras en tu b por fuegoH6310
+- Jer_7:28verdad, y de la b de ellos fue cortadaH6310
+- Jer_9:8con su b dice paz a su amigo, y dentroH6310
+- Jer_9:12¿y a quién habló la b de Jehová, paraH6310
+- Jer_9:20vuestro oído reciba la palabra de su bH6310
+- Jer_12:2cercano estás tu en sus b, pero lejosH6310
+- Jer_15:19y si entresacares lo...serás como mi bH6310
+- Jer_17:16lo que de mi b ha salido, fue en tuH8193
+- Jer_23:16hablan visión de...no de la b de JehováH6310
+- Jer_32:4hablará con él b a b, y sus ojos veránH6310
+- Jer_34:3rey...te hablará b a b, y en BabiloniaH6310
+- Jer_36:4escribió Baruc de b de Jeremías, en unH6310
+- Jer_36:6de este rollo que escribiste de mi bH6310
+- Jer_36:17cómo escribiste de b de Jeremías todasH6310
+- Jer_36:18dictaba de su b todas estas palabrasH6310
+- Jer_36:27palabras que...escrito de b de JeremíasH6310
+- Jer_36:32escribió en él de b de Jeremías todasH6310
+- Jer_44:17toda palabra que ha salido de nuestra bH6310
+- Jer_44:25vosotros...hablasteis con vuestras bH6310
+- Jer_44:26no será invocado...b de ningún hombreH6310
+- Jer_45:1escribía en...palabras de b de JeremíasH6310
+- Jer_48:28la paloma que hace nido en la b de laH6310
+- Jer_51:44sacaré de su b lo que se ha tragadoH6310
+- Lam_2:16tus enemigos abrieron contra ti su bH6310
+- Lam_3:29ponga su b en el polvo, por si aún hayH6310
+- Lam_3:38¿de la b del Altísimo no sale lo malo yH6310
+- Lam_3:46enemigos abrieron contra nosotros su bH6310
+- Eze_2:8tú...abre tu b, y come lo que yo te doyH6310
+- Eze_3:2abrí mi b, y me hizo comer aquel rolloH6310
+- Eze_3:3lo comí, y fue en mi b dulce como mielH6310
+- Eze_3:17oirás, pues, tú la palabra de mi bH6310
+- Eze_3:27cuando te hubiere hablado, abriré tu bH6310
+- Eze_4:14ni nunca en mi b entró carne inmundaH6310
+- Eze_16:56no era...digna de mención en tu b en elH6310
+- Eze_16:63y nunca más abras la b, a causa de tuH6310
+- Eze_24:27aquel día se abrirá tu b para hablarH6310
+- Eze_29:21abriré tu b en medio de ellos, y sabránH6310
+- Eze_33:7oirás la palabra de mi b...amonestarásH6310
+- Eze_33:22había abierto mi b...abrió mi b, y yaH6310
+- Eze_33:31hacen halagos con sus b, y el corazónH6310
+- Eze_34:10libraré mis ovejas de sus b, y no lesH6310
+- Eze_35:13os engrandecisteis...con vuestra b, yH6310
+- Eze_36:3se os ha hecho caer en b de habladoresH8193
+- Dan_4:31aún estaba la palabra en la b del reyH6433
+- Dan_6:22el cual cerró la b de los leones, para-6433
+- Dan_7:5tenía en su b tres costillas entre losH6433
+- Dan_7:8tenía...una b que hablaba grandes cosasH6433
+- Dan_7:20este mismo cuerno tenía ojos, y b queH6433
+- Dan_10:3ni entró en mi b carne ni vino, ni meH6310
+- Dan_10:16entonces abrí mi b y hablé, y dije alH6310
+- Ose_2:17quitaré de su b los nombres...baalesH6310
+- Ose_6:5con las palabras de mi b los maté; y tusH6310
+- Ose_8:1pon a tu b trompeta. Como águila vieneH2441
+- Joe_1:5bebéis vino...os es quitado de vuestra bH6310
+- Amó_3:12que el pastor libra de la b del leónH6310
+- Miq_4:4porque la b de Jehová...lo ha habladoH6310
+- Miq_6:12mentira, y su lengua es engañosa en su bH6310
+- Miq_7:5la que duerme...cuídate, no abras tu bH6310
+- Miq_7:16naciones...pondrán la mano sobre su bH6310
+- Nah_3:12caen en la b del que las ha de comerH6310
+- Sof_3:13mentira, ni en b de ellos se hallaráH6310
+- Zac_5:8echó la masa de plomo en la b del efaH6310
+- Zac_8:9los que oís en...de la b de los profetasH6310
+- Zac_9:7quitaré la sangre de su b...sus dientesH6310
+- Zac_14:12y la lengua se les deshará en su bH6310
+- Mal_2:6la ley de verdad estuvo en su b, eH6310
+- Mal_2:7de su b el pueblo buscará la ley; porqueH6310
+- Mat_4:4toda palabra que sale de la b de DiosG4750
+- Mat_5:2y abriendo su b les enseñaba, diciendoG4750
+- Mat_12:34de la abundancia del corazón habla la bG4750
+- Mat_13:35abriré en parábolas mi b; declararéG4750
+- Mat_15:11no lo que entra en la b contamina alG4750
+- Mat_15:11lo que sale de la b, esto contamina alG4750
+- Mat_15:17lo que entra en la b va al vientre, yG4750
+- Mat_15:18lo que sale de la b, del corazón saleG4750
+- Mat_17:27al abrirle la b, hallarás un estateroG4750
+- Mat_18:16para que en b de dos o tres testigosG4750
+- Mat_21:16la b de los niños y de los que mamanG4750
+- Luc_1:64fue abierta su b y suelta su lenguaG4750
+- Luc_1:70habló por b de sus santos profetas queG4750
+- Luc_4:22palabras de gracia que salían de su bG4750
+- Luc_6:45de la abundancia del corazón habla la bG4750
+- Luc_11:54cazar...palabra de su b para acusarleG4750
+- Luc_19:22mal siervo, por tu propia b te juzgoG4750
+- Luc_22:71nosotros mismos la hemos oído de su b
+- Jua_19:29en un hisopo, se la acercaron a la bG4750
+- Hec_1:16el Espíritu Santo habló antes por bG4750
+- Hec_3:18anunciado por b de todos sus profetasG4750
+- Hec_3:21de que habló Dios por b de sus santosG4750
+- Hec_4:25que por b de David tu siervo dijisteG4750
+- Hec_8:32a la muerte fue llevado...no abrió su bG4750
+- Hec_8:35Felipe, abriendo su b...le anunció elG4750
+- Hec_10:34Pedro, abriendo la b, dijo: En verdadG4750
+- Hec_11:8cosa común o inmunda entró...en mi bG4750
+- Hec_15:7los gentiles oyesen por mi b la palabraG4750
+- Hec_22:14que conozcas...y oigas la voz de su bG4750
+- Hec_23:2Ananías ordenó...le golpeasen en la bG4750
+- Rom_3:14b está llena de maldición...amarguraG4750
+- Rom_3:19lo dice...para que toda b se cierre yG4750
+- Rom_10:8cerca de ti...en tu b y en tu corazónG4750
+- Rom_10:9si confesares con tu b que Jesús es elG4750
+- Rom_10:10con la b se confiesa para salvaciónG4750
+- 2Co_6:11nuestra b se ha abierto a vosotrosG4750
+- 2Co_13:1por b de dos o de tres...decidirá todoG4750
+- Efe_4:29ninguna palabra...salga de vuestra bG4750
+- Efe_6:19que al abrir mi b me sea dada palabraG4750
+- Col_3:8palabras deshonestas de vuestra bG4750
+- 2Ts_2:8Señor matará con el espíritu de su bG4750
+- 2Ti_4:17así fui librado de la b del leónG4750
+- Tit_1:11a los cuales es preciso tapar la bG1993
+- Heb_11:33que por fe...taparon b de leonesG4750
+- Stg_3:3ponemos frenos en la b de los caballosG4750
+- Stg_3:10de una misma b proceden bendición yG4750
+- 1Pe_2:22no hizo...ni se halló engaño en su bG4750
+- Jud_1:16cuya b habla cosas infladas, adulandoG4750
+- Rev_1:16de su b salía una espada aguda de dosG4750
+- Rev_2:16pelearé contra ti con la espada de mi bG4750
+- Rev_3:16frío ni caliente, te vomitaré de mi bG4750
+- Rev_9:17y de su b salían fuego, humo y azufreG4750
+- Rev_9:18el humo y el azufre que salían de bG4750
+- Rev_9:19el poder de los caballos estaba en su bG4750
+- Rev_10:9pero en tu b será dulce como la mielG4750
+- Rev_10:10era dulce en mi b como la miel, peroG4750
+- Rev_11:5sale fuego de la b de ellos, y devora aG4750
+- Rev_12:15la serpiente arrojó de su b...agua comoG4750
+- Rev_12:16la tierra abrío su b y tragó el ríoG4750
+- Rev_12:16río que el dragón había echado de su bG4750
+- Rev_13:2era semejante a...y su b como b de leónG4750
+- Rev_13:5se le dio b que hablaba...blasfemiasG4750
+- Rev_13:6y abrió su b en blasfemias contra DiosG4750
+- Rev_14:5en sus b no fue hallada mentira, puesG4750
+- Rev_16:13salir...de la b del falso profeta, tresG4750
+- Rev_19:15de su b sale una espada aguda, paraG4750
+- Rev_19:21con la espada que salía de la b del queG4750

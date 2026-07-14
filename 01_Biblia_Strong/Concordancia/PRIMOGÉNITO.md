@@ -1,0 +1,128 @@
+---
+tipo: concordancia
+palabra: PRIMOGÉNITO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRIMOGÉNITO
+
+- Gén_4:4y Abel trajo...de los p de sus ovejasH1062
+- Gén_10:15y Canaán engendró a Sidón su p, a HetH1060
+- Gén_22:21Uz su p, Buz su hermano, Kemuel padreH1060
+- Gén_25:13el p de Ismael, Nebaiot; luego CedarH1060
+- Gén_27:19y Jacob dijo a su padre...soy Esaú tu pH1060
+- Gén_27:32él le dijo: Yo soy tu hijo, tu p, EsaúH1060
+- Gén_35:23los hijos de Lea: Rubén el p de JacobH1060
+- Gén_36:15hijos de Elifaz, p de Esaú: los jefesH1060
+- Gén_38:6después Judá tomó mujer para su p Er, laH1060
+- Gén_38:7Er, el p de Judá, fue malo ante los ojosH1060
+- Gén_41:51y llamó José el nombre del p, ManasésH1060
+- Gén_46:8que entraron en Egipto...Rubén, el p deH1060
+- Gén_48:14colocando así...aunque Manasés era el pH1060
+- Gén_48:18no así, padre mío, porque éste es el pH1060
+- Gén_49:3Rubén, tú eres mi p, mi fortaleza, y elH1060
+- Éxo_4:22Jehová ha dicho así: Israel es...mi pH1060
+- Éxo_4:23he aquí yo voy a matar a tu hijo, tu pH1060
+- Éxo_6:14los hijos de Rubén, el p de Israel: HanocH1060
+- Éxo_11:5morirá todo p en tierra de Egipto, desdeH1060
+- Éxo_11:5desde el p de Faraón...hasta el p de laH1060
+- Éxo_11:5y morirá todo...y todo p de las bestiasH1060
+- Éxo_12:12heriré a todo p en la tierra de EgiptoH1060
+- Éxo_12:29hirió a todo p en la tierra de EgiptoH1060
+- Éxo_12:29el p de Faraón...hasta el p del cautivoH1060
+- Éxo_12:29Jehová hirió a...todo p de los animalesH1060
+- Éxo_13:2conságrame todo p...los hijos de IsraelH1060
+- Éxo_13:13p de asno redimirás con un cordero; yH6363
+- Éxo_13:13también redimirás al p de tus hijosH1060
+- Éxo_13:15morir en la tierra de Egipto a todo pH1060
+- Éxo_13:15el p humano hasta el p de la bestiaH1060
+- Éxo_13:15yo sacrifico...p macho, y redimo al pH1060
+- Éxo_22:29tu lagar. Me darás el p de tus hijosH1060
+- Éxo_34:19mío es...todo p de vaca o de oveja, queH6363
+- Éxo_34:20redimirás con cordero el p del asno; yH6363
+- Éxo_34:20redimirás todo p de tus hijos; y ningunoH1060
+- Lev_27:26pero el p de los animales, que por laH1060
+- Núm_1:20los hijos de Rubén, p de Israel, porH1060
+- Núm_3:2son...Nadab el p, Abiú, Eleazar e ItamarH1060
+- Núm_3:12a los levitas...en lugar de todos los pH1060
+- Núm_3:13mío es todo p...todos los p en Israel, asíH1060
+- Núm_3:13hice morir a todos los p en la tierra deH1060
+- Núm_3:40cuenta todos los p varones de...de IsraelH1060
+- Núm_3:41levitas...en lugar de todos los p...los pH1060
+- Núm_3:42contó Moisés...p de los hijos de IsraelH1060
+- Núm_3:43y todos los p varones...de un mes arribaH1060
+- Núm_3:45los levitas en lugar de todos los p deH1060
+- Núm_3:46para el rescate de los 273 de los p deH1060
+- Núm_3:50recibió de los p de los hijos de IsraelH1060
+- Núm_8:16he tomado para mí en lugar de los p deH1060
+- Núm_8:17mío es todo p...día que herí a todo p enH1060
+- Núm_8:18tomado a los levitas en lugar de...los pH1060
+- Núm_18:15pero harás que se redima el p del hombreH1060
+- Núm_18:15harás redimir el p de animal inmundoH1060
+- Núm_18:17el p de vaca, el p de oveja y el p deH1060
+- Núm_26:5Rubén, p de Israel; los hijos de RubénH1060
+- Núm_33:4mientras enterraban los egipcios a...pH1060
+- Deu_15:19consagrarás a Jehová...todo p machoH1060
+- Deu_15:19no te servirás del p de tus vacas, ni...el pH1060
+- Deu_21:15si...el hijo p fuere de la aborrecidaH1060
+- Deu_21:16al hijo de la aborrecida, que es el pH1060
+- Deu_21:17al hijo de la...reconocerá como p, paraH1060
+- Deu_25:6el p que ella diere a luz sucederá en elH1060
+- Deu_33:17como el p de su toro es su gloria, y susH1060
+- Jos_6:26sobre su p eche los cimientos de ellaH1060
+- Jos_17:1p de José...Maquir, p de Manasés y padreH1060
+- Jue_8:20a Jeter su p: Levántate, y mátalosH1060
+- 1Sa_8:2el nombre de su hijo p fue Joel, y elH1060
+- 1Sa_17:13Eliab el p, el segundo Abinadab, y el
+- 2Sa_3:2su p fue Amnón, de Ahinoam jezreelitaH1060
+- 1Re_16:34a precio de...su p echó el cimientoH1060
+- 2Re_3:27arrebató a su p que había de reinarH1060
+- 1Cr_1:13Canaán engendró a Sidón su p, y aH1060
+- 1Cr_1:29el p de Ismael, Nebaiot; después CedarH1060
+- 1Cr_2:3Er, p de Judá, fue malo delante de JehováH1060
+- 1Cr_2:13Isaí engendró a Eliab su p, el segundoH1060
+- 1Cr_2:25de Jerameel p de Hezrón fueron Ram su pH1060
+- 1Cr_2:27hijos de Ram p de Jerameel fueron MaazH1060
+- 1Cr_2:42los hijos de Caleb...Mesa su p, que fueH1060
+- 1Cr_2:50hijos de Hur p de Efrata: Sobal padreH1060
+- 1Cr_3:1estos son los hijos de David...Amnón el pH1060
+- 1Cr_3:15y los hijos de Josías: Johanán su p, elH1060
+- 1Cr_4:4los hijos de Hur p de Efrata, padre deH1060
+- 1Cr_5:1, 1Cr_5:3los hijos de Rubén p de IsraelH1060
+- 1Cr_5:1él era p, mas como...no fue contado por pH1060
+- 1Cr_6:28los hijos de Samuel: el p Vasni, y AbíasH1060
+- 1Cr_8:1Benjamín engendró a Bela su p, Asbel elH1060
+- 1Cr_8:30hijo p Abdón, y Zur, Cis, Baal, NadabH1060
+- 1Cr_8:39los hijos de Esec...Ulam su p, Jehús elH1060
+- 1Cr_9:5los silonitas, Asaías el p, y sus hijosH1060
+- 1Cr_9:31Matatías...p de Salum coreíta, tenía a suH1060
+- 1Cr_9:36y su hijo p Abdón, luego Zur, Cis, BaalH1060
+- 1Cr_26:2los hijos de Meselemías: Zacarías el pH1060
+- 1Cr_26:4Semaías el p, Jozabad el segundo, JoaH1060
+- 1Cr_26:10no era el p, mas su padre lo puso porH1060
+- 2Cr_21:3el reino a Joram, porque él era el pH1060
+- Neh_10:36asimismo los p de nuestros hijos yH1060
+- Neh_10:36traeríamos los p de nuestras vacas yH1060
+- Job_1:13bebían vino en casa de su hermano el pH1060
+- Job_1:18bebiendo vino en casa de su hermano el pH1060
+- Job_18:13sus miembros devorará el p de la muerteH1060
+- Sal_78:51hizo morir a todo p en Egipto, lasH1060
+- Sal_89:27también le pondré por p, el más excelsoH1060
+- Sal_105:36hirió de muerte a todos los p en suH1060
+- Sal_135:8es quien hizo morir a los p de EgiptoH1060
+- Sal_136:10hirió a Egipto en sus p, porque paraH1060
+- Isa_14:30los p de los pobres serán apacentadosH1060
+- Jer_31:9Israel por padre, y Efraín es mi pH1060
+- Eze_20:26hacían pasar por el fuego a todo pH6363
+- Miq_6:7¿daré mi p por mi rebelión, el fruto deH1060
+- Zac_12:10por él como quien se aflige por el pH1060
+- Mat_1:25no la conoció hasta que dio a luz su...pG4416
+- Luc_2:7y dio a luz a su hijo p, y lo envolvióG4416
+- Rom_8:29que él sea el p entre muchos hermanosG4416
+- Col_1:15es la imagen...el p de toda creaciónG4416
+- Col_1:18el p de entre los muertos, para que enG4416
+- Heb_1:6vez, cuando introduce al P en el mundoG4416
+- Heb_11:28el que destruía a los p no los tocaseG4416
+- Heb_12:23a la congregación de los p que estánG4416
+- Rev_1:5el p de los muertos, y el soberano deG4416

@@ -1,0 +1,349 @@
+---
+tipo: concordancia
+palabra: SENTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SENTAR
+
+- Gén_8:9no halló la paloma donde sentar...su pieH4494
+- Gén_18:1sentado a la puerta de su tienda en elH3427
+- Gén_19:1Lot estaba sentado a la puerta de SodomaH3427
+- Gén_21:16fue y se sentó enfrente, a distancia deH3427
+- Gén_21:16y cuando ella se sentó enfrente...lloróH3427
+- Gén_27:19siéntate, y come de mi caza, para queH3427
+- Gén_31:34los puso en una...y se sentó sobre ellosH3427
+- Gén_37:25se sentaron a comer pan; y alzando losH3427
+- Gén_43:33y se sentaron delante de él, el mayorH3427
+- Gén_48:2se esforzó Israel, y se sentó sobre laH3427
+- Éxo_2:16estando sentado junto al pozo, sieteH3427
+- Éxo_11:5el primogénito de Faraón que se sientaH3427
+- Éxo_12:29desde...que se sentaba sobre su tronoH3427
+- Éxo_16:3sentábamos a las ollas de carne, cuandoH3427
+- Éxo_17:12tomaron una piedra...se sentó sobre ellaH3427
+- Éxo_18:13día siguiente se sentó Moisés a juzgarH3427
+- Éxo_18:14¿por qué te sientas tú solo, y todo elH3427
+- Éxo_32:6se sentó el pueblo a comer y a beber, yH3427
+- Lev_15:4sobre que se sentare, inmunda seráH3427
+- Lev_15:6que se sentare...que se hubiere sentadoH3427
+- Lev_15:20todo aquello sobre que se sentare seráH3427
+- Lev_15:22mueble sobre que ella se hubiere sentadoH3427
+- Lev_15:23la silla en que ella se hubiere sentadoH3427
+- Lev_15:26todo mueble sobre que se sentare...seráH3427
+- Deu_11:19hablando de ellas cuando te sientesH3427
+- Deu_17:18cuando se siente sobre el trono de suH3427
+- Deu_28:56la planta...intentaría sentar sobre laH3427
+- Jue_3:20se le acercó Aod, estando él sentadoH3427
+- Jue_4:5y acostumbraba sentarse bajo la palmeraH3427
+- Jue_6:11vino el ángel...y se sentó debajo de laH3427
+- Jue_19:6se sentaron ellos...comieron y bebieronH3427
+- Jue_19:15se sentaron en la plaza de la ciudadH3427
+- Jue_20:26se sentaron allí en presencia de JehováH3427
+- Rut_2:14y ella se sentó junto a los segadoresH3427
+- Rut_4:1Booz subió a la puerta y se sentó allíH3427
+- Rut_4:1ven acá y siéntate...y él vino y se sentóH3427
+- Rut_4:2dijo: Sentaos aquí...Y ellos se sentaronH3427
+- Rut_4:4presencia de los que están aquí sentados
+- 1Sa_1:9Elí estaba sentado en una silla juntoH3427
+- 1Sa_2:8hacerle sentarse con príncipes y heredar
+- 1Sa_4:13llegó...Elí estaba sentado en una sillaH3427
+- 1Sa_16:11no nos sentaremos...hasta que él vengaH5437
+- 1Sa_19:9sentado en su casa tenía una lanza a manoH5437
+- 1Sa_20:5acostumbro sentarme con el rey a comerH3427
+- 1Sa_20:24nueva luna, se sentó el rey a comer panH3427
+- 1Sa_20:25el rey se sentó en su silla, como solíaH3427
+- 1Sa_20:25y se sentó Abner al lado de Saúl, y elH3427
+- 1Sa_22:6Saúl estaba sentado en Gabaa, debajo de
+- 1Sa_24:3estaban sentados en los rincones de laH3427
+- 1Sa_28:23se levantó...y se sentó sobre una camaH3427
+- 2Sa_18:24David estaba sentado entre las dosH3427
+- 2Sa_19:8se levantó el rey y se sentó a la puertaH3427
+- 2Sa_19:8he aquí el rey está sentado a la puertaH3427
+- 1Re_1:13él se sentará en mi trono? ¿Por quéH3427
+- 1Re_1:17Salomón tu hijo...se sentará en mi tronoH3427
+- 1Re_1:20se ha de sentar en el trono de mi señorH3427
+- 1Re_1:24dicho tú: Adonías...sentará en mi trono?[[H3427]]
+- 1Re_1:27quién se había de sentar en el trono deH3427
+- 1Re_1:30él se sentará en mi trono en lugar míoH3427
+- 1Re_1:35y vendrá y se sentará en mi trono, y élH3427
+- 1Re_1:46Salomón se ha sentado en el trono delH3427
+- 1Re_1:48ha dado hoy quien se siente en mi tronoH3427
+- 1Re_2:12se sentó Salomón en el trono de DavidH3427
+- 1Re_2:19y el rey...volvió a sentarse en su tronoH3427
+- 1Re_2:19Betsabé...la cual se sentó a su diestraH3427
+- 1Re_3:6le diste hijo que se sentase en su tronoH3427
+- 1Re_8:20y me he sentado en el trono de IsraelH3427
+- 1Re_8:25varón...se siente en el trono de IsraelH3427
+- 1Re_13:14le halló sentado debajo de una encinaH3427
+- 1Re_16:11estuvo sentado en su trono, mató a todaH3427
+- 1Re_19:4él se fue...y se sentó debajo de un enebroH3427
+- 1Re_21:13vinieron...y se sentaron delante de élH3427
+- 1Re_22:10el rey...estaban sentados cada uno en suH3427
+- 1Re_22:19vi a Jehová sentado en su trono, y todoH3427
+- 2Re_1:9estaba sentado en la cumbre del monteH3427
+- 2Re_4:20estuvo sentado en sus rodillas hasta elH3427
+- 2Re_6:32Eliseo estaba sentado en su casa, y conH3427
+- 2Re_6:32y con él estaban sentados los ancianosH3427
+- 2Re_9:5príncipes del ejército...estaban sentadosH3427
+- 2Re_10:30tus hijos se sentarán sobre el tronoH3427
+- 2Re_11:19y se sentó el rey en el trono de losH3427
+- 2Re_13:13se sentó Jeroboam sobre su trono; y JoásH3427
+- 2Re_15:12tus hijos...se sentarán en el trono deH3427
+- 1Cr_28:5eligió...Salomón para que se sienteH3427
+- 1Cr_29:23se sentó Salomón por rey en el trono deH3427
+- 2Cr_6:10me he sentado en el trono de IsraelH3427
+- 2Cr_6:16varón...se siente en el trono de IsraelH3427
+- 2Cr_18:9estaban sentados cada uno en su tronoH3427
+- 2Cr_18:18he visto a Jehová sentado en su tronoH3427
+- 2Cr_23:20sentaron...rey sobre el trono del reinoH3427
+- Esd_9:3oí...y me senté angustiado en extremoH3427
+- Esd_10:9se sentó todo el pueblo en la plaza deH3427
+- Esd_10:16sentaron el primer día del mes décimoH3427
+- Neh_1:4cuando oí estas palabras me senté yH3427
+- Neh_2:6dijo (y la reina estaba sentada junto a élH3427
+- Est_1:14y se sentaban los primeros del reinoH3427
+- Est_2:19Mardoqueo estaba sentado a la puerta delH3427
+- Est_2:21Mardoqueo sentado a la puerta del reyH3427
+- Est_3:15el rey y Amán se sentaron a beber; peroH3427
+- Est_5:1estaba el rey sentado en su trono en elH3427
+- Est_5:13vez que veo al judío Mardoqueo sentadoH3427
+- Est_6:10con el judío Mardoqueo, que se sienta aH3427
+- Job_2:8Job...estaba sentado en medio de cenizaH3427
+- Job_2:13así se sentaron con él...por siete díasH3427
+- Job_29:25y me sentaba entre ellos como el jefeH3427
+- Sal_1:1ni en silla de escarnecedores...sentadoH3427
+- Sal_7:7y sobre ella vuélvete a sentar en alto
+- Sal_9:4te has sentado en el trono juzgando conH3427
+- Sal_10:8se sienta en acecho cerca de las aldeasH3427
+- Sal_26:4no me he sentado con hombres hipócritasH3427
+- Sal_26:5malignos, y con...impíos nunca me sentéH3427
+- Sal_29:10se sienta Jehová como rey para siempreH3427
+- Sal_47:8reinó...se sentó Dios sobre su santo tronoH3427
+- Sal_69:12hablaban...que se sentaban a la puertaH3427
+- Sal_99:1él está sentado sobre los querubines, seH3427
+- Sal_110:1dijo a mi Señor: Siéntate a mi diestraH3427
+- Sal_113:5nuestro Dios, que se sienta en...alturasH3427
+- Sal_113:8hacerlos sentar con los príncipes, conH3427
+- Sal_119:23también se sentaron y hablaron contraH3427
+- Sal_132:12sus hijos...se sentarán sobre tu tronoH3427
+- Sal_137:1allí nos sentábamos, y aun llorábamosH3427
+- Sal_139:2conocido mi sentarme y mi levantarmeH3427
+- Pro_9:14se sienta en una silla a la puerta deH3427
+- Pro_20:8rey que se sienta en el trono de juicioH3427
+- Pro_23:1cuando...sientes a comer con algún señorH3427
+- Pro_31:23su marido es conocido...cuando se sientaH3427
+- Ecl_10:6los ricos están sentados en lugar bajoH3427
+- Cnt_2:3bajo la sombra del deseado me sentéH3427
+- Isa_3:26ella, desamparada, se sentará en tierraH3427
+- Isa_6:1vi...al Señor sentado sobre un trono altoH3427
+- Isa_10:13y derribé...a los que estaban sentados
+- Isa_14:13en el monte del testimonio me sentaréH3427
+- Isa_16:5y sobre él se sentará firmemente, en elH3427
+- Isa_28:6espíritu de juicio al que se sienta enH3427
+- Isa_40:22sentado sobre el círculo de la tierraH3427
+- Isa_47:1desciende y siéntate en...S en la tierraH3427
+- Isa_47:5siéntate, calla, y entra en tinieblasH3427
+- Isa_47:8tú que estás sentada confiadamente, túH3427
+- Isa_47:14brasa...ni lumbre a la cual se sientenH3427
+- Isa_52:2levántate y siéntate, Jerusalén; sueltaH3427
+- Jer_3:2junto a los caminos te sentabas paraH3427
+- Jer_8:14¿por qué nos estamos sentados? ReuníosH3427
+- Jer_13:13de David que se sientan sobre su tronoH3427
+- Jer_13:18humillaos, sentaos en tierra; porque laH3427
+- Jer_14:2se sentaron tristes en tierra, y subió
+- Jer_15:17no me senté en compañía de burladoresH3427
+- Jer_15:17me senté solo, porque me llenaste deH3427
+- Jer_16:8en casa de banquete, para sentarte conH3427
+- Jer_17:25los reyes y los príncipes que se sientanH3427
+- Jer_22:2oh rey de Judá que estás sentado sobreH3427
+- Jer_22:4los reyes que...se sientan sobre su tronoH3427
+- Jer_22:30ninguno de su...logrará sentarse sobreH3427
+- Jer_26:10se sentaron en la entrada de la puertaH3427
+- Jer_29:16acerca del rey que está sentado sobreH3427
+- Jer_33:17no faltará a David varón que se sienteH3427
+- Jer_36:12todos los príncipes estaban allí sentadosH3427
+- Jer_36:15y le dijeron: Siéntate ahora, y léeloH3427
+- Jer_36:30no tendrá quien...siente sobre el tronoH3427
+- Jer_38:7y estando sentado el rey a la puerta deH3427
+- Jer_48:18desciende de...siéntate en tierra secaH3427
+- Lam_2:10se sentaron en tierra, callaron losH3427
+- Lam_3:28que se siente solo y calle, porque esH3427
+- Lam_3:63su sentarse y su levantarse mira; yo soyH3427
+- Eze_1:26que parecía de hombre sentado sobre él
+- Eze_3:15y me senté donde ellos estaban sentadosH3427
+- Eze_8:1yo sentado en mi casa, y los ancianos deH3427
+- Eze_8:1y los ancianos de Judá estaban sentadosH3427
+- Eze_8:14estaban allí sentadas endechando a TamuzH3427
+- Eze_14:1vinieron...de los ancianos...se sentaronH3427
+- Eze_20:1que vinieron...se sentaron delante de míH3427
+- Eze_23:41te sentaste sobre suntuoso estrado, yH3427
+- Eze_26:16se sentarán sobre la tierra...atónitosH3427
+- Eze_28:2y en el trono de Dios estoy sentado enH3427
+- Eze_44:3se sentará allí para comer pan delanteH3427
+- Dan_7:9y se sentó un Anciano de díasH3488
+- Dan_7:10el Juez se sentó y los libros fueronH3488
+- Dan_7:26pero se sentará el Juez, y le quitaránH3488
+- Ose_14:7volverán y se sentarán bajo su sombra
+- Joe_3:12me sentaré para juzgar...las nacionesH3427
+- Jon_3:6y se cubrió...y se sentó sobre cenizaH3427
+- Jon_4:5Jonás...sentó debajo de ella a la sombraH3427
+- Miq_4:4se sentará cada uno debajo de su vid yH3427
+- Nah_3:17langostas que se sientan en valladosH2583
+- Zac_3:8tus amigos que se sientan delante deH3427
+- Zac_5:7y una mujer estaba sentada en medio deH3427
+- Zac_6:13y se sentará y dominará en su trono, yH3427
+- Mal_3:3y se sentará para...y limpiar la plataH3427
+- Mat_5:1y sentándose, vinieron...sus discípulosG2523
+- Mat_8:11y se sentarán con Abraham...en el reinoG347
+- Mat_9:9estaba sentado al banco de los tributosG2521
+- Mat_9:10que estando él sentado a la mesa en laG345
+- Mat_9:10se sentaron a la mesa con Jesús y susG4873
+- Mat_11:16muchachos que se sientan en las plazasG2521
+- Mat_13:1salió Jesús de...y se sentó junto al marG2521
+- Mat_13:2se sentó, y toda la gente estaba en laG2521
+- Mat_13:48y sentados, recogen lo bueno en cestasG2523
+- Mat_15:29vino...subiendo al monte, se sentó allíG2521
+- Mat_19:28cuando el Hijo, se siente en el tronoG2523
+- Mat_19:28también os sentaréis sobre doce tronosG2523
+- Mat_20:21en tu reino se sienten estos dos hijosG2523
+- Mat_20:23sentaros a mi derecha y a mi izquierdaG2523
+- Mat_20:30y dos ciegos...sentados junto al caminoG2521
+- Mat_21:5manso, y sentado sobre una asna, sobreG1910
+- Mat_21:7pusieron...mantos: y él se sentó encimaG1940
+- Mat_22:44siéntate a mi derecha, hasta que pongaG2521
+- Mat_23:2en la cátedra de Moisés se sientan losG2523
+- Mat_23:22jura...por aquel que está sentado en élG2521
+- Mat_24:3y estando él sentado en el monte de losG2521
+- Mat_25:31venga...se sentará en su trono de gloriaG2523
+- Mat_26:7y lo derramó...estando sentado a la mesaG345
+- Mat_26:20noche, se sentó a la mesa con los doceG345
+- Mat_26:36sentaos aquí, entre tanto que voy allíG2523
+- Mat_26:55me sentaba con vosotros enseñando en elG2516
+- Mat_26:58y entrando, se sentó con los alguacilesG2521
+- Mat_26:64al Hijo...sentado a la diestra del poderG2521
+- Mat_26:69Pedro estaba sentado fuera en el patioG2521
+- Mat_27:19estando él sentado en el tribunal, suG2521
+- Mat_27:36y sentados le guardaban allíG2521
+- Mat_27:61estaban...sentados delante del sepulcroG2521
+- Mat_28:2llegando, removió la piedra, y se sentóG2521
+- Mar_2:6allí sentados algunos de los escribasG2521
+- Mar_2:14al pasar, vio a Leví...sentado al bancoG2521
+- Mar_3:32la gente que estaba sentada...le dijo: TuG2521
+- Mar_3:34y mirando a los que estaban sentadosG2521
+- Mar_4:1en una barca, sentó en ella en el marG2521
+- Mar_5:15sentado, vestido y en su juicio cabalG2521
+- Mar_9:35se sentó y llamó a los doce, y les dijoG2523
+- Mar_10:37en tu gloria nos sentemos el uno a tuG2523
+- Mar_10:40sentaros a mi derecha y a mi izquerdaG2523
+- Mar_10:46Bartimeo el...sentado junto al caminoG2521
+- Mar_11:7trajeron el pollino...y se sentó sobre élG2523
+- Mar_12:36siéntate a mi diestra, hasta que pongaG2521
+- Mar_12:41estando Jesús sentado delante del arcaG2523
+- Mar_13:3sentó en el monte de los Olivos, frenteG2521
+- Mar_14:3estando él...sentado a la mesa, vino unaG2621
+- Mar_14:18cuando se sentaron a la mesa, mientrasG345
+- Mar_14:32sentaos aquí, entre tanto que yo oroG2523
+- Mar_14:54y estaba sentado con los alguacilesG4775
+- Mar_14:62y veréis al Hijo...sentado a la diestraG2521
+- Mar_16:5vieron a un joven sentado...lado derechoG2521
+- Mar_16:14se apareció a...estando ellos sentadosG345
+- Mar_16:19cielo, y se sentó a la diestra de DiosG2523
+- Luc_2:46sentado en medio de los doctores de laG2516
+- Luc_4:20enrollando el libro, lo dio...y se sentóG2523
+- Luc_5:3y sentándose, enseñaba desde la barca aG2523
+- Luc_5:17un día...y estaban sentados los fariseosG2521
+- Luc_5:27Leví, sentado al banco de los tributosG2521
+- Luc_7:32semejantes son a los muchachos sentadosG2521
+- Luc_7:36en casa del fariseo, se sentó a la mesaG347
+- Luc_7:49y los que estaban...sentados a la mesaG4873
+- Luc_8:35sentado a los pies de Jesús, vestido, yG2521
+- Luc_9:14hacedlos sentar en grupos, de 50 en 50G2625
+- Luc_9:15lo hicieron...haciéndolos sentar a todosG347
+- Luc_10:13que sentadas en...se habrían arrepentidoG2521
+- Luc_10:39sentándose a los pies de Jesús, oía suG3869
+- Luc_11:37entrando Jesús en la casa, se sentó aG377
+- Luc_12:37que se sienten a la mesa, y vendrá aG347
+- Luc_13:29y se sentarán a la mesa en el reino deG347
+- Luc_14:8bodas, no te sientes en el primer lugarG2625
+- Luc_14:10mas...vé y siéntate en el último lugarG377
+- Luc_14:10gloria delante de los que se sientanG4873
+- Luc_14:15uno de los que estaban sentados con élG4873
+- Luc_14:28se sienta...y calcula los gastos, a verG2523
+- Luc_14:31se sienta...y considera si puede hacerG2523
+- Luc_16:6siéntate pronto, y escribe cincuentaG2523
+- Luc_17:7al volver él...Pasa, siéntate a la mesa?[[G377]]
+- Luc_18:35un ciego estaba sentado junto al caminoG2521
+- Luc_20:42dijo el Señor a...Siéntate a mi diestraG2521
+- Luc_22:14sentó a la mesa, y con él los apóstolesG377
+- Luc_22:27¿cuál es mayor, el que se sienta a laG345
+- Luc_22:27¿no es el que se sienta a la mesa? MasG345
+- Luc_22:30y os sentéis en tronos juzgando a lasG2523
+- Luc_22:55se sentaron alrededor; y Pedro se sentóG2521
+- Luc_22:56al verle sentado al fuego, se fijó enG2521
+- Luc_22:69sentará a la diestra del poder de DiosG2521
+- Luc_24:30que estando sentado con ellos a la mesaG2625
+- Jua_2:14halló...a los cambistas allí sentadosG2521
+- Jua_4:6Jesús, cansado...sentó así junto al pozoG2516
+- Jua_6:3Jesús...se sentó allí con sus discípulosG2521
+- Jua_8:2pueblo vino...y sentado él, les enseñabaG2523
+- Jua_9:8¿no es...el que se sentaba y mendigaba?[[G2521]]
+- Jua_12:2Lázaro era uno de...sentados a la mesaG4873
+- Jua_19:13y se sentó en el tribunal en el lugarG2523
+- Jua_20:12estaban sentados el uno a la cabeceraG2516
+- Hec_2:2llenó...la casa donde estaban sentadosG2521
+- Hec_2:30Cristo para que se sentase en su tronoG2523
+- Hec_2:34siéntate a mi diestra, hasta que pongaG2521
+- Hec_3:10era el que se sentaba a pedir limosnaG2521
+- Hec_6:15los que estaban sentados en el concilioG2521
+- Hec_8:28volvía sentado en su carro, y leyendo alG2521
+- Hec_8:31rogó a Felipe que...y se sentara con élG2523
+- Hec_12:21Herodes...se sentó en el tribunal y lesG2523
+- Hec_13:14entraron en la sinagoga...y se sentaronG2523
+- Hec_14:8cierto hombre de Listra estaba sentadoG2521
+- Hec_16:13y sentándonos, hablamos a las mujeresG2523
+- Hec_20:9y un joven...estaba sentado en la ventanaG2521
+- Hec_23:3le dijo...¿Estás tú sentado para juzgarmeG2521
+- Hec_25:6al siguiente día se sentó en el tribunalG2523
+- Hec_25:17sentado en el tribunal, mandé traer alG2523
+- Hec_26:30y los que se habían sentado con ellosG4775
+- 1Co_8:10alguno te ve...sentado a la mesa enG2621
+- 1Co_10:7se sentó el pueblo a comer y a beber, yG2523
+- 1Co_14:30a otro que estuviere sentado, calle elG2521
+- Efe_1:20sentándole a su diestra en los lugaresG2523
+- Efe_2:6nos hizo sentar en los lugares celestialesG4776
+- Col_3:1donde está Cristo sentado a la diestraG2521
+- 2Ts_2:4tanto que se sienta en el templo deG2523
+- Heb_1:3se sentó la diestra de la Majestad enG2523
+- Heb_1:13siéntate a mi diestra, hasta que ponga aG2521
+- Heb_8:1el cual se sentó a la diestra del tronoG2523
+- Heb_10:12vez...se ha sentado a la diestra del trono de DiosG2523
+- Heb_12:2se sentó a la diestra del trono de DiosG2523
+- Stg_2:3y le decís: Siéntate tú aquí en buenG2521
+- Stg_2:3en pie, o siéntate aquí bajo mi estradoG2521
+- Rev_3:21daré que se siente conmigo en mi tronoG2523
+- Rev_3:21me he sentado con mi Padre en su tronoG2523
+- Rev_4:2aquí un trono...en el trono, uno sentadoG2521
+- Rev_4:3y el aspecto del que estaba sentado eraG2521
+- Rev_4:4vi sentados en los tronos a 24 ancianosG2521
+- Rev_4:9y acción de gracias al que está sentado en el tronoG2521
+- Rev_4:10postran delante del que está sentado enG2521
+- Rev_5:1y vi en la mano...del que estaba sentadoG2521
+- Rev_5:7y tomó el libro...del que estaba sentadoG2521
+- Rev_5:13oí decir: Al que está sentado en el tronoG2521
+- Rev_6:16de aquel que está sentado sobre el tronoG2521
+- Rev_7:10Dios que está sentado en el trono, y alG2521
+- Rev_7:15el que está sentado...trono extenderá suG2521
+- Rev_11:16los 24 ancianos que estaban sentadosG2521
+- Rev_14:14y sobre la nube uno sentado semejanteG2521
+- Rev_14:15clamando...al que estaba sentado sobreG2521
+- Rev_14:16estaba sentado sobre la nube metió suG2521
+- Rev_17:1la que está sentado sobre muchas aguasG2521
+- Rev_17:3vi a una mujer sentada sobre una bestiaG2521
+- Rev_17:9montes, sobre los cuales se sienta laG2521
+- Rev_17:15las aguas...donde la ramera se sientaG2521
+- Rev_18:7yo estoy sentada como reina, y no soyG2521
+- Rev_19:4adoraron a Dios, que estaba sentado enG2521
+- Rev_20:4vi tronos, y se sentaron sobre ellos losG2523
+- Rev_20:11trono blanco y al que estaba sentadoG2521
+- Rev_21:5el que estaba sentado en el trono dijoG2521

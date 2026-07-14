@@ -1,0 +1,92 @@
+---
+tipo: concordancia
+palabra: ABUNDANCIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ABUNDANCIA
+
+- Gén_27:28Dios...te dé...a de trigo y de mostoH7230
+- Gén_41:29he aquí vienen siete años de gran aH7647
+- Gén_41:30toda la a será olvidada en la tierraH7647
+- Gén_41:31aquella a no se echará de ver, a causaH7647
+- Gén_41:34quinte la tierra...siete años de la aH7647
+- Gén_41:47siete años de a la tierra produjo aH7647
+- Gén_41:48de los siete años de a que hubo en laH7647
+- Gén_41:53así se cumplieron los siete años de aH7647
+- Gén_45:18venid...comeréis de la a de la tierraH2459
+- Deu_15:4Jehová te bendecirá con a en la tierraH1288
+- Deu_16:10de la a...de tu mano será lo que dieresH4530
+- Deu_17:17plata ni oro amontonará para sí en aH3966
+- Deu_28:47con gozo...por la a de todas las cosasH7230
+- Deu_33:15y con la a de los collados eternosH4022
+- Deu_33:19por lo cual chuparán la a de los maresH8228
+- 1Re_10:2vino a Jerusalén con...oro en gran aH3966, [[H7227]]
+- 1Re_10:27cedros...cabrahigos de la Sefela en aH7230
+- 1Cr_12:40trajeron...y bueyes y ovejas en aH7230
+- 1Cr_22:4habían traído a David a de madera deH4557
+- 1Cr_22:5David antes...hizo preparativos en gran aH7230
+- 1Cr_29:2toda clase de...piedras de mármol en aH7230
+- 1Cr_29:16esta a...de tu mano es, y todo es tuyoH1995
+- 2Cr_1:15y acumuló el rey plata...cedro...en aH7230
+- 2Cr_9:1la reina de Sabá...vino...con oro en a, yH7230
+- 2Cr_9:27cedros como los cabrahigos de la...en aH7230
+- 2Cr_11:23dio provisiones en a, y muchas mujeresH7230
+- 2Cr_17:5Josafat...tuvo riquezas y gloria en aH7230
+- 2Cr_18:1tenía...Josafat riquezas y gloria en aH7230
+- 2Cr_29:35hubo a de holocaustos, con grosura deH7230
+- 2Cr_31:5trajeron...en a los diezmos de todas lasH7235
+- 2Cr_31:10y ha quedado esta a de provisionesH7230
+- 2Cr_32:29adquirid...hatos de ovejas...en gran aH7230
+- Neh_5:18cada diez días vino en toda a; y con
+- Job_20:22el colmo de su a padecerá estrechezH5607
+- Job_22:11para que no veas, y a de agua te cubreH8229
+- Job_22:25será tu defensa, y tendrás plata en aH8443
+- Job_36:28nubes, goteando en a sobre los hombresH7227
+- Sal_5:7por la a de tu misericordia entraréH7230
+- Sal_37:11los mansos...se recrearán con a de pazH7230
+- Sal_66:12pasamos por el fuego...nos sacaste a aH7310
+- Sal_69:13oh Dios, por la a de tu misericordiaH7230
+- Sal_73:10aguas en a serán extraídas para ellosH4392
+- Sal_80:5les diste...a beber lágrimas en gran aH7991
+- Pro_3:10serán llenos tus graneros con a, y tusH7647
+- Pro_14:4por la fuerza del buey hay a de panH8393
+- Pro_21:5los pensamientos del...tienden a la aH4195
+- Pro_27:27a de leche de...para tu mantenimientoH1767
+- Ecl_5:12pero al rico no le deja dormir la aH7647
+- Cnt_5:1comed, amigos; bebed en a, oh amadosH7937
+- Isa_7:22y a causa de la a de leche que daránH7230
+- Isa_33:6reinarán...la ciencia, y a de salvaciónH2633
+- Jer_2:7os introduje en tierra de a, para queH3759
+- Jer_8:16vinieron y devoraron la tierra y su aH4393
+- Jer_31:14el alma del sacerdote satisfaré con aH1880
+- Jer_33:6y lo revelaré a de paz y de verdadH6283
+- Jer_44:17tuvimos a de pan, y estuvimos alegresH7646
+- Eze_16:49y a de ociosidad tuvieron ella y susH7962
+- Eze_27:12Tarsis comerciaba contigo por la a deH7230
+- Eze_27:18por la a de toda tu riqueza; con vinoH7230
+- Dan_11:24estando la provincia en...a, entraráH4924
+- Ose_10:1conforme a la a de su fruto...altaresH7230
+- Nah_2:12el león arrebataba en a para susH1767
+- Zac_1:17rebosarán mis ciudades con la a delH2896
+- Zac_14:14plata, y ropas de vestir, en gran aH7230
+- Mal_2:15hizo...habiendo en él a de espíritu?[[H7605]]
+- Mat_12:34; Luc_6:45de la a del corazón hablaG4051
+- Luc_12:15la vida...no consiste en la a de losG4052
+- Luc_15:17en casa de mi padre tienen a de panG4052
+- Jua_10:10tengan vida, y...que la tengan en aG4053
+- Hec_15:32confirmaron a los...con a de palabrasG4183
+- Hec_20:2exhortarles con a de palabras, llegó aG4183
+- Rom_5:17los que reciben la a de la gracia yG4050
+- Rom_15:29con a de la bendición del evangelioG4138
+- 2Co_8:2a de su gozo y su profunda pobrezaG4050
+- 2Co_8:14la a vuestra supla la escasez de ellosG4051
+- 2Co_8:14la a de ellos supla la necesidad vuestraG4051
+- Flp_4:12sé vivir humildemente, y sé tener aG4052
+- Flp_4:12para tener a como para padecer necesidadG4052
+- Flp_4:18pero todo lo he recibido, y tengo aG4052
+- Col_3:16la palabra de Cristo more en a enG4146
+- 1Ti_6:17que nos da todas las cosas en a paraG4146
+- Heb_6:14te bendeciré con a y te multiplicaréG4129
+- Stg_1:21desechando...a de malicia, recibid conG4050

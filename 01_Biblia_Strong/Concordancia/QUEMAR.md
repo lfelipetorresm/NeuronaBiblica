@@ -1,0 +1,223 @@
+---
+tipo: concordancia
+palabra: QUEMAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# QUEMAR
+
+- Gén_38:24y Judá dijo: Sacadla, y sea quemadaH8313
+- Éxo_3:3veré...qué causa la zarza no se quemaH1197
+- Éxo_12:10lo que quedare...quemaréis en el fuegoH8313
+- Éxo_22:6cuando...al quemar espinos quemare miesesH3318
+- Éxo_22:6que encendió el fuego pagará lo quemadoH7999
+- Éxo_29:13la grosura...lo quemarás sobre el altarH6999
+- Éxo_29:14quemarás a fuego fuera del campamentoH8313
+- Éxo_29:18y quemarás...el carnero sobre el altarH5930
+- Éxo_29:18el carnero...es ofrenda quemada a JehováH5930
+- Éxo_29:34quemarás al fuego lo...hubiere sobradoH8313
+- Éxo_30:1harás...un altar para quemar el inciensoH4729
+- Éxo_30:7quemará incienso...cuando aliste...lo qH6999
+- Éxo_30:8al anochecer, quemará el incienso; ritoH6999
+- Éxo_30:20para quemar la ofrenda encendida paraH6999
+- Éxo_32:20tomó el becerro...lo quemó en el fuegoH8313
+- Éxo_40:27quemó sobre él incienso aromático, comoH6999
+- Lev_2:3, Lev_2:10de las ofrendas que se queman paraH6999
+- Lev_2:11ninguna miel, se ha de quemar ofrendaH6999
+- Lev_3:16vianda es...que se quema en olor gratoH6999
+- Lev_4:12lo quemará al fuego sobre la leña; enH8313
+- Lev_4:12donde se echan las cenizas será quemadoH8313
+- Lev_4:21lo quemará como quemó el primer becerroH8313
+- Lev_4:26quemará toda su grosura sobre el altarH6999
+- Lev_6:12y quemará sobre él las grosuras de losH6999
+- Lev_6:22es estatuto perpetuo de...será quemadaH6999
+- Lev_6:23toda ofrenda de sacerdote será...quemada
+- Lev_6:30mas no se comerá...al fuego será quemadaH8313
+- Lev_7:17lo que quedare...será quemado en el fuegoH8313
+- Lev_7:19no se comerá; al fuego será quemadaH8313
+- Lev_7:30las ofrendas que se han de quemar ante
+- Lev_8:17lo quemó al fuego fuera del campamentoH8313
+- Lev_8:21quemó Moisés...el carnero sobre el altarH5930
+- Lev_8:32lo que sobre de...lo quemaréis al fuegoH8313
+- Lev_9:11la carne...las quemó al fuego fuera delH8313
+- Lev_9:13holocausto...hizo quemar sobre el altarH6999
+- Lev_9:14quemó sobre el holocausto en el altarH6999
+- Lev_9:17ofreció...la hizo quemar sobre el altarH6999
+- Lev_9:20las grosuras...las quemó sobre el altarH6999
+- Lev_10:2fuego de delante de Jehová y los quemóH784
+- Lev_10:15con las ofrendas...que se han de quemar
+- Lev_10:16se halló que había sido quemado; y seH8313
+- Lev_13:52será quemado el vestido...al fuego será qH8313
+- Lev_13:55plaga, inmunda es; la quemarás al fuegoH8313
+- Lev_13:57quemarás...aquello en que estuviere laH8313
+- Lev_16:25y quemará en el altar la grosura delH6999
+- Lev_16:27quemarán en el fuego su piel, su carneH8313
+- Lev_16:28el que los quemare lavará sus vestidosH8313
+- Lev_17:6quemará la grosura...olor grato a JehováH6999
+- Lev_19:6lo que quedare...será quemado en el fuegoH8313
+- Lev_20:14quemarán con fuego a él y a ellas, paraH8313
+- Lev_21:9hija...a su padre deshonra; quemada seráH8313
+- Núm_5:26lo quemará sobre el altar, y despuésH6999
+- Núm_16:39con que los quemados habían ofrecidoH8313
+- Núm_18:17quemarás la grosura de ellos, ofrendaH6999
+- Núm_19:5hará quemar la vaca...su cuero...hará qH8313
+- Núm_19:8el que la quemó lavará sus vestidos enH8313
+- Núm_19:17tomarán de la ceniza de la vaca quemadaH8316
+- Deu_7:5quemaréis sus esculturas en el fuegoH8313
+- Deu_7:25las esculturas de sus dioses quemarásH8313
+- Deu_9:21tomé...el becerro...y lo quemé en el fuegoH8313
+- Deu_12:31aun...a sus hijas quemaban en el fuegoH8313
+- Deu_18:1las ofrendas quemadas a Jehová...comerán
+- Jos_7:15el que fuere...anatema, será quemadoH8313
+- Jos_7:25y los quemaron después de apedrearlesH784
+- Jos_8:28quemó a Hai y la redujo a un montón deH8313
+- Jos_11:6caballos, y sus carros quemarás a fuegoH8313
+- Jos_11:9desjarretó...y sus carros quemó a fuegoH8313
+- Jos_11:13no...quemó Israel; únicamente a Hazor qH8313
+- Jue_12:1nosotros quemaremos tu casa contigoH8313
+- Jue_14:15que no te quememos a ti y a la casa deH8313
+- Jue_15:5y quemó las mieses amontonadas y en pieH1197
+- Jue_15:6los filisteos...quemaron a ella y a su padreH8313
+- Jue_15:14volvieron como lino quemado con fuegoH1197
+- Jue_18:27hirieron a filo de...y quemaron la ciudadH8313
+- 1Sa_2:15antes de quemar la grosura, venía elH6999
+- 1Sa_2:16le respondía: Quemen la grosura primeroH6999
+- 1Sa_2:28que...quemase incienso, y llevase efodH6999
+- 1Sa_30:3ciudad...estaba quemada, y sus mujeres yH784
+- 1Sa_31:12y viniendo a Jabes, los quemaron allíH8313
+- 2Sa_5:21sus ídolos, y David y...los quemaronH5375
+- 2Sa_23:7arma...y son del todo quemados en su lugarH784
+- 1Re_3:3quemaba incienso en los lugares altosH6999
+- 1Re_9:16había subido y tomado a Gezer, y...quemóH8313
+- 1Re_9:25y quemaba incienso sobre el que estabaH5930
+- 1Re_11:8cuales quemaban incienso...a sus diosesH6999
+- 1Re_12:33subió al altar para quemar inciensoH6999
+- 1Re_13:1Jeroboam...al altar para quemar inciensoH6999
+- 1Re_13:2que queman sobre ti...quemarán huesos deH8313
+- 1Re_15:13deshizo Asa el ídolo de su...y lo quemóH8313
+- 1Re_22:43el pueblo...y quemaba incienso en ellosH6999
+- 2Re_10:26sacaron las estatuas...las quemaronH5930
+- 2Re_12:3; 2Re_14:4; 2Re_15:4; 2Re_15:35el pueblo sacrificaba...y quemaba incienso en...lugares altosH6999
+- 2Re_16:4y quemó incienso en los lugares altosH6999
+- 2Re_17:11quemaron allí incienso en...lugares altosH6999
+- 2Re_17:31los de Sefarvaim quemaban sus hijos enH8313
+- 2Re_18:4le quemaban incienso los hijos de IsraelH6999
+- 2Re_22:17dejaron...y quemaron incienso a diosesH6999
+- 2Re_23:4para Baal...los quemó fuera de JerusalénH8313
+- 2Re_23:5quemasen incienso en los lugares altosH6999
+- 2Re_23:5los que quemaban incienso a Baal, al solH6999
+- 2Re_23:6la imagen...quemó en el valle del CedrónH8313
+- 2Re_23:8lugares altos donde...quemaban inciensoH8313
+- 2Re_23:11y quemó al fuego los carros del solH784
+- 2Re_23:15aquel altar...lo quemó, y lo hizo polvoH8313
+- 2Re_23:16los huesos...y los quemó sobre el altarH8313
+- 2Re_23:20y quemó sobre ellos huesos de hombresH8313
+- 2Re_25:9quemó la casa de Jehová, y la casa delH8313
+- 2Re_25:9las casas de los príncipes quemó a fuegoH8313
+- 1Cr_6:49quemaban incienso, y ministraban enH5930
+- 1Cr_14:12dioses, y David dijo que los quemasenH784
+- 1Cr_23:13sus hijos...para que quemasen inciensoH6999
+- 2Cr_2:4quemar incienso aromático delante deH5930
+- 2Cr_2:6sólo para quemar incienso delante de élH6999
+- 2Cr_13:11queman para Jehová los holocaustos cadaH5930
+- 2Cr_15:16la quemó junto al torrente de CedrónH8313
+- 2Cr_25:14dioses de...Seir...y les quemó inciensoH6999
+- 2Cr_26:16entrando en el...para quemar inciensoH6999
+- 2Cr_26:18no te corresponde a...quemar inciensoH6999
+- 2Cr_26:18Aarón...son consagrados para quemarloH6999
+- 2Cr_28:3quemó...incienso en el valle...de HinomH1197
+- 2Cr_28:4quemó incienso en los lugares altos, enH6999
+- 2Cr_28:25para quemar incienso a los dioses ajenosH6999
+- 2Cr_29:7no quemaron incienso, ni sacrificaronH5930
+- 2Cr_29:11seáis sus ministros...queméis inciensoH6999
+- 2Cr_32:12de este solo altar...quemaréis incienso?[[H6999]]
+- 2Cr_34:5quemó además...huesos de los sacerdotesH8313
+- 2Cr_36:19y quemaron la casa de Dios, y...a fuegoH8313
+- Neh_1:3muro...y sus puertas quemadas a fuegoH784
+- Neh_4:2del polvo las piedras que fueron quemadasH8313
+- Neh_10:34para quemar sobre el altar de JehováH1197
+- Job_1:16que quemó las ovejas y a los pastoresH784
+- Sal_46:9lanza, y quema los carros en el fuegoH784
+- Sal_51:19te agradarán...ofrenda del todo quemadaH5930
+- Sal_74:8quemado todas las sinagogas de Dios enH8313
+- Sal_80:16quemada a fuego...asolada; perezcan porH784
+- Sal_83:14fuego que quema el monte, como llamaH3857
+- Sal_102:3mis huesos cual tizón están quemadosH2787
+- Sal_106:18fuego en...la llama quemó a los impíosH784
+- Pro_6:28brasas sin que sus pies se quemen?[[H3554]]
+- Isa_9:5todo manto revolcado en...serán quemadosH784
+- Isa_27:4cardos? Yo los hollaré...quemaré a unaH6702
+- Isa_33:12y los pueblos serán como cal quemadaH4955
+- Isa_33:12como espinos cortados serán quemadosH784
+- Isa_43:2pases por el fuego, no te quemarás, niH784
+- Isa_44:15de él se sirve...el hombre para quemarH1197
+- Isa_44:16parte del leño quema en el fuego; conH5930
+- Isa_44:19parte de esto quemé en el fuego...cocíH784
+- Isa_47:14fuego los quemará, no salvarán...vidasH8313
+- Isa_65:3ira...quemando incienso sobre ladrillosH6999
+- Isa_65:7quemaron incienso sobre los montes, yH6999
+- Isa_66:3que quema incienso, como si bendijese aH2142
+- Jer_2:15quemadas...sus ciudades, sin moradorH3341
+- Jer_6:29se quemó el fuelle, por el fuego se haH784
+- Jer_7:31para quemar al fuego a sus hijos y a susH8313
+- Jer_11:12dioses a quienes queman ellos incienso
+- Jer_19:5para quemar con fuego a sus hijos...BaalH5930, [[H8313]]
+- Jer_21:10será entregada, y la quemará a fuegoH784
+- Jer_32:29vendrán., pondrán a fuego y la quemaránH8313
+- Jer_34:2entregaré esta ciudad al...y la quemaráH8313
+- Jer_34:5así como quemaron...las quemarán por tiH4955, [[H8313]]
+- Jer_34:22y la tomarán, y la quemarán con fuegoH8313
+- Jer_36:25rogaron al rey que no quemase...rolloH8313
+- Jer_36:27después que el rey quemó el rollo, lasH8313
+- Jer_36:28en el primer rollo que quemó Joacim reyH8313
+- Jer_36:29tú quemaste este rollo, diciendo: ¿PorH8313
+- Jer_36:32todas las palabras del libro que quemóH784
+- Jer_38:23serás apresado, y a esta ciudad quemaráH784
+- Jer_43:12quemará, y a ellos los llevará cautivosH8313
+- Jer_43:13los templos de los dioses de...quemaráH784
+- Jer_48:45salió fuego...y quemó el rincón de MoabH784
+- Jer_50:32fuego...y quemaré todos sus alrededoresH784
+- Jer_51:25peñas, y te reduciré a monte quemadoH8316
+- Jer_51:32y los baluartes quemados a fuego, y seH784
+- Jer_51:58altas puertas serán quemadas a fuegoH784
+- Jer_52:13quemó la casa de Jehová, y la casa delH784
+- Eze_5:2una tercera parte quemarás a fuego enH217
+- Eze_5:4los echarás...y en el fuego los quemarásH8313
+- Eze_15:4la parte de en medio se quemó; ¿serviráH784
+- Eze_15:5la hubiere consumido, y fuere quemada?[[H784]]
+- Eze_16:41quemarán tus casas a fuego, y harán enH8313
+- Eze_20:47y serán quemados en ella...los rostrosH6866
+- Eze_23:37a sus hijos...por el fuego, quemándolosH402
+- Eze_24:10la salsa; y los huesos serán quemadosH784
+- Eze_24:11que se caldee, y se queme su fondo, yH2787
+- Eze_39:9quemarán armas, escudos, paveses, arcosH5400
+- Eze_39:9los quemarán en el fuego por siete añosH1197
+- Eze_39:10no...sino quemarán las armas en el fuegoH1197
+- Eze_43:21el becerro...quemarás conforme a la leyH8313
+- Dan_3:27ni aun el cabello de...se había quemadoH2761
+- Dan_7:11entregado para ser quemado en el fuegoH3346
+- Amó_2:1quemó los huesos del rey de Edom hastaH8313
+- Amó_6:10lo quemará para sacar los huesos de casaH5635
+- Abd_1:18casa de...los quemarán y los consumiránH784
+- Miq_1:7todos sus dones serán quemados en fuegoH8313
+- Mat_3:12quemará la paja en fuego que nunca seG2618
+- Mat_13:6pero salido el sol, se quemó, y porqueG2739
+- Mat_13:30atadla en manojos para quemarla; peroG2618
+- Mat_13:40como se arranca...se quema en el fuegoG4442
+- Mat_22:7oírlo el rey, se enojó...quemó su ciudadG1714
+- Mar_4:6pero salido el sol, se quemó...se secóG2739
+- Luc_3:17y quemará la paja en fuego que nuncaG4442
+- Hec_19:19trajeron los libros y los quemaronG2618
+- 1Co_3:15si la obra de alguno se quemare, élG4442
+- 1Co_7:9mejor es casarse que estarse quemandoG4448
+- 1Co_13:3si entregase mi cuerpo para ser quemadoG2545
+- Heb_6:8próxima a...y su fin es el ser quemadaG2740
+- Heb_13:11son quemados fuera del campamentoG2618
+- 2Pe_3:10tierra y las obras...serán quemadasG2618
+- 2Pe_3:12elementos, siendo quemados, se fundiránG4448
+- Rev_8:7árboles se quemó...se q toda la hierbaG4442
+- Rev_16:8fue dado quemar a los hombres con fuegoG4442
+- Rev_16:9hombres se quemaron con el gran calorG2739
+- Rev_17:16y devorarán sus carnes, y la quemaránG4442
+- Rev_18:8día vendrán sus plagas...y será quemadaG4442

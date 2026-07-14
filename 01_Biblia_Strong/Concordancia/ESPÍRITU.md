@@ -1,0 +1,614 @@
+---
+tipo: concordancia
+palabra: ESPÍRITU
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESPÍRITU
+
+- Gén_1:2el E de Dios se movía sobre la faz deH7307
+- Gén_6:3no contenderá mi e con el hombre paraH7307
+- Gén_6:17; Gén_7:15toda carne en que había e de vidaH7307
+- Gén_7:22todo lo que tenía aliento de e...murióH5375, [[H7307]]
+- Gén_25:8exhaló el e, y murió Abraham en buenaH1478
+- Gén_25:17y exhaló el e Ismael, y murió, y fueH1478
+- Gén_26:35fueron amargura de e para Isaac y paraH7307
+- Gén_35:29y exhaló Isaac el e, y murió, y fueH1478
+- Gén_41:8la mañana estaba agitado su e, y envióH7307
+- Gén_41:38como éste, en quien esté el e de DiosH7307
+- Gén_45:27viendo Jacob los carros...su e revivióH7307
+- Gén_49:6alma, ni mi e se junte en su compañía
+- Éxo_6:9no escuchaban a Moisés...congoja de eH7307
+- Éxo_28:3he llenado de e de sabiduría, para queH7307
+- Éxo_31:3he llenado del E de Dios, en sabiduríaH7307
+- Éxo_35:21todo aquel a quien su e le dio voluntadH7307
+- Éxo_35:31ha llenado del e de Dios, en sabiduríaH7307
+- Lev_20:27la mujer que evocare e de muertos oH178
+- Núm_5:14(2)sobre él e de celos, y tuviere celosH7307
+- Núm_5:30marido sobre el cual pasare e de celosH7307
+- Núm_11:17del e que está en ti, y pondré en ellosH7307
+- Núm_11:25tomó del e que...posó sobre ellos el eH7307
+- Núm_11:26sobre los cuales también reposó el eH7307
+- Núm_11:29y que Jehová pusiera su e sobre ellosH7307
+- Núm_14:24Caleb, por cuanto hubo en él otro eH7307
+- Núm_16:22y dijeron...Dios de los e de toda carneH7307
+- Núm_24:2vio a Israel...el E de Dios vino sobre élH7307
+- Núm_27:16ponga Jehová, Dios de los e de todaH7307
+- Núm_27:18varón en el cual hay e, y pondrás tuH7307
+- Deu_2:30Jehová tu Dios había endurecido su eH7307
+- Deu_28:28Jehová te herirá con...turbación de eH3824
+- Deu_34:9Josué hijo...fue lleno del e de sabiduríaH7307
+- Jue_3:10el E de Jehová vino sobre él, y juzgóH7307
+- Jue_6:34entonces el E de Jehová...sobre GedeónH7307
+- Jue_9:23envió Dios un mal e entre Abimelec y losH7307
+- Jue_11:29y el E de Jehová vino sobre Jefté; yH7307
+- Jue_13:25el E de Jehová comenzó a manifestarseH7307
+- Jue_14:6el E de Jehová vino sobre Sansón, quienH7307
+- Jue_14:19; Jue_15:14el E de Jehová vino sobre élH7307
+- Jue_15:19él bebió, y recobró su e, y se reanimóH7307
+- 1Sa_1:15no...yo soy una mujer atribulada de eH7307
+- 1Sa_10:6el E de Jehová vendrá sobre ti con poderH7307
+- 1Sa_10:10el E de Dios vino sobre él...profetizoH7307
+- 1Sa_11:6el E de Dios vino sobre él con poderH7307
+- 1Sa_16:13lo ungió...E de Jehová vino sobre DavidH7307
+- 1Sa_16:14el E de Jehová se apartó de Saúl, y leH7307
+- 1Sa_16:14le atormentaba un e malo de parte deH7307
+- 1Sa_16:15un e malo de parte de Dios te atormentaH7307
+- 1Sa_16:16que cuando esté sobre ti el e malo deH7307
+- 1Sa_16:23y cuando el e malo...venía sobre SaúlH7307
+- 1Sa_16:23tocaba...y el e malo se apartaba de élH7307
+- 1Sa_18:10un e malo de parte de Dios tomó a SaúlH7307
+- 1Sa_19:9e...de parte de Jehová vino sobre SaúlH7307
+- 1Sa_19:20vino el E de Dios sobre los mensajerosH7307
+- 1Sa_19:23y también vino sobre él el E de DiosH7307
+- 1Sa_22:2los que se hallaban en amargura de e
+- 1Sa_28:7una mujer que tenga e de adivinaciónH178
+- 1Sa_28:7hay una mujer en Endor que tiene e deH178
+- 1Sa_28:8que me adivines por el e de adivinaciónH178
+- 1Sa_30:12y luego que comió, volvió en él su eH7307
+- 2Sa_23:2el E de Jehová ha hablado por mí, yH7307
+- 1Re_18:12el E de Jehová te llevará adonde yoH7307
+- 1Re_21:5¿por qué está tan decaído tu e, y noH7307
+- 1Re_22:21salió un e y se puso delante...y dijoH7307
+- 1Re_22:22saldré, y seré e de mentira en boca deH7307
+- 1Re_22:23ha puesto e de mentira en la boca deH7307
+- 1Re_22:24¿por dónde se fue de mí el e de Jehová?[[H7307]]
+- 2Re_2:9una doble porción de tu e sea sobre míH7307
+- 2Re_2:15dijeron...e de Elías reposó sobre EliseoH7307
+- 2Re_2:16quizá lo ha levantado el E de JehováH7307
+- 2Re_19:7pondré yo en él un e, y oirá rumor, yH7307
+- 1Cr_5:26Dios...excitó el e de Pul rey de losH7307
+- 1Cr_5:26e de Tiglat-pileser rey de los asiriosH7307
+- 1Cr_12:18el E vino sobre Amasai, jefe de los 30H7307
+- 2Cr_15:1vino el E de Dios sobre Azarias hijoH7307
+- 2Cr_18:20un e que se puso delante de Jehová yH7307
+- 2Cr_18:21saldré y seré e de mentira en la bocaH7307
+- 2Cr_18:22Jehová ha puesto e de mentira en laH7307
+- 2Cr_18:23¿por qué camino se fue de mí el E deH7307
+- 2Cr_20:14sobre el cual vino el E de Jehová enH7307
+- 2Cr_24:20el E de Dios vino sobre Zacarías hijoH7307
+- 2Cr_36:22Jehová despertó el e de Ciro rey deH7307
+- Esd_1:1despertó Jehová el e de Ciro rey deH7307
+- Esd_1:5aquellos cuyo e despertó Dios para subirH7307
+- Neh_9:20y enviaste tu buen e para enseñarlesH7307
+- Neh_9:30les testificaste con tu e por medio deH7307
+- Job_4:15al pasar un e por delante de mí, hizoH7307
+- Job_6:4las saetas del...cuyo veneno bebe mi eH7307
+- Job_7:11mi boca; hablaré en la angustia de mi eH7307
+- Job_10:12concediste, y tu cuidado guardó mi eH7307
+- Job_15:13para que contra Dios vuelvas tu e, yH7307
+- Job_20:3hace responder el e de mi inteligenciaH7307
+- Job_21:4¿y por qué no se ha de angustiar mi e?[[H7307]]
+- Job_26:4y de quién es el e que de ti procede?[[H5397]]
+- Job_26:13su e adornó los cielos; su mano creóH7307
+- Job_32:8ciertamente e hay en el hombre, y elH7307
+- Job_32:18porque...me apremia el e dentro de míH7307
+- Job_33:4el e de Dios me hizo, y el soplo delH7307
+- Job_34:14si...recogiese así su e y su alientoH7307
+- Job_38:36¿quién puso...dio al e inteligencia?[[H7907]]
+- Sal_31:5en tu mano encomiendo mi e; tú meH7307
+- Sal_32:2el hombre...y en cuyo e no hay engañoH7307
+- Sal_34:18cercano...y salva a los contritos de eH7307
+- Sal_51:10crea...y renueva un e recto dentro de míH7307
+- Sal_51:11me eches...y no quites de mí tu santo EH7307
+- Sal_51:12vuélveme el gozo...y e noble me sustenteH7307
+- Sal_51:17los sacrificios de Dios...e quebrantadoH7307
+- Sal_76:12cortará él el e de...príncipes; temibleH7307
+- Sal_77:3conmovía; me quejaba, y desmayaba mi eH7307
+- Sal_77:6meditaba en mi corazón, y mi e inquiríaH7307
+- Sal_78:8que no...ni fue fiel para con Dios su eH7307
+- Sal_104:30envías tu E, son creados, y renuevasH7307
+- Sal_106:33hicieron rebelar a su e y...sus labiosH7307
+- Sal_139:7¿a dondé me iré de tu E? ¿y a dóndeH7307
+- Sal_142:3cuando mi e se angustiaba dentro de míH7307
+- Sal_143:4y mi e se angustió dentro de mí, estáH7307
+- Sal_143:7respóndeme...porque desmaya mi eH7307
+- Sal_143:10tu buen e me guíe a tierra de rectitudH7307
+- Pro_1:23yo derramaré mi e sobre vosotros, yH7307
+- Pro_11:13descubre...el de e fiel lo guarda todoH7307
+- Pro_14:29el que es impaciente de e enaltece laH7307
+- Pro_15:4la perversidad...es quebrantamiento de eH7307
+- Pro_15:13por el dolor del corazón el e se abateH7307
+- Pro_16:2son limpios en...pero Jehová pesa los eH7307
+- Pro_16:18y antes de la caída la altivez de eH7307
+- Pro_16:19mejor es humillar el e con...humildesH7307
+- Pro_16:32mejor es...el que se enseñorea de su eH7307
+- Pro_17:22remedio...el e triste seca los huesosH7307
+- Pro_17:27de e prudente es el hombre entendidoH7307
+- Pro_20:27lámpara de Jehová es el e del hombreH5397
+- Pro_25:28es el hombre cuyo e no tiene riendaH7307
+- Pro_29:23pero al humilde de e sustenta la honraH7307
+- Ecl_1:14todo ello es vanidad y aflicción de eH7307
+- Ecl_1:17conocí que aun esto era aflicción de eH7307
+- Ecl_2:11todo era vanidad y aflicción de e, y sinH7307
+- Ecl_2:17cuanto todo es vanidad y aflicción de eH7307
+- Ecl_2:26también esto es vanidad y aflicción de eH7307
+- Ecl_3:21¿quién sabe que el e de los...sube arribaH7307
+- Ecl_3:21que el e del animal desciende abajo a laH7307
+- Ecl_4:4también esto es vanidad y aflicción de eH7307
+- Ecl_4:6ambos puños llenos con...aflicción de eH7307
+- Ecl_4:16; Ecl_6:9esto es vanidad y aflicción de eH7307
+- Ecl_7:8mejor...el sufrido de e que el altivo de eH7307
+- Ecl_7:9no te apresures en tu e a enojarte; porqueH7307
+- Ecl_8:8potestad sobre el e para retener el eH7307
+- Ecl_10:4el e del príncipe se exaltaré contra tiH7307
+- Ecl_12:7como era, y el e vuelva a Dios que lo dioH7307
+- Isa_4:4con e de juicio y con e de devastaciónH7307
+- Isa_11:2reposará sobre él el e de Jehová, e deH7307
+- Isa_11:2e de consejo y...e de conocimiento y deH7307
+- Isa_11:4con el e de sus labios matará al impíoH7307
+- Isa_11:15levantará su mano con...e sobre el ríoH7307
+- Isa_19:3el e de Egipto se desvanecerá en medioH7307
+- Isa_19:14Jehová mezcló e de vértigo en medio deH7307
+- Isa_26:9en tanto que me dure el e dentro de miH7307
+- Isa_28:6e de juicio al que se sienta en juicioH7307
+- Isa_29:10Jehová derramó...e de sueño, y cerró losH7307
+- Isa_29:24y los extraviados de e...inteligenciaH7307
+- Isa_30:1cobijarse con cubierta, y no de mi eH7307
+- Isa_31:3y no Dios; y sus caballos carne, y no eH7307
+- Isa_32:15que...sea derramado el E de lo alto, yH7307
+- Isa_34:16su boca mandó, y los reunió su mismo EH7307
+- Isa_37:7yo pondré en él un e, y oirá un rumorH7307
+- Isa_38:16y en todas ellas está la vida de mi eH7307
+- Isa_40:13¿quién enseñó al E de Jehová, o leH7307
+- Isa_42:1mi escogido, en...he puesto sobre él mi eH7307
+- Isa_42:5el que da...y e a los que por ella andanH7307
+- Isa_44:3mi E derramaré sobre tu generación, yH7307
+- Isa_48:16ahora me envió Jehová el Señor, y su EH7307
+- Isa_54:6como a mujer...triste de e te llamó JehováH7307
+- Isa_57:15para hacer vivir el e de los humildesH7307
+- Isa_57:16decaería ante mí el e y las almas queH7307
+- Isa_59:19mas el E de Jehová levantará banderaH7307
+- Isa_59:21el E mío que...sobre ti, y mis palabrasH7307
+- Isa_61:1el E de Jehová el Señor está sobre miH7307
+- Isa_61:3de alegría en lugar del e angustiadoH7307
+- Isa_63:10hicieron enojar su santo e; por lo cualH7307
+- Isa_63:11¿dónde el que puso en medio...su santo eH7307
+- Isa_63:14el E de Jehová los pastoreó, como a unaH7307
+- Isa_65:14por el quebrantamiento de e aullaréisH7307
+- Isa_66:2a aquel que es pobre y humilde de e, yH7307
+- Jer_10:14mentirosa es su...y no hay e en ellaH7307
+- Jer_51:11ha despertado Jehová el e de los reyesH7307
+- Jer_51:17porque mentira es...su ídolo, no tiene eH7307
+- Eze_1:12hacia donde el e les movía...andabanH7307
+- Eze_1:20hacia donde el e les movía...movía el eH7307
+- Eze_1:20-21e de los seres...estaba en las ruedasH7307
+- Eze_2:2entró el E en mí y me afirmó sobre misH7307
+- Eze_3:12se levantó el E, y oí detrás de mi unaH7307
+- Eze_3:14me levantó, pues el E, y me tomó, y fuiH7307
+- Eze_3:14en amargura, en la indignación de mi eH7307
+- Eze_3:24entró el E en mí y me afirmó sobre misH7307
+- Eze_8:3el E me alzó entre el cielo y la tierraH7307
+- Eze_10:17el e de los seres vivientes estaba enH7307
+- Eze_11:1el E me elevó, y me llevó por la puertaH7307
+- Eze_11:5vino sobre mi el E de Jehová, y me dijoH7307
+- Eze_11:5las cosas que suben a vuestro e, yo lasH7307
+- Eze_11:19daré un corazón, y un e nuevo pondréH7307
+- Eze_11:24luego me levantó el E...en visión del eH7307
+- Eze_13:3andan en pos de su propio e, y nada hanH7307
+- Eze_18:31y haceos un corazón nuevo y un e nuevoH7307
+- Eze_21:7y se angustiará todo e, y toda rodillaH7307
+- Eze_36:26y pondré e nuevo dentro de vosotrosH7307
+- Eze_36:27pondré dentro de vosotros mi E, y haréH7307
+- Eze_37:1me llevó en el E de Jehová, y me puso enH7307
+- Eze_37:5yo hago entrar e en vosotros, y viviréisH7307
+- Eze_37:6y pondré en vosotros e, y viviréis; yH7307
+- Eze_37:8carne subió...pero no había en ellos eH7307
+- Eze_37:9profetiza al e...dí al e: Así ha dichoH7307
+- Eze_37:9E, ven de los cuatro vientos, y soplaH7307
+- Eze_37:10y profeticé como...y entró e en ellosH7307
+- Eze_37:14y pondré mi E en vosotros, y viviréisH7307
+- Eze_39:29habré derramado de mi E sobre la casaH7307
+- Eze_43:5alzó el E y me llevó al atrio interiorH7307
+- Dan_2:1se perturbó su e, y se le fue el sueñoH7307
+- Dan_2:3y mi e se ha turbado por saber el sueñoH7307
+- Dan_4:8en quien mora el e de los dioses santosH7308
+- Dan_4:9entendido que hay en ti e de los diosesH7308
+- Dan_4:18mora en ti el e de los dioses santosH7308
+- Dan_5:11un hombre en el cual mora el e de losH7308
+- Dan_5:12fue hallado en él mayor e y ciencia yH7308
+- Dan_5:14que el e de los dioses santos está en tiH7308
+- Dan_5:20y su e se endureció en su orgullo, fueH7308
+- Dan_6:3porque había en él un e superior; y elH7308
+- Dan_7:15me turbó el e a mí, Daniel, en medio deH7308
+- Ose_4:12e de fornicaciones lo hizo errar, yH7307
+- Ose_5:4e de fornicación está en medio de ellosH7307
+- Ose_9:7insensato es el varón de e, a causa deH7307
+- Joe_2:28esto derramaré mi E sobre toda carneH7307
+- Joe_2:29y sobre las siervas derramaré mi E enH7307
+- Miq_2:7Jacob, ¿se ha acortado el E de JehováH7307
+- Miq_2:11si alguno...con e de falsedad mintieraH7307
+- Miq_3:8yo estoy lleno de poder del E de JehováH7307
+- Hab_2:19cubierto de oro...no hay e dentro deH7307
+- Hag_1:14y despertó Jehová el e de ZorobabelH7307
+- Hag_1:14el e de Josué...y el e de todo el...puebloH7307
+- Hag_2:5así mi E estará en medio de vosotros, noH7307
+- Zac_4:6ni con fuerza, sino con mi E, ha dichoH7307
+- Zac_6:8hicieron reposar mi E en la tierra delH7307
+- Zac_7:12palabras que Jehová...enviaba por su EH7307
+- Zac_12:1forma el e del hombre dentro de él, haH7307
+- Zac_12:10y derramaré...e de gracia y de oraciónH7307
+- Zac_13:2también haré cortar...al e de inmundiciaH7307
+- Mal_2:15uno, habiendo en él abundancia de e?[[H7307]]
+- Mal_2:15-16guardaos...E, y no seáis deslealesH7307
+- Mat_1:18halló que había concebido del E SantoG4151
+- Mat_1:20que en ella es engendrado, del E Santo esG4151
+- Mat_3:11yo; él os bautizará en E Santo y fuegoG4151
+- Mat_3:16y vio al E de Dios que descendía comoG4151
+- Mat_4:1Jesús fue llevado por el E al desiertoG4151
+- Mat_5:3bienaventurados los pobres en e, porqueG4151
+- Mat_10:1les dio autoridad sobre los e inmundosG4151
+- Mat_10:20no sois vosotros...sino el E...que hablaG4151
+- Mat_12:18pondré mi E sobre él...anunciará juicioG4151
+- Mat_12:28si yo por el E de Dios echo fuera losG4151
+- Mat_12:31la blasfemia contra el E no les seráG4151
+- Mat_12:32al que hable contra el E...no le seráG4151
+- Mat_12:43cuando el e inmundo sale del hombreG4151
+- Mat_12:45toma consigo otros siete e peores queG4151
+- Mat_22:43¿pues cómo David en el E le llama SeñorG4151
+- Mat_26:41el e a la verdad está dispuesto, peroG4151
+- Mat_27:50Jesús...clamado a gran voz, entregó el eG4151
+- Mat_28:19del Padre, y del Hijo, y del E SantoG4151
+- Mar_1:8agua; pero él os bautizará con E SantoG4151
+- Mar_1:10al E como paloma que descendía sobre élG4151
+- Mar_1:12y luego el E le impulsó al desiertoG4151
+- Mar_1:23en la sinagoga...un hombre con e inmundoG4151
+- Mar_1:26el e inmundo, sacudiéndole con violenciaG4151
+- Mar_1:27manda...a los e inmundos, y le obedecenG4151
+- Mar_2:8conociendo...Jesús en su e que cavilabanG4151
+- Mar_3:11e inmundos...se postraban delante de élG4151
+- Mar_3:29que blasfeme contra el E Santo, no tieneG4151
+- Mar_3:30ellos habían dicho: Tiene e inmundoG4151
+- Mar_5:2vino a su...un hombre con un e inmundoG4151
+- Mar_5:8le decía: Sal de este hombre, e inmundoG4151
+- Mar_5:13saliendo aquellos e inmundos, entraronG4151
+- Mar_6:7les dio autoridad sobre los e inmundosG4151
+- Mar_7:25una mujer, cuya hija tenía un e inmundoG4151
+- Mar_8:12gimiendo en su e, dijo ¿Por qué pideG4151
+- Mar_9:17traje a ti mi hijo, que tiene un e mudoG4151
+- Mar_9:20el e vio a Jesús, sacudió con violenciaG4151
+- Mar_9:25Jesús...reprendió al e inmundo, diciéndoleG4151
+- Mar_9:25e mudo y sordo, yo te mando, sal de é1G4151
+- Mar_9:26el e, clamando y sacudiéndolo con...salióG4151
+- Mar_12:36el mismo David dijo por el E SantoG4151
+- Mar_13:11no sois vosotros los...sino el E SantoG4151
+- Mar_14:38el e a la verdad está dispuesto, peroG4151
+- Luc_1:15y será lleno del E Santo, aun desdeG4151
+- Luc_1:17irá delante de él con el e y el poderG4151
+- Luc_1:35el E Santo vendrá sobre ti, y el poderG4151
+- Luc_1:41saltó...y Elisabet fue llena del E SantoG4151
+- Luc_1:47y mi e se regocija en Dios mi SalvadorG4151
+- Luc_1:67Zacarías su padre fue lleno del E SantoG4151
+- Luc_1:80y el niño crecía, y se fortalecía en eG4151
+- Luc_2:25Simeón...y el E Santo estaba sobre élG4151
+- Luc_2:26y le había sido revelado por el E SantoG4151
+- Luc_2:27movido por el E, vino al templo. Y cuandoG4151
+- Luc_3:16uno...él os bautizará en E Santo y fuegoG4151
+- Luc_3:22descendió el E Santo sobre él en formaG4151
+- Luc_4:1Jesús, lleno del E...fue llevado por el EG4151
+- Luc_4:14Jesús volvió en el poder del E a GalileaG4151
+- Luc_4:18el E del Señor está sobre mí, por cuantoG4151
+- Luc_4:33un hombre que tenía un e de demonioG4151
+- Luc_4:36poder manda a los e inmundos, y salen?[[G4151]]
+- Luc_6:18atormentados de e inmundos eran sanadosG4151
+- Luc_7:21sanó a muchos de...e malos, y a muchosG4151
+- Luc_8:2mujeres que habían sido sanadas de eG4151
+- Luc_8:29mandaba al e...que saliese del hombreG4151
+- Luc_8:55entonces su e volvió, e inmediatamenteG4151
+- Luc_9:39que un e le toma, y de repente da vocesG4151
+- Luc_9:42Jesús reprendió al e inmundo, y sanó alG4151
+- Luc_9:55diciendo: Vosotros no sabéis de qué eG4151
+- Luc_10:20no os regocijéis de que los e se osG4151
+- Luc_10:21Jesús se regocijó en el E, y dijo: YoG4151
+- Luc_11:13dará el E Santo a los que se lo pidan?[[G4151]]
+- Luc_11:24cuando el e inmundo sale del hombreG4151
+- Luc_11:26va, y toma otros siete e peores que élG4151
+- Luc_12:10que blasfemare contra el E Santo, no leG4151
+- Luc_12:12el E Santo os enseñará...debáis decirG4151
+- Luc_13:11una mujer que...tenía e de enfermedadG4151
+- Luc_23:46Padre, en tus manos encomiendo mi eG4551
+- Luc_24:37y atemorizados, pensaban que veían eG4151
+- Luc_24:39porque un e no tiene carne ni huesosG4151
+- Jua_1:32vi al E que descendía del cielo comoG4151
+- Jua_1:33sobre quien veas descender el E y queG4151
+- Jua_1:33ése es el que bautiza con el E SantoG4151
+- Jua_3:5que no naciere de agua y del E, no puedeG4151
+- Jua_3:6carne es; y lo que es nacido del E, e esG4151
+- Jua_3:8así es todo aquel que es nacido del EG4151
+- Jua_3:34habla; pues Dios no da el E por medidaG4151
+- Jua_4:23mas...adorarán al Padre en e y en verdadG4151
+- Jua_4:24Dios es E; y los que le adoran, en e yG4151
+- Jua_6:63el e es el que da vida; la carne paraG4151
+- Jua_6:63que yo os he hablado son e y son vidaG4151
+- Jua_7:39esto dijo del E que habían de recibirG4151
+- Jua_7:39pues aún no había venido el E SantoG4151
+- Jua_11:33Jesús...se estremeció en e y se conmovióG4151
+- Jua_13:21se conmovió en e, y declaró y dijoG4151
+- Jua_14:17E de verdad, al cual el mundo no puedeG4151
+- Jua_14:26el E Santo, a quien el Padre enviará enG4151
+- Jua_15:26E de verdad, el cual procede del PadreG4151
+- Jua_16:13pero cuando venga el E de verdad, élG4151
+- Jua_19:30incliando la cabeza, entregó el EG4151
+- Jua_20:22sopló, y les dijo: Recibid el E SantoG4151
+- Hec_1:2dado mandamientos por el E Santo a losG4151
+- Hec_1:5seréis bautizados con el E Santo dentroG4151
+- Hec_1:8haya venido sobre vosotros el E SantoG4151
+- Hec_1:16que el E Santo habló antes por boca deG4151
+- Hec_2:4y fueron todos llenos del E Santo, yG4151
+- Hec_2:4en otras lenguas, según el E les daba queG4151
+- Hec_2:17derramaré de mi E sobre toda carne, yG4151
+- Hec_2:18en aquellos días derramaré de mi E, yG4151
+- Hec_2:33recibido del Padre la promesa del EG4151
+- Hec_2:38bautícese...y recibiréis el don del EG4151
+- Hec_4:8lleno del E Santo, les dijo: GobernantesG4151
+- Hec_4:31fueron llenos del E Santo, y hablabanG4151
+- Hec_5:3mintieses al E Santo, y sustrajeres delG4151
+- Hec_5:9convinisteis en tentar al E del Señor?[[G4151]]
+- Hec_5:16trayendo...atormentados de e inmundosG4151
+- Hec_5:32también el E Santo, el cual ha dado DiosG4151
+- Hec_6:3a siete varones...llenos del E Santo y deG4151
+- Hec_6:5a Esteban, varón lleno de...del E SantoG4151
+- Hec_6:10no podían resistir a...E con que hablabaG4151
+- Hec_7:51vosotros resistís siempre al E SantoG4151
+- Hec_7:55Esteban, lleno del E Santo, puestos losG4151
+- Hec_7:59él...decía: Señor Jesús, recibe mi eG4151
+- Hec_8:7de muchos que tenían e inmundos salíanG4151
+- Hec_8:15oraron...para que recibiesen el E SantoG4151
+- Hec_8:17imponían las manos y recibían el EG4151
+- Hec_8:18se daba el E Santo, les ofreció dineroG4151
+- Hec_8:19a quien yo impusiera las...reciba el EG4151
+- Hec_8:29el E dijo a Felipe: Acércate y júntateG4151
+- Hec_8:39el E del Señor arrebató a Felipe; y elG4151
+- Hec_9:17que recibas...y seas lleno del E SantoG4151
+- Hec_9:31se acrecentaban fortalecidas por el EG4151
+- Hec_10:19le dijo el E: He aquí, tres hombres teG4151
+- Hec_10:38Dios ungió con el E Santo y...a JesúsG4151
+- Hec_10:44e Santo cayó sobre todos los que oíanG4151
+- Hec_10:45los gentiles se derramase el don del EG4151
+- Hec_10:47han recibido el E Santo también comoG4151
+- Hec_11:12el E me dijo que fuese con ellos sinG4151
+- Hec_11:15cayó el E Santo sobre ellos tambiénG4151
+- Hec_11:16mas vosotros seréis bautizados con el EG4151
+- Hec_11:24era varón bueno, y lleno del E SantoG4151
+- Hec_11:28daba a entender por el E, que vendríaG4151
+- Hec_13:2dijo el E Santo: Apartadme a Bernabé yG4151
+- Hec_13:4enviados por el E Santo, descendieron aG4151
+- Hec_13:9Pablo, lleno del E Santo, fijando en élG4151
+- Hec_13:52estaban llenos de gozo y del E SantoG4151
+- Hec_15:8Dios...dándoles el E Santo lo mismo que aG4151
+- Hec_15:28porque ha parecido bien al E Santo, y aG4151
+- Hec_16:6fue prohibido por el E Santo hablar laG4151
+- Hec_16:7a Bitinia, pero el E no se lo permitióG4151
+- Hec_16:16una muchacha que tenía e de adivinaciónG4151
+- Hec_16:18y dijo al e: Te mando en el nombre deG4151
+- Hec_17:16su e se enardecía viendo la ciudadG4151
+- Hec_18:25éste...siendo de e fervoroso, hablabaG4151
+- Hec_19:2¿recibisteis el E...cuando creísteis?[[G4151]]
+- Hec_19:2ni siquiera hemos oído si hay E SantoG4151
+- Hec_19:6vino sobre ellos el E Santo; y hablabanG4151
+- Hec_19:12las enfermedades...y los e malos salíanG4151
+- Hec_19:13invocar...sobre los que tenían e malosG4151
+- Hec_19:15el e malo, dijo: A Jesús conozco, y séG4151
+- Hec_19:16y el hombre en quien estaba el e maloG4151
+- Hec_19:21Pablo se propuso en e ir a JerusalénG4151
+- Hec_20:22ligado yo en e, voy a Jerusalén, sinG4151
+- Hec_20:23salvo que el E Santo...me da testimonioG4151
+- Hec_20:28todo el rebaño en que el E Santo os haG4151
+- Hec_21:4decían a Pablo por el E...no subiese aG4151
+- Hec_21:11dice el E Santo: Así atarán los judíosG4151
+- Hec_23:8dicen que no hay...ni ángel, ni e; peroG4151
+- Hec_23:9que si un e le ha hablado, o un ángel, noG4151
+- Hec_28:25habló el E Santo por medio del profetaG4151
+- Rom_1:4con poder, según el E de santidad, porG4151
+- Rom_1:9testigo...es Dios, a quien sirvo en mi eG4151
+- Rom_2:29la circuncisión es...en e, no en la letraG4151
+- Rom_5:5derramado en...corazones por el E SantoG4151
+- Rom_7:6bajo el régimen nuevo del E y no bajo elG4151
+- Rom_8:1conforme a la carne, sino conforme al EG4151
+- Rom_8:2la ley del E...me ha librado de la ley deG4151
+- Rom_8:4no andamos...la carne, sino conforme al EG4151
+- Rom_8:5pero los que son del E, en las cosas del EG4151
+- Rom_8:6es muerte, pero el ocuparse del E es vidaG4151
+- Rom_8:9según el E, si es que el E de Dios moraG4151
+- Rom_8:9y si alguno no tiene al E de...no es de é1G4151
+- Rom_8:10mas el E vive a causa de la justiciaG4151
+- Rom_8:11y si el e de aquel que levantó de losG4151
+- Rom_8:11vivificará...cuerpos mortales por su EG4151
+- Rom_8:13si por el E hacéis morir las obras deG4151
+- Rom_8:14son guiados por el E de Dios, estos sonG4151
+- Rom_8:15no habéis recibido el e de esclavitudG4151
+- Rom_8:15habéis recibido el e de adopción, por elG4151
+- Rom_8:16el E mismo da testimonio a nuestro e, deG4151
+- Rom_8:23que tenemos las primicias del E...gemimosG4151
+- Rom_8:26E nos ayuda en nuestra debilidad; puesG4151
+- Rom_8:26el E mismo intercede por nosotros conG4151
+- Rom_8:27sabe cuál es la intención del E, porqueG4151
+- Rom_9:1y mi conciencia me da testimonio en el EG4151
+- Rom_11:8Dios les dio e de estupor, ojos con queG4151
+- Rom_12:11fervientes en e, sirviendo al SeñorG4151
+- Rom_14:17sino justicia, paz y gozo en el E SantoG4151
+- Rom_15:13abundéis en...por el poder del E SantoG4151
+- Rom_15:16sean ofrenda...santificada por el E SantoG4151
+- Rom_15:19en el poder del E de Dios; de maneraG4151
+- Rom_15:30os ruego, hermanos...por el amor del EG4151
+- 1Co_2:4con demostración del E y de poderG4151
+- 1Co_2:10Dios nos las reveló a nosotros por el EG4151
+- 1Co_2:10el E todo lo escudriña, aun lo profundoG4151
+- 1Co_2:11sino el e del hombre que está en él?[[G4151]]
+- 1Co_2:11nadie conoció...de Dios, sino el e de DiosG4151
+- 1Co_2:12no hemos recibido el e del mundo, sinoG4151
+- 1Co_2:12sino el E que proviene de Dios, para queG4151
+- 1Co_2:13con las que enseña el E, acomodando loG4151
+- 1Co_2:14no percibe las cosas que son del E deG4151
+- 1Co_3:16y que el E de Dios mora en vosotros?[[G4151]]
+- 1Co_4:21¿iré a...con amor y e de mansedumbre?[[G4151]]
+- 1Co_5:3pero presente en e, ya como presente heG4151
+- 1Co_5:4reunidos vosotros y mi e, con el poderG4151
+- 1Co_5:5a fin de que el e sea salvo en el día deG4151
+- 1Co_6:11justificados en...Jesús, y por el E deG4151
+- 1Co_6:17el que se une al Señor, un e es con élG4151
+- 1Co_6:19que vuestro cuerpo es templo del E SantoG4151
+- 1Co_6:20glorificad, pues, a Dios en vuestro...eG4151
+- 1Co_7:34para ser santa así en cuerpo como en eG4151
+- 1Co_7:40y pienso que también yo tengo el E deG4151
+- 1Co_12:3nadie que hable por el E de Dios llamaG4151
+- 1Co_12:3llamar a Jesús Señor, sino por el EG4151
+- 1Co_12:4hay diversidad de dones, pero el E es elG4151
+- 1Co_12:7le es dada la manifestación del E paraG4151
+- 1Co_12:8porque a éste es dada por el E palabraG4151
+- 1Co_12:8palabra de ciencia según el mismo EG4151
+- 1Co_12:9a otro, fe por el mismo E; y a otroG4151
+- 1Co_12:9otro, dones de sanidades por el mismo EG4151
+- 1Co_12:10a otro, discernimiento de e; a otroG4151
+- 1Co_12:11todas estas cosas las hace...el mismo EG4151
+- 1Co_12:13por un solo E fuimos todos bautizadosG4151
+- 1Co_12:13todos se nos dio a beber de un mismo EG4151
+- 1Co_14:2nadie...aunque por el E habla misteriosG4151
+- 1Co_14:14si yo oro en lengua...mi e ora, peroG4151
+- 1Co_14:15oraré con el e, pero oraré también conG4151
+- 1Co_14:15cantaré con el e, pero cantaré tambiénG4151
+- 1Co_14:16porque si bendices sólo con el e, el queG4151
+- 1Co_14:32los e de los profetas están sujetos aG4151
+- 1Co_15:45hecho...el postrer Adán, e vivificanteG4151
+- 1Co_16:18porque confortaron mi e y el vuestroG4151
+- 2Co_1:22ha dado las arras del E en nuestrosG4151
+- 2Co_2:13no tuve reposo en mi e, por no haberG4151
+- 2Co_3:3con tinta, sino con el E del Dios vivoG4151
+- 2Co_3:6del e...la letra mata, mas el e vivificaG4151
+- 2Co_3:8¿cómo no será más...el ministerio del e?[[G4151]]
+- 2Co_3:17el Señor es el E; y donde está el E delG4151
+- 2Co_3:18transformados...como por el E del SeñorG4151
+- 2Co_4:13teniendo el mismo e de fe, conforme aG4151
+- 2Co_5:5Dios, quien nos ha dado las arras del EG4151
+- 2Co_6:6en bondad, en el E Santo, en amor sinceroG4151
+- 2Co_7:1limpiémonos de toda contaminación...de eG4151
+- 2Co_7:13que haya sido confortado su e por todosG4151
+- 2Co_11:4o si recibís otro e que el que habéisG4151
+- 2Co_12:18sino hemos procedido con el mismo e yG4151
+- 2Co_13:14la comunión del E Santo sean con todosG4151
+- Gál_3:2¿recibisteis el E por las obras de laG4151
+- Gál_3:3¿habiendo comenzado por el E, ahora vaisG4151
+- Gál_3:5aquel, pues, que os suministra el E, yG4151
+- Gál_3:14por la fe recibiésemos la promesa del EG4151
+- Gál_4:6Dios envió a vuestros corazones el E deG4151
+- Gál_4:29perseguía al que había nacido según el EG4151
+- Gál_5:5por el E aguardamos por fe la esperanzaG4151
+- Gál_5:16digo...Andad en el E, y no satisfagáis losG4151
+- Gál_5:17la carne es contra el E, y el del E esG4151
+- Gál_5:18si sois guiados por el E, no estáis bajoG4151
+- Gál_5:22mas el fruto del E es amor, gozo, pazG4151
+- Gál_5:25si vivimos por el E, andemos...por el EG4151
+- Gál_6:1falta...restauradle con e de mansedumbreG4151
+- Gál_6:8el que siembra para el E, del E segaráG4151
+- Gál_6:18la gracia de...sea con vuestro e. AménG4151
+- Efe_1:13fuisteis sellados con el E Santo deG4151
+- Efe_1:17que el Dios...os dé e de sabiduría y deG4151
+- Efe_2:2e...opera en los hijos de desobedienciaG4151
+- Efe_2:18los otros tenemos entrada por un mismo EG4151
+- Efe_2:22edificados para morada de Dios en el EG4151
+- Efe_3:5ahora es revelado a...profetas por el EG4151
+- Efe_3:16el ser fortalecidos con poder...por su EG4151
+- Efe_4:3solícitos en guardar la unidad del E enG4151
+- Efe_4:4un cuerpo, y un E, como fuisteis tambiénG4151
+- Efe_4:23y renovaos en el e de vuestra menteG4151
+- Efe_4:30no contristéis al E Santo de Dios, conG4151
+- Efe_5:9porque el fruto del E es en toda bondadG4151
+- Efe_5:18con vino...antes bien sed llenos del EG4151
+- Efe_6:17la espada del E, que es la palabra deG4151
+- Efe_6:18con toda oración y súplica en el E, yG4151
+- Flp_1:19suministración del E de JesucristoG4151
+- Flp_1:27en un mismo E, combatiendo unánimes porG4151
+- Flp_2:1si alguna comunión del E, si algún afectoG4151
+- Flp_3:3que en e servimos a Dios y nos gloriamosG4151
+- Col_1:8nos ha declarado vuestro amor en el EG4151
+- Col_2:5en e estoy con vosotros, gozándome yG4151
+- 1Ts_1:5sino también en poder, en el E SantoG4151
+- 1Ts_1:6recibiendo la palabra en...con gozo del EG4151
+- 1Ts_4:8a Dios, que también nos dio su E SantoG4151
+- 1Ts_5:19no apaguéis al EG4151
+- 1Ts_5:23todo vuestro ser, e, alma...sea guardadoG4151
+- 2Ts_2:2por e, ni por palabra, ni por cartaG4151
+- 2Ts_2:8a quien el Señor matará con el e de suG4151
+- 2Ts_2:13mediante la santificación por el E y laG4151
+- 1Ti_3:16justificado en el E, visto de losG4151
+- 1Ti_4:1el E dice...que en los postreros tiemposG4151
+- 1Ti_4:1escuchando a e engañadores y...demoniosG4151
+- 1Ti_4:12sé ejemplo de los creyentes en...e, feG4151
+- 2Ti_1:7no nos ha dado Dios e de cobardíaG4151
+- 2Ti_1:14guarda el buen depósito por el E santoG4151
+- 2Ti_4:22el Señor Jesucristo esté con tu eG4151
+- Tit_3:5y por la renovación en el E SantoG4151
+- Flm_1:25la gracia de...sea con vuestro e. AménG4151
+- Heb_1:7el que hace a sus ángeles e, y a susG4151
+- Heb_1:14¿no son todos E ministradores, enviadosG4151
+- Heb_2:4milagros y repartimiento del E SantoG4151
+- Heb_3:7como dice el E Santo: Si oyereis hoy suG4151
+- Heb_4:12y penetra hasta partir el alma y el eG4151
+- Heb_6:4y fueron hechos partícipes del E SantoG4151
+- Heb_9:8dando el E Santo a entender con esto queG4151
+- Heb_9:14el cual mediante el E eterno se ofrecióG4151
+- Heb_10:15y nos atestigua lo mismo el E SantoG4151
+- Heb_10:29que...hiciera afrenta al E de gracia?[[G4151]]
+- Heb_12:9¿por qué no obedeceremos...Padre de los eG4151
+- Heb_12:23a los e de los justos hechos perfectosG4151
+- Stg_2:26como el cuerpo sin e está muerto, asíG4151
+- Stg_4:5el e que él ha...nos anhela celosamente?[[G4151]]
+- 1Pe_1:2en santificación del E, para obedecerG4151
+- 1Pe_1:11indicaba el E de Cristo que estaba enG4151
+- 1Pe_1:12los que os han predicado...el E SantoG4151
+- 1Pe_1:22obediencia a la verdad, mediante el EG4151
+- 1Pe_3:4ornato de un e afable y apacible, que esG4151
+- 1Pe_3:18muerto en la carne, pero vivificado en eG4151
+- 1Pe_3:19también fue y predicó a...e encarceladosG4151
+- 1Pe_4:6juzgados en carne...vivan en e según DiosG4151
+- 1Pe_4:14el...E de Dios reposa sobre vosotrosG4151
+- 2Pe_1:21hablaron...inspirados por el E SantoG4151
+- 1Jn_3:24él permanece en nosotros, por el EG4151
+- 1Jn_4:1no creáis a todo e, sino probad los e siG4151
+- 1Jn_4:2en esto conoced el E de Dios: Todo e queG4151
+- 1Jn_4:3e que no confiesa que...venido en carneG4151
+- 1Jn_4:3y este es el e del anticristo, el cual
+- 1Jn_4:6en esto conocemos el e de verdad y el eG4151
+- 1Jn_4:13en nosotros, en que nos ha dado de su EG4151
+- 1Jn_5:6y el E es el que da...el E es la verdadG4151
+- 1Jn_5:7el Padre, el Verbo y el E Santo; y estosG4151
+- 1Jn_5:8el E, el agua y la sangre; y estos tresG4151
+- Jud_1:19son...los sensuales, que no tienen al EG4151
+- Jud_1:20vosotros, amados...orando en el E SantoG4151
+- Rev_1:4y de los siete e que están delante deG4151
+- Rev_1:10yo estaba en el e en el día del SeñorG4151
+- Rev_2:7, Rev_2:11, Rev_2:17, Rev_2:29; Rev_3:6, Rev_3:13, Rev_3:22oiga lo que el E dice a las iglesiasG4151
+- Rev_3:1el que tiene los siete e de Dios...diceG4151
+- Rev_4:2al instante yo estaba en el E; y he aquíG4151
+- Rev_4:5; Rev_5:6los cuales son los siete e de DiosG4151
+- Rev_11:11entró en ellos el e de vida enviado porG4151
+- Rev_14:13dice el E, descansarán de sus trabajosG4151
+- Rev_16:13vi salir de la boca del dragón...tres eG4151
+- Rev_16:14son e de demonios, que hacen señalesG4151
+- Rev_17:3me llevó en el E al desierto; y vi a unaG4151
+- Rev_18:2guarida de todo e inmundo, y albergue deG4151
+- Rev_19:10el testimonio de Jesús es el e de laG4151
+- Rev_21:10me llevó en el E a un monte grande yG4151
+- Rev_22:6Señor, el Dios de los e de los profetasG40
+- Rev_22:17el E y la Esposa dicen: Ven. Y el queG4151

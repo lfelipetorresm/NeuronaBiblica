@@ -1,0 +1,71 @@
+---
+tipo: concordancia
+palabra: PARED
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PARED
+
+- Éxo_30:3oro...sus p en derredor y sus cuernosH7023
+- Éxo_37:26de oro...sus p alrededor, y sus cuernosH7023
+- Lev_1:15sangre será exprimida sobre la p delH7023
+- Lev_5:9rociará...la sangre sobre la p del altarH7023
+- Lev_14:37se vieren manchas en las p de la casaH7023
+- Lev_14:37más profundas que la superficie de la pH7023
+- Lev_14:39hubiere extendido en las p de la casaH7023
+- Núm_22:24senda...que tenía p a un lado y p alH1447
+- Núm_22:25se pegó a la p, y apretó contra la pH7023
+- 1Sa_18:11diciendo: Enclavaré a David a la pH7023
+- 1Sa_19:10enclavar a David con la lanza a la pH7023
+- 1Sa_19:10Saúl, el cual hirió con la lanza en la pH7023
+- 1Sa_20:25el rey se sentó...junto a la p, y JonatánH6654
+- 1Re_4:33el cedro...el hisopo que nace en la pH7023
+- 1Re_6:5las p de la casa alrededor del templo y delH7023
+- 1Re_6:6no empotrar las vigas en las p de la casa
+- 1Re_6:15cubrió las p de la...con tablas de cedroH7023
+- 1Re_6:27el ala de...tocaba una p, y...la otra pH7023
+- 1Re_6:29y esculpió...las p de la casa alrededorH7023
+- 2Re_4:10hagamos un pequeño aposento de pH7023
+- 2Re_9:33y parte de su sangre salpicó en la pH7023
+- 2Re_20:2volvió su rostro a la p, y oró a JehováH7023
+- 1Cr_29:4plata...cubrir las p de las casasH7023
+- 2Cr_3:7sus p...con oro; y esculpió...en las pH7023
+- 2Cr_3:11-12ala...llegaba hasta la p de la casaH7023
+- Esd_5:8ya los maderos están puestos en las pH3797
+- Esd_6:3y que sus p fuesen firmes; su altura deH787
+- Job_24:11dentro de sus p exprimen el aceiteH7791
+- Sal_62:3aplastarle como p desplomada y comoH7023
+- Cnt_2:9está tras nuestra p, mirando por lasH3796
+- Isa_30:13como grieta...extendiéndose en una pH2346
+- Isa_38:2volvió Ezequías su rostro a la p, e hizoH7023
+- Isa_59:10palpamos la p como ciegos, y andamosH7023
+- Eze_8:7y miré, y he aquí en la p un agujeroH7023
+- Eze_8:8cava ahora en la p...Y cavé en la p, y heH7023
+- Eze_8:10ídolos de...que estaban pintados en la pH7023
+- Eze_12:5abrirás paso por entre la p, y saldrásH7023
+- Eze_12:7me abrí paso por entre la p con mi...manoH7023
+- Eze_12:12por la p abrirán paso para sacarlo porH7023
+- Eze_13:10uno edificaba la p, y...la recubrían conH2434
+- Eze_13:12cuando la p haya caído, ¿no os diránH7023
+- Eze_13:14así desbarataré la p que...recubristeisH7023
+- Eze_13:15cumpliré así mi furor en la p y en losH7023
+- Eze_13:15no existe la p, ni...que la recubrieronH7023
+- Eze_23:14cuando vio a hombres pintados en la pH7023
+- Eze_33:30tu pueblo se mofan de ti junto a las pH7023
+- Eze_41:6entraban modillones en la p de la casaH7023
+- Eze_41:6para que no estribasen en la p de la casaH7023
+- Eze_41:9ancho de la p de afuera de las cámarasH7023
+- Eze_41:12y la p del edificio, de cinco codos deH7023
+- Eze_41:13el edificio y sus p, de cien codos deH7023
+- Eze_41:17por toda la p...por dentro y por fueraH7023
+- Eze_41:20querubines...por toda la p del temploH7023
+- Eze_41:22su superficie y sus p eran de maderaH7023
+- Eze_41:25así como los que había en las p y en laH7023
+- Eze_43:8mediando sólo una p entre mí y ellos, hanH7023
+- Eze_46:23y había una p alrededor de...los cuatro
+- Eze_46:23y abajo fogones alrededor de las pH2918
+- Dan_5:5sobre lo encalado de la p del palacioH3797
+- Amó_5:19apoyare su mano en la p, y le muerdeH7023
+- Hec_23:3¡Dios te golpeará a ti, p blanqueada![[G5109]]
+- Efe_2:14hizo uno, derribando la p intermedia

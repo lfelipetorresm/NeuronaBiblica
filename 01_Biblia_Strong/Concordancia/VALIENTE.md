@@ -1,0 +1,127 @@
+---
+tipo: concordancia
+palabra: VALIENTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VALIENTE
+
+- Gén_6:4fueron los v que desde la antigüedadH1368
+- Éxo_15:15los v de Moab les sobrecogerá temblorH352
+- Deu_3:18iréis armados todos los v delante de
+- Jos_1:6esfuérzate y sé v...repartirás a esteH553
+- Jos_1:7esfuérzate y sé muy v, para cuidar deH553
+- Jos_1:9que te mando que te esfuerces y seas vH553
+- Jos_1:14todos los v y fuertes, pasaréis armadosH1368
+- Jos_1:18solamente que te esfuerces y seas vH553
+- Jos_10:7subió Josué...y todos los hombres v conH1368
+- Jos_10:25no temáis, sed fuertes y v, porque asíH553
+- Jue_3:29todos v y todos hombres de guerra; noH8082
+- Jue_5:22los caballos...por el galopar de sus vH47
+- Jue_6:12Jehová...contigo, varón esforzado y vH1368
+- Jue_18:2los hijos de Dan enviaron de...hombres vH2428
+- Jue_21:10envió...a doce mil hombres de los más vH1121, [[H2428]]
+- 1Sa_16:18que sabe tocar, y es v y vigorosoH2428
+- 1Sa_18:17seas hombre v, y pelees las batallas deH2428
+- 1Sa_31:12todos los hombres v se levantaron, yH2428
+- 2Sa_1:19¡ha perecido...cómo han caído los v![[H1368]]
+- 2Sa_1:21allí fue desechado el escudo de los vH1368
+- 2Sa_1:22sin sangre de los...sin grosura de los vH1368
+- 2Sa_1:25¡cómo han caído los v en...de la batalla![[H1368]]
+- 2Sa_1:27y cómo han caído los v, han perecido lasH1368
+- 2Sa_2:7esfuércense...y sed v; pues muerto SaúlH1368
+- 2Sa_10:7envió a Joab con...el ejército de los vH1368
+- 2Sa_11:16sabía que estaban los hombres más vH2428
+- 2Sa_13:28matadle, y...Esforzaos, pues, y sed vH1121, [[H2428]]
+- 2Sa_16:6los hombres v estaban a su derecha y aH1368
+- 2Sa_17:8tú sabes que tu padre y...son hombres vH1368
+- 2Sa_17:10hombre v, cuyo corazón sea como leónH1368
+- 2Sa_17:10Israel sabe que tu padre es hombre vH1368
+- 2Sa_20:7salieron en pos de él los...y todos los vH1368
+- 2Sa_23:8son los nombres de los v que tuvo DavidH1368
+- 2Sa_23:9uno de los tres v que estaban con DavidH1368
+- 2Sa_23:16tres v irrumpieron por el campamentoH1368
+- 2Sa_23:17¿he de beber...Los tres v hicieron estoH1368
+- 2Sa_23:22Joiada, y ganó renombre con los tres vH1368
+- 1Re_1:42tú eres hombre v, y traerás buenasH2428
+- 1Re_11:28Jeroboam era v y esforzado; y viendoH1368
+- 2Re_24:14en cautiverio...a todos los hombres vH2428
+- 2Re_24:16a todos los v...llevó cautivos el rey deH1368
+- 1Cr_5:18hijos de Rubén y de Gad...hombres vH2428
+- 1Cr_5:24fueron los jefes...hombres v y esforzadosH2428
+- 1Cr_7:5las familias de Isacar...87.000 hombres vH1368
+- 1Cr_8:40y fueron los hijos de Ulam hombres v yH1368
+- 1Cr_10:12se levantaron todos los hombres v, yH2428
+- 1Cr_11:10los principales de los v que David tuvoH1368
+- 1Cr_11:11es el número de los v que David tuvoH1368
+- 1Cr_11:12Eleazar hijo de Dodo...era de los tres vH1368
+- 1Cr_11:19vidas...Esto hicieron aquellos tres vH1368
+- 1Cr_11:22Benaía...hijo de un varón v de CabseelH2428
+- 1Cr_11:24Benaía...y fue nombrado con los tres vH1368
+- 1Cr_11:26los v de los ejércitos: Asael hermanoH1368
+- 1Cr_12:1de los v que le ayudaron en la guerraH1368
+- 1Cr_12:4Ismaías...v entre los 30, y más que losH1368
+- 1Cr_12:8hombres de guerra muy v para pelear
+- 1Cr_12:21eran hombres v, y fueron capitanes enH1368
+- 1Cr_12:25los hijos de Simeón,1Cr_7:100 hombres, vH1368
+- 1Cr_12:28Sadoc, joven v y esforzado, con 22 deH1368
+- 1Cr_12:30de Efraín...muy v, varones ilustres enH1368
+- 1Cr_19:8a Joab con todo el ejército de los...vH1368
+- 1Cr_26:9los hijos de Meselemías...18 hombres vH2428
+- 1Cr_26:32y sus hermanos, hombres v, eran 2.700H2428
+- 1Cr_27:6Benaía era v entre los treinta y sobreH1368
+- 1Cr_28:1reunió David...los más poderosos y v deH1368
+- 2Cr_17:13tuvo...hombres de guerra muy v enH1368
+- 2Cr_17:16Amasías hijo...con él 200.000 hombres vH1368
+- 2Cr_25:6tomó a sueldo por...cien mil hombres vH1368
+- 2Cr_26:12el número de los jefes de familia, vH1368
+- 2Cr_26:17con él ochenta sacerdotes...varones vH2428
+- 2Cr_28:6Peka...mató en Judá...120.000 hombres vH2428
+- 2Cr_32:3tuvo consejo...con sus hombres v, paraH1368
+- 2Cr_32:21el cual destruyó a todo v y esforzadoH1368
+- Neh_3:16restauró...y hasta la casa de los VH1368
+- Sal_24:8el fuerte y v; Jehová el poderoso enH1368
+- Sal_33:16no...ni escapa el v por la mucha fuerzaH1368
+- Sal_45:3ciñe tu espada...oh v, con tu gloria yH1368
+- Sal_78:65despertó el Señor como...un v que gritaH1368
+- Sal_120:4agudas saetas de v...brasas de enebroH1368
+- Sal_127:4como saetas en mano del v, así son losH1368
+- Cnt_3:7sesenta v la rodean, de los fuertesH1368
+- Cnt_4:4mil escudos están colgados...escudos de vH1368
+- Isa_3:2el v y el hombre de guerra, el juez yH1368
+- Isa_5:22¡ay de los que son v para beber vinoH1368
+- Isa_10:13y derribé como v a los que...sentadosH3524
+- Isa_13:3llamé a mis v para mi ira, a los que seH1368
+- Isa_21:17los sobrevivientes de los v flecherosH1368
+- Isa_31:1su esperanza ponen...en jinetes...son vH6105
+- Isa_49:24¿Será quitado el botín al v? ¿SeráH1368
+- Isa_49:25el cautivo será rescatado del v, y elH1368
+- Jer_5:16su aliaba como sepulcro abierto...vH1368
+- Jer_9:23ni en su valentía se alabe el v, ni el ricoH1368
+- Jer_14:9¿por qué...como v, que no puede librar?[[H1368]]
+- Jer_46:5sus v, fueron deshechos, y huyeron sinH1368
+- Jer_46:6no huya el ligero, ni el v escape; alH1368
+- Jer_46:9alborotaos, carros, y salgan los v; losH1368
+- Jer_46:12v, tropezó contra v, y cayeron ambosH1368
+- Jer_48:14Somos hombres v, y robustos para la guerra?[[H1368]]
+- Jer_48:41aquel día el corazón de los v de MoabH4679, [[H1368]]
+- Jer_49:22y el corazón de los v de Edom será enH1368
+- Jer_50:9sus flechas son como de v diestro, queH1368
+- Jer_50:36espada contra sus v, y...quebrantadosH1368
+- Jer_51:30los v, de Babilonia dejaron de pelearH1368
+- Jer_51:56destruidor...y sus v fueron apresadosH1368
+- Dan_11:3se levantará luego un rey v, el cualH1368
+- Ose_10:13confiaste...en la multitud de tus vH1368
+- Joe_2:7como v correrán...subirán el muro; cadaH1368
+- Joe_3:9despertad a los v, acérquense, venganH1368
+- Amó_2:14el ligero no...ni el v, librará su vidaH2389
+- Amó_2:16esforzado de entre los v huirá desnudoH1368
+- Abd_1:9y tus v, oh Temán, serán amedrentadosH1368
+- Nah_2:3el escudo de sus v estará enrojecidoH1368
+- Nah_2:5se acordará él de sus v, se atropellaránH117
+- Nah_3:18reposaron tus v, tu pueblo se derramóH7931
+- Sof_1:14es amarga la voz...gritará allí el vH1368
+- Zac_9:13oh Sion...te pondré como espada de vH1368
+- Zac_10:5serán como v que en la batalla huellanH1368
+- Zac_10:7y será Efraín como v, y se alegrará suH1368

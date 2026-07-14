@@ -1,0 +1,142 @@
+---
+tipo: concordancia
+palabra: AFLIGIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AFLIGIR
+
+- Gén_16:6como Sarai la afligía, ella huyó deH6031
+- Gén_31:50si afligieres a mis hijas, o si tomaresH6031
+- Gén_45:26Jacob se afligió, porque no los creíaH6313
+- Éxo_5:22¿por qué afliges a este pueblo? ¿ParaH7489
+- Éxo_5:23ha afligido a este pueblo; y tú no hasH7489
+- Éxo_22:22a ninguna viuda ni huérfano afligiréisH6031
+- Éxo_22:23llegas a afligirles, y ellos clamaren aH6031
+- Éxo_23:22yo...afligiré a los que te afligierenH6696
+- Lev_16:29mes séptimo...afligiréis vuestras almasH6031
+- Lev_16:31afligiréis vuestras almas; es estatutoH6031
+- Lev_23:27de este mes...afligiréis vuestras almasH6031
+- Lev_23:29toda persona que no se afligiere enH6031
+- Lev_23:32de reposo...y afligiréis vuestras almasH6031
+- Núm_24:24y afligirán a Asiria, a también aH6031
+- Núm_25:18ellos os afligieron...con sus ardidesH6887
+- Núm_29:7mes séptimo...afligiréis vuestras almasH6031
+- Núm_30:13voto...obligándose a afligir el almaH6031
+- Núm_33:55os afligirán sobre la tierra en queH6887
+- Deu_8:2afligirte...para saber lo que había enH6031
+- Deu_8:3te afligió, y te hizo tener hambre, y teH6031
+- Deu_8:16afligiéndote...a la postre hacerte bienH6031
+- Deu_26:6los egipcios...nos afligieron y pusieronH6031
+- Jue_2:18gemidos a causa de los que...afligíanH1766
+- Jue_6:9de mano de todos los que os afligieronH3905
+- Jue_10:9y fue afligido Israel en gran maneraH3334
+- Jue_16:19y ella comenzó a afligirlo...su fuerzaH6031
+- Rut_1:21Jehová...Todopoderoso me ha afligido?[[H7489]]
+- 1Sa_1:8¿y por qué está afligido tu corazón?[[H7489]]
+- 1Sa_5:9afligió a los hombres de aquella ciudadH5221
+- 1Sa_6:4una misma plaga ha afligido a...vosotros
+- 1Sa_10:2tu padre ha...está afligido por vosotrosH1672
+- 1Sa_10:18y os libré de todos...que os afligieronH3905
+- 1Sa_22:2se juntaron con él todos los afligidosH4689
+- 2Sa_7:10ni los inicuos le aflijan más, comoH6031
+- 2Sa_12:18¿cuánto más se afligirá si le decimosH6213, [[H7451]]
+- 2Sa_22:28porque tú salvas al pueblo afligidoH6041
+- 1Re_2:26has sido afligido en todas las cosasH6031
+- 1Re_2:26las cosas en que fue afligido mi padreH6031
+- 1Re_8:35y se volvieren...cuando los afligieresH6031
+- 1Re_11:39yo afligiré a la descendencia de DavidH6031
+- 1Re_17:20Dios...¿aún a la viuda que...has afligidoH7489
+- 2Re_13:4lo oyó...el rey de Siria los afligíaH3905
+- 2Re_13:22Hazael...rey de Siria afligió a IsraelH3905
+- 2Re_17:20Jehová...los afligió, y los entregó enH6031
+- 2Cr_6:26oraren a ti...cuando los afligieresH6031
+- Esd_8:21afligirnos delante de nuestro DiosH6031
+- Neh_9:27enemigos, los cuales los afligieronH6887
+- Job_10:15de deshonra, y de verme afligidoH6040
+- Job_24:21a la mujer...que no concebía, afligió
+- Job_30:11Dios desató su cuerda, y me afligióH6031
+- Job_30:25¿no lloré yo al afligido? Y mi almaH5701
+- Job_31:39si comí...o afligí el alma de sus dueños
+- Job_36:6pero a los afligidos dará su derechoH6041
+- Job_37:23en multitud de justicia no afligiráH6031
+- Sal_9:12no se olvidó del clamor...afligidosH6035
+- Sal_18:27porque tú salvarás al pueblo afligidoH6041
+- Sal_22:24ni abominó la aflicción del afligidoH6039, [[H6041]]
+- Sal_25:16ten misericordia...estoy solo y afligidoH6041
+- Sal_35:10libras al afligido del más fuerte queH6041
+- Sal_35:12mal por bien, para afligir a mi almaH7908
+- Sal_35:13de cilicio; afligí con ayuno mi almaH6031
+- Sal_40:17aunque afligido yo y necesitado, JehováH6041
+- Sal_44:2afligiste a los pueblos, y...arrojasteH7489
+- Sal_69:10lloré afligiendo con ayuno mi alma, y
+- Sal_69:29mas a mí, afligido me ponga en altoH6041
+- Sal_70:5estoy afligido y menesteroso; apresúrateH6041
+- Sal_72:2juzgará a...a tus afligidos con juicioH6041
+- Sal_72:4juzgará a los afligidos del puebloH6041
+- Sal_72:12él librará...al afligido que no tuviereH6041
+- Sal_74:19y no...la congregación de tus afligidosH6041
+- Sal_74:21el afligido y el menesteroso alabaránH6041
+- Sal_82:3justicia al afligido y al menesterosoH6041
+- Sal_82:4librad al afligido y al necesitadoH1800
+- Sal_86:1oído, y escúchame...afligido y menesterosoH6041
+- Sal_88:7y me has afligido con todas tus ondasH6031
+- Sal_88:15estoy afligido y menesteroso; desde laH6041
+- Sal_90:15conforme a los días que nos afligisteH6031
+- Sal_94:5a tu pueblo, oh...y a tu heredad afligenH6031
+- Sal_105:18afligieron sus pies con grillosH6031
+- Sal_107:17afligidos los insensatos, a causa deH6031
+- Sal_109:16cuanto...persiguió al hombre afligidoH6041
+- Sal_109:22yo estoy afligido y necesitado, y miH6041
+- Sal_116:10creí...estando afligido en gran maneraH6031
+- Sal_119:75conforme a tu fidelidad me afligisteH6031
+- Sal_119:107afligido estoy...vivifícame conforme aH6031
+- Sal_140:12Jehová tomará...la causa del afligidoH6041
+- Sal_142:6escucha mi clamor...estoy muy afligidoH1809, [[H3966]]
+- Pro_11:15será afligido el que sale por fiadorH7451, [[H7489]]
+- Pro_15:15todos los días del afligido...difícilesH6041
+- Pro_22:22ni quebrantes en la puerta al afligidoH6041
+- Pro_25:20que canta canciones al corazón afligidoH7451
+- Pro_31:5perviertan el derecho de...los afligidosH6040
+- Isa_10:2quitar el derecho a los afligidos deH6041
+- Isa_11:13de Judá, ni Judá afligirá a EfraínH6887
+- Isa_14:32a ella se acogerán los afligidos de suH2620
+- Isa_26:6la hollará pie, los pies del afligidoH6041
+- Isa_41:17los afligidos y menesterosos buscan lasH6041
+- Isa_49:10sed, ni el calor ni el sol los afligiráH5221
+- Isa_51:13día temiste...del furor del que afligeH6693
+- Isa_51:13en dónde está el furor del que aflige?[[H6693]]
+- Isa_51:21oye...ahora esto, afligida, ebria, y noH6041
+- Isa_53:7afligido, no abrió su boca...enmudecióH6031
+- Isa_58:5que de día aflija el hombre su alma, queH6031
+- Isa_58:10si dieres...saciares al alma afligidaH6031
+- Isa_60:14vendrán...hijos de los que te afligieronH6031
+- Isa_61:3ordenar que a los afligidos de Sion seH57
+- Isa_64:12¿callarás, y nos afligirás sobremanera?[[H6031]]
+- Isa_65:25no afligirán, ni harán mal en todo miH7489
+- Jer_10:18y los afligiré, para que lo sientanH6887
+- Jer_22:16él juzgó la causa del afligido y delH6041
+- Jer_31:28así como...trastornar y perder y afligirH7489
+- Jer_51:29temblará la tierra, y se afligiráH2342
+- Lam_1:4vírgenes están afligidas, y ella tieneH3013
+- Lam_1:5Jehová la afligió por la multitud de susH3013
+- Lam_3:32antes si aflige, también se compadeceH3013
+- Lam_3:33no aflige ni...a los hijos de los hombresH6031
+- Eze_16:49y no fortaleció la mano del afligidoH6041
+- Eze_22:29afligido y menesteroso hacía violenciaH6041
+- Dan_10:2afligido por espacio de tres semanasH56
+- Ose_8:10serán afligidos...por la carga del reyH2490
+- Amó_5:12que afligís al justo, y recibís cohechoH6887
+- Amó_6:6no se afiigen por el quebrantamiento deH7667
+- Miq_4:6recogeré la descarriada...la que afligíH7489
+- Nah_1:12te he afligido; no te afligiré ya másH6031
+- Zac_12:10afligiéndose...como quien se afligeH4843
+- Mal_3:14y que andemos afligidos en presenciaH6941
+- Mat_4:24afligidos por diversas enfermedadesG4912
+- Mar_10:22afligido por esta palabra, se fueG3076
+- 1Ti_5:10si ha socorrido a los afligidosG2346
+- Stg_4:9afligíos, y lamentad, y lloradG5003
+- Stg_5:13¿está alguno entre vosotros afligido?[[G2553]]
+- 1Pe_1:6aunque...tengáis que ser afligidos enG3076
+- 2Pe_2:8Lot...afligía cada día su alma justaG928

@@ -1,0 +1,84 @@
+---
+tipo: concordancia
+palabra: ARREPENTIRSE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ARREPENTIRSE
+
+- Gén_6:6y se arrepintió Jehová de haber hechoH5162
+- Gén_6:7raeré...me arrepiento de haberlos hechoH5162
+- Éxo_13:17no se arrepienta el pueblo cuando veaH5162
+- Éxo_32:12arrepiéntete de...mal contra tu puebloH5162
+- Éxo_32:14entonces Jehová se arrepintió del malH5162
+- Núm_23:19no es hombre, para que se arrepientaH5162
+- Deu_30:1te arrepintieres en medio de todas lasH7725
+- Deu_32:36por amor de sus siervos se arrepentiráH5162
+- Jue_21:6los hijos de Israel se arrepintieronH5162
+- 1Sa_15:29el que...no mentirá, ni se arrepentiráH5162
+- 1Sa_15:29no es hombre para que se arrepientaH5162
+- 1Sa_15:35Jehová se arrepentía de...Saúl por reyH5162
+- 2Sa_24:16Jehová se arrepintió de aquel malH5162
+- 1Cr_21:15miró Jehová y se arrepintió de...malH5162
+- Job_42:6y me arrepiento en polvo y cenizaH5162
+- Sal_7:12no se arrepiente...afilará su espadaH7725
+- Sal_106:45arrepentía conforme a...misericordiasH5162
+- Sal_110:4juró Jehová, y no se arrepentirá: TúH5162
+- Jer_4:28hablé, lo pensé, y no me arrepentíH5162
+- Jer_8:6no hay hombre que se arrepienta de su malH5162
+- Jer_15:6destruiré; estoy cansado de arrepentirmeH5162
+- Jer_18:8me arrepentiré del mal que había pensadoH5162
+- Jer_18:10arrepentiré del bien que había pensadoH5162
+- Jer_20:16que asoló Jehová, y no se arrepintióH5162
+- Jer_26:3me arrepentiré yo del mal que piensoH5162
+- Jer_26:13y se arrepentirá Jehová del mal que haH5162
+- Jer_26:19Jehová se arrepintió del mal que habíaH5162
+- Jer_34:11se arrepintieron e hicieron volver aH7725
+- Jer_36:3se arrepienta cada uno de su mal caminoH7725
+- Jer_42:10porque estoy arrepentido del mal que osH5162
+- Eze_24:14no...misericordia, ni me arrepentiréH5162
+- Joe_2:14se arrepentirá y dejará bendición trasH5162
+- Amó_7:3, Amó_7:6se arrepintió Jehová de esto: No seráH5162
+- Jon_3:9¿quién sabe si se...arrepentirá DiosH5162
+- Jon_3:10se arrepintió del mal que había dichoH5162
+- Jon_4:2tú eres Dios...que te arrepientes del malH5162
+- Zac_8:14paré haceros mal...y no me arrepentíH5162
+- Mat_3:2; Mat_4:17arrepentíos, porque el reino deG3340
+- Mat_11:20las ciudades...no se habían arrepentidoG3340
+- Mat_11:21se hubieran arrepentido en cilicio yG3340
+- Mat_12:41arrepintieron a la predicación de JonásG3340
+- Mat_21:29no quiero; pero después, arrepentidoG3338
+- Mat_21:32no os arrepentisteis...para creerleG3338
+- Mat_27:3Judas...devolvió arrepentido las...de plataG3338
+- Mar_1:15arrepentíos y creed en el evangelioG3340
+- Mar_6:12predicaban...los hombres se arrepintiesenG3340
+- Luc_10:13tiempo ha que...se habrían arrepentidoG3340
+- Luc_11:32predicación de Jonás se arrepintieronG3340
+- Luc_13:3, Luc_13:5si no os arrepentís, todos pereceréisG3340
+- Luc_15:7, Luc_15:10gozo...por un pecador que se arrepienteG3340
+- Luc_16:30si alguno fuere a ellos...se arrepentiránG3340
+- Luc_17:3pecare...y si se arrepintiere, perdónaleG3340
+- Luc_17:4a ti, diciendo: Me arrepiento; perdónaleG3340
+- Hec_2:38arrepentíos, y bautícese cada uno enG3340
+- Hec_3:19que, arrepentíos...para que sean borradosG3340
+- Hec_8:22arrepiéntete, pues, de esta tu maldadG3340
+- Hec_17:30manda a todos los...que se arrepientanG3340
+- Hec_26:20se arrepintiesen y se convirtiesen aG3340
+- Rom_2:5tu corazón no arrepentido atesoras...iraG279
+- 2Co_7:10de que no hay que arrepentirse; peroG278
+- 2Co_12:21han pecado, y no se han arrepentido deG3340
+- 2Ti_2:25Dios les conceda que se arrepientanG3341
+- Heb_7:21juró el Señor, y no se arrepentiráG3338
+- Rev_2:5arrepiéntete, y haz las primeras obrasG3340
+- Rev_2:5quitaré...si no te hubieres arrepentidoG3340
+- Rev_2:16arrepiéntete; pues si no, vendré a tiG3340
+- Rev_2:21le he dado tiempo para que se arrepientaG3340
+- Rev_2:21no quiere arrepentirse de su fornicaciónG3340
+- Rev_2:22no se arrepienten de las obras de ellaG3340
+- Rev_3:3acuérdate, pues...guárdalo, y arrepiénteteG3340
+- Rev_3:19amo; sé, pues, celoso, y arrepiénteteG3340
+- Rev_9:20ni aun así se arrepintieron de las obrasG3340
+- Rev_9:21no se arrepintieron de sus homicidiosG3340
+- Rev_16:9y no se arrepintieron para darle gloriaG3340
+- Rev_16:11y no se arrepintieron de sus obrasG3340

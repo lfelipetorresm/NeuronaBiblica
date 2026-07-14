@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: LEER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LEER
+
+- Éxo_24:7tomó el libro del pacto y lo leyó aH7121
+- Deu_17:19y leerá en él todos los días de suH7121
+- Deu_31:11leerás esta ley delante de todo IsraelH7121
+- Jos_8:34leyó todas las palabras de la ley, lasH7121
+- Jos_8:35que Josué no hiciese leer delante de todaH7121
+- 2Re_5:7que el rey de Israel leyó las cartasH7121
+- 2Re_19:14y después que las hubo leído, subió aH7121
+- 2Re_22:8Hilcías dio el libro a Safán, y lo leyóH7121
+- 2Re_22:10libro. Y lo leyó Safán delante del reyH7121
+- 2Re_22:16este libro que ha leído el rey de JudáH7121
+- 2Re_23:2leyó...todas las palabras del libro delH7121
+- 2Cr_34:18y leyó Safán en él delante del reyH7121
+- 2Cr_34:24en el libro que leyeron delante del reyH7121
+- 2Cr_34:30y leyó...todas las palabras del libroH7121
+- Esd_4:18carta...fue leída claramente delanteH7123
+- Esd_4:23cuando la copia de la carta...fue leídaH7123
+- Neh_8:3leyó en el libro delante de la plazaH7121
+- Neh_8:8y leían en el libro de la ley de DiosH7121
+- Neh_8:18y leyó Esdras en el libro de la ley deH7121
+- Neh_9:3puestos de pie...leyeron el libro de laH7121
+- Neh_13:1aquel día se leyó en el libro de MoisésH7121
+- Est_6:1dijo...que las leyeran en su presenciaH7121
+- Isa_29:11el cual si dieren al que sabe leerH5612
+- Isa_29:11y le dijeren: lee ahora esto; él diráH7121
+- Isa_29:12se diere el libro al que no sabe leerH7121
+- Isa_29:12si...Lee ahora esto; él dirá: No sé leerH5612
+- Isa_34:16leed si faltó alguno de ellos; ningunoH7121
+- Isa_37:14y tomó Ezequías las cartas...y las leyóH7121
+- Jer_29:29el sacerdote...había leído esta cartaH7121
+- Jer_36:6entra tú, pues, y lee de este rollo queH7121
+- Jer_36:6las leerás también a oídos de todos losH7121
+- Jer_36:8Baruc...leyendo en el libro las palabrasH7121
+- Jer_36:10Baruc leyó en el libro las palabras deH7121
+- Jer_36:13cuando Baruc leyó en el libro a oídosH7121
+- Jer_36:14el rollo en el que leíste a oídos delH7121
+- Jer_36:15siéntate...y léelo...Y se lo leyó BarucH7121
+- Jer_36:21leyó en él Jehudí a oídos del rey, y aH7121
+- Jer_36:23había leído tres o cuatro planas, loH7121
+- Jer_51:61llegues a Babilonia, y veas y leas todasH7121
+- Jer_51:63cuando acabes de leer este libro, leH7121
+- Dan_5:7cualquiera que lea esta escritura y meH7123
+- Dan_5:8no pudieron leer la escritura ni mostrarH7123
+- Dan_5:15que leyesen esta escritura y me diesenH7123
+- Dan_5:16si ahora puedes leer esta escritura yH7123
+- Dan_5:17leeré la escritura al rey, y le daré laH7123
+- Hab_2:2para que corra el que leyere en ellaH7121
+- Mat_12:3¿no habéis leído lo que hizo DavidG314
+- Mat_12:5¿o no habéis leído en la ley, cómo enG314
+- Mat_19:4¿no habéis leído que el que los hizo alG314
+- Mat_21:16nunca leísteis: De la boca de los niñosG314
+- Mat_21:42¿nunca leisteis en las Escrituras: LaG314
+- Mat_22:31¿no habéis leído lo que os fue dichoG314
+- Mat_24:15cuando veáis en...(el que lee, entienda)[[G314]]
+- Mar_2:25él...¿Nunca leísteis lo que hizo DavidG314
+- Mar_12:10ni aun esta escritura habéis leído: LaG314
+- Mar_12:26¿no habéis leído en el libro de MoisésG314
+- Mar_13:14la abominación...(el que lee, entienda)[[G314]]
+- Luc_4:16en la sinagoga...y se levantó a leerG314
+- Luc_6:3¿ni aun esto habéis leído, lo que hizoG314
+- Luc_10:26está escrito en la ley? ¿Cómo lees?[[G314]]
+- Jua_19:20muchos...judíos leyeron este títuloG314
+- Hec_8:28su carro, y leyendo al profeta IsaíasG314
+- Hec_8:30oyó que leía al profeta Isaías, y dijoG314
+- Hec_8:30y dijo: Pero ¿entiendes lo que lees?[[G314]]
+- Hec_8:32el pasaje...que leía era este: Como ovejaG314
+- Hec_13:27ni las palabras...que se leen todos losG314
+- Hec_15:21tiene...donde es leído cada día de reposoG314
+- Hec_15:31habiendo leído la cual, se regocijaronG314
+- Hec_23:34el gobernador, leída la carta, preguntóG314
+- 2Co_1:13no os...otras cosas de las que leéisG314
+- 2Co_3:2conocidas y leídas por todos los hombresG314
+- 2Co_3:14hoy, cuando leen el antiguo pacto, lesG320
+- 2Co_3:15cuando se lee a Moisés, el velo estáG314
+- Efe_3:4leyendo lo cual podéis entender cuálG314
+- Col_4:16cuando esta carta haya sido leídaG314
+- Col_4:16se lea...y que la de Laodicea la leáisG314
+- 1Ts_5:27que esta carta se lea a todos losG314
+- Rev_1:3bienaventurado el que lee, y los queG314
+- Rev_5:4digno de abrir el libro, ni de leerloG314

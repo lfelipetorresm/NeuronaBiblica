@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: VENCER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VENCER
+
+- Gén_30:8he contendido con mi...y he vencidoH3201
+- Gén_32:28has luchado con Dios y...y has vencidoH2476
+- Jos_8:15todo Israel se fingieron vencidos yH5060
+- Jue_16:5cómo lo podríamos vencer, para queH3201
+- Jue_20:32vencidos son delante de nosotros, comoH5062
+- 1Sa_4:2fue vencido delante de los filisteosH5062
+- 1Sa_4:10pelearon...Israel fue vencido, y huyeronH5062
+- 1Sa_7:10los atemorizó, y fueron vencidos delanteH5062
+- 1Sa_17:9y me venciere...seremos vuestros siervosH5221
+- 1Sa_17:9y lo venciere, vosotros seréis...siervosH5221
+- 1Sa_17:25lo venciere, el rey le enriquecerá conH5221
+- 1Sa_17:26al hombre que venciere a este filisteoH5221
+- 1Sa_17:27así se hará al hombre que le venciereH5221
+- 1Sa_17:46yo te venceré, y te cortaré la cabezaH5221
+- 1Sa_17:50así venció David al filisteo con hondaH2388
+- 1Sa_21:9la espada de Goliat...al que tú vencisteH5221
+- 2Sa_2:17vencidos por los siervos de DavidH5062
+- 2Sa_5:20vino David...y allí los venció David, yH5221
+- 2Sa_8:10porque había peleado...lo había vencidoH5221
+- 1Re_20:23nos han vencido; mas si peleáremosH2388
+- 1Re_20:23la llanura, se verá si no los venceremosH2388
+- 1Re_20:25y veremos si no los venceremos...Y él lesH2388
+- 2Re_3:26el rey de Moab vio que era vencido enH2388
+- 1Cr_11:14y vencieron a los filisteos, porqueH5221
+- 1Cr_11:22Benaía...él venció a los dos leones deH5221
+- 1Cr_11:23venció a un egipcio...de cinco codos deH5221
+- 1Cr_18:10haber peleado con, y haberle vencidoH5221
+- 2Cr_27:5tuvo él guerra...a los cuales vencióH2388
+- Est_6:13no lo vencerás, sino que caerás porH3201
+- Job_32:13digáis...Lo vence Dios, no el hombreH5086
+- Sal_13:4para que no diga mi enemigo: Lo vencíH3201
+- Cnt_6:5aparta tus ojos ellos me vencieronH7292
+- Jer_1:19; Jer_15:20pelearán...mas no te venceránH3201
+- Jer_20:7más fuerte fuiste que yo, y me vencisteH3201
+- Dan_7:21guerra contra los santos, y...vencíaH3202
+- Ose_12:3tomó...y con su poder venció al ángelH8280
+- Ose_12:4venció al ángel, y prevaleció; lloró, yH7786
+- Luc_11:22viene otro...le vence, le quita todasG3528
+- Jua_16:33pero confiad, yo he vencido al mundoG3528
+- Hec_20:9un joven...vencido del sueño cayó delG2702
+- Rom_3:4para que...venzas cuando fueres juzgadoG3528
+- Rom_12:21no seas vencido...vence con el bien elG3528
+- 2Pe_2:19es vencido...esclavo del que lo vencióG2274
+- 2Pe_2:20enredándose otra vez...son vencidos, suG2274
+- 1Jn_2:13os escribo...porque habéis vencido alG3528
+- 1Jn_2:14sois fuertes...habéis vencido al malignoG3528
+- 1Jn_4:4vosotros sois de Dios...los habéis vencidoG3528
+- 1Jn_5:4lo que es nacido de Dios vence al mundoG3528
+- 1Jn_5:4es la victoria que ha vencido al mundoG3528
+- 1Jn_5:5¿quién es el que vence al mundo, sino elG3528
+- Rev_2:7que venciere, le daré a comer del árbolG3528
+- Rev_2:11el que venciere, no sufrirá daño de laG3528
+- Rev_2:17al que venciere, daré a comer del manáG3528
+- Rev_2:26que venciere y guardare mis obras hastaG3528
+- Rev_3:5que venciere será vestido de vestidurasG3528
+- Rev_3:12al que venciere, yo lo haré columna enG3528
+- Rev_3:21al que venciere, le daré que se sienteG3528
+- Rev_3:21así como yo he vencido, y me he sentadoG3528
+- Rev_5:5el León...ha vencido para abrir el libroG3528
+- Rev_6:2corona, y salió venciendo, y para vencerG3528
+- Rev_11:7hará guerra contra ellos, y los venceráG3528
+- Rev_12:11han vencido por medio de la sangre delG3528
+- Rev_13:7guerra contra los santos, y vencerlosG3528
+- Rev_17:14y el Cordero los vencerá, porque él esG3528
+- Rev_21:7el que venciere heredará todas las cosasG3528

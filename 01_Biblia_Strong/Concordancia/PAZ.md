@@ -1,0 +1,378 @@
+---
+tipo: concordancia
+palabra: PAZ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PAZ
+
+- Gén_15:15tú vendrás a tus padres en p, y serásH7965
+- Gén_26:29te hemos hecho bien, y te enviamos en pH7965
+- Gén_26:31Isaac...ellos se despidieron de él en pH7965
+- Gén_28:21y si volviere en p a casa de mi padreH7965
+- Gén_43:23les respondió: P a vosotros, no temáisH7965
+- Gén_44:17él será mi siervo; vosotros id en p aH7965
+- Éxo_4:18iré...Y Jetro dijo a Moisés: Vé en pH7965
+- Éxo_18:23todo este pueblo irá en p a su lugarH7965
+- Éxo_20:24Y sacrificarás sobre...tus ofrendas de pH8002
+- Éxo_24:5ofrecieron...sacrificios de p a JehováH8002
+- Éxo_29:28una ofrenda de...de sus sacrificios de pH8002
+- Éxo_32:6y presentaron ofrendas de P; y se sentóH8002
+- Lev_3:1si su ofrenda fuere sacrificio de p, siH8002
+- Lev_3:3ofrecerá del sacrificio de p...ofrendaH8002
+- Lev_3:6ovejas...su ofrenda para sacrificio de pH8002
+- Lev_3:9del sacrificio de p ofrecerá por ofrendaH8002
+- Lev_4:10se quita del buey del sacrificio de pH8002
+- Lev_4:26como la grosura del sacrificio de p; asíH8002
+- Lev_4:31, Lev_4:35quitada la grosura del sacrificio de pH8002
+- Lev_6:12él las grosuras de los sacrificios de pH8002
+- Lev_7:11esta es la ley del sacrificio de p queH8002
+- Lev_7:13sacrificio de acciones de gracias de pH8002
+- Lev_7:14que rociare la...de los sacrificios de pH8002
+- Lev_7:15la carne del sacrificio de p en acciónH8002
+- Lev_7:18, Lev_7:20-21la carne del sacrificio de pH8002
+- Lev_7:29el que ofreciere sacrificio de p a JehováH8002
+- Lev_7:29traerá su...sacrificio de p ante JehováH8002
+- Lev_7:32y daréis...de vuestros sacrificios de pH8002
+- Lev_7:33la sangre de los sacrificios de p, y laH8002
+- Lev_7:34tomado de los sacrificios de p de losH8002
+- Lev_7:37esta es la ley del...del sacrificio de pH8002
+- Lev_9:4buey y un carnero para sacrificio de pH8002
+- Lev_9:18degolló...el carnero en sacrificio de pH8002
+- Lev_9:22de hacer...el sacrificio de p, descendióH8002
+- Lev_10:14de los sacrificios de p de los hijos deH8002
+- Lev_17:5sacrifiquen...sacrificios de p a JehováH8002
+- Lev_19:5ofreciereis sacrificio de ofrenda de p aH8002
+- Lev_22:21en ofrenda de p a Jehová para cumplirH8002
+- Lev_23:19corderos...en sacrificio de ofrenda de pH8002
+- Lev_26:6daré p en la tierra, y dormiréis, y noH7965
+- Núm_6:14carnero sin defecto por ofrenda de pH8002
+- Núm_6:17y ofrecerá el carnero en ofrenda de p aH8002
+- Núm_6:18el fuego que...debajo de la ofrenda de pH8002
+- Núm_6:26alce sobre ti su rostro, y ponga en ti pH7965
+- Núm_7:17, Núm_7:23, Núm_7:29, Núm_7:35, Núm_7:41, Núm_7:47, Núm_7:53, Núm_7:59, Núm_7:65, Núm_7:71, Núm_7:77, Núm_7:83y para ofrenda de p, dos bueyesH8002
+- Núm_7:88bueyes de la ofrenda de p, 24 novillosH8002
+- Núm_10:10trompetas...obre los sacrificios de pH8002
+- Núm_15:8o sacrificio, por especial voto, o de pH8002
+- Núm_25:12he aquí yo establezco mi pacto de p conH7965
+- Núm_29:39estas cosas ofreceréis...ofrendas de pH8002
+- Deu_2:26y envié mensajeros...con palabras de pH7965
+- Deu_20:10cuando te acerques...le intimarás la pH7965
+- Deu_20:11si respondiere: P, y te abriere, todoH7965
+- Deu_20:12si no hiciere P...y emprendiere guerraH7999
+- Deu_23:6no procurarás la p de ellos ni su bienH7965
+- Deu_27:7y sacrificarás ofrendas de p, y comerásH8002
+- Deu_29:19tendré p, aunque ande en la dureza deH7965
+- Jos_8:31un altar...sacrificaron ofrendas de pH8002
+- Jos_9:15y Josué hizo p con ellos, y celebró conH7965
+- Jos_10:1habían hecho p con los israelitas, y queH7999
+- Jos_10:4Gabaón...ha hecho p con Josué y con losH7999
+- Jos_11:19no hubo ciudad que hiciese p con...IsraelH7999
+- Jos_22:23para ofrecer sobre él ofrendas de p, elH8002
+- Jos_22:27con nuestras ofrendas de p; y no diganH8002
+- Jue_4:17había p entre Jabín la casa de HeberH7965
+- Jue_6:23dijo: P a ti; no tengas temor, no morirásH7965
+- Jue_8:9cuando yo vuelva en p, derribaré estaH7965
+- Jue_11:13Israel tomó mi tierra...devuélvela en pH7965
+- Jue_18:6les respondió: Id en p; delante de JehováH7965
+- Jue_19:20el hombre anciano dijo: P sea contigoH7965
+- Jue_20:26; Jue_21:4y ofrecieron holocaustos y...de pH8002
+- Jue_21:13envió luego a hablar...los llamaron en pH8002
+- 1Sa_1:17vé en p...el Dios de Israel te otorgueH7965
+- 1Sa_7:14y hubo p entre Israel y el amorreoH7965
+- 1Sa_10:8descenderé yo...sacrificar ofrendas de pH8002
+- 1Sa_11:15sacrificaron...ofrendas de p delante deH8002
+- 1Sa_13:9Saúl: Traedme holocausto y ofrendas de pH8002
+- 1Sa_20:7si él dijere: Bien...tendrá p tu siervoH7965
+- 1Sa_20:13y te enviare para que te vayas en pH7965
+- 1Sa_20:21vendrás, porque p tienes, y nada maloH7965
+- 1Sa_20:42vete en p, porque ambos hemos juradoH7965
+- 1Sa_25:6sea p a ti, y p a tu familia, y p a todoH7965
+- 1Sa_25:35sube en p a tu casa...que he oído tu vozH7965
+- 1Sa_29:7vuélvete...y vete en p para no desagradarH7965
+- 1Sa_30:21cuando David llegó...les saludó con p
+- 2Sa_3:21despidió luego a Abner...se fue en pH7965
+- 2Sa_3:22Abner no estaba...él se había ido en pH7965
+- 2Sa_3:23el rey...le ha despedido, y se fue en pH7965
+- 2Sa_6:17holocaustos y ofrendas de p delante deH8002
+- 2Sa_6:18ofrecer los holocaustos y ofrendas de pH8002
+- 2Sa_10:19hicieron p con Israel y le sirvieronH7999
+- 2Sa_15:9el rey le dijo: Vé en p. Y él se levantóH7965
+- 2Sa_15:27¿no eres tú...Vuelve en p a la ciudadH7965
+- 2Sa_17:3hayan vuelto, todo el pueblo estará en pH7965
+- 2Sa_18:28Ahimaas dijo en alta voz al rey: P. Y seH7965
+- 2Sa_19:24desde...hasta el día en que volvió en pH7965
+- 2Sa_19:30señor el rey ha vuelto en p a su casaH7965
+- 2Sa_24:25sacrificó holocaustos y ofrendas de pH8002
+- 1Re_2:5derramando en tiempo de p la sangre deH7965
+- 1Re_2:6no dejarás descender...canas al Seol en pH7965
+- 1Re_2:13le dijo: ¿Es tu venida de p?...Sí, de pH7965
+- 1Re_2:33y sobre su trono habrá perpetuamente pH7965
+- 1Re_3:15holocaustos y ofreció sacrificios de pH8002
+- 1Re_4:24señoreaba en...y tuvo p por todos ladosH7965
+- 1Re_5:4Dios me ha dado p por todas partes; puesH5117
+- 1Re_5:12y hubo p entre Hiram y Salomón...pactoH7965
+- 1Re_8:56bendito sea Jehová, que ha dado p a suH4496
+- 1Re_8:63y ofreció Salomón sacrificios de p, losH8002
+- 1Re_8:64la grosura de los sacrificios de p, porH8002
+- 1Re_8:64no cabían en él...los sacrificios de pH8002
+- 1Re_9:25ofrecía Salomón...sacrificios de p sobreH8002, [[[[H8002]]]]
+- 1Re_20:18si han salido por p, tomadlos vivos; yH7965
+- 1Re_22:17vi...vuélvase cada uno a su casa en pH7965
+- 1Re_22:27en la cárcel...hasta que yo vuelva en pH7965
+- 1Re_22:28si llegas a volver en p, Jehová no haH7965
+- 1Re_22:44y Josafat hizo p con el rey de IsraelH7999
+- 2Re_4:23¿para qué vas...Y ella respondió: PH7965
+- 2Re_5:19y él le dijo: Ve en p...Se fue, pues, yH7965
+- 2Re_9:11salió Jehú a los...y le dijeron: ¿Hay p?[[H7965]]
+- 2Re_9:17un jinete que vaya...y les diga: ¿Hay p?[[H7965]]
+- 2Re_9:18-19dijo: El rey dice así: ¿Hay p? Y JehúH7965
+- 2Re_9:18-19¿qué tienes tú que ver con la p?[[H7965]]
+- 2Re_9:22¿hay p, Jehú? Y él respondió: ¿Qué p, conH7965
+- 2Re_16:13sangre de sus sacrificios de p junto alH8002
+- 2Re_18:31haced conmigo p, y salid a mí, y coma
+- 2Re_20:19habrá al menos p y seguridad, mis díasH7965
+- 2Re_22:20serás llevado a tu sepulcro en p, y noH7965
+- 1Cr_12:17si habéis venido a mí para p y paraH7965
+- 1Cr_12:18p, p contigo, y p con tus ayudadoresH7965
+- 1Cr_16:1el arca...ofrecieron...y sacrificios de pH8002
+- 1Cr_16:2acabó de ofrecer...los sacrificios de pH8002
+- 1Cr_19:19los sirios de...concertaron p con DavidH7999
+- 1Cr_21:26que ofreció...ofrendas de p, e invocó aH8002
+- 1Cr_22:9será varón de p, porque yo le daré p deH7965
+- 1Cr_22:9yo daré p y reposo sobre Israel en susH7965
+- 1Cr_22:18Dios...os ha dado p por todas partes?[[H3499]]
+- 1Cr_23:25Dios de Israel ha dado p a su puebloH3499
+- 2Cr_7:7y la grosura de las ofrendas de pH8002
+- 2Cr_14:5y estuvo el reino en p bajo su reinadoH8252
+- 2Cr_14:6había p en la...Jehová le había dado pH5117
+- 2Cr_14:7Jehová...nos ha dado p por todas partesH5117
+- 2Cr_15:5en aquellos tiempos no hubo p, ni paraH7965
+- 2Cr_15:15y Jehová les dio p por todas partesH5117
+- 2Cr_18:16señor; vuélvase cada uno en p a su casaH7965
+- 2Cr_18:26en la cárcel...hasta que yo vuelva en pH7965
+- 2Cr_18:27volvieres en p, Jehová no ha habladoH7965
+- 2Cr_19:1Josafat rey de Judá volvió en p a suH7965
+- 2Cr_20:30Josafat tuvo p...Dios le dio p por todasH8252
+- 2Cr_29:35hubo...con grosura de las ofrendas de pH8002
+- 2Cr_30:22la fiesta...ofreciendo sacrificios de pH8002
+- 2Cr_31:2levitas para ofrecer...las ofrendas de pH8002
+- 2Cr_33:16sacrificó sobre él...ofrendas de p y deH8002
+- 2Cr_34:28y serás recogido en tu sepulcro en p, yH7965
+- Esd_4:17rey envió esta respuesta...Salud y pH8001
+- Esd_5:7así estaba escrito...Al rey Darío toda pH8001
+- Esd_7:12Artajerjes rey de reyes, a Esdras...P
+- Esd_9:12ni procuraréis...su p ni su prosperidadH7965
+- Neh_9:28pero una vez que tenían p, volvían aH5117
+- Est_9:22días en que los judíos tuvieron p deH5117
+- Est_9:30cartas a...con palabras de p y de verdadH7965
+- Est_10:3Mardoqueo...habló p para todo su linajeH7965
+- Job_3:26no he tenido p, no me asegure, niH5117
+- Job_5:23las fieras del campo estarán en p contigoH7999
+- Job_5:24que hay p en tu tienda...nada te faltaráH7965
+- Job_21:13prosperidad, y en p descienden al Seol
+- Job_22:21vuelve...en amistad con él, y tendrás pH7999
+- Job_25:2están con él; él hace p en sus alturasH7965
+- Sal_4:8en p me acostaré, y asimismo dormiréH7965
+- Sal_7:4si...mal pago al que estaba en p conmigoH7999
+- Sal_28:3hablan p con sus prójimos, pero la maldadH7965
+- Sal_29:11Jehová bendecirá a su pueblo con pH7965
+- Sal_34:14y haz el bien; busca la p, y síguelaH7965
+- Sal_35:20no hablan p; y contra los mansos de laH7965
+- Sal_35:27sea exaltado Jehová, que ama la p de suH7965
+- Sal_37:11mansos...recrearán con abundancia de pH7965
+- Sal_37:37un final dichoso para el hombre de pH7965
+- Sal_38:3ni hay p en mis huesos, a causa de miH7965
+- Sal_41:9el hombre de mi p, en quien yo confiaba
+- Sal_55:18él redimirá en p mi alma de la guerraH7965
+- Sal_55:20sus manos contra los que estaban en pH7965
+- Sal_72:3los montes llevarán p al pueblo, y losH7965
+- Sal_72:7y muchedumbre de p, hasta que no hayaH7965
+- Sal_85:8hablará p a su pueblo y a sus santosH7965
+- Sal_85:10verdad...la justicia y la p se besaronH7965
+- Sal_119:165mucha p tienen los que aman tu leyH7965
+- Sal_120:6ha morado...con los que aborrecen la pH7965
+- Sal_122:6pedid por la p de Jerusalén...te amanH7965
+- Sal_122:7p dentro de tus muros, y el descansoH7965
+- Sal_122:8por amor de...diré yo: La p sea contigoH7965
+- Sal_125:5Jehová los llevará...p sea sobre IsraelH7965
+- Sal_128:6veas a los hijos de...P sea sobre IsraelH7965
+- Sal_147:14él da en tu territorio la p; te haráH7965
+- Pro_3:2largura de...y vida y p te aumentaránH7965
+- Pro_3:17sus caminos son...y todas sus veredas pH7965
+- Pro_7:14sacrificios de p había prometido, hoyH8002
+- Pro_16:7a sus enemigos hace estar en p con élH7999
+- Pro_17:1mejor es un bocado seco, y en p, que casaH7962
+- Ecl_3:8amar...tiempo de guerra, y tiempo de pH7965
+- Cnt_8:10desde que fui...como la que halla pH7965
+- Isa_9:6llamará...Padre eterno, Príncipe de pH7965
+- Isa_9:7de su imperio y la p no tendrán límiteH7965
+- Isa_14:7toda la tierra está en reposo y en p; seH5117
+- Isa_26:3tú guardarás en completa p a aquel cuyoH7965
+- Isa_26:12tú nos darás p...porque también hicisteH7965
+- Isa_27:5haga conmigo p, sí, haga p conmigoH7965
+- Isa_32:17el efecto de la justicia será p; y laH7965
+- Isa_32:18mi pueblo habitará en morada de p, enH7965
+- Isa_33:7los mensajeros de p llorarán amargamenteH7965
+- Isa_36:16haced conmigo p, y salid a mí; y coma
+- Isa_38:17amargura grande me sobrevino en la pH7965
+- Isa_39:8lo menos, haya p y seguridad en mis díasH7965
+- Isa_41:3pasó en p por camino por donde sus piesH7965
+- Isa_45:7que formo...hago la p, y creo la adversidadH7965
+- Isa_48:18fuera entonces tu p como un río, y tuH7965
+- Isa_48:22no hay p para los malos, dijo JehováH7965
+- Isa_52:7pies del que anuncia la p, del que traeH7965
+- Isa_53:5el castigo de nuestra p fue sobre él, yH7965
+- Isa_54:10no...ni el pacto de mi p se quebrantaráH7965
+- Isa_54:13y se multiplicará la p de tus hijosH7965
+- Isa_55:12con p seréis vueltos; los montes y losH7965
+- Isa_57:2entrará en la p; descansarán en...lechosH7965
+- Isa_57:19p, p al que está lejos y al cercanoH7965
+- Isa_57:21no hay p, dijo mi Dios, para los impíosH7965
+- Isa_59:8no conocieron camino de p, ni...justiciaH7965
+- Isa_59:8cualquiera que por...fuere, no conocerá pH7965
+- Isa_60:17y pondré p por tu tributo, y justiciaH7965
+- Isa_66:12yo extiendo sobre ella p como un ríoH7965
+- Jer_4:10has engañado...diciendo: P tendréisH7965
+- Jer_6:14y curan la...diciendo: P, p; y no hay pH7965
+- Jer_8:11con liviandad, diciendo: P, p; y no hay pH7965
+- Jer_8:15esperamos p, y no hubo bien...curación, yH7965
+- Jer_9:8con su boca dice p a su amigo, y dentroH7965
+- Jer_12:5si en la tierra de p no estabas seguroH7965
+- Jer_12:12espada...no habrá p para ninguna carneH7965
+- Jer_14:13que en este lugar os daré p verdaderaH7965
+- Jer_14:19esperamos p, y no hubo bien; tiempo deH7965
+- Jer_15:5o quién vendrá a preguntar por tu p?
+- Jer_16:5yo he quitado mi p de este pueblo, diceH7965
+- Jer_23:17dicen...P tendréis; y a cualquiera queH7965
+- Jer_28:9el profeta que profetiza de p, cuando seH7965
+- Jer_29:7y procurad la p de la ciudad a la cualH7965
+- Jer_29:7rogad...porque en su p tendréis vosotros pH7965
+- Jer_29:11pensamientos de p, y no de mal, paraH7965
+- Jer_30:5hemos oído voz de temblor...y no de pH7965
+- Jer_33:6les revelaré abundancia de p y de verdadH7965
+- Jer_33:9temerán y temblarán...de toda la p que yoH7965
+- Jer_34:5en p morirás...y te endecharán, diciendoH7965
+- Jer_38:4no busca la p de este pueblo, sino elH7965
+- Jer_43:12limpiará la tierra...y saldrá de...en pH7965
+- Lam_3:17y mi alma se alejó de la p, me olvidéH7965
+- Eze_7:25viene; y buscarán la p, y no la habráH7965
+- Eze_13:10mi pueblo, diciendo: P, no habiendo pH7965
+- Eze_13:16ven para ella visión de p, no habiendo pH7965
+- Eze_34:25y estableceré con ellos pacto de p, yH7965
+- Eze_37:26y haré con ellos pacto de p...perpetuoH7965
+- Eze_43:27sacrificarán...y vuestras ofrendas de pH8002
+- Eze_45:15ofrendas de p, para expiación por ellosH8002
+- Eze_45:17él dispondrá...las ofrendas de p, paraH8002
+- Eze_46:2sacerdotes ofrezcan...y sus ofrendas de pH8002
+- Eze_46:12hiciere...u ofrendas de p a Jehová, leH8002
+- Eze_46:12ofrendas de p, como hace en el día deH8002
+- Dan_4:1toda la tierra: P os sea multiplicadaH8001
+- Dan_6:25escribió a todos...P os sea multiplicadaH8001
+- Dan_10:19no temas; la p sea contigo; esfuérzateH7965
+- Dan_11:6vendrá al rey del norte para hacer la pH4339
+- Dan_11:24estando la provincia en p y...abundanciaH7962
+- Amó_5:22no los recibiré, ni...las ofrendas de pH8002
+- Abd_1:7en p contigo prevalecieron contra tiH7965
+- Miq_3:5claman: P, cuando tienen algo que comerH7965
+- Miq_5:5y éste será nuestra p...Cuando el asirioH7965
+- Nah_1:15los pies del que...del que anuncia la pH7965
+- Hag_2:9y daré p en este lugar, dice Jehová deH7965
+- Zac_6:13se sentará...consejo de p habrá entreH7965
+- Zac_8:10ni hubo p para el que salía ni para elH7965
+- Zac_8:12porque habrá simiento de p; la vid daráH7965
+- Zac_8:16según la verdad y lo conducente a la pH7965
+- Zac_8:19ha dicho...Amad, pues, la verdad y la pH7965
+- Zac_9:10hablará p a las naciones, y su señoríoH7965
+- Mal_2:5mi pacto con él fue de vida y de p, lasH7965
+- Mal_2:6en p y en justicia anduvo conmigo, y aH7965
+- Mat_10:13la casa fuere digna, vuestra p vendráG1515
+- Mat_10:13si no...vuestra p se volverá a vosotrosG1515
+- Mat_10:34para traer p...no...traer p, sino espadaG1515
+- Mar_5:34fe...vé en p, y queda sana de tu azoteG1515
+- Mar_9:50tened sal en...y tened p los unos con losG1518
+- Luc_1:79para encaminar...pies por camino de pG1515
+- Luc_2:14en la tierra p, buena voluntad para conG1515
+- Luc_2:29ahora, Señor, despides a tu siervo en pG1515
+- Luc_7:50; Luc_8:48dijo...tu fe te ha salvado; vé en pG1515
+- Luc_10:5primeramente decid: P sea a esta casaG1515
+- Luc_10:6hijo de p, vuestra p reposará sobre élG1515
+- Luc_11:21guarda...palacio, en p está lo que tieneG1515
+- Luc_12:51¿pensáis que he venido para dar p en laG1515
+- Luc_14:32una embajada y le pide condiciones de pG1515
+- Luc_19:38p en el cielo, y gloria en las alturas![[G1515]]
+- Luc_19:42si tú conocieses...lo que es para tu p![[G1515]]
+- Luc_24:36puso en medio...les dijo: P a vosotrosG1515
+- Jua_14:27la p os dejo, mi p os doy; yo no osG1515
+- Jua_16:33os he hablado para que en mí tengáis pG1515
+- Jua_20:19vino Jesús, y...les dijo: P a vosotrosG1515
+- Jua_20:21Jesús les dijo otra vez: P a vosotrosG1515
+- Jua_20:26llegó Jesús...y les dijo: P a vosotrosG1515
+- Hec_7:26y los ponía en p, diciendo: VaronesG4900
+- Hec_9:31las iglesias tenían p por toda JudeaG3062
+- Hec_10:36envió...anunciando el evangelio de la pG1515
+- Hec_12:20p, porque su territorio era abastecidoG1515
+- Hec_15:33fueron despedidos en p por los hermanosG1515
+- Hec_16:36así que ahora salid, y marchaos en pG1515
+- Hec_24:2debido a ti gozamos de gran p, y muchasG1515
+- Rom_1:7gracia y p a vosotros, de Dios...PadreG1515
+- Rom_2:10y honra y p a todo el que hace lo buenoG1515
+- Rom_3:17y no conocieron camino de pG1515
+- Rom_5:1justificados, pues, por la fe, tenernos pG1515
+- Rom_8:6pero el ocuparse del Espíritu es vida y pG1515
+- Rom_10:15son los pies de los que anuncian la pG1515
+- Rom_12:18si es posible...estad en p con todos losG1518
+- Rom_14:17justicia, p y gozo en el Espíritu SantoG1515
+- Rom_14:19así...sigamos lo que contribuye a la p yG1515
+- Rom_15:13os llene de todo gozo y p en el creerG1515
+- Rom_15:33y el Dios de p sea con todos vosotrosG1515
+- Rom_16:20Dios de p aplastará en breve a SatanásG1515
+- 1Co_1:3p a vosotros, de Dios nuestro PadreG1515
+- 1Co_7:15sujeto a...sino que a p nos llamó DiosG1515
+- 1Co_14:33Dios no es Dios de confusión, sino de pG1515
+- 1Co_16:11encaminadle en p, para que venga a míG1515
+- 2Co_1:2p a vosotros, de Dios nuestro PadreG1515
+- 2Co_13:11vivid en p; y el Dios de p y de amorG1515, [[G1518]]
+- Gál_1:3gracia y p sean a vosotros, de Dios elG1515
+- Gál_5:22gozo, p, paciencia, benignidad, bondadG1515
+- Gál_6:16p y misericordia sea a ellos, y al IsraelG1515
+- Efe_1:2gracia y p a vosotros, de Dios...PadreG1515
+- Efe_2:14él es nuestra p, que de ambos...hizo unoG1515
+- Efe_2:15un solo y nuevo hombre, haciendo la pG1515
+- Efe_2:17vino y anunció las buenas nuevas de p aG1515
+- Efe_4:3unidad del Espíritu en el vínculo de la pG1515
+- Efe_6:15pies con el apresto del evangelio de la pG1515
+- Efe_6:23p sea a los hermanos, y amor con fe, deG1515
+- Flp_1:2p a vosotros, de Dios nuestro PadreG1515
+- Flp_4:7p de Dios, que sobrepasa...entendimientoG1515
+- Flp_4:9haced; y el Dios de p estará con vosotrosG1515
+- Col_1:2gracia y p sean a vosotros, de DiosG1515
+- Col_1:20haciendo la p mediante la sangre de suG1517
+- Col_3:15y la p de Dios gobierne en...corazonesG1515
+- 1Ts_1:1gracia y p sean a vosotros, de DiosG1515
+- 1Ts_5:3digan: P y seguridad, entonces vendráG1515
+- 1Ts_5:13causa de su obra. Tened p entre vosotrosG1515
+- 1Ts_5:23el Dios de p os santifique por completoG1515
+- 2Ts_1:2p a vosotros, de Dios nuestro PadreG1515
+- 2Ts_3:16y el mismo Señor de p os dé siempre pG1515
+- 1Ti_1:2; 2Ti_1:2gracia, misericordia y pG1515
+- 2Ti_2:22sigue la justicia, la fe...y la p, conG1515
+- Tit_1:4gracia, misericordia y p, de DiosG1515
+- Flm_1:3gracia y p a vosotros, de Dios...PadreG1515
+- Heb_7:2cuyo nombre significa...esto es, Rey de pG1515
+- Heb_11:31habiendo recibido a los espías en pG1515
+- Heb_12:14seguid la p con todos, y la santidadG1515
+- Heb_13:20el Dios de p que resucitó...a nuestroG1515
+- Stg_2:16les dice: Id en p, calentaos y saciaosG1515
+- Stg_3:18siembra en p para aquellos que hacen la pG1515
+- 1Pe_1:2gracia y p os sean multiplicadasG1515
+- 1Pe_3:11y haga el bien; busque la p, y sígalaG1515
+- 1Pe_5:14p sea con todos vosotros...en JesucristoG1515
+- 2Pe_1:2gracia y p os sean multiplicadas, enG1515
+- 2Pe_3:14hallados por él...irreprensibles, en pG1515
+- 2Jn_1:3sea con vosotros gracia...y p, de DiosG1515
+- 3Jn_1:15p sea contigo. Los amigos te saludanG1515
+- Jud_1:2misericordia y p...os sean multiplicadosG1515
+- Rev_1:4gracia y p a vosotros, del que es y queG1515
+- Rev_6:4fue dado poder de quitar de la tierra la pG1515

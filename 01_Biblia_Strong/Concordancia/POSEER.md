@@ -1,0 +1,94 @@
+---
+tipo: concordancia
+palabra: POSEER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# POSEER
+
+- Gén_22:17poseerá las puertas de sus enemigosH3423
+- Gén_24:60posean tus...la puerta de sus enemigosH3423
+- Lev_20:24poseeréis la tierra de ellos, y yo osH3423
+- Lev_20:24la daré para que la poseáis por heredadH3423
+- Núm_18:23no poseerán heredad entre...de Israel
+- Núm_18:24entre los hijos de...no poseerán heredad
+- Núm_32:18hasta que...posean cada uno su heredadH5159
+- Núm_36:8los hijos de Israel posean...a heredadH5159
+- Deu_1:8y poseed la tierra que Jehová juró aH3423
+- Deu_4:1entréis y poseáis la tierra que JehováH3423
+- Deu_4:22vosotros pasaréis, y poseeréis...tierraH3423
+- Deu_4:47poseyeron su tierra, y la tierra de OgH3423
+- Deu_5:33días en la tierra que habéis de poseerH3423
+- Deu_6:18y entres y poseas la buena tierra queH3423
+- Deu_8:1y poseáis la tierra que Jehová prometióH3423
+- Deu_9:4me ha traído Jehová a poseer esta tierraH3423
+- Deu_9:5ni por la rectitud de tu...entras a poseerH3423
+- Deu_9:23subid y poseed la tierra que yo os heH3423
+- Deu_10:11posean la tierra que juré a sus padresH3423
+- Deu_11:8poseáis la tierra a la cual pasáis paraH3423
+- Deu_11:31pasáis...para ir a poseer la tierra queH3423
+- Deu_12:29naciones adonde tú vas para poseerlasH3423
+- Deu_19:2Jehová tu Dios te da para que la poseasH3423
+- Deu_19:14en la heredad que poseas...no reducirásH3423
+- Deu_21:1Jehová tu Dios te da para que la poseasH3423
+- Deu_25:19te da por heredad para que la poseasH3423
+- Deu_33:23a Neftalí...posee el occidente y el surH3423
+- Jos_1:11a poseer la tierra que Jehová...os daH3423
+- Jos_1:15posean la tierra que Jehová tu...les daH3423
+- Jos_12:1cuya tierra poseyeron al otro lado delH3423
+- Jos_13:1años y queda aún mucha tierra por poseerH3423
+- Jos_17:18tú...lo poseerás hasta sus límites más
+- Jos_18:3seréis negligentes...a poseer la tierraH3423
+- Jos_21:43dio...la poseyeron y habitaron en ellaH3423
+- Jos_23:5y vosotros poseeréis sus tierras, comoH3423
+- Jos_24:4el monte de Seir, para que lo poseyeseH3423
+- Jos_24:8y poseísteis su tierra, y los destruíH3423
+- Jue_2:6cada uno a su heredad para poseeríaH3423
+- Jue_11:24te hiciere poseer...¿no lo poseerías tú?[[H3423]]
+- Jue_11:24lo que desposeyó...Dios...lo poseeremosH3423
+- Jue_18:7Lais...ni había quien poseyese el reinoH3423
+- 2Re_17:24poseyeron a Samaria, y habitaron enH3423
+- 1Cr_28:8para que poseáis la buena tierra, yH3423
+- Esd_9:11tierra a la cual entráis para poseerlaH3423
+- Neh_9:15que entrasen a poseer la tierra, porH3423
+- Neh_9:22y poseyeron la tierra de Sehón...de OgH3423
+- Neh_9:23padres que habían de entrar a poseerlaH3423
+- Neh_9:24hijos vinieron y poseyeron la tierra, yH3423
+- Job_3:15con los príncipes que poseían el oroH3423
+- Sal_69:35Judá; y habitarán allí, y la poseeránH3423
+- Pro_8:22Jehová me poseía en el principio, yaH7069
+- Pro_16:22manantial de vida es...al que lo posee
+- Pro_19:8el que posee entendimiento ama su almaH1167
+- Ecl_8:8ni la impiedad librará al que la poseeH7069
+- Isa_14:2y la casa de Israel los poseerá porH5157
+- Isa_14:21no se levanten, ni posean la tierra, niH3423
+- Isa_57:13en mí confía...y poseerá mi santo monteH5157
+- Isa_61:7en sus tierras poseerán doble honra, yH3423
+- Isa_63:18poco tiempo lo poseyó tu santo puebloH3423
+- Isa_65:9y mis escogidos poseerán por heredad la
+- Jer_12:14heredad que hice poseer a mi puebloH5159
+- Jer_16:19mentira poseyeron nuestros padres, y noH5157
+- Jer_32:43poseerán heredad en esta tierra de la
+- Eze_7:24los más perversos...poseerán las casasH3423
+- Eze_33:24Abraham era uno, y poseyó la tierraH3423
+- Eze_33:25diles...y poseeréis vosotros la tierra?[[H3423]]
+- Eze_33:26hicisteis...habréis de poseer la tierra?[[H3423]]
+- Eze_46:18de lo que él posee dará herencia a susH272
+- Dan_7:18y poseerán el reino hasta el sigloH2631
+- Amó_9:12posean el resto de Edom, y a todas lasH3423
+- Abd_1:19del Neguev poseerán el monte de EsaúH3423
+- Abd_1:19poseerán también los campos de Efraín, yH3423
+- Abd_1:20cautivos de...poseerán lo de los cananeosH3423
+- Abd_1:20Sefarad poseerán las ciudades del NeguevH3423
+- Hab_1:6los caldeos...poseer las moradas ajenasH3423
+- Zac_2:12Jehová poseerá a Judá su heredad enH5157
+- Zac_8:12haré que el remanente...posea todo estoH5157
+- Luc_11:21guarda su...en paz está lo que posee
+- Luc_12:15la abundancia de los bienes que poseeG5224
+- Luc_12:33vended lo que poseéis, y dad limosnaG5224
+- Luc_14:33que no renuncia a todo lo que posee, noG5224
+- Hec_4:32decía ser suyo propio...lo que poseíaG5224
+- Hec_4:34los que poseían...o casas, las vendíanG2935
+- 1Co_7:30que compran, como si no poseyesenG2722
+- 2Co_6:10teniendo nada, mas poseyéndolo todoG2722

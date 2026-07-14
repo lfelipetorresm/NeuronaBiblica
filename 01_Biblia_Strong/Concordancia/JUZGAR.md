@@ -1,0 +1,244 @@
+---
+tipo: concordancia
+palabra: JUZGAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUZGAR
+
+- Gén_15:14la nación a la cual servirán, juzgaréH1777
+- Gén_16:5Sarai dijo...juzgue Jehová entre tú y yoH8199
+- Gén_30:6me juzgó Dios, y también oyó mi voz, yH1777
+- Gén_31:37ponlo aquí...y juzguen entre nosotrosH3198
+- Gén_31:53el Dios de Nacor juzgue entre nosotrosH8199
+- Gén_49:16Dan juzgará a su pueblo, como una deH1777
+- Éxo_5:21mire Jehová sobre vosotros, y juzgueH8199
+- Éxo_18:13se sentó Moisés a juzgar al pueblo; yH8199
+- Éxo_18:16a mí, y yo juzgo entre el uno y el otroH8199
+- Éxo_18:22ellos juzgarán al pueblo en todo tiempoH8199
+- Éxo_18:22y ellos juzgarán todo asunto pequeñoH8199
+- Éxo_18:26juzgaban al pueblo en todo tiempo; elH8199
+- Éxo_18:26y ellos juzgaban todo asunto pequeñoH8199
+- Éxo_21:22penados conforme...juzgaren los jueces
+- Lev_19:15con justicia juzgarás a tu prójimoH8199
+- Núm_35:24la congregación juzgará entre el queH8199
+- Deu_1:16juzgad justamente entre el hombre yH8199
+- Deu_16:18jueces...los cuales juzgarán al puebloH8199
+- Deu_25:1para que los jueces los juzguen, éstosH8199
+- Deu_32:36porque Jehová juzgará a su pueblo, yH1777
+- Jue_3:10y juzgó a Israel, y salió a batallaH8199
+- Jue_10:2juzgó a Israel 23 años; y murió, y fueH8199
+- Jue_10:3Jair...el cual juzgó a Israel 22 añosH8199
+- Jue_11:27Jehová...es el juez, juzgue hoy entreH8199
+- Jue_12:7Jefté juzgó a Israel seis años; y murióH8199
+- Jue_12:8después de él juzgó a Israel Ibzán deH8199
+- Jue_12:9el cual tuvo...y juzgó a Israel siete añosH8199
+- Jue_12:11juzgó a Israel Elón...el cual j...10 añosH8199
+- Jue_12:13después...juzgó a Israel Abdón hijo deH8199
+- Jue_12:14éste tuvo...y juzgó a Israel ocho añosH8199
+- Jue_15:20juzgó a Israel en los días de...20 añosH8199
+- Jue_16:31le sepultaron...juzgó a Israel 20 añosH8199
+- 1Sa_2:10Jehová juzgará los confines de laH1777
+- 1Sa_2:25si pecare el hombre...jueces le juzgaránH6419
+- 1Sa_3:13le mostraré que yo juzgaré su casa paraH8199
+- 1Sa_4:18y había juzgado a Israel cuarenta añosH8199
+- 1Sa_7:6juzgó Samuel a los...de Israel en MizpaH8199
+- 1Sa_7:15juzgó Samuel a Israel todo el tiempo queH8199
+- 1Sa_7:16juzgaba a Israel en todos estos lugaresH8199
+- 1Sa_7:17volvía a Ramá...y allí juzgaba a IsraelH8199
+- 1Sa_8:5constitúyenos...rey que nos juzgue, comoH8199
+- 1Sa_8:6danos un rey que nos juzgue. Y Samuel oróH8199
+- 1Sa_24:12juzgue Jehová entre tú y...y vénguemeH8199
+- 1Sa_24:15Jehová, pues...él juzgará entre tú y yoH8199
+- 1Sa_25:39bendito sea Jehová, que juzgó la causaH7378
+- 1Re_3:9da...corazón entendido para juzgar aH8199
+- 1Re_3:28que había en él sabiduría...para juzgarH8199
+- 1Re_7:7el pórtico del...en que había de juzgarH8199
+- 1Re_8:32tu oirás desde el cielo...y juzgarás aH8199
+- 1Cr_16:33porque viene a juzgar la tierraH8199
+- 1Cr_18:14reinó David...y juzgaba con justicia aH4941
+- 2Cr_6:23y juzgarás a tus siervos, dando laH8199
+- 2Cr_19:6no juzgáis en lugar de hombre, sino enH8199
+- 2Cr_19:6cual está con vosotros cuando juzgáisH8199
+- 2Cr_20:12¡oh Dios nuestro! ¿no los juzgarás tú?[[H8199]]
+- Esd_7:26juzgado prontamente, sea a muerteH1780
+- Job_21:22juzgando...a los que están elevados?[[H8199]]
+- Job_22:13cómo juzgará a través de la oscuridad?[[H8199]]
+- Job_31:28también sería maldad juzgada; porqueH6416
+- Sal_7:8Jehová juzgará a los pueblos; júzgameH8199
+- Sal_9:4te has sentado en...juzgando con justiciaH8199
+- Sal_9:8juzgará al mundo con justicia, y a losH8199
+- Sal_9:19sean juzgadas las naciones delante deH8199
+- Sal_10:18para juzgar al huérfano y al oprimidoH8199
+- Sal_26:1júzgame, oh Jehová, porque yo en miH8199
+- Sal_35:24júzgame conforme a tu justicia...DiosH8199
+- Sal_37:33ni lo condenará cuando le juzgarenH8199
+- Sal_43:1júzgame, oh Dios, y defiende mi causaH8199
+- Sal_50:4convocará a...para juzgar a su puebloH1777
+- Sal_58:1¿juzgáis rectamente, hijos de...hombres?[[H8199]]
+- Sal_58:11dirá...hay Dios que juzga en la tierraH8199
+- Sal_67:4porque juzgarás los pueblos con equidadH8199
+- Sal_72:2él juzgará a tu pueblo con justicia, yH1777
+- Sal_72:4juzgará a los afligidos del puebloH8199
+- Sal_75:2al tiempo que señalaré yo juzgaréH8199
+- Sal_76:9cuando te levantaste...Dios, para juzgarH4941
+- Sal_82:1Dios está...medio de los dioses juzgaH8199
+- Sal_82:2¿hasta cuándo juzgaréis injustamenteH8199
+- Sal_82:8levántate, oh Dios, juzga la tierraH8199
+- Sal_96:10juzgará a los pueblos en justiciaH1777
+- Sal_96:13vino a juzgar la...juzgará al mundoH8199
+- Sal_98:9Jehová, porque vino a juzgar la tierraH8199
+- Sal_98:9juzgará al mundo con justicia, y a losH8199
+- Sal_109:7cuando fuere juzgado, salga culpableH8199
+- Sal_109:31librar su alma de los que le juzganH8199
+- Sal_110:6juzgará entre las naciones, las llenaráH1777
+- Sal_135:14porque Jehová juzgará a su pueblo, yH1777
+- Pro_8:16por mí...todos los gobernadores juzganH8199
+- Pro_22:23Jehová juzgará la causa de ellos, yH7378
+- Pro_23:11juzgará la causa de ellos contra tiH7378
+- Pro_29:14rey que juzga con verdad a los pobresH8199
+- Pro_31:9juzga con justicia, y defiende la causaH8199
+- Ecl_3:17dije: Al justo y al impío juzgará DiosH8199
+- Ecl_11:9sobre todas estas cosas te juzgará DiosH4941
+- Isa_2:4juzgará entre las naciones...los pueblosH8199
+- Isa_3:13Jehová está...para juzgar a los pueblosH1777
+- Isa_5:3ahora...juzgad ahora entre mí y mi viñaH8199
+- Isa_11:3no juzgará según la vista de sus ojosH8199
+- Isa_11:4que juzgará con justicia a los pobresH8199
+- Isa_16:5sentará...quien juzgue y busque el juicioH8199
+- Isa_51:5y mis brazos juzgarán a los pueblosH8199
+- Isa_59:4no hay...ni quien juzgue por la verdadH8199
+- Isa_66:16Jehová juzgará con fuego y...su espadaH8199
+- Jer_3:9que por juzgar ella cosa liviana su
+- Jer_5:28no juzgaron la causa, la causa del...no jH8199
+- Jer_11:20oh Jehová de...que juzgas con justiciaH8199
+- Jer_22:16él juzgó la causa del afligido y delH1777
+- Jer_30:13no hay quien juzgue tu causa...sanarteH1777
+- Jer_51:36yo juzgo tu causa y haré tu venganzaH7378
+- Jer_51:44juzgaré a Bel en Babilonia, y sacaréH6485
+- Eze_7:3te juzgaré según tus caminos; y pondréH8199
+- Eze_7:8y te juzgaré según tus caminos; y pondréH8199
+- Eze_7:27y con los juicios de ellos los juzgaréH8199
+- Eze_11:10-11en los límites de Israel os juzgaréH8199
+- Eze_16:38y yo te juzgaré por las leyes de lasH8199
+- Eze_16:52que juzgaste a tus hermanas, lleva tuH6419
+- Eze_18:30juzgaré a cada uno según sus caminosH8199
+- Eze_20:4¿quieres tú juzgarlos?...quieres juzgarH8199
+- Eze_21:30la tierra donde has vivido, te juzgaréH8199
+- Eze_22:2¿no juzgarás tu, no j tú a la ciudadH8199
+- Eze_23:24el juicio, y por sus leyes te juzgaránH8199
+- Eze_23:36¿no juzgarás tú a Ahola y a AholibaH8199
+- Eze_23:45justos las juzgarán por la ley de lasH8199
+- Eze_24:14según tus caminos...obras te juzgaránH8199
+- Eze_33:20os juzgaré, oh casa de Israel, a cadaH8199
+- Eze_34:17he aquí yo juzgo entre oveja y ovejaH8199
+- Eze_34:20yo juzgaré entre la oveja engordada yH8199
+- Eze_34:22salvaré...juzgaré entre oveja y ovejaH8199
+- Eze_35:11conocido en ellos, cuando te juzgueH8199
+- Eze_36:19y conforme a sus obras les juzguéH8199
+- Eze_44:24para juzgar; conforme a mis...juzgaránH8199
+- Joe_3:12allí me sentaré para juzgar...nacionesH8199
+- Amó_7:4el Señor llamaba para juzgar con fuegoH7378
+- Abd_1:21subirán...para juzgar al monte de EsaúH8199
+- Miq_3:11sus jefes juzgan por cohecho, y susH8199
+- Miq_4:3juzgará entre muchos pueblos, y corregiráH8199
+- Miq_7:3el juez juzga por recompensa; y el grandeH8199
+- Miq_7:9que juzgue mi causa y haga mi justiciaH7378
+- Sof_3:8el día que me levante para juzgaros
+- Zac_7:9juzgad conforme a la verdad, y hacedH8199
+- Zac_8:16juzgad según la verdad y lo...a la pazH8199
+- Mat_7:1no juzguéis, para que no seáis juzgadosG2919
+- Mat_7:2juicio con que juzgáis, seréis juzgadosG2919
+- Mat_19:28tronos, para juzgar a las doce tribusG2919
+- Luc_6:37no juzguéis, y no seréis juzgados; noG2919
+- Luc_7:43y él le dijo: Rectamente has juzgadoG2919
+- Luc_12:57¿y por qué no juzgáis por vosotros loG2919
+- Luc_19:22mal siervo, por tu propia boca te juzgoG2919
+- Luc_22:30juzgando a las doce tribus de IsraelG2919
+- Jua_5:22porque el Padre a nadie juzga, sinoG2919
+- Jua_5:30según oigo, así juzgo; y mi juicio esG2919
+- Jua_7:24no juzguéis...sino juzgad con justo juicioG2919
+- Jua_7:51¿juzga acaso nuestra ley a un hombre siG2919
+- Jua_8:15juzgáis según la carne; yo no juzgo aG2919
+- Jua_8:16y si yo juzgo, mi juicio es verdaderoG2919
+- Jua_8:26muchas cosas tengo que decir y juzgarG2919
+- Jua_8:50mi gloria; hay quien la busca, y juzgaG2919
+- Jua_12:47oye...y no las guarda, yo no le juzgoG2919
+- Jua_12:47porque no he venido a juzgar al mundoG2919
+- Jua_12:48no recibe mis...tiene quien le juzgueG2919
+- Jua_12:48la palabra...ella le juzgará en el díaG2919
+- Jua_16:11príncipe de este...ha sido ya juzgadoG2919
+- Jua_18:31tomadle...y juzgadle según vuestra leyG2919
+- Hec_4:19juzgad si es justo delante de DiosG2919
+- Hec_7:7yo juzgaré, dijo Dios, a la nación de laG2919
+- Hec_13:46no os juzgáis dignos de la vida eternaG2919
+- Hec_15:19juzgo que no se inquiete a los gentilesG2919
+- Hec_16:15si habéis juzgado que yo sea fiel alG2919
+- Hec_17:31un día...juzgará al mundo con justiciaG2919
+- Hec_23:3¿estás tú...para juzgarme conforme a laG2919
+- Hec_23:6de la resurrección de los...se me juzgaG2919
+- Hec_24:6quisimos juzgarle conforme a nuestra leyG2919
+- Hec_24:8al juzgarle, podrás informarte de todasG350
+- Hec_24:21acerca de la resurrección...soy juzgadoG2919
+- Hec_25:9ser juzgado de estas cosas delante deG2919
+- Hec_25:10de César estoy, donde debo ser juzgadoG2919
+- Hec_25:20ir...y allá ser juzgado de estas cosasG2919
+- Hec_26:8¿se juzga entre vosotros cosa increíbleG2919
+- Rom_2:1tú que juzgas; pues en lo que j a otroG2919
+- Rom_2:1te condenas...tú que juzgas haces lo mismoG2919
+- Rom_2:3que juzgas a los que tal hacen, y hacesG2919
+- Rom_2:12han pecado, por la ley serán juzgadosG2919
+- Rom_2:16día en que Dios juzgará...los secretosG2919
+- Rom_3:4palabras, y venzas cuando fueres juzgadoG2919
+- Rom_3:6otro modo, ¿cómo juzgaría Dios al mundo?[[G2919]]
+- Rom_3:7¿por qué aún soy juzgado como pecador?[[G2919]]
+- Rom_14:3el que no come, no juzgue al que comeG2919
+- Rom_14:4quien eres, que juzgas al criado ajeno?[[G2919]]
+- Rom_14:5día; otro juzga iguales todos los díasG2919
+- Rom_14:10pero tú, ¿por qué juzgas a tu hermano?[[G2919]]
+- Rom_14:13ya no nos juzguemos...unos a los otrosG2919
+- 1Co_2:15el espiritual juzga...no es juzgadoG350
+- 1Co_4:3yo en muy poco tengo el ser juzgado porG350
+- 1Co_4:3poco...y ni aun yo me juzgo a mí mismoG350
+- 1Co_4:4no por eso...el que me juzga es el SeñorG350
+- 1Co_4:5no juzguéis nada antes de tiempo, hastaG2919
+- 1Co_5:3ya como presente he juzgado al que talG2919
+- 1Co_5:12¿qué razón tendría yo para juzgar a losG2919
+- 1Co_5:12¿no juzgáis...a los que están dentro?[[G2919]]
+- 1Co_5:13a los que están fuera, Dios juzgaráG2919
+- 1Co_6:2que los santos han de juzgar al mundo?[[G2919]]
+- 1Co_6:2el mundo ha de ser juzgado por vosotrosG2919
+- 1Co_6:2indignos de juzgar cosas muy pequeñas?[[G2922]]
+- 1Co_6:3¿o no sabéis que hemos de juzgar a losG2919
+- 1Co_6:4¿ponéis para juzgar a los que son deG2922
+- 1Co_6:5uno que pueda juzgar entre sus hermanosG1252
+- 1Co_10:15a sensatos hablo; juzgad vosotros loG2919
+- 1Co_10:29¿por qué se ha de juzgar mi libertadG2919
+- 1Co_11:13juzgad...¿Es propio que la mujer ore aG2919
+- 1Co_11:31nos examinásemos...no seríamos juzgadosG2919
+- 1Co_11:32siendo juzgados, somos castigados porG2919
+- 1Co_13:11juzgaba como niño; mas cuando ya fuiG2980
+- 1Co_14:24algún incrédulo...por todos es juzgadoG350
+- 1Co_14:29profetas hablen...y los demás juzguenG1252
+- Col_2:16por tanto, nadie os juzgue en comidaG2919
+- 2Ti_4:1juzgará a los vivos y a los muertosG2919
+- Heb_10:30vez: El Señor juzgará a su puebloG2919
+- Heb_13:4a los fornicarios y a...los juzgará DiosG2919
+- Stg_2:12como los que habéis de ser juzgadosG2919
+- Stg_4:11el que...juzga a su hermano...j a la leyG2919
+- Stg_4:11si tú juzgas a la ley, no eres hacedorG2919
+- Stg_4:12tú, ¿quién eres para que juzgues a otro?[[G2919]]
+- 1Pe_1:17que...juzga según la obra de cada unoG2919
+- 1Pe_2:23sino encomendaba la causa al que juzgaG2919
+- 1Pe_4:5al que está preparado para juzgar a losG2919
+- 1Pe_4:6para que sean juzgados en carne según losG2919
+- Rev_6:10no juzgas y vengas nuestra sangre enG2919
+- Rev_11:18el tiempo de juzgar a los muertos, yG2919
+- Rev_16:5Santo, porque has juzgado estas cosasG2919
+- Rev_18:8poderoso es Dios el Señor, que la juzgaG2919
+- Rev_19:2pues ha juzgado a la gran ramera que haG2919
+- Rev_19:11Fiel y Verdadero, y con justicia juzgaG2919
+- Rev_20:4los que recibieron facultad de juzgarG2917
+- Rev_20:12y fueron juzgados los muertos por lasG2919
+- Rev_20:13y fueron juzgados...uno según sus obrasG2919

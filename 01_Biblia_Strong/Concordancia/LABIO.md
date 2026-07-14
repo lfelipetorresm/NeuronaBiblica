@@ -1,0 +1,123 @@
+---
+tipo: concordancia
+palabra: LABIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LABIO
+
+- Éxo_6:12me escuchará...siendo yo torpe de l?[[H8193]]
+- Éxo_6:30he aquí yo soy torpe de l, ¿cómo, puesH8193
+- Lev_5:4alguno jurare a la ligera con sus lH8193
+- Núm_30:6y pronunciare de sus l cosa con queH8193
+- Núm_30:8lo que pronunció de sus l con que ligóH8193
+- Núm_30:12todo lo que salió de sus l...será nuloH8193
+- Deu_23:23pero lo que hubiere salido de tus lH8193
+- 1Sa_1:13se movían sus l, y su voz no se oíaH8193
+- 2Re_19:28yo pondré...mi freno en tus l, y teH8193
+- Job_2:10en todo esto no pecó Job con sus lH8193
+- Job_8:21aún llenaré tu boca...y tus l de júbiloH8193
+- Job_11:5diera que Dios...abriera sus l contigoH8193
+- Job_13:6estad atentos a los argumentos de mis lH8193
+- Job_15:6tu boca...tus l testificarán contra tiH8193
+- Job_16:5y la consolación de mis l apaciguaríaH8193
+- Job_23:12mandamiento de sus l nunca me separéH8193
+- Job_27:4l no hablarán iniquidad, ni mi lenguaH8193
+- Job_32:20respiraré; abriré mis l, y responderéH8193
+- Job_33:3y lo que saben mis l, lo hablarán conH8193
+- Sal_12:2mentira...hablan con l lisonjeros, yH8193
+- Sal_12:3Jehová destruirá todos los l lisonjerosH8193
+- Sal_12:4nuestros l son nuestros; ¿quién es señorH8193
+- Sal_16:4sangre, ni en mis l tomaré sus nombresH8193
+- Sal_17:1escucha...oración hecha de l sin engañoH8193
+- Sal_17:4la palabra de tus l yo me he guardado deH8193
+- Sal_21:2has...no le negaste la petición de sus lH8193
+- Sal_31:18enmudezcan los l mentirosos que hablanH8193
+- Sal_34:13guarda tu...y tus l de hablar engañoH8193
+- Sal_40:9no refrené mis l, Jehová, tú lo sabesH8193
+- Sal_45:2eres el...la gracia se derramó en tus lH8193
+- Sal_51:15Señor, abre mis l, y publicará mi bocaH8193
+- Sal_59:7con su boca; espadas hay en sus l, porqueH8193
+- Sal_59:12por la palabra de sus l, sean ellosH8193
+- Sal_63:3mejor...que la vida; mis l te alabaránH8193
+- Sal_63:5y con l de júbilo te alabará mi bocaH8193
+- Sal_66:14que pronunciaron mis l y habló mi bocaH8193
+- Sal_71:23mis l se alegrarán cuando cante a tiH8193
+- Sal_89:34ni mudaré lo que ha salido de mis lH8193
+- Sal_106:33y habló precipitadamente con sus lH8193
+- Sal_119:13mis l he contado todos los juiciosH8193
+- Sal_119:171mis l rebosarán alabanzas cuando meH8193
+- Sal_120:2libra mi alma...del l mentiroso, y deH8193
+- Sal_140:3veneno de áspid hay debajo de sus lH8193
+- Sal_140:9la maldad de sus...l cubrirá su cabezaH8193
+- Sal_141:3oh Jehová; guarda la puerta de mis lH8193
+- Pro_4:24y aleja de ti la iniquidad de los lH8193
+- Pro_5:2consejo, y tus l conserven la cienciaH8193
+- Pro_5:3los l de la mujer extraña destilan mielH8193
+- Pro_6:2has quedado preso en los dichos de tus lH8193
+- Pro_7:21lo...le obligó con la zalamería de sus lH8193
+- Pro_8:6hablaré...abriré mis l para cosas rectasH8193
+- Pro_8:7mi boca hablará...impiedad abominan mis lH8193
+- Pro_10:8sabio de corazón...el necio de l caeráH8193
+- Pro_10:10guiña...y el necio de l será castigadoH8193
+- Pro_10:13los l del prudente se halla sabiduríaH8193
+- Pro_10:18que encubre el odio es de l mentirososH8193
+- Pro_10:19mas el que refrena sus l es prudenteH8193
+- Pro_10:21los l del justo apacientan a muchosH8193
+- Pro_10:32l del justo saben hablar lo que agradaH8193
+- Pro_12:13enredado en la prevaricación de sus lH8193
+- Pro_12:19el l veraz permanecerá para siempreH8193
+- Pro_12:22l mentirosos son abominación a JehováH8193
+- Pro_13:3que mucho abre sus l tendrá calamidadH8193
+- Pro_14:3mas los l de los sabios los guardaránH8193
+- Pro_14:7porque en él no hallarás l de cienciaH8193
+- Pro_14:23las vanas palabras de los l empobrecenH8193
+- Pro_16:10oráculo...en los l del rey; en juicioH8193
+- Pro_16:13l justos son el contentamiento de losH8193
+- Pro_16:21y la dulzura de l aumenta el saberH8193
+- Pro_16:23el corazón del...añade gracia a sus lH8193
+- Pro_16:27mal, y en sus l hay como llama de fuegoH8193
+- Pro_16:30sus ojos...mueve sus l, efectúa el malH8193
+- Pro_17:4el malo está atento al l inicuo; y elH8193
+- Pro_17:7no conviene...al príncipe el l mentiroso![[H8193]]
+- Pro_17:28calla...el que cierra sus l es entendidoH8193
+- Pro_18:6los l del necio traen contienda; y suH8193
+- Pro_18:7del necio...sus l son lazos para su almaH8193
+- Pro_18:20boca...se saciará del producto de sus lH8193
+- Pro_19:1mejor es...que el de perversos l y fatuoH8193
+- Pro_20:15mas los l prudentes son joya preciosaH8193
+- Pro_22:11la gracia de sus l tendrá la amistadH8193
+- Pro_22:18juntamente se afirmaren sobre tus lH8193
+- Pro_23:16cuando tus l hablaren cosas rectasH8193
+- Pro_24:2su corazón...e iniquidad hablan sus lH8193
+- Pro_24:26besados serán los l del que respondeH8193
+- Pro_24:28tu prójimo, y no lisonjees con tus lH8193
+- Pro_26:23como escoria...son los l lisonjeros yH8193
+- Pro_26:24el que odia disimula con sus l; mas enH8193
+- Pro_27:2alábete el extraño...y no los l tuyosH8193
+- Ecl_10:12l del necio causan su propia ruinaH8193
+- Cnt_4:3tus l como hilo de grana, y tu hablaH8193
+- Cnt_4:11como panal de miel destilan tus l, ohH8193
+- Cnt_5:13sus l, como lirios que destilan mirraH8193
+- Cnt_7:9entra...y hace hablar los l de los viejosH8193
+- Isa_6:5hombre inmundo de l...tiene l inmundosH8193
+- Isa_6:7esto tocó tus l, y es quitada tu culpaH8193
+- Isa_11:4con el espíritu de sus l matará al impíoH8193
+- Isa_29:13con sus l me honra, pero su corazónH8193
+- Isa_30:27sus l llenos de ira, y su lengua comoH8193
+- Isa_37:29pondré...mi freno en tus l, y te haréH8193
+- Isa_57:19produciré fruto de l: Paz, paz al queH8193
+- Isa_59:3vuestros l pronuncian mentira, hablaH8193
+- Dan_10:16tocó mis l...Entonces abrí mi boca yH8193
+- Ose_14:2ofreceremos la ofrenda de nuestros lH8193
+- Miq_3:7ellos todos cerrarán sus l, porque noH8193
+- Hab_3:16a la voz temblaron mis l; pudriciónH8193
+- Sof_3:9devolveré...a los pueblos pureza de lH8193
+- Mal_2:6iniquidad no fue hallada en sus l; enH8193
+- Mal_2:7los l del sacerdote han de guardar laH8193
+- Mat_15:8; Mar_7:6pueblo de l me honra, mas suG5491
+- Rom_3:13veneno de áspides hay debajo de sus lG5491
+- 1Co_14:21con otros l hablaré a este puebloG5491
+- Heb_13:15fruto de l que confiesan su nombreG5491
+- 1Pe_3:10refrene su...y sus l no hablen engañoG5491

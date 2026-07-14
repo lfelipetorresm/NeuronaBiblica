@@ -1,0 +1,106 @@
+---
+tipo: concordancia
+palabra: QUEBRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# QUEBRAR
+
+- Éxo_12:46se comerá...ni quebraréis hueso suyoH7665
+- Éxo_13:13no lo redimieres, quebrarás su cervizH6202
+- Éxo_23:24y quebrarás totalmente sus estatuasH7665
+- Éxo_32:19tablas...y las quebró al pie del monteH7665
+- Éxo_34:1sobre...las tablas primeras que quebrasteH7665
+- Éxo_34:13sus altares, y quebraréis sus estatuasH5422
+- Éxo_34:20no lo redimieres, quebrarás su cervizH6202
+- Lev_6:28vasija de barro en que...será quebradaH7665
+- Lev_11:33será inmunda...y quebraréis la vasijaH7665
+- Lev_15:12la vasija...que tocare...será quebradaH7665
+- Núm_9:12no dejarán...ni quebrarán hueso de élH7665
+- Deu_7:5quebraréis sus estatuas, y destruiréisH7665
+- Deu_9:17y las quebré delante de vuestros ojosH7665
+- Deu_10:2en las primeras tablas que quebrasteH7665
+- Deu_12:3y quebraréis sus estatuas, y...imágenesH7665
+- Deu_21:4quebrarán la cerviz de la becerra allí
+- Deu_21:6becerra cuya cerviz fue quebrada en elH6202
+- Jue_7:19quebraron los cántaros que llevabanH5310
+- Jue_7:20quebrando los cántaros tomaron...las teasH7665
+- 1Sa_2:4arcos de los fuertes fueron quebradosH2844
+- 1Re_13:3el altar se quebrará, y la ceniza queH2009
+- 1Re_19:11quebraba las peñas delante de JehováH2009
+- 2Re_10:27y quebraron la estatua de Baal, yH5422
+- 2Re_18:4quebró las imágenes, y cortó...de AseraH7665
+- 2Re_23:14y quebró las estatuas, y derribó lasH7665
+- 2Re_25:13quebraron los caldeos las columnas deH7665
+- 2Cr_14:3quebró las imágenes, y destruyó losH7665
+- 2Cr_28:24los quebró, y cerró las puertas de laH7112
+- 2Cr_31:1quebraron las estatuas y destruyeron lasH7665
+- 2Cr_34:7cuando hubo...quebrado...las esculturasH1438
+- Job_22:9brazos de...huérfanos fueron quebradosH1792
+- Job_31:22mi...y el hueso de mi brazo sea quebradoH7665
+- Job_39:15puede quebrarlos la bestia del campoH2115
+- Sal_31:12he venido a ser como un vaso quebradoH7665
+- Sal_37:15espada entrará...su arco será quebradoH7665
+- Sal_37:17los brazos de los impíos serán quebradosH7665
+- Sal_46:9que quiebra el arco, corta la lanza, yH7665
+- Sal_48:7con viento solano quiebras tú las navesH7665
+- Sal_58:6quiebra sus dientes en sus bocas; q, ohH5422
+- Sal_74:6con...han quebrado todas sus entalladurasH1986
+- Sal_76:3quebró las saetas del arco, el escudo, laH7665
+- Sal_105:33y quebró los árboles de su territorioH7665
+- Pro_22:8la vara de su insolencia se quebraráH3615
+- Ecl_12:6que la cadena de plata se quiebre, yH7533
+- Ecl_12:6el cántaro se quiebre junto a la fuenteH7665
+- Isa_9:4tú quebraste su pesado yugo, y la varaH2865
+- Isa_14:29por haberse quebrado la vara del que teH7665
+- Isa_22:25será quebrado y caerá, y la carga queH1438
+- Isa_27:11sus ramas se sequen, serán quebradasH7665
+- Isa_28:24¿romperá y quebrará los terrones de laH7702
+- Isa_30:14se quebrará como se quiebra un vaso deH7665
+- Isa_42:3no quebrará la caña cascada, ni apagaráH7665
+- Jer_5:5ellos quebraron el yugo, rompieron lasH7665
+- Jer_11:16fuego sobre él, y quebraron sus ramasH7489
+- Jer_15:12¿puede alguno quebrar el hierro...norteH7489
+- Jer_19:10quebrarás la vasija ante los ojos deH7665
+- Jer_19:11como quien quiebra una vasija de barroH7665
+- Jer_22:28este hombre Conías...vasija...quebradaH5310
+- Jer_28:10quitó el yugo del cuello...y lo quebróH7665
+- Jer_28:13yugos de madera quebraste, mas en vezH7665
+- Jer_30:8día...yo quebraré su yugo de tu cuelloH7665
+- Jer_43:13quebrará las estatuas de Bet-semes, queH7665
+- Jer_48:17¡cómo se quebró la vara fuerte...báculoH7665
+- Jer_49:35quiebro el arco de Elam...su fortalezaH7665
+- Jer_50:2destruidas son...quebrados son sus ídolosH2865
+- Jer_50:23¡cómo...cortado y quebrado el martilloH7665
+- Jer_51:56el arco de ellos fue quebrado; porqueH2865
+- Jer_52:17los caldeos quebraron las columnas deH7665
+- Lam_3:16dientes quebró con cascajo, me cubrióH1638
+- Eze_6:4vuestras imágenes...sol serán quebradasH7665
+- Eze_6:6ídolos serán quebrados...imágenes del solH7665
+- Eze_19:12sus ramas fuertes fueron quebradas y seH6531
+- Eze_23:34y lo agotarás, y quebrarás sus tiestosH1633
+- Eze_29:7cuando te tomaron...te quebraste, y lesH7533
+- Eze_29:7cuando se apoyaron en ti, te quebrasteH7665
+- Eze_30:21he quebrado el brazo de Faraón rey deH7665
+- Eze_30:22y quebraré sus brazos, el fuerte y elH7665
+- Eze_30:24mas quebraré los brazos de Faraón, yH7665
+- Eze_31:12por todos los arroyos de...será quebradoH3772
+- Dan_6:24leones...y quebraron todos sus huesosH1855
+- Dan_8:7le quebró sus dos cuernos, y el carneroH7665
+- Dan_8:8aquel gran cuerno fue quebrado, y en suH7665
+- Dan_8:22y en cuanto al cuerno que fue quebradoH7665
+- Ose_1:5día quebraré yo el arco de Israel enH7665
+- Ose_10:11arará Judá, quebrará sus terrones JacobH7702
+- Amó_1:5y quebraré los cerrojos de Damasco, yH7665
+- Nah_1:13ahora quebraré su yugo de sobre tiH7665
+- Zac_9:10los arcos de guerra serán quebradosH3772
+- Zac_11:10tomé...mi cayado Gracia, y lo quebréH6565
+- Zac_11:14quebré luego el otro cayado, AtadurasH6565
+- Mat_12:20caña cascada no quebrará, y el pábiloG2608
+- Mar_14:3quebrando el vaso...se lo derramó sobreG4937
+- Jua_19:31que se les quebrasen las piernasG2608
+- Jua_19:32vinieron...y quebraron las piernas alG2608
+- Jua_19:33a Jesús...no le quebraron las piernasG2608
+- Jua_19:36escritura: No será quebrado hueso suyoG4937
+- Rev_2:27serán quebradas como vaso de alfareroG4937

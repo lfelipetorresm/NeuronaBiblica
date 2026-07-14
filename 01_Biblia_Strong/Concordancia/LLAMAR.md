@@ -1,0 +1,689 @@
+---
+tipo: concordancia
+palabra: LLAMAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LLAMAR
+
+- Gén_1:5llamó Dios a la luz Día, y...ll NocheH7121
+- Gén_1:8llamó Dios a la expansión Cielos. Y fueH7121
+- Gén_1:10llamó Dios...Tierra...las aguas ll MaresH7121
+- Gén_2:19que viese cómo las había de llamar; yH7121
+- Gén_2:19todo lo que Adán llamó a los animalesH7121
+- Gén_2:23será llamada Varona, porque del varónH7121
+- Gén_3:9Dios llamó al hombre y le dijo: ¿DóndeH7121
+- Gén_3:20llamó Adán...su mujer, Eva, por cuantoH7121
+- Gén_4:17y llamó el nombre de la ciudad...EnocH7121
+- Gén_4:25dio a luz...hijo, y llamó su nombre SetH7121
+- Gén_4:26le nació un hijo, y llamó su nombre EnósH7121
+- Gén_5:2los bendijo, y llamó el nombre de ellosH7121
+- Gén_5:3engendró un hijo...y llamó su nombre SetH7121
+- Gén_5:29y llamó su nombre Noé, diciendo: EsteH7121
+- Gén_11:9por esto fue llamado el nombre de...BabelH7121
+- Gén_12:18Faraón llamó a Abram, y le dijo: ¿QuéH7121
+- Gén_16:1tenía una sierva...que se llamaba AgarH8034
+- Gén_16:11un hijo, y llamarás su nombre IsmaelH7121
+- Gén_16:13llamó el nombre de Jehová que con ellaH7121
+- Gén_16:14llamó al pozo: Pozo del Viviente queH7121
+- Gén_16:15llamó Abram el nombre del hijo que leH7121
+- Gén_17:5no se llamará más tu nombre Abram, sinoH7121
+- Gén_17:15a Sarai tu mujer no la llamarás SaraiH7121
+- Gén_17:19dará a luz...y llamarás su nombre IsaacH7121
+- Gén_19:5y llamaron a Lot, y le dijeron: ¿DóndeH7121
+- Gén_19:22por eso fue llamado...la ciudad, ZoarH7121
+- Gén_19:37llamó su nombre Moab, el cual es padreH7121
+- Gén_19:38y llamó su nombre Ben-ammi, el cual esH7121
+- Gén_20:8Abimelec...llamó a todos sus siervos, yH7121
+- Gén_20:9llamó Abimelec a Abraham, y le dijoH7121
+- Gén_21:3llamó Abraham el nombre de su hijo queH7121
+- Gén_21:12en Isaac te será llamada descendenciaH7121
+- Gén_21:17y el ángel de Dios llamó a Agar desdeH7121
+- Gén_21:31por esto llamó a aquel lugar BeersebaH7121
+- Gén_22:14llamó Abraham...lugar, Jehová proveeráH7121
+- Gén_22:15y llamó el ángel de Jehová a AbrahamH7121
+- Gén_22:24y su concubina, que se llamaba ReúmaH8034
+- Gén_24:29tenía un hermano que se llamaba LabánH8034
+- Gén_24:57respondieron...Llamemos a la doncellaH7121
+- Gén_24:58llamaron a Rebeca, y le dijeron: ¿IrásH7121
+- Gén_25:25todo velludo...llamaron su nombre EsaúH7121
+- Gén_25:26salió...y fue llamado su nombre JacobH7121
+- Gén_25:30por tanto fue llamado su nombre EdomH7121
+- Gén_26:9llamó Abimelec a Isaac, y dijo: He aquíH7121
+- Gén_26:18los llamó...su padre los había llamadoH7121
+- Gén_26:20por eso llamó el nombre del pozo EsekH7121
+- Gén_26:21otro pozo, y...y llamó su nombre SitnaH7121
+- Gén_26:22otro pozo...y llamó su nombre RehobotH7121
+- Gén_26:33llamó Seba; por esta causa el nombreH7121
+- Gén_27:1llamó a Esaú su hijo mayor, y le dijoH7121
+- Gén_27:36bien llamaron su nombre Jacob, pues yaH7121
+- Gén_27:42envió y llamó a Jacob su hijo menor, yH7121
+- Gén_28:1Isaac llamó a Jacob, y lo bendijo, y leH7121
+- Gén_28:19llamó el nombre de aquel lugar Bet-elH7121
+- Gén_29:32y llamó su nombre Rubén, porque dijoH7121
+- Gén_29:33me ha dado...y llamó su nombre SimeónH7121
+- Gén_29:34hijos; por tanto, llamó su nombre LevíH7121
+- Gén_29:35alabaré...por esto llamó su nombre JudáH7121
+- Gén_30:6me juzgó Dios, y...llamó su nombre DanH7121
+- Gén_30:8dijo Raquel...y llamó su nombre NeftalíH7121
+- Gén_30:11dijo Lea: Vino...y llamó su nombre GadH7121
+- Gén_30:13dirán dichosa; y llamó su nombre AserH7121
+- Gén_30:18Lea...por eso llamó su nombre IsacarH7121
+- Gén_30:20le he dado...y llamó su nombre ZabulónH7121
+- Gén_30:21dio a luz una...llamó su nombre DinaH7121
+- Gén_30:24llamó su nombre José, diciendo...hijoH7121
+- Gén_31:4envió...Jacob, y llamó a Raquel y a LeaH7121
+- Gén_31:47y lo llamó Labán...lo ll Jacob, GalaadH7121
+- Gén_31:48por eso fue llamado su nombre GalaadH7121
+- Gén_31:54y llamó a sus hermanos a comer panH7121
+- Gén_32:2Jacob...llamó el nombre de aquel lugarH7121
+- Gén_32:30llamó Jacob el nombre de aquel lugarH7121
+- Gén_33:17llamó el nombre de aquel lugar SucotH7121
+- Gén_33:20un altar, y lo llamó El-Elohe-IsraelH7121
+- Gén_35:7llamó al lugar El-bet-el, porque allí leH7121
+- Gén_35:8encina, la cual fue llamada Alón-bacutH7121
+- Gén_35:10no se llamará más tu...y llamó...IsraelH7121
+- Gén_35:15llamó Jacob el nombre de aquel lugarH7121
+- Gén_35:18llamó...Benoni...su padre lo ll BenjamínH7121
+- Gén_38:1un varón adulamita que se llamaba HiraH8034
+- Gén_38:2hombre cananeo, el cual se llamaba SúaH8034
+- Gén_38:3dio a luz un hijo, y llamó su nombre ErH7121
+- Gén_38:4a luz un hijo, y llamó su nombre OnánH7121
+- Gén_38:5a luz un hijo, y llamó su nombre SelaH7121
+- Gén_38:6tomó mujer para...Er...se llamaba TamarH8034
+- Gén_38:29y ella dijo...y llamó su nombre FaresH7121
+- Gén_38:30después salió...y llamó su nombre ZaraH7121
+- Gén_39:14llamó a los de casa, y les hablóH7121
+- Gén_41:8e hizo llamar a...los magos de EgiptoH7121
+- Gén_41:14entonces Faraón envió y llamó a JoséH7121
+- Gén_41:45llamó Faraón el nombre...Zafnat-paneaH7121
+- Gén_41:51llamó José el nombre del primogénitoH7121
+- Gén_41:52llamó el nombre del segundo, EfraínH7121
+- Gén_46:33cuando Faraón os llamare y dijere: ¿CuálH7121
+- Gén_47:29y llamó a José su hijo, y le dijo: SiH7121
+- Gén_48:6por el nombre de sus...serán llamados enH7121
+- Gén_49:1y llamó Jacob a sus hijos, y...JuntaosH7121
+- Gén_50:11fue llamado su nombre Abel-mizraim, queH7121
+- Éxo_1:15una de las cuales se llamaba SifraH8034
+- Éxo_1:18el rey de...hizo llamar a las parterasH7121
+- Éxo_2:7dijo...¿Iré a llamarte una nodriza de lasH7121
+- Éxo_2:8fue la doncella, y llamó a la madre delH7121
+- Éxo_2:20¿dónde está?...Llamadle para que comaH7121
+- Éxo_3:4lo llamó Dios de en medio de la zarzaH7121
+- Éxo_7:11llamó...Faraón sabios y hechiceros, eH7121
+- Éxo_8:8, Éxo_8:25Faraón llamó a Moisés y a Aarón, yH7121
+- Éxo_9:27entonces Faraón envió a llamar a MoisésH7121
+- Éxo_10:8volvieron a ser llamados ante Faraón, elH7725
+- Éxo_10:16apresuró a llamar a Moisés y a AarónH7121
+- Éxo_10:24Faraón hizo llamar a Moisés, y dijo: IdH7121
+- Éxo_12:31e hizo llamar a Moisés y a Aarón deH7121
+- Éxo_16:31lo llamó Maná; y era como semilla deH7121
+- Éxo_17:7llamó...de aquel lugar Masah y MeribaH7121
+- Éxo_17:15altar, y llamó su nombre Jehová-nisiH7121
+- Éxo_18:3sus dos hijos; el uno se llamaba GersónH8034
+- Éxo_18:4el otro se llamaba Eliezer, porque dijoH8034
+- Éxo_19:3Moisés...Jehová lo llamó desde el monteH7121
+- Éxo_19:7vino Moisés, y llamó a los ancianos delH7121
+- Éxo_19:20llamó Jehová a Moisés a la cumbre delH7121
+- Éxo_24:16séptimo día llamó a Moisés de...la nubeH7121
+- Éxo_31:2he llamado por nombre a Bezaleel hijoH7121
+- Éxo_33:7y lo llamó el Tabernáculo de ReuniónH7121
+- Éxo_34:31Moisés los llamó; y Aarón y todos losH7121
+- Éxo_36:2Moisés llamó a Bezaleel y a Aholiab yH7121
+- Lev_1:1llamó Jehová a Moisés, y habló con élH7121
+- Lev_5:1si alguno pecare por haber sido llamado
+- Lev_9:1Moisés llamó a Aarón y a sus hijos, y aH7121
+- Lev_10:4y llamó Moisés a Misael y a ElzafánH7121
+- Lev_24:11su madre se llamaba Selomit, hija deH8034
+- Núm_11:3y llamó a aquel lugar Tabera, porqueH7121
+- Núm_11:26dos varones, llamados el uno Eldad yH8034
+- Núm_11:34y llamó...de aquel lugar Kibrot-hataavaH7121
+- Núm_12:5y llamó a Aarón y a María; y salieronH7121
+- Núm_13:24se llamó aquel lugar el Valle de EscolH7121
+- Núm_16:12envió Moisés a llamar a Datán y AbiramH7121
+- Núm_21:3y llamó el nombre de aquel lugar HormaH7121
+- Núm_22:5envió mensajeros a Balaam...lo llamasenH7121
+- Núm_22:20si vinieron para llamarte estos hombresH7121
+- Núm_22:37Balac dijo...¿No envié yo a llamarte?[[H7121]]
+- Núm_24:10para maldecir...enemigos te he llamadoH7121
+- Núm_26:59la mujer de Amram se llamó JocabedH8034
+- Núm_32:42tomó Kenat y sus aldeas, y lo llamóH7121
+- Deu_2:11Anac: y los moabitas los llaman emitasH7121
+- Deu_2:20cuales los amonitas llamaban zomzomeosH7121
+- Deu_3:9los sidonios llaman a Hermón, SiriónH7121
+- Deu_3:13Argob, que se llamaba la tierra de losH7121
+- Deu_3:14la llamó...Basán-havot-jair, hasta hoyH7121
+- Deu_5:1llamó Moisés a todo Israel y les dijoH7121
+- Deu_29:2Moisés...llamó a todo Israel, y les dijoH7121
+- Deu_30:19a los cielos y a...llamo por testigosH5749
+- Deu_31:7y llamó Moisés a Josué, y le dijo enH7121
+- Deu_31:14de tu muerte; llama a Josué, y esperadH7121
+- Deu_31:28y llamaré por testigos contra ellos aH7121
+- Deu_33:19llamarán a los pueblos a su monte; allíH7121
+- Jos_2:1en casa de una ramera...llamaba RahabH8034
+- Jos_4:4entonces Josué llamó a los doce hombresH7121
+- Jos_5:9el nombre...fue llamado Gilgal, hasta hoyH7121
+- Jos_6:6llamando, pues, Josué...a los sacerdotesH7121
+- Jos_7:26aquel lugar se llama el Valle de AcorH7121
+- Jos_9:22y llamándolos Josué, les habló diciendoH7121
+- Jos_10:24llamó...a todos los varones de IsraelH7121
+- Jos_19:47llamaron a Lesem, Dan, del nombre deH7121
+- Jos_22:1Josué llamó a los rubenitas, a...gaditasH7121
+- Jos_23:2llamó a todo Israel, a sus ancianos, susH7121
+- Jos_24:1y llamó a los ancianos de Israel, susH7121
+- Jos_24:9y envió a llamar a Balaam hijo de BeorH7121
+- Jue_1:10cual se llamaba antes Quiriat-arbaH8034
+- Jue_1:11Debir...antes se llamaba Quiriat-seferH8034
+- Jue_1:23Bet-el, ciudad que antes se llamaba LuzH8034
+- Jue_1:26edificó una ciudad a la cual llamó LuzH7121
+- Jue_2:5llamaron el nombre de aquel lugar BoquimH7121
+- Jue_4:2capitán de su ejército se llamaba Sísara
+- Jue_4:6envió a llamar a Barac hijo de AbinoamH7121
+- Jue_6:24edificó...altar...y lo llamó Jehová-salomH7121
+- Jue_6:32aquel día Gedeón fue llamado JerobaalH7121
+- Jue_8:1no llamándonos cuando ibas a la guerraH7121
+- Jue_9:54llamó...a su escudero, y le dijo: SacaH7121
+- Jue_10:4ciudades...se llaman las ciudades de JairH7121
+- Jue_12:1fuiste a hacer guerra...no nos llamasteH7121
+- Jue_12:2y os llamé, y no me defendisteis de suH2199
+- Jue_13:2un hombre de...el cual se llamaba ManoaH8034
+- Jue_14:15habéis llamado aquí para despojarnos?[[H7121]]
+- Jue_15:17arrojó...llamó a aquel lugar Ramat-lehiH7121
+- Jue_15:19llamó el nombre de...lugar, En-hacoreH7121
+- Jue_16:4una mujer en...la cual se llamaba DalilaH8034
+- Jue_16:18envió a llamar a los príncipes de losH7121
+- Jue_16:19llamó a un hombre, quien le rapó lasH7121
+- Jue_16:25llamad a Sansón...y llamaron a SansónH7121, [[[[H7121]]]]
+- Jue_17:1hubo un hombre...que se llamaba MicaíaH8034
+- Jue_18:12llamaron...lugar el campamento de DanH7121
+- Jue_18:29llamaron el nombre de aquella ciudadH7121
+- Jue_18:29que antes se llamaba la ciudad LaisH8034
+- Jue_21:13envió luego a...y los llamaron en pazH7121
+- Rut_1:20no me llaméis Noemí, sino llamadmeH7121
+- Rut_1:21¿por qué me llamaréis Noemí, ya queH7121
+- Rut_2:1pariente...rico...el cual se llamaba BoozH8034
+- Rut_4:17nacido un hijo de Noemí...llamaron ObedH7121
+- 1Sa_1:1hubo un varón...que se llamaba ElcanaH8034
+- 1Sa_3:4Jehová llamó a Samuel; y él respondióH7121
+- 1Sa_3:5¿para qué me llamaste?...Yo no he llamadoH7121
+- 1Sa_3:6Jehová volvió a llamar otra vez a SamuelH7121
+- 1Sa_3:6¿para qué me has llamado?...yo no he llH7121
+- 1Sa_3:8Jehová...llamó la tercera vez a SamuelH7121
+- 1Sa_3:8dijo: Heme aquí; ¿para qué me has llamadoH7121
+- 1Sa_3:8entendió Elí que Jehová llamaba al jovenH7121
+- 1Sa_3:9y si te llamare, dirás: Habla, JehováH7121
+- 1Sa_3:10vino Jehová...llamó como las otras vecesH7121
+- 1Sa_3:16llamando, pues, Elí a Samuel, le dijoH7121
+- 1Sa_4:21llamó al niño Icabod...¡Traspasada es laH7121
+- 1Sa_6:2los filisteos, llamando a los sacerdotesH7121
+- 1Sa_9:1había un varón de...el cual se llamaba CisH8034
+- 1Sa_9:2y tenía él un hijo que se llamaba SaúlH8034
+- 1Sa_9:9se llama profeta...se le llamaba videnteH7121
+- 1Sa_9:26Samuel llamó a Saúl...y dijo: LevántateH7121
+- 1Sa_14:4el uno se llamaba Boses, y el otro SeneH8034
+- 1Sa_16:3y llama a Isaí al sacrificio, y yo teH7121
+- 1Sa_16:5y santificando...los llamó al sacrificioH7121
+- 1Sa_16:8llamó Isaí, a Abinadab, y lo hizo pasarH7121
+- 1Sa_17:4un paladín, el cual se llamaba GoliatH8034
+- 1Sa_17:23se llamaba Goliat, el filisteo de GatH8034
+- 1Sa_19:7y llamó Jonatán a David, y le declaróH7121
+- 1Sa_22:20pero uno...se llamaba Abiatar, escapóH8034
+- 1Sa_25:3aquel varón se llamaba Nabal, y su mujerH8034
+- 1Sa_25:25se llama Nabal, y la insensatez estáH8034
+- 1Sa_28:15te he llamado, para que me declares loH7121
+- 1Sa_29:6y Aquis llamó a David y le dijo: ViveH7121
+- 2Sa_1:7me vio y me llamó; y yo dije: Heme aquíH7121
+- 2Sa_1:15llamó David a uno de sus hombres, y leH7121
+- 2Sa_2:16fue llamado...lugar Helcat-hazurim, elH7121
+- 2Sa_3:7concubina que se llamaba Rizpa, hija deH8034
+- 2Sa_5:20llamó el nombre de...lugar Baal-perazimH7121
+- 2Sa_6:8fue llamado aquel lugar Pérez-uza hastaH7121
+- 2Sa_9:2un siervo...de Saúl que se llamaba SibaH7121
+- 2Sa_9:2cual llamaron para que viniese a DavidH7121
+- 2Sa_9:9entonces el rey llamó a Siba...y le dijoH7121
+- 2Sa_9:12un hijo pequeño que se llamaba MicaíaH8034
+- 2Sa_12:24llamó su nombre Salomón, al cual amóH7121
+- 2Sa_12:25llamó su nombre Jedidías, a causa deH7121
+- 2Sa_12:28tome yo la...y sea llamada de mi nombreH7121
+- 2Sa_13:1hermana hermosa que se llamaba TamarH8034
+- 2Sa_13:3tenía un amigo que se llamaba JonadabH8034
+- 2Sa_13:17llamando a su criado...le dijo: ÉchameH7121
+- 2Sa_14:27una hija que se llamó Tamar, la cualH8034
+- 2Sa_14:33llamó a Absalón, el cual vino al reyH7121
+- 2Sa_15:2Absalón le llamaba y le decía: ¿De quéH7121
+- 2Sa_15:12llamó a Ahitofel...consejero de DavidH7971
+- 2Sa_16:5salía uno de...el cual se llamaba SimeiH8034
+- 2Sa_17:5llamad también ahora a Husai arquitaH7121
+- 2Sa_17:25era hijo de un varón de...llamado ItraH8034
+- 2Sa_18:18y llamó aquella columna por su nombreH7121
+- 2Sa_18:18y así se ha llamado Columna de AbsalónH7121
+- 2Sa_20:1un hombre...que se llamaba Seba hijo deH8034
+- 2Sa_20:21un hombre...de Efraín que se llama SebaH8034
+- 2Sa_21:2rey llamó a los gabaonitas, y les hablóH7121
+- 1Re_1:28y dijo: llamadme a Betsabé. Y ellaH7121
+- 1Re_1:32dijo: llamadme al sacerdote Sadoc, alH7121
+- 1Re_7:21columna del lado...llamó su nombre BoazH7121
+- 1Re_11:26Jeroboam...cuya madre se llamaba ZerúaH8034
+- 1Re_12:3enviaron a llamarle. Vino...Jeroboam, yH7121
+- 1Re_12:20enviaron a llamarle a la congregaciónH7121
+- 1Re_13:2nacerá un hijo llamado Josías, el cualH8034
+- 1Re_16:24llamó...la ciudad que edificó, SamariaH7121
+- 1Re_17:10una mujer viuda...él la llamó, y le dijoH7121
+- 1Re_17:11la volvió a llamar, y le dijo: Te ruegoH7121
+- 1Re_18:3y Acab llamó a Abdías su mayordomoH7121
+- 1Re_20:7rey...llamó a todos los ancianos del paísH7121
+- 1Re_22:9el rey de...llamó a un oficial, y le dijoH7121
+- 1Re_22:13que había ido a llamar a Micaías, leH7121
+- 2Re_3:10ha llamado Jehová a estos tres reyesH7121
+- 2Re_4:12dijo a Giezi su...llama a esta sunamitaH7121
+- 2Re_4:12cuando la llamó, vino ella delante deH7121
+- 2Re_4:15llámala. Y él la llamó, y ella se paróH7121
+- 2Re_4:22llamando luego a su marido, le dijo: TeH7121
+- 2Re_4:36llamó él a Giezi, y le dijo: llama a estaH7121
+- 2Re_4:36él la llamó. Y entrando ella, él le dijoH7121
+- 2Re_6:11y llamando a sus siervos, les dijo: ¿NoH7121
+- 2Re_8:1porque Jehová ha llamado el hambre, laH7121
+- 2Re_9:1llamó a uno de los hijos de los profetasH7121
+- 2Re_10:19llamadme...a todos los profetas de BaalH7121
+- 2Re_12:7llamó...Joás al sumo sacerdote Joiada yH7121
+- 2Re_14:7tomó a Sela...la llamó Jocteel, hasta hoyH7121
+- 2Re_18:4la serpiente de bronce...llamó NehustánH7121
+- 2Re_18:18llamaron...salió a ellos Eliaquim hijoH7121
+- 1Cr_2:26tuvo Jerameel otra...llamada AtaraH8034
+- 1Cr_2:34Sesán un siervo egipcio llamado JarhaH8034
+- 1Cr_4:9al cual su madre llamó Jabes, diciendoH7121
+- 1Cr_7:16dio a luz un hijo, y lo llamó PeresH7121
+- 1Cr_8:29Abigabaón, la mujer del cual se llamóH8034
+- 1Cr_11:7por esto la llamaron la Ciudad de DavidH7121
+- 1Cr_13:11llamó aquel lugar Pérez-uza, hasta hoyH7121
+- 1Cr_14:11llamaron...de aquel lugar Baal-perazimH7121
+- 1Cr_15:11y llamó David a los sacerdotes Sadoc yH7121
+- 1Cr_22:6llamó entonces David a Salomón su hijoH7121
+- 2Cr_3:17la de la mano derecha llamó JaquínH7121
+- 2Cr_10:3le llamaron. Vino, pues, Jeroboam, y todoH7121
+- 2Cr_18:8el rey...llamó a un oficial, y le dijoH7121
+- 2Cr_18:12había ido a llamar a Micaías, le hablóH7121
+- 2Cr_20:26llamaron el nombre de aquel paraje elH7121
+- 2Cr_23:20llamó...los jefes de centenas, y a losH3947
+- 2Cr_24:6el rey llamó al sumo sacerdote JoiadaH7121
+- 2Cr_28:9allí un profeta de...que se llamaba ObedH8034
+- Esd_2:61fue llamado por el nombre de ellasH7121
+- Esd_8:17Iddo, jefe en el lugar llamado Casifia
+- Esd_8:17de hablar...en el lugar llamado Casifia
+- Neh_7:63Barzilai...llamó del nombre de ellasH7121
+- Est_2:14si el rey la quería y era llamada porH7121
+- Est_3:12fueron llamados los escribanos del reyH7121
+- Est_4:5entonces Ester llamó a Hatac...lo mandóH7121
+- Est_4:11que entra en el patio...sin ser llamadoH7121
+- Est_4:11yo no he sido llamada para ver al reyH7121
+- Est_5:5llamad a Amán, para hacer lo que Ester
+- Est_5:10y mandó llamar a sus amigos y a ZeresH935
+- Est_8:9fueron llamados los escribanos del reyH7121
+- Est_9:26por esto llamaron a estos días PurimH7121
+- Job_1:1en tierra de Uz un varón llamado JobH8034
+- Job_1:4y enviaban a llamar a sus tres hermanasH7121
+- Job_11:10si él...y llama a juicio, ¿quién podráH6950
+- Job_13:22llama luego, y yo responderé; o yoH7121
+- Job_14:15entonces llamarás, y yo te responderéH7121
+- Job_19:16llamé a mi siervo, y no respondió; deH7121
+- Job_29:11que me oían me llamaban bienaventurado
+- Job_42:14llamó el nombre de la primera, JemimaH7121
+- Sal_42:7un abismo llama a otro a la voz deH7121
+- Sal_49:18aunque mientras viva, llame dichosa a
+- Sal_69:3cansado estoy de llamar; mi garganta seH7121
+- Sal_72:17naciones; lo llamarán bienaventuradoH833
+- Sal_86:7día...te llamaré, porque tú me respondesH7121
+- Sal_88:9te he llamado, oh Jehová, cada día; heH7121
+- Sal_147:4a todas ellas llama por sus nombresH7121
+- Pro_1:24por cuanto llamé, y no quisisteis oírH7121
+- Pro_1:28entonces me llamarán, y no responderéH7121
+- Pro_7:4dí a...y a la inteligencia llama parientaH7121
+- Pro_9:15llamar a los que pasan por el caminoH7121
+- Pro_16:21el sabio de corazón es llamado prudenteH7121
+- Pro_18:6contienda; y su boca los azotes llamaH7121
+- Pro_24:8llamarán hombre de malos pensamientosH7121
+- Pro_31:28sus hijos y la llaman bienaventuradaH7121
+- Cnt_5:2la voz de mi amado que llama: Abreme
+- Cnt_5:6lo busqué...lo llamé, y no me respondióH7121
+- Cnt_6:9la vieron...y la llamaron bienaventurada
+- Isa_1:26llamarán Ciudad de Justicia, CiudadH7121
+- Isa_4:3dejado en Jerusalén será llamado santoH559
+- Isa_7:14un hijo, y llamará su nombre EmanuelH7121
+- Isa_8:12no llaméis conspiración a...las cosas queH559
+- Isa_8:12cosas que este pueblo llama conspiraciónH559
+- Isa_9:6llamará su nombre Admirable, ConsejeroH7121
+- Isa_13:3asimismo llamé a mis valientes para miH7121
+- Isa_19:18una será llamada la ciudad de HerezH559
+- Isa_22:12el Señor, Jehová...llamó en este día aH7121
+- Isa_22:20aquel día llamaré a mi siervo EliaquimH7121
+- Isa_32:5el ruin nunca más será llamado generosoH7121
+- Isa_32:5ni el tramposo será llamado espléndidoH559
+- Isa_34:12llamarán a sus príncipes, príncipes sinH7121
+- Isa_35:8y será llamado Camino de Santidad; noH7121
+- Isa_40:26todas llama por sus nombres; ningunaH7121
+- Isa_41:2lo llamó para que le siguiese, entregóH7121
+- Isa_41:4¿quién llama las generaciones desde elH7121
+- Isa_41:9de tierras lejanas te llamé, y te dijeH7121
+- Isa_42:6yo Jehová te he llamado en justicia, yH7121
+- Isa_43:7los llamados de mi nombre; para gloriaH7121
+- Isa_44:5el otro se llamará del nombre de JacobH7121
+- Isa_45:4por amor de mi...te llamé por tu nombreH7121
+- Isa_46:11que llamo desde el oriente al ave, y deH7121
+- Isa_47:1nunca más te llamarán tierna y delicadaH7121
+- Isa_47:5nunca más te llamarán señora de reinosH7121
+- Isa_48:1que os llamáis del nombre de Israel, losH7121
+- Isa_48:8tanto te llamé rebelde desde el vientreH7121
+- Isa_48:12óyeme, Jacob, y...Israel, a quien llaméH7121
+- Isa_48:13cielos...al llamarlos yo, comparecieronH7121
+- Isa_48:15yo hablé, y le llamé y le traje; porH7121
+- Isa_49:1Jehová me llamó desde el vientre, desdeH7121
+- Isa_50:2nadie, y cuando llamé, nadie respondió?[[H7121]]
+- Isa_51:2cuando no era más que uno solo lo llaméH7121
+- Isa_54:5tu...Dios de toda la tierra será llamadoH7121
+- Isa_54:6porque como a...te llamó Jehová, y comoH7121
+- Isa_55:5aquí, llamarás a gente que no conocisteH7121
+- Isa_55:6buscad a...llamadle en tanto que estáH7121
+- Isa_56:7mi casa será llamada casa de oraciónH7121
+- Isa_58:5¿llamaréis esto ayuno, y día agradableH7121
+- Isa_58:12serás llamado reparador de portillosH7121
+- Isa_58:13mi día santo...llamares delicia, santoH7121
+- Isa_60:14y te llamarán Ciudad de Jehová, SionH7121
+- Isa_60:18tus muros llamarás Salvación, y a tusH7121
+- Isa_61:3y serán llamados árboles de justiciaH7121
+- Isa_61:6y vosotros seréis llamados sacerdotesH7121
+- Isa_61:6ministros...nuestro Dios seréis llamadosH7121
+- Isa_62:4nunca más te llamarán Desamparada, niH559
+- Isa_62:4llamada Hefzi-bá, y tu tierra, BeulaH7121
+- Isa_62:12les llamarán Pueblo Santo...te ll CiudadH7121
+- Isa_63:19sobre los cuales nunca fue llamado tuH7121
+- Isa_65:12llamé, y no respondisteis; hablé, yH7121
+- Isa_65:15a sus siervos llamará por otro nombreH7121
+- Isa_66:4porque llamé, y nadie respondió; habléH7121
+- Jer_3:4¿no me llamarás...Padre mío, guiadorH7121
+- Jer_3:17en aquel tiempo llamarán a JerusalénH7121
+- Jer_3:19y dije: Me llamaréis: Padre mío, y noH7121
+- Jer_6:30plata desechada los llamarán, porqueH7121
+- Jer_7:13os hablé...no oísteis, y os llamé, y noH7121
+- Jer_7:27tú...los llamarás, y no te responderánH7121
+- Jer_9:17llamad plañideras que vengan; buscad aH7121
+- Jer_11:16olivo verde...llamó Jehová tu nombreH7121
+- Jer_19:6que este lugar no se llamará más TofetH7121
+- Jer_20:3Jehová no ha llamado tu nombre PasurH7121
+- Jer_23:6le llamarán: Jehová, justicia nuestraH7121
+- Jer_30:17desechada te llamaron, diciendo: EstaH7121
+- Jer_33:16se le llamará: Jehová, justicia nuestraH7121
+- Jer_35:17hablé...los llamé, y no han respondidoH7121
+- Jer_36:4llamó Jeremías a Baruc hijo de NeríasH7121
+- Jer_37:13capitán que se llamaba Irías hijo deH8034
+- Jer_42:8llamó a Johanán...a todos los oficialesH7121
+- Jer_52:1su madre se llamaba Hamutal, hija deH8034
+- Lam_1:15llamó contra mí compañía...quebrantarH7121
+- Eze_9:3llamó Jehová al varón vestido de linoH7121
+- Eze_20:29fue llamado...Bama hasta el día de hoyH7121
+- Eze_23:4se llamaban, la mayor, Ahola, y suH8034
+- Eze_23:4llamaron: Samaria, Ahola; y JerusalénH8034
+- Eze_36:29y llamaré al trigo, y lo multiplicaréH7121
+- Eze_38:21llamaré contra él la espada, dice JehováH7121
+- Eze_39:11y lo llamarán el Valle de Hamón-gogH7121
+- Eze_40:46los cuales son llamados de...Leví para
+- Dan_2:2hizo llamar el rey a magos, astrólogosH7121
+- Dan_2:26a Daniel, al cual llamaban BeltsasarH8036
+- Dan_5:12llámese...ahora a Daniel, y él te daráH7121
+- Dan_6:20llamó a voces a Daniel con voz tristeH2200
+- Dan_10:1fue...palabra a Daniel, llamado BeltsasarH7121
+- Ose_2:16me llamarás Ishi, y nunca más me llH7121
+- Ose_7:11llamarán a Egipto, acudirán a AsiriaH7121
+- Ose_11:1yo lo amé, y de Egipto llamé a mi hijoH7121
+- Ose_11:2cuanto más yo los llamaba, tanto más seH7121
+- Ose_11:7aunque me llaman el Altísimo, ningunoH7121
+- Joe_2:32remanente al cual él habrá llamadoH7121
+- Amó_5:8que llama a las aguas del mar, y lasH7121
+- Amó_5:16labrador llamarán a lloro, y a endechaH7121
+- Amó_7:4Jehová...llamaba para juzgar con fuegoH7121
+- Amó_9:6él llama las aguas del mar, y sobre laH7121
+- Hag_1:11y llamé la sequía sobre esta tierraH7121
+- Zac_6:8me llamó, y me habló diciendo: MiraH2199
+- Zac_8:3Jerusalén se llamará Ciudad de la VerdadH7121
+- Zac_10:8llamaré con un silbido, y los reuniré
+- Mal_1:4les llamarán territorio de impiedadH7121
+- Mat_1:16de la cual nació Jesús, llamado elG3004
+- Mat_1:21y llamarás su nombre Jesús, porque élG2564
+- Mat_1:23llamarás su nombre Emanuel...traducidoG2564
+- Mat_2:7llamando en secreto a los magos, indagóG2564
+- Mat_2:15cuando dijo: De Egipto llamé a mi hijoG2564
+- Mat_2:23en la ciudad que se llama Nazaret, paraG3004
+- Mat_2:23dicho...habría de ser llamado nazarenoG2564
+- Mat_4:18a dos hermanos, Simón, llamado Pedro, yG3004
+- Mat_4:21que remendaban sus redes; y los llamóG2564
+- Mat_5:9porque ellos serán llamados hijos de DiosG2564
+- Mat_5:19muy pequeño será llamado en el reino deG2564
+- Mat_5:19será llamado grande en el reino de losG2564
+- Mat_7:7buscad, y hallaréis; llamad...os abriráG2925
+- Mat_7:8el que busca...al que llama, se le abriráG2925
+- Mat_9:9pasando...vio a un hombre llamado MateoG3004
+- Mat_9:13no he venido a llamar a justos, sino aG2564
+- Mat_10:1llamando a sus doce discípulos, les dioG4341
+- Mat_10:2primero Simón, llamado Pedro, y AndrésG3004
+- Mat_10:25al padre de familia llamaron BeelzebúG2564
+- Mat_13:55¿no se llama su madre María, y susG3004
+- Mat_15:10llamando a sí a la multitud, les dijoG4341
+- Mat_15:32Jesús, llamando a sus discípulos, dijoG4341
+- Mat_18:2y llamando Jesús a un niño, lo puso enG4341
+- Mat_18:32llamándole su señor, le dijo: SiervoG4341
+- Mat_19:17él le dijo: ¿Por qué me llamas bueno?[[G3004]]
+- Mat_20:8llama a los obreros y págales el jornalG2564
+- Mat_20:16muchos son llamados...pocos escogidosG2822
+- Mat_20:25Jesús, llamándolos, dijo: Sabéis queG4341
+- Mat_20:32los llamó, y les dijo: ¿Qué queréis queG5455
+- Mat_21:13mi casa, casa de oración será llamadaG2564
+- Mat_22:3sus siervos a llamar a los convidadosG2564
+- Mat_22:9y llamad a las bodas a cuantos halléisG2564
+- Mat_22:14muchos son llamados, y pocos escogidosG2822
+- Mat_22:43¿pues cómo David en el...le llama SeñorG2564
+- Mat_22:45si David le llama Señor, ¿cómo es suG2564
+- Mat_23:7y que los hombres los llamen: Rabí, RabíG2564
+- Mat_23:8vosotros no queráis que os llamen RabíG2564
+- Mat_23:9no llaméis padre vuestro a nadie en laG2564
+- Mat_23:10ni seáis llamados maestros; porque unoG2564
+- Mat_25:14llamó a sus siervos y les entregó susG2564
+- Mat_26:3patio del sumo sacerdote llamado CaifásG3004
+- Mat_26:14que se llamaba Judas Iscariote, fue aG3004
+- Mat_26:36llegó Jesús...a un lugar que se llamaG3004
+- Mat_27:8aquel campo se llama...Campo de sangreG2564
+- Mat_27:16tenían...preso famoso llamado BarrabásG3004
+- Mat_27:17os suelte...a Jesús, llamado el Cristo?[[G3004]]
+- Mat_27:22¿qué...haré de Jesús, llamado el Cristo?[[G3004]]
+- Mat_27:32a un hombre de...que se llamaba SimónG3686
+- Mat_27:33llegaron a un lugar llamado GólgotaG3004
+- Mat_27:47decían, al oírlo: A Elías llama ésteG5455
+- Mat_27:57vino un hombre rico de...llamado JoséG5122
+- Mar_1:20luego los llamó; y dejando a su padreG2564
+- Mar_2:17no he venido a llamar a justos, sino aG2564
+- Mar_3:13subió...y llamó a sí a los que él quisoG4341
+- Mar_3:23llamado, les decía en parábolas: ¿CómoG4341
+- Mar_3:31quedándose afuera, enviaron a llamarleG5455
+- Mar_5:9¿cómo te llamas? Y respondió diciendoG3686
+- Mar_5:9Legión me llamo; porque somos muchosG3686
+- Mar_5:22y vino uno...llamado Jairo; y luego queG3686
+- Mar_6:7llamó a los doce, y comenzó a enviarlosG4341
+- Mar_7:14llamando a sí a toda la multitud, lesG4341
+- Mar_8:1Jesús llamó a sus discípulos, y les dijoG4341
+- Mar_8:34llamando a la gente y a sus discípulosG4341
+- Mar_9:35se sentó y llamó a los doce, y les dijoG5455
+- Mar_10:18¿por qué me llamas bueno? Ninguno hayG3004
+- Mar_10:42llamándolos, les dijo: Sabéis que losG4341
+- Mar_10:49mandó llamarle; y llamaron al ciegoG5455, [[[[G5455]]]]
+- Mar_10:49ten confianza; levántate, te llamaG5455
+- Mar_11:17mi casa será llamada casa de oraciónG2564
+- Mar_12:37llama Señor; ¿Cómo, Pues, es su hijo?[[G3004]]
+- Mar_12:43llamando a sus discípulos, les dijoG4341
+- Mar_14:32a un lugar que se llama Getsemaní, yG3686
+- Mar_15:7uno que se llamaba Barrabás, preso conG3004
+- Mar_15:12haga del que llamáis Rey de los judíos?[[G3004]]
+- Mar_15:22le llevaron a un lugar llamado Gólgota
+- Mar_15:35decían, al oírlo: Mirad, llama a ElíasG5455
+- Luc_1:5hubo en...un sacerdote llamado ZacaríasG3686
+- Luc_1:5su mujer era de...y se llamaba ElisabetG3686
+- Luc_1:13dará a luz...y llamarás su nombre JuanG2564
+- Luc_1:26una ciudad de Galilea, llamada NazaretG3686
+- Luc_1:27con un varón que se llamaba José, de laG3686
+- Luc_1:31luz un hijo, y llamarás su nombre JesúsG2564
+- Luc_1:32éste será grande, y será llamado HijoG2564
+- Luc_1:35el Santo Ser...será llamado Hijo de DiosG2564
+- Luc_1:36mes para ella, la que llamaban estérilG2564
+- Luc_1:59le llamaban con el nombre de su padreG2564
+- Luc_1:60su madre, dijo: No; se llamará JuanG2564
+- Luc_1:61no hay nadie...se llame con ese nombreG2564
+- Luc_1:62preguntaron por...cómo le quería llamarG2564
+- Luc_1:76tú...profeta del Altísimo serás llamadoG2564
+- Luc_2:4la ciudad de David, que se llama BelénG2564
+- Luc_2:23abriere la matriz será llamado santo alG2564
+- Luc_2:25en Jerusalén un hombre llamado SimeónG3686
+- Luc_5:27a un publicano llamado Leví, sentado alG3686
+- Luc_5:32no he venido a llamar a justos, sino aG2564
+- Luc_6:13llamó a sus discípulos, Y escogió a 12G4377
+- Luc_6:13doce...los cuales también llamó apóstolesG3687
+- Luc_6:14a Simón, a quien también llamó Pedro, aG3687
+- Luc_6:15hijo de Alfeo, Simón llamado ZeloteG2564
+- Luc_6:46¿por qué me llamáis, Señor, Señor, y noG2564
+- Luc_7:11él iba a la ciudad que se llama Naín, eG2564
+- Luc_7:18y llamó Juan a dos de sus discípulosG4341
+- Luc_8:2María, que se llamaba Magdalena, de laG2564
+- Luc_8:30¿cómo te llamas? Y él dijo: LegiónG3686
+- Luc_8:41vino un varón llamado Jairo, que eraG3686
+- Luc_9:10aparte, a un lugar...llamada BetsaidaG2564
+- Luc_10:38una mujer llamada Marta le recibió enG3686
+- Luc_10:39tenía una hermana que se llamaba MaríaG2564
+- Luc_11:9y hallaréis; llamad, y se os abriráG2925
+- Luc_11:10porque...y al que llama, se le abriráG2925
+- Luc_12:36para que cuando llegue y llame, le abranG2925
+- Luc_13:12la llamó y le dijo: Mujer, eres libreG4377
+- Luc_13:25estando fuera empecéis a llamar a laG2925
+- Luc_14:12no llames a tus amigos, ni...hermanosG5455
+- Luc_14:13hagas banquete, llama a los pobres, losG2564
+- Luc_15:19, Luc_15:21ya no soy digno de ser llamado tuG2564
+- Luc_15:26y llamando a uno de los criados, leG4341
+- Luc_16:2le llamó, y le dijo: ¿Qué es esto queG5455
+- Luc_16:5llamando a cada uno de los deudores deG4341
+- Luc_16:20había...un mendigo llamado Lázaro, queG3686
+- Luc_18:16llamándolos, dijo: Dejad a los niñosG4341
+- Luc_18:19¿por qué me llamas bueno? Ninguno hayG3004
+- Luc_19:2un varón llamado Zaqueo, que era jefeG2564
+- Luc_19:13llamando a diez siervos suyos, les dioG2564
+- Luc_19:15mandó llamar...aquellos siervos a losG5455
+- Luc_19:29al monte que se llama de los OlivosG2564
+- Luc_20:37llama al Señor, Dios de Abraham, DiosG3004
+- Luc_20:44David, pues, le llama Señor; ¿cómoG2564
+- Luc_21:37en el monte que se llama de los OlivosG2564
+- Luc_22:1la fiesta de los...que se llama la pascuaG3004
+- Luc_22:25tienen autoridad...llamados bienhechoresG2564
+- Luc_22:47y el que se llamaba Judas, uno de losG3004
+- Luc_23:33y cuando llegaron al lugar llamado deG2564
+- Luc_23:50llamado José, de Arimatea, ciudad deG3686
+- Luc_24:13a una aldea llamada Emaús, que estabaG3686
+- Luc_24:18uno...que se llamaba Cleofas, le dijoG3686
+- Jua_1:6hubo un hombre...cual se llamaba JuanG3686
+- Jua_1:42serás llamado Cefas (que quiere decirG2564
+- Jua_1:48antes que Felipe te llamara, cuandoG5455
+- Jua_2:9el maestresala probó el...llamó al esposoG5455
+- Jua_3:1había un hombre...se llamaba NicodemoG3686
+- Jua_4:5a una ciudad de Samaria llamada SicarG3004
+- Jua_4:16dijo: Vé, llama a tu marido, y ven acáG5455
+- Jua_4:25de venir el Mesías, llamado el CristoG3004
+- Jua_5:2un estanque, llamado en hebreo BetesdaG1951
+- Jua_9:11hombre que se llama Jesús hizo lodo, meG3004
+- Jua_9:18hasta que llamaron a los padres del queG5455
+- Jua_9:24volvieron a llamar al...había sido ciegoG5455
+- Jua_10:3y a sus ovejas llama por nombre, y lasG2564
+- Jua_10:35si llamó dioses a aquellos a quienesG2036
+- Jua_11:1estaba...enfermo uno llamado Lázaro, de
+- Jua_11:16dijo entonces Tomás, llamado Dídimo, aG3004
+- Jua_11:28dicho...fue y llamó a María su hermanaG5455
+- Jua_11:28dicho...El Maestro está aquí y te llamaG5455
+- Jua_11:54se alejó...a una ciudad llamada EfraínG3004
+- Jua_12:17cuando llamó a Lázaro del sepulcro, yG5455
+- Jua_13:13vosotros me llamáis Maestro, y SeñorG5455
+- Jua_15:15no os llamaré siervos, porque el siervoG3004
+- Jua_15:15os he llamado amigos, porque todas lasG2046
+- Jua_18:10y el siervo se llamaba MalcoG3686
+- Jua_18:33llamó a Jesús y le dijo: ¿Eres tú elG5455
+- Jua_19:13en el lugar llamado el Enlosado, y enG3004
+- Jua_19:17salió al lugar llamado de la CalaveraG3004
+- Jua_20:24Tomás...llamado Dídimo, no estaba conG3004
+- Jua_21:2juntos Simón...Tomás llamado el DídimoG3004
+- Hec_1:12el monte que se llama del Olivar, elG2564
+- Hec_1:19campo se llama en su...lengua, AcéldamaG2564
+- Hec_1:23a José, llamado Barsabás, que tenía porG2564
+- Hec_2:39cuantos el Señor nuestro Dios llamareG4341
+- Hec_3:2la puerta del...que se llama la HermosaG3004
+- Hec_3:11ellos al pórtico que se llama de SalomónG2564
+- Hec_4:18y llamándolos, les intimaron que enG2564
+- Hec_5:1cierto hombre llamado Ananías, con SafiraG3686
+- Hec_5:34un fariseo llamado Gamaliel, doctor deG3686
+- Hec_5:40llamando a los apóstoles, después deG4341
+- Hec_6:9de la sinagoga llamada de los libertosG3004
+- Hec_7:58pies de un joven que se llamaba SauloG2564
+- Hec_8:9pero había un hombre llamado Simón, queG3686
+- Hec_9:10un discípulo llamado Ananías, a quienG3686
+- Hec_9:11vé a la calle que se llama Derecha, yG2564
+- Hec_9:11y busca...a uno llamado Saulo, de TarsoG3686
+- Hec_9:12y ha visto...a un varón llamado AnaníasG3686
+- Hec_9:33halló allí a uno que se llamaba EneasG3686
+- Hec_7:24cada uno...en el estado en que fue llamadoG2564
+- Hec_8:5algunos que se llamen dioses, sea en elG3004
+- Hec_12:3nadie que hable...llama anatema a JesúsG3004
+- Hec_12:3nadie puede llamar a Jesús Señor, sinoG2036
+- Hec_15:9que no soy digno de ser llamado apóstolG2564
+- Hec_24:24Félix... llamó a PabloG3343
+- Hec_24:25cuando tenga oportunidad te llamaréG3333
+- Gál_1:6que os llamó por la gracia de CristoG2564
+- Gál_1:15que me apartó...me llamó por su graciaG2564
+- Gál_5:8esta...no procede de aquel que os llamaG2564
+- Gál_5:13hermanos, a libertad fuisteis llamadosG2564
+- Efe_1:18la esperanza a que él os ha llamadoG2821
+- Efe_2:11erais llamados incircuncisión por laG3004
+- Efe_2:11la llamada circuncisión hecha con manoG3004
+- Efe_4:1de la vocación con que fuisteis llamadosG2564
+- Efe_4:4como fuisteis también llamados en unaG2564
+- Col_3:15a la que asimismo fuisteis llamadosG2564
+- Col_4:11y Jesús, llamado Justo...son los únicosG3004
+- 1Ts_2:12que os llamó a su reino y gloriaG2564
+- 1Ts_4:7no nos ha llamado Dios a inmundicia, sinoG2564
+- 1Ts_5:24fiel es el que os llama, el cual...haráG2564
+- 2Ts_2:4contra todo lo que se llama Dios oG3004
+- 2Ts_2:14cual os llamó mediante nuestro evangelioG2564
+- 1Ti_6:12a la cual asimismo fuiste llamadoG2564
+- 1Ti_6:20los argumentos de la...llamada cienciaG5581
+- 2Ti_1:9salvó y llamó con llamamiento santoG2564
+- Heb_2:11no...avergüenza de llamarlos hermanosG2564
+- Heb_5:4el que es llamado por Dios, como lo fueG2564
+- Heb_7:11que no fuese llamado según el orden deG3004
+- Heb_9:2la primera parte, llamada el Lugar SantoG3004
+- Heb_9:3la parte del...llamada el Lugar SantísimoG3004
+- Heb_9:15los llamados reciban la promesa de laG2564
+- Heb_11:8Abraham, siendo llamado, obedeció paraG2564
+- Heb_11:16no se avergüenza de llamarse Dios deG1941
+- Heb_11:18en Isaac te será llamada descendenciaG2564
+- Heb_11:24la fe Moisés...rehusó llamarse hijo deG3004
+- Stg_2:23creyó...y fue llamado amigo de DiosG2564
+- Stg_5:14llame a los ancianos de la iglesia, yG4341
+- 1Pe_1:15como aquel que os llamó es santo, sedG2564
+- 1Pe_2:9las virtudes de aquel que os llamó deG2564
+- 1Pe_2:21pues para esto fuisteis llamados; porqueG2564
+- 1Pe_3:6como Sara obedecía a...llamándole señorG2564
+- 1Pe_3:9llamados para que heredaseis bendiciónG2564
+- 1Pe_5:10el Dios de...que nos llamó a su gloriaG2564
+- 2Pe_1:3de aquel que nos llamó por su gloriaG2564
+- 1Jn_3:1que seamos llamados hijos de DiosG2564
+- Jud_1:1a los llamados, santificados en DiosG2822
+- Rev_1:9yo...estaba en la isla llamada PatmosG2564
+- Rev_2:24y no han conocido lo que ellos llamanG3004
+- Rev_3:20yo estoy a la, puerta y llamo; si algunoG2925
+- Rev_11:8en sentido espiritual se llama Sodoma yG2564
+- Rev_12:9serpiente antigua, que se llama diabloG2564
+- Rev_14:18llamó a gran voz al que tenía la hozG5455
+- Rev_16:16lugar que en hebreo se llama ArmagedónG2564
+- Rev_17:14y los que están con él son llamados yG2822
+- Rev_19:9los que son llamados a la cena de lasG2564
+- Rev_19:11y el que lo montaba se llamaba Fiel yG2564

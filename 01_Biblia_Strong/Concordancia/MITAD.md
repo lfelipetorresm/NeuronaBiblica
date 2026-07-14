@@ -1,0 +1,83 @@
+---
+tipo: concordancia
+palabra: MITAD
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MITAD
+
+- Gén_15:10los partió por la m, y puso cada mH8432
+- Éxo_24:6Moisés tomó la m de la sangre, y laH2677
+- Éxo_24:6esparció la otra m de...sobre el altarH2677
+- Éxo_26:12la m de la cortina que sobra, colgaráH2677
+- Éxo_27:5llegará la rejilla hasta la m del altarH2677
+- Éxo_30:13m de un siclo será la ofrenda a JehováH4276
+- Éxo_30:23de canela aromática la m, esto es, 250H4276
+- Éxo_38:4rejilla, que puso...hasta la m del altarH2677
+- Lev_6:20la m a la mañana y la m a la tardeH4276
+- Núm_15:9amasada con la m de un hin de aceiteH2677
+- Núm_15:10de vino...la m de un hin, en ofrendaH2677
+- Núm_31:27partirás por m el botín entre los que
+- Núm_31:29de la m de ellos lo tomarás; y darásH4276
+- Núm_31:30de la m perteneciente a los hijos deH4276
+- Núm_31:36m, la parte de los que habían salidoH4275
+- Núm_31:42de la m para los hijos de Israel, queH4276
+- Núm_31:43la m para la congregación fue...337.500H4275
+- Núm_31:47de la m...tomó Moisés uno de cada 50H4276
+- Deu_3:12y la m del monte de Galaad con susH2677
+- Deu_15:18por la m del costo...sirvió seis añosH4932
+- Jos_4:5delante del arca...a la m del JordánH8432
+- Jos_8:13y Josué avanzó...hasta la m del valleH8432
+- Jos_8:33la m de ellos hacia el monte GerizimH2677
+- Jos_8:33y la otra m hacia el monte Ebal, de laH2677
+- Jos_12:2y la m de Galaad, hasta el arroyo deH2677
+- Jos_12:5y la m de Galaad, territorio de SehónH2677
+- Jos_13:8la otra m de Manasés recibieron ya suH2677
+- Jos_13:25la m de la tierra de los hijos de AmónH2677
+- Jos_13:31y la m de Galaad, y Astarot y EdreiH2677
+- Jos_13:31la m de los hijos de Maquir conformeH2677
+- Jos_22:7a la otra m dio Josué heredad entre susH2677
+- 2Sa_10:4les rapó la m de la barba, les cortóH2677
+- 2Sa_10:4cortó los vestidos por la m hasta lasH2677
+- 2Sa_18:3la m de nosotros muera, no harán casoH2677
+- 2Sa_19:40y también la m del pueblo de IsraelH2677
+- 1Re_3:25dad la m a la una, y la otra m a laH2677
+- 1Re_10:7han visto que ni aun se me dijo la mH2677
+- 1Re_13:8aunque me dieras la m de tu casa, noH2677
+- 1Re_16:9conspiró...Zimri, comandante de la m deH4276
+- 1Re_16:21la m...seguía a Tibni...otra m...a OmriH2677
+- 2Re_20:4Isaías saliese hasta la m del patioH8484
+- 1Cr_2:52de Sobal...la m de los manahetitasH2677
+- 1Cr_2:54hijos de Salma...la m de los manahetitasH2677
+- 1Cr_19:4Hanún...les cortó los vestidos por la mH2677
+- 2Cr_9:6que ni aun la m...me había sido dichaH2677
+- 2Cr_23:20llegaron a la m de la puerta mayor de
+- Neh_3:9, Neh_3:12, Neh_3:16-17, Neh_3:18gobernador de la m de laH2677
+- Neh_4:6fue terminada hasta la m de su alturaH2677
+- Neh_4:16m de mis siervos trabajaba...la otra mH2677
+- Neh_4:21la m de ellos tenían lanzas desde laH2677
+- Neh_12:32iba...Osaías con la m de los príncipesH2677
+- Neh_12:38yo en pos de él, con la m del puebloH2677
+- Neh_12:40y yo, y la m de los oficiales conmigoH2677
+- Neh_13:24la m de sus hijos hablaban la lenguaH2677
+- Est_5:3dijo el rey...Hasta la m del reino seH2677
+- Est_5:6; Est_7:2aunque sea la m del reino, te seráH2677
+- Sal_55:23no llegarán a la m de sus días; peroH2673
+- Sal_102:24mío, no me cortes en la m de mis díasH2677
+- Isa_38:10dije: A la m de mis días iré a lasH1824
+- Jer_17:11en la m de sus días las dejará, yH2677
+- Eze_16:51Samaria no cometió ni la m de tusH2677
+- Dan_9:27la m de la semana hará cesar...ofrendaH2677
+- Dan_12:7que será por tiempo...y la m de un tiempoH2677
+- Zac_14:2la m de la ciudad irá en cautiverioH2677
+- Zac_14:4m del monte se apartará hacia el norteH2677
+- Zac_14:4hacia el norte, y la otra m hacia el surH2677
+- Zac_14:8aguas...m de ellas hacia el mar orientalH2677
+- Zac_14:8la otra m hacia el mar occidental, enH2677
+- Mar_6:23todo...te daré, hasta la m de mi reinoG2255
+- Luc_19:8la m de mis bienes doy a los pobresG2255
+- Luc_23:45el velo del templo se rasgó por la mG3319
+- Jua_7:14mas a la m de la fiesta subió JesúsG3322
+- Hec_1:18cayendo...se reventó por la m, y todasG3319
+- Rev_12:14es sustentada por un tiempo...y la mG2255

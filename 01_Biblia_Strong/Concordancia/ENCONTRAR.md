@@ -1,0 +1,87 @@
+---
+tipo: concordancia
+palabra: ENCONTRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENCONTRAR
+
+- Gén_27:20Dios hizo que la encontrase delanteH4672
+- Gén_32:17si Esaú mi hermano te encontrare, y teH6298
+- Gén_33:8todos estos grupos que he encontrado?[[H6298]]
+- Éxo_3:18Jehová el Dios de...nos ha encontradoH7136
+- Éxo_4:27fue, y lo encontró en el monte de DiosH7125
+- Éxo_5:3el Dios de los hebreos nos ha encontradoH7122
+- Éxo_5:20y encontrando a Moisés y Aarón, queH6293
+- Éxo_14:27los egipcios...se encontraban con el marH7125
+- Éxo_23:4si encontrares el buey de tu enemigoH6293
+- Éxo_30:6del propiciatorio...me encontraré contigoH3259
+- Núm_23:15ponte...y yo iré a encontrar a DiosH7136
+- Núm_35:19cuando lo encontrare, él lo mataráH6293
+- Núm_35:21matará al homicida cuando lo encontrareH6293
+- Deu_22:6cuando encuentres...algún nido de aveH7122
+- Jos_2:16que los que fueron...no os encuentrenH6293
+- Jos_17:10se encuentra con Aser al norte, y conH6293
+- Jue_6:35los cuales salieron a encontrarlesH7125
+- Jue_17:8a vivir donde pudiera encontrar lugarH4672
+- Jue_17:9voy a vivir donde pueda encontrar lugarH4672
+- Rut_2:22y que no te encuentren en otro campoH6293
+- 1Sa_4:1encontrar en batalla a los filisteosH7125
+- 1Sa_9:4pasaron luego por...y no las encontraronH4672
+- 1Sa_9:13le encontraréis luego, antes que suba alH4672
+- 1Sa_10:5encontrarás una compañía de profetas queH6293
+- 1Sa_10:10la compañía...venía a encontrarse con élH7125
+- 1Sa_15:12madrugó...para ir a encontrar a Saúl porH7125
+- 1Sa_17:55que salía a encontrarse con el filisteoH7125
+- 1Sa_25:32te envió para que hoy me encontrasesH7125
+- 2Sa_2:13los encontraron junto al estanque deH6298
+- 2Sa_10:5a David, envió a encontrarles, porqueH7125
+- 2Sa_10:10lo alineó para encontrar a los amonitasH7125
+- 2Sa_17:13que no se encuentre allí ni una piedraH4672
+- 2Sa_18:9se encontró Absalón con los...de DavidH7122
+- 1Re_11:29le encontró en el...el profeta AhíasH4672
+- 1Re_18:7yendo Abdías por...se encontró con ElíasH7125
+- 1Re_18:16Abdías fue a encontrarse con Acab, yH7125
+- 1Re_18:16y Acab vino a encontrarse con ElíasH7125
+- 1Re_20:36de él, le encontró un león, y le matóH4672
+- 1Re_20:37se encontró con otro hombre, y le dijoH4672
+- 1Re_21:18desciende a encontrarte con Acab reyH7125
+- 1Re_21:20te he encontrado, porque te has vendidoH4672
+- 2Re_1:3a encontrarte con los mensajeros delH7125
+- 2Re_1:6encontramos a un varón que nos dijo: IdH7125
+- 2Re_1:7¿cómo era aquel varón que encontrasteisH7125
+- 2Re_4:29si alguno te encontrare, no lo saludesH4672
+- 2Re_4:31se había vuelto para encontrar a EliseoH7125
+- 2Re_9:21salieron a encontrar a Jehú, al cualH4672
+- 2Re_10:15se encontró con Jonadab hijo de RecabH7125
+- 2Re_16:10rey Acaz a encontrar a Tiglat-pileserH7125
+- Neh_7:5genealogía...y encontré en él escritoH4672
+- Neh_13:10encontré...que las porciones para losH3045
+- Sal_79:8vengan...misericordias a encontrarnosH6923
+- Sal_85:10la misericordia y la...se encontraronH6298
+- Sal_116:3me encontraron las angustias del SeolH4672
+- Pro_7:15por tanto, he salido a encontrarteH7125
+- Pro_17:12mejor es encontrarse con una osa a laH6298
+- Pro_22:2rico y el pobre se encuentran: a ambosH6298
+- Pro_29:13el pobre y el usurero se encuentranH6298
+- Ecl_7:28aún busca mi alma, y no lo encuentraH4672
+- Isa_21:14salid a encontrar al sediento...agua
+- Isa_34:14encontrarán con las hienas, y la cabraH6298
+- Jer_41:6cuando los encontró, les dijo: VenidH6298
+- Jer_51:31correo se encontrará con correo...al reyH7125
+- Jer_51:31mensajero se encontrará con mensajeroH7125
+- Ose_13:8osa que ha perdido...los encontraréH6298
+- Amó_5:19que huye...y se encuentra con el osoH6293
+- Mat_18:13si...la encuentra, de cierto os digoG2147
+- Luc_9:12para que vayan...encuentren alimentosG2147
+- Luc_15:4va tras la que se...hasta encontrarla?[[G2147]]
+- Luc_15:5cuando la encuentra, la pone sobre susG2147
+- Luc_15:6gozaos...porque he encontrado mi ovejaG2147
+- Luc_15:8busca con diligencia hasta encontrarla?[[G2147]]
+- Luc_15:9cuando la encuentra, reúne a sus...amigasG2147
+- Luc_15:9encontrado la dracma que había perdidoG2147
+- Jua_11:20salió a encontrarle; pero María seG5221
+- Jua_11:30lugar donde Marta le había encontradoG5221
+- Hec_8:40pero Felipe se encontró en AzotoG2147
+- Rev_20:11ningún lugar se encontró para ellosG2147

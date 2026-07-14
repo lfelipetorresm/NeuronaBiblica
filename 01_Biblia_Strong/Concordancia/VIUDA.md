@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: VIUDA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VIUDA
+
+- Gén_38:11dijo a Tamar su nuera: Quédate v enH490
+- Éxo_22:22a ninguna v ni huérfano afligiréisH490
+- Éxo_22:24vuestras mujeres serán v, y huérfanosH490
+- Lev_21:14no tomará v, ni repudiada, ni infameH490
+- Lev_22:13pero si la hija del sacerdote fuere vH490
+- Núm_30:9todo voto de v o repudiada...será firmeH490
+- Deu_10:18hace justicia al huérfano y a la vH490
+- Deu_14:29y la v que hubiere en tus poblacionesH490
+- Deu_16:11tú...y la v que estuviere en medio de tiH490
+- Deu_16:14tú...y la v que viven en tus poblacionesH490
+- Deu_24:17ni tomarás en prenda la ropa de la vH490
+- Deu_24:19-20, Deu_24:21será para...huérfano y para la vH490
+- Deu_26:12darás...al huérfano y a la v; y comeránH490
+- Deu_26:13he dado al levita...al huérfano y a la vH490
+- Deu_27:19el que pervirtiere el derecho...de la vH490
+- 2Sa_14:5yo a la verdad soy una mujer v, y miH490
+- 1Re_7:14hijo de una v de, la tribu de NeftalíH490
+- 1Re_11:26cuya madre...era v, alzó su mano contraH490
+- 1Re_17:9he dado orden allí a una mujer v que teH490
+- 1Re_17:10aquí una mujer v...allí recogiendo leñaH490
+- 1Re_17:20Dios mío, ¿aun a la v en...has afligidoH490
+- Job_22:9a las v enviaste vacías, y los brazosH490
+- Job_24:3el asno...toman en prenda el buey de la vH490
+- Job_24:21mujer estéril...y a la v nunca hizo bienH490
+- Job_27:15sepultados, y no los llorarán sus vH490
+- Job_29:13y al corazón de la v yo daba alegríaH490
+- Job_31:16si...e hice desfallecer los ojos de la vH490
+- Job_31:18desde el vientre de...fui guía de la v
+- Sal_68:5padre de huérfanos y defensor de vH490
+- Sal_78:64cayeron...sus v no hicieron lamentaciónH490
+- Sal_94:6a la v y al extranjero matan, y a losH490
+- Sal_109:9sean sus hijos huérfanos, y su mujer vH490
+- Sal_146:9Jehová...al huérfano y a la v sostieneH490
+- Pro_15:25Jehová...afirmará la heredad de la vH490
+- Isa_1:17justicia al huérfano, amparad a la vH490
+- Isa_1:23van...ni llega a ellos la causa de la vH490
+- Isa_9:17ni...huérfanos y v tendrá misericordiaH490
+- Isa_10:2para despojar a las v, y robar a losH490
+- Isa_47:8yo, no quedaré v, ni conoceré orfandadH490
+- Jer_7:6no oprimiereis...al huérfano y a la vH490
+- Jer_15:8v se me multiplicaron más que la arenaH490
+- Jer_18:21queden sus mujeres sin hijos, y v; y susH490
+- Jer_22:3no engañéis...al huérfano ni a la v, niH490
+- Jer_49:11yo los criaré; y en mí confiarán tus vH490
+- Lam_1:1la grande entre las...se ha vuelto como vH490
+- Lam_5:3huérfanos somos sin...madres son como vH490
+- Eze_22:7al huérfano y a la v despojaron en tiH490
+- Eze_22:25multiplicaron sus v en medio de ellaH490
+- Eze_44:22v ni repudiada tomará por mujer, sinoH490
+- Eze_44:22que tomará...v que fuere v de sacerdoteH490
+- Zac_7:10no oprimáis a la v, al huérfano, alH490
+- Mal_3:5los que defraudan...la v y al huérfanoH490
+- Mat_23:14porque devoráis las casas de las vG5503
+- Mar_12:40que devoran las casas de las v, y porG5503
+- Mar_12:42vino una v pobre, y echó dos blancasG5503
+- Mar_12:43os digo que esta v pobre echó más queG5503
+- Luc_2:37era v hacía ochenta y cuatro años; yG5503
+- Luc_4:25muchas v había en Israel en los días deG5503
+- Luc_4:26enviado...sino a una mujer v en SareptaG5503
+- Luc_7:12hijo único de su madre, la cual era vG5503
+- Luc_18:3había también...una v, la cual venía a élG5503
+- Luc_18:5esta v me es molesta, le haré justiciaG5503
+- Luc_20:47que devoran las casas de las v, y porG5503
+- Luc_21:2vio...a una v muy pobre, que echaba allíG5503
+- Luc_21:3digo, que esta v pobre echó más que todosG5503
+- Hec_6:1las v de aquéllos eran desatendidas enG5503
+- Hec_9:39donde le rodearon todas las v, llorandoG5503
+- Hec_9:41llamando a...y a las v, la presentó vivaG5503
+- 1Co_7:8digo, a los solteros y a las v, queG5503
+- 1Ti_5:3honra a las v que en verdad lo sonG5503
+- 1Ti_5:4pero si alguna v tiene hijos, o nietosG5503
+- 1Ti_5:5la que en verdad es v y ha quedado solaG5503
+- 1Ti_5:9puesta en la lista sólo la v no menor deG5503
+- 1Ti_5:11pero v más jóvenes no admitáis; porqueG5503
+- 1Ti_5:14que las v jóvenes se casen, críen hijosG5503
+- 1Ti_5:16creyente tiene v, que las mantenga, yG5503
+- 1Ti_5:16suficiente para las que en verdad sonG5503
+- Stg_1:27visitar...las v en sus tribulacionesG5503
+- Rev_18:7estoy sentada como reina, y no soy vG5503

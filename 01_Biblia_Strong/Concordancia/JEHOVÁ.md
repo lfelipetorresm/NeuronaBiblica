@@ -1,0 +1,4728 @@
+---
+tipo: concordancia
+palabra: JEHOVÁ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JEHOVÁ
+
+- Gén_2:4el día que J Dios hizo la tierra y losH3068
+- Gén_2:5J Dios aún no había hecho llover sobreH3068
+- Gén_2:7J Dios formó al hombre del polvo de laH3068
+- Gén_2:8y J Dios plantó un huerto en Edén, alH3068
+- Gén_2:9J Dios hizo nacer de la tierra todo árbolH3068
+- Gén_2:15tomó, pues, J Dios al hombre, y lo pusoH3068
+- Gén_2:16y mandó J Dios al hombre, diciendo: DeH3068
+- Gén_2:18dijo J Dios: No es bueno que el hombreH3068
+- Gén_2:19J Dios formó...de la tierra toda bestiaH3068
+- Gén_2:21J Dios hizo caer sueño...sobre Adán, yH3068
+- Gén_2:22la costilla que J Dios tomó del hombreH3068
+- Gén_3:1los animales del campo que J Dios habíaH3068
+- Gén_3:8oyeron la voz de J Dios que se paseabaH3068
+- Gén_3:8se escondieron de la presencia de J DiosH3068
+- Gén_3:9mas J Dios llamó al hombre, y le dijoH3068
+- Gén_3:13entonces J Dios dijo a la mujer: ¿QuéH3068
+- Gén_3:14J...dijo a la serpiente...maldita serásH3068
+- Gén_3:21J...hizo al hombre y a su mujer túnicasH3068
+- Gén_3:22dijo J Dios: He aquí el hombre es comoH3068
+- Gén_3:23y lo sacó J del huerto del Edén, paraH3068
+- Gén_4:1dijo: Por voluntad de J he adquirido varónH3068
+- Gén_4:3Caín trajo del fruto de...una ofrenda a JH3068
+- Gén_4:4miró J con agrado a Abel y a su ofrendaH3068
+- Gén_4:6J dijo a Caín: ¿Por qué te has ensañadoH3068
+- Gén_4:9y J dijo a Caín: ¿Dónde está Abel tuH3068
+- Gén_4:13y dijo Caín a J: Grande es mi castigoH3068
+- Gén_4:15le respondió J: Ciertamente cualquieraH3068
+- Gén_4:15J puso señal en Caín, para que no loH3068
+- Gén_4:16salió...Caín de delante de J, y habitóH3068
+- Gén_4:26comenzaron a invocar el nombre de JH3068
+- Gén_5:29Noé...a causa de la tierra que J maldijoH3068
+- Gén_6:3dijo J: No contenderá mi espíritu con elH3068
+- Gén_6:5vio J que la maldad de los hombres eraH3068
+- Gén_6:6se arrepintió J de haber hecho hombre enH3068
+- Gén_6:7y dijo J: Raeré de sobre la faz de laH3068
+- Gén_6:8pero Noé halló gracia ante los ojos de JH3068
+- Gén_7:1dijo...J a Noé: Entra tú y toda tu casaH3068
+- Gén_7:5hizo Noé conforme a...lo que le mandó JH3068
+- Gén_7:16de toda carne...y J le cerró la puertaH3068
+- Gén_8:20y edificó Noé un altar a J, y tomó deH3068
+- Gén_8:21percibió J olor grato; y dijo J en suH3068
+- Gén_9:26dijo...Bendito por J mi Dios sea Sem, yH3068
+- Gén_10:9éste fue vigoroso cazador delante de JH3068
+- Gén_11:5y descendió J para ver la ciudad y laH3068
+- Gén_11:6y dijo J: He aquí el pueblo es uno, yH3068
+- Gén_11:8los esparció J desde allí sobre la fazH3068
+- Gén_11:9allí confundió J el lenguaje de toda laH3068
+- Gén_12:1pero J había dicho a Abram: Vete de tuH3068
+- Gén_12:4se fue Abram, como J le dijo; y Lot fueH3068
+- Gén_12:7y apareció J a Abram, y le dijo: A tuH3068
+- Gén_12:7y edificó allí un altar a J, quien leH3068
+- Gén_12:8allí altar a J, e invocó el nombre de JH3068
+- Gén_12:17mas J hirió a Faraón y a su casa conH3068
+- Gén_13:4altar...invocó allí Abram el nombre de JH3068
+- Gén_13:10como el huerto de J, como la tierra deH3068
+- Gén_13:10que destruyese J a Sodoma y a GomorraH3068
+- Gén_13:13hombres de Sodoma...pecadores contra JH3068
+- Gén_13:14y J dijo a Abram, después que Lot seH3068
+- Gén_13:18en Hebrón, y edificó allí altar a JH3068
+- Gén_14:22he alzado mi mano a J Dios AltísimoH3068
+- Gén_15:1vino la palabra de J a Abram en visiónH3068
+- Gén_15:2Señor J, ¿qué me darás, siendo así queH3068
+- Gén_15:4vino a él palabra de J, diciendo: No teH3068
+- Gén_15:6creyó a J, y le fue contado por justiciaH3068
+- Gén_15:7le dijo: Yo soy J, que te saqué de Ur deH3068
+- Gén_15:8Señor J, ¿en qué conoceré que la he deH3068
+- Gén_15:13J dijo a Abram: Ten por cierto que tuH3068
+- Gén_15:18día hizo J un pacto con Abram, diciendoH3068
+- Gén_16:2ves que J me ha hecho estéril; te ruegoH3068
+- Gén_16:5te di mi sierva...juzgue J entre tú y yoH3068
+- Gén_16:7halló el ángel de J junto a una fuenteH3068
+- Gén_16:9y le dijo el ángel de J: Vuélvete a tuH3068
+- Gén_16:10le dijo...el ángel de J: MultiplicaréH3068
+- Gén_16:11le dijo el ángel de J: He aquí que hasH3068
+- Gén_16:11Ismael, porque J ha oído tu aflicciónH3068
+- Gén_16:13el nombre de J que con ella hablabaH3068
+- Gén_17:1apareció J y le dijo: Yo soy el DiosH3068
+- Gén_18:1le apareció J en el encinar de MamreH3068
+- Gén_18:13entonces J dijo a Abraham: ¿Por quéH3068
+- Gén_18:17y J dijo: ¿Encubriré yo a Abraham loH3068
+- Gén_18:19mandará...que guarden el camino de JH3068
+- Gén_18:19haga venir J sobre Abraham lo que haH3068
+- Gén_18:20J le dijo...el clamor contra Sodoma yH3068
+- Gén_18:22pero Abraham estaba aún delante de JH3068
+- Gén_18:26respondió J: Si hallare en Sodoma 50H3068
+- Gén_18:33J se fue, luego que acabó de hablarH3068
+- Gén_19:13ha subido de punto delante de J; porH3068
+- Gén_19:13tanto, J nos ha enviado para destruirloH3068
+- Gén_19:14porque J va a destruir esta ciudadH3068
+- Gén_19:16según la misericordia de J para con élH3068
+- Gén_19:24J hizo llover sobre Sodoma y...azufreH3068
+- Gén_19:24fuego de parte de J desde los cielosH3068
+- Gén_19:27lugar donde había estado delante de JH3068
+- Gén_20:18J había cerrado...matriz de la casa deH3068
+- Gén_21:1visitó J a Sara...hizo J con Sara comoH3068
+- Gén_21:33e invocó...el nombre de J Dios eternoH3068
+- Gén_22:11ángel de J le dio voces desde el cieloH3068
+- Gén_22:14y llamó Abraham el nombre...J proveeráH3070
+- Gén_22:14dice...En el monte de J será provistoH3068
+- Gén_22:15llamó el ángel de J a Abraham segundaH3068
+- Gén_22:16por mí mismo he jurado, dice J, queH3068
+- Gén_24:1J había bendecido a Abraham en todoH3068
+- Gén_24:3te juramentaré por J, Dios de los cielosH3068
+- Gén_24:7J, Dios de los cielos, que me tomó deH3068
+- Gén_24:12oh J, Dios de mi señor Abraham, dameH3068
+- Gén_24:21saber si J había prosperado su viajeH3068
+- Gén_24:26el hombre...se inclinó, y adoró a JH3068
+- Gén_24:27y dijo: Bendito sea J, Dios de mi amoH3068
+- Gén_24:27guiándome J en el camino a casa de losH3068
+- Gén_24:31ven, bendito de J; ¿por qué estás fuera?[[H3068]]
+- Gén_24:35J ha bendecido mucho a mi amo, y él seH3068
+- Gén_24:40J...cuya presencia he andado, enviaráH3068
+- Gén_24:42dije: J, Dios de mi señor Abraham, siH3068
+- Gén_24:44sea ésta la mujer que destinó J paraH3068
+- Gén_24:48y adoré a J, y bendije a J Dios de miH3068
+- Gén_24:50de J ha salido...no podemos hablarteH3068
+- Gén_24:51sea mujer del hijo...como lo ha dicho JH3068
+- Gén_24:52el criado...se inclinó en tierra ante JH3068
+- Gén_24:56no...ya que J ha prosperado mi caminoH3068
+- Gén_25:21y oró Isaac a J por su mujer, que eraH3068
+- Gén_25:21aceptó J, y concibió Rebeca su mujerH3068
+- Gén_25:22los hijos luchaban...fue a consultar a JH3068
+- Gén_25:23le respondió J: Dos naciones hay en tuH3068
+- Gén_26:2apareció J, y le dijo: No desciendas aH3068
+- Gén_26:12y cosechó aquel año...y le bendijo JH3068
+- Gén_26:22J nos ha prosperado, y fructificaremosH3068
+- Gén_26:24se le apareció J aquella noche, y leH3068
+- Gén_26:25edificó...e invocó el nombre de J, yH3068
+- Gén_26:28visto que J está contigo; y dijimosH3068
+- Gén_26:29te...en paz; tú eres ahora bendito de JH3068
+- Gén_27:7te bendiga en la presencia de J antesH3068
+- Gén_27:20J...hizo que la encontrase delante deH3068
+- Gén_27:27el olor del campo que J ha bendecidoH3068
+- Gén_28:13he aquí, J estaba en lo alto de ellaH3068
+- Gén_28:13yo soy J, el Dios de Abraham tu padreH3068
+- Gén_28:16J está en este lugar, y yo no lo sabíaH3068
+- Gén_28:21si volviere en paz a...J será mi DiosH3068
+- Gén_29:31vio J que Lea era menospreciada, y leH3068
+- Gén_29:32ha mirado J mi aflicción; ahora, porH3068
+- Gén_29:33oyó J que yo era menospreciada, me haH3068
+- Gén_29:35esta vez alabaré a J; por esto llamóH3068
+- Gén_30:24José, diciendo: Añádame J otro hijoH3068
+- Gén_30:27que J me ha bendecido por tu causaH3068
+- Gén_30:30y J te ha bendecido con mi llegadaH3068
+- Gén_31:3J dijo a Jacob: Vuélvete a la tierra deH3068
+- Gén_31:49atalaye J entre tú y yo, cuando nosH3068
+- Gén_32:9J, que...dijiste: Vuélvete a tu tierraH3068
+- Gén_38:7fue malo ante...J, y le quitó J la vidaH3068
+- Gén_38:10desagradó en ojos de J lo que hacíaH3068
+- Gén_39:2mas J estaba con José, y fue varónH3068
+- Gén_39:3vio su amo que J estaba con él, y queH3068
+- Gén_39:3hacía, J lo hacía prosperar en su manoH3068
+- Gén_39:5J bendijo la casa del egipcio a causaH3068
+- Gén_39:5la bendición de J estaba sobre todo loH3068
+- Gén_39:21pero J estaba con José, y le extendióH3068
+- Gén_39:23J estaba con José, y...J lo prosperabaH3068
+- Gén_49:18tu salvación esperé, oh JH3068
+- Éxo_3:2le apareció el Angel de J enH3068
+- Éxo_3:4viendo J que él iba a ver, lo llamó DiosH3068
+- Éxo_3:7dijo...J: Bien he visto la aflicción deH3068
+- Éxo_3:15J, el Dios de vuestros padres, el DiosH3068
+- Éxo_3:16y diles: J, el Dios de vuestros padresH3068
+- Éxo_3:18diréis: J el Dios de los hebreos nos haH3068
+- Éxo_3:18ofrezcamos sacrificios a J nuestro DiosH3068
+- Éxo_4:1voz: porque dirán: No te ha aparecido JH3068
+- Éxo_4:2J dijo: ¿Qué es...que tienes en tu mano?[[H3068]]
+- Éxo_4:4dijo J a Moisés: Extiende tu mano, yH3068
+- Éxo_4:5por esto creerán que se te ha aparecido JH3068
+- Éxo_4:6le dijo además J: Mete ahora tu mano enH3068
+- Éxo_4:10entonces dijo Moisés a J: ¡Ay, Señor![[H3068]]
+- Éxo_4:11y J le respondió: ¿Quién dio la bocaH3068
+- Éxo_4:11quién hizo al mudo y al...¿No soy yo J?[[H3068]]
+- Éxo_4:14entonces J se enojó contra Moisés, yH3068
+- Éxo_4:19dijo también J a Moisés en Madián: VéH3068
+- Éxo_4:21dijo J a Moisés: Cuando hayas vuelto aH3068
+- Éxo_4:22J ha dicho así: Israel es mi hijo, miH3068
+- Éxo_4:24en una posada J le salió al encuentroH3068
+- Éxo_4:27J dijo a Aarón: Vé a recibir a MoisésH3068
+- Éxo_4:28todas las palabras de J que le enviabaH3068
+- Éxo_4:30habló Aarón...de todas las cosas que JH3068
+- Éxo_4:31J había visitado a los hijos de IsraelH3068
+- Éxo_5:1J el Dios de Israel dice así: Deja ir aH3068
+- Éxo_5:2Faraón respondió: ¿Quién es J, para queH3068
+- Éxo_5:2no conozco a J, ni tampoco dejaré ir aH3068
+- Éxo_5:3ofreceremos sacrificios a J nuestro DiosH3068
+- Éxo_5:17vamos y ofrezcamos sacrificios a JH3068
+- Éxo_5:21mire J sobre vosotros, y juzgue; puesH3068
+- Éxo_5:22entonces Moisés se volvió a J, y dijoH3068
+- Éxo_6:1J respondió a Moisés: Ahora verás lo queH3068
+- Éxo_6:2habló...Dios a Moisés, y le dijo: Yo soy JH3068
+- Éxo_6:3mas en mi nombre J no me di a conocer aH3068
+- Éxo_6:6yo soy J; y yo os sacaré de debajo de lasH3068
+- Éxo_6:7sabréis que yo soy J vuestro Dios, queH3068
+- Éxo_6:8la tierra...os la daré por heredad. Yo JH3068
+- Éxo_6:10,29; 14:1; 16:11; 25:1; 30:11,17,22; 31:1,12; 40:1; Lev_4:1; 5:14; 6:1,8,19,24; 7:22,28; 8:1; 12:1; 14:1; 17:1; 18:1; 19:1; 20:1; 21:16; 22:1,17,26; 23:1,9,23,26,33; 24:1,13; 25:1; 27:1; Núm_1:1,48; 3:1,5,11,14,44; 4:21; 5:1,5,11; 6:1,22; 7:4; 8:1,5,23; 9:1,9; 10:1; 13:1; 15:1,17,37; 16:23,36,44; 17:1; 18:25; 20:7; 25:10,16; 26:52; 28:1; 31:1,25; 33:50; 34:1,16; 35:1,9habló J a Moisés, diciendoH3068
+- Éxo_6:12respondió Moisés delante de J: HeH3068
+- Éxo_6:13; 7:8; 12:1; Lev_11:1; 13:1; 14:33; 15:1; Núm_2:1; 4:1,17; 14:26; 16:20; 19:1; 20:23J habló a Moisés y a Aarón, diciendoH3068
+- Éxo_6:26es aquel Aarón y...a los cuales J dijoH3068
+- Éxo_6:28cuando J habló a Moisés en la tierra deH3068
+- Éxo_6:30delante de J...yo soy torpe de labiosH3068
+- Éxo_7:1J dijo a Moisés...te he constituido diosH3068
+- Éxo_7:5y sabrán los egipcios...yo soy J, cuandoH3068
+- Éxo_7:6e hizo Moisés y Aarón como J les mandóH3068
+- Éxo_7:8habló J a Moisés y a Aarón, diciendoH3068
+- Éxo_7:10e hicieron como J lo había mandadoH3068
+- Éxo_7:13no los escuchó, como J lo había dichoH3068
+- Éxo_7:14J dijo a Moisés: El corazón de FaraónH3068
+- Éxo_7:16dile: J el Dios de los hebreos me haH3068
+- Éxo_7:17así ha dicho J...conocerás que yo soy JH3068
+- Éxo_7:19J dijo a Moisés: Di a Aarón: Toma tuH3068
+- Éxo_7:20Moisés y Aarón hicieron como J lo mandóH3068
+- Éxo_7:22no los escuchó como J lo había dichoH3068
+- Éxo_7:25siete días después que J hirió el ríoH3068
+- Éxo_8:1J dijo a Moisés: Entra a la presencia deH3068
+- Éxo_8:1,20J ha dicho así: Deja ir a mi puebloH3068
+- Éxo_8:5J dijo a Moisés: Di a Aarón: Extiende tuH3068
+- Éxo_8:8orad a J para que quite las ranas de míH3068
+- Éxo_8:8dejaré ir a...que ofrezca sacrificios a JH3068
+- Éxo_8:10que conozcas que no hay como J nuestroH3068
+- Éxo_8:12y clamó Moisés a J tocante a las ranasH3068
+- Éxo_8:13hizo J conforme a la palabra de MoisésH3068
+- Éxo_8:15no los escuchó, como J lo había dichoH3068
+- Éxo_8:16J dijo a Moisés: Di a Aarón: Extiende tuH3068
+- Éxo_8:19y no los escuché, como J lo había dichoH3068
+- Éxo_8:20J dijo a Moisés: Levántate de mañana yH3068
+- Éxo_8:22que sepas que yo soy J en medio de laH3068
+- Éxo_8:24J lo hizo...y vino toda clase de moscasH3068
+- Éxo_8:26ofreceríamos a J...la abominación de losH3068
+- Éxo_8:27y ofreceremos sacrificios a J nuestroH3068
+- Éxo_8:28ofrezcáis sacrificios a J vuestro DiosH3068
+- Éxo_8:29rogaré a J que las...moscas se vayan deH3068
+- Éxo_8:29no dejando ir al...a dar sacrificio a JH3068
+- Éxo_8:30Moisés salió de la presencia...oró a JH3068
+- Éxo_8:31J hizo conforme a la palabra de MoisésH3068
+- Éxo_9:1J dijo a Moisés: Entra a la presencia deH3068
+- Éxo_9:1dile: J, el Dios de los hebreos, dice asíH3068
+- Éxo_9:3la mano de J estará sobre tus ganadosH3068
+- Éxo_9:4J hará separación entre los ganados deH3068
+- Éxo_9:5y J fijó plazo...Mañana hará J esta cosaH3068
+- Éxo_9:6J hizo aquello, y murió todo el ganadoH3068
+- Éxo_9:8J dijo a Moisés y a Aarón: Tomad...cenizaH3068
+- Éxo_9:12J endureció el corazón de Faraón, y noH3068
+- Éxo_9:12no...oyó, como J lo había dicho a MoisésH3068
+- Éxo_9:13J dijo a Moisés: Levántate de mañana yH3068
+- Éxo_9:13dile: J, el Dios de los hebreos, dice asíH3068
+- Éxo_9:20el que tuvo temor de la palabra de JH3068
+- Éxo_9:21no puso en su corazón la palabra de JH3068
+- Éxo_9:22J dijo a Moisés: Extiende tu mano haciaH3068
+- Éxo_9:23J hizo tronar...y J hizo llover granizoH3068
+- Éxo_9:27J es justo, y yo y mi pueblo impíosH3068
+- Éxo_9:28orad a J para que cesen los truenos deH3068
+- Éxo_9:29extenderé mis manos a J, y los truenosH3068
+- Éxo_9:29para que sepas que de J es la tierraH3068
+- Éxo_9:30ni tú ni...temeréis...presencia de J DiosH3068
+- Éxo_9:33extendió sus manos a J, y cesaron losH3068
+- Éxo_9:35J lo había dicho por medio de MoisésH3068
+- Éxo_10:1J dijo a Moisés: Entra a la presencia deH3068
+- Éxo_10:2señales...para que sepáis que yo soy JH3068
+- Éxo_10:3J el Dios de los hebreos ha dicho asíH3068
+- Éxo_10:7deja ir a...para que sirvan a J su DiosH3068
+- Éxo_10:8les dijo: Andad, servid a J vuestro DiosH3068
+- Éxo_10:9porque es nuestra fiesta solemne para JH3068
+- Éxo_10:10él les dijo: ¡Así sea J con vosotros![[H3068]]
+- Éxo_10:11id...vosotros los varones, y servid a JH3068
+- Éxo_10:12entonces J dijo a Moisés: Extiende tuH3068
+- Éxo_10:13J trajo un viento oriental sobre elH3068
+- Éxo_10:16dijo: He pecado contra J vuestro DiosH3068
+- Éxo_10:17oréis a J vuestro Dios que quite deH3068
+- Éxo_10:18salió Moisés de delante de...y oró a JH3068
+- Éxo_10:19entonces J trajo un fortísimo vientoH3068
+- Éxo_10:20,27J endureció el corazón de FaraónH3068
+- Éxo_10:21J dijo a Moisés: Extiende tu mano haciaH3068
+- Éxo_10:24id, servid a J...queden vuestras ovejasH3068
+- Éxo_10:25que sacrifiquemos para J nuestro DiosH3068
+- Éxo_10:26hemos de tomar para servir a J...DiosH3068
+- Éxo_10:26no sabemos con qué hemos de servir a JH3068
+- Éxo_11:1J dijo a Moisés: Una plaga traeré aúnH3068
+- Éxo_11:3J dio gracia al pueblo en los ojos deH3068
+- Éxo_11:4J ha dicho...A la medianoche yo saldréH3068
+- Éxo_11:7que sepáis que J hace diferencia entreH3068
+- Éxo_11:9y J dijo a Moisés: Faraón no os oiráH3068
+- Éxo_11:10pues J había endurecido el corazón deH3068
+- Éxo_12:11comeréis...ceñidos...es la pascua de JH3068
+- Éxo_12:12heriré a todo primogénito en la...Yo JH3068
+- Éxo_12:14lo celebraréis...fiesta solemne para JH3068
+- Éxo_12:23J pasará hiriendo a los egipcios; yH3068
+- Éxo_12:23pasará J aquella puerta, y no dejaráH3068
+- Éxo_12:25cuando entréis en la tierra que J osH3068
+- Éxo_12:27la víctima de la pascua de J, el cualH3068
+- Éxo_12:28hicieron, así, como J había mandadoH3068
+- Éxo_12:29J hirió a todo primogénito en...EgiptoH3068
+- Éxo_12:31salid...servid a J, como habéis dichoH3068
+- Éxo_12:36J dio gracia al pueblo delante de losH3068
+- Éxo_12:41todas las huestes de J salieron de laH3068
+- Éxo_12:42noche de guardar para J, por haberlosH3068
+- Éxo_12:42deben guardarla para J todos...IsraelH3068
+- Éxo_12:43J dijo a Moisés y a Aarón: Esta es laH3068
+- Éxo_12:48y quisiere celebrar la pascua para JH3068
+- Éxo_12:50lo hicieron...como mandó J a Moisés yH3068
+- Éxo_12:51sacó J a los hijos de Israel...EgiptoH3068
+- Éxo_13:1J habló a Moisés, diciendoH3068
+- Éxo_13:3J os ha sacado de aquí con mano fuerteH3068
+- Éxo_13:5cuando J te hubiere metido en la tierraH3068
+- Éxo_13:6y el séptimo día será fiesta para JH3068
+- Éxo_13:8hace esto con motivo de lo que J hizoH3068
+- Éxo_13:9para que la ley de J esté en tu bocaH3068
+- Éxo_13:9con mano fuerte te sacó J de EgiptoH3068
+- Éxo_13:11J te haya metido...tierra del cananeoH3068
+- Éxo_13:12dedicarás a J...los machos serán de JH3068
+- Éxo_13:14J nos sacó con mano fuerte de EgiptoH3068
+- Éxo_13:15J hizo morir en la tierra de Egipto aH3068
+- Éxo_13:15yo sacrifico para J todo primogénitoH3068
+- Éxo_13:16J nos sacó de Egipto con mano fuerteH3068
+- Éxo_13:21J iba delante de ellos de día en unaH3068
+- Éxo_14:4y sabrán los egipcios que yo soy JH3068
+- Éxo_14:8endureció J el corazón de Faraón rey deH3068
+- Éxo_14:10hijos de Israel temieron...clamaron a JH3068
+- Éxo_14:13y ved la salvación que J hará hoy conH3068
+- Éxo_14:14J peleará por vosotros, y...tranquilosH3068
+- Éxo_14:15J dijo a Moisés: ¿Por qué clamas a mí?[[H3068]]
+- Éxo_14:18y sabrán los egipcios que yo soy JH3068
+- Éxo_14:21e hizo J que el mar se retirase porH3068
+- Éxo_14:24J miró el campamento de los egipciosH3068
+- Éxo_14:25J pelea por ellos contra los egipciosH3068
+- Éxo_14:26y J dijo a Moisés: Extiende tu manoH3068
+- Éxo_14:27J derribó a los egipcios en medio delH3068
+- Éxo_14:30salvó J aquel día a Israel de mano deH3068
+- Éxo_14:31vio Israel...grande hecho que J ejecutóH3068
+- Éxo_14:31el pueblo temió a J, y creyeron a J yH3068
+- Éxo_15:1cantó Moisés y los...este cántico a JH3068
+- Éxo_15:1cantaré yo a J, porque...ha magnificadoH3068
+- Éxo_15:2J es mi fortaleza y mi cántico, y haH3068
+- Éxo_15:3J es varón de guerra; J es su nombreH3068
+- Éxo_15:6tu diestra, oh J, ha sido magnificadaH3068
+- Éxo_15:6tu diestra, oh J, ha quebrantado alH3068
+- Éxo_15:11¿quién...tú, oh J, entre los dioses?[[H3068]]
+- Éxo_15:16hasta que haya pasado tu pueblo, oh JH3068
+- Éxo_15:17el lugar...que tú has preparado, oh JH3068
+- Éxo_15:17el santuario que tus manos, oh J, hanH3068
+- Éxo_15:18J reinará eternamente y para siempreH3068
+- Éxo_15:19J hizo volver las aguas del mar sobreH3068
+- Éxo_15:21cantad a J, porque en extremo se haH3068
+- Éxo_15:25y Moisés clamó a J, y J le mostró unH3068
+- Éxo_15:26si oyeres atentamente la voz de J tuH3068
+- Éxo_15:26ninguna enfermedad...soy J tu sanadorH3068
+- Éxo_16:3ojalá hubiéramos muerto por mano de JH3068
+- Éxo_16:4J dijo a Moisés...yo os haré llover panH3068
+- Éxo_16:6sabréis que J os ha sacado de la tierraH3068
+- Éxo_16:7J...él ha oído...murmuraciones contra JH3068
+- Éxo_16:8J os dará en la tarde carne para comerH3068
+- Éxo_16:8porque J ha oído vuestras murmuracionesH3068
+- Éxo_16:8no son contra nosotros, sino contra JH3068
+- Éxo_16:9acercaos a la presencia de J...ha oídoH3068
+- Éxo_16:10aquí la gloria de J apareció en la nubeH3068
+- Éxo_16:12y sabréis que yo soy J vuestro DiosH3068
+- Éxo_16:15dijo: Es el pan que J os da para comerH3068
+- Éxo_16:16esto es lo que J ha mandado: RecogedH3068
+- Éxo_16:23ha dicho J: Mañana es el santo día deH3068
+- Éxo_16:23mañana es el...el reposo consagrado a JH3068
+- Éxo_16:25comedlo...hoy es día de reposo para JH3068
+- Éxo_16:28y J dijo a Moisés: ¿Hasta cuándo noH3068
+- Éxo_16:29mirad que J os dio el día de reposoH3068
+- Éxo_16:32lo que J ha mandado: Llenad un gomerH3068
+- Éxo_16:33ponlo delante de J...que sea guardadoH3068
+- Éxo_16:34guardarlo, como J lo mandó a MoisésH3068
+- Éxo_17:1Israel partió del...al mandamiento de JH3068
+- Éxo_17:2Moisés les dijo...¿Por qué tentáis a J?[[H3068]]
+- Éxo_17:4clamó Moisés a J, diciendo: ¿Qué haréH3068
+- Éxo_17:5y J dijo a...Pasa delante del pueblo, yH3068
+- Éxo_17:7tentaron a J, diciendo...¿Está, pues, JH3068
+- Éxo_17:14y J dijo a Moisés: Escribe esto paraH3068
+- Éxo_17:16contra el trono de J, J tendrá guerraH3068
+- Éxo_18:1cómo J había sacado a Israel de EgiptoH3068
+- Éxo_18:8Moisés contó...cosas que J había hechoH3068
+- Éxo_18:8el camino, y cómo los había librado JH3068
+- Éxo_18:9se alegró Jetro de todo el bien que JH3068
+- Éxo_18:10bendito sea J, que os libró de mano deH3068
+- Éxo_18:11ahora conozco que J es más grande queH3068
+- Éxo_19:3y J lo llamó desde el monte, diciendoH3068
+- Éxo_19:7estas palabras que J le había mandadoH3068
+- Éxo_19:8y dijeron...lo que J ha dicho, haremosH3068
+- Éxo_19:8,9y Moisés refirió a J las palabrasH3068
+- Éxo_19:9J dijo...vengo a ti en una nube espesaH3068
+- Éxo_19:10J dijo a Moisés: Ve al pueblo...lavenH3068
+- Éxo_19:11al tercer día J descenderá a ojos deH3068
+- Éxo_19:18J había descendido sobre él en fuegoH3068
+- Éxo_19:20descendió J sobre el monte Sinaí, sobreH3068
+- Éxo_19:20y llamó J a Moisés a la cumbre delH3068
+- Éxo_19:21J dijo a Moisés: Desciende, ordena alH3068
+- Éxo_19:21no traspase los límites para ver a JH3068
+- Éxo_19:22los sacerdotes que se acercan a JH3068
+- Éxo_19:22para que J no haga en ellos estragoH3068
+- Éxo_19:23Moisés dijo a J: El pueblo no podráH3068
+- Éxo_19:24J le dijo: Ve, desciende, y subirásH3068
+- Éxo_19:24no traspasen el límite para subir a JH3068
+- Éxo_20:2soy J tu Dios, que te saqué de...EgiptoH3068
+- Éxo_20:5yo soy J tu Dios, fuerte, celoso, queH3068
+- Éxo_20:7no tomarás el nombre de J...Dios en vanoH3068
+- Éxo_20:7no dará por inocente J al que tomare suH3068
+- Éxo_20:10séptimo día es reposo para J tu DiosH3068
+- Éxo_20:11porque en seis días hizo J los cielos yH3068
+- Éxo_20:11J bendijo el día de reposo...santificóH3068
+- Éxo_20:12se alarguen en la tierra que J...te daH3068
+- Éxo_20:22J dijo a Moisés: Así dirás a los hijosH3068
+- Éxo_22:11juramento de J habrá entre ambos, deH3068
+- Éxo_22:20ofreciere...excepto...a J, será muertoH3068
+- Éxo_23:17se presentará todo varón delante de JH3068
+- Éxo_23:19primicias de...traerás a la casa de JH3068
+- Éxo_23:25mas a J vuestro Dios serviréis, y élH3068
+- Éxo_24:1J a Moisés: Sube ante J, tú, y AarónH3068
+- Éxo_24:2Moisés sólo se acercará a J; y ellos noH3068
+- Éxo_24:3contó al pueblo todas las palabras de JH3068
+- Éxo_24:3haremos...las palabras que J ha dichoH3068
+- Éxo_24:4y Moisés escribió...las palabras de JH3068
+- Éxo_24:5y becerros como sacrificios de paz a JH3068
+- Éxo_24:7haremos todas las cosas que J ha dichoH3068
+- Éxo_24:8la sangre del pacto que J ha hecho conH3068
+- Éxo_24:12J dijo a Moisés: Sube a mí al monte, yH3068
+- Éxo_24:16la gloria de J reposó sobre el monteH3068
+- Éxo_24:17apariencia de la gloria de J era comoH3068
+- Éxo_27:21que ardan delante de J desde la tardeH3068
+- Éxo_28:12,29llevará los nombres...delante de JH3068
+- Éxo_28:30sobre...Aarón cuando entre delante de JH3068
+- Éxo_28:30llevará...el juicio de los...delante de JH3068
+- Éxo_28:35él entre en el santuario delante de JH3068
+- Éxo_28:36y grabarás en ella como...SANTIDAD A JH3068
+- Éxo_28:38para que obtengan gracia delante de JH3068
+- Éxo_29:11matarás el becerro delante de J, a laH3068
+- Éxo_29:18es holocausto de olor grato para J, esH3068
+- Éxo_29:23los panes sin levadura presentado a JH3068
+- Éxo_29:24los mecerás como ofrenda...delante de JH3068
+- Éxo_29:25delante de J...Es ofrenda encendida a JH3068
+- Éxo_29:26lo mecerás por ofrenda...delante de JH3068
+- Éxo_29:28porción de ellos elevada en ofrenda a JH3068
+- Éxo_29:41en olor grato; ofrenda encendida a JH3068
+- Éxo_29:42puerta del tabernáculo...delante de JH3068
+- Éxo_29:46conocerán que yo soy J...Yo J su DiosH3068
+- Éxo_30:8rito perpetuo delante de J por vuestrasH3068
+- Éxo_30:10hará Aarón expiación...muy santo a JH3068
+- Éxo_30:12uno dará a J el rescate de su personaH3068
+- Éxo_30:13mitad de un siclo será la ofrenda a JH3068
+- Éxo_30:14que sea contado...dará la ofrenda a JH3068
+- Éxo_30:15la ofrenda a J para hacer expiación porH3068
+- Éxo_30:16memorial a los...de Israel delante de JH3068
+- Éxo_30:20para quemar la ofrenda encendida para JH3068
+- Éxo_30:34dijo además J a Moisés: Toma especiasH3068
+- Éxo_30:37incienso...te será cosa sagrada para JH3068
+- Éxo_31:13sepáis que yo soy J que os santificoH3068
+- Éxo_31:15mas...es día de reposo consagrado a JH3068
+- Éxo_31:17en seis días hizo J los cielos y laH3068
+- Éxo_32:5Aarón...dijo: Mañana será fiesta para JH3068
+- Éxo_32:7J dijo a Moisés...desciende, porque tuH3068
+- Éxo_32:9dijo, J a Moisés: Yo he visto a esteH3068
+- Éxo_32:11Moisés oró en presencia de J su DiosH3068
+- Éxo_32:11oh J, ¿por qué se encenderá tu furorH3068
+- Éxo_32:14J se arrepintió del mal que dijo queH3068
+- Éxo_32:26¿quién está por J? Júntese conmigoH3068
+- Éxo_32:27ha dicho J...Poned cada uno su espadaH3068
+- Éxo_32:29os habéis consagrado a J, pues cada unoH3068
+- Éxo_32:30yo subiré ahora a J; quizá le aplacaréH3068
+- Éxo_32:31volvió Moisés a J, y dijo: Te ruegoH3068
+- Éxo_32:33y J respondió a Moisés: Al que pecareH3068
+- Éxo_32:35J hirió al pueblo, porque habían hechoH3068
+- Éxo_33:1J dijo a Moisés: Anda, sube de aquí, tuH3068
+- Éxo_33:1J había dicho a Moisés: Di a los hijosH3068
+- Éxo_33:7y cualquiera que buscaba a J, salía alH3068
+- Éxo_33:9nube descendía...y J hablaba con MoisésH3068
+- Éxo_33:11hablaba J a Moisés cara a cara, comoH3068
+- Éxo_33:12dijo Moisés a J: Mira, tú me dices aH3068
+- Éxo_33:17y J dijo a Moisés: También haré estoH3068
+- Éxo_33:19proclamaré el nombre de J delante deH3068
+- Éxo_33:21dijo aún J: He aquí un lugar junto aH3068
+- Éxo_34:1J dijo a Moisés: Alísate dos tablas deH3068
+- Éxo_34:4subió al monte Sinaí, como le mandó JH3068
+- Éxo_34:5J...con él, proclamando el nombre de JH3068
+- Éxo_34:6pasando J por delante de él, proclamóH3068
+- Éxo_34:6¡J! ¡J! fuerte, misericordioso...tardoH3068
+- Éxo_34:10verá todo el pueblo en...la obra de JH3068
+- Éxo_34:14J, cuyo nombre es Celoso, Dios celosoH3068
+- Éxo_34:23delante de J el Señor, Dios de IsraelH3068
+- Éxo_34:24delante de J tu Dios tres veces en elH3068
+- Éxo_34:26de los primeros frutos...a la casa de JH3068
+- Éxo_34:27y J dijo a Moisés: Escribe tú estasH3068
+- Éxo_34:28estuvo allí con J 40 días y 40 nochesH3068
+- Éxo_34:32que J le había dicho en el monte SinaíH3068
+- Éxo_34:34venía Moisés delante de J para hablarH3068
+- Éxo_35:1estas son las cosas que J ha mandadoH3068
+- Éxo_35:2os será santo, día de reposo para JH3068
+- Éxo_35:4habló Moisés a...es lo que J ha mandadoH3068
+- Éxo_35:5tomad...ofrenda para J...la traerá a JH3068
+- Éxo_35:10hará todas las cosas que J ha mandadoH3068
+- Éxo_35:21vino todo varón...con ofrenda a J paraH3068
+- Éxo_35:22todos presentaban ofrenda de oro a JH3068
+- Éxo_35:24el que ofrecía...traía a J la ofrendaH3068
+- Éxo_35:29para toda la obra, que J había mandadoH3068
+- Éxo_35:29todos...trajeron ofrenda voluntaria a JH3068
+- Éxo_35:30J ha nombrado a Bezaleel hijo de UriH3068
+- Éxo_36:1todo hombre...a quien J dio sabiduría eH3068
+- Éxo_36:1harán todas las cosas que ha mandado JH3068
+- Éxo_36:2en cuyo corazón había puesto J sabiduríaH3068
+- Éxo_36:5necesita para la obra que J ha mandadoH3068
+- Éxo_38:22hizo, las cosas que J mandó a MoisésH3068
+- Éxo_39:1,5,7,21,26,29,31,32como J lo había mandado a MoisésH3068
+- Éxo_39:30y escribieron en ella...SANTIDAD A JH3068
+- Éxo_39:42las cosas que J había mandado a MoisésH3068
+- Éxo_39:43la habían hecho como J había mandadoH3068
+- Éxo_40:16y Moisés hizo...todo lo que J le mandóH3068
+- Éxo_40:19,21,23,25,27,29,32como J había mandado a MoisésH3068
+- Éxo_40:34y la gloria de J llenó el tabernáculoH3068
+- Éxo_40:35tabernáculo...la gloria de J lo llenabaH3068
+- Éxo_40:38la nube de J estaba de día sobre elH3068
+- Lev_1:1llamó J a Moisés, y habló con él desdeH3068
+- Lev_1:2alguno de...vosotros ofrece ofrenda a JH3068
+- Lev_1:3ofrecerá a la puerta del...delante de JH3068
+- Lev_1:5degollará el becerro en...presencia de JH3068
+- Lev_1:9ofrenda encendida de olor grato para JH3068
+- Lev_1:11degollará al lado norte...delante de JH3068
+- Lev_1:13,17ofrenda encendida de olor grato...JH3068
+- Lev_1:14la ofrenda para J fuere holocausto deH3068
+- Lev_2:1persona ofreciere oblación a J...ofrendaH3068
+- Lev_2:2ofrenda encendida es, de olor grato a JH3068
+- Lev_2:3de las ofrendas que se queman para JH3068
+- Lev_2:8traerás a J la ofrenda que se hará deH3068
+- Lev_2:9ofrenda encendida de olor grato a JH3068
+- Lev_2:10de las ofrendas que se queman para JH3068
+- Lev_2:11ninguna ofrenda que ofreciereis a J seráH3068
+- Lev_2:11ni de...se ha de quemar ofrenda para JH3068
+- Lev_2:12ofrenda de primicias las ofreceréis a JH3068
+- Lev_2:14si ofrecieres a J ofrenda de primiciasH3068
+- Lev_2:16hará arder...es ofrenda encendida para JH3068
+- Lev_3:1paz...sin defecto la ofrecerá delante de JH3068
+- Lev_3:3ofrecerá del...como ofrenda encendida a JH3068
+- Lev_3:5fuego; es ofrenda de olor grato para JH3068
+- Lev_3:6su ofrenda para sacrificio de paz a JH3068
+- Lev_3:7si...cordero...lo ofrecerá delante de JH3068
+- Lev_3:9ofrecerá por ofrenda...a J la grosura, laH3068
+- Lev_3:11vianda es de ofrenda encendida para JH3068
+- Lev_3:12fuere cabra...la ofrecerá delante de JH3068
+- Lev_3:14ofrecerá de...su ofrenda encendida a JH3068
+- Lev_3:16en olor grato a J...la grosura es de JH3068
+- Lev_4:2pecare por yerro en...mandamientos de JH3068
+- Lev_4:3ofrecerá a J, por su pecado que habráH3068
+- Lev_4:4traerá el becerro...delante de J, y pondráH3068
+- Lev_4:4el becerro, y lo degollará delante de JH3068
+- Lev_4:6aquella sangre siete veces delante de JH3068
+- Lev_4:7del altar del incienso...delante de JH3068
+- Lev_4:13,22,27contra...los mandamientos de JH3068
+- Lev_4:15manos sobre la cabeza del...delante de JH3068
+- Lev_4:15en presencia de J degollarán...becerroH3068
+- Lev_4:17rociará siete veces delante de J haciaH3068
+- Lev_4:18altar...delante de J en el tabernáculoH3068
+- Lev_4:24degollará...delante de J; es expiaciónH3068
+- Lev_4:31arder sobre el altar en olor grato a JH3068
+- Lev_4:35arder...sobre la ofrenda encendida a JH3068
+- Lev_5:6traerá a J por su pecado...una cordera oH3068
+- Lev_5:7traerá a J...dos tórtolas o dos palominosH3068
+- Lev_5:12sobre las ofrendas encendidas a J; esH3068
+- Lev_5:15pecare...yerro en las cosas santas de JH3068
+- Lev_5:15traerá...a J un carnero sin defecto deH3068
+- Lev_5:17que por mandamiento de J no se han deH3068
+- Lev_5:19es infracción, y...delinquió contra JH3068
+- Lev_6:2pecare e hiciere prevaricación contra JH3068
+- Lev_6:6traerá a J un carnero sin defecto de losH3068
+- Lev_6:7el...hará expiación por él delante de JH3068
+- Lev_6:14ofrecerán...delante de J ante el altarH3068
+- Lev_6:15hará arder...memorial en olor grato a JH3068
+- Lev_6:18tocante a...ofrendas encendidas para JH3068
+- Lev_6:20ofrenda...que ofrecerán a J el día queH3068
+- Lev_6:21la ofrenda ofrecerás en olor grato a JH3068
+- Lev_6:22es estatuto perpetuo de J...será quemadaH3068
+- Lev_6:25degollada la ofrenda por...delante de JH3068
+- Lev_7:5hará arder sobre...ofrenda encendida a JH3068
+- Lev_7:11sacrificio de paz que se ofrecerá a JH3068
+- Lev_7:14parte por ofrenda elevada a J, y seráH3068
+- Lev_7:20,21sacrificio de paz, el cual es de JH3068
+- Lev_7:25animal, del cual se ofrece a J ofrendaH3068
+- Lev_7:29el que ofreciere sacrificio de paz a JH3068
+- Lev_7:29su ofrenda del sacrificio de paz ante JH3068
+- Lev_7:30ofrendas que se han de quemar ante JH3068
+- Lev_7:30sea mecido como sacrificio...delante de JH3068
+- Lev_7:35porción de Aarón...de las ofrendas...a JH3068
+- Lev_7:35los consagró para ser sacerdotes de JH3068
+- Lev_7:36la cual mandó J que les diesen, desdeH3068
+- Lev_7:38la cual mandó J a Moisés en el monte deH3068
+- Lev_7:38mandó...que ofreciesen sus ofrendas a JH3068
+- Lev_8:4Moisés como J le mandó, y se reunió laH3068
+- Lev_8:5dijo...Esto es lo que J ha mandado hacerH3068
+- Lev_8:9,13,17,29como J había mandado a MoisésH3068
+- Lev_8:21grato, ofrenda encendida para J, como JH3068
+- Lev_8:26del canastillo...que estaba delante de JH3068
+- Lev_8:27hizo mecerlo como ofrenda...delante de JH3068
+- Lev_8:28consagraciones...ofrenda encendida a JH3068
+- Lev_8:29lo meció, ofrenda mecida delante de JH3068
+- Lev_8:34ha hecho, mandó hacer J para expiarosH3068
+- Lev_8:35guardaréis la ordenanza delante de JH3068
+- Lev_8:36cosas que mandó J por medio de MoisésH3068
+- Lev_9:2de la vacada...y ofrécelos delante de JH3068
+- Lev_9:4un buey y un...que inmoléis delante de JH3068
+- Lev_9:4ofrenda...J se aparecerá hoy a vosotrosH3068
+- Lev_9:5toda la congregación...puso delante de JH3068
+- Lev_9:6dijo: Esto es lo que mandó J; hacedlo, yH3068
+- Lev_9:6hacedlo, y la gloria de J...os apareceráH3068
+- Lev_9:7haz la reconciliación...como ha mandado JH3068
+- Lev_9:10,21como J lo había mandado a MoisésH3068
+- Lev_9:21Aarón como ofrenda mecida delante de JH3068
+- Lev_9:23y la gloria de J se apareció a todo elH3068
+- Lev_9:24salió fuego de delante de J, y consumióH3068
+- Lev_10:1ofrecieron delante de J fuego extrañoH3068
+- Lev_10:2salió fuego de delante de J y los quemóH3068
+- Lev_10:2y los quemó, y murieron delante de JH3068
+- Lev_10:3esto es lo que habló J, diciendo: En losH3068
+- Lev_10:6sí lamentarán por el incendio que J haH3068
+- Lev_10:7el aceite de la unción de J está sobreH3068
+- Lev_10:8y J habló a Aarón, diciendoH3068
+- Lev_10:11enseñar...estatutos que J les ha dichoH3068
+- Lev_10:12queda de las ofrendas encendidas a JH3068
+- Lev_10:13esto es para ti...de las ofrendas...a JH3068
+- Lev_10:15el pecho...ofrenda mecida delante de JH3068
+- Lev_10:15tuyo y de tus hijos...J lo ha mandadoH3068
+- Lev_10:17para que sean reconciliados delante de JH3068
+- Lev_10:19han ofrecido...holocausto delante de JH3068
+- Lev_10:19yo comido hoy...¿sería esto grato a J?[[H3068]]
+- Lev_11:44yo soy J vuestro Dios...seréis santosH3068
+- Lev_11:45porque yo soy J, que os hago subirH3068
+- Lev_12:7y él los ofrecerá delante de J, y haráH3068
+- Lev_14:11presentará delante de J al que se ha deH3068
+- Lev_14:12y lo mecerá como ofrenda...delante de JH3068
+- Lev_14:16esparcirá del aceite con...delante de JH3068
+- Lev_14:18hará...expiación por él delante de JH3068
+- Lev_14:23estas cosas al sacerdote...delante de JH3068
+- Lev_14:24mecerá el...ofrenda mecida delante de JH3068
+- Lev_14:27rociará del...siete veces delante de JH3068
+- Lev_14:29la cabeza...reconciliarlo delante de JH3068
+- Lev_14:31el que se ha de purificar, delante de JH3068
+- Lev_15:14vendrá delante de J a la puerta delH3068
+- Lev_15:15le purificará de su flujo delante de JH3068
+- Lev_15:30la purificará...delante de J del flujoH3068
+- Lev_16:1habló J a Moisés después de la muerteH3068
+- Lev_16:1se acercaron delante de J, y murieronH3068
+- Lev_16:2J dijo a Moisés: Di a Aarón tu hermanoH3068
+- Lev_16:7tomará...y los presentará delante de JH3068
+- Lev_16:8suerte por J, y otra suerte por AzazelH3068
+- Lev_16:9sobre el cual cayere la suerte por JH3068
+- Lev_16:10lo presentará vivo delante de J paraH3068
+- Lev_16:12fuego del altar de delante de J, y susH3068
+- Lev_16:13pondrá el perfume sobre...delante de JH3068
+- Lev_16:18saldrá al altar que está delante de JH3068
+- Lev_16:30seréis limpios...pecados delante de JH3068
+- Lev_16:34y Moisés lo hizo como J le mandóH3068
+- Lev_17:2y diles: Esto es lo que ha mandado JH3068
+- Lev_17:4ofrenda a J delante del tabernáculo de JH3068
+- Lev_17:5para que los traigan a J a la puerta delH3068
+- Lev_17:5sacrifiquen ellos sacrificios de paz a JH3068
+- Lev_17:6esparcirá la sangre sobre el altar de JH3068
+- Lev_17:6y quemará la grosura en olor grato a JH3068
+- Lev_17:9y no lo trajere a la...para hacerlo a JH3068
+- Lev_18:2habla...y diles: Yo soy J vuestro DiosH3068
+- Lev_18:4estatutos guardaréis...Yo J vuestro DiosH3068
+- Lev_18:5cuales haciendo...vivirá en ellos. Yo JH3068
+- Lev_18:6llegue a parienta próxima alguna...Yo JH3068
+- Lev_18:21no contamines así el nombre de...Yo JH3068
+- Lev_18:30no os contaminéis en ellas. Yo J...DiosH3068
+- Lev_19:2santos seréis, porque santo soy yo JH3068
+- Lev_19:3y mis días de reposo guardaréis. Yo JH3068
+- Lev_19:4ni haréis...dioses de...Yo J vuestro DiosH3068
+- Lev_19:5cuando ofreciereis...ofrenda de paz a JH3068
+- Lev_19:8por cuanto profanó lo santo de J; y laH3068
+- Lev_19:10para el pobre...lo dejarás. Yo J...DiosH3068
+- Lev_19:12no juraréis falsamente por mi...Yo JH3068
+- Lev_19:14sino que tendrás temor de tu Dios. Yo JH3068
+- Lev_19:16no atentarás contra la vida de...Yo JH3068
+- Lev_19:18amarás a tu prójimo como a ti...Yo JH3068
+- Lev_19:21él traerá a J...un carnero en expiaciónH3068
+- Lev_19:22lo reconciliará...delante de J, por suH3068
+- Lev_19:24fruto será consagrado en alabanzas a JH3068
+- Lev_19:25comeréis el fruto...Yo J vuestro DiosH3068
+- Lev_19:28ni imprimiréis en...señal alguna. Yo JH3068
+- Lev_19:30mis días de reposo guardaréis...Yo JH3068
+- Lev_19:31no los consultéis...Yo J vuestro DiosH3068
+- Lev_19:32canas...y de tu Dios tendrás temor. Yo JH3068
+- Lev_19:34al extranjero...lo amarás como a, Yo JH3068
+- Lev_19:36yo J vuestro Dios, que os saqué de laH3068
+- Lev_19:37guardad, pues...ponedlos por obra. Yo JH3068
+- Lev_20:7sed santos, porque yo J soy vuestro DiosH3068
+- Lev_20:8mis estatutos...Yo J que os santificoH3068
+- Lev_20:24J...que os he apartado de los pueblosH3068
+- Lev_20:26yo J soy santo, y os he apartado de losH3068
+- Lev_21:1J dijo a Moisés: Habla a los sacerdotesH3068
+- Lev_21:6ofrendas encendidas para J y el pan deH3068
+- Lev_21:8porque santo soy yo J que os santificoH3068
+- Lev_21:12la consagración...está sobre él. Yo JH3068
+- Lev_21:15porque yo J soy el que los santificoH3068
+- Lev_21:21ofrecer las ofrendas encendidas para JH3068
+- Lev_21:23porque yo J soy el que los santificoH3068
+- Lev_22:2y no profanen mi santo nombre. Yo JH3068
+- Lev_22:3que los hijos de Israel consagran a JH3068
+- Lev_22:3sí, será cortado de mi presencia. Yo JH3068
+- Lev_22:8no comerá, contaminándose en ello. Yo JH3068
+- Lev_22:9guarden, pues...Yo J que los santificoH3068
+- Lev_22:15las cosas...las cuales apartan para JH3068
+- Lev_22:16porque yo J soy el que los santificoH3068
+- Lev_22:18ofrenda...ofrecidas en holocausto a JH3068
+- Lev_22:21en ofrenda de paz a J para cumplir unH3068
+- Lev_22:22no ofreceréis éstos a J, ni de ellosH3068
+- Lev_22:22ni de ellos pondréis...el altar de JH3068
+- Lev_22:24no ofreceréis a J...heridos...o cortadosH3068
+- Lev_22:27acepto para...sacrificio encendido a JH3068
+- Lev_22:29sacrificio de acción de gracias a J, loH3068
+- Lev_22:30no dejaréis de él para otro día: Yo JH3068
+- Lev_22:31guardad, pues, mis mandamientos...Yo JH3068
+- Lev_22:32no profanéis mi...Yo J que os santificoH3068
+- Lev_22:33os saqué...para ser vuestro Dios. Yo JH3068
+- Lev_23:2las fiestas solemnes de J...serán estasH3068
+- Lev_23:3día de reposo es de J en dondequiera queH3068
+- Lev_23:4estas son las fiestas solemnes de J, lasH3068
+- Lev_23:5entre las dos tardes, pascua es de JH3068
+- Lev_23:6es la fiesta solemne de los panes...a JH3068
+- Lev_23:8ofreceréis a J 7 días ofrenda encendidaH3068
+- Lev_23:11mecerá la gavilla delante de J, paraH3068
+- Lev_23:12un cordero de un año...en holocausto a JH3068
+- Lev_23:13su ofrenda será a J en olor gratísimoH3068
+- Lev_23:16entonces ofreceréis el nuevo grano a JH3068
+- Lev_23:17panes...cocidos...como primicias para JH3068
+- Lev_23:18serán holocausto a J, con su ofrendaH3068
+- Lev_23:18sus libaciones...de olor grato para JH3068
+- Lev_23:20como ofrenda mecida delante de J, conH3068
+- Lev_23:20cosa sagrada a J para el sacerdoteH3068
+- Lev_23:22para el pobre y para...la dejarás. Yo JH3068
+- Lev_23:25,27ofreceréis ofrenda encendida a JH3068
+- Lev_23:28día...para reconciliaros delante de JH3068
+- Lev_23:34fiesta solemne de los tabernáculos a JH3068
+- Lev_23:36ofreceréis ofrenda encendida a J; esH3068
+- Lev_23:37estas son las fiestas solemnes de JH3068
+- Lev_23:37para ofrecer ofrenda encendida a JH3068
+- Lev_23:38además de los días de reposo de J, deH3068
+- Lev_23:38voluntarias que acostumbráis dar a JH3068
+- Lev_23:39haréis fiesta a J por siete días; elH3068
+- Lev_23:40y os regocijaréis delante de J...DiosH3068
+- Lev_23:41y le haréis fiesta a J por siete díasH3068
+- Lev_23:43cuando los saqué de...Yo J vuestro DiosH3068
+- Lev_23:44habló...sobre las fiestas solemnes de JH3068
+- Lev_24:3desde la tarde hasta la...delante de JH3068
+- Lev_24:4pondrá siempre...lámparas delante de JH3068
+- Lev_24:6dos hileras...mesa limpia delante de JH3068
+- Lev_24:7incienso puro, y...ofrenda encendida a JH3068
+- Lev_24:8día de reposo lo...en orden delante de JH3068
+- Lev_24:9lo comerán...las ofrendas encendidas a JH3068
+- Lev_24:12les fuese declarado por palabra de JH3068
+- Lev_24:16el que blasfemare el nombre de J, haH3068
+- Lev_24:22un mismo estatuto tendréis...yo soy JH3068
+- Lev_24:23hicieron según J había mandado a MoisésH3068
+- Lev_25:2doy, la tierra guardará reposo para JH3068
+- Lev_25:4la tierra tendrá descanso, reposo para JH3068
+- Lev_25:17temed a vuestro Dios; porque yo soy JH3068
+- Lev_25:38yo J...Dios, que os saqué de la tierraH3068
+- Lev_25:55a los cuales saqué...Yo J vuestro DiosH3068
+- Lev_26:1no haréis...ídolos...soy J vuestro DiosH3068
+- Lev_26:2tened en reverencia mi santuario...Yo JH3068
+- Lev_26:13yo J...Dios, que os saqué de la tierraH3068
+- Lev_26:44yo no los desecharé...yo J soy su DiosH3068
+- Lev_26:45los saqué de...para ser su Dios. Yo JH3068
+- Lev_26:46estableció J entre sí y los...de IsraelH3068
+- Lev_27:2alguno hiciere especial voto a J, segúnH3068
+- Lev_27:9animal de...que se ofrece ofrenda a JH3068
+- Lev_27:9todo lo que...se diere a J será santoH3068
+- Lev_27:11animal...que no se ofrece ofrenda a JH3068
+- Lev_27:14dedicare su casa consagrándola a J, laH3068
+- Lev_27:16si alguno dedicare de la tierra...a JH3068
+- Lev_27:21sino que...la tierra será santa para JH3068
+- Lev_27:22si dedicare alguno a J la tierra queH3068
+- Lev_27:23dará tu precio...cosa consagrada a JH3068
+- Lev_27:26por la primogenitura es de J, nadie loH3068
+- Lev_27:26lo dedicará; sea buey u oveja, de J esH3068
+- Lev_27:28cosa...que alguno hubiere dedicado a JH3068
+- Lev_27:28consagrado será cosa santísima para JH3068
+- Lev_27:30diezmo...de J es; es cosa dedicada a JH3068
+- Lev_27:32y todo...el diezmo será consagrado a JH3068
+- Lev_27:34son los mandamientos que ordenó J aH3068
+- Núm_1:19J lo había mandado a Moisés, los contóH3068
+- Núm_1:54hicieron...las cosas que mandó J a MoisésH3068
+- Núm_2:33no fueron contados...como J lo mandóH3068
+- Núm_2:34hicieron...todas las cosas que J mandóH3068
+- Núm_3:4pero Nadab y Abiú murieron delante de JH3068
+- Núm_3:4ofrecieron fuego extraño delante de JH3068
+- Núm_3:13todos los primogénitos...míos serán: Yo JH3068
+- Núm_3:16los contó conforme a la palabra de JH3068
+- Núm_3:39conforme a la palabra de J contaron porH3068
+- Núm_3:40J dijo a Moisés: Cuenta...primogénitosH3068
+- Núm_3:41lugar de todos los primogénitos...Yo JH3068
+- Núm_3:42contó Moisés, como J le mandó, todosH3068
+- Núm_3:45toma los...y los levitas serán míos. Yo JH3068
+- Núm_3:51la palabra de J, según lo que J habíaH3068
+- Núm_4:37,45,49lo mandó J por medio de MoisésH3068
+- Núm_4:41los cuales contaron...por mandato de JH3068
+- Núm_5:4los echaron fuera...como J dijo a MoisésH3068
+- Núm_5:6con que...prevarican contra J y delinquenH3068
+- Núm_5:8se dará la indemnización del agravio a JH3068
+- Núm_5:16ella se acerque se ponga delante de JH3068
+- Núm_5:18estar en pie a la mujer delante de JH3068
+- Núm_5:21J te haga maldición y execración enH3068
+- Núm_5:21haciendo J que tu muslo caiga y que tuH3068
+- Núm_5:25la mecerá delante de J, y la ofreceráH3068
+- Núm_5:30la presentará entonces delante de JH3068
+- Núm_6:2haciendo voto de nazareo...dedicarse a JH3068
+- Núm_6:5cumplidos...días de su apartamiento a JH3068
+- Núm_6:6el tiempo que se aparte para J, no seH3068
+- Núm_6:8todo...su nazareato, será santo para JH3068
+- Núm_6:12consagrará para J los días...nazareatoH3068
+- Núm_6:14y ofrecerá su ofrenda a J, un corderoH3068
+- Núm_6:16el sacerdote lo ofrecerá delante de JH3068
+- Núm_6:17ofrecerá el carnero en ofrenda de...a JH3068
+- Núm_6:20mecerá...ofrenda mecida delante de JH3068
+- Núm_6:21que hiciere voto de su ofrenda a J porH3068
+- Núm_6:24J te bendiga, y te guardeH3068
+- Núm_6:25J haga resplandecer su rostro sobre tiH3068
+- Núm_6:26J alce sobre ti su rostro, y ponga en tiH3068
+- Núm_7:3trajeron sus ofrendas delante de J, seisH3068
+- Núm_7:11J dijo a Moisés: Ofrecerán su ofrendaH3068
+- Núm_8:3encendió...sus lámparas, como J lo mandóH3068
+- Núm_8:4conforme al modelo que J mostró a MoisésH3068
+- Núm_8:10hayas acercado a...levitas delante de JH3068
+- Núm_8:11ofrecerá Aarón los levitas delante de JH3068
+- Núm_8:11levitas...servirán en el ministerio de JH3068
+- Núm_8:12ofrecerás...y el otro en holocausto a JH3068
+- Núm_8:13levitas...los ofrecerás en ofrenda a JH3068
+- Núm_8:20todas las cosas que mandó J a MoisésH3068
+- Núm_8:21los ofreció en ofrenda delante de JH3068
+- Núm_8:22mandó J a Moisés acerca de los levitasH3068
+- Núm_9:5conforme a todas las cosas que mandó JH3068
+- Núm_9:7ofrecer ofrenda a J a su tiempo entre losH3068
+- Núm_9:8oiré lo que ordena J acerca de vosotrosH3068
+- Núm_9:10cualquiera de...celebrará la pascua a JH3068
+- Núm_9:13no ofreció a su tiempo la ofrenda de JH3068
+- Núm_9:14extranjero, y celebrare la pascua a JH3068
+- Núm_9:18al mandato de J los...de Israel partíanH3068
+- Núm_9:18y al mandato de J acampaban; todos losH3068
+- Núm_9:19de Israel guardaban la ordenanza de JH3068
+- Núm_9:20,23de J acampaban, y al...de J partíanH3068
+- Núm_9:23guardando la ordenanza de J como J loH3068
+- Núm_10:9y seréis recordados por J vuestro DiosH3068
+- Núm_10:10serán por memoria...Yo J vuestro DiosH3068
+- Núm_10:13partieron...al mandato de J por medioH3068
+- Núm_10:29al lugar del cual J ha dicho: Yo os loH3068
+- Núm_10:29porque J ha prometido el bien a IsraelH3068
+- Núm_10:32cuando tengamos el bien que J nos haH3068
+- Núm_10:33así partieron del monte de J camino deH3068
+- Núm_10:33el arca del pacto de J fue delante deH3068
+- Núm_10:34y la nube de J iba sobre ellos de díaH3068
+- Núm_10:35levántate, oh J, y sean dispersados tusH3068
+- Núm_10:36vuelve, oh J, a los millares...IsraelH3068
+- Núm_11:1quejó a oídos de J; y lo oyó J, y ardióH3068
+- Núm_11:1ardió...y se encendió en ellos fuego de JH3068
+- Núm_11:2Moisés oró a J, y el fuego se extinguióH3068
+- Núm_11:3porque el fuego de J se encendió en ellosH3068
+- Núm_11:10la ira de J se encendió en gran maneraH3068
+- Núm_11:11dijo Moisés a J: ¿Por qué has hecho malH3068
+- Núm_11:16J dijo a Moisés: Reúneme 70 varones deH3068
+- Núm_11:18habéis llorado en oídos de J, diciendoH3068
+- Núm_11:18J, pues, os dará carne, y comeréisH3068
+- Núm_11:20por cuanto menospreciasteis a J queH3068
+- Núm_11:23entonces J respondió a Moisés: ¿AcasoH3068
+- Núm_11:24salió Moisés y dijo...las palabras de JH3068
+- Núm_11:25J descendió en la nube, y le hablóH3068
+- Núm_11:29ojalá todo el pueblo de J fuese profetaH3068
+- Núm_11:29que J pusiera su espíritu sobre ellosH3068
+- Núm_11:31un viento de J, y trajo codornices delH3068
+- Núm_11:33la ira de J se encendió...e hirió J alH3068
+- Núm_12:2por Moisés ha hablado J?...Y lo oyó JH3068
+- Núm_12:4luego dijo J a Moisés, a Aarón y a MaríaH3068
+- Núm_12:5J descendió en la columna de la nubeH3068
+- Núm_12:6cuando haya entre vosotros profeta de JH3068
+- Núm_12:8hablaré con...y verá la apariencia de JH3068
+- Núm_12:9la ira de J se encendió contra ellosH3068
+- Núm_12:13Moisés clamó a J, diciendo: Te ruegoH3068
+- Núm_12:14respondió J...Pues si su padre hubieraH3068
+- Núm_13:3los envió...conforme a la palabra de JH3068
+- Núm_14:3por qué nos trae J a esta tierra paraH3068
+- Núm_14:8si J se agradare de nosotros, él nosH3068
+- Núm_14:9no seáis rebeldes contra J, ni temáisH3068
+- Núm_14:9y con nosotros está J; no los temáisH3068
+- Núm_14:10pero la gloria de J se mostró en elH3068
+- Núm_14:11J dijo a Moisés: ¿Hasta cuándo me haH3068
+- Núm_14:13Moisés respondió a J: Los oirán luegoH3068
+- Núm_14:14oído que tú, oh J, estabas en medio deH3068
+- Núm_14:14cara a cara aparecías tú, oh J, y queH3068
+- Núm_14:16por cuanto no pudo J meter este puebloH3068
+- Núm_14:18J, tardo para la ira...que perdona laH3068
+- Núm_14:20J dijo: Yo lo he perdonado conforme aH3068
+- Núm_14:28dice J, que según habéis hablado a misH3068
+- Núm_14:35yo J he hablado; así haré a toda estaH3068
+- Núm_14:37mal de...murieron de plaga delante de JH3068
+- Núm_14:40subir al lugar del cual ha hablado JH3068
+- Núm_14:41qué quebrantáis el mandamiento de J?[[H3068]]
+- Núm_14:42no subáis, porque J no está en medioH3068
+- Núm_14:43cuanto os habéis negado a seguir a JH3068
+- Núm_14:43os habéis negado...por eso no estará JH3068
+- Núm_14:44el arca del pacto de J, y Moisés, noH3068
+- Núm_15:3hagáis ofrenda encendida a J, holocaustoH3068
+- Núm_15:3para ofrecer...olor grato a J, de vacasH3068
+- Núm_15:4el que presente su ofrenda a J traeráH3068
+- Núm_15:7de vino...ofrecerás...en olor grato a JH3068
+- Núm_15:8novillo...por especial voto, o de paz a JH3068
+- Núm_15:10,13,14ofrenda encendida de...grato a JH3068
+- Núm_15:15así será el extranjero delante de JH3068
+- Núm_15:19del pan de la...ofreceréis ofrenda a JH3068
+- Núm_15:21de las primicias...daréis a J ofrendaH3068
+- Núm_15:22mandamientos que J ha dicho a MoisésH3068
+- Núm_15:23J os ha mandado...el día que J lo mandóH3068
+- Núm_15:24por holocausto en olor grato a J, conH3068
+- Núm_15:25ellos traerán...ofrenda encendida a JH3068
+- Núm_15:25sus expiaciones delante de J por susH3068
+- Núm_15:28cuando pecare por yerro delante de JH3068
+- Núm_15:30hiciere algo con soberbia...ultraja a JH3068
+- Núm_15:31por cuanto tuvo en poco la palabra de JH3068
+- Núm_15:35J dijo a Moisés...muera aquel hombreH3068
+- Núm_15:36lo apedrearon, y murió, como J mandóH3068
+- Núm_15:39os acordéis de...los mandamientos de JH3068
+- Núm_15:41yo J vuestro Dios, que os saqué...Yo JH3068
+- Núm_16:3son santos, y en medio de ellos está JH3068
+- Núm_16:3levantáis...sobre la congregación de J?[[H3068]]
+- Núm_16:5mañana mostrará J quién es suyo...santoH3068
+- Núm_16:7y poned en ellos incienso delante de JH3068
+- Núm_16:7varón a quien J escogiere, aquel seráH3068
+- Núm_16:9en el servicio del tabernáculo de JH3068
+- Núm_16:11os juntáis contra J; pues Aarón, ¿quéH3068
+- Núm_16:15Moisés se enojó...y dijo a J: No miresH3068
+- Núm_16:16tú y todo...poneos mañana delante de JH3068
+- Núm_16:17acercaos delante de J cada uno con suH3068
+- Núm_16:19entonces la gloria de J apareció a todaH3068
+- Núm_16:28conoceréis que J me ha enviado para queH3068
+- Núm_16:29si como mueren todos...J no me envióH3068
+- Núm_16:30si J hiciere algo nuevo, y la tierraH3068
+- Núm_16:30conoceréis que estos...irritaron a JH3068
+- Núm_16:35también salió fuego de delante de JH3068
+- Núm_16:38ofrecieron con ellos delante de J, sonH3068
+- Núm_16:40ofrecer incienso delante de J, para queH3068
+- Núm_16:40según se lo dijo J por medio de MoisésH3068
+- Núm_16:41habéis dado muerte al pueblo de JH3068
+- Núm_16:42miraron hacia...apareció la gloria de JH3068
+- Núm_16:46furor ha salido de la presencia de JH3068
+- Núm_17:7y Moisés puso las varas delante de JH3068
+- Núm_17:9sacó...todas las varas de delante de JH3068
+- Núm_17:10y J dijo a Moisés: Vuelve la vara deH3068
+- Núm_17:11Moisés como le mandó J, así lo hizoH3068
+- Núm_17:13que viniere al tabernáculo de J, moriráH3068
+- Núm_18:1J dijo a Aarón: Tú y tus hijos, y laH3068
+- Núm_18:6dados a vosotros en don de J, para queH3068
+- Núm_18:8dijo más J a Aarón: He aquí yo te heH3068
+- Núm_18:12las primicias de...que presentarán a JH3068
+- Núm_18:13las primicias...las cuales traerán a jH3068
+- Núm_18:15de toda carne que ofrecerán a J, así deH3068
+- Núm_18:17ofrenda encendida en olor grato a JH3068
+- Núm_18:19que los hijos de Israel ofrecieren a JH3068
+- Núm_18:19pacto de sal perpetuo es delante de JH3068
+- Núm_18:20J dijo a Aarón: De la tierra de ellosH3068
+- Núm_18:24diezmos...que ofrecerán a J en ofrendaH3068
+- Núm_18:26ofrenda...a J el diezmo de los diezmosH3068
+- Núm_18:28ofrenda a J de todos vuestros diezmosH3068
+- Núm_18:28daréis...la ofrenda de J al sacerdoteH3068
+- Núm_18:29ofreceréis toda ofrenda a J; de todoH3068
+- Núm_19:2ordenanza de la ley que J ha prescritoH3068
+- Núm_19:13tocare...el tabernáculo de J contaminóH3068
+- Núm_19:20cuanto contaminó el tabernáculo de JH3068
+- Núm_20:3muerto cuando perecieron...delante de JH3068
+- Núm_20:4venir la congregación de J a...desiertoH3068
+- Núm_20:6y la gloria de J apareció sobre ellosH3068
+- Núm_20:9Moisés tomó la vara de delante de JH3068
+- Núm_20:12J dijo a Moisés y a Aarón: Por cuantoH3068
+- Núm_20:13contendieron los hijos de Israel con JH3068
+- Núm_20:16clamamos a J, el cual oyó nuestra vozH3068
+- Núm_20:27hizo como J le mandó; y subieron alH3068
+- Núm_21:2entonces Israel hizo voto a J, y dijoH3068
+- Núm_21:3J escuchó la voz de Israel, y entregóH3068
+- Núm_21:6y J envió entre el pueblo serpientesH3068
+- Núm_21:7hemos pecado por haber hablado contra JH3068
+- Núm_21:7ruega a J que quite...estas serpientesH3068
+- Núm_21:8y J dijo a Moisés: Hazte una serpienteH3068
+- Núm_21:14dice en el libro de las batallas de JH3068
+- Núm_21:16es el pozo del cual J dijo a MoisésH3068
+- Núm_21:34J dijo a Moisés: No le tengas miedoH3068
+- Núm_22:8yo os daré respuesta según J me hablareH3068
+- Núm_22:13J no me quiere dejar ir con vosotrosH3068
+- Núm_22:18no puedo traspasar la palabra de J miH3068
+- Núm_22:19que yo sepa qué me vuelve a decir JH3068
+- Núm_22:22y el ángel de J se puso en el caminoH3068
+- Núm_22:23el asna vio al ángel de J, que estabaH3068
+- Núm_22:24el ángel de J se puso en una senda deH3068
+- Núm_22:25,27viendo el asna al ángel de J, seH3068
+- Núm_22:26el ángel de J pasó más allá, y se pusoH3068
+- Núm_22:28J abrió la boca al asna, la cual dijoH3068
+- Núm_22:31entonces J abrió los ojos de BalaamH3068
+- Núm_22:31y vio al ángel de J que...en el caminoH3068
+- Núm_22:32el ángel de J le dijo: ¿Por qué hasH3068
+- Núm_22:34Balaam dijo al ángel de J: He pecadoH3068
+- Núm_22:35ángel de J dijo a Balaam: Ve con esosH3068
+- Núm_23:3yo iré; quizá J me vendrá al encuentroH3068
+- Núm_23:5y J puso palabra en la boca de BalaamH3068
+- Núm_23:8¿por qué he de execrar al que J no haH3068
+- Núm_23:12de decir lo que J ponga en mi boca?[[H3068]]
+- Núm_23:16y J salió el encuentro de Balaam, y leH3068
+- Núm_23:17vino...le dijo Balac: ¿Qué ha dicho J?[[H3068]]
+- Núm_23:21J su Dios está con él, y júbilo de reyH3068
+- Núm_23:26lo que J me diga, eso tengo que hacer?[[H3068]]
+- Núm_24:1vio Balaam que parecía bien a J que élH3068
+- Núm_24:6como áloes plantados por J como cedrosH3068
+- Núm_24:11he aquí que J te ha privado de honraH3068
+- Núm_24:13no podré traspasar el dicho de J paraH3068
+- Núm_24:13no...mas lo que hable J, eso diré yo?[[H3068]]
+- Núm_24:16dijo el que oyó los dichos de J, y elH3068
+- Núm_25:3el furor de J se encendió contra IsraelH3068
+- Núm_25:4J dijo a Moisés: Toma a...los príncipesH3068
+- Núm_25:4ahórcalos ante J delante del sol, y elH3068
+- Núm_25:4de la ira de J se apartará de IsraelH3068
+- Núm_26:4contaréis el...como mandó J a Moisés y aH3068
+- Núm_26:9de Coré, cuando se rebelaron contra JH3068
+- Núm_26:61ofrecieron fuego extraño delante de JH3068
+- Núm_26:65J había dicho de ellos: Morirán en elH3068
+- Núm_27:3juntaron contra J en el grupo de CoréH3068
+- Núm_27:5y Moisés llevó su causa delante de JH3068
+- Núm_27:11por estatuto de derecho, como J mandóH3068
+- Núm_27:12J dijo a Moisés: Sube a este monteH3068
+- Núm_27:15entonces respondió Moisés a J, diciendoH3068
+- Núm_27:16ponga J...varón sobre la congregaciónH3068
+- Núm_27:17que la congregación de J no sea comoH3068
+- Núm_27:18J dijo a Moisés: Toma a Josué hijo deH3068
+- Núm_27:21le consultará por...Urim delante de JH3068
+- Núm_27:22y Moisés hizo como J le había mandadoH3068
+- Núm_27:23le dio el cargo, como J había mandadoH3068
+- Núm_28:3esta es la ofrenda...que ofreceréis a JH3068
+- Núm_28:6es holocausto...ofrenda encendida a JH3068
+- Núm_28:7libación de vino superior ante J en elH3068
+- Núm_28:8ofrenda encendida en olor grato a JH3068
+- Núm_28:11ofreceréis en...a J dos becerros de laH3068
+- Núm_28:13holocausto de...ofrenda encendida a JH3068
+- Núm_28:15macho cabrío...se ofrecerá a J, ademásH3068
+- Núm_28:16los catorce días...será la pascua de JH3068
+- Núm_28:19ofrenda encendida...a J, dos becerrosH3068
+- Núm_28:24y ofrenda encendida en olor grato a JH3068
+- Núm_28:26cuando presentéis ofrenda nueva a J enH3068
+- Núm_28:27ofreceréis en...en olor grato a J, dosH3068
+- Núm_29:2holocausto en olor grato a J, un becerroH3068
+- Núm_29:6,36ofrenda encendida a J en olor gratoH3068
+- Núm_29:8,13y ofreceréis en...a J en olor gratoH3068
+- Núm_29:12celebraréis fiesta...a J por siete díasH3068
+- Núm_29:39ofreceréis a J en vuestras fiestasH3068
+- Núm_29:40dijo...todo lo que J le había mandadoH3068
+- Núm_30:1diciendo: Esto es lo que J ha mandadoH3068
+- Núm_30:2hiciere voto a J, o hiciere juramentoH3068
+- Núm_30:3mas la mujer, cuando hiciere voto a JH3068
+- Núm_30:5y J la perdonará, por cuanto su padreH3068
+- Núm_30:8el voto que...será nulo; y J la perdonaráH3068
+- Núm_30:12su marido los anuló, y J la perdonaráH3068
+- Núm_30:16son las ordenanza¡ que J mandó a MoisésH3068
+- Núm_31:3contra Madián y hagan la venganza de JH3068
+- Núm_31:7y pelearon...como J lo mandó a MoisésH3068
+- Núm_31:16causa de que los...prevaricasen contra JH3068
+- Núm_31:16hubo mortandad en la congregación de JH3068
+- Núm_31:21ordenanza...que J ha mandado a MoisésH3068
+- Núm_31:28y apartarás para J el tributo de losH3068
+- Núm_31:29al sacerdote Eleazar la ofrenda de JH3068
+- Núm_31:30tienen la guarda del tabernáculo de JH3068
+- Núm_31:31hicieron Moisés y el...como J mandó aH3068
+- Núm_31:37tributo de las ovejas para J fue 675H3068
+- Núm_31:38de los bueyes...el tributo para J, 72H3068
+- Núm_31:39de los asnos...el tributo para J, 61H3068
+- Núm_31:40y de...el tributo para J, 32 personasH3068
+- Núm_31:41el tributo, para ofrenda elevada a JH3068
+- Núm_31:41dio Moisés...como J lo mandó a MoisésH3068
+- Núm_31:47la guarda del tabernáculo de J, como JH3068
+- Núm_31:47dio...como J lo había mandado a MoisésH3068
+- Núm_31:50hemos ofrecido a J ofrenda, cada unoH3068
+- Núm_31:50hacer expiación por...almas delante de JH3068
+- Núm_31:52el oro...que ofrecieron a J los jefesH3068
+- Núm_31:54por memoria de...de Israel delante de JH3068
+- Núm_32:4tierra que J hirió...es tierra de ganadoH3068
+- Núm_32:7no pasen a la tierra que les ha dado J?[[H3068]]
+- Núm_32:9que no viniesen a la tierra que J lesH3068
+- Núm_32:10ira de J se encendió entonces, y juróH3068
+- Núm_32:12Caleb...que fueron perfectos en pos de JH3068
+- Núm_32:13la ira de J se encendió contra IsraelH3068
+- Núm_32:13generación que...hecho mal delante de JH3068
+- Núm_32:14añadir aún a la ira de J contra IsraelH3068
+- Núm_32:20si os disponéis para ir delante de JH3068
+- Núm_32:21pasáis armados el Jordán delante de JH3068
+- Núm_32:22y sea el país sojuzgado delante de JH3068
+- Núm_32:22y seréis libres de culpa para con JH3068
+- Núm_32:22será vuestra en heredad delante de JH3068
+- Núm_32:23he aquí habréis pecado ante J; y sabedH3068
+- Núm_32:27tus siervos...pasarán delante de J a laH3068
+- Núm_32:29los hijos de Rubén pasan...delante de JH3068
+- Núm_32:31diciendo: Haremos lo que J ha dicho aH3068
+- Núm_32:32pasaremos armados delante de J a laH3068
+- Núm_33:2escribió sus salidas...por mandato de JH3068
+- Núm_33:4enterraban...a los que J había herido deH3068
+- Núm_33:4había hecho J juicios contra sus diosesH3068
+- Núm_33:38subió...Aarón...conforme al dicho de JH3068
+- Núm_34:13es la tierra...que mandó J que diese aH3068
+- Núm_34:29mandó J que hiciesen la repartición deH3068
+- Núm_35:34yo J habito en medio...hijos de IsraelH3068
+- Núm_36:2y dijeron: J mandó a mi señor que porH3068
+- Núm_36:2ha mandado J a...posesión de ZelofehadH3068
+- Núm_36:5Moisés mandó a los...por mandato de JH3068
+- Núm_36:6esto es lo que ha mandado J acerca deH3068
+- Núm_36:10como J mandó...así hicieron las hijasH3068
+- Núm_36:13los estatutos que mandó J por medio deH3068
+- Deu_1:3todas las cosas que J le había mandadoH3068
+- Deu_1:6J...Dios nos habló en Horeb, diciendoH3068
+- Deu_1:8poseed la tierra que J juró a...AbrahamH3068
+- Deu_1:10J vuestro Dios os ha multiplicado, y heH3068
+- Deu_1:11¡J Dios de vuestros padres os haga milH3068
+- Deu_1:19anduvimos...J nuestro Dios nos lo mandóH3068
+- Deu_1:20al monte...el cual J nuestro Dios nos daH3068
+- Deu_1:21J tu Dios te ha entregado la tierraH3068
+- Deu_1:21toma posesión de ella, como J el DiosH3068
+- Deu_1:25es buena la tierra que J...Dios nos daH3068
+- Deu_1:26rebeldes al mandato de J vuestro DiosH3068
+- Deu_1:27porque J nos aborrece, nos ha sacadoH3068
+- Deu_1:30J vuestro Dios...peleará por vosotrosH3068
+- Deu_1:31en el desierto has visto que J...te haH3068
+- Deu_1:32y aun con esto no creísteis a J...DiosH3068
+- Deu_1:34oyó J la voz de vuestras palabras, y seH3068
+- Deu_1:36Caleb...porque ha seguido fielmente a JH3068
+- Deu_1:37contra mí se airó J por vosotros, y meH3068
+- Deu_1:41y me dijisteis: Hemos pecado contra JH3068
+- Deu_1:41conforme a todo lo que J...ha mandadoH3068
+- Deu_1:42J me dijo...No subáis, ni peleéis, puesH3068
+- Deu_1:43antes fuisteis rebeldes al mandato de JH3068
+- Deu_1:45y llorasteis delante de J, pero J noH3068
+- Deu_2:1camino del Mar Rojo, como J me habíaH3068
+- Deu_2:2,17y J me habló, diciendoH3068
+- Deu_2:7J tu Dios te ha bendecido en toda obraH3068
+- Deu_2:7estos cuarenta años J...ha estado contigoH3068
+- Deu_2:9y J me dijo: No molestes a Moab, ni teH3068
+- Deu_2:12hizo Israel en la tierra que les dio JH3068
+- Deu_2:14que se acabó...como J les había juradoH3068
+- Deu_2:15también la mano de J vino sobre ellosH3068
+- Deu_2:21a los cuales J destruyó delante de losH3068
+- Deu_2:22como hizo J con los hijos de Esaú queH3068
+- Deu_2:29que cruce el...a la tierra que nos da JH3068
+- Deu_2:30J tu Dios había endurecido su espírituH3068
+- Deu_2:31y me dijo J: He aquí yo he comenzado aH3068
+- Deu_2:33J nuestro Dios lo entregó delante deH3068
+- Deu_2:36todas las entregó J...en nuestro poderH3068
+- Deu_2:37a lugar alguno que J...había prohibidoH3068
+- Deu_3:2dijo J: No tengas temor de él, porqueH3068
+- Deu_3:3J...entregó también en nuestra mano a OgH3068
+- Deu_3:18J...os ha dado esta tierra por heredadH3068
+- Deu_3:20hasta que J dé reposo a...hermanos, asíH3068
+- Deu_3:20hereden ellos también la tierra que JH3068
+- Deu_3:21lo que J...Dios ha hecho...así hará J aH3068
+- Deu_3:22porque J...es el que pelea por vosotrosH3068
+- Deu_3:23y oré a J en aquel tiempo, diciendoH3068
+- Deu_3:24Señor J, tú has comenzado a mostrar aH3068
+- Deu_3:26J se había enojado contra mí a causa deH3068
+- Deu_3:26me dijo J: Basta, no me hables más deH3068
+- Deu_4:1poseáis la tierra que J el Dios...os daH3068
+- Deu_4:2para que guardéis los mandamientos de JH3068
+- Deu_4:3lo que hizo J con motivo de Baal-peorH3068
+- Deu_4:3que fue en pos de Baal-peor destruyó JH3068
+- Deu_4:4mas vosotros que seguisteis a J...vivosH3068
+- Deu_4:5os he enseñado...como J mi Dios me mandóH3068
+- Deu_4:7dioses tan cercanos a...como lo está JH3068
+- Deu_4:10que estuviste delante de J...J me dijoH3068
+- Deu_4:12habló J...de en medio del fuego; oísteisH3068
+- Deu_4:14mandó J...que os enseñase los estatutosH3068
+- Deu_4:15ninguna figura...el día que J habló conH3068
+- Deu_4:19J tu...ha concedido a todos los pueblosH3068
+- Deu_4:20a vosotros J os tomó, y os ha sacadoH3068
+- Deu_4:21y J se enojó contra mí por causa deH3068
+- Deu_4:21ni entraría en la buena tierra que J tuH3068
+- Deu_4:23no os olvidéis del pacto de J vuestroH3068
+- Deu_4:23imagen de ninguna cosa que J tu Dios teH3068
+- Deu_4:24porque J tu Dios es fuego consumidorH3068
+- Deu_4:25e hiciereis lo malo ante los ojos de JH3068
+- Deu_4:27y J os esparcirá entre los pueblos, yH3068
+- Deu_4:27las naciones a las cuales os llevará JH3068
+- Deu_4:29mas si desde allí buscares a J tu DiosH3068
+- Deu_4:30volvieres a J tu Dios, y oyeres su vozH3068
+- Deu_4:31Dios misericordioso es J tu Dios; no teH3068
+- Deu_4:34como todo lo que hizo con vosotros JH3068
+- Deu_4:35que J es Dios, y no hay otro fuera de élH3068
+- Deu_4:39reflexiona...que J es Dios arriba en elH3068
+- Deu_4:40tus días sobre la tierra que J tu DiosH3068
+- Deu_5:2J nuestro Dios hizo pacto con nosotrosH3068
+- Deu_5:3no con nuestros padres hizo J este pactoH3068
+- Deu_5:4cara a cara habló J con vosotros en elH3068
+- Deu_5:5yo estaba entonces entre J y vosotrosH3068
+- Deu_5:5estaba...para declararos la palabra de JH3068
+- Deu_5:6soy J tu Dios, que te saqué de...EgiptoH3068
+- Deu_5:9porque yo soy J tu Dios, fuerte, celosoH3068
+- Deu_5:11no tomarás el nombre de J tu Dios enH3068
+- Deu_5:11J no dará por inocente al que tome suH3068
+- Deu_5:12guardarás el día...como J...te ha mandadoH3068
+- Deu_5:14el séptimo día es reposo a J tu DiosH3068
+- Deu_5:15que J...te sacó de allá con mano fuerteH3068
+- Deu_5:15J...te ha mandado que guardes el día deH3068
+- Deu_5:16honra a tu padre y...como J...ha mandadoH3068
+- Deu_5:16vaya bien sobre la tierra que J tu DiosH3068
+- Deu_5:22estas palabras habló J a toda vuestraH3068
+- Deu_5:24J...ha mostrado su gloria y su grandezaH3068
+- Deu_5:24hoy hemos visto que J habla al hombreH3068
+- Deu_5:25si oyéremos otra vez la voz de J...DiosH3068
+- Deu_5:27oye todas las cosas que dijere J...DiosH3068
+- Deu_5:27tú nos dirás todo lo que J nuestro DiosH3068
+- Deu_5:28oyó J la voz...y me dijo J: He oído laH3068
+- Deu_5:32que hagáis como J...Dios os ha mandadoH3068
+- Deu_5:33en todo el camino que J...os ha mandadoH3068
+- Deu_6:1decretos que J...mandó que os enseñaseH3068
+- Deu_6:2para que temas a J...guardando todos susH3068
+- Deu_6:3como te ha dicho J el Dios de tus padresH3068
+- Deu_6:4oye, Israel: J nuestro Dios, J uno esH3068
+- Deu_6:5y amarás a J tu Dios de todo tu corazónH3068
+- Deu_6:10cuando J tu Dios te haya introducido enH3068
+- Deu_6:12cuídate de no olvidarte de J...te sacó deH3068
+- Deu_6:13a J tu Dios temerás, y a él...servirásH3068
+- Deu_6:15porque...J tu Dios, en medio de ti estáH3068
+- Deu_6:15no se inflame el furor de J...contra tiH3068
+- Deu_6:16no tentaréis a J vuestro Dios, como loH3068
+- Deu_6:17guardad...los mandamientos de J vuestroH3068
+- Deu_6:18haz lo recto...ante los ojos de J, paraH3068
+- Deu_6:18entres y poseas la buena tierra que JH3068
+- Deu_6:19arroje a tus enemigos...como J ha dichoH3068
+- Deu_6:20significan los...decretos que J...mandó?[[H3068]]
+- Deu_6:21J nos sacó de Egipto con mano poderosaH3068
+- Deu_6:22J hizo señales y...terribles en EgiptoH3068
+- Deu_6:24nos mandó J que cumplamos todos estosH3068
+- Deu_6:24que temamos a J nuestro Dios, para queH3068
+- Deu_6:25mandamientos delante de J nuestro DiosH3068
+- Deu_7:1cuando J tu Dios te haya introducido enH3068
+- Deu_7:2J tu Dios las haya entregado delante deH3068
+- Deu_7:4furor de J se encenderá sobre vosotrosH3068
+- Deu_7:6eres pueblo santo para J...J tu Dios teH3068
+- Deu_7:7no por ser vosotros más que...ha querido JH3068
+- Deu_7:8por cuanto J os amó, y quiso guardar elH3068
+- Deu_7:8os ha sacado J con mano poderosa, y osH3068
+- Deu_7:9conoce...que J tu Dios es Dios, Dios fielH3068
+- Deu_7:12J tu Dios guardará contigo el pacto yH3068
+- Deu_7:15y quitará J de ti toda enfermedad; yH3068
+- Deu_7:16consumirás a...los pueblos que te da JH3068
+- Deu_7:18de lo que hizo J tu Dios con Faraón yH3068
+- Deu_7:19y el brazo...con que J tu Dios te sacóH3068
+- Deu_7:19hará J tu Dios con todos los pueblos deH3068
+- Deu_7:20enviará J tu Dios avispas sobre ellosH3068
+- Deu_7:21no desmayes...J tu Dios está en medio deH3068
+- Deu_7:22y J tu Dios echará a estas naciones deH3068
+- Deu_7:23J tu Dios las entregará delante de tiH3068
+- Deu_7:25oro de ellas...abominación a J tu DiosH3068
+- Deu_8:1tierra que J prometió...a vuestros padresH3068
+- Deu_8:2te acordarás...por donde te ha traído JH3068
+- Deu_8:3que sale de la boca de J vivirá el hombreH3068
+- Deu_8:5como castiga...así J tu Dios te castigaH3068
+- Deu_8:6guardarás...los mandamientos de J tu DiosH3068
+- Deu_8:7porque J...introduce en la buena tierraH3068
+- Deu_8:10bendecirás a J...por la buena tierra queH3068
+- Deu_8:11cuídate de no olvidarte de J tu DiosH3068
+- Deu_8:14y te olvides de J tu Dios, que te sacóH3068
+- Deu_8:18acuérdate de J...él te da el poder paraH3068
+- Deu_8:19si llegares a olvidarte de J tu Dios yH3068
+- Deu_8:20como las naciones que J destruirá...asíH3068
+- Deu_8:20cuanto no habréis atendido a la voz de JH3068
+- Deu_9:3es J tu Dios el que pasa delante de tiH3068
+- Deu_9:3y los destruirás en...como J te ha dichoH3068
+- Deu_9:4J tu Dios los haya echado de delante deH3068
+- Deu_9:4por mi justicia me ha traído J a poseerH3068
+- Deu_9:4,5la impiedad de estas naciones J lasH3068
+- Deu_9:5para confirmar la palabra que J juró aH3068
+- Deu_9:6no es por tu justicia que J...te da estaH3068
+- Deu_9:7no olvides que has provocado la ira de JH3068
+- Deu_9:7desde el día...habéis sido rebeldes a JH3068
+- Deu_9:8provocasteis a ira a J, y se enojó JH3068
+- Deu_9:9tablas del pacto que J hizo con vosotrosH3068
+- Deu_9:10dio J las dos tablas de piedra escritasH3068
+- Deu_9:10todas las palabras que os habló J en elH3068
+- Deu_9:11sucedió...que J me dio las dos tablas deH3068
+- Deu_9:12me dijo J: Levántate, desciende prontoH3068
+- Deu_9:13habló J, diciendo: He observado a eseH3068
+- Deu_9:16habíais pecado contra J vuestro DiosH3068
+- Deu_9:16pronto del camino que J os había mandadoH3068
+- Deu_9:18me postré delante de J como antes, 40H3068
+- Deu_9:18mal ante los ojos de J para enojarloH3068
+- Deu_9:19furor...la ira con que J estaba enojadoH3068
+- Deu_9:19temí...Pero J me escuchó aun esta vezH3068
+- Deu_9:20contra Aarón...se enojó J en gran maneraH3068
+- Deu_9:22en Tabera, en...provocasteis a ira a JH3068
+- Deu_9:23cuando J os envió desde Cades-barneaH3068
+- Deu_9:23rebeldes al mandato de J vuestro DiosH3068
+- Deu_9:24rebeldes habéis sido a J desde el díaH3068
+- Deu_9:25me postré...delante de J...porque J dijoH3068
+- Deu_9:26y oré a J, diciendo: Oh Señor J, noH3068
+- Deu_9:28no pudo J introducirlos en la tierra queH3068
+- Deu_10:1en aquel tiempo J me dijo: Lábrate dosH3068
+- Deu_10:4mandamientos que J os había hablado enH3068
+- Deu_10:4escribió en las tablas...y me las dio JH3068
+- Deu_10:5las tablas...allí están, como J me mandóH3068
+- Deu_10:8aquel tiempo apartó J la tribu de LevíH3068
+- Deu_10:8para que llevase el arca del pacto de JH3068
+- Deu_10:8que estuviese delante de J para servirleH3068
+- Deu_10:9J es su heredad, como J tu Dios le dijoH3068
+- Deu_10:10J...me escuchó...no quiso J destruirteH3068
+- Deu_10:11me dijo J: Levántate, anda, para queH3068
+- Deu_10:12¿qué pide J tu Dios...sino que temas a JH3068
+- Deu_10:12sirvas a J...con todo tu corazón y conH3068
+- Deu_10:13que guardes los mandamientos de J yH3068
+- Deu_10:14he aquí, de J tu Dios son los cielosH3068
+- Deu_10:15de tus padres se agradó J para amarlosH3068
+- Deu_10:17J vuestro Dios es Dios de dioses, yH3068
+- Deu_10:20J tu Dios temerás, a él solo servirásH3068
+- Deu_10:22J te ha hecho como las estrellas delH3068
+- Deu_11:1amarás, pues, a J tu Dios, y guardarásH3068
+- Deu_11:2hijos que no han...visto el castigo de JH3068
+- Deu_11:4las aguas del Mar Rojo...J los destruyóH3068
+- Deu_11:7visto todas las grandes obras que J haH3068
+- Deu_11:9de la cual juró J a vuestros padres, queH3068
+- Deu_11:12tierra de la cual J tu Dios cuidaH3068
+- Deu_11:12están sobre ella los ojos de J tu DiosH3068
+- Deu_11:13amando a J vuestro Dios, y sirviéndoleH3068
+- Deu_11:17se encienda el furor de J...y cierre losH3068
+- Deu_11:17perezcáis pronto...la tierra que os da JH3068
+- Deu_11:21numerosos sobre la tierra que J juró aH3068
+- Deu_11:22si amareis a J vuestro Dios, andandoH3068
+- Deu_11:23J...echará de delante de vosotros aH3068
+- Deu_11:25miedo y temor...pondrá J vuestro DiosH3068
+- Deu_11:27si oyereis los mandamientos de J...DiosH3068
+- Deu_11:28si no oyereis los mandamientos de JH3068
+- Deu_11:29cuando J tu Dios te haya introducidoH3068
+- Deu_11:31para ir a poseer la tierra que os da JH3068
+- Deu_12:1por obra en la tierra que J...te ha dadoH3068
+- Deu_12:4no haréis así a J vuestro DiosH3068
+- Deu_12:5el lugar que J vuestro Dios escogiereH3068
+- Deu_12:7comeréis allí delante de J vuestro DiosH3068
+- Deu_12:7obrar...en la cual J tu Dios te hubiereH3068
+- Deu_12:9a la heredad que os da J vuestro DiosH3068
+- Deu_12:10la tierra que J...Dios os hace heredarH3068
+- Deu_12:11al lugar que J...escogiere para ponerH3068
+- Deu_12:11los votos que hubiereis prometido a JH3068
+- Deu_12:12alegraréis delante de J vuestro DiosH3068
+- Deu_12:14sino que en el lugar que J escogiereH3068
+- Deu_12:15según la bendición que J...te haya dadoH3068
+- Deu_12:18delante de J...en el lugar que J...DiosH3068
+- Deu_12:18te alegrarás delante de J tu Dios deH3068
+- Deu_12:20cuando J tu...ensanchare tu territorioH3068
+- Deu_12:21lejos de ti el lugar que J...escogiereH3068
+- Deu_12:21matar de...ovejas que J te hubiere dadoH3068
+- Deu_12:25hicieres lo recto ante los ojos de JH3068
+- Deu_12:26vendrás...lugar que J hubiere escogidoH3068
+- Deu_12:27ofrecerás...sobre el altar de J tu DiosH3068
+- Deu_12:27será derramada sobre el altar de J tuH3068
+- Deu_12:28haciendo lo bueno...ante...de J tu DiosH3068
+- Deu_12:29J tu Dios haya destruido...las nacionesH3068
+- Deu_12:31no harás así a J tu Dios; porque todaH3068
+- Deu_12:31cosa...que J aborrece, hicieron ellosH3068
+- Deu_13:3J vuestro Dios os está probando, paraH3068
+- Deu_13:3si amáis a J...con todo vuestro corazónH3068
+- Deu_13:4en pos de J vuestro Dios andaréis; a élH3068
+- Deu_13:5por cuanto aconsejó rebelión contra JH3068
+- Deu_13:5camino por el cual J tu Dios te mandóH3068
+- Deu_13:10cuanto procuró apartarte de J tu DiosH3068
+- Deu_13:12tus ciudades que J tu Dios te da paraH3068
+- Deu_13:16todo ello, como holocausto a J tu DiosH3068
+- Deu_13:17que J se aparte del ardor de su iraH3068
+- Deu_13:18cuando obedecieres a la voz de J tuH3068
+- Deu_13:18para hacer lo recto ante los ojos de JH3068
+- Deu_14:1sois de J vuestro Dios; no os sajaréisH3068
+- Deu_14:2porque eres pueblo santo a J tu DiosH3068
+- Deu_14:2J te ha escogido para que le seas unH3068
+- Deu_14:21o véndela a...tú eres pueblo santo a JH3068
+- Deu_14:23comerás delante de J...en el lugar queH3068
+- Deu_14:23para que aprendas a temer a J tu DiosH3068
+- Deu_14:24el lugar que J tu Dios hubiere escogidoH3068
+- Deu_14:24nombre, cuando J tu Dios te bendijereH3068
+- Deu_14:25vendrás al lugar que J...Dios escogiereH3068
+- Deu_14:26comerás allí delante de J tu Dios, y teH3068
+- Deu_14:29que J tu Dios te bendiga en toda obraH3068
+- Deu_15:2porque es pregonada la remisión de JH3068
+- Deu_15:4porque J te bendecirá con abundancia enH3068
+- Deu_15:4en la tierra que J...te da por heredadH3068
+- Deu_15:5escuchares...la voz de J tu Dios, paraH3068
+- Deu_15:6J tu Dios te habrá bendecido, como teH3068
+- Deu_15:7haya...en la tierra que J tu Dios te daH3068
+- Deu_15:9él podrá clamar contra ti a J, y te seráH3068
+- Deu_15:10porque por ello te bendecirá J tu DiosH3068
+- Deu_15:14aquello en que J te hubiere bendecidoH3068
+- Deu_15:15y que J tu Dios te rescató; por tantoH3068
+- Deu_15:18J...te bendecirá en todo cuanto hicieresH3068
+- Deu_15:19consagrarás a J...primogénito macho deH3068
+- Deu_15:20delante de J tu Dios los comerás cadaH3068
+- Deu_15:20comerás...en el lugar que J escogiereH3068
+- Deu_15:21o cojo...no lo sacrificarás a J tu DiosH3068
+- Deu_16:1guardarás el mes de...y harás pascua a JH3068
+- Deu_16:1en el mes de Abib te sacó J...de EgiptoH3068
+- Deu_16:2sacrificarás la pascua a J tu Dios, deH3068
+- Deu_16:2lugar que J escogiere para que habiteH3068
+- Deu_16:5de las ciudades que J tu Dios te daH3068
+- Deu_16:6,15en el lugar que J tu Dios escogiereH3068
+- Deu_16:7,11lugar que J tu Dios hubiere escogidoH3068
+- Deu_16:8el séptimo día será fiesta solemne a JH3068
+- Deu_16:10la fiesta solemne de las semanas a JH3068
+- Deu_16:10según J tu Dios te hubiere bendecidoH3068
+- Deu_16:11te alegrarás delante de J tu Dios, túH3068
+- Deu_16:15celebrarás fiesta solemne a J tu DiosH3068
+- Deu_16:15habrá bendecido J...en todos tus frutosH3068
+- Deu_16:16todo varón tuyo delante de J tu DiosH3068
+- Deu_16:16ninguno se presentará delante de J conH3068
+- Deu_16:17a la bendición que J...te hubiere dadoH3068
+- Deu_16:18tus ciudades que J tu Dios te dará enH3068
+- Deu_16:20heredes la tierra que J tu Dios te daH3068
+- Deu_16:21árbol para Asera cerca del altar de JH3068
+- Deu_16:22ni...estatua, lo cual aborrece J tu DiosH3068
+- Deu_17:1no ofrecerás en sacrificio a J...buey oH3068
+- Deu_17:1haya falta...es abominación a J tu DiosH3068
+- Deu_17:2en...de tus ciudades que J tu Dios te daH3068
+- Deu_17:2que haya hecho mal ante los ojos de JH3068
+- Deu_17:8y recurrirás al lugar que J...escogiereH3068
+- Deu_17:10indiquen los del lugar que J escogiereH3068
+- Deu_17:12ministrar allí delante de J tu DiosH3068
+- Deu_17:14entrado en la tierra que J...te da, yH3068
+- Deu_17:15por rey...al que J tu Dios escogiereH3068
+- Deu_17:16porque J os ha dicho: No volváis nuncaH3068
+- Deu_17:19para que aprenda a temer a J su DiosH3068
+- Deu_18:1de las ofrendas quemadas a J...comeránH3068
+- Deu_18:2J es su heredad, como él les ha dichoH3068
+- Deu_18:5le ha escogido J tu Dios de entre todasH3068
+- Deu_18:6viniere con...al lugar que J escogiereH3068
+- Deu_18:7ministrará en el nombre de J su DiosH3068
+- Deu_18:7levitas...estuvieren allí delante de JH3068
+- Deu_18:9cuando entres a la tierra que J...te daH3068
+- Deu_18:12es abominación para con J cualquieraH3068
+- Deu_18:12por estas abominaciones J tu Dios echaH3068
+- Deu_18:13perfecto serás delante de J tu DiosH3068
+- Deu_18:14a ti no te ha permitido esto J tu DiosH3068
+- Deu_18:15profeta de en...te levantará J tu DiosH3068
+- Deu_18:16lo que pediste a J...en Horeb el día deH3068
+- Deu_18:16no vuelva yo a oír la voz de J mi DiosH3068
+- Deu_18:17J me dijo: Han hablado bien en lo queH3068
+- Deu_18:21¿cómo conoceremos la palabra que J noH3068
+- Deu_18:22si el profeta hablare en nombre de JH3068
+- Deu_18:22y no se...es palabra que J no ha habladoH3068
+- Deu_19:1J tu Dios destruya a las naciones cuyaH3068
+- Deu_19:1cuya tierra J tu Dios te da a ti, y túH3068
+- Deu_19:2tres ciudades en...tierra que J tu DiosH3068
+- Deu_19:3dividirás...tierra que J tu Dios te daráH3068
+- Deu_19:8y si J tu Dios ensanchare tu territorioH3068
+- Deu_19:9que ames a J tu...y andes en sus caminosH3068
+- Deu_19:10medio de la tierra que J tu Dios te daH3068
+- Deu_19:14en la heredad...que J tu Dios te da, noH3068
+- Deu_19:17los dos...se presentarán delante de JH3068
+- Deu_20:1porque J tu Dios está contigo, el cualH3068
+- Deu_20:4porque J...va con vosotros, para pelearH3068
+- Deu_20:13que J tu Dios la entregue en tu manoH3068
+- Deu_20:14tus enemigos, los cuales J...te entregóH3068
+- Deu_20:16de las ciudades...que J tu Dios te daH3068
+- Deu_20:17los destruirás...como J...te ha mandadoH3068
+- Deu_20:18os enseñen a hacer...y pequéis contra JH3068
+- Deu_21:1en la tierra que J tu Dios te da paraH3068
+- Deu_21:5escogió J...bendecir en el nombre de JH3068
+- Deu_21:8perdona a tu pueblo...oh J; y no culpesH3068
+- Deu_21:9hicieres lo que es recto ante los...de JH3068
+- Deu_21:10y J tu Dios los entregare en tu manoH3068
+- Deu_21:23no contaminarás tu tierra que J...te daH3068
+- Deu_22:5porque abominación es a J...que esto haceH3068
+- Deu_23:1no entrará en la congregación de J elH3068
+- Deu_23:2no...bastardo en la congregación de JH3068
+- Deu_23:2,3no entrarán en la congregación de JH3068
+- Deu_23:3no...ni moabita en la congregación de JH3068
+- Deu_23:5mas no quiso J tu Dios oír a BalaamH3068
+- Deu_23:5J...convirtió la maldición...J...te amabaH3068
+- Deu_23:8los hijos...entrarán...congregación de JH3068
+- Deu_23:14J tu...anda en medio de tu campamentoH3068
+- Deu_23:18no traerás la paga de...a la casa de JH3068
+- Deu_23:18abominación es a J...uno como lo otroH3068
+- Deu_23:20para que te bendiga J...en toda obra deH3068
+- Deu_23:21haces voto a J tu Dios, no tardes enH3068
+- Deu_23:21lo demandará J tu Dios de ti, y seríaH3068
+- Deu_23:23cumplirás, conforme lo prometiste a JH3068
+- Deu_24:4es abominación delante de J, y no hasH3068
+- Deu_24:4no...pervertir la tierra que J tu DiosH3068
+- Deu_24:9acuérdate de los que hizo J...a María enH3068
+- Deu_24:13te será justicia delante de J tu DiosH3068
+- Deu_24:15para que no clame contra ti a J, y seaH3068
+- Deu_24:18que de allí te rescató J tu Dios; porH3068
+- Deu_24:19que te bendiga J tu Dios en toda obraH3068
+- Deu_25:15sobre la tierra que J tu Dios te daH3068
+- Deu_25:16abominación es a J tu Dios cualquieraH3068
+- Deu_25:19cuando J...te dé descanso de todos tusH3068
+- Deu_25:19en la tierra que J...te da por heredadH3068
+- Deu_26:1hayas entrado en la tierra que J...te daH3068
+- Deu_26:2que sacares de la tierra que J tu...te daH3068
+- Deu_26:2irás al lugar que J tu Dios escogiereH3068
+- Deu_26:3declaro hoy a J tu Dios, que he entradoH3068
+- Deu_26:3la tierra que juró J a nuestros padresH3068
+- Deu_26:4pondrá delante de¡ altar de J tu DiosH3068
+- Deu_26:5dirás delante de J tu Dios: Un arameoH3068
+- Deu_26:7clamamos a J...y J oyó nuestra voz, yH3068
+- Deu_26:8y J nos sacó de Egipto con mano fuerteH3068
+- Deu_26:10he aquí he traído las primicias...oh JH3068
+- Deu_26:10delante de J...y adorarás delante de JH3068
+- Deu_26:11y te alegrarás en todo el bien que JH3068
+- Deu_26:13dirás delante de J tu Dios: He sacadoH3068
+- Deu_26:14he obedecido a la voz de J mi Dios, heH3068
+- Deu_26:16J tu Dios te manda...que cumplas estosH3068
+- Deu_26:17has declarado...hoy que J es tu DiosH3068
+- Deu_26:18J ha declarado...que tú eres pueblo suyoH3068
+- Deu_26:19que seas un pueblo santo a J tu DiosH3068
+- Deu_27:2pases...a la tierra que J tu Dios te daH3068
+- Deu_27:3entrar en la tierra que J tu Dios te daH3068
+- Deu_27:3como J el Dios de tus padres...ha dichoH3068
+- Deu_27:5edificarás allí un altar a J tu DiosH3068
+- Deu_27:6de piedras...edificarás el altar de JH3068
+- Deu_27:6y ofrecerás sobre él holocausto a J tuH3068
+- Deu_27:7paz...y te alegrarás delante de J tu DiosH3068
+- Deu_27:9hoy has venido a ser pueblo de J tu DiosH3068
+- Deu_27:10oirás, pues, la voz de J tu Dios, yH3068
+- Deu_27:15imagen de fundición, abominación a JH3068
+- Deu_28:1oyeres atentamente la voz de J tu DiosH3068
+- Deu_28:1J...te exaltará sobre todas las nacionesH3068
+- Deu_28:2bendiciones...si oyeres la voz de J tuH3068
+- Deu_28:7J derrotará a tus enemigos que seH3068
+- Deu_28:8J te enviará su bendición sobre tusH3068
+- Deu_28:8te bendecirá en la tierra que J...te daH3068
+- Deu_28:9te confirmará J por pueblo santo suyoH3068
+- Deu_28:9cuando guardares los mandamientos de JH3068
+- Deu_28:10el nombre de J es invocado sobre tiH3068
+- Deu_28:11te hará J sobreabundar en bienes, enH3068
+- Deu_28:11en el país que J juró a tus padres queH3068
+- Deu_28:12te abrirá J su buen tesoro, el cieloH3068
+- Deu_28:13te pondrá J por cabeza, y no por colaH3068
+- Deu_28:13si obedecieres los mandamientos de JH3068
+- Deu_28:15que si no oyeres la voz de J tu DiosH3068
+- Deu_28:20y J enviará contra ti la maldiciónH3068
+- Deu_28:21J traerá sobre ti mortandad, hasta queH3068
+- Deu_28:22J te herirá de tisis, de fiebre, deH3068
+- Deu_28:24dará J por lluvia a tu tierra polvo yH3068
+- Deu_28:25J te entregará derrotado delante deH3068
+- Deu_28:27J te herirá con la úlcera de EgiptoH3068
+- Deu_28:28J te herirá con locura...y turbaciónH3068
+- Deu_28:35te herirá J con maligna pústula en lasH3068
+- Deu_28:36J te llevará a ti, y al rey...a naciónH3068
+- Deu_28:37los pueblos a los cuales te llevará JH3068
+- Deu_28:45no habrás atendido a la voz de J tuH3068
+- Deu_28:47cuanto no serviste a J...con alegría yH3068
+- Deu_28:48servirás...tus enemigos que enviare JH3068
+- Deu_28:49J traerá contra ti una nación de lejosH3068
+- Deu_28:52sitiará...toda la tierra que J tu DiosH3068
+- Deu_28:53la carne de tus hijos...que J...te dioH3068
+- Deu_28:58nombre glorioso y temible: J Tu DiosH3068
+- Deu_28:59J aumentará...tus plagas y las plagasH3068
+- Deu_28:61toda plaga que...J la enviará sobre tiH3068
+- Deu_28:62no obedecisteis a la voz de J tu DiosH3068
+- Deu_28:63así como J se gozaba en haceros bienH3068
+- Deu_28:63gozará J en arruinaros y en destruirosH3068
+- Deu_28:64J te esparcirá por todos los pueblosH3068
+- Deu_28:65pues allí te dará J corazón temerosoH3068
+- Deu_28:68y J te hará volver a Egipto en navesH3068
+- Deu_29:1son las palabras del pacto que J mandóH3068
+- Deu_29:2vosotros habéis visto todo lo que J haH3068
+- Deu_29:4J no os ha dado corazón para entenderH3068
+- Deu_29:6para que supierais que yo soy J...DiosH3068
+- Deu_29:10todos estáis hoy en presencia de JH3068
+- Deu_29:12que entres en el pacto de J tu DiosH3068
+- Deu_29:12que J tu Dios concierta hoy contigoH3068
+- Deu_29:15con los que están aquí...delante de JH3068
+- Deu_29:18varón o...cuyo corazón se aparte...de JH3068
+- Deu_29:20no querrá J perdonarlo...la ira de J yH3068
+- Deu_29:20J borrará su nombre de debajo del cieloH3068
+- Deu_29:21lo apartará J de todas las tribus deH3068
+- Deu_29:22enfermedades de que J la habrá hechoH3068
+- Deu_29:23las cuales J destruyó en su furor y enH3068
+- Deu_29:24¿por qué hizo esto J a esta tierra?[[H3068]]
+- Deu_29:25dejaron el pacto de J el Dios de susH3068
+- Deu_29:27se encendió la ira de J contra estaH3068
+- Deu_29:28J los desarraigó de su tierra con iraH3068
+- Deu_29:29las cosas secretas pertenecen a J...DiosH3068
+- Deu_30:1adonde te hubiere arrojado J tu DiosH3068
+- Deu_30:2te convirtieres a J tu...y obedecieresH3068
+- Deu_30:3entonces J hará volver a tus cautivosH3068
+- Deu_30:3adonde te hubiere esparcido J tu DiosH3068
+- Deu_30:4allí te recogerá J tu Dios, y de allíH3068
+- Deu_30:5y te hará volver J tu Dios a la tierraH3068
+- Deu_30:6circuncidará J tu Dios tu corazón, y elH3068
+- Deu_30:6que ames a J tu Dios con todo tu corazónH3068
+- Deu_30:7pondrá J...todas estas maldiciones sobreH3068
+- Deu_30:8y tú volverás, y oirás la voz de J, yH3068
+- Deu_30:9te hará J tu Dios abundar en toda obraH3068
+- Deu_30:9J volverá a gozarse sobre ti para bienH3068
+- Deu_30:10cuando obedecieres a la voz de J tuH3068
+- Deu_30:10te convirtieres a J tu Dios con todoH3068
+- Deu_30:16yo te mando hoy que ames a J tu DiosH3068
+- Deu_30:16J...te bendiga en la tierra a la cualH3068
+- Deu_30:20amando a J tu...atendiendo a su voz, yH3068
+- Deu_30:20la tierra que juró J a...Isaac y JacobH3068
+- Deu_31:2J me ha dicho: No pasarás este JordánH3068
+- Deu_31:3J tu Dios, él pasa delante de ti; élH3068
+- Deu_31:3Josué...pasará delante...como J ha dichoH3068
+- Deu_31:4y hará J...como hizo con Sehón y con OgH3068
+- Deu_31:5y los entregará J delante de vosotrosH3068
+- Deu_31:6porque J tu Dios es el que va contigoH3068
+- Deu_31:7tú entrarás...a la tierra que juró J aH3068
+- Deu_31:8y J va delante de ti; él...no te dejaráH3068
+- Deu_31:9que llevaban el arca del pacto de J, yH3068
+- Deu_31:11viniere...a presentarse delante de J tuH3068
+- Deu_31:12para que oigan...teman a J vuestro DiosH3068
+- Deu_31:13los hijos...aprendan a temer a J...DiosH3068
+- Deu_31:14J dijo a Moisés...ha acercado el díaH3068
+- Deu_31:15se apareció J en el tabernáculo, enH3068
+- Deu_31:16y J dijo a Moisés: He aquí, tú vas aH3068
+- Deu_31:25que llevaban el arca del pacto de JH3068
+- Deu_31:26libro...ponedlo al lado del arca...de JH3068
+- Deu_31:27que aun viviendo yo...sois rebeldes a JH3068
+- Deu_31:29por haber hecho mal ante los ojos de JH3068
+- Deu_32:3el nombre de J proclamaré: EngrandecedH3068
+- Deu_32:6¿así pagáis a J, pueblo...e ignorante?[[H3068]]
+- Deu_32:9la porción de J es su pueblo; Jacob laH3068
+- Deu_32:12J solo le guió, y con él no hubo diosH3068
+- Deu_32:19y lo vio J, y se encendió en ira porH3068
+- Deu_32:27nuestra mano...hecho todo esto, y no JH3068
+- Deu_32:30su Roca...J no los hubiera entregado?[[H3068]]
+- Deu_32:36J juzgará a su pueblo, y por amor deH3068
+- Deu_32:48y habló J a Moisés aquel mismo díaH3068
+- Deu_33:2dijo: J vino de Sinaí, y de Seir lesH3068
+- Deu_33:7oye, oh J, la voz de Judá, y llévalo aH3068
+- Deu_33:11bendice...J, lo que hicieren, y recibeH3068
+- Deu_33:12dijo: El amado de J habitará confiadoH3068
+- Deu_33:13bendita de J sea tu tierra, con loH3068
+- Deu_33:21con Israel ejecutó los...decretos de JH3068
+- Deu_33:23lleno de la bendición de J, posee elH3068
+- Deu_33:29¿quién como tú, pueblo salvo por JH3068
+- Deu_34:1y le mostró J toda la tierra de GalaadH3068
+- Deu_34:4dijo J: Esta es la tierra de que juréH3068
+- Deu_34:5y murió allí Moisés siervo de J, en laH3068
+- Deu_34:5murió...Moisés...conforme al dicho de JH3068
+- Deu_34:9Israel...hicieron como J mandó a MoisésH3068
+- Deu_34:10como Moisés, a quien haya conocido JH3068
+- Deu_34:11y prodigios que J le envió a hacer enH3068
+- Jos_1:1después de la...de Moisés siervo de JH3068
+- Jos_1:1J habló a Josué hijo de Nun, siervo deH3068
+- Jos_1:9J tu Dios estará contigo en dondequieraH3068
+- Jos_1:11a poseer la tierra que J vuestro Dios osH3068
+- Jos_1:13la palabra que Moisés, siervo de J, osH3068
+- Jos_1:13J vuestro Dios os ha dado reposo, y osH3068
+- Jos_1:15hasta tanto que J haya dado reposo aH3068
+- Jos_1:15también posean la tierra que J...Dios...daH3068
+- Jos_1:15la cual Moisés siervo de J os ha dadoH3068
+- Jos_1:17J tu Dios esté contigo, como estuvo conH3068
+- Jos_2:9sé que J os ha dado esta tierra; porqueH3068
+- Jos_2:10que J hizo secar las aguas del Mar RojoH3068
+- Jos_2:11J vuestro Dios es Dios arriba en losH3068
+- Jos_2:12que me juréis por J, que como he hechoH3068
+- Jos_2:14y cuando J nos haya dado la tierraH3068
+- Jos_2:24J ha entregado toda la tierra en...manosH3068
+- Jos_3:3cuando veáis el arca...de J vuestro DiosH3068
+- Jos_3:5J hará mañana maravillas entre vosotrosH3068
+- Jos_3:7entonces J dijo a Josué: Desde este díaH3068
+- Jos_3:9escuchad las palabras de J vuestro DiosH3068
+- Jos_3:13los sacerdotes que llevan el arca de JH3068
+- Jos_3:17sacerdotes que llevaban el arca...de JH3068
+- Jos_4:1hubo acabado de pasar...J habló a JosuéH3068
+- Jos_4:5dijo...Pasad delante del arca de J...DiosH3068
+- Jos_4:7fueron divididas delante del arca...de JH3068
+- Jos_4:8piedras...como J lo había dicho a JosuéH3068
+- Jos_4:10que se hizo todo lo que J había mandadoH3068
+- Jos_4:11pasó el arca de J, y los sacerdotes, enH3068
+- Jos_4:13hombres armados...pasaron...delante de JH3068
+- Jos_4:14aquel día J engrandeció a Josué a losH3068
+- Jos_4:15luego J habló a Josué, diciendoH3068
+- Jos_4:18los...que llevaban el arca del pacto de JH3068
+- Jos_4:23J...secó las aguas del Jordán delante deH3068
+- Jos_4:23a la manera que J...Dios lo había hechoH3068
+- Jos_4:24conozcan que la mano de J es poderosaH3068
+- Jos_4:24temáis a J vuestro Dios todos los díasH3068
+- Jos_5:1oyeron cómo J había secado las aguas delH3068
+- Jos_5:2J dijo a Josué: Hazte cuchillos afiladosH3068
+- Jos_5:6no obedecieron a...J...J les juró que noH3068
+- Jos_5:6de la cual J había jurado a sus padresH3068
+- Jos_5:9y J dijo...Hoy he quitado de vosotros elH3068
+- Jos_5:14Príncipe del ejército de J he venidoH3068
+- Jos_5:15y el Príncipe...de J respondió a JosuéH3068
+- Jos_6:2J dijo a Josué: Mira, yo he entregadoH3068
+- Jos_6:6,8,13bocinas...delante del arca de JH3068
+- Jos_6:7armados pasarán delante del arca de JH3068
+- Jos_6:8y el arca del pacto de J los seguíaH3068
+- Jos_6:11hizo que el arca de J diera una vueltaH3068
+- Jos_6:12y los sacerdotes tomaron el arca de JH3068
+- Jos_6:13la retaguardia iba tras el arca de JH3068
+- Jos_6:16gritad...J os ha entregado la ciudadH3068
+- Jos_6:17y será la ciudad anatema a J, con todasH3068
+- Jos_6:19sean consagrados a J...en el tesoro de JH3068
+- Jos_6:24pusieron en el tesoro de la casa de JH3068
+- Jos_6:26maldito delante de J el hombre que seH3068
+- Jos_6:27estaba, pues, J con Josué, y su nombreH3068
+- Jos_7:1la ira de J se encendió contra...IsraelH3068
+- Jos_7:6Josué...se postró...delante del arca de JH3068
+- Jos_7:7¡ah, Señor J! ¿Por qué hiciste pasar aH3068
+- Jos_7:10J dijo a Josué: Levántate; ¿por qué teH3068
+- Jos_7:13J el Dios de Israel dice así: AnatemaH3068
+- Jos_7:14(3)la...que J tomare, se acercará por susH3068
+- Jos_7:15por cuanto ha quebrantado el pacto de JH3068
+- Jos_7:19hijo...da gloria a J el Dios de IsraelH3068
+- Jos_7:20yo he pecado contra J el Dios de IsraelH3068
+- Jos_7:23y tomándolo...lo pusieron delante de JH3068
+- Jos_7:25y le dijo Josué...Túrbete J en este díaH3068
+- Jos_7:26J se volvió del ardor de su ira. Y porH3068
+- Jos_8:1J dijo a Josué: No temas ni desmayesH3068
+- Jos_8:7pues J...la entregará en vuestras manosH3068
+- Jos_8:8conforme a la palabra de J; mirad queH3068
+- Jos_8:18J dijo a Josué: Extiende la lanza queH3068
+- Jos_8:27la palabra de J que le había mandado aH3068
+- Jos_8:30edificó un altar a J Dios de Israel enH3068
+- Jos_8:31Moisés siervo de J lo había mandadoH3068
+- Jos_8:31y ofrecieron sobre él holocaustos a JH3068
+- Jos_8:33que llevaban el arca del pacto de J, asíH3068
+- Jos_8:33Moisés, siervo de J, lo había mandadoH3068
+- Jos_9:9lejana, por causa del nombre de J tu DiosH3068
+- Jos_9:14tomaron de las...y no consultaron a JH3068
+- Jos_9:18habían jurado por J el Dios de IsraelH3068
+- Jos_9:19les hemos jurado por J Dios de IsraelH3068
+- Jos_9:24fue dado a entender a...que J tu DiosH3068
+- Jos_9:27a ser leñadores y...para el altar de JH3068
+- Jos_9:27aguadores...en el lugar que J eligieseH3068
+- Jos_10:8y J dijo a Josué: No tengas temor deH3068
+- Jos_10:10J los llenó de consternación delanteH3068
+- Jos_10:11J arrojó desde...cielo grandes piedrasH3068
+- Jos_10:12habló a J el día en que J entregó alH3068
+- Jos_10:14habiendo atendido J a la voz de unH3068
+- Jos_10:14día como aquel...J peleaba por IsraelH3068
+- Jos_10:19J...los ha entregado en vuestra manoH3068
+- Jos_10:25así hará J a todos vuestros enemigosH3068
+- Jos_10:30J la entregó...y a su rey en manos deH3068
+- Jos_10:32J entregó a Laquis en mano de IsraelH3068
+- Jos_10:40lo mató, como J...se lo había mandadoH3068
+- Jos_10:42los tomó...porque J...peleaba por IsraelH3068
+- Jos_11:6mas J dijo a Josué: No tengas temor deH3068
+- Jos_11:8los entregó J en manos de Israel, y losH3068
+- Jos_11:9hizo con ellos como J le había mandadoH3068
+- Jos_11:12Moisés siervo de J lo había mandadoH3068
+- Jos_11:15de la manera que J lo había mandadoH3068
+- Jos_11:15quitar palabra de todo lo que J habíaH3068
+- Jos_11:20vino de J, que endurecía el corazón deH3068
+- Jos_11:20destruirlos...como J lo había mandado aH3068
+- Jos_11:23conforme a todo lo que J había dicho aH3068
+- Jos_12:6a estos derrotaron Moisés siervo de JH3068
+- Jos_12:6Moisés siervo de J dio aquella tierra enH3068
+- Jos_13:1siendo Josué ya viejo...años, J le dijoH3068
+- Jos_13:8dio...según se la dio Moisés siervo de JH3068
+- Jos_13:14los sacrificios de J...son su heredadH3068
+- Jos_13:33J Dios de Israel es la heredad de ellosH3068
+- Jos_14:2por suerte se les dio...J había mandadoH3068
+- Jos_14:5de la manera que J lo había mandado aH3068
+- Jos_14:6le dijo: Tú sabes lo que J dijo a MoisésH3068
+- Jos_14:7cuando Moisés siervo de J me envió deH3068
+- Jos_14:8pero yo cumplí siguiendo a J mi DiosH3068
+- Jos_14:9cuanto cumpliste siguiendo a J mi DiosH3068
+- Jos_14:10bien, J me ha hecho vivir, como él dijoH3068
+- Jos_14:10el tiempo que J habló estas palabrasH3068
+- Jos_14:12este monte, del cual habló J aquel díaH3068
+- Jos_14:12quizá J estará conmigo, y los echaréH3068
+- Jos_14:12anaceos...los echaré, como J ha dichoH3068
+- Jos_14:14por cuanto había seguido...a J Dios deH3068
+- Jos_15:13conforme al mandamiento de J a JosuéH3068
+- Jos_17:4J mandó a Moisés que nos diese heredadH3068
+- Jos_17:4les dio heredad...conforme al dicho de JH3068
+- Jos_17:14que J nos ha bendecido hasta ahora?[[H3068]]
+- Jos_18:3a poseer la tierra que os ha dado J elH3068
+- Jos_18:6yo os echaré suertes aquí delante de JH3068
+- Jos_18:7sacerdocio de J es la heredad de ellosH3068
+- Jos_18:7su heredad...les dio Moisés siervo de JH3068
+- Jos_18:8eche suertes aquí delante de J en SiloH3068
+- Jos_18:10y Josué les echó suertes delante de JH3068
+- Jos_19:50según la palabra de J, le dieron laH3068
+- Jos_19:51heredades que...entregaron...delante de JH3068
+- Jos_20:1habló J a Josué, diciendoH3068
+- Jos_21:2J mandó...que nos fuesen dadas ciudadesH3068
+- Jos_21:3a los levitas, conforme al mandato de JH3068
+- Jos_21:8dieron, pues...como había mandado J porH3068
+- Jos_21:43dio J a Israel toda la tierra que habíaH3068
+- Jos_21:44J les dio reposo alrededor, conforme aH3068
+- Jos_21:44J entregó en sus manos a...sus enemigosH3068
+- Jos_21:45promesas que J había hecho a la casaH3068
+- Jos_22:2todo lo que Moisés siervo de J os mandóH3068
+- Jos_22:3de guardar los mandamientos de J...DiosH3068
+- Jos_22:4J...ha dado reposo a vuestros hermanosH3068
+- Jos_22:4tierra...que Moisés siervo de J os dioH3068
+- Jos_22:5la ley que Moisés siervo de J os ordenóH3068
+- Jos_22:5que améis a J vuestro Dios, y andéis enH3068
+- Jos_22:9conforme al mandato de J por conductoH3068
+- Jos_22:16toda la congregación de J dice asíH3068
+- Jos_22:16¿qué...para apartaros hoy de seguir a JH3068
+- Jos_22:16altar para ser rebeldes contra J?[[H3068]]
+- Jos_22:17la mortandad en la congregación de JH3068
+- Jos_22:18para que...apartéis hoy de seguir a J?[[H3068]]
+- Jos_22:18os rebeláis hoy contra J, y mañanaH3068
+- Jos_22:19pasaos a la tierra de la posesión de JH3068
+- Jos_22:19en la cual está el tabernáculo de JH3068
+- Jos_22:19no os rebeléis contra J, ni os rebeléisH3068
+- Jos_22:19altar además del...de J nuestro DiosH3068
+- Jos_22:22J Dios de los dioses, J Dios de losH3068
+- Jos_22:22si fue...o por prevaricación contra JH3068
+- Jos_22:23altar para volvernos de en pos de JH3068
+- Jos_22:23nos hemos edificado...J nos lo demandeH3068
+- Jos_22:24tenéis vosotros con J Dios de Israel?[[H3068]]
+- Jos_22:25J ha puesto por lindero el Jordán entreH3068
+- Jos_22:25no tenéis vosotros parte en J; y asíH3068
+- Jos_22:25nuestros hijos dejasen de temer a JH3068
+- Jos_22:27de que podemos hacer el servicio de JH3068
+- Jos_22:27digan...vosotros no tenéis parte en JH3068
+- Jos_22:28mirad el símil del altar de J, el cualH3068
+- Jos_22:29acontezca que nos rebelemos contra JH3068
+- Jos_22:29o que nos apartemos hoy de seguir a JH3068
+- Jos_22:29además del altar de J nuestro Dios queH3068
+- Jos_22:31hoy hemos entendido que J está entreH3068
+- Jos_22:31no habéis intentado esta traición...JH3068
+- Jos_22:31librado a...de Israel de la mano de JH3068
+- Jos_22:34porque testimonio es...que J es DiosH3068
+- Jos_23:1después que J diera reposo a Israel deH3068
+- Jos_23:3habéis visto todo lo que J...ha hechoH3068
+- Jos_23:3J...Dios es quien ha peleado por vosotrosH3068
+- Jos_23:5y J...las echará de delante de vosotrosH3068
+- Jos_23:5poseeréis sus...como J...Dios os ha dichoH3068
+- Jos_23:8a J vuestro Dios seguiréis, como habéisH3068
+- Jos_23:9pues ha arrojado J...fuertes nacionesH3068
+- Jos_23:10porque J vuestro Dios es quien peleaH3068
+- Jos_23:11guardad, pues...améis a J vuestro DiosH3068
+- Jos_23:13que J...no arrojará más a estas nacionesH3068
+- Jos_23:13tierra que J vuestro Dios os ha dadoH3068
+- Jos_23:14las buenas palabras que J...había dichoH3068
+- Jos_23:15toda palabra buena que J...había dichoH3068
+- Jos_23:15también traerá J...toda palabra malaH3068
+- Jos_23:15sobre la buena tierra que J...ha dadoH3068
+- Jos_23:16si traspasareis el pacto de J...Dios queH3068
+- Jos_23:16ira de J se encenderá contra vosotrosH3068
+- Jos_24:2dijo Josué...Así dice J, Dios de IsraelH3068
+- Jos_24:7ellos clamaron a J, él puso oscuridadH3068
+- Jos_24:14ahora, pues, temed a J...y servid a JH3068
+- Jos_24:15si mal os parece servir a J, escogeosH3068
+- Jos_24:15y si...pero yo y mi casa serviremos a JH3068
+- Jos_24:16nunca tal...que dejemos a J para servir aH3068
+- Jos_24:17J nuestro Dios es el que nos sacó aH3068
+- Jos_24:18y J arrojó...a todos los pueblos, y alH3068
+- Jos_24:18nosotros, pues, también serviremos a JH3068
+- Jos_24:19no podréis servir a J, porque él esH3068
+- Jos_24:20si dejareis a J y sirviereis a diosesH3068
+- Jos_24:21a Josué: No, sino que a J serviremosH3068
+- Jos_24:22sois testigos...que habéis elegido a JH3068
+- Jos_24:23e inclinad vuestro corazón a J Dios deH3068
+- Jos_24:24J nuestro Dios serviremos, y a su vozH3068
+- Jos_24:26la encina que...junto al santuario de JH3068
+- Jos_24:27esta piedra...ha oído...las palabras que JH3068
+- Jos_24:29murió Josué hijo de Nun, siervo de JH3068
+- Jos_24:31sirvió Israel a J...el tiempo de JosuéH3068
+- Jos_24:31las obras que J había hecho por IsraelH3068
+- Jue_1:1los hijos de Israel consultaron a JH3068
+- Jue_1:2J respondió: Judá subirá; he aquí que yoH3068
+- Jue_1:4J entregó en sus manos al cananeo y alH3068
+- Jue_1:19J estaba con Judá, quien arrojó a losH3068
+- Jue_1:22casa de José subió...J estaba con ellosH3068
+- Jue_2:1el ángel de J subió de Gilgal a BoquimH3068
+- Jue_2:4cuando el ángel de J habló estas palabrasH3068
+- Jue_2:5Boquim...ofrecieron allí sacrificios a JH3068
+- Jue_2:7servido a J todo el tiempo de Josué, yH3068
+- Jue_2:7habían visto...las grandes obras de J, queH3068
+- Jue_2:8pero murió Josué hijo de Nun, siervo de JH3068
+- Jue_2:10otra generación que no conocía a J, niH3068
+- Jue_2:11hicieron lo malo ante los ojos de J, yH3068
+- Jue_2:12dejaron a J el Dios de sus padres, queH3068
+- Jue_2:12tras otros dioses...provocaron a ira a JH3068
+- Jue_2:13y dejaron a J, y adoraron a Baal y aH3068
+- Jue_2:14se encendió contra Israel el furor de JH3068
+- Jue_2:15la mano de J estaba contra ellos paraH3068
+- Jue_2:15J había dicho, y...J se lo había juradoH3068
+- Jue_2:16J levantó jueces que los librasen de losH3068
+- Jue_2:17obedeciendo a los mandamientos de JH3068
+- Jue_2:18J les levantaba jueces, J estaba con elH3068
+- Jue_2:18J era movido a misericordia por susH3068
+- Jue_2:20la ira de J se encendió contra IsraelH3068
+- Jue_2:22seguir el camino de J, andando en élH3068
+- Jue_2:23por esto dejó J a aquellas naciones, sinH3068
+- Jue_3:1las naciones que dejó J para probar conH3068
+- Jue_3:4si obedecerían a los mandamientos de JH3068
+- Jue_3:7malo ante los ojos de J, y olvidaron a JH3068
+- Jue_3:8y la ira de J se encendió contra IsraelH3068
+- Jue_3:9clamaron...a J; y J levantó un libertadorH3068
+- Jue_3:10el Espíritu de J vino sobre él, y juzgóH3068
+- Jue_3:10J entregó en su...a Cusan-risataim reyH3068
+- Jue_3:12lo malo ante...J...J fortaleció a EglónH3068
+- Jue_3:12habían hecho lo malo ante los ojos de JH3068
+- Jue_3:15a J, y J les levantó un libertador, aH3068
+- Jue_3:28J ha entregado a vuestros enemigos losH3068
+- Jue_4:1volvieron a hacer lo malo ante los...de JH3068
+- Jue_4:2y J los vendió en mano de Jabín rey deH3068
+- Jue_4:3los hijos de Israel clamaron a J, porqueH3068
+- Jue_4:6¿no te ha mandado J Dios...diciendo: VéH3068
+- Jue_4:9en mano de mujer venderá J a SísaraH3068
+- Jue_4:14este es el día en que J ha entregado aH3068
+- Jue_4:14¿no ha salido J delante de ti? Y BaracH3068
+- Jue_4:15J quebrantó a Sísara, a...sus carros y aH3068
+- Jue_5:2por haberse puesto al frente...Load a JH3068
+- Jue_5:3yo cantaré a J, cantaré salmos a J, elH3068
+- Jue_5:4cuando saliste de Seir, oh J, cuando teH3068
+- Jue_5:5los montes temblaron delante de J, aquelH3068
+- Jue_5:5aquel Sinaí, delante de J Dios de IsraelH3068
+- Jue_5:9los que...os ofrecisteis entre...load a JH3068
+- Jue_5:11allí repetirán los triunfos de J, losH3068
+- Jue_5:11marchará hacia...puertas el pueblo de JH3068
+- Jue_5:13el pueblo de J marchó por él en contraH3068
+- Jue_5:23maldecid a Meroz, dijo el ángel de JH3068
+- Jue_5:23al socorro de J...J contra los fuertesH3068
+- Jue_5:31así perezcan todos tus enemigos, oh JH3068
+- Jue_6:1ante los ojos de J; y J los entregó enH3068
+- Jue_6:6empobrecía Israel...Israel clamaron a JH3068
+- Jue_6:7cuando...Israel clamaron a J, a causa deH3068
+- Jue_6:8J envió...un varón profeta, el cual lesH3068
+- Jue_6:8así ha dicho J Dios de Israel: Yo os hiceH3068
+- Jue_6:10dije: Yo soy J vuestro Dios; no temáisH3068
+- Jue_6:11vino el ángel de J, y se sentó debajoH3068
+- Jue_6:12el ángel de J...le dijo: J está contigoH3068
+- Jue_6:13si J está con nosotros, ¿por qué nos haH3068
+- Jue_6:13¿no nos sacó J de Egipto? Y ahora J nosH3068
+- Jue_6:14y mirándole J, le dijo: Vé con esta tuH3068
+- Jue_6:16J dijo: Ciertamente yo estaré contigoH3068
+- Jue_6:21y extendiendo el ángel de J el báculoH3068
+- Jue_6:21y el ángel de J desapareció de su vistaH3068
+- Jue_6:22viendo...Gedeón que era el ángel de JH3068
+- Jue_6:22ah, Señor J, que he visto el ángel de JH3068
+- Jue_6:23J le dijo: Paz a ti; no tengas temor, noH3068
+- Jue_6:24edificó...Gedeón altar a J, y lo llamóH3068
+- Jue_6:25la misma noche le dijo J: Toma un toroH3068
+- Jue_6:26y edifica altar a J...en la cumbre deH3068
+- Jue_6:27tomó 10 hombres...e hizo como J le dijoH3068
+- Jue_6:34el Espíritu de J vino sobre Gedeón, yH3068
+- Jue_7:2y J dijo a Gedeón: El pueblo...es muchoH3068
+- Jue_7:4J dijo a Gedeón: Aún es mucho el puebloH3068
+- Jue_7:5J dijo a Gedeón: Cualquiera que lamiereH3068
+- Jue_7:7J dijo a Gedeón: Con estos 300 hombresH3068
+- Jue_7:9que aquella noche J le dijo: LevántateH3068
+- Jue_7:15J ha entregado el campamento de MadiánH3068
+- Jue_7:18tocaréis...diréis: ¡Por J y por Gedeón![[H3068]]
+- Jue_7:20gritaron...la espada de J y de Gedeón![[H3068]]
+- Jue_7:22J puso la espada de cada uno contra suH3068
+- Jue_8:7J haya entregado en mi mano a Zeba y aH3068
+- Jue_8:19¡vive J, que si les hubierais...la vidaH3068
+- Jue_8:23ni mi hijo...J señoreará sobre vosotrosH3068
+- Jue_8:34no se acordaron...de Israel de J su DiosH3068
+- Jue_10:6a hacer lo malo ante los ojos de J, yH3068
+- Jue_10:6Israel...dejaron a J, y no lo sirvieronH3068
+- Jue_10:7se encendió la ira de J contra IsraelH3068
+- Jue_10:10de Israel clamaron a J...hemos pecadoH3068
+- Jue_10:11J respondió a los hijos de Israel: ¿NoH3068
+- Jue_10:15los hijos de Israel respondieron a JH3068
+- Jue_10:16sirvieron a J; y él fue angustiado aH3068
+- Jue_11:9pelee...y J los entregare delante de míH3068
+- Jue_11:10J sea testigo entre nosotros, si noH3068
+- Jue_11:11y Jefté habló...delante de J en MizpaH3068
+- Jue_11:21J...entregó a Sehón y a todo su puebloH3068
+- Jue_11:23lo que J Dios de...desposeyó al amorreoH3068
+- Jue_11:24todo lo que desposeyó J...lo poseeremosH3068
+- Jue_11:27J, que es el juez, juzgue hoy entreH3068
+- Jue_11:29y el Espíritu de J vino sobre JeftéH3068
+- Jue_11:30y Jefté hizo voto a J, diciendo: SiH3068
+- Jue_11:31cualquiera que saliere de...será de JH3068
+- Jue_11:32fue Jefté...y J los entregó en su manoH3068
+- Jue_11:35le he dado palabra a J, y no podréH3068
+- Jue_11:36si le has dado palabra a J...ya que JH3068
+- Jue_12:3los hijos de Amón, y J me los entregóH3068
+- Jue_13:1hacer lo malo ante...J...J los entregó enH3068
+- Jue_13:3a esta mujer apareció el ángel de J, yH3068
+- Jue_13:8oró Manoa a J, y dijo: Ah, Señor mío, yoH3068
+- Jue_13:13y el ángel de J respondió...La mujer seH3068
+- Jue_13:15Manoa dijo al ángel de J: Te ruego nosH3068
+- Jue_13:16el ángel de J respondió a Manoa: AunqueH3068
+- Jue_13:16si quieres...holocausto, ofrécelo a JH3068
+- Jue_13:16no sabía...que aquél fuese ángel de JH3068
+- Jue_13:17dijo Manoa al ángel de J: ¿Cuál es tuH3068
+- Jue_13:18y el ángel de J respondió: ¿Por quéH3068
+- Jue_13:19Manoa...los ofreció sobre una peña a JH3068
+- Jue_13:20ángel de J subió en la llama del altarH3068
+- Jue_13:21el ángel de J no volvió a aparecer aH3068
+- Jue_13:21conoció Manoa que era el ángel de JH3068
+- Jue_13:23si J nos quisiera matar, no aceptaríaH3068
+- Jue_13:24Sansón...el niño creció, y J lo bendijoH3068
+- Jue_13:25el Espíritu de J comenzó a manifestarseH3068
+- Jue_14:4su padre...no sabían que esto venía de JH3068
+- Jue_14:6y el Espíritu de J vino sobre SansónH3068
+- Jue_14:19; 15:14Espíritu de J vino sobre élH3068
+- Jue_15:18y teniendo gran sed, clamó luego a JH3068
+- Jue_16:20no sabía que J ya se había apartado deH3068
+- Jue_16:28clamó Sansón a J, y dijo: Señor JH3068
+- Jue_17:2la madre dijo: Bendito seas de J, hijoH3068
+- Jue_17:3he dedicado el dinero a J por mi hijoH3068
+- Jue_17:13Micaía dijo...sé que J me prosperaráH3068
+- Jue_18:6id en paz; delante de J...vuestro caminoH3068
+- Jue_19:18a Belén...mas ahora voy a la casa de JH3068
+- Jue_20:1se reunió la congregación...a J en MizpaH3068
+- Jue_20:18y J respondió: Judá será el primeroH3068
+- Jue_20:23lloraron delante de J hasta la nocheH3068
+- Jue_20:23y consultaron a J...y J les respondióH3068
+- Jue_20:26y se sentaron allí en presencia de JH3068
+- Jue_20:26ofrecieron holocaustos...delante de JH3068
+- Jue_20:27y los hijos de Israel preguntaron a JH3068
+- Jue_20:28J dijo: Subid, porque...los entregaréH3068
+- Jue_20:35derrotó J a Benjamín delante de IsraelH3068
+- Jue_21:3J...¿por qué ha sucedido esto en IsraelH3068
+- Jue_21:5no subió a la reunión delante de J?[[H3068]]
+- Jue_21:5contra el que no subiese a J en MizpaH3068
+- Jue_21:7hemos jurado por J que no les daremosH3068
+- Jue_21:8alguno...que no haya subido a J en Mizpa?[[H3068]]
+- Jue_21:15J había abierto una brecha entre lasH3068
+- Jue_21:19año hay fiesta solemne de J en SiloH3068
+- Rut_1:6oyó...que J había visitado a su puebloH3068
+- Rut_1:8J haga con vosotras misericordia, comoH3068
+- Rut_1:9os conceda J que halléis descanso, cadaH3068
+- Rut_1:13pues la mano de J ha salido contra míH3068
+- Rut_1:17me haga J, y aun me añada, que sólo laH3068
+- Rut_1:21yo me fui llena, pero J me ha vuelto conH3068
+- Rut_1:21ya que J ha dado testimonio contra míH3068
+- Rut_2:4que Booz vino...y dijo...J sea con vosotrosH3068
+- Rut_2:4los segadores...respondieron: J te bendigaH3068
+- Rut_2:12J recompense tu obra...de parte de J DiosH3068
+- Rut_2:20dijo...a su nuera: Sea él bendito de JH3068
+- Rut_3:10él dijo: Bendita seas tú de J, hija míaH3068
+- Rut_3:13mas si él no te...yo te redimiré, vive JH3068
+- Rut_4:11J haga a la mujer que entra en tu casaH3068
+- Rut_4:12descendencia que de esa joven te dé JH3068
+- Rut_4:13J le dio que concibiese y diese a luzH3068
+- Rut_4:14loado sea J, que hizo que no te faltaseH3068
+- 1Sa_1:3subía...para ofrecer sacrificios a JH3068
+- 1Sa_1:3estaban...Ofni y Finees, sacerdotes de JH3068
+- 1Sa_1:5,6J no le había concedido tener hijosH3068
+- 1Sa_1:7así hacía...cuando subía a la casa de JH3068
+- 1Sa_1:9una silla junto a un pilar del templo de JH3068
+- 1Sa_1:10con amargura de alma oró a J, y lloróH3068
+- 1Sa_1:11J...si te dignares mirar a la aflicciónH3068
+- 1Sa_1:11dedicaré a J todos los días de su vidaH3068
+- 1Sa_1:12ella oraba largamente delante de J, ElíH3068
+- 1Sa_1:15que he derramado mi alma delante de JH3068
+- 1Sa_1:19adoraron delante de J...y J se acordó deH3068
+- 1Sa_1:20hijo...diciendo: Por cuanto lo pedí a JH3068
+- 1Sa_1:21subió el...para ofrecer a J el sacrificioH3068
+- 1Sa_1:22lo lleve y sea presentado delante de JH3068
+- 1Sa_1:23haz...solamente que cumpla J su palabraH3068
+- 1Sa_1:24y lo trajo a la casa de J en Silo; y elH3068
+- 1Sa_1:26que estuvo aquí junto a ti orando a JH3068
+- 1Sa_1:27por este niño oraba, y J me dio lo queH3068
+- 1Sa_1:28yo, pues, lo dedico también a J: todosH3068
+- 1Sa_1:28que viva, será de J. Y adoró allí a JH3068
+- 1Sa_2:1Ana...dijo: Mi corazón se regocija en JH3068
+- 1Sa_2:1mi poder se exalta en J; mi boca seH3068
+- 1Sa_2:2no hay santo como J...no hay ninguno fueraH3068
+- 1Sa_2:3el Dios de todo saber es J, y a él tocaH3068
+- 1Sa_2:6J mata, y él da vida; él hace descenderH3068
+- 1Sa_2:7J empobrece, y él enriquece; abate, yH3068
+- 1Sa_2:8de J son las columnas de la tierra, y élH3068
+- 1Sa_2:10delante de J serán quebrantados susH3068
+- 1Sa_2:10J juzgará los confines de la tierraH3068
+- 1Sa_2:11el niño ministraba a J delante del...ElH3068
+- 1Sa_2:12impíos, y no tenían conocimiento de JH3068
+- 1Sa_2:17era...muy grande delante de J el pecadoH3068
+- 1Sa_2:17los hombres menospreciaban las...de JH3068
+- 1Sa_2:18Samuel ministraba en la presencia de JH3068
+- 1Sa_2:20J te dé hijos, lugar del que pidió a JH3068
+- 1Sa_2:21visitó J a Ana, y ella concibió, y dioH3068
+- 1Sa_2:21y el joven Samuel crecía delante de JH3068
+- 1Sa_2:24no, hijos...hacéis pecar al pueblo de JH3068
+- 1Sa_2:25mas si alguno pecare contra J, ¿quiénH3068
+- 1Sa_2:25porque J había resuelto hacerlos morirH3068
+- 1Sa_2:27le dijo: Así ha dicho J: ¿No me manifestéH3068
+- 1Sa_2:30por tanto, J...dice: Yo había dicho queH3068
+- 1Sa_2:30mas ahora ha dicho J: Nunca yo tal hagaH3068
+- 1Sa_3:1joven Samuel ministraba a J en presenciaH3068
+- 1Sa_3:1palabra de J escaseaba en aquellos díasH3068
+- 1Sa_3:3Samuel estaba durmiendo en el templo de JH3068
+- 1Sa_3:4J llamó a Samuel; y él respondió: HemeH3068
+- 1Sa_3:6y J volvió a llamar otra vez a SamuelH3068
+- 1Sa_3:7no había conocido aún a J...palabra de JH3068
+- 1Sa_3:8J, pues, llamó la tercera vez a SamuelH3068
+- 1Sa_3:8entonces entendió Elí que J llamaba alH3068
+- 1Sa_3:9dirás: Habla, J, porque tu siervo oyeH3068
+- 1Sa_3:10vino J y se paró, y llamó como...¡SamuelH3068
+- 1Sa_3:11y J dijo a Samuel: He aquí haré yo unaH3068
+- 1Sa_3:15Samuel...abrió...puertas de la casa de JH3068
+- 1Sa_3:18dijo: J es; haga lo que bien le pareciereH3068
+- 1Sa_3:19Samuel creció, y J estaba con él, y noH3068
+- 1Sa_3:20conoció que Samuel era...profeta de JH3068
+- 1Sa_3:21y J volvió a aparecer en Silo; porqueH3068
+- 1Sa_3:21J se manifestó a...por la palabra de JH3068
+- 1Sa_4:3ha herido hoy J delante de los filisteosH3068
+- 1Sa_4:3traigamos...Silo el arca del pacto de JH3068
+- 1Sa_4:4trajeron de allá el arca del pacto de JH3068
+- 1Sa_4:5cuando el arca del pacto de J llegó alH3068
+- 1Sa_4:6que el arca de J había sido traída alH3068
+- 1Sa_5:3,4Dagón postrado...delante del arca de JH3068
+- 1Sa_5:6y se agravó la mano de J sobre...de AsdodH3068
+- 1Sa_5:9la mano de J estuvo contra la ciudad conH3068
+- 1Sa_6:1estuvo el arca de J en la tierra de losH3068
+- 1Sa_6:2preguntaron: ¿Qué haremos del arca de J?[[H3068]]
+- 1Sa_6:8tomaréis...el arca de J, y la pondréisH3068
+- 1Sa_6:11pusieron el arca de J sobre el carro, yH3068
+- 1Sa_6:14ofrecieron las vacas en holocausto a JH3068
+- 1Sa_6:15los levitas bajaron el arca de J, y laH3068
+- 1Sa_6:15dedicaron sacrificios a J en aquel díaH3068
+- 1Sa_6:17los tumores de oro que pagaron los...a JH3068
+- 1Sa_6:18sobre la cual pusieron el arca de J estáH3068
+- 1Sa_6:19mirado dentro del arca de J; hizo morirH3068
+- 1Sa_6:19lloró el pueblo...J lo había herido conH3068
+- 1Sa_6:20¿quién podrá estar delante de J...santo?[[H3068]]
+- 1Sa_6:21los filisteos han devuelto el arca de JH3068
+- 1Sa_7:1vinieron los de...y llevaron el arca de JH3068
+- 1Sa_7:1Eleazar...para que guardase el arca de JH3068
+- 1Sa_7:2la casa de Israel lamentaba en pos de JH3068
+- 1Sa_7:3si...os volvéis a J...preparad...corazón a JH3068
+- 1Sa_7:4los hijos de Israel...sirvieron sólo a JH3068
+- 1Sa_7:5en Mizpa, y yo oraré por vosotros a JH3068
+- 1Sa_7:6sacaron agua, y...derramaron delante de JH3068
+- 1Sa_7:6y dijeron allí: Contra J hemos pecadoH3068
+- 1Sa_7:8no ceses de clamar por nosotros a J...DiosH3068
+- 1Sa_7:9sacrificó...a J; y clamó...a J...y J le oyóH3068
+- 1Sa_7:10mas J tronó aquel día con gran estruendoH3068
+- 1Sa_7:12puso...diciendo: Hasta aquí nos ayudó JH3068
+- 1Sa_7:13la mano de J estuvo contra los filisteosH3068
+- 1Sa_7:17juzgaba a...y edificó allí un altar a JH3068
+- 1Sa_8:6no agradó a Samuel esta...Y Samuel oró a JH3068
+- 1Sa_8:7dijo J a Samuel: Oye la voz del puebloH3068
+- 1Sa_8:10refirió Samuel todas las palabras de JH3068
+- 1Sa_8:18mas J no os responderá en aquel díaH3068
+- 1Sa_8:21oyó Samuel...las refirió en oídos de JH3068
+- 1Sa_8:22J dijo a Samuel: Oye su voz, y pon reyH3068
+- 1Sa_9:15Saúl...J había revelado al oído de SamuelH3068
+- 1Sa_9:17J le dijo: He aquí éste es el varón delH3068
+- 1Sa_10:1¿no te ha ungido J por príncipe sobreH3068
+- 1Sa_10:6el Espíritu de J vendrá sobre ti conH3068
+- 1Sa_10:17Samuel convocó al pueblo delante de JH3068
+- 1Sa_10:18así ha dicho J...Yo saqué a Israel deH3068
+- 1Sa_10:19presentaos delante de J por vuestrasH3068
+- 1Sa_10:22preguntaron...otra vez a J...y respondió JH3068
+- 1Sa_10:24¿habéis visto al que ha elegido J, queH3068
+- 1Sa_10:25un libro, el cual guardó delante de JH3068
+- 1Sa_11:7temor de J sobre el pueblo, y salieronH3068
+- 1Sa_11:13no morirá hoy...hoy J ha dado salvaciónH3068
+- 1Sa_11:15invistieron allí a Saúl...delante de JH3068
+- 1Sa_11:15sacrificaron...ofrendas...delante de JH3068
+- 1Sa_12:3estoy; atestiguad contra mí delante de JH3068
+- 1Sa_12:5les dijo: J es testigo contra vosotrosH3068
+- 1Sa_12:6J que designó a Moisés y a Aarón, y sacóH3068
+- 1Sa_12:7y contenderé con vosotros delante de JH3068
+- 1Sa_12:7que J ha hecho con vosotros y...padresH3068
+- 1Sa_12:8padres clamaron a J, J envió a Moisés yH3068
+- 1Sa_12:9olvidaron a J su Dios, y él los vendióH3068
+- 1Sa_12:10ellos clamaron a J...hemos dejado a JH3068
+- 1Sa_12:11J envió a Jerobaal, a Barac, a JeftéH3068
+- 1Sa_12:12siendo así que J...Dios era vuestro reyH3068
+- 1Sa_12:13veis que J ha puesto rey sobre vosotrosH3068
+- 1Sa_12:14si temiereis a J...y no...rebeldes a JH3068
+- 1Sa_12:14tanto vosotros como el rey...servís a JH3068
+- 1Sa_12:15si no oyereis la voz de J, y si fuereisH3068
+- 1Sa_12:15fuereis rebeldes a...de J, la mano de JH3068
+- 1Sa_12:16esta gran cosa que J hará delante deH3068
+- 1Sa_12:17yo clamaré a J, y él dará truenos yH3068
+- 1Sa_12:17vuestra maldad que...ante los ojos de JH3068
+- 1Sa_12:18clamó a J, y J dio truenos y lluviasH3068
+- 1Sa_12:18el pueblo tuvo gran temor de J y deH3068
+- 1Sa_12:19a Samuel: Ruega por tus siervos a JH3068
+- 1Sa_12:20no os apartéis de en pos de J, sinoH3068
+- 1Sa_12:22J no desamparará a su pueblo, por suH3068
+- 1Sa_12:22porque J ha querido haceros pueblo suyoH3068
+- 1Sa_12:23lejos sea de mi que peque yo contra JH3068
+- 1Sa_12:24temed a J y servidle de verdad con todoH3068
+- 1Sa_13:12ahora...yo no he implorado el favor de JH3068
+- 1Sa_13:13no guardaste el mandamiento de J tuH3068
+- 1Sa_13:13J hubiera confirmado tu reino sobreH3068
+- 1Sa_13:14J se ha buscado...al cual J ha designadoH3068
+- 1Sa_13:14tú no has guardado lo que J te mandóH3068
+- 1Sa_14:3sacerdote de J en Silo, llevaba el efodH3068
+- 1Sa_14:6haga algo J...pues no es difícil para JH3068
+- 1Sa_14:10J los ha entregado en nuestra manoH3068
+- 1Sa_14:12J los ha entregado en manos de IsraelH3068
+- 1Sa_14:23salvó J a Israel aquel día. Y llegó laH3068
+- 1Sa_14:33el pueblo peca contra J, comiendo laH3068
+- 1Sa_14:34no pequéis contra J comiendo la carneH3068
+- 1Sa_14:35y edificó Saúl altar a J...edificó a JH3068
+- 1Sa_14:37mas J no le dio respuesta aquel díaH3068
+- 1Sa_14:39vive J...que aunque fuere en Jonatán miH3068
+- 1Sa_14:41a J Dios de Israel: Da suerte perfectaH3068
+- 1Sa_14:45vive J, que no ha de caer un cabelloH3068
+- 1Sa_15:1J me envió a que te ungiese por reyH3068
+- 1Sa_15:1ahora...está atento a las palabras de JH3068
+- 1Sa_15:2dicho J de los ejércitos: Yo castigaréH3068
+- 1Sa_15:10vino palabra de J a Samuel, diciendoH3068
+- 1Sa_15:11y se apesadumbró Samuel, y clamó a JH3068
+- 1Sa_15:13bendito seas tú de J; yo he cumplido...JH3068
+- 1Sa_15:15para sacrificarlas a J tu Dios, peroH3068
+- 1Sa_15:16declararte lo que J me ha dicho estaH3068
+- 1Sa_15:17J te ha ungido por rey sobre Israel?[[H3068]]
+- 1Sa_15:18y J te envió en misión y dijo: VéH3068
+- 1Sa_15:19¿por qué, pues, no has oído la voz de JH3068
+- 1Sa_15:19has hecho lo malo ante los ojos de J?[[H3068]]
+- 1Sa_15:20antes bien he obedecido la voz de JH3068
+- 1Sa_15:20fui a la misión que J me envió, y heH3068
+- 1Sa_15:21para ofrecer sacrificios a J tu DiosH3068
+- 1Sa_15:22¿se complace J tanto en...holocaustosH3068
+- 1Sa_15:22que se obedezca a las palabras de J?[[H3068]]
+- 1Sa_15:23cuanto tú desechaste la palabra de JH3068
+- 1Sa_15:24he quebrantado el mandamiento de J yH3068
+- 1Sa_15:25y vuelve conmigo para que adore a JH3068
+- 1Sa_15:26desechaste la palabra de J, y J te haH3068
+- 1Sa_15:28J ha rasgado hoy...el reino de IsraelH3068
+- 1Sa_15:30y vuelvas conmigo para que adore a JH3068
+- 1Sa_15:31volvió Samuel tras...y adoró Saúl a JH3068
+- 1Sa_15:33cortó en pedazos a Agag delante de JH3068
+- 1Sa_15:35J se arrepentía de haber puesto a SaúlH3068
+- 1Sa_16:1J a Samuel: ¿Hasta cuándo llorarás aH3068
+- 1Sa_16:2J respondió...A ofrecer...a J he venidoH3068
+- 1Sa_16:4hizo...Samuel como le dijo J; y luego queH3068
+- 1Sa_16:5vengo a ofrecer sacrificio a J...venidH3068
+- 1Sa_16:6de cierto delante de J está su ungidoH3068
+- 1Sa_16:7J respondió a Samuel...J no mira lo queH3068
+- 1Sa_16:7el hombre mira...pero J mira el corazónH3068
+- 1Sa_16:8,9tampoco a éste ha escogido JH3068
+- 1Sa_16:10dijo a Isaí: J no ha elegido a éstosH3068
+- 1Sa_16:12J dijo: Levántate y úngelo, porque ésteH3068
+- 1Sa_16:13día...el Espíritu de J vino sobre DavidH3068
+- 1Sa_16:14el Espíritu de J se apartó de Saúl, yH3068
+- 1Sa_16:14le atormentaba un espíritu malo...de JH3068
+- 1Sa_16:18prudente...y hermoso, y J está con élH3068
+- 1Sa_17:37J, que me ha librado de las garras delH3068
+- 1Sa_17:37dijo Saúl a David: Vé, y J esté contigoH3068
+- 1Sa_17:45yo vengo a ti en el nombre de J de losH3068
+- 1Sa_17:46J te entregará hoy en mi mano, y yo teH3068
+- 1Sa_17:47sabrá...J no salva con espada y lanzaH3068
+- 1Sa_17:47de J es la batalla, y él os entregaráH3068
+- 1Sa_18:12J estaba con él, y se había apartadoH3068
+- 1Sa_18:14David se conducía...y J estaba con élH3068
+- 1Sa_18:17valiente, y pelees las batallas de JH3068
+- 1Sa_18:28considerando que J estaba con DavidH3068
+- 1Sa_19:5y J dio gran salvación a todo IsraelH3068
+- 1Sa_19:6voz...y juró Saúl: Vive J, que no moriráH3068
+- 1Sa_19:9espíritu malo de parte de J vino sobreH3068
+- 1Sa_20:3vive J...apenas hay un paso entre mí yH3068
+- 1Sa_20:8hecho entrar a tu siervo en pacto de JH3068
+- 1Sa_20:12dijo...¡J Dios de Israel, sea testigo![[H3068]]
+- 1Sa_20:13J haga así a Jonatán...Y esté J contigoH3068
+- 1Sa_20:14harás conmigo misericordia de J, paraH3068
+- 1Sa_20:15cuando J haya cortado uno por uno losH3068
+- 1Sa_20:16requiéralo J de la...enemigos de DavidH3068
+- 1Sa_20:21vendrás, porque...nada malo hay, vive JH3068
+- 1Sa_20:22dijere...vete, porque J te ha enviadoH3068
+- 1Sa_20:23esté J entre nosotros dos para siempreH3068
+- 1Sa_20:42hemos jurado por...J...J esté entre túH3068
+- 1Sa_21:6habían sido quitados...presencia de JH3068
+- 1Sa_21:7estaba allí...detenido delante de J unoH3068
+- 1Sa_22:10el cual consultó por él a J y le dioH3068
+- 1Sa_22:17volveos y matad a los sacerdotes de JH3068
+- 1Sa_22:17no quisieron...matar...sacerdotes de JH3068
+- 1Sa_22:21había dado muerte a los sacerdotes de JH3068
+- 1Sa_23:2y David consultó a J, diciendo: ¿Iré aH3068
+- 1Sa_23:2J respondió...Vé, ataca a los filisteosH3068
+- 1Sa_23:4David volvió a consultar a J. Y J leH3068
+- 1Sa_23:10J Dios...tu siervo tiene entendido queH3068
+- 1Sa_23:11J...te ruego...Y J dijo: Sí, descenderáH3068
+- 1Sa_23:12de Saúl? Y J respondió: Os entregaránH3068
+- 1Sa_23:18hicieron pacto delante de J. Y DavidH3068
+- 1Sa_23:21Saúl dijo: Benditos seáis vosotros de JH3068
+- 1Sa_24:4dijeron...aquí el día de que te dijo JH3068
+- 1Sa_24:6y dijo...J me guarde de hacer tal cosaH3068
+- 1Sa_24:6tal cosa contra mi señor, el ungido de JH3068
+- 1Sa_24:6mano contra él; porque es el ungido de JH3068
+- 1Sa_24:10cómo J te ha puesto hoy en mis manosH3068
+- 1Sa_24:10te perdoné...porque es el ungido de JH3068
+- 1Sa_24:12juzgue J entre tú...y véngueme de ti JH3068
+- 1Sa_24:15J...será juez, y él juzgará entre tú yH3068
+- 1Sa_24:18tú...habiéndome entregado J en tu manoH3068
+- 1Sa_24:19J te pague con bien por lo que...hechoH3068
+- 1Sa_24:21júrame...por J, que no destruirás miH3068
+- 1Sa_25:26vive J...que J te ha impedido el venirH3068
+- 1Sa_25:28pues J...hará casa estable a mi señorH3068
+- 1Sa_25:28cuanto mi señor pelea las batallas de JH3068
+- 1Sa_25:29el haz de los que viven delante de JH3068
+- 1Sa_25:30cuando J haga con mi señor conforme aH3068
+- 1Sa_25:31señor, y cuando J haga bien a mi señorH3068
+- 1Sa_25:32y dijo David a Abigail: Bendito sea JH3068
+- 1Sa_25:34vive J Dios...que me ha defendido deH3068
+- 1Sa_25:38diez días después, J hirió a Nabal, yH3068
+- 1Sa_25:39bendito sea J, que juzgó la causa deH3068
+- 1Sa_25:39J ha vuelto la maldad de Nabal sobreH3068
+- 1Sa_26:9¿quién...su mano contra el ungido de JH3068
+- 1Sa_26:10vive J, que si J no lo hiriere, o suH3068
+- 1Sa_26:11guárdeme J de...contra el ungido de JH3068
+- 1Sa_26:12sueño enviado de J había caído sobreH3068
+- 1Sa_26:16vive J, que sois dignos de muerteH3068
+- 1Sa_26:16no habéis guardado a...al ungido de JH3068
+- 1Sa_26:19si J te incita contra mí, acepte él laH3068
+- 1Sa_26:19malditos sean ellos en presencia de JH3068
+- 1Sa_26:19que no tenga parte en la heredad de JH3068
+- 1Sa_26:20no...mi sangre en tierra delante de JH3068
+- 1Sa_26:23y J pague a cada uno su justicia y suH3068
+- 1Sa_26:23J te había entregado hoy en mi manoH3068
+- 1Sa_26:23no quise...mano contra el ungido de JH3068
+- 1Sa_26:24así sea mi vida a los ojos de J, y meH3068
+- 1Sa_28:6consultó Saúl a J...J no le respondió niH3068
+- 1Sa_28:10Saúl le juró por J, diciendo: Vive JH3068
+- 1Sa_28:16si J se ha apartado...y es tu enemigoH3068
+- 1Sa_28:17J te ha hecho...J ha quitado el reinoH3068
+- 1Sa_28:18como tú no obedeciste a la voz de JH3068
+- 1Sa_28:18Amalec, por eso J te ha hecho esto hoyH3068
+- 1Sa_28:19J entregará a Israel también contigoH3068
+- 1Sa_28:19J entregará...al ejército de Israel enH3068
+- 1Sa_29:6vive J, que tú has sido recto, y que meH3068
+- 1Sa_30:6mas David se fortaleció en J su DiosH3068
+- 1Sa_30:8consultó a J, diciendo: ¿Perseguiré aH3068
+- 1Sa_30:23de lo que nos ha dado J, quien nos haH3068
+- 1Sa_30:26envió...del botín de los enemigos de JH3068
+- 2Sa_1:12ayunaron...por el pueblo de J y porH3068
+- 2Sa_1:14no...tu mano para matar al ungido de J?[[H3068]]
+- 2Sa_1:16boca...diciendo: Yo maté al ungido de JH3068
+- 2Sa_2:1que David consultó a J...Y J le respondióH3068
+- 2Sa_2:5benditos seáis...de J, que habéis hechoH3068
+- 2Sa_2:6ahora...J haga con vosotros misericordiaH3068
+- 2Sa_3:9si como ha jurado J a David, no haga yoH3068
+- 2Sa_3:18hacedlo; porque J ha hablado a DavidH3068
+- 2Sa_3:28inocente...yo y mi reino, delante de JH3068
+- 2Sa_3:39J dé el pago al que mal hace, conformeH3068
+- 2Sa_4:8J ha vengado hoy a mi señor el rey, deH3068
+- 2Sa_4:9vive J que ha redimido mi alma de todaH3068
+- 2Sa_5:2J te ha dicho: Tú apacentarás a...puebloH3068
+- 2Sa_5:3David hizo pacto con ellos delante de JH3068
+- 2Sa_5:10J Dios de los ejércitos estaba con élH3068
+- 2Sa_5:12que J le había confirmado por rey sobreH3068
+- 2Sa_5:19consultó David a J...y J respondió...VéH3068
+- 2Sa_5:20quebrantó J a mis enemigos delante deH3068
+- 2Sa_5:23consultando David a J, él le respondióH3068
+- 2Sa_5:24porque J saldrá delante de ti a herirH3068
+- 2Sa_5:25lo hizo así, como J se lo había mandadoH3068
+- 2Sa_6:2la cual era invocado el nombre de J deH3068
+- 2Sa_6:5la casa de Israel danzaban delante de JH3068
+- 2Sa_6:7y el furor de J se encendió contra UzaH3068
+- 2Sa_6:8entristeció...por haber herido J a UzaH3068
+- 2Sa_6:9y temiendo David a J aquel día, dijoH3068
+- 2Sa_6:9¿cómo ha de venir a mí el arca de J?[[H3068]]
+- 2Sa_6:10David no quiso traer...el arca de J a laH3068
+- 2Sa_6:11el arca de J en casa de Obed-edom tresH3068
+- 2Sa_6:11bendijo J a Obed-edom y a toda su casaH3068
+- 2Sa_6:12J ha bendecido la casa de Obed-edom yH3068
+- 2Sa_6:14David danzaba con...fuerza delante de JH3068
+- 2Sa_6:15David y...Israel conducían el arca de JH3068
+- 2Sa_6:16cuando el arca de J llegó a la ciudadH3068
+- 2Sa_6:16vio al rey David...danzaba delante de JH3068
+- 2Sa_6:17metieron...el arca de J, y la pusieronH3068
+- 2Sa_6:17holocaustos y ofrendas de...delante de JH3068
+- 2Sa_6:18bendijo al pueblo en el nombre de J deH3068
+- 2Sa_6:21J...me eligió...príncipe sobre el puebloH3068
+- 2Sa_6:21el pueblo de J...danzaré delante de JH3068
+- 2Sa_7:1que J le había dado reposo de todos susH3068
+- 2Sa_7:3haz todo lo que...porque J está contigoH3068
+- 2Sa_7:4que vino palabra de J a Natán, diciendoH3068
+- 2Sa_7:5ha dicho J: ¿Tú me has de edificar casaH3068
+- 2Sa_7:8dirás...Así ha dicho J de los ejércitosH3068
+- 2Sa_7:11J te hace saber que él te hará casaH3068
+- 2Sa_7:18se puso delante de J, y dijo: Señor JH3068
+- 2Sa_7:19aun te ha parecido poco esto, Señor JH3068
+- 2Sa_7:19así como procede el hombre, Señor J?[[H3068]]
+- 2Sa_7:20pues tú conoces a tu siervo, Señor JH3068
+- 2Sa_7:22te has engrandecido, J Dios, por cuantoH3068
+- 2Sa_7:24y tú, oh J, fuiste a ellos por DiosH3068
+- 2Sa_7:25J...confirma para siempre la palabra queH3068
+- 2Sa_7:26J de los ejércitos es Dios sobre IsraelH3068
+- 2Sa_7:27tú, J...revelaste al oído de tu siervoH3068
+- 2Sa_7:28J...eres Dios, y tus palabras son verdadH3068
+- 2Sa_7:29porque tú, J Dios, lo has dicho, y conH3068
+- 2Sa_8:6,14J dio la victoria a David...que fueH3068
+- 2Sa_8:11los cuales el rey David dedicó a J, conH3068
+- 2Sa_10:12Dios; y haga J lo que bien le pareciereH3068
+- 2Sa_11:27fue desagradable ante los ojos de JH3068
+- 2Sa_12:1J envió a Natán a David; y viniendo aH3068
+- 2Sa_12:5vive J, que el que tal hizo es digno deH3068
+- 2Sa_12:7ha dicho J Dios de Israel: Yo te ungíH3068
+- 2Sa_12:9¿por...tuviste en poco la palabra de JH3068
+- 2Sa_12:11ha dicho J: He aquí yo haré levantarH3068
+- 2Sa_12:13dijo...Pequé contra J...J ha remitido tuH3068
+- 2Sa_12:14hiciste blasfemar a los enemigos de JH3068
+- 2Sa_12:15J hirió al niño que la mujer de UríasH3068
+- 2Sa_12:20David...entró en la casa de J, y adoróH3068
+- 2Sa_12:24llamó su nombre Salomón, al cual amó JH3068
+- 2Sa_12:25así llamó su...Jedidías, a causa de JH3068
+- 2Sa_14:11oh rey, que te acuerdes de J tu DiosH3068
+- 2Sa_14:11vive J, que no caerá ni un cabello deH3068
+- 2Sa_14:17y lo malo...Así J tu Dios sea contigoH3068
+- 2Sa_15:7a pagar mi voto que he prometido a JH3068
+- 2Sa_15:8si J me hiciere volver...yo serviré a JH3068
+- 2Sa_15:20y J te...amor permanente y fidelidadH3068
+- 2Sa_15:25yo hallare gracia ante los ojos de JH3068
+- 2Sa_15:31entorpece...J, el consejo de AhitofelH3068
+- 2Sa_16:8J te ha dado el pago...J ha entregado elH3068
+- 2Sa_16:10él así maldice, es porque J le ha dichoH3068
+- 2Sa_16:11dejadle que maldiga...J se lo ha dichoH3068
+- 2Sa_16:12quizá mirará J mi aflicción, y me daráH3068
+- 2Sa_16:12me dará J bien por sus maldiciones deH3068
+- 2Sa_16:18que de aquel que eligiere J...seré yoH3068
+- 2Sa_17:14J había ordenado que el...consejo deH3068
+- 2Sa_17:14J hiciese venir el mal sobre AbsalónH3068
+- 2Sa_18:19nuevas de que J ha defendido su causaH3068
+- 2Sa_18:28bendito sea J Dios...que ha entregadoH3068
+- 2Sa_18:31que hoy J ha defendido tu causa de laH3068
+- 2Sa_19:7juro por J que si no sales, no quedaráH3068
+- 2Sa_19:21¿no...Simei, que maldijo al ungido de J?[[H3068]]
+- 2Sa_20:19¿por qué destruyes la heredad de J?[[H3068]]
+- 2Sa_21:1y David consultó a J, y J le dijo: EsH3068
+- 2Sa_21:3qué...para que bendigáis la heredad de J?[[H3068]]
+- 2Sa_21:6para que los ahorquemos delante de JH3068
+- 2Sa_21:6Saúl, el escogido de J...Y el rey dijoH3068
+- 2Sa_21:7el juramento de J que hubo entre ellosH3068
+- 2Sa_21:9los ahorcaron en el monte delante de JH3068
+- 2Sa_22:1habló David a J...este cántico, el díaH3068
+- 2Sa_22:1J le había librado de la mano de todosH3068
+- 2Sa_22:2dijo: J es mi roca y mi fortaleza, y miH3068
+- 2Sa_22:4invocaré a J, quien es digno de serH3068
+- 2Sa_22:7en mi angustia invoqué a J, y clamé aH3068
+- 2Sa_22:14tronó desde...cielos J, y el AltísimoH3068
+- 2Sa_22:16a la reprensión de J, por el soplo deH3068
+- 2Sa_22:19me asaltaron en el...mas J fue mi apoyoH3068
+- 2Sa_22:21J me ha premiado conforme...justiciaH3068
+- 2Sa_22:22he guardado los caminos de J, y no meH3068
+- 2Sa_22:25lo cual me ha recompensado J conforme aH3068
+- 2Sa_22:29tú eres mi lámpara, oh J; mi DiosH3068
+- 2Sa_22:31camino, y acrisolada la palabra de JH3068
+- 2Sa_22:32porque ¿quién es Dios, sino sólo J?[[H3068]]
+- 2Sa_22:42clamaron, y...aun a J, mas no les oyóH3068
+- 2Sa_22:47viva J, y bendita sea mi roca...el DiosH3068
+- 2Sa_22:50por tanto, yo te confesaré entre...oh JH3068
+- 2Sa_23:2el Espíritu de J ha hablado por mí, yH3068
+- 2Sa_23:10J dio una gran victoria, y se volvióH3068
+- 2Sa_23:12lo defendió...y J dio una gran victoriaH3068
+- 2Sa_23:16sino que la derramó para J, diciendoH3068
+- 2Sa_23:17lejos sea de mí, oh J, que yo haga estoH3068
+- 2Sa_24:1volvió a encenderse la ira de J contraH3068
+- 2Sa_24:3añada J tu Dios al pueblo cien vecesH3068
+- 2Sa_24:10David a J: Yo he pecado gravemente porH3068
+- 2Sa_24:10oh J, te ruego que quites el pecado deH3068
+- 2Sa_24:11palabra de J al profeta Gad, vidente deH3068
+- 2Sa_24:12así ha dicho J: Tres cosas te ofrezcoH3068
+- 2Sa_24:14caigamos ahora en mano de J, porqueH3068
+- 2Sa_24:15J envió la peste sobre Israel desde laH3068
+- 2Sa_24:16J se arrepintió de aquel mal, y dijoH3068
+- 2Sa_24:16el ángel de J estaba junto a la era deH3068
+- 2Sa_24:17y David dijo a J, cuando vio al ángelH3068
+- 2Sa_24:18sube, y levanta un altar a J en la eraH3068
+- 2Sa_24:19subió David...según había mandado JH3068
+- 2Sa_24:21a fin de edificar un altar a J, paraH3068
+- 2Sa_24:23dijo Arauna...J...Dios te sea propicioH3068
+- 2Sa_24:24no ofreceré a J...holocaustos que no meH3068
+- 2Sa_24:25y edificó allí David un altar a J, yH3068
+- 2Sa_24:25J oyó las súplicas de la tierra, y cesóH3068
+- 1Re_1:17tú juraste a tu sierva por J tu DiosH3068
+- 1Re_1:29vive J, que ha redimido mi alma de todaH3068
+- 1Re_1:30que como yo te he jurado por J Dios deH3068
+- 1Re_1:36así lo diga J, Dios de mi señor el reyH3068
+- 1Re_1:37manera que J ha estado con mi señor elH3068
+- 1Re_1:48bendito sea J...que ha dado hoy quien seH3068
+- 1Re_2:3los preceptos de J tu Dios, andando enH3068
+- 1Re_2:4que confirme J la palabra que me hablóH3068
+- 1Re_2:8le juré por J, diciendo: Yo no te mataréH3068
+- 1Re_2:15vino a ser de mi hermano...por J era suyoH3068
+- 1Re_2:23Salomón juró por J, diciendo: Así meH3068
+- 1Re_2:24vive J, quien me ha confirmado y me haH3068
+- 1Re_2:26por cuanto has llevado el arca de J elH3068
+- 1Re_2:27así echó...a Abiatar del sacerdocio de JH3068
+- 1Re_2:27para que se cumpliese la palabra de JH3068
+- 1Re_2:28huyó Joab al tabernáculo de J, y se asióH3068
+- 1Re_2:29Joab había huido al tabernáculo de JH3068
+- 1Re_2:30entró Benaía al tabernáculo de J, y leH3068
+- 1Re_2:32y J hará volver su sangre sobre suH3068
+- 1Re_2:33habrá perpetuamente paz de parte de JH3068
+- 1Re_2:42te hice jurar yo por J, y te protestéH3068
+- 1Re_2:43¿por qué...no guardaste el juramento de JH3068
+- 1Re_2:44J, pues, ha hecho volver el mal sobre tuH3068
+- 1Re_2:45el trono de...será firme...delante de JH3068
+- 1Re_3:1que acababa de edificar...la casa de JH3068
+- 1Re_3:2no había casa edificada al nombre de JH3068
+- 1Re_3:3mas Salomón amó a J, andando en losH3068
+- 1Re_3:5y se le apareció J a Salomón en GabaónH3068
+- 1Re_3:7pues, J Dios mío, tú me has puesto a míH3068
+- 1Re_3:15y se presentó delante del arca...de JH3068
+- 1Re_5:3no pudo edificar casa al nombre de J suH3068
+- 1Re_5:3J puso sus enemigos bajo...de sus piesH3068
+- 1Re_5:4J mi Dios me ha dado paz...todas partesH3068
+- 1Re_5:5edificar casa al nombre de J mi DiosH3068
+- 1Re_5:5según lo que J habló a David mi padreH3068
+- 1Re_5:7bendito sea hoy J, que dio hijo sabio aH3068
+- 1Re_5:12J, pues, dio a Salomón sabiduría comoH3068
+- 1Re_6:1año...comenzó él a edificar la casa de JH3068
+- 1Re_6:2la casa que el rey Salomón edificó a JH3068
+- 1Re_6:11vino palabra de J a Salomón, diciendoH3068
+- 1Re_6:19para poner allí el arca del pacto de JH3068
+- 1Re_6:37echaron los cimientos de la casa de JH3068
+- 1Re_7:12así también el atrio...de la casa de JH3068
+- 1Re_7:40terminó toda la obra...para la casa de JH3068
+- 1Re_7:45todos los utensilios...para la casa de JH3068
+- 1Re_7:48enseres que pertenecían a la casa de JH3068
+- 1Re_7:51así se terminó toda la obra...casa de JH3068
+- 1Re_7:51todo en las tesorerías de la casa de JH3068
+- 1Re_8:1para traer el arca del pacto de J de laH3068
+- 1Re_8:4llevaron el arca de J, y el tabernáculoH3068
+- 1Re_8:6metieron el arca del pacto de J en suH3068
+- 1Re_8:9donde J hizo pacto con...hijos de IsraelH3068
+- 1Re_8:10salieron del...la nube llenó la casa de JH3068
+- 1Re_8:11gloria de J había llenado la casa de JH3068
+- 1Re_8:12J ha dicho...habitaría en la oscuridadH3068
+- 1Re_8:15y dijo: Bendito sea J, Dios de IsraelH3068
+- 1Re_8:17edificar casa al nombre de J Dios deH3068
+- 1Re_8:18pero J dijo a David mi padre: Cuanto aH3068
+- 1Re_8:20J ha cumplido su palabra...J había dichoH3068
+- 1Re_8:20y he edificado la casa al nombre de JH3068
+- 1Re_8:21el arca, en la cual está el pacto de JH3068
+- 1Re_8:22se puso Salomón delante del altar de JH3068
+- 1Re_8:23J...no hay Dios como tú, ni arriba en elH3068
+- 1Re_8:25J...cumple a tu siervo David mi padre loH3068
+- 1Re_8:26oh J...cúmplase la palabra que dijisteH3068
+- 1Re_8:28atenderás a...a su plegaria, oh J DiosH3068
+- 1Re_8:44y oraren a J con el rostro hacia laH3068
+- 1Re_8:53sacaste a nuestros padres de Egipto...JH3068
+- 1Re_8:54acabó...de hacer a J toda esta oraciónH3068
+- 1Re_8:54se levantó de...delante del altar de JH3068
+- 1Re_8:56bendito sea J, que ha dado paz...IsraelH3068
+- 1Re_8:57esté con nosotros J nuestro Dios, comoH3068
+- 1Re_8:59he orado delante de J, estén cerca de JH3068
+- 1Re_8:60todos los pueblos...sepan que J es DiosH3068
+- 1Re_8:61sea...perfecto vuestro corazón para con JH3068
+- 1Re_8:62rey...sacrificaron víctimas delante de JH3068
+- 1Re_8:63ofreció a J, 22.000 bueyes y 120.000H3068
+- 1Re_8:63dedicaron el rey...Israel la casa de JH3068
+- 1Re_8:64atrio...estaban delante de la casa de JH3068
+- 1Re_8:64el altar de bronce que...de J era pequeñoH3068
+- 1Re_8:65gran congregación...delante de J...DiosH3068
+- 1Re_8:66todos los beneficios que J había hechoH3068
+- 1Re_9:1hubo acabado...casa de J, y la casa realH3068
+- 1Re_9:2J apareció a Salomón la segunda vez, comoH3068
+- 1Re_9:3y le dijo J: Yo he oído tu oración y tuH3068
+- 1Re_9:8¿por qué ha hecho así J a esta tierra yH3068
+- 1Re_9:9y dirán: Por cuanto dejaron a J su DiosH3068
+- 1Re_9:9ha traído J sobre ellos todo este malH3068
+- 1Re_9:10edificado...la casa de J y la casa realH3068
+- 1Re_9:15de la leva...para edificar la casa de JH3068
+- 1Re_9:25paz sobre el altar que él edificó a JH3068
+- 1Re_9:25quemaba incienso sobre el...delante de JH3068
+- 1Re_10:1la fama...alcanzado por el nombre de JH3068
+- 1Re_10:5holocaustos que ofrecía en la casa de JH3068
+- 1Re_10:9J tu Dios sea bendito, que se agradó deH3068
+- 1Re_10:9porque J ha amado siempre a Israel, teH3068
+- 1Re_10:12balaustres para la casa de J y para lasH3068
+- 1Re_11:2gentes de las cuales J había dicho aH3068
+- 1Re_11:4corazón no era perfecto con J su DiosH3068
+- 1Re_11:6hizo Salomón lo malo ante los ojos de JH3068
+- 1Re_11:6y no siguió...a J como David su padreH3068
+- 1Re_11:9enojó J contra Salomón, por cuanto suH3068
+- 1Re_11:9su corazón se había apartado de J DiosH3068
+- 1Re_11:10a dioses...no guardó lo que le mandó JH3068
+- 1Re_11:11dijo J a Salomón: Por cuanto ha habidoH3068
+- 1Re_11:14y J suscitó un adversario a SalomónH3068
+- 1Re_11:31dijo J Dios de Israel: He aquí que yoH3068
+- 1Re_12:15designio de J para confirmar la palabraH3068
+- 1Re_12:15palabra que J había hablado por medioH3068
+- 1Re_12:22vino palabra de J a Semaías varón deH3068
+- 1Re_12:24así ha dicho J: No vayáis, ni peleéisH3068
+- 1Re_12:24se fueron, conforme a la palabra de JH3068
+- 1Re_12:27ofrecer sacrificios en la casa de J enH3068
+- 1Re_13:1un varón de Dios por palabra de J vinoH3068
+- 1Re_13:2clamó...por palabra de J y dijo: AltarH3068
+- 1Re_13:2así ha dicho J: He aquí que a la casaH3068
+- 1Re_13:3esta es la señal de que J ha hablado: heH3068
+- 1Re_13:5la señal...había dado por palabra de JH3068
+- 1Re_13:6que ruegues ante...de J tu Dios, y oresH3068
+- 1Re_13:6el varón...oró a J, y la mano del rey seH3068
+- 1Re_13:9así me está ordenado por palabra de JH3068
+- 1Re_13:18ha hablado por palabra de J, diciendoH3068
+- 1Re_13:20palabra de J al profeta que le habíaH3068
+- 1Re_13:21dijo J...has sido rebelde al mandato de JH3068
+- 1Re_13:21mandamiento que J...te había prescritoH3068
+- 1Re_13:22y bebiste agua...donde J te había dichoH3068
+- 1Re_13:26el varón...fue rebelde al mandato de JH3068
+- 1Re_13:26por tanto, J le ha entregado al leónH3068
+- 1Re_13:26conforme a la palabra de J que él leH3068
+- 1Re_13:32que él dijo a voces por palabra de JH3068
+- 1Re_14:5J había dicho a Ahías: He aquí que laH3068
+- 1Re_14:7vé y di a Jeroboam: Así dijo J Dios deH3068
+- 1Re_14:11lo comerán los perros...J lo ha dichoH3068
+- 1Re_14:13alguna cosa buena delante de J Dios deH3068
+- 1Re_14:14y J levantará para sí un rey...IsraelH3068
+- 1Re_14:15J sacudirá a Israel al modo que la cañaH3068
+- 1Re_14:15han hecho sus imágenes...enojando a JH3068
+- 1Re_14:18lo endechó...conforme a la palabra de JH3068
+- 1Re_14:21ciudad que J eligió de...las tribus deH3068
+- 1Re_14:22Judá hizo lo malo ante los ojos de JH3068
+- 1Re_14:24naciones que J había echado delante deH3068
+- 1Re_14:26tomó los tesoros de la casa de J, y losH3068
+- 1Re_14:28cuando el rey entraba en la casa de JH3068
+- 1Re_15:3y no fue su corazón perfecto con J suH3068
+- 1Re_15:4por amor a David, J...le dio lámpara enH3068
+- 1Re_15:5David había hecho lo recto ante...de JH3068
+- 1Re_15:11Asa hizo lo recto ante los ojos de JH3068
+- 1Re_15:14el corazón de Asa fue perfecto...con JH3068
+- 1Re_15:15metió en la casa de J lo que su padreH3068
+- 1Re_15:18tomando Asa...el oro...de la casa de JH3068
+- 1Re_15:26,34hizo lo malo ante los ojos de JH3068
+- 1Re_15:29conforme a la palabra que J habló porH3068
+- 1Re_15:30que provocó a enojo a J Dios de IsraelH3068
+- 1Re_16:1vino palabra de J a Jehú hijo de HananiH3068
+- 1Re_16:7palabra de J...había sido contra BaasaH3068
+- 1Re_16:7todo lo malo que hizo ante los ojos de JH3068
+- 1Re_16:12conforme a la...que J había proferidoH3068
+- 1Re_16:13provocando a enojo...a J Dios de IsraelH3068
+- 1Re_16:19haciendo lo malo ante los ojos de JH3068
+- 1Re_16:25,30hizo lo malo ante los ojos de JH3068
+- 1Re_16:26provocando a ira a J Dios de IsraelH3068
+- 1Re_16:33provocar la ira de J Dios de IsraelH3068
+- 1Re_16:34palabra que J había hablado por JosuéH3068
+- 1Re_17:1dijo a Acab: Vive J Dios de Israel, enH3068
+- 1Re_17:2,8vino a él palabra de J, diciendoH3068
+- 1Re_17:5fue e hizo conforme a la palabra de JH3068
+- 1Re_17:12vive J tu Dios, que no tengo pan cocidoH3068
+- 1Re_17:14J Dios de Israel ha dicho...La harinaH3068
+- 1Re_17:14hasta el día en que J haga llover sobreH3068
+- 1Re_17:16la palabra que J había dicho por ElíasH3068
+- 1Re_17:20clamando a J, dijo: J Dios mío, ¿aun aH3068
+- 1Re_17:21a J y dijo: J Dios mío, te ruego queH3068
+- 1Re_17:22J oyó la voz de Elías, y el alma delH3068
+- 1Re_17:24la palabra de J es verdad en tu bocaH3068
+- 1Re_18:1vino palabra de J a Elías en el tercerH3068
+- 1Re_18:3Abdías era en gran manera temeroso de JH3068
+- 1Re_18:4Jezabel destruía a los profetas de JH3068
+- 1Re_18:10vive J tu Dios...no ha habido nación niH3068
+- 1Re_18:12el Espíritu de J te llevará adonde yoH3068
+- 1Re_18:12tu siervo teme a J desde su juventudH3068
+- 1Re_18:13Jezabel mataba a los profetas de JH3068
+- 1Re_18:13escondí a cien...de los profetas de JH3068
+- 1Re_18:15vive J de los...en cuya presencia estoyH3068
+- 1Re_18:18sino tú...dejando los mandamientos de JH3068
+- 1Re_18:21si J es Dios, seguidle; y si Baal, idH3068
+- 1Re_18:22sólo yo he quedado profeta de J; masH3068
+- 1Re_18:24yo invocaré el nombre de J; y el DiosH3068
+- 1Re_18:30y él arregló el altar de J que estabaH3068
+- 1Re_18:31al cual había sido dada palabra de JH3068
+- 1Re_18:32edificó...un altar en el nombre de JH3068
+- 1Re_18:36dijo: J Dios de Abraham, de Isaac y deH3068
+- 1Re_18:37respóndeme, J...que conozca este puebloH3068
+- 1Re_18:37este pueblo que tú, oh J, eres el DiosH3068
+- 1Re_18:38entonces cayó fuego de J, y consumió elH3068
+- 1Re_18:39dijeron: ¡J es el Dios, J es el Dios![[H3068]]
+- 1Re_18:46la mano de J estuvo sobre Elías, el cualH3068
+- 1Re_19:4basta ya, oh J, quítame la vida, pues noH3068
+- 1Re_19:7volviendo al ángel de J la segunda vezH3068
+- 1Re_19:9vino a él palabra de J, el cual le dijoH3068
+- 1Re_19:10,14he sentido un vivo celo por J DiosH3068
+- 1Re_19:11sal...y ponte en el monte delante de JH3068
+- 1Re_19:11y he aquí J que pasaba, y un grande yH3068
+- 1Re_19:11quebraba las peñas delante de J; peroH3068
+- 1Re_19:11pero J no estaba en el viento. Y trasH3068
+- 1Re_19:11tras...pero J no estaba en el terremotoH3068
+- 1Re_19:12un fuego; pero J no estaba en el fuegoH3068
+- 1Re_19:15le dijo J: Vé, vuélvete por tu caminoH3068
+- 1Re_20:13así ha dicho J: ¿Has visto esta granH3068
+- 1Re_20:13,28mano, para que conozcas que yo soy JH3068
+- 1Re_20:14ha dicho J: Por mano de los siervos deH3068
+- 1Re_20:28así dijo J: Por cuanto los sirios hanH3068
+- 1Re_20:28J es Dios de los montes, y no Dios deH3068
+- 1Re_20:36no has obedecido a la palabra de J, heH3068
+- 1Re_20:42así ha dicho J: Por cuanto soltaste deH3068
+- 1Re_21:3guárdeme J de que...dé a ti la heredadH3068
+- 1Re_21:17,28vino palabra de J a Elías tisbitaH3068
+- 1Re_21:19ha dicho J: ¿No mataste, y también hasH3068
+- 1Re_21:19así ha dicho J: En el mismo lugar dondeH3068
+- 1Re_21:20vendido a hacer lo malo delante de JH3068
+- 1Re_21:23de Jezabel...ha hablado J, diciendo: LosH3068
+- 1Re_21:25para hacer lo malo ante los ojos de JH3068
+- 1Re_21:26lanzó J de delante de los...de IsraelH3068
+- 1Re_22:5ruego que consultes hoy la palabra de JH3068
+- 1Re_22:6porque J la entregará en mano del reyH3068
+- 1Re_22:7¿hay...algún profeta de J, por el cualH3068
+- 1Re_22:8por el cual podríamos consultar a JH3068
+- 1Re_22:11así ha dicho J: Con éstos acornearásH3068
+- 1Re_22:12porque J la entregará en mano del reyH3068
+- 1Re_22:14vive J, que lo que J me hablare, esoH3068
+- 1Re_22:15sube...J la entregará en mano del reyH3068
+- 1Re_22:16me digas, la verdad en el nombre de J?[[H3068]]
+- 1Re_22:17vi a...y J dijo: Estos no tienen señorH3068
+- 1Re_22:19él dijo: Oye...palabra de J: Yo vi a JH3068
+- 1Re_22:20J dijo: ¿Quién inducirá a Acab, paraH3068
+- 1Re_22:21un espíritu y se puso delante de JH3068
+- 1Re_22:21induciré. Y J le dijo: ¿De qué manera?[[H3068]]
+- 1Re_22:23J ha puesto espíritu de mentira en laH3068
+- 1Re_22:23y J ha decretado el mal acerca de tiH3068
+- 1Re_22:24dónde se fue de mí el Espíritu de JH3068
+- 1Re_22:28volver en paz, J no ha hablado por míH3068
+- 1Re_22:38conforme a la palabra que J...habladoH3068
+- 1Re_22:43haciendo lo recto ante los ojos de JH3068
+- 1Re_22:52; 2Re_3:2; 8:18,27; 13:2,11; 14:24; 15:9, 18,24,28; 17:2; 21:2,20; 23:32,37; 24:9,19hizo lo malo ante los ojos de JH3068
+- 1Re_22:53y provocó a ira a J Dios de IsraelH3068
+- 2Re_1:3el ángel de J habló a Elías tisbitaH3068
+- 2Re_1:4así ha dicho J: Del lecho en que estásH3068
+- 2Re_1:6así ha dicho 1: ¿No hay Dios en IsraelH3068
+- 2Re_1:15el ángel de J dijo a Elías: DesciendeH3068
+- 2Re_1:16dijo: Así ha dicho J: Por cuanto enviasteH3068
+- 2Re_1:17murió, conforme a la palabra de J, queH3068
+- 2Re_2:1que cuando quiso J alzar a Elías en unH3068
+- 2Re_2:2,4,6quédate aquí...porque J me ha enviadoH3068
+- 2Re_2:2,4,6Eliseo dijo: Vive J...que no te dejaréH3068
+- 2Re_2:3,5¿sabes que J te quitará hoy a tu señorH3068
+- 2Re_2:14dijo: ¿Dónde está J, el Dios de Elías?[[H3068]]
+- 2Re_2:16lo ha levantado el Espíritu de J, y loH3068
+- 2Re_2:21así ha dicho J: Yo sané estas aguas, yH3068
+- 2Re_2:24los vio, y los maldijo en el nombre de JH3068
+- 2Re_3:10que ha llamado J a estos tres reyes paraH3068
+- 2Re_3:11dijo: ¿No hay aquí profeta de J, para queH3068
+- 2Re_3:11que consultemos a J por medio de él?[[H3068]]
+- 2Re_3:12Josafat dijo: Este tendrá palabra de JH3068
+- 2Re_3:13J ha reunido a estos tres reyes paraH3068
+- 2Re_3:14dijo: Vive J de los ejércitos, en cuyaH3068
+- 2Re_3:15tocaba, la mano de J vino sobre EliseoH3068
+- 2Re_3:16ha dicho J: Haced en este valle muchosH3068
+- 2Re_3:17porque J ha dicho así: No veréis vientoH3068
+- 2Re_3:18y esto es cosa ligera en los ojos de JH3068
+- 2Re_4:1tú sabes que tu siervo era temeroso de JH3068
+- 2Re_4:27J me ha encubierto el motivo, y no meH3068
+- 2Re_4:30vive J, y vive tu alma, que no te dejaréH3068
+- 2Re_4:33cerró la puerta tras ambos, y oró a JH3068
+- 2Re_4:43así ha dicho J: Comerán, y sobraráH3068
+- 2Re_4:44les sobró, conforme a la palabra de JH3068
+- 2Re_5:1por...él había dado J salvación a SiriaH3068
+- 2Re_5:11en pie invocará el nombre de J su DiosH3068
+- 2Re_5:16mas él dijo: Vive J...que no lo aceptaréH3068
+- 2Re_5:17tu siervo no sacrificará...sino a JH3068
+- 2Re_5:18esto perdone J a tu siervo: que cuandoH3068
+- 2Re_5:18haga tal, J perdone en esto a tu siervoH3068
+- 2Re_5:20vive J, que correré yo tras él y tomaréH3068
+- 2Re_6:17oh J, que abras sus ojos...J abrió losH3068
+- 2Re_6:18Eliseo a J, y dijo: Te ruego que hierasH3068
+- 2Re_6:20J, abre los ojos a éstos...y J abrió losH3068
+- 2Re_6:27si no te salva J, ¿de dónde te puedoH3068
+- 2Re_6:33dijo: Ciertamente este mal de J vieneH3068
+- 2Re_6:33mal...¿Para qué he de esperar más a J?[[H3068]]
+- 2Re_7:1oíd palabra de J...Así dijo J: Mañana aH3068
+- 2Re_7:2,19J hiciese ahora ventanas en el cieloH3068
+- 2Re_7:6J había hecho que en...se oyese estruendoH3068
+- 2Re_7:16por un siclo, conforme a la palabra de JH3068
+- 2Re_8:1J ha llamado el hambre, la cual vendráH3068
+- 2Re_8:8al varón de Dios, y consulta por él a JH3068
+- 2Re_8:10J me ha mostrado...él morirá ciertamenteH3068
+- 2Re_8:13J me ha mostrado...tú serás rey de SiriaH3068
+- 2Re_8:19J no quiso destruir a Judá, por amor aH3068
+- 2Re_9:3,6,12así dijo J: Yo te he ungido por reyH3068
+- 2Re_9:6ungido por rey sobre Israel, pueblo de JH3068
+- 2Re_9:7la sangre de todos los siervos de J, deH3068
+- 2Re_9:25J pronunció esta sentencia sobre élH3068
+- 2Re_9:26he visto ayer la sangre de Nabot...dijo JH3068
+- 2Re_9:26te daré la paga en esta heredad, dijo JH3068
+- 2Re_9:26échalo en...conforme a la palabra de JH3068
+- 2Re_10:10la palabra que J habló sobre la casaH3068
+- 2Re_10:10J ha hecho lo que dijo por su siervoH3068
+- 2Re_10:16le...Ven conmigo, y verás mi celo por JH3068
+- 2Re_10:17mató...conforme a la palabra de J, queH3068
+- 2Re_10:23ved que no haya...de los siervos de JH3068
+- 2Re_10:30J dijo a Jehú: Por cuanto has hechoH3068
+- 2Re_10:31Jehú no cuidó de andar en la ley de JH3068
+- 2Re_10:32comenzó J a cercenar el territorio deH3068
+- 2Re_11:3escondido en la casa de J seis añosH3068
+- 2Re_11:4los metió consigo en la casa de J, eH3068
+- 2Re_11:4juramentándolos en la casa de J: y lesH3068
+- 2Re_11:7la guardia de la casa de j junto al reyH3068
+- 2Re_11:10lanzas y...que estaban en la casa de JH3068
+- 2Re_11:13Atalía...al pueblo en el templo de JH3068
+- 2Re_11:15que no la matasen en el templo de JH3068
+- 2Re_11:17hizo pacto entre J y el rey y el puebloH3068
+- 2Re_11:17Joiada hizo pacto...serían pueblo de JH3068
+- 2Re_11:18puso guarnición sobre la casa de JH3068
+- 2Re_11:19y llevaron al rey desde la casa de JH3068
+- 2Re_12:2Joás hizo lo recto ante...de J todo elH3068
+- 2Re_12:4dinero...se suele traer a la casa de JH3068
+- 2Re_12:9puso...que se entra en el templo de JH3068
+- 2Re_12:9el dinero que se traía a la casa de JH3068
+- 2Re_12:10dinero que hallaban en el templo de JH3068
+- 2Re_12:11los que tenían a su cargo la casa de JH3068
+- 2Re_12:11y maestros que reparaban la casa de JH3068
+- 2Re_12:12para reparar las grietas de la casa de JH3068
+- 2Re_12:13dinero que se traía a la casa de J, noH3068
+- 2Re_12:13ningún otro...hacía para el templo de JH3068
+- 2Re_12:14daban...con él reparaban la casa de JH3068
+- 2Re_12:16dinero...no se llevaba a la casa de JH3068
+- 2Re_12:18el oro que se halló en...la casa de JH3068
+- 2Re_13:3se encendió el furor de J contra IsraelH3068
+- 2Re_13:4Joacaz oró en presencia de J...J lo oyóH3068
+- 2Re_13:5y dio J salvador a Israel, y salieronH3068
+- 2Re_13:17saeta de salvación de J, y saeta deH3068
+- 2Re_13:23mas J tuvo misericordia de ellos, y seH3068
+- 2Re_14:3y él hizo lo recto ante los ojos de JH3068
+- 2Re_14:6donde J mandó diciendo: No matarán a losH3068
+- 2Re_14:14utensilios...hallados en la casa de JH3068
+- 2Re_14:25Arabá, conforme a la palabra de J DiosH3068
+- 2Re_14:26porque J miró la...aflicción de IsraelH3068
+- 2Re_14:27J no había determinado raer...de IsraelH3068
+- 2Re_15:3,34hizo lo recto ante los ojos de JH3068
+- 2Re_15:5mas J hirió al rey con lepra, y estuvoH3068
+- 2Re_15:12fue la palabra de J que había habladoH3068
+- 2Re_15:34hizo lo recto ante los ojos de J; hizoH3068
+- 2Re_15:35edificó él la puerta...de la casa de JH3068
+- 2Re_15:37comenzó J a enviar contra Judá a RezínH3068
+- 2Re_16:2y no hizo lo recto ante...de J su DiosH3068
+- 2Re_16:3naciones que J echó de delante de losH3068
+- 2Re_16:8y el oro que se halló en la casa de JH3068
+- 2Re_16:14altar...que estaba delante de J, en laH3068
+- 2Re_16:14entre el altar y el templo de J, y loH3068
+- 2Re_16:18y los quitó del templo de J, por causaH3068
+- 2Re_17:7los hijos de Israel pecaron contra J suH3068
+- 2Re_17:8de las naciones que J había lanzado deH3068
+- 2Re_17:9hicieron...cosas no rectas contra J suH3068
+- 2Re_17:11las naciones que J había traspuesto deH3068
+- 2Re_17:11cosas...malas para provocar a ira a JH3068
+- 2Re_17:12J les había dicho...no habéis de hacerH3068
+- 2Re_17:13J amonestó entonces a Israel y a JudáH3068
+- 2Re_17:14sus padres, los cuales no creyeron en JH3068
+- 2Re_17:15J les había mandado que no hiciesen aH3068
+- 2Re_17:16dejaron todos los mandamientos de JH3068
+- 2Re_17:17a hacer lo malo ante los ojos de JH3068
+- 2Re_17:18J...airó en gran manera contra IsraelH3068
+- 2Re_17:19ni...Judá guardó los mandamientos de JH3068
+- 2Re_17:20desechó J...la descendencia de IsraelH3068
+- 2Re_17:21apartó a Israel de en pos de J, y lesH3068
+- 2Re_17:23hasta que J quitó a Israel de delanteH3068
+- 2Re_17:25no temiendo ellos a J, envió J contraH3068
+- 2Re_17:28y les enseñó cómo habían de temer a JH3068
+- 2Re_17:32temían a J, e hicieron...sacerdotes deH3068
+- 2Re_17:33temían a J, y honraban a sus diosesH3068
+- 2Re_17:34ni temen a J, ni guardan sus estatutosH3068
+- 2Re_17:34los mandamientos que prescribió J a losH3068
+- 2Re_17:35con los cuales J había hecho pacto, yH3068
+- 2Re_17:36a J, que os sacó de tierra de EgiptoH3068
+- 2Re_17:39temed a J vuestro Dios...él os libraráH3068
+- 2Re_17:41así temieron a J aquellas gentes, y alH3068
+- 2Re_18:3hizo lo recto ante los ojos de J...queH3068
+- 2Re_18:5en J Dios de Israel puso su esperanzaH3068
+- 2Re_18:6siguió a J, y no se apartó de él, sinoH3068
+- 2Re_18:6guardó...mandamientos que J prescribióH3068
+- 2Re_18:7y J estaba con él, y adondequiera queH3068
+- 2Re_18:12no habían atendido a la voz de J...DiosH3068
+- 2Re_18:12que Moisés siervo de J había mandadoH3068
+- 2Re_18:15toda la plata...en la casa de J, y enH3068
+- 2Re_18:16el oro de las puertas del templo de JH3068
+- 2Re_18:22si me decís: Nosotros confiamos en JH3068
+- 2Re_18:25¿acaso he venido...sin J a este lugarH3068
+- 2Re_18:25J me ha dicho: Sube a esta tierra, yH3068
+- 2Re_18:30y no os haga Ezequías confiar en JH3068
+- 2Re_18:30diciendo: Ciertamente nos librará JH3068
+- 2Re_18:32os engaña cuando dice: J nos libraráH3068
+- 2Re_18:35que J libre de mi mano a Jerusalén?[[H3068]]
+- 2Re_19:1se cubrió de...y entró en la casa de JH3068
+- 2Re_19:4oirá J tu Dios...palabras del RabsacesH3068
+- 2Re_19:4palabras, las cuales J tu Dios ha oídoH3068
+- 2Re_19:6ha dicho J: No temas por las palabrasH3068
+- 2Re_19:14subió a la casa de J, y las extendióH3068
+- 2Re_19:14y las extendió Ezequías delante de JH3068
+- 2Re_19:15y oró Ezequías delante de J, diciendoH3068
+- 2Re_19:15J Dios de Israel, que moras entre losH3068
+- 2Re_19:16inclina, oh J, tu oído...oh J tus ojosH3068
+- 2Re_19:17verdad, oh J, que los reyes de AsiriaH3068
+- 2Re_19:19oh J...sálvanos, te ruego, de su manoH3068
+- 2Re_19:19sepan todos...que sólo tú, J, eres DiosH3068
+- 2Re_19:20ha dicho J...Lo que me pediste acercaH3068
+- 2Re_19:21palabra que J ha pronunciado acerca deH3068
+- 2Re_19:23has vituperado a J, y has dicho: ConH3068
+- 2Re_19:31el celo de J de los ejércitos hará estoH3068
+- 2Re_19:32así dice J acerca del rey de Asiria: NoH3068
+- 2Re_19:33y no entrará en esta ciudad, dice JH3068
+- 2Re_19:35noche salió el ángel de J, y mató enH3068
+- 2Re_20:1J dice así: Ordena tu casa...morirás, yH3068
+- 2Re_20:2volvió su rostro a la pared, y oró a JH3068
+- 2Re_20:3J, te ruego que hagas memoria de queH3068
+- 2Re_20:4vino palabra de J a Isaías, diciendoH3068
+- 2Re_20:5así dice J, el Dios de David tu padreH3068
+- 2Re_20:5al tercer día subirás a la casa de JH3068
+- 2Re_20:8¿qué señal tendré de que J me sanaráH3068
+- 2Re_20:8que subiré a la casa de J al tercer día?[[H3068]]
+- 2Re_20:9esta señal tendrás de J...que hará J estoH3068
+- 2Re_20:11clamó a J; e hizo volver la sombra porH3068
+- 2Re_20:16Isaías...a Ezequías: Oye palabra de JH3068
+- 2Re_20:17será llevado...sin quedar nada, dijo JH3068
+- 2Re_20:19palabra de J que has hablado, es buenaH3068
+- 2Re_21:2de las naciones que J había echado deH3068
+- 2Re_21:4la casa de J de la cual J había dichoH3068
+- 2Re_21:5altares...dos atrios de la casa de JH3068
+- 2Re_21:6hacer lo malo ante los ojos de J, paraH3068
+- 2Re_21:7la casa de la cual J había dicho a DavidH3068
+- 2Re_21:9más mal que las naciones que J destruyóH3068
+- 2Re_21:10habló...J por medio de sus...los profetasH3068
+- 2Re_21:12así ha dicho J...traigo tal mal sobreH3068
+- 2Re_21:16que hiciese lo malo ante los ojos de JH3068
+- 2Re_21:22dejó a J el Dios de sus padres, y noH3068
+- 2Re_21:22dejó a...y no anduvo en el camino de JH3068
+- 2Re_22:2e hizo lo recto ante los ojos de J, yH3068
+- 2Re_22:3envió el rey a Safán...a la casa de JH3068
+- 2Re_22:4el dinero que han traído a la casa de JH3068
+- 2Re_22:5,9a su cargo el arreglo de la casa de JH3068
+- 2Re_22:5los que hacen la obra de la casa de JH3068
+- 2Re_22:8he hallado el libro de...en la casa de JH3068
+- 2Re_22:13preguntad a J por mí, y por el puebloH3068
+- 2Re_22:13grande es la ira de J...se ha encendidoH3068
+- 2Re_22:15ha dicho J el Dios de Israel: Decid alH3068
+- 2Re_22:16dijo J: He aquí yo traigo sobre esteH3068
+- 2Re_22:18os ha enviado para que preguntaseis a JH3068
+- 2Re_22:18así ha dicho J...Por cuanto oíste lasH3068
+- 2Re_22:19te humillaste delante de J...oíste loH3068
+- 2Re_22:19lloraste en mi, yo te he oído, dice JH3068
+- 2Re_23:2subió el rey a la casa de J con todosH3068
+- 2Re_23:2leyó...del libro...hallado en la casa de JH3068
+- 2Re_23:3pacto...de J, de que irían en pos de JH3068
+- 2Re_23:4que sacasen del templo de J todos losH3068
+- 2Re_23:6sacar la imagen...fuera de la casa de JH3068
+- 2Re_23:7prostitución idolátrica...la casa de JH3068
+- 2Re_23:9los sacerdotes...no subían al altar de JH3068
+- 2Re_23:11caballos...a la entrada del templo de JH3068
+- 2Re_23:12en los dos atrios de la casa de J; y deH3068
+- 2Re_23:16conforme a la palabra de J que habíaH3068
+- 2Re_23:21haced la pascua a J...Dios, conforme aH3068
+- 2Re_23:23hecha aquella pascua a J en JerusalénH3068
+- 2Re_23:24en el libro...hallado en la casa de JH3068
+- 2Re_23:25no hubo otro rey...se convirtiese a JH3068
+- 2Re_23:26con todo eso, J no desistió del ardorH3068
+- 2Re_23:27dijo J: También quitaré...a Judá, comoH3068
+- 2Re_24:2J envió contra Joacim tropas de caldeosH3068
+- 2Re_24:2la palabra de J que había hablado porH3068
+- 2Re_24:3vino esto contra Judá por mandato de JH3068
+- 2Re_24:4sangre inocente; J...no quiso perdonarH3068
+- 2Re_24:13sacó de allí...tesoros de la casa de JH3068
+- 2Re_24:13en la casa de J, como J había dichoH3068
+- 2Re_24:20vino...ira de J contra Jerusalén y JudáH3068
+- 2Re_25:9quemó la casa de J, y la casa del reyH3068
+- 2Re_25:13quebraron...columnas...en la casa de JH3068
+- 2Re_25:13el mar de bronce que...en la casa de JH3068
+- 2Re_25:16un mar, y las basas...para la casa de JH3068
+- 1Cr_2:3Er...fue malo delante de J...lo matóH3068
+- 1Cr_5:25pueblos...a los cuales J había quitadoH3068
+- 1Cr_6:15llevado cautivo cuando J transportó aH3068
+- 1Cr_6:31el servicio de canto en la casa de JH3068
+- 1Cr_6:32hasta que Salomón edificó la casa de JH3068
+- 1Cr_9:19sus padres guardaron la entrada...de JH3068
+- 1Cr_9:20Finees...fue...capitán...J estaba con élH3068
+- 1Cr_9:23eran porteros...de la casa de J, y de laH3068
+- 1Cr_10:13contra J, contra la palabra de J, laH3068
+- 1Cr_10:14y no consultó a J; por esta causa loH3068
+- 1Cr_11:2J tu Dios te ha dicho: Tú apacentarásH3068
+- 1Cr_11:3David hizo con ellos pacto delante de JH3068
+- 1Cr_11:3a la palabra de J por medio de SamuelH3068
+- 1Cr_11:9y J de los ejércitos estaba con élH3068
+- 1Cr_11:10rey sobre...conforme a la palabra de JH3068
+- 1Cr_11:14J los favoreció con una gran victoriaH3068
+- 1Cr_11:18no la quiso beber...la derramó para JH3068
+- 1Cr_12:23el reino de...conforme a la palabra de JH3068
+- 1Cr_13:2y si es la voluntad de J nuestro DiosH3068
+- 1Cr_13:6para pasar de allí el arca de J DiosH3068
+- 1Cr_13:10el furor de J se encendió contra UzaH3068
+- 1Cr_13:11porque J había quebrantado a Uza; porH3068
+- 1Cr_13:14bendijo J la casa de Obed-edom, y todoH3068
+- 1Cr_14:2y entendió David...J lo había confirmadoH3068
+- 1Cr_14:10y J le dijo: Sube...yo los entregaré enH3068
+- 1Cr_14:17J puso el temor de David sobre todasH3068
+- 1Cr_15:2ha elegido J...que lleven el arca de JH3068
+- 1Cr_15:3que pasasen el arca de J a su lugar, elH3068
+- 1Cr_15:12pasad el arca de J Dios de Israel alH3068
+- 1Cr_15:13J...Dios nos quebrantó, por cuanto noH3068
+- 1Cr_15:14santificaron para traer el arca de JH3068
+- 1Cr_15:15el arca de...conforme a la palabra de JH3068
+- 1Cr_15:25fueron a traer el arca del pacto de JH3068
+- 1Cr_15:26los levitas que llevaban el arca...de JH3068
+- 1Cr_15:28llevaba...Israel el arca del pacto de JH3068
+- 1Cr_15:29cuando el arca del pacto de J llegó aH3068
+- 1Cr_16:2bendijo al pueblo en el nombre de JH3068
+- 1Cr_16:4puso delante del arca de J ministros deH3068
+- 1Cr_16:4para que recordasen...y loasen a J DiosH3068
+- 1Cr_16:7David comenzó a aclamar a J por mano deH3068
+- 1Cr_16:8alabad a J, invocad su nombre, dad aH3068
+- 1Cr_16:10alégrese el corazón de los que buscan a JH3068
+- 1Cr_16:11buscad a J y su poder; buscad su rostroH3068
+- 1Cr_16:14J, él es nuestro Dios; sus juiciosH3068
+- 1Cr_16:23cantad a J toda la tierra; proclamadH3068
+- 1Cr_16:25porque grande es J, y digno...alabanzaH3068
+- 1Cr_16:26dioses...ídolos; mas J hizo los cielosH3068
+- 1Cr_16:28tributad a J...dad a J gloria y poderH3068
+- 1Cr_16:29dad a J la honra debida a su nombreH3068
+- 1Cr_16:29postraos delante de J en...la santidadH3068
+- 1Cr_16:31y digan en las naciones: J reinaH3068
+- 1Cr_16:33cantarán los árboles de...delante de JH3068
+- 1Cr_16:34aclamad a J, porque él es bueno; porqueH3068
+- 1Cr_16:36bendito sea J Dios de...en eternidadH3068
+- 1Cr_16:36y dijo...el pueblo, Amén, y alabó a JH3068
+- 1Cr_16:37allí, delante del arca del pacto de JH3068
+- 1Cr_16:39delante del tabernáculo de J en elH3068
+- 1Cr_16:40sacrificasen...holocaustos a J en elH3068
+- 1Cr_16:40conforme a todo...la ley de J, que élH3068
+- 1Cr_16:41glorificar a J, porque es eterna suH3068
+- 1Cr_17:1arca del pacto de J debajo de cortinasH3068
+- 1Cr_17:4ha dicho J: Tú no me edificarás casa enH3068
+- 1Cr_17:7mi siervo David: Así ha dicho J de losH3068
+- 1Cr_17:10te hago saber...que J te edificará casaH3068
+- 1Cr_17:16David...delante de J, y dijo: J DiosH3068
+- 1Cr_17:17me has mirado como a...excelente, oh JH3068
+- 1Cr_17:19J, por amor de tu siervo y...has hechoH3068
+- 1Cr_17:20J, no hay semejante a ti, ni hay DiosH3068
+- 1Cr_17:22y tú, J, has venido a ser su DiosH3068
+- 1Cr_17:23J, la palabra...sea firme para siempreH3068
+- 1Cr_17:24J de los ejércitos, Dios de IsraelH3068
+- 1Cr_17:26J, tú eres el Dios que has hablado deH3068
+- 1Cr_17:27tu, J, la has bendecido, y será benditaH3068
+- 1Cr_18:6porque J daba la victoria a DavidH3068
+- 1Cr_18:11el rey David dedicó a J, con la plataH3068
+- 1Cr_18:13porque J daba el triunfo a DavidH3068
+- 1Cr_19:13esfuérzate...y haga J lo que bien leH3068
+- 1Cr_21:3añada J a su pueblo cien veces más, reyH3068
+- 1Cr_21:9habló J a Gad, vidente de DavidH3068
+- 1Cr_21:10y dile: Así ha dicho J: Tres cosas teH3068
+- 1Cr_21:11Gad a David, le dijo: Así ha dicho JH3068
+- 1Cr_21:12por tres días la espada de J...la pesteH3068
+- 1Cr_21:12que el ángel de J haga destrucción enH3068
+- 1Cr_21:13ruego que yo caiga en la mano de JH3068
+- 1Cr_21:14así J envió una peste en Israel, yH3068
+- 1Cr_21:15y envió J el ángel a Jerusalén paraH3068
+- 1Cr_21:15miró J y se arrepintió de aquel malH3068
+- 1Cr_21:15el ángel de J estaba junto a la eraH3068
+- 1Cr_21:16vio al ángel de J, que estaba entreH3068
+- 1Cr_21:17J Dios mío, sea ahora tu mano contraH3068
+- 1Cr_21:18el ángel de J ordenó a Gad que dijeseH3068
+- 1Cr_21:18construyese un altar a J en la era deH3068
+- 1Cr_21:19que Gad le había dicho en nombre de JH3068
+- 1Cr_21:22era, para que edifique un altar a JH3068
+- 1Cr_21:24porque no tomaré para J lo que es tuyoH3068
+- 1Cr_21:26edificó allí David un altar a J, en elH3068
+- 1Cr_21:26e invocó a J, quien le respondió porH3068
+- 1Cr_21:27J habló al ángel, y...volvió su espadaH3068
+- 1Cr_21:28viendo David que J le había oído en laH3068
+- 1Cr_21:29el tabernáculo de J...estaban...GabaónH3068
+- 1Cr_21:30atemorizado a causa de...del ángel de JH3068
+- 1Cr_22:1David: Aquí estará la casa de J DiosH3068
+- 1Cr_22:5la casa que se ha de edificar a J ha deH3068
+- 1Cr_22:6le mandó que edificase casa a J DiosH3068
+- 1Cr_22:7tuve el edificar templo al nombre de JH3068
+- 1Cr_22:8vino a mí palabra de J...no edificarásH3068
+- 1Cr_22:11ahora pues, hijo mío, J esté contigoH3068
+- 1Cr_22:11edifiques casa a J tu Dios, como él haH3068
+- 1Cr_22:12y J te dé entendimiento y prudenciaH3068
+- 1Cr_22:12cuando gobiernes...guardes la ley de JH3068
+- 1Cr_22:13y decretos que J mandó a Moisés paraH3068
+- 1Cr_22:14he preparado para la casa de J...de oroH3068
+- 1Cr_22:16y manos a la obra; y J esté contigoH3068
+- 1Cr_22:18¿no está con vosotros J vuestro DiosH3068
+- 1Cr_22:18tierra ha sido sometida delante de JH3068
+- 1Cr_22:19poned...vuestros ánimos en buscar a JH3068
+- 1Cr_22:19edificad el santuario de J Dios, paraH3068
+- 1Cr_22:19para traer el arca del pacto de J, yH3068
+- 1Cr_22:19a la casa edificada al nombre de JH3068
+- 1Cr_23:4para dirigir la obra de la casa de JH3068
+- 1Cr_23:5y 4.000 para alabar a J, dijo David, conH3068
+- 1Cr_23:13para que quemasen incienso delante de JH3068
+- 1Cr_23:24Leví...en el ministerio de la casa de JH3068
+- 1Cr_23:25J Dios...ha dado paz a su pueblo IsraelH3068
+- 1Cr_23:28Aarón para ministrar en la casa de JH3068
+- 1Cr_23:30dar gracias y tributar alabanzas a JH3068
+- 1Cr_23:31ofrecer todos los holocaustos a J losH3068
+- 1Cr_23:31ofrecer...continuamente delante de JH3068
+- 1Cr_23:32tuviesen...el ministerio de la casa de JH3068
+- 1Cr_24:19que entrasen en la casa de J, segúnH3068
+- 1Cr_24:19le había mandado J el Dios de IsraelH3068
+- 1Cr_25:3profetizaba con arpa, para...alabar a JH3068
+- 1Cr_25:6en la casa de J, con címbalos...y arpasH3068
+- 1Cr_25:7Instruidos en el canto para J...los aptosH3068
+- 1Cr_26:12porteros...para servir en la casa de JH3068
+- 1Cr_26:22cargo de los tesoros de la casa de JH3068
+- 1Cr_26:27los botines, para reparar la casa de JH3068
+- 1Cr_26:30la obra de J, y en el servicio del reyH3068
+- 1Cr_27:23J había dicho que él multiplicaría aH3068
+- 1Cr_28:2cual reposara el arca del pacto de JH3068
+- 1Cr_28:4J...eligió de toda la casa de mi padreH3068
+- 1Cr_28:5J me ha dado muchos hijos) eligió a miH3068
+- 1Cr_28:5se siente en el trono del reino de JH3068
+- 1Cr_28:8ante...congregación de J, y en oídos deH3068
+- 1Cr_28:8guardad e inquirid...los preceptos de JH3068
+- 1Cr_28:9J escudriña los corazones de todos, yH3068
+- 1Cr_28:10J te ha elegido para que edifiques casaH3068
+- 1Cr_28:12para los atrios de la casa de J, paraH3068
+- 1Cr_28:13para toda la obra del...de la casa de JH3068
+- 1Cr_28:13todos los utensilios...de la casa de JH3068
+- 1Cr_28:18alas...cubrían el arca del pacto de JH3068
+- 1Cr_28:19me fueron trazadas por la mano de JH3068
+- 1Cr_28:20J Dios, mi Dios, estará contigo; él noH3068
+- 1Cr_28:20acabes toda la obra...de la casa de JH3068
+- 1Cr_29:1la casa no es para hombre, sino para JH3068
+- 1Cr_29:5quiere hacer...ofrenda voluntaria a J?[[H3068]]
+- 1Cr_29:8las dio para el tesoro de la casa de JH3068
+- 1Cr_29:9porque de todo corazón ofrecieron a JH3068
+- 1Cr_29:10David...bendijo a J delante de toda laH3068
+- 1Cr_29:10David: Bendito seas tú, oh J, Dios deH3068
+- 1Cr_29:11tuya es, oh J, la magnificencia y elH3068
+- 1Cr_29:11tuyo, oh J, es el reino, y tú...excelsoH3068
+- 1Cr_29:16J...toda esta abundancia...todo es tuyoH3068
+- 1Cr_29:18J...conserva...esta voluntad del corazónH3068
+- 1Cr_29:20bendecid ahora a J...bendijo a J DiosH3068
+- 1Cr_29:20toda la...adoraron delante de J y del reyH3068
+- 1Cr_29:21sacrificaron...a J, y ofrecieron a JH3068
+- 1Cr_29:22comieron...delante de J aquel día conH3068
+- 1Cr_29:22ante J le ungieron por príncipe, y aH3068
+- 1Cr_29:23sentó Salomón por rey en el trono de JH3068
+- 1Cr_29:25y J engrandeció...a Salomón a ojos deH3068
+- 2Cr_1:1Salomón hijo...J su Dios estaba con élH3068
+- 2Cr_1:3que Moisés siervo de J había hecho en elH3068
+- 2Cr_1:5el altar...delante del tabernáculo de JH3068
+- 2Cr_1:6subió, pues, Salomón allá delante de JH3068
+- 2Cr_1:9confírmese...oh J Dios, tu palabra dada aH3068
+- 2Cr_2:1edificar casa al nombre de J, y casa paraH3068
+- 2Cr_2:4tengo que edificar casa al nombre de JH3068
+- 2Cr_2:4festividades de J nuestro Dios: lo cualH3068
+- 2Cr_2:11porque J amó a su pueblo, te ha puestoH3068
+- 2Cr_2:12bendito sea J el Dios de Israel, queH3068
+- 2Cr_2:12un hijo sabio...que edifique casa a JH3068
+- 2Cr_3:1comenzó Salomón a edificar la casa de JH3068
+- 2Cr_4:16todos sus enseres...para la casa de JH3068
+- 2Cr_5:1acabada toda la obra...para la casa de JH3068
+- 2Cr_5:2que trajesen el arca del pacto de J deH3068
+- 2Cr_5:7metieron el arca del pacto de J en suH3068
+- 2Cr_5:10con las cuales J había hecho pacto conH3068
+- 2Cr_5:13cantaban todos...alabar y dar gracias a JH3068
+- 2Cr_5:13y alababan a J, diciendo: Porque él esH3068
+- 2Cr_5:13casa se llenó de una nube, la casa de JH3068
+- 2Cr_5:14la gloria de J había llenado la casaH3068
+- 2Cr_6:1Salomón...J ha dicho que él habitaría enH3068
+- 2Cr_6:4bendito sea J Dios de Israel, quien conH3068
+- 2Cr_6:7edificar casa al nombre de J Dios deH3068
+- 2Cr_6:8mas J dijo a David mi padre: Respecto aH3068
+- 2Cr_6:10y J ha cumplido su palabra que hablaH3068
+- 2Cr_6:10me he sentado en el...como J había dichoH3068
+- 2Cr_6:10he edificado casa al nombre de J DiosH3068
+- 2Cr_6:11el arca, en la cual está el pacto de JH3068
+- 2Cr_6:12se puso luego...delante del altar de JH3068
+- 2Cr_6:14J Dios...no hay Dios semejante a ti enH3068
+- 2Cr_6:16J...cumple a tu siervo David mi padre loH3068
+- 2Cr_6:17J Dios de Israel, cúmplase tu palabraH3068
+- 2Cr_6:19mirarás a la oración de tu siervo...oh JH3068
+- 2Cr_6:41J Dios, levántate ahora para habitar enH3068
+- 2Cr_6:41oh J Dios, sean vestidos de salvaciónH3068
+- 2Cr_6:42J...no rechaces a tu ungido; acuérdateH3068
+- 2Cr_7:1fuego de...y la gloria de J llenó la casaH3068
+- 2Cr_7:2y no podían entrar los...en la casa de JH3068
+- 2Cr_7:2gloria de J había llenado la casa de JH3068
+- 2Cr_7:3descender el fuego y la gloria de J sobreH3068
+- 2Cr_7:3y alabaron a J, diciendo: Porque él esH3068
+- 2Cr_7:4rey...sacrificaron víctimas delante de JH3068
+- 2Cr_7:6levitas, con los instrumentos de...de JH3068
+- 2Cr_7:6había hecho el rey David para alabar a JH3068
+- 2Cr_7:7atrio que estaba delante de la casa de JH3068
+- 2Cr_7:10gozosos de...los beneficios que J habíaH3068
+- 2Cr_7:11terminó, pues, Salomón la casa de J, yH3068
+- 2Cr_7:11propuso hacer en la casa de J, y en suH3068
+- 2Cr_7:12y apareció J a Salomón de noche, y leH3068
+- 2Cr_7:21¿por qué ha hecho así J a esta...casa?[[H3068]]
+- 2Cr_7:22cuanto dejaron a J Dios de sus padresH3068
+- 2Cr_8:1Salomón había edificado la casa de J yH3068
+- 2Cr_8:11ha entrado el arca de J, son sagradasH3068
+- 2Cr_8:12holocaustos a J sobre el altar de J queH3068
+- 2Cr_8:16pusieron los cimientos de la casa de JH3068
+- 2Cr_8:16la casa de J fue acabada totalmenteH3068
+- 2Cr_9:4escalinata...donde subía a la casa de JH3068
+- 2Cr_9:8bendito sea J tu Dios, el cual se haH3068
+- 2Cr_9:8ponerte sobre su trono como rey para JH3068
+- 2Cr_9:11el rey hizo gradas en la casa de J yH3068
+- 2Cr_10:15para que J cumpliera la palabra queH3068
+- 2Cr_11:2vino palabra de J a Semaías varón deH3068
+- 2Cr_11:4así ha dicho J: No subáis, ni peleéisH3068
+- 2Cr_11:4oyeron la palabra de J y se volvieronH3068
+- 2Cr_11:14los excluyeron del ministerio de JH3068
+- 2Cr_11:16en buscar a J...ofrecer sacrificios a JH3068
+- 2Cr_12:1dejó la ley de J, y todo Israel con élH3068
+- 2Cr_12:2por cuanto se habían rebelado contra JH3068
+- 2Cr_12:5ha dicho J: Vosotros me habéis dejadoH3068
+- 2Cr_12:6se humillaron, y dijeron: Justo es JH3068
+- 2Cr_12:7J vio que se habían...vino palabra de JH3068
+- 2Cr_12:9tomó los tesoros de la casa de J, y losH3068
+- 2Cr_12:11cuando el rey...a la casa de J, veníanH3068
+- 2Cr_12:12la ira de J se apartó de él, para noH3068
+- 2Cr_12:13en Jerusalén, ciudad que escogió J deH3068
+- 2Cr_12:14no dispuso su corazón para buscar a JH3068
+- 2Cr_13:5J Dios de Israel dio el reino a DavidH3068
+- 2Cr_13:8tratáis de resistir al reino de J enH3068
+- 2Cr_13:9habéis arrojado...a los sacerdotes de JH3068
+- 2Cr_13:10nosotros, J es nuestro Dios, y no leH3068
+- 2Cr_13:10los...que ministran delante de J son losH3068
+- 2Cr_13:11cuales queman para J los holocaustosH3068
+- 2Cr_13:11nosotros guardamos la ordenanza de JH3068
+- 2Cr_13:12Israel, no peleéis contra J el Dios deH3068
+- 2Cr_13:14lo que clamaron a J, y los sacerdotesH3068
+- 2Cr_13:18se apoyaban en J el Dios de sus padresH3068
+- 2Cr_13:20tuvo Jeroboam...y J lo hirió, y murióH3068
+- 2Cr_14:2hizo Asa lo bueno y lo recto ante...de JH3068
+- 2Cr_14:4mandó a Judá que buscase a J el Dios deH3068
+- 2Cr_14:6no había guerra...J le había dado pazH3068
+- 2Cr_14:7porque hemos buscado a J nuestro DiosH3068
+- 2Cr_14:11clamó Asa a J...y dijo: ¡Oh J, para tiH3068
+- 2Cr_14:11ayúdanos, oh J...oh J, tú eres...DiosH3068
+- 2Cr_14:12y J deshizo a los etíopes delante deH3068
+- 2Cr_14:13fueron deshechos delante de J y de suH3068
+- 2Cr_14:14porque el terror de J cayó sobre ellasH3068
+- 2Cr_15:2Asa...J estará con vosotros, si vosotrosH3068
+- 2Cr_15:4en su tribulación se convirtieron a JH3068
+- 2Cr_15:8reparó el altar de J...del pórtico de JH3068
+- 2Cr_15:9él, viendo que J su Dios estaba con élH3068
+- 2Cr_15:11día sacrificaron para J, del botín queH3068
+- 2Cr_15:12prometieron...que buscarían a J el DiosH3068
+- 2Cr_15:13cualquiera que no buscase a J el DiosH3068
+- 2Cr_15:14juraron a J con gran voz y júbilo, alH3068
+- 2Cr_15:15ellos; y J les dio paz por todas partesH3068
+- 2Cr_16:2sacó Asa la plata y...de la casa de JH3068
+- 2Cr_16:7y no te apoyaste en J tu Dios, por esoH3068
+- 2Cr_16:8te apoyaste en J, él los entregó en tusH3068
+- 2Cr_16:9los ojos de J contemplan toda la tierraH3068
+- 2Cr_16:12en su enfermedad no buscó a J, sino aH3068
+- 2Cr_17:3J estuvo con Josafat, porque anduvo enH3068
+- 2Cr_17:5J...confirmó el reino en su mano, y todoH3068
+- 2Cr_17:6se animó su corazón en los caminos de JH3068
+- 2Cr_17:9teniendo consigo el libro de la ley de JH3068
+- 2Cr_17:10y cayó el pavor de J sobre todos losH3068
+- 2Cr_17:16Amasías hijo...se había ofrecido...a JH3068
+- 2Cr_18:4ruego que consultes hoy la palabra de JH3068
+- 2Cr_18:6¿hay aún aquí algún profeta de J, paraH3068
+- 2Cr_18:7por el cual podemos preguntar a J; masH3068
+- 2Cr_18:10así ha dicho J: Con estos acornearás aH3068
+- 2Cr_18:11porque J la entregará en mano del reyH3068
+- 2Cr_18:13vive J, que lo que mi Dios me dijereH3068
+- 2Cr_18:15te conjuraré por el nombre de J queH3068
+- 2Cr_18:16sin pastor; y dijo J: Estos no tienenH3068
+- 2Cr_18:18oíd, pues, palabra de J: Yo he vistoH3068
+- 2Cr_18:18visto a J sentado en su trono, y todoH3068
+- 2Cr_18:19y J preguntó: ¿Quién inducirá a AcabH3068
+- 2Cr_18:20se puso delante de J...Y J le dijo: ¿DeH3068
+- 2Cr_18:21J dijo: Tú le inducirás...lo lograrásH3068
+- 2Cr_18:22J ha puesto espíritu de mentira en laH3068
+- 2Cr_18:22pues J ha hablado el mal contra tiH3068
+- 2Cr_18:23camino se fue de mí el Espíritu de JH3068
+- 2Cr_18:27si tú volvieres en paz, J no ha habladoH3068
+- 2Cr_18:31mas Josafat clamó, y J lo ayudó, y losH3068
+- 2Cr_19:2al impío...amas a los que aborrecen a J?[[H3068]]
+- 2Cr_19:2pues ha salido de la presencia de J iraH3068
+- 2Cr_19:4Josafat...los conducía a J el Dios de susH3068
+- 2Cr_19:6en lugar de J, el cual está con vosotrosH3068
+- 2Cr_19:7sea, pues, con vosotros el temor de JH3068
+- 2Cr_19:7con J nuestro Dios no hay injusticia, niH3068
+- 2Cr_19:8de los levitas en...para el juicio de JH3068
+- 2Cr_19:9procederéis asimismo con temor de J, conH3068
+- 2Cr_19:10no pequen contra J, para que no vengaH3068
+- 2Cr_19:11el que os presida en todo asunto de JH3068
+- 2Cr_19:11esforzaos, pues...J estará con el buenoH3068
+- 2Cr_20:3humilló su rostro para consultar a JH3068
+- 2Cr_20:4y se reunieron...para pedir socorro a JH3068
+- 2Cr_20:4las ciudades...vinieron a pedir ayuda a JH3068
+- 2Cr_20:5Josafat se puso en pie...en la casa de JH3068
+- 2Cr_20:6J Dios de nuestros padres, ¿no eres túH3068
+- 2Cr_20:13todo Judá estaba en pie delante de JH3068
+- 2Cr_20:14sobre el cual vino el Espíritu de J enH3068
+- 2Cr_20:15oíd, Judá...J os dice así: No temáis niH3068
+- 2Cr_20:17y ved la salvación de J con vosotrosH3068
+- 2Cr_20:17salid mañana...J estará con vosotrosH3068
+- 2Cr_20:18postraron delante de J, y adoraron a JH3068
+- 2Cr_20:19se levantaron...para alabar a J el DiosH3068
+- 2Cr_20:20creed en J vuestro Dios, y estaréisH3068
+- 2Cr_20:21a algunos que cantasen y alabasen a JH3068
+- 2Cr_20:21que dijesen: Glorificad a J, porque suH3068
+- 2Cr_20:22J puso contra los hijos de Amón, deH3068
+- 2Cr_20:26Beraca; porque allí bendijeron a JH3068
+- 2Cr_20:27J les había dado gozo librándolos deH3068
+- 2Cr_20:28con...arpas y trompetas, a la casa de JH3068
+- 2Cr_20:29oyeron que J había peleado contra losH3068
+- 2Cr_20:32haciendo lo recto ante los ojos de JH3068
+- 2Cr_20:37J destruirá tus obras. Y las naves seH3068
+- 2Cr_21:6; 22:4; 33:2,22; 33:6; 36:5,9,12hizo lo malo ante los ojos de JH3068
+- 2Cr_21:7J no quiso destruir la casa de DavidH3068
+- 2Cr_21:10había dejado a J el Dios de sus padresH3068
+- 2Cr_21:12J el Dios de David tu padre ha dichoH3068
+- 2Cr_21:14J herirá a tu pueblo de una gran plagaH3068
+- 2Cr_21:16J despertó contra Joram la ira de losH3068
+- 2Cr_21:18esto, J lo hirió con una enfermedadH3068
+- 2Cr_22:7Jehú...al cual J había ungido para queH3068
+- 2Cr_22:9Josafat...de todo su corazón buscó a JH3068
+- 2Cr_23:3rey, el cual reinará, como J ha dichoH3068
+- 2Cr_23:5estará en los patios de la casa de JH3068
+- 2Cr_23:6y ninguno entre en la casa de J, sinoH3068
+- 2Cr_23:6todo el pueblo hará guardia delante de JH3068
+- 2Cr_23:12Atalía...vino al pueblo a la casa de JH3068
+- 2Cr_23:14que no la matasen en la casa de JH3068
+- 2Cr_23:16Joiada hizo pacto...serían pueblo de JH3068
+- 2Cr_23:18en la casa de J...para ofrecer a J losH3068
+- 2Cr_23:19porteros a las puertas de la casa de JH3068
+- 2Cr_23:20para conducir al rey desde la casa de JH3068
+- 2Cr_24:2; 25:2; 26:4; 27:2; 29:2; 34:2hizo lo recto ante los ojos de JH3068
+- 2Cr_24:4que Joás decidió restaurar la casa de JH3068
+- 2Cr_24:6ofrenda que Moisés siervo de J impusoH3068
+- 2Cr_24:7las cosas consagradas de la casa de JH3068
+- 2Cr_24:8un arca...a la puerta de la casa de JH3068
+- 2Cr_24:9pregonar...que trajesen a J la ofrendaH3068
+- 2Cr_24:12trabajo del servicio de la casa de JH3068
+- 2Cr_24:12que reparasen la casa de J, y artíficesH3068
+- 2Cr_24:14hicieron de él utensilios...la casa de JH3068
+- 2Cr_24:14sacrificaban...en la casa de J todos losH3068
+- 2Cr_24:18desampararon la casa de J el Dios deH3068
+- 2Cr_24:19profetas para que los volviesen a JH3068
+- 2Cr_24:20qué quebrantáis los mandamientos de J?[[H3068]]
+- 2Cr_24:20por haber dejado a J, él también osH3068
+- 2Cr_24:21apedrearon...en el patio de la casa de JH3068
+- 2Cr_24:22dijo al morir: J lo vea y lo demandeH3068
+- 2Cr_24:24J entregó en...un ejército muy numerosoH3068
+- 2Cr_24:24por cuanto habían dejado a J el Dios deH3068
+- 2Cr_24:27restauración de la casa de J, he aquíH3068
+- 2Cr_25:4donde J mandó diciendo: No morirán losH3068
+- 2Cr_25:7J no está con Israel, ni con todos losH3068
+- 2Cr_25:9respondió: J puede darte mucho más queH3068
+- 2Cr_25:15se encendió la ira de J contra AmasíasH3068
+- 2Cr_25:27tiempo en que Amasías se apartó de JH3068
+- 2Cr_26:5días en que buscó a J, él le prosperóH3068
+- 2Cr_26:16se rebeló contra J su Dios, entrando enH3068
+- 2Cr_26:16en el templo de J para quemar inciensoH3068
+- 2Cr_26:17entró...y con él ochenta sacerdotes de JH3068
+- 2Cr_26:18Uzías, el quemar incienso a J, sino aH3068
+- 2Cr_26:18no te será para gloria delante de JH3068
+- 2Cr_26:19la lepra le brotó en...en la casa de JH3068
+- 2Cr_26:20se dio prisa...porque J lo había heridoH3068
+- 2Cr_26:21Uzías...fue excluido de la casa de JH3068
+- 2Cr_27:2salvo que no entró en el santuario de JH3068
+- 2Cr_27:3edificó él la puerta...de la casa de JH3068
+- 2Cr_27:6porque preparó sus caminos delante de JH3068
+- 2Cr_28:1no hizo lo recto ante...J, como David suH3068
+- 2Cr_28:3que J había arrojado de la presencia deH3068
+- 2Cr_28:5J su Dios lo entregó en manos del reyH3068
+- 2Cr_28:6por cuanto habían dejado a J el Dios deH3068
+- 2Cr_28:9un profeta de J que se llamaba Obed, elH3068
+- 2Cr_28:9J el Dios de vuestros padres, por elH3068
+- 2Cr_28:10¿no habéis pecado vosotros contra JH3068
+- 2Cr_28:11porque J está airado contra vosotrosH3068
+- 2Cr_28:13pecado contra J estará sobre nosotrosH3068
+- 2Cr_28:19J había humillado a Judá por causa deH3068
+- 2Cr_28:19Acaz rey...había prevaricado...contra JH3068
+- 2Cr_28:21despojó Acaz la casa de J, y la casaH3068
+- 2Cr_28:22rey Acaz...añadió mayor pecado contra JH3068
+- 2Cr_28:24cerró las puertas de la casa de J, y seH3068
+- 2Cr_28:25provocando así a ira a J el Dios deH3068
+- 2Cr_29:3abrió las puertas de la casa de J, y lasH3068
+- 2Cr_29:5y santificad la casa de J el Dios deH3068
+- 2Cr_29:6han hecho lo malo ante...J nuestro DiosH3068
+- 2Cr_29:6apartaron sus rostros del...de J, y leH3068
+- 2Cr_29:8por...la ira de J ha venido sobre JudáH3068
+- 2Cr_29:10determinado hacer pacto con J el DiosH3068
+- 2Cr_29:11J os ha escogido...estéis delante de élH3068
+- 2Cr_29:15conforme al...y las palabras de J, paraH3068
+- 2Cr_29:15y entraron...para limpiar la casa de JH3068
+- 2Cr_29:16entrando...dentro de la casa de J paraH3068
+- 2Cr_29:16toda la inmundicia...en el templo de JH3068
+- 2Cr_29:16sacaron...al atrio de la casa de J, y deH3068
+- 2Cr_29:17del mismo mes vinieron al pórtico de JH3068
+- 2Cr_29:17santificaron la casa de J en ocho díasH3068
+- 2Cr_29:18ya hemos limpiado toda la casa de JH3068
+- 2Cr_29:19he aquí están delante del altar de JH3068
+- 2Cr_29:20el rey Ezequías...subió a la casa de JH3068
+- 2Cr_29:21que los ofreciesen sobre el altar de JH3068
+- 2Cr_29:25Puso también levitas en la casa de JH3068
+- 2Cr_29:25mandamiento procedía de J por medio deH3068
+- 2Cr_29:27comenzó también el cántico de J, conH3068
+- 2Cr_29:30los levitas que alabasen a J con lasH3068
+- 2Cr_29:31dijo...os habéis consagrado ahora a JH3068
+- 2Cr_29:31presentad sacrificios...la casa de JH3068
+- 2Cr_29:32trajo...todo para el holocausto de JH3068
+- 2Cr_29:35restablecido el servicio de la...de JH3068
+- 2Cr_30:1viniesen...a la casa de J para celebrarH3068
+- 2Cr_30:1,5celebrar la pascua a J Dios de IsraelH3068
+- 2Cr_30:6Israel, volveos a J el Dios de AbrahamH3068
+- 2Cr_30:7padres...se rebelaron contra J el DiosH3068
+- 2Cr_30:8someteos a J, y venid a su santuarioH3068
+- 2Cr_30:8servid a J vuestro Dios, y el ardor deH3068
+- 2Cr_30:9si os volviereis a J, vuestros hermanosH3068
+- 2Cr_30:9porque J vuestro Dios es clemente yH3068
+- 2Cr_30:12el mensaje...conforme a la palabra de JH3068
+- 2Cr_30:15trajeron...holocaustos a la casa de JH3068
+- 2Cr_30:17no...purificado, para santificarlos a JH3068
+- 2Cr_30:18oró...J, que es bueno, sea propicio aH3068
+- 2Cr_30:19a J el Dios de sus padres, aunque noH3068
+- 2Cr_30:20y oyó J a Ezequías, y sanó al puebloH3068
+- 2Cr_30:21glorificaban a J...cantando con...a JH3068
+- 2Cr_30:22buena inteligencia en el servicio de JH3068
+- 2Cr_30:22y dando gracias a J el Dios de susH3068
+- 2Cr_31:2alabasen dentro de...de los atrios de JH3068
+- 2Cr_31:3holocaustos...está escrito en la ley de JH3068
+- 2Cr_31:4para que ellos se dedicasen a a ley de JH3068
+- 2Cr_31:6de las osas que habían prometido a JH3068
+- 2Cr_31:8bendijeron a J, y a su pueblo IsraelH3068
+- 2Cr_31:10a traer las ofrendas a la casa de JH3068
+- 2Cr_31:10porque J ha bendecido a su puebloH3068
+- 2Cr_31:11que preparasen cámaras en la casa de JH3068
+- 2Cr_31:14cargo...de las ofrendas dedicadas a JH3068
+- 2Cr_31:16los que entraban en la casa de J paraH3068
+- 2Cr_31:20ejecutó lo bueno, recto...delante de JH3068
+- 2Cr_32:8con nosotros está J nuestro Dios paraH3068
+- 2Cr_32:11al decir: J nuestro Dios nos librará deH3068
+- 2Cr_32:16más hablaron sus siervos contra J DiosH3068
+- 2Cr_32:17cartas en que blasfemaba contra J elH3068
+- 2Cr_32:21J envió un ángel, el cual destruyó aH3068
+- 2Cr_32:22salvó J a Ezequías y a los moradoresH3068
+- 2Cr_32:23muchos trajeron a Jerusalén ofrenda a JH3068
+- 2Cr_32:24oró a J, quien le respondió, y le dioH3068
+- 2Cr_32:26y no vino sobre ellos la ira de J enH3068
+- 2Cr_33:2de las naciones que J había echado deH3068
+- 2Cr_33:4la casa de J, de la cual había dicho JH3068
+- 2Cr_33:5altares...los dos atrios de la casa de JH3068
+- 2Cr_33:9más mal que las naciones que J destruyóH3068
+- 2Cr_33:10habló J a Manasés y a su pueblo, masH3068
+- 2Cr_33:11J trajo contra ellos los generales delH3068
+- 2Cr_33:12puesto en angustias, oró a J su DiosH3068
+- 2Cr_33:13entonces reconoció Manasés que J eraH3068
+- 2Cr_33:15quitó los...y el ídolo de la casa de JH3068
+- 2Cr_33:15altares...en el monte de la casa de JH3068
+- 2Cr_33:16reparó luego el altar de J, y sacrificóH3068
+- 2Cr_33:16mandó a Judá que sirviesen a J Dios deH3068
+- 2Cr_33:17altos, aunque lo hacía para J su DiosH3068
+- 2Cr_33:18le hablaron en nombre de J el Dios deH3068
+- 2Cr_33:23nunca se humilló delante de J, como seH3068
+- 2Cr_34:8para que reparasen la casa de J su DiosH3068
+- 2Cr_34:9,14el dinero que...traído a la casa de JH3068
+- 2Cr_34:10que eran mayordomos en la casa de JH3068
+- 2Cr_34:10la obra y trabajaban en la casa de JH3068
+- 2Cr_34:14Hilcías halló el libro de la ley de JH3068
+- 2Cr_34:15yo he hallado...la ley en la casa de JH3068
+- 2Cr_34:17el dinero que se halló en la casa de JH3068
+- 2Cr_34:21andad, consultad a J por mí y por elH3068
+- 2Cr_34:21grande es la ira de J...sobre nosotrosH3068
+- 2Cr_34:21padres no guardaron la palabra de JH3068
+- 2Cr_34:23J Dios de Israel ha dicho así: DecidH3068
+- 2Cr_34:23decid al varón que...que así ha dicho JH3068
+- 2Cr_34:26que os ha enviado a consultar a J, asíH3068
+- 2Cr_34:26J el Dios de Israel ha dicho así: PorH3068
+- 2Cr_34:27lloraste...también te he oído, dice JH3068
+- 2Cr_34:30subió el rey a la casa de J, y con élH3068
+- 2Cr_34:30del libro del...hallado en la casa de JH3068
+- 2Cr_34:31hizo delante de J pacto de caminar enH3068
+- 2Cr_34:31de caminar en pos de J y de guardarH3068
+- 2Cr_34:33hizo que todos...sirviesen a J su DiosH3068
+- 2Cr_34:33no se apartaron de en pos de J el Dios deH3068
+- 2Cr_35:1celebró la pascua a J en Jerusalén, yH3068
+- 2Cr_35:2los confirmó en el...de la casa de JH3068
+- 2Cr_35:3y que estaban dedicados a J: Poned elH3068
+- 2Cr_35:3ahora servid a J vuestro Dios, y a suH3068
+- 2Cr_35:6que hagan conforme a la palabra de JH3068
+- 2Cr_35:12fin de que ofreciesen a J según estáH3068
+- 2Cr_35:16fue preparado todo el servicio de JH3068
+- 2Cr_35:16los holocaustos sobre el altar de JH3068
+- 2Cr_35:20luego de haber reparado...la casa de JH3068
+- 2Cr_35:26a lo que está escrito en la ley de JH3068
+- 2Cr_36:7llevó...los utensilios de la casa de JH3068
+- 2Cr_36:10los objetos preciosos de la casa de JH3068
+- 2Cr_36:12Jeremías, que le hablaba de parte de JH3068
+- 2Cr_36:13para no volverse a J el Dios de IsraelH3068
+- 2Cr_36:14contaminando la casa de J, la cual élH3068
+- 2Cr_36:15J el Dios de sus padres envió...palabraH3068
+- 2Cr_36:16hasta que subió la ira de J contra suH3068
+- 2Cr_36:18tesoros de la casa de J, y los tesorosH3068
+- 2Cr_36:21,22que se cumpliese la palabra de JH3068
+- 2Cr_36:22J despertó el espíritu de Ciro rey deH3068
+- 2Cr_36:23J, el Dios de los cielos, me ha dadoH3068
+- 2Cr_36:23pueblo, sea J su Dios con él, y subaH3068
+- Esd_1:1que se cumpliese la palabra de J porH3068
+- Esd_1:1despertó J el espíritu de Ciro rey deH3068
+- Esd_1:2J el Dios de los cielos me ha dado todosH3068
+- Esd_1:3edifique la casa a J Dios de Israel (élH3068
+- Esd_1:5subir a edificar la casa de J, la cualH3068
+- Esd_1:7Ciro sacó los utensilios de la casa de JH3068
+- Esd_2:68vinieron a la casa de J que estaba enH3068
+- Esd_3:3y ofrecieron sobre él holocaustos a JH3068
+- Esd_3:5lunas, y todas las fiestas solemnes de JH3068
+- Esd_3:5todo sacrificio...ofrenda voluntaria a JH3068
+- Esd_3:6comenzaron a ofrecer holocaustos a JH3068
+- Esd_3:6cimientos del templo de J no se habíanH3068
+- Esd_3:8que activasen la obra de la casa de JH3068
+- Esd_3:10los albañiles del templo de J echabanH3068
+- Esd_3:10que alabasen a J, según la ordenanza deH3068
+- Esd_3:11dando gracias a J, y diciendo: PorqueH3068
+- Esd_3:11aclamaban con gran júbilo, alabando a JH3068
+- Esd_3:11se echaban los cimientos de la casa de JH3068
+- Esd_4:1oyendo...edificaban el templo de J DiosH3068
+- Esd_4:3nosotros solos la edificaremos a J DiosH3068
+- Esd_6:21se habían apartado de...para buscar a JH3068
+- Esd_6:22días, por cuanto J los había alegradoH3068
+- Esd_7:6la ley...que J Dios de Israel había dadoH3068
+- Esd_7:6la mano de J su Dios estaba sobre EsdrasH3068
+- Esd_7:10para inquirir la ley de J y...cumplirlaH3068
+- Esd_7:11versado en los mandamientos de J y enH3068
+- Esd_7:27bendito J Dios de nuestros padres, queH3068
+- Esd_7:27rey, para honrar la casa de J que estáH3068
+- Esd_8:28dije: Vosotros estáis consagrados a JH3068
+- Esd_8:28ofrenda...a J Dios de nuestros padresH3068
+- Esd_8:29peséis en los aposentos de la casa de JH3068
+- Esd_8:35ofrecieron...cabríos...en holocausto a JH3068
+- Esd_9:5postré...y extendí mis manos a J mi DiosH3068
+- Esd_9:8misericordia de parte de J nuestro DiosH3068
+- Esd_9:15oh J Dios de...tú eres justo, puesto queH3068
+- Esd_10:11dad gloria a J Dios de vuestros padresH3068
+- Neh_1:5te ruego, oh J, Dios de los cielosH3068
+- Neh_1:11te ruego, oh J, esté...atento tu oídoH3068
+- Neh_2:8según la benéfica mano de J sobre míH3068
+- Neh_5:13respondió toda...¡Amén! y alabaron a JH3068
+- Neh_8:1la ley...la cual J había dado a IsraelH3068
+- Neh_8:6bendijo...Esdras a J, Dios...y adoraron a JH3068
+- Neh_8:9dijeron...Día santo es a J nuestro DiosH3068
+- Neh_8:10porque el gozo de J es vuestra fuerzaH3068
+- Neh_8:14que J había mandado por mano de MoisésH3068
+- Neh_9:3leyeron el libro de la ley de J su DiosH3068
+- Neh_9:3confesaron sus pecados y adoraron a JH3068
+- Neh_9:4Bani...clamaron en voz alta a J su DiosH3068
+- Neh_9:5bendecid a J...Dios desde la eternidadH3068
+- Neh_9:6tú solo eres J; tú hiciste los cielos, yH3068
+- Neh_9:7tú eres, oh J, el Dios que escogiste aH3068
+- Neh_10:29cumplirían todos los...estatutos de JH3068
+- Neh_10:34quemar sobre el altar de J nuestro DiosH3068
+- Neh_10:35que cada año traeríamos a la casa de JH3068
+- Job_1:6vinieron a presentarse delante de JH3068
+- Job_1:7y dijo J a Satanás: ¿De dónde vienes?[[H3068]]
+- Job_1:7respondiendo Satanás a J...De rodear laH3068
+- Job_1:8J dijo a Satanás: ¿No has consideradoH3068
+- Job_1:9respondiendo Satanás a J, dijo: ¿AcasoH3068
+- Job_1:12dijo J a Satanás: He aquí, todo lo queH3068
+- Job_1:12dijo...y salió Satanás de delante de JH3068
+- Job_1:21J dio, y J quitó; sea el nombre de JH3068
+- Job_2:1vinieron...para presentarse delante de JH3068
+- Job_2:1entre ellos presentándose delante de JH3068
+- Job_2:2y dijo J a Satanás: ¿De dónde vienes?[[H3068]]
+- Job_2:2respondió Satanás a J, y dijo: De rodearH3068
+- Job_2:3J dijo a Satanás: ¿No has considerado aH3068
+- Job_2:4dijo a J: Piel por piel, todo lo que elH3068
+- Job_2:6J dijo a Satanás: He aquí, él está en tuH3068
+- Job_2:7salió Satanás de la presencia de J, eH3068
+- Job_12:9no entiende que la mano de J la hizo?[[H3068]]
+- Job_38:1respondió J a Job desde un torbellinoH3068
+- Job_40:1además respondió J a Job, y dijoH3068
+- Job_40:3entonces respondió Job a J, y dijoH3068
+- Job_40:6respondió J a Job desde el torbellinoH3068
+- Job_42:1respondió Job a J, y dijoH3068
+- Job_42:7después que habló J...J dijo a ElifazH3068
+- Job_42:9hicieron como J les dijo; y J aceptó laH3068
+- Job_42:10quitó J la aflicción de Job, cuando élH3068
+- Job_42:11aquel mal que J había traído sobre élH3068
+- Job_42:12y bendijo J el postrer estado de JobH3068
+- Sal_1:2en la ley de J está su delicia, y enH3068
+- Sal_1:6porque J conoce el camino de los justosH3068
+- Sal_2:2consultarán unidos contra J y contra suH3068
+- Sal_2:7J me ha dicho: Mi hijo eres tú; yo teH3068
+- Sal_2:11servid a J con temor, y alegraos conH3068
+- Sal_3:1¡oh J, cuánto se han multiplicado misH3068
+- Sal_3:3mas tú, J, eres escudo alrededor de míH3068
+- Sal_3:4con mi voz clamé a J, y él me respondióH3068
+- Sal_3:5dormí...desperté, porque J me sustentabaH3068
+- Sal_3:7levántate, J: sálvame, Dios mío; porqueH3068
+- Sal_3:8la salvación es de J; sobre tu pueblo seaH3068
+- Sal_4:3sabed...que J ha escogido al piadoso paraH3068
+- Sal_4:3para sí; J oirá cuando yo a él clamareH3068
+- Sal_4:5ofreced sacrificios de...y confiad en JH3068
+- Sal_4:6alza sobre nosotros, oh J, la luz de tuH3068
+- Sal_4:8sólo tú, J, me haces vivir confiadoH3068
+- Sal_5:1escucha, oh J, mis palabras; consideraH3068
+- Sal_5:3oh J, de mañana oirás mi voz; de mañanaH3068
+- Sal_5:6al...sanguinario y engañador abominará JH3068
+- Sal_5:8guíame, J, en tu justicia, a causa de misH3068
+- Sal_5:12tú, oh J, bendecirás al justo; como conH3068
+- Sal_6:1J, no me reprendas en tu enojo, ni meH3068
+- Sal_6:2misericordia de mí, oh J, porque estoyH3068
+- Sal_6:2sáname, oh J...mis huesos se estremecenH3068
+- Sal_6:3está...turbada; y tú, J, ¿hasta cuándo?[[H3068]]
+- Sal_6:4vuélvete, oh J, libra mi alma; sálvameH3068
+- Sal_6:8porque J ha oído la voz de mi lloroH3068
+- Sal_6:9J ha oído mi ruego; ha recibido J miH3068
+- Sal_7 tít.que cantó a J acerca de las palabras deH3068
+- Sal_7:1J Dios mío, en ti he confiado; sálvameH3068
+- Sal_7:3J Dios mío, si yo he hecho esto, si hayH3068
+- Sal_7:6levántate, oh J, en tu ira; álzate enH3068
+- Sal_7:8J juzgará a los pueblos; júzgame, oh JH3068
+- Sal_7:17alabaré a J conforme a su justiciaH3068
+- Sal_7:17y cantaré al nombre de J el AltísimoH3068
+- Sal_8:1¡oh J, Señor nuestro, cuán glorioso esH3068
+- Sal_8:9¡oh J, Señor nuestro, cuán grande es tuH3068
+- Sal_9:1te alabaré, oh J, con todo mi corazónH3068
+- Sal_9:7J permanecerá para siempre; ha dispuestoH3068
+- Sal_9:9J será refugio del pobre, refugio paraH3068
+- Sal_9:10tú, oh J, no desamparaste a los que teH3068
+- Sal_9:11cantad a J...habita en Sion; publicadH3068
+- Sal_9:13ten misericordia de mí, J; mira miH3068
+- Sal_9:16J se ha hecho conocer en el juicio queH3068
+- Sal_9:19oh J; no se fortalezca el hombre; seanH3068
+- Sal_9:20pon, oh J, temor en ellos; conozcan lasH3068
+- Sal_10:1¿por qué estás lejos, oh J...te escondesH3068
+- Sal_10:3bendice al codicioso, y desprecia a JH3068
+- Sal_10:12J Dios, alza tu mano; no te olvides deH3068
+- Sal_10:16J es rey eternamente y para siempreH3068
+- Sal_10:17el deseo de los humildes oíste, oh JH3068
+- Sal_11:1en J he confiado; ¿cómo decís a mi almaH3068
+- Sal_11:4J está en su santo templo; J tiene enH3068
+- Sal_11:5J prueba al justo; pero al malo y alH3068
+- Sal_11:7porque J es justo, y ama la justiciaH3068
+- Sal_12:1salva, oh J, porque se acabaron losH3068
+- Sal_12:3J destruirá...los labios lisonjeros, yH3068
+- Sal_12:5me levantaré, dice J; pondré en salvoH3068
+- Sal_12:6las palabras de J son palabras limpiasH3068
+- Sal_12:7tú, J, los guardarás...los preservarásH3068
+- Sal_13:1¿hasta cuándo, J? ¿Me olvidarás paraH3068
+- Sal_13:3respóndeme, oh J Dios mío; alumbra misH3068
+- Sal_13:6cantaré a J, porque me ha hecho bienH3068
+- Sal_14:2J miró...sobre los hijos de los hombresH3068
+- Sal_14:4que hacen iniquidad...y a J no invocan?[[H3068]]
+- Sal_14:6se han burlado, pero J es su esperanzaH3068
+- Sal_14:7cuando J hiciere volver a los cautivosH3068
+- Sal_15:1J, ¿quién habitará en tu tabernáculo?[[H3068]]
+- Sal_15:4el vil...pero honra a los que temen a JH3068
+- Sal_16:2dijiste a J: Tú eres mi Señor; no hayH3068
+- Sal_16:5J es la porción de mi herencia y de miH3068
+- Sal_16:7bendeciré a J que me aconseja; aun enH3068
+- Sal_16:8a J he puesto siempre delante de míH3068
+- Sal_17:1oye, oh J, una causa justa; está atentoH3068
+- Sal_17:13levántate, oh J; sal a su encuentroH3068
+- Sal_17:14de los hombres con tu mano, oh J, deH3068
+- Sal_18; 36 títs.salmo de David, siervo de JH3068
+- Sal_18 tít.dirigió a J las palabras de este cánticoH3068
+- Sal_18 tít.el día que le libró J de la mano deH3068
+- Sal_18:1te amo, oh J, fortaleza míaH3068
+- Sal_18:2J, roca mía y castillo mío...libertadorH3068
+- Sal_18:3invocaré a J, quien es digno de serH3068
+- Sal_18:6en mi angustia invoqué a J, y clamé aH3068
+- Sal_18:13tronó en los cielos J, y el AltísimoH3068
+- Sal_18:15a tu reprensión, oh J, Por el soplo delH3068
+- Sal_18:18el día de mi quebranto...J fue mi apoyoH3068
+- Sal_18:20J me ha premiado conforme a...justiciaH3068
+- Sal_18:21yo he guardado los caminos de J, y noH3068
+- Sal_18:24recompensado J conforme a mi justiciaH3068
+- Sal_18:28tú...J mi Dios alumbrará mis tinieblasH3068
+- Sal_18:30y acrisolada la palabra de J; escudoH3068
+- Sal_18:31porque ¿quién es Dios sino sólo J?[[H3068]]
+- Sal_18:41clamaron, y...aun a J, pero no los oyóH3068
+- Sal_18:46viva J, y bendita sea mi roca...DiosH3068
+- Sal_18:49yo te confesaré...oh J, y cantaré a tuH3068
+- Sal_19:7la ley de J es perfecta, que convierteH3068
+- Sal_19:7el testimonio de J es fiel, que haceH3068
+- Sal_19:8los mandamientos de J son rectos, queH3068
+- Sal_19:8el precepto de J es puro, que alumbraH3068
+- Sal_19:9el temor de J es limpio, que permaneceH3068
+- Sal_19:9juicios de J son verdad, todos justosH3068
+- Sal_19:14de ti, oh J, roca mía, y redentor míoH3068
+- Sal_20:1J te oiga en el día de conflicto; elH3068
+- Sal_20:5Dios; conceda J todas tus peticionesH3068
+- Sal_20:6ahora conozco que J salva a su ungidoH3068
+- Sal_20:7del nombre de J...Dios tendremos memoriaH3068
+- Sal_20:9salva, J; que el Rey nos oiga en el díaH3068
+- Sal_21:1rey se alegra en tu poder, oh J; y enH3068
+- Sal_21:7por cuanto el rey confía en J, y en laH3068
+- Sal_21:9J los deshará en su ira, y fuego losH3068
+- Sal_21:13engrandécete, oh J, en tu poderH3068
+- Sal_22:8se encomendó a J; líbrele él; sálveleH3068
+- Sal_22:19mas tú, J, no te alejes; fortaleza míaH3068
+- Sal_22:23los que teméis a J...alabadle...de JacobH3068
+- Sal_22:26alabarán a J los que le buscan; viviráH3068
+- Sal_22:27se volverán a J todos los confines deH3068
+- Sal_22:28porque de J es el reino, y él regiráH3068
+- Sal_22:30será contado de J hasta la postreraH3068
+- Sal_23:1J es mi pastor; nada me faltaráH3068
+- Sal_23:6en la casa de J moraré por largos díasH3068
+- Sal_24:1de J es la tierra y su plenitud; elH3068
+- Sal_24:3¿quién subirá al monte de J? ¿Y quiénH3068
+- Sal_24:5él recibirá bendición de J, y justiciaH3068
+- Sal_24:8J el fuerte y valiente, J el poderosoH3068
+- Sal_24:10J de los ejércitos, él es el Rey deH3068
+- Sal_25:1a ti, oh J, levantaré mi almaH3068
+- Sal_25:4muéstrame, oh J, tus caminos...sendasH3068
+- Sal_25:6acuérdate, oh J, de tus piedades y deH3068
+- Sal_25:7acuérdate de mí, por tu bondad, oh JH3068
+- Sal_25:8bueno y recto es J...él enseñará a losH3068
+- Sal_25:10todas las sendas de J son misericordiaH3068
+- Sal_25:11J, perdonarás...pecado, que es grandeH3068
+- Sal_25:12¿quién es el hombre que teme a J?[[H3068]]
+- Sal_25:14la comunión...de J es con los que leH3068
+- Sal_25:15ojos están siempre hacia J, porque élH3068
+- Sal_26:1júzgame, oh J...yo en mi integridad heH3068
+- Sal_26:1he confiado asimismo en J sin titubearH3068
+- Sal_26:2escudríñame, oh J, y pruébame; examinaH3068
+- Sal_26:6así andaré alrededor de tu altar, oh JH3068
+- Sal_26:8J, la habitación de tu casa he amadoH3068
+- Sal_26:12en las congregaciones bendeciré a JH3068
+- Sal_27:1J es mi luz y...J es la fortaleza de miH3068
+- Sal_27:4una cosa he demandado a J, ésta buscaréH3068
+- Sal_27:4que esté yo en la casa de J todos losH3068
+- Sal_27:4para contemplar la hermosura de J, yH3068
+- Sal_27:6yo...cantaré y entonaré alabanzas a JH3068
+- Sal_27:7oye, oh J, mi voz con que a ti clamoH3068
+- Sal_27:8buscad mi rostro...rostro buscaré, oh JH3068
+- Sal_27:10me dejaran, con todo, J me recogeráH3068
+- Sal_27:11enséñame, oh J, tu camino, y guíameH3068
+- Sal_27:13si no creyese que veré la bondad de JH3068
+- Sal_27:14aguarda a J; esfuérzate...sí, espera a JH3068
+- Sal_28:1a ti clamaré, oh J. Roca mía, no teH3068
+- Sal_28:5no atendieron a los hechos de J, ni aH3068
+- Sal_28:6bendito sea J, que oyó la voz de misH3068
+- Sal_28:7J es mi fortaleza y mi escudo; en élH3068
+- Sal_28:8J es la fortaleza de su pueblo, y elH3068
+- Sal_29:1tributad a J...dad a J la gloria y elH3068
+- Sal_29:2dad a J la gloria debida a su nombreH3068
+- Sal_29:2adorad a J en la hermosura...santidadH3068
+- Sal_29:3voz de J sobre las aguas; truena elH3068
+- Sal_29:3truena el...J sobre las muchas aguasH3068
+- Sal_29:4de J con potencia; voz de J con gloriaH3068
+- Sal_29:5voz de J que quebranta los cedrosH3068
+- Sal_29:5quebrantó J los cedros del LíbanoH3068
+- Sal_29:7voz de J que derrama llamas de fuegoH3068
+- Sal_29:8voz de J que hace temblar el desiertoH3068
+- Sal_29:8hace temblar J el desierto de CadesH3068
+- Sal_29:9de J que desgaja las encinas, y desnudaH3068
+- Sal_29:10J preside en el diluvio, y se sienta JH3068
+- Sal_29:11J dará poder...J bendecirá a su puebloH3068
+- Sal_30:1te glorificaré, oh J, porque me hasH3068
+- Sal_30:2J Dios mío, a ti clamé, y me sanasteH3068
+- Sal_30:3oh J, hiciste subir mi alma del SeolH3068
+- Sal_30:4cantad a J, vosotros sus santos, yH3068
+- Sal_30:7tú, J, con tu favor me afirmaste comoH3068
+- Sal_30:8ti, oh J, clamaré, y al Señor suplicaréH3068
+- Sal_30:10J...ten misericordia de mí; J, sé tú miH3068
+- Sal_30:12J Dios mío, te alabaré para siempreH3068
+- Sal_31:1en ti, oh J, he confiado; no sea yoH3068
+- Sal_31:5me has redimido, oh J, Dios de verdadH3068
+- Sal_31:6aborrezco a...mas yo en J he esperadoH3068
+- Sal_31:9ten misericordia de mí, oh J, porqueH3068
+- Sal_31:14mas yo en ti confío, oh J; digo: TúH3068
+- Sal_31:17no sea yo avergonzado, oh J, ya queH3068
+- Sal_31:21bendito sea J...ha hecho maravillosaH3068
+- Sal_31:23amad a J, todos vosotros sus santosH3068
+- Sal_31:23a los fieles guarda J, y paga...al queH3068
+- Sal_31:24esforzaos...los que esperáis en J, yH3068
+- Sal_32:2bienaventurado...a quien J no culpa deH3068
+- Sal_32:5dije: Confesaré mis transgresiones a JH3068
+- Sal_32:10mas al que espera en J, le rodea laH3068
+- Sal_32:11alegraos en J y gozaos, justos; yH3068
+- Sal_33:1alegraos, oh justos, en J; en...íntegrosH3068
+- Sal_33:2aclamad a J con arpa; cantadle conH3068
+- Sal_33:4porque recta es la palabra de J, y todaH3068
+- Sal_33:5de la misericordia de J está llena laH3068
+- Sal_33:6por la palabra de J fueron hechos losH3068
+- Sal_33:8tema a J toda la tierra; teman delanteH3068
+- Sal_33:10J hace nulo el consejo de las nacionesH3068
+- Sal_33:11el consejo de J permanecerá...siempreH3068
+- Sal_33:12bienaventurada la nación...Dios es JH3068
+- Sal_33:13desde los cielos miró J; vio a todosH3068
+- Sal_33:18aquí el ojo de J sobre los que le temenH3068
+- Sal_33:20nuestra alma espera a J; nuestra ayudaH3068
+- Sal_33:22tu misericordia, oh J, sobre nosotrosH3068
+- Sal_34:1bendeciré a J en todo tiempo...mi bocaH3068
+- Sal_34:2en J se gloriará mi alma; lo oirán losH3068
+- Sal_34:3engrandeced a J conmigo, y exaltemos aH3068
+- Sal_34:4busqué a J, y él me oyó, y me libró deH3068
+- Sal_34:6lo oyó J, y lo libró de...sus angustiasH3068
+- Sal_34:7el ángel de J acampa alrededor de losH3068
+- Sal_34:8gustad, y ved que es bueno J; dichosoH3068
+- Sal_34:9temed a J, vosotros sus santos, puesH3068
+- Sal_34:10los que buscan a J no tendrán falta deH3068
+- Sal_34:11venid, hijos...temor de J os enseñaréH3068
+- Sal_34:15los ojos de J están sobre los justosH3068
+- Sal_34:16la ira de J contra los que hacen malH3068
+- Sal_34:17claman los justos, y J oye, y...libraH3068
+- Sal_34:18cercano está J a los quebrantados deH3068
+- Sal_34:19aflicciones...todas ellas le librará JH3068
+- Sal_34:22J redime el alma de sus siervos, y noH3068
+- Sal_35:1disputa, oh J, con los que contra míH3068
+- Sal_35:5sean como el...y el ángel de J los acoseH3068
+- Sal_35:6su camino...y el ángel de J los persigaH3068
+- Sal_35:9entonces mi alma se alegrará en JH3068
+- Sal_35:10dirán: J, ¿quién como tú, que librasH3068
+- Sal_35:22lo has visto, oh J; no calles; SeñorH3068
+- Sal_35:24júzgame...J Dios mío, y no se alegrenH3068
+- Sal_35:27y digan siempre: Sea exaltado J, queH3068
+- Sal_36:5J, hasta...cielos llega tu misericordiaH3068
+- Sal_36:6oh J, al hombre y al animal conservasH3068
+- Sal_37:3confía en J, y haz el bien; y habitarásH3068
+- Sal_37:4deléitate...en J, y él te concederá lasH3068
+- Sal_37:5encomienda a J tu camino, y confía enH3068
+- Sal_37:7guarda silencio ante J, y espera en élH3068
+- Sal_37:9los que esperan en J, ellos heredaránH3068
+- Sal_37:17mas el que sostiene a los justos es JH3068
+- Sal_37:18conoce J los días de los perfectosH3068
+- Sal_37:20y los enemigos de J como la grasa deH3068
+- Sal_37:23J son ordenados los pasos del hombreH3068
+- Sal_37:24no quedará...porque J sostiene su manoH3068
+- Sal_37:28J ama la rectitud, y no desampara aH3068
+- Sal_37:33J no lo dejará en sus manos, ni loH3068
+- Sal_37:34espera en J, y guarda su camino, y élH3068
+- Sal_37:39la salvación de los justos es de J, yH3068
+- Sal_37:40J los ayudará y los librará...salvaráH3068
+- Sal_38:1J, no me reprendas en tu furor, ni meH3068
+- Sal_38:15porque en ti, oh J, he esperado; túH3068
+- Sal_38:15esperado; tú responderás, J Dios míoH3068
+- Sal_38:21no me desampares, oh J; Dios mío, noH3068
+- Sal_39:4hazme saber, J, mi fin, y cuánta seaH3068
+- Sal_39:12oye mi oración, oh J, y escucha miH3068
+- Sal_40:1pacientemente esperé a J, y se inclinóH3068
+- Sal_40:3verán esto muchos...y confiarán en JH3068
+- Sal_40:4que puso en J su confianza, y no miraH3068
+- Sal_40:5has aumentado, oh J...tus maravillasH3068
+- Sal_40:9no refrené mis labios, J, tú lo sabesH3068
+- Sal_40:11J, no retengas de mí tus misericordiasH3068
+- Sal_40:13quieras, oh J, librarme; J, apresúrateH3068
+- Sal_40:16y digan siempre los...J sea enaltecidoH3068
+- Sal_40:17aunque afligido yo y...J pensará en míH3068
+- Sal_41:1el pobre; en el día malo lo librará JH3068
+- Sal_41:2J lo guardará, y le dará vida; seráH3068
+- Sal_41:3J lo sustentará sobre...lecho del dolorH3068
+- Sal_41:4dije: J, ten misericordia de mí; sanaH3068
+- Sal_41:10mas tú, J, ten misericordia de mí, yH3068
+- Sal_41:13bendito sea J, el Dios de Israel, porH3068
+- Sal_42:8pero de día mandará J su misericordiaH3068
+- Sal_46:7,11J de los ejércitos está con nosotrosH3068
+- Sal_46:8venid, ved...obras de J, que ha puestoH3068
+- Sal_47:2porque J el Altísimo es temible; ReyH3068
+- Sal_47:5subió Dios...J con sonido de trompetaH3068
+- Sal_48:1grande es J, y digno de ser...alabadoH3068
+- Sal_48:8así lo hemos visto en la ciudad de JH3068
+- Sal_50:1J, ha hablado, y convocado la tierraH3068
+- Sal_54:6alabaré tu nombre...J, porque es buenoH3068
+- Sal_55:16a mí, a Dios clamaré; y J me salvaráH3068
+- Sal_55:22sobre J tu carga, y él te sustentaráH3068
+- Sal_56:10Dios alabaré...en J su palabra alabaréH3068
+- Sal_58:6quiebra, oh J, las muelas...leoncillosH3068
+- Sal_59:3no por falta mía, ni por pecado...oh JH3068
+- Sal_59:5tú, J Dios...despierta para castigar aH3068
+- Sal_59:8tú, J, te reirás de ellos; te burlarásH3068
+- Sal_59:11dispérsalos con...oh J, escudo nuestroH3068
+- Sal_64:10se alegrará el justo en J, y confiaráH3068
+- Sal_68:16ciertamente J habitará en él...siempreH3068
+- Sal_68:20y de J el...es el librar de la muerteH3068
+- Sal_69:6no sean avergonzados por...oh Señor J deH3068
+- Sal_69:13pero yo a ti oraba, oh J, al tiempo deH3068
+- Sal_69:16respóndeme, J, porque benigna es tuH3068
+- Sal_69:31y agradará a J más que sacrificio deH3068
+- Sal_69:33porque J oye a los menesterosos, y noH3068
+- Sal_70:5mi libertador tres...J, no te detengasH3068
+- Sal_71:1en ti, oh J, me he refugiado; no sea yoH3068
+- Sal_71:5porque tú...Señor J, eres mi esperanzaH3068
+- Sal_71:16a los hechos poderosos de J el SeñorH3068
+- Sal_72:18bendito J Dios, el Dios de Israel, elH3068
+- Sal_73:28he puesto en J el Señor mi esperanzaH3068
+- Sal_74:18esto: que el enemigo ha afrentado a JH3068
+- Sal_75:8porque el cáliz está en la mano de JH3068
+- Sal_76:11prometed, y pagad a J vuestro DiosH3068
+- Sal_78:4contando a la...las alabanzas de J, y suH3068
+- Sal_78:21por tanto, oyó J, y se indignó; seH3068
+- Sal_79:5¿hasta cuándo, oh J? ¿Estarás airadoH3068
+- Sal_79:12de su...con que te han deshonrado, oh JH3068
+- Sal_80:4J, Dios de...¿hasta cuándo mostrarás tuH3068
+- Sal_80:19J, Dios de los ejércitos, restáuranos![[H3068]]
+- Sal_81:10yo soy J tu Dios, que te hice subir deH3068
+- Sal_81:15los que aborrecen a J se le habríanH3068
+- Sal_83:16vergüenza, y busquen tu nombre, oh JH3068
+- Sal_83:18conozcan que tu nombre es J; tú soloH3068
+- Sal_84:1¡cuán amables son tus moradas, oh J deH3068
+- Sal_84:2anhela mi alma...desea los atrios de JH3068
+- Sal_84:3polluelos, cerca de tus altares, oh JH3068
+- Sal_84:8J Dios de...ejércitos, oye mi oraciónH3068
+- Sal_84:11porque sol y escudo es J Dios; graciaH3068
+- Sal_84:11gracia y gloria dará J. No quitará elH3068
+- Sal_84:12J...dichoso el hombre que en ti confíaH3068
+- Sal_85:1fuiste propicio a tu tierra, oh J...JacobH3068
+- Sal_85:7muéstranos, oh J, tu misericordia, yH3068
+- Sal_85:8escucharé lo que hablará J Dios, porqueH3068
+- Sal_85:12J dará...el bien, y nuestra tierra daráH3068
+- Sal_86:1inclina, oh J, tu oído, y escúchameH3068
+- Sal_86:3ten misericordia de mí, oh J; porque aH3068
+- Sal_86:6escucha...J, mi oración, y está atentoH3068
+- Sal_86:11enséñame, oh J, tu camino; caminaré yoH3068
+- Sal_86:12te alabaré, oh J Dios mío, con todo miH3068
+- Sal_86:17tú, J, me ayudaste y me consolasteH3068
+- Sal_87:2ama J las puertas de Sion más que todasH3068
+- Sal_87:6J contará al inscribir a los pueblosH3068
+- Sal_88:1J, Dios de mi salvación, día y nocheH3068
+- Sal_88:9llamado, oh J, cada día; he extendidoH3068
+- Sal_88:13yo a ti he clamado, oh J, y de mañanaH3068
+- Sal_88:14¿por qué, oh J, desechas mi alma? ¿PorH3068
+- Sal_89:1las misericordias de J cantaré...mi bocaH3068
+- Sal_89:5celebrarán los...tus maravillas, oh JH3068
+- Sal_89:6¿quién en los cielos se igualará a J?[[H3068]]
+- Sal_89:6¿quién será semejante a J entre losH3068
+- Sal_89:8J...¿quién como tú? Poderoso eres, JH3068
+- Sal_89:15pueblo...andará, oh J, a la luz de tu rostroH3068
+- Sal_89:18J es nuestro escudo, y nuestro rey esH3068
+- Sal_89:46¿hasta cuándo, oh J? ¿Te esconderásH3068
+- Sal_89:51tus enemigos, oh J, han deshonradoH3068
+- Sal_89:52bendito sea J para siempre. Amén yH3068
+- Sal_90:13vuélvete, oh J; ¿hasta cuándo?[[H3068]]
+- Sal_90:17sea la luz de J...Dios sobre nosotrosH3068
+- Sal_91:2diré yo a J: Esperanza mía, y castilloH3068
+- Sal_91:9has puesto a J, que es mi esperanza, alH3068
+- Sal_92:1bueno es alabarte...J, y cantar salmosH3068
+- Sal_92:4me has alegrado, oh J, con tus obrasH3068
+- Sal_92:5¡cuán grandes son tus obras, oh J! MuyH3068
+- Sal_92:8mas tú, J, para siempre eres AltísimoH3068
+- Sal_92:9he aquí tus enemigos, oh J...pereceránH3068
+- Sal_92:13plantados en la casa de J...los atriosH3068
+- Sal_92:15para anunciar que J...es recto, y queH3068
+- Sal_93:1J reina; se vistió de magnificenciaH3068
+- Sal_93:1J se vistió, se ciñó de poder. AfirmóH3068
+- Sal_93:3ríos, oh J, los ríos alzaron su sonidoH3068
+- Sal_93:4J en las alturas es más poderoso queH3068
+- Sal_93:5la santidad conviene a tu casa, oh JH3068
+- Sal_94:1J, Dios de las venganzas, Dios de lasH3068
+- Sal_94:3¿hasta cuándo...oh J, se gozarán losH3068
+- Sal_94:5a tu pueblo, oh J, quebrantan, y a tuH3068
+- Sal_94:11J conoce los pensamientos...son vanidadH3068
+- Sal_94:14porque no abandonará J a su pueblo, niH3068
+- Sal_94:17si no me ayudara J, pronto moraría miH3068
+- Sal_94:18tu misericordia, oh J, me sustentabaH3068
+- Sal_94:22J me ha sido por refugio, y mi Dios porH3068
+- Sal_94:23maldad; los destruirá J nuestro DiosH3068
+- Sal_95:1aclamemos alegremente a J; cantemosH3068
+- Sal_95:3porque J es Dios grande, y Rey grandeH3068
+- Sal_95:6arrodillémonos delante de J...HacedorH3068
+- Sal_96:1cantad a J...cantad a J, toda la tierraH3068
+- Sal_96:2cantad a J, bendecid su nombre...de díaH3068
+- Sal_96:4grande es J, y digno...suprema alabanzaH3068
+- Sal_96:5dioses...ídolos; pero J hizo los cielosH3068
+- Sal_96:7tributad a J...dad a J la gloria y elH3068
+- Sal_96:8dad a J la honra debida a su nombreH3068
+- Sal_96:9adorad a J en la hermosura de: santidadH3068
+- Sal_96:10decid entre las naciones: J reinaH3068
+- Sal_96:13delante de J que vino; porque vino aH3068
+- Sal_97:1J reina; regocíjese la...alégrense lasH3068
+- Sal_97:5los montes se derritieron...delante de JH3068
+- Sal_97:8las hijas de Judá, oh J, se gozaron porH3068
+- Sal_97:9J, eres excelso sobre toda la tierraH3068
+- Sal_97:10los que amáis a J, aborreced el malH3068
+- Sal_97:12alegraos, justos, en J, y alabad laH3068
+- Sal_98:1cantad a J cántico nuevo, porque haH3068
+- Sal_98:2J ha hecho notoria su salvación; a vistaH3068
+- Sal_98:4cantad alegres a J, toda la tierraH3068
+- Sal_98:5cantad salmos a J con arpa; con arpa yH3068
+- Sal_98:6y sonidos de bocina, delante del rey JH3068
+- Sal_98:9delante de J, porque vino a juzgar laH3068
+- Sal_99:1J reina; temblarán los pueblos; él estáH3068
+- Sal_99:2J en Sion es grande, y exaltado sobreH3068
+- Sal_99:5exaltad a J nuestro Dios, y postraosH3068
+- Sal_99:6invocaban a J, y él les respondíaH3068
+- Sal_99:8J Dios nuestro, tú les respondías; lesH3068
+- Sal_99:9exaltad a J...J nuestro Dios es santoH3068
+- Sal_100:2servid a J con alegría; venid ante suH3068
+- Sal_100:3reconoced que J es Dios; él nos hizoH3068
+- Sal_100:5porque J es bueno; para siempre es suH3068
+- Sal_101:1juicio cantaré; a ti cantaré yo, oh JH3068
+- Sal_101:8exterminar de la ciudad de J a todosH3068
+- Sal_102 tít.delante de J derrama su lamentoH3068
+- Sal_102:1J, escucha mi oración, y llegue a tiH3068
+- Sal_102:12mas tú, J, permanecerás paraH3068
+- Sal_102:22se congreguen en uno para servir a JH3068
+- Sal_103:1,2,22bendice, alma mía, a JH3068
+- Sal_103:6J es el que hace justicia y derechoH3068
+- Sal_103:8misericordioso y clemente es J; lentoH3068
+- Sal_103:13se compadece J de los que le temenH3068
+- Sal_103:17mas la misericordia de J es desde laH3068
+- Sal_103:19J estableció en los cielos su tronoH3068
+- Sal_103:20bendecid a J, vosotros sus ángelesH3068
+- Sal_103:21bendecid a J...todos sus ejércitosH3068
+- Sal_103:22bendecid a J, vosotras todas sus obrasH3068
+- Sal_104:1bendice...a J.J...te has engrandecidoH3068
+- Sal_104:16se llenan de savia los árboles de JH3068
+- Sal_104:24¡cuán innumerables son...oh J![[H3068]]
+- Sal_104:31sea la gloria de J para siempreH3068
+- Sal_104:33a J cantaré en mi vidaH3068
+- Sal_104:34dulce será...él; yo me regocijaré en JH3068
+- Sal_104:35bendice, alma mía, a J. AleluyaH3068
+- Sal_105:1alabad a J, según tu...paraH3068
+- Sal_105:3alégrese...de los que buscan a JH3068
+- Sal_105:4buscad a J y su poderH3068
+- Sal_105:7El es J nuestro Dios; en todaH3068
+- Sal_105:19cumplió...el dicho de J le probóH3068
+- Sal_106:1alabad a J, porque él es buenoH3068
+- Sal_106:2¿quién expresará las...obras de J?[[H3069]]
+- Sal_106:4acuérdate de mí, oh J, según tuH3068
+- Sal_106:16envidia...contra Aarón, el santo de JH3068
+- Sal_106:25murmuraron...y no oyeron la voz de JH3068
+- Sal_106:34no destruyeron a los...que J les dijoH3068
+- Sal_106:40se encendió...el furor de J sobre suH3068
+- Sal_106:47sálvanos, J Dios nuestro, y recógenosH3068
+- Sal_106:48bendito J Dios de Israel, desde laH3068
+- Sal_107:1alabad a J, porque él es bueno; porqueH3068
+- Sal_107:2díganlo los redimidos de J, los que haH3068
+- Sal_107:6,13,19,28clamaron a J en su angustiaH3068
+- Sal_107:8,15,21,31alaben la misericordia de JH3068
+- Sal_107:11fueron rebeldes a las palabras de JH3068
+- Sal_107:24ellos han visto las obras de J, y susH3068
+- Sal_107:43y entenderá las misericordias de J?[[H3068]]
+- Sal_108:3te alabaré, oh J, entre los pueblosH3068
+- Sal_109:14venga en memoria ante J la maldad deH3068
+- Sal_109:15estén siempre delante de J, y él corteH3068
+- Sal_109:20sea este el pago de parte de J a losH3068
+- Sal_109:21J, Señor mío, favoréceme por amor deH3068
+- Sal_109:26ayúdame, J Dios...sálvame conforme aH3068
+- Sal_109:27entiendan...que tú, J, has hecho estoH3068
+- Sal_109:30yo alabaré a J en gran manera con miH3068
+- Sal_110:1J dijo a mi Señor: Siéntate a...diestraH3068
+- Sal_110:2J enviará desde Sion la vara de tuH3068
+- Sal_110:4juró J, y no se arrepentirá: Tú eresH3068
+- Sal_111:1alabaré a J con todo el corazón en laH3068
+- Sal_111:2grandes son las obras de J, buscadasH3068
+- Sal_111:4hecho...clemente y misericordioso es JH3068
+- Sal_111:10la sabiduría es el temor de J; buenH3068
+- Sal_112:1bienaventurado el hombre que teme a JH3068
+- Sal_112:7su corazón está firme, confiado en JH3068
+- Sal_113:1alabad, siervos de J...el nombre de JH3068
+- Sal_113:2el nombre de J bendito desde ahora yH3068
+- Sal_113:3se pone, sea alabado el nombre de JH3068
+- Sal_113:4excelso sobre todas las naciones es JH3068
+- Sal_113:5¿quién como J...Dios, que se sienta enH3068
+- Sal_114:7a la presencia de J tiembla la tierraH3068
+- Sal_115:1oh J, no a nosotros, sino a tu nombreH3068
+- Sal_115:9oh Israel, confía en J; él es tu ayudaH3068
+- Sal_115:10casa de Aarón, confiad en J; él esH3068
+- Sal_115:11los que teméis a J, confiad en J; élH3068
+- Sal_115:12J se acordó de nosotros...bendeciráH3068
+- Sal_115:13bendecirá a los que temen a J, aH3068
+- Sal_115:14aumentará J bendición sobre vosotrosH3068
+- Sal_115:15benditos vosotros de J, que hizo losH3068
+- Sal_115:16los cielos son los cielos de J; y haH3068
+- Sal_116:1amo a J, pues ha oído mi voz y misH3068
+- Sal_116:4entonces invoqué el nombre de JH3068
+- Sal_116:4diciendo: Oh J, libra ahora mi almaH3068
+- Sal_116:5clemente es J...sí, misericordioso esH3068
+- Sal_116:6J guarda a los sencillos; estaba yoH3068
+- Sal_116:7tu reposo, porque J te ha hecho bienH3068
+- Sal_116:9andaré delante de J en la tierra de losH3068
+- Sal_116:12¿qué pagaré a J por...sus beneficiosH3068
+- Sal_116:13tomaré la...e invocaré el nombre de JH3068
+- Sal_116:14pagaré mis votos a J delante de todoH3068
+- Sal_116:15estimada es a los ojos de J la muerteH3068
+- Sal_116:16oh J, ciertamente yo soy tu siervoH3068
+- Sal_116:17ofreceré...e invocaré el nombre de JH3068
+- Sal_116:18a J pagaré ahora mis votos delante deH3068
+- Sal_116:19los atrios de la casa de J, en medioH3068
+- Sal_117:1alabad a J, naciones todas; pueblosH3068
+- Sal_117:2y la fidelidad de J es para siempreH3068
+- Sal_118:1alabad a J, porque él es bueno; porqueH3068
+- Sal_118:4digan ahora los que temen a J, que paraH3068
+- Sal_118:6J está conmigo; no temeré lo que meH3068
+- Sal_118:7J está...entre los que me ayudan; porH3068
+- Sal_118:8,9mejor es confiar en J que confiarH3068
+- Sal_118:10,11,12nombre de J yo las destruiréH3068
+- Sal_118:13me empujaste...cayese; pero me ayudóH3068
+- Sal_118:15júbilo...la diestra de J hace proezasH3068
+- Sal_118:16la diestra de J es sublime...de J haceH3068
+- Sal_118:20es puerta de J; por ella entrarán losH3068
+- Sal_118:23de J es esto, y es cosa maravillosaH3068
+- Sal_118:24es el día que hizo J; nos gozaremosH3068
+- Sal_118:25oh J, sálvanos ahora...te ruego, oh JH3068
+- Sal_118:26bendito el que viene en...nombre de JH3068
+- Sal_118:26desde la casa de J os bendecimosH3068
+- Sal_118:27J es Dios, y nos ha dado luz; atadH3068
+- Sal_118:29alabad a J...él es bueno; porque paraH3068
+- Sal_119:1los perfectos...que andan en la ley de JH3068
+- Sal_119:12bendito tú...J; enséñame tus estatutosH3068
+- Sal_119:31he apegado a...oh J, no me avergüencesH3068
+- Sal_119:33enséñame, oh J, el camino de tusH3068
+- Sal_119:41venga a mí tu misericordia, oh JH3068
+- Sal_119:52acordé, oh J, de tus juicios antiguosH3068
+- Sal_119:55me acordé en la...de tu nombre, oh JH3068
+- Sal_119:57porción es J; he dicho que guardaréH3068
+- Sal_119:64de tu misericordia, oh J, está llenaH3068
+- Sal_119:65bien has hecho con tu siervo, oh JH3068
+- Sal_119:75conozco, oh J, que tus juicios sonH3068
+- Sal_119:89siempre, oh J, permanece tu palabraH3068
+- Sal_119:107vivifícame, oh J, conforme...palabraH3068
+- Sal_119:108oh J, que te sean agradables losH3068
+- Sal_119:126tiempo es de actuar, oh J, porqueH3068
+- Sal_119:137justos...oh J, y rectos tus juiciosH3068
+- Sal_119:145clamé con...corazón; respóndeme, JH3068
+- Sal_119:149J, vivifícame conforme a tu juicioH3068
+- Sal_119:151cercano estás tú, oh J, y todos tusH3068
+- Sal_119:156muchas son tus misericordias, oh JH3068
+- Sal_119:159mira, oh J, que amo tus mandamientosH3068
+- Sal_119:166tu salvación he esperado, oh J, y tusH3068
+- Sal_119:169llegue mi clamor delante de ti...JH3068
+- Sal_119:174he deseado tu salvación, oh J, y tuH3068
+- Sal_120:1a J clamé estando en angustia, y élH3068
+- Sal_120:2libra mi alma, oh J, del...mentirosoH3068
+- Sal_121:2mi socorro viene de J, que hizo losH3068
+- Sal_121:5J es tu guardador; J es tu sombra aH3068
+- Sal_121:7J te guardará de...mal; él guardará tuH3068
+- Sal_121:8J guardará tu salida y tu entrada desdeH3068
+- Sal_122:1que me decían: A la casa de J iremosH3068
+- Sal_122:4subieron...para alabar el nombre de JH3068
+- Sal_122:9por amor a la casa de J nuestro DiosH3068
+- Sal_123:2nuestros ojos miran a J nuestro DiosH3068
+- Sal_123:3ten misericordia de nosotros, oh J, tenH3068
+- Sal_124:1,2a no haber estado J por nosotrosH3068
+- Sal_124:6bendito sea J...no nos dio por presa aH3068
+- Sal_124:8nuestro socorro está en el nombre de JH3068
+- Sal_125:1los que confían en J son como el monteH3068
+- Sal_125:2J está alrededor de su pueblo, desdeH3068
+- Sal_125:4haz bien, oh J, a los buenos, y a losH3068
+- Sal_125:5J los llevará...los que hacen iniquidadH3068
+- Sal_126:1cuando J hiciere volver la cautividadH3068
+- Sal_126:2grandes cosas ha hecho J con éstosH3068
+- Sal_126:3grandes cosas ha hecho J con nosotrosH3068
+- Sal_126:4haz volver nuestra cautividad, oh JH3068
+- Sal_127:1si J no edificare la casa, en vanoH3068
+- Sal_127:1J no guardare la ciudad, en vano velaH3068
+- Sal_127:3he aquí, herencia de J son los hijosH3068
+- Sal_128:1bienaventurado todo aquel que teme a JH3068
+- Sal_128:4será bendecido el hombre que teme a JH3068
+- Sal_128:5bendígate J desde Sion, y veas el bienH3068
+- Sal_129:4J es justo; cortó las coyundas de losH3068
+- Sal_129:8bendición de J sea sobre vosotros; osH3068
+- Sal_129:8sea...os bendecimos en el nombre de JH3068
+- Sal_130:1de lo profundo, oh J, a ti clamo...oyeH3068
+- Sal_130:5esperé yo a J, esperó mi alma; en suH3068
+- Sal_130:6espera a J más que los centinelas a laH3068
+- Sal_130:7espere Israel a J...J hay misericordiaH3068
+- Sal_131:1J, no se ha envanecido mi corazón, niH3068
+- Sal_131:3espera, oh Israel, en J, desde ahoraH3068
+- Sal_132:1acuérdate, oh J, de David, y de todaH3068
+- Sal_132:2cómo juró a J, y prometió al Fuerte deH3068
+- Sal_132:5hasta que halle lugar para J, moradaH3068
+- Sal_132:8levántate, oh J, al lugar de tu reposoH3068
+- Sal_132:11en verdad juró J a David, y no seH3068
+- Sal_132:13porque J ha elegido a Sion; la quisoH3068
+- Sal_133:3allí envía J bendición, y vida eternaH3068
+- Sal_134:1bendecid a J vosotros...los siervos de JH3068
+- Sal_134:1en la casa de J estáis por las nochesH3068
+- Sal_134:2alzad vuestras manos...y bendecid a JH3068
+- Sal_134:3desde Sion te bendiga J, el cual haH3068
+- Sal_135:1alabad el nombre de J...siervos de JH3068
+- Sal_135:2los que estáis en la casa de J, en losH3068
+- Sal_135:5porque yo sé que J es grande, y elH3068
+- Sal_135:6todo lo que J quiere, lo hace, en losH3068
+- Sal_135:13J, eterno es tu nombre; tu memoriaH3068
+- Sal_135:13tu memoria, oh J, de generación enH3068
+- Sal_135:14porque J juzgará a su pueblo, y seH3068
+- Sal_135:19casa de Israel, bendecid a J; casaH3068
+- Sal_135:19Israel...casa de Aarón, bendecid a JH3068
+- Sal_135:20Leví...los que teméis a J, bendecid a JH3068
+- Sal_135:21desde Sion sea bendecido J, quienH3068
+- Sal_136:1alabad a J...él es bueno; porque paraH3068
+- Sal_137:4¿Cómo cantaremos cántico de J enH3068
+- Sal_137:7J, recuerda contra los hijos de EdomH3068
+- Sal_138:4te alabarán, oh J, todos los reyes deH3068
+- Sal_138:5cantarán de los caminos de J, porqueH3068
+- Sal_138:5porque la gloria de J es grandeH3068
+- Sal_138:6J es excelso, y atiende al humildeH3068
+- Sal_138:8J cumplirá su propósito en mí; tuH3068
+- Sal_138:8tu misericordia, oh J, es para siempreH3068
+- Sal_139:1oh J, tú me has examinado y conocidoH3068
+- Sal_139:4no...y he aquí, oh J, tú la sabes todaH3068
+- Sal_139:21odio, oh J, a los que te aborrecenH3068
+- Sal_140:1líbrame...J, del hombre malo; guárdameH3068
+- Sal_140:4guárdame, oh J, de manos del impíoH3068
+- Sal_140:6he dicho a J: Dios mío eres tú; escuchaH3068
+- Sal_140:6escucha, oh J, la voz de mis ruegosH3068
+- Sal_140:7J Señor, potente salvador mío, túH3068
+- Sal_140:8no concedas, oh J, al impío sus deseosH3068
+- Sal_140:12sé que J tomará a su cargo la causaH3068
+- Sal_141:1J, a ti he clamado; apresúrate a míH3068
+- Sal_141:3pon guarda a mi boca, oh J; guarda laH3068
+- Sal_141:8a ti, oh J, Señor, miran mis ojos; enH3068
+- Sal_142:1con mi voz clamaré a J...voz pediré a JH3068
+- Sal_142:5clamé a ti, oh J; dije: Tú eres miH3068
+- Sal_143:1J, oye mi oración, escucha mis ruegosH3068
+- Sal_143:7respóndeme pronto, oh J...desmaya miH3068
+- Sal_143:9líbrame de mis enemigos, oh J; en tiH3068
+- Sal_143:11por tu nombre, oh J, me vivificarásH3068
+- Sal_144:1bendito sea J, mi roca, quien adiestraH3068
+- Sal_144:3oh J, ¿qué es el hombre, para que enH3068
+- Sal_144:5oh J, inclina tus cielos y desciendeH3068
+- Sal_144:15bienaventurado el pueblo...Dios es JH3068
+- Sal_145:3grande es J, y digno de...alabanza; yH3068
+- Sal_145:8clemente y misericordioso es J, lentoH3068
+- Sal_145:9bueno es J para con todos, y susH3068
+- Sal_145:10te alaben, oh J, todas tus obras, yH3068
+- Sal_145:14sostiene J a todos los que caen, yH3068
+- Sal_145:17justo es J en todos sus caminos, yH3068
+- Sal_145:18cercano está J a todos...que le temenH3068
+- Sal_145:20J guarda a todos los que le aman, masH3068
+- Sal_145:21la alabanza de J proclamará mi bocaH3068
+- Sal_146:1alaba, oh alma mía, a JH3068
+- Sal_146:2alabaré a J en mi vida; cantaré salmosH3068
+- Sal_146:5bienaventurado...cuya esperanza...en JH3068
+- Sal_146:7que da pan a...J liberta a los cautivosH3068
+- Sal_146:8J abre los ojos...J levanta a...J ama aH3068
+- Sal_146:9J guarda a los extranjeros...a la viudaH3068
+- Sal_146:10reinará J para siempre; tu Dios, ohH3068
+- Sal_147:2J edifica a Jerusalén; a...desterradosH3068
+- Sal_147:6J exalta a los humildes, y humilla aH3068
+- Sal_147:7cantad a J con alabanza, cantad conH3068
+- Sal_147:11se complace J en los que le temen, y enH3068
+- Sal_147:12alaba a J, Jerusalén; alaba a tu DiosH3068
+- Sal_148:1alabad a J desde los cielos; alabadleH3068
+- Sal_148:5alaben el nombre de J; porque él mandóH3068
+- Sal_148:7alabad a J desde la tierra...los abismosH3068
+- Sal_148:13alaben el nombre de J, porque sólo suH3068
+- Sal_149:1cantad a J cántico nuevo; su alabanzaH3068
+- Sal_149:4J tiene contentamiento en su puebloH3068
+- Pro_1:7el principio de la...es el temor de JH3068
+- Pro_1:29por cuanto...no escogieron el temor de JH3068
+- Pro_2:5entenderás el temor de J, y hallarás elH3068
+- Pro_2:6J da la sabiduría, y de su boca viene elH3068
+- Pro_3:5fíate de J de todo tu corazón, y no teH3068
+- Pro_3:7no seas...teme a J, y apártate del malH3068
+- Pro_3:9honra a J con tus bienes, y...primiciasH3068
+- Pro_3:11no menosprecies, hijo...el castigo de JH3068
+- Pro_3:12porque J al que ama castiga, como elH3068
+- Pro_3:19J con sabiduría fundó la tierra; afirmóH3068
+- Pro_3:26J será tu confianza, y él preservaráH3068
+- Pro_3:32porque J abomina al perverso; mas suH3068
+- Pro_3:33la maldición de J está en la casa delH3068
+- Pro_5:21caminos del...están ante los ojos de JH3068
+- Pro_6:16seis cosas aborrece J, y aun 7 abominaH3068
+- Pro_8:13el temor de J es aborrecer el mal; laH3068
+- Pro_8:22J me poseía en el principio, ya...antesH3068
+- Pro_8:35hallará la...y alcanzará el favor de JH3068
+- Pro_9:10el temor de J es el principio de laH3068
+- Pro_10:3J no dejará padecer hambre al justo; masH3068
+- Pro_10:22la bendición de J es la que enriqueceH3068
+- Pro_10:27el temor de J aumentará los días; masH3068
+- Pro_10:29camino de J es fortaleza al perfectoH3068
+- Pro_11:1el peso falso es abominación a J; masH3068
+- Pro_11:20abominación son a J los perversos deH3068
+- Pro_12:2el bueno alcanzará favor de J; mas elH3068
+- Pro_12:22labios mentirosos son abominación a JH3068
+- Pro_14:2el que camina en su rectitud teme a JH3068
+- Pro_14:26en el temor de J está la...confianzaH3068
+- Pro_14:27el temor de J es manantial de vida paraH3068
+- Pro_15:3ojos de J están en todo lugar, mirandoH3068
+- Pro_15:8sacrificio...impíos es abominación a JH3068
+- Pro_15:9abominación es a J el camino del impíoH3068
+- Pro_15:11el Seol y el Abadón están delante de JH3068
+- Pro_15:16mejor es lo poco con el temor de J, queH3068
+- Pro_15:25J asolará la casa de los soberbiosH3068
+- Pro_15:26abominación son a J los pensamientosH3068
+- Pro_15:29J está lejos de los impíos; pero él oyeH3068
+- Pro_15:33temor de J es enseñanza de sabiduríaH3068
+- Pro_16:1mas de J es la respuesta de la lenguaH3068
+- Pro_16:2son limpios...pero J pesa los espíritusH3068
+- Pro_16:3encomienda a J tus obras, y...afirmadosH3068
+- Pro_16:4todas las cosas ha hecho J para sí, y aunH3068
+- Pro_16:5abominación es a J...altivo de corazónH3068
+- Pro_16:6y con el temor de J...se apartan del malH3068
+- Pro_16:7cuando los caminos...son agradables a JH3068
+- Pro_16:9piensa su camino...J endereza sus pasosH3068
+- Pro_16:11peso y balanzas justas son de J; obraH3068
+- Pro_16:20el que confía en J es bienaventuradoH3068
+- Pro_16:33la suerte...de J es la decisión de ellaH3068
+- Pro_17:3el crisol...pero J prueba los corazonesH3068
+- Pro_17:15ambos son igualmente abominación a JH3068
+- Pro_18:10torre fuerte es el nombre de J; a élH3068
+- Pro_18:22el bien, y alcanza la benevolencia de JH3068
+- Pro_19:3y luego contra J se irrita su corazónH3068
+- Pro_19:14herencia...mas de J la mujer prudenteH3068
+- Pro_19:17a J presta el que da al pobre, y elH3068
+- Pro_19:21hay...mas el consejo de J permaneceráH3068
+- Pro_19:23el temor de J es para vida, y con élH3068
+- Pro_20:10pesa falsa...cosas son abominación a JH3068
+- Pro_20:12el oído...y el ojo que ve...ha hecho JH3068
+- Pro_20:22vengaré; espera a J, y él te salvaráH3068
+- Pro_20:23abominación son a J las pesas falsasH3068
+- Pro_20:24de J son los pasos del hombre; ¿cómoH3068
+- Pro_20:27lámpara de J es el espíritu del hombreH3068
+- Pro_21:1está el corazón del rey en la mano de JH3068
+- Pro_21:2es recto en...pero J pesa los corazonesH3068
+- Pro_21:3hacer justicia...es a J más agradableH3068
+- Pro_21:30no hay sabiduría...ni consejo, contra JH3068
+- Pro_21:31alista...mas J es el que da la victoriaH3068
+- Pro_22:2el rico y el pobre...a ambos los hizo JH3068
+- Pro_22:4son la remuneración...y del temor de JH3068
+- Pro_22:12los ojos de J velan por la ciencia; masH3068
+- Pro_22:14contra el cual J estuviere airado caeráH3068
+- Pro_22:19para que tu confianza sea en J, te lasH3068
+- Pro_22:23porque J juzgará la causa de ellos, yH3068
+- Pro_23:17antes persevera en el temor de J todoH3068
+- Pro_24:18no sea que J lo mire, y le desagradeH3068
+- Pro_24:21teme a J, hijo mío, y al rey; no teH3068
+- Pro_25:22ascuas amontonarás...y J te lo pagaráH3068
+- Pro_28:5los que buscan a J entienden, las cosasH3068
+- Pro_28:25mas el que confía en J prosperaráH3068
+- Pro_29:13pobre y...J alumbra los ojos de ambosH3068
+- Pro_29:25mas el que confía en J será exaltadoH3068
+- Pro_29:26mas de J viene el juicio de cada unoH3068
+- Pro_30:9te niegue, y diga...¿Quién es J? O queH3068
+- Pro_31:30mujer que teme a J, ésa será alabadaH3068
+- Isa_1:2y escucha tú, tierra; porque habla JH3068
+- Isa_1:4dejaron a J, provocaron a ira al SantoH3068
+- Isa_1:9si J de...no nos hubiese dejado un restoH3068
+- Isa_1:10príncipes de Sodoma...la palabra de JH3068
+- Isa_1:11¿para qué...sirve, dice J...sacrificios?[[H3068]]
+- Isa_1:18venid luego, dice J, y estemos a cuentaH3068
+- Isa_1:20espada; porque la boca de J lo ha dichoH3068
+- Isa_1:24dice el Señor, J...el Fuerte de IsraelH3068
+- Isa_1:28y los que dejan a J serán consumidosH3068
+- Isa_2:2será confirmado el monte de la casa de JH3068
+- Isa_2:3dirán: Venid, y subamos al monte de JH3068
+- Isa_2:3saldrá...y de Jerusalén la palabra de JH3068
+- Isa_2:5venid, oh...y caminaremos a la luz de JH3068
+- Isa_2:10escóndete...la presencia temible de JH3068
+- Isa_2:11,17y J solo será exaltado en aquel díaH3068
+- Isa_2:12día de J de los ejércitos vendrá sobreH3068
+- Isa_2:19por la presencia temible de J, y por elH3068
+- Isa_2:21por la presencia formidable de J, y porH3068
+- Isa_3:1J de los ejércitos quita de Jerusalén yH3068
+- Isa_3:8la lengua...y sus obras han sido contra JH3068
+- Isa_3:13J está en pie para litigar, y...juzgar aH3068
+- Isa_3:14J vendrá a juicio contra los ancianos deH3068
+- Isa_3:15y moléis las caras de...dice el Señor, JH3068
+- Isa_3:16dice J: Por cuanto las hijas de Sion seH3068
+- Isa_3:17raerá la...y J descubrirá sus vergüenzasH3068
+- Isa_4:2el renuevo de J será para hermosura yH3068
+- Isa_4:5creará J sobre toda la morada del monteH3068
+- Isa_5:7la viña de J de los...es la casa de IsraelH3068
+- Isa_5:9ha llegado a mis oídos de parte de J deH3068
+- Isa_5:12no miran la obra de J, ni consideran laH3068
+- Isa_5:16pero J de los ejércitos será exaltadoH3068
+- Isa_5:24desecharon la ley de J de los ejércitosH3068
+- Isa_5:25encendió el furor de J contra su puebloH3068
+- Isa_6:3santo, santo, santo, J de los ejércitosH3068
+- Isa_6:5porque...han visto mis ojos al Rey, J deH3068
+- Isa_6:12que J haya echado lejos a los hombresH3068
+- Isa_7:3dijo J a Isaías: Sal ahora al encuentroH3068
+- Isa_7:7J el Señor dice así: No subsistirá, niH3068
+- Isa_7:10habló también J a Acaz, diciendoH3068
+- Isa_7:11pide para ti señal de J, ya sea de abajoH3068
+- Isa_7:12respondió...no pediré, y no tentaré a JH3068
+- Isa_7:17J hará venir sobre ti, y sobre tu puebloH3068
+- Isa_7:18silbará J a la mosca que está en el finH3068
+- Isa_8:1dijo J: Toma una tabla grande, y escribeH3068
+- Isa_8:3J: Ponle por nombre Maher-salal-hasbazH3068
+- Isa_8:5otra vez volvió J a hablarme, diciendoH3068
+- Isa_8:11J me dijo de esta manera con mano fuerteH3068
+- Isa_8:13a J de los ejércitos, a él santificadH3068
+- Isa_8:17esperaré, pues, a J, el cual escondióH3068
+- Isa_8:18yo y los hijos que me dio J somos porH3068
+- Isa_8:18parte de J de los ejércitos, que moraH3068
+- Isa_9:7el celo de J de los ejércitos hará estoH3068
+- Isa_9:11pero J levantará los enemigos de RezínH3068
+- Isa_9:13el pueblo...ni buscó a J de los ejércitosH3068
+- Isa_9:14J cortará de Israel cabeza y cola, ramaH3068
+- Isa_9:19por la ira de J de los ejércitos seH3068
+- Isa_10:16J de los ejércitos, enviará debilidadH3068
+- Isa_10:20se apoyarán con verdad en J, el SantoH3068
+- Isa_10:23J...hará consumación ya determinada enH3068
+- Isa_10:24J...dice así: Pueblo mío, morador deH3068
+- Isa_10:26y levantará J...azote contra él como laH3068
+- Isa_10:33Señor, J de los ejércitos, desgajaráH3068
+- Isa_11:2y reposará sobre él el Espíritu de JH3068
+- Isa_11:3y le hará entender...en el temor de JH3068
+- Isa_11:9tierra será llena del conocimiento de JH3068
+- Isa_11:11J alzará otra vez su mano para recobrarH3068
+- Isa_11:15secará J la lengua del mar de EgiptoH3068
+- Isa_12:1cantaré a ti, oh J...aunque te enojasteH3068
+- Isa_12:2fortaleza y mi canción es JAH J, quienH3068
+- Isa_12:4diréis en aquel día: Cantad a J, aclamadH3068
+- Isa_12:5cantad salmos a J, porque ha hecho cosasH3068
+- Isa_13:4J de los ejércitos pasa revista a lasH3068
+- Isa_13:5vienen...J y los instrumentos de su iraH3068
+- Isa_13:6aullad, porque cerca está el día de JH3068
+- Isa_13:9he aquí el día de J viene, terrible, yH3068
+- Isa_13:13moverá...en la indignación de J de losH3068
+- Isa_14:1J tendrá piedad de Jacob, y...a IsraelH3068
+- Isa_14:2poseerá por siervos...en la tierra de JH3068
+- Isa_14:3el día que J te dé reposo de tu trabajoH3068
+- Isa_14:5quebrantó J el báculo de los impíos, elH3068
+- Isa_14:22yo me levantaré contra ellos, dice JH3068
+- Isa_14:22raeré de Babilonia el nombre...dice JH3068
+- Isa_14:23y la barreré con...destrucción, dice JH3068
+- Isa_14:24J de los ejércitos juró diciendo...haráH3068
+- Isa_14:27J de los ejércitos lo ha determinadoH3068
+- Isa_14:32que J fundó a Sion, y que a ella seH3068
+- Isa_16:13la palabra que pronunció J sobre MoabH3068
+- Isa_16:14J ha hablado, diciendo: Dentro de tresH3068
+- Isa_17:3y cesará el socorro de Efraín...dice JH3068
+- Isa_17:6y quedarán en él rebuscos...dice J DiosH3068
+- Isa_18:4J me dijo así: Me estaré quieto, y losH3068
+- Isa_18:7será traída ofrenda a J de los ejércitosH3068
+- Isa_18:7lugar del nombre de J de los ejércitosH3068
+- Isa_19:1aquí que J monta sobre una ligera nubeH3068
+- Isa_19:4entregaré a Egipto en...dice el Señor, JH3068
+- Isa_19:12lo que J...ha determinado sobre EgiptoH3068
+- Isa_19:14J mezcló espíritu de vértigo en medioH3068
+- Isa_19:16de la mano alta de J de los ejércitosH3068
+- Isa_19:17temerá por causa del consejo que J deH3068
+- Isa_19:18que juren por J de los ejércitos; unaH3068
+- Isa_19:19altar para J en medio de la tierra deH3068
+- Isa_19:19y monumento a J junto a su fronteraH3068
+- Isa_19:20y por testimonio a J de los ejércitosH3068
+- Isa_19:20clamarán a J a causa de sus opresoresH3068
+- Isa_19:21y J será conocido de Egipto, y los deH3068
+- Isa_19:21conocerán a J...harán votos a J, y losH3068
+- Isa_19:22herirá J a Egipto...se convertirán a JH3068
+- Isa_19:23egipcios servirán con los asirios a JH3068
+- Isa_19:25J...los bendecirá, diciendo: Bendito elH3068
+- Isa_20:2aquel tiempo habló J por medio de IsaíasH3068
+- Isa_20:3y dijo J: De la manera que anduvo miH3068
+- Isa_21:10dicho lo que oí de J de los ejércitosH3068
+- Isa_21:16así me ha dicho J: De aquí a un añoH3068
+- Isa_21:17porque J Dios de Israel lo ha dichoH3068
+- Isa_22:5de parte del Señor, J de los ejércitosH3068
+- Isa_22:12J de los ejércitos, llamó en este díaH3068
+- Isa_22:14esto fue revelado...de parte de J de losH3068
+- Isa_22:14hasta que muráis, dice el Señor, J deH3068
+- Isa_22:15J...dice así: Vé, entra a este tesoreroH3068
+- Isa_22:17J te transportará en duro cautiverioH3068
+- Isa_22:25en aquel día, dice J...el clavo hincadoH3068
+- Isa_22:25carga...echará a perder; porque J hablóH3068
+- Isa_23:9J de los...lo decretó, para envilecer laH3068
+- Isa_23:11J mandó respecto a Canaán, que susH3068
+- Isa_23:17al fin de los 70 años visitará J a TiroH3068
+- Isa_23:18sus...y ganancias serán consagrados a JH3068
+- Isa_23:18para los que estuvieren delante de JH3068
+- Isa_24:1aquí que J vacía la tierra y la desnudaH3068
+- Isa_24:3porque J ha pronunciado esta palabraH3068
+- Isa_24:14cantarán gozosos por la grandeza de JH3068
+- Isa_24:15glorificad por esto a J...sea nombrado JH3068
+- Isa_24:21J castigará al ejército de los cielosH3068
+- Isa_24:23el sol se confundirá, cuando J de losH3068
+- Isa_25:1J...eres mi Dios; te exaltaré, alabaréH3068
+- Isa_25:6J de los ejércitos hará en este monteH3068
+- Isa_25:8y enjugará J el Señor toda lágrima deH3068
+- Isa_25:8quitará la afrenta de su...J lo ha dichoH3068
+- Isa_25:9éste es J a quien hemos esperado, nosH3068
+- Isa_25:10la mano de J reposará en este monteH3068
+- Isa_26:4confiad en J...porque en J el Señor estáH3068
+- Isa_26:8en el camino de tus juicios, oh J, teH3068
+- Isa_26:10hará iniquidad, y no mirará a la...de JH3068
+- Isa_26:11J, tu mano está alzada, pero ellos noH3068
+- Isa_26:12J, tú nos darás paz, porque tambiénH3068
+- Isa_26:13J Dios nuestro, otros señores fuera deH3068
+- Isa_26:15aumentaste...oh J, aumentaste el puebloH3068
+- Isa_26:16J, en la tribulación te buscaronH3068
+- Isa_26:17como...hemos sido delante de ti, oh JH3068
+- Isa_26:21que J sale de su lugar para castigar alH3068
+- Isa_27:1en aquel día J castigará con su espadaH3068
+- Isa_27:3yo J la guardo, cada momento la regaréH3068
+- Isa_27:12trillará J desde el río Eufrates hastaH3068
+- Isa_27:13y adorarán a J en el monte santo, enH3068
+- Isa_28:2J tiene uno que es fuerte y poderosoH3068
+- Isa_28:5aquel día J de los ejércitos será porH3068
+- Isa_28:13la palabra...de J les será mandamientoH3068
+- Isa_28:14varones burladores...oíd la palabra de JH3068
+- Isa_28:16J el Señor dice...he puesto en Sion porH3068
+- Isa_28:21J se levantará...en el monte PerazimH3068
+- Isa_28:22he oído del Señor, J de los ejércitosH3068
+- Isa_28:29esto salió de J de los ejércitos, paraH3068
+- Isa_29:6por J de los ejércitos serás visitadaH3068
+- Isa_29:10J derramó sobre vosotros espíritu deH3068
+- Isa_29:15¡ay de los que se esconden de J...dicenH3068
+- Isa_29:19los humildes crecerán en alegría en JH3068
+- Isa_29:22J, que redimió a Abraham, dice así aH3068
+- Isa_30:1¡ay de los hijos que se apartan, dice JH3068
+- Isa_30:9hijos que no quisieron oír la ley de JH3068
+- Isa_30:15así dijo J el Señor, el Santo de IsraelH3068
+- Isa_30:18J esperará...tener piedad de vosotrosH3068
+- Isa_30:18J es Dios justo; bienaventurados todosH3068
+- Isa_30:26el día que vendare J la herida de suH3068
+- Isa_30:27aquí que el nombre de J viene de lejosH3068
+- Isa_30:29para venir al monte de J, al Fuerte deH3068
+- Isa_30:30J hará oír su potente voz, y hará verH3068
+- Isa_30:31vara, con la voz de J será quebrantadaH3068
+- Isa_30:32cada golpe de...que asiente J sobre élH3068
+- Isa_30:33el soplo de J, como torrente de azufreH3068
+- Isa_31:1no miran al Santo de Israel, ni...a JH3068
+- Isa_31:3extender J su mano, caerá el ayudadorH3068
+- Isa_31:4J me dijo a mí de esta manera: Como elH3068
+- Isa_31:4J de los ejércitos descenderá a pelearH3068
+- Isa_31:5amparará J de...a Jerusalén, amparandoH3068
+- Isa_31:9con pavor, dejarán sus banderas, dice JH3068
+- Isa_32:6para hablar escarnio contra J, dejandoH3068
+- Isa_33:2oh J, ten misericordia de nosotros, a tiH3068
+- Isa_33:5exaltado J, el cual mora en las alturasH3068
+- Isa_33:6salvación; el temor de J será su tesoroH3068
+- Isa_33:10ahora me levantaré, dice J; ahora seréH3068
+- Isa_33:21allí será J...fuerte, lugar de ríos, deH3068
+- Isa_33:22J es...juez, J es...legislador, J es...reyH3068
+- Isa_34:2J está airado contra todas las nacionesH3068
+- Isa_34:6llena está de sangre la espada de JH3068
+- Isa_34:6porque J tiene sacrificios en Bosra, yH3068
+- Isa_34:8de venganza de J, año de retribucionesH3068
+- Isa_34:16inquirid en el libro de J, y leed siH3068
+- Isa_35:2verán la gloria de J, la hermosura delH3068
+- Isa_35:10los redimidos de J volverán, y vendránH3068
+- Isa_36:7si me decís: En J nuestro Dios confiamosH3068
+- Isa_36:10acaso vine...destruirla sin J? J me dijoH3068
+- Isa_36:15confiar en J, diciendo...J nos libraráH3068
+- Isa_36:18no os engañe...diciendo: J nos libraráH3068
+- Isa_36:20que J libre de mi mano a Jerusalén?[[H3068]]
+- Isa_37:1cubierto de cilicio vino a la casa de JH3068
+- Isa_37:4oirá J tu Dios las palabras del RabsacesH3068
+- Isa_37:4palabras que oyó J tu Dios; eleva, puesH3068
+- Isa_37:6ha dicho J: No temas por las palabrasH3068
+- Isa_37:14subió a la casa de J, y...delante de JH3068
+- Isa_37:15entonces Ezequías oró a J, diciendoH3068
+- Isa_37:16J de los ejércitos, Dios de Israel, queH3068
+- Isa_37:17oh J, tu oído, y oye; abre, oh J, tusH3068
+- Isa_37:18oh J, los reyes de Asiria destruyeronH3068
+- Isa_37:20J Dios...líbranos...que sólo tú eres JH3068
+- Isa_37:21ha dicho J Dios de Israel: Acerca de loH3068
+- Isa_37:22son las palabras que J habló contra élH3068
+- Isa_37:32el celo de J de los ejércitos hará estoH3068
+- Isa_37:33así dice J acerca del rey de AsiriaH3068
+- Isa_37:34y no entrará en esta ciudad, dice JH3068
+- Isa_37:36salió el ángel de J y mató a cientoH3068
+- Isa_38:1J dice...Ordena tu casa, porque morirásH3068
+- Isa_38:2volvió...a la pared, e hizo oración a JH3068
+- Isa_38:3y dijo: Oh J, te ruego que te acuerdesH3068
+- Isa_38:4vino palabra de J a Isaías, diciendoH3068
+- Isa_38:5di a...J Dios de David tu padre dice asíH3068
+- Isa_38:7te será señal de parte de J, que J haráH3068
+- Isa_38:14J, violencia padezco; fortalécemeH3068
+- Isa_38:20J me salvará; por tanto cantaremosH3068
+- Isa_38:20cánticos en la casa de J todos los díasH3068
+- Isa_38:22¿qué señal...que subiré a la casa de J?[[H3068]]
+- Isa_39:5dijo...Oye palabra de J de los ejércitosH3068
+- Isa_39:6Babilonia...ninguna cosa quedará, dice JH3068
+- Isa_39:8la palabra de J que has hablado es buenaH3068
+- Isa_40:2doble ha recibido de la mano de J porH3068
+- Isa_40:3preparad camino a J; enderezad calzadaH3068
+- Isa_40:5se manifestará la gloria de J, y todaH3068
+- Isa_40:5verá; porque la boca de J ha habladoH3068
+- Isa_40:7la hierba...el viento de J sopló en ellaH3068
+- Isa_40:10que J el Señor vendrá con poder, y suH3068
+- Isa_40:13¿quién enseñó al Espíritu de J, o leH3068
+- Isa_40:27mi camino está escondido de J, y de miH3068
+- Isa_40:28que el Dios eterno es J, el cual creóH3068
+- Isa_40:31que esperan a J tendrán nuevas fuerzasH3068
+- Isa_41:4yo J, el primero, y...con los postrerosH3068
+- Isa_41:13yo J soy tu Dios, quien te sostiene deH3068
+- Isa_41:14yo soy tu socorro, dice J; el Santo deH3068
+- Isa_41:16te regocijarás en J, te gloriarás en elH3068
+- Isa_41:17yo J los oiré, yo el Dios de Israel noH3068
+- Isa_41:20la mano de J hace esto, y que el SantoH3068
+- Isa_41:21alegad por vuestra causa, dice J...ReyH3068
+- Isa_42:5así dice J Dios, Creador de los cielosH3068
+- Isa_42:6yo J te he llamado en Justicia, y teH3068
+- Isa_42:8yo J; este es mi nombre; y a otro no daréH3068
+- Isa_42:10cantad a J un nuevo cántico...alabanzaH3068
+- Isa_42:12den gloria a J, y anuncien sus looresH3068
+- Isa_42:13J saldrá como gigante, y como hombreH3068
+- Isa_42:19¿quién es...ciego como el siervo de J?[[H3068]]
+- Isa_42:21J se complació por amor de su JusticiaH3068
+- Isa_42:24quién...¿no fue J, contra quien pecamos?[[H3068]]
+- Isa_43:1así dice J, Creador tuyo, oh Jacob, yH3068
+- Isa_43:3yo J, Dios tuyo, el Santo...tu SalvadorH3068
+- Isa_43:10vosotros sois mis testigos, dice J, y miH3068
+- Isa_43:11yo, yo J, y fuera de mí no hay quienH3068
+- Isa_43:12sois mis testigos, dice J, que yo soyH3068
+- Isa_43:14así dice J, Redentor vuestro, el SantoH3068
+- Isa_43:15yo J, Santo vuestro, Creador de IsraelH3068
+- Isa_43:16dice J, el que abre camino en el marH3068
+- Isa_44:2dice J, Hacedor tuyo, y el que te formóH3068
+- Isa_44:5dirá: Yo soy de J; el otro se llamaráH3068
+- Isa_44:5otro escribirá con su mano: A J, y seH3068
+- Isa_44:6así dice J Rey de Israel, y su RedentorH3068
+- Isa_44:6J de los ejércitos: Yo soy el primero, yH3068
+- Isa_44:23cantad loores, oh cielos, porque J loH3068
+- Isa_44:23porque J redimió a Jacob, y en IsraelH3068
+- Isa_44:24dice J tu Redentor...Yo J, que lo hagoH3068
+- Isa_45:1así dice J a su ungido, a Ciro, al cualH3068
+- Isa_45:3sepas que yo soy J, el Dios de IsraelH3068
+- Isa_45:5yo soy J, y ninguno más hay; no hay DiosH3068
+- Isa_45:6no hay más que yo; yo J, y ninguno másH3068
+- Isa_45:7hago la paz...Yo J soy el que hago todoH3068
+- Isa_45:8destilen la justicia...Yo J lo he creadoH3068
+- Isa_45:11J, el Santo de Israel, y su FormadorH3068
+- Isa_45:13ni por dones, dice J de los ejércitosH3068
+- Isa_45:14así dice J: El trabajo de Egipto, lasH3068
+- Isa_45:17Israel será salvo en J con salvaciónH3068
+- Isa_45:18dijo J, que creó los cielos...yo soy JH3068
+- Isa_45:19soy J que hablo justicia, que anuncioH3068
+- Isa_45:21¿quién hizo oír esto desde...sino yo J?[[H3068]]
+- Isa_45:24ciertamente en J está la justicia y laH3068
+- Isa_45:25en J será Justificada y se gloriaráH3068
+- Isa_47:4nuestro Redentor, J de los ejércitos esH3068
+- Isa_48:1que juran en el nombre de J, y hacenH3068
+- Isa_48:2Dios...su nombre es J de los ejércitosH3068
+- Isa_48:14quien J amó ejecutará su voluntad enH3068
+- Isa_48:16me envió J el Señor, y su EspírituH3068
+- Isa_48:17J, Redentor tuyo...yo soy J Dios tuyoH3068
+- Isa_48:20decid: Redimió J a Jacob su siervoH3068
+- Isa_48:22no hay paz para los malos, dijo JH3068
+- Isa_49:1J me llamó desde el vientre, desde lasH3068
+- Isa_49:4pero mi causa está delante de J, y miH3068
+- Isa_49:5pues, dice J, el que me formó desde elH3068
+- Isa_49:5porque estimado seré en los ojos de JH3068
+- Isa_49:7así ha dicho J, Redentor de Israel, elH3068
+- Isa_49:7adorarán por J; porque fiel es el SantoH3068
+- Isa_49:8dijo J: En tiempo aceptable te oí, y enH3068
+- Isa_49:13porque J ha consolado a su pueblo, y deH3068
+- Isa_49:14me dejó J, y el Señor se olvidó de míH3068
+- Isa_49:18vivo yo, dice J, que de todos, como deH3068
+- Isa_49:22dijo J el Señor: He aquí, yo tenderéH3068
+- Isa_49:23y conocerás que yo soy J, que no seH3068
+- Isa_49:25así dice J: Ciertamente el cautivo seráH3068
+- Isa_49:26conocerá...que yo J soy Salvador tuyoH3068
+- Isa_50:1dijo J: ¿Qué es de la carta de repudioH3068
+- Isa_50:4J el Señor me dio lengua de sabios, paraH3068
+- Isa_50:5J el Señor me abrió el oído, y yo no fuiH3068
+- Isa_50:7J el Señor me ayudará, por tanto no meH3068
+- Isa_50:9J el Señor me ayudará; ¿quién hay queH3068
+- Isa_50:10¿quién...teme a J, y oye la voz de suH3068
+- Isa_50:10confíe en el nombre de J, y apóyese enH3068
+- Isa_51:1oídme, los que seguís...que buscáis a JH3068
+- Isa_51:3consolará J a Sion; consolará todas susH3068
+- Isa_51:3cambiará...y su soledad en huerto de JH3068
+- Isa_51:9despiértate, vístete de...oh brazo de JH3068
+- Isa_51:11ciertamente volverán...redimidos de JH3068
+- Isa_51:13te has olvidado de J tu Hacedor, queH3068
+- Isa_51:15J, que agito el mar...cuyo nombre es JH3068
+- Isa_51:17que bebiste de la mano de J el cálizH3068
+- Isa_51:20llenos de la indignación de J, de laH3068
+- Isa_51:22así dijo J tu Señor, y tu Dios, el cualH3068
+- Isa_52:3así dice J: De balde fuisteis vendidosH3068
+- Isa_52:4dijo J el Señor: Mi pueblo descendió aH3068
+- Isa_52:5¿qué hago aquí, dice J...que mi pueblo esH3068
+- Isa_52:5se enseñorean, lo hacen aullar, dice JH3068
+- Isa_52:8ojo verán que J vuelve a traer a SionH3068
+- Isa_52:9J ha consolado a su pueblo, a JerusalénH3068
+- Isa_52:10J desnudó su santo brazo ante los ojosH3068
+- Isa_52:11salid...que lleváis los utensilios de JH3068
+- Isa_52:12porque J irá delante de vosotros, y osH3068
+- Isa_53:1quién se ha manifestado el brazo de J?[[H3068]]
+- Isa_53:6mas J cargó en él el pecado de todosH3068
+- Isa_53:10con todo eso, J quiso quebrantarloH3068
+- Isa_53:10la voluntad de J será en...prosperadaH3068
+- Isa_54:1porque más son los hijos...ha dicho JH3068
+- Isa_54:5marido es tu Hacedor; J...es su nombreH3068
+- Isa_54:6te llamó J, y como a la esposa de laH3068
+- Isa_54:8tendré compasión...dijo J tu RedentorH3068
+- Isa_54:10dijo J, el que tiene misericordia deH3068
+- Isa_54:13todos tus hijos serán enseñados por JH3068
+- Isa_54:17es la herencia de los siervos de JH3068
+- Isa_54:17y su salvación de mí vendrá, dijo JH3068
+- Isa_55:5por causa de J tu Dios, y del Santo deH3068
+- Isa_55:6buscad a J mientras puede ser halladoH3068
+- Isa_55:7a J, el cual tendrá de él misericordiaH3068
+- Isa_55:8vuestros caminos mis caminos, dijo JH3068
+- Isa_55:13será a J por nombre, por señal eternaH3068
+- Isa_56:1así dijo J: Guardad derecho, y hacedH3068
+- Isa_56:3y el extranjero que sigue a J no hableH3068
+- Isa_56:3me apartará totalmente J de su puebloH3068
+- Isa_56:4dijo J: A los eunucos que guarden misH3068
+- Isa_56:6extranjeros que sigan a J para servirleH3068
+- Isa_56:6y que amen el nombre de J para ser susH3068
+- Isa_56:8dice J el Señor, el que reúne a...IsraelH3068
+- Isa_57:19produciré fruto de labios...dijo J; yH3068
+- Isa_58:5¿llamaréis...ayuno, y día agradable a J?[[H3068]]
+- Isa_58:8y la gloria de J será tu retaguardiaH3068
+- Isa_58:9entonces invocarás...te oirá J; clamarásH3068
+- Isa_58:11J te pastoreará siempre...las sequíasH3068
+- Isa_58:13llamares delicia, santo, glorioso de JH3068
+- Isa_58:14te deleitarás en J; y yo te haré subirH3068
+- Isa_58:14porque la boca de J lo ha habladoH3068
+- Isa_59:1no se ha acortado la mano de J...salvarH3068
+- Isa_59:13el prevaricar y mentir contra J, y elH3068
+- Isa_59:15vio J, y desagradó a sus ojos, porqueH3068
+- Isa_59:19temerán...el occidente el nombre de JH3068
+- Isa_59:19mas el Espíritu de J levantará banderaH3068
+- Isa_59:20se volvieren de la iniquidad en...dice JH3068
+- Isa_59:21y este será mi pacto con ellos, dijo JH3068
+- Isa_59:21Espíritu...no faltarán de tu boca...dijo JH3068
+- Isa_60:1luz, y la gloria de J ha nacido sobre tiH3068
+- Isa_60:2sobre ti amanecerá J, y sobre ti seráH3068
+- Isa_60:6traerán oro...publicarán alabanzas de JH3068
+- Isa_60:9traer...su oro con ellos, al nombre de JH3068
+- Isa_60:14llamarán Ciudad de J, Sion del SantoH3068
+- Isa_60:16y conocerás que yo J soy el SalvadorH3068
+- Isa_60:19,20que J te será por luz perpetua, yH3068
+- Isa_60:22yo J, a su tiempo haré que esto seaH3068
+- Isa_61:1J el Señor está sobre mí...me ungió JH3068
+- Isa_61:2proclamar el año...buena voluntad de JH3068
+- Isa_61:3serán...plantío de J, para gloria suyaH3068
+- Isa_61:6vosotros seréis llamados sacerdotes de JH3068
+- Isa_61:8yo J soy amante del derecho, aborrecedorH3068
+- Isa_61:9reconocerán...son linaje bendito de JH3068
+- Isa_61:10me gozaré en J, mi alma se alegrará enH3068
+- Isa_61:11así J el Señor hará brotar justicia yH3068
+- Isa_62:2nombre nuevo, que la boca de J nombraráH3068
+- Isa_62:3serás corona de gloria en la mano de JH3068
+- Isa_62:4el amor de J estará en ti, y tu tierraH3068
+- Isa_62:6los que os acordáis de J, no reposéisH3068
+- Isa_62:8Juré J por su mano derecha, y por suH3068
+- Isa_62:9sino que...lo comerán, y alabarán a JH3068
+- Isa_62:11que J hizo oír hasta lo último de laH3068
+- Isa_62:12llamarán Pueblo Santo, Redimidos de JH3068
+- Isa_63:7de las misericordias de J haré memoriaH3068
+- Isa_63:7de las alabanzas de J, conforme a todoH3068
+- Isa_63:7todo lo que J nos ha dado, y la grandezaH3068
+- Isa_63:14el Espíritu de J los pastoreó, como aH3068
+- Isa_63:16tú, oh J, eres nuestro padre; nuestroH3068
+- Isa_63:17¿por qué, oh J, nos has hecho errar deH3068
+- Isa_64:8ahora pues, J, tú eres nuestro padreH3068
+- Isa_64:9no te enojes sobremanera, J, ni tengasH3068
+- Isa_64:12¿te estarás quieto, oh J, sobre estasH3068
+- Isa_65:7por vuestras iniquidades, dice J, y porH3068
+- Isa_65:8así ha dicho J: Como si alguno hallaseH3068
+- Isa_65:11vosotros los que dejáis a J...olvidáisH3068
+- Isa_65:13así dijo J el Señor: He aquí que misH3068
+- Isa_65:15J el Señor te matará, y a sus siervosH3068
+- Isa_65:23son linaje de los benditos de J, y susH3068
+- Isa_65:25ni harán mal...mi santo monte, dijo JH3068
+- Isa_66:1J dijo así: El cielo es mi trono, y laH3068
+- Isa_66:2mi mano hizo todas estas cosas...dice JH3068
+- Isa_66:5oíd palabra de J, vosotros...que tembláisH3068
+- Isa_66:5os aborrecen...dijeron: J sea glorificadoH3068
+- Isa_66:6voz de J que da el pago a sus enemigosH3068
+- Isa_66:9hago dar a luz, ¿no haré nacer? dijo JH3068
+- Isa_66:12dice J: He aquí que yo extiendo...pazH3068
+- Isa_66:14la mano de J para con sus siervos seráH3068
+- Isa_66:15J vendrá con fuego, y sus carros comoH3068
+- Isa_66:16J juzgará...con fuego y con su espadaH3068
+- Isa_66:16los muertos de J serán multiplicadosH3068
+- Isa_66:17comen carne de cerdo...talados, dice JH3068
+- Isa_66:20por ofrenda a J, en caballos...dice JH3068
+- Isa_66:20traen la ofrenda en...a la casa de JH3068
+- Isa_66:21también de ellos...sacerdotes...dice JH3068
+- Isa_66:22permanecerán delante de mí, dice J, asíH3068
+- Isa_66:23vendrán...adorar delante de mí, dijo JH3068
+- [Continúa en JEHOVÁ (cont.)]

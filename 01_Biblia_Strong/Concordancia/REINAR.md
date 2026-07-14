@@ -1,0 +1,269 @@
+---
+tipo: concordancia
+palabra: REINAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REINAR
+
+- Gén_36:31los reyes que reinaron en...de EdomH4427
+- Gén_36:31antes que reinase rey sobre...de IsraelH4427
+- Gén_36:32Bela hijo de Beor reinó en Edom; y elH4427
+- Gén_36:33murió Bela, y reinó en su lugar JobabH4427
+- Gén_36:34murió Jobab, y en su lugar reinó HusamH4427
+- Gén_36:35murió Husam, y reinó en su lugar HadadH4427
+- Gén_36:36murió Hadad, y...reinó Samla de MasrecaH4427
+- Gén_36:37murió Samla, y reinó en su lugar SaúlH4427
+- Gén_36:38murió...en lugar suyo reinó Baal-hanánH4427
+- Gén_36:39y murió...y reinó Hadad en lugar suyoH4427
+- Gén_37:8¿reinarás...o señorearás sobre nosotrosH4427
+- Éxo_15:18Jehová reinará eternamente y...siempreH4427
+- Jos_13:10Sehón rey...el cual reinó en HesbónH4427
+- Jos_13:12todo el reino de Og...reinó en AstarotH4427
+- Jos_13:21el reino de Sehón...que reinó en HesbónH4427
+- Jue_4:2Jabín rey de...el cual reinó en HazorH4427
+- Jue_9:8dijeron al olivo: Reina sobre nosotrosH4427
+- Jue_9:10, Jue_9:14a la...Anda tú, reina sobre nosotrosH4427
+- Jue_9:12vid: Pues ven tú, reina sobre nosotrosH4427
+- 1Sa_8:7han desechado para que no reine sobreH4427
+- 1Sa_8:9cómo les tratará el rey que reinará sobreH4427
+- 1Sa_8:11hará el rey que reinará sobre vosotrosH4427
+- 1Sa_11:12que decían: ¿Ha de reinar Saúl sobreH4427
+- 1Sa_12:12que ha de reinar sobre nosotros un reyH4427
+- 1Sa_12:14como el rey que reina...servís a JehováH4427
+- 1Sa_13:1reinado Saúl un año; y cuando hubo r dosH4427
+- 1Sa_16:1yo desechado...que no reine sobre Israel?[[H4427]]
+- 1Sa_23:17y tú reinarás sobre Israel, y yo seréH4427
+- 1Sa_24:20como yo entiendo que tú has de reinarH4428
+- 2Sa_2:10Is-boset...comenzó a reinar...y reinóH4427
+- 2Sa_2:11David reinó en Hebrón sobre la casa deH4428
+- 2Sa_3:21y tú reines como lo desea tu corazónH4428
+- 2Sa_5:2cuando Saúl reinaba...sacabas a Israel aH4428
+- 2Sa_5:4cuando comenzó a reinar, y reinó 40 añosH4427
+- 2Sa_5:5en Hebrón reinó sobre Judá siete años yH4427
+- 2Sa_5:5y en Jerusalén reinó treinta y tres añosH4427
+- 2Sa_8:15reinó David sobre todo Israel; y DavidH4427
+- 2Sa_10:1Amón, y reinó en lugar suyo Hanún su hijoH4427
+- 2Sa_15:10oigáis...trompeta diréis: Absalón reinaH4427
+- 2Sa_16:8Saúl, en lugar del cual tú has reinadoH4427
+- 1Re_1:5Adonías...rebeló, diciendo: Yo reinaréH4427
+- 1Re_1:11¿no has oído que reina Adonías hijo deH4427
+- 1Re_1:13, 1Re_1:17Salomón tu hijo reinará después deH4427
+- 1Re_1:13juraste...¿Por qué, pues, reina Adonías?[[H4427]]
+- 1Re_1:18Adonías reina, y tú...ahora...no lo sabesH4427
+- 1Re_1:24¿has dicho...Adonías reinará después deH4427
+- 1Re_1:30tu hijo Salomón reinará después de míH4427
+- 1Re_1:35sentará en mi trono, y él reinará por miH4427
+- 1Re_2:11los días que reinó David sobre IsraelH4427
+- 1Re_2:11siete años reinó en Hebrón, y 33 años rH4427
+- 1Re_2:15para que yo reinara; mas el reino fueH4427
+- 1Re_4:1reinó, pues...Salomón sobre todo IsraelH4428
+- 1Re_11:25aborreció a Israel, y reinó sobre SiriaH4427
+- 1Re_11:37y tú reinarás en todas las cosas queH4427
+- 1Re_11:42que Salomón reinó en Jerusalén...40 añosH4427
+- 1Re_11:43sepultado...y reinó en su lugar RoboamH4427
+- 1Re_12:17reinó Roboam sobre los hijos de IsraelH4427
+- 1Re_14:19cómo reinó...está escrito en el libro deH4427
+- 1Re_14:20tiempo que reinó Jeroboam fue de 22 añosH4427
+- 1Re_14:20Jeroboam...reinó en su lugar Nadab suH4427
+- 1Re_14:21Roboam hijo de Salomón reinó en JudáH4427
+- 1Re_14:2141 años era Roboam...comenzó a reinarH4427
+- 1Re_14:21y diecisiete años reinó en JerusalénH4427
+- 1Re_14:31Roboam...reinó en su lugar Abiam su hijoH4427
+- 1Re_15:1año...Abiam comenzó a reinar sobre JudáH4427
+- 1Re_15:2reinó tres años en...su madre fue MaacaH4427
+- 1Re_15:8durmió Abiam...y reinó Asa su hijo en suH4427
+- 1Re_15:9año 20...Asa comenzó a reinar obre JudáH4427
+- 1Re_15:10reinó cuarenta y un años en JerusalénH4427
+- 1Re_15:24Asa...reinó en su lugar Josafat su hijoH4427
+- 1Re_15:25Nadab...comenzó a reinar sobre Israel enH4427
+- 1Re_15:25Nadab hijo...reinó sobre Israel dos añosH4427
+- 1Re_15:28lo mató...Baasa...y reinó en lugar suyoH4427
+- 1Re_15:33comenzó a reinar Baasa...reinó 24 añosH4427
+- 1Re_16:6y durmió Baasa...y reinó en su lugar ElaH4427
+- 1Re_16:8comenzó a reinar Ela...y reinó dos añosH4427
+- 1Re_16:10Zimri...lo mató...y reinó en lugar suyoH4427
+- 1Re_16:11que llegó a reinar y estuvo sentado enH4427
+- 1Re_16:15comenzó a reinar Zimri, y reinó 7 díasH4427
+- 1Re_16:23año...comenzó a reinar Omri sobre IsraelH4427
+- 1Re_16:23reinó 12 años; en Tirsa reinó seis añosH4427
+- 1Re_16:25peor que todos los que habían reinadoH4438
+- 1Re_16:28Omri...reinó en lugar suyo Acab su hijoH4427
+- 1Re_16:29comenzó a reinar Acab...el año 38 de AsaH4427
+- 1Re_16:30reinó Acab hijo...sobre Israel...22 añosH4427
+- 1Re_16:30más que todos los que reinaron antes de
+- 1Re_16:33más que todos los reyes...que reinaron
+- 1Re_22:40Acab...reinó en su lugar Ocozías su hijoH4427
+- 1Re_22:41Josafat...comenzó a reinar sobre Judá enH4427
+- 1Re_22:42Josafat...comenzó a reinar, y reinó 25H4427
+- 1Re_22:50Josafat...y en su lugar reinó Joram suH4427
+- 1Re_22:51Ocozías hijo de Acab comenzó a reinarH4427
+- 1Re_22:51Ocozías...y reinó dos años sobre IsraelH4427
+- 2Re_1:17reinó en su lugar Joram...segundo añoH4427
+- 2Re_3:1Joram...comenzó a reinar, y reinó 12 añosH4427
+- 2Re_3:27a su primogénito que había de reinar enH4427
+- 2Re_8:15de Ben-adad...y reinó Hazael en su lugarH4427
+- 2Re_8:16comenzó a reinar Joram hijo de JosafatH4427
+- 2Re_8:17comenzó a reinar, y ocho años reinó enH4427
+- 2Re_8:24y reinó en lugar suyo Ocozías, su hijoH4427
+- 2Re_8:25comenzó a reinar Ocozías hijo de JoramH4427
+- 2Re_8:26de 22 años...comenzó a reinar, y reinóH4427
+- 2Re_9:29año...comenzó a reinar Ocozías sobre JudáH4427
+- 2Re_10:35durmió Jehú...reinó en su lugar JoacazH4427
+- 2Re_10:36reinó Jehú sobre Israel...fue de 28 añosH4427
+- 2Re_11:21era Joás de siete años, comenzó a reinarH4427
+- 2Re_12:1comenzó a reinar Joás...y reinó 40 añosH4427
+- 2Re_12:21sepultaron...y reinó en su lugar AmasíasH4427
+- 2Re_13:1comenzó a reinar Joacaz...reinó 17 añosH4427
+- 2Re_13:9Joacaz...reinó en su lugar Joás su hijoH4427
+- 2Re_13:10comenzó a reinar Joás...y reinó 16 añosH4427
+- 2Re_13:24Hazael rey...y reinó en su lugar Ben-adadH4427
+- 2Re_14:1comenzó a reinar Amasías hijo de JoásH4427
+- 2Re_14:2cuando comenzó a reinar...y 29 años reinóH4427
+- 2Re_14:16durmió Joás...reinó en su lugar JeroboamH4427
+- 2Re_14:23reinar Jeroboam hijo...y reinó 41 añosH4427
+- 2Re_14:29Jeroboam...y reinó en su lugar ZacaríasH4427
+- 2Re_15:1año 27...comenzó a reinar Azarías hijo deH4427
+- 2Re_15:2comenzó a reinar Azarías...52 años reinóH4427
+- 2Re_15:7durmió...reinó en su lugar Jotam su hijoH4427
+- 2Re_15:8en el año 38 de Azarías...reinó ZacaríasH4427
+- 2Re_15:10lo hirió...lo mató, y reinó en su lugarH4427
+- 2Re_15:13Salum...comenzó a reinar...y reinó un mesH4427
+- 2Re_15:14a Salum...lo mató, y reinó en su lugarH4427
+- 2Re_15:17el año 39...reinó Manahem hijo de GadiH4427
+- 2Re_15:22Manahem...y reinó en su lugar Pekaía suH4427
+- 2Re_15:23año 50 de Azarías...reinó Pekaía hijoH4427
+- 2Re_15:25conspiró contra él Peka...reinó en suH4427
+- 2Re_15:27reinó Peka...en Samaria; y r veinte añosH4427
+- 2Re_15:30y reinó en su lugar, a los 20 años deH4427
+- 2Re_15:32comenzó a reinar en Jotam hijo de UzíasH4427
+- 2Re_15:33cuando comenzó a reinar...reinó 16 añosH4427
+- 2Re_15:38durmió Jotam...y reinó su lugar AcazH4427
+- 2Re_16:1el año 17...comenzó a reinar Acaz hijo deH4427
+- 2Re_16:2cuando comenzó a reinar...reinó...16 añosH4427
+- 2Re_16:20Acaz...reinó en su lugar su hijo EzequíasH4427
+- 2Re_17:1comenzó a reinar Oseas...y reinó 9 añosH4427
+- 2Re_18:1comenzó a reinar Ezequías hijo de AcazH4427
+- 2Re_18:2cuando comenzó a reinar...reinó...29 añosH4427
+- 2Re_19:37y reinó en su lugar Esar-hadón su hijoH4427
+- 2Re_20:21Ezequías...reinó en su lugar Manasés suH4427
+- 2Re_21:1Manasés...comenzó a reinar, y reinó...55H4427
+- 2Re_21:18durmió Manasés...reinó en su lugar AmónH4427
+- 2Re_21:19Amón...comenzó a reinar, y reinó 2 añosH4427
+- 2Re_21:26sepultado...y reinó en su lugar JosíasH4427
+- 2Re_22:1Josías comenzó a reinar...reinó...31 añosH4427
+- 2Re_23:31Joacaz...a reinar, y reinó tres meses enH4427
+- 2Re_23:33puso preso Faraón...para que no reinaseH4427
+- 2Re_23:36Joacim...a reinar...y once años reinó enH4427
+- 2Re_24:6Joacim...y reinó en su lugar Joaquín suH4427
+- 2Re_24:8Joaquín...a reinar, y reinó...tres mesesH4427
+- 2Re_24:18Sedequías...reinar, y reinó...once añosH4427
+- 1Cr_1:43son los reyes que reinaron en...EdomH4427
+- 1Cr_1:43antes que reinase rey sobre...de IsraelH4427
+- 1Cr_1:44muerto Bela, reinó en su lugar JobabH4427
+- 1Cr_1:45muerto Johab, reinó en su lugar HusamH4427
+- 1Cr_1:46muerto Husam, reinó en su lugar HadadH4427
+- 1Cr_1:47muerto Hadad, reinó...Samia de MasrecaH4427
+- 1Cr_1:48muerto también Samla, reinó en...Saúl deH4427
+- 1Cr_1:49y muerto Saúl, reinó...Baal-hanán hijo deH4427
+- 1Cr_1:50muerto Baal-hanán, reinó en su...HadadH4427
+- 1Cr_3:4reinó siete años...en Jerusalén r 33 añosH4427
+- 1Cr_11:2mientras Saúl reinaba, tú eras quienH4428
+- 1Cr_16:31y digan en las naciones: Jehová reinaH4427
+- 1Cr_18:14reinó David sobre todo Israel...juzgabaH4427
+- 1Cr_19:1murió Nabas...y reinó en su lugar su hijoH4427
+- 1Cr_29:26reinó David hijo de...sobre todo IsraelH4427
+- 1Cr_29:27el tiempo que reinó...Israel fue 40 añosH4427
+- 1Cr_29:27reinó en Hebron, y 33 r en JerusalénH4427
+- 1Cr_29:28murió...y reinó en su lugar Salomón suH4427
+- 2Cr_1:13volvió Salomón...y reinó sobre IsraelH4427
+- 2Cr_9:30reinó Salomón...en...Israel cuarenta añosH4427
+- 2Cr_9:31Salomón...y reinó en su lugar Roboam suH4427
+- 2Cr_10:17reinó Roboam sobre los hijos de...JudáH4427
+- 2Cr_12:13fortalecido...Roboam, reinó en JerusalénH4427
+- 2Cr_12:13de 41 años...a reinar, y 17 años reinóH4427
+- 2Cr_12:16Roboam...reinó en su lugar Abías su hijoH4427
+- 2Cr_13:1del rey Jeroboam, reinó Abías sobre JudáH4427
+- 2Cr_13:2reinó tres años en Jerusalén...El nombreH4427
+- 2Cr_14:1Abías...y reinó en su lugar su hijo AsaH4427
+- 2Cr_17:1reinó en su lugar Josafat su hijo, el cualH4427
+- 2Cr_20:31reinó Josafat sobre Judá; de 35 añosH4427
+- 2Cr_20:31comenzó a reinar, y reinó 25 años enH4427
+- 2Cr_21:1Josafat...y reinó en su lugar Joram suH4427
+- 2Cr_21:5, 2Cr_21:20comenzó a reinar...y reinó ocho añosH4427
+- 2Cr_22:1reinó Ocozías, hijo de Joram rey de JudáH4427
+- 2Cr_22:2Ocozías comenzó a reinar...reinó un añoH4427
+- 2Cr_22:12entre tanto, Atalía reinaba en el paísH4427
+- 2Cr_23:3reinará, como Jehová ha dicho respecto deH4427
+- 2Cr_24:1Joás...comenzó a reinar, y 40 años reinóH4427
+- 2Cr_24:27Joás...reinó en su lugar Amasías su hijoH4427
+- 2Cr_25:1cuando comenzó a reinar, y 29 años reinóH4427
+- 2Cr_26:3Uzías...comenzó a reinar, y 52 años reinóH4427
+- 2Cr_26:23durmió Uzías...y reinó Jotam su hijo enH4427
+- 2Cr_27:1, 2Cr_27:8comenzó a reinar, y 16 años reinó enH4427
+- 2Cr_27:9Jotam...y reinó en su lugar Acaz su hijoH4427
+- 2Cr_28:1Acaz...comenzó a reinar, y 16 años reinóH4427
+- 2Cr_28:27y reinó en su lugar Ezequías su hijoH4427
+- 2Cr_29:1a reinar Ezequías...y reinó 29 años enH4427
+- 2Cr_29:19desechado el rey Acaz, cuando reinabaH4438
+- 2Cr_32:33Ezequías...y reinó en su lugar ManasésH4427
+- 2Cr_33:1Manasés...comenzó a reinar, y...reinó enH4427
+- 2Cr_33:20Manasés...reinó en su lugar Amón su hijoH4427
+- 2Cr_33:21Amón...comenzó a reinar...dos años reinóH4427
+- 2Cr_34:1Josías...comenzó a reinar..31 años reinóH4427
+- 2Cr_36:2Joacaz...comenzó a reinar, y tres...reinóH4427
+- 2Cr_36:5comenzó a reinar Joacim...y reinó 11 añosH4427
+- 2Cr_36:8Joacim...y reinó en su lugar Joaquín suH4427
+- 2Cr_36:9Joaquín...comenzó a reinar, y reinó tresH4427
+- 2Cr_36:11Sedequías...comenzó a reinar, y...reinóH4427
+- Esd_8:1Babilonia, reinando el rey ArtajerjesH4438
+- Est_1:1Asuero que reinó desde la India hastaH4427
+- Est_2:4la doncella que agrade...reine en lugar deH4427
+- Job_34:30haciendo que no reine el hombre impíoH4427
+- Sal_47:8reinó Dios sobre las naciones...sentóH4427
+- Sal_93:1Jehová reina; se vistió...ciñó de poderH4427
+- Sal_96:10decid entre las naciones: Jehová reinaH4427
+- Sal_97:1Jehová reina; regocíjese la tierraH4427
+- Sal_99:1Jehová reina; temblarán los pueblosH4427
+- Sal_146:10reinará Jehová para siempre; tu DiosH4427
+- Pro_8:15por mí reinan los reyes, y...príncipesH4427
+- Pro_30:22por el siervo cuando reina; por el necioH4427
+- Ecl_4:14porque de la cárcel salió para reinarH4427
+- Isa_24:23Jehová...reine en el monte de Sion yH4427
+- Isa_32:1en justicia reinará un rey, y príncipesH4427
+- Isa_33:6reinarán en...la sabiduría y la cienciaH530
+- Isa_37:38y reinó en su lugar Esar-hadón su hijoH4427
+- Isa_52:7del que dice a Sion: ¡Tu Dios reina![[H4427]]
+- Jer_22:11el cual reinó en lugar de Josías suH4427
+- Jer_22:15¿reinarás, porque te rodeas de cedro?[[H4427]]
+- Jer_22:30el trono de David, ni reinar sobre JudáH4910
+- Jer_23:5levantaré...renuevo...y reinará como ReyH4427
+- Jer_33:21tener hijo que reine sobre su tronoH4427
+- Jer_37:1lugar de Conías...reinó el rey SedequíasH4427
+- Jer_52:1cuando comenzó a reinar, y reinó 11 añosH4427
+- Eze_16:13prosperaste hasta llegar a reinarH4410
+- Eze_17:16donde habita el rey que le hizo reinar
+- Eze_20:33con mano...he de reinar sobre vosotrosH4427
+- Miq_4:7Jehová reinará sobre ellos en el monteH4427
+- Mat_2:22oyendo que Arquelao reinaba en JudeaG936
+- Luc_1:33y reinará sobre la casa de Jacob paraG936
+- Luc_19:14diciendo: No queremos que éste reineG936
+- Luc_19:27no querían que yo reinase sobre ellosG936
+- Rom_5:14reinó la muerte...Adán hasta MoisésG936
+- Rom_5:17si por la transgresión...reinó la muerteG936
+- Rom_5:17mucho más reinarán en vida por uno soloG936
+- Rom_5:21así como el pecado reinó...la gracia reineG936
+- Rom_6:12no reine...el pecado en vuestro cuerpoG936
+- 1Co_4:8ya estáis ricos, sin nosotros reináisG936
+- 1Co_4:8¡Y ojalá reinaseis, para que...reinásemosG4821
+- 1Co_15:25preciso es que él reine hasta que hayaG936
+- 2Ti_2:12sufrimos, también reinaremos con élG4821
+- Rev_5:10reyes...y reinaremos sobre la tierraG936
+- Rev_11:15él reinará por los siglos de los siglosG936
+- Rev_11:17has tomado tu gran poder, y has reinadoG936
+- Rev_17:18la mujer...es la gran ciudad que reinaG2192, [[G932]]
+- Rev_19:6Señor nuestro Dios Todopoderoso reina![[G936]]
+- Rev_20:4vivieron y reinaron con Cristo mil añosG936
+- Rev_20:6sacerdotes...y reinarán con él mil añosG936
+- Rev_22:5reinarán por los siglos de los siglosG936

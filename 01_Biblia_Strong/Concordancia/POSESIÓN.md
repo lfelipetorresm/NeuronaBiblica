@@ -1,0 +1,122 @@
+---
+tipo: concordancia
+palabra: POSESIÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# POSESIÓN
+
+- Gén_13:6sus p eran muchas, y no podían morarH7399
+- Gén_23:9me la dé, para p de sepultura en medioH272
+- Gén_23:20como una p para sepultura, recibida deH272
+- Gén_34:10y negociad en ella, y tomad en ella pH270
+- Gén_36:43según sus moradas en la tierra de su pH272
+- Gén_47:11José...les dio p en la tierra de EgiptoH272
+- Gén_47:27y tomaron p de ella, y se aumentaronH270
+- Éxo_23:30multipliques y tomes p de la tierraH272
+- Lev_14:34os doy en p...la tierra de vuestra pH272
+- Lev_25:10, Lev_25:13volveréis cada uno a vuestra pH272
+- Lev_25:24en...la tierra de vuestra p otorgaréisH272
+- Lev_25:25empobreciere y vendiere algo de su pH272
+- Lev_25:27pagará lo que quedare...volverá a su pH272
+- Lev_25:28al jubileo saldrá, y él volverá a su pH272
+- Lev_25:32podrán rescatar...las ciudades de su pH272
+- Lev_25:33saldrá de la casa...de la ciudad de su pH272
+- Lev_25:33son la p de ellos entre los...de IsraelH272
+- Lev_25:34no se venderá...es perpetua p de ellosH272
+- Lev_25:41y a la p de sus padres se restituiráH272
+- Lev_25:45de los forasteros...podréis tener por pH272
+- Lev_25:46los podréis dejar...como p hereditariaH272
+- Lev_27:16si alguno dedicare de la tierra de su pH272
+- Lev_27:21tierra...la p de ella será del sacerdoteH272
+- Lev_27:28su p, todo lo consagrado será cosa deH272
+- Núm_13:30subamos luego, y tomemos p de ellaH3423
+- Núm_14:24Caleb...su descendencia la tendrá en pH3423
+- Núm_27:7les darás la p de una heredad entre losH272
+- Núm_32:29si...les daréis la tierra de Galaad en pH272
+- Núm_32:30si no pasan...tendrán p entre vosotrosH272
+- Núm_32:32y la p de...será a este lado del JordánH272
+- Núm_34:18un príncipe, para dar la p de la tierraH5157
+- Núm_35:2manda a...que den a los levitas, de la pH5159
+- Núm_35:8cada uno dará...según la p que heredaráH5159
+- Núm_35:28homicida volverá a la tierra de su pH272
+- Núm_36:2por sorteo diese la tierra a los...en pH5159
+- Núm_36:2que dé la p de Zelofehad...a sus hijasH5159
+- Deu_1:21y toma p de ella, como Jehová el DiosH3423
+- Deu_2:9no te daré p de su tierra; porque yo heH3425
+- Deu_2:12en la tierra que les dio Jehová por pH3425
+- Deu_2:19no te daré p de la tierra de los...de AmónH3425
+- Deu_2:24comienza a tomar p de ella, y entra enH3423
+- Deu_2:31comienza a tomar p de ella para que laH3423
+- Deu_4:5en la cual entráis para tomar p de ellaH3423
+- Deu_4:14la tierra a la cual pasáis a tomar p deH3423
+- Deu_4:26pasáis el Jordán para tomar p de ellaH3423
+- Deu_5:31obra en la tierra que yo les doy por pH3423
+- Deu_12:1Dios...ha dado para que tomes p de ellaH3423
+- Deu_15:4tu Dios te da...para que la tomes en pH3423
+- Deu_17:14tomes p de ella y la habites, y digasH3423
+- Deu_23:20tierra donde vas para tomar p de ellaH3423
+- Deu_26:1entrado...tomes p de ella y la habitesH3423
+- Deu_26:18tú eres pueblo suyo, de su exclusiva pH3423
+- Deu_28:21, Deu_28:63; Deu_30:16a la cual entras para tomar p de ellaH2423
+- Deu_30:18adonde vais...para entrar en p de ellaH2423
+- Deu_31:13; Deu_32:47pasando el Jordán, para tomar pH2423
+- Jos_1:11poseer la tierra que...Dios os da en pH2423
+- Jos_1:15dado reposo a...y entraréis en p de ellaH2423
+- Jos_12:6dio aquella tierra en p a los rubenitasH3425
+- Jos_12:7y Josué dio la tierra en p a...de IsraelH3425
+- Jos_18:2siete tribus...no habían repartido su pH5159
+- Jos_19:47tomaron p de ella y habitaron en ellaH3427
+- Jos_19:51entregaron por suerte en p a...de IsraelH5157
+- Jos_21:12dieron a Caleb...de Jefone, por p suyaH272
+- Jos_21:41ciudades...levitas en medio de la p deH272
+- Jos_22:4regresad a...a la tierra de vuestras pH272
+- Jos_22:7de Manasés había dado Moisés p en Basán
+- Jos_22:9ir...a la tierra de sus p, de la cual seH270
+- Jos_22:19si...la tierra de vuestra p es inmundaH272
+- Jos_22:19pasaos a la tierra de la p de JehováH272
+- Jos_22:19pasaos a la...y tomad p entre nosotrosH272
+- Jos_24:28envió Josué al pueblo, cada uno a su pH272
+- Jos_24:32en Siquem...y fue p de los hijos de JoséH5159
+- Jue_18:1de Dan buscaba p...no había tenido pH5159
+- Jue_18:9en marcha para ir a tomar p de la tierra
+- Jue_20:6la envié por todo el territorio de la pH5159
+- Rut_4:5que restaures el nombre del...sobre su pH5159
+- 1Sa_14:47después de haber tomado p...reinado
+- 1Re_21:16descender a la...para tomar p de ellaH3423
+- 1Re_21:18a la cual ha descendido para tomar pH3423
+- 1Cr_9:2los primeros...que entraron en sus pH272
+- 1Cr_28:1la hacienda y p del rey y de sus hijosH4735
+- 2Cr_11:14los levitas dejaban sus...y sus pH272
+- 2Cr_20:11arrojarnos de la...que tú nos diste en pH3425
+- 2Cr_31:1se volvieron todos los...cada uno a su pH272
+- Neh_11:3de Judá habitaron cada uno en su pH272
+- Sal_2:8como p tuya los confines de la tierraH272
+- Sal_105:21lo puso...por gobernador de todas sus pH5159
+- Sal_135:4JAH ha escogido a...a Israel por p suya
+- Pro_4:7y sobre...tus p adquiere inteligenciaH7069
+- Ecl_2:7siervos...p grande de vacas y de ovejasH4735
+- Isa_14:23la convertiré en p de erizos, y enH4180
+- Eze_11:15; Eze_33:24nos es dada la tierra en pH4180
+- Eze_35:10tomaré p de ellas; estando allí JehováH3423
+- Eze_36:12tomarán p de ti, y les serás por heredadH3423
+- Eze_38:12que se hace de ganado y p, que mora enH7075
+- Eze_38:13tomar ganados y p...grandes despojos?[[H7075]]
+- Eze_44:28no les daréis p en Israel...yo soy su pH272
+- Eze_45:5lo cual será para los levitas...p para síH272
+- Eze_45:7junto a la p de la ciudad, delante de loH272
+- Eze_45:7y delante de la p de la ciudad, desde elH272
+- Eze_45:8esta tierra tendrá por p en Israel, yH272
+- Eze_46:16parte de...p de ellos será por herenciaH272
+- Eze_46:18nada de...para no defraudarlos de su pH272
+- Eze_46:18que ninguno de mi...sea echado de su pH272
+- Eze_48:20reservaréis...y para la p de la ciudadH272
+- Eze_48:21uno y otro lado de la...p de la ciudadH272
+- Amó_2:10para que entraseis en p de la tierraH3423
+- Abd_1:17y la casa de Jacob recuperará sus pH4180
+- Mat_19:22; Mar_10:22fue triste...tenía muchas pG2933
+- Luc_18:28dejado nuestras p y te hemos seguido
+- Hec_7:5le prometió que se la daría en p, y aG2697
+- Hec_7:45con Josué al tomar p de la tierra de losG2697
+- Efe_1:14hasta la redención de la p adquiridaG4047

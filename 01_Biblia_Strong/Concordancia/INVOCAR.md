@@ -1,0 +1,95 @@
+---
+tipo: concordancia
+palabra: INVOCAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# INVOCAR
+
+- Gén_4:26comenzaron a invocar el nombre deH7121
+- Gén_12:8edificó...e invocó el nombre de JehováH7121
+- Gén_13:4e invocó allí Abram el nombre de JehováH7121
+- Gén_21:33invocó allí el nombre de Jehová DiosH7121
+- Gén_26:25un altar, e invocó el nombre de JehováH7121
+- Deu_28:10que el nombre de Jehová es invocadoH7121
+- 2Sa_6:2sobre la cual era invocado el nombreH7121
+- 2Sa_22:4invocaré a Jehová, quien es digno de serH7121
+- 2Sa_22:7mi angustia invoqué a Jehová, y clamé aH7121
+- 1Re_8:43nombre es invocado sobre esta casaH7121
+- 1Re_8:52para oírlos en todo aquello...invocarenH7121
+- 1Re_18:24-25invocad...nombre de vuestros diosesH7121
+- 1Re_18:24yo invocaré el nombre de Jehová; y elH7121
+- 1Re_18:26invocaron el nombre de Baal desde laH7121
+- 2Re_5:11invocará el nombre de Jehová su DiosH7121
+- 1Cr_4:10e invocó Jabes al Dios de IsraelH7121
+- 1Cr_13:6sobre la cual su nombre es invocadoH7121
+- 1Cr_16:8invocad su nombre, dad a conocer en losH7121
+- 1Cr_21:26invocó a Jehová, quien le respondió porH7121
+- 2Cr_6:33que tu nombre es invocado sobre estaH7121
+- 2Cr_7:14sobre el cual mi nombre es invocadoH7121
+- Job_9:16yo le invocara, y él me respondieseH7121
+- Job_12:4soy...que invoca a Dios, y él le respondeH7121
+- Job_27:10¿se...¿Invocará a Dios en todo tiempo?[[H7121]]
+- Sal_14:4que devoran...y a Jehová no invocan?[[H7121]]
+- Sal_17:6te he invocado, por cuanto tú me oirásH7121
+- Sal_18:3invocaré a Jehová, quien es digno de serH7121
+- Sal_18:6mi angustia invoqué a Jehová, y clamé aH7121
+- Sal_20:9nos oiga en el día que lo invoquemosH7121
+- Sal_31:17yo avergonzado...ya que te he invocadoH7121
+- Sal_50:15invócame en el día de la angustia; teH7121
+- Sal_53:4que devoran a mi...y a Dios no invocan?[[H7121]]
+- Sal_79:6los reinos que no invocan tu nombreH7121
+- Sal_80:18vida...darás, e invocaremos tu nombreH7121
+- Sal_86:5grande...con todos los que te invocanH7121
+- Sal_91:15me invocará, y yo le responderé; con7121
+- Sal_99:6y Samuel entre los que invocaron suH7121
+- Sal_99:6invocaban a Jehová, y él les respondíaH7121
+- Sal_102:2a responderme el día que te invocareH7121
+- Sal_105:1alabad a Jehová, invocad su nombre; dadH7121
+- Sal_116:2tanto, le invocaré en todos mis díasH7121
+- Sal_116:4invoqué el nombre de Jehová, diciendoH7121
+- Sal_116:13, Sal_116:17e invocaré el nombre de JehováH7121
+- Sal_118:5desde la angustia invoqué a JAH, y meH7121
+- Sal_141:1escucha mi voz cuando te invocareH7121
+- Sal_145:18cercano está Jehová a...que le invocanH7121
+- Sal_145:18a todos los que le invocan de verasH7121
+- Isa_41:25del nacimiento del sol invocará miH7121
+- Isa_43:22y no me invocaste a mí, oh Jacob, sinoH7121
+- Isa_58:9entonces invocarás, y te oirá JehováH7121
+- Isa_64:7nadie hay que invoque tu nombre, queH7121
+- Isa_65:1dije a gente que no invocaba mi nombreH7121
+- Jer_7:10-11, Jer_7:14, Jer_7:30sobre la cual es invocadoH7121
+- Jer_10:25sobre las naciones que no invocan tuH7121
+- Jer_14:9sobre nosotros es invocado tu nombreH7121
+- Jer_15:16porque tu nombre se invocó sobre miH7121
+- Jer_25:29a la ciudad en la cual es invocado miH7121
+- Jer_29:12me invocaréis, y vendréis y oraréis aH7121
+- Jer_32:34; Jer_34:15casa en la cual es invocado miH7121
+- Jer_44:26no será invocado más en...Egipto porH7121
+- Lam_3:55invoqué tu nombre...desde la cárcelH7121
+- Lam_3:57te acercaste el día que te invoquéH7121
+- Dan_9:18la ciudad sobre la cual es invocadoH7121
+- Dan_9:19tu nombre es invocado sobre tu ciudadH7121
+- Joe_2:32todo aquel que invocare el nombre deH7121
+- Amó_9:12aquellos sobre los cuales es invocadoH7121
+- Jon_2:2invoqué en mi angustia a Jehová, y élH7121
+- Sof_3:9todos invoquen el nombre de JehováH7121
+- Zac_13:9el invocará mi nombre, y yo le oiréH7121
+- Hec_2:21todo aquel que invocare el nombreG1941
+- Hec_7:59invocaba y decía: Señor Jesús, recibeG1941
+- Hec_9:14prender a...los que invocan tu nombreG1941
+- Hec_9:21asolaba...los que invocaban este nombreG1941
+- Hec_15:17gentiles, sobre los cuales es invocadoG1941
+- Hec_19:13intentaron invocar el nombre delG3687
+- Hec_22:16lava tus pecados, invocando su nombreG1941
+- Rom_10:12para con todos los que le invocanG1941
+- Rom_10:13todo aquel que invocare el nombre delG1941
+- Rom_10:14¿Cómo...invocarán a aquel en el cualG1941
+- Rom_11:2invoca a Dios contra Israel, diciendoG1793
+- 1Co_1:2en cualquier lugar invocan el nombreG2822
+- 2Co_1:23yo invoco a Dios por testigo sobreG1941
+- 2Ti_2:19apártese de iniquidad...que invocaG1941
+- 2Ti_2:22que de corazón limpio invocan al SeñorG1941
+- Stg_2:7buen nombre que fue invocado sobreG1941
+- 1Pe_1:17si invocáis por Padre a aquel queG1941

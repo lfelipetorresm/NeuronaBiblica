@@ -1,0 +1,1375 @@
+---
+tipo: concordancia
+palabra: TOMAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TOMAR
+
+- Gén_2:15tomó, pues, Jehová Dios al hombre, yH3947
+- Gén_2:21tomó una de sus costillas, y cerró laH3947
+- Gén_2:22la costilla que...Dios tomó del hombreH3947
+- Gén_2:23Varona, porque del varón fue tomadaH3947
+- Gén_3:6tomó de su fruto, y comió; y dio tambiénH3947
+- Gén_3:19la tierra, porque de ella fuiste tomadoH3947
+- Gén_3:22y tome también del árbol de la vida, yH3947
+- Gén_3:23que labrase la tierra de que fue tomadoH3947
+- Gén_4:19Lamec tomó para sí dos mujeres...fue AdaH3947
+- Gén_6:2eran hermosas, tomaron para sí mujeresH3947
+- Gén_6:21y toma contigo de todo alimento que seH3947
+- Gén_7:2todo animal limpio tomarás siete parejasH3947
+- Gén_8:9y tomándola, la hizo entrar...en el arcaH3947
+- Gén_8:20y tomó de todo animal limpio y de todaH3947
+- Gén_9:23y Jafet tomaron la ropa, y la pusieronH3947
+- Gén_11:29y tomaron Abram y Nacor...mujeres; elH3947
+- Gén_11:31y tomó Taré a Abram su hijo, y a LotH3947
+- Gén_12:5tomó...Abram a Sarai su mujer, y a LotH3947
+- Gén_12:19poniéndome en ocasión de tomarla paraH3947
+- Gén_12:19pues, he aquí tu mujer; tómala, y veteH3947
+- Gén_14:11y tomaron toda la riqueza de Sodoma yH3947
+- Gén_14:12tomaron también a Lot, hijo del hermanoH3947
+- Gén_14:21dame las personas, y toma para ti losH3947
+- Gén_14:23nada tomaré de todo lo que es tuyo, paraH3947
+- Gén_14:24y Mamre, los cuales tomarán su parteH3947
+- Gén_15:10tomó él todo esto, y los partió por laH3947
+- Gén_16:3Sarai mujer de...tomó a Agar su siervaH3947
+- Gén_17:23entonces tomó Abraham a Ismael su hijoH3947
+- Gén_18:6toma...tres medidas de flor de harina
+- Gén_18:7y tomó un becerro tierno y bueno, y loH3974
+- Gén_18:8tomó...mantequilla y leche, y el becerroH3947
+- Gén_19:14los que habían de tomar sus hijas, y les
+- Gén_19:15toma tu mujer, y tus dos hijas que seH3947
+- Gén_20:2Abimelec...de Gerar envió y tomó a SaraH3947
+- Gén_20:3a causa de la mujer que has tomado, laH3947
+- Gén_20:12es mi hermana, hija...la tomé por mujer
+- Gén_20:14Abimelec tomó ovejas y vacas, y...dioH3947
+- Gén_21:14Abraham...tomó pan, y un odre de aguaH3947
+- Gén_21:21y su madre le tomó mujer de...de EgiptoH3947
+- Gén_21:27y tomó Abraham ovejas y vacas, y dio aH3947
+- Gén_21:30que estas siete corderas tomarás de miH3947
+- Gén_22:2toma ahora tu hijo, tu único, Isaac, aH3947
+- Gén_22:3asno, y tomó consigo dos siervos suyosH3947
+- Gén_22:6y tomó Abraham la leña del holocaustoH3947
+- Gén_22:6tomó en su mano el fuego y el cuchilloH3947
+- Gén_22:10y tomó el cuchillo para degollar a suH3947
+- Gén_22:13Abrabam...tomó el carnero, y lo ofrecióH3947
+- Gén_23:13tómalo de mí, y sepultaré en ella miH3947
+- Gén_24:3que no tomarás para mi hijo mujer de lasH3947
+- Gén_24:4irás...tomarás mujer para mi hijo IsaacH3947
+- Gén_24:7me tomó de la casa de mi padre y de laH3947
+- Gén_24:10y el criado tomó diez camellos de losH3947
+- Gén_24:10se fue, tomando toda clase de regalos
+- Gén_24:37no tomarás para mi hijo mujer de lasH3947
+- Gén_24:38irás a...y tomarás mujer para mi hijoH3947
+- Gén_24:40y tomarás para mi hijo mujer de miH3947
+- Gén_24:48para tomar la hija del hermano de miH3947
+- Gén_24:51he aquí Rebeca...tómala y vete, y seaH3947
+- Gén_24:61y el criado tomó a Rebeca, y se fueH3947
+- Gén_24:65ella entonces tomó el velo, y se cubrióH3947
+- Gén_24:67y tomó a Rebeca por mujer, y la amóH3947
+- Gén_25:1Abraham tomó otra mujer, cuyo nombreH3947
+- Gén_25:20cuando tomó por mujer a Rebeca, hijaH3947
+- Gén_26:34Esaú...tomó por mujer a Judit hija deH3947
+- Gén_27:3toma...tus armas, tu aljaba y tu arcoH5375
+- Gén_27:14fue y los tomó, y los trajo a su madreH3947
+- Gén_27:15y tomó Rebeca los vestidos de Esaú suH3947
+- Gén_27:35vino tu hermano...y tomó tu bendiciónH3947
+- Gén_27:36se apoderó de...ha tomado mi bendiciónH3947
+- Gén_27:46si Jacob toma mujer de las hijas de HetH3947
+- Gén_28:1no tomes mujer de las hijas de CanaánH3947
+- Gén_28:2y toma allí mujer de las hijas de LabánH3947
+- Gén_28:6le había enviado a...tomar para sí mujerH3947
+- Gén_28:6no tomaréis mujer de las hijas de CanaánH3947
+- Gén_28:9se fue Esaú...y tomó para sí por mujer aH3947
+- Gén_28:11tomó de las piedras de aquel paraje yH3947
+- Gén_28:18y tomó la piedra que había puesto deH3947
+- Gén_29:23a la noche tomó a Lea su hija, y se laH3947
+- Gén_30:9Lea...tomó a Zilpa su sierva, y la dio aH3947
+- Gén_30:15¿es poco que hayas tomado mi maridoH3947
+- Gén_30:37tomó...Jacob varas verdes de álamo, deH3947
+- Gén_31:1Jacob ha tomado...lo que era de...padreH3947
+- Gén_31:23Labán tomó a sus parientes consigo, yH3947
+- Gén_31:34tomó Raquel los ídolos y los puso enH3947
+- Gén_31:45Jacob tomó una piedra, y la levantó porH3947
+- Gén_31:46tomaron piedras e hicieron un majanoH3947
+- Gén_31:50o si tomares otras mujeres además deH3947
+- Gén_32:13y tomó de lo que le vino a la mano unH3947
+- Gén_32:22y tomó sus dos mujeres, y sus...siervasH3947
+- Gén_32:23les tomó...hizo pasar el arroyo a ellosH3947
+- Gén_33:11ruego...insistió con él, y Esaú lo tomóH3947
+- Gén_34:2Siquem...y la tomó, y se acostó con ellaH3947
+- Gén_34:4a Hamor...Tómame por mujer a esta jovenH3947
+- Gén_34:9dadnos vuestras hijas, y tomad vosotrosH3947
+- Gén_34:10morad...ella, y tomad en ella posesión
+- Gén_34:16hijas, y tomaremos nosotros...vuestrasH3947
+- Gén_34:17tomaremos nuestra hija y nos iremosH3947
+- Gén_34:21tomaremos sus hijas por mujeres, y lesH3947
+- Gén_34:25Simeón y...tomaron cada uno su espadaH3947
+- Gén_34:26tomaron a Dina de casa de Siquem, y seH3947
+- Gén_34:28tomaron sus ovejas y vacas y sus asnosH3947
+- Gén_36:2Esaú tomó sus mujeres de las hijas deH3947
+- Gén_36:6Esaú tomó sus mujeres, sus hijos y susH3947
+- Gén_37:24le tomaron y le echaron en la cisternaH3947
+- Gén_37:31tomaron...la túnica de José, y...cabritoH3947
+- Gén_38:2y vio allí Judá la hija...Súa; y la tomóH3947
+- Gén_38:6Judá tomó mujer para su primogénito ErH3947
+- Gén_38:23tómeselo para sí, para que no seamosH3947
+- Gén_38:28la partera tomó y ató a su mano un hiloH3947
+- Gén_39:20y tomó su amo a José, y lo puso en laH3947
+- Gén_40:11tomaba yo las uvas y las exprimía en laH3947
+- Gén_42:24y tomó de entre ellos a Simeón, y loH3947
+- Gén_42:33tomad para el hambre de vuestras casasH3947
+- Gén_43:11tomad de lo mejor de la...un presenteH3947
+- Gén_43:12y tomad en...doble cantidad de dineroH3947
+- Gén_43:13tomad también a vuestro hermano, yH3947
+- Gén_43:15tomaron...el presente, y t...dinero, y aH3947
+- Gén_43:18para...tomarnos por siervos a nosotrosH3947
+- Gén_43:34y José tomó viandas de delante de síH5375
+- Gén_44:29si tomáis también a éste de delante deH3947
+- Gén_45:18y tomad a vuestro padre y a vuestrasH3947
+- Gén_45:19tomaos de la tierra de Egipto carrosH3947
+- Gén_46:5tamaron los hijos de Israel a su padreH5375
+- Gén_46:6y tomaron sus ganados, y sus bienes queH3947
+- Gén_47:2de sus hermanos tomó cinco varones, yH3947
+- Gén_47:27la tierra de Gosén; y tomaron posesión
+- Gén_48:1tomó consigo a sus dos hijos, ManasésH3947
+- Gén_48:13y los tomó José a ambos, Efraín a suH3947
+- Gén_48:22la cual tomé yo de mano del amorreoH3947
+- Éxo_2:1fue y tomó por mujer a una hija de LevíH3947
+- Éxo_2:3tomó una arquilla de juncos y...calafateóH3947
+- Éxo_2:5y envió una criada suya a que la tomaseH3947
+- Éxo_2:9dijo...Y la mujer tomó al niño y lo crioH3947
+- Éxo_4:4tómala por la cola...la tomó, y se volvióH2388
+- Éxo_4:9tomarás de las aguas...y las derramarásH3947
+- Éxo_4:9se cambiarán aquellas aguas que tomarásH3947
+- Éxo_4:17y tomarás en tu mano esta vara, con laH3947
+- Éxo_4:20Moisés tomó a su mujer y sus hijos, yH3947
+- Éxo_4:20tomó también Moisés la vara de Dios enH3947
+- Éxo_4:25Séfora tomó un pedernal afilado y cortóH3947
+- Éxo_6:7tomaré por mi pueblo y seré vuestro DiosH3947
+- Éxo_6:20Amram tomó por mujer a Jocabed su tíaH3947
+- Éxo_6:23y tomó Aarón por mujer a Elisabet hijaH3947
+- Éxo_6:25Eleazar hijo de...tomó para sí mujer deH3947
+- Éxo_7:9a Aarón: Toma tu vara, y échala delanteH3947
+- Éxo_7:15toma en tu mano la vara que se volvióH3947
+- Éxo_7:19toma tu vara, y extiende tu mano sobreH3947
+- Éxo_9:8tomad puñados de ceniza de un horno, y laH3947
+- Éxo_9:10tomaron ceniza del horno...y la esparcióH3947
+- Éxo_10:26de ellos hemos de tomar para servir aH3947
+- Éxo_12:3tómese cada uno un cordero según lasH3947
+- Éxo_12:4no baste...tomarán uno según el número deH3947
+- Éxo_12:5tomaréis de las ovejas o de las cabrasH3947
+- Éxo_12:7y tomarán de la sangre, y la pondrán enH3947
+- Éxo_12:21sacad y tomaos corderos por...familiasH3947
+- Éxo_12:22tomad un manojo de hisopo, y mojadlo enH3947
+- Éxo_12:32tomad también vuestras ovejas...vacasH3947
+- Éxo_13:19tomó también consigo Moisés los huesosH3947
+- Éxo_14:6y unció su carro, y tomó consigo a suH3947
+- Éxo_14:7tomó 600 carros escogidos, y todos losH3947
+- Éxo_15:20y María la...tomó un pandero en su manoH3947
+- Éxo_16:16tomaréis cada uno para los que están enH3947
+- Éxo_16:33toma una vasija y pon en ella un gomerH3947
+- Éxo_17:5toma contigo de los ancianos de IsraelH3947
+- Éxo_17:5toma...tu vara con que golpeaste el ríoH3947
+- Éxo_17:12tomaron una piedra...pusieron debajo deH3947
+- Éxo_18:2tomó Jetro...a Séfora la mujer de MoisésH3947
+- Éxo_18:12tomó Jetro...holocaustos y sacrificiosH3947
+- Éxo_19:4cómo os tomé sobre alas de águilas, y osH5375
+- Éxo_20:7no tomarás el nombre de...Dios en vanoH5375
+- Éxo_20:7Jehová al que tomare su nombre en vanoH5375
+- Éxo_21:8si no agradare...no la tomó por esposaH3259
+- Éxo_21:10si tomare...otra mujer, no disminuiráH3947
+- Éxo_22:14tomado prestada bestia de su prójimo
+- Éxo_22:16engañare a...deberá dotarla y tomarla
+- Éxo_22:26si tomares en prenda el vestido de tuH2254
+- Éxo_23:12y tome refrigerio el hijo de tu sierva
+- Éxo_23:30hasta que...tomes posesión de la tierra
+- Éxo_24:6tomó la mitad de la sangre, y la pusoH3947
+- Éxo_24:7y tomó el libro del pacto y lo leyó aH3947
+- Éxo_24:8tomó la sangre y roció sobre el puebloH3947
+- Éxo_25:2dí a...Israel que tomen para mí ofrenda
+- Éxo_25:2diere...de corazón, tomaréis mi ofrendaH3947
+- Éxo_25:3es la ofrenda que tomaréis de ellos: oroH3947
+- Éxo_28:5tomarán oro, azul, púrpura, carmesí yH3947
+- Éxo_28:9tomarás...piedras de ónice, y grabarásH3947
+- Éxo_29:1toma un becerro de la vacada...carnerosH3947
+- Éxo_29:5y tomarás las vestiduras, y vestirás aH3947
+- Éxo_29:7luego tomarás el aceite de la unción, yH3947
+- Éxo_29:12sangre del becerro tomarás y pondrásH3947
+- Éxo_29:13tomarás también...la grosura que cubreH3947
+- Éxo_29:15tomarás uno de los carneros, y Aarón yH3947
+- Éxo_29:19tomarás luego el otro carnero, y AarónH3947
+- Éxo_29:20tomarás de su sangre y la pondrás sobreH3947
+- Éxo_29:22luego tomarás del carnero la grosuraH3947
+- Éxo_29:25tomarás de sus manos y lo harás arder
+- Éxo_29:26tomarás el pecho del carnero...mecerásH3947
+- Éxo_29:30el que de sus hijos tome su lugar como
+- Éxo_29:31tomarás el carnero de...consagracionesH3947
+- Éxo_30:12cuando tomes el número de los hijos deH5375
+- Éxo_30:16y tomarás de los...de Israel el dineroH3947
+- Éxo_30:23tomarás especias...de mirra excelenteH3947
+- Éxo_30:34toma especias aromáticas, estacte y uñaH3947
+- Éxo_32:4él los tomó de las manos de ellos, y le
+- Éxo_32:13y la tomarán por heredad para siempre
+- Éxo_32:20tomó el becerro que habín hecho, y loH3947
+- Éxo_33:7tomó el tabernáculo, y lo levantó lejosH3947
+- Éxo_34:9vaya ahora el...y tómanos por tu heredad
+- Éxo_34:16o tomando de sus hijas para tus hijosH3947
+- Éxo_35:5tomad de entre vosotros ofrenda paraH3947
+- Éxo_36:3tomaron de delante de Moisés...ofrenda
+- Éxo_40:9tomarás el aceite...unción y ungirás elH3947
+- Éxo_40:20tomó el testimonio y lo puso dentro delH3947
+- Lev_2:2tomará el sacerdote su puño lleno deH7061
+- Lev_2:9tomará el sacerdote de aquella ofrendaH7311
+- Lev_4:5el sacerdote ungido tomará de la sangreH3947
+- Lev_4:8y tomará del becerro para la expiaciónH3318
+- Lev_4:25, Lev_4:30, Lev_4:34el sacerdote tomará de la sangreH3947
+- Lev_5:12sacerdote tomará de ella su puño llenoH7061
+- Lev_6:15tomará...un puñado de la flor de harinaH7311
+- Lev_7:34he tomado de los sacrificios de paz deH3947
+- Lev_8:2toma a Aarón y sus hijos con él, y lasH3947
+- Lev_8:10y tomó Moisés el aceite de la unción yH3947
+- Lev_8:15Y Moisés tomó la sangre, y puso con suH3947
+- Lev_8:16tomó toda la grosura que estaba sobreH3947
+- Lev_8:23y tomó Moisés de la sangre, y la pusoH3947
+- Lev_8:25después tomó la grosura, la cola, todaH3947
+- Lev_8:26tomó una torta sin levadura, y...de panH3947
+- Lev_8:28tomó aquellas cosas Moisés de las manosH3947
+- Lev_8:29y tomó Moisés el pecho, y lo mecióH3947
+- Lev_8:30tomó Moisés del aceite de la unción, yH3947
+- Lev_9:2toma de la vacada un becerro...expiaciónH3947
+- Lev_9:3tomad un macho cabrío para expiación, yH3947
+- Lev_9:15y tomó el macho cabrío que era para laH3947
+- Lev_10:1Nadab...tomaron cada uno su incensarioH3947
+- Lev_10:12dijo a...Tomad la ofrenda que queda deH3947
+- Lev_12:8tomará...dos tórtolas o dos palominos
+- Lev_14:4que se tomen para el que se purifica dosH3947
+- Lev_14:6tomará la avecilla viva, el cedro, laH3947
+- Lev_14:10tomará dos corderos sin defecto, y unaH3947
+- Lev_14:12y tomará el sacerdote un cordero y loH3947
+- Lev_14:14el sacerdote tomará de la sangre de laH3947
+- Lev_14:15el sacerdote tomará del log de aceiteH3947
+- Lev_14:21tomará un cordero para ser ofrecidoH3947
+- Lev_14:24tomará el cordero de la expiación porH3947
+- Lev_14:25tomará de la sangre de la culpa, y laH3947
+- Lev_14:42y tomarán otras piedras y las pondránH3947
+- Lev_14:42y tomarán...barro y recubrirán la casaH3947
+- Lev_14:49entonces tomará para limpiar la casaH3947
+- Lev_14:51tomará el cedro, el hisopo, la granaH3947
+- Lev_15:14, Lev_15:29tomará...tórtolas o dos palominosH3947
+- Lev_16:5tomará...machos cabríos para expiaciónH3947
+- Lev_16:7después tomará los dos machos cabríosH3947
+- Lev_16:12tomará un incensario lleno de brasasH3947
+- Lev_16:14tomará luego de la sangre del becerroH3947
+- Lev_16:18tomará de la sangre del becerro y deH3947
+- Lev_18:17no tomarás la hija de su hijo, ni laH3947
+- Lev_18:18no tomarás mujer...con su hermana, paraH3947
+- Lev_20:14que tomare mujer y a la madre de ellaH3947
+- Lev_20:17si alguno tomare a su hermana, hija deH3947
+- Lev_20:21el que tomare la mujer de su hermanoH3947
+- Lev_21:13tomará por esposa a una mujer virgenH3947
+- Lev_21:14no tomará viuda, ni repudiada...infameH3947
+- Lev_21:14sino tomará de su pueblo una virgen porH3947
+- Lev_22:25ni de mano de...tomarás estos animales
+- Lev_23:40tomaréis el primer día ramas con frutoH3947
+- Lev_24:5y tomarás flor de harina, y cocerás deH3947
+- Lev_25:36no tomarás de él usura ni gananciaH3947
+- Lev_25:53como con el tomado a salario...hará con
+- Núm_1:2tomad el censo de toda la congregaciónH5375
+- Núm_1:17tomaron, pues, Moisés y Aarón...varonesH3947
+- Núm_1:49ni tomarás la cuenta de ellos entre losH5375
+- Núm_3:12yo he tomado a los levitas de entre losH3947
+- Núm_3:41tomarás a los levitas para mí en lugarH3947
+- Núm_3:45toma los levitas en lugar de todos losH3947
+- Núm_3:47tomarás...al siclo del santuario los tH3947
+- Núm_3:49tomó, pues, Moisés el dinero del rescateH3947
+- Núm_4:2toma la cuenta de los hijos de Coat deH5375
+- Núm_4:9tomarán un paño...y cubrirán el candeleroH3947
+- Núm_4:12tomarán...los utensilios del servicio deH3947
+- Núm_4:22toma...el número de los hijos de GersónH5375
+- Núm_5:17tomará el sacerdote del agua santa enH3947
+- Núm_5:17tomará...polvo que hubiere en el sueloH3947
+- Núm_5:25tomará...de la mujer la ofrenda de losH3947
+- Núm_5:26y tomará el...un puñado de la ofrenda enH7061
+- Núm_6:18raerá...tomará los cabellos de su cabezaH3947
+- Núm_6:19tomará el sacerdote la espaldilla cocidaH3947
+- Núm_7:5tómalos de...y serán para el servicio delH3947
+- Núm_8:6toma a los levitas de entre los...IsraelH3947
+- Núm_8:8luego tomarán un novillo, con su ofrendaH3947
+- Núm_8:8y tomarás otro novillo para expiaciónH3947
+- Núm_8:16los he tomado para mí en lugar de losH3947
+- Núm_8:18y he tomado a los levitas en lugar deH3947
+- Núm_11:17tomaré del espíritu que está en ti, yH680
+- Núm_11:25y tomó del espíritu que estaba en élH680
+- Núm_12:1causa de la mujer cusita...había tomado
+- Núm_12:1porque él había tomado mujer cusita
+- Núm_13:20esforzaos, y tomad del fruto del país
+- Núm_13:30subamos luego, y tomemos posesión deH3423
+- Núm_16:1Coré...Datán y Abiram...tomaron genteH3947
+- Núm_16:6tomaos incensarios, Coré y...su séquitoH3947
+- Núm_16:15ni aun un asno he tomado de ellos, niH5375
+- Núm_16:17y tomad cada uno su incensario y ponedH3947
+- Núm_16:18tomó cada uno su incensario, y pusieronH3947
+- Núm_16:37tome los incensarios de...del incendioH7311
+- Núm_16:39Eleazar tomó los incensarios de bronceH3947
+- Núm_16:46toma el incensario, y pon en él fuegoH3947
+- Núm_16:47tomó Aarón el incensario, como MoisésH3947
+- Núm_17:2y toma de ellos una vara por cada casaH3947
+- Núm_17:9lo vieron, y tomaron cada uno su varaH3947
+- Núm_18:6he tomado a vuestros hermanos...levitasH3947
+- Núm_18:26cuando toméis de...Israel los diezmosH3947
+- Núm_19:4el sacerdote tomará de la sangre con suH3947
+- Núm_19:6tomará el sacerdote madera de cedro, eH3947
+- Núm_19:17para el inmundo tomarán de la cenizaH3947
+- Núm_19:18un hombre limpio tomará hisopo, y loH3947
+- Núm_20:8toma la vara, y reúne la congregaciónH3947
+- Núm_20:9entonces Moisés tomó la vara de delanteH3947
+- Núm_20:25toma a Aarón y a Eleazar su hijo...HorH3947
+- Núm_21:1Arad...peleó...y tomó de él prisioneros
+- Núm_21:24tomó su tierra desde Arnón hasta JabocH4323
+- Núm_21:25y tomó Israel todas estas ciudades, yH3947
+- Núm_21:26y tomado...toda su tierra hasta ArnónH3947
+- Núm_21:32envió Moisés a...y tomaron sus aldeasH3920
+- Núm_22:41Balac tomó a Balaam y lo hizo subir aH3947
+- Núm_23:7, Núm_23:18; Núm_24:3, Núm_24:15, Núm_24:20-21, Núm_24:23tomó su parábola, yH5375
+- Núm_24:18será tomada Edom, será también t SeirH3424
+- Núm_25:4toma a todos los príncipes del puebloH3947
+- Núm_25:7se levantó...y tomó una lanza en su manoH3947
+- Núm_26:2tomad el censo de toda la congregaciónH5375
+- Núm_27:18Jehová dijo...Toma a Josué hijo de NunH3947
+- Núm_27:22pues tomó a Josué y lo puso delanteH3947
+- Núm_31:11tomaron todo el despojo, y...el botínH3947
+- Núm_31:26toma la cuenta...botín que se ha hechoH5375
+- Núm_31:29la mitad de ellos lo tomarás; y darásH3947
+- Núm_31:30y de la mitad...tomarás uno de cada 50H3947
+- Núm_31:32del botín que tomaron los hombres deH962
+- Núm_31:47la mitad...tomó Moisés uno de cada 50H3947
+- Núm_31:49tomado razón de los hombres de guerraH5375
+- Núm_31:53habían tomado botín cada uno para sí
+- Núm_32:19no tomaremos heredad...el otro lado del
+- Núm_32:39hijos...fueron a Galaad, y la tomaronH3920
+- Núm_32:41Jair hijo de Manasés fue y tomó susH3920
+- Núm_32:42Noba fue y tomó Kenat y sus aldeas, yH3920
+- Núm_34:14la media tribu...han tomado su heredad
+- Núm_34:15dos tribus y media tomaron su heredad
+- Núm_34:18tomaréis...cada tribu un príncipe, paraH3947
+- Núm_35:8del que tiene mucho tomaréis mucho, y
+- Núm_35:8del que tiene poco tomaréis poco; cada
+- Núm_35:31y no tomaréis precio por la vida delH3947
+- Núm_35:32tampoco tomaréis precio del que huyó aH3947
+- Deu_1:15tomé...principales de vuestras tribusH3947
+- Deu_1:21toma posesión de...como Jehová...ha dichoH3423
+- Deu_1:23y tomé doce varones de entre vosotrosH3947
+- Deu_1:25tomaron en sus manos del fruto del paísH3947
+- Deu_2:8tomamos el camino del desierto de Moab
+- Deu_2:24, Deu_2:31comienza a tomar posesión de ellaH3423
+- Deu_2:34tomamos entonces todas sus ciudades, yH3920
+- Deu_2:35tomamos para nosotros los ganados, y los
+- Deu_2:35de las ciudades que habíamos tomadoH3920
+- Deu_3:4y tomamos entonces todas sus ciudadesH3920
+- Deu_3:4no quedó ciudad que no les tomásemos; 60H3947
+- Deu_3:7y tomamos para nosotros todo el ganado
+- Deu_3:8tomamos...tierra desde el arroyo de AmónH3947
+- Deu_3:14de Manasés tomó toda la tierra de ArgobH3947
+- Deu_4:5en la cual entráis para tomar posesión deH3423
+- Deu_4:14la cual pasáis a tomar posesión de ellaH3423
+- Deu_4:20pero a vosotros Jehová os tomó, y os haH3947
+- Deu_4:26pasáis el Jordán para tomar posesión deH3423
+- Deu_4:34venir a tomar para sí una nación de enH3947
+- Deu_5:11no tomarás el nombre de Jehová tu DiosH5375
+- Deu_5:11inocente al que tome su nombre en vanoH5375
+- Deu_6:1la tierra a la cual pasáis...para tomarlaH3423
+- Deu_7:1tierra en la cual entrarás para tomarlaH3423
+- Deu_7:3hijo, ni tomarás a su hija para tu hijoH3947
+- Deu_7:25no codiciarás plata...para tomarlo paraH3947
+- Deu_9:6Dios te da esta buena tierra para tomarlaH3423
+- Deu_9:17tomé las dos tablas y las arrojé de misH8610
+- Deu_9:21tomé el objeto de...pecado, el becerroH3947
+- Deu_10:17que no hace acepción...ni toma cohechoH3947
+- Deu_11:8, Deu_11:10-11, Deu_11:29a la cual pasáis para tomarlaH3423
+- Deu_11:31y la tomaréis, y habitaréis en ellaH3423
+- Deu_12:1ha dado para que tomes posesión de ellaH3423
+- Deu_12:26tomarás, y vendrás con ellas al lugarH5375
+- Deu_15:4heredad para que la tomes en posesiónH3423
+- Deu_15:6tú no tomarás prestado; tendrás dominio
+- Deu_15:17tomarás...lesna, y horadarás su orejaH3947
+- Deu_16:19ni tomes soborno...el soborno ciega losH3947
+- Deu_17:14y tomes posesión de ella y la habitesH3423
+- Deu_17:17ni tomará para sí muchas mujeres para
+- Deu_19:15no se tomará en cuenta a un...testigo
+- Deu_20:7se ha desposado con...y no la ha tomado?[[H3947]]
+- Deu_20:7no sea que muera...y algún otro la tomeH3947
+- Deu_20:9capitanes del ejército tomarán el mando
+- Deu_20:14su botín tomarás para ti; y comerás delH962
+- Deu_20:19contra ella muchos días para tomarlaH8610
+- Deu_21:3tomarán...becerra que no haya trabajadoH3947
+- Deu_21:10salieres...y tomares de ellos cautivos
+- Deu_21:11vieres...y la tomares para ti por mujer
+- Deu_21:19lo tomarán...sacarán ante los ancianosH8610
+- Deu_22:6ave...no tomarás la madre con los hijosH3947
+- Deu_22:7dejarás ir...tomarás los pollos para tiH3947
+- Deu_22:13cuando alguno tomare mujer, y despuésH3947
+- Deu_22:14a esta mujer tomé, y me llegué a ellaH3947
+- Deu_22:15tomarán...las señales de la virginidadH3947
+- Deu_22:18tomarán al hombre y lo castigaránH3947
+- Deu_22:28virgen...tomare y se acostare con ellaH8610
+- Deu_22:30ninguno tomará la mujer de su padre, niH3947
+- Deu_23:20donde vas para tomar posesión de ellaH3423
+- Deu_24:1cuando alguno tomare mujer y se casareH3947
+- Deu_24:3muerto el postrer hombre que la tomóH3947
+- Deu_24:4volverla a tomar para que sea su mujerH3947
+- Deu_24:5año, para alegrar a la mujer que tomóH3947
+- Deu_24:6no tomarás en prenda la muela...molinoH2254
+- Deu_24:6porque sería tomar en prenda la vida delH2254
+- Deu_24:10no entrarás en su...para tomarle prendaH5670
+- Deu_24:17ni tomarás en prenda la...de la viudaH2254
+- Deu_25:5cuñado se llegará a ella, y la tomaráH3947
+- Deu_25:7hombre no quisiere tomar a su cuñadaH3947
+- Deu_25:8levantare y dijere: No quiero tomarlaH3947
+- Deu_26:1y tomes posesión de ella y la habitesH3423
+- Deu_26:2tomarás de las primicias de...los frutosH3947
+- Deu_26:4y el sacerdote tomará la canasta de tuH3947
+- Deu_28:21, Deu_28:63entráis para tomar posesión de ellaH3423
+- Deu_29:8tomamos su tierra...la dimos por heredadH3947
+- Deu_30:4te recogerá...Dios, y de allá te tomaráH3947
+- Deu_30:16a la cual entras para tomar posesiónH3423
+- Deu_31:13pasando...para tomar posesión de ellaH3423
+- Deu_31:26tomad este libro de la ley, y ponedloH3947
+- Deu_32:11extiende sus alas, los toma, los llevaH3947
+- Deu_32:41yo tomaré venganza de mis enemigos, yH7725
+- Deu_32:43él...y tomará venganza de sus enemigosH7725
+- Deu_32:47pasando el...para tomar posesión de ellaH3423
+- Jos_2:4pero la mujer había tomado a los dosH3947
+- Jos_3:6tomad el arca...Y ellos tomaron el arcaH5375
+- Jos_3:12tomad...ahora doce hombres de las tribusH3947
+- Jos_4:2tomad...doce hombres, uno de cada tribuH3947
+- Jos_4:3tomad de aquí de en medio del Jordán, delH5375
+- Jos_4:5y cada uno de vosotros tome una piedraH7311
+- Jos_4:8tomaron doce piedras de en...del JordánH5375
+- Jos_6:12los sacerdotes tomaron el arca de JehováH5375
+- Jos_6:18ni toméis alguna cosa del anatema, noH3947
+- Jos_6:20subió luego a la ciudad...y la tomaronH3920
+- Jos_7:1Acán hijo de Carmi...tomó del anatemaH3947
+- Jos_7:3sino suban como dos mil...y tomarán a HaiH6221
+- Jos_7:11Israel ha pecado...han tomado del anatemaH3947
+- Jos_7:14la tribu que Jehová tomare, se acercaráH3920
+- Jos_7:14familia que Jehová tomare...casa que...tH3920
+- Jos_7:16acercar...y fue tomada la tribu de JudáH3920
+- Jos_7:17fue tomada la familia de...fue t ZabdiH3920
+- Jos_7:18y fue tomado Acán hijo de Carmi, hijoH3920
+- Jos_7:21lingote de oro...lo cual codicié y toméH3947
+- Jos_7:23y tomándolo de en...lo trajeron a JosuéH3947
+- Jos_7:24tomaron a Acán hijo de Zera, el dineroH3947
+- Jos_8:1toma contigo toda la gente de guerra, yH3947
+- Jos_8:2que...sus bestias tomaréis para vosotros
+- Jos_8:7os levantaréis de...y tomaréis la ciudadH3423
+- Jos_8:8cuando la hayáis tomado, le prenderéisH8610
+- Jos_8:12tomó como cinco mil hombres, y los pusoH3947
+- Jos_8:19y vinieron a la ciudad, y la tomaronH3920
+- Jos_8:21viendo que los...habían tomado la ciudadH3920
+- Jos_8:23pero tomaron vivo al rey de Hai, y loH8610
+- Jos_8:27pero los israelitas tomaron...las bestias
+- Jos_9:4y tomaron sacos viejos sobre sus asnosH3947
+- Jos_9:11tomad...provisión para el camino, e idH3947
+- Jos_9:12este nuestro pan lo tomamos caliente de
+- Jos_9:14tomaron de las provisiones de ellos, yH3947
+- Jos_10:1rey de...oyó que Josué había tomado a HaiH3920
+- Jos_10:28tomó Josué a Maceda, y la hirió a filoH3920
+- Jos_10:32a Laquis...y la tomó al día siguienteH3920
+- Jos_10:35la tomaron el mismo día, y la hirieronH3920
+- Jos_10:37tomándola, la hirieron a filo de espadaH3920
+- Jos_10:39y la tomó, y a su rey, y a todas susH3920
+- Jos_10:42estos reyes...los tomó Josué de una vezH3920
+- Jos_11:10tomó...Hazor, y mató a espada a su reyH3920
+- Jos_11:12asimismo tomó Josué todas las ciudadesH3920
+- Jos_11:14los hijos de Israel tomaron...el botín
+- Jos_11:16tomó, pues, Josué toda aquella tierraH3947
+- Jos_11:17tomó...todos sus reyes, y los hirió yH3920
+- Jos_11:19ciudad que...todo lo tomaron en guerraH3947
+- Jos_11:23tomó...toda la tierra, conforme a todoH3947
+- Jos_14:1lo que los hijos de Israel tomaron por
+- Jos_15:16al que atacare...la tomare, yo le daréH3920
+- Jos_15:17la tomó Otoniel hijo de Cenaz hermanoH3920
+- Jos_19:47tomándola la hirieron a filo de espadaH3920
+- Jos_19:47tomaron posesión...y habitaron en ellaH3423
+- Jos_22:19y tomad posesión entre nosotros; peroH270
+- Jos_24:3tomé a vuestro padre Abrabam del otroH3947
+- Jos_24:26y tomando una gran piedra, la levantóH3947
+- Jue_1:8tomaron, y pasaron a sus habitantes aH3920
+- Jue_1:12atacare a...y la tomare, yo le daré AcsaH3920
+- Jue_1:13la tomó Otoniel hijo de Cenaz, hermanoH3920
+- Jue_1:18tomó...Judá a Gaza con su territorio yH3920
+- Jue_3:6y tomaron de sus hijas por mujeres, yH3947
+- Jue_3:13hirió...y tomó la ciudad de las palmerasH3423
+- Jue_3:21Aod...tomó el puñal de su lado derechoH3947
+- Jue_3:25tomaron la llave y abrieron; y he aquíH3947
+- Jue_3:28y tomaron los vados del Jordán a MoabH3920
+- Jue_4:6y toma...diez mil hombres de la tribu deH3947
+- Jue_4:21Jael...tomó una estaca de la tienda, yH3947
+- Jue_5:30los jefes de los que tomaron el botín
+- Jue_6:20toma la carne y los panes...sin levaduraH3947
+- Jue_6:25dijo...Toma un toro del hato de tu padreH3947
+- Jue_6:26y tomando el segundo toro, sacrifícaloH3947
+- Jue_6:27Gedeón tomó 10 hombres de sus siervosH3947
+- Jue_7:8y habiendo tomado provisiones para elH3947
+- Jue_7:20tomaron en la mano izquierda las teasH2388
+- Jue_7:24tomad los vados...tomaron los vados deH3920
+- Jue_7:25tomaron a dos príncipes de...madianitasH3920
+- Jue_8:14tomó a un joven de los hombres de SucotH3920
+- Jue_8:16y tomó a los ancianos de la ciudad, yH3947
+- Jue_8:21y tomó los adornos...sus camellos traíanH3947
+- Jue_9:43el cual, tomando gente, la repartió enH3947
+- Jue_9:45y tomó la ciudad, y mató al pueblo queH3920
+- Jue_9:48y tomó Abimelec un hacha en su mano, yH3947
+- Jue_9:50Abimelec...puso sitio a Tebes, y la tomóH3920
+- Jue_11:13Israel tomó mi tierra, cuando subió deH3947
+- Jue_11:15así: Israel no tomó tierra de Moab, niH3947
+- Jue_12:5galaaditas tomaron los vados del JordánH3920
+- Jue_12:9y tomó de fuera 30 hijas para sus hijosH935
+- Jue_13:14no tomará nada que proceda de la vid
+- Jue_13:19y Manoa tomó un cabrito y una ofrendaH3947
+- Jue_14:2una...os ruego que me la toméis por mujerH3947
+- Jue_14:3para que vayas tú a tomar mujer de losH3947
+- Jue_14:3tómame ésta por mujer, porque ella meH3947
+- Jue_14:8volviendo...para tomarla, se apartó delH3047
+- Jue_14:9y tomándolo...se fue comiéndolo por elH7287
+- Jue_14:9tomado aquella miel del cuerpo del leónH7287
+- Jue_14:11tomaron treinta compañeros para...con él
+- Jue_14:19y tomando sus despojos, dio las mudasH3947
+- Jue_15:2su hermana...Tómala, pues, en su lugarH1961
+- Jue_15:4y tomó teas, y juntó cola con cola, yH3947
+- Jue_15:15una quijada...extendió la mano y la tomóH3947
+- Jue_16:3tomando las puertas...las echó al hombroH270
+- Jue_16:12y Dalila tomó cuerdas nuevas, y le atóH3947
+- Jue_16:28una vez tome venganza de los filisteos
+- Jue_16:31le tomaron...y le sepultaron entre ZoraH5375
+- Jue_17:2el dinero está en mi poder; yo lo toméH3947
+- Jue_17:4tomó su madre 200 siclos de plata y losH3947
+- Jue_18:4me ha tomado para que sea su sacerdote
+- Jue_18:9para ir a tomar posesión de la tierraH3423
+- Jue_18:17entraron...y tomaron la imagen de tallaH3947
+- Jue_18:18entrando...tomaron la imagen de tallaH3947
+- Jue_18:20el cual tomó el efod y los terafines yH3947
+- Jue_18:24él respondió: Tomasteis mis dioses queH3947
+- Jue_19:1había tomado para sí mujer concubina deH3947
+- Jue_19:25tomando aquel...a su concubina, la sacóH2388
+- Jue_19:29y llegando a su casa, tomó un cuchilloH3947
+- Jue_19:30considerad...tomad consejo, y hablad
+- Jue_20:6tomando yo mi concubina, la corté enH270
+- Jue_20:10tomaremos diez hombres de cada cientoH3947
+- Jue_21:22en la guerra no tomamos mujeres paraH3947
+- Jue_21:23tomaron mujeres conforme a su númeroH5375
+- Rut_1:4los cuales tomaron...mujeres moabitasH5375
+- Rut_2:18lo tomó, y se fue...su suegra vio lo queH5375
+- Rut_4:2tomó a diez varones de los ancianos de laH3947
+- Rut_4:5día...debes tomar también a Rut la moabita
+- Rut_4:8el pariente dijo...Tómalo tú. Y se quitó
+- Rut_4:10que también tomo por mi mujer a Rut la
+- Rut_4:13Booz...tomó a Rut, y ella fue su mujerH3947
+- Rut_4:16y tomando Noemí el hijo, lo puso en suH3947
+- 1Sa_2:14todo lo que sacaba...tomaba para síH3947
+- 1Sa_2:15no tomará de ti carne cocida, sino cruda
+- 1Sa_2:16toma tanto como quieras; él respondíaH3947
+- 1Sa_2:16dámela ahora...tomaré por la fuerzaH3947
+- 1Sa_4:11el arca de Dios fue tomada, y muertosH3947
+- 1Sa_4:17diciendo...el arca de Dios ha sido tomadaH3947
+- 1Sa_4:19oyendo...que el arca...había sido tomadaH3947
+- 1Sa_4:21por haber sido tomada el arca de DiosH3947
+- 1Sa_4:22porque ha sido tomada el arca de DiosH3947
+- 1Sa_5:2y tomaron los filisteos el arca de DiosH3947
+- 1Sa_5:3y tomaron a Dagón y lo volvieron a suH3947
+- 1Sa_6:7tomad luego dos vacas que críen, a lasH3947
+- 1Sa_6:8tomaréis luego el arca de Jehová, y laH3947
+- 1Sa_6:10tomando dos vacas que criaban, las uncieron al carroH3947
+- 1Sa_7:9Samuel tomó un cordero...y lo sacrificóH3947
+- 1Sa_7:12tomó luego Samuel una piedra y la pusoH3947
+- 1Sa_7:14ciudades que...filisteos habían tomadoH3947
+- 1Sa_8:11tomará vuestros hijos, y los pondrá enH3947
+- 1Sa_8:13tomará...a vuestras hijas para que seanH3947
+- 1Sa_8:14tomará lo mejor de vuestras tierras, deH3947
+- 1Sa_8:16tomará vuestros siervos...vuestros asnosH3947
+- 1Sa_9:3toma ahora contigo alguno de los criadosH3947
+- 1Sa_9:22Samuel tomó a Saúl y a su criado, losH3947
+- 1Sa_10:1tomando...Samuel una redoma de aceiteH3947
+- 1Sa_10:4dos panes, los que tomarás de mano de
+- 1Sa_10:20tribus de Israel, fue tomada la tribuH3920
+- 1Sa_10:21tomada la familia de...fue tomado SaúlH3920
+- 1Sa_11:7y tomando un par de bueyes, los cortóH3947
+- 1Sa_12:3si he tomado el buey...si he t el asnoH3947
+- 1Sa_12:3si...tomado cohecho para cegar mis ojos
+- 1Sa_12:4ni has tomado algo de mano de...hombreH3947
+- 1Sa_14:24coma...antes que haya tomado venganza
+- 1Sa_14:28maldito sea el...que tome hoy alimento
+- 1Sa_14:30hoy del botín tomado de sus enemigos?
+- 1Sa_14:32y tomaron ovejas y vacas y becerrosH3947
+- 1Sa_14:47después de haber tomado posesión delH3920
+- 1Sa_15:8tomó vivo a Agag rey de Amalec, pero aH8610
+- 1Sa_15:21pueblo tomó del botín ovejas y vacasH3947
+- 1Sa_16:2toma contigo una becerra de la vacadaH3947
+- 1Sa_16:13y Samuel tomó el cuerno del aceite, yH3947
+- 1Sa_16:20tomó Isaí un asno cargado de pan, unaH3947
+- 1Sa_16:23David tomaba el arpa y tocaba con suH3947
+- 1Sa_17:17toma ahora para tus hermanos un efa deH3947
+- 1Sa_17:18tus hermanos...y toma prendas de ellosH3947
+- 1Sa_17:34y tomaba algún cordero de la manadaH5375
+- 1Sa_17:40y tomó su cayado en su mano, y escogióH3947
+- 1Sa_17:40tomó su honda...se fue hacia el filisteo
+- 1Sa_17:49tomó de allí una piedra, y la tiró conH3947
+- 1Sa_17:51y tomando la espada de él...de su vainaH3947
+- 1Sa_17:54y David tomó la cabeza del filisteo yH3947
+- 1Sa_17:57Abner lo tomó y lo llevó delante de SaúlH3947
+- 1Sa_18:2y Saúl le tomó aquel día, y no le dejóH3947
+- 1Sa_18:10que un espíritu malo de...tomó a Saúl
+- 1Sa_18:25sea tomada venganza de los enemigos del
+- 1Sa_19:5él tomó su vida en su mano, y mató al
+- 1Sa_19:13tomó luego Mical una estatua, y la pusoH3947
+- 1Sa_20:21allí las saetas...tómalas; tú vendrasH3947
+- 1Sa_21:8no tomé en mí...mi espada ni mis armas
+- 1Sa_21:9la espada...si quieres tomarla, tómalaH3947
+- 1Sa_24:2y tomando Saúl 3.000 hombres escogidosH3947
+- 1Sa_25:11¿he de tomar yo ahora mi pan, mi aguaH3947
+- 1Sa_25:18Abigail tomó...panes, dos cueros de vinoH3947
+- 1Sa_25:39envió David a...tomarla por su mujerH3947
+- 1Sa_25:40ha enviado...para tomarte por su mujerH3947
+- 1Sa_25:43tomó David a Ahinoam de JezreelH3947
+- 1Sa_26:11toma...la lanza que está a su cabeceraH3947
+- 1Sa_26:22pase acá uno de los criados y tómelaH3947
+- 1Sa_28:24y tomó harina y la amasó, y coció deH3947
+- 1Sa_30:16aquel gran botín que habían tomado deH3947
+- 1Sa_30:18libró David todo lo que...habían tomado
+- 1Sa_30:19todas las cosas que les habían tomadoH3947
+- 1Sa_30:20tomó también David todas las ovejas yH3947
+- 1Sa_30:22su mujer y...que los tomen y se vayan
+- 1Sa_31:4tomó Saúl su propia espada y se echóH3947
+- 1Sa_31:13y tomando sus huesos, los sepultaronH3947
+- 2Sa_1:10y tomó la corona que...en su cabezaH3947
+- 2Sa_2:8Abner...tomó a Is-boset hijo de Saúl, yH3947
+- 2Sa_2:21echa mano...y toma para ti sus despojosH3947
+- 2Sa_2:32tomaron luego a Asael, y lo sepultaronH5375
+- 2Sa_4:4su nodriza le tomó y huyó; y mientrasH5375
+- 2Sa_4:7cortaron la cabeza, y habiéndola tomadoH3947
+- 2Sa_4:12luego tomaron la cabeza de Is-boset, yH3947
+- 2Sa_5:7David tomó la fortaleza de Sion, la cualH3920
+- 2Sa_5:13tomó David más concubinas y mujeres deH3947
+- 2Sa_7:8yo te tomé del redil, de detrás de lasH3947
+- 2Sa_8:1tomó David a Meteg-ama de...los filisteosH3947
+- 2Sa_8:4tomó David...1.700 hombres de a caballoH3920
+- 2Sa_8:7tomó David los escudos de oro que traíanH3947
+- 2Sa_8:8de Beta...tomó...gran cantidad de bronceH3947
+- 2Sa_10:4Hanún tomó los siervos...rapó la...barbaH3947
+- 2Sa_10:6de Amón...tomaron a sueldo a los sirios
+- 2Sa_11:4y envió David mensajeros, y la tomóH3947
+- 2Sa_12:4éste no quiso tomar de sus ovejas y deH3947
+- 2Sa_12:4tomó la oveja de aquel hombre pobre, yH3947
+- 2Sa_12:9y tomaste por mujer a su mujer, y a élH3947
+- 2Sa_12:10tomaste la mujer de Urías heteo paraH3947
+- 2Sa_12:11tomaré tus mujeres delante de tus ojosH3947
+- 2Sa_12:26Joab peleaba contra...y tomó la ciudadH3920
+- 2Sa_12:27yo he...tomado la ciudad de las aguasH3920
+- 2Sa_12:28tómala, no sea que tome yo la ciudadH3920
+- 2Sa_12:29fue...combatió contra ella, y la tomóH3920
+- 2Sa_13:8tomó harina, y amasó, e hizo hojuelasH3947
+- 2Sa_13:9tomó...la sartén, y las sacó delante de élH3947
+- 2Sa_13:10tomando Tamar las hojuelas...las llevóH3947
+- 2Sa_13:19Tamar tomó ceniza y la esparció sobre
+- 2Sa_14:2envió...y tomó de allá una mujer astutaH3947
+- 2Sa_15:5se acercaba...Y lo tomaba, y lo besabaH2388
+- 2Sa_17:19tomando la mujer de la casa una mantaH3947
+- 2Sa_18:14y tomando tres dardos en su mano, losH3947
+- 2Sa_18:17tomando...a Absalón, le echaron en unH3947
+- 2Sa_18:18en vida, Absalón había tomado y erigidoH3947
+- 2Sa_19:30deja que él las tome todas, pues queH3947
+- 2Sa_19:35¿tomará gusto ahora tu siervo en lo que
+- 2Sa_20:3tomó el rey las diez mujeres concubinasH3947
+- 2Sa_20:6toma, pues, tú los siervos de tu señorH3947
+- 2Sa_20:9tomó...la barba de Amasa, para besarloH270
+- 2Sa_21:8pero tomó el rey a dos hijos de RizpaH3947
+- 2Sa_21:10Rizpa...tomó una tela de cilicio y laH3947
+- 2Sa_21:12David fue y tomó los huesos de Saúl yH3947
+- 2Sa_22:17envió desde lo alto y me tomó me sacóH3947
+- 2Sa_23:6espinos...cuales nadie toma con la manoH3947
+- 2Sa_23:16tomaron, y la trajeron a David; mas élH5375
+- 2Sa_24:22tome y ofrezca mi señor el rey lo queH3947
+- 1Re_1:12toma mi consejo, para que conserves
+- 1Re_1:33tomad...los siervos de vuestro señor, yH3947
+- 1Re_1:39y tomando el sacerdote Sadoc el cuernoH3947
+- 1Re_3:1tomó la hija de Faraón, y la trajo a laH3947
+- 1Re_3:20se levantó...y tomó a mi hijo de junto aH3947
+- 1Re_4:15Ahimaas...tomó...por mujer a Basemat hijaH3947
+- 1Re_5:9en balsas...se desatará, y tú la tomarás
+- 1Re_7:8hija de Faraón...había tomado por mujerH3947
+- 1Re_8:3vinieron...los sacerdotes tomaron el arcaH5375
+- 1Re_8:31y le tomaren juramento haciéndole jurar
+- 1Re_9:16Faraón...había subido y tomado a GezerH3920
+- 1Re_9:28tomaron de allí oro, 420 talentos, y loH3947
+- 1Re_11:18tomando...hombres de Parán, vinieron aH3947
+- 1Re_11:30tomando Ahías la capa nueva que teníaH8610
+- 1Re_11:31dijo a...Toma para ti los diez pedazosH3947
+- 1Re_11:37te tomaré a ti, y tú reinarás en todasH3947
+- 1Re_13:29tomó el profeta el cuerpo del varón deH5375
+- 1Re_14:3y toma en tu mano diez panes, y tortasH3947
+- 1Re_14:26tomó los tesoros de la casa de JehováH3947
+- 1Re_15:18tomando Asa toda la plata y el oro queH3947
+- 1Re_16:18mas viendo Zimri tomada la ciudad, seH3920
+- 1Re_16:31y tomó por mujer a Jezabel, hija deH3947
+- 1Re_17:19él lo tomó de su regazo, y lo llevó alH3947
+- 1Re_17:23tomando...Elías al niño, lo trajo delH3947
+- 1Re_18:4tomó a cien profetas y los escondió deH3947
+- 1Re_18:26ellos tomaron el buey que les fue dadoH3947
+- 1Re_18:31tomando Elías doce piedras, conformeH3947
+- 1Re_19:21y tomó un par de bueyes y los mató, yH3947
+- 1Re_20:6y tomarán...todo lo precioso que tengas
+- 1Re_20:18si han salido por paz, tomadlos vivosH8610
+- 1Re_20:18han salido para pelear, tomadlos vivosH8610
+- 1Re_20:27tomando provisiones fueron al encuentro
+- 1Re_20:33esto tomaron...por buen augurio, y se
+- 1Re_20:33apresuraron a tomar la palabra de suH2480
+- 1Re_20:34las ciudades que mi padre tomó al tuyoH3947
+- 1Re_21:15toma la viña de Nabot de Jezreel, queH3423
+- 1Re_21:16a la viña...para tomar posesión de ellaH3423
+- 1Re_21:18descendido para tomar posesión de ellaH3423
+- 1Re_22:3no hemos hecho nada para tomarla deH3947
+- 1Re_22:26toma a Micaías, y llévalo...a Joás hijoH3947
+- 2Re_2:8tomando...Elías su manto, lo dobló, yH3947
+- 2Re_2:12y tomando sus vestidos, los rompió en
+- 2Re_2:14y tomando el manto de Elías que se leH3947
+- 2Re_3:26tomó...700 hombres que manejaban espadaH3947
+- 2Re_4:1el acreedor para tomarse dos hijos míosH3947
+- 2Re_4:20habiéndole...tomado y traído a su madreH5375
+- 2Re_4:29dijo él...toma mi báculo en tu mano, y véH3947
+- 2Re_4:36entrando ella, él le dijo: Toma tu hijoH5375
+- 2Re_4:37entró...después tomó a su hijo, y salióH5375
+- 2Re_5:6tomó...cartas para el rey de Israel, que
+- 2Re_5:20no tomando...las cosas que había traído
+- 2Re_5:20correré yo...y tomaré de él alguna cosaH3947
+- 2Re_5:23te ruego que tomes dos talentos. Y leH3947
+- 2Re_5:24él lo tomó de...y lo guardó en la casaH3947
+- 2Re_5:26¿es tiempo de tomar plata...t vestidos
+- 2Re_6:2y tomemos de allí cada uno una viga, yH3947
+- 2Re_6:7tómalo. Y el extendió la mano, lo tomóH7311
+- 2Re_6:22¿matarías...a los que tomaste cautivos
+- 2Re_7:6ha tomado a sueldo...a los reyes de losH7936
+- 2Re_7:8tomaron de allí plata y oro y vestidosH5375
+- 2Re_7:8otra tienda, y de allí también tomaronH5375
+- 2Re_7:12los tomaremos vivos, y entraremos enH8610
+- 2Re_7:13tomen ahora cinco de los caballos queH3947
+- 2Re_7:14tomaron, pues, dos caballos de un carroH3947
+- 2Re_8:8dijo...Toma en tu mano un presente, y véH3947
+- 2Re_8:9tomó...Hazael en su mano un presente deH3947
+- 2Re_8:15tomó un paño y lo metió en agua, y loH3947
+- 2Re_9:1y toma esta redoma de aceite en tu manoH3947
+- 2Re_9:3toma...la redoma de aceite, y derrámalaH3947
+- 2Re_9:13tomó...manto, y lo puso debajo de JehúH3947
+- 2Re_9:25tómalo y échalo a un extremo...heredadH5375
+- 2Re_9:26tómalo...échalo en la heredad de NabotH5375
+- 2Re_10:6tomad las cabezas de los hijos varonesH3947
+- 2Re_10:7tomaron...hijos del rey, y degollaron aH3947
+- 2Re_10:14que los tomaron vivos, los degollaronH8610
+- 2Re_11:2Josaba...tomó a Joás hijo de Ocozías yH3947
+- 2Re_11:4envió Joiada y tomó jefes de centenasH3947
+- 2Re_11:9tomando cada uno a los suyos, esto esH3947
+- 2Re_11:19después tomó a los jefes de centenasH3947
+- 2Re_12:7ahora, pues, no toméis más el dinero de
+- 2Re_12:8consintieron en no tomar más dinero del
+- 2Re_12:9Joiada tomó un arca e hizo en la tapa unH3947
+- 2Re_12:15y no se tomaba cuenta a los hombres en
+- 2Re_12:17Hazael...y peleó contra Gat, y la tomóH3920
+- 2Re_12:18por lo cual tomó Josías rey...las ofrendasH3947
+- 2Re_13:15toma un arco y...saetas. Tomó él...arcoH3947
+- 2Re_13:18y le volvió a decir: toma las saetasH3947
+- 2Re_13:18luego que el rey...las hubo tomado, leH3947
+- 2Re_13:25tomó...ciudades que éste había tomadoH3947
+- 2Re_14:7y tomó a Sela en batalla, y la llamóH8610
+- 2Re_14:13Joás rey...tomó a Amasías rey de JudáH8610
+- 2Re_14:14tomó todo el oro, y la plata, y todosH3947
+- 2Re_14:14los hijos tomó en rehenes, y volvió a
+- 2Re_14:21el pueblo de Judá tomó a Azarías, queH3947
+- 2Re_15:29vino Tiglat-pileser rey...y tomó a IjónH3947
+- 2Re_16:5para sitiar a...mas no pudieron tomarla
+- 2Re_16:8tomando Acaz la plata...que se halló enH3947
+- 2Re_16:9tomó, y llevó cautivos a los moradoresH8610
+- 2Re_17:6el rey de Asiria tomó Samaria, y llevóH3920
+- 2Re_18:10la tomaron al cabo de tres años. En elH3920
+- 2Re_18:10era el año noveno...fue tomada SamariaH3920
+- 2Re_18:13contra todas las ciudades...y las tomóH8610
+- 2Re_19:14y tomó Ezequías las cartas de mano de
+- 2Re_20:7dijo...Tomad masa de higos. Y tomándolaH3920
+- 2Re_20:18de tus hijos...tomarán, y serán eunucosH3920
+- 2Re_22:7y que no se les tome cuenta del dinero
+- 2Re_23:30pueblo...tomó a Joacaz hijo de JosíasH3920
+- 2Re_23:34y tomó a Joacaz y lo llevó a EgiptoH3920
+- 2Re_24:7rey de Babilonia le tomó todo lo...suyoH3920
+- 2Re_25:18tomó...el capitán...al primer sacerdoteH3920
+- 2Re_25:19de la ciudad tomó un oficial que teníaH3920
+- 2Re_25:20éstos tomó Nabuzaradán, capitán de laH3920
+- 1Cr_2:19tomó Caleb por mujer a Efrata, laH3920
+- 1Cr_2:21a la hija de Maquir padre...la cual tomó
+- 1Cr_2:23pero Gesur y Aram tomaron...las ciudadesH3947
+- 1Cr_5:21y tomaron sus ganados, 50.000 camellos
+- 1Cr_7:15y Maquir tomó mujer de Hupim y SupimH3947
+- 1Cr_7:21de Gat...vinieron a tomarles sus ganadosH3947
+- 1Cr_7:40entre los que podían tomar las armas, el
+- 1Cr_10:4Saúl tomó la espada, y se echó sobre ellaH3947
+- 1Cr_10:9y luego...tomaron su cabeza y sus armasH5375
+- 1Cr_10:12tomaron el cuerpo de Saúl y...sus hijosH5375
+- 1Cr_11:5David tomó la fortaleza de Sion, que esH3920
+- 1Cr_11:18agua del pozo de Belén...y la tomaronH5375
+- 1Cr_12:31Manasés...tomados por lista para venir
+- 1Cr_13:1David tomó consejo con los capitanes de
+- 1Cr_14:3David tomó también mujeres en JerusalénH3947
+- 1Cr_17:7yo te tomé del redil, de detrás de lasH3947
+- 1Cr_18:1David...tomó a Gat y sus villas de manoH3947
+- 1Cr_18:4y le tomó David mil carros, siete milH3920
+- 1Cr_18:7tomó también David los escudos de oroH3947
+- 1Cr_18:8y de Cun...tomó David muchísimo bronce
+- 1Cr_18:11la plata y el oro que había tomado de
+- 1Cr_19:4Hanún tomó los siervos de David y losH3947
+- 1Cr_19:6para tomar a sueldo carros y gente de a
+- 1Cr_19:7tomaron a sueldo 32.000 carros, y al rey
+- 1Cr_20:2y tomó David la corona de encima de laH3947
+- 1Cr_21:23Ornán respondió a David: Tómala paraH3947
+- 1Cr_21:24no tomaré para Jehová lo que es tuyoH5375
+- 1Cr_23:22sus parientes, las tomaron por mujeresH5375
+- 1Cr_27:23y no tomó David el número de los queH5375
+- 2Cr_5:4vinieron...los levitas tomaron el arcaH5375
+- 2Cr_6:36los que los tomaren los lleven cautivos
+- 2Cr_8:3vino Salomón a Hamat de Soba, y la tomó
+- 2Cr_8:18a Ofir, y tomaron...450 talentos de oroH3947
+- 2Cr_10:6rey Roboam tomó consejo con los ancianos
+- 2Cr_10:8él...tomó consejo con los jóvenes que se
+- 2Cr_11:18tomó Roboam por mujer a Mahalat hijaH3947
+- 2Cr_11:20tomó a Maaca hija de Absalón, la cualH3947
+- 2Cr_11:21tomó 18 mujeres y sesenta concubinasH5375
+- 2Cr_12:4tomó las ciudades fortificadas de JudáH3920
+- 2Cr_12:9Sisac...tomó los tesoros de la casa deH3947
+- 2Cr_12:9y tomó los escudos de oro que SalomónH3947
+- 2Cr_13:19le tomó algunas ciudades, a Bet-el conH3920
+- 2Cr_13:21Abías...tomó catorce mujeres, y engendró
+- 2Cr_14:13y Asa, y. les tomaron muy grande botínH5375
+- 2Cr_15:8las ciudades que él había tomado en laH3920
+- 2Cr_16:6Asa tomó a todo Judá, y se llevaron laH3947
+- 2Cr_17:2las ciudades de Efraín...Asa había tomadoH3920
+- 2Cr_18:25tomad a Micaías, y llevadlo...a Joás hijoH3947
+- 2Cr_20:25riquezas...vestidos...que tomaron para sí
+- 2Cr_21:17tomaron todos los bienes que hallaronH7617
+- 2Cr_22:11Josabet...tomó a Joás...escondiéndoloH3947
+- 2Cr_23:1tomó consigo en alianza a los jefes deH3947
+- 2Cr_23:8y tomó cada jefe a los suyos, los queH3947
+- 2Cr_24:3y Joiada tomó para él dos mujeres; yH5375
+- 2Cr_24:12y tomaban canteros y carpinteros queH7936
+- 2Cr_25:6y de Israel tomó a sueldo...a cien milH7936
+- 2Cr_25:12los hijos de Judá tomaron vivos a otros
+- 2Cr_25:13mataron a 3.000...tomaron gran despojo
+- 2Cr_25:17Amasías rey...después de tomar consejo
+- 2Cr_25:24tomó todo el oro y la plata, y todos
+- 2Cr_26:1el pueblo de Judá tomó a Uzías, el cualH3947
+- 2Cr_28:5le tomaron gran número de prisionerosH7617
+- 2Cr_28:8los hijos de Israel tomaron cautivos deH7617
+- 2Cr_28:8además de haber tomado...mucho botín
+- 2Cr_28:11cautivos que habéis tomado de vuestros
+- 2Cr_28:15los varones...y tomaron a los cautivosH2388
+- 2Cr_28:18los filisteos...habían tomado Bet-semesH3920
+- 2Cr_30:2había tomado consejo con sus príncipes
+- 2Cr_30:16y tomaron su lugar en los turnos de
+- 2Cr_32:18espantarles y...poder tomar la ciudadH3920
+- 2Cr_35:12tomaron luego del holocausto, para dar
+- 2Cr_35:12dar...y asimismo tomaron de los bueyes
+- 2Cr_35:25y las tomaron por norma para endechar
+- 2Cr_36:1el pueblo...tomó a Joacaz...y lo hizo reyH3947
+- 2Cr_36:4Joacaz...tomó Necao, y lo llevó a EgiptoH3947
+- Esd_2:61tomó mujer de las hijas de BarzilaiH3947
+- Esd_5:15toma estos utensilios, vé, y llévalos aH5376
+- Esd_9:2han tomado de las hijas de ellos para síH5375
+- Esd_9:12hijas tomaréis para vuestros hijos, niH5375
+- Esd_10:2pues tomamos mujeres extranjeras de losH3427
+- Esd_10:10cuanto tomasteis mujeres extranjerasH3427
+- Esd_10:14aquellos que en...hayan tomado mujeresH3427
+- Esd_10:17-18, Esd_10:44habían tomado mujeres extranjerasH3427, [[H5375]]
+- Neh_2:1de él, tomé el vino y lo serví al reyH5375
+- Neh_5:4tomado prestado dinero para el tributo del
+- Neh_5:15y tomaron de ellos...más de 40 siclos deH3947
+- Neh_6:18su hijo había tomado por mujer a la hijaH3947
+- Neh_7:63cual tomó mujer de las hijas de BarzilaiH3947
+- Neh_9:25tomaron ciudades fortificadas y tierraH3920
+- Neh_10:30ni tomaríamos sus hijas para nuestrosH3947
+- Neh_10:31nada tomaríamos de ellos en ese día ni
+- Neh_13:23a judíos que habían tomado mujeres de
+- Neh_13:25y no tomaréis de sus hijas para...hijosH5375
+- Neh_13:27este mal...tomando mujeres extranjeras?
+- Est_2:15de Mardoqueo, quien la había tomadoH3947
+- Est_6:10rey dijo...toma el vestido y el caballoH3947
+- Est_6:11y Amán tomó el vestido y el caballo, yH3947
+- Est_9:27tomaron sobre sí, sobre su descendenciaH6901
+- Est_9:31y según ellos habían tomado sobre sí y
+- Job_1:15acometieron los sabeos y los tomaronH3947
+- Job_2:8tomaba Job un tiesto para rascarse conH3947
+- Job_9:18no me ha concedido que tome aliento, sino
+- Job_13:14¿por qué...y tomaré mi vida en mi mano?[[H5375]]
+- Job_20:18restituirá...conforme...bienes que tomó
+- Job_22:22toma ahora la ley de su boca, y pon sus
+- Job_24:3y toman en prenda el buey de la viudaH2254
+- Job_24:9y de sobre el pobre toman la prendaH2254
+- Job_24:17terrores de sombra de muerte los toman
+- Job_36:3tomaré mi saber...y atribuiré justicia aH5375
+- Job_40:24¿lo tomará alguno cuando está vigilanteH3947
+- Job_41:4para que lo tomes por siervo perpetuo?[[H3947]]
+- Job_42:8tomaos siete becerros y siete carnerosH3947
+- Sal_9:15en la red que escondieron fue tomado
+- Sal_16:4no...ni en mis labios tomaré sus nombresH3920
+- Sal_18:16me tomó, me sacó de las muchas aguasH3947
+- Sal_31:24todos...y toma aliento vuestro corazón
+- Sal_37:21el impío toma prestado, y no paga; Mas el justo
+- Sal_39:13déjame, y tomaré fuerzas, antes que
+- Sal_48:6tomó allí temblor; dolor como de mujer
+- Sal_49:15del Seol, porque él me tomará consigo
+- Sal_50:9no tomaré de tu casa becerros...machosH3947
+- Sal_50:16qué tienes...tomar mi pacto en tu boca?[[H5375]]
+- Sal_50:20tomabas asiento, y hablabas contra tu
+- Sal_68:18lo alto...tomaste dones para los hombres
+- Sal_71:11tomadle, porque no hay quien le libreH8610
+- Sal_73:23con todo...tomaste de la mano derecha
+- Sal_78:70eligió a David su siervo, y lo tomó deH3947
+- Sal_109:8sus días pocos; tome otro su oficioH3947
+- Sal_116:13tomaré la copa de la salvación, eH5375
+- Sal_119:111por heredad he tomado tus testimonios
+- Sal_137:9el que tomare y estrellare tus niñosH270
+- Sal_139:9si tomare las alas del alba y habitareH5375
+- Sal_139:20tus enemigos toman en vano tu nombreH5375
+- Sal_140:12Jehová tomará...la causa del afligido
+- Pro_6:27¿tomará el hombre fuego en su senoH2846
+- Pro_16:32mejor es...que el que toma una ciudadH3920
+- Pro_17:23el impío toma soborno del seno paraH3947
+- Pro_18:2no toma placer el...en la inteligencia
+- Pro_20:16y toma prenda del que sale fiador porH2254
+- Pro_21:22tomó el sabio la ciudad de los fuertes
+- Pro_22:7el que toma prestado es siervo del que
+- Pro_22:25no sea que...y tomes lazo para tu almaH3947
+- Pro_24:32lo puse en mi corazón...y tomé consejo
+- Pro_26:10es el que toma a sueldo insensatos y
+- Pro_26:17es como el que toma al perro por lasH2388
+- Pro_27:13al que fía a la extraña, tómale prendaH2254
+- Ecl_2:11y el trabajo que tomé para hacerlas
+- Ecl_5:19facultad para que coma...y tome su parteH5375
+- Ecl_7:18bueno es que tomes esto, y también deH270
+- Ecl_11:9tome placer tu corazón en los días de tu
+- Isa_1:24tomaré satisfacción de mis enemigos
+- Isa_3:6alguno tomare de la mano a su hermanoH8610
+- Isa_3:6le dijere...toma en tus manos esta ruina
+- Isa_3:7jurará...diciendo: No tomaré ese cuidado
+- Isa_5:27ninguno se dormirá, ni le tomará sueño
+- Isa_6:6un carbón encendido, tomado del altarH3947
+- Isa_7:1combatirla; pero no la pudieron tomar
+- Isa_8:1me dijo Jehová: Toma una tabla...escribeH3947
+- Isa_8:10tomad consejo, y será anulado; proferid
+- Isa_9:17el Señor no tomará contentamiento en sus
+- Isa_13:15y cualquiera que por ellos sea tomado
+- Isa_14:2los tomarán los pueblos, y los traeránH3947
+- Isa_20:1el Tartán...peleó contra Asdod y la tomóH3920
+- Isa_22:6Elam tomó aljaba...y Kir sacó el escudo
+- Isa_23:16toma arpa, y rodea la ciudad, oh rameraH3947
+- Isa_24:2como al que presta, al que toma prestado
+- Isa_30:1se apartan...para tomar consejo, y no deH6213
+- Isa_36:1todas las ciudades...de Judá, y las tomóH8610
+- Isa_37:14y tomó Ezequías las cartas de mano de
+- Isa_38:21tomen masa de higos, y pónganla en laH5375
+- Isa_39:7tus hijos...tomarán, y serán eunucos enH3947
+- Isa_41:9te tomé de los confines de la tierra, yH2388
+- Isa_44:12el herrero toma la tenaza, trabaja en
+- Isa_44:14corta cedros, y toma ciprés y encinaH3947
+- Isa_44:15toma de ellos para calentarse...cueceH3947
+- Isa_45:1cual tomé yo por su mano derecha, para
+- Isa_47:2toma el molino y muele harina; descubreH3947
+- Isa_51:18ni quien la tome de la mano, de todosH2388
+- Isa_56:12tomemos vino, embriaguémonos de sidraH3947
+- Isa_59:17tomó ropas de venganza por vestidura
+- Isa_66:13así...y en Jerusalén tomaréis consuelo
+- Isa_66:21tomaré también de ellos para...levitasH3947
+- Jer_3:14os tomaré uno de cada ciudad, y dosH3947
+- Jer_13:4toma el cinto que compraste, que estáH3947
+- Jer_13:6y toma...el cinto que te mandé esconderH3947
+- Jer_13:7fui...tomé el cinto del lugar donde loH3947
+- Jer_15:10nunca he dado ni tomado en préstamo
+- Jer_16:2no tomarás...mujer, ni tendrás hijos niH3947
+- Jer_20:5los tomarán y los llevarán a BabiloniaH3947
+- Jer_20:10quizá...tomaremos de él nuestra venganzaH3947
+- Jer_25:9y tomaré a todas las tribus del norteH3947
+- Jer_25:15toma de mi mano la copa del vino...furorH3947
+- Jer_25:17tomé la copa de la mano de Jehová, y diH3947
+- Jer_25:28si no quieren tomar la copa de tu manoH3947
+- Jer_28:3tomó de este lugar para llevarlos a BabiloniaH3947
+- Jer_31:32el día que tomé su mano para sacarlosH2388
+- Jer_32:3yo entrego esta ciudad en...y la tomaráH3920
+- Jer_32:11tomé luego la carta de venta, selladaH3947
+- Jer_32:14toma estas cartas, esta carta de ventaH3947
+- Jer_32:24han acometido la ciudad para tomarlaH3920
+- Jer_32:28voy a entregar esta ciudad...la tomaráH3920
+- Jer_33:26no tomar de su descendencia quien seaH3947
+- Jer_34:16vuelto a tomar cada uno a su siervo y
+- Jer_34:22pelearán...y la tomarán, y la quemaránH3920
+- Jer_35:3tomé...a Jaazanías hijo...a sus hermanosH3947
+- Jer_36:2toma un rollo de libro, y escribe en élH3947
+- Jer_36:14toma el rollo...Y Baruc...tomó el rolloH3947
+- Jer_36:21a que tomase el rollo, el cual lo tomóH3947
+- Jer_36:28vuelve a tomar otro rollo, y escribe enH3947
+- Jer_36:32y tomó Jeremías otro rollo y lo dio aH3947
+- Jer_37:8ciudad...la tomarán y la pondrán a fuegoH3920
+- Jer_38:3será entregada esta ciudad...y la tomaráH3920
+- Jer_38:6tomaron ellos a Jeremías y lo hicieronH3947
+- Jer_38:10toma en tu poder treinta hombres de aquíH3947
+- Jer_38:11tomó...los hombres...y t...trapos viejosH3947
+- Jer_38:28hasta el día que fue tomada JerusalénH3920
+- Jer_38:28fue tomada Jerusalén...Jerusalén fue tH3920
+- Jer_39:5le tomaron, y le hicieron subir a RiblaH3947
+- Jer_39:12tómale y vela por él, y no le hagas malH3947
+- Jer_39:14enviaron...tomaron a Jeremías del patioH3947
+- Jer_40:1le tomó estando atado con cadenas entreH3947
+- Jer_40:2tomó...el capitán...a Jeremías y le dijoH3947
+- Jer_40:10tomad el vino, los frutos del verano yH622
+- Jer_40:10quedaos en...ciudades que habéis tomadoH8610
+- Jer_41:12tomaron a...hombres y fueron a pelearH3947
+- Jer_41:16tomaron a todo el resto del pueblo que
+- Jer_43:5tomó Johanán...todo el remanente de JudáH3947
+- Jer_43:9toma con tu mano piedras grandes, yH3947
+- Jer_43:10enviaré y tomaré a Nabucodonosor reyH3947
+- Jer_44:12tomaré el resto de Judá que volvieronH3947
+- Jer_46:9los de Put que toman escudo...que t...arcoH8610
+- Jer_46:11y toma bálsamo, virgen hija de EgiptoH3947
+- Jer_48:1Quiriataim fue tomada; fue confundidaH3920
+- Jer_48:7por cuanto confiaste en...serás tomadaH3920
+- Jer_48:27fue...Israel...como si lo tomaran entre
+- Jer_48:41tomadas serán las ciudades, y t seránH3920
+- Jer_49:2e Israel tomará...a los que los tomaron
+- Jer_49:9¿no habrían tomado lo que les bastase?
+- Jer_49:24le tomó temblor...y dolores le tomaronH2388
+- Jer_49:29y sus ganados tomarán...sus camellos tH3947
+- Jer_49:30tomó consejo contra vosotros...rey de
+- Jer_50:2tomada es Babilonia, Bel es confundidoH3920
+- Jer_50:9prepararán contra ella, y será tomadaH3920
+- Jer_50:15tomad venganza de ella; haced con ella
+- Jer_50:24te puse lazos, y fuiste tomada...presaH3920
+- Jer_50:33todos los que los tomaron cautivos los
+- Jer_50:43angustia le tomó, dolor como de mujer
+- Jer_51:8gemid sobre ella; tomad bálsamo para suH3947
+- Jer_51:26nadie tomará de ti piedra para esquinaH3947
+- Jer_51:31su ciudad es tomada por todas partesH3920
+- Jer_51:32los vados fueron tomados...quemados a
+- Jer_51:41fue tomada la que era alabada por todaH3920
+- Jer_52:24tomó también el capitán de la guardiaH3947
+- Jer_52:25y de la ciudad tomó a un oficial queH3947
+- Jer_52:26tomó...Nabuzaradán...y los llevó al reyH3947
+- Eze_3:10toma en tu corazón todas mis palabras
+- Eze_3:14levantó, pues, el Espíritu, y me tomóH3947
+- Eze_4:1tómate un adobe, y ponlo delante de tiH3947
+- Eze_4:3tómate también una plancha de hierro, yH3947
+- Eze_4:9toma para ti trigo, cebada, habas...milloH3947
+- Eze_5:1tómate un cuchillo...toma una navaja deH3947
+- Eze_5:1toma...una balanza de pesar y divide losH3947
+- Eze_5:2tomarás una tercera parte y la cortarásH3947
+- Eze_5:3tomarás...de allí unos pocos en númeroH3947
+- Eze_5:4tomarás otra vez de ellos, y los echarásH3947
+- Eze_5:13saciaré...mi enojo...tomaré satisfacción
+- Eze_8:3figura extendió la mano, y me tomó porH3947
+- Eze_10:6toma fuego de entre las ruedas...entróH3947
+- Eze_10:7tomó de él y lo puso en manos del queH5375
+- Eze_10:7estaba vestido de lino...lo tomó y salióH3947
+- Eze_14:5para tomar a la casa de Israel por elH8610
+- Eze_15:3¿tomarán de ella madera para...obraH3947
+- Eze_15:3¿tomarán de ella una estaca para colgarH3947
+- Eze_16:16tomaste de tus vestidos, y te hicisteH3947
+- Eze_16:17tomaste...tus hermosas alhajas de oroH3947
+- Eze_16:18tomaste tus vestidos...y las cubristeH3947
+- Eze_16:20tomaste tus hijos...y los sacrificasteH3947
+- Eze_16:37tus enamorados con los...tomaste placer
+- Eze_17:3al Líbano, y tomó el cogollo del cedroH3947
+- Eze_17:5tomó...de la simiente de la tierra, y laH3947
+- Eze_17:12tomó a tu rey y a sus príncipes, y losH3947
+- Eze_17:13tomó...a uno de la descendencia real eH3947
+- Eze_17:22tomaré yo del cogollo de aquel...cedroH3947
+- Eze_18:8no prestare a interés ni tomare usura
+- Eze_18:13tomare usura; ¿vivirá éste? No vivirá
+- Eze_19:4fue tomado en la trampa de ellas, y loH8610
+- Eze_19:5tomó otro de sus cachorros, y lo pusoH3947
+- Eze_22:12interés y...tomaste, y a tus prójimosH3947
+- Eze_22:25devoraron...tomaron haciendas y honraH3947
+- Eze_23:10tomaron sus hijos y sus hijas, y a ellaH3947
+- Eze_23:25tomarán a tus hijos y a tus hijas, yH3947
+- Eze_23:29y tomarán todo el fruto de tu labor, yH3947
+- Eze_24:5toma una oveja escogida, y...enciendeH3947
+- Eze_25:12tomando venganza de la casa de Judá
+- Eze_27:5tomaron cedros del Líbano para...mástilH3947
+- Eze_27:15muchas costas tomaban mercadería de
+- Eze_27:29descenderán...todos los que toman remoH8610
+- Eze_29:7te tomaron con la mano, te quebrasteH8610
+- Eze_29:19y él tomará sus riquezas, y recogeráH5375
+- Eze_30:4vendrá espada a...y tomarán sus riquezasH3947
+- Eze_33:2el pueblo de la tierra tomare un hombreH3947
+- Eze_33:6éste fue tomado por causa de su pecadoH3947
+- Eze_35:10tomaré posesión de ellas; estando allíH3423
+- Eze_36:12y tomarán posesión de ti, y les serásH3423
+- Eze_36:24y yo os tomaré de las naciones, y osH3947
+- Eze_37:16toma ahora un palo, y escribe en élH3947
+- Eze_37:16toma...otro palo, y escribe en él: ParaH3947
+- Eze_37:19yo tomo el palo de José que está en laH3947
+- Eze_37:21yo tomo a los hijos de Israel de entreH3947
+- Eze_38:12arrebatar despojos y para tomar botínH962
+- Eze_38:13reunido tu multitud para tomar botínH7997
+- Eze_38:13tomar ganados y...t grandes despojosH3947
+- Eze_39:14tomarán hombres a jornal que vayan por
+- Eze_41:17por encima de la puerta...tomó medidas
+- Eze_43:20y tomarás de su sangre, y pondrás enH3947
+- Eze_43:21tomarás luego...becerro de la expiaciónH3947
+- Eze_44:22ni viuda ni repudiada tomará por mujerH3947
+- Eze_44:22tomará virgen del linaje de la casa deH3947
+- Eze_45:18tomarás de la vacada un becerro sinH3947
+- Eze_45:19el sacerdote tomará de la sangre de laH3947
+- Eze_46:18príncipe no tomará nada de la herenciaH3947
+- Dan_5:31Darío de Media tomó el reino, siendoH6902
+- Dan_11:15vendrá...rey...y tomará la ciudad fuerteH3920
+- Dan_11:18su rostro a las costas, y tomará muchasH3920
+- Dan_11:21vendrá...y tomará el reino con halagos
+- Ose_1:2tómate una mujer fornicaria, e hijosH3947
+- Ose_1:3y tomó a Gomer hija de Diblaim, la cualH3947
+- Ose_2:9tomaré mi trigo a su tiempo, y mi vinoH3947
+- Ose_3:3tú...no fornicarás, ni tomarás otro varón
+- Ose_5:14iré; tomaré, y no habrá quien liberteH5375
+- Ose_9:15les tomé aversión; por la perversidad de
+- Ose_10:9no los tomó la batalla en Gabaa contraH5381
+- Ose_11:3yo...enseñaba a...tomándole de los brazosH3947
+- Ose_12:3tomó por el calcañar a su hermano, y con
+- Amó_6:10un pariente tomará a cada uno, y loH5375
+- Amó_7:15Jehová me tomó de detrás del ganado, yH3947
+- Amó_9:2hasta el Seol, de allá los tomará mi manoH3947
+- Amó_9:3allí los buscaré y los tomaré; y aunqueH3947
+- Jon_1:12tomadme y echadme al mar, y el marH5375
+- Jon_1:15y tomaron a Jonás, y lo echaron al marH5375
+- Miq_2:2codician...casas, y las toman; oprimenH5375
+- Miq_4:9que te ha tomado dolor como de mujer deH2388
+- Nah_1:9no tomará venganza dos veces de sus
+- Hab_1:10y levantará terraplén y la tomaráH3920
+- Hab_2:10tomaste consejo vergonzoso para tu casa
+- Hag_2:23aquel día...te tomaré, oh ZorobabelH3947
+- Zac_6:10toma de los del cautiverio a HeldaiH3947
+- Zac_6:11tomarás...plata y oro, y harás coronasH3947
+- Zac_8:23tomarán del manto a un judío, diciendoH2388
+- Zac_9:15y harán estrépito como tomados de vino
+- Zac_11:7tomé para mí dos cayados: al uno puseH3947
+- Zac_11:10tomé...mi cayado Gracia, y lo quebréH3947
+- Zac_11:13y tomé las treinta piezas de plata, yH3947
+- Zac_11:15toma...los aperos de un pastor insensatoH3947
+- Zac_14:2ciudad será tomada, y serán saqueadasH3947
+- Zac_14:21que sacrificaren...tomarán de ellas, yH3947
+- Mat_2:13toma al niño y a su madre, y huye aG3880
+- Mat_2:14el...tomó de noche al niño y a su madreG3880
+- Mat_2:20levántate, toma al niño y a su madre, yG3880
+- Mat_2:21se levantó, y tomó al niño y a su madreG3880
+- Mat_5:42al que quiera tomar de ti prestado, no
+- Mat_8:17él mismo tomó nuestras enfermedades, yG2983
+- Mat_9:6levántate, toma tu cama, y vete a...casaG142
+- Mat_9:25y tomó de la mano a la niña, y ella seG2902
+- Mat_10:38el que no toma su cruz y sigue en posG2983
+- Mat_12:45toma...otros siete espíritus peores queG3880
+- Mat_13:31grano de mostaza, que un hombre tomóG2983
+- Mat_13:33es semejante a la levadura que tomó unaG2983
+- Mat_14:12y tomaron el cuerpo y lo enterraronG142
+- Mat_14:19tomando los cinco panes y los dos pecesG2983
+- Mat_15:26no está bien tomar el pan de los hijosG2983
+- Mat_15:36y tomando los siete panes...dio graciasG2983
+- Mat_16:22Pedro, tomándolo aparte, comenzó aG4355
+- Mat_16:24niéguese a sí mismo, y tome su cruz, yG142
+- Mat_17:1Jesús tomó a Pedro, a Jacobo y a JuanG3880
+- Mat_17:27tómalo, y al abrirle la boca, hallarásG142
+- Mat_17:27un estatero; tómalo, y dáselo por míG2983
+- Mat_18:16si no te oyere, toma aún contigo a unoG3880
+- Mat_20:14toma lo...tuyo, y vete; pero quiero darG142
+- Mat_20:17tomó a sus doce discípulos aparte en elG3880
+- Mat_21:35tomando a los siervos, a uno golpearonG2983
+- Mat_21:39tomándole, le echaron fuera de la viñaG2983
+- Mat_22:6tomando a los siervos, los afrentaronG2902
+- Mat_24:17no desciende para tomar algo de su casaG142
+- Mat_24:18no vuelva atrás para tomar su capaG142
+- Mat_24:40uno será tomado, y el otro será dejadoG3880
+- Mat_24:41la una será tomada, y la otra...dejadaG3880
+- Mat_25:1diez vírgenes que tomando sus lámparasG2983
+- Mat_25:3tomando...lámparas, no tomaron...aceiteG2983
+- Mat_25:4prudentes tomaron aceite en sus vasijasG2983
+- Mat_26:26tomó Jesús el pan, y bendijo...partióG2983
+- Mat_26:26dijo: Tomad, comed; esto es mi cuerpoG2983
+- Mat_26:27tomando...copa, y habiendo dado graciasG2983
+- Mat_26:37tomando a Pedro, y a los dos hijos deG3880
+- Mat_26:52todos los que tomen espada, a espadaG2983
+- Mat_27:6tomando las piezas de plata, dijeron: NoG2983
+- Mat_27:9Y tomaron las treinta piezas de plataG2983
+- Mat_27:24Pilato...tomó agua y se lavó las manosG2983
+- Mat_27:30tomaban la caña y le golpeaban en laG2983
+- Mat_27:48tomó una esponja...la empapó de vinagreG2983
+- Mat_27:59y tomando José el cuerpo, lo envolvióG2983
+- Mat_28:15tomando el dinero, hicieron como se lesG2983
+- Mar_1:31él...la tomó de la mano y la levantóG2902
+- Mar_2:9decirle: Levántate, toma tu lecho y anda?[[G142]]
+- Mar_2:11digo: Levántate, toma tu lecho, y veteG142
+- Mar_2:12tomando su lecho, salió...se asombraronG142
+- Mar_3:6y salidos los fariseos, tomaron consejoG4160
+- Mar_4:36le tomaron como estaba, en la barcaG3880
+- Mar_5:40tomó al padre y a la madre de la niñaG3880
+- Mar_5:41y tomando la mano de la niña, le dijoG2902
+- Mar_6:17Felipe...pues la había tomado por mujer
+- Mar_6:29tomaron su cuerpo, y lo pusieron en unG142
+- Mar_6:41tomó los cinco panes y los dos pecesG2983
+- Mar_7:4muchas cosas...que tomaron para guardar
+- Mar_7:27no está bien tomar el pan de los hijosG2983
+- Mar_7:33tomándole aparte de la gente, metió losG618
+- Mar_8:6tomando los siete panes, habiendo dadoG2983
+- Mar_8:23tomando la mano del ciego, le sacó fueraG1949
+- Mar_8:32Pedro le tomó...comenzó a reconvenirleG4355
+- Mar_8:34niéguese a sí...y tome su cruz, y sígameG142
+- Mar_9:2Jesús tomó a Pedro, a Jacobo y a JuanG3880
+- Mar_9:18cual, dondequiera que le toma, le sacudeG2638
+- Mar_9:27pero Jesús, tomándole de la mano, leG2902
+- Mar_9:36tomó a un niño, y lo puso en medio deG2983
+- Mar_9:36y tomándole en sus brazos, les dijoG1723
+- Mar_10:16y tomándolos en los brazos, poniendoG1723
+- Mar_10:21anda...y ven, sígueme, tomando tu cruzG142
+- Mar_10:32volviendo a tomar a los doce aparteG3880
+- Mar_12:3mas ellos, tomándole, le golpearon, yG2983
+- Mar_12:8y tomándole, le mataron, y le echaronG2983
+- Mar_12:20primero tomó esposa, y murió sin dejarG2983
+- Mar_13:15ni entre para tomar algo de su casaG142
+- Mar_13:16en el campo, no vuelva atrás a tomarG142
+- Mar_14:22Jesús tomó pan y bendijo, y lo partióG2983
+- Mar_14:22dio, diciendo: Tomad, esto es mi cuerpoG2983
+- Mar_14:23tomando...copa, y habiendo dado graciasG2983
+- Mar_14:33y tomó consigo a Pedro, a Jacobo y aG3880
+- Mar_15:23le dieron a beber vino...él no lo tomó
+- Mar_16:8fueron huyendo...les había tomado temblor
+- Mar_16:18tomarán en las manos serpientes, y siG142
+- Luc_2:28tomó en sus brazos, y bendijo a DiosG1209
+- Luc_5:24levántate, toma tu lecho, y vete a tuG142
+- Luc_5:25y tomando el lecho en que...acostado, seG142
+- Luc_6:4entró...tomó los panes de la proposiciónG2983
+- Luc_6:30al que tome lo que es tuyo, no pidas queG142
+- Luc_8:54tomándola de la mano, clamó diciendoG2902
+- Luc_9:3les dijo: No toméis nada para el caminoG142
+- Luc_9:10tomándolos, se retiró aparte, a un lugarG3880
+- Luc_9:16tomando los cinco panes...dos pescadosG2983
+- Luc_9:23mismo, tome su cruz cada día, y sígameG142
+- Luc_9:28tomó a Pedro, a Juan...y subió al monteG3880
+- Luc_9:39que un espíritu le toma, y de repenteG2983
+- Luc_9:47Jesús...tomó a un niño y lo puso junto aG1949
+- Luc_11:26toma otros siete espíritus peores queG3880
+- Luc_13:19un hombre tomó y sembró en su huertoG2983
+- Luc_13:21levadura que una mujer tomó y escondióG2983
+- Luc_14:4él, tomándole, le sanó, y le despidióG1949
+- Luc_16:6dijo: Toma tu cuenta, siéntate prontoG1209
+- Luc_16:7dijo: Toma tu cuenta, y escribe ochentaG1209
+- Luc_17:31y sus bienes...no descienda a tomarlosG142
+- Luc_17:34uno será tomado, y el otro será dejadoG3880
+- Luc_17:35la una será tomada, y la otra dejadaG3880
+- Luc_17:36dos...uno será tomado, y el otro dejadoG3880
+- Luc_18:31tomando Jesús a los doce, les dijo: HeG3830
+- Luc_19:21que tomas lo que no pusiste, y siegasG142
+- Luc_19:22que tomo lo que no puse, y que siegoG142
+- Luc_20:29primero tomó esposa, y murió sin hijosG2983
+- Luc_20:30y la tomó el segundo, el cual...murióG2983
+- Luc_20:31la tomó el tercero, y así todos...sieteG2983
+- Luc_22:17habiendo tomado la copa...dijo: TomadG1209
+- Luc_22:19tomó el pan y dio gracias, y lo partióG2983
+- Luc_22:20tomó la copa, diciendo: Esta copa es el
+- Luc_22:36el que tiene bolsa, tómela, y tambiénG142
+- Luc_23:26tomaron a cierto Simón de Cirene, que
+- Luc_24:30tomó el pan y lo bendijo, lo partió, yG2983
+- Luc_24:43y él lo tomó, y comió delante de ellosG2983
+- Jua_1:16de su plenitud tomamos todos, y gracia
+- Jua_5:8le dijo: Levántate, toma tu lecho, y andaG142
+- Jua_5:9y tomó su lecho, y anduvo. Y era día deG142
+- Jua_5:11él mismo me dijo: Toma tu lecho y andaG142
+- Jua_5:12es el que te dijo: Toma tu lecho y anda?[[G142]]
+- Jua_6:7para que cada uno de ellos tomase un pocoG2983
+- Jua_6:11tomó Jesús aquellos panes, y habiendoG2983
+- Jua_8:59tomaron...piedras para arrojárselas; peroG142
+- Jua_10:17pongo mi vida, para volverla a tomarG2983
+- Jua_10:18y tengo poder para volverla a tomarG2983
+- Jua_10:31judíos volvieron a tomar piedras paraG941
+- Jua_12:3María tomó una libra de perfume de nardoG2983
+- Jua_12:13tomaron ramas de palmera y salieron aG2983
+- Jua_13:4se quitó su manto, y tomando una toallaG2983
+- Jua_13:12tomó su manto, volvió a la mesa, y lesG2983
+- Jua_13:30cuando él, pues, hubo tomado el bocado
+- Jua_14:3os tomaré a mí mismo, para que donde yo
+- Jua_16:14tomará de lo mío, y os lo hará saber
+- Jua_16:15por eso dije que tomará de lo mío, y osG2983
+- Jua_18:3Judas, pues, tomando una compañía de
+- Jua_18:31Pilato: Tomadle vosotros, y juzgadleG2983
+- Jua_19:1así que...tomó Pilato a Jesús, y le azotóG2983
+- Jua_19:6dijo: Tomadle vosotros, y crucificadleG2983
+- Jua_19:16tomaron, pues, a Jesús, y le llevaronG3880
+- Jua_19:23los soldados...tomaron sus vestidos, eG2983
+- Jua_19:23tomaron también su túnica, la cual era
+- Jua_19:30cuando Jesús hubo tomado el vinagre
+- Jua_19:40tomaron, pues, el cuerpo de Jesús, y loG2983
+- Jua_21:13tomó el pan y les dio, y...del pescadoG2983
+- Hec_1:11este mismo Jesús, que ha sido tomadoG353
+- Hec_1:20no haya quien...y: Tome otro su oficioG2983
+- Hec_1:25que tome la parte de este ministerio yG2983
+- Hec_3:7tomándole por la mano derecha le levantóG4084
+- Hec_7:45al tomar posesión de la tierra de losG2697
+- Hec_7:60no les tomes en cuenta este pecado
+- Hec_9:19y habiendo tomado alimento, recobro
+- Hec_9:25tomándole de noche, le bajaron por elG2983
+- Hec_9:27tomándole, lo trajo a los apóstoles, yG1949
+- Hec_12:4habiéndole tomado preso, le puso en la
+- Hec_15:14tomar de ellos pueblo para su nombreG2983
+- Hec_15:39Bernabé, tomando a Marcos, navegó aG3880
+- Hec_16:3tomándole, le circuncidó por causa deG2983
+- Hec_16:33él, tomándolos en aquella misma horaG3880
+- Hec_17:5tomaron consigo a algunos ociosos...malosG4355
+- Hec_17:19y tomándole, le trajeron al AreópagoG1949
+- Hec_18:26le tomaron aparte y le expusieron másG4355
+- Hec_20:3tomó la decisión de volver...Macedonia
+- Hec_20:14tomándole a bordo, vinimos a MitileneG353
+- Hec_20:15y al otro día tomamos puerto en Samos
+- Hec_21:11tomó el cinto de Pablo, y atándose losG142
+- Hec_21:24tómalos...purifícate con ellos, y pagaG3880
+- Hec_21:26Pablo tomó consigo a aquellos hombresG3880
+- Hec_21:32tomando luego soldados...corrió a ellosG3880
+- Hec_23:18tomándole, le llevó al tribuno, y dijoG3880
+- Hec_23:19el tribuno, tomándole de la...le preguntóG1949
+- Hec_23:31tomando a Pablo como se les ordenó, leG353
+- Hec_27:35tomó el pan y dio gracias a Dios enG2983
+- Rom_7:8, Rom_7:11tomando ocasión por el mandamientoG2983
+- 1Co_9:7apacienta...y no toma de la leche del
+- 1Co_11:21uno se adelanta a tomar su propia cenaG4301
+- 1Co_11:23la noche que fue entregado, tomó panG2983
+- 1Co_11:24tomad, comed; esto es mi cuerpo queG2983
+- 1Co_11:25tomó también la copa, después de haber
+- 2Co_5:19no tomándoles en cuenta...sus pecados
+- 2Co_11:20toleráis si...si alguno toma lo vuestroG2983
+- Efe_3:15de quien toma nombre toda familia
+- Efe_6:13tomad toda la armadura de Dios, para queG353
+- Efe_6:16sobre todo, tomad el escudo de la feG353
+- Efe_6:17y tomad el yelmo de la salvación, y laG1209
+- Flp_2:7se despojó...tomando forma de siervoG2983
+- 1Ti_4:4todo...si se toma con acció de gracias
+- 1Ti_6:5toman la piedad como fuente de ganancia
+- 2Ti_2:4a fin de agradar a aquel que lo tomó
+- 2Ti_4:11toma a Marcos y tráelo contigo, porqueG353
+- 2Ti_4:16todos me...no les sea tomado en cuenta
+- Heb_5:1todo sumo sacerdote tomado de entre losG2983
+- Heb_5:4y nadie toma para sí esta honra, sino elG2983
+- Heb_7:5tomar del pueblo los diezmos según la ley
+- Heb_7:6tomó de Abraham los diezmos, y bendijo al
+- Heb_8:9el día que los tomé de la...para sacarlosG1949
+- Heb_9:19tomó la sangre de los becerros...rocióG2983
+- Stg_5:10tomad como ejemplo de aflicción y deG2983
+- Rev_3:11retén lo...que ninguno tome tu coronaG2983
+- Rev_5:7tomó el libro de la mano derecha del queG2983
+- Rev_5:8cuando hubo tomado el libro, los cuatroG2983
+- Rev_5:9digno eres de tomar el libro y de abrirG2983
+- Rev_5:12el Cordero...es digno de tomar el poder
+- Rev_8:5el ángel tomó el incensario, y lo llenóG2983
+- Rev_10:8y toma el librito que está abierto enG2983
+- Rev_10:9me dijo: Toma, y cómelo; y te amargaráG2983
+- Rev_10:10tomé el librito de la mano del ángelG2983
+- Rev_11:17has tomado tu gran poder, y has reinadoG2983
+- Rev_18:21y un ángel poderoso tomó una piedraG142
+- Rev_22:17tome del agua de la vida gratuitamenteG2902

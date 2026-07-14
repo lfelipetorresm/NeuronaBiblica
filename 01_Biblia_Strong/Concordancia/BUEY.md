@@ -1,0 +1,156 @@
+---
+tipo: concordancia
+palabra: BUEY
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BUEY
+
+- Éxo_20:17no codiciarás...ni su b, ni su asnoH7794
+- Éxo_21:28si un b acorneare...el b será apedreadoH7794
+- Éxo_21:28mas el dueño del b será absueltoH7794
+- Éxo_21:29si el b fuere acorneador desde tiempoH7794
+- Éxo_21:29el b será apedreado...morirá su dueñoH7794
+- Éxo_21:32si el b acorneare a un siervo o a unaH7794
+- Éxo_21:32pagará su dueño...el b será apedreadoH7794
+- Éxo_21:33no la cubriere, y cayere allí b o asnoH7794
+- Éxo_21:35si el b de alguno hiriere al b de suH7794
+- Éxo_21:35venderán el b...y partirán el b muertoH7794
+- Éxo_21:36si era notorio que el b era acorneadorH7794
+- Éxo_21:36pagará b por b, y el b muerto seráH7794
+- Éxo_22:1hurtare b...por aquel b pagará cinco bH1241, [[H7794]]
+- Éxo_22:4hurto en la mano...sea b o asno u ovejaH7794
+- Éxo_22:9en toda clase de fraude, sobre b...asnoH7794
+- Éxo_22:10dado a su prójimo asno, o b...a guardarH7794
+- Éxo_22:30lo mismo harás con el de tu b y de tuH7794
+- Éxo_23:4si encontrares el b de tu enemigo o suH7794
+- Éxo_23:12reposarás,...que descanse tu b y tu asnoH7794
+- Éxo_34:3ovejas ni b pazcan delante del monteH1241
+- Lev_4:10de la manera que se quita del b delH7794
+- Lev_7:23ninguna grosura de b ni...cabra comeréisH7794
+- Lev_9:4un b y un carnero para sacrificio de pazH7794
+- Lev_9:18degolló también el b y el carnero enH7794
+- Lev_9:19y las grosuras del b y del carnero, laH7794
+- Lev_17:3varón de la...que degollare b o corderoH7794
+- Lev_22:23b o carnero...tenga de más o de menosH7794
+- Lev_27:26nadie lo dedicará, sea b u oveja, deH7794
+- Núm_7:3trajeron...6 carros cubiertos y doce bH1241
+- Núm_7:3cada dos príncipes...y por cada uno un bH7896
+- Núm_7:6Moisés recibió los carros y los b, y losH1241
+- Núm_7:7y cuatro b dio a los hijos de GersónH1241
+- Núm_7:8a los hijos de Merari...carros y ocho bH1241
+- Núm_7:17, Núm_7:23, Núm_7:29, Núm_7:35, Núm_7:41, Núm_7:47, Núm_7:53, Núm_7:59, Núm_7:65, Núm_7:71, Núm_7:77, Núm_7:83y para ofrenda de paz, dos bH1241
+- Núm_7:87los b para holocausto, doce becerrosH1241
+- Núm_7:88los b de la ofrenda de paz, 24 novillosH1241
+- Núm_11:22¿se degollarán para...b que les basten?[[H1241]]
+- Núm_15:11así se hará con cada b, o carnero, oH7794
+- Núm_22:4lamerá esta gente...lame el b la gramaH7794
+- Núm_22:40Balac hizo matar b y ovejas, y envióH1241
+- Núm_31:28así de las personas como de los b, deH2543
+- Núm_31:30tomarás...de los b, de los asnos, de lasH2543
+- Núm_31:33setenta y dos mil bH1241
+- Núm_31:38los b, treinta y seis mil; y de ellosH1241
+- Núm_31:44de los b, treinta y seis milH1241
+- Deu_5:14ninguna obra harás tú...ni tu b, ni tuH7794
+- Deu_5:21ni desearás...su b, ni su asno, ni cosaH7794
+- Deu_14:4podréis comer: el b, la oveja, la cabraH7794
+- Deu_17:1no ofrecerás en sacrificio...b o corderoH7794
+- Deu_18:3de los que ofrecieren en sacrificio b oH7794
+- Deu_22:1vieres extraviado el b de tu hermanoH7794
+- Deu_22:4si vieres...o su b, caído en el caminoH7794
+- Deu_22:10no ararás con b y con asno juntamenteH7794
+- Deu_25:4no pondrás bozal al b cuando trillareH7794
+- Deu_28:31tu b será matado delante de tus ojosH7794
+- Jos_6:21destruyeron...los b, las ovejas, y losH7794
+- Jos_7:24tomaron a Acán...sus b, sus asnos, susH7794
+- Jue_3:31Samgar...con una aguijada de bH1241
+- Jue_6:4no dejaban...ni ovejas, ni b, ni asnosH7794
+- 1Sa_11:5Saúl que venía del campo, tras los bH1241
+- 1Sa_11:7tomando un par de b, los cortó enH1241
+- 1Sa_11:7así se hará con los b del que no saliereH1241
+- 1Sa_12:3si he tomado el b de alguno...el asnoH7794
+- 1Sa_22:19b, asnos y ovejas, todo lo hirió a filoH7794
+- 2Sa_6:6la sostuvo; porque los b tropezabanH1241
+- 2Sa_6:13sacrificó un b y un carnero engordadoH7794
+- 2Sa_24:22he aquí b para el holocausto, y losH1241
+- 2Sa_24:22trillos y los yugos de los b para leñaH1241
+- 2Sa_24:24entonces David compró la era y los bH1241
+- 1Re_1:19, 1Re_1:25ha matado b, y animales gordosH7794
+- 1Re_4:23diez b gordos, veinte b de pasto, yH1241
+- 1Re_7:25descansaba sobre doce b; tres mirabanH1241
+- 1Re_7:29había figuras de...b y de querubinesH1241
+- 1Re_7:29encima como debajo de los leones y...bH1241
+- 1Re_7:44un mar, con doce b debajo del marH1241
+- 1Re_8:5estaban con él...sacrificando ovejas y bH1241
+- 1Re_8:63ofreció...22.000 b y 120.000 ovejasH1241
+- 1Re_18:23dénsenos...dos b, y escojan ellos unoH6499
+- 1Re_18:23yo prepararé el otro b, y lo pondréH6499
+- 1Re_18:25escogeos un b, y preparadlo vosotrosH6499
+- 1Re_18:26ellos tomaron el b que les fue dadoH6499
+- 1Re_18:33cortó el b en pedazos, y lo puso sobreH6499
+- 1Re_19:20dejando él los b, vino...en pos de ElíasH1241
+- 1Re_19:21tomó un par de b y los mató, y con elH1241
+- 1Re_19:21con el arado de los b coció la carneH1241
+- 2Re_5:26tomar...ovejas, b, siervos y siervas?[[H1241]]
+- 2Re_16:17quitó también el mar de sobre los bH1241
+- 1Cr_12:40trajeron víveres en asnos...y bH1241
+- 1Cr_12:40trajeron...b y ovejas en abundanciaH1241
+- 1Cr_13:9sostenerla, porque los b tropezabanH1241
+- 1Cr_21:23y aun los b daré para el holocaustoH1241
+- 2Cr_4:4estaba asentado sobre doce b, tresH1241
+- 2Cr_4:15un mar, y doce b debajo de élH1241
+- 2Cr_5:6sacrificaron...b, que por ser tantos noH1241
+- 2Cr_7:5y ofreció el rey Salomón...22.000 b, yH1241
+- 2Cr_15:11sacrificaron...setecientos b y siete milH1241
+- 2Cr_18:2Acab mató muchas ovejas y b para élH1241
+- 2Cr_29:32holocaustos...setenta b, cien carnerosH1241
+- 2Cr_29:33las ofrendas fueron 600 b y tres milH1241
+- 2Cr_35:7dio el rey Josías...y tres mil b, todoH1241
+- 2Cr_35:8a los sacerdotes...2.600 ovejas y 300 bH1241
+- 2Cr_35:9para...la pascua 5.000 ovejas y 500 bH1241
+- 2Cr_35:12Moisés; y asimismo tomaron de los bH1241
+- Neh_5:18se preparaba para cada día era un bH7794
+- Job_1:3su hacienda era...quinientas yuntas de bH1241
+- Job_1:14dijo: Estaban arando los b, y las asnasH1241
+- Job_6:5¿acaso...¿Muge el b junto a su pasto?[[H7794]]
+- Job_24:3y toman en prenda el b de la viudaH7794
+- Job_40:15behemot el cual...hierba come como bH7794
+- Job_42:12tuvo...mil yuntas de b y mil asnasH1241
+- Sal_8:7ovejas y b, todo ello, y asimismo lasH1241
+- Sal_66:15te ofreceré en sacrificio b y machosH1241
+- Sal_69:31agradará a...más que sacrificio de bH7794
+- Sal_106:20cambiaron...por la imagen de un b queH7794
+- Sal_144:14nuestros b...fuertes para el trabajoH441
+- Pro_7:22marchó...como va el b al degolladeroH7794
+- Pro_14:4sin b el granero está vacío; mas porH504
+- Pro_14:4la fuerza del b hay abundancia de panH7794
+- Pro_15:17que de b engordado donde hay odioH7794
+- Isa_1:3el b conoce a su dueño, y el asno elH7794
+- Isa_1:11no quiero sangre de b, ni de ovejas, niH6499
+- Isa_7:25que serán para pasto de b y para serH7794
+- Isa_11:7la osa...y el león como el b comerá pajaH1241
+- Isa_30:24tus b y tus asnos que labran la tierraH504
+- Isa_32:20aguas, y dejáis libres al b y al asnoH7794
+- Isa_65:25el lobo...el león comerá paja como el bH1241
+- Isa_66:3el que sacrifica b es como si matase aH7794
+- Jer_52:20y los doce b de bronce que estabanH1241
+- Eze_1:10cara de b a la izquierda en los cuatroH7794
+- Eze_4:15te permito usar estiércol de b en lugarH1241
+- Eze_39:18de b y de toros, engordados todos enH6499
+- Dan_4:25te apacentarán como a los b, y con elH8450
+- Dan_4:32como a los b te apacentarán; y sieteH8450
+- Dan_4:33y comía hierba como los b, y su cuerpoH8450
+- Dan_5:21hierba le hicieron comer como a b, yH8450
+- Ose_12:11Gilgal sacrificaron b, y sus altaresH7794
+- Joe_1:18¡cuán turbados...los hatos de los bH1241
+- Amó_6:12¿correrán...¿ararán en ellas con b?[[H1241]]
+- Jon_3:7b y ovejas, no gusten cosa alguna; noH1241
+- Luc_13:15¿no desata...su b...y lo lleva a beber?[[G1016]]
+- Luc_14:5o su b cae en algún pozo, no lo sacaráG1016
+- Luc_14:19he comprado cinco yuntas de b, y voy aG1016
+- Jua_2:14halló en el templo a los que vendían bG1016
+- Jua_2:15echó fuera del templo a...ovejas y los bG1016
+- 1Co_9:9está escrito: No pondrás bozal al bG1016
+- 1Co_9:9que trilla. ¿Tiene Dios cuidado de los bG1016
+- 1Ti_5:18no pondrás bozal al b que trilla; yG1016

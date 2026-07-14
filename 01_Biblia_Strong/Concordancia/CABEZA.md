@@ -1,0 +1,399 @@
+---
+tipo: concordancia
+palabra: CABEZA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CABEZA
+
+- Gén_3:15herirá en la c, y tú...en el calcañarH7218
+- Gén_40:13cabo de tres días levantará Faraón tu cH7218
+- Gén_40:16que veía tres canastillos...sobre mi cH7218
+- Gén_40:17comían del canastillo de sobre mi cH7218
+- Gén_40:19quitará Faraón tu c de sobre ti, y teH7218
+- Gén_40:20y alzó la c del jefe de los coperosH7218
+- Gén_40:20la c del jefe de los panaderos, entreH7218
+- Gén_48:14sobre la c de Efraín...la c de ManasésH7218
+- Gén_48:17la mano derecha sobre la c de EfraínH7218
+- Gén_48:17de la c de Efraín a la c de ManasésH7218
+- Gén_48:18dijo...pon tu mano derecha sobre su cH7218
+- Gén_49:26sobre la c de José, y sobre la frenteH7218
+- Éxo_12:9su c con sus pies y sus entrañasH7218
+- Éxo_16:16un gomer por c, conforme al número deH7218
+- Éxo_29:6pondrás la mitra sobre su c, y sobreH7218
+- Éxo_29:7lo derramarás sobre su c, y le ungirásH7218
+- Éxo_29:10pondrán sus manos...la c del becerroH7218
+- Éxo_29:15Aarón y...pondrán sus manos sobre la cH7218
+- Éxo_29:17pondrás sobre sus trozos y sobre su cH7218
+- Éxo_29:19pondrán sus manos sobre la c...carneroH7218
+- Éxo_34:8Moisés...la c hacia el suelo y adoróH6915
+- Éxo_38:17cubiertas de las c de ellas, de plataH7218
+- Éxo_38:26medio siclo por c, según el siclo delH1538
+- Lev_1:4su mano sobre la c del holocausto, yH7218
+- Lev_1:8acomodarán las piezas, la c y la grosuraH7218
+- Lev_1:12su c y la grosura de los intestinosH7218
+- Lev_1:15le quitará la c, y hará que arda en elH7218
+- Lev_3:2, Lev_3:8, Lev_3:13pondrá su mano sobre la c de suH7218
+- Lev_4:4pondrá su mano sobre la c del becerroH7218
+- Lev_4:11con su c, sus piernas, sus intestinosH7218
+- Lev_4:15pondrán...manos sobre la c del becerroH7218
+- Lev_4:24pondrá su mano sobre la c del...cabríoH7218
+- Lev_4:29, Lev_4:33su mano sobre la c de la ofrendaH7218
+- Lev_5:8arrancará de su cuello la c, mas no laH7218
+- Lev_8:9la mitra sobre su c, y sobre la mitraH7218
+- Lev_8:12derramó del aceite...sobre la c de AarónH7218
+- Lev_8:14, Lev_8:18pusieron sus manos sobre la c delH7218
+- Lev_8:20Moisés hizo arder la c, y los trozosH7218
+- Lev_8:22pusieron...manos sobre la c del carneroH7218
+- Lev_9:13le presentaron el holocausto...y la cH7218
+- Lev_10:6no descubráis vuestras c, ni rasguéisH7218
+- Lev_13:12cubriere...desde la c hasta sus piesH7218
+- Lev_13:29saliere llaga en la c, o en la barbaH7218
+- Lev_13:30es tiña, es lepra de la c o de la barbaH7218
+- Lev_13:44es inmundo, y...en su c tiene la llagaH7218
+- Lev_13:45llevará...su c descubierta, y embozadoH7218
+- Lev_14:9raerá todo el pelo de su c, su barba yH7218
+- Lev_14:18, Lev_14:29sobre la c del que se purificaH7218
+- Lev_16:21sus dos manos sobre la c del...cabríoH7218
+- Lev_16:21poniéndolos así sobre la c del machoH7218
+- Lev_19:27no haréis tonsura en vuestra c, niH7218
+- Lev_21:5no harán tonsura en su c, ni raerán laH7218
+- Lev_21:10sobre cuya c fue derramado el aceiteH7218
+- Lev_21:10el sumo sacerdote...no descubrirá su cH7218
+- Lev_24:14pongan sus manos sobre la c de él, yH7218
+- Núm_1:2nombres, todos los varones por sus cH1538
+- Núm_1:18, Núm_1:20, Núm_1:22a la cuenta de los nombres por cH1538
+- Núm_3:47tomarás cinco siclos por c; conforme alH1538
+- Núm_5:18descubrirá la c de la mujer, y pondráH7218
+- Núm_6:5no pasará navaja sobre su c; hasta queH7218
+- Núm_6:7la consagración de su...tiene sobre su cH7218
+- Núm_6:9su c consagrada será contaminada; porH7218
+- Núm_6:9el día de su purificación raerá su c; alH7218
+- Núm_6:11sacerdote ofrecerá...y santificará su cH7218
+- Núm_6:18el nazareo raerá a la...su c consagradaH7218
+- Núm_6:18tomará los cabellos de su c consagradaH7218
+- Núm_6:19después que fuere raída su c consagrada
+- Núm_8:12sus manos sobre las c de los novillosH7218
+- Núm_24:20Amalec, c de naciones; mas...pereceráH7225
+- Deu_20:9tomarán el mando a la c del puebloH7218
+- Deu_21:12ella rapará su c, y cortará sus uñasH7218
+- Deu_28:13te pondrá Jehová por c, y no por colaH7218
+- Deu_28:23los cielos...sobre tu c serán de bronceH7218
+- Deu_28:44él será por c, y tú serás por colaH7218
+- Deu_29:10los c de vuestras tribus...ancianosH7218
+- Deu_32:42las c de larga cabellera del enemigoH7218
+- Deu_33:16la gracia...venga sobre la c de JoséH7218
+- Jos_2:19saliere...su sangre será sobre su cH7218
+- Jos_2:19sangre será sobre nuestra c, si manoH7218
+- Jos_7:6se postró...y echaron polvo sobre sus cH7218
+- Jos_11:10Hazor había sido antes c de...reinosH7218
+- Jos_14:1repartieron...los c de los padres de lasH7218
+- Jos_19:51heredades que...y los c de los padresH7218
+- Jos_21:1vinieron...a los c de los padres de lasH7218
+- Jos_22:21y dijeron a los c de los millares deH7218
+- Jue_5:26hirió su c, y le horadó, y atravesóH7218
+- Jue_7:25trajeron las c de Oreb y de...a GedeónH7218
+- Jue_8:28Madián...nunca más volvió a levantar cH7218
+- Jue_9:53dejó caer un...sobre la c de AbimelecH7218
+- Jue_9:57el mal...hizo Dios volver sobre sus cH7218
+- Jue_13:5y navaja no pasará sobre su c, porqueH7218
+- Jue_16:13si tejieres siete guedejas de mi c conH7218
+- Jue_16:17nunca a mi c llegó navaja; porque soyH7218
+- Jue_16:19le rapó las siete guedejas de su cH7218
+- Jue_16:22y el cabello de su c comenzó a crecerH7218
+- 1Sa_1:11un hijo...no pasará navaja sobre su cH7218
+- 1Sa_4:12rotos sus vestidos y tierra sobre su cH7218
+- 1Sa_5:4la c de Dagón y las dos palmas de susH7218
+- 1Sa_10:1la derramó sobre su c, y lo besó, y leH7218
+- 1Sa_14:45que no ha de caer un cabello de su cH7218
+- 1Sa_17:5y traía un casco de bronce en su c, yH7218
+- 1Sa_17:38y puso sobre su c un casco de bronceH7218
+- 1Sa_17:46te cortaré la c, y daré...los cuerposH7218
+- 1Sa_17:51lo acabó de matar, y le cortó...la cH7218
+- 1Sa_17:54y David tomó la c del filisteo, y laH7218
+- 1Sa_17:57teniendo David la c del filisteo en suH7218
+- 1Sa_25:39la maldad de Nabal sobre su propia cH7218
+- 1Sa_29:4volvería...con las c de estos hombres?[[H7218]]
+- 1Sa_31:9le cortaron la c, y le despojaron deH7218
+- 2Sa_1:2rotos...vestidos, y tierra sobre su cH7218
+- 2Sa_1:10tomé la corona que tenía en su c, y laH7218
+- 2Sa_1:16dijo: Tu sangre sea sobre tu c, pues tuH7218
+- 2Sa_2:16echó mano de la c de su adversario, yH7218
+- 2Sa_3:8¿soy yo c de perro que pertenezca aH7218
+- 2Sa_3:29caiga sobre la c de Joab, y sobre todaH7218
+- 2Sa_4:7le cortaron la c, y habiéndola tomadoH7218
+- 2Sa_4:8y trajeron la c de Is-boset a David enH7218
+- 2Sa_4:8dijeron...He aquí la c de Is-boset hijoH7218
+- 2Sa_4:12tomaron la c de Is-boset...enterraronH7218
+- 2Sa_12:30y quitó la corona de la c de su reyH7218
+- 2Sa_12:30la corona...puesta sobre la c de DavidH7218
+- 2Sa_13:19tomó ceniza y la esparció sobre su cH7218
+- 2Sa_13:19y puesta su mano sobre su c, se fueH7218
+- 2Sa_14:11no caerá ni un cabello de la c de tu
+- 2Sa_14:26pesaba el cabello de su c 200 siclosH7218
+- 2Sa_15:30la c cubierta...cubrió cada uno su cH7218
+- 2Sa_15:32Husai...rasgados...y tierra sobre su cH7218
+- 2Sa_16:9que me dejes pasar, y le quitaré la cH7218
+- 2Sa_18:9le enredó la c en la encina, y AbsalónH7218
+- 2Sa_20:21su c te será arrojada desde el muroH7218
+- 2Sa_20:22cortaron la c a Seba hijo de BicriH7218
+- 2Sa_22:44me guardaste...que fuese c de nacionesH7218
+- 1Re_2:32Jehová hará volver su sangre...su cH7218
+- 1Re_2:33sobre la c de Joab, y sobre la c de suH7218
+- 1Re_2:37morirás, y tu sangre será sobre tu cH7218
+- 1Re_2:44Jehová...hecho volver el mal sobre tu cH7218
+- 1Re_7:16puestos sobre las c de las columnasH7218
+- 1Re_7:17de poner sobre las c de las columnasH7218
+- 1Re_7:18los capiteles que estaban en las c deH7218
+- 1Re_7:22puso en las c de las columnas talladoH7218
+- 1Re_7:41-42dos capiteles...la c de las columnasH7218
+- 1Re_8:32haciendo recaer su proceder sobre su cH7218
+- 2Re_4:19y dijo a su padre: ¡Ay, mi c, mi c![[H7218]]
+- 2Re_6:25la c de un asno se vendía por ochentaH7218
+- 2Re_6:31si la c de Eliseo...queda sobre él hoyH7218
+- 2Re_6:32este hijo de...envía a cortarme la c?[[H7218]]
+- 2Re_9:3aceite, y derrámala sobre su c, y díH7218
+- 2Re_9:6y el otro derramó el aceite sobre su cH7218
+- 2Re_9:30atavió su c, y se asomó a una ventanaH7218
+- 2Re_10:6las c de los hijos varones de vuestroH7218
+- 2Re_10:7pusieron sus c en canastas, y se lasH7218
+- 2Re_10:8han traído las c de los hijos del reyH7218
+- 2Re_19:21detrás de ti mueve su c la hija deH7218
+- 1Cr_7:40fueron hijos de Aser, c de familiasH7218
+- 1Cr_10:9despojaron, tomaron su c y sus armasH7218
+- 1Cr_10:10y colgaron la c en el templo de DagónH1538
+- 1Cr_11:6derrote a los jebuseos será c y jefeH7218
+- 1Cr_12:19con peligro de nuestras c se pasará aH7218
+- 1Cr_20:2tomó...la corona de encima de la c delH7218
+- 1Cr_20:2corona...fue puesta sobre la c de DavidH7218
+- 1Cr_23:3levitas...el número...por sus c...38.000H1538
+- 1Cr_23:24contados...sus c, de 20 años arribaH1538
+- 1Cr_24:4de los hijos de Eleazar, 16 c de casasH7218
+- 2Cr_4:12capiteles sobre las c de...columnasH7218
+- 2Cr_5:9se viesen las c de las barras del arcaH7218
+- 2Cr_6:23haciendo recaer su proceder sobre su cH7218
+- 2Cr_20:27todo Judá...Josafat a la c...volvieronH7218
+- Esd_5:10nombres de los...que estaban a la cH7217
+- Esd_9:3y arranqué pelo de mi c y de mi barbaH7218
+- Esd_9:6se han multiplicado sobre nuestra cH7218
+- Neh_4:4vuelve el baldón de ellos sobre su cH7218
+- Neh_7:70y algunos de los c de familias dieronH7218
+- Neh_7:71los c de familias dieron para el tesoroH7218
+- Neh_8:13se reunieron los c de las familias deH7218
+- Neh_10:14los c del pueblo: Paros, Pahat-moabH7218
+- Est_2:17y puso la corona real en su c, y laH7218
+- Est_6:8la corona real que está puesta en su cH7218
+- Est_6:12se dio prisa para irse...cubierta su cH7218
+- Est_9:25perverso designio...recayera sobre su cH7218
+- Job_1:20rasuró su c, y se postró en tierraH7218
+- Job_2:7una sarna maligna...la coronilla de la cH6936
+- Job_2:12los tres esparcieron polvo sobre sus cH7218
+- Job_10:15y si fuere justo, no levantaré mi cH7218
+- Job_10:16si mi c se alzare, cual león tú me
+- Job_15:10c canas...ancianos hay entre nosotrosH7867
+- Job_16:4yo podría...sobre vosotros mover mi cH7218
+- Job_16:15cosí cilicio...y puse mi c en el polvoH7161
+- Job_19:9mi gloria, y quitado la corona de mi cH7218
+- Job_20:6su altivez...y su c tocare en las nubesH7218
+- Job_24:24serán...y cortados como c de espigasH7218
+- Job_29:3cuando hacía resplandecer sobre mi c suH7218
+- Job_41:7¿cortarás...arpón de pescadores su c?[[H7218]]
+- Sal_3:3eres escudo...y el que levanta mi cH7218
+- Sal_7:16su iniquidad volverá sobre su c, y suH7218
+- Sal_18:43me has hecho c de las naciones; puebloH7218
+- Sal_21:3corona de oro...has puesto sobre su cH7218
+- Sal_22:7estiran la boca, menean la c, diciendoH7218
+- Sal_23:5unges mi c con aceite; mi copa estáH7218
+- Sal_24:7, Sal_24:9alzad, oh puertas, vuestras c, yH7218
+- Sal_27:6levantará mi c sobre mis enemigos queH7218
+- Sal_38:4iniquidades se han agravado sobre mi cH7218
+- Sal_40:12aumentado más que...cabellos de mi cH7218
+- Sal_44:14naciones; todos al vernos menean la cH7218
+- Sal_60:7Efraín es la fortaleza de mi c; JudáH7218
+- Sal_66:12hiciste cabalgar hombres...nuestra cH7218
+- Sal_68:21Dios herirá la c de sus enemigos, laH7218
+- Sal_69:4aumentado más que los cabellos de mi cH7218
+- Sal_74:13quebrantaste c de monstruos en lasH7218
+- Sal_74:14magullaste las c del leviatán, y loH7218
+- Sal_83:2rugen...y los que te aborrecen alzan cH7218
+- Sal_108:8Efraín es la fortaleza de mi c; JudáH7218
+- Sal_109:25miraban, y burlándose meneaban su cH7218
+- Sal_110:6quebrantará las c en muchas tierrasH7218
+- Sal_110:7beberá en...por lo cual levantará la cH7218
+- Sal_118:22piedra...ha venido a ser c del ánguloH7218
+- Sal_133:2es como el buen óleo sobre la c, elH7218
+- Sal_140:7pusiste a cubierto mi c en el día deH7218
+- Sal_140:9la maldad de sus...labios cubrirá su cH7218
+- Sal_141:5excelente bálsamo...no me herirá la cH7218
+- Pro_1:9porque adorno de gracia serán a tu cH7218
+- Pro_4:9adorno de gracia dará a tu c, corona deH7218
+- Pro_10:6hay bendiciones sobre la c del justoH7218
+- Pro_11:26bendición será sobre la c del que loH7218
+- Pro_25:22porque ascuas amontonarás sobre su cH7218
+- Ecl_2:14el sabio tiene sus ojos en su c, masH7218
+- Ecl_9:8vestidos, y nunca falte ungüento...tu cH7218
+- Cnt_2:6su izquierda esté debajo de mi c, yH7218
+- Cnt_5:2ábreme...porque mi c está llena de rocíoH7218
+- Cnt_5:11su c como oro finísimo; sus cabellosH7218
+- Cnt_7:5tu c encima de ti, como el Carmelo; yH7218
+- Cnt_7:5el cabello de tu c, como la púrpura delH7218
+- Cnt_8:3su izquierda esté debajo de mi c, y suH7218
+- Isa_1:5toda c está enferma, y todo corazónH7218
+- Isa_1:6desde la planta del pie hasta la c noH7218
+- Isa_2:2será confirmado...como c de los montesH7218
+- Isa_3:17Señor raerá la c de las hijas de SionH7218
+- Isa_3:24c rapada en lugar de la compostura delH7144
+- Isa_7:8la c de Siria es Damasco, y la c deH7218
+- Isa_7:9la c de Efraín es Samaria, y la c deH7218
+- Isa_7:20c y pelo de los pies, y aun la barbaH7218
+- Isa_9:14y Jehová cortará de Israel c y colaH7218
+- Isa_9:15anciano y venerable de rostro es la cH7218
+- Isa_15:2toda c de ella será rapada, y...barbaH7218
+- Isa_19:15cosa que haga la c o la cola, la ramaH7218
+- Isa_28:1, Isa_28:4que está sobre la c del valle fértilH7218
+- Isa_29:10velo sobre las c de vuestros videntesH7218
+- Isa_35:10gozo perpetuo...sobre sus c...alegríaH7218
+- Isa_37:22de ti mueve su c la hija de JerusalénH7218
+- Isa_51:11Sion...gozo perpetuo habrá sobre sus cH7218
+- Isa_58:5incline su c como junco y haga camaH7218
+- Isa_59:17con yelmo de salvación en su c; tomóH7218
+- Jer_2:37de allí saldrás con tus...sobre tu cH7218
+- Jer_9:1si mi c se hiciese aguas, y mis ojosH7218
+- Jer_13:18la corona de...ha caído de vuestras c
+- Jer_13:21él ponga como c sobre ti a aquellosH7218
+- Jer_14:3se confundieron, y cubrieron sus cH7218
+- Jer_14:4están confusos los...cubrieron sus cH7218
+- Jer_18:16pasare...se asombrará, y meneará la cH7218
+- Jer_23:19la tempestad...caerá sobre la c de losH7218
+- Jer_30:23tempestad...sobre la c de los impíosH7218
+- Jer_31:7dad voces de júbilo a la c de nacionesH7218
+- Jer_48:37toda c será rapada, y toda barba raídaH7218
+- Jer_52:31alzó la c de Joaquín rey de Judá y loH7218
+- Lam_2:10polvo sobre sus c...bajaron sus c aH7218
+- Lam_2:15movieron despectivamente sus c sobre laH7218
+- Lam_3:54aguas cubrieron mi c; yo dije: MuertoH7218
+- Lam_5:16cayó la corona de nuestra c; ¡ay ahoraH7218
+- Eze_1:22y sobre las c de los seres vivientesH7218
+- Eze_1:22cristal...extendido encima sobre sus cH7218
+- Eze_1:25-26la expansión que había sobre sus cH7218
+- Eze_5:1toma una navaja...hazla pasar sobre tu cH7218
+- Eze_7:18habrá vergüenza...sus c estarán rapadasH7218
+- Eze_8:3figura...me tomó por las guedejas de mi cH7218
+- Eze_9:10haré recaer el camino de...sobre sus...cH7218
+- Eze_10:1en la expansión que había sobre la c deH7218
+- Eze_11:21traigo su camino sobre sus propias cH7218
+- Eze_13:18hacen velos mágicos para la c de todaH7218
+- Eze_16:12joyas...y una hermosa diadema en tu cH7218
+- Eze_16:25en toda c de camino edificaste lugarH7218
+- Eze_16:31edificando...altos en toda c de caminoH7218
+- Eze_16:43también traeré tu camino sobre tu cH7218
+- Eze_17:19el juramento...traeré sobre su misma cH7218
+- Eze_22:31volver el camino...sobre su propia cH7218
+- Eze_23:15tiaras de colores en sus c, teniendoH7218
+- Eze_23:42pusieron...bellas coronas sobre sus cH7218
+- Eze_24:23vuestros turbantes estarán sobre...cH7218
+- Eze_27:30polvo sobre sus c, y se revolcarán enH7218
+- Eze_29:18toda c ha quedado calva, y...espaldaH7218
+- Eze_32:27y sus espadas puestas debajo de sus cH7218
+- Eze_33:4lo hiriere, su sangre será sobre su cH7218
+- Eze_44:18turbantes de lino tendrán sobre sus cH7218
+- Eze_44:20no se raparán su c, ni dejarán crecerH7218
+- Dan_1:10condenaréis para con el rey mi cH7218
+- Dan_2:32la c de esta imagen era de oro finoH7218
+- Dan_2:38en tu mano...tú eres aquella c de oroH7218
+- Dan_3:27ni...cabello de sus c se había quemadoH7218
+- Dan_4:5un sueño...visiones de mi c me turbaronH7218
+- Dan_4:10, Dan_4:13las visiones de mi c mientras estabaH7218
+- Dan_7:1tuvo...visiones de su c mientras estabaH7218
+- Dan_7:6tenía también esta bestia cuatro cH7218
+- Dan_7:9y el pelo de su c como lana limpia; suH7218
+- Dan_7:15y las visiones de mi c me asombraronH7218
+- Dan_7:20de los diez cuernos que tenía en su cH7218
+- Joe_3:4haré yo recaer la paga...vuestra cH7218
+- Joe_3:7y volveré vuestra paga sobre vuestra cH7218
+- Amó_2:7pisotean en...las c de los desvalidosH7218
+- Amó_6:7irán a la c de los que van a cautividadH7218
+- Amó_8:10haré...que se rape toda c; y la volveréH7218
+- Amó_9:1y hazlos pedazos sobre la c de todosH7218
+- Abd_1:15como...recompensa volverá sobre tu cH7218
+- Jon_2:5me rodearon...el alga se enredó a mi cH7218
+- Jon_4:6para que hiciese sombra sobre su c, yH7218
+- Jon_4:8y el sol hirió a Jonás en la c, y seH7218
+- Miq_2:13rey pasará...y a la c de ellos JehováH7218
+- Hab_3:13traspasaste la c...casa del impíoH7218
+- Hab_3:14horadaste...las c de sus guerreros, queH7218
+- Zac_1:21a Judá, tanto que ninguno alzó su cH7218
+- Zac_3:5dijo: Pongan mitra limpia sobre su cH7218
+- Zac_3:5y pusieron una mitra limpia sobre su cH7218
+- Zac_6:11pondrás en la c del...sacerdote JosuéH7218
+- Mat_5:36ni por tu c jurarás...un solo cabelloG2776
+- Mat_6:17tú, cuando ayunes, unge tu c y lava tuG2776
+- Mat_8:20el Hijo...no tiene donde recostar su cG2776
+- Mat_14:8dame aquí en...la c de Juan el BautistaG2776
+- Mat_14:11y fue traída su c en un plato, y dadaG2776
+- Mat_21:42piedra...ha venido a ser c del ánguloG2776
+- Mat_26:7y lo derramó sobre la c de él, estandoG2776
+- Mat_27:29pusieron sobre su c una corona tejidaG2776
+- Mat_27:30tomaban la caña y le golpeaban en la cG2776
+- Mat_27:37pusieron sobre su c su causa escritaG2776
+- Mat_27:39pasaban le injuriaban, meneando la cG2776
+- Mar_6:24¿qué pediré?...c de Juan el BautistaG2776
+- Mar_6:25me des en un...la c de Juan el BautistaG2776
+- Mar_6:27mandó que fuese traída la c de JuanG2776
+- Mar_6:28trajo su c en un plato y la dio a laG2776
+- Mar_12:4apedreándole, le hirieron en la c, yG2775
+- Mar_12:10piedra...ha venido a ser c del ánguloG2776
+- Mar_14:3quebrando el vaso...derramó sobre su cG2776
+- Mar_15:19le golpeaban en la c con una caña, yG2776
+- Mar_15:29injuriaban, meneando la c y diciendoG2776
+- Luc_7:46no ungiste mi c con aceite; mas éstaG2776
+- Luc_9:58el Hijo...no tiene donde recostar la cG2776
+- Luc_12:7cabellos de vuestra c están contadosG2776
+- Luc_20:17piedra...ha venido a ser c del ángulo?[[G2776]]
+- Luc_21:18ni un cabello de vuestra c pereceráG2776
+- Luc_21:28levantad vuestra c, porque vuestraG2776
+- Jua_13:9Señor, no sólo mis pies, sino...la cG2776
+- Jua_19:2una corona de...la pusieron sobre su cG2776
+- Jua_19:30y habiendo inclinado la c, entregó elG2776
+- Jua_20:7sudario, que había estado sobre la cG2776
+- Hec_1:18y cayendo de c, se reventó por laG4248
+- Hec_4:11la cual ha venido a ser c del ánguloG2776
+- Hec_18:6vuestra sangre sea sobre vuestra...cG2776
+- Hec_18:18habiéndose rapado la c en CencreaG2776
+- Hec_21:24sus gastos para que se rasuren la cG2776
+- Hec_27:34ni aun un cabello de la c...pereceráG2776
+- Rom_12:20ascuas de...amontonarás sobre su cG2776
+- 1Co_11:3Cristo es la c de todo varón, y elG2776
+- 1Co_11:3varón es la c de la mujer, y Dios la cG2776
+- 1Co_11:4ora o...con la c cubierta, afrenta su cG2776
+- 1Co_11:5que ore...la c descubierta, afrenta su cG2776
+- 1Co_11:7el varón no debe cubrirse la c, pues élG2776
+- 1Co_11:10tener señal de autoridad sobre su cG2776
+- 1Co_11:13que la mujer ore...sin cubrirse la c?[[G177]]
+- 1Co_12:21ni tampoco la c a los pies: No tengoG2776
+- Efe_1:22lo dio por c sobre todas las cosas aG2776
+- Efe_4:15crezcamos en todo en aquel que es la cG2776
+- Efe_5:23porque el marido es c de la mujer, asíG2776
+- Efe_5:23así como Cristo es c de la iglesia, laG2776
+- Col_1:18es la c del cuerpo que es la iglesiaG2776
+- Col_2:10es la c de todo principado y potestadG2776
+- Col_2:19y no asiéndose de la C, en virtud deG2776
+- 1Pe_2:7piedra...venido a ser la c del ánguloG2776
+- Rev_1:14su c y sus cabellos eran blancos comoG2776
+- Rev_4:4ancianos...con coronas de oro en sus cG2776
+- Rev_9:7en las c tenían como coronas de oro; susG2776
+- Rev_9:17las c de los caballos...como c de leonesG2776
+- Rev_9:19colas...tenían c, y con ellas dañabanG2776
+- Rev_10:1otro ángel...con el arco iris sobre su cG2776
+- Rev_12:1sobre su c una corona de doce estrellasG2776
+- Rev_12:3tenía siete c...en sus c siete diademasG2776
+- Rev_13:1bestia que tenía siete c y diez cuernosG2776
+- Rev_13:1tenía...sobre sus c, un nombre blasfemoG2776
+- Rev_13:3vi una de sus c como herida de muerteG2776
+- Rev_14:14tenía en la c una corona de oro, y enG2776
+- Rev_17:3bestia...que tenía siete c y diez cuernosG2776
+- Rev_17:7la cual tiene las siete c y los diezG2776
+- Rev_17:9las siete c son siete montes, sobre losG2776
+- Rev_18:19y echaron polvo sobre sus c, y dieronG2776
+- Rev_19:12y había en su c muchas diademasG2776

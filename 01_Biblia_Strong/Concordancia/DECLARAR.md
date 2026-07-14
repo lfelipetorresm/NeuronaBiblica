@@ -1,0 +1,137 @@
+---
+tipo: concordancia
+palabra: DECLARAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DECLARAR
+
+- Gén_12:18¿por qué no me declaraste que era tuH5046
+- Gén_24:49con mi señor, declarádmelo; y si no, dH5046
+- Gén_32:29Jacob le...Declárame ahora tu nombreH5046
+- Gén_41:12y declaró a cada uno conforme a...sueñoH6622
+- Gén_43:6declarando al varón que teníais otroH5046
+- Gén_43:7le declaramos conforme a estas palabrasH5046
+- Gén_49:1os declararé lo que os ha de acontecerH5046
+- Éxo_18:16declaro las ordenanzas de Dios y susH3045
+- Éxo_25:22de allí me declararé a ti, y hablaréH3259
+- Éxo_33:12no me has declarado a quien enviarásH559
+- Lev_13:3, Lev_13:8, Lev_13:11, Lev_13:15, Lev_13:20, Lev_13:22, Lev_13:25, Lev_13:27, Lev_13:30, Lev_13:44el sacerdote lo declarará inmundoH2930
+- Lev_13:6, Lev_13:23, Lev_13:28, Lev_13:34, Lev_13:37el sacerdote lo declarad limpioH2891
+- Lev_13:13declarad limpio al llagado, toda ellaH2891
+- Lev_13:59para que sea declarada limpia o inmundaH2891, [[H2930]]
+- Lev_14:7rociará siete veces...le declarará limpioH2891
+- Lev_14:48el sacerdote declarará limpia la casaH2891
+- Lev_24:12fuese declarado por palabra de JehováH6567
+- Núm_15:34no estaba declarado qué se le habíaH6567
+- Núm_24:12¿no lo declaré...a tus mensajeros queH1696
+- Núm_32:24haced lo que ha declarado vuestra bocaH3318
+- Deu_1:5resolvió Moisés declarar esta leyH874
+- Deu_5:5para declararos la palabra de JehováH5046
+- Deu_17:11no te...de la sentencia que te declarenH5046
+- Deu_26:3declaro hoy a Jehová...que he entrado enH5046
+- Deu_26:17has declarado...que...Jehová es tu DiosH559
+- Deu_26:18ha declarado...que tú eres pueblo suyoH559
+- Deu_32:7pregunta a tu padre, y él te declararáH5046
+- Jos_4:22declararéis...diciendo: Israel pasó enH3045
+- Jos_7:19y declárame ahora lo que has hecho; noH5046
+- Jue_14:2subió, y lo declaró a su padre y a suH5046
+- Jue_14:6Sansón...no declaró...lo que había hechoH5046
+- Jue_14:12si...me lo declaráis y descifráis, yo osH5046
+- Jue_14:13si no me lo podéis declarar, entoncesH5046
+- Jue_14:14ellos no pudieron declararle el enigmaH5046
+- Jue_14:15induce a...que nos declare este enigmaH5046
+- Jue_14:16no me amas...no me declaras el enigmaH5046
+- Jue_14:16ni a...he declarado...había de declararH5046
+- Jue_14:17se lo declaró...y ella lo d a los hijosH5046
+- Jue_16:6me declares en qué consiste tu...fuerzaH5046
+- Rut_4:4si no quieres redimir, decláramelo paraH5046
+- 1Sa_9:8para que nos declare nuestro caminoH5046
+- 1Sa_9:27para que te declare la palabra de DiosH8085
+- 1Sa_10:15te ruego me declares qué os dijo SamuelH5046
+- 1Sa_10:16nos declaró...que las asnas habían sidoH5046
+- 1Sa_14:43decláramelo...Y Jonatán se lo declaróH5046
+- 1Sa_15:16declararte lo que Jehová me ha dichoH5046
+- 1Sa_18:26siervos declararon a David...palabrasH5046
+- 1Sa_19:7Jonatán...declaró todas estas palabrasH5046
+- 1Sa_23:11te ruego que lo declares a tu siervoH5046
+- 1Sa_25:19id...y nada declaró a su marido NabalH5046
+- 1Sa_25:36ella no le declaró cosa alguna hastaH5046
+- 1Sa_28:15que me declares lo que tengo que hacerH3045
+- 2Sa_19:6has declarado que nada te importanH5046
+- 1Re_1:20les declares quién se ha de sentarH5046
+- 1Re_1:27sin haber declarado...quién se había deH3045
+- 1Re_14:3declare lo que ha de ser de este niñoH5046
+- 2Re_4:2declárame qué tienes en casa. Y ellaH5046
+- 2Re_4:31y se lo declaró, diciendo: El niño noH5046
+- 2Re_6:11¿no me declararéis vosotros quién deH5046
+- 2Re_6:12declara...las palabras que tú hablas enH5046
+- 2Re_7:10declararon, diciendo: Nosotros fuimosH5046
+- 2Re_7:12os declararé lo que nos han hecho losH5046
+- 2Re_9:12decláranoslo ahora. Y él dijo: Así y asíH5046
+- 2Re_22:10escriba Safán declaró al rey, diciendoH5046
+- 1Cr_16:41los...declarados por sus nombresH5344
+- 2Cr_34:18declaró el escriba Safán al reyH5046
+- Neh_2:12y no declaré a hombre alguno lo queH5046
+- Neh_2:16ni...lo había declarado yo a los judíosH5046
+- Neh_2:18declaré cómo la mano de mi Dios habíaH5046
+- Est_2:10Ester no declaró cuál era su puebloH5046
+- Est_2:10le había mandado que no lo declaraseH5046
+- Est_2:20Ester...no había declarado su nación niH5046
+- Est_3:4ya él les había declarado que era judíoH5046
+- Est_3:6le habían declarado cuál era el puebloH5046
+- Est_4:7le declaró...lo que le había acontecidoH5046
+- Est_4:8lo declarase, y le encargara que fueseH5046
+- Est_8:1Ester le declaró lo que él era respectoH5046
+- Job_11:6declarara los secretos de la sabiduríaH5046
+- Job_12:8peces del mar te lo declararán tambiénH5608
+- Job_15:5tu boca declaró tu iniquidad, pues hasH502
+- Job_32:6miedo, y he temido declararos mi opiniónH2331
+- Job_32:7muchedumbre de años declarará sabiduríaH3045
+- Job_32:10dije...declararé yo también mi sabiduríaH2331
+- Job_32:17parte; también yo declararé mi juicioH2331
+- Job_33:3mis razones declararán la rectitud deH4448
+- Job_36:33el trueno declara su indignación, y laH5046
+- Job_38:18has considerado...Declara si sabes todoH5046
+- Sal_19:2una noche a otra...declara sabiduríaH2331
+- Sal_32:5mi pecado te declaré, y no encubrí miH3034
+- Sal_49:4oído; declararé con el arpa mi enigmaH6605
+- Sal_50:6y los ciclos declararán su justiciaH5046
+- Pro_12:17el que habla verdad declara justiciaH5046
+- Ecl_9:1para declarar todo esto: que los justosH952
+- Isa_44:7¿y quién proclamará lo...lo declararáH5046
+- Jer_9:12¿y a quién habló...pueda declararlo?[[H5046]]
+- Jer_38:15Jeremías dijo...Si te lo declarara, noH5046
+- Jer_38:25decláranos...qué hablaste con el reyH5046
+- Jer_42:21y os lo he declarado hoy, y no habéisH5046
+- Dan_2:10no hay...que pueda declarar el asuntoH2324
+- Dan_2:11y no hay quien lo pueda declarar al reyH2324
+- Dan_4:2que yo declare las señales y milagros queH2324
+- Dan_4:9declárame las visiones de mi sueño queH560
+- Dan_10:21te declararé lo que está escrito en elH5046
+- Jon_1:8decláranos...por qué nos ha venido esteH5046
+- Jon_1:10ellos sabían...él se lo había declaradoH5046
+- Miq_6:8él te ha declarado lo que es bueno, yH5046
+- Hab_2:2dijo: Escribe la visión y decláralaH874
+- Mat_7:23declararé: Nunca os conocí; apartaosG3670
+- Mat_13:35declararé cosas escondidas desde laG2044
+- Mat_16:21comenzó...a declarar a sus discípulosG1166
+- Mar_4:34a sus discípulos...les declaraba todoG1956
+- Mar_14:64todos...declarándole ser digno de muerteG2632
+- Luc_8:47declaró...por qué causa le había tocadoG518
+- Luc_24:27les declaraba en...lo que de él decíanG1329
+- Jua_4:25él venga nos declarará todas las cosasG312
+- Jua_13:21declaró y dijo: De cierto, de ciertoG3140
+- Hec_17:3declarando...que era necesario que élG1272
+- Hec_28:23declaraba y les testificaba el reinoG1620
+- Rom_1:4fue declarado Hijo de Dios con poderG3724
+- 1Co_3:13día la declarará, pues por el fuegoG1213
+- 1Co_10:28por causa de aquel que lo declaró, yG3377
+- 1Co_14:25declarando...Dios está entre vosotrosG518
+- 1Co_15:1os declaro, hermanos, el evangelio queG1107
+- Efe_3:3fue declarado el misterio, como antesG1107
+- Col_1:8quien...nos ha declarado vuestro amorG1213
+- Heb_5:10fue declarado por Dios sumo sacerdoteG4316
+- 2Pe_1:14como nuestro Señor...me ha declaradoG1213
+- Rev_1:1la declaró enviándola por medio de suG4591

@@ -1,0 +1,475 @@
+---
+tipo: concordancia
+palabra: VIVIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VIVIR
+
+- Gén_3:22del árbol de la vida, y coma, y vivaH2425
+- Gén_5:3vivió Adán 130 años, y engendró un hijoH2421
+- Gén_5:5los días que vivió Adán 930 años; y murióH2425
+- Gén_5:6vivió Set 105 años, y engendró a EnósH2421
+- Gén_5:7y vivió Set, después que engendró a EnósH2421
+- Gén_5:9vivió; Enós 90 años, y engendró a CainánH2421
+- Gén_5:10vivió Enós...815 años, y engendró hijosH2421
+- Gén_5:12vivió Cainán setenta años, y engendró aH2421
+- Gén_5:13y vivió Cainán, después que engendró aH2421
+- Gén_5:15vivió Mahalaleel 65 años, y engendró aH2421
+- Gén_5:16vivió Mahalaleel, después que engendró aH2421
+- Gén_5:18vivió Jared 162 años, y engendró a EnocH2421
+- Gén_5:19vivió Jared, después que engendró a EnocH2421
+- Gén_5:21vivió Enoc...años, y engendró a MatusalénH2421
+- Gén_5:25vivió Matusalén 187 años, y engendró aH2421
+- Gén_5:26vivió Matusalén, después que engendró aH2421
+- Gén_5:28vivió Lamec 182 años, y engendró un hijoH2421
+- Gén_5:30vivió Lamec, después que engendró a NoéH2421
+- Gén_6:19de todo lo que vive, de toda carne, dosH2421
+- Gén_7:23fue destruido todo ser que vivía sobreH2421
+- Gén_9:3todo lo que se mueve y vive, os será paraH2421
+- Gén_9:28y vivió Noé después del diluvio 350 añosH2421
+- Gén_11:11y vivió Sem, después que engendro aH2421
+- Gén_11:12Arfaxad vivió 35 años, y engendró a SalaH2421
+- Gén_11:13y vivió Arfaxad, después que engendró aH2421
+- Gén_11:14Sala vivió 30 años, y engendró a HeberH2421
+- Gén_11:15vivió Sala, después...engendró a HeberH2421
+- Gén_11:16Heber vivió 34 años, y engendró a PelegH2421
+- Gén_11:17y vivió Heber, después que engendró aH2421
+- Gén_11:18Peleg vivió 30 años, y engendró a ReuH2421
+- Gén_11:19vivió Peleg, después que engendró a ReuH2421
+- Gén_11:20Reu vivió 32 años, y engendró a SerugH2421
+- Gén_11:21vivió Reu, después que engendró a SerugH2421
+- Gén_11:22Serug vivió 30 años, engendró a NacorH2421
+- Gén_11:23y vivió Serug, después que engendro aH2421
+- Gén_11:24Nacor vivió 29 años, y engendró a TaréH2421
+- Gén_11:25y vivió Nacor, después que engendró aH2421
+- Gén_11:26Taré vivió 70 años, y engendró a AbramH2421
+- Gén_12:13dí que...y viva mi alma por causa de tiH2421
+- Gén_17:18dijo...Ojalá Ismael viva delante de tiH2421
+- Gén_20:7es profeta, y orará por ti, y vivirásH2421
+- Gén_25:6y los envió lejos de...mientras él vivíaH2416
+- Gén_25:7estos fueron los días que vivió AbrahamH2425
+- Gén_25:22y dijo: Si es así, ¿para qué vivo yo?
+- Gén_27:40por tu espada vivirás, y a tu hermanoH2421
+- Gén_31:32cuyo poder hallares tus dioses, no vivaH2421
+- Gén_42:2para que podamos vivir, y no muramosH2421
+- Gén_42:15vive Faraón, que no saldréis de aquíH2416
+- Gén_42:16y si no, vive Faraón, que sois espíasH2416
+- Gén_42:18haced esto, y vivid: Yo temo a DiosH2421
+- Gén_43:7nos preguntó...¿Vive aún vuestro padre?[[H2416]]
+- Gén_43:8fin de que vivamos y no muramos nosotrosH2421
+- Gén_43:27dijo: ¿Vuestro padre...¿Vive todavía?[[H2416]]
+- Gén_43:28bien va a tu siervo...padre; aún viveH2416
+- Gén_45:3yo soy José: ¿vive aún mi padre? Y susH2416
+- Gén_45:26José vive aún; y él es señor en toda laH2416
+- Gén_45:28hasta; José mi hijo vive todavía; iréH2416
+- Gén_46:30he visto tu rostro, y sé que aún vivesH2416
+- Gén_47:19y danos semilla para que vivamos y noH2421
+- Gén_47:28y vivió Jacob en la tierra de EgiptoH2421
+- Gén_50:22habitó...y vivió José ciento diez añosH2421
+- Éxo_1:16es hijo, matadlo; y si es hija...vivaH2425
+- Éxo_4:18volveré, Egipto, para ver si aún vivenH2416
+- Éxo_19:13asaeteado; sea animal o sea...no viviráH2421
+- Éxo_22:18a la hechicera no dejarás que vivaH2421
+- Éxo_33:20no...porque no me verá hombre, y viviráH2425
+- Lev_11:9los animales que viven en las aguas
+- Lev_18:5los cuales haciendo el hombre, viviráH2425
+- Lev_25:35forastero y extranjero vivirá contigoH2416
+- Lev_25:36temor de...y tu hermano vivirá contigoH2416
+- Lev_25:45los hijos de los forasteros que vivenH1481
+- Núm_4:19se acerquen al lugar santísimo vivanH2421
+- Núm_14:21vivo yo, y mi gloria llena...la tierraH2416
+- Núm_14:28vivo yo, dice Jehová, que según habéisH2416
+- Núm_21:8fuere mordido y mirare a ella, viviráH2425
+- Núm_21:9mordía...miraba a la serpiente...y vivíaH2425
+- Núm_24:23¡ay! ¿quién vivirá cuando hiciere DiosH2421
+- Núm_35:32que vuelva a vivir en su tierra, hastaH3427
+- Deu_4:1viváis, y entréis y poseáis la tierraH2421
+- Deu_4:10temerme todos los días que vivieren sobreH2416
+- Deu_5:24Jehová habla al hombre, y éste aún viveH2421
+- Deu_5:26oiga...como nosotros la oímos, y aún viva?[[H2421]]
+- Deu_5:33viváis y os vaya bien, y tengáis largosH2421
+- Deu_8:1para que viváis, y seáis multiplicadosH2421
+- Deu_8:3no sólo de pan vivirá el hombre, mas deH2421
+- Deu_8:3sale de la boca de Jehová vivirá el hombreH2421
+- Deu_12:1los días que...viviereis sobre la tierraH2416
+- Deu_13:12que...tu Dios te da para vivir en ellasH3427
+- Deu_16:14la viuda que viven en tus poblaciones
+- Deu_16:20la justicia seguirás, para que vivas yH2421
+- Deu_18:6saliere un levita...donde hubiere vividoH1481
+- Deu_19:4caso del homicida que huirá allí, y viviráH2425
+- Deu_19:5huirá a una de estas ciudades, y viviráH2425
+- Deu_21:19ante...a la puerta del lugar donde viva
+- Deu_30:6que ames a Jehová tu...a fin de que vivasH2416
+- Deu_30:16para que vivas y seas multiplicado, yH2421
+- Deu_30:19escoge, pues, la vida, para que vivasH2421
+- Deu_31:13a temer...todos los días que viviereisH2421
+- Deu_31:27aun viviendo yo...sois rebeldes a JehováH2416
+- Deu_32:39hago morir, y yo hago vivir; yo hieroH2421
+- Deu_32:40mi mano, y diré: Vivo yo para siempreH2416
+- Deu_33:6viva Rubén, y no muera; y no sean pocosH2421
+- Jos_2:15su casa estaba...ella vivía en el muroH3427
+- Jos_6:17solamente Rahab la ramera vivirá, conH2421
+- Jos_9:20dejaremos vivir, para que no venga iraH2421
+- Jos_9:21dejadlos vivir; y fueron...leñadores yH2421
+- Jos_14:10Jehová me ha hecho vivir, como él dijoH2421
+- Jue_8:19¡vive Jehová, que si les hubieraisH2421
+- Jue_13:12debe ser la manera de vivir del niño, y
+- Jue_17:8ir a vivir donde pudiera encontrar lugarH1481
+- Jue_17:9voy a vivir donde pueda encontrar lugarH1481
+- Rut_1:16yo, y dondequiera que vivieres, viviréH3885
+- Rut_2:23estuvo...espigando...vivía con su suegraH3427
+- Rut_3:13si él no te...yo te redimiré, vive JehováH2416
+- 1Sa_1:26y ella dijo...Vive tu alma, señor míoH2416
+- 1Sa_1:28todos los días que viva, será de JehováH3117
+- 1Sa_7:15juzgó Samuel...todo el tiempo que vivióH2416
+- 1Sa_10:24pueblo clamó...diciendo: ¡Viva el rey!
+- 1Sa_14:39vive Jehová...aunque fuere en Jonatán miH2416
+- 1Sa_14:45vive Jehová, no ha de caer un cabello deH2416
+- 1Sa_17:56vive tu alma, oh rey, que no lo sé...Y elH2416
+- 1Sa_19:6y juró Saúl: Vive Jehová, que no moriráH2416
+- 1Sa_20:3vive Jehová y v tu alma, que apenas hayH2416
+- 1Sa_20:14y si yo viviere, harás...misericordia deH2416
+- 1Sa_20:21vendrás...y nada malo hay, vive JehováH2416
+- 1Sa_20:31el hijo de Isaí viviere sobre la tierraH2425
+- 1Sa_25:26vive Jehová, y v tu alma, que Jehová teH2416
+- 1Sa_25:29será ligada en el haz de los que vivenH2416
+- 1Sa_25:34vive Jehová Dios...que me ha defendidoH2416
+- 1Sa_26:10vive Jehová...si Jehová no lo hiriereH2416
+- 1Sa_26:16vive Jehová, que sois dignos de muerteH2416
+- 1Sa_28:10vive Jehová, que ningún mal te vendráH2416
+- 1Sa_29:6vive Jehová, que tú has sido recto, y queH2416
+- 2Sa_1:10que no podía vivir después de su caídaH2421
+- 2Sa_2:27vive Dios, que si no hubieses habladoH2426
+- 2Sa_4:9vive Jehová que ha redimido mi alma deH2416
+- 2Sa_12:5dijo...Vive Jehová que el que tal hizoH2616
+- 2Sa_12:18el niño aún vivía, le hablábamos, y noH2416
+- 2Sa_12:21por el niño, viviendo aún, ayunabas yH2416
+- 2Sa_12:22viviendo...el niño, yo ayunaba y llorabaH2416
+- 2Sa_12:22Dios tendrá compasión...y vivirá el niñoH2416
+- 2Sa_14:11vive Jehová, que no caerá ni un cabelloH2416
+- 2Sa_14:19vive tu alma...que no hay que apartarseH2416
+- 2Sa_15:21vive Dios, y v mi señor el rey, que oH2416
+- 2Sa_16:16que...dijo Husai: ¡Viva el rey, v el rey![[H2421]]
+- 2Sa_19:6me has hecho ver...que si Absalón vivieraH2416
+- 2Sa_19:34¿cuántos años más habré de vivir, paraH2416
+- 2Sa_22:47viva Jehová, y bendita sea mi roca, yH2416
+- 1Re_1:25y han dicho: ¡Viva el rey Adonías![[H2421]]
+- 1Re_1:29vive Jehová, que ha redimido mi alma deH2416
+- 1Re_1:31viva mi señor el rey David para siempreH2421
+- 1Re_1:34y tocaréis trompeta, diciendo: ¡Viva elH2421
+- 1Re_1:39dijo...el pueblo: ¡Viva el rey Salomón![[H2421]]
+- 1Re_2:24vive Jehová, quien me ha confirmado y meH2416
+- 1Re_3:22-23mi hijo es el que vive, y tu hijo esH2416
+- 1Re_3:22-23es el muerto, y mi hijo es el que viveH2416
+- 1Re_4:21sirvieron a Salomón...los días que vivióH2416
+- 1Re_4:25Judá e Israel vivían seguros, cada unoH2416
+- 1Re_8:40que te teman todos los días que vivanH2416
+- 1Re_12:6delante de Salomón su padre cuando vivíaH2416
+- 1Re_17:1a Acab: Vive Jehová Dios de Israel, enH2416
+- 1Re_17:5se fue y vivió junto al arroyo de QueritH3427
+- 1Re_17:12vive Jehová tu Dios, que no tengo panH2416
+- 1Re_17:23y le dijo Elías: Mira, tu hijo viveH2416
+- 1Re_18:10vive Jehová...que no ha habido nación niH2416
+- 1Re_18:15vive Jehová de...en cuya presencia estoyH2416
+- 1Re_20:32Ben-adad dice: Te ruego que viva mi almaH2421
+- 1Re_20:32él respondió: Si él vive...mi hermano esH2416
+- 1Re_20:33y dijeron: Tu hermano Ben-adad vive
+- 1Re_21:15porque Nabot no vive, sino que ha muertoH2416
+- 1Re_22:14vive Jehová, que lo que Jehová...diréH2416
+- 2Re_2:2, 2Re_2:4, 2Re_2:6vive Jehová, y v tu...no te dejaréH2416
+- 2Re_3:14vive Jehová de los ejércitos, en cuyaH2416
+- 2Re_4:7y tú y tus hijos vivid de lo que quedeH2421
+- 2Re_4:30vive Jehová, y v tu alma...no te dejaréH2416
+- 2Re_5:16dijo: Vive Jehová...que no lo aceptaréH2416
+- 2Re_5:20vive Jehová, que correré yo tras él yH2416
+- 2Re_7:4si ellos nos dieren la vida, viviremos; yH2421
+- 2Re_8:1mujer a cuyo hijo él había hecho vivirH2416
+- 2Re_8:1vete tú y...tu casa a vivir donde puedasH3427
+- 2Re_8:2fue...y vivió en tierra de los filisteosH3427
+- 2Re_8:5contando...había hecho vivir a un muertoH2421
+- 2Re_8:5la mujer, a cuyo hijo él había hecho vivirH2421
+- 2Re_8:5este es su hijo, al cual Eliseo hizo vivirH2421
+- 2Re_10:19Baal; cualquiera que faltare no viviráH2421
+- 2Re_11:12batiendo...manos dijeron: ¡Viva el rey![[H2421]]
+- 2Re_14:17vivió después de la muerte de Joás hijoH2421
+- 2Re_18:32y viviréis, y no moriréis...No oigáis aH2421
+- 2Re_20:1ordena tu casa...morirás, y no vivirásH2421
+- 2Cr_6:31teman...todos los días que vivierenH2416
+- 2Cr_10:6delante de Salomón...cuando vivía, y lesH2416
+- 2Cr_11:13se juntaron a él desde...donde vivíanH3427
+- 2Cr_18:13vive Jehová...lo que mi Dios me dijereH2416
+- 2Cr_23:11ungieron, diciendo luego: ¡Viva el rey![[H2421]]
+- 2Cr_25:25y vivió Amasías...15 años después de laH2421
+- 2Cr_34:33no se apartaron de...que él vivióH2421
+- Esd_9:7este día hemos vivido en gran pecado
+- Neh_2:3dije al rey: Para siempre viva el reyH2421
+- Neh_5:2hemos pedido...grano para comer y vivirH2421
+- Neh_9:29los...si el hombre hiciere, en ellos viviráH2421
+- Est_3:8rey nada le beneficia el dejarlos vivirH2421
+- Est_4:11el rey extendiere el cetro de oro...viviráH2421
+- Job_7:16abomino de mi vida; no he de vivir paraH2421
+- Job_12:6y los que provocan a Dios viven segurosH2421
+- Job_14:14si el hombre muriere, ¿volverá a vivir?[[H2421]]
+- Job_19:25yo sé que mi Redentor vive, y al fin seH2416
+- Job_21:7¿por qué viven los impíos, y...envejecenH2421
+- Job_27:2vive Dios, que ha quitado mi derecho, yH3117
+- Job_42:16vivió Job 140 años, y vio a sus hijosH2421
+- Sal_4:8tú, Jehová, me haces vivir confiadoH3427
+- Sal_18:46viva Jehová, y bendita sea mi roca, yH2416
+- Sal_22:26vivirá vuestro corazón para siempreH2421
+- Sal_37:27y haz el bien, y vivirás para siempreH3427
+- Sal_37:29tierra, y vivirán para siempre sobre ellaH3427
+- Sal_39:5completa vanidad todo hombre que viveH2416
+- Sal_49:9para que viva en adelante para siempreH2421
+- Sal_49:18aunque mientras viva, llame dichosa aH2416
+- Sal_56:13delante de...en la luz de los que vivenH2416
+- Sal_69:32buscad a Dios, y vivirá vuestro corazónH2421
+- Sal_72:15vivirá, y se le dará del oro de SabáH2421
+- Sal_89:48¿qué hombre vivirá y no verá muerte?[[H2421]]
+- Sal_104:33a...Dios cantaré salmos mientras vivaH2416
+- Sal_107:4por...sin hallar ciudad en donde vivirH4186
+- Sal_107:36allí...y fundan ciudad en donde vivirH3427
+- Sal_118:17no moriré, sino que viviré, y contaréH2421
+- Sal_119:17bien a tu siervo; que viva, y guardeH2421
+- Sal_119:77vengan a mí tus misericordias...vivaH2421
+- Sal_119:116susténtame conforme a tu...y viviréH2421
+- Sal_119:144eterna...dame entendimiento, y viviréH2421
+- Sal_119:175viva mi...y te alabe, y tus juicios meH2421
+- Sal_146:2cantaré salmos a...Dios mientras vivaH2416
+- Pro_1:33y vivirá tranquilo, sin temor del mal
+- Pro_4:4; Pro_7:2guarda mis mandamientos y vivirásH2421
+- Pro_9:6dejad las simplezas, y vivid, y andad porH2421
+- Pro_11:15aborreciere las fianzas vivirá seguroH2421
+- Pro_15:27mas el que aborrece el soborno viviráH2421
+- Pro_19:23con él vivirá lleno de reposo el hombreH3885
+- Pro_21:9mejor es vivir en un rincón del terradoH3427
+- Ecl_4:2más que a los vivientes, los que vivenH2416
+- Ecl_4:15vi a todos los que viven debajo del solH3427
+- Ecl_6:3y viviere muchos años, y los días de suH2421
+- Ecl_6:6si aquel viviere mil años dos veces, sinH2421
+- Ecl_7:2el que vive lo pondrá en su corazónH2416
+- Ecl_9:5los que viven saben que han de morir; peroH2416
+- Ecl_11:8aunque un hombre viva muchos años, y enH2421
+- Isa_26:14muertos son, no vivirán; han fallecidoH2421
+- Isa_26:19tus muertos vivirán; sus cadáveresH2421
+- Isa_38:1ordena tu casa...morirás, y no vivirásH2421
+- Isa_38:16por...estas cosas los hombres viviránH2421
+- Isa_38:16tú me restablecerás, y harás que vivaH2421
+- Isa_38:19el que vive, el que v...te dará alabanzaH2416
+- Isa_49:18han venido a ti...Vivo yo, dice JehováH2416
+- Isa_53:10verá linaje, vivirá por largos días, y
+- Isa_55:3venid a mí; oíd, y vivirá vuestra almaH2421
+- Isa_57:15hacer vivir el espíritu de los humildesH2421
+- Jer_4:2y jurares: Vive Jehová, en verdad, enH2416
+- Jer_5:2digan: Vive Jehová, juran falsamenteH2416
+- Jer_12:16vive Jehová, así como enseñaron a miH2416
+- Jer_16:14no se dirá más: Vive Jehová, que hizoH2416
+- Jer_16:15sino: Vive Jehová, que hizo subir a losH2416
+- Jer_21:9que saliere...vivirá, y su vida le seráH2421
+- Jer_22:24vivo yo, dice Jehová, que si Conías hijoH2416
+- Jer_23:7que no dirán más: Vive Jehová que hizoH2416
+- Jer_23:8sino: Vive Jehová que hizo subir y trajoH2416
+- Jer_27:12servidle a él y a su pueblo, y vividH2421
+- Jer_27:17servid al rey de Babilonia y vivid; ¿porH2421
+- Jer_30:10y Jacob...descansará y vivirá tranquilo
+- Jer_35:7para que viváis muchos días sobre la fazH2421
+- Jer_35:15viviréis en la tierra que di a...padresH3427
+- Jer_38:2el que se pasare a los caldeos viviráH2421
+- Jer_38:2pues su vida le será por botín, y viviráH2425
+- Jer_38:16vive Jehová que nos hizo esta alma, queH2416
+- Jer_38:17tu alma vivirá...y vivirás tú y tu casaH2421
+- Jer_38:20oye ahora la...y te irá bien y vivirásH2421
+- Jer_39:14que lo sacase a casa; y vivió entre elH3427
+- Jer_40:5y vive con él en medio del pueblo; o véH3427
+- Jer_44:1todos los judíos...que vivían en MigdolH3427
+- Jer_44:8de Egipto, adonde habéis entrado...vivirH3427
+- Jer_44:26de Judá, diciendo: Vive Jehová el SeñorH2416
+- Jer_46:18vivo yo, dice el Rey, cuyo nombre esH2416
+- Jer_49:31que vive confiadamente...que v solitariaH3427
+- Eze_3:18impío sea apercibido...fin de que vivaH2421
+- Eze_3:21no peque, y no pecare, de cierto viviráH2421
+- Eze_5:11vivo yo, dice Jehová...haber profanadoH2416
+- Eze_13:19vida a las personas que no deben vivirH2421
+- Eze_14:16vivo yo, dice Jehová el Señor, ni a susH2416
+- Eze_14:18, Eze_14:20vivo yo, dice Jehová...no libraríanH2416
+- Eze_16:6te dije: ¡Vive! Sí, te dije, cuando...¡V![[H2421]]
+- Eze_16:48vivo yo, dice Jehová el...que Sodoma tuH2416
+- Eze_17:16vivo yo, dice Jehová el...que morirá enH2416
+- Eze_17:19ha dicho...Vivo yo, que el juramento míoH2416
+- Eze_18:3vivo yo, dice Jehová el...que nunca másH2416
+- Eze_18:9es justo...vivirá, dice Jehová el SeñorH2421
+- Eze_18:13prestare a interés...¿vivirá éste? No vH2421
+- Eze_18:17éste no morirá por la...de cierto viviráH2421
+- Eze_18:19guardó...estatutos y...de cierto viviráH2421
+- Eze_18:21apartare de...pecados...de cierto viviráH2421
+- Eze_18:22no le...en su justicia que hizo viviráH2421
+- Eze_18:23del impío...¿No vivirá, si se apartare deH2421
+- Eze_18:24e hiciere...abominaciones...¿vivirá él?[[H2425]]
+- Eze_18:27y apartándose el impío...vivir su almaH2421
+- Eze_18:28se apartó...de cierto vivirá; no moriráH2421
+- Eze_18:32no quiero...convertíos, pues, y viviréisH2421
+- Eze_20:3vivo yo...no os responderé, dice JehováH2416
+- Eze_20:11, Eze_20:13, Eze_20:21hombre que los cumpliere viviráH2425
+- Eze_20:25decretos por los cuales no podrían vivirH2421
+- Eze_20:31vivo yo...el Señor, que no os responderéH2416
+- Eze_20:33vivo yo, dice Jehová...con mano fuerteH2416
+- Eze_21:30el lugar...en la tierra donde has vividoH4351
+- Eze_28:26vivirán confiadamente, cuando yo hagaH3427
+- Eze_33:10somos consumidos; ¿cómo...viviremos?[[H2421]]
+- Eze_33:11vivo yo...no quiero la muerte del impíoH2416
+- Eze_33:11que se vuelva el impío de su...y que vivaH2421
+- Eze_33:12el justo no podrá vivir por su justiciaH2421
+- Eze_33:13yo dijere al justo: De cierto vivirásH2421
+- Eze_33:15vida, no haciendo iniquidad, viviráH2421
+- Eze_33:16según el derecho y la justicia; viviráH2421
+- Eze_33:19hiciere según el derecho y la...viviráH2421
+- Eze_33:27vivo yo, que los que están en aquellosH2421
+- Eze_34:8viva yo, ha dicho...por cuanto mi rebañoH2416
+- Eze_35:6vivo yo, dice Jehová...que a sangre teH2416
+- Eze_35:11vivo yo, dice...haré conforme a tu iraH2416
+- Eze_37:3me dijo: Hijo de...¿vivirán estos huesos?[[H2421]]
+- Eze_37:5yo hago entrar espíritu en...y viviréisH2421
+- Eze_37:6y viviréis; y sabréis que yo soy JehováH2421
+- Eze_37:9y sopla sobre estos muertos, y viviránH2421
+- Eze_37:10vivieron, y estuvieron sobre sus piesH2421
+- Eze_37:14y pondré mi Espíritu...y viviréis, y osH2421
+- Eze_47:9y toda alma viviente que nadare...viviráH2421
+- Eze_47:9vivirá todo lo que entrare en este ríoH2425
+- Dan_2:4rey, para siempre vive; di el sueño aH2418
+- Dan_3:9dijeron al rey...Rey, para siempre viveH2418
+- Dan_4:34y glorifiqué al que vive para siempreH2417
+- Dan_5:10rey, vive para siempre; no te turben tusH2418
+- Dan_6:6dijeron...¡Rey Darío, para siempre vive![[H2418]]
+- Dan_12:7y juró por el que vive por los siglosH2416
+- Ose_4:15no entréis en...ni juréis: Vive JehováH2414
+- Ose_6:2nos resucitará, y viviremos delante de élH2421
+- Amó_5:4así dice Jehová...Buscadme, y viviréisH2421
+- Amó_5:6buscad a Jehová, y vivid; no sea queH2421
+- Amó_5:14buscad lo bueno, y no...para que viváisH2421
+- Hab_2:4he aquí que...el justo por su fe viviráH2421
+- Sof_2:9vivo yo, dice Jehová...Moab será comoH2416
+- Zac_1:5profetas, ¿han de vivir para siempre?[[H2421]]
+- Zac_10:9mí; y vivirán con sus hijos, y volveránH2421
+- Zac_13:3no vivirás, porque has hablado mentiraH2421
+- Mat_4:4no sólo de pan vivirá el hombre, sinoG2198
+- Mat_9:18ven y pon tu mano sobre ella, y viviráG2198
+- Mat_23:30decís: Si hubiésemos vivido en los díasG2258
+- Mat_27:63dijo, viviendo aún: Después de tres díasG2198
+- Mar_5:23y pon las manos sobre ella...y viviráG2198
+- Mar_16:11oyeron que vivía, y que había sido vistoG2198
+- Luc_2:36había vivido con su marido siete añosG2198
+- Luc_4:4no sólo de pan vivirá el hombre, sino deG2198
+- Luc_7:25y viven en deleites, en los palacios deG5225
+- Luc_10:28le dijo: Bien has...haz esto, y vivirásG2198
+- Luc_15:13desperdició sus...viviendo perdidamenteG2198
+- Luc_20:38es Dios...de vivos...para él todos vivenG2198
+- Luc_24:5buscáis entre los muertos al que vive?[[G2198]]
+- Luc_24:23de ángeles, quienes dijeron que él viveG2198
+- Jua_4:50Jesús le dijo: Vé, tu hijo vive...Y elG2198
+- Jua_4:51le dieron nuevas, diciendo: Tu hijo viveG2198
+- Jua_4:53que Jesús le había dicho: Tu hijo viveG2198
+- Jua_5:25oirán la voz...los que la oyeren viviránG2198
+- Jua_6:51comiere de este pan, vivirá para siempreG2198
+- Jua_6:57Padre viviente, y yo vivo por el PadreG2198
+- Jua_6:57el que me come, él también vivirá por míG2198
+- Jua_6:58que come de este pan, vivirá eternamenteG2198
+- Jua_11:25cree en mí, aunque esté muerto, viviráG2198
+- Jua_11:26aquel que vive y cree en mí, no moriráG2198
+- Jua_14:19porque yo vivo, vosotros...viviréisG2198
+- Hec_7:29Moisés huyó, y vivió como extranjero
+- Hec_17:28en él vivimos, y nos movemos, y somosG2198
+- Hec_22:22quita de...porque no conviene que vivaG2198
+- Hec_23:1yo con toda buena conciencia he vividoG4176
+- Hec_25:24y aquí, dando voces que no debe vivirG2198
+- Hec_26:5que yo desde el principio...viví fariseoG2198
+- Hec_28:4es homicida...la justicia no deja vivirG2198
+- Hec_28:16pero a Pablo se le permitió vivir aparteG3306
+- Rom_1:17escrito: Mas el justo por la fe viviráG2198
+- Rom_6:2muerto al pecado, ¿cómo viviremos aún enG2198
+- Rom_6:8si...creemos que también viviremos con élG4800
+- Rom_6:10todas; mas en cuanto vive, para Dios vG2198
+- Rom_7:1enseñorea del hombre entre tanto...vive?[[G2198]]
+- Rom_7:2está sujeta...marido mientras éste viveG2198
+- Rom_7:9y yo sin la ley vivía en un tiempo; peroG2198
+- Rom_8:8los que viven según la carne no pueden
+- Rom_8:9vosotros no vivís según la carne, sino
+- Rom_8:10el espíritu vive a causa de la justiciaG2222
+- Rom_8:12no...para que vivamos conforme a la carneG2198
+- Rom_8:13si vivís conforme a la carne, moriréisG2198
+- Rom_8:13por el Espíritu hacéis morir...viviréisG2198
+- Rom_10:5el hombre que haga estas cosas, viviráG2198
+- Rom_14:7porque ninguno de nosotros vive para síG2198
+- Rom_14:8pues si vivimos, para el Señor v; y siG2198
+- Rom_14:8que vivamos, o que muramos, del SeñorG2198
+- Rom_14:9volvió a vivir, para ser Señor así de losG326
+- Rom_14:9así de los muertos como de los que vivenG2198
+- Rom_14:11vivo yo, dice el Señor, que ante mí seG2198
+- 1Co_7:12ella consiente en vivir con él, noG3611
+- 1Co_7:13y él consiente en vivir con ella, no loG3611
+- 1Co_7:39ligada a la ley mientras su marido viveG2198
+- 1Co_9:14los que anuncian el...vivan del evangelioG2198
+- 1Co_15:6500 hermanos...de los cuales muchos vivenG2198
+- 2Co_4:11que vivimos...entregados a muerte porG2198
+- 2Co_5:6vivimos confiados...y sabiendo que entre
+- 2Co_5:15que los que viven, ya no vivan para síG2198
+- 2Co_6:9como moribundos, mas he aquí vivimosG2198
+- 2Co_7:3nuestro corazón, para morir y para vivirG4800
+- 2Co_13:4en debilidad, vive por el poder de DiosG2198
+- 2Co_13:4viviremos con él por el poder de DiosG2198
+- 2Co_13:11sed de un mismo sentir, y vivid en pazG1514
+- Gál_2:14siendo judío, vives como los gentilesG1483
+- Gál_2:19muerto para la...a fin de vivir para DiosG2198
+- Gál_2:20y ya no vivo yo, mas vive Cristo en míG2198
+- Gál_2:20lo que ahora vivo...lo v en la fe del HijoG2198
+- Gál_3:11es evidente...El justo por la fe viviráG2198
+- Gál_3:12que hiciere estas cosas vivirá por ellasG2198
+- Gál_5:25vivimos por el Espíritu, andemos tambiénG2198
+- Efe_2:3entre los cuales...nosotros vivimos en
+- Efe_4:22en cuanto a la pasada manera de vivir
+- Flp_1:21porque para mí el vivir es Cristo, yG2198
+- Flp_1:22si el vivir en la carne resulta para míG2198
+- Flp_4:12sé vivir humildemente, y sé...abundanciaG2198
+- Col_2:20¿por qué, como si vivieseis en el mundoG2198
+- Col_3:7anduvisteis en...cuando vivíais en ellasG2198
+- 1Ts_3:8vivimos, si vosotros estáis firmesG2198
+- 1Ts_4:15nosotros que vivimos...no precederemos aG2198
+- 1Ts_4:17luego nosotros los que vivimos, los queG2198
+- 1Ts_5:10que velemos...vivamos juntamente con élG2198
+- 1Ti_2:2que vivamos quieta y reposadamente en
+- 1Ti_5:6la que se entrega a...viviendo está muertaG2198
+- 2Ti_2:11si somos muertos con él...viviremosG4800
+- 2Ti_3:12todos los que quieren vivir piadosamenteG2198
+- Tit_2:12vivamos en este siglo sobria, justa yG2198
+- Tit_3:3deleites...viviendo en malicia y envidiaG1236
+- Heb_7:8uno de quien da testimonio de que viveG2198
+- Heb_7:25a Dios, viviendo siempre para intercederG2198
+- Heb_9:17no...válido entre tanto el testador viveG2198
+- Heb_10:38justo vivirá por fe; y si retrocediereG2198
+- Heb_12:9obedeceremos...al Padre de...y viviremos?[[G2198]]
+- Stg_4:15el Señor quiere, viviremos y haremosG2198
+- Stg_5:5habéis vivido en deleites sobre la tierraG5171
+- 1Pe_1:15santos en...vuestra manera de vivir
+- 1Pe_1:18rescatados de vuestra...manera de vivirG391
+- 1Pe_1:23la palabra de Dios que vive y permaneceG2198
+- 1Pe_2:12buena vuestra manera de vivir entre losG391
+- 1Pe_2:24estando muertos a los pecados, vivamosG2198
+- 1Pe_3:7vivid con ellas sabiamente, dando honorG4924
+- 1Pe_4:2para no vivir el tiempo que resta en laG980
+- 1Pe_4:6carne...pero vivan en espíritu según DiosG2198
+- 2Pe_2:6a los que habían de vivir impíamente
+- 2Pe_2:18habían huido de los que viven en errorG390
+- 2Pe_3:11andar en santa y piadosa manera de vivirG391
+- 1Jn_4:9envió a su Hijo...que vivamos por élG2198
+- Rev_1:18vivo, y estuve muerto...he aquí que vG2198
+- Rev_2:8el que estuvo muerto y vivió, dice estoG2198
+- Rev_3:1que tienes nombre de que vives, y estásG2198
+- Rev_4:9-10; Rev_5:14al que vive por los siglos deG2198
+- Rev_10:6juró por el que vive por los siglos deG2198
+- Rev_13:14la bestia que tiene la herida...y vivióG2198
+- Rev_15:7oro, llenos de la ira de Dios, que viveG2198
+- Rev_18:7y ha vivido en deleites, tanto dadle de
+- Rev_18:9reyes...con ella han vivido en deleites
+- Rev_20:4vivieron y reinaron con Cristo mil añosG2198
+- Rev_20:5los otros muertos no volvieron a vivirG326

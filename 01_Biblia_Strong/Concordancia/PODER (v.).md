@@ -1,0 +1,174 @@
+---
+tipo: concordancia
+palabra: PODER (v.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PODER (v.)
+
+- Véase también el Apéndice
+- Gén_13:16si alguno puede contar el polvo deH3201
+- Gén_15:5cuenta las estrellas...las puedes contarH3201
+- Gén_16:10que no podrá ser contada a causa de la
+- Gén_19:19no podré escapar al monte, no sea que
+- Gén_29:8no podemos, hasta que se junten todos
+- Gén_31:35porque no me puedo levantar delante de
+- Gén_32:12arena del mar, que no se puede contar
+- Gén_32:25el varón vio que no podía con él, tocó
+- Gén_34:14no podemos...esto de dar nuestra hermana
+- Gén_41:8quien los pudiese interpretar a Faraón
+- Gén_43:32egipcios no pueden comer pan con los
+- Gén_44:34no podré, por no ver el mal...mi padre
+- Gén_45:1no podía ya José contenerse delante de
+- Éxo_8:18para sacar piojos...pero no pudieron
+- Éxo_40:35no podía Moisés entrar...el tabernáculoH3201
+- Lev_10:10para poder discernir entre lo santo
+- Lev_14:22dos palominos, según pueda; uno seráH5381
+- Lev_14:30o uno de los palominos, según pueda
+- Lev_25:31podrán ser rescatadas, y saldrán en el
+- Lev_26:37no podréis resistir delante...enemigos
+- Lev_27:29ninguna...anatema podrá ser rescatada
+- Núm_6:20después el nazareo podrá beber vino
+- Núm_11:14no puedo yo solo soportar...este puebloH3201
+- Núm_13:30porque más podremos nosotros que ellosH3201
+- Núm_14:16no pudo Jehová meter este pueblo en laH3201
+- Núm_22:37y Balac dijo...¿No puedo yo honrarte?[[H3201]]
+- Núm_22:38mas ¿podré ahora hablar alguna cosa?
+- Núm_23:20él dio bendición, y no podré revocarla
+- Deu_1:9yo os hablé...Yo solo no puedo llevarosH3201
+- Deu_7:17naciones...¿cómo las podré exterminar?
+- Deu_9:28por cuanto no pudo Jehová introducirlosH3201
+- Deu_17:15no podrás poner sobre ti a...extranjero
+- Deu_24:4no podrá su primer marido...volverla a
+- Deu_28:35te herirá...sin que puedas ser curado
+- Deu_32:39y no hay quien pueda librar de mi mano
+- Jos_7:13no podrás hacer frente a tus enemigos
+- Jue_14:14no pudieron declararle el enigma en
+- Jue_21:18nosotros no les podemos dar mujeres de
+- Rut_1:11hijos...puedan ser vuestros maridos?
+- 1Sa_6:20¿quién podrá estar delante de JehováH3201
+- 1Sa_17:9pudiere pelear conmigo, y me venciereH3201
+- 1Sa_17:9si yo pudiere más que él, y lo venciere
+- 2Sa_10:11si los sirios pudieren más que yo, tú
+- 2Sa_10:11si los hijos de Amón pudieren más que
+- 2Sa_12:23¿podré yo hacerle volver? Yo voy a él
+- 2Sa_13:14pudiendo más que ella, la forzó, y se
+- 1Re_9:21hijos de Israel no pudieron acabarH3201
+- 1Re_16:22el pueblo que seguía a Omri pudo más
+- 2Re_3:26atacar al rey de Edom...no pudieron
+- 2Re_8:1vete tú y...tu casa a vivir donde puedas
+- 1Cr_21:4la orden del rey pudo más que Joab
+- 2Cr_5:14no podían los sacerdotes estar allí
+- 2Cr_13:7perversos, y pudieron más que Roboam
+- 2Cr_32:13¿pudieron los dioses de las nacionesH3201
+- 2Cr_32:14¿cómo podrá vuestro Dios libraros deH3201
+- Esd_10:13y no podemos estar en la calle; niH3581
+- Job_6:30¿acaso...no puede mi paladar discernir
+- Job_28:16no puede ser apreciada con oro de Ofir
+- Job_33:5respóndeme si puedes; ordena...palabras
+- Job_38:31¿podrás tú...los lazos de las Pléyades
+- Job_41:10quién, pues, podrá estar delante de mí?
+- Job_42:2yo conozco que todo lo puedes, y que no
+- Sal_76:7quién podrá estar en pie delante de
+- Isa_29:11dirá: No puedo, porque está sellado
+- Isa_36:9podrás resistir a un capitán, al menor
+- Isa_57:20tempestad, que no puede estarse quieto
+- Isa_64:5los pecados...¿podremos acaso ser salvos?
+- Jer_3:5has...hecho cuantas maldades pudiste
+- Jer_13:23¿podréis vosotros hacer bien, estando
+- Jer_18:6¿no podré yo hacer de vosotros como este
+- Jer_19:11una vasija...que no se puede restaurar
+- Jer_20:9un fuego...traté de sufrirlo, y no pude
+- Jer_24:2malos, que de malos no se podían comer
+- Jer_24:8higos...que de malos no se pueden comer
+- Jer_29:17higos...que de tan malos no se pueden
+- Jer_31:37si los cielos arriba se pueden medir
+- Jer_33:20si pudiereis invalidar mi pacto con el
+- Jer_33:21podrá también invalidarse mi pacto con
+- Jer_38:5el rey nada puede hacer contra vosotros
+- Jer_49:10descubriré sus...y no podrá esconderseH3201
+- Jer_49:23se derritieron en...no pueden sosegarse
+- Lam_1:14en manos contra las cuales no podréH3201
+- Eze_7:19ni su plata ni su oro podrá librarlosH3201
+- Dan_2:26¿podrás tú hacerme conocer el sueñoH3546
+- Dan_4:18puedes, porque mora en ti el espíritu deH3201
+- Dan_10:17podrá el siervo de mi señor hablar con
+- Jon_1:13mas no pudieron, porque el mar se iba
+- Hab_2:19a la piedra muda...¿Podrá él enseñar?
+- Mal_3:2quién podrá soportar...de su venida?
+- Mal_3:2¿o quién podrá estar en pie cuando él se
+- Mat_6:27quién...podrá, por mucho que se afane
+- Mat_9:15pueden los que están de bodas tener luto
+- Mat_9:28les dijo: ¿Creéis que puedo hacer esto?[[G1410]]
+- Mat_12:29¿Cómo puede alguno entrar en la casa
+- Mat_16:3las señales de los tiempos no podéis!
+- Mat_19:25diciendo: ¿Quién, pues, podrá ser salvo?
+- Mat_20:22¿podéis beber del...le dijeron: PodemosG1410
+- Mat_26:53que no puedo ahora orar a mi padre, y
+- Mar_2:19¿acaso pueden los que están de bodas
+- Mar_6:19Herodías...deseaba matarle, y no podía
+- Mar_8:4¿de dónde podrá alguien saciar de pan a
+- Mar_9:18dije a...lo echasen fuera, y no pudieron
+- Mar_9:43, Mar_9:45al fuego que no puede ser apagado
+- Mar_10:26entre sí: ¿Quién, pues, podrá ser salvo?
+- Mar_10:38podéis beber del vaso que yo bebo, o
+- Mar_10:39ellos dijeron: Podemos. Jesús les dijo
+- Mar_14:5porque podía haberse vendido por más de
+- Mar_14:8ésta ha hecho lo que podía; porque se ha
+- Luc_3:8Dios puede levantar hijos a Abraham aunG1410
+- Luc_9:40rogué...le echasen fuera, y no pudieron
+- Luc_12:25quién de vosotros podrá...añadir a su
+- Luc_12:26pues si no podéis ni aun lo que es menosG1410
+- Luc_13:24muchos procurarán entrar, y no podránG2480
+- Luc_14:26no aborrece...no puede ser mi discípulo
+- Luc_14:27no lleva su...no puede ser mi discípulo
+- Luc_14:32y si no puede...le envía una embajada y
+- Luc_14:33no renuncia...no puede ser mi discípulo
+- Luc_16:2porque ya no podrás más ser mayordomo
+- Luc_16:3me quita la...Cavar, no puedo; mendigar
+- Luc_16:26pasar de aquí a...no pueden, ni de allá
+- Luc_18:26dijeron: ¿Quién, pues, podrá ser salvo?
+- Luc_19:3no podía a causa de la multitud, pues era
+- Luc_20:36porque no pueden ya más morir, pues son
+- Jua_3:4puede un hombre nacer siendo viejo?
+- Jua_3:4¿puede acaso entrar por segunda vez en el
+- Jua_3:27no puede el hombre recibir nada, si no
+- Jua_5:19digo: No puede el Hijo hacer nada por sí
+- Jua_5:44¿cómo podéis...creer, pues recibís gloria
+- Jua_7:7no puede el mundo aborreceros a vosotros
+- Jua_9:16decían: ¿Cómo puede un hombre pecador
+- Jua_11:37¿no podía éste, que abrió los ojos al
+- Hec_8:31¿y cómo podré, si...no me enseñare?
+- Hec_8:37si crees de todo corazón, bien puedes
+- Hec_10:47¿puede acaso alguno impedir el agua
+- Hec_13:39la ley...no pudisteis ser justificados
+- Hec_17:15viniesen a...lo más pronto que pudiesen
+- Hec_19:16y dominándolos, pudo más que ellos, de
+- Hec_25:5los que de vosotros puedan...desciendan
+- Hec_25:16y pueda defenderse de la acusación
+- Hec_26:32dijo...Podía este hombre ser puesto en
+- Hec_27:39acordaron varar, si pudiesen, la nave
+- Rom_8:7no se sujetan a la ley...tampoco pueden
+- Rom_8:8según la...carne no pueden agradar a Dios
+- 1Co_16:6podrá ser que me quede con vosotros
+- 2Co_1:4para que podamos...consolar a los queG1410
+- 2Co_13:8nada podemos contra la verdad, sino por
+- Gál_4:15si hubieseis podido...hubierais sacado
+- Gál_6:7Dios no puede ser burlado: pues todo lo
+- Efe_6:11para que podáis estar firmes contraG1410
+- Flp_3:21el poder con el cual puede...sujetarG1410
+- Flp_4:13todo lo puedo en Cristo que me fortalece
+- 1Ts_2:6podíamos seros carga como apóstoles
+- Heb_7:25puede también salvar perpetuamente aG1410
+- Stg_1:13Dios no puede ser tentado por el mal
+- Stg_2:14no tiene obras? ¿Podrá la fe salvarle?
+- Stg_3:8que es un mal que no puede ser refrenado
+- Stg_5:16la oración eficaz del justo puede mucho
+- 2Pe_1:15podáis...tener memoria de estas cosasG2192
+- Rev_5:3ninguno...podía abrir el libro, ni aunG1410
+- Rev_6:17ira...¿y quién podrá sostenerse en pie?[[G1410]]
+- Rev_9:20imágenes...las cuales no pueden ver, ni
+- Rev_13:4bestia, y quién podrá luchar contra ella?
+- [Entrada procedente del Apéndice]
+- Gn 31.29, 32; 35.4; 39.4; 44.16, 17; 49.3 Éx 9.16; 15.6, 7, 13; 32.11 Lv 10.10; 25.28, 30 Nm 14.13, 17; 21.26; 31.49 Dt 2.36; 4.37; 8.17, 18; 9.29; 34.12 Jos 17.17 Jue 5.21; 17.2 1 S 2.1, 4, 10; 10.6, 10; 11.6 2 R 13.5; 17.36; 19.26; 22.9 1 Cr 16.11, 27, 28; 25.5; 29.11, 12(2), 30 2 Cr 6.41; 13.20; 16.9; 20.6; 22.9; 25.8; 32.18 Esd 4.23; 8.22 Neh 1.10 Est 1.4; 10.2 Job 5.20; 6.23; 12.13, 16; 23.9; 24.22; 26.2, 12, 14; 30.21; 31.23; 36.19, 22; 37.23 Sal 18.32; 21.1, 13; 22.20; 29.1, 11; 49.15; 54.1; 59.9, 11, 16; 62.11; 63.2; 65.6; 66.3, 7; 68.34(2); 71.18; 74.13; 75.5, 10; 77.14; 78.26; 80.2; 84.7(2); 86.16; 89.17, 24, 48; 90.11; 93.1; 96.6, 7; 105.4; 106.8, 41; 107.2; 110.2, 3; 111.6; 112.9; 132.8, 17; 145.6, 11; 147.5 Pr 3.27; 8.14; 18.21 Is 8.7; 10.13; 11.2, 15; 23.10; 28.20(2); 33.13; 37.27; 40.10, 26; 47.14; 50.2; 51.9; 52.1; 63.1, 15; 64.7 Jer 10.5, 12; 16.21; 27.5; 32.17; 38.10, 11; 48.25; 51.15 Lm 2.17 Ez 17.9; 22.6; 23.5; 29.21; 30.18; 35.5 Dn 2.20, 37; 3.27; 4.30; 6.27; 8.4, 7, 24; 11.3, 16, 17; 12.7 Os 12.3 Am 6.13 Miq 2.1; 3.8; 5.4 Nah 1.3; 2.1 Hab 2.9; 3.4 Mt 6.13; 12.10; 22.29; 24.30; 26.64 Mc 3.2; 5.30; 9.1; 12.24; 13.26; 14.62 Lc 1.17, 35; 4.14, 36; 5.17; 6.19; 8.46; 9.1; 12.5; 20.20; 21.27; 22.69; 24.49 Jn 8.6; 10.18(2); 18.28 Hch 1.8; 3.12; 4.33; 5.4; 6.8; 8.10, 19; 10.38; 20.32 Ro 1.4, 16, 20; 9.17, 22; 15.13, 19 1 Co 1.18, 24; 2.4, 5; 4.19, 20; 5.4; 6.14; 14.13; 15.43, 56 2 Co 4.7; 6.7; 12.9(2); 13.4(2) Ef 1.19(2), 21; 3.7, 16, 20; 6.10 Flp 3.10, 21 Col 1.11; 2.12 1 Ts 1.5 2 Ts 1.7, 9, 11; 2.9, 11 2 Ti 1.7, 8 Heb 1.3; 7.16 1 P 1.5; 4.11 2 P 1.3, 16 Ap 4.11; 5.12, 13; 6.4; 7.2, 12; 9.3(2), 10, 19; 11.6(2), 17; 12.10; 13.2; 14.18; 15.8; 16.9; 17.13; 18.1; 19.1

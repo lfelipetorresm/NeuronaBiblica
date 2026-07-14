@@ -1,0 +1,142 @@
+---
+tipo: concordancia
+palabra: PERSONA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PERSONA
+
+- Gén_12:5y las p que habían adquirido en HaránH5315
+- Gén_14:21dame las p, y toma para ti los bienesH5315
+- Gén_17:14aquella p será cortada de su pueblo; haH5315
+- Gén_36:6Esaú tomó sus...y todas las p de su casaH5315
+- Gén_46:15treinta y tres las p todas de sus hijosH5315
+- Gén_46:18de Zilpa...dio a luz éstos...dieciséis pH5315
+- Gén_46:22hijos de Raquel...por todas catorce pH5315
+- Gén_46:25de Bilha...dio a luz...por todas siete pH5315
+- Gén_46:26las p que vinieron con Jacob a EgiptoH5315
+- Gén_46:26sin las mujeres...todas las p fueron 66H5315
+- Gén_46:27de José...le nacieron en Egipto, dos pH5315
+- Gén_46:27las p de la casa de Jacob...fueron 70H5315
+- Éxo_1:5todas las p que le nacieron a Jacob...70H5315
+- Éxo_12:4tomarán uno según el número de las pH5315
+- Éxo_16:16conforme al número de las p, tomaréisH5315
+- Éxo_21:16que robare una p y la vendiere...moriráH376
+- Éxo_21:30dará por el rescate de su p cuanto leH5315
+- Éxo_30:12uno dará a Jehová el rescate de su pH5315
+- Éxo_30:15-16para hacer expiación por vuestras pH5315
+- Éxo_31:14aquella p será cortada de en medio deH5315
+- Lev_2:1alguna p ofreciere oblación a Jehová
+- Lev_4:2alguna p pecare por yerro en alguno deH5315
+- Lev_4:27si alguna p del pueblo pecare por yerro
+- Lev_5:2p que hubiere tocado...cosa inmunda, seaH5315
+- Lev_5:15alguna p cometiere falta, y pecare porH5315
+- Lev_5:17una p pecare, o hiciere alguna de todasH5315
+- Lev_6:2p pecare e hiciere prevaricación contraH5315
+- Lev_7:18la p que de él comiere llevará su pecadoH5315
+- Lev_7:19toda p limpia podrá comer la carne
+- Lev_7:20la p que comiere la carne del sacrificioH5315
+- Lev_7:20-21, Lev_7:27p será cortada de entre su puebloH5315
+- Lev_7:21la p que tocare alguna cosa inmundaH5315
+- Lev_7:25p que comiere será cortada de entreH5315
+- Lev_11:43no hagáis abominables vuestras p con
+- Lev_11:44no contaminéis...p con ningún animal que
+- Lev_13:39es empeine que brotó...está limpia la p
+- Lev_17:10rostro contra la p que comiere sangreH5315
+- Lev_17:11la misma sangre hará expiación de la pH5315
+- Lev_17:12ninguna p de vosotros comerá sangre, niH5315
+- Lev_17:15cualquier p, así de los naturales comoH5315
+- Lev_18:29las p que las hicieren serán cortadas deH5315
+- Lev_19:8y la tal p será cortada de su puebloH5315
+- Lev_20:6y la p que atendiere a encantadores oH5315
+- Lev_20:6yo pondré mi rostro contra la tal p, yH5315
+- Lev_20:25y no contaminéis vuestras p con..avesH5315
+- Lev_21:11ni entrará donde haya alguna p muertaH5315
+- Lev_22:6la p que lo tocare será inmunda hasta laH5315
+- Lev_23:29p que no se afligiere en este mismo díaH5315
+- Lev_23:30p que hiciere trabajo alguno...este díaH5315
+- Lev_23:30destruiré a la tal p de entre...puebloH5315
+- Lev_24:17que hiere de muerte a cualquiera p, queH376
+- Lev_27:2la estimación de las p que se hayan deH5315
+- Lev_27:29ninguna p separada como anatema podrá
+- Núm_5:7p confesará el pecado que cometió, y
+- Núm_6:6que se aparte...no se acercará a p muertaH5315
+- Núm_9:13dejare de celebrar...tal p será cortadaH5315
+- Núm_15:27una p pecare por yerro, ofrecerá unaH5315
+- Núm_15:28y el sacerdote hará expiación por la pH5315
+- Núm_15:30la p que hiciere algo con soberbia, asíH5315
+- Núm_15:30esa p será cortada de en medio de suH5315
+- Núm_15:31y menospreció su...será cortada esa pH5315
+- Núm_19:11, Núm_19:13que tocare cadáver de cualquier pH5315
+- Núm_19:13aquella p será cortada de Israel; porH5315
+- Núm_19:18y rociará...las p que allí estuvieren, yH5315
+- Núm_19:20tal p será cortada de...la congregaciónH5315
+- Núm_19:22la p que lo tocare será inmunda hastaH5315
+- Núm_31:19cualquiera que haya dado muerte a pH5315
+- Núm_31:26la cuenta...de las p como de las bestiasH120
+- Núm_31:28así de las p como de los bueyes, de losH5315
+- Núm_31:30tomarás uno de cada cincuenta de las pH120
+- Núm_31:35cuanto a p, de mujeres...todas 32.000H5315, [[H120]]
+- Núm_31:40y de las p, 16.000...para Jehová, 32 pH5315, [[H120]]
+- Núm_31:46y de las p, dieciséis milH5315, [[H120]]
+- Núm_31:47tomó...así de las p como de los animalesH120
+- Núm_35:30un solo testigo no hará fe contra una pH5315
+- Deu_1:17no hagáis distinción de p en el juicioH6440
+- Deu_7:10que da el pago en p al que le aborrece
+- Deu_7:10no se demora con...en p le dará el pago
+- Deu_10:17no hace acepción de p, ni toma cohechoH6440
+- Deu_10:22con setenta p descendieron tus padresH5315
+- Deu_16:19hagas acepción de p, ni tomes sobornoH6440
+- Deu_20:16las ciudades...ninguna p dejarás con vida
+- 1Sa_22:22ocasionado la muerte a todas las pH5315
+- 1Sa_28:2yo te constituiré guarda de mi p durante
+- 2Sa_17:11y que tú en p vayas a la batallaH6440
+- 1Re_19:2no he puesto tu p como uno de ellos
+- 2Re_12:4el dinero del rescate de cada p según
+- 1Cr_5:21y tomaron sus ganados...y cien mil p
+- 2Cr_19:7nuestro Dios no hay...acepción de pH6440
+- Est_2:3ponga el rey p en todas las provinciasH6496
+- Job_13:8¿haréis acepción de p a su favor?[[H6440]]
+- Job_13:10si solapadamente hacéis acepción de pH6440
+- Job_32:21no haré ahora acepción de p, ni usareH6440
+- Job_34:19a aquel que no hace acepción de p deH6440
+- Sal_82:2y aceptaréis las p de los impíos?[[H6440]]
+- Sal_105:18con grillos; en cárcel fue puesta su p
+- Pro_18:5tener respeto a la p del impío, paraH6440
+- Pro_24:23hacer acepción de p en el juicio no esH6440
+- Pro_28:21hacer acepción de p no es bueno, hastaH6440
+- Jer_43:6a las hijas del rey y a toda p queH5315
+- Jer_52:29él lleva cautivas de Jerusalén a 832 pH5315
+- Jer_52:30cautiva a 745 p...todas las p...4.600H5315
+- Eze_13:19matando a las p que no deben morirH5315
+- Eze_13:19dando vida a las p que no deben vivirH5315
+- Jon_4:11ciudad donde hay más de 120.000 p queH120
+- Mal_2:9como...en la ley hacéis acepción de p
+- Luc_20:21que no haces acepción de p, sino queG4383
+- Hec_2:41añadieron aquel día como tres mil pG5590
+- Hec_2:43y sobrevino temor a toda p; y muchasG5590
+- Hec_7:14venir...en número de setenta y cinco pG4381
+- Hec_10:34comprendo...Dios no hace acepción de pG5590
+- Hec_27:10y mucha pérdida...también de nuestras pG5590
+- Hec_27:37y éramos todas las p en la nave 276G5590
+- Rom_2:11no hay acepción de p para con DiosG4382
+- Rom_13:1sométase toda p...autoridades superioresG5590
+- Rom_16:18p no sirven a nuestro Señor Jesucristo
+- 1Co_16:16que os sujetéis a p como ellos, y a
+- 1Co_16:18el vuestro; reconoced, pues, a tales p
+- 2Co_1:11que por muchas p sean dadas graciasG4383
+- 2Co_2:6basta a tal p esta reprensión hecha por
+- 2Co_10:11tenga en cuenta tal p, que así como
+- Gál_2:6me importa; Dios no hace acepción de pG4382
+- Efe_6:9y que para él no hay acepción de pG4383
+- Col_3:25hiciere, porque no hay acepción de pG4382
+- Stg_2:1vuestra fe en...sea sin acepción de pG4382
+- Stg_2:9si hacéis acepción de p, cometéis pecadoG4380
+- 1Pe_1:11escudriñando qué p...tiempo indicaba
+- 1Pe_1:17sin acepción de p juzga según la obraG678
+- 1Pe_3:20arca, en la cual pocas p...fueron salvadasG5590
+- 2Pe_2:5que guardó a Noé...con otras siete p
+- 3Jn_1:8nosotros pues, debemos acoger a tales p
+- Jud_1:16adulando a las p para sacar provechoG4383
+- Rev_3:4tienes unas pocas p en Sardis que noG3686

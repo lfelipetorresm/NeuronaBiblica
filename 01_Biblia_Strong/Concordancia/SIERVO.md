@@ -1,0 +1,864 @@
+---
+tipo: concordancia
+palabra: SIERVO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SIERVO
+
+- Véase también Sierva
+- Gén_9:25maldito sea Canaán; s de s será a susH5650
+- Gén_9:26bendito por...sea Sem, y sea Canaán su sH5650
+- Gén_9:27engrandezca...a Jafet...sea Canaán su sH5650
+- Gén_12:16tuvo ovejas...asnos, s, criadas, asnasH5650
+- Gén_14:15cayó sobre ellos de noche, él y sus sH5650
+- Gén_17:23a todos los s nacidos en su casa, y a
+- Gén_17:27el s nacido en casa, y el comprado del
+- Gén_18:3dijo: Señor...ruego que no pases de tu sH5650
+- Gén_18:5por eso habéis pasado cerca de vuestro sH5650
+- Gén_19:2os ruego que vengáis a casa de vuestro sH5650
+- Gén_19:19ha hallado vuestro s gracia en...ojosH5650
+- Gén_20:8Abimelec...llamó a todos sus s, y dijoH5650
+- Gén_20:14s y siervas, y se los dio a AbrahamH5650
+- Gén_21:25que los s de Abimelec le habían quitadoH5650
+- Gén_22:3consigo dos s suyos, y a Isaac su hijoH5288
+- Gén_22:5dijo Abraham a sus s: Esperad aquí conH5288
+- Gén_22:19volvió Abraham a sus s, y...y se fueronH5288
+- Gén_24:14que tú has destinado para tu s IsaacH5650
+- Gén_24:35ha dado...s y siervas, camellos y asnosH5650
+- Gén_26:19los s de Isaac cavaron en el valle, yH5650
+- Gén_26:24te bendeciré...por amor de Abraham mi sH5650
+- Gén_26:25abrieron allí los s de Isaac un pozoH5650
+- Gén_27:37le he dado por s a todos sus hermanosH5650
+- Gén_30:43y tuvo muchas ovejas, y siervas y s, yH5650
+- Gén_32:4dice tu s Jacob: Con Labán he moradoH5650
+- Gén_32:5y tengo vacas, asnos, ovejas, y s yH5650
+- Gén_32:10la verdad que has usado para con tu sH5650
+- Gén_32:16entregó a sus s, cada manada de por síH5650
+- Gén_32:16y dijo a sus s: Pasad delante de mí, yH5650
+- Gén_32:18dirás: Es un presente de tu s JacobH5650
+- Gén_32:20he aquí tu s Jacob viene tras nosotrosH5650
+- Gén_33:5son los niños que Dios ha dado a tu sH5650
+- Gén_33:14pase ahora mi señor delante de su sH5650
+- Gén_39:17el s hebreo que nos trajiste, vino aH5650
+- Gén_39:19diciendo: Así file ha tratado tu s, seH5650
+- Gén_41:10Faraón se enojó contra sus s, nos echóH5650
+- Gén_41:12un joven...s del capitán de la guardiaH5650
+- Gén_41:37pareció bien a Faraón y a sus sH5650
+- Gén_41:38y dijo Faraón a sus s: ¿Acaso...a otroH5650
+- Gén_42:10tus s han venido a comprar alimentosH5650
+- Gén_42:11honrados; tus s nunca fueron espíasH5650
+- Gén_42:13tus s somos doce hermanos, hijos de unH5650
+- Gén_43:18atacarnos...tomarnos por s a nosotrosH5650
+- Gén_43:28bien va a tu s nuestro padre; aún viveH5650
+- Gén_44:7¿por qué dice...Nunca tal hagan tus sH5650
+- Gén_44:9aquel de tus s en quien fuere hallada laH5650
+- Gén_44:9y aun nosotros seremos s de mi señorH5650
+- Gén_44:10aquel en quien se hallare será mi s, yH5650
+- Gén_44:16Dios ha hallado la maldad de tus s; heH5650
+- Gén_44:16he aquí, nosotros somos s de mi señorH5650
+- Gén_44:17en cuyo poder...la copa, él será mi sH5650
+- Gén_44:18permitas que hable tu s una palabra enH5650
+- Gén_44:18y no se encienda tu enojo contra tu sH5650
+- Gén_44:19mi señor preguntó a sus s, diciendoH5650
+- Gén_44:21tú dijiste a tus s: Traédmelo, y pondréH5650
+- Gén_44:23y dijiste a tus s: Si vuestro hermanoH5650
+- Gén_44:24llegamos a mi padre tu s, le contamosH5650
+- Gén_44:27s mi padre nos dijo: Vosotros sabéisH5650
+- Gén_44:30cuando vuelva yo a tu s mi padre, siH5650
+- Gén_44:31tus s harán descender...tu s...al SeolH5650
+- Gén_44:32como tu s salió por fiador del jovenH5650
+- Gén_44:33quede ahora tu s en...por s de mi señorH5650
+- Gén_45:16agradó en los ojos de Faraón y de sus sH5650
+- Gén_46:34hombres de ganadería han sido tus sH5650
+- Gén_47:3pastores de ovejas son tus s, así comoH5650
+- Gén_47:4no hay pasto para las ovejas de tus sH5650
+- Gén_47:4que habiten tus s en la tierra de GosénH5650
+- Gén_47:19cómpranos a nosotros...y seremos...s deH5650
+- Gén_47:25hallemos gracia...y seamos s de FaraónH5650
+- Gén_50:2y mandó José a sus s los médicos queH5650
+- Gén_50:7y subieron con él todos los s de FaraónH5650
+- Gén_50:17perdones la maldad de los s del DiosH5650
+- Gén_50:18él, y dijeron: Henos aquí por s tuyosH5650
+- Éxo_4:10ni desde que tú hablas a tu s; porqueH5650
+- Éxo_5:15Israel...¿Por qué lo haces así con tus s?[[H5650]]
+- Éxo_5:16no se da paja a tus s, y con todo nosH5650
+- Éxo_5:16he aquí tus s son azotados, y el puebloH5650
+- Éxo_5:21nos habéis...delante de Faraón y de sus sH5650
+- Éxo_7:10echó Aarón su vara...Faraón y de sus sH5650
+- Éxo_7:20golpeó las aguas...en presencia de...sus sH5650
+- Éxo_8:3en las casas de tus s, en tu pueblo, enH5650
+- Éxo_8:4sobre ti...tu pueblo, y sobre todos tus sH5650
+- Éxo_8:9cuándo debo orar por ti, por tus s y porH5650
+- Éxo_8:11y las ranas se irán...de tu s y de tusH5650
+- Éxo_8:21yo enviaré sobre ti, sobre tus s...moscasH5650
+- Éxo_8:24toda clase de moscas...las casas de sus sH5650
+- Éxo_8:29moscas se vayan de Faraón, y de sus sH5650
+- Éxo_8:31quitó todas aquellas moscas...de sus sH5650
+- Éxo_9:14enviaré...sobre tus s y sobre tu puebloH5650
+- Éxo_9:20de los s de Faraón, el que tuvo temor deH5650
+- Éxo_9:30que ni tú ni tus s temeréis todavía laH5650
+- Éxo_9:34y endurecieron su corazón él y sus sH5650
+- Éxo_10:1he endurecido su...y el corazón de sus sH5650
+- Éxo_10:6llenará tus...y las casas de todos tus sH5650
+- Éxo_10:7s de Faraón le dijeron: ¿Hasta cuándoH5650
+- Éxo_11:3por gran varón en...a los ojos de los sH5650
+- Éxo_11:8y descenderán a mí todos estos tus sH5650
+- Éxo_12:30se levantó...Faraón, él y todos sus sH5650
+- Éxo_12:44s humano comprado por dinero comerá deH5650
+- Éxo_14:5corazón de Faraón y de sus s se volvióH5650
+- Éxo_14:31y creyeron a Jehová y a Moisés su sH5650
+- Éxo_20:10no hagas en él obra alguna, tú...ni tu sH5650
+- Éxo_20:17no codiciarás la...ni su s, ni su criadaH5650
+- Éxo_21:2comprares s hebreo, seis años serviráH5650
+- Éxo_21:5y si el s dijere: Yo amo a mi señor, aH5650
+- Éxo_21:6le horadará...y será su s...siempreH5650
+- Éxo_21:7no saldrá ella como suelen salir los sH5650
+- Éxo_21:20si alguno hiriere a su s o a su siervaH5650
+- Éxo_21:26hiriere el ojo de su s, o el ojo de suH5650
+- Éxo_21:27y si hiciere saltar un diente de su sH5650
+- Éxo_21:32el buey acorneare a un s o a una siervaH5650
+- Éxo_32:13Isaac...tus s, a los cuales has juradoH5650
+- Lev_23:7-8, Lev_23:21, Lev_23:25, Lev_23:35-36ningún trabajo desharéisH5650
+- Lev_25:6tierra te dará para comer a ti, a tu sH5650
+- Lev_25:42son mis s, los cuales saqué yo de laH5650
+- Lev_25:55mis s son los hijos de Israel...s míosH5650
+- Lev_26:13os saqué de...para que no fueseis sus sH5650
+- Núm_11:11dijo...¿Por qué has hecho mal a tu s?[[H5650]]
+- Núm_12:7no así a mi s Moisés, que es fiel en todaH5650
+- Núm_12:8no...temor de hablar contra mi s Moisés?[[H5650]]
+- Núm_14:24mi s Caleb, por cuanto hubo en él otroH5650
+- Núm_22:18Balaam...dijo a los s de Balac: AunqueH5650
+- Núm_28:18, Núm_28:25-26; Núm_29:1, Núm_29:12, Núm_29:35ninguna obra de s haréisH5650
+- Núm_31:49tus s han tomado razón de los hombresH5650
+- Núm_32:4tierra de ganado, y tus s tienen ganadoH5650
+- Núm_32:5dése esta tierra a tus s en heredad, yH5650
+- Núm_32:25tus s harán como mi señor ha mandadoH5650
+- Núm_32:27tus s...pasarán delante de Jehová a laH5650
+- Núm_32:31haremos lo que Jehová ha dicho a tus sH5650
+- Deu_3:24tú has comenzado a mostrar a tu s tuH5650
+- Deu_5:14ninguna obra harás tú...ni tu s, ni tuH5650
+- Deu_5:14que descanse tu s y tu sierva como túH5650
+- Deu_5:15acuérdate...fuiste s en tierra de EgiptoH5650
+- Deu_5:21ni desearás...su s, ni su sierva, ni suH5650
+- Deu_6:21nosotros éramos s de Faraón en EgiptoH5650
+- Deu_9:27acuérdate de...s Abraham, Isaac y JacobH5650
+- Deu_12:12os alegraréis...vuestros s y...siervasH5650
+- Deu_12:18s, tu sierva, y el levita que habitaH5650
+- Deu_15:15y te acordarás de que fuiste s en laH5650
+- Deu_15:17horadarás su oreja...y será tu s paraH5650
+- Deu_16:11te alegrarás...tu hija, tus, tu siervaH5650
+- Deu_16:12y acuérdate de que fuiste s en EgiptoH5650
+- Deu_16:14tu hija, tu s, tu sierva, y el levitaH5650
+- Deu_23:15no entregarás a...s que se huyere a tiH5650
+- Deu_24:18que te acordarás que fuiste s en EgiptoH5650
+- Deu_24:22acuérdate que fuiste s en...de EgiptoH5650
+- Deu_29:2ha hecho...a Faraón y a todos sus s, yH5650
+- Deu_32:36y por amor de sus s se arrepentiráH5650
+- Deu_32:36viere que...que no queda ni s ni libreH5650
+- Deu_32:43porque él vengará la sangre de sus sH5650
+- Deu_34:5y murió allí Moisés s de Jehová, en laH5650
+- Deu_34:11a Faraón y a todos sus s y a toda suH5650
+- Jos_1:1después de la muerte de Moisés s deH5650
+- Jos_1:2mi s Moisés ha muerto...pues, levántateH5650
+- Jos_1:7hacer...la ley que mi s Moisés te mandóH5650
+- Jos_1:13la palabra que Moisés, s de Jehová, osH5650
+- Jos_1:15la cual Moisés s de Jehová os ha dadoH5650
+- Jos_5:14y le dijo: ¿Qué dice mi Señor a su s?[[H5650]]
+- Jos_8:31, Jos_8:33Moisés s de Jehová lo había mandadoH5650
+- Jos_9:8ellos respondieron a Josué...somos tus sH5650
+- Jos_9:9tus s han venido de tierra muy lejanaH5650
+- Jos_9:11y decidles: Nosotros somos vuestros sH5650
+- Jos_9:23no dejará de haber de entre vosotros sH5650
+- Jos_9:24fue dado a entender a tus s que JehováH5650
+- Jos_9:24mandado a Moisés su s que os había deH5650
+- Jos_10:6a Josué...No niegues ayuda a tus s; subeH5650
+- Jos_11:12Moisés s de Jehová lo había mandadoH5650
+- Jos_11:15Jehová lo había mandado a Moisés su sH5650
+- Jos_12:6a éstos derrotaron Moisés s de JehováH5650
+- Jos_12:6Moisés s de Jehová dio aquella tierraH5650
+- Jos_13:8dio...según se la dio Moisés s de JehováH5650
+- Jos_14:7cuando Moisés s de Jehová me envió deH5650
+- Jos_18:7su heredad...la cual les dio Moisés s deH5650
+- Jos_22:2habéis guardado todo lo que Moisés s deH5650
+- Jos_22:4tierra...que Moisés s de Jehová os dioH5650
+- Jos_22:5la ley que Moisés s de Jehová os ordenóH5650
+- Jos_24:29; Jue_2:8murió Josué hijo de Nun, sH5650
+- Jue_3:24vinieron los s del rey, los cualesH5650
+- Jue_6:27Gedeón tomó diez hombres de...s, e hizoH5650
+- Jue_15:18has dado...salvación por mano de tu sH5650
+- Jue_19:19pan...para el criado que está con tu sH5650
+- 1Sa_3:9dirás: Habla, Jehová, porque tu s oyeH5650
+- 1Sa_3:10Samuel dijo: Habla, porque tu s oyeH5650
+- 1Sa_8:14tomará lo mejor de...y los dará a sus sH5650
+- 1Sa_8:15diezmará vuestro grano y...dar a sus...sH5650
+- 1Sa_8:16tomará vuestros s y vuestras siervasH5650
+- 1Sa_8:17diezmará...vuestros rebaños, y seréis...sH5650
+- 1Sa_12:19ruega por tus s a Jehová tu Dios, paraH5650
+- 1Sa_16:16diga...a tus s que están delante de tiH5650
+- 1Sa_17:8¿no soy yo el...y vosotros los s de Saúl?[[H5650]]
+- 1Sa_17:9venciere, nosotros seremos vuestros sH5650
+- 1Sa_17:9lo venciere, vosotros seréis nuestros sH5650
+- 1Sa_17:32tu s irá y peleará contra este filisteoH5650
+- 1Sa_17:34s era pastor de las ovejas de su padreH5650
+- 1Sa_17:36fuese león, fuese oso, tu s lo matabaH5650
+- 1Sa_17:58David...soy hijo de tu s Isaí de BelénH5650
+- 1Sa_18:5era acepto...a los ojos de los s de SaúlH5650
+- 1Sa_18:22mandó Saúl a sus s...Hablad en secretoH5650
+- 1Sa_18:22el rey...y todos sus s te quieren bienH5650
+- 1Sa_18:26cuando sus s declararon a David estasH5650
+- 1Sa_18:30tenía más éxito que todos los s de SaúlH5650
+- 1Sa_19:1Saúl a Jonatán su hijo, y a todos sus sH5650
+- 1Sa_19:4dijo: No peque el rey contra su s DavidH5650
+- 1Sa_20:7si él dijere: Bien está...tendrá paz tu sH5650
+- 1Sa_20:8harás...misericordia con tu s, ya que hasH5650
+- 1Sa_20:8que has hecho entrar a tu s en pacto deH5650
+- 1Sa_21:7de los s de Saúl, cuyo nombre era DoegH5650
+- 1Sa_21:11los s de Aquis le dijeron: ¿No es ésteH5650
+- 1Sa_21:14dijo Aquis a sus s: He aquí, veis queH5650
+- 1Sa_22:6y todos sus s estaban alrededor de élH5650
+- 1Sa_22:7dijo Saúl a sus s...Oíd ahora, hijos deH5650
+- 1Sa_22:8mi hijo ha levantado a mi s contra míH5650
+- 1Sa_22:9Doeg...era el principal de los s de SaúlH5650
+- 1Sa_22:14¿y quién entre todos tus s es tan fielH5650
+- 1Sa_22:15no culpe el rey...a su s, ni a toda laH5650
+- 1Sa_22:15tu s ninguna cosa sabe de este asuntoH5650
+- 1Sa_22:17los s del rey no quisieron extender susH5650
+- 1Sa_23:10tu s tiene entendido que Saúl trata deH5650
+- 1Sa_23:11¿descenderá Saúl, como ha oído tu s?[[H5650]]
+- 1Sa_23:11Jehová...ruego que lo declares a tu sH5650
+- 1Sa_25:8que des lo que tuvieres a mano a tus sH5650
+- 1Sa_25:10muchos s hay...que huyen de sus señoresH5650
+- 1Sa_25:39Jehová...ha preservado del mal a su sH5650
+- 1Sa_25:40y los s de David vinieron a Abigail enH5650
+- 1Sa_25:41para lavar los pies de los s de mi señorH5650
+- 1Sa_26:18¿por qué persigue así mi señor a su s?[[H5650]]
+- 1Sa_26:19señor oiga ahora las palabras de su sH5650
+- 1Sa_27:5morar tu s contigo en la ciudad real?[[H5650]]
+- 1Sa_27:12y Aquis...decía: el...será siempre mi sH5650
+- 1Sa_28:2muy bien, tú sabrás lo que hará tu sH5650
+- 1Sa_28:23porfiaron con él sus s...con la mujerH5650
+- 1Sa_28:25lo trajo delante de Saúl y de sus sH5650
+- 1Sa_29:3¿no es éste David, el s de Saúl rey deH5650
+- 1Sa_29:8¿qué has hallado en tu s desde el díaH5650
+- 1Sa_29:10levántate...tú y los s de tu señor queH5650
+- 1Sa_30:13yo soy s de un amalecita, y me dejó miH5650
+- 2Sa_2:12Abner...salió...con los s de Is-bosetH5650
+- 2Sa_2:13y Joab hijo de Sarvia y los s de DavidH5650
+- 2Sa_2:15de Benjamín...y doce de los s de DavidH5650
+- 2Sa_2:17de Israel...vencidos por los s de DavidH5650
+- 2Sa_2:30faltaron de los s de David 19 hombresH5650
+- 2Sa_2:31los s de David hirieron de...de BenjamínH5650
+- 2Sa_3:18la mano de mi s David libraré a IsraelH5650
+- 2Sa_3:22los s de David y Joab venían del campoH5650
+- 2Sa_3:38dijo el rey a sus s: ¿No sabéis que unH5650
+- 2Sa_6:20delante de las criadas de sus s, comoH5650
+- 2Sa_7:5y dí a mi s David: Así ha dicho JehováH5650
+- 2Sa_7:8así a mi s David: Así ha dicho Jehová deH5650
+- 2Sa_7:19también has hablado de la casa de tu sH5650
+- 2Sa_7:20pues tú conoces a tu s, Señor JehováH5650
+- 2Sa_7:21todas estas...haciéndolas saber a tu sH5650
+- 2Sa_7:25la palabra que has hablado sobre tu sH5650
+- 2Sa_7:26y que la casa de tu s David sea firmeH5650
+- 2Sa_7:27revelaste al oído de tu s, diciendo: YoH5650
+- 2Sa_7:27tu s ha hallado en su corazón valor paraH5650
+- 2Sa_7:28Dios...tú has prometido este bien a tu sH5650
+- 2Sa_7:29ahora a bien bendecir la casa de tu sH5650
+- 2Sa_7:29será bendita la casa de tu s...siempreH5650
+- 2Sa_8:2fueron los moabitas s de David...tributoH5650
+- 2Sa_8:6y los sirios fueron hechos s de DavidH5650
+- 2Sa_8:7los escudos de oro que traían los s deH5650
+- 2Sa_8:14y todos los edomitas fueron s de DavidH5650
+- 2Sa_9:2había un s de la casa de Saúl...Siba, alH5650
+- 2Sa_9:2dijo: ¿Eres tú Siba? Y él respondió: Tu sH5650
+- 2Sa_9:6Mefi-boset...Y el respondió: He aquí tu sH5650
+- 2Sa_9:8¿quién es tu s...mires a un perro muertoH5650
+- 2Sa_9:9el rey llamó a Siba s de Saúl, y le dijoH5650
+- 2Sa_9:10labrarás las...tú con tus hijos y tus sH5650
+- 2Sa_9:10y tenía Siba quince hijos y veinte sH5650
+- 2Sa_9:11que ha mandado...a su s, así lo hará tu sH5650
+- 2Sa_9:12de la casa de Siba eran s de Mefi-bosetH5650
+- 2Sa_10:2envió...s para consolarlo por su padreH5650
+- 2Sa_10:2llegados los s de David a la tierra deH5650
+- 2Sa_10:3¿no ha enviado David sus s...reconocerH5650
+- 2Sa_10:4tomó los s de David...rapó la mitad deH5650
+- 2Sa_11:1David envió a Joab, y con él a sus s yH5650
+- 2Sa_11:9durmió...con todos los s de su señor, yH5650
+- 2Sa_11:11Joab, y los s de mi señor, en el campoH5650
+- 2Sa_11:13salió...a dormir...con los s de su señorH5650
+- 2Sa_11:17y cayeron algunos...de los s de DavidH5650
+- 2Sa_11:21le dirás...tu s Urías heteo es muertoH5650
+- 2Sa_11:24pero los flecheros tiraron contra tus sH5650
+- 2Sa_11:24y murieron algunos de los s del reyH5650
+- 2Sa_11:24rey; y murió también tu s Urías heteoH5650
+- 2Sa_12:18y temían los s...hacerle saber que elH5650
+- 2Sa_12:19David, viendo a sus s hablar entre síH5650
+- 2Sa_12:19dijo David a sus s: ¿Ha muerto el niño?[[H5650]]
+- 2Sa_12:21y le dijeron sus s: ¿Qué es esto que hasH5650
+- 2Sa_13:24he aquí, tu s tiene ahora esquiladoresH5650
+- 2Sa_13:24ruego que venga el rey y sus s con tu sH5650
+- 2Sa_13:35que vienen; es así como tu s ha dichoH5650
+- 2Sa_13:36el mismo rey y todos sus s lloraron conH5650
+- 2Sa_14:19tu s Joab, él me mandó, y él puso enH5650
+- 2Sa_14:20para mudar el...Joab tu s ha hecho estoH5650
+- 2Sa_14:22hoy ha entendido tu s que he halladoH5650
+- 2Sa_14:22ha hecho el rey lo que su s ha dichoH5650
+- 2Sa_14:30dijo a sus s: Mirad, el campo de JoabH5650
+- 2Sa_14:30y los s de Absalón prendieron fuego alH5650
+- 2Sa_14:31han prendido fuego tus s a mi campo?[[H5650]]
+- 2Sa_15:2tu s es de una de las tribus de IsraelH5650
+- 2Sa_15:8tu s hizo voto cuando estaba en GesurH5650
+- 2Sa_15:14David dijo a...sus s que estaban con élH5650
+- 2Sa_15:15los s del rey dijeron al rey: He aquíH5650
+- 2Sa_15:15aquí, tus s están listos a todo lo queH5650
+- 2Sa_15:18sus s pasaban a su lado...los cereteosH5650
+- 2Sa_15:21el rey estuviere...estará también tu sH5650
+- 2Sa_15:34sido s de tu padre...seré ahora s tuyoH5650
+- 2Sa_16:6arrojando piedras contra...los s del reyH5650
+- 2Sa_16:11y dijo David a Abisai y a todos sus sH5650
+- 2Sa_18:7cayó...Israel delante de los s de DavidH5650
+- 2Sa_18:9se encontró Absalón con los s de DavidH5650
+- 2Sa_18:29cuando envió...al s del rey y a mí tu sH5650
+- 2Sa_19:5hoy has avergonzado el rostro de...tus sH5650
+- 2Sa_19:6que nada te importan tus príncipes y sH5650
+- 2Sa_19:7vé afuera y habla...a tus s; porque juroH5650
+- 2Sa_19:14decir al rey: Vuelve tú, y todos tus sH5650
+- 2Sa_19:17venían...Siba, criado de...y sus veinte sH5650
+- 2Sa_19:19memoria de los males que tu s hizo elH5650
+- 2Sa_19:20porque yo tu s reconozco haber pecadoH5650
+- 2Sa_19:26mi s me engañó; pues tu s había dichoH5650
+- 2Sa_19:26y montaré en él...porque tu s es cojoH5650
+- 2Sa_19:27él ha calumniado a tu s delante de miH5650
+- 2Sa_19:28pusiste a tu s entre los convidados aH5650
+- 2Sa_19:35¿tomará gusto ahora tu s en lo que comaH5650
+- 2Sa_19:35¿para qué...de ser tu s una carga paraH5650
+- 2Sa_19:36pasará tu s un poco...allá del JordánH5650
+- 2Sa_19:37te ruego que dejes volver a tu s, y queH5650
+- 2Sa_19:37he aquí a tu s Quimam; que pase él conH5650
+- 2Sa_19:41pasar...a todos los s de David con él?[[H5650]]
+- 2Sa_20:6toma...tú los s de tu señor, y vé tras élH5650
+- 2Sa_21:15guerra...descendió David y sus s con élH5650
+- 2Sa_21:22por mano de David y por mano de sus sH5650
+- 2Sa_24:10te ruego que quites el pecado de tu sH5650
+- 2Sa_24:20y Arauna miró, y vio al rey y a sus sH5650
+- 2Sa_24:21¿por qué viene mi señor el rey a su s?[[H5650]]
+- 1Re_1:2le dijeron...s: Busquen para mi señorH5650
+- 1Re_1:9convidó...los varones de Judá, s del reyH5650
+- 1Re_1:19Joab...mas a Salomón tu s no ha convidadoH5650
+- 1Re_1:26ni a mí tu s, ni al sacerdote Sadoc, niH5650
+- 1Re_1:26ni al...ni a Salomón tu s, ha convidadoH5650
+- 1Re_1:27haber declarado a tus s quién se habíaH5650
+- 1Re_1:33tomad...los s de vuestro señor, y montadH5650
+- 1Re_1:47aun los s del rey han venido a bendecirH5650
+- 1Re_1:51júreme...que no matará a espada a su sH5650
+- 1Re_2:38mi señor ha dicho, así lo hará tu sH5650
+- 1Re_2:39dos s de Simei huyeron a Aquis hijo deH5650
+- 1Re_2:39diciendo: He aquí que tus s están en GatH5650
+- 1Re_2:40para buscar a sus s...y trajo sus s de GatH5650
+- 1Re_3:6tú hiciste gran misericordia a tu s DavidH5650
+- 1Re_3:7has puesto a mí tu s por rey en lugar deH5650
+- 1Re_3:8tu s está en medio de tu pueblo al cualH5650
+- 1Re_3:9da, pues, a tu s corazón entendido paraH5650
+- 1Re_3:15e hizo también banquete a todos sus sH5650
+- 1Re_5:1Hiram rey de Tiro envió...sus s a SalomónH5650
+- 1Re_5:6del Líbano; y mis s estarán con los tuyosH5650
+- 1Re_5:6yo te daré por tus s el salario que túH5650
+- 1Re_5:9mis s la llevarán desde el Líbano al marH5650
+- 1Re_8:23que guardas...y la misericordia a tus sH5650
+- 1Re_8:24que has cumplido a tu s David mi padreH5650
+- 1Re_8:25cumple a tu s David...que le prometisteH5650
+- 1Re_8:26la palabra que dijiste a tu s David miH5650
+- 1Re_8:28tú atenderás a la oración de tu s, y aH5650
+- 1Re_8:28oyendo...y la oración que tu s hace hoyH5650
+- 1Re_8:29oigas la oración que tu s haga en esteH5650
+- 1Re_8:30oye, pues, la oración de tu s, y de tuH5650
+- 1Re_8:32juzgarás a tus s, condenando al impíoH5650
+- 1Re_8:36oirás...y perdonarás el pecado de tus sH5650
+- 1Re_8:52atentos tus ojos a la oración de tu sH5650
+- 1Re_8:53como lo dijiste por medio de Moisés tu sH5650
+- 1Re_8:56promesas que expresó por Moisés su s, ha faltadoH5650
+- 1Re_8:59que él proteja la causa de su s y de suH5650
+- 1Re_8:66beneficios que...había hecho a David su sH5650
+- 1Re_9:27envió Hiram en ellas a sus s...con los sH5650
+- 1Re_10:8dichosos estos tus s, que...delante de tiH5650
+- 1Re_11:11de ti el reino, y lo entregaré a tu sH5650
+- 1Re_11:13daré una tribu...por amor a David mi sH5650
+- 1Re_11:17con él algunos varones...s de su padreH5650
+- 1Re_11:26Jeroboam...s de Salomón, cuya madre seH5650
+- 1Re_11:32tendrá una tribu por amor a David mi sH5650
+- 1Re_11:34lo retendré por rey...amor a David mi sH5650
+- 1Re_11:36que mi s David tenga lámpara...delanteH5650
+- 1Re_11:38como...David mi s, yo estaré contigo yH5650
+- 1Re_12:7si tú fueres hoy s de este pueblo y loH5650
+- 1Re_14:8no has sido como David mi s, que guardóH5650
+- 1Re_14:10y destruiré...así el s como el libre enH5650
+- 1Re_14:18la cual él había hablado por su s...AhíasH5650
+- 1Re_15:18y los tesoros de...los entregó a sus sH5650
+- 1Re_15:29la palabra que Jehová habló por su sH5650
+- 1Re_16:9conspiró...su s Zimri, comandante de laH5650
+- 1Re_18:9entregues a tu s en mano de Acab paraH5650
+- 1Re_18:12y tu s teme a Jehová desde su juventudH5650
+- 1Re_18:36que tú eres Dios en...y que yo soy tu sH5650
+- 1Re_20:6mis s...registrarán...las casas de tus sH5650
+- 1Re_20:9decid...Haré todo lo que mandaste a tu sH5650
+- 1Re_20:12dijo a sus s: Disponeos...Y ellos seH5650
+- 1Re_20:14por mano de los s de los príncipes deH5288
+- 1Re_20:15pasó revista a los s de los príncipesH5288
+- 1Re_20:17los s de los príncipes...salieron losH5288
+- 1Re_20:19salieron, pues...los s de los príncipesH5288
+- 1Re_20:23los s del rey de Siria le dijeron: SusH5650
+- 1Re_20:31sus s le dijeron: He aquí, hemos oídoH5650
+- 1Re_20:32tu s Ben-adad dice: Te ruego que vivaH5650
+- 1Re_20:39tu s salió en medio de la batalla; yH5650
+- 1Re_20:40mientras tu s estaba ocupado en una yH5650
+- 1Re_21:21barreré...el s como el libre en Israel
+- 1Re_22:3rey de Israel dijo a sus s: ¿No sabéisH5650
+- 1Re_22:49vayan mis s con los tuyos en las navesH5650
+- 2Re_1:13y la vida de estos tus cincuenta sH5650
+- 2Re_2:16he aquí hay con tus s 50 varones fuertesH5650
+- 2Re_3:11y uno de los s del rey de Israel...dijoH5650
+- 2Re_4:1tu s mi marido ha muerto; y tú sabes queH5650
+- 2Re_4:1tú sabes que tu s era temeroso de JehováH5650
+- 2Re_4:1acreedor para tomarse dos hijos...por sH5650
+- 2Re_5:6yo envío a ti mi s Naamán, para que loH5650
+- 2Re_5:15ruego que recibas algún presente de tu sH5650
+- 2Re_5:17no se dará a tu s la carga de un par deH5650
+- 2Re_5:17tu s no sacrificará...a otros dioses, sinoH5650
+- 2Re_5:18esto perdone Jehová a tu s; que cuandoH5650
+- 2Re_5:18haga tal, Jehová perdone en esto a tu sH5650
+- 2Re_5:25él dijo: Tu s no ha ido a ninguna parteH5650
+- 2Re_5:26¿es tiempo de tomar plata...bueyes, s yH5650
+- 2Re_6:3y dijo...Te rogamos que vengas con tus sH5650
+- 2Re_6:8consultando con sus s, dijo: En tal y talH5650
+- 2Re_6:11rey...llamando a sus s, les dijo: ¿No meH5650
+- 2Re_6:12de los s dijo: No, rey señor mío, sinoH5650
+- 2Re_7:12levantó el rey de noche, y dijo a sus sH5650
+- 2Re_7:13entonces respondió uno de sus s y dijoH5650
+- 2Re_8:13¿qué es tu s, este perro, para que hagaH5650
+- 2Re_8:19Jehová no quiso...por amor a David su sH5650
+- 2Re_9:7yo vengue la sangre de mis s los profetasH5650
+- 2Re_9:7y la sangre de todos los s de Jehová, deH5650
+- 2Re_9:8y destruiré de Acab...al s como al libreH5650
+- 2Re_9:11salió Jehú a los s...dijeron: ¿Hay paz?[[H5650]]
+- 2Re_9:28sus s le llevaron...a Jerusalén, y alláH5650
+- 2Re_9:36él habló por medio de su s Elías tisbitaH5650
+- 2Re_10:5s tuyos somos, y haremos todo lo que nosH5650
+- 2Re_10:10Jehová ha hecho lo que dijo por su sH5650
+- 2Re_10:19llamadme...los profetas de Baal...sus sH5650
+- 2Re_10:21y vinieron todos los s de Baal, de talH5650
+- 2Re_10:22saca vestiduras para todos...s de BaalH5650
+- 2Re_10:23dijo a los s de Baal: Mirad y ved queH5650
+- 2Re_10:23de los s de Jehová...sólo los s de BaalH5650
+- 2Re_12:20se levantaron sus s, y conspiraron enH5650
+- 2Re_12:21y Jozabad...sus s, le hirieron, y murióH5650
+- 2Re_14:5mató a los s que habían dado muerte alH5650
+- 2Re_14:25había hablado por su s Jonás hijo deH5650
+- 2Re_14:26había s ni libre, ni quien diese ayudaH5650
+- 2Re_16:7diciendo: Yo soy tu s y tu hijo; subeH5650
+- 2Re_17:3Oseas...hecho su s, y le pagaba tributoH5650
+- 2Re_17:13que os he enviado por medio de mis sH5650
+- 2Re_17:23había dicho por medio de todos sus sH5650
+- 2Re_18:12que Moisés s de Jehová había mandadoH5650
+- 2Re_18:24podrás resistir...al menor de los s deH5650
+- 2Re_18:26te rogamos que hables a tus s en arameoH5650
+- 2Re_19:5vinieron, pues, los s del rey...a IsaíasH5650
+- 2Re_19:6han blasfemado los s del rey de AsiriaH5650
+- 2Re_19:34para salvarla...y por amor a David mi sH5650
+- 2Re_20:6y ampararé esta...por amor a David mi sH5650
+- 2Re_21:8a toda la ley que mi s Moisés les mandóH5650
+- 2Re_21:10habló, pues, Jehová por medio de sus sH5650
+- 2Re_21:23y los s de Amón conspiraron contra élH5650
+- 2Re_22:9dijo: Tus s han recogido el dinero queH5650
+- 2Re_22:12dio orden...a Asaías s del rey, diciendoH5650
+- 2Re_23:30sus s lo pusieron en un carro...muertoH5650
+- 2Re_24:1Joacim vino a ser su s por tres añosH5650
+- 2Re_24:2la palabra...que había hablado por sus sH5650
+- 2Re_24:10subieron...los s de Nabucodonosor reyH5650
+- 2Re_24:11vino...cuando sus s la tenían sitiadaH5650
+- 2Re_24:12salió Joaquín rey...sus s, sus príncipesH5650
+- 2Re_25:8vino Nabuzaradán...s del rey de BabiloniaH5650
+- 2Re_25:24dijo: No temáis de ser s de los caldeosH5650
+- 1Cr_2:34tenía Sesán un s egipcio llamadoH5650
+- 1Cr_6:49lo que Moisés s de Dios había mandadoH5650
+- 1Cr_16:13vosotros, hijos de Israel su s, hijosH5650
+- 1Cr_17:4y dí a David mi s: Así ha dicho JehováH5650
+- 1Cr_17:7ahora dirás a mi s David: Así ha dichoH5650
+- 1Cr_17:17pues que has hablado de la casa de tu sH5650
+- 1Cr_17:18glorificar a tu s...tú conoces a tu sH5650
+- 1Cr_17:19por amor de tu s...has hecho toda estaH5650
+- 1Cr_17:23palabra...acerca de tu s y de su casaH5650
+- 1Cr_17:24casa de tu s David firme delante de tiH5650
+- 1Cr_17:25revelaste al oído a tu s que le has deH5650
+- 1Cr_17:25hallado tu s motivo para orar delanteH5650
+- 1Cr_17:26eres el Dios que has hablado de tu sH5650
+- 1Cr_17:27has querido bendecir la casa de tu sH5650
+- 1Cr_18:2Moab, y los moabitas fueron s de DavidH5650
+- 1Cr_18:6y los sirios fueron hechos s de DavidH5650
+- 1Cr_18:7los escudos de oro que llevaban los sH5650
+- 1Cr_18:13todos los edomitas fueron s de DavidH5650
+- 1Cr_19:2llegaron los s de David a la tierra deH5650
+- 1Cr_19:3¿no vienen más...sus s a ti para espiarH5650
+- 1Cr_19:4Hanún tomó los s de David y los rapó, yH5650
+- 1Cr_19:19sirios...paz con David, y fueron susH5650
+- 1Cr_20:8cayeron por mano de David y de sus sH5650
+- 1Cr_21:3¿no son todos...s de mi señor? ¿Para quéH5650
+- 1Cr_21:8ruego que quites la iniquidad de tu sH5650
+- 2Cr_1:3que Moisés s de Jehová había hechoH5650
+- 2Cr_2:8tus s saben cortar...mis s irán con losH5650
+- 2Cr_2:10para...tus s, cortadores de madera, heH5650
+- 2Cr_2:15pues, envíe mi señor a sus s el trigoH5650
+- 2Cr_6:14que guardas el pacto y...con tus s queH5650
+- 2Cr_6:15guardado a tu s David mi padre lo queH5650
+- 2Cr_6:16cumple a tu s David mi padre lo que leH5650
+- 2Cr_6:17cúmplase tu palabra que dijiste a tu sH5650
+- 2Cr_6:19la oración de tu s...con que tu s oraH5650
+- 2Cr_6:20oigas la oración con que tu s ora enH5650
+- 2Cr_6:21oigas el ruego de tu s, y de tu puebloH5650
+- 2Cr_6:23y juzgarás a tus s, dando la paga alH5650
+- 2Cr_6:27perdonarás el pecado de tus s y de tuH5650
+- 2Cr_6:42acuérdate de tus...para con David tu sH5650
+- 2Cr_8:9de Israel no puso Salomón s en su obraH5650
+- 2Cr_8:18había enviado naves por mano de sus sH5650
+- 2Cr_8:18fueron con los s de Salomón a Ofir, yH5650
+- 2Cr_9:7y dichosos estos s tuyos...delante de tiH5650
+- 2Cr_9:10los s de Hiram y los s de Salomón, queH5650
+- 2Cr_9:12la reina de Sabá...a su tierra con sus sH5650
+- 2Cr_9:21la flota del rey iba a Tarsis con los sH5650
+- 2Cr_12:8serán sus s, para que sepan lo que esH5650
+- 2Cr_13:6Jeroboam...s de Salomón...rebeló contraH5650
+- 2Cr_17:19éstos eran s del rey, sin los que elH5650
+- 2Cr_24:6ofrenda que Moisés s de Jehová impusoH5650
+- 2Cr_24:9la ofrenda que Moisés s de Dios habíaH5650
+- 2Cr_24:25conspiraron contra él sus s a causa deH5650
+- 2Cr_25:3mató a los s que habían matado al reyH5650
+- 2Cr_28:10sujetar a vosotros a Judá y a...como sH5650
+- 2Cr_32:9sus s a Jerusalén para decir a EzequíasH5650
+- 2Cr_32:16otras cosas más hablaron sus s contraH5650
+- 2Cr_32:16contra...Dios, y contra su s EzequíasH5650
+- 2Cr_33:24y conspiraron contra él sus s, y loH5650
+- 2Cr_34:16tus s han cumplido todo lo que les fueH5650
+- 2Cr_34:20mandó...a Safán...y a Asaías s del reyH5650
+- 2Cr_35:23dijo el rey a sus s: Quitadme de aquíH5650
+- 2Cr_35:24sus s lo sacaron de aquel carro, y loH5650
+- 2Cr_36:20cautivos a Babilonia, y fueron s de élH5650
+- Esd_2:55hijos de los s de Salomón: los hijosH5650
+- Esd_2:58todos...e hijos de los s de Salomón, 392H5650
+- Esd_2:65sin contar sus s y siervas, los cualesH5650
+- Esd_4:11tus s del otro lado del río te saludanH5650
+- Esd_5:11nosotros somos s del Dios del cielo y deH5650
+- Esd_9:9s somos; mas en nuestra servidumbre noH5650
+- Esd_9:11que prescribiste por medio de tus s losH5650
+- Neh_1:6para oir la oración de tu s, que hagoH5650
+- Neh_1:6la oración...por los hijos de Israel tus sH5650
+- Neh_1:7los...y preceptos que diste a Moisés tu sH5650
+- Neh_1:8palabra que diste a Moisés tu s, diciendoH5650
+- Neh_1:10ellos, pues, son tus s y tu pueblo, losH5650
+- Neh_1:11a la oración de tu s, y a la...de tus sH5650
+- Neh_1:11concede...buen éxito a tu s, y dale graciaH5650
+- Neh_2:5y tu s ha hallado gracia delante de tiH5650
+- Neh_2:10pero oyéndolo...Tobías el s amonita, lesH5650
+- Neh_2:19cuando lo oyeron...Tobías el s amonitaH5650
+- Neh_2:20sus s nos levantaremos y edificaremosH5650
+- Neh_4:16la mitad de mis s trabajaba en la obraH5650
+- Neh_7:57los hijos de los s de Salomón: los hijosH5650
+- Neh_7:60todos...e hijos de los s de Salomón, 392H5650
+- Neh_7:67sus s y siervas, que eran 7:337; y entreH5650
+- Neh_9:10e hiciste señales...contra todos sus sH5650
+- Neh_9:14por mano de Moisés tu s les prescribisteH5650
+- Neh_9:36hoy Somos s; henos aquí s en la tierraH5650
+- Neh_10:29que fue dada por Moisés s de Dios, yH5650
+- Neh_11:3templo y los hijos de los s de SalomónH5650
+- Est_2:18hizo...gran banquete a todos sus...sH5650
+- Est_3:2todos los s del rey que...se arrodillabanH5650
+- Est_3:3y los s del rey que estaban a la puertaH5650
+- Est_4:11los s del rey, y...saben que cualquierH5650
+- Est_5:11le había honrado sobre los...s del reyH5650
+- Est_7:4si para s y siervas fuéramos vendidosH5650
+- Job_1:8; Job_2:3¿no has considerado a mi s JobH5650
+- Job_3:19allí están el...y el s libre de su señorH5650
+- Job_4:18en sus s no confía, y notó necedad enH5650
+- Job_7:2como el s suspira por la sombra, y comoH5650
+- Job_19:16llamé a mi s, y no respondió; de miH5650
+- Job_31:13tenido en poco el derecho de mi s y deH5650
+- Job_31:31si mis s no decían: ¿Quién no se haH5650
+- Job_41:4¿hará pacto...lo tomes por s perpetuo?[[H5650]]
+- Job_42:7-8no habéis hablado de...como mi s JobH5650
+- Job_42:8id a mi s Job, y ofreced holocausto porH5650
+- Job_42:8mi s Job orará por vosotros; porque deH5650
+- Sal 18,36, títsH...salmo de David, s de JehováH5650
+- Sal_19:11tu s es además amonestado con ellos; enH5650
+- Sal_19:13preserva...a tu s de las soberbias, queH5650
+- Sal_27:9no apartes con ira a tu s; mi ayuda hasH5650
+- Sal_31:16haz resplandecer tu rostro sobre tu sH5650
+- Sal_34:22Jehová redime el alma de sus s, y noH5650
+- Sal_35:27digan...Jehová, que ama la paz de su sH5650
+- Sal_69:17no escondas de tu s tu rostro, porqueH5650
+- Sal_69:36la descendencia de sus s la heredaráH5650
+- Sal_78:70eligió a David su s, y lo tomó de lasH5650
+- Sal_79:2cuerpos de tus s por comida a las avesH5650
+- Sal_79:10la venganza de la sangre de tus s queH5650
+- Sal_86:2salva...Dios mío, a tu s que en ti confíaH5650
+- Sal_86:4alegra el alma de tu s, porque a ti, ohH5650
+- Sal_86:16da tu poder a tu s, y guarda al hijoH5650
+- Sal_89:3pacto con...juré a David mi s, diciendoH5650
+- Sal_89:20hallé a David mi s; lo ungí con...unciónH5650
+- Sal_89:39rompiste el pacto de tu s...profanadoH5650
+- Sal_89:50Señor, acuérdate del oprobio de tus sH5650
+- Sal_90:13vuélvete, oh...aplácate para con tus sH5650
+- Sal_90:16aparezca en tus s tu obra, y tu gloriaH5650
+- Sal_102:14porque tus s aman sus piedras, y delH5650
+- Sal_102:28los hijos de tus s habitarán segurosH5650
+- Sal_105:6descendencia de Abraham su s, hijos deH5650
+- Sal_105:17envió...a José, que fue vendido por sH5650
+- Sal_105:25para que contra sus s pensasen malH5650
+- Sal_105:26envió a su s Moisés, y a Aarón, al cualH5650
+- Sal_105:42su santa palabra dada a Abraham su sH5650
+- Sal_109:28sean avergonzados, y regocíjese tu sH5650
+- Sal_113:1alabad, s de Jehová, alabad el nombreH5650
+- Sal_116:16yo soy tu s, s tuyo soy, hijo de tuH5650
+- Sal_119:17haz bien a tu s; que viva, y guardeH5650
+- Sal_119:23mas tu s meditaba en tus estatutosH5650
+- Sal_119:38confirma tu palabra a tu s...te temeH5650
+- Sal_119:49acuérdate de la palabra dada a tu sH5650
+- Sal_119:65bien has hecho con tu s, oh JehováH5650
+- Sal_119:76sea...conforme a lo que has dicho a tu sH5650
+- Sal_119:84¿cuántos son los días de tu s? ¿CuándoH5650
+- Sal_119:122afianza a tu s para bien; no permitasH5650
+- Sal_119:124haz con tu s según tu misericordiaH5650
+- Sal_119:125tu s soy yo, dame entendimiento paraH5650
+- Sal_119:135que tu rostro resplandezca sobre tu sH5650
+- Sal_119:140pura es tu palabra, y la ama tu sH5650
+- Sal_119:176busca...s, porque no me he olvidado deH5650
+- Sal_123:2como los ojos de los s miran a la manoH5650
+- Sal_132:10por amor de David tu s no vuelvas deH5650
+- Sal_134:1mirad, bendecid a Jehová...s de JehováH5650
+- Sal_135:1alabad el nombre...alabadle, s de JehováH5650
+- Sal_135:9señales...contra Faraón, y...todos sus sH5650
+- Sal_135:14juzgará a...y se compadecerá de sus sH5650
+- Sal_136:22en heredad a Israel su s, porque paraH5650
+- Sal_143:2no entres en juicio con tu s; porqueH5650
+- Sal_143:12destruirás a todos mis...yo soy tu sH5650
+- Sal_144:10que rescata de...espada a David su sH5650
+- Pro_11:29el necio será s del sabio de corazónH5650
+- Pro_17:2el s prudente se enseñoreará del hijoH5650
+- Pro_19:10menos al s ser señor de los príncipes![[H5650]]
+- Pro_22:7el que toma prestado es s del que prestaH5650
+- Pro_29:19el s no se corrige con palabras; porqueH5650
+- Pro_29:21el s mimado desde la niñez por su amoH5650
+- Pro_30:10no acuses al s ante su señor, no seaH5650
+- Pro_30:22por el s cuando reina; por el necioH5650
+- Ecl_2:7compré s y siervas, y tuve s nacidosH5650
+- Ecl_7:21no oigas a tu s cuando dice mal de tiH5650
+- Ecl_10:7vi s a caballo, y príncipes que...como sH5650
+- Isa_14:2y la casa de Israel los poseerá por sH5650
+- Isa_20:3la manera que anduvo mi s Isaías desnudoH5650
+- Isa_22:20aquel día llamaré a mi s Eliaquim hijoH5650
+- Isa_24:2y sucederá así...como al s, así a su amoH5650
+- Isa_36:9podrás resistir al...al menor de los s deH5650
+- Isa_36:11te rogamos que hables a tus s en arameoH5650
+- Isa_37:5vinieron...los s de Ezequías a IsaíasH5650
+- Isa_37:6han blasfemado los s del rey de AsiriaH5288
+- Isa_37:24mano de tus s has vituperado al SeñorH5650
+- Isa_37:35yo ampararé a...por amor de David mi sH5650
+- Isa_41:8pero tú, Israel, s mío eres; tú, JacobH5650
+- Isa_41:9te dije: Mi s eres tú; te escogí, y noH5650
+- Isa_42:1mi s, yo le sostendré, mi escogido, enH5650
+- Isa_42:19¿quién es ciego, sino mi s? ¿Quién esH5650
+- Isa_42:19¿quién es sordo...como el s de JehováH5650
+- Isa_43:10sois mis testigos...mi s que yo escogíH5650
+- Isa_44:1Jacob, s mío, y tú, Israel, a quien yoH5650
+- Isa_44:2no temas, s mío Jacob, y tú, Jesurún, aH5650
+- Isa_44:21mi s eres...Yo te formé, s mío eres túH5650
+- Isa_44:26el que despierta la palabra de su s, yH5650
+- Isa_45:4por amor de mi s Jacob, y de Israel miH5650
+- Isa_48:20decid: Redimió Jehová a Jacob su sH5650
+- Isa_49:3mi s eres, oh Israel, porque en ti meH5650
+- Isa_49:5formó desde el vientre para ser su sH5650
+- Isa_49:6seas mi s para levantar las tribus deH5650
+- Isa_49:7así ha dicho Jehová...al s de los tiranosH5650
+- Isa_50:10que teme a Jehová, y oye la voz de su s?[[H5650]]
+- Isa_52:13he aquí que mi s será prosperado, seráH5650
+- Isa_53:11por su...justificará mi s justo a muchosH5650
+- Isa_54:17esta es la herencia de los s de JehováH5650
+- Isa_56:6amen el nombre de Jehová para ser sus sH5650
+- Isa_63:17oh Jehová...vuélvete por amor de tus sH5650
+- Isa_65:8haré yo por mis s, que no lo destruiréH5650
+- Isa_65:9y mis escogidos...y mis s habitarán allíH5650
+- Isa_65:13que mis s comerán...que mis s beberán, yH5650
+- Isa_65:13mis s se alegrarán, y vosotros seréisH5650
+- Isa_65:14mis s cantarán por júbilo del corazónH5650
+- Isa_65:15matará, y a sus s llamará...otro nombreH5650
+- Isa_66:14la mano de Jehová para con sus s seráH5650
+- Jer_2:14¿es Israel s? ¿es esclavo? ¿Por quéH5650
+- Jer_7:25Y os envié todos los profetas mis sH5650
+- Jer_22:2oye palabra...tú, y tus s, y tu puebloH5650
+- Jer_25:4y envió Jehová a vosotros todos sus sH5650
+- Jer_25:9y a Nabucodonosor...mi s, y los traeréH5650
+- Jer_25:19a Faraón rey...sus s, a sus príncipesH5650
+- Jer_26:5las palabras de mis s los profetas, queH5650
+- Jer_27:6tierras en mano de Nabucodonosor...mi sH5650
+- Jer_29:19palabras...que les envié por mis s losH5650
+- Jer_30:10tú...s mío Jacob, no temas, dice JehováH5650
+- Jer_33:21invalidarse mi pacto con mi s DavidH5650
+- Jer_33:22la descendencia de David mi s, y losH5650
+- Jer_33:26descendencia de Jacob, y de David mi sH5650
+- Jer_34:9libre a su s y...ninguno usase a...como sH5650
+- Jer_34:10dejar libre cada uno a su s...su siervaH5650
+- Jer_34:10ninguno los usase más como s...dejaronH5650
+- Jer_34:11e hicieron volver a los s y a...siervasH5650
+- Jer_34:11libres, y los sujetaron como s y siervasH5650
+- Jer_34:16habéis vuelto a tomar cada uno a su sH5650
+- Jer_35:15; Jer_44:4y envié a vosotros...mis s los profetasH5650
+- Jer_36:24rey y todos sus s que oyeron...palabrasH5650
+- Jer_36:31castigaré su maldad en él...y en sus sH5650
+- Jer_37:2no obedeció él ni sus s ni el pueblo deH5650
+- Jer_37:18¿en qué pequé contra ti, y contra tus sH5650
+- Jer_43:10y tomaré a Nabucodonosor rey de...mi sH5650
+- Jer_46:26los entregaré...en mano de sus s; peroH5650
+- Jer_46:27tú no temas, s mío Jacob, ni desmayesH5650
+- Jer_46:28tú, s mío Jacob, no temas, dice JehováH5650
+- Lam_5:8s se enseñorearon de nosotros; no huboH5650
+- Eze_28:25su tierra, la cual di a mi s JacobH5650
+- Eze_34:23a mi s David, él las apacentará, y élH5650
+- Eze_34:24mi s David príncipe en medio de ellosH5650
+- Eze_37:24s David será rey sobre ellos, y todosH5650
+- Eze_37:25habitarán en la tierra que di a mi sH5650
+- Eze_37:25mi s David será príncipe de ellos paraH5650
+- Eze_38:17de quien hablé..por mis s los profetasH5650
+- Eze_46:17diere parte a alguno de sus s, será deH5650
+- Dan_1:12hagas la prueba con tus s por 10 díasH5650
+- Dan_1:13rey, y haz después con tus s según veasH5650
+- Dan_2:4, Dan_2:7el sueño a tus s, y te mostraremos laH5649
+- Dan_3:26y Abed-nego, s del Dios Altísimo, salidH5649
+- Dan_3:28libró a sus s que confiaron en él, y noH5649
+- Dan_6:20Daniel, s del Dios viviente, el Dios tuyoH5649
+- Dan_9:6no hemos obedecido a tus s los profetasH5656
+- Dan_9:10leyes que él puso...por medio de sus sH5656
+- Dan_9:11y el juramento...en la ley de Moisés, sH5650
+- Dan_9:17oye la oración de tu s, y sus ruegosH5650
+- Dan_10:17¿cómo...Podrá el s de mi señor hablarH5650
+- Joe_2:29sobre los s y...las siervas derramaréH5650
+- Amó_3:7sin que revele su secreto a sus s losH5650
+- Hag_2:23te tomaré, oh Zorobabel hijo...s míoH5650
+- Zac_1:6mis ordenanzas que mandé a mis s losH5650
+- Zac_2:9y serán despojo a sus s, y sabréis queH5647
+- Zac_3:8he aquí, yo traigo a mi s el RenuevoH5650
+- Mal_1:6hijo honra al padre, y el s a su señorH5650
+- Mal_4:4acordaos de la ley de Moisés mi s, al cualH5650
+- Mat_8:9digo a...y a mi s: Haz esto, y lo haceG5650
+- Mat_10:24el discípulo...ni el s más que su señorG1401
+- Mat_10:25al discípulo ser...y al s como su señorG1401
+- Mat_12:18he aquí mi s, a quien he escogido; miG3816
+- Mat_13:27vinieron...los s del padre de familiaG1401
+- Mat_13:28los s le dijeron: ¿Quieres, pues, queG1401
+- Mat_18:23rey que quiso hacer cuentas con sus sG1401
+- Mat_18:26aquel s, postrado...suplicaba, diciendoG1401
+- Mat_18:27el señor de...s...movido a misericordiaG1401
+- Mat_18:28pero saliendo aquel s, halló a uno de susG1401
+- Mat_18:32le dijo: S malvado, toda aquella deudaG1401
+- Mat_20:27el que quiera ser el primero...será, sG1401
+- Mat_21:34envió sus s a los labradores, para queG1401
+- Mat_21:35tomando a los s, a uno golpearon, a otroG1401
+- Mat_21:36envió de nuevo otros s, más que losG1401
+- Mat_22:3envió a sus s a llamar a los convidadosG1401
+- Mat_22:4a enviar otros s, diciendo: Decid a losG1401
+- Mat_22:6otros, tomando a los s, los afrentaronG1401
+- Mat_22:8a sus s: Las bodas a la verdad estánG1401
+- Mat_22:10saliendo los s por...caminos, juntaronG1401
+- Mat_23:11el...mayor de vosotros, sea vuestro sG1249
+- Mat_24:45¿quién es, pues, el s fiel y prudenteG1401
+- Mat_24:46bienaventurado aquel s al cual, cuandoG1401
+- Mat_24:48si aquel s malo dijere en su corazónG1401
+- Mat_24:50vendrá el señor de aquel s en día queG1401
+- Mat_25:14llamó a sus s y les entregó sus bienesG1401
+- Mat_25:19vino el señor de aquellos s, y arreglóG1401
+- Mat_25:21, Mat_25:23buen s y fiel; sobre poco has sidoG1401
+- Mat_25:26s malo y negligente, sabías que siegoG1401
+- Mat_25:30y al s inútil echadle en las tinieblasG1401
+- Mat_26:51hiriendo a un s del sumo sacerdote, leG1401
+- Mar_10:44quiera ser...primero, será s de todosG1401
+- Mar_12:2a su tiempo envió un s a los labradoresG1401
+- Mar_12:4volvió a enviarles otro s...le hirieronG1401
+- Mar_13:34y dio autoridad a sus s, y a cada unoG1401
+- Mar_14:47uno de...hirió al s del sumo sacerdoteG1401
+- Luc_1:54socorrió a Israel su s, acordándose deG1401
+- Luc_1:69un...Salvador en la casa de David su sG1401
+- Luc_2:29ahora, Señor, despides a tu s en pazG1401
+- Luc_7:2y el s de un centurión...estaba enfermoG1401
+- Luc_7:3rogándole que viniese y sanase a su sG1401
+- Luc_7:7aun...pero di la palabra, y mi s será sanoG3816
+- Luc_7:8digo...vé...y a mi s: Haz esto, y lo haceG1401
+- Luc_7:10hallaron sano al s que había...enfermoG1401
+- Luc_12:37bienaventurados aquellos s a los cualesG1401
+- Luc_12:38hallare...bienaventurados son aquellos sG1401
+- Luc_12:43bienaventurado aquel s al cual...halleG1401
+- Luc_12:45mas si aquel s dijere en su corazón: MiG1401
+- Luc_12:46vendrá el señor de aquel s en día queG1401
+- Luc_12:47aquel s que conociendo la voluntad deG1401
+- Luc_14:17envió a su s a decir a los convidadosG1401
+- Luc_14:21vuelto el s, hizo saber estas cosas aG1401
+- Luc_14:21dijo a su s: Vé pronto por las plazasG1401
+- Luc_14:22y dijo el s: Señor, se ha hecho comoG1401
+- Luc_14:23dijo el señor al s: Vé por los caminosG1401
+- Luc_15:22el padre dijo a sus s: Sacad el mejorG1401
+- Luc_16:13ningún s puede servir a dos señoresG3610
+- Luc_17:7¿quién de vosotros, teniendo un s queG1401
+- Luc_17:9¿acaso da gracias al s porque hizo loG1401
+- Luc_17:10decid: S inútiles somos, pues lo queG1401
+- Luc_19:13llamando a diez s suyos, les dio diezG1401
+- Luc_19:15mandó llamar...aquellos s a los cualesG1401
+- Luc_19:17dijo: Está bien, buen s; por cuanto enG1401
+- Luc_19:22él...Mal s, por tu propia boca te juzgoG1401
+- Luc_20:10envió un s a los labradores, para queG1401
+- Luc_20:11volvió a enviar otro s; mas ellos a ésteG1401
+- Luc_20:12volvió a enviar un tercer s; mas ellosG1401
+- Luc_22:50uno...hirió a un s del sumo sacerdoteG1401
+- Jua_4:51s salieron a recibirle, y le dieronG1401
+- Jua_13:16os digo: El s no es mayor que su señorG1401
+- Jua_15:15ya no os llamaré s...el s no sabe lo queG1401
+- Jua_15:20he dicho: El s no es mayor que su señorG1401
+- Jua_18:10e hirió al s del sumo sacerdote, y leG1401
+- Jua_18:18estaban en pie los s y los alguacilesG1401
+- Jua_18:26uno de los s del sumo sacerdote...dijoG1401
+- Hec_2:18sobre mis s y...siervas...mi EspírituG1401
+- Hec_4:25por boca de David tu s dijiste: ¿Por quéG3810
+- Hec_4:29y concede a tus s que con todo denuedoG1401
+- Hec_7:7juzgaré...a la nación de la cual serán sG3000
+- Hec_16:17estos hombres son s del Dios AltísimoG1401
+- Rom_1:1Pablo, s de Jesucristo, llamado a serG1401
+- Rom_6:18pecado, vinisteis a ser s de la justiciaG1402
+- Rom_6:22libertados del pecado y hechos s de DiosG1402
+- Rom_15:8Cristo...vino a ser s de la circuncisiónG1249
+- 1Co_9:19siendo libre de todos, me he hecho sG1402
+- 2Co_4:5a nosotros como vuestros s por amorG1401
+- Gál_1:10agradara a los hombres, no sería s deG1401
+- Efe_6:5s, obedeced a vuestros amos terrenalesG1401
+- Efe_6:6como s de Cristo, de corazón haciendo laG1401
+- Efe_6:8ése recibirá del Señor, sea s o sea libreG1401
+- Flp_1:1Pablo y Timoteo, s de Jesucristo, aG1401
+- Flp_2:7tomando forma de s, hecho semejante a losG1401
+- Col_3:11donde no hay...s ni libre, sino queG1401
+- Col_3:22s, obedeced en todo a vuestros amosG1401
+- Col_4:1lo que es justo y recto con vuestros sG1401
+- Col_4:12Epafras...s de Cristo, siempre rogandoG1401
+- 2Ti_2:24s del Señor no debe ser contenciosoG1401
+- Tit_1:1s de Dios y apóstol de JesucristoG1401
+- Tit_2:9exhorta a los s a que se sujeten a susG1401
+- Heb_3:5Moisés a la verdad fue fiel en...como sG2324
+- Stg_1:1Santiago, s de Dios y del...JesucristoG1401
+- 1Pe_2:16no como los que...sino como s de DiosG1401
+- 2Pe_1:1Simón Pedro, s...de Jesucristo, a losG1401
+- Jud_1:1Judas, s de Jesucristo, y hermano deG1401
+- Rev_1:1para manifestar a sus s las cosas queG1401
+- Rev_1:1declaró...medio de su ángel a su s JuanG1401
+- Rev_2:20Jezabel...seduzca a mis s a fornicar yG1401
+- Rev_6:15todo s y todo libre, se escondieron enG1401
+- Rev_7:3hayamos sellado...a los s de nuestro DiosG1401
+- Rev_10:7como él lo anunció a sus s los profetasG1401
+- Rev_11:18dar el galardón a tus s los profetasG1401
+- Rev_15:3cantan el cántico de Moisés s de DiosG1401
+- Rev_19:2y ha vengado la sangre de sus s de laG1401
+- Rev_19:5alabad a nuestro Dios todos sus s, y losG1401
+- Rev_22:3Dios...estará en ella, y sus s le serviránG3000
+- Rev_22:6a sus s...cosas que deben suceder prontoG1401

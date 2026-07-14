@@ -1,0 +1,120 @@
+---
+tipo: concordancia
+palabra: MADERA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MADERA
+
+- Gén_6:14hazte un arca de m de gofer; harásH6086
+- Éxo_7:19así en los vasos de m como en los deH6086
+- Éxo_25:5de rojo, pieles de tejones, m de acaciaH6086
+- Éxo_25:10harán también un arca de m de acaciaH6086
+- Éxo_25:13harás unas varas de m de acacia, lasH6086
+- Éxo_25:23una mesa de m de acacia; su longitudH6086
+- Éxo_25:28harás las varas de m de acacia, y lasH6086
+- Éxo_26:15harás para el tabernáculo tablas de mH6086
+- Éxo_26:26cinco barras de m de acacia, para lasH6086
+- Éxo_26:32lo pondrás sobre cuatro columnas de mH6086
+- Éxo_26:37harás...cinco columnas de m de acacia
+- Éxo_27:1harás también un altar de m de acaciaH6086
+- Éxo_27:6harás también...varas de m de acacia, lasH6086
+- Éxo_30:1un altar para...de m de acacia lo harásH6086
+- Éxo_30:5harás las varas de m de acacia, y lasH6086
+- Éxo_31:5y en artificio de m; para trabajar enH6086
+- Éxo_35:7pieles...pieles de tejones, m de acaciaH6086
+- Éxo_35:24todo el que tenía m de acacia la traíaH6086
+- Éxo_35:33obra de m, para trabajar en toda laborH6086
+- Éxo_36:20las tablas de m de acacia, derechasH6086
+- Éxo_36:31hizo también las barras de m de acaciaH6086
+- Éxo_36:36él hizo cuatro columnas de m de acacia
+- Éxo_37:1hizo...Bezaleel el arca de m de acaciaH6086
+- Éxo_37:4hizo también varas de m de acacia, y lasH6086
+- Éxo_37:10hizo también la mesa de m de acaciaH6086
+- Éxo_37:15, Éxo_37:28e hizo las varas de m de acaciaH6086
+- Éxo_37:25también el altar del incienso, de m deH6086
+- Éxo_38:1de m de acacia el altar del holocaustoH6086
+- Éxo_38:6e hizo las varas de m de acacia, y lasH6086
+- Lev_11:32sea cosa de m, vestido, piel, sacoH6086
+- Lev_14:4dos avecillas vivas...m de cedro, granaH6086
+- Lev_14:49tomará...y m de cedro, grana e hisopoH6086
+- Lev_14:52purificará la casa con...la m de cedroH6086
+- Lev_15:12toda vasija de m será lavada con aguaH6086
+- Núm_19:6luego tomará el sacerdote m de cedroH6086
+- Núm_31:20purificaréis todo...todo utensilio de mH6086
+- Deu_4:28serviréis allí a dioses...de m y piedraH6086
+- Deu_10:1y sube...al monte, y hazte un arca de mH6086
+- Deu_10:3e hice un arca de m de acacia, y labréH6086
+- Deu_29:17habéis visto...sus ídolos de m y piedraH6086
+- Jue_6:26en holocausto con la m de la imagenH6086
+- 1Sa_6:14y ellos cortaron la m del carro, yH6086
+- 2Sa_5:11envió...m de cedro, y carpinteros, yH6086
+- 2Sa_6:5con toda clase de instrumentos de m deH6086
+- 1Re_5:6ninguno hay...que sepa labrar m comoH6086
+- 1Re_5:8acerca de la m de cedro y la m de ciprésH6086
+- 1Re_5:10dio...a Salomón m de cedro y m de ciprésH6086
+- 1Re_5:18los hombres de Gebal...prepararon la mH6086
+- 1Re_6:10se apoyaba en la casa con m de cedroH6086
+- 1Re_6:15revistiéndola de m por dentro, desdeH6086
+- 1Re_6:15cubrió...el pavimento con m de ciprésH6763
+- 1Re_6:23dos querubines de m de olivo, cada unoH6086
+- 1Re_6:31a la entrada...hizo puertas de m de olivoH6086
+- 1Re_6:32dos puertas eran de m de olivo; y tallóH6086
+- 1Re_6:33hizo a...postes cuadrados de m de olivoH6086
+- 1Re_6:34las dos puertas eran de m de ciprésH6086
+- 1Re_7:11allí hacia arriba...piedras...y m de cedro
+- 1Re_9:11Hiram rey de...había traído a Salomón mH6086
+- 1Re_10:11también de Ofir mucha m de sándalo, yH6086
+- 1Re_10:12la m de sándalo hizo el rey balaustresH6086
+- 1Re_10:12nunca vino semejante m de sándalo, niH6086
+- 1Re_15:22quitaron de Ramá la piedra y la m conH6086
+- 2Re_6:4llegaron al Jordán, cortaron la mH6086
+- 2Re_12:12en comprar la m y piedra de canteríaH6086
+- 2Re_19:18obra de manos de hombres, m o piedraH6086
+- 2Re_22:6para comprar m y piedra de cantería paraH6086
+- 1Cr_14:1Hiram rey...envió...y m de cedroH6086
+- 1Cr_22:3preparó...y m de cedro sin cuentaH6086
+- 1Cr_22:4habían traído a David abundancia de mH6086
+- 1Cr_22:14he preparado m y piedra, a lo cual túH6086
+- 1Cr_29:2y m para las de m; y piedras de óniceH6086
+- 2Cr_2:8también m del Líbano: cedro, ciprésH6086
+- 2Cr_2:8sé que tus siervos saben cortar m en elH6086
+- 2Cr_2:9que me preparen mucha m, porque la casaH6086
+- 2Cr_2:10para...cortadores de m, he dado...trigoH6086
+- 2Cr_2:14sabe trabajar en oro...en piedra y en mH6086
+- 2Cr_2:16cortaremos...la m que necesites, y te laH6086
+- 2Cr_3:5techó el...del edificio con m de ciprés
+- 2Cr_3:10hizo dos querubines de m, los cualesH6816
+- 2Cr_9:10Ofir, trajeron m de sándalo, y piedrasH6086
+- 2Cr_9:11de la m de sándalo el rey hizo gradasH6086
+- 2Cr_9:11nunca en la...se había visto m semejante
+- 2Cr_16:6se llevaron de Ramá...la m con que BaasaH6086
+- 2Cr_34:11que comprasen...y m para los armazonesH6086
+- Esd_3:7trajesen m de cedro desde el LíbanoH6086
+- Esd_6:4tres hileras de piedras...una de m nuevaH636
+- Neh_2:8dé m para enmaderar las puertas delH6086
+- Neh_8:4Esdras estaba sobre un púlpito de m queH6086
+- Cnt_3:9se hizo una carroza de m del LíbanoH6086
+- Isa_37:19porque no eran dioses, sino obra...mH6086
+- Isa_40:20el pobre escoge...m que no se apolilleH6086
+- Isa_60:17y por m bronce, y en lugar de piedrasH6086
+- Jer_28:13yugos de m quebraste, mas en vez deH6086
+- Eze_15:2qué es la m de la vid más que...otra m?[[H6086]]
+- Eze_15:3¿tomarán de ella m...hacer alguna obra?[[H6086]]
+- Eze_15:6como la m de la vid entre los árbolesH6086
+- Eze_26:12pondrán tus piedras y tu m y tu polvoH6086
+- Eze_27:24negociaban contigo en...en m de cedroH6086
+- Eze_41:16cubierto de m desde el suelo hasta elH6086
+- Eze_41:22la altura del altar de m...tres codosH6086
+- Eze_41:22su superficie y sus paredes eran de mH6086
+- Eze_41:25y en la fachada del atrio...un portal de m
+- Dan_5:4alabaron a los dioses...m y de piedraH636
+- Dan_5:23diste alabanza a dioses...m y de piedraH636
+- Ose_4:12mi pueblo a su ídolo de m preguntaH6086
+- Hag_1:8y traed m, y reedificad la casa; yH6086
+- Zac_5:4la consumirá, con sus m y sus piedrasH6086
+- 1Co_3:12edificare oro...m heno, hojarascaG3586
+- 2Ti_2:20plata, sino también de m y de barroG3585
+- Rev_9:20ni dejaron de adorar...imágenes de...mG3585
+- Rev_18:12mercadería de...m olorosa...m preciosaG3586

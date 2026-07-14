@@ -1,0 +1,72 @@
+---
+tipo: concordancia
+palabra: EXALTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EXALTAR
+
+- Deu_26:19fin de exaltarte sobre...las nacionesH5414, [[H5945]]
+- Deu_28:1tu Dios te exaltará sobre...las nacionesH5414, [[H5945]]
+- 1Sa_2:1mi poder se exaltará en Jehová; mi bocaH7311
+- 1Sa_2:8del muladar exaltará al menesteroso, paraH7311
+- 1Sa_2:10Rey, y exaltará el poderío de su UngidoH7311
+- 1Sa_20:34se levantó Jonatán...con exaltada iraH2750
+- 2Sa_22:49y aun me exalta sobre los que seH7311
+- 1Cr_14:2que había exaltado su reino sobre suH5375
+- 1Cr_25:5vidente del rey...para exaltar su poderH7311
+- Job_17:4a éstos...por tanto, no los exaltarásH7311
+- Job_24:24exaltados un poco, mas desaparecen, yH7426
+- Job_36:7los pondrá en trono...y serán exaltadosH1361
+- Sal_12:8cuando la vileza es exaltada entreH7311
+- Sal_30:1te glorificaré...porque me has exaltadoH1802
+- Sal_34:3conmigo, y exaltemos a una su nombreH7311
+- Sal_35:27digan siempre: Sea exaltado Jehová, queH1431
+- Sal_37:34él te exaltará para heredar la tierraH7311
+- Sal_46:10yo...seré exaltado entre las nacionesH7311
+- Sal_47:10porque de Dios son...el es muy exaltadoH5927
+- Sal_57:5, Sal_57:11exaltado seas sobre los cielos, ohH7311
+- Sal_66:17mi boca, y fue exaltado con mi lenguaH7318
+- Sal_68:4exaltad al que cabalga sobre los cielosH5549
+- Sal_69:30alabaré yo el...lo exaltaré con alabanzaH1431
+- Sal_75:10pero el poder del justo será exaltadoH7311
+- Sal_89:13fuerte es tu mano, exaltada tu diestraH7311
+- Sal_89:19he exaltado a un escogido de mi puebloH7311
+- Sal_89:24y en mi nombre será exaltado su poderH7311
+- Sal_89:42has exaltado la diestra de sus enemigosH7311
+- Sal_97:9eres muy exaltado sobre todos los diosesH5927
+- Sal_99:2Jehová...exaltado sobre todos los pueblosH7311
+- Sal_99:5, Sal_99:9exaltad a Jehová...Dios, y postraosH7311
+- Sal_107:32exáltenlo en la congregación del puebloH7311
+- Sal_108:5exaltado seas sobre los cielos, oh DiosH7311
+- Sal_112:9su poder será exaltado en gloriaH7311
+- Sal_118:28y te alabaré; Dios mío, te exaltaréH7311
+- Sal_145:1exaltaré, mi Dios, mi Rey, y bendeciréH7311
+- Sal_147:6exalta a los humildes, y humilla a losH5749
+- Sal_148:14ha exaltado el poderío de su puebloH7311
+- Sal_149:6exalten a Dios con sus gargantas, yH7319
+- Pro_29:25el que confía en Jehová será exaltadoH7682
+- Ecl_10:4si el...príncipe se exaltare contra tiH5927
+- Isa_2:2el monte...exaltado sobre los colladosH5375
+- Isa_2:11y Jehová solo será exaltado en aquel díaH7682
+- Isa_2:16-17Jehová será exaltado en aquel díaH7682
+- Isa_5:16Jehová de los...será exaltado en juicioH1361
+- Isa_25:1Jehová, tú eres mi Dios; te exaltaréH7311
+- Isa_26:5humilló a la ciudad exaltada...hasta laH7682
+- Isa_30:18será exaltado teniendo de...misericordiaH7311
+- Isa_32:8pero el...por generosidades será exaltadoH6965
+- Isa_33:5será exaltado Jehová, el cual mora enH7682
+- Isa_33:10seré exaltado, ahora seré engrandecidoH7311
+- Isa_38:18el Seol no te exaltará, ni te alabaráH3034
+- Isa_52:13mi siervo...será engrandecido y exaltadoH7311
+- Eze_21:26sea exaltado lo bajo, y humillado loH1361
+- Eze_31:14no se exalten en su altura todos losH1361
+- Ose_13:1cuando Efraín hablaba...fue exaltado enH5375
+- Luc_1:52los poderosos, y exaltó a los humildesG5312
+- Hec_2:33que, exaltado por la diestra de DiosG5312
+- Hec_5:31a éste, Dios ha exaltado con su diestraG5312
+- 2Co_12:7de las revelaciones no me exaltaseG5229
+- Flp_2:9Dios...le exaltó hasta lo sumo, y leG5251
+- Stg_4:10humillaos delante...y él os exaltaráG5312
+- 1Pe_5:6que él os exalte cuando fuere tiempoG5312

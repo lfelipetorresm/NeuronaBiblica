@@ -1,0 +1,570 @@
+---
+tipo: concordancia
+palabra: DOS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DOS
+
+- Véase también Doscientos, Dos mil, etc
+- Gén_1:16hizo Dios las d grandes lumbreras; laH8147
+- Gén_4:19Lamec tomó para sí d mujeres...Ada...ZilaH8147
+- Gén_6:19d de cada especie meterás en el arcaH8147
+- Gén_6:20d de cada especie entrarán contigo, paraH8147
+- Gén_7:9de d en d entraron con Noé en el arcaH8147
+- Gén_7:15vinieron...con Noé al arca, de d en d deH8147
+- Gén_9:22Cam...vio...y lo dijo a sus d hermanos queH8147
+- Gén_10:25y a Heber nacieron d hijos: el nombreH8147
+- Gén_11:10engendró a Arfaxad, d años después delH8147
+- Gén_19:1llegaron, pues, los d ángeles a SodomaH8147
+- Gén_19:8tengo d hijas que no han conocido varónH8147
+- Gén_19:16asieron de...de las manos de sus d hijasH8147
+- Gén_19:30moró en el monte, y sus d hijas con élH8147
+- Gén_19:30habitó en una cueva él y sus d hijasH8147
+- Gén_19:36d hijas de Lot concibieron de su padreH8147
+- Gén_24:22le dio...d brazaletes que pesaban diezH8147
+- Gén_25:23d naciones hay en tu...y d pueblos seránH8147
+- Gén_27:9tráeme de allí d buenos cabritos de lasH8147
+- Gén_27:36Jacob, pues ya me ha suplantado d vecesH8147
+- Gén_29:16y Labán tenía d hijas: el nombre de laH8147
+- Gén_31:33entró Labán...la tienda de las d siervasH8147
+- Gén_31:41catorce años te serví por tus d hijasH8147
+- Gén_31:44y sea por testimonio entre nosotros d
+- Gén_31:48este majano es testigo...entre nosotros d
+- Gén_31:50mira, Dios es testigo entre nosotros d
+- Gén_32:7distribuyó el pueblo...en d campamentosH8147
+- Gén_32:10pues...ahora estoy sobre d campamentosH8147
+- Gén_32:22y tomó sus d mujeres...y sus d siervasH8147
+- Gén_33:1repartió...niños entre Lea y...d siervasH8147
+- Gén_34:25d de los hijos de Jacob, Simeón y LevíH8147
+- Gén_40:2se enojó Faraón contra sus d oficialesH8147
+- Gén_41:1que pasados d años tuvo Faraón un sueñoH8141
+- Gén_41:32y el suceder el sueño a Faraón d vecesH6471
+- Gén_41:50y nacieron a José d hijos antes queH8147
+- Gén_42:37harás morir a mis d hijos, si no te loH8147
+- Gén_43:10si no nos...hubiéramos ya vuelto d vecesH6471
+- Gén_44:27vosotros sabéis que d hijos me dio aH8147
+- Gén_45:6ha habido d años de hambre en medio deH8141
+- Gén_46:27hijos de José...le nacieron en Egipto, dH8147
+- Gén_48:1tomó consigo a sus d hijos, Manasés yH8147
+- Gén_48:5ahora tus d hijos Efraín y Manasés, queH8147
+- Éxo_2:13salió y vio a d hebreos que reñíanH8147
+- Éxo_4:9y si aún no creyeren a estas d señalesH8147
+- Éxo_12:6lo inmolará toda la...entre las d tardes
+- Éxo_12:7la sangre, y la pondrán en los d postesH8147
+- Éxo_12:22untad el dintel y los d postes con laH8147
+- Éxo_12:23cuando vea la sangre...en los d postesH8147
+- Éxo_16:22el sexto día...d gomeres para cada unoH8147
+- Éxo_16:29en el sexto día os da pan para d díasH8147
+- Éxo_18:3a sus d hijos; el uno se llamaba GersónH8147
+- Éxo_18:6vengo a ti, con tu mujer, y sus d hijosH8147
+- Éxo_21:21si sobreviviere por un día o d, no seráH8147
+- Éxo_25:10cuya longitud será de d codos y medio
+- Éxo_25:12d anillos a un lado...d anillos al otroH8147
+- Éxo_25:17longitud será de d codos y medio, y su
+- Éxo_25:18harás...d querubines de oro; labrados aH8147
+- Éxo_25:18en los d extremos del propiciatorioH8147
+- Éxo_25:19harás los querubines en sus d extremosH8147
+- Éxo_25:22entre los d querubines que están sobreH8147
+- Éxo_25:23una mesa...su longitud será de d codos
+- Éxo_25:35habrá una manzana debajo de d brazosH8147
+- Éxo_25:35(2)una manzana debajo de otros d brazosH8147
+- Éxo_26:17d espigas tendrá cada tabla...unirlasH8147
+- Éxo_26:19(2)d basas debajo...para sus d espigasH8147
+- Éxo_26:21, Éxo_26:25d basas debajo de una tabla, y dH8147
+- Éxo_26:23d tablas para las...en los d ángulosH8147
+- Éxo_26:24las otras d; serán para las d esquinasH8147
+- Éxo_28:7tendrá d hombreras que...a sus d extremosH8147
+- Éxo_28:9tomarás d piedras de ónice, y grabarásH8147
+- Éxo_28:11grabar las d piedras con los nombres deH8147
+- Éxo_28:12y pondrás las d piedras sobre...del efodH8147
+- Éxo_28:12los nombres...sobre sus d hombros porH8147
+- Éxo_28:14y d cordones de oro fino, los cualesH8147
+- Éxo_28:23, Éxo_28:26d anillos de oro...a los d extremosH8147
+- Éxo_28:24fijarás los d cordones de oro en losH8147
+- Éxo_28:24en los d anillos a los d extremos delH8147
+- Éxo_28:25los d extremos de los d cordones sobreH8147
+- Éxo_28:25sobre los d engastes, y los fijarás aH8147
+- Éxo_28:27los d anillos...las d hombreras del efodH8147
+- Éxo_28:28y juntarán...a los d anillos del efod
+- Éxo_29:1un becerro de...y d carneros sin defectoH8147
+- Éxo_29:3ofrecerás...el becerro y los d carnerosH8147
+- Éxo_29:13, Éxo_29:22tomarás...los d riñones, y la grosuraH8147
+- Éxo_29:38el altar: d corderos de un año cada díaH8147
+- Éxo_30:2y su altura de d codos; y sus cuernos
+- Éxo_30:4harás...d anillos de oro...sus d esquinasH8147
+- Éxo_31:18dio a Moisés...d tablas del testimonioH8147
+- Éxo_32:15trayendo...las d tablas del testimonioH8147
+- Éxo_34:1d tablas de piedra como las primeras, yH8147
+- Éxo_34:4Moisés alisó d tablas de piedra como lasH8147
+- Éxo_34:4llevó en su mano las d tablas de piedraH8147
+- Éxo_34:29descendiendo Moisés...con las d tablasH8147
+- Éxo_36:22cada tabla tenía d espigas, para unirlasH8147
+- Éxo_36:24(2)hizo...d basas...para sus d espigasH8147
+- Éxo_36:26d basas debajo de una tabla, y d basasH8147
+- Éxo_36:28las esquinas...los d lados hizo d tablasH8147
+- Éxo_36:29así hizo a la una y...en las d esquinasH8147
+- Éxo_36:30tablas, y...d basas debajo de cada tablaH8147
+- Éxo_37:1su longitud era de d codos y medio, su
+- Éxo_37:3un lado d anillos y en el otro lado dH8147
+- Éxo_37:6su longitud de d codos y medio, y su
+- Éxo_37:7los d querubines...en los d extremos delH8147
+- Éxo_37:8también los querubines a sus d extremosH8147
+- Éxo_37:10hizo...la mesa...su longitud de d codos
+- Éxo_37:21manzana debajo de d brazos del mismoH8147
+- Éxo_37:21(2)manzana debajo de otros d brazosH8147
+- Éxo_37:25y su altura de d codos; y sus cuernos
+- Éxo_37:27hizo también d anillos de oro debajo deH8147
+- Éxo_37:27anillos...las d esquinas a los d ladosH8147
+- Éxo_39:4hombreras...y se unían en sus d extremosH8147
+- Éxo_39:16hicieron...d engastes y d anillos de oroH8147
+- Éxo_39:16d anillos de oro en los d extremos delH8147
+- Éxo_39:17d cordones de oro en...d anillos a losH8147
+- Éxo_39:18los d extremos de los d cordones de oroH8147
+- Éxo_39:18en los d engastes que pusieron sobreH8147
+- Éxo_39:19otros d anillos...en los d extremos delH8147
+- Éxo_39:20d anillos de oro...d hombreras del efodH8147
+- Lev_1:17la henderá...pero no la dividirá en d
+- Lev_3:4, Lev_3:10, Lev_3:15; Lev_4:9los d riñones y la grosura queH8147
+- Lev_5:7traerá...d tórtolas o d palominos, el unoH8147
+- Lev_5:11si no tuviere lo...para d tórtolas, o dH8147
+- Lev_7:4los d riñones, la grosura que está sobreH8147
+- Lev_8:2toma...los d carneros, y el canastillo deH8147
+- Lev_8:16, Lev_8:25los d riñones, y la grosura de ellosH8147
+- Lev_12:5será inmunda d semanas, conforme a su
+- Lev_12:8tomará...d tórtolas o d palominos, unoH8147
+- Lev_14:4que se tomen...d avecillas vivas, limpiasH8147
+- Lev_14:10tomará d corderos sin defecto, y unaH8147
+- Lev_14:22d tórtolas o d palominos, según puedaH8147
+- Lev_14:49tomará para limpiar la...d avecillas, yH8147
+- Lev_15:14, Lev_15:29tomará d tórtolas o d palominosH8147
+- Lev_16:1de la muerte de los d hijos de AarónH8147
+- Lev_16:5tomará d machos cabríos para expiaciónH8147
+- Lev_16:7después tomará los d machos cabríos yH8147
+- Lev_16:8echará suertes Aarón sobre los d machosH8147
+- Lev_23:5entre las d tardes, pascua es de Jehová
+- Lev_23:13, Lev_23:17d décimas de efa de flor de harinaH8147
+- Lev_23:17traeréis d panes para ofrenda mecidaH8147
+- Lev_23:19y ofreceréis con el pan...d carnerosH8147
+- Lev_23:19d corderos de un año en sacrificio deH8147
+- Lev_23:20pan de las primicias y los d corderosH8147
+- Lev_24:5cada torta será de d décimas de efaH8147
+- Lev_24:6las pondrás en d hileras...seis en cadaH8147
+- Núm_6:10el día octavo traerá d tórtolas o dH8147
+- Núm_7:3por cada d príncipes un carro, y cada unoH8147
+- Núm_7:7d carros y 4..dio a los hijos de GersónH8147
+- Núm_7:17, Núm_7:23, Núm_7:29, Núm_7:35, Núm_7:41, Núm_7:47, Núm_7:53, Núm_7:59, Núm_7:65, Núm_7:71, Núm_7:77, Núm_7:83para ofrenda de paz, d bueyesH8147
+- Núm_7:89oía la voz...de entre los d querubinesH8147
+- Núm_9:3entre las d tardes, la celebraréis a su
+- Núm_9:5celebraron la pascua...entre las d tardes
+- Núm_9:11en el mes segundo...entre las d tardes
+- Núm_9:22si d días...mientras la nube se detenía
+- Núm_10:2hazte d trompetas de plata; de obra deH8147
+- Núm_11:19no comeréis un día, ni d días, ni cinco
+- Núm_11:26d varones, llamados el uno Eldad y elH8147
+- Núm_11:31casi d codos sobre la faz de la tierra
+- Núm_13:23racimo de uvas...trajeron d en un paloH8147
+- Núm_15:6ofrenda de d décimas de flor de harinaH8147
+- Núm_20:11y golpeó la peña con su vara d vecesH6471
+- Núm_22:22iba, pues, él...con él d criados suyosH8147
+- Núm_28:3d corderos sin tacha de un año, cada díaH8147
+- Núm_28:9el día de reposo, d corderos de un añoH8147
+- Núm_28:9d décimas de flor de harina amasada conH8147
+- Núm_28:11, Núm_28:19, Núm_28:27d becerros de la vacada...carneroH8147
+- Núm_28:12d décimas de flor de harina amasada conH8147
+- Núm_28:20, Núm_28:28; Núm_29:3d décimas con cada carneroH8147
+- Núm_29:13d carneros, y catorce corderos de unH8147
+- Núm_29:14d décimas...cada uno de los d carnerosH8147
+- Núm_29:17, Núm_29:20, Núm_29:23, Núm_29:26, Núm_29:29, Núm_29:32d carneros, 14 corderosH8147
+- Núm_34:15d tribus y media tomaron su heredad aH8147
+- Deu_3:8de manos de los d reyes amorreos queH8147
+- Deu_3:21vuestro Dios ha hecho a aquellos d reyesH8147
+- Deu_4:13y los escribió en d tablas de piedraH8147
+- Deu_4:47d reyes de los amorreos que estaban deH8147
+- Deu_5:22las escribió en d tablas de piedra, lasH8147
+- Deu_9:10-11me dio Jehová las d tablas de piedraH8147
+- Deu_9:15con las tablas del pacto en mis d manosH8147
+- Deu_9:17las d tablas y las arrojé de mis d manosH8147
+- Deu_10:1d tablas de piedra como las primerasH8147
+- Deu_10:3labré d tablas...subí...con las d tablasH8147
+- Deu_14:6animal...que tiene hendidura de d uñasH8147
+- Deu_17:6por dicho de d o tres testigos moriráH8147
+- Deu_19:15por el testimonio de d...se mantendráH8147
+- Deu_19:17d litigantes se presentarán delante deH8147
+- Deu_21:15si un hombre tuviere d mujeres, la unaH8147
+- Deu_32:30y d hacer huir a diez mil, si su RocaH8147
+- Jos_2:1Josué hijo...envió desde Sitim d espíasH8147
+- Jos_2:4la mujer había tomado a los d hombres yH8147
+- Jos_2:10lo que habéis hecho a los d reyes de losH8147
+- Jos_2:23volvieron los d hombres...a Josué hijoH8147
+- Jos_6:22Josué dijo a los d hombres que habíanH8147
+- Jos_9:10todo lo que hizo a los d reyes de losH8147
+- Jos_14:3porque a las d tribus y a la media tribuH8147
+- Jos_14:4porque los hijos de José fueron d tribusH8147
+- Jos_15:60Quiriat-baal...y Rabá; d ciudades conH8147
+- Jos_21:16Juta...nueve ciudades de estas d tribusH8147
+- Jos_21:25Taanac...y Gat-rimón con...d ciudadesH8147
+- Jos_21:27Golán...y además, Beestera...d ciudadesH8147
+- Jos_24:12arrojaron...los d reyes de los amorreosH8147
+- Jue_3:16se había hecho un puñal de d filosH8147
+- Jue_5:30botín, y...a cada uno una doncella, o dH7361
+- Jue_7:25tomaron a d príncipes de los madianitasH8147
+- Jue_8:12prendió a los d reyes de Madián, ZebaH8147
+- Jue_9:44y las otras d compañías acometieron aH8147
+- Jue_11:37déjame por d meses que vaya y...MoreH8147
+- Jue_11:38y la dejó por d meses. Y ella fue conH8147
+- Jue_11:39pasados los d meses volvió a su padreH8147
+- Jue_15:4tomó...y puso una tea entre cada d colasH8147
+- Jue_15:13le ataron con d cuerdas nuevas, y leH8147
+- Jue_16:3las puertas de la...con sus d pilares yH8147
+- Jue_16:28que tome venganza de...por mis d ojosH8147
+- Jue_16:29las d columnas de en medio, sobre lasH8147
+- Jue_19:6se sentaron ellos d juntos, y comieronH8147
+- Rut_1:1a morar en...Moab, él...y d hijos suyosH8147
+- Rut_1:3y murió...y quedó ella con sus d hijosH8147
+- Rut_1:5murieron también los d, Mahlón y QueliónH8147
+- Rut_1:5quedando así...desamparada de sus d hijosH8147
+- Rut_1:7y con ella sus d nueras...para volverseH8147
+- Rut_1:8a sus d nueras: Andad, volveos cada unaH8147
+- Rut_1:17sólo la muerte hará...entre nosotras d
+- Rut_1:19anduvieron...ellas d hasta que llegaronH8147
+- 1Sa_1:2tenía él d mujeres: el nombre de unaH8147
+- 1Sa_1:3estaban d hijos de Elí, Ofni Y FineesH8147
+- 1Sa_2:21y ella dio a luz tres hijos y d hijasH8147
+- 1Sa_2:34acontecerá a tus d hijos...ambos moriránH8147
+- 1Sa_4:4los d hijos de Elí...estaban allí con elH8147
+- 1Sa_4:11y muertos los d hijos de Elí, Ofni yH8147
+- 1Sa_4:17tus d hijos...fueron muertos, y el arcaH8147
+- 1Sa_5:4la cabeza...y las d palmas de sus manosH8147
+- 1Sa_6:7un carro...tomad luego d vacas que crienH8147
+- 1Sa_6:10tomando d vacas...las uncieron al carroH8147
+- 1Sa_10:2d hombres junto al sepulcro de RaquelH8147
+- 1Sa_10:4te darán d panes, los que tomarás deH8147
+- 1Sa_11:11de tal manera que no quedaron d...juntosH8147
+- 1Sa_13:1cuando hubo reinado d años sobre IsraelH8147
+- 1Sa_14:49nombres de sus d hijas eran, el de laH8147
+- 1Sa_17:23se ponía en medio de los d campamentos
+- 1Sa_18:11enclavaré...Pero David lo evadió d vecesH6471
+- 1Sa_20:23Jehová entre nosotros d para siempre
+- 1Sa_27:3David...sus d mujeres, Ahinoam...AbigailH8147
+- 1Sa_28:8Saúl...se fue con d hombres, y vinieronH8147
+- 1Sa_30:5las d mujeres de David...eran cautivasH8147
+- 1Sa_30:12le dieron...higos...y d racimos de pasasH8147
+- 1Sa_30:18libró...libertó David a sus d mujeresH8147
+- 2Sa_1:1vuelto David...estuvo d días en SiclagH8147
+- 2Sa_2:2David subió allá, y con él sus d mujeresH8147
+- 2Sa_2:10de 40 años era Is-boset...y reinó d añosH8147
+- 2Sa_4:2hijo de Saúl tenía d hombres, capitanesH8147
+- 2Sa_8:2midió d cordeles para hacerlos morirH8147
+- 2Sa_12:1había d hombres en una ciudad, el unoH8147
+- 2Sa_13:6haga delante de mí d hojuelas, para queH8147
+- 2Sa_13:23aconteció pasados d años, que Absalón
+- 2Sa_14:6tu sierva tenía d hijos, y los d riñeronH8147
+- 2Sa_14:28estuvo Absalón por...d años en JerusalénH8147
+- 2Sa_15:27vuelve en paz a la ciudad, y...d hijosH8147
+- 2Sa_15:36están con ellos sus d hijos, AhimaasH8147
+- 2Sa_17:18d se dieron prisa a caminar, y llegaronH8147
+- 2Sa_18:24y David...sentado entre las d puertasH8147
+- 2Sa_21:8tomó el rey a d hijos de Rizpa hija deH8147
+- 2Sa_23:20mató a d leones de Moab; y él mismoH8147
+- 1Re_2:5lo que hizo a d generales del ejércitoH8147
+- 1Re_2:32ha dado muerte a d varones más justosH8147
+- 1Re_2:39que d siervos de Simei huyeron a AquisH8147
+- 1Re_3:16vinieron al rey d mujeres rameras, y seH8147
+- 1Re_3:18ninguno de...sino nosotras d en la casaH8147
+- 1Re_5:14mes en el Líbano, y d meses en sus casasH8147
+- 1Re_6:23en el lugar santísimo d querubines deH8147
+- 1Re_6:27las otras d alas se tocaban la una en
+- 1Re_6:32las d puertas eran de madera de olivoH8147
+- 1Re_6:34las d puertas eran de madera de ciprésH8147
+- 1Re_6:34d hojas de una...giraban, y las otras dH8147
+- 1Re_7:15vació d columnas de bronce; la altura deH8147
+- 1Re_7:16hizo también d capiteles de fundiciónH8147
+- 1Re_7:18también d hileras de granadas alrededorH8147
+- 1Re_7:20tenían...capiteles de las d columnas, 200H8147
+- 1Re_7:20doscientas granadas en d hileras...redH8147
+- 1Re_7:24que ceñían el mar alrededor en d filasH8147
+- 1Re_7:41d columnas, y los capiteles redondos queH8147
+- 1Re_7:41capiteles...en lo alto de las d columnasH8147
+- 1Re_7:41y d redes que cubrían los d capitelesH8147
+- 1Re_7:42las d redes, d hileras de granadas enH8147
+- 1Re_7:42para cubrir los d capiteles redondos queH8147
+- 1Re_8:9ninguna cosa había sino las d tablas deH8147
+- 1Re_9:10cuando...ya había edificado las d casasH8147
+- 1Re_10:19junto a los cuales estaban...d leonesH8147
+- 1Re_11:9Dios...que se le había aparecido d vecesH6471
+- 1Re_11:29y estaban ellos d solos en el campoH8147
+- 1Re_12:28hizo el rey d becerros de oro, y dijoH8147
+- 1Re_15:25Nadab hijo...reinó sobre Israel d añosH8147
+- 1Re_16:8comenzó a reinar Ela hijo...reinó d años
+- 1Re_16:21de Israel fue dividido en d partes: laH2677
+- 1Re_16:24Omri compró...Samaria por d talentos de
+- 1Re_17:12ahora recogía d leños, para entrar yH8147
+- 1Re_18:21¿hasta cuando claudicaréis...entre dH8147
+- 1Re_18:23dénsenos...d bueyes, y escojan ellos unoH8147
+- 1Re_18:32una zanja...en que cupieran d medidas de
+- 1Re_20:27de Israel...como d rebañuelos de cabrasH8147
+- 1Re_21:10poned a d hombres perversos delante deH8147
+- 1Re_21:13vinieron entonces d hombres perversosH8147
+- 1Re_22:51Ocozías...y reinó d años sobre Israel
+- 2Re_1:14y ha consumido a los d...capitanes deH8147
+- 2Re_2:7y ellos d se pararon junto al JordánH8147
+- 2Re_2:11un carro de fuego con...apartó a los dH8147
+- 2Re_2:12sus vestidos, los rompió en d partesH8147
+- 2Re_2:24salieron d osos...despedazaron de ellosH8147
+- 2Re_4:1venido el acreedor para tomarse d hijosH8147
+- 2Re_5:22d jóvenes de los hijos de los profetasH8147
+- 2Re_5:22te ruego que les des...d vestidos nuevosH8147
+- 2Re_5:23Naamán: Te ruego que tomes d talentosH8147
+- 2Re_5:23insistió, y ató d talentos...en d bolsasH8147
+- 2Re_5:23y d vestidos nuevos, y lo puso todo aH8147
+- 2Re_5:23a cuestas a d de sus criados para queH8147
+- 2Re_7:1un siclo, y d seahs de cebada un siclo
+- 2Re_7:14tomaron, pues, d caballos de un carroH8147
+- 2Re_7:16, 2Re_7:18d seahs de cebada por un siclo, y
+- 2Re_9:32se inclinaron hacia él d o tres eunucosH8147
+- 2Re_10:4d reyes no pudieron resistirle; ¿cómoH8147
+- 2Re_10:8ponedlas en d montones a la entrada deH8147
+- 2Re_11:7las d partes...que salen el día de reposoH8147
+- 2Re_15:23reinó Pekaía hijo...sobre Israel...d añosH8147
+- 2Re_17:16y se hicieron imágenes...de d becerrosH8147
+- 2Re_21:5edificó altares...en los d atrios de laH8147
+- 2Re_21:19era Amón...y reinó d años en JerusalénH8147
+- 2Re_23:12altares...en los d atrios de la casa deH8147
+- 2Re_25:4huyeron...entre los d muros, junto a losH8147
+- 2Re_25:16las d columnas, un mar, y las basas queH8147
+- 1Cr_1:19a Heber nacieron d hijos; el nombreH8147
+- 1Cr_4:5Asur padre...tuvo d mujeres, Hela y NaaraH8147
+- 1Cr_11:22Benaía...venció a los d leones de MoabH8147
+- 1Cr_26:17y a la casa de provisiones de d en dH8147
+- 1Cr_26:18cuatro al camino, y d en la cámaraH8147
+- 2Cr_3:2edificar...a los d días del mes, enH8145
+- 2Cr_3:10d querubines de madera...cubiertos de oroH8147
+- 2Cr_3:15delante de la casa hizo d columnas deH8147
+- 2Cr_4:3d hileras de calabazas fundidas...el marH8147
+- 2Cr_4:12d columnas, y...capiteles sobre...las dH8147
+- 2Cr_4:12d redes para cubrir las d esferas de losH8147
+- 2Cr_4:13granadas en las d redes, d hileras deH8147
+- 2Cr_4:13granadas...cubriesen las d esferas de losH8147
+- 2Cr_5:10en el arca no había más que las d tablasH8147
+- 2Cr_9:18el trono...d leones...junto a los brazosH8147
+- 2Cr_21:19al cabo de d años, los intestinos se leH8147
+- 2Cr_24:3Joiada tomó para él d mujeres; y...hijosH8147
+- 2Cr_33:5altares...en los d atrios de la casa deH8147
+- 2Cr_33:21era Amón...y d años reinó en JerusalénH8147
+- Esd_8:27d vasos de bronce bruñido muy buenoH8147
+- Esd_10:13ni la obra es de un día ni de d, porqueH8147
+- Neh_12:31puse d coros...fueron en procesiónH8147
+- Neh_12:40llegaron luego los d coros a la casa deH8147
+- Neh_13:20y se quedaron fuera de...una y d vecesH8147
+- Est_2:21se enojaron...d eunucos del rey, de laH8147
+- Est_2:23d eunucos fueron colgados en una horcaH8147
+- Est_6:2había denunciado el complot de...d eunucosH8147
+- Est_9:27que no dejarían de celebrar estos d díasH8147
+- Job_9:33que ponga su mano sobre nosotros dH8147
+- Job_13:20a lo menos d cosas no hagas conmigoH8147
+- Job_33:14en una o en d maneras habla Dios: peroH8147
+- Job_33:29estas cosas hace Dios d y tres vecesH6471
+- Job_40:5aun d veces, mas no volveré a hablarH8147
+- Job_42:7mi ira...contra ti y tus d compañerosH8147
+- Sal_62:11d veces he oído esto: que de DiosH8147
+- Sal_149:6y espadas de d filos en sus manosH6374
+- Pro_5:4amargo...agudo como espada de d filosH6310
+- Pro_30:7d cosas te he demandado: no me...nieguesH8147
+- Pro_30:15la sanguijuela tiene d hijas que dicenH8147
+- Ecl_4:9mejores son d que uno...mejor paga deH8147
+- Ecl_4:11si d durmieren juntos, se calentaránH8147
+- Ecl_4:12si alguno prevaleciere...d le resistiránH8147
+- Ecl_6:6si aquél viviere mil años d veces, sinH6471
+- Cnt_4:5; Cnt_7:3tus d pechos, como gemelos deH8147
+- Isa_6:2tenían seis alas; con d cubrían susH8147
+- Isa_6:2con d cubrían sus pies, y con d volabanH8147
+- Isa_7:4a causa de estos d cabos de tizón queH8147
+- Isa_7:16la tierra de los d reyes que tú temesH8147
+- Isa_8:14a las d casas de Israel, por piedra paraH8147
+- Isa_17:6d o tres frutos en la punta de la ramaH8147
+- Isa_21:7vio...jinetes de d en d, montados sobreH6776
+- Isa_21:9aquí vienen hombres montados...de d en dH6776
+- Isa_22:11hicisteis foso entre los d muros paraH8147
+- Isa_47:9estas d cosas te vendrán de repente enH8147
+- Isa_51:19d cosas te han acontecido: asolamientoH8147
+- Jer_2:13porque d males ha hecho mi pueblo: meH8147
+- Jer_3:14tomaré uno de cada...d de cada familiaH8147
+- Jer_24:1me mostró Jehová d cestas de higosH8147
+- Jer_28:3dentro de d años haré volver a este lugar
+- Jer_28:11romperé el yugo de...dentro de d años
+- Jer_33:24había...D familias que Jehová escogieraH8147
+- Jer_34:18dividiendo en d partes el becerro yH8147
+- Jer_39:4por la puerta entre los d muros: y salióH8147
+- Jer_52:7entre los d muros que había cerca delH8147
+- Jer_52:20d columnas, un mar, y los doce bueyesH8147
+- Eze_1:11sus alas...d...d cubrían sus cuerposH8147
+- Eze_1:23uno tenía d alas que cubrían su cuerpoH8147
+- Eze_15:4sus d extremos consumió el fuego, y laH8147
+- Eze_21:19d caminos por donde venga la espada delH8147
+- Eze_21:21detenido...al principio de los d caminosH8147
+- Eze_23:2hijo...hubo d mujeres, hijas de una madreH8147
+- Eze_35:10d naciones y las d tierras serán míasH8147
+- Eze_37:22nunca más serán d naciones...en d reinosH8147
+- Eze_40:39había d mesas a un lado, y otras d alH8147
+- Eze_40:40a la entrada había...d mesas...d mesasH8147
+- Eze_41:3midió cada poste de la puerta...d codosH8147
+- Eze_41:18estaba...cada querubín tenía d rostrosH8147
+- Eze_41:22del altar de...su longitud de d codosH8147
+- Eze_41:23templo y el santuario tenían d puertasH8147
+- Eze_41:24en cada puerta...d hojas, d hojas queH8147
+- Eze_41:24d hojas en una puerta...d en la otraH8147
+- Eze_43:14hasta el lugar de abajo, d codos, y laH8147
+- Eze_47:9entraren estos d ríos, vivirá; y habrá
+- Eze_47:13que repartiréis...José tendrá d partes
+- Dan_8:3he aquí un carnero...y tenía d cuernos
+- Dan_8:6vino hasta el carnero de d cuernos, que
+- Dan_8:7y le quebró sus d cuernos, y el carneroH8147
+- Dan_8:20que tenía d cuernos, éstos son los reyes
+- Dan_11:27el corazón de estos d reyes será paraH8147
+- Dan_12:5he aquí otros d que estaban en pie, elH8147
+- Ose_6:2nos dará vida después de d días: en el
+- Amó_1:1profetizó...d años antes del terremoto
+- Amó_3:3¿andarán d juntos si no estuvieren deH8147
+- Amó_3:12manera que el pastor libra...d piernasH8147
+- Amó_4:8y venían d o tres ciudades a...para beberH8147
+- Nah_1:9no tomará venganza d veces de susH6471
+- Zac_4:3junto a él d olivos...uno a la derechaH8147
+- Zac_4:11¿qué significan estos d olivos...derechaH8147
+- Zac_4:12¿qué significan las d ramas...d tubos deH8147
+- Zac_4:14d ungidos que están delante del SeñorH8147
+- Zac_5:9d mujeres que salían, y traían viento enH8147
+- Zac_6:1miré...carros que salían de entre d montesH8147
+- Zac_13:8las d terceras partes serán cortadas enH8147
+- Mat_2:16matar a...los niños menores de d añosG1332
+- Mat_4:18vio a d hermanos, Simón, llamado PedroG1417
+- Mat_4:21vio a otros d hermanos, Jacobo hijo deG1417
+- Mat_5:41llevar carga por una milla, vé con él dG1417
+- Mat_6:24ninguno puede servir a d señores; porqueG1417
+- Mat_8:28vinieron...d endemoniados que salían deG1417
+- Mat_9:27le siguieron d ciegos, dando voces yG1417
+- Mat_10:10ni de d túnicas, ni de calzado, ni deG1417
+- Mat_10:29se venden d pajarillos por un cuarto?[[G1417]]
+- Mat_11:2al oír Juan...envió d de sus discípulosG1417
+- Mat_14:17no tenemos...sino cinco panes y d pecesG1417
+- Mat_14:19tomando los cinco panes y los d pecesG1417
+- Mat_17:24vinieron a...que cobraban las d dracmas
+- Mat_17:24¿vuestro Maestro no paga las d dracmas?
+- Mat_18:8teniendo d manos o d pies ser echado enG1417
+- Mat_18:9que teniendo d ojos ser echado en elG1417
+- Mat_18:16toma...a uno o d, para que en boca de dG1417
+- Mat_18:19si d de vosotros se pusieren de acuerdoG1417
+- Mat_18:20donde están d o tres congregados en miG1417
+- Mat_19:5su mujer, y los d serán una sola carne?[[G1417]]
+- Mat_19:6así que no son ya más d, sino una solaG1417
+- Mat_20:21en tu reino se sienten estos d hijosG1417
+- Mat_20:24esto, se enojaron contra los d hermanosG1417
+- Mat_20:30d ciegos que...oyeron que Jesús pasabaG1417
+- Mat_21:1se acercaron...Jesús envió d discípulosG1417
+- Mat_21:28un hombre tenía d hijos...Hijo, vé hoy aG1417
+- Mat_21:31¿cuál de los d hizo la voluntad de suG1417
+- Mat_22:40de estos d mandamientos depende todaG1417
+- Mat_23:15le hacéis d veces más hijo del infiernoG1362
+- Mat_24:40estarán d en el campo: el uno...tomadoG1417
+- Mat_24:41d mujeres estarán moliendo en un molinoG1417
+- Mat_25:15y a otro d, y a otro uno, a cada unoG1417
+- Mat_25:17el que había recibido d, ganó...otros dG1417
+- Mat_25:22el que había recibido d talentos, dijoG1417
+- Mat_25:22d talentos me entregaste; aquí...otros dG1417
+- Mat_26:2dentro de d días se celebra la pascuaG1417
+- Mat_26:37tomando a...y a los d hijos de ZebedeoG1417
+- Mat_26:60pero al fin vinieron d testigos falsosG1417
+- Mat_27:21¿a cuál de los d queréis que os suelte?[[G1417]]
+- Mat_27:38crucificaron con él a d ladrones, unoG1417
+- Mat_27:51el velo del templo se rasgó en d, deG1417
+- Mar_6:7llamó...y comenzó a enviarlos de d en dG1417
+- Mar_6:9sino...sandalias, y no vistiesen d túnicasG1417
+- Mar_6:38al saberlo, dijeron: Cinco, y d pecesG1417
+- Mar_6:41tomó los cinco panes y los d peces, yG1417
+- Mar_6:41dio...repartió los d peces entre todosG1417
+- Mar_9:43que teniendo d manos ir al infierno, alG1417
+- Mar_9:45cojo, que teniendo d pies ser echado enG1417
+- Mar_9:47teniendo d ojos ser echado al infiernoG1417
+- Mar_10:8y los d serán una sola carne; así queG1417
+- Mar_10:8así que no son ya más d, sino unoG1417
+- Mar_12:42vino una viuda pobre y echó d blancasG1417
+- Mar_14:1d días después...pascua, y la fiesta deG1417
+- Mar_14:13envió d de sus discípulos, y les dijoG1417
+- Mar_14:30haya cantado d veces, me negarás tresG1364
+- Mar_14:72antes que el gallo cante d veces, meG1364
+- Mar_15:27crucificaron...con él a d ladrones, unoG1417
+- Mar_15:38el velo del templo se rasgó en d, deG1417
+- Mar_16:12apareció en otra forma a d de ellosG1417
+- Luc_2:24un par de tórtolas, o d palominosG1417
+- Luc_3:11que tiene d túnicas, dé al que no tieneG1417
+- Luc_5:2d barcas que estaban cerca de la orillaG1417
+- Luc_7:18y llamó Juan a d de sus discípulosG1417
+- Luc_7:41un acreedor tenía d deudores: el uno leG1417
+- Luc_9:3no toméis nada para, ni llevéis d túnicasG1417
+- Luc_9:13no...más que cinco panes y d pescadosG1417
+- Luc_9:16tomando los cinco panes y los d pescadosG1417
+- Luc_9:30he aquí d varones que hablaban con élG1417
+- Luc_9:32vieron...los d varones que estaban con élG1417
+- Luc_10:1a quienes envió de d en d delante de élG1417
+- Luc_10:35sacó d denarios, y los dio al mesoneroG1417
+- Luc_12:6venden cinco pajarillos por d cuartos?[[G1417]]
+- Luc_12:52cinco...tres contra d, y d contra tresG1417
+- Luc_15:11también dijo: Un hombre tenía d hijosG1417
+- Luc_16:13ningún siervo puede servir a d señoresG1417
+- Luc_17:34aquella noche estarán d en una camaG1417
+- Luc_17:35d mujeres estarán moliendo juntas: litG1417
+- Luc_17:36d estarán en el campo; el uno...tomadoG1417
+- Luc_18:10d hombres subieron al templo a orarG1417
+- Luc_18:12ayuno d veces a la semana, doy diezmosG1364
+- Luc_19:29que llegando...envió d de sus discípulosG1417
+- Luc_21:2a una viuda...que echaba allí d blancasG1417
+- Luc_22:38dijeron: Señor, aquí hay d espadasG1417
+- Luc_23:32llevaban también con él a otros d, queG1417
+- Luc_24:4se pararon junto a ellas d varones conG1417
+- Luc_24:13d de ellos iban...a una aldea llamadaG1417
+- Jua_1:35vez estaba Juan, y d de sus discípulosG1417
+- Jua_1:37le oyeron hablar los d discípulos, yG1417
+- Jua_2:6en cada una de...cabían d o tres cántarosG1417
+- Jua_4:40que se quedase...y se quedó allí d díasG1417
+- Jua_4:43d días después, salió de allí y fue aG1417
+- Jua_6:9cinco panes de cebada y d pececillos; masG1417
+- Jua_11:6se quedó d días más en el...donde estabaG1417
+- Jua_19:18le crucificaron, y con él a otros dG1417
+- Jua_20:12vio a d ángeles con vestiduras blancasG1417
+- Jua_21:2estaban...y otros d de sus discípulosG1417
+- Hec_1:10se pusieron junto a ellos d varonesG1417
+- Hec_1:23señalaron a d: a José, llamado BarsabásG1417
+- Hec_1:24muestra cual de estos d has escogidoG1417
+- Hec_7:29y vivió...Madián, donde engendró d hijos,[[G1417]]
+- Hec_9:38allí, le enviaron d hombres, a rogarleG1417
+- Hec_10:7llamó a d de sus criados, y a un devotoG1417
+- Hec_12:6durmiendo entre d soldados, sujeto conG1417
+- Hec_12:6con d cadenas, y los guardas delante deG1417
+- Hec_19:10así continuó por espacio de d años, deG1417
+- Hec_19:22enviando...a d de los que le ayudabanG1417
+- Hec_19:34gritaron casi por d horas: ¡Grande esG1417
+- Hec_21:33prendió y le mandó atar con d cadenasG1417
+- Hec_23:23y llamando a d centuriones, mandó queG1417
+- Hec_24:27pero al cabo de d años recibió FélixG1333
+- Hec_27:41un lugar de d aguas, hicieron encallarG1337
+- Hec_28:30Pablo permaneció d años...en una casaG1333
+- 1Co_6:16dice: Los d serán una sola carneG1417
+- 1Co_14:27esto por d, o a lo más tres, y por turnoG1417
+- 1Co_14:29profetas hablen d o tres, y los demásG1417
+- 2Co_13:1por boca de d o de tres testigos seG1417
+- Efe_2:15crear...de los d un solo y nuevo hombreG1417
+- Efe_5:31se unirá...y los d serán una sola carneG1417
+- 1Ti_5:19no admitas acusación sino con d oG1417
+- Heb_6:18por d cosas...tengamos un...consuelo losG1417
+- Heb_10:28el testimonio de d o de tres testigosG1417
+- Rev_1:16de su boca salía una espada...d filosG1366
+- Rev_2:12el que tiene la espada...de d filos diceG1366
+- Rev_6:6d libras de trigo por un denario, y seis
+- Rev_9:12aquí, vienen aún d ayes después de estoG1417
+- Rev_11:3daré a mis d testigos que profeticenG1417
+- Rev_11:4son los d olivos, y los d candeleros queG1417
+- Rev_11:10estos d profetas habían atormentado aG1417
+- Rev_12:14le dieron...las d alas de la gran águilaG1417
+- Rev_13:11y tenía d cuernos semejantes a los deG1417
+- Rev_19:20estos d fueron lanzados vivos dentro deG1417

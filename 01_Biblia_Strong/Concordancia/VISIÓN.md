@@ -1,0 +1,106 @@
+---
+tipo: concordancia
+palabra: VISIÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VISIÓN
+
+- Gén_15:1vino la palabra de Jehová a Abram en vH4236
+- Gén_46:2y habló Dios a Israel en v de noche, yH4759
+- Éxo_3:3iré yo ahora y veré esta grande v, porH4758
+- Núm_12:6le apareceré en v, en sueños hablaréH4758
+- Núm_24:4, Núm_24:16dijo...el que vio la v del OmnipotenteH4236
+- 1Sa_3:1escaseaba...no había v con frecuenciaH2377
+- 1Sa_3:15y Samuel temía descubrir la v a ElíH4758
+- 2Sa_7:17conforme a toda esta v...habló NatánH2384
+- 1Cr_17:15conforme a toda esta v, así hablóH2377
+- 2Cr_26:5de Zacarías, entendido en v de DiosH7200
+- Job_4:13imaginaciones de v nocturnas, cuandoH2384
+- Job_7:14asustas con sueños, y me aterras con vH2384
+- Job_20:8hallado, y se disipará como v nocturnaH2384
+- Job_33:15v nocturna, cuando el sueño cae sobreH2384
+- Sal_89:19hablaste en v a tu santo, y dijisteH2377
+- Isa_1:1v de Isaías hijo de Amoz, la cual vioH2377
+- Isa_21:2v dura me ha sido mostrada...prevaricaH2380
+- Isa_22:1profecía sobre el valle de la v...¿QuéH2384
+- Isa_22:5en el valle de la v, para derribar elH2384
+- Isa_28:7erraron en la v tropezaron en el juicioH7203
+- Isa_29:7como sueño de v nocturna la multitud deH2377
+- Isa_29:11os será toda v como palabras de libroH2380
+- Isa_30:8escribe esta v en una tabla delante deH2380
+- Jer_14:14v mentirosa...vanidad...os profetizanH2377
+- Jer_23:16hablan v de su propio corazón, no de laH2377
+- Lam_2:9profetas tampoco hallaron v de JehováH2377
+- Eze_1:1los cielos se abrieron, y vi v de DiosH4759
+- Eze_1:13aspecto...como v de hachones encendidosH4758
+- Eze_1:28fue la v de la semejanza de la gloria deH4758
+- Eze_7:13porque la v sobre toda la multitud no seH2377
+- Eze_8:3me llevó en v de Dios a Jerusalén, a laH4759
+- Eze_8:4como la v que yo había visto en el campoH4758
+- Eze_11:24el Espíritu y me volvió a llevar en vH4758
+- Eze_11:24y se fue de mí la v que había vistoH4758
+- Eze_12:22van prolongando...desaparecerá toda v?[[H2377]]
+- Eze_12:23han acercado...el cumplimiento de toda vH2377
+- Eze_12:24no habrá más v vana, ni...adivinaciónH2377
+- Eze_12:27v que éste ve es para de aquí a muchosH2377
+- Eze_13:7¿no habéis visto v vana, y no habéisH4236
+- Eze_13:16y ven para ella v de paz, no habiendoH2377
+- Eze_13:23no veréis más v vana, ni practicaréisH2372
+- Eze_40:2en v de...me llevó a la tierra de IsraelH4759
+- Eze_43:3lo que vi era como una v, como aquella vH4758
+- Eze_43:3y las v eran como la v que vi junto alH4758
+- Dan_1:17Daniel tuvo entendimiento en toda v yH2377
+- Dan_2:19el secreto fue revelado a Daniel en v deH2376
+- Dan_2:28he aquí...las v que has tenido en tu camaH2376
+- Dan_4:5vi un sueño...v de mi cabeza me turbaronH2376
+- Dan_4:9declárame las v de mi sueño que he vistoH2376
+- Dan_4:10las v de mi cabeza mientras estaba enH2376
+- Dan_4:13vi en las v de mi cabeza...un vigilanteH2376
+- Dan_7:1tuvo...v de su cabeza mientras estaba enH2376
+- Dan_7:2Daniel dijo: Miraba yo en mi v de nocheH2376
+- Dan_7:7, Dan_7:13miraba yo en las v de la noche, y heH2376
+- Dan_7:15turbó...las v de mi cabeza me asombraronH2376
+- Dan_8:1el año tercero del rey...me apareció una vH2377
+- Dan_8:2vi en v...vi, pues, en v, estando junto alH2377
+- Dan_8:13¿hasta cuándo durará la v del continuoH2377
+- Dan_8:15mientras yo Daniel consideraba las v yH2377
+- Dan_8:16gritó y dijo: Gabriel, enseña a éste la vH4758
+- Dan_8:17porque la v es para el tiempo del finH4758
+- Dan_8:26la v de las tardes...es verdadera; y túH4758
+- Dan_8:26guarda la v, porque es para muchos díasH2377
+- Dan_8:27pero estaba espantado a causa de la vH4758
+- Dan_9:21Gabriel, a quien había visto en la v alH2377
+- Dan_9:23entiende...la orden, y entiende la vH2377
+- Dan_9:24y sellar la v y la profecía, y ungir alH2377
+- Dan_10:1comprendió...y tuvo inteligencia en la vH4758
+- Dan_10:7sólo yo, Daniel, vi aquella v, y no laH4759
+- Dan_10:8quedé, pues, yo solo, y vi esta gran vH4759
+- Dan_10:14hacerte saber...la v es para esos díasH2377
+- Dan_10:16con la v me han sobrevenido dolores, yH4758
+- Dan_11:14se levantarán para cumplir la v, peroH2377
+- Joe_2:28Espíritu...y vuestros jóvenes verán vH2384
+- Abd_1:1v de Abdías...Jehová el Señor ha dichoH2377
+- Nah_1:1sobre Nínive...Libro de la v de NahumH2377
+- Hab_2:2escribe la v y declárala en tablasH2377
+- Hab_2:3la v tardará aún por un tiempo, mas seH2377
+- Zac_13:4los profetas se avergonzarán de su vH2384
+- Mat_17:9no digáis a nadie la v, hasta que elG3705
+- Luc_1:22comprendieron que había visto v en elG3701
+- Luc_24:23que también habían visto v de ángelesG3701
+- Hec_2:17vuestros jóvenes verán v, y vuestrosG3706
+- Hec_7:31Moisés, mirando, se maravilló de la vG3705
+- Hec_9:10a quien el Señor dijo en v: Ananías...Y élG3705
+- Hec_9:12ha visto en v a un varón llamado AnaníasG3705
+- Hec_10:3este vio claramente en una v, como a laG3705
+- Hec_10:17que significaría la v que había vistoG3705
+- Hec_10:19y mientras Pedro pensaba en la v, leG3705
+- Hec_11:5vi en éxtasis una v; algo semejante aG3705
+- Hec_12:9ángel, sino que pensaba que veía una vG3705
+- Hec_16:9se le mostró a Pablo una v de noche; unG3705
+- Hec_16:10cuando vio la v...procuramos partir paraG3705
+- Hec_18:9el Señor dijo a Pablo en v de noche: NoG3705
+- Hec_26:19oh rey...no fui rebelde a la v celestialG3705
+- 2Co_12:1vendré a las v y a las revelacionesG3701
+- Rev_9:17vi en v los caballos y a sus jinetesG3706

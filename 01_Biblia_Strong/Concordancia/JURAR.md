@@ -1,0 +1,201 @@
+---
+tipo: concordancia
+palabra: JURAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JURAR
+
+- Gén_21:23júrame...que no faltarás a mí, ni aH7650
+- Gén_21:24y respondió Abraham: Yo juraréH7650
+- Gén_21:31llamaron...Beerseba; porque allí juraronH7650
+- Gén_22:16por mí mismo he jurado, dice JehováH7650
+- Gén_24:7juró, diciendo: A tu descendencia daréH7650
+- Gén_24:9el criado...le juró sobre este negocioH7650
+- Gén_24:37y mi amo me hizo jurar, diciendo: NoH7650
+- Gén_25:33júramela en este día. Y él le juró, yH7650
+- Gén_26:31se levantaron...y juraron el uno al otroH7650
+- Gén_31:53Jacob juró por...a quien temía Isaac suH7650
+- Gén_47:31Israel dijo: Júramelo. Y José le juróH7650
+- Gén_50:5mi padre mi hizo jurar, diciendo: HeH7650
+- Gén_50:6sepulta...padre, como él te hizo jurarH7650
+- Gén_50:24la tierra que juró a Abraham, a IsaacH7650
+- Gén_50:25hizo jurar José a los hijos de IsraelH7650
+- Éxo_6:8jurando...la daría a Abraham, a IsaacH5375
+- Éxo_13:5tierra...juró a tus padres que te daríaH7650
+- Éxo_13:11te haya metido en...como te ha juradoH7650
+- Éxo_32:13tus siervos, a los cuales has juradoH7650
+- Éxo_33:1a la tierra de la cual juré a AbrahamH7650
+- Lev_5:4alguno Jurare...hacer mal o hacer bienH7650
+- Lev_6:3lo perdido...lo negare, y jurare en falsoH7650
+- Lev_6:5hubiere jurado falsamente; lo restituiráH7650
+- Lev_19:12no juraréis falsamente por mi nombreH7650
+- Núm_11:12a la tierra de la cual juraste a susH7650
+- Núm_14:16la tierra de la cual les había juradoH7650
+- Núm_14:23la tierra de la cual juré a sus padresH7650
+- Núm_14:30y juré que os haría habitar en ellaH5375
+- Núm_32:10la ira de Jehová se encendió...y juróH7650
+- Deu_1:8y poseed la tierra que Jehová juró aH7650
+- Deu_1:34oyó Jehová la voz de...y juró diciendoH7650
+- Deu_1:35buena tierra que juré que había de darH7650
+- Deu_2:14se acabó...como Jehová les había juradoH7650
+- Deu_4:21y juró que yo no pasaría el Jordán, niH7650
+- Deu_4:31ni se olvidará del pacto que les juró aH7650
+- Deu_6:10en la tierra que juró a...Isaac y JacobH7650
+- Deu_6:13Jehová tu Dios, por su nombre jurarásH7650
+- Deu_6:18la buena tierra que Jehová juró a tusH7650
+- Deu_6:23la tierra que juró a nuestros padresH7650
+- Deu_7:8el juramento que juró a vuestros padresH7650
+- Deu_7:12guardará contigo el pacto y...que juró aH7650
+- Deu_7:13en la tierra que juró a tus padres queH7650
+- Deu_8:18a fin de confirmar su pacto que juró aH7650
+- Deu_9:5la palabra que Jehová juró a tus padresH7650
+- Deu_10:11posean la tierra que juré a sus padresH7650
+- Deu_10:20a él seguirás, y por su nombre jurarásH7650
+- Deu_11:9sobre la tierra, de la cual juró JehováH7650
+- Deu_11:21la tierra que Jehová juró...había de darH7650
+- Deu_13:17multipliqué, como lo juró a tus padresH7650
+- Deu_19:8ensanchare tu territorio, como lo juróH7650
+- Deu_26:3he entrado en la tierra que juró JehováH7650
+- Deu_26:15dado, como juraste a nuestros padresH7650
+- Deu_28:9confirmará Jehová...como te lo ha juradoH7650
+- Deu_28:11en el país que...juró a tus padres queH7650
+- Deu_29:13y como lo juró a tus padres AbrahamH7650
+- Deu_30:20habites...la tierra que juró Jehová aH7650
+- Deu_31:7entrarás...a la tierra que juró JehováH7650
+- Deu_31:20en la tierra que juré a sus padres, laH7650
+- Deu_31:21los introduzca en la tierra que juréH7650
+- Deu_31:23en la tierra que les juré, y yo estaréH7650
+- Deu_34:4es la tierra de que juré a Abraham, aH7650
+- Jos_1:6tierra de la cual juré a sus padresH7650
+- Jos_2:12ruego, pues...que me juréis por JehováH7650
+- Jos_5:6juró que no les dejaría ver la tierraH7650
+- Jos_5:6la cual Jehová había jurado a sus padresH7650
+- Jos_6:22haced salir...la mujer...como lo jurasteisH7650
+- Jos_9:15y también lo juraron los príncipes deH7650
+- Jos_9:18los príncipes...habían jurado por JehováH7650
+- Jos_9:19nosotros...hemos jurado por Jehová DiosH7650
+- Jos_14:9Moisés juró...la tierra que...será para tiH7650
+- Jos_21:43dio...toda la tierra que había juradoH7650
+- Jos_21:44conforme a todo lo que había juradoH7650
+- Jos_23:7ni juréis por el nombre de sus diosesH7650
+- Jue_2:1en la tierra de la cual había juradoH7650
+- Jue_2:15para mal...como Jehová se lo había juradoH7650
+- Jue_15:7Sansón...juro que me vengaré de vosotros
+- Jue_15:12juradme que vosotros no me mataréisH7650
+- Jue_21:1los...de Israel habían jurado en MizpaH7650
+- Jue_21:7jurado por Jehová que no les daremosH7650
+- Jue_21:18los hijos de Israel han jurado diciendoH7650
+- 1Sa_3:14jurado...iniquidad de la casa de ElíH7650
+- 1Sa_14:28tu padre ha hecho jurar solemnementeH7650
+- 1Sa_19:6juró Saúl: Vive Jehová, que no moriráH7650
+- 1Sa_20:3volvió a jurar diciendo: Tu padre sabeH7650
+- 1Sa_20:17Jonatán hizo jurar a David otra vezH7650
+- 1Sa_20:42hemos jurado por el nombre de JehováH7650
+- 1Sa_24:21júrame...por Jehová, que no destruirásH7650
+- 1Sa_24:22entonces David juró a Saúl. Y se fueH7650
+- 1Sa_28:10Saúl le juró por...diciendo: Vive JehováH7650
+- 1Sa_30:15júrame por Dios que no me matarás, niH7650
+- 2Sa_3:9si como ha jurado Jehová a David, noH7650
+- 2Sa_3:35David juró diciendo: Así me haga DiosH7650
+- 2Sa_19:7juro por...que si no sales, no quedaráH7650
+- 2Sa_19:23a Simei: No morirás...el rey se lo juróH7650
+- 2Sa_21:17juraron, diciendo: Nunca mas...saldrásH7650
+- 1Re_1:13señor mío, ¿no juraste a tu siervaH7650
+- 1Re_1:17juraste a tu sierva por Jehová tu DiosH7650
+- 1Re_1:29el rey juró diciendo: Vive Jehová, queH7650
+- 1Re_1:30como yo te he jurado por Jehová Dios deH7650
+- 1Re_1:51júreme...el rey Salomón que no matará aH7650
+- 1Re_2:8yo le juré por...diciendo: Yo no te mataréH7650
+- 1Re_2:23Salomón juró por Jehová, diciendo: AsíH7650
+- 1Re_2:42¿no te hice jurar yo por Jehová, y teH7650
+- 1Re_8:31le tomaren juramento haciéndole jurarH422
+- 1Re_18:10ha hecho jurar que no te han halladoH7650
+- 2Cr_6:22y viniere a jurar ante tu altar enH423
+- 2Cr_15:14juraron a Jehová con gran voz y júbiloH7650
+- 2Cr_15:15todo su corazón lo juraban, y de todaH7650
+- 2Cr_36:13Nabucodonosor, al cual había juradoH7650
+- Esd_10:5juramentó a...Israel...ellos juraronH7650
+- Neh_5:12les hice jurar que harían conformeH7650
+- Neh_9:15la tierra, por la cual...juraste que seH5375, [[H3027]]
+- Neh_10:29jurar que andarían en la ley de DiosH7650
+- Neh_13:25y les hice jurar, diciendo: No daréisH7650
+- Sal_15:4el que aun jurando en daño suyo, noH7650
+- Sal_24:4no ha elevado su...ni jurado con engañoH7650
+- Sal_63:11será alabado cualquiera que jura porH7650
+- Sal_89:3hice pacto con...juré a David mi siervoH7650
+- Sal_89:35una vez he jurado por mi santidad, yH7650
+- Sal_89:49tus...misericordias, que juraste a DavidH7650
+- Sal_95:11juré en...que no entrarían en mi reposoH7650
+- Sal_110:4juró Jehová, y no se arrepentirá: TúH7650
+- Sal_119:106juré...guardaré tus justos juiciosH7650
+- Sal_132:2de cómo juró a Jehová, y prometió alH7650
+- Sal_132:11en verdad juró Jehová a David, y noH7650
+- Ecl_9:2al que jura...al que teme el juramentoH7650
+- Isa_3:7jurará aquel día, diciendo: No tomaréH5375
+- Isa_14:24Jehová...juró diciendo: Ciertamente seH7650
+- Isa_19:18cinco ciudades...que juren por JehováH7650
+- Isa_45:23a mí se doblará...jurará toda lenguaH7650
+- Isa_48:1oíd esto...los que juran en el nombre deH7650
+- Isa_54:9juré que nunca más las aguas de NoéH7650
+- Isa_54:9así he jurado que no me enojaré contraH7650
+- Isa_62:8juró Jehová por su mano derecha, y porH7650
+- Isa_65:16jurare...por el Dios de verdad juraráH7650
+- Jer_4:2jurares: Vive Jehová, en verdad, enH7650
+- Jer_5:2digan: Vive Jehová, juran falsamenteH7650
+- Jer_5:7sus hijos...juraron, por lo que no es DiosH7650
+- Jer_7:9jurando en falso, e incensando a BaalH7650
+- Jer_12:16para jurar en mi nombre, diciendo: ViveH7650
+- Jer_12:16enseñaron a mi pueblo a jurar por BaalH7650
+- Jer_22:5he jurado...que esta casa será desiertaH7650
+- Jer_32:22tierra, de la cual juraste...la daríasH7650
+- Jer_38:16y juró el rey Sedequías en secreto aH7650
+- Jer_40:9y les juró Gedalías...No tengáis temor deH7650
+- Jer_44:26he jurado por mi grande nombre, diceH7650
+- Jer_49:13por mí he jurado...asolamiento, oprobioH7650
+- Jer_51:14Jehová de...juró por sí mismo, diciendoH7650
+- Eze_20:5alcé mi mano para jurar a...de JacobH5375, [[H3027]]
+- Eze_20:5juré diciendo...soy Jehová vuestro DiosH5375, [[H3027]]
+- Eze_20:6jurando...que los sacaría de la tierraH5375, [[H3027]]
+- Eze_20:15jurando que no los traería a la tierraH5375, [[H3027]]
+- Eze_20:23jurando que los esparciría entre lasH5375, [[H3027]]
+- Eze_20:28la cual...jurando que había de dárselaH5375, [[H3027]]
+- Eze_20:42jurando que la daría a vuestros padresH5375, [[H3027]]
+- Eze_36:7he jurado que las naciones que están aH5375, [[H3027]]
+- Eze_44:12jurado...que ellos llevarán su iniquidadH5375, [[H3027]]
+- Eze_47:14jurando que la había de dar a vuestrosH5375, [[H3027]]
+- Dan_12:7y juró por el que vive por los siglosH7650
+- Ose_4:15no entréis en...ni juréis: Vive JehováH7650
+- Ose_10:4palabras jurando en vano al hacer pactoH422
+- Amó_4:2Jehová el Señor juró por su santidadH7650
+- Amó_6:8el Señor juró por sí mismo...Abomino laH7650
+- Amó_8:7Jehová juró por la gloria de Jacob: NoH7650
+- Amó_8:14los que juran por el pecado de SamariaH7650
+- Miq_7:20misericordia, que juraste a...padresH7650
+- Sof_1:5jurando por Jehová y j por MilcomH7650
+- Zac_5:3todo aquel que jura...será destruidoH7650
+- Zac_5:4a la casa del que jura falsamente en miH7650
+- Mal_3:5pronto testigo...contra los que juranH7650
+- Mat_5:34no juréis en ninguna manera; ni porG3660
+- Mat_5:36ni por tu cabeza jurarás, porque noG3660
+- Mat_23:16alguno jura por el templo, no es nadaG3660
+- Mat_23:16si alguno jura por el oro del temploG3660
+- Mat_23:18alguno jura por el altar, no es nadaG3660
+- Mat_23:18jura por la ofrenda que está sobre élG3660
+- Mat_23:20el que jura por el altar, j por él, yG3660
+- Mat_23:21el que jura por el templo, j por él, yG3660
+- Mat_23:22jura por el cielo, j por el trono deG3660
+- Mat_26:74él comenzó a maldecir, y a jurarG3660
+- Mar_6:23juró: Todo lo que me pidas te daréG3660
+- Mar_14:71él comenzó a maldecir, y a jurarG3660
+- Hec_2:30había jurado que de su descendenciaG3727
+- Hec_7:17de la promesa, que Dios había jurado aG3660
+- Heb_3:11tanto, juré en mi ira: No entrarán enG3660
+- Heb_3:18a quienes juró que no entrarían en suG3660
+- Heb_4:3juré en mi ira, No entrarán en mi reposoG3660
+- Heb_6:13no pudiendo jurar por otro mayor, juróG3660
+- Heb_6:16hombres...juran por uno mayor que ellosG3660
+- Heb_7:21juró el Señor, y no se arrepentirá: TúG3660
+- Stg_5:12no juréis, ni por el cielo, ni porG3660
+- Rev_10:6y juró por el que vive por los siglosG3660

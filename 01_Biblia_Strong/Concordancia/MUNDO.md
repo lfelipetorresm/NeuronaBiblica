@@ -1,0 +1,227 @@
+---
+tipo: concordancia
+palabra: MUNDO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MUNDO
+
+- 1Sa_2:8de Jehová...él afirmó sobre ellas el mH8398
+- 2Sa_22:16al descubierto los cimientos del mH8398
+- 1Cr_16:30el m será aún establecido, para queH8398
+- Job_18:18será lanzado a...echado fuera del mH8398
+- Job_34:13él...¿y quién puso en orden todo el m?[[H8398]]
+- Job_37:12para hacer sobre la faz del m, en laH8398
+- Sal_9:8él juzgará al m con justicia, y a losH8398
+- Sal_18:15descubierto los cimientos del m, a tuH8398
+- Sal_19:4y hasta el extremo del m sus palabrasH8398
+- Sal_24:1de Jehová...el m, y los que en él habitanH8398
+- Sal_33:8teman delante de él...habitantes del mH8398
+- Sal_49:1oíd...escuchad, habitantes todos del mH2465
+- Sal_50:12a ti; porque mío es el m y su plenitudH8398
+- Sal_73:12estos impíos, sin ser turbados del mH5769
+- Sal_77:18trueno tus relámpagos alumbraron el mH8398
+- Sal_89:11tuyos...m y su plenitud, tú lo fundasteH8398
+- Sal_90:2antes que...y formases la tierra y el mH8398
+- Sal_93:1afirmó también el m, y no se moveráH8398
+- Sal_96:10reina...afirmó el m, no será conmovidoH8398
+- Sal_96:13juzgará al m con justicia, y a...pueblosH8398
+- Sal_97:4relámpagos alumbraron el m; la tierraH8398
+- Sal_98:7brame el...el m y los que en él habitanH8398
+- Sal_98:9juzgará al m con justicia, y a...pueblosH8398
+- Pro_8:26no...ni el principio del polvo del mH8398
+- Isa_13:11y castigaré al m por su maldad, y aH8398
+- Isa_14:17puso el m como un desierto, que asolóH8398
+- Isa_14:21no...ni llenen de ciudades la faz del mH8398
+- Isa_18:3vosotros, todos los moradores del m yH8398
+- Isa_23:17fornicará con todos los reinos del mH776
+- Isa_24:4enfermó, cayó el m; enfermaron los altosH8398
+- Isa_26:9los moradores del m aprenden justiciaH8398
+- Isa_26:18tierra, ni cayeron los moradores del mH8398
+- Isa_27:6Israel, y la faz del m llenará de frutoH8398
+- Isa_34:1oiga la tierra...m y todo lo que produceH8398
+- Isa_38:11ya no veré más hombre con los...del mH2309
+- Jer_10:12que puso en orden el m con su saberH8398
+- Jer_25:26y a todos los reinos del m que estánH776
+- Jer_51:15él es...que afirmó el m con su sabiduríaH8398
+- Lam_4:12ni...los que habitan en el m, creyeronH8398
+- Nah_1:5y el m, y todos los que en él habitanH8398
+- Mat_4:8le mostró todos los reinos del m y laG2889
+- Mat_5:14vosotros sois la luz del m; una ciudadG2889
+- Mat_13:35escondidas desde la fundación del mG2889
+- Mat_13:38el campo es el m; la buena semilla sonG2889
+- Mat_16:26¿qué aprovechará...si ganare todo el mG2889
+- Mat_18:7¡ay del m por los tropiezos! porque esG2889
+- Mat_24:14predicado este evangelio...en todo el mG3625
+- Mat_24:21desde el principio del m hasta ahoraG2889
+- Mat_25:34preparado...desde la fundación del mG2889
+- Mat_26:13en todo el m...se contará lo que ésta haG2889
+- Mat_28:20estoy con vosotros...hasta el fin del mG165
+- Mar_8:36ganare todo el m, y perdiere su alma?[[G2889]]
+- Mar_14:9en todo el m...se contará lo que ésta haG2889
+- Mar_16:15por todo el m y predicad el evangelioG2889
+- Luc_2:1un edicto...todo el m fuese empadronadoG3625
+- Luc_9:25si gana todo el m, y se destruye o seG2889
+- Luc_11:50ha derramado desde la fundación del inG2889
+- Luc_12:30estas cosas buscan las gentes del mG2889
+- Jua_1:9aquella luz verdadera...venía a este mG2889
+- Jua_1:10en el m estaba, y el m por él fue hechoG2889
+- Jua_1:10por...fue hecho; pero el m no le conocióG2889
+- Jua_1:29el Cordero...que quita el pecado del mG2889
+- Jua_3:16de tal manera amó Dios al m, que ha dadoG2889
+- Jua_3:17no envié...su Hijo al m para condenar al mG2889
+- Jua_3:17no...sino para que el m sea salvo por élG2889
+- Jua_3:19la luz vino al m, y los hombres amaronG2889
+- Jua_4:42sabemos que...éste es el Salvador del mG2889
+- Jua_6:14es el profeta que había de venir al mG2889
+- Jua_6:33que descendió del cielo y da vida al mG2889
+- Jua_6:51es mi carne...yo daré por la vida del mG2889
+- Jua_7:4si estas cosas haces, manifiéstate al mG2889
+- Jua_7:7no puede el m aborreceros a vosotros; masG2889
+- Jua_8:12yo soy la luz del m; el que me sigue, noG2889
+- Jua_8:23sois de este m, yo no soy de este mG2889
+- Jua_8:26yo, lo que he oído de él, esto hablo al mG2889
+- Jua_9:5tanto que estoy en el m, luz soy del mG2889
+- Jua_9:39para juicio he venido yo a este m; paraG2889
+- Jua_10:36al que el Padre santificó y envió al mG2889
+- Jua_11:9no tropieza, porque ve la luz de este mG2889
+- Jua_11:27el Hijo de Dios, que has venido al mG2889
+- Jua_12:19ya veis que...Mirad, el m se va tras élG2889
+- Jua_12:25el que aborrece su vida en este m, paraG2889
+- Jua_12:31ahora es el juicio de este m; ahora elG2889
+- Jua_12:31príncipe de este m será echado fueraG2889
+- Jua_12:46yo, la luz, he venido al m, para queG2889
+- Jua_12:47no...a juzgar al m, sino a salvar al mG2889
+- Jua_13:1hora...para que pasase de este m al PadreG2889
+- Jua_13:1amado a los suyos que estaban en el mG2889
+- Jua_14:17Espíritu...cual el m no puede recibirG2889
+- Jua_14:19todavía un poco, y el m no me verá másG2889
+- Jua_14:22te manifestarás a nosotros, y no al m?[[G2889]]
+- Jua_14:27la paz...yo no os la doy como el m la daG2889
+- Jua_14:30porque viene el príncipe de este m, yG2889
+- Jua_14:31para que el m conozca que amo al PadreG2889
+- Jua_15:18si el m os aborrece, sabed que a mí meG2889
+- Jua_15:19si fuerais del m, el m amaría lo suyoG2889
+- Jua_15:19porque no sois del m...os elegí del mG2889
+- Jua_15:19yo os elegí...por eso el m os aborreceG2889
+- Jua_16:8convencerá al m de pecado, de justiciaG2889
+- Jua_16:11príncipe de este m ha sido ya juzgadoG2889
+- Jua_16:20vosotros lloraréis...y el m se alegraráG2889
+- Jua_16:21de que haya nacido un hombre en el mG2889
+- Jua_16:28y he venido al in; otra vez dejo el m, yG2889
+- Jua_16:33en el m tendréis...yo he vencido al mG2889
+- Jua_17:5gloria que tuve...antes que el m fueseG2889
+- Jua_17:6a los hombres que del Áti me diste; tuyosG2889
+- Jua_17:9no ruego por el m, sino por los que meG2889
+- Jua_17:11no estoy en el m...éstos están en el mG2889
+- Jua_17:12cuando estaba con ellos en el m, yo losG2889
+- Jua_17:13y hablo esto en el m, para que tenganG2889
+- Jua_17:14el m los aborreció, porque no son delG2889
+- Jua_17:14, Jua_17:16no son del m...tampoco yo soy del mG2889
+- Jua_17:15no ruego que los quites del m, sino queG2889
+- Jua_17:18me enviaste al m...los he enviado al mG2889
+- Jua_17:21para que el m crea que tú me enviasteG2889
+- Jua_17:23para que el m conozca que tú me enviasteG2889
+- Jua_17:24has amado...antes de la fundación del mG2889
+- Jua_17:25Padre justo, el m no te ha conocidoG2889
+- Jua_18:20públicamente he hablado al m; siempreG2889
+- Jua_18:36reino no es de este m; si...de este mG2889
+- Jua_18:37y para esto he venido al m, para darG2889
+- Jua_21:25ni aún en el m cabrían los libros queG2889
+- Hec_17:6que transtornan el m...han venido acáG3625
+- Hec_17:24Dios que hizo el m y todas las cosasG2889
+- Hec_17:31día en el cual juzgará al m con justiciaG3625
+- Hec_19:27a quien venera toda Asia, y el m enteroG3625
+- Hec_24:5promotor de sediciones...por todo el mG3625
+- Rom_1:8que vuestra fe se divulga por todo el mG2889
+- Rom_1:20visibles desde la creación del m, siendoG2889
+- Rom_3:6de otro modo, ¿cómo juzgaría Dios al m?[[G2889]]
+- Rom_3:19todo el m quede bajo el juicio de DiosG2889
+- Rom_4:13la promesa de que sería heredero del mG2889
+- Rom_5:12el pecado entró en el m por un hombreG2889
+- Rom_5:13antes de la ley, había pecado en el mG2889
+- Rom_11:12si su transgresión es la riqueza del mG2889
+- Rom_11:15su exclusión es la reconciliación del mG2889
+- 1Co_1:20ha enloquecido...la sabiduría del mG2889
+- 1Co_1:21ya que...el m no conoció a Dios medianteG2889
+- 1Co_1:27que lo necio del m escogió Dios, paraG2889
+- 1Co_1:27lo débil del m...avergonzar a lo fuerteG2889
+- 1Co_1:28lo vil del m y lo menospreciado escogióG2889
+- 1Co_2:12no hemos recibido el espíritu del m, sinoG2889
+- 1Co_3:19la sabiduría de este m es insensatez paraG2889
+- 1Co_3:22sea el m, sea la vida, sea la muerteG2889
+- 1Co_4:9hemos llegado a ser espectáculo al m, aG2889
+- 1Co_4:13hemos venido a ser...la escoria del mG2889
+- 1Co_5:10no...con los fornicarios de este m, o conG2889
+- 1Co_5:10tal caso os sería necesario salir del mG2889
+- 1Co_6:2santos han de juzgar al m? Y si el m haG2889
+- 1Co_7:31los que disfrutan de este m, como si noG2889
+- 1Co_7:31porque la apariencia de este m se pasaG2889
+- 1Co_7:33-34tiene cuidado de las cosas del m, deG2889
+- 1Co_8:4sabemos que un ídolo nada es en el m, yG2889
+- 1Co_11:32para que no seamos condenados con el mG2889
+- 1Co_14:10tantas clases de idiomas hay...en el mG2889
+- 2Co_1:12Dios, nos hemos conducido en el mG2889
+- 2Co_5:19en Cristo reconciliando consigo al mG2889
+- 2Co_7:10pero la tristeza del m produce muerteG2889
+- Gál_4:3en esclavitud bajo los rudimentos del mG2889
+- Gál_6:14el m me es crucificado a mí, y yo al mG2889
+- Efe_1:4escogió...antes de la fundación del mG2889
+- Efe_2:2siguiendo la corriente de...m, conformeG2889
+- Efe_2:12estabais sin Cristo...y sin Dios en el mG2889
+- Flp_2:15resplandeceís como luminares en el mG2889
+- Col_1:6que ha llegado...así como a todos en el mG2889
+- Col_2:8conforme a los rudimentos del m, y noG2889
+- Col_2:20habeís muerto...a los rudimentos del mG2889
+- Col_2:20como si vivieseis en el m, os someteísG2889
+- 1Ti_1:15Cristo Jesús vino al m para salvarG2889
+- 1Ti_3:16creído en el m, recibido arriba...gloriaG2889
+- 1Ti_6:7nada hemos traido ha este m, y sin dudaG2889
+- 2Ti_4:10me ha desamparado, amando este m
+- Heb_1:6introduce al primogénito en el m, dice
+- Heb_2:5no sujetó a los ángeles el m venideroG3625
+- Heb_4:3obras...acabadas desde la fundación del m
+- Heb_9:26muchas veces desde el principio del mG2889
+- Heb_10:5entrando en el m dice: Sacrificio yG2889
+- Heb_11:7y por esa fe condenó al m, y fue hechoG2889
+- Heb_11:38de los cuales el m no era digno; errandoG2889
+- Stg_1:27visitar...guardarse sin mancha del mG2889
+- Stg_2:5¿no ha elegido...a los pobres de este mG2889
+- Stg_3:6y la lengua es un fuego, un m de maldadG2889
+- Stg_4:4amistad del m es enemistad contra Dios?[[G2889]]
+- Stg_4:4quiera ser amigo del m...enemigo de DiosG2889
+- 1Pe_1:20ya...desde antes de la fundación del mG2889
+- 1Pe_5:9van cumpliendo en...hermanos en todo el mG2889
+- 2Pe_1:4huido de la corrupción que...en el mG2889
+- 2Pe_2:5y si no perdonó al m antiguo, sino queG2889
+- 2Pe_2:5trayendo el diluvio sobre el m de...impíosG2889
+- 2Pe_2:20escapado de las contaminaciones del mG2889
+- 2Pe_3:6el m de entonces pereció anegado en aguaG2889
+- 1Jn_2:2no...sino también por los de todo el mG2889
+- 1Jn_2:15no ameís al m, ni las cosas que...en el mG2889
+- 1Jn_2:15si alguno ama al m, el amor del PadreG2889
+- 1Jn_2:16que hay en el m...no proviene del PadreG2889
+- 1Jn_2:16vida, no proviene del Padre, sino del mG2889
+- 1Jn_2:17y el m pasa, y sus deseos; pero el queG2889
+- 1Jn_3:1por eso el m no nos conoce, porque no leG2889
+- 1Jn_3:13míos, no os extrañeís si el m os aborreceG2889
+- 1Jn_3:17el que tiene bienes de este m y ve a suG2889
+- 1Jn_4:1muchos falsos profetas han salido...el mG2889
+- 1Jn_4:3que viene, y que ahora ya está en el mG2889
+- 1Jn_4:4mayor es el que...que el que está en el mG2889
+- 1Jn_4:5son del m...hablan del m,y el m los oyeG2889
+- 1Jn_4:9que Dios envió a su Hijo unigénito al mG2889
+- 1Jn_4:14ha enviado al Hijo, el salvador del mG2889
+- 1Jn_4:17como él es, así somos nosotros en este mG2889
+- 1Jn_5:4todo el que es nacido de Dios vence al mG2889
+- 1Jn_5:4esta es la victoria que ha vencido al mG2889
+- 1Jn_5:5¿quién es...vence al m, sino el que creeG2889
+- 1Jn_5:19que...el m entero está bajo el malignoG2889
+- 2Jn_1:7muchos engañadores han salido por el mG2889
+- Rev_3:10la prueba que ha de venir sobre el mG3625
+- Rev_11:15los reinos del m han venido a ser deG2889
+- Rev_12:9y Satanás, el cual engaña al m enteroG3625
+- Rev_13:8fue inmolado desde el principio del mG2889
+- Rev_16:14y van a los reyes...en todo el m, paraG3625
+- Rev_17:8escritos desde la fundación del m en elG2889

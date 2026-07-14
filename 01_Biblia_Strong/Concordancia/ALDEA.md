@@ -1,0 +1,120 @@
+---
+tipo: concordancia
+palabra: ALDEA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ALDEA
+
+- Lev_25:31las casas de las a que no tienen muroH2691
+- Núm_21:25habitó en...Hesbón y en todas sus aH1323
+- Núm_21:32tomaron sus a, y echaron al amorreo queH1323
+- Núm_31:10e incendiaron todas sus ciudades, a y
+- Núm_32:41Jair...tomó sus a, y les puso por nombreH2333
+- Núm_32:42y tomó Kenat y sus a, y lo llamó NobaH1323
+- Deu_2:23a los aveos que habitaban en a hastaH2699
+- Deu_26:12darás...comerán en tus a, y se saciaránH8179
+- Jos_13:23los hijos de Rubén...ciudades con sus aH2691
+- Jos_13:28heredad...Gad...estas ciudades con sus aH2691
+- Jos_13:30todas las a de Jair que están en BasánH2333
+- Jos_15:32Rimón; por todas 29 ciudades con sus aH2691
+- Jos_15:36Gederotaim; catorce ciudades con sus aH2691
+- Jos_15:41Gederot...dieciséis ciudades con sus aH2691
+- Jos_15:44Keila, Aczib...nueve ciudades con sus aH2691
+- Jos_15:45Ecrón con sus villas y sus aH2691
+- Jos_15:46las que están cerca de Asdod con sus aH2691
+- Jos_15:47Asdod con sus villas y sus a; Gaza...aH2691
+- Jos_15:51Gosén, Holón...once ciudades con sus aH2691
+- Jos_15:54Humta...y Sior; nueve ciudades con sus aH2691
+- Jos_15:57Caín...y Timna; diez ciudades con sus aH2691
+- Jos_15:59y Eltecón; seis ciudades con sus aH2691
+- Jos_15:60Quiriat-baal...dos ciudades con sus aH2691
+- Jos_15:62Nibsán...Engadi; seis ciudades con sus aH2691
+- Jos_16:9se apartaron...todas ciudades con sus aH2691
+- Jos_17:11a Bet-seán y sus a, a Ibleam y sus aH1323
+- Jos_17:11también...Dor y sus a...Endor y sus aH1323
+- Jos_17:11Taanac y sus a...Meguido y sus a; tresH1323
+- Jos_17:16los que están en Bet-seán y en sus aH1323
+- Jos_18:24Ofni y Geba; doce ciudades con sus aH2691
+- Jos_18:28y Quiriat; catorce ciudades con sus aH2691
+- Jos_19:6Bet-lebaot y...trece ciudades con sus aH2691
+- Jos_19:7Aín, Rimón...cuatro ciudades con sus aH2691
+- Jos_19:8las a que...alrededor de estas ciudadesH2691
+- Jos_19:15Catat, Naalal...doce ciudades con sus aH2691
+- Jos_19:16heredad...de Zabulón...ciudades con sus aH2691
+- Jos_19:22el Jordán; dieciséis ciudades con sus aH2691
+- Jos_19:23heredad...de Isacar...ciudades con sus aH2691
+- Jos_19:30abarca...veintidós ciudades con sus aH2691
+- Jos_19:31la heredad...de Aser...ciudades con sus aH2691
+- Jos_19:38Irón...diecinueve ciudades con sus aH2691
+- Jos_19:39heredad...Neftalí...ciudades con sus aH2691
+- Jos_19:48la heredad...de Dan...ciudades con sus aH2691
+- Jos_21:12el campo de la...y sus a dieron a CalebH2691
+- Jue_1:27de Bet-seán...de sus a...Taanac y sus aH1323
+- Jue_1:27a los de Dor y sus a, ni...Ibleam y sus aH1323
+- Jue_1:27a los que habitan en Meguido y en sus aH1323
+- Jue_5:7a quedaron abandonadas en Israel...decaídoH6520
+- Jue_5:11los triunfos de sus a en Israel; entoncesH6520
+- Jue_11:26a Hesbón y sus a, a Aroer y sus a, yH1323
+- 1Sa_6:18así las ciudades...como las a sin muroH3724
+- 1Sa_27:5séame dado lugar en alguna de las a paraH5892
+- 1Cr_2:23tomaron de ellos...Kenat con sus aH1323
+- 1Cr_4:32sus a fueron Etam, Aín, Rimón, ToquénH2691
+- 1Cr_4:33todas sus a que estaban en contorno deH2691
+- 1Cr_5:16habitaron...Basán y en sus a, y en todosH1323
+- 1Cr_6:56de la ciudad y sus a se dieron a CalebH2691
+- 1Cr_7:28heredad...de ellos fue Bet-el con sus aH1323
+- 1Cr_7:28y a la parte del occidente Gezer y sus aH1323
+- 1Cr_7:28Siquem y sus a, hasta Gaza y sus aH1323
+- 1Cr_7:29Bet-seán con sus a, Taanac con sus aH1323
+- 1Cr_7:29Meguido con sus a, y Dor con sus aH1323
+- 1Cr_8:12el cual edificó Ono, y Lod con sus aH1323
+- 1Cr_9:16cual habitó en las a de los netofatitasH2691
+- 1Cr_9:25sus hermanos que estaban en sus a veníanH2691
+- 1Cr_27:25los tesoros de los campos, de...de las aH3723
+- 2Cr_13:19le tomó...Bet-el con sus a, a JesanaH1323
+- 2Cr_13:19Jesana con sus a, y a Efraín con sus aH1323
+- 2Cr_28:18los filisteos...tomado...Soco con sus aH1323
+- 2Cr_28:18Timna...con sus a, y Gimzo con sus aH1323
+- Neh_6:2y reunámonos en alguna de las a en elH3715
+- Neh_11:25tocante a las a y sus tierras, algunosH2691
+- Neh_11:25Judá habitaron en Quiriat-arba y sus aH2691
+- Neh_11:25en Dibón y sus a, en Jecabseel y sus aH1323
+- Neh_11:27en Hazar-sual, en Beerseba y sus aH1323
+- Neh_11:28en Siclag, en Mecona y sus aH1323
+- Neh_11:30en Adulam y sus a...y en Azeca y sus aH1323
+- Neh_11:31habitaron desde...Aía, en Bet-el y sus aH1323
+- Neh_12:28así...como de las a de los netofatitasH2691
+- Neh_12:29porque...cantores se habían edificado aH2691
+- Sal_10:8se sienta en acecho cerca de las aH2691
+- Cnt_7:11ven, oh amado mío...moremos en las aH3723
+- Isa_42:11alcen la voz...las a donde habita CedarH2691
+- Eze_30:18moradores de sus a irán en cautiverioH1323
+- Ose_11:6caerá espada sobre...y consumirá sus aH905
+- Mat_9:35recorría Jesús todas las...a, enseñandoG2968
+- Mat_10:11en cualquier ciudad o a donde entréisG2968
+- Mat_14:15que vayan por las a y compren de comerG2968
+- Mat_21:2id a la a que está enfrente de vosotrosG2968
+- Mar_6:6recorría las a de alrededor, enseñandoG2968
+- Mar_6:36vayan a...las a de alrededor, y comprenG2968
+- Mar_6:56a, ciudades...ponían en las calles a losG2968
+- Mar_8:23le sacó fuera de la a; y escupiendo enG2968
+- Mar_8:26no entres en la a, ni lo digas...en la aG2968
+- Mar_8:27salieron...por las a de Cesarea de FilipoG2968
+- Mar_11:2id a la a que está enfrente de vosotrosG2968
+- Luc_5:17habían venido de...las a de GalileaG2968
+- Luc_8:1que Jesús iba por todas las ciudades y aG2968
+- Luc_9:6pasaban por todas las a, anunciando elG2968
+- Luc_9:12que vayan a las a y campos...y se alojenG2968
+- Luc_9:52y entraron en una a de los samaritanosG2968
+- Luc_9:56para salvarlas. Y se fueron a otra aG2968
+- Luc_10:38yendo de...entró en una a; y una mujerG2968
+- Luc_13:22pasaba Jesús...ciudades y a, enseñandoG2968
+- Luc_17:12y al entrar en una a, le salieron alG2968
+- Luc_19:30diciendo: Id a la a de enfrente, y alG2968
+- Luc_24:13dos de ellos iban el mismo día a una aG2968
+- Luc_24:28llegaron a la a adonde iban, y él hizoG2968
+- Jua_7:42la a de Belén...ha de venir el Cristo?[[G2968]]
+- Jua_11:1de Betania, la a de María y de Marta suG2968
+- Jua_11:30Jesús...no había entrado en la a, sinoG2968

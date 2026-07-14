@@ -1,0 +1,233 @@
+---
+tipo: concordancia
+palabra: ARCA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ARCA
+
+- Gén_6:14hazte un a de...harás aposentos en el aH8392
+- Gén_6:15de trescientos codos la longitud del aH8392
+- Gén_6:16una ventana harás al a...la puerta del aH8392
+- Gén_6:18y entrarás en el a tú, tus hijos...mujerH8392
+- Gén_6:19dos de cada especie meterás en el a, paraH8392
+- Gén_7:1a Noé: Entra tú y toda tu casa en el aH8392
+- Gén_7:7entró Noé al a, y con él sus hijos...mujerH8392
+- Gén_7:9de dos en dos entraron con Noé en el aH8392
+- Gén_7:13entraron Noé, y Sem, Cam...con él en el aH8392
+- Gén_7:15vinieron, pues, con Noé al a, de dos enH8392
+- Gén_7:17las aguas crecieron, y alzaron el a, y seH8392
+- Gén_7:18flotaba el a sobre la superficie de lasH8392
+- Gén_7:23Noé, y los que con él estaban en el aH8392
+- Gén_8:1las bestias que estaban con él en el aH8392
+- Gén_8:4y reposó el a en el mes séptimo, a los 17H8392
+- Gén_8:6abrió Noé la ventana del a que había hechoH8392
+- Gén_8:9y no halló la paloma...y volvió a él al aH8392
+- Gén_8:9su mano, y...la hizo entrar consigo en el aH8392
+- Gén_8:10volvió a enviar la paloma fuera del aH8392
+- Gén_8:13quitó Noé la cubierta del a, y miró, y heH8392
+- Gén_8:16sal del a tú, y tu mujer, y tus hijosH8392
+- Gén_8:19ave...según sus especies, salieron del aH8392
+- Gén_9:10todos los que salieron del a hasta todoH8392
+- Gén_9:18y los hijos de Noé que salieron del aH8392
+- Éxo_25:10también un a de madera de acacia, cuyaH727
+- Éxo_25:14y meterás las varas...a los lados del aH727
+- Éxo_25:15las varas quedarán en los anillos del aH727
+- Éxo_25:16pondrás en el a el testimonio que yo teH727
+- Éxo_25:21y pondrás el propiciatorio encima del aH727
+- Éxo_25:21en el a pondrás el testimonio que yo teH727
+- Éxo_25:22los dos querubines que están sobre el aH727
+- Éxo_26:33meterás...adentro, el a del testimonioH727
+- Éxo_26:34pondrás el propiciatorio sobre el a delH727
+- Éxo_30:6delante del velo que está junto al a delH727
+- Éxo_30:26con él ungirás el...el a del testimonioH727
+- Éxo_31:7el a del testimonio, el propiciatorio queH727
+- Éxo_35:12el a y sus varas, el propiciatorio, elH727
+- Éxo_37:1hizo...Bezaleel el a de madera de acaciaH727
+- Éxo_37:5anillos a los lados del a, para llevar el aH727
+- Éxo_39:35el a del testimonio y sus varas, elH727
+- Éxo_40:3pondrás en él el a del testimonio, y laH727
+- Éxo_40:5y pondrás el altar de oro...delante del aH727
+- Éxo_40:20el testimonio, y lo puso dentro del aH727
+- Éxo_40:20y colocó las varas en el a, y encima elH727
+- Éxo_40:20y encima el propiciatorio sobre el aH727
+- Éxo_40:21metió el a...ocultó el a del testimonioH727
+- Lev_16:2del propiciatorio que está sobre el aH727
+- Núm_3:31a cargo de ellos estarán el a, la mesaH727
+- Núm_4:5velo...cubrirán con él el a del testimonioH727
+- Núm_7:89del propiciatorio que estaba sobre el aH727
+- Núm_10:33el a del pacto de...fue delante de ellosH727
+- Núm_10:35cuando el a se movía, Moisés decíaH727
+- Núm_14:44pero el a...y Moisés, no se apartaron deH727
+- Deu_10:1sube...al monte, y hazte un a de maderaH727
+- Deu_10:2en aquellas tablas...las pondrás en el aH727
+- Deu_10:3hice un a...y labré dos tablas de piedraH727
+- Deu_10:5puse las tablas en el a que había hechoH727
+- Deu_10:8de Leví para que llevase el a del pactoH727
+- Deu_31:9sacerdotes...que llevaban el a del pactoH727
+- Deu_31:25Moisés a los levitas que llevaban el aH727
+- Deu_31:26ley, y ponedlo al lado del a del pactoH727
+- Jos_3:3cuando veáis el a del pacto de JehováH727
+- Jos_3:6tomad el a del pacto...ellos tomaron el aH727
+- Jos_3:8mandarás a los...que llevan el a del pactoH727
+- Jos_3:11a del pacto del Señor de toda la tierraH727
+- Jos_3:13pies de los sacerdotes que llevan el aH727
+- Jos_3:14los sacerdotes...llevando el a del pactoH727
+- Jos_3:15cuando los que llevaban el a entraron enH727
+- Jos_3:15pies de los sacerdotes que llevaban el aH727
+- Jos_3:17llevaban el a del pacto...en seco, firmesH727
+- Jos_4:5pasad delante del a de Jehová vuestro DiosH727
+- Jos_4:7las aguas...fueron divididas delante del aH727
+- Jos_4:9pies de los...que llevaban el a del pactoH727
+- Jos_4:10que llevaban el a se pararon en medio delH727
+- Jos_4:11pasó el a de Jehová, y los sacerdotes, enH727
+- Jos_4:16manda a los sacerdotes que llevan el aH727
+- Jos_4:18sacerdotes que llevaban el a del pacto deH727
+- Jos_6:4llevarán siete bocinas de...delante del aH727
+- Jos_6:6Josué...les dijo: Llevad el a del pactoH727
+- Jos_6:6lleven bocinas...delante del a de JehováH727
+- Jos_6:7que están armados pasarán delante del aH727
+- Jos_6:8pasaron delante del a...y el a...les seguíaH727
+- Jos_6:9y la retaguardia iba tras el a, mientrasH727
+- Jos_6:11hizo que el a de Jehová diera una vueltaH727
+- Jos_6:12y los sacerdotes tomaron el a de JehováH727
+- Jos_6:13los siete sacerdotes...fueron delante del aH727
+- Jos_6:13y la retaguardia iba tras el a de JehováH727
+- Jos_7:6sobre su rostro delante del a de JehováH727
+- Jos_8:33estaba de pie a uno y otro lado del aH727
+- Jos_8:33levitas que llevaban el a del pacto deH727
+- Jue_20:27el a del pacto de Dios estaba allí enH727
+- 1Sa_3:3durmiendo...donde estaba el a de DiosH727
+- 1Sa_4:3traigamos a nosotros de Silo el a del pactoH727
+- 1Sa_4:4trajeron de...el a...estaban allí con el aH727
+- 1Sa_4:5cuando el a...Jehová llegó al campamentoH727
+- 1Sa_4:6que el a de Jehová había sido traída alH727
+- 1Sa_4:11el a de Dios fue tomada, y muertos losH727
+- 1Sa_4:13estaba temblando por causa del a de DiosH727
+- 1Sa_4:17muertos, y el a de Dios ha sido tomadaH727
+- 1Sa_4:18cuando él hizo mención del a de Dios, ElíH727
+- 1Sa_4:19rumor que el a de Dios había sido tomadaH727
+- 1Sa_4:21por haber sido tomada el a de Dios, y porH727
+- 1Sa_4:22dijo...porque ha sido tomada el a de DiosH727
+- 1Sa_5:1los filisteos capturaron el a de Dios, laH727
+- 1Sa_5:2tomaron los filisteos el a de Dios, y laH727
+- 1Sa_5:3Dagón postrado...delante del a de JehováH727
+- 1Sa_5:4caído postrado...delante del a de JehováH727
+- 1Sa_5:7no quede con nosotros el a del Dios deH727
+- 1Sa_5:8¿qué haremos del a...pásese el a del...a GatH727
+- 1Sa_5:8y pasaron allá el a del Dios de IsraelH727
+- 1Sa_5:10el a de Dios a Ecrón. Y cuando el a deH727
+- 1Sa_5:10han pasado a nosotros el a del Dios deH727
+- 1Sa_5:11enviad el a del Dios de Israel...a su lugarH727
+- 1Sa_6:1estuvo el a de Jehová en la tierra de losH727
+- 1Sa_6:2¿qué haremos del a de Jehová? HacednosH727
+- 1Sa_6:3si enviáis el a del...no la enviéis vacíaH727
+- 1Sa_6:8tomaréis el a de Jehová, y la pondréisH727
+- 1Sa_6:11pusieron el a de Jehová sobre el carroH727
+- 1Sa_6:13segaban...y alzando los ojos vieron el aH727
+- 1Sa_6:15los levitas bajaron el a de Jehová, y laH727
+- 1Sa_6:18sobre la cual pusieron el a de JehováH727
+- 1Sa_6:19porque habían mirado dentro...a de JehováH727
+- 1Sa_6:21los filisteos han devuelto el a de JehováH727
+- 1Sa_7:1el a...y la pusieron en casa de AbinadabH727
+- 1Sa_7:1Eleazar...para que guardase el a de JehováH727
+- 1Sa_7:2el día que llegó el a a Quiriat-jearimH727
+- 1Sa_14:18trae el a...porque el a de Dios estabaH727
+- 2Sa_6:2para hacer pasar de allí el a de DiosH727
+- 2Sa_6:3pusieron el a de Dios sobre un carro nuevoH727
+- 2Sa_6:4con el a de Dios, Ahío iba delante del aH727
+- 2Sa_6:6Uza extendió su mano al a de Dios, y laH727
+- 2Sa_6:7Uza...cayó allí muerto junto al a de DiosH727
+- 2Sa_6:9¿cómo ha de venir a mí el a de Jehová?[[H727]]
+- 2Sa_6:10que David no quiso traer para sí el a deH727
+- 2Sa_6:11y estuvo el a de...en casa de Obed-edomH727
+- 2Sa_6:12ha bendecido la...a causa del a de DiosH727
+- 2Sa_6:12fue, y llevó con alegría el a de DiosH727
+- 2Sa_6:13y cuando los que llevaban el a de DiosH727
+- 2Sa_6:15David y toda la...conducían el a de JehováH727
+- 2Sa_6:16el a de Jehová llegó a la ciudad de DavidH727
+- 2Sa_6:17metieron, pues, el a de Jehová...su lugarH727
+- 2Sa_7:2en casa...y el a de Dios está entre cortinasH727
+- 2Sa_11:11a e Israel y Judá están bajo tiendas, yH727
+- 2Sa_15:24llevaban el a...asentaron el a del pactoH727
+- 2Sa_15:25vuelve el a de Dios a la ciudad. Si yoH727
+- 2Sa_15:29Sadoc y Abiatar volvieron el a de Dios aH727
+- 1Re_2:26has llevado el a de Jehová el SeñorH727
+- 1Re_3:15y se presentó delante del a del pacto deH727
+- 1Re_6:19para poner allí el a del pacto de JehováH727
+- 1Re_8:1para traer el a del...de la ciudad de DavidH727
+- 1Re_8:3vinieron...y los sacerdotes tomaron el aH727
+- 1Re_8:4y llevaron el a de...y el tabernáculo deH727
+- 1Re_8:5rey Salomón...estaban con él delante del aH727
+- 1Re_8:6metieron el a del pacto de...en su lugarH727
+- 1Re_8:7extendidas las alas sobre el lugar del aH727
+- 1Re_8:7así cubrían...el a y sus varas por encimaH727
+- 1Re_8:9en el a ninguna cosa había sino las dosH727
+- 1Re_8:21y he puesto en ella lugar para el a, enH727
+- 2Re_12:9Joiada tomó un a e hizo...un agujeroH727
+- 2Re_12:10veían que había mucho dinero en el aH727
+- 1Cr_6:31la casa...después que el a tuvo reposoH727
+- 1Cr_13:3y traigamos el a de...Dios a nosotrosH727
+- 1Cr_13:5reunió...para que trajesen el a de Dios deH727
+- 1Cr_13:6para pasar de allí el a de Jehová DiosH727
+- 1Cr_13:7y llevaron el a de Dios de la...en un carroH727
+- 1Cr_13:9Uza extendió su mano al a para sostenerloH727
+- 1Cr_13:10lo hirió...había extendido su mano al aH727
+- 1Cr_13:12dijo: ¿Cómo he de traer a mi casa el aH727
+- 1Cr_13:13y no trajo David el a a su casa en laH727
+- 1Cr_13:14y el a de Dios estuvo con la familia deH727
+- 1Cr_15:1hizo David...y arregló un lugar para el aH727
+- 1Cr_15:2el a de Dios no debe ser llevada sino porH727
+- 1Cr_15:2ha elegido Jehová para que lleven el a deH727
+- 1Cr_15:3para que pasasen el a de Jehová a su lugarH727
+- 1Cr_15:12pasad el a de Jehová Dios de Israel alH727
+- 1Cr_15:14se santificaron para traer el a de JehováH727
+- 1Cr_15:15los hijos de los levitas trajeron el aH727
+- 1Cr_15:23Berequías y Elcana eran porteros del aH727
+- 1Cr_15:24las trompetas delante del a de DiosH727
+- 1Cr_15:24Obed-edom y Jehías eran...porteros del aH727
+- 1Cr_15:25fueron a traer el a del pacto de JehováH727
+- 1Cr_15:26ayudando Dios a los...que llevaban el aH727
+- 1Cr_15:27todos los levitas que llevaban el aH727
+- 1Cr_15:28de esta manera llevaba todo Israel el aH727
+- 1Cr_15:29a del pacto...llegó a la ciudad de DavidH727
+- 1Cr_16:1trajeron el a de Dios, y la pusieron enH727
+- 1Cr_16:4delante del a...ministros de los levitasH727
+- 1Cr_16:6sonaban...las trompetas delante del a delH727
+- 1Cr_16:37dejó allí, delante del a...a Asaf y a susH727
+- 1Cr_16:37para que ministrasen de...delante del aH727
+- 1Cr_17:1y el a del pacto de...debajo de cortinasH727
+- 1Cr_22:19para traer el a del pacto de Jehová, yH727
+- 1Cr_28:2casa en la cual reposara el a del pactoH727
+- 1Cr_28:18con las alas extendidas cubrían el a delH727
+- 2Cr_1:4pero David había traído el a de DiosH727
+- 2Cr_5:2que trajesen el a del pacto de Jehová deH727
+- 2Cr_5:4vinieron pues...y los levitas tomaron el aH727
+- 2Cr_5:5llevaron el a, y el tabernáculo de reuniónH727
+- 2Cr_5:6que se había reunido con él delante del aH727
+- 2Cr_5:7metieron el a del pacto de Jehová en suH727
+- 2Cr_5:8extendían las alas sobre el lugar del aH727
+- 2Cr_5:8los querubines cubrían por encima así el aH727
+- 2Cr_5:9se viesen las cabezas de las barras del aH727
+- 2Cr_5:10en el a no había más que las dos tablasH727
+- 2Cr_6:11en ella he puesto el a, en la cual estáH727
+- 2Cr_6:41para habitar en tu reposo, tú y el a deH727
+- 2Cr_8:11ha entrado el a de Jehová, son sagradasH727
+- 2Cr_24:8mandó, pues, el rey que hiciesen un a, laH727
+- 2Cr_24:10y las echaron en el a hasta llenarlaH727
+- 2Cr_24:11para llevar el a al secretario del reyH727
+- 2Cr_24:11y llevaban el a, y la vaciaban, y laH727
+- 2Cr_35:3poned el a santa en la casa que edificóH727
+- Sal_132:8levántate, oh...tú y el a de tu poderH727
+- Jer_3:16no se dirá más; A del pacto de JehováH727
+- Mat_24:38hasta el día en que Noé entró en el aG2787
+- Mar_12:41sentado delante del a de la ofrendaG1049
+- Mar_12:41cómo el pueblo echaba dinero en el aG1049
+- Mar_12:43esta viuda...echó más que todos...en el aG1049
+- Luc_17:27hasta el día en que entró Noé en el aG2787
+- Luc_21:1ricos que echaban sus ofrendas en el aG1049
+- Heb_9:4el a del pacto cubierta de oro por todasG2787
+- Heb_11:7por la fe Noé...con temor preparó el a enG2787
+- 1Pe_3:20Noé, mientras se preparaba el a, en laG2787
+- Rev_11:19el a de su pacto se veía en el temploG2787

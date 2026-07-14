@@ -1,0 +1,118 @@
+---
+tipo: concordancia
+palabra: EGIPCIO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EGIPCIO, A
+
+- Gén_12:12te vean los e, dirán: Su mujer esH4713
+- Gén_12:14los e vieron que la mujer era hermosaH4713
+- Gén_16:1tenía una sierva, e que se llamaba AgarH4713
+- Gén_16:3tomó a Agar su sierva e, al cabo de diezH4713
+- Gén_21:9vio Sara que el hijo de Agar la e, elH4713
+- Gén_25:12a quien le dio a luz Agar e, sierva deH4713
+- Gén_39:1Potifar oficial de...varón e, lo compróH4713
+- Gén_39:2José...estaba en la casa de su amo el eH4713
+- Gén_39:5bendijo la casa del e a causa de JoséH4713
+- Gén_41:55dijo Faraón a todos los e: Id a JoséH4714
+- Gén_41:56abrió José...granero...y vendía a los eH4714
+- Gén_43:32aparte para los e que con él comíanH4713
+- Gén_43:32los e no pueden comer...con los hebreosH4713
+- Gén_43:32comer pan con...es abominación a los eH4714
+- Gén_45:2oyeron los e, y oyó también la casa deH4714
+- Gén_46:34para los e es abominación todo pastorH4714
+- Gén_47:20los e vendieron cada uno sus tierrasH4714
+- Gén_50:3y lo lloraron los e setenta díasH4714
+- Gén_50:11Atad...llanto grande es este de los eH4714
+- Éxo_1:12que los e temían a los hijos de Israel
+- Éxo_1:13y los e hicieron servir a los hijos deH4714
+- Éxo_1:19las mujeres hebreas no son como las eH4713
+- Éxo_2:11un e que golpeaba a uno de los hebreosH4713
+- Éxo_2:12mató al e y lo escondió en la arenaH4713
+- Éxo_2:14¿piensas matarme como mataste al e?[[H4713]]
+- Éxo_2:19un varón e nos defendió de mano de losH4713
+- Éxo_3:8librarlos de mano de los e, y sacarlosH4714
+- Éxo_3:9la opresión con que los e los oprimenH4714
+- Éxo_3:21yo daré a...gracia en los ojos de los eH4714
+- Éxo_6:5de Israel, a quienes hacen servir los eH4714
+- Éxo_7:5sabrán los e que yo soy Jehová, cuandoH4714
+- Éxo_7:18y los e tendrán asco de beber el aguaH4714
+- Éxo_7:21y el río...los e no podían beber de élH4714
+- Éxo_8:21las casas de los e se llenarán de todaH4714
+- Éxo_8:26ofreceríamos...la abominación de los eH4714
+- Éxo_8:26sacrificáramos la abominación de los eH4714
+- Éxo_9:11hubo sarpullido en...y en todos los eH4714
+- Éxo_10:6llenará tus...las casas de todos los eH4714
+- Éxo_11:3gracia al pueblo en los ojos de los eH4714
+- Éxo_11:7diferencia entre los e y los israelitasH4714
+- Éxo_12:23porque Jehová pasará hiriendo a los eH4714
+- Éxo_12:27hirió a los e, y libró nuestras casasH4714
+- Éxo_12:30Faraón, él y...siervos, y todos los eH4714
+- Éxo_12:33e apremiaban al pueblo, dándose prisaH4714
+- Éxo_12:35pidiendo de los e alhajas de plata, yH4714
+- Éxo_12:36dio gracia al pueblo delante de los eH4714
+- Éxo_12:36y les dieron...así despojaron a los eH4714
+- Éxo_12:39al echarlos...los e, no habían tenidoH4714
+- Éxo_14:4seré...y sabran los e que yo soy JehováH4714
+- Éxo_14:9siguiéndolos...e, con toda la caballeriaH4714
+- Éxo_14:10y he aquí los e venían tras ellosH4714
+- Éxo_14:12mejor nos fuera servir a los e, queH4714
+- Éxo_14:13los e que hoy habéis visto, nunca másH4714
+- Éxo_14:17yo endureceré el corazón de los e paraH4714
+- Éxo_14:18sabrán los e que yo soy Jehová, cuandoH4714
+- Éxo_14:20iba entre el campamento de los e y elH4714
+- Éxo_14:23siguiéndolos los e, entraron tras ellosH4714
+- Éxo_14:24y trastornó el campamento de los eH4714
+- Éxo_14:25los e dijeron: Huyamos de delante deH4714
+- Éxo_14:25Jehová pelea por ellos contra los eH4714
+- Éxo_14:26para que las aguas vuelvan sobre los eH4714
+- Éxo_14:27los e al huir se encontraban con el marH4714
+- Éxo_14:27Jehová derribó a...e en medio del marH4714
+- Éxo_14:30así salvó...a Israel de mano de los eH4714
+- Éxo_14:30Israel vio a los e muertos a la orillaH4714
+- Éxo_14:31halló que Jehová ejecutó contra los eH4714
+- Éxo_15:26ninguna enfermedad...que envié a los eH4714
+- Éxo_18:8Jehová había hecho...a los e por amor deH4714
+- Éxo_18:9al haberlo librado de mano de los eH4714
+- Éxo_18:10Jehová, que os libró de mano de los eH4714
+- Éxo_18:10que libró al pueblo de la mano de los eH4714
+- Éxo_19:4vosotros visteis lo que hice a los e, yH4714
+- Éxo_32:12¿por qué han de hablar los e, diciendoH4714
+- Lev_24:10hijo de un e, salió entre los hijosH4713
+- Núm_14:13oirán luego los e, porque de en medioH4714
+- Núm_20:15y los e nos maltrataron, y a nuestrosH4714
+- Núm_33:3salieron los...a vista de todos los eH4714
+- Núm_33:4enterraban los e a los que Jehová habíaH4714
+- Deu_23:7no aborrecerás al e...forastero fuisteH4713
+- Deu_26:6los e nos maltrataron y nos afligieronH4713
+- Jos_24:6e siguieron a vuestros padres hastaH4714
+- Jos_24:7puso oscuridad entre vosotros y los eH4713
+- Jue_6:9os libré de mano de los e, y de manoH4714
+- 1Sa_6:6endurecéis vuestro corazón, como los eH4714
+- 1Sa_10:18y os libré de mano de los e, y de manoH4714
+- 1Sa_30:11y hallaron en el campo a un hombre eH4713
+- 1Sa_30:13respondió el joven e: Yo soy siervo deH4713
+- 2Sa_23:21mató él a un e...y tenía el e unaH4713
+- 2Sa_23:21y arrebató al e la lanza de la manoH4713
+- 1Re_4:30mayor...que...la sabiduría de los eH4714
+- 2Re_7:6tomado a sueldo...reyes de los eH4714
+- 1Cr_2:34tenía Sesán un siervo e llamadoH4713
+- 1Cr_11:23venció a un e...y el e traía una lanzaH4713
+- Esd_9:1pueblo...no se han separado de los...eH4713
+- Isa_19:1y desfallecerá el corazón de los eH4714
+- Isa_19:2e contra e, y cada uno peleará contraH4714
+- Isa_19:16en aquel día los e serán como mujeresH4714
+- Isa_19:23asirios entrarán en Egipto, y e enH4714
+- Isa_19:23e servirán con los asirios a JehováH4714
+- Isa_31:3y los e hombres son, y no Dios; y susH4714
+- Lam_5:6al e y al asirio extendimos la manoH4714
+- Eze_23:21cuando...e comprimieron tus pechosH4714
+- Eze_30:23, Eze_30:26esparciré a los e entre las nacionesH4714
+- Hec_7:22fue enseñado...la sabiduría de los eG124
+- Hec_7:24e hiriendo al e, vengó al oprimidoG124
+- Hec_7:28tú matarme, como mataste ayer al e?[[G124]]
+- Hec_21:38¿no eres tú aquel e que levantó unaG124
+- Heb_11:26vituperio...que los tesoros de los eG124
+- Heb_11:29e intentando los e hacer lo mismoG124

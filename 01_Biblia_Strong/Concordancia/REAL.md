@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: REAL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REAL
+
+- Núm_20:17el camino r iremos, sin apartarnos aH4428
+- Núm_21:22el camino r iremos, hasta que pasemosH4428
+- Jos_10:2Gabaón era...como una de las ciudades rH4467
+- 1Sa_27:5ha de morar tu siervo...la ciudad r?[[H4467]]
+- 2Sa_11:2paseaba sobre el terrado de la casa rH4428
+- 2Sa_11:8Urías...fue enviado presente de la mesa rH4428
+- 2Sa_12:26Joab peleaba contra...tomó la ciudad rH4410
+- 2Sa_14:26pesaba...cabello...200 siclos de peso rH4428
+- 1Re_9:1acabado...casa de Jehová, y la casa rH4428
+- 1Re_9:10edificado...casa de Jehoyá y la casa rH4428
+- 1Re_10:12balaustres para la...para las casas rH4428
+- 1Re_10:22y traía oro...marfil, monos y pavos rH8500
+- 1Re_11:14Hadad edomita, de sangre r, el...en EdomH4428
+- 1Re_14:26tomó los tesoros...tesoros de la casa rH4428
+- 1Re_14:27custodiaban la puerta de la casa rH4428
+- 1Re_16:18se metió en el palacio de la casa rH4428
+- 1Re_22:10vestidos de sus ropas r, en la plazaH899
+- 2Re_11:1Atalía...destruyó...la descendencia rH4467
+- 2Re_15:25lo hirió en el palacio de la casa rH4428
+- 2Re_16:8en los tesoros de la casa r, envió alH4428
+- 2Re_18:15la plata...en los tesoros de la casa rH4428
+- 2Re_24:13sacó de allí...los tesoros de la casa rH4428
+- 2Re_25:25vino Ismael...de la estirpe r, y con élH4410
+- 2Cr_9:11el rey hizo gradas...en las casas rH4428
+- 2Cr_9:21traían plata, marfil, monos y pavos rH4428
+- 2Cr_16:2sacó Asa la plata y el oro...de la casa rH4428
+- 2Cr_18:9en su trono, vestidos con sus ropas rH899
+- 2Cr_18:29dijo el rey de...tú vístete tus ropas rH899
+- 2Cr_22:10Atalía...exterminó...la descendencia rH4467
+- 2Cr_26:21Jotam su hijo tuvo cargo de la casa rH4428
+- 2Cr_26:23Uzías...en el campo de los sepulcros rH4428
+- 2Cr_28:21despojó Acaz...la casa r, y las de losH4428
+- Est_1:5en el patio del huerto del palacio rH4428
+- Est_1:7daban a beber...mucho vino r, de acuerdoH4438
+- Est_1:9hizo banquete...en la casa r del rey AsueroH4438
+- Est_1:19salga un decreto r de vuestra majestadH4438
+- Est_2:3jóvenes vírgenes...a Susa, residencia rH1002
+- Est_2:5había en Susa residencia r un...MardoqueoH1002
+- Est_2:8reunido...doncellas en Susa residencia rH1002
+- Est_2:16fue...Ester llevada al rey...a su casa rH4438
+- Est_2:17y puso la corona r en su cabeza, y laH4438
+- Est_2:18dio mercedes conforme a la generosidad rH4428
+- Est_5:1vistió Ester su vestido r, y entró en elH4438
+- Est_5:1estaba el rey sentado...en el aposento rH4438
+- Est_6:4Aman había venido al patio...de la casa rH4438
+- Est_6:8y traigan el vestido r de que el rey seH4438
+- Est_6:8la corona r que está puesta en su cabezaH4438
+- Est_6:10Mardoqueo, que se sienta a la puerta rH4428
+- Est_6:12Mardoqueo volvió a la puerta r, y ArnánH4428
+- Est_8:10en caballos veloces...de los repastos r
+- Est_8:15salió Mardoqueo...con vestido r de azulH4438
+- Est_9:11de los muertos en Susa, residencia rH1002
+- Jer_38:7oyendo Ebed-melec...de la casa r, queH4428
+- Jer_41:1vino Ismael hijo de...de la descendencia rH4410
+- Eze_17:13también a uno de la descendencia rH4410
+- Dan_1:3trajese...del linaje r de los príncipesH4410
+- Dan_4:29paseando en el palacio r de BabiloniaH4437
+- Dan_4:30yo edifiqué para casa r con la fuerza deH4437
+- Dan_5:5escribía...sobre...la pared del palacio rH4430
+- Dan_6:7que promulgues un edicto r y lo confirmesH4430
+- Dan_6:12fueron luego...le hablaron del edicto rH4430
+- Hec_12:21Herodes, vestido de ropas r, se sentóG937
+- Stg_2:8en verdad cumplís la ley r, conformeG937
+- 1Pe_2:9vosotros sois...r sacerdocio, naciónG934

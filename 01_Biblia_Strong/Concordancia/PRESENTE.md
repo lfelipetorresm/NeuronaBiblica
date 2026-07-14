@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: PRESENTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRESENTE
+
+- Gén_32:13tomó de...un p para su hermano EsaúH4503
+- Gén_32:18es un p de tu siervo Jacob, que envíaH4503
+- Gén_32:20dijo: Apaciguaré su ira con el p que vaH4503
+- Gén_32:21pasó...el p delante de él; y él durmióH4503
+- Gén_33:10acepta mi p, porque he visto tu rostroH4503
+- Gén_33:11acepta, te ruego...p que te he traídoH1293
+- Gén_43:11tomad de...y llevad a aquel varón un pH4503
+- Gén_43:15entonces tomaron aquellos varones elH4503
+- Gén_43:25y ellos prepararon el p entretanto queH4503
+- Gén_43:26le trajeron el p que tenían en su manoH4503
+- Éxo_22:15si el dueño estaba p, no la pagará
+- Éxo_23:8no recibirás p; porque el p ciega a losH7810
+- Núm_18:9todo p...será cosa muy santa para ti
+- Deu_29:15sino con los que están aquí p hoy conH5975
+- Jue_3:15enviaron con él un p a Eglón rey deH4503
+- Jue_3:17entregó el p a Eglón rey de Moab; y eraH4503
+- Jue_3:18que hubo entregado el p, despidió a laH4503
+- Jue_20:2los jefes...p en la reunión del pueblo deH3320
+- 1Sa_10:27y no le trajeron p; mas él disimulóH4503
+- 1Sa_25:27ahora este p que tu sierva ha traídoH1293
+- 1Sa_30:26he aquí un p para vosotros del botínH1293
+- 2Sa_11:8Urías...fue enviado p de la mesa realH4864
+- 2Sa_20:4convócame a los...y hállale tú aquí pH5975
+- 1Re_4:21y traían p, y sirvieron a SalomónH4503
+- 1Re_10:25todos le llevaban cada año sus p...oroH4503
+- 1Re_13:7ven conmigo a casa, y...y yo te daré un pH4991
+- 1Re_15:19yo te envío un p de plata y de oro; véH7810
+- 2Re_5:15te ruego que recibas algún p de tuH1293
+- 2Re_8:8toma en tu mano un p, y vé a recibir alH4503
+- 2Re_8:9tomó...Hazael...un p de entre los bienesH4503
+- 2Re_16:8la plata...envió al rey de Asiría un pH7810
+- 2Re_20:12envió mensajeros con...y p a EzequíasH4503
+- 1Cr_18:2moabitas fueron siervos de David...pH4503
+- 1Cr_18:6hechos siervos de David, trayéndole pH4503
+- 2Cr_9:24cada uno de éstos traía su p...de oroH4503
+- 2Cr_17:5en su mano, y todo Judá dio a Josafat pH4503
+- 2Cr_17:11de los filisteos p a Josafat, y tributosH4503
+- 2Cr_26:8y dieron los amonitas p a Uzías, y seH4503
+- 2Cr_32:23muchos trajeron a...p a Ezequías rey deH4030
+- 2Cr_35:7para todos los que se hallaron p; estoH4672
+- Esd_8:25habían ofrecido...todo Israel allí pH4672
+- Sal_45:12y las hijas de Tiro vendrán con pH4503
+- Sal_72:10los reyes de Tarsis y de las...traerán pH814
+- Pro_29:4afirma...mas el que exige p la destruyeH8641
+- Isa_39:1envió cartas y p a Ezequías...enfermoH4503
+- Isa_52:6yo mismo que hablo, he aquí estaré pH4503
+- Isa_57:6ellas derramaste libación, y ofreciste pH4503
+- Jer_40:5dio el capitán...un p, y le despidióH4864
+- Jer_44:15todas las mujeres que estaban p, unaH5975
+- Eze_16:33les diste p, para que de todas partesH5083
+- Eze_45:25en cuanto al p y en cuanto al aceite
+- Dan_2:46mandó que le ofreciesen p e inciensoH4504
+- Ose_10:6llevado a Asiría como p al rey JarebH4503
+- Mat_2:11ofrecieron p: oro, incienso y mirraG1435
+- Luc_19:24a los...p: Quitadle la mina, y dadiaG3936
+- Luc_23:48los que estaban p en este espectáculo
+- Jua_19:26vio Jesús...discípulo...que estaba pG3936
+- Hec_22:20estaba p, y consentía en su muerteG2186
+- Hec_23:4que estaban p dijeron: ¿Al sumo...injurias?[[G3936]]
+- Hec_25:18estando p los acusadores, ningún cargoG2476
+- Rom_8:18las aflicciones del tiempo p no sonG3568
+- Rom_8:38ni potestades, ni lo p, ni lo por venirG1764
+- 1Co_3:22sea lo p, sea lo por venir, todo esG1764
+- 1Co_5:3peyo p en espíritu, ya como p he juzgadoG3918
+- 2Co_5:8ausentes del cuerpo, y p al SeñorG1736
+- 2Co_5:9tanto procuramos...o ausentes o p, serieG1736
+- 2Co_10:1estando p...soy humilde entre vosotrosG4383
+- 2Co_10:2ruego...que cuando esté p, no tenga queG3918
+- 2Co_10:11seremos también en hechos, estando pG3918
+- 2Co_13:2ahora digo otra vez como si estuviera pG3918
+- 2Co_13:10para no usar de severidad cuando esté pG3918
+- Gál_1:4librarnos del p siglo malo, conforme aG1764
+- Gál_4:18siempre, y no solamente cuando estoy pG3918
+- 2Ts_2:7hay quien al p lo detiene, hasta que
+- 1Ti_4:8tiene promesa de esta vida p, y de laG3568
+- Heb_9:9es símbolo para el tiempo p, según elG1764
+- Heb_9:11estando ya p Cristo, sumo sacerdote de
+- Heb_12:11que ninguna disciplina al p parece serG3918
+- 2Pe_1:12y estéis confirmados en la verdad pG3918

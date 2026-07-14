@@ -1,0 +1,112 @@
+---
+tipo: concordancia
+palabra: UTENSILIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# UTENSILIO
+
+- Éxo_25:9diseño de todos los u, así lo haréisH3627
+- Éxo_25:39de oro fino lo harás, con todos estos uH3627
+- Éxo_27:3braseros; harás todos sus u de bronceH3627
+- Éxo_27:19los u del tabernáculo...serán de bronceH3627
+- Éxo_30:27mesa con todos sus u, el candelero...uH3627
+- Éxo_30:28el altar del holocausto con todos sus uH3627
+- Éxo_31:7el arca...y todos los u del tabernáculoH3627
+- Éxo_31:8mesa y sus u, el candelero...todos sus tiH3627
+- Éxo_31:9el altar del holocausto y todos sus uH3627
+- Éxo_35:13la mesa y sus varas, y todos sus u, yH3627
+- Éxo_35:14el candelero del alumbrado y sus u, susH3627
+- Éxo_35:16todos sus u, y la fuente con su baseH3627
+- Éxo_37:16hizo los u que habían...sobre la mesaH3627
+- Éxo_37:24de oro puro lo hizo, con todos sus uH3627
+- Éxo_38:3hizo...todos los u del altar; calderosH3627
+- Éxo_38:3altar...todos sus u los hizo de bronceH3627
+- Éxo_38:30fueron hechas...todos los u del altarH3627
+- Éxo_39:33trajeron el tabernáculo...todos sus tiH3627
+- Éxo_39:37lamparillas...y todos sus u, el aceiteH3627
+- Éxo_39:39sus varas y todos sus u, la fuente yH3627
+- Éxo_39:40los u del servicio del tabernáculo, delH3627
+- Éxo_40:9lo santificarás con todos sus u, y seráH3627
+- Éxo_40:10ungirás también el altar...todos sus uH3627
+- Lev_8:11y ungió el altar y todos sus u, y laH3627
+- Núm_1:50sobre todos sus u, y sobre todas lasH3627
+- Núm_3:8guarden todos los u del tabernáculo deH3627
+- Núm_3:31los u del santuario con que ministranH3627
+- Núm_4:9todos sus u del aceite con que se sirveH3627
+- Núm_4:10pondrán con todos sus u en una cubiertaH3627
+- Núm_4:12tomarán todos los u del servicio de queH3627
+- Núm_4:14pondrán sobre él todos...losu.del altarH3627
+- Núm_4:15de cubrir el...todos los u del santuarioH3627
+- Núm_4:16el cargo de...del santuario y de sus uH3627
+- Núm_4:32consignarás por sus nombres todos los uH3627
+- Núm_7:1ungido y santificado, con todos sus uH3627
+- Núm_7:1ungido y santificado el altar y...sus uH3627
+- Núm_18:3mas no se acercarán a los u santos ni alH3627
+- Núm_31:20purificaréis todo vestido...u de maderaH3627
+- Jos_6:19los u de...sean consagrados a JehováH3627
+- Jos_6:24pusieron en el tesoro...los u de bronceH3627
+- 2Sa_8:10Joram llevaba...u de plata, de oro yH3627
+- 1Re_7:45y todos los u que Hiram hizo al reyH3627
+- 1Re_7:47y no inquirió...del bronce de codos los uH3627
+- 1Re_7:51y metió Salomón lo que...plata, oro y uH3627
+- 1Re_8:4llevaron...los u sagrados que estaban enH3627
+- 2Re_12:13no se hacían...ningún otro u de oroH3627
+- 2Re_14:14tomó...todos los u que fueron halladosH3627
+- 2Re_23:4que sacasen...todos los u que habían sidoH3627
+- 2Re_24:13rompió...los u de oro que había hechoH3627
+- 2Re_25:14llevaron...todos los u de bronce con queH3627
+- 1Cr_9:28éstos tenían a su cargo los u paraH3627
+- 1Cr_9:29tenían el cargo de...de todos los u delH3627
+- 1Cr_18:8con el que Salomón hizo...y u de bronceH3627
+- 1Cr_18:10le envió...toda clase de u de oro, deH3627
+- 1Cr_22:19para traer...los u consagrados a DiosH3627
+- 1Cr_23:26levitas no tendrán que llevar...los uH3627
+- 1Cr_26:18en la cámara de los u al occidente, 4H6503
+- 1Cr_28:13todos los u del ministerio de la casaH3627
+- 1Cr_28:14oro, para todos los u de cada servicioH3627
+- 1Cr_28:14plata en peso...los u de cada servicioH3627
+- 2Cr_4:19así hizo Salomón los u para la casaH3627
+- 2Cr_5:1los u, en los tesoros de la casa de DiosH3627
+- 2Cr_5:5llevaron...todos los u del santuario queH3627
+- 2Cr_15:18y trajo a la casa de Dios lo...oro y uH3627
+- 2Cr_24:14u para la casa de...u para el servicioH3627
+- 2Cr_25:24todos los u que se hallaron en la casaH3627
+- 2Cr_28:24recogió Acaz los u de la casa de DiosH3627
+- 2Cr_29:18limpiado...el altar del...con todos sus uH3627
+- 2Cr_29:19los u que...había desechado el rey AcazH3627
+- 2Cr_36:7llevó...los u de la casa de Jehová, y losH3627
+- 2Cr_36:18todos los u de la casa de Dios...llevóH3627
+- Esd_1:7Ciro sacó los u de la casa de JehováH3627
+- Esd_1:10tazas de oro...de plata, y otros mil uH3627
+- Esd_1:11todos los u de oro y de plata eran 5.400H3627
+- Esd_5:14los u de oro y de plata de la casa deH3984
+- Esd_5:15toma estos u, vé, y llévalos al temploH3984
+- Esd_6:5los u de oro y de plata de la casa de DiosH3984
+- Esd_7:19los u que te son entregados para...DiosH3984
+- Esd_8:25pesé la plata, el oro y los u, ofrendaH3627
+- Esd_8:26pesé, pues...u de plata por cien talentosH3627
+- Esd_8:28y son santos los u, y la plata y el oroH3627
+- Esd_8:30levitas recibieron el peso...y de los uH3627
+- Esd_8:33fue luego pesada...los u, en la casa deH3627
+- Neh_10:39y allí estarán los u del santuarioH3627
+- Neh_13:5en la cual guardaban...los u, el diezmoH3627
+- Neh_13:9hice volver...los u de la casa de DiosH3627
+- Isa_52:11purificaos los que lleváis los u deH3627
+- Isa_66:20Israel traen la ofrenda en u limpiosH3627
+- Jer_27:16u de la casa de Jehová volverán deH3627
+- Jer_27:18para que los u...no vayan a BabiloniaH3627
+- Jer_27:19acerca...del resto de los u que quedanH3627
+- Jer_27:21de los u que quedaron en la casa deH3627
+- Jer_28:3haré volver...todos los u de la casa deH3627
+- Jer_28:6con las cuales profetizaste que los uH3627
+- Jer_49:29sus cortinas y todos sus u y...tomaránH3627
+- Jer_52:18los u de bronce con que se ministrabaH3627
+- Eze_27:13con u de bronce comerciaban en tusH3627
+- Eze_40:42éstas pondrán los u con que degollaránH3627
+- Dan_1:2entregó...parte de los u de la casa deH3627
+- Dan_1:2y colocó los u en la casa del tesoro deH3627
+- Mar_7:4lavamientos...de los u de metal, y deG5473
+- Mar_11:16nadie atravesase el templo llevando uG4632
+- 2Ti_2:20no solamente hay u de oro y de plataG4632

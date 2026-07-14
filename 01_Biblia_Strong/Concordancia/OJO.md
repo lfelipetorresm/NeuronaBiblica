@@ -1,0 +1,695 @@
+---
+tipo: concordancia
+palabra: OJO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# OJO
+
+- Gén_3:5serán abiertos vuestros o, y seréis comoH5869
+- Gén_3:6era agradable a los o, y árbol codiciableH5869
+- Gén_3:7entonces fueron abiertos los o de ambosH5869
+- Gén_6:8pero Noé halló gracia ante los o de JehováH5869
+- Gén_13:10alzó Lot sus o, y vio toda la llanuraH5869
+- Gén_13:14alza...tus o, y,mira desde el lugar dondeH5869
+- Gén_18:2alzó sus o y miró, y he aquí tres varonesH5869
+- Gén_18:3si ahora he hallado gracia en tus o, teH5869
+- Gén_19:19ha hallado...siervo gracia en vuestros oH5869
+- Gén_20:16que él te es como un velo para los oH5869
+- Gén_21:19Dios le abrió los o, y vio una fuenteH5869
+- Gén_22:4alzó Abraham sus o, y vio el lugar deH5869
+- Gén_22:13alzó Abraham sus o y miró, y he aquí aH5869
+- Gén_24:63y alzando sus o miró, y...los camellosH5869
+- Gén_24:64Rebeca...alzó sus o, y vio a Isaac, yH5869
+- Gén_27:1Isaac envejeció, y sus o se oscurecieronH5869
+- Gén_29:17los o de Lea eran delicados, pero RaquelH5869
+- Gén_30:27halle yo...gracia en tus o, y quédateH5869
+- Gén_31:10en celo, alcé yo mis o y vi en sueñosH5869
+- Gén_31:12alza ahora tus o, y verás que todos losH5869
+- Gén_31:40de noche la...y el sueño huía de mis oH5869
+- Gén_32:5decirlo a...para hallar gracia en tus oH5869
+- Gén_33:1alzando Jacob sus o, miró...venía EsaúH5869
+- Gén_33:5alzó sus o y vio a las mujeres y a losH5869
+- Gén_33:8el hallar gracia en los o de mi señorH5869
+- Gén_33:10si he hallado ahora gracia en tus oH5869
+- Gén_33:15halle yo gracia en los o de mi señorH5869
+- Gén_34:11halle yo gracia en vuestros o, y daréH5869
+- Gén_37:25y alzando los o miraron, y he aquí unaH5869
+- Gén_38:7Er...fue malo ante los o de Jehová, y leH5869
+- Gén_38:10desagradó en o de Jehová lo que hacíaH5869
+- Gén_39:4halló José gracia en sus o, y le servíaH5869
+- Gén_39:7la mujer de su amo puso sus o en JoséH5869
+- Gén_39:21gracia en los o del jefe de la cárcelH5869
+- Gén_43:29alzando José sus o vio a Benjamín suH5869
+- Gén_44:21traédmelo, y pondré mis o sobre élH5869
+- Gén_45:12vuestros o ven, y los o de...BenjamínH5869
+- Gén_45:16y esto agradó en los o de Faraón y de
+- Gén_46:4haré...y la mano de José cerrará tus oH5869
+- Gén_47:19¿por qué moriremos delante de tus oH5869
+- Gén_47:25hallemos gracia en o de nuestro señorH5869
+- Gén_47:29si he hallado ahora gracia en tus o, teH5869
+- Gén_48:10los o de Israel estaban tan agravadosH5869
+- Gén_49:12sus o, rojos de vino, y sus dientesH5869
+- Gén_50:4si he hallado...gracia en vuestros o, osH5869
+- Éxo_3:21daré...gracia en los o de los egipciosH5869
+- Éxo_4:30e hizo las señales delante de los o delH5869
+- Éxo_11:3Jehová dio gracia al pueblo en los o deH5869
+- Éxo_11:3gran varón...a los o de...los o del puebloH5869
+- Éxo_13:9, Éxo_13:16será...un memorial delante de tus oH5869
+- Éxo_14:10alzaron sus o, y...los egipcios veníanH5869
+- Éxo_15:26e hicieres lo recto delante de sus oH5869
+- Éxo_19:11descenderá a o de todo el pueblo sobreH5869
+- Éxo_21:24o por o, diente por diente, mano porH5869
+- Éxo_21:26hiriere el o de su siervo, o el o deH5869
+- Éxo_21:26si...le dará libertad por razón de su oH5869
+- Éxo_24:17era como un fuego...a los o de...IsraelH5869
+- Éxo_33:12y has hallado también gracia en mis oH5869
+- Éxo_33:13si he hallado gracia en tus o, te ruegoH5869
+- Éxo_33:13que te conozca, y halle gracia en tus oH5869
+- Éxo_33:16que he hallado gracia en tus o, yo y tuH5869
+- Éxo_33:17por cuanto has hallado gracia en mis oH5869
+- Éxo_34:9si...hallado gracia en tus o, vaya ahoraH5869
+- Lev_4:13estuviere oculto a los o del puebloH5869
+- Lev_14:9raerá...las cejas de sus o y todo su peloH5869
+- Lev_20:4cerrare sus o respecto de aquel varónH5869
+- Lev_20:17muertos a o de los hijos de su puebloH5869
+- Lev_21:20o que tenga nube en el o, o que tengaH5869
+- Lev_24:20rotura por rotura, o por o, diente porH5869
+- Lev_25:53no se enseñoreara en...delante de tus oH5869
+- Lev_26:16terror...calentura, que consuman los oH5869
+- Lev_26:45los saqué de...a los o de las nacionesH5869
+- Núm_10:31tú conoces...nos serás en lugar de oH5869
+- Núm_11:6pues nada sino este maná ven nuestros oH5869
+- Núm_11:11por qué no he hallado gracia en tus oH5869
+- Núm_11:15muerte, si he hallado gracia en tus oH5869
+- Núm_15:39no miréis en pos de...y de vuestros oH5869
+- Núm_16:14no nos...¿Sacarás los o de estos hombres?[[H5869]]
+- Núm_19:5quemar la vaca ante sus o; su cuero y suH5869
+- Núm_22:31abrió los o de Balaam, y vio al ángelH5869
+- Núm_24:2alzando sus o, vio a Israel alojado porH5869
+- Núm_24:3, Núm_24:15dijo Balaam...el varón de o abiertosH5869
+- Núm_24:4, Núm_24:16el que vio...caído, pero abiertos los oH5869
+- Núm_25:6trajo una madianita...a o de Moisés y deH5869
+- Núm_27:14no santificándome en las...a o de ellosH5869
+- Núm_32:5si hallamos gracia en tus o, dése estaH5869
+- Núm_33:55aguijones en vuestros o y por espinasH5869
+- Deu_1:30hizo...en Egipto delante de vuestros oH5869
+- Deu_3:21o vieron todo...que Jehová vuestro DiosH5869
+- Deu_3:27y alza tus o...y mira con tus propios oH5869
+- Deu_4:3vuestros o vieron lo que hizo Jehová conH5869
+- Deu_4:6y vuestra inteligencia ante los o de losH5869
+- Deu_4:9olvides de las cosas que tus o han vistoH5869
+- Deu_4:19alces tus o al cielo, y viendo el sol yH5869
+- Deu_4:25hiciereis lo malo ante los o de JehováH5869
+- Deu_4:34todo lo que hizo...en Egipto ante tus o?[[H5869]]
+- Deu_6:8y estarán como frontales entre tus oH5869
+- Deu_6:18y haz lo recto y lo bueno ante los o deH5869
+- Deu_6:22hizo señales y...delante de nuestros oH5869
+- Deu_7:16no los perdonará tu o, ni servirás a susH5869
+- Deu_7:19de las grandes pruebas que vieron tus oH5869
+- Deu_9:17tablas...las quebré delante de vuestros oH5869
+- Deu_9:18haciendo el mal ante los o de Jehová paraH5869
+- Deu_10:21cosas grandes y...que tus o han vistoH5869
+- Deu_11:7vuestros o han visto...obras que JehováH5869
+- Deu_11:12están sobre ella los o de Jehová tu DiosH5869
+- Deu_11:18y serán por frontales entre vuestros oH5869
+- Deu_12:25hicieres lo recto ante los o de JehováH5869
+- Deu_12:28bueno y lo recto ante los o de JehováH5869
+- Deu_13:8ni tu o le compadecerá, ni le tendrásH5869
+- Deu_13:18hacer lo recto ante los o de Jehová tuH5869
+- Deu_15:9y mires con malos o a tu...menesterosoH5869
+- Deu_16:19el soborno ciega los o de los sabios, yH5869
+- Deu_17:2que haya hecho mal ante los o de JehováH5869
+- Deu_19:21por vida, o por o, diente por dienteH5869
+- Deu_21:7esta sangre, ni nuestros o lo han vistoH5869
+- Deu_21:9hicieres lo que es recto ante los o deH5869
+- Deu_25:3se sienta...envilecido delante de tus oH5869
+- Deu_28:31tu buey será matado delante de tus oH5869
+- Deu_28:32o lo verán, y desfallecerán por ellosH5869
+- Deu_28:34enloquecerás...lo que verás con tus oH5869
+- Deu_28:54mirará con malos o a su hermano, y aH5869
+- Deu_28:56mirará con malos o al marido de su senoH5869
+- Deu_28:65te dará Jehová...desfallecimiento de oH5869
+- Deu_28:67por el miedo...por lo que verán tus oH5869
+- Deu_29:2Jehová ha hecho delante de vuestros oH5869
+- Deu_29:3grandes pruebas que vieron vuestros oH5869
+- Deu_29:4Jehová no os ha dado...ni o para ver, niH5869
+- Deu_31:29haber hecho mal ante los o de JehováH5869
+- Deu_32:10halló...lo guardó como a la niña de su oH5869
+- Deu_34:4te he permitido verla con tus o, mas noH5869
+- Deu_34:7sus o nunca se oscurecieron, ni perdióH5869
+- Jos_3:7a engrandecerte delante de los o deH5869
+- Jos_4:14engrandeció a Josué a los o de...IsraelH5869
+- Jos_5:13Josué cerca...alzó sus o y vio un varónH5869
+- Jos_23:13os serán...por espinas para vuestros oH5869
+- Jos_24:7vuestros o vieron lo que hice en EgiptoH5869
+- Jue_2:11; Jue_3:7, Jue_3:12(2); Jue_4:1; Jue_6:1; Jue_10:6; Jue_13:1lo malo ante los o de JehováH5869
+- Jue_13:19y el ángel hizo milagro ante los o deH7200
+- Jue_13:20el ángel...subió...ante los o de ManoaH7200
+- Jue_16:21mas los filisteos le...y le sacaron los oH5869
+- Jue_16:28de una vez tome venganza...por mis dos oH5869
+- Jue_19:17y alzando el viejo los o, vio a aquelH5869
+- Rut_2:2pos de aquel a cuyos o hallare graciaH5869
+- Rut_2:10¿por qué he hallado gracia en tus o paraH5869
+- Rut_2:13dijo...halle yo gracia delante de tus oH5869
+- 1Sa_1:18halle tu sierva gracia delante...tus oH5869
+- 1Sa_2:33para consumir tus o y llenar tu alma deH5869
+- 1Sa_3:2o comenzaban a oscurecerse de modo queH5869
+- 1Sa_4:15sus o se habían oscurecido, de modo queH5869
+- 1Sa_6:13y alzando los o vieron el arca, y seH5869
+- 1Sa_11:2que a cada uno de...saque el o derechoH5869
+- 1Sa_12:3si...he tomado cohecho para cegar mis oH5869
+- 1Sa_12:16que Jehová hará delante de vuestros oH5869
+- 1Sa_12:17maldad que habéis hecho ante los o deH5869
+- 1Sa_14:27panal de miel...y fueron aclarados sus oH5869
+- 1Sa_14:29ved...cómo han sido aclarados mis o, porH5869
+- 1Sa_15:17aunque eras pequeño en tus propios oH5869
+- 1Sa_15:19has hecho lo malo ante los o de Jehová?[[H5869]]
+- 1Sa_16:7hombre mira lo que está delante de sus oH5869
+- 1Sa_16:12rubio, hermoso de o, y de buen parecerH5869
+- 1Sa_16:22David esté...ha hallado gracia en mis oH5869
+- 1Sa_18:5acepto a los o...a los o de los siervosH5869
+- 1Sa_18:9desde...Saúl no miró con buenos o a DavidH5770
+- 1Sa_18:20dicho a Saúl, y le pareció bien a sus o
+- 1Sa_18:26pareció bien la cosa a los o de David
+- 1Sa_20:3que yo he hallado gracia delante de tus oH5869
+- 1Sa_20:29lo tanto, si he hallado gracia en tus oH5869
+- 1Sa_24:10han visto hoy tus o cómo Jehová te haH5869
+- 1Sa_25:8hallen...estos jóvenes gracia en tus oH5869
+- 1Sa_26:21mi vida ha sido estimada...hoy a tus oH5869
+- 1Sa_26:24tu vida ha sido estimada...hoy a mis oH5869
+- 1Sa_26:24así sea mi vida a los o de Jehová, yH5869
+- 1Sa_27:5si he hallado gracia ante tus o, séameH5869
+- 1Sa_29:6mas a los o de los príncipes no agradasH5869
+- 1Sa_29:9eres bueno ante mis o, como un ángel deH5869
+- 2Sa_6:22seré bajo a tus o; pero seré honradoH5869
+- 2Sa_11:27fue desagradable ante los o de Jehová
+- 2Sa_12:9delante de sus o? A Urías heteo heristeH5869
+- 2Sa_12:11y tomaré tus mujeres delante de tus oH5869
+- 2Sa_13:34alzando sus o el joven...atalaya, miróH5869
+- 2Sa_14:22he hallado gracia en tus o, rey señorH5869
+- 2Sa_15:25yo hallare gracia ante los o de JehováH5869
+- 2Sa_16:22y se llegó...ante los o de todo IsraelH5869
+- 2Sa_18:24y alzando sus o, miró, y vio a uno queH5869
+- 2Sa_22:28mas tus o están sobre los altivos paraH5869
+- 1Re_1:20o de todo Israel están puestos en tiH5869
+- 1Re_1:48se siente en mi trono, viéndolo mis oH5869
+- 1Re_8:29que estén tus o abiertos de noche y deH5869
+- 1Re_8:52estén, pues, atentos tus o a la oraciónH5869
+- 1Re_9:3en ella estarán mis o y mi corazón todosH5869
+- 1Re_10:7mis o han visto que ni aun se me dijo laH5869
+- 1Re_11:6hizo Salomón lo malo ante...o de JehováH5869
+- 1Re_11:33para hacer lo recto delante de mis oH5869
+- 1Re_11:38si...hicieres lo recto delante de mis oH5869
+- 1Re_14:4sus o se habían oscurecido a causa de suH5869
+- 1Re_14:8haciendo solamente lo recto delante...oH5869
+- 1Re_14:22; 1Re_15:26, 1Re_15:34; 1Re_16:7, 1Re_16:19, 1Re_16:25, 1Re_16:30; 1Re_21:25; 1Re_22:52;
+- 2Re_3:2; 2Re_8:18, 2Re_8:27; 2Re_13:2, 2Re_13:11; 2Re_14:24; 2Re_15:9, 2Re_15:18, 2Re_15:24, 2Re_15:28; 2Re_17:2, 2Re_17:17; 2Re_21:2, 2Re_21:6, 2Re_21:15-16, 2Re_21:20; 2Re_23:32, 2Re_23:37; 2Re_24:9, 2Re_24:19; 2Cr_21:6; 2Cr_22:4; 2Cr_29:6; 2Cr_33:2, 2Cr_33:6, 2Cr_33:22; 2Cr_36:5, 2Cr_36:9, 2Cr_36:12(hacer) lo malo ante los o de JehováH5869
+- 1Re_15:5, 1Re_15:11; 1Re_22:43; 2Re 12:2; 14:3; 15:3,34; 18:3; 22:2; 2Cr_14:2; 2Cr_20:32; 2Cr_24:2; 2Cr_25:2; 2Cr_26:4; 2Cr_27:2; 2Cr_29:2; 2Cr_34:2(hacer) lo recto ante los o de JehováH5869
+- 1Re_20:38disfrazó, poniéndose una venda...los o
+- 1Re_20:41él se quitó...la venda de sobre sus o
+- 2Re_1:13sea de valor delante de tus o mi vida
+- 2Re_1:14sea estimada...mi vida delante de tus o
+- 2Re_3:18esto es cosa ligera en los o de Jehová
+- 2Re_4:34poniendo su boca...y sus o sobre sus oH5869
+- 2Re_4:35niño estornudó siete veces, y abrió sus oH5869
+- 2Re_6:17que abras sus o...abrió los o del siervoH5869
+- 2Re_6:20abre los o de...que vean...Y...abrió sus oH5869
+- 2Re_7:2, 2Re_7:19lo verás con tus o, mas no comerás deH5869
+- 2Re_9:30se pintó los o con antimonio, y atavió
+- 2Re_10:30ejecutando lo recto delante de mis oH5869
+- 2Re_16:2no hizo lo recto ante los o de Jehová
+- 2Re_19:16abre, oh Jehová, tus o, y mira: y oyeH5869
+- 2Re_19:22contra quién...levantado en alto tus o?[[H5869]]
+- 2Re_22:20no verán tus o...el mal que yo traigoH5869
+- 2Re_25:7a Sedequías le sacaron los o, y atadoH5869
+- 1Cr_21:16alzando David sus o, vio al ángelH5869
+- 1Cr_28:8ante los o de todo Israel...los preceptos
+- 1Cr_29:25engrandeció en extremo a Salomón a o
+- 2Cr_6:20tus o estén abiertos sobre esta casaH5869
+- 2Cr_6:40que estén abiertos tus o y atentos tusH5869
+- 2Cr_7:15ahora estarán abiertos mis o y atentosH5869
+- 2Cr_7:16mis o y mi corazón estarán ahí...siempreH5869
+- 2Cr_9:6hasta que he venido, y mis o han vistoH5869
+- 2Cr_16:9o de Jehová contemplan toda la tierraH5869
+- 2Cr_20:12no sabemos...y a ti volvemos nuestros oH5869
+- 2Cr_28:1Acaz...no hizo lo recto ante los o de
+- 2Cr_29:8a escarnio, como veis...con vuestros oH5869
+- 2Cr_34:28o no verán todo el mal que yo traigoH5869
+- Esd_5:5o de Dios estaban sobre los ancianosH5870
+- Esd_9:8fin de alumbrar nuestro Dios nuestros oH5869
+- Neh_1:6y abiertos tus o para oir la oraciónH5869
+- Neh_8:5abrió...el libro a o de todo el puebloH5869
+- Est_1:21agradó esta palabra a los o del rey
+- Est_2:4la doncella que agrade a los o del rey
+- Est_2:4esto agradó a los o del rey, y lo hizo
+- Est_2:9doncella agradó a sus o, y halló gracia
+- Est_5:2ella obtuvo gracia ante sus o; y el reyH5869
+- Est_5:8si he hallado gracia ante los o del reyH5869
+- Est_5:14y agradó esto a los o de Amán, e hizo
+- Est_7:3si he hallado gracia en tus o, y si alH5869
+- Est_8:5si...yo soy agradable a sus o, que se déH5869
+- Job_2:12los cuales, alzando los o desde lejosH5869
+- Job_3:10estaba, ni escondió de mis o la miseriaH5869
+- Job_4:16paróse delante de mis o un fantasmaH5869
+- Job_7:7y que mis o no volverán a ver el bienH5869
+- Job_7:8los o de los que me ven, no me verán másH5869
+- Job_7:8más: fijarás en mí tus o, y dejaré de serH5869
+- Job_10:4¿tienes...acaso o de carne? ¿Ves tú comoH5869
+- Job_10:18expirado, y ningún o me habría vistoH5869
+- Job_11:4dices...yo soy limpio delante de tus oH5869
+- Job_11:20pero los o de los malos se consumiránH5869
+- Job_13:1que todas estas cosas han visto mis oH5869
+- Job_14:3¿sobre éste abres tus o, y me traes aH5869
+- Job_15:12tu corazón te...y por qué guiñan tus oH5869
+- Job_15:15ni aun los cielos son limpios...sus oH5869
+- Job_16:9furor...contra mí aguzó sus o mi enemigoH5869
+- Job_17:2sino...en cuya amargura se detienen mis oH5869
+- Job_17:5presa, los o de sus hijos desfalleceránH5869
+- Job_17:7mis o se oscurecieron por el dolor, yH5869
+- Job_18:3¿por qué...y a vuestros o somos viles?[[H5869]]
+- Job_19:15por extraño; forastero fui yo a sus oH5869
+- Job_19:27mis o lo verán, y no otro, aunque miH5869
+- Job_20:9el o que le veía, nunca más le verá, niH5869
+- Job_21:8y sus renuevos están delante de sus oH5869
+- Job_21:20verán sus o su quebranto, y beberá deH5869
+- Job_22:29dirás...y Dios salvará al humilde de o
+- Job_24:15el o del adúltero está aguardando laH5869
+- Job_24:23sus o están sobre los caminos de ellosH5869
+- Job_25:5estrellas son limpias delante de sus oH5869
+- Job_27:19acuesta...abrirá sus o, y nada tendráH5869
+- Job_28:7senda que nunca...ni o de buitre la vioH5869
+- Job_28:10ríos, y sus o vieron todo lo preciadoH5869
+- Job_28:21encubierta está a los o de...vivienteH5869
+- Job_29:11los o que me veían me daban testimonioH5869
+- Job_29:15yo era o al ciego, y pies al cojoH5869
+- Job_31:1hice pacto con mis o; ¿cómo, pues, había
+- Job_31:7si mi corazón se fue tras mis o, y siH5869
+- Job_31:16si...hice desfallecer los o de la viudaH5869
+- Job_32:1por cuanto él era justo a sus propios oH5869
+- Job_34:21o están sobre los caminos del hombreH5869
+- Job_36:7no apartará de los justos sus o; antesH5869
+- Job_39:29la presa; sus o observan de muy lejosH5869
+- Job_41:18sus o son como los párpados del albaH5869
+- Job_42:5te había oído; mas ahora mis o te venH5869
+- Sal_5:5insensatos no estarán delante de tus oH5869
+- Sal_6:7mis o están gastados de sufrir; se hanH5869
+- Sal_10:8sus o están acechando al desvalidoH5869
+- Sal_11:4sus o ven, sus párpados examinan a losH5869
+- Sal_13:3alumbra mis o, para que no duerma deH5869
+- Sal_15:4aquel a cuyos o el vil es menospreciadoH5869
+- Sal_17:2mi vindicación; vean tus o la rectitudH5869
+- Sal_17:8como a la niña de tus o; escóndeme bajoH5869
+- Sal_17:11puestos sus o para echamos por tierraH5869
+- Sal_18:27salvarás al...y humillarás los o altivos
+- Sal_19:8el precepto...es puro, que alumbra los oH5869
+- Sal_25:15o están siempre hacia Jehová, porqueH5869
+- Sal_26:3tu misericordia está delante de mis oH5869
+- Sal_31:9se han consumido de tristeza mis o, miH5869
+- Sal_31:22cortado soy de delante de tus o; peroH5869
+- Sal_32:8te enseñaré el...sobre ti fijaré mis oH5869
+- Sal_33:18el o de Jehová sobre los que le temenH5869
+- Sal_34:15los o de Jehová están sobre los justosH5869
+- Sal_35:19ni los que me aborrecen...guiñen el oH5869
+- Sal_35:21dijeron...ea, nuestros o lo han visto![[H5869]]
+- Sal_36:1no hay temor de Dios delante de sus oH5869
+- Sal_36:2lisonjea, por tanto, en sus propios oH5869
+- Sal_38:10vigor, y aun la luz de mis o me faltaH5869
+- Sal_50:21pero te las pondré delante de tus oH5869
+- Sal_51:4he hecho lo malo delante de tus o; paraH5968
+- Sal_54:7mis o han visto la ruina de mis enemigosH5968
+- Sal_66:7sus o atalayan sobre las naciones; losH5869
+- Sal_69:3han desfallecido mis o esperando a miH5869
+- Sal_69:23sean oscurecidos sus o para que no veanH5869
+- Sal_72:14y la sangre...será preciosa ante sus oH5869
+- Sal_73:7los o se les saltan de gordura; logranH5869
+- Sal_77:4no me dejabas pegar los o; estaba yoH5869
+- Sal_79:10sea notoria en...delante de nuestros oH5869
+- Sal_84:9y pon los o en el rostro de tu ungidoH5027
+- Sal_88:9mis o enfermaron a causa de mi aflicciónH5869
+- Sal_90:4mil años delante de tus o son como el díaH5869
+- Sal_91:8tus o mirarás y verás la recompensa deH5869
+- Sal_92:11y mirarán mis o sobre mis enemigosH5869
+- Sal_94:9¿no oirá? El que formó el o, ¿no verá?[[H5869]]
+- Sal_101:3no pondré delante de...o cosa injustaH5869
+- Sal_101:5no sufriré al de o altaneros...vanidosoH5869
+- Sal_101:6mis o pondré en los fieles de la tierraH5869
+- Sal_101:7habla...no se afirmará delante de mis oH5869
+- Sal_115:5boca, mas no hablan; tienen o, mas noH5869
+- Sal_116:8tú has librado...mis o de lágrimas, yH5869
+- Sal_116:15estimada es a...o de Jehová la muerteH5869
+- Sal_118:23y es cosa maravillosa a nuestros oH5869
+- Sal_119:18abre mis o, y miraré las...de tu leyH5869
+- Sal_119:37aparta mis o, que no vean la vanidadH5869
+- Sal_119:82desfallecieron mis o por tu palabraH5869
+- Sal_119:123mis o desfallecieron por tu salvaciónH5869
+- Sal_119:136ríos de agua descendieron de mis oH5869
+- Sal_119:148se anticiparon mis o a las vigiliasH5869
+- Sal_121:1alzaré mis o a los montes; ¿de dóndeH5869
+- Sal_123:1a ti alcé mis o, a ti que habitas enH5869
+- Sal_123:2como los o de los siervos miran a laH5869
+- Sal_123:2como los o de la sierva a la mano deH5869
+- Sal_123:2así nuestros o miran a Jehová nuestroH5869
+- Sal_131:1ni mis o se enaltecieron; ni anduve enH5869
+- Sal_132:4no daré sueño a mis o, ni a...párpadosH5869
+- Sal_135:16boca, y no hablan; tienen o, y no venH5869
+- Sal_139:16mi embrión vieron tus o, y en tu libroH5869
+- Sal_141:8a ti, oh Jehová, Señor, miran mis oH5869
+- Sal_145:15los o de todos esperan en ti, y tú lesH5869
+- Sal_146:8abre los o a los ciegos; Jehová ama a
+- Pro_1:17en vano se tenderá la red ante los oH5869
+- Pro_3:4y buena opinión ante los o de Dios y deH5869
+- Pro_3:21mío, no se aparten estas cosas de tus oH5869
+- Pro_4:21no se aparten de tus o; guárdalas enH5869
+- Pro_4:25tus o miren lo recto, y diríjanse tusH5869
+- Pro_5:21los caminos...están ante los o de JehováH5869
+- Pro_6:4no des sueño a tus o, ni a tus párpadosH5869
+- Pro_6:13que guiña los o, que habla con los piesH5869
+- Pro_6:17los o altivos, la lengua mentirosa, lasH5869
+- Pro_6:25tu corazón, ni ella te prenda con sus oH6079
+- Pro_7:2guarda...y mi ley como las niñas de tus oH5869
+- Pro_10:10el que guiña el o acarrea tristezaH5869
+- Pro_10:26como el humo a los o...es el perezoso
+- Pro_15:3o de Jehová están en todo lugar, mirandoH5869
+- Pro_15:30la luz de los o alegra el corazón, y laH5869
+- Pro_16:30cierra sus o para pensar perversidadesH5869
+- Pro_17:24los o del necio vagan hasta el extremoH5869
+- Pro_20:12el oído que oye, y el o que ve, ambasH5869
+- Pro_20:13el sueño...abre tus o, y te saciarás deH5869
+- Pro_21:4altivez de o, y orgullo de...son pecadoH5869
+- Pro_21:10mal; su prójimo no halla favor en sus oH5869
+- Pro_22:9o misericordioso será bendito, porqueH5869
+- Pro_22:12los o de Jehová velan por la cienciaH5869
+- Pro_23:5¿has de poner tus o en las riquezasH5869
+- Pro_23:26dame...y miren tus o por mis caminosH5869
+- Pro_23:29ay...¿para quién lo amoratado de los o?[[H5869]]
+- Pro_23:33o mirarán cosas extrañas, y tu corazónH5869
+- Pro_25:7del príncipe a quien han mirado tus oH5869
+- Pro_27:20o del hombre nunca están satisfechosH5869
+- Pro_28:27que aparta sus o tendrá...maldicionesH5869
+- Pro_29:13pobre...Jehová alumbra los o de ambosH5869
+- Pro_30:13hay generación cuyos o son altivos yH5869
+- Pro_30:17el o que escarnece a su padre, madreH5869
+- Ecl_1:8nunca se sacia el o de ver, ni el oídoH5869
+- Ecl_2:10no negué a mis o...cosa que descaran, niH5869
+- Ecl_2:14el sabio tiene sus o en su cabeza, masH5869
+- Ecl_4:8ni sus o se sacian de sus riquezas, niH5869
+- Ecl_5:11¿qué bien, pues...sino verlos con sus o?[[H5869]]
+- Ecl_6:9más vale vista de o que deseo que pasaH5869
+- Ecl_8:16ni de noche ni de día ve sueño en sus oH5869
+- Ecl_11:7suave...y agradable a los o ver el solH5869
+- Ecl_11:9y anda en los...y en la vista de tus oH5869
+- Cnt_1:15eres bella; tus o son como palomasH5869
+- Cnt_4:1tus o entre tus guedejas como de palomaH5869
+- Cnt_4:9has apresado mi corazón con uno de tus oH5869
+- Cnt_5:12o, como palomas junto a los arroyos deH5869
+- Cnt_6:5aparta tus o de delante de mí, porqueH5869
+- Cnt_7:4o, como los estanques de Hesbón junto aH5869
+- Cnt_8:10que fui en sus o como la que halla pazH5869
+- Isa_1:15esconderé de vosotros mis o...no oiréH5869
+- Isa_1:16quitad la iniquidad...delante de mis oH5869
+- Isa_2:11la altivez de los o del hombre...abatidaH5869
+- Isa_3:8obras...para irritar los o de su majestadH5869
+- Isa_3:16las hijas de Sion...con o desvergonzadosH5869
+- Isa_5:15y serán bajados los o de los altivosH5869
+- Isa_5:21¡ay de los sabios en sus propios o, y deH5869
+- Isa_6:5porque han visto mis o al Rey, Jehová deH5869
+- Isa_6:10agrava sus oídos, y ciega sus o, paraH5869
+- Isa_6:10para que no vea con sus o, ni oiga conH5869
+- Isa_10:12rey...y la gloria de la altivez de sus oH5869
+- Isa_11:3no juzgará según la vista de sus o, niH5869
+- Isa_13:18niños...ni su o perdonará a los hijosH5869
+- Isa_17:7sus o contemplarán al Santo de IsraelH5869
+- Isa_29:10cerró los o de vuestros profetas, yH5869
+- Isa_29:18los o de los ciegos verán en medio deH5869
+- Isa_30:20sino que tus o verán a tus maestrosH5869
+- Isa_32:3no se ofuscarán...los o de los que venH5869
+- Isa_33:15el que cierra sus o para no ver cosaH5869
+- Isa_33:17o verán al Rey en su hermosura; veránH5869
+- Isa_33:20o verán a Jerusalén, morada de quietudH5869
+- Isa_35:5los o de los ciegos serán abiertos, y losH5869
+- Isa_37:17abre, oh Jehová, tus o, y mira; y oyeH5869
+- Isa_37:23¿contra quién has...levantado tus o enH5869
+- Isa_38:3he hecho lo...agradable delante de tus oH5869
+- Isa_38:14gemía como la...alzaba en alto mis oH5869
+- Isa_40:26levantad en alto vuestros o, y miradH5869
+- Isa_42:7para que abras los o de los ciegos, paraH5869
+- Isa_43:4a mis o fuiste de gran estima, fuisteH5869
+- Isa_43:8sacad al pueblo ciego que tiene o, y aH5869
+- Isa_44:18cerrados están sus o para no ver, y suH5869
+- Isa_49:5estimado seré en los o de Jehová, y elH5869
+- Isa_49:18alza...o alrededor, y mira: todos éstosH5869
+- Isa_51:6alzad a los cielos vuestros o, y miradH5869
+- Isa_52:8o a o verán que Jehová vuelve a traerH5869
+- Isa_52:10brazo ante los o de todas las nacionesH5869
+- Isa_59:10ciegos, y andamos a tientas como sin oH5869
+- Isa_59:15vio Jehová, y desagradó a sus o, porque
+- Isa_60:4alza tus o alrededor y mira, todos éstosH5869
+- Isa_64:4nunca...ni o ha visto a Dios fuera de ti
+- Isa_65:12que hicisteis lo malo delante de mis oH5869
+- Isa_65:16olvidadas, y serán cubiertas de mis oH5869
+- Isa_66:4que hicieron lo malo delante de mis oH5869
+- Jer_3:2alza tus o a las alturas, y ve en quéH5869
+- Jer_4:30aunque pintes con antimonio tus o, en
+- Jer_5:3oh Jehová, ¿no miran tus o a la verdad?[[H5869]]
+- Jer_5:21pueblo necio y sin...que tiene o y no veH5869
+- Jer_7:11¿es cueva de ladrones delante de...o estaH5869
+- Jer_7:30de Judá han hecho lo malo ante mis oH5869
+- Jer_9:1mis o fuentes de lágrimas, para que lloraH5869
+- Jer_9:18y desháganse nuestros o en lágrimas, yH5869
+- Jer_13:17se desharán mis o en lágrimas, porqueH5869
+- Jer_13:20alzad vuestros o, y ved a...del norteH5869
+- Jer_14:6o se ofuscaron porque no había hierbaH5869
+- Jer_14:17derramen mis o lágrimas noche y día, yH5869
+- Jer_16:9yo haré cesar...delante de vuestros o yH5869
+- Jer_16:17mis o están sobre todos sus caminosH5869
+- Jer_16:17ni su maldad se esconde de...de mis oH5869
+- Jer_18:10si hiciere lo malo delante de mis o, noH5869
+- Jer_19:10quebrarás la vasija ante los o de losH5869
+- Jer_20:4caerán por la espada...y tus o lo veránH5869
+- Jer_22:17tus o y tu corazón no son sino para tuH5869
+- Jer_24:6pondré mis o sobre ellos para bien, yH5869
+- Jer_29:21y él los matará delante de vuestros oH5869
+- Jer_31:16reprime...voz, y de las lágrimas tus oH5869
+- Jer_32:4y hablará con él...y sus o verán sus oH5869
+- Jer_32:19tus o están abiertos sobre todos losH5869
+- Jer_32:30han hecho sino lo malo delante de mis o
+- Jer_34:3tus o verán los o del rey de BabiloniaH5869
+- Jer_34:15habíais...hecho lo recto delante...mis oH5869
+- Jer_39:7y sacó los o del rey Sedequías, y leH5869
+- Jer_42:2quedado unos pocos, como nos ven tus oH5869
+- Jer_51:24mal que ellos hicieron...delante de...oH5869
+- Jer_52:2e hizo lo malo ante los o de JehováH5869
+- Jer_52:10degolló a los hijos...delante de sus oH5869
+- Jer_52:11sacó los o a Sedequías, y le ató conH5869
+- Lam_1:16mis o, mis o fluyen aguas, porque seH5869
+- Lam_2:11mis o desfallecieron de lágrimas, seH5869
+- Lam_2:18no descanses, ni cesen...niñas de tus oH5869
+- Lam_3:48ríos de aguas echan mis o por elH5869
+- Lam_3:49mis o destilan y no cesan, porque no hayH5869
+- Lam_3:51mis o contristaron mi alma por todas lasH5869
+- Lam_4:17han desfallecido nuestros o esperando enH5869
+- Lam_5:17por esto se entenebrecieron nuestros oH5869
+- Eze_1:18llenos de o alrededor en las cuatroH5869
+- Eze_5:8haré juicios...ante los o de las nacionesH5869
+- Eze_5:11mi o no perdonará, ni tampoco tendré yoH5869
+- Eze_5:14en oprobio...a los o de todo transeúnteH5869
+- Eze_6:9a causa de sus o que fornicaron tras susH5869
+- Eze_7:4, Eze_7:9mi o no te perdonará, ni...misericordiaH5869
+- Eze_8:5alza ahora tus o...y alcé mis o hacia elH5869
+- Eze_8:18procederé con furor; no perdonará mi oH5869
+- Eze_9:5no perdone vuestro o, ni...misericordiaH5869
+- Eze_9:10así, pues, haré yo; mi o no perdonaráH5869
+- Eze_10:12ruedas estaban llenos de o alrededorH5869
+- Eze_10:19levantaron de la tierra delante de...oH5869
+- Eze_12:2los cuales tienen o para ver y no venH5869
+- Eze_12:3enseres...parte de día delante de sus oH5869
+- Eze_12:4sacarás tus enseres...delante de sus oH5869
+- Eze_12:5delante de sus o te abrirás paso porH5869
+- Eze_12:6delante de sus o los llevarás sobre tusH5869
+- Eze_12:12cubrirá su...no ver con sus o la tierraH5869
+- Eze_16:5no hubo o que se compadeciese de ti paraH5869
+- Eze_18:6, Eze_18:12, Eze_18:15alzare sus o a los ídolosH5869
+- Eze_20:7-8las abominaciones de delante de sus oH5869
+- Eze_20:9para que no se infamase ante los o deH5869
+- Eze_20:9las naciones...en cuyos o fui conocidoH5869
+- Eze_20:14, Eze_20:22las...ante cuyos o los había sacadoH5869
+- Eze_20:17los perdonó mi o, pues no los maté, niH5869
+- Eze_20:24tras los ídolos de...se les fueron los oH5869
+- Eze_20:41santificado...a los o de las naciones
+- Eze_21:6hijo de...gime delante de los o de ellosH5869
+- Eze_22:26de mis días de reposo apartaron sus oH5869
+- Eze_23:27no levantarás ya más a ellos tus o, niH5869
+- Eze_23:40por amor de ellos te...pintaste tus oH5869
+- Eze_24:16te quito de golpe el deleite de tus oH5869
+- Eze_24:21el deseo de vuestros o y el deleite deH5869
+- Eze_24:25el deleite de sus o y el anhelo de susH5869
+- Eze_28:18te puse en ceniza...a los o de todos losH5869
+- Eze_28:25me santificaré...los o de las nacionesH5869
+- Eze_33:25a vuestros ídolos alzaréis vuestros oH5869
+- Eze_36:23sea santificado en...delante de sus oH5869
+- Eze_36:34asolada a o de todos los que pasaronH5869
+- Eze_37:20los palos...en tu mano delante de sus oH5869
+- Eze_38:16santificado, oh Gog, delante de sus oH5869
+- Eze_38:23seré conocido ante los o de...nacionesH5869
+- Eze_39:27sea santificado en ellos ante los o deH5869
+- Eze_40:4mira con tus o, y oye con tus oídos, yH5869
+- Eze_43:11descríbelo delante de sus o, para queH5869
+- Eze_44:5y mira con tus o, y oye con tus oídosH5869
+- Dan_4:34yo Nabucodonosor alcé mis o al cieloH5869
+- Dan_7:8que este cuerno tenía o como de hombreH5869
+- Dan_7:20este mismo cuerno tenía o, y boca queH5869
+- Dan_8:3alcé los o y miré, y he aquí un carneroH5869
+- Dan_8:5macho cabrío...cuerno notable entre sus oH5869
+- Dan_8:21el cuerno grande que tenía entre sus oH5869
+- Dan_9:18abre tus o, y mira nuestras desolacionesH5869
+- Dan_10:5alcé mis o y miré, y he aquí un varónH5869
+- Dan_10:6Y sus o como antorchas de fuego, y susH5869
+- Dan_10:15estaba yo con los o puestos en tierra
+- Ose_2:10descubriré yo su locura delante de...oH5869
+- Joe_1:16arrebatado...de delante de nuestros oH5869
+- Amó_9:3se escondieren de delante de mis o enH5869
+- Amó_9:4pondré sobre ellos mis o para mal, y noH5869
+- Amó_9:8los o de Jehová...están contra el reinoH5869
+- Jon_2:4dije: Desechado soy de delante...tus oH5869
+- Miq_4:11y vean nuestros o su deseo en SionH5869
+- Miq_7:10mis o la verán; ahora será hollada comoH5869
+- Hab_1:13muy limpio eres de o para ver el malH5869
+- Sof_3:20levante...cautiverio delante de...oH5869
+- Hag_2:3¿no es...nada delante de vuestros o?[[H5869]]
+- Zac_1:18alcé mis o y miré, y he aquí cuatroH5869
+- Zac_2:1alcé...mis o y miré, y he aquí un varónH5869
+- Zac_2:8el que os toca, toca a la niña de su oH892
+- Zac_3:9sobre esta única piedra hay siete o; yH5869
+- Zac_4:10estos siete son los o de Jehová, queH5869
+- Zac_5:1de nuevo alcé mis o y miré, y he aquí unH5869
+- Zac_5:5alza ahora tus o, y mira qué es esto queH5869
+- Zac_5:9alcé...o, y miré, y he aquí dos mujeresH5869
+- Zac_6:1de nuevo alcé mis o y miré, y he aquí 4H5869
+- Zac_8:6si esto parecerá maravilloso a los o deH5869
+- Zac_8:6será maravilloso delante de mis o? diceH5869
+- Zac_9:1a Jehová deben mirar los o de...hombresH5869
+- Zac_9:8no pasará...porque ahora miraré con mis oH5869
+- Zac_11:17hiera la espada su brazo...su o derechoH5869
+- Zac_11:17se secará su brazo, y su o...oscurecidoH5869
+- Zac_12:4mas sobre la casa de Judá abriré mis oH5869
+- Zac_14:12y se consumirán en las cuencas sus oH5869
+- Mal_1:5y vuestros o lo verán, y diréis: SeaH5869
+- Mat_5:29si tu o derecho te es ocasión de caerG3788
+- Mat_5:38fue dicho: O por o, y diente por dienteG3788
+- Mat_6:22la lámpara del cuerpo es el o; así queG3788
+- Mat_6:23pero si tu o es maligno, todo tu cuerpoG3788
+- Mat_7:3la paja que está en el o de tu hermanoG3788
+- Mat_7:3no echas de ver la viga...en tu propio o?[[G3788]]
+- Mat_7:4sacar la paja de tu o...viga en el o tuyoG3788
+- Mat_7:5saca primero la viga de tu propio o, yG3788
+- Mat_7:5para sacar la paja del o de tu hermanoG3788
+- Mat_9:29les tocó los o, diciendo: Conforme...feG5869
+- Mat_9:30los o de ellos fueron abiertos...Y JesúsG5869
+- Mat_13:15han cerrado sus o...que no vean con los oG5869
+- Mat_13:16bienaventurados vuestros o, porque venG3788
+- Mat_14:19levantando los o al cielo, bendijo, yG308
+- Mat_17:8alzando ellos los o, a nadie vieron sinoG5869
+- Mat_18:9si tu o te es ocasión de caer, sácalo yG5869
+- Mat_18:9mejor...entrar con un solo o en la vidaG3788
+- Mat_18:9teniendo dos o ser echado en el infiernoG3788
+- Mat_19:24pasar un camello por el o de una agujaG5169
+- Mat_20:33Señor, que sean abiertos nuestros oG5869
+- Mat_20:34Jesús, compadecido, les tocó los o, yG5869
+- Mat_21:42esto, y es cosa maravillosa a nuestros oG5869
+- Mat_26:43o de ellos estaban cargados de sueñoG5869
+- Mar_6:41y levantando los o al cielo, bendijoG308
+- Mar_7:34levantando los o al cielo, gimió, y leG308
+- Mar_8:18¿teniendo o no veis, y teniendo oídos noG3788
+- Mar_8:23escupiendo en sus o, le puso las manosG3659
+- Mar_8:25le puso otra vez las manos sobre los oG3788
+- Mar_9:47si tu o te fuere ocasión de caer, sácaloG3788
+- Mar_9:47el reino...con un o, que teniendo dos oG3442
+- Mar_10:25pasar un camello por el o de un agujaG5168
+- Mar_12:11esto, y es cosa maravillosa a nuestros o?[[G3788]]
+- Mar_14:40o de ellos estaban cargados de sueñoG3788
+- Luc_1:2enseñaron los que...lo vieron con sus o
+- Luc_2:30porque han visto mis o tu salvaciónG3788
+- Luc_4:20los o de todos en...estaban fijos en élG3788
+- Luc_6:20alzando los o hacia...discípulos, decíaG3788
+- Luc_6:41en el o de tu hermano...en tu propio o?[[G3788]]
+- Luc_6:42déjame sacar la paja que está en tu oG3788
+- Luc_6:42no mirando tú la viga que...en el o tuyo?[[G3788]]
+- Luc_6:42saca primero la viga de tu propio o, yG3788
+- Luc_6:42la paja que está en el o de tu hermanoG3788
+- Luc_9:16levantando los o al cielo, los bendijoG3788
+- Luc_10:23bienaventurados los o que ven lo queG3788
+- Luc_11:34la lámpara del cuerpo es el o; cuandoG3788
+- Luc_11:34tu o es bueno, también todo tu cuerpoG3788
+- Luc_11:34cuando tu o es maligno...tu cuerpo está
+- Luc_16:23y en el Hades alzo sus o, estando enG3788
+- Luc_18:13no quería ni aun alzar los o al cieloG3788
+- Luc_18:25pasar un camello por el o de una agujaG5168
+- Luc_19:42día...Mas ahora está encubierto de tus oG3788
+- Luc_21:1levantando los o, vio a los ricos queG308
+- Luc_22:64vendándole los o, le golpeaban el rostro
+- Luc_24:16los o de ellos estaban velados, para queG3788
+- Luc_24:31entonces les fueron abiertos los o, yG3788
+- Jua_4:35alzad vuestros o y mirad los camposG3788
+- Jua_6:5alzó Jesús los o, y vio que había venidoG3788
+- Jua_9:6lodo...untó con el lodo los o del ciegoG3788
+- Jua_9:10dijeron: ¿Cómo te fueron abiertos los o?[[G3788]]
+- Jua_9:11hizo lodo, me untó los o, y me dijo: VéG3788
+- Jua_9:14hecho el lodo, y le había abierto los oG3788
+- Jua_9:15puso lodo sobre los o, y me lavé, y veoG3788
+- Jua_9:17¿qué dices tú del que te abrió los o?[[G3788]]
+- Jua_9:21quién le haya abierto los o, nosotros noG3788
+- Jua_9:26le...¿Qué te hizo? ¿Cómo te abrió los o?[[G3788]]
+- Jua_9:30vosotros no sepáis...a mí me abrió los oG3788
+- Jua_9:32que...abriese los o a uno que nació ciegoG3788
+- Jua_10:21el demonio abrir los o de los ciegos?[[G3788]]
+- Jua_11:37que abrió los o al ciego, haber hechoG3788
+- Jua_11:41alzando los o a lo alto, dijo: PadreG3788
+- Jua_12:40cegó los o de...y endureció su corazónG3788
+- Jua_12:40no vean con los o, y entiendan con elG3788
+- Jua_17:1levantando los o al cielo, dijo: PadreG3788
+- Hec_1:9recibió una...que le ocultó de sus oG3788
+- Hec_1:10estando...con los o Puestos en el cieloG816
+- Hec_3:4fijando en él los o, le dijo: Míranos
+- Hec_3:12por qué ponéis los o en nosotros, comoG816
+- Hec_6:15al fijar los o en él, vieron su rostroG816
+- Hec_7:55Esteban...puestos los o en el cielo, vioG816
+- Hec_9:8Saulo...abriendo los o no veía a nadieG3788
+- Hec_9:18cayeron de los o como escamas, y recibióG3788
+- Hec_9:40ella abrió los o, y al ver a Pedro, seG3788
+- Hec_11:6cuando fijé en él los oG816
+- Hec_13:9lleno del Espíritu...fijando en él los oG816
+- Hec_14:9Pablo...fijando en él sus o, y viendo queG816
+- Hec_26:18abras sus o, para que se conviertan deG3788
+- Hec_28:27y sus o han cerrado...no vean con los oG3788
+- Rom_3:18no hay temor de Dios delante de sus oG3788
+- Rom_11:8Dios les dio...o con que no vean y oídosG3788
+- Rom_11:10oscurecidos sus o para que no vean, yG3788
+- 1Co_2:9cosas que o no vio, ni oído oyó, niG3788
+- 1Co_12:16si...Porque no soy o, no soy del cuerpoG3788
+- 1Co_12:17todo el cuerpo fuese o, ¿dónde estaríaG3788
+- 1Co_12:21ni el o puede decir a la mano: No teG3788
+- 1Co_15:52en un abrir y cerrar de o, a la finalG3788
+- Gál_3:1ante cuyos o Jesucristo...ya presentadoG3788
+- Gál_4:15os hubierais sacado vuestros propios oG3788
+- Efe_1:18alumbrando los o de...entendimientoG3788
+- Efe_6:6; Col_3:22no sirviendo al o, como losG3788
+- Heb_4:13desnudas y abiertas a los o de aquelG3788
+- Heb_12:2puestos los o en Jesús, el autor yG872
+- 1Pe_3:12los o del Señor están sobre los justosG3788
+- 2Pe_1:16habiendo visto con nuestros propios oG2030
+- 2Pe_2:14tienen los o llenos de adulterio, no seG3788
+- 1Jn_1:1lo que hemos visto con nuestros o, loG3788
+- 1Jn_2:11porque las tinieblas le han cegado los oG3788
+- 1Jn_2:16los deseos de los o, y la vanagloria deG3788
+- Rev_1:7viene...y todo o le verá, y los que leG3788
+- Rev_1:14como nieve; sus o como llama de fuegoG3788
+- Rev_2:18que tiene o como llama de fuego, y piesG3788
+- Rev_3:18y unge tus o con colirio, para que veasG3788
+- Rev_4:6seres vivientes llenos de o delante yG3788
+- Rev_4:8alrededor y...dentro estaban llenos de oG3788
+- Rev_5:6estaba en pie un Cordero...tenía...siete oG3788
+- Rev_7:17Dios enjugará toda lágrima de los o deG3788
+- Rev_19:12sus o eran como llama de fuego, y habíaG3788
+- Rev_21:4enjugará Dios toda lágrima de los o deG3788

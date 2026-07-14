@@ -1,0 +1,842 @@
+---
+tipo: concordancia
+palabra: JESÚS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JESÚS
+
+- 1 El Cristo (véase también Jesucristo)
+- Mat_1:16la cual nació J, llamado el CristoG2424
+- Mat_1:21dará a luz un...y llamarás su nombre JG2424
+- Mat_1:25hasta que dio a luz...puso por nombre JG2424
+- Mat_2:1J nació en Belén de Judea en días delG2424
+- Mat_3:13J vino de Galilea a Juan al Jordán, paraG2424
+- Mat_3:15J le respondió: Deja ahora, porque asíG2424
+- Mat_3:16y J, después que fue bautizado, subióG2424
+- Mat_4:1J fue llevado...el Espíritu al desiertoG2424
+- Mat_4:7J le dijo: Escrito está...No tentarás alG2424
+- Mat_4:10J le dijo: Vete, Satanás...escrito estáG2424
+- Mat_4:12J oyó que Juan estaba preso, volvió aG2424
+- Mat_4:17desde entonces comenzó J a predicar, yG2424
+- Mat_4:18andando J junto al mar de Galilea, vioG2424
+- Mat_4:23recorrió J toda Galilea, enseñando enG2424
+- Mat_7:28y cuando terminó J estas palabras, laG2424
+- Mat_8:1cuando descendió J del monte, le seguíaG2424
+- Mat_8:3J extendió la mano y le tocó, diciendoG2424
+- Mat_8:4J le dijo: Mira, no lo digas a nadie...véG2424
+- Mat_8:5entrando J en Capernaum, vino a él unG2424
+- Mat_8:7y J le dijo: Yo iré y le sanaréG2424
+- Mat_8:10al oírlo J, se maravilló, y dijo a losG2424
+- Mat_8:13J dijo al centurión: Vé, y...sea hechaG2424
+- Mat_8:14vino J a casa de Pedro, y vio a...suegraG2424
+- Mat_8:18viéndose J rodeado...gente, mandó pasarG2424
+- Mat_8:20J le dijo: Las zorras tienen guaridasG2424
+- Mat_8:22J le dijo: Sígueme; deja que...muertosG2424
+- Mat_8:29¿qué tienes con nosotros, J, Hijo deG2424
+- Mat_8:34toda la ciudad salió al encuentro de JG2424
+- Mat_9:1entrando J en la barca, pasó al otro ladoG2424
+- Mat_9:2al ver J la fe de ellos, dijo...Ten ánimoG2424
+- Mat_9:4conociendo J...¿Por qué pensáis mal enG2424
+- Mat_9:9pasando J...vio a un hombre llamado MateoG2424
+- Mat_9:10publicanos...sentaron...a la mesa con JG2424
+- Mat_9:12al oír esto J, les dijo: Los sanos noG2424
+- Mat_9:15J les dijo: ¿Acaso pueden...tener lutoG2424
+- Mat_9:19levantó J, y le siguió con...discípulosG2424
+- Mat_9:22J, volviéndose...dijo: Ten ánimo, hijaG2424
+- Mat_9:23al entrar J en la casa del principalG2424
+- Mat_9:27pasando J de...le siguieron dos ciegosG2424
+- Mat_9:28y J les dijo: ¿Creéis que puedo hacerG2424
+- Mat_9:30y J les encargó...diciendo: Mirad queG2424
+- Mat_9:35recorría J todas las ciudades y aldeasG2424
+- Mat_10:5doce envió J, y les dio instruccionesG2424
+- Mat_11:1cuando J terminó de dar instrucciones aG2424
+- Mat_11:4J, les dijo: Id, y haced saber a JuanG2424
+- Mat_11:7comenzó J a decir de Juan a la genteG2424
+- Mat_11:25respondiendo J, dijo: Te alabo, PadreG2424
+- Mat_12:1iba J por los sembrados en un día deG2424
+- Mat_12:10preguntaron a J, para poder acusarleG2424
+- Mat_12:14fariseos, tuvieron consejo contra JG2424
+- Mat_12:15sabiendo esto J, se apartó de allíG2424
+- Mat_12:25sabiendo J los pensamientos de ellosG2424
+- Mat_13:1aquel día salió J de la casa y se sentóG2424
+- Mat_13:34esto habló J por parábolas a la genteG2424
+- Mat_13:36entró J en la casa; y acercándose a élG2424
+- Mat_13:51J les dijo: ¿Habéis entendido todasG2424
+- Mat_13:53cuando terminó J estas parábolas, seG2424
+- Mat_13:57J les dijo: No hay profeta sin honraG2424
+- Mat_14:1Herodes el tetrarca oyó la fama de JG2424
+- Mat_14:12sus discípulos...dieron las nuevas a JG2424
+- Mat_14:13oyéndolo J, se apartó de allí en unaG2424
+- Mat_14:14saliendo J, vio una gran multitud, yG2424
+- Mat_14:16J les dijo: No tienen necesidad de irseG2424
+- Mat_14:22J hizo a sus discípulos entrar en laG2424
+- Mat_14:25J vino a ellos andando sobre el marG2424
+- Mat_14:27J les habló, diciendo: ¡Tened ánimo; yoG2424
+- Mat_14:29andaba sobre las aguas para ir a JG2424
+- Mat_14:31J, extendiendo la mano, asió de élG2424
+- Mat_15:1se acercaron a J ciertos escribas yG2424
+- Mat_15:16J dijo: ¿También vosotros sois aún sinG2424
+- Mat_15:21saliendo J de...fue a la región de TiroG2424
+- Mat_15:23J no le respondió palabra...EntoncesG2424
+- Mat_15:28respondiendo J, dijo...grande es tu feG2424
+- Mat_15:29pasó J de allí y vino junto al mar deG2424
+- Mat_15:30y los pusieron a los pies de J, y losG2424
+- Mat_15:32y J, llamando a sus discípulos, dijoG2424
+- Mat_15:34J les dijo: ¿Cuántos panes tenéis?[[G2424]]
+- Mat_16:6J les dijo...guardaos de la levadura deG2424
+- Mat_16:8J, les dijo: ¿Por qué pensáis dentro deG2424
+- Mat_16:13viniendo J a la región de Cesarea deG2424
+- Mat_16:17le respondió J: Bienaventurado eresG2424
+- Mat_16:20a nadie dijesen que él era J el CristoG2424
+- Mat_16:21comenzó J a declarar a sus discípulosG2424
+- Mat_16:24J dijo...Si alguno quiere venir en posG2424
+- Mat_17:1seis días después, J tomó a Pedro, aG2424
+- Mat_17:4Pedro dijo a J: Señor, bueno es paraG2424
+- Mat_17:7J se acercó y los tocó...Levantaos, y noG2424
+- Mat_17:8los ojos, a nadie vieron sino a J soloG2424
+- Mat_17:9J les mandó...No digáis a nadie la visiónG2424
+- Mat_17:11J, les dijo: A la verdad, Elías vieneG2424
+- Mat_17:17J, dijo: ¡Oh generación incrédula yG2424
+- Mat_17:18reprendió J al demonio, el cual salióG2424
+- Mat_17:19viniendo...los discípulos a J, aparteG2424
+- Mat_17:20J...dijo: Por vuestra poca fe; porqueG2424
+- Mat_17:22J les dijo: El Hijo del Hombre seráG2424
+- Mat_17:25J le habló...¿Qué te parece, Simón?[[G2424]]
+- Mat_17:26J le dijo: Luego...hijos están exentosG2424
+- Mat_18:1a J, diciendo: ¿Quién es el mayor en elG2424
+- Mat_18:2llamando J a un niño, lo puso en medioG2424
+- Mat_18:22J le dijo: No te digo hasta siete, sinoG2424
+- Mat_19:1que cuando J terminó estas palabras, seG2424
+- Mat_19:14J dijo: Dejad a los niños venir a míG2424
+- Mat_19:18y J dijo: No matarás...No adulterarásG2424
+- Mat_19:21J le dijo: Si quieres ser perfectoG2424
+- Mat_19:23J dijo...difícilmente entrará un ricoG2424
+- Mat_19:26J, les dijo: Para los hombres esto esG2424
+- Mat_19:28J les dijo: De cierto os digo que enG2424
+- Mat_20:17subiendo J a Jerusalén, tomó a sus 12G2424
+- Mat_20:22J...dijo: No sabéis lo que pedís...¿PodéisG2424
+- Mat_20:25J, llamándolos, dijo: Sabéis que losG2424
+- Mat_20:30cuando oyeron que J pasaba, clamaronG2424
+- Mat_20:32deteniéndose J, los llamó, y les dijoG2424
+- Mat_20:34J, compadecido, les tocó los ojos, yG2424
+- Mat_21:1se acercaron a Jerusalén...J envió dosG2424
+- Mat_21:6fueron, e hicieron como J les mandóG2424
+- Mat_21:11es J el profeta, de Nazaret de GalileaG2424
+- Mat_21:12entró J en el templo de Dios, y echóG2424
+- Mat_21:16J les dijo: Sí; ¿nunca leisteis: De laG2424
+- Mat_21:21respondiendo J...si tuviereis fe, y noG2424
+- Mat_21:24J, les dijo: Yo...os haré una preguntaG2424
+- Mat_21:27respondiendo a J, dijeron: No sabemosG2424
+- Mat_21:42J les dijo: ¿Nunca leisteis en lasG2424
+- Mat_22:1J, les volvió a hablar en parábolasG2424
+- Mat_22:18J, conociendo la malicia de ellos, lesG2424
+- Mat_22:29J...Erráis, ignorando las EscriturasG2424
+- Mat_22:37J le dijo: Amarás al Señor tu Dios conG2424
+- Mat_22:41juntos los fariseos, J les preguntóG2424
+- Mat_23:1habló J a la gente y a sus discípulosG2424
+- Mat_24:1cuando J salió del templo y se iba, seG2424
+- Mat_24:4J, les dijo: Mirad que nadie os engañeG2424
+- Mat_26:1cuando hubo acabado J...estas palabrasG2424
+- Mat_26:4para prender con engaño a J, y matarleG2424
+- Mat_26:6estando J en Betania, en casa de SimónG2424
+- Mat_26:10J, les dijo: ¿Por qué molestáis a estaG2424
+- Mat_26:17los discípulos a J, diciéndole: ¿DóndeG2424
+- Mat_26:19hicieron como J les mandó...la pascuaG2424
+- Mat_26:26tomó J el pan, y bendijo, y lo partióG2424
+- Mat_26:31J les dijo...os escandalizaréis de míG2424
+- Mat_26:34J le dijo: De cierto te digo que estaG2424
+- Mat_26:36llegó J con ellos...se llama GetsemaníG2424
+- Mat_26:38J les dijo: Mi alma está muy tristeG2424
+- Mat_26:49se acercó a J y dijo: ¡Salve, Maestro![[G2424]]
+- Mat_26:50y J le dijo: Amigo, ¿a qué vienes?[[G2424]]
+- Mat_26:50y echaron mano a J, y le prendieronG2424
+- Mat_26:51uno de los que estaban con J...espadaG2424
+- Mat_26:52J le dijo: Vuelve tu espada a su lugarG2424
+- Mat_26:55J a la gente: ¿Como contra un ladrónG2424
+- Mat_26:57los que prendieron a J le llevaron alG2424
+- Mat_26:59buscaban falso testimonio contra JG2424
+- Mat_26:63mas J callaba...Entonces el...sacerdoteG2424
+- Mat_26:64J le dijo: Tú lo has dicho; y ademásG2424
+- Mat_26:69tú también estabas con J el galileoG2424
+- Mat_26:71también éste estaba con J el nazarenoG2424
+- Mat_26:75Pedro se acordó de las palabras de JG2424
+- Mat_27:1ancianos...entraron en consejo contra JG2424
+- Mat_27:11J...estaba en pie delante...gobernadorG2424
+- Mat_27:11¿eres tú el...J le dijo: Tú lo dicesG2424
+- Mat_27:14pero J no le respondió ni una palabraG2424
+- Mat_27:17que os suelte...J, llamado el Cristo?[[G2424]]
+- Mat_27:20persuadieron a la...que J fuese muertoG2424
+- Mat_27:22¿qué...haré de J, llamado el Cristo?[[G2424]]
+- Mat_27:26habiendo azotado a J, le entregó paraG2424
+- Mat_27:27llevaron a J al pretorio, y reunieronG2424
+- Mat_27:37causa...Este es J, el Rey de los judíosG2424
+- Mat_27:46J clamó a gran voz, diciendo: Elí, ElíG2424
+- Mat_27:50J, habiendo otra vez clamado a gran vozG2424
+- Mat_27:54los que estaban con él guardando a JG2424
+- Mat_27:55mujeres...las cuales habían seguido a JG2424
+- Mat_27:57que también había sido discípulo de JG2424
+- Mat_27:58fue a Pilato y pidió el cuerpo de JG2424
+- Mat_28:5porque yo sé que buscáis a J, el queG2424
+- Mat_28:9aquí, J les salió al encuentro, diciendoG2424
+- Mat_28:10J les dijo: No temáis; id, dad lasG2424
+- Mat_28:16al monte donde J les había ordenadoG2424
+- Mat_28:18J se acercó y les habló diciendo: TodaG2424
+- Mar_1:9J vino de Nazaret...bautizado por JuanG2424
+- Mar_1:14J vino a Galilea predicando el evangelioG2424
+- Mar_1:17les dijo J: Venid en pos de mí, y haréG2424
+- Mar_1:24¿qué tienes con nosotros, J nazareno?[[G2424]]
+- Mar_1:25J le reprendió, diciendo: ¡Cállate, yG2424
+- Mar_1:41J, teniendo misericordia...extendió laG2424
+- Mar_1:45que ya J no podía entrar...en la ciudadG2424
+- Mar_2:1entró J otra vez en Capernaum después deG2424
+- Mar_2:5ver J la fe de ellos, dijo al paralíticoG2424
+- Mar_2:8conociendo luego J en su...que cavilabanG2424
+- Mar_2:15que estando J a la mesa en casa de élG2424
+- Mar_2:15estaban...a la mesa juntamente con J yG2424
+- Mar_2:17al oír esto J, les dijo: Los sanos noG2424
+- Mar_2:19J les dijo: ¿Acaso pueden los...ayunarG2424
+- Mar_3:1entró J en la sinagoga; y había allí unG2424
+- Mar_3:7J se retiró al mar con sus discípulosG2424
+- Mar_4:1comenzó J a enseñar junto al mar, y seG2424
+- Mar_5:6cuando vio, pues, a J de lejos, corrióG2424
+- Mar_5:7¿qué tienes conmigo, J, Hijo del DiosG2424
+- Mar_5:13luego J les dio permiso...en los cerdosG2424
+- Mar_5:15vienen a J, y ven al que había sidoG2424
+- Mar_5:19J no se lo permitió, sino que le dijoG2424
+- Mar_5:20cuán grandes cosas había hecho J con élG2424
+- Mar_5:21pasando otra vez J en una barca a laG2424
+- Mar_5:27cuando oyó hablar de J, vino por detrásG2424
+- Mar_5:30J, conociendo...poder que había salidoG2424
+- Mar_5:36J...dijo al principal...No temas, creeG2424
+- Mar_6:1salió J de allí y vino a su tierra, y leG2424
+- Mar_6:4J les decía: No hay profeta sin honraG2424
+- Mar_6:14oyó el rey Herodes la fama de J...dijoG2424
+- Mar_6:30los apóstoles se juntaron con J, y leG2424
+- Mar_6:34y salió J y vio una gran multitud, yG2424
+- Mar_7:1se juntaron a J los fariseos, y algunosG2424
+- Mar_7:2viendo a...los discípulos de J comer panG2424
+- Mar_7:27J le dijo: Deja primero que se sacienG2424
+- Mar_8:1no...qué comer, J llamó a sus discípulosG2424
+- Mar_8:17J...dijo: ¿Qué discutís...no tenéis pan?[[G2424]]
+- Mar_8:27salieron J y sus discípulos por lasG2424
+- Mar_9:2J tomó a Pedro, a Jacobo y a Juan, y losG2424
+- Mar_9:4Elías con Moisés, que hablaban con JG2424
+- Mar_9:5Pedro dijo a J: Maestro, bueno es paraG2424
+- Mar_9:8cuando miraron, no vieron más...sino a JG2424
+- Mar_9:20cuando el espíritu vio a J, sacudió conG2424
+- Mar_9:21J preguntó al padre: ¿Cuánto tiempo haceG2424
+- Mar_9:23J le dijo: Si puedes creer, al que creeG2424
+- Mar_9:25y cuando J vio...la multitud se agolpabaG2424
+- Mar_9:27J, tomándole de la mano, le enderezóG2424
+- Mar_9:39pero J dijo: No se lo prohibáis; porqueG2424
+- Mar_10:5J, les dijo: Por la dureza de...corazónG2424
+- Mar_10:14viéndolo J, se indignó, y les dijoG2424
+- Mar_10:18J le dijo: ¿Por qué me llamas bueno?[[G2424]]
+- Mar_10:21J, mirándole, le amó, y le dijo: UnaG2424
+- Mar_10:23J...dijo...¡Cuán difícilmente entraránG2424
+- Mar_10:24J...volvió a decirles...¡cuán difícil lesG2424
+- Mar_10:27J, mirándolos, dijo: Para los hombresG2424
+- Mar_10:29J y dijo: De cierto os digo que no hayG2424
+- Mar_10:32y J iba delante, y ellos...le seguíanG2424
+- Mar_10:38J les dijo: No sabéis lo que pedísG2424
+- Mar_10:39J les dijo: A la verdad, del vaso queG2424
+- Mar_10:42mas J...les dijo: Sabéis que los que sonG2424
+- Mar_10:47y oyendo que era J nazareno, comenzó aG2424
+- Mar_10:47¡J, Hijo de David, ten misericordia deG2424
+- Mar_10:49J, deteniéndose, mandó llamarle; yG2424
+- Mar_10:50arrojando su capa...levantó y vino a JG2424
+- Mar_10:51respondiendo J, le dijo: ¿Qué quieresG2424
+- Mar_10:52J le dijo: Vete, tu fe te ha salvadoG2424
+- Mar_10:52recobró la...y seguía a J en el caminoG2424
+- Mar_11:1Olivos, J envió dos de sus discípulosG2424
+- Mar_11:6les dijeron como J había mandado; y losG2424
+- Mar_11:7y trajeron el pollino a J, y echaronG2424
+- Mar_11:11entró J en Jerusalén, y en el temploG2424
+- Mar_11:14J dijo a la higuera...jamás coma nadieG2424
+- Mar_11:15y entrando J en el templo, comenzó aG2424
+- Mar_11:19llegar la noche, J salió de la ciudadG2424
+- Mar_11:22respondiendo J, les dijo: Tened fe enG2424
+- Mar_11:29J...les dijo: Os haré yo también unaG2424
+- Mar_11:33respondiendo, dijeron a J: No sabemosG2424
+- Mar_11:33J, les dijo: Tampoco yo os digo con quéG2424
+- Mar_12:1comenzó J a decirles por parábolasG2424
+- Mar_12:17J, les dijo: Dad a César lo que es deG2424
+- Mar_12:24respondiendo J, les dijo: ¿No erráisG2424
+- Mar_12:29J le...El primer mandamiento de todos esG2424
+- Mar_12:34J...viendo...había respondido sabiamenteG2424
+- Mar_12:35enseñando J...decía: ¿Cómo dicen losG2424
+- Mar_12:41estando J sentado delante del arca deG2424
+- Mar_13:1saliendo J del templo, le dijo uno deG2424
+- Mar_13:2J, respondiendo, le dijo: ¿Ves estosG2424
+- Mar_13:5J...comenzó a decir: Mirad que nadie osG2424
+- Mar_14:6J dijo: Dejadla; ¿por qué la molestáis?[[G2424]]
+- Mar_14:18dijo J: De cierto os digo que uno deG2424
+- Mar_14:22mientras comían, J tomó pan y bendijoG2424
+- Mar_14:27J les dijo: Todos os escandalizaréisG2424
+- Mar_14:30dijo J: De cierto te digo que tú, hoyG2424
+- Mar_14:48J, les dijo: ¿Como contra un ladrónG2424
+- Mar_14:53trajeron, pues, a J al sumo sacerdoteG2424
+- Mar_14:55concilio buscaban testimonio contra JG2424
+- Mar_14:60preguntó a J, diciendo: ¿No respondesG2424
+- Mar_14:62y J le dijo: Yo soy; y veréis al HijoG2424
+- Mar_14:67tú también estabas con J el nazarenoG2424
+- Mar_14:72de las palabras que J le había dichoG2424
+- Mar_15:1llevaron a J atado, y le entregaron aG2424
+- Mar_15:5J ni aun con eso respondió; de modo queG2424
+- Mar_15:15les soltó a Barrabás, y entregó a JG2424
+- Mar_15:34J clamó a gran voz, diciendo: EloiG2424
+- Mar_15:37mas J, dando una gran voz, expiróG2424
+- Mar_15:43José de...vino...y pidió el cuerpo de JG2424
+- Mar_16:6no os asustéis; buscáis a J nazareno, elG2424
+- Mar_16:9habiendo...resucitado J por la mañanaG2424
+- Luc_1:31darás a luz...y llamarás su nombre JG2424
+- Luc_2:21pusieron por nombre J, el cual le habíaG2424
+- Luc_2:27padres del niño J lo trajeron al temploG2424
+- Luc_2:43acabada la fiesta, se quedó el niño J enG2424
+- Luc_2:52y J crecía en sabiduría y en estaturaG2424
+- Luc_3:21J fue bautizado; y orando, el cielo seG2424
+- Luc_3:23J mismo al comenzar su ministerio eraG2424
+- Luc_4:1J, lleno del Espíritu Santo, volvió delG2424
+- Luc_4:4J, respondiéndole, dijo: Escrito estáG2424
+- Luc_4:8J, le dijo: Vete de mí, Satanás, porqueG2424
+- Luc_4:12J, le dijo: Dicho está: No tentarás alG2424
+- Luc_4:14y J volvió en el poder del Espíritu aG2424
+- Luc_4:31descendió J a Capernaum, ciudad deG2424
+- Luc_4:34déjanos; ¿qué tienes con nosotros, JG2424
+- Luc_4:35J le reprendió, diciendo: Cállate, y salG2424
+- Luc_4:38J se levantó y salió de la sinagoga, yG2424
+- Luc_5:1estando J junto al lago de Genesaret, elG2424
+- Luc_5:8Pedro, cayó de rodillas ante J, diciendoG2424
+- Luc_5:10J dijo a Simón: No temas; desde ahoraG2424
+- Luc_5:12viendo a J, se postró con el rostro enG2424
+- Luc_5:19lecho, poniéndole en medio, delante de JG2424
+- Luc_5:22J...conociendo los pensamientos...les dijoG2424
+- Luc_5:31J...dijo: Los que están sanos no tienenG2424
+- Luc_6:1aconteció...pasando J por los sembradosG2424
+- Luc_6:3J, les dijo: ¿Ni aun esto habéis leídoG2424
+- Luc_6:9J les dijo: Os preguntaré una cosa: ¿EsG2424
+- Luc_6:11y hablaban...qué podrían hacer contra JG2424
+- Luc_7:3cuando el centurión oyó hablar de J, leG2424
+- Luc_7:4vinieron a J y le rogaron con solicitudG2424
+- Luc_7:6J fue...Pero cuando ya no estaban lejosG2424
+- Luc_7:9J se maravilló de él, y volviéndose, dijoG2424
+- Luc_7:19envió a J, para preguntarle: ¿Eres túG2424
+- Luc_7:22J, les dijo: Id, haced saber a Juan loG2424
+- Luc_7:36uno de los fariseos rogó a J que comieseG2424
+- Luc_7:37al saber que J estaba a la mesa en casaG2424
+- Luc_7:40J, le dijo: Simón, una cosa tengo queG2424
+- Luc_8:1J iba por todas las ciudades y aldeasG2424
+- Luc_8:28éste, al ver a J, lanzó un gran gritoG2424
+- Luc_8:28¿qué tienes conmigo, J, Hijo del DiosG2424
+- Luc_8:30preguntó J, diciendo: ¿Cómo te llamas?[[G2424]]
+- Luc_8:35vinieron a J, y hallaron al hombre deG2424
+- Luc_8:35sentado a los pies de J, vestido, y enG2424
+- Luc_8:37y J, entrando en la barca, se volvióG2424
+- Luc_8:38le rogaba...pero J le despidió, diciendoG2424
+- Luc_8:39cuán grandes cosas había hecho J con élG2424
+- Luc_8:40cuando volvió J, le recibió la multitudG2424
+- Luc_8:41postrándose a los pies de J, le rogabaG2424
+- Luc_8:45J dijo: ¿Quién es el que me ha tocado?[[G2424]]
+- Luc_8:46J dijo: Alguien me ha tocado; porqueG2424
+- Luc_8:50oyéndolo J, le respondió: No temas; creeG2424
+- Luc_8:56J les mandó que a nadie dijesen lo queG2424
+- Luc_9:7oyó de todas las cosas que hacía J; yG2424
+- Luc_9:18mientras J oraba aparte, estaban con élG2424
+- Luc_9:31partida...iba J a cumplir en JerusalénG2424
+- Luc_9:32vieron la gloria de J, y a...dos varonesG2424
+- Luc_9:33Pedro dijo a J: Maestro, bueno es paraG2424
+- Luc_9:36cesó la voz, J fue hallado solo; y ellosG2424
+- Luc_9:41J...¡ Oh generación incrédula y perversa![[G2424]]
+- Luc_9:42J reprendió al espíritu inmundo, y sanóG2424
+- Luc_9:47J, percibiendo los pensamientos de susG2424
+- Luc_9:50J le dijo: No se lo prohibáis; porque elG2424
+- Luc_9:58le dijo J: Las zorras tienen guaridasG2424
+- Luc_9:60J le dijo...que los muertos entierren aG2424
+- Luc_9:62J le dijo: Ninguno que poniendo su manoG2424
+- Luc_10:21J se regocijó en el Espíritu, y dijoG2424
+- Luc_10:29él...dijo a J: ¿Y quién es mi prójimo?[[G2424]]
+- Luc_10:30J, dijo: Un hombre descendía...JericóG2424
+- Luc_10:37J le dijo: Vé, y haz tú lo mismoG2424
+- Luc_10:39la cual, sentándose a los pies de JG2424
+- Luc_10:41J, le dijo: Marta, Marta, afanada yG2424
+- Luc_11:1estaba J orando en un lugar, y cuandoG2424
+- Luc_11:14estaba J echando fuera un demonio, queG2424
+- Luc_11:37entrando J en la casa, se sentó a laG2424
+- Luc_13:2J...dijo: ¿Pensáis que estos galileosG2424
+- Luc_13:10enseñaba J en una sinagoga en el díaG2424
+- Luc_13:12cuando J la vio, la llamó y le dijoG2424
+- Luc_13:14enojado de que J hubiese sanado en elG2424
+- Luc_13:22pasaba J por ciudades y...enseñandoG2424
+- Luc_14:3J habló a los intérpretes de la ley yG2424
+- Luc_14:16J le dijo: Un hombre hizo una...cenaG2424
+- Luc_15:1se acercaban a J todos los publicanosG2424
+- Luc_17:1dijo J a sus discípulos: Imposible esG2424
+- Luc_17:11J a Jerusalén, pasaba entre Samaria yG2424
+- Luc_17:13voz...¡J...ten misericordia de nosotros![[G2424]]
+- Luc_17:17J, dijo: ¿No son diez los que fueronG2424
+- Luc_18:1les refirió J una parábola sobre...orarG2424
+- Luc_18:16mas J, llamándolos, dijo: Dejad a losG2424
+- Luc_18:19J le dijo: ¿Por qué me llamas bueno?[[G2424]]
+- Luc_18:22J, oyendo esto, le dijo: Aún te faltaG2424
+- Luc_18:24ver J que se había entristecido muchoG2424
+- Luc_18:31tomando J a los doce, les dijo: He aquíG2424
+- Luc_18:35que acercándose J a Jericó, un ciegoG2424
+- Luc_18:37y le dijeron que pasaba J nazarenoG2424
+- Luc_18:38¡J, Hijo de David, ten misericordia deG2424
+- Luc_18:40J...deteniéndose, mandó traerle a suG2424
+- Luc_18:42J le dijo: Recíbela...fe te ha salvadoG2424
+- Luc_19:1entrado J en Jericó, iba pasando por laG2424
+- Luc_19:3procuraba ver quién era J; pero no podíaG2424
+- Luc_19:5cuando J llegó a aquel lugar, mirandoG2424
+- Luc_19:9J le dijo: Hoy ha venido la salvaciónG2424
+- Luc_19:11prosiguió J y dijo una parábola, porG2424
+- Luc_19:35lo trajeron a J...subieron a J encimaG2424
+- Luc_20:1enseñando J al pueblo en el templo, yG2424
+- Luc_20:3J, les dijo: Os haré yo...una preguntaG2424
+- Luc_20:8J les dijo: Yo tampoco os diré con quéG2424
+- Luc_20:34J, les dijo: Los hijos de este sigloG2424
+- Luc_22:8J envió a Pedro y a Juan, diciendo: IdG2424
+- Luc_22:47Judas...se acercó hasta J para besarleG2424
+- Luc_22:48J le dijo: Judas, ¿con un beso entregasG2424
+- Luc_22:51respondiendo J, dijo: Basta ya; dejadG2424
+- Luc_22:52J dijo a los principales sacerdotes, aG2424
+- Luc_22:63los...que custodiaban a J se burlabanG2424
+- Luc_23:1la muchedumbre...llevaron a J a PilatoG2424
+- Luc_23:8Herodes, viendo a J, se alegró muchoG2424
+- Luc_23:20les habló...Pilato, queriendo soltar a JG2424
+- Luc_23:25y entregó a J a la voluntad de ellosG2424
+- Luc_23:26la cruz para que la llevase tras JG2424
+- Luc_23:28pero J, vuelto hacia ellas, les dijoG2424
+- Luc_23:34J decía: Padre, perdónalos, porque noG2424
+- Luc_23:42a J: Acuérdate de mí cuando vengas enG2424
+- Luc_23:43J le dijo: De cierto te digo que hoyG2424
+- Luc_23:46J, clamando a gran voz, dijo: PadreG2424
+- Luc_23:52fue a Pilato, y pidió el cuerpo de JG2424
+- Luc_24:3no hallaron el cuerpo del Señor JG2424
+- Luc_24:15J mismo se acercó, y caminaba con ellosG2424
+- Luc_24:19de J nazareno, que fue varón profetaG2424
+- Luc_24:36J se puso en medio de ellos, y les dijoG2424
+- Jua_1:29vio Juan a J que venía a él, y dijoG2424
+- Jua_1:36mirando a J que andaba por allí, dijoG2424
+- Jua_1:37oyeron hablar los dos...y siguieron a JG2424
+- Jua_1:38volviéndose J...les dijo: ¿Qué buscáis?[[G2424]]
+- Jua_1:40que habían oído a Juan, y...seguido a JG2424
+- Jua_1:42le trajo a J...Y mirándole J, dijo: TúG2424
+- Jua_1:43quiso J ir a Galilea, y halló a FelipeG2424
+- Jua_1:45hemos hallado a...a J, el hijo de JoséG2424
+- Jua_1:47J vio a Natanael que se le acercaba, dijoG2424
+- Jua_1:48respondió J y le dijo: Antes que FelipeG2424
+- Jua_1:50respondió J y le dijo: ¿Porque te dijeG2424
+- Jua_2:1unas bodas...y estaba allí la madre de JG2424
+- Jua_2:2también invitados a las bodas J y susG2424
+- Jua_2:3la madre de J le dijo: No tienen vinoG2424
+- Jua_2:4J le dijo: ¿Qué tienes conmigo, mujer?[[G2424]]
+- Jua_2:7J les dijo: Llenad estas tinajas de aguaG2424
+- Jua_2:11principio de señales hizo J en Caná deG2424
+- Jua_2:13cerca la pascua...y subió J a JerusalénG2424
+- Jua_2:19J...dijo: Destruid este templo, y en tresG2424
+- Jua_2:22creyeron...la palabra que J había dichoG2424
+- Jua_2:24J mismo no se fiaba de ellos, porqueG2424
+- Jua_3:1ése vino a J de noche, y J dijo: RabíG2424
+- Jua_3:3respondió J...el que no naciere de nuevoG2424
+- Jua_3:5respondió J...el que no naciere de agua yG2424
+- Jua_3:10respondió J...¿Eres tú maestro de IsraelG2424
+- Jua_3:22vino J con sus discípulos a la tierra deG2424
+- Jua_4:1decir: J hace y bautiza más discípulosG2424
+- Jua_4:2aunque J no bautizaba, sino...discípulosG2424
+- Jua_4:6J, cansado del camino, se sentó...al pozoG2424
+- Jua_4:7una mujer de...y J le dijo: Dame de beberG2424
+- Jua_4:10respondió J...Si conocieras el don deG2424
+- Jua_4:13J y le dijo: Cualquiera que bebiere deG2424
+- Jua_4:16J le dijo: Vé, llama a tu marido, y venG2424
+- Jua_4:17J le...Bien has dicho: No tengo maridoG2424
+- Jua_4:21J le...Mujer, créeme, que la hora vieneG2424
+- Jua_4:26J le dijo: Yo soy, el que habla contigoG2424
+- Jua_4:34J les dijo: Mi comida es que haga laG2424
+- Jua_4:44J...dio testimonio de que el profeta noG2424
+- Jua_4:46vino, pues, J otra vez a Caná de GalileaG2424
+- Jua_4:47cuando oyó que J había llegado de JudeaG2424
+- Jua_4:48J le...Si no viereis señales y prodigiosG2424
+- Jua_4:50J le dijo: Vé, tu hijo vive...Y...creyóG2424
+- Jua_4:50hombre creyó la palabra que J le dijoG2424
+- Jua_4:53era la hora en que J le había dicho: TuG2424
+- Jua_4:54esta segunda señal hizo J, cuando fueG2424
+- Jua_5:1había una fiesta...y subió J a JerusalénG2424
+- Jua_5:6cuando J lo vio acostado, y supo queG2424
+- Jua_5:8J le dijo: Levántate, toma tu lecho, yG2424
+- Jua_5:13porque J se había apartado de la genteG2424
+- Jua_5:14después le halló J en el templo, y leG2424
+- Jua_5:15dio aviso...J era el que le había sanadoG2424
+- Jua_5:16perseguían a J, y procuraban matarleG2424
+- Jua_5:17J les respondió: Mi Padre hasta ahoraG2424
+- Jua_5:19J, y les dijo...No puede el Hijo hacerG2424
+- Jua_6:1J fue al otro lado del mar de GalileaG2424
+- Jua_6:3subió J a un monte, y se sentó allí conG2424
+- Jua_6:5alzó J los ojos, y vio que había venidoG2424
+- Jua_6:10J dijo: Haced recostar la gente...Y habíaG2424
+- Jua_6:11tomó J aquellos panes, y habiendo dadoG2424
+- Jua_6:14viendo la señal...J había hecho, dijeronG2424
+- Jua_6:15entendiendo J que iban a venir paraG2424
+- Jua_6:17ya oscuro, y J no había venido a ellosG2424
+- Jua_6:19vieron a J que andaba sobre el mar y seG2424
+- Jua_6:22que J no había entrado en ella con susG2424
+- Jua_6:24vio...la gente que J no estaba allí, niG2424
+- Jua_6:24y fueron a Capernaum, buscando a JG2424
+- Jua_6:26respondió J...que me buscáis, no porqueG2424
+- Jua_6:29respondió J y...Esta es la obra de DiosG2424
+- Jua_6:32J les dijo...No os dio Moisés el pan delG2424
+- Jua_6:35J les dijo: Yo soy el pan de vida; elG2424
+- Jua_6:42decían: ¿No es éste J, el hijo de JoséG2424
+- Jua_6:43J respondió y les dijo: No murmuréisG2424
+- Jua_6:53J les dijo...si no coméis la carne delG2424
+- Jua_6:61sabiendo J...sus discípulos murmurabanG2424
+- Jua_6:64J sabía desde el principio quiénes eranG2424
+- Jua_6:67dijo...J a los doce: ¿Queréis acaso irosG2424
+- Jua_6:70J les respondió: ¿No os he escogido yoG2424
+- Jua_7:6J les dijo: Mi tiempo aún no ha llegadoG2424
+- Jua_7:14la fiesta subió J al templo, y enseñabaG2424
+- Jua_7:16J les respondió...Mi doctrina no es míaG2424
+- Jua_7:21J respondió...Una obra hice, y todos osG2424
+- Jua_7:28J...enseñando en el templo, alzó la vozG2424
+- Jua_7:33J dijo...un poco de tiempo estaré conG2424
+- Jua_7:37J se puso en pie y...Si alguno tiene sedG2424
+- Jua_7:39porque J no había sido aún glorificadoG2424
+- Jua_8:1y J se fue al monte de los OlivosG2424
+- Jua_8:6J, inclinado hacia el suelo, escribía enG2424
+- Jua_8:9quedó solo J, y la mujer que estaba enG2424
+- Jua_8:10enderezándose J, y no viendo a nadieG2424
+- Jua_8:11J le dijo: Ni yo te condeno; vete, y noG2424
+- Jua_8:12J les habló, diciendo: Yo soy la luz delG2424
+- Jua_8:14J y les dijo: Aunque yo doy testimonioG2424
+- Jua_8:19respondió J: Ni a mí me conocéis, ni aG2424
+- Jua_8:20habló J en el lugar de las ofrendasG2424
+- Jua_8:21les dijo J: Yo me voy, y me buscaréisG2424
+- Jua_8:25J les dijo: Lo que desde el principio osG2424
+- Jua_8:28les dijo...J: Cuando hayáis levantado alG2424
+- Jua_8:31dijo...J a los judíos que habían creídoG2424
+- Jua_8:34J les respondió...esclavo es del pecadoG2424
+- Jua_8:39J les dijo: Si fueseis hijos de AbrahamG2424
+- Jua_8:42J...dijo: Si vuestro padre fuese DiosG2424
+- Jua_8:49respondió J: Yo no tengo demonio, antesG2424
+- Jua_8:54respondió J: Si yo me glorifico a míG2424
+- Jua_8:58J les dijo...Antes que Abraham fuese, yoG2424
+- Jua_8:59pero J se escondió y salió del temploG2424
+- Jua_9:1al pasar J, vio a un hombre ciego deG2424
+- Jua_9:3respondió J: No es que pecó este, ni susG2424
+- Jua_9:11aquel hombre que se llama J hizo lodoG2424
+- Jua_9:14era día de reposo cuando J había hechoG2424
+- Jua_9:22si alguno confesase que J era el MesíasG2424
+- Jua_9:35oyó J que le habían expulsado; y...le dijoG2424
+- Jua_9:37le dijo J: Pues le has visto, y el queG2424
+- Jua_9:39dijo J: Para juicio he venido yo a esteG2424
+- Jua_9:41J les respondió: Si fuerais ciegos, noG2424
+- Jua_10:6esta alegoría les dijo J; pero ellos noG2424
+- Jua_10:7J a decirles...os digo, yo soy la puertaG2424
+- Jua_10:23y J andaba...por el pórtico de SalomónG2424
+- Jua_10:25J les respondió: Os lo he dicho, y noG2424
+- Jua_10:32J les respondió: Muchas buenas obrasG2424
+- Jua_10:34J les respondió: ¿No está escrito enG2424
+- Jua_11:3enviaron...las hermanas para decir a JG2424
+- Jua_11:4oyéndolo J, dijo: Esta enfermedad no esG2424
+- Jua_11:5y amaba J a Marta, a su hermana y aG2424
+- Jua_11:9respondió J: ¿No tiene el día 12 horas?[[G2424]]
+- Jua_11:13J decía esto de la muerte de LázaroG2424
+- Jua_11:14entonces J les dijo...Lázaro ha muertoG2424
+- Jua_11:17vino...J, y halló que hacía cuatro díasG2424
+- Jua_11:20Marta, cuando oyó que J venía, salióG2424
+- Jua_11:21y Marta dijo a J: Señor, si hubiesesG2424
+- Jua_11:23J le dijo: Tu hermano resucitaráG2424
+- Jua_11:25dijo: Yo soy la resurrección y la vidaG2424
+- Jua_11:30J...no había entrado en la aldea, sinoG2424
+- Jua_11:32María, cuando llegó a donde estaba JG2424
+- Jua_11:33J...al verla llorando...se estremeció enG2424
+- Jua_11:35J lloróG2424
+- Jua_11:38J...vino al sepulcro...Era una cueva, yG2424
+- Jua_11:39dijo J: Quitad la piedra...Marta, laG2424
+- Jua_11:40J le dijo: ¿No te he dicho que si creesG2424
+- Jua_11:41y J...dijo: Padre, gracias te doy porG2424
+- Jua_11:44J les dijo: Desatadle, y dejadle irG2424
+- Jua_11:45vieron lo que hizo J, creyeron en élG2424
+- Jua_11:46y les dijeron lo que J había hechoG2424
+- Jua_11:51profetizó que J había de morir por laG2424
+- Jua_11:54J ya no andaba abiertamente entre losG2424
+- Jua_11:56y buscaban a J, y estando ellos en elG2424
+- Jua_12:1vino J a Betania, donde estaba LázaroG2424
+- Jua_12:3ungió los pies de J, y los enjugó conG2424
+- Jua_12:7entonces J dijo: Déjala; para el día deG2424
+- Jua_12:9no...por causa de J, sino...ver a LázaroG2424
+- Jua_12:11los judíos se apartaban y creían en JG2424
+- Jua_12:12fiesta, al oír que J venía a JerusalénG2424
+- Jua_12:14halló J un asnillo, y montó sobre élG2424
+- Jua_12:16cuando J fue glorificado, entonces seG2424
+- Jua_12:21diciendo: Señor, quisiéramos ver a JG2424
+- Jua_12:22Andrés y Felipe se lo dijeron a JG2424
+- Jua_12:23J les respondió...Ha llegado la horaG2424
+- Jua_12:30respondió J...No ha venido esta voz porG2424
+- Jua_12:35J les dijo: Aún por un poco está la luzG2424
+- Jua_12:36cosas habló J, y se fue y se ocultó deG2424
+- Jua_12:44J clamó y dijo: El que cree en mí, noG2424
+- Jua_13:1sabiendo J que su hora había llegadoG2424
+- Jua_13:3sabiendo J que el Padre le había dadoG2424
+- Jua_13:7respondió J y le dijo: lo que yo hagoG2424
+- Jua_13:8J le respondió: Si no te lavare, noG2424
+- Jua_13:10J le...El que está lavado, no necesitaG2424
+- Jua_13:21dicho J esto, se conmovió en espírituG2424
+- Jua_13:23al cual J amaba, estaba...al lado de JG2424
+- Jua_13:25recostado cerca del pecho de J, le dijoG2424
+- Jua_13:26respondió J: A quien yo diere el panG2424
+- Jua_13:27J le dijo: Lo que vas a hacer, hazloG2424
+- Jua_13:29J le decía: Compra lo que necesitamosG2424
+- Jua_13:31dijo J: Ahora es glorificado el HijoG2424
+- Jua_13:36J le respondió: A donde yo voy, no meG2424
+- Jua_13:38J le respondió: ¿Tu vida pondrás porG2424
+- Jua_14:6J le dijo: Yo soy el camino...y la vidaG2424
+- Jua_14:9J le dijo: ¿Tanto tiempo hace que estoyG2424
+- Jua_14:23respondió J...ama, mi palabra guardaráG2424
+- Jua_16:19J conoció que querían preguntarle, yG2424
+- Jua_16:31J les respondió: ¿Ahora creéis?[[G2424]]
+- Jua_17:1estas cosas habló J, y levantando losG2424
+- Jua_18:1habiendo dicho J estas cosas, salió conG2424
+- Jua_18:2muchas veces J se había reunido allí conG2424
+- Jua_18:4pero J, sabiendo todas las cosas que leG2424
+- Jua_18:5respondieron: A J nazareno...J les dijoG2424
+- Jua_18:7buscáis? Y ellos dijeron: A J nazarenoG2424
+- Jua_18:8respondió J: Os he dicho que yo soy; puesG2424
+- Jua_18:11J...dijo a Pedro: Mete tu espada en laG2424
+- Jua_18:12los alguaciles...prendieron a J y leG2424
+- Jua_18:15y seguían a J...Pedro y otro discípuloG2424
+- Jua_18:15y entró con J al patio del...sacerdoteG2424
+- Jua_18:19el sumo sacerdote preguntó a J acercaG2424
+- Jua_18:20J le respondió: Yo públicamente heG2424
+- Jua_18:22cuando J hubo dicho esto, uno de losG2424
+- Jua_18:23J le...Si he hablado mal, testifica enG2424
+- Jua_18:28llevaron a J de casa de Caifás alG2424
+- Jua_18:32cumpliese la palabra que J había dichoG2424
+- Jua_18:33llamó a J y le dijo: ¿Eres tú el Rey deG2424
+- Jua_18:34J le respondió: ¿Dices tú esto por tiG2424
+- Jua_18:36respondió J: Mi reino no es de esteG2424
+- Jua_18:37respondió J: Tú dices que yo soy reyG2424
+- Jua_19:1así...entonces tomó Pilato a J, y le azotóG2424
+- Jua_19:5salió J, llevando la corona de espinasG2424
+- Jua_19:9entró...y dijo a J: ¿De dónde eres tú?[[G2424]]
+- Jua_19:9¿de dónde...Mas J no le dio respuestaG2424
+- Jua_19:11J: Ninguna autoridad tendrías contra míG2424
+- Jua_19:13Pilato...llevó fuera a J, y se sentó enG2424
+- Jua_19:16lo entregó...Tomaron...a J, y le llevaronG2424
+- Jua_19:18a otros dos, uno a cada lado, y J enG2424
+- Jua_19:19decía: J Nazareno, Rey de los judíosG2424
+- Jua_19:20donde J fue crucificado estaba cerca deG2424
+- Jua_19:23los soldados hubieron crucificado a JG2424
+- Jua_19:25estaban junto a la cruz de J su madreG2424
+- Jua_19:26vio J a su madre, y al discípulo aG2424
+- Jua_19:28sabiendo J que...todo estaba consumadoG2424
+- Jua_19:30cuando J hubo tomado el vinagre, dijoG2424
+- Jua_19:33cuando llegaron a J, como le vieron yaG2424
+- Jua_19:38José de Arimatea...era discípulo de JG2424
+- Jua_19:38le permitiese llevarse el cuerpo de JG2424
+- Jua_19:38José...vino, y se llevó el cuerpo de JG2424
+- Jua_19:39que antes había visitado a J de nocheG2424
+- Jua_19:40el cuerpo de J, y lo envolvieron enG2424
+- Jua_19:42sepulcro estaba cerca, pusieron a JG2424
+- Jua_20:2aquel al que amaba J, y les dijo: Se hanG2424
+- Jua_20:7el sudario, que...sobre la cabeza de JG2424
+- Jua_20:11a los pies, donde el cuerpo de J habíaG2424
+- Jua_20:14vio a...J allí; mas no sabía que era JG2424
+- Jua_20:15J le dijo: Mujer, ¿por qué lloras? ¿AG2424
+- Jua_20:16J le dijo: ¡María! Volviéndose ella, leG2424
+- Jua_20:17J le dijo: No me toques, porque aún noG2424
+- Jua_20:19vino J, y puesto en medio, les dijoG2424
+- Jua_20:21J les dijo otra vez: Paz a vosotrosG2424
+- Jua_20:24Tomás...no estaba con ellos cuando JG2424
+- Jua_20:26llegó J, estando las puertas cerradasG2424
+- Jua_20:29J le dijo: Porque me has visto, TomásG2424
+- Jua_20:30hizo además J muchas otras señales enG2424
+- Jua_20:31para que creáis que J es el Cristo, elG2424
+- Jua_21:1J se manifestó otra vez a sus discípulosG2424
+- Jua_21:4se presentó J en...no sabían que era JG2424
+- Jua_21:7discípulo a quien J amaba dijo a PedroG2424
+- Jua_21:10J les dijo: Traed de los peces queG2424
+- Jua_21:12les dijo J: Venid, comed...Y ninguno seG2424
+- Jua_21:13vino, pues, J, y tomó el pan y les dioG2424
+- Jua_21:14la tercera vez que J se manifestaba aG2424
+- Jua_21:15J dijo a Simón Pedro: Simón, hijo deG2424
+- Jua_21:17te amo...J le dijo: Apacienta mis ovejasG2424
+- Jua_21:20les seguía el discípulo a quien amaba JG2424
+- Jua_21:21vio, dijo a J: Señor, ¿y qué de éste?[[G2424]]
+- Jua_21:22J le dijo: Sí quiero que a quede hastaG2424
+- Jua_21:23J no le dijo que no moriría, sinoG2424
+- Jua_21:25muchas cosas que hizo J, las cuales siG2424
+- Hec_1:1todas las cosas que J comenzó a hacerG2424
+- Hec_1:11mismo J, que ha sido tomado de vosotrosG2424
+- Hec_1:14en oración y...con María la madre de JG2424
+- Hec_1:16de Judas...guía de los que prendieron a JG2424
+- Hec_1:21todo el tiempo que el Señor J entrabaG2424
+- Hec_2:22J nazareno, varón aprobado por DiosG2424
+- Hec_2:32este J resucitó Dios, de lo cual todosG2424
+- Hec_2:36este J a quien vosotros crucificasteisG2424
+- Hec_3:13el Dios de...ha glorificado a su Hijo JG2424
+- Hec_4:2anunciasen en J la resurrección de losG2424
+- Hec_4:11J es la piedra reprobada por vosotrosG2424
+- Hec_4:13les reconocían que habían estado con JG2424
+- Hec_4:18hablasen ni enseñasen en el nombre de JG2424
+- Hec_4:27se unieron en...contra tu santo Hijo JG2424
+- Hec_4:30mediante el nombre de tu santo Hijo JG2424
+- Hec_4:33testimonio...la resurrección del Señor JG2424
+- Hec_5:30Dios...levantó a J, a quien...matasteisG2424
+- Hec_5:40que no hablasen en el nombre de J, y losG2424
+- Hec_6:14ese J de Nazaret destruirá este lugarG2424
+- Hec_7:55la gloria y a J...a la diestra de DiosG2424
+- Hec_7:59y decía: Señor J, recibe mi espírituG2424
+- Hec_8:16habían sido bautizados en el nombre de JG2424
+- Hec_8:35Felipe...le anunció el evangelio de JG2424
+- Hec_9:5soy J, a quien tú persigues; dura cosaG2424
+- Hec_9:17el Señor J, que se te apareció en elG2424
+- Hec_9:22Saulo...demostrando que J era el CristoG2424
+- Hec_9:27Damasco había hablado...el nombre de JG2424
+- Hec_10:38Dios ungió, con poder a J de NazaretG2424
+- Hec_10:39cosas que J hizo en la tierra de JudeaG2424
+- Hec_10:48bautizarles en el nombre del Señor JG2424
+- Hec_11:20anunciando el evangelio del Señor JG2424
+- Hec_13:23Dios levantó a J por Salvador a IsraelG2424
+- Hec_13:27no conociendo a J, ni las palabras deG2424
+- Hec_13:33Dios ha cumplido a los...resucitando a JG2424
+- Hec_15:11la gracia del Señor J seremos salvosG2424
+- Hec_17:3J, a quien yo os anuncio...es el CristoG2424
+- Hec_17:7de César, diciendo que hay otro rey, JG2424
+- Hec_17:18les predicaba el evangelio de J, y deG2424
+- Hec_18:5testificando a los judíos que J era elG2424
+- Hec_18:28demostrando por...que J era el CristoG2424
+- Hec_19:4al pueblo que creyesen en...J el CristoG2424
+- Hec_19:5fueron bautizados en el nombre...Señor JG2424
+- Hec_19:10todos...oyeron la palabra del Señor JG2424
+- Hec_19:13invocar el nombre del Señor J sobreG2424
+- Hec_19:13os conjuro por J, el que predica PabloG2424
+- Hec_19:15a J conozco, y sé quién es Pablo; peroG2424
+- Hec_19:17era magnificado el nombre del Señor JG2424
+- Hec_20:24el ministerio que recibí del Señor JG2424
+- Hec_20:35y recordar las palabras del Señor JG2424
+- Hec_21:13aun a morir...por el nombre del Señor JG2424
+- Hec_22:8¿quién eres, Señor? y me dijo: Yo soy JG2424
+- Hec_25:19un cierto J, ya muerto, el que PabloG2424
+- Hec_26:9cosas contra el nombre de J de NazaretG2424
+- Hec_26:15dijo: Yo soy J, a quien tú persiguesG2424
+- Hec_28:23persuadiéndoles acerca de J, tanto porG2424
+- Rom_3:24mediante la redención...es en Cristo JG2424
+- Rom_3:26el que justifica al que es de la fe de JG2424
+- Rom_4:24en el que levantó de los muertos a JG2424
+- Rom_6:3los que hemos sido bautizados en Cristo JG2424
+- Rom_6:11pero vivos para Dios en Cristo J, SeñorG2424
+- Rom_6:23vida eterna en Cristo J Señor nuestroG2424
+- Rom_8:1para los que están en Cristo J, los queG2424
+- Rom_8:2la ley del Espíritu de vida en Cristo JG2424
+- Rom_8:11(2)el que levantó de los muertos a JG2424
+- Rom_8:39amor de Dios, que es en Cristo J SeñorG2424
+- Rom_10:9si confesares con tu...que J es el SeñorG2424
+- Rom_14:14sé, y confío en el Señor J, que nada esG2424
+- Rom_15:5os dé...un mismo sentir según Cristo JG2424
+- Rom_15:8J vino a ser siervo de la circuncisiónG2424
+- Rom_15:17tengo...de qué gloriarme en Cristo J enG2424
+- Rom_16:3Aquila, mis colaboradores en Cristo JG2424
+- Rom_16:9Urbano, nuestro colaborador en Cristo JG2424
+- 1Co_1:2santificados en Cristo J, llamados aG2424
+- 1Co_1:4la gracia de Dios que...dada en Cristo JG2424
+- 1Co_1:30mas por él estáis vosotros en Cristo JG2424
+- 1Co_4:15en Cristo J yo os engendré por medio delG2424
+- 1Co_5:5espíritu sea salvo en el día del Señor JG2424
+- 1Co_6:11justificados en el nombre del Señor JG2424
+- 1Co_9:1¿no he visto a J el Señor nuestro? ¿NoG2424
+- 1Co_11:23el Señor J la noche que fue entregadoG2424
+- 1Co_12:3nadie que hable por...llama anatema a JG2424
+- 1Co_12:3y nadie puede llamar a J Señor, sino porG2424
+- 1Co_16:24mi amor en Cristo J esté con todosG2424
+- 2Co_1:14vuestra gloria...el día del Señor JG2424
+- 2Co_2:14nos lleva siempre en triunfo en Cristo JG2424
+- 2Co_4:5a nosotros como...siervos por amor de JG2424
+- 2Co_4:10llevando en el cuerpo...la muerte de JG2424
+- 2Co_4:10que también la vida de J se manifiesteG2424
+- 2Co_4:11entregados a muerte por causa de J, paraG2424
+- 2Co_4:11para que...la vida de J se manifieste enG2424
+- 2Co_4:14el que resucitó al Señor J, a nosotrosG2424
+- 2Co_4:14a nosotros también nos resucitará con JG2424
+- 2Co_11:4si viene alguno predicando a otro J queG2424
+- Gál_2:4nuestra libertad...tenemos en Cristo JG2424
+- Gál_3:14para que en...J la bendición de AbrahamG2424
+- Gál_3:26sois hijos de Dios por la fe en Cristo JG2424
+- Gál_3:28todos vosotros sois uno en Cristo JG2424
+- Gál_4:14me recibisteis como a...como a Cristo JG2424
+- Gál_5:6; Gál_6:15en...J ni la circuncisión vale algoG2424
+- Gál_6:17en mi cuerpo las marcas del Señor JG2424
+- Efe_1:1a los santos y fieles en Cristo J queG2424
+- Efe_1:15habiendo oído de vuestra fe en el...J, yG2424
+- Efe_2:6y asimismo nos hizo sentar...con Cristo JG2424
+- Efe_2:7su bondad para con nosotros en Cristo JG2424
+- Efe_2:10creados en Cristo J para buenas obrasG2424
+- Efe_2:13ahora en Cristo J...hechos cercanos porG2424
+- Efe_3:1prisionero de Cristo J por vosotros losG2424
+- Efe_3:6copartícipes de la promesa en Cristo JG2424
+- Efe_3:11propósito eterno que hizo en Cristo JG2424
+- Efe_3:21él sea gloria en la iglesia en Cristo JG2424
+- Efe_4:21oído...conforme a la verdad que está en JG2424
+- Flp_1:1Pablo...a todos los santos en Cristo JG2424
+- Flp_1:26abunde vuestra gloria de mí en Cristo JG2424
+- Flp_2:5este sentir que hubo también en Cristo JG2424
+- Flp_2:10el nombre de J se doble toda rodilla deG2424
+- Flp_2:19espero en el Señor J enviaros pronto aG2424
+- Flp_2:21todos buscan...no lo que es de Cristo JG2424
+- Flp_3:3nos gloriarnos en Cristo J, no teniendoG2424
+- Flp_3:8excelencia del conocimiento de Cristo JG2424
+- Flp_3:12para lo cual fui...asido por Cristo JG2424
+- Flp_3:14supremo llamamiento de Dios en Cristo JG2424
+- Flp_4:7guardará, y vuestros pensamientos en...JG2424
+- Flp_4:19conforme a sus riquezas en gloria en...JG2424
+- Flp_4:21saludad a todos los santos en Cristo JG2424
+- Col_1:4oído de vuestra fe en Cristo J, y delG2424
+- Col_1:28presentar perfecto en...Ja todo hombreG2424
+- Col_3:17hacedlo todo en el nombre del Señor JG2424
+- 1Ts_1:10al cual resucitó de los muertos, a JG2424
+- 1Ts_2:14imitadores de las iglesias de Dios en...JG2424
+- 1Ts_2:15los cuales mataron al Señor J y a susG2424
+- 1Ts_4:1os rogamos y exhortamos en el Señor JG2424
+- 1Ts_4:2qué instrucciones os dimos por el Señor JG2424
+- 1Ts_4:14si creemos que J murió y resucitó, asíG2424
+- 1Ts_4:14traerá Dios con J a los que durmieronG2424
+- 1Ts_5:18la voluntad...con vosotros en Cristo JG2424
+- 2Ts_1:7manifieste el Señor J desde el cieloG2424
+- 1Ti_1:2paz, de Dios nuestro...y de Cristo JG2424
+- 1Ti_1:12doy gracias...a Cristo J nuestro SeñorG2424
+- 1Ti_1:14con la fe y el amor que es en Cristo JG2424
+- 1Ti_1:15que Cristo J vino al mundo para salvarG2424
+- 1Ti_3:13confianza en la fe que es en Cristo JG2424
+- 2Ti_1:1promesa de la vida que es en Cristo JG2424
+- 2Ti_1:9y la gracia que nos fue dada en Cristo JG2424
+- 2Ti_1:13oíste, en la fe y amor que es en Cristo JG2424
+- 2Ti_2:1mío, esfuérzate en la gracia que es en...JG2424
+- 2Ti_2:10obtengan la salvación que es en Cristo JG2424
+- 2Ti_3:12quieren vivir piadosamente en Cristo JG2424
+- 2Ti_3:15salvación por la fe que es en Cristo JG2424
+- Flm_1:5del amor y de la fe que tienes hacia...JG2424
+- Flm_1:6el bien que está en vosotros por Cristo JG2424
+- Flm_1:23mi compañero de prisiones por Cristo JG2424
+- Heb_2:9a J, coronado de gloria y de honra, aG2424
+- Heb_3:1apóstol...de nuestra profesión, Cristo JG2424
+- Heb_4:14gran sumo sacerdote...J el Hijo de DiosG2424
+- Heb_6:20donde J entró por...como precursor, hechoG2424
+- Heb_7:22por...J es hecho fiador de un mejor pactoG2424
+- Heb_12:2los ojos en J, el autor y consumador deG2424
+- Heb_12:24a J el Mediador del nuevo pacto, y aG2424
+- Heb_13:12J, para santificar al pueblo...padecióG2424
+- 2Pe_1:2el conocimiento de...nuestro Señor JG2424
+- 1Jn_2:22sino el que niega que J es el Cristo?[[G2424]]
+- 1Jn_4:15que confiese que J es el Hijo de DiosG2424
+- 1Jn_5:1todo aquel que cree que J es el CristoG2424
+- 1Jn_5:5que vence...el que cree que J es el HijoG2424
+- Rev_14:12mandamientos de Dios y la fe de JG2424
+- Rev_17:6ebria de la sangre de los mártires de JG2424
+- Rev_19:10hermanos...retienen el testimonio de JG2424
+- Rev_19:10el testimonio de J es el espíritu de laG2424
+- Rev_20:4decapitados por causa...testimonio de JG2424
+- Rev_22:16yo J he enviado mi ángel para darosG2424
+- Rev_22:20vengo en breve. Amén; sí, ven, Señor JG2424
+- 2 «Jesús, llamado Justo», compañero de Pablo, Col_4:11G2424

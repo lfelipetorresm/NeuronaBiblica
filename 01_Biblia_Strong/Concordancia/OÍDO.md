@@ -1,0 +1,187 @@
+---
+tipo: concordancia
+palabra: OÍDO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# OÍDO
+
+- Gén_20:8dijo todas estas palabras en los o deH241
+- Gén_34:17no nos prestareis o para circuncidarosH8085
+- Gén_44:18que hable...una palabra en o de mi señorH241
+- Gén_50:4si...os ruego que habléis en o de FaraónH241
+- Éxo_15:26oyeres...y dieres o a sus mandamientosH238
+- Éxo_19:5si diereis o a mi voz, y guardareis mi
+- Éxo_24:7tomó el libro...y lo leyó a o del pueblo
+- Núm_11:1que el pueblo se quejó a o de Jehová
+- Núm_11:18porque habéis llorado en o de JehováH241
+- Núm_14:28que según habéis hablado a mis o, asíH241
+- Deu_1:43hablé, y no disteis o; antes fuisteisH8085
+- Deu_1:45pero Jehová no escuchó...ni os prestó oH238
+- Deu_5:1decretos que yo pronuncio...en vuestros oH241
+- Deu_13:3no darás o a...palabras de tal profetaH8085
+- Deu_13:8no consentirás con él, ni le prestarás oH8085
+- Deu_29:4no os ha dado...para ver, ni o para oírH241
+- Deu_31:11leerás esta ley delante...a o de ellosH241
+- Deu_31:28y hablaré en sus o estas palabras, yH241
+- Deu_31:30habló Moisés a o de...la congregaciónH241
+- Deu_32:44recitó...este cántico a o del puebloH241
+- Jos_20:4sus razones en o de los ancianos deH241
+- Jue_7:3ahora...haz pregonar en o del puebloH241
+- Jue_9:2que digáis en o de todos los de SiquemH241
+- Jue_9:3hablaron por él los hermanos de su madre en oH241
+- 1Sa_3:11quien la oyere, le retiñirán ambos oH241
+- 1Sa_8:21oyó Samuel...las refirió en o de JehováH241
+- 1Sa_9:15Jehová había revelado al o de SamuelH241
+- 1Sa_11:4dijeron estas palabras en o del puebloH241
+- 1Sa_15:14bramido...este que yo oigo con mis o?[[H241]]
+- 1Sa_18:23hablaron estas palabras a...o de DavidH241
+- 1Sa_22:8quién me descubra al o cómo mi hijo ha
+- 1Sa_25:24permitas que tu sierva hable a tus o
+- 2Sa_7:22todo lo que hemos oído con nuestro oH241
+- 2Sa_7:27revelaste al o de tu siervo, diciendo
+- 2Sa_22:7y mi clamor llegó a sus oH241
+- 1Re_11:38prestares o a todas las cosas queH8085
+- 1Re_20:25campo raso...Y él les dio o, y lo hizoH8085
+- 2Re_18:26en lengua de Judá a o del pueblo queH241
+- 2Re_19:28cuanto tu arrogancia ha subido a mis oH241
+- 2Re_21:12al que lo oyere le retiñarán ambos oH241
+- 1Cr_17:25revelaste al o de tu siervo que le
+- 1Cr_28:8de todo Israel...y en o de nuestro Dios
+- 2Cr_6:40ojos y atentos tus o a la oración enH241
+- 2Cr_7:15mis ojos y atentos mis o a la oración enH241
+- 2Cr_34:30leyó a o de ellos todas las palabras delH241
+- Neh_1:6atento tu o y atentos tus ojos paraH241
+- Neh_1:11atento tu o a la oración de tu siervoH241
+- Neh_8:3los o de todo el pueblo estaban atentosH241
+- Est_1:17este hecho de la reina llegará a o
+- Job_4:12mas mi o ha percibido algo de elloH241
+- Job_12:11o distingue las palabras, y el paladarH241
+- Job_13:1estas cosas...oído y entendido mis oH241
+- Job_13:17y mi declaración entre en vuestros oH241
+- Job_15:21estruendos espantosos hay en sus o; enH241
+- Job_28:22su fama hemos oído con nuestros oH241
+- Job_29:11los o que me oían me...bienaventuradoH241
+- Job_33:8tú dijiste a o míos, y yo oí la voz deH241
+- Job_33:16entonces revela al o de los hombresH241
+- Job_34:3porque el o prueba las palabras, comoH241
+- Job_36:10despierta además el o de ellos paraH241
+- Job_36:15pobre...en la aflicción despertará su oH241
+- Sal_10:17tú dispones su...y haces atento tu oH241
+- Sal_17:6inclina a mí tu o, escucha mi palabraH241
+- Sal_18:6oyó mi voz...y mi clamor llegó...a sus oH241
+- Sal_31:2inclina a mí tu o, líbrame pronto; séH241
+- Sal_34:15ojos...atentos sus o al clamor de ellosH241
+- Sal_40:6ofrenda no te agrada; has abierto mis oH241
+- Sal_45:10inclina tu o; olvida tu pueblo, y laH241
+- Sal_49:4inclinaré al proverbio mi o; declararéH241
+- Sal_58:4son como el áspid sordo que cierra su oH241
+- Sal_71:2líbrame en tu...inclina tu o, y sálvameH241
+- Sal_78:1inclinad vuestro o a las palabras de miH238
+- Sal_86:1inclina, oh Jehová, tu o, y escúchameH241
+- Sal_88:2mi oración a...inclina tu o a mi clamorH241
+- Sal_92:11oirán mis o de los que se levantaronH241
+- Sal_94:9que hizo el o, ¿no oirá? El que formóH241
+- Sal_102:2día de mi angustia; inclina a mí tu oH241
+- Sal_116:2ha inclinado a mí su o; por tanto, leH241
+- Sal_130:2atentos tus o a la voz de mi súplicaH241
+- Pro_2:2haciendo...atento tu o a la sabiduríaH241
+- Pro_4:20está atento...inclina tu o a mis razonesH241
+- Pro_5:1hijo mío...a mi inteligencia inclina tu oH241
+- Pro_5:13a los queme enseñaban no incliné mi oH241
+- Pro_15:31el o que escucha las amonestaciones deH241
+- Pro_18:15y el o de los sabios busca la cienciaH241
+- Pro_20:12el o que oye, y el ojo que ve, ambasH241
+- Pro_21:13el que cierra su o al clamor del pobreH241
+- Pro_22:17inclina tu o y oye las palabras de losH241
+- Pro_23:9no hables a o del necio...menospreciaráH241
+- Pro_23:12aplica...o a las palabras de sabiduríaH241
+- Pro_25:12que reprende al sabio que tiene o dócilH241
+- Pro_28:9el que aparta su o para no oír la leyH241
+- Ecl_1:8se sacia el ojo de ver, ni el o de oírH241
+- Isa_5:9ha llegado a mis o de parte de JehováH241
+- Isa_6:10agrava sus o, y ciega sus ojos, para queH241
+- Isa_6:10ojos, ni oiga con sus o, ni su corazónH241
+- Isa_11:3ojos, ni argüirá por lo que oigan sus oH241
+- Isa_22:14esto fue revelado a mis o de parte deH241
+- Isa_30:21tus o oirán a tus espaldas palabra queH241
+- Isa_32:3ven, y los o de los oyentes oirán atentosH241
+- Isa_33:15que tapa sus o para no oír propuestasH241
+- Isa_35:5ojos...y los o de los sordos se abriránH241
+- Isa_37:17inclina, oh Jehová, tu o, y oye; abreH241
+- Isa_37:29arrogancia ha subido a mis o; pondréH241
+- Isa_42:20ve muchas cosas...abre los o y no oye?[[H241]]
+- Isa_43:8pueblo ciego...a los sordos que tienen oH241
+- Isa_48:8no se abrió antes tu o; porque sabía queH241
+- Isa_49:20los hijos de tu orfandad dirán a tus oH241
+- Isa_50:4despertará mi o para que oiga como losH241
+- Isa_50:5Jehová el Señor me abrió el o, y yo noH241
+- Isa_55:3inclinad vuestro o, y venid a mí; oíd, yH241
+- Isa_59:1la mano...ni se ha agravado su o para oírH241
+- Isa_64:4nunca oyeron, ni o percibieron, ni ojoH238
+- Jer_2:2clama a los o de Jerusalén, diciendoH241
+- Jer_5:21oíd...pueblo necio...que tiene o y no oyeH241
+- Jer_6:10que sus o son incircuncisos, y no puedenH241
+- Jer_7:24y no oyeron ni inclinaron su o; antesH241
+- Jer_9:20vuestro o reciba la palabra de su bocaH241
+- Jer_11:8; Jer_17:23no oyeron, ni inclinaron su oH241
+- Jer_19:3todo el que lo oyere, le retiñan los oH241
+- Jer_25:4no oísteis, ni inclinasteis vuestro oH241
+- Jer_26:11como vosotros habéis oído con vuestros oH241
+- Jer_26:15que dijese todas estas palabras en...oH241
+- Jer_27:9no prestéis o a vuestros profetas, ni aH8085
+- Jer_28:7en tus o y en los o de todo el puebloH241
+- Jer_29:29había leído esta carta a o...JeremíasH241
+- Jer_34:14pero...no me oyeron, ni inclinaron su oH241
+- Jer_35:15mas no inclinasteis vuestro o, ni meH241
+- Jer_36:6las palabras de Jehová a los o del puebloH241
+- Jer_36:6a o de todos los de Judá que vienen deH241
+- Jer_36:10, Jer_36:13leyó en el libro...a o del puebloH241
+- Jer_36:14toma el rollo en el que leíste a o delH241
+- Jer_36:21leyó en él Jehudí a o del rey, y a o deH241
+- Jer_37:5llegó noticia de ello a o de los caldeosH8085
+- Jer_44:5ni inclinaron su o para convertirse deH241
+- Lam_3:8cuando clamé...cerró los o a mi oración
+- Lam_3:56no escondas tu o al clamor de...suspirosH241
+- Eze_3:10todas mis palabras...y oye con tus oH241
+- Eze_8:18y gritarán a mis o con gran voz, y noH241
+- Eze_9:1clamó en mis o con gran voz, diciendoH241
+- Eze_12:2y no ven, tienen o para oír y no oyenH241
+- Eze_40:4oye con tus o, y pon tu corazón a todasH241
+- Eze_44:5y oye con tus o todo lo que yo habloH241
+- Dan_9:18inclina...tu o, y oye; abre tus ojos, yH241
+- Dan_9:19presta o, Señor, y hazlo; no tardes, porH7181
+- Miq_7:16pondrán la mano...ensordecerán sus oH241
+- Zac_7:11espalda, y taparon sus o para no oírH241
+- Mat_10:27que oís al o, proclamadlo desde lasG3775
+- Mat_11:15; Mat_13:9el que tiene o para oír, oigaG3775
+- Mat_13:14que dijo: De o oiréis, y no entenderéisG189
+- Mat_13:15engrosado, y con los o oyen pesadamenteG3775
+- Mat_13:15no vean con los ojos, y oigan con los oG3775
+- Mat_13:16pero bienaventurados...vuestros o...oyenG3775
+- Mat_13:43Padre...El que tiene o para oír, oigaG3775
+- Mar_4:9dijo: El que tiene o para oír, oigaG3775
+- Mar_4:23; Mar_7:16si alguno tiene o para oír, oigaG3775
+- Mar_7:35fueron abiertos sus o, y se desató laG189
+- Mar_8:18y teniendo o no oís? ¿Y no recordáis?[[G3775]]
+- Luc_1:44de tu salutación a mis o, la criaturaG3775
+- Luc_8:8gran voz: El que tiene o para oír, oigaG3775
+- Luc_9:44penetren bien en los o estas palabrasG3775
+- Luc_12:3que habéis hablado al o en los aposentosG3775
+- Luc_14:35fuera...El que tiene o para oír, oigaG3775
+- Hec_7:51e incircuncisos de corazón y de o![[G3775]]
+- Hec_7:57se taparon los o, y arremetieron a unaG3775
+- Hec_11:22llegó la noticia de...a o de la iglesiaG3775
+- Hec_17:20pues traes a nuestros o cosas extrañasG189
+- Hec_28:26diles: De o oiréis, y no entenderéisG3775
+- Hec_28:27y con los o oyeron pesadamente, y susG3775
+- Hec_28:27ojos, y oigan con los o, y entiendanG3775
+- Rom_11:8y o con que no oigan, hasta el día deG3775
+- 1Co_2:9cosas que ojo no vio, ni o oyó, niG3775
+- 1Co_12:17¿dónde estaría el o? Si todo fuese oG189
+- 2Ti_4:4y apartarán de la verdad el o y seG189
+- Stg_5:4han entrado en los o del Señor de losG3775
+- 1Pe_3:12sus o atentos a sus oraciones; peroG3775
+- Rev_2:7, Rev_2:11, Rev_2:17, Rev_2:29; Rev_3:6, Rev_3:13, Rev_3:22el que tiene o, oiga lo que el Espíritu diceG3775
+- Rev_13:9si alguno tiene o, oigaG3775

@@ -1,0 +1,450 @@
+---
+tipo: concordancia
+palabra: PIE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PIE
+
+- Gén_8:9no halló la...sentar la planta de su pH7272
+- Gén_18:4un poco de agua, y lavad vuestros p; yH7272
+- Gén_19:2y os hospedéis, y lavaréis vuestros pH7272
+- Gén_24:32agua para lavar los p de él, y los pH7272
+- Gén_35:8Débora...y fue sepultada al p de Bet-elH8478
+- Gén_41:44sin ti ninguno alzará su mano ni su pH7272
+- Gén_43:24y lavaron sus p, y dio de comer a susH7272
+- Gén_49:10ni el legislador de entre sus p, hastaH7272
+- Gén_49:33encogió sus p en la cama, y expiro, yH7272
+- Éxo_3:5quita tu calzado de tus p, porque elH7272
+- Éxo_4:25cortó el prepucio de...y lo echó a sus pH7272
+- Éxo_12:9asada...cabeza con sus p y sus entrañasH3767
+- Éxo_12:11vuestro calzado en vuestros p...bordónH7272
+- Éxo_12:37como seiscientos mil hombres de a p, sinH7273
+- Éxo_19:17a Dios; y se detuvieron al p del monteH8482
+- Éxo_21:24ojo por ojo, diente por diente, p por pH7272
+- Éxo_22:6y al...quemare mieses amontonadas o en pH7054
+- Éxo_24:4edificó un altar al p del monte, y doceH8478
+- Éxo_24:10debajo de sus p como un embaldosado deH7272
+- Éxo_25:31su p, su caña, sus copas, sus manzanasH3409
+- Éxo_29:12derramarás toda...sangre al p del altarH3247
+- Éxo_29:20sobre el dedo pulgar de los p derechosH7272
+- Éxo_30:19se lavarán Aarón y...las manos y los pH7272
+- Éxo_30:21se lavarán las manos y los p, para queH7272
+- Éxo_32:19las tablas...las quebró al p del monteH8478
+- Éxo_33:8cada cual estaba en p a la puerta de suH5324
+- Éxo_37:17el candelero...su p, su caña, sus copasH3409
+- Éxo_40:31hijos lavaban en ella sus manos y sus pH7272
+- Lev_4:7, Lev_4:18, Lev_4:25, Lev_4:30, Lev_4:34el resto de la sangre al p del altarH3247
+- Lev_5:9que sobrare...lo exprimirá al p del altarH3247
+- Lev_8:15echó la demás sangre al p del altar, yH3247
+- Lev_8:23y sobre el dedo pulgar de su p derechoH7272
+- Lev_8:24y sobre los pulgares de sus p derechosH7272
+- Lev_9:9y derramó el resto de la sangre al p delH3247
+- Lev_13:12cubriere...desde la cabeza hasta sus pH7272
+- Lev_14:14, Lev_14:17, Lev_14:25, Lev_14:28el pulgar de su p derechoH7272
+- Lev_21:19que tenga quebradura de p o rotura deH7667, [[H7272]]
+- Núm_5:18hará...estar en p a la mujer delante de
+- Núm_8:4desde su p hasta...era labrado a martilloH3409
+- Núm_11:21seiscientos mil de a p es el pueblo enH7273
+- Núm_20:19déjame solamente pasar a p, nada másH7272
+- Núm_22:25apretó contra la pared el p de BalaamH7272
+- Núm_31:5fueron dados...doce mil en p de guerra
+- Deu_2:5ni aun lo que cubre la planta de un p
+- Deu_2:28el agua también...solamente pasaré a pH7272
+- Deu_3:17al p de las laderas del Pisga al oriente
+- Deu_4:11os pusisteis al p del monte; y el monteH8478
+- Deu_4:49del Arabá, al p de las laderas del PisgaH8478
+- Deu_8:4ni el p se te ha hinchado en estos 40 añosH7272
+- Deu_11:10donde...regabas con tu p, como huertoH7272
+- Deu_11:24todo lugar que pisare la...de vuestro pH7272
+- Deu_19:21ojo por ojo, diente por diente...p por pH7272
+- Deu_20:2se pondrá en p el sacerdote y hablará
+- Deu_25:9le quitará el calzado del p...escupiráH7272
+- Deu_28:35la planta de tu p hasta tu coronillaH7272
+- Deu_28:56que nunca la planta de su p intentaríaH7272
+- Deu_28:57recién nacido que sale de entre sus pH7272
+- Deu_28:65ni la planta de tu p tendrá reposo; puesH7272
+- Deu_29:5calzado se ha envejecido sobre vuestro pH7272
+- Deu_32:35a su tiempo su p resbalará, porque elH7272
+- Deu_33:24bendito...sea Aser...moje en aceite su pH7272
+- Jos_1:3todo lugar que pisare la planta de...pH7272
+- Jos_3:13las plantas de los p de los sacerdotesH7272
+- Jos_3:15los p de los sacerdotes...fueron mojadosH7272
+- Jos_4:3del lugar donde están firmes los p de losH7272
+- Jos_4:9donde estuvieron los p de los sacerdotesH7272
+- Jos_4:18los p de los...estuvieron en lugar secoH7272
+- Jos_5:15quita el calzado de tus p...lugar...santoH7272
+- Jos_8:33Israel...de p a uno y otro lado del arcaH5975
+- Jos_9:5zapatos viejos y recosidos en sus p, conH7272
+- Jos_10:24poned vuestros p sobre los cuellos deH7272
+- Jos_10:24pusieron sus p sobre...cuellos de ellosH7272
+- Jos_11:3y al heveo al p de Hermón en tierra deH7272
+- Jos_12:3el sur al p de las laderas del PisgaH8478
+- Jos_13:5Baal-gad al p del monte Hermón, hasta la
+- Jos_14:9la tierra que bolló tu p será para ti, yH7272
+- Jue_1:6y le cortaron los pulgares...de los pH7272
+- Jue_1:7cortados los pulgares...manos y de sus pH8478
+- Jue_3:24duda él cubre sus p en la sala de veranoH7272
+- Jue_4:15Sísara descendió del carro, y huyó a pH7272
+- Jue_4:17y Sísara huyó a p a la tienda de JaelH7272
+- Jue_5:15Isacar se precipitó a p en el valleH7272
+- Jue_5:27entre sus p...entre sus p cayó encorvadoH7272
+- Jue_15:5y quemó las mieses amontonadas y en pH7054
+- Jue_19:21se lavaron los p, y comieron y bebieronH7272
+- Jue_20:2en la reunión del...400.000 hombres de a pH376, [[H7273]]
+- Rut_3:4descubrirás sus p, y te acostarás allíH4772
+- Rut_3:7ella vino...le descubrió los p y se acostóH4772
+- Rut_3:8aquí, una mujer estaba acostada a sus pH4772
+- Rut_3:14después que durmió a sus p...se levantoH4772
+- 1Sa_2:9él guarda los p de sus santos, mas losH7272
+- 1Sa_4:10cayeron de...treinta mil hombres de a pH7273
+- 1Sa_14:13subió...trepando con sus manos y sus pH7272
+- 1Sa_15:4y les pasó revista en...200.000 de a pH7273
+- 1Sa_24:3entró Saúl en ella para cubrir sus pH7272
+- 1Sa_25:24y se echó a sus p, y dijo: Señor míoH7272
+- 1Sa_25:41para lavar los p de los siervos de miH7272
+- 2Sa_2:18este Asael era ligero de p como unaH7272
+- 2Sa_3:34ni tus p ligados con grillos; caíste comoH7272
+- 2Sa_4:4Jonatán...tenía un hijo lisiado de los pH7272
+- 2Sa_4:12les cortaron las manos y los p, y losH7272
+- 2Sa_8:4tomó David de ellos 20.000 hombres de a pH376, [[H7273]]
+- 2Sa_9:3aún...un hijo de Jonatán, lisiado de los pH7272
+- 2Sa_9:13Mefi-boset...y estaba lisiado de ambos pH7272
+- 2Sa_10:6tomaron...veinte mil hombres de a p, delH7273
+- 2Sa_11:8Urías: Desciende a tu casa, y lava tus pH7272
+- 2Sa_14:25su p hasta su...no había en él defectoH7272
+- 2Sa_15:18hombres que habían venido a p desde Gat
+- 2Sa_15:30la cabeza cubierta y los p descalzosH3182
+- 2Sa_18:30ponte allí. Y él pasó, y se quedó de pH5975
+- 2Sa_19:24no había lavado sus p, ni...su barbaH7272
+- 2Sa_21:20doce dedos en...y otros doce en los pH7272
+- 2Sa_22:10descendió...tinieblas debajo de sus pH7272
+- 2Sa_22:34hace mis p como de ciervas, y me haceH7272
+- 2Sa_22:37ensanchaste...y mis p no han resbaladoH7272
+- 2Sa_22:39y los heriré...caerán debajo de mis pH7272
+- 1Re_2:5y en los zapatos que tenía en sus pH7272
+- 1Re_5:3sus enemigos bajo las plantas de sus pH7272
+- 1Re_8:14la congregación de Israel estaba de pH5975
+- 1Re_8:55puesto en p, bendijo a...la congregaciónH5975
+- 1Re_14:6Ahías oyó el sonido de sus p, al entrarH7272
+- 1Re_14:12al poner tu p en la ciudad, morirá elH7272
+- 1Re_15:23los días de su vejez enfermó de los pH7272
+- 1Re_20:29en un solo día cien mil hombres de a pH7273
+- 2Re_4:27luego que llegó a...se asió de sus pH7272
+- 2Re_4:37se echó a sus p, y se inclinó a tierraH7272
+- 2Re_5:11en p invocará el nombre de Jehová...DiosH5975
+- 2Re_9:35no hallaron...más que...p, y las palmasH7272
+- 2Re_10:9en p dijo a todo...Vosotros sois justosH5975
+- 2Re_10:29y dejó en p los becerros de oro...Bet-el
+- 2Re_13:7había quedado...diez mil hombres de a pH7273
+- 2Re_13:21que...revivió, y se levantó sobre sus pH7272
+- 2Re_18:28Rabsaces se puso en p y clamó a granH5975
+- 2Re_19:24con las de mis p todos los ríosH6471
+- 2Re_21:8el p de Israel sea movido de la tierraH7272
+- 2Re_23:3y poniéndose el rey en p...hizo pactoH5975
+- 1Cr_18:4tomó David...20.000 hombres de a p
+- 1Cr_19:18y mató David de...40.000 de a p
+- 1Cr_20:6el cual tenía seis dedos en p y manos
+- 1Cr_28:2el rey David, puesto en p dijo: OídmeH6965
+- 1Cr_28:2para el estrado de los p de nuestro Dios
+- 2Cr_3:13estaban en p con los rostros hacia
+- 2Cr_6:3toda la congragación de Israel estaba en pH5975
+- 2Cr_7:6tocaban trompetas...Israel estaba en pH5975
+- 2Cr_16:12Asa enfermó gravemente de los p, y enH7272
+- 2Cr_18:34estuvo el rey de Israel en p en...carro
+- 2Cr_20:5Josafat se puso en p en la asamblea deH5975
+- 2Cr_20:13todo Judá estaba en p delante deH5975
+- 2Cr_20:20Josafat, estando en p, dijo: Oídme, JudáH5975
+- 2Cr_24:20puesto en p, donde estaba más alto queH5975
+- 2Cr_30:27los sacerdotes y levitas, puestos en pH6965
+- 2Cr_33:8nunca más quitaré el p de Israel de laH7272
+- 2Cr_34:31estando el rey en p en su sitio, hizoH5975
+- Neh_9:2estando en p, confesaron sus pecadosH5975
+- Neh_9:3y puestos de p en su lugar, leyeron elH6965
+- Neh_9:21sus vestidos no...ni se hincharon sus pH7272
+- Est_8:3se echó a sus p, llorando y rogándoleH7272
+- Est_8:4Ester se...y se puso en p delante del reyH6965
+- Job_2:7una sarna...desde la planta del p hastaH7272
+- Job_8:15su casa, mas no permanecerá ella en pH5975
+- Job_12:5aquel cuyos p van a resbalar es como unaH7272
+- Job_13:27pones...mis p en el cepo, y observasH7272
+- Job_13:27trazando un límite para las...de mis pH7272
+- Job_18:8red será echada a sus p, y sobre mallasH7272
+- Job_23:11mis p han seguido sus pisadas; guardéH7272
+- Job_28:4abren minas lejos...donde el p no pasaH7272
+- Job_29:8ancianos se levantaban, y estaban de pH5975
+- Job_29:15yo era ojos al ciego, y p al cojoH7272
+- Job_30:12empujaron mis p, y prepararon contraH7272
+- Job_31:5si anduve...si mi p se apresuró a engañoH7272
+- Job_33:5puedes; ordena tus palabras, ponte en pH3320
+- Job_33:11puso mis p en el cepo, y vigiló todasH7272
+- Job_39:15olvida que el p los puede pisar, y queH7272
+- Sal_8:6manos; todo lo pusiste debajo de sus pH7272
+- Sal_9:15la red que escondieron fue tomado su pH7272
+- Sal_17:5mis pasos en...para que mis p no resbalenH6471
+- Sal_18:9había densas tinieblas debajo de sus pH7272
+- Sal_18:33hace mis p como de ciervas, y me haceH7272
+- Sal_18:36ensanchaste...y mis p no han resbaladoH7166
+- Sal_18:38herí de modo...cayeron debajo de mis pH7272
+- Sal_20:8nosotros nos levantamos, y estamos en pH5749
+- Sal_22:16malignos; horadaron mis manos y mis pH7272
+- Sal_25:15ojos...porque él sacará mis p de la redH7272
+- Sal_26:12mi p ha estado en rectitud; en lasH7272
+- Sal_31:8mano...pusiste mis p en lugar espaciosoH7272
+- Sal_36:11no venga p de soberbia contra mí, yH7272
+- Sal_37:31la ley...por tanto, sus p no resbalaránH838
+- Sal_38:16no se alegren de...cuando mi p resbaleH7272
+- Sal_40:2puso mis p sobre peña, y enderezó misH7272
+- Sal_47:3él someterá...las naciones debajo de...pH7272
+- Sal_56:13has librado mi alma...y mis p de caídaH7272
+- Sal_58:10sus p lavará en la sangre del impíoH6471
+- Sal_66:6por el río pasaron a p; allí en él nosH7272
+- Sal_66:9no permitió que nuestros p resbalasenH7272
+- Sal_68:23porque tu p se enrojecerá de sangre deH7272
+- Sal_69:2cieno profundo, donde no puedo hacer pH4613
+- Sal_73:2cuanto a mí, casi se deslizaron mis pH7272
+- Sal_76:7¿y quién podrá estar en p delante de tiH5975
+- Sal_91:12para que tu p no tropiece en piedraH7272
+- Sal_94:18yo decía: Mi p resbala...me sustentabaH7272
+- Sal_99:5postraos ante el estrado de sus p; él
+- Sal_105:18afligieron sus p con grillos...cárcelH7272
+- Sal_110:1a tus enemigos por estrado de tus p
+- Sal_115:7tienen p, mas no andan; no hablan conH7272
+- Sal_116:8tú has librado mi...mis p de resbalarH7272
+- Sal_119:59caminos, y volví...p a tus testimoniosH7272
+- Sal_119:101de todo mal camino contuve mis p, paraH7272
+- Sal_119:105lámpara es a mis p tu palabra, yH7272
+- Sal_121:3no dará tu p al resbaladero, ni seH7272
+- Sal_122:2p estuvieron dentro de tus puertas, ohH7272
+- Sal_132:7postraremos ante el estrado de sus p
+- Pro_1:15hijo mío...aparta tu p de sus veredasH7272
+- Pro_1:16porque sus p corren hacia el mal, y vanH7272
+- Pro_3:23entonces andarás...y tu p no tropezaráH7272
+- Pro_3:26y él preservará tu p de quedar presoH7272
+- Pro_4:26examina la senda de tus p, y todos tusH7272
+- Pro_4:27no te desvíes a la...aparta tu p del malH7272
+- Pro_5:5sus p descienden a la muerte; sus pasosH7272
+- Pro_6:13que guiña los ojos, que habla con los pH7272
+- Pro_6:18los p presurosos para correr al malH7272
+- Pro_6:28sobre brasas sin que sus p se quemen?[[H7272]]
+- Pro_7:11rencillosa sus p no pueden estar en casaH7272
+- Pro_19:2y aquel que se apresura con los p, pecaH7272
+- Pro_25:17detén tu p de la casa de tu vecino, noH7272
+- Pro_25:19como diente roto y p descoyuntado es laH7272
+- Pro_26:6el que se corta los p y bebe su daño, asíH7272
+- Ecl_5:1fueres a la casa de Dios, guarda tu pH7272
+- Cnt_5:3lavado mis p; ¿cómo los he de ensuciarH7272
+- Cnt_7:1hermosos son tus p en las sandalias, ohH6471
+- Isa_1:6desde la planta del p hasta 15 cabezaH7272
+- Isa_3:13Jehová está en p para litigar, y estáH5975
+- Isa_3:16van danzando, y haciendo son con los pH7272
+- Isa_6:2con dos cubrían sus p, y con dos volabanH7272
+- Isa_7:20cabeza y pelo de los p, y aun la barbaH7272
+- Isa_20:2quita...descalza las sandalias de tus pH7272
+- Isa_23:7ciudad...Sus p la llevarán a morar lejosH7272
+- Isa_26:6hollará p, los p del afligido, los pasosH7272
+- Isa_28:3con los p será pisoteada la corona deH7272
+- Isa_36:13Rabsaces se puso en p y gritó a granH5975
+- Isa_37:25con las pisadas de mis p secaré...ríosH6741
+- Isa_41:3pasó...donde sus p nunca habían entradoH7272
+- Isa_47:2descubre tus guedejas, descalza los p
+- Isa_49:23lamerán el polvo de tus p; y conocerásH7272
+- Isa_52:7¿cuán hermosos son...los p del que traeH7272
+- Isa_58:13si retrajeres del día de reposo tu pH7272
+- Isa_59:7sus p corren al mal, se apresuran paraH7272
+- Isa_60:13vendrá...y yo honraré el lugar de mis pH7272
+- Isa_60:14a las pisadas de tus p se encorvaránH7272
+- Isa_66:1mi trono, y la tierra estrado de mis p
+- Jer_2:25guarda tus p de andar descalzos, y tuH7272
+- Jer_12:5corriste con los de a p, y te cansaronH7273
+- Jer_13:16que vuestros p tropiecen en montes deH7272
+- Jer_14:10en vagar, y no dieron reposo a sus pH7272
+- Jer_18:22cavaron...y a mis p han escondido lazosH7272
+- Jer_38:22tus amigos; hundieron en el cieno tus pH7272
+- Jer_46:14ponte en p y prepárate, porque espadaH3320
+- Lam_1:13ha extendido red a mis p, me volvióH7272
+- Lam_2:1no se acordó del estrado de sus p en el
+- Lam_3:34desmenuzar bajo los p a...encarceladosH7272
+- Eze_1:7p de ellos eran derechos, y la plantaH7272
+- Eze_1:7la planta de sus p como planta de p deH7272
+- Eze_2:1me...Ponte sobre tus p, y hablaré contigoH7272
+- Eze_2:2y me afirmó sobre mis p, y oí al que meH7272
+- Eze_3:24me afirmó sobre mis p, y me habló, y meH7272
+- Eze_6:11y golpea con tu p, y di: ¡Ay, por todasH7272
+- Eze_17:14guardando el pacto, permaneciese en pH5975
+- Eze_24:17tus zapatos en tus p, y no te cubrasH7272
+- Eze_24:23zapatos en vuestros p; no endecharéisH7272
+- Eze_25:6golpeaste con tu p, y te gozaste en elH7272
+- Eze_29:11no pasará...p de hombre, ni p de animalH7272
+- Eze_31:4sus ríos corrían alrededor de su p, y aH4302
+- Eze_32:2ríos, y enturbiabas las aguas con tus pH7272
+- Eze_32:13ni más las enturbiará p de hombre, niH7272
+- Eze_34:18también holláis con vuestros p lo queH7272
+- Eze_34:18enturbiáis además con vuestros p lasH7272
+- Eze_34:19ovejas comen lo hollado de vuestros pH7272
+- Eze_34:19beben lo que con...p habéis enturbiadoH7272
+- Eze_37:10y vivieron, y estuvieron sobre sus pH7272
+- Eze_43:7lugar donde posaré las plantas de mis pH7272
+- Eze_46:2entrará...y estará en p junto al umbralH5975
+- Dan_2:31imagen...estaba en p delante de ti, yH6966
+- Dan_2:33sus p, en parte de hierro y en parte deH7271
+- Dan_2:34hirió a la imagen en sus p de hierro yH7271
+- Dan_2:41lo que viste de los p...en parte de barroH7271
+- Dan_2:42por ser los dedos de los p en parte deH7271
+- Dan_3:3estaban en p delante de la estatua queH6966
+- Dan_7:4se puso enhiesta sobre los p a manera deH7271
+- Dan_7:7las sobras hollaba con sus p, y era muyH7271
+- Dan_7:19desmenuzaba...sobras hollaba con sus pH7271
+- Dan_8:18caí...y él me tocó, y me hizo estar en p
+- Dan_10:6sus p como de color de bronce bruñidoH4772
+- Dan_10:11y ponte en p...me puse en p temblandoH5975
+- Dan_12:5he aquí otros dos que estaban en, p, elH5975
+- Amó_2:15ni escapará el ligero de p, ni el queH7272
+- Nah_1:3marcha...nubes son el polvo de sus pH7272
+- Nah_1:6¿y quién quedará en p en el ardor de su
+- Nah_1:15montes los p del que trae buenas nuevasH7272
+- Hab_2:1y sobre la fortaleza afirmaré el p, y
+- Hab_3:5y a sus p salían carbones encendidosH7272
+- Hab_3:19el cual hace mis p como de ciervas, yH7272
+- Zac_3:5dijo...Y el ángel de Jehová estaba en pH5975
+- Zac_14:4se afirmarán sus p...sobre el monte deH7272
+- Zac_14:12corromperá estando ellos sobre sus pH5975
+- Mal_3:2estar en p cuando él se manifieste?[[H5975]]
+- Mal_4:3ceniza bajo las plantas de vuestros p, enH7272
+- Mat_4:6para que no tropieces con tu p en piedraG4228
+- Mat_5:35ni por la tierra...es el estrado de sus pG4228
+- Mat_6:5ellos aman el orar en p en las sinagogasG2476
+- Mat_10:14salid...sacudid el polvo de vuestros PG4228
+- Mat_14:13oyó, le siguió a p desde las ciudadesG3979
+- Mat_15:30pusieron a los p de Jesús, y los sanóG4228
+- Mat_18:8si tu mano o tu p te es ocasión de caerG4228
+- Mat_18:8teniendo...dos p ser echado en el fuegoG4228
+- Mat_18:29postrándose a sus p, le rogaba diciendoG4228
+- Mat_22:13atadle de p y manos, y echadle en lasG4228
+- Mat_22:44a tus enemigos por estrado de tus P?[[G4228]]
+- Mat_27:11Jesús...en p delante del gobernador; yG2476
+- Mat_28:9ellas...abrazaron sus p, y le adoraronG4228
+- Mar_5:22y luego que le vio, se postró a sus pG4228
+- Mar_6:11sacudid el polvo...debajo de vuestros pG4228
+- Mar_6:33muchos fueron allá a p desde...ciudadesG3979
+- Mar_7:25una mujer...oyó...vino y se postró a sus pG4228
+- Mar_9:45tu p te fuere ocasión de caer, córtaloG4228
+- Mar_9:45teniendo dos p ser echado en el infiernoG4228
+- Mar_12:36ponga a tus enemigos por estrado de...pG4228
+- Luc_1:11un ángel...puesto en p a la derecha delG2476
+- Luc_1:79encaminar nuestros p por camino de pazG4228
+- Luc_4:11para que no tropieces con tu p en piedraG4228
+- Luc_6:8la mano...Y él, levantándose, se puso en pG2476
+- Luc_7:38estando detrás de él a sus p, llorandoG4228
+- Luc_7:38comenzó a regar con lágrimas sus p, yG4228
+- Luc_7:38besaba sus p, y los ungía con el perfumeG4228
+- Luc_7:44no me diste agua para mis p; mas éstaG4228
+- Luc_7:44mas ésta ha regado mis p con lágrimasG4228
+- Luc_7:45mas ésta...no ha cesado de besar mis PG4228
+- Luc_7:46mas ésta ha ungido con perfume mis pG4228
+- Luc_8:28postrándose a sus p exclamó a gran voz
+- Luc_8:35sentado a los p de Jesús, vestido, y enG4228
+- Luc_8:41postrándose a los p de Jesús, le rogabaG4228
+- Luc_8:47vino...y postrándose a sus p, le declaró
+- Luc_9:5salid...y sacudid el polvo de vuestros pG4228
+- Luc_10:11el polvo...que se ha pegado a nuestros p
+- Luc_10:39la cual, sentándose a los p de Jesús, oíaG4228
+- Luc_15:22poned un anillo en...y calzado en sus pG4228
+- Luc_17:16y se postró...a sus p dándole graciasG4228
+- Luc_18:11el fariseo, puesto en p, oraba consigoG2476
+- Luc_19:8Zaqueo, puesto en p, dijo al Señor: HeG2476
+- Luc_20:43ponga a tus enemigos por estrado de P
+- Luc_21:36y de estar en p delante del Hijo delG2476
+- Luc_24:39mis manos y mis p, que yo mismo soyG4228
+- Luc_24:40diciendo esto, les mostró las...y los pG4228
+- Jua_7:37se puso en p y alzó la voz, diciendoG2476
+- Jua_11:2fue la que...enjugó los p con sus cabellosG4228
+- Jua_11:32se postró a sus p, diciéndole: Señor, siG4228
+- Jua_11:44atadas las manos y los p con vendasG4228
+- Jua_12:3ungió los p de Jesús, y los enjugó conG4228
+- Jua_13:5comenzó a lavar los p de los discípulosG4228
+- Jua_13:6Pedro...dijo: Señor, ¿tú me lavas los p?[[G4228]]
+- Jua_13:8Pedro le dijo: No me lavarás los p jamásG4228
+- Jua_13:9Señor, no sólo mis p, sino también lasG4228
+- Jua_13:10no necesita sino lavarse los p, puesG4228
+- Jua_13:12que, después que les hubo lavado los pG4228
+- Jua_13:14si yo, el Señor...he lavado vuestros pG4228
+- Jua_13:14también debéis lavaros los p los unos aG4228
+- Jua_18:18estaban en p los siervos...hacía fríoG2476
+- Jua_18:18y también con ellos estaba Pedro en pG2476
+- Jua_18:25estaba, pues, Pedro en p, calentándoseG2476
+- Jua_20:12el uno a la cabecera, y el otro a los pG4228
+- Hec_2:14poniéndose en p con los once, alzó laG2476
+- Hec_2:35ponga a tus enemigos por estrado de...p
+- Hec_3:7al momento se le afirmaron los p y losG939
+- Hec_3:8saltando, se puso en p y anduvo; y entróG2476
+- Hec_4:14viendo al hombre...estaba en p con ellosG2476
+- Hec_4:35lo ponían a los p de los apóstoles; y seG4228
+- Hec_4:37el precio...puso a los p de los apóstolesG4228
+- Hec_5:2parte, la puso a los p de los apóstolesG4228
+- Hec_5:9he aquí a la puerta los p de los que hanG4228
+- Hec_5:10cayó a los p de él, y expiró; y cuandoG4228
+- Hec_5:20en p en el templo, anunciad al puebloG2476
+- Hec_5:23los guardas afuera de p ante las puertasG2476
+- Hec_7:5no le dio...ni aun para asentar un p; peroG4228
+- Hec_7:33dijo el Señor: Quita el calzado de tus pG4228
+- Hec_7:49trono, y la tierra el estrado de mis p
+- Hec_7:58pusieron sus ropas a los p de un..SauloG4228
+- Hec_10:25Cornelio...postrándose a sus p, adoroG4228
+- Hec_11:13un ángel, que se puso en p y le dijoG2476
+- Hec_13:25digno de desatar el calzado de los pG4228
+- Hec_13:51sacudiendo contra ellos el polvo de...pG4228
+- Hec_14:8sentado, imposibilitado de los p, cojoG4228
+- Hec_14:10dijo a...Levántate derecho sobre tus pG4228
+- Hec_16:9un varón macedonio estaba en p. Pasa aG2476
+- Hec_16:24metió...y les aseguró los p en el cepoG4228
+- Hec_16:29se postró a los p de Pablo y de Silas
+- Hec_17:22puesto en p en medio del Areópago, dijoG2476
+- Hec_21:11atándose los p y las manos, dijo: EstoG4228
+- Hec_21:40Pablo...en p en las gradas, hizo señalG2476
+- Hec_22:3soy judío...instruido a los p de GamalielG4228
+- Hec_26:16levántate, y ponte sobre tus p; porqueG4228
+- Hec_27:21Pablo...puesto en p en medio de ellosG2476
+- Rom_3:15p se apresuran para derramar sangreG4228
+- Rom_10:15son los p de los que anuncian la pazG4228
+- Rom_11:20tú por la fe estás en p. No...sino temeG2476
+- Rom_14:4para su propio señor está en p, o caeG4739
+- Rom_16:20aplastará...a Satanás bajo vuestros pG4228
+- 1Co_12:15si dijere el p: Porque no soy manoG4228
+- 1Co_12:21la cabeza a los p: No tengo necesidadG4228
+- 1Co_15:25a todos sus enemigos debajo de sus pG4228
+- 1Co_15:27las cosas las sujetó debajo de sus pG4228
+- Efe_1:22sometió todas las cosas bajo sus p, yG4228
+- Efe_6:15calzados los p con...evangelio de la pazG4228
+- 1Ti_5:10si ha lavado los p de los santos; siG4228
+- Heb_1:13ponga...enemigos por estrado de tus p
+- Heb_2:8todo lo sujetaste bajo sus p. Porque enG4228
+- Heb_9:8que la primera parte del...estuviese en pG4714
+- Heb_10:13enemigos sean puestos por estrado de...p
+- Heb_12:13haced sendas derechas para vuestros pG4228
+- Stg_2:3y decís al pobre: Estate tú allí en pG5286
+- Rev_1:13de una ropa que llegaba hasta los pG4228
+- Rev_1:15y sus p semejantes al bronce bruñidoG4228
+- Rev_1:17cuando le vi, caí como muerto a sus pG4228
+- Rev_2:18y p semejantes al bronce bruñido, diceG4228
+- Rev_3:9yo haré que vengan y se postren a tus pG4228
+- Rev_5:6en medio de...estaba en p un Cordero comoG2476
+- Rev_6:17su ira..¿y quién podrá sostenerse en p?[[G2476]]
+- Rev_7:1a cuatro ángeles en p sobre los cuatroG2476
+- Rev_7:11los ángeles estaban en p alrededor delG2476
+- Rev_8:2vi a los siete ángeles...en p ante DiosG2476
+- Rev_10:1el sol, y sus p como columnas de fuegoG4228
+- Rev_10:2y puso su p derecho sobre el mar, y elG4228
+- Rev_10:5ángel que vi en p sobre el mar y sobreG4228
+- Rev_10:8del ángel que está en p sobre el mar yG4228
+- Rev_11:4dos candeleros que están en p delanteG4228
+- Rev_11:11espíritu...y se levantaron sobre sus pG4228
+- Rev_12:1una mujer...con la luna debajo de sus pG4228
+- Rev_13:2p como de oso, y su boca como boca deG4228
+- Rev_14:1el Cordero estaba en p sobre el monte deG3476
+- Rev_15:2en p sobre el mar de vidrio, con...arpasG3476
+- Rev_19:10me postré a sus p para adorarle. Y élG4228
+- Rev_19:17vi a un ángel que estaba en p en el solG2476
+- Rev_20:12vi a los muertos...de p ante Dios; y losG2476
+- Rev_22:8me postré para adorar a los p del ángelG4228

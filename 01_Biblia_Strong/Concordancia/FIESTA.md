@@ -1,0 +1,133 @@
+---
+tipo: concordancia
+palabra: FIESTA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FIESTA
+
+- Éxo_5:1deja ir a mi pueblo a celebrarme f enH2287
+- Éxo_10:9porque es nuestra f solemne para JehováH2282
+- Éxo_12:14lo celebraréis...f solemne para JehováH2282
+- Éxo_12:17y guardaréis la f de los panes sin
+- Éxo_13:6pan...y el séptimo día será f para JehováH2282
+- Éxo_23:14tres veces en el año me celebraréis fH2287
+- Éxo_23:15f de los panes sin levadura guardarásH2282
+- Éxo_23:16la f de la siega...la f de la cosechaH2282
+- Éxo_32:5Aarón...dijo: Mañana será f para JehováH2282
+- Éxo_34:18f de los panes sin levadura guardarásH2282
+- Éxo_34:22la f de las semanas...f de la cosechaH2282
+- Éxo_34:25ni se dejará...del sacrificio de la fH2282
+- Lev_23:2las f solemnes de Jehová, las cualesH4150
+- Lev_23:4estas son las f solemnes de Jehová, lasH2282
+- Lev_23:6la f solemne de los panes sin levaduraH2282
+- Lev_23:34será la f solemne de los tabernáculosH2282
+- Lev_23:36es f, ningún trabajo de siervos haréisH6116
+- Lev_23:37estas son las f solemnes de Jehová, aH4150
+- Lev_23:39recogido el fruto...haréis f a JehováH2282
+- Lev_23:41y le haréis f a Jehová por siete díasH2282
+- Lev_23:44habló...sobre las f solemnes de JehováH4150
+- Núm_15:3para ofrecer en vuestras f solemnesH4150
+- Núm_28:17quince días de este mes, la f solemneH2282
+- Núm_29:12y celebraréis f solemne a Jehová porH2282
+- Núm_29:39estas cosas ofreceréis...en vuestras fH4150
+- Deu_16:8séptimo día será f solemne a JehováH6116
+- Deu_16:10la f solemne de las semanas a JehováH2282
+- Deu_16:13la f solemne de los tabernáculos harásH2282
+- Deu_16:14y te alegrarás en tus f solemnes, túH2282
+- Deu_16:15siete días celebrarás f solemne a JehováH2287
+- Deu_16:16en la f...de los panes sin levadura, yH2282
+- Deu_16:16en la f solemne de las semanas, y en laH2282
+- Deu_16:16y en la f solemne de los tabernáculosH2282
+- Deu_31:10al fin de...en la f de los tabernáculosH2282
+- Jue_9:27saliendo...pisaron la uva e hicieron fH1974
+- Jue_14:12yo os daré 30...y treinta vestidos de f
+- Jue_14:13vosotros me daréis...los vestidos de f
+- Jue_21:19aquí cada año hay f solemne de JehováH2282
+- 1Sa_30:16comiendo y bebiendo y haciendo fH2287
+- 1Re_8:2se reunieron...el día de la f solemneH6950
+- 1Re_8:65Salomón hizo f, y con él todo IsraelH2282
+- 1Re_12:32instituyó...f...conforme a la f solemneH2282
+- 1Re_12:33hizo f a los hijos de Israel, y subióH2282
+- 1Cr_23:31días de reposo, lunas...f solemnesH4150
+- 2Cr_5:3se congregaron...para la f solemne delH6950
+- 2Cr_7:8entonces hizo Salomón f siete días, y conH6950
+- 2Cr_7:9y habían celebrado la f...por siete díasH2282
+- 2Cr_8:13para que ofreciesen...en las f solemnesH4150
+- 2Cr_8:13en la f de los panes sin levadura, enH2282
+- 2Cr_8:13en la f de las semanas y en la f de losH2282
+- 2Cr_30:13gente para celebrar la f de los panesH2282
+- 2Cr_30:21celebraron la f solemne de los panesH2282
+- 2Cr_30:22y comieron de lo sacrificado en la fH4150
+- 2Cr_30:23celebrasen la f por otros siete díasH6951
+- 2Cr_31:3y f solemnes, como está escrito en laH4150
+- 2Cr_35:17celebraron...la f solemne de los panesH2282
+- Esd_3:4celebraron...la f...de los tabernáculosH2282
+- Esd_3:5además...todas las f solemnes de JehováH4150
+- Esd_6:22y celebraron...la f solemne de los panesH2282
+- Neh_8:14en tabernáculos en la f solemne delH2282
+- Neh_8:18hicieron la f solemne por 7 días, y elH2282
+- Neh_12:27para hacer la dedicación y la f conH8057
+- Sal_42:4voces...de alabanza del pueblo en fH8426
+- Sal_81:3tocad...en el día de nuestra f solemneH2282
+- Pro_11:10mas cuando los impíos perecen hay fH7440
+- Isa_1:13son iniquidad vuestras f solemnesH4744
+- Isa_1:14vuestras f...las tiene aborrecidas mi almaH4150
+- Isa_29:1añadid un año a otro, las f sigan suH2282
+- Isa_33:20a Sion, ciudad de nuestras f solemnesH4150
+- Lam_1:4no hay quien venga a las f solemnesH4150
+- Lam_2:6Jehová ha hecho olvidar las f solemnesH4150
+- Lam_2:7resonar su voz en la...como en día de fH4150
+- Eze_36:38como las ovejas de Jerusalén en sus fH4150
+- Eze_44:24mis decretos guardarán en todas mis fH4150
+- Eze_45:17el dar...la libación en las f solemnesH2282
+- Eze_45:17y en todas las f de la casa de IsraelH4150
+- Eze_45:21tendréis la pascua, f de siete días; seH2282
+- Eze_45:23y en los siete días de la f...ofreceráH2282
+- Eze_45:25en la f, hará como en estos siete díasH2282
+- Eze_46:9entrare delante de Jehová en las f, elH4150
+- Eze_46:11en las f...será la ofrenda un efa conH4150
+- Ose_2:11haré cesar...sus f, sus nuevas lunasH2282
+- Ose_9:5¿qué haréis...el día de la f de Jehová?[[H2282]]
+- Ose_12:9en tiendas, como en los días de la fH4150
+- Amó_8:10cambiaré vuestras f en lloro, y todosH2282
+- Nah_1:15celebra, oh Judá, tus f, cumple tusH2282
+- Zac_14:16a celebrar la f de los tabernáculosH2282
+- Zac_14:18-19que no subieren a celebrar la f deH2282
+- Mat_22:2un rey que hizo f de bodas a su hijo
+- Mat_26:5no durante la f, para que no se hagaG1859
+- Mat_26:17día de la f de los panes sin levadura
+- Mat_27:15bien, en el día de la f acostumbraba elG1859
+- Mar_6:21que Herodes, en la f de su cumpleañosG1077
+- Mar_14:1era...y la f de los panes sin levadura
+- Mar_14:2no durante la f, para que no se hagaG1859
+- Mar_14:12el primer día de la f de los panes sin
+- Mar_15:6en el día de la f les soltaba un presoG1859
+- Luc_2:41iban...Jerusalén en la f de la pascuaG1859
+- Luc_2:42subieron...conforme a...costumbre de la fG1859
+- Luc_2:43acabada la f, se quedó el niño Jesús enG2250
+- Luc_15:23gordo y matadlo, y comamos y, hagamos fG2165
+- Luc_15:32era necesario hacer f...porque este tuG2165
+- Luc_22:1cerca la f de los panes sin levaduraG1859
+- Luc_23:17necesidad de soltarles uno en cada fG1859
+- Jua_2:23estando en Jerusalén, en la f de laG1859
+- Jua_4:45visto...cosas que había hecho en...la fG1859
+- Jua_4:45porque también ellos habían ido a la fG1859
+- Jua_5:1había una f de los judíos, y subió JesúsG1859
+- Jua_6:4estaba cerca la pascua, la f de...judíosG1859
+- Jua_7:2estaba cerca la f de los judíos, la deG1859
+- Jua_7:8subid...la f; yo no subo todavía a esa fG1859
+- Jua_7:10también subió a la f...como en secretoG1859
+- Jua_7:11buscaban los judíos en la f, y decíanG1859
+- Jua_7:14la mitad de la f subió Jesús al temploG1859
+- Jua_7:37en el último y gran día de la f, JesúsG1859
+- Jua_10:22en Jerusalén la f de la dedicación. EraG1456
+- Jua_11:56¿qué os parece? ¿No vendrá a la f?[[G1859]]
+- Jua_12:12habían venido a la f, al oír que JesúsG1859
+- Jua_12:20entre los que habían subido...en la fG1859
+- Jua_13:1antes de la f de la pascua, sabiendoG1859
+- Jua_13:29compra lo que necesitamos para la f; oG1859
+- Hec_18:21guarde en Jerusalén la f que vieneG1859
+- 1Co_5:8celebremos la f, no con la...levaduraG1858
+- Col_2:16nadie os juzgue...cuanto a días de fG1859

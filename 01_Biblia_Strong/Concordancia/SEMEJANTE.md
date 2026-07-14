@@ -1,0 +1,153 @@
+---
+tipo: concordancia
+palabra: SEMEJANTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SEMEJANTE
+
+- Gén_41:19extenuadas, que no he visto otras s
+- Éxo_24:10s al cielo cuando está sereno
+- Éxo_30:32no será derramado, ni haréis otro sH3644
+- Éxo_30:33cualquiera que compusiere ungüento sH3644
+- Deu_4:32pregunta ahora si...se ha hecho cosa s
+- Deu_13:11no vuelva a hacer en medio de ti cosa s
+- Deu_19:20no volverán a hacer más una maldad s en
+- 1Sa_2:23y les dijo: ¿Por qué hacéis cosas s?
+- 1Sa_9:21yo...¿Por qué, pues, me has dicho cosa s?
+- 1Sa_10:24que no hay s a él en todo el pueblo?[[H3644]]
+- 2Sa_14:13pensado tú cosa s contra el puebloH2063
+- 1Re_7:8casa en que él moraba...era de obra s
+- 1Re_7:8una casa de hechura s a la del pórtico
+- 1Re_10:12nunca vino s madera de sándalo, ni seH3651
+- 1Re_10:20en ningún otro reino se...hecho trono sH3651
+- 1Cr_17:20no hay s a ti, ni hay Dios sino túH3644
+- 1Cr_29:14para que pudiésemos ofrecer...cosas s?
+- 2Cr_6:14no hay Dios s a ti en el cielo ni enH3644
+- 2Cr_9:11nunca en...Judá se había visto madera sH1992
+- 2Cr_9:19jamás fue hecho trono s en reino algunoH3651
+- 2Cr_30:26no había habido cosa s en Jerusalén
+- Job_30:19y soy s al polvo y a la cenizaH4911
+- Job_34:36a causa de sus respuestas s a las de
+- Job_36:22Dios es excelso...¿qué enseñador s a él?[[H3644]]
+- Sal_28:1que no sea...s a los que descienden alH5973
+- Sal_49:12, Sal_49:20hombre...s a las bestias que perecenH4911
+- Sal_89:6¿quién será s a Jehová entre los hijosH1819
+- Sal_102:6s al pelícano del desierto; soy como elH1819
+- Sal_115:8S a ellos son los que los hacenH3644
+- Sal_135:18s a ellos son los que los hacen, y todosH3644
+- Sal_143:7s a los que descienden a la sepulturaH4911
+- Sal_144:4el hombre es s a la vanidad; sus díasH1819
+- Pro_27:15gotera...y la mujer rencillosa, son sH7737
+- Ecl_3:18que ellos mismos son s a las bestias
+- Cnt_2:9mi amado es s al corzo, o al cervatilloH1819
+- Cnt_2:17s al corzo, o como el cervatillo sobreH1819
+- Cnt_7:7estatura es s a la palmera, y tus pechosH1819
+- Cnt_8:14sé s al corzo, o al cervatillo, sobreH1819
+- Isa_1:9como Sodoma fuéramos, y s a GomorraH1819
+- Isa_14:14las nubes subiré, y seré s al AltísimoH1819
+- Isa_21:16de aquí a un año, s a años de jornalero
+- Isa_40:18¿a qué, pues, haréis s a Dios, o quéH1819
+- Isa_40:25¿a qué...me haréis s o me compararéisH1819
+- Isa_46:5¿a quién...comparáis, para que seamos sH1819
+- Isa_46:9y no hay otro Dios, y nada hay s a míH3644
+- Isa_66:8¿quién oyó cosa s? ¿quién vio tal cosa?[[H2063]]
+- Jer_2:10y ved si se ha hecho cosa s a estaH2063
+- Jer_10:6no hay s a ti, oh Jehová; grande eresH3644
+- Jer_10:7y en todos sus reinos, no hay s a tiH3644
+- Jer_18:13preguntad ahora...quien ha oído cosa sH1330
+- Jer_30:7grande es aquel día...no hay otro s a élH3644
+- Jer_36:32fueron añadidas...muchas otras palabras sH1992
+- Jer_49:19; Jer_50:44es s a mí, quién me emplazará?[[H3644]]
+- Lam_2:13a quién te haré s, hija de Jerusalén?[[H1819]]
+- Eze_1:16su obra era s al color del crisólito
+- Eze_5:9jamás haré cosa s...a causa de todas tusH3644
+- Eze_16:16cosa s nunca había sucedido, ni sucederá
+- Eze_16:31no fuiste s a ramera, en que...la paga
+- Eze_31:8las hayas no fueron s a sus ramas, ni losH1819
+- Eze_31:8ni los castaños fueron s a su ramajeH1819
+- Eze_31:8ningún árbol...fue s a él en su hermosuraH1819
+- Eze_32:2a leoncillo de naciones eres s, y eres
+- Eze_42:11y el corredor...era s al de las cámaras
+- Dan_1:10de los muchachos que son s a vosotros
+- Dan_2:10ni señor preguntó cosa s a ningún magoH1836
+- Dan_3:25el aspecto del...es s a hijo de los diosesH1821
+- Dan_5:21su mente se hizo s a la de las bestiasH5974
+- Dan_7:5he aquí otra segunda bestia, s a un osoH1821
+- Dan_7:6y he aquí otra, s a un leopardo
+- Dan_9:12nunca fue hecho...nada s a lo que se ha
+- Ose_7:6aplicaron su corazón, s a un horno
+- Ose_9:13Efraín...es s a Tiro, situado en lugar
+- Joe_2:2s a él no lo hubo jamás, ni después deH3644
+- Mat_6:8no os hagáis, pues, s a ellos; porqueG3666
+- Mat_9:33decía: Nunca se ha visto cosa s en Israel
+- Mat_11:16es s a los muchachos que se sientan enG3664
+- Mat_13:24el reino...es s a un hombre que sembróG3666
+- Mat_13:31el reino de los cielos es s al grano deG3666
+- Mat_13:33el reino...es s a la levadura que tomóG3666
+- Mat_13:44el reino de...es s a un tesoro escondidoG3666
+- Mat_13:45el reino...es s a un mercader que buscaG3666
+- Mat_13:47el reino...es s a una red, que echada enG3666
+- Mat_13:52todo escriba docto...es s a un padre deG3666
+- Mat_18:23el reino de los cielos es s a un rey queG3666
+- Mat_20:1el reino de...es s a un hombre, padre deG3666
+- Mat_22:2el reino...es s a un rey que hizo fiestaG3666
+- Mat_22:39el segundo es s: Amarás a tu prójimoG3666
+- Mat_23:27porque sois s a sepulcros blanqueadosG3945
+- Mat_25:1el reino de...será s a diez vírgenes queG3666
+- Mar_4:30¿a qué haremos s el reino de Dios, oG3666
+- Mar_7:8aferráis...y hacéis otras muchas cosas sG3666
+- Mar_7:13la tradición...Y muchas cosas hacéis sG3666
+- Mar_12:31el segundo es s: Amarás a tu prójimoG3666
+- Mar_14:70tu manera de hablar es s a la de ellosG3662
+- Luc_6:47y las hace, os indicaré a quién es sG3666
+- Luc_6:48s es al hombre que al edificar una casaG3666
+- Luc_6:49s es al hombre que edificó su casa sobreG3666
+- Luc_7:31compararé los hombres de...a qué son s?[[G3666]]
+- Luc_7:32s son a...muchachos sentados en la plazaG3666
+- Luc_12:36sed s a hombres que aguardan a que suG3666
+- Luc_13:18¿a qué es s el reino de Dios, y con quéG3666
+- Luc_13:19es s al grano de mostaza, que un hombreG3666
+- Luc_13:21es s a la levadura, que una mujer tomóG3666
+- Luc_16:8más sagaces en el trato con sus s queG3666
+- Hec_10:11que descendía algo s a un gran lienzoG3666
+- Hec_11:5vi...algo s a un gran lienzo que descendíaG3666
+- Hec_14:15nosotros...somos hombres s a vosotrosG3666
+- Hec_17:29que la Divinidad sea s a oro, o plataG3666
+- Hec_25:20dudando en cuestión s, le pregunté siG3666
+- Rom_9:29como Sodoma...y a Gomorra seríamos sG3666
+- 1Co_7:15sujeto a servidumbre en s casoG5108
+- 2Co_11:12a fin...sean hallados s a nosotrosG3666
+- Gál_5:21borracheras, orgías, y cosas sG3664
+- Efe_5:27no tuviese mancha ni arruga ni cosa sG5108
+- Flp_2:7forma de siervo, hecho s a los hombresG3667
+- Flp_3:10llegando a ser s a él en su muerteG3666
+- Flp_3:21para que sea s al cuerpo de la gloria suyaG4832
+- Heb_2:17debía ser en todo s a sus hermanosG3666
+- Heb_4:11para que ninguno caiga en s ejemplo deG3666
+- Heb_7:3sino hecho s al Hijo de Dios, permaneceG3666
+- Heb_10:33de los que estaban en una situación sG3666
+- Stg_1:6porque el que duda es s a la onda delG3666
+- Stg_1:23éste es s al hombre que considera en unG3666
+- Stg_4:16os jactáis en...Toda jactancia s es malaG3666
+- Stg_5:17Elías era hombre sujeto a pasiones s aG3666
+- 1Jn_3:2seremos s a él, porque le veremos talG3666
+- Rev_1:13en medio...a uno s al Hijo del HombreG3666
+- Rev_1:15sus pies s al bronce bruñido, refulgenteG3666
+- Rev_2:18tiene...y pies s al bronce bruñido, diceG3666
+- Rev_4:3era s a piedra de jaspe y de cornalinaG3666
+- Rev_4:3un arco iris, s en aspecto a la esmeraldaG3666
+- Rev_4:6había como un mar de vidrio s al cristalG3666
+- Rev_4:7el primer ser viviente era s a un leónG3666
+- Rev_4:7el segundo era s a un becerro; el terceroG3666
+- Rev_4:7y el cuarto era s a un águila volandoG3666
+- Rev_9:7aspecto de las langostas era s a caballosG3666
+- Rev_9:19colas, s a serpientes, tenían cabezasG3666
+- Rev_11:1fue dada una caña s a una vara de medirG3666
+- Rev_13:2y la bestia que vi era s a un leopardoG3666
+- Rev_13:11tenía dos cuernos s a los de un corderoG3666
+- Rev_14:14y sobre la nube uno sentado s al HijoG3666
+- Rev_18:18¿qué ciudad era s a esta gran ciudad?[[G3666]]
+- Rev_21:11s al de una piedra preciosísima, comoG3666
+- Rev_21:18la ciudad era de oro puro, s al vidrioG3666

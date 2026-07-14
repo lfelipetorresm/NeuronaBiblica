@@ -1,0 +1,81 @@
+---
+tipo: concordancia
+palabra: TREINTA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TREINTA
+
+- Véase Treinta mil, Treinta y dos, etc.
+- Gén_6:15harás...arca...y de t codos su alturaH7970
+- Gén_11:14Sala vivió t años, y engendró a HeberH7970
+- Gén_11:18Peleg vivió t años, y engendró a ReuH7970
+- Gén_11:22Serug vivió t años, y engendró a NacorH7970
+- Gén_18:30quizá se hallarán allí t. Y respondióH7970
+- Gén_18:30respondió: No lo haré si hallare allí tH7970
+- Gén_32:15t camellas paridas con sus crías, 40H7970
+- Gén_41:46era José de edad de t años cuando fueH7970
+- Éxo_21:32pagará su dueño t siclos de plata, yH7970
+- Éxo_26:8la longitud de cada cortina...de t codosH7970
+- Éxo_36:15longitud de una cortina era de t codosH7970
+- Lev_27:4fuere mujer, la estimarás en t siclosH7970
+- Núm_4:3, Núm_4:23, Núm_4:30, Núm_4:35, Núm_4:39, Núm_4:43, Núm_4:47t años arriba hasta 50H7970
+- Núm_20:29le hicieron duelo por t días todas lasH7970
+- Deu_34:8lloraron...Israel a Moisés en...t díasH7970
+- Jue_10:4t hijos, que cabalgaban sobre t asnosH7970
+- Jue_10:4y tenían t ciudades, que se llaman lasH7970
+- Jue_12:9tuvo t hijos y t hijas, las cuales casóH7970
+- Jue_12:9y tomó de fuera t hijas para sus hijosH7970
+- Jue_12:14hijos y t nietos, que cabalgaban sobreH7970
+- Jue_14:11ellos le vieron, tomaron t compañerosH7970
+- Jue_14:12daré t vestidos de lino y t...de fiestaH7970
+- Jue_14:13me daréis a mí los t vestidos de linoH7970
+- Jue_14:19descendió...y mató a t hombres de ellosH7970
+- Jue_20:31herir...y mataron unos t hombres de IsraelH7970
+- Jue_20:39y matar a la gente de Israel...t hombresH7970
+- 1Sa_9:22convidados, que eran unos t hombresH7970
+- 2Sa_5:4era David de t años cuando comenzó aH7970
+- 2Sa_23:13y tres de los t jefes descendieron yH7970
+- 2Sa_23:18Abisal hermano...el principal de los tH7992
+- 2Sa_23:19era el más renombrado de los t, y llegóH7969
+- 2Sa_23:23renombrado entre los t, pero no igualóH7969
+- 2Sa_23:24Asael hermano de Joab fue de los tH7970
+- 1Re_4:22la provisión...de t coros de...harinaH7970
+- 1Re_6:2tenía sesenta codos...y t codos de altoH7970
+- 1Re_7:2t codos de altura, sobre cuatro hilerasH7970
+- 1Re_7:6un pórtico...que tenía...t codos de anchoH7970
+- 1Re_7:23un mar...lo ceñía...un cordón de t codosH7970
+- 2Re_18:14impuso a Ezequías rey...t talentosH7970
+- 1Cr_11:11Jasobeam hijo...caudillo de los tH7970
+- 1Cr_11:15tres de los t...descendieron a la peñaH7970
+- 1Cr_11:20Abisal, hermano de...era jefe de los tH7969
+- 1Cr_11:21el más ilustre de los t, y fue el jefeH7969
+- 1Cr_11:25fue el más distinguido de los t, peroH7970
+- 1Cr_11:42Adina hijo...los rubenitas, y con él tH7970
+- 1Cr_12:4valiente entre los t, y más que los tH7970
+- 1Cr_12:18vino sobre Amasa¡, jefe de los t, y dijoH7970
+- 1Cr_23:3fueron contados los levitas de t añosH7970
+- 1Cr_27:6era valiente entre los t y sobre los tH7970
+- 2Cr_4:2cordón de t codos de largo lo ceñiaH7970
+- Esd_1:9y esta es la cuenta...t tazones de oroH7970
+- Esd_1:10t tazas de oro...410 tazas de plata, yH7970
+- Est_4:11yo no he sido llamada...estos t díasH7970
+- Jer_38:10toma en tu poder t hombres de aquíH7970
+- Eze_1:1en el año t, en el mes cuarto, a losH7970
+- Eze_40:17t cámaras había alrededor...aquel atrioH7970
+- Eze_41:6otras, t en cada uno de los tres pisosH7970
+- Eze_46:22había patios cercados, de...t de anchoH7970
+- Dan_6:7el espacio de t días demande peticiónH8533
+- Dan_6:12cualquiera que en el espacio de t díasH8533
+- Zac_11:12pesaron por mi salarlo t piezas deH7970
+- Zac_11:13tomé las t piezas de plata, y las echéH7970
+- Mat_13:8ciento, cuál a sesenta, y cuál a t porG5144
+- Mat_13:23y produce a...a sesenta, y a t por unoG5144
+- Mat_26:15y ellos le asignaron t piezas de plataG5144
+- Mat_27:3devolvió...las t piezas de plata a losG5144
+- Mat_27:9y tomaron las t piezas de plata, precioG5144
+- Mar_4:8produjo a t, a sesenta, y a ciento porG5144
+- Mar_4:20y dan fruto a t, a sesenta, y a cientoG5144
+- Luc_3:23Jesús mismo...era como de t años, hijoG5144
+- Jua_6:19habían remado como 25 o t estadiosG5144

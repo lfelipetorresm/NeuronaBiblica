@@ -1,0 +1,256 @@
+---
+tipo: concordancia
+palabra: FE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FE
+
+- Núm_35:30un solo testigo no hará f contra unaH6030
+- Isa_57:11que has faltado a la f, y no te hasH3576
+- Hab_2:4he aquí mas el justo por su f viviráH530
+- Mat_6:30¿no hará mucho...hombres de poca f?[[G3640]]
+- Mat_8:10que ni aun en Israel he hallado tanta fG4102
+- Mat_8:26¿por qué teméis, hombres de poca f?[[G3640]]
+- Mat_9:2y al ver Jesús la f de ellos, dijo alG4102
+- Mat_9:22dijo: Ten ánimo, hija; tu f te ha salvadoG4102
+- Mat_9:29diciendo: Conforme a vuestra f os seaG4102
+- Mat_14:31le dijo: ¡Hombre de poca f! ¿Por quéG3640
+- Mat_15:28mujer, grande es tu f; hágase contigoG4102
+- Mat_16:8¿por qué pensáis...hombres de poca f, queG3640
+- Mat_17:20por vuestra poca f...que si tuviereis fG570, [[G4102]]
+- Mat_21:21si tuviereis f, y no dudareis, no sóloG4102
+- Mat_23:23dejáis lo más...la misericordia y la fG4102
+- Mar_2:5al ver Jesús la f...dijo al paralíticoG4102
+- Mar_4:40así amedrentados? ¿Cómo no tenéis f?[[G4102]]
+- Mar_5:34hija, tu f te ha hecho salva; vé en pazG4102
+- Mar_10:52dijo: Vete, tu f te ha salvado. Y enG4102
+- Mar_11:22respondiendo...dijo: Tened f en DiosG4102
+- Luc_5:20ver él la f de ellos, le dijo: HombreG4102
+- Luc_7:9que ni aun en Israel he hallado tanta fG4102
+- Luc_7:50la mujer: Tu f te ha salvado, vé en pazG4102
+- Luc_8:25y les dijo: ¿Dónde está vuestra f?[[G4102]]
+- Luc_8:48dijo: Hija, tu f te ha salvado; vé enG4102
+- Luc_12:28más a vosotros, hombres de poca f?[[G3640]]
+- Luc_17:5dijeron los...al Señor: Auméntanos la fG4102
+- Luc_17:6si tuvierais f como un grano de mostazaG4102
+- Luc_17:19levántate, vete; tu f te ha salvadoG4102
+- Luc_18:8cuando venga...¿hallará f en la tierra?[[G4102]]
+- Luc_18:42le dijo: Recíbela, tu f te ha salvadoG4102
+- Luc_22:32yo he rogado por ti, que tu f no falteG4102
+- Hec_3:16por la f en su nombre, a éste, queG4102
+- Hec_3:16la f que es por él ha dado a éste estaG4102
+- Hec_6:5eligieron a Esteban, varón lleno de f yG4102
+- Hec_11:24era varón bueno, y lleno del...y de fG4102
+- Hec_13:8procurando apartar de la f al procónsulG4102
+- Hec_14:9y viendo que tenía f para ser sanadoG4102
+- Hec_14:22exhortándoles a que permaneciesen...la fG4102
+- Hec_14:27había abierto la puerta de la f a losG4102
+- Hec_15:9ellos, purificando por la f sus corazonesG4102
+- Hec_16:5las iglesias eran confirmadas en la fG4102
+- Hec_17:31dando f a todos con haberle levantadoG4102
+- Hec_20:21testificando...de la f en nuestro SeñorG4102
+- Hec_24:24viniendo Félix...le oyó acerca de la fG4102
+- Hec_26:18para que reciban, por la f que es enG4102
+- Rom_1:5para la obediencia a la f en todas lasG4102
+- Rom_1:8vuestra f se divulga por todo el mundoG4102
+- Rom_1:12confortados por la f que nos es comúnG4102
+- Rom_1:17la justicia, se revela por f y paraG4102
+- Rom_1:17escrito: Mas el justo por la f viviráG4102
+- Rom_3:22justicia de Dios por medio de la f enG4102
+- Rom_3:25como propiciación por medio de la f enG4102
+- Rom_3:26y el que justifica al que es de la f deG4102
+- Rom_3:27las obras? No, sino por la ley de la fG4102
+- Rom_3:28el hombre es justificado por f sin lasG4102
+- Rom_3:30por la f a...y por medio de la f a losG4102
+- Rom_3:31¿luego por la f invalidamos la ley?[[G4102]]
+- Rom_4:5cree en...su f le es contada por justiciaG4102
+- Rom_4:9que a Abraham le fue...la f por justiciaG4102
+- Rom_4:11sello de la justicia de la f que tuvoG4102
+- Rom_4:11a fin de que...la f les sea contada por
+- Rom_4:12pisadas de la f que tuvo nuestro padreG4102
+- Rom_4:13no por la ley...por la justicia de la fG4102
+- Rom_4:14vana resulta la f, y anulada la promesaG4102
+- Rom_4:16por f, para que sea por gracia, a fin deG4102
+- Rom_4:16la que es de la f de Abraham, el cual esG4102
+- Rom_4:19y no se debilitó en la f al considerarG4102
+- Rom_4:20se fortaleció en f, dando gloria a DiosG4102
+- Rom_4:22por lo cual también su f le fue contada
+- Rom_5:1justificados...por la f, tenemos paz paraG4102
+- Rom_5:2tenemos entrada por la f a esta gracia enG4102
+- Rom_9:30es decir, la justicia que es por fG4102
+- Rom_9:32iban tras ella no por f, sino como porG4102
+- Rom_10:6la justicia que es por la f dice así: NoG4102
+- Rom_10:8esta es la palabra de f que predicamosG4102
+- Rom_10:17así que la f es por el oír, y el oírG4102
+- Rom_11:20bien...pero tú por la f estás en pieG4102
+- Rom_12:3la medida de f que Dios repartió a cadaG4102
+- Rom_12:6si...úsese conforme a la medida de la fG4102
+- Rom_14:1recibid al débil en la f, pero no paraG4102
+- Rom_14:22¿tienes tú f? Tenla para contigo delanteG4102
+- Rom_14:23es condenado, porque no lo hace con fG4102
+- Rom_14:23todo lo que no proviene de f, es pecadoG4102
+- Rom_16:26a conocer...para que obedezcan a la fG4102
+- 1Co_2:5que vuestra f no esté fundada en laG4102
+- 1Co_12:9otro, f por el mismo Espíritu; y a otroG4102
+- 1Co_13:2y si tuviese toda la f, de tal maneraG4102
+- 1Co_13:13ahora permanecen la f, la esperanza yG4102
+- 1Co_15:14y si Cristo no resucitó...vana esG4102
+- 1Co_15:17si Cristo no resucitó, vuestra f esG4102
+- 1Co_16:13velad, estad firmes en la f; portaosG4102
+- 2Co_1:24que nos enseñoreemos de vuestra fG4102
+- 2Co_1:24gozo; porque por la f estáis firmesG4102
+- 2Co_4:13pero teniendo el mismo espíritu de fG4102
+- 2Co_5:7porque por f andamos, no por vistaG4102
+- 2Co_8:7abundáis, en f, en palabra, en cienciaG4102
+- 2Co_10:15conforme crezca vuestra f seremos muyG4102
+- 2Co_13:5examinaos a vosotros mismos...en la fG4102
+- Gál_1:23nos perseguía, ahora predica la f queG4102
+- Gál_2:16no es justificado por las...sino por la fG4102
+- Gál_2:16para ser justificados por la f de CristoG4102
+- Gál_2:20vivo en la f del hijo de Dios, el cualG4102
+- Gál_3:2, Gál_3:5obras de la ley, o por el oír con f?[[G4102]]
+- Gál_3:7sabed...que los que son de f, éstos sonG4102
+- Gál_3:8que Dios había de justificar por la f aG4102
+- Gál_3:9los de la f son bendecidos con...AbrahamG4102
+- Gál_3:11es evidente...El justo por la f viviráG4102
+- Gál_3:12y la ley no es de f, sino que dice: ElG4102
+- Gál_3:14de que por la f recibiésemos la promesaG4102
+- Gál_3:22la promesa que es por la f en JesucristoG4102
+- Gál_3:23pero antes que viniese la f, estábamosG4102
+- Gál_3:23bajo la ley, encerrados para aquella fG4102
+- Gál_3:24de que fuésemos justificados por la fG4102
+- Gál_3:25pero venida la f, ya no estamos bajo ayoG4102
+- Gál_3:26pues todos sois hijos de Dios por la fG4102
+- Gál_5:5aguardamos por f la esperanza de laG4102
+- Gál_5:6vale algo...sino la f que obra por el amorG4102
+- Gál_5:22paz, paciencia, benignidad, bondad, fG4102
+- Gál_6:10mayormente a los de la familia de la fG4102
+- Efe_1:15yo, habiendo oído de vuestra f en elG4102
+- Efe_2:8por gracia sois salvos por medio de la fG4102
+- Efe_3:12acceso con confianza por medio de la fG4102
+- Efe_3:17que habite Cristo por la f en...corazonesG4102
+- Efe_4:5un Señor, una f, un bautismoG4102
+- Efe_4:13que todos lleguemos a la unidad de la fG4102
+- Efe_6:16escudo de la f, con que podáis apagarG4102
+- Efe_6:23amor con f, de Dios Padre y del SeñorG4102
+- Flp_1:25quedaré...para vuestro...gozo de la fG4102
+- Flp_1:27combatiendo...por la f del evangelioG4102
+- Flp_2:17derramado en libación sobre...vuestra fG4102
+- Flp_3:9sino la que es por la f de Cristo, laG4102
+- Flp_3:9la justicia que es de Dios por la fG4102
+- Col_1:4habiendo oído de vuestra f en CristoG4102
+- Col_1:23en verdad permanecéis...firmes en la fG4102
+- Col_2:5mirando...firmeza de vuestra f en CristoG4102
+- Col_2:7y confirmados en la f, así como habéisG4102
+- Col_2:12mediante la f en el poder de Dios queG4102
+- 1Ts_1:3acordándonos...la obra de vuestra fG4102
+- 1Ts_1:8lugar vuestra f en Dios se ha extendidoG4102
+- 1Ts_3:2para...y exhortaros respecto a vuestra fG4102
+- 1Ts_3:5envié para informarme de vuestra f, noG4102
+- 1Ts_3:6y nos dio buenas noticias de vuestra fG4102
+- 1Ts_3:7consolados de...por medio de vuestra fG4102
+- 1Ts_3:10completemos lo que falte a vuestra f?[[G4102]]
+- 1Ts_5:8vestido con la coraza de f y de amor, yG4102
+- 2Ts_1:3por cuanto vuestra f va creciendoG4102
+- 2Ts_1:4nos gloriamos...por vuestra...f en todasG4102
+- 2Ts_1:11de bondad y toda obra de f con su poderG4102
+- 2Ts_2:13la santificación...y la f en la verdadG4102
+- 2Ts_3:2librados de...porque no es de todos la fG4102
+- 1Ti_1:2a Timoteo, verdadero hijo en la fG4102
+- 1Ti_1:4bien que edificación de Dios que es por fG4102
+- 1Ti_1:5nacido de...y de buena conciencia, y de fG4102
+- 1Ti_1:14fue más abundante con la f y el amor queG4102
+- 1Ti_1:19manteniendo la f y buena concienciaG4102
+- 1Ti_1:19naufragaron en cuanto a la f algunosG4102
+- 1Ti_2:7maestro de los gentiles en f y verdadG4102
+- 1Ti_2:15se salvará...si permaneciere en f, amorG4102
+- 1Ti_3:9guarden el misterio de la f con limpiaG4102
+- 1Ti_3:13confianza en la f que es en Cristo JesúsG4102
+- 1Ti_4:1algunos apostatarán de la f, escuchando aG4102
+- 1Ti_4:6nutrido con las palabras de la f y de laG4102
+- 1Ti_4:12sino sé ejemplo de los creyentes en...fG4102
+- 1Ti_5:8si alguno no provee para...ha negado la fG4102
+- 1Ti_5:12así...por haber quebrantado su primera fG4102
+- 1Ti_6:10cual codiciando...se extraviaron de la fG4102
+- 1Ti_6:11y sigue la...la f, el amor, la pacienciaG4102
+- 1Ti_6:12pelea la buena batalla de la f, echaG4102
+- 1Ti_6:21cual profesando...se desviaron de la fG4102
+- 2Ti_1:5trayendo a la memoria la f no fingidaG4102
+- 2Ti_1:13en la f y amor que es en Cristo JesúsG4102
+- 2Ti_2:18desviaron...y trastornan la f de algunosG4102
+- 2Ti_2:22sigue la justicia, la f, el amor y laG4102
+- 2Ti_3:8corruptos de...réprobos en cuanto a la fG4102
+- 2Ti_3:10tú has seguido mi doctrina, conducta...fG4102
+- 2Ti_3:15hacer sabio para la salvación por la fG4102
+- 2Ti_4:7he acabado la carrera, he guardado la fG4102
+- Tit_1:1conforme la f de los escogidos deG4102
+- Tit_1:4a Tito, verdadero hijo en la común fG4102
+- Tit_1:13repréndelos...para que sean sanos en la fG4102
+- Tit_2:2sean...prudentes, sanos en la f, en el amorG4102
+- Tit_3:15saluda a los que nos aman en la fG4102
+- Flm_1:5oigo del amor y de la f que tienes haciaG4102
+- Flm_1:6que la participación de tu f sea eficaz enG4102
+- Heb_4:2por no ir acompañada de f en los queG4102
+- Heb_6:1echando otra vez el fundamento...de la fG4102
+- Heb_6:12de aquellos que por la f...heredan lasG4102
+- Heb_10:22en plena certidumbre de f, purificadosG4102
+- Heb_10:38justo vivirá por f; y si retrocediereG4102
+- Heb_10:39que tienen f para preservación del almaG4102
+- Heb_11:1es, pues, la f la certeza de lo que seG4102
+- Heb_11:3la f entendemos haber sido constituidoG4102
+- Heb_11:4la f Abel ofreció a Dios más excelenteG4102
+- Heb_11:5por la f Enoc fue traspuesto para no verG4102
+- Heb_11:6pero sin f es imposible agradar a DiosG4102
+- Heb_11:7por la f Noé, cuando fue advertido porG4102
+- Heb_11:7por esa f condenó al mundo, y fue hecho
+- Heb_11:7heredero de la justicia que...por la fG4102
+- Heb_11:8la f Abraham, siendo llamado, obedecióG4102
+- Heb_11:9por la f habitó como extranjero en laG4102
+- Heb_11:11por la f también la misma Sara, siendoG4102
+- Heb_11:13conforme a la f murieron todos éstosG4102
+- Heb_11:17por la f Abraham, cuando fue probadoG4102
+- Heb_11:20por la f bendijo Isaac a Jacob y a EsaúG4102
+- Heb_11:21por la f Jacob, al morir, bendijo a cadaG4102
+- Heb_11:22por la f José, al morir, mencionó laG4102
+- Heb_11:23por la f Moisés: cuándo nació, fueG4102
+- Heb_11:24la f Moisés, hecho ya grande, rehusóG4102
+- Heb_11:27por la f dejó a Egipto, no temiendo laG4102
+- Heb_11:28por la f celebró la pascua...para que elG4102
+- Heb_11:29por la f pasaron el Mar Rojo como porG4102
+- Heb_11:30por la f cayeron los muros de JericóG4102
+- Heb_11:31por la f Rahab la ramera no perecióG4102
+- Heb_11:33por f conquistaron reinos, hicieronG4102
+- Heb_11:39aunque alcanzaron buen testimonio...laG4102
+- Heb_12:2en Jesús, el autor y consumador de la fG4102
+- Heb_13:7haya sido el resultado...e imitad su fG4102
+- Stg_1:3que la prueba de...f produce pacienciaG4102
+- Stg_1:6pero pida con f, no dudando nada; porqueG4102
+- Stg_2:1que vuestra f en nuestro glorioso SeñorG4102
+- Stg_2:5que sean ricos en f y herederos del reinoG4102
+- Stg_2:14si alguno dice que tiene f, y no tieneG4102
+- Stg_2:14no tiene obras? ¿Podrá la f salvarle?[[G4102]]
+- Stg_2:17la f, si no tiene obras, es muerta enG4102
+- Stg_2:18dirá: Tú tienes f, y yo tengo obrasG4102
+- Stg_2:18tu f sin tus obras...mi f por mis obrasG4102
+- Stg_2:20vano, que la f sin obras es muerta?[[G4102]]
+- Stg_2:22¿no ves que la f actuó...con sus obrasG4102
+- Stg_2:22que la f se perfeccionó por las obras?[[G4102]]
+- Stg_2:24por las obras, y no solamente por la fG4102
+- Stg_2:26así también la f sin obras está muertaG4102
+- Stg_5:15la oración de f salvará al enfermo, yG4102
+- 1Pe_1:5por el poder de Dios mediante la fG4102
+- 1Pe_1:7sometida a prueba vuestra f, mucho másG4102
+- 1Pe_1:9obteniendo el fin de vuestra f, que esG4102
+- 1Pe_1:21que vuestra f y esperanza sean en DiosG4102
+- 1Pe_5:9al cual resistid firmes en la f, sabiendoG4102
+- 2Pe_1:1f igualmente preciosa que la nuestraG4102
+- 2Pe_1:5añadid a vuestra f virtud; a la virtudG4102
+- 1Jn_5:4esta es la victoria que...nuestra fG4102
+- Jud_1:3contendáis ardientemente por la f queG4102
+- Jud_1:20edificándoos sobre vuestra santísima fG4102
+- Rev_2:13pero retienes mi...y no has negado mi fG4102
+- Rev_2:19yo conozco tus obras...y f, y servicioG4102
+- Rev_13:10está la paciencia y la f de los santosG4102
+- Rev_14:12los que guardan los...y la f de JesúsG4102

@@ -1,0 +1,228 @@
+---
+tipo: concordancia
+palabra: COMENZAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# COMENZAR
+
+- Gén_4:26entonces los hombres comenzaron aH2490
+- Gén_6:1aconteció que cuando comenzaron losH2490
+- Gén_9:20después comenzó Noé a labrar laH2490
+- Gén_11:6y han comenzado la obra, y nada lesH2490
+- Gén_18:27he aquí ahora que he comenzado a
+- Gén_41:54y comenzaron a venir los siete años delH2490
+- Gén_44:12desde el mayor comenzó y acabó en elH2490
+- Lev_21:9si comenzare a fornicar, a su padre
+- Lev_23:32comenzando a los nueve días del mes en
+- Núm_10:14de los hijos de Judá comenzó a
+- Núm_10:18luego comenzó a marchar la bandera del
+- Núm_10:21luego comenzaron a marchar los coatitas
+- Núm_10:22después comenzó a marchar la bandera
+- Núm_10:25luego comenzó a marchar la bandera del
+- Núm_15:19cuando comencéis a comer del pan de la
+- Núm_16:46de Jehová; la mortandad ha comenzadoH2450
+- Núm_16:47que la mortandad había comenzado enH2450
+- Deu_2:25hoy comenzaré a poner tu temor y tuH2450
+- Deu_2:31he aquí yo he comenzado a entregarH2450
+- Deu_3:24tú has comenzado a mostrar a tu siervoH2450
+- Deu_16:9meterse la hoz en las mieses comenzarásH2450
+- Deu_16:9desde que comenzare a meterse la hoz enH2450
+- Jos_3:7desde este día comenzaré aH2450
+- Jos_5:12desde que comenzaron a comer del fruto
+- Jue_10:18quién comenzará la batalla contra losH2450
+- Jue_13:5y él comenzará a salvar a Israel deH2450
+- Jue_13:25y el Espíritu de Jehová comenzó aH2450
+- Jue_16:19y ella comenzó a afligirlo, pues suH2450
+- Jue_16:22y el cabello de su cabeza comenzó aH2450
+- Jue_20:31y comenzaron a herir a algunos delH2450
+- Jue_20:39los de Benjamín comenzaron a herir yH2450
+- Jue_20:40cuando la columna de humo comenzó aH2450
+- Rut_1:7y comenzaron a caminar para volverse a
+- 1Sa_3:2cuando sus ojos comenzaban a oscurecerseH2450
+- 1Sa_22:15he comenzado yo desde hoy a consultarH2450
+- 2Sa_2:10hijo de Saúl cuando comenzó a
+- 2Sa_5:4de treinta años cuando comenzó a
+- 2Sa_11:20si el rey comenzare a enojarse, y te
+- 2Sa_21:9al comenzar la siega de la cebadaH8462
+- 1Re_6:1comenzó él a edificar la casa de
+- 1Re_14:21era Roboam cuando comenzó a reinar
+- 1Re_15:1Abiam comenzó a reinar sobre Judá
+- 1Re_15:9Asa comenzó a reinar sobre Judá
+- 1Re_15:25Nadab hijo de Jeroboam comenzó a
+- 1Re_15:33comenzó a reinar Baasa hijo de Ahías
+- 1Re_16:8de Asa rey de Judá comenzó a reinar
+- 1Re_16:15comenzó a reinar Zimri, y reinó
+- 1Re_16:23comenzó a reinar Omri sobre Israel, y
+- 1Re_16:29comenzó a reinar Acab hijo de Omri
+- 1Re_20:14quién comenzará la batalla? Y élH631
+- 1Re_22:41Josafat hijo de Asa comenzó a reinar
+- 1Re_22:42treinta y cinco años cuando comenzó
+- 1Re_22:51Ocozías hijo de Acab comenzó a reinar
+- 2Re_3:1Joram hijo de Acab comenzó a reinar en
+- 2Re_8:16comenzó a reinar Joram hijo de
+- 2Re_8:17y dos años era cuando comenzó a reinar
+- 2Re_8:25comenzó a reinar Ocozías hijo de
+- 2Re_8:26años era Ocozías cuando comenzó a
+- 2Re_9:29comenzó a reinar Ocozías sobre
+- 2Re_10:32en aquellos días comenzó Jehová aH2490
+- 2Re_11:21Joás de siete años cuando comenzó
+- 2Re_12:1en el séptimo año de Jehú comenzó
+- 2Re_13:1comenzó a reinar Joacaz hijo de Jehú
+- 2Re_13:10comenzó a reinar Joás hijo de Joacaz
+- 2Re_14:1comenzó a reinar Amasías hijo de
+- 2Re_14:2cuando comenzó a reinar era de
+- 2Re_14:23comenzó a reinar Jeroboam hijo de
+- 2Re_15:1comenzó a reinar Azarías hijo de
+- 2Re_15:2cuando comenzó a reinar era de
+- 2Re_15:13Salum hijo de Jabes comenzó a reinar
+- 2Re_15:32comenzó a reinar Jotam hijo de Uzías
+- 2Re_15:33cuando comenzó a reinar era de
+- 2Re_15:37en aquel tiempo comenzó Jehová aH2450
+- 2Re_16:1comenzó a reinar Acaz hijo de Jotam
+- 2Re_16:2cuando comenzó a reinar Acaz era de
+- 2Re_17:1comenzó a reinar Oseas hijo de Ela en
+- 2Re_17:25aconteció...cuando comenzaron a habitarH8462
+- 2Re_18:1comenzó a reinar Ezequías hijo de
+- 2Re_18:2cuando comenzó a reinar era de
+- 2Re_21:1años era Manasés cuando comenzó a
+- 2Re_21:19años era Amón cuando comenzó a
+- 2Re_22:1cuando Josías comenzó a reinar era de
+- 2Re_23:31años era Joacaz cuando comenzó a
+- 2Re_23:36años era Joacim cuando comenzó a
+- 2Re_24:8años era Joaquín cuando comenzó a
+- 2Re_24:18años era Sedequías cuando comenzó
+- 1Cr_16:7David comenzó a aclamar a Jehová porH7218
+- 1Cr_27:24Joab hijo de Sarvia había comenzado aH2490
+- 2Cr_3:1comenzó Salomón a edificar la casa deH2490
+- 2Cr_3:2y comenzó a edificar en el mesH2490
+- 2Cr_12:13cuarenta y un años cuando comenzó a
+- 2Cr_20:22y cuando comenzaron a entonar cantos deH2490
+- 2Cr_20:31y cinco años era cuando comenzó a reinar
+- 2Cr_21:5cuando comenzó a reinar era de treinta
+- 2Cr_21:20cuando comenzó a reinar era de treinta
+- 2Cr_22:2cuando Ocozías comenzó a reinar era
+- 2Cr_24:1siete años era Joás cuando comenzó
+- 2Cr_25:1años era Amasías cuando comenzó a
+- 2Cr_26:3años era Uzías cuando comenzó a
+- 2Cr_27:1años era Jotam cuando comenzó a
+- 2Cr_27:8cuando comenzó a reinar era de
+- 2Cr_28:1veinte años era Acaz cuando comenzó
+- 2Cr_29:1comenzó a reinar Ezequías siendo de
+- 2Cr_29:17comenzaron a santificarse el día primeroH2490
+- 2Cr_29:27y cuando comenzó el holocaustoH2490
+- 2Cr_29:27comenzó también el cántico deH2490
+- 2Cr_31:7en el mes tercero comenzaron a formarH2490
+- 2Cr_31:10desde que comenzaron a traer lasH2490
+- 2Cr_33:1años era Manasés cuando comenzó a
+- 2Cr_33:21años era Amón cuando comenzó a
+- 2Cr_34:1años era Josías cuando comenzó a
+- 2Cr_34:3comenzó a buscar al Dios de David suH2490
+- 2Cr_34:3y a los doce años comenzó a limpiarH2490
+- 2Cr_36:2años era Joacaz cuando comenzó a
+- 2Cr_36:5cuando comenzó a reinar Joacim era de
+- 2Cr_36:9años era Joaquín cuando comenzó a
+- 2Cr_36:11años era Sedequías cuando comenzó
+- Esd_3:6primer día del mes séptimo comenzaronH2490
+- Esd_3:8comenzaron Zorobabel hijo de SalatielH2490
+- Esd_5:2y comenzaron a reedificar la casa deH8217
+- Neh_4:7porque ya los portillos comenzaban a serH2490
+- Est_6:13delante de quien has comenzado a caerH2490
+- Est_9:23hacer, según habían comenzadoH2490
+- Jer_36:2desde el día que comencé a hablarte
+- Jer_52:1de veintiún años cuando comenzó a
+- Lam_2:19al comenzar las vigilias; Derrama comoH7218
+- Eze_9:6y comenzaréis por mi santuarioH2490
+- Eze_9:6comenzaréis por...Comenzaron...desde los varonesH2490
+- Amó_7:1él criaba langostas cuando comenzabaH8462
+- Jon_3:4y comenzó Jonás a entrar por laH2490
+- Mat_4:17desde entonces comenzó Jesús aG756
+- Mat_11:7comenzó Jesús a decir de Juan a laG756
+- Mat_11:20entonces comenzó a reconvenir a lasG756
+- Mat_12:1y comenzaron a arrancar espigas y aG756
+- Mat_14:30y comenzando a hundirse, dio vocesG756
+- Mat_16:21desde entonces comenzó Jesús aG756
+- Mat_16:22comenzó a reconvenirle, diciendoG756
+- Mat_18:24y comenzando a hacer cuentas, le fueG756
+- Mat_20:8comenzando desde los postreros hasta losG756
+- Mat_24:49y comenzare a golpear a sus consiervosG756
+- Mat_26:22comenzó cada uno de ellos a decirleG756
+- Mat_26:37comenzó a entristecerse y aG756
+- Mat_26:74entonces él comenzó a maldecir, y aG756
+- Mar_1:45comenzó a publicarlo mucho y aG756
+- Mar_2:23comenzaron a arrancar espigasG756
+- Mar_4:1otra vez comenzó Jesús a enseñarG756
+- Mar_5:17y comenzaron a rogarle que se fuera deG756
+- Mar_5:20y comenzó a publicar en DecápolisG756
+- Mar_6:2comenzó a enseñar en la sinagoga; yG756
+- Mar_6:7y comenzó a enviarlos de dos en dosG756
+- Mar_6:34y comenzó a enseñarles muchas cosasG756
+- Mar_6:55comenzaron a traer de todas partesG756
+- Mar_8:11entonces los fariseos y comenzaron aG756
+- Mar_8:31y comenzó a enseñarles que le eraG756
+- Mar_8:32Pedro le tomó aparte y comenzó aG756
+- Mar_10:28entonces Pedro comenzó a decirle: HeG756
+- Mar_10:32les comenzó a decir las cosas que leG756
+- Mar_10:41comenzaron a enojarse contra Jacobo yG756
+- Mar_10:47comenzó a dar voces y a decirG756
+- Mar_11:15comenzó a echar fuera a los queG756
+- Mar_12:1entonces comenzó Jesús a decirles porG756
+- Mar_13:5comenzó a decir: Mirad que nadie osG756
+- Mar_14:19entonces ellos comenzaron aG756
+- Mar_14:33y comenzó a entristecerse y aG756
+- Mar_14:65y algunos comenzaron a escupirle, y aG756
+- Mar_14:69comenzó a decir a los que estabanG756
+- Mar_14:71entonces él comenzó a maldecir, y aG756
+- Mar_15:8comenzó a pedir que hiciese comoG756
+- Mar_15:18comenzaron luego a saludarle: ¡SalveG756
+- Luc_3:8y no comencéis a decir dentro deG756
+- Luc_3:23Jesús mismo al comenzar su ministerioG756
+- Luc_4:21y comenzó a decirles: Hoy se haG756
+- Luc_5:21los escribas y los fariseos comenzaronG756
+- Luc_7:15y comenzó a hablar. Y lo dio a suG756
+- Luc_7:24comenzó a decir de Juan a la genteG756
+- Luc_7:38comenzó a regar con lágrimas susG756
+- Luc_7:49comenzaron a decir entre sí: ¿QuiénG756
+- Luc_9:12Pero el día comenzaba a declinar; yG756
+- Luc_11:29comenzó a decir: Esta generación esG756
+- Luc_11:53los escribas y los fariseos comenzaronG756
+- Luc_12:1comenzó a decir a sus discípulosG756
+- Luc_12:45y comenzare a golpear a los criados y aG756
+- Luc_13:26entonces comenzaréis a decir: Delante deG756
+- Luc_14:18y todos a una comenzaron a excusarse. ElG756
+- Luc_14:30este hombre comenzó a edificar, y noG756
+- Luc_15:14y comenzó a faltarleG756
+- Luc_15:24y comenzaron a regocijarseG756
+- Luc_19:37comenzó a alabar a Dios a grandesG756
+- Luc_19:45comenzó a echar fuera a todos los queG756
+- Luc_20:9comenzó luego a decir al pueblo estaG756
+- Luc_22:23entonces ellos comenzaron a discutirG756
+- Luc_23:2y comenzaron a acusarle, diciendo: AG756
+- Luc_23:5comenzando desde Galilea hasta aquíG756
+- Luc_23:30entonces comenzarán a decir a los montesG756
+- Luc_23:54y estaba para comenzar el día de
+- Luc_24:27y comenzando desde Moisés, y siguiendoG756
+- Luc_24:47comenzando desde JerusalénG756
+- Jua_4:52a qué hora había comenzado a estar mejorG756
+- Jua_8:9comenzando desde los más viejos hastaG756
+- Jua_13:5y comenzó a lavar los pies de losG756
+- Hec_1:1todas las cosas que Jesús comenzó aG756
+- Hec_1:22comenzando desde el bautismo de JuanG756
+- Hec_2:4y comenzaron a hablar en otras lenguasG756
+- Hec_8:35y comenzando desde esta escritura, leG756
+- Hec_10:37comenzando desde Galilea, después delG756
+- Hec_11:4entonces comenzó Pedro a contarles porG756
+- Hec_11:15Y cuando comencé a hablar, cayó elG756
+- Hec_18:14y al comenzar Pablo a hablar, Galión
+- Hec_18:26y comenzó a hablar con denuedo en laG756
+- Hec_21:37cuando comenzaron a meter a Pablo en la
+- Hec_24:2Tértulo comenzó a acusarleG756
+- Hec_26:1comenzó así su defensa
+- Hec_27:33cuando comenzó a amanecer, Pablo
+- Hec_27:35comenzó a comerG756
+- 2Co_3:1comenzamos otra vez a recomendarnos aG756
+- 2Co_8:6a Tito para que tal como comenzóG4278
+- 2Co_8:10que comenzasteis antes, no sólo aG4278
+- Gál_3:3habiendo comenzado por el EspírituG1728
+- Flp_1:6que el que comenzó en vosotros laG1728

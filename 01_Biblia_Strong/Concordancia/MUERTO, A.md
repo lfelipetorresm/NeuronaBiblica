@@ -1,0 +1,353 @@
+---
+tipo: concordancia
+palabra: MUERTO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MUERTO, A
+
+- Véase también Matar, Morir
+- Gén_15:11descendían aves...sobre los cuerpos mH6297
+- Gén_20:3he aquí, m eres, a causa de la mujer queH4191
+- Gén_23:3se levantó Abraham de delante de su mH4191
+- Gén_23:4dadme...sepultaré mi m de delante de míH4191
+- Gén_23:6en lo mejor de...sepulcros sepulta a tu mH4191
+- Gén_23:6ninguno...te impedirá que entierres tu mH4191
+- Gén_23:8de que yo sepulte mi m de delante de míH4191
+- Gén_23:11no, señor mío...te la doy; sepulta tu mH4191
+- Gén_23:13la heredad...y sepultaré en ella mi mH4191
+- Gén_23:15la tierra vale...entierra, pues, tu mH4191
+- Gén_34:27y los hijos de Jacob vinieron a los mH2491
+- Gén_50:15viendo los hermanos...que su padre era mH4191
+- Éxo_12:30no había casa donde no hubiese un mH4191
+- Éxo_12:33egipcios...porque decían: Todos somos mH4191
+- Éxo_14:30a los egipcios m a la orilla del marH4191
+- Éxo_21:35venderán el buey...partirán el buey mH4191
+- Éxo_21:36buey por buey, y el buey m será suyoH4191
+- Lev_7:24la grosura de animal m, y la grosuraH5038
+- Lev_11:8no comeréis, ni tocaréis su cuerpo m; losH5038
+- Lev_11:11no comeréis, y abominaréis...cuerpos mH5038
+- Lev_11:24que tocare sus cuerpos m será inmundoH5038
+- Lev_11:31los tocare cuando estuvieren m, seráH4194
+- Lev_11:40comiere del cuerpo m...que sacare el...mH5038
+- Lev_14:6, Lev_14:51mojará...la sangre de la avecilla mH7819
+- Lev_19:28no haréis rasguños en...cuerpo por un mH5315
+- Lev_20:27la mujer que evocare espíritus de m oH178
+- Lev_21:1diles que no se contaminen por un m enH5315
+- Lev_21:11ni entrará donde haya alguna persona mH5315
+- Lev_26:30y pondré vuestros cuerpos m sobre...m deH6297
+- Núm_5:2que echen del...todo contaminado con mH5315
+- Núm_6:6aparte para...no se acercará a persona mH4191
+- Núm_6:11expiación de lo que pecó a causa del mH5315
+- Núm_9:6algunos...estaban inmundos a causa de mH5315
+- Núm_9:7nosotros estamos inmundos por causa de mH5315
+- Núm_9:10que estuviere inmundo por causa de m oH5315
+- Núm_12:12no quede ella ahora como el que nace mH4191
+- Núm_16:48puso entre los m y los vivos; y cesó laH4191
+- Núm_16:49sin los m por la rebelión de CoréH4191
+- Núm_17:12aquí nosotros somos m, perdidos somosH1478
+- Núm_19:16tocare algún m...sobre la faz del campoH4191
+- Núm_19:18sobre aquel que hubiere tocado el...mH4191
+- Núm_23:24que devore...y beba la sangre de los mH2491
+- Núm_31:8los m de ellos, a los reyes de MadiánH2026
+- Núm_31:19que haya tocado m, permaneced fuera delH2491
+- Deu_14:1no os sajaréis, ni os...a causa de mH4191
+- Deu_14:8no comeréis, ni tocaréis sus cuerpos mH5038
+- Deu_18:11encantador...ni quien consulte a los mH4191
+- Deu_21:1si en la tierra...fuere hallado alguien mH2491
+- Deu_21:2las ciudades que están alrededor del mH2491
+- Deu_21:3, Deu_21:6cercana al lugar donde...hallado el mH2491
+- Deu_25:5la mujer del m no se casará fuera conH4191
+- Deu_25:6sucederá en el nombre de su hermano mH4191
+- Deu_26:14no he...ni de ello he ofrecido a los mH4191
+- Deu_32:42en la sangre de los m y de los cautivosH2491
+- Jos_11:6yo entregaré a todos ellos m delanteH2491
+- Jue_3:25he aquí su señor caído en tierra, mH4191
+- Jue_4:22y he aquí Sísara yacía m con la estacaH4191
+- Jue_5:27tendido...donde se encorvó, allí cayó mH7703
+- Jue_9:55cuando...vieron m a Abimelec, se fueronH4191
+- Jue_14:8se apartó...para ver el cuerpo m del leónH4658
+- Jue_20:4el varón levita, marido de la mujer mH7523
+- Rut_1:8como...habéis hecho con los m y conmigoH4191
+- Rut_4:5para que restaures el nombre del m sobreH4191
+- Rut_4:10que el nombre del m no se borre de entreH4191
+- 1Sa_4:19el rumor que...m su suegro y su maridoH4191
+- 1Sa_17:51filisteos vieron a su paladín m, huyeronH4191
+- 1Sa_24:14¿a quién persigues? ¿A un perro m? ¿AH4191
+- 1Sa_31:1Israel cayeron m en el monte de GilboaH2491
+- 1Sa_31:5viendo su...a Saúl m, él también se echóH4191
+- 1Sa_31:8viniendo los filisteos a despojar a los mH2491
+- 2Sa_1:4dijo...muchos del pueblo cayeron y son mH4191
+- 2Sa_1:22sin sangre de los m, sin grosura de losH2491
+- 2Sa_1:25han caído...Jonatán, m en tus alturas![[H2491]]
+- 2Sa_2:23lugar donde Asael había caído y estaba mH4191
+- 2Sa_6:7Uza...cayó allí m junto al arca de DiosH4191
+- 2Sa_9:8es...para que mires a un perro m como yo?[[H4191]]
+- 2Sa_11:21también tu siervo Urías el heteo es mH4191
+- 2Sa_11:26que su marido Urías era m, hizo dueloH4191
+- 2Sa_12:21el niño...m él, te levantaste y comisteH4191
+- 2Sa_14:2una mujer que, está de duelo por algún mH4191
+- 2Sa_16:9¿por qué maldice este perro m...el rey?[[H4191]]
+- 2Sa_19:6aunque todos nosotros estuviéramos mH4191
+- 2Sa_20:10y cayó m sin darle un segundo golpeH5221
+- 1Re_3:20su lado, y puso al lado mío su hijo mH4191
+- 1Re_3:21cuando yo me levanté...he aquí estaba mH4191
+- 1Re_3:22tu hijo es el m...No; tu hijo es el m, yH4191
+- 1Re_3:23tu hijo es el m...tuyo es el m, y mi hijoH4191
+- 1Re_11:15subió Joab el general...a enterrar los mH2491
+- 1Re_11:21y que era m Joab general del ejércitoH4191
+- 1Re_21:16y oyendo...que Nabot era m, se levantóH4191
+- 2Re_4:32niño estaba m tendido sobre su camaH4191
+- 2Re_8:5contando...cómo había hecho vivir a un mH4191
+- 2Re_11:1cuando Atalía...viendo que su hijo era mH4191
+- 2Re_13:21llegó a tocar el m...huesos de Eliseo
+- 2Re_19:35por la mañana...todo era cuerpos de mH4191
+- 2Re_23:30lo trajeron m de Meguido a JerusalénH4191
+- 1Cr_1:44m Bela, reinó en su lugar Jobab hijoH4191
+- 1Cr_1:45m Jobab, reinó en su lugar Husam, de laH4191
+- 1Cr_1:46m Husam, reinó en su lugar Hadad hijo deH4191
+- 1Cr_1:47m Hadad, reinó en su lugar Samla deH4191
+- 1Cr_1:48m también Samla, reinó en su lugar SaúlH4191
+- 1Cr_1:49y m Saúl, reinó en su lugar Baal-hanánH4191
+- 1Cr_1:50m Baal-hanán, reinó en su lugar HadadH4191
+- 1Cr_1:51m Hadad, sucedieron en Edom los jefesH4191
+- 1Cr_2:19m Azuba, tomó Caleb por mujer a EfrataH4191
+- 1Cr_2:24m Hezrón en Caleb de...Abías...dio a luzH4194
+- 1Cr_5:22cayeron muchos m, porque la guerra eraH2491
+- 1Cr_10:5cuando su escudero vio a Saúl m...se matóH4191
+- 1Cr_10:7que Saúl y sus hijos eran m, dejaron susH4191
+- 1Cr_10:8al venir los filisteos a despojar a los mH2491
+- 2Cr_20:24he aquí yacían ellos en tierra mH6297
+- 2Cr_22:10Atalía madre...viendo que su hijo era mH4191
+- 2Cr_24:17m Joiada, vinieron...príncipes de JudáH4194
+- Est_9:11le dio cuenta...del número de los mH2026
+- Job_3:13pues ahora estaría yo m, y reposaríaH7901
+- Job_14:8su raíz, y su tronco fuere m en el polvoH4191
+- Sal_31:12he sido olvidado de su...como un mH4191
+- Sal_58:8ellos...como el que nace m, no vean el solH1980
+- Sal_88:5abandonado entre...m como los pasados aH4191
+- Sal_88:10¿manifestarás tus maravillas a los m?[[H4191]]
+- Sal_88:10¿se levantarán los m para alabarte?[[H7496]]
+- Sal_106:28y comieron los sacrificios de los mH4191
+- Sal_115:17no alabarán los m a JAH, ni cuantosH4191
+- Sal_143:3hecho habitar en tinieblas como los...niH4191
+- Pro_2:18su casa está...sus veredas hacia los mH7496
+- Pro_9:18no saben que allí están los m; que susH7496
+- Pro_21:16vendrá a parar en la compañía de los mH7496
+- Ecl_9:3vida; y después de esto se van a los mH4191
+- Ecl_9:4porque mejor es perro vivo que león mH4191
+- Ecl_9:5pero los m nada saben, ni tienen más pagaH4191
+- Ecl_10:1las moscas m hacen heder y dar mal olorH4194
+- Isa_6:5¡ay de mí! que soy m; porque siendoH1820
+- Isa_8:19¿consultará a los m por los vivos?[[H4191]]
+- Isa_10:4se inclinarán entre...entre los m cayeronH2026
+- Isa_14:9despertó m que en tu venida saliesen aH7496
+- Isa_14:19como vestido de m pasados a espada, queH2026
+- Isa_14:19tú echado eres...como cuerpo m holladoH6297
+- Isa_22:2tus m no son m a espada, ni m en guerraH4191
+- Isa_26:14m son, no vivirán; han fallecido, noH4191
+- Isa_26:19tus m vivirán...y la tierra dará sus mH4191
+- Isa_26:21la tierra...no encubrirá ya más a sus mH2026
+- Isa_34:3los m de ellas serán arrojados, y de susH2491
+- Isa_37:36por la mañana...todo era cuerpos de mH4191
+- Isa_59:10estamos en lugares oscuros como mH4191
+- Isa_66:16y los m de Jehová serán multiplicadosH2491
+- Jer_7:33serán los cuerpos m de este puebloH5038
+- Jer_9:1para que llore día y noche los m de laH2491
+- Jer_9:22los cuerpos de los hombres m caerán comoH5038
+- Jer_14:18si salgo al campo, he aquí m a espadaH2491
+- Jer_16:7en el luto para consolarlos de sus mH4191
+- Jer_22:10no lloréis al m, ni de él os condoláisH4191
+- Jer_25:33y yacerán los m de Jehová en aquel díaH2491
+- Jer_31:40todo el valle de los cuerpos m y de laH6297
+- Jer_33:5para llenarlas de cuerpos de hombres mH6297
+- Jer_34:20y sus cuerpos m serán comida de lasH5038
+- Jer_41:9Ismael hijo de Netanías la llenó de mH6297
+- Jer_51:4y caerán m en la tierra de los caldeosH2491
+- Jer_51:47y todos sus m caerán en medio de ellaH2491
+- Jer_51:49por los m de Israel caerá BabiloniaH2491
+- Jer_51:49como por Babilonia cayeron los m deH2491
+- Lam_3:6me dejó en oscuridad, como los ya m deH4191
+- Lam_3:54aguas cubrieron mi cabeza...dije: m soyH1504
+- Lam_4:9más dichosos...m a espada que los m por elH2491
+- Eze_6:4haré que caigan vuestros m delante deH2491
+- Eze_6:5y pondré los cuerpos m de los hijos de
+- Eze_6:7m caerán en medio de vosotros; y sabréisH2491
+- Eze_6:13sus m estén en medio de sus ídolos, enH2491
+- Eze_9:7la casa, y llenad los atrios de m, salidH2491
+- Eze_11:6multiplicado vuestros m en esta ciudadH2491
+- Eze_11:7vuestros m que habéis puesto en medio deH2491
+- Eze_28:23caerán m en medio de ella, con espadaH5307
+- Eze_30:11espadas sobre...llenarán de m la tierraH2491
+- Eze_31:17descendieron...Seol, con los m a espadaH2491
+- Eze_31:18derribado serás...yacerás, con los m aH2491
+- Eze_32:20entre los m a espada caerá; a la espadaH2491
+- Eze_32:21yacen con los incircuncisos m a espadaH2491
+- Eze_32:22-23, Eze_32:24todos ellos cayeron m a espadaH2491
+- Eze_32:25en medio de los m le pusieron lecho conH2491
+- Eze_32:25-26todos ellos incircuncisos, m a espadaH2491
+- Eze_32:25con los...fue puesto en medio de los mH2491
+- Eze_32:28-29, Eze_32:30, Eze_32:32con los m a espadaH2491
+- Eze_32:30con su terror descendieron con los mH2491
+- Eze_32:31Faraón m a espada, y todo su ejércitoH2491
+- Eze_35:8y llenaré sus montes de sus m; en tusH2491
+- Eze_35:8tus collados, en tus...caerán m a espadaH2491
+- Eze_37:9ven de...y sopla sobre estos m, y viviránH2026
+- Eze_43:7ni con los cuerpos m de sus reyes en susH6297
+- Eze_43:9arrojarán lejos...cuerpos m de sus reyesH6297
+- Eze_44:25no se acercarán a...m para contaminarseH4191
+- Dan_11:26su ejército será...y caerán muchos mH2491
+- Amó_8:3muchos serán los cuerpos m; en...lugarH6297
+- Nah_3:3multitud de m, y multitud de cadáveresH2491
+- Hag_2:13un inmundo a causa de cuerpo m tocareH5315
+- Mat_8:22deja que los m entierren a sus mG3498
+- Mat_9:24porque la niña no está m, sino duermeG599
+- Mat_10:8resucitad m, echad fuera demonios; deG3498
+- Mat_11:5los m son resucitados, y a los pobresG3498
+- Mat_14:2este es Juan...ha resucitado de los mG3498
+- Mat_17:9el Hijo del Hombre resucite de los mG3498
+- Mat_22:31respecto a la resurrección de los mG3498
+- Mat_22:32Dios no es Dios de m, sino de vivosG3498
+- Mat_23:27dentro están llenos de huesos de m yG3498
+- Mat_24:28dondequiera que estuviere el cuerpo mG4430
+- Mat_27:64lo hurten, y...Resucitó de entre los mG3498
+- Mat_28:4de miedo de él los...se quedaron como mG3498
+- Mat_28:7y decid a...que ha resucitado de los mG3498
+- Mar_5:39y lloráis? La niña no está m...duermeG599
+- Mar_6:14y dijo: Juan el...ha resucitado de los mG3498
+- Mar_6:16éste es Juan...que ha resucitado de los mG3498
+- Mar_9:9el Hijo del...hubiere resucitado de los mG3498
+- Mar_9:10qué sería aquello de resucitar de los mG3498
+- Mar_9:26el espíritu...salió; y él quedó como m, deG3498
+- Mar_9:26de modo que muchos decían: Está mG599
+- Mar_12:25porque cuando resuciten de los m, ni seG3498
+- Mar_12:26pero respecto a que los m resucitan, ¿noG3498
+- Mar_12:27no es Dios de m, sino Dios de vivos; asíG3498
+- Mar_15:44centurión, le preguntó si ya estaba mG2348
+- Luc_7:22los m son resucitados, y a los pobresG3498
+- Luc_8:52él dijo: No lloréis; no está m, sino queG599
+- Luc_8:53se burlaban de él, sabiendo que estaba mG599
+- Luc_9:7decían...Juan ha resucitado de los mG3498
+- Luc_9:60dijo: Deja que los m entierren a sus mG3498
+- Luc_10:30ladrones...se fueron, dejándole medio mG2253
+- Luc_15:24este mi hijo m era, y ha revivido; seG3498
+- Luc_15:32este tu hermano era m, y ha revividoG3498
+- Luc_16:30si alguno fuere a ellos de entre los mG3498
+- Luc_16:31no...aunque alguno se levantare de los mG3498
+- Luc_20:35alcanzar...resurrección de entre los mG3498
+- Luc_20:37en cuanto a que los m han de resucitarG3498
+- Luc_20:38Dios no es Dios de m, sino de vivosG3498
+- Luc_24:5por qué buscáis entre los m al que vive?[[G3498]]
+- Luc_24:46que...resucitase de los m al tercer díaG3498
+- Jua_2:22cuando resucitó de entre los m, susG3498
+- Jua_5:21como el Padre levanta a los m, y les daG3498
+- Jua_5:25los m oirán la voz del Hijo de Dios; yG3498
+- Jua_11:25que cree en mí, aunque esté m, viviráG599
+- Jua_11:41piedra de donde había sido puesto el mG2348
+- Jua_12:1estaba Lázaro, el que había estado m, yG2348
+- Jua_12:1y a quien había resucitado de los mG3498
+- Jua_12:9para ver a Lázaro...resucitado de los mG3498
+- Jua_12:17cuando llamó a...y le resucitó de los mG3498
+- Jua_19:33llegaron a Jesús, como le vieron ya mG2348
+- Jua_20:9era necesario que él resucitase de los mG3498
+- Jua_21:14después de haber resucitado de los mG3498
+- Hec_3:15a quien Dios ha resucitado de los mG3498
+- Hec_4:2anunciasen...resurrección de entre los mG3498
+- Hec_4:10a quien Dios resucitó de los m, por élG3498
+- Hec_5:10entraron los jóvenes, la hallaron ni; y laG3498
+- Hec_10:41con él después que resucitó de los mG3498
+- Hec_10:42Dios ha puesto por Juez de vivos y mG3498
+- Hec_13:30mas Dios le levantó de los mG3498
+- Hec_13:34y en cuanto a que le levantó de los mG3498
+- Hec_14:19le arrastraron...pensando que estaba mG2348
+- Hec_17:3Cristo padeciese, y resucitase de los mG3498
+- Hec_17:31dando fe...con haberle levantado de los mG3498
+- Hec_17:32oyeron lo de la resurrección de los mG3498
+- Hec_20:9cayó del tercer piso...y fue levantado mG3498
+- Hec_23:6de la resurrección de los m se me juzgaG3498
+- Hec_24:15que ha de haber resurrección de los mG3498
+- Hec_24:21acerca de la resurrección de los m soyG3498
+- Hec_26:8cosa increíble que Dios resucite a los m?[[G3498]]
+- Hec_26:23el primero de la resurrección de los mG3498
+- Hec_28:6esperando que él...cayese m de repenteG3498
+- Rom_1:4Hijo...por la resurrección de entre los mG3498
+- Rom_4:17da vida a los m, y llama las cosas queG3498
+- Rom_4:19la fe al considerar su cuerpo...ya como mG3499
+- Rom_4:24el que levantó de los m a Jesús, SeñorG3498
+- Rom_6:4que como Cristo resucitó de los m por laG3498
+- Rom_6:9Cristo, habiendo resucitado de los m, yaG3498
+- Rom_6:11consideraos m al pecado, pero vivos paraG3498
+- Rom_6:13presentaos...como vivos de entre los mG3498
+- Rom_7:4que seáis de...del que resucitó de los mG2289
+- Rom_7:8el pecado...sin la ley el pecado está mG3498
+- Rom_8:10el cuerpo en...está m a causa del pecadoG3498
+- Rom_8:11el que levantó de los m a Jesús mora enG3498
+- Rom_8:11el que levantó de los m a Cristo JesúsG3498
+- Rom_10:7para hacer subir a Cristo de entre los mG3498
+- Rom_10:9y creyeres...que Dios le levantó de los mG3498
+- Rom_11:15¿qué será su...sino vida de entre los m?[[G3498]]
+- Rom_14:9para ser Señor así de los m como de losG3498
+- 1Co_15:12se predica...que resucitó de los mG3498
+- 1Co_15:12¿cómo dicen...no hay resurrección de m?[[G3498]]
+- 1Co_15:13si no hay resurrección de m, tampocoG3498
+- 1Co_15:15Cristo...si en verdad los m no resucitanG3498
+- 1Co_15:16si los m no resucitan, tampoco CristoG3498
+- 1Co_15:20mas ahora Cristo ha resucitado de los mG3498
+- 1Co_15:21por un hombre la resurrección de los mG3498
+- 1Co_15:29qué harán los que se bautizan por los mG3498
+- 1Co_15:29si en ninguna manera los m resucitan?[[G3498]]
+- 1Co_15:29¿por qué, pues, se bautizan por los m?[[G3498]]
+- 1Co_15:32si...m no resucitan, comamos y bebamosG3498
+- 1Co_15:35dirá alguno: ¿Cómo resucitarán los m?[[G3498]]
+- 1Co_15:42también es la resurrección de los mG3498
+- 1Co_15:52los m serán resucitados incorruptiblesG3498
+- 2Co_1:9no...sino en Dios que resucita a los mG3498
+- 2Co_6:9aquí vivimos; como castigados, mas no mG2289
+- Gál_1:1por Dios el...que lo resucitó de los mG3498
+- Gál_2:19porque yo por la ley soy m para la leyG599
+- Efe_1:20resucitándole de los m y sentándole aG3498
+- Efe_2:1dio vida a vosotros, cuando estabais m enG3498
+- Efe_2:5aun estando...m en pecados, nos dio vidaG3498
+- Efe_5:14y levántate de los m, y te alumbraráG3498
+- Flp_3:11llegase a la resurrección de...los mG3498
+- Col_1:18el primogénito de entre los m, paraG3498
+- Col_2:12el poder de Dios que le levantó de los mG3498
+- Col_2:13y a vosotros, estando m en pecados y enG3498
+- 1Ts_1:10al cual resucitó de los m, a JesúsG3498
+- 1Ts_4:16y los m en Cristo resucitarán primeroG3498
+- 1Ti_5:6la que se entrega a...viviendo está mG2348
+- 2Ti_2:8linaje de David, resucitado de los mG3498
+- 2Ti_4:1que juzgará a los vivos y a los m en suG3498
+- Heb_6:1del arrepentimiento de obras m, de laG3498
+- Heb_6:2de la resurrección de los m y del juicioG3498
+- Heb_9:14limpiará vuestras conciencias de obras mG3498
+- Heb_11:4por la fe Abel...m, aún habla por ellaG599
+- Heb_11:12de uno, y ése ya casi m, salieron comoG3499
+- Heb_11:19levantar aun de entre los m, de dondeG3498
+- Heb_11:35las mujeres recibieron sus m medianteG3498
+- Heb_13:20el Dios de paz que resucitó de los m aG3498
+- Stg_2:17la fe, si no tiene obras, es m en síG3498
+- Stg_2:20¿mas quieres saber...fe sin obras es m?[[G3498]]
+- Stg_2:26como el cuerpo sin espíritu está m, asíG3498
+- Stg_2:26como...así también la fe sin obras está mG3498
+- 1Pe_1:3la resurrección de Jesucristo de los mG3498
+- 1Pe_1:21quien le resucitó de los m y le ha dadoG3498
+- 1Pe_2:24estando m a los pecados, vivamos a laG581
+- 1Pe_3:18siendo a la verdad m en la carne, peroG2289
+- 1Pe_4:5está preparado para juzgar a...y a los mG3498
+- 1Pe_4:6ha sido predicado el evangelio a los mG3498
+- Jud_1:12árboles...dos veces m y desarraigadosG599
+- Rev_1:5de Jesucristo...el primogénito de los mG3498
+- Rev_1:17cuando le vi, caí como m a sus pies. Y élG3498
+- Rev_1:18el que vivo, y estuve m; mas he aquí queG3498
+- Rev_2:8el postrero, el que estuvo m y vivió, diceG3498
+- Rev_3:1que tienes nombre de que vives, y estás mG3498
+- Rev_11:18el tiempo de juzgar a los m, y de darG3498
+- Rev_14:13bienaventurados los m que mueren en elG3498
+- Rev_16:3y éste se convirtió en sangre como de mG3498
+- Rev_20:5los otros m no volvieron a vivir hastaG3498
+- Rev_20:12vi a los m, grandes y pequeños, de pieG3498
+- Rev_20:12y fueron juzgados los m por las cosasG3498
+- Rev_20:13y el mar entregó los m que había en élG3498
+- Rev_20:13entregaron los m que había en ellosG3498

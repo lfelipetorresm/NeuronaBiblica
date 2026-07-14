@@ -1,0 +1,298 @@
+---
+tipo: concordancia
+palabra: LEVITA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LEVITA
+
+- Perteneciente a la tribu de Leví
+- Éxo_4:14¿no...a Aarón, l, y que él habla bien?[[H3881]]
+- Éxo_6:25son los jefes de los padres de los lH3881
+- Éxo_38:21por obra de los l bajo la dirección deH3881
+- Lev_25:32ciudades de los l...podrán rescatarH3881
+- Lev_25:33el que comprare de los l saldrá de laH3881
+- Lev_25:33las casas...de los l son la posesión deH3881
+- Núm_1:47los l...no fueron contados entre ellosH3881
+- Núm_1:50pondrás a los l en el tabernáculo delH3881
+- Núm_1:51los l lo desarmarán, y...los l lo armaránH3881
+- Núm_1:53l acamparán alrededor del tabernáculoH3881
+- Núm_1:53los l tendrán la guarda del tabernáculoH3881
+- Núm_2:17el campamento de los l, en medio de losH3881
+- Núm_2:33mas los l no fueron contados entre losH3881
+- Núm_3:9y darás los l a Aarón y a sus hijos; leH3881
+- Núm_3:12yo he tomado a los l de...hijos de IsraelH3881
+- Núm_3:12yo he tomado, serán, pues, míos los lH3881
+- Núm_3:32el principal de, de los l será EleazarH3881
+- Núm_3:39contados de los l, que Moisés y AarónH3881
+- Núm_3:41y tomarás a los l para mí en lugar deH3881
+- Núm_3:41los animales de los l en lugar de todosH3881
+- Núm_3:45toma los l...y los animales de los l enH3881
+- Núm_3:45en lugar...y los l serán míos. Yo JehováH3881
+- Núm_3:46el rescate de los...que exceden a los lH3881
+- Núm_3:49que excedían...de los redimidos por los lH3881
+- Núm_4:18no haréis que perezca...de entre los lH3881
+- Núm_4:46todos los contados de los l que MoisésH3881
+- Núm_7:5los darás a los l, a cada uno conforme aH3881
+- Núm_7:6recibió los carros y...y los dio a los lH3881
+- Núm_8:6toma a los l de entre los...de Israel, yH3881
+- Núm_8:9harás que los l se acerquen delante delH3881
+- Núm_8:10cuando hayas acercado a los l delanteH3881
+- Núm_8:10pondrán...Israel sus manos sobre los lH3881
+- Núm_8:11ofrecerá Aarón los l delante de JehováH3881
+- Núm_8:12l pondrán sus manos sobre las cabezasH3881
+- Núm_8:12ofrecerás...hacer expiación por los lH3881
+- Núm_8:13presentarás a los l delante de AarónH3881
+- Núm_8:14apartarás a los l...y serán míos los lH3881
+- Núm_8:15los l a ministrar en el tabernáculo deH3881
+- Núm_8:16son dedicados a mí los l de entre los
+- Núm_8:18he tomado a los l en lugar de todos losH3881
+- Núm_8:19yo he dado en don los l a Aarón y a susH3881
+- Núm_8:20hicieron con los l conforme a todas lasH3881
+- Núm_8:20mandó Jehová a Moisés acerca de los lH3881
+- Núm_8:21y los l se purificaron, y lavaron susH3881
+- Núm_8:22vinieron después los l para ejercer suH3881
+- Núm_8:22que mandó Jehová...acerca de los l, asíH3881
+- Núm_8:24l de 25 años arriba entrarán a ejercerH3881
+- Núm_8:26harás con los l en cuanto a, ministerioH3881
+- Núm_18:6yo he tomado a...los l de entre...IsraelH3881
+- Núm_18:23los l harán el servicio del tabernáculoH3881
+- Núm_18:24porque a los l he dado...los diezmos deH3881
+- Núm_18:26hablarás a los l, y les dirás: CuandoH3881
+- Núm_18:30será contado a los l como producto deH3881
+- Núm_26:57los contados de los l por sus familiasH3881
+- Núm_26:58son las familias de los l: la familiaH3881
+- Núm_26:62de los l fueron contados 23.000, todos
+- Núm_31:30tomarás...darás a los l, que tienen laH3881
+- Núm_31:47los dio a los l, que tenían la guardiaH3881
+- Núm_35:2que den a los l, de la posesión de suH3881
+- Núm_35:2daréis a los l los ejidos de...ciudadesH3881
+- Núm_35:4los...que daréis a los l serán mil codosH3881
+- Núm_35:6de las ciudades que daréis a los l, seisH3881
+- Núm_35:7las ciudades que daréis a los l serán 48H3881
+- Núm_35:8cada uno dará de sus ciudades a los lH3881
+- Deu_12:12l que habite en vuestras poblacionesH3881
+- Deu_12:18y el l que habita en tus poblacionesH3881
+- Deu_12:19ten cuidado de no desamparar al l enH3881
+- Deu_14:27no desampararás al l que habitare enH3881
+- Deu_14:29y vendrá el l, que no tiene parte niH3881
+- Deu_16:11el l que habitare en tus ciudades, yH3881
+- Deu_16:14y el l, el extranjero, el huérfano yH3881
+- Deu_17:9vendrás a los sacerdotes l, y al juezH3881
+- Deu_17:18que está al cuidado de los sacerdotes lH3881
+- Deu_18:1los sacerdotes l...no tendrán parte niH3881
+- Deu_18:6saliere un l de alguna de tus ciudadesH3881
+- Deu_18:7ministrará en...como...sus hermanos los lH3881
+- Deu_24:8según...que os enseñaren los sacerdotes lH3881
+- Deu_26:11así tú como el l y el extranjero queH3881
+- Deu_26:12darás también al l, al extranjero, alH3881
+- Deu_26:13también lo he dado al l, al extranjeroH3881
+- Deu_27:9y Moisés, con los sacerdotes l, hablóH3881
+- Deu_27:14hablarán los l, y dirán a todo varónH3881
+- Deu_31:25dio órdenes...a los l que llevaban elH3881
+- Jos_3:3arca...los l sacerdotes que la llevanH3881
+- Jos_8:33Israel...presencia de los sacerdotes lH3881
+- Jos_14:3a los l no les dio heredad entre ellosH3881
+- Jos_14:4y no dieron parte a los l en la tierraH3881
+- Jos_18:7pero los l ninguna parte tienen entreH3881
+- Jos_21:1los padres de los l vinieron...a JosuéH3881
+- Jos_21:3dieron de su propia herencia a los lH3881
+- Jos_21:4los hijos de Aarón...que eran de los lH3881
+- Jos_21:8dieron...a los l estas ciudades con susH3881
+- Jos_21:20hijos de Coat, l, los que quedaban deH3881
+- Jos_21:27hijos de Gersón...de los l, dieron deH3881
+- Jos_21:34de Merari, l que quedaban, se les dioH3881
+- Jos_21:40restaban de...los l, fueron...doce ciudadesH3881
+- Jos_21:41ciudades de los l...fueron 48 ciudadesH3881
+- Jue_17:7un joven de Belén...el cual era l, yH3881
+- Jue_17:9el l le respondió: Soy de Belén de JudáH3881
+- Jue_17:10quédate en mi casa, y...Y el l se quedóH3881
+- Jue_17:11agradó...al l morar con aquel hombre, yH3881
+- Jue_17:12consagró al l, y...servía de sacerdoteH3881
+- Jue_17:13sé que...porque tengo un l por sacerdoteH3881
+- Jue_18:3cerca...reconocieron la voz del joven lH3881
+- Jue_18:15vinieron a la casa del joven l, en casaH3881
+- Jue_19:1hubo un l que moraba como forastero enH3881
+- Jue_19:5se levantó también el l para irse; y el
+- Jue_20:4el varón l, marido de la mujer muertaH3881
+- 1Sa_6:15los l bajaron el arca de Jehová, y laH3881
+- 2Sa_15:24iba Sadoc, y con él todos los l queH3881
+- 1Re_8:4los cuales llevaban los sacerdotes y lH3881
+- 1Cr_6:48los l fueron puestos sobre todo elH3881
+- 1Cr_6:64dieron a los l ciudades con sus ejidosH3881
+- 1Cr_9:2los primeros moradores...israelitas...l yH3881
+- 1Cr_9:14de los l: Semaías hijo de Hasub, hijoH3881
+- 1Cr_9:26de los porteros l estaban en el oficioH3881
+- 1Cr_9:31Matatías, uno de los l...a su cargo lasH3881
+- 1Cr_9:33jefes de familias de los l, los cualesH3881
+- 1Cr_9:34eran jefes de...de los l por sus linajesH3881
+- 1Cr_13:2enviaremos...por los sacerdotes y l queH3881
+- 1Cr_15:2arca...no debe ser llevada sino por los lH3881
+- 1Cr_15:4reunió también David a los...y a los lH3881
+- 1Cr_15:11y llamó David...a los l Uriel, AsaíasH3881
+- 1Cr_15:12sois los principales padres...de los lH3881
+- 1Cr_15:14l se santificaron para traer el arca deH3881
+- 1Cr_15:15los hijos de los l trajeron el arca deH3881
+- 1Cr_15:16dijo...a los principales de los l, queH3881
+- 1Cr_15:17los l designaron a Hemán hijo de JoelH3881
+- 1Cr_15:22y Quenanías, principal de los l en laH3881
+- 1Cr_15:26ayudando Dios a los l que llevaban elH3881
+- 1Cr_15:27lino...todos los l que llevaban el arcaH3881
+- 1Cr_16:4delante del arca...ministros de los lH3881
+- 1Cr_21:6entre éstos no fueron contados los l, niH3878
+- 1Cr_23:2y juntando a todos...los sacerdotes y lH3881
+- 1Cr_23:3fueron contados los l de treinta añosH3881
+- 1Cr_23:26también los l no tendrán que llevar másH3881
+- 1Cr_24:6el escriba Semaías...de los l, escribióH3878
+- 1Cr_24:6jefes de las casas paternas de los...lH3881
+- 1Cr_24:30fueron los hijos de los l conforme aH3881
+- 1Cr_24:31delante del...jefes de...sacerdotes y lH3881
+- 1Cr_26:17al oriente seis l, al norte cuatro deH3881
+- 1Cr_26:20y de los l, Ahías tenía cargo de losH3881
+- 1Cr_27:17de los l, Hasabías hijo de Kemuel; deH3881
+- 1Cr_28:13, 1Cr_28:21los grupos de los sacerdotes y...lH3881
+- 2Cr_5:4los ancianos...y los l tomaron el arcaH3881
+- 2Cr_5:5arca...los sacerdotes y los l los llevaronH3881
+- 2Cr_5:12los l cantores, todos los de Asaf, losH3881
+- 2Cr_7:6los l, con los instrumentos de música deH3881
+- 2Cr_8:14los l en sus cargos, para que alabasenH3881
+- 2Cr_8:15mandamiento del rey, en cuanto a los...lH3881
+- 2Cr_11:13los sacerdotes y l...se juntaron a élH3881
+- 2Cr_11:14los l dejaban sus ejidos...y venían aH3881
+- 2Cr_13:9¿no habéis arrojado vosotros...y a los lH3881
+- 2Cr_13:10Aarón, y los que están en la obra son lH3881
+- 2Cr_17:8y con ellos a los l Semaías, NetaníasH3881
+- 2Cr_19:8puso también Josafat...algunos de los lH3881
+- 2Cr_19:11los l serán oficiales en presencia deH3881
+- 2Cr_20:14Jahaziel hijo...l de los hijos de AsafH3881
+- 2Cr_20:19levantaron los l de los hijos de CoatH3881
+- 2Cr_23:2reunieron a los l de todas las ciudadesH3881
+- 2Cr_23:4de porteros con los sacerdotes y los lH3881
+- 2Cr_23:6sino...l que ministran; éstos entraránH3881
+- 2Cr_23:7los l rodearán al rey por todas partesH3881
+- 2Cr_23:8los l y todo Judá lo hicieron todo comoH3881
+- 2Cr_23:18bajo la mano de los...l, según David losH3881
+- 2Cr_24:5reunió a...y los l, y les dijo: Salid porH3881
+- 2Cr_24:5la casa...los l no pusieron diligenciaH3881
+- 2Cr_24:6no has procurado que los l traigan deH3881
+- 2Cr_24:11llevar el arca al...por mano de los lH3881
+- 2Cr_29:4hizo venir a los sacerdotes y l, y losH3881
+- 2Cr_29:5dijo: !Oídme, l! Santificaos ahora, yH3881
+- 2Cr_29:12se levantaron los l Mahat hijo...y JoelH3881
+- 2Cr_29:16la inmundicia...los l la llevaron fueraH3881
+- 2Cr_29:25puso también l en la casa de JehováH3881
+- 2Cr_29:26y los l estaban con los instrumentosH3881
+- 2Cr_29:30dijeron a los l que alabasen a JehováH3881
+- 2Cr_29:34l les ayudaron hasta que acabaron laH3881
+- 2Cr_29:34los l fueron más rectos de corazón paraH3881
+- 2Cr_30:15l llenos de vergüenza se santificaronH3881
+- 2Cr_30:16sangre que recibían de manos de los lH3881
+- 2Cr_30:17por eso los l sacrificaban la pascuaH3881
+- 2Cr_30:21y glorificaban a Jehová...los l y losH3881
+- 2Cr_30:22y habló Ezequías al corazón de...los lH3881
+- 2Cr_30:25se alegró...Judá, como también los...lH3881
+- 2Cr_30:27l, puestos en pie, bendijeron al puebloH3881
+- 2Cr_31:2arregló Ezequías la distribución de...lH3881
+- 2Cr_31:2los l para ofrecer el holocausto y lasH3881
+- 2Cr_31:4diese la porción...a los sacerdotes y lH3881
+- 2Cr_31:9preguntó Ezequías a...a los l acerca deH3881
+- 2Cr_31:12dieron cargo de ello al l Conanías elH3881
+- 2Cr_31:14el l Coré...tenía cargo de las ofrendasH3881
+- 2Cr_31:17a los l de edad de veinte años arribaH3881
+- 2Cr_31:19porciones...a todo el linaje de los lH3881
+- 2Cr_34:9que los l que guardaban la puerta habíanH3881
+- 2Cr_34:12Jahat y Abdías, l de...hijos de MerariH3881
+- 2Cr_34:12l, todos los entendidos en...de músicaH3881
+- 2Cr_34:13de los l había escribas...y porterosH3881
+- 2Cr_34:30los l y todo el pueblo, desde el mayorH3881
+- 2Cr_35:3dijo a los l que enseñaban a todo IsraelH3881
+- 2Cr_35:5según la distribución de la...de los lH3881
+- 2Cr_35:8sus príncipes dieron...al pueblo y a...lH3881
+- 2Cr_35:9jefes de los l, dieron a los l, para losH3881
+- 2Cr_35:10l en sus turnos, conforme al...del reyH3881
+- 2Cr_35:11esparcían...la sangre recibida de...los lH3881
+- 2Cr_35:11pascua...los l desollaban las víctimasH3881
+- 2Cr_35:14los l prepararon para ellos mismos yH3881
+- 2Cr_35:15hermanos los l preparaban para ellosH3881
+- 2Cr_35:18celebró pascua...los sacerdotes y l, yH3881
+- Esd_1:5se levantaron...y los sacerdotes y lH3881
+- Esd_2:40los l: los hijos de Jesúa y de CadmielH3881
+- Esd_2:70y habitaron...los l, los del pueblo, losH3881
+- Esd_3:8y los l, y todos los que habían venidoH3881
+- Esd_3:8pusieron a los l de veinte años arribaH3881
+- Esd_3:9junto con...sus hijos y sus hermanos, lH3881
+- Esd_3:10los l hijos de Asaf con címbalos, paraH3881
+- Esd_3:12y muchos de...los l y de los...llorabanH3881
+- Esd_6:16los l y los demás que habían venido deH3879
+- Esd_6:18pusieron...a los l en sus clases, paraH3879
+- Esd_6:20sacerdotes y los l se habían purificadoH3881
+- Esd_7:7con él subieron...l, cantores, porterosH3881
+- Esd_7:13y l, que quiera ir contigo a JerusalénH3879
+- Esd_7:24que a todos los...l, cantores, porterosH3879
+- Esd_8:20puso para el ministerio de los l,220H3881
+- Esd_8:29peséis delante de los príncipes de...lH3881
+- Esd_8:30y los l recibieron el peso de la plataH3881
+- Esd_8:33y con ellos...Noadías hijo de Binúi, lH3881
+- Esd_9:1y l no se han separado de los pueblosH3881
+- Esd_10:5y juramentó a los príncipes...de los lH3881
+- Esd_10:15los l Mesulam y Sabetai les ayudaronH3881
+- Esd_10:23de los hijos de los l: Jozabad, SimeiH3881
+- Neh_3:17tras él restauraron los l; RehumH3881
+- Neh_7:1luego...fueron señalados...cantores y lH3881
+- Neh_7:43l: los hijos de Jesúa, de Cadmiel, deH3881
+- Neh_7:73habitaron...l, los porteros...cantoresH3881
+- Neh_8:7y los l Jesúa...hacían entender al puebloH3881
+- Neh_8:9l que hacían entender al pueblo, dijeronH3881
+- Neh_8:11l, pues, hacían callar a todo el puebloH3881
+- Neh_8:13se reunieron...sacerdotes y l, a EsdrasH3881
+- Neh_9:4se levantaron sobre la grada de los lH3881
+- Neh_9:5y dijeron los l Jesúa...bendecid a JehováH3881
+- Neh_9:38firmada...por nuestros l y...sacerdotesH3881
+- Neh_10:9los l: Jesúa hijo de Azanías, Binúi deH3881
+- Neh_10:28los sacerdotes, l, porteros y cantoresH3881
+- Neh_10:34echamos también suertes...lH3881
+- Neh_10:37el diezmo de nuestra tierra para los lH3881
+- Neh_10:37y que los l recibirían las décimas deH3881
+- Neh_10:38el sacerdote hijo de Aarón con los lH3881
+- Neh_10:38cuando los l recibiesen el diezmo; yH3881
+- Neh_10:38los l llevarían el diezmo del diezmoH3881
+- Neh_11:3los sacerdotes y l, los sirvientes delH3881
+- Neh_11:15de los l: Semaías hijo de Hasub, hijoH3881
+- Neh_11:16y Jozabad, de los principales de los lH3881
+- Neh_11:18todos los l en la santa ciudad eran 284H3881
+- Neh_11:20los l, en todas las ciudades de JudáH3881
+- Neh_11:22el jefe de los l en Jerusalén era UziH3881
+- Neh_11:36algunos de los l, en los repartimientosH3881
+- Neh_12:1y l que subieron con Zorobabel hijo deH3881
+- Neh_12:8los l: Jesúa, Binúi, Cadmiel, SerebíasH3881
+- Neh_12:22los l en días de Eliasib, de JoiadaH3881
+- Neh_12:24principales de los l: Hasabías, JesúaH3881
+- Neh_12:27buscaron a los l de todos sus lugaresH3881
+- Neh_12:30se purificaron...los l; y purificaron alH3881
+- Neh_12:44las porciones legales para los...y lH3881
+- Neh_12:44el gozo...respecto a los sacerdotes y lH3881
+- Neh_12:47consagraban...sus porciones a los l, yH3881
+- Neh_12:47los l consagraban parte a los hijos deH3881
+- Neh_13:5que estaba mandado dar a los l, a losH3881
+- Neh_13:10las porciones para los l no les habíanH3881
+- Neh_13:10y que los l y cantores...habían huidoH3881
+- Neh_13:13y de los l a Pedaías; y al servicio deH3881
+- Neh_13:22y dije a los l que se purificasen yH3881
+- Neh_13:29los que contaminan...el pacto...de los lH3881
+- Neh_13:30puse a los...l por sus grupos, a cadaH3881
+- Isa_66:21tomaré...de ellos para sacerdotes y lH3881
+- Jer_33:18ni a los...l faltará varón...ofrezcaH3881
+- Jer_33:21mi pacto con los l y sacerdotes, misH3881
+- Jer_33:22multiplicaré la...y los l que me sirvenH3881
+- Eze_43:19los sacerdotes l que son del linajeH3881
+- Eze_44:10y los l que se apartaron de mí cuandoH3881
+- Eze_44:15los sacerdotes l hijos de Sadoc, queH3881
+- Eze_45:5cual será para los l ministros de la casaH3881
+- Eze_48:11que no erraron cuando...erraron los lH3881
+- Eze_48:12porción...junto al límite de la de los lH3881
+- Eze_48:13de los l, al lado de los...sacerdotesH3881
+- Eze_48:22será...desde la porción de los l y laH3881
+- Luc_10:32un l, llegando cerca de aquel lugarG3019
+- Jua_1:19enviaron...l para que le preguntasenG3019
+- Hec_4:36entonces José...l, natural de ChipreG3019

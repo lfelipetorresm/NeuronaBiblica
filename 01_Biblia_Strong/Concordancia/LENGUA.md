@@ -1,0 +1,189 @@
+---
+tipo: concordancia
+palabra: LENGUA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LENGUA
+
+- Gén_10:5cada cual según su l, conforme a susH3956
+- Gén_10:20, Gén_10:31sus l, en sus tierras...sus nacionesH3956
+- Gén_11:1tenía entonces toda la tierra una sola lH8193
+- Gén_11:7descendamos, y confundamos allí su lH8193
+- Éxo_4:10yo soy tardo en el habla y torpe de lH3956
+- Éxo_11:7contra todos...ni un perro moverá su lH3956
+- Deu_28:49traerá...nación cuya l no entiendasH3956
+- Jos_10:21quien moviese su l contra ningunoH3956
+- Jue_7:5lamiere las aguas con su l como lameH3956
+- 2Sa_23:2mi, y su palabra ha estado en mi lH3956
+- 2Re_18:26no hables con nosotros en l de Judá
+- 2Re_18:28el Rabsaces...a gran voz en l de Judá
+- Neh_13:24mitad de sus hijos hablaban la l deH3066
+- Neh_13:24hablaban conforme a la l...cada puebloH3066
+- Est_1:22publicase esto en la l de su puebloH3956
+- Est_3:12mandó Amán...y a cada pueblo según su lH3956
+- Est_8:9y a cada pueblo conforme a su l, a losH3956
+- Est_8:9a los judíos también conforme a su...y lH3956
+- Job_5:21del azote de la l serás encubiertoH3956
+- Job_6:30¿hay iniquidad en mi l? ¿Acaso no puedeH3956
+- Job_20:12si el mal...lo ocultaba debajo de su lH3956
+- Job_20:16veneno...chupará; lo matará l de víboraH3956
+- Job_27:4iniquidad, ni mi l pronunciará engañoH3956
+- Job_29:10apagaba, y su l se pegaba a su paladarH3956
+- Job_31:30ni...entregué al pecado mi l, pidiendoH2441
+- Job_33:2mi boca, y mi l hablará en mi gargantaH3956
+- Job_41:1sacarás...con cuerda que te eches en su l?[[H3956]]
+- Sal_5:9no hay sinceridad...l hablan lisonjasH3956
+- Sal_10:7debajo de su l hay vejación y maldadH3956
+- Sal_12:3destruirá...l que habla jactanciosamenteH3956
+- Sal_12:4han dicho: Por nuestra l prevaleceremosH3956
+- Sal_15:3que no calumnia con su l, ni hace malH3956
+- Sal_22:15y mi l se pegó a mi paladar, y me hasH3956
+- Sal_31:20pondrás...a cubierto de contención de lH3956
+- Sal_34:13guarda tu l del mal, y tus labios deH3956
+- Sal_35:28mi l hablará de tu justicia y de tuH3956
+- Sal_37:30hablará sabiduría...su l habla justiciaH3956
+- Sal_39:1dije: Atenderé...para no pecar con mi lH3956
+- Sal_39:3encendió fuego, y así proferí con mi lH3956
+- Sal_45:1mi l es pluma de escribiente muy ligeroH3956
+- Sal_50:19metías en mal, y tu l componía engañoH3956
+- Sal_51:14líbrame de...cantará mi l tu justiciaH3956
+- Sal_52:2agravios maquina tu l...navaja afiladaH3956
+- Sal_52:4amado...palabras perniciosas, engañosa lH3956
+- Sal_55:9destrúyelos, oh Señor; confunde la l deH3956
+- Sal_57:4son lanzas y saetas, y su l espada agudaH3956
+- Sal_64:3que afilan como espada su l; lanzan cualH3956
+- Sal_64:8propias l los harán caer; se espantaránH3956
+- Sal_66:17a él clamé con...fue exaltado con mi lH3956
+- Sal_68:23sangre...y de ella la l de tus perrosH3956
+- Sal_71:24mi l hablará también de tu justiciaH3956
+- Sal_73:9ponen su boca...y su l pasea la tierraH3956
+- Sal_78:36le lisonjeaban...y con su l le mentíanH3956
+- Sal_109:2mi; han hablado de mí con l mentirosaH3956
+- Sal_119:172hablará mi l tus dichos, porque todosH3956
+- Sal_120:2libra mi alma de...de la l fraudulentaH3956
+- Sal_120:3¿qué te dará, o qué te...oh l engañosa?[[H3956]]
+- Sal_126:2se llenará de...y nuestra l de alabanzaH3956
+- Sal_137:6mi l se pegue a mi paladar, si de tiH3956
+- Sal_139:4aún no está la palabra en mi l, y heH3956
+- Sal_140:3aguzaron su l como la serpiente; venenoH3956
+- Pro_6:17los ojos altivos, la l mentirosa, lasH3956
+- Pro_6:24la blandura de la l de la mujer extrañaH3956
+- Pro_10:20plata escogida es la l del justo; masH3956
+- Pro_10:31boca...mas la l perversa será cortadaH3956
+- Pro_12:18mas la l de los sabios es medicinaH3956
+- Pro_12:19mas la l mentirosa solo por un momentoH3956
+- Pro_15:2l de los sabios adornará la sabiduríaH3956
+- Pro_15:4la l apacible es árbol de vida; mas laH3956
+- Pro_16:1mas de Jehová es la respuesta de la lH3956
+- Pro_17:20el que revuelve con su l caerá en elH3956
+- Pro_18:21la muerte y la...están en poder de la lH3956
+- Pro_20:19no te entremetas...con el suelto de lH8193
+- Pro_21:6amontonar tesoros con l mentirosa esH3956
+- Pro_21:23que guarda su...y su l, su alma guardaH3956
+- Pro_25:15y la l blanda quebranta los huesosH3956
+- Pro_25:23ahuyenta...rostro airado la l detractoraH3956
+- Pro_26:28l falsa atormenta al que ha lastimadoH3956
+- Pro_28:23reprende...que el que lisonjea con la lH3956
+- Pro_31:26boca...la ley de clemencia está en su lH3956
+- Cnt_4:11miel y leche hay debajo de tu l; yH3956
+- Isa_3:8l de ellos y sus obras han sido contraH3956
+- Isa_5:24la l del fuego consume el rastrojo, y laH3852
+- Isa_11:15secará Jehová la l del mar de EgiptoH3956
+- Isa_19:18cinco ciudades...hablen la l de CanaánH8193
+- Isa_28:11en l de tartamudos, y en extraña lH3956
+- Isa_30:27labios...y su l como fuego que consumeH3956
+- Isa_32:4la l de los tartamudos hablará rápidaH3956
+- Isa_33:19l difícil de entender, de l tartamudaH3956
+- Isa_35:6el cojo saltará...cantará la l del mudoH3956
+- Isa_36:11y no hables con nosotros en l de Judá
+- Isa_36:13en pie y gritó a gran voz en l de Judá
+- Isa_41:17seca está de sed su l; yo Jehová losH3956
+- Isa_45:23que a mí se doblará...y jurará toda lH3956
+- Isa_50:4el Señor me dio l de sabios, para saberH3956
+- Isa_54:17l que se levante contra ti en juicioH3956
+- Isa_57:4¿contra quién...y alargasteis la l? ¿NoH3956
+- Isa_59:3vuestras manos...habla maldad vuestra lH3956
+- Isa_66:18para juntar a todas las naciones y lH3956
+- Jer_5:15gente antigua...cuya l ignorarás, yH3956
+- Jer_9:3hicieron que su l lanzara mentira comoH3956
+- Jer_9:5acostumbraron su l a hablar mentira, seH3956
+- Jer_9:8saeta afilada es la l de ellos; engañoH3956
+- Jer_18:18venid e hirámoslo de l, y no atendamosH3956
+- Jer_23:31los profetas que endulzan sus l y dicenH3956
+- Lam_4:4la l del niño de pecho se pegó a suH3956
+- Eze_3:5no eres enviado a pueblo...de l difícilH3956
+- Eze_3:6no a muchos pueblos de...ni de l difícilH3956
+- Eze_3:26y haré que se pegue tu l a tu paladarH3956
+- Dan_1:4que les enseñase...la l de los caldeosH3956
+- Dan_2:4hablaron los caldeos al rey en l aramea
+- Dan_3:4alta voz: Mándase a vosotros...naciones y lH3961
+- Dan_3:7naciones y l se postraron y adoraron laH3961
+- Dan_3:29que todo pueblo, nación o l que dijereH3961
+- Dan_4:1rey, a todos los pueblos...y l que moranH3961
+- Dan_5:19y l temblaban y temían delante de élH3961
+- Dan_6:25el rey Darío escribió a...l que habitanH3961
+- Dan_7:14los pueblos, naciones y l le sirvieranH3961
+- Ose_7:16cayeron sus...por la soberbia de su lH3956
+- Miq_6:12mentira, y su l es engañosa en su bocaH3956
+- Sof_3:13ni en boca de...se hallará l engañosaH3956
+- Zac_8:23hombres de las naciones de toda lH3956
+- Zac_14:12será, la l se les deshará en su bocaH3956
+- Mar_7:33y tomándole...y escupiendo, tocó su lG1100
+- Mar_7:35desató la ligadura de su l, y hablabaG1100
+- Mar_16:17mi nombre echarán...hablarán nuevas lG1100
+- Luc_1:64al momento fue...suelta su l, y hablóG1100
+- Luc_16:24envía a Lázaro para...y refresque mi lG1100
+- Hec_1:19aquel campo se llama en su propia lG1258
+- Hec_2:3se les aparecieron l repartidas, como deG1100
+- Hec_2:4y comenzaron a hablar en otras l, segúnG1100
+- Hec_2:6cada uno les oía hablar en su propia lG1100
+- Hec_2:8uno en nuestra l en la que hemos nacido?[[G1258]]
+- Hec_2:11árabes, les oímos hablar en nuestras lG1100
+- Hec_2:26se gozó mi l, y aun mi carne descansaráG1100
+- Hec_10:46porque los oían que hablaban en l, yG1100
+- Hec_14:11diciendo en l licaónica: Dioses bajo
+- Hec_19:6vino...y hablaban en l, y profetizabanG1100
+- Hec_21:40silencio, habló en l hebrea, diciendoG1258
+- Hec_22:2y al oír que les hablaba en l hebreaG1258
+- Hec_26:14decía en l hebrea: Saulo, Saulo, ¿porG1258
+- Rom_3:13con su l engañan. Veneno de áspidesG1100
+- Rom_14:11se doblará...y toda l confesará a DiosG1100
+- 1Co_12:10géneros de l...interpretación de lG1100
+- 1Co_12:28administran, los que tienen don de lG1100
+- 1Co_12:30¿hablan todos l? ¿interpretan todos?[[G1100]]
+- 1Co_13:1si yo hablase l humanas y angélicas, yG1100
+- 1Co_13:8y cesarán las l, y la ciencia acabaráG1100
+- 1Co_14:2porque el que habla en l no habla a losG1100
+- 1Co_14:4el que habla en l extraña, a sí mismoG1100
+- 1Co_14:5quisiera que todos...hablaseis en l, peroG1100
+- 1Co_14:5porque mayor es...que el que habla en lG1100
+- 1Co_14:6voy a vosotros hablando en l, ¿qué osG1100
+- 1Co_14:9vosotros, si por la l no diereis palabraG1100
+- 1Co_14:13habla en l extraña, pida en oraciónG1100
+- 1Co_14:14porque si yo oro en l desconocida, miG1100
+- 1Co_14:18gracias a Dios que hablo en l más queG1100
+- 1Co_14:19que diez mil palabras en l desconocidaG1100
+- 1Co_14:21en otras l y...hablaré a este puebloG2084
+- 1Co_14:22las l son por señal, no a los creyentesG1100
+- 1Co_14:23todos hablan en l, y entran indoctosG1100
+- 1Co_14:26cada uno de...tiene l, tiene revelaciónG1100
+- 1Co_14:27si habla alguno en l extraña, sea estoG1100
+- 1Co_14:39profetizar, y no impidáis el hablar lG1100
+- Flp_2:11toda l confiese que Jesucristo es elG1100
+- Stg_1:26no refrena su l, sino que engaña suG1100
+- Stg_3:5así también la l es un miembro pequeñoG1100
+- Stg_3:6y la l es un fuego, un mundo de maldadG1100
+- Stg_3:6la l está puesta entre nuestros miembrosG1100
+- Stg_3:8ningún hombre puede domar la l, que esG1100
+- 1Pe_3:10refrene su l de mal, y sus labiosG1100
+- 1Jn_3:18no amemos de palabra ni de l, sinoG1100
+- Rev_5:9de todo linaje y l y pueblo y naciónG1100
+- Rev_7:9de todas naciones y tribus y pueblos y lG1100
+- Rev_10:11que profetices otra vez sobre muchos...lG1100
+- Rev_11:9pueblos, tribus, l y naciones verán susG1100
+- Rev_13:7le dio autoridad sobre toda...l y naciónG1100
+- Rev_14:6predicarlo...a toda...tribu, l y puebloG1100
+- Rev_16:10se cubrió de...y mordían de dolor sus lG1100
+- Rev_17:15las aguas...son pueblos...naciones y lG1100

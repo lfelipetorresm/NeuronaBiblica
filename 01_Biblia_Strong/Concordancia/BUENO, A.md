@@ -1,0 +1,437 @@
+---
+tipo: concordancia
+palabra: BUENO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BUENO, A
+
+- Gén_1:4vio Dios que la luz era b: y separóH2896
+- Gén_1:10, Gén_1:12, Gén_1:18, Gén_1:21, Gén_1:25y vio Dios que era bH2896
+- Gén_1:31y vio Dios todo...era b en gran maneraH2896
+- Gén_2:9y todo árbol delicioso...y b para comerH2896
+- Gén_2:12y el oro de aquella tierra es b: hayH2896
+- Gén_2:18dijo...No es b que el hombre esté soloH2896
+- Gén_3:6vio...que el árbol era b para comer, yH2896
+- Gén_15:15vendrás...serás sepultado en b vejezH2896
+- Gén_18:7Abraham...tomó un becerro tierno y bH2896
+- Gén_23:16de plata, de b ley entre mercaderesH5674
+- Gén_24:12dame...el tener hoy b encuentro, y haz
+- Gén_24:50esto; no podemos hablarte malo ni bH2896
+- Gén_25:8y murió Abraham en b vejez, anciano yH2896
+- Gén_27:9y tráeme de allí dos b cabritos de lasH2896
+- Gén_30:20dijo Lea: Dios me ha dado una b doteH2896
+- Gén_41:35junten...la provisión de estos b añosH2896
+- Gén_45:18os daré lo b de la tierra de EgiptoH2896
+- Gén_49:15y vio que el descanso era b, y que laH2896
+- Éxo_3:8y sacarlos de...a una tierra b y anchaH2896
+- Lev_27:10trocado, b por malo, ni malo por bH2896
+- Lev_27:12, Lev_27:14el sacerdote lo valorará, sea b oH2896
+- Lev_27:33no mirará si es b o...ni lo cambiaráH2896
+- Núm_13:19es la tierra habitada, si es b o malaH2896
+- Núm_14:7la tierra...es tierra en gran manera bH2896
+- Núm_24:13hacer cosa b ni mala de mi arbitrioH2896
+- Deu_1:14dijisteis: B es hacer lo que has dichoH2896
+- Deu_1:25es b la tierra que Jehová...Dios nos daH2896
+- Deu_1:35no verá hombre...la b tierra que juréH2896
+- Deu_1:39y vuestros hijos que no saben hoy lo bH2896
+- Deu_3:25pase yo...ruego, y vea aquella tierra bH2896
+- Deu_4:21juró que yo...no entraría en la b tierraH2896
+- Deu_4:22pasaréis, y poseeréis aquella b tierraH2896
+- Deu_6:10en ciudades...y b que tú no edificasteH2896
+- Deu_6:18haz lo recto y b ante los ojos de JehováH2896
+- Deu_8:7Jehová, tu Dios, te introduce en la b tierraH2896
+- Deu_8:10bendecirás a Jehová...por la b tierraH2896
+- Deu_8:12que...edifiques b casas en que habitesH2896
+- Deu_9:6no te da en posesión esta b tierra por tuH2896
+- Deu_11:17y perezcáis pronto de la b tierra queH2896
+- Deu_12:28haciendo lo b y lo recto ante los ojosH2896
+- Deu_28:12te abrirá Jehová su b tesoro, el cieloH2896
+- Jos_7:21pues vi...un manto babilónico muy bH2896
+- Jos_9:25lo que te pareciere b y recto hacer deH2896
+- Jos_21:45no faltó palabra de todas las b queH2896
+- Jos_23:13esta b tierra que Jehová,...os ha dadoH2896
+- Jos_23:14no ha faltado una palabra de...las bH2896
+- Jos_23:15destruiros...b tierra que Jehová,...os haH2896
+- Jos_23:16y pereceréis...de esta b tierra que élH2896
+- Jue_8:25respondieron: de b ganaH5414
+- Jue_8:32Murió Gedeón hijo de Joás en b vejezH2896
+- Jue_9:11¿He de dejar mi dulzura y mi b frutoH2896
+- Jue_18:9región, y hemos visto que es muy bH2896
+- 1Sa_2:24porque no es b fama la que yo oigoH2896
+- 1Sa_12:23os instruiré en el camino b y rectoH2896
+- 1Sa_15:9perdonaron a Agag, y a...y de todo lo bH2896
+- 1Sa_16:12era...hermoso de ojos, y de b parecerH2896
+- 1Sa_17:18mira si tus hermanos están b, y tomaH7965
+- 1Sa_18:9día Saúl no miró con b ojos a DavidH5770
+- 1Sa_19:4sus obras han sido muy b para contigoH2896
+- 1Sa_25:3aquella mujer era de b entendimiento yH2896
+- 1Sa_25:8hemos venido en b día; te ruego queH2896
+- 1Sa_25:15aquellos hombres han sido muy b conH2896
+- 1Sa_29:9sé que tú eres b ante mis ojos, comoH2896
+- 1Sa_31:9que llevaran las b nuevas al templo de
+- 2Sa_4:10imaginándose que traía b nuevas, yoH1319
+- 2Sa_13:22Absalón no habló con Amnón ni...ni bH2896
+- 2Sa_14:17para discernir entre lo b y lo maloH2896
+- 2Sa_15:3mira, tus palabras son b y justas; masH2896
+- 2Sa_17:7consejo que ha dado...Ahitofel no es bH2896
+- 2Sa_18:25rey dijo: Si viene solo, b nuevas traeH1309
+- 2Sa_18:27hombre de bien, y viene con b nuevasH2896
+- 1Re_1:42eres...valiente, y traerás b nuevasH2896
+- 1Re_1:47Dios haga b el nombre de Salomón másH3190
+- 1Re_2:38y Simei dijo al rey: La palabra es bH2896
+- 1Re_2:42dijiste: La palabra es b...la obedezcoH2896
+- 1Re_3:9y para discernir entre lo b y lo maloH2896
+- 1Re_8:36enseñándoles el b camino en que andenH2896
+- 1Re_12:7si tú...respondiéndoles b palabras lesH2896
+- 1Re_14:13se ha hallado en él alguna cosa bH2896
+- 1Re_14:15arrancará a Israel de esta b tierraH2896
+- 1Re_20:33lo tomaron aquellos hombres como un b augurio
+- 1Re_22:13los profetas...anuncian al rey cosas bH2896
+- 1Re_22:18ninguna cosa b profetizará él acercaH2896
+- 2Re_2:19el lugar...es b, como mi señor veH2896
+- 2Re_3:19talaréis todo b árbol, cegaréis todasH2896
+- 2Re_3:25derribaron todos los b árboles; hastaH2896
+- 2Re_7:9es día de b nueva, y nosotros callamosH2896
+- 2Re_20:19palabra de Jehová...has hablado, es bH2896
+- 1Cr_4:40y hallaron...b pastos, y tierra anchaH2896
+- 1Cr_16:34aclamad a Jehová, porque él es bH2896
+- 1Cr_28:8que poseáis la b tierra, y la dejéisH2896
+- 1Cr_29:28y murió en b vejez, lleno de días, deH2896
+- 2Cr_5:13él es b, porque su misericordia esH2896
+- 2Cr_6:27enseñarás el b camino para que anden en élH2896
+- 2Cr_7:3porque él es b, y su misericordia es paraH2896
+- 2Cr_10:7hablares b palabras, ellos te serviránH2896
+- 2Cr_14:2hizo Asa lo b y lo recto ante los ojosH2896
+- 2Cr_18:7porque nunca me profetiza cosa b, sinoH2896
+- 2Cr_18:12los profetas...anuncian al rey cosas bH2896
+- 2Cr_19:3pero se han hallado en ti b cosas, porH2896
+- 2Cr_19:11esforzaos...y Jehová estará con el bH2896
+- 2Cr_30:18Jehová, que es b, sea propicio a todoH2896
+- 2Cr_30:22los levitas que tenían b inteligenciaH2896
+- 2Cr_31:20y ejecutó lo b, recto y verdaderoH2896
+- Esd_3:11porque él es b, porque para siempreH2896
+- Esd_7:9llegó...estando con él la b mano de DiosH2896
+- Esd_8:18nos trajeron según la b mano de...DiosH2896
+- Esd_8:27y dos vasos de bronce bruñido muy bH2896
+- Neh_1:11concede ahora b éxito a tu siervo
+- Neh_2:18la mano de mi Dios había sido b sobreH2896
+- Neh_5:9no es b lo que hacéis. ¿No andaréis enH2896
+- Neh_6:19contaban...las b obras de él, y a él leH2896
+- Neh_9:13diste juicios rectos...y mandamientos bH2896
+- Neh_9:20enviaste tu b Espíritu para enseñarlesH2896
+- Est_2:2-3jóvenes vírgenes de b parecerH2896, [[H4758]]
+- Est_2:7era de hermosa figura y de b parecerH3303
+- Est_9:22tristeza se les cambió...luto en dia bH2896
+- Job_13:9¿sería b que él os escudriñase?[[H2896]]
+- Job_34:4conozcamos entre nosotros cuál sea lo bH2896
+- Sal_14:3no hay quien haga lo b, no hay niH2896
+- Sal_25:8b y recto es Jehová...él enseñará a losH2896
+- Sal_34:8gustad, y ved que es b Jehová; dichosoH2896
+- Sal_36:4está en camino no b, el mal no aborreceH2896
+- Sal_38:20me son contrarios, por seguir yo lo bH2896
+- Sal_39:2silencio; me callé aun respecto de lo bH2896
+- Sal_45:1rebosa mi corazón palabra b; dirijo alH2896
+- Sal_49:14se consumirá su b parecer, y el SeolH6736
+- Sal_52:9y esperaré en tu nombre, porque es bH2896
+- Sal_53:3no hay quien haga lo b, no hay ni aunH2896
+- Sal_54:6alabaré tu nombre, oh Jehová...es bH2896
+- Sal_68:11multitud de las que llevan b nuevas
+- Sal_69:13a ti oraba...tiempo de tu b voluntad
+- Sal_73:1ciertamente es b Dios para con IsraelH2896
+- Sal_86:5porque tú, Señor, eres b y perdonadorH2896
+- Sal_89:17por tu b voluntad acrecentarás...poder
+- Sal_92:1b es alabarte, oh Jehová, y cantarH2896
+- Sal_100:5porque Jehová es b; para siempre esH2896
+- Sal_106:1; Sal_107:1alabad a Jehová, porque él es bH2896
+- Sal_109:21líbrame, porque tu misericordia es bH2896
+- Sal_111:10b entendimiento tienen todos los queH2896
+- Sal_118:1, Sal_118:29alabad a Jehová, porque él es bH2896
+- Sal_119:39quita de mi...porque b son tus juiciosH2896
+- Sal_119:66enséñame b sentido y sabiduríaH2896
+- Sal_119:68b eres tú, y bienhechor; enseñame tusH2896
+- Sal_119:71b me es haber sido humillado, paraH2896
+- Sal_125:4haz bien, oh Jehová, a los b, y a losH2898
+- Sal_133:1¡mirad cuán b y cuán delicioso esH2896
+- Sal_133:2es como el b óleo sobre la cabeza, elH2896
+- Sal_135:3alabad a Jah, porque él es b; cantadH2896
+- Sal_136:1alabad a Jehová...él es b; porque paraH2896
+- Sal_143:10tu b espíritu me guíe a tierra deH2896
+- Sal_145:9b es Jehová para con todos, y susH2896
+- Sal_147:1es b cantar salmos a nuestro DiosH2896
+- Pro_2:9entenderás justicia...y todo b caminoH2896
+- Pro_2:20así andarás por el camino de los b, yH2896
+- Pro_3:4y hallarás gracia y b opinion ante losH2896
+- Pro_4:2doy b enseñanza; no desamparéis mi leyH2896
+- Pro_8:14conmigo está el consejo y el b juicioH8454
+- Pro_12:2el b alcanzará favor de Jehová; mas elH2896
+- Pro_12:25lo abate; mas la b palabra lo alegraH2896
+- Pro_13:15el b entendimiento da gracia; mas elH2896
+- Pro_13:22el b dejará herederos a los hijos deH2896
+- Pro_14:9mas entre los rectos hay b voluntad
+- Pro_14:19malos se inclinarán delante de los bH2896
+- Pro_15:3los ojos...mirando a los malos y a los bH2896
+- Pro_15:23y la palabra a su tiempo, ¡cuán b es ![[H2896]]
+- Pro_15:30alegra...la b nueva conforta los huesosH2896
+- Pro_16:29lisonjea...hace andar por camino no bH2896
+- Pro_17:22el corazón alegre es una b medicinaH2896
+- Pro_17:26no es b condenar al justo, ni herir aH2896
+- Pro_18:5pervertir el derecho del justo, no es bH2896
+- Pro_19:2alma sin ciencia no es b, y aquel queH2896
+- Pro_20:23las pesas...y la balanza falsa no es bH2896
+- Pro_22:1de más estima es el b nombre que las
+- Pro_22:1y la b fama más que la plata y el oroH2896
+- Pro_24:13come, hijo...de la miel, porque es bH2896
+- Pro_24:20porque para el malo no habrá b fin
+- Pro_24:23hacer acepción de personas...no es bH2896
+- Pro_25:25son las b nuevas de lejanas tierrasH2896
+- Pro_25:27comer mucha miel no es b, ni el buscarH2896
+- Pro_28:21hacer acepción de personas no es bH2896
+- Ecl_5:18que lo b es comer y beber, y gozarH2896
+- Ecl_7:1mejor es la b fama que el b ungüento
+- Ecl_7:11b es la ciencia con herencia...para losH2896
+- Ecl_7:18b es que tomes de esto, y...de aquello noH2896
+- Ecl_9:2al b, al limpio y al no limpio; al queH2896
+- Ecl_9:2como al b, así al que peca; al que juraH2896
+- Ecl_11:6o si lo uno y lo otro es igualmente bH2896
+- Ecl_12:14toda cosa encubierta, sea b o...malaH2896
+- Cnt_7:9paladar como el b vino, que se entraH2896
+- Isa_5:20que a lo malo dicen b, y a lo b maloH2896
+- Isa_7:15que sepa desechar lo malo y escoger lo bH2896
+- Isa_7:16antes que el niño sepa...escoger lo bH2896
+- Isa_23:16haz b melodía, reitera la canción, paraH3190
+- Isa_39:8palabra de Jehová que has hablado es bH2896
+- Isa_41:7el yunque, diciendo: b está la soldaduraH2896
+- Isa_60:10b voluntad tendré de ti misericordia
+- Isa_61:1me ha enviado a predicar b nuevas a losH1319
+- Isa_61:2a proclamar el año de la b voluntad de
+- Isa_65:2rebelde, el cual anda por camino no bH2896
+- Jer_6:16preguntad...cuál sea el b camino, yH2896
+- Jer_6:20¿para qué a mí...la b caña olorosa deH6148
+- Jer_13:7había podrido; para ninguna cosa era bH6743
+- Jer_13:10este cinto, que para ninguna cosa es bH2896
+- Jer_24:2una cesta tenía higos muy b, como brevasH2896
+- Jer_24:3dije:Higos; higos b, muy b; y malosH2896
+- Jer_24:5como a estos higos b, así miraré a losH2896
+- Jer_29:10despertaré sobre vosotros mi b palabraH2896
+- Jer_33:11Jehová es b, porque para siempre es suH2896
+- Jer_33:14confirmaré la b palabra que he habladoH2896
+- Jer_42:6sea b, sea malo, a la voz de JehováH2896
+- Lam_3:25b es Jehová a los que en él esperanH2896
+- Lam_3:26b es esperar en silencio la salvación deH2896
+- Lam_3:27b le es al hombre llevar el yugo desdeH2896
+- Lam_3:38¿de la boca del Altisímo no sale...lo b?[[H2896]]
+- Lam_4:1¡cómo el b oro ha perdido su brillo!
+- Eze_17:5la puso en un campo b para sembrarH2233
+- Eze_17:8en un b campo, junto a muchas aguas fueH2896
+- Eze_18:18hizo...lo que no es b...el morirá por suH2896
+- Eze_20:25también les di estatutos que no eran bH2896
+- Eze_24:4sus piezas de carne...todas b piezasH2896
+- Eze_34:14en b pastos...allí dormirán en b redilH2896
+- Eze_34:18es poco que comáis los b pastos, sinoH2896
+- Eze_36:31y de vuestras obras que no fueron bH2896
+- Dan_1:4de b parecer,...en toda sabiduríaH2896
+- Dan_1:9Puso Dios a Daniel en gracia y en b voluntad
+- Ose_4:13debajo de...olmos que tuviesen b sombraH2896
+- Amó_5:14buscad lo b, y no lo malo, para queH2896
+- Miq_3:2vosotros que aborrecéis lo b y amáisH2896
+- Miq_6:8él te ha declarado lo que es b, y quéH2896
+- Nah_1:7Jehová es b, fortaleza en el día deH2896
+- Nah_1:15montes los pies del que trae b nuevasH1319
+- Zac_1:13respondió b palabras...al ángel queH2896
+- Mat_3:10árbol que no da b fruto es cortadoG2570
+- Mat_5:16vean vuestras b obras, y glorifiquen aG2570
+- Mat_5:45que hace salir su sol sobre malos y bG2573
+- Mat_6:22si tu ojo es b, todo tu cuerpo estaráG573
+- Mat_7:11pues si vosotros...sabéis dar b dádivasG18
+- Mat_7:11vuestro Padre...dará b cosas a los que leG18
+- Mat_7:17b árbol da b fruto, pero el árbol maloG18
+- Mat_7:18no puede el b árbol dar malos frutos, niG18
+- Mat_7:18no puede...ni el árbol malo dar frutos bG2570
+- Mat_7:19todo árbol que no da b fruto,es cortadoG2570
+- Mat_12:33haced el árbol b y su fruto b, o hacedG2570
+- Mat_12:34cómo podéis hablar lo b, siendo malos?[[G18]]
+- Mat_12:35el hombre b, del b tesoro...saca b cosasG18
+- Mat_13:8parte cayó en b tierra, y dio b frutoG2570
+- Mat_13:23el que fue sembrado en b tierra, ésteG2570
+- Mat_13:24a un hombre que sembró b semilla en suG2570
+- Mat_13:27¿no sembraste b semilla en tu campo?[[G2570]]
+- Mat_13:37el que siembra la b semilla es el HijoG2570
+- Mat_13:38la b semilla son los hijos del reinoG2570
+- Mat_13:45es...a un mercader que busca b perlas
+- Mat_13:48lo b en cestas, y lo malo echan fueraG2570
+- Mat_16:2dijo:cuando anochece, decís:B tiempoG2105
+- Mat_17:4Señor, b es para nosotros que estemosG2570
+- Mat_19:16Maestro b, ¿qué bien haré para tenerG18
+- Mat_19:17¿por qué me llamas b? Ninguno hay bG18
+- Mat_20:15¿o tienes tú envidia, porque yo soy b?[[G18]]
+- Mat_22:10juntaron a todos...juntamente malos y bG18
+- Mat_25:21b siervo y fiel; sobre poco has sidoG18
+- Mat_25:23b siervo y fiel; sobre poco has sido fielG18
+- Mat_26:10mujer...ha hecho conmigo una b obraG18
+- Mat_26:24b le fuera a ese hombre no...nacidoG18
+- Mar_4:8parte cayó en b tierra, y dio b frutoG2570
+- Mar_4:20éstos son los...sembrados en b tierraG2570
+- Mar_6:20perplejo, pero le escuchaba de b gana
+- Mar_9:5b es para nosotros que estamos aquí; yG2570
+- Mar_9:50b es la sal; mas si...se hace insípidaG2570
+- Mar_10:17Maestro b ¿qué haré para heredar laG18
+- Mar_10:18¿por qué me llamas b? Ninguno hay bG18
+- Mar_12:37multitud del pueblo le oía de b gana
+- Mar_14:6Jesús dijo: Dejadla...B obra me ha hechoG2570
+- Mar_14:21b le fuera a...hombre no haber nacidoG2570
+- Luc_1:19sido enviado a...darte estas b nuevasG2097
+- Luc_2:14paz, b voluntad para con los hombres![[G2107]]
+- Luc_3:9todo árbol que no da b fruto se corta yG2570
+- Luc_3:18con...anunciaba las b nuevas al pueblo
+- Luc_4:18me ha ungido para dar b nuevas a los
+- Luc_4:22Todos daban b testimonio de él y
+- Luc_6:38os dará; medida b, apretada, remecidaG2570
+- Luc_6:43no es b árbol el que da malos frutos, niG2570
+- Luc_6:43no es...ni árbol malo el que da b frutoG2570
+- Luc_6:45el hombre b, del b tesoro de...saca lo bG18
+- Luc_8:8otra parte cayó en b tierra, y nació yG18
+- Luc_8:15la que cayó en b tierra, éstos son losG2570
+- Luc_8:15que con corazón b y recto retienen laG18
+- Luc_9:33Maestro, b es para nosotros que estemosG2570
+- Luc_10:42María ha escogido la b parte, la cualG18
+- Luc_11:13siendo malos, sabéis dar b dádivas aG18
+- Luc_11:34cuando tu ojo es b, también todo tuG573
+- Luc_14:34b es la sal; mas si la sal se hiciereG2570
+- Luc_15:27gordo, por haberle recibido b y sanoG5198
+- Luc_18:18Maestro b, ¿qué haré para heredar laG18
+- Luc_18:19me llamas b? Ninguno hay b, sino soloG18
+- Luc_19:17bien, b siervo; por cuanto en lo pocoG18
+- Luc_23:50miembro del concilio, varón b y justoG18
+- Jua_1:46¿de Nazaret puede salir algo de b?[[G18]]
+- Jua_2:10todo hombre sirve primero el b vino, yG2570
+- Jua_2:10tú has reservado el b vino hasta ahoraG2570
+- Jua_5:29los que hicieron lo b, saldrán a...vidaG18
+- Jua_7:12unos decían: Es b; pero otros...No, sinoG18
+- Jua_10:11yo soy el b pastor; el b pastor su vidaG2570
+- Jua_10:14soy el b pastor; y conozco mis ovejasG2570
+- Jua_10:32b obras os he mostrado de mi padreG2570
+- Jua_10:33por b obras no te apedreamos, sino porG2570
+- Hec_6:3buscad...a 7 varones de b testimonio
+- Hec_9:36abundaba en b obras y en limosnas queG18
+- Hec_10:22tiene b testimonio en toda la naciónG18
+- Hec_11:24era varón b, y lleno del espíritu santoG18
+- Hec_16:2daban b testimonio de él los hermanosG3140
+- Hec_22:12tenía b testimonio de todos los judíos
+- Hec_23:1con toda b conciencia ha vivido delanteG18
+- Hec_24:10eres juez...con b ánimo haré mi defensa
+- Hec_27:8llegamos a un lugar...llaman b puertosG2568
+- Hec_27:22pero ahora los exhorto a tener b ánimo
+- Hec_27:25por tanto, oh varones, tened b ánimo
+- Rom_2:10honra y paz a todo aquel que hace lo bG18
+- Rom_3:12no hay quien haga lo b, no hay ni aunG5544
+- Rom_5:7pudiera ser que alguno...morir por el bG18
+- Rom_7:12ley...y el mandamiento santo, justo y bG18
+- Rom_7:13¿luego lo que es b, vino a ser muerteG18
+- Rom_7:13produjo...la muerte por medio de lo...bG18
+- Rom_7:16si...esto hago, apruebo que la ley es bG2570
+- Rom_10:15la paz, de los que anuncian b nuevas![[G18]]
+- Rom_11:24contra...fuiste injertado en el b olivoG2565
+- Rom_12:2cuál sea la b voluntad de Dios, agradableG18
+- Rom_12:9el amor...aborrece lo malo, seguid lo bG18
+- Rom_12:17procurad lo b delante de todos losG2570
+- Rom_13:3haz lo b, y tendrás alabanza de ellaG18
+- Rom_14:21b es no comer carne, ni beber vino, niG2570
+- Rom_15:2agrade a su projímo en lo que es b, paraG18
+- Rom_15:27les pareció b, y son deudores a ellos
+- 1Co_5:6no es b vuestra jactancia. ¿No sabéis?[[G2570]]
+- 1Co_7:1b le sería al hombre no tocar mujerG2570
+- 1Co_7:8digo...que b les fuera quedarse como yoG2570
+- 1Co_7:26tengo, pues, estopor b a causa de laG2570
+- 1Co_9:17si lo hago de b voluntad, recompensa
+- 1Co_15:33malas coversaciones corrompen las bG5543
+- 2Co_5:10lo que haya hecho...sea b o sea maloG18
+- 2Co_6:8por deshonra, por mala fama y por b famaG2162
+- 2Co_8:19y para demostrar vuestra b voluntad
+- 2Co_9:2conozco vuestra b voluntad, de la cual
+- 2Co_9:8a fin de que...abundéis para toda b obraG18
+- 2Co_11:19porque de b gana toleráis a los neciosG2234
+- 2Co_12:9de b gana me gloriaré...mis debilidadesG2236
+- 2Co_13:7para que vosotros hagáis lo b, aunqueG2570
+- Gál_3:8dio...la b nueva a abraham, diciendo
+- Gál_4:18b esmostrar celo en lo b siempre, y noG2570
+- Gál_6:6haga partícipe de toda cosa b al que loG18
+- Efe_2:10creados en cristo Jesús para b obrasG18
+- Efe_2:17anunció las b nuevas de paz a vosotros
+- Efe_4:28haciendo con sus manos lo que es bG18
+- Efe_4:29sino lo que sea b para...edificaciónG18
+- Efe_6:7sirviendo de b voluntad, como al SeñorG2133
+- Flp_1:6el que comenzó en vosotros la b obraG18
+- Flp_1:15por envidia...pero otros de b voluntadG2107
+- Flp_2:13así...como el hacer, por su b voluntad
+- Flp_2:19para que yo también esté de b ánimo
+- Flp_4:8lo amable, todo lo que es de b nombreG2163
+- Col_1:10todo, llevando fruto en toda b obraG18
+- Col_2:5gozándome y mirando vuestro b orden y
+- 1Ts_3:6nos dio b noticias de vuestra feG2097
+- 1Ts_5:15seguid siempre lo b unos para con otrosG18
+- 1Ts_5:21examinadlo todo; retened lo bG2570
+- 2Ts_2:16y nos dio...b esperanza por graciaG18
+- 2Ts_2:17os confirme en toda b palabra y obraG18
+- 1Ti_1:5es el amor nacido...de b concienciaG18
+- 1Ti_1:8sabemos que la ley es b, si uno la usaG2570
+- 1Ti_1:18que...milites por ellas la b miliciaG2570
+- 1Ti_1:19fe y b conciencia, desechando la cualG18
+- 1Ti_2:3esto es b y agradable delante de DiosG2570
+- 1Ti_2:10sino con b obras, como corresponde aG18
+- 1Ti_3:1si alguno anhela obispado, b obra deseaG2570
+- 1Ti_3:7es necesario que tenga b testimonio deG2570
+- 1Ti_4:4porque todo lo que Dios creó es b, yG2570
+- 1Ti_4:6si esto enseñas...serás b ministro deG2570
+- 1Ti_4:6nutrido con...de la b doctrina que hasG2570
+- 1Ti_5:4esto es lo b y agradable delante de DiosG2570
+- 1Ti_5:10que tenga testimonio de b obras; si haG2570
+- 1Ti_5:10si ha criado...ha practicado toda b obraG18
+- 1Ti_5:25se hacen manifiestas las b obras; y lasG2570
+- 1Ti_6:2los que se benefician de su b servicio
+- 1Ti_6:12pelea la b batalla de la fe, echa manoG2570
+- 1Ti_6:12habiendo hecho la b profesión delante deG2570
+- 1Ti_6:13que dio testimonio de la b profesiónG2570
+- 1Ti_6:18que sean ricos en b obras, dadivososG2570
+- 1Ti_6:19atesorando...b fundamento para lo porG2570
+- 2Ti_1:14guarda el b depósito por el EspírituG2570
+- 2Ti_2:3tú...sufre...como b soldado de JesucristoG2570
+- 2Ti_2:21al Señor, y dispuestos para toda b obraG18
+- 2Ti_3:3intemperantes...aborrecedores de lo bG865
+- 2Ti_3:17enteramente preparado para toda b obraG18
+- 2Ti_4:7he peleado la b batalla, he acabado laG2570
+- Tit_1:8amante de lo b, sobrio, justo, santoG5358
+- Tit_1:16reprobados en cuanto a toda b obraG18
+- Tit_2:5ser...b, sujetas a sus maridos, para queG18
+- Tit_2:7presentándote...como ejemplo de b obrasG2570
+- Tit_2:14un pueblo propio, celoso de b obrasG2570
+- Tit_3:1insistas...procuren ocuparse en b obrasG18
+- Tit_3:8estas cosas son b y útiles a los hombresG2570
+- Tit_3:14y aprendan...a ocuparse en b obras paraG2570
+- Heb_4:2se nos ha anunciado la b nueva como a
+- Heb_4:6a quienes...se les anunció la b nueva no
+- Heb_6:5gustaron de la b palabra de Dios y losG2570
+- Heb_10:24estimularnos al amor y a las b obrasG2570
+- Heb_11:2por ella alcanzaron b testinio los
+- Heb_11:39éstos, aunque alcanzaron b testimonio
+- Heb_13:9b cosa es afirmar el corazón con laG2570
+- Heb_13:18confiamos en que tenemos b concienciaG2570
+- Heb_13:21os haga aptos en toda obra b para queG18
+- Stg_1:17toda b dádiva...desciende de lo altoG18
+- Stg_2:3siéntate tú aquí en b lugar; y decís alG2570
+- Stg_2:7¿no blasfeman ellos el b nombre que fueG2570
+- Stg_3:13muestre por la b conducta sus obras enG2570
+- Stg_3:17llena...de b frutos, sin incertidumbreG18
+- Stg_4:17al que sabe hacer lo b, y no lo haceG2570
+- 1Pe_2:12b vuestra manera de vivir entre los
+- 1Pe_2:12a Dios...al considerar vuestras b obrasG2570
+- 1Pe_2:18no solamente a los b y afables, sinoG18
+- 1Pe_2:20si haciendo lo b sufrís, y lo soportáisG15
+- 1Pe_3:10el que quiere...ver días b, refrene suG18
+- 1Pe_3:16teniendo b conciencia, para que en loG18
+- 1Pe_3:16calumnian vuestra b conducta en cristoG18
+- 1Pe_3:21como la aspiración de una b concienciaG18
+- 1Pe_4:10minístrelo...como b administradores deG2570
+- 3Jn_1:11amado, no imites lo malo, sino lo bG18
+- 3Jn_1:11el que hace lo b es de Dios; pero el queG15

@@ -1,0 +1,89 @@
+---
+tipo: concordancia
+palabra: PRECIOSO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRECIOSO, A
+
+- Gén_24:53dio cosas p a su hermano y a su madreH4030
+- Gén_27:15tomó Rebeca los vestidos de Esaú...los p
+- 1Sa_26:21mi vida ha sido estimada p hoy a tusH3365
+- 1Sa_26:24como tu vida ha sido estimada p hoy a
+- 2Sa_12:30la corona de la...y tenía piedras pH3368
+- 1Re_10:2vino a Jerusalén con un...y piedras pH3368
+- 1Re_10:10y dio ella al rey...de oro...y piedras pH3368
+- 1Re_10:11también de Ofir...sándalo, y piedras pH3368
+- 1Re_20:6tornarán y llevarán todo lo p que tengasH4261
+- 2Re_20:13y Ezequías...les mostró...ungüentos pH5238
+- 1Cr_20:2la corona...había en ella piedras pH3368
+- 1Cr_29:2de madera; y piedras de ónice, piedras p
+- 1Cr_29:2toda clase de piedras p, y...de mármol enH3368
+- 1Cr_29:8todo el que tenía piedras p las dio para
+- 2Cr_3:6cubrió también la casa de piedras pH3368
+- 2Cr_9:1la reina de Sabá...especias...y piedras pH3368
+- 2Cr_9:9dio al rey...piedras p; nunca hubo talesH3368
+- 2Cr_9:10trajeron madera de sándalo, y piedras pH3368
+- 2Cr_20:25hallaron...así vestidos como alhajas pH2530
+- 2Cr_21:3padre les había dado...plata, y cosas pH4030
+- 2Cr_32:27adquirió...piedras p, perfumes, escudosH3368
+- 2Cr_36:10juntamente con los objetos p de la casa de JehováH2532
+- Esd_1:6les ayudaron con plata...y con cosas pH4030
+- Job_28:16Ofir, ni con ónice p, ni con zafiroH3368
+- Job_28:18la sabiduría es mejor que las piedras pH6443
+- Sal_36:7¡cuán p, oh Dios, es tu misericordia![[H3368]]
+- Sal_72:14la sangre de ellos será p ante sus ojosH3365
+- Sal_126:6y llorando el que lleva la p semillaH4901
+- Sal_139:17p me son, oh Dios, tus pensamientos![[H3365]]
+- Pro_3:15más p es que las piedras p; y todo loH3368
+- Pro_6:26pan; y la mujer caza la p alma del varónH3368
+- Pro_8:11mejor el la sabiduría que las piedras pH3368
+- Pro_12:27haber p del hombre es la diligenciaH3368
+- Pro_17:8piedra p es el soborno para el que loH2580
+- Pro_20:15hay oro y multitud de piedras p; masH3366
+- Pro_20:15mas los labios prudentes son joya pH3366
+- Pro_21:20tesoro p y aceite hay en la casa del
+- Pro_31:10su estima sobrepasa...de las piedras pH6443
+- Isa_13:12haré más p que el oro fino al varónH3365
+- Isa_28:16piedra...angular, p, de cimiento estableH3368
+- Isa_39:2les mostró...ungüento p, toda su casa deH5238
+- Isa_44:9y lo más p de ellos para nada es útilH2530
+- Isa_54:12tus ventanas pondré de piedras p, tusH2656
+- Isa_54:12puertas...toda tu muralla de piedras pH2656
+- Isa_64:11nuestras cosas p han sido destruidasH4261
+- Jer_12:10convirtieron...soledad mi heredad pH2532
+- Jer_15:19si entresacares lo p de lo vil, serásH3368
+- Jer_20:5entregaré asimismo...y todas sus cosas pH3368
+- Jer_25:34seáis degollados...caeréis como vaso pH2532
+- Jer_31:20¿no es Efraín hijo p para mí? ¿No esH3357
+- Lam_1:10su mano el enemigo a todas sus cosas pH4261
+- Lam_1:11Dieron por la comida todas sus cosas pH4261
+- Eze_26:12y tus casas p destruirán; y pondránH2532
+- Eze_27:20Dedán comerciaba...paños p para carrosH2667
+- Eze_27:22piedra p, y oro, vinieron a tus feriasH3368
+- Eze_27:24ropas p, enlazadas con cordones, v en
+- Eze_28:13de toda piedra p era tu vestidura deH3368
+- Dan_11:8aun...sus objetos p de plata y de oroH2532
+- Dan_11:38lo honrará...con piedras p y con cosasH3368
+- Dan_11:43se apoderará...de todas las cosas p deH2530
+- Ose_13:15saqueará el tesoro...de sus p alhajasH2532
+- Joe_3:5y mis cosas p y hermosas metisteis enH4261
+- Amó_6:6se ungen con los ungüentos más p; y no
+- Mat_13:46que habiendo hallado una perla p, fueG4186
+- Luc_7:25los que tienen vestidura p y viven enG1741
+- Hec_20:24ni estimo p mi vida para mí mismoG5093
+- 1Co_3:12alguno edificare...piedras p, maderaG5093
+- Stg_5:7cómo el labrador espera el p fruto deG5093
+- 1Pe_1:7vuestra fe, mucho más p que el oro, elG5093
+- 1Pe_1:19con la sangre p de Cristo, como de unG5093
+- 1Pe_2:4a él, piedra viva...para Dios escogida y pG1784
+- 1Pe_2:6en Sien la principal piedra...escogida, pG1784
+- 1Pe_2:7para, vosotros, pues, los que creéis...es pG5092
+- 2Pe_1:1alcanzado...una fe igualmente p que laG2472
+- 2Pe_1:4nos ha dado p y grandísimas promesas, paraG5093
+- Rev_17:4adornada de...de piedras p y de perlasG5093
+- Rev_18:12mercadería de oro...piedras p, de perlasG5093
+- Rev_18:12de todo objeto de madera p, de cobreG5093
+- Rev_18:16adornada de...de piedras p y de perlas![[G5093]]
+- Rev_21:19cimientos...adornados con toda piedra pG5093

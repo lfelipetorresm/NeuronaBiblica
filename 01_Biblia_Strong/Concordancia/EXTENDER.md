@@ -1,0 +1,252 @@
+---
+tipo: concordancia
+palabra: EXTENDER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EXTENDER
+
+- Gén_8:9él extendió su mano, y...la hizo entrarH7971
+- Gén_22:10y extendió Abraham su mano y tomóH7971
+- Gén_22:12y dijo: No extiendas tu mano sobre elH7971
+- Gén_28:14te extenderás al occidente, al orienteH6555
+- Gén_39:21Jehová...le extendió su misericordia,[[H5186]]
+- Gén_48:14Israel extendió su mano derecha, y laH7971
+- Gén_49:22sus vástagos se extienden sobre el muroH6805
+- Éxo_3:20extenderé mi mano, y heriré a EgiptoH7971
+- Éxo_4:4extiende tu mano...y él extendió su manoH7971
+- Éxo_6:6os redimiré con brazo extendido, y conH5186
+- Éxo_7:5cuando extienda mi mano sobre Egipto, yH5186
+- Éxo_7:19y extiende tu mano sobre las aguas deH5186
+- Éxo_8:5extiende tu mano con tu vara sobre losH5186
+- Éxo_8:6Aarón extendió su mano sobre las aguasH5186
+- Éxo_8:16extiende tu vara y golpea el polvo deH5186
+- Éxo_8:17y Aarón extendió su mano con su varaH5186
+- Éxo_9:15extenderé mi mano para herirte a ti y aH7971
+- Éxo_9:22extiende tu mano hacia el cielo, paraH5186
+- Éxo_9:23Moisés extendió su vara hacia el cieloH5186
+- Éxo_9:29extenderé mis manos...los truenos cesaránH6566
+- Éxo_9:33extendió sus manos a Jehová, y cesaronH6566
+- Éxo_10:12extiende tu mano...la tierra de EgiptoH5186
+- Éxo_10:13y extendió Moisés su vara sobre...EgiptoH5186
+- Éxo_10:21extiende tu mano hacia el cielo, paraH5186
+- Éxo_10:22extendió Moisés su mano hacia el cieloH5186
+- Éxo_14:16, Éxo_14:26y extiende tu mano sobre el marH5186
+- Éxo_14:21, Éxo_14:27extendió Moisés su mano sobre el marH5186
+- Éxo_15:12extendiste tu diestra; la tierra losH5186
+- Éxo_24:11no extendió su mano sobre los príncipesH7971
+- Éxo_25:20los querubines extenderán por encimaH6566
+- Éxo_37:9querubines extendían sus alas por encimaH6566
+- Éxo_40:21puso el velo extendido, y ocultó el arcaH4539
+- Lev_13:5si...no habiéndose extendido en la pielH6581
+- Lev_13:7si se extendiere la erupción en la pielH6581
+- Lev_13:8si...ve que la erupción se ha extendidoH6581
+- Lev_13:22y si se fuere extendiendo por la pielH6581
+- Lev_13:23, Lev_13:28la mancha...no se hubiere extendidoH6581
+- Lev_13:27, Lev_13:35hubiere ido extendiendo por la pielH6581
+- Lev_13:32la tiña no pareciere haberse extendidoH6581
+- Lev_13:51si se hubiere extendido...en el vestidoH6581
+- Lev_13:53plaga se haya extendido en el vestidoH6581
+- Lev_13:55aunque no se haya extendido la plagaH6581
+- Lev_13:57y si...extendiéndose en ellos, quemarásH6524
+- Lev_14:39y si la plaga se hubiere extendido enH6581
+- Lev_14:44si pareciere haberse extendido la plagaH6581
+- Lev_14:48viera que la plaga no se ha extendidoH6581
+- Núm_4:6extenderán encima un paño todo de azulH6566
+- Núm_4:7sobre la mesa...extenderán un paño azulH6566
+- Núm_4:8y extenderán sobre ella un paño carmesíH6566
+- Núm_4:11sobre el altar...extenderán un paño azulH6566
+- Núm_4:13extenderán sobre él un paño de púrpuraH6566
+- Núm_4:14y extenderán sobre él la cubierta deH6566
+- Núm_24:6como arroyos están extendidas...planta dosH5186
+- Núm_34:4y se extenderá del sur a Cades-barneaH8444
+- Deu_4:34brazo extendido, y hechos aterradoresH5186
+- Deu_5:15allá con mano fuerte y brazo extendidoH5186
+- Deu_7:19brazo extendido con que Jehová tu DiosH5186
+- Deu_9:29sacaste con tu...y con tu brazo extendidoH5186
+- Deu_11:2su mano poderosa, y su brazo extendidoH5186
+- Deu_22:17extenderán la vestidura delante de losH6566
+- Deu_26:8nos sacó de Egipto...con brazo extendidoH5186
+- Deu_32:11extiende sus alas, los toma, los llevaH6566
+- Jos_8:18dijo a Josué: Extiende la lanza queH5186
+- Jos_8:18Josué extendió hacia la ciudad la lanzaH5186
+- Jos_8:26no retiró su mano que había extendidoH5186
+- Jue_6:21extendiendo el ángel...el báculo queH7971
+- Jue_15:9los filisteos...se extendieron por LehiH5203
+- Jue_15:15una quijada...extendió la mano y la tomóH7971
+- Rut_3:9soy Rut...extiende el borde de tu capaH6566
+- 1Sa_22:17no quisieron extender sus manos paraH7971
+- 1Sa_24:6extienda mi mano contra él; porque es elH7971
+- 1Sa_24:10no extenderé mi mano contra mi señorH7971
+- 1Sa_26:9no le mates ¿quien extenderá su manoH7971
+- 1Sa_26:11guárdeme Jehová de extender mi manoH7971
+- 1Sa_26:23yo no quise extender mi mano contra elH7971
+- 2Sa_1:14no tuviste temor de extender tu manoH7971
+- 2Sa_5:18, 2Sa_5:22filisteos...extendieron por el valleH5203
+- 2Sa_6:6Uza extendió su mano al arca de Dios, yH7971
+- 2Sa_15:5¿él extendía la mano y lo tomaba, y loH7971
+- 2Sa_17:19una manta, la extendió sobre la bocaH6566
+- 2Sa_18:8la batalla se extendió por todo el paísH6327
+- 2Sa_18:12no extendería yo mi mano contra el hijoH7971
+- 2Sa_24:16cuando el ángel extendió su mano sobreH7971
+- 1Re_6:27extendían sus alas, de modo que elH6566
+- 1Re_8:7los querubines tenían extendidas las alasH6566
+- 1Re_8:22puso...y extendiendo sus manos al cieloH6566
+- 1Re_8:38y extendiera sus manos a esta casaH6566
+- 1Re_8:42de tu gran nombre...de tu brazo extendidoH5186
+- 1Re_8:54Salomón...sus manos extendidas al cieloH6566
+- 1Re_13:4extendiendo su mano...dijo: ¡Prendedle![[H7971]]
+- 1Re_13:4la mano que había extendido...se le secóH7971
+- 2Re_6:7tómalo...extendió la mano, y lo tomóH7971
+- 2Re_17:36que os sacó de...con...brazo extendidoH5186
+- 2Re_19:14las extendió Ezequías delante de JehováH6566
+- 2Re_21:13y extenderé sobre Jerusalén el cordelH5186
+- 1Cr_13:9Uza extendió su mano al arca paraH7971
+- 1Cr_13:10porque había extendido su mano al arcaH7971
+- 1Cr_14:9, 1Cr_14:13filisteos...extendieron por el valleH6584
+- 1Cr_21:16una espada...extendida contra JerusalénH5186
+- 1Cr_28:18con las alas extendidas cubrían el arcaH6566
+- 2Cr_3:13las alas extendidas por veinte codosH6566
+- 2Cr_5:8los querubines extendían las alas sobreH6566
+- 2Cr_6:12delante del altar...y extendió sus manosH6566
+- 2Cr_6:13se puso...y extendió sus manos al cieloH6566
+- 2Cr_6:29si extendiere sus manos hacia esta casaH6566
+- 2Cr_6:32venido...a causa de...tu brazo extendidoH5186
+- 2Cr_26:15su fama se extendió lejos, porque fueH3318
+- 2Cr_28:18los filisteos se habían extendido porH6584
+- Esd_9:5postré...y extendí mis manos a JehováH6566
+- Est_4:11a quien el rey extendiere el cetro deH3447
+- Est_5:2; Est_8:4el rey extendió a Ester el cetro deH3447
+- Est_8:7cuanto extendió su mano contra los judíosH7971
+- Job_1:11extiende ahora tu mano y toca todo loH7971
+- Job_2:5extiende ahora tu mano, y toca su huesoH7971
+- Job_9:8él solo extendió los cielos, y anda sobreH5186
+- Job_11:13corazón, y extendiera a él tus manosH6566
+- Job_15:25él extendió su mano contra Dios, y seH5186
+- Job_15:29ni extenderá por la tierra su hermosuraH5186
+- Job_26:7extiende el norte sobre vacío, cuelga laH5186
+- Job_26:9de su trono, y sobre él extiende su nubeH6576
+- Job_30:24mas él no extenderá la mano contra elH7971
+- Job_36:30sobre él extiende su luz, y cobija conH6566
+- Job_37:18¿extendiste tú con él...cielos, firmesH7554
+- Job_38:5¿o quién extendió sobre ella cordel?[[H5186]]
+- Job_39:26vuela...extiende hacia el sur sus alas?[[H6566]]
+- Sal_36:10extiende tu misericordia a los queH4900
+- Sal_37:35al impío...que se extendía como laurelH6168
+- Sal_55:20extendió el inicuo sus manos contra losH7971
+- Sal_68:31Etiopía se apresurará a extender susH7323
+- Sal_80:11extendió sus vástagos hasta el mar, yH7971
+- Sal_85:5¿extenderás tu ira de generación enH4900
+- Sal_88:9cada día; he extendido a ti mis manosH7849
+- Sal_104:2extiende los cielos como una cortinaH5186
+- Sal_105:39extendió...nube por cubierta, y fuegoH6566
+- Sal_125:3que extiendan los justos sus manos a laH7971
+- Sal_136:6que extendió la tierra sobre las aguasH7554
+- Sal_136:12con mano fuerte, y brazo extendidoH5186
+- Sal_138:7contra la ira de...extenderás tu manoH7971
+- Sal_143:6extendí mis manos a ti, mi alma a tiH6566
+- Pro_1:24extendí mi...y no hubo quien atendieseH5186
+- Pro_31:20y extiende sus manos al menesterosoH6566
+- Isa_1:15cuando extendáis vuestras manos, yoH6566
+- Isa_5:14el Seol, y sin medida extendió su bocaH6473
+- Isa_5:25extendió contra él su mano, y le hirióH5186
+- Isa_5:25; Isa_9:12, Isa_9:17, Isa_9:21; Isa_10:4sino que todavía su mano está extendidaH5186
+- Isa_8:8extendiendo sus alas, llenará la anchuraH4298
+- Isa_11:8el recién destetado extenderá su manoH1911
+- Isa_14:26esta, la mano extendida sobre todas lasH5186
+- Isa_14:27su mano extendida...la hará retroceder?[[H5186]]
+- Isa_16:8y se habían extendido por el desiertoH8582
+- Isa_16:8se extendieron sus plantas, pasaron elH5203
+- Isa_19:8y desfallecerán los que extienden redH6566
+- Isa_21:5la mesa, extienden tapices; comen, bebenH6822
+- Isa_23:11extendió su mano sobre el mar...temblarH5186
+- Isa_25:11extenderá su mano por en medio de élH6566
+- Isa_25:11como la extiende el nadador para nadarH6566
+- Isa_30:13grieta...amenaza ruina, extendiéndose enH1158
+- Isa_31:3que al extender Jehová su mano, caerá elH5186
+- Isa_34:11y se extenderá...cordel de destrucciónH5186
+- Isa_37:14canas...las extendió delante de JehováH6566
+- Isa_40:19platero le extiende el oro y le fundeH7554
+- Isa_40:22extiende los cielos como una cortinaH4969
+- Isa_42:5que extiende la tierra y sus productosH7554
+- Isa_44:24extiendo...los cielos, que e la tierraH7554
+- Isa_45:12yo, mis manos, extendieron los cielosH5186
+- Isa_51:13extendió los cielos y fundó la tierraH5186
+- Isa_51:16extendiendo los cielos y echando losH5193
+- Isa_54:2y las cortinas de tus...sean extendidasH5186
+- Isa_54:3porque te extenderás a la mano derechaH6555
+- Isa_65:2extendí mis manos todo el día a puebloH6566
+- Isa_66:12yo extiendo sobre ella paz como un ríoH5186
+- Jer_1:9y extendió Jehová su mano y tocó miH7971
+- Jer_4:31lamenta y extiende sus manos, diciendoH6566
+- Jer_6:4las sombras de la tarde se han extendidoH5186
+- Jer_6:12extenderé mi mano sobre los moradoresH5186
+- Jer_10:12y extendió los cielos con su sabiduríaH5186
+- Jer_15:6por tanto, yo extenderé sobre ti mi manoH5186
+- Jer_27:5gran poder y con mi brazo extendido, yH5186
+- Jer_32:17tu gran poder, y con tu brazo extendidoH5186
+- Jer_32:21con mano fuerte y brazo extendido, y conH5186
+- Jer_43:10estas piedras...extenderá su pabellónH5186
+- Jer_48:40; Jer_49:22volará, y extenderá sus alasH6566
+- Jer_51:15extendió los cielos con su inteligenciaH5186
+- Jer_51:25extenderé mi mano contra ti, y te haréH5186
+- Lam_1:10extendió su mano el enemigo a todasH6566
+- Lam_1:13ha extendido red a mis pies, me volvióH6566
+- Lam_1:17Sión extendió sus manos; no tiene quienH6566
+- Lam_2:8extendió el cordel, no retrajo su manoH5186
+- Lam_5:6extendimos la mano, para saciarnos de panH5414
+- Eze_1:11tenían sus alas extendidas por encimaH6504
+- Eze_1:22de cristal maravilloso, extendidó encimaH5186
+- Eze_1:23las alas...extendiéndose la una hacia la
+- Eze_2:9una mano extendida hacia mí, y en ellaH7971
+- Eze_2:10extendido...y estaba escrito por delanteH6566
+- Eze_6:14y extenderé mi mano contra ellos, yH5186
+- Eze_8:3y aquella figura extendió la mano, y meH7971
+- Eze_10:7un querubín extendió su mano...al fuegoH7971
+- Eze_12:13yo extenderé mi red sobre él, y caeráH6566
+- Eze_14:9extenderé mi mano...y lo destruiré de enH5186
+- Eze_14:13y extendiere yo mi mano sobre ella, yH5186
+- Eze_16:8extendí mi manto sobre ti, y cubrí tuH6566
+- Eze_16:27extendí contra ti mi mano, y disminuíH5186
+- Eze_17:7y extendió hacia ella sus ramas, paraH7971
+- Eze_17:20extenderé sobre él...red, y será presoH6566
+- Eze_19:8y extendieron sobre él su red, y en elH6566
+- Eze_20:33y brazo extendido, y enojo derramadoH5186
+- Eze_20:34os reuniré de las...con brazo extendidoH5186
+- Eze_25:7he aquí yo extenderé mi mano contra tiH5186
+- Eze_25:13también extenderé mi mano sobre EdomH5186
+- Eze_25:16extiendo mi mano contra los filisteosH5186
+- Eze_30:25la extienda contra la tierra de EgiptoH5186
+- Eze_32:3extenderé sobre ti mi red con reunión deH6566
+- Eze_35:3he aquí yo...extenderé mi mano contra tiH5186
+- Dan_11:42extenderá su mano contra las tierrasH7971
+- Ose_7:5extendió su mano con los escarnecedoresH4900
+- Ose_14:5y extenderá sus raíces como el LíbanoH5221
+- Ose_14:6extenderán sus ramas, y será su gloriaH1980
+- Joe_2:2que sobre los montes se extiende comoH6566
+- Miq_7:11en aquel día se extenderán los límitesH7368
+- Sof_1:4extenderé mi mano sobre Judá, y sobreH5186
+- Sof_2:13y extenderá su mano sobre el norte, yH5186
+- Zac_12:1que extiende los cielos y funda laH5186
+- Mat_8:3extendió la mano...diciendo: Quiero; séG1614
+- Mat_12:13extiende tu mano. Y él la extendió, yG1614
+- Mat_12:49extendiendo su mano...dijo: He aquí miG1614
+- Mat_14:31extendiendo la mano, asió de él, y leG1614
+- Mat_23:5y extienden los flecos de sus mantosG3170
+- Mat_26:51extendiendo la mano, sacó su espadaG1614
+- Mar_1:41extendió la mano y le tocó, y le dijoG1614
+- Mar_3:5extiende tu mano. Y él la extendió, y laG1614
+- Luc_5:13entonces...extendiendo él la mano, leG1614
+- Luc_5:15pero su fama se extendía más y más; yG1330
+- Luc_6:10dijo al hombre: Extiende tu mano. Y élG1614
+- Luc_7:17extendió la fama de él por toda JudeaG1831
+- Luc_22:53no extendisteis las manos contra miG1614
+- Jua_21:18extenderás...manos, y te ceñirá otroG1614
+- Jua_21:23dicho se extendió...entre los hermanosG1831
+- Hec_4:30mientras extiendes tu mano para queG1614
+- Hec_26:1Pablo...extendiendo la mano, comenzó asíG1614
+- Rom_10:21todo el día extendí mis manos a unG1600
+- Flp_3:13extendiéndome a lo que está delanteG1901
+- 1Ts_1:8vuestra fe en Dios se ha extendidoG1831
+- Rev_7:15extenderá su tabernáculo sobre ellosG4637

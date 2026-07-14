@@ -1,0 +1,260 @@
+---
+tipo: concordancia
+palabra: SACRIFICIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SACRIFICIO
+
+- Gén_46:1ofreció s al Dios de su padre IsaacH2076
+- Éxo_3:18y ofrezcamos, s a Jehová nuestro DiosH2076
+- Éxo_5:3ofreceremos s a Jehová nuestro Dios, paraH2076
+- Éxo_5:8diciendo: Vamos y ofrezcamos s a...DiosH2076
+- Éxo_5:17eso decís: Vamos y ofrezcamos s a JehováH2076
+- Éxo_8:8dejare ir a...para que ofrezca s a JehováH2076
+- Éxo_8:25ofreced s a vuestro Dios en la tierraH2076
+- Éxo_8:27y ofreceremos s a Jehová nuestro DiosH2076
+- Éxo_8:28ir para que ofrezcáis s a Jehová...DiosH2076
+- Éxo_8:29dejando ir al pueblo a dar s a JehováH2076
+- Éxo_10:25también nos darás s y holocaustos queH2077
+- Éxo_18:12tomó Jetro...holocaustos y s para DiosH2077
+- Éxo_22:20que ofreciere s a dioses...será muertoH2076
+- Éxo_23:18con pan leudo la sangre de mi s, ni laH2077
+- Éxo_24:5ofrecieron holocaustos y...como s de pazH2076
+- Éxo_29:28s de paz, porción de ellos elevada enH2077
+- Éxo_29:36cada día ofrecerás el becerro del s porH6213
+- Éxo_30:10expiación...con la sangre del s por el
+- Éxo_32:8le han ofrecido s, y han dicho: IsraelH2076
+- Éxo_34:15ofrecerán s a sus...y comerás de sus sH2276
+- Éxo_34:25leudada junto con la sangre de mi s, niH2077
+- Éxo_34:25ni se dejará hasta la mañana nada del sH2077
+- Lev_3:1si su ofrenda fuere s de paz...de ganadoH2077
+- Lev_3:3luego ofrecerá del s de paz...encendida aH2077
+- Lev_3:6de ovejas fuere su ofrenda para s de pazH2077
+- Lev_3:9s de paz ofrecerá por ofrenda encendidaH2077
+- Lev_4:10que se quita del buey del s de paz; y elH2077
+- Lev_4:26el altar, como la grosura del s de pazH2077
+- Lev_4:31, Lev_4:35fue quitada la grosura del s de pazH2077
+- Lev_5:16expiación por él con el carnero del s por
+- Lev_6:12y quemará...las grosuras de los s de paz
+- Lev_6:17como el s por el pecado, y como el s por
+- Lev_6:25esta es la ley del s expiatorio; en el
+- Lev_7:1esta es la ley del s por la culpa; es cosa
+- Lev_7:7como el s por el pecado...es el s por la
+- Lev_7:11es la ley del s de paz que se ofreceráH2077
+- Lev_7:12por s de acción de gracias tortas sinH2077
+- Lev_7:13ofrenda en el s de acciones de graciasH2077
+- Lev_7:14que rociare la sangre de los s de pazH2077
+- Lev_7:15la carne del s de...se comerá en el díaH2077
+- Lev_7:16mas si el s de su ofrenda fuere voto, oH2077
+- Lev_7:16será comido en el día que ofreciere su sH2077
+- Lev_7:17que quedare...del s hasta el tercer díaH2077
+- Lev_7:18si se comiere de la carne del s de pazH2077
+- Lev_7:20la persona que comiere la...del s de pazH2077
+- Lev_7:21tocare...y comiere la carne del s de pazH2077
+- Lev_7:29ofreciere s de paz a Jehová, traerá suH2077
+- Lev_7:29su ofrenda del s de paz ante JehováH2077
+- Lev_7:30mecido como s mecido delante de Jehová
+- Lev_7:32al sacerdote...la espaldilla...s de pazH2077
+- Lev_7:33ofreciere la sangre de los s de paz, y
+- Lev_7:34he tomado de los s de paz de los hijosH2077
+- Lev_7:37esta es la ley del...del s por el pecado
+- Lev_7:37ley...del s por la culpa...y del s de pazH2077
+- Lev_9:4un buey y un carnero para s de paz, queH2076
+- Lev_9:18degolló...buey y el carnero en s de pazH2076
+- Lev_9:22después de hacer...el s de paz, descendió
+- Lev_10:14dados de los s de paz de los hijos deH2077
+- Lev_10:19y si hubiera yo comido hoy del s de
+- Lev_14:13donde se degüella el s por el pecado
+- Lev_14:17encima de la sangre del s por la culpa
+- Lev_14:19ofrecerá luego el...el s por el pecadoH6213
+- Lev_14:31uno en s de expiación por el pecado, y
+- Lev_16:25y quemará...grosura del s por el pecado
+- Lev_17:5fin de que traigan los hijos de...sus sH2077
+- Lev_17:5y sacrifiquen ellos s de paz a JehováH2076
+- Lev_17:7nunca más sacrificarán sus s...demoniosH2076
+- Lev_17:8varón de...que ofreciere holocausto o sH2077
+- Lev_19:5cuando ofreciereis s de ofrenda de pazH2077
+- Lev_22:21alguno ofreciere s en ofrenda de pazH2077
+- Lev_22:27acepto para ofrenda de s encendido a
+- Lev_22:29ofreciereis s de acción de gracias aH2077
+- Lev_23:19dos corderos...en s de ofrenda de pazH6213
+- Lev_23:37s y libaciones, cada cosa en su tiempoH2077
+- Núm_10:10trompetas...sobre los s de paz, y osH2077
+- Núm_15:3holocausto, o s, por especial voto, oH2077
+- Núm_15:5vino...además...del s, por cada corderoH2077
+- Núm_15:8ofrecieres novillo en holocausto o s porH2077
+- Núm_25:2invitaban al pueblo a los s de...diosesH2077
+- Deu_12:6, Deu_12:11allí llevaréis...vuestros s...diezmosH2077
+- Deu_12:27la sangre de tus s será derramada sobreH2077
+- Deu_17:1no ofrecerás en s...buey o cordero en elH2076
+- Deu_18:3los que ofrecieren en s buey o corderoH2077
+- Deu_32:38comían la grosura de sus s, y bebían elH2077
+- Deu_33:19allí sacrificarán s de justicia, por loH2077
+- Jos_13:14s de Jehová Dios de...son su heredadH801
+- Jos_22:26un altar, no para holocausto, ni para sH2077
+- Jos_22:27el servicio de Jehová...con nuestros sH2077
+- Jos_22:28hicieron...no para...o s, sino para queH2077
+- Jos_22:29edificando...o para s, además del altarH2077
+- Jue_2:5Boquim, y ofrecieron allí s a JehováH2076
+- Jue_16:23se juntaron para ofrecer s a Dagón suH2077
+- 1Sa_1:3varón subía...para ofrecer s a JehováH2076
+- 1Sa_1:4llegaba el día en que Elcana ofrecía s
+- 1Sa_1:21para ofrecer a Jehová el s acostumbradoH2077
+- 1Sa_2:13era costumbre...cuando alguno ofrecía sH2077
+- 1Sa_2:19subía con su marido para ofrecer el sH2077
+- 1Sa_2:29habéis hollado mis s y mis ofrendas, queH2077
+- 1Sa_3:14la casa de Elí no será expiada...ni con sH2077
+- 1Sa_6:15y dedicaron s a Jehová en aquel díaH2077
+- 1Sa_9:12pueblo tiene hoy un s en el lugar altoH2077
+- 1Sa_9:13no...por cuanto él es el que bendice el sH2077
+- 1Sa_15:21tomó...para ofrecer s a Jehová tu DiosH2076
+- 1Sa_15:22el obedecer es mejor que los s, y elH2077
+- 1Sa_16:2y dí: A ofrecer s a Jehová he venidoH2076
+- 1Sa_16:3llama a Isaí al s, y yo te enseñaré loH2077
+- 1Sa_16:5vengo a ofrecer s...venid conmigo al sH2076
+- 1Sa_16:5santificando él a Isaí...los llamó al sH2077
+- 1Sa_20:6de su familia celebran allá el s anualH2077
+- 1Sa_20:29nuestra familia celebra s en la ciudadH2077
+- 2Sa_15:12y mientras Absalón ofrecía los sH2077
+- 1Re_3:15sacrificó holocaustos y ofreció s deH6213
+- 1Re_8:63y ofreció Salomón s de paz, los cualesH2077
+- 1Re_8:64ofreció allí...la grosura de los s de pazH4503
+- 1Re_8:64y no cabían...la grosura de los s de paz
+- 1Re_9:25ofrecía...s de paz sobre el altar que élH5927
+- 1Re_11:8sus mujeres...ofrecían s a sus diosesH2076
+- 1Re_12:27pueblo subiere a ofrecer s en la casaH2077
+- 1Re_12:32así hizo en Bet-el, ofreciendo s a losH2076
+- 1Re_18:29hasta la hora de ofrecerse el s, peroH4503
+- 2Re_3:20por la mañana, cuando se ofrece el sH4503
+- 2Re_5:17no...ni ofrecerá s a otros dioses, sinoH2077
+- 2Re_10:19uno; porque tengo un gran s para BaalH2077
+- 2Re_10:24cuando ellos entraron para hacer s yH2077
+- 2Re_16:12acercó el rey a él, y ofreció s en élH5927
+- 2Re_16:13y esparció la sangre de sus s de paz
+- 2Re_16:15esparcirás sobre él...la sangre del sH2077
+- 2Re_17:35no...ni les serviréis, ni les haréis sH2076
+- 2Re_17:36a Jehová...temeréis...y a éste haréis sH2076
+- 1Cr_6:49Aarón y...ofrecían s sobre el altar
+- 1Cr_16:1trajeron el arca...ofrecieron...s de paz
+- 1Cr_16:2y cuando David acabó de ofrecer...los s
+- 1Cr_21:28Jehová le había oído en...ofreció s allíH2076
+- 1Cr_23:29la flor de harina para el s, para lasH4503
+- 1Cr_29:21ofrecieron...s de parte de todo IsraelH2077
+- 2Cr_7:5ofreció el rey Salomón en s...bueyesH2077
+- 2Cr_7:12y he elegido...este lugar por casa de sH2076
+- 2Cr_11:16vinieron a Jerusalén para ofrecer s aH2076
+- 2Cr_28:23ofreció s a los dioses de Damasco queH2076
+- 2Cr_28:23yo también ofreceré s a ellos para queH2076
+- 2Cr_29:31presentad s y alabanzas en la casa deH2077
+- 2Cr_29:31y la multitud presentó s y alabanzasH2077
+- 2Cr_30:22ofreciendo s de paz, y dando gracias aH2076
+- 2Cr_33:16y sacrificó sobre él s de ofrendas deH2076
+- 2Cr_33:22ofreció s y sirvió a todos los ídolosH2076
+- 2Cr_34:4los sepulcros de los que les habían...sH2076
+- 2Cr_34:25han dejado, y han ofrecido s a dioses
+- 2Cr_35:9a los levitas para los s de la pascua
+- 2Cr_35:14ocupados hasta la noche en el s de losH5927
+- Esd_3:5las nuevas lunas...y todo s espontáneo
+- Esd_4:2a él ofrecemos s desde los días de...reyH2076
+- Esd_6:3casa reedifica como lugar para ofrecer sH1685
+- Esd_6:10ofrezcan s agradables al Dios del cielo
+- Esd_9:4muy angustiado hasta la hora del s de laH4503
+- Esd_9:5a la hora del s de la tarde me levanté deH4503
+- Neh_4:2les permitirá volver a ofrecer sus s?[[H2076]]
+- Neh_10:33s de expiación por el pecado de IsraelH2077
+- Sal_4:5ofreced s de justicia, y confiad enH2077
+- Sal_27:6yo sacrificaré en su tabernáculo s deH2077
+- Sal_40:6s y ofrenda no te agrada; has abiertoH2077
+- Sal_50:5los que hicieron conmigo pacto con sH2077
+- Sal_50:8no te reprenderé por tus s, ni por tusH2077
+- Sal_51:16porque no quieres s, que yo lo daríaH2077
+- Sal_51:17s de Dios son el espíritu quebrantadoH2077
+- Sal_51:19entonces te agradarán los s de justiciaH2077
+- Sal_66:15ofreceré en s bueyes y machos cabríos
+- Sal_69:31agradará a Jehová más que s de buey, o
+- Sal_106:28se...y comieron los s de los muertosH2077
+- Sal_106:38ofrecieron en s a los ídolos de CanaánH2076
+- Sal_107:22ofrezcan s de ¡Alabanza, y publiquen susH2076
+- Sal_116:17te ofreceré s de alabanza, e invocaréH2077
+- Sal_119:108te sean agradables los s...de mi boca
+- Pro_7:14s de paz había prometido...he pagado
+- Pro_15:8s de los impíos es abominación a JehováH2077
+- Pro_21:3juicio es a Jehová más agradable que sH2077
+- Pro_21:27el s de los impíos es abominaciónH2077
+- Ecl_5:1más para oír que para ofrecer el s deH2077
+- Isa_1:11¿para qué me sirve, dice...vuestros s?[[H2077]]
+- Isa_19:21y los de Egipto...harán s y oblaciónH2077
+- Isa_34:6Jehová tiene s en Bosra, y...matanza enH2077
+- Isa_40:16fuego, ni todos sus animales para el s
+- Isa_43:23ni a mí me honraste con tus s; no teH2077
+- Isa_43:24ni me saciaste con la grosura de tus sH2077
+- Isa_56:7y sus s serán aceptos sobre mi altarH2077
+- Isa_57:7tu cama; allí también subiste a hacer sH2077
+- Jer_6:20aceptables, ni vuestros s me agradanH2077
+- Jer_7:21holocaustos sobre vuestros s, y comed laH2077
+- Jer_11:15¿crees que los s...evitarte el castigo?[[H2077]]
+- Jer_17:26trayendo holocausto y s, y ofrenda eH2077
+- Jer_17:26trayendo s de alabanza a la...de JehováH2077
+- Jer_33:18ofrenda, y que haga s todos los díasH2077
+- Jer_46:10s será para Jehová...en tierra del norteH2077
+- Eze_39:17s grande sobre los montes de IsraelH2076
+- Eze_40:39degollar sobre ellas...s por el pecado
+- Eze_40:42los utensilios con que degollarán...el sH2077
+- Eze_42:13allí pondrán las...y el s por el pecado
+- Eze_44:29el s por el pecado comerán, y toda cosaH4503
+- Eze_45:15una cordera del rebaño...para s, y paraH4503
+- Eze_45:17dar...el s y la libación en las fiestasH4503
+- Eze_46:13y ofrecerás en s a Jehová...un cordero
+- Dan_8:11y por él fue quitado el continuo s, y
+- Dan_8:12el ejército junto con el continuo s; y
+- Dan_8:13¿hasta cuándo durará la visión del...s
+- Dan_9:21a mí como a la hora del s de la tardeH4503
+- Dan_9:27la semana hará cesar el s y la ofrendaH2077
+- Dan_11:31profanarán...y quitarán el continuo s
+- Dan_12:11el tiempo que sea quitado el continuo s
+- Ose_3:4estarán...sin s, sin estatua, sin efodH2077
+- Ose_4:19los ató...y de sus s serán avergonzadosH2077
+- Ose_6:6porque misericordia quiero, y no s, yH2077
+- Ose_8:13en los s de mis ofrendas sacrificaronH2076
+- Ose_9:4a Jehová, ni sus s le serán gratos; comoH2077
+- Amó_4:4a Bet-el...y traed de mañana vuestros sH2077
+- Amó_4:5y ofreced s de alabanza con pan leudado
+- Amó_5:25¿me ofrecisteis s y...en el desierto enH2077
+- Jon_1:16y ofrecieron s a Jehová, e hicieronH2076
+- Jon_2:9mas yo con voz de alabanza te ofreceré sH2076
+- Hab_1:16por esto hará s a su red, y ofreceráH2076
+- Sof_1:7Jehová ha preparado s, y ha dispuestoH2076
+- Sof_1:8en el día del s de Jehová castigaré a losH2076
+- Mal_1:8ofrecéis el animal ciego para el s, ¿noH2076
+- Mat_9:13; Mat_12:7misericordia quiero, y no sG2378
+- Mar_9:49con fuego, y todo s será salado con salG2378
+- Mar_12:33el amarle...es más que todos los...y sG2378
+- Luc_13:1sangre Pilato había mezclado con los sG2378
+- Hec_7:41un becerro, y ofrecieron s al ídoloG2378
+- Hec_7:42¿acaso me ofrecisteis víctimas y s en elG2378
+- Hec_14:13sacerdote de Júpiter...quería ofrecer sG2380
+- Hec_14:18impedir que la multitud les ofreciese SG2380
+- Rom_12:1presentéis vuestros cuerpos en s vivoG2378
+- 1Co_10:18los que comen de los s, ¿no sonG2378
+- Efe_5:2ofrenda y s a Dios en olor fraganteG2378
+- Flp_2:17sea derramado...sobre el s y servicioG2378
+- Flp_4:18olor fragante, s acepto, agradable a DiosG2378
+- Heb_5:1presente ofrendas y s por los pecadosG2378
+- Heb_7:27de ofrecer primero s por sus propiosG2378
+- Heb_8:3constituido para presentar ofrendas y sG2378
+- Heb_9:9se presentan ofrendas y s que no puedenG2378
+- Heb_9:23celestiales mismas, con mejores s queG2378
+- Heb_9:26se presentó una vez...el s de sí mismoG2378
+- Heb_10:1por los mismos s que se ofrecen...cada añoG2378
+- Heb_10:3en estos s cada año se hace memoria de
+- Heb_10:5dice: S y ofrenda no quisiste; mas meG2378
+- Heb_10:8s y ofrenda y holocaustos y expiacionesG2378
+- Heb_10:11y ofreciendo muchas veces los mismos sG2378
+- Heb_10:12Cristo, habiendo ofrecido...un solo s porG2378
+- Heb_10:26si...ya no queda más s por los pecadosG2378
+- Heb_11:4Abel ofreció...más excelente s que CaínG2378
+- Heb_13:15ofrezcamos...s de alabanza, es decirG2378
+- Heb_13:16hacer bien...de tales s se agrada DiosG2378
+- 1Pe_2:5para ofrecer s espirituales aceptablesG2378

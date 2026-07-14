@@ -1,0 +1,568 @@
+---
+tipo: concordancia
+palabra: NACIÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NACIÓN
+
+- Gén_10:5cada...conforme a sus familias en sus nH1471
+- Gén_10:20, Gén_10:31lenguas, en sus tierras, en sus tiH1471
+- Gén_10:32de Noé por sus descendencias, en sus nH1471
+- Gén_10:32y de éstos se esparcieron las n en laH1471
+- Gén_12:2haré de ti una n grande, y te bendeciréH1471
+- Gén_13:14a la n a la cuál servirán, juzgaré yoH1471
+- Gén_17:6multiplicaré...y haré n de ti, y reyesH1471
+- Gén_17:16bendeciré, y vendrá a ser madre de nH1471
+- Gén_17:20Ismael, también haré de él una gran nH1471
+- Gén_18:18habiendo de ser Abraham una n grandeH1471
+- Gén_18:18ser benditas en él...las n de la tierra?[[H1471]]
+- Gén_21:13hijo de la sierva haré una n, porque esH1471
+- Gén_21:18mano, porque yo haré de él una gran nH1471
+- Gén_22:18benditas todas las n de la tierra, porH1471
+- Gén_25:23dos n hay en tu seno, y dos pueblosH1471
+- Gén_26:4las n de...serán benditas en tu simienteH1471
+- Gén_27:29y n se inclinen a ti; sé señor de tusH3816
+- Gén_35:11una n y conjunto de n procederán de tiH1471
+- Gén_46:3porque allí yo haré de ti una gran nH1471
+- Gén_48:4te pondré por estirpe de n; y daré esta
+- Gén_48:19su descendencia formará multitud de nH1471
+- Éxo_12:48la celebrará...como uno de vuestra nH776
+- Éxo_32:10consuma; y de ti yo haré una n grandeH1471
+- Éxo_34:10no han sido hechas en...ni en n algunaH1471
+- Éxo_34:24yo arrojaré a las n de tu presenciaH1471
+- Lev_18:24se han corrompido las n que yo echoH776
+- Lev_18:28como vomitó a la n que la habitó antesH776
+- Lev_20:23las prácticas de las n que yo echaréH776
+- Lev_26:33y a vosotros os esparciré entre las nH776
+- Lev_26:38y pereceréis entre las n, y la tierraH776
+- Lev_26:45cuando los saqué...a los ojos de las nH776
+- Núm_23:9pueblo...no será contado entre las nH1471
+- Núm_24:8devorará a las n enemigas, desmenuzaráH1471
+- Núm_24:20Amalec, cabeza de n...al fin pereceráH1471
+- Deu_4:6pueblo sabio y entendido, n grande esH5971
+- Deu_4:7¿qué n grande hay que tenga dioses tanH1471
+- Deu_4:8¿qué n grande hay que tenga estatutos yH1471
+- Deu_4:27quedaréis pocos en número entre las nH1471
+- Deu_4:34tomar para sí...n de en medio de otra nH1471
+- Deu_4:38para echar...de tu presencia n grandesH1471
+- Deu_7:1haya echado de delante de ti a muchas nH1471
+- Deu_7:1siete n mayores y más poderosas que túH1471
+- Deu_7:17estas n son mucho más numerosas que yoH1471
+- Deu_7:22Dios echará a estas n de delante de tiH1471
+- Deu_8:20las n que Jehová destruirá delante deH1471
+- Deu_9:1entrar a desposeer a n más numerosas yH1471
+- Deu_9:4-5por la impiedad de estas n...las arrojaH1471
+- Deu_9:14yo te pondré sobre una n fuerte y muchoH1471
+- Deu_11:23echaré de delante de...a todas estas nH1471
+- Deu_11:23desposeeréis n grandes y más poderosasH1471
+- Deu_12:2donde las n que...sirvieron a sus diosesH1471
+- Deu_12:29tu Dios haya destruido...n adonde tú vasH1471
+- Deu_12:30de la manera que servían aquellas n aH1471
+- Deu_15:6prestarás entonces a muchas n, mas túH1471
+- Deu_15:6tendrás dominio sobre muchas n, peroH1471
+- Deu_17:14un rey...como todas las n que están enH1471
+- Deu_18:9no aprenderás...las abominaciones de...nH1471
+- Deu_18:12por estas abominaciones...echa estas nH1471
+- Deu_18:14estas n...a agoreros y a adivinos oyenH1471
+- Deu_19:1destruya a las n cuya tierra Jehová tuH1471
+- Deu_20:15que no sean de las ciudades de estas nH1471
+- Deu_26:5allí creció y llegó a ser una n grandeH1471
+- Deu_26:19a fin de exaltarte sobre todas las nH1471
+- Deu_28:1tu Dios te exaltará sobre todas las nH1471
+- Deu_28:12prestarás a muchas n, y tú no pedirásH1471
+- Deu_28:36llevará...a n que no conociste ni tú niH1471
+- Deu_28:49traerá contra ti una n...n cuya lenguaH1471
+- Deu_28:65ni aun entre estas n descansarás, ni laH1471
+- Deu_29:16hemos pasado por en medio de las n porH776
+- Deu_29:18para ir a servir a los dioses de esas nH1471
+- Deu_29:24todas las n dirán: ¿Por qué hizo estoH1471
+- Deu_30:1arrepintieres en medio de todas las nH1471
+- Deu_31:3destruirá a estas n delante de ti, y lasH1471
+- Deu_32:8cuando el Altísimo hizo heredar a las nH1471
+- Deu_32:21los provocaré a ira con una n insensataH1471
+- Deu_32:28porque son n privada de consejos, y noH1471
+- Deu_32:43alabad, n, a su pueblo...él vengará laH1471
+- Jos_23:3que Jehová...ha hecho con todas estas nH1471
+- Jos_23:4os he repartido por suerte, en...estas nH1471
+- Jos_23:7que no os mezcléis con estas n que hanH1471
+- Jos_23:9pues ha arrojado...grandes y fuertes nH1471
+- Jos_23:12os uniereis a lo que resta de estas nH1471
+- Jos_23:13no arrojará más a estas n delante deH1471
+- Jue_2:21arrojar...ninguna de las n que dejóH1471
+- Jue_2:23dejó...a aquellas n, sin arrojarlas deH1471
+- Jue_3:1estas, pues, son las n que dejó JehováH1471
+- 1Sa_8:5un rey que, como tienen todas las nH1471
+- 1Sa_8:20y nosotros seremos...como todas las nH1471
+- 2Sa_7:23quién como tu pueblo...n singular enH1471
+- 2Sa_7:23que rescataste...de las n y de sus diosesH1471
+- 2Sa_8:11el oro que había dedicado de todas las nH1471
+- 2Sa_22:44guardaste para que fuese cabeza de nH1471
+- 2Sa_22:50yo te confesaré entre las n, oh JehováH1471
+- 1Re_4:31y fue conocido entre todas las n deH1471
+- 1Re_14:24hicieron...las abominaciones de las nH1471
+- 1Re_18:10no ha habido n ni...adonde mi señor noH1471
+- 1Re_18:10reinos y a n él ha hecho jurar que noH1471
+- 2Re_16:3las prácticas abominables de las nH1471
+- 2Re_17:8y anduvieron en los estatutos de las nH1471
+- 2Re_17:11a la manera de las n que Jehová habíaH1471
+- 2Re_17:15en pos de las n que estaban alrededorH1471
+- 2Re_17:29pero cada n se hizo sus dioses, y losH1471
+- 2Re_17:29cada n en su ciudad donde habitabaH1471
+- 2Re_17:33según la costumbre de las n de dondeH1471
+- 2Re_18:33¿acaso alguno de los dioses de las nH1471
+- 2Re_19:12¿acaso libraron sus dioses a las n queH1471
+- 2Re_19:17reyes de Asiria han destruido las n yH1471
+- 2Re_21:2las abominaciones de las n que JehováH1471
+- 2Re_21:9más mal que las n que Jehová destruyóH1471
+- 1Cr_14:17puso el temor de David sobre...nH1471
+- 1Cr_16:20y andaban de n en n, y de un reino aH1471
+- 1Cr_16:31tierra, y digan en las n: Jehová reinaH1471
+- 1Cr_16:35recógenos, y líbranos de las n, paraH1471
+- 1Cr_17:21echando a las n de delante de tu puebloH1471
+- 1Cr_18:11el oro que había tomado de todas lasH1471
+- 2Cr_12:8qué es servir a los reinos de las nH776
+- 2Cr_20:6y tienes dominio...los reinos de las nH1471
+- 2Cr_25:15has buscado los dioses de otra n, queH5971
+- 2Cr_28:3a las abominaciones de las n que JehováH1471
+- 2Cr_32:13¿Pudieron los dioses de las n de esasH1471
+- 2Cr_32:14¿qué dios hubo de entre...de aquellas nH1471
+- 2Cr_32:15que si ningún dios de todas aquellas nH1471
+- 2Cr_32:17como los dioses de las n de los paísesH1471
+- 2Cr_32:23muy engrandecido delante de todas las nH1471
+- 2Cr_33:2a las abominaciones de las n que JehováH1471
+- 2Cr_33:9más mal que las n que Jehová destruyóH1471
+- 2Cr_36:14siguiendo...las abominaciones de las nH1471
+- Neh_5:8judíos que habían sido vendidos a...nH1471
+- Neh_5:9ser oprobio de las n enemigas nuestras?[[H1471]]
+- Neh_5:17los que venían de las n que...alrededorH1471
+- Neh_6:6se ha oído entre las n, y Gasmu lo diceH1471
+- Neh_6:16temieron todas las n que...alrededor deH1471
+- Neh_13:26bien que en muchas n no hubo rey comoH1471
+- Est_2:20Ester...no había declarado su n ni suH4138
+- Est_8:6¿cómo podré yo ser la destrucción de mi n?[[H4138]]
+- Job_12:23multiplica las n, y él las destruyeH1471
+- Job_12:23esparce a las n, y las vuelve a reunirH1471
+- Job_34:29esto sobre una n, y lo mismo sobre unH1471
+- Sal_2:8pídeme, y te daré por herencia las nH1471
+- Sal_9:5reprendiste a las n, destruiste al maloH1471
+- Sal_9:15se hundieron las n...hoyo que hicieronH1471
+- Sal_9:19no se...sean juzgadas las n delante de tiH1471
+- Sal_9:20conozcan las n que no son sino hombresH1471
+- Sal_10:16es Rey...de su tierra han perecido las nH776
+- Sal_18:43me has hecho cabeza de las n; pueblo queH776
+- Sal_18:49yo te confesaré entre las n, oh JehováH776
+- Sal_22:27todas...de las n adorarán delante de tiH1471
+- Sal_22:28Jehová es el reino, y el regirá las nH1471
+- Sal_33:10Jehová hace nulo el consejo de las nH1471
+- Sal_33:12bienaventurada la n cuyo Dios es JehováH1471
+- Sal_44:2tu mano echaste las n, y los plantasteH1471
+- Sal_44:11ovejas...nos has esparcido entre las nH1471
+- Sal_44:14nos pusiste por proverbio entre las nH1471
+- Sal_46:6bramaron las n, titubearon los reinosH1471
+- Sal_46:10seré exaltado entre las n; enaltecidoH1471
+- Sal_47:3someterá a...n debajo de nuestros piesH3816
+- Sal_47:8reinó Dios sobre las n; se sentó DiosH3816
+- Sal_57:9te alabaré...cantaré de ti entre las nH3816
+- Sal_59:5despierta para castigar a todas las nH3816
+- Sal_59:8te reirás...te burlarás de todas las nH3816
+- Sal_65:7el que sosiega...y el alboroto de las nH3816
+- Sal_66:7señores...sus ojos atalayan sobre las nH1471
+- Sal_67:2conocido...en todas las n tu salvaciónH1471
+- Sal_67:4alégrense y gócense las n...juzgarás losH3816
+- Sal_67:4con equidad, y pastorearás las n en laH3816
+- Sal_72:11se postrarán...todas las n le serviránH1471
+- Sal_72:17el sol...Benditas serán en él todas las nH1471
+- Sal_78:55echó las n de delante de ellos, tierrasH1471
+- Sal_79:1oh Dios, vinieron las n a tu heredadH1471
+- Sal_79:6derrama tu ira sobre las n que no teH1471
+- Sal_80:8una vid...echaste las n, y la plantasteH1471
+- Sal_82:8levántate, oh...tú heredarás todas las nH1471
+- Sal_83:4destruyámoslos para que no sean n, y noH1471
+- Sal_86:9las n...vendrán y adorarán delante de tiH1471
+- Sal_94:10que castiga a las o, ¿no reprenderá?[[H1471]]
+- Sal_95:10cuarenta años...disgustado con la n, yH1755
+- Sal_96:3proclamad entre las n su gloria, en todosH1471
+- Sal_96:10decid entre las n: Jehová reina...afirmóH1471
+- Sal_98:2a vista de...n ha descubierto su justiciaH1471
+- Sal_102:15las n temerán el nombre de JehováH1471
+- Sal_105:13andaban de n en n, de un reino a otroH1471
+- Sal_105:44les dio las tierras de las n, y lasH1471
+- Sal_106:3que me goce en la alegría de tu n, y meH1471
+- Sal_106:27y humillar su pueblo entre las nH1471
+- Sal_106:35se mezclaron con las n, y aprendieronH1471
+- Sal_106:41los entregó en poder de las n, y seH1471
+- Sal_106:47y recógenos de entre las n, para queH1471
+- Sal_108:3te alabaré...cantaré salmos entre las nH3816
+- Sal_110:6juzgará entre las n, las llenará deH1471
+- Sal_111:6el poder...dándole la heredad de las nH1471
+- Sal_113:4excelso sobre todas las n es JehováH1471
+- Sal_117:1alabad a Jehová, n todas; pueblos todosH1471
+- Sal_118:10las n me rodearon; mas en el nombreH1471
+- Sal_126:2dirán entre...n: Grandes cosas ha hechoH1471
+- Sal_135:10destruyó a muchas n, y mató a reyesH1471
+- Sal_135:15los ídolos de las n son plata y oroH1471
+- Sal_147:20no ha hecho así con ninguna...de las tiH1471
+- Sal_149:7para ejecutar venganza entre las n, yH1471
+- Pro_14:34la justicia engrandece a la n; masH1471
+- Pro_14:34mas el pecado es afrenta de las nH1471
+- Pro_24:24lo maldecirán, y le detestarán las nH3816
+- Isa_2:2exaltado...y correrán a él todas las nH1471
+- Isa_2:4y juzgará entre las n, y reprenderá aH1471
+- Isa_2:4hoces; no alzará espada n contra n, ni seH1471
+- Isa_5:26alzará pendón a n lejanas, y silbará alH1471
+- Isa_10:6le mandaré contra una n pérfida, y sobreH1471
+- Isa_10:7pensamiento será desarraigar y cortar nH1471
+- Isa_11:12y levantará pendón a las n...y juntaráH1471
+- Isa_13:4estruendo de ruido de reinos, de nH1471
+- Isa_14:6el que se enseñoreaba de las n con iraH1471
+- Isa_14:9hizo levantar...todos los reyes de las nH1471
+- Isa_14:12cortado fuiste...que debilitabas a las nH1471
+- Isa_14:18reyes de las n...yacen con honra cada unoH1471
+- Isa_14:26la mano extendida sobre todas las nH1471
+- Isa_14:32responderá a los mensajeros de la nH1471
+- Isa_16:8n pisotearon sus generosos sarmientosH1471
+- Isa_17:12murmullo de n que harán alboroto comoH3816
+- Isa_18:2andad, mensajeros veloces, a la n deH1471
+- Isa_23:3del río...Fue también emporio de las nH1471
+- Isa_25:7y el velo que envuelve a todas las nH1471
+- Isa_29:7-8multitud de todas las n que peleanH1471
+- Isa_30:28para zarandear a las n con criba deH1471
+- Isa_33:3las n fueron esparcidas al levantarteH1471
+- Isa_34:1acercaos, n, juntaos para oir...pueblosH1471
+- Isa_34:2Jehová está airado contra todas las nH1471
+- Isa_36:18¿acaso libraron los dioses de las nH1471
+- Isa_37:12¿acaso libraron sus dioses a las n queH1471
+- Isa_40:15las n le son como la gota de agua queH1471
+- Isa_40:17como nada son todas las n delante deH1471
+- Isa_41:2entregó delante de él n...como hojarascaH1471
+- Isa_42:1mi siervo...él traerá justicia a las nH1471
+- Isa_42:6te pondré por pacto...por luz de las nH1471
+- Isa_43:4daré...hombres por ti, por tu vidaH3816
+- Isa_43:9congréguense todas las n, y júntenseH1471
+- Isa_45:1para sujetar n delante de él y desatarH1471
+- Isa_45:20venid; juntaos todos...de entre las nH1471
+- Isa_49:6te di por luz de las n, para que seasH1471
+- Isa_49:7ha dicho Jehová...al abominado de las nH1471
+- Isa_49:22he aquí, yo tenderé mi mano a las n, y aH1471
+- Isa_51:4atentos a mí, pueblo mío, y oídme, n míaH3816
+- Isa_52:10ante los ojos de todas las n, y todosH1471
+- Isa_52:15así asombrará él a muchas n; los reyesH1471
+- Isa_54:3tu descendencia heredará n, y habitaráH1471
+- Isa_55:4lo di...por jefe y por maestro a las nH1471
+- Isa_60:2cubrirán la tierra, y oscuridad las nH3816
+- Isa_60:3andarán las n a tu luz, y los reyes alH1471
+- Isa_60:5y las riquezas de las n hayan venido aH1471
+- Isa_60:11ti sean traídas las riquezas de las nH1471
+- Isa_60:12la n o el reino que no te sirviereH1471
+- Isa_60:16y mamarás la leche de las n, el pechoH1471
+- Isa_61:6comeréis las riquezas de las n...gloriaH1471
+- Isa_61:9conocida entre las n, y sus renuevos enH1471
+- Isa_61:11brotar justicia...delante de todas las nH1471
+- Isa_64:2fuego...las n temblasen a tu presencia![[H1471]]
+- Isa_66:8¿concebirá la...¿Nacerá una n de una vez?[[H1471]]
+- Isa_66:12y la gloria de las n como torrente queH1471
+- Isa_66:18tiempo vendrá para juntar a todas las nH1471
+- Isa_66:19enviaré de los escapados de...a las nH1471
+- Isa_66:19y publicarán mi gloria entre las nH1471
+- Isa_66:20vuestros hermanos de entre todas las nH1471
+- Jer_1:5santifiqué, te di por profeta a las nH1471
+- Jer_1:10que te he puesto en este día sobre n yH1471
+- Jer_2:11¿acaso alguna n ha cambiado sus diosesH1471
+- Jer_3:17todas las n vendrán a ella en el nombreH1471
+- Jer_3:19os daré la...la rica heredad de las n?[[H1471]]
+- Jer_4:2las n serán benditas en él, y en él seH1471
+- Jer_4:7el destruidor de n está en marcha, y haH1471
+- Jer_4:16decid a las n: He aquí, haced oír sobreH1471
+- Jer_5:9de una n como esta, ¿no se había de vengarH1471
+- Jer_6:18oid, n, y entended, oh congregación, loH1471
+- Jer_6:22n grande se levantará de los confines deH1471
+- Jer_7:28esta es la n que no escuchó la voz deH1471
+- Jer_9:9dice...de tal n, ¿no se vengará mi alma?[[H1471]]
+- Jer_9:16los esparciré entre n que ni...conocieronH1471
+- Jer_9:26porque todas las n son incircuncisas, yH1471
+- Jer_10:2no aprendáis el camino de las n, ni deH1471
+- Jer_10:2ni de las...tengáis temor, aunque las nH1471
+- Jer_10:7¿quién no te temerá, oh Rey de las n?[[H1471]]
+- Jer_10:7porque entre todos los sabios de las nH1471
+- Jer_10:10las n no pueden sufrir su indignaciónH1471
+- Jer_10:25derrama tu enojo...sobre las n que no teH1471
+- Jer_12:17arrancaré esa n, sacándola de raíz yH1471
+- Jer_14:22¿hay entre los ídolos de las n quienH1471
+- Jer_16:19a ti vendrán n desde los extremos de laH1471
+- Jer_18:13preguntad ahora a las n, quién ha oídoH1471
+- Jer_25:9los traeré contra...contra todas estas nH1471
+- Jer_25:11y servirán estas n al rey de BabiloniaH1471
+- Jer_25:12castigaré...a aquella n por su maldadH1471
+- Jer_25:13libro, profetizado...contra todas las nH1471
+- Jer_25:14ellas serán sojuzgadas por muchas n yH1471
+- Jer_25:15beber de él a todas las n a las cualesH1471
+- Jer_25:17di de beber a todas las n, a las cualesH1471
+- Jer_25:20toda la mezcla de n, a todos los reyesH776
+- Jer_25:31Jehová tiene juicio contra las n; el esH1471
+- Jer_25:32mal irá de ti en n, y grande tempestadH1471
+- Jer_26:6la pondré por maldición a todas las nH1471
+- Jer_27:7las n le servirán a él, a su hijo, y alH1471
+- Jer_27:7y la reduzcan a servidumbre muchas n yH1471
+- Jer_27:8n...que no sirviere...castigaré a tal nH1471
+- Jer_27:11a la n que sometiere su cuello al yugoH1471
+- Jer_27:13ha dicho Jehová de la n que no sirvieroH1471
+- Jer_28:11romperé el yugo...del cuello de...las nH1471
+- Jer_28:14yugo de hierro puse sobre...de estas nH1471
+- Jer_29:14os reuniré de todas las n y de todos losH1471
+- Jer_29:18los daré...por burla...para todas las nH1471
+- Jer_30:11y destruiré a...las n entre las cualesH1471
+- Jer_30:19saldrá...voz de n que está en regocijo
+- Jer_31:7y dad voces de júbilo a la cabeza de nH1471
+- Jer_31:10oíd palabra de Jehová, oh n...y decidH1471
+- Jer_31:36si faltaren estas...faltará para no ser nH1471
+- Jer_33:9glora, entre todas las n de la tierraH1471
+- Jer_33:24mi pueblo, hasta no tenerlo más por nH1471
+- Jer_36:2y contra todas las n, desde el día queH1471
+- Jer_43:5había vuelto de todas las n donde habíaH1471
+- Jer_44:8seáis por maldición...a todas las n de laH1471
+- Jer_46:1palabra de Jehová que vino, contra las nH1471
+- Jer_46:12las n oyeron tu afrenta, y tu clamorH1471
+- Jer_46:28destruiré a las n entre las cuales teH1471
+- Jer_48:2venid, y quitémosla de entre las nH1471
+- Jer_49:14había sido enviado mensajero a las nH1471
+- Jer_49:15he aquí que te haré pequeño entre las nH1471
+- Jer_49:31subid contra una n pacifica que viveH1471
+- Jer_49:36no habrá n a donde vayan fugitivos deH1471
+- Jer_50:2anunciad en las n, y haced saber...decidH1471
+- Jer_50:3subió contra ella una n del norte, laH1471
+- Jer_50:12aquí será la última de las n; desiertoH1471
+- Jer_50:23Babilonia en desolación entre las nH1471
+- Jer_50:41un pueblo del norte, y una n grande yH1471
+- Jer_50:46tembló, y el clamor se oyó entre las nH1471
+- Jer_51:7su vino bebieron...se aturdieron...las nH1471
+- Jer_51:20por medio de ti quebrantaré n, y porH1471
+- Jer_51:27trompeta en las n, preparad pueblosH1471
+- Jer_51:28preparad contra ella n; los reyes deH1471
+- Jer_51:41a ser...objeto de espanto entre las n![[H1471]]
+- Jer_51:44y no vendrán más n a él, y el muro deH1471
+- Jer_51:58las...se cansaron solo para el fuegoH5971
+- Lam_1:1la grande entre las n se ha vuelto comoH1471
+- Lam_1:3habitó entre las n, y no halló descansoH1471
+- Lam_1:10ha visto entrar en su santuario a las nH1471
+- Lam_2:8su rey y sus príncipes están entre las nH1471
+- Lam_4:15se dijo entre las n: Nunca más moraránH1471
+- Lam_4:17aguardamos a una n que no puede salvarH1471
+- Lam_4:20a su sombra tendremos vida entre las n![[H1471]]
+- Eze_4:13comerán...su pan inmundo, entre las nH1471
+- Eze_5:5es Jerusalén; la puse en medio de las nH1471
+- Eze_5:6ella cambió...en impiedad más que las nH1471
+- Eze_5:7¿por haberos multiplicado más que las nH1471
+- Eze_5:7ni aun según las leyes de las n...andadoH1471
+- Eze_5:8haré juicios en...ante los ojos de las nH1471
+- Eze_5:14te convertiré...en oprobio entre las nH1471
+- Eze_5:15y serás...escarmiento y espanto a las nH1471
+- Eze_6:8tengáis entre las n algunos que escapenH1471
+- Eze_6:9escaparen se acordarán de mí entre las nH1471
+- Eze_7:24traeré...los más perversos de las n, losH1471
+- Eze_11:12según las costumbres de las n que osH1471
+- Eze_11:16aunque les he arrojado lejos entre las nH1471
+- Eze_12:15cuando los esparciere entre las ti, y losH1471
+- Eze_12:16cuenten...sus abominaciones entre las nH1471
+- Eze_16:14salió tu renombre entre las n a causaH1471
+- Eze_19:4n oyeron de él; fue tomado en la trampaH1471
+- Eze_20:9, Eze_20:14, Eze_20:22se infamase ante los ojos de las nH1471
+- Eze_20:23que los esparciría entre las n, y queH1471
+- Eze_20:32vosotros decís: Seamos como las n, comoH1471
+- Eze_20:41seré santificado...a los ojos de las nH1471
+- Eze_22:4por tanto, te he dado en oprobio a las nH1471
+- Eze_22:15te dispersaré por las n, y te esparciréH1471
+- Eze_22:16serás degradada a la vista de las nH1471
+- Eze_23:30porque fornicaste en pos de las n, conH1471
+- Eze_23:32ti se mofarán las n, y te escarnecerán
+- Eze_25:7te entregaré a las n para ser saqueadaH1471
+- Eze_25:8aquí la casa de Judá es como todas las nH1471
+- Eze_25:10no haya más memoria...Amén entre las nH1471
+- Eze_26:2quebrantada está...era puerta de las nH5971
+- Eze_26:3haré subir contra ti muchas n, como elH1471
+- Eze_26:5dice Jehová..será saqueda por las nH1471
+- Eze_28:7traigo sobre ti...los fuertes de las nH1471
+- Eze_28:25santificaré...ante los ojos de las nH5971
+- Eze_29:12esparciré a Egipto entre las n, y loH1471
+- Eze_29:15nunca...se alzará sobre las n; porqueH1471
+- Eze_29:15no vuelvan a tener dominio sobre las nH1471
+- Eze_30:3día de nublado, día de castigo de las nH1471
+- Eze_30:11los más fuertes de las n, serán traídosH1471
+- Eze_30:23, Eze_30:26esparciré...los egipcios entre las nH1471
+- Eze_31:6ramaje...a su sombra habitaban muchas nH1471
+- Eze_31:11en manos del poderoso de las n, que deH1471
+- Eze_31:12lo destruirán...los poderosos de las nH1471
+- Eze_31:16hice temblar a las n, cuando las hiceH1471
+- Eze_31:17los que estuvieron...en medio de las nH1471
+- Eze_32:2a leoncillo de n eres semejante, y eresH1471
+- Eze_32:9al cautiverio a los tuyos entre las nH1471
+- Eze_32:12ellos serán los poderosos de las n; yH1471
+- Eze_32:16la endecha...hijas de las n la cantaránH1471
+- Eze_32:18despéñalo a él, y a las hijas de las nH1471
+- Eze_34:28no serán más por despojo de las n, niH776
+- Eze_34:29ni ya más serán avergonzados por las nH776
+- Eze_35:10las dos n y las dos tierras serán míasH1471
+- Eze_36:3para que fueseis heredad de las otras nH1471
+- Eze_36:4puestas por...y escarnio de las otras nH1471
+- Eze_36:5he hablado...mi celo contra las demás nH776
+- Eze_36:6cuanto habéis llevado el oprobio de las nH127
+- Eze_36:7he jurado que las n...han de llevar suH1471
+- Eze_36:13matadora de los hijos de tu n has sidoH1471
+- Eze_36:14nunca más matarás a los hijos de tu nH1471
+- Eze_36:15y nunca más te haré oír injuria de nH1471
+- Eze_36:15ni harás más morir a los hijos de tu nH1471
+- Eze_36:19les esparcí por las o, y...dispersadosH1471
+- Eze_36:20cuando llegaron a las n adonde fueronH776
+- Eze_36:21profanado...entre las n adonde fueronH1471
+- Eze_36:22cual profanasteis vosotros entre las nH1471
+- Eze_36:23mi grande nombre, profanado entre las paH1471
+- Eze_36:23y sabrán las n que yo soy Jehová, diceH1471
+- Eze_36:24yo os tomaré de las n, y os recogeréH127
+- Eze_36:30nunca...oprobio de hambre entre las nH1471
+- Eze_36:36n que queden...sabrán que yo reedifiquéH1471
+- Eze_37:21tomo a los...de Israel de entre las nH127
+- Eze_37:22y los haré una n en la tierra, en losH1471
+- Eze_37:22y nunca más serán dos n, ni nunca másH776
+- Eze_37:28sabrán las n que yo...santifico a IsraelH776
+- Eze_38:8mas fue sacada de las n, y todos ellosH1471
+- Eze_38:12sobre el pueblo recogido de entre...nH1471
+- Eze_38:16n me conozcan, cuando sea santificadoH776
+- Eze_38:23seré conocido ante los ojos de muchas nH1471
+- Eze_39:7sabrán las n que yo soy Jehová, el SantoH1471
+- Eze_39:21pondré mi gloria entre las n, y...veránH1471
+- Eze_39:21las n verán mi juicio que habré hechoH1471
+- Eze_39:23sabrán las n que la casa de Israel fueH1471
+- Eze_39:27sea santificado en ellos ante...muchas nH1471
+- Eze_39:28cautiverio entre las n, los reúna sobreH127
+- Dan_3:4mándase a vosotros...oh pueblos, n yH524
+- Dan_3:7n y lenguas se postraron y adoraron laH524
+- Dan_3:29que todo pueblo, n o lengua que dijereH524
+- Dan_4:1rey, a todos los pueblos, n y lenguasH524
+- Dan_5:19o y lenguas temblaban y temían...de élH524
+- Dan_6:25rey Darío escribió a...n y lenguas queH524
+- Dan_7:14los pueblos, n y lenguas le sirvieronH524
+- Dan_8:22que cuatro reinos se levantarán de esa nH1471
+- Dan_9:1de la n de los medos, que vino a ser rey
+- Ose_8:8será entre las n como vasija que no se
+- Ose_8:10aunque alquilen entre las n, ahora lasH1471
+- Ose_9:17no oyeron...andarán errantes entre las nH1471
+- Joe_2:17para que las n se enseñoreen de ellaH1471
+- Joe_2:19nunca más os pondré en oprobio entre...nH1471
+- Joe_3:2reuniré a...las n, y las haré descender alH1471
+- Joe_3:2a quien ellas esparcieron entre las nH1471
+- Joe_3:8venderán a los sabeos, n lejana; porqueH1471
+- Joe_3:9proclamad esto entre las n, proclamadH1471
+- Joe_3:11y venid...n...de alrededor, y congregaosH776
+- Joe_3:12despiértense las n, y suban al valle deH1471
+- Joe_3:12me sentaré para juzgar a todas las n deH1471
+- Amó_6:1principales entre las n, a los cualesH1471
+- Amó_6:14levantaré...una n que os oprimirá desdeH1471
+- Amó_9:9Israel sea zarandeada entre todas las nH1471
+- Amó_9:12posean el resto de Edom, y a todas...nH1471
+- Abd_1:1oído...mensajero ha sido enviado a las nH1471
+- Abd_1:2he aquí, pequeño te he hecho entre las nH1471
+- Abd_1:15está el día de Jehová sobre todas las nH1471
+- Abd_1:16beberán continuamente todas las n beberánH1471
+- Miq_4:2vendrán muchas n, y dirán: Venid, yH1471
+- Miq_4:3corregirá a n poderosas hasta muy lejosH1471
+- Miq_4:3hoces; no alzará espada o contra n, niH1471
+- Miq_4:7la descarriada como n robusta; y JehováH1471
+- Miq_4:11han juntado muchas n contra ti, y dicenH1471
+- Miq_5:8el remanente de Jacob será entre las nH1471
+- Miq_5:15con furor haré venganza en las n que noH1471
+- Miq_7:16las n verán, y se avergonzarán de todoH1471
+- Nah_3:4seduce a las n con sus fornicacionesH1471
+- Nah_3:5contra ti...y mostraré a las n tu desnudezH1471
+- Hab_1:5mirad entre las n, y ved, y asombraosH1471
+- Hab_1:6aquí, yo levanto a los caldeos, n cruelH1471
+- Hab_1:17red, y no tendrá piedad de aniquilar nH1471
+- Hab_2:8por cuanto tú has despojado a muchas nH1471
+- Hab_2:13los pueblos...las n se fatigarán en vanoH5971
+- Hab_3:12hollaste la...con furor trillaste las nH1471
+- Sof_2:1congregaos y meditad, oh n sin pudorH1471
+- Sof_2:11se inclinarán a él...las tierras de las nH1471
+- Sof_3:6hice destruir n; sus habitaciones estánH1471
+- Sof_3:8porque mi determinación es reunir las nH1471
+- Hag_2:7haré temblar a todas las n, y vendráH1471
+- Hag_2:7haré...y vendrá el Deseado de todas las tiH1471
+- Hag_2:22destruiré la fuerza de...reinos de las nH1471
+- Zac_1:15y estoy muy airado contra las n queH1471
+- Zac_1:21para derribar los cuernos de las n queH776
+- Zac_2:8me enviará él a las n que os despojaronH1471
+- Zac_2:11unirán muchas n a Jehová en aquel díaH1471
+- Zac_7:14esparcí con torbellino por todas las nH1471
+- Zac_8:13que como fuisteis maldición entre las nH1471
+- Zac_8:22pueblos y fuertes n a buscar a JehováH1471
+- Zac_8:23que diez hombres de las n de toda lenguaH1471
+- Zac_9:10hablará paz a las n, y su señorío seráH1471
+- Zac_12:3o de la tierra se juntarán contra ellaH1471
+- Zac_12:9destruir a...las n que vinieren contraH1471
+- Zac_14:2yo reuniré a todas las n para combatirH1471
+- Zac_14:3saldrá Jehová y peleará con aquellas nH1471
+- Zac_14:14reunidas las riquezas de todas las nH1471
+- Zac_14:16que sobrevivieren de las n que vinieronH1471
+- Zac_14:18la plaga con que Jehová herirá las nH1471
+- Zac_14:19del pecado de...las n que no subierenH1471
+- Mal_1:11es grande mi nombre entre las n; yH1471
+- Mal_1:11grande es mi nombre entre las n, diceH1471
+- Mal_1:14yo soy...mi nombre es temible entre las nH1471
+- Mal_3:9vosotros, la n toda, me habéis robadoH1471
+- Mal_3:12y todas las n os dirán bienaventuradosH1471
+- Mat_20:25gobernantes de las n se enseñorean deG1484
+- Mat_24:7se levantará n contra n, y reino contraG1484
+- Mat_24:14el mundo, para testimonio a todas las nG1484
+- Mat_25:32serán reunid delante de él todas las nG1484
+- Mat_28:19id, y haced discípulos a todas las nG1484
+- Mar_7:26mujer era griega, y sirofenicia de nG1085
+- Mar_10:42gobernantes de las n se enseñorean deG1484
+- Mar_11:17casa de oración para todas las n masG1484
+- Mar_13:8se levantará n contra n, y reino contraG1484
+- Mar_13:10evangelio sea predicado antes a...lasG1484
+- Luc_7:5porque ama a nuestra n, y nos edificóG1484
+- Luc_21:10se levantará n contra n, y reino contraG1484
+- Luc_21:24serán llevados cautivos a todas las nG1484
+- Luc_22:25reyes de las n se enseñorcan de ellasG1484
+- Luc_23:2éste hemos hallado que pervierte a la nG1484
+- Luc_24:47y el perdón de pecados en todas las nG1484
+- Jua_11:48vendrán los romanos, y destruirán...nG1484
+- Jua_11:50un hombre...y no que toda la n perezcaG1484
+- Jua_11:51profetizó que...había de morir por la nG1484
+- Jua_11:52y no solamente por la n, sino tambiénG1484
+- Jua_18:35tu n...te han entregado a mí...¿Qué hasG1484
+- Hec_2:5varones piadosos, de todas las n bajoG1484
+- Hec_7:7yo juzgaré...la n de la cual serán siervosG1484
+- Hec_10:22tiene buen testimonio en toda la n deG1484
+- Hec_10:35en toda n se agrada del que le teme yG1484
+- Hec_13:19habiendo destruido siete n en la tierraG1484
+- Hec_24:10hace muchos años eres juez de esta nG1484
+- Hec_24:17vine a hacer limosnas a mi n y presentarG1484
+- Hec_26:4mi vida...la cual desde el...pasé en mi nG1484
+- Hec_28:19no porque tenga de qué acusar a mi nG1484
+- Rom_1:5la obediencia a la fe en todas las nG1484
+- 2Co_11:26peligros de los de mi n, peligrosG1484
+- Gál_1:14aventajaba a muchos de mis..en mi nG1085
+- Gál_3:8nueva...En ti serán benditas todas las nG1484
+- 1Ts_2:14padecido de los de vuestra propia nG4853
+- 1Pe_2:9sois linaje...n santa, pueblo adquiridoG1484
+- Rev_2:26fin...yo le daré autoridad sobre las nG1484
+- Rev_5:9has...de todo linaje y lengua y pueblo y nG1484
+- Rev_7:9una gran multitud...de todas n y tribusG1484
+- Rev_10:11que profetices otra vez sobre muchos...nG1484
+- Rev_11:9n verán sus cadáveres por tres días yG1484
+- Rev_11:18y se airaron las ti, y tu ira ha venidoG1484
+- Rev_12:5regirá con vara de hierro a todas las nG1484
+- Rev_13:7le dio autoridad sobre toda tribu...y nG1484
+- Rev_14:6para predicarlo...a toda n, tribu, lenguaG1484
+- Rev_14:8ha hecho beber a todas las n del vino delG1484
+- Rev_15:4las n vendrán y te adorarán, porque tusG1484
+- Rev_16:19y las ciudades de las n cayeron; y laG1484
+- Rev_17:15las aguas que...son pueblos...n, y lenguasG1484
+- Rev_18:3las n han bebido del vino del furor deG1484
+- Rev_18:23por tus hechicerías fueron engañadas...nG1484
+- Rev_19:15una espada...para herir con ella a las nG1484
+- Rev_20:3que no engañase más a las n, hasta queG1484
+- Rev_20:8saldrá a engañar a las n que están en losG1484
+- Rev_21:24las n que hubieren sido salvas andarán aG1484
+- Rev_21:26y llevarán la gloria...de las n a ellaG1484
+- Rev_22:2las hojas...eran para la sanidad de las nG1484

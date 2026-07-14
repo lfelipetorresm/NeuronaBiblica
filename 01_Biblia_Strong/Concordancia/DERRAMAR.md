@@ -1,0 +1,192 @@
+---
+tipo: concordancia
+palabra: DERRAMAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DERRAMAR
+
+- Gén_9:6el que derramare sangre de hombre, porH8210
+- Gén_28:18tomó...y derramó aceite encima de ellaH3332
+- Gén_35:14y derramó sobre ella libación, y echóH5258
+- Gén_37:22no derraméis sangre echadlo en estaH8210
+- Éxo_4:9derramarás en tierra...y se harán sangreH8210
+- Éxo_29:7e] aceite...derramarás sobre su cabezaH3332
+- Éxo_29:12derramarás la...sangre al pie del altarH8210
+- Éxo_30:9tampoco derramaréis sobre él libaciónH5258
+- Éxo_30:32sobre carne de hombre no será derramadoH3251
+- Lev_4:18, Lev_4:25, Lev_4:30, Lev_4:34derramará...al pie del altarH8210
+- Lev_8:12derramó del aceite...la cabeza de AarónH3332
+- Lev_9:9derramó el resto de la sangre al pie delH3332
+- Lev_14:41derramarán fuera de la ciudad...el barroH8210
+- Lev_17:4sangre derramó; será cortado el tal varónH8210
+- Lev_17:13derramará su sangre y la cubrirá conH8210
+- Lev_21:10cuya cabeza fue derramado el aceite deH3332
+- Núm_16:37que tome...y derrame más allá el fuegoH2219
+- Núm_28:7derramarás libación de vino superiorH5258
+- Núm_35:33expiada de la sangre que fue derramadaH8210
+- Deu_12:16sobre la tierra la derramaréis comoH8210
+- Deu_12:24no...en tierra la derramarás como aguaH8210
+- Deu_12:27sangre...será derramada sobre el altarH8210
+- Deu_15:23no comas su sangre...la derramarás comoH8210
+- Deu_19:10que no sea derramada sangre inocenteH8210
+- Deu_21:7nuestras manos no han derramado estaH8210
+- 1Sa_1:15derramado mi alma delante de JehováH8210
+- 1Sa_7:6agua, y la derramaron delante de JehováH8210
+- 1Sa_10:1la derramó sobre su cabeza, y lo besóH3332
+- 1Sa_25:26ha impedido el venir a derramar sangre
+- 1Sa_25:33estorbado hoy de ir a derramar sangre
+- 2Sa_14:14como aguas derramadas por tierraH5064
+- 2Sa_20:10y derramó sus entrañas por tierra, yH8210
+- 2Sa_23:16que la derramó para Jehová, diciendoH5258
+- 1Re_2:5él mató, derramando en tiempo de pazH7760
+- 1Re_2:31quita...la sangre que Joab ha derramadoH8210
+- 1Re_13:3la ceniza que sobre él está se derramaráH8210
+- 1Re_13:5se rompió...derramó la ceniza del altarH8210
+- 1Re_18:34derramada sobre el holocausto y sobreH3332
+- 2Re_9:3de aceite y derramala sobre su cabezaH3332
+- 2Re_9:6el otro derramó el aceite sobre su cabezaH3332
+- 2Re_16:13derramó sus libaciones, y esparció laH5258
+- 2Re_21:16derramó Manasés mucha sangre inocenteH8210
+- 2Re_24:4sangre inocente que derramó...JerusalénH8210
+- 1Cr_11:18no la quiso beber...que la derramóH5258
+- 1Cr_22:8has derramado mucha sangre y...guerrasH8210
+- 1Cr_28:3no edificaréis...derramado mucha sangreH8210
+- 2Cr_12:7salvará...y no se derramará mi iraH5413
+- 2Cr_18:16he visto a todo Israel derramado porH6327
+- 2Cr_34:25se derramará mi ira sobre este lugarH5413
+- Job_12:21derrama menosprecio...los príncipesH8210
+- Job_15:33vid derramará su flor como el olivoH7993
+- Job_16:13partió mis...mi hiel derramó por tierraH8210
+- Job_16:20mas ante Dios derramaré mis lágrimasH1811
+- Job_22:16fundamento fue como un río derramado?[[H3332]]
+- Job_30:16y ahora mi alma está derramada en miH8210
+- Job_38:8cuando se derramaba saliéndose de suH3318
+- Job_40:11derrama el ardor de tu ira; mira a todoH6327
+- Sal_22:14he caído derramado como aguas, y todosH8210
+- Sal_29:7voz de Jehová que derrama llamas...fuegoH2672
+- Sal_42:4me acuerdo de estas...y derramo mi almaH8210
+- Sal_45:2eres...la gracia se derramó en tus labiosH3332
+- Sal_62:8derramad delante de él vuestro corazónH8210
+- Sal_69:24derrama sobre ellos tu ira, y el furorH8210
+- Sal_75:8el cáliz está en...y él derrama del mismoH5064
+- Sal_79:3derramaron su sangre como agua en losH8210
+- Sal_79:6derrama tu ira sobre las naciones queH8210
+- Sal_79:10la venganza de la sangre...fue derramadaH8210
+- Sal 102 tít.delante de Jehová derrama su lamentoH8210
+- Sal_106:38y derramaron la sangre inocente, laH8210
+- Sal_147:16da...y derrama la escarcha como cenizaH6340
+- Pro_1:11ven...asechanzas para derramar sangre
+- Pro_1:16pies...van presurosos a derramar sangreH8210
+- Pro_1:23derramaré mi espíritu sobre vosotrosH5042
+- Pro_5:16¿se derramarán tus fuentes por las callesH6327
+- Pro_12:6son asechanzas para derramar sangre
+- Pro_15:28boca de los impíos derrama malas cosasH5042
+- Ecl_11:3nubes...sobre la tierra la derramaránH7324
+- Cnt_1:3tu nombre es como ungüento derramadoH7324
+- Isa_5:6nubes mandaré que no derramen lluviaH4305
+- Isa_26:16derramaron oración cuando...castigasteH6694
+- Isa_26:21tierra descubrirá la sangre derramada
+- Isa_28:25derrama el eneldo, siembra el cominoH6327
+- Isa_29:10Jehová derramó sobre...espíritu de sueñoH5258
+- Isa_32:15sea derramado el Espíritu de lo altoH6168
+- Isa_42:25derramó sobre él el ardor de su iraH8210
+- Isa_44:3derramaré aguas...mi Espíritu d sobre tuH3332
+- Isa_53:12derramó su vida hasta la muerte, y fueH6168
+- Isa_57:6ellas derramaste libación, y ofrecisteH8210
+- Isa_59:7se apresuran para derramar la sangreH8210
+- Jer_6:11la derramaré sobre los niños en laH8210
+- Jer_7:6ni en este lugar derramaréis la sangreH8210
+- Jer_7:20mi furor y mi ira se derramaron sobreH5413
+- Jer_10:25derrama tu enojo sobre los pueblos queH8210
+- Jer_14:16ellas; y sobre ellos derramará su maldadH8210
+- Jer_14:17derramen mis ojos lágrimas noche y díaH3381
+- Jer_22:3derraméis sangre inocente en este lugarH8210
+- Jer_22:17tus ojos y...sino para...derramar sangreH8210
+- Jer_32:29derramaron libaciones a dioses ajenosH5258
+- Jer_44:6se derramó por tanto mi ira y mi furorH5413
+- Jer_44:17derramándose libaciones como hemosH5258
+- Jer_44:18dejamos de...y de derramarle libacionesH5258
+- Jer_44:19acaso le derramamos libaciones sinH5258
+- Jer_44:25incienso a la reina del...y derramarleH5258
+- Lam_2:4en Sión derramó como fuego su enojoH8210
+- Lam_2:11mi hígado se derramó por tierra a causaH8210
+- Lam_2:12derramando sus almas en el regazo de susH8210
+- Lam_2:19derramas como agua tu corazón ante laH8210
+- Lam_4:11cumplió Jehová: derramó el ardor de suH8210
+- Lam_4:13derramaron en medio de ella la sangreH8210
+- Eze_7:8ahora pronto derramaré mi ira sobre tiH8210
+- Eze_9:8¿destruirás a...derramando tu furor sobreH8210
+- Eze_14:19derramare mi ira sobre ella en sangreH8210
+- Eze_16:15derramaste tus fornicaciones a cuantosH8210
+- Eze_16:38las leyes de las que derraman sangreH8210
+- Eze_20:8, Eze_20:13, Eze_20:21dije que derramaría mi ira sobreH8210
+- Eze_20:28porque allí derramaron sus libacionesH5258
+- Eze_20:33y enojo derramado, he de reinar sobreH8210
+- Eze_20:34os reuniré de las...con...enojo derramadoH8210
+- Eze_20:46sur, derrama tu palabra hacia la parteH5197
+- Eze_21:2y derrama palabra sobre los santuariosH5197
+- Eze_21:31derramaré sobre ti mi ira; el fuego deH8210
+- Eze_22:4en tu sangre que derramaste has pecadoH8210
+- Eze_22:6poder, se esfuerzan en derramar sangreH8210
+- Eze_22:9calumniadores...para derramar sangreH8210
+- Eze_22:12precio para derramar sangre; interésH8210
+- Eze_22:13y a causa de la sangre que derramaste
+- Eze_22:22Jehová habré derramado mi enojo sobreH8210
+- Eze_22:27derramando sangre, para destruir lasH8210
+- Eze_22:31por tanto derramaré sobre e]los mi iraH8210
+- Eze_23:8y derramaron sobre ella su fornicaciónH8210
+- Eze_23:45por la ley de las que derraman sangreH8210
+- Eze_24:7sobre una piedra la ha derramado; no laH8210
+- Eze_24:7no la derramó sobre la tierra para queH8210
+- Eze_30:15derramé mi ira sobre Sin, fortalezaH8210
+- Eze_33:25¿comeréis con...y derramaréis sangre yH8210
+- Eze_36:18derramé ira sobre ellos por la sangre;[[H8210]]
+- Eze_36:18por la sangre que derramaron sobre laH8210
+- Eze_39:29habré derramado de mi Espíritu sobre laH8210
+- Dan_9:20derramaba mi ruego delante de JehováH5307
+- Dan_9:27lo que está determinado se derrame sobreH5413
+- Ose_5:10derramaré sobre ellos como agua mi iraH8210
+- Ose_12:14hará recaer la sangre que ha derramado
+- Joe_2:28derramaré mi Espíritu sobre toda carneH8210
+- Joe_2:29sobre las siervas derramaré mi EspírituH8210
+- Joe_3:19porque derramaron en su tierra sangreH8210
+- Amó_5:8las derrama sobre la faz de la tierraH8210
+- Amó_9:6y sobre la faz de la tierra las derramaH8210
+- Miq_1:6y derramaré sus piedras por el valleH5064
+- Nah_3:18tu pueblo se derramó por los montesH6335
+- Sof_1:17la sangre...será derramada como polvoH8210
+- Sof_3:8para derramar sobre ellos mi enojo todoH8210
+- Zac_12:10derramaré espíritu de gracia; deH8210
+- Mal_3:10y derramaré sobre vosotros bendiciónH7324
+- Mat_9:17y e] vino se derrama, y los odres seG1632
+- Mat_23:35toda la sangre justa que se ha derramadoG1632
+- Mat_26:7derramó sobre la cabeza de él, estandoG2708
+- Mat_26:12derramar este perfume sobre mi cuerpoG906
+- Mat_26:28por muchos es derramada para remisiónG1632
+- Mar_2:22y el vino se derrama, y los odres seG1632
+- Mar_14:3perfume...se lo derramó sobre su cabezaG2708
+- Mar_14:24mi sangre...que por muchos es derramadaG1632
+- Luc_5:37vino...romperá los odres y se derramaráG1632
+- Luc_11:50la sangre...que se ha derramado desde laG1632
+- Luc_22:20mi sangre, que por vosotros se derramaG1632
+- Hec_1:18y todas sus entrañas se derramaronG1632
+- Hec_2:17derramaré de mi Espíritu sobre toda carneG1632
+- Hec_2:18mis siervos y...derramaré de mi EspírituG1632
+- Hec_2:33ha derramado esto que vosotros veis yG1632
+- Hec_10:45sobre los gentiles se derramase el donG1632
+- Hec_22:20se derramaba la sangre de Esteban tuG1632
+- Rom_3:15pies se apresuran para derramar sangreG1632
+- Rom_5:5el amor de...ha sido derramado en nuestrosG1632
+- Flp_2:17y aunque sea derramado en libaciónG4689
+- Tit_3:6derramó en nosotros abundantemente porG1632
+- Rev_16:1derramad sobre la tierra las 7 copasG1632
+- Rev_16:2fue...y derramó su copa sobre la tierraG1632
+- Rev_16:3el segundo ángel derramó su copa sobreG1632
+- Rev_16:4el tercer ángel derramó su copa sobre losG1632
+- Rev_16:6derramaron la sangre de los santos y deG1632
+- Rev_16:8el cuarto ángel derramó su copa sobre elG1632
+- Rev_16:10el quinto ángel derramó su copa sobreG1632
+- Rev_16:12el sexto ángel derramó su copa sobre elG1632
+- Rev_16:17el séptimo ángel derramó su copa por elG1632

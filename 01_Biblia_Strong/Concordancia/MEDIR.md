@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: MEDIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MEDIR
+
+- Éxo_16:18y lo medían por gomer, y no sobró alH4058
+- Núm_35:5luego mediréis fuera de la ciudad alH4058
+- Deu_21:2saldrán y medirán la distancia hastaH4058
+- Rut_3:15midió seis medidas de cebada, y se lasH4058
+- 2Sa_8:2los midió con cordel...m dos cordelesH4058
+- Sal_60:6; Sal_108:7y mediré el valle de SucotH2505
+- Isa_40:12¿quién midió las aguas con...su manoH4058
+- Isa_48:13mi mano derecha midió los cielos conH2946
+- Isa_65:7les mediré su obra antigua en su senoH4058
+- Jer_13:25la porción que yo he medido para tiH4055
+- Jer_31:37si los cielos arriba se pueden medirH4058
+- Jer_33:22ni la arena del mar se puede medirH4058
+- Eze_40:3tenía un cordel...y una caña de medirH4060
+- Eze_40:5la caña de medir que aquel varón teníaH4060
+- Eze_40:5midió el espesor del muro, de una callaH4058
+- Eze_40:6y midió un poste de la puerta, de unaH4058
+- Eze_40:8midió asimismo la entrada de la puertaH4058
+- Eze_40:9midió...la entrada del portal, de ochoH4058
+- Eze_40:11midió el ancho de la entrada...la puertaH4058
+- Eze_40:13midió la puerta desde el techo de unaH4058
+- Eze_40:14y midió los Postes, de sesenta codosH6213
+- Eze_40:19midió la anchura desde el frente de laH4058
+- Eze_40:20y de la puerta...midió su longitud y suH4058
+- Eze_40:23midió de puerta a puerta, cien codosH4058
+- Eze_40:24midió sus portales y...arcos conforme aH4058
+- Eze_40:27midió de puerta a puerta hacia el surH4058
+- Eze_40:28y midió la puerta del sur conforme aH4058
+- Eze_40:32y midió la puerta conforme a...medidasH4058
+- Eze_40:35luego...midió conforme a estas medidasH4058
+- Eze_40:47midió el atrio, cien codos de longitudH4058
+- Eze_40:48y midió cada poste del pórtico, cincoH4058
+- Eze_41:1midió los postes, siendo el ancho seisH4058
+- Eze_41:2y midió su longitud, de cuarenta codosH4058
+- Eze_41:3pasó al...y midió cada poste de la puertaH4058
+- Eze_41:4midió...su longitud, de veinte codos, yH4058
+- Eze_41:5después midió el muro de la casa, de 6H4058
+- Eze_41:13midió la casa, cien codos de largo; yH4058
+- Eze_41:15y midió la longitud del edificio queH4058
+- Eze_42:15el oriente, y lo midió todo alrededorH4058
+- Eze_42:16midió el lado oriental con la caña deH4058
+- Eze_42:16midió el lado...con la caña de medirH4060
+- Eze_42:16-17, Eze_42:18-19cañas de la caña de medirH4060
+- Eze_42:17midió al lado del norte, 500 cañas deH4058
+- Eze_42:18midió al lado del sur, quinientas cañasH4058
+- Eze_42:19rodeó al lado del occidente, y midióH4058
+- Eze_42:20a los cuatro lados lo midió; tenía unH4058
+- Eze_43:10esta casa...y midan el diseño de ellaH4058
+- Eze_45:3medirás en longitud 25.000 cañas, y enH4058
+- Eze_47:3y midió mil codos, y me hizo pasar porH4058
+- Eze_47:4midió otros mil...m luego otros milH4058
+- Eze_47:5midió otros mil, y era ya un río que yoH4058
+- Eze_47:18esto mediréis de límite hasta él marH4058
+- Ose_1:10arena del mar, que no se puede medirH4058
+- Hab_3:6se levantó, y midió la tierra; miróH4128
+- Zac_2:1un varón que tenía...un cordel de medirH4060
+- Zac_2:2respondió: A medir a Jerusalén, para verH4058
+- Mat_7:2; Mar_4:24que medís, os será medidoG3354
+- Luc_6:38con que medís, os volverán a medirG3354, [[G488]]
+- 2Co_10:12ellos, midiéndose a sí mismos porG3354
+- Rev_11:1una caña semejante a una vara de medir
+- Rev_11:1mide el templo de Dios, y el altar, yG3354
+- Rev_11:2el patio...déjalo aparte, y no lo midasG3354
+- Rev_21:15una caña de medir, para m la ciudadG3354
+- Rev_21:16él midió la ciudad con la caña, doceG3354
+- Rev_21:17midió su muro, 144 codos, de medida deG3354

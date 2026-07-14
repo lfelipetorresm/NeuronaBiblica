@@ -1,0 +1,117 @@
+---
+tipo: concordancia
+palabra: ESPARCIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESPARCIR
+
+- Gén_10:32de éstos se esparcieron las nacionesH6504
+- Gén_11:4un nombre, por si fuéremos esparcidosH6327
+- Gén_11:8los esparció Jehová desde allí sobre laH6327
+- Gén_11:9los esparció sobre la faz de...la tierraH6327
+- Gén_49:7los apartaré...y los esparciré en IsraelH6327
+- Éxo_5:12pueblo se esparció por toda la tierraH6327
+- Éxo_9:8esparcirá Moisés hacia el cielo delanteH2236
+- Éxo_9:10y la esparció Moisés hacia el cieloH2236
+- Éxo_24:6y esparció la otra mitad de la sangreH2236
+- Éxo_32:20que esparció sobre las aguas, y lo dioH2219
+- Lev_14:16y esparcirá del aceite con su dedoH5137
+- Lev_16:14esparcirá con su dedo siete veces deH5137
+- Lev_16:15y la esparcirá sobre el propiciatorioH5137
+- Lev_16:19y esparcirá sobre él de la sangre conH5137
+- Lev_17:6el sacerdote esparcirá la sangre sobreH2236
+- Lev_26:33y a...os esparciré entre las nacionesH2210
+- Núm_11:8el pueblo se esparcía y lo recogía, y
+- Deu_4:27Jehová os esparcirá entre los pueblosH6327
+- Deu_22:19esparció mala fama sobre una virgen deH3318
+- Deu_28:64Jehová te esparcirá por...los pueblosH6327
+- Deu_30:3los pueblos adonde te hubiere esparcidoH6327
+- Deu_32:26yo había dicho que los esparciría lejosH6284
+- 1Sa_14:34dijo Saúl: Esparcíos por el puebloH6327
+- 2Sa_13:19tomó ceniza y la esparció sobre suH3947
+- 2Sa_16:13Simei iba...delante...esparciendo polvoH6080
+- 1Re_14:15los esparcirá más allá del EúfratesH2219
+- 1Re_22:17yo vi a todo Israel esparcido por losH6327
+- 2Re_4:41la esparció en la olla, y dijo: DaH7993
+- 2Re_16:13esparcid la sangre de sus sacrificiosH2236
+- 2Re_16:15esparcirás sobre él toda la sangre delH2236
+- 2Cr_11:23y esparcid a todos sus hijos porH6555
+- 2Cr_29:22(3)esparcieron...sangre sobre el altarH2236
+- 2Cr_30:16y los sacerdotes esparcían la sangreH2236
+- 2Cr_34:4desmenuzó, y esparció el polvo sobre losH2236
+- 2Cr_35:11y esparcirán...la sangre recibida de losH2236
+- Est_3:8hay un pueblo esparcido y distribuidoH6340
+- Job_2:12los tres esparcieron polvo sobre susH2236
+- Job_12:23esparce a las naciones, y las vuelveH7849
+- Job_18:15azufre será esparcida sobre su moradaH2219
+- Job_20:28serán esparcidos en el día de su furorH5064
+- Job_37:11nube, y con su luz esparce la nieblaH6327
+- Job_38:24y se esparce el viento solano sobre laH6327
+- Job_41:22delante de él se esparce el desalientoH1750
+- Sal_44:11los has esparcido entre las nacionesH2219
+- Sal_53:5porque Dios ha esparcido los huesos delH6340
+- Sal_68:1sean esparcidos sus enemigos, y huyanH6327
+- Sal_68:9abundante lluvia esparciste, oh DiosH5130
+- Sal_68:14cuando esparció...los reyes allí, fueH6566
+- Sal_68:30esparciste a los pueblos que se...la guerraH967
+- Sal_89:10con tu brazo...esparciste a tus enemigosH6340
+- Sal_92:9esparcidos todos los que hacen maldadH6504
+- Sal_106:27humillar...esparcirlos por las tierrasH2219
+- Sal_107:40esparce menosprecio sobre...príncipesH8210
+- Sal_141:7esparcidos nuestros huesos a la bocaH6340
+- Pro_15:7boca de los sabios esparce sabiduríaH2219
+- Ecl_3:5tiempo de esparcir piedras, y tiempo deH7993
+- Isa_11:12y reunirá los esparcidos de Judá deH5310
+- Isa_24:1trastorna su faz, y hace esparcir a susH6327
+- Isa_27:13sido esparcidos en la tierra de AsiriaH6
+- Isa_33:3naciones fueron esparcidas al levantarteH5310
+- Isa_41:16los llevará el viento, y los esparciráH6327
+- Jer_8:2los esparcirán al sol y a la luna y aH7849
+- Jer_9:16los esparciré entre naciones que ni ellosH6327
+- Jer_10:21por tanto...todo su ganado se esparcidH6327
+- Jer_13:24los esparciré al viento del desiertoH6327
+- Jer_18:17los esparciré delante del enemigo, lesH6327
+- Jer_25:34para que seáis degollados y esparcidosH8600
+- Jer_30:11las naciones entre las cuales te esparcíH6327
+- Jer_31:10el que esparció a Israel lo reunirá yH2219
+- Jer_49:32y los esparciré por todos los vientosH2219
+- Lam_4:1piedras del santuario están esparcidasH8210
+- Eze_5:2una tercera parte esparcirás al vientoH2219
+- Eze_5:10y esparciré a todos los vientos todo loH2219
+- Eze_5:12una tercera parte esparciré a todos losH2219
+- Eze_6:5vuestros huesos esparciré en derredor deH2219
+- Eze_6:8cuando seáis esparcidos por las tierrasH2219
+- Eze_10:2carbones...y espárcelos sobre la ciudadH2236
+- Eze_11:16aunque...les he esparcido por las tierrasH6327
+- Eze_11:17y os congregaré de...estáis esparcidosH6327
+- Eze_12:14a todas sus tropas, esparciré a todosH2219
+- Eze_12:15y sabrán que yo...cuando los esparciereH6327
+- Eze_17:21serán esparcidos a todos los vientosH6566
+- Eze_20:23que los esparciría entre las nacionesH6327
+- Eze_20:34, Eze_20:41las tierras en que estáis esparcidosH6327
+- Eze_22:15te esparciré por las tierras; y haréH6327
+- Eze_28:25pueblos entre los cuales está esparcidaH6327
+- Eze_29:12esparciré a Egipto entre las nacionesH6327
+- Eze_29:13pueblos entre los cuales...esparcidosH6327
+- Eze_30:23, Eze_30:26esparciré a los egipcios entre lasH6327
+- Eze_34:6fueron esparcidas mis ovejas, y no huboH6327
+- Eze_34:12está en medio de sus ovejas esparcidosH6566
+- Eze_34:12los lugares en que fueron esparcidasH6327
+- Eze_36:19les esparcí por las naciones, y fueronH6327
+- Eze_36:25esparciré sobre vosotros agua limpiaH2236
+- Eze_43:18altar...y para esparcir sobre él sangreH2236
+- Joe_3:2Israel...a quien ellas esparcieron entreH6327
+- Sof_3:10la hija de mis esparcidos traerá miH6327
+- Zac_2:6por los cuatro vientos de...os esparcíH6566
+- Zac_7:14que los esparcí...por todas las nacionesH5590
+- Zac_10:9bien que los esparciré entre los pueblosH2232
+- Mat_25:24siegas...recoges donde no esparcisteG1287
+- Mat_25:26sabías que...y recojo donde no esparcíG1287
+- Luc_1:51esparcid...soberbios en el pensamientoG1287
+- Jua_2:15esparcid las monedas de los cambistasG1632
+- Jua_16:32la hora viene...en que seréis esparcidosG4650
+- Hec_8:1fueron esparcidos por las tierras deG1289
+- Hec_8:4pero los que fueron esparcidos iban porG1289
+- Hec_11:19que habían sido esparcidos a causa deG1289

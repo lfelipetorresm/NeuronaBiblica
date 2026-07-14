@@ -1,0 +1,94 @@
+---
+tipo: concordancia
+palabra: TERRITORIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TERRITORIO
+
+- Gén_10:19fue el t de los cananeos desde SidónH1366
+- Gén_47:21desde un extremo al...del t de EgiptoH1366
+- Éxo_8:2yo castigaré con ranas todos tus tH1366
+- Éxo_10:4mañana yo traeré sobre tu t la langostaH1366
+- Éxo_13:7nada leudado, ni levadura, en todo tu tH1366
+- Éxo_34:24ensancharé tu t; y ninguno codiciará tuH1366
+- Núm_20:17real...hasta que hayamos pasado tu tH1366
+- Núm_20:21no quiso...Edom dejar pasar a...por su tH1366
+- Núm_21:13de Amón...y que sale del t del amorreoH1366
+- Núm_21:22por el camino...hasta que pasemos tu tH1366
+- Núm_21:23Sehón no dejó pasar a Israel por su tH1366
+- Núm_22:36la ciudad de Moab...al extremo de su tH1366
+- Núm_32:33dio a...tierra con sus ciudades y sus tH1367
+- Deu_2:4pasando...por el t de vuestros hermanosH1366
+- Deu_2:8nos alejamos del t de nuestros hermanos
+- Deu_2:18tú pasarás hoy el t de Moab, a ArH1366
+- Deu_2:30Sehón...no quiso que pasásemos por el t
+- Deu_11:24hasta el mar occidental será vuestro tH1366
+- Deu_12:20cuando Jehová tu Dios ensanchare tu tH1366
+- Deu_16:4no se verá levadura contigo en todo tu tH1366
+- Deu_19:8si Jehová...ensanchare tu t, como lo juróH1366
+- Deu_28:40tendrás olivos en todo tu t, mas no teH1366
+- Jos_1:4desde el desierto y...será vuestro tH1366
+- Jos_12:4y el t de Og rey de Basán, que habíaH1366
+- Jos_12:5y la mitad de Galaad, t de Sehón rey deH1366
+- Jos_13:2que queda: todos los t de los filisteosH1552
+- Jos_13:11y Galaad, y los t de los gesureos y deH1366
+- Jos_13:16fue el t de ellos desde Aroer, que estáH1366
+- Jos_13:23el Jordán fue el límite del t...de RubénH1366
+- Jos_13:25el t de ellos fue Jazer, y todas lasH1366
+- Jos_13:30el t de ellos fue desde Mahanaim, todoH1366
+- Jos_16:2y pasa a lo largo del t de los arquitasH1366
+- Jos_16:3y baja...al t de los jafletitas, hastaH1366
+- Jos_16:5en cuanto al t de los hijos de EfraínH1366
+- Jos_17:7y fue el t de Manasés desde Aser hastaH1366
+- Jos_18:5Judá quedará en su t al sur, y los de laH1366
+- Jos_18:11el t adjudicado a ellos quedó entre losH1366
+- Jos_19:10y el t de su heredad fue hasta SaridH1366
+- Jos_19:18y fue su t Jezreel, Quesulot, SunemH1366
+- Jos_19:25su t abarcó Helcat, Halí, Betén, AcsafH1366
+- Jos_19:29gira...sale al mar desde el t de AczibH2256
+- Jos_19:33abarcó su t desde Helef...hasta LacumH1366
+- Jos_19:41y fue el t de su heredad, Zora, EstaolH1366
+- Jos_19:46Racón, con el t que está delante de JopeH1366
+- Jos_19:47faltó t a los hijos de Dan; y subieronH1366
+- Jos_19:49repartir la tierra en heredad por sus tH1367
+- Jue_1:3conmigo al t que se me ha adjudicadoH1486
+- Jue_1:18también Judá a Gaza con su t, AscalónH1366
+- Jue_1:18tomó Ascalón con su t y Ecrón con su tH1366
+- Jue_11:18y no entró en t de Moab..es t de MoabH1366
+- Jue_11:20no se fío de...para darle paso por su tH1366
+- Jue_11:22se apoderaron...todo el t del amorreoH1366
+- Jue_11:26las ciudades que están en el t de ArnónH3027
+- Jue_19:29en doce partes, y la envió por todo el tH1366
+- Jue_20:6la corté...y la envié por todo el t de laH7704
+- 1Sa_5:6con tumores en Asdod y en todo su tH1366
+- 1Sa_7:13y no volvieron más a entrar en el t deH1366
+- 1Sa_7:14Israel libró su t de...de los filisteosH1366
+- 1Sa_10:2hallarás...en el t de Benjamín, en SelsaH1366
+- 1Sa_11:3mensajeros por todo el t de Israel; y siH1366
+- 1Sa_11:7y los envió por todo el t de Israel porH1366
+- 1Sa_27:1no me ande buscando más por todo el tH1366
+- 2Sa_8:3ir éste a recuperar su t al...EufratesH3027
+- 2Sa_21:5sin dejar nada...en todo el t de IsraelH1366
+- 1Re_4:11el hijo de Abinadab en...los t de DorH5299
+- 2Re_10:32comenzó...a cercenar el t de Israel
+- 1Cr_4:10ensancharas mi t...y me libraras deH1366
+- 1Cr_6:56el t de...y sus aldeas se dieron a CalebH7704
+- 1Cr_7:29y junto al t de los hijos de ManasésH3027
+- 2Cr_32:4el arroyo que corría a través del tH776
+- Sal_105:33viñas...quebró los árboles de su tH1366
+- Sal_147:14él da en tu t la paz; te hará saciarH1366
+- Isa_10:13quité los t de los pueblos, y saqueéH1367
+- Isa_60:18nunca...se oirá...quebrantamiento en tu tH1366
+- Jer_15:13entregaré a la rapiña...en todo tu tH1366
+- Jer_17:3al pillaje por el pecado...en todo tu tH1366
+- Jer_51:28sus príncipes, y todo t de su dominioH776
+- Eze_33:2el pueblo...tomare un hombre de su tH7097
+- Eze_45:1será santificado en todo su t alrededorH1366
+- Joe_3:4¿qué tengo yo con...el t de Filistea?[[H1552]]
+- Sof_2:8he oído...se engrandecieron sobre su tH1366
+- Zac_9:2también Hamat...comprendida en el t deH5561
+- Mal_1:4les llamarán t de impiedad, y puebloH1366
+- Hec_12:20su t era abastecido por el del reyG5561
+- Hec_13:19siete naciones...dio en herencia su tG1093

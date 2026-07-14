@@ -1,0 +1,105 @@
+---
+tipo: concordancia
+palabra: RESUCITAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RESUCITAR
+
+- Neh_4:2¿resucitarán de los montones del polvoH2421
+- Isa_26:14han fallecido, no resucitarán; porqueH6965
+- Isa_26:19tus muertos...sus cadáveres resucitaránH6965
+- Ose_6:2tercer día nos resucitará, y viviremosH2421
+- Mat_10:8resucitad muertos, echad...demonios; deG1453
+- Mat_11:5sordos oyen, los muertos son resucitadosG1453
+- Mat_14:2Juan el Bautista; ha resucitado de losG1453
+- Mat_16:21ser muerto, y resucitar al tercer díaG1453
+- Mat_17:9hasta que el...resucite de los muertosG450
+- Mat_17:23mas al tercer día resucitará. Y ellosG1453
+- Mat_20:19crucifiquen...al tercer día resucitaráG450
+- Mat_26:32pero después que haya resucitado, iréG1453
+- Mat_27:63dijo...Después de tres días resucitaréG1453
+- Mat_27:64y digan...Resucitó de entre los muertosG1453
+- Mat_28:6no está aquí...ha resucitado, como dijoG1453
+- Mat_28:7decid...que ha resucitado de los muertosG1453
+- Mar_6:14dijo: Juan el Bautista ha resucitadoG1453
+- Mar_6:16Juan...que ha resucitado de los muertosG1453
+- Mar_8:31muerto, y resucitar después de tres díasG1453
+- Mar_9:9cuando...hubiese resucitado de los muertosG450
+- Mar_9:10qué sería aquello de resucitar de losG305
+- Mar_9:31pero después...resucitará al tercer díaG450
+- Mar_10:34matarán; mas al tercer día resucitaráG450
+- Mar_12:23cuando resuciten, ¿de cuál de ellos seráG450
+- Mar_12:25cuando resuciten de los muertos, ni seG450
+- Mar_12:26que los muertos resucitan, ¿no habéisG1453
+- Mar_14:28pero después que haya resucitado, iréG1453
+- Mar_16:6ha resucitado, no está aquí; mirad elG1453
+- Mar_16:9habiendo, pues, resucitado Jesús por laG450
+- Mar_16:14a los que le habían visto resucitadoG1453
+- Luc_7:22los muertos son resucitados, y a losG1453
+- Luc_9:7decían...Juan ha resucitado de los muertosG1453
+- Luc_9:8, Luc_9:19algún profeta de los...ha resucitadoG450
+- Luc_9:22que sea muerto, y resucite al tercer díaG1453
+- Luc_18:33matarán; mas al tercer día resucitaráG450
+- Luc_20:37que los muertos han de resucitar, aunG1453
+- Luc_24:6no está aquí, sino que ha resucitadoG1453
+- Luc_24:7crucificado, y resucite al tercer díaG450
+- Luc_24:34que decían: Ha resucitado el SeñorG1453
+- Luc_24:46resucitase de los muertos al tercer díaG450
+- Jua_2:22cuando resucitó...acordaron que habíaG1453
+- Jua_6:39sino que lo resucite en el día postreroG450
+- Jua_6:40, Jua_6:44, Jua_6:54le resucitaré en el día postreroG450
+- Jua_11:23Jesús le dijo: Tu hermano resucitaráG450
+- Jua_11:24yo sé que resucitará en la resurrecciónG450
+- Jua_12:1a quien había resucitado de los muertosG1453
+- Jua_12:9ver a Lázaro, a quien había resucitadoG1453
+- Jua_12:17a Lázaro...y le resucitó de los muertosG1453
+- Jua_20:9que era necesario que él resucitase deG450
+- Jua_21:14tercera vez...después de haber resucitadoG1453
+- Hec_2:32este Jesús resucitó Dios, de lo cualG450
+- Hec_3:15al Autor de...a quien Dios ha resucitadoG1453
+- Hec_4:10y a quien Dios resucitó de los muertosG1453
+- Hec_10:41y bebimos con él después que resucitóG450
+- Hec_13:33Dios ha cumplido...resucitando a JesúsG450
+- Hec_17:3padeciese, y resucitase de los muertosG450
+- Hec_26:8cosa increíble que Dios resucite a losG1453
+- Rom_4:25resucitado para nuestra justificaciónG1453
+- Rom_6:4como Cristo resucitó de los muertos porG1453
+- Rom_6:9Cristo, habiendo resucitado...ya no muereG1453
+- Rom_7:4de otro, del que resucitó de los muertosG1453
+- Rom_8:34el que también resucitó, el que ademásG1453
+- Rom_14:9para esto murió y resucitó, y volvió aG450
+- 1Co_15:4resucitó al tercer día, conforme aG1453
+- 1Co_15:12si se predica de Cristo que resucitóG1453
+- 1Co_15:13porque si no...tampoco Cristo resucitóG1453
+- 1Co_15:14si Cristo no resucitó, vana...vuestra feG1453
+- 1Co_15:15hemos testificado...él resucitó a CristoG1453
+- 1Co_15:15al cual no resucitó, si en verdad losG1453
+- 1Co_15:15si en verdad los muertos no resucitanG1453
+- 1Co_15:16no resucitan, tampoco Cristo resucitóG1453
+- 1Co_15:17y si Cristo no resucitó, vuestra fe esG1453
+- 1Co_15:20mas...Cristo ha resucitado de los muertosG1453
+- 1Co_15:29ninguna manera los muertos resucitan?[[G1453]]
+- 1Co_15:32si los muertos no resucitan, comamos yG1453
+- 1Co_15:35alguno: ¿Cómo resucitarán los muertos?[[G1453]]
+- 1Co_15:42se siembra...resucitará en incorrupciónG1453
+- 1Co_15:43se siembra en deshonra, resucitará enG1453
+- 1Co_15:43se siembra en debilidad, resucitará enG1453
+- 1Co_15:44animal, resucitará cuerpo espiritualG1453
+- 1Co_15:52muertos serán resucitados incorruptiblesG1453
+- 2Co_1:9en Dios que resucita a los muertosG1453
+- 2Co_4:14sabiendo que el que resucitó al SeñorG1453
+- 2Co_4:14a nosotros...resucitará con Jesús, y nosG1453
+- 2Co_5:15para aquel que murió y resucitó por ellosG1453
+- Gál_1:1por Dios el Padre que lo resucitó deG1453
+- Efe_1:20operó en Cristo, resucitándole de losG1453
+- Efe_2:6y juntamente con él nos resucitó...sentarG4891
+- Col_2:12fuisteis también resucitados con élG1453
+- Col_3:1si, pues, habéis resucitado con CristoG4891
+- 1Ts_1:10al cual resucitó de los muertos, aG1453
+- 1Ts_4:14si creemos que Jesús murió y resucitóG450
+- 1Ts_4:16muertos en Cristo resucitarán primeroG450
+- 2Ti_2:8resucitado de los muertos conformeG1453
+- Heb_13:20el Dios de paz, que resucitó...Señor
+- 1Pe_1:21quien le resucitó de los muertos y leG1453

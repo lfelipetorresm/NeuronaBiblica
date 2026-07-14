@@ -1,0 +1,318 @@
+---
+tipo: concordancia
+palabra: PIEDRA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PIEDRA
+
+- Gén_11:3les sirvió el ladrillo en lugar de pH68
+- Gén_28:11y tornó de las p...y puso a su cabeceraH68
+- Gén_28:18se levantó Jacob de mañana, y tomó la pH68
+- Gén_28:22esta p que he puesto por señal, seráH68
+- Gén_29:2había una gran p sobre la boca del pozoH68
+- Gén_29:3y revolvían la p de la boca del pozoH68
+- Gén_29:3y volvían la p sobre la boca del pozo aH68
+- Gén_29:8remuevan la p de la boca del pozo, paraH68
+- Gén_29:10acercó Jacob y removió la p...del pozoH68
+- Gén_31:13Dios de Bet-el, donde tú ungiste la pH4676
+- Gén_31:45Jacob tomó una p...la levantó por señalH68
+- Gén_31:46y dijo Jacob a...Recoged p. Y tomaron pH68
+- Gén_35:14una señal de p, y derramó sobre ellaH68
+- Éxo_7:19los vasos de madera como en los de pH68
+- Éxo_15:5descendieron a las profundidades como pH68
+- Éxo_15:16a la grandeza de...enmudezcan como unaH68
+- Éxo_17:12tomaron una p, y la pusieron debajo deH68
+- Éxo_20:25me hicieres altar de p, no las labresH68
+- Éxo_21:18si...hiriere a su...con p o con el puñoH68
+- Éxo_24:12sube...te daré tablas de p, y la ley, yH68
+- Éxo_25:7p de ónice, y p de engaste para el efodH68
+- Éxo_28:9tornarás dos p de ónice, y grabarás enH68
+- Éxo_28:10en una p, y los otros seis...la otra pH68
+- Éxo_28:11obra de grabador en p, como...de selloH68
+- Éxo_28:11grabar las dos p con los nombres de losH68
+- Éxo_28:12pondrás las dos p sobre las hombrerasH68
+- Éxo_28:12para p memoriales a los hijos de IsraelH68
+- Éxo_28:17lo llenarás de...en cuatro hileras de pH68
+- Éxo_28:17hilera de una p sárdica, un topacioH68
+- Éxo_28:21las p serán según los nombres de losH68
+- Éxo_31:5en artificio de p para engastarlas, yH68
+- Éxo_31:18tablas de p escritas con...dedo de DiosH68
+- Éxo_34:1dijo a Moisés: Alísate dos tablas de pH68
+- Éxo_34:4alisó dos tablas de p como las primerasH68
+- Éxo_34:4y llevó en su mano las dos tablas de pH68
+- Éxo_35:9p de ónice y p de engaste para el efodH68
+- Éxo_35:27trajeron p de ónice, y las p de losH68
+- Éxo_35:33en la talla de p de engaste, y en obraH68
+- Éxo_39:6y labraron las p de ónice montadas enH68
+- Éxo_39:7p memoriales para los hijos de IsraelH68
+- Éxo_39:10engastaron en él cuatro hileras de pH68
+- Éxo_39:14y las p eran conforme a los nombres deH68
+- Lev_14:40arrancarán las p en que estuviere laH68
+- Lev_14:42y tomarán otras p y...en lugar de las pH68
+- Lev_14:43plaga...después que hizo arrancar las pH68
+- Lev_14:45derribará...tal casa, sus p, sus maderosH68
+- Lev_26:1ni pondréis...p pintada para inclinarosH68
+- Núm_33:52y destruiréis todos sus ídolos de p
+- Núm_35:17con p en la mano...lo hiriere y muriereH68
+- Núm_35:23caer sobre él alguna p que pudo matarloH68
+- Deu_4:13su pacto...escribió en dos tablas de pH68
+- Deu_4:28serviréis allí a dioses...de madera y pH68
+- Deu_5:22y las escribió en dos tablas de p, lasH68
+- Deu_8:9cuyas p son hierro, y de...sacarás cobreH68
+- Deu_9:9yo subí al...para recibir las tablas de pH68
+- Deu_9:10dio Jehová las dos tablas de p escritasH68
+- Deu_9:11me dio las dos tablas de p, las tablasH68
+- Deu_10:1Jehová me dijo: Lábrate dos tablas de pH68
+- Deu_10:3labré dos tablas de p como las primerasH68
+- Deu_27:2levantarás p grandes, y las revocarásH68
+- Deu_27:4levantarás estas p que yo os mando hoyH68
+- Deu_27:5edificarás allí un altar a Jehová...de pH68
+- Deu_27:6p enteras edificarás el altar de JehováH68
+- Deu_27:8escribirás...en las p todas las palabrasH68
+- Deu_28:36, Deu_28:64y allá servirás a...al palo y a la pH68
+- Deu_29:17habéis visto...sus ídolos de madera y pH68
+- Jos_4:3tomad de...doce p, las cuales pasaréisH68
+- Jos_4:5cada uno de...tome una p sobre su hombroH68
+- Jos_4:6, Jos_4:21diciendo: ¿Qué significan estas p?[[H68]]
+- Jos_4:7estas p servirán de monumento...a IsraelH68
+- Jos_4:8tomaron doce p de en medio del JordánH68
+- Jos_4:9levantó doce p en medio del Jordán, en elH68
+- Jos_4:20en Gilgal las doce p que habían traídoH68
+- Jos_7:26; Jos_8:29levantaron...un gran montón de pH68
+- Jos_8:31un altar de p enteras sobre las cualesH68
+- Jos_8:32escribió allí sobre las p...una copia deH68
+- Jos_10:11Jehová arrojó...p...murieron por las pH68
+- Jos_10:18grandes p a la entrada de la cueva, yH68
+- Jos_10:27pusieron...p a la entrada de la cuevaH68
+- Jos_15:6aquí sube a la p de Bohán hijo de RubénH68
+- Jos_18:17desciende a la p de Bohán hijo de RubénH68
+- Jos_24:26y tomando una gran p, la levantó allíH68
+- Jos_24:27esta p nos servirá de testigo, porqueH68
+- Jue_9:5mató a sus hermanos...sobre una mismaH68
+- Jue_9:18matado a...70 varones sobre una misma pH68
+- Jue_20:16tiraban una p con la honda a un cabelloH68
+- 1Sa_6:14y el carro vino al...había una gran pH68
+- 1Sa_6:15joyas...las pusieron sobre aquella gran pH68
+- 1Sa_6:18la gran p sobre la cual pusieron el arca
+- 1Sa_7:12tomó...una p y la puso entre Mizpa y SenH68
+- 1Sa_14:33dijo...rodadme ahora acá una p grandeH68
+- 1Sa_17:40y escogió cinco p lisas del arroyo, yH68
+- 1Sa_17:49tomó de allí una p...la p quedó clavadaH68
+- 1Sa_17:50así venció...al filisteo con honda y pH68
+- 1Sa_20:19días...y esperarás junto a la p de EzelH68
+- 1Sa_25:37desmayó su corazón...quedó como una pH68
+- 2Sa_12:30quitó la corona...enía p preciosasH68
+- 2Sa_16:6y arrojando p contra David, y contraH68
+- 2Sa_16:13Simei iba por...arrojando p delante de élH68
+- 2Sa_17:13hasta que no se encuentre allí ni una pH68
+- 2Sa_18:17y levantaron sobre él un montón...de pH68
+- 2Sa_20:8estando ellos cerca de la p...en GabaónH68
+- 1Re_5:17trajesen p grandes, p costosas, paraH68
+- 1Re_5:17los cimientos de la casa, y p labradasH68
+- 1Re_6:7fabricaron de p que traían ya acabadasH68
+- 1Re_6:18casa...Todo era cedro; ninguna p se veíaH68
+- 1Re_6:36el atrio interior de tres hileras de pH1496
+- 1Re_7:9todas aquellas obras fueron de p costosasH68
+- 1Re_7:10cimiento era de p costosas, p grandesH68
+- 1Re_7:10p de diez codos y p de ocho codosH68
+- 1Re_7:11allí hacia arriba eran también p costosasH68
+- 1Re_7:12había tres hileras de p labradas, y unaH1496
+- 1Re_8:9tablas de p que allí había puesto MoisésH68
+- 1Re_10:2vino a Jerusalén con un...y p preciosasH68
+- 1Re_10:10y dio ella al rey...oro...y p preciosasH68
+- 1Re_10:11traía también de Ofir...y p preciosasH68
+- 1Re_10:27la plata llegara a ser como p, y losH68
+- 1Re_15:22quitaron de Ramá la p y la madera conH68
+- 1Re_18:31tomando Elías 12 p, conforme al númeroH68
+- 1Re_18:32edificó con las p un altar...de JehováH68
+- 1Re_18:38consumió...a leña, las p y el polvo, yH68
+- 2Re_3:19destruiréis con p toda tierra fértilH68
+- 2Re_3:25las tierras fértiles echó cada uno su pH68
+- 2Re_3:25que en Kir-hareset solamente dejaron pH68
+- 2Re_12:12y en comprar la madera y p de canteríaH68
+- 2Re_16:17el mar de...lo puso sobre el suelo de pH68
+- 2Re_19:18obra de manos de hombres, madera o pH68
+- 2Re_22:6madera y p de cantería para reparar laH68
+- 1Cr_12:2usaban de ambas manos para tirar pH68
+- 1Cr_20:2la corona...y había en ella p preciosasH68
+- 1Cr_22:2canteros que labrasen p para edificarH68
+- 1Cr_22:14he preparado madera y p, a lo cual túH68
+- 1Cr_29:2y p de ónice, p preciosas, p negrasH68
+- 1Cr_29:2p de...colores...p preciosas, p de mármolH68
+- 1Cr_29:8todo el que tenía p preciosas las dioH68
+- 2Cr_1:15acumuló el rey plata y oro...como pH68
+- 2Cr_2:14sabe trabajar en oro...en p y en maderaH68
+- 2Cr_3:6cubrió también la casa de p preciosasH68
+- 2Cr_9:1la reina de Sabá...vino...con...p preciosasH68
+- 2Cr_9:9y dio al rey...aromáticas, y p preciosasH68
+- 2Cr_9:10de Ofir, trajeron madera...y p preciosasH68
+- 2Cr_9:27acumuló el rey plata...como p, y cedrosH68
+- 2Cr_16:6y se llevaron de Ramá la p y la maderaH68
+- 2Cr_26:14y Uzías preparó...hondas para tirar pH68
+- 2Cr_26:15hizo...para arrojar saetas y grandes pH68
+- 2Cr_32:27y adquirió...oro, p preciosas, perfumesH68
+- 2Cr_34:11que comprasen p de cantería, y maderaH68
+- Esd_5:8la cual se edifica con p grandes; yH69
+- Esd_6:4y tres hileras de p grandes, y una deH69
+- Neh_4:2¿resucitarán...p que fueron quemadas?[[H68]]
+- Neh_4:3lo que ellos edifican del muro de p, siH68
+- Neh_9:11echaste...como una p en profundas aguasH68
+- Job_5:23con las p del campo tendrás tu pactoH68
+- Job_6:12es mi fuerza la de las p, o es mi carneH68
+- Job_14:19las p se desgastan con el agua impetuosaH68
+- Job_18:15p de azufre...esparcida sobre su moradaH1614
+- Job_19:24fuesen esculpidas en p para siempre![[H6697]]
+- Job_22:24tendrás...como p de arroyos oro de OfirH6697
+- Job_28:2el hierro se...y de la p se funde el cobreH68
+- Job_28:3las p que hay en oscuridad y en sombraH68
+- Job_28:6cuyas p con zafiro, y sus polvos de oroH68
+- Job_28:18sabiduría es mejor que las p preciosas
+- Job_29:6y la p me derramaba tíos de aceite![[H6697]]
+- Job_38:6¿sobre qué...¿o quién puso su p angularH68
+- Job_38:30aguas se endurecen a manera de p, y seH68
+- Job_41:24corazón es firme como una p, y fuerteH68
+- Job_41:28saeta no...p de honda le son como pajaH6870
+- Sal_91:12para que tu pie no tropiece en pH68
+- Sal_102:14tus siervos aman sus p, y del polvoH68
+- Sal_118:22la p que desecharon los edificadoresH68
+- Pro_3:15mas preciosa es que las p preciosas
+- Pro_8:11porque mejor es la...que las p preciosas
+- Pro_17:8p preciosa es el soborno para el que loH68
+- Pro_20:15hay oro y multitud de p preciosas; mas
+- Pro_24:31y su cerca de p estaba ya destruidaH68
+- Pro_26:8como quien liga la p en la honda, asíH68
+- Pro_26:27que revuelve la p, sobre él le volveráH68
+- Pro_27:3pesada es la p, y la arena pesa; mas laH68
+- Pro_30:26conejos, pueblo...ponen su casa en la pH6697
+- Pro_31:10estima sobrepasa...la de las p preciosas
+- Ecl_3:5tiempo de esparcir p, y...de juntar pH68
+- Ecl_10:9quien corta p, se hiere con ellas; elH68
+- Isa_7:19en las cavernas de las p, y en todosH5553
+- Isa_8:14por p para tropezar, y por tropezaderoH6697
+- Isa_19:13que son la p angular de sus familias
+- Isa_27:9haga todas las p del altar como p de calH68
+- Isa_28:16yo he puesto en Sion...una p, p probadaH68
+- Isa_30:30hará oír su...tempestad y p de granizoH68
+- Isa_37:19no eran dioses, sino obra...madera y pH68
+- Isa_48:21les hizo brotar agua de la p; abrió laH6697
+- Isa_51:1mirad a la p de donde fuisteis cortadosH6697
+- Isa_54:11yo cimentaré tus p sobre carbunclo, yH68
+- Isa_54:12tus ventanas pondré de p preciosas, tusH68
+- Isa_54:12p de carbunclo, y toda tu muralla de pH68
+- Isa_57:6en las p lisas del valle está tu parte
+- Isa_60:17en lugar de p hierro; y pondré paz porH68
+- Isa_62:10quitad...p, alzad pendón a los pueblosH68
+- Jer_2:27dicen...a una p: Tú me has engendradoH68
+- Jer_3:9tierra...adulteró con la p y con el leñoH68
+- Jer_5:3endurecieron sus rostros más que la p, noH5553
+- Jer_18:14¿faltará la nieve...de la p del campo?[[H6697]]
+- Jer_21:13moradora del...y de la p de la llanuraH6697
+- Jer_23:29¿no...como martillo que quebranta la p?[[H5553]]
+- Jer_43:9toma con tu mano p grandes, y cúbrelasH68
+- Jer_43:10y pondré su trono sobre estas p que heH68
+- Jer_51:26nadie tomará de...p para esquina, ni pH68
+- Jer_51:63le atarás una p, y lo echarás en medioH68
+- Lam_3:9cercó mis caminos con p labrada, torcióH1496
+- Lam_3:53ataron mi vida en...pusieron p sobre miH68
+- Lam_4:1las p del santuario están esparcidas porH68
+- Eze_1:26de un trono que parecía de p de zafiroH68
+- Eze_10:1como una p de zafiro, que parecía comoH68
+- Eze_11:19quitaré el corazón de p de en medio deH68
+- Eze_13:11enviaré p de granizo que la hagan caerH68, [[H417]]
+- Eze_13:13y p de granizo con enojo para consumirH68, [[H417]]
+- Eze_20:32naciones...que sirvan al palo y a la pH68
+- Eze_24:7sobre una p alisada la ha derramado; noH5553
+- Eze_24:8pondré su sangre sobre la dura p, paraH5553
+- Eze_26:12pondrán tus p y tu madera y tu polvo enH68
+- Eze_27:22con toda p preciosa, y oro, vinieron aH68
+- Eze_28:13de toda p preciosa era tu vestiduraH68
+- Eze_28:14en medio de las p de fuego te paseabasH68
+- Eze_28:16te arrojé de entre las p del fuego, ohH68
+- Eze_36:26quitaré...el corazón de p, y os daré unH68
+- Eze_38:22y haré llover sobre él...p de granizoH68, [[H417]]
+- Eze_40:42las cuatro mesas...eran de p labrada, deH68
+- Dan_2:34estabas mirando, hasta que una p fueH68
+- Dan_2:35la p que hirió a la imagen fue hecha unH68
+- Dan_2:45viste que del monte fue cortada una pH68
+- Dan_5:4alabaron a los dioses de...madera y de pH68
+- Dan_5:23diste alabanza a dioses...p, que ni venH68
+- Dan_6:17traída una p y puesta sobre la puertaH68
+- Dan_11:38lo honrará...con p preciosas y con cosasH68
+- Amó_5:11edificasteis casas de p labrada, masH1496
+- Miq_1:6Samaria...derramaré sus p por el valleH68
+- Hab_2:11porque la p clamará desde el muro, yH68
+- Hab_2:19del que dice...a la p muda: Levántate![[H68]]
+- Hag_2:15meditad...antes que pongan p sobre pH68
+- Zac_3:9he aquí aquella p...sobre esta única pH68
+- Zac_4:7él sacará la primera p con aclamacionesH68, [[H7222]]
+- Zac_5:4y la consumirá, con sus maderas y sus pH68
+- Zac_9:15y hollarán las p de la honda, y beberánH68
+- Zac_9:16como p de diadema serán enaltecidos enH68
+- Zac_10:4saldrá la p angular, de él la clavijaH68
+- Zac_12:3pondré a Jerusalén por p pesada a todosH68
+- Mat_3:9levantar hijos a Abraham...de estas pG3037
+- Mat_4:3si...di que estas p se conviertan en panG3037
+- Mat_4:6para que no tropieces con tu pie en pG3037
+- Mat_7:9que si su hijo le pide pan, le dará una p?[[G3037]]
+- Mat_18:6le colgase al cuello una p de molino deG3458, [[G3684]]
+- Mat_21:42la p que desecharon los edificadores haG3037
+- Mat_21:44cayere sobre esta p será quebrantadoG3037
+- Mat_24:2no quedará aquí p sobre p, que no seaG3037
+- Mat_27:60de hacer rodar una gran p a la entradaG3037
+- Mat_27:66sellando la p y poniendo la guardiaG3037
+- Mat_28:2un ángel...removió la p, y se senté sobreG3037
+- Mar_5:5andaba dando voces...e hiriéndose con pG3037
+- Mar_9:42se le atase una p de molino al cuelloG3037
+- Mar_12:10la p que desecharon los edificadores haG3037
+- Mar_13:1Maestro, mira qué p, y qué edificiosG3037
+- Mar_13:2¿ves...no quedará p sobre p, que no seaG3037
+- Mar_15:46rodar una p a la entrada del sepulcroG3037
+- Mar_16:3¿quién nos removerá la p de la entradaG3037
+- Mar_16:4cuando miraron, vieron removida la pG3037
+- Luc_3:8levantar hijos a Abraham...de estas pG3037
+- Luc_4:3si...di a esta p que se convierta en panG3037
+- Luc_4:11para que no tropieces con tu pie en pG3037
+- Luc_8:6parte cayó sobre la p; y nacida, se secoG4073
+- Luc_8:13los de sobre la p son los que habiendoG4073
+- Luc_11:11si su hijo le pide pan, le dará una p?[[G3037]]
+- Luc_17:2que se le atase...una p de molino y se leG3458
+- Luc_19:40que si éstos callaran, las p clamaríanG3037
+- Luc_19:44y no dejarán en ti p sobre p, porG3037
+- Luc_20:17la p que desecharon los edificadoresG3037
+- Luc_20:18todo el que cayere sobre aquella p, seráG3037
+- Luc_21:5el templo estaba adornado de hermosas pG3037
+- Luc_21:6días vendrán en...no quedará p sobre pG3037
+- Luc_22:41apartó...distancia como de un tiro de pG3037
+- Luc_24:2y hallaron removida la p del sepulcroG3037
+- Jua_2:6y estaban allí seis tinajas de p paraG3035
+- Jua_8:7sea el primero en arrojar la p contra ellaG3037
+- Jua_8:59tomaron entonces p para arrojárselasG3037
+- Jua_10:31entonces los judíos volvieron a tomar pG3034
+- Jua_11:38una cueva, y tenía una p puesta encimaG3037
+- Jua_11:39Jesús: Quitad la p. Marta, la hermanaG3037
+- Jua_11:41entonces quitaron la p de donde habíaG3037
+- Jua_20:1María...y vio quitada la p del sepulcroG3037
+- Hec_4:11Jesús es la p reprobada por vosotrosG3037
+- Hec_17:29que la Divinidad sea semejante a...o pG3037
+- Rom_9:32pues tropezaron en la p de tropiezoG3037
+- Rom_9:33pongo en Sion p de tropiezo y roca deG4073
+- 1Co_3:12alguno edificare oro...p preciosasG3037
+- 2Co_3:3no en tablas de p, sino en tablas deG3035
+- 2Co_3:7si el ministerio de muerte grabado...en pG3037
+- Efe_2:20la principal p del ángulo Jesucristo
+- 1Pe_2:4acercándoos a él, p viva, desechadaG3037
+- 1Pe_2:5como p vivas, sed edificados como casaG3037
+- 1Pe_2:6pongo en Sion la principal p del ánguloG3037
+- 1Pe_2:7la p que los edificadores desecharon, haG3037
+- 1Pe_2:8P de tropiezo, y roca que hace caerG3037
+- Rev_4:3semejante a p de jaspe y de cornalinaG3037
+- Rev_9:20ni dejaron de adorar a...imágenes de...pG3035
+- Rev_17:4y adornada...de p preciosas y de perlasG3037
+- Rev_18:12mercadería de oro...de p preciosas, deG3037
+- Rev_18:16adornada...de p preciosas y de perlas![[G3037]]
+- Rev_18:21tomó una p, como una gran p de molinoG3458
+- Rev_21:11y su fulgor era semejante al de una pG3037
+- Rev_21:11fulgor...como p de jaspe, diáfana comoG3037
+- Rev_21:19y los cimientos...adornados con toda pG3037

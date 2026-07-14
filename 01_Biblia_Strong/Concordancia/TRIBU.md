@@ -1,0 +1,320 @@
+---
+tipo: concordancia
+palabra: TRIBU
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TRIBU
+
+- Gén_49:16pueblo, como una de las t de IsraelH7626
+- Gén_49:28todos éstos fueron las doce t de IsraelH7626
+- Éxo_24:4y doce columnas...las doce t de IsraelH7626
+- Éxo_28:21y las piedras serán...según las doce tH7626
+- Éxo_31:2Bezaleel...hijo de Hur, de la t de JudáH4294
+- Éxo_31:6a Aholiab hijo de Ahisamac, de la t deH4294
+- Éxo_35:30Bezaleel hijo de Uri...de la t de JudáH4294
+- Éxo_35:34Aholiab hijo de Ahisamac, de la t deH4294
+- Éxo_38:22Bezaleel...de la t de Judá, hizo todasH4294
+- Éxo_38:23de la t de Dan, artífice, diseñador yH4294
+- Éxo_39:14cada una con su nombre, según las 12 tH7626
+- Lev_24:11Selomit, hija de Dibri, de la t deH4294
+- Núm_1:4estará con vosotros un varón de cada tH4294
+- Núm_1:5de la t de Rubén, Elisur hijo de SedeurH4294
+- Núm_1:16eran...príncipes de las t de sus padresH4294
+- Núm_1:21, Núm_1:23, Núm_1:25, Núm_1:27, Núm_1:29, Núm_1:31, Núm_1:33, Núm_1:35, Núm_1:37, Núm_1:39, Núm_1:41, Núm_1:43los contados de la t de...fueronH4294
+- Núm_1:47los levitas, según la t de sus padres, noH4294
+- Núm_1:49no contarás la t de Leví, ni tomarás laH4294
+- Núm_2:5junto a él acamparán...de la t de IsacarH4294
+- Núm_2:7la t de Zabulón; y el jefe de los hijosH4294
+- Núm_2:12acamparán junto a él...de la t de SimeónH4294
+- Núm_2:14la t de Gad; y el jefe de los...de GadH4294
+- Núm_2:20junto a él estará la t de Manasés; y elH4294
+- Núm_2:22la t de Benjamín; y el jefe de los hijosH4294
+- Núm_2:27junto a él acamparán...la t de Aser; y elH4294
+- Núm_2:29la t de Neftalí; y el jefe de...NeftalíH4294
+- Núm_3:6haz que se acerque la t de Leví, y hazlaH4294
+- Núm_4:18no haréis que perezca la t de...de CoatH7626
+- Núm_7:2los cuales eran los príncipes de las tH4294
+- Núm_7:12fue Naasón hijo de Aminadab...t de JudáH4294
+- Núm_10:15sobre el...ejército de la t de...IsacarH4294
+- Núm_10:16sobre el...ejército de la t de...ZabulónH4294
+- Núm_10:19sobre...de la t de los hijos de SimeónH4294
+- Núm_10:20sobre el...ejército de la t de...de GadH4294
+- Núm_10:23sobre...de la t de los hijos de ManasésH4294
+- Núm_10:24sobre...de la t de los hijos de BenjamínH4294
+- Núm_10:26sobre...t de los hijos de Aser, PagielH4294
+- Núm_10:27sobre...de la t de los hijos de NeftalíH4294
+- Núm_13:2de cada t...enviaréis un varón...príncipeH4294
+- Núm_13:4de la t de Rubén, Samúa hijo de ZacurH4294
+- Núm_13:5de la t de Simeón, Safat hijo de HoriH4294
+- Núm_13:6de la t de Judá, Caleb hijo de JefoneH4294
+- Núm_13:7de la t de Isacar, Igal hijo de JoséH4294
+- Núm_13:8de la t de Efraín, Oseas hijo de NunH4294
+- Núm_13:9de la t de Benjamín, Palti hijo de RafúH4294
+- Núm_13:10la t de Zabulón, Gadiel hijo de SodiH4294
+- Núm_13:11de la t de José: de la t de ManasésH4294
+- Núm_13:12de la t de Dan, Amiel hijo de GemailH4294
+- Núm_13:13de la t de Aser, Setur hijo de MicaelH4294
+- Núm_13:14la t de Neftalí, Nahbi hijo de VapsiH4294
+- Núm_13:15de la t de Gad, Geuel hijo de MaquiH4294
+- Núm_18:2la t de Leví, la t de tu padre, haz queH4294
+- Núm_24:2sus ojos, vio a Israel alojado por sus tH7626
+- Núm_25:14jefe de una familia de la t de SimeónH7626
+- Núm_26:55por los nombres de las t de...heredaránH4294
+- Núm_30:1habló Moisés a los príncipes de las tH4294
+- Núm_31:4mil de cada t de todas las t...de IsraelH4294
+- Núm_31:5fueron dados...mil por cada t, doce milH4294
+- Núm_31:6mil de cada t envió; y Finees hijo delH4294
+- Núm_32:28encomendó...a los príncipes...de las tH4294
+- Núm_32:33dio...a la media t de Manasés hijo deH7626
+- Núm_33:54por...t de vuestros padres heredaréisH4294
+- Núm_34:13que diese a las nueve t, y a la media tH4294
+- Núm_34:14la t de los...de Rubén...y la t,de...GadH4294
+- Núm_34:14y la media t de Manasés, han tomado suH4294
+- Núm_34:15dos t y media tomaron su heredad a esteH4294
+- Núm_34:18tomaréis...de cada t un príncipe, paraH4294
+- Núm_34:19de la t de Judá, Caleb hijo de JefoneH4294
+- Núm_34:20de la t de los hijos de Simeón, SemuelH4294
+- Núm_34:21t de Benjamín, Elidad hijo de QuisiónH4294
+- Núm_34:22de la t de los hijos de Dan, el...BuquiH4294
+- Núm_34:23de a t de los hijos de Manasés...HanielH4294
+- Núm_34:24de la t de los hijos de Efraín...KemuelH4294
+- Núm_34:25de la t de los...de Zabulón...ElizafánH4294
+- Núm_34:26de la t de los hijos de Isacar...PaltielH4294
+- Núm_34:27la t de los hijos de Aser...Ahiud hijoH4294
+- Núm_34:28de la t de los hijos de Neftalí...PedaelH4294
+- Núm_36:3casaren con...los hijos de las otras tH7626
+- Núm_36:3-4herencia...añadida a la herencia de la tH4294
+- Núm_36:4será quitada de la heredad de la t deH4294
+- Núm_36:5t de los hijos de José habla rectamenteH4294
+- Núm_36:6pero en la familia de la t...se casaránH4294
+- Núm_36:7la heredad...no sea traspasada de t en tH4294
+- Núm_36:7estará ligado a la heredad de la t deH4294
+- Núm_36:8hija que tenga heredad en las t de losH4294
+- Núm_36:8con alguno de...t de su padre se casaráH4294
+- Núm_36:9y no ande la heredad...de una t a otraH4294
+- Núm_36:9cada una de las t...ligada a su heredadH4294
+- Núm_36:12y la heredad de ellas quedó en la t deH4294
+- Deu_1:13dadme...de vuestras t, varones sabiosH7626
+- Deu_1:15y tomé a los principales de vuestras tH7626
+- Deu_1:15por jefes...gobernadores de vuestras tH7626
+- Deu_1:23tomé doce varones...un varón por cada tH7626
+- Deu_3:13Galaad...lo di a la media t de ManasésH7626
+- Deu_5:23vinisteis a mí...príncipes de vuestras tH7626
+- Deu_10:8tiempo apartó Jehová la t de Leví paraH7626
+- Deu_12:5escogiere de entre...t, para poner allíH7626
+- Deu_12:14lugar...en una de tus t, allí ofrecerásH7626
+- Deu_16:18ciudades que Jehová...te dará en tus tH7626
+- Deu_18:1toda la t de Leví, no tendrán parte niH7626
+- Deu_18:5ha escogido...Dios de entre todas tus tH7626
+- Deu_29:8la dimos por...a la media t de ManasésH7626
+- Deu_29:10los cabezas de vuestras t...ancianosH7626
+- Deu_29:18haya...o t, cuyo corazón se aparte hoyH7626
+- Deu_29:21lo apartará Jehová de todas las t deH7626
+- Deu_31:28congregad...los ancianos de vuestras tH7626
+- Deu_33:5se congregaron los...con las t de IsraelH7626
+- Jos_1:12habló Josué...a la media t de ManasésH7626
+- Jos_3:12doce hombres de las t...uno de cada tH7626
+- Jos_4:2tomad del...doce hombres, uno de cada tH7626
+- Jos_4:4llamó a los doce hombres...uno de cada tH7626
+- Jos_4:5, Jos_4:8conforme al número de las t de losH7626
+- Jos_4:12y la media t de Manasés pasaron armadosH7626
+- Jos_7:1Acán...de la t de Judá, tomó del anatemaH4294
+- Jos_7:14por vuestras t...la t que Jehová tomareH7626
+- Jos_7:16Israel por sus t, y fue tomada la t deH7626
+- Jos_7:17y haciendo acercar a la t de Judá, fue
+- Jos_7:18tomado Acán hijo de Carmi...la t de JudáH4294
+- Jos_11:23la entregó...por herencia...según sus tH7626
+- Jos_12:6aquella tierra...la media t de ManasésH7626
+- Jos_12:7Josué dio la tierra...a las t de IsraelH7626
+- Jos_13:7heredad a las nueve t, y a la media tH7626
+- Jos_13:14pero a la t de Leví no dio heredad; losH7626
+- Jos_13:15a la t de los hijos de Rubén conformeH4294
+- Jos_13:24dio...a la t de Gad, a los hijos de GadH4294
+- Jos_13:29dio...heredad a la media t de ManasésH7626
+- Jos_13:29para la media t de los hijos de ManasésH4294
+- Jos_13:33a la t de Leví no dio Moisés heredadH7626
+- Jos_14:1los cabezas de los padres de las t deH4294
+- Jos_14:2se diera a las nueve t y a la media tH4294
+- Jos_14:3las dos t y a la media t les había dadoH4294
+- Jos_14:4de José fueron dos t, Manasés y EfraínH4294
+- Jos_15:1que tocó...a la t de los hijos de JudáH4294
+- Jos_15:20es la heredad de la t...hijos de JudáH4294
+- Jos_15:21las ciudades de la t de los hijos deH4294
+- Jos_16:8esta es la heredad de la t de...EfraínH4294
+- Jos_17:1echaron...suertes para la t de ManasésH4294
+- Jos_18:2habían quedado...siete t a las cuales aúnH7626
+- Jos_18:4señalad tres varones de cada t, para queH7626
+- Jos_18:7la media t de Manasés, ya han recibidoH7626
+- Jos_18:11y se sacó la suerte de la t...BenjamínH4294
+- Jos_18:21las ciudades de la t de los...de BenjamínH4294
+- Jos_19:1tocó...para la t de los hijos de SimeónH4294
+- Jos_19:8la heredad de la t de los hijos SimeónH4294
+- Jos_19:23esta es la heredad de la t...de IsacarH4294
+- Jos_19:24la quinta suerte...a la t de...de AserH4294
+- Jos_19:31la heredad de la t de los hijos de AserH4294
+- Jos_19:39esta es la heredad de la t...de NeftalíH4294
+- Jos_19:40séptima suerte correspondió a la t...DanH4294
+- Jos_19:48la heredad de la t de los hijos de DanH4294
+- Jos_19:51entregaron por suerte...a las t de losH4294
+- Jos_20:8Beser...en la llanura de la t de RubénH4294
+- Jos_20:8Ramot en Galaad de la t de Gad, y GolánH4294
+- Jos_20:8y Golán en Basán de la t de ManasésH4294
+- Jos_21:1vinieron...a los cabezas...de las t de losH4294
+- Jos_21:4obtuvieron por suerte de la t de JudáH4294
+- Jos_21:4de la t de Simeón y de la t de BenjamínH4294
+- Jos_21:5diez ciudades de las...de la t de EfraínH4294
+- Jos_21:5la t de Dan y de la media t de ManasésH4294
+- Jos_21:6de la t de Isacar, de la t de Aser, de laH4294
+- Jos_21:6t de Neftalí y de la media t de ManasésH4294
+- Jos_21:7de Merari...Obtuvieron de la t de RubénH4294
+- Jos_21:7la t de Gad y de la t de Zabulón, doceH4294
+- Jos_21:9de la t de..Judá, y de la t de...SimeónH4294
+- Jos_21:16ejidos; nueve ciudades de estas dos tH7626
+- Jos_21:17t de Benjamín, Gabaón con sus ejidosH4294
+- Jos_21:20por suerte ciudades de la t de EfraínH4294
+- Jos_21:23de la t de Dan, Elteque con sus ejidosH4294
+- Jos_21:25de la media t de Manasés, Taanac conH4294
+- Jos_21:27de la media t de Manasés a Golán conH4294
+- Jos_21:28la t de Isacar, Cisón con sus ejidosH4294
+- Jos_21:30de la t de Aser, Miscal con sus ejidosH4294
+- Jos_21:32de la t de Neftalí, Cedes en GalileaH4294
+- Jos_21:34la t de Zabulón, Carta con sus ejidosH4294
+- Jos_21:36y de la t de Rubén, Beser con sus ejidos
+- Jos_21:38de la t de Gad, Ramot de Galaad con susH4294
+- Jos_22:1Josué llamó a...a la media t de ManasesH4294
+- Jos_22:7la media t de Manasés había dado MoisésH7626
+- Jos_22:9y la media t de Manasés, se volvieronH7626
+- Jos_22:10la media t de Manasés edificaron allíH7626
+- Jos_22:11la media t de Manasés habían...un altarH7626
+- Jos_22:13enviaron...a la media t de Manasés enH7626
+- Jos_22:14un príncipe...de todas las t de IsraelH7626
+- Jos_22:15cuales fueron...a la media t de ManasésH7626
+- Jos_22:21y la media t de Manasés respondieron yH7626
+- Jos_23:4por suerte, en herencia para vuestras tH7626
+- Jos_24:1reunió Josué a todas las t de Israel enH7626
+- Jue_4:6la t de Neftalí y de la t de Zabulón
+- Jue_13:2había un hombre de Zora, de la t de Dan
+- Jue_17:7un joven de Belén de...de la t de Judá
+- Jue_18:1t de Dan buscaba posesión entre las tH7626
+- Jue_18:2de Dan enviaron de su t cinco hombres de
+- Jue_18:19es mejor...de una t y familia de Israel?[[H7626]]
+- Jue_18:30fueron sacerdotes en la t de Dan, hastaH7626
+- Jue_20:2y los jefes...de todas las t de IsraelH7626
+- Jue_20:10por todas las t...y ciento de cada milH7626
+- Jue_20:12t de Israel enviaron...la t de BenjamínH7626
+- Jue_21:3¿por qué...que falte hoy de Israel una t?[[H7626]]
+- Jue_21:5¿quién de...las t de Israel no subió aH7626
+- Jue_21:6dijeron: Cortada es hoy de Israel una tH7626
+- Jue_21:8¿hay alguno de las t...no haya subido aH7626
+- Jue_21:15había abierto una brecha entre las tH7626
+- Jue_21:17y no sea exterminada una t de IsraelH7626
+- Jue_21:24entonces...se fueron...cada uno a su tH7626
+- 1Sa_2:28escogí...entre todas la t de IsraelH7626
+- 1Sa_9:21de la más pequeña de las t de Israel?[[H7626]]
+- 1Sa_9:21todas las familias de la t de Benjamín?[[H7626]]
+- 1Sa_10:19presentaos delante de...por vuestras tH7626
+- 1Sa_10:20todas las t...tomada la t de BenjamínH7626
+- 1Sa_10:21e hizo llegar la t...por sus familiasH7626
+- 1Sa_15:17has sido hecho jefe de las t de IsraelH7626
+- 2Sa_5:1vinieron todas las t de Israel a DavidH7626
+- 2Sa_7:7¿he hablado...a alguna de las t de IsraelH7626
+- 2Sa_15:2tu siervo es de una de las t de IsraelH7626
+- 2Sa_15:10envió...mensajeros por todas las t deH7626
+- 2Sa_19:9el pueblo disputaba en todas las t deH7626
+- 2Sa_20:14él pasó por todas las t de Israel hastaH7626
+- 2Sa_24:2recorre...t de Israel...haz un censo delH7626
+- 1Re_7:14hijo de una viuda de la t de NeftalíH4294
+- 1Re_8:1Salomón reunió...los jefes de las t, y aH4294
+- 1Re_8:16no he escogido ciudad de todas las t deH7626
+- 1Re_11:13una t a tu hijo, por amor a David miH7626
+- 1Re_11:31yo rompo el reino...y a ti daré diez tH7626
+- 1Re_11:32y él tendrá una t por amor a David miH7626
+- 1Re_11:32yo he elegido de todas las t de IsraelH7626
+- 1Re_11:35el reino...y lo daré a ti, las diez tH7626
+- 1Re_11:36su hijo daré una t, para que mi siervoH7626
+- 1Re_12:20sin quedar t...sino sólo la t de JudáH7626
+- 1Re_12:21Roboam...reunió...y a la t de BenjamínH7626
+- 1Re_14:21ciudad que...eligió de todas las t deH7626
+- 1Re_18:31conforme al número de las t...de JacobH7626
+- 2Re_17:18y no quedó sino sólo la t de JudáH7626
+- 2Re_21:7la cual escogí de todas las t de IsraelH7626
+- 1Cr_5:18y dejad, y la media t de ManasésH7626
+- 1Cr_5:23la media t de Manasés, multiplicados enH7626
+- 1Cr_5:26transportó a...y a la media t de MananésH7626
+- 1Cr_6:60la t de Benjamín...Geba con sus ejidosH4294
+- 1Cr_6:61dieron...diez ciudades de la media t deH4294
+- 1Cr_6:62de la t de Isacar, de la t de Aser, deH4294
+- 1Cr_6:62de la t de Neftalí y de la t de ManasésH4294
+- 1Cr_6:63de la t de Rubén, de la t de Gad y de laH4294
+- 1Cr_6:63de la t de Zabulón, dieron por suerteH4294
+- 1Cr_6:65por suerte de la t de los hijos de JudáH4294
+- 1Cr_6:65de la t de...Simeón y de la t...BenjamínH4294
+- 1Cr_6:66ciudades con...ejidos de la t de EfraínH4294
+- 1Cr_6:70de la media t de Manasés, Aner con susH4294
+- 1Cr_6:71la media t de Manasés, Golán en BasánH4294
+- 1Cr_6:72de la t de ]sacar, Cedes con sus ejidosH4294
+- 1Cr_6:74de la t de Aser, Masal con sus ejidosH4294
+- 1Cr_6:76de la t dé Neftalí, Cedes en Galilea conH4294
+- 1Cr_6:77dieron de la t de Zabulón, Rimón conH4294
+- 1Cr_6:78de la t de Rubén, Beser en el desiertoH4294
+- 1Cr_6:80y de la t de Gad, Ramot de GalaadH4294
+- 1Cr_12:31la media t de Manasés, dieciocho milH4294
+- 1Cr_12:37de la media t de Manasés, 120.000 conH7626
+- 1Cr_23:14los hijos de Moisés...en la t de LevíH7626
+- 1Cr_26:32constituyó sobre...la media t de ManasésH7626
+- 1Cr_27:16sobre las t de Israel: el jefe de losH7626
+- 1Cr_27:20de la media t de Manasés, Joel hijo deH7626
+- 1Cr_27:21de la otra media t de Manasés, en Galaad
+- 1Cr_27:22fueron los jefes de las t de IsraelH7626
+- 1Cr_28:1reunió David en...los jefes de las t, loH7626
+- 1Cr_29:6los príncipes de las t de Israel, jefesH7626
+- 2Cr_5:2Salomón reunió...los príncipes de las tH4294
+- 2Cr_6:5ninguna ciudad he elegido de todas las tH7626
+- 2Cr_11:16acudieron...de todas las t de Israel losH7626
+- 2Cr_12:13escogió Jehová de todas las t de IsraelH7626
+- 2Cr_33:7la cual yo elegí sobre todas las t deH7626
+- Esd_6:17conforme al número de las t de IsraelH7625
+- Sal_74:2la que redimiste para hacerla la t de
+- Sal_78:55hizo habitar en sus...las t de IsraelH7626
+- Sal_78:67desechó...y no escogió la t de EfraínH7626
+- Sal_78:68que escogió la t de Judá, el monte deH7626
+- Sal_105:37los sacó...y no hubo en sus t enfermoH7626
+- Sal_122:4y allá subieron las t, las t de JAHH7626
+- Isa_49:6siervo para levantar las t de JacobH7626
+- Isa_63:17vuélvete por...por las t de tu heredadH7626
+- Jer_25:9tomaré a todas las t del norte, dice
+- Eze_37:19las t de Israel sus compañeros, y losH7626
+- Eze_45:8darán la tierra a la...conforme a sus tH7626
+- Eze_47:13la tierra...entre las doce t de IsraelH7626
+- Eze_47:21repartiréis, pues...según las t de IsraelH7626
+- Eze_47:22para tener heredad entre las t de IsraelH7626
+- Eze_47:23en la t en que morare el extranjeroH7626
+- Eze_48:1estos son los nombres de las t: DesdeH7626
+- Eze_48:19los que sirvan...serán de todas las tH7626
+- Eze_48:23t, desde el lado del oriente hasta elH7626
+- Eze_48:29es la tierra que repartiréis...a las tH7626
+- Eze_48:31puertas...según los nombres de las t deH7626
+- Ose_5:9las t de Israel hice conocer la verdadH7626
+- Hab_3:9los juramentos a las t fueron palabraH4294
+- Zac_9:1a Jehová deben mirar...las t de IsraelH7626
+- Mat_19:28para juzgar a las doce t de IsraelG5443
+- Mat_24:30lamentarán todas las t de la tierra, yG5443
+- Luc_2:36Ana...hija de Fanuel, de la t de AserG5443
+- Luc_22:30tronos juzgando a las doce t de IsraelG5443
+- Hec_13:21Saúl hijo...varón de la t de BenjamínG5443
+- Hec_26:7que han de alcanzar nuestras doce tG1429
+- Rom_11:1yo soy israelita...de la t de BenjamínG5443
+- Flp_3:5la t de Benjamín, hebreo de hebreosG5443
+- Heb_7:13de quien se dice esto, es de otra tG5443
+- Heb_7:14que nuestro Señor vino de la t de JudáG5443
+- Stg_1:1Santiago...a las doce t que están en laG5443
+- Rev_5:5he aquí que el León de la t de Judá, laG5443
+- Rev_7:4sellados de todas las t de los hijos deG5443
+- Rev_7:5(3),6(3),7(3),8(3)de la t de...doce mil selladosG5443
+- Rev_7:9una gran multitud...de todas naciones y t
+- Rev_11:9los pueblos, t, lenguas y naciones verán
+- Rev_13:7le dio autoridad sobre toda t, pueblo
+- Rev_14:6predicarlo a...toda...t, lengua y pueblo
+- Rev_21:12son los de las doce t de los hijos deG5443

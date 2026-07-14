@@ -1,0 +1,101 @@
+---
+tipo: concordancia
+palabra: FARISEO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FARISEO
+
+- Mat_3:7al ver él que muchos de los f...veníanG5330
+- Mat_5:20justicia no fuere mayor que la de los...fG5330
+- Mat_9:11cuando vieron esto los f, dijeron a losG5330
+- Mat_9:14¿por qué nosotros y los f ayunamosG5330
+- Mat_9:34pero los f decían: Por el príncipe deG5330
+- Mat_12:2viéndolo los f, le dijeron: He aquí tusG5330
+- Mat_12:14salidos los f, tuvieron consejo contraG5330
+- Mat_12:24los f, al oírlo, decían: Este no echaG5330
+- Mat_12:38respondieron algunos de los escribas...fG5330
+- Mat_15:1se acercaron a Jesús...escribas y f deG5330
+- Mat_15:12¿sabes que los f se ofendieron cuandoG5330
+- Mat_16:1vinieron los f...saduceos para tentarleG5330
+- Mat_16:6guardaos de la levadura de los f y deG5330
+- Mat_16:11os guardaseis de la levadura de los fG5330
+- Mat_16:12sino de la doctrina de los f y de losG5330
+- Mat_19:3entonces vinieron...los f, tentándole yG5330
+- Mat_21:45los f, entendieron que hablaba de ellosG5330
+- Mat_22:15entonces se fueron los f y consultaronG5330
+- Mat_22:34los f, oyendo que había hecho callar aG5330
+- Mat_22:41estando juntos los f, Jesús...preguntóG5330
+- Mat_23:2la cátedra de Moisés se sientan los...fG5330
+- Mat_23:13-14, Mat_23:15, Mat_23:23, Mat_23:25, Mat_23:27, Mat_23:29¡ay de vosotros, escribas y f, hipócritas![[G5330]]
+- Mat_23:26¡f ciego! Limpia primero lo de dentroG5330
+- Mat_27:41escribas y...f y los ancianos, decían
+- Mat_27:62se reunieron los...y los f ante PilatoG5330
+- Mar_2:16los f, viéndole comer con...publicanosG5330
+- Mar_2:18los discípulos de Juan y...los f ayunabanG5330
+- Mar_2:24los f le dijeron: Mira, ¿por qué hacenG5330
+- Mar_3:6salidos los f, tomaron consejo con losG5330
+- Mar_7:1se juntaron a Jesús los f, y algunos deG5330
+- Mar_7:3los f...aferrándose a la tradición de losG5330
+- Mar_7:5le preguntaron, pues, los f...¿Por qué tusG5330
+- Mar_8:11vinieron...los f y comenzaron a discutirG5330
+- Mar_8:15guardaos de la levadura de los f, y deG5330
+- Mar_10:2y se acercaron los f y le preguntaronG5330
+- Mar_12:13le enviaron algunos de los f y de losG5330
+- Luc_5:17estaban sentados los f y doctores deG5330
+- Luc_5:21y los f comenzaron a cavilar, diciendoG5330
+- Luc_5:30los f murmuraban contra los discípulosG5330
+- Luc_5:33asimismo los de los f, pero los tuyosG5330
+- Luc_6:2algunos de los f les dijeron: ¿Por quéG5330
+- Luc_7:30los f...desecharon los designios de DiosG5330
+- Luc_7:36de los f rogó a Jesús que comiese con élG5330
+- Luc_7:36entrado en casa del f, se sentó a la mesaG5330
+- Luc_7:37al saber que Jesús estaba...en casa del fG5330
+- Luc_7:39cuando vio esto el f...dijo para sí: EsteG5330
+- Luc_11:37luego...le rogó un f que comiese con élG5330
+- Luc_11:38el f, cuando lo vio, se extrañó de queG5330
+- Luc_11:39vosotros los f limpiáis lo de fuera delG5330
+- Luc_11:42mas ¡ay de vosotros, f! que diezmáis laG5330
+- Luc_11:43¡ay de vosotros, f! que amáis...sillasG5330
+- Luc_11:44¡ay de vosotros, escribas y f...que soisG5330
+- Luc_11:53los f comenzaron a estrecharle en granG5330
+- Luc_12:1guardaos de la levadura de los f, que esG5330
+- Luc_13:31día llegaron unos f, diciéndole: SalG5330
+- Luc_14:1en casa de un gobernante, que era fG5330
+- Luc_14:3entonces Jesús habló...a los f, diciendoG5330
+- Luc_15:2los f...murmuraban, diciendo: Este a losG5330
+- Luc_16:14oían también todas estas cosas los fG5330
+- Luc_17:20preguntado por los f, cuándo había deG5330
+- Luc_18:10orar: uno era f, y el otro publicanoG5330
+- Luc_18:11f, puesto en pie, oraba consigo mismoG5330
+- Luc_19:39algunos de los f...le dijeron: MaestroG5330
+- Jua_1:24los que...sido enviados eran de los fG5330
+- Jua_3:1hombre de los f que se llamaba NicodemoG5330
+- Jua_4:1el Señor entendió que los f habían oídoG5330
+- Jua_7:32los f oyeron a la gente que murmurabaG5330
+- Jua_7:32los f enviaron alguaciles para que leG5330
+- Jua_7:45los alguaciles vinieron a...y a los fG5330
+- Jua_7:47f les respondieron: ¿También vosotrosG5330
+- Jua_7:48ha creído en él alguno de...o de los f?[[G5330]]
+- Jua_8:3escribas y los f le trajeron una mujerG5330
+- Jua_8:13f le dijeron: Tú das testimonio acercaG5330
+- Jua_9:13llevaron ante los f...había sido ciegoG5330
+- Jua_9:15preguntarle...los f cómo había recibidoG5330
+- Jua_9:16algunos de los f decían: Ese hombre noG5330
+- Jua_9:40algunos de los f...al oír esto...dijeronG5330
+- Jua_11:46de ellos fueron a los f Y les dijeronG5330
+- Jua_11:47los f reunieron el concilio, y dijeronG5330
+- Jua_11:57f habían dado orden de que si algunoG5330
+- Jua_12:19f dijeron...veis que no conseguís nadaG5330
+- Jua_12:42causa de los f no lo confesaban, paraG5330
+- Jua_18:3Judas, pues, tomando...y de los f, fueG5330
+- Hec_5:34levantándose...un f llamado GamalielG5330
+- Hec_15:5pero algunos de la secta de los f, queG5330
+- Hec_23:6una parte era de saduceos y otra de fG5330
+- Hec_23:6varones hermanos, yo soy f, hijo de fG5330
+- Hec_23:7disensión entre los f y los saduceosG5330
+- Hec_23:8no hay...pero los f afirman estas cosasG5330
+- Hec_23:9la parte de los f, contendían, diciendoG5330
+- Hec_26:5conforme a...de nuestra religión, viví fG5330
+- Flp_3:5de hebreos; en cuanto a la ley, fG5330

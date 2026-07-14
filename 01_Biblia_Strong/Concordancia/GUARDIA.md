@@ -1,0 +1,81 @@
+---
+tipo: concordancia
+palabra: GUARDIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GUARDIA
+
+- Gén_37:36Potifar, oficial...capitán de la gH2876
+- Gén_39:1Potifar...capitán de la g, varón egipcioH2876
+- Gén_40:3prisión en la casa del capitán de la gH2876
+- Gén_40:4el capitán de la g encargó de ellos aH2876
+- Gén_41:10echó a la prisión...de la g a mí y alH2876
+- Gén_41:12hebreo, siervo del capitán de la gH2876
+- Núm_8:26para hacer la g, pero no servirán enH4931
+- Jue_7:19principio de la g de la medianocheH821
+- Jue_8:11atacó el...el ejército no estaba en gH983
+- 1Sa_22:17el rey a la gente de su g: MatadH7323
+- 2Sa_23:23y lo puso David como jefe de su gH4928
+- 1Re_14:27dio a los capitanes de los de la gH7323
+- 1Re_14:28rey entraba...los de la g los llevabanH7323
+- 1Re_14:28ponían en la cámara de los de la gH7323
+- 2Re_10:25Jehú dijo a los de su g...Entrad, yH7323
+- 2Re_10:25y los dejaron tendidos los de la g yH7323
+- 2Re_11:4envió Joiada y tomó...gente de la g, yH7323
+- 2Re_11:5tendrá la g de la casa del rey el díaH4931
+- 2Re_11:6otra...a la puerta del postigo de la gH7323
+- 2Re_11:7la g de la casa de Jehová junto al reyH4931
+- 2Re_11:11de la g se pusieron en fila, teniendoH7323
+- 2Re_11:19tomó a...la g y todo el pueblo de laH7323
+- 2Re_11:19por el camino de la puerta de la g aH7323
+- 2Re_25:8vino a...Nabuzaradán, capitán de la gH2876
+- 2Re_25:10el capitán de la g, derribó los murosH2876
+- 2Re_25:11los llevó cautivos...capitán de la gH2876
+- 2Re_25:12dejó Nabuzaradán, capitán de la gH2876
+- 2Re_25:15plata...lo llevó el capitán de la gH2876
+- 2Re_25:18tomó...capitán de la g al...sacerdoteH2876
+- 2Re_25:20tomó Nabuzaradán, capitán de la g, yH2876
+- 1Cr_11:25éste puso Davld en su g personalH4928
+- 1Cr_26:12alternando...en la g con sus hermanosH4931
+- 1Cr_26:16la subida, correspondiéndose g con gH4929
+- 2Cr_12:10y los entregó a los jefes de la gH7323
+- 2Cr_12:11venían los de la g y los llevaban, yH7323
+- 2Cr_12:11después...volvían a la cámara de la gH7323
+- 2Cr_23:6todo el pueblo hará g delante de JehováH4931
+- Neh_4:23yo...ni la gente de g que me seguíaH4929
+- Neh_12:25porteros para la g a las entradas deH4929
+- Est_2:21; Est_6:2eunucos...de la g de la puertaH8104
+- Sal_127:1Jehová no guardare...vano vela la gH8104
+- Jer_39:9capitán de la g los transportó aH2876
+- Jer_39:10capitán de la g hizo quedar en tierraH2876
+- Jer_39:11ordenado a...capitán de la g acerca deH2876
+- Jer_39:13envió...Nabuzaradán capitán de la g, yH2876
+- Jer_40:1después que...capitán de la g le envióH2876
+- Jer_40:2tomó...el capitán de la g a Jeremias yH2876
+- Jer_40:5le dio el capitán de la g provisionesH2876
+- Jer_41:10encargado...capitán de la g a GedallasH2876
+- Jer_43:6dejado...capitán de la g con GedallasH2876
+- Jer_51:12levantad bandera sobre...reforzad la gH4929
+- Jer_52:12vino a Jerusalén...capitán de la g, queH2876
+- Jer_52:14el ejército...con el capitán de la gH2876
+- Jer_52:15hizo transportar...capitán de la g aH2876
+- Jer_52:16dejó Nabuzaradán capitán de la g paraH2876
+- Jer_52:19lo de plata...llevó el capitán de la gH2876
+- Jer_52:24tomó...el capitán de la g a Seraias elH2876
+- Jer_52:26los tomó...Nabuzaradán capitán...gH2876
+- Jer_52:30capitán de la g llevó cautivas a 745H2876
+- Eze_40:45es de los sacerdotes que hacen la gH4931
+- Eze_40:46sacerdotes que hacen la g del altarH4931
+- Dan_2:14habló...a Arioc, capitán de la g delH2877
+- Mat_27:65tenéis una g; id, aseguradlo comoG2892
+- Mat_27:66sellando la piedra y poniendo la gG2892
+- Mat_28:11aquí unos de la g fueron a la ciudadG2892
+- Mar_6:27el rey, enviando a uno de la g, mandóG4688
+- Luc_22:4fue y habló...con los jefes de la gG4755
+- Luc_22:52dijo...a los jefes de la g del temploG4755
+- Hec_4:1vinieron...el jefe de la g del temploG4755
+- Hec_5:24cuando oyeron...jefe de la g del temploG4755
+- Hec_5:26fue el jefe de la g con los alguacilesG4755
+- Hec_12:10pasado la...y la segunda g llegaron aG5438

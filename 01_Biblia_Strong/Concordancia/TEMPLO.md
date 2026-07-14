@@ -1,0 +1,270 @@
+---
+tipo: concordancia
+palabra: TEMPLO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TEMPLO
+
+- Jue_9:4setenta siclos...del t de Baal-beritH1004
+- Jue_9:27entrando en el t...comieron y bebieronH1004
+- Jue_9:46se metieron en la fortaleza del t delH1004
+- 1Sa_1:9Elí estaba...junto a un pilar del t deH1964
+- 1Sa_3:3Samuel estaba durmiendo en...t de JehováH1964
+- 1Sa_5:5y todos los que entran en el t de DagónH1004
+- 1Sa_31:9llevaran las...nuevas al t de sus ídolosH1004
+- 1Sa_31:10pusieron sus armas en el t de AstarotH1004
+- 2Sa_22:7él oyó mi voz desde su t, y mi clamorH1964
+- 1Re_6:3el pórtico delante del t...veinte codosH1964
+- 1Re_6:5contra las paredes de...alrededor del tH1964
+- 1Re_6:17la casa, esto es, el t...tenía 40 codosH1964
+- 1Re_6:33a la puerta del t postes cuadrados deH1964
+- 1Re_7:21estas columnas erigió en el pórtico del tH1964
+- 1Re_7:50de oro los...y los de las puertas del tH1964
+- 1Re_16:32e hizo altar a Baal, en el t de BaalH1004
+- 2Re_5:18cuando...rey entrare en el t de RimónH1004
+- 2Re_5:18también me inclinare en el t de RimónH1004
+- 2Re_10:21el t de Baal, y el t de Baal se llenóH1004
+- 2Re_10:23y entró Jehú con Jonadab...el t de BaalH1004
+- 2Re_10:25y fueron hasta el lugar santo del t deH1004
+- 2Re_10:26sacaron las estatuas del t de Baal, yH1004
+- 2Re_10:27derribaron el t de Baal, y lo...letrinasH1004
+- 2Re_11:11junto al altar y el t, en derredor delH1004
+- 2Re_11:13oyendo Atalía...entró al pueblo en el tH1004
+- 2Re_11:15dijo: Sacadla fuera del recinto del t
+- 2Re_11:15que no la matasen en el t de JehováH1004
+- 2Re_11:18todo el pueblo...entró en el t de BaalH1004
+- 2Re_12:5recíbanlo...reparen los portillos del tH1004
+- 2Re_12:6aún no habían reparado...las grietas del tH1004
+- 2Re_12:7¿por qué no reparáis las grietas del t?[[H1004]]
+- 2Re_12:7sino dadlo para reparar...grietas del tH1004
+- 2Re_12:8el cargo de reparar las grietas del tH1004
+- 2Re_12:9mano derecha así que se entra en el tH1004
+- 2Re_12:10contaban el dinero que hallaban en el tH1004
+- 2Re_12:13ni ningún otro utensilio de...para el tH1004
+- 2Re_16:14entre el altar y el t de Jehová, y loH1004
+- 2Re_16:18los quitó del t de Jehová, por causaH1004
+- 2Re_17:29pusieron en los t de los lugares altosH1004
+- 2Re_17:32sacrificaban para ellos en los t de losH1004
+- 2Re_18:16quitó el oro de las puertas del t deH1964
+- 2Re_19:37mientras él adoraba en el t de NisrocH1004
+- 2Re_22:9han recogido el dinero que se...en el tH1004
+- 2Re_23:4que sacasen del t de Jehová todos losH1964
+- 2Re_23:11los caballos que...a la entrada del tH1004
+- 1Cr_9:2primeros...fueron...sirvientes del tH5411
+- 1Cr_9:33cantores...moraban en las cámaras del tH3957
+- 1Cr_10:10y pusieron sus armas en el t de susH1004
+- 1Cr_10:10y colgaron la cabeza en el t de DagónH1004
+- 1Cr_22:7mío, en mi corazón tuve el edificar tH1004
+- 1Cr_25:6para el ministerio del t de Dios. AsafH1004
+- 1Cr_26:15sus hijos la casa de provisiones del tH1004
+- 1Cr_28:11David dio a...plano del pórtico del tH1004
+- 2Cr_3:17colocó las columnas delante del tH1964
+- 2Cr_4:7candeleros de oro...cuales puso en el tH1964
+- 2Cr_4:8diez mesas y las puso en el t, cinco aH1964
+- 2Cr_4:22y de oro...las puertas de la casa del tH1964
+- 2Cr_23:10desde el rincón derecho del t hasta elH1004
+- 2Cr_23:17entró todo el pueblo en el t de BaalH1004
+- 2Cr_26:16el t de Jehová para quemar inciensoH1964
+- 2Cr_29:16sacaron toda la inmundicia...en el tH1964
+- 2Cr_32:21y entrando en el t de su dios, allí loH1004
+- 2Cr_34:10la obra...para reparar y restaurar el tH1004
+- 2Cr_36:7llevó...y los puso en su t en BabiloniaH1964
+- Esd_2:43sirvientes del t; los hijos de ZihaH5411
+- Esd_2:58todos los sirvientes del t, e hijos deH5411
+- Esd_2:70habitaron...los sirvientes del t en susH5411
+- Esd_3:6los cimientos del t...no se habían echadoH1964
+- Esd_3:10albañiles del t...echaban los cimientosH1964
+- Esd_4:1edificaban el t de Jehová Dios de IsraelH1964
+- Esd_5:14que Nábucodonosor había sacado del t queH1965
+- Esd_5:14los había llevado al t de Babilonia, elH1965
+- Esd_5:14el rey Ciro los sacó del t de BabiloniaH1965
+- Esd_5:15y llévalos al t que está en JerusalénH1965
+- Esd_6:5Nabucodonosor sacó del t que estaba enH1965
+- Esd_6:5sean devueltos y vayan a su lugar, al tH1965
+- Esd_7:7con él subieron...sirvientes del t, en elH5411
+- Esd_7:24a todos los...porteros, sirvientes del tH5412
+- Esd_8:17habían de hablar a...los sirvientes del tH5411
+- Esd_8:20de los sirvientes del t, a quienes DavidH5411
+- Esd_8:20220 sirvientes del t, todos los cualesH5411
+- Neh_3:26y los sirvientes del t que habitabanH5411
+- Neh_3:31hasta la casa de los sirvientes del t yH5411
+- Neh_6:10reunámonos en la casa de...dentro del tH1004
+- Neh_6:10y cerremos las puertas del t, porqueH1004
+- Neh_6:11entraría al t para salvarse la vida?[[H1964]]
+- Neh_7:46sirvientes del t; los hijos de Ziha, losH5411
+- Neh_7:60todos los sirvientes del t e hijos deH5411
+- Neh_7:73habitaron...los sirvientes del t y todoH5411
+- Neh_10:28los sirvientes del t, y todos los queH5411
+- Neh_11:3los sirvientes del t y los hijos de losH5411
+- Neh_11:21los sirvientes del t habitaban en OfelH5411
+- Neh_11:21autoridad sobre los sirvientes del tH5411
+- Sal_5:7adoraré hacia tu santo t en tu temorH1964
+- Sal_11:4Jehová está en su santo t; Jehová tieneH1964
+- Sal_18:6oyó mi voz desde su t, y mi clamor llegóH1964
+- Sal_27:4contemplar la...y para inquirir en su tH1964
+- Sal_28:2cuando alzo mis manos hacia tu santo tH1687
+- Sal_29:9voz de...en su t todo proclama su gloriaH1964
+- Sal_48:9nos acordamos...Dios, en medio de tu tH1964
+- Sal_65:4seremos saciados del bien...de tu santo tH1964
+- Sal_68:29razón de tu t en Jerusalén los reyesH1964
+- Sal_79:1las naciones...han profanado tu santo tH1964
+- Sal_138:2postraré hacia tu santo t, y alabaréH1964
+- Isa_6:1trono alto...y sus faldas llenaban el tH1964
+- Isa_37:38mientras adoraba en el t de Nisroc suH1004
+- Isa_44:28decir a Jerusalén...al t: Serás fundadoH1964
+- Isa_66:6voz del t, voz de Jehová que da el pagoH1964
+- Jer_7:4t de Jehová, t de Jehová, t de JehováH1964
+- Jer_24:1cestas de higos puestas delante del tH1964
+- Jer_30:18y el t será asentado según su formaH759
+- Jer_43:12pondrá fuego a los t de los dioses deH1004
+- Jer_43:13los t de los dioses de Egipto quemaráH1004
+- Jer_50:28las nuevas de...de la venganza de su tH1964
+- Jer_51:11venganza es de Jehová, y venganza...tH1964
+- Eze_8:16a la entrada del t de Jehová, entreH1964
+- Eze_8:16sus espaldas vueltas al t de Jehová yH1964
+- Eze_9:6varones ancianos...estaban delante del tH1004
+- Eze_40:45es de los...que hacen la y guardia del tH1004
+- Eze_40:48y me llevó al pórtico del t, y midióH1004
+- Eze_41:1me introdujo luego en el t y midió losH1964
+- Eze_41:4anchura de veinte codos, delante del tH1964
+- Eze_41:15t de dentro, y los portales del atrioH1964
+- Eze_41:20había querubines...toda la pared del tH1964
+- Eze_41:21poste del t era cuadrado, y el frenteH1964
+- Eze_41:23el t y el santuario tenían dos puertasH1964
+- Eze_41:25en las puertas del t había labrados deH1964
+- Eze_42:8delante de la fachada del t...cien codosH1964
+- Dan_5:2los vasos...traído del t de JerusalénH1965
+- Dan_5:3en los vasos...que habían traído del t deH1965
+- Ose_8:14Israel...edificó t, y Judá multiplicóH1964
+- Joe_3:5y mis cosas...metisteis en vuestros tH1964
+- Amó_8:3los cantores del t gemirán en aquel díaH1964
+- Jon_2:4desechado soy de...aún veré tu santo tH1964
+- Jon_2:7mi oración llegó hasta ti en tu santo tH1964
+- Miq_1:2el Señor desde su santo t, sea testigoH1964
+- Hab_2:20mas Jehová está en su santo t; calleH1964
+- Hag_2:15pongan piedra sobre piedra en el tH1964
+- Hag_2:18el día que se echó el cimiento del t deH1964
+- Zac_6:12el Renuevo...edificará el t de JehováH1964
+- Zac_6:13él edificará el t de Jehová, y...gloriaH1964
+- Zac_6:14coronas servirán...como memoria en el tH1964
+- Zac_6:15vendrán y ayudarán a edificar el t deH1964
+- Zac_8:9se echó el cimiento...para edificar el tH1964
+- Mal_3:1y vendrá súbitamente a su t el SeñorH1964
+- Mat_4:5diablo...puso sobre el pináculo del tG2411
+- Mat_12:5cómo...en el t profanan el día de reposoG2411
+- Mat_12:6digo que uno mayor que el t está aquíG2411
+- Mat_21:12y entró Jesús en el t de Dios, y echóG2411
+- Mat_21:12echó fuera...los que vendían...en el tG2411
+- Mat_21:14y vinieron a él en el t ciegos y cojosG2411
+- Mat_21:15y a los muchachos aclamando en el t yG2411
+- Mat_21:23vino al t, los principales sacerdotesG2411
+- Mat_23:16si alguno jura por el t, no es nadaG3485
+- Mat_23:16si...jura por el oro del t, es deudorG3485
+- Mat_23:17porque ¿cuál es mayor, el oro, o el tG3485
+- Mat_23:21y el que jura por el t, jura por él, yG3485
+- Mat_23:35quien matasteis entre el t y el altarG3485
+- Mat_24:1cuando Jesús salió del t, y se iba, seG2411
+- Mat_24:1Jesús...para mostrarle los edificios del tG2411
+- Mat_26:55cada día me sentaba...enseñando en el tG2411
+- Mat_26:61puedo derribar el t de Dios, y en tresG3485
+- Mat_27:5y arrojando las piezas de plata en el tG3485
+- Mat_27:40tú que derribas el t, y en tres díasG3485
+- Mat_27:51velo del t se rasgó en dos, de arribaG3485
+- Mar_11:11y entró Jesús...y en el t; y habiendoG2411
+- Mar_11:15y entrando Jesús en el t, comenzó aG2411
+- Mar_11:15a echar...a los que...compraban en el tG2411
+- Mar_11:16que nadie atravesase el t...utensilioG2411
+- Mar_11:27andando él por el t, vinieron a él losG2411
+- Mar_12:35enseñando Jesús en el t, decía: ¿CómoG2411
+- Mar_13:1saliendo Jesús del t, le dijo uno de susG2411
+- Mar_13:3y se sentó en el monte de...frente al tG2411
+- Mar_14:49estaba con vosotros enseñando en el tG2411
+- Mar_14:58yo derribaré este t hecho a mano, y enG3485
+- Mar_15:29derribas el t de Dios, y en tres díasG3485
+- Mar_15:38velo del t se rasgó en dos, de arribaG3485
+- Luc_2:27y movido por el Espíritu, vino al tG2411
+- Luc_2:27padres del niño Jesús lo trajeron al t
+- Luc_2:37viuda...no se apartaba del t, sirviendoG2411
+- Luc_2:46le hallaron en el t, sentado en medio deG2411
+- Luc_4:9y le puso sobre el pináculo del t, y leG2411
+- Luc_11:51Zacarías...murió entre el altar y el tG3624
+- Luc_18:10dos hombres subieron al t a orar: unoG2411
+- Luc_19:45entrando en el t, comenzó a echar fueraG2411
+- Luc_19:47y enseñaba cada día en el t; pero losG2411
+- Luc_20:1que enseñando Jesús al pueblo en el tG2411
+- Luc_21:5hablaban de que el t estaba adornado deG2411
+- Luc_21:37y enseñando de día en el t; y de nocheG2411
+- Luc_21:38pueblo venía a él...para oírle en el tG2411
+- Luc_22:52dijo...a los jefes de la guardia del tG2411
+- Luc_22:53estado con vosotros cada día en el tG2411
+- Luc_23:45y el velo del t se rasgó por la mitadG3485
+- Luc_24:53y estaban siempre en el t, alabando yG2411
+- Jua_2:14hallo en el t a...que vendían bueyesG2411
+- Jua_2:15echó fuera del t a todos, y las ovejasG2411
+- Jua_2:19dijo: Destruid este t, y en tres díasG3485
+- Jua_2:20en 46 años fue edificado este t, ¿y túG3485
+- Jua_2:21mas él hablaba del t de su cuerpoG3485
+- Jua_5:14le halló Jesús en el t, y le dijo: MiraG2411
+- Jua_7:14la mitad de la fiesta subió Jesús al tG2411
+- Jua_7:28entonces enseñando en el t, alzó la vozG2411
+- Jua_8:2la mañana volvió al t, y todo el puebloG2411
+- Jua_8:20palabras habló Jesús...enseñando en el tG2411
+- Jua_8:59pero Jesús se escondió y salió del tG2411
+- Jua_10:23Jesús andaba en el t por el pórtico deG2411
+- Jua_11:56estando ellos en el t, se preguntabanG2411
+- Jua_18:20he enseñado en la sinagoga y en el tG2411
+- Hec_2:46cada día en el t, y partiendo el panG2411
+- Hec_3:1Pedro y Juan subían juntos al t a la horaG2411
+- Hec_3:2la puerta del t que se llama la HermosaG2411
+- Hec_3:2pidiese limosna de...que entraban en el tG2411
+- Hec_3:3vio...y a Juan que iban a entrar en el tG2411
+- Hec_3:8en pie...entró con ellos en el t, andandoG2411
+- Hec_3:10a pedir limosna a la puerta del t, laG2411
+- Hec_4:1vinieron...con el jefe de la guardia del tG2411
+- Hec_5:20id, y puestos en pie en el t, anunciadG2411
+- Hec_5:21entraron de mañana en el t, y enseñabanG2411
+- Hec_5:24sacerdote y el jefe de la guardia del tG2411
+- Hec_5:25los varones...están en el t, y enseñan alG2411
+- Hec_5:42en el t y por las...no cesaban de enseñarG2411
+- Hec_7:48Altísimo no habita en t hechos de manoG3485
+- Hec_14:13de Júpiter, cuyo t estaba frente a la
+- Hec_17:24Dios...no habita en t hechos por manosG3485
+- Hec_19:27también que el t de la gran diosa DianaG2411
+- Hec_19:35es guardiana del t de la...diosa Diana
+- Hec_21:26Pablo...entró en el t, para anunciar elG2411
+- Hec_21:27al verle en el t, alborotaron a toda laG2411
+- Hec_21:28además de...ha metido a griegos en el tG2411
+- Hec_21:29pensaban...Pablo había metido en el tG2411
+- Hec_21:30arrastraron fuera del t...cerraron lasG2411
+- Hec_22:17orando en el t me sobrevino un éxtasisG2411
+- Hec_24:6también profanar el t; y prendiéndoleG2411
+- Hec_24:12ni amotinando a...ni en el t, ni en lasG2411
+- Hec_24:18me hallaron purificado en el t, no conG2411
+- Hec_25:8ni contra...t, ni contra César he pecadoG2411
+- Hec_26:21prendiéndome en...t, intentaron matarmeG2411
+- 1Co_3:16¿no sabéis que sois t de Dios, y queG3485
+- 1Co_3:17si alguno destruyere el t de Dios, DiosG3485
+- 1Co_3:17porque el t de Dios, el cual sois...santoG3485
+- 1Co_6:19vuestro cuerpo es t del Espíritu SantoG3485
+- 1Co_9:13comen del t y que los que sirven alG3485
+- 2Co_6:16qué acuerdo hay entre el t de DiosG3485
+- 2Co_6:16vosotros sois el t del Dios vivienteG3485
+- Efe_2:21va creciendo para ser un t santo enG3485
+- 2Ts_2:4se sienta en el t de Dios como DiosG3485
+- Rev_3:12lo haré columna en el t de mi DiosG3485
+- Rev_7:15y le sirven día y noche en su t; y elG3485
+- Rev_11:1mide el t de Dios, y el altar, y a losG3485
+- Rev_11:2el patio que está fuera del t déjaloG3485
+- Rev_11:19y el t de Dios fue abierto en el cieloG3485
+- Rev_11:19y el arca de su pacto se veía en el tG3485
+- Rev_14:15del t salió otro ángel, clamando a granG3485
+- Rev_14:17salió otro ángel del t que está en elG3485
+- Rev_15:5fue abierto...el t del tabernáculo delG3485
+- Rev_15:6y del t salieron los siete ángeles queG3485
+- Rev_15:8el t se llenó de humo por la gloria deG3485
+- Rev_15:8y nadie podía entrar en el t hasta queG3485
+- Rev_16:1oí una gran voz que decía desde el t aG3485
+- Rev_16:17y salió una gran voz del t del cieloG3485
+- Rev_21:22y no vi en ella t...el Señor...es el tG3485

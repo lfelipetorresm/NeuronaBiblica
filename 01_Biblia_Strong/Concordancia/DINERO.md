@@ -1,0 +1,133 @@
+---
+tipo: concordancia
+palabra: DINERO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DINERO
+
+- Gén_17:12comprado por d a cualquier extranjeroH3701
+- Gén_17:13el nacido en tu...y el comprado por tu dH3701
+- Gén_17:23a todos los comprados por su d, a todoH3701
+- Gén_17:27casa y el comprado del extranjero por dH3701
+- Gén_23:16y pesó Abraham a Efrón el d que dijoH3701
+- Gén_42:25devolviesen el d de cada uno de ellosH3701
+- Gén_42:27su d que estaba en la boca de su costalH3701
+- Gén_42:28mi d se me ha devuelto, y helo aquí enH3701
+- Gén_42:35el atado de su d; y viendo ellos...su dH3701
+- Gén_43:12doble cantidad de d, y...el d vuelto enH3701
+- Gén_43:15tomaron en su mano doble cantidad de dH3701
+- Gén_43:18por el d que fue devuelto en nuestrosH3701
+- Gén_43:21el d...estaba en la boca de su costalH3701
+- Gén_43:21nuestro d en su justo peso; y lo hemosH3701
+- Gén_43:22en nuestras manos otro d para comprarH3701
+- Gén_43:22puesto nuestro d en nuestros costalesH3701
+- Gén_43:23os dio el tesoro...yo recibí vuestro dH3701
+- Gén_44:1y pon el d de cada uno en la boca de suH3701
+- Gén_44:2pondrás mi copa...con el d de su trigoH3701
+- Gén_44:8el d que hallamos en...costales, te loH3701
+- Gén_47:14recogió José todo el d que había enH3701
+- Gén_47:14y metió José el d en casa de FaraónH3701
+- Gén_47:15acabado el d...vino todo Egipto a JoséH3701
+- Gén_47:15moriremos...por haberse acabado el dH3701
+- Gén_47:16vuestros ganados, si se ha acabado el dH3701
+- Gén_47:18el d...se ha acabado...nada ha quedadoH3701
+- Éxo_12:44todo siervo...comprado por d comerá deH3701
+- Éxo_21:11y si ninguna...saldrá de gracia, sin dH3701
+- Éxo_21:35venderá el buey vivo y partirán el dH3701
+- Éxo_22:25cuando prestares d a uno de mi puebloH3701
+- Éxo_30:16y tomarás de...el d de las expiacionesH3701
+- Lev_22:11cuando...comprare algún esclavo por dH3701
+- Lev_25:37no le darás tu d a usura ni...víveresH3701
+- Lev_25:51rescate, del d por el cual se vendióH3701
+- Lev_27:18haré la cuenta del d conforme a los añosH3701
+- Núm_3:48darás a Aarón...d del rescate de losH3701
+- Núm_3:49tomó, pues, Moisés el d del rescate deH3701
+- Núm_3:50recibió...de Israel, en d, 1:365 siclosH3701
+- Núm_3:51Moisés dio el d a Aarón y a sus hijosH3701
+- Deu_2:6compraréis de ellos por d los alimentosH3701
+- Deu_2:28la comida me venderás por d, y comeréH3701
+- Deu_2:28agua también me darás por d, y beberéH3701
+- Deu_14:25guardarás el d en tu mano, y vendrásH3701
+- Deu_14:26y darás el d por todo lo que deseasH3701
+- Deu_21:14no la venderás por d, ni la tirarásH3701
+- Deu_23:19no exigirás...interés de d, ni interésH3701
+- Jos_7:21escondido bajo tierra...y el d delH3701
+- Jos_7:22escondido en su tienda, y el d debajoH3701
+- Jos_7:24tomaron a Acán hijo de...el d, el mantoH3701
+- Jos_24:32Jacob compró de...por cien piezas de dH7192
+- Jue_5:19mas no llevaron ganancia alguna de dH3701
+- Jue_16:18vinieron a...trayendo en su mano el dH3701
+- Jue_17:2aquí el d está en mi poder, yo lo toméH3701
+- Jue_17:3he dedicado el d a Jehová por mi hijoH3701
+- Jue_17:4él devolvió el d a su madre, y tomó suH3701
+- 1Re_21:2dame tu viña...pagaré su valor en dH3701
+- 1Re_21:6dije que me diera su viña por d, o queH3701
+- 1Re_21:15la viña...que no te la quise dar por dH3701
+- 2Re_12:4el d consagrado que se suele traer aH3701
+- 2Re_12:4el d del rescate...el d que cada una, deH3701
+- 2Re_12:7no toméis...el d de vuestros familiaresH3701
+- 2Re_12:8en no tomar más d del pueblo, ni tenerH3701
+- 2Re_12:9ponían allí todo el d que se traía a laH3701
+- 2Re_12:10cuando veían que había mucho d en elH3701
+- 2Re_12:10venía...y contaban el d que hallaban enH3701
+- 2Re_12:11daban el d...a los que hacían la obraH3701
+- 2Re_12:13de aquel d que se traía a la casa deH3701
+- 2Re_12:15en cuyas manos el d era entregado paraH3701
+- 2Re_12:16el d por el pecado, y el d por la culpaH3701
+- 2Re_15:20e impuso Manahem este d sobre IsraelH3701
+- 2Re_22:4y dile que recoja el d que han traídoH3701
+- 2Re_22:7no se les tome cuenta del d cuyo manejoH3701
+- 2Re_22:9siervos han recogido el d que se hallóH3701
+- 2Re_23:35hizo avaluar...para dar el d...a FaraónH3701
+- 2Cr_24:5recoged d de todo Israel, para queH3701
+- 2Cr_24:11cuando veían que había mucho d, veníaH3701
+- 2Cr_24:11lo hacían de día en...y recogían mucho dH3701
+- 2Cr_24:14trajeron al rey...lo que quedaba del dH3701
+- 2Cr_34:9dieron el d que había sido traído a laH3701
+- 2Cr_34:14al sacar el d que había sido traído aH3701
+- 2Cr_34:17reunido el d que se halló en la casa deH3701
+- Esd_3:7dieron d a los albañiles y carpinterosH3701
+- Esd_7:17comprarás, pues...con este d becerrosH3702
+- Neh_5:4tomado prestado d para el tributo delH3701
+- Neh_5:10también...les hemos prestado d y granoH3701
+- Neh_5:11les devolváis...la centésima parte del dH3701
+- Neh_13:2sino que dieron d a Baalam para que losH7936
+- Job_31:39si comí su sustancia sin d, o afligíH7936
+- Job_42:11cada uno de ellos le dio una pieza de dH7192
+- Sal_15:5quien su d no dio a usura, ni contraH3701
+- Pro_7:20la bolsa de d llevó en su mano, el díaH3701
+- Ecl_5:10el que ama el d, no se saciará de dH3701
+- Ecl_7:12escudo es la ciencia, y escudo es el dH3701
+- Ecl_10:19el vino alegra...y el d sirve para todoH3701
+- Isa_43:24no compraste...caña aromática por dH3701
+- Isa_52:3dice...por tanto, sin d seréis rescatadosH3701
+- Isa_55:1y los que no tienen d...comprad sin dH3701
+- Isa_55:2¿por qué gastáis el d en lo que no esH3701
+- Jer_32:9pesé el d; diecisiete siclos de plataH3701
+- Jer_32:10hice certificar...pesé el d en balanzaH3701
+- Jer_32:25has dicho: Cómprate la heredad por dH3701
+- Jer_32:44heredades comprarán por d, y haránH3701
+- Lam_5:4nuestra agua bebemos por d: compramosH3701
+- Amó_2:6porque vendieron por d al justo, y alH3701
+- Amó_8:6para comprar los pobres por d, y losH3701
+- Miq_3:11sacerdotes...profetas adivinan por dH3701
+- Sof_1:11destruidos...todos los que traían dH3701
+- Mat_25:18cavó en...y escondió el d de su señorG694
+- Mat_25:27haber dado mi d a los banqueros, y alG694
+- Mat_28:12consejo dieron mucho d a los soldadosG694
+- Mat_28:15ellos, tomando el d, hicieron como seG694
+- Mar_6:8no llevasen...ni pan, ni d en el cintoG5475
+- Mar_12:41cómo el pueblo echaba d en el arca; yG5475
+- Mar_14:11ellos, al oírlo...prometieron darle dG694
+- Luc_9:3no toméis...d; ni llevéis dos túnicasG694
+- Luc_19:15siervos a los cuales había dado el dG694
+- Luc_19:23me pusiste mi d en el banco, para queG694
+- Luc_22:2se alegraron, y convinieron en darle dG694
+- Hec_7:16que a precio de d compró Abraham deG694
+- Hec_8:18cuando vio Simón que por...les ofreció dG5536
+- Hec_8:20Pedro le dijo: Tu d perezca contigoG694
+- Hec_8:20que el don de Dios se obtiene con dG5536
+- Hec_24:26esperaba...que Pablo le diera d paraG694
+- 1Ti_6:10de todos los males es el amor al dG5365

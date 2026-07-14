@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_Sermones_Generados/A/Alcohol/05_Cerrando_Las_Valvulas_De_Escape.md",
+                "file": "06_Sermones_Generados/R/Restauracion/El_Peligro_de_la_Restauracion_Precipitada.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Cerrando_Las_Valvulas_De_Escape"
+              "title": "El_Peligro_de_la_Restauracion_Precipitada"
             }
           }
         ]
@@ -182,11 +182,32 @@
   },
   "active": "49f41b976eb11572",
   "lastOpenFiles": [
+    "01_Biblia_Strong/Diccionario/Hebreo/H11.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H10.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H9.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H8.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H7.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H6.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H5.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H4.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H3.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H2.md",
+    "01_Biblia_Strong/Diccionario/Hebreo/H1.md",
+    "01_Biblia_Strong/Diccionario/Hebreo",
+    "01_Biblia_Strong/Diccionario/Griego",
+    "01_Biblia_Strong/Diccionario",
+    "scripts/etl_strong.py",
+    "scripts/test_rtf.py",
+    "06_Sermones_Generados/B/Bautismo/Estudio_Bautismo_SOT3.md",
+    "06_Sermones_Generados/A/Alcohol/05_Cerrando_Las_Valvulas_De_Escape.md",
+    "scripts/link_lessons_final.py",
+    "scripts/link_lessons.py",
+    "scripts/etl_alvarenga.py",
+    "05_Materiales/Alvarenga_Instrumentos_Adoracion.md",
     "06_Sermones_Generados/A/Alcohol/04_No_Dados_A_Mucho_Vino.md",
     "06_Sermones_Generados/A/Alcohol/03_El_Argumento_Logico_Y_La_Ruina_Moral.md",
     "06_Sermones_Generados/A/Alcohol/02_La_Gradacion_Del_Pecado_Y_La_Sobriedad.md",
     "06_Sermones_Generados/A/Alcohol/01_El_Mito_Del_Vino_Biblico.md",
-    "06_Sermones_Generados/A/Alcohol/05_Cerrando_Las_Valvulas_De_Escape.md",
     "06_Sermones_Generados/C/Corazon/La_Dureza_Del_Corazon_Parte_1.md",
     "07_Doctrinas/La_Iglesia_Del_Nuevo_Testamento/Leccion_02_La_familia_de_Dios.md",
     "06_Sermones_Generados/A/Alcohol",
@@ -195,28 +216,7 @@
     "06_Sermones_Generados/C/Cena_del_Senor/Estudio_Elementos_Cena_Santo.md",
     "06_Sermones_Generados/C/Corazon/La_Dureza_Del_Corazon_Parte_2.md",
     "06_Sermones_Generados/R/Restauracion/El_Peligro_de_la_Restauracion_Precipitada.md",
-    "06_Sermones_Generados/R/Restauracion",
-    "06_Sermones_Generados/R",
     "06_Sermones_Generados/M/Matrimonio/Estudio_Gen2_24_Matrimonio_A_Distancia.md",
-    "06_Sermones_Generados/C/Corazon",
-    "06_Sermones_Generados/S/Sermon_De_Los_Anos_A_Los_Dias.md",
-    "00_Indices/00_Plan_Indexacion_Maestra.md",
-    "99_Plantillas/Perfiles_Agenticos/Agente_02_Exegeta.md",
-    "06_Sermones_Generados/S",
-    "06_Sermones_Generados/Sermon_De_Los_Anos_A_Los_Dias.md",
-    "Sermon_De_Los_Anos_A_Los_Dias.md",
-    "06_Sermones_Generados/M/Matrimonio/Estudio_Mateo_19_Divorcio.md",
-    "06_Sermones_Generados/I/Inspiracion_Biblica/Estudio_2_Timoteo_3_16.md",
-    "99_Plantillas/Perfiles_Agenticos/Agente_10_Pastor.md",
-    "06_Sermones_Generados/M/Matrimonio/Estudio_Gen2_24_Dejara_Autoridad.md",
-    "02_Exegesis/Exegesis_Genesis_2_24.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_27.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_26.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_25.md",
-    "02_Exegesis/Comentario_Levitico/Comentario_Levitico_Cap_19.md",
-    "06_Sermones_Generados/B/Bautismo",
-    "06_Sermones_Generados/B",
-    "06_Sermones_Generados/M/Matrimonio",
-    "06_Sermones_Generados/M"
+    "06_Sermones_Generados/S/Sermon_De_Los_Anos_A_Los_Dias.md"
   ]
 }

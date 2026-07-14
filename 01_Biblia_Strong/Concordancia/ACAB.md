@@ -1,0 +1,99 @@
+---
+tipo: concordancia
+palabra: ACAB
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ACAB
+
+- 1 Rey de Israel
+- 1Re_16:28Omri...reinó en lugar suyo A su hijoH256
+- 1Re_16:29comenzó a reinar A hijo de Omri sobreH256
+- 1Re_16:30reinó A hijo de Omri...A...hizo lo maloH256
+- 1Re_16:33hizo también A una imagen de AseraH256
+- 1Re_16:33haciendo así...A más que todos los reyesH256
+- 1Re_17:1dijo a A: Vive Jehová Dios de Israel, enH256
+- 1Re_18:1muéstrate a A, y yo haré llover sobre laH256
+- 1Re_18:2fue, pues, Elías a mostrarse a AH256
+- 1Re_18:3A llamó a Abdías su mayordomo. AbdíasH256
+- 1Re_18:5dijo, pues, A a Abdías: Vé por el paísH256
+- 1Re_18:6A fue por un camino, y Abdías...por otroH256
+- 1Re_18:9que entregues a tu siervo en mano de AH256
+- 1Re_18:12y al venir yo y dar las nuevas a A, alH256
+- 1Re_18:16Abdías fue a...A...A vino a...con ElíasH256
+- 1Re_18:17cuando A vio a Elías, le dijo: ¿Eres túH256
+- 1Re_18:20A convocó a todos los hijos de IsraelH256
+- 1Re_18:41entonces Elías dijo a A: Sube, come yH256
+- 1Re_18:42A subió a comer y a beber. Y ElíasH256
+- 1Re_18:44dí a A: Unce tu carro y desciende, paraH256
+- 1Re_18:45lluvia. Y subiendo A, vino a JezreelH256
+- 1Re_18:46y corrió delante de A hasta llegar aH256
+- 1Re_19:1A dio a Jezabel la nueva de todo lo queH256
+- 1Re_20:2envió mensajeros a la ciudad a A reyH256
+- 1Re_20:13un profeta vino a A rey de Israel, yH256
+- 1Re_20:14y respondió A: ¿Por mano de quién?[[H256]]
+- 1Re_20:14dijo A: ¿Quién comenzará la batalla?[[H256]]
+- 1Re_20:33Ben-adad entonces se presentó a A, yH256
+- 1Re_20:34yo, dijo A, te dejaré partir con esteH256
+- 1Re_21:1una viña junto al palacio de A rey deH256
+- 1Re_21:2A habló a Nabot...Dame tu viña para unH256
+- 1Re_21:3Nabot respondió a A: Guárdeme Jehová deH256
+- 1Re_21:4y vino A a su casa triste y enojado, porH256
+- 1Re_21:8ella escribió cartas en nombre de A, yH256
+- 1Re_21:15dijo a A: Levántate y toma la viña deH256
+- 1Re_21:16y oyendo A que Nabot era muerto, seH256
+- 1Re_21:18desciende a encontrarte con A rey deH256
+- 1Re_21:20y A dijo a Elías: ¿Me has halladoH256
+- 1Re_21:21hasta el último varón de la casa de AH256
+- 1Re_21:24el que de A fuere muerto en la ciudadH256
+- 1Re_21:25a la verdad ninguno fue como A, que seH256
+- 1Re_21:27cuando A oyó estas palabras, rasgó susH256
+- 1Re_21:29¿no has visto cómo A se ha humilladoH256
+- 1Re_22:20¿quién inducirá a A, para que suba yH256
+- 1Re_22:39los hechos de A, y todo lo que hizoH256
+- 1Re_22:40durmió A con su padres, y reinó en suH256
+- 1Re_22:41comenzó...en el cuarto año de A rey deH256
+- 1Re_22:49Ocozías hijo de A dijo a Josafat: VayanH256
+- 1Re_22:51Ocozías hijo de A comenzó a reinarH256
+- 2Re_1:1después de la muerte de A, se rebelóH256
+- 2Re_3:1hijo de A comenzó a reinar en SamariaH256
+- 2Re_3:5pero muerto A, el rey de Moab se rebelóH256
+- 2Re_8:16en el quinto año de Joram hijo de A, reyH256
+- 2Re_8:18y anduvo en el...como hizo la casa de AH256
+- 2Re_8:18una hija de A fue su mujer; e hizo loH256
+- 2Re_8:25en el año doce de Joram hijo de A, reyH256
+- 2Re_8:27anduvo en el camino de la casa de AH256
+- 2Re_8:27e hizo lo malo ante...como la casa de AH256
+- 2Re_8:27malo...porque era yerno de la casa de AH256
+- 2Re_8:28y fue a la guerra con Joram hijo de A aH256
+- 2Re_8:29descendió...a visitar a Joram hijo de AH256
+- 2Re_9:7herirás la casa de A tu señor, para queH256
+- 2Re_9:8perecerá...la casa de A, y destruiré de AH256
+- 2Re_9:9casa de A como la casa de Jeroboam hijoH256
+- 2Re_9:25cuando tú y yo íbamos con la gente de AH256
+- 2Re_9:29en el undécimo año de Joram hijo de AH256
+- 2Re_10:1tenía A en Samaria setenta hijos; y JehúH256
+- 2Re_10:1Jehú escribió cartas...a los ayos de AH256
+- 2Re_10:10que Jehová habló sobre la casa de AH256
+- 2Re_10:11mató entonces Jehú a...de la casa de AH256
+- 2Re_10:17a todos los que habían quedado de A enH256
+- 2Re_10:18dijo: A sirvió poco a Baal, mas JehúH256
+- 2Re_10:30hiciste a la casa de A conforme a todoH256
+- 2Re_21:3e hizo una imagen...como había hecho AH256
+- 2Re_21:13extenderé...la plomada de la casa de AH256
+- 2Cr_18:1Josafat...contrajo parentesco con AH256
+- 2Cr_18:2para visitar a A...A mató muchas ovejasH256
+- 2Cr_18:3dijo A rey de Israel a Josafat rey deH256
+- 2Cr_18:19¿quién inducirá a A rey de Israel paraH256
+- 2Cr_21:6y anduvo en el...como hizo la casa de AH256
+- 2Cr_21:6porque tenía por mujer a la hija de AH256
+- 2Cr_21:13fornicase...como fornicó la casa de AH256
+- 2Cr_22:3anduvo en los caminos de la casa de AH256
+- 2Cr_22:4hizo, pues, lo malo...como la casa de AH256
+- 2Cr_22:5fue a la guerra con Joram hijo de A, reyH256
+- 2Cr_22:6visitar a Joram hijo de A en JezreelH256
+- 2Cr_22:7para que exterminara la familia de AH256
+- 2Cr_22:8haciendo juicio...contra la casa de AH256
+- Miq_6:16toda obra de la casa de A; y en losH256
+- 2 Falso profeta, Jer_29:21-22H256

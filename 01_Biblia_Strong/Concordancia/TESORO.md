@@ -1,0 +1,118 @@
+---
+tipo: concordancia
+palabra: TESORO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TESORO
+
+- Gén_43:23Dios...dio el t en vuestros costalesH4301
+- Éxo_19:5seréis mi especial t sobre todos los
+- Deu_28:12te abrirá Jehová su buen t, el cieloH214
+- Deu_32:34¿no tengo yo esto guardado...en mis t?[[H214]]
+- Deu_33:19mares, y los t escondidos de la arenaH8226
+- Jos_6:19la plata...entren en el t de JehováH214
+- Jos_6:24pusieron en el t...la plata y el oro, yH214
+- 1Re_14:26tomó los t de la casa de Jehová, yH214
+- 1Re_14:26y los t de la casa real, y lo saqueóH214
+- 1Re_15:18el oro que había quedado en los t de laH214
+- 1Re_15:18y los t de la casa real, los entregó aH214
+- 2Re_12:18los t de la casa...lo envió a HazadH214
+- 2Re_14:14hallados...en los t de la casa del reyH214
+- 2Re_16:8que se halló...en los t de la casa realH214
+- 2Re_18:15toda la plata...en los t de la casa realH214
+- 2Re_20:13Ezequías les...mostró...la casa de sus tH5238
+- 2Re_20:13sus armas, y todo lo que había en sus tH214
+- 2Re_20:15vieron...nada quedó en mis t que no lesH214
+- 2Re_24:13sacó...todos los t de la casa de JehováH214
+- 2Re_24:13sacó...los t de la casa real, y rompióH214
+- 1Cr_9:26tenían a su cargo...los t de la casaH214
+- 1Cr_26:20Ahías tenía cargo de los t de la casaH214
+- 1Cr_26:20y de los t de las cosas santificadasH214
+- 1Cr_26:22tuvieron cargo de los t de la casa deH214
+- 1Cr_26:24Sebuel hijo de...era jefe sobre los tH214
+- 1Cr_26:26su cargo todos los t de todas las cosasH214
+- 1Cr_27:25Azmavet...tenía a su cargo los t del reyH214
+- 1Cr_27:25y Jonatán hijo de...los t de los camposH214
+- 1Cr_29:3guardo en mi t particular oro y plata
+- 1Cr_29:8piedras preciosas las dio para el t deH214
+- 2Cr_5:1y puso la plata...en los t de la casaH214
+- 2Cr_8:15mandamiento del rey, en cuanto a...los tH214
+- 2Cr_12:9tomó los t de la casa de Jehová, y losH214
+- 2Cr_12:9los t de la casa del rey; todo lo llevóH214
+- 2Cr_16:2sacó Asa...el oro de los t de la casa deH214
+- 2Cr_25:24tomó todo...y los t de la casa del reyH214
+- 2Cr_32:27y adquirió t de plata y oro, piedrasH214
+- 2Cr_36:18los t de la casa de Jehová, y los t deH214
+- Esd_5:17búsquese en la casa de los t del reyH1596
+- Esd_6:1de los archivos, donde guardaban los tH1596
+- Esd_6:4que el gasto sea pagado por el t del rey
+- Esd_7:20dar, lo darás de la casa de los t del reyH1596
+- Neh_7:70gobernador dio para el t mil dracmasH214
+- Neh_7:71dieron para el t de la obra veinte milH214
+- Neh_10:38diezmo...a las cámaras de la casa del tH214
+- Neh_10:39a,las cámaras del t han de llevar los
+- Neh_12:44varones sobre las cámaras de los t, deH214
+- Est_3:9para que sean traídos a los t del reyH1595
+- Est_4:7la plata...que pesaría para los t del reyH1595
+- Job_3:21la muerte...aunque la buscan más que tH4301
+- Job_20:26tinieblas están reservadas para sus t
+- Job_38:22¿has entrado tú en los t de la nieve, oH214
+- Job_38:22la nieve, o has visto los t del granizoH214
+- Sal_17:14y cuyo vientre está lleno de tu tH6840
+- Pro_2:4buscares, y la escudriñares como a tH4301
+- Pro_8:21los que me aman...y que yo llene sus tH214
+- Pro_10:2los t de maldad no serán de provechoH214
+- Pro_15:16poco...que el gran t donde hay turbaciónH214
+- Pro_21:6amontonar t con lengua mentirosa esH214
+- Pro_21:20t...y aceite hay en la casa del sabioH214
+- Ecl_2:8me amontoné...t preciados de reyes y de
+- Isa_2:7llena de plata y oro...t no tienen finH214
+- Isa_10:13quité los territorios...y saqueé sus tH6259
+- Isa_30:6llevan...sus t sobre jorobas de camellosH214
+- Isa_33:6reinarán...el temor de Jehová será su tH214
+- Isa_39:2les mostró la casa de su t, plata y oroH2896
+- Isa_39:2todo lo que se hallaba en sus t: no huboH214
+- Isa_39:4cosa...en mis t que no les haya mostradoH214
+- Isa_45:3te daré los t escondidos, y los secretosH214
+- Jer_15:13y tus t entregaré a la rapiña sinH214
+- Jer_17:3todos tus t entregaré al pillaje por elH214
+- Jer_20:5daré todos los t de los reyes de Judá enH214
+- Jer_41:8porque tenemos en el campo t de trigosH4301
+- Jer_48:7confiaste en tus bienes y en tus t, túH214
+- Jer_49:4oh hija contumaz, la que confía en sus tH214
+- Jer_50:25abrió Jehová su t, y sacó...de su furorH214
+- Jer_50:37espada contra sus t, y serán saqueadosH214
+- Jer_51:13que moras entre muchas aguas, rica en tH214
+- Eze_28:4y has adquirido oro y plata en tus tH214
+- Dan_1:2utensilios en la casa del t de su diosH214
+- Dan_11:43se apoderará de los t de oro y plataH4362
+- Ose_13:15saqueará el t de todas sus...alhajasH214
+- Abd_1:6Esaú! Sus t escondidos fueron buscados
+- Miq_6:10aún en casa del impío t de impiedadH214
+- Zac_11:13dijo Jehová: Echalo al t; ¡hermoso
+- Zac_11:13y las eché en la casa de Jehová al t
+- Mal_3:17y serán para mí especial t, ha dicho
+- Mat_2:11abriendo...t, le ofrecieron presentesG2344
+- Mat_6:19no os hagáis t en la tierra, donde laG2344
+- Mat_6:20sino haceos t en el cielo, donde ni laG2344
+- Mat_6:21vuestro t, allí estará...vuestro corazónG2344
+- Mat_12:35el hombre bueno, del buen t del corazónG2344
+- Mat_12:35y el...malo, del mal t saca malas cosasG2344
+- Mat_13:44el reino...es semejante a un t escondidoG2344
+- Mat_13:52que saca de su t cosas nuevas...viejasG2344
+- Mat_19:21a los pobres, y tendrás t en el cieloG2344
+- Mat_27:6dijeron: No es lícito echarlas en el tG2878
+- Mar_10:21los pobres, y tendrás t en el cieloG2344
+- Luc_6:45del buen t de su corazón saca lo buenoG2344
+- Luc_6:45del mal t de su corazón saca lo maloG2344
+- Luc_12:21así es el que hace para sí t, y no esG2343
+- Luc_12:33t en los cielos que no se agote, dondeG2344
+- Luc_12:34vuestro t, allí estará...vuestro corazónG2344
+- Luc_18:22tendrás t en el cielo; y ven, síguemeG2344
+- Hec_8:27el cual estaba sobre todos sus t, yG1047
+- 2Co_4:7pero tenemos este t en vasos de barroG2344
+- Col_2:3en quien están escondidos todos los tG2344
+- Heb_11:26el vituperio de Cristo que los t deG2344
+- Stg_5:3acumulado t para los días postrerosG2343

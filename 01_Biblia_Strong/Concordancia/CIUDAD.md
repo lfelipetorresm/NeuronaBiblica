@@ -1,0 +1,1252 @@
+---
+tipo: concordancia
+palabra: CIUDAD
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CIUDAD
+
+- Gén_4:17edificó una c, y llamó...la c...EnocH5892
+- Gén_10:12y Resén...y Cala, la cual es c grandeH5892
+- Gén_11:4edifiquémonos una c y una torre, cuyaH5892
+- Gén_11:8los esparció...dejaron de edificar la cH5892
+- Gén_13:12Lot habitó en las c de la llanura, yH5892
+- Gén_18:24quizá haya 50 justos dentro de la cH5892
+- Gén_18:26si hallare 50 justos dentro de la cH5892
+- Gén_18:28¿destruirás por aquellos cinco...la c?[[H5892]]
+- Gén_19:4rodearon la casa los hombres de la cH5892
+- Gén_19:12y todo lo que tienes en la c, sácaloH5892
+- Gén_19:14les dijo...Jehová va a destruir esta cH5892
+- Gén_19:15que no perezcas en el castigo de la cH5892
+- Gén_19:16lo sacaron y lo pusieron fuera de la cH5892
+- Gén_19:20ahora esta c está cerca para huir alláH5892
+- Gén_19:21no destruiré la c de que has habladoH5892
+- Gén_19:22fue llamado el nombre de la c, ZoarH5892
+- Gén_19:25y destruyó las c...los moradores de...cH5892
+- Gén_19:29así, cuando destruyó Dios las c de laH5892
+- Gén_19:29y envió fuera a Lot...al asolar las cH5892
+- Gén_23:10, Gén_23:18que entraban por la puerta de su cH5892
+- Gén_24:10llegó a Mesopotamia, a la c de NacorH5892
+- Gén_24:11arrodillar los camellos fuera de la cH5892
+- Gén_24:13y las hijas...de esta c salen por aguaH5892
+- Gén_26:33nombre de aquella c es Beerseba hastaH5892
+- Gén_28:19Luz era el nombre de la c primeroH5892
+- Gén_33:18llegó sano y salvo a la c de SiquemH5892
+- Gén_33:18Jacob llegó...y acampó delante de la cH5892
+- Gén_34:20Hamor y...vinieron a la puerta de su cH5892
+- Gén_34:20Hamor...hablaron a los varones de su cH5892
+- Gén_34:24los que salían por la puerta de la cH5892
+- Gén_34:24a cuantos salían por la puerta de su cH5892
+- Gén_34:25vinieron contra la c que...desprevenidaH5892
+- Gén_34:27y saquearon la c, por cuanto habíanH5892
+- Gén_34:28tomaron...lo que había en la c y en elH5892
+- Gén_35:5el terror de Dios estuvo sobre las c queH5892
+- Gén_35:27vino Jacob a Isaa c su...a la c de ArbaH7151
+- Gén_36:32Bela...y el nombre de su c fue DinabaH5892
+- Gén_36:35Hadad hijo...el nombre de su c fue AvitH5892
+- Gén_36:39Hadar hijo...el nombre de su c fue PauH5892
+- Gén_41:35el trigo...para mantenimiento de las cH5892
+- Gén_41:48guardó alimento en las c...en cada cH5892
+- Gén_44:4ellos salido de la c, de la que aún no seH5892
+- Gén_44:13cargó cada uno su...y volvieron a la cH5892
+- Gén_47:21al pueblo lo hizo pasar a las c, desdeH5892
+- Éxo_1:11edificaron para Faraón las c de...PitónH5892
+- Éxo_9:29salga yo de la c, extenderé mis manosH5892
+- Éxo_9:33salido...fuera de la c, extendió sus manosH5892
+- Lev_14:40y las echarán fuera de la c en lugarH5892
+- Lev_14:41derramarán fuera de la c...el barro queH5892
+- Lev_14:45y sacarán todo fuera de la c a lugarH5892
+- Lev_14:53soltará la avecilla viva fuera de la cH5892
+- Lev_25:29que vendiere casa de...en c amuralladaH5892
+- Lev_25:30casa que estuviere en la c amuralladaH5892
+- Lev_25:32cuanto a las c de los levitas, éstosH5892
+- Lev_25:32podrán rescatar...las c de su posesiónH5892
+- Lev_25:33saldrá de la casa vendida, o de la c deH5892
+- Lev_25:33las casas de las c de los levitas sonH5892
+- Lev_25:34mas la tierra del ejido de sus c no seH5892
+- Lev_26:25y si buscareis refugio en vuestras cH5892
+- Lev_26:31haré desiertas vuestras c, y asolaréH5892
+- Lev_26:33vuestra tierra...y desiertas vuestras cH5892
+- Núm_13:19y cómo son las c habitadas, si sonH5892
+- Núm_13:28las c muy grandes y fortificadas...AnacH5892
+- Núm_20:16en Cades, c cercana a tus fronterasH5892
+- Núm_21:2entregares...pueblo...yo destruiré sus cH5892
+- Núm_21:3Israel...los destruyó a ellos y a sus cH5892
+- Núm_21:25tomó Israel...estas c, y habitó...las cH5892
+- Núm_21:26Hesbón era la c de Sehón rey de losH5892
+- Núm_21:27edifíquese y repárese la c de SehónH5892
+- Núm_21:28y llama de la c de Sehón, y consumió aH7151
+- Núm_22:36salió a recibirlo a la c de Moab, queH5892
+- Núm_24:19y destruirá lo que quedare de la cH5892
+- Núm_31:10e incendiaron todas sus c, aldeas yH5892
+- Núm_32:16edificaremos...c para nuestros niñosH5892
+- Núm_32:17quedarán en c fortificadas a causa deH5892
+- Núm_32:24edificaos c para vuestros niños, yH5892
+- Núm_32:26nuestros niños...estarán ahí en las cH5892
+- Núm_32:33la tierra con sus c y...las c del paísH5892
+- Núm_32:36y Bet-arán, c fortificadas; hicieronH5892
+- Núm_32:38pusieron nombres a...c que edificaronH5892
+- Núm_35:2que den a los levitas...c en que habitenH5892
+- Núm_35:2daréis a...levitas los ejidos de esas cH5892
+- Núm_35:3y tendrán ellos las c para habitar, yH5892
+- Núm_35:4los ejidos de las c que...serán mil codosH5892
+- Núm_35:4mil codos...desde el muro de la c paraH5892
+- Núm_35:5mediréis fuera de la c al...del orienteH5892
+- Núm_35:5y la c estará en medio; esto tendrán porH5892
+- Núm_35:5esto tendrán por los ejidos de las cH5892
+- Núm_35:6de las c que daréis...6 c serán de refugioH5892
+- Núm_35:6además de éstas daréis cuarenta y dos cH5892
+- Núm_35:7todas las c que daréis...serán 48 c conH5892
+- Núm_35:8y en cuanto a las c que diereis de laH5892
+- Núm_35:8cada uno dará de sus c a los levitasH5892
+- Núm_35:11os señalaréis c, c de refugio tendréisH5892
+- Núm_35:12y os serán aquellas c para refugiarseH5892
+- Núm_35:13de las c...tendréis seis c de refugioH5892
+- Núm_35:14tres c daréis a este lado del JordánH5892
+- Núm_35:14tres c daréis en...Canaán...c de refugioH5892
+- Núm_35:15estas seis c serán de refugio para losH5892
+- Núm_35:25lo hará volver a su c de refugio, en laH5892
+- Núm_35:26saliere fuera de los límites de su c deH5892
+- Núm_35:27le hallare fuera del límite de la cH5892
+- Núm_35:28en su c de refugio deberá aquél habitarH5892
+- Núm_35:32precio del que huyó a su c de refugioH5892
+- Deu_1:22razón...de las c adonde hemos de llegarH5892
+- Deu_1:28c grandes y amuralladas hasta el cieloH5892
+- Deu_2:34tomamos...c, y destruimos todas las cH5892
+- Deu_2:35despojos de las c que habíamos tomadoH5892
+- Deu_2:36la c que está en el valle, hasta GalaadH5892
+- Deu_2:36no hubo c que escapase de nosotros; todasH5892
+- Deu_2:37las c del monte, ni a lugar alguno queH5892
+- Deu_3:4tomamos...todas sus c; no quedó c que noH5892
+- Deu_3:4sesenta c, toda la tierra de Argob, delH5892
+- Deu_3:5estas eran c fortificadas con muros altosH5892
+- Deu_3:5sin contar otras muchas c sin muroH5892
+- Deu_3:6matando en toda c a hombres, mujeres yH5892
+- Deu_3:7tomamos...ganado y los despojos de las cH5892
+- Deu_3:10las c de la llanura...c del reino de OgH5892
+- Deu_3:12la mitad del monte de Galaad con sus cH5892
+- Deu_3:19hijos...quedarán en las c que os he dadoH5892
+- Deu_4:41apartó...tres c a este lado del JordánH5892
+- Deu_4:42huyendo a una de estas c salvase su vidaH5892
+- Deu_6:10c grandes y buenas que tú no edificasteH5892
+- Deu_9:1c grandes y amuralladas hasta el cieloH5892
+- Deu_13:12oyeres que se dice de alguna de tus cH5892
+- Deu_13:13han instigado a los moradores de su cH5892
+- Deu_13:15herirás...a los moradores de aquella cH5892
+- Deu_13:16consumirás con fuego la c y...su botínH5892
+- Deu_14:28todo el diezmo...lo guardarás en tus cH8178
+- Deu_15:7haya...menesteroso...en alguna de tus cH8179
+- Deu_16:5sacrificar...en cualquiera de las c queH8179
+- Deu_16:11el levita que habitare en tus c, y elH8179
+- Deu_16:18oficiales pondrás en todas tus c queH8179
+- Deu_17:2cuando se hallare...en alguna de tus cH8179
+- Deu_17:8y otra, en negocios de litigio en tus cH8179
+- Deu_18:6saliere un levita de alguna de tus c deH8179
+- Deu_19:1y tú...habites en sus c, y en sus casasH5892
+- Deu_19:2apartarás tres c en medio de la tierraH5892
+- Deu_19:5aquél huirá a una de estas c, y viviráH5892
+- Deu_19:7yo te mando, diciendo: Separarás tres cH5892
+- Deu_19:9que...añadirás tres c más a estas tresH5892
+- Deu_19:11alguno...si huyere a alguna de estas cH5892
+- Deu_19:12entonces los ancianos de su c enviaránH5892
+- Deu_20:10te acerques a una c para combatirla, leH5892
+- Deu_20:14animales, y todo lo que haya en la cH5892
+- Deu_20:15así harás a todas las c que estén muyH5892
+- Deu_20:15que no sean de las c de estas nacionesH5892
+- Deu_20:16de las c de estos pueblos que JehováH5892
+- Deu_20:19sities a alguna c, peleando contra ellaH5892
+- Deu_20:20para construir baluarte contra la c queH5892
+- Deu_21:2y medirán la distancia hasta las c queH5892
+- Deu_21:3, Deu_21:6ancianos de la c más cercana al lugarH5892
+- Deu_21:4y los ancianos de aquella c traerán laH5892
+- Deu_21:19y lo sacarán ante los ancianos de su cH5892
+- Deu_21:20y dirán a los ancianos de la c: EsteH5892
+- Deu_21:21todos los hombres de su c lo apedrearánH5892
+- Deu_22:15a los ancianos de la c, en la puertaH5892
+- Deu_22:17la vestidura delante...ancianos de la cH5892
+- Deu_22:18los ancianos de la c tomarán al hombreH5892
+- Deu_22:21y la apedrearán los hombres de su cH5892
+- Deu_22:23muchacha...y alguno la hallare en la cH5892
+- Deu_22:24sacaréis a ambos a la puerta de la cH5892
+- Deu_22:24la joven porque no dio voces en la cH5892
+- Deu_23:16lugar que escogiere en alguna de tus cH8179
+- Deu_24:14o de los extranjeros...dentro de tus cH8179
+- Deu_25:8los ancianos de aquella c lo harán venirH5892
+- Deu_28:3bendito serás tú en la c...en el campoH5892
+- Deu_28:16maldito serás tú en la c...en el campoH5892
+- Deu_28:52pondrá sitio a todas tus c, hasta queH8179
+- Deu_28:52sitíará...todas tus c y toda la tierraH8179
+- Deu_28:55, Deu_28:57enemigo te oprimirá en todas tus cH8179
+- Deu_31:12tus extranjeros que estuvieren en tus cH8179
+- Deu_34:3Jericó, c de las palmeras, hasta ZoarH5892
+- Jos_2:15su casa estaba en el muro de la cH2346
+- Jos_3:16detuvieron...bien lejos de la c de AdamH5892
+- Jos_6:3rodearéis...pues, la c todos los hombresH5892
+- Jos_6:3todos...yendo alrededor de la c una vezH5892
+- Jos_6:4séptimo día daréis siete vueltas a la cH5892
+- Jos_6:5gritará a...voz, y el muro de la c caeráH5892
+- Jos_6:7y rodead la c; y los que están armadosH5892
+- Jos_6:11arca diera una vuelta alrededor de la cH5892
+- Jos_6:14dieron otra vuelta a la c el segundo díaH5892
+- Jos_6:15dieron vuelta a la c de la misma maneraH5892
+- Jos_6:16porque Jehová os ha entregado la cH5892
+- Jos_6:17será la c anatema a Jehová, con todasH5892
+- Jos_6:20el pueblo subió luego a la c, cada unoH5892
+- Jos_6:21destruyeron...todo lo que en la c habíaH5892
+- Jos_6:24y consumieron con fuego la c, y todo loH5892
+- Jos_6:26maldito...el hombre...reedificare esta cH5892
+- Jos_8:1yo he entregado...Hai su c y a su tierraH5892
+- Jos_8:2, Jos_8:4pondrás emboscadas a la c detrás deH5892
+- Jos_8:4atended...no os alejaréis mucho de la cH5892
+- Jos_8:5y todo el pueblo...nos acercaremos a la cH5892
+- Jos_8:6saldrán...hasta que los alejemos de la cH5892
+- Jos_8:7vosotros os levantaréis...y tomaréis la cH5892
+- Jos_8:11la gente de...Alegaron delante de la cH5892
+- Jos_8:12puso en emboscada...al occidente de la cH5892
+- Jos_8:13todo el campamento al norte de la c, yH5892
+- Jos_8:13emboscada al occidente de la c, y JosuéH5892
+- Jos_8:14hombres de la c salieron al encuentroH5892
+- Jos_8:14puesta emboscada a espaldas de la cH5892
+- Jos_8:16el pueblo...siendo así alejados de la cH5892
+- Jos_8:17por seguir a Israel dejaron la c abiertaH5892
+- Jos_8:18Josué extendió hacia la c la lanza queH5892
+- Jos_8:19corrieron luego...a la c, y la tomaronH5892
+- Jos_8:20al mirar...humo de la c subía al cicloH5892
+- Jos_8:21Josué...viendo que...habían tomado la cH5892
+- Jos_8:21viendo...que el humo de la c subía, seH5892
+- Jos_8:22otros salieron de la c a su encuentroH5892
+- Jos_8:27los israelitas tomaron...despojos de la cH5892
+- Jos_8:29su cuerpo...echasen a la puerta de la cH5892
+- Jos_9:17Israel...al tercer día llegaron a las cH5892
+- Jos_9:17y sus c eran Gabaón, Cafira, Beerot yH5892
+- Jos_10:2Gabaón era una gran c, como...las c realesH5892
+- Jos_10:19seguid a...sin dejarles entrar en sus cH5892
+- Jos_10:20los que quedaron...se metieron en las cH5892
+- Jos_10:37hirieron...todas sus c, con todo lo queH5892
+- Jos_10:39la tomó, y a su rey, y a todas sus cH5892
+- Jos_11:12tomó Josué...las c de aquellos reyes, yH5892
+- Jos_11:13a todas las c que...no las quemó IsraelH5892
+- Jos_11:14Israel tomaron...bestias de aquellas cH5892
+- Jos_11:19no hubo c que hiciese paz con...IsraelH5892
+- Jos_11:21Josué los destruyó a ellos y a sus cH5892
+- Jos_13:9, Jos_13:16y la c que está en medio del valleH5892
+- Jos_13:10las c de Sehón rey de los amorreos, elH5892
+- Jos_13:17Hesbón, con todas sus c que están enH5892
+- Jos_13:21todas las c de la llanura, y todo elH5892
+- Jos_13:23heredad...de Rubén...c con sus aldeasH5892
+- Jos_13:25el territorio...fue Jazer...c de GalaadH5892
+- Jos_13:28heredad...Gad...estas c con sus aldeasH5892
+- Jos_13:31Astarot y Edrei, c del reino de Og enH5892
+- Jos_14:4a los levitas en...sino c en que morasenH5892
+- Jos_14:12este monte...c grandes y fortificadasH5892
+- Jos_15:9límite...sale a las c del monte de EfrónH5892
+- Jos_15:13a Caleb...la c de Quiriat-arba padre deH7151
+- Jos_15:21fueron las c de la tribu de los hijosH5892
+- Jos_15:32por todas veintinueve c con sus aldeasH5892
+- Jos_15:36Gederotaim; catorce c con sus aldeasH5892
+- Jos_15:41Gederot...dieciséis c con sus aldeasH5892
+- Jos_15:44Keila, Aczib...nueve c con sus aldeasH5892
+- Jos_15:51Gosén, Holón y...once c con sus aldeasH5892
+- Jos_15:54Humta...y Sior; nueve c con sus aldeasH5892
+- Jos_15:57Gabaa y Timna; diez c con sus aldeasH5892
+- Jos_15:59Maarat...Eltecón; seis c con sus aldeasH5892
+- Jos_15:60Quiriat-baal...Rabá; 2 c con sus aldeasH5892
+- Jos_15:62la C de la Sal y Engadi; seis c con susH5892
+- Jos_16:9c que se apartaron...c con sus aldeasH5892
+- Jos_17:9estas c...están entre las c de ManasésH5892
+- Jos_17:12no pudieron arrojar a...de aquellas cH5892
+- Jos_18:9delineándola por c en siete partes enH5892
+- Jos_18:14c de los hijos de Judá. Este es el ladoH5892
+- Jos_18:21las c de la tribu de los...de BenjamínH5892
+- Jos_18:24Ofni y Geba; doce c con sus aldeasH5892
+- Jos_18:28y Quiriat; catorce c con sus aldeasH5892
+- Jos_19:6Bet-lebaot y...trece c con sus aldeasH5892
+- Jos_19:7Aín, Rimón, Eter...cuatro c con sus aldeasH5892
+- Jos_19:8todas las aldeas...alrededor de estas cH5892
+- Jos_19:15Catat, Naalal...doce c con sus aldeasH5892
+- Jos_19:16la heredad...de Zabulón...estas c con susH5892
+- Jos_19:22el Jordán, dieciséis c con sus aldeasH5892
+- Jos_19:23los hijos de Isacar...c con sus aldeasH5892
+- Jos_19:29de allí...hasta la c fortificada de TiroH5892
+- Jos_19:30Uma, Afec...veintidós c con sus aldeasH5892
+- Jos_19:31tribu de Aser...estas c con sus aldeasH5892
+- Jos_19:35y las c fortificadas son Sidim, ZerH5892
+- Jos_19:38Bet-anat...diecinueve c con sus aldeasH5892
+- Jos_19:39heredad...de Neftalí...c con sus aldeasH5892
+- Jos_19:48los hijos de Dan...estas c con sus aldeasH5892
+- Jos_19:50dieron la c que él pidió, Timnat-seraH5892
+- Jos_19:50y él reedificó la c y habitó en ellaH5892
+- Jos_20:2y diles: Señalaos las c de refugio, deH5892
+- Jos_20:4que se acogiere a alguna de aquellas cH5892
+- Jos_20:4la puerta de la c...ancianos de aquella cH5892
+- Jos_20:4ellos le recibirán consigo dentro de la cH5892
+- Jos_20:6y quedará en...c hasta que comparezca enH5892
+- Jos_20:6podrá volver a su c...la c de donde huyóH5892
+- Jos_20:9fueron las c señaladas para todos losH5892
+- Jos_21:2nos fuesen dadas c donde habitar, conH5892
+- Jos_21:3Israel dieron...estas c con sus ejidosH5892
+- Jos_21:4los hijos de Aarón, obtuvieron...trece cH5892
+- Jos_21:5de Coat obtuvieron por suerte diez c deH5892
+- Jos_21:6de Gersón obtuvieron por suerte...trece cH5892
+- Jos_21:7los hijos de Merari...obtuvieron...doce cH5892
+- Jos_21:8a los levitas estas c con sus ejidosH5892
+- Jos_21:9dieron estas c que fueron nombradasH5892
+- Jos_21:12mas el campo de la c...dieron a CalebH5892
+- Jos_21:13Hebrón con sus ejidos como c de refugioH5892
+- Jos_21:16Aín con...nueve c de estas dos tribusH5892
+- Jos_21:18Anatot...Almón con sus ejidos; cuatro cH5892
+- Jos_21:19todas las c de los sacerdotes...son treceH5892
+- Jos_21:20recibieron por...c de la tribu de EfraínH5892
+- Jos_21:21les dieron Siquem...como c de refugioH5892
+- Jos_21:22y Bet-horón con sus ejidos; cuatro cH5892
+- Jos_21:24y Gat-rimón con sus ejidos; cuatro cH5892
+- Jos_21:25Taanac, con...ejidos y Gat-rimón...dos cH5892
+- Jos_21:26c...de Coat fueron diez con sus ejidosH5892
+- Jos_21:27Golán...c de refugio para los homicidasH5892
+- Jos_21:27además, Beestera con sus ejidos; dos cH5892
+- Jos_21:29y En-ganim con sus ejidos; cuatro cH5892
+- Jos_21:31Helcat...Rehob con sus ejidos; cuatro cH5892
+- Jos_21:32Cedes en...como c de refugio para losH5892
+- Jos_21:32además...Cartán con sus ejidos; tres cH5892
+- Jos_21:33todas las c de...trece c con sus ejidosH5892
+- Jos_21:35Dimna...Naalal con sus ejidos; cuatro cH5892, [[[[H5892]]]]
+- Jos_21:37Cademot con sus...y Mefaat...cuatro cH5892
+- Jos_21:38Ramot de Galaad con...como c de refugioH5892
+- Jos_21:39Hesbón...Jazer con sus ejidos; cuatro cH5892
+- Jos_21:40las c de los hijos de Merari...doce cH5892
+- Jos_21:41todas las c de los levitas...fueron 48 cH5892
+- Jos_21:42estas c estaban apartadas la una de laH5892
+- Jos_21:42sus ejidos alrededor...con todas estas cH5892
+- Jos_24:13y os di...las c que no edificasteis, enH5892
+- Jue_1:8a Jerusalén...y pusieron fuego a la cH5892
+- Jue_1:16subieron de la c de las palmeras conH5892
+- Jue_1:17Judá...pusieron por nombre a la c, HormaH5892
+- Jue_1:23en Bet-el, c que antes se llamaba LuzH5892
+- Jue_1:24vieron a un hombre que salía de la cH5892
+- Jue_1:24muéstranos ahora la entrada de la c, yH5892
+- Jue_1:25mostró la entrada a la c, y la hirieronH5892
+- Jue_1:26edificó una c a la cual llamó Luz; y esteH5892
+- Jue_3:13vino e hirió...y tomó la c de las palmerasH5892
+- Jue_6:27temiendo...los hombres de la c, lo hizoH5892
+- Jue_6:28cuando los de la c se levantaron, heH5892
+- Jue_6:29entonces los...de la c dijeron a JoásH5892
+- Jue_8:16tomó a los ancianos de la c, y espinosH5892
+- Jue_8:17derribó la torre...y mató a los de la cH5892
+- Jue_8:27un efod, el cual hizo guardar en su cH5892
+- Jue_9:30cuando Zebul gobernador de la c oyó lasH5892
+- Jue_9:31aquí que están sublevando la c contra tiH5892
+- Jue_9:33por la mañana...madruga y cae sobre la cH5892
+- Jue_9:35puso a la entrada de la puerta de la cH5892
+- Jue_9:43miró, he aquí el pueblo que salía de la cH5892
+- Jue_9:44se detuvieron a la entrada de...de la cH5892
+- Jue_9:45Abimele c peleó contra la c...y tomó la cH5892
+- Jue_9:45tomó...y asoló la c, y la sembró de salH5892
+- Jue_9:51en medio de aquella c había una torreH5892
+- Jue_9:51a la cual se retiraron todos...de la cH5892
+- Jue_10:4treinta c, que se llaman las c de JairH5892
+- Jue_11:26y todas las c que están en...de ArnónH5892
+- Jue_11:33y desde Aroer hasta llegar a...veinte cH5892
+- Jue_12:7fue sepultado en una de las c de GalaadH5892
+- Jue_14:18los de la c le dijeron: ¿Qué cosa másH5892
+- Jue_16:2acecharon toda...noche a la puerta de la cH5892
+- Jue_16:3y tomando las puertas de la c con susH5892
+- Jue_17:8hombre partió de la c de Belén de JudáH5892
+- Jue_18:27a Lais...y los hirieron...y quemaron la cH5892
+- Jue_18:28la c estaba en el valle que hay junto aH5892
+- Jue_18:28reedificaron la c, y habitaron en ellaH5892
+- Jue_18:29y llamaron el nombre de aquella c DanH5892
+- Jue_18:29bien que antes se llamaba la c LaisH5892
+- Jue_19:11ven...vámonos a esta c de los jebuseosH5892
+- Jue_19:12no iremos a ninguna c de extranjerosH5892
+- Jue_19:15se sentaron en la plaza de la c, porqueH5892
+- Jue_19:17vio aquel caminante en la plaza de la cH5892
+- Jue_19:22hombres de aquella c...rodearon la casaH5892
+- Jue_20:11y se juntaron...de Israel contra la cH5892
+- Jue_20:14juntaron de las c en Gabaa, para salirH5892
+- Jue_20:15fueron...los hijos de Benjamín de las cH5892
+- Jue_20:31y salieron...pueblo, alejándose de la cH5892
+- Jue_20:32huiremos, y los alejaremos de la cH5892
+- Jue_20:37hirieron a filo de espada a toda la cH5892
+- Jue_20:38hiciesen subir...gran humareda de la cH5892
+- Jue_20:40a subir de la c...el humo de la c subíaH5892
+- Jue_20:42los que salían de las c los destruíanH5892
+- Jue_20:48hirieron...así a los hombres de cada cH5892
+- Jue_20:48asimismo pusieron fuego a todas las cH5892
+- Jue_21:23reedificaron las c, y habitaron en ellasH5892
+- Rut_1:19la c se conmovió por causa de ellasH5892
+- Rut_2:18lo tomó, y se fue a la c; y su suegraH5892
+- Rut_3:15se las puso encima; y ella se fue a la cH5892
+- Rut_4:2tomó a diez varones de...ancianos de la cH5892
+- 1Sa_1:3aquel varón subía de su c para adorarH5892
+- 1Sa_4:13llegado, pues...a la c...toda la c gritóH5892
+- 1Sa_5:9Jehová estuvo contra la c...afligió a...cH5892
+- 1Sa_5:11había consternación de muerte en...la cH5892
+- 1Sa_5:12y el clamor de la c subía al cieloH5892
+- 1Sa_6:18conforme al número de todas las c de losH5892
+- 1Sa_6:18así las c fortificadas como las aldeasH5892
+- 1Sa_7:14fueron restituidas...c que los filisteosH5892
+- 1Sa_8:22dijo Samuel...Idos cada uno a vuestra cH5892
+- 1Sa_9:6hay en esta c un varón de Dios, que esH5892
+- 1Sa_9:10fueron a la c donde estaba el varón deH5892
+- 1Sa_9:11y cuando subían por la cuesta de la cH5892
+- 1Sa_9:12hoy ha venido a la c en atención a que elH5892
+- 1Sa_9:13entréis en la c, le encontraréis luegoH5892
+- 1Sa_9:14subieron a la c; y cuando estuvieronH5892
+- 1Sa_9:25descendido del...a la c, él habló con SaúlH5892
+- 1Sa_9:27y descendiendo ellos al extremo de la cH5892
+- 1Sa_10:5cuando entres allá en la c encontrarásH5892
+- 1Sa_15:5Saúl a la c de Amalec, puso emboscadaH5892
+- 1Sa_16:4ancianos de la c salieron a recibirleH5892
+- 1Sa_18:6salieron las mujeres de todas las c deH5892
+- 1Sa_20:6rogó mucho...lo dejase ir...a Belén su cH5892
+- 1Sa_20:29familia celebra sacrificio en la c, yH5892
+- 1Sa_20:40dio...y le dijo: Vete y llévalas a la cH5892
+- 1Sa_20:42se...y se fue; y Jonatán entró en la cH5892
+- 1Sa_22:19Nob, c de los sacerdotes, hirió a filoH5892
+- 1Sa_23:7entrando en c con puertas y cerradurasH5892
+- 1Sa_23:10que Saúl...destruir la c por causa míaH5892
+- 1Sa_27:5ha de morar tu siervo...en la c real?[[H5892]]
+- 1Sa_28:3y le habían sepultado en Ramá, su cH5892
+- 1Sa_30:3vino, pues, David con los suyos a la cH5892
+- 1Sa_30:29las c de Jerameel, en las c del ceneoH5892
+- 1Sa_31:7los de Israel...dejaron las c y huyeronH5892
+- 2Sa_2:1¿subiré a alguna de las c de Judá?[[H5892]]
+- 2Sa_2:3los cuales moraron en las c de HebrónH5892
+- 2Sa_5:7tomó la...Sion, la cual es la c de DavidH5892
+- 2Sa_5:9moró...y le puso por nombre la C de DavidH5892
+- 2Sa_6:10no quiso traer para sí el arca...a la cH5892
+- 2Sa_6:12fue, y llevó...el arca...a la c de DavidH5892
+- 2Sa_6:16cuando el arca...llegó a la c de DavidH5892
+- 2Sa_8:8de Beta...c de Hadad-ezer, tomó...bronceH5892
+- 2Sa_10:3¿no ha enviado David...inspeccionar la cH5892
+- 2Sa_10:12esforcémonos por...y por las c de...DiosH5892
+- 2Sa_10:14Amón...huyeron...y se refugiaron en la cH5892
+- 2Sa_11:16cuando Joab sitió la c, puso a UríasH5892
+- 2Sa_11:17saliendo luego los de la c, pelearonH5892
+- 2Sa_11:20¿por qué os acercasteis...a la c paraH5892
+- 2Sa_11:25refuerza tu ataque contra la c, hastaH5892
+- 2Sa_12:1había dos hombres en una c, el uno ricoH5892
+- 2Sa_12:26Joab peleaba contra Rabá...y tomó la cH5892
+- 2Sa_12:27a Rabá, y he tomado la c de las aguasH5892
+- 2Sa_12:28y acampa contra la c...que tome yo la cH5892
+- 2Sa_12:30David...sacó muy grande botín de la cH5892
+- 2Sa_12:31lo mismo hizo a todas las c de...AmónH5892
+- 2Sa_15:2Absalón le...y le decía: ¿De qué c eres?[[H5892]]
+- 2Sa_15:12llamó a Ahitofel gilonita...de su c deH5892
+- 2Sa_15:14no sea que...hiera la c a filo de espadaH5892
+- 2Sa_15:24el pueblo hubo acabado de salir de la cH5892
+- 2Sa_15:25dijo...Vuelve el arca de Dios a la cH5892
+- 2Sa_15:27vuelve en paz a la c, y con vosotrosH5892
+- 2Sa_15:34volvieres a la c, y dijeres a AbsalónH5892
+- 2Sa_15:37así vino Husai amigo de David a la cH5892
+- 2Sa_17:13si se refugiare en alguna c, todos losH5892
+- 2Sa_17:13los de Israel llevarán sogas a aquella cH5892
+- 2Sa_17:17no podían mostrarse viniendo a la cH5892
+- 2Sa_17:23se levantó y se fue a su casa a su cH5892
+- 2Sa_18:3mejor que tú nos des ayuda desde la cH5892
+- 2Sa_19:3y entró el pueblo aquel día en la cH5892
+- 2Sa_19:37que muera en mi c, junto al sepulcro deH5892
+- 2Sa_20:6no sea que halle para sí c fortificadasH5892
+- 2Sa_20:15pusieron baluarte contra la c, y quedóH5892
+- 2Sa_20:16mujer sabia dio voces en la c, diciendoH5892
+- 2Sa_20:19procuras destruir una c que es madreH5892
+- 2Sa_20:21Seba...entregad a ése...y me iré de la cH5892
+- 2Sa_20:22y se retiraron de la c, cada uno a suH5892
+- 2Sa_24:5al sur de la c que está en medio delH5892
+- 2Sa_24:7fueron...y a todas las c de los heveosH5892
+- 1Re_1:41dijo: ¿Por qué se alborota la c conH7151
+- 1Re_1:45han ungido...la c está llena de estruendoH7151
+- 1Re_2:10durmió David...y fue sepultado en su cH5892
+- 1Re_3:1la hija de Faraón...trajo a la c de DavidH5892
+- 1Re_4:13también las c de Jair hijo de ManasésH5892
+- 1Re_4:13sesenta grandes c con muro y cerradurasH5892
+- 1Re_8:1para traer el arca del...de la c de DavidH5892
+- 1Re_8:16no he escogido c de todas las tribus deH5892
+- 1Re_8:44, 1Re_8:48el rostro hacia la c que tú elegisteH5892
+- 1Re_9:11el rey Salomón dio a Hiram veinte c enH5892
+- 1Re_9:12salió Hiram...para ver las c que SalomónH5892
+- 1Re_9:13dijo: ¿Qué c son estas que me has dadoH5892
+- 1Re_9:16y dio muerte a los...que habitaban la cH5892
+- 1Re_9:19las c donde Salomón tenía provisionesH5892
+- 1Re_9:19las c de los carros, y las c de la genteH5892
+- 1Re_9:24subió la hija de Faraón de la c de DavidH5892
+- 1Re_10:26en las c de los carros, y con el reyH5892
+- 1Re_11:27cerró el portillo de la c de David suH5892
+- 1Re_11:32c que yo he elegido de todas las tribusH5892
+- 1Re_11:36c que yo me elegí para poner en ellaH5892
+- 1Re_11:43y fue sepultado en la c de su padreH5892
+- 1Re_12:17sobre los...que moraban en las c de JudáH5892
+- 1Re_13:25y lo dijeron en la c donde el...profetaH5892
+- 1Re_13:29viejo vino a la c, para endecharle yH5892
+- 1Re_13:32los lugares altos que están en las cH5892
+- 1Re_14:11que muera de los de Jeroboam en la cH5892
+- 1Re_14:12poner tu pie en la c, morirá el niñoH5892
+- 1Re_14:21c que Jehová eligió de...las tribus deH5892
+- 1Re_14:31fue sepultado con sus...en la c de DavidH5892
+- 1Re_15:8lo sepultaron en la c de David; y reinóH5892
+- 1Re_15:20los ejércitos que tenía contra las cH5892
+- 1Re_15:23c que edificó, ¿no está todo escrito enH5892
+- 1Re_15:24fue sepultado...la c de David su padreH5892
+- 1Re_16:4el que de Baasa fuere muerto en la c, loH5892
+- 1Re_16:15había acampado contra Gibetón, c deH5892
+- 1Re_16:18viendo Zimri tomada la c, se metió enH5892
+- 1Re_16:24el nombre de la c que edificó, SamariaH5892
+- 1Re_17:10y cuando llegó a la puerta de la c, heH5892
+- 1Re_20:2envió mensajeros a la c a Acab rey deH5892
+- 1Re_20:12y ellos se dispusieron contra la cH5892
+- 1Re_20:19salieron, pues, de la c los siervos deH5892
+- 1Re_20:30huyeron a Afec, a la c; y el muro cayóH5892
+- 1Re_20:30también Ben-adad vino huyendo a la c, yH5892
+- 1Re_20:34las c que mi padre tomó al tuyo, yo lasH5892
+- 1Re_21:8los ancianos...moraban en la c con NabotH5892
+- 1Re_21:11los de su c, los...que moraban en su cH5892
+- 1Re_21:13y lo llevaron...de la c y lo apedrearonH5892
+- 1Re_21:24el que de Acab fuere muerto en la cH5892
+- 1Re_22:26llévalo a Amón gobernador de la c, y aH5892
+- 1Re_22:36cada uno a su c, y cada cual a su tierraH5892
+- 1Re_22:39las c que edificó, ¿no está escrito enH5892
+- 1Re_22:50y fue sepultado con...en la c de DavidH5892
+- 2Re_2:19los hombres de la c dijeron a EliseoH5892
+- 2Re_2:19el lugar en donde está...esta c es buenoH5892
+- 2Re_2:23salieron unos muchachos de la c, y seH5892
+- 2Re_3:19destruiréis toda c fortificada y todaH5892
+- 2Re_3:25asolaron las c, y en todas las tierrasH5892
+- 2Re_6:14los...vinieron de noche, y sitiaron la cH5892
+- 2Re_6:15he aquí el ejército...tenía sitiada la cH5892
+- 2Re_6:19no es este el camino, ni es esta la cH5892
+- 2Re_7:4si tratáremos de entrar en la c, por elH5892
+- 2Re_7:4por el hambre que hay en la c moriremosH5892
+- 2Re_7:10a los guardas de la puerta de la c, y lesH5892
+- 2Re_7:12diciendo: Cuando hayan salido de la cH5892
+- 2Re_7:12tomaremos vivos, y entraremos en la cH5892
+- 2Re_7:13de los caballos que han quedado en la c
+- 2Re_8:24fue sepultado con ellos en la c de DavidH5892
+- 2Re_9:15ninguno escape de la c, para ir a darH5892
+- 2Re_9:28allá le sepultaron con...en la c de DavidH5892
+- 2Re_10:2que tienen...la c fortificada, y las armasH5892
+- 2Re_10:5el gobernador de la c, los ancianos yH5892
+- 2Re_10:6estaban con los principales de la c, queH5892
+- 2Re_11:20la c estuvo en reposo, habiendo sidoH5892
+- 2Re_12:21lo sepultaron con sus...en la c de DavidH5892
+- 2Re_13:25tomó...las c que éste había tomado enH5892
+- 2Re_13:25lo derrotó Joás, y restituyó las c deH5892
+- 2Re_14:20; 2Re_15:7lo sepultaron...en la c de DavidH5892
+- 2Re_15:38; 2Re_16:20fue sepultado...en la c de DavidH5892
+- 2Re_17:6y los puso en...y en las c de los medosH5892
+- 2Re_17:9edificándose lugares altos en...sus c,[[H5892]]
+- 2Re_17:9las torres de...hasta las c fortificadasH5892
+- 2Re_17:24puso en las c de Samaria, en lugar deH5892
+- 2Re_17:24y poseyeron a...y habitaron en sus cH5892
+- 2Re_17:26las gentes que tú...y pusiste en las cH5892
+- 2Re_17:29hizo sus dioses...en su c donde habitabaH5892
+- 2Re_18:8hirió también...hasta la c fortificadaH5892
+- 2Re_18:11y los puso en...y en las c de los medosH5892
+- 2Re_18:13subió Senaquerib...contra todas las cH5892
+- 2Re_18:30esta c no será entregada en mano delH5892
+- 2Re_19:13¿dónde está...rey de la c de SefarvaimH5892
+- 2Re_19:25serás...para reducir las c fortificadasH5892
+- 2Re_19:32del rey de Asiria: No entrará en esta cH5892
+- 2Re_19:33y no entrará en esta c, dice JehováH5892
+- 2Re_19:34porque yo ampararé esta c para salvarlaH5892
+- 2Re_20:6te libraré a ti y a esta c de mano delH5892
+- 2Re_20:6ampararé esta c por amor a mí mismoH5892
+- 2Re_20:20cómo hizo...y metió las aguas en la cH5892
+- 2Re_22:14moraba en...en la segunda parte de la c
+- 2Re_23:5quemasen incienso en...en las c de JudáH5892
+- 2Re_23:8hizo venir...los sacerdotes de las c deH5892
+- 2Re_23:8la puerta de Josué, gobernador de la cH5892
+- 2Re_23:8derribó los altares...a la puerta de la cH5892
+- 2Re_23:17y los de la c le respondieron: Este esH5892
+- 2Re_23:19casas de los lugares altos...en las cH5892
+- 2Re_23:27desecharé a esta c que había escogidoH5892
+- 2Re_24:10contra Jerusalén...y la c fue sitiadaH5892
+- 2Re_24:11vino...Nabucodonosor rey...contra la cH5892
+- 2Re_25:2la c sitiada hasta el año undécimo delH5892
+- 2Re_25:3prevaleció el hambre en la c, hasta queH5892
+- 2Re_25:4abierta ya una brecha en el muro de la cH5892
+- 2Re_25:4estando los caldeos alrededor de la cH5892
+- 2Re_25:11del pueblo que habían quedado en la cH5892
+- 2Re_25:19de la c tomó un oficial que tenía a suH5892
+- 2Re_25:19consejeros del rey, que estaban en la cH5892
+- 2Re_25:19tomó...60 varones del pueblo...en la cH5892
+- 1Cr_1:43Bela...el nombre de su c fue DinabaH5892
+- 1Cr_1:46Hadad hijo...el nombre de su c fue AvitH5892
+- 1Cr_1:50Hadad, el nombre de cuya c fue PaiH5892
+- 1Cr_2:22Jair...tuvo 23 c en la tierra de GalaadH5892
+- 1Cr_2:23tomaron...las c de Jair, con Kenat y susH5892
+- 1Cr_4:12a Tehina padre de la c de Nahas; éstos
+- 1Cr_4:31estas fueron sus c hasta el reinado deH5892
+- 1Cr_4:33aldeas...estaban en contorno de estas cH5892
+- 1Cr_6:56el territorio de la c...se dieron a CalebH5892
+- 1Cr_6:57de Judá dieron...la c de refugio...HebrónH5892
+- 1Cr_6:60sus c fueron trece c...por sus linajesH5892
+- 1Cr_6:61diez c de la media tribu de ManasésH5892
+- 1Cr_6:62a los hijos de Gersón...dieron...trece cH5892
+- 1Cr_6:63de Merari...dieron por suerte doce cH5892
+- 1Cr_6:64dieron a los levitas c con sus ejidosH5892
+- 1Cr_6:65dieron por suerte...las c que nombraronH5892
+- 1Cr_6:66hijos de Coat dieron c con sus ejidosH5892
+- 1Cr_6:67les dieron la c de refugio, Siquem conH5892
+- 1Cr_9:2que entraron en sus posesiones en las cH5892
+- 1Cr_10:7los de Israel...dejaron sus c y huyeronH5892
+- 1Cr_11:5la fortaleza de Sion...es la c de DavidH5892
+- 1Cr_11:7y por esto la llamaron la C de DavidH5892
+- 1Cr_11:8edificó la c alrededor desde Milo hastaH5892
+- 1Cr_11:8el muro; y Joab reparó el resto de la cH5892
+- 1Cr_13:2por los sacerdotes y levitas...en sus cH5892
+- 1Cr_13:13no trajo...el arca a su casa en la c deH5892
+- 1Cr_15:1hizo David...casas para sí en la c deH5892
+- 1Cr_15:29arca del pacto...llegó a la c de DavidH5892
+- 1Cr_18:8y de Cun, c de Hadad-ezer, tomó DavidH5892
+- 1Cr_19:7se juntaron...los hijos de Amón de sus cH5892
+- 1Cr_19:9y ordenaron la batalla a la entrada...cH5892
+- 1Cr_19:13esfuérzate...por las c de nuestro DiosH5892
+- 1Cr_19:15de Amón...huyeron...y entraron en la cH5892
+- 1Cr_20:2además de...sacó de la c muy grande botínH5892
+- 1Cr_20:3lo mismo hizo David a todas las c de losH5892
+- 1Cr_27:25tenía Jonatán...los tesoros...de las cH5892
+- 2Cr_1:14cuales puso en las c de los carrosH5892
+- 2Cr_5:2trajesen el arca del...de la c de DavidH5892
+- 2Cr_6:5ninguna c he elegido de...tribus de IsraelH5892
+- 2Cr_6:34, 2Cr_6:38oraren...hacia la c que tú elegisteH5892
+- 2Cr_8:2reedificó Salomón las c que Hiram...dadoH5892
+- 2Cr_8:4las c de aprovisionamiento que...en HamatH5892
+- 2Cr_8:5reedificó a...c fortificadas, con murosH5892
+- 2Cr_8:6las c de provisiones que Salomón teníaH5892
+- 2Cr_8:6todas las c de los carros y las de laH5892
+- 2Cr_8:11hija de Faraón, de la c de David a laH5892
+- 2Cr_9:25jinetes, los cuales puso en las c de losH5892
+- 2Cr_9:31lo sepultaron en la c de David su padreH5892
+- 2Cr_10:17Israel que habitaban en las c de JudáH5892
+- 2Cr_11:5Roboam...edificó c para fortificar a JudáH5892
+- 2Cr_11:10eran c fortificadas de Judá y BenjamínH5892
+- 2Cr_11:12y en todas las c puso escudos y lanzasH5892
+- 2Cr_11:23esparció a todos sus hijos por...las cH5892
+- 2Cr_12:4tomó las c fortificadas de Judá, y llegóH5892
+- 2Cr_12:13Jerusalén, c que escogió Jehová de todasH5892
+- 2Cr_12:16Roboam...fue sepultado en la c de DavidH5892
+- 2Cr_13:19y le tomó algunas c, a Bet-el con susH5892
+- 2Cr_14:1Abías...fue sepultado en la c de DavidH5892
+- 2Cr_14:5quitó...lasc de Judá los lugares altosH5892
+- 2Cr_14:6y edificó c fortificadas en Judá, porH5892
+- 2Cr_14:7edifiquemos estas c, y cerquémoslas deH5892
+- 2Cr_14:14atacaron...todas las c alrededor de GerarH5892
+- 2Cr_14:14saquearon todas las c, porque había enH5892
+- 2Cr_15:6una c a otra c; porque Dios los turbóH5892
+- 2Cr_15:8Asa...quitó los ídolos...de las c que élH5892
+- 2Cr_16:4los capitanes de...contra las c de IsraelH5892
+- 2Cr_16:4conquistaron Ijón...y las c de...NeftalíH5892
+- 2Cr_16:14y lo sepultaron en...en la c de DavidH5892
+- 2Cr_17:2ejércitos en todas las c fortificadasH5892
+- 2Cr_17:2colocó gente...en las c de Efraín que suH5892
+- 2Cr_17:7para que enseñasen en las c de JudáH5892
+- 2Cr_17:9y recorrieron...las c de Judá enseñandoH5892
+- 2Cr_17:12edificó en...y c de aprovisionamientoH5892
+- 2Cr_17:13muchas provisiones en las c de JudáH5892
+- 2Cr_17:19sin los que el rey había puesto en las cH5892
+- 2Cr_18:25llevadlo a Amón gobernador de la c, y aH5892
+- 2Cr_19:5puso jueces en todas las c fortificadasH5892
+- 2Cr_19:10vuestros hermanos que habitan en las cH5892
+- 2Cr_20:4las c de Judá vinieron a pedir ayuda aH5892
+- 2Cr_21:1lo sepultaron con sus...en la c de DavidH5892
+- 2Cr_21:3su padre les había dado...c fortificadasH5892
+- 2Cr_21:20lo sepultaron en la c de David, pero noH5892
+- 2Cr_23:2reunieron a los levitas de todas las cH5892
+- 2Cr_23:21y la c estuvo tranquila, después queH5892
+- 2Cr_24:5dijo: Salid por las c de Judá, y recogedH5892
+- 2Cr_24:16, 2Cr_24:25y lo sepultaron en la c de DavidH5892
+- 2Cr_25:13del ejército...invadieron las c de JudáH5892
+- 2Cr_25:28lo sepultaron con sus...en la c de JudáH5892
+- 2Cr_26:6edificó c en Asdod, y en la tierra deH5892
+- 2Cr_27:4edificó c en las montañas de Judá, yH5892
+- 2Cr_27:9Jotam...lo sepultaron en la c de DavidH5892
+- 2Cr_28:15y los llevaron hasta Jericó, c de lasH5892
+- 2Cr_28:18los filisteos...extendido por las c deH5892
+- 2Cr_28:25lugares altos en todas las c de JudáH5892
+- 2Cr_28:27durmió Acaz...y lo sepultaron en la c deH5892
+- 2Cr_29:20el rey...reunió los principales de la cH5892
+- 2Cr_30:10pasaron, pues, los correos de c en cH5892
+- 2Cr_31:1de Israel...salieron por las c de JudáH5892
+- 2Cr_31:1volvieron...los hijos de Israel a sus cH5892
+- 2Cr_31:6de Judá, que habitaban en las c de JudáH5892
+- 2Cr_31:15en las c de los sacerdotes, para darH5892
+- 2Cr_31:19los ejidos de sus c, por todas las cH5892
+- 2Cr_32:1acampó contra las c fortificadas, conH5892
+- 2Cr_32:3para cegar las fuentes de...fuera de la cH5892
+- 2Cr_32:5fortificó...a Milo en la c de David, yH5892
+- 2Cr_32:6la plaza de la puerta de la c, y hablóH5892
+- 2Cr_32:18espantarles...a fin de poder tomar la cH5892
+- 2Cr_32:29adquirió también c, y hatos de ovejasH5892
+- 2Cr_32:30el agua hacia el occidente de la c deH5892
+- 2Cr_33:14edificó el muro exterior de la c deH5892
+- 2Cr_33:14y puso capitanes de...en todas las cH5892
+- 2Cr_33:15los altares...y los echó fuera de la cH5892
+- 2Cr_34:6mismo hizo en las c de Manasés, EfraínH5892
+- 2Cr_34:8envió...a Maasías gobernador de la c, y aH5892
+- Esd_2:1volvieron a...a Judá, cada uno a su cH5892
+- Esd_2:70habitaron...sus c...todo Israel en sus cH5892
+- Esd_3:1los...de Israel, ya establecidos en las cH5892
+- Esd_4:10hizo habitar en las c de Samaria y lasH7149
+- Esd_4:12judíos...y edifican la c rebelde y malaH7149
+- Esd_4:13que si aquella c fuere reedificada, yH7149
+- Esd_4:15que esta c es c rebelde, y perjudicialH7149
+- Esd_4:15sabrás...por lo que esta c fue destruidaH7149
+- Esd_4:16al rey que si esta c fuere reedificadaH7149
+- Esd_4:19aquella c de tiempo antiguo se levantaH7149
+- Esd_4:21no sea esa c reedificada hasta que porH7149
+- Esd_10:14que en nuestras c hayan tomado mujeresH5892
+- Esd_10:14con ellos los ancianos de cada c, y losH5892
+- Neh_2:3cuando la c, casa de los sepulcros deH5892
+- Neh_2:5envíame...a la c de los sepulcros de misH5892
+- Neh_2:8para el muro de la c, y la casa en queH5892
+- Neh_3:15gradas que descienden de la c de DavidH5892
+- Neh_7:4la c era espaciosa y grande, pero pocoH5892
+- Neh_7:6y que volvieron a Jerusalén y a...a su cH5892
+- Neh_7:73habitaron los...y todo Israel, en sus cH5892
+- Neh_7:73los hijos de Israel estaban en sus cH5892
+- Neh_8:15pregón por todas sus c y por JerusalénH5892
+- Neh_9:25tomaron c fortificadas y tierra fértilH5892
+- Neh_10:37recibirían las décimas...en todas las cH5892
+- Neh_11:1para que morase en Jerusalén, c santaH5892
+- Neh_11:1y las otras nueve partes en las otras cH5892
+- Neh_11:3en las c de Judá habitaron cada uno enH5892
+- Neh_11:3de Judá habitaron...su posesión, en sus cH5892
+- Neh_11:9Judá hijo de Senúa el segundo en la cH5892
+- Neh_11:18todos los levitas en la santa c eran 284H5892
+- Neh_11:20en todas las c de Judá, cada uno en suH5892
+- Neh_12:37subieron...las gradas de la c de DavidH5892
+- Neh_12:44para recoger...de los ejidos de las cH5892
+- Neh_13:16había en la c tirios que traían pescado
+- Neh_13:18y trajo...todo este mal...sobre esta c?[[H5892]]
+- Est_3:15pero la c de Susa estaba conmovidaH5892
+- Est_4:1fue por la c clamando con grande...clamorH5892
+- Est_4:6salió, pues, Hatac...a la plaza de la cH5892
+- Est_6:9vistan...y llévenlo...por la plaza de la cH5892
+- Est_6:11condujo a caballo por la plaza de la cH5892
+- Est_8:11facultad a los judíos...en todas las cH5892
+- Est_8:15la c de...entonces se alegró y regocijóH5892
+- Est_8:17en cada c donde llegó el mandamientoH5892
+- Est_9:2judíos se reunieron en sus c, en todasH5892
+- Est_9:28celebrados por todas las...provincias y cH5892
+- Job_15:28y habitó las c asoladas, las casasH5892
+- Job_24:12desde la c gimen los moribundos, yH5892
+- Job_39:7se burla de la multitud de la c; no oyeH7151
+- Sal_9:6c que derribaste, su memoria perecióH5892
+- Sal_31:21su misericordia para...en c fortificadaH5892
+- Sal_46:4sus corrientes alegran la c de DiosH5892
+- Sal_48:1la c de nuestro Dios, en su monte santoH5892
+- Sal_48:2hermosa provincia...la c del gran ReyH7151
+- Sal_48:8así lo hemos visto en la c de JehováH5892
+- Sal_48:8hemos visto...en la c de nuestro DiosH5892
+- Sal_55:9he visto violencia y rencilla en la cH5892
+- Sal_59:6volverán a la tarde...y rodearán la cH5892
+- Sal_59:14vuelvan...como perros...y rodeen la cH5892
+- Sal_60:9¿quién me llevará a la c fortificada?[[H5892]]
+- Sal_69:35a Sion, y reedificará las c de JudáH5892
+- Sal_72:16los de la c florecerán como la hierbaH5892
+- Sal_87:3cosas gloriosas se han dicho de ti, c deH5892
+- Sal_101:8exterminar de la c de Jehová a todosH5892
+- Sal_107:4perdidos...sin hallar c en donde vivirH5892
+- Sal_107:7los dirigió...que viniesen a c habitableH5892
+- Sal_107:36establece...y fundan c en donde vivirH5892
+- Sal_108:10¿quién me guiará a la c fortificada?[[H5892]]
+- Sal_122:3como una c que está bien unida entre síH5892
+- Sal_127:1si Jehová no guardare la c, en vanoH5892
+- Pro_1:21en las puertas de la c dice sus razonesH5892
+- Pro_8:3a la entrada de la c, a la entrada de lasH7176
+- Pro_9:3envió...sobre lo más alto de la c clamóH7176
+- Pro_9:14se sienta...en los lugares altos de la cH7176
+- Pro_10:15riquezas del rico son su c fortificadaH7151
+- Pro_11:10en el bien de los justos la c se alegraH7151
+- Pro_11:11de los rectos la c será engrandecidaH7176
+- Pro_16:32mejor es el que...que el que toma una cH5892
+- Pro_18:11riquezas del rico son...c fortificadaH7151
+- Pro_18:19ofendido es más tenaz que una c fuerteH7151
+- Pro_21:22tomó el sabio la c de los fuertes, yH5892
+- Pro_25:28como c derribada...es el hombre cuyoH5892
+- Pro_29:8escarnecedores ponen la c en llamasH7151
+- Ecl_7:19más que diez poderosos que...en una cH5892
+- Ecl_8:10puestos en olvido en la c donde habíanH5892
+- Ecl_9:14una pequeña c, y pocos hombres en ellaH5892
+- Ecl_9:15el cual libra a la c con su sabiduríaH5892
+- Ecl_10:15porque no saben por dónde ir a la cH5892
+- Cnt_3:2levantaré ahora, y rodearé por la cH5892
+- Cnt_3:3; Cnt_5:7me hallaron los...que rondan la cH5892
+- Isa_1:7destruida, vuestras c puestas a fuegoH5892
+- Isa_1:8como cabaña en melonar, como c asoladaH5892
+- Isa_1:21te has convertido en ramera, oh c fiel?[[H7151]]
+- Isa_1:26entonces te llamarán C de justicia, CH5892
+- Isa_6:11hasta que las c estén asoladas y sinH5892
+- Isa_14:4¡cómo paró...cómo acabó la c codiciosaH4062
+- Isa_14:17que asoló sus c, que a sus presos nuncaH5892
+- Isa_14:21ni posean la tierra, ni llenen de c laH5892
+- Isa_14:31oh c; disuelta estás toda tú, FilisteaH5892
+- Isa_17:1Damasco dejará de ser c, y será montónH5892
+- Isa_17:2las c de Aroer están desamparadas, enH5892
+- Isa_17:9en aquel día sus c fortificadas seránH5892
+- Isa_19:2cada...c contra c, y reino contra reinoH5892
+- Isa_19:18en aquel tiempo habrá cinco c en laH5892
+- Isa_19:18juren...una será llamada la c de HerezH5892
+- Isa_22:2c turbulenta, c alegre; tus muertos noH5892, [[H7151]]
+- Isa_22:9visteis las brechas de la c de DavidH5892
+- Isa_23:7¿no era ésta...c alegre, con muchos díasH5892
+- Isa_23:16toma arpa, y rodea la c, oh rameraH5892
+- Isa_24:10quebrantada está la c por la vanidadH7151
+- Isa_24:12la c quedó desolada, y con ruina fueH5892
+- Isa_25:2porque convertiste la c en montón, laH5892
+- Isa_25:2la c fortificada en ruina; el alcázarH7151
+- Isa_25:2para que no sea c, ni nunca jamás seaH5892
+- Isa_25:3te dará gloria...temerá la c de gentesH7151
+- Isa_26:1cantarán...Fuerte c tenemos; salvaciónH5892
+- Isa_26:5derribó a los...humilló a la c exaltadaH7151
+- Isa_27:10porque la c fortificada será desoladaH5892
+- Isa_27:10la c habitada será abandonada y dejadaH5892
+- Isa_29:1¡ay de Ariel, de...c donde habitó David![[H7151]]
+- Isa_32:13en que hay alegría en la c de alegríaH7151
+- Isa_32:14desiertos, la multitud de la c cesaráH5892
+- Isa_32:19montes; y la c será del todo abatidaH5892
+- Isa_33:8aborreció las c, tuvo en nada a losH5892
+- Isa_33:20mira a Sion, c de nuestras fiestasH7151
+- Isa_36:1subió contra todas las c fortificadasH5892
+- Isa_36:15no será entregada esta c en manos delH5892
+- Isa_37:13¿dónde está...rey de la c de SefarvaimH5892
+- Isa_37:26serás para reducir las c fortificadasH5892
+- Isa_37:33del rey de Asiria: No entrará en esta cH5892
+- Isa_37:34y no entrará en esta c, dice JehováH5892
+- Isa_37:35porque yo ampararé a...c para salvarlaH5892
+- Isa_38:6te libraré a ti y a esta c...de AsiriaH5892
+- Isa_38:6de mano del rey de...a esta c ampararéH5892
+- Isa_40:9di a las c de Judá: ¡Ved aquí al DiosH5892
+- Isa_42:11alcen la voz el desierto y sus c, lasH5892
+- Isa_44:26y a las c de Judá: Reconstruidas seránH5892
+- Isa_45:13edificará mi c, y soltará mis cautivosH5892
+- Isa_48:2de la santa c se nombran, y en el DiosH5892
+- Isa_52:1vístete tu ropa...oh Jerusalén, c santaH5892
+- Isa_54:3tu descendencia...habitará las c asoladasH5892
+- Isa_60:14llamarán C de Jehová, Sion del SantoH5892
+- Isa_61:4y restaurarán las c arruinadas, losH5892
+- Isa_62:12te llamarán C Deseada, no desamparadaH5892
+- Isa_64:10tus santas c están desiertas, Sion esH5892
+- Isa_66:6voz de alboroto de la c, voz del temploH5892
+- Jer_1:15vendrán...contra todas las c de JudáH5892
+- Jer_1:18que yo te he puesto en este día como cH5892
+- Jer_2:15quemadas están sus c, sin moradorH5892
+- Jer_2:28según el número de tus c...tus diosesH5892
+- Jer_3:14os tomaré uno de cada c, y dos de cadaH5892
+- Jer_4:5decid...entrémonos en las c fortificadasH5892
+- Jer_4:7tus c quedarán asoladas y sin moradorH5892
+- Jer_4:16y lanzarán su voz contra las c de JudáH5892
+- Jer_4:26sus c eran asoladas delante de JehováH5892
+- Jer_4:29al estruendo de la gente...huyó toda la cH5892
+- Jer_4:29las c fueron abandonadas, y no quedó enH5892
+- Jer_5:6los destruirá...el leopardo acechará sus cH5892
+- Jer_5:17convertirá en nada tus c fortificadasH5892
+- Jer_6:6esta es la c que ha de ser castigadaH5892
+- Jer_7:17¿no ves lo que...hacen en las c de JudáH5892
+- Jer_7:34y haré cesar de las c de Judá, y de lasH5892
+- Jer_8:14reuníos, y entremos en...c fortificadasH5892
+- Jer_8:16devoraron...la c y a los moradores de ellaH5892
+- Jer_9:11convertiré las c de Judá en desolaciónH5892
+- Jer_10:22para convertir en soledad todas las cH5892
+- Jer_11:6pregona todas estas palabras en las c deH5892
+- Jer_11:12irán las c de Judá y los moradores deH5892
+- Jer_11:13según el número de tus c...tus diosesH5892
+- Jer_13:19las c del Neguev fueron cerradas, y noH5892
+- Jer_14:18si entro en la c, he aquí enfermos deH5892
+- Jer_15:8de repente cayesen terrores sobre la cH5892
+- Jer_17:24no metiendo carga por las puertas de...cH5892
+- Jer_17:25entrarán por las puertas de esta c, enH5892
+- Jer_17:25y esta c será habitada para siempreH5892
+- Jer_17:26vendrán de las c de Judá...de JerusalénH5892
+- Jer_19:8pondré a esta c por espanto y burla; todoH5892
+- Jer_19:11quebrantaré a este pueblo y a esta cH5892
+- Jer_19:12así haré...poniendo esta c como TofetH5892
+- Jer_19:15traigo sobre esta c...todo el mal queH5892
+- Jer_20:5entregaré...toda la riqueza de esta cH5892
+- Jer_20:16sea el tal hombre como las c que asolóH5892
+- Jer_21:4los caldeos...reuniré en medio de esta cH5892
+- Jer_21:6heriré a los moradores de esta c, y losH5892
+- Jer_21:7a los que queden de...del hambre en la cH5892
+- Jer_21:9el que quedare en esta c morirá a espadaH5892
+- Jer_21:10mi rostro he puesto contra esta c paraH5892
+- Jer_22:6te convertiré en...como c deshabitadasH5892
+- Jer_22:8muchas gentes pasarán junto aesta cH5892
+- Jer_22:8¿por qué hizo así Jehová con esta... c?[[H5892]]
+- Jer_23:39de mi presencia a vosotros y a la cH5892
+- Jer_25:18a las c de Judá y a sus reyes, y a susH5892
+- Jer_25:29la c en la cual es invocado mi nombreH5892
+- Jer_26:2a todas las c de Judá, que vienen paraH5892
+- Jer_26:6esta c la pondré por maldición a todasH5892
+- Jer_26:9c será asolada hasta no quedar moradorH5892
+- Jer_26:11porque profetizó contra esta c, comoH5892
+- Jer_26:12me envió a profetizar contra...esta cH5892
+- Jer_26:15sangre inocente echaréis...sobre esta cH5892
+- Jer_26:20Urías hijo de...profetizó contra esta cH5892
+- Jer_27:17¿por qué ha de ser desolada esta c?[[H5892]]
+- Jer_27:19de los utensilios que quedan en esta cH5892
+- Jer_29:7de la c a la cual os hice transportarH5892
+- Jer_29:16de todo el pueblo que mora en esta cH5892
+- Jer_30:18y la c será edificada sobre su colinaH5892
+- Jer_31:21virgen de Israel, vuelve a estas tus cH5892
+- Jer_31:23dirán esta palabra en...Judá y en sus cH5892
+- Jer_31:24y habitará allí Judá...sus c labradoresH5892
+- Jer_31:38la c será edificada a Jehová, desde laH5892
+- Jer_32:3aquí yo entrego esta c en mano del reyH5892
+- Jer_32:24acometido la c...y la c va a ser entregadaH5892
+- Jer_32:25la c sea entregada en manos...caldeos?[[H5892]]
+- Jer_32:28voy a entregar esta c en mano de losH5892
+- Jer_32:29vendrán los caldeos que atacan esta cH5892
+- Jer_32:31para ira mía me ha sido esta c desdeH5892
+- Jer_32:36a esta c, de la cual decís vosotrosH5892
+- Jer_32:44en las c de Judá, y...c de las montañasH5892
+- Jer_32:44c de la Sefela, y en las c del NeguevH5892
+- Jer_33:4ha dicho...acerca de las casas de esta cH5892
+- Jer_33:5escondí mi rostro de esta c a causa deH5892
+- Jer_33:10en las c de Judá y en las calles deH5892
+- Jer_33:12en todas sus c, aún habrá cabañas deH5892
+- Jer_33:13en las c de las montañas, en las c deH5892
+- Jer_33:13en las c del Neguev...en las c de JudáH5892
+- Jer_34:1peleaban contra Jerusalén...todas sus cH5892
+- Jer_34:2yo entregaré esta c al rey de BabiloniaH5892
+- Jer_34:7contra...las c de Judá...c fortificadasH5892
+- Jer_34:22haré volver a esta c...a soledad las cH5892
+- Jer_36:6todos los de Judá que vienen de sus cH5892
+- Jer_36:9que venía de las c de Judá a JerusalénH5892
+- Jer_37:8volverán los caldeos y atacarán esta cH5892
+- Jer_37:10se levantará...pondrán esta c a fuegoH5892
+- Jer_37:21hasta que...el pan de la c se gastaseH5892
+- Jer_38:2que se quedare en esta c morirá a espadaH5892
+- Jer_38:3cierto será entregada esta c en manosH5892
+- Jer_38:4hombres de guerra...quedado en esta cH5892
+- Jer_38:9morirá...porque no hay más pan en la cH5892
+- Jer_38:17c no será puesta a fuego, y vivirás túH5892
+- Jer_38:18esta c será entregada en mano de losH5892
+- Jer_38:23serás apresado, y a esta c quemará aH5892
+- Jer_39:2mes se abrió brecha en el muro de la cH5892
+- Jer_39:4huyeron y salieron de noche de la cH5892
+- Jer_39:9al resto del pueblo que había...en la cH5892
+- Jer_39:16traigo mis palabras sobre esta c paraH5892
+- Jer_40:5ha puesto sobre todas las c de JudáH5892
+- Jer_40:10y quedaos en vuestras c que habéisH5892
+- Jer_41:7llegaron dentro de la c, Ismael hijo deH5892
+- Jer_44:2el mal que traje sobre...las c de JudáH5892
+- Jer_44:6se encendió en las c de Judá y en lasH5892
+- Jer_44:17como hemos hecho...en las c de Judá yH5892
+- Jer_44:21incienso que ofrecisteis en las c deH5892
+- Jer_46:8destruiré a la c y a los que en ellaH5892
+- Jer_47:2inundarán...la c y los moradores de ellaH5892
+- Jer_48:8vendrá destruidor a cada una de las cH5892
+- Jer_48:8ninguna c escapará; se arruinará...valleH5892
+- Jer_48:9serán desiertas sus c hasta no quedarH5892
+- Jer_48:15destruido fue Moab, y sus c asoladasH5892
+- Jer_48:24y sobre todas las c de tierra de MoabH5892
+- Jer_48:28abandonad las c y habitad en peñascosH5892
+- Jer_48:41tomadas...las c, y tomadas...fortalezas
+- Jer_49:1su pueblo se ha establecido en sus c?[[H5892]]
+- Jer_49:2sus c serán puestas a fuego, e IsraelH1323
+- Jer_49:13sus c serán desolaciones perpetuasH5892
+- Jer_49:18la destrucción de Sodoma...y de sus c
+- Jer_49:25¡cómo dejaron a la c...la c de mi gozo![[H5892]], [[H7151]]
+- Jer_50:32y encenderé fuego en sus c, y quemaréH5892
+- Jer_50:40la destrucción...de Gomorra y de sus c
+- Jer_51:31para anunciar al rey...su c es tomadaH5892
+- Jer_51:43sus c fueron asoladas, la tierra secaH5892
+- Jer_52:5estuvo sitiada la c hasta el undécimoH5892
+- Jer_52:6prevaleció el hambre en la c, hasta noH5892
+- Jer_52:7abierta una brecha en el muro de la cH5892
+- Jer_52:7huyeron, y salieron de la c de noche porH5892
+- Jer_52:7aún los caldeos junto a la c alrededorH5892
+- Jer_52:15del pueblo que había quedado en la cH5892
+- Jer_52:25y de la c tomó a un oficial que eraH5892
+- Jer_52:25siete...consejeros...que estaban en la cH5892
+- Jer_52:25pueblo que se hallaron dentro de la cH5892
+- Lam_1:1¡cómo ha quedado sola la c populosa![[H5892]]
+- Lam_1:19mis sacerdotes y mis...en la c perecieronH5892
+- Lam_2:11desfallecía el niño...las plazas de la cH7151
+- Lam_2:12desfallecían como...en las calles de la cH5892
+- Lam_2:15¿es esta la c que decían de perfectaH5892
+- Lam_3:51contristaron mi alma por...hijas de mi cH5892
+- Lam_5:11violaron...las vírgenes en las c de JudáH5892
+- Eze_4:1un adobe...sobre él la c de JerusalénH5892
+- Eze_4:3ponla en lugar de muro...entre ti y la cH5892
+- Eze_5:2parte quemarás a fuego en medio de la cH5892
+- Eze_5:2la cortarás con espada alrededor de la cH5892
+- Eze_6:6serán desiertas las c, y...lugares altosH5892
+- Eze_7:15y al que esté en la c lo consumirá elH5892
+- Eze_7:23la tierra...la c está llena de violenciaH5892
+- Eze_9:1los verdugos de la c han llegado, y cadaH5892
+- Eze_9:4pasa por en medio de la c, por en medioH5892
+- Eze_9:5pasad por la c en pos de él, y matad; noH5892
+- Eze_9:7llenad los...Y salieron, y mataron en la cH5892
+- Eze_9:9la c está llena de perversidad; porqueH5892
+- Eze_10:2llena...de carbones...espárcelos sobre la cH5892
+- Eze_11:2hombres que...dan en esta c mal consejoH5892
+- Eze_11:6multiplicado vuestros muertos en esta cH5892
+- Eze_11:11la c no os será por olla, ni vosotrosH5892
+- Eze_11:23se elevó de en medio de la c, y se pusoH5892
+- Eze_11:23el monte que está al oriente de la cH5892
+- Eze_12:20y las c habitadas quedarán desiertasH5892
+- Eze_17:4llevó...lo puso en una c de comerciantesH5892
+- Eze_19:7y asoló c; y la tierra fue desolada, yH5892
+- Eze_21:19una señal...que indique la c adonde vaH5892
+- Eze_21:20contra Jerusalén, la c fortificada
+- Eze_22:2no juzgarás tú a la c derramadora deH5892
+- Eze_22:3¡ c derramadora de sangre en medio de síH5892
+- Eze_24:6, Eze_24:9ha dicho...¡Ay de la c de sangres![[H5892]]
+- Eze_25:9yo abro el lado de Moab desde las cH5892
+- Eze_25:9desde sus c que están en su confín, lasH5892
+- Eze_26:10cuando entre...como por portillos de cH5892
+- Eze_26:17c que era alabada, que era fuerte enH5892
+- Eze_26:19te convertiré en c asolada, como las cH5892
+- Eze_29:12sus c entre las c destruidas estaránH5892
+- Eze_30:7y sus c serán entre las c desiertasH5892
+- Eze_33:21vino...diciendo: La c ha sido conquistadaH5892
+- Eze_35:4a tus c asolaré, y tú serás asoladoH5892
+- Eze_35:9c nunca más se restaurarán; y sabréisH5892
+- Eze_36:4ha dicho Jehová...a las c desamparadasH5892
+- Eze_36:10y las c serán habitadas, y edificadasH5892
+- Eze_36:33haré también que sean habitadas las cH5892
+- Eze_36:35estas c que eran desiertas y asoladasH5892
+- Eze_36:38las c desiertas serán llenas de rebañosH5892
+- Eze_39:9los moradores de las c de Israel saldránH5892
+- Eze_39:16también el nombre de la c será HamonaH5892
+- Eze_40:1años después que la c fue conquistadaH5892
+- Eze_40:2había un edificio parecido a una gran cH5892
+- Eze_43:3que vi cuando vine para destruir la cH5892
+- Eze_45:6propiedad de la c señalaréis cinco milH5892
+- Eze_45:7junto a la posesión de la c, delante deH5892
+- Eze_45:7delante de la posesión de la c, desde elH5892
+- Eze_48:15para la c, para...y la c estará en medioH5892
+- Eze_48:17el ejido de la c será al norte de 250H5892
+- Eze_48:18para sembrar para los que sirven a la cH5892
+- Eze_48:19y los que sirvan a la c será de todasH5892
+- Eze_48:20reservaréis...para la posesión de la cH5892
+- Eze_48:21uno y otro lado...de la posesión de la cH5892
+- Eze_48:22y la porción de la c, entre el límiteH5892
+- Eze_48:30estas son las salidas de la c: al ladoH5892
+- Eze_48:31las puertas de la c serán según...tribusH5892
+- Eze_48:35el nombre de la c desde aquel día seráH5892
+- Dan_9:16apártese ahora tu ira...de sobre tu cH5892
+- Dan_9:18c sobre la cual es invocado tu nombreH5892
+- Dan_9:19tu nombre es invocado sobre tu c y sobreH5892
+- Dan_9:24semanas están determinadas...tu santa cH5892
+- Dan_9:26destruirá la c y el santuario; y su finH5892
+- Dan_11:15vendrá...el rey...y tomará la c fuerteH5892
+- Ose_6:8Galaad, c de hacedores de iniquidadH7151
+- Ose_8:14Judá multiplicó c fortificadas; mas yoH5892
+- Ose_8:14meteré fuego en sus c, el cual consumiráH5892
+- Ose_11:6caerá espada sobre sus c, y consumiráH5892
+- Ose_11:9porque Dios soy...y no entraré en la cH5892
+- Ose_13:10rey, para que te guarde con todas tus cH5892
+- Joe_2:9irán por la c, correrán por el muroH5892
+- Amó_3:6¿se tocará la trompeta en la c, y noH5892
+- Amó_3:6¿habrá algún mal en la c, el cual JehováH5892
+- Amó_4:6hice estar a diente limpio...vuestras cH5892
+- Amó_4:7hice llover sobre una c, y sobre otra cH5892
+- Amó_4:8venían dos o tres c a una c para beberH5892
+- Amó_5:3c que salga con mil, volverá con cientoH5892
+- Amó_5:10aborrecieron al...en la puerta de la cH5892
+- Amó_6:8entregaré al enemigo la c y cuanto hayH5892
+- Amó_7:17tu mujer será ramera en medio de la cH5892
+- Amó_9:14edificarán ellos las c asoladas, y lasH5892
+- Abd_1:20los cautivos...poseerán las c del NeguevH5892
+- Jon_1:2; Jon_3:2vé a Nínive, aquella gran c, yH5892
+- Jon_3:3era Nínive c grande en extremo, de tresH5892
+- Jon_3:4comenzó Jonás a entrar por la c, caminoH5892
+- Jon_4:5salió Jonás de la c, y acampó hacia elH5892
+- Jon_4:5Jonás...acampó hacia el oriente de la cH5892
+- Jon_4:5sentó...hasta ver qué acontecería en la cH5892
+- Jon_4:11Nínive, aquella gran c donde hay más deH5892
+- Miq_4:10ahora saldrás de la c y morarás en elH7151
+- Miq_5:11también destruir las c de tu tierra, yH5892
+- Miq_5:14arrancaré tus imágenes...destruiré tus cH5892
+- Miq_6:9la voz de Jehová clama a la c; es sabioH5892
+- Miq_7:12ti desde Asiria y las c fortificadas, yH5892
+- Miq_7:12y desde las c fortificadas hasta el RíoH4693
+- Nah_3:1ay de ti, c sanguinaria, toda llenaH5892
+- Hab_2:8, Hab_2:17de las c y de todos los que habitanH7151
+- Hab_2:12¡ay del que edifica la c con sangre, yH5892
+- Hab_2:12¡ay...del que funda una c con iniquidad![[H7151]]
+- Sof_1:16trompeta y de algazara sobre las cH5892
+- Sof_2:15esta es la c alegre que estaba confiadaH5892
+- Sof_3:1¡ay de la c rebelde y contaminada yH5892
+- Sof_3:6c están asoladas hasta no quedar hombreH5892
+- Zac_1:12no tendrás piedad...de las c de JudáH5892
+- Zac_1:17aún rebosarán mis c con la abundanciaH5892
+- Zac_7:7y sus c en sus alrededores y el NeguevH5892
+- Zac_8:3y Jerusalén se llamará C de la VerdadH5892
+- Zac_8:5y las calles de la c estarán llenas deH5892
+- Zac_8:20aún vendrán...y habitantes de muchas cH5892
+- Zac_8:21vendrán los habitantes de una c a otra
+- Zac_14:2la c será tomada, y serán saqueadas lasH5892
+- Zac_14:2la mitad de la c irá en cautiverio, masH5892
+- Zac_14:2resto del pueblo no será cortado de la cH5892
+- Mat_2:23y habitó en la c que se llama NazaretG4172
+- Mat_4:5entonces el diablo le llevó a la santa cG4172
+- Mat_4:13y habitó en Capernaum, c marítima, en
+- Mat_5:14c asentada sobre un monte no se puedeG4172
+- Mat_5:35ni por Jerusalén...es la c del gran ReyG4172
+- Mat_8:33viniendo a la c, contaron...las cosasG4172
+- Mat_8:34toda la c salió al encuentro de JesúsG4172
+- Mat_9:1entrando Jesús en la barca...vino a su cG4172
+- Mat_9:35recorría Jesús todas las c y aldeasG4172
+- Mat_10:5diciendo...c de samaritanos no entréisG4172
+- Mat_10:11en cualquier c o aldea donde entréisG4172
+- Mat_10:14salid de aquella casa o c, y sacudidG4172
+- Mat_10:15será más tolerable...que para aquella cG4172
+- Mat_10:23cuando os persigan en esta c, huid aG4172
+- Mat_10:23no acabaréis de recorrer...c de IsraelG4172
+- Mat_11:1se fue de allí...a predicar en las c deG4172
+- Mat_11:20reconvenir a las c en las cuales habíaG4172
+- Mat_12:25toda c o casa dividida contra sí mismaG4172
+- Mat_14:13la gente...le siguió a pie desde las cG4172
+- Mat_21:10la c se conmovió, diciendo: ¿Quién esG4172
+- Mat_21:17y dejándolos, salió fuera de la c, aG4172
+- Mat_21:18mañana, volviendo a la c, tuvo hambreG4172
+- Mat_22:7al oírlo el rey, se enojó...y quemó su cG4172
+- Mat_23:34azotaréis...y perseguiréis de c en cG4172
+- Mat_26:18id a la c a cierto hombre, y decidleG4172
+- Mat_27:53vinieron a la santa c, y aparecieron aG4172
+- Mat_28:11guardia fueron a la c, y dieron avisoG4172
+- Mar_1:33y toda la c se agolpó a la puertaG4172
+- Mar_1:45ya Jesús no podía entrar...en la c, sinoG4172
+- Mar_5:14y dieron aviso en la c y en los camposG4172
+- Mar_6:11será más tolerable...que para aquella cG4172
+- Mar_6:33muchos fueron allá a pie desde las cG4172
+- Mar_6:56c o campos, ponían en las calles a losG4172
+- Mar_11:19llegar la noche, Jesús salió de la cG4172
+- Mar_14:13id a la c, y os saldrá...un hombre queG4172
+- Mar_14:16entraron en la c, y hallaron como lesG4172
+- Luc_1:26Gabriel fue enviado por Dios a una cG4172
+- Luc_1:39María, fue de prisa a...a una c de JudáG4172
+- Luc_2:3iban todos para ser empadronados...su cG4172
+- Luc_2:4José subió...de la c de Nazaret...a la cG4172
+- Luc_2:11que os ha nacido hoy, en la c de DavidG4172
+- Luc_2:39volvieron a Galilea, a su c de NazaretG4172
+- Luc_4:29le echaron fuera de la c, y le llevaronG4172
+- Luc_4:29sobre el cual estaba edificada la c deG4172
+- Luc_4:31descendió...a Capernaum, c de GalileaG4172
+- Luc_4:43también a otras c anuncie el evangelioG4172
+- Luc_5:12en una de las c, se presentó un hombreG4172
+- Luc_7:11él iba a la c que se llama Naín, e ibanG4172
+- Luc_7:12cuando llegó cerca de la puerta de la cG4172
+- Luc_7:12y había con ella mucha gente de la cG4172
+- Luc_7:37una mujer de la c, que era pecadora, alG4172
+- Luc_8:1que Jesús iba por todas las c y aldeasG4172
+- Luc_8:4los que de cada c venían a él, les dijoG4172
+- Luc_8:27vino...un hombre de la c, endemoniadoG4172
+- Luc_8:34dieron aviso en la c y por los camposG4172
+- Luc_8:39publicando por toda la c cuán grandesG4172
+- Luc_9:5salid de aquella c, y sacudid el polvoG4172
+- Luc_9:10se retiró...a un lugar desierto de la cG4172
+- Luc_10:1envió...a toda c y lugar adonde él habíaG4172
+- Luc_10:8cualquier c donde entréis, y os recibanG4172
+- Luc_10:10en...c donde entréis, y no os recibanG4172
+- Luc_10:11aun el polvo de vuestra c...sacudimosG4172
+- Luc_10:12será más tolerable...que para aquella cG4172
+- Luc_13:22pasaba Jesús por c y aldeas, enseñandoG4172
+- Luc_14:21por las...calles de la c, y trae acá aG4172
+- Luc_18:2había en una c un juez, que ni temía aG4172
+- Luc_18:3también en aquella c una viuda, la cualG4172
+- Luc_19:1Jesús en Jericó, iba pasando por la c
+- Luc_19:17fiel, tendrás autoridad sobre diez cG4172
+- Luc_19:19a este dijo...también sé sobre cinco cG4172
+- Luc_19:41cuando llegó cerca de la c, al verlaG4172
+- Luc_22:10entrar en la c os saldrá al encuentroG4172
+- Luc_23:19en la cárcel por sedición en la c, y porG4172
+- Luc_23:50llamado José, de Arimatea, c de Judea
+- Luc_24:49quedaos vosotros en la c de JerusalénG4172
+- Jua_1:44de Betsaida, la c de Andrés y PedroG4172
+- Jua_4:5vino...a una c de Samaria llamada SicarG4172
+- Jua_4:8discípulos habían ido a la c a comprarG4172
+- Jua_4:28la mujer dejó su cántaro, y fue a la cG4172
+- Jua_4:30entonces salieron de la c, y vinieron aG4172
+- Jua_4:39los samaritanos de aquella c creyeronG4172
+- Jua_11:54alejó de allí...a una c llamada EfraínG4172
+- Jua_19:20el lugar donde...estaba cerca de la cG4172
+- Hec_4:27se unieron en esta c contra tu santo
+- Hec_5:16y aun de las c vecinas muchos venían aG4172
+- Hec_7:58echándole fuera de la c, le apedrearonG4172
+- Hec_8:5Felipe, descendiendo a la c de SamariaG4172
+- Hec_8:8así que había gran gozo en aquella cG4172
+- Hec_8:9que antes ejercía la magia en aquella cG4172
+- Hec_8:40anunciaba el evangelio en todas las cG4172
+- Hec_9:6en la c, y se te dirá lo que debes hacerG4172
+- Hec_10:9se acercaban a la c, Pedro subió a laG4172
+- Hec_11:5estaba yo en la c de Jope orando, y viG4172
+- Hec_12:10a la puerta de hierro que daba a la cG4172
+- Hec_13:44se juntó casi toda la c para oír laG4172
+- Hec_13:50instigaron...a los principales de la cG4172
+- Hec_14:4la gente de la c estaba dividida; unosG4172
+- Hec_14:6huyeron a Listra y Derbe, c de LicaoniaG4172
+- Hec_14:13Júpiter...templo estaba frente a la cG4172
+- Hec_14:19le arrastraron fuera de la c, pensandoG4172
+- Hec_14:20se levantó y entró en la c; y al díaG4172
+- Hec_14:21de anunciar el evangelio a aquella cG4172
+- Hec_15:21porque Moisés...tiene en cada c quienG4172
+- Hec_15:36visitar a los hermanos en todas las cG4172
+- Hec_16:4al pasar por las c, les entregaban lasG4172
+- Hec_16:12que es la primera c de la provincia deG4172
+- Hec_16:12y estuvimos en aquella c algunos díasG4172
+- Hec_16:14una mujer...Lidia...de la c de TiatiraG4172
+- Hec_16:20estos hombres...alborotan nuestra cG4172
+- Hec_16:39les pidieron que salieran de la cG4172
+- Hec_17:5alborotaron la c; y asaltando la casaG4172
+- Hec_17:6a Jasón...ante las autoridades de la cG4173
+- Hec_17:8alborotaron...a las autoridades de la cG4173
+- Hec_17:16se enardecía viendo la c entregada aG4172
+- Hec_18:10porque yo tengo mucho pueblo en...cG4172
+- Hec_19:29la c se llenó de confusión, y a unaG4172
+- Hec_19:35que no sabe que la c de los efesios esG4172
+- Hec_20:23que...por todas las c me da testimonioG4172
+- Hec_21:5acompañándonos...hasta fuera de la cG4172
+- Hec_21:29habían visto con él en la c a TrófimoG4172
+- Hec_21:30toda la c se conmovió, y se agolpó elG4172
+- Hec_21:31la c de Jerusalén estaba alborotada
+- Hec_21:39de una c no insignificante de CiliciaG4172
+- Hec_22:3nacido en Tarso...pero criado en esta c
+- Hec_24:12templo, ni en las sinagogas ni en la cG4172
+- Hec_25:23con los...principales hombres de la cG4172
+- Hec_26:11los perseguí hasta en las c extranjerasG4172
+- Hec_27:5Panfilia, arribamos a Mira, c de Licia
+- Hec_27:8cerca del cual estaba la c de LaseaG4172
+- Rom_16:23os saluda Erasto, tesorero de la cG4172
+- 2Co_11:26peligros en la c...en el desiertoG4172
+- 2Co_11:32el gobernador de la...guardaba la c deG4172
+- Tit_1:5establecieses ancianos en cada c, asíG4172
+- Heb_11:10esperaba la c que tiene fundamentosG4172
+- Heb_11:16Dios de ellos...les ha preparado una cG4172
+- Heb_12:22habéis acercado...a la c del Dios vivoG4172
+- Heb_13:14porque no tenemos aquí c permanenteG4172
+- Stg_4:13iremos a tal c, y estaremos allá unG4172
+- 2Pe_2:6y si condenó...a las c de Sodoma y deG4172
+- Jud_1:7como Sodoma y Gomorra y las c vecinasG4172
+- Rev_3:12nombre de la c de mi Dios, la nuevaG4172
+- Rev_11:2y ellos hollarán la c santa 42 mesesG4172
+- Rev_11:8sus cadáveres estarán en...la grande cG4172
+- Rev_11:13y la décima parte de la c se derrumbóG4172
+- Rev_14:8ha caído Babilonia, la gran c, porqueG4172
+- Rev_14:20y fue pisado el lagar fuera de la cG4172
+- Rev_16:19la gran c fue dividida en tres partesG4172
+- Rev_16:19y las c de las naciones cayeron; y laG4172
+- Rev_17:18y la mujer que has visto en la gran cG4172
+- Rev_18:10¡ay, ay, de la gran c de...la c fuerteG4172
+- Rev_18:16¡ay de la gran c, que estaba vestidaG4172
+- Rev_18:18¿qué c era semejante a esta gran c?[[G4172]]
+- Rev_18:19ay, ay de la gran c, en la cual todosG4172
+- Rev_18:21será derribada Babilonia, la gran cG4172
+- Rev_20:9rodearon el campamento...y la c amadaG4172
+- Rev_21:2Juan vi la santa c, la nueva JerusalénG4172
+- Rev_21:10mostró la gran c santa de JerusalénG4172
+- Rev_21:14el muro de la c tenía doce cimientosG4172
+- Rev_21:15tenía una caña...oro, para medir la cG4172
+- Rev_21:16la c se halla establecida en cuadroG4172
+- Rev_21:16midió la c con la...doce mil estadiosG4172
+- Rev_21:18pero la c era de oro puro, semejanteG4172
+- Rev_21:19cimientos del muro de la c...adornadosG4172
+- Rev_21:21y la calle de la c era de oro puroG4172
+- Rev_21:23la c no tiene necesidad de sol ni deG4172
+- Rev_22:2en medio de la calle de la c...el árbol
+- Rev_22:14y para entrar por las puertas en la cG4172
+- Rev_22:19del libro de la vida, y de la santa cG4172

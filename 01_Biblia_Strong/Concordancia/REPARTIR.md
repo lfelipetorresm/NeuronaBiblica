@@ -1,0 +1,94 @@
+---
+tipo: concordancia
+palabra: REPARTIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REPARTIR
+
+- Gén_2:10de allí se repartía en cuatro brazosH6504
+- Gén_10:25en sus días fue repartida la tierra; y elH6385
+- Gén_33:1repartió él los niños entre Lea y RaquelH2673
+- Gén_49:27lobo...a la tarde repartirá los despojosH2505
+- Éxo_15:9apresaré, repartiré despojos; mi almaH2505
+- Núm_26:53entre éstos se repartirá la tierra enH2505
+- Núm_26:55pero la tierra será repartida por suerteH2505
+- Núm_26:56conforme a la suerte será repartida suH2505
+- Núm_34:13esta es la tierra que se os repartirá
+- Núm_34:17los varones que os repartirán la tierraH5187
+- Jos_1:6repartirás a este pueblo por heredad
+- Jos_13:6repartirás tú...el país a los israelitasH5307
+- Jos_13:7reparte, pues, ahora esta tierra...a lasH2505
+- Jos_13:32es lo que Moisés repartió en heredad enH5157
+- Jos_14:1repartieron el sacerdote Eleazar, JosuéH5157
+- Jos_18:2tribus...no habían repartido su posesiónH2505
+- Jos_18:10y allí repartió Josué la tierra a losH2505
+- Jos_19:49que acabaron de repartir la tierra enH2505
+- Jos_19:51en Silo...acabaron de repartir la tierraH2505
+- Jos_23:4os he repartido por suerte, en herenciaH5307
+- Jue_5:30han hallado...y lo están repartiendo?[[H2505]]
+- Jue_7:16y repartiendo los 300 hombres en tresH2673
+- Jue_9:43la repartió en tres compañías, y pusoH2673
+- 2Sa_6:19repartió a todo el pueblo, y a todaH2505
+- 1Cr_6:60ciudades, repartidas por sus linajes
+- 1Cr_16:3repartió a...a cada uno una torta de panH2505
+- 1Cr_23:6los repartió David en grupos conforme aH2505
+- 1Cr_24:3David...los repartió por sus turnos en elH2505
+- 1Cr_24:4repartieron así: de los hijos de EleazarH2505
+- 1Cr_24:5repartieron, pues, por suerte los unosH2505
+- 1Cr_26:31jefe de los hebronitas repartidos en su
+- 2Cr_35:13y lo repartieron...a todo el puebloH7323
+- Neh_9:22diste...y los repartiste por distritosH2505
+- Neh_13:13ellos tenían que repartir a sus hermanosH2505
+- Job_21:17Dios en su ira les reparte dolores![[H2305]]
+- Job_27:17justo...y el inocente repartirá la plataH2505
+- Job_38:24¿por qué camino se reparte la luz, y seH2505
+- Job_38:25repartió conducto al turbión, y caminoH6385
+- Job_41:6¿lo repartirán entre los mercaderes?[[H2673]]
+- Sal_22:18repartieron entre sí mis vestidosH2505
+- Sal_60:6repartiré a Siquem, y mediré el valle deH2505
+- Sal_68:12que se quedaban...repartían los despojosH2505
+- Sal_78:55repartió sus tierras en heredad, e hizoH5307
+- Sal_108:7repartiré a Siquem, y mediré el valleH2505
+- Sal_112:9reparte, da a los pobres; su justiciaH6340
+- Pro_11:24quienes reparten, y les es añadidoH6340
+- Pro_16:19repartir despojos con los soberbiosH2505
+- Ecl_11:2reparte a siete, y aun a ocho; porqueH5414
+- Isa_7:6vamos, y repartámosla entre nosotrosH1234
+- Isa_9:3como se gozan cuando reparten despojosH2505
+- Isa_23:8esto sobre Tiro, la que repartía coronasH5849
+- Isa_33:23se repartirá...botín de muchos despojosH2505
+- Isa_34:17su mano les repartió con cordel; paraH2505
+- Isa_53:12y con los fuertes repartirá despojosH5312
+- Lam_4:4pidieron pan, y no hubo...lo repartieseH6566
+- Eze_45:1cuando repartáis por suertes la tierraH5307
+- Eze_47:13los límites en que repartiréis la tierra
+- Eze_47:21repartiréis...esta tierra entre vosotrosH2505
+- Eze_48:29esta es la tierra que repartiréis porH3307
+- Dan_11:4reino será quebrantando y repartidoH2673
+- Dan_11:24botín, despojos y riquezas repartirá aH967
+- Dan_11:39hará...y por precio repartirá la tierraH2505
+- Joe_3:2esparcieron...y repartieron mi tierraH2505
+- Amó_7:17tu tierra será repartida por suertesH2505
+- Miq_2:4nos quitó...dio y los repartió a otrosH2505
+- Miq_2:5no habrá quien...reparta heredades en la
+- Zac_14:1de ti serán repartidos tus despojosH2505
+- Mat_27:35repartieron entre sí sus vestidosG1266
+- Mar_6:41y repartió los dos peces entre todosG3307
+- Mar_15:24repartieron entre sí sus vestidosG1266
+- Luc_11:22quita todas sus, y reparte el botínG1239
+- Luc_15:12padre, dame...y les repartió los bienesG1244
+- Luc_22:17tomad esto, y repartidlo entre vosotrosG1266
+- Luc_23:34y repartieron entre sí sus vestidosG1266
+- Jua_6:11habiendo dado gracias, los repartióG1239
+- Jua_19:24repartieron entre sí mis vestidos, yG1266
+- Hec_2:3se les aparecieron lenguas repartidas
+- Hec_2:45y vendían sus...y lo repartían a todosG1266
+- Hec_4:35repartía a cada uno según su necesidadG1239
+- Rom_12:3medida de fe que Dios repartió a cadaG3307
+- Rom_12:8el que reparte, con liberalidad; el queG3330
+- 1Co_7:17cada uno como el Señor le repartióG3307
+- 1Co_12:11repartiendo a cada uno en particularG1244
+- 1Co_13:3si repartiese todos mis bienes para darG5595
+- 2Co_9:9escrito: Repartió, dio a los pobresG1325

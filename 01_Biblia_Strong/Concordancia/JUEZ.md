@@ -1,0 +1,97 @@
+---
+tipo: concordancia
+palabra: JUEZ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUEZ
+
+- Gén_18:25j...no ha de hacer lo que es justo?[[H8199]]
+- Gén_19:9vino este...¿y habrá de erigirse en j?[[H8199]]
+- Éxo_2:14¿quién te ha puesto a ti por...j sobreH8199
+- Éxo_21:6su amo lo llevará ante los j, y le haráH430
+- Éxo_21:22penados conforme a lo...juzgaren los jH6414
+- Éxo_22:8el dueño de la casa...presentado a los jH430
+- Éxo_22:9causa de ambos vendrá delante de los jH430
+- Éxo_22:9que los j condenaren, pagará el dobleH430
+- Éxo_22:28no injuriarás a los j, ni maldecirásH5387
+- Núm_25:5Moisés dijo a los j de Israel: MatadH8199
+- Deu_1:16entonces mandé a vuestros j, diciendoH8199
+- Deu_16:18j...pondrás en todas tus ciudades queH8199
+- Deu_17:9vendrás...al j que hubiere en aquellosH8199
+- Deu_17:12no obedeciendo...o al j, el tal moriráH8199
+- Deu_19:17los sacerdotes y de los j que hubiereH8199
+- Deu_19:18j inquirirán bien; y si aquel testigoH8199
+- Deu_21:2j saldrán y medirán la distancia hastaH8199
+- Deu_25:1y acudieren...para que los j los juzguenH8199
+- Deu_25:2el j le hará echar en tierra, y le haráH8199
+- Deu_32:31aun nuestros enemigos son de ellos jH6414
+- Jos_8:33Israel, con sus...j, estaba de pie aH8199
+- Jos_23:2llamó a todo Israel...j y sus oficialesH8199
+- Jos_24:1reunió Josué a...sus j y sus oficialesH8199
+- Jue_2:16Jehová levantó j que los librasen deH8199
+- Jue_2:17pero tampoco oyeron a sus j, sino queH8199
+- Jue_2:18les levantaba j, Jehová estaba con el jH8199
+- Jue_2:18los libraba...todo el tiempo de aquel jH8199
+- Jue_2:19al morir el j, ellos volvían atrás, yH8199
+- Jue_11:27Jehová, que es el j, juzgue hoy entreH8199
+- Rut_1:1en los días que gobernaban los j, queH8199
+- 1Sa_2:25si pecare el hombre...j le juzgaránH6419
+- 1Sa_8:1Samuel...a sus hijos por j sobre IsraelH8199
+- 1Sa_8:2fue Joel, y...Abías; y eran j en BeersebaH8199
+- 1Sa_24:15Jehová...será j, y él juzgará entre tú yH1781
+- 2Sa_7:11el día en que puse j sobre...IsraelH8199
+- 2Sa_15:4Absalón: ¡Quién me pusiera por j en laH8199
+- 2Re_23:22los tiempos en que los j gobernabanH8199
+- 1Cr_17:6¿hablé...palabra a alguno de los jH8199
+- 1Cr_17:10que puse los j sobre mi pueblo IsraelH8199
+- 1Cr_23:4éstos...seis mil para gobernadores y jH8199
+- 1Cr_26:29Quenanías y sus...eran gobernadores y jH8199
+- 2Cr_1:2convocó Salomón a todo Israel...a jH8199
+- 2Cr_19:5puso j en todas las ciudades...de JudáH8199
+- 2Cr_19:6y dijo a los j: Mirad lo que hacéisH8199
+- Esd_4:9escribieron Rehum...j, gobernadores yH2942, [[H1169]]
+- Esd_7:25pon j y gobernadores que gobiernen aH1782
+- Esd_10:14vengan...y con ellos...y los j de ellasH8199
+- Job_9:15aunque fuese...habría de rogar a mi jH8199
+- Job_9:24él cubre el rostro de sus j. Si no esH8199
+- Job_12:17a los consejeros, y entontece a los jH8199
+- Job_23:7allí...yo escaparía para siempre de mi jH8199
+- Job_31:11es maldad...que han de castigar los jH6414
+- Sal_2:10admitid amonestación, j de la tierraH8199
+- Sal_7:11Dios es j justo, y Dios está airadoH8199
+- Sal_50:6declararán su justicia...Dios es el jH8199
+- Sal_75:7Dios es el j; a éste humilla, y a aquélH8199
+- Sal_94:2engrandécete, oh j de la tierra; da elH8199
+- Sal_141:6despeñados sus j, y oirán mis palabrasH8199
+- Sal_148:11príncipes y todos los j de la tierraH8199
+- Isa_1:26restauraré tus j como al principio, yH8199
+- Isa_3:2j y el profeta, el adivino y el ancianoH1777
+- Isa_33:22porque Jehová es nuestro j, Jehová esH8199
+- Jer_25:31él es el j de toda carne; entregaráH8199
+- Dan_3:2-3j, y todos los gobernadores de lasH148
+- Dan_7:10el j se sentó, y los libros...abiertosH1780
+- Dan_7:26pero se sentará el j, y le quitarán suH1780
+- Ose_7:7devoraron a sus j; cayeron todos susH8199
+- Ose_13:10y tus j, de los cuales dijiste: DameH8199
+- Amó_2:3y quitaré el j de en medio de él, yH8199
+- Miq_5:1herirán en la mejilla al j de IsraelH8199
+- Miq_7:3el j juzga por recompensa; y el grandeH8199
+- Sof_3:3j, lobos nocturnos que no dejan huesoH8199
+- Mat_5:25te entregue al j, y el j al alguacilG2923
+- Mat_12:27; Luc_11:19por...ellos serán vuestros jG2923
+- Luc_12:14¿quién me ha puesto...j o partidor?[[G1348]]
+- Luc_12:58te arrastre al j, y el j te entregueG2923
+- Luc_18:2había...un j, que ni temía a Dios, niG2923
+- Luc_18:6dijo el...oíd lo que dijo el j injustoG2923
+- Hec_7:27, Hec_7:35¿quién te ha puesto por...y jG2919, [[G1348]]
+- Hec_10:42él es el que Dios ha puesto por j deG2923
+- Hec_13:20después...dio j hasta el profeta SamuelG2923
+- Hec_18:15yo no quiero ser j de estas cosasG2923
+- Hec_24:10hace muchos años eres j de esta naciónG2923
+- 2Ti_4:8la cual me dará el Señor, j justoG2923
+- Heb_12:23Dios el j de todos, a los espíritusG2923
+- Stg_2:4venís a ser j con malos pensamientos?[[G2923]]
+- Stg_4:11ley, no eres hacedor de la ley, sino jG2923
+- Stg_5:9he aquí, el j está delante de la puertaG2923

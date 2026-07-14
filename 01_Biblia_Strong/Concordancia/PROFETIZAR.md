@@ -1,0 +1,156 @@
+---
+tipo: concordancia
+palabra: PROFETIZAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PROFETIZAR
+
+- Núm_11:25sobre ellos el espíritu, profetizaronH5012
+- Núm_11:26Eldad y...profetizaron en el campamentoH5012
+- Núm_11:27Eldad y...profetizan en el campamentoH5012
+- 1Sa_10:5una compañia de profetas...profetizandoH5012
+- 1Sa_10:6profetizarás con ellos, y serás mudadoH5012
+- 1Sa_10:10el espíritu de Dios vino...y profetizóH5012
+- 1Sa_10:11vieron que profetizaba con los profetasH5012
+- 1Sa_10:13y cesó de profetizar, y llegó al lugarH5012
+- 1Sa_19:20compañia de profetas que profetizabanH5012
+- 1Sa_19:20los mensajeros de...también profetizaronH5012
+- 1Sa_19:21otros mensajeros...también profetizaronH5012
+- 1Sa_19:21por tercera vez...también profetizaronH5012
+- 1Sa_19:23siguió...profetizando hasta que llegó aH5012
+- 1Sa_19:24también...profetizó...delante de SamuelH5012
+- 1Re_22:8por que nunca me profetiza bien, sinoH5012
+- 1Re_22:10todos los profetas profetizaban delanteH5012
+- 1Re_22:12los profetas profetizaban de la mismaH5012
+- 1Re_22:18ninguna cosa buena profetizará...de míH5012
+- 2Re_23:16había profetizado el varón de DiosH7121
+- 2Re_23:17varón de Dios...y profetizó estas cosasH7121
+- 1Cr_25:1hijos de Asaf...para que profetizasenH5012
+- 1Cr_25:2el cual profetizaba bajos las órdenes delH5012
+- 1Cr_25:3Jedutún, el cual profetizaba con arpaH5012
+- 2Cr_18:7nunca me profetiza cosa buena, sinoH5012
+- 2Cr_18:9profetas profetizaban delante de ellosH5012
+- 2Cr_18:11profetizaban...profetas, diciendo: SubeH5012
+- 2Cr_18:17que no me profetizaría bien, sino mal?[[H5012]]
+- 2Cr_20:37Eliezer hijo...profetizó contra JosafatH5012
+- Esd_5:1profetizaron Hageo y Zacarías hijo deH5013
+- Isa_30:10dicen: No nos profeticéis lo rectoH2372
+- Isa_30:10cosas halagüeñas, profetizad mentirasH2372
+- Jer_2:8profetizaron en nombre de Baal, yH5012
+- Jer_5:31los profetas profetizaron mentira, y losH5012
+- Jer_11:21no profetices en nombre de Jehová, paraH5012
+- Jer_14:14falsamente profetizan los profetas enH5012
+- Jer_14:14y engaño de su corazón os profetizanH5012
+- Jer_14:15profetas que profetizan en mi nombreH5012
+- Jer_14:16pueblo a quien profetizan será echadoH5012
+- Jer_19:14de Tofet, adonde le envió...a profetizarH5012
+- Jer_20:1Pasur...oyó a Jeremías que profetizabaH5012
+- Jer_20:6a los cuales has profetizado con mentiraH5012
+- Jer_23:13profetizaban en nombre de Baal...errarH5012
+- Jer_23:16no escuchéis las palabras...profetizanH5012
+- Jer_23:21no les hablé, mas ellos profetizabanH5012
+- Jer_23:25profetizando mentira en mi nombre...soñéH5012
+- Jer_23:26profetizan mentira, y que p el engañoH5012
+- Jer_23:32estoy contra los que profetizan sueñosH5012
+- Jer_25:13profetizado por Jeremías contra todasH5012
+- Jer_25:30profetizarás contra ellos todas estasH5012
+- Jer_26:9¿por qué has profetizado en nombre deH5012
+- Jer_26:11porque profetizó contra esta ciudadH5012
+- Jer_26:12Jehová me envió a profetizar contraH5012
+- Jer_26:18Miqueas...profetizó en tiempo de...reyH5012
+- Jer_26:20un hombre que profetizaba...Urías hijoH5012
+- Jer_26:20el cual profetizó contra esta ciudadH5012
+- Jer_27:10ellos...profetizan mentira, para hacerosH5012
+- Jer_27:14no oigáis las...os profetizan mentiraH5012
+- Jer_27:15ellos profetizan falsamente en mi nombreH5012
+- Jer_27:15perezcáis vosotros y...que os profetizanH5012
+- Jer_27:16profetas que os profetizan...p mentiraH5012
+- Jer_28:6profetizaste que los utensilios de laH5012
+- Jer_28:8los profetas que...profetizaron guerraH5012
+- Jer_28:9el profeta que profetiza de paz, cuandoH5012
+- Jer_29:9porque falsamente os profetizan ellos enH5012
+- Jer_29:21os profetizan falsamente en mi nombreH5012
+- Jer_29:26hombre loco que profetice, poniéndoloH5012
+- Jer_29:27Jeremías de Anatot, que os profetiza?[[H5012]]
+- Jer_29:31profetizó Semaías, y yo no lo envié, yH5012
+- Jer_32:3¿por qué profetizas tú diciendo: Así haH5012
+- Jer_37:19vuestros profetas que os profetizabanH5012
+- Eze_4:7y descubierto tu brazo, profetizarásH5012
+- Eze_6:2tu rostro hacia los montes...y profetizaH5012
+- Eze_11:4por tanto profetiza contra ellos; p, hijoH5012
+- Eze_11:13aconteció que mientras yo profetizabaH5012
+- Eze_12:27es...para lejanos tiempos profetiza ésteH5012
+- Eze_13:2profetiza contra los...que profetizan, yH5012
+- Eze_13:2los que profetizan de su propio corazónH5012
+- Eze_13:16los profetas de Israel que profetizanH5012
+- Eze_13:17las hijas de tu pueblo que profetizanH5012
+- Eze_13:17pon tu rostro...profetiza contra ellasH5012
+- Eze_20:46profetiza contra el bosque del NeguevH5012
+- Eze_21:2y profetiza contra la tierra de IsraelH5012
+- Eze_21:9profetiza, y di...La espada está afiladaH5012
+- Eze_21:14profetiza, y bate una mano contra otraH5012
+- Eze_21:28profetiza, y di...de los hijos de AmónH5012
+- Eze_21:29profetizan vanidad...adivinan mentira
+- Eze_22:28profetizándoles vanidad y adivinándoles
+- Eze_25:2hijos de Amón, y profetiza contra ellosH5012
+- Eze_28:21pon tu rostro hacia Sidón, y profetizaH5012
+- Eze_29:2y profetiza contra él y contra...EgiptoH5012
+- Eze_30:2profetiza, y di: Así ha dicho Jehová elH5012
+- Eze_34:2profetiza contra los pastores...p, y diH5012
+- Eze_35:2el monte de Seir, y profetiza contra élH5012
+- Eze_36:1profetiza a los montes de Israel, y diH5012
+- Eze_36:3profetiza...y di: Así ha dicho Jehová elH5012
+- Eze_36:6profetiza sobre la tierra de Israel, yH5012
+- Eze_37:4profetiza sobre estos huesos, y dilesH5012
+- Eze_37:7profeticé, pues, como me fue mandadoH5012
+- Eze_37:7hubo un ruido mientras yo profetizabaH5012
+- Eze_37:9profetiza al espíritu, p...Espíritu, venH5012
+- Eze_37:10y profeticé como me había mandado, yH5012
+- Eze_37:12profetiza, y diles...os haré subir deH5012
+- Eze_38:2pon tu rostro contra Gog...y profetizaH5012
+- Eze_38:14profetiza, hijo de hombre, y di a GogH5012
+- Eze_38:17profetizaron...que yo te había de traerH5012
+- Eze_39:1tú...profetiza contra Gog, y di: Así haH5012
+- Joe_2:28profetizarán...hijos y vuestras hijasH5012
+- Amó_1:1Amos...que profetizó acerca de Israel en
+- Amó_2:12mandasteis diciendo: No profeticéisH5012
+- Amó_3:8si habla Jehová...¿quién no profetizará?[[H5012]]
+- Amó_7:12de Judá, y come allá tu pan, y profetizaH5012
+- Amó_7:13y no profetices más en Bet-el, porque esH5012
+- Amó_7:15dijo: Ve y profetiza a mi pueblo IsraelH5012
+- Amó_7:16tú dices: No profetices contra IsraelH5012
+- Miq_2:6no profeticéis...a los que profetizanH5197
+- Miq_2:6no les profeticen, porque no...vergüenzaH5197
+- Miq_2:11te profetizaré de vino y de sidra; ésteH5197
+- Zac_13:3que cuando alguno profetizare aún, leH5197
+- Zac_13:3padre...le traspasarán cuando profetizareH5197
+- Zac_13:4se avergonzarán de...cuando profetizarenH4395
+- Mat_7:22Señor, ¿no profetizamos en tu nombreG4395
+- Mat_11:13los profetas y la ley profetizaron hastaG4395
+- Mat_15:7bien profetizó de vosotros Isaías...dijoG4395
+- Mat_26:68profetízanos, Cristo, quién...te golpeóG4395
+- Mar_7:6bien profetizó de vosotros Isaías, comoG4395
+- Mar_14:65de puñetazos, y a decirle: ProfetizaG4395
+- Luc_1:67Zacarías su padre...profetizó, diciendoG4395
+- Luc_22:64profetiza, ¿quién es el que te golpeó?[[G4395]]
+- Jua_11:51profetizó que Jesús había de morirG4395
+- Hec_2:17hijos y vuestras hijas profetizaránG4395
+- Hec_2:18derramaré...mi Espíritu, y profetizaránG4395
+- Hec_19:6y hablaban en lenguas, y profetizabanG4395
+- Hec_21:9cuatro hijas doncellas que profetizabanG4395
+- 1Co_11:4todo varón que ora o profetiza conG4395
+- 1Co_13:9en parte conocernos...y en...profetizamosG4395
+- 1Co_14:1dones...pero sobre todo que profeticéisG4395
+- 1Co_14:3el que profetiza habla a los hombres paraG4395
+- 1Co_14:4el que profetiza, edifica a la iglesiaG4395
+- 1Co_14:5en lenguas, pero más que profetizaseisG4395
+- 1Co_14:5porque mayor es el que profetiza que elG4395
+- 1Co_14:24pero si todos profetizan, y entra algúnG4395
+- 1Co_14:31porque podéis profetizar todos uno porG4395
+- 1Co_14:39así que, hermanos, procurad profetizarG4395
+- 1Pe_1:10los profetas que profetizaron de laG4395
+- Jud_1:14también profetizó Enoc, séptimo desdeG4395
+- Rev_10:11profetices otra vez sobre...pueblosG4395
+- Rev_11:3daré a mis dos testigos que profeticenG4395

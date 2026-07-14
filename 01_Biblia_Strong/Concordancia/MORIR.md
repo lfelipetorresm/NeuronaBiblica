@@ -1,0 +1,665 @@
+---
+tipo: concordancia
+palabra: MORIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MORIR
+
+- Véase también Matar, Muerto
+- Gén_2:17el día que de él comieres...morirásH4191
+- Gén_3:3no comeréis de él...para que no muráisH4191
+- Gén_3:4serpiente dijo a la mujer: No moriréisH4191
+- Gén_5:5días que vivió Adán 930 años; y murióH4191
+- Gén_5:8todos los días de Set 912 años; y murióH4191
+- Gén_5:11todos los días de Enós 905 años; y murióH4191
+- Gén_5:14los días de Cainán 910 años; y murióH4191
+- Gén_5:17los días de Mahalaleel 895 años; y murióH4191
+- Gén_5:20los días de Jared 962 años; y murióH4191
+- Gén_5:27los días de Matusalén 969 años; y murióH4191
+- Gén_5:31los días de Lamec 777 años; y murióH4191
+- Gén_6:17todo lo que hay en la tierra moriráH1478
+- Gén_7:21murió toda carne que se mueve sobre laH1478
+- Gén_7:22todo lo que había en la tierra, murióH4191
+- Gén_9:29fueron...días de Noé 950 años; y murióH4191
+- Gén_11:28murió Harán antes que su padre Taré enH4191
+- Gén_11:32los días de Taré 205 años; y murió TaréH4191
+- Gén_18:25que hagas morir al justo con el impíoH4191
+- Gén_19:19no sea que me alcance el mal, y mueraH4191
+- Gén_20:7sabe que de cierto morirás tú, y todosH4191
+- Gén_21:16no veré cuando el muchacho mueraH4194
+- Gén_23:2y murió Sara en Quiriat-arba, que esH4191
+- Gén_25:8murió Abraham en buena vejez, ancianoH4191
+- Gén_25:11muerto Abraham...Dios bendijo a IsaacH4194
+- Gén_25:17exhaló el espíritu Ismael, y murió, yH4191
+- Gén_25:18murió en presencia de...sus hermanosH5307
+- Gén_25:32he aquí yo me voy a morir; ¿para quéH4191
+- Gén_26:9dije: Quizá moriré por causa de ellaH4191
+- Gén_26:11el que tocare a este hombre o...moriráH4191
+- Gén_27:4para que yo te bendiga antes que mueraH4191
+- Gén_27:7coma, y te bendiga...antes que yo mueraH4194
+- Gén_30:1a Jacob: Dame hijos, o si no, me mueroH4191
+- Gén_33:13si...en un día morirán todas las ovejasH4191
+- Gén_35:8entonces murió Débora, ama de RebecaH4191
+- Gén_35:18que al salírsele el alma (pues murió)[[H4191]]
+- Gén_35:19así murió Raquel, y fue sepultada enH4191
+- Gén_35:29exhaló Isaac el espíritu, y murió, yH4191
+- Gén_36:33murió Bela, y reinó en su lugar JobabH4191
+- Gén_36:34murió Jobab, y en su lugar reinó HusamH4191
+- Gén_36:35murió Husam, y reinó en su lugar HadadH4191
+- Gén_36:36murió Hadad, y en su lugar reinó SamlaH4191
+- Gén_36:37murió Samla, y reinó en su lugar SaúlH4191
+- Gén_36:38murió Saúl, y en su...reinó Baal-hanánH4191
+- Gén_36:39murió Baal-hanán hijo...y reinó HadarH4191
+- Gén_38:11no sea que muera él también como susH4191
+- Gén_38:12y murió la hija de Súa, mujer de JudáH4191
+- Gén_42:2para que podamos vivir, y no muramosH4191
+- Gén_42:20verificadas...palabras, y no moriréisH4191
+- Gén_42:37harás morir a mis dos hijos, si no teH4191
+- Gén_42:38pues su hermano ha muerto, y él soloH4191
+- Gén_43:8que vivamos y no muramos nosotros, y túH4191
+- Gén_44:9en quien fuere hallada la copa...mueraH4191
+- Gén_44:20un hermano suyo murió, y él solo quedóH4191
+- Gén_44:22porque si lo dejare, su padre moriráH4191
+- Gén_44:31cuando no vea al joven, morirá; y tusH4191
+- Gén_45:28vive...iré, y le veré antes que yo mueraH4191
+- Gén_46:12mas Er y Onán murieron en la tierra deH4191
+- Gén_46:30dijo a José: Muera yo ahora, ya que heH4191
+- Gén_47:15¿por qué moriremos delante de ti, porH4191
+- Gén_47:19¿por qué moriremos delante de tus ojosH4191
+- Gén_47:19semilla para que vivamos y no muramosH4191
+- Gén_47:29llegaron los días de Israel para morirH4191
+- Gén_48:7cuando yo venía de...se me murió RaquelH4191
+- Gén_48:21dijo Israel a José: He aquí yo mueroH4191
+- Gén_50:5voy a morir; en el sepulcro que cavéH4191
+- Gén_50:24y José dijo...Yo voy a morir; mas DiosH4191
+- Gén_50:26y murió José a la edad de ciento diezH4191
+- Éxo_1:6y murió José, y todos sus hermanos, yH4191
+- Éxo_2:23después de...días murió el rey de EgiptoH4191
+- Éxo_4:19han muerto todos los que procuraban tuH4191
+- Éxo_7:18y los peces que hay en el río moriránH4191
+- Éxo_7:21los peces que había en el río murieronH4191
+- Éxo_8:13murieron las ranas de las casas, de losH4191
+- Éxo_9:4nada muera de todo lo de los...de IsraelH4191
+- Éxo_9:6y murió todo el ganado...de Israel no niH4191
+- Éxo_9:7del ganado de...Israel no había muerto unoH4191
+- Éxo_9:19el granizo caerá sobre él, y moriráH4191
+- Éxo_10:28en...día que vieres mi rostro, morirásH4191
+- Éxo_11:5morirá todo primogénito en...de EgiptoH4191
+- Éxo_13:15hizo morir...Egipto a todo primogénitoH2026
+- Éxo_14:11para que muramos en el desierto? ¿PorH4191
+- Éxo_14:12fuera servir a los egipcios, que morirH4191
+- Éxo_16:3hubiéramos muerto por mano de Jehová enH4191
+- Éxo_19:12que tocare el monte, de seguro moriráH4191
+- Éxo_20:19no hable Dios con...para que no muramosH4191
+- Éxo_21:12que...haciéndole así morir, él moriráH4191
+- Éxo_21:14de mi altar lo quitarás para que mueraH4191
+- Éxo_21:15hiriere a su padre o a...madre, moriráH4191
+- Éxo_21:16si fuere hallada en sus manos, moriráH4191
+- Éxo_21:17maldijere a su padre o...madre, moriráH4191
+- Éxo_21:18puño, y éste no muriere, pero cayereH4191
+- Éxo_21:20muriere bajo su mano, será castigadoH4191
+- Éxo_21:28acorneare a...y a causa de ello muriereH4191
+- Éxo_21:29el buey será apedreado...morirá su dueñoH4191
+- Éxo_21:35hiriere al buey...de modo que muriereH4191
+- Éxo_22:2el ladrón...fuere herido y muriere elH4191
+- Éxo_22:10animal...muriere o fuere estropeado, oH4191
+- Éxo_22:19que cohabitare con bestia, moriráH4191
+- Éxo_28:35se oirá su sonido...para que no mueraH4191
+- Éxo_28:43para que no lleven pecado y mueranH4191
+- Éxo_30:20lavarán con agua, para que no mueranH4191
+- Éxo_30:21lavarán las manos...para que no mueranH4191
+- Éxo_31:14el día de reposo...lo profanare...moriráH4191
+- Éxo_31:15que trabaje en el día de reposo...moriráH4191
+- Éxo_35:2que en él hiciere trabajo alguno, moriráH4191
+- Lev_8:35y guardaréis la ordenanza...no muráisH4191
+- Lev_10:2los quemó, y murieron delante de JehováH4191
+- Lev_10:6ni rasguéis...vestidos...que no muráisH4191
+- Lev_10:7ni saldréis de la puerta del...moriréisH4191
+- Lev_10:9no beberéis vino ni...para que no muráisH4191
+- Lev_11:32cayere algo de ellos después de muertosH4194
+- Lev_11:39animal que tuviereis para comer muriereH4191
+- Lev_15:31no mueran por sus impurezas por haberH4191
+- Lev_16:1acercaron delante de Jehová, y murieronH4191
+- Lev_16:2no en todo tiempo entre...que no mueraH4191
+- Lev_16:13cubrirá el propiciatorio...que no mueraH4191
+- Lev_19:20no morirán por cuanto ella no es libreH4191
+- Lev_20:2que ofreciere...a Moloc, de seguro moriráH4191
+- Lev_20:9maldijere a su padre...de cierto moriráH4191
+- Lev_20:12si...durmiere con su nuera, han de morirH4191
+- Lev_20:16morirán indefectiblemente; su sangreH4191
+- Lev_20:20su pecado llevarán; morirán sin hijosH4191
+- Lev_20:27que evocare espíritus de...ha de morirH4191
+- Lev_22:9no sea que así mueran cuando la profanenH4191
+- Lev_24:16así...si blasfemare el Nombre, que mueraH4191
+- Lev_24:21mas el que hiere de muerte...que mueraH4191
+- Núm_1:51y el extraño que se acercare moriráH4191
+- Núm_3:4Nadab y Abiú murieron delante de JehováH4191
+- Núm_3:10, Núm_3:38el extraño que se acercare, moriráH4191
+- Núm_3:13mío...desde el día en que yo hice morirH5221
+- Núm_4:15no tocarán cosa santa...sea que mueranH4191
+- Núm_4:19cuando se acerquen...vivan, y no mueranH4191
+- Núm_4:20no entrarán para ver...porque moriránH4191
+- Núm_6:7padre...podrá contaminarse cuando mueranH4194
+- Núm_6:9si alguno muriere súbitamente junto a élH4191
+- Núm_14:2¡ojalá muriéramos en...tierra de EgiptoH4191
+- Núm_14:2o en este desierto ojalá muriéramos![[H4191]]
+- Núm_14:15has hecho morir a este pueblo como aH4191
+- Núm_14:35así...serán consumidos, y ahí moriránH4191
+- Núm_14:37habían hablado mal...murieron de plagaH4191
+- Núm_15:35irremisiblemente muera aquel hombreH4191
+- Núm_15:36apedrearon y murió, como Jehová mandóH4191
+- Núm_16:13¿es poco...hacernos morir en el desiertoH4191
+- Núm_16:29si como mueren todos...murieron éstosH4194, [[H4191]]
+- Núm_16:49los que murieron...fueron 14.700, sinH4191
+- Núm_17:10harás cesar sus quejas...que no mueranH4191
+- Núm_17:13el que viniere al tabernáculo...moriráH4191
+- Núm_18:3no se acercarán a...para que no mueranH4191
+- Núm_18:7y el extraño que se acercare, moriráH4191
+- Núm_18:22que no lleven pecado por el cual mueranH4191
+- Núm_18:32no contaminaréis...cosas...y no moriréisH4191
+- Núm_19:14es la ley para cuando alguno muera enH4191
+- Núm_20:1allí murió María, y allí fue sepultadaH4191
+- Núm_20:3habló...¡Ojalá hubiéramos muerto cuandoH1478
+- Núm_20:4venir...para que muramos aquí nosotrosH4191
+- Núm_20:26Aarón será reunido a su...y allí moriráH4191
+- Núm_20:28y Aarón murió...en la cumbre del monteH4191
+- Núm_20:29y viendo...que Aarón había muerto, leH1478
+- Núm_21:5subir de Egipto para que muramos en esteH4191
+- Núm_21:6mordían...y murió mucho pueblo de IsraelH4191
+- Núm_23:10muera yo la muerte de los rectos, y miH4191
+- Núm_25:9y murieron de aquella mortandad 24.000H4191
+- Núm_26:10y los tragó...cuando aquel grupo murióH4194
+- Núm_26:11mas los hijos de Coré no murieronH4191
+- Núm_26:19los hijos de Judá...Er y Onán murieronH4191
+- Núm_26:61Abiú murieron cuando ofrecieron fuegoH4191
+- Núm_26:65Jehová había dicho de ellos: MoriránH4191
+- Núm_27:3nuestro padre murió en el desierto; yH4191
+- Núm_27:3sino que en su propio pecado murió, yH4191
+- Núm_27:8alguno muriere sin hijos, traspasaréisH4191
+- Núm_33:38Aarón...allí murió a los 40 años de laH4191
+- Núm_33:39era Aarón...de 123 años, cuando murióH4194
+- Núm_35:12no morirá el homicida hasta que entreH4191
+- Núm_35:16-17, Núm_35:18y muriere...el homicida moriráH4191
+- Núm_35:20si por odio lo empujó, o echó...muereH4191
+- Núm_35:21lo hirió...y murió, el heridor moriráH4191
+- Núm_35:23caer sobre él alguna piedra...y muriereH4191
+- Núm_35:25hasta que muera el sumo sacerdote, elH4194
+- Núm_35:28habitar hasta que muera el...sacerdoteH4194
+- Núm_35:28después que haya muerto...volverá a laH4194
+- Núm_35:30dicho de testigos morirá el homicidaH7523
+- Núm_35:30un solo testigo no hará fe...que mueraH4191
+- Núm_35:31no tomaréis precio por la vida...moriráH4191
+- Núm_35:32ni...hasta que muera el sumo sacerdoteH4194
+- Deu_2:16murieron todos los hombres de guerraH4191
+- Deu_4:22así que Yo voy a morir en esta tierraH4191
+- Deu_5:25ahora, pues, ¿por qué vamos a morir?[[H4191]]
+- Deu_5:25si oyéremos otra vez la voz...moriremosH4191
+- Deu_10:6allí murió Aarón, y allí fue sepultadoH4191
+- Deu_13:10apedrearás hasta que muera, por cuantoH4191
+- Deu_17:5sacarás...los apedrearás, y así moriránH4191
+- Deu_17:6Por dicho de dos...morirá el que...morirH4191
+- Deu_17:6no morirá por el dicho de un...testigoH4191
+- Deu_17:12no obedeciendo...al juez, el tal moriráH4191
+- Deu_18:16ni vea...gran fuego, para que no mueraH4191
+- Deu_18:20que hablare en nombre de dioses...moriráH4191
+- Deu_19:5diere contra,u prójimo y éste muriereH4191
+- Deu_19:11alguno...hiriere de muerte, y muriereH4191
+- Deu_19:12lo entregarán en mano...para que mueraH4191
+- Deu_20:5-6, Deu_20:7no sea que muera en la batalla, yH4191
+- Deu_21:21los hombres...lo apedrearán, y moriráH4191
+- Deu_21:22lo hiciereis morir, y lo colgareis enH4194
+- Deu_22:21la apedrearán los hombres de...y moriráH4191
+- Deu_22:22ambos morirán, el hombre que se acostóH4191
+- Deu_22:24los apedrearéis, y morirán; la jovenH4191
+- Deu_22:25morirá...hombre que se acostó con ellaH4191
+- Deu_24:3o si hubiere muerto el postrer hombreH4191
+- Deu_24:7morirá el tal ladrón, y quitarás el malH4191
+- Deu_24:16los padres no morirán por los hijos, niH4191
+- Deu_24:16hijos...cada uno morirá Por su pecadoH4191
+- Deu_25:5habitaren juntos, y muriere alguno deH4191
+- Deu_31:27¿cuánto...después que yo haya muerto?[[H4194]]
+- Deu_32:39hago morir, y yo hago vivir; yo hieroH4191
+- Deu_32:50y muere como murió Aarón tu hermanoH4191
+- Deu_33:1bendijo Moisés varón...antes que murieseH4194
+- Deu_33:6viva Rubén, y no muera; y no sean pocosH4191
+- Deu_34:5murió allí Moisés...en la tierra de MoabH4191
+- Deu_34:7Moisés de edad de 120 años cuando murióH4194
+- Jos_1:2mi siervo Moisés ha muerto; ahoraH4191
+- Jos_1:18cualquiera que fuere rebelde a...mueraH4191
+- Jos_5:4los hombres de guerra, habían muerto enH4191
+- Jos_10:11grandes piedras sobre ellos, y murieronH4191
+- Jos_10:11murieron Por las piedras del granizoH4191
+- Jos_20:9que no muriese por mano del vengador deH5221
+- Jos_24:29después...cosas murió Josué hijo de NunH4191
+- Jos_24:33también murió Eleazar hijo de AarónH4191
+- Jue_1:7le llevaron a Jerusalén, donde murióH4191
+- Jue_2:8murió Josué...siendo de ciento diez añosH4191
+- Jue_2:19al morir el juez, ellos volvían atrásH4191
+- Jue_2:21las naciones que dejó Josué cuando murióH4191
+- Jue_3:11reposó la tierra...y murió Otoniel hijoH4191
+- Jue_4:21le metió la estaca por las...y así murióH4191
+- Jue_6:23paz a ti; no tengas temor, no morirásH4191
+- Jue_6:30saca a tu hijo para que muera, porque haH4191
+- Jue_6:31cualquiera que contienda por él...mueraH4191
+- Jue_8:32y murió Gedeón hijo de...en buena vejezH4191
+- Jue_8:33cuando murió Gedeón, los hijos de IsraelH4191
+- Jue_9:49todos los de la torre de Siquem murieronH4191
+- Jue_9:54saca...Y su escudero le atravesó, y murióH4191
+- Jue_10:2juzgó...murió, y fue sepultado en SamirH4191
+- Jue_10:5y murió Jair, y fue sepultado en CamónH4191
+- Jue_12:6murieron...de Efraín cuarenta y dos milH7819
+- Jue_12:7murió Jefté...y fue sepultado en una deH4191
+- Jue_12:10murió Ibzán, y fue sepultado en BelénH4191
+- Jue_12:12murió Elón...y fue sepultado en AjalónH4191
+- Jue_12:15murió Abdón...fue sepultado en PiratónH4191
+- Jue_13:22moriremos, porque a Dios hemos vistoH4191
+- Jue_15:18¿y moriré yo ahora de sed, y caeré enH4191
+- Jue_16:30dijo Sansón: Muera Yo con...filisteosH4191
+- Jue_16:30los que mató al morir fueron...más queH4194
+- Jue_20:5la humillaron de tal manera que murióH4191
+- Jue_20:46de Benjamín murieron...25.000 hombresH5307
+- Rut_1:3y murió Elimelec, marido de Noemí, yH4191
+- Rut_1:5y murieron...los dos, Mahlón y QueliónH4191
+- Rut_1:17donde tú murieres, moriré yo, y allíH4191, [[[[H4191]]]]
+- Rut_2:20la benevolencia...con los que han muertoH4191
+- 1Sa_2:25Jehová había resuelto hacerlos morirH4191
+- 1Sa_2:33nacidos en tu casa morirán en la edadH4191
+- 1Sa_2:34Ofni y Finees: ambos morirán en un díaH4191
+- 1Sa_4:18Elí cayó...atrás...y se desnucó y murióH4191
+- 1Sa_4:19oyendo, muertos su suegro y su maridoH4191
+- 1Sa_4:20al tiempo que moría, le decían las queH4191
+- 1Sa_5:12y los que no morían, eran heridos deH4191
+- 1Sa_6:19hizo morir a...hizo m...a 50:070 hombresH5221
+- 1Sa_11:13no morirá hoy ninguno, porque...JehováH4191
+- 1Sa_12:19ruega a...para que no muramos; porqueH4191
+- 1Sa_14:39que aunque fuere en Jonatán mi...moriráH4191
+- 1Sa_14:43gusté un poco de miel...y he de morir?[[H4191]]
+- 1Sa_14:44respondió...sin duda morirás, JonatánH4191
+- 1Sa_14:45¿ha de morir Jonatán, el que ha hechoH4191
+- 1Sa_14:45así el pueblo libró de morir a JonatánH4191
+- 1Sa_19:6juró Saúl: Vive Jehová, que no moriráH4191
+- 1Sa_20:2le dijo: En ninguna manera; no morirásH4191
+- 1Sa_20:14harás conmigo misericordia...no mueraH4191
+- 1Sa_20:31envía...y tráemelo, porque ha de morirH4191
+- 1Sa_20:32dijo: ¿Por qué morirá? ¿Qué ha hecho?[[H4191]]
+- 1Sa_22:16rey dijo: Sin duda morirás, AbimelecH4191
+- 1Sa_25:1murió Samuel, y se juntó todo Israel, yH4191
+- 1Sa_25:38después, Jehová hirió a Nabal, y murióH4191
+- 1Sa_25:39que David oyó que Nabal había muertoH4191
+- 1Sa_26:10que si...o su día llegue para que mueraH4191
+- 1Sa_28:3Samuel había muerto, y todo Israel loH4191
+- 1Sa_28:9pones tropiezo a...para hacerme morir?[[H4191]]
+- 1Sa_31:5se echó sobre su espada, y murió con élH4191
+- 1Sa_31:6murió Saúl en aquel día, juntamente conH4191
+- 2Sa_1:4también Saúl y Jonatán su...murieronH4191
+- 2Sa_1:5¿cómo sabes, han muerto Saúl y JonatánH4191
+- 2Sa_1:15vé y mátalo. Y él lo hirió, y murióH4191
+- 2Sa_2:7muerto Saúl...los de la casa de Judá meH4191
+- 2Sa_2:23cayó allí, y murió en aquel mismo sitioH4191
+- 2Sa_2:31hirieron de...a 360...los cuales murieronH4191
+- 2Sa_3:27hirió por la quinta costilla, y murióH4191
+- 2Sa_3:29falte de la casa...quien muera a espadaH3772
+- 2Sa_3:33de morir Abner como muere un villano?[[H4191]], [[H4194]]
+- 2Sa_4:10me dio nuevas, diciendo...Saúl ha muertoH4191
+- 2Sa_8:2midió dos cordeles para hacerlos morirH4191
+- 2Sa_10:1que murió el rey de los hijos de AmónH4191
+- 2Sa_10:18a Sobac general del...quien murió allíH4191
+- 2Sa_11:15a Urías...para que sea herido y mueraH4191
+- 2Sa_11:17cayeron...y murió también Urías heteoH4191
+- 2Sa_11:21hirió a Abimelec...y murió en Tebes?[[H4191]]
+- 2Sa_11:24murieron algunos de los...y murió...UríasH4191
+- 2Sa_12:13dijo...ha remitido tu pecado; no morirásH4191
+- 2Sa_12:14el hijo que...nacido ciertamente moriráH4191
+- 2Sa_12:18al séptimo día murió el niño; y temíanH4191
+- 2Sa_12:18hacerle saber que el niño había muertoH4191
+- 2Sa_12:18si le decimos que el niño ha muerto?[[H4191]]
+- 2Sa_12:19que el niño había muerto; por lo queH4191
+- 2Sa_12:19dijo David...¿Ha muerto el niño?...Ha mH4191
+- 2Sa_12:23ahora que ha muerto, ¿para qué he deH4191
+- 2Sa_13:39consolado...de Amnón, que había muertoH4191
+- 2Sa_14:5una mujer viuda y mi marido ha muertoH4191
+- 2Sa_14:7entrega...para que le hagamos morir porH4191
+- 2Sa_14:14de cierto morimos, y somos como aguasH4191
+- 2Sa_17:23pero Ahitofel...se ahorcó, y así murióH4191
+- 2Sa_18:3aunque la mitad de nosotros muera, noH4191
+- 2Sa_18:20hoy la nueva...el hijo del rey ha muertoH4191
+- 2Sa_18:33me diera que muriera yo en lugar de tiH4191
+- 2Sa_19:10y Absalón...ha muerto en la batallaH4191
+- 2Sa_19:21¿no ha de morir por esto Simei, queH4191
+- 2Sa_19:22¿ha de morir hoy alguno en Israel?[[H4191]]
+- 2Sa_19:23dijo el rey a Simei: No morirás...juróH4191
+- 2Sa_19:37muera en mi ciudad, junto al sepulcroH4191
+- 2Sa_20:3quedaron encerradas hasta que murieronH4191
+- 2Sa_21:4ni queremos que muera hombre de IsraelH4191
+- 2Sa_21:9así murieron juntos aquellos siete, losH4191
+- 2Sa_24:15y murieron del pueblo...70.000 hombresH4191
+- 1Re_1:52mas si se hallare mal en él, moriráH4191
+- 1Re_2:1los días en que David había de morir, yH4191
+- 1Re_2:24vive Jehová...que Adonías morirá hoyH4191
+- 1Re_2:25Benaía...arremetió contra él, y murióH4191
+- 1Re_2:30y él dijo: No, sino que aquí moriréH4191
+- 1Re_2:37el día que salieres...sin duda morirásH4191
+- 1Re_2:42el día que salieres...morirás? Y tú meH4191
+- 1Re_2:46Benaía hijo, salió y lo hirió, y murióH4191
+- 1Re_3:19una noche el hijo de esta mujer murióH4191
+- 1Re_12:18pero lo apedreó todo Israel, y murióH4191
+- 1Re_13:31yo muera, enterradme en el sepulcro enH4191
+- 1Re_14:11el que muera de los de Jeroboam en laH4191
+- 1Re_14:11el que muera en el campo, lo comeránH4191
+- 1Re_14:12al poner tu pie en la...morirá el niñoH4191
+- 1Re_14:17y entrando ella por el...el niño murióH4191
+- 1Re_16:18prendió fuego a la casa...y así murióH4191
+- 1Re_16:22a Tibni...y Tibni murió, y Omri fue reyH4191
+- 1Re_17:12que lo comamos, y nos dejemos morirH4191
+- 1Re_17:18venido a...para hacer morir a mi hijo?[[H4191]]
+- 1Re_17:20has afligido, haciéndole morir su hijo?[[H4191]]
+- 1Re_19:4y deseando morirse, dijo: Basta ya, ohH4191
+- 1Re_21:10sacadlo, y apedreadlo para que mueraH4191
+- 1Re_21:13lo llevaron...y lo apedrearon, y murióH4191
+- 1Re_21:14Nabot ha sido apedreado y ha muertoH4191
+- 1Re_21:15porque Nabot no vive, sino...ha muertoH4191
+- 1Re_22:35estuvo en su carro...a la tarde murióH4191
+- 1Re_22:37murió...el rey, y fue traído a SamariaH4191
+- 2Re_1:4del lecho...no te levantarás...morirásH4191
+- 2Re_1:6, 2Re_1:16no te levantarás; de cierto morirásH4191
+- 2Re_1:17murió conforme a la palabra de JehováH4191
+- 2Re_3:5muerto Acab, el rey de Moab se rebelóH4194
+- 2Re_4:1diciendo: Tu siervo mi marido ha muertoH4191
+- 2Re_4:20sentado en...hasta el mediodía, y murióH4191
+- 2Re_7:3¿para qué nos estamos aquí...que muramos?[[H4191]]
+- 2Re_7:4por el hambre que hay en la...moriremosH4191
+- 2Re_7:4si nos quedamos aquí, también moriremosH4191
+- 2Re_7:4si ellos...nos dieren la muerte, moriremosH4191
+- 2Re_7:17, 2Re_7:20lo atropelló el pueblo a la...y murióH4191
+- 2Re_8:10Jehová me ha mostrado que él moriráH4191
+- 2Re_8:15sobre el rostro de Ben-adad, y murióH4191
+- 2Re_9:27Ocozías huyó a Meguido, pero murió allíH4191
+- 2Re_12:21y Jozabad hijo...le hirieron, y murióH4191
+- 2Re_13:14enfermo de la enfermedad de que murióH4191
+- 2Re_13:20murió Eliseo, y lo sepultaron. EntradoH4191
+- 2Re_13:24murió Hazael rey de...y reinó...Ben-adadH4191
+- 2Re_14:6que cada uno morirá por su propio pecadoH4191
+- 2Re_18:32y no moriréis. No oigáis a EzequíasH4191
+- 2Re_20:1así: Ordena tu casa, porque morirás, yH4191
+- 2Re_23:34Joacaz, y lo llevó a Egipto, y murióH4191
+- 2Re_25:25Ismael...hirieron a Gedalías, y murióH4191
+- 1Cr_2:30Seled y...Y Seled murió sin hijosH4191
+- 1Cr_2:32Jeter y Jonatán. Y murió Jeter sin hijosH4191
+- 1Cr_10:6murieron Saúl y...y toda su casa murióH4191
+- 1Cr_10:13así murió Saúl por su rebelión con queH4191
+- 1Cr_13:10el arca; y murió allí delante de DiosH4191
+- 1Cr_19:1que murió Nabas rey de los hijos de AmónH4191
+- 1Cr_21:14una peste...y murieron de Israel 70.000H5307
+- 1Cr_23:22y murió Eleazar sin hijos; pero tuvoH4191
+- 1Cr_24:2como Nadab y Abiú murieron antes que suH4191
+- 1Cr_29:28murió en buena vejez, lleno de días, deH4191
+- 2Cr_10:18a Adoram...le apedrearon...y murióH4191
+- 2Cr_13:20Jeroboam...y Jehová lo hirió, y murióH4191
+- 2Cr_15:13no buscase a Jehová el Dios...murieseH4191
+- 2Cr_16:13Asa...murió en el año 41 de su reinadoH4191
+- 2Cr_18:34en el carro...y murió al ponerse el solH4191
+- 2Cr_21:19muriendo así de enfermedad muy penosaH4191
+- 2Cr_21:20años, y murió sin que lo desearan másH1980
+- 2Cr_23:7cualquiera que entre...casa, que mueraH4191
+- 2Cr_24:15mas Joiada envejeció, y murió lleno deH4191
+- 2Cr_24:15Joiada...de 130 años era cuando murióH4194
+- 2Cr_24:22mató a su hijo, quien dijo al morirH4191
+- 2Cr_24:25lo hirieron en su cama, y murió. Y loH4191
+- 2Cr_25:4no morirán los padres por los hijos, niH4191
+- 2Cr_25:4no...mas cada uno morirá por su pecadoH4191
+- 2Cr_35:24lo llevaron a Jerusalén, donde murióH4191
+- Est_2:7cuando su padre y su madre murieronH4194
+- Est_4:11ha de morir; salvo aquel a quien el reyH4191
+- Job_1:19cayó sobre los jóvenes, y murieronH4191
+- Job_2:9integridad? Maldice a Dios, y muéreteH4191
+- Job_3:11¿por qué no morí yo en la matriz, oH4191
+- Job_4:21y mueren sin haber adquirido sabiduríaH4191
+- Job_12:2sois...y con vosotros morirá la sabiduríaH4191
+- Job_13:19porque si ahora yo callara, moriríaH1478
+- Job_14:10mas el hombre morirá, y será cortadoH4191
+- Job_14:14el hombre muriere, ¿volverá a vivir?[[H4191]]
+- Job_21:23éste morirá en el vigor de...hermosuraH4191
+- Job_21:25este otro morirá en amargura de ánimoH4191
+- Job_24:11pisan los lagares, y mueren de sed
+- Job_27:5hasta que muera, no quitaré de mí miH1478
+- Job_29:18decía yo: En mi nido moriré, y comoH1478
+- Job_34:20en un momento morirán, y a medianocheH4191
+- Job_42:17y murió Job viejo y lleno de díasH4191
+- Sal_41:5mis enemigos dicen: ¿Cuándo moriráH4191
+- Sal_49:10pues verá que aun los sabios muerenH4191
+- Sal_49:17porque cuando muera no llevará nada, niH4194
+- Sal_78:31hizo morir a los más robustos de ellosH2026
+- Sal_78:34si los hacía morir...buscaban a DiosH2026
+- Sal_78:51hizo morir a todo primogénito en EgiptoH5221
+- Sal_82:7como hombres moriréis, y como cualquieraH4191
+- Sal_118:17no moriré, sino que viviré, y contaréH4191
+- Sal_135:8hizo morir a los primogénitos de EgiptoH5221
+- Sal_139:19cierto, oh Dios, harás morir al impíoH6991
+- Pro_5:23él morirá por falta de corrección, yH4191
+- Pro_10:21los...mueren por falta de entendimientoH4191
+- Pro_11:7cuando muere el hombre impío, perece suH4194
+- Pro_15:10el que aborrece la corrección moriráH4191
+- Pro_19:16el que menosprecia sus caminos moriráH4191
+- Pro_23:13si lo castigas con vara, no moriráH4191
+- Pro_30:7dos...no me las niegues antes que mueraH4191
+- Ecl_2:16también morirá el sabio como el necioH4191
+- Ecl_3:2tiempo de nacer, y tiempo de morirH4191
+- Ecl_3:19como mueren los unos, así in los otrosH4194
+- Ecl_4:2y alabé yo a...los que ya murieron, másH4191
+- Ecl_7:17¿por qué habrás de morir antes de tuH4191
+- Ecl_9:5los que viven saben que han de morirH4191
+- Isa_6:1en el año que murió el rey Uzías, viH4194
+- Isa_14:28el año que murió el rey Acaz fue estaH4194
+- Isa_14:30mas yo haré morir de hambre tu raízH4191
+- Isa_22:13y bebamos, porque mañana moriremosH4191
+- Isa_22:14no os será perdonado hasta que muráisH4191
+- Isa_22:18morirás, y allá estarán los carros deH4191
+- Isa_38:1dice...Ordena tu casa, porque morirásH4191
+- Isa_50:2se pudren por falta de agua, y muerenH4191
+- Isa_51:14pronto; no morirá en la mazmorra, niH4191
+- Isa_57:1y los piadosos mueren, y no hay quienH6
+- Isa_59:5el que comiere de sus huevos, moriráH4191
+- Isa_65:20no habrá...niño que muera de pocos días
+- Isa_65:20porque el niño morirá de cien años, yH4191
+- Isa_66:24porque su gusano nunca morirá, ni suH4191
+- Jer_11:21para que no mueras a nuestras manosH4191
+- Jer_11:22morirán a espada...hijas m de hambreH4191
+- Jer_16:4de dolorosas enfermedades morirán; noH4191
+- Jer_16:6morirán en...tierra grandes y pequeñosH4191
+- Jer_20:6entrarás en Babilonia, y allí morirásH4191
+- Jer_21:6y los hombres y las bestias morirán deH4191
+- Jer_21:9el que quedare en...morirá a espada, deH4191
+- Jer_22:12morirá en el lugar adonde lo llevaronH4191
+- Jer_22:26te haré llevar cautivo...allá moriréisH4191
+- Jer_26:8pueblo le echaron mano...cierto morirásH4191
+- Jer_27:13¿por qué moriréis tú y tu pueblo aH4191
+- Jer_28:16morirás en este año, porque hablasteH4191
+- Jer_28:17y el mismo año murió Hananías, en elH4191
+- Jer_31:30cada cual morirá por su propia maldadH4191
+- Jer_34:4así ha dicho Jehová...No morirás a espadaH4191
+- Jer_34:5en paz morirás...te endecharán, diciendoH4191
+- Jer_37:20no me hagas volver...que no muera allíH4191
+- Jer_38:2el que se quedare en...morirá a espadaH4191
+- Jer_38:4al rey: Muera ahora este hombre; porqueH4191
+- Jer_38:9morirá de hambre, pues no hay más panH4191
+- Jer_38:10haz sacar...Jeremías...antes que mueraH4191
+- Jer_38:24nadie sepa estas palabras, y no morirásH4191
+- Jer_38:26no me hiciese volver a...no me murieseH4191
+- Jer_42:16en Egipto os perseguirá; y...moriréisH4191
+- Jer_42:17para entrar en Egipto...morirán a espadaH4191
+- Jer_42:22de hambre y de pestilencia moriréis enH4191
+- Jer_44:12a espada y de hambre morirán desde elH4191
+- Jer_49:26y todos los hombres de guerra moriránH1826
+- Jer_52:11en la cárcel hasta el día en que murióH4194
+- Lam_4:9éstos murieron poco a poco por falta deH2100
+- Lam_5:7nuestros padres pecaron, y han muertoH369
+- Eze_3:18yo dijere al impío: De cierto morirásH4191
+- Eze_3:18el impío morirá por su maldad, pero suH4191
+- Eze_3:19él morirá por su maldad, pero tú habrásH4191
+- Eze_3:20él morirá, porque tú no le amonestasteH4191
+- Eze_3:20en su pecado morirá, y sus justicias queH4191
+- Eze_5:12morirá de pestilencia y...de hambre enH4191
+- Eze_6:12el que esté lejos morirá de pestilenciaH4191
+- Eze_6:12quede y sea asediado morirá de hambreH4191
+- Eze_7:15el que esté en el campo morirá a espadaH4191
+- Eze_11:13Pelatías...murió. Entonces me postréH4191
+- Eze_12:13haré llevarlo a Babilonia...allá moriráH4191
+- Eze_13:19matando a...personas que no deben morirH4191
+- Eze_17:16que morirá en medio de Babilonia, enH4191
+- Eze_18:4, Eze_18:20el alma que pecare, esa moriráH4191
+- Eze_18:13cierto morirá, su sangre será sobre élH4191
+- Eze_18:17no morirá por la maldad de su padreH4191
+- Eze_18:18he aquí que él morirá por su maldadH4191
+- Eze_18:21si se apartare de todos sus...no moriráH4191
+- Eze_18:24el pecado que cometió, por ello moriráH4191
+- Eze_18:26él morirá por ello; por la iniquidad...mH4191
+- Eze_18:28se apartó...de cierto vivirá; no moriráH4191
+- Eze_18:31¿por qué moriréis, casa de Israel?[[H4191]]
+- Eze_18:32no quiero la muerte del que muere, diceH4191
+- Eze_24:18la mañana, y a la tarde murió mi mujerH4191
+- Eze_28:8sepulcro te harán descender, y morirásH4191
+- Eze_28:8la muerte de los que mueren en medio deH4191
+- Eze_28:10morirás por mano de extranjeros; porqueH4191
+- Eze_33:8, Eze_33:14dijere al impío...De cierto morirásH4191
+- Eze_33:8el impío morirá por su pecado, pero suH4191
+- Eze_33:9morirá por su pecado, pero tú librasteH4191
+- Eze_33:11¿por qué moriréis, oh casa de Israel?[[H4191]]
+- Eze_33:13sino que morirá por su iniquidad queH4191
+- Eze_33:15si...no haciendo iniquidad...no moriráH4191
+- Eze_33:18e hiciere iniquidad, morirá por elloH4191
+- Eze_33:27en las cuevas, de pestilencia moriránH4191
+- Eze_36:15ni harás más morir a los hijos de tuH3782
+- Ose_4:3cielo; y aun los peces del mar moriránH622
+- Ose_13:1fue exaltado en...pecó en Baal, y murióH4191
+- Amó_2:2fuego...y morirá Moab con tumulto, conH4191
+- Amó_6:9si diez hombres quedaren en una...moriránH4191
+- Amó_7:11ha dicho Amós: Jeroboam morirá a espadaH4191
+- Amó_7:17tú morirás en tierra inmunda, e IsraelH4191
+- Amó_9:10a espada morirán todos los pecadores deH4191
+- Hab_1:12Dios mío, Santo mío? No moriremosH4191
+- Zac_11:9la que muriere, que muera; y la queH4191
+- Mat_2:19después de muerto Herodes...un ángelG5053
+- Mat_2:20porque han muerto los que procuraban laG2348
+- Mat_9:18mi hija acaba de morir; mas ven y ponG5053
+- Mat_10:21levantarán contra...y los harán morirG2288
+- Mat_15:4maldiga al padre o a la madre, mueraG5053
+- Mat_22:24alguno muriere sin hijos, su hermanoG599
+- Mat_22:25hermanos; el primero se casó, y murióG5053
+- Mat_22:27y después de...murió también la mujerG599
+- Mat_26:35aunque me sea necesario morir contigoG599
+- Mar_5:35tu hija ha muerto; ¿para qué molestasG599
+- Mar_7:10el que maldiga al padre o madre, mueraG5053
+- Mar_9:44, Mar_9:46, Mar_9:48donde el gusano de ellos no muereG5053
+- Mar_12:19que si el hermano de alguno muriere yG599
+- Mar_12:20primero...murió sin dejar descendenciaG599
+- Mar_12:21el segundo se casó con ella, y murióG599
+- Mar_12:22y después de, murió también la mujerG599
+- Mar_14:31si me fuere necesario morir contigo, noG4880
+- Mar_15:44se sorprendió de que ya hubiese muertoG2348
+- Luc_7:2el siervo...enfermo y a punto de morirG5053
+- Luc_7:15se incorporó el que había muerto, yG3498
+- Luc_8:42tenía una hija...que se estaba muriendoG599
+- Luc_8:49tu hija ha muerto; no molestes más alG2348
+- Luc_11:51Zacarías, que murió entre el altar yG622
+- Luc_13:33un profeta muera fuera de JerusalénG622
+- Luc_16:22murió el mendigo...y m también el ricoG599
+- Luc_20:28el hermano de alguno muriere teniendoG599
+- Luc_20:29el primero tomó esposa, y murió sinG599
+- Luc_20:30la tomó el segundo...murió sin hijosG599
+- Luc_20:31todos...murieron sin dejar descendenciaG599
+- Luc_20:32finalmente murió también la mujerG599
+- Luc_20:36porque no pueden ya más morir, puesG599
+- Jua_4:47su hijo, que estaba a punto de morirG599
+- Jua_4:49Señor, desciende antes que mi...mueraG599
+- Jua_6:49padres comieron el maná en...y murieronG599
+- Jua_6:50para que el que de él come, no mueraG599
+- Jua_6:58padres comieron el maná, y murieronG599
+- Jua_8:21buscaréis...en vuestro pecado moriréisG599
+- Jua_8:24dije que moriréis en vuestros pecadosG599
+- Jua_8:24no creéis...en vuestros pecados moriréisG599
+- Jua_8:52Abraham murió, y los profetas; y...dicesG599
+- Jua_8:53mayor...padre Abraham, el cual murió?[[G599]]
+- Jua_8:53los profetas murieron! ¿Quién te hacesG599
+- Jua_11:14les dijo claramente: Lázaro ha muertoG599
+- Jua_11:16vamos también...para que muramos con élG599
+- Jua_11:21estado aquí...hermano no habría muertoG599
+- Jua_11:26y cree en mí, no morirá eternamenteG599
+- Jua_11:32hubieses...no habría muerto mi hermanoG599
+- Jua_11:37hecho también que Lázaro no muriera?[[G599]]
+- Jua_11:39hermana del que había muerto, le dijoG2348
+- Jua_11:44el que había muerto salió, atadas lasG2348
+- Jua_11:50que un hombre muera por el pueblo, yG599
+- Jua_11:51que Jesús había de morir por la naciónG599
+- Jua_12:24no muere, queda solo...m, lleva...frutoG599
+- Jua_12:33a entender de qué muerte iba a morirG599
+- Jua_18:14un solo hombre muriese por el puebloG622
+- Jua_18:32a entender de qué muerte iba a morirG599
+- Jua_19:7y según nuestra ley debe morir, porqueG599
+- Jua_21:23que aquel discípulo no moriría. PeroG599
+- Jua_21:23Jesús no le dijo que no moriría, sinoG599
+- Hec_2:29David, que murió y fue sepultado, yG5053
+- Hec_7:4muerto su padre, Dios le trasladó a estaG599
+- Hec_7:15descendió Jacob a Egipto, donde murióG5053
+- Hec_9:37que en aquellos días enfermó y murióG599
+- Hec_21:13dispuesto...aun a morir en JerusalénG599
+- Hec_21:36pueblo venía detrás, gritando: ¡Muera![[G142]]
+- Hec_25:11cosa...digna de muerte...no rehúso morirG599
+- Hec_25:19cierto Jesús, ya muerto, el que PabloG2348
+- Rom_5:6porque Cristo...a su tiempo murió porG599
+- Rom_5:7apenas morirá alguno por un justo; conG599
+- Rom_5:7ser que alguno osara morir por el buenoG599
+- Rom_5:8aún pecadores, Cristo murió por nosotrosG599
+- Rom_5:15si por...aquel uno murieron los muchosG599
+- Rom_6:2hemos muerto al pecado, ¿cómo viviremosG599
+- Rom_6:7el que ha muerto, ha sido justificado delG599
+- Rom_6:8morimos con Cristo, creemos que tambiénG599
+- Rom_6:9habiendo resucitado de los...ya no muereG599
+- Rom_6:10en cuanto murió, al pecado m una vezG599
+- Rom_7:2si el marido muere, ella queda libre deG599
+- Rom_7:3su marido muriere, es libre de esa leyG599
+- Rom_7:4habéis muerto a la ley mediante el cuerpoG2289
+- Rom_7:6libres de la ley, por haber muerto paraG599
+- Rom_7:9venido el...el pecado revivió y yo moríG599
+- Rom_8:13si vivís conforme a la carne, moriréisG599
+- Rom_8:13por el Espíritu hacéis morir las obrasG599
+- Rom_8:34Cristo es el que murió; mas aun, el queG599
+- Rom_14:7ninguno de...vive para sí...muere para síG599
+- Rom_14:8vivimos; y si morimos, para el Señor inG599
+- Rom_14:8sea que...o que muramos, del Señor somosG599
+- Rom_14:9Cristo para esto murió y resucitó, yG599
+- Rom_14:15se pierda aquel por quien Cristo murióG599
+- 1Co_7:39si su marido muriere, libre es paraG2837
+- 1Co_8:11se perderá el...por quien Cristo murióG599
+- 1Co_9:15prefiero morir, antes que...desvanezcaG599
+- 1Co_15:3que Cristo murió por nuestros pecadosG599
+- 1Co_15:22como en Adán todos mueren, también enG599
+- 1Co_15:31aseguro, hermanos...que cada día mueraG599
+- 1Co_15:32comamos y bebamos...mañana moriremosG599
+- 1Co_15:36lo...no se vivifica, si no muere antesG599
+- 2Co_5:14si uno murió...luego todos murieronG599
+- 2Co_5:15por todos murió, para que los que vivenG599
+- 2Co_5:15ya no vivan...sino para aquel que murióG599
+- 2Co_7:3nuestro corazón, para morir y para vivirG4880
+- Gál_2:21ley...entonces por demás murió CristoG599
+- Flp_1:21mí el vivir es Cristo, y el morir esG599
+- Flp_2:27estuvo enfermo, a punto de morir; peroG2288
+- Col_2:20pues si habéis muerto con Cristo enG599
+- Col_3:3porque habéis muerto, y vuestra vida estáG599
+- Col_3:5haced morir...lo terrenal en vosotrosG3499
+- 1Ts_4:14porque si creemos que Jesús murió yG599
+- 1Ts_5:10murió por nosotros para que ya sea queG599
+- Heb_9:27está establecido...mueran una sola vezG599
+- Heb_10:28viola la ley de...muere irremisiblementeG599
+- Heb_11:13murieron...éstos sin haber recibido loG599
+- Heb_11:21al morir, bendijo a cada uno de losG599
+- Heb_11:22José, al morir, mencionó la salida deG5053
+- Rev_3:2afirma...cosas que están para morirG599
+- Rev_8:9murió la tercera parte de los...en el marG599
+- Rev_8:11muchos...murieron a causa de esas aguasG599
+- Rev_9:6ansiarán morir, pero la muerte huirá deG599
+- Rev_11:5daño, debe morir él de la misma maneraG615
+- Rev_11:13terremoto murieron...siete mil hombresG615
+- Rev_14:13bienaventurados...que mueren en el SeñorG599
+- Rev_16:3murió todo ser vivo que había en el marG599

@@ -1,0 +1,90 @@
+---
+tipo: concordancia
+palabra: DIESTRA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DIESTRA
+
+- Gén_24:49y me iré a la d o a la siniestraH3225
+- Éxo_15:6tu d, oh Jehová...tu d...ha quebrantadoH3225
+- Éxo_15:12extendiste tu d; la tierra los tragóH3225
+- Núm_20:17apartarnos a d ni a siniestra, hastaH3225
+- Deu_2:27sin apartarme ni a d ni a siniestraH3225
+- Deu_5:32mirad...no os apartéis a d ni a siniestraH3225
+- Deu_17:11no te apartarás ni a d ni a siniestraH3225
+- Deu_17:20ni se aparte del...a d ni a siniestraH3225
+- Deu_28:14no te apartares...ni a d ni a siniestraH3225
+- Jos_1:7no te apartes...ni a d ni a siniestraH3225
+- Jos_23:6sin apartaros de...ni d ni a siniestraH3225
+- Jue_5:26tendió...su d al mazo de trabajadoresH3225
+- 2Sa_20:9y tomó Joab con la d la barba deH3225
+- 1Re_2:19vino Betsabé...la cual se sentó a su dH3225
+- Job_40:14te confesaré que podrá salvarte tu dH3225
+- Sal_16:8porque está a mi d, no seré conmovidoH3225
+- Sal_16:11de gozo; delicias a tu d para siempreH3225
+- Sal_17:7salvas a los que se refugian a tu dH3225
+- Sal_18:35tu d me sustentó, y tu benignidad meH3225
+- Sal_20:6lo oirá desde...con la potencia...de su dH3225
+- Sal_21:8tu d alcanzará a los que te aborrecenH3225
+- Sal_26:10el mal, y su d está llena de sobornosH3225
+- Sal_44:3sino tu d, y tu brazo, y la luz de tuH3225
+- Sal_45:4y tu d te enseñará cosas terriblesH3225
+- Sal_45:9está la reina a tu d con oro de OfirH3225
+- Sal_48:10oh Dios...de justicia está llena tu dH3225
+- Sal_60:5que se libren tus amados, salva con tu dH3225
+- Sal_63:8alma apegada a ti; tu d me ha sostenidoH3225
+- Sal_74:11¿por qué escondes tu d en tu seno?[[H3225]]
+- Sal_77:10traeré...a la memoria los años de la dH3225
+- Sal_80:15planta que plantó tu d, y el renuevoH3225
+- Sal_80:17sea tu mano sobre el varón de tu d, yH3225
+- Sal_89:13tuyo...fuerte es tu mano, exaltada tu dH3225
+- Sal_89:25pondré su mano...y sobre los ríos su dH3225
+- Sal_89:42has exaltado la d de sus enemigos; hasH3225
+- Sal_91:7a tu lado mil, y diez mil a tu d; masH3225
+- Sal_98:1su d lo ha salvado, y su santo brazoH3225
+- Sal_108:6amados, salva con tu d y respóndemeH3225
+- Sal_109:6pon sobre él...y Satanás esté a su dH3225
+- Sal_109:31él se pondrá a la d del pobre, paraH3225
+- Sal_110:1siéntate a mi d, hasta que ponga a tusH3225
+- Sal_110:5el Señor esté a tu d; quebrantará a losH3225
+- Sal_118:15justos; la d de Jehová hace proezasH3225
+- Sal_118:16la d...es sublime, la d...hace valentíasH3225
+- Sal_137:5me olvidare...pierda mi d su destreza
+- Sal_138:7extenderás, tu mano, y me salvará tu dH3225
+- Sal_139:10aun allí me guiará...y me asirá tu dH3225
+- Sal_142:4mira a mi d y observa, pues no hayH3225
+- Sal_144:8, Sal_144:11vanidad, y cuya d es d de mentiraH3225
+- Isa_41:10siempre te sustentaré con la d de miH3225
+- Isa_63:12el que los guió por la d de Moisés conH3225
+- Lam_2:3retiró de él su d frente al enemigoH3225
+- Dan_12:7el cual alzó su d y su siniestra alH3225
+- Zac_12:6consumirán a d y a siniestra a todosH3225
+- Mat_26:64sentado a la d del poder de Dios, yG1188
+- Mar_12:36siéntate a mi d, hasta que ponga tusG1188
+- Mar_14:62Hijo...sentado a la d del poder de DiosG1188
+- Mar_16:19en el cielo, y se sentó a la d de DiosG1188
+- Luc_20:42dijo el Señor a mi...Siéntate a mi dG1188
+- Luc_22:69el Hijo del Hombre se sentará a la dG1188
+- Hec_2:25porque está a mi d, no seré conmovidoG1188
+- Hec_2:33exaltado por la d de Dios, y habiendoG1188
+- Hec_2:34dice: Dijo el Señor a...Siéntate a mi dG1188
+- Hec_5:31a éste, Dios ha exaltado con su d porG1188
+- Hec_7:55vio...a Jesús que estaba a la d de DiosG1188
+- Hec_7:56veo...al Hijo del Hombre...a la d de DiosG1188
+- Rom_8:34el que además está a la d de Dios, elG1188
+- 2Co_6:7armas de justicia a d y a siniestraG1188
+- Gál_2:9dieron a mí y a Bernabé la d en señalG1188
+- Efe_1:20y sentándole a su d en los lugaresG1188
+- Col_3:1donde está Cristo sentado a la d deG1188
+- Heb_1:3se sentó a la d de la Majestad en lasG1188
+- Heb_1:13siéntate a mi d, hasta que ponga a tusG1188
+- Heb_8:1el cual se sentó a la d del trono de laG1188
+- Heb_10:12Cristo...se ha sentado a la d de DiosG1188
+- Heb_12:2y se sentó a la d del trono de DiosG1188
+- 1Pe_3:22habiendo subido...está a la d de DiosG1188
+- Rev_1:16tenía en su d siete estrellas; de suG1188
+- Rev_1:17él puso su d sobre mí, diciéndome: NoG1188
+- Rev_1:20misterio de las...que has visto en mi dG1188
+- Rev_2:1el que tiene las siete estrellas en su dG1188

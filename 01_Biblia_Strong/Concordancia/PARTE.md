@@ -1,0 +1,346 @@
+---
+tipo: concordancia
+palabra: PARTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PARTE
+
+- Gén_6:16un codo de elevación...la p de arribaH6654
+- Gén_14:5vino...y los reyes que estaban de su p
+- Gén_14:24la p de los varones que...tomarán su pH2506
+- Gén_19:24azufre y fuego de p de Jehová desde los cielos
+- Gén_27:16la p de su cuello donde no tenía vello
+- Gén_31:14dijeron: ¿Tenemos acaso p o heredad enH2506
+- Gén_33:19compró una p del campo, donde plantó suH2513
+- Gén_41:32que la cosa es firme de p de Dios, y que
+- Gén_47:24las cuatro p serán vuestras para sembrar
+- Gén_48:22dado a ti una p más que a tus hermanosH7926
+- Éxo_2:12entonces miró a todas p, y viendo que
+- Éxo_16:36y un gomer es la décima p de un efa
+- Éxo_26:12y la p que sobra en las cortinas de laH5629
+- Éxo_27:2esquinas; los cuernos serán p del mismo
+- Éxo_28:8su cinto...de la misma obra, p del mismo
+- Éxo_28:25los fijarás a...efod en su p delantera
+- Éxo_28:27anillos...fijarás en la p delantera deH6763
+- Éxo_28:37por la p delantera de la mitra estará
+- Éxo_29:40con cada cordero una décima p de un efa
+- Éxo_29:40amasada con la cuarta p de un hin de
+- Éxo_29:40para la libación, la cuarta p de un hin
+- Éxo_30:2codos; y sus cuernos serán p del mismo
+- Éxo_30:36y molerás p de él en polvo fino, y lo
+- Éxo_39:19su orilla, frente a la p baja del efodH5676
+- Éxo_39:20en la p delantera...cerca de su junturaH3802
+- Lev_2:16p del grano desmenuzado y del aceite
+- Lev_5:11traerá...la décima p de un efa de flor de
+- Lev_5:16y añadirá a ello la quinta p, y lo dará
+- Lev_6:5restituirá...y añadirá a ello la quinta p
+- Lev_6:20la décima p de un efa de flor de harina
+- Lev_7:14de toda la ofrenda presentará una p por
+- Lev_8:29del carnero...aquella fue la p de MoisésH4940
+- Lev_22:14quinta p, y la dará al sacerdote con la
+- Lev_23:13su libación será de vino, la cuarta p de un hin
+- Lev_27:13, Lev_27:15añadirá a tu valuación la quinta p
+- Lev_27:19añadirá...la quinta p del precio de ella
+- Lev_27:27añadirán...la quinta p de su precio; y si
+- Lev_27:31añadirá la quinta p de su precio por ello
+- Núm_5:7y añadirá sobre ello la quinta p, y lo dará
+- Núm_5:15la décima p de un efa de harina de cebada
+- Núm_8:3Aarón lo...encendió hacia la p anterior
+- Núm_15:4harina, amasada con la cuarta p de un hin
+- Núm_15:5de vino...ofrecerás la cuarta p de un hin
+- Núm_15:6amasada con la tercera p de un hin de
+- Núm_15:7vino...ofrecerás la tercera p de un hin
+- Núm_18:20ni entre ellos tendrás p...Yo soy tu pH2506
+- Núm_18:32cuando hubiereis ofrecido la mejor p de
+- Núm_19:4rociará hacia la p delantera del tabernáculo
+- Núm_23:10o el número de la cuarta p de Israel?
+- Núm_28:5la décima p de un efa de flor de harina
+- Núm_28:7su libación, la cuarta p de un hin con
+- Núm_28:14la tercera p de un hin con cada carnero
+- Núm_31:36la mitad, la p de los que habían salidoH2506
+- Deu_10:9por lo cual Leví no tuvo p ni heredadH2506
+- Deu_12:12por cuanto no tiene p ni heredad conH2506
+- Deu_14:27levita...no tiene p ni heredad contigoH2506
+- Deu_14:29el levita, que no tiene p ni heredadH2506
+- Deu_18:1la tribu de Leví, no tendrán p ni heredadH2506
+- Deu_18:3derecho de los sacerdotes de p del pueblo
+- Deu_19:3dividirás en tres p la tierra que Jehová
+- Deu_25:11la mujer...asiere de sus p vergonzosas
+- Deu_30:4estuvieren en las p más lejanas que hay
+- Jos_8:20no pudieron huir ni a una p ni a otra
+- Jos_14:4no dieron p a los levitas en la tierra
+- Jos_15:1la p que tocó en suerte a la tribu de los hijos de Judá
+- Jos_15:13mas a Caleb...dio su p entre los hijos deH2506
+- Jos_17:5le tocaron a Manasés diez p además de laH2256
+- Jos_17:14¿por qué nos has dado una...y una sola pH2256
+- Jos_17:17gran pueblo, y...no tendrás una sola pH1486
+- Jos_18:5dividirán en siete p; y Judá quedará enH2506
+- Jos_18:6delinearéis la tierra en siete p, y meH2506
+- Jos_18:7levitas ninguna p tienen entre vosotrosH2506
+- Jos_18:9delineándola por ciudades en siete p enH2506
+- Jos_19:9la p de los hijos de Judá era excesivaH2556
+- Jos_22:25no tenéis vosotros p en Jehová; y asíH2506
+- Jos_22:27digan...Vosotros no tenéis p en Jehová
+- Jos_24:32en la p del campo que Jacob compró aH2513
+- Jue_19:1, Jue_19:18p más remota del monte de EfraínH3411
+- Jue_19:29la partió por sus huesos en doce p, y laH5409
+- Rut_2:3aquella p del campo era de Booz, el cualH2513
+- Rut_2:12cumplida de p de Jehová Dios de Israel
+- Rut_4:3dijo...Noemí...vende una p de las tierrasH2513
+- 1Sa_1:4daba...todos sus hijos...cada uno su pH4490
+- 1Sa_1:5a Ana daba una p escogida; porque amabaH4490
+- 1Sa_9:8halla en mi mano la cuarta p de un siclo
+- 1Sa_13:21la tercera p de un siclo por afilar las
+- 1Sa_16:14le atormentaba un espíritu malo de p de Jehová
+- 1Sa_16:15un espíritu malo de p de Dios te atormenta
+- 1Sa_16:16de p de Dios, él toque con su mano, y tengas alivio
+- 1Sa_16:23el espíritu malo de p de Dios venía sobre Saúl
+- 1Sa_18:10que un espíritu malo de p de Dios tomó a Saúl
+- 1Sa_19:9y el espíritu malo de p de Jehová vino sobre Saúl
+- 1Sa_20:7la maldad está determinada de p de él
+- 1Sa_25:20descendió por una p secreta del monte
+- 1Sa_26:19que no tenga p en la heredad de Jehová
+- 1Sa_30:14pues hicimos una incursión a la p del
+- 1Sa_30:24conforme a la p del que desciende a laH2506
+- 1Sa_30:24la p del que queda...les tocará p igualH2506
+- 2Sa_2:15doce de Benjamín por p de Is-boset hijo de Saúl
+- 2Sa_3:12envió Abner mensajeros a David de su p, diciendoH8478
+- 2Sa_15:3mas no tienes quien te oiga de p del rey
+- 2Sa_18:2tercera p bajo...Joab, una tercera p
+- 2Sa_18:2y una tercera p al mando de Itai getea
+- 2Sa_18:13otra p, habría yo hecho traición contra
+- 2Sa_19:43nosotros tenemos en el rey diez p, y en
+- 2Sa_20:1dijo: No tenemos nosotros p en David, niH2506
+- 1Re_2:33habrá perpetuamente paz de p de Jehová
+- 1Re_2:36no salgas de allí a una p ni a otra
+- 1Re_5:4Dios me ha dado paz por todas p; pues niH5439
+- 1Re_6:20el lugar santísimo estaba en la p deH6440
+- 1Re_7:25las ancas...estaban hacia la p de adentro
+- 1Re_7:34y las repisas eran p de la misma basa
+- 1Re_10:19la p alta era redonda por el respaldo
+- 1Re_12:16¿qué p tenemos nosotros con David? NoH2506
+- 1Re_16:21Israel fue dividido en dos p...la mitadH2677
+- 2Re_2:12sus vestidos, los rompió en dos pH7168
+- 2Re_4:35se paseó por la casa a una y otra p, y
+- 2Re_5:25él dijo: Tu siervo no ha ido a ninguna p
+- 2Re_6:25la cuarta p de un cab de estiércol de
+- 2Re_9:33p de su sangre salpicó en la pared, y en
+- 2Re_11:5tercera p...tendrá la guardia de la casa
+- 2Re_11:6otra tercera p estará a la puerta de Shur
+- 2Re_11:6tercera p a la puerta del postigo de la
+- 2Re_11:7las dos p de...que salen el día de reposoH3027
+- 2Re_16:14altar...la p delantera de la casa, entreH6440
+- 2Re_22:14moraba en...en la segunda p de la ciudad
+- 2Re_25:30diariamente le fue dada su comida de p del rey
+- 1Cr_7:28p del occidente Gezer y sus aldeas
+- 1Cr_13:2enviaremos a todas p por...hermanos queH251
+- 1Cr_22:18Dios, el cual os ha dado paz por todas p?[[H5439]]
+- 1Cr_29:21muchos sacrificios de p de todo Israel
+- 2Cr_7:7consagró la p central del atrio queH8484
+- 2Cr_10:16¿qué p tenemos nosotros con David? NoH2506
+- 2Cr_14:7Jehová...él nos ha dado paz por todas pH5439
+- 2Cr_15:8las ciudades...en la p montañosa de Efraín
+- 2Cr_15:15de Judá...Jehová les dio paz por todas p
+- 2Cr_20:30Josafat...su Dios le dio paz por todas p
+- 2Cr_23:4una tercera p de vosotros...de porteros
+- 2Cr_23:5otra tercera p, a la casa del rey; y la
+- 2Cr_23:5y la otra tercera p, a la puerta del
+- 2Cr_23:7los levitas rodearán al rey por todas p
+- 2Cr_23:10puso en...alrededor del rey por todas pH3802
+- 2Cr_36:12profeta Jeremías, que le hablaba de p de Jehová
+- Esd_7:14de p del rey y de sus siete consejeros
+- Esd_9:8ha habido misericordia de p de Jehová nuestro Dios
+- Neh_2:20no tenéis p ni derecho ni memoria enH2506
+- Neh_4:13las P bajas del lugar, detrás del muroH4725
+- Neh_5:11les devolvéis...la centésima p del dinero
+- Neh_5:16en la obra de este muro restauré mi p
+- Neh_9:3leyeron el libro de...la cuarta p del día
+- Neh_9:3y la cuarta p confesaron sus pecados y
+- Neh_10:32contribuir...la tercera p de un siclo
+- Neh_11:1las otras nueve p en las otras ciudadesH3027
+- Neh_12:47los levitas consagraban p a los hijos de
+- Est_4:14y liberación vendrá de alguna otra pH4725
+- Est_7:7estaba resuelto para él el mal de p del rey
+- Job_18:11De todas p lo asombrarán temores, y leH5439
+- Job_32:17yo también responderé mi p; tambiénH2506
+- Job_37:22viniendo de la p del norte la dorada
+- Job_41:23las p más flojas de...están endurecidas
+- Sal_31:13miedo me asalta...todas p, mientrasH5439
+- Sal_50:18corrías...y con los adúlteros era tu pH2506
+- Sal_109:20sea este el pago de p de Jehová a los que me
+- Sal_118:23de p de Jehová es esto, y es cosa
+- Sal_136:13que dividió el Mar Rojo en p, porqueH1506
+- Sal_140:9cuanto a los aue en todas p me rodean
+- Pro_8:31me regocijo en la p habitable de su
+- Pro_23:8vomitarás la p que comiste, y perderásH6595
+- Ecl_2:10gozó...y esta fue mi p de toda mi faenaH2506
+- Ecl_3:22alegrarse en su trabajo...esta es su pH2506
+- Ecl_5:18el bien que yo he visto...esta es su pH2506
+- Ecl_5:19da facultad para que...tome su p, y goceH2506
+- Ecl_9:6nunca más tendrán p en...lo que se haceH2506
+- Ecl_9:9porque esta es tu p en la vida, y en tuH2506
+- Isa_5:9ha llegado a mis oídos de p de Jehová
+- Isa_6:13si quedare aún en ella la décima p, ésta volverá
+- Isa_8:18de p de Jehová de los ejércitos, que mora
+- Isa_17:14esta es la p de los que nos aplastanH2506
+- Isa_22:5de angustia y de confusión, de p del Señor
+- Isa_22:14fue revelado a mis oídos de p de Jehová
+- Isa_33:4correrán sobre ellos como de...a otra p
+- Isa_38:7esto te será señal de p de Jehová, que
+- Isa_42:25le puso fuego por todas p...no entendió
+- Isa_44:16p del leño quema en el fuego; con p deH2677
+- Isa_44:19p de esto quemé en el fuego, y sobreH2677
+- Isa_53:12yo le daré p con los grandes, y con los
+- Isa_57:6en las piedras lisas del valle está tu pH2506
+- Jer_6:25espada de enemigo y...hay por todas pH5439
+- Jer_20:10oí la murmuración de...temor de todas pH5439
+- Jer_22:20tu voz, y grita hacia todas p; porque
+- Jer_34:18pacto...dividiendo en dos p el becerroH1335
+- Jer_34:19los...que pasaron entre las p del becerroH1335
+- Jer_46:5huyeron sin volver a...miedo de todas p
+- Jer_49:35quiebro el arco de Elam, p principal de
+- Jer_51:2contra ella de todas p en el día dél malH5439
+- Jer_51:31que su ciudad es tomada por todas pH7097
+- Jer_52:4todas p edificaron contra ella baluartesH5439
+- Jer_52:34se le daba una ración de p del rey deH1697
+- Lam_2:22has convocado de todas p mis temores
+- Eze_3:17oirás...la palabra...amonestarás de mi p
+- Eze_4:11beberás el agua...la sexta p de un hin
+- Eze_5:2una tercera p quemarás a fuego en medio
+- Eze_5:2tomarás...tercera p...tercera p esparcirás
+- Eze_5:12una tercera p de ti morirá de pestilencia
+- Eze_5:12tercera p caerá a espada...p esparciré a
+- Eze_15:4la p de en medio se quemó; ¿servirá para
+- Eze_16:33que de todas p se llegasen a ti en tusH5439
+- Eze_20:46derrama tu palabra hacia la p australH3293
+- Eze_33:7palabra de mi boca, y los amonestarás de mi p
+- Eze_36:3asolaron y os tragaron de todas p, paraH5439
+- Eze_37:21los recogeré de todas p, y los traeré aH5439
+- Eze_38:12que mora en la p central de la tierraH3427
+- Eze_39:2te haré subir de las p del norte, y teH3411
+- Eze_39:17de todas p a mi víctima que sacrificoH5439
+- Eze_40:2un edificio parecido a...hacia la p sur
+- Eze_45:7la p del príncipe estará junto a lo que
+- Eze_45:11que el bato tenga la décima p del homer
+- Eze_45:11la décima p del homer el efa; la medida
+- Eze_45:13(2)sexta p de un efa por cada homer de
+- Eze_45:14un bato...que es la décima p de un coro
+- Eze_46:14ofrenda de la sexta p de un efa, y la
+- Eze_46:14la tercera p de un hin de aceite para
+- Eze_46:16si el príncipe diere p de su heredad a
+- Eze_46:17diere p a alguno de sus siervos, será
+- Eze_47:13en que repartiréis...José tendrá dos pH2256
+- Eze_48:1al norte, hacia Hamat, tendrá Dan una p
+- Eze_48:2hasta el lado del mar, tendrá Aser una p
+- Eze_48:8longitud como...de las otras p, esto esH2506
+- Eze_48:12tendrán como p santísima la porción de
+- Eze_48:21delante de...p dichas será del príncipeH6285
+- Eze_48:22la p del príncipe será la comprendida
+- Dan_1:2p de los utensilios de la casa de DiosH6598
+- Dan_2:15que este edicto se publique de p del rey
+- Dan_2:33sus pies, en p de hierro y en p de barroH4481
+- Dan_2:41en p de barro cocido...y en p de hierroH4481
+- Dan_2:42los dedos...p de hierro y en p de barroH4481
+- Dan_2:42el reino será en p fuerte, y en p frágilH4481
+- Dan_4:15con las bestias sea su p entre la hierbaH2508
+- Dan_4:23y con las bestias del campo sea su pH2508
+- Dan_6:26de p mía es puesta esta ordenanza: Que
+- Dan_8:10p del ejército...echó por tierra, y las
+- Dan_11:6su hijo, y los que estaban de p de ella
+- Dan_11:31y se levantarán de su p...que profanaránH2506
+- Dan_12:1Miguel...que está de p de los hijos de tuH5975
+- Amó_4:7sobre una p llovió, y la p sobre la cual
+- Amó_7:4con fuego...y consumió una p de la tierraH2506
+- Miq_1:12de p de Jehová el mal había descendido
+- Zac_7:12vino...gran enojo de p de Jehová de losH7110
+- Zac_13:8las dos terceras p serán cortadas en ellaH6310
+- Zac_13:9meteré en el fuego a la tercera p, y los
+- Mat_13:4p de la semilla cayó junto al camino
+- Mat_13:5p cayó en pedregales, donde no había
+- Mat_13:7y p cayó entre espinos; y los espinos
+- Mat_13:8pero p cayó en buena tierra, y dio fruto
+- Mat_24:51y pondrá su p con los hipócritas; allíG3313
+- Mat_26:47de p de...sacerdotes y de los ancianos
+- Mar_1:45se quedaba...y venían a él de todas pG3840
+- Mar_4:4una p cayó junto al camino, y vinieron las
+- Mar_4:5otra p cayó en pedregales, donde no teníaG243
+- Mar_4:7otra p cayó entre espinos; y los espinosG243
+- Mar_4:8pero otra p cayó en buena tierra, y dio
+- Mar_6:55a traer de todas p enfermos en lechos
+- Mar_14:43de p de los principales sacerdotes y de
+- Mar_16:20ellos, saliendo, predicaron en todas pG3837
+- Luc_1:45se cumplirá lo...dicho de p del Señor
+- Luc_2:1promulgó un edicto de p de Augusto César
+- Luc_8:5una p cayó junto al camino, y fue hollada
+- Luc_8:6p cayó sobre la piedra; y nacida, se secó
+- Luc_8:7otra p cayó entre espinos, y los espinos
+- Luc_8:8p cayó en buena tierra, y nació y llevó
+- Luc_9:6todas las aldeas...y sanando por todas pG3837
+- Luc_10:42María ha escogido la buena p, la cualG3310
+- Luc_11:36si...no teniendo p alguna de tinieblasG3313
+- Luc_15:12padre, dame la p de los bienes que meG3313
+- Luc_19:43sitiarán, y por todas p te estrecharánG3840
+- Luc_24:42le dieron p de un pez asado, y un panalG3313
+- Jua_10:1que sube por otra p, ése es ladrón yG237
+- Jua_13:8si no te lavare, no tendrás p conmigoG3313
+- Jua_19:23e hicieron cuatro p...para cada soldadoG3313
+- Hec_1:17contado...tenía p en este ministerioG2819
+- Hec_1:25para que tome la p de este ministerio yG2819
+- Hec_5:2trayendo sólo una p, la puso a los pies
+- Hec_8:4iban por todas p anunciando el evangelioG1330
+- Hec_8:21no tienes tú p ni suerte en este asuntoG3310
+- Hec_21:28por todas p enseña a...contra el puebloG3837
+- Hec_23:6notando que una p era de saduceos y otraG3313
+- Hec_23:9los escribas de la p de los fariseosG3313
+- Hec_27:44p en tablas, p en cosas de la nave
+- Hec_28:22nos es notorio que en todas p se hablaG3837
+- Rom_11:25endurecimiento en p, hasta que hayaG3313
+- Rom_13:1no hay autoridad sino de p de Dios, y
+- Rom_15:15os he escrito...en p con atrevimiento
+- 1Co_4:17de la manera que enseño en todas pG3837
+- 1Co_11:18hay entre vosotros divisiones; y en p lo creo
+- 1Co_13:9en p conocemos, y en p profetizamosG3313
+- 1Co_13:10mas entonces lo que es en p se acabaráG3313
+- 1Co_13:12conozco en p; pero...como fui conocidoG3313
+- 2Co_1:14en p habéis entendido...vuestra gloriaG3313
+- 2Co_2:3de p de aquellos de quienes me debiera gozar
+- 2Co_2:17como de p de Dios, y delante de Dios
+- 2Co_4:10llevando...por todas p la muerte de Jesús
+- 2Co_6:15¿o qué p el creyente con el incrédulo?[[G3310]]
+- 2Co_7:9pérdida padecieseis por nuestra p
+- 2Co_9:3nuestro gloriarnos...no sea vano en esta pG3313
+- Gál_2:12que viniesen algunos de p de Jacobo
+- Efe_4:9había descendido primero a las p másG3313
+- Heb_9:2en la primera p: llamada el Lugar Santo
+- Heb_9:3tras el segundo velo estaba la p del
+- Heb_9:4arca...cubierta de oro por todas p, en la
+- Heb_9:6en la primera p...entran los sacerdotes
+- Heb_9:7en la segunda p, sólo el sumo sacerdote
+- Heb_9:8que la primera p del...estuviese en pie
+- Heb_10:33por una p, ciertamente, con vituperios
+- Heb_12:9por otra p, tuvimos a nuestros padresG1534
+- Stg_1:6arrastrada...y echada de una p a otra
+- Stg_1:13no diga que es tentado de p de Dios
+- 1Pe_4:14p de ellos, él es blasfemado, pero
+- Rev_6:8dada potestad sobre la cuarta p de la
+- Rev_8:7la tercera p de los árboles se quemó, y seG3310
+- Rev_8:8tercera p del mar se convirtió en sangre
+- Rev_8:9murió la tercera p de los seres vivientes
+- Rev_8:9la tercera p de las naves fue destruida
+- Rev_8:10y cayó sobre la tercera p de los ríos
+- Rev_8:11la tercera p de las aguas se convirtió
+- Rev_8:12tercera p del sol, y la tercera p de la
+- Rev_8:12la tercera p de las estrellas, para que
+- Rev_8:12que se oscureciese la tercera p de ellos
+- Rev_8:12no hubiese luz en la tercera p del día
+- Rev_9:15de matar a la tercera p de los hombres
+- Rev_9:18fue muerta la tercera p de los hombres
+- Rev_11:13y la décima p de la ciudad se derrumbó
+- Rev_12:4su cola arrastraba la tercera p de las
+- Rev_16:19la gran ciudad fue dividida en tres pG3313
+- Rev_18:4de sus pecados, ni recibáis p de sus plagas
+- Rev_20:6bienaventurado y...el que tiene p en laG3313
+- Rev_21:8tendrán su p en el lago que arde conG3313
+- Rev_22:19Dios quitará su p del libro de la vidaG3313

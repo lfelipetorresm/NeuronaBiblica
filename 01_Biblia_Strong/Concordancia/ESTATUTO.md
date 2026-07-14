@@ -1,0 +1,166 @@
+---
+tipo: concordancia
+palabra: ESTATUTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESTATUTO
+
+- Gén_26:5Abraham...guardo...mis e y mis layesH2708
+- Éxo_12:14fiesta...por e perpetuo lo celebraréisH2708
+- Éxo_12:24guardaréis esto por e para vosotros yH2706
+- Éxo_15:25dio e y ordenanzas, y allí los proboH2706
+- Éxo_15:26dieres oído...y guardares todos sus eH2708
+- Éxo_27:21e perpetuo de los hijos de Israel porH2708
+- Éxo_28:43e perpetuo para ¿él, y...su descendenciaH2708
+- Éxo_29:28será...como e perpetuo para los hijos deH2706
+- Éxo_30:21y lo tendrán por e perpetuo él y suH2706
+- Lev_3:17e perpetuo será por vuestras edadesH2708
+- Lev_6:18e perpetuo...para vuestras generacionesH2706
+- Lev_6:22igual ofrenda. Es e perpetuo de JehováH2706
+- Lev_7:34he dado a Aarón...como e perpetuo paraH2706
+- Lev_7:36como e perpetuo en sus generacionesH2708
+- Lev_10:9e perpetuo...para vuestras generacionesH2708
+- Lev_10:11enseñar a los hijos de Israel...los eH2706
+- Lev_16:29esto tendréis por e perpetuo: En el mesH2708
+- Lev_16:31afligiréis vuestras almas...e perpetuoH2708
+- Lev_16:34y esto tendréis como e perpetuo, paraH2708
+- Lev_17:7tendrán...por e perpetuo por sus edadesH2708
+- Lev_18:3ni haréis como...ni andaréis en sus eH2708
+- Lev_18:4y mis e guardaréis, andando en ellosH2708
+- Lev_18:5guardaréis mis e y mis ordenanzas, losH2708
+- Lev_18:26guardad, pues...mis e y mis ordenanzasH2708
+- Lev_19:19mis e guardarás. No harás ayuntar tuH2708
+- Lev_19:37guardad, pues, todos mis e, y todas misH2708
+- Lev_20:8guardad mis e, y ponedlos por obra. YoH2708
+- Lev_20:22guardad...todos mis e y...mis ordenanzasH2708
+- Lev_23:14e perpetuo es por vuestras edades enH2708
+- Lev_23:21, Lev_23:31, Lev_23:41e perpetuo es por...generacionesH2708
+- Lev_24:3es e perpetuo por vuestras generacionesH2708
+- Lev_24:22un mismo e tendréis para el extranjeroH4941
+- Lev_25:18ejecutad, pues, mis e y guardad misH2708
+- Lev_26:15y vuestra alma menospreciare mis e, noH2708
+- Lev_26:43cuanto...su alma tuvo fastidio de mis eH2708
+- Lev_26:46los e...que estableció Jehová entre síH2708
+- Núm_10:8tendréis por e perpetuo por vuestrasH2708
+- Núm_15:15un mismo e tendréis...será e perpetuoH2708
+- Núm_18:8, Núm_18:11he dado...a tus hijos, por e perpetuoH2706
+- Núm_18:19las he dado para ti, y...por e perpetuoH2706
+- Núm_18:23e perpetuo para vuestros descendientesH2708
+- Núm_19:10e perpetuo para los hijos de IsraelH2708
+- Núm_19:21será e perpetuo; también el que rociareH2708
+- Núm_27:11de Israel esto será por e de derechoH2708
+- Núm_36:13estos son los...e que mandó Jehová porH4941
+- Deu_4:1Israel, oye los e y...que yo os enseñoH2706
+- Deu_4:5os he enseñado e...como Jehová mi Dios meH2706
+- Deu_4:6los cuales oirán todos estos e, y diránH2706
+- Deu_4:8y ¿qué nación grande hay que tenga e yH2706
+- Deu_4:14mandó...que os enseñase los e y juiciosH2706
+- Deu_4:40y guarda sus e y sus mandamientos, losH2706
+- Deu_4:45los e y los decretos que habló MoisésH2706
+- Deu_5:1oye...los e y decretos que yo pronuncioH2706
+- Deu_5:31e y decretos que les enseñarás, a finH2706
+- Deu_6:1e y decretos que Jehová...Dios mandó queH2706
+- Deu_6:2para que temas a...guardando todos sus eH2708
+- Deu_6:17guardad cuidadosamente...sus e que te haH2706
+- Deu_6:20¿qué significan los testimonios y e yH2706
+- Deu_6:24mandó...que cumplamos todos estos e, yH2706
+- Deu_7:11guarda...e y decretos que yo te mando hoyH2706
+- Deu_8:11para cumplir...sus e que yo te ordeno hoyH2708
+- Deu_10:13guardes...sus e, que yo te prescribo hoyH2708
+- Deu_11:1y guardarás...sus e, sus decretos y susH2708
+- Deu_11:32cuidaréis, pues, de cumplir todos los eH2706
+- Deu_12:1los e...que cuidaréis de poner por obraH2706
+- Deu_16:12tanto, guardarás y cumplirás estos eH2706
+- Deu_17:19para guardar...estos e, para ponerlosH2706
+- Deu_26:16Dios te manda hoy que cumplas estos eH2706
+- Deu_26:17guardarás sus e, sus mandamientos y susH2706
+- Deu_27:10cumplirás sus mandamientos y sus e queH2706
+- Deu_28:15procurar cumplir...e que yo te intimoH2708
+- Deu_28:45no habrás atendido...para guardar...sus eH2708
+- Deu_30:10guardar...sus e escritos en este libroH2708
+- Deu_30:16y guardes...sus e y sus decretos, paraH2708
+- Jos_24:25Josué...les dio e y leyes en SiquemH2706
+- 2Sa_22:23de mí, y no me he apartado de sus eH2708
+- 1Re_2:3observando sus e y mandamientos, susH2708
+- 1Re_3:3amó...andando en los e de su padre DavidH2708
+- 1Re_3:14si anduvieres en...guardando mis e y misH2706
+- 1Re_6:12si anduvieres en mis e e hicieres misH2708
+- 1Re_8:58y guardemos sus...sus e y sus decretosH2706
+- 1Re_8:61andando en sus e y...sus mandamientosH2706
+- 1Re_9:4y si tú...guardando mis e y mis decretosH2706
+- 1Re_9:6no guardaréis...e que yo he puesto delanteH2708
+- 1Re_11:11y no has guardado mi pacto mis e que yoH2708
+- 1Re_11:33mis e y mis decretos, como hizo DavidH2708
+- 1Re_11:34quien guardó mis mandamientos y mis eH2708
+- 1Re_11:38guardando mis e y...mandamientos, comoH2708
+- 2Re_17:8anduvieron en los e de las nacionesH2708
+- 2Re_17:8los e que hicieron los reyes de Israel
+- 2Re_17:15y desecharon sus e, y el pacto que élH2706
+- 2Re_17:19sino que anduvieron en los e de IsraelH2708
+- 2Re_17:34ni guardan sus e ni sus ordenanzas, niH2708
+- 2Re_17:37e y derechos...que os dio por escritoH2706
+- 2Re_23:3guardarían...sus e, con todo el corazónH2708
+- 1Cr_16:17el cual confirmó a Jacob por e, yH2706
+- 1Cr_22:13de poner por obra los e y decretos queH2706
+- 1Cr_29:19para que guarde...testimonios y tus eH2706
+- 2Cr_7:17si...guardares mis e y mis decretosH2706
+- 2Cr_7:19y dejaréis mis e y mandamientos que heH2708
+- 2Cr_19:10entre ley y precepto, e y decretos, lesH2706
+- 2Cr_33:8la ley, los e y los preceptos, por medioH2706
+- 2Cr_34:31de guardar sus mandamientos...y sus eH2706
+- Esd_7:10enseñar en Israel sus e y decretosH2706
+- Esd_7:11escriba versado en...en sus e a IsraelH2706
+- Neh_1:7no hemos guardado los...e y preceptosH2706
+- Neh_9:13diste juicios...e y mandamientos buenosH2706
+- Neh_9:14prescribiste mandamientos, e y la leyH2706
+- Neh_10:29y cumplirían todos los...y e de JehováH2706
+- Neh_12:24conforme al e de David varón de DiosH4687
+- Neh_12:45conforme el e de David y de SalomónH4687
+- Sal_18:22juicios...no me he apartado de sus eH2708
+- Sal_81:4e es de Israel, ordenanza del Dios deH2706
+- Sal_89:31si profanaren mis e, y no guardaren misH2708
+- Sal_99:7guardaban sus...y el e que les había dadoH2706
+- Sal_105:45que guardasen sus e y cumpliesen susH2706
+- Sal_119:5fuesen ordenados...para guardar tus e![[H2706]]
+- Sal_119:8tus e guardaré, no me dejes enteramenteH2706
+- Sal_119:12bendito tú, oh Jehová; enséñame tus eH2706
+- Sal_119:16me regocijaré en tus e; no me olvidaréH2708
+- Sal_119:23mí; mas tu siervo meditaba en tus eH2706
+- Sal_119:26y me has respondido; enséñame tus eH2706
+- Sal_119:33enséñame, oh Jehová, el camino de tus eH2706
+- Sal_119:48alzaré...mis manos...meditaré en tus eH2706
+- Sal_119:54cánticos fueron para mi tus e en laH2706
+- Sal_119:64está llena la tierra; enséñame tus eH2706
+- Sal_119:68eres tú, y bienhechor; enséñame tus eH2706
+- Sal_119:71sido humillado, para que aprenda tus eH2706
+- Sal_119:80sea mi corazón integro en tus e, paraH2706
+- Sal_119:83como el odre al...no he olvidado tus eH2706
+- Sal_119:112mi corazón incliné a cumplir tus eH2706
+- Sal_119:117y me regocijaré siempre en tus eH2706
+- Sal_119:118a todos los que se desvían de tus eH2706
+- Sal_119:124tu misericordia, y enséñame tus eH2706
+- Sal_119:135rostro resplandezca...enséñame tus eH2706
+- Sal_119:145respóndeme, Jehová, y guardaré tus eH2706
+- Sal_119:155lejos está de...porque no buscan tus eH2706
+- Sal_119:171rebosarán...cuando me enseñes tus eH2706
+- Sal_147:19ha manifestado...sus e y sus juiciosH2706
+- Pro_8:29cuando ponía al mar su eH2706
+- Jer_44:10han caminado en mi ley ni en mis eH2708
+- Jer_44:23ni anduvisteis en su ley ni en sus eH2708
+- Eze_11:12no habéis andado en mis e, ni habéisH2708
+- Eze_18:19hijo...guardó todos mis e y los cumplióH2708
+- Eze_18:21guardare todos mis e e hiciere según elH2708
+- Eze_20:11les di mis e, y les hice conocer misH2708
+- Eze_20:13no anduvieron en mis e, y desecharonH2713
+- Eze_20:16no anduvieron en mis e, y mis días deH2713
+- Eze_20:18no andéis en los e de vuestros padresH2706
+- Eze_20:19andad en mis e, y guardad mis preceptosH2708
+- Eze_20:21no anduvieron en mis e, ni guardaronH2708
+- Eze_20:24que desecharon mis e y profanaron misH2708
+- Eze_20:25yo también les di e que no eran buenosH2706
+- Eze_33:15el impío...caminare en los e de la vidaH2708
+- Eze_36:27haré que andéis en mis e, y guardéisH2706
+- Eze_37:24y mis e guardarán, y los pondrán porH2708
+- Eze_46:14ofrenda para Jehová...por e perpetuoH2708

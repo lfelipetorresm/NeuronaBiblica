@@ -1,0 +1,404 @@
+---
+tipo: concordancia
+palabra: SERVIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SERVIR
+
+- Gén_1:14sirvan de señales para las estaciones
+- Gén_6:21servirá de sustento para ti y para ellos
+- Gén_11:3les sirvió el ladrillo en lugar de piedraH1961
+- Gén_14:4doce años habían servido a QuedorlaomerH5647
+- Gén_15:14la nación a la cual servirán, juzgaréH5647
+- Gén_21:30me sirvan de testimonio de que yo cavé
+- Gén_25:23un pueblo...y el mayor servirá al menorH5647
+- Gén_25:32¿para qué...me servirá la primogenitura?
+- Gén_27:29sírvante pueblos, y...se inclinen a tiH5647
+- Gén_27:40por tu espada...y a tu hermano servirásH5647
+- Gén_29:15tú mi hermano, me servirás de balde?[[H5647]]
+- Gén_29:18serviré siete años por Raquel tu hijaH5647
+- Gén_29:20así sirvió Jacob por Raquel siete añosH5647
+- Gén_29:25¿no te he servido por Raquel? ¿Por quéH5647
+- Gén_29:30y sirvió a Labán aún otros siete añosH5647
+- Gén_30:26mis mujeres...por las cuales he servidoH5647
+- Gén_30:29tú sabes cómo te he servido, y cómo haH5647
+- Gén_31:6sabéis que...he servido a vuestro padreH5647
+- Gén_31:41catorce años te serví por tus dos hijasH5647
+- Gén_39:4halló José gracia en...ojos, y le servíaH8334
+- Gén_40:4encargó de ellos a José, y él les servíaH8334
+- Gén_49:15y bajó su hombro...y sirvió en tributoH5647
+- Éxo_1:13los egipcios hicieron servir...IsraelH5647
+- Éxo_3:12vé...serviréis a Dios sobre este monteH5647
+- Éxo_4:23dejes ir a mi hijo, para que me sirvaH5647
+- Éxo_6:5aquienes hacen servir los, egipcios, yH5647
+- Éxo_7:16; Éxo_8:1, Éxo_8:20; Éxo_9:1, Éxo_9:13; Éxo_10:3deja ir a mi pueblo, para que me sirvaH5647
+- Éxo_10:7deja ir a...que sirvan a Jehová su DiosH5647
+- Éxo_10:8les dijo: Andad, servid a Jehová vuestroH5647
+- Éxo_10:11id ahora vosotros...y servid a JehováH5647
+- Éxo_10:24id, servid a Jehová; solamente quedenH5647
+- Éxo_10:26de ellos hemos de tomar para servir aH5647
+- Éxo_10:26no sabemos con qué hemos de servir aH5647
+- Éxo_12:31id, servid a Jehová, como habéis dichoH5647
+- Éxo_14:5haber dejado ir...para que no nos sirva?[[H5647]]
+- Éxo_14:12déjanos servir a los egipcios? PorqueH5647
+- Éxo_14:12mejor nos fuera servir a los egipciosH5647
+- Éxo_21:2si comprares siervo...seis años serviráH5647
+- Éxo_23:24no te...a sus dioses, ni los servirás, niH5647
+- Éxo_23:25a Jehová vuestro Dios serviréis, y élH5647
+- Éxo_23:33te hagan pecar...sirviendo a sus diosesH5647
+- Éxo_28:43se acerquen al altar para servir en elH8334
+- Éxo_29:30venga al...para servir en el santuarioH8334
+- Éxo_35:19vestiduras de sus hijos para servir enH8334
+- Éxo_40:15su unción les servirá por sacerdocio
+- Lev_25:39ti, no le harás servir como esclavoH5656
+- Lev_25:40hasta el año del jubileo te serviráH5647
+- Lev_25:46para siempre os serviréis de ellos; peroH5647
+- Núm_1:50y ellos servirán en él, y acamparánH8334
+- Núm_3:6delante del...Aarón, para que le sirvanH8334
+- Núm_3:7servir en el ministerio del tabernáculoH5656
+- Núm_4:3, Núm_4:23, Núm_4:30entran en compañía para servirH5656
+- Núm_4:9utensilios del aceite con que se sirveH8334
+- Núm_4:14pondrán...instrumentos de que se sirveH8334
+- Núm_4:26y todo lo que será hecho...así serviránH5647
+- Núm_8:11y servirán en el ministerio de JehováH5656
+- Núm_8:26servirán...en el tabernáculo de reuniónH8334
+- Núm_8:26pero no servirán en el ministerio...AsíH5656
+- Núm_10:2servirán para convocar la congregación
+- Núm_15:39os servirá de franja, para que cuando
+- Núm_18:2que...se junten contigo, y te serviránH8334
+- Núm_18:2serviréis delante del tabernáculo del
+- Núm_18:6sirvan en el ministerio del tabernáculoH5656
+- Núm_18:21cuanto ellos sirven en el ministerioH5647
+- Núm_26:10cuando consumió...servir de escarmiento
+- Deu_1:38Josué...el cual te sirve, él entrará
+- Deu_1:39niños...dijisteis que servirían de botín
+- Deu_4:19viendo...te inclines a ellos y les sirvasH5647
+- Deu_4:28serviréis allí a dioses hechos de manosH5647
+- Deu_5:9no te inclinarás a ellas ni las servirásH5647
+- Deu_6:13tu Dios temerás, y a él solo servirásH5647
+- Deu_7:4desviará a tu...y servirán a dioses ajenosH5647
+- Deu_7:16ni servirás a sus dioses, porque te seráH5647
+- Deu_8:19y les sirvieres y a ellos te inclinaresH5647
+- Deu_10:8delante de Jehová para servirle, y paraH8334
+- Deu_10:12y sirvas a Jehová tu Dios con todo tuH5647
+- Deu_10:20él solo servirás, a él seguirás, y porH5647
+- Deu_11:13sirviéndole con todo vuestro corazónH5647
+- Deu_11:16os apartéis y sirváis a dioses ajenosH5647
+- Deu_12:2las naciones que...sirvieron a sus diosesH5647
+- Deu_12:30servían...a sus dioses, yo...les serviréH5647
+- Deu_13:2en pos de dioses ajenos...y sirvámoslesH5647
+- Deu_13:4Jehová...él serviréis, y a él seguiréisH5647
+- Deu_13:6vamos y sirvamos a dioses ajenos, que niH5647
+- Deu_13:13sirvamos a dioses ajenos, que vosotrosH5647
+- Deu_15:12hubiere servido seis años, al séptimoH5647
+- Deu_15:18por la mitad del...te sirvió seis añosH5647
+- Deu_15:19no te servirás del primogénito de tusH5647
+- Deu_17:3que hubiere ido y servido a dioses ajenosH5647
+- Deu_20:11que en ella fuere hallado...te serviráH5647
+- Deu_21:5a ellos escogió...para que le sirvan, yH8334
+- Deu_28:14para ir tras dioses ajenos y servirlesH5647
+- Deu_28:26y tus cadáveres servirán de comida a
+- Deu_28:36allá servirás a dioses ajenos, al paloH5647
+- Deu_28:37servirás de refrán y de burla a todos
+- Deu_28:47no serviste a...Dios con alegría y conH5647
+- Deu_28:48servirás, por tanto, a tus enemigos queH5647
+- Deu_28:64y allí servirás a dioses...no conocisteH5647
+- Deu_29:18para ir a servir a los dioses de esasH5647
+- Deu_29:26y fueron y sirvieron a dioses ajenosH5647
+- Deu_30:17te inclinares a dioses...les sirvieresH5647
+- Deu_31:20se volverán a dioses...y les serviránH5647
+- Jos_4:7estas piedras servirán de monumento
+- Jos_20:3servirán de refugio contra el vengador
+- Jos_22:5le sirváis de todo vuestro corazón y deH5647
+- Jos_23:7ni los sirváis, ni os inclinéis a ellosH5647
+- Jos_24:2Taré...Nacor...servían a dioses extrañosH5647
+- Jos_24:14a Jehová, y servidle con integridad yH5647
+- Jos_24:14quitad...dioses a los cuales sirvieronH5647
+- Jos_24:14al otro lado del río...y servid a JehováH5647
+- Jos_24:15y si mal os parece servir a JehováH5647
+- Jos_24:15escogeos hoy a quien sirváis; si a losH5647
+- Jos_24:15los dioses a quienes sirvieron...padresH5647
+- Jos_24:15pero yo y mi casa serviremos a JehováH5647
+- Jos_24:16dejemos a Jehová para servir a otrosH5647
+- Jos_24:18serviremos a Jehová...es nuestro DiosH5647
+- Jos_24:19no podréis servir a Jehová, porque élH5647
+- Jos_24:20si dejareis...sirviereis a dioses ajenosH5647
+- Jos_24:21dijo a Josué: No...a Jehová serviremosH5647
+- Jos_24:22habéis elegido a Jehová para servirleH5647
+- Jos_24:24a Jehová...serviremos, y...obedeceremosH5647
+- Jos_24:27piedra nos servirá de testigo, porque
+- Jos_24:31sirvió Israel a Jehová todo el tiempoH5647
+- Jue_2:7el pueblo había servido a Jehová todoH5647
+- Jue_2:11hijos de Israel...sirvieron a los baalesH5647
+- Jue_2:19siguiendo a dioses ajenos para servirlesH5647
+- Jue_3:6dieron...hijas...y sirvieron a sus diosesH5647
+- Jue_3:7sirvieron a los baales y a las imágenesH5647
+- Jue_3:8sirvieron los...a Cusan-risataim ocho añosH5647
+- Jue_3:14y sirvieron los hijos de Israel a EglónH5647
+- Jue_9:28y qué es Siquem, para que...le sirvamos?[[H5647]]
+- Jue_9:28servid a los varones de Hamor padre deH5647
+- Jue_9:28pero ¿por qué le hemos de servir a él?[[H5647]]
+- Jue_9:38¿quién es Abimelec para que...sirvamos?[[H5647]]
+- Jue_10:6y sirvieron a los baales y a Astarot, aH5647
+- Jue_10:6y dejaron a Jehová, y no le sirvieronH5647
+- Jue_10:10hemos dejado...y servido a los baalesH5647
+- Jue_10:13y habéis servido a dioses ajenos; porH5647
+- Jue_10:16quitaron...dioses...y sirvieron a JehováH5647
+- Jue_16:25Sansón...sirvió de juguete delante de
+- Jue_17:12aquel joven le servía de sacerdote, y
+- Rut_4:7y esto servía de testimonio en Israel
+- 1Sa_4:9no sirváis...como ellos os han servidoH5647
+- 1Sa_7:3corazón a Jehová, y sólo a él servid, yH5647
+- 1Sa_7:4a los baales...y sirvieron sólo a JehováH5647
+- 1Sa_8:8dejándome...y sirviendo a dioses ajenosH5647
+- 1Sa_11:1alianza con nosotros, y te serviremosH5647
+- 1Sa_12:10servido a los baales...y te serviremosH5647
+- 1Sa_12:14si temiereis a Jehová y le sirviereisH5647
+- 1Sa_12:14y si tanto vosotros...servís a JehováH5647
+- 1Sa_12:20sino servidle con todo vuestro corazónH5647
+- 1Sa_12:24servidle de...con todo vuestro corazónH5647
+- 1Sa_17:9seréis nuestros siervos y nos serviréisH5647
+- 1Sa_22:14que sirve a tus órdenes y es ilustre enH5650
+- 1Sa_25:42con 5 doncellas que le servían, montó
+- 1Sa_26:19diciendo: Vé y sirve a dioses ajenosH5647
+- 2Sa_10:19hicieron paz con Israel y le sirvieronH5647
+- 2Sa_13:17llamando a su criado que le servía, leH8334
+- 2Sa_15:8si...me hiciere volver...serviré a JehováH5647
+- 2Sa_16:19¿y a quién había yo de servir? ¿No esH5647
+- 2Sa_16:19como he servido delante de tu padre, asíH5647
+- 2Sa_22:44pueblo que yo no conocía me serviráH5647
+- 1Re_1:4y ella abrigaba al rey, y le servíaH8334
+- 1Re_1:15muy viejo, y Abisag sunamita le servíaH8334
+- 1Re_4:21sirvieron a Salomón todos los días queH5647
+- 1Re_9:6sino que fuereis y sirviereis a diosesH5647
+- 1Re_9:9los sirvieron; por eso ha traído JehováH5647
+- 1Re_9:21hizo...sirviesen con tributo hasta hoyH5647
+- 1Re_10:5los vestidos de los que le servían, susH8334
+- 1Re_12:4disminuye tú algo de la...y te serviremosH5647
+- 1Re_12:7si tú...les sirvieres...ellos te serviránH5647
+- 1Re_16:31Jeroboam hijo...sirvió a Baal, y lo adoróH5647
+- 1Re_19:21levantó y fue tras Elías, y le servíaH8334
+- 1Re_22:53sirvió a Baal, y lo adoró, y provocó aH3332
+- 2Re_3:11aquí está Eliseo...que servía a ElíasH3332
+- 2Re_4:40sirvió para que comieran los hombresH3332
+- 2Re_5:2una...la cual servía a la mujer de NaamánH1961, [[H6440]]
+- 2Re_6:15y salió el que servía al varón de DiosH8334
+- 2Re_10:18sirvió poco a Baal, mas Jehú lo serviráH5647
+- 2Re_17:12y servían a los ídolos, de los cualesH5647
+- 2Re_17:16hicieron imágenes...y sirvieron a BaalH5647
+- 2Re_17:35a otros dioses...ni les serviréis, niH5647
+- 2Re_17:41sirvieron a sus ídolos; y también susH5647
+- 2Re_18:7rebeló contra...Asiria, y no le sirvióH5647
+- 2Re_21:21sirvió a los ídolos a los cuales habíaH5647
+- 2Re_21:21a los cuales había servido su padre, yH5647
+- 2Re_25:24y servid al rey de Bablionia, y os iráH5647
+- 1Cr_6:32cuales servían delante de la tiendaH8334
+- 1Cr_15:2ha elegido Jehová para que...y le sirvanH8334
+- 1Cr_25:8echaron suertes para servir por turnosH4931
+- 1Cr_26:12alternando los...para servir en la casaH8334
+- 1Cr_27:1que servían al rey en todos los negociosH8334
+- 1Cr_28:1reunió...a todos los...que servían al reyH8334
+- 1Cr_28:9al Dios...y sírvele con corazón perfectoH5647
+- 2Cr_7:19y sirviereis a dioses ajenos, y losH5647
+- 2Cr_7:22y los adoraron y sirvieron; por eso élH5647
+- 2Cr_10:4ahora alivia algo de la...te serviremosH5647
+- 2Cr_10:7les agradares...ellos te servirán siempreH5650
+- 2Cr_12:8para que sepan lo que es servirme a míH5656
+- 2Cr_12:8es servir a los reinos de las nacionesH5656
+- 2Cr_22:8los...que servían a Ocozías, y los matóH8334
+- 2Cr_24:18sirvieron a los símbolos de Asera y aH5647
+- 2Cr_29:11le sirváis, y seáis sus ministros, y leH8334
+- 2Cr_30:8servid a Jehová vuestro Dios, y el ardorH5647
+- 2Cr_33:16y mandó a Judá que sirviesen a JehováH5647
+- 2Cr_33:22sirvió a todos los ídolos que su padreH5647
+- 2Cr_34:33hizo que todos los...sirviesen a JehováH5647
+- 2Cr_35:3ahora servid a Jehová vuestro Dios, y aH5647
+- Neh_1:11porque yo servía de copero al reyH5414
+- Neh_2:1sucedió...tomé el vino y lo serví al rey
+- Neh_4:22de noche sirvan de centinela y de día en
+- Neh_6:13sirviera del mal nombre con que fuera
+- Neh_9:35no te sirvieron, ni se convirtieron deH5647
+- Neh_12:44con respecto a...y levitas que servíanH5975
+- Est_1:10que servían delante del rey AsueroH8334
+- Est_5:13esto de nada me sirve cada vez que veoH7737
+- Est_7:9uno de los eunucos que servían al rey
+- Job_21:15¿quién es el...para que le sirvamos?[[H5647]]
+- Job_30:2¿y de qué me serviría ni aun la fuerza
+- Job_30:9soy objeto de su...les sirvo de refrán
+- Job_34:9ha dicho: De nada servirá al hombre elH5532
+- Job_36:11y le sirvieron, acabarán sus días enH5647
+- Job_39:9¿querrá el búfalo servirte a ti, oH5647
+- Sal_2:11servid a Jehová con temor...temblorH5647
+- Sal_16:4dolores de aquellos que sirven...dioses
+- Sal_18:43pueblo que yo no conocía me sirvióH5647
+- Sal_22:30la posteridad le servirá...será contadoH5647
+- Sal_72:11se postrarán..las naciones le serviránH5647
+- Sal_83:8sirven de brazo a los hijos de Lot
+- Sal_97:7los que sirven a las imágenes de tallaH5647
+- Sal_100:2servid a Jehová con alegría...regocijoH5647
+- Sal_101:6el que ande en el camino...me serviráH5647
+- Sal_102:22se congreguen en uno para servir aH5647
+- Sal_106:36y sirvieron a sus ídolos, los cualesH5647
+- Sal_119:91subsisten todas las cosas...te sirvenH5560
+- Pro_12:26el justo sirve de guía a su prójimo
+- Pro_17:16¿de qué sirve el precio en la mano del
+- Ecl_2:2dije...al placer: ¿De qué sirve esto?[[H6213]]
+- Ecl_10:11si muerde...de nada sirve el encantador
+- Ecl_10:19los vivos; y el dinero sirve para todoH6030
+- Isa_1:11¿para qué me sirve, dice Jehová, la
+- Isa_11:14Edom y Moab les servirán, y los hijos
+- Isa_14:3servidumbre en que te hicieron servirH5647
+- Isa_19:23los egipcios servirán con los asiriosH5647
+- Isa_43:23no te hice servir con ofrenda, ni teH5647
+- Isa_44:15de él se sirve...el hombre para quemar
+- Isa_56:6que sigan a Jehová para servirle, y queH5647
+- Isa_59:6sus telas no servirán para vestir, ni
+- Isa_60:7carneros de Nebaiot te serán servidosH8334
+- Isa_60:10extranjeros...y sus reyes te serviránH8334
+- Isa_60:12porque la nación...que no te sirviere pereceráH5647
+- Isa_60:19el sol nunca más te servirá de luz para
+- Jer_2:20desde muy atrás...dijiste: No serviréH5647
+- Jer_5:19y servisteis a dioses...así serviréis aH5647
+- Jer_8:2ejército del cielo, a quienes...sirvieronH5647
+- Jer_11:10se fueron tras dioses...para servirlesH5647
+- Jer_13:10en pos de dioses ajenos para servirlesH5647
+- Jer_15:14te haré servir a tus enemigos en tierra
+- Jer_16:4y sus cuerpos servirán de comida a las
+- Jer_16:11anduvieron en pos de...y los sirvieronH5647
+- Jer_16:13serviréis a dioses ajenos de día y deH5647
+- Jer_17:4te haré servir a tus enemigos en tierraH5647
+- Jer_22:9adoraron dioses ajenos y les sirvieronH5647
+- Jer_22:13sirviéndose de su prójimo de balde, yH5647
+- Jer_25:6de dioses...sirviéndoles y adorándoles, niH5647
+- Jer_25:11y servirán estas naciones al...70 añosH5647
+- Jer_27:6las bestias...he dado para que le sirvanH5647
+- Jer_27:7todas las naciones le servirán a él, aH5647
+- Jer_27:8a la nación...que no sirviere a...rey deH5647
+- Jer_27:9, Jer_27:14hablan diciendo: No serviréis al reyH5647
+- Jer_27:11sometiere su cuello al...y le sirviereH5647
+- Jer_27:12someted...y servidle a él y a su puebloH5647
+- Jer_27:13de la nación que no sirviere al rey deH5647
+- Jer_27:17no los oigáis; servid al rey...y vividH5647
+- Jer_28:14para que sirvan a...y han de servirleH5647
+- Jer_30:9servirán a Jehová su Dios y a David suH5647
+- Jer_33:22multiplicaré la...levitas que me sirvenH5647
+- Jer_34:14servirá seis años, y lo enviará libreH5647
+- Jer_35:15tras dioses ajenos para servirles, yH5647
+- Jer_40:9de servir a los caldeos...servid al reyH5647
+- Lam_4:10propios hijos les sirvieron de comida
+- Eze_15:4se quemó; ¿servirá para obra alguna?[[H6743]]
+- Eze_15:5que cuando estaba entera no servía paraH6213
+- Eze_15:5quemada? ¿Servirá más para obra alguna?[[H6213]]
+- Eze_19:14endecha es esta, y de endecha servirá
+- Eze_20:32las...que sirven al palo y a la piedraH8334
+- Eze_20:39andad...y servidles, si es que a mí noH5647
+- Eze_20:40allí me servirá toda la casa de IsraelH5647
+- Eze_27:7para que te sirviese de vela; de azul y
+- Eze_29:20su trabajo con que sirvió contra ellaH5647
+- Eze_34:27libré de mano de los que se sirven deH5647
+- Eze_44:11servirán en mi santuario como porterosH8334
+- Eze_44:11ellos...estarán ante él para servirleH8334
+- Eze_44:12les sirvieron delante de sus ídolosH8334
+- Eze_44:13no se acercarán a mí para servirme como
+- Eze_44:16se acercarán a mi mesa para servirmeH8334
+- Eze_45:4servirá de lugar para sus casas, y comoH8334
+- Eze_48:18será...para los que sirven a la ciudadH5647
+- Eze_48:19y los que sirvan a la ciudad serán deH5647
+- Dan_3:17Dios a quien servimos puede librarnosH6399
+- Dan_3:18no serviremos a tus dioses, ni tampocoH6399
+- Dan_3:28antes que servir y adorar a otro diosH6399
+- Dan_6:16Dios tuyo, a quien...sirves, él te libreH6399
+- Dan_6:20a quien tú continuamente sirves, ¿te haH6399
+- Dan_7:10de él; millares de millares le servíanH8120
+- Dan_7:14para que todos los pueblos...le sirvieranH6399
+- Dan_7:27los dominios le servirán y obedeceránH6399
+- Dan_11:27no servirá de nada, porque el plazo aún
+- Ose_4:10no...porque dejaron de servir a Jehová
+- Ose_12:12Jacob sirvió para adquirir mujer, y porH5647
+- Hab_2:18¿de qué sirve la escultura...esculpióH3276
+- Sof_3:9que le sirvan de común consentimientoH5647
+- Zac_6:14coronas servirán a Helem, a Tobías
+- Mal_3:14habéis dicho: Por demás es servir aH5647
+- Mal_3:17el...que perdona a su hijo que le sirveH5647
+- Mal_3:18entre el que sirve a Dios y el que no le sH5647
+- Mat_4:10tu Dios adorarás, y a él solo servirásG3000
+- Mat_4:11y he aquí vinieron ángeles y le servíanG1247
+- Mat_5:13no sirve más para nada, sino para ser
+- Mat_6:24ninguno puede servir a dos señoresG1398
+- Mat_6:24no podéis servir a Dios y a las riquezasG1398
+- Mat_8:15la dejó; y ella se levantó, y les servíaG1247
+- Mat_13:41recogerán...los que sirven de tropiezo
+- Mat_20:28no...para ser servido, sino para servirG1247
+- Mat_22:13dijo a los que servían: Atadle de piesG1401
+- Mat_25:44¿cuándo...la cárcel, y no te servimos?[[G1247]]
+- Mat_27:55las cuales habían seguido a...sirviéndoleG1247
+- Mar_1:13era tentado...y los ángeles le servíanG1247
+- Mar_1:31le dejó la fiebre, y ella les servíaG1247
+- Mar_10:45para ser servido, sino para servir, yG1247
+- Mar_15:41en Galilea, le seguían y le servíanG1247
+- Luc_1:74librados de...sin temor le serviríamosG3000
+- Luc_2:12esto os servirá de señal: Hallaréis al
+- Luc_2:37sirviendo de noche y de día con ayunosG3000
+- Luc_4:8tu Dios adorarás, y a él solo servirásG3000
+- Luc_4:39levantándose...al instante, les servíaG1247
+- Luc_8:3otras muchas...le servían de sus bienesG1247
+- Luc_10:40mi hermana me deje servir sola? DileG1247
+- Luc_12:37que se sienten...y vendrá a servirlesG1247
+- Luc_15:29tantos años te sirvo, no habiéndoteG1247
+- Luc_16:13ningún siervo puede servir a dos señoresG1247
+- Luc_16:13no podéis servir a Dios y a...riquezasG1247
+- Luc_17:8sírveme hasta que haya comido y bebidoG1247
+- Luc_22:26sino...el que dirige, como el que sirveG1247
+- Luc_22:27se sienta a la mesa, o el que sirve?[[G1247]]
+- Luc_22:27estoy entre vosotros como el que sirveG1247
+- Jua_2:5dijo a los que servían: Haced todo loG1249
+- Jua_2:10todo hombre sirve primero el buen vinoG5087
+- Jua_12:2Marta servía, y Lázaro era uno de losG1247
+- Jua_12:26si alguno me sirve, sígame, y donde yoG1247
+- Jua_12:26si...me sirviere, mi Padre le honraráG1247
+- Hec_6:2dejemos la...para servir a las mesasG1247
+- Hec_7:7después de esto saldrán y me servirán enG3000
+- Hec_13:36habiendo servido a su propia generaciónG5256
+- Hec_20:19sirviendo al Señor con toda humildadG1398
+- Hec_20:34sabéis que...estas manos me han servidoG5256
+- Hec_24:14llaman herejía, así sirvo al Dios deG3000
+- Hec_24:23no impidiese a...servirle o venir a élG5256
+- Hec_26:7sirviendo constantemente a Dios de día yG3000
+- Hec_27:23del Dios de quien soy y a quien sirvoG3000
+- Rom_1:9testigo me es Dios, a quien sirvo enG3000
+- Rom_6:6a fin de que no sirvamos más al pecadoG1398
+- Rom_6:19miembros para servir a la inmundicia yG1401
+- Rom_6:19presentad vuestros miembros para servirG1401
+- Rom_7:6sirvamos bajo el régimen...del EspírituG1398
+- Rom_7:25yo...con la mente sirvo a la ley de DiosG1398
+- Rom_9:12se le dijo: El mayor servirá al menorG1398
+- Rom_12:7o si de servicio, en servir; o el queG1248
+- Rom_12:11fervientes en espíritu, sirviendo alG1398
+- Rom_14:18el que en esto sirve a Cristo, agradaG1398
+- Rom_16:18no sirven a nuestro Señor JesucristoG1398
+- 1Co_9:13los que sirven al altar, del altarG4332
+- 1Co_13:3si...y no tengo amor, de nada me sirveG5623
+- 2Co_11:8recibiendo salario para serviros aG1248
+- Gál_3:19¿para qué sirve la ley? Fue añadida a
+- Gál_4:8servíais a los que por naturaleza no sonG1398
+- Gál_5:13servíos por amor los unos a los otrosG1398
+- Efe_6:6no sirviendo al ojo...sino...de corazónG3787
+- Efe_6:7sirviendo...buena voluntad, como al SeñorG1398
+- Flp_2:22como hijo...ha servido conmigo en elG1398
+- Flp_3:3que en espíritu servimos a Dios, y nosG3000
+- Col_3:22no sirviendo al ojo, como los queG3787
+- Col_3:24la recompensa...a Cristo el Señor servísG1398
+- 1Ts_1:9para servir al Dios vivo y verdaderoG1398
+- 1Ti_6:2sino sírvanles mejor, por cuanto sonG1398
+- 2Ti_1:3al cual sirvo...con limpia concienciaG3000
+- Flm_1:13para que en lugar tuyo me sirviese enG1247
+- Heb_6:10servido a los santos y sirviéndoles aúnG1247
+- Heb_7:13tribu, de la cual nadie sirvió al altarG4337
+- Heb_8:5sirven a lo que es figura y sombra de lasG3000
+- Heb_9:14limpiará...para que sirváis al Dios vivo?[[G3000]]
+- Heb_12:28sirvamos a Dios agradándole con temorG3000
+- Heb_13:10tienen derecho de comer los que sirvenG3000
+- Rev_7:15y le sirven día y noche en su temploG3000
+- Rev_22:3estará en ella, y sus siervos le serviránG3000

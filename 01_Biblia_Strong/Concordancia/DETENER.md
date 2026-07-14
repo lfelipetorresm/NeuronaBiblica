@@ -1,0 +1,111 @@
+---
+tipo: concordancia
+palabra: DETENER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DETENER
+
+- Gén_8:2y la lluvia de los cielos fue detenidaH3607
+- Gén_19:16y deteniéndose él, los varones asieronH4102
+- Gén_20:6yo también te detuve de pecar contra míH2820
+- Gén_24:56dijo: No me detengáis, ya que JehováH309
+- Gén_32:4con Labán...me he detenido hasta ahoraH309
+- Gén_43:10pues si no nos hubiéramos detenidoH4102
+- Gén_45:9dice tu hijo...ven a mí, no te detengasH5975
+- Éxo_9:2si no lo quieres dejar ir, y lo detienesH2388
+- Éxo_9:28yo os dejaré ir, y no os detendréis másH5975
+- Éxo_19:17el pueblo...detuvieron al pie del monteH3320
+- Lev_13:37pareciere que la tiña está detenidaH5975
+- Núm_1:51el tabernáculo haya de detenerse, losH2583
+- Núm_9:19cuando la nube se detenía...muchos díasH748
+- Núm_9:21la nube se detenía desde la tarde hastaH6153
+- Núm_9:22o un año, mientras la nube se deteníaH748
+- Núm_10:12y se detuvo la nube en el desierto deH7931
+- Núm_10:36cuando ella se detenía, decía: VuelveH5117
+- Jos_3:13las aguas...se detendrán en un montónH5975
+- Jos_3:16las aguas que venían de...se detuvieronH5975
+- Jos_10:12sol, detente en Gabaón; y tú, luna, enH1826
+- Jos_10:13y el sol se detuvo y la luna se paróH1826
+- Jos_10:19vosotros no os detengáis, sino seguidH5975
+- Jue_3:26que ellos se detuvieron, Aod escapóH4102
+- Jue_5:28qué las ruedas de su carro se detienenH309
+- Jue_9:44se detuvieron a la entrada de la puertaH5975
+- Jue_13:15te ruego nos permitas detenerte, y teH6113
+- Jue_13:16aunque me detengas, no comeré...tu panH6113
+- Jue_19:4detuvo su suegro, el padre de la jovenH2388
+- 1Sa_14:19Saúl al sacerdote: Detén tu manoH622
+- 1Sa_21:7estaba allí aquel día detenido DoegH6113
+- 2Sa_2:23donde Asael había caído...se deteníanH5975
+- 2Sa_2:28el pueblo se detuvo, y no persiguió masH5975
+- 2Sa_15:17y se detuvieron en un lugar distanteH5975
+- 2Sa_15:28me detendré en los vados del desiertoH4102
+- 2Sa_18:16volvió...porque Joab detuvo al puebloH7725
+- 2Sa_20:5se detuvo más del tiempo que le habíaH3186
+- 2Sa_20:12todo el que pasaba...detenía; y viendoH5975
+- 2Sa_24:16al ángel...Basta ahora, detén tu manoH7503
+- 2Re_4:24y no me hagas detener en el caminoH6113
+- 2Re_13:18él la golpeó tres veces, y se detuvoH5975
+- 2Re_15:20el rey...no se detuvo allí en el paísH5975
+- 2Re_17:4por lo que el rey de Asiria le detuvoH6113
+- 1Cr_21:15al ángel...Basta ya, detén tu manoH7503
+- Neh_12:39y se detuvieron en la puerta de laH5975
+- Job_4:2pero ¿quién podrá detener las palabrasH6113
+- Job_12:15si él detiene las aguas, todo se secaH6113
+- Job_17:2en cuya amargura se detienen mis ojosH3885
+- Job_19:14mis parientes se detuvieron y misH3885
+- Job_20:13le parecía...lo detenía en su paladarH4513
+- Job_22:7agua...y detuviste el pan al hambrientoH4513
+- Job_28:11detuvo los ríos en su nacimiento, eH2280
+- Job_29:9los príncipes detenían sus palabrasH6113
+- Job_30:10de mi rostro no detuvieron su salivaH2820
+- Job_33:18detendrá su alma del sepulcro, y suH2820
+- Job_37:4aunque sea oída su voz, no los detieneH6117
+- Job_37:14detente y considera las maravillas deH5975
+- Sal_70:5apresúrate...oh Jehová, no te detengasH309
+- Sal_78:13detuvo las aguas como en un montónH5324
+- Sal_106:30he hecho juicio, y se detuvo la plagaH6113
+- Pro_13:24el que detiene el castigo, a su hijoH2820
+- Pro_19:11la cordura del hombre detiene su furorH748
+- Pro_21:26pero el justo da, y no detiene su manoH2820
+- Pro_23:30los que se detienen mucho en el vinoH309
+- Pro_25:17detén tu pie de la casa de tu vecinoH3365
+- Pro_28:17huirá hasta el...y nadie le detendráH8551
+- Isa_29:9deteneos y maravillaos; ofuscaos yH4102
+- Isa_42:14he guardado silencio, y me he detenidoH2790
+- Isa_43:6diré al norte...y al sur: No detengasH3607
+- Isa_46:13no se...y mi salvación no se detendráH309
+- Isa_58:1clama a voz en cuello, no te detengasH2820
+- Isa_59:15y la verdad fue detenida, y el que seH5737
+- Jer_2:24de su lujuria, ¿quién la detendrá?[[H7725]]
+- Jer_3:3las aguas han sido detenidas, y faltó laH4513
+- Jer_4:6huid, no os detengáis; porque yo hagoH5975
+- Jer_48:10maldito el que detuviere de la sangreH4513
+- Jer_51:50escapasteis...andad, no os detengáisH5975
+- Eze_21:21el rey de Babilonia se ha detenidoH5975
+- Eze_31:15y detuve sus ríos, y las muchas aguasH4513
+- Dan_4:35y no hay quien detenga su mano, y leH4223
+- Ose_13:13no debiera detencerse al punto mismoH5975
+- Amó_4:7os detuve la lluvia tres meses antes deH4513
+- Nah_2:8dicen: ¡Deteneos, d!; pero ningunoH5975
+- Hag_1:10se detuvo de los cielos...la lluviaH3607
+- Hag_1:10por eso...la tierra detuvo sus frutosH3607
+- Mat_2:9se detuvo sobre donde estaba el niñoG2476
+- Mat_20:32deteniéndose Jesús, los llamó, y lesG2476
+- Mar_10:49Jesús, deteniéndose, mandó llamarleG2476
+- Luc_4:42le detenían para que no se fuera deG2722
+- Luc_6:17descendió...se detuvo en un lugar llanoG2476
+- Luc_7:14y los que lo llevaban se detuvieronG2476
+- Luc_8:44al instante se detuvo el flujo...sangreG2476
+- Luc_18:40Jesús...deteniéndose, mandó traerle aG2476
+- Hec_14:3por tanto, se detuvieron allí muchoG1304
+- Hec_18:11y se detuvo allí un año y seis mesesG2523
+- Hec_18:18habiéndose detenido aún muchos días allíG4357
+- Hec_20:16Efeso, para no detenerse en Asia, puesG5551
+- Hec_22:16ahora, pues, ¿por qué te detienes?[[G3195]]
+- Hec_25:6deteniéndose entre ellos no más de ochoG1304
+- Rom_1:18que detienen con injusticia la verdadG2722
+- 2Ts_2:6vosotros sabéis lo que lo detieneG2722
+- 2Ts_2:7hay quien al presente lo detiene, hastaG2722
+- Rev_7:1ángeles...detenían los cuatro vientosG2902

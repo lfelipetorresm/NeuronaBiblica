@@ -1,0 +1,101 @@
+---
+tipo: concordancia
+palabra: CUARTO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CUARTO, A
+
+- Gén_1:19y fue la tarde y la mañana el día cH7243
+- Gén_2:14y el nombre del...c río es el EufratesH7243
+- Gén_15:16en la c generación volverán acá; porqueH7243
+- Éxo_20:5hasta la tercera y c generación de losH7256
+- Éxo_28:20; Éxo_39:13c hilera, un berilo, un óniceH7243
+- Éxo_29:40amasada con la c parte de un hin deH7253
+- Éxo_29:40para la libación, la c parte de un hinH7243
+- Éxo_34:7hijos, hasta la tercera y c generaciónH7256
+- Lev_19:24el c año todo su fruto será consagradoH7243
+- Lev_23:13su libación será de vino, la c parte deH7243
+- Núm_7:30c día, Elisur hijo de Sedeur, príncipeH7243
+- Núm_14:18que visita la maldad de...hasta los cH7256
+- Núm_15:4harina, amasada con la c parte de un hinH7243
+- Núm_15:5de vino...ofrecerás la c parte de un hinH7243
+- Núm_23:10o el número de la c parte de Israel?[[H7255]]
+- Núm_28:5amasada con un c de un hin de aceiteH7243
+- Núm_28:7su libación, la c parte de un hin conH7243
+- Núm_28:14la c parte de un hin con cada corderoH7243
+- Núm_29:23el c día, diez becerros, dos carnerosH7243
+- Deu_5:9la tercera y c generación de los que meH7256
+- Jos_19:17lac suerte correspondió a IsacarH7243
+- Jue_19:5c día...se levantó también el levitaH7243
+- 1Sa_9:8mi mano la c parte de un siclo de plataH7253
+- 2Sa_3:4c, Adonías hijo de Haguit; el quintoH7243
+- 1Re_6:1el c año del principio del reino deH7243
+- 1Re_6:37en el c año...se echaron los cimientos deH7243
+- 1Re_22:41comenzó a reinar...en el c año de AcabH702
+- 2Re_6:25la c parte de un cab de estiércol deH7255
+- 2Re_10:30sentarán sobre...hasta la c generaciónH7243
+- 2Re_15:12hijos hasta la c generación se sentaránH7243
+- 2Re_18:9en el c año del rey Ezequías...subióH7243
+- 2Re_25:3a los nueve días del c mes prevaleció elH7243
+- 1Cr_2:14el c Natanael, el quinto RadajH7243
+- 1Cr_3:2el tercero, Absalón...el c, Adonías hijoH7243
+- 1Cr_3:15hijos...el tercero Sedequías, el c SalumH7243
+- 1Cr_8:2Noha el c, y Rafa el quintoH7243
+- 1Cr_12:10Mismana el c, Jeremías el quintoH7243
+- 1Cr_23:19los hijos de Hebrón...y Jecamán el cH7243
+- 1Cr_24:8la tercera a Harim, la c a SeorimH7243
+- 1Cr_24:23de los hijos de Hebrón...el c JecamánH7243
+- 1Cr_25:11la c para lzri, con sus hijos y susH7243
+- 1Cr_26:2los hijos de Meselemías...Jatniel el cH7243
+- 1Cr_26:4hijos de...el c Sacar, el quinto NatanaelH7243
+- 1Cr_26:11el c Zacarías; todos los hijos de HosaH7243
+- 1Cr_27:7c jefe para el c mes era Asael hermanoH7243
+- 2Cr_3:2edificar en...el c año de su reinadoH702
+- 2Cr_20:26y al c día se juntaron en el valle deH7243
+- Esd_8:33al c día fue luego pesada la plataH7243
+- Neh_9:3leyeron el libro...la c parte del díaH7243
+- Neh_9:3y la c parte confesaron sus pecados yH7243
+- Job_42:16a sus hijos...hasta la c generaciónH702
+- Pro_30:15tres cosas...la c nunca dice, ¡Basta![[H702]]
+- Pro_30:18me son ocultas; aun tampoco sé la cH702
+- Pro_30:21tres cosas...y la c ella no puede sufrirH702
+- Pro_30:29tres cosas hay...y la c pasea muy bienH702
+- Jer_25:1año c de Joacim hijo de Josías, reyH7243
+- Jer_28:1año c, en el quinto mes, que HananíasH7243
+- Jer_36:1aconteció en el c año de Joacim hijo deH7243
+- Jer_39:2en el mes c, a los nueve días del mesH7243
+- Jer_45:1habló...el año c de Joacim hijo de JosíasH7243
+- Jer_46:2a quien destruyó...en el año c de JoacimH7243
+- Jer_51:59con Sedequías...el c año de su reinadoH7243
+- Jer_52:6en el mes c, a los nueve días del mesH7243
+- Eze_1:1en el mes c, a los cinco días del mesH7243
+- Eze_10:14la tercera, cara de león; la c, cara deH7243
+- Dan_2:40y el c reino será fuerte como hierroH7244
+- Dan_3:25el aspecto del c es semejante a hijo deH7244
+- Dan_7:7la c bestia, espantosa y terrible y enH7244
+- Dan_7:19saber la verdad acerca de la c bestiaH7244
+- Dan_7:23la c bestia será un c reino en la tierraH7244
+- Dan_11:2el c se hará de grandes riquezas más queH7243
+- Amó_1:3por tres pecados de Damasco, y por el cH702
+- Amó_1:6por tres pecados de Gaza, y por el cH702
+- Amó_1:9por tres pecados de Tiro, y por el cH702
+- Amó_1:11por tres pecados de Edom, y por el cH702
+- Amó_1:13por tres pecados de...Amón, y por el c
+- Amó_2:1por tres pecados de Moab, y por el cH702
+- Amó_2:4por tres pecados de Judá, y por el cH702
+- Amó_2:6por tres pecados de Israel, y por el cH702
+- Zac_6:3en el c carro caballos overos ruciosH7243
+- Zac_7:1en el año c del rey Darío vino palabra deH702
+- Zac_8:19el ayuno del c mes, el ayuno del quintoH7243
+- Mat_10:29¿no se venden 2 pajarillos por un c?[[G787]]
+- Mat_14:25mas a la c vigilia...Jesús vino a ellosG5067
+- Mar_6:48la c vigilia de la noche vino a ellosG5067
+- Luc_12:6¿no se venden 5 pajarillos por dos c?[[G787]]
+- Rev_4:7el c era semejante a un águila volandoG5067
+- Rev_6:7cuando abrió el c sello, oí la voz del cG5067
+- Rev_6:8potestad sobre la c parte de la tierraG5067
+- Rev_8:12c ángel tocó la trompeta, y fue heridaG5067
+- Rev_16:8el c ángel derramó su copa sobre el solG5067
+- Rev_21:19el tercero, ágata; el c, esmeraldaG5067

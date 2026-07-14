@@ -1,0 +1,111 @@
+---
+tipo: concordancia
+palabra: GOZAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GOZAR
+
+- Lev_26:34tierra gozará...g sus días de reposoH7521
+- Lev_26:43la tierra...gozará sus días de reposoH7521
+- Deu_28:63Jehová se gozaba en haceros bienH7797
+- Deu_28:63así se gozará Jehová en arruinaros yH7797
+- Deu_30:9Jehová volverá a gozarse sobre ti paraH7797
+- Deu_30:9la manera que se gozó sobre tus padresH7797
+- Jue_9:19que gocéis de Abimelec, y él goce deH8055
+- 1Cr_16:31alégrense los ciclos, y gócese laH1523
+- 2Cr_24:10jefe y todo el pueblo se gozaronH8055
+- 2Cr_36:21que la tierra hubo gozado de reposoH7521
+- Neh_8:12el pueblo se fue a comer...y a gozarH8057
+- Job_3:22y se gozan cuando hallan el sepulcro?[[H8056]]
+- Job_20:18restituirá...no los tragará ni gozaráH5965
+- Job_22:19verán los justos y se gozarán; y elH8055
+- Sal_9:14cuente yo...me goce en tu salvaciónH1523
+- Sal_14:7se gozará Jacob, y se alegrará IsraelH1523
+- Sal_16:9se alegró...corazón, y se gozó mi almaH1523
+- Sal_21:1el rey...en tu salvación, ¡ cómo se goza![[H1523]]
+- Sal_25:13gozaré...bienestar, y su descendenciaH3885
+- Sal_28:7por lo que se gozó mi corazón, y conH5937
+- Sal_31:7gozaré y alegraré en tu misericordiaH8055
+- Sal_32:11alegraos en Jehová y gozaos, justos; yH1523
+- Sal_40:16gócense...en ti todos los que te buscanH7797
+- Sal_48:11se gozarán las hijas de Judá por tusH1523
+- Sal_53:6se gozará Jacob, y se alegrará IsraelH1523
+- Sal_67:4alégrense y gócense...naciones, porqueH7787
+- Sal_68:3los justos...se gozarán delante de DiosH5970
+- Sal_69:32lo verán los oprimidos, y se gozaránH8055
+- Sal_70:4gócense...en ti todos los que te buscanH7797
+- Sal_92:4en las obras de tus manos me gozoH8055
+- Sal_94:3¿hasta cuando...se gozarán los impíos?[[H5937]]
+- Sal_96:11alégrense...cielos, y gócese la tierraH1523
+- Sal_97:8las hijas...se gozaron por tus juiciosH1523
+- Sal_106:5me goce en la alegría de tu naciónH8055
+- Sal_113:9la estéril, que se goza en ser madreH8056
+- Sal_118:24nos gozaremos y alegraremos en élH1523
+- Sal_119:14me he gozado en...de tus testimoniosH7797
+- Sal_149:2los hijos de Sión se gocen en su ReyH1523
+- Pro_23:24que engendra sabio se gozará con élH8055
+- Pro_23:25tu padre...gócese la que te dio a luzH1523
+- Ecl_2:1te probaré con alegría, y gozarás deH7200
+- Ecl_2:10mi corazón gozó de todo mi trabajo; yH8056
+- Ecl_3:13que todo hombre...goce el bien de todaH7200
+- Ecl_5:18lo bueno es comer y beber, y gozar unoH7200
+- Ecl_5:19goce de su trabajo, esto es don de DiosH8055
+- Ecl_7:14en el día del bien goza del bien; y enH2896
+- Ecl_9:9goza de la vida con la mujer que amasH7200
+- Cnt_1:4nos gozaremos y alegraremos en tiH1523
+- Isa_9:3como se gozan cuando reparten despojosH1523
+- Isa_25:9nos gozaremos y nos...en su salvaciónH8055
+- Isa_29:19los más pobres...se gozarán en el SantoH1523
+- Isa_35:1el yermo se gozará y florecerá como laH1523
+- Isa_61:10en gran manera me gozaré en JehováH7797
+- Isa_62:5así se gozará contigo el Dios tuyoH7797
+- Isa_65:18os gozaréis y os alegraréis...siempreH7797
+- Isa_65:19me gozaré con mi pueblo; y nunca másH7797
+- Isa_66:10alegraos con Jerusalén, y gozaos conH1523
+- Jer_50:11gozasteis destruyendo mi heredadH5937
+- Lam_4:21gózate y alégrate, hija de Edom, laH7797
+- Eze_25:6y te gozaste en el alma con todo tuH8055
+- Joe_2:21alégrate y gózate, porque Jehová haráH8055
+- Joe_2:23de Sión, alegraos y gozaos en JehováH8055
+- Hab_3:18gozaré en el Dios de mi salvaciónH1523
+- Sof_3:14gózate y regocíjate de todo corazónH8055
+- Sof_3:17se gozará sobre ti con alegría, callaráH7797
+- Zac_10:7verán...corazón se gozará en JehováH1523
+- Mat_5:12; Luc_6:23gozaos...galardón es grandeG5463
+- Luc_15:6gozaos conmigo...he encontrado mi ovejaG4796
+- Luc_15:9gozaos conmigo...he encontrado la dracmaG4796
+- Luc_15:29cabrito para gozarme con mis amigosG2165
+- Luc_19:37gozándose, comenzó a alabar a Dios aG5463
+- Jua_3:29el amigo...goza grandemente de la vozG5463
+- Jua_4:36el que siembra goce juntamente con elG5463
+- Jua_8:56Abraham...se gozó de...y lo vio, y se gG21, [[G5463]]
+- Jua_16:22se gozará vuestro corazón, y nadie osG5463
+- Hec_2:26y se gozó mi lengua, y aun mi carneG21
+- Hec_24:2como debido a ti gozamos de gran pazG5177
+- Rom_12:15gozaos con los que se gozan; lloradG5463
+- Rom_15:24una vez que haya gozado con vosotrosG1705
+- Rom_16:19que gozo de vosotros; pero quiero queG5463
+- 1Co_12:26todos los miembros con él se gozanG4796
+- 1Co_13:6no se goza de la...mas se g de la verdadG5463, [[G4796]]
+- 2Co_2:3tristeza...quienes me debiera gozarG5463
+- 2Co_7:9ahora me gozo, no porque...contristadosG5463
+- 2Co_7:13nos gozamos por el gozo de Tito, queG5463
+- 2Co_7:16gozo de que en todo tengo confianza enG5463
+- 2Co_12:10por lo cual, por amor a Cristo me gozoG2106
+- 2Co_13:9nos gozamos de que seamos...débilesG5463
+- Flp_1:18y en esto me gozo, y me gozaré aúnG5463
+- Flp_2:17me gozo y regocijo con todos vosotrosG4796
+- Flp_2:18y asimismo gozaos y...vosotros conmigoG5463
+- Flp_2:28para que al verle de nuevo, os gocéisG5463
+- Flp_3:1lo demás, hermanos, gozaos en el SeñorG5463
+- Flp_4:10me gocé en el Señor de que ya al finG5463
+- Col_1:24gozo en lo que padezco por vosotrosG5463
+- Col_2:5gozándome y mirando vuestro buen ordenG5463
+- 1Ts_3:9todo el gozo con que nos gozamos aG5463
+- Heb_11:25gozar de los deleites...del pecadoG619
+- 1Pe_4:13gozaos por cuanto sois participantesG5463
+- 1Pe_4:13en la revelación de su gloria...gocéisG5463
+- 2Pe_2:13por delicia el gozar de deleitesG5172
+- Rev_19:7gocémonos...han llegado las bodas delG5463

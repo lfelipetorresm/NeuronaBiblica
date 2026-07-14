@@ -1,0 +1,214 @@
+---
+tipo: concordancia
+palabra: CONGREGACIÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONGREGACIÓN
+
+- Éxo_12:3a toda la c de Israel, diciendo: EnH5712
+- Éxo_12:6y lo inmolará toda la c del pueblo deH5712
+- Éxo_12:19comiere...será cortado de la c de IsraelH5712
+- Éxo_12:47toda la c de Israel lo haráH5712
+- Éxo_16:1partió luego de Elim toda la c de losH5712
+- Éxo_16:2toda la c de los hijos de Israel murmuróH5712
+- Éxo_16:9dí a toda la c de los hijos de IsraelH5712
+- Éxo_16:10y hablando Aarón a toda la c de losH5712
+- Éxo_16:22los príncipes de la c vinieron y se loH5712
+- Éxo_17:1la c de los hijos de Israel partió delH5712
+- Éxo_34:31los príncipes de la c volvieron a élH5712
+- Éxo_35:1Moisés convocó a toda la c de...IsraelH5712
+- Éxo_35:4habló Moisés a toda la c de los hijosH5712
+- Éxo_35:20salió toda la c...de delante de MoisésH5712
+- Éxo_38:25la plata de los empadronados de la cH5712
+- Lev_4:13si toda la c de Israel hubiere erradoH5712
+- Lev_4:14la c ofrecerá un becerro por expiaciónH6951
+- Lev_4:15los ancianos de la c pondrán sus manosH5712
+- Lev_4:21primer becerro; expiación es por la cH6951
+- Lev_8:3-4toda la c a la puerta del tabernáculoH5712
+- Lev_8:5Moisés a la c: Esto es lo que Jehová haH5712
+- Lev_9:5vino...la c y se puso delante de JehováH5712
+- Lev_10:6ni se levante la ira sobre toda la cH5712
+- Lev_10:17dio...para llevar la iniquidad de la cH5712
+- Lev_16:5de la c de...tomará dos machos cabríosH5712
+- Lev_16:17la expiación...por toda la c de IsraelH4150
+- Lev_16:33expiación por...todo el pueblo de la cH4150
+- Lev_19:2habla a toda la c de los hijos de IsraelH5712
+- Lev_24:14saca al blasfemo...apedréelo toda la cH5712
+- Lev_24:16la c lo apedreará, así el extranjeroH5712
+- Núm_1:2tomad el censo de toda la c de IsraelH5712
+- Núm_1:16estos eran los nombrados de entre la cH5712
+- Núm_1:18reunieron a toda la c en el día primeroH5712
+- Núm_1:53que no haya ira sobre la c de...IsraelH5712
+- Núm_3:7y el encargo de toda la c delante delH5712
+- Núm_4:34Moisés...y los jefes de la c, contaronH5712
+- Núm_8:9reunirás a...la c de los hijos de IsraelH4150
+- Núm_8:20y toda la c...hicieron con los levitasH5712
+- Núm_10:2te servirán para convocar la c, y paraH5712
+- Núm_10:3y cuando las tocaran...la c se reuniráH5712
+- Núm_10:7para reunir la c tocaréis, mas no conH6951
+- Núm_12:14echada fuera...y después volverá a la cH622
+- Núm_13:26y vinieron a...y a toda la c de...IsraelH5712
+- Núm_13:26y dieron la información...a toda la cH5712
+- Núm_14:1entonces toda la c gritó, y dio vocesH5712
+- Núm_14:5y Aarón se postraron...delante de...la cH5712
+- Núm_14:7y hablaron a toda la c de los hijos deH5712
+- Núm_14:36hecho murmurar contra él a toda la cH5712
+- Núm_15:15mismo estatuto...la c y el extranjeroH6951
+- Núm_15:24hecho por yerro con ignorancia de la cH5712
+- Núm_15:24la c ofrecerá un novillo por holocaustoH5712
+- Núm_15:25el sacerdote hará expiación por...la cH5712
+- Núm_15:26será perdonado a toda la c de...IsraelH5712
+- Núm_15:33lo trajeron a Moisés y...y a toda la cH5712
+- Núm_15:35apedréelo...la c fuera del campamentoH5712
+- Núm_15:36lo sacó la c fuera del campamento, yH5712
+- Núm_16:2levantaron...con 250 príncipes de la cH5712
+- Núm_16:3toda la c, todos ellos son santos, y enH5712
+- Núm_16:3¿por qué pues, os levantáis...sobre la cH6951
+- Núm_16:9Dios de Israel os haya apartado de la cH5712
+- Núm_16:9estéis delante de la c para ministrarlesH5712
+- Núm_16:19hecho juntar contra ellos toda la c aH5712
+- Núm_16:19gloria de Jehová apareció a toda la cH5712
+- Núm_16:21apartaos de...esta c, y los consumiréH5712
+- Núm_16:22¿por qué airarte contra toda la c?[[H5712]]
+- Núm_16:24habla a la c y diles: Apartaos de enH5712
+- Núm_16:26y él habló a la c, diciendo: ApartaosH5712
+- Núm_16:33ellos...perecieron de en medio de la cH6951
+- Núm_16:41el día siguiente, toda la c...murmuróH5712
+- Núm_16:42cuando se juntó la c contra Moisés yH5712
+- Núm_16:45apartaos de en medio de esta c, y losH5712
+- Núm_16:46vé pronto a la c, y haz expiación porH5712
+- Núm_16:47y corrió en medio de la c: y he aquíH6951
+- Núm_19:9las guardará la c de los hijos de IsraelH5712
+- Núm_19:20tal persona será cortada de entre la cH6951
+- Núm_20:1Israel, toda la c, al desierto de ZinH5712
+- Núm_20:2no había agua para la c, se juntaronH5712
+- Núm_20:4¿por qué hiciste venir la c de JehováH6951
+- Núm_20:6fueron...de delante de la c a la puertaH6951
+- Núm_20:8y reúne la c...y darás de beber a la cH5712
+- Núm_20:10reunieron...a la c delante de la peñaH6951
+- Núm_20:11aguas, y bebió la c, y sus bestiasH5712
+- Núm_20:12no meteréis esta c en la tierra que lesH6951
+- Núm_20:22y partiendo de Cades...toda aquella cH5712
+- Núm_20:27y subieron al...a la vista de toda la cH5712
+- Núm_20:29y viendo...la c que Aarón había muertoH5712
+- Núm_25:6trajo una madianita...a ojos...de toda la cH5712
+- Núm_25:7se levantó de...la c, y tomó una lanzaH5712
+- Núm_26:2tomad el censo de toda la c de...IsraelH5712
+- Núm_26:9y Abiram fueron los del consejo de la cH5712
+- Núm_27:2y se presentaron delante...de toda la cH5712
+- Núm_27:14rebeldes a mi...en la rencilla de la cH5712
+- Núm_27:16ponga Jehová...un varón sobre la c deH5712
+- Núm_27:17la c de Jehová no sea como ovejas sinH5712
+- Núm_27:19y lo pondrás...y delante de toda la cH5712
+- Núm_27:20que toda la c...de Israel le obedezcaH5712
+- Núm_27:21entrarán...Israel con él, y toda la cH5712
+- Núm_27:22tomó a Josué y lo puso delante...la cH5712
+- Núm_31:12trajeron...a la c...cautivos y el botínH5712
+- Núm_31:13salieron...todos los príncipes de la cH5712
+- Núm_31:16por lo que hubo mortandad en la c deH5712
+- Núm_31:26tú...y los jefes de los padres de la cH5712
+- Núm_31:27partirás...el botín entre...y toda la cH5712
+- Núm_31:43la mitad para la c fue: de las ovejasH5712
+- Núm_32:2Gad...hablaron...a los príncipes de la cH5712
+- Núm_32:4tierra que Jehová hirió delante de la cH5712
+- Núm_35:12que entre en juicio delante de la cH5712
+- Núm_35:24c juzgará entre el que causó la muerteH5712
+- Núm_35:25y la c librará al homicida de mano delH5712
+- Núm_35:25y la c lo hará volver a su ciudad deH5712
+- Deu_5:22palabras habló Jehová a toda vuestra cH6951
+- Deu_23:1no entrará en la c de Jehová el queH6951
+- Deu_23:2no entrará bastardo en la c de JehováH6951
+- Deu_23:2-3décima generación no entrarán en la cH6951
+- Deu_23:3no entrará amonita ni moabita en la cH6951
+- Deu_23:8la tercera generación entrarán en la cH6951
+- Deu_31:30habló Moisés a oídos de toda la c deH5712
+- Deu_33:4una ley, como heredad a la c de JacobH6952
+- Jos_8:35leer delante de toda la c de IsraelH6951
+- Jos_9:15paz...lo juraron los príncipes de la cH5712
+- Jos_9:18los príncipes de la c les habían juradoH5712
+- Jos_9:18toda la c murmuraba contra los príncipesH5712
+- Jos_9:19los príncipes respondieron a toda la cH5712
+- Jos_9:21leñadores y aguadores para toda la cH5712
+- Jos_9:27a ser leñadores y aguadores para la cH5712
+- Jos_18:1la c de los hijos de Israel se reunióH5712
+- Jos_20:6comparezca en juicio delante de la cH5712
+- Jos_20:9hasta que compareciese delante de la cH5712
+- Jos_22:12se juntó...la c de los hijos de IsraelH5712
+- Jos_22:16toda la c...dice así: ¿Qué transgresiónH5712
+- Jos_22:17vino la mortandad en la c de JehováH5712
+- Jos_22:18mañana se airará él contra toda la cH5712
+- Jos_22:20y vino ira sobre toda la c de Israel?[[H5712]]
+- Jos_22:30oyendo Finees...y los príncipes de la cH5712
+- Jue_20:1se reunió la c como un solo hombreH5712
+- Jue_21:10la c envió allá a doce mil hombres deH5712
+- Jue_21:13la c envió luego a hablar a...BenjamínH5712
+- Jue_21:16ancianos de la c dijeron: ¿Qué haremosH5712
+- 1Sa_17:47y sabrá...c que Jehová no salva conH6951
+- 1Re_8:5toda la c de Israel...se había reunidoH5712
+- 1Re_8:14bendijo a toda la c...la c...estaba de pieH6951
+- 1Re_8:22se puso...en presencia de toda la c deH6951
+- 1Re_8:55en pie, bendijo a toda la c de IsraelH6951
+- 1Re_8:65una gran c, desde donde entran en HamatH6951
+- 1Re_12:3vino...Jeroboam, y toda la c de IsraelH6951
+- 1Re_12:20a llamarle a la c, y le hicieron reyH5712
+- 1Cr_28:8los ojos...c de Jehová, y en oídos deH6951
+- 1Cr_29:10bendijo a Jehová delante de toda la cH6951
+- 1Cr_29:20dijo David a toda la c: Bendecid ahoraH6951
+- 1Cr_29:20toda la c bendijo a Jehová Dios de susH6951
+- 2Cr_5:6la c de Israel que se había reunidoH5712
+- 2Cr_6:3bendijo a toda la c...la c...estaba en pieH6951
+- 2Cr_6:12en presencia de toda la c de Israel, yH6951
+- 2Cr_6:13y se arrodilló delante de toda la c deH6951
+- 2Cr_7:8gran c, desde la entrada de Hamat hastaH6951
+- 2Cr_24:6Moisés...impuso a la c de Israel para elH6951
+- 2Cr_29:32holocaustos que trajo la c, 70 bueyesH6951
+- 2Cr_30:2consejo...y con toda la c en JerusalénH6951
+- 2Cr_30:17en la c que no estaban santificadosH6951
+- 2Cr_30:25alegró, pues, toda la c de Judá, comoH6951
+- Esd_2:64toda la c, unida como un solo hombreH6951
+- Esd_10:8el tal fuese excluido de la c de los delH6951
+- Esd_10:14los que se queden en lugar de toda la cH6951
+- Neh_5:13respondió...la c: ¡Amén! y alabaronH6951
+- Neh_7:66toda la c junta era de 42:360H6951
+- Neh_8:2Esdras trajo la ley delante de la c, asíH6951
+- Neh_8:17la c que volvió de la...hizo tabernáculosH6951
+- Neh_13:1no debían entrar jamás en la c de DiosH6951
+- Job_15:34porque la c de los impíos será asoladaH5712
+- Job_30:28me he levantado en la c, y clamadoH6951
+- Sal_1:5los pecadores en la c de los justosH5712
+- Sal_7:7te rodeará c de pueblos, y sobre ellaH5712
+- Sal_22:22nombre...en medio de la c te alabaréH6951
+- Sal_22:25de ti será mi alabanza en la gran cH6951
+- Sal_26:12rectitud; en las c bendeciré a JehováH4721
+- Sal_35:18te confesaré en grande c; te alabaréH6951
+- Sal_40:9he anunciado justicia en grande cH6951
+- Sal_58:1oh c, ¿pronunciáis en verdad justicia?[[H482]]
+- Sal_68:26bendecid a Dios en las c; al SeñorH4721
+- Sal_68:27estaba...los príncipes de Judá en su cH7277
+- Sal_74:2acuérdate de tu c, la que adquiristeH5712
+- Sal_74:19y no olvides para siempre la c de tusH2416
+- Sal_89:5tu verdad también en la c de los santosH6951
+- Sal_89:7Dios temible en la gran c de los santosH5475
+- Sal_107:32exáltenlo en la c del pueblo, y en laH6951
+- Sal_111:1alabaré...la compañía y c de los rectosH5712
+- Sal_149:1su alabanza sea en la c de los santosH6951
+- Pro_5:14mal...en medio de la sociedad y de la cH6951
+- Pro_26:26su maldad será descubierta en la cH6951
+- Ecl_12:11clavos...las de los maestros de las cH627
+- Jer_6:18y entended, oh c, lo que sucederáH5712
+- Jer_9:2ellos son adúlteros, c de prevaricadoresH6116
+- Jer_30:20y su c delante de mí será confirmadaH5712
+- Lam_1:10cuales mandaste...no entrasen en tu cH6951
+- Eze_13:9los profetas...no estarán en la c deH5475
+- Ose_7:12conforme a...se ha anunciado en sus cH5712
+- Miq_2:5reparta heredades en la c de JehováH6951
+- Hec_7:38es aquel Moisés que estuvo en la cG1577
+- Hec_13:43despedida la c, muchos de los judíosG4864
+- Hec_15:30reuniendo a la c, entregaron la cartaG4128
+- 1Co_14:34vuestras mujeres callen en las cG1577
+- 1Co_14:35indecoroso que una mujer hable en la cG1577
+- Heb_2:12nombre, en medio de la c te alabaréG1577
+- Heb_12:23a la c de los primogénitos que estánG3831
+- Stg_2:2vuestra c entra un hombre con anilloG4864

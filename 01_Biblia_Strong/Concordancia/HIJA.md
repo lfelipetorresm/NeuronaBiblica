@@ -1,0 +1,503 @@
+---
+tipo: concordancia
+palabra: HIJA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HIJA
+
+- Véase también Hijo
+- Gén_5:4Adán...800 años, y engendró hijos e hH1121
+- Gén_5:7, Gén_5:10, Gén_5:13, Gén_5:16, Gén_5:19, Gén_5:22, Gén_5:26, Gén_5:30engendró hijos e hH1121
+- Gén_6:1aconteció que cuando...y les nacieron hH1121
+- Gén_6:2que las h de los hombres eran hermosasH1121
+- Gén_6:4se llegaron los hijos de Dios a las h deH1121
+- Gén_11:11, Gén_11:13, Gén_11:15, Gén_11:17, Gén_11:19, Gén_11:21, Gén_11:23, Gén_11:25engendró hijos e hH1121
+- Gén_11:29Milca, h de Harán, padre de Milca y deH1323
+- Gén_19:8tengo dos h que no han conocido varónH1121
+- Gén_19:12h, y todo lo que tienes en la ciudadH1121
+- Gén_19:14yernos, los que habían de tomar sus hH1121
+- Gén_19:15mujer, y tus dos h que se hallan aquíH1121
+- Gén_19:16asieron de...de las manos de sus dos hH1121
+- Gén_19:30Lot...moró en el monte, y sus dos h conH1121
+- Gén_19:30y habitó en una cueva él y sus dos hH1121
+- Gén_19:36dos h de Lot concibieron de su padreH1121
+- Gén_20:12h de mi padre, mas no h de mi madreH1323
+- Gén_24:3, Gén_24:37no tomarás...mujer de las h de losH1121
+- Gén_24:13las h...de esta ciudad salen por aguaH1121
+- Gén_24:23dijo: ¿De quién eres h? Te ruego queH1323
+- Gén_24:24soy h de Betuel hijo de Milca, el cualH1323
+- Gén_24:47le pregunté, y dije: ¿De quién eres h?[[H1323]]
+- Gén_24:47respondió: H de Betuel hijo de NacorH1323
+- Gén_24:48para tomar la h del hermano de mi señorH1323
+- Gén_25:20tomó por mujer a Rebeca, h de BetuelH1323
+- Gén_26:34tomó por mujer a Judit h de Beeri, y aH1323
+- Gén_26:34Esaú...tomó...a Basemat h de Elón heteoH1323
+- Gén_27:46fastidio tengo...a causa de las h de HetH1121
+- Gén_27:46si Jacob toma mujer de las h de HetH1121
+- Gén_27:46si...como éstas, de las h de esta tierraH1121
+- Gén_28:1, Gén_28:6no tomes mujer de las h de CanaánH1121
+- Gén_28:2y toma allí mujer de las h de LabánH1121
+- Gén_28:8Esaú que las h de Canaán parecían malH1121
+- Gén_28:9a Mahalat, h de Ismael hijo de AbrahamH1323
+- Gén_29:6aquí Raquel su h viene con las ovejasH1323
+- Gén_29:10Jacob vio a Raquel, h de Labán hermanoH1323
+- Gén_29:16y Labán tenía dos h: el nombre de laH1121
+- Gén_29:18yo te serviré...por Raquel tu h menorH1323
+- Gén_29:23tomó a Lea su h, y se la trajo; y élH1323
+- Gén_29:24dio Labán su sierva Zilpa a su h LeaH1323
+- Gén_29:28y él le dio a Raquel su h por mujerH1323
+- Gén_29:29dio Labán a Raquel su h su sierva porH1323
+- Gén_30:21después dio a luz una h, y llamó suH1323
+- Gén_31:26has traído a mis h como prisioneras deH1121
+- Gén_31:28ni...me dejaste besar a mis hijos y mis hH1121
+- Gén_31:31pensé...me quitarías por fuerza tus hH1121
+- Gén_31:41catorce años te serví por tus dos h, yH1121
+- Gén_31:43h son h mías, y los hijos, hijos míosH1121
+- Gén_31:43¿qué puedo yo hacer hoy a estas mis hH1121
+- Gén_31:50afligieres a mis h, o...además de mis hH1121
+- Gén_31:55levantó Labán...y besó sus hijos y sus hH1121
+- Gén_34:1salió Dina la h...a ver a las h del paísH1323, [[H1121]]
+- Gén_34:3su alma se apegó a Dina la h de Lea, yH1323
+- Gén_34:5que Siquem había amancillado a Dina su hH1323
+- Gén_34:7acostándose con la h de Jacob, lo queH1323
+- Gén_34:8mi hijo Siquem se ha apegado a vuestra hH1323
+- Gén_34:9dadnos vuestras h, y tomad vosotros lasH1121
+- Gén_34:16os daremos nuestras h, y tomaremosH1121
+- Gén_34:17si no...tomaremos nuestra h y nos iremosH1323
+- Gén_34:19la h de Jacob le había agradado; y élH1323
+- Gén_34:21nosotros tomaremos sus h por mujeres, yH1121
+- Gén_36:2Esaú tomó...mujeres de las h de CanaánH1121
+- Gén_36:2Ada, h de Elón heteo...Aholibama, h deH1323
+- Gén_36:3Basemat h de Ismael, hermana de NebaiotH1323
+- Gén_36:6Esaú tomó sus mujeres, sus hijos y sus hH1121
+- Gén_36:14, Gén_36:18de Aholibama mujer de Esaú, h de AnáH1323
+- Gén_36:25los hijos de Aná...Aholibama h de AnáH1323
+- Gén_36:39Mehetabel h de Matred, h de MezaabH1323
+- Gén_37:35levantaron...todas sus h para consolarloH1121
+- Gén_38:2vio allí Judá la h de un hombre cananeoH1323
+- Gén_38:12y murió la h de Súa, mujer de JudáH1323
+- Gén_41:45y le dio por mujer a Asenat, h de PotiferaH1323
+- Gén_41:50le dio a luz Asenat, h de PotiferaH1323
+- Gén_46:7sus h, y las h de sus hijos, y a todaH1121
+- Gén_46:15y además su h Dina; treinta y tres lasH1323
+- Gén_46:15las personas todas de sus hijos e hH1121
+- Gén_46:18de Zilpa, la que Labán dio a su h LeaH1323
+- Gén_46:20que le dio a luz Asenat, h de PotiferaH1323
+- Gén_46:25Bilha, la que dio Labán a Raquel su hH1323
+- Éxo_1:16si es hijo, matadlo; y si es h...vivaH1323
+- Éxo_1:22al río a todo hijo...a toda h preservadH1323
+- Éxo_2:1un...fue y tomó por mujer a una h de LevíH1323
+- Éxo_2:5la h de Faraón descendió a lavarse al ríoH1323
+- Éxo_2:7su hermana dijo a la h de Faraón: ¿IréH1323
+- Éxo_2:8la h de Faraón respondió: Vé. EntoncesH1323
+- Éxo_2:9dijo la h de Faraón: Lleva a este niñoH1323
+- Éxo_2:10lo trajo a la h de Faraón, la cual loH1323
+- Éxo_2:16al pozo, siete h que tenía el sacerdoteH1121
+- Éxo_2:20y dijo a sus h: ¿Dónde está? ¿Por quéH1121
+- Éxo_2:21él dio su h Séfora por mujer a MoisésH1323
+- Éxo_3:22los cuales pondréis...sobre vuestras hH1121
+- Éxo_6:23tomó Aarón...a Elisabet h de AminadabH1323
+- Éxo_6:25Eleazar...tomó para sí mujer de las h deH1121
+- Éxo_10:9con nuestras h; con nuestras ovejas yH1121
+- Éxo_20:10no hagas en él obra...tu hijo, ni tu hH1323
+- Éxo_21:4su amo...y ella le diere hijos o hH1121
+- Éxo_21:7cuando alguno vendiere su h por siervaH1323
+- Éxo_21:9hará con ella según la costumbre de las hH1121
+- Éxo_21:31o haya acorneado a h, conforme...hará con él
+- Éxo_32:2zarcillos...de vuestras h, y traédmelosH1121
+- Éxo_34:16o tomando de sus h para sus hijos, yH1121
+- Éxo_34:16fornicando sus h en pos de sus diosesH1121
+- Lev_10:14comeréis...tus hijos y tus h contigoH1121
+- Lev_12:5diere a luz h, será inmunda dos semanas
+- Lev_12:6los días...cumplidos, por hijo o por hH1323
+- Lev_12:7la ley para la que diere a luz hijo o h
+- Lev_18:9h de tu padre o h de tu madre, nacida enH1323
+- Lev_18:10la desnudez de la h...o de la h de tu hH1323
+- Lev_18:11a desnudez de la h de la mujer de tuH1323
+- Lev_18:17la desnudez de la mujer y de su h noH1323
+- Lev_18:17la h de su hijo, ni la h de su h, paraH1323
+- Lev_19:29no contaminarás...h haciéndola fornicarH1323
+- Lev_20:17hermana, h de su padre o h de su madreH1323
+- Lev_21:9h del sacerdote, si comenzare a fornicarH1323
+- Lev_22:12la h del sacerdote, si se casare conH1323
+- Lev_22:13pero si la h del sacerdote fuere viudaH1323
+- Lev_24:11Selomit, h de Dibri, de la tribu de DanH1323
+- Lev_26:29y comeréis la carne de vuestras hH1121
+- Núm_18:11, Núm_18:19dado a ti y a...tus h...por estatutoH1121
+- Núm_21:29sus h en cautividad, por Sehón rey deH1121
+- Núm_25:1empezó a fornicar con las h de MoabH1121
+- Núm_25:15era Cozbi h de Zur, príncipe de pueblosH1323
+- Núm_25:18lo tocante a Cozbi h del príncipe deH1323
+- Núm_26:33Zelofehad hijo...no tuvo hijos sino hH1121
+- Núm_26:33nombres de las h de Zelofehad fueronH1121
+- Núm_26:46y el nombre de la h de Aser fue SeraH1323
+- Núm_26:59Jocabed, h de Leví, que le nació a LevíH1323
+- Núm_27:1vinieron las h de Zelofehad hijo deH1121
+- Núm_27:7bien dicen las h de Zelofehad; les darásH1121
+- Núm_27:8traspasaréis su herencia a su hH1323
+- Núm_27:9no tuviere h, daréis su herencia a susH1323
+- Núm_30:16las ordenanzas...entre el padre y su hH1323
+- Núm_36:2que dé la posesión de Zelofehad...a sus hH1121
+- Núm_36:6ha mandado...acerca de las h de ZelofehadH1121
+- Núm_36:8h que tenga heredad en las tribus de losH1323
+- Núm_36:10como...así hicieron las h de ZelofehadH1121
+- Núm_36:11h de Zelofehad, se casaron con hijosH1121
+- Deu_5:14ninguna obra harás tú...ni tu h, ni tuH1323
+- Deu_7:3no darás tu h...ni tomarás a su h para tuH1323
+- Deu_12:12y os alegraréis...vosotros...vuestras hH1121
+- Deu_12:18las comerás...tu h, tu siervo, tu siervaH1323
+- Deu_12:31a sus hijos y...h quemaban en el fuegoH1121
+- Deu_13:6hijo, tu h, tu mujer o tu amigo íntimoH1323
+- Deu_16:11, Deu_16:14alegrarás...tu hijo, tu h, tu siervoH1323
+- Deu_18:10pasar a su hijo o a su h por el fuegoH1323
+- Deu_22:16di mi h a este hombre por mujer, y élH1323
+- Deu_22:17diciendo: No he hallado virgen a tu hH1323
+- Deu_22:17las señales de la virginidad de mi hH1323
+- Deu_23:17no haya ramera entre las h de IsraelH1121
+- Deu_27:22con su hermana, h de su padre, o h deH1323
+- Deu_28:32y tus h serán entregadas a otro puebloH1121
+- Deu_28:41hijos e h engendrarás, y no serán paraH1121
+- Deu_28:53la carne de tus hijos y de tus h queH1121
+- Deu_28:56mirará con malos ojos...su hijo, a su hH1323
+- Deu_32:19el menosprecio de sus hijos y de sus hH1121
+- Jos_7:24tomaron a Acán...sus hijos, sus h, susH1121
+- Jos_15:16al que atacare...yo le daré mi h AcsaH1323
+- Jos_15:17Caleb; y él le dio su h Acsa por mujerH1323
+- Jos_17:3Zelofehad hijo de...no tuvo hijos sino hH1121
+- Jos_17:6las h de Manasés tuvieron heredad entreH1121
+- Jue_1:12dijo Caleb...daré Acsa mi h por mujerH1323
+- Jue_1:13Caleb; y él le dio Acsa su h por mujerH1323
+- Jue_3:6sus h por mujeres, y dieron sus h a losH1121
+- Jue_11:34he aquí a su h que salía a recibirleH1323
+- Jue_11:34h única; no tenía fuera de ella...ni hH1323
+- Jue_11:35¡ay, h mía! en verdad me has abatidoH1323
+- Jue_11:40fueran las...a endechar a la h de JeftéH1323
+- Jue_12:9el cual tuvo treinta hijos y treinta hH1121
+- Jue_12:9tomó de fuera treinta h para sus hijosH1121
+- Jue_14:1a una mujer de las h de los filisteosH1121
+- Jue_14:2he visto...a una mujer de las h de losH1121
+- Jue_14:3¿no hay mujer...las h de tus hermanos, niH1121
+- Jue_19:24mi h virgen, y la concubina...las sacaréH1323
+- Jue_21:1ninguno de...dará su h a los de BenjamínH1323
+- Jue_21:7que no les daremos nuestras h por mujeresH1121
+- Jue_21:18nosotros no les podemos dar...nuestras hH1121
+- Jue_21:21a las h de Silo...arrebatad...h de SiloH1121
+- Rut_1:11volveos, h mías; ¿para qué habéis deH1121
+- Rut_1:12volveos, h mías, e idos; porque yo yaH1121
+- Rut_1:13no, h mías; que mayor amargura tengo queH1121
+- Rut_2:2dejes ir...Y ella le respondió: Vé, h míaH1323
+- Rut_2:8h mía, no vayas a espigar a otro campoH1323
+- Rut_2:22respondió a Rut su nuera: Mejor es, hH1323
+- Rut_3:1h mía, ¿no he de buscar hogar para tiH1323
+- Rut_3:10dijo: Bendita seas tú de Jehová, h míaH1323
+- Rut_3:11h mía; yo haré contigo lo que tú digasH1323
+- Rut_3:16suegra, ésta le dijo: ¿Qué hay, h mía?[[H1323]]
+- Rut_3:18espérate, h mía, hasta que sepas cómoH1323
+- 1Sa_1:4y a todas sus h, a cada uno su parteH1121
+- 1Sa_2:21a Ana...y dio a luz tres hijos y dos hH1121
+- 1Sa_8:13tomará...a vuestras h para...perfumadorasH1121
+- 1Sa_14:49los nombres de sus dos h eran, el de laH1121
+- 1Sa_14:50mujer de Saúl...Ahinoam, h de AhimaasH1323
+- 1Sa_17:25le dará su h, y eximirá de tributos aH1323
+- 1Sa_18:17yo te daré Merab mi h mayor por mujerH1323
+- 1Sa_18:19que Merab h de Saúl se había de dar aH1323
+- 1Sa_18:20Mical la otra h de Saúl amaba a DavidH1323
+- 1Sa_18:27y Saúl le dio su h Mical por mujerH1323
+- 1Sa_18:28Saúl, viendo...que su h Mical lo amabaH1323
+- 1Sa_25:44había dado a su h Mical...a Palti hijoH1323
+- 1Sa_30:3hijos e h habían sido llevados cautivosH1121
+- 1Sa_30:6en amargura de alma, cada uno por...sus hH1121
+- 1Sa_30:19no les faltó...así de hijos como de hH1121
+- 2Sa_1:20no se alegren las h de los filisteosH1121
+- 2Sa_1:20para que no salten de gozo las h de losH1121
+- 2Sa_1:24h de Israel, llorad por Saúl, quien osH1121
+- 2Sa_3:3Absalón hijo de Maaca, h de Talmai reyH1323
+- 2Sa_3:7concubina...se llamaba Rizpa, h de AjaH1323
+- 2Sa_3:13que primero traigas a Mical la h de SaúlH1323
+- 2Sa_5:13tomó David...y le nacieron más hijos e hH1121
+- 2Sa_6:16Mical h de Saúl miró desde una ventanaH1323
+- 2Sa_6:23Mical h de Saúl nunca tuvo hijos hastaH1323
+- 2Sa_11:3es Betsabé h de Eliam, mujer de UríasH1323
+- 2Sa_12:3sola corderita...y la tenía como a una hH1323
+- 2Sa_13:18traje que vestían las h vírgenes de losH1121
+- 2Sa_14:27nacieron a Absalón...y una h que...TamarH1323
+- 2Sa_17:25se había llegado a Abigail h de NahasH1323
+- 2Sa_19:5que hoy han librado...la vida...de tus hH1121
+- 2Sa_21:8dos hijos de Rizpa h de Aja, los cualesH1323
+- 2Sa_21:8tomó el rey a...a cinco hijos de Mical hH1323
+- 2Sa_21:10Rizpa h de Aja tomó una tela de cilicioH1323
+- 2Sa_21:11fue dicho a David lo que hacía Rizpa hH1323
+- 1Re_3:1tomó la h de Faraón, y la trajo a laH1323
+- 1Re_4:11tenía por mujer a Tafat h de SalomónH1323
+- 1Re_4:15tomó...por mujer a Basemat h de SalomónH1323
+- 1Re_7:8edificó...Salomón para la h de Faraón, queH1323
+- 1Re_9:16dio en dote a su h la mujer de SalomónH1323
+- 1Re_9:24subió la h de Faraón de...a su casa queH1323
+- 1Re_11:1Salomón amé, además de la h de Faraón, aH1323
+- 1Re_15:2, 1Re_15:10su madre fue Maaca, h de AbisalomH1323
+- 1Re_16:31por mujer a Jezabel, h de Et-baal rey deH1323
+- 1Re_22:42el...de su madre fue Azuba h de SilhiH1323
+- 2Re_8:18una h de Acab fue su mujer; e hizo loH1323
+- 2Re_8:26su madre fue Atalía, h de Omri rey deH1323
+- 2Re_9:34id ahora...sepultadla, pues es h de reyH1323
+- 2Re_11:2pero Josaba h del Joram...tomó a JoásH1323
+- 2Re_14:9al cedro...Da tu h por mujer a mi hijoH1323
+- 2Re_15:33el nombre de su madre fue Jerusa h deH1323
+- 2Re_17:17hicieron pasar a...y a sus h por fuegoH1121
+- 2Re_18:2el nombre de su madre...Abi h de ZacaríasH1323
+- 2Re_19:21la virgen h de Sion te menosprecia, teH1323
+- 2Re_19:21de ti mueve su cabeza la h de JerusalénH1323
+- 2Re_21:19Amón...madre fue Mesulemet h de HaruzH1323
+- 2Re_22:1Josías...su madre fue Jedida h de AdaíaH1323
+- 2Re_23:10que ninguno pasase su...o su h por fuegoH1323
+- 2Re_23:31su madre fue Hamutal h de Jeremías, deH1323
+- 2Re_23:36de su madre fue Zebuda h de Pedaías, deH1323
+- 2Re_24:8el nombre de su madre fue Nehusta h deH1323
+- 2Re_24:18el nombre de su madre fue Hamutal h deH1323
+- 1Cr_1:50Mehetabel h de Matred, h de MezaabH1323
+- 1Cr_2:3tres le nacieron de la h de Súa, cananeaH1323
+- 1Cr_2:21entró Hezrón a la h de Maquir padre deH1323
+- 1Cr_2:34Sesán no tuvo hijos, sino h; pero teníaH1121
+- 1Cr_2:35a éste Sesán dio su h por mujer, y ellaH1323
+- 1Cr_2:49dio a luz a Saaf...Acsa fue h de CalebH1323
+- 1Cr_3:2Absalón hijo de Maaca, h de Talmai reyH1323
+- 1Cr_3:5y Salomón hijo de Bet-súa h de AmielH1323
+- 1Cr_4:18hijos de Bitia h de Faraón, con la cualH1323
+- 1Cr_4:27los hijos de Simei fueron 16, y seis hH1121
+- 1Cr_7:15segundo...Zelofehad. Y Zelofehad tuvo hH1121
+- 1Cr_7:24y su h fue Seera, la cual edificó aH1323
+- 1Cr_14:3tomó...y engendró David más hijos e hH1121
+- 1Cr_15:29Mical, h de Saúl...vio al rey David queH1323
+- 1Cr_23:22murió Eleazar sin hijos; pero tuvo hH1121
+- 1Cr_25:5Dios dio a Hemán catorce hijos y tres hH1121
+- 2Cr_2:14hijo de una mujer de las h de DanH1121
+- 2Cr_8:11pasó Salomón a la h de Faraón, de laH1323
+- 2Cr_11:18Mahalat h de Jerimot...Abihail h de IsaíH1323
+- 2Cr_11:20tomó a Maaca h de Absalón, la cual leH1323
+- 2Cr_11:21pero Roboam amó a Maaca h de AbsalónH1323
+- 2Cr_11:21Roboam amó...engendró 28 hijos y 60 hH1121
+- 2Cr_13:2madre fue Micaías h de Uriel de GabaaH1323
+- 2Cr_13:21Abías...Tomó...engendró 22 hijos y 16 hH1121
+- 2Cr_20:31Josafat...su madre fue Azuba, h de SilhiH1323
+- 2Cr_21:6porque tenía por mujer a la h de AcabH1323
+- 2Cr_22:2el nombre de su madre fue Atalía, h deH1323
+- 2Cr_22:11Josabet, h del rey, tomó a Joás hijoH1323
+- 2Cr_22:11lo escondió Josabet, h del rey JoramH1323
+- 2Cr_24:3tomó...dos mujeres; y engendró hijos e hH1121
+- 2Cr_25:18al cedro...Da tu h a mi hijo por mujerH1323
+- 2Cr_27:1Jotam...su madre fue Jerusa, h de SadocH1323
+- 2Cr_29:1el nombre de su madre fue Abías, h deH1323
+- 2Cr_29:9nuestras h...fueron llevados cautivos porH1121
+- 2Cr_31:18eran inscritos con todos...sus hijos e hH1121
+- Esd_2:61tomó mujer de las h de Barzilai, yH1121
+- Esd_9:2porque han tomado de las h de ellos paraH1121
+- Esd_9:12no daréis vuestras h...ni sus h tomaréisH1121
+- Neh_3:12restauró Salum...gobernador...sus hH1121
+- Neh_4:14pelead por...y por vuestras hijas, por vuestrasH1121
+- Neh_5:2nosotros...y nuestras h, somos muchosH1121
+- Neh_5:5dimos nuestros hijos y...h a servidumbreH1121
+- Neh_5:5algunas de nuestras h lo están ya, y noH1121
+- Neh_6:18tomado por mujer a la h de Mesulam hijoH1121
+- Neh_7:63el cual tomó mujer de las h de BarzilaiH1121
+- Neh_10:28con sus mujeres, sus hijos e h, todoH1121
+- Neh_10:30no daríamos nuestras h a los pueblosH1121
+- Neh_10:30ni tomaríamos...h para nuestros hijosH1121
+- Neh_13:25no daréis vuestras h a sus hijos, y noH1121
+- Neh_13:25no tomaréis de...h para vuestros hijosH1323
+- Est_2:7y había criado a...Ester, h de su tíoH1323
+- Est_2:7Ester...Mardoqueo la adoptó como h suyaH1323
+- Est_2:15a Ester, h de Abihail tío de MardoqueoH1323
+- Est_2:15Mardoqueo, quien la había tomado por hH1323
+- Est_9:29la reina Ester h de Abihail, y MardoqueoH1323
+- Job_1:2y le nacieron siete hijos y tres hH1121
+- Job_1:13sus hijos e h comían y bebían vino enH1121
+- Job_1:18tus hijos y tus h estaban comiendo yH1121
+- Job_42:13y tuvo siete hijos y tres hH1121
+- Job_42:15y no había mujeres...como las h de JobH1121
+- Sal_9:14cuente...en las puertas de la h de SionH1323
+- Sal_45:9h de reyes están entre tus ilustresH1121
+- Sal_45:10oye, h, y mira, e inclina tu oídoH1323
+- Sal_45:12y las h de Tiro vendrán con presentesH1323
+- Sal_45:13gloriosa es la h del rey en su moradaH1323
+- Sal_48:11gozarán las h de Judá por tus juiciosH1121
+- Sal_97:8las h de Judá...gozaron por tus juiciosH1121
+- Sal_106:37sacrificaron sus hijos y sus h a losH1121
+- Sal_106:38derramaron la sangre inocente...sus hH1121
+- Sal_137:8h de Babilonia...bienaventurado el queH1323
+- Sal_144:12nuestras h como esquinas labradas comoH1121
+- Pro_30:15la sanguijuela tiene dos h que dicenH1121
+- Ecl_12:4todas las h del canto serán abatidasH1121
+- Cnt_1:5morena soy, oh h de Jerusalén, peroH1121
+- Cnt_7:1hermosos son tus pies...oh h de príncipeH1323
+- Isa_1:8y queda la h de Sion como enramada enH1323
+- Isa_3:16por cuanto las h de Sion se ensoberbecenH1121
+- Isa_3:17Señor raerá la cabeza de las h de SionH1121
+- Isa_4:4el Señor lave las inmundicias de las h deH1121
+- Isa_10:30grita en alta voz, h de Galim; haz queH1323
+- Isa_10:32alzará su mano al monte de la h de SionH1004
+- Isa_16:1enviad cordero...al monte de la h de SionH1323
+- Isa_16:2así serán las h de Moab en los vados deH1121
+- Isa_22:4de la destrucción de la h de mi puebloH1323
+- Isa_23:10cual río de tu tierra, oh h de TarsisH1323
+- Isa_23:12no te alegrarás más, oh...virgen h deH1323
+- Isa_32:9oíd mi...h confiadas, escuchad mi razónH1121
+- Isa_37:22la virgen h de Sion te menosprecia, teH1323
+- Isa_37:22de ti mueve su cabeza la h de JerusalénH1323
+- Isa_43:6trae de lejos mis hijos, y mis h de losH1121
+- Isa_47:1y siéntate en el polvo...h de BabiloniaH1323
+- Isa_47:5y entra en tinieblas, h de los caldeosH1323
+- Isa_49:22traerán en brazos a tus hijos, y tus hH1121
+- Isa_52:2suelta las ataduras...cautiva h de SionH1323
+- Isa_56:5daré lugar...y nombre mejor que el de...hH1121
+- Isa_60:4lejos, y tus h serán llevadas en brazosH1121
+- Isa_62:11decid a la h de Sion: He aquí viene tuH1323
+- Jer_3:24consumió el trabajo de...y sus hH1121
+- Jer_4:11viento seco...vino a la h de mi puebloH1323
+- Jer_4:31oí una voz...de la h de Sion que lamentaH1323
+- Jer_5:17comerá a tus hijos y a tus h; comerá tusH1121
+- Jer_6:2destruiré a la bella y delicada h de SionH1323
+- Jer_6:23dispuestos para la guerra...oh h de SionH1323
+- Jer_6:26h de mi pueblo...revuélcate en cenizaH1323
+- Jer_7:31quemar al fuego a sus hijos y a sus hH1121
+- Jer_8:11curaron la herida de la h de mi puebloH1323
+- Jer_8:19la voz del clamor de la h de mi puebloH1323
+- Jer_8:21quebrantado estoy por...la h de mi puebloH1323
+- Jer_8:22no hubo medicina para la h de mi pueblo?[[H1323]]
+- Jer_9:1llore...los muertos de la h de mi puebloH1323
+- Jer_9:7más he de hacer por la h de mi pueblo?[[H1323]]
+- Jer_9:20enseñad endechas a vuestras h...su amigaH1121
+- Jer_11:22sus hijos y sus h morirán de hambreH1121
+- Jer_14:16quien los entierre...sus hijos y a sus hH1121
+- Jer_14:17quebrantada la virgen h de mi puebloH1323
+- Jer_16:2no...ni tendrás hijos ni h en este lugarH1121
+- Jer_16:3así ha dicho Jehová acerca de...de las hH1121
+- Jer_19:9haré comer la carne de sus hijos y...hH1121
+- Jer_29:6y engendrad hijos e h; dad mujeres aH1121
+- Jer_29:6a vuestras h, para que tengan hijos e hH1121
+- Jer_31:22¿hasta cuándo andarás errante, oh hH1323
+- Jer_32:35hacer pasar por el fuego...sus h a MolocH1121
+- Jer_35:8no beber...nuestros hijos ni nuestras hH1121
+- Jer_41:10llevó Ismael cautivo...a las h del reyH1121
+- Jer_43:6y a las h del rey y a toda persona queH1121
+- Jer_46:11toma bálsamo, virgen h de Egipto; porH1323
+- Jer_46:19hazte enseres de...moradora h de EgiptoH1323
+- Jer_46:24avergonzará la h de Egipto; entregadaH1323
+- Jer_48:18siéntate en tierra seca, moradora h deH1323
+- Jer_48:46hijos fueron...y tus h para cautiverioH1121
+- Jer_49:3clamad, h de Rabá, vestíos de cilicioH1323
+- Jer_49:4tu valle se deshizo, oh h contumaz, laH1323
+- Jer_50:42prepararán contra ti...h de BabiloniaH1323
+- Jer_51:33h de Babilonia es como una era cuandoH1323
+- Jer_52:1madre...Hamutal, h de Jeremías de LibnaH1323
+- Lam_1:6desapareció de la h de...su hermosuraH1323
+- Lam_1:15hollado el Señor a la virgen h de JudáH1323
+- Lam_2:1oscureció el Señor en su furor a la h deH1323
+- Lam_2:2echó por tierra las fortalezas de la h deH1323
+- Lam_2:4en la tienda de la h de Sion derramó comoH1323
+- Lam_2:5multiplicó en la h de Judá la tristezaH1323
+- Lam_2:8Jehová determinó destruir el muro de la hH1323
+- Lam_2:10callaron los ancianos de la h de SionH1323
+- Lam_2:11a causa del quebrantamiento de la h deH1323
+- Lam_2:13a quién te...semejante, h de Jerusalén?[[H1323]]
+- Lam_2:13para consolarte, oh virgen h de Sion?[[H1323]]
+- Lam_2:15sus cabezas sobre la h de JerusalénH1323
+- Lam_2:18oh h de Sion, echa lágrimas cual arroyoH1323
+- Lam_3:48el quebrantamiento de la h de mi puebloH1323
+- Lam_3:51contristaron mi alma por todas las h deH1121
+- Lam_4:3h de mi pueblo es cruel como...avestrucesH1323
+- Lam_4:6porque se aumentó la iniquidad de la h deH1323
+- Lam_4:10en el día del quebrantamiento de la h deH1323
+- Lam_4:21h de Edom...que habitas en tierra de UzH1323
+- Lam_4:22se ha cumplido tu castigo, oh h de SionH1323
+- Lam_4:22castigará tu iniquidad, oh h de EdomH1323
+- Eze_13:17pon tu rostro contra las h de tu puebloH1121
+- Eze_14:16, Eze_14:18, Eze_14:20sus hijos ni a sus h libraríanH1121
+- Eze_14:22quedará en ella un remanente, hijos e hH1121
+- Eze_16:20tus hijos y tus h que habías dado a luzH1121
+- Eze_16:27te entregué a...las h de los filisteosH1121
+- Eze_16:44a ti el refrán...Cual la madre, tal la hH1323
+- Eze_16:45h eres tú de tu madre, que desechó aH1323
+- Eze_16:46ella y sus h, que habitan al norte deH1121
+- Eze_16:46con sus h, la cual habita al sur de tiH1121
+- Eze_16:48Sodoma tu hermana y sus h no ha hechoH1121
+- Eze_16:48no han hecho como hiciste tú y tus hH1121
+- Eze_16:49abundancia de ociosidad...ella y sus hH1121
+- Eze_16:53los cautivos de Sodoma y de sus h, y losH1121
+- Eze_16:53y los cautivos de Samaria y de sus hH1121
+- Eze_16:55Sodoma con sus h, y Samaria con sus hH1121
+- Eze_16:55tú también y tus h volveréis a vuestroH1121
+- Eze_16:57llevas tu la afrenta de las h de SiriaH1121
+- Eze_16:57y de todas las h de los filisteos, lasH1121
+- Eze_16:61las cuales yo te daré por h, mas no porH1121
+- Eze_22:11cada uno violó...hermana, h de su padreH1323
+- Eze_23:2hijo de hombre, hubo dos mujeres, h deH1121
+- Eze_23:4dieron a luz hijos e h. Y se llamaronH1121
+- Eze_23:10tomaron sus hijos y sus h, y a ellaH1121
+- Eze_23:25ellos tomarán a tus hijos y a tus hH1121
+- Eze_23:47matarán a sus hijos y a sus h, y susH1121
+- Eze_24:21hijos...h que dejasteis caerán a espadaH1121
+- Eze_24:25el día que yo arrebate...hijos y sus hH1121
+- Eze_26:6sus h...serán muertas a espada; y sabránH1121
+- Eze_26:8matará a espada tus h que están en elH1121
+- Eze_32:16endecha...h de las naciones la cantaránH1121
+- Eze_32:18a las h de las naciones poderosas, a loH1121
+- Eze_44:25por...hijo o h...sí podrán contaminarseH1323
+- Dan_11:6la h del rey del sur vendrá al rey delH1323
+- Dan_11:17dará una h de mujeres para destruirleH1323
+- Ose_1:3fue...tomó a Gomer h de Diblaim, la cualH1323
+- Ose_1:6concibió...y dio a luz una h. Y le dijoH1323
+- Ose_4:13vuestras h fornicarán, y adulteraránH1121
+- Ose_4:14no castigaré a...h cuando forniquen, niH1121
+- Joe_2:28y profetizarán...vuestras h; vuestrosH1121
+- Joe_3:8venderé vuestros hijos y vuestras h a losH1121
+- Amó_7:17y tus hijos y tus h caerán a espadaH1121
+- Miq_1:13fuisteis principio de pecado a la h deH1323
+- Miq_4:8tú, oh torre...fortaleza de la h de SionH1323
+- Miq_4:8vendrá el...el reino de la h de JerusalénH1323
+- Miq_4:10gime, h de Sion, como mujer que está deH1323
+- Miq_4:13levántate y trilla, h de Sion, porqueH1323
+- Miq_5:1rodéate ahora de muros, h de guerrerosH1323
+- Miq_7:6hijo deshonra al padre, la h se levantaH1323
+- Sof_3:10h de mis esparcidos traerá mi ofrendaH1323
+- Sof_3:14canta, oh h de Sion; da voces de júbiloH1323
+- Sof_3:14regocíjate de...corazón, h de JerusalénH1323
+- Zac_2:7la que moras con la h de BabiloniaH1323
+- Zac_2:10canta y alégrate, h de Sion, porque heH1323
+- Zac_9:9alégrate mucho, h de Sion, da voces deH1323
+- Zac_9:9de júbilo, h de Jerusalén; he aquí tu reyH1323
+- Mal_2:11Judá...se casó con h de dios extrañoH1323
+- Mat_9:18h acaba de morir...ven y pon tu manoG2364
+- Mat_9:22ten ánimo, h; tu fe te ha salvadoG2364
+- Mat_10:35h contra su madre, y a la nuera contraG2364
+- Mat_10:37el que ama a hijo o a h más que a míG2364
+- Mat_14:6h de Herodías danzó en medio, y agradóG2364
+- Mat_15:22mi h es gravemente atormentada por unG2364
+- Mat_15:28y su h fue sanada desde aquella horaG2364
+- Mat_21:5decid a la h de Sion: He aquí, tu ReyG2364
+- Mar_5:23diciendo: Mi h está agonizando; ven yG2365
+- Mar_5:34h, tu fe te ha hecho salva; vé en pazG2364
+- Mar_5:35tu h ha muerto; ¿para qué molestas másG2364
+- Mar_6:22entrando la h...Herodías, danzó, y agradóG2364
+- Mar_7:25mujer, cuya h tenía un espíritu inmundoG2365
+- Mar_7:26le rogaba que echase fuera de su h alG2364
+- Mar_7:29dijo...vé; el demonio ha salido de tu hG2364
+- Mar_7:30halló que el...a la h acostada en la camaG2364
+- Luc_1:5su mujer era de las h de Aarón, y seG2364
+- Luc_2:36también allí Ana, profetiza, h de FanuelG2364
+- Luc_8:42tenía una h única, como de doce años, queG2364
+- Luc_8:48dijo: H, tu fe te ha salvado, vé en pazG2364
+- Luc_8:49a decirle: Tu h ha muerto; no molestesG2364
+- Luc_12:53la madre contra la h, y la h contra laG2364
+- Luc_13:16a esta h de Abraham...¿no se le debíaG2364
+- Luc_23:28h de Jerusalén, no lloréis por mí, sinoG2364
+- Jua_12:15no temas, h de Sion; he aquí tu ReyG2364
+- Hec_2:17dice Dios...vuestras h profetizaránG2364
+- Hec_7:21h de Faraón le recogió y le crio comoG2364
+- Hec_21:9cuatro h doncellas que profetizabanG2364
+- 1Co_7:36impropio para su h virgen que pase
+- 1Co_7:37y ha resuelto...guardar a su h virgen
+- 2Co_6:18vosotros me seréis hijos e h, diceG2364
+- Heb_11:24rehusó llamarse...de la h de FaraónG2364
+- 1Pe_3:6de la cual...habéis venido a ser h, siG5043

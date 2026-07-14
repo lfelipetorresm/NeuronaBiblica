@@ -1,0 +1,192 @@
+---
+tipo: concordancia
+palabra: SEÑAL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SEÑAL
+
+- Gén_1:14sirvan de s para las estaciones, paraH226
+- Gén_4:15puso s en Caín, para que no lo mataseH226
+- Gén_9:12dijo Dios: Esta es la s del pacto queH226
+- Gén_9:13mi arco...será por s del pacto entre míH226
+- Gén_9:17la s del pacto que he establecido entreH226
+- Gén_17:11por s del pacto entre mí y vosotrosH226
+- Gén_28:18la alzó por s, y derramó aceite encimaH4676
+- Gén_28:22esta piedra que he puesto por s, seráH4676
+- Gén_31:45tomó una piedra, y la levantó por sH4676
+- Gén_31:51he aquí este majano, y he aquí esta sH4676
+- Gén_31:52sea este majano, y testigo sea esta sH4676
+- Gén_31:52ni tú pasarás...ni de esta s contra míH4676
+- Gén_35:14Jacob erigió una y en...una s de piedraH4676
+- Gén_35:20s de la sepultura de Raquel hasta hoyH4676
+- Éxo_3:12estaré contigo; y esto te será por sH226
+- Éxo_4:8ni obedecieren a la voz de la primera sH226
+- Éxo_4:9y si aún no creyeren a estas dos s, niH226
+- Éxo_4:17mano esta vara, con la cual harás las sH226
+- Éxo_4:28a Aarón...todas las s que le había dadoH226
+- Éxo_4:30hizo...s delante de los ojos del puebloH226
+- Éxo_7:3multiplicaré en la...de Egipto mis s y misH226
+- Éxo_8:23yo pondré redención...Mañana será esta sH226
+- Éxo_10:1yo...para mostrar entre ellos estas mis sH226
+- Éxo_10:2y mis s que hice entre ellos; para queH226
+- Éxo_12:13y la sangre os será por s en las casasH226
+- Éxo_13:9será como una s sobre tu mano, y comoH226
+- Éxo_13:16será, pues, como una s sobre tu manoH226
+- Éxo_31:13es s entre mí y vosotros por vuestrasH226
+- Éxo_31:17s es...entre mí y los hijos de IsraelH226
+- Lev_10:6ni rasguéis...vestidos en s de duelo
+- Lev_13:28es la cicatriz de...s de la quemadura esH6867
+- Lev_19:28no...ni imprimiréis en vosotros s algunaH7085
+- Núm_14:11no me creerán, con todas las s queH226
+- Núm_14:22vieron...mis s que he hecho en EgiptoH226
+- Núm_16:38y serán como s a los hijos de IsraelH226
+- Núm_17:10se guarde por s a los hijos rebeldesH226
+- Deu_4:34s, con milagros y con guerra, y manoH226
+- Deu_6:8atarás como una s en tu mano, y estaránH226
+- Deu_6:22hizo s y milagros...terribles en EgiptoH226
+- Deu_7:19las grandes pruebas...de las s y milagrosH226
+- Deu_11:3sus s...y sus obras que hizo en...EgiptoH226
+- Deu_11:18las ataréis como s en vuestra mano, yH226
+- Deu_13:1en ti profeta...anunciare s o prodigiosH226
+- Deu_13:2se cumpliere la s o...que él te anuncióH226
+- Deu_22:15sacarán las s de la virginidad de la
+- Deu_22:17pero ved aquí las s de la virginidad
+- Deu_26:8Jehová nos sacó...con s y con milagrosH226
+- Deu_28:46serán en ti por s y por maravilla, yH226
+- Deu_29:3vieron...las s y las grandes maravillasH226
+- Deu_34:11nadie como él en...las s y prodigios queH226
+- Jos_2:12de lo cual me daréis una s seguraH226
+- Jos_4:6que esto sea s entre vosotros; y cuandoH226
+- Jos_24:17Dios...el que ha hecho estas grandes sH226
+- Jue_6:17des s de que tú has hablado conmigoH226
+- Jue_20:38la s...hiciesen subir una gran humareda
+- 1Sa_2:34te será por s esto que acontecerá aH226
+- 1Sa_10:7cuando te hayan sucedido estas s, haz loH226
+- 1Sa_10:9todas estas s acontecieron en aquel díaH226
+- 1Sa_14:10los ha entregado...esto nos será por sH226
+- 1Re_13:3dio una s, diciendo: Esta es la s deH4159
+- 1Re_13:5y se derramó la ceniza...conforme a la sH4159
+- 2Re_19:29y esto te daré por s, oh EzequíasH226
+- 2Re_20:8¿qué s tendré de que Jehová me sanaráH226
+- 2Re_20:9esta s tendrás de Jehová, de que haráH226
+- 2Cr_32:24y oró a Jehová,...y le dio una sH4159
+- Neh_9:10hiciste s y maravillas contra FaraónH226
+- Sal_74:4enemigos...puesto sus divisas por sH226
+- Sal_74:9no vemos ya nuestras s; no hay...profetaH226
+- Sal_78:43puso en Egipto sus s, y sus maravillasH226
+- Sal_86:17haz conmigo s para bien, y véanla losH226
+- Sal_105:27puso en ellos las palabras de sus sH226
+- Sal_135:9envió s y prodigios en medio de ti, ohH226
+- Isa_7:11pide para ti s de Jehová...en lo altoH226
+- Isa_7:14el Señor mismo os dará s: He aquí que laH226
+- Isa_8:18yo y...somos por s y presagios en IsraelH226
+- Isa_19:20será por s por testimonio a Jehová deH226
+- Isa_20:3por s y pronóstico sobre Egipto y sobreH226
+- Isa_37:30esto te será por s: Comeréis este añoH226
+- Isa_38:7esto te será s de parte de Jehová, queH226
+- Isa_38:22¿qué s tendré de que subiré a la casaH226
+- Isa_44:25deshago las s de los adivinos...sabiosH226
+- Isa_55:13será...por s eterna que nunca será raídaH226
+- Isa_66:19pondré entre ellos s, y enviaré de losH226
+- Jer_6:1alzad por s humo sobre Bet-haqueremH4864
+- Jer_10:2no...ni de las s del cielo tengáis temorH226
+- Jer_31:21establécete s, ponte majanos altosH6725
+- Jer_32:20tú hiciste s y portentos en tierra deH226
+- Jer_32:21y sacaste a...Israel...con s y portentosH226
+- Jer_44:29y esto tendréis por s, dice Jehová, deH226
+- Eze_4:3la sitiarás...Es s a la casa de IsraelH226
+- Eze_9:4ponles una s en la frente a los hombresH8420
+- Eze_9:6a todo aquel sobre el cual hubiere s, noH8420
+- Eze_12:6por s te he dado a la casa de IsraelH4159
+- Eze_12:11yo soy vuestra s; como yo hice, así seH4159
+- Eze_14:8le pondré por s y por escarmiento, y loH226
+- Eze_20:12para que fuesen por s entre mí y ellosH226
+- Eze_20:20y sean por s entre mí y vosotros, paraH226
+- Eze_21:19y pon una s al comienzo de cada camino
+- Eze_24:24Ezequiel, pues, os será por s; segúnH4159
+- Eze_24:27y les serás por s, y sabrán que yo soyH4159
+- Eze_39:15que vea los huesos...junto a ellos una sH6725
+- Dan_4:2que yo declare las s y milagros que elH852
+- Dan_4:3¡cuán grandes son sus s, y cuán potentesH852
+- Dan_6:27hace s y maravillas en el cielo y en laH852
+- Mat_12:38diciendo: Maestro, deseamos...de ti sG4592
+- Mat_12:39la generación mala y adúltera demanda sG4592
+- Mat_12:39s no le será dada, sino la s del...JonásG4592
+- Mat_16:1le pidieron que les mostrase s del cieloG4592
+- Mat_16:3¡mas las s de los tiempos no podéis![[G4592]]
+- Mat_16:4la generación mala y adúltera demanda sG4592
+- Mat_16:4s no le será dada, sino la s del...JonásG4592
+- Mat_24:3qué s habrá de tu venida, y del fin delG4592
+- Mat_24:24y harán grandes s y prodigios, de talG4592
+- Mat_24:30aparecerá la s del Hijo del Hombre enG4592
+- Mat_26:48les había dado s, diciendo: Al que yoG4592
+- Mar_8:11pidiéndole s del cielo, para tentarleG4592
+- Mar_8:12pide s esta generación?...no se dará sG4592
+- Mar_13:4que s habrá...cosas hayan de cumplirse?[[G4592]]
+- Mar_13:22harán s y prodigios, para engañar, siG4592
+- Mar_14:44el que le entregaba les había dado sG4953
+- Mar_16:17y estas s seguirán a los que creen: EnG4953
+- Mar_16:20confirmando la palabra con las s que laG4953
+- Luc_2:1-2esto os servirá de s: Hallaréis al niñoG4592
+- Luc_2:34en Israel, y para s que será contradichaG4592
+- Luc_11:16para tentarle, le pedían s del cieloG4592
+- Luc_11:29esta generación es mala; demanda s, peroG4592
+- Luc_11:29s no le será dada, sino la s de JonásG4592
+- Luc_11:30así como Jonás fue s a los ninivitasG4592
+- Luc_21:7qué s habrá cuando...estén para suceder?[[G4592]]
+- Luc_21:11y habrá terror y grandes s del cieloG4592
+- Luc_21:25habrá s en el sol, en la luna y en lasG4592
+- Luc_23:8verle...y esperaba verle hacer alguna sG4592
+- Jua_2:11principio de s hizo Jesús en Caná deG4592
+- Jua_2:18¿qué s nos muestras, ya que haces esto?[[G4592]]
+- Jua_2:23creyeron en su...viendo las s que hacíaG4592
+- Jua_3:2nadie puede hacer estas s que tú hacesG4592
+- Jua_4:48le dijo: Si no viereis s y...no creeréisG4591
+- Jua_4:54esta segunda s hizo Jesús, cuando fue deG4592
+- Jua_6:2veían las s que hacía en los enfermosG4592
+- Jua_6:14viendo la s que...había hecho, dijeronG4592
+- Jua_6:26me buscáis, no porque habéis visto las sG4592
+- Jua_6:30¿qué s...para que veamos, y te creamos?[[G4592]]
+- Jua_7:31¿hará más s que las que éste hace?[[G4592]]
+- Jua_9:16¿cómo puede un...pecador hacer estas s?[[G4592]]
+- Jua_10:41Juan, a la verdad, ninguna s hizo; peroG4592
+- Jua_11:47¿qué...Porque este hombre hace muchas sG4592
+- Jua_12:18había oído que él había hecho esta sG4592
+- Jua_12:37a pesar de que había hecho tantas sG4592
+- Jua_20:25si no viere en sus...la s de los clavosG5179
+- Jua_20:30hizo...muchas otras s en presencia deG4591
+- Hec_2:19daré...y s abajo en la tierra, sangreG4591
+- Hec_2:22s que Dios hizo entre vosotros por medioG4591
+- Hec_2:43y muchas maravillas y s eran hechas porG4591
+- Hec_4:16s manifiesta ha sido hecha por ellosG4592
+- Hec_4:30que se hagan...s y prodigios mediante elG4591
+- Hec_5:12apóstoles se hacían muchas s y prodigiosG4591
+- Hec_6:8Esteban...prodigios y s entre el puebloG4592
+- Hec_7:36habiendo hecho prodigios y s en tierraG4591
+- Hec_8:6la gente...oyendo y viendo las s que hacíaG4592
+- Hec_8:13viendo las s y...milagros que se hacíanG4591
+- Hec_12:17pero él, haciéndoles..s de que callasenG2678
+- Hec_13:16hecha s de silencio con la mano, dijoG2678
+- Hec_14:3se hiciesen por las manos de ellos s yG4591
+- Hec_15:12grandes s y maravillas había hecho DiosG4592
+- Hec_21:40Pablo...hizo s con la mano al puebloG2678
+- Hec_24:10hecho s el gobernador a Pablo para queG3506
+- Rom_4:11recibió la circuncisión como s, comoG4592
+- Rom_15:19potencia de s y prodigios, en el poderG4591
+- 1Co_1:22los judíos piden s, y los griegosG4592
+- 1Co_11:10mujer debe tener s de autoridad sobre
+- 1Co_14:22así que las lenguas son por s, no a losG4592
+- 2Co_12:12s de apóstol han sido hechas entreG4591
+- 2Co_12:12entre vosotros...s, prodigios y milagrosG4591
+- Gál_2:9dieron...la diestra en s de compañerismo
+- 2Ts_2:9gran poder y s y prodigios mentirososG4591
+- Heb_2:4testificando Dios...con s y prodigios yG4591
+- Rev_12:1apareció en el cielo una gran s: unaG4592
+- Rev_12:3también apareció otra s en el cielo: heG4592
+- Rev_13:13hace grandes s, de tal manera que aunG4592
+- Rev_13:14y engaña a los moradores de...con las sG4592
+- Rev_15:1en el cielo otra s, grande y admirableG4592
+- Rev_16:14son espíritus de demonios, que hacen sG4592
+- Rev_19:20el falso profeta que había hecho...las sG4592

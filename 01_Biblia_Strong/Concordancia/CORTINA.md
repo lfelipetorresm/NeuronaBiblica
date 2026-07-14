@@ -1,0 +1,82 @@
+---
+tipo: concordancia
+palabra: CORTINA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CORTINA
+
+- Éxo_26:1tabernáculo de diez c de lino torcidoH3407
+- Éxo_26:2la longitud de una c...anchura de la...cH3407
+- Éxo_26:2todas las c tendrán una misma medidaH3407
+- Éxo_26:3cinco c estarán unidas...y las otras 5 cH3407
+- Éxo_26:4c de la primera unión...c de la segundaH3407
+- Éxo_26:5cincuenta lazadas harás en la primera cH3407
+- Éxo_26:5cincuenta lazadas...en la orilla de la cH3407
+- Éxo_26:6enlazarás las c la una con la otra, y seH3407
+- Éxo_26:7c de pelo de cabra para...once c harásH3407
+- Éxo_26:8la longitud de cada c...anchura de cada cH3407
+- Éxo_26:8una misma medida tendrán las once cH3407
+- Éxo_26:9unirás cinco c aparte y las otras seis cH3407
+- Éxo_26:9y doblarás la sexta c en el frente delH3407
+- Éxo_26:10(2)50 lazadas en la orilla de la cH3407
+- Éxo_26:12parte que sobra en las c de la tiendaH3407
+- Éxo_26:12la mitad de la c que sobra, colgará aH3407
+- Éxo_26:13sobra a lo largo de las c de la tiendaH3407
+- Éxo_26:36harás...c de azul, púrpura, carmesí yH4539
+- Éxo_26:37harás para la c 5 columnas de maderaH4539
+- Éxo_27:9tendrá el atrio c de lino torcido, deH7050
+- Éxo_27:11a lo largo c de cien codos de longitudH7050
+- Éxo_27:12lado occidental, tendrá c de 50 codosH7050
+- Éxo_27:14las c a un lado de la entrada serán deH7050
+- Éxo_27:15al otro lado, quince codos de c; susH7050
+- Éxo_27:16para la puerta del atrio habrá una c deH4539
+- Éxo_35:15la c de la puerta para la entrada delH4539
+- Éxo_35:17c del atrio, sus columnas y sus basasH7050
+- Éxo_35:17sus basas, la c de la puerta del atrioH4539
+- Éxo_36:8hicieron el tabernáculo de diez c de linoH3407
+- Éxo_36:9la longitud de una c...todas las c eranH3407
+- Éxo_36:10cinco de las c las unió...las otras 5 cH3407
+- Éxo_36:11hizo lazadas de...en la orilla de la cH3407
+- Éxo_36:11lo mismo en la orilla de la c final deH3407
+- Éxo_36:12cincuenta lazadas hizo en la primera cH3407
+- Éxo_36:12la orilla de la c de la segunda serieH3407
+- Éxo_36:13corchetes de...los cuales enlazó las cH3407
+- Éxo_36:14hizo...c de pelo de cabra...once c hizoH3407
+- Éxo_36:15la longitud de una c era de...las once cH3407
+- Éxo_36:16y unir cinco de las c...seis c aparteH3407
+- Éxo_36:17la orilla de la c que estaba al extremoH3407
+- Éxo_36:17lazadas en la orilla de la c final deH3407
+- Éxo_38:9al mediodía, las c del atrio eran de 100H7050
+- Éxo_38:12del lado del occidente, c de 50 codosH7050
+- Éxo_38:14a un lado c de quince codos, sus tresH7050
+- Éxo_38:15al otro lado c de quince codos, con susH7050
+- Éxo_38:16las c del atrio...eran de lino torcidoH7050
+- Éxo_38:18c de la entrada del atrio era de obraH4539
+- Éxo_38:18su altura...lo mismo que las c del atrioH7050
+- Éxo_39:38la c para la entrada del tabernáculoH4539
+- Éxo_39:40c del atrio, sus columnas y sus basasH7050
+- Éxo_39:40la c para la entrada del atrio, susH7050
+- Éxo_40:5pondrás la c delante a la entrada delH4539
+- Éxo_40:8el atrio...y la c a la entrada del atrioH4539
+- Éxo_40:22al lado norte de la c, fuera del veloH6532
+- Éxo_40:24puso el candelero...al lado sur de la cH4908
+- Éxo_40:28puso...la c a la entrada del tabernáculoH4539
+- Éxo_40:33atrio...puso la c a la entrada del atrioH4539
+- Núm_3:25cargo...c de la puerta del tabernáculoH4539
+- Núm_3:26las c del atrio, y la c de la puertaH7050
+- Núm_4:25las c del tabernáculo, el tabernáculoH3407
+- Núm_4:25la c de la puerta del tabernáculo deH4539
+- Núm_4:26las c del atrio, la c de la puerta delH7050
+- 2Sa_7:2habito...el arca de Dios está entre cH3407
+- 1Cr_17:1el arca del pacto de...debajo de cH3407
+- Sal_18:11puso tinieblas...por c suya alrededorH5521
+- Sal_104:2que extiende los cielos como una cH3407
+- Cnt_1:5pero codiciable...como las c de SalomónH3407
+- Isa_40:22él extiende los cielos como una cH1852
+- Isa_54:2c de tus habitaciones sean extendidasH3407
+- Jer_4:20son destruidas...en un momento mis cH3407
+- Jer_10:20no hay ya más...ni quien cuelgue mis cH3407
+- Jer_49:29sus c y todos sus utensilios y susH3407
+- Eze_27:7de lino fino bordado...era tu c, paraH4666

@@ -1,0 +1,144 @@
+---
+tipo: concordancia
+palabra: EZEQUÍAS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# EZEQUÍAS
+
+- (=Esem)
+- 1 Rey de Judá, hijo y sucesor de Acaz
+- 2Re_16:20Acaz...reinó en su lugar su hijo EH2396
+- 2Re_18:1comenzó a reinar E hijo de Acaz rey deH2396
+- 2Re_18:9cuarto año del rey E...subió SalmanasarH2396
+- 2Re_18:10el año sexto de E, el cual era el añoH2396
+- 2Re_18:13a los catorce años del rey E, subióH2396
+- 2Re_18:14E rey...envió a decir al rey de AsiriaH2396
+- 2Re_18:14impuso a E rey...300 talentos de plataH2396
+- 2Re_18:15dio...E toda la plata que fue hallada enH2396
+- 2Re_18:16entonces E quitó el oro de las puertasH2396
+- 2Re_18:16los quiciales que...E había cubierto deH2396
+- 2Re_18:17el rey de Asiria envió contra el rey EH2396
+- 2Re_18:19decid ahora a E: Así dice el gran reyH2396
+- 2Re_18:22éste aquel cuyos...altares ha quitado EH2396
+- 2Re_18:29no os engañe E...no os podrá librar deH2396
+- 2Re_18:30os haga E confiar en Jehová, diciendoH2396
+- 2Re_18:31no escuchéis a E, porque así dice elH2396
+- 2Re_18:32no oigáis a E...os engaña cuando diceH2396
+- 2Re_18:37vinieron a E, rasgados sus vestidos, yH2396
+- 2Re_19:1cuando el rey E lo oyó, rasgó...vestidosH2396
+- 2Re_19:3ha dicho E: Este día es día de angustiaH2396
+- 2Re_19:5vinieron, pues, los siervos del rey EH2396
+- 2Re_19:9volvió...envió embajadores a E, diciendoH2396
+- 2Re_19:10así diréis a E...No te engañe tu DiosH2396
+- 2Re_19:14y tomó E las cartas de los embajadoresH2396
+- 2Re_19:14las cartas...extendió E delante de JehováH2396
+- 2Re_19:15y oró E delante de Jehová, diciendoH2396
+- 2Re_19:20Isaías hijo de Amoz envió a decir a EH2396
+- 2Re_19:29esto te daré por señal, oh E: Este año
+- 2Re_20:1aquellos días E cayó enfermo de muerteH2396
+- 2Re_20:3te ruego, oh...Y lloró E con gran lloroH2396
+- 2Re_20:5y di a E...Así dice Jehová, el Dios deH2396
+- 2Re_20:8y E había dicho a Isaías: ¿Qué señalH2396
+- 2Re_20:10E respondió: Fácil cosa es que...declineH3169
+- 2Re_20:12rey de Babilonia, envió mensajeros...a EH3169
+- 2Re_20:12había oído que E había caído enfermoH3169
+- 2Re_20:13E los oyó, y les mostró toda la casaH3169
+- 2Re_20:13ninguna cosa quedó...E no les mostraseH3169
+- 2Re_20:14Isaías vino al rey E, y le dijo: ¿QuéH3169
+- 2Re_20:14y E le respondió: De lejanas tierrasH3169
+- 2Re_20:15E respondió: Vieron todo lo que habíaH3169
+- 2Re_20:16entonces Isaías dijo a E: Oye palabraH3169
+- 2Re_20:19E dijo a Isaías: La palabra de JehováH3169
+- 2Re_20:20demás hechos de E...¿no está escrito enH3169
+- 2Re_20:21durmió E con sus padres, y reinó en suH3169
+- 2Re_21:3los lugares altos que E...había derribadoH3169
+- 1Cr_3:13del que fue hijo E, cuyo hijo fueH3169
+- 1Cr_4:41estos...vinieron en días de E rey de JudáH3169
+- 2Cr_28:27durmió Acaz...y reinó en su lugar E suH3169
+- 2Cr_29:1comenzó a reinar E siendo de 25 años, yH3169
+- 2Cr_29:18entonces vinieron al rey E y le dijeronH2396
+- 2Cr_29:20E reunió los principales de la ciudadH3169
+- 2Cr_29:27mandó E sacrificar el holocausto en elH2396
+- 2Cr_29:30E y los príncipes dijeron a los levitasH3169
+- 2Cr_29:31E, dijo: Vosotros os habéis consagradoH3169
+- 2Cr_29:36se alegró E con todo el pueblo, de queH3169
+- 2Cr_30:1envió después E por todo Israel y JudáH3169
+- 2Cr_30:18mas E oró por ellos, diciendo: JehováH3169
+- 2Cr_30:20y oyó Jehová a E, y sanó al puebloH3169
+- 2Cr_30:22habló E al corazón de todos los levitasH3169
+- 2Cr_30:24porque E rey de Judá había dado a laH2396
+- 2Cr_31:2y arregló E la distribución...sacerdotesH3169
+- 2Cr_31:8E y los príncipes vinieron y vieron losH3169
+- 2Cr_31:9y preguntó E a los sacerdotes y a losH3169
+- 2Cr_31:11mandó E que preparasen cámaras en laH3169
+- 2Cr_31:13por mandamiento del rey E y de AzaríasH3169
+- 2Cr_31:20de esta manera hizo E en todo JudáH3169
+- 2Cr_32:2viendo...E la venida de Senaquerib, y suH3169
+- 2Cr_32:5edificó E todos los muros caídos, e hizo
+- 2Cr_32:8confianza en las palabras de E rey deH3169
+- 2Cr_32:9envió...para decir a E rey de Judá, y aH3169
+- 2Cr_32:11os engaña E para entregaros a muerteH3169
+- 2Cr_32:12¿no es E el mismo que ha quitado susH3169
+- 2Cr_32:15no os engañe E, ni os persuada de eseH2396
+- 2Cr_32:16contra Jehová...y contra su siervo EH3169
+- 2Cr_32:17tampoco el Dios de E librará al suyoH3169
+- 2Cr_32:20el rey E y el profeta Isaías...oraronH3169
+- 2Cr_32:22así salvó Jehová a E y a los moradoresH3169
+- 2Cr_32:23muchos trajeron...presentes a E rey deH3169
+- 2Cr_32:24E enfermó de muerte; y oró a JehováH3169
+- 2Cr_32:25mas E no correspondió al bien que leH3169
+- 2Cr_32:26pero E, después de haberse enaltecido suH3169
+- 2Cr_32:26no vino sobre...la ira...en los días de EH3169
+- 2Cr_32:27y tuvo E riquezas y gloria, muchas enH3169
+- 2Cr_32:30E cubrió los manantiales de Gihón laH3169
+- 2Cr_32:30fue prosperado E en todo lo que hizoH3169
+- 2Cr_32:32los demás hechos de E...escritos en laH3169
+- 2Cr_32:33durmió E con sus padres...lo sepultaronH3169
+- 2Cr_33:3altos que E su padre había derribadoH3169
+- Pro_25:1los cuales copiaron los varones de EH2396
+- Isa_1:1vio...en días de Uzías, Jotam, Acaz y EH3169
+- Isa_36:1aconteció en el año catorce del rey EH2396
+- Isa_36:2envió al...a Jerusalén contra el rey EH2396
+- Isa_36:4decid ahora a E: El gran rey, el rey deH2396
+- Isa_36:7lugares altos y...altares hizo quitar EH2396
+- Isa_36:14os engañe E, porque no os podrá librarH2396
+- Isa_36:15os haga E confiar en Jehová, diciendoH2396
+- Isa_36:16no escuchéis a E, porque así dice el reyH2396
+- Isa_36:18que no os engañe E diciendo: Jehová nosH2396
+- Isa_36:22vinieron a E, rasgados sus vestidos, yH2396
+- Isa_37:1el rey E oyó esto, rasgó sus vestidosH2396
+- Isa_37:3cuales le dijeron: Así ha dicho E: DíaH2396
+- Isa_37:5vinieron, pues, los siervos de E a IsaíasH2396
+- Isa_37:9oírlo, envió embajadores a E, diciendoH2396
+- Isa_37:10diréis a E rey de Judá: No te engañe tuH2396
+- Isa_37:14tomó E las cartas de...los embajadoresH2396
+- Isa_37:15entonces E oró a Jehová, diciendoH2396
+- Isa_37:21Isaías hijo de Amoz envió a decir a EH2396
+- Isa_38:1en aquellos días E enfermó de muerteH2396
+- Isa_38:2entonces volvió E su rostro a la paredH2396
+- Isa_38:3oh Jehová, te...Y lloró E con gran lloroH2396
+- Isa_38:5di a E: Jehová Dios de David...dice asíH2396
+- Isa_38:9escritura de E rey de Judá, de cuandoH2396
+- Isa_38:22había asimismo dicho E: ¿Qué señalH2396
+- Isa_39:1rey de Babilonia, envió...presentes a EH2396
+- Isa_39:2se regocijó con ellos E, y les mostróH2396
+- Isa_39:2no hubo cosa en...que E no les mostraseH2396
+- Isa_39:3profeta Isaías vino al rey E, y le dijoH2396
+- Isa_39:3y E respondió: De tierra...de BabiloniaH2396
+- Isa_39:4dijo E: Todo lo que hay en mi casa hanH2396
+- Isa_39:5entonces dijo Isaías a E: Oye palabraH2396
+- Isa_39:8dijo E a Isaías: La palabra de JehováH2396
+- Jer_15:4a causa de Manasés hijo de E, rey deH3169
+- Jer_26:18profetizó en tiempo de E rey de JudáH2396
+- Jer_26:19lo mataron E rey de Judá y todo Judá?[[H2396]]
+- Ose_1:1en días de...Acaz y E, reyes de Judá, yH3169
+- Miq_1:1palabra de Jehová...en días de...Acaz y EH3169
+- Mat_1:9engendró a...Jotam a Acaz, y Acaz a EG1478
+- Mat_1:10E engendró a Manasés, Manasés a AmónG1478
+- 2 Descendiente de Salomón, 1Cr_3:23G2396
+- 3 Jefe de Efraín durante el reinado de Acaz, 2Cr_28:12G3169
+- 4 Jefe de una familia que regresó con Nehemías de Babilonia (=Ater), Esd_2:16G3169
+- Neh_7:21; Neh_10:17H2396
+- 5 Ascendiente del profeta Sofonías, Sof_1:1H2396

@@ -1,0 +1,98 @@
+---
+tipo: concordancia
+palabra: NECESARIO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NECESARIO, A
+
+- 1Re_6:38fue acabada la casa...con todo lo nH4941
+- 1Cr_22:5ahora, pues...le prepararé lo nH3559
+- 2Cr_35:15y no era n que se apartasen de suH5493
+- Esd_6:9y lo que fuere n, becerros, carnerosH2818
+- Esd_7:20sea n dar, lo darás de...tesoros del reyH2819
+- Pro_30:8des...ni riquezas; manténme del pan nH2706
+- Dan_3:16no es n que te respondamos sobre esteH2818
+- Mat_16:21a sus...que le era n ir a JerusalénG1163
+- Mat_17:10dicen...es n que Elías venga primero?[[G1163]]
+- Mat_18:7es n que vengan tropiezos, pero ¡ay deG318
+- Mat_23:23era n hacer...sin dejar de hacer aquelloG1163
+- Mat_24:6es n que todo esto acontezca; pero aúnG1163
+- Mat_26:35aunque me sea n morir contigo, no teG1163
+- Mat_26:54las Escrituras, de que es n que así seG1163
+- Mar_8:31le era n al Hijo del Hombre padecerG1163
+- Mar_9:11¿por qué dicen...que es n que Elías vengaG1163
+- Mar_13:7es n que suceda así; pero aún no es elG1163
+- Mar_13:10y es n que el evangelio sea predicadoG1163
+- Mar_14:31decía: Si me fuere n morir contigo, noG1163
+- Luc_2:49los negocios de mi Padre me es n estar?[[G1163]]
+- Luc_4:43es n que...a otras ciudades anuncie elG1163
+- Luc_9:22es n que el Hijo del Hombre padezcaG1163
+- Luc_10:42solo una cosa es n; y María ha escogidoG5532
+- Luc_11:42esto os era n hacer, sin dejar aquelloG1163
+- Luc_13:33es n que hoy y mañana...siga mi caminoG1163
+- Luc_15:32mas era n hacer fiesta y regocijarnos
+- Luc_17:25primero es n que padezca muchoG1163
+- Luc_19:5porque hoy es n que pose yo en tu casaG1163
+- Luc_21:9es n que estas cosas acontezcan primeroG1163
+- Luc_22:7en el cual era n sacrificar el corderoG1163
+- Luc_22:37os digo que es n que se cumpla todavíaG1163
+- Luc_24:7n que el Hijo del Hombre sea entregadoG1163
+- Luc_24:26n que el Cristo padeciera estas cosasG1163
+- Luc_24:44que era n que se cumpliese todo
+- Luc_24:46y así fue n que el Cristo padeciese, yG1163
+- Jua_3:7de que te dije: Os es n nacer de nuevoG1163
+- Jua_3:14n que el Hijo del Hombre sea levantadoG1163
+- Jua_3:30es n que él crezca, pero que yo mengüeG1163
+- Jua_4:4y le era n pasar por SamariaG1163
+- Jua_4:24en espíritu y en verdad es n que adorenG1163
+- Jua_9:4me es n hacer las obras del que me envióG1163
+- Jua_12:34n que el Hijo del Hombre sea levantadoG1163
+- Jua_20:9era n que él resucitase de los muertosG1163
+- Hec_1:16era n que se cumpliese la EscrituraG1163
+- Hec_1:21el n, pues, que de estos hombres que han
+- Hec_3:21a quien...es n que el cielo reciba hastaG1163
+- Hec_5:29es n obedecer a Dios antes que...hombresG1163
+- Hec_9:16yo le mostraré cuánto le es n padecerG1163
+- Hec_10:6este posa...te dirá lo que es n que hagasG1163
+- Hec_13:46a vosotros a la verdad era n que se osG316
+- Hec_14:22n que a través de muchas tribulacionesG1163
+- Hec_15:5es n circuncidarlos, y mandarles queG1163
+- Hec_15:28no...ninguna carga más que estas cosas nG1876
+- Hec_17:3n que el Cristo padeciese, y resucitaseG1163
+- Hec_18:21n que...guarde en Jerusalén la fiestaG1163
+- Hec_19:21después...me será n ver también a RomaG1163
+- Hec_19:36n que os apacigüéis, y que nada hagáisG1163
+- Hec_20:34para lo que me ha sido n...estas manosG5532
+- Hec_23:11es n que testifiques también en RomaG1163
+- Hec_27:24es n que comparezcas ante César; y heG1163
+- Hec_27:26con todo, es n que demos en alguna islaG1163
+- Hec_28:10zarpamos, nos cargaron de las cosas nG5532
+- Rom_13:5por lo cual es n estarle sujetos
+- 1Co_5:10en tal caso os sería n salirG3784
+- 1Co_7:36que pase ya de edad, y es n que asíG3784
+- 1Co_12:22parecen más débiles, son los más nG316
+- 1Co_15:53es n que esto corruptible se vista deG1163
+- 2Co_5:10n que todos...comparescamos ante elG1163
+- 2Co_9:5tuve por n exhortar a los hermanos queG316
+- 2Co_11:30si es n gloriarse, me gloriaré enG316
+- Efe_4:29que sea buena para la n edificación
+- Flp_1:24pero quedar en la carne es más n porG316
+- Flp_2:25mas tuve por n enviaros a Epafrodito, miG316
+- 1Ti_3:2es n que el obispo sea irreprensibleG1163
+- 1Ti_3:7es n que tenga buen testimonio de los deG1163
+- Tit_1:7es n que...sea irreprensibleG1163
+- Heb_2:1es n que con más diligencia atendamosG1163
+- Heb_7:12n es que haya también cambio de leyG318
+- Heb_8:3es n que también...tenga algo que ofrecerG316
+- Heb_9:16donde hay testamento, es n...muerte delG318
+- Heb_9:23fue, pues, n que las figuras de las cosasG318
+- Heb_9:26hubiera sido n padecer muchas vecesG1163
+- Heb_10:36es n la paciencia, para que habiendo
+- Heb_11:6porque es n que el que se acercaG1163
+- Stg_2:16pero no les dais las cosas que son nG2006
+- 1Pe_1:6por...tiempo, si es n, tengáisG1163
+- Jud_1:3me ha sido n escribiros exhortándoos queG318
+- Rev_10:11es n que profetices otra vez sobreG1163
+- Rev_17:10y cuando venga, es n que dure...tiempoG1163

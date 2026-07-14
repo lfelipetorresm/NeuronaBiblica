@@ -1,0 +1,570 @@
+---
+tipo: concordancia
+palabra: PUERTA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PUERTA
+
+- Gén_4:7no hicieres bien, el pecado está a la pH6607
+- Gén_6:16y pondrás la p del arca a su lado; y leH6607
+- Gén_7:16macho y hembra...y Jehová le cerró la p
+- Gén_18:1estando él sentado a la p de su tiendaH6607
+- Gén_18:2salió corriendo de la p de su tienda aH6607
+- Gén_18:10Sara escuchaba a la p de la tienda, queH6607
+- Gén_19:1y Lot estaba sentado a la p de SodomaH8179
+- Gén_19:6Lot salió...a la p, y cerró la p tras síH1817, [[H6607]]
+- Gén_19:9a Lot, y se acercaron para romper la pH1817
+- Gén_19:10metieron a Lot en casa...y cerraron la pH1817
+- Gén_19:11a los hombres que estaban a la p de laH6607
+- Gén_19:11manera que se fatigaban buscando la pH6607
+- Gén_22:17y tu descendencia poseerá las p de susH8179
+- Gén_23:10, Gén_23:18todos los que entraban por la p deH8179
+- Gén_24:60y posean tus descendientes la p de susH8179
+- Gén_28:17cosa que casa de Dios, y p del cieloH8179
+- Gén_34:20Hamor y Siquem su...a la p de su ciudadH8179
+- Gén_34:24los que salían por la p de la ciudadH8179
+- Gén_34:24a cuantos salían por la p de su ciudadH8179
+- Éxo_12:22ninguno de...salga de las p de su casaH6607
+- Éxo_12:23pasará Jehová aquella p, y no dejaráH6607
+- Éxo_20:10tu extranjero que está dentro de tus pH8179
+- Éxo_21:6y le hará estar junto a la p o al posteH1817
+- Éxo_26:36para la p del tabernáculo una cortinaH6607
+- Éxo_27:16para la p del atrio habrá una cortinaH8179
+- Éxo_29:4llevarás a Aarón...la p del tabernáculoH6607
+- Éxo_29:11el becerro...a la p del tabernáculo deH6607
+- Éxo_29:32comerán la carne...la p del tabernáculoH6607
+- Éxo_29:42p del tabernáculo de reunión, delanteH6607
+- Éxo_32:26se puso Moisés a la p del campamentoH8179
+- Éxo_32:27y volved de p a p por el campamento, yH8179
+- Éxo_33:8cual estaba en pie a la p de su tiendaH6607
+- Éxo_33:9de nube...se ponía a la p del tabernáculoH6607
+- Éxo_33:10la columna de nube que estaba a la p delH6607
+- Éxo_33:10levantaba cada uno a la p de su tiendaH6607
+- Éxo_35:15la cortina de la p para la entrada delH6607
+- Éxo_35:17sus basas, la cortina de la p del atrioH8179
+- Éxo_36:37el velo para la p del tabernáculo, deH6607
+- Éxo_38:8espejos de...mujeres que velaban a la pH6607
+- Éxo_38:15de uno y otro lado de la p del atrioH8179
+- Éxo_38:30del cual fueron hechas las basas de la pH6607
+- Éxo_38:31las basas de la p del atrio, y todas lasH8179
+- Éxo_40:12llevarás a Aarón...a la p del tabernáculoH6607
+- Lev_1:3lo ofrecerá a la p del tabernáculo deH6607
+- Lev_1:5altar, el cual está a la p del tabernáculoH6607
+- Lev_3:2y la degollará a la p del tabernáculo deH6607
+- Lev_4:4traerá el becerro a la p del tabernáculoH6607
+- Lev_4:7, Lev_4:18altar...que está a la p del tabernáculoH6607
+- Lev_8:3y reúne toda la congregación a la p delH6607
+- Lev_8:4y se reunió la congregación a la p delH6607
+- Lev_8:31hervid la carne a la p del tabernáculoH6607
+- Lev_8:33de la p del tabernáculo de...no saldréisH6607
+- Lev_8:35a la p...del tabernáculo...estaréis día yH6607
+- Lev_10:7ni saldréis de la p del tabernáculo deH6607
+- Lev_12:6una tórtola...a la p del tabernáculo deH6607
+- Lev_14:11aquellas cosas, a la p del tabernáculoH6607
+- Lev_14:23estas cosas al...a la p del tabernáculoH6607
+- Lev_14:38el sacerdote saldrá de la casa a la pH6607
+- Lev_15:14vendrá delante de...a la p del tabernáculoH6607
+- Lev_15:29los traerá al...a la p del tabernáculoH6607
+- Lev_16:7los presentará...a la p del tabernáculoH6607
+- Lev_17:4, Lev_17:9no lo trajere a la p del tabernáculoH6607
+- Lev_17:5sus sacrificios...a la p del tabernáculoH6607
+- Lev_17:6sobre el altar de...a la p del tabernáculoH6607
+- Lev_19:21y él traerá...a la p del tabernáculo deH6607
+- Núm_3:25la cortina de la p del tabernáculo deH6607
+- Núm_3:26la cortina de la p del atrio, que estáH6607
+- Núm_4:25la cortina de la p del tabernáculo deH6607
+- Núm_4:26la cortina de la p del atrio, que estáH6607
+- Núm_6:10dos palominos...a la p del tabernáculo deH6607
+- Núm_6:13nazareo...vendrá a la p del tabernáculoH6607
+- Núm_6:18el nazareo raerá a la p del tabernáculoH6607
+- Núm_10:3reunirá ante ti a la p del tabernáculoH6607
+- Núm_11:10lloraba...cada uno a la p de su tiendaH6607
+- Núm_11:16tráelos a la p del tabernáculo...contigo
+- Núm_12:5la nube...se puso a la p del tabernáculoH6607
+- Núm_16:18se pusieron a la p del tabernáculo delH6607
+- Núm_16:19había hecho juntar...congregación a la pH6607
+- Núm_16:27y se pusieron a las p de sus tiendasH6607
+- Núm_16:50volvió Aarón a...a la p del tabernáculoH6607
+- Núm_20:6y se fueron...a la p del tabernáculo deH6607
+- Núm_25:6lloraban ellos a la p del tabernáculoH6607
+- Núm_27:2se presentaron...a la p del tabernáculoH6607
+- Deu_3:5todas estas eran ciudades...p y barrasH1817
+- Deu_5:14ni el extranjero que está dentro de tus pH8179
+- Deu_6:9; Deu_11:20las escribirás en los...y en tus pH8179
+- Deu_12:21comerás en tus p...todo lo que desearesH8179
+- Deu_15:17horadarás su oreja contra la p, y seráH1817
+- Deu_17:5sacarás a tus p al hombre o a la mujerH8179
+- Deu_21:19lo sacarán...la la p del lugar donde vivaH8179
+- Deu_22:15a los ancianos de la ciudad, en la pH8179
+- Deu_22:21entonces la sacarán a la p de la casaH6607
+- Deu_22:24sacaréis a ambos a la p de la ciudadH8179
+- Deu_25:7su cuñada a la p, a los ancianos, y diráH8179
+- Deu_31:15la columna de nube se puso sobre la pH6607
+- Jos_2:5cuando se iba a cerrar la p...salieronH8179
+- Jos_2:7y la p fue cerrada después que salieronH8179
+- Jos_2:19que saliere fuera de las p de tu casaH1817
+- Jos_6:26eche...y sobre su hijo menor asiente sus pH8179
+- Jos_7:5y los siguieron desde la p hasta SebarimH8179
+- Jos_8:29su cuerpo...echasen a la p de la ciudadH8179
+- Jos_20:4y el...se presentará a la p de la ciudadH8179
+- Jue_3:23Aod...cerró tras sí las p de la salaH1817
+- Jue_3:24viendo las p de la sala cerrada, dijeronH1817
+- Jue_3:25él no abría las p de la sala, tomaron laH1817
+- Jue_4:20él le dijo: Estate a la p de la tiendaH6607
+- Jue_5:8nuevos dioses, la guerra estaba a las pH8179
+- Jue_5:11entonces marchará hacia las p el puebloH8179
+- Jue_9:35Gaal hijo...se puso a la entrada de la pH8179
+- Jue_9:40heridos muchos hasta la entrada de la pH8179
+- Jue_9:44se detuvieron a la entrada de la p de laH8179
+- Jue_9:51y cerrando...las p, se subieron al techo
+- Jue_9:52la p de la torre para prenderle fuegoH6607
+- Jue_11:31cualquiera que saliere de las p de miH1817
+- Jue_16:2toda aquella noche a la p de la ciudadH8179
+- Jue_16:3tomando las p de la ciudad con sus dosH1817
+- Jue_18:16estaban armados...a la entrada de la pH8179
+- Jue_18:17la entrada de la p con los seiscientosH8179
+- Jue_19:22que...rodearon la casa, golpeando a la pH6607
+- Jue_19:26vino...y cayó delante de la p de la casaH6607
+- Jue_19:27se levantó su...y abrió las p de la casaH1817
+- Jue_19:27mujer...estaba tendida delante de la pH6607
+- Rut_4:1Booz subió a la p y se sentó allí; y heH8179
+- Rut_4:10muerto no se borre...de la p de su lugarH8179
+- Rut_4:11todos los del pueblo que estaban a la pH8179
+- 1Sa_2:22con las mujeres que velaban a la p delH6607
+- 1Sa_3:15Samuel...abrió las p de la casa de JehováH1817
+- 1Sa_4:18Elí cayó hacia atrás de...al lado de la pH8179
+- 1Sa_9:18acercándose...a Samuel en medio de la pH8179
+- 1Sa_17:52siguieron...a los...hasta las p de EcrónH8179
+- 1Sa_21:13y escribía en las portadas de las p, yH1817
+- 1Sa_23:7entrando en ciudad con p y cerradurasH8179
+- 2Sa_3:27Joab lo llevó aparte en medio de la pH8179
+- 2Sa_10:8en orden de batalla a la entrada de la pH8179
+- 2Sa_11:9Urías durmió a la p de la casa del reyH6607
+- 2Sa_11:23retroceder hasta la entrada de la pH8179
+- 2Sa_13:17échame a ésta...y cierra tras ella la pH8179
+- 2Sa_13:18la echó fuera, y cerró la p tras ellaH8179
+- 2Sa_15:2ponía a un lado del camino junto a la pH8179
+- 2Sa_18:4y se puso el rey a la entrada de la pH8179
+- 2Sa_18:24y David estaba sentado entre las dos pH8179
+- 2Sa_18:24atalaya había ido al terrado sobre la pH8179
+- 2Sa_18:33el rey...subió a la sala de la p, y lloróH8179
+- 2Sa_19:8levantó el rey y se sentó a la p, y fueH8179
+- 2Sa_19:8dado aviso...el rey está sentado a la pH8179
+- 2Sa_23:15-16agua del pozo de Belén...junto a la pH8179
+- 1Re_6:8la p del aposento de...al lado derechoH6907
+- 1Re_6:31a la entrada...hizo p de madera de olivoH1817
+- 1Re_6:32dos p eran de madera de olivo; y tallóH1817
+- 1Re_6:33hizo a la p...postes cuadrados...de olivoH6907
+- 1Re_6:34pero las dos p eran de madera de ciprésH1817
+- 1Re_6:34dos hojas de una p giraban...de la otra pH1817
+- 1Re_7:5todas las p y los postes eran cuadradosH6607
+- 1Re_7:50de oro...las p de la casa...p del temploH1817
+- 1Re_14:6oyó el sonido...al entrar ella por la pH6607
+- 1Re_14:27quienes custodiaban la p de la casaH6607
+- 1Re_16:34a precio de...su hijo menor puso sus pH1817
+- 1Re_17:10y cuando llegó a la p de la ciudad, heH6607
+- 1Re_19:13y salió, y se puso a la p de la cuevaH6607
+- 1Re_22:10junto a la entrada de la p de SamariaH8179
+- 2Re_4:5y cerró la p encerrándose ella y susH1817
+- 2Re_4:15y él la llamó, y ella se paró a la pH6607
+- 2Re_4:21sobre la cama...cerrando la p, se salió
+- 2Re_4:33cerró la p tras ambos, y oró a JehováH1817
+- 2Re_5:9y se paró a las p de la casa de EliseoH6607
+- 2Re_6:32cerrad la p, e impedidle la entradaH1817
+- 2Re_7:1y dos seahs de cebada...a la p de SamariaH8179
+- 2Re_7:3a la entrada de la puerta 4 hombres leprososH8179
+- 2Re_7:10y gritaron a los...de la p de la ciudad
+- 2Re_7:17y el rey puso a la p a aquel príncipeH8179
+- 2Re_7:18vendido por un ciclo...a la p de SamariaH8179
+- 2Re_9:3abriendo la p, echa a huir, y no esperesH1817
+- 2Re_9:10en seguida abrió la p, y echó a huirH1817
+- 2Re_9:31cuando entraba a Jehu por la p, ella dijoH8179
+- 2Re_10:8dos montones a la entrada de la p hastaH8179
+- 2Re_11:6tercera parte estará a la p de Shur, yH8179
+- 2Re_11:6la otra tercera parte a la p del postigoH8179
+- 2Re_11:19por el camino de la p de la guardia a laH8179
+- 2Re_12:9que guardaban la p ponían allí...el dineroH5592
+- 2Re_14:13la p de Efraín hasta la p de la esquinaH8179
+- 2Re_15:16saqueó porque no le habían abierto las p
+- 2Re_15:35edificó él la p más alta de la casa deH8179
+- 2Re_18:16Ezequías quitó el oro de las p...temploH1817
+- 2Re_22:4que han recogido...los guardianes de la pH5592
+- 2Re_23:4mandó el rey...a los guardianes de la pH5592
+- 2Re_23:8derribó los altares de las p que estabanH8179
+- 2Re_23:8de la p de Josué...a la p de la ciudadH8179
+- 2Re_25:4huyeron de noche...por el camino de la pH8179
+- 1Cr_9:18han sido...porteros en la p del rey
+- 1Cr_9:19guardando las p del tabernáculo, comoH5592
+- 1Cr_9:21Zacarías hijo...era portero de la p delH6607
+- 1Cr_9:22escogidos para guardas en las p, eranH5592
+- 1Cr_9:23eran porteros...a las p de la casa deH8179
+- 1Cr_11:17-18del pozo de Belén, que está a la pH8179
+- 1Cr_22:3mucho hierro para la clavazón de las pH1817
+- 1Cr_26:13suertes, al pequeño con el...para cada pH8179
+- 1Cr_26:15y para Obed-edom la p del sur, y a sus
+- 1Cr_26:16Hosa...la p de Salequet, en el camino deH8179
+- 2Cr_3:7que cubrió la casa...y sus p, con oroH1817
+- 2Cr_4:9las portadas...cubrió de bronce las p deH1817
+- 2Cr_4:22de oro...p interiores...las p de la casaH1817
+- 2Cr_8:5reedificó a Bet-horón la de...con muros, pH8179
+- 2Cr_8:14porteros por su orden a cada p; porqueH8179
+- 2Cr_14:7y cerquémoslas de muros con torres, p yH8179
+- 2Cr_18:9junto a la entrada de la p de SamariaH8179
+- 2Cr_23:5otra tercera parte, a la p del CimientoH8179
+- 2Cr_23:15ella hubo pasado la entrada de la p deH8179
+- 2Cr_23:19también porteros a las p de la casa deH8179
+- 2Cr_23:20llegaron a la mitad de la p mayor de laH8179
+- 2Cr_24:8arca...fuera, a la p de la casa de JehováH8179
+- 2Cr_25:23derribó...la p de Efraín hasta la p delH8179
+- 2Cr_26:9junto a la p del ángulo, y...p del valleH8179
+- 2Cr_27:3edificó...la p mayor de la casa de JehováH8179
+- 2Cr_28:24cerró las p de la casa de Jehová, y seH1817
+- 2Cr_29:3abrió las p de la casa de Jehová, y lasH1817
+- 2Cr_29:7cerraron las p del pórtico, y apagaronH1817
+- 2Cr_31:2alabasen dentro de las p de los atriosH8179
+- 2Cr_31:14guarda de la p oriental, tenía cargo deH8179
+- 2Cr_32:6los hizo reunir en la plaza de la p de laH8179
+- 2Cr_33:14edificó el muro...a la entrada de la pH8179
+- 2Cr_34:9los levitas que guardaban la p habíanH5592
+- 2Cr_35:15también los porteros estaban a cada pH8179
+- Neh_1:3derribado, y sus p quemadas a fuegoH8179
+- Neh_2:3la ciudad...sus p consumidas por el fuego?[[H8179]]
+- Neh_2:8enmaderar las p del palacio de la casaH8179
+- Neh_2:13salí de noche por la p...la p del MuladarH8179
+- Neh_2:13p que estaban consumidas por el fuegoH8179
+- Neh_2:14pasé...la p de la Fuente, y al estanqueH8179
+- Neh_2:15y entré por la p del Valle, y me volvíH8179
+- Neh_2:17y sus p consumidas por el fuego; venidH8179
+- Neh_3:1Eliasib...y edificaron la p de las ovejasH8179
+- Neh_3:1levantaron sus p hasta la torre de HameaH1817
+- Neh_3:3los hijos de Senaa edificaron la p delH1817
+- Neh_3:3, Neh_3:6, Neh_3:13levantaron sus p, con sus cerradurasH1817
+- Neh_3:6la p Vieja fue restaurada por Joiada hijoH1817
+- Neh_3:13y mil codos del...hasta la p del MuladarH1817
+- Neh_3:13la p del Valle la restauró Hanún con losH1817
+- Neh_3:14reedificó la p del Muladar Malquías hijoH1817
+- Neh_3:14y levantó sus p, sus cerraduras y susH1817
+- Neh_3:15Salum hijo...restauró la p de la FuenteH1817
+- Neh_3:15y levantó sus p, sus cerraduras y susH1817
+- Neh_3:20desde la esquina hasta la p de la casaH6607
+- Neh_3:26restauraron hasta enfrente de la p de lasH1817
+- Neh_3:28desde la p de los Caballos restauraronH8179
+- Neh_3:29Semaías hijo de...guarda de la p OrientalH8179
+- Neh_3:31enfrente de la p del Juicio, y hasta laH8179
+- Neh_3:32entre la sala de...y la p de las ovejasH8179
+- Neh_6:1hasta...no había puesto las hojas en las pH1817
+- Neh_6:10cerremos las p del templo, porque vienenH1817
+- Neh_7:1el muro fue edificado, y colocadas las pH1817
+- Neh_7:3no se abran las p de Jerusalén hasta queH8179
+- Neh_7:3no se abran...cerrad las p y atrancadlasH1817
+- Neh_8:1el pueblo...delante de la p de las aguasH8179
+- Neh_8:3la plaza que está delante de la p de lasH8179
+- Neh_8:16en la plaza de la p de las aguas, y enH8179
+- Neh_8:16aguas, y en la plaza de la p de EfraínH8179
+- Neh_11:19guardas en las p, ciento setenta y dosH8179
+- Neh_12:25porteros para...a las entradas de las pH8179
+- Neh_12:30y purificaron al pueblo...p, y el muroH8179
+- Neh_12:31sobre el muro, hacia la p del muladarH8179
+- Neh_12:37a la p de la Fuente...subieron por lasH8179
+- Neh_12:37casa de David hasta la p de las aguasH8179
+- Neh_12:39desde la p de Efraín hasta la p viejaH8179
+- Neh_12:39la p del pescado...la p de las ovejasH8179
+- Neh_12:39y se detuvieron en la p de la CárcelH8179
+- Neh_13:19iba oscureciendo a las p de JerusalénH8179
+- Neh_13:19se cerrasen las p, y ordené que no lasH8179
+- Neh_13:19y puse a las p algunos de mis criadosH8179
+- Neh_13:22levitas que viniesen a guardar las pH8179
+- Est_2:19Mardoqueo estaba sentado a la p delH8179
+- Est_2:21días, estando Mardoqueo sentado a la pH8179
+- Est_2:21eunucos del rey, de la guardia de la pH5592
+- Est_3:2-3los siervos del rey que estaban a la pH8179
+- Est_4:2vino hasta delante de la p del rey; puesH8179
+- Est_4:6a la plaza de la...delante de la p del reyH8179
+- Est_5:1su trono...enfrente de la p del aposentoH6607
+- Est_5:9cuando vio a Mardoqueo a la p del palacioH8179
+- Est_5:13veo al judío Mardoqueo sentado a la pH8179
+- Est_6:2eunucos del rey, de la guardia de la pH5592
+- Est_6:10judío Mardoqueo, que se sienta a la pH8179
+- Est_6:12Mardoqueo volvió a la p real, y Amán seH8179
+- Job_3:10no cerró las p del vientre donde yoH1817
+- Job_5:4en la p serán quebrantados, y no habráH8179
+- Job_29:7cuando yo salía a la p a juicio, y enH8179
+- Job_31:9si estuve acechando a la p de mi prójimoH6607
+- Job_31:21aunque viese que me ayudaran en la pH8179
+- Job_31:32el forastero...mis p abría al caminanteH1817
+- Job_31:34atemorizó, y callé, y no salí de mi pH6607
+- Job_38:8¿quién encerró con p el mar, cuando deH1817
+- Job_38:10establecí sobre él...le puse p y cerrojoH1817
+- Job_38:17¿te han sido descubiertas las p de laH8179
+- Job_38:17has visto las p de la sombra de muerte?[[H1817]]
+- Job_41:14¿quién abrirá las p de su rostro? LasH1817
+- Sal_9:13que me levantas de las p de la muerteH8179
+- Sal_9:14cuente yo...en las p de la hija de SionH8179
+- Sal_24:7, Sal_24:9alzad...p, vuestras cabezas...p eternasH6607
+- Sal_69:12hablaban...los que se sentaban a la pH8179
+- Sal_78:23a las nubes...y abrió las p de los cielosH1817
+- Sal_84:10escogería antes estar a la p de la casaH5605
+- Sal_87:2ama Jehová a las p de Sion más que todosH8179
+- Sal_100:4entrad por sus p con acción de graciasH8179
+- Sal_107:16porque quebrantó las p de bronce, yH8179
+- Sal_107:18y llegaron hasta las p de la muerteH8179
+- Sal_118:19abridme las p de la justicia; entraréH8179
+- Sal_118:20es p de Jehová; por ella entrarán losH8179
+- Sal_122:2nuestros pies estuvieron dentro...tus pH8179
+- Sal_127:5cuando hablare con los enemigos en la pH8179
+- Sal_141:3oh Jehová; guarda la p de mis labiosH1817
+- Sal_147:13porque fortificó los cerrojos de tus pH8179
+- Pro_1:21las p de la ciudad dice sus razonesH8179
+- Pro_5:8aleja de ella...y no te acerques a la pH6607
+- Pro_8:3el lugar de las p...a la entrada de las pH6607
+- Pro_8:34velando a mis p...a los postes de mis pH6607
+- Pro_9:14se sienta en una silla a la p de su casaH6607
+- Pro_14:19inclinarán...impíos a las p del justoH8179
+- Pro_17:19que abre demasiado la p busca su ruinaH6607
+- Pro_22:22no...ni quebrantes en la p al afligidoH8179
+- Pro_24:7alta está...en la p no abrirá él su bocaH8179
+- Pro_26:14como la p gira sobre sus quicios, asíH8179
+- Pro_31:23su marido es conocido en las p, cuandoH8179
+- Pro_31:31dadle...y alábenla en las p sus hechosH8179
+- Ecl_12:4p de afuera se cerrarán, por lo bajoH1817
+- Cnt_7:4estanques...junto a la p de Bat-rabimH8179
+- Cnt_7:13a nuestras p hay toda suerte de...frutasH8179
+- Cnt_8:9si fuere p, la guarneceremos con tablasH1817
+- Isa_3:26sus p se entristecerán y enlutarán, yH8179
+- Isa_6:4los quiciales de las p se estremecieronH5592
+- Isa_13:2alzad la voz...entren por p de príncipesH6607
+- Isa_14:31aúlla, oh p; clama, oh ciudad; disueltaH8179
+- Isa_22:7valles...los de a caballo acamparon a la pH8179
+- Isa_24:12desolada, y con ruina...derribada la pH8179
+- Isa_26:2abrid las p, y entrará la gente justaH8179
+- Isa_26:20pueblo mío, entra...cierra tras ti tus pH1817
+- Isa_28:6a los que rechacen la batalla en la pH8179
+- Isa_29:21que arman lazo al que reprendía en la pH8179
+- Isa_38:10mitad de mis días iré a las p del SeolH8179
+- Isa_45:1para abrir delante de él p, y las p noH8179
+- Isa_45:2quebrantaré p de bronce, y cerrojos deH8179
+- Isa_54:12tus p de piedras de carbunclo, y todaH8179
+- Isa_57:8tras la p y...umbral pusiste tu recuerdoH1817
+- Isa_60:11tus p estarán de continuo abiertasH8179
+- Isa_60:18a tus muros llamarás...y tus p AlabanzaH8179
+- Isa_62:10pasad por las p; barred el camino alH8179
+- Jer_1:15pondrá cada uno su campamento a...pH8179
+- Jer_7:2a la p de la casa de Jehová, y proclamaH8179
+- Jer_7:2los que entráis por estas p para adorarH8179
+- Jer_14:2se enlutó Judá, y sus p se despoblaronH8179
+- Jer_15:7con aventador hasta las p de la tierraH8179
+- Jer_17:19ponte a la p de los hijos del puebloH8179
+- Jer_17:19ve...y ponte en todas las p de JerusalénH8179
+- Jer_17:20moradores de...que entráis por estas pH8179
+- Jer_17:21guardaos de...y de meterla por las p deH8179
+- Jer_17:24no metiendo carga por las p de...ciudadH8179
+- Jer_17:25entrarán por las p de esta ciudad, enH8179
+- Jer_17:27ni meterla por las p de Jerusalén en díaH8179
+- Jer_17:27descender fuego en sus p, y consumiréH8179
+- Jer_19:2de Hinom, que está a la entrada de la pH8179
+- Jer_20:2lo puso en el cepo...en la p superior deH8179
+- Jer_22:2oye...y tu pueblo que entra por estas pH8179
+- Jer_22:4entrarán montados...por las p de esta casaH8179
+- Jer_22:19echándole fuera de las p de JerusalénH8179
+- Jer_26:10en la entrada de la p nueva de la casaH8179
+- Jer_31:38desde la torre...hasta la p del ÁnguloH8179
+- Jer_31:40la esquina de la p de los caballos alH8179
+- Jer_35:4el aposento...hijo de Salum, guarda de la pH5592
+- Jer_36:10a la entrada de la p nueva de la casaH8179
+- Jer_37:13cuando fue a la p de Benjamín, estabaH8179
+- Jer_38:7estando sentado el rey...p de BenjamínH8179
+- Jer_39:3príncipes...acamparon a la p de en medioH8179
+- Jer_39:4la p entre los dos muros; y salió el reyH8179
+- Jer_43:9en el enladrillado que está a la p de laH8179
+- Jer_49:31una nación...que ni tiene p ni cerrojosH8179
+- Jer_51:58sus altas p serán quemadas a fuego; enH8179
+- Jer_52:7y salieron de la...por el camino de la pH8179
+- Lam_1:4sus p están asoladas, sus sacerdotesH8179
+- Lam_2:9sus p fueron echadas por tierra, destruyóH8179
+- Lam_4:12que el enemigo y el...entrara por las pH8179
+- Lam_5:14los ancianos no se ven más en la pH8179
+- Eze_8:3la entrada de la p de adentro que miraH6607
+- Eze_8:5al norte, junto a la p del altar...imagenH8179
+- Eze_8:8cava...Y cavé en la pared, y he aquí una pH6607
+- Eze_8:14me llevó a la entrada,de la p de la casaH6607
+- Eze_9:2venían del camino de la p de arriba queH8179
+- Eze_10:4encima del querubín al umbral de la p
+- Eze_10:19pararon a la entrada de la p orientalH6607
+- Eze_11:1y me llevó por la p oriental de la casaH6607
+- Eze_11:1la entrada de la p veinticinco hombresH8179
+- Eze_21:15en todas las p...he puesto espanto deH8179
+- Eze_21:22orden...para poner arietes contra las pH8179
+- Eze_26:2ea, bien; quebrantada está la que era pH8179
+- Eze_26:10entre por tus p como por portillos deH8179
+- Eze_33:30mofan...junto a las paredes y a las pH6607
+- Eze_38:11sin muros, y no tienen cerrojos ni pH8179
+- Eze_40:3tenía un cordel de...y él estaba a la pH8179
+- Eze_40:6vino a la p que mira hacia el orienteH8179
+- Eze_40:6midió un poste de la p, de una caña deH8179
+- Eze_40:7cada poste de la p...la entrada de la pH8179
+- Eze_40:8la entrada de la p por dentro, una cañaH8179
+- Eze_40:9y la p del portal estaba por el lado deH8179
+- Eze_40:10la p oriental tenía tres cámaras a cadaH8179
+- Eze_40:11midió el ancho de la entrada de la p, deH8179
+- Eze_40:13midió la p desde el techo de una cámaraH8179
+- Eze_40:13midió la...25 codos de ancho, p contra pH6607
+- Eze_40:15desde el frente de la p de la entradaH8179
+- Eze_40:15hasta el frente...de la p interior, 50H8179
+- Eze_40:16y en sus portales por dentro de la pH8179
+- Eze_40:18el enlosado a los lados de las p, enH8179
+- Eze_40:19midió la anchura desde...la p de abajoH8179
+- Eze_40:20y de la p que estaba hacia el norte enH8179
+- Eze_40:21sus arcos eran como la medida de la pH8179
+- Eze_40:22eran conforme a la medida de la p queH8179
+- Eze_40:23p del atrio interior...enfrente de la pH8179
+- Eze_40:23del atrio...midió de p a p, cien codosH8179
+- Eze_40:24y he aquí una p hacia el sur; y midióH8179
+- Eze_40:27había también p hacia el sur del atrioH8179
+- Eze_40:27midió de p a p hacia el sur cien codosH8179
+- Eze_40:28me llevó después en el...a la p del surH8179
+- Eze_40:28y midió la p del sur conforme a estasH8179
+- Eze_40:32y midió la p conforme a éstas medidasH8179
+- Eze_40:35llevó luego a la p del norte, y midióH8179
+- Eze_40:38cámara, y su p con postes de portalesH8179
+- Eze_40:39en la entrada de la p había dos mesasH8179
+- Eze_40:40a la entrada de la p del norte, habíaH8179
+- Eze_40:40otro lado...entrada de la p, dos mesasH8179
+- Eze_40:41cuatro mesas a un lado, y...junto a la pH8179
+- Eze_40:44y fuera de la p interior, en el atrioH8179
+- Eze_40:44en el atrio...al lado de la p del norteH8179
+- Eze_40:44una estaba al lado de la p del orienteH8179
+- Eze_40:48anchura de la p tres codos de un ladoH8179
+- Eze_41:2el ancho de la p eran de diez codos, yH6607
+- Eze_41:2y los lados de la p, de cinco codos deH6607
+- Eze_41:3midió cada poste de la p, de dos codosH6607
+- Eze_41:3y la p, de seis codos; y la anchura deH6607
+- Eze_41:11la p de cada cámara salía al espacioH6607
+- Eze_41:11una p hacia el norte, y otra p hacia elH6607
+- Eze_41:17por encima de la p, y hasta la casa deH6607
+- Eze_41:20hasta encima de la p había querubinesH6607
+- Eze_41:23el templo y el santuario tenían dos pH1817
+- Eze_41:24en cada p había dos hojas...que girabanH1817
+- Eze_41:24dos hojas en una p, y otras dos en la otraH1817
+- Eze_41:25en las p del templo había labrados deH1817
+- Eze_42:2delante de la p del norte su longitud eraH6607
+- Eze_42:4un corredor del...y sus p daban al norteH6607
+- Eze_42:11y todas sus salidas, conforme a sus p yH6607
+- Eze_42:12así también eran las p de las cámarasH6607
+- Eze_42:12había una p al comienzo del corredor queH6607
+- Eze_42:15y luego...me sacó por el camino de la pH8179
+- Eze_43:1me llevó luego a la p, a la p que miraH8179
+- Eze_43:4por la vía de la p que daba al orienteH8179
+- Eze_44:1me hizo volver hacia la p exterior delH8179
+- Eze_44:2esta p estará cerrada; no se abrirá, niH8179
+- Eze_44:3por el vestíbulo de la p entrará, y porH8179
+- Eze_44:4llevó hacia la p del norte por delanteH8179
+- Eze_44:11servirán...como porteros a las p de laH8179
+- Eze_44:17cuando entren por las p del atrio, seH8179
+- Eze_44:17y cuando ministren en las p del atrioH8179
+- Eze_45:19y sobre los postes de las p del atrioH8179
+- Eze_46:1p del atrio interior que mira al orienteH8179
+- Eze_46:2entrará por el...portal de la p exteriorH8179
+- Eze_46:2estará en pie junto al umbral de la pH8179
+- Eze_46:2paz, y adorará junto a la entrada de la pH8179
+- Eze_46:2pero no se cerrará la p hasta la tardeH8179
+- Eze_46:3adorará el pueblo...a la entrada de la pH6607
+- Eze_46:8entrará por el camino del portal de la pH8179
+- Eze_46:9entrare por la p del norte saldrá por laH8179
+- Eze_46:9el que entrare...saldrá por la p del surH8179
+- Eze_46:9el que entrare por la p del sur saldráH8179
+- Eze_46:9que entrare...saldrá por la p del norteH8179
+- Eze_46:9no volverá por la p por donde entró, sinoH8179
+- Eze_46:12le abrirán la p que mira al oriente, yH8179
+- Eze_46:12día...y cerrarán la p después que saliereH8179
+- Eze_46:19por la entrada que estaba hacia la p, aH8179
+- Eze_47:2me sacó por el camino de la p del norteH8179
+- Eze_47:2por el camino exterior, fuera de la p, alH8179
+- Eze_48:31p de la ciudad serán según los nombresH8179
+- Eze_48:31tres p al norte: la p de Rubén, una; laH8179
+- Eze_48:31la p de Judá, otra; la p de Leví, otraH8179
+- Eze_48:32al lado oriental...tres p: la p de JoséH8179
+- Eze_48:32p de Benjamín, otra; la p de Dan, otraH8179
+- Eze_48:33al lado del sur...tres p: la p de SimeónH8179
+- Eze_48:33la p de Isacar, otra; la p de ZabulónH8179
+- Eze_48:34al lado occidental...tres p: la p de GadH8179
+- Eze_48:34p de Aser, otra; la p de Neftalí, otraH8179
+- Dan_3:26Nabucodonosor se acercó...p del hornoH8651
+- Dan_6:17una piedra y puesta sobre la p del fosoH6433
+- Ose_2:15y el valle de Acor por p de esperanzaH6607
+- Amó_5:10aborrecieron al reprensor en la p deH8179
+- Amó_9:1y estremézcanse las p, y hazlos pedazos
+- Abd_1:11extraños entraban por sus p, y echabanH8179
+- Abd_1:13haber entrado por la p de mi pueblo en elH8179
+- Miq_1:9llegó hasta la p de mi pueblo, hastaH8179
+- Miq_1:12el mal había descendido hasta la p deH8179
+- Miq_2:13pasarán la p, y saldrán por ella; y suH8179
+- Nah_2:6p de los ríos se abrirán, y el palacioH8179
+- Nah_3:13las p de tu tierra se abrirán de par enH8179
+- Sof_1:9castigaré...todos los que saltan la pH4670
+- Sof_1:10voz de clamor desde la p del Pescado, yH8179
+- Sof_1:10y habrá en...aullido desde la segunda p
+- Sof_2:14las ventanas; habrá desolación en las pH5592
+- Zac_8:16lo conducente a la paz en vuestras pH8179
+- Zac_11:1Líbano, abre tus p, y consuma el fuegoH1817
+- Zac_14:10habitada...desde la p de Benjamín hastaH8179
+- Zac_14:10de la p primera, hasta la p del ÁnguloH8179
+- Mal_1:10¿quién también hay...que cierre las pH1817
+- Mat_6:6cerrada la p, ora a tu Padre que estáG2374
+- Mat_7:13entrad por la p estrecha...ancha es la pG4439
+- Mat_7:14estrecha es la p, y angosto el caminoG4439
+- Mat_16:18las p del Hades no prevalecerán contraG4439
+- Mat_24:33cosas, conoced que está cerca, a las pG2374
+- Mat_25:10entraron con él a las...y se cerró la pG2374
+- Mat_26:71saliendo él a la p, le vio otra, y dijoG4440
+- Mar_1:33y toda la ciudad se agolpó a la pG2374
+- Mar_2:2juntaron...que ya no cabían ni aun a la pG2374
+- Mar_11:4hallaron el pollino atado afuera a la pG2374
+- Mar_13:29cosas, conoced que está cerca, a las pG2374
+- Luc_7:12llegó cerca de la p de la ciudad, heG4439
+- Luc_11:7la p ya está cerrada, y mis niños estánG2374
+- Luc_13:24esforzaos a entrar por la p angostaG4439
+- Luc_13:25cerrado la p...llamar a la p, diciendoG2374
+- Luc_16:20Lázaro...estaba echado a la p de aquélG4440
+- Jua_5:2hay en Jerusalén, cerca de la p de las
+- Jua_10:1el que no entra por la p en el redil deG2374
+- Jua_10:2el que entra por la p, el pastor de lasG2374
+- Jua_10:7de cierto, de cierto os digo: Yo soy la pG2374
+- Jua_10:9yo soy la p; el que por mí entrare, seráG2374
+- Jua_18:16mas Pedro estaba fuera, a la p. SalióG2374
+- Jua_20:19estando las p cerradas en...vino JesúsG2374
+- Jua_20:26llegó Jesús, estando las p cerradas, yG2374
+- Hec_3:2ponían cada día a la p del templo queG2374
+- Hec_3:10el que se sentaba a pedir limosna a la pG4439
+- Hec_5:9a la p los pies de los que han sepultadoG2374
+- Hec_5:19abriendo de noche las p de la cárcel yG2374
+- Hec_5:23y los guardas afuera de pie ante lass pG2374
+- Hec_9:24ellos guardaban las p de día y de nocheG4439
+- Hec_10:17he aquí los hombres que...llegaron a la pG4440
+- Hec_12:6los guardas delante de la p custodiabanG2374
+- Hec_12:10llegaron a la p...que daba a la ciudadG4440
+- Hec_12:13cuando llamó Pedro a la p del patioG4440
+- Hec_12:14la voz de Pedro, de gozo no abrió la pG4440
+- Hec_14:13toros y guirnaldas delante de las pG4440
+- Hec_14:27abierto la p de la fe a los gentilesG2374
+- Hec_16:13un día de reposo salimos fuera de la p
+- Hec_16:26y al instante se abrieron todas las pG2374
+- Hec_16:27y viendo abiertas las p de la cárcelG2374
+- Hec_21:30fuera...e inmediatamente cerraron las pG2374
+- 1Co_16:9se me ha abierto p grande y eficazG2374
+- 2Co_2:12aunque se me abrió p en el SeñorG2374
+- Col_4:3para que el Señor nos abra p para laG2374
+- Heb_13:12también Jesús...padeció fuera de la pG4439
+- Stg_5:9he aquí, el juez está delante de la pG2374
+- Rev_3:8he puesto delante de ti una p abiertaG2374
+- Rev_3:20yo estoy a la p y llamo; si alguno oyeG2374
+- Rev_3:20si...oye mi voz y abre la p, entraré a élG2374
+- Rev_4:1he aquí una p abierta en el cielo; y laG2374
+- Rev_21:12con doce p; y en las p, doce ángelesG4440
+- Rev_21:13al oriente tres p; al norte tres p; alG4440
+- Rev_21:13al sur tres p; al occidente tres pG4440
+- Rev_21:15para medir la ciudad, sus p y su muroG4440
+- Rev_21:21p eran doce perlas...las p era una perlaG4440
+- Rev_21:25sus p nunca serán cerradas de día, puesG4440
+- Rev_22:14y para entrar por las p en la ciudadG4440

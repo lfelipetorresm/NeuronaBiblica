@@ -1,0 +1,4761 @@
+---
+tipo: concordancia
+palabra: HACER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HACER
+
+- Gén_1:7hizo Dios la expansión, y separó lasH6213
+- Gén_1:16e hizo Dios las dos grandes lumbrerasH6213
+- Gén_1:16lumbreras...hizo también las estrellasH6213
+- Gén_1:25e hizo Dios animales...según su géneroH6213
+- Gén_1:26hagamos al hombre a nuestra imagenH6213
+- Gén_1:31vio Dios todo lo que había hecho, y heH6213
+- Gén_2:2Dios...reposó...de toda la obra que hizoH6213
+- Gén_2:3reposó de toda la obra que había hechoH6213
+- Gén_2:4el día que Jehová Dios hizo la tierra yH6213
+- Gén_2:5porque Jehová Dios aún no había hecho llover
+- Gén_2:9Jehová Dios hizo nacer de la tierra todo árbol
+- Gén_2:18dijo Jehová...haré ayuda idónea para élH6213
+- Gén_2:21hizo caer sueño profundo sobre Adán
+- Gén_2:22y de la costilla...hizo una mujer, y laH1129
+- Gén_3:1los animales...que Jehová Dios había hechoH6213
+- Gén_3:7cosieron hojas...se hicieron delantalesH6213
+- Gén_3:13Dios dijo a...¿Qué es lo que has hecho?[[H6213]]
+- Gén_3:14por cuanto esto hiciste, maldita serásH6213
+- Gén_3:21Dios hizo al hombre...túnicas de pielesH6213
+- Gén_4:7si bien hicieres, ¿no serás enaltecido?[[H3190]]
+- Gén_4:7si no hicieres bien, el pecado está a laH3190
+- Gén_4:10él le dijo: ¿Qué has hecho? La voz de tuH6213
+- Gén_5:1al hombre, a semejanza de Dios lo hizoH6213
+- Gén_6:6arrepintió Jehová de haber hecho hombreH6213
+- Gén_6:7traeré...me arrepiento de haberlos hechoH6213
+- Gén_6:14hazte un arca de...harás aposentos en elH6213
+- Gén_6:15de esta manera la harás: de 300 codosH6213
+- Gén_6:16ventana harás al arca, y la acabarás aH6213
+- Gén_6:16le harás piso bajo, segundo y terceroH6213
+- Gén_6:22lo hizo así Noé; h conforme a todo loH6213
+- Gén_7:4y raeré de...a todo ser viviente que hiceH6213
+- Gén_7:5e hizo Noé...todo lo que le mandó JehováH6213
+- Gén_8:1e hizo pasar Dios un viento sobre la tierra
+- Gén_8:6y abrió Noé la ventana...que había hechoH6213
+- Gén_8:9la hizo entrar consigo en el arca
+- Gén_8:21ni volveré...a destruir...como he hechoH6213
+- Gén_9:6a imagen de Dios es hecho el hombreH6213
+- Gén_9:14que cuando haga venir nubes sobre la tierra
+- Gén_9:24lo que le había hecho su hijo más jovenH6213
+- Gén_11:3hagamos ladrillo y cozámoslo con fuegoH3835
+- Gén_11:4y hagámonos un nombre, por si fuéremosH6213
+- Gén_11:6hará desistir...lo que han pensado hacerH6213
+- Gén_12:2y haré de ti una nación grande, y teH6213
+- Gén_12:16e hizo bien a Abram por causa de ellaH3190
+- Gén_12:18¿qué es esto que has hecho conmigo?[[H6213]]
+- Gén_13:4al lugar del altar que había hecho allíH6213
+- Gén_13:16haré tu descendencia como el polvo deH7760
+- Gén_14:2éstos hicieron guerra contra Bera rey deH6213
+- Gén_15:18en aquel día hizo Jehová un pacto conH3772
+- Gén_16:2ya ves que Jehová me ha hecho estérilH6113
+- Gén_16:6haz con ella lo que bien te parezcaH6213
+- Gén_17:6te multiplicaré...y haré naciones de tiH5414
+- Gén_17:20a Ismael...y haré de él una gran naciónH5414
+- Gén_18:5ellos dijeron: Haz así como has dichoH6213
+- Gén_18:6haz panes cocidos debajo del rescoldoH6213
+- Gén_18:17¿encubriré yo a Abraham lo que voy a hacerH6213
+- Gén_18:19haciendo justicia y juicio, para queH6213
+- Gén_18:25lejos de ti hacer tal...que hagas morirH6213
+- Gén_18:25justo...como el impío; nunca tal hagasH2486
+- Gén_18:25juez...¿no ha de hacer lo que es justo?[[H6213]]
+- Gén_18:29y dijo...No te haré por...amor a los 40H6213
+- Gén_18:30no lo haré si hallare allí treintaH6213
+- Gén_19:3y les hizo banquete, y coció panes sinH6213
+- Gén_19:7dijo: Os ruego...que no hagáis tal maldadH7489
+- Gén_19:8haced de ellas como bien os pareciereH6213
+- Gén_19:8a estos varones no hagáis nada, pues queH6213
+- Gén_19:9ahora te haremos más mal que a ellosH7489
+- Gén_19:9y hacían gran violencia al varón, a LotH6484, [[H3966]]
+- Gén_19:19misericordia que habéis hecho conmigoH6213
+- Gén_19:22porque nada podré hacer hasta que hayasH6213
+- Gén_19:24Jehová hizo llover sobre Sodoma y sobre
+- Gén_20:5con limpieza de mis manos he hecho estoH6213
+- Gén_20:6sé que con integridad de...has hecho estoH6213
+- Gén_20:9dijo: ¿Qué nos has hecho? ¿En qué pequéH6213
+- Gén_20:9lo que no debiste hacer has hechoH6213
+- Gén_20:10¿qué pensabas, para que hicieses esto?[[H6213]]
+- Gén_20:13esta es la merced que tú harás conmigoH6213
+- Gén_21:1hizo Jehová con Sara como había habladoH6213
+- Gén_21:6dijo Sara: Dios me ha hecho reír
+- Gén_21:8hizo Abraham gran banquete el día queH6213
+- Gén_21:13del hijo de la sierva haré una naciónH7760
+- Gén_21:18porque yo haré de él una gran naciónH7760
+- Gén_21:22Dios está contigo en todo cuanto hacesH6213
+- Gén_21:23la bondad que yo hice contigo, harásH6213
+- Gén_21:26Abimelec: No se quien haya hecho estoH6213
+- Gén_21:27tomó Abraham...e hicieron ambos pactoH3772
+- Gén_21:32así hicieron pacto en Beerseba; y seH3772
+- Gén_22:12no extiendas tu mano...ni le hagas nadaH6213
+- Gén_22:16por cuanto has hecho esto, y no me hasH6213
+- Gén_23:2y vino Abraham a hacer duelo por SaraH5594
+- Gén_24:11hizo arrodillar los camellos fuera de la ciudad
+- Gén_24:12haz misericordia con mi señor AbrahamH6440
+- Gén_24:14que habrás hecho misericordia con miH6213
+- Gén_24:28hizo saber en casa de su madre estas cosas
+- Gén_24:37y mi amo me hizo jurar, diciendo
+- Gén_24:49si...hacéis misericordia y verdad conH6213
+- Gén_24:66contó a Isaac todo lo que había hechoH6213
+- Gén_26:3y confirmaré el juramento que hice aH7650
+- Gén_26:10dijo: ¿Por qué nos has hecho esto? PorH6213
+- Gén_26:13engrandeció hasta hacerse...poderosoH1431
+- Gén_26:16mucho más poderoso que...te has hechoH6105
+- Gén_26:28juramento entre...haremos pacto contigoH3772
+- Gén_26:29que no nos hagas mal, como nosotrosH6213
+- Gén_26:29como solamente te hemos hecho bien, yH6213
+- Gén_26:30les hizo banquete, y comieron y bebieronH6213
+- Gén_27:4hazme un guisado como a mí me gusta, yH6213
+- Gén_27:7tráeme caza y hazme un guisado, para queH6213
+- Gén_27:9y haré de ellos viandas para tu padreH6213
+- Gén_27:14su madre hizo guisados, como a su padreH6213
+- Gén_27:19yo soy Esaú...he hecho como me dijisteH6213
+- Gén_27:20Jehová tu Dios hizo que la encontraseH7136
+- Gén_27:31hizo él también guisados, y trajo a suH6213
+- Gén_27:37¿qué, pues, te haré a ti ahora, hijoH6213
+- Gén_27:45hasta que...olvide lo que le has hechoH6213
+- Gén_28:3y te haga fructificar y te multiplique
+- Gén_28:15hasta que haya hecho...que te he dichoH6213
+- Gén_28:20e hizo Jacob voto, diciendo: Si fuereH5087
+- Gén_29:22Labán juntó a todos...e hizo banqueteH6213
+- Gén_29:25dijo a...¿Qué es esto que me has hecho?[[H6213]]
+- Gén_29:26no se hace así en nuestro lugar, que seH6213
+- Gén_29:27servicio que hagas conmigo otros 7 añosH5647
+- Gén_29:28hizo Jacob así, y cumplió la semana deH6213
+- Gén_30:26tú sabes los servicios que te he hechoH5647
+- Gén_30:31no me des nada si hicieres por mí estoH6213
+- Gén_31:7no le ha permitido que me hiciese malH7489
+- Gén_31:12he visto todo lo que Labán te ha hechoH6213
+- Gén_31:13de Bet-el...y donde me hiciste un votoH5087
+- Gén_31:16pues, haz todo lo que Dios te ha dichoH6213
+- Gén_31:20engañó a Labán el...no haciéndole saberH5046
+- Gén_31:26¿qué has hecho, que me engañaste, y hasH6213
+- Gén_31:27no me lo hiciste saber para que yo teH5046
+- Gén_31:28ni aun me...ahora, locamente has hechoH5528
+- Gén_31:29poder hay en mi mano para haceros malH6213
+- Gén_31:43¿qué puedo yo hacer hoy a estas misH6213
+- Gén_31:44ven, pues, ahora, y hagamos pacto tú yH3772
+- Gén_31:46e hicieron un majano, y comieron allíH6213
+- Gén_32:9dijiste: Vuélvete a...y yo te haré bienH3190
+- Gén_32:12yo te haré bien, y tu descendencia seráH3190
+- Gén_32:23los tomó, pues, e hizo pasar el arroyo
+- Gén_33:11Dios me ha hecho merced, y todo lo queH2603
+- Gén_33:17y Jacob...hizo cabañas para su ganadoH6213
+- Gén_34:7enojaron...porque hizo vileza en IsraelH6213
+- Gén_34:7vileza...lo que no se debía haber hechoH6213
+- Gén_34:14no podemos hacer esto de dar nuestraH6213
+- Gén_34:19y no tardó el joven en hacer aquelloH6213
+- Gén_34:30Jacob...me habéis turbado con hacermeH887
+- Gén_35:1haz...un altar al Dios que te aparecióH6213
+- Gén_35:3a Bet-el, y haré allí altar al Dios queH6213
+- Gén_37:3le hizo una túnica de diversos coloresH6213
+- Gén_37:22para hacerlo volver a su padre
+- Gén_38:10desagradó en ojos de...lo que hacia, yH6213
+- Gén_39:3lo que él hacía, Jehová lo hizo prosperarH6213
+- Gén_39:4le hizo mayordomo de su casa y entregóH6485
+- Gén_39:9¿cómo, pues, haría yo este grande malH6213
+- Gén_39:11entró él un día...para hacer su oficioH6213
+- Gén_39:14un hebreo para que hiciese burla deH6711
+- Gén_39:22todo lo que se hacia allí, él lo hH6213
+- Gén_39:23lo que él hacía, Jehová lo prosperabaH6213
+- Gén_40:13solías hacerlo cuando eras su coperoH4941
+- Gén_40:14y hagas mención de mí a Faraón, y meH2142
+- Gén_40:15fui hurtado...y tampoco he hecho aquí porH6213
+- Gén_40:19y te hará colgar en la horca, y
+- Gén_40:20hizo banquete a todos sus sirvientesH6213
+- Gén_40:21hizo volver a su oficio al jefe de los coperos
+- Gén_40:22mas hizo ahorcar al jefe de los panaderos
+- Gén_41:8envió e hizo llamar a todos los magos de Egipto
+- Gén_41:25Dios ha mostrado a...lo que va a hacerH6213
+- Gén_41:28lo que Dios va a hacer, lo ha mostradoH6213
+- Gén_41:32es firme...Dios se apresura a hacerloH6213
+- Gén_41:34haga esto Faraón...y quinte la tierraH6213
+- Gén_41:39Dios te ha hecho saber todo esto
+- Gén_41:42lo hizo vestir de ropas de lino finísimo
+- Gén_41:43y lo hizo subir en su segundo carro
+- Gén_41:51Dios me hizo olvidar todo mi trabajo
+- Gén_41:52me hizo fructificar en la tierra de mi aflicción
+- Gén_41:55id a José, y haced lo que él os dijereH6213
+- Gén_42:7José...mas hizo como queH5234
+- Gén_42:18haced esto, y vivid: Yo temo a DiosH6213
+- Gén_42:20pero traeréis...Y ellos lo hicieron asíH6213
+- Gén_42:25mandó José que...y así se hizo con ellosH6213
+- Gén_42:28¿qué es esto que nos ha hecho Dios?[[H6213]]
+- Gén_42:37H morir a mis dos hijos
+- Gén_42:38haréis descender mis canas con dolor al Seol
+- Gén_43:6dijo...¿Por qué me hicisteis tanto malH7489
+- Gén_43:7diría: Haced venir a vuestro hermano?
+- Gén_43:11les respondió: Pues que así es, haced oH6213
+- Gén_43:17hizo el hombre como José dijo, y llevóH6213
+- Gén_43:28se inclinaron, e hicieron reverenciaH7812
+- Gén_44:2pondrás mi copa...él hizo como dijo JoséH6213
+- Gén_44:5habéis hecho mal en lo que hicisteisH7489
+- Gén_44:7¿por qué...Nunca tal hagan tus siervosH6213
+- Gén_44:15¿qué acción es esta que habéis hecho?[[H6213]]
+- Gén_44:17José respondió: Nunca yo tal haga. ElH6213
+- Gén_44:29haréis descender mis canas con dolor al Seol
+- Gén_44:31tus siervos harán descender las canas de
+- Gén_45:1y clamó: Haced salir de mi presencia a todos
+- Gén_45:13Haréis, pues, saber a mi padre toda mi gloria
+- Gén_45:17haced esto: cargad vuestras bestias, eH6213
+- Gén_45:19manda: Haced esto: tomaos de la tierraH6213
+- Gén_45:21y lo hicieron así los hijos de IsraelH6213
+- Gén_46:3porque allí...haré de ti una gran naciónH7760
+- Gén_46:4y yo también te haré volver
+- Gén_46:31subiré y lo haré saber a Faraón
+- Gén_47:1vino José y lo hizo saber a Faraón
+- Gén_47:6haz habitar a tu padre y a tus hermanos
+- Gén_47:11José hizo habitar a su padre y a sus hermanos
+- Gén_47:21y al pueblo lo hizo pasar a las ciudades
+- Gén_47:29y harás conmigo misericordia y verdadH6213
+- Gén_47:30y José respondió: Haré como tú dicesH6213
+- Gén_48:2y se le hizo saber a Jacob, diciendo
+- Gén_48:4y me dijo: He aquí yo te haré crecer
+- Gén_48:10les hizo, pues, acercarse a él, y él les besó
+- Gén_48:11Dios me ha hecho ver también a tu descendencia
+- Gén_48:20diciendo: Hágate Dios como a Efraín yH7760
+- Gén_48:21os hará volver a la tierra de vuestros padres
+- Gén_49:17y hace caer hacia atrás al jinete
+- Gén_50:5mi padre me hizo jurar, diciendo
+- Gén_50:6sepulta a tu padre, como él te hizo jurar
+- Gén_50:9gente...y se hizo un escuadrón muy grandeH3966
+- Gén_50:10hizo a su padre duelo por siete díasH6213
+- Gén_50:24os hará subir...a la tierra que juró a Abraham
+- Gén_50:25hizo jurar José a los hijos de Israel
+- Gén_50:12hicieron, pues, sus hijos con él segúnH6213
+- Gén_50:15el pago de todo el mal que le hicimosH1580
+- Gén_50:20bien, para hacer lo que vemos hoy, paraH6213
+- Éxo_1:14hacer barro y ladrillo, y en toda
+- Éxo_1:13hicieron servir a los hijos de Israel con dureza
+- Éxo_1:17no hicieron como les mandó el rey, sinoH6213
+- Éxo_1:18y les dijo: ¿Por qué habéis hecho estoH6213
+- Éxo_1:20y Dios hizo bien a las parteras, y elH3190
+- Éxo_3:16y he visto lo que se os hace en EgiptoH6213
+- Éxo_3:20con todas mis maravillas que haré en élH6213
+- Éxo_4:3la echó en tierra, se hizo una culebraH5175
+- Éxo_4:9las aguas...se harán sangre en la tierraH1818
+- Éxo_4:11¿quién hizo al mudo y al sordo, al queH7760
+- Éxo_4:15y os enseñaré lo que hayáis de hacerH6213
+- Éxo_4:17esta vara, con la cual harás las señalesH6213
+- Éxo_4:21mira que hagas delante de Faraón todasH6213
+- Éxo_4:30hizo las señales delante de los ojos deH6213
+- Éxo_5:4¿qué hacéis cesar al pueblo de su trabajo?
+- Éxo_5:5vosotros les hacéis cesar de sus tareas
+- Éxo_5:7no daréis paja al...para hacer ladrilloH3835
+- Éxo_5:8la misma tarea de ladrillo que hacíanH6213
+- Éxo_5:15¿por qué lo haces así con tus siervos?[[H6213]]
+- Éxo_5:16con todo nos dicen: Haced el ladrilloH6213
+- Éxo_5:21los habéis hecho abominables delante deH887
+- Éxo_6:1verás lo que yo haré a Faraón, porqueH6213
+- Éxo_6:5quienes hacen servir los egipcios
+- Éxo_7:6hizo...como Jehová les mandó...lo hicieronH6213
+- Éxo_7:9toma tu vara, y échala...se haga culebraH8577
+- Éxo_7:10hicieron como Jehová lo había mandadoH6213
+- Éxo_7:10echó Aarón su vara...y se hizo culebraH1961
+- Éxo_7:11,22hicieron...lo mismo los hechicerosH6213
+- Éxo_7:20y Aarón hicieron como Jehová lo mandóH6213
+- Éxo_7:24hicieron pozos alrededor del río paraH2658
+- Éxo_8:5que haga subir ranas sobre la tierra de Egipto
+- Éxo_8:7y los hechiceros hicieron lo mismo conH6213
+- Éxo_8:10se hará conforme a tu palabra, para que
+- Éxo_8:13e hizo Jehová conforme a la palabra deH6213
+- Éxo_8:17hicieron así; y Aarón extendió su varaH6213
+- Éxo_8:18y los hechiceros hicieron así tambiénH6213
+- Éxo_8:24y Jehová lo hizo así, y vino...de moscasH6213
+- Éxo_8:26respondió: No conviene que hagamos asíH6213
+- Éxo_8:31y Jehová hizo conforme a la palabra deH6213
+- Éxo_9:4Jehová hará separación entre los ganadosH6395
+- Éxo_9:5diciendo: Mañana hará Jehová esta cosaH6213
+- Éxo_9:6al día siguiente Jehová hizo aquello, yH6213
+- Éxo_9:18mañana a estas horas yo haré llover granizo
+- Éxo_9:20Jehová hizo huir sus criados y su ganado a casa
+- Éxo_9:23Jehová hizo tronar y granizar
+- Éxo_10:2cuentes...las cosas que yo hice en EgiptoH5953
+- Éxo_10:2señales que hice entre ellos, para queH7760
+- Éxo_10:24entonces Faraón hizo llamar a Moisés
+- Éxo_11:7sepáis que Jehová hace diferencia entreH6395
+- Éxo_11:10Moisés y Aarón hicieron estos prodigiosH6213
+- Éxo_12:4comer...haréis la cuenta sobre el corderoH3699
+- Éxo_12:15el primer día haréis que no haya levadura
+- Éxo_12:16ninguna obra se hará en ellos, exceptoH6213
+- Éxo_12:28hicieron...como Jehová había mandadoH6213
+- Éxo_12:31hizo llamar a Moisés y a Aarón de noche
+- Éxo_12:35e hicieron...conforme al mandamiento deH6213
+- Éxo_12:47toda la congregación de Israel lo haráH6213
+- Éxo_12:50hicieron todos los hijos de...así lo hH6213
+- Éxo_13:5miel, harás esta celebración en este mesH5647
+- Éxo_13:8se hace esto con motivo de lo que...hizoH6213
+- Éxo_13:15hizo morir en la...a todo primogénito
+- Éxo_13:18hizo Dios que el pueblo rodease por elH5437
+- Éxo_13:19haréis subir mis huesos de aquí con vosotros
+- Éxo_14:4sabrán los egipcios...ellos lo hicieronH6213
+- Éxo_14:5¿cómo hemos hecho esto de haber dejadoH6213
+- Éxo_14:11¿por qué has hecho así con nosotrosH6213
+- Éxo_14:13ved la salvación que Jehová hará hoyH6213
+- Éxo_14:21hizo Jehová que el mar se retirase por
+- Éxo_15:19hizo volver las aguas del mar sobre ellos
+- Éxo_15:22e hizo Moisés que partiese Israel delH5265
+- Éxo_15:26hicieres lo recto delante de sus ojosH6213
+- Éxo_16:4yo os haré llover pan del cielo
+- Éxo_16:17y los hijos de Israel lo hicieron asíH6213
+- Éxo_16:22vinieron y se lo hicieron saber a Moisés
+- Éxo_17:3¿Por qué nos hiciste subir de Egipto
+- Éxo_17:4clamó Moisés...¿Qué haré con este pueblo?[[H6213]]
+- Éxo_17:6Moisés lo hizo así en presencia de losH6213
+- Éxo_17:10e hizo Josué...peleando contra AmalecH6213
+- Éxo_18:1las cosas que Dios había hecho con MoisésH6213
+- Éxo_18:8todas las cosas que Jehová había hechoH6213
+- Éxo_18:9el bien que Jehová había hecho a IsraelH6213
+- Éxo_18:14viendo el suegro de Moisés...que él haciaH6213
+- Éxo_18:17suegro...dijo: No está bien lo que hacesH6213
+- Éxo_18:18el trabajo...no podrás hacerlo tú soloH6213
+- Éxo_18:20muéstrales el...y lo que han de hacerH6213
+- Éxo_18:23si esto hicieres, y Dios te lo mandareH6213
+- Éxo_18:24oyó Moisés...e hizo todo lo que le dijoH6213
+- Éxo_19:4visteis lo que hice a los egipcios, yH6213
+- Éxo_19:8todo lo que Jehová ha dicho, haremosH6213
+- Éxo_19:22para que Jehová no haga en ellos estragoH6555
+- Éxo_19:24vé...no sea que haga en ellos estragoH6555
+- Éxo_20:4no te harás imagen, ni ninguna semejanzaH6213
+- Éxo_20:6hago misericordia a millares,a los queH6213
+- Éxo_20:9seis días trabajarás, y harás...tu obraH6213
+- Éxo_20:10no hagas en él obra alguna, tú, ni tuH6213
+- Éxo_20:11en seis días hizo Jehová los cielosH6213
+- Éxo_20:23no hagas conmigo dioses de plata, niH6213
+- Éxo_20:23ni dioses de oro os haréisH6213
+- Éxo_20:24altar de tierra harás...y sacrificarásH6213
+- Éxo_20:24yo hiciere que esté la memoria de miH2142
+- Éxo_20:25si me hicieras altar de piedras, no lasH6213
+- Éxo_21:6le hará estar junto a la puerta o al poste
+- Éxo_21:9hará:según la costumbre de las hijasH6213
+- Éxo_21:11si ninguna de estas tres cosas hiciereH6213
+- Éxo_21:12hiciere...haciéndole así morir...moriráH4191
+- Éxo_21:19lo satisfará por...y hará que le curenH7495
+- Éxo_21:27y si hiciere saltar un diente de su siervo
+- Éxo_21:31acorneado a hijo...este juicio se haráH6213
+- Éxo_22:3el ladrón hará completa restitución; siH7999
+- Éxo_22:5si alguno hiciere pastar en campo o viñaH1197
+- Éxo_22:30lo mismo harás con el de tu buey y deH6213
+- Éxo_23:2ni responderás en...para hacer agraviosH5186
+- Éxo_23:11así haréis con tu viña y con tu olivarH6213
+- Éxo_23:22hicieses...yo te dijere, será enemigoH6213
+- Éxo_23:23a los cuales yo haré destruir
+- Éxo_23:24sus dioses...ni harás como ellos hacenH6213
+- Éxo_23:32no haréis alianza con ellos, ni con susH3772
+- Éxo_23:33te hagan pecar contra mí sirviendo a sus
+- Éxo_24:3haremos...palabras que Jehová ha dichoH6213
+- Éxo_24:7haremos todas las cosas que Jehová haH6213
+- Éxo_24:8ha hecho con vosotros sobre todas estas cosasH3772
+- Éxo_25:8harán un santuario para mí, y habitaréH6213
+- Éxo_25:9yo te muestre, el diseño...así lo haréisH6213
+- Éxo_25:10harán...arca de madera de acacia, cuyaH6213
+- Éxo_25:11y harás sobre ella una cornisa de oroH6213
+- Éxo_25:13harás unas varas de madera de acaciaH6213
+- Éxo_25:17y harás un propiciatorio de oro finoH6213
+- Éxo_25:18harás también dos querubines de oroH6213
+- Éxo_25:18labrados a martillo los harás en losH6213
+- Éxo_25:19harás, pues un querubín en un extremoH6213
+- Éxo_25:19de una pieza...harás los querubines enH6213
+- Éxo_25:23harás...una mesa de madera de acaciaH6213
+- Éxo_25:24le harás una cornisa de oro alrededorH6213
+- Éxo_25:25le harás también una moldura alrededorH6213
+- Éxo_25:25harás a la moldura una cornisa de oroH6213
+- Éxo_25:26y le harás cuatro anillos de oro, losH6213
+- Éxo_25:28harás las varas de madera de acaciaH6213
+- Éxo_25:29harás...sus platos...de oro fino los hH6213
+- Éxo_25:31harás además un candelero de oro puroH6213
+- Éxo_25:31a martillo se hará el candelero; suH6213
+- Éxo_25:37le harás siete lamparillas...encenderásH6213
+- Éxo_25:39de un talento de oro fino lo harás, conH6213
+- Éxo_25:40mira y hazlos conforme al modelo queH6213
+- Éxo_26:1harás el tabernáculo de diez cortinasH6213
+- Éxo_26:1diez cortinas...lo harás con querubinesH6213
+- Éxo_26:4harás lazadas de azul en la orilla deH6213
+- Éxo_26:4mismo harás en la orilla de la cortinaH6213
+- Éxo_26:5cincuenta lazadas harás...50 lazadas hH6213
+- Éxo_26:6harás 50 corchetes de oro...enlazarásH6213
+- Éxo_26:7harás...cortinas de pelo de cabra paraH6213
+- Éxo_26:7para una cubierta...once cortinas harásH6213
+- Éxo_26:10harás 50 lazadas...orilla de la cortinaH6213
+- Éxo_26:11y harás...cincuenta corchetes de bronceH6213
+- Éxo_26:11enlazarás...se haga una sola cubiertaH6213
+- Éxo_26:14harás también a la tienda una cubiertaH6213
+- Éxo_26:15y harás para el tabernáculo tablas deH6213
+- Éxo_26:17,18harás...las tablas del tabernáculoH6213
+- Éxo_26:19harás 40 basas de plata debajo de lasH6213
+- Éxo_26:22lado...al occidente, harás tres tablasH6213
+- Éxo_26:23harás...dos tablas para las esquinas delH6213
+- Éxo_26:26harás también cinco barras de maderaH6213
+- Éxo_26:29y harás sus anillos de oro para meterH6213
+- Éxo_26:31harás un velo de azul, púrpura...linoH6213
+- Éxo_26:31un velo...será hecho de obra primorosaH6213
+- Éxo_26:33hará separación entre el lugar santoH914
+- Éxo_26:36harás para la puerta...cortina de azulH6213
+- Éxo_26:37harás para la cortina cinco columnasH6213
+- Éxo_27:1harás...un altar de madera de acacia deH6213
+- Éxo_27:2le harás cuernos en sus cuatro esquinasH6213
+- Éxo_27:3haréis...calderos para recoger la cenizaH6213
+- Éxo_27:3harás todos sus utensilios de bronceH6213
+- Éxo_27:4le harás un enrejado...h cuatro anillosH6213
+- Éxo_27:6harás...varas para el altar...de madera deH6213
+- Éxo_27:8lo harás hueco, de tablas...así lo hH6213
+- Éxo_27:9harás el atrio del tabernáculo. Al ladoH6213
+- Éxo_27:20para hacer arder continuamente las lámparas
+- Éxo_28:1Harás llegar delante de ti a Aarón tu hermano
+- Éxo_28:2harás vestiduras sagradas a Aarón tuH6213
+- Éxo_28:3sabios...para que hagan las vestidurasH6213
+- Éxo_28:4las vestiduras que harán son...el efodH6213
+- Éxo_28:4hagan...vestiduras sagradas para AarónH6213
+- Éxo_28:6y harán el efod de oro, azul, púrpuraH6213
+- Éxo_28:11les harás alrededor engastes de oroH6213
+- Éxo_28:13harás, pues, los engastes de oroH6213
+- Éxo_28:14dos cordones de oro...harás en forma deH6213
+- Éxo_28:15harás...el pectoral del juicio de obraH6213
+- Éxo_28:15lo haréis conforme a la obra del efodH6213
+- Éxo_28:22harás también en el pectoral cordonesH6213
+- Éxo_28:23harás en el pectoral dos anillos de oroH6213
+- Éxo_28:26harás...dos anillos de oro, los cualesH6213
+- Éxo_28:27harás...dos anillos de oro...fijarás enH6213
+- Éxo_28:31harás el manto del efod todo de azulH6213
+- Éxo_28:33y en sus orlas harás granadas de azulH6213
+- Éxo_28:36harás además una lámina de oro fino, yH6213
+- Éxo_28:39harás una mitra de...h también un cintoH6213
+- Éxo_28:40para los hijos de Aarón harás túnicasH6213
+- Éxo_28:40les harás cintos, y les h tiaras paraH6213
+- Éxo_28:42harás calzoncillos de lino para cubrirH6213
+- Éxo_29:1es lo que les harás para consagrarlosH6213
+- Éxo_29:2las harás de flor de harina de trigoH6213
+- Éxo_29:8harás que se acerquen sus hijos, y les
+- Éxo_29:25lo tomarás de sus manos y lo harás arder
+- Éxo_29:33cosas con las cuales se hizo expiaciónH3722
+- Éxo_29:35así, pues, harás a Aarón y a sus hijosH6213
+- Éxo_29:36purificarás el altar...hagas expiaciónH3722
+- Éxo_29:37por siete días harás expiación por elH3722
+- Éxo_29:41haciendo conforme a la ofrenda de laH6213
+- Éxo_30:1harás...un altar...madera de acacia lo hH6213
+- Éxo_30:3le harás en derredor una cornisa de oroH6213
+- Éxo_30:4le harás...dos anillos de oro debajo deH6213
+- Éxo_30:5harás las varas de madera de acacia, yH6213
+- Éxo_30:10sobre sus cuernos hará Aarón expiaciónH3722
+- Éxo_30:10una vez en el año hará expiación sobreH3722
+- Éxo_30:15ofrenda a Jehová para hacer expiaciónH3722
+- Éxo_30:16hacer expiación por vuestras personasH3722
+- Éxo_30:18harás...fuente de bronce, con su baseH6213
+- Éxo_30:25y harás...el aceite de la santa unciónH6213
+- Éxo_30:32ni haréis otro semejante, conforme aH6213
+- Éxo_30:35harás de ello el incienso, un perfumeH6213
+- Éxo_30:37este incienso que harás, no os haréisH6213
+- Éxo_30:38cualquiera que hiciere otro como esteH6213
+- Éxo_31:6para que hagan todo lo que te he mandadoH6213
+- Éxo_31:11harán conforme a...lo que te he mandadoH6213
+- Éxo_31:14cualquiera que hiciere obra alguna enH6213
+- Éxo_31:17en seis días hizo Jehová los cielos yH6213
+- Éxo_32:1,23haznos dioses que vayan delante deH6213
+- Éxo_32:4e hizo de ello un becerro de fundiciónH6213
+- Éxo_32:8se han hecho un becerro de fundiciónH6213
+- Éxo_32:10los consuma; y de ti yo haré una naciónH6213
+- Éxo_32:14se arrepintió del mal...había de hacerH6213
+- Éxo_32:20tomó el becerro que habían hecho, y loH6213
+- Éxo_32:21¿qué te ha hecho este pueblo, que hasH6213
+- Éxo_32:28los hijos de Leví lo hicieron conformeH6213
+- Éxo_32:31un gran pecado...hicieron dioses de oroH6213
+- Éxo_32:35habían hecho...becerro que formó AarónH6213
+- Éxo_33:5para que yo sepa lo que te he de hacerH6213
+- Éxo_33:17haré esto que has dicho, por cuanto hasH6213
+- Éxo_33:19haré pasar todo mi bien delante de tu rostro
+- Éxo_34:10yo hago pacto delante de todo tu puebloH3772
+- Éxo_34:10haré maravillas que no han sido hechasH6213
+- Éxo_34:10cosa tremenda la que yo haré contigoH6213
+- Éxo_34:12guárdate de hacer alianza...los moradoresH3772
+- Éxo_34:15no harás alianza con los moradores deH3772
+- Éxo_34:16harán fornicar también a tus hijos en pos de
+- Éxo_34:17no te harás dioses de fundiciónH6213
+- Éxo_34:27he hecho pacto contigo y con IsraelH3772
+- Éxo_35:1que Jehová ha mandado que sean hechasH6213
+- Éxo_35:2que en él hiciere trabajo alguno, moriráH6213
+- Éxo_35:10hará...las cosas que Jehová ha mandadoH6213
+- Éxo_35:29obra, que...había mandado...que hiciesenH6213
+- Éxo_35:35de sabiduría...para que hagan toda obraH6213
+- Éxo_35:35para que hagan toda labor, e inventenH6213
+- Éxo_36:1inteligencia para saber hacer...la obraH6213
+- Éxo_36:1harán las cosas que ha mandado Jehová
+- Éxo_36:3la obra...del santuario, a fin de hacerlaH6213
+- Éxo_36:4los maestros que hacían toda la obra delH6213
+- Éxo_36:4vinieron todos los...de la obra que hacíaH6213
+- Éxo_36:5obra que Jehová ha mandado que se hagaH6213
+- Éxo_36:6hombre ni...haga más para la ofrenda delH6213
+- Éxo_36:7material abundante para hacer toda laH6213
+- Éxo_36:8todos los sabios de...que hacían la obraH6213
+- Éxo_36:8hicieron el tabernáculo de 10 cortinasH6213
+- Éxo_36:8cortinas...las hicieron con querubinesH6213
+- Éxo_36:11hizo lazadas de azul en la orilla deH6213
+- Éxo_36:11hizo lo mismo en...la cortina final deH6213
+- Éxo_36:12cincuenta lazadas hizo en la primeraH6213
+- Éxo_36:13hizo también 50 corchetes de oro, conH6213
+- Éxo_36:14hizo...cortinas de pelo de cabra paraH6213
+- Éxo_36:14de pelo de cabra...once cortinas hizoH6213
+- Éxo_36:17hizo...cincuenta lazadas en la orilla deH6213
+- Éxo_36:18hizo también 50 corchetes de bronceH6213
+- Éxo_36:19e hizo para la tienda una cubierta deH6213
+- Éxo_36:20hizo para el tabernáculo las tablas deH6213
+- Éxo_36:22hizo todas las tablas del tabernáculoH6213
+- Éxo_36:23hizo...las tablas para el tabernáculoH6213
+- Éxo_36:24hizo...cuarenta basas de plata debajoH6213
+- Éxo_36:25al lado norte, hizo otras veinte tablasH6213
+- Éxo_36:27el lado occidental...hizo seis tablasH6213
+- Éxo_36:28las esquinas...dos lados hizo dos tablasH6213
+- Éxo_36:29así hizo a la una y a la otra en lasH6213
+- Éxo_36:31hizo...las barras de madera de acaciaH6213
+- Éxo_36:33hizo que la barra de en medio pasaseH6213
+- Éxo_36:34hizo de oro los anillos de ellas, porH6213
+- Éxo_36:35hizo...el velo de azul, púrpura...y linoH6213
+- Éxo_36:35hizo con querubines de obra primorosaH6213
+- Éxo_36:36él hizo cuatro columnas de madera deH6213
+- Éxo_36:37hizo también el velo para la puerta delH6213
+- Éxo_36:38oro...e hizo de bronce sus cinco basas
+- Éxo_37:1hizo también Bezaleel el arca de maderaH6213
+- Éxo_37:2le hizo una cornisa de oro en derredorH6213
+- Éxo_37:4,15,28hizo...varas de madera de acaciaH6213
+- Éxo_37:6hizo...el propiciatorio de oro puro; suH6213
+- Éxo_37:7hizo también los dos querubines de oroH6213
+- Éxo_37:8hizo los querubines a sus dos extremosH6213
+- Éxo_37:10hizo...la mesa de madera de acacia; suH6213
+- Éxo_37:11le hizo una cornisa de oro alrededorH6213
+- Éxo_37:12le hizo...una moldura de un palmo menorH6213
+- Éxo_37:12e hizo en derredor de la moldura unaH6213
+- Éxo_37:13hizo...de fundición cuatro anillos deH6213
+- Éxo_37:16hizo los utensilios que...sobre la mesaH6213
+- Éxo_37:17hizo...candelero de oro puro, labradoH6213
+- Éxo_37:23hizo...siete lamparillas...de oro puroH6213
+- Éxo_37:24de un talento de oro puro lo hizo, conH6213
+- Éxo_37:25hizo también el altar del incienso, deH6213
+- Éxo_37:26cubrió...y le hizo una cornisa de oroH6213
+- Éxo_37:27le hizo...dos anillos de oro debajo deH6213
+- Éxo_37:29hizo...el aceite santo de la unción, yH6213
+- Éxo_38:1hizo de madera...el altar del holocaustoH6213
+- Éxo_38:2hizo sus cuernos a sus cuatro esquinasH6213
+- Éxo_38:3hizo...todos los utensilios del altarH6213
+- Éxo_38:3todos sus utensilios los hizo de bronceH6213
+- Éxo_38:4hizo para el altar un enrejado de bronceH6213
+- Éxo_38:6hizo las varas de madera de acacia, yH6213
+- Éxo_38:7los anillos...hueco lo hizo de tablasH6213
+- Éxo_38:8hizo la fuente de bronce y su base deH6213
+- Éxo_38:9hizo asimismo el atrio; del lado sur, alH6213
+- Éxo_38:22hizo todas las cosas que Jehová mandóH6213
+- Éxo_38:21se hicieron por orden de Moisés por obra
+- Éxo_38:28de los 1:775 siclos hizo los capitelesH6213
+- Éxo_38:30del cual fueron hechas las basas de laH6213
+- Éxo_39:1del azul...hicieron las vestiduras delH6213
+- Éxo_39:1hicieron las vestiduras sagradas paraH6213
+- Éxo_39:2hizo también el efod de oro, de azulH6213
+- Éxo_39:4hicieron las hombreras...que se juntasenH6213
+- Éxo_39:8hizo...pectoral de obra primorosa comoH6213
+- Éxo_39:9era cuadrado; doble hicieron el pectoralH6213
+- Éxo_39:15hicieron...el pectoral los cordones deH6213
+- Éxo_39:16hicieron...dos engastes y dos anillosH6213
+- Éxo_39:19hicieron otros dos anillos de oro queH6213
+- Éxo_39:20hicieron además dos anillos de oro queH6213
+- Éxo_39:22hizo también el manto del efod de obraH6213
+- Éxo_39:24hicieron en...del manto granadas de azulH6213
+- Éxo_39:25hicieron también campanillas de oroH6213
+- Éxo_39:27hicieron las túnicas de lino fino deH6213
+- Éxo_39:30hicieron...lámina de la diadema santaH6213
+- Éxo_39:32e hicieron los hijos de Israel comoH6213
+- Éxo_39:32había mandado a Moisés...lo hicieronH6213
+- Éxo_39:42hicieron los hijos de Israel toda laH6213
+- Éxo_39:43la habían hecho como Jehová...mandadoH6213
+- Éxo_40:2harás levantar...tabernáculo de reuniónH6965
+- Éxo_40:13harás vestir a Aarón las vestiduras sagradas
+- Éxo_40:14harás que se acerquen sus hijos, y les vestirás
+- Éxo_40:16hizo...lo que Jehová le mandó; así lo hH6213
+- Éxo_40:18Moisés hizo levantar el tabernáculo, y
+- Lev_1:2vacuno u ovejuno haréis vuestra ofrenda
+- Lev_1:9el sacerdote hará arder todo sobre el altar
+- Lev_1:13y lo hará arder sobre el altar; holocausto es
+- Lev_1:15y hará que arda en el altar
+- Lev_1:17y el sacerdote la hará arder sobre el altar
+- Lev_2:2lo hará arder sobre el altar para memorial
+- Lev_2:7se hará de flor de harina con aceiteH6213
+- Lev_2:8traerás...la ofrenda que se hará de estasH6213
+- Lev_2:9y lo hará arder sobre el altar
+- Lev_2:13no harás que falte jamás de tu ofrenda la sal
+- Lev_2:16el sacerdote hará arder el memorial de él
+- Lev_3:5los hijos de Aarón harán arder esto en el altar
+- Lev_3:11el sacerdote hará arder esto sobre el altar
+- Lev_3:16el sacerdote hará arder esto sobre el altar
+- Lev_4:2que no se han de hacer, e hiciere algunaH6213
+- Lev_4:10la hará arder sobre el altar del holocausto
+- Lev_4:13y hubieren hecho algo contra alguno deH6213
+- Lev_4:13errado...en cosas que no se han de hacerH6213
+- Lev_4:19y la hará arder sobre el altar
+- Lev_4:20hará de aquel becerro como hizo con elH6213
+- Lev_4:20mismo hará...así h el sacerdote expiaciónH6213
+- Lev_4:22pecare un jefe, e hiciere por yerro algoH6213
+- Lev_4:22cosas que no se han de hacer, y pecareH6213
+- Lev_4:26el sacerdote hará por él la expiaciónH3722
+- Lev_4:27pecare...haciendo algo contra alguno deH6213
+- Lev_4:27pecare...en cosas que no se han de hacerH6213
+- Lev_4:31así hará el sacerdote expiación por élH3722
+- Lev_4:35y le hará el sacerdote expiación de suH3722
+- Lev_5:4jurare a la ligera...hacer mal o h bienH7489, [[H3190]]
+- Lev_5:6,10,13,16,18el sacerdote hará expiaciónH3722
+- Lev_5:10otro hará holocausto conforme al ritoH3722
+- Lev_5:12hará arder en el altar sobre las ofrendas
+- Lev_5:17hiciere alguna de...que no se han de hacerH6213
+- Lev_5:17aun sin hacerlo a sabiendas, es culpableH6213
+- Lev_6:2persona pecare e hiciere prevaricaciónH4603
+- Lev_6:7sacerdote hará expiación por él delanteH3722
+- Lev_6:15lo hará arder sobre el altar por memorial
+- Lev_6:22sacerdote...ungido...hará igual ofrendaH6213
+- Lev_6:30para hacer expiación en el santuario; alH3722
+- Lev_7:5el sacerdote lo hará arder sobre el altar
+- Lev_7:7del sacerdote que hiciere la expiaciónH3722
+- Lev_7:31la grosura la hará arder el sacerdote en el altar
+- Lev_8:4hizo, pues, Moisés como Jehová le mandóH6213
+- Lev_8:5esto es lo que Jehová ha mandado hacerH6213
+- Lev_8:6Moisés hizo acercarse a Aarón y a sus hijos
+- Lev_8:13hizo acercarse los hijos de Aarón, y les vistió
+- Lev_8:14luego hizo traer el becerro de la expiación
+- Lev_8:16y lo hizo arder Moisés sobre el altar
+- Lev_8:18hizo que trajeran el carnero del holocausto
+- Lev_8:20hizo arder la cabeza, y los trozos, y la grosura
+- Lev_8:22después hizo que trajeran el otro carnero
+- Lev_8:24Hizo acercarse luego los hijos de Aarón
+- Lev_8:27hizo mecerlo como ofrenda mecida delante de
+- Lev_8:28y las hizo arder en el altar sobre el holocausto
+- Lev_8:34manera que hoy se ha hecho, mandó hacerH6213
+- Lev_8:36y Aarón y sus hijos hicieron todas lasH6213
+- Lev_9:6hacedlo, y la gloria de Jehová...apareceráH6213
+- Lev_9:7haz tu expiación...y h la reconciliaciónH3722
+- Lev_9:7haz...la ofrenda...y h la reconciliaciónH3722
+- Lev_9:10hizo arder sobre el altar la grosura
+- Lev_9:13y lo hizo quemar sobre el altar
+- Lev_9:16ofreció el holocausto, e hizo según elH6213
+- Lev_9:17Ofreció...y la hizo quemar sobre el altar
+- Lev_9:22de hacer la expiación, el holocausto yH6213
+- Lev_10:6por el incendio que Jehová ha hechoH8313
+- Lev_10:7ellos hicieron conforme al dicho de MoisésH6213
+- Lev_11:43no hagáis abominables vuestras personasH8262
+- Lev_11:45que os hago subir de la tierra de Egipto
+- Lev_11:47para hacer diferencia entre lo inmundo y lo
+- Lev_12:7hará expiación por ella, y será limpiaH3722
+- Lev_12:8el sacerdote hará expiación por ellaH3722
+- Lev_13:33entonces le hará que se rasure, peroH1548
+- Lev_13:51cualquiera obra que se hace de cueroH6213
+- Lev_14:18,20hará el sacerdote expiación por élH3722
+- Lev_14:19,31hará expiación por el que se ha deH3722
+- Lev_14:43hizo arrancar las piedras y raspar la casa
+- Lev_14:53así hará expiación por la casa, y seráH3722
+- Lev_15:15,30el sacerdote hará del uno ofrendaH6213
+- Lev_16:6hará la reconciliación por sí y por suH3722
+- Lev_16:9hará traer Aarón el macho cabrío
+- Lev_16:10para hacer la reconciliación sobre élH3722
+- Lev_16:11y hará la reconciliación por sí y porH3722
+- Lev_16:15y hará de la sangre como hizo con laH6213
+- Lev_16:16hará también al tabernáculo de reuniónH6213
+- Lev_16:17cuando él entre a hacer la expiaciónH3722
+- Lev_16:17y haya hecho la expiación por sí, porH3722
+- Lev_16:20hará traer el macho cabrío vivo
+- Lev_16:24hará su holocausto...y h la expiaciónH6213
+- Lev_16:27cuya sangre...para hacer la expiaciónH3722
+- Lev_16:29ninguna obra haréis, ni el natural niH6213
+- Lev_16:30porque en este día se hará expiaciónH3722
+- Lev_16:32hará la expiación el sacerdote...ungidoH3722
+- Lev_16:33y hará la expiación por el santuarioH3722
+- Lev_16:33hará expiación por el altar, por losH3722
+- Lev_16:34para hacer expiación una vez al año porH3722
+- Lev_16:34y Moisés lo hizo como Jehová le mandóH6213
+- Lev_17:9no lo trajere a...para hacerlo a JehováH6213
+- Lev_17:11yo os la he dado para hacer expiaciónH3722
+- Lev_17:11sangre hará expiación de la personaH3722
+- Lev_18:3no haréis...hacen en la tierra de EgiptoH6213
+- Lev_18:3ni haréis como hacen...Canaán, a la cualH6213
+- Lev_18:5los cuales haciendo el hombre, viviráH6213
+- Lev_18:18no tomarás mujer, para hacerla su rivalH6887
+- Lev_18:26y no hagáis ninguna de...abominacionesH6213
+- Lev_18:27abominaciones hicieron los hombres deH6213
+- Lev_18:29cualquiera que hiciere alguna de todasH6213
+- Lev_18:29las hicieren serán cortadas de entre suH6213
+- Lev_18:30no haciendo las costumbres abominablesH6213
+- Lev_19:4ídolos, ni os haréis para vosotros diosesH6213
+- Lev_19:15no harás injusticia en el juicio, niH6213
+- Lev_19:19no harás ayuntar tu ganado con animales
+- Lev_19:25para que os haga crecer su fruto
+- Lev_19:27no haréis tonsura en vuestras cabezasH5362
+- Lev_19:28no haréis rasguños en vuestro cuerpoH5414
+- Lev_19:29no contaminarás a tu hija haciéndola fornicar
+- Lev_19:35no hagas injusticia en juicio...medidaH6213
+- Lev_20:13con varón como...abominación hicieronH6213
+- Lev_20:23ellos hicieron todas estas cosas, y losH6213
+- Lev_20:25haréis diferencia entre animal limpioH8262
+- Lev_21:4no se contaminará...haciéndose inmundoH2490
+- Lev_21:5no harán tonsura en su cabeza...su barbaH7139
+- Lev_21:5su barba, ni en su carne harán rasguñosH8295
+- Lev_22:16les harían llevar la iniquidad del pecado
+- Lev_23:3ningún trabajo haréis, día de reposo esH6213
+- Lev_23:7,8,21,25,35,36trabajo de siervos haréisH6213
+- Lev_23:28ningún trabajo haréis...este día; porqueH6213
+- Lev_23:30que hiciere trabajo alguno en este díaH6213
+- Lev_23:31ningún trabajo haréis; estatuto...es porH6213
+- Lev_23:39,41haréis fiesta a Jehová por 7 díasH2287
+- Lev_23:41haréis fiesta...en el mes séptimo la hH2287
+- Lev_23:43en tabernáculos hice yo habitar a losH3427
+- Lev_24:2para hacer arder las lámparas continuamente
+- Lev_24:19lesión...según hizo, así le sea hechoH6213
+- Lev_24:20la lesión que haya hecho...se hará a élH6414
+- Lev_24:23hicieron según Jehová había mandadoH6213
+- Lev_25:9harás tocar fuertemente la trompeta
+- Lev_25:21ella hará que haya fruto por tres años
+- Lev_25:39no le harás servir como esclavo
+- Lev_25:50hará la cuenta con el que lo compróH2803
+- Lev_25:52hará un cálculo...devolverá su rescateH2803
+- Lev_25:53como con el tomado a salario...hará con
+- Lev_26:1no haréis...ídolos, ni escultura, ni osH6213
+- Lev_26:6haré quitar de vuestra tierra las malas bestias
+- Lev_26:9y os haré crecer, y os multiplicaré
+- Lev_26:13os he hecho andar con el rostro erguido
+- Lev_26:14ni hiciereis...estos mis mandamientosH6213
+- Lev_26:16haré con vosotros esto: enviaré sobreH6213
+- Lev_26:19y haré vuestro cielo como hierro, yH5414
+- Lev_26:31haré desiertas vuestras ciudades, yH5414
+- Lev_26:41los habré hecho entrar en la tierra de
+- Lev_26:42acordaré, y haré memoria de la tierraH2142
+- Lev_27:2alguno hiciere especial voto a JehováH6381
+- Lev_27:8a la posibilidad del que hizo el votoH5087
+- Lev_27:18el sacerdote hará la cuenta del dineroH2803
+- Núm_1:54hicieron los hijos de Israel conformeH6213
+- Núm_1:54mandó Jehová a Moisés; así lo hicieronH6213
+- Núm_2:34hicieron...conforme a todas las cosasH6213
+- Núm_3:6haz que se acerque la tribu de Leví, yH7126
+- Núm_3:6hazla estar delante del sacerdote AarónH5975
+- Núm_3:13yo hice morir a todos los primogénitos
+- Núm_4:12todos los utensilios...de que hacen usoH8334
+- Núm_4:18no haréis que perezca la tribu de las
+- Núm_4:19vivan, y no mueran, haréis con ellosH6213
+- Núm_4:26todo lo que será hecho para ellos; asíH6213
+- Núm_5:4lo hicieron así los hijos de...así lo hH6213
+- Núm_5:8carnero...con el cual hará expiación porH3722
+- Núm_5:16el sacerdote hará que ella se acerque y
+- Núm_5:18hará...estar en pie a la mujer delanteH5975
+- Núm_5:21Jehová te haga maldición y execraciónH5414
+- Núm_5:21haciendo Jehová que tu muslo caiga yH5414
+- Núm_5:22hagan hinchar tu vientre y caer tu muslo
+- Núm_6:2que se apartare haciendo voto de nazareoH5087
+- Núm_6:4de todo lo que se hace de la vid, desdeH6213
+- Núm_6:11hará expiación de lo que pecó a causaH6213
+- Núm_6:16y hará su expiación y su holocaustoH6213
+- Núm_6:21es la ley del nazareo que hiciere votoH5087
+- Núm_6:21el voto que hiciere, así hará, conformeH5087
+- Núm_6:25Jehová haga resplandecer su rostro sobre ti
+- Núm_8:3y Aarón lo hizo así; encendió hacia laH6213
+- Núm_8:4conforme al modelo...así hizo el candeleroH6213
+- Núm_8:6a los levitas...haz expiación por ellosH2891
+- Núm_8:7así harás para expiación por ellos: RocíaH6213
+- Núm_8:9harás que los levitas se acerquen delante del
+- Núm_8:12para hacer expiación por los levitasH3722
+- Núm_8:20hicieron con los levitas conforme aH6213
+- Núm_8:20hicieron con ellos los hijos de IsraelH6213
+- Núm_8:21e hizo Aarón expiación por ellos paraH3722
+- Núm_8:22de la manera que mandó...así hicieronH6213
+- Núm_8:26servirán...para hacer la guardia, peroH8104
+- Núm_8:26así harás con los levitas en cuanto a suH6213
+- Núm_9:5mandó...así hicieron los hijos de IsraelH6213
+- Núm_10:2hazte dos trompetas de plata; de obraH6213
+- Núm_10:2obra de martillo las harás, las cualesH6213
+- Núm_10:29ven con nosotros, y te haremos bienH3190
+- Núm_10:32el bien que Jehová nos ha de hacerH3190
+- Núm_10:32vienes con nosotros...te haremos bienH3190
+- Núm_11:8cocía en caldera o hacía de él tortasH6213
+- Núm_11:11¿por qué has hecho mal a tu siervo?[[H7489]]
+- Núm_11:15si así lo haces...te ruego que meH6213
+- Núm_11:24os hizo estar alrededor del tabernáculo
+- Núm_13:30Caleb hizo callar al pueblo delante de Moisés
+- Núm_14:11con todas las señales que he hecho enH6213
+- Núm_14:15has hecho morir a este pueblo como a
+- Núm_14:22y mis señales que he hecho en EgiptoH6213
+- Núm_14:28que según habéis hablado...así haré yoH6213
+- Núm_14:30y juré que os haría habitar en ella
+- Núm_14:35así haré a toda esta multitud perversaH6213
+- Núm_14:36habían hecho murmurar contra él a toda la
+- Núm_15:3y hagáis ofrenda encendida a JehováH6213
+- Núm_15:6harás ofrenda de dos décimas de...harinaH6213
+- Núm_15:11así se hará con cada buey, o carneroH6213
+- Núm_15:12haréis con cada uno, según el númeroH6213
+- Núm_15:13todo natural haga estas cosas así, paraH6213
+- Núm_15:14si hiciere ofrenda encendida de olorH6213
+- Núm_15:14como vosotros hiciereis, así hará élH6213
+- Núm_15:22no hiciereis todos estos mandamientosH6213
+- Núm_15:24si el pecado fue hecho por yerro conH6213
+- Núm_15:25hará expiación por...la congregaciónH3722
+- Núm_15:28hará expiación por la persona que hayaH3722
+- Núm_15:29ley...para el que hiciere algo por yerroH6213
+- Núm_15:30persona que hiciere algo con soberbiaH6213
+- Núm_15:34no estaba declarado qué se le había de hacerH6213
+- Núm_15:38se hagan franjas en los bordes de susH6213
+- Núm_15:40que os acordéis, y hagáis todos misH6213
+- Núm_16:5y hará que se acerque a él
+- Núm_16:6haced esto: Tomaos incensarios, Coré yH6213
+- Núm_16:10y que te hizo acercar a ti, y a todos tus
+- Núm_16:13¿es poco que nos hayas hecho venir de
+- Núm_16:15ni a ninguno de ellos he hecho malH7489
+- Núm_16:19Coré había hecho juntar contra ellos toda la
+- Núm_16:28Jehová me ha enviado para que hicieseH6213
+- Núm_16:28que no las hice por mi propia voluntad
+- Núm_16:30mas si Jehová hiciere algo nuevo, y laH1254
+- Núm_16:38harán de ellos planchas batidas paraH6213
+- Núm_16:46ve pronto...y haz expiación por ellosH3722
+- Núm_16:47puso...e hizo expiación por el puebloH3722
+- Núm_17:5haré cesar de delante de mí las quejas
+- Núm_17:10harás cesar sus quejas de delante de mí
+- Núm_17:11hizo Moisés como le mandó...así lo hH6213
+- Núm_18:2haz que se acerquen a ti y se junten contigo
+- Núm_18:15harás que se redima el primogénito del hombre
+- Núm_18:16harás efectuar el rescate de ellos
+- Núm_18:23mas los levitas harán el servicio delH5647
+- Núm_19:3la hará degollar en su presencia
+- Núm_19:5hará quemar la vaca...hará quemar
+- Núm_20:4Por qué hiciste venir la congregación de
+- Núm_20:5por qué nos has hecho subir de Egipto
+- Núm_20:10hemos de hacer salir aguas de esta peña?
+- Núm_20:25y hazlos subir al monte de Hor
+- Núm_20:27y Moisés hizo como Jehová le mandóH6213
+- Núm_20:29hicieron duelo por treinta días todasH1058
+- Núm_21:2Israel hizo voto a Jehová, y dijo: SiH5087
+- Núm_21:5¿por qué nos hiciste subir de Egipto
+- Núm_21:8hazte una serpiente ardiente, y ponlaH6213
+- Núm_21:9y Moisés hizo una serpiente de bronceH6213
+- Núm_21:14lo que hizo en el mar Rojo, y en losH2052
+- Núm_21:34harás de él como hiciste de Sehón reyH6213
+- Núm_22:2vio Balac...lo que Israel había hechoH6213
+- Núm_22:17haré todo lo que me digas; ven, puesH6213
+- Núm_22:18traspasar la palabra...para hacer cosaH6213
+- Núm_22:20vete con...pero harás lo que yo te digaH6213
+- Núm_22:23azotó Balaam al asna para hacerla volver
+- Núm_22:28¡qué te he hecho, que me has azotadoH6213
+- Núm_22:30¿he acostumbrado hacerlo así contigo?[[H6213]]
+- Núm_22:31Balaam hizo reverencia, y se inclinóH6915
+- Núm_23:2hizo como le dijo Balaam; y ofrecieronH6213
+- Núm_23:11¿qué me has hecho? Te he traído paraH6213
+- Núm_23:19él dijo, ¿y no hará? Habló, ¿y no loH6213
+- Núm_23:23será dicho de...¡Lo que ha hecho Dios![[H6466]]
+- Núm_23:26Jehová me diga, eso tengo que hacer?[[H6213]]
+- Núm_23:30hizo como Balaam le dijo; y ofreció unH6213
+- Núm_24:13yo no podré...hacer cosa buena ni malaH6213
+- Núm_24:14que este pueblo ha de hacer a tu puebloH6213
+- Núm_24:23¡ay! ¿quién vivirá cuando hiciere DiosH7760
+- Núm_25:11ha hecho apartar mi furor de los hijos de
+- Núm_25:13hizo expiación por los hijos de IsraelH3722
+- Núm_27:22y Moisés hizo...Jehová le había mandadoH6213
+- Núm_28:18,25,26ninguna obra de siervos haréisH6213
+- Núm_28:30y un macho cabrío para hacer expiaciónH3722
+- Núm_29:1,12,35ninguna obra de siervos haréisH6213
+- Núm_29:7el diez de este mes...ninguna obra haréisH6213
+- Núm_30:2hiciere voto a Jehová, no juramentoH5087
+- Núm_30:2hará conforme...lo que salió de su bocaH6213
+- Núm_30:3la mujer, cuando hiciere voto a JehováH5087
+- Núm_30:6pero si fuere casada e hiciere votos, oH5088
+- Núm_30:8entonces el voto que...hizo...será nuloH5088
+- Núm_30:10hubiere hecho voto en casa de su maridoH5087
+- Núm_31:2haz la venganza de los hijos de IsraelH5358
+- Núm_31:3hagan la venganza de Jehová en MadiánH5414
+- Núm_31:23por fuego lo haréis pasar, y será limpioH5674
+- Núm_31:23haréis pasar por agua todo lo que no resisteH5674
+- Núm_31:26la cuenta del botín que se ha hechoH7628
+- Núm_31:31e hicieron Moisés y...como Jehová mandóH6213
+- Núm_31:50para hacer expiación por nuestras almasH3722
+- Núm_32:5y no nos hagas pasar el Jordán
+- Núm_32:8así hicieron vuestros padres, cuando losH6213
+- Núm_32:13aquella generación que había hecho malH6213
+- Núm_32:20lo hacéis así, si os disponéis para irH6213
+- Núm_32:23mas si así no lo hacéis...habréis pecadoH6213
+- Núm_32:24haced lo que ha declarado vuestra bocaH6213
+- Núm_32:25siervos harán como mi señor ha mandadoH6213
+- Núm_32:31haremos lo que Jehová ha dicho a tusH6213
+- Núm_32:36hicieron también majadas para ovejas
+- Núm_33:4hecho Jehová juicios contra sus diosesH6213
+- Núm_33:56haré...como yo pensé hacerles a ellosH6213
+- Núm_34:29mandó...que hiciesen la repartición deH5157
+- Núm_35:23sin verlo hizo caer sobre él alguna piedra
+- Núm_35:25la congregación lo hará volver a su ciudad
+- Núm_35:30mas un solo testigo no hará fé contraH6030
+- Núm_36:10así hicieron las hijas de ZelofehadH6213
+- Deu_1:11Dios...os haga mil veces más de lo que
+- Deu_1:14dijisteis: Bueno es hacer...que has dichoH6213
+- Deu_1:17no hagáis distinción de persona en elH5230
+- Deu_1:18os mandé...todo lo que habíais de hacerH6213
+- Deu_1:30todas las cosas que hizo por vosotrosH6213
+- Deu_1:38porque él la hará heredar a Israel
+- Deu_1:44os persiguieron como hacen las avispasH6213
+- Deu_2:12como hizo Israel en la tierra que lesH6213
+- Deu_2:22como hizo Jehová con los hijos de EsaúH6213
+- Deu_2:29lo hicieron conmigo los hijos de EsaúH6213
+- Deu_3:2harás con él como hiciste con Sehón reyH6213
+- Deu_3:6destruimos, como hicimos a Sehón rey deH6213
+- Deu_3:21lo que...Dios ha hecho...así hará JehováH6213
+- Deu_3:24¿qué dios hay...que haga obras y proezasH6213
+- Deu_3:28él les hará heredar la tierra que verás
+- Deu_4:3que hizo Jehová con motivo de Baal-peorH6213
+- Deu_4:5que hagáis así en medio de la tierra enH6213
+- Deu_4:10para que yo les haga oír mis palabras
+- Deu_4:16para que no...hagáis...escultura, imagenH6213
+- Deu_4:23no os hagáis escultura...de ninguna cosaH3772
+- Deu_4:25hiciereis escultura...e h lo malo ante losH6213
+- Deu_4:28serviréis...a dioses hechos de manos deH4639
+- Deu_4:32si...se ha hecho cosa semejante a esta
+- Deu_4:34todo lo que hizo con vosotros JehováH6213
+- Deu_4:36desde los cielos te hizo oír su voz, paraH8085
+- Deu_5:2Dios hizo pacto con nosotros en HorebH3772
+- Deu_5:3no con nuestros padres hizo...este pactoH3772
+- Deu_5:8no harás para ti escultura, ni imagenH6213
+- Deu_5:10para que yo les haga oír mis palabras
+- Deu_5:13seis días trabajarás, y harás toda tuH6213
+- Deu_5:14ninguna obra harás tú, ni tu hijo, niH6213
+- Deu_5:27nos dirás...y nosotros oiremos y haremosH6213
+- Deu_5:32que hagáis como Jehová...os ha mandadoH6213
+- Deu_6:18haz lo recto...ante los ojos de JehováH6213
+- Deu_6:22Jehová hizo señales y milagros grandesH5414
+- Deu_7:2no harás con ellas alianza, ni tendrásH3772
+- Deu_7:5habéis de hacer con ellos: sus altaresH6213
+- Deu_7:18acuérdate bien de lo que hizo Jehová tuH6213
+- Deu_7:19así hará Jehová...con todos los pueblosH6213
+- Deu_7:24nadie te hará frente hasta...destruyasH3320
+- Deu_8:3y te afligió, y te hizo tener hambre
+- Deu_8:3para hacerte saber que no sólo de pan vivirá
+- Deu_8:15te hizo caminar por un desierto grande y
+- Deu_8:16probándote...para a la postre hacerte bienH3190
+- Deu_8:18te da el poder para hacer las riquezasH6213
+- Deu_9:9del pacto que Jehová hizo con vosotrosH3772
+- Deu_9:12se han hecho una imagen de fundiciónH6213
+- Deu_9:16habíais hecho un becerro de fundiciónH6213
+- Deu_9:18haciendo el mal ante los ojos de JehováH6213
+- Deu_9:21tomé el...el becerro que habíais hechoH6213
+- Deu_10:1sube a mí al...y hazte un arca de maderaH6213
+- Deu_10:3e hice un arca de madera de acacia, yH6213
+- Deu_10:5las tablas en el arca que había hechoH6213
+- Deu_10:17Dios...no hace acepción de personas, niH5375
+- Deu_10:18que hace justicia al huérfano y a la viuda
+- Deu_10:21ha hecho contigo estas cosas grandesH6213
+- Deu_10:22Jehová te ha hecho como las estrellasH7760
+- Deu_11:3sus obras que hizo en medio de EgiptoH6213
+- Deu_11:4y lo que hizo al ejército de Egipto, aH6213
+- Deu_11:5lo que ha hecho...en el desierto, hastaH6213
+- Deu_11:6lo que hizo con Datán y Abiram, hijosH6213
+- Deu_11:7las grandes hombres que Jehová ha hechoH6213
+- Deu_12:4no haréis así a Jehová vuestro DiosH6213
+- Deu_12:8no haréis como...hacemos nosotros aquíH6213
+- Deu_12:10que Jehová vuestro Dios os hace heredar
+- Deu_12:14y allí harás todo lo que yo te mandoH6213
+- Deu_12:25cuando hicieres lo recto ante...JehováH6213
+- Deu_12:28haciendo lo bueno y lo recto ante losH6213
+- Deu_12:31no harás así a Jehová tu Dios; porqueH6213
+- Deu_12:31aborrece, hicieron ellos a sus diosesH6213
+- Deu_12:32cuidarás de hacer...lo que yo te mandoH6213
+- Deu_13:11y no vuelva a hacer en...cosa semejanteH6213
+- Deu_13:14que tal abominación se hizo en medio deH6213
+- Deu_13:18para hacer lo recto ante los ojos deH6213
+- Deu_14:29bendiga...obra que tus manos hicierenH6213
+- Deu_15:1cada siete años harás remisiónH6213
+- Deu_15:2perdonará...aquel que hizo empréstito deH5383
+- Deu_15:17horadarás...también harás a tu criadaH6213
+- Deu_15:18te bendecirá en todo cuanto hicieresH6213
+- Deu_16:1harás pascua a Jehová tu Dios; porqueH6213
+- Deu_16:10harás la fiesta solemne de...semanasH6213
+- Deu_16:13fiesta solemne...harás por siete díasH6213
+- Deu_16:13cuando hayas hecho la cosecha de tuH622
+- Deu_16:19hagas acepción de personas, ni tomesH5234
+- Deu_16:21cerca del altar...tú te habrás hechoH6213
+- Deu_17:2cuando se hallare...que haya hecho malH6213
+- Deu_17:4tal abominación ha sido hecha en IsraelH6213
+- Deu_17:5sacarás a...que hubiere hecho esta malaH6213
+- Deu_17:10y harás...la sentencia que te indiquenH6213
+- Deu_17:10cuidarás de hacer según todo lo queH6213
+- Deu_17:11y según el juicio que te digan, harásH6213
+- Deu_17:16ni hará volver al pueblo a Egipto
+- Deu_18:9no aprenderás a hacer...las abominacionesH6213
+- Deu_18:10quien haga pasar a su...por el fuego
+- Deu_18:12es abominación...que hace estas cosasH6213
+- Deu_19:19haréis a él como él pensó hacer a suH6213
+- Deu_19:20y no volverán a hacer más una maldadH6213
+- Deu_20:12si no hiciere paz contigo...la sitiarásH7999
+- Deu_20:15harás a todas las ciudades que esténH6213
+- Deu_20:18os enseñen a hacer...sus abominacionesH6213
+- Deu_20:18que ellos han hecho para sus diosesH6213
+- Deu_20:20contra la ciudad que te hace la guerraH6213
+- Deu_21:9cuando hicieres lo que es recto ante losH6213
+- Deu_21:16en el día que hiciere heredar a sus hijos
+- Deu_21:22lo hiciereis morir, y lo colgareis en un madero
+- Deu_22:3así harás con su asno, así h también conH6213
+- Deu_22:3mismo harás con toda cosa de tu hermanoH6213
+- Deu_22:5abominación es...cualquiera que esto haceH6213
+- Deu_22:8harás pretil a tu terrado, para que noH6213
+- Deu_22:12te harás flecos en las cuatro puntas deH6213
+- Deu_22:21hizo vileza en Israel fornicando enH6213
+- Deu_22:26a la joven no le harás nada; no hay enH6213
+- Deu_23:21cuando haces voto a Jehová tu Dios, noH5087
+- Deu_24:8hacer según todo lo que os enseñaren losH6213
+- Deu_24:8les he mandado, así cuidaréis de hacerH6213
+- Deu_24:9de lo que hizo Jehová tu Dios a MaríaH6213
+- Deu_24:18,22tanto, yo te mando que hagas estoH6213
+- Deu_25:2le hará echar en tierra, y le hará azotar
+- Deu_25:5su cuñado se...hará con ella parentescoH2992
+- Deu_25:8los ancianos de aquella ciudad lo harán venir
+- Deu_25:9así será hecho al varón que no quiereH6213
+- Deu_25:16abominación es a...que hace injusticiaH6213
+- Deu_25:17acuérdate...lo que hizo Amalec contigoH6213
+- Deu_26:2escogiere para hacer habitar allí su nombre
+- Deu_26:14he hecho...todo lo que me has mandadoH6213
+- Deu_26:19de exaltarte sobre...naciones que hizoH6213
+- Deu_27:15maldito el...que hiciere escultura oH6213
+- Deu_27:18maldito el que hiciere errar al ciegoH7686
+- Deu_27:26no confirmare...esta ley para hacerlasH6213
+- Deu_28:11y te hará Jehová sobreabundar en bienes
+- Deu_28:20quebranto y asombro en todo...hicieresH6213
+- Deu_28:63como Jehová se gozaba en haceros bienH3190
+- Deu_28:68Jehová te hará volver a Egipto en naves
+- Deu_29:2habéis visto todo lo que Jehová ha hechoH6213
+- Deu_29:9que prosperéis en todo lo que hiciereisH6213
+- Deu_29:14y no...con vosotros hago yo este pactoH3772
+- Deu_29:22de que Jehová la habrá hecho enfermarH2470
+- Deu_29:24¿por qué hizo esto Jehová a...tierra?[[H6213]]
+- Deu_30:3Jehová hará volver a tus cautivos
+- Deu_30:5te hará bien, y te multiplicará más queH3190
+- Deu_30:9te hará Jehová...abundar en toda obra deH3498
+- Deu_30:12y nos lo hará oír para que lo cumplamos?
+- Deu_30:13para que nos lo traiga y nos lo haga oír
+- Deu_31:4hará Jehová...como hizo con Sehón y conH6213
+- Deu_31:5haréis con ellos...lo que os he mandadoH6213
+- Deu_31:7y tú se la harás heredar
+- Deu_31:12Harás congregar al pueblo, varones y mujeres
+- Deu_31:18por todo el mal que ellos habrán hechoH6213
+- Deu_31:29haber hecho mal ante...ojos de JehováH6213
+- Deu_32:6¿no es él...El te hizo y te establecióH6213
+- Deu_32:8Cuando el Altísimo hizo heredar a las naciones
+- Deu_32:8Cuando hizo dividir a los hijos de los hombres
+- Deu_32:13e hizo que chupase miel de la peña, yH3243
+- Deu_32:15entonces abandonó al Dios que lo hizoH6213
+- Deu_32:26que haría cesar de entre los hombres la
+- Deu_32:27nuestra mano...ha hecho todo esto, y noH6466
+- Deu_32:30y dos hacer huir a diez mil
+- Deu_32:39yo hago morir, y yo hago vivir
+- Deu_32:43y hará expiación por la tierra de suH3722
+- Deu_32:47por medio de esta ley haréis prolongar
+- Deu_33:11bendice, oh Jehová, lo que hicierenH2428
+- Deu_33:20bendito el que hizo ensanchar a Gad
+- Deu_34:9e hicieron como Jehová mandó a MoisésH6213
+- Deu_34:11Jehová le envió a hacer en tierra de EgiptoH6213
+- Deu_34:12Moisés hizo a la vista de todo IsraelH6213
+- Jos_1:5nadie te podrá hacer frente en todosH3320
+- Jos_1:7cuidar de hacer conforme a toda la leyH6213
+- Jos_1:8y hagas...todo lo que en él está escritoH6213
+- Jos_1:16haremos...las cosas que nos has mandadoH6213
+- Jos_2:6ella los había hecho subir al terrado
+- Jos_2:10lo que habéis hecho a los dos reyes deH6213
+- Jos_2:12os ruego...que como he hecho misericordiaH6213
+- Jos_2:12así la haréis...con la casa de mi padreH6213
+- Jos_2:14haremos contigo misericordia y verdadH6213
+- Jos_2:15ella los hizo descender con una cuerda
+- Jos_3:5porque Jehová hará mañana maravillasH6213
+- Jos_4:8los hijos de Israel lo hicieron así comoH6213
+- Jos_4:10hasta que se hizo todo lo que Jehová
+- Jos_4:23la manera...había hecho en el Mar RojoH6213
+- Jos_5:2hazte cuchillos afilados, y vuelve aH6213
+- Jos_5:3y Josué se hizo cuchillos afilados, yH6213
+- Jos_5:7que él había hecho suceder en su lugar
+- Jos_5:15quita el calzado de...Josué así lo hizoH6213
+- Jos_6:3una vez; y esto haréis durante seis díasH6213
+- Jos_6:11él hizo que el arca...diera una vuelta
+- Jos_6:14esta manera hicieron durante seis díasH6213
+- Jos_6:18guardaos...no sea que hagáis anatema elH2763
+- Jos_6:22haced salir de allí a la mujer y a todoH3318
+- Jos_6:26en aquel tiempo hizo Josué un juramentoH7650
+- Jos_7:7¿por qué hiciste pasar a este pueblo el Jordán
+- Jos_7:9y...¿qué harás tú a tu grande nombre?[[H6213]]
+- Jos_7:12no podrán hacer frente a sus enemigosH6965
+- Jos_7:13no podrás hacer frente a tus enemigos
+- Jos_7:16hizo acercar a Israel por sus tribus; y fue
+- Jos_7:17y haciendo acercar a la tribu de Judá
+- Jos_7:17haciendo luego acercar a la familia de
+- Jos_7:18Hizo acercar su casa por los varones, y fue
+- Jos_7:19declárame ahora lo que has hecho; no meH6213
+- Jos_7:20yo he pecado contra...así y así he hechoH6213
+- Jos_8:2harás a Hai...como hiciste a Jericó y aH6213
+- Jos_8:5cuando salgan ellos...como hicieron antes
+- Jos_8:8haréis conforme a la palabra de JehováH6213
+- Jos_8:35que Josué no hiciese leer delante de toda
+- Jos_9:3que Josué había hecho a Jericó y a HaiH6213
+- Jos_9:6haced, pues, ahora alianza con nosotrosH3772
+- Jos_9:7podremos hacer alianza con vosotros?[[H3772]]
+- Jos_9:9y todo lo que hizo en EgiptoH6213
+- Jos_9:10todo lo que hizo a los dos reyes de los amorreosH6213
+- Jos_9:11haced ahora alianza con nosotrosH3772
+- Jos_9:15y Josué hizo paz con ellos, y celebróH6213
+- Jos_9:16tres días después que hicieron alianza con ellosH3772
+- Jos_9:20esto haremos con ellos: les dejaremos vivirH6213
+- Jos_9:20causa del juramento que les hemos hecho
+- Jos_9:24e hicimos estoH6213
+- Jos_9:25lo que te pareciere bueno y recto hacerH6213
+- Jos_9:26él lo hizo así con ellos; pues los libróH6213
+- Jos_10:1(como había hecho a Jericó y a su reyH6213
+- Jos_10:1Gabaón habían hecho paz con los israelitasH6213
+- Jos_10:4porque ha hecho paz con Josué y con los
+- Jos_10:23lo hicieron así, y sacaron de la cuevaH6213
+- Jos_10:25así hará Jehová a todos vuestros enemigosH6213
+- Jos_10:26y los hizo colgar en cinco maderos
+- Jos_10:28como había hecho al rey de JericóH6213
+- Jos_10:30hizo...como había hecho al rey de JericóH6213
+- Jos_10:32así como había hecho en LibnaH6213
+- Jos_10:35como había hecho en LaquisH6213
+- Jos_10:37como había hecho a EglónH6213
+- Jos_10:39como había hecho a HebrónH6213
+- Jos_10:39y como había hecho a LibnaH6213
+- Jos_10:39a su rey, así hizo a Debir y a su reyH6213
+- Jos_11:9hizo con...como Jehová le había mandadoH6213
+- Jos_11:15así Josué lo hizo, sin quitar palabraH6213
+- Jos_11:19no hubo ciudad que hiciese paz con losH7999
+- Jos_11:20y que no les fuese hecha misericordiaH1961
+- Jos_14:5así lo hicieron los hijos de Israel enH6213
+- Jos_14:8hicieron desfallecer el corazón del pueblo
+- Jos_14:10Jehová me ha hecho vivir
+- Jos_17:13hicieron tributario al cananeo, mas noH5414
+- Jos_17:15haceos desmontes allí en la tierra deH1254
+- Jos_21:44ninguno...pudo hacerles frente, porqueH5975
+- Jos_21:45buenas promesas que Jehová había hechoH1696
+- Jos_22:22él sabe, y hace saber a Israel
+- Jos_22:24lo hicimos más bien por temor de queH6213
+- Jos_22:25vuestros hijos harían que nuestros hijos
+- Jos_22:27que podemos hacer el servicio de JehováH5647
+- Jos_22:28altar...el cual hicieron nuestros padresH6213
+- Jos_23:3Jehová...hecho con todas estas nacionesH6213
+- Jos_23:6en guardar y hacer...lo que está escritoH6213
+- Jos_23:7ni hagas mención ni juréis...sus diosesH2142
+- Jos_23:8seguiréis, como habéis hecho hasta hoyH6213
+- Jos_24:5conforme a lo que hice en medio de élH6213
+- Jos_24:7vuestros ojos vieron...que hice en EgiptoH6213
+- Jos_24:17el que ha hecho estas grandes señalesH6213
+- Jos_24:20os hará mal, y os consumirá, despuésH7489
+- Jos_24:20volverá...después que os ha hecho bienH3190
+- Jos_24:25Josué hizo pacto con el pueblo el...díaH3772
+- Jos_24:31obras...Jehová había hecho por IsraelH6213
+- Jue_1:7como yo hice, así me ha pagado DiosH6213
+- Jue_1:24ciudad, y haremos contigo misericordiaH6213
+- Jue_1:28hizo al cananeo tributario, mas no loH7760
+- Jue_1:35José cobró fuerzas, lo hizo tributarioH1961
+- Jue_2:2no hagáis pacto con los moradores de estaH3772
+- Jue_2:2a mi voz...¿Por qué habéis hecho esto?[[H6213]]
+- Jue_2:7obras de...que él había hecho por IsraelH6213
+- Jue_2:10la obra que él había hecho por IsraelH6213
+- Jue_2:11hijos de Israel hicieron lo malo anteH6213
+- Jue_2:14no pudieron ya hacer frente a...enemigosH5975
+- Jue_2:17anduvieron sus padres...no hicieron asíH6213
+- Jue_3:7hicieron...los hijos de Israel lo maloH6213
+- Jue_3:12volvieron...a hacer lo malo ante los ojosH6213
+- Jue_3:12hecho lo malo ante los ojos de JehováH6213
+- Jue_3:16Aod...había hecho un puñal de dos filosH6213
+- Jue_4:1volvieron a hacer lo malo ante los ojosH6213
+- Jue_6:1los hijos de Israel hicieron lo malo anteH6213
+- Jue_6:2Israel...se hicieron cuevas en los montesH6213
+- Jue_6:8yo os hice salir de Egipto
+- Jue_6:20y vierte el caldo. Y él lo hizo asíH6213
+- Jue_6:27Gedeón tomó...e hizo como Jehová le dijoH6213
+- Jue_6:27temiendo hacerlo de día...hizo de nocheH6213
+- Jue_6:29¿quién ha hecho esto? Gedeón...lo ha hH6213
+- Jue_6:40aquella noche lo hizo Dios así; sólo elH6213
+- Jue_7:3haz pregonar en oídos del pueblo
+- Jue_7:17dijo: Miradme a mí, y haced como hagoH6213
+- Jue_7:17yo llegue...haréis vosotros como hago yoH6213
+- Jue_8:1¿qué es esto que has hecho con nosotrosH6213
+- Jue_8:2¿qué he hecho yo...comparado con vosotrosH6213
+- Jue_8:3¿y qué he podido yo hacer comparado conH6213
+- Jue_8:24dijo Gedeón: Quiero haceros una peticiónH7592
+- Jue_8:27Gedeón hizo de ellos un efod, el cualH6213
+- Jue_8:35conforme a...el bien que él había hechoH6213
+- Jue_9:16habéis procedido en hacer rey a AbimelecH6213
+- Jue_9:24la violencia hecha a los setenta hijosH2555
+- Jue_9:27y pisaron la uva e hicieron fiesta; yH6213
+- Jue_9:33tú harás con él según se presente laH6213
+- Jue_9:48habéis visto hacer...a hacerlo como yoH6213
+- Jue_9:56así pagó Dios...el mal que hizo contraH6213
+- Jue_9:57el mal...lo hizo Dios volver sobre susH7725
+- Jue_10:6volvieron a hacer lo malo ante...JehováH6213
+- Jue_10:9para hacer también guerra contra JudáH3898
+- Jue_10:15haz tú...como bien te parezca, sólo teH6213
+- Jue_11:4,5de Amón hicieron guerra contra IsraelH3898
+- Jue_11:9si me hacéis volver para que pelee contra
+- Jue_11:10testigo...si no hiciéramos como tú dicesH6213
+- Jue_11:12que has venido a mí para hacer guerraH3898
+- Jue_11:24lo que te hiciere poseer Quemos tu dios
+- Jue_11:25¿tuvo él...o hizo guerra contra ellos?[[H3898]]
+- Jue_11:27haces mal conmigo peleando contra míH6213
+- Jue_11:30y Jefté hizo voto a Jehová, diciendoH5087
+- Jue_11:36haz de mí conforme a lo que prometisteH6213
+- Jue_11:36ya que Jehová ha hecho venganza en tusH6213
+- Jue_11:39hizo de ella conforme al voto...hechoH6213
+- Jue_11:40y se hizo costumbre en Israel, que de
+- Jue_12:1¿por qué fuiste a hacer guerra...de AmónH3898
+- Jue_13:1Israel volvieron a hacer lo malo anteH6213
+- Jue_13:8lo que hayamos de hacer con el niño queH6213
+- Jue_13:12del niño, y qué debemos hacer con él?[[H4639]]
+- Jue_13:16si quieres hacer holocausto, ofréceloH6213
+- Jue_13:19el ángel hizo milagro ante...de ManoaH6213
+- Jue_14:6Sansón...no declaró...lo que había hechoH6213
+- Jue_14:10hizo allí banquete...así solían hacerH6213
+- Jue_15:3sin culpa seré esta...si mal les hiciereH6213
+- Jue_15:6dijeron los filisteos: ¿Quién hizo esto?[[H6213]]
+- Jue_15:7Sansón...dijo; Ya que así habéis hechoH6213
+- Jue_15:10a Sansón...hacerle como él nos ha hechoH6213
+- Jue_15:11¿por qué nos has hecho esto? Y lesH6213
+- Jue_15:11yo les he hecho como ellos me hicieronH6213
+- Jue_15:13le hicieron venir de la peña
+- Jue_16:19hizo que él se durmiese sobre sus rodillas
+- Jue_16:26acércame, y hazme palpar las columnas
+- Jue_17:3para hacer una imagen de talla y una deH6213
+- Jue_17:4hizo de ellos una imagen de talla y unaH6213
+- Jue_17:5hizo efod y terafines, y consagró a unoH6213
+- Jue_17:6cada uno hacía lo que bien le parecíaH6213
+- Jue_18:3¿quién te ha traído acá, y qué hacesH6213
+- Jue_18:4de esta manera ha hecho conmigo MicaíaH6213
+- Jue_18:5ha de prosperar este viaje que hacemosH1980
+- Jue_18:9¿y vosotros no haréis nada? No seáisH2814
+- Jue_18:14mirad, por tanto...que habéis de hacerH6213
+- Jue_18:18y el...les dijo: ¿Qué hacéis vosotros?[[H6213]]
+- Jue_18:24tomasteis mis dioses que yo hice y alH6213
+- Jue_18:27ellos, llevando las cosas que había hechoH6213
+- Jue_18:31la imagen de...que Micaía había hechoH6213
+- Jue_19:3hablarle amorosamente y hacerla volver
+- Jue_19:3ella le hizo entrar en la casa de su padre
+- Jue_19:19tenemos paja y...no nos hace falta nadaH4270
+- Jue_19:23os ruego que no...no hagáis esta maldadH7489
+- Jue_19:24haced con ellas como os parezca, y noH6213
+- Jue_19:24no hagáis a este hombre cosa tan infameH6213
+- Jue_19:30jamás se ha hecho ni visto tal cosaH1961
+- Jue_20:6por cuanto han hecho maldad y crimen enH6213
+- Jue_20:9mas esto es ahora lo que haremos a GabaaH6213
+- Jue_20:10hagan conforme a toda la abominaciónH6213
+- Jue_20:12¿qué maldad es esta que ha sido hechaH1961
+- Jue_20:38hiciesen subir una gran humareda de la
+- Jue_21:2y alzando su voz hicieron gran llantoH5375
+- Jue_21:5se había hecho gran juramento contra el
+- Jue_21:7,16¿qué haremos en cuanto a mujeres paraH6213
+- Jue_21:11pero haréis de esta manera: mataréis aH6213
+- Jue_21:22hacednos la merced de concedérnoslasH2603
+- Jue_21:23los hijos de Benjamín lo hicieron asíH6213
+- Jue_21:25cada uno hacía lo que bien le parecíaH6213
+- Rut_1:8Jehová haga con vosotras misericordiaH6213
+- Rut_1:8como la habéis hecho con los muertos yH6213
+- Rut_1:17así me haga Jehová, y aun me añada, siH6213
+- Rut_1:17que sólo la muerte hará separación entreH6504
+- Rut_2:11he sabido...que has hecho con tu suegraH6213
+- Rut_3:4irás...él te dirá lo que hayas de hacerH6213
+- Rut_3:5ella respondió: Haré todo lo que tú meH6213
+- Rut_3:6hizo...lo que su suegra le había mandadoH6213
+- Rut_3:10has hecho mejor tu postrera bondad queH3190
+- Rut_3:11no temas...haré contigo lo que tú digasH6213
+- Rut_4:4y yo decidí hacértelo saber
+- Rut_4:7había ya desde hacía tiempo esta costumbre
+- Rut_4:11Jehová haga a la mujer que entra en tuH6213
+- Rut_4:14loado sea Jehová...hizo que no te faltaseH7673
+- 1Sa_1:7así hacía cada año; cuando subía a laH6213
+- 1Sa_1:11e hizo voto, diciendo: Jehová de losH5087
+- 1Sa_1:17te otorgue la petición que le has hechoH7592
+- 1Sa_1:23haz lo que bien te parezca, quédateH6213
+- 1Sa_2:6el hace descender al Seol, y hace subir
+- 1Sa_2:8para hacerle sentarse con príncipes y heredar
+- 1Sa_2:14hacían con todo israelita que venía aH6213
+- 1Sa_2:19y le hacía su madre una túnica pequeñaH6213
+- 1Sa_2:22y oía de todo lo que sus hijos hacíanH6213
+- 1Sa_2:23dijo: ¿Por que hacéis cosas semejantes?[[H6213]]
+- 1Sa_2:24pues hacéis pecar al pueblo de Jehová
+- 1Sa_2:25porque Jehová había resuelto hacerlos morir
+- 1Sa_2:30nunca yo tal haga porque yo honraré a
+- 1Sa_2:35un sacerdote fiel, que haga conforme aH6213
+- 1Sa_3:11he aquí haré yo una cosa en Israel, queH6213
+- 1Sa_3:17así te haga Dios y aun te añada, si meH6213
+- 1Sa_3:18Jehová es; haga lo que bien le pareciereH6213
+- 1Sa_4:10fue hecha muy grande mortandad...cayeronH3966
+- 1Sa_4:17fue hecha gran mortandad en el puebloH1419
+- 1Sa_4:18hizo mención del arca de Dios, Elí cayóH2142
+- 1Sa_5:8¿qué haremos...arca del Dios de Israel?[[H6213]]
+- 1Sa_6:2¿qué haremos del arca de Jehová?...saberH6213
+- 1Sa_6:5haréis pues, figuras de vuestros tumoresH6213
+- 1Sa_6:7haced...un carro nuevo, y tomad luego dosH6213
+- 1Sa_6:9él nos ha hecho este mal tan grande; yH6213
+- 1Sa_6:10lo hicieron así; tomando dos vacas queH6213
+- 1Sa_6:19Dios hizo morir a los hombres de Bet-semes
+- 1Sa_6:19hizo morir del pueblo a
+- 1Sa_8:8conforme...obras que han hecho...así hacenH6213
+- 1Sa_8:11hará el rey que reinará sobre vosotrosH4941
+- 1Sa_8:12a que hagan sus armas de guerra y losH6213
+- 1Sa_8:16siervos...y con ellos hará sus obrasH6213
+- 1Sa_8:20saldrá delante...y harás nuestras guerrasH3898
+- 1Sa_9:20asnas que se te perdieron hace ya...díasH3117
+- 1Sa_10:2diciendo: ¿Qué haré acerca de mi hijo?[[H6213]]
+- 1Sa_10:7haz lo que te viniere a la mano, porqueH6213
+- 1Sa_10:8venga...y te enseñe lo que has de hacerH6213
+- 1Sa_10:12hizo proverbio: ¿También Saúl entre losH4912
+- 1Sa_10:20haciendo Samuel que se acercasen todasH7126
+- 1Sa_10:21hizo llegar la tribu de Benjamín
+- 1Sa_11:1haz alianza con nosotros...te serviremosH3772
+- 1Sa_11:2Nahas...Con esta condición haré alianzaH3772
+- 1Sa_11:7así se hará con los bueyes del que noH6213
+- 1Sa_11:10hagáis...todo lo que bien os pareciereH6213
+- 1Sa_12:7que Jehová ha hecho con vosotros y conH6213
+- 1Sa_12:8y los hicieron habitar en este lugar
+- 1Sa_12:9de Moab, los cuales les hicieron guerraH3898
+- 1Sa_12:14si...servís...vuestro Dios, haréis bien
+- 1Sa_12:16Jehová hará delante de vuestros ojosH6213
+- 1Sa_12:17maldad que habéis hecho ante los ojosH6213
+- 1Sa_12:20vosotros habéis hecho todo este malH6213
+- 1Sa_12:22Jehová ha querido haceros pueblo suyoH6213
+- 1Sa_12:24grandes cosas ha hecho por vosotrosH1431
+- 1Sa_12:25mas si perseverareis en hacer malH7489
+- 1Sa_13:3hizo Saúl tocar trompeta por todo elH8628
+- 1Sa_13:4Israel se había hecho abominable a losH887
+- 1Sa_13:11Samuel dijo: ¿Qué has hecho? Y SaúlH6213
+- 1Sa_13:13Samuel...a Saúl: Locamente has hechoH5528
+- 1Sa_13:19los hebreos no hagan espada o lanzaH6213
+- 1Sa_14:1y no lo hizo saber a su padre
+- 1Sa_14:6quizá haga algo Jehová por nosotrosH6213
+- 1Sa_14:7haz todo lo que tienes en tu corazón véH6213
+- 1Sa_14:12subid a nosotros, y os haremos saber una cosa
+- 1Sa_14:14matanza que hicieron Jonatán y su pajeH5221
+- 1Sa_14:26quien hiciera llegar su mano a su boca
+- 1Sa_14:28tu padre ha hecho jurar solemnemente al pueblo
+- 1Sa_14:30no se habría hecho ahora mayor estragoH7235
+- 1Sa_14:36,40haz lo que bien te pareciereH6213
+- 1Sa_14:43a Jonatán: Declárame lo que has hechoH6213
+- 1Sa_14:44así me haga Dios y aun me añada, queH6213
+- 1Sa_14:45¿Ha de morir Jonatán, el que ha hecho
+- 1Sa_14:47Saúl hizo guerra a todos sus enemigosH3898
+- 1Sa_15:2castigaré lo que hizo Amalec a IsraelH6213
+- 1Sa_15:17¿no has sido hecho jefe de las tribus
+- 1Sa_15:18y hazles guerra hasta que los acabesH3898
+- 1Sa_15:19hecho lo malo ante los ojos de Jehová?[[H6213]]
+- 1Sa_16:3yo te enseñaré lo que has de hacer; y meH6213
+- 1Sa_16:4hizo pues Samuel como le dijo JehováH6213
+- 1Sa_16:8y lo hizo pasar delante de Samuel
+- 1Sa_16:9Hizo luego pasar Isaí a Sama
+- 1Sa_16:10hizo pasar Isaí siete hijos suyos delante
+- 1Sa_16:12le hizo entrar; y era rubio, hermoso de ojos
+- 1Sa_16:21él le amó...y le hizo su paje de armas
+- 1Sa_17:16y así lo hizo durante cuarenta díasH3320
+- 1Sa_17:26¿qué harán al hombre que venciere aH6213
+- 1Sa_17:27así se hará al hombre que le venciereH6213
+- 1Sa_17:29David respondió: ¿Qué he hecho yo ahoraH6213
+- 1Sa_17:31y él lo hizo venir
+- 1Sa_17:39y probó a...nunca había hecho la pruebaH5254
+- 1Sa_18:3hicieron pacto Jonatán y David, porqueH3772
+- 1Sa_18:13lo alejó de sí, y le hizo jefe de milH7760
+- 1Sa_18:25pensaba hacer caer a David en manos de
+- 1Sa_18:27al rey, a fin de hacerse yerno del reyH2859
+- 1Sa_18:30David...hizo de mucha estima su nombreH3365
+- 1Sa_19:3y te haré saber lo que haya
+- 1Sa_19:18le dijo todo lo que Saúl había hechoH6213
+- 1Sa_20:1¿qué he hecho yo? ¿Cuál es mi maldad, oH6213
+- 1Sa_20:2mi padre ninguna cosa hará, grandeH6213
+- 1Sa_20:4dijo...Lo que deseare tu alma, haré por tiH6213
+- 1Sa_20:6tu padre hiciere mención de mí dirás
+- 1Sa_20:8harás misericordia con tu siervoH6213
+- 1Sa_20:12enviaré a ti para hacértelo saber
+- 1Sa_20:13pero si mi padre intentare hacerte malH7451
+- 1Sa_20:13Jehová haga así a Jonatán, y aun leH6213
+- 1Sa_20:14y si yo viviera, haré...misericordiaH6213
+- 1Sa_20:16así hizo Jonatán pacto con la casa deH3772
+- 1Sa_20:17Jonatán hizo jurar a David otra vez
+- 1Sa_20:32dado: ¿Por qué hacéis lo que has hecho?[[H6213]]
+- 1Sa_21:15éste que hiciese de loco delante de mí?[[H7696]]
+- 1Sa_22:2se juntaron...y fue hecho jefe de ellos
+- 1Sa_22:3hasta que sepa lo que Dios hará de míH6213
+- 1Sa_22:7os hará jefes de millares y jefes deH7760
+- 1Sa_22:8mi hijo ha hecho alianza con el hijo deH3772
+- 1Sa_22:8que me aceche, tal como lo hace hoy?
+- 1Sa_22:13y me acechase, como lo hace hoy día?
+- 1Sa_22:22él lo había de hacer saber a Saúl
+- 1Sa_23:18ambos hicieron pacto delante de JehováH3772
+- 1Sa_23:27han hecho una irrupción en el país
+- 1Sa_24:4mano, y harás con él como le pareciereH6213
+- 1Sa_24:6Jehová me guarde de hacer tal cosaH6213
+- 1Sa_24:8inclinó su rostro a...e hizo reverenciaH7812
+- 1Sa_24:18has mostrado hoy que has hecho conmigoH6213
+- 1Sa_24:19lo que en este día has hecho conmigoH6213
+- 1Sa_25:17reflexiona y ve lo que has de hacerH6213
+- 1Sa_25:22así haga Dios a los enemigos de DavidH6213
+- 1Sa_25:25no haga caso ahora mi Señor de eseH7760
+- 1Sa_25:28Jehová...hará casa estable a mi nombreH6213
+- 1Sa_25:30Jehová haga con mi señor conforme aH6213
+- 1Sa_25:31y cuando Jehová haga bien a mi señorH3190
+- 1Sa_25:34que me ha defendido de hacerte malH7489
+- 1Sa_26:16esto que has hecho no está bien. ViveH6213
+- 1Sa_26:18que he hecho? ¿Qué mal hay en mi mano?[[H6213]]
+- 1Sa_26:21vuélvete...que ningún mal te haré másH7489
+- 1Sa_26:21yo he hecho ociosamente, y he erradoH5528
+- 1Sa_27:8hacían incursiones contra losH6584
+- 1Sa_27:11dio aviso de...y digan: esto hizo DavidH6213
+- 1Sa_27:12él se ha hecho admirable a su pueblo
+- 1Sa_28:2bien, tu sabrás lo que hará tu siervoH6213
+- 1Sa_28:8y me hagas subir a quien yo te dijere
+- 1Sa_28:9tú sabes lo que Saúl ha hecho cómo haH6213
+- 1Sa_28:11¿a quién te haré venir? Y él respondió
+- 1Sa_28:14rostro a tierra, hizo gran reverenciaH7812
+- 1Sa_28:15que me declares lo que tengo que hacerH6213
+- 1Sa_28:17te ha hecho como dijo por medio de míH6213
+- 1Sa_28:18por eso Jehová: te ha hecho esto hoyH6213
+- 1Sa_29:3y dijeron...¿qué hacen estos hebreos?
+- 1Sa_29:8David reunió a Aquis:¿Qué he hecho?[[H6213]]
+- 1Sa_30:13y me dejó mi amo hoy hace tres días
+- 1Sa_30:14hicimos una reunión a...del NeguevH6584
+- 1Sa_30:16comiendo y bebiendo y haciendo fiestaH2287
+- 1Sa_30:21habían hecho quedar en el torrente de
+- 1Sa_30:23David dijo: No hagáis eso, hermanosH6213
+- 1Sa_31:11oyendo los de Jabes...hicieron a SaúlH6213
+- 2Sa_1:2se postró en tierra e hizo reverenciaH7812
+- 2Sa_1:11rasgó; y lo mismo hicieron los hombres
+- 2Sa_2:5que hayamos hecho esta misericordia conH6213
+- 2Sa_2:6Jehová haga con vosotros misericordia yH6213
+- 2Sa_2:6os hará bien por esto que habéis hechoH6213
+- 2Sa_2:9hizo el rey sobre Galaad, sobre GesuriH4427
+- 2Sa_2:25hicieron alto en la cumbre del colladoH5975
+- 2Sa_3:8he hecho hoy misericordia con la casa deH6213
+- 2Sa_3:8tú me haces hoy cargo del pecado deH6485
+- 2Sa_3:9así haga Dios a Abner y aun le añada, siH6213
+- 2Sa_3:9si como ha jurado...no haga yo así con élH6213
+- 2Sa_3:12haz pacto conmigo...mano estará contigoH3772
+- 2Sa_3:13bien; haré pacto contigo, mas una cosaH3772
+- 2Sa_3:17hace ya tiempo procurabais que David
+- 2Sa_3:18ahora, pues, hacedlo; porque Jehová haH6213
+- 2Sa_3:20y David hizo banquete a Abner y a losH6213
+- 2Sa_3:21que hagan conmigo pacto, y tú reinesH3772
+- 2Sa_3:24Joab vino...y le dijo:¿Qué has hecho?[[H6213]]
+- 2Sa_3:25ha venido...para saber...lo que tu hacesH6213
+- 2Sa_3:26le hicieron volver desde el pozo de Sira
+- 2Sa_3:31rasgad...y haced duelo delante de AbnerH5594
+- 2Sa_3:35me haga Dios y aun me acaba, si antesH6213
+- 2Sa_3:36pues vio lo que el rey haría agradabaH6213
+- 2Sa_3:39de el pago al que mal haré conforme aH6213
+- 2Sa_5:3el rey David hizo pacto con ellos en HebrónH3772
+- 2Sa_5:25y David lo hizo así como Jehová se loH6213
+- 2Sa_6:2para hacer pasar de allí el arca de Dios
+- 2Sa_6:10la hizo llevar David a casa de
+- 2Sa_6:22y aun me haré mas...que esta vez, yH7043
+- 2Sa_7:3anda, y haz lo que está en tu corazónH6213
+- 2Sa_7:11Jehová te hace saciar...él te hará casaH6213
+- 2Sa_7:14Y si él hiciere mal, yo le castigaréH5753
+- 2Sa_7:15anda, y haz conforme a lo que has dichoH6213
+- 2Sa_7:21cosas grandes has hecho por tu palabraH6213
+- 2Sa_7:23para hacer grandes a su favor, y obrasH6213
+- 2Sa_7:25y haz conforme a lo que has dichoH6213
+- 2Sa_7:27valor para hacer delante de ti esta súplica
+- 2Sa_8:2con cordel, haciéndolos tender por tierra
+- 2Sa_8:2midió dos cordeles para hacerlos morir
+- 2Sa_8:6los sirios fueron hechos siervos de David
+- 2Sa_9:1a quien haga yo misericordia por amor
+- 2Sa_9:3a quien haga yo misericordia de Dios?
+- 2Sa_9:6se postró sobre su rostro e hizo reverencia
+- 2Sa_9:7la verdad haré contigo misericordia por amor
+- 2Sa_9:11así lo hará tu siervoH6213
+- 2Sa_10:2yo haré misericordia con Hanún...hizo conmigo
+- 2Sa_10:5cuando se le hizo saber esto a David, envió a
+- 2Sa_10:6que se habían hecho odiosos a David
+- 2Sa_10:12haga Jehová lo que bien le pareciereH6213
+- 2Sa_10:16envió Hadad-ezer e hizo salir a los sirios
+- 2Sa_10:19hicieron paz con Israel y le sirvieron
+- 2Sa_11:5y envió a hacerlo saber a David
+- 2Sa_11:10hicieron saber esto a David, diciendo
+- 2Sa_11:11por vida tuya...que yo no haré tal cosaH6213
+- 2Sa_11:18envió Joab e hizo saber a David todos los asuntos
+- 2Sa_11:23nosotros les hicimos retroceder hasta la entrada
+- 2Sa_11:26hizo duelo por su marido
+- 2Sa_11:27esto que David había hecho, fue desagradableH6213
+- 2Sa_12:5el que tal hizo es digno de muerteH6213
+- 2Sa_12:6hizo tal cosa, y no tuvo misericordiaH6213
+- 2Sa_12:9haciendo lo malo delante de sus ojos?[[H6213]]
+- 2Sa_12:11he aquí yo haré levantar el mal sobre ti
+- 2Sa_12:12lo hiciste en secreto; mas yo haré esto delanteH6213
+- 2Sa_12:14hiciste blasfemar a los enemigos de Jehová
+- 2Sa_12:17y fueron a él para hacerlo levantar
+- 2Sa_12:18y temían los siervos de David hacerle saber
+- 2Sa_12:21¿qué es esto que has hecho?[[H6213]]
+- 2Sa_12:23¿Podré yo hacerle volver?
+- 2Sa_12:31los hizo trabajar...y lo mismo hizo a todasH6213
+- 2Sa_13:2parecía a Amnón que sería difícil hacerle
+- 2Sa_13:6y haga delante de mí dos hojuelasH3823
+- 2Sa_13:7y hazle de comerH6213
+- 2Sa_13:8hizo hojuelas delante de él y las cocióH3835
+- 2Sa_13:12no, hermano mío, no me hagas violenciaH6213
+- 2Sa_13:12no se debe hacer...no haga tal vilezaH6213
+- 2Sa_13:16mayor mal es...que el que me has hechoH6213
+- 2Sa_13:29hicieron...Absalón les había mandadoH6213
+- 2Sa_14:4postrándose en tierra...hizo reverenciaH7812
+- 2Sa_14:7para que le hagamos morir por la vida
+- 2Sa_14:13hablando el rey...se hace culpable élH818
+- 2Sa_14:15que él hará lo que su sierva digaH6213
+- 2Sa_14:20Joab tu siervo ha hecho esto; pero miH6213
+- 2Sa_14:21yo hago esto; ve y haz volver al jovenH6213
+- 2Sa_14:22Joab se postró en...e hizo reverenciaH7812
+- 2Sa_14:22hecho el rey lo que su siervo ha dichoH6213
+- 2Sa_14:26se cortaba el cabello, lo cual hacía
+- 2Sa_14:33Vino, pues, Joab al rey, y se lo hizo saber
+- 2Sa_15:1que Absalón se hizo de carros y caballosH6213
+- 2Sa_15:4que viniesen a mí...les haría justicia![[H6663]]
+- 2Sa_15:6manera hacía con todos los israelitasH6213
+- 2Sa_15:8tu siervo hizo voto...en Gesur en SiriaH5087
+- 2Sa_15:12y la conspiración se ha hecho poderosa, yH533
+- 2Sa_15:20¿y he de hacer hoy que te muevas para
+- 2Sa_15:25él hará que vuelva, y me dejará verla
+- 2Sa_15:26haga de mí lo que bien le pareciereH6213
+- 2Sa_15:34tu harás nulo el consejo de AhitofelH6565
+- 2Sa_16:10¿Quién...dirá: ¿Por qué lo harás así?[[H6213]]
+- 2Sa_16:20dad...consejo sobre lo que debemos hacerH6213
+- 2Sa_16:21te has hecho aborrecible a tu padreH887
+- 2Sa_17:3haré volver a ti todo el pueblo
+- 2Sa_17:14Jehová hiciese venir el mal sobre Absalón
+- 2Sa_17:17y se lo hicieron saber al rey David
+- 2Sa_17:18el cual lo hizo saber a Absalón
+- 2Sa_18:3si...huyéramos, no harán caso de vosotrosH7760
+- 2Sa_18:3aunque la mitad...muera, no harán casoH7760
+- 2Sa_18:4les dijo: Yo haré lo que bien os parezcaH6213
+- 2Sa_18:7se hizo...una gran matanza de veinte milH1419
+- 2Sa_18:13habría yo hecho traición contra mi vidaH6213
+- 2Sa_18:21y el etíope hizo reverencia ante JoabH7812
+- 2Sa_18:25dio luego voces, y lo hizo saber al rey
+- 2Sa_19:1el rey llora, y hace duelo por AbsalónH56
+- 2Sa_19:6hoy me has hecho ver claramente
+- 2Sa_19:10estáis callados respecto de hacer volver
+- 2Sa_19:11los postreros en hacer volver el rey
+- 2Sa_19:12seréis vosotros los postreros en hacer
+- 2Sa_19:13así me haga Dios, y aun me añada, siH6213
+- 2Sa_19:15para hacerle pasar el Jordán
+- 2Sa_19:18y para hacer lo que a él le parecieraH6213
+- 2Sa_19:19males que tu siervo hizo el día en que
+- 2Sa_19:27mi señor...haz...lo que bien te parezcaH6213
+- 2Sa_19:37rey, y haz a él lo que bien te pareciereH6213
+- 2Sa_19:38y yo haré con él como bien te parezcaH6213
+- 2Sa_19:38lo que tu pidiereis de mí, yo lo haréH6213
+- 2Sa_19:41han hecho pasar el Jordán al rey y a su
+- 2Sa_19:43respecto de hacer volver a nuestro rey?
+- 2Sa_20:6Seba...hará ahora más daño que AbsalónH3415
+- 2Sa_21:2a los cuales los...habían hecho juramentoH7650
+- 2Sa_21:3aquí haré...vosotros, o que satisfacciónH6213
+- 2Sa_21:4les dijo: Lo que vosotros dijereis, haréH6213
+- 2Sa_21:11fue dicho a David lo que haría RizpaH6213
+- 2Sa_21:13hizo llevar de allí los huesos de Saúl y los
+- 2Sa_21:14hicieron todo lo que el rey...mandadoH6213
+- 2Sa_21:15los Filisteos a hacer la guerra a Israel
+- 2Sa_22:34quien hace mis pies como de ciervas, yH7737
+- 2Sa_22:41has hecho que mis enemigos vuelvan lasH5414
+- 2Sa_23:4como la lluvia que hace brotar la hierba
+- 2Sa_23:5sin embargo él ha hecho conmigo pactoH7760
+- 2Sa_23:17lejos sea de mí, oh...que yo haga estoH6213
+- 2Sa_23:17los tres valientes hicieron estoH6213
+- 2Sa_23:22esto hizo Benaía hijo de Joiada, y ganóH6213
+- 2Sa_24:1ve, haz un censo de Israel y de JudáH4487
+- 2Sa_24:2haz un censo del pueblo, para que yoH6485
+- 2Sa_24:4salió, pues, Joab...para hacer el censoH6485
+- 2Sa_24:10he pasado...por haber hecho esto; masH6213
+- 2Sa_24:10que quites el...he hecho muy neciamenteH5528
+- 2Sa_24:12escogerás una de...para que yo la hagaH6213
+- 2Sa_24:13vino, pues, Gad a David, y se lo hizo saber
+- 2Sa_24:17yo pequé...¿Qué hicieron estas ovejas?[[H213]]
+- 1Re_1:5y se hizo de carros y de gente de aH6213
+- 1Re_1:6su padre...decide: ¿Por qué haces así?[[H6213]]
+- 1Re_1:16y Belsaía se inclinó, e hizo reverenciaH7812
+- 1Re_1:30como yo te he jurado...así lo haré hoyH6213
+- 1Re_1:31haciendo reverencia al rey, dijo: VivaH7812
+- 1Re_1:37y haga mayor su trono que el trono deH1431
+- 1Re_1:40y hacían grandes alegrías, que parecíaH8056
+- 1Re_1:43el rey David ha hecho rey a SalomónH4427
+- 1Re_1:47Dios haga bueno el nombre de Salomón
+- 1Re_1:47Dios...haga mayor su trono que el tuyo
+- 1Re_1:51y se lo hicieron saber a Salomón, diciendo
+- 1Re_2:3para que prosperes en todo lo que hagasH6213
+- 1Re_2:5sabes tu lo que me ha hecho Joab hijo deH6213
+- 1Re_2:5lo que hizo a dos generales del ejércitoH6213
+- 1Re_2:6tú, pues, harás conforme a tu sabiduríaH6213
+- 1Re_2:7los hijos de Barzilai...harás misericordiaH6213
+- 1Re_2:9sabes cómo debes hacer con él y harásH6213
+- 1Re_2:16te hago una petición; no me la nieguesH7592
+- 1Re_2:19e hizo traer una silla para su madre
+- 1Re_2:23así me haga Dios y aun me acaba, queH6213
+- 1Re_2:24me ha hecho casa, como me había dichoH6213
+- 1Re_2:29le hizo saber a Salomón que Joab había
+- 1Re_2:31le dijo: Haz como él ha dicho; mátaleH6213
+- 1Re_2:32Jehová hará volver su sangre sobre su
+- 1Re_2:36envió el rey e hizo venir a Simei
+- 1Re_2:38señor ha dicho, así lo hará tu siervoH6213
+- 1Re_2:42el rey envió e hizo venir a Simei
+- 1Re_2:44ha hecho volver el mal sobre tu cabeza
+- 1Re_3:1Salomón hizo parentesco con faraón rey
+- 1Re_3:6haz tu gran misericordia a tu siervoH6213
+- 1Re_3:12aquí lo he hecho conforme a tus palabrasH6213
+- 1Re_3:15hizo también banquete a...sus siervosH6213
+- 1Re_4:27uno un mes, y hacían que nada faltaseH5737
+- 1Re_4:28hacían también traer cebada y paja paraH935
+- 1Re_5:8yo haré...te plazca acerca de la maderaH6213
+- 1Re_5:12hubo paz...e hicieron pacto entre ambosH3772
+- 1Re_5:16tenían a cargo el pueblo que hacía laH6213
+- 1Re_6:4hizo a la casa ventanas anchas...dentroH6213
+- 1Re_6:5casa...e hizo cámaras laterales alrededorH6213
+- 1Re_6:6por fuera había hecho disminuciones a laH5414
+- 1Re_6:12e hicieres mis decretos, y guardaresH6213
+- 1Re_6:16hizo al final de la casa un edificio deH1129
+- 1Re_6:16hizo en la casa un aposento que es elH1129
+- 1Re_6:23hizo...el lugar santísimo dos querubinesH6213
+- 1Re_6:31hizo puertas de madera de olivo, y elH6213
+- 1Re_6:33hizo a la puerta...postes cuadrados deH6213
+- 1Re_7:6hizo un pórtico de columnas, que teníaH6213
+- 1Re_7:7hizo asimismo el pórtico del trono en queH6213
+- 1Re_7:14éste...vino al rey...e hizo toda su obraH6213
+- 1Re_7:16hizo...capiteles de fundición de bronceH6213
+- 1Re_7:18hizo también dos hileras de granadasH6213
+- 1Re_7:18la misma forma hizo en el otro capitelH6213
+- 1Re_7:23Hizo fundir asimismo un mar de diezH6213
+- 1Re_7:27hizo...diez basas de bronce, siendo laH6213
+- 1Re_7:36e hizo en las tablas...entalladuras deH6605
+- 1Re_7:37de esta forma hizo diez basas, fundidasH6213
+- 1Re_7:38hizo también 10 fuentes de bronce, cadaH6213
+- 1Re_7:40hizo...fuentes, y tenazas, y cuencosH6213
+- 1Re_7:40terminó toda la obra que hizo a SalomónH6213
+- 1Re_7:45los utensilios que Hiram hizo al reyH6213
+- 1Re_7:46lo hizo fundir el rey en la llanura del
+- 1Re_7:48hizo Salomón todos los enseres queH6213
+- 1Re_7:51obra que dispuso hacer el rey SalomónH6213
+- 1Re_8:9donde Jehová hizo pacto con los hijosH3772
+- 1Re_8:18casa...bien has hecho en tener tal deseo
+- 1Re_8:21pacto...que él hizo con nuestros padresH3772
+- 1Re_8:28oración que tu siervo hace hoy delanteH6419
+- 1Re_8:29oigas la oración que tu siervo haga enH6419
+- 1Re_8:31y le tomaren juramento haciéndole jurar
+- 1Re_8:32haciendo recaer su proceder sobre su
+- 1Re_8:38súplica que hiciere cualquier hombre
+- 1Re_8:43harás conforme a...aquello por lo cualH6213
+- 1Re_8:45,49tú oirás en...y les harás justiciaH6213
+- 1Re_8:47hecho lo malo, hemos cometido impiedad
+- 1Re_8:49oirás...su súplica, y les harás justiciaH6213
+- 1Re_8:50harás que tengan de ellos misericordia
+- 1Re_8:54acabó...de hacer a Jehová...esta oraciónH3615
+- 1Re_8:65Salomón hizo fiesta, y con él...IsraelH6213
+- 1Re_8:66beneficios...Jehová había hecho a DavidH6213
+- 1Re_9:1acabado la obra...que Salomón quiso hacerH6213
+- 1Re_9:3tu oración y tu ruego que has hecho enH2063
+- 1Re_9:4haciendo...cosas que yo te he mandado, yH6213
+- 1Re_9:8por qué ha hecho así Jehová a esta tierraH6213
+- 1Re_9:21hizo Salomón que sirviesen con tributo
+- 1Re_9:23Salomón había hecho jefes y vigilantesH6213
+- 1Re_9:26hizo...rey Salomón naves en Ezión-geberH6213
+- 1Re_10:9rey, para que hagas derecho y justiciaH6213
+- 1Re_10:12de la madera...hizo el rey balaustresH6213
+- 1Re_10:16hizo...rey Salomón doscientos escudosH6213
+- 1Re_10:17hizo 300 escudos de oro batido, en
+- 1Re_10:18hizo...el rey un gran trono de marfilH6213
+- 1Re_10:20en ningún reino se había hecho tronoH6213
+- 1Re_10:27hizo el rey que en Jerusalén la plataH5414
+- 1Re_11:2harán inclinar vuestros corazones tras sus dioses
+- 1Re_11:6hizo Salomón lo malo ante los...de JehováH6213
+- 1Re_11:8así hizo para...sus mujeres extranjerasH6213
+- 1Re_11:12no lo haré en tus días, por amor aH6213
+- 1Re_11:24se había hecho capitán de una compañíaH8269
+- 1Re_11:24fueron...y le hicieron rey en DamascoH4427
+- 1Re_11:33para hacer lo recto delante de mis ojosH6213
+- 1Re_11:33mis decretos, como hizo David su padre
+- 1Re_11:38hicieres lo recto delante de mis ojosH6213
+- 1Re_11:38como hizo David mi siervo, yo estaréH6213
+- 1Re_11:41todo lo que hizo, y su sabiduría, ¿noH6213
+- 1Re_12:1había venido a Siquem para hacerle reyH4427
+- 1Re_12:20y le hicieron rey sobre todo IsraelH4427
+- 1Re_12:21con el fin de hacer guerra a la casaH3898
+- 1Re_12:24volveos...porque esto lo he hecho yoH4480
+- 1Re_12:28hizo el rey dos becerros de oro, y dijoH6213
+- 1Re_12:31hizo...lugares altos, e h sacerdotes deH6213
+- 1Re_12:32hizo...a los becerros que había hechoH6213
+- 1Re_12:33sobre el altar que él había hecho enH6213
+- 1Re_12:33e hizo fiesta a los hijos de IsraelH6213
+- 1Re_13:11lo que el varón de Dios había hechoH6213
+- 1Re_13:20palabra de...que le había hecho volver
+- 1Re_13:23el que le había hecho volver le ensilló el asno
+- 1Re_13:26el profeta que le había hecho volver del
+- 1Re_13:33Jeroboam...volvió a hacer sacerdotes deH6213
+- 1Re_14:4la mujer de Jeroboam lo hizo así; y seH6213
+- 1Re_14:7te hice príncipe sobre mi pueblo IsraelH5414
+- 1Re_14:8haciendo...lo recto delante de mis ojosH6213
+- 1Re_14:9hiciere lo malo sobre todos los que hanH6213
+- 1Re_14:9y te hiciste dioses ajenos e imágenesH6213
+- 1Re_14:14destruirá la casa...lo hará ahora mismo
+- 1Re_14:15por cuanto han hecho sus imágenes deH6213
+- 1Re_14:16y ha hecho pecar a Israel
+- 1Re_14:19Jeroboam, las guerras que hizo, y cómoH3898
+- 1Re_14:22; 15:26,34; 16:25; 22:52; 2Re_3:2; 8:18,27; 13:2,11; 14:24; 15:18,24,28; 17:2; 21:2; 23:32,37; 24:9,19hizo lo malo ante los ojos de JehováH6213
+- 1Re_14:22todo lo que sus padres habían hechoH6213
+- 1Re_14:24hicieron...todas las abominaciones deH6213
+- 1Re_14:26los escudos...que Salomón había hechoH6213
+- 1Re_14:27y en lugar de ellos hizo...escudos deH6213
+- 1Re_14:29todo lo que hizo, ¿no está escrito enH6213
+- 1Re_15:5había hecho lo recto ante los ojos deH6213
+- 1Re_15:7,31; 16:14; 2Re_8:23; 10:34; 12:19; 13:8,12; 15:6,21,26,31,36; 23:28; 24:5todo lo que hizo...está escritoH6213
+- 1Re_15:11; 2Re_12:2; 14:3; 15:3,34; 22:2hizo lo recto ante...los ojos de JehováH6213
+- 1Re_15:12quitó todos los ídolos...habían hechoH6213
+- 1Re_15:13porque había hecho un ídolo de AseraH6213
+- 1Re_15:23todo lo que hizo y las ciudades queH6213
+- 1Re_15:30y con los cuales hizo pecar a Israel
+- 1Re_16:2y has hecho pecar a mi pueblo Israel
+- 1Re_16:5las cosas que hizo, y su poderío, ¿noH6213
+- 1Re_16:7de todo lo malo que hizo ante...JehováH6213
+- 1Re_16:7fuese hecha como la casa de JeroboamH6213
+- 1Re_16:13por los cuales ellos pecaron e hicieron
+- 1Re_16:19haciendo lo malo ante...ojos de JehováH2398
+- 1Re_16:20de Zimri, y la conspiración que hizoH7194
+- 1Re_16:21seguía a Tibni...para hacerlo rey, yH4427
+- 1Re_16:25Omri...hizo peor que todos...antes de élH6213
+- 1Re_16:26el pecado con el cual hizo pecar a Israel
+- 1Re_16:27todo lo que hizo, y las valentías queH6213
+- 1Re_16:30hizo lo malo ante los ojos de JehováH6213
+- 1Re_16:32e hizo altar a Baal, en el templo deH6965
+- 1Re_16:33hizo también Acab una imagen de AseraH6213
+- 1Re_16:33haciendo así Acab más que todos losH6213
+- 1Re_17:5e hizo conforme a la palabra de JehováH6213
+- 1Re_17:13haz como has dicho; pero hazme a míH6213
+- 1Re_17:13después harás para ti y para tu hijoH6213
+- 1Re_17:14Jehová haga llover sobre la faz de la tierra
+- 1Re_17:15ella fue e hizo como le dijo EllasH6213
+- 1Re_17:18y para hacer morir a mi hijo?
+- 1Re_17:20haciéndole morir su hijo?
+- 1Re_17:21ruego que hagas volver el alma de este niño
+- 1Re_18:10él ha hecho jurar que no te han hallado
+- 1Re_18:13lo que hice, cuando Jezabel mataba aH6213
+- 1Re_18:26ellos...cerca del altar que habían hechoH6213
+- 1Re_18:32hizo una zanja alrededor del altar, enH6213
+- 1Re_18:34dijo: Hacedlo otra vez; y...lo hicieron
+- 1Re_18:34hacedlo la tercera vez; y lo hicieron
+- 1Re_18:36por mandato tuyo he hecho todas estasH6213
+- 1Re_19:1nueva de todo lo que Elías había hechoH6213
+- 1Re_19:2me hagan los dioses, y aun me añadan, siH6213
+- 1Re_19:9el cual le dijo: ¿Qué haces aquí, Elías?
+- 1Re_19:13voz, diciendo: ¿Qué haces aquí, Elías?
+- 1Re_19:18y yo haré que queden en Israel 7.000H7604
+- 1Re_19:20dijo: Vé, vuelve; ¿qué te he hecho yo?[[H6213]]
+- 1Re_20:8no le obedezcas, ni hagas lo que te pideH14
+- 1Re_20:9haré todo...mas esto no lo puedo hacerH6213
+- 1Re_20:10me hagan los dioses, y aun me añadanH6213
+- 1Re_20:22considera y mira lo que hagas; porqueH6213
+- 1Re_20:24haz, pues, así: Saca a los reyes cadaH6213
+- 1Re_20:25vencemos. Y él les dio oído, y lo hizoH6213
+- 1Re_20:33y él le hizo subir en un carro
+- 1Re_20:34haz plazas en...como mi padre las hizoH7760
+- 1Re_20:34hizo, pues, pacto con él y le dejó irH7760
+- 1Re_20:37le dio un golpe, y le hizo una heridaH6481
+- 1Re_21:11los...hicieron como Jezabel les mandóH6213
+- 1Re_21:20porque te has vendido a hacer lo maloH6213
+- 1Re_21:22y con que has hecho pecar a Israel
+- 1Re_21:25que se vendió para hacer lo malo ante
+- 1Re_21:26conforme a...que hicieron los amorreosH6213
+- 1Re_22:3nosotros no hemos hecho nada para tomarla
+- 1Re_22:11Sedequías...se había hecho unos cuernosH6213
+- 1Re_22:22le inducirás...vé, pues, y hazlo asíH6213
+- 1Re_22:39lo que hizo, y la casa de marfil queH6213
+- 1Re_22:43haciendo lo recto ante los...de JehováH6213
+- 1Re_22:44Josafat hizo paz con el rey de IsraelH7999
+- 1Re_22:45y sus hazañas, y las guerras que hizoH3898
+- 1Re_22:48Josafat había hecho naves de TarsisH6213
+- 1Re_22:52las cosas que había hecho su padreH6213
+- 2Re_2:9pide lo que quieras que haga por tiH6213
+- 2Re_2:10si me vieres...te será hecho así; mas si
+- 2Re_3:2las estatuas...que su padre había hechoH6213
+- 2Re_3:3hizo pecar a Israel, y no se apartó de ellos
+- 2Re_3:16haced en este valle muchos estanquesH6213
+- 2Re_4:2Eliseo le dijo: ¿Qué te haré yo?...Y ellaH6213
+- 2Re_4:10ruego que hagamos un pequeño aposentoH6213
+- 2Re_4:13tú has...¿qué quieres que haga por ti?[[H6213]]
+- 2Re_4:14él dijo: ¿Qué, pues, haremos por ella?[[H6213]]
+- 2Re_4:16no, señor...no hagas burla de tu siervaH3576
+- 2Re_4:24hizo enalbardar el asna, y dijo al criado
+- 2Re_4:38haz potaje para los hijos de...profetasH1310
+- 2Re_5:13mandara alguna gran cosa, no la harías?[[H6213]]
+- 2Re_5:18cuando haga tal, Jehová perdone en esto
+- 2Re_6:2y hagamos allí lugar en que habitemosH6213
+- 2Re_6:6lo echó allí; e hizo flotar el hierro
+- 2Re_6:10y así lo hizo...con el fin de cuidarse
+- 2Re_6:15le dijo: ¡ Ah, señor mío! ¿qué haremos?[[H6213]]
+- 2Re_6:31así me haga Dios, y aun me añada, si laH6213
+- 2Re_7:2,19Jehová hiciese...ventanas en el cieloH6213
+- 2Re_7:6Jehová había hecho que...oyese estruendo
+- 2Re_7:9no estamos haciendo bien. Hoy es día deH6213
+- 2Re_7:12os declararé lo que nos han hecho losH6213
+- 2Re_7:15volvieron...y lo hicieron saber al rey
+- 2Re_8:1a cuyo hijo él había hecho vivir
+- 2Re_8:2hizo como el varón de Dios le dijo; y seH6213
+- 2Re_8:4todas las maravillas que ha hecho EliseoH6213
+- 2Re_8:5cómo había hecho vivir a un muerto
+- 2Re_8:5este es su hijo, al cual Eliseo hizo vivir
+- 2Re_8:6hazle devolver todas las cosas que eran suyas
+- 2Re_8:11y estuvo así hasta hacerlo ruborizarse
+- 2Re_8:12el mal que harás a los hijos de IsraelH6213
+- 2Re_8:13perro, para que haga tan grandes cosas?[[H6213]]
+- 2Re_8:18anduvo en el...como hizo la casa de AcabH6213
+- 2Re_8:29las heridas que los sirios le hicieronH5221
+- 2Re_9:2haz que se levante de entre sus hermanosH6965
+- 2Re_9:15heridas que los sirios le habían hechoH5221
+- 2Re_10:5y haremos todo lo que nos mandes; noH6213
+- 2Re_10:5a ninguno; haz lo que bien te parezcaH4427
+- 2Re_10:10y que Jehová ha hecho lo que dijo porH6213
+- 2Re_10:15lo hizo subir consigo en el carro
+- 2Re_10:19hacía Jehú con astucia...exterminar aH6213
+- 2Re_10:24ellos entraron para hacer sacrificiosH6213
+- 2Re_10:25acabaron ellos de hacer el holocaustoH6213
+- 2Re_10:29que hizo pecar a Israel
+- 2Re_10:30por cuanto has hecho bien...e hicisteH2895
+- 2Re_10:31el que había hecho pecar a Israel
+- 2Re_10:34todo lo que hizo, y toda su valentíaH6213
+- 2Re_11:4hizo con ellos alianza, juramentándolosH3772
+- 2Re_11:5mandó...Esto es lo que habéis de hacerH6213
+- 2Re_11:9hicieron todo como el...Joiada les mandóH6213
+- 2Re_11:12le hicieron rey ungiéndole, y batiendoH4427
+- 2Re_11:17Joiada hizo pacto entre Jehová y elH3772
+- 2Re_12:9Joiada tomó un arca e hizo en la tapaH5344
+- 2Re_12:11el dinero...a los que hacían la obraH6213
+- 2Re_12:13dinero...no se hacen tablas de plata niH6213
+- 2Re_12:13ningún otro utensilio...se hacía para
+- 2Re_12:14lo daban a los que hacían la obra, yH6213
+- 2Re_12:15ellos lo diesen a los que hacían la obraH6213
+- 2Re_12:15obra; porque lo hacían ellos fielmenteH6213
+- 2Re_13:6Jeroboam, el que hizo pecar a Israel
+- 2Re_14:3hizo...las cosas que había hecho Joás suH6213
+- 2Re_14:21tomó a Azarías...y lo hicieron rey enH4427
+- 2Re_14:28lo que hizo...todas las guerras que hH6213
+- 2Re_15:3,34hizo lo recto ante...ojos de JehováH6213
+- 2Re_15:3cosas que su padre Amasías había hechoH6213
+- 2Re_15:9hizo lo malo...habían hecho sus padresH6213
+- 2Re_15:34hizo...que había hecho su padre UzíasH6213
+- 2Re_16:2no hizo lo recto ante...ojos de JehováH6213
+- 2Re_16:3hizo pasar por fuego a su hijo
+- 2Re_16:5subieron a Jerusalén para hacer guerra y
+- 2Re_16:11así lo hizo el sacerdote UríasH6213
+- 2Re_16:14hizo acercar el altar de bronce
+- 2Re_16:16hizo el sacerdote Urías conforme aH6213
+- 2Re_17:3Oseas fue hecho su siervo, y le pagabaH5650
+- 2Re_17:4no pagaba tributo...como lo hacía cada
+- 2Re_17:8los estatutos que hicieron los reyes deH6213
+- 2Re_17:9hicieron secretamente cosas no rectasH2644
+- 2Re_17:11hicieron cosas...para provocar a ira aH6213
+- 2Re_17:12dicho: Vosotros no habéis de hacer estoH6213
+- 2Re_17:15desecharon...pacto que él había hechoH3772
+- 2Re_17:15se hicieron vanos, y fueron en pos de
+- 2Re_17:15que no hiciesen a la manera de ellasH6213
+- 2Re_17:16se hicieron imágenes...de dos becerrosH6213
+- 2Re_17:17y se entregaron a hacer lo malo anteH6213
+- 2Re_17:19en los estatutos...habían ellos hechoH6213
+- 2Re_17:21hicieron rey a Jeroboam hijo de NabatH4427
+- 2Re_17:22los pecados de Jeroboam que él hizoH6213
+- 2Re_17:29cada nación se hizo sus dioses, y losH6213
+- 2Re_17:29lugares altos que habían hecho los deH6213
+- 2Re_17:30los de Babilonia hicieron a Sucot-benotH6213
+- 2Re_17:30de Cuta hicieron a Nergal...h a AsimaH6213
+- 2Re_17:31los aveos hicieron a Nibhaz y a TartacH6213
+- 2Re_17:32e hicieron del bajo pueblo sacerdotesH6213
+- 2Re_17:34hasta hoy hacen como antes: ni temenH6213
+- 2Re_17:34ni guardan sus...ni hacen según la leyH6213
+- 2Re_17:35con los cuales Jehová había hecho pactoH3772
+- 2Re_17:35serviréis, ni les haréis sacrificiosH2076
+- 2Re_17:36a Jehová...y a éste haréis sacrificioH2076
+- 2Re_17:38no olvidaréis el pacto que hice conH3772
+- 2Re_17:40hicieron según su costumbre antiguaH6213
+- 2Re_17:41como hicieron sus padres, así hacenH6213
+- 2Re_18:3hizo...las cosas que había hecho DavidH6213
+- 2Re_18:4hizo pedazos la serpiente de bronce queH3807
+- 2Re_18:4la serpiente de...que había hecho MoisésH6213
+- 2Re_18:14haré todo lo que me impongas. Y el reyH5375
+- 2Re_18:30no os haga Ezequías confiar en JehováH982
+- 2Re_18:31haced conmigo paz, y salid a mí, yH6213
+- 2Re_19:7y haré que en su tierra caiga a espada
+- 2Re_19:9que...había salido para hacerle guerraH3898
+- 2Re_19:11lo que han hecho los reyes de AsiriaH6213
+- 2Re_19:15Dios...tú hiciste el cielo y la tierraH6213
+- 2Re_19:25que desde tiempos antiguos yo lo hiceH6213
+- 2Re_19:25tú serás para hacer desolaciones, paraH6213
+- 2Re_19:28te haré volver por el camino por donde
+- 2Re_19:31celo de Jehová de los ejércitos haráH6213
+- 2Re_20:3te ruego que hagas memoria de que heH2142
+- 2Re_20:3que he hecho las cosas que te agradanH6213
+- 2Re_20:9señal...de que hará Jehová esto que haH6213
+- 2Re_20:11hizo volver la sombra por los grados
+- 2Re_20:20y cómo hizo el estanque y el conductoH6213
+- 2Re_21:3hizo una imagen...como había hecho AcabH6965
+- 2Re_21:6multiplicando así el hacer lo malo anteH6213
+- 2Re_21:7una imagen de Asera que él había hechoH6213
+- 2Re_21:8no volveré a hacer que el pie de Israel
+- 2Re_21:8que guarden y hagan...las cosas que yoH6213
+- 2Re_21:9los indujo a que hiciesen más mal queH6213
+- 2Re_21:11Manasés...ha hecho estas abominacionesH6213
+- 2Re_21:11hecho más mal...hicieron los amorreosH7489
+- 2Re_21:15por cuanto han hecho lo malo ante misH6213
+- 2Re_21:16hizo pecar a Judá...que hiciese lo maloH6213
+- 2Re_21:17de Manasés...lo que hizo,y el pecadoH6213
+- 2Re_21:20hizo lo malo...hecho Manasés su padreH6213
+- 2Re_22:5lo pongan en manos de los que hacen laH6213
+- 2Re_22:5lo entreguen a los que hacen la obraH6213
+- 2Re_22:9en poder de los que hacen la obra, queH6213
+- 2Re_22:13hacer conforme a...que nos fue escritoH6213
+- 2Re_23:3el rey...hizo pacto delante de JehováH3772
+- 2Re_23:4los utensilios...sido hechos para BaalH6213
+- 2Re_23:6hizo también sacar la imagen de Asera
+- 2Re_23:8hizo venir todos los sacerdotes de las
+- 2Re_23:12altares...que los reyes...habían hechoH6213
+- 2Re_23:12y los altares que había hecho ManasésH6213
+- 2Re_23:15el lugar alto que había hecho JeroboamH6213
+- 2Re_23:15altar...lo hizo polvo,y puso fuego aH1854
+- 2Re_23:17profetizó estas cosas que tú has hechoH6213
+- 2Re_23:19las cuales habían hecho los reyes deH6213
+- 2Re_23:19hizo de ellas...había hecho en Bet-elH6213
+- 2Re_23:21haced la pascua a Jehová vuestro DiosH6213
+- 2Re_23:22no había sido hecha tal pascua desdeH6213
+- 2Re_23:23fue hecha aquella pascua a Jehová enH6213
+- 2Re_23:32,37cosas que sus padres habían hechoH6213
+- 2Re_23:35hizo avaluar la tierra para dar el dinero
+- 2Re_24:3los pecados de Manasés...lo que él hizoH6213
+- 2Re_24:9todas las cosas que había hecho su padreH6213
+- 2Re_24:13utensilios...que había hecho SalomónH6213
+- 2Re_24:16los valientes para hacer la guerraH6213
+- 2Re_24:19hizo lo malo ante los ojos de JehováH6213
+- 2Re_24:19lo que había hecho JoacimH6213
+- 2Re_25:16basas que Salomón había hecho para laH6213
+- 2Re_25:24Gedalías les hizo juramento a ellos yH7650
+- 1Cr_5:10hicieron guerra contra los agarenosH6213
+- 1Cr_6:49y hacían las expiaciones por IsraelH3772
+- 1Cr_7:22Efraín su padre hizo duelo por muchosH56
+- 1Cr_9:30algunos...sacerdotes hacían los perfumesH7543
+- 1Cr_9:31a su cargo las cosas que se hacían enH4639
+- 1Cr_10:4que vengan estos...y hagan escarnio de míH5953
+- 1Cr_10:11que los filisteos habían hecho de SaúlH6213
+- 1Cr_11:3David hizo con ellos pacto delante deH3772
+- 1Cr_11:6Joab hijo de Sarvia...y fue hecho jefeH7218
+- 1Cr_11:10le ayudaron...hacerle rey sobre IsraelH4427
+- 1Cr_11:19guárdeme mi Dios de hacer esto...beberH6213
+- 1Cr_11:19esto hicieron aquellos tres valientesH6213
+- 1Cr_11:24esto hizo Benaía hijo de Joiada, y fueH6213
+- 1Cr_12:15hicieron huir a todos los de los valles
+- 1Cr_12:22hasta hacerse un gran ejército, como
+- 1Cr_12:32que sabían lo que Israel debía hacerH6213
+- 1Cr_13:3el arca de...no hemos hecho caso de ellaH1875
+- 1Cr_13:4y dijo toda la asamblea que se hicieseH6213
+- 1Cr_14:16hizo, pues, David como Dios le mandóH6213
+- 1Cr_15:1hizo David también casas para sí en laH6213
+- 1Cr_15:13por no haberlo hecho así vosotros la
+- 1Cr_16:12haced memoria de las...que ha hecho, deH6213
+- 1Cr_16:15hace memoria de su pacto perpetuamente
+- 1Cr_16:16hizo...Urías conforme a todas las cosasH3772
+- 1Cr_16:22ni hagáis mal a mis profetas
+- 1Cr_16:26son ídolos, mas Jehová hizo los CielosH6213
+- 1Cr_17:2dijo a David: Haz todo lo que está en tuH6213
+- 1Cr_17:8te haré gran nombre, como el nombreH6213
+- 1Cr_17:10hago saber...Jehová te edificará casa
+- 1Cr_17:19por amor de tu siervo...has hecho todaH6213
+- 1Cr_17:19para hacer notorias todas tus grandezasH6213
+- 1Cr_17:21para hacerte nombre con grandezas yH7760
+- 1Cr_17:23palabra...sea firme...haz como has dichoH6213
+- 1Cr_18:6los sirios fueron hechos siervos de DavidH1732
+- 1Cr_18:8bronce, con el que Salomón hizo el marH6213
+- 1Cr_19:6que se habían hecho odiosos a DavidH887
+- 1Cr_19:13y haga Jehová lo que bien le parezcaH6213
+- 1Cr_20:3mismo hizo David a todas las ciudadesH6213
+- 1Cr_21:1incitó...a que hiciese censo de IsraelH4487
+- 1Cr_21:2haced censo de Israel desde BeersebaH5608
+- 1Cr_21:8he pecado gravemente al hacer esto; teH6213
+- 1Cr_21:8siervo, porque he hecho muy locamenteH5528
+- 1Cr_21:10escoge de ellas...que yo haga contigoH6213
+- 1Cr_21:12el ángel de Jehová haga destrucción enH7843
+- 1Cr_21:17he hecho mal, pero estas...¿qué han h?[[H7489]]
+- 1Cr_21:23haga mi señor el rey lo que bien leH6213
+- 1Cr_21:29el tabernáculo...que Moisés había hechoH6213
+- 1Cr_22:5antes de su muerte hizo preparativosH3559
+- 1Cr_22:8has hecho grandes guerras; no edificarásH6213
+- 1Cr_23:1hizo a Salomón su hijo rey sobre IsraelH4427
+- 1Cr_23:5con los instrumentos que he hecho paraH6213
+- 1Cr_23:27hizo la cuenta de los hijos de LevíH4557
+- 1Cr_26:12entre éstos se hizo la distribución de
+- 1Cr_28:10que edifiques casa...esfuérzate, y hazloH6213
+- 1Cr_28:19me hizo entender todas las obras del diseño
+- 1Cr_29:5¿y quién quiere hacer hoy ofrendaH3027
+- 1Cr_29:12y en tu mano el hacer grande y el dar
+- 1Cr_29:19haga todas las cosas, y te edifique laH6213
+- 1Cr_29:19para la cual yo he hecho preparativosH3359
+- 2Cr_1:3Moisés...había hecho en el desiertoH6213
+- 2Cr_1:5altar...que había hecho Bezaleel hijo deH6213
+- 2Cr_2:3haz conmigo como hiciste con David miH6213
+- 2Cr_2:12que hizo los cielos y la tierra, y queH6213
+- 2Cr_2:16tú la harás llevar hasta Jerusalén
+- 2Cr_2:18capataces para hacer trabajar al pueblo
+- 2Cr_3:5hizo realzar en ella palmeras y cadenasH5927
+- 2Cr_3:8hizo asimismo el lugar santísimo, cuyaH6213
+- 2Cr_3:10dentro...hizo dos querubines de maderaH6213
+- 2Cr_3:14hizo también el velo de azul, púrpuraH6213
+- 2Cr_3:15delante de la casa hizo dos columnasH6213
+- 2Cr_3:16hizo...cadenas en el...e h cien granadasH6213
+- 2Cr_4:1hizo...un altar de bronce de veinte codosH6213
+- 2Cr_4:2hizo un mar de fundición, el cual teníaH6213
+- 2Cr_4:6hizo también diez fuentes, y puso cincoH6213
+- 2Cr_4:7hizo...diez candeleros de oro según suH6213
+- 2Cr_4:8igualmente hizo cien tazones de oroH6213
+- 2Cr_4:9hizo el atrio de los sacerdotes, y elH6213
+- 2Cr_4:11Hiram también hizo calderos, y palas, yH6213
+- 2Cr_4:11y acabó Hiram la obra que hacía al reyH6213
+- 2Cr_4:14hizo...basas, sobre las cuales colocó lasH6213
+- 2Cr_4:16bronce muy fino hizo todos sus enseresH6213
+- 2Cr_4:18Salomón hizo...estos enseres en númeroH6213
+- 2Cr_4:19hizo...utensilios para la casa de DiosH6213
+- 2Cr_4:21las flores...y tenazas se hicieron de oro
+- 2Cr_5:1acabada toda la obra que hizo SalomónH6213
+- 2Cr_5:9hicieron salir las barras
+- 2Cr_5:10las dos tablas...Jehová había hecho pactoH3772
+- 2Cr_6:8bien has hecho en haber tenido esto enH2895
+- 2Cr_6:13Salomón...hecho un estrado de bronce deH6213
+- 2Cr_6:21cuando en este lugar hicieren oraciónH6419
+- 2Cr_6:23haciendo recaer su proceder sobre su cabeza
+- 2Cr_6:25les harás volver a la tierra que diste
+- 2Cr_6:29todo ruego que hiciere cualquier hombreH120
+- 2Cr_6:33tú oirás...y harás conforme a todas lasH6213
+- 2Cr_6:37hecho inicuamente, impíamente hemos hH5753
+- 2Cr_7:6instrumentos...había hecho el rey DavidH6213
+- 2Cr_7:7en el altar de...que Salomón había hechoH6213
+- 2Cr_7:8entonces hizo Salomón fiesta siete díasH6213
+- 2Cr_7:9al octavo día hicieron solemne asambleaH6213
+- 2Cr_7:9habían hecho la dedicación del altar enH6213
+- 2Cr_7:10los beneficios que Jehová había hechoH6213
+- 2Cr_7:11todo lo que Salomón se propuso hacer enH6213
+- 2Cr_7:17hicieres...las cosas que yo te he mandadoH6213
+- 2Cr_7:21qué ha hecho así Jehová a esta tierraH6213
+- 2Cr_8:8los hijos de...hizo Salomón tributarios
+- 2Cr_9:8por rey...para que hagas juicio y justiciaH6213
+- 2Cr_9:11la madera de sándalo el rey hizo gradasH6213
+- 2Cr_9:15hizo...el rey Salomón 200 paveses de oroH6213
+- 2Cr_9:17hizo...el rey un gran trono de marfilH6213
+- 2Cr_9:19jamás fue hecho trono semejante en reinoH6213
+- 2Cr_10:1había reunido...Israel para hacerlo reyH4427
+- 2Cr_10:14padre hizo pesado vuestro yugo, pero yoH3513
+- 2Cr_11:1y hacer volver el reino a Roboam
+- 2Cr_11:4no subáis, ni...porque yo he hecho estoH1961
+- 2Cr_11:15para los becerros que él había hechoH6213
+- 2Cr_11:22a Abías hijo de...quería hacerle reyH4427
+- 2Cr_12:9escudos de oro que Salomón había hechoH6213
+- 2Cr_12:10hizo el rey Roboam escudos de bronceH6213
+- 2Cr_12:14e hizo lo malo, porque no dispuso suH6213
+- 2Cr_13:8los becerros de oro que Jeroboam os hizoH6213
+- 2Cr_13:13pero Jeroboam hizo tender una emboscada
+- 2Cr_13:17hicieron en ellos una gran matanzaH6213
+- 2Cr_13:21pero Abías se hizo más poderoso. TomóH2388
+- 2Cr_14:2hizo Asa lo bueno...los ojos de JehováH6213
+- 2Cr_15:16había hecho una imagen de Asera: y AsaH6213
+- 2Cr_16:9locamente has hecho en esto; porque deH5528
+- 2Cr_16:14en los sepulcros que él había hechoH3738
+- 2Cr_16:14e hicieron un gran fuego en su honorH8313
+- 2Cr_17:1Josafat...se hizo fuerte contra IsraelH2388
+- 2Cr_17:10no osaron hacer guerra contra JosafatH3898
+- 2Cr_18:8haz venir luego a Micaías hijo de Imla
+- 2Cr_18:10Sedequías...se había hecho cuernos deH6213
+- 2Cr_18:21tú le inducirás, y...anda, y hazlo asíH6213
+- 2Cr_19:6dijo a los jueces: Mirad lo que hacéisH6213
+- 2Cr_19:7mirad lo que hacéis porque con JehováH6213
+- 2Cr_19:10no pequen...Haciendo así, no pecaréisH6213
+- 2Cr_19:11esforzaos...hacerlo, Jehová estará conH6213
+- 2Cr_20:3e hizo pregonar ayuno a todo Judá
+- 2Cr_20:12contra nosotros; no sabemos qué hacerH6213
+- 2Cr_20:32haciendo lo recto ante los...de JehováH6213
+- 2Cr_20:34del cual se hace mención en el libro deH5927
+- 2Cr_20:36e hizo con él compañía para construirH6213
+- 2Cr_20:37cuanto has hecho compañía con OcozíasH2266
+- 2Cr_21:4luego que se hizo fuerte, mató a espadaH2388
+- 2Cr_21:6anduvo en el...como hizo la casa de AcabH6213
+- 2Cr_21:6; 22:4; 33:2,22; 36:5,9,12hizo lo malo ante los ojos de JehováH6213
+- 2Cr_21:7a causa del pacto que había hecho conH3772
+- 2Cr_21:11hizo lugares altos en los montes deH6213
+- 2Cr_21:11e hizo que los...fornicasen tras ellos
+- 2Cr_21:13y has hecho que fornicase Judá y los
+- 2Cr_21:19no...como lo habían hecho con sus padresH6213
+- 2Cr_22:1hicieron rey en lugar de Joram...su hijoH4427
+- 2Cr_22:4hizo, pues, lo malo ante los ojos de JehováH6213
+- 2Cr_22:6las heridas que le habían hecho en RamotH5221
+- 2Cr_22:8haciendo juicio Jehú contra la casa deH8199
+- 2Cr_23:3toda la multitud hizo pacto con el reyH3772
+- 2Cr_23:4ahora haced esto: una tercera parte deH6213
+- 2Cr_23:6y todo el pueblo hará guardia delanteH8104
+- 2Cr_23:8hicieron todo como lo había mandado elH6213
+- 2Cr_23:16Joiada hizo pacto entre sí y todo elH3772
+- 2Cr_23:17de Baal...hicieron pedazos sus imágenesH5422
+- 2Cr_24:2; 25:2; 26:4; 27:2; 29:2; 34:2hizo lo recto ante los ojos de JehováH6213
+- 2Cr_24:8mandó...el rey que hiciesen un arca, laH6213
+- 2Cr_24:9hicieron pregonar en Judá y en JerusalénH5414
+- 2Cr_24:11así lo hacían de día en día, y recogíanH6213
+- 2Cr_24:12lo daban a los que hacían el trabajoH6213
+- 2Cr_24:13hacían, pues, los artesanos la obra, yH6213
+- 2Cr_24:14hicieron de él utensilios para la casaH6213
+- 2Cr_24:16por cuanto había hecho bien con IsraelH6213
+- 2Cr_24:21ellos hicieron conspiración contra élH7194
+- 2Cr_24:22misericordia que Joiada...había hechoH6213
+- 2Cr_24:27multiplicación que hizo de las rentas
+- 2Cr_25:8así, si lo haces, y te esfuerzas paraH6213
+- 2Cr_25:9¿qué...se hará de los cien talentos queH6213
+- 2Cr_25:12los despeñaron...se hicieron pedazosH1234
+- 2Cr_25:16destruirte, porque has hecho esto, yH6213
+- 2Cr_26:4cosas que había hecho Amasías su padreH6213
+- 2Cr_26:8porque se había hecho altamente poderosoH2388
+- 2Cr_26:11con la lista hecha por mano de Jeiel
+- 2Cr_26:15hizo en Jerusalén máquinas inventadasH6213
+- 2Cr_26:15fue ayudado...hasta hacerse poderosoH2388
+- 2Cr_26:20hicieron salir apresuradamente de aquel lugar
+- 2Cr_27:2conforme a...había hecho Uzías su padreH6213
+- 2Cr_27:6Jotam se hizo fuerte, porque preparó susH2388
+- 2Cr_28:1Acaz...no hizo lo recto ante...de JehováH6213
+- 2Cr_28:2hizo imágenes fundidas a los baalesH6213
+- 2Cr_28:3hizo pasar a sus hijos por fuego
+- 2Cr_28:24Acaz...se hizo altares en Jerusalén enH6213
+- 2Cr_28:25hizo...lugares altos en...las ciudadesH6213
+- 2Cr_29:2las cosas que había hecho David su padreH6213
+- 2Cr_29:4hizo venir a los sacerdotes y levitas
+- 2Cr_29:6han hecho lo malo ante los...de JehováH6213
+- 2Cr_29:10he determinado hacer pacto con...DiosH3772
+- 2Cr_29:23hicieron acercar delante del rey y de
+- 2Cr_29:24e hicieron ofrenda de expiación conH2398
+- 2Cr_29:24mandó el rey hacer el holocausto y laH3722
+- 2Cr_29:36porque la cosa fue hecha rápidamente
+- 2Cr_30:5determinaron hacer pasar pregón por todo
+- 2Cr_31:1hechas todas estas cosas, todos los deH3615
+- 2Cr_31:20de esta manera hizo Ezequías en todoH6213
+- 2Cr_31:21todo cuanto...lo hizo de todo corazónH6213
+- 2Cr_32:5también hizo muchas espadas y escudosH6213
+- 2Cr_32:6los hizo reunir en la plaza de la puerta
+- 2Cr_32:13lo que yo y mis padres hemos hecho aH6213
+- 2Cr_32:25al bien que le había sido hecho, sino
+- 2Cr_32:28hizo depósitos para las rentas del
+- 2Cr_32:30fue prosperado...en todo lo que hizoH4639
+- 2Cr_32:31hacer conocer todo lo que estaba en su
+- 2Cr_33:2hizo lo malo ante los ojos de JehováH6213
+- 2Cr_33:3hizo imágenes de Asera, y adoró a todoH6213
+- 2Cr_33:6excedió en hacer lo malo ante los ojosH6213
+- 2Cr_33:7puso una imagen fundida que hizo, en laH6213
+- 2Cr_33:8guarden y hagan todas las cosas que yoH6213
+- 2Cr_33:9Manasés...hizo extraviarse a Judá y a
+- 2Cr_33:9para hacer más mal que las naciones queH6213
+- 2Cr_33:17aunque lo hacía para Jehová su Dios
+- 2Cr_33:22lo malo...había hecho Manasés su padreH6213
+- 2Cr_33:22los ídolos que su padre...había hechoH6213
+- 2Cr_34:2hizo lo recto ante los ojos de JehováH6213
+- 2Cr_34:4hizo pedazos las imágenes del sol, queH7665
+- 2Cr_34:6mismo hizo en las ciudades de...Efraín
+- 2Cr_34:10en mano de los que hacían la obra, queH6213
+- 2Cr_34:10lo daban a los que hacían la obra yH6213
+- 2Cr_34:17y en mano de los que hacen la obraH6213
+- 2Cr_34:21hacer conforme...lo que está escritoH6213
+- 2Cr_34:31el rey...hizo delante de Jehová pactoH3772
+- 2Cr_34:32hizo que se obligaran a ello todos los
+- 2Cr_34:32hicieron conforme al pacto de DiosH6213
+- 2Cr_34:33hizo que todos los...sirviesen a Jehová
+- 2Cr_35:6hacían conforme a la palabra de JehováH6213
+- 2Cr_35:20Necao rey de...subió para hacer guerraH3898
+- 2Cr_35:21contra la casa que me hace guerra; y
+- 2Cr_35:24todo Judá...hicieron duelo por JosíasH56
+- 2Cr_36:1el pueblo...tomó a Joacaz...lo hizo reyH4427
+- 2Cr_36:5hizo lo malo ante los ojos de Jehová su DiosH6213
+- 2Cr_36:8de Joacim, y las abominaciones que hizoH6213
+- 2Cr_36:9hizo lo malo ante los ojos de JehováH6213
+- 2Cr_36:10envió y lo hizo llevar a Babilonia
+- 2Cr_36:16hacían escarnio de los mensajeros deH3931
+- 2Cr_36:22hizo pregonar de palabra y también por
+- Esd_1:1hizo pregonar de palabra y también
+- Esd_1:11los hizo llevar Sesbasar
+- Esd_2:68hicieron ofrendas voluntarias paraH5068
+- Esd_3:9para activar a los que hacían la obra enH6213
+- Esd_4:2y a él ofrecemos...que nos hizo venir aquí
+- Esd_4:10hizo habitar en las ciudades de SamariaH3488
+- Esd_4:14hemos enviado a hacerlo saber al rey
+- Esd_4:16hacemos saber al rey...la región...no será tuya
+- Esd_5:4nombres de los...que hacen este edificio?[[H1124]]
+- Esd_5:5y no les hicieron cesar
+- Esd_5:8la obra se hace de prisa, y prospera enH5648
+- Esd_5:10preguntamos sus nombres para hacértelo saber
+- Esd_6:7dejad que se haga la obra de esa casa deH5673
+- Esd_6:8es dada orden de lo que habéis de hacerH5648
+- Esd_6:11su casa sea hecha muladar por estoH5648
+- Esd_6:12el Dios que hizo habitar allí su nombre
+- Esd_6:13hicieron...el rey Darío había ordenadoH5648
+- Esd_6:16hicieron la dedicación de esta casa deH5648
+- Esd_7:18os parezca hacer de la...plata...hacedloH5648
+- Esd_7:23lo que es mandado por el Dios...sea hechoH5648
+- Esd_7:24os hacemos saber...los sacerdotes y levitas
+- Esd_9:1y hacen conforme a sus abominaciones
+- Esd_9:8para hacer que nos quedase un remanenteH5414
+- Esd_10:1mientras...hacía confesión, llorando yH3034
+- Esd_10:3hagamos pacto...hágase conforme a la leyH3772
+- Esd_10:5juramentó...que harían conforme a estoH6213
+- Esd_10:7hicieron pregonar en Judá y en Jerusalén
+- Esd_10:11gloria a Jehová...y haced su voluntadH6213
+- Esd_10:12voz: Así se haga conforme a tu palabraH6213
+- Esd_10:16así hicieron los hijos del cautiverioH6213
+- Neh_1:4hice duelo por algunos días, y ayunéH56
+- Neh_1:6la oración...que hago ahora delante de tiH6419
+- Neh_1:9escogí para hacer habitar allí mi nombreH7931
+- Neh_2:12había puesto en mi corazón que hicieseH6213
+- Neh_2:16no sabían los oficiales...que había hechoH6213
+- Neh_2:16ni...ni a los demás que hacían la obraH6213
+- Neh_2:19Tobías...hicieron escarnio de nosotrosH3932
+- Neh_2:19¿qué es esto que hacéis vosotros? ¿OsH6213
+- Neh_4:1oyó Sanbalat...hizo escarnio de los judíos
+- Neh_4:2¿qué hacen estos débiles judíos? ¿Se lesH6213
+- Neh_4:8conspiraron...para venir...y hacerle dañoH6213
+- Neh_4:11y hagamos cesar la obra
+- Neh_5:9no es bueno lo que hacéis. ¿No andaréisH6213
+- Neh_5:12devolveremos...haremos así como tú dicesH6213
+- Neh_5:12les hice jurar que harían conforme aH6213
+- Neh_5:13así...y el pueblo hizo conforme a estoH6213
+- Neh_5:15no hice así, a causa del temor de DiosH6213
+- Neh_5:19y de todo lo que hice por este puebloH6213
+- Neh_6:2mas ellos habían pensado hacerme malH6213
+- Neh_6:3yo hago una gran obra, y no puedo irH6213
+- Neh_6:13fue sobornado para hacerme temer así
+- Neh_6:14conforme a estas cosas que hicieronH4639
+- Neh_6:16Dios había sido hecha esta obra
+- Neh_8:4un púlpito de...que había hecho para elloH6213
+- Neh_8:7hacían entender al pueblo la ley
+- Neh_8:9y los levitas que hacían entender al pueblo
+- Neh_8:11hacían callar a todo el pueblo, diciendo
+- Neh_8:15y traed ramas...para hacer tabernáculosH6213
+- Neh_8:16hicieron tabernáculos, cada uno sobreH6213
+- Neh_8:17toda la congregación...hizo tabernáculosH6213
+- Neh_8:17no habían hecho así los hijos de IsraelH6213
+- Neh_8:18e hicieron la fiesta...por siete díasH6213
+- Neh_9:6tú hiciste los cielos, y los cielos deH6213
+- Neh_9:8e hiciste con él pacto para darle laH3772
+- Neh_9:10hiciste señales...contra Faraón, contraH5414
+- Neh_9:10te hiciste nombre grande, como en esteH6213
+- Neh_9:17maravillas que habías hecho con ellosH6213
+- Neh_9:18hicieron para sí becerro de fundiciónH6213
+- Neh_9:24que hiciesen de ellos como quisieranH6213
+- Neh_9:25heredaron casas...cisternas hechas, viñasH2672
+- Neh_9:26a ti, e hicieron grandes abominacionesH6213
+- Neh_9:28volvían a hacer lo malo delante de tiH6213
+- Neh_9:29si el hombre hiciere, en ellos viviráH6213
+- Neh_9:33rectamente has hecho...hemos h lo maloH6213
+- Neh_9:38hacemos fiel promesa, y la escribimosH3772
+- Neh_11:12los que hacían la obra de la casa, 822H6213
+- Neh_12:27para hacer la dedicación y la fiestaH6213
+- Neh_12:31Hice luego subir a los príncipes de Judá
+- Neh_13:5le había hecho una gran cámara, en laH6213
+- Neh_13:7supe del mal que había hecho EliasibH6213
+- Neh_13:7haciendo para él una cámara en losH6213
+- Neh_13:9hice volver allí los utensilios
+- Neh_13:10los levitas...que hacían el servicioH6213
+- Neh_13:14no borres mis misericordias que hiceH6213
+- Neh_13:17¿qué mala cosa es...hacéis, profanandoH6213
+- Neh_13:18¿no hicieron así vuestros padres, yH6213
+- Neh_13:21si lo hacéis otra vez, os echaré manoH8138
+- Neh_13:25les arranqué los cabellos, y les hice jurar
+- Neh_13:26a él le hicieron pecar las mujeres extranjeras
+- Est_1:3en el tercer año de su...hizo banqueteH6213
+- Est_1:5hizo el rey otro banquete por 7 días enH6213
+- Est_1:8se hiciese según la voluntad de cada unoH6213
+- Est_1:9Vasti hizo banquete para las mujeres, enH6213
+- Est_1:15se había de hacer con la reina VastiH6213
+- Est_1:19el rey haga reina a otra que sea mejorH5414
+- Est_1:21e hizo el rey conforme al...de MemucánH6213
+- Est_2:1de Vasti y de lo que ella había hechoH6213
+- Est_2:4esto agradó a...ojos del rey, y lo hizoH6213
+- Est_2:6hizo transportar Nabucodonosor rey de
+- Est_2:9hizo darle prontamente atavíos y alimentos
+- Est_2:17y la hizo reina en lugar de Vasti
+- Est_2:18hizo luego el rey un gran banquete aH6213
+- Est_2:18e hizo y dio mercedes conforme a laH6213
+- Est_2:20Ester hacía lo que decía Mardoqueo, comoH6213
+- Est_2:23se hizo investigación del asunto, y fueH1245
+- Est_3:11que hagas de él lo que bien te pareciereH6213
+- Est_4:1supo Mardoqueo todo lo que se había hechoH6213
+- Est_4:4hacer vestir a Mardoqueo, y hacerle quitar el
+- Est_4:17Mardoqueo...hizo...lo que le mandó EsterH6213
+- Est_5:5prisa...para hacer lo que Ester ha dichoH6213
+- Est_5:8haré conforme a lo que el rey ha mandadoH6213
+- Est_5:12hizo venir con el rey al banquete
+- Est_5:14hagan una horca de 50 codos de alturaH6213
+- Est_6:3qué distinción se hizo a Mardoqueo porH6213
+- Est_6:3respondieron los...Nada se ha hecho con élH6213
+- Est_6:4al rey para que hiciese colgar a Mardoqueo
+- Est_6:6,9,11se hará al hombre cuya honra deseaH6213
+- Est_6:10hazlo así con el judío Mardoqueo, queH6213
+- Est_7:5que ha ensoberbecido...para hacer esto?[[H6213]]
+- Est_7:9la horca...que hizo Amán para MardoqueoH6213
+- Est_7:10que él había hecho preparar para Mardoqueo
+- Est_8:3rogándole que hiciese nula la maldad deH5674
+- Est_8:17muchos de...los pueblos se hacían judíosH3054
+- Est_9:5hicieron con sus enemigos como quisieronH6213
+- Est_9:12¿qué habrán hecho en...provincias del rey?[[H6213]]
+- Est_9:12¿o qué más es tu demanda? y será hechaH6213
+- Est_9:13que hagan conforme a la ley de hoy; yH6213
+- Est_9:14y mandó el rey que se hiciese así. SeH6213
+- Est_9:17,18y lo hicieron día de banquete y deH6213
+- Est_9:19hacen a los 14 del mes de Adar el día deH6213
+- Est_9:22que los hiciesen días de banquete y deH6213
+- Est_9:23los judíos aceptaron hacer...les escribióH6213
+- Job_1:4iban sus hijos y hacían banquetes enH6213
+- Job_1:5Job...de esta manera hacía todos los díasH6213
+- Job_1:17los caldeos hicieron tres escuadronesH7760
+- Job_3:5sobre él nublado que lo hacía horrible
+- Job_4:15hizo que se erizara el pelo de mi cuerpoH5568
+- Job_4:17el varón más limpio que el que lo hizo?[[H6213]]
+- Job_5:9cual hace cosas grandes e inescrutablesH6213
+- Job_5:12que frustra...que sus manos no hagan nadaH6213
+- Job_5:18porque él es quien hace la llaga, y élH3510
+- Job_6:24hacedme entender en qué he erradoH995
+- Job_7:20¿qué puedo hacerte a ti, oh Guarda deH6466
+- Job_8:6hará próspera la morada de tu justicia
+- Job_9:6y hace temblar sus columnas
+- Job_9:9él hizo la Osa, el Orión y las PléyadesH6213
+- Job_9:10hace cosas grandes e incomprensiblesH6213
+- Job_9:12he aquí...¿Quién le dirá: ¿Qué haces?[[H6213]]
+- Job_9:20si me dijere perfecto, esto me haría inicuo
+- Job_9:21si fuese íntegro, no haría caso de mí mismo
+- Job_10:2hazme entender por qué contiendes conmigo
+- Job_10:8tus manos me hicieron y me formaron; ¿yH6087
+- Job_10:16tú...vuelves a hacer en mí maravillasH6381
+- Job_11:3¿harán tus falacias callar a los hombres?
+- Job_11:3¿harás escarnio y no habrá quien te averguence?
+- Job_11:8es más alta que los cielos; ¿qué harás?[[H6466]]
+- Job_11:11ve asimismo la iniquidad, ¿y no hará caso?
+- Job_11:12el hombre vano se hará entendido
+- Job_12:9no entiende...la mano de Jehová la hizo?[[H6213]]
+- Job_12:16suyo es el que yerra, y el que hace errar
+- Job_12:17el hace andar despojados de consejo
+- Job_12:24los hace vagar como por un yermo sin camino
+- Job_12:25Y los hace errar como borrachos
+- Job_13:8¿haréis acepción de personas a su favor?
+- Job_13:10si solapadamente hacéis acepción de
+- Job_13:20a lo menos dos cosas no hagas conmigoH6213
+- Job_13:23hazme entender mi transgresión y miH3045
+- Job_13:26y me haces cargo de los pecados de miH3423
+- Job_14:4¿quién hará limpio a lo inmundo? NadieH5414
+- Job_14:9el agua...y hará copa como planta nuevaH6213
+- Job_14:19hace...perecer la esperanza fiel hombre
+- Job_15:27su rostro, e hizo pliegues...sus ijaresH6213
+- Job_16:11y en las manos de los impíos me hizo caer
+- Job_17:13el Seol...haré mi cama en las tinieblasH7502
+- Job_18:11y le harán huir desconcertado
+- Job_19:10ha hecho pasar mi esperanza como árbol
+- Job_19:11hizo arder contra mí su furor
+- Job_19:13hizo alejar de mí a mis hermanos
+- Job_20:2por cierto mis pensamientos me hacen responder
+- Job_20:3me hace responder el espíritu de mi inteligencia
+- Job_20:23y la hará llover sobre él y sobre su comida
+- Job_21:31de lo que él hizo, ¿quién le dará elH6213
+- Job_22:3provecho de que tú hagas perfectos tusH8552
+- Job_22:17¿y qué les había hecho el Omnipotente?[[H6466]]
+- Job_23:13él determina...¿quién lo hará cambiar?
+- Job_23:13si él determina...su alma deseó, e hizoH6213
+- Job_24:4hacen apartar del camino a los menesterosos
+- Job_24:7al desnudo hacen dormir sin ropa
+- Job_24:10al desnudo hacen andar sin vestido
+- Job_24:21afligió, y a la viuda nunca hizo bien
+- Job_25:2están con él; él hace paz en sus alturasH6213
+- Job_27:12¿por qué, pues, os habéis hecho...vanos?
+- Job_27:18casa...como enramada que hizo el guardaH6213
+- Job_27:22sobre él...hará él por huir de su mano
+- Job_28:11hizo salir a luz lo escondido
+- Job_28:18no se hará mención de coral...perlasH2142
+- Job_29:3cuando hacía resplandecer sobre mi cabeza
+- Job_29:7y en la plaza hacía preparar mi asiento
+- Job_29:17de sus dientes hacía soltar la presa
+- Job_30:22me hiciste cabalgar en él, y disolviste
+- Job_31:1hice pacto con mis ojos; ¿cómo, puesH3772
+- Job_31:3extrañamiento para...hacen iniquidad?[[H6466]]
+- Job_31:14haría yo cuando Dios se levantase?[[H6213]]
+- Job_31:15el que...me hizo a mí, ¿no lo h a él?[[H6213]]
+- Job_31:16hice desfallecer los ojos de la viuda
+- Job_32:8y el soplo del...le hace que entiendaH995
+- Job_32:21no haré ahora acepción de personas
+- Job_33:4Espíritu de Dios me hizo, y el soploH6213
+- Job_33:20le hace que su vida aborrezca el pan
+- Job_33:29estas cosas hace...dos y tres veces conH6466
+- Job_34:6herida sin haber hecho yo transgresión
+- Job_34:8en compañía con los que hacen iniquidadH6466
+- Job_34:12sí, por cierto, Dios no hará iniquidadH7561
+- Job_34:19aquel que no hace acepción de personas
+- Job_34:22donde se escondan los que hacen maldadH6466
+- Job_34:24sin...y hará estar a otros en su lugarH5975
+- Job_34:25él hará notorias las obras de ellosH5234
+- Job_34:28haciendo venir delante de él el clamor del
+- Job_34:30haciendo que no reine el hombre impío
+- Job_34:32enséñame...si hice mal, no lo haré másH6466
+- Job_35:6si...se multiplicaren, ¿qué le harás tú?[[H6466]]
+- Job_35:11y nos hace sabios más que a las avesH2449
+- Job_35:14cuando dices que no haces caso de él?[[H7789]]
+- Job_36:19¿hará él estima de tus riquezas, delH6186
+- Job_36:23¿y quién le dirá: Has hecho mal?[[H6466]]
+- Job_37:5Dios...hace grandes cosas, que nosotrosH6213
+- Job_37:7así hace retirarse a todo hombre
+- Job_37:12para hacer sobre la faz del mundo, enH6466
+- Job_37:13otras por misericordia las hará venir
+- Job_37:15hace resplandecer la luz de su nube?
+- Job_38:4házmelo saber, si tienes inteligencia
+- Job_38:26haciendo llover sobre la tierra deshabitada
+- Job_38:27para hacer brotar la tierna hierba?
+- Job_38:37los odres...¿quién los hace inclinar
+- Job_39:3se encorvan, hacen salir sus hijos
+- Job_39:22hace burla del espanto, y no teme, niH7832
+- Job_40:15ahora behemot, el cual hice como a tiH6213
+- Job_40:19que lo hizo, puede hacer que su espadaH6213
+- Job_41:4¿hará pacto contigo para que lo tomesH3772
+- Job_41:6¿harán de él banquete los compañeros?[[H3738]]
+- Job_41:25a causa de su...hacen por purificarseH2398
+- Job_41:28Saeta no le hace huir
+- Job_41:31hace hervir como una olla el mar profundo
+- Job_41:32en pos de sí hace resplandecer la senda
+- Job_41:33parezca, animal hecho exento de temorH6213
+- Job_42:9fueron...e hicieron como Jehová les dijoH6213
+- Sal_1:3no cae: y todo lo que hace prosperaráH6213
+- Sal_4:1en angustia, tú me hiciste ensanchar
+- Sal_4:8solo tú, Jehová, me haces vivir confiado
+- Sal_5:5aborreces a todos...que hacen iniquidadH6466
+- Sal_7:3si yo he hecho esto, si hay en mis manosH6213
+- Sal_7:15ha cavado...y en el hoyo que hizo caeráH6466
+- Sal_8:2para hacer callar al enemigo y al vengativo
+- Sal_8:5le has hecho poco menor que los ángeles
+- Sal_8:6hiciste señorear sobre las obras de tus manos
+- Sal_9:15se hundieron...en el hoyo que hicieronH6213
+- Sal_9:16Jehová se ha hecho conocer en el juicioH6213
+- Sal_10:17tú dispones su...y haces atento tu oído
+- Sal_10:18que no vuelva más a hacer violencia elH6206
+- Sal_11:3destruidos...qué ha de hacer el justo?[[H6466]]
+- Sal_11:6sobre los malos hará llover calamidades
+- Sal_13:6cantaré a Jehová...me ha hecho bienH1580
+- Sal_14:1han corrompido, hacen obras abominablesH8581
+- Sal_14:1abominables, no hay quien haga el bienH6213
+- Sal_14:3no hay quien haga lo bueno, no hay niH6213
+- Sal_14:4todos los que hacen iniquidad
+- Sal_14:7Jehová hiciere volver a los cautivos de su pueblo
+- Sal_15:2que anda en integridad y hace justiciaH6466
+- Sal_15:3no calumnia...ni hace mal a su prójimoH6213
+- Sal_15:5el que hace estas cosas, no resbalaráH6213
+- Sal_17:1escucha mi oración hecha de labios sin engaño
+- Sal_17:3resuelto...mi boca no haga transgresiónH5674
+- Sal_17:12son como león que desea hacer presaH3700
+- Sal_18:32Dios es...quien hace perfecto mi caminoH5414
+- Sal_18:33quien hace mis pies como de ciervas, yH7737
+- Sal_18:33me hace estar firme sobre mis alturasH5975
+- Sal_18:40has hecho que mis...vuelvan las espaldasH5414
+- Sal_18:43me has hecho cabeza de las nacionesH7760
+- Sal_18:50su rey, y hace misericordia a su ungidoH6213
+- Sal_19:7el testimonio de Jehová es...hace sabioH2449
+- Sal_20:3haga memoria de todas tus ofrendas, yH2142
+- Sal_22:9el que me hizo estar confiado desde queH982
+- Sal_22:31a pueblo...anunciarán que él hizo estoH6213
+- Sal_23:2en lugares de delicados pastos me hará descansar
+- Sal_23:3con los que hacen iniquidad, los cualesH6466
+- Sal_25:14y a ellos hará conocer su pacto
+- Sal_29:6los hizo saltar como becerros
+- Sal_29:8voz de Jehová que hace temblar el desierto
+- Sal_29:8Hace temblar Jehová el desierto de Cades
+- Sal_30:3Jehová, hiciste subir mi alma del Seol
+- Sal_31:16Haz resplandecer tu rostro sobre tu siervo
+- Sal_31:21ha hecho maravillosa su misericordiaH6381
+- Sal_32:8te haré entender, y te enseñaré el camino
+- Sal_33:3cantadle...hacedlo...tañendo con júbilo
+- Sal_33:4y toda su obra es hecha con fidelidad
+- Sal_33:6la palabra...fueron hechos los cielosH6213
+- Sal_33:9porque él dijo, y fue hecho; él mandó
+- Sal_33:10Jehová hace nulo el consejo de las naciones
+- Sal_34:14apártate del mal, y haz el bien...pazH6213
+- Sal_34:16ira de Jehová contra los que hacen malH6213
+- Sal_35:23despierta para hacerme justicia, DiosH4941
+- Sal_36:3ha dejado de ser cuerdo y de hacer elH3190
+- Sal_37:1ni...envidia de los que hacen iniquidadH6213
+- Sal_37:3confía en Jehová, y haz el bien, yH6213
+- Sal_37:5encomienda...y confía en él y él haráH6213
+- Sal_37:7no te...por el hombre que hace maldadesH6213
+- Sal_37:8la ira...no te excites...a hacer lo maloH7489
+- Sal_37:27apártate del mal, y haz el bien, yH6213
+- Sal_39:4hazle saber, Jehová, mi fin, y cuántaH3045
+- Sal_39:9no abrí mi boca, porque tú lo hicisteH6213
+- Sal_40:2me hizo sacar del pozo de la desesperación
+- Sal_40:8el hacer tu voluntad...me ha agradadoH6213
+- Sal_41:10ten misericordia de mí, y hazme levantar
+- Sal_41:12me has hecho estar delante de ti paraH5324
+- Sal_44:1nos han contado, la obra que hiciere enH6466
+- Sal_44:9nos has desechado, y nos has hecho avergonzar
+- Sal_44:10nos hiciste retroceder delante del enemigo
+- Sal_45:16a quienes harás príncipes en toda la tierra
+- Sal_45:17haré perpetua la memoria de tu nombre
+- Sal_46:9hace cesar...hasta los fines de la tierra
+- Sal_50:5hicieron conmigo pacto con sacrificioH3772
+- Sal_50:21estas cosas hiciste, y yo he calladoH6213
+- Sal_51:4y he hecho lo malo delante de tus ojosH6213
+- Sal_51:6tú...me has hecho comprender sabiduríaH3045
+- Sal_51:8hazme oír gozo...se recrearán los huesosH8085
+- Sal_51:18haz bien con tu benevolencia a SiónH3190
+- Sal_52:2tu lengua...navaja afilada hace engañoH6213
+- Sal_52:9te alabaré...porque lo has hecho asíH6213
+- Sal_53:1se han corrompido, e hicieron...maldadH8581
+- Sal_53:1corrompido...no hay quien haga el bienH6213
+- Sal_53:3no hay quien haga lo bueno, no hay niH6213
+- Sal_53:4los que hacen iniquidad, que devoran aH6466
+- Sal_53:6hiciere volver de la cautividad a su pueblo
+- Sal_55:23harás descender aquéllos al pozo de perdición
+- Sal_56:4,11Dios...¿qué puede hacerme el hombre?[[H6213]]
+- Sal_58:2hacéis pesar la violencia de vuestras manos
+- Sal_58:7disparen...saetas, sean hechas pedazosH4135
+- Sal_59:10Dios hará que vea en mis enemigos miH6923
+- Sal_60:2hiciste temblar la tierra, la has hendido
+- Sal_60:3has hecho ver a tu pueblo cosas duras
+- Sal_60:3nos hiciste beber vino de aturdimiento
+- Sal_60:12en Dios haremos proezas, y él hollaráH6213
+- Sal_64:2conspiración de los que hacen iniquidadH6466
+- Sal_64:6inquieren...hacen...investigación exactaH8552
+- Sal_64:8sus propias lenguas los harán caer
+- Sal_65:8tú haces alegrar las salidas de la mañana y
+- Sal_65:10haces que se empapen sus surcos
+- Sal_65:10haces descender sus canales; la ablandas
+- Sal_66:8haced oír la voz de su alabanza
+- Sal_66:12hiciste cabalgar hombres sobre nuestra cabeza
+- Sal_66:16oíd...contaré lo que ha hecho a mi almaH6213
+- Sal_67:1haga resplandecer su rostro sobre nosotros
+- Sal_68:6hace habitar en familia a los desamparados
+- Sal_68:22De Basán te haré volver; te haré volver
+- Sal_68:28confirma, oh Dios, lo que has hechoH6466
+- Sal_69:2hundido en cieno...no puedo hacer pieH4613
+- Sal_69:4se han hecho poderosos mis enemigos, los
+- Sal_69:23haz temblar continuamente sus lomos
+- Sal_70:3en pago de su afrenta hecha los que
+- Sal_71:16haré memoria de tu justicia, de la tuyaH2142
+- Sal_71:19tú has hecho grandes cosas; oh DiosH6213
+- Sal_71:20me has hecho ver muchas angustias y males
+- Sal_72:16su fruto hará ruido como el Líbano, yH7493
+- Sal_72:18bendito...el único que hace maravillasH6213
+- Sal_73:8hablan con maldad de hacer violencia
+- Sal_73:10Dios hará volver a su pueblo aquí
+- Sal_73:18en asolamientos los harás caer
+- Sal_74:2que redimiste para hacerla la tribu de
+- Sal_74:3el mal que el enemigo ha hecho en el
+- Sal_75:5no hagáis alarde de vuestro poder; noH7311
+- Sal_76:5no hizo uso de sus manos ninguno de losH4672
+- Sal_76:8desde los cielos hiciste oír juicio
+- Sal_77:11sí, haré yo memoria de tus maravillasH4142
+- Sal_77:14tú eres el Dios que hace maravillasH6213
+- Sal_77:14hiciste notorio en...pueblos tu poderH3045
+- Sal_78:4su potencia, y las maravillas que hizoH6213
+- Sal_78:12delante de sus padres hizo maravillasH6213
+- Sal_78:13dividió el mar y los hizo pasar
+- Sal_78:16hizo descender aguas como ríos
+- Sal_78:24hizo llover sobre ellos maná
+- Sal_78:27hizo llover sobre ellos carne como polvo
+- Sal_78:31hizo morir a los más robustos de ellos
+- Sal_78:34si los hacía morir, entonces buscaban a Dios
+- Sal_78:51hizo morir a todo primogénito en Egipto
+- Sal_78:52hizo salir a su pueblo como ovejas
+- Sal_78:55hizo habitar en sus moradas a las tribus
+- Sal_78:64y sus viudas no hicieron lamentaciónH1058
+- Sal_80:3haz resplandecer tu rostro, y seremos salvos
+- Sal_80:7haz resplandecer tu rostro, y seremos salvos
+- Sal_80:8hiciste venir una vid de Egipto
+- Sal_80:9hiciste arraigar sus raíces, y llenó la tierra
+- Sal_80:19Haz resplandecer tu rostro, y seremos salvos
+- Sal_81:10que te hice subir de la tierra de Egipto
+- Sal_82:3defended al...haced justicia al afligidoH6663
+- Sal_83:5porque se...contra ti han hecho alianzaH1285, [[H3772]]
+- Sal_83:9hazles como a Madián, como a SísaraH6213
+- Sal_83:10fueron hechos como estiércol para la
+- Sal_85:4haz cesar tu ira de sobre nosotros
+- Sal_86:9todas las naciones que hiciste vendránH6213
+- Sal_86:17haz conmigo señal para bien, y véanlaH6213
+- Sal_89:1haré notoria tu fidelidad con mi boca
+- Sal_89:3hice pacto con mi escogido...a David miH3772
+- Sal_89:44hiciste cesar su gloria
+- Sal_92:7florecen todos los que hacen iniquidadH6466
+- Sal_92:9esparcidos todos los que hacen maldadH6466
+- Sal_94:4se vanagloriarán...que hacen iniquidad?[[H6466]]
+- Sal_94:9el que hizo el oído, no oirá? El queH5193
+- Sal_94:13para hacerle descansar en los días
+- Sal_94:16por mí contra los que hacen iniquidadH7489
+- Sal_94:20que hace agravio bajo forma de ley?[[H3335]]
+- Sal_94:23él hará volver sobre ellos su iniquidad
+- Sal_95:5suyo también el mar, pues él lo hizoH6213
+- Sal_96:5son ídolos; pero Jehová hizo los cielosH6213
+- Sal_98:1cantad a Jehová...ha hecho maravillasH6213
+- Sal_98:2Jehová ha hecho notoria su salvaciónH3045
+- Sal_98:8batán...los montes todos hagan regocijoH7442
+- Sal_99:4tú has hecho en Jacob juicio y justiciaH6213
+- Sal_100:3él nos hizo, y no nosotros a nosotrosH6213
+- Sal_101:7dentro de mi casa el que hace fraudeH6213
+- Sal_101:8exterminar...los que hagan iniquidadH6466
+- Sal_103:6el que hace justicia y derecho a todosH6213
+- Sal_103:10no ha hecho con nosotros conforme aH6213
+- Sal_103:12hizo alejar de nosotros nuestras rebeliones
+- Sal_103:21ministros suyos...hacéis su voluntadH6213
+- Sal_104:4que hace a los vientos sus mensajerosH6213
+- Sal_104:14hace producir el heno para las bestias
+- Sal_104:15el aceite que hace brillar el rostro
+- Sal_104:17en las hayas hace su casa la cigüeña
+- Sal_104:19hizo la luna para los tiempos; el solH6213
+- Sal_104:24hiciste todas ellas con sabiduríaH6213
+- Sal_104:26leviatán que hiciste para que jugaseH3335
+- Sal_105:5de las maravillas que él ha hecho deH6213
+- Sal_105:15toquéis...ni hagáis mal a mis profetasH7489
+- Sal_105:24lo hizo más fuerte que sus enemigosH6105
+- Sal_105:40pidieron, e hizo venir codornices
+- Sal_106:3dichosos...los que hacen justicia enH6213
+- Sal_106:6padres; hicimos iniquidad, h impiedadH5753
+- Sal_106:8los salvó...para hacer notorio su poderH3045
+- Sal_106:9les hizo ir por el abismo como por un
+- Sal_106:19hicieron becerro en Horeb...una imagenH6213
+- Sal_106:21al Dios...que había hecho grandezas enH6213
+- Sal_106:30se levantó Finees e hizo juicio, y seH6419
+- Sal_106:33porque hicieron rebelar a su espíritu
+- Sal_106:46hizo...tuviesen de ellos misericordiaH5414
+- Sal_107:23y hacen negocio en las muchas aguasH6213
+- Sal_107:25hizo levantar un viento tempestuoso
+- Sal_107:40les hace andar perdidos, vagabundo
+- Sal_107:41hace multiplicar las familias como rebañosH7760
+- Sal_108:13en Dios haremos proezas, y él hollaráH6213
+- Sal_109:12no tenga quien le haga misericordiaH4900
+- Sal_109:16no se acordó de hacer misericordiaH6213
+- Sal_109:27entiendan...tú, Jehová, has hecho estoH6213
+- Sal_111:4ha hecho memorables sus maravillasH6213
+- Sal_111:8siempre, hechos en verdad y en rectitudH6213
+- Sal_113:8para hacerlos sentar con los príncipes
+- Sal_113:9él hace habitar en familia a la estéril
+- Sal_115:3nuestro Dios...lo que quiso ha hechoH6213
+- Sal_115:8semejantes a ellos...los que los hacenH6213
+- Sal_115:15Jehová...hizo los cielos y la tierraH6213
+- Sal_116:7oh alma mía...Jehová te ha hecho bienH1580
+- Sal_118:6no temeré lo que...pueda hacer el hombreH6213
+- Sal_118:15la diestra de Jehová hace proezasH6213
+- Sal_118:16la diestra de Jehová hace valentíasH6213
+- Sal_118:24este es el día que hizo Jehová, nosH6213
+- Sal_118:25que nos hagas prosperar ahora
+- Sal_119:3no hacen iniquidad los que andan enH6466
+- Sal_119:17haz bien a tu siervo; que viva
+- Sal_119:27hazme entender el camino de tus mandamientos
+- Sal_119:49en la cual me has hecho esperar
+- Sal_119:65bien has hecho...tu siervo, oh JehováH6213
+- Sal_119:73tus manos me hicieron y me formaronH6213
+- Sal_119:84¿cuándo harás juicio contra los queH6213
+- Sal_119:98has hecho más sabio que mis enemigosH2449
+- Sal_119:119hiciste consumir a todos los impíos
+- Sal_119:121juicio y justicia he hecho; no meH6213
+- Sal_119:124haz con tu siervo...tu misericordiaH6213
+- Sal_119:130hace entender a los simples
+- Sal_119:135haz que tu rostro resplandezca sobreH6440
+- Sal_119:152hace ya mucho que he entendido tusH3045
+- Sal_120:7ellos, así que hablo, me hacen guerra
+- Sal_121:2viene de Jehová, que hizo los cielosH6213
+- Sal_124:8Jehová, que hizo el cielo y la tierraH6213
+- Sal_125:4haz bien, oh Jehová, a los buenos
+- Sal_125:5los llevará con los que hacen iniquidad
+- Sal_126:1Jehová hiciere volver la cautividad de Sion
+- Sal_126:2grandes cosas ha hecho Jehová con éstosH6213
+- Sal_126:3grandes cosas ha hecho Jehová con nosotrosH6213
+- Sal_126:4haz volver nuestra cautividad, oh Jehová
+- Sal_129:3hicieron largos surcos
+- Sal_129:7ni sus brazos el que hace gavillas
+- Sal_132:17allí haré retoñar el poder de DavidH6213
+- Sal_134:3el cual ha hecho los cielos y la tierraH6213
+- Sal_135:6todo lo que Jehová quiere, lo haceH6213
+- Sal_135:7hace subir las nubes de los extremos
+- Sal_135:7hace los relámpagos para la lluviaH6213
+- Sal_135:8es quien hizo morir a los primogénitos
+- Sal_135:18Semejantes a ellos son los que los hacenH6213
+- Sal_136:4único que hace grandes maravillasH6213
+- Sal_136:5al que hizo los cielos con entendimientoH6213
+- Sal_136:7al que hizo las grandes lumbrerasH6213
+- Sal_136:14hizo pasar a Israel por en medio de él
+- Sal_137:8de lo que tú nos hiciste
+- Sal_139:8y si en el Seol hiciere mi estradoH3331
+- Sal_139:13tú me hiciste en el vientre de mi madre
+- Sal_139:19oh Dios, harás morir al impío
+- Sal_141:4a hacer obras impías...que hacen iniquidad
+- Sal_141:9las trampas de los que hacen iniquidad
+- Sal_141:10que hizo cuando estaba en la cueva
+- Sal_143:3me ha hecho habitar en tinieblas
+- Sal_143:8hazme oír por la mañana tu misericordia
+- Sal_143:8hazme saber el camino por donde ande
+- Sal_143:10enséñame a hacer tu voluntadH6213
+- Sal_144:14no tengamos asalto, ni que hacer salida
+- Sal_145:12para hacer saber a los hijos de los hombres
+- Sal_146:6el cual hizo los cielos y la tierraH6213
+- Sal_146:7que hace justicia a los agraviadosH6213
+- Sal_147:8el que hace a los montes producir hierba
+- Sal_147:14te hará saciar con lo mejor del trigo
+- Sal_147:20no ha hecho así con ninguna otra deH6213
+- Sal_148:6los hizo ser...para siempre; les pusoH5975
+- Pro_1:23y os haré saber mis palabras
+- Pro_2:2haciendo estar atento tu oído a la sabiduría
+- Pro_2:14que se alegran haciendo el mal, queH6213
+- Pro_3:27no...cuando tuvieres poder para hacerloH6213
+- Pro_3:30pleito con...si no te han hecho agravioH1580
+- Pro_4:11por veredas derechas te he hecho andar
+- Pro_4:16no duermen ellos si no han hecho malH7489
+- Pro_6:3haz esto ahora, hijo mío, y líbrate, yaH6213
+- Pro_6:13los pies, que hace señas con los dedosH3384
+- Pro_6:32mas...corrompe su alma el que tal haceH6213
+- Pro_7:26a muchos ha hecho caer heridos
+- Pro_8:21para hacer que los que me aman tengan
+- Pro_8:26no había aún hecho la tierra, ni losH6213
+- Pro_10:23hacer maldad es como una diversión alH6213
+- Pro_10:29es destrucción a los que hacen maldadH6466
+- Pro_11:17hace bien el hombre misericordiosoH1580
+- Pro_11:18el impío hace obra falsa; mas el queH6213
+- Pro_11:19que sigue el mal lo hace para su muerte
+- Pro_12:16el que no hace caso de la injuria es
+- Pro_12:22los que hacen verdad...contentamientoH6213
+- Pro_12:26el camino de los impíos les hace errar
+- Pro_13:5mas el impío se hace odioso e infame
+- Pro_14:17que fácilmente se enoja hará locurasH6213
+- Pro_15:1la palabra áspera hace subir el furor
+- Pro_16:4todas las cosas ha hecho Jehová paraH6466
+- Pro_16:7sus enemigos hace estar en paz con élH7999
+- Pro_16:12abominación es...reyes hacer impiedadH6213
+- Pro_16:23el corazón del sabio hace prudente suH7919
+- Pro_16:29le hace andar por camino no bueno
+- Pro_17:26herir a los nobles que hacen lo recto
+- Pro_19:15la pereza hace caer en profundo sueño
+- Pro_19:17el bien que ha hecho, se lo volverá aH1576
+- Pro_19:22contentamiento es...hacer misericordiaH2617
+- Pro_19:25y el simple se hará avisado
+- Pro_19:27te hacen divagar de las razones de sabiduría
+- Pro_20:12el oído que...y el ojo...ha hecho JehováH6213
+- Pro_20:18con dirección sabia se hace la guerraH6213
+- Pro_20:25lazo es...hacer apresuradamente voto deH3216
+- Pro_20:26sobre ellos hace rodar la rueda
+- Pro_20:25voto...después de hacerlo, reflexionarH1239
+- Pro_21:3hacer justicia y juicio es a Jehová másH6213
+- Pro_21:7por cuanto no quisieron hacer juicioH6213
+- Pro_21:11es castigado, el simple se hace sabioH2449
+- Pro_21:15alegría...para el justo el hacer juicioH6213
+- Pro_21:15destrucción a los que hacen iniquidadH6466
+- Pro_22:2rico y el pobre...ambos los hizo JehováH6213
+- Pro_22:19las he hecho saber hoy a ti también
+- Pro_22:21para hacerte saber la certidumbre de las
+- Pro_23:4no te afanes por hacerte rico...desiste
+- Pro_23:5se harán alas como...de águila, y volaránH6213
+- Pro_23:21el sueño hará vestir vestidos rotos
+- Pro_24:6porque con ingenio harás la guerra, yH6213
+- Pro_24:8al que piensa hacer el mal, le llamaránH7489
+- Pro_24:23hacer acepción de personas en...juicio
+- Pro_24:29no digas: Como me hizo, así le haréH6213
+- Pro_25:8no sea que no sepas qué hacer al finH6213
+- Pro_26:8como...así hace el que da honra al necio
+- Pro_26:19y dice: Ciertamente lo hice por bromaH7832
+- Pro_26:28la boca lisonjera hace resbalar
+- Pro_28:10que hace errar a los rectos por el mal camino
+- Pro_28:21hacer acepción de personas no es buenoH5234
+- Pro_29:19el siervo...entiende, mas no hace caso
+- Pro_30:20así: Come...y dice: les he hecho maldadH6466
+- Pro_30:32si has pensado hacer mal, pon el dedoH2161
+- Pro_31:22ella se hace tapices; de lino fino yH6213
+- Pro_31:24hace telas, y vende, y da cintas alH6213
+- Pro_31:29muchas mujeres hicieron el bien...masH6213
+- Ecc_1:9que ha sido hecho? Lo mismo que se haráH6213
+- Ecc_1:13todo lo que se hace debajo del cieloH6213
+- Ecc_1:14las obras que se hacen debajo del solH6213
+- Ecc_2:5me hice huertos y jardines, y planté enH6213
+- Ecc_2:6me hice estanques de aguas, para regarH6213
+- Ecc_2:8me hice de cantores y cantoras, de losH6213
+- Ecc_2:11miré...obras que habían hecho mis manosH6213
+- Ecc_2:11el trabajo que tomó para hacerlas; y heH6213
+- Ecc_2:12¿qué podrá hacer el...ya ha sido hechoH6213
+- Ecc_2:15he trabajado...por hacerme más sabio?
+- Ecc_2:17la obra que se hace...me era fastidiosaH6213
+- Ecc_2:18aborrecí...mi trabajo que había hechoH6001
+- Ecc_3:11todo lo hizo hermoso en su tiempo...y haH6213
+- Ecc_3:11a entender la obra que ha hecho DiosH6213
+- Ecc_3:12cosa mejor que...hacer bien en su vidaH6213
+- Ecc_3:14que todo lo que Dios hace será perpetuoH6213
+- Ecc_3:14y lo hace Dios, para que delante de élH6213
+- Ecc_3:17hay un tiempo...para todo lo que se haceH4639
+- Ecc_3:20todo es hecho de polvo, y todo volveráH1961
+- Ecc_4:1vi...las violencias que se hacen debajoH6213
+- Ecc_4:3malas obras que debajo del sol se hacenH6213
+- Ecc_5:1los necios; porque no saben que hacen malH6213
+- Ecc_5:4cuando a Dios haces promesa, no tardesH5087
+- Ecc_5:6¿por qué harás que Dios se enoje a causa
+- Ecc_7:7la opresión hace entontecer al sabio
+- Ecc_7:14Dios hizo tanto lo uno como lo otro, aH6213
+- Ecc_7:17no hagas mucho mal, ni seas insensatoH7561
+- Ecc_7:20no hay...que haga el bien y nunca pequeH6213
+- Ecc_7:29Dios hizo al hombre recto, pero ellosH6213
+- Ecc_8:3no te...porque él hará todo lo que quiereH6213
+- Ecc_8:4potestad ¿y quién le dirá: ¿Qué haces?[[H6213]]
+- Ecc_8:9en todo lo que debajo del sol se haceH6213
+- Ecc_8:11el corazón...dispuesto para hacer el malH6213
+- Ecc_8:12aunque el pecador haga mal cien vecesH6213
+- Ecc_8:14hay vanidad que se hace sobre la tierraH6213
+- Ecc_8:14como si hicieran obras de impíos, y hay
+- Ecc_8:14hay...como si hicieran obras de justos
+- Ecc_8:16ver la faena que se hace sobre la tierraH6213
+- Ecc_8:17la obra que debajo del sol se hace; porH6213
+- Ecc_9:3este mal hay entre todo lo que se haceH6213
+- Ecc_9:6en todo lo que se hace debajo del solH6213
+- Ecc_9:10lo que te viniere a...para hacer, hazloH6213
+- Ecc_10:1las moscas muertas hacen heder y dar mal olor
+- Ecc_10:4la mansedumbre hará cesar grandes ofensas
+- Ecc_10:8el que hiciere hoyo caerá en él; y elH2658
+- Ecc_10:19por el placer se hace el banquete, yH6213
+- Ecc_10:20las que tienen alas harán saber la palabra
+- Ecc_11:5de Dios, el cual hace todas las cosasH6213
+- Ecc_12:9hizo escuchar, e hizo escudriñarH239
+- Ecc_12:12no hay fin de hacer muchos libros; yH6213
+- Son_1:7hazme saber, oh tú a quien ama mi alma
+- Son_1:11zarcillos...te haremos, tachonados deH6213
+- Son_2:7no despertéis ni hagáis velar al amor
+- Son_2:14hazme oír tu voz
+- Son_3:5no despertéis ni hagáis velar al amor
+- Son_3:9el rey...se hizo una carroza de maderaH6213
+- Son_3:10hizo sus columnas de plata, su...de oroH6213
+- Son_5:8le hagáis saber que estoy enferma de amor
+- Son_7:9hace hablar los labios de los viejos
+- Son_8:2yo te haría beber vino
+- Son_8:4no despertéis ni hagáis velar al amor
+- Son_8:8¿qué haremos a nuestra hermana cuando deH6213
+- Son_8:13compañeros escuchan tu voz; házmela oírH8085
+- Isa_1:16la iniquidad...dejad de hacer lo maloH7489
+- Isa_1:17aprended a hacer el bien; buscad elH3190
+- Isa_1:17haced justicia al huérfano, amparad aH8199
+- Isa_1:23soborno...no hacen justicia al huérfanoH8199
+- Isa_1:31estopa, y lo que hizo como centella; yH6467
+- Isa_2:20ídolos...que le hicieron para que adoraseH6213
+- Isa_3:5el pueblo se hará violencia unos a otrosH5065
+- Isa_3:7jurará...no me hagáis príncipe del puebloH7760
+- Isa_3:16danzando, y haciendo son con los piesH5913
+- Isa_5:2torre, y hecho también en ella un lagarH2672
+- Isa_5:4hacer a mi viña, que yo no haya hechoH6213
+- Isa_5:5mostraré...ahora lo que haré yo a mi viñaH6213
+- Isa_5:6haré que quede desierta; no será podadaH7896
+- Isa_5:20que hacen de la luz tinieblas
+- Isa_6:11hasta que...tierra esté hecha un desierto
+- Isa_7:17Jehová hará venir sobre ti, sobre tu pueblo
+- Isa_8:7el Señor hace subir sobre ellos aguas de ríos
+- Isa_9:7el celo de Jehová de los ejércitos haráH6213
+- Isa_10:3¿y qué haréis en el día del castigo?[[H6213]]
+- Isa_10:11como hice a Samaria y a sus ídolos, ¿noH6213
+- Isa_10:11haré también así a Jerusalén y a susH6213
+- Isa_10:13con el poder de mi mano lo he hechoH6213
+- Isa_10:23el Señor, Jehová...hará consumación yaH6213
+- Isa_10:26alzará su vara...como hizo por la vía de
+- Isa_10:30haz que se oiga hacia Lais, pobrecillaH7181
+- Isa_11:3le hará entender diligente en el temor de Jehová
+- Isa_11:9no harán mal ni dañarán en todo mi santoH7489
+- Isa_11:15y hará que pasen por él con sandalias
+- Isa_12:4haced célebres en los pueblos sus obras
+- Isa_12:5cantad salmos a Jehová...ha hecho cosasH6213
+- Isa_13:11y haré que cese la arrogancia de losH7673
+- Isa_13:12haré más precioso que el oro fino al
+- Isa_13:13porque haré estremecer los cielos
+- Isa_14:1y lo hará reposar en su tierra
+- Isa_14:3la dura servidumbre en que te hicieron servir
+- Isa_14:9hizo levantar de sus sillas a todos los príncipes
+- Isa_14:16aquel varón que hacía temblar la tierra
+- Isa_14:24se hará de la manera que lo he pensado
+- Isa_14:27¿quién la hará retroceder?
+- Isa_14:30mas yo haré morir de hambre tu raíz
+- Isa_16:3haz juicio, pon tu sombra en medio delH6213
+- Isa_16:10he hecho cesar el grito del lagarero
+- Isa_17:8no mirará a los altares que hicieron susH4639
+- Isa_17:8ni mirará a lo que hicieron sus dedosH6213
+- Isa_17:11las harás crecer, y h que su simiente
+- Isa_17:12pueblos que harán ruido...h alborotoH1993, [[H7582]]
+- Isa_17:13los pueblos harán estrépito como deH7582
+- Isa_18:1¡ay de la tierra que hace sombra con las
+- Isa_19:8harán duelo todos los que echan anzueloH578
+- Isa_19:10se entristecerán todos los que hacenH6213
+- Isa_19:12te hagan saber qué...ha determinado sobre Egipto
+- Isa_19:14hicieron errar a Egipto en toda su obra
+- Isa_19:15cosa que haga la cabeza o la cola, laH6213
+- Isa_19:21harán sacrificio y oblación; y h votosH5087
+- Isa_20:2lo hizo así, andando desnudo y descalzoH6213
+- Isa_21:2todo su gemido hice cesar
+- Isa_21:6pon centinela que haga saber lo que vea
+- Isa_22:11hicisteis foso entre los dos muros paraH6213
+- Isa_22:11y no tuvisteis respeto al que lo hizoH6213
+- Isa_23:11hizo temblar los reinos
+- Isa_23:16haz buena melodía, reitera la canciónH3190
+- Isa_24:1y hace esparcir a sus moradores
+- Isa_25:1te alabaré...porque has hecho maravillasH6213
+- Isa_25:5como calor debajo de nube harás marchitar
+- Isa_25:6Jehová de...hará: en este monte...banqueteH6213
+- Isa_26:10en tierra de rectitud hará iniquidad
+- Isa_26:12hiciste en nosotros...nuestras obrasH6466
+- Isa_26:15aumentaste el pueblo...hiciste glorioso
+- Isa_26:18ninguna liberación hicimos en...tierraH6213
+- Isa_27:5haga conmigo paz; sí, h paz conmigoH6213
+- Isa_27:9haga todas las piedras del altar comoH7760
+- Isa_28:9a quién se hará entender doctrina?
+- Isa_28:15pacto tenemos hecho con la muerte, eH3772
+- Isa_28:15hicimos convenio con el Seol; cuandoH6213
+- Isa_28:21para hacer su obra...h su operación, suH6213
+- Isa_28:29para hacer maravilloso el consejo y
+- Isa_29:16la obra dirá de su hacedor: No me hizo?[[H6213]]
+- Isa_29:20que se desvelan para hacer iniquidad
+- Isa_29:21los que hacen pecar al hombre en palabra
+- Isa_30:14que sin misericordia lo hacen pedazos
+- Isa_30:28quijadas de los pueblos, haciéndoles errar
+- Isa_30:30Jehová hará oír su potente voz, y hará
+- Isa_31:2el auxilio de los que hacen iniquidadH6466
+- Isa_31:7ídolos...hecho vuestras manos pecadorasH6213
+- Isa_32:14descansen asnos...ganados hagan majada
+- Isa_33:1haces deslealtad, bien que nadie...hizoH898
+- Isa_33:1de hacer deslealtad, se hará contra tiH898
+- Isa_33:13los que estáis lejos, lo que he hechoH6213
+- Isa_36:7y cuyos altares hizo quitar Ezequías
+- Isa_36:15ni os haga Ezequías confiar en JehováH982
+- Isa_36:16dice...Haced conmigo paz, y salid a míH6213
+- Isa_37:7haré que en su tierra perezca a espada
+- Isa_37:9ha salido para hacerte guerra; al oírloH3898
+- Isa_37:11tú oíste lo que han hecho los reyes deH6213
+- Isa_37:16eres...hiciste los cielos y la tierraH6213
+- Isa_37:26¿no has oído decir que...yo lo hice, queH6213
+- Isa_37:29te haré volver por el camino por donde viniste
+- Isa_37:32el celo de Jehová de los ejércitos haráH6213
+- Isa_37:37Senaquerib...hizo su morada en NíniveH3427
+- Isa_38:2volvió Ezequías...hizo oración a JehováH6419
+- Isa_38:3que he hecho lo que ha sido agradableH6213
+- Isa_38:7Jehová hará esto que ha dichoH6213
+- Isa_38:8yo haré volver la sombra por los grados
+- Isa_38:15que me lo dijo, el mismo lo ha hechoH6213
+- Isa_38:16tú me restablecerás, y harás que viva
+- Isa_38:19el padre hará notoria tu verdad a los hijos
+- Isa_40:15hace desaparecer las islas como polvo
+- Isa_40:18¿a qué, pues, haréis semejante a Dios
+- Isa_40:20le haga una imagen de talla que no seH3559
+- Isa_40:23y a los que gobiernan la tierra haceH6213
+- Isa_40:25me haréis semejante o me compararéis?
+- Isa_41:2y le hizo enseñorear de reyes
+- Isa_41:4¿quién hizo y realizó esto? ¿Quién llamaH6213
+- Isa_41:12serán como nada...que te hacen la guerra
+- Isa_41:20que la mano de Jehová hace estoH6213
+- Isa_41:22hacednos entender lo que ha de venir
+- Isa_41:23haced bien, o mal, para que tengamosH3190, [[H7489]]
+- Isa_42:2ni la hará oír en las calles
+- Isa_42:9antes que salgan a...os las haré notoriasH5046
+- Isa_42:15haré secar toda su hierbaH7760
+- Isa_42:16cosas les haré, y no los desampararéH6213
+- Isa_42:25fuego...le consumió, mas no hizo casoH3045
+- Isa_43:7para gloria mía...los formé y los hiceH6213
+- Isa_43:9y que nos haga oír las cosas primeras?
+- Isa_43:12anuncié, y salvé, e hice oír
+- Isa_43:13lo que hago yo, ¿quién lo estorbará?[[H6466]]
+- Isa_43:14hice descender como fugitivos a todos ellos
+- Isa_43:19he aquí que yo hago cosa nueva: prontoH6213
+- Isa_43:23no te hice servir...ni te hice fatigar
+- Isa_43:26hazme recordar
+- Isa_44:7hago yo desde que establecí el pueblo
+- Isa_44:8¿no te lo hice oír desde la antigüedad
+- Isa_44:13lo hace en forma de varónH6213
+- Isa_44:15cuece panes; hace además un dios, y loH6466
+- Isa_44:17y hace del sobrante un dios, un ídoloH6213
+- Isa_44:19¿haré del resto de él una abominación?[[H6213]]
+- Isa_44:23cantad loores...porque Jehová lo hizoH6213
+- Isa_44:24que lo hago todo, que extiendo solo losH6213
+- Isa_44:25hago volver atrás a los sabios
+- Isa_44:27secaos, y tus ríos haré secar
+- Isa_45:2cerrojos de hierro haré pedazos
+- Isa_45:7que hago la paz...soy el que h todo estoH6213
+- Isa_45:8háganse brotar juntamente
+- Isa_45:9el barro al que lo labra: ¿Qué haces?[[H6213]]
+- Isa_45:12yo hice la tierra, y creé sobre ella alH6213
+- Isa_45:14te harán reverencia y te suplicarán
+- Isa_45:18el que formó la tierra, el que la hizoH6213
+- Isa_45:21proclamad, y hacedlos acercarse
+- Isa_45:21¿quién hizo oír esto desde el principio
+- Isa_45:23por mí mismo hice juramento
+- Isa_46:4yo; yo hice, yo llevaré, yo soportaréH6213
+- Isa_46:6alquilan un platero para hacer un diosH6213
+- Isa_46:10que anuncio...lo que aún no era hechoH6213
+- Isa_46:11yo...lo he pensado, y también lo haréH6213
+- Isa_46:13haré que se acerque mi justicia
+- Isa_47:3haré retribución, y no se librará hombre alguno
+- Isa_48:1hacen memoria del Dios de Israel, masH2142
+- Isa_48:3lo dije...lo hice pronto, y fue realidadH6213
+- Isa_48:5para que no dijeras: Mi ídolo lo hizoH6213
+- Isa_48:6te he hecho oír cosas nuevas y ocultas
+- Isa_48:11por amor de mí mismo lo haréH6213
+- Isa_48:16desde que eso se hizo, allí estaba yo
+- Isa_48:21les hizo brotar agua de la piedra
+- Isa_49:5para hacer volver a él a Jacob y
+- Isa_49:26haré comer sus propias carnes
+- Isa_50:2con mi reprensión hago secar el mar
+- Isa_50:3cielos, y hago como cilicio su cubiertaH7760
+- Isa_51:15que agito el mar y hago rugir sus ondasH1993
+- Isa_52:5qué hago aquí, dice Jehová, ya que mi
+- Isa_53:9nunca hizo maldad, ni hubo engaño en suH6414
+- Isa_54:15conspirare contra ti, lo hará sin mí
+- Isa_54:16hice al herrero que sopla las ascuasH1254
+- Isa_55:3y haré con vosotros pacto eterno, lasH3772
+- Isa_55:10y la hace germinar y producir
+- Isa_55:11mi palabra que...hará lo que yo quieroH6213
+- Isa_56:1así...Guardad derecho, y haced justiciaH6213
+- Isa_56:2bienaventurado el hombre que hace estoH6213
+- Isa_56:2y que guarda su mano de hacer todo malH6213
+- Isa_57:7allí también subiste a hacer sacrificioH2076
+- Isa_57:8hiciste con ellos pacto; amaste su camaH3772
+- Isa_57:15para hacer vivir el espíritu de los humildes
+- Isa_58:2como gente que hubiese hecho justiciaH6213
+- Isa_58:3qué, dicen, ayunamos, y no hiciste casoH3045
+- Isa_58:5que...haga cama de cilicio y de ceniza?[[H3331]]
+- Isa_58:13si retrajeres del...de hacer tu voluntadH6213
+- Isa_58:14yo te haré subir sobre las alturas
+- Isa_59:2iniquidades han hecho división entre
+- Isa_60:22haré que esto sea cumplido pronto
+- Isa_60:15haré que seas una gloria eterna, elH7760
+- Isa_61:8su obra, y haré con ellos pacto perpetuoH3772
+- Isa_61:11el huerto hace brotar su semilla
+- Isa_61:11Jehová el Señor hará brotar justicia
+- Isa_62:11Jehová hizo oír hasta lo último de la tierra
+- Isa_63:7las misericordias de Jehová haré memoriaH2142
+- Isa_63:7que les ha hecho según sus misericordiasH1580
+- Isa_63:10hicieron enojar su santo espíritu
+- Isa_63:11¿dónde está el que les hizo subir del mar
+- Isa_63:12ellos, haciéndose así nombre perpetuoH6213
+- Isa_63:14pastoreaste...hacerte nombre gloriosoH6213
+- Isa_63:17nos has hecho errar de tus caminos
+- Isa_64:2para que hicieras notorio tu nombre aH3045
+- Isa_64:3haciendo cosas terribles cuales nuncaH6213
+- Isa_64:4ti, que hiciese por el que en él esperaH6213
+- Isa_64:5al encuentro del que con...hacía justiciaH6213
+- Isa_65:8así haré yo por mis siervosH6213
+- Isa_65:12sino que hicisteis lo malo delante deH6213
+- Isa_65:25ni harán mal en todo mi santo monteH7489
+- Isa_66:2mi mano hizo todas estas cosas, y asíH6213
+- Isa_66:3el que hace ofrenda, como si ofrecieseH5927
+- Isa_66:4que hicieron lo malo delante de mis ojosH6213
+- Isa_66:9yo que hago dar a luz, ¿no haré nacer?[[H7665]]
+- Isa_66:22nueva tierra que yo hago permaneceránH6213
+- Jer_1:17no te haga yo quebrantar
+- Jer_2:5tras la vanidad y se hicieron vanosH1891
+- Jer_2:6que nos hizo subir de la tierra de Egipto
+- Jer_2:7pero...e hicisteis abominable mi heredadH7760
+- Jer_2:10y ved si se ha hecho cosa semejante a
+- Jer_2:13porque dos males ha hecho mi pueblo; meH6213
+- Jer_2:23conoce lo que has hecho, dromedarioH6213
+- Jer_2:28¿y dónde están tus dioses que hicisteH6213
+- Jer_3:5he aquí que has hablado y hecho cuantasH6213
+- Jer_3:6¿has visto lo que ha hecho la rebeldeH6213
+- Jer_3:7después de hacer todo esto, se volveráH6213
+- Jer_3:12no haré caer mi ira sobre ti
+- Jer_3:16ni la echarán de menos, ni se hará otraH6213
+- Jer_3:18la tierra que hice heredar a vuestros padres
+- Jer_4:6porque yo hago venir mal del norte
+- Jer_4:15hace oír la calamidad desde el monte de Efraín
+- Jer_4:16he aquí, haced oír sobre Jerusalén
+- Jer_4:18tu camino y tus obras te hicieron estoH6213
+- Jer_4:22sabios para hacer el mal pero h el bienH7489, [[H3190]]
+- Jer_4:30y tú, destruida, ¿qué harás? Aunque teH6213
+- Jer_5:1a ver...si hay alguno que haga justiciaH6213
+- Jer_5:13no hay en ellos palabra; así se haráH6213
+- Jer_5:19¿por qué Jehová el Dios nuestro hizoH6213
+- Jer_5:20haced que...se oiga en Judá, diciendoH5046
+- Jer_5:27de engaño...se hicieron grandes y ricosH1431
+- Jer_5:28con todo, se hicieron prósperos, y laH6746
+- Jer_5:30espantosa y fea es hecha en la tierraH1961
+- Jer_5:31¿qué, pues, haréis cuando llegue el fin?[[H6213]]
+- Jer_6:15¿se han avergonzado de haber hechoH6213
+- Jer_7:3y os haré morar en este lugar
+- Jer_7:5si con verdad hiciereis justicia entreH6213
+- Jer_7:7os haré morar en este lugar, en la tierra que di
+- Jer_7:10librados somos; para seguir haciendoH6213
+- Jer_7:12ved lo que le hice por la maldad de miH6213
+- Jer_7:13habéis hecho todas estas obras, diceH6213
+- Jer_7:14haré...a esta casa...como hice a SiloH6213
+- Jer_7:17¿no ves lo que éstos hacen en...luda yH6213
+- Jer_7:18para hacer tortas a la reina del cieloH6213
+- Jer_7:18y para hacer ofrendas a dioses ajenosH5258
+- Jer_7:26ciervo e hicieron peor que sus padresH7489
+- Jer_7:30de Judá han hecho lo malo antes mis ojosH6213
+- Jer_7:34haré cesar de las ciudades de Judá
+- Jer_8:6se arrepienta...diciendo: ¿Qué he hecho?[[H6213]]
+- Jer_8:10hasta el sacerdote todos hacen engañoH6213
+- Jer_8:12se ha avergonzado...hecho abominación?[[H6213]]
+- Jer_8:19me hicieron airar con sus imágenes de talla
+- Jer_9:1¡oh, si mi cabeza se hiciese aguas, y misH5414
+- Jer_9:3hicieron que su lengua lanzara mentira
+- Jer_9:7¿qué más he de hacer por la hija de miH6213
+- Jer_9:24yo soy Jehová, que hago misericordiaH6213
+- Jer_10:5ni pueden hacer mal, ni para h bienH7489, [[H3190]]
+- Jer_10:11dioses que no hicieron los cielos ni laH5648
+- Jer_10:12el que hizo la tierra con su poder, elH6213
+- Jer_10:13hace los relámpagos con la lluvia, yH6213
+- Jer_11:5para que confirme el juramento que hiceH7650
+- Jer_11:7el día que les hice subir de la tierra de Egipto
+- Jer_11:15habiendo hecho muchas abominaciones?[[H6213]]
+- Jer_11:16estrépito hizo encender fuego sobre él
+- Jer_11:17casa de Judá han hecho provocándomeH6213
+- Jer_11:18Jehová me lo hizo saber...hiciste ver sus obras
+- Jer_12:5¿cómo harás en la espesura del Jordán?[[H6213]]
+- Jer_12:14la heredad que hice poseer a mi pueblo Israel
+- Jer_12:15los haré volver cada uno a su heredad
+- Jer_13:9así haré podrir la soberbia de Judá
+- Jer_13:11así hice juntar a mí toda la casa de Israel
+- Jer_13:16antes que haga venir tinieblas
+- Jer_13:17el rebaño de Jehová fue hecho cautivoH7617
+- Jer_13:23hacer bien, estando habituados a hacer mal?
+- Jer_14:8¿por qué te has hecho como forastero enH1616
+- Jer_14:19nos hiciste herir sin que haya remedio?
+- Jer_14:22Jehová...tú hiciste todas estas cosasH6213
+- Jer_15:4Manasés...rey de Judá, por lo que hizoH6213
+- Jer_15:8hice que de repente cayesen terrores
+- Jer_15:14te haré servir a tus enemigos en tierra
+- Jer_16:9aquí que yo haré cesar en este lugar
+- Jer_16:12habéis hecho peor que vuestros padresH6213
+- Jer_16:14hizo subir a...de tierra de Egipto
+- Jer_16:15que hizo subir a...de la tierra del norte
+- Jer_16:20¿hará acaso el hombre dioses para sí?[[H6213]]
+- Jer_16:21les haré conocer mi mano y mi poder
+- Jer_17:4y te haré servir a tus enemigos
+- Jer_17:4porque fuego habéis encendido en mi furor
+- Jer_17:22ni hagáis trabajo...sino santificad elH6213
+- Jer_17:24día...no haciendo en él ningún trabajoH6213
+- Jer_17:27haré descender fuego en sus puertas
+- Jer_18:2y allí te haré oír mis palabras
+- Jer_18:4y la vasija de barro que él hacía seH6213
+- Jer_18:4volvió y la hizo otra vasija, según leH6213
+- Jer_18:4vasija, según le pareció mejor hacerlaH6213
+- Jer_18:6¿no podré yo hacer de vosotros como esteH6213
+- Jer_18:8me...del mal que había pensado hacerlesH6213
+- Jer_18:10si hiciere lo malo delante de mis ojosH6213
+- Jer_18:10del bien que había determinado hacerle
+- Jer_18:12y haremos cada uno el pensamiento deH6213
+- Jer_18:13fealdad ha hecho la virgen de IsraelH6213
+- Jer_18:23haz así con ellos en el tiempo de tuH6213
+- Jer_19:7les haré caer a espada delante de sus enemigos
+- Jer_19:9les haré comer la carne de sus hijos yH398
+- Jer_19:12así haré a este lugar, dice Jehová, y aH6213
+- Jer_20:4haré que seas un terror a ti mismo y aH5414
+- Jer_20:15te ha nacido, haciéndole alegrarse asíH8055
+- Jer_21:2Nabucodonosor rey...hace guerra contraH3898
+- Jer_21:2quizá Jehová hará con nosotros segúnH6213
+- Jer_21:12así dijo Jehová: Haced de mañana juicioH4611
+- Jer_21:14haré encender fuego en su bosque
+- Jer_22:3dicho Jehová: Haced juicio y justiciaH6213
+- Jer_22:8¿por qué hizo así Jehová con esta granH6213
+- Jer_22:15tu padre, e hizo juicio y justiciaH6213
+- Jer_22:17y para opresión y para hacer agravioH6213
+- Jer_22:23Líbano, hiciste tu nido en los cedrosH7077
+- Jer_22:26haré llevar cautivo a ti y a tu madreH2904
+- Jer_23:3y las haré volver a sus moradas
+- Jer_23:5y hará juicio y justicia en la tierraH6213
+- Jer_23:7que hizo subir a...de la tierra de Egipto
+- Jer_23:8hizo subir y trajo la...de tierra del norte
+- Jer_23:13e hicieron errar a mi pueblo de Israel
+- Jer_23:15hago comer ajenjos, y las haré beber
+- Jer_23:20hasta que lo haya hecho y hasta queH6213
+- Jer_23:22habrían hecho oír...y lo habrían hecho volver
+- Jer_23:27¿no piensan cómo hacen que mi pueblo
+- Jer_23:32ningún provecho hicieron a este pueblo
+- Jer_25:6no vayáis en pos de...y no os haré malH3707
+- Jer_25:10y haré que desaparezca de entre ellosH6
+- Jer_25:29a la ciudad...yo comienzo a hacer malH7489
+- Jer_26:3mal que pienso hacerles por la maldadH6213
+- Jer_26:14haced de mí como mejor y más recto osH6213
+- Jer_26:19¿haremos pues, nosotros tan gran malH6213
+- Jer_27:2hazte coyundas y yugos, y ponlos sobreH6213
+- Jer_27:5hice la tierra, el hombre y las bestiasH6213
+- Jer_27:10para haceros alejar de vuestra tierra
+- Jer_28:3haré volver a este lugar todos los utensilios
+- Jer_28:4haré volver a este lugar a Jeconías
+- Jer_28:6dijo...Jeremías: Amén, así lo haga JehováH6213
+- Jer_28:13en vez de ellos harás yugos de hierroH6213
+- Jer_28:15tú has hecho confiar en mentira a este pueblo
+- Jer_29:4que hice transportar de Jerusalén a Babilonia
+- Jer_29:7la paz de la ciudad a la cual os hice transportar
+- Jer_29:10para haceros volver a este lugar
+- Jer_29:14y haré volver vuestra cautividad
+- Jer_29:14haré volver al lugar de donde os hice llevar
+- Jer_29:22harán de ellos una maldición, diciendo
+- Jer_29:23porque hicieron maldad en Israel, yH6213
+- Jer_29:31os hizo confiar en mentira
+- Jer_29:32ni verá el bien...haré yo a mi puebloH6213
+- Jer_30:3haré volver a los cautivos de mi pueblo Israel
+- Jer_30:15por tus muchos pecados te he hecho estoH6213
+- Jer_30:16a todos los que hicieron presa de tiH398
+- Jer_30:17yo haré venir sanidad para ti, y sanaré
+- Jer_30:18hago volver los cautivos de las tiendas de Jacob
+- Jer_30:21y le haré llegar cerca, y él
+- Jer_30:24no se calmará el...hasta que haya hechoH6213
+- Jer_31:3se manifestó a mí hace ya mucho tiempo
+- Jer_31:7haced oír, alabad, y decid
+- Jer_31:8yo los hago volver de la tierra del norte
+- Jer_31:9los haré volver, y los haré andar
+- Jer_31:10hacedlo saber en las costas que están lejos
+- Jer_31:23cuando yo haga volver sus cautivos
+- Jer_31:31haré nuevo pacto con la casa de IsraelH3772
+- Jer_31:32como el pacto que hice con sus padresH3772
+- Jer_31:33este es el pacto que haré con la casaH3772
+- Jer_31:37yo desecharé...por todo lo que hicieronH6213
+- Jer_32:5hará llevar a Sedequías a Babilonia
+- Jer_32:10la hice certificar con testigos
+- Jer_32:17hiciste el cielo y la tierra con tu gran poderH6213
+- Jer_32:18haces misericordia a millares
+- Jer_32:20hiciste señales...y te has hecho nombreH7760
+- Jer_32:23nada hicieron de...les mandaste hacerH6213
+- Jer_32:30no han hecho sino lo malo delante deH6213
+- Jer_32:30no han hecho más que provocarme a iraH3707
+- Jer_32:31para que la haga quitar de mi presencia
+- Jer_32:32la maldad...que han hecho para enojarmeH6213
+- Jer_32:35ni me vino al pensamiento que hiciesenH6213
+- Jer_32:37los haré volver...los haré habitar seguramente
+- Jer_32:40y haré con ellos pacto eterno, que noH3772
+- Jer_32:40no me volveré atrás de hacerles bienH3190
+- Jer_32:41me alegraré con ellos haciéndoles bienH2895
+- Jer_32:44harán escritura...yo haré regresar sus
+- Jer_33:2así ha dicho Jehová que hizo la tierraH6213
+- Jer_33:7haré volver los cautivos de Judá y los
+- Jer_33:9habrán oído todo el bien que yo les hagoH6213
+- Jer_33:9el bien y toda la paz que yo les haréH6213
+- Jer_33:12aún habrá...que hagan pastar sus ganados
+- Jer_33:15días...haré brotar a David un RenuevoH6779
+- Jer_33:15y hará juicio y justicia en la tierraH6213
+- Jer_33:18y que haga sacrificio todos los díasH5927
+- Jer_33:26haré...y tendré de ellos misericordia
+- Jer_34:8después que Sedequías hizo pacto conH3772
+- Jer_34:11hicieron volver a los siervos y a las siervas
+- Jer_34:13hice pacto con vuestros padres el díaH3772
+- Jer_34:15hecho lo recto...y habíais h pacto enH6213
+- Jer_34:22los haré volver a esta ciudad, y pelearán
+- Jer_35:10y hemos obedecido y hecho conforme aH6213
+- Jer_35:18hicisteis conforme a todas las cosasH6213
+- Jer_36:3oiga...todo el mal que pienso hacerlesH6213
+- Jer_36:8Baruc...hizo conforme a todas las cosasH6213
+- Jer_36:29hará que...ni hombres ni animales?
+- Jer_37:20no me hagas volver a casa del escriba Jonatán
+- Jer_37:21haciéndole dar una torta de pan al día
+- Jer_38:4de esta manera hace desmayar las manos
+- Jer_38:5el rey nada puede hacer contra vosotros
+- Jer_38:6lo hicieron echar en la cisterna de Malquías
+- Jer_38:9mal hicieron...en todo lo que han hechoH6213
+- Jer_38:10haz sacar al profeta Jeremías de la cisterna
+- Jer_38:12y lo hizo así JeremíasH6213
+- Jer_38:14hizo traer al profeta Jeremías a su presencia
+- Jer_38:16vive Jehová que nos hizo esta alma
+- Jer_38:26que no me hiciese volver a casa de Jonatán
+- Jer_39:5le hicieron subir a Ribla en tierra de Hamat
+- Jer_39:6haciendo asimismo degollar el rey de Babilonia
+- Jer_39:10hizo quedar en tierra de Judá a los pobres
+- Jer_39:12no le hagas mal alguno, sino que harás con élH6213
+- Jer_40:3y hecho Jehová según lo había dichoH6213
+- Jer_40:16no hagas esto, porque es falso lo queH6213
+- Jer_41:9era la misma que había hecho el rey AsaH6213
+- Jer_41:11el mal que había hecho Ismael hijo deH6213
+- Jer_42:3tu Dios nos enseñe...que hemos de hacerH6213
+- Jer_42:5no hiciéramos conforme a todo aquelloH6213
+- Jer_42:10arrepentido del mal que os he hechoH6213
+- Jer_42:12y os hará regresar a vuestra tierra
+- Jer_42:20¿por qué hicisteis errar vuestras almas?
+- Jer_42:20que...nuestro Dios dijere, y lo haremosH6213
+- Jer_43:3para matarnos y hacernos transportar aH1540
+- Jer_44:4no hagáis esta cosa abominable que yoH6213
+- Jer_44:7¿por qué hacéis tan grande mal contraH6213
+- Jer_44:8haciéndome enojar con las obras deH3707
+- Jer_44:9maldades...que hicieron en la tierra deH6213
+- Jer_44:17como hemos hecho nosotros y nuestrosH6213
+- Jer_44:19¿acaso le hicimos nosotras tortas paraH6213
+- Jer_44:22las abominaciones que habíais hechoH6213
+- Jer_44:25cumpliremos...nuestros votos que hicimosH6213
+- Jer_46:14haced saber en Migdol; haced saber también
+- Jer_46:19hazte enseres de cautiverio, moradoraH6213
+- Jer_47:2suben aguas del norte...se harán torrente
+- Jer_48:4hicieron que se oyese el clamor de sus pequeños
+- Jer_48:10maldito el que hiciere indolentementeH6213
+- Jer_48:28sed como la paloma que hace nido en laH7077
+- Jer_48:31sobre todo Moab haré clamor, y sobreH3213
+- Jer_48:33de los lagares haré que falte el vino
+- Jer_48:36perecieron...riquezas que habían hechoH6213
+- Jer_48:47haré volver a los cautivos de Moab
+- Jer_49:2haré oír clamor de guerra en Rabá
+- Jer_49:6haré volver a los cautivos de los hijos de
+- Jer_49:15te haré pequeño entre las nacionesH5414
+- Jer_49:16de allí te haré descender
+- Jer_49:19porque muy pronto le haré huir de ella
+- Jer_49:27haré encender fuego en el muro de Damasco
+- Jer_49:37y haré que Elam se intimide delante deH2865
+- Jer_49:39haré volver a los cautivos de Elam, dice Jehová
+- Jer_50:2anunciad en las naciones, y haced saberH8085
+- Jer_50:6sus pastores las hicieron errar
+- Jer_50:9hago subir contra Babilonia reunión de grandes
+- Jer_50:15gritad...haced con ella como ella hizoH6213
+- Jer_50:21y haz conforme a todo lo que yo te heH6213
+- Jer_50:29conforme a todo lo que ella hizo, hacedH6213
+- Jer_50:34para hacer reposar la tierra, y turbar
+- Jer_50:40como en la destrucción que Dios hizo
+- Jer_50:44muy pronto le haré huir de ella
+- Jer_51:15es el que hizo la tierra con su poderH6213
+- Jer_51:16hace relámpagos con la lluvia, y sacaH6213
+- Jer_51:24todo el mal que ellos hicieron en SiónH6213
+- Jer_51:25y te haré rodar de las peñas, y te reduciréH5414
+- Jer_51:27haced subir caballos como langostas erizadas
+- Jer_51:35la violencia hecha a mí y a mi carneH6213
+- Jer_51:36yo...haré tu venganza; y secaré su mar
+- Jer_51:36y haré que su corriente quede secaH2717
+- Jer_51:39y haré que se embriaguen, para que seH7896
+- Jer_51:40los haré traer como corderos al matadero
+- Jer_52:2hizo lo malo...conforme a...que h loacimH6213
+- Jer_52:9y le hicieron venir al rey de Babilonia
+- Jer_52:11y lo hizo llevar a Babilonia
+- Jer_52:15hizo transportar...a los pobres del pueblo, y a
+- Jer_52:20de las basas, que había hecho el reyH6213
+- Jer_52:32hizo poner su trono sobre los tronos de
+- Jer_52:33le hizo mudar también los vestidos de
+- Lam_1:1la señora de...ha sido hecha tributariaH4522
+- Lam_1:5sus enemigos han sido hechos príncipes
+- Lam_1:20por fuera hizo estragos la espada; por
+- Lam_1:21enemigos...alegran de lo que tú hicisteH6213
+- Lam_1:22haz con ellos como hiciste conmigo porH5953
+- Lam_2:6Jehová ha hecho olvidar las fiestas solemnes
+- Lam_2:7hicieron resonar su voz en la casa de JehováH5414
+- Lam_2:8hizo...que se lamentara el antemuro y el
+- Lam_2:13o a quién te haré semejante, hija deH1918
+- Lam_2:17Jehová ha hecho lo que tenía determinadoH6213
+- Lam_2:17ha hecho que el enemigo se alegre sobreH8065
+- Lam_2:20mira...y considera a quién has hecho asíH5953
+- Lam_3:4hizo envejecer mi carne y mi piel
+- Lam_3:7cercó...ha hecho más pesadas mis cadenas
+- Lam_3:13hizo entrar en mis entrañas las
+- Lam_4:22nunca más te hará llevar cautiva
+- Eze_3:2me hizo comer aquel rollo
+- Eze_3:8he hecho tu rostro fuerte contra losH5414
+- Eze_3:9fuerte que pedernal he hecho tu frenteH5414
+- Eze_3:20si el justo...hiciere maldad, y pusiereH6213
+- Eze_3:20justicias que había hecho no vendrán enH6213
+- Eze_3:26haré que se pegue tu lengua a tu paladar
+- Eze_4:9y ponlos en una vasija, y hazte pan deH6213
+- Eze_5:1hazla pasar sobre tu cabeza y tu barba
+- Eze_5:8haré juicios en medio de ti ante...ojosH6213
+- Eze_5:9haré...lo que nunca hice, ni jamás haréH6213
+- Eze_5:10haré en ti juicios, y esparciré a todosH6213
+- Eze_5:15cuando yo haga en ti juicios con furorH6213
+- Eze_6:3yo haré venir sobre vosotros espada
+- Eze_6:4haré que caigan vuestros muertos
+- Eze_6:6que sean asolados y se hagan desiertos
+- Eze_6:9causa de los males que hicieron en todasH6213
+- Eze_6:10no en vano dije que les había de hacerH6213
+- Eze_6:14haré la tierra más asolada y devastadaH5414
+- Eze_7:20hicieron de ello las imágenes de ídolosH6213
+- Eze_7:23haz una cadena, porque la tierra estáH6213
+- Eze_7:24haré cesar la soberbia de los poderosos
+- Eze_7:27según su camino haré con ellos, y conH6213
+- Eze_8:6¿no ves lo que éstos hacen, las grandesH6213
+- Eze_8:6abominaciones...hace aquí para alejarmeH7368
+- Eze_8:9ve las malvadas abominaciones que hacenH6213
+- Eze_8:12que los ancianos de...hacen en tinieblasH6213
+- Eze_8:13abominaciones mayores que hacen éstosH6213
+- Eze_8:17es cosa liviana...hacer...que hacen aquí?[[H6213]]
+- Eze_9:4todas las abominaciones que se hacen enH6213
+- Eze_9:10así, pues, haré yo; mi ojo no perdonará
+- Eze_9:11he hecho conforme a...lo que me mandasteH6213
+- Eze_11:9os entregaré en manos...y haré juiciosH6213
+- Eze_11:12según las costumbres de...habéis hechoH6213
+- Eze_12:7yo hice así como me fue mandado; saquéH6213
+- Eze_12:9¿no te ha dicho la casa de...¿Qué haces?[[H6213]]
+- Eze_12:11como yo hice, así se hará con vosotrosH6213
+- Eze_12:13y haré llevarlo a Babilonia, a
+- Eze_12:16haré que unos pocos de ellos escapen deH3498
+- Eze_12:23haré cesar este refrán, y no repetirán
+- Eze_13:11enviaré piedras de granizo que la hagan caer
+- Eze_13:13Haré que la rompa viento tempestuoso
+- Eze_13:18hacen velos mágicos para la cabeza deH6213
+- Eze_14:15si hiciere pasar bestias feroces por la tierra
+- Eze_14:17hiciere cortar de ella hombres y bestias
+- Eze_14:22del mal que hice venir sobre Jerusalén
+- Eze_14:23no sin causa hice todo lo que he hechoH6213
+- Eze_15:3tomarán de ella madera para hacer...obra?[[H6213]]
+- Eze_15:6así haré a los moradores de JerusalénH5414
+- Eze_16:5se compadeciese de ti para hacerte algoH6213
+- Eze_16:7te hice...y creciste y te hiciste grandeH5414
+- Eze_16:16y te hiciste diversos lugares altosH6213
+- Eze_16:17hiciste imágenes de hombre y fornicasteH6213
+- Eze_16:24te hiciste altar en todas las plazasH6213
+- Eze_16:25hiciste abominable tu hermosura, y te
+- Eze_16:30habiendo hecho...estas cosas, obras deH6213
+- Eze_16:31haciendo tus altares en...las plazas![[H6213]]
+- Eze_16:40harán subir contra ti muchedumbre de gente
+- Eze_16:41y harán en ti juicios en presencia deH6213
+- Eze_16:41así haré que dejes de ser ramera, y que
+- Eze_16:47ni hiciste según sus abominacionesH6213
+- Eze_16:48no han hecho como hiciste tú y tusH6213
+- Eze_16:50e hicieron abominación delante de míH6213
+- Eze_16:51con...las abominaciones que tú hicisteH6213
+- Eze_16:52tu vergüenza en los pecados...tú hicisteH8581
+- Eze_16:53haré volver a sus...y haré volver los cautivos
+- Eze_16:54te avergüences de todo lo que has hechoH6213
+- Eze_16:59¿haré yo contigo como tú hiciste, queH6213
+- Eze_16:63cuando yo perdone todo lo que hicisteH6213
+- Eze_17:6y brotó, y se hizo una vid de...ramajeH1612
+- Eze_17:6así se hizo una vid, y arrojó sarmientosH6213
+- Eze_17:8para que hiciese ramas y diese frutoH6213
+- Eze_17:13descendencia real e hizo pacto con élH3772
+- Eze_17:13le hizo prestar juramento; y se llevó
+- Eze_17:15escapará el que estas cosas hizo? ElH6213
+- Eze_17:16el rey...cuyo pacto hecho con él rompió
+- Eze_17:17ni con...compañía haré, Faraón nada porH6213
+- Eze_17:18ha hecho todas estas cosas, no escaparáH6213
+- Eze_17:20y lo haré venir a Babilonia
+- Eze_17:23y se hará magnifico cedro...y habitaránH117
+- Eze_17:24seco...Yo Jehová lo he dicho, y lo haréH6213
+- Eze_18:5,21hiciere...el derecho y la justiciaH6213
+- Eze_18:8hiciere juicio verdadero entre hombre yH6213
+- Eze_18:9y guardare mis...para hacer rectamenteH6213
+- Eze_18:10hijo...o que haga alguna cosa de estasH6213
+- Eze_18:11que no haga las otras, sino que comiereH6213
+- Eze_18:12cometiere robos...e hiciere abominaciónH6213
+- Eze_18:13abominaciones hizo, de cierto moriráH6213
+- Eze_18:14viere...los pecados que su padre hizoH6213
+- Eze_18:14si...viéndolos no hiciere según ellosH6213
+- Eze_18:18hizo agravio, despojó violentamente al
+- Eze_18:18hizo en...su pueblo lo que no es buenoH6213
+- Eze_18:19porque el hijo hizo según el derechoH6213
+- Eze_18:21apartare de todos sus pecados que hizoH6213
+- Eze_18:22no le...en su justicia que hizo viviráH6213
+- Eze_18:24hiciere conforme a...que el impío hizoH6213
+- Eze_18:24ninguna de las justicias que hizo leH6213
+- Eze_18:26haciendo iniquidad, él morirá por elloH6213
+- Eze_18:26justo...por la iniquidad que hizo, moriráH6213
+- Eze_18:27su impiedad que hizo, y haciendo segúnH6213
+- Eze_18:31haceos un corazón nuevo y un espírituH6213
+- Eze_19:3hizo subir uno de sus cachorros
+- Eze_19:6se hizo leoncillo, aprendió a arrebatarH3715
+- Eze_20:4hazles conocer las abominaciones de sus padres
+- Eze_20:11y les hice conocer mis decretos
+- Eze_20:26hacían...y hacerles saber que yo soy Jehová
+- Eze_20:31haciendo pasar vuestros hijos por el fuego
+- Eze_20:37haré pasar bajo la vara, y os haré entrar
+- Eze_20:44cuando haga con vosotros por amor de miH6213
+- Eze_21:7he aquí que viene, y se hará, dice JehováH1961
+- Eze_21:17y haré reposar mi ira
+- Eze_21:23ya que les ha hecho solemnes juramentosH7650
+- Eze_21:24habéis hecho traer a la memoria vuestras
+- Eze_21:31el fuego de mi enojo haré encender sobre ti
+- Eze_22:3y que hizo ídolos contra sí misma paraH6213
+- Eze_22:4contaminado en tus ídolos que hicisteH6213
+- Eze_22:9hicieron en medio de ti perversidadesH6213
+- Eze_22:10hicieron violencia a la...inmunda por su
+- Eze_22:11cada uno hizo abominación con la mujerH6213
+- Eze_22:14días...Yo Jehová he hablado, y lo haréH6213
+- Eze_22:15y haré fenecer de ti tu inmundicia
+- Eze_22:26lo santo y lo...no hicieron diferencia
+- Eze_22:29al afligido...hacía violencia...oprimía
+- Eze_22:30busqué...hombre que hiciese vallado yH1443
+- Eze_22:31hice volver el camino de ellos sobre
+- Eze_23:10famosa...en ella hicieron escarmientoH6213
+- Eze_23:18así hizo patentes sus fornicaciones yH1540
+- Eze_23:22y les haré venir contra ti en derredor
+- Eze_23:27y haré cesar de ti tu lujuria
+- Eze_23:30se harán contigo porque fornicaste en posH6213
+- Eze_23:37hicieron pasar por el fuego, quemándolos
+- Eze_23:38esto más me hicieron: contaminaron miH6213
+- Eze_23:39he aquí, así hicieron en medio de miH6213
+- Eze_23:46haré subir contra ellas tropas
+- Eze_23:48no harán según vuestras perversidadesH6213
+- Eze_24:5haz que hierva bien
+- Eze_24:8hecho subir la ira para hacer venganzaH5358
+- Eze_24:9¡ay...Pues también haré yo gran hoguera
+- Eze_24:10para consumir la carne y hacer la salsa
+- Eze_24:14vendrá, y yo lo haré. No me volveréH6213
+- Eze_24:17no hagas luto de mortuorios; ata tuH6213
+- Eze_24:18a la mañana hice como me fue mandadoH6213
+- Eze_24:19qué significan...estas cosas que haces?[[H6213]]
+- Eze_24:22haréis de la manera que yo hice; no osH6213
+- Eze_24:24según...las cosas que él hizo, haréisH6213
+- Eze_25:11en Moab haré juicios, y sabrán que yoH6213
+- Eze_25:12por lo que hizo Edom, tomando venganzaH6213
+- Eze_25:14harán en Edom según mi enojo...mi iraH6213
+- Eze_25:15por lo que hicieron los filisteos conH6213
+- Eze_25:17haré en ellos grandes venganzas...de iraH6213
+- Eze_25:17ira...cuando haga mi venganza en ellosH5414
+- Eze_26:3haré subir contra ti muchas naciones
+- Eze_26:13haré cesar el estrépito de tus canciones
+- Eze_26:15cuando se haga la matanza en medio deH2026
+- Eze_26:19haré subir sobre ti el abismo, y
+- Eze_26:20te haré descender con los que descienden
+- Eze_27:5tomaron cedros...para hacerle el mástilH6213
+- Eze_27:6de encinas de Basán hicieron tus remosH6213
+- Eze_27:30harán oír su voz sobre ti, y gritarán
+- Eze_28:8al sepulcro te harán descender
+- Eze_28:22cuando haga en ella juicios, y en ellaH6213
+- Eze_28:26cuando yo haga juicios en todos los queH6213
+- Eze_29:3,9dijo: Mío es el Nilo, pues yo lo hiceH6213
+- Eze_29:16que les haga recordar el pecado
+- Eze_29:18hizo a su ejército prestar...servicio
+- Eze_29:21haré retoñar el poder de la casa de Israel
+- Eze_30:14fuego a Zoán, y haré juicios en TebasH6213
+- Eze_30:19haré...juicios en Egipto, y sabrán queH6213
+- Eze_30:22haré que la espada...le caiga de la mano
+- Eze_31:4las aguas lo hicieron crecer
+- Eze_31:6en sus ramas hacían nido todas las avesH7077
+- Eze_31:7se hizo, pues, hermoso en su grandezaH3302
+- Eze_31:9lo hice hermoso con la multitud de susH6213
+- Eze_31:15hice hacer luto, hice cubrir por él el
+- Eze_31:16hice temblar...cuando las hice descender
+- Eze_32:3y te harán subir con mi red
+- Eze_32:4haré posar sobre ti todas las aves
+- Eze_32:7y haré entenebrecer sus estrellas
+- Eze_32:7y la luna no hará resplandecer su luz
+- Eze_32:8haré entenebrecer todos los astros
+- Eze_32:10cuando haga resplandecer mi espada
+- Eze_32:12con espadas de fuertes haré caer tu pueblo
+- Eze_32:14haré asentarse sus aguas, y haré correr
+- Eze_33:13él confiado en su...hiciere iniquidadH6213
+- Eze_33:13que morirá por su iniquidad que hizoH6213
+- Eze_33:14,19hiciere...el derecho y la justiciaH6213
+- Eze_33:15la vida, no haciendo iniquidad, viviráH6213
+- Eze_33:16hizo según el derecho y la justiciaH6213
+- Eze_33:18e hiciere iniquidad, morirá por elloH6213
+- Eze_33:26hicisteis abominación...cada cual a laH6213
+- Eze_33:29todas las abominaciones que han hechoH6213
+- Eze_33:31antes hacen halagos con sus bocas, y elH6213
+- Eze_34:10les haré dejar de apacentar las ovejas
+- Eze_34:16y haré volver al redil la descarriada
+- Eze_34:26haré descender la lluvia en su tiempo
+- Eze_35:11haré conforme a tu ira, y conforme a tuH6213
+- Eze_35:14ha dicho Jehová...te haré una desolaciónH6213
+- Eze_35:15porque fue asolada, así te haré a tiH6213
+- Eze_36:3os ha hecho caer en boca de habladores
+- Eze_36:10y haré multiplicar sobre vosotros hombres
+- Eze_36:11y os haré mayor bien que en vuestrosH3190
+- Eze_36:12haré andar hombres sobre vosotros
+- Eze_36:15te haré oír injuria de naciones
+- Eze_36:15ni harás más morir a los hijos de tu nación
+- Eze_36:22no lo hago por vosotros, oh casa deH6213
+- Eze_36:27y haré que andéis en mis estatutos
+- Eze_36:32no lo hago por vosotros, dice Jehová elH6213
+- Eze_36:33haré...que sean habitadas las ciudadesH3427
+- Eze_36:36que...yo Jehová he hablado, y lo haréH6213
+- Eze_36:37aún seré solicitado...para hacerles estoH6213
+- Eze_37:2me hizo pasar cerca de ellos por todo
+- Eze_37:5yo hago entrar espíritu en vosotros
+- Eze_37:6y haré subir sobre vosotros carne
+- Eze_37:12y os haré subir de vuestras sepulturas
+- Eze_37:14que yo Jehová hablé, y lo hice, diceH6213
+- Eze_37:19los haré un solo palo, y serán uno enH6213
+- Eze_37:22y los haré una nación en la tierra, enH6213
+- Eze_37:26y haré con ellos pacto de paz, pactoH3772
+- Eze_38:12que se hace de ganado y posesiones, queH6213
+- Eze_38:22y haré llover sobre él...fuego y azufre
+- Eze_39:2y te haré subir de las partes del norte
+- Eze_39:7haré notorio mi santo nombre en medioH3045
+- Eze_39:14al cabo de 7...harán el reconocimientoH2713
+- Eze_39:21verán mi juicio que habré hecho, y miH6213
+- Eze_39:24y conforme a sus rebeliones hice conH6213
+- Eze_40:45,46los sacerdotes que hacen la guardiaH8104
+- Eze_42:20un muro...para hacer separación entreH914
+- Eze_43:8con sus abominaciones que hicieron; porH6213
+- Eze_43:11se avergonzaran de...lo que han hechoH6213
+- Eze_43:18altar el día en que sea hecho, paraH6213
+- Eze_43:26por siete días harán expiación por elH3722
+- Eze_44:1me hizo volver hacia la puerta exterior
+- Eze_44:13llevarán...abominaciones que hicieronH6213
+- Eze_44:14todo lo que en ella haya de hacerseH6213
+- Eze_44:18no se ceñirán cosa que los haga sudar
+- Eze_44:23enseñarán...hacer diferencia entre lo
+- Eze_45:9oh príncipes...Haced juicio y justiciaH6213
+- Eze_45:14diez batos harán un homer
+- Eze_45:17hacer expiación por la casa de IsraelH3722
+- Eze_45:20así harás el séptimo día...h expiaciónH6213
+- Eze_45:25fiesta, hará como en estos siete díasH6213
+- Eze_46:7y hará ofrenda de un efa con el becerroH6213
+- Eze_46:12cuando el príncipe...hiciere holocaustoH6213
+- Eze_46:12hará su holocausto y sus ofrendas deH6213
+- Eze_46:12de paz, como hace en el día de reposoH6213
+- Eze_46:14harás todas las mañanas ofrenda de laH6213
+- Eze_47:1me hizo volver luego a la entrada de la casa
+- Eze_47:2y me hizo dar la vuelta por el camino exterior
+- Eze_47:3me hizo pasar por las aguas hasta los tobillos
+- Eze_47:4me hizo pasar por las aguas hasta las rodillas
+- Eze_47:4y me hizo pasar por las aguas hasta los lomos
+- Dan_1:12te ruego que hagas la prueba con tusH5254
+- Dan_1:13haz después con tus siervos según veasH6213
+- Dan_2:2izo llamar el rey a magos, astrólogos
+- Dan_2:5seréis hechos pedazos, y vuestras casasH3809
+- Dan_2:15Arioc hizo saber a Daniel lo que había
+- Dan_2:17fue Daniel...hizo saber lo que había a Ananías
+- Dan_2:26¿odrás tú hacerme conocer el sueño que vi
+- Dan_2:28y él ha hecho saber al rey Nabucodonosor
+- Dan_2:35mas la piedra...fue hecha un gran monteH1934
+- Dan_2:48le hizo gobernador de toda la provinciaH7981
+- Dan_3:1el rey Nabucodonosor hizo una estatua deH5648
+- Dan_3:15al oír...adoréis la estatua que he hecho?[[H5648]]
+- Dan_4:2señales...que el Dios Altísimo ha hechoH5648
+- Dan_4:11se hacía fuerte, y su copa llegaba hastaH8631
+- Dan_4:12en sus ramas hacían morada las aves delH1753
+- Dan_4:20el árbol que...crecía y se hacía fuerteH8631
+- Dan_4:22rey, que creciste y te hiciste fuerteH8631
+- Dan_4:27pecados redime...haciendo misericordiasH2604
+- Dan_4:35él hace según su voluntad en el ejércitoH5648
+- Dan_4:35y no hay quien...y le diga: ¿Qué haces?[[H5648]]
+- Dan_5:1Belsasar hizo un gran banquete a mil deH5648
+- Dan_5:7gritó en alta voz que hiciesen venir magos
+- Dan_5:21su mente se hizo semejante a...bestiasH7739
+- Dan_5:23hiciste traer delante de ti los vasos de su casa
+- Dan_6:10daba gracias...como lo solía hacer antesH5648
+- Dan_6:13que tres veces al día hace su peticiónH1156
+- Dan_6:22los leones, para que no me hiciesen daño
+- Dan_6:22de ti, oh rey, yo no he hecho nada maloH5648
+- Dan_6:27y hace señales y maravillas en el cieloH5648
+- Dan_7:13y le hicieron acercarse delante de él
+- Dan_7:16me hizo conocer la interpretación de las cosas
+- Dan_7:21cuerno hacía guerra contra los santosH5648
+- Dan_8:4el carnero...hacía conforme a su voluntadH6213
+- Dan_8:12echó...e hizo cuanto quiso, y prosperóH6213
+- Dan_8:18y él me tocó, y me hizo estar en pieH5975
+- Dan_8:24hará arbitrariamente, y destruirá a losH6213
+- Dan_8:25su sagacidad hará prosperar el engaño
+- Dan_9:4e hice confesión diciendo: Ahora, SeñorH3034
+- Dan_9:5,15hemos pecado...hemos hecho impíamenteH7561
+- Dan_9:12nunca fue hecho...ha h contra JerusalénH6213
+- Dan_9:14justo...en todas sus obras que ha hechoH6213
+- Dan_9:15te hiciste renombre cual lo tienes hoyH6213
+- Dan_9:17haz que tu rostro resplandezca sobre tuH215
+- Dan_9:19presta oído, Señor, y hazlo; no tardesH6213
+- Dan_9:22y me hizo entender, y habló conmigo
+- Dan_9:27hará cesar el sacrificio y la ofrenda
+- Dan_10:10hizo que me pusiese sobre mis rodillasH5128
+- Dan_10:14para hacerte saber lo que ha de venir
+- Dan_11:2y el cuarto se hará de grandes riquezas
+- Dan_11:2y al hacerse fuerte con sus riquezas
+- Dan_11:3el cual dominará con...y hará su voluntadH6213
+- Dan_11:5se hará fuerte el rey del sur; mas unoH2388
+- Dan_11:5más fuerte que él, y se hará poderosoH2388
+- Dan_11:6al cabo de años harán alianza, y la hijaH2266
+- Dan_11:6vendrá al rey del...para hacer la pazH6213
+- Dan_11:7entrará...y hará en ellos a su arbitrioH6213
+- Dan_11:16que vendrá contra él hará su voluntadH6213
+- Dan_11:17y hará con aquél convenios, y le daráH6213
+- Dan_11:18hará cesar su afrenta...hará...su oprobio
+- Dan_11:20hará pasar un cobrador de tributos
+- Dan_11:24y hará lo que no hicieron sus padresH6213
+- Dan_11:25mas no prevalecerá...le harán traiciónH2803
+- Dan_11:27el corazón de estos dos...para hacer mal
+- Dan_11:28hará su voluntad, y volverá a...tierraH6213
+- Dan_11:30hará según su voluntad; volverá, puesH6213
+- Dan_11:36hará su voluntad, y se ensoberbeceráH6213
+- Dan_11:37del Dios de sus padres no hará caso, ni
+- Dan_11:39con un dios...se hará de las fortalezasH6213
+- Ose_1:4haré cesar el reino de la casa de Israel
+- Ose_2:3la haga como un desierto, la deje comoH7760
+- Ose_2:11aré cesar todo su gozo, sus fiestas, sus
+- Ose_2:12haré talar sus vides y sus higueras
+- Ose_2:18haré para ti pacto con las bestias delH3772
+- Ose_3:3no fornicarás...lo mismo haré yo contigo
+- Ose_4:12espíritu de fornicaciones lo hizo errar
+- Ose_5:2haciendo víctimas han bajado hasta lo más
+- Ose_5:9en las tribus de Israel hice conocer la verdad
+- Ose_6:4¿qué haré a ti, Efraín? ¿Qué h a ti, ohH6213
+- Ose_6:11yo haga volver el cautiverio de mi pueblo
+- Ose_7:1hicieron engaño; y entra el ladrón, y elH6466
+- Ose_7:4cesa de...después que está hecha la masa
+- Ose_7:5príncipes lo hicieron enfermar con copas de vino
+- Ose_7:12les haré caer como aves del cielo
+- Ose_8:4de su plata y...hicieron ídolos para síH6213
+- Ose_8:5oh Samaria, te hizo alejarte
+- Ose_8:6artífice lo hizo, no es Dios, por lo queH6213
+- Ose_8:7no tendrán mies, ni su espiga hará harinaH6213
+- Ose_8:7ni...y si la hiciere, extraños la comeránH6213
+- Ose_9:4no harán libaciones a Jehová, ni susH5258
+- Ose_9:5¿qué haréis en el día de la solemnidadH6213
+- Ose_9:10se hicieron abominables como aquello queH157
+- Ose_10:3dirán...¿y qué haría el rey por nosotros?[[H6213]]
+- Ose_10:4palabras jurando en vano al hacer pactoH3772
+- Ose_10:11haré llevar yugo a Efraín; arará Judá
+- Ose_10:12haced para vosotros barbecho; porque esH2232
+- Ose_10:15así haré a vosotros Bet-el, por causaH6213
+- Ose_11:8¿cómo podré yo hacerte como Adma, oH5414
+- Ose_11:11los haré habitar en sus casas, dice Jehová
+- Ose_12:1porque hicieron pacto con los asiriosH3772
+- Ose_12:9aún te haré morar en tiendas
+- Ose_12:13por un profeta Jehová hizo subir a Israel
+- Ose_12:14hará recaer sobre él la sangre que ha
+- Ose_13:2de su plata se han hecho...imágenes deH6213
+- Ose_13:13hace tiempo que no debiera detenerse
+- Joe_2:20pudrición, porque hizo grandes cosasH6213
+- Joe_2:21porque Jehová hará grandes cosasH6213
+- Joe_2:23hará descender sobre vosotros lluvia temprana
+- Joe_2:26el cual hizo maravillas con vosotrosH6213
+- Joe_3:1haré volver la cautividad de Judá y de Jerusalén
+- Joe_3:2y las haré descender al valle de Josafat
+- Joe_3:4haré yo recaer la paga sobre vuestra cabeza
+- Joe_3:11haz venir allí, oh Jehová, a tus fuertes
+- Joe_3:19por la injuria hecha a los hijos de Judá
+- Amó_2:4les hicieron errar sus mentiras
+- Amó_2:10os hice subir de la tierra de Egipto
+- Amó_3:1la familia que hice subir de la tierra de Egipto
+- Amó_3:6mal en...el cual Jehová no haya hecho?[[H6213]]
+- Amó_3:7porque no hará nada Jehová el SeñorH6213
+- Amó_3:10no saben hacer lo recto, dice JehováH6213
+- Amó_4:6os hice estar a diente limpio en todasH5414
+- Amó_4:7e hice llover sobre una ciudad
+- Amó_4:7y sobre otra ciudad no hice llover
+- Amó_4:10e hice subir el hedor de vuestros campamentos
+- Amó_4:12de esta manera te haré a ti, oh IsraelH6213
+- Amó_4:12porque te he de hacer esto, prepárateH6213
+- Amó_4:13que hace de las tinieblas mañana, y pasaH6213
+- Amó_5:8buscad al que hace las Pléyades, y vuelveH6213
+- Amó_5:9y hace que el despojador venga sobre la
+- Amó_5:12hacéis perder su causa a los pobres
+- Amó_5:26la estrella de...dioses que os hicisteisH6213
+- Amó_5:27os haré, pues, transportar más allá de
+- Amó_7:7el Señor estaba sobre un muro hecho a
+- Amó_8:9haré que se ponga el sol a mediodía, yH935
+- Amó_8:10y haré poner cilicio sobre todo lomo
+- Amó_9:1hazlos pedazos sobre la cabeza de todos
+- Amó_9:2de allá los haré descender
+- Amó_9:7¿no hice yo subir a Israel de la tierra de
+- Amó_9:9haré que la casa de Israel...zarandeada
+- Amó_9:12posean el...dice Jehová que hace estoH6213
+- Amó_9:14y harán huertos, y comerán el fruto deH6213
+- Abd_1:2pequeño te he hecho entre las nacionesH5414
+- Abd_1:7hasta los confines te hicieron llegar
+- Abd_1:8¿no haré que perezcan en aquel día
+- Abd_1:15porque...como tú hiciste se hará contigoH6213
+- Jon_1:4Jehová hizo levantar un gran viento
+- Jon_1:9temo a Jehová...que hizo el mar y laH6213
+- Jon_1:10le dijeron: ¿Por qué has hecho esto?[[H6213]]
+- Jon_1:11¿qué haremos contigo para que el mar seH6213
+- Jon_1:13trabajaron para hacer volver la nave a tierra
+- Jon_1:14tú, Jehová, has hecho como has queridoH6213
+- Jon_1:16ofrecieron sacrificio...hicieron votosH5087
+- Jon_3:7hizo proclamar y anunciar en Nínive
+- Jon_3:10vio Dios lo que hicieron...convirtieronH4639
+- Jon_3:10del mal que...les haría, y no lo hizoH6213
+- Jon_4:4dijo: ¿Haces tú bien en enojarte tanto?
+- Jon_4:5se hizo allí una enramada, y se sentóH6213
+- Jon_4:6creció...para que hiciese sombra sobre suH6738
+- Jon_4:10en la cual no trabajaste, ni tú la hiciste
+- Miq_1:6haré...de Samaria montones de ruinasH7760
+- Miq_1:8haré aullido como de chacales, y lamentoH6213
+- Miq_1:16y trasquílate...hazte calvo como águilaH7139
+- Miq_2:4se hará endecha de lamentación, diciendoH5091
+- Miq_2:7¿no hacen...bien al que camina rectamente?[[H3190]]
+- Miq_2:12harán estruendo...la multitud de hombresH1949
+- Miq_3:4antes...por cuanto hicisteis malvadas obrasH7489
+- Miq_3:5los profetas que hacen errar a mi pueblo
+- Miq_3:6la profecía se os hará noche, y oscuridad
+- Miq_4:13porque haré tu cuerno como de hierro, yH7760
+- Miq_5:10haré matar tus caballos...y haré destruir tus
+- Miq_5:11haré también destruir las ciudades deH3772
+- Miq_5:13haré destruir tus esculturas y tus imágenes
+- Miq_5:15con ira y con furor haré venganza en lasH6213
+- Miq_6:3¿qué te he hecho, o en qué...he molestado?[[H6213]]
+- Miq_6:8que pide Jehová...solamente hacer justiciaH6213
+- Miq_6:13te hice enflaquecer hiriéndote, asolándote
+- Miq_7:9que juzgue mi causa y haga mi justiciaH6213
+- Nah_1:4amenaza al mar, y lo hace secar
+- Nah_1:9hará consumación; no tomará venganzaH6213
+- Nah_3:16cielo; la langosta hizo presa, y voló
+- Hab_1:3haces ver iniquidad, y haces que vea
+- Hab_1:5haré una obra en vuestros días, queH6466
+- Hab_1:10de los príncipes hará burla; se reirá
+- Hab_1:14y haces que sean los hombres como losH6213
+- Hab_1:16por esto hará sacrificios a su red, yH2076
+- Hab_2:7se despertarán los que te harán temblar
+- Hab_2:18escultura que esculpió el que la hizo?[[H3335]]
+- Hab_2:18que haciendo imágenes mudas confíe elH6213
+- Hab_3:2en medio de los tiempos hazla conocer
+- Hab_3:6miró, e hizo temblar las gentes
+- Hab_3:19el cual hace mis pies como de ciervasH7760
+- Sof_1:12Jehová ni hará bien ni h malH3190, [[H7489]]
+- Sof_1:18destrucción...hará de...los habitantes deH6213
+- Sof_2:5te haré destruir hasta no dejar morador
+- Sof_2:14rebaños de ganado harán en ella majada
+- Sof_2:15fue asolada, hecha guarida de fieras!
+- Sof_3:5Jehová en...es justo, no hará iniquidadH6213
+- Sof_3:6hice desiertas...calles, hasta no quedarH2717
+- Sof_3:13remanente de Israel no hará injusticiaH6213
+- Hag 2:5según el pacto que hice con vosotros
+- Hag 2:6yo haré temblar los cielos y la tierraH7493
+- Hag 2:7y haré temblar a todas las naciones, yH7493
+- Hag 2:21haré temblar los cielos y la tierra
+- Zac_1:6como...pensó tratarnos...así lo hizoH6213
+- Zac_1:21y yo dije: ¿Qué vienen éstos a hacer?[[H6213]]
+- Zac_3:4te he hecho vestir de ropas de gala
+- Zac_5:4yo la he hecho salir, dice Jehová
+- Zac_6:8hicieron reposar mi Espíritu en la tierra
+- Zac_6:11oro, y harás coronas, y las pondrás enH6213
+- Zac_7:3¿haremos abstinencia como hemos hecho yaH6213
+- Zac_7:9haced misericordia y piedad cada cual conH6213
+- Zac_8:11mas ahora no lo haré con el remanente de
+- Zac_8:12y los cielos darán su rocío; y haré
+- Zac_8:14haceros mal cuando vuestros padres meH7489
+- Zac_8:15he pensado hacer bien a Jerusalén y aH3190
+- Zac_8:16las cosas que habéis de hacer: HabladH6213
+- Zac_9:13hice a Efrain su flecha, y despertaré aH4390
+- Zac_9:15harán estrépito como tomados de vinoH1993
+- Zac_10:1Jehová hará relámpagos...os dará lluviaH6213
+- Zac_10:6los haré volver; porque de ellos tendré piedad
+- Zac_12:2que hará temblar a todos los pueblos de
+- Zac_13:2haré cortar de la tierra a los profetas y al
+- Zac_13:7haré volver mi mano contra los pequeñitos
+- Zac_14:4se partirá...haciendo un valle muy grande
+- Mal_1:9¿cómo podéis agradarle, si hacéis
+- Mal_2:6a muchos hizo apartar de la iniquidad
+- Mal_2:8habéis apartado del camino; habéis hecho
+- Mal_2:9también os he hecho viles y bajos anteH5414
+- Mal_2:12cortará de...al hombre que hiciere estoH6213
+- Mal_2:13haréis cubrir el altar de Jehová de lágrimasH6213
+- Mal_2:15¿no hizo el uno, habiendo...de espíritu?[[H6213]]
+- Mal_2:17decís: Cualquiera que hace mal agradaH6213
+- Mal_3:5los que hacen injusticia al extranjero
+- Mal_3:15y los que hacen impiedad no solo sonH6213
+- Mal_4:1todos los que hacen maldad serán estopaH6213
+- Mal_4:6hará volver el corazón de los padres hacia los
+- Mat_1:24hizo como el ángel...le había mandadoG4160
+- Mat_2:8cuando le halléis, hacédmelo saber, para
+- Mat_3:8haced...frutos dignos de arrepentimientoG4160
+- Mat_4:19y os haré pescadores de hombresG4160
+- Mat_5:19mas cualquiera que los haga y los enseñeG4160
+- Mat_5:32el que repudia...hace que ella adultereG4160
+- Mat_5:36no puedes hacer blanco...un solo cabelloG4160
+- Mat_5:44haced bien a los que os aborrecen, yG4160
+- Mat_5:45que hace salir su sol...y que hace lloverG393
+- Mat_5:46¿no hacen...lo mismo los publicanos?[[G4160]]
+- Mat_5:47¿qué hacéis de más? ¿No hacen tambiénG4160
+- Mat_6:1guardaos de hacer...para ser vistos deG4160
+- Mat_6:2tocar...como hacen los hipócritas en lasG4160
+- Mat_6:3sepa tu izquierda lo que hace tu derechaG4160
+- Mat_6:8no os hagáis, pues, semejantes a ellosG3666
+- Mat_6:10hágase tu voluntad, como en el cielo, asíG1096
+- Mat_6:19no os hagáis tesoros en la tierra, dondeG2343
+- Mat_6:20sino haceos tesoros en el cielo, dondeG2343
+- Mat_6:30¿no hará mucho más a vosotros, hombres
+- Mat_7:12hagan con vosotros, así...haced...con ellosG4160
+- Mat_7:21el que hace la voluntad de mi Padre queG4160
+- Mat_7:22y en tu nombre hicimos muchos milagros?[[G4160]]
+- Mat_7:24que me oye estas palabras, y las haceG4160
+- Mat_7:26me oye...y no las hace, le compararé a unG4160
+- Mat_8:9digo...a mi siervo: Haz esto, y lo haceG4160
+- Mat_8:13dijo...Vé, y como creíste, te sea hechoG1096
+- Mat_8:26reprendió...al mar...hizo grande bonanzaG1096
+- Mat_9:16y se hace peor la roturaG1096
+- Mat_9:20una mujer enferma...desde hacía doce años
+- Mat_9:23viendo a...la gente que hacía alborotoG2350
+- Mat_9:28¿creéis que puedo hacer esto?[[G4160]]
+- Mat_9:29tocó...conforme a vuestra fe os sea hechoG1096
+- Mat_10:21y los harán morirG2289
+- Mat_11:4haced saber a Juan las cosas que oís y veis
+- Mat_11:20en las cuales había hecho...sus milagrosG1096
+- Mat_11:21,23si...se hubieran hecho los milagrosG1096
+- Mat_11:21,23los milagros que han sido hechos enG1096
+- Mat_11:28venid a mí...y yo os haré descansar
+- Mat_12:2hacen lo que no es lícito hacer en el díaG4160
+- Mat_12:3dijo: ¿No habéis leído lo que hizo DavidG4160
+- Mat_12:12es lícito hacer el bien en los días deG4160
+- Mat_12:33haced el árbol bueno, y su fruto buenoG4160
+- Mat_12:33o haced el árbol malo, y su fruto maloG4160
+- Mat_12:50aquel que hace la voluntad de mi PadreG4160
+- Mat_13:22ahogan la palabra...se hace infructuosaG1096
+- Mat_13:28él les dijo: Un enemigo ha hecho estoG4160
+- Mat_13:32se hace árbol, de tal manera que vienenG1096
+- Mat_13:32vienen las aves...y hacen nidos en susG2681
+- Mat_13:41recogerán...a los que hacen iniquidadG4160
+- Mat_13:58no hizo allí muchos milagros, a causaG4160
+- Mat_14:22Jesús hizo a sus discípulos entrar enG315
+- Mat_15:28es tu fe; hágase contigo como quieresG1096
+- Mat_15:32ya hace tres días que están conmigo, y
+- Mat_17:2sus vestidos se hicieron blancos comoG1096
+- Mat_17:4hagamos aquí tres enramadas: una paraG4160
+- Mat_17:12hicieron con él todo lo que quisieronG4160
+- Mat_18:3si no os volvéis y os hacéis como niñosG1096
+- Mat_18:6cualquiera que haga tropezar a alguno de
+- Mat_18:19será hecho por mi Padre que está en losG1096
+- Mat_18:23un rey que quiso hacer cuentas con susG4868
+- Mat_18:24y comenzando a hacer cuentas, le fue
+- Mat_18:35así también mi Padre celestial hará conG4160
+- Mat_19:4el que los hizo...varón y hembra los hG4160
+- Mat_19:12eunucos que son hechos eunucos por losG2134
+- Mat_19:12hay eunucos que a sí mismos se hicieronG2134
+- Mat_19:16bien haré para tener la vida eterna?[[G4160]]
+- Mat_20:5salió otra vez cerca...e hizo lo mismoG4160
+- Mat_20:12los has hecho iguales a nosotros, queG4160
+- Mat_20:13dijo a uno...Amigo, no te hago agravioG91
+- Mat_20:15¿no me es lícito hacer lo que quieroG4160
+- Mat_20:26quiera hacerse grande entre vosotrosG1096
+- Mat_20:32y les dijo: ¿Qué queréis que os haga?[[G4160]]
+- Mat_21:6fueron, e hicieron como Jesús les mandóG4160
+- Mat_21:13mas vosotros la habéis hecho cueva deG4160
+- Mat_21:15viendo las maravillas que hacía, y aG4160
+- Mat_21:21no sólo haréis esto de la higuera, sinoG4160
+- Mat_21:21quítate y échate en el mar, será hechoG1096
+- Mat_21:23¿con qué autoridad haces estas cosas?[[G4160]]
+- Mat_21:24yo también os haré una pregunta, y siG2065
+- Mat_21:24,27con qué autoridad hago estas cosasG4160
+- Mat_21:31¿cuál de los dos hizo la voluntad de suG4160
+- Mat_21:36hicieron con ellos de la misma maneraG4160
+- Mat_21:40viña, ¿qué hará a aquellos labradores?[[G4160]]
+- Mat_21:42el Señor ha hecho esto, y es cosaG1096
+- Mat_22:2es semejante a un rey que hizo fiestaG4160
+- Mat_22:5ellos, sin hacer caso, se fueron, uno aG272
+- Mat_22:34oyendo que había hecho callar a los saduceos
+- Mat_23:3lo que os digan que guardéis...hacedloG4160
+- Mat_23:3mas no hagáis...porque dicen, y no hacenG4160
+- Mat_23:5hacen todas sus obras para ser vistos deG4160
+- Mat_23:14como pretexto hacéis largas oracionesG4336
+- Mat_23:15mar y tierra para hacer un prosélitoG4160
+- Mat_23:15hecho, le hacéis dos veces más hijo delG4160
+- Mat_23:23necesario hacer, sin dejar de h aquelloG4160
+- Mat_24:24harán grandes señales y prodigios, deG1325
+- Mat_24:46su señor venga, le halle haciendo asíG4160
+- Mat_25:40os digo que en cuanto lo hicisteis aG4160
+- Mat_25:40a uno de estos mis...a mí lo hicisteisG4160
+- Mat_25:45cuanto no lo hicisteis a uno de estosG4160
+- Mat_25:45más pequeños, tampoco a mí lo hicisteisG4160
+- Mat_26:5que no se haga alboroto en el puebloG1096
+- Mat_26:10pues ha hecho conmigo una buena obraG2038
+- Mat_26:12lo ha hecho a fin de prepararme paraG4160
+- Mat_26:13se contará lo que ésta ha hecho, paraG4160
+- Mat_26:19hicieron como...mandó, y prepararon laG4160
+- Mat_26:42si no puede pasar...hágase tu voluntadG1096
+- Mat_26:54de que es necesario que así se haga?[[G1096]]
+- Mat_27:22les dijo: ¿Qué, pues, haré de JesúsG4160
+- Mat_27:23les dijo: Pues ¿qué mal ha hecho? PeroG4160
+- Mat_27:24que se hacía más alboroto, tomó aguaG1096
+- Mat_27:54visto...las cosas que habían sido hechasG1096
+- Mat_27:60y después de hacer rodar una gran piedra
+- Mat_28:15hicieron como se les había instruidoG4160
+- Mat_28:19haced discípulos a todas las nacionesG3100
+- Mar_1:17haré que seáis pescadores de hombresG4160
+- Mar_2:4haciendo una abertura, bajaron el lecho
+- Mar_2:21nuevo tira de lo viejo, y se hace peorG1096
+- Mar_2:24¿por qué hacen en el día de reposo loG4160
+- Mar_2:25lo que hizo David cuando tuvo necesidadG4160
+- Mar_2:27el día...fue hecho por causa del hombreG1096
+- Mar_3:4días de reposo hacer bien, o hacer malG15, [[G2554]]
+- Mar_3:8Simón, oyendo cuán grandes cosas hacíaG4160
+- Mar_3:35que hace la voluntad de Dios, ése es miG4160
+- Mar_4:19ahogan la palabra, y se hace infructuosaG1096
+- Mar_4:30qué haremos semejante el reino de DiosG3666
+- Mar_4:32crece, y se hace la mayor de todas lasG1096
+- Mar_4:39cesó el viento y se hizo grande bonanzaG1096
+- Mar_5:4las cadenas habían sido hechas pedazosG1288
+- Mar_5:19grandes cosas el Señor ha hecho contigoG4160
+- Mar_5:20grandes cosas había hecho Jesús con élG4160
+- Mar_5:25mujer que desde hacía doce años padecía
+- Mar_5:32miraba...para ver quién había hecho estoG4160
+- Mar_5:33sabiendo lo que en ella había sido hechoG1096
+- Mar_5:34hija, tu fe te ha hecho salva; ve en pazG4982
+- Mar_6:2milagros que por sus manos son hechos?[[G1096]]
+- Mar_6:5no pudo hacer allí ningún milagro, salvoG4160
+- Mar_6:14porque su nombre se había hecho notorio
+- Mar_6:30y le contaron todo lo que habían hechoG4160
+- Mar_6:39mandó que hiciesen recostar a todosG347
+- Mar_6:45hizo a sus discípulos entrar en la barcaG315
+- Mar_7:8y hacéis otras muchas cosas semejantesG4160
+- Mar_7:12no le dejáis hacer más por su padre oG4160
+- Mar_7:13y muchas cosas hacéis semejantes a estasG4160
+- Mar_7:19haciendo limpios todos los alimentosG2511
+- Mar_7:37lo ha hecho todo; hace a los sordos oírG4160
+- Mar_8:2que ya hace tres días que están conmigo
+- Mar_8:25le hizo que mirase; y fue restablecidoG4160
+- Mar_9:3ningún lavador...puede hacer tan blancos
+- Mar_9:5hagamos tres enramadas, una para ti, unaG4160
+- Mar_9:7vino una nube que les hizo sombra, yG1982
+- Mar_9:13vino, y le hicieron todo lo que quisieronG4160
+- Mar_9:21¿cuánto tiempo hace que le sucede esto?
+- Mar_9:22pero si puedes hacer algo...y ayúdanosG1410
+- Mar_9:39porque ninguno hay que haga milagro enG4160
+- Mar_9:42cualquiera que haga tropezar a uno de
+- Mar_9:50si la sal se hace insípida, ¿con qué laG1096
+- Mar_10:6creación, varón y hembra los hizo DiosG4160
+- Mar_10:17¿qué haré para heredar la vida eterna?[[G4160]]
+- Mar_10:35querríamos...nos hagas lo que pidiéramosG4160
+- Mar_10:36él les dijo: ¿Qué queréis que os haga?[[G4160]]
+- Mar_10:43que el que quiera hacerse grande entreG1096
+- Mar_10:51¿qué quieres que te haga? Y el ciegoG4160
+- Mar_11:3os dijere: ¿Por qué hacéis eso? decidG4160
+- Mar_11:5¿qué hacéis desatando el pollino?[[G4160]]
+- Mar_11:17mi casa...habéis hecho cueva de ladronesG4160
+- Mar_11:23creyere que será hecho lo que dice, lo
+- Mar_11:23creyere...lo que diga le será hechoG1096
+- Mar_11:28¿con qué autoridad haces estas cosas?[[G4160]]
+- Mar_11:28y quién te dio autoridad para hacerG4160
+- Mar_11:29os haré...una pregunta; respondedmeG1905
+- Mar_11:29,33con qué autoridad hago estas cosasG4160
+- Mar_12:9¿qué, pues...hará el señor de la viña?[[G4160]]
+- Mar_12:11el Señor ha hecho esto, y es cosaG1096
+- Mar_12:40y por pretexto hacen largas oracionesG4336
+- Mar_13:22y falsos profetas, y harán...prodigiosG1325
+- Mar_14:2para que no se haga alboroto del puebloG2071
+- Mar_14:4¿para qué se ha hecho este desperdicioG1096
+- Mar_14:6dijo: Dejadla...Buena obra me ha hechoG2038
+- Mar_14:7y cuando queráis les podréis hacer bienG4160
+- Mar_14:8ésta ha hecho lo que podía; porque seG4160
+- Mar_14:9se contará lo que ésta ha hecho, paraG4160
+- Mar_14:58yo derribaré este templo hecho a manoG5499
+- Mar_14:58en tres días edificaré otro hecho sinG886
+- Mar_15:8que hiciese como siempre les había hechoG4160
+- Mar_15:12haga del que llamáis Rey de los judíosG4160
+- Mar_15:14les decía: ¿Pues qué mal ha hecho? PeroG4160
+- Mar_15:19de rodillas le hacían reverencias
+- Mar_15:44y haciendo venir al centurión, le preguntó
+- Mar_15:46hizo rodar una piedra a la entrada del sepulcro
+- Mar_16:10lo hizo saber a los que habían estado con él
+- Mar_16:13lo hicieron saber a los otros; y ni aun
+- Mar_16:18y si bebieran cosa...no les hará daño
+- Luc_1:16hará que...se conviertan al Señor
+- Luc_1:17hacer volver los corazones de los padres a
+- Luc_1:20mudo...hasta el día en que esto se hagaG1096
+- Luc_1:25ha hecho conmigo el Señor en los díasG4160
+- Luc_1:38hágase conmigo conforme a tu palabraG1096
+- Luc_1:49me ha hecho grandes cosas el PoderosoG4160
+- Luc_1:51hizo proezas con su brazo; esparció aG4160
+- Luc_1:72hacer misericordia con nuestros padresG4160
+- Luc_1:73del juramento que hizo a Abraham nuestroG3660
+- Luc_2:2hizo siendo Cirenio gobernador de SiriaG1096
+- Luc_2:27para hacer...conforme al rito de la leyG4160
+- Luc_2:37era viuda hacía ochenta y cuatro años
+- Luc_2:48dijo...Hijo, ¿por qué nos has hecho así?[[G4160]]
+- Luc_3:8haced...frutos dignos de arrepentimientoG4160
+- Luc_3:10le preguntaba, diciendo...¿qué haremos?[[G4160]]
+- Luc_3:11y el que tiene qué comer, haga lo mismo
+- Luc_3:12y le dijeron: Maestro, ¿qué haremos?[[G4160]]
+- Luc_3:14unos soldados...Y nosotros, ¿qué haremos?[[G4160]]
+- Luc_3:14les dijo: No hagáis extorsión a nadieG1286
+- Luc_3:19las maldades que Herodes había hechoG4160
+- Luc_4:23cosas que hemos oído que se han hechoG1096
+- Luc_4:23cosas...haz también aquí en tu tierraG4160
+- Luc_4:35salió de él, y no le hizo daño alguno
+- Luc_5:6habiéndolo hecho, encerraron...de pecesG4160
+- Luc_5:7entonces hicieron señas a los compañerosG2656
+- Luc_5:9por la pesca que habían hecho, el temorG4815
+- Luc_5:19no hallando cómo hacerlo a causa de laG1533
+- Luc_5:29Leví le hizo gran banquete en su casaG4160
+- Luc_5:33ayunan muchas veces y hacen oracionesG4160
+- Luc_5:34¿podéis acaso hacer que los que están deG4160
+- Luc_5:36si lo hace, no solamente rompe el nuevoG1490
+- Luc_6:2hacéis lo que no es lícito hacer en losG4160
+- Luc_6:3lo que hizo David cuando tuvo hambre élG4160
+- Luc_6:9¿es lícito en día...hacer bien, o h mal?[[G15]]
+- Luc_6:10extiende tu mano...Y él lo hizo así, yG4160
+- Luc_6:11entre sí qué podían hacer contra JesúsG4160
+- Luc_6:23así hacían sus padres con los profetasG4160
+- Luc_6:26así hacían sus padres con los falsosG4160
+- Luc_6:27amad...haced bien a los que os aborrecenG4160
+- Luc_6:31como queréis que hagan, también hacedG4160
+- Luc_6:33si hacéis bien a los que os hacen bienG15
+- Luc_6:33también los pecadores hacen lo mismoG4160
+- Luc_6:35y haced bien, y prestad, no esperandoG15
+- Luc_6:46me llamáis...y no hacéis lo que yo digo?[[G4160]]
+- Luc_6:47viene a...y oye mis palabras y las haceG4160
+- Luc_6:49el que oyó y no hizo, semejante es alG4160
+- Luc_7:8digo...a mi siervo: Haz esto, y lo haceG4160
+- Luc_7:22haced saber a Juan lo que habéis visto
+- Luc_8:21que oyen la palabra de Dios, y la hacenG4160
+- Luc_8:24las olas; y cesaron, y se hizo bonanzaG1096
+- Luc_8:27endemoniado desde hacía mucho tiempo
+- Luc_8:29hacía mucho tiempo que se había apoderado de él
+- Luc_8:39cuenta cuán grandes cosas ha hecho DiosG4160
+- Luc_8:39grandes cosas había hecho Jesús con élG4160
+- Luc_8:43que padecía de flujo...hacia doce años
+- Luc_8:52y hacían lamentación por ella. Pero élG2875
+- Luc_9:7oyó de todas las cosas que hacía JesúsG1096
+- Luc_9:9a Juan yo le hice decapitar
+- Luc_9:10le contaron todo lo que habían hechoG4160
+- Luc_9:14Hacedlos sentar en gruposG2625
+- Luc_9:15así lo hicieron, haciéndolos sentar aG4160
+- Luc_9:29la apariencia de su rostro se hizo otraG2087
+- Luc_9:33hagamos tres enramadas, una para ti, unaG4160
+- Luc_9:39y le hace echar espuma, y estropeándole
+- Luc_9:43maravillándose...de las cosas que haciaG4160
+- Luc_9:44haced que os penetren bien en los oídos
+- Luc_9:52en una aldea...para hacerle preparativosG2090
+- Luc_9:54que descienda fuego del...como hizo ElíasG4160
+- Luc_10:13hecho los milagros que...h en vosotrosG1096
+- Luc_10:25¿haciendo qué cosa heredaré la vidaG4160
+- Luc_10:28le dijo: Bien has respondido;haz estoG4160
+- Luc_10:37Jesús le dijo: Ve, y haz tú lo mismoG4160
+- Luc_11:2hágase tu voluntad, como en el cieloG1096
+- Luc_11:40el que hizo lo de fuera, no h tambiénG4160
+- Luc_11:42era necesario hacer, sin dejar aquelloG4160
+- Luc_12:4matan...y después nada más pueden hacerG4160
+- Luc_12:17¿qué haré...no tengo donde guardar misG4160
+- Luc_12:18esto haré: derribaré mis graneros yG4160
+- Luc_12:21así es el que hace para sí tesoro, y noG2343
+- Luc_12:33haceos bolsas que no se envejezcanG4160
+- Luc_12:37hará que se sienten a la mesa, y vendráG347
+- Luc_12:43su señor venga, le halle haciendo asíG4160
+- Luc_12:47siervo...ni hizo conforme a su voluntadG4160
+- Luc_12:48que sin conocerla hizo cosas dignas deG4160
+- Luc_12:55sopla el...decís: Hará calor; y lo haceG1096
+- Luc_13:7hace tres años que vengo a buscar fruto
+- Luc_13:11una mujer que desde hacía 18 años tenía
+- Luc_13:17regocijaba por todas las cosas...hechasG1096
+- Luc_13:19hizo árbol grande, y las aves del cieloG1096
+- Luc_13:32y hago curaciones hoy y mañana, y alG2005
+- Luc_14:12cuando hagas comida o cena, no llames aG4160
+- Luc_14:13mas cuando hagas banquete, llama a losG4160
+- Luc_14:16un hombre hizo una gran cena, y convidóG4160
+- Luc_14:21hizo saber estas cosas a su señor
+- Luc_14:22Señor, se ha hecho como mandaste, y aúnG1096
+- Luc_14:29que lo vean comiencen a hacer burla de él
+- Luc_14:31si puede hacer frente con diez mil alG528
+- Luc_14:34si la sal se hiciera insípida, ¿con quéG3471
+- Luc_15:19hazme como a uno de tus jornalerosG4160
+- Luc_15:23y matadlo, y comamos y hagamos fiestaG2165
+- Luc_15:27tu padre ha hecho matar el becerro gordo
+- Luc_15:30has hecho matar para él el becerro gordo
+- Luc_15:32necesario hacer fiesta y regocijarnosG2165
+- Luc_16:3¿qué haré? Porque mi amo me quita laG4160
+- Luc_16:4ya sé lo que haré para que cuando se meG4160
+- Luc_16:8alabó el amo...por haber hecho sagazmenteG4160
+- Luc_16:19hacía cada día banquete, con esplendidezG2165
+- Luc_17:2que hacer tropezar a uno de...pequeñitosG4624
+- Luc_17:9porque hizo lo que se le había mandadoG4160
+- Luc_17:10cuando hayáis hecho todo lo que os haG4160
+- Luc_17:10pues lo que debíamos hacer, hicimosG4160
+- Luc_18:3diciendo: Hazme justicia de...adversarioG1556
+- Luc_18:5le haré justicia, no sea que viniendoG1556
+- Luc_18:7¿y acaso Dios no hará justicia
+- Luc_18:8os digo que pronto les hará justicia
+- Luc_18:18¿qué haré para heredar la vida eterna?[[G4160]]
+- Luc_18:41diciendo: ¿Qué quieres que te haga?[[G4160]]
+- Luc_19:46mi casa...habéis hecho cueva de ladronesG4160
+- Luc_19:48no hallaban nada que pudieran hacerleG4160
+- Luc_20:2¿con qué autoridad haces estas cosas?[[G4160]]
+- Luc_20:3dijo: Os haré yo también una pregunta
+- Luc_20:8diré con qué autoridad hago estas cosasG4160
+- Luc_20:13¿qué haré? Enviaré a mi hijo amadoG4160
+- Luc_20:15¿qué pues, les hará el señor de la viña?[[G4160]]
+- Luc_20:21que no haces acepción de persona, sino
+- Luc_20:47y por pretexto hacen largas oracionesG4336
+- Luc_22:19mi cuerpo...haced esto en memoria de míG4160
+- Luc_22:23de ellos sería el que había de hacerG3195
+- Luc_22:42no se haga mi voluntad, sino la tuyaG1096
+- Luc_23:8él, y esperaba verle hacer alguna señalG1096
+- Luc_23:9le hacía muchas preguntas, pero él nada
+- Luc_23:12y se hicieron amigos Pilato y HerodesG1096
+- Luc_23:15he aquí, nada digno de muerte ha hechoG4238
+- Luc_23:22dijo...¿Pues qué mal ha hecho éste?[[G4160]]
+- Luc_23:24que se hiciese lo que ellos pedíanG1096
+- Luc_23:27lloraban y hacían lamentación por élG2354
+- Luc_23:31si en el árbol verde hacen estas cosasG4160
+- Luc_23:31cosas, ¿en el seco, qué no se hará?[[G1096]]
+- Luc_23:34Padre, perdónalos...no saben lo que hacenG4160
+- Luc_23:41justamente...mas éste ningún mal hizoG4238
+- Luc_24:28iban, y él hizo como que iba más lejosG4364
+- Luc_24:29quédate...porque se hace tarde, y el día
+- Jua_1:3todas las cosas por él fueron hechasG1096
+- Jua_1:3él nada de lo que ha sido hecho, fue hG1096
+- Jua_1:10el mundo por él fue hecho; pero el mundoG1096
+- Jua_1:12dio potestad de ser hechos hijos de DiosG1096
+- Jua_1:14aquel Verbo fue hecho carne, y habitóG1096
+- Jua_2:1hicieron unas bodas en Caná de GalileaG1096
+- Jua_2:5madre dijo...Haced todo lo que os dijereG4160
+- Jua_2:9el maestresala probó el agua hecha vinoG1096
+- Jua_2:11este principio de señales hizo Jesús enG4160
+- Jua_2:15y haciendo un azote de cuerdas, echóG4160
+- Jua_2:16no hagáis de la casa de mi Padre casa deG4160
+- Jua_2:18señal nos muestras, ya que haces esto?[[G4160]]
+- Jua_2:23creyeron...viendo las señales que hacíaG4160
+- Jua_3:2nadie puede hacer...señales que tú hacesG4160
+- Jua_3:9y le dijo: ¿Cómo puede hacerse esto?[[G1096]]
+- Jua_3:20aquel que hace lo malo, aborrece la luzG4238
+- Jua_3:21manifiesto que sus obras son hechas enG4160
+- Jua_4:1Jesús hace y bautiza más discípulos queG4160
+- Jua_4:29que me ha dicho todo cuanto he hechoG4160
+- Jua_4:34mi comida es que haga la voluntad delG4160
+- Jua_4:39diciendo: Me dijo todo lo que he hechoG4160
+- Jua_4:45visto todas las cosas que había hechoG4160
+- Jua_4:54esta segunda señal hizo Jesús, cuandoG4160
+- Jua_5:5un hombre que hacía treinta y ocho años
+- Jua_5:16hacia estas cosas en el día de reposoG4160
+- Jua_5:18Dios era su...haciéndose igual a DiosG4160
+- Jua_5:19puede el Hijo hacer nada por sí mismoG4160
+- Jua_5:19lo que ve hacer al Padre; porque todo loG4160
+- Jua_5:19todo lo que el Padre hace...lo h el HijoG4160
+- Jua_5:20le muestra todas las cosas que él haceG4160
+- Jua_5:27también le dio autoridad de hacer juicioG4160
+- Jua_5:29y los que hicieron lo bueno, saldrán aG4160
+- Jua_5:29los que hicieron lo malo, a resurrecciónG4238
+- Jua_5:30no puedo yo hacer nada por mí mismoG4160
+- Jua_5:36las...obras que yo hago, dan testimonioG4160
+- Jua_6:2veían...señales que hacía en los enfermosG4160
+- Jua_6:6porque él sabía lo que había de hacerG4160
+- Jua_6:10Jesús dijo: Haced recostar la gente
+- Jua_6:14viendo la señal que Jesús había hechoG4160
+- Jua_6:15apoderarse de él y hacerle rey, volvió aG4160
+- Jua_6:28¿qué debemos hacer...las obras de Dios?[[G4160]]
+- Jua_6:30¿qué señal, pues, haces tú, para queG4160
+- Jua_6:30para que...te creamos? ¿Qué obra haces?[[G4160]]
+- Jua_6:38he descendido...no para hacer mi voluntadG4160
+- Jua_7:3tus discípulos vean las obras que hacesG4160
+- Jua_7:4que procura darse a conocer hace algo enG4160
+- Jua_7:4estas cosas haces, manifiéstate al mundoG4160
+- Jua_7:17el que quiera hacer la voluntad de DiosG4160
+- Jua_7:21una obra hice, y todos os maravilláisG4160
+- Jua_7:31¿hará más señales que...que éste hace?[[G4160]]
+- Jua_7:51si...no le oye, y sabe lo que ha hecho?[[G4160]]
+- Jua_8:28nada hago por mí mismo, sino que segúnG4160
+- Jua_8:29porque yo hago siempre lo que le agradaG4160
+- Jua_8:32conoceréis...y la verdad os hará libresG1659
+- Jua_8:34todo aquel que hace pecado, esclavo esG4160
+- Jua_8:38vosotros hacéis lo que habéis oído cercaG4160
+- Jua_8:39fueseis hijos...obras de Abraham haríaisG4160
+- Jua_8:40procuráis matarme...no hizo esto AbrahamG4160
+- Jua_8:41vosotros hacéis las...de vuestro padreG4160
+- Jua_8:44deseos de vuestro padre queréis hacerG4160
+- Jua_8:53mayor que...¿Quién te haces a ti mismo?[[G4160]]
+- Jua_9:4me es necesario hacer las obras del queG2038
+- Jua_9:6hizo lodo con la saliva, y untó con el lodoG4160
+- Jua_9:11Jesús hizo lodo, me untó los ojos, yG4160
+- Jua_9:14era día de reposo...había hecho el lodoG4160
+- Jua_9:16puede un...pecador hacer estas señales?[[G4160]]
+- Jua_9:26¿que te hizo? ¿Cómo te abrió los ojos?[[G4160]]
+- Jua_9:27también vosotros haceros...discípulos?[[G1096]]
+- Jua_9:31es temeroso de Dios, y hace su voluntadG4160
+- Jua_9:33no viniera de Dios, nada podría hacerG4160
+- Jua_10:25las obras que yo hago en nombre de miG4160
+- Jua_10:33porque...siendo hombre, te haces DiosG4160
+- Jua_10:37si no hago las obras de mi Padre, noG4160
+- Jua_10:38si las hago, aunque no me creáis a míG4160
+- Jua_10:41Juan, a la verdad, ninguna señal hizoG4160
+- Jua_11:17hacía ya cuatro días que Lázaro estaba
+- Jua_11:37haber hecho...que Lázaro no muriera?[[G4160]]
+- Jua_11:45vieron lo que hizo Jesús, creyeron enG4160
+- Jua_11:46les dijeron lo que Jesús había hechoG4160
+- Jua_11:47¿qué haremos? Porque este hombre diceG4160
+- Jua_12:2hicieron allí una cena; Marta servía, yG4160
+- Jua_12:16estaban escritas...se las habían hechoG4160
+- Jua_12:18había oído...él había hecho esta señalG4160
+- Jua_12:37a pesar de que había hecho...señalesG4160
+- Jua_13:7que yo hago, tú no lo comprendes ahoraG4160
+- Jua_13:12les dijo: ¿Sabréis lo que os he hecho?[[G4160]]
+- Jua_13:15como yo os he hecho...también hagáisG4160
+- Jua_13:17bienaventurados seréis si las hiciereisG4160
+- Jua_13:24a éste, pues, hizo señas Simón Pedro
+- Jua_13:27lo que vas a hacer, hazlo más prontoG4160
+- Jua_14:9le dijo: ¿Tanto tiempo hace que estoy
+- Jua_14:10sino que el Padre...él hace las obrasG4160
+- Jua_14:12las obras que yo hago, él las haráG4160
+- Jua_14:12mayores hará, porque yo voy al PadreG4160
+- Jua_14:13todo lo que pidiereis al Padre...haréG4160
+- Jua_14:14algo pidierais en mi nombre, yo lo haréG4160
+- Jua_14:23vendremos a él, y haremos morada conG4160
+- Jua_14:31y como el Padre me mandó, así hagoG4160
+- Jua_15:5porque separados de mí nada podéis hacerG4160
+- Jua_15:7pedid...lo que queréis, y os será hechoG1096
+- Jua_15:14amigos, si hacéis lo que yo os mandoG4160
+- Jua_15:15el siervo no sabe lo que hace su señorG4160
+- Jua_15:21esto os harán por causa de mi nombreG4160
+- Jua_15:24yo no hubiese hecho...ningún otro ha hG4160
+- Jua_16:3harán esto porque no conocen al Padre niG4160
+- Jua_16:13hará saber las cosas que habrán de venir
+- Jua_16:14y os lo hará saber
+- Jua_16:15tomará de lo mío, y os lo hará saber
+- Jua_17:4he acabado la...que me diste que hicieseG4160
+- Jua_18:18porque hacía frío, y se calentabanG2258
+- Jua_18:35te han entregado a mí...¿Qué has hecho?[[G4160]]
+- Jua_19:7porque se hizo a sí mismo Hijo de DiosG4160
+- Jua_19:12el que se hace rey, a César se oponeG4160
+- Jua_19:23hicieron cuatro partes, una para cadaG4160
+- Jua_19:24suertes...así lo hicieron los soldadosG4160
+- Jua_20:30hizo...Jesús muchas otras señales enG4160
+- Jua_21:25otras muchas cosas que hizo Jesús, lasG4160
+- Hch_1:1que Jesús comenzó a hacer y a enseñarG4160
+- Hch_1:20sea hecha desierta su habitación, y no
+- Hch_1:22uno sea hecho testigo con nosotros, deG1096
+- Hch_2:6hecho...estruendo, se juntó la multitudG1096
+- Hch_2:22y señales que Dios hizo entre vosotrosG4160
+- Hch_2:28me hiciste conocer los caminos de la vidaG1107
+- Hch_2:36este...Dios le ha hecho Señor y CristoG4160
+- Hch_2:37al oír...Varones hermanos, ¿qué haremos?[[G4160]]
+- Hch_2:43señales eran hechas por los apóstolesG1096
+- Hch_3:12como si por nuestro...hubiésemos hecho andarG4160
+- Hch_3:17sé que por ignorancia lo habéis hechoG4238
+- Hch_3:25y del pacto que Dios hizo con nuestrosG1303
+- Hch_4:7qué nombre, habéis hecho vosotros esto?[[G4160]]
+- Hch_4:9acerca del beneficio hecho a un hombreG2108
+- Hch_4:16¿qué haremos con estos hombres? PorqueG4160
+- Hch_4:16cierto, señal manifiesta ha sido hechaG1096
+- Hch_4:21glorificaban a Dios por lo que...hechoG1096
+- Hch_4:22en quien se había hecho este milagro deG1096
+- Hch_4:24eres el Dios que hiciste el cielo y laG4160
+- Hch_4:28para hacer cuanto tu mano y tu consejoG1096
+- Hch_4:30para que se hagan sanidades y señalesG1096
+- Hch_5:12por la mano de los apóstoles se hacíanG1096
+- Hch_5:35mirad...lo que vais a hacer respecto aG4238
+- Hch_6:8Esteban, lleno...hacía grandes prodigiosG4160
+- Hch_7:14José, hizo venir a su padre Jacob, y a todaG3333
+- Hch_7:36éste los sacó, habiendo hecho prodigiosG4160
+- Hch_7:40Aarón: Haznos dioses que vayan delanteG4160
+- Hch_7:41hicieron un becerro y ofrecieronG3447
+- Hch_7:43figuras que os hicieseis para adorarlasG4160
+- Hch_7:44que lo hiciese conforme al modelo queG4160
+- Hch_7:48no habita en templos hechos de manoG5499
+- Hch_7:50¿no hizo mi mano todas estas cosas?[[G4160]]
+- Hch_8:2a Esteban, e hicieron gran llanto sobreG4160
+- Hch_8:6oyendo y viendo las señales que hacíaG4160
+- Hch_8:9haciéndose pasar por algún grande
+- Hch_8:13y viendo las señales y...que se haríanG1096
+- Hch_8:33en su humillación no se le hizo justicia
+- Hch_9:6dijo: Señor, ¿qué quieres que yo haga?[[G4160]]
+- Hch_9:6entra...y se te dirá lo que debes hacerG4160
+- Hch_9:13cuántos males ha hecho a tus santos enG4160
+- Hch_9:33que hacía ocho años que estaba en cama
+- Hch_9:34dijo...Eneas...levántate, y haz tu camaG4766
+- Hch_9:36abundaba en buenas obras y...que hacíaG4160
+- Hch_9:39túnicas...que Dorcas hacía cuando estabaG4160
+- Hch_10:2y que hacía muchas limosnas al puebloG4160
+- Hch_10:5haz venir a Simón, el que tiene por
+- Hch_10:6te dirá lo que es necesario que hagasG4160
+- Hch_10:16esto se hizo tres veces; y aquel lienzoG1096
+- Hch_10:22hacerte venir a su casa para oír tus palabras
+- Hch_10:23haciéndoles entrar, los hospedó
+- Hch_10:29¿por qué causa me habéis hecho venir?
+- Hch_10:30hace cuatro días que a esta hora yoG575
+- Hch_10:32envía, pues, a Jope, y haz venir a SimónG3333
+- Hch_10:33envié...y tú has hecho bien en venirG4160
+- Hch_10:34que Dios no hace acepción de personas
+- Hch_10:35se agrada del que le...y hace justiciaG2038
+- Hch_10:38éste anduvo haciendo bienes y sanandoG2109
+- Hch_10:39las cosas que Jesús hizo en la tierraG4160
+- Hch_10:40a éste levantó...hizo que se manifestaseG1096
+- Hch_11:10se hizo tres veces, y volvió todo a serG1096
+- Hch_11:30hicieron, enviándolo a los ancianos porG4160
+- Hch_12:5iglesia hacía sin cesar oración a DiosG1096
+- Hch_12:8y átate las sandalias. Y lo hizo asíG4160
+- Hch_12:9no sabía que era verdad lo que hacía el ángelG1096
+- Hch_12:17él, haciéndoles...señal de que callasenG2678
+- Hch_13:16Pablo...hecha señal de silencio con laG2678
+- Hch_13:22David...quien hará todo lo que yo quieroG4160
+- Hch_13:32aquella promesa hecha a nuestros padresG1096
+- Hch_13:41hago una obra en vuestros días, obraG2038
+- Hch_14:3que se hiciesen por las manos de ellosG1096
+- Hch_14:11gente, visto lo que Pablo había hechoG4160
+- Hch_14:15¿por qué hacéis esto?...somos hombresG4160
+- Hch_14:15convirtáis al Dios...que hizo el cieloG4160
+- Hch_14:17haciendo bien, dándonos lluvias delG15
+- Hch_14:21después de...de hacer muchos discípulosG3100
+- Hch_14:27cuán grandes cosas había hecho Dios conG4160
+- Hch_15:4las cosas que Dios había hecho con ellosG4160
+- Hch_15:7ya hace algún tiempo que Dios escogióG744
+- Hch_15:9ninguna diferencia hizo entre nosotrosG1252
+- Hch_15:12cuán grandes señales...había hecho DiosG4160
+- Hch_15:18hace conocer todo esto desde tiempos antiguos
+- Hch_15:27de palabra os harán saber lo mismo
+- Hch_15:29cosas si os guardareis, bien haréisG4238
+- Hch_16:13al río, donde solía hacerse la oraciónG1511
+- Hch_16:18y esto lo hacía por muchos días; masG4160
+- Hch_16:21que no nos es lícito recibir ni hacerG4160
+- Hch_16:28no te hagas ningún mal, pues todosG4238
+- Hch_16:30dijo...¿qué debo hacer para ser salvo?[[G4160]]
+- Hch_16:36el carcelero hizo saber estas palabras a Pablo
+- Hch_16:38hicieron saber estas palabras a los magistrados
+- Hch_17:24el Dios que hizo el mundo y todas lasG4160
+- Hch_17:24no habita en templos hechos por manosG5499
+- Hch_17:26de una sangre ha hecho todo el linajeG4160
+- Hch_18:3el oficio de ellos era hacer tiendasG4635
+- Hch_18:10ninguno pondrá...mano para hacerte malG2559, [[G4571]]
+- Hch_18:18rapado la cabeza en...tenía hecho voto
+- Hch_19:11hacía Dios milagros...por mano de PabloG4160
+- Hch_19:14hijos de un tal Esceva...que hacían estoG4160
+- Hch_19:19hecha la cuenta de su precio...50.000
+- Hch_19:24hacía de plata templecillos de DianaG4160
+- Hch_19:26no son dioses los que se hacen con lasG1096
+- Hch_19:36y que nada hagáis precipitadamenteG4238
+- Hch_20:15habiendo hecho escala en Trogilio, al
+- Hch_20:17hizo llamar a los ancianos de la iglesiaG3333
+- Hch_20:24de ninguna cosa hago caso, ni estimoG4160
+- Hch_21:13¿qué hacéis llorando y quebrantándomeG4160
+- Hch_21:14diciendo: Hágase la voluntad del SeñorG1096
+- Hch_21:15hechos ya los preparativos, subimos a
+- Hch_21:19las cosas que Dios había hecho entreG4160
+- Hch_21:23haz, pues, esto que te decimos: HayG4160
+- Hch_21:33preguntó quién era y qué había hechoG4160
+- Hch_21:40Pablo...hizo señal con la mano al puebloG2678
+- Hch_21:40hecho gran silencio, habló en lenguaG1096
+- Hch_22:10dirá...lo que está ordenado que hagasG4160
+- Hch_22:26¿qué vas a hacer? Porque este hombreG4160
+- Hch_23:13eran más de 40 los que habían hechoG4160
+- Hch_24:10habiéndole hecho señal el gobernadorG3506
+- Hch_24:10que desde hace muchos años eres juezG1537
+- Hch_24:10juez...con buen ánimo haré mi defensa
+- Hch_24:11no hace más de doce días que subí aG1526
+- Hch_24:17vine a hacer limosnas a mi nación yG4160
+- Hch_24:20hallaron en mí alguna cosa mal hechaG92
+- Hch_24:26lo hacía venir y hablaba con él
+- Hch_25:3pidiendo...que le hiciese traer a Jerusalén
+- Hch_25:10a los judíos no les he hecho...agravioG91
+- Hch_25:11cosa alguna digna de muerte he hechoG4238
+- Hch_25:25ninguna cosa digna de muerte ha hechoG4238
+- Hch_26:6de la promesa que hizo Dios a nuestrosG1096
+- Hch_26:9hacer muchas cosas contra el nombre deG4238
+- Hch_26:10lo cual también hice en Jerusalén. YoG4160
+- Hch_26:20haciendo...dignas de arrepentimientoG4238
+- Hch_26:26no se ha hecho esto en algún rincónG4238
+- Hch_26:29fueseis hechos...cual yo soy, excepto
+- Hch_26:31ninguna cosa...ha hecho este hombreG4238
+- Hch_27:4y haciéndonos a la vela...navegamos aG321
+- Hch_27:21hacía ya mucho que no comíamos
+- Hch_27:29popa, y ansiaban que se hiciese de día
+- Hch_27:39cuando se hizo de día, no reconocíanG1096
+- Hch_27:41hicieron encallar la nave; y la proa, hincada
+- Hch_28:9hecho esto...otros que en la isla teníanG1096
+- Hch_28:11tres meses, nos hicimos a la vela en unaG321
+- Hch_28:17no habiendo hecho nada contra el puebloG4160
+- Rom_1:9que sin cesar hago mención de vosotrosG4160
+- Rom_1:20se hacen claramente visibles desde la
+- Rom_1:20entendidas por medio de las cosas hechasG4161
+- Rom_1:22profesando...sabios, se hicieron neciosG3471
+- Rom_1:28Dios los entregó...para hacer cosas queG4160
+- Rom_1:32no sólo las hacen, sino...se complacenG4160
+- Rom_2:1condenas...tú que juzgas haces lo mismoG4238
+- Rom_2:3a los que tal hacen, y haces lo mismoG4238
+- Rom_2:7que, perseverando en bien hacer, buscanG2041
+- Rom_2:9angustia sobre todo ser...que hace lo maloG2716
+- Rom_2:10honra y paz...todo el que hace lo buenoG2038
+- Rom_2:14los gentiles...hacen por naturaleza loG4160
+- Rom_2:28ni es la circuncisión la que se hace
+- Rom_3:3habrá hecho nula la fidelidad de Dios?[[G2673]]
+- Rom_3:5nuestra injusticia hace resaltar la justicia
+- Rom_3:8hagamos males para que vengan bienes?[[G4160]]
+- Rom_3:12desviaron, a una se hicieron inútilesG889
+- Rom_3:12no hay quien haga lo bueno, no hay niG4160
+- Rom_4:21para hacer todo lo que había prometidoG4160
+- Rom_6:22libertados del pecado y hechos siervos de Dios
+- Rom_7:15porque lo que hago...no h lo que quieroG4238
+- Rom_7:15quiero, sino lo que aborrezco, eso hagoG4160
+- Rom_7:16si lo que no quiero, esto hago, aprueboG4160
+- Rom_7:17ya no soy yo quien hace aquello, sino elG2716
+- Rom_7:18querer...está en mí, pero no el hacerloG2716
+- Rom_7:19no hago el bien que...sino el mal...eso hG4160
+- Rom_7:20y si hago lo que no quiero...no lo h yoG4160
+- Rom_7:21queriendo yo hacer el bien, hallo estaG4160
+- Rom_8:13si por el Espíritu hacéis...de la carne, viviréis
+- Rom_8:29fuesen hechos conformes a la imagen de
+- Rom_9:11ni habían hecho aún ni bien ni mal, paraG4238
+- Rom_9:20¿dirá el vaso de...¿Por qué me has hechoG4160
+- Rom_9:21para hacer de la misma masa un vaso paraG4160
+- Rom_9:22y hacer notorio su poder, soportó conG1107
+- Rom_9:23y para hacer notorias las riquezas deG1107
+- Rom_10:5el hombre que haga estas cosas, viviráG4160
+- Rom_10:7para hacer subir a Cristo de entre los muertos)
+- Rom_11:14y hacer salvos a algunos de ellos
+- Rom_11:17has sido hecho participante de la raízG4791
+- Rom_12:8el que hace misericordia, con alegría
+- Rom_12:20pues haciendo esto, ascuas de fuegoG4160
+- Rom_13:3Haz lo bueno, y tendréis alabanza de ellaG4160
+- Rom_13:4pero si haces lo malo, teme; porque noG4160
+- Rom_13:4vengador para castigar al que hace loG4238
+- Rom_13:10el amor no hace mal al prójimo; así queG2038
+- Rom_14:4poderoso es...para hacerle estar firmeG2476
+- Rom_14:5uno hace diferencia entre día y día
+- Rom_14:6hace caso del día, lo h para el SeñorG5426
+- Rom_14:6que no hace caso...para el Señor no lo hG5426
+- Rom_14:15no hagas que por la comida tuya se
+- Rom_14:20haga tropezar a otros con lo que come
+- Rom_14:23es condenado, porque no lo hace con fe
+- Rom_15:8para confirmar las promesas hechas a los
+- Rom_15:15como para haceros recordar
+- Rom_15:18lo que Cristo ha hecho por medio de míG2716
+- Rom_15:23deseando desde hace muchos años ir a
+- Rom_15:26hacer una ofrenda para los pobres queG4160
+- Rom_15:27han sido hechos participantes de susG2841
+- 1Co_1:17para que no se haga vana la cruz deG2758
+- 1Co_1:30nos ha sido hecho por Dios sabiduríaG1096
+- 1Co_3:13la obra de cada uno se hará manifiestaG1096
+- 1Co_3:18hágase ignorante, para que llegue a serG1096
+- 1Co_5:3ya he juzgado al que tal cosa ha hechoG2716
+- 1Co_6:15y los haré miembros de una ramera? DeG4160
+- 1Co_7:16si quizá harás salvo a tu marido?
+- 1Co_7:16si quizá harás salva a tu mujer?
+- 1Co_7:17como Dios llamó a cada uno, así hagaG4043
+- 1Co_7:21si puedes hacerte libre, procúralo másG1096
+- 1Co_7:23no os hagáis esclavos de los hombresG1096
+- 1Co_7:26hará bien el hombre en quedarse como
+- 1Co_7:36haga lo que quiera, no peca; que se caseG4160
+- 1Co_7:37guardar a su hija virgen, bien haceG4160
+- 1Co_7:38que el que la da en casamiento hace bienG4160
+- 1Co_7:38que no la da en casamiento hace mejorG4160
+- 1Co_8:8vianda no nos hace mas aceptos ante Dios
+- 1Co_9:15he escrito...para que se haga así conmigoG1096
+- 1Co_9:17si lo hago de buena voluntad, recompensaG4238
+- 1Co_9:19me he hecho siervo de todos para ganarG1402
+- 1Co_9:20he hecho a los judíos como judío, paraG1096
+- 1Co_9:22me he hecho débil a los débiles, paraG1096
+- 1Co_9:22a todos me he hecho de todo, para queG1096
+- 1Co_9:23esto hago...para hacerme copartícipe deG4160, [[G1096]]
+- 1Co_10:20os hagáis partícipes con los demonios
+- 1Co_10:31si, pues, coméis...o hacéis otra cosaG4160
+- 1Co_10:31hacedlo todo para la gloria de DiosG4160
+- 1Co_11:19que se hagan manifiestos...los que sonG1096
+- 1Co_11:24partido; haced esto en memoria de míG4160
+- 1Co_11:25haced esto todas las veces que laG4160
+- 1Co_12:3os hago saber que nadie que hable por el
+- 1Co_12:6Dios que hace todas las cosas en todosG1754
+- 1Co_12:10a otro, el hacer milagros...profecíaG1755
+- 1Co_12:11todas estas cosas las hace...EspírituG1754
+- 1Co_12:28luego los que hacen milagros, después
+- 1Co_12:29todos maestros? ¿hacen todos milagros?
+- 1Co_13:5no hace nada indebido; no busca lo suyo
+- 1Co_14:25lo oculto de su corazón se hace manifiesto
+- 1Co_14:26cada uno...Hágase todo para edificaciónG1096
+- 1Co_14:40hágase todo decentemente y con ordenG1096
+- 1Co_15:20primicias de...que durmieron es hechoG1096
+- 1Co_15:29¿qué harán los que se bautizan por losG4160
+- 1Co_15:45fue hecho el primer hombre Adán almaG1096
+- 1Co_16:1haced...de la manera que ordené en lasG4160
+- 1Co_16:10él hace la obra del Señor así como yoG2038
+- 1Co_16:14vuestras cosas sean hechas con amorG1096
+- 2Co_1:17lo que pienso hacer, lo pienso según
+- 2Co_2:6basta...esta reprensión hecha por muchos
+- 2Co_2:10por vosotros lo he hecho en presencia de
+- 2Co_3:6nos hizo ministros...de un nuevo pactoG2427
+- 2Co_5:1una casa no hecha de manos, eterna, enG886
+- 2Co_5:5el que nos hizo para esto mismo es DiosG2716
+- 2Co_5:10cada uno reciba según lo que haya hechoG4238
+- 2Co_5:17cosas viejas...todas son hechas nuevasG1096
+- 2Co_5:21por nosotros lo hizo pecado, para queG4160
+- 2Co_5:21fuésemos hechos justicia de Dios en élG1096
+- 2Co_7:7haciéndonos saber vuestro gran afecto
+- 2Co_7:12que se os hiciese manifiesta nuestraG5319
+- 2Co_8:1os hacemos saber la gracia de DiosG1107
+- 2Co_8:9que por amor a vosotros se hizo pobreG4433
+- 2Co_8:10no sólo a hacerlo...también a quererloG4160
+- 2Co_8:11llevad también a cabo el hacerlo, paraG4160
+- 2Co_8:21procurando hacer las cosas honradamente
+- 2Co_9:8poderoso es Dios para hacer que abundeG4052
+- 2Co_11:12lo que hago, lo haré aún, para quitarG4160
+- 2Co_11:29¿a quién se le hace tropezar, y yo
+- 2Co_12:2hace catorce años...fue arrebatado hasta
+- 2Co_12:11me he hecho un necio al gloriarmeG1096
+- 2Co_12:12las señales de apóstol han sido hechasG2716
+- 2Co_13:7oramos a...que ninguna cosa mala hagáisG4160
+- 2Co_13:7sino para que vosotros hagáis lo buenoG4160
+- Gál_1:11hago saber, hermanos, que el evangelio
+- Gál_2:6pero...Dios no hace acepción de personas
+- Gál_2:10lo cual...procuré con diligencia hacerG4160
+- Gál_2:18vuelvo a edificar, transgresor me hagaG4921
+- Gál_3:5hace maravillas...¿lo h por las obras deG1754
+- Gál_3:10escritas en el libro de...para hacerlasG4160
+- Gál_3:12el que hiciere estas cosas vivirá porG4160
+- Gál_3:13redimió...hecho por nosotros maldiciónG1096
+- Gál_3:16a Abraham fueron hechas las promesas, yG4483
+- Gál_3:19la simiente a quien fue hecha la promesaG1861
+- Gál_4:12ruego, hermanos, que os hagáis como yoG1096
+- Gál_4:12porque yo también me hice como vosotros
+- Gál_4:12ruego...Ningún agravio me habéis hecho
+- Gál_4:16¿me he hecho, pues, vuestro enemigo, porG1096
+- Gál_5:1libertad con que Cristo nos hizo libresG1659
+- Gál_5:17para que no hagáis lo que quisieraisG4160
+- Gál_5:26nos hagamos vanagloriosos, irritándonosG1096
+- Gál_6:6haga partícipe de toda...al que lo instruye
+- Gál_6:9no nos cansemos, pues, de hacer bienG4160
+- Gál_6:10hagamos bien a todos, y mayormente a losG2038
+- Efe_1:6la cual nos hizo aceptos en el AmadoG5487
+- Efe_1:8hizo sobreabundar...toda sabiduría e
+- Efe_1:11propósito del que hace todas las cosasG1754
+- Efe_1:16haciendo memoria de vosotros en misG4160
+- Efe_2:3haciendo la voluntad de la carne y de losG4160
+- Efe_2:6nos hizo sentar...con Cristo JesúsG4776
+- Efe_2:11la llamada circuncisión hecha con manoG5499
+- Efe_2:13hechos cercanos por la sangre de CristoG1096
+- Efe_2:14de ambos pueblos hizo uno, derribando laG4160
+- Efe_2:15un solo y nuevo hombre, haciendo la pazG2936
+- Efe_3:7del cual yo fui hecho ministro por elG1096
+- Efe_3:11al propósito eterno que hizo en CristoG4160
+- Efe_3:20Aquel que es poderoso para hacer todasG4160
+- Efe_4:28haciendo con sus manos lo que es buenoG2038
+- Efe_5:12vergonzoso es aun hablar...ellos hacenG1096
+- Efe_5:13todas las cosas...son hechas manifiestasG5319
+- Efe_6:6de corazón haciendo la voluntad de DiosG4160
+- Efe_6:8que el bien que...hiciere, ése recibiráG4160
+- Efe_6:9amos, haced con ellos lo mismo, dejandoG4160
+- Efe_6:21lo que hago...os lo hará saber TíquicoG4238
+- Flp_1:13mis prisiones se han hecho patentesG5318
+- Flp_2:3nada hagáis por contienda o...vanagloria
+- Flp_2:7de siervo, hecho semejante a los hombresG2758
+- Flp_2:8haciéndose obediente hasta la muerte, yG1096
+- Flp_2:13produce así el querer como el hacer, porG1754
+- Flp_2:14haced...sin murmuraciones y contiendasG4160
+- Flp_3:13cosa hago; olvidando...lo que queda atrás
+- Flp_4:9que...oísteis y vísteis en mí, esto hacedG4238
+- Flp_4:14bien hicisteis en participar conmigo enG4160
+- Col_1:12que nos hizo aptos para participar deG2427
+- Col_1:20haciendo la paz mediante la sangre de suG1517
+- Col_1:21erais...enemigos...haciendo malas obras
+- Col_1:23del cual yo Pablo fui hecho ministroG1096
+- Col_1:25de la cual fui hecho ministro, según laG1096
+- Col_2:11circuncisión no hecha a mano, al echarG886
+- Col_3:5Haced morir, pues, lo terrenal en vosotros
+- Col_3:13Cristo os perdonó, así también hacedlo
+- Col_3:17todo lo que hacéis, sea de palabra o deG4160
+- Col_3:17hacedlo todo en el nombre del SeñorG4160
+- Col_3:23todo lo que hagáis, hacedlo de corazónG4160
+- Col_3:25mas el que hace injusticia recibirá laG91
+- Col_3:25recibirá la injusticia que hiciereG91
+- Col_4:1amos, haced lo que es justo y recto conG3930
+- Col_4:7lo hará saber Tíquico, amado hermano y fiel
+- Col_4:9todo lo que acá pasa, os lo harán saber
+- Col_4:16haced que también se lea en la iglesiaG4160
+- 1Ts_1:2gracias...haciendo memoria de vosotrosG4160
+- 1Ts_3:12el Señor os haga crecer y abundar enG4121
+- 1Ts_3:12lo hacemos nosotros para con vosotros
+- 1Ts_4:10lo hacéis así con todos los hermanos queG4160
+- 1Ts_5:11animaos unos a otros...así como lo hacéisG4160
+- 1Ts_5:24fiel es el que...el cual también lo haráG4160
+- 2Ts_2:4haciéndose pasar por Dios
+- 2Ts_3:4que hacéis y haréis lo que os hemosG4160
+- 2Ts_3:13hermanos, no os canséis de hacer bienG2569
+- 1Ti_1:13porque lo hice por ignorancia, enG4160
+- 1Ti_1:18a las profecías que se hicieron antesG4254
+- 1Ti_2:1exhorto...se hagan rogativas, oracionesG4160
+- 1Ti_4:16haciendo esto, te salvarás a ti mismo y aG4160
+- 1Ti_5:21cosas...no haciendo nada con parcialidadG4160
+- 1Ti_5:24se hacen patentes antes que ellos venganG4271
+- 1Ti_5:25se hacen manifiestas las buenas obrasG4271
+- 1Ti_6:12hecho la buena profesión delante deG3670
+- 1Ti_6:18que hagan bien, que sean ricos en buenasG14
+- 2Ti_3:15hacer sabio para la salvación por laG4679
+- 2Ti_4:5pero tú...haz obra de evangelista, cumpleG4160
+- Tit_3:5no por obras...que...hubiéramos hechoG4160
+- Flm_1:4haciendo siempre memoria de ti en misG4160
+- Flm_1:14nada quise hacer sin tu consentimientoG4160
+- Flm_1:21sabiendo que harás aun más de lo que teG4160
+- Heb_1:2por quien asimismo hizo el universoG4160
+- Heb_1:4hecho...superior a los ángeles, cuantoG1096
+- Heb_1:7el que hace a sus ángeles espíritus, y aG4160
+- Heb_2:7le hiciste un poco menor que los ángelesG1642
+- Heb_2:9vemos a aquel que fue hecho...menor queG1642
+- Heb_3:3mayor honra que la casa el que la hizoG2680
+- Heb_3:4toda casa es hecha por alguno, pero elG2680
+- Heb_3:4pero el que hizo todas las cosas es DiosG2680
+- Heb_3:14somos hechos participantes de CristoG1096
+- Heb_5:5sí mismo haciéndose sumo sacerdote, sinoG1096
+- Heb_5:11cuanto os habéis hecho tardos para oírG1096
+- Heb_6:3haremos, si Dios en verdad lo permiteG4160
+- Heb_6:4y fueron hechos partícipes del EspírituG1096
+- Heb_6:12fin de que no os hagáis perezosos, sinoG1096
+- Heb_6:13cuando Dios hizo la promesa a AbrahamG1861
+- Heb_6:20hecho sumo sacerdote para siempre segúnG1096
+- Heb_7:3sino hecho semejante al Hijo de DiosG871
+- Heb_7:20y esto no fue hecho sin juramento
+- Heb_7:21sin juramento fueron hechos sacerdotesG1096
+- Heb_7:22por tanto, Jesús es hecho fiador de unG1096
+- Heb_7:26santo...hecho más sublime que los cielosG1096
+- Heb_7:27porque esto lo hizo una vez para siempreG4160
+- Heb_7:28al Hijo, hecho perfecto para siempreG2525
+- Heb_8:5haz todas las cosas conforme al modeloG4160
+- Heb_8:9no como el pacto que hice con sus padresG4160
+- Heb_8:10este es el pacto que haré con la casa deG1303
+- Heb_9:9que no pueden hacer perfecto, en cuantoG5048
+- Heb_9:11más perfecto tabernáculo, no hecho deG5499
+- Heb_9:22sin derramamiento...no se hace remisiónG1096
+- Heb_9:24no entró Cristo en el santuario hechoG5499
+- Heb_10:1hacer perfectos a los que se acercan aG5048
+- Heb_10:3cada año se hace memoria de los pecados
+- Heb_10:7,9vengo...Dios, para hacer tu voluntadG4160
+- Heb_10:10ofrenda...hecha una vez para siempre
+- Heb_10:14hizo perfectos para...a los santificadosG5048
+- Heb_10:16este es el pacto que haré con ellosG1303
+- Heb_10:29hiciere afrenta al Espíritu de gracia?[[G1796]]
+- Heb_10:33una parte...fuisteis hechos espectáculoG2301
+- Heb_10:36que habiendo hecho la voluntad de DiosG4160
+- Heb_11:3lo que se ve fue hecho de lo que no seG1096
+- Heb_11:7fue hecho heredero de la justicia queG1096
+- Heb_11:24hecho ya grande, rehusó llamarse hijo
+- Heb_11:29intentando...hacer lo mismo, fueron
+- Heb_11:33hicieron justicia, alcanzaron promesasG2038
+- Heb_11:34hicieron fuertes en batalla, pusieronG1096
+- Heb_12:13y haced sendas derechas para vuestrosG4160
+- Heb_12:23a los...de los justos hechos perfectosG5048
+- Heb_12:27la remoción de las...como cosas hechasG4160
+- Heb_13:6no temeré lo que...pueda hacer el hombreG4160
+- Heb_13:16de hacer bien y de la ayuda mutua no osG2140
+- Heb_13:17lo hagan con alegría, y no quejándoseG4160
+- Heb_13:19ruego que lo hagáis así, para que yo osG4160
+- Heb_13:21os haga aptos...que hagáis su voluntadG2675
+- Heb_13:21haciendo él en vosotros lo...agradableG4160
+- Stg_1:7no piense, pues, quien tal haga, que
+- Stg_1:8nos hizo nacer por la palabra de verdad
+- Stg_1:25éste será bienaventurado en lo que haceG4162
+- Stg_2:4¿no hacéis distinciones entre vosotrosG1252
+- Stg_2:8si en verdad cumplís la ley...bien hacéisG4160
+- Stg_2:9si hacéis acepción de personas, cometéisG4380
+- Stg_2:10en un punto, se hace culpable de todosG1096
+- Stg_2:11matas, ya te has hecho transgresor de laG1096
+- Stg_2:12así haced, como los que habéis de serG4160
+- Stg_2:13juicio...se hará con aquel que no hicieraG4160
+- Stg_2:19tú crees que Dios es uno; bien hacesG4160
+- Stg_3:1hermanos...no os hagáis maestros muchosG1096
+- Stg_3:9que están hechos a la semejanza de DiosG1096
+- Stg_3:18en paz para aquellos que hacen la pazG4160
+- Stg_4:5ha hecho morar en nosotros nos anhela
+- Stg_4:15si el Señor quiere, viviremos y haremosG4160
+- Stg_4:17al que sabe hacer lo bueno, y no lo haceG4160
+- Stg_5:6al justo, y él no os hace resistenciaG498
+- Stg_5:13¿está alguno...afligido? Haga oraciónG4336
+- Stg_5:19se ha extraviado de la verdad, y alguno le hace
+- Stg_5:20el que haga volver al pecador del error
+- 1Pe_1:3nos hizo renacer para una esperanza viva
+- 1Pe_2:8piedra de tropiezo, y roca que hace caer
+- 1Pe_2:14para...alabanza de los que hacen bienG17
+- 1Pe_2:15que haciendo bien, hagan callar laG15
+- 1Pe_2:16no...como pretexto para hacer lo malo
+- 1Pe_2:20mas si haciendo lo bueno sufrís, y loG15
+- 1Pe_2:22no hizo pecado, ni se halló engaño enG4160
+- 1Pe_3:6si hacéis el bien, sin temer...amenazaG15
+- 1Pe_3:11apártese del mal, y haga el bien...la pazG4160
+- 1Pe_3:12está contra aquellos que hacen el malG4160
+- 1Pe_3:13¿y quién es...que os podrá hacer daño, siG2559
+- 1Pe_3:17padezcáis haciendo el bien...que h el malG2554
+- 1Pe_4:3haber hecho lo que agrada a los gentilesG2716
+- 1Pe_4:19encomienden sus almas al...hagan el bienG16
+- 2Pe_1:10procurad hacer firme vuestra vocaciónG4160
+- 2Pe_1:10haciendo estas cosas, no caeréis jamásG4160
+- 2Pe_1:19a la cual hacéis bien en estar atentosG4160
+- 2Pe_2:3por avaricia harán mercadería de vosotrosG1710
+- 2Pe_2:19el que es vencido...es hecho esclavo delG1402
+- 2Pe_3:5fueron hechos...los cielos, y...la tierra
+- 1Jn_1:10le hacemos...mentiroso, y su palabraG4160
+- 1Jn_2:17que hace la voluntad de Dios permaneceG4160
+- 1Jn_2:25esta es la promesa que él nos hizo, laG1861
+- 1Jn_2:29todo el que hace justicia es nacido de élG4160
+- 1Jn_3:7el que hace justicia es justo, como él esG4160
+- 1Jn_3:10que no hace justicia, y...no es de DiosG4160
+- 1Jn_3:22hacemos las cosas que son agradablesG4160
+- 1Jn_5:10no cree, a Dios le ha hecho mentirosoG4160
+- 1Jn_5:15tenemos las peticiones...hayamos hechoG154
+- 2Jn_1:7quien esto hace es el engañador y el
+- 2Jn_1:12no he querido hacerlo por...papel y tinta
+- 3Jn_1:6y harás bien en encaminarlos como esG4160
+- 3Jn_1:10obras que hace parloteando con palabrasG4160
+- 3Jn_1:11el que hace lo bueno es de Dios; pero elG15
+- 3Jn_1:11el que hace lo malo, no ha visto a DiosG2554
+- Jud_1:15para hacer juicio contra todos, y dejarG4160
+- Jud_1:15sus obras impías que han hecho impíamenteG764
+- Rev_1:6nos hizo reyes y sacerdotes para DiosG4160
+- Rev_1:7los linajes de la tierra harán lamentación
+- Rev_2:5arrepiéntete, y haz las primeras obrasG4160
+- Rev_3:9haré que vengan y se postren a tus piesG1325
+- Rev_3:12al que venciere, yo lo haré columna enG4160
+- Rev_5:10nos has hecho para nuestro Dios reyesG4160
+- Rev_7:2dado el poder de hacer daño a la tierraG91
+- Rev_7:3no hagáis daño a la tierra, ni al marG91
+- Rev_8:1se hizo silencio en...como por media horaG1096
+- Rev_8:11esas aguas, porque se hicieron amargasG1096
+- Rev_11:5y si alguno quiere hacerles daño, debeG91
+- Rev_11:7la bestia...hará guerra contra ellosG4160
+- Rev_12:17fue a hacer guerra contra el resto deG4160
+- Rev_13:7se le permitió hacer guerra contra losG4160
+- Rev_13:12hace que la tierra y los...adoren a laG4160
+- Rev_13:13hace grandes señales, de tal manera queG4160
+- Rev_13:14señales que se le ha permitido hacerG4160
+- Rev_13:14le hagan imagen a la bestia que tieneG4160
+- Rev_13:15la imagen hablase e hiciese matar
+- Rev_13:16hacía que a todos...se les pusiese unaG4160
+- Rev_14:7adorad a aquel que hizo el cielo y laG4160
+- Rev_14:8ha hecho beber a todas las naciones del vinoG4222
+- Rev_16:14espíritus...que hacen señales, y van aG4160
+- Rev_16:17una gran voz del...diciendo: Hecho estáG1096
+- Rev_18:2y se ha hecho habitación de demonios yG1096
+- Rev_18:9harán lamentación sobre ella, cuando
+- Rev_18:11los mercaderes de...hacen lamentación
+- Rev_18:20Dios os ha hecho justicia en ellaG2917, [[G2919]]
+- Rev_19:10no lo hagas; yo soy consiervo tuyo, y
+- Rev_19:20profeta que había hecho...las señalesG4160
+- Rev_21:5hago nuevas todas las cosas. Y me dijoG4160
+- Rev_21:6me dijo: Hecho está. Yo soy el Alfa yG1096
+- Rev_21:27que hace abominación y mentira, sino
+- Rev_22:9él me dijo: Mira, no lo hagas; porque yo
+- Rev_22:15y todo aquel que ama y hace mentiraG4160

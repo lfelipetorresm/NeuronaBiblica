@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: MOVER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MOVER
+
+- Gén_1:2el Espíritu...se movía sobre las aguasH7363
+- Gén_1:21creó Dios...todo ser viviente que se mueveH7430
+- Gén_1:28las bestias que se mueven sobre la tierraH7430
+- Gén_7:21murió toda carne que se mueve sobre laH7430
+- Gén_8:19que se mueve sobre la tierra según susH7430
+- Gén_9:2en todo lo que se mueva sobre la tierraH7430
+- Gén_9:3todo lo que se mueve y vive, os será paraH7431
+- Éxo_11:7ni un perro moverá su lengua, para queH2782
+- Éxo_36:2su corazón le movió a venir a la obraH5375
+- Éxo_40:36Israel se movían en todas sus jornadasH5265
+- Éxo_40:37no se movían hasta el día en que ellaH5265
+- Lev_11:10todo lo que se mueve como de toda cosaH8318
+- Lev_11:29animales que se mueven sobre la tierraH8317
+- Lev_11:31inmundos de...los animales que se muevenH8318
+- Lev_11:46ley acerca de...todo ser...que se mueveH7430
+- Lev_26:36el sonido de una hoja que se mueva losH5086
+- Núm_9:22la nube se detenía...no se movían; masH5265
+- Núm_10:2te servirán para...mover los campamentosH4550
+- Núm_10:5-6cuando tocareis alarma...moverán losH5265
+- Núm_10:17se movieron los hijos de Gersón y losH5265
+- Núm_10:35cuando el arca se movía, Moisés decíaH5265
+- Deu_32:21me movieron a celos...moveré a celos
+- Jos_10:21no hubo quien moviese...lengua contraH2782
+- Jue_2:18Jehová era movido a misericordia porH5162
+- 1Sa_1:13se movían sus labios, y su voz no seH5128
+- 2Sa_5:24cuando oigas ruido como...te moverásH2782
+- 2Sa_15:20¿y he de hacer hoy que te muevas para irH1980
+- 2Re_19:21detrás de ti mueve su cabeza la hijaH5128
+- 2Re_21:8el pie de Israel sea movido de la tierraH5110
+- 2Re_23:18dejadlo; ninguno mueva sus huesos; y asíH5128
+- Est_5:9que no se levantaba ni se movía de suH2111
+- Job_16:4podría...sobre vosotros mover mi cabezaH5128
+- Job_40:17su cola mueve como un cedro, y...muslosH2654
+- Job_41:23están en él firmes, y no se muevenH4131
+- Sal_10:6dice en su corazón: No seré movidoH4131
+- Sal_35:23muévete...para hacerme justicia, DiosH5782
+- Sal_36:11no vengas...mano de impíos no me muevaH5110
+- Sal_50:11que se mueve en los campos me pertenece
+- Sal_69:34los mares y todo lo que se mueve en ellosH7430
+- Sal_78:26movió el solano en el cielo, y trajoH5265
+- Sal_93:1afirmó también el mundo, y no se moveráH4131
+- Sal_104:25en donde se mueven seres innumerablesH7431
+- Sal_125:1no se mueve, sino que permanece paraH4131
+- Pro_16:30ojos...mueve sus labios, efectúa el malH7169
+- Isa_10:14no hubo quién moviese ala, ni abrieseH5074
+- Isa_10:15¿se...la sierra contra el que la mueve?[[H5130]]
+- Isa_13:13la tierra se moverá de su lugar, en laH7264
+- Isa_37:22detrás de ti mueve su cabeza la hija deH5128
+- Isa_38:12mi morada ha sido movida y traspasadaH5265
+- Isa_40:20una imagen de talla que no se muevaH4131
+- Isa_41:7lo afirmó con clavos...que no se movieseH4131
+- Isa_46:7allí se está, y no se mueve de su sitioH4185
+- Isa_54:10los montes se moverán, y los colladosH4185
+- Jer_10:4con clavos y...para que no se muevaH6328
+- Jer_46:7¿quién es éste...cuyas aguas se muevenH1607
+- Jer_46:8y las aguas se mueven como ríos, y dijoH1607
+- Lam_2:15movieron despectivamente sus cabezasH5128
+- Eze_1:12donde el espíritu les movía...andabanH1980
+- Eze_1:17cuando andaban, se movían hacia sus 4H1980
+- Eze_1:20les movía que anduviesen...m el espírituH1980
+- Mat_18:27movido a misericordia, le soltó y leG4697
+- Mat_23:4ellos ni con un dedo quieren moverlasG2795
+- Luc_2:27movido por el Espíritu, vino al templo
+- Luc_6:48no la pudo mover...fundada sobre la rocaG4531
+- Luc_10:33viéndole, fue movido a misericordiaG4697
+- Luc_15:20y fue movido a misericordia, y corrióG4697
+- Hec_7:9los patriarcas, movidos por envidiaG2206
+- Hec_17:28en él vivimos, y nos movemos, y somosG2795
+- Col_1:23en la fe, sin moveros de la esperanzaG3334
+- 2Ts_2:2que no os dejéis mover fácilmente deG4531

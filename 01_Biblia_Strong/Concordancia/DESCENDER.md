@@ -1,0 +1,353 @@
+---
+tipo: concordancia
+palabra: DESCENDER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DESCENDER
+
+- Gén_11:5descendió Jehová para ver la ciudadH3381
+- Gén_11:7descendamos, y confundamos...su lenguaH3381
+- Gén_12:10y descendió Abram a Egipto para morarH3381
+- Gén_15:11y descendían aves de rapiña sobre losH3381
+- Gén_18:21descenderé...veré si han consumado suH3381
+- Gén_24:16cual descendió a la fuente, y llenó suH3381
+- Gén_24:45y descendió a la fuente, y sacó aguaH3381
+- Gén_24:64vio a Isaac, y descendió del camelloH3381, [[H5307]]
+- Gén_26:2no desciendas a Egipto; habita enH3381
+- Gén_28:12ángeles...que subían y descendían porH3381
+- Gén_37:35descenderé enlutado a...hasta el SeolH3381
+- Gén_42:2descended allá, y comprad de allí paraH3381
+- Gén_42:3descendieron los diez hermanos de JoséH3381
+- Gén_42:38no descenderá mi hijo con vosotrosH3381
+- Gén_42:38haréis descender mis canas con dolorH3381
+- Gén_43:4si enviares a...hermano...descenderemosH3381
+- Gén_43:5pero si no le enviares, no descenderemosH3381
+- Gén_43:15se levantaron y descendieron a EgiptoH3381
+- Gén_43:20descendimos al principio a comprarH3381
+- Gén_44:23si vuestro hermano...no descendie conH3381
+- Gén_44:29descender mis canas con dolor al SeolH3381
+- Gén_44:31harán descender las canas de tu siervoH3381
+- Gén_46:3y dijo...no temas de descender a EgiptoH3381
+- Gén_46:4descenderé contigo a Egipto, y...volverH3381
+- Éxo_2:5la hija de Faraón descendió a lavarseH3381
+- Éxo_3:8he descendido para librarlos de mano deH3381
+- Éxo_11:8descenderán a mí todos estos tus siervosH3381
+- Éxo_15:5descendieron a las profundidades comoH3381
+- Éxo_16:13la mañana descendió rocío en derredorH3381, [[H7902]]
+- Éxo_16:14cuando el rocío cesó de descender, heH3381, [[H7902]]
+- Éxo_19:11Jehová descenderá a ojos de todo elH3381
+- Éxo_19:14descendió Moisés del monte al puebloH3381
+- Éxo_19:18Jehová había descendido sobre él enH3381
+- Éxo_19:20descendió Jehová sobre el monte SinaíH3381
+- Éxo_19:21dijo...Desciende, ordena al pueblo queH3381
+- Éxo_19:24desciende, y subirás...y Aarón contigoH3381
+- Éxo_19:25Moisés descendió y se lo dijo al puebloH3381
+- Éxo_32:1Moisés tardaba en descender del monteH3381
+- Éxo_32:7anda, desciende, porque tu pueblo queH3381
+- Éxo_32:15y volvió Moisés y descendió del monteH3381
+- Éxo_33:9la nube descendía y se ponía a la puertaH3381
+- Éxo_34:5Jehová descendió en la nube, y estuvoH3381
+- Éxo_34:29y descendiendo Moisés del monte SinaíH3381
+- Éxo_34:29al descender...no sabía Moisés que laH3381
+- Lev_9:22después de...la expiación...descendióH3381
+- Núm_11:9cuando descendía el rocío el maná dH3381
+- Núm_11:17yo descenderé y hablaré allí contigoH3381
+- Núm_11:25entonces Jehová descendió en la nubeH3381
+- Núm_12:5entonces Jehová descendió en la columnaH3381
+- Núm_14:45descendieron el amalecita y el cananeoH3381
+- Núm_16:30abriere...y descendieren vivos al SeolH3381
+- Núm_16:33con todo lo...descendieron vivos al SeolH3381
+- Núm_20:15nuestros padres descendieron a EgiptoH3381
+- Núm_20:28Moisés y Eleazar descendieron del monteH3381
+- Núm_34:11descenderá el límite, y llegará a laH3381
+- Núm_34:12después descenderá este frente al JordánH3381
+- Deu_9:12desciende pronto de aquí...tu puebloH3381
+- Deu_9:15y descendí del monte, el cual ardía enH3381
+- Deu_9:21él en el arroyo que descendía del monteH3381
+- Deu_10:5y descendí del monte, y puse las tablasH3381
+- Deu_10:22con setenta personas descendieron tusH3381
+- Deu_26:5el cual descendió a Egipto y habitó allíH3381
+- Deu_28:24polvo...los cielos descenderán sobre tiH3381
+- Deu_28:43se elevará...y tú descenderás muy abajoH3381
+- Jos_2:15los hizo descender con una cuerda porH3381
+- Jos_2:23descendieron del monte, y pasaron, yH3381
+- Jos_3:16y las que descendían al mar de ArabáH3381
+- Jos_15:10desciende a Bet-semes, y pasa a TimnaH3381
+- Jos_16:7de Janoa desciende a Atarot y a NaaratH3381
+- Jos_17:9desciende este límite al arroyo de CanáH3381
+- Jos_18:13desciende de Atarot-adar al monte queH3381
+- Jos_18:16y desciende este límite al extremo delH3381
+- Jos_18:16desciende luego al valle de Hinom, alH3381
+- Jos_18:16de allí desciende a la fuente de RogelH3381
+- Jos_18:17desciende a la piedra de Bohán hijo deH3381
+- Jos_18:18pasa al lado que...y desciende al ArabáH3381
+- Jos_24:4Jacob y sus hijos descendieron a EgiptoH3381
+- Jue_1:9Judá descendieron para pelear contraH3381
+- Jue_1:34no los dejaron descender a los llanosH3381
+- Jue_3:27los hijos de Israel descendieron con élH3381
+- Jue_3:28descendieron...y tomaron los vados delH3381
+- Jue_4:14y Barac descendió del monte de Tabor, yH3381
+- Jue_4:15Sísara descendió del carro, y huyó a pieH3381
+- Jue_5:14de Maquir descendieron príncipes, y deH3381
+- Jue_7:9desciende al campamento; porque yo lo heH3381
+- Jue_7:10si tienes temor de descender, baja túH3381
+- Jue_7:11descenderás al campamento...él descendióH3381
+- Jue_7:24descended al encuentro de los madianitasH3381
+- Jue_9:36gente que desciende de las cumbres deH3381
+- Jue_9:37gente que desciende de en medio de laH3381
+- Jue_11:37vaya y descienda por los montes, y lloreH3381
+- Jue_14:1descendió Jansón a Timnat, y vio mujerH3381
+- Jue_14:5Sansón descendió con su padre y madreH3381
+- Jue_14:7descendió...y habló a la mujer; y ellaH3381
+- Jue_14:19descendió a Ascalón y mató a treintaH3381
+- Jue_15:8y descendió y habitó en la cueva EtamH3381
+- Jue_16:31y descendieron sus hermanos y toda laH3381
+- Rut_3:6descendió, pues, a la era, e hizo todoH3381
+- 1Sa_2:6hace descender al Seol, y hace subirH3381
+- 1Sa_6:21descended, pues, y llevadla a vosotrosH3381
+- 1Sa_9:25y cuando hubieron descendido del lugarH3381
+- 1Sa_9:27descendiendo...al extremo de la ciudadH3381
+- 1Sa_10:5profetas que descienden del lugar altoH3381
+- 1Sa_10:8a Gilgal, entonces descenderé yo a tiH3381
+- 1Sa_13:12descenderán los filisteos contra mí aH3381
+- 1Sa_13:20tenían que descender a los filisteosH3381
+- 1Sa_14:36descendamos de noche contra...filisteosH3381
+- 1Sa_14:37Saúl...¿Descenderé tras los filisteos?[[H3381]]
+- 1Sa_17:28y dijo: ¿Para qué has descendido acá?[[H3381]]
+- 1Sa_20:19descenderás y vendrás al lugar dondeH3381
+- 1Sa_23:4desciende a Keila, pues yo entregaré enH3381
+- 1Sa_23:6Abiatar...descendió...el efod en su manoH3381
+- 1Sa_23:8convocó Saúl a...para descender a KeilaH3381
+- 1Sa_23:11¿descenderá Saúl...ha oído tu siervo?[[H3381]]
+- 1Sa_23:11ruego...Y Jehová dijo: Sí, descenderáH3381
+- 1Sa_23:20descendió a la peña, y se quedó en elH3381
+- 1Sa_23:25descendió por una parte secreta delH3381
+- 1Sa_26:2¿quién descenderá conmigo a Saúl en elH3381
+- 1Sa_26:6y dijo Abisai: Yo descenderé contigoH3381
+- 1Sa_26:10que...o descendiendo en batalla perezcaH3381
+- 1Sa_30:24conforme a la parte del que desciendeH3381
+- 2Sa_5:17cuando David lo oyó, descendió a laH3381
+- 2Sa_11:8desciende a tu casa, y lava tus piesH3381
+- 2Sa_11:9Urías durmió...y no descendió a su casaH3381
+- 2Sa_11:10diciendo: Urías no ha descendido a suH3381
+- 2Sa_11:10¿por qué...no descendiste a tu casa?[[H3381]]
+- 2Sa_11:13él salió a...mas no descendió a su casaH3381
+- 2Sa_19:16y Simei...descendió con los hombres deH3381
+- 2Sa_19:20he venido...para descender a recibir aH3381
+- 2Sa_19:24Mefi-boset...descendió a recibir al reyH3381
+- 2Sa_19:31Barzilai...descendió de Rogelim, y pasóH3381
+- 2Sa_21:15descendió David y sus siervos con élH3381
+- 2Sa_22:10e inclinó los cielos, y descendióH3381
+- 2Sa_23:13descendieron y vinieron en tiempo deH3381
+- 2Sa_23:20descendió y mató a un león en...un fosoH3381
+- 2Sa_23:21pero descendió contra él con un paloH3381
+- 1Re_1:25ha descendido, y ha matado bueyes yH3381
+- 1Re_1:38y descendieron el sacerdote Sadoc, elH3381
+- 1Re_2:6no dejarás descender sus canas al SeolH3381
+- 1Re_2:8descendió a recibirme al Jordán, y yo leH3381
+- 1Re_2:9y harás descender sus canas con sangreH3381
+- 1Re_18:44desciende...que la lluvia no te atajeH3381
+- 1Re_21:16se levantó para descender a la viña deH3381
+- 1Re_21:18desciende a encontrarte con Acab reyH3381
+- 1Re_21:18ha descendido para tomar posesión deH3381
+- 1Re_22:2que Josafat...descendió al rey de IsraelH3381
+- 2Re_1:9dijo: el rey ha dicho que desciendenH3381
+- 2Re_1:10, 2Re_1:12descienda fuego del cielo...descendióH3381
+- 2Re_1:11el rey ha dicho así: Desciende prontoH3381
+- 2Re_1:14he aquí ha descendido fuego del cieloH3381
+- 2Re_1:15desciende con él; no tengas miedo de élH3381
+- 2Re_1:15él se levantó, y descendió con él al reyH3381
+- 2Re_2:2Eliseo dijo:Descendieron, pues, a Bet-elH3381
+- 2Re_3:12y descendieron a él el rey de Israel, yH3381
+- 2Re_5:14descendió, y se zambulló siete veces enH3381
+- 2Re_6:18luego que los sirios descendieron a élH3381
+- 2Re_6:33he aquí el mensajero que descendía a élH3381
+- 2Re_7:17había dicho: cuando el rey descendió aH3381
+- 2Re_8:29y descendió Ocozías...a visitar a JoramH3381
+- 2Re_9:16Ocozías rey...había descendido a visitarH3381
+- 2Re_12:20mataron a Joás en...descendía él a SilaH3381
+- 2Re_13:14y descendió a él Joás rey de IsraelH3381
+- 2Re_20:11por los grados que había descendidoH3381
+- 1Cr_11:15tres de los 30...descendieron a laH3381
+- 1Cr_11:22Benaía...descendió y mató a un león enH3381
+- 1Cr_11:23descendió con un báculo, y arrebató alH3381
+- 2Cr_7:1cuando Salomón acabó...descendió fuegoH3381
+- 2Cr_7:3cuando vieron...descender el fuego y laH3381
+- 2Cr_18:2descendió a Samaria para visitar a AcabH3381
+- 2Cr_20:16mañana descenderéis contra ellos; heH3381
+- 2Cr_22:6descendió Ocozías hijo de...para visitarH3381
+- Neh_3:15hasta las gradas que descienden deH3381
+- Neh_9:13y sobre el monte de Sinaí descendisteH3381
+- Job_7:9así el que desciende al Seol no subiráH3381
+- Job_17:16a la profundidad del Seol descenderánH3381
+- Job_21:13sus días...y en paz descienden al SeolH3381, [[H5181]]
+- Job_33:24que lo libró de descender al sepulcroH3381
+- Job_37:6a la nieve dices: Desciende a la tierraH3381, [[H1933]]
+- Sal_18:9inclinó los cielos, y descendió; yH3381
+- Sal_22:29se postrarán...todos los que desciendenH3381
+- Sal_28:1no sea...semejante a los que desciendenH3381
+- Sal_30:3me diste vida, para que no descendieseH3381
+- Sal_30:9¿qué provecho hay en...cuando desciendaH3381
+- Sal_38:2porque...sobre mí ha descendido tu manoH3381, [[H5181]]
+- Sal_49:17nada, ni descenderá tras él su gloriaH3381
+- Sal_55:15desciendan vivos al Seol, porque hayH3381
+- Sal_55:23Dios, harás descender aquéllos al pozoH3381
+- Sal_65:10haces descender sus canales...lluviasH3381, [[H5181]]
+- Sal_72:6descenderá como la lluvia sobre la hierbaH3381
+- Sal_78:16peña...hizo descender aguas como ríosH3381
+- Sal_88:4soy contado entre los que descienden alH3381
+- Sal_104:8descendieron los valles, al lugar queH3381
+- Sal_107:23los que descienden al mar en navesH3381
+- Sal_107:26suben a los cielos, descienden a losH3381
+- Sal_115:17no...ni cuantos descienden al silencioH3381
+- Sal_119:136ríos de agua descendieron de mis ojosH3381
+- Sal_133:2el cual desciende sobre la barba, laH3381
+- Sal_133:3el rocío de Hermón, que desciende sobreH3381
+- Sal_143:7ser semejante a los que descienden a laH3381
+- Sal_144:5Jehová, inclina tus cielos y desciendeH3381
+- Pro_5:5sus pies descienden a la muerte;susH3381
+- Pro_30:4¿quién subió al cielo, y descendió?[[H3381]]
+- Ecl_3:21que el espíritu del animal desciendeH3381, [[H4295]]
+- Cnt_6:2mi amado descendió a su huerto, a lasH3381
+- Cnt_6:11descendí a ver los frutos del valleH3381
+- Isa_5:14y allá descenderá la gloria de ellosH3381
+- Isa_14:11descendió al Seol tu soberbia, y...arpasH3381
+- Isa_14:19descendieron al fondo de la sepulturaH3381
+- Isa_30:2que se apartan para descender a EgiptoH3381
+- Isa_31:1¡ay de los que descienden a Egipto porH3381
+- Isa_31:4así Jehová de los...descenderá a pelearH3381
+- Isa_34:5espada...descenderá sobre Edom en juicioH3381
+- Isa_38:8los grados que ha descendido con el solH3381
+- Isa_38:8grados...los cuales había ya descendidoH3381
+- Isa_38:18no...ni los que descienden al sepulcroH3381
+- Isa_42:10los que descendéis al mar, y cuanto hayH3381
+- Isa_43:14hice descender como fugitivos a todosH3381
+- Isa_47:1desciende y siéntate en el polvo, virgenH3381
+- Isa_52:4mi pueblo descendió a Egipto en tiempoH3381
+- Isa_55:10como desciende de los cielos la lluviaH3381
+- Isa_63:14como a...bestia que desciende al valleH3381
+- Isa_64:1¡oh, si...descendieras y a tu presenciaH3381
+- Isa_64:3descendiste fluyeron los montes delanteH3381
+- Jer_17:27haré descender fuego en sus puertasH3381, [[H3341]]
+- Jer_18:3descendí; a casa del alfarero, y he aquíH3381
+- Jer_22:1desciende a la casa del rey de Judá, yH3381
+- Jer_36:12descendió a la casa del...al aposentoH3381
+- Jer_48:15jóvenes...descendieron al degolladeroH3381
+- Jer_48:18desciende de la gloria, siéntate enH3381
+- Jer_49:16aunque alces como...te haré descenderH3381
+- Lam_1:9ella ha descendido sorprendentementeH3381
+- Eze_26:16los príncipes del mar descenderán deH3381
+- Eze_26:20haré descender con los que desciendenH3381
+- Eze_27:29descenderán de sus naves todos los queH3381
+- Eze_28:8sepulcro te harán descender y morirásH3381
+- Eze_31:14entre...los que descienden a la fosaH3381
+- Eze_31:15día que descendió al Seol, hice...lutoH3381
+- Eze_31:16hice descender...con los que desciendenH3381
+- Eze_31:17descendieron con él al Seol, con losH3381
+- Eze_32:18con los que descienden a la sepulturaH3381
+- Eze_32:19desciende, y yace con los incircuncisosH3381
+- Eze_32:21descendieron y yacen con los muertosH3381
+- Eze_32:24los cuales descendieron incircuncisosH3381
+- Eze_32:24-25, Eze_32:29-30con los que descienden alH3381
+- Eze_32:27descendieron al Seol con sus armas deH3381
+- Eze_32:30descendieron...con los muertos a espadaH3381
+- Eze_34:26haré descender la lluvia en su tiempoH3381
+- Eze_47:1y las aguas descendían de debajo, haciaH3381
+- Eze_47:8estas aguas salen...descenderán al ArabáH3381
+- Dan_4:13, Dan_4:23un vigilante y santo descendíaH3381, [[H5182]]
+- Joe_2:23hará descender sobre vosotros lluviaH3381
+- Joe_3:2las haré descender al valle de JosafatH3381
+- Joe_3:13descended, porque el lagar está llenoH3381
+- Amó_6:2descended luego a Gat de los filisteosH3381
+- Amó_9:2aunque subieran...allá los haré descenderH3381
+- Jon_1:3y descendió a jope, y halló una naveH3381
+- Jon_2:6descendí a los cimientos de los montesH3381
+- Miq_1:3descenderá y hollará las alturas de laH3381
+- Miq_1:12el mal había descendido hasta la puertaH3381
+- Mat_3:16Espíritu de Dios que descendía comoG3381, [[G2597]]
+- Mat_7:25, Mat_7:27descendió lluvia, y vinieron ríosG3381, [[G2597]]
+- Mat_8:1descendió Jesús del monte, le seguía muchaG3381, [[G2597]]
+- Mat_14:29descendiendo Pedro de la barca, andabaG3381, [[G2597]]
+- Mat_17:9cuando descendieron del monte, Jesús lesG3381, [[G2597]]
+- Mat_24:17el que esté en la azotea, no desciendaG3381, [[G2597]]
+- Mat_27:40si eres Hijo de Dios, desciende de laG2597
+- Mat_27:42descienda...la cruz, y creeremos en élG2597
+- Mat_28:2ángel del Señor, descendiendo del cieloG2597
+- Mar_1:10al Espíritu como paloma que descendíaG2597
+- Mar_9:9descendiendo ellos del monte, les mandóG2597
+- Mar_13:15en la azotea, no descienda a la casaG2597
+- Mar_15:30sálvate a ti...y desciende de la cruzG2597
+- Mar_15:32desciende ahora de la cruz, para queG2597
+- Luc_2:51y descendió con ellos, y volvió aG2597
+- Luc_3:22y descendió el Espíritu Santo sobre élG2597
+- Luc_4:31descendió Jesús a Capernaum, ciudad deG2718
+- Luc_5:2los pescadores, habiendo descendido deG576
+- Luc_6:17descendió con ellos, y se detuvo en unG2597
+- Luc_9:37cuando descendieron del monte, una granG2718
+- Luc_9:54que descienda fuego del cielo, como hizoG2597
+- Luc_10:30hombre descendía de Jerusalén a JericóG2597
+- Luc_10:31que descendió un sacerdote...y viéndoloG2597
+- Luc_17:31sus bienes...no descienda a tomarlosG2597
+- Luc_18:14éste descendió a su casa justificadoG2597
+- Luc_19:5desciende...hoy es necesario que pose enG2597
+- Luc_19:6descendió aprisa, y le recibió gozosoG2597
+- Jua_1:32vi al Espíritu que descendía del cieloG2597
+- Jua_1:33sobre quien veas descender el EspírituG2597
+- Jua_1:51y descienden sobre el Hijo del HombreG2597
+- Jua_2:12después de esto descendieron a CapernaumG2597
+- Jua_3:13subió al cielo, sino el que descendióG2597
+- Jua_4:47le rogó que descendiese y sanase a suG2597
+- Jua_4:49Señor, desciende antes que mi...mueraG2597
+- Jua_4:51ya él descendía, a sus siervos salieronG2597
+- Jua_5:4un ángel descendía de tiempo en tiempoG2597
+- Jua_5:4el que primero descendía...quedaba sanoG1684
+- Jua_5:7que yo voy, otro desciende antes que yoG2597
+- Jua_6:16al...descendieron sus discípulos al marG2597
+- Jua_6:33es aquel que descendió del cielo y daG2597
+- Jua_6:38he descendido del cielo, no para hacerG2597
+- Jua_6:41yo soy el pan que descendió del cieloG2597
+- Jua_6:42dice este: Del cielo he descendido?[[G2597]]
+- Jua_6:50este es el pan que desciende del cieloG2597
+- Jua_6:51soy el pan vivo que descendió del cieloG2597
+- Jua_6:58este es el pan que descendió del cieloG2597
+- Jua_21:9al descender a tierra, vieron brasasG576
+- Hec_7:15así descendió Jacob a Egipto, dondeG2597
+- Hec_7:34gemido, y he descendido para librarlosG2597
+- Hec_8:5Felipe, descendiendo a la...de SamariaG2718
+- Hec_8:16aún no había descendido sobre ningunoG1968
+- Hec_8:26el camino que desciende de Jerusalén aG2597
+- Hec_8:38descendieron ambos al agua, Felipe y elG2597
+- Hec_10:11que descendía algo semejante a un granG2597
+- Hec_10:20desciende, y no dudes de ir con ellosG2597
+- Hec_10:21Pedro, descendiendo a donde estaban losG2597
+- Hec_11:5un gran lienzo que descendía, que porG2597
+- Hec_11:27profetas descendieron de Jerusalén aG2718
+- Hec_12:19después descendió de Judea a CesareaG2718
+- Hec_13:4descendieron a Seleucia, y de...a ChipreG2718
+- Hec_14:11dioses bajo...han descendido a nosotrosG2597
+- Hec_14:25predicado...Perge, descendieron a AtaliaG2597
+- Hec_15:30descendieron a Antioquía, y reuniendoG2064
+- Hec_16:8pasando junto a Misia, descendieron aG2597
+- Hec_18:22subió...y luego descendió a AntioquíaG2597
+- Hec_20:10descendió Pablo y se echó sobre él, yG2597
+- Hec_24:1descendió el sumo sacerdote Ananías conG2597
+- Hec_24:22cuando descendiere el tribuno LisiasG2597
+- Hec_25:5los que de...puedan...desciendan conmigoG4782
+- Rom_9:6no todos los que descienden de Israel
+- Rom_10:7¿quién descenderá al abismo? (esto esG2597
+- Efe_4:9había descendido primero a las partesG2597
+- Efe_4:10que descendió, es el mismo que...subióG2597
+- 1Ts_4:16con trompeta...descenderá del cieloG2597
+- Stg_1:17y todo don perfecto desciende de loG2597
+- Stg_3:15esta sabiduría no es la que desciendeG2718
+- Rev_3:12nueva Jerusalén...desciende del cieloG2597
+- Rev_10:1descender del cielo a otro ángel fuerteG2597
+- Rev_12:12el diablo ha descendido...con gran iraG2597
+- Rev_13:13descender fuego del cielo a la tierraG2597
+- Rev_18:1vi a otro ángel descender del cielo conG2597
+- Rev_20:1vi a un ángel que descendía del cieloG2597
+- Rev_20:9de Dios descendió fuego...los consumióG2597
+- Rev_21:2vi...la nueva Jerusalén, descender delG2597
+- Rev_21:10de Jerusalén, que descendía del cieloG2597

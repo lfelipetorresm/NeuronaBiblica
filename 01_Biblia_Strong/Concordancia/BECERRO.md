@@ -1,0 +1,140 @@
+---
+tipo: concordancia
+palabra: BECERRO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BECERRO
+
+- Gén_18:7corrió Abraham a las...y tomó un bH1241
+- Gén_18:8y el b que había preparado, y lo pusoH1241
+- Éxo_24:5los cuales ofrecieron holocaustos y bH6499
+- Éxo_29:1toma un b de la vacada, y dos carnerosH6499
+- Éxo_29:3ofrecerás, con el b y los dos carnerosH6499
+- Éxo_29:10llevarás el b delante del tabernáculoH6499
+- Éxo_29:11matarás el b delante de Jehová, a laH6499
+- Éxo_29:12de la sangre del b tomaréis y pondréisH6499
+- Éxo_29:14pero la carne del b y su piel y suH6499
+- Éxo_29:36cada día ofreceréis el b del sacrificioH6499
+- Éxo_32:4tomó e hizo de ellos un b de fundiciónH5695
+- Éxo_32:5Aarón, edificó un altar delante del bH5695
+- Éxo_32:8se han hecho un b de fundición, y lo hanH5695
+- Éxo_32:19y vio el b y las danzas, ardió la iraH5695
+- Éxo_32:20tomó el b y lo quemó en el fuego, yH5695
+- Éxo_32:24y lo echó en el fuego, y salió este bH5695
+- Éxo_32:35habían hecho el b que formó AarónH5695
+- Lev_1:5degollará el b en la presencia de JehováH1241
+- Lev_4:3ofrecer: un b sin defecto para expiaciónH6499
+- Lev_4:4traerá el b a la puerta del tabernáculoH6499
+- Lev_4:4pondré su mano sobre la cabeza del b, yH6499
+- Lev_4:5el sacerdote tomará de la sangre del bH1241
+- Lev_4:7resto de la sangre del b al pie del altarH6499
+- Lev_4:8tomará del b para la expiación toda suH6499
+- Lev_4:11la piel del b, y toda su carne, con suH6499
+- Lev_4:12todo el b sacará fuera del campamentoH6499
+- Lev_4:14la congregación ofrecerá un b porH6499
+- Lev_4:15pondrán sus manos sobre la cabeza del bH6499
+- Lev_4:15presencia de Jehová degollarán aquel bH6499
+- Lev_4:16el sacerdote...meterá de la sangre del bH6499
+- Lev_4:20hará de aquel b como hizo con el b deH6499
+- Lev_4:21sacará el b...quemará como...primer bH6499
+- Lev_8:2toma a Aarón y a...el b de la expiaciónH6499
+- Lev_8:14luego hizo traer el b de la expiaciónH6499
+- Lev_8:14pusieron...manos sobre la cabeza del bH6499
+- Lev_8:17el b, su piel, su carne y su estiércolH6499
+- Lev_9:2toma de la vacada un b para expiaciónH5695
+- Lev_9:3tomad...un b y un cordero de un año, sinH5695
+- Lev_9:8se acercó...degolló el b de la expiaciónH5695
+- Lev_16:3entrará Aarón...con un b para expiaciónH6499
+- Lev_16:6hará traer Aarón el b de la expiaciónH6499
+- Lev_16:11traer...b que era para expiación suyaH6499
+- Lev_16:11y degollará en expiación el b que esH6499
+- Lev_16:14tomará luego de la sangre del b, y laH6499
+- Lev_16:15hará...como hizo con la sangre del bH6499
+- Lev_16:18sangre del b y de la sangre del machoH6499
+- Lev_16:27sacarán fuera...el b y el macho cabríoH6499
+- Lev_22:27b...cuando naciere, siete días estaráH7794
+- Lev_23:18ofreceréis...un b de la vacada, y dosH6499
+- Núm_7:15, Núm_7:21, Núm_7:27, Núm_7:33, Núm_7:39, Núm_7:45, Núm_7:51, Núm_7:57, Núm_7:63, Núm_7:69, Núm_7:75, Núm_7:81un b, un carnero, un cordero de un añoH6499
+- Núm_7:87todos los bueyes para holocausto, doce bH6499
+- Núm_23:1, Núm_23:29y prepárame aquí siete b y 7 carnerosH6499
+- Núm_23:2, Núm_23:14, Núm_23:30un b y un carnero en cada altarH6499
+- Núm_23:4y en cada altar he ofrecido un b y unH6499
+- Núm_28:11meses ofreceréis...dos b de la vacadaH6499
+- Núm_28:12harina amasada...ofrenda con cada bH6499
+- Núm_28:14sus libaciones...medio hin con cada bH6499
+- Núm_28:19, Núm_28:27ofreceréis...dos b de la vacada, yH6499
+- Núm_28:20, Núm_28:28tres décimas con cada b, y dosH6499
+- Núm_29:2holocausto a Jehová, un b de la vacadaH6499
+- Núm_29:3, Núm_29:9tres décimas...con cada b, dos décimasH6499
+- Núm_29:8ofreceréis...b de la vacada, un carneroH6499
+- Núm_29:13ofreceréis...trece b de la vacada, dosH6499
+- Núm_29:14tres décimas con cada uno de los 13 bH6499
+- Núm_29:17doce b...dos carneros, catorce corderosH6499
+- Núm_29:18, Núm_29:21, Núm_29:24, Núm_29:27, Núm_29:30, Núm_29:33, Núm_29:37libaciones con los bH6499
+- Núm_29:20once b, dos carneros, catorce corderosH6499
+- Núm_29:23diez b, dos carneros, catorce corderosH6499
+- Núm_29:26nueve b, dos carneros, catorce corderosH6499
+- Núm_29:29ocho b, dos carneros, catorce corderosH6499
+- Núm_29:32siete b, dos carneros, catorce corderosH6499
+- Núm_29:36un b, un carnero, siete corderos deH6499
+- Deu_9:16os habíais hecho un b de fundiciónH5695
+- Deu_9:21tomé el b que habíais hecho, y lo queméH5695
+- 1Sa_1:24lo llevó consigo, con tres b, un efaH6499
+- 1Sa_1:25matando el b, trajeron el niño a ElíH6499
+- 1Sa_6:7y haced volver sus b de detrás de ellasH1121
+- 1Sa_6:10dos veces...y encerraron en casa sus bH1121
+- 1Sa_14:32tomaron ovejas...y b, y los degollaronH1121, [[H1241]]
+- 1Re_12:28hizo el rey dos b de oro, y dijo alH5695
+- 1Re_12:32sacrificios a los b que había hechoH5695
+- 2Re_10:29dejó en pie los b de oro...en Dan yH5695
+- 2Re_17:16hicieron imágenes fundidas de dos bH5695
+- 1Cr_29:21y ofrecieron...mil b, mil carnerosH6499
+- 2Cr_11:15sacerdotes...para los b que él habíaH5695
+- 2Cr_13:8tenéis con vosotros los b de oro queH5695
+- 2Cr_13:9venga a consagrarse con un b y sieteH6499
+- Esd_6:9b, carneros y corderos...holocaustosH8450
+- Esd_6:17y ofrecieron en la dedicación...cien bH8450
+- Esd_7:17comprarás...con este dinero b, carnerosH8450
+- Esd_8:35ofrecieron...doce b por todo Israel, 90H6499
+- Neh_9:18hicieron para sí b de fundición yH5695
+- Job_42:8tomaos siete b y carneros, e idH6499
+- Sal_29:6los hizo saltar como b, al Líbano yH5695
+- Sal_50:9tomaré de tu casa b, ni machos cabríosH6499
+- Sal_51:19entonces ofrecerán b sobre tu altarH6499
+- Sal_68:30la multitud de toros con los b de losH5695
+- Sal_69:31más que sacrificio de buey, o de b queH6499
+- Sal_106:19hicieron b en Horeb, se postraronH5695
+- Isa_11:6el b y el león y la...andarán juntosH5695
+- Isa_27:10pastará el b, allí tendrá su majadaH5695
+- Isa_34:7con ellos caerán búfalos, y toros con bH6499
+- Jer_34:18pacto dividiendo en dos partes el bH5695
+- Jer_34:19que pasaron entre las partes del bH5695
+- Jer_46:21sus soldados...en medio de ella como bH5695
+- Eze_1:7planta diez como planta de pie de bH5695
+- Eze_43:19darás un b de la vacada para expiaciónH6499
+- Eze_43:21tomarás luego el b de la expiaciónH6499
+- Eze_43:22el altar como lo purificaron con el bH6499
+- Eze_43:23ofrecerás un b de la vacada sin defectoH6499
+- Eze_43:25sacrificarán el b de la vacada y unH6499
+- Eze_45:18tomarás de la vacada un b sin defectoH6499
+- Eze_45:22sacrificará por si...un b por el pecadoH6499
+- Eze_45:23ofrecerá...siete b y siete carneros sinH6499
+- Eze_45:24con cada b ofrecerá ofrenda de un efaH6499
+- Eze_46:6el día de...un b sin tacha de la vacadaH6499
+- Eze_46:7hará ofrenda de un efa con el b, y unH6499
+- Eze_46:11será la ofrenda un efa con cada b, yH6499
+- Ose_8:5tu b, oh Samaria, te hizo alejarteH5695
+- Ose_8:6será deshecho en pedazos el b de SamariaH5695
+- Ose_10:5pueblo lamentará a causa del b, y susH5697
+- Ose_13:2a los...que sacrifican, que besen los bH5695
+- Miq_6:6presentaré ante él...con b de un año?[[H5695]]
+- Mal_4:2saldréis, y saltaréis como b de laH5695
+- Luc_15:23el b gordo y matadlo, y comamos yG3448
+- Luc_15:27y tu padre ha hecho matar el b gordoG3448
+- Luc_15:30has hecho matar para él el b gordoG3448
+- Hec_7:41hicieron un b, y ofrecieron...al ídoloG3447
+- Heb_9:12ni de b, sino por su propia sangreG3448
+- Heb_9:19tomó la sangre de los b...y roció elG3448
+- Rev_4:7el segundo era semejante a un bG3448

@@ -1,0 +1,76 @@
+---
+tipo: concordancia
+palabra: BET-EL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BET-EL
+
+- Ciudad importante, 18 km. al norte de Jerusalén
+- Gén_12:8se pasó...a un monte al oriente de BH1008
+- Gén_12:8teniendo a B al occidente y Hai alH1008
+- Gén_13:3desde el Neguev hacia B...entre B y HaiH1008
+- Gén_28:19y llamó el nombre de aquel lugar BH1008
+- Gén_31:13yo soy el Dios de B, donde tú ungisteH1008
+- Gén_35:1dijo Dios a Jacob: Levántate y sube a BH1008
+- Gén_35:3levantémonos y subamos a B; y haré allíH1008
+- Gén_35:6y llegó Jacob a Luz...(esta es B), él yH1008
+- Gén_35:8Débora, ama...fue sepultada al pie de BH1008
+- Gén_35:15llamó Jacob el nombre de aquel lugar...BH1008
+- Gén_35:16después partieron de B; y había aúnH1008
+- Jos_7:2junto a Bet-ayén hacia el oriente de BH1008
+- Jos_8:9se pusieron entre B y Hai, al occidenteH1008
+- Jos_8:12cinco mil...en emboscada entre B y HaiH1008
+- Jos_8:17no quedó hombre...en B, que no salieraH1008
+- Jos_12:9el rey de Hai, que está al lado de BH1008
+- Jos_12:16el rey de Maceda...el rey de B, otroH1008
+- Jos_16:1desierto que sube...las montañas de BH1008
+- Jos_16:2de B sale a Luz, y pasa a lo largo delH1008
+- Jos_18:13pasa...al lado sur de Luz (que es B), yH1008
+- Jos_18:22Bet-arabá, Zemaraim, BH1008
+- Jue_1:22la casa de José subió contra BH1008
+- Jue_1:23casa de José puso espías en B, ciudadH1008
+- Jue_4:5la palmera de Débora, entre Ramá y B, enH1008
+- Jue_20:31los caminos, uno de los cuales sube a B
+- Jue_21:19año hay fiesta...en Silo...al norte de BH1008
+- Jue_21:19del camino que sube de B a Siquem, yH1008
+- 1Sa_7:16daba vuelta a B, a Gilgal y a MizpaH1008
+- 1Sa_10:3tres hombres que suben a Dios en BH1008
+- 1Sa_13:2dos mil...en Micmas y en el monte de BH1008
+- 1Sa_30:27envió a los que estaban en B, en RamotH1008
+- 1Re_12:29y puso uno en B, y el otro en DanH1008
+- 1Re_12:32así hizo en B, ofreciendo sacrificiosH1008
+- 1Re_12:32ordenó también en B sacerdotes paraH1008
+- 1Re_12:33sobre el altar que él había hecho en BH1008
+- 1Re_13:1que un varón de Dios...vino de Judá a BH1008
+- 1Re_13:4que había clamado contra el altar de BH1008
+- 1Re_13:10el camino por donde había venido a BH1008
+- 1Re_13:11moraba entonces en B un viejo profetaH1008
+- 1Re_13:11que el varón de Dios había hecho...en BH1008
+- 1Re_13:32dijo...contra el altar que está en BH1008
+- 1Re_16:34su tiempo Hiel de B reedificó a JericóH1017
+- 2Re_2:2aquí, porque Jehová me ha enviado a BH1008
+- 2Re_2:2no te dejaré. Descendieron, pues, a BH1008
+- 2Re_2:3hijos de los profetas que estaban en BH1008
+- 2Re_2:23subió de allí a B; y subiendo por elH1008
+- 2Re_10:29los becerros de oro que estaban en BH1008
+- 2Re_17:28uno de los sacerdotes...y habitó en BH1008
+- 2Re_23:4e hizo llevar las cenizas de ellos a BH1008
+- 2Re_23:15el altar que estaba en B, y...destruyóH1008
+- 2Re_23:17que tú has hecho sobre el altar de BH1008
+- 2Re_23:19e hizo de ellas como había hecho en BH1008
+- 1Cr_7:28la heredad...de ellos fue B con susH1008
+- 2Cr_13:19tomó...a B con sus aldeas, a JesanaH1008
+- Esd_2:28; Neh_7:32los varones de B y HaiH1008
+- Neh_11:31habitaron...en Aía, en B y sus aldeasH1008
+- Jer_48:13se avergonzó de B, su confianzaH1008
+- Ose_10:15así hará a vosotros B, por causa deH1008
+- Ose_12:4en B le halló, y allí habló con nosotrosH1008
+- Amó_3:14castigaré también los altares de BH1008
+- Amó_4:4id a B, y prevaricad; aumentad en GilgalH1008
+- Amó_5:5y no busquéis a B, ni...B será deshechaH1008
+- Amó_5:6fuego...sin haber en B quien lo apagueH1008
+- Amó_7:10Amasías de B envió a decir a JeroboamH1008
+- Amó_7:13no profetices más en B...es santuarioH1008
+- Zac_7:2cuando el pueblo de B había enviado

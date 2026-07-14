@@ -1,0 +1,164 @@
+---
+tipo: concordancia
+palabra: DIEZ
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DIEZ
+
+- Gén_16:3al cabo de d años que había habitadoH6235
+- Gén_18:32volvió a decir...quizá se hallarán...dH6235
+- Gén_18:32no la destruiré...por amor a los dH6235
+- Gén_24:10el criado tomó d camellos...de su señorH6235
+- Gén_24:22le dio...dos brazaletes que pesaban dH6235
+- Gén_24:55espere la doncella...a lo menos d díasH6218
+- Gén_31:7me ha cambiado el salario d veces; peroH6235
+- Gén_31:41serví...has cambiado mi salario d vecesH6235
+- Gén_32:15d novillos, veinte asnas y d borricosH6235
+- Gén_42:3y descendieron los d hermanos de JoséH6235
+- Gén_45:23a su padre envió...d asnos...y d asnasH6235
+- Éxo_12:3en el d de este mes tómese cada unoH6218
+- Éxo_18:21ponlos sobre el pueblo por jefes...de dH6235
+- Éxo_18:25escogió...los puso por jefes...sobre dH6235
+- Éxo_26:1el tabernáculo de d cortinas de linoH6235
+- Éxo_26:16la longitud de cada tabla...de d codosH6235
+- Éxo_27:12atrio...sus columnas d, con sus d basasH6235
+- Éxo_34:28escribió en tablas...los d mandamientosH6235
+- Éxo_36:8hicieron el tabernáculo de d cortinasH6235
+- Éxo_36:21longitud de cada tabla era de d codosH6235
+- Éxo_38:12del lado...sus columnas d, y sus d basasH6235
+- Lev_16:29los d días del mes, afligiréis...almasH6218
+- Lev_23:27a los d de este mes séptimo será elH6218
+- Lev_25:9harás tocar...la trompeta...a los d díasH6218
+- Lev_26:26cocerán d mujeres...pan en un hornoH6235
+- Lev_27:5, Lev_27:7estimarás en...y a la mujer en d siclosH6235
+- Núm_7:14, Núm_7:20, Núm_7:26, Núm_7:32, Núm_7:38, Núm_7:44, Núm_7:50, Núm_7:56, Núm_7:62, Núm_7:68, Núm_7:74, Núm_7:80una cuchara de oro de d siclosH6235
+- Núm_7:86de d siclos cada cuchara, al siclo delH6235
+- Núm_11:19no comeréis...ni d días, ni veinte díasH6235
+- Núm_11:32el que menos, recogió d montones; y lasH6235
+- Núm_14:22y me han tentado ya d veces, y no hanH6235
+- Núm_29:7el d de este mes séptimo tendréis santaH6218
+- Núm_29:23el cuarto día, d becerros, dos carnerosH6235
+- Deu_1:15y los puse por jefes...de 50 y de dH6235
+- Deu_4:13los d mandamientos, y los escribió enH6235
+- Deu_10:4escribió...los d mandamientos que JehováH6235
+- Deu_33:2y vino de entre d millares de santosH7233
+- Deu_33:17son los d millares de Efraín, y ellosH7233
+- Jos_4:19el pueblo subió del Jordán el día dH6218
+- Jos_15:57Caín...Timna; d ciudades con sus aldeasH6235
+- Jos_17:5le tocaron a Manasés d partes además deH6235
+- Jos_21:5obtuvieron por suerte d ciudades de lasH6235
+- Jos_21:26las ciudades...fueron d con sus ejidosH6235
+- Jos_22:14y a d príncipes con él: un príncipe porH6235
+- Jue_6:27tomó d hombres de sus siervos, e hizoH6235
+- Jue_12:11después...Elón...Juzgó a Israel d añosH6235
+- Jue_17:10yo te daré d siclos de plata por añoH6235
+- Jue_20:10tomaremos d hombres de cada ciento porH6235
+- Rut_1:4los cuales...habitaron allí unos d añosH6235
+- Rut_4:2él tomó a d varones de los ancianos deH6235
+- 1Sa_1:8dijo...¿No te soy yo mejor que d hijos?[[H6235]]
+- 1Sa_17:17toma...estos d panes, y llévalo prontoH6235
+- 1Sa_17:18estos d quesos de leche los llevarásH6235
+- 1Sa_25:5entonces envió David d jóvenes y les dijoH6235
+- 1Sa_25:38d días después, Jehová hirió a NabalH6235
+- 2Sa_15:16y dejó el rey d mujeres concubinasH6235
+- 2Sa_18:11me hubiera placido darte d siclos deH6235
+- 2Sa_18:15d jóvenes escuderos de Joab...hirieronH6235
+- 2Sa_20:3tomó el rey las d mujeres concubinas queH6235
+- 1Re_4:23d bueyes gordos, 20 bueyes de pastoH6235
+- 1Re_6:3ancho delante de la casa era de d codosH6235
+- 1Re_6:23querubines...cada uno de d codos de alturaH6235
+- 1Re_6:24había d codos desde la punta de una alaH6235
+- 1Re_6:25el otro querubín tenía d codos; porqueH6235
+- 1Re_6:26altura del uno era de d codos, y...del otroH6235
+- 1Re_7:10piedras de d codos y piedras de 8 codosH6235
+- 1Re_7:23hizo fundir...mar de d codos de un ladoH6235
+- 1Re_7:24y rodeaban...unas bolas...d en cada codoH6235
+- 1Re_7:27hizo también d basas de bronce, siendoH6235
+- 1Re_7:37de esta forma hizo d basas, fundidas deH6235
+- 1Re_7:38d fuentes de bronce...sobre...las d basasH6235
+- 1Re_7:43las d basas...d fuentes sobre las basasH6235
+- 1Re_11:31y dijo a...Toma para ti los d pedazosH6235
+- 1Re_11:31rompo el reino...y a ti daré d tribusH6235
+- 1Re_11:35el reino...lo daré a ti, las d tribusH6235
+- 1Re_14:3toma...d panes, y tortas, y una vasija deH6235
+- 2Re_5:5llevando consigo d talentos de plataH6235
+- 2Re_5:5él, llevando consigo...d mudas de vestidosH6235
+- 2Re_13:7no le había quedado...sino...d carros, yH6235
+- 2Re_15:17reinó Manahem hijo...sobre Israel d añosH6235
+- 2Re_20:9¿avanzará...d grados, o retrocederá dH6235
+- 2Re_20:10fácil cosa es que la sombra decline dH6235
+- 2Re_20:10no que la sombra vuelva atrás d gradosH6235
+- 2Re_20:11hizo volver la sombra...d grados atrásH6235
+- 2Re_25:1los d días del mes, que NabucodonosorH6218
+- 2Re_25:25vino Ismael hijo...y con él d varonesH6235
+- 1Cr_6:61dieron por suerte d ciudades de laH6235
+- 2Cr_4:1hizo...un altar...de d codos de alturaH6235
+- 2Cr_4:2hizo un mar...tenía d codos de un bordeH6235
+- 2Cr_4:3calabazas que...d en cada codo alrededorH6235
+- 2Cr_4:6hizo también d fuentes, y puso cinco aH6235
+- 2Cr_4:7d candeleros de oro según su forma, losH6235
+- 2Cr_4:8hizo d mesas y las puso en el templo, 5 aH6235
+- 2Cr_14:1reinó...tuvo sosiego el país por d añosH6235
+- 2Cr_36:9Joaquín...reinó tres meses y d días enH6235
+- Esd_8:24aparté...con ellos d de sus hermanosH6235
+- Neh_4:12los judíos...nos decían hasta d vecesH6235
+- Neh_5:18y cada d días vino en toda abundanciaH6235
+- Neh_11:1traer uno de cada d para que morase enH6235
+- Est_9:10d hijos de Amán hijo de HamedataH6235
+- Est_9:12los judíos han matado...a d hijos de AmánH6235
+- Est_9:13que cuelguen en...a los d hijos de AmánH6235
+- Est_9:14Susa, y colgaron a los d hijos de AmánH6235
+- Job_19:3ya me habéis vituperado d veces; ¿noH6235
+- Sal_3:6no temeré a d millares de gente, queH7233
+- Ecl_7:19fortalece al sabio más que d poderososH6235
+- Isa_5:10d yugadas de viña producirán un batoH6235
+- Isa_38:8haré volver la sombra...d grados atrásH6235
+- Isa_38:8y volvió el sol d grados atrás, por losH6235
+- Jer_41:1príncipes del rey y d hombres con élH6235
+- Jer_41:2se levantó Ismael...y los d hombres queH6235
+- Jer_41:8fueron hallados d hombres que dijeronH6235
+- Jer_42:7al cabo de d días vino palabra de JehováH6235
+- Jer_52:4d días del mes, que vino NabucodonosorH6224
+- Jer_52:12a los d días del mes, que era el añoH6218
+- Eze_20:1d días del mes, que vinieron algunosH6218
+- Eze_24:1palabra...a los d días del mes, diciendoH6218
+- Eze_40:1a los d días del mes, a los catorce añosH6218
+- Eze_40:11midió el ancho de la entrada...d codosH6235
+- Eze_41:2el ancho de la puerta era de d codosH6235
+- Eze_42:4había un corredor de d codos de anchoH6235
+- Eze_45:14d hatos serán un homer...d hatos son unH6235
+- Dan_1:12que hagas la prueba...por d días, y nosH6235
+- Dan_1:14consintió, pues...probó con ellos d díasH6235
+- Dan_1:15al cabo de los d días pareció al rostroH6235
+- Dan_1:20los halló d veces mejores que todos losH6235
+- Dan_7:7he aquí la cuarta bestia...tenía d cuernosH6236
+- Dan_7:20acerca de los d cuernos que tenía en suH6236
+- Dan_7:24y los d cuernos...se levantarán d reyesH6236
+- Amó_5:3la que salga con ciento volverá con dH6235
+- Amó_6:9que si d hombres quedaren en una casaH6235
+- Hag_2:16al montón de veinte efas, y había dH6235
+- Zac_5:2un rollo que vuela...d codos de anchoH6235
+- Zac_8:23que d hombres de las naciones de todaH6235
+- Mat_20:24cuando los d oyeron esto, se enojaronG1176
+- Mat_25:1semejante a d vírgenes que tomando susG1176
+- Mat_25:28quitadle, pues...y dadlo al que tiene dG1176
+- Mar_10:41cuando lo oyeron los d, comenzaron aG1176
+- Luc_15:8mujer que tiene d dracmas, si pierdeG1176
+- Luc_17:12le salieron al encuentro d...leprososG1176
+- Luc_17:17¿no son d los que fueron limpiados?[[G1176]]
+- Luc_19:13llamando a d siervos...les dio d minasG1176
+- Luc_19:16vino...Señor, tu mina ha ganado d minasG1176
+- Luc_19:17fiel, tendrás autoridad sobre d ciudadesG1176
+- Luc_19:24mina, y dadla al que tiene las d minasG1176
+- Luc_19:25ellos le dijeron: Señor, tiene d minasG1176
+- Hec_25:6deteniéndose...no más de 8 o d díasG1176
+- Rev_2:10tendréis tribulación por d días. Sé fielG1176
+- Rev_12:3he aquí un gran dragón...tenía...d cuernosG1176
+- Rev_13:1una bestia que tenía...d cuernos; y enG1176
+- Rev_13:1que tenía...y en sus cuernos d diademasG1176
+- Rev_17:3bestia...tenía siete cabezas y d cuernosG1176
+- Rev_17:7la cual tiene las siete...y los d cuernosG1176
+- Rev_17:12d cuernos que has visto, son d reyesG1176
+- Rev_17:16los d cuernos que viste en la bestiaG1176

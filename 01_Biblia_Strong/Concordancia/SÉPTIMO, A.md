@@ -1,0 +1,122 @@
+---
+tipo: concordancia
+palabra: SÉPTIMO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SÉPTIMO, A
+
+- Gén_2:2y acabó Dios en el día s la obra queH7637
+- Gén_2:2Dios...reposó el día s de toda la obra queH7637
+- Gén_2:3y bendijo Dios al día s, y lo santificóH7637
+- Gén_7:10al s día las aguas del diluvio vinieronH7651
+- Gén_8:4reposó el arca en el mes s, a los 17 díasH7637
+- Éxo_12:15desde el primer día hasta el s, seráH7637
+- Éxo_12:16el s día tendréis una santa convocaciónH7637
+- Éxo_13:6pan...y el s día será fiesta para JehováH7637
+- Éxo_16:26mas el s día es día de reposo; en él noH7637
+- Éxo_16:27algunos...salieron en el s día a recogerH7637
+- Éxo_16:29lugar y nadie salga de él en el s díaH7637
+- Éxo_16:30así el pueblo reposó el s díaH7637
+- Éxo_20:10el s día es reposo para Jehová tu DiosH7637
+- Éxo_20:11en el s día; por tanto, Jehová bendijoH7637
+- Éxo_21:2seis años servirá; mas al s saldrá libreH7637
+- Éxo_23:11s año la dejarás libre, para que comanH7637
+- Éxo_23:12al s día reposarás, para que descanseH7637
+- Éxo_24:16al s día llamó a Moisés de en medio deH7637
+- Éxo_31:15el día s es día de reposo consagrado aH7637
+- Éxo_31:17la tierra, y en el s día cesó y reposóH7637
+- Éxo_34:21mas en el s día descansarás; aun en laH7637
+- Éxo_35:2el día s os será santo, día de reposoH7637
+- Lev_13:5al s día el sacerdote lo mirará; y siH7637
+- Lev_13:6, Lev_13:27el s día el sacerdote le reconoceráH7637
+- Lev_13:32al s día el sacerdote mirará la llagaH7637
+- Lev_13:34al s día mirará el sacerdote la tiñaH7637
+- Lev_13:51s día mirará la plaga; y si se hubiereH7637
+- Lev_14:9el s día raerá todo el pelo de su cabezaH7637
+- Lev_14:39y al s día volverá el sacerdote, y laH7637
+- Lev_16:29en el mes s, a los diez días del mesH7637
+- Lev_23:3trabajará, mas el s día será de reposoH7637
+- Lev_23:8el s día será santa convocación; ningúnH7637
+- Lev_23:16el día siguiente del s día de reposoH7637
+- Lev_23:24el mes s, al primero del mes tendréisH7637
+- Lev_23:27a los diez días de este mes s será elH7637
+- Lev_23:34a los quince días de este mes s será laH7637
+- Lev_23:39pero a los quince días del mes s, cuandoH7637
+- Lev_23:41le haréis fiesta...en el mes s la haréisH7637
+- Lev_25:4pero el s año la tierra tendrá descansoH7637
+- Lev_25:9harás tocar...la trompeta en el mes s aH7637
+- Lev_25:20si dijereis: ¿Qué comeremos el s año?[[H7637]]
+- Núm_6:9día...raerá su cabeza; al s día la raeráH7637
+- Núm_7:48el s día, el príncipe de los...de EfraínH7637
+- Núm_19:12y al s día será limpio; y si al tercerH7637
+- Núm_19:12si al tercer...no será limpio al s díaH7637
+- Núm_19:19rociará sobre...al tercero y al s díaH7637
+- Núm_19:19cuando lo haya purificado al día s, élH7637
+- Núm_28:25y el s día tendréis santa convocaciónH7637
+- Núm_29:1en el s mes...tendréis santa convocaciónH7637
+- Núm_29:7en el diez de este mes s tendréis santaH7637
+- Núm_29:12a los quince días del mes s tendréisH7637
+- Núm_29:32el s día, siete becerros, dos carnerosH7637
+- Núm_31:19y os purificaréis al tercer día y al sH7637
+- Núm_31:24además lavaréis vuestros vestidos el sH7637
+- Deu_5:14el s día es reposo a Jehová tu DiosH7637
+- Deu_15:9cerca está el año s, el de la remisiónH7637
+- Deu_15:12servido seis años, al s le despedirásH7637
+- Deu_16:8el s día será fiesta solemne a JehováH7637
+- Jos_6:4y al s día daréis siete vueltas a laH7637
+- Jos_6:15al s día se levantaron al despuntar elH7637
+- Jos_6:16sacerdotes tocaron las bocinas la s vezH7637
+- Jos_19:40s suerte correspondió a...hijos de DanH7637
+- Jue_14:15s día dijeron a la mujer de SansónH7637
+- Jue_14:17al s día él se lo declaró, porque leH7637
+- Jue_14:18al s día, antes que el sol se pusieseH7637
+- 2Sa_12:18y al s día murió el niño; y temíanH7637
+- 1Re_8:2Etanim, que es el mes s, en el día deH7637
+- 1Re_18:44la s vez dijo: Yo veo una pequeña nubeH7637
+- 1Re_20:29s día se dio la batalla; y los hijos deH7637
+- 2Re_11:4al s año envió Joiada y tomó jefes deH7637
+- 2Re_12:1el s año de Jehú comenzó a reinar JoásH7651
+- 2Re_18:9era el año s de Oseas hijo de Ela, rey deH7651
+- 2Re_25:25el mes s vino Ismael hijo de NetaníasH7637
+- 1Cr_2:15el sexto Ozem, el s DavidH7637
+- 1Cr_12:11Atai el sexto, Eliel el sH7637
+- 1Cr_24:10la s a Cos, la octava a AbíasH7637
+- 1Cr_25:14la s para Jesarela, con sus hijos y susH7637
+- 1Cr_26:3quinto, Johanán el sexto, Elioenal el sH7637
+- 1Cr_26:5Amiel, el s Isacar, el octavo PeultaiH7637
+- 1Cr_27:10el s para el s mes era Heles pelonitaH7637
+- 2Cr_5:3el rey...la fiesta solemne del mes sH7637
+- 2Cr_7:10los 23 días del mes s envió al puebloH7637
+- 2Cr_23:1s año se animó Joiada, y tomó consigoH7637
+- 2Cr_31:7aquellos montones, y terminaron...mes sH7637
+- Esd_3:1cuando llegó el mes s, y estando losH7637
+- Esd_3:6desde el primer día del mes s comenzaronH7637
+- Esd_7:7subieron...en el s año del rey ArtajerjesH7651
+- Esd_7:8llegó...en el mes quinto del año s del reyH7637
+- Neh_7:73venido el mes s, los hijos de IsraelH7637
+- Neh_8:2trajo la ley...el primer día del mes sH7637
+- Neh_8:14en tabernáculos en la fiesta...del mes sH7637
+- Neh_10:31el año s dejaríamos descansar la tierraH7637
+- Est_1:10el s día, estando el corazón del reyH7637
+- Est_2:16llevada al rey...el año s de su reinadoH7637
+- Job_5:19te librará, y en la s no te tocará elH7651
+- Jer_28:17en el mismo año murió...en el mes sH7637
+- Jer_41:1aconteció en el mes s que vino IsmaelH7637
+- Jer_52:28en el año s, a 3:023 hombres de JudáH7651
+- Eze_20:1aconteció en el año s...que vinieronH7637
+- Eze_45:20así harás el s día del mes para los queH7651
+- Eze_45:25en el mes s, a los quince días del mesH7637
+- Hag_2:1el mes s, a los veintiún días del mesH7637
+- Zac_7:5cuando ayunasteis...en el s mes estosH7637
+- Zac_8:19el ayuno del s, y el ayuno del décimoH7637
+- Mat_22:26la misma manera támbién...hasta el sG2035
+- Heb_4:4porque en cierto lugar dijo...del s díaG1442
+- Heb_4:4y reposó Dios de...sus obras en el s díaG1442
+- Jud_1:14de éstos...profetizó Enoc, s desde AdánG1442
+- Rev_8:1abrió el s sello, se hizo silencio enG1442
+- Rev_10:7que en los días de la voz del s ángelG1442
+- Rev_11:15el s ángel tocó la trompeta, y huboG1442
+- Rev_16:17el s ángel derramó su copa por el aireG1442
+- Rev_21:20el s, crisólito; el octavo, berilo; elG1442

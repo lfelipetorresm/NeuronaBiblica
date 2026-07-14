@@ -1,0 +1,82 @@
+---
+tipo: concordancia
+palabra: FLOJO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FLOJO, A
+
+- Gén_18:6toma pronto 3 medidas de f de harinaH5560
+- Gén_40:10ella como que brotaba, y arrojaba su fH5322
+- Éxo_25:31manzanas y sus f, serán de lo mismoH6525
+- Éxo_25:33(2)tres copas en forma de f de almendroH6525
+- Éxo_25:33(2)en...brazo, una manzana y una fH6525
+- Éxo_25:34en forma de f de...sus manzanas y sus fH6525
+- Éxo_29:2panes...las harás de f de harina de trigo
+- Éxo_29:40décima parte de un efa de f de harina
+- Éxo_37:17el candelero...sus f eran de lo mismoH6525
+- Éxo_37:19(2)en forma de f...una manzana y unaH6525
+- Éxo_37:20en figura de f...sus manzanas y susH6525
+- Lev_2:1su ofrenda será f de harina, sobre la
+- Lev_2:2puño lleno de la f de harina y del aceite
+- Lev_2:4su ofrenda...será de tortas de f de harina
+- Lev_2:5ofrenda...será de f de harina sin levadura
+- Lev_2:7ofrenda...hará de f de harina con aceite
+- Lev_5:11la décima parte de un efa de f de harina
+- Lev_6:15tomará...un puñado de la f de harina de
+- Lev_6:20la décima parte de un efa de f de harina
+- Lev_7:12y f de harina frita en tortas amasadas
+- Lev_14:21décima de efa de f de harina amasada
+- Lev_23:13, Lev_23:17dos décimas de efa de f de harina
+- Lev_24:5tomarás f de harina, y cocerás de ella
+- Núm_6:15tortas...de f de harina amasadas con
+- Núm_7:13, Núm_7:19, Núm_7:25, Núm_7:31, Núm_7:37, Núm_7:43, Núm_7:49, Núm_7:55, Núm_7:61, Núm_7:67, Núm_7:73, Núm_7:79llenos de f de harina amasada
+- Núm_8:4su pie hasta sus f era labrado a martilloH6525
+- Núm_8:8con su ofrenda de f de harina amasada con
+- Núm_15:4la décima parte de un efa de f de harina
+- Núm_15:6ofrenda de dos décimas de f de harina
+- Núm_15:9ofrenda de tres décimas de f de harina
+- Núm_17:8había...echado f, y arrojado renuevosH6525
+- Núm_28:5la décima parte de un efa de f de harina
+- Núm_28:9, Núm_28:12dos décimas de f de harina amasada
+- Núm_28:12tres décimas de f de harina amasada con
+- Núm_28:13una décima de f de harina amasada con
+- Núm_28:28la ofrenda de...f de harina amasada con
+- Núm_29:3, Núm_29:9, Núm_29:14f de harina amasada con aceite
+- 1Re_4:22era de treinta coros de f de harina
+- 1Re_6:18y tenía entalladuras...de botones de fH6731
+- 1Re_6:29y esculpió...botones de f, por dentro yH6731
+- 1Re_6:32, 1Re_6:35talló en ellas...botones de f, y lasH6731
+- 1Re_7:26el borde era labrado como...de f de lisH6525
+- 1Re_7:49con las f, las lámparas y tenazas de oroH6525
+- 2Re_7:1valdrá el seah de f de harina un siclo
+- 2Re_7:16vendido un seah de f de harina por un
+- 2Re_7:18seah de f de harina será vendido por un
+- 1Cr_23:29la f de harina para el sacrificio
+- 2Cr_4:5borde tenía la forma...una f de lisH6525
+- 2Cr_4:21las f...y tenazas se hicieron de oro, deH6525
+- Job_14:2sale como una f y es cortado, y huyeH6731
+- Job_15:33la vid, y derramará su f como el olivoH5328
+- Sal_103:15el hombre...florece como la f delH6731
+- Cnt_1:14racimo de f de alheña en las viñas
+- Cnt_1:16tú eres hermoso...nuestro lecho es de fH7488
+- Cnt_2:12se han mostrado las f en la tierra, elH5339
+- Cnt_4:13son paraíso...de f de alheña y nardos
+- Cnt_5:13mejillas, como una era...como fragantesH4026
+- Isa_5:24f se desvanecerá como polvo; porqueH6525
+- Isa_18:5y pasada la f se maduren los frutosH5328
+- Isa_28:1, Isa_28:4f caduca de la hermosura de su gloriaH6731, [[H6733]]
+- Isa_40:6carne...toda su gloria como f del campoH6731
+- Isa_40:7la hierba se seca, y la f se marchitaH6731
+- Isa_40:8sécase la hierba, marchítase la f; masH6731
+- Eze_16:13comiste f de harina de trigo, miel
+- Eze_16:19la f de la harina, el aceite y la miel
+- Eze_46:14aceite para mezclar con la f de harina
+- Miq_1:15aun...la f de Israel huirá hasta AdulamH3519
+- Nah_1:4mar...y la f del Líbano fue destruidaH6525
+- Stg_1:10el pasará como la f de la hierbaG438
+- Stg_1:11su f se cae, y perece su...aparienciaG438
+- 1Pe_1:24y toda la gloria del hombre como fG438
+- 1Pe_1:24como...la hierba se seca, y la f se caeG438
+- Rev_18:13f de harina, trigo, bestias, ovejasG4585

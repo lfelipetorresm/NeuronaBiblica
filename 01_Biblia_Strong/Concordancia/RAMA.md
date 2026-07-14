@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: RAMA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RAMA
+
+- Gén_49:22r fructífera es José, r...junto a unaH1121
+- Lev_23:40tornaréis el primer día r con fruto deH6529
+- Lev_23:40r de palmeras, r de árboles frondososH6059
+- Deu_24:20no recorrerás las r que hayas dejadoH6288
+- Jue_9:48Abimelec...cortó una r de los árbolesH7754
+- Jue_9:49el pueblo cortó también cada uno su rH7754
+- 2Sa_18:9y el mulo entró por debajo de las rH7730
+- Neh_8:15salid al monte, y traed r de olivoH5929
+- Neh_8:16trajeron r e hicieron tabernáculos, cadaH5929
+- Job_15:30no escapara...la llama secará sus rH3127
+- Job_18:16raíces, y arriba serán cortadas sus rH7105
+- Job_29:19aguas, y en mis r permanecía el rocíoH7105
+- Sal_104:12las aves de los...cantan entre las rH6073
+- Pro_11:28mas los justos reverdecerán como rH5929
+- Cnt_7:8dije: Subiré a la palmera, asiré sus rH5577
+- Isa_9:14cortará de...r y caña en un mismo díaH3712
+- Isa_17:6en la punta de la r...r más fructíferasH534
+- Isa_17:9como los frutos que quedan en...en las rH2793
+- Isa_18:5entonces podará...cortará y quitará las rH5189
+- Isa_19:15cosa que haga la cabeza o la cola, la rH3712
+- Isa_27:10allí tendrá su majada, y acabará sus rH5585
+- Isa_27:11r se sequen, serán quebradas; mujeresH7105
+- Jer_11:16hizo encender fuego...quebraron sus rH1808
+- Eze_17:6sus r miraban al águila, y sus raícesH1808
+- Eze_17:7y extendió hacia ella sus r, para serH1808
+- Eze_17:8hiciese r y diese fruto, y...fuese vidH6057
+- Eze_17:23lo plantaré, y alzará r, y dará fruto, yH6057
+- Eze_17:23las aves...a la sombra de sus r habitaránH1808
+- Eze_19:11se elevó su estatura por...entre las rH1808
+- Eze_19:12r fuertes fueron quebradas y se secaronH4294
+- Eze_19:14y ha salido fuego de la vara de sus rH905
+- Eze_31:3era...de hermosas r, de frondoso ramajeH6057
+- Eze_31:3el asirio...su copa estaba entre densas rH5688
+- Eze_31:5se multiplicaron sus r, y a causa de lasH5634
+- Eze_31:6en sus r hacían nido todas las aves delH5589
+- Eze_31:7hermoso en su...con la extensión de sus rH1808
+- Eze_31:8las hayas no fueron semejantes a sus rH5589
+- Eze_31:9lo hice hermoso con la multitud de sus rH5589
+- Eze_31:10levantado...entre densas r, su corazónH5688
+- Eze_31:12sus r caerán sobre los montes...vallesH6288
+- Eze_31:13sobre sus restarán todas las bestiasH6288
+- Eze_36:8daréis vuestras r, y llevaréis vuestroH6057
+- Dan_4:12sus r hacían morada las aves del cieloH6056
+- Dan_4:14y cortad sus r, quitadle el follaje, yH6056
+- Dan_4:14váyanse las bestias...y las aves de sus rH6056
+- Dan_4:21en cuyas r anidaban las aves del cieloH6056
+- Ose_14:6se extenderán sus r, y será su gloriaH3127
+- Joe_1:7asoló mi vid, y...sus r quedaron blancasH8299
+- Zac_4:12¿qué significan las dos r de olivo queH7641
+- Mal_4:1abrasará...no les dejará ni raiz ni rH6057
+- Mat_13:32aves del cielo y hacen nidos en sus rG2798
+- Mat_21:8otros cortaban r de los árboles, y lasG2798
+- Mat_24:32ya su r está tierna, y brotan las hojasG2798
+- Mar_4:32echa grandes r, de tal manera que lasG2798
+- Mar_11:8otros cortaban r de los árboles, y lasG4746
+- Mar_13:28ya su r está tierna, y brotan las hojasG2798
+- Luc_13:19las aves del cielo anidaron en sus rG2798
+- Jua_12:13tomaron r de...y salieron a recibirleG902
+- Hec_28:3habiendo recogido Pablo algunas rG5434
+- Rom_11:16y si la raíz es santa...lo son las rG2798
+- Rom_11:17si algunas de las r fueron desgajadasG2798
+- Rom_11:18no te jactes contra las r: y si...jactasG2798
+- Rom_11:19las r, dirás, fueron desgajadas para queG2798
+- Rom_11:21si Dios no perdonó a las r naturales, aG2798
+- Rom_11:24éstos, que son las r naturales, seránG2798

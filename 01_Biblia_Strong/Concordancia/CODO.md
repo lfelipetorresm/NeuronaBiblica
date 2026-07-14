@@ -1,0 +1,198 @@
+---
+tipo: concordancia
+palabra: CODO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CODO
+
+- Gén_6:15de trescientos c la longitud del arcaH520
+- Gén_6:15de 50 c su anchura, y de 30 c su alturaH520
+- Gén_6:16y la acabarás a un c de elevación por laH520
+- Gén_7:20quince c más alto subieron las aguasH520
+- Éxo_25:10arca...longitud será de dos c y medioH520
+- Éxo_25:10su anchura de c y medio, su altura de cH520
+- Éxo_25:17su longitud será de dos c y medio, y suH520
+- Éxo_25:17propiciatorio...su anchura de c y medioH520
+- Éxo_25:23harás...una mesa...longitud será de dos cH520
+- Éxo_25:23c su anchura, y su altura de c y medioH520
+- Éxo_26:2una cortina de 28 c, y la anchura de...4 cH520
+- Éxo_26:8cada cortina será de 30 c...anchura...4 cH520
+- Éxo_26:13un c de un lado, y otro c del otro ladoH520
+- Éxo_26:16de diez c, y de c y medio la anchuraH520
+- Éxo_27:1un altar de madera...cinco c de longitudH520
+- Éxo_27:1cinco c de anchura...su altura de tres cH520
+- Éxo_27:9, Éxo_27:11cortinas...de cien c de longitudH520
+- Éxo_27:12del lado occidental...cortinas de 50 cH520
+- Éxo_27:13el ancho...al este, habrá cincuenta cH520
+- Éxo_27:14cortinas a un lado...serán de quince cH520
+- Éxo_27:15y al otro lado, quince c de cortinas
+- Éxo_27:16cortina de veinte c, de azul, púrpuraH520
+- Éxo_27:18atrio...cien c...y la altura de cinco cH520
+- Éxo_30:2su longitud...un c, y su anchura de un cH520
+- Éxo_30:2será cuadrado, y su altura de dos cH520
+- Éxo_36:9una cortina era de 28 c...anchura de 4 cH520
+- Éxo_36:15una cortina era de 30 c...anchura de 4 cH520
+- Éxo_36:21cada tabla era de 10 c, y de c y medioH520
+- Éxo_37:1el arca...longitud era de dos c y medioH520
+- Éxo_37:1anchura de c y medio, y su altura de cH520
+- Éxo_37:6el propiciatorio...su longitud de dos cH520
+- Éxo_37:6el propiciatorio...anchura de c y medioH520
+- Éxo_37:10la mesa de madera...longitud de dos cH520
+- Éxo_37:10su anchura de un c, y de c y medio suH520
+- Éxo_37:25el altar...un c su longitud, y de otro cH520
+- Éxo_37:25era cuadrado, y su altura de dos cH520
+- Éxo_38:1su longitud de 5 c, y su anchura de...5 cH520
+- Éxo_38:1el altar...cuadrado, y de tres c de alturaH520
+- Éxo_38:9las cortinas del atrio eran de cien cH520
+- Éxo_38:11y del lado norte cortinas de cien cH520
+- Éxo_38:12del occidente, cortinas de cincuenta cH520
+- Éxo_38:13lado oriental...cortinas de cincuenta cH520
+- Éxo_38:14un lado cortinas de quince c, sus tresH520
+- Éxo_38:15cortinas de quince c, con sus...columnasH520
+- Éxo_38:18la entrada...era de veinte c de longitudH520
+- Éxo_39:18su anchura, o sea su altura, era de 5 cH520
+- Núm_11:31casi dos c sobre la faz de la tierraH520
+- Núm_35:4los ejidos de las...serán mil c alrededorH520
+- Núm_35:5del oriente dos mil c, al...sur dos mil cH520
+- Núm_35:5del occidente dos mil c...norte dos mil cH520
+- Deu_3:11la longitud de ella es de nueve c, yH520
+- Deu_3:11y su anchura de cuatro c, según el c deH520
+- Jos_3:4haya distancia como de dos mil c; no osH520
+- Jue_3:16puñal de dos filos, de un c de largoH1574
+- 1Sa_17:4y tenía de altura seis c y un palmoH520
+- 1Re_6:2tenía 60 c de largo y...30 c de altoH520
+- 1Re_6:3el pórtico...tenía veinte c de largo a loH520
+- 1Re_6:3el ancho delante de la casa era de diez cH520
+- 1Re_6:6el aposento de abajo era de 5 c de anchoH520
+- 1Re_6:6el de en medio de seis c de ancho, y elH520
+- 1Re_6:6el tercero de siete c de ancho; porqueH520
+- 1Re_6:10el aposento...altura de cinco c, el cualH520
+- 1Re_6:16final de la casa un edificio de veinte cH520
+- 1Re_6:17el templo de adelante, tenía cuarenta cH520
+- 1Re_6:20veinte c de largo, veinte de ancho, yH520
+- 1Re_6:23querubines...cada uno de diez c de alturaH520
+- 1Re_6:24una ala...tenía cinco c...otros cinco cH520
+- 1Re_6:24diez c desde la punta de una ala hastaH520
+- 1Re_6:25el otro querubín tenía diez c; porqueH520
+- 1Re_6:26altura del uno era de diez c, y...la otraH520
+- 1Re_7:2la casa del bosque...cien c de longitudH520
+- 1Re_7:2cincuenta c de anchura y treinta c deH520
+- 1Re_7:6pórtico...tenía 50 c de largo y 30 c deH520
+- 1Re_7:10piedras de diez c y piedras de ocho cH520
+- 1Re_7:15la altura de cada una era de 18 c, yH520
+- 1Re_7:15rodeaba a una y otra un hilo de doce cH520
+- 1Re_7:16capitel era de 5 c, y la del otro...5 cH520
+- 1Re_7:19forma de lirios, y eran de cuatro cH520
+- 1Re_7:23hizo fundir...un mar de diez c de un ladoH520
+- 1Re_7:23su altura era de cinco c, y lo ceñíaH520
+- 1Re_7:23un mar...lo ceñía...un cordón de treinta cH520
+- 1Re_7:24bolas como calabazas, diez en cada cH520
+- 1Re_7:27la longitud de cada basa de cuatro cH520
+- 1Re_7:27la anchura de cuatro c, y de tres c laH520
+- 1Re_7:31la boca...entraba un c en el remate queH520
+- 1Re_7:31misma hechura del remate...de c y medioH520
+- 1Re_7:32la altura de...rueda era de un c y medioH520
+- 1Re_7:35una pieza redonda de medio c de alturaH520
+- 1Re_7:38diez fuentes...cada una era de cuatro cH520
+- 2Re_14:13rompió el muro de...cuatrocientos cH520
+- 2Re_25:17la altura de una columna era de 18 cH520
+- 2Re_25:17la altura del capitel era de tres c, yH520
+- 1Cr_11:23venció...egipcio, hombre de cinco cH520
+- 2Cr_3:3longitud, de 60 c...anchura de 20 cH520
+- 2Cr_3:4el pórtico...de 20 c...su altura de 120 cH520
+- 2Cr_3:8el lugar santísimo...longitud era de 20 cH520
+- 2Cr_3:8su anchura de 20 c; y lo cubrió de oroH520
+- 2Cr_3:11la longitud de las alas de...era de 20 cH520
+- 2Cr_3:11-12una ala era de 5 c...la otra de 5 cH520
+- 2Cr_3:13querubines...las alas extendidas por 20 cH520
+- 2Cr_3:15columnas de 35 c...sus capiteles...de 5 cH520
+- 2Cr_4:1un altar de bronce de 20 c de longitudH520
+- 2Cr_4:1altar...20 c de anchura, y 10 c de alturaH520
+- 2Cr_4:2hizo un mar de fundición...tenía diez cH520
+- 2Cr_4:2altura era de 5 c, y un cordón de 30 cH520
+- 2Cr_4:3figuras de calabazas que...diez en cada cH520
+- 2Cr_6:13un estrado de bronce de 5 c de largo, deH520
+- 2Cr_6:13de 5 c de ancho y de altura de tres cH520
+- 2Cr_25:23derribó el muro de...un tramo de 400 cH520
+- Esd_6:3altura de 60 c, y de 60 c su anchuraH521
+- Neh_3:13levantaron...y mil c del muro, hastaH520
+- Est_5:14hagan una horca de 50 c de alturaH520
+- Est_7:9la horca de 50 c de altura que hizo AmánH520
+- Jer_52:21altura...de 18 c...cordón de doce cH520
+- Jer_52:22el capitel...de una altura de cinco cH520
+- Eze_40:5la caña...era de seis c de a c y palmoH520
+- Eze_40:7y entre las cámaras había cinco c deH520
+- Eze_40:9midió...la entrada del portal...de ocho cH520
+- Eze_40:9y sus postes de dos c; y la puertaH520
+- Eze_40:11midió el ancho de la entrada...diez cH520
+- Eze_40:11la longitud del portal, de trece cH520
+- Eze_40:12era de un c a un lado, y de otro c alH520
+- Eze_40:12seis c por un lado, y seis c por el otroH520
+- Eze_40:13midió la puerta desde el...25 c de anchoH520
+- Eze_40:14midió los postes, de sesenta c, cadaH520
+- Eze_40:15desde el frente de la puerta de...50 cH520
+- Eze_40:19la anchura...de cien c hacia el orienteH520
+- Eze_40:21cincuenta c de longitud, y 25 de anchoH520
+- Eze_40:23, Eze_40:27y midió de puerta a puerta...cien cH520
+- Eze_40:25la longitud era de 50 c...ancho de 25 cH520
+- Eze_40:29, Eze_40:36longitud...50 c, y de 25 c el anchoH520
+- Eze_40:30los arcos...de 25 c de largo, y 5 c deH520
+- Eze_40:33longitud...50 c, y la anchura de 25 cH520
+- Eze_40:42cuatro mesas, un c y medio de longitudH520
+- Eze_40:42y c y medio de ancho, y de un c deH520
+- Eze_40:47atrio, cien c de longitud, y cien c deH520
+- Eze_40:48poste...cinco c de un lado, y cinco cH520
+- Eze_40:48puerta tres c de un lado, y tres c deH520
+- Eze_40:49la longitud del pórtico, veinte c, y elH520
+- Eze_40:49y el ancho once c, al cual subían porH520
+- Eze_41:1postes...seis c de un lado, y seis c deH520
+- Eze_41:2el ancho de la puerta era de diez c, yH520
+- Eze_41:2de cinco c de un lado, y cinco del otroH520
+- Eze_41:2su longitud, de 40 c...anchura de 20 cH520
+- Eze_41:3cada poste de la puerta, de dos c; y laH520
+- Eze_41:3la puerta, de seis c; y la anchura de laH520
+- Eze_41:3y la anchura de la entrada, de siete cH520
+- Eze_41:4longitud, de 20 c, y la anchura de 20 cH520
+- Eze_41:5midió el muro de la casa, de seis cH520
+- Eze_41:5de cuatro c la anchura de las cámarasH520
+- Eze_41:8los cimientos...una caña entera de seis cH520
+- Eze_41:9el ancho de la pared de...era de cinco cH520
+- Eze_41:10anchura de veinte c por todos ladosH520
+- Eze_41:11y el ancho del espacio...era de cinco cH520
+- Eze_41:12edificio...occidental era de setenta cH520
+- Eze_41:12la pared...5 c de grueso...90 c de largoH520
+- Eze_41:13luego midió la casa, cien c de largoH520
+- Eze_41:13y el edificio...de cien c de longitudH520
+- Eze_41:14y el ancho...de la casa...era de cien cH520
+- Eze_41:15midió la longitud del edificio...cien cH520
+- Eze_41:22la altura del altar...era de tres c, yH520
+- Eze_41:22su longitud de dos c; y sus esquinasH520
+- Eze_42:2longitud era de cien c...ancho de 50 cH520
+- Eze_42:3frente a los veinte c que había en elH520
+- Eze_42:4corredor de 10 c...con una vía de un cH520
+- Eze_42:7el muro que...tenía cincuenta c de largoH520
+- Eze_42:8la longitud de las cámaras...cincuenta cH520
+- Eze_42:8y delante de la fachada...había cien cH520
+- Eze_43:13estas son las medidas del altar por cH520
+- Eze_43:13medidas...(el c de a c y palmo menor)[[H520]]
+- Eze_43:13la base, de un c, y de un c el anchoH520
+- Eze_43:14base...hasta el lugar de abajo, dos cH520
+- Eze_43:14la anchura de un c; y desde la cornisaH520
+- Eze_43:14menor hasta la cornisa mayor, cuatro cH520
+- Eze_43:14y desde la base...y el ancho de un cH520
+- Eze_43:15el altar era de cuatro c, y encima delH520
+- Eze_43:16el altar tenía doce c de largo, y doceH520
+- Eze_43:17el descanso 14 c de longitud y 14 de
+- Eze_43:17y medio c el borde alrededor; y laH520
+- Eze_43:17la base de un c por todos lados; y susH520
+- Eze_45:2cincuenta c en derredor para sus ejidosH520
+- Eze_46:22patios...de cuarenta c de longitud y 30
+- Eze_47:3y midió mil c, y me hizo pasar por lasH520
+- Dan_3:1altura era de 60 c...anchura de seis cH521
+- Zac_5:2veo un rollo que...de veinte c de largoH520
+- Zac_5:2un rollo que vuela...de diez c de anchoH520
+- Mat_6:27; Luc_12:25añadir a su estatura un c?[[G4083]]
+- Jua_21:8no distaban...sino como doscientos cG4083
+- Rev_21:17midió su muro, 144 c, de medida deG4083

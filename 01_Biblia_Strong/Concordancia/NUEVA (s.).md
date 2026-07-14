@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: NUEVA (s.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NUEVA (s.)
+
+- Véase también Nuevo
+- Gén_26:32n acerca del pozo que habían abiertoH5046
+- Gén_29:12y ella corrió, y dio las n a su padreH5046
+- Gén_29:13así que oyó Labán las n de Jacob, hijoH8088
+- Gén_45:26y le dieron las n, diciendo: José viveH5046
+- Jue_4:12n de que Barac hijo de Abinoam habíaH5046
+- 1Sa_4:13y dadas las n, toda la ciudad gritóH5046
+- 1Sa_4:14hombre vino aprisa, y dio las n a ElíH5046
+- 1Sa_23:13; 1Sa_27:4vino a Saúl la n de que David seH5046
+- 1Sa_31:9que llevaran las buenas n al templo deH1319
+- 2Sa_1:5David a aquel joven que le daba las nH5046
+- 2Sa_1:6el joven que le daba las n respondióH5046
+- 2Sa_1:13aquel joven que le había traído las nH5046
+- 2Sa_1:20ni déis las n en las plazas de AscalónH5046
+- 2Sa_4:10dio n...imaginándose que traía buenas nH1319
+- 2Sa_4:10yo...le maté en Siclag en pago de la nH1309
+- 2Sa_18:11y Joab respondió al...que le daba la nH5046
+- 2Sa_18:19n de que Jehová ha defendido su causaH1319
+- 2Sa_18:20hoy no llevarás las n...no darás hoy la nH1309
+- 2Sa_18:22tú, si no recibirás premio por las n?[[H1309]]
+- 2Sa_18:25rey dijo: Si viene solo, buenas n traeH1309
+- 2Sa_18:27es hombre de bien, y viene con buenas nH1309
+- 2Sa_18:31dijo: Reciba n mi señor el rey, que hoyH1319
+- 1Re_1:42tú eres...valiente, y traerás buenas nH1319
+- 1Re_18:12al venir yo y dar las n a Acab, al no
+- 1Re_19:1dio a Jezabel la n de todo lo que Elías
+- 2Re_7:9es día de buena n, y nosotros callamosH1309
+- 2Re_7:9entremos y demos la n en casa del reyH3651, [[H1309]]
+- 2Re_9:15ninguno escape...a dar las n en Jezreel
+- 2Re_10:8le dio las n, diciendo: Han traído las
+- 1Cr_10:9dar las n a sus ídolos y al puebloH1319
+- Sal_68:11multitud de las que llevan buenas nH1319
+- Pro_15:30luz...y la buena n conforta los huesosH8052
+- Pro_25:25así son las buenas n de lejanas tierrasH8052
+- Isa_7:2vino la n a la casa de David, diciendo
+- Isa_23:5Egipto, tendrán dolor de las n de TiroH8088
+- Isa_41:23dadnos n de lo que ha de ser después
+- Isa_41:27a Jerusalén...un mensajero de alegres nH1319
+- Isa_43:9¿quién de ellos hay que nos dé n de esto
+- Isa_48:20huid...dad n de esto con voz de alegría
+- Isa_52:7montes los pies del que trae alegres nH1319
+- Isa_52:7del que trae n del bien, del que publicaH1319
+- Isa_61:1me ha enviado a predicar buenas n a losH1319
+- Jer_4:15porque una voz trae las n desde DanH5046
+- Jer_20:15maldito el hombre que dio n a mi padreH1319
+- Jer_49:23se confundieron Hamat...oyeron malas nH8052
+- Jer_50:28dar en Sien las n de la retribución de
+- Nah_1:15los pies del que trae buenas n, delH1319
+- Mat_14:12sus discípulos...dieron las n a Jesús
+- Mat_28:8a dar las n...dar las n a los discípulosG518
+- Mat_28:10id, dad las n a mis hermanos, para que
+- Luc_1:19sido enviado a...darte estas buenas nG2097
+- Luc_2:10he aquí os doy n de gran gozo, que seráG2097
+- Luc_3:18con...anunciaba las buenas n al pueblo
+- Luc_4:18ha ungido para dar buenas n a los pobresG2097
+- Luc_7:18le dieron las n de todas estas cosas
+- Luc_24:9dieron n de todas estas cosas a los once
+- Jua_4:51le dieron n, diciendo: Tu hijo vive
+- Jua_20:18para dar a los discípulos las n de que
+- Hec_12:14la n de que Pedro estaba a la puertaG518
+- Rom_10:15la paz, de los que anuncian buenas nG2097
+- Gál_3:8dio de antemano la buena n a AbrahamG4283
+- Efe_2:17vino y anunció las buenas n de paz a
+- Heb_4:2se nos ha anunciado la buena n como aG2509
+- Heb_4:6a quienes...se les anunció la buena n no

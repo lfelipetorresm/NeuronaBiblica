@@ -1,0 +1,422 @@
+---
+tipo: concordancia
+palabra: SACAR (v.)
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SACAR (v.)
+
+- Gén_3:23y lo sacó Jehová del huerto del EdénH7971
+- Gén_8:17los animales...sacarás contigo; y vayanH3318
+- Gén_14:18Melquisedec...sacerdote...sacó pan y vinoH3318
+- Gén_15:7yo soy Jehová, que te saqué de Ur de losH3318
+- Gén_19:5a Lot...Sácalos, para que los conozcamosH3318
+- Gén_19:8las sacaré fuera, y haced de ellas comoH3318
+- Gén_19:12todo lo que tienes...sácalo de este lugarH3318
+- Gén_19:16y lo sacaron y lo pusieron fuera de laH3318
+- Gén_24:19para tus camellos sacaré agua, hasta queH7579
+- Gén_24:20y corrió...para sacar agua, y sacó paraH7579
+- Gén_24:44también para tus camellos sacaré aguaH7579
+- Gén_24:45descendió a la fuente, y sacó agua; y leH7579
+- Gén_24:53sacó el criado alhajas de plata y...oroH3318
+- Gén_37:28sacaron ellos a José de la cisterna, yH4900
+- Gén_38:24y Judá dijo: Sacadla, y sea quemadaH3318
+- Gén_38:25cuando la sacaban, envió a decir a suH3318
+- Gén_38:28que sacó la mano el uno, y la parteraH5414
+- Gén_40:14hagas mención...y me saques de esta casaH3318
+- Gén_41:14lo sacaron...de la cárcel, y se afeitóH7323
+- Gén_43:23paz a vosotros...Y sacó a Simeón a ellosH3318
+- Gén_48:12José los sacó de entre sus rodillasH3318
+- Éxo_2:10Moisés...Porque de las aguas lo saquéH4871
+- Éxo_2:16vinieron a sacar agua para llenar lasH1802
+- Éxo_2:19sacó el agua, y dio de beber a las ovejasH1802
+- Éxo_3:8y sacarlos de aquella tierra a una tierraH5927
+- Éxo_3:10para que saques de Egipto a mi puebloH3318
+- Éxo_3:11saque de Egipto a los hijos de Israel?[[H3318]]
+- Éxo_3:12cuando hayas sacado de Egipto al puebloH3318
+- Éxo_3:17yo os sacaré de la aflicción de EgiptoH5927
+- Éxo_4:6cuando la sacó...que su mano estaba leprosaH3318
+- Éxo_4:7al sacarla de nuevo...como la otra carneH3318
+- Éxo_6:6os sacaré de debajo de las tareas pesadasH3318
+- Éxo_6:7yo soy Jehová...que os sacó de...de EgiptoH3318
+- Éxo_6:13que sacasen a los hijos de Israel de laH935
+- Éxo_6:26dijo: Sacad a los hijos de Israel de laH3318
+- Éxo_6:27hablaron a Faraón...para sacar de EgiptoH3318
+- Éxo_7:4sacaré a mis ejércitos...hijos de IsraelH3318
+- Éxo_7:5saque a los hijos de Israel de en medioH3318
+- Éxo_8:18para sacar piojos con sus encantamientosH3318
+- Éxo_12:17saqué vuestras huestes de la tierra deH3318
+- Éxo_12:21sacad y tomaos corderos por...familiasH4900
+- Éxo_12:39de la masa que habían sacado de EgiptoH3318
+- Éxo_12:42haberlos sacado en ella de la tierra deH3318
+- Éxo_12:51sacó Jehová a los hijos de Israel de laH3318
+- Éxo_13:3Jehová os ha sacado de...con mano fuerteH3318
+- Éxo_13:8hizo conmigo cuando me sacó de EgiptoH3318
+- Éxo_13:9con mano fuerte te sacó Jehová de EgiptoH3318
+- Éxo_13:14dirás: Jehová nos sacó con mano fuerteH3318
+- Éxo_13:16por cuanto Jehová nos sacó de Egipto conH3318
+- Éxo_14:11nos has sacado para que muramos en elH3947
+- Éxo_14:11¿por qué has...nos has sacado de Egipto?[[H3318]]
+- Éxo_15:9sacaré mi espada, los destruirá mi manoH7324
+- Éxo_16:3nos habéis sacado a este desierto paraH3318
+- Éxo_16:6que Jehová os ha sacado de la tierra deH3318
+- Éxo_16:32a comer...cuando yo os saqué de...EgiptoH3318
+- Éxo_18:1Jehová había sacado a Israel de EgiptoH3318
+- Éxo_19:17y Moisés sacó del campamento al puebloH3318
+- Éxo_20:2yo soy...te saqué de la tierra de EgiptoH3318
+- Éxo_29:46yo soy Jehová...que los saqué de...EgiptoH3318
+- Éxo_32:1, Éxo_32:23Moisés, el varón que nos sacó de laH5927
+- Éxo_32:4tus dioses, que te sacaron de la tierraH5927
+- Éxo_32:7que sacaste de...Egipto se ha corrompidoH5927
+- Éxo_32:8estos son tus dioses, que te sacaron de laH5927
+- Éxo_32:11tu pueblo, que tú sacaste de la tierraH3318
+- Éxo_32:12para mal los sacó, para matarlos en losH3318
+- Éxo_33:1sube...tú y el pueblo que sacaste de laH5927
+- Éxo_33:12me dices a mí: Saca este pueblo; y túH5927
+- Éxo_33:15no ha de ir conmigo, no nos saques deH5927
+- Lev_4:12el becerro sacará fuera del campamentoH3318
+- Lev_4:21sacará el becerro fuera del campamentoH3318
+- Lev_6:11sacará las cenizas fuera del campamentoH3318
+- Lev_10:4acercaos y sacad a vuestros hermanos deH5375
+- Lev_10:5y los sacaron con sus túnicas fuera delH5375
+- Lev_11:40el que sacare el cuerpo muerto, lavaráH5375
+- Lev_14:45sacarán todo fuera de la ciudad a lugarH3318
+- Lev_16:27sacarán fuera del campamento el becerroH935
+- Lev_19:36; Lev_22:33os saqué de la tierra de EgiptoH3318
+- Lev_23:43cuando los saqué de la tierra de EgiptoH3318
+- Lev_24:14saca el blasfemo fuera del campamentoH3318
+- Lev_24:23sacaron del campamento al blasfemo yH3318
+- Lev_25:38os saqué de la tierra de Egipto, paraH3318
+- Lev_25:42mis siervos, los cuales saqué yo de laH3318
+- Lev_25:55siervos míos, a los cuales saqué de laH3318
+- Lev_26:13os saqué de la tierra de Egipto, paraH3318
+- Lev_26:45cuando los saqué de la tierra de EgiptoH3318
+- Núm_14:13medio de ellos sacaste a este puebloH5927
+- Núm_15:36entonces lo sacó la congregación fueraH3318
+- Núm_15:41yo...que os saqué de la tierra de EgiptoH3318
+- Núm_16:14¿sacarás los ojos de estos hombres? NoH5365
+- Núm_17:9entonces sacó Moisés todas las varas deH3318
+- Núm_19:3él la sacará fuera del campamento, y laH3318
+- Núm_20:8les sacarás aguas de la peña, y darás aH3318
+- Núm_20:16y envió un ángel, y nos sacó de EgiptoH3318
+- Núm_23:22los ha sacado de Egipto; tiene fuerzasH3318
+- Núm_24:8Dios lo sacó de Egipto; tiene fuerzasH3318
+- Núm_27:17los saque y los introduzca, para que laH3318
+- Deu_1:27nos ha sacado de tierra de Egipto, paraH3318
+- Deu_4:20y os ha sacado del horno de hierro, deH3318
+- Deu_4:37te sacó de Egipto con su presencia y conH3318
+- Deu_5:6yo soy Jehová tu Dios, que te saqué...EgiptoH3318
+- Deu_5:15tu Dios te sacó de allá con mano fuerteH3318
+- Deu_6:12que te sacó de la tierra de Egipto, deH3318
+- Deu_6:21y Jehová nos sacó de...con mano poderosaH3318
+- Deu_6:23sacó de allá, para traernos y darnos laH3318
+- Deu_7:8os ha sacado Jehová con mano poderosa, yH3318
+- Deu_7:19el brazo...con que Jehová tu Dios te sacóH3318
+- Deu_8:9tierra...y de cuyos montes sacarás cobreH2672
+- Deu_8:14olvides de...te sacó de tierra de EgiptoH3318
+- Deu_8:15él te sacó agua de la roca del pedernalH3318
+- Deu_9:12que sacaste de Egipto se ha corrompidoH3318
+- Deu_9:26que sacaste de Egipto con mano poderosaH3318
+- Deu_9:28digan los de la tierra de donde...sacasteH3318
+- Deu_9:28los sacó para matarlos en el desiertoH3318
+- Deu_9:29ellos son tu pueblo...que sacaste con tuH3318
+- Deu_13:5Dios que te sacó de tierra de Egipto yH3318
+- Deu_13:10te sacó de tierra de Egipto, de casa deH3318
+- Deu_14:28sacarás...el diezmo de tus productos deH3318
+- Deu_16:1en el mes de Abib te sacó Jehová tu DiosH3318
+- Deu_17:5sacarás...al hombre o...que hubiere hechoH3318
+- Deu_19:12los ancianos...lo sacarán de allí, y loH3947
+- Deu_20:1está contigo, el cual te sacó de tierraH5927
+- Deu_21:19sacarán ante los ancianos de su ciudadH3318
+- Deu_22:15sacarán las señales de la virginidad deH3318
+- Deu_22:21la sacarán a la puerta de la casa de suH3318
+- Deu_22:24los sacaréis...a la puerta de la ciudadH3318
+- Deu_24:11a quien prestaste te sacará la prendaH3318
+- Deu_26:2primicias de...los frutos que sacares de
+- Deu_26:8nos sacó de Egipto con mano fuerte, conH3318
+- Deu_26:13he sacado lo consagrado de mi casa, yH1197
+- Deu_28:38sacarás mucha semilla...recogerás pocoH3318
+- Deu_29:11el que corta...hasta el que saca tu aguaH7579
+- Deu_29:25cuando los sacó de la tierra de EgiptoH3318
+- Jos_2:3saca a los hombres que han venido a tiH3318
+- Jos_6:23y los espías entraron y sacaron a RahabH3318
+- Jos_6:23y también sacaron a toda su parentelaH3318
+- Jos_9:23y saque el agua para la casa de mi DiosH7579
+- Jos_10:22abrid la...y sacad...a esos cinco reyesH3318
+- Jos_10:23y sacaron de la cueva a aquellos cincoH3318
+- Jos_18:11sacó la suerte de la tribu de...BenjamínH5927
+- Jos_19:9fue sacada la heredad de los...de Simeón
+- Jos_24:5envié...herí a Egipto...y después os saquéH3318
+- Jos_24:6saqué a vuestros padres de Egipto...marH3318
+- Jos_24:17Jehová...es el que nos sacó a nosotrosH5927
+- Jue_2:1yo os saqué de Egipto, y os introdujeH5927
+- Jue_2:12los había sacado de la tierra de EgiptoH3318
+- Jue_3:22no sacó el puñal de su vientre; y salióH8025
+- Jue_6:8hice...y os saqué de la casa de servidumbreH3318
+- Jue_6:13¿no nos sacó Jehová de Egipto? Y ahoraH5927
+- Jue_6:18saque mi ofrenda y la ponga delante deH3318
+- Jue_6:19en una olla, y sacándolo se lo presentóH3318
+- Jue_6:30saca a tu hijo para que muera, porque haH3318
+- Jue_6:38exprimió el vellón y sacó...un tazón llenoH4680
+- Jue_8:10habían caído 120.000...que sacaban espadaH8025
+- Jue_9:54saca tu espada y mátame, para que no seH8025
+- Jue_16:21mas los filisteos...le sacaron los ojosH5365
+- Jue_19:22saca al hombre que ha entrado en tu casaH3318
+- Jue_19:24he aquí mi hija virgen...las sacaré ahoraH3318
+- Jue_19:25tomando aquel...a su concubina, la sacóH3318
+- Jue_20:2, Jue_20:17de Israel...400.000...sacaban espadaH8025
+- Jue_20:15Benjamín...26,000...que sacaban espadaH8025
+- Jue_20:25otros 18.000 hombres de...sacaban espadaH8025
+- Jue_20:35mataron...todos los cuales sacaban espadaH8025
+- Jue_20:46murieron...25.000...que sacaban espadaH8025
+- Rut_2:9y bebe del agua que sacan los criadosH7579
+- Rut_2:18sacó también...lo que le había sobradoH3318
+- 1Sa_2:14metía...todo lo que sacaba el garfioH5927
+- 1Sa_7:6y se reunieron en Mizpa, y sacaron aguaH7579
+- 1Sa_8:8el día que los saqué de Egipto hasta hoyH5927
+- 1Sa_10:18yo saqué a Israel de Egipto, y os libréH5927
+- 1Sa_11:2que a cada uno de...saque el ojo derechoH5365
+- 1Sa_12:6sacó a vuestros padres de la...de EgiptoH5927
+- 1Sa_12:8los cuales sacaron a vuestros padres deH3318
+- 1Sa_17:51sacándola...acabó de matar, y le cortóH8025
+- 1Sa_31:4dijo Saúl...Saca tu espada, y traspásameH8025
+- 2Sa_5:2tú quien sacabas a Israel a la guerraH3318
+- 2Sa_7:6el día en que saqué a los hijos de IsraelH5927
+- 2Sa_12:30y sacó muy grande botín de la ciudadH3318
+- 2Sa_12:31sacó además a la gente que estaba en ellaH3318
+- 2Sa_13:9las sacó delante de él; mas él no quisoH3332
+- 2Sa_22:17me tomó; me sacó de las muchas aguasH4871
+- 2Sa_22:20y me sacó a lugar espacioso; me libró
+- 2Sa_23:16los tres...sacaron agua del pozo de BelénH7579
+- 2Sa_24:9hombres fuertes que sacaban espada, y losH8025
+- 1Re_8:8sacaron las varas, de manera que susH748
+- 1Re_8:16el día que saqué de Egipto a mi puebloH3318
+- 1Re_8:21el pacto...cuando los sacó de...de EgiptoH3318
+- 1Re_8:51tu pueblo...el cual tú sacaste de EgiptoH3318
+- 1Re_8:53sacaste a nuestros padres de Egipto, ohH3318
+- 1Re_9:9dejaron a Jehová su...que había sacado aH935
+- 1Re_20:24saca a los reyes cada uno de su puestoH5493
+- 1Re_21:10y entonces sacadlo, y apedreadlo paraH3318
+- 1Re_22:34y sácame del campo, pues estoy heridoH3318
+- 2Re_10:22saca vestiduras...les sacó vestidurasH3318
+- 2Re_10:26sacaron las estatuas del templo de BaalH3318
+- 2Re_11:2tomó a Joás hijo...y lo sacó furtivamenteH1589
+- 2Re_11:12sacando luego Joiada al hijo del rey, leH3318
+- 2Re_11:15sacadla fuera del recinto del templo, yH3318
+- 2Re_17:7Dios, que los sacó de tierra de EgiptoH5927
+- 2Re_17:36mas a Jehová, que os sacó de...de EgiptoH3318
+- 2Re_23:4mandó el rey...que sacasen del templo deH3318
+- 2Re_23:6hizo...sacar la imagen de Asera fuera deH3318
+- 2Re_23:16envió y sacó los huesos de...sepulcrosH3947
+- 2Re_23:35sacando la plata y el oro del pueblo deH5065
+- 2Re_24:13sacó...los tesoros de la casa de JehováH3316
+- 2Re_25:7a Sedequías le sacaron los ojos, y atadoH5786
+- 2Re_25:27a Joaquín rey...sacándolo de la cárcel
+- 1Cr_9:28por cuenta, y por cuenta se sacaban
+- 1Cr_10:4saca tu espada y traspásame con ella, noH8025
+- 1Cr_11:2tú eras quien sacaba a la guerra a IsraelH3318
+- 1Cr_11:18y sacaron agua del pozo de Belén, queH7579
+- 1Cr_17:5el día que saqué a los hijos de IsraelH5927
+- 1Cr_20:1que Joab sacó las fuerzas del ejércitoH5090
+- 1Cr_20:2esto sacó de la ciudad muy grande botínH3318
+- 1Cr_20:3sacó...al pueblo que estaba en ella, y loH3318
+- 1Cr_21:5todo Israel 1:100.000 que sacaban espadaH8025
+- 1Cr_21:5y de Judá 470.000...que sacaban espadaH8025
+- 2Cr_2:14y sacar toda forma de diseño que se
+- 2Cr_6:5desde el día...saqué a mi pueblo de EgiptoH3318
+- 2Cr_7:22que los sacó de la tierra de Egipto, yH3318
+- 2Cr_16:2sacó Asa la plata y el oro de...la casaH3318
+- 2Cr_18:33sácame del campo, porque estoy...heridoH3318
+- 2Cr_23:11entonces sacaron al hijo del rey, y leH3318
+- 2Cr_23:14sacadla fuera del recinto, y al que laH3318
+- 2Cr_25:11sacó a su pueblo, y vino al Valle de laH5090
+- 2Cr_29:5casa...y sacad del santuario la inmundiciaH3318
+- 2Cr_29:16sacaron...inmundicia que hallaron en elH3318
+- 2Cr_34:14sacar el dinero que había sido traídoH3318
+- 2Cr_35:24sus siervos lo sacaron de aquel carroH6574
+- Esd_1:7Ciro sacó los utensilios de la casa deH3318
+- Esd_1:7Nabucodonosor había sacado de JerusalénH3318
+- Esd_1:8los sacó...Ciro rey, de Persia, por mano deH3318
+- Esd_5:14Nabucodonosor había sacado del temploH5312
+- Esd_5:14rey Ciro los sacó del templo de BabiloniaH5312
+- Esd_6:5los cuales Nabucodonosor sacó del temploH5312
+- Neh_9:7lo sacaste de Ur de los caldeos, y leH3318
+- Neh_9:15en su sed les sacaste aguas de la peñaH3318
+- Job_5:5su mies...sacarán de entre los espinosH3947
+- Job_8:10ellos...de su corazón sacarán palabras?[[H3318]]
+- Job_10:18¿por qué me sacaste de la matriz?[[H3318]]
+- Job_12:22él...saca a luz la sombra de muerteH3318
+- Job_15:13que...saques tales palabras de tu boca?[[H3318]]
+- Job_20:15devoró...de su vientre las sacará DiosH3423
+- Job_22:6sacaste prenda a tus hermanos sin causa
+- Job_28:2hierro se saca del polvo, y de la piedraH3947
+- Job_35:3dijiste: ¿Qué ventaja sacaré de ello?
+- Job_38:32¿sacarás tú...las constelaciones de losH3318
+- Job_41:1¿sacarás tú al leviatán con anzuelo, o conH4900
+- Sal_18:16me tomó, me sacó de las muchas aguasH4871
+- Sal_18:19me sacó a lugar espacioso; me libróH3318
+- Sal_22:9pero tú eres el que me sacó del vientreH1518
+- Sal_25:15porque él sacará mis pies de la redH3318
+- Sal_25:17han aumentado; sácame de mis congojasH3318
+- Sal_31:4sácame de la red que han escondido, paraH3318
+- Sal_35:3saca la lanza...contra mis perseguidoresH7324
+- Sal_40:2hizo sacar del pozo de la desesperaciónH5927
+- Sal_66:12pasamos por...y nos sacaste a abundanciaH3318
+- Sal_68:6saca a los cautivos a prosperidad; masH3318
+- Sal_69:14sácame del lodo, y no sea yo sumergidoH5337
+- Sal_71:6de las entrañas...fuiste el que me sacóH1491
+- Sal_78:16pues sacó de la peña corrientes, e hizoH3318
+- Sal_104:14la hierba, sacando el pan de la tierraH3318
+- Sal_105:37los sacó con plata y oro; y no hubo enH3318
+- Sal_105:43sacó a su pueblo con gozo; con júbiloH3318
+- Sal_107:14sacó de las tinieblas y de la sombra deH3318
+- Sal_135:7hace...saca de sus depósitos los vientosH3318
+- Sal_136:11que sacó a Israel de en medio de ellosH3318
+- Sal_140:8no saques adelante su pensamiento, para
+- Sal_142:7saca mi alma de la cárcel...que alabe tuH3318
+- Sal_143:11tu justicia sacarás mi alma de angustiaH3318
+- Sal_144:7redímeme, y sácame de las muchas aguasH5337
+- Pro_30:17los cuervos...lo saquen, y lo devorenH5365
+- Pro_30:33el que bate la leche sacará mantequillaH3318
+- Pro_30:33recio se suena las narices sacará sangreH3318
+- Ecl_5:10el que ama el mucho tener, no sacará
+- Isa_12:3sacaréis con gozo aguas de las fuentesH7579
+- Isa_22:6Elam tomó aljaba...y Kir sacó el escudo
+- Isa_30:14no se halla tiesto...o para sacar aguaH2834
+- Isa_34:15allí...sacará sus pollos, y los juntará
+- Isa_40:26él saca y cuenta su ejército; a todasH3318
+- Isa_42:7que saques de la cárcel a los presos, yH3318
+- Isa_43:8sacad al pueblo ciego que tiene ojos, y aH3318
+- Isa_43:17el que saca carro y caballo, ejército yH3318
+- Isa_46:6sacan oro de la bolsa, y pesan plata con
+- Isa_54:16y que saca la herramienta para su obraH3318
+- Isa_65:9sacaré descendencia de Jacob, y de JudáH3318
+- Jer_7:22nada les mandé...el día que los saquéH3318
+- Jer_8:1sacarán los huesos de los reyes de JudáH3318
+- Jer_10:13hace...saca el viento de sus depósitosH3318
+- Jer_11:4mandé a...padres el día que los saqué deH3318
+- Jer_12:17arrancaré esa nación, sacándola de raízH5428
+- Jer_17:22ni saquéis carga de vuestras casas enH3318
+- Jer_20:3y el día siguiente Pasur sacó a JeremíasH3318
+- Jer_26:23sacaron a Urías de Egipto y lo trajeronH3318
+- Jer_31:32el día que tomé su mano para sacarlos deH3318
+- Jer_32:21sacaste a tu pueblo Israel de la tierraH3318
+- Jer_34:13pacto...el día que los saqué de...EgiptoH3318
+- Jer_37:17Sedequías envió y le sacó...preguntó elH3947
+- Jer_38:10y haz sacar al profeta...de la cisternaH3318
+- Jer_38:13este modo sacaron a Jeremías con sogasH4900
+- Jer_38:22mujeres...serán sacadas a los príncipesH3318
+- Jer_38:23sacarán...tus mujeres y tus hijos a losH4672
+- Jer_39:7y sacó los ojos del rey Sedequías, y leH5786
+- Jer_39:14sacase a casa; y vivió entre el puebloH3318
+- Jer_50:25y sacó los instrumentos de su furorH3318
+- Jer_51:10Jehová sacó a luz nuestras justiciasH3318
+- Jer_51:16hace...y saca el viento de sus depósitosH3318
+- Jer_51:44sacaré de su boca lo que se ha tragadoH3318
+- Jer_52:11le sacó los ojos a Sedequías, y le atóH5786
+- Jer_52:31alzó la cabeza...y lo sacó de la cárcelH3218
+- Eze_4:2sitio...y sacarás contra ella baluarte
+- Eze_11:7os sacaré a vosotros de en medio de ellaH3318
+- Eze_11:9y os sacaré de en medio de ella, y osH3318
+- Eze_12:4sacarás tus enseres de día delante de susH3318
+- Eze_12:6delante de sus ojos...de noche los sacarásH3318
+- Eze_12:7saqué mis enseres de día, como enseresH3318
+- Eze_12:12por la pared abrirán paso para sacarloH3318
+- Eze_20:6que los sacaría de la tierra de EgiptoH3318
+- Eze_20:9actué...sacarlos de la tierra de EgiptoH3318
+- Eze_20:10los saqué de la...de Egipto, y los trajeH3318
+- Eze_20:14, Eze_20:22ante cuyos ojos los había sacadoH3318
+- Eze_20:34y os sacaré de entre los pueblos, y osH3318
+- Eze_20:38de la tierra de sus...los sacaré, mas aH3318
+- Eze_20:41os haya sacado de entre los pueblos, y osH3318
+- Eze_21:3sacaré mi espada de su vaina, y cortaréH3318
+- Eze_21:5que yo Jehová saqué mi espada de su vainaH3318
+- Eze_24:6por sus piezas sácala, sin echar suerteH3318
+- Eze_28:18yo, pues, saqué fuego de en medio de tiH3318
+- Eze_29:4y te sacaré de en medio de tus ríos, yH5927
+- Eze_34:13y yo las sacaré de los pueblos, y lasH3318
+- Eze_37:13abra...y os saque de vuestras sepulturasH5927
+- Eze_38:4y te sacaré a ti y a todo tu ejércitoH3318
+- Eze_38:8fue sacada de las naciones, y todos ellosH3318
+- Eze_39:3y sacaré tu arco de tu mano izquierdaH5221
+- Eze_39:27cuando los saque de entre los pueblos
+- Eze_42:15me sacó por el camino de la puerta queH3318
+- Eze_46:20allí cocerán...para no sacarla al atrioH3318
+- Eze_46:21luego me sacó al atrio exterior, y meH3318
+- Eze_47:2me sacó por el camino de la puerta delH3318
+- Dan_6:23sacar a Daniel del...fue Daniel sacadoH5267
+- Dan_9:15Dios...que sacaste tu pueblo de...EgiptoH3318
+- Ose_9:13Efraín sacará sus hijos a la matanzaH3318
+- Amó_6:10y lo quemará para sacar los huesos deH3318
+- Jon_2:6mas tú sacaste mi vida de la sepulturaH5927
+- Miq_2:3del cual no sacaréis vuestros cuellosH4185
+- Miq_7:9Jehová...me sacará a luz; veré su justiciaH3318
+- Hab_1:15sacará a todos con anzuelo...recogeráH5927
+- Sof_3:5de mañana sacará a luz su juicio, nuncaH5414
+- Hag_2:16venían al lagar para sacar cincuentaH2834
+- Zac_4:7él sacará la...piedra con aclamacionesH3318
+- Zac_9:11yo he sacado tus presos de la cisterna
+- Mat_5:29sácalo, y échalo de ti; pues mejor teG1808
+- Mat_7:4dirás a, Déjame sacar la paja de tu ojoG1544
+- Mat_7:5saca primero la viga de tu propio ojo, yG1544
+- Mat_7:5y entonces verás bien para sacar la pajaG1544
+- Mat_12:20hasta que saque a victoria el juicio
+- Mat_12:35del buen tesoro del...saca buenas cosasG1544
+- Mat_12:35malo, del mal tesoro saca malas cosasG1544
+- Mat_13:48y una vez llena, la sacan a la orillaG307
+- Mat_13:52saca de su tesoro cosas nuevas y cosasG1544
+- Mat_17:27el primer pez que saques, tómalo, y alG305
+- Mat_18:9ocasión de caer, sácalo y échalo de tiG1807
+- Mat_26:51sacó su espada, e hiriendo a un siervoG645
+- Mar_8:23tomando la mano del ciego, le sacóG1806
+- Mar_9:47tu ojo te fuere ocasión de caer, sácaloG1544
+- Mar_14:47sacando la espada, hirió al siervo delG4685
+- Mar_15:20después...le sacaron para crucificarleG1806
+- Luc_5:36el remiendo sacado de él no armoniza
+- Luc_6:42déjame sacar la paja que está en tu ojoG1544
+- Luc_6:42saca primero la viga de tu propio ojo, yG1544
+- Luc_6:42verás bien para sacar la paja que estáG1544
+- Luc_6:45bueno, del buen tesoro de...saca lo buenoG4393
+- Luc_6:45del mal tesoro...saca lo malo; porque deG4393
+- Luc_10:35sacó dos denarios, y los dio al mesoneroG1544
+- Luc_14:5no lo sacará inmediatamente, aunque seaG385
+- Luc_15:22el padre dijo...Sacad el mejor vestidoG1627
+- Luc_24:50los sacó fuera hasta Betania, y alzandoG1806
+- Jua_2:8sacad ahora, y llevadlo al maestresalaG501
+- Jua_2:9los sirvientes que habían sacado el aguaG501
+- Jua_4:7vino una mujer de Samaria a sacar aguaG501
+- Jua_4:11le dijo: Señor, no tienes con qué sacarlaG502
+- Jua_4:15no tenga yo sed, ni venga aquí a sacarlaG501
+- Jua_10:3sus ovejas llama por nombre, y las sacaG1806
+- Jua_10:4cuando ha sacado fuera todas las propiasG1544
+- Jua_21:6la echaron, y ya no la podían sacar, porG1670
+- Jua_21:11sacó la red a tierra, llena de...pecesG1670
+- Hec_5:6los jóvenes...sacándolo, lo sepultaronG1627
+- Hec_5:9los pies de los que...y te sacarán a tiG1627
+- Hec_5:10la sacaron, y la sepultaron junto a suG1627
+- Hec_5:15sacaban los enfermos a las calles, y losG1627
+- Hec_5:19ángel del Señor, abriendo...y sacándolosG1806
+- Hec_5:34mandé que sacasen fuera...los apóstolesG4160
+- Hec_7:36éste los sacó, habiendo hecho prodigiosG1806
+- Hec_7:40este Moisés, que nos sacó de la tierraG1806
+- Hec_9:40sacando a todos...puso de rodillas y oró
+- Hec_12:4se proponía sacarle al pueblo después deG321
+- Hec_12:6cuando Herodes le iba a sacar, aquellaG4254
+- Hec_12:17el Señor le había sacado de la cárcelG1806
+- Hec_13:17y con brazo levantado los sacó de ellaG1806
+- Hec_16:27viendo...sacó la espada y se iba a matarG4685
+- Hec_16:30y sacándolos, les dijo: Señores, ¿quéG4254
+- Hec_16:37no...sino vengan ellos mismos a sacarnosG1806
+- Hec_16:39sacándolos, les pidieron que salieranG1806
+- Hec_17:5los judíos...procuraban sacarlos al puebloG71
+- Hec_19:33y sacaron de...la multitud a AlejandroG4264
+- Hec_21:38y sacó al desierto los 4.000 sicarios?[[G1806]]
+- Hec_22:30sacando a Pablo, le presentó ante ellos
+- Gál_4:15hubierais sacado vuestros propios ojosG1846
+- 1Ti_6:7nada...y sin duda nada podremos sacarG1627
+- 2Ti_1:10quitó la muerte y sacó a luz la vidaG5461
+- Heb_8:9para sacarlos de la tierra de EgiptoG1806
+- Heb_11:34evitaron...sacaron fuerzas de debilidad
+- Jud_1:5sacándolo de Egipto, después destruyó a
+- Jud_1:16adulando a...personas para sacar provecho

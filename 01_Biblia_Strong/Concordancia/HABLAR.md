@@ -1,0 +1,1217 @@
+---
+tipo: concordancia
+palabra: HABLAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HABLAR
+
+- Gén_8:15entonces habló Dios a Noé, diciendoH1696
+- Gén_9:8y habló Dios a Noé y a sus hijos con élH559
+- Gén_16:13nombre de Jehová que con ella hablabaH1696
+- Gén_17:3se postró sobre su rostro, y Dios hablóH1696
+- Gén_17:22acabó de hablar con él, y subió DiosH1696
+- Gén_18:19haga venir Jehová...lo que ha habladoH1696
+- Gén_18:27que he comenzado a hablar a mi SeñorH1696
+- Gén_18:29a hablarle, y dijo: Quizá se hallaránH1696
+- Gén_18:30, Gén_18:32se enoje ahora mi Señor, si hablaraH1696
+- Gén_18:31aquí...he emprendido el hablar a mi SeñorH1696
+- Gén_18:33luego que acabó de hablar a AbrahamH1696
+- Gén_19:14salió Lot y habló a sus yernos, los queH1696
+- Gén_19:21y no destruiré la...de que has habladoH1696
+- Gén_21:1hizo Jehová...Sara como había habladoH1696
+- Gén_21:22que habló Abimelec, y Ficol príncipeH559
+- Gén_22:7habló Isaac a Abraham su padre, y dijoH559
+- Gén_23:3se levantó...y habló a los hijos de HetH1696
+- Gén_23:8y habló con ellos, diciendo: Si tenéisH559
+- Gén_24:7Jehová...me habló y me juró, diciendoH1696
+- Gén_24:15que antes que él acabase de hablar, heH1696
+- Gén_24:30que decía: Así me habló aquel hombreH1696
+- Gén_24:33dicho mi mensaje. Y él le dijo: hablaH1696
+- Gén_24:45que acabase de hablar en mi corazón, heH1696
+- Gén_24:50esto; no podemos hablarte malo ni buenoH1696
+- Gén_27:5oyendo, cuando hablaba Isaac a Esaú suH1696
+- Gén_27:6entonces Rebeca habló a Jacob su hijoH559
+- Gén_27:6he oído a tu padre que hablaba con EsaúH1696
+- Gén_27:39Isaac su padre habló y le dijo: He aquíH559
+- Gén_29:9él aún hablaba con ellos, Raquel vinoH1696
+- Gén_31:24, Gén_31:29no hables a Jacob descomedidamenteH1696
+- Gén_31:29mas el Dios de tu padre me habló anocheH559
+- Gén_32:19conforme a...hablaréis a Esaú, cuandoH1696
+- Gén_34:3apegó a Dina...habló al corazón de ellaH1696
+- Gén_34:4habló Siquem a Hamor su padre, diciendoH559
+- Gén_34:6se dirigió Hamor...a Jacob, para hablarH1696
+- Gén_34:8y Hamor habló con ellos, diciendo: ElH559
+- Gén_34:20vinieron...y hablaron a los varones deH1696
+- Gén_35:13-14lugar en donde había hablado con élH1696
+- Gén_35:15lugar donde Dios había hablado con élH1696
+- Gén_37:4y no podían hablarle pacíficamenteH1696
+- Gén_39:10hablando ella a José cada día, y noH1696
+- Gén_39:14llamó a los de...y les habló diciendoH559
+- Gén_39:17le habló...las mismas palabras, diciendoH1696
+- Gén_39:19las palabras que su mujer le hablabaH1696
+- Gén_41:9el jefe de los coperos habló a FaraónH1696
+- Gén_42:7José...les habló ásperamente, y les dijoH1696
+- Gén_42:22os hablé yo y dije: No pequéis contraH559
+- Gén_42:24después volvió a ellos, y les hablóH1696
+- Gén_42:30nos habló ásperamente, y nos trató comoH1696
+- Gén_42:37Rubén habló a su padre, diciendo: HarásH559
+- Gén_43:19y le hablaron a la entrada de la casaH1696
+- Gén_43:29hermano menor, de quien me hablasteis?[[H559]]
+- Gén_44:16dijo...¿Qué hablaremos, o con qué nosH1696
+- Gén_44:18que hable tu siervo una palabra...y noH1696
+- Gén_45:12vuestros ojos ven...que mi boca os hablaH1696
+- Gén_45:15después sus hermanos hablaron con élH1696
+- Gén_45:27las palabras...que él les había habladoH1696
+- Gén_46:2habló Dios a Israel en visiones de nocheH559
+- Gén_47:5entonces Faraón habló a José, diciendoH559
+- Gén_50:4habló José a los de la casa de FaraónH1696
+- Gén_50:4os ruego que habléis en oídos de FaraónH1696
+- Gén_50:17y José lloró mientras hablabanH1696
+- Gén_50:21así los consoló, y les habló al corazónH1696
+- Éxo_1:15habló el rey de Egipto a las parterasH559
+- Éxo_4:10ni antes ni desde que tu hablas a tuH1696
+- Éxo_4:12yo...te enseñaré lo que hayas de hablarH1696
+- Éxo_4:14a tu hermano Aarón...que él habla bien?[[H1696]]
+- Éxo_4:15tu, hablarás a él y pondrás en su bocaH1696
+- Éxo_4:16hablará por ti al pueblo; él te será aH1696
+- Éxo_4:30y habló Aarón acerca de todas las cosasH1696
+- Éxo_5:10hablaron al pueblo, diciendo: Así haH559
+- Éxo_5:23desde que yo vine a Faraón para hablarleH1696
+- Éxo_6:2habló todavía Dios dijo: Yo soy JehováH1696
+- Éxo_6:9de esta manera habló Moisés a...de IsraelH1696
+- Éxo_6:10, Éxo_6:29; Éxo_13:1; Éxo_14:1; Éxo_16:11; Éxo_25:1; Éxo_30:11, Éxo_30:17, Éxo_30:22; Éxo_31:1, Éxo_31:12; Éxo_40:1; Lev_4:1; Lev_5:14; Lev_6:1, Lev_6:8, Lev_6:19, Lev_6:24; Lev_7:22, Lev_7:28; Lev_8:1; Lev_12:1; Lev_14:1; Lev_17:1; Lev_18:1; Lev_19:1; Lev_20:1; Lev_21:16; Lev_22:1, Lev_22:17, Lev_22:26; Lev_23:1, Lev_23:9, Lev_23:23, Lev_23:26, Lev_23:33; Lev_24:1, Lev_24:13; Lev_25:1; Lev_27:1; Núm_1:1, Núm_1:48; Núm_3:5, Núm_3:11, Núm_3:14, Núm_3:44; Núm_4:21; Núm_5:1, Núm_5:5, Núm_5:11; Núm_6:1, Núm_6:22; Núm_7:4; Núm_8:1, Núm_8:5, Núm_8:23; Núm_9:1, Núm_9:9; Núm_10:1; Núm_13:1; Núm_15:1, Núm_15:17, Núm_15:37; Núm_16:23, Núm_16:36, Núm_16:44; Núm_17:1; Núm_18:25; Núm_20:7; Núm_25:10, Núm_25:16; Núm_26:52; Núm_28:1; Núm_31:1, Núm_31:25; Núm_33:50; Núm_34:1, Núm_34:16; Núm_35:1, Núm_35:9habló Jehová a Moisés, diciendoH1696
+- Éxo_6:11entra y habla a Faraón rey de EgiptoH1696
+- Éxo_6:13; Éxo_7:8; Éxo_12:1; Lev_11:1; Lev_13:1; Lev_14:33; Lev_15:1; Núm_2:1; Núm_4:1, Núm_4:17; Núm_14:26; Núm_16:20; Núm_19:1; Núm_20:23Jehová habló a Moisés y a AarónH1696
+- Éxo_6:27son los que hablaron a Faraón rey deH1696
+- Éxo_6:28Jehová habló a Moisés en la tierra deH1696
+- Éxo_7:2Aarón tu hermano hablará a Faraón, paraH1696
+- Éxo_7:7de edad de 80...cuando hablaron a FaraónH1696
+- Éxo_11:2habla ahora al pueblo, y que cada unoH1696
+- Éxo_12:3hablad a toda la congregación de IsraelH1696
+- Éxo_14:12no es...lo que te hablamos en EgiptoH1696
+- Éxo_16:10hablando Aarón a toda la congregaciónH1696
+- Éxo_16:12háblales, diciendo: Al caer la tardeH1696
+- Éxo_19:9pueblo oiga mientras yo hablo contigoH1696
+- Éxo_19:19Moisés hablaba, y Dios le respondíaH1696
+- Éxo_20:1habló Dios...estas palabras, diciendoH1696
+- Éxo_20:16no hablaréis contra tu...falso testimonioH6030
+- Éxo_20:19habla tú con nosotros...no hable DiosH1696
+- Éxo_20:22he hablado desde el cielo con vosotrosH1696
+- Éxo_25:22me declararé a ti, y hablaré contigoH1696
+- Éxo_28:3hablarás a todos los sabios de corazónH1696
+- Éxo_29:42me reuniré con vosotros, para hablarosH1696
+- Éxo_30:31; Éxo_31:13; Lev_1:2; Lev_4:2; Lev_7:23, Lev_7:29; Lev_9:3; Lev_11:2; Lev_12:2; Lev_15:2; Lev_18:2; Lev_23:2, Lev_23:10, Lev_23:24, Lev_23:34; Lev_24:15; Lev_25:2; Lev_27:2; Núm_5:12; Núm_6:2; Núm_9:10; Núm_15:2, Núm_15:18, Núm_15:38; Núm_27:8; Núm_33:51; Núm_35:10habla a los hijos de Israel y dilesH1696
+- Éxo_31:18acabó de hablar con él en el monte deH1696
+- Éxo_32:12¿por qué han de hablar los egipciosH3615
+- Éxo_32:13daré a...esta tierra de que he habladoH1696
+- Éxo_33:9entraba en...y Jehová hablaba con MoisésH1696
+- Éxo_33:11y hablaba Jehová a Moisés cara a caraH1696
+- Éxo_33:11como habla cualquiera a sus compañeroH1696
+- Éxo_34:29piel...después que hubo hablado con DiosH1696
+- Éxo_34:31volvieron a él, y Moisés les hablóH1696
+- Éxo_34:33cuando acabó Moisés de hablar...un veloH1696
+- Éxo_34:34cuando venía Moisés...para hablar con élH1696
+- Éxo_34:35hasta que entraba a hablar con DiosH1696
+- Éxo_35:4y habló Moisés a toda la congregaciónH559
+- Éxo_36:5hablaron a Moisés, diciendo: El puebloH559
+- Lev_1:1llamó Jehová a Moisés, y habló con élH1696
+- Lev_6:25habla a Aarón y a sus hijos, y dilesH559
+- Lev_10:3esto es lo que habló Jehová, diciendoH1696
+- Lev_10:8y Jehová habló a Aarón, diciendoH1696
+- Lev_16:1habló Jehová a Moisés después de laH1696
+- Lev_17:2habla a Aarón y a sus hijos, y a todosH1696
+- Lev_19:2habla a toda la congregación de...IsraelH1696
+- Lev_21:1habla a los sacerdotes hijos de AarónH559
+- Lev_21:17habla a Aarón y dile: Ninguno de tusH1696
+- Lev_21:24y Moisés habló esto a Aarón, y a susH1696
+- Lev_22:18habla a Aarón y a sus hijos, y a todosH1696
+- Lev_23:44así habló Moisés a los hijos de IsraelH1696
+- Lev_24:23y habló Moisés a los hijos de IsraelH1696
+- Núm_3:1el día en que Jehová habló a MoisésH1696
+- Núm_6:23habla a Aarón y a sus hijos y diles: AsíH1696
+- Núm_7:89cuando entraba...para hablar con DiosH1696
+- Núm_7:89oía la voz que le hablaba de encima delH1696
+- Núm_7:89entre los dos querubines; y hablaba conH1696
+- Núm_8:2habla a Aarón y dile: Cuando enciendasH1696
+- Núm_9:4habló Moisés a los hijos de Israel paraH1696
+- Núm_11:17yo descenderé y hablaré allí contigoH1696
+- Núm_11:25Jehová descendió en la nube y le hablóH1696
+- Núm_12:1María y Aarón hablaron contra Moisés aH1696
+- Núm_12:2¿solamente...Moisés ha hablado Jehová?[[H1696]]
+- Núm_12:2¿no ha hablado también por nosotros?[[H1696]]
+- Núm_12:6le apareceré...en sueños hablaré con élH1696
+- Núm_12:8cara a cara hablaré con él...y no porH1696
+- Núm_12:8no...de hablar contra mi siervo Moisés?[[H1696]]
+- Núm_13:32hablaron mal entre los hijos de IsraelH1681
+- Núm_14:7hablaron a toda la congregación de losH559
+- Núm_14:10toda la multitud habló de apedrearlosH559
+- Núm_14:15las...que hubieren oído tu fama hablaránH559
+- Núm_14:17yo te ruego que sea...como lo hablasteH1696
+- Núm_14:28que según habéis hablado a mis oídosH1696
+- Núm_14:35yo Jehová he hablado; así haré a todaH1696
+- Núm_14:37varones que han hablado mal de laH1681
+- Núm_14:40al lugar del cual ha hablado JehováH559
+- Núm_16:5habló a Coré y a...su séquito, diciendoH1696
+- Núm_16:24habla a la congregación...Apartaos deH1696
+- Núm_16:26y él habló a la congregación, diciendoH1696
+- Núm_16:31cesó él de hablar todas estas palabrasH1696
+- Núm_17:2habla a los hijos de Israel, y toma deH1696
+- Núm_17:6y Moisés habló a los hijos de IsraelH1696
+- Núm_17:12de Israel hablaron a Moisés, diciendoH559
+- Núm_18:26así hablarás a los levitas, y les dirásH1696
+- Núm_20:3habló el pueblo contra Moisés, diciendoH559
+- Núm_20:8y hablad a la peña a vista de ellosH1696
+- Núm_21:5habló el pueblo contra Dios y...MoisésH1696
+- Núm_21:7pecado por haber hablado contra JehováH1696
+- Núm_22:8daré respuesta según Jehová me hablaraH1696
+- Núm_22:35palabra que yo te diga, esa hablarásH1696
+- Núm_22:38mas ¿podré ahora hablar alguna cosa?[[H1696]]
+- Núm_22:38la palabra que Dios pusiere...hablaréH1696
+- Núm_23:19no hará? Habló, ¿y no lo ejecutará?[[H1696]]
+- Núm_24:13mas lo que hable Jehová, eso diré yo?[[H1696]]
+- Núm_26:1que Jehová habló a Moisés, y a EleazarH559
+- Núm_26:3hablaron con ellos en...campos de MoabH1696
+- Núm_30:1habló Moisés a los príncipes de lasH1696
+- Núm_31:3Moisés habló al pueblo, diciendo: ArmaosH1696
+- Núm_32:2, Núm_32:25los hijos de Gad...hablaron a MoisésH559
+- Núm_36:1llegaron...y hablaron delante de MoisésH1696
+- Núm_36:5la tribu de...de José habla rectamenteH1696
+- Deu_1:1las palabras que habló Moisés a todoH1696
+- Deu_1:3habló a los hijos de Israel conforme aH1696
+- Deu_1:6Jehová nuestro Dios nos habló en HorebH1696
+- Deu_1:9en aquel tiempo yo os hablé diciendo: YoH559
+- Deu_1:43y os hablé, y no disteis oído; antesH1696
+- Deu_2:2, Deu_2:17Jehová me habló, diciendoH559
+- Deu_3:26basta, no me hables más de este asuntoH1696
+- Deu_4:12y habló Jehová...de en medio del fuegoH1696
+- Deu_4:15ninguna figura...el día que Jehová hablóH1696
+- Deu_4:33la voz...hablando de en medio del fuegoH1696
+- Deu_4:45que habló Moisés a los hijos de IsraelH1696
+- Deu_5:4cara a cara habló Jehová con vosotrosH1696
+- Deu_5:22estas palabras habló Jehová a todaH1696
+- Deu_5:24hemos visto que Jehová habla al hombreH1696
+- Deu_5:26Dios...que habla de en medio del fuegoH1696
+- Deu_5:28oyó Jehová la voz...cuando me hablabasH1696
+- Deu_5:28he oído la voz de...ellos te han habladoH1696
+- Deu_6:7y hablarás de ellas estando en tu casaH1696
+- Deu_9:10las palabras que os habló Jehová en elH1696
+- Deu_9:13habló Jehová, diciendo: He observadoH559
+- Deu_10:4que Jehová os había hablado en el monteH1696
+- Deu_11:2no hablo con vuestros hijos que no han
+- Deu_11:19hablando de ellas cuando te sientas enH1696
+- Deu_18:17han hablado bien en lo que han dichoH1696
+- Deu_18:18pondré mis palabras en...él les hablaráH1696
+- Deu_18:19no oyere mis palabras que él hablaráH1696
+- Deu_18:20la presunción de hablar...en mi nombreH1696
+- Deu_18:20le haya mandado hablar, o que hablaráH1696
+- Deu_18:21la palabra que Jehová no ha hablado?[[H1696]]
+- Deu_18:22hablare en nombre de Jehová, y no seH1696
+- Deu_18:22es palabra que Jehová no ha habladoH1696
+- Deu_18:22con presunción la habló el tal profetaH1696
+- Deu_20:2se pondrá en pie...y hablará al puebloH1696
+- Deu_20:5oficiales hablarán al pueblo, diciendoH1696
+- Deu_20:8volverán...a hablar al pueblo, y diránH1696
+- Deu_20:9los oficiales acaben de hablar al puebloH1696
+- Deu_22:14le atribuyera faltas que den que hablarH1697
+- Deu_22:17le atribuye faltas que dan que hablarH1697
+- Deu_25:8los ancianos...hablarán con él; y si élH1696
+- Deu_25:9hablará y dirá: Así será hecho al varónH6030
+- Deu_26:5hablarás y dirás delante de Jehová tuH6030
+- Deu_27:9Moisés...habló a todo Israel, diciendoH1696
+- Deu_27:14y hablarán los levitas, y dirán a todoH6030
+- Deu_31:1fue Moisés y habló estas palabras a todoH1696
+- Deu_31:28y hablaré en sus oídos estas palabrasH1696
+- Deu_31:30habló Moisés a oídos de...congregaciónH1696
+- Deu_32:1escuchad, cielos, y hablaré; y oiga laH1696
+- Deu_32:48habló Jehová a Moisés aquel mismo díaH1696
+- Jos_1:1que Jehová habló a Josué hijo de NunH559
+- Jos_1:12habló Josué a los rubenitas y gaditas yH559
+- Jos_3:6habló Josué a los sacerdotes, diciendoH559
+- Jos_4:1acabado de pasar...Jehová habló a JosuéH559
+- Jos_4:15luego Jehová habló a Josué, diciendoH559
+- Jos_4:21habló a los hijos de Israel, diciendoH559
+- Jos_6:8así que Josué hubo hablado al pueblo, losH559
+- Jos_7:2Josué envió hombres...les habló diciendoH559
+- Jos_9:22les habló...¿Por qué nos habéis engañadoH1696
+- Jos_10:12Josué habló a Jehová el día en queH1696
+- Jos_14:10el tiempo que Jehová habló...palabrasH1696
+- Jos_14:12monte, del cual habló Jehová aquel díaH1696
+- Jos_17:14y los hijos de José hablaron a JosuéH1696
+- Jos_20:1habló Jehová a Josué, diciendoH1696
+- Jos_20:2habla a los hijos de Israel y dilesH1696
+- Jos_20:2las ciudades...de las cuales yo os habléH1696
+- Jos_21:2hablaron en Silo en la tierra de CanaánH1696
+- Jos_22:8les habló diciendo: Volved a vuestrasH559
+- Jos_22:15fueron a los...de Rubén...les hablaronH1696
+- Jos_22:30oyendo...que hablaron los hijos de RubénH1696
+- Jos_22:33no hablaron más de subir contra ellosH559
+- Jos_24:27ella ha oído...que Jehová nos ha habladoH1696
+- Jue_2:4el ángel de...habló estas palabras aH1696
+- Jue_5:10y vosotros los que viajáis, habladH7878
+- Jue_6:17des señal de que tú has hablado conmigoH1696
+- Jue_6:39no se encienda tu ira...si aun hablareH1696
+- Jue_7:11oirás lo que hablan; y...tus manos seH1696
+- Jue_8:3el enojo...se aplacó, luego que él hablóH1696
+- Jue_8:9habló también a los de Peniel, diciendoH1696
+- Jue_9:1Abimelec...habló con ellos, y con toda laH1696
+- Jue_9:3hablaron por él los hermanos de su madreH1696
+- Jue_9:37volvió Gaal a hablar y dijo: He allíH1696
+- Jue_11:11Jefté habló...sus palabras delante deH1696
+- Jue_13:11¿eres tú...varón que habló a la mujer?[[H1696]]
+- Jue_14:7descendió...y habló a la mujer; y ellaH1696
+- Jue_15:17acabando de hablar, arrojó...la quijadaH1696
+- Jue_17:2siclos de plata...los cuales me hablasteH559
+- Jue_19:3la siguió, para hablarle amorosamenteH1696
+- Jue_19:22hablaron al anciano, dueño de la casaH559
+- Jue_19:30considerad...tomad consejo, y habladH1696
+- Jue_21:13envió...hablar a los hijos de BenjamínH1696
+- Rut_2:13has hablado al corazón de tu siervaH1696
+- Rut_4:1pariente de quien Booz había habladoH1696
+- 1Sa_1:13hablaba en su corazón, y...no se oíaH1696
+- 1Sa_1:16por...aflicción he hablado hasta ahoraH1696
+- 1Sa_3:9dirás: Habla, Jehová, porque tu siervoH1696
+- 1Sa_3:10Samuel dijo: Habla, porque tu siervoH1696
+- 1Sa_3:17dijo: ¿Qué es la palabra que te hablóH1696
+- 1Sa_3:17si me encubrieres...lo que habló contigoH1696
+- 1Sa_4:1y Samuel habló a todo Israel. Por aquelH1697
+- 1Sa_7:3habló Samuel a toda la casa de IsraelH559
+- 1Sa_9:17he aquí...es el varón del cual te habléH559
+- 1Sa_9:25descendido...habló con Saúl en el terradoH1696
+- 1Sa_10:16reino, de que Samuel le había habladoH559
+- 1Sa_14:19aún hablaba Saúl con el sacerdote, elH1696
+- 1Sa_14:28entonces habló uno del pueblo, diciendoH6030
+- 1Sa_17:23mientras él hablaba...aquel paladín queH1696
+- 1Sa_17:23Goliat...habló las mismas palabras, yH1696
+- 1Sa_17:26habló David a los que estaban junto aH559
+- 1Sa_17:28oyéndole hablar Eliab su hermano mayorH1696
+- 1Sa_17:29qué he hecho...¿No es esto mero hablar?
+- 1Sa_18:1hubo acabado de hablar con Saúl, el almaH1696
+- 1Sa_18:22hablad en secreto a David, diciéndoleH559
+- 1Sa_18:23los criados...hablaron estas palabras aH1696
+- 1Sa_19:1habló Saúl a Jonatán su hijo, y...siervosH1696
+- 1Sa_19:3yo...hablaré de ti a mi padre, y te haréH1696
+- 1Sa_19:4Jonatán habló bien de David a Saúl suH1696
+- 1Sa_20:23al asunto de que tú y yo hemos habladoH1696
+- 1Sa_25:17hombre...que no hay quien pueda hablarH1696
+- 1Sa_25:24permitas...tu sierva hable a tus oídosH1696
+- 1Sa_25:30a todo el bien que ha hablado de tiH1696
+- 1Sa_25:39envió David a hablar con Abigaíl, paraH1696
+- 1Sa_25:40vinieron a Abigaíl...hablaron con ellaH1696
+- 1Sa_28:12habló aquella mujer a Saúl, diciendoH559
+- 1Sa_30:6el pueblo hablaba de apedrearlo, puesH559
+- 2Sa_2:27que si no hubieses hablado, el puebloH1696
+- 2Sa_3:17habló Abner con los ancianos de IsraelH1697
+- 2Sa_3:18Jehová ha hablado a David, diciendoH559
+- 2Sa_3:19habló también Abner a los de BenjamínH1696
+- 2Sa_3:27Joab lo llevó aparte...para hablar conH1696
+- 2Sa_5:1todas las tribus de...a David...y hablaronH559
+- 2Sa_5:6hablaron a David...Tú no entrarás acáH559
+- 2Sa_6:22seré honrado delante de las...has habladoH559
+- 2Sa_7:7¿he hablado yo...a alguna de las tribusH1696
+- 2Sa_7:17estas palabras...así habló Natán a DavidH1696
+- 2Sa_7:19has hablado de la casa de tu siervo enH1696
+- 2Sa_7:20¿y qué más puede añadir David hablandoH1696
+- 2Sa_7:25confirma...la palabra que has habladoH1696
+- 2Sa_12:18le hablábamos, y no quería oír nuestraH1696
+- 2Sa_12:19David, viendo a sus siervos hablarH3907
+- 2Sa_13:13que hables al rey, que él no me negaráH1696
+- 2Sa_13:22Absalón no habló con Amnón ni malo niH1696
+- 2Sa_13:32Jonadab...habló...No diga mi señor queH6030
+- 2Sa_13:36cuando él acabó de hablar...vinieronH1696
+- 2Sa_14:3entrarás...y le hablarás de esta maneraH1696
+- 2Sa_14:10al que hablare contra ti, tráelo a miH1696
+- 2Sa_14:12hable una palabra a...Y él dijo: HablaH1696
+- 2Sa_14:13hablando el rey esta palabra, se haceH1696
+- 2Sa_14:15hablaré ahora al rey; quizá él hará loH1696
+- 2Sa_14:18la mujer dijo: Hable mi señor el reyH1696
+- 2Sa_14:19todo lo que mi señor el rey ha habladoH1696
+- 2Sa_17:6habló Absalón, diciendo: Así ha dichoH559
+- 2Sa_19:7pues...vé afuera y habla...a tus siervosH1696
+- 2Sa_19:11envió...Hablad a los ancianos de JudáH1696
+- 2Sa_19:43¿no hablamos nosotros los primerosH1697
+- 2Sa_20:16que venga acá, para que yo hable con élH1696
+- 2Sa_20:18entonces volvió ella a hablar, diciendoH559
+- 2Sa_21:2rey llamó a los gabaonitas, y les hablóH559
+- 2Sa_22:1habló David a Jehová las palabras deH1696
+- 2Sa_23:2el Espíritu de Jehová ha hablado por míH1696
+- 2Sa_23:3me habló la Roca de Israel: Habrá unH1696
+- 1Re_1:11entonces habló Natán a Betsabé madreH559
+- 1Re_1:14estando tú aún hablando con el rey, yoH1696
+- 1Re_1:22mientras aún hablaba ella con el reyH1696
+- 1Re_1:42mientras él aún hablaba...vino JonatánH1696
+- 1Re_2:4confirme Jehová la palabra que me hablóH1696
+- 1Re_2:16hago una petición...ella le dijo: HablaH1696
+- 1Re_2:17yo te ruego que hables al rey SalomónH559
+- 1Re_2:18dijo: Bien; yo hablaré por ti al reyH1696
+- 1Re_2:19Betsabé al rey...hablarle por AdoníasH1696
+- 1Re_2:23que contra su vida ha hablado AdoníasH1696
+- 1Re_3:22la otra...así hablaban delante del reyH1696
+- 1Re_3:26la mujer de quien era el...habló al reyH559
+- 1Re_5:5según...que Jehová habló a David mi padreH559
+- 1Re_6:12cumpliré...mi palabra que hablé a DavidH1696
+- 1Re_8:15bendito sea Jehová...que habló a DavidH1696
+- 1Re_9:5como hablé a David tu padre, diciendoH1696
+- 1Re_12:3vino, pues...Israel, y hablaron a RoboamH1696
+- 1Re_12:7le hablaron diciendo: Si tú fueres hoyH1696
+- 1Re_12:7respondiéndoles...palabras les hablaresH1696
+- 1Re_12:9que me ha hablado diciendo: DisminuyeH1696
+- 1Re_12:10así hablarás a este pueblo que te haH1696
+- 1Re_12:10así les hablarás: El menor dedo de losH559
+- 1Re_12:14les habló conforme al consejo de losH1696
+- 1Re_12:15palabra que Jehová había hablado porH1697
+- 1Re_12:23habla a Roboam hijo de Salomón, rey deH559
+- 1Re_13:3esta es la señal de que Jehová ha habladoH1696
+- 1Re_13:11las palabras que había hablado al reyH1696
+- 1Re_13:18soy profeta...y un ángel me ha habladoH1696
+- 1Re_13:27habló a sus hijos...Ensilladme un asnoH1696
+- 1Re_13:31habló a sus hijos, diciendo: Cuando yoH559
+- 1Re_14:18la cual él había hablado por su...AhíasH1696
+- 1Re_15:29que Jehová habló por su siervo AhíasH1696
+- 1Re_16:34palabra que había hablado por JosuéH1696
+- 1Re_20:28el varón de Dios...y le habló diciendoH559
+- 1Re_21:2Acab habló a Nabot...Dame tu viña paraH1696
+- 1Re_21:6hablé con Nabot de Jezreel, y le dijeH1696
+- 1Re_21:19y le hablarás diciendo...¿No mataste, yH1696
+- 1Re_21:19volverás a hablarle, diciendo: Así haH1696
+- 1Re_21:23de Jezabel también ha hablado JehováH1696
+- 1Re_22:8y Josafat dijo: No hable el rey asíH559
+- 1Re_22:13a Micaías, le habló diciendo: He aquíH1696
+- 1Re_22:14que lo que Jehová me hablare, eso diréH559
+- 1Re_22:24se fue de mi el...para hablarte a ti?[[H1696]]
+- 1Re_22:28volver en paz, Jehová no ha hablado porH1696
+- 1Re_22:38la palabra que Jehová había habladoH1696
+- 2Re_1:3ángel de Jehová habló a Elías tisbitaH1696
+- 2Re_1:11le habló y dijo: Varón de Dios, el reyH6030
+- 2Re_1:17la palabra de Jehová, que había habladoH1696
+- 2Re_2:11que yendo ellos y hablando...un carro deH1696
+- 2Re_2:22conforme a la palabra que habló EliseoH1696
+- 2Re_4:13¿necesitas que hable por ti al rey, oH1696
+- 2Re_5:13mas sus criados...le hablaron diciendoH1696
+- 2Re_6:12declara...las palabras que tú hablas enH1696
+- 2Re_6:33aún estaba él hablando con ellos, y heH1696
+- 2Re_7:18el varón de Dios había hablado al reyH1696
+- 2Re_8:1habló Eliseo a aquella mujer a cuyo hijoH1696
+- 2Re_8:4y había el rey hablado con Giezi, criadoH1696
+- 2Re_9:12me habló, diciendo: Así ha dicho JehováH559
+- 2Re_9:36la cual él habló por medio de su siervoH1696
+- 2Re_10:10que Jehová habló sobre la casa de AcabH1696
+- 2Re_10:17palabra...que había hablado por ElíasH1696
+- 2Re_14:25él había hablado por su siervo JonásH1696
+- 2Re_15:12la palabra...que había hablado a JehúH1696
+- 2Re_18:26te rogamos que hables a tus siervosH1696
+- 2Re_18:26no hables...en lengua de Judá a oídosH1696
+- 2Re_18:28el Rabsaces...habló diciendo: Oíd laH1696
+- 2Re_20:19la palabra...que has hablado, es buenaH1696
+- 2Re_21:10habló...Jehová por medio de...profetasH1696
+- 2Re_22:14la profetisa Hulda...hablaron con ellaH1696
+- 2Re_22:16todo el mal de que habla este libroH1697
+- 2Re_24:2palabra...había hablado por...profetasH1696
+- 2Re_25:28le habló con benevolencia, y puso suH1696
+- 1Cr_12:17David...habló diciendo: Si habéisH6030
+- 1Cr_16:9cantad a él...hablad de...sus maravillasH7878
+- 1Cr_17:6¿hablé una palabra...una casa de cedro?[[H1696]]
+- 1Cr_17:15conforme a todas...habló Natán a DavidH1696
+- 1Cr_17:17que has hablado de la casa de tu siervoH1696
+- 1Cr_17:23la palabra que has hablado...sea firmeH1696
+- 1Cr_17:26el Dios que has hablado de tu siervoH1696
+- 1Cr_21:9y habló Jehová a Gad, vidente de DavidH1696
+- 1Cr_21:10habla a David, y dile: Así ha dichoH1696
+- 1Cr_21:27Jehová habló al ángel, y éste volvióH559
+- 2Cr_9:1habló con...lo que en su corazón teníaH1696
+- 2Cr_10:3Jeroboam, y todo...y hablaron a RoboamH1696
+- 2Cr_10:7les hablares, buenas palabras, ellos teH1696
+- 2Cr_10:9me ha hablado, diciendo: Alivia algo deH1696
+- 2Cr_10:10así dirás al pueblo que te ha habladoH1696
+- 2Cr_10:14les habló conforme al consejo de losH1696
+- 2Cr_10:15la palabra que había hablado por AhíasH1696
+- 2Cr_11:3habla a Roboam hijo de Salomón rey deH559
+- 2Cr_18:7respondió Josafat: No hable así el reyH559
+- 2Cr_18:12a llamar a Micaías, le habló diciendoH1696
+- 2Cr_18:12yo, pues, te ruego...que hables bienH1696
+- 2Cr_18:13lo que mi Dios me dijere, eso hablaréH1696
+- 2Cr_18:15te...que no me hables sino la verdad?[[H1696]]
+- 2Cr_18:22pues Jehová ha hablado el mal contra tiH1696
+- 2Cr_18:23se fue de mí el...para hablarte a ti?[[H1696]]
+- 2Cr_18:27en paz, Jehová no ha hablado por miH1696
+- 2Cr_25:16hablándole el profeta...él le respondióH1696
+- 2Cr_25:16cuando terminó de hablar, el profetaH559
+- 2Cr_30:22habló Ezequías al corazón de todos losH1696
+- 2Cr_32:6y habló al corazón de ellos, diciendoH1696
+- 2Cr_32:16otras cosas más hablaron sus siervosH1696
+- 2Cr_32:17blasfemaba contra Jehová...y hablabaH559
+- 2Cr_32:19hablaron contra el Dios de JerusalénH1696
+- 2Cr_33:10habló Jehová a Manasés y a su puebloH1696
+- 2Cr_33:18videntes que le hablaron en nombre deH1696
+- 2Cr_36:12Jeremías, que le hablaba de parte de
+- Esd_8:17las palabras que habían de hablar aH1696
+- Esd_8:22habíamos hablado al rey, diciendo: LaH559
+- Neh_4:2habló delante de sus hermanos y delH559
+- Neh_6:12que hablaba aquella profecía contra míH1696
+- Neh_9:13hablaste con ellos desde el cielo, y lesH1696
+- Neh_13:24la mitad...hablaban la lengua de AsdodH1696
+- Neh_13:24porque no sabían hablar judaico, sinoH1696
+- Neh_13:24hablaban conforme a la lengua de cada
+- Est_3:4hablándole cada día de esta maneraH559
+- Est_6:4venido al patio...para hablarle al reyH559
+- Est_6:14estaban ellos hablando con él, cuandoH1696
+- Est_7:9el cual había hablado bien por el reyH1696
+- Est_8:3volvió...Ester a hablar delante del reyH1696
+- Est_10:3porque...habló paz para todo su linajeH1696
+- Job_1:16-17, Job_1:18estaba éste hablando...vino otroH1696
+- Job_2:10dijo: Como suele hablar cualquiera deH559
+- Job_2:10como...las mujeres fatuas, has habladoH1696
+- Job_2:13y ninguno le hablaba palabra, porqueH1696
+- Job_4:2probáramos a hablarte, te será molestoH1697
+- Job_7:11hablaré en la angustia de mi espírituH1696
+- Job_8:2¿hasta cuándo hablarás tales cosas, y lasH4448
+- Job_8:10te hablarán, y de su corazón sacaránH559
+- Job_9:14yo, y hablaré con él palabras escogidas?[[H6030]]
+- Job_9:19si habláramos de su potencia...es fuerte
+- Job_9:35hablaré, y no le temeré; porque en esteH1696
+- Job_10:1queja; hablaré con amargura de mi almaH1696
+- Job_11:2el hombre que habla...será justificado?[[H8193]]
+- Job_11:5mas ¡oh quién diera que Dios hablaraH1696
+- Job_12:8habla a la tierra, y ella te enseñaráH7878
+- Job_13:3mas yo hablaría con el Todopoderoso, yH1696
+- Job_13:7hablaréis iniquidad...h por él egaño?[[H1696]]
+- Job_13:13hablaré yo, y que me venga después loH1696
+- Job_13:22llama...o yo hablaré, y respóndeme túH1696
+- Job_15:5has escogido el hablar de los astutosH3956
+- Job_16:4también yo podría hablar como vosotrosH1696
+- Job_16:6si hablo, mi dolor no cesa; y si dejoH1696
+- Job_16:6si dejo de hablar, no se aparta de miH2308
+- Job_18:2¿cuándo...Entended, y después hablemosH1696
+- Job_19:18aun...al levantarme, hablaban contra míH1696
+- Job_21:3yo hablaré; y después que haya habladoH1696
+- Job_23:2también hablará con amargura; porqueH7879
+- Job_27:4mis labios no hablarán iniquidad, ni miH1696
+- Job_32:7los días hablarán, y la muchedumbre deH1696
+- Job_32:16yo, pues, he esperado, pero no hablabanH1696
+- Job_32:20hablaré...respiraré; abriré mis labiosH1696
+- Job_32:22porque no sé hablar lisonjas; de otraH3655
+- Job_33:2boca, y mi lengua hablará en mi gargantaH1696
+- Job_33:3mis labios, lo hablarán con sinceridadH4448
+- Job_33:12en esto no has hablado justamente
+- Job_33:14una o en dos maneras habla Dios; peroH1696
+- Job_33:31escucha, Job, y óyeme...y yo hablaréH1696
+- Job_33:32habla, porque yo te quiero justificarH1696
+- Job_34:35que Job no habla con sabiduría, y queH1696
+- Job_37:20preciso contarle cuando yo hablaré?[[H1696]]
+- Job_40:5una vez hablé, mas no responderé; aunH1696
+- Job_40:5aun dos veces, mas no volveré a hablar
+- Job_41:3para contigo? ¿Te hablará él lisonjas?[[H1696]]
+- Job_42:3yo hablaba lo que no entendía; cosas
+- Job_42:4oye, te ruego, y hablaré; te preguntaréH1696
+- Job_42:7que habló Jehová estas palabras a JobH1696
+- Job_42:7no habéis hablado de mí lo recto, comoH1696
+- Job_42:8no habéis hablado de mí con rectitudH1696
+- Sal_2:5hablará a ellos en su furor, y...iraH1696
+- Sal_5:6destruirás a los que hablan mentira; alH1696
+- Sal_5:9maldad...con su lengua hablan lisonjas
+- Sal_12:2habla mentira cada uno con su prójimoH1696
+- Sal_12:2hablan con labios lisonjeros, y...doblezH1696
+- Sal_12:3destruirá...que habla jactanciosamenteH1696
+- Sal_15:2justicia, y habla verdad en su corazónH1696
+- Sal_17:10con su boca hablan arrogantementeH1696
+- Sal_28:3los cuales hablan paz con sus prójimosH1696
+- Sal_31:18que hablan contra el justo cosas durasH1696
+- Sal_34:13guarda...tus labios de hablar engañoH1696
+- Sal_35:20no hablan paz; y contra los mansos deH1696
+- Sal_35:28mi lengua hablará de tu justicia y deH1897
+- Sal_37:30del justo habla sabiduría...h justiciaH1897
+- Sal_38:12que procuran mi mal hablan iniquidadesH1696
+- Sal_40:5si yo anunciare y hablare de ellos, noH1696
+- Sal_41:6si vienen a verme, hablan mentira; suH1696
+- Sal_49:3mi boca hablará sabiduría...inteligenciaH1696
+- Sal_50:1el Dios de dioses, Jehová, ha habladoH1696
+- Sal_50:7oye, pueblo mío, y hablaré; escuchaH1696
+- Sal_50:16¿qué tienes...que hablar de mis leyesH5608
+- Sal_50:20hablabas contra tu hermano; contra elH1696
+- Sal_58:3se descarriaron hablando mentira desdeH1696
+- Sal_62:11una vez habló Dios; dos veces he oídoH1696
+- Sal_63:11la boca de los que hablan mentira seráH1696
+- Sal_66:14que pronunciaron mis labios y hablóH1696
+- Sal_69:12hablaban contra mí los...a la puertaH7878
+- Sal_71:10mis enemigos hablan de mí, y los queH559
+- Sal_71:24mi lengua hablará...de tu justicia todoH1897
+- Sal_73:8hablan con maldad de...h con altaneríaH1696
+- Sal_73:15si dijera yo: Hablaré como ellos, heH5608
+- Sal_75:5alarde...no habléis con cerviz erguidaH1696
+- Sal_77:4estaba yo quebrantado, y no hablabaH1696
+- Sal_77:12meditaré en...y hablaré de tus hechosH7878
+- Sal_78:2abriré mi boca...hablaré cosas escondidasH5042
+- Sal_78:19hablaron contra Dios, diciendo: ¿PodráH1696
+- Sal_85:8escucharé lo que hablará Jehová DiosH1696
+- Sal_85:8hablará paz a su pueblo y a sus santosH1696
+- Sal_89:19entonces hablaste en visión a tu santoH1696
+- Sal_94:4¿hasta cuándo...hablarán cosas duras, yH1696
+- Sal_99:7en columna de nube hablaba con ellosH1696
+- Sal_101:7el que habla mentiras no se afirmaráH1696
+- Sal_105:2cantadle...hablad de...sus maravillasH7878
+- Sal_105:31habló, y vinieron enjambres de moscasH559
+- Sal_105:34habló, y vinieron langostas, y pulgónH559
+- Sal_106:33habló precipitadamente con sus labiosH981
+- Sal_107:25porque habló e hizo levantar...vientoH559
+- Sal_109:2han hablado de mí con lengua mentirosaH1696
+- Sal_109:20a los que hablan mal contra mi almaH1696
+- Sal_115:5tienen boca, mas no hablan; tienenH1696
+- Sal_115:7no andan; no hablan con su gargantaH1897
+- Sal_116:10creí; por tanto hablé...afligido enH1696
+- Sal_119:23príncipes también...hablaron contra míH1696
+- Sal_119:46hablaré de tus testimonios delante deH1696
+- Sal_119:172hablará mi lengua tus dichos, porqueH6030
+- Sal_120:7ellos, así que hablo, me hacen guerraH1696
+- Sal_127:5no será avergonzado cuando hablare conH1696
+- Sal_135:16tienen boca, y no hablan; tienen ojosH1696
+- Sal_144:8, Sal_144:11cuya boca habla vanidad...mentiraH1696
+- Sal_145:6de tus hechos...hablarán los hombresH559
+- Sal_145:11gloria...digan, y hablen de tu poderH559
+- Pro_2:12los hombres que hablan perversidadesH1696
+- Pro_6:13que habla con los pies, que hace señasH4448
+- Pro_6:19el testigo falso que habla mentirasH6315
+- Pro_6:22te...hablarán contigo cuando despiertesH7878
+- Pro_8:6oíd, porque hablaré cosas excelentes, yH1696
+- Pro_8:7porque mi boca hablará verdad...mis labiosH1897
+- Pro_10:32labios del justo saben hablar lo que
+- Pro_10:32boca de los impíos habla perversidades
+- Pro_12:17el que habla verdad declara justiciaH6315
+- Pro_14:5mas el testigo falso hablará mentirasH6315
+- Pro_14:25el testigo...engañoso hablará mentirasH6315
+- Pro_15:2la boca de los necios hablará sandecesH5042
+- Pro_16:13los reyes...aman al que habla lo rectoH1696
+- Pro_18:23el pobre habla con ruegos, mas el ricoH1696
+- Pro_19:5y el que habla mentiras no escaparáH6315
+- Pro_19:9falso...el que habla mentiras pereceráH6315
+- Pro_23:9no hables a oídos del necio, porqueH1696
+- Pro_23:16cuando...labios hablaren cosas rectasH1696
+- Pro_23:33y tu corazón hablará perversidadesH1696
+- Pro_24:2en robar, o iniquidad hablan sus labiosH1696
+- Pro_25:18el hombre que habla contra su prójimoH6030
+- Pro_26:25hablare amigablemente, no le creasH6963
+- Ecl_1:16hablé yo en mi corazón, diciendo: HeH1696
+- Ecl_3:7tiempo de callar, y tiempo de hablarH1696
+- Ecl_7:21cosas que se hablan, para que no oigasH1696
+- Cnt_2:10mi amado habló, y me dijo: LevántateH6030
+- Cnt_5:6tras su hablar salió mi alma...lo busquéH1696
+- Cnt_7:9y hace hablar los labios de los viejosH1680
+- Cnt_8:8¿qué haremos...cuando de ella se hablare?[[H1696]]
+- Isa_1:2oíd, cielos...habla Jehová: Crie hijosH1696
+- Isa_7:10habló también Jehová a Acaz, diciendoH1696
+- Isa_8:5vez volvió Jehová a hablarme, diciendoH1696
+- Isa_8:19a los adivinos, que susurran hablandoH1897
+- Isa_9:17falsos...toda boca habla despropósitosH1696
+- Isa_16:14Jehová ha hablado, diciendo: Dentro deH1696
+- Isa_19:18que hablen la lengua de Canaán, y queH1696
+- Isa_20:2en aquel tiempo habló Jehová por medioH1696
+- Isa_21:9después habló y dijo: Cayó...BabiloniaH6030
+- Isa_22:25echará a perder; porque Jehová hablóH1696
+- Isa_23:4el mar...habló, diciendo: Nunca estuveH559
+- Isa_28:11extraña lengua hablará a este puebloH1696
+- Isa_29:4hablarás desde la tierra, y tu hablaH1696
+- Isa_32:4lengua de los tartamudos hablará rápidaH1696
+- Isa_32:6porque el ruin hablará ruindades, y suH1696
+- Isa_32:6para cometer impiedad...hablar escarnioH1696
+- Isa_32:7para hablar en juicio contra el pobreH1696
+- Isa_33:15camina en justicia y habla lo rectoH1696
+- Isa_36:5el consejo y...poderío de que tú hablas
+- Isa_36:11que hables a...en arameo...y no h conH1696
+- Isa_37:22las palabras que Jehová habló contraH1696
+- Isa_39:8la palabra de Jehová que has hablado esH1696
+- Isa_40:2hablad al corazón de Jerusalén; decidleH1696
+- Isa_40:5porque la boca de Jehová ha habladoH1696
+- Isa_40:27¿por qué dices, oh Jacob, y hablas túH1696
+- Isa_41:1acérquense, y entonces hablen; estemosH1696
+- Isa_43:26juntamente; habla tú para justificarteH5608
+- Isa_45:19no hablé en secreto...un lugar oscuroH1696
+- Isa_45:19yo soy Jehová que hablo justicia, queH1696
+- Isa_46:11hablé, y lo haré venir; lo he pensadoH1696
+- Isa_48:15yo, yo hablé, y le llamé y te trajeH1696
+- Isa_48:16desde el principio no hablé en secretoH1696
+- Isa_50:4para saber hablar palabras al cansadoH5790
+- Isa_52:6mismo que hablo...aquí estaré presenteH1696
+- Isa_56:3y el extranjero que...no hable diciendoH559
+- Isa_58:9el dedo amenazador, y el hablar vanidadH1696
+- Isa_58:13tu voluntad, ni hablando tus...palabrasH1696
+- Isa_58:14porque la boca de Jehová lo ha habladoH1696
+- Isa_59:3mentira, habla maldad vuestra lenguaH1696
+- Isa_59:4confían en vanidad, y hablan vanidadesH1696
+- Isa_59:13mentir...el hablar calumnia y rebeliónH1696
+- Isa_63:1el que hablo en justicia, grande paraH1696
+- Isa_65:12por cuanto llamé...hablé, y no oísteisH1696
+- Isa_65:24mientras aún hablan, yo habré oídoH1696
+- Isa_66:4hablé, y no oyeron, sino que hicieronH1696
+- Jer_1:6yo dije...no sé hablar, porque soy niñoH1696
+- Jer_1:17ciñe tus lomos, levántate, y háblalesH1696
+- Jer_3:5que has hablado y hecho cuantas maldadesH1696
+- Jer_4:28hablé, lo pensé, y no me arrepentí, niH1696
+- Jer_5:5iré a los grandes, y les hablaré; porqueH1696
+- Jer_5:15lengua...y no entenderás lo que hablareH1696
+- Jer_6:10¿a quién hablaré y amonestaré, para queH1696
+- Jer_7:13os hablé...no oísteis, y os llamé, y noH1696
+- Jer_7:22porque no hablé yo con vuestros padresH1696
+- Jer_8:6no hablan rectamente, no hay hombre queH1696
+- Jer_9:5cada uno engaña...y ninguno habla verdadH1696
+- Jer_9:5acostumbraron...lengua a hablar mentiraH1696
+- Jer_9:8engaño habla; con su boca dice paz a suH1696
+- Jer_9:12a quién habló la boca de Jehová, paraH1696
+- Jer_9:22habla: Así ha dicho Jehová: Los cuerposH1696
+- Jer_10:1la palabra que Jehová ha hablado sobreH1696
+- Jer_10:5derechos...como palmera, y no hablan; sonH1696
+- Jer_11:2oíd las palabras de...pacto, y hablad aH1696
+- Jer_12:6no los creas cuando bien te hablenH1696
+- Jer_13:15escuchad y oíd...pues Jehová ha habladoH1696
+- Jer_14:14no...envié, ni les mandé, ni les habléH1696
+- Jer_18:7en un instante hablaré contra pueblosH1696
+- Jer_18:8de su maldad contra la cual hablé, yoH1696
+- Jer_18:9en un instante hablaré de la gente y delH1696
+- Jer_18:11habla luego a todo hombre de Judá y aH559
+- Jer_18:20me puse delante de ti para hablar bienH1696
+- Jer_19:2allí las palabras que yo te hablaréH1696
+- Jer_19:5cosa que no les mandé, ni hablé, ni meH1696
+- Jer_19:15traigo...todo el mal que hablé contraH1696
+- Jer_20:8cuantas veces hablo, doy voces, gritoH1696
+- Jer_20:9dije: No...ni hablaré más en su nombreH1696
+- Jer_22:1desciende a...y habla allí esta palabraH1696
+- Jer_22:21te he hablado en tus prosperidades, masH1696
+- Jer_23:16hablan visión de su propio corazón, noH1696
+- Jer_23:21no les hablé, mas ellos profetizabanH1696
+- Jer_23:35¿qué ha respondido...qué habló Jehová?[[H1696]]
+- Jer_23:37¿qué te respondió...y qué habló Jehová?[[H1696]]
+- Jer_25:2la cual habló el profeta Jeremías a todoH1696
+- Jer_25:3he hablado desde temprano y sin cesarH1696
+- Jer_25:13y traeré...mis palabras que he habladoH1696
+- Jer_26:2habla...palabras que...te mandé hablarlesH1696
+- Jer_26:7oyeron a Jeremías hablar estas palabrasH1696
+- Jer_26:8cuando terminó de hablar Jeremías todoH1696
+- Jer_26:8Jehová le había mandado que hablase aH1696
+- Jer_26:11hablaron los sacerdotes y los profetasH559
+- Jer_26:12habló Jeremías a todos los príncipesH559
+- Jer_26:13se arrepentirá...del mal que ha habladoH1696
+- Jer_26:16nombre de Jehová...Dios nos ha habladoH1696
+- Jer_26:17ancianos...hablaron a toda la reuniónH559
+- Jer_26:18Miqueas de...habló a todo el pueblo deH559
+- Jer_26:19arrepintió del mal que había habladoH1696
+- Jer_27:9hablan diciendo: No serviréis al rey deH559
+- Jer_27:12hablé también a Sedequías rey de JudáH1696
+- Jer_27:14los profetas que os hablan diciendo: NoH559
+- Jer_27:16a todo este pueblo hablé...No oigáis lasH1696
+- Jer_28:1Hananías...habló en la casa de JehováH559
+- Jer_28:2así habló Jehová...Quebranté el yugo delH559
+- Jer_28:7oye ahora esta palabra que yo hablo enH1696
+- Jer_28:11y habló Hananías en presencia de todoH559
+- Jer_28:13vé y habla a Hananías, diciendo: AsíH559
+- Jer_28:16morirás en...porque hablaste rebeliónH1696
+- Jer_29:23y falsamente hablaron en mi nombreH1696
+- Jer_29:24a Semaías de Nehelam hablarás, diciendoH559
+- Jer_29:25así habló Jehová...Tu enviaste cartas enH559
+- Jer_29:32contra Jehová ha hablado rebeliónH1696
+- Jer_30:2habló Jehová Dios de Israel, diciendoH559
+- Jer_30:2escríbete...palabras que te he habladoH1696
+- Jer_30:4las palabras que habló Jehová acerca deH1696
+- Jer_31:20desde que hablé de él, me he acordadoH1696
+- Jer_32:4hablará con él boca a boca, y sus ojosH1696
+- Jer_32:42todo el bien que acerca de ellos habloH1696
+- Jer_33:14la buena palabra que he hablado a laH1696
+- Jer_33:24ver lo que habla este pueblo, diciendoH1696
+- Jer_34:2vé y habla a Sedequías rey de Judá, yH559
+- Jer_34:3te hablará boca a boca, y en BabiloniaH1696
+- Jer_34:5porque yo he hablado la palabra, diceH1696
+- Jer_34:6habló el profeta Jeremías a SedequíasH1696
+- Jer_35:2habla con ellos, e introdúcelos en laH1696
+- Jer_35:14yo os he hablado...temprano y sin cesarH1696
+- Jer_35:17mal que...he hablado; porque les habléH1696
+- Jer_36:2las palabras que te he hablado contraH1696
+- Jer_36:2el día que comencé a hablarte...hasta hoyH1696
+- Jer_36:4las palabras que Jehová le había habladoH1696
+- Jer_38:1palabras que Jeremías hablaba a todo elH1696
+- Jer_38:4hace desmayar las...hablándoles...palabrasH1696
+- Jer_38:8Ebed-melec salió de la casa del rey y hablóH1696
+- Jer_38:20oye...la voz de Jehová que yo te habloH1696
+- Jer_38:25he hablado...Decláranos ahora qué hablasteH1696
+- Jer_39:16y habla a Ebed-melec etíope, diciendoH559
+- Jer_40:2le dijo: Jehová tu Dios habló este malH1696
+- Jer_40:15Johanán...habló a Gedalías en secretoH559
+- Jer_42:19Jehová habló sobre vosotros, oh...JudáH1696
+- Jer_43:1Jeremías acabó de hablar a...el puebloH1696
+- Jer_44:16palabra que nos has hablado en nombreH1696
+- Jer_44:20y habló Jeremías a todo el pueblo, aH559
+- Jer_44:25hablado Jehová...Vosotros...hablasteisH1696
+- Jer_45:1palabra que habló el profeta JeremíasH1696
+- Jer_46:13que habló Jehová al profeta JeremíasH1696
+- Jer_48:27cuando de él hablaste...te has burladoH1697
+- Jer_50:1palabra...habló Jehová contra BabiloniaH1696
+- Jer_52:32y habló con él amigablemente, e hizoH1696
+- Eze_1:28postré...oí la voz de uno que hablabaH1696
+- Eze_2:1ponte sobre tus pies, y hablaré contigoH1696
+- Eze_2:2luego que me habló, entró el Espíritu enH1696
+- Eze_2:2sobre mis pies, y oí al que me hablabaH1696
+- Eze_2:7hablarás, pues, mis palabras, escuchen oH1696
+- Eze_2:8oye lo que yo te hablo; no seas rebeldeH1696
+- Eze_3:1come este rollo, y vé y habla a la casaH1696
+- Eze_3:4entra a la casa de Israel, y habla a ellosH1696
+- Eze_3:10todas mis palabras que yo te hablaréH1696
+- Eze_3:11vé y entra a los cautivos...y háblalesH1696
+- Eze_3:18no le amonestares ni le hablares, paraH1696
+- Eze_3:22y sal al campo, y allí hablaré contigoH1696
+- Eze_3:24habló, y me dijo: Entra, y enciérrateH1696
+- Eze_3:27cuando yo te hubiere hablado, abriré tuH1696
+- Eze_5:13sabrán que yo Jehová he hablado en miH1696
+- Eze_5:15serás oprobio y...Yo Jehová he habladoH1696
+- Eze_5:17enviaré sobre ti...Yo Jehová he habladoH1696
+- Eze_10:2y habló al varón vestido de lino, y leH559
+- Eze_10:5la voz del Dios Omnipotente cuando hablaH1696
+- Eze_11:5así habéis hablado, oh casa de IsraelH559
+- Eze_11:25hablé a los cautivos todas las cosasH1696
+- Eze_12:25hablaré, y se cumplirá la...que yo hableH1696
+- Eze_12:25hablaré palabra y la cumpliré, diceH1696
+- Eze_12:28que la palabra que yo hable se cumpliráH1696
+- Eze_13:7que decís: Dijo...no habiendo yo hablado?[[H559]]
+- Eze_13:8cuanto vosotros habéis hablado vanidadH1696
+- Eze_14:4háblales...y diles: Así ha dicho JehováH1696
+- Eze_14:9el profeta fuere engañado y hablareH1696
+- Eze_17:21y sabréis que yo Jehová he habladoH1696
+- Eze_20:3hijo de...habla a los ancianos de IsraelH1696
+- Eze_20:27habla a la casa de Israel, y diles: AsíH1696
+- Eze_21:17reposar mi ira. Yo Jehová he habladoH1696
+- Eze_21:32pasto del fuego...yo Jehová he habladoH1696
+- Eze_22:14ti? Yo Jehová he hablado, y lo haréH1696
+- Eze_22:28ha dicho...y Jehová no había habladoH1696
+- Eze_23:34yo he hablado, dice Jehová el SeñorH1696
+- Eze_24:3habla por parábola a la casa rebeldeH4911
+- Eze_24:14yo Jehová he hablado; vendrá, y yo loH1696
+- Eze_24:18hablé al pueblo por la mañana, y a laH1696
+- Eze_24:27se abrirá tu boca para hablar con el
+- Eze_24:27hablarás, y no estarás más mudo; y lesH1696
+- Eze_26:5, Eze_26:14yo he hablado, dice Jehová el SeñorH1696
+- Eze_28:9¿hablarás delante del que te mateH559
+- Eze_28:10yo he hablado, dice Jehová el SeñorH1696
+- Eze_29:3habla y di...ha dicho Jehová el SeñorH1696
+- Eze_30:12secaré los ríos...Yo Jehová he habladoH1696
+- Eze_32:21de en medio del Seol hablarán a él losH1696
+- Eze_33:2hijo de...habla a los hijos de tu puebloH1696
+- Eze_33:8si tú no hablares para que se guarde elH1696
+- Eze_33:10vosotros habéis hablado así, diciendoH559
+- Eze_33:24hablan diciendo: Abraham era uno, yH559
+- Eze_33:30habla el uno con el otro, cada uno conH1696
+- Eze_34:24les seré por Dios...Yo Jehová he habladoH1696
+- Eze_36:5he hablado por...en el fuego de mi celoH1696
+- Eze_36:6he hablado, por cuanto habéis llevadoH1696
+- Eze_36:36que...yo Jehová he hablado, y lo haréH1696
+- Eze_37:14sabréis que yo Jehová hablé, y lo hiceH1696
+- Eze_38:17¿no eres tú aquel de quien hablé yo enH1696
+- Eze_38:19he hablado en mi celo, y en el fuegoH1696
+- Eze_39:5yo he hablado, dice Jehová el SeñorH1696
+- Eze_39:8viene, y...es el día del cual he habladoH1696
+- Eze_40:4me habló aquel varón, diciendo: Hijo deH1696
+- Eze_43:6y oí uno que me hablaba desde la casaH1696
+- Eze_44:5oye con tus oídos todo lo que yo habloH1696
+- Dan_1:19el rey habló con ellos, y no fueronH1696
+- Dan_2:4hablaron los caldeos al rey en...arameoH1696
+- Dan_2:14Daniel habló sabia y prudentemente aH8421
+- Dan_2:15habló y dijo a Arioc capitán del reyH6032
+- Dan_2:20y Daniel habló y dijo: Sea bendito elH6032
+- Dan_2:47rey habló a Daniel...Ciertamente el DiosH6032
+- Dan_3:9hablaron y dijeron al rey NabucodonosorH560
+- Dan_3:14habló Nabucodonosor...dijo: ¿Es verdadH6032
+- Dan_4:19el rey habló y dijo: Beltsasar, no teH6032
+- Dan_4:30habló el rey y dijo: ¿No es ésta la granH6032
+- Dan_6:12y le hablaron del edicto real: ¿No hasH560
+- Dan_7:8, Dan_7:20una boca que hablaba grandes cosasH4449
+- Dan_7:11grandes palabras que hablaba el cuernoH4449
+- Dan_7:16me habló, y me hizo conocer...las cosasH560
+- Dan_7:25y hablará palabras contra el AltísimoH4449
+- Dan_8:13oí a un santo que hablaba; y otro deH559
+- Dan_8:13preguntó a aquel que hablaba: ¿HastaH1696
+- Dan_8:18hablaba conmigo, caí dormido en tierraH1696
+- Dan_9:2número de los años de que habló JehováH1697
+- Dan_9:6en tu nombre hablaron a nuestros reyesH1696
+- Dan_9:12y él ha cumplido la palabra que hablóH1696
+- Dan_9:20estaba hablando y orando, y confesandoH1696
+- Dan_9:21aún estaba hablando en oración, cuandoH1696
+- Dan_9:22habló conmigo, diciendo: Daniel, ahoraH1696
+- Dan_10:11atento a las palabras que te hablaréH1696
+- Dan_10:11mientras hablaba esto, me puse en pieH1696
+- Dan_10:16y hablé, y dije al que estaba delanteH1696
+- Dan_10:17¿cómo...podrá el...hablar con mi señor?[[H1696]]
+- Dan_10:19y mientras él me hablaba, recobré lasH1696
+- Dan_10:19habla mi señor...me has fortalecidoH1696
+- Dan_11:27y en una misma mesa hablarán mentiraH1696
+- Dan_11:36contra el Dios de los dioses hablaráH1696
+- Ose_2:14la llevaré...y hablaré a su corazónH1696
+- Ose_7:13y ellos hablaron mentiras contra miH1696
+- Ose_10:4han hablado palabras jurando en vanoH1696
+- Ose_12:4en Bet-el le halló, y allí habló conH1696
+- Ose_12:10he hablado a los profetas, y aumentéH1696
+- Ose_13:1cuando Efraín hablaba, hubo temor; fueH1696
+- Joe_3:8los venderán...porque Jehová ha habladoH1696
+- Amó_3:1oíd esta palabra que ha hablado JehováH1696
+- Amó_3:8si habla Jehová el Señor...no profetizará?[[H1696]]
+- Amó_5:10y al que hablaba lo recto abominaronH1696
+- Amó_7:16no...ni hables contra la casa de IsaacH5197
+- Miq_4:4la boca de Jehová de los...lo ha habladoH1696
+- Miq_6:12sus moradores hablaron mentira, y suH1696
+- Miq_7:3y el grande habla el antojo de su almaH1696
+- Hag_1:2ha hablado Jehová...Este pueblo diceH559
+- Hag_1:13Hageo...habló por mandato de Jehová alH559
+- Hag_2:2habla ahora Zorobabel hijo de SalatielH559
+- Hag_2:21habla a Zorobabel gobernador de JudáH559
+- Zac_1:9me dijo el ángel que hablaba conmigoH1696
+- Zac_1:11ellos hablaron a aquel ángel de JehováH6030
+- Zac_1:13Jehová respondió...al ángel que hablabaH1696
+- Zac_1:14y me dijo el ángel que hablaba...ClamaH1696
+- Zac_1:19al ángel que hablaba...¿qué son éstos?[[H1696]]
+- Zac_2:3salía aquel ángel que hablaba conmigoH1696
+- Zac_2:4dijo: Corre, habla a este joven, diciendoH1696
+- Zac_3:4y habló el ángel...Quitadle esas...vilesH6030
+- Zac_4:1volvió el ángel que hablaba conmigo, y meH1696
+- Zac_4:4hablé, diciendo...¿Qué es esto, señor mío?[[H6030]]
+- Zac_4:4diciendo a aquel ángel...hablaba conmigoH1696
+- Zac_4:5ángel que hablaba...me dijo: ¿No sabes quéH1696
+- Zac_4:6habló diciendo: Esta es palabra de JehováH6030
+- Zac_4:11-12habla...y le dije: ¿Qué significanH6030
+- Zac_5:5y salió aquel ángel que hablaba conmigoH1696
+- Zac_5:10dije al ángel que hablaba conmigoH1696
+- Zac_6:4y dije al ángel que hablaba conmigoH1696
+- Zac_6:8me llamó, y me habló diciendo: Mira, losH1696
+- Zac_6:12le hablarás, diciendo: Así ha habladoH559
+- Zac_7:3a hablar a los sacerdotes que estaban enH559
+- Zac_7:5habla a todo el pueblo del país, y a losH559
+- Zac_7:9así habló Jehová...Juzgad conforme a laH559
+- Zac_8:16hablad verdad cada cual con su prójimoH1696
+- Zac_9:10hablará paz a...naciones, y su señorH1696
+- Zac_10:2han hablado sueños vanos, y vano es suH1696
+- Zac_13:3no vivirás...has hablado mentira en elH1696
+- Mal_3:13dijisteis: ¿Qué...hablado contra ti?[[H1696]]
+- Mal_3:16los...hablaron cada uno a su compañeroH1696
+- Mat_3:3aquel de quien habló el profeta IsaíasG4483
+- Mat_5:37pero sea nuestro hablar: Sí, sí; no, noG3056
+- Mat_9:33echado fuera el demonio, el mudo hablóG2980
+- Mat_10:19no os preocupéis por cómo...hablaréisG2980
+- Mat_10:19os será dado lo que habéis de hablarG2980
+- Mat_10:20no sois vosotros los que habláis, sinoG2980
+- Mat_10:20dio el Espíritu...que habla en vosotrosG2980
+- Mat_12:22tal manera que el...mudo vela y hablabaG2980
+- Mat_12:32al que habla contra el Espíritu SantoG2036
+- Mat_12:34¿como podéis hablar lo bueno, siendoG2980
+- Mat_12:34la abundancia del corazón habla la bocaG2980
+- Mat_12:36palabra ociosa que hablen los hombresG2980
+- Mat_12:46mientras él aún hablaba a la gente, heG2980
+- Mat_12:46madre y sus hermanos...querían hablarG2980
+- Mat_12:47madre y tus hermanos...quieren hablarG2980
+- Mat_13:3y les habló muchas cosas por parábolasG2980
+- Mat_13:10¿por qué les hablas por parábolas?[[G2980]]
+- Mat_13:13por eso les hablo por parábolas; porqueG2980
+- Mat_13:34todo esto habló Jesús por parábolas aG2980
+- Mat_13:34Jesús...sin parábolas no les hablabaG2980
+- Mat_14:27Jesús les habló...¡Tened ánimo; yo soyG2980
+- Mat_15:31viendo a los mudos hablar...los mancosG2980
+- Mat_17:3aparecieron Moisés y...hablando con élG4814
+- Mat_17:5aún hablaba una nube de luz los cubrióG2980
+- Mat_17:13les había hablado de Juan el BautistaG2036
+- Mat_17:25habló primero...¿Qué te parece, Simón?[[G3004]]
+- Mat_21:45los...entendieron que hablaba de ellosG3004
+- Mat_22:1volvió a hablar por parábolas, diciendoG2036
+- Mat_23:1habló Jesús a la gente y a...discípulosG2980
+- Mat_24:15la abominación...de que habló el profetaG4483
+- Mat_26:47mientras todavía hablaba, vino JudasG2980
+- Mat_26:73aun tu manera de hablar te descubreG2981
+- Mat_28:18les habló diciendo: Toda potestad meG2980
+- Mar_1:30suegra...en seguida le hablaron de ellaG3004
+- Mar_1:34no dejaba hablar a los demonios, porqueG2980
+- Mar_1:42así que él hubo hablado...lepra se fueG2036
+- Mar_2:7¿por qué habla éste así? Blasfemias diceG2980
+- Mar_4:33muchas parábolas como estas les hablabaG2980
+- Mar_4:34sin parábolas no les hablaba; aunque aG2980
+- Mar_5:27cuando oyó hablar de Jesús, vino por
+- Mar_5:35mientras él aún hablaba, vinieron deG2980
+- Mar_6:50habló con ellos, y les dijo: ¡TenedG2980
+- Mar_7:35se desató la ligadura de su lengua, y hablaba bienG2980
+- Mar_7:37los sordos oír, y a los mudos hablarG2980
+- Mar_9:4apareció Elías con Moisés, que hablabanG4814
+- Mar_9:6no sabía lo que hablaba, pues estabanG2980
+- Mar_12:26le habló Dios en la zarza, diciendoG2036
+- Mar_13:11eso hablad...no sois...los que habláisG2980
+- Mar_13:14abominación...de que habló el profetaG4483
+- Mar_14:43hablando él aún, vino Judas, que eraG2980
+- Mar_14:70tu manera de hablar es semejante a laG2981
+- Mar_14:71jurar: No conozco a...de quien habláisG3004
+- Mar_16:17en mi nombre...hablarán nuevas lenguasG2980
+- Mar_16:19después que les habló, fue recibidoG2980
+- Luc_1:19he sido enviado a hablarte, y darteG2980
+- Luc_1:20no podrás hablar hasta el día en queG2980
+- Luc_1:22pero cuando salió, no les podía hablarG2980
+- Luc_1:22les hablaba por señas, y permaneció mudoG2980
+- Luc_1:55la cual habló a nuestros padres, paraG2980
+- Luc_1:64su lengua, y habló bendiciendo a DiosG2980
+- Luc_1:70habló por boca de sus santos profetasG2980
+- Luc_2:38hablaba del niño a...los que esperabanG2980
+- Luc_2:50no entendieron las palabras que...hablóG2980
+- Luc_4:36y hablaban...diciendo: ¿Qué palabra esG4814
+- Luc_4:41los reprendí y no les dejaba hablarG2980
+- Luc_5:4cuando terminó de hablar, dijo a SimónG2980
+- Luc_5:21¿quién es éste que habla blasfemias?[[G2980]]
+- Luc_6:11y hablaban...podrían hacer contra JesúsG1255
+- Luc_6:26los hombres hablen bien de vosotros![[G2036]]
+- Luc_6:45la abundancia del corazón habla la bocaG2980
+- Luc_7:3cuando el centurión oyó hablar de Jesús
+- Luc_7:15se incorporó el que...y comenzó a hablarG2980
+- Luc_8:8hablando estas cosas, decía a gran vozG3004
+- Luc_8:49estaba hablando aún, cuando vino uno deG2980
+- Luc_9:11hablaba del reino de Dios, y sanaba aG2980
+- Luc_9:30he aquí dos varones que hablaban con élG4814
+- Luc_9:31hablaban de su partida, que iba Jesús aG3004
+- Luc_11:14que salido el demonio, el mudo hablóG2980
+- Luc_11:37que hubo hablado, le rogó un fariseoG2980
+- Luc_11:53a provocarle a que hablase de muchasG653
+- Luc_12:3y lo que habéis hablado al oído en losG2980
+- Luc_14:3Jesús habló a los intérpretes de la leyG2036
+- Luc_20:2le hablaron diciendo: Dinos: ¿con quéG2036
+- Luc_21:5que hablaban de que el templo estabaG3004
+- Luc_22:4y habló con los principales sacerdotesG4814
+- Luc_22:47mientras él aún hablaba, se presentóG2980
+- Luc_22:60mientras él...hablaba, el gallo cantóG2980
+- Luc_23:20les habló otra vez Pilato, queriendoG4377
+- Luc_24:6acordaos de lo que os habló, cuando aúnG2980
+- Luc_24:14hablando entre sí de todas aquellasG3656
+- Luc_24:15mientras hablaban y discutían entre síG3656
+- Luc_24:32¿no...mientras nos hablaba en el caminoG2980
+- Luc_24:36aún hablaban...Jesús se puso en medioG2980
+- Luc_24:44estas son las palabras que os habléG2980
+- Jua_1:37le oyeron hablar los dos discípulosG2980
+- Jua_2:21mas él hablaba del templo de su cuerpoG3004
+- Jua_3:11lo que sabemos hablamos, y lo que hemosG2980
+- Jua_3:31es terrenal, y cosas terrenales hablaG2980
+- Jua_3:34Dios envió, las palabras de Dios hablaG2980
+- Jua_4:26le dijo: Yo soy, el que habla contigoG2980
+- Jua_4:27se maravillaron de que hablaba con unaG2980
+- Jua_4:27que preguntas? o, ¿Qué hablas con ella?[[G2980]]
+- Jua_6:63las palabras que yo os he hablado sonG2980
+- Jua_6:71hablaba de Judas Iscariote...de SimónG3004
+- Jua_7:13pero ninguno hablaba abiertamente de élG2980
+- Jua_7:17Dios, o si yo hablo por mi propia cuentaG2980
+- Jua_7:18el que habla por su propia cuenta, suG2980
+- Jua_7:26habla públicamente, y no le dicen nadaG2980
+- Jua_7:46jamás hombre alguno ha hablado comoG2980
+- Jua_8:12les habló, diciendo: Yo soy la puerta delG2980
+- Jua_8:20estas palabras habló Jesús en el lugarG2980
+- Jua_8:26yo, lo que he oído de él...hablo al mundoG2980
+- Jua_8:27no entendieron que les hablaba del PadreG3004
+- Jua_8:28que según me enseñó el Padre, así habloG2980
+- Jua_8:30hablando él estas cosas, muchos creyeronG2980
+- Jua_8:38hablo lo que he visto cerca del PadreG2980
+- Jua_8:40hombre que os he hablado la verdad, laG2980
+- Jua_8:44cuando habla mentira, de suyo h; porqueG2980
+- Jua_9:21edad tiene, preguntadle a él; él habladG2980
+- Jua_9:29sabemos que Dios ha hablado a MoisésG2980
+- Jua_9:37le has visto, y el que habla contigoG2980
+- Jua_11:13pensaron que hablaba del reposar delG3004
+- Jua_12:29otros decían: Un ángel le ha habladoG2980
+- Jua_12:36estas cosas habló Jesús, y se fue y seG2980
+- Jua_12:41Isaías dijo esto...habló acerca de élG2980
+- Jua_12:48la palabra que he hablado...le juzgaráG2980
+- Jua_12:49yo no he hablado por mi propia cuentaG2980
+- Jua_12:49mandamiento de...de lo que he de hablarG2980
+- Jua_12:50lo que yo hablo, lo h como el Padre meG2980
+- Jua_13:18no hablo de todos vosotros; yo sé aG3004
+- Jua_13:22se miraban...dudando de quién hablabaG3004
+- Jua_13:24para que preguntase...de quién hablabaG3004
+- Jua_14:10las palabras que yo os hablo, no las hG2980
+- Jua_14:30no hablaré ya mucho con vosotrosG2980
+- Jua_15:3limpios por la palabra...os he habladoG2980
+- Jua_15:11cosas os he hablado, para que mi gozoG2980
+- Jua_15:22yo no...venido, ni les hubiera habladoG2980
+- Jua_16:1estas cosas os he hablado, para que noG2980
+- Jua_16:13no hablará por su propia cuenta, sinoG2980
+- Jua_16:18un poco? No entendemos lo que hablaG2980
+- Jua_16:25he hablado en alegorías; la hora vieneG2980
+- Jua_16:25cuando ya no os hablaré por alegoríasG2980
+- Jua_16:29hablas claramente, y ninguna alegoríaG2980
+- Jua_16:33he hablado para que en mí tengáis pazG2980
+- Jua_17:1estas cosas habló Jesús, y levantandoG2980
+- Jua_17:13voy a ti; y hablo esto en el mundo, paraG2980
+- Jua_18:16y habló a la portera, e hizo entrar aG2036
+- Jua_18:20hablado al mundo...nada he h en ocultoG2980
+- Jua_18:21pregunta...qué les haya yo habladoG191
+- Jua_18:23si he hablado mal testifica en quéG2980
+- Jua_19:10dijo Pilato: ¿A mí no me hablas? ¿NoG2980
+- Hec_1:1hablé acerca de todas las cosas que
+- Hec_1:3y hablándoles acerca del reino de DiosG3004
+- Hec_1:16el Espíritu Santo habló antes por bocaG4277
+- Hec_2:4y comenzaron a hablar en otras lenguasG2980
+- Hec_2:4según el Espíritu les daba que hablasenG669
+- Hec_2:6uno les oía hablar en su propia lenguaG2980
+- Hec_2:7no son galileos todos estos que hablan?[[G2980]]
+- Hec_2:8les oímos nosotros hablar cada uno en
+- Hec_2:11les oímos hablar en nuestras lenguas lasG2980
+- Hec_2:14Pedro...habló diciendo: Varones judíosG669
+- Hec_2:31habló de la resurrección de Cristo, queG2980
+- Hec_3:21que habló Dios por boca de sus santosG2980
+- Hec_3:22oiréis en todas las cosas que os hableG2980
+- Hec_3:24han hablado...han anunciado estos díasG2980
+- Hec_4:1hablando ellos al pueblo, vinieron sobreG2980
+- Hec_4:17no hablen de aquí en adelante a hombreG2980
+- Hec_4:18en ninguna manera hablasen ni enseñasenG5350
+- Hec_4:29que con todo denuedo hablen tu palabraG2980
+- Hec_4:31hablaban con denuedo la palabra de DiosG2980
+- Hec_5:40que no hablasen en el nombre de JesúsG2980
+- Hec_6:10resistir...al Espíritu con que hablabaG2980
+- Hec_6:11le habían oído hablar palabras blasfemasG2980
+- Hec_6:13este hombre no cesa de hablar palabrasG2980
+- Hec_7:38ángel que le hablaba en el monte SinaíG2980
+- Hec_8:25habiendo...y hablado la palabra de DiosG2980
+- Hec_8:26ángel del Señor habló a Felipe, diciendoG2980
+- Hec_9:27al Señor, el cual le había hablado, yG2980
+- Hec_9:27en Damasco había hablado valerosamenteG3955
+- Hec_9:29hablaba denodadamente en el nombre delG3955
+- Hec_10:7ido el ángel que hablaba con CornelioG2980
+- Hec_10:27y hablando con él, entró y halló aG4926
+- Hec_10:32a Simón...cuando llegue él te hablaráG2980
+- Hec_10:44aún hablaba Pedro estas palabras, elG2980
+- Hec_10:46los oían que hablaban en lenguas, y queG2980
+- Hec_11:14él te hablará palabras por las cualesG2980
+- Hec_11:15comencé a hablar, cayó el EspírituG2980
+- Hec_11:19no hablando a nadie la palabra, sinoG2980
+- Hec_11:20unos...hablaron también a los griegosG2980
+- Hec_13:15alguna palabra de exhortación...habladG3004
+- Hec_13:42rogaron...les hablasen de estas cosasG2980
+- Hec_13:43quienes hablándoles, les persuadían aG4354
+- Hec_13:46Pablo y Bernabé, hablando con denuedoG3955
+- Hec_13:46que se os hablase primero la palabra deG2980
+- Hec_14:1y hablaron de tal manera que creyó unaG2980
+- Hec_14:3hablando con denuedo, confiados en elG3955
+- Hec_14:9oyó hablar a Pablo, el cual, fijando enG2980
+- Hec_16:6les fue prohibido...hablar la palabra enG2980
+- Hec_16:13hablamos a las mujeres que se habíanG2980
+- Hec_16:32le hablaron la palabra del Señor a élG2980
+- Hec_17:19esta nueva enseñanza de que hablas?[[G2980]]
+- Hec_18:9dijo...No temas, sino habla, y no callesG2980
+- Hec_18:14comenzar Pablo a hablar, Galión dijoG455
+- Hec_18:25hablaba y enseñaba diligentemente loG2980
+- Hec_18:26a hablar con denuedo en la sinagogaG3955
+- Hec_19:6y hablaban en lenguas, y profetizabanG2980
+- Hec_19:8habló con denuedo por espacio de tresG3955
+- Hec_19:33a Alejandro...hablar en su defensa anteG626
+- Hec_20:11habló largamente hasta el alba; y asíG3656
+- Hec_20:30hombres que hablen cosas perversasG2980
+- Hec_21:39ruego que me permitas hablar al puebloG2980
+- Hec_21:40habló en lengua hebrea, diciendoG4377
+- Hec_22:2al oír que les hablaba en lengua hebreaG4377
+- Hec_22:9no entendieron la voz del que hablabaG2980
+- Hec_23:9si un espíritu le ha hablado, o un ángelG2980
+- Hec_23:16el hijo de...oyendo hablar de la celadaG191
+- Hec_23:18este joven, que tiene algo que hablarteG2980
+- Hec_24:10señal...a Pablo para que hablase, ésteG3004
+- Hec_24:26muchas veces lo hacía venir y hablabaG3656
+- Hec_25:12Festo, habiendo hablado con el consejoG4814
+- Hec_26:1dijo...Se te permite hablar por ti mismoG3004
+- Hec_26:14oí una voz que me hablaba, y decía enG2980
+- Hec_26:25no estoy loco...sino que hablo palabrasG669
+- Hec_26:26el rey...delante de quien también habloG2980
+- Hec_26:31hablaban entre sí, diciendo: NingunaG2980
+- Hec_28:20os he llamado para veros y hablarosG4354
+- Hec_28:21denunciado o hablado algún mal de tiG2980
+- Hec_28:22en todas partes se habla contra ellaG483
+- Hec_28:25habló el Espíritu Santo por medio delG2980
+- Rom_3:5será injusto Dios...(Hablo como hombreG3004
+- Rom_4:6David habla de la bienaventuranza delG3004
+- Rom_6:19hablo como humano, por vuestra humanaG3004
+- Rom_7:1pues hablo con los que conocen la leyG2980
+- Rom_11:13porque a vosotros hablo, gentiles. PorG3004
+- Rom_15:18hablar sino de lo que Cristo ha hechoG2980
+- 1Co_1:10que habléis todos una misma cosa, yG3004
+- 1Co_2:6sin embargo, hablamos sabiduría entre losG2980
+- 1Co_2:7hablamos sabiduría de Dios en misterioG2980
+- 1Co_2:13hablamos, no con palabras enseñadas porG2980
+- 1Co_3:1yo...no pude hablaros como a espiritualesG2980
+- 1Co_10:15como a sensatos os hablo, juzgad vosotros loG3004
+- 1Co_12:3que nadie que hable por el Espíritu deG2980
+- 1Co_12:30¿hablan todos lenguas? ¿interpretanG2980
+- 1Co_13:1yo hablase lenguas humanas y angélicasG2980
+- 1Co_13:11cuando yo era niño, hablaba como niñoG2980
+- 1Co_14:2que habla en lenguas no h a los hombresG2980
+- 1Co_14:2aunque por el Espíritu habla misteriosG2980
+- 1Co_14:3que profetiza habla a los hombres paraG2980
+- 1Co_14:4que habla en lengua extraña, a sí mismoG2980
+- 1Co_14:5quisiera que todos...hablasen en lenguasG2980
+- 1Co_14:5mayor es el...que el que habla en lenguasG2980
+- 1Co_14:6si yo voy a vosotros hablando en lenguasG2980
+- 1Co_14:6si no os hablara con revelación, o conG2980
+- 1Co_14:9lo que decís? Porque hablaréis al aireG2980
+- 1Co_14:11seré como extranjero para el que hablaG2980
+- 1Co_14:11el que habla será como extranjero paraG2980
+- 1Co_14:13el que habla en lengua extraña, pida enG2980
+- 1Co_14:18gracias a Dios que hablo en lenguas másG2980
+- 1Co_14:19pero en la iglesia prefiero hablar cincoG2980
+- 1Co_14:21con otros labios hablaré a este puebloG2980
+- 1Co_14:23hablan en lenguas, y entran indoctos oG2980
+- 1Co_14:27si habla alguno en lengua extraña, seaG2980
+- 1Co_14:28calle...y hable para sí mismo y para DiosG2980
+- 1Co_14:29los profetas hablen dos o tres, y losG2980
+- 1Co_14:34mujeres...no les es permitido hablarG2980
+- 1Co_14:35es indecoroso que una mujer hable en laG2980
+- 1Co_14:39así que...no impidáis el hablar lenguasG2980
+- 2Co_2:17de parte de Dios...hablamos en CristoG2980
+- 2Co_4:13creí, por lo cual hablé...también hablamosG2980
+- 2Co_6:13del mismo modo (como a hijos hablo)[[G3004]]
+- 2Co_7:14en todo os hemos hablado con verdadG2980
+- 2Co_8:8no hablo como quien manda, sino paraG3004
+- 2Co_11:17lo que hablo, no lo h según el SeñorG2980
+- 2Co_11:21(hablo con locura) yo tengo osadíaG3004
+- 2Co_11:23¿son...(Como si estuviera loco hablo.)[[G2980]]
+- 2Co_12:19delante de Dios en Cristo hablamosG2980
+- 2Co_13:3una prueba de que habla Cristo en míG2980
+- Gál_3:15hablo en términos humanos: Un pactoG3004
+- Gál_3:16las simientes, como si hablase de muchosG3004
+- Efe_4:25desechando la mentira, hablad verdadG2980
+- Efe_5:12porque vergonzoso es aun hablar de loG3004
+- Efe_5:19hablando entre vosotros con salmos, conG2980
+- Efe_6:20denuedo hable de él, como debo hablarG3955
+- Flp_1:14más a hablar la palabra sin temorG2980
+- Col_4:4que lo manifieste como debo hablarG2980
+- 1Ts_1:8no tenemos necesidad de hablar nadaG2980
+- 1Ts_2:4según fuimos aprobados por...así hablamosG2980
+- 1Ts_2:16impidiéndonos hablar a los gentiles paraG2980
+- 1Ti_1:7sin entender ni lo que hablan ni lo queG3004
+- 1Ti_5:13ociosas...hablando lo que no debieranG2980
+- Tit_2:1tú habla lo que está de acuerdo conG2980
+- Tit_2:15habla...y reprende con toda autoridadG2980
+- Heb_1:1Dios, habiendo hablado muchas vecesG2980
+- Heb_1:2días nos ha hablado por el Hijo, a quienG2980
+- Heb_2:5mundo...acerca del cual estamos hablandoG2980
+- Heb_4:8reposo, no hablaría después de otro díaG2980
+- Heb_6:9de cosas mejores...aunque hablamos asíG2980
+- Heb_7:14de Judá, de la cual nada habló MoisésG2980
+- Heb_9:5de las cuales...no se puede ahora hablarG3004
+- Heb_11:4por la fe...muerto, aún habla por ellaG2980
+- Heb_12:19a la voz que hablaba, la cual los que
+- Heb_12:19oyeron rogaron que no se les hablaseG4369
+- Heb_12:24la sangre rociada que habla mejor queG2980
+- Heb_12:25mirad que no desechéis al que hablaG2980
+- Heb_13:7pastores, que os hablaron la palabraG2980
+- Stg_1:19pronto para oír, tardo para hablarG2980
+- Stg_2:12así hablad, y tal haced, como los queG2980
+- Stg_5:10a los profetas que hablaron en nombreG2980
+- 1Pe_3:10mal, y sus labios no hablen engañoG2980
+- 1Pe_4:11si alguno habla, hable conforme a lasG2980
+- 2Pe_1:21hablaron siendo inspirados por elG2980
+- 2Pe_2:12hablando mal de cosas que no entiendenG987
+- 2Pe_2:16de carga, hablando con voz de hombreG5350
+- 2Pe_2:18hablando palabras infladas y...seducenG5350
+- 2Pe_3:16hablando en ellas de estas cosas; entreG2980
+- 1Jn_4:5por eso hablan del mundo, y el mundoG2980
+- 2Jn_1:12espero ir a vosotros y hablar cara a caraG2980
+- 3Jn_1:14espero verte...hablaremos cara a caraG2980
+- Jud_1:15cosas duras que los...impíos han habladoG2980
+- Jud_1:16cuya boca habla cosas infladas, adulandoG2980
+- Rev_1:12me volví para ver la voz que hablabaG2980
+- Rev_4:1la primera voz...hablando conmigo, dijoG2980
+- Rev_7:13uno de los ancianos habló, diciéndomeG3004
+- Rev_10:8la voz que oí...habló otra vez conmigoG2980
+- Rev_13:5se le dio boca que hablaba grandes cosasG2980
+- Rev_13:11un cordero, pero hablaba como dragónG2980
+- Rev_13:15que la imagen hablase e hiciese matarG2980
+- Rev_17:1habló conmigo diciéndome: Ven acá, y teG3004
+- Rev_21:9habló conmigo, diciendo: Ven acá, yo teG2980
+- Rev_21:15que hablaba...tenía una caña de medirG2980

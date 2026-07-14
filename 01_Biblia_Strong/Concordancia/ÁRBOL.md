@@ -1,0 +1,169 @@
+---
+tipo: concordancia
+palabra: ÁRBOL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ÁRBOL
+
+- Gén_1:11produzca la tierra...á de fruto que déH6086
+- Gén_1:12á que da fruto, cuya semilla está en élH6086
+- Gén_1:29todo á en que hay fruto...serán para comerH6086
+- Gén_2:9hizo nacer...todo á delicioso a la vistaH6086
+- Gén_2:9el á de vida...el á de la ciencia del bienH6086
+- Gén_2:16Dios...De todo á del huerto podrás comerH6086
+- Gén_2:17del á de la ciencia del bien...no comerásH6086
+- Gén_3:1ha dicho: No comáis de todo á del huerto?[[H6086]]
+- Gén_3:2fruto de los á del huerto podemos comerH6086
+- Gén_3:3pero del fruto del á que está en medio delH6086
+- Gén_3:6y vio la mujer que el á era bueno paraH6086
+- Gén_3:6agradable a los ojos, y á codiciable paraH6086
+- Gén_3:8se escondieron de...entre los á del huertoH6086
+- Gén_3:11¿has comido del á de que yo te mandé noH6086
+- Gén_3:12la mujer que me diste por...me dio del áH6086
+- Gén_3:17del á de que te mandé...No comerás de élH6086
+- Gén_3:22tome también del á de la vida, y comaH6086
+- Gén_3:24para guardar el camino del á de la vidaH6086
+- Gén_18:4que se traiga...y recostaos debajo de un áH6086
+- Gén_18:8y él se estuvo con ellos debajo del áH6086
+- Gén_21:33Abraham un á tamarisco en Beerseba, eH815
+- Gén_23:17y todos los á que había en la heredadH6086
+- Éxo_9:25granizo...desgajó todos los á del paísH6086
+- Éxo_10:5comerá...todo á que os fructifica en elH6086
+- Éxo_10:15consumió toda...todo el fruto de los áH6086
+- Éxo_10:15no quedó cosa verde en á ni en hierbaH6086
+- Éxo_15:25le mostró un á; y lo echó en las aguasH6086
+- Lev_19:23y plantéis toda clase de á frutalesH6086
+- Lev_23:40tomaréis...ramas con fruto de á hermosoH6086
+- Lev_23:40ramas de á frondosos, y sauces de losH6086
+- Lev_26:4yo daré...y el á del campo dará su frutoH6086
+- Lev_26:20los á de la tierra no darán su frutoH6086
+- Lev_27:30como del fruto de los á, de Jehová esH6086
+- Núm_13:20el terreno, si es...si en él hay á o noH6086
+- Deu_12:2collados...y debajo de todo á frondosoH6086
+- Deu_16:21no plantarás ningún á para Asera cercaH6086
+- Deu_20:19no destruirás sus á metiendo hacha enH6086
+- Deu_20:19el á del campo no es hombre para venirH6086
+- Deu_20:20mas el á que sepas que no lleva frutoH6086
+- Deu_22:6encuentres...algún nido...en cualquier áH6086
+- Jue_9:8fueron una vez los á a elegir rey sobreH6086
+- Jue_9:9, Jue_9:11, Jue_9:13para ir a ser grande sobre los á?[[H6086]]
+- Jue_9:10, Jue_9:12, Jue_9:14dijeron los á a...reina sobre nosotrosH6086
+- Jue_9:15la zarza respondió a los á: Si en verdadH6086
+- Jue_9:48tomó Abimelec...cortó una rama de los áH6086
+- 1Sa_31:13sepultaron debajo de un á en JabesH815
+- 1Re_4:33disertó sobre los á, desde el cedroH6086
+- 1Re_14:23collado alto y debajo de todo á frondosoH6086
+- 2Re_3:19talaréis todo buen á, cegaréis todasH6086
+- 2Re_3:25aguas, y derribaron todos los buenos áH6086
+- 2Re_6:5uno derribaba un á, se le cayó el hacha
+- 2Re_16:4y quemó incienso en los...debajo de todo áH6086
+- 2Re_17:10estatuas...y debajo de todo á frondosoH6086
+- 1Cr_16:33cantarán los á de...delante de JehováH6086
+- 2Cr_28:4sacrificó...debajo de todo á frondosoH6086
+- Neh_8:15traed ramas de...y de todo á frondosoH6086
+- Neh_9:25heredaron...y muchos á frutales; comieronH6086
+- Neh_10:35primicias de nuestra tierra...de todo áH6086
+- Neh_10:37y del fruto de todo a, y del vino y delH6086
+- Job_8:16a manera de un á está verde delante del
+- Job_14:7si el á fuere cortado, aún queda de élH6086
+- Job_19:10pasar mi esperanza como á arrancadoH6086
+- Job_24:20como un á los impíos serán quebrantadosH6086
+- Job_40:22los á sombríos lo cubren con su sombraH6628
+- Sal_1:3será como á plantado junto a...de aguasH6086
+- Sal_96:12los á del bosque rebosarán de contentoH6086
+- Sal_104:16se llenan de savia los á de Jehová, losH6086
+- Sal_105:33viñas...y quebró los á de su territorioH6086
+- Sal_148:9montes...el á de fruto y todos los cedrosH6086
+- Pro_3:18á de vida a los que de ella echan manoH6086
+- Pro_11:30el fruto del justo es á de vida; y elH6086
+- Pro_13:12pero á de vida es el deseo cumplidoH6086
+- Pro_15:4la lengua apacible es á de vida; mas laH6086
+- Ecl_2:5hice...y planté en ellas á de todo frutoH6086
+- Ecl_2:6para regar de ellos...donde crecían los áH6086
+- Ecl_11:3si el á cayere al sur, o al norte, en elH6086
+- Ecl_11:3en el lugar que el á cayere, allí quedaráH6086
+- Cnt_2:3el manzano entre los á silvestres, asíH6086
+- Cnt_4:14con todos los á de incienso; mirra y áloesH6086
+- Isa_7:2estremecen los á del monte a causa delH6086
+- Isa_10:19y los á que queden en su bosque serán enH6086
+- Isa_10:33los á de gran altura serán cortados, y los
+- Isa_44:14encina, que crecen entre los á del bosqueH6086
+- Isa_44:19me postraré delante de un tronco de á?[[H6086]]
+- Isa_44:23y todo á que en él está; porque JehováH6086
+- Isa_55:12todos los á del campo darán palmadas deH6086
+- Isa_56:3ni diga el eunuco: He aquí yo soy á secoH6086
+- Isa_57:5debajo de todo á...sacrificáis los hijosH6086
+- Isa_61:3serán llamados á de justicia, plantío deH352
+- Isa_65:22según los días de los á serán los díasH6086
+- Jer_2:20debajo de todo á frondoso te echabasH6086
+- Jer_3:6monte alto y debajo de todo á frondoso, yH6086
+- Jer_3:13fornicaste con...debajo de todo á frondosoH6086
+- Jer_6:6cortad á, y levantad vallado...JerusalénH6097
+- Jer_7:20furor y mi ira se derramarán...sobre los áH6086
+- Jer_11:19diciendo: Destruyamos el á con su frutoH6086
+- Jer_17:2imágenes de Asera...están junto a los áH6086
+- Jer_17:8será como el á plantado junto a las aguasH6086
+- Eze_6:13debajo de todo á frondoso y debajo deH6086
+- Eze_15:2es el sarmiento entre los á del bosque?[[H6086]]
+- Eze_15:6como la madera de la vid entre los á delH6086
+- Eze_17:24sabrán todos los á...yo Jehová abatí el áH6086
+- Eze_17:24yo...levanté el á bajo, hice secar el áH6086
+- Eze_17:24e hice reverdecer el á seco. Yo JehováH6086
+- Eze_20:28miraron a...y a todo á frondoso, y allíH6086
+- Eze_20:47consumirá en ti todo á verde y...á secoH6086
+- Eze_31:4y a todos los á del campo enviaba susH6086
+- Eze_31:5su altura sobre todos los á del campoH6086
+- Eze_31:8ningún á en el huerto...fue semejante a élH6086
+- Eze_31:9los á del Edén que...tuvieron de él envidiaH6086
+- Eze_31:14no se exalten en su altura todos los áH6086
+- Eze_31:15y todos los á del campo se desmayaronH6086
+- Eze_31:16los á escogidos del Edén, y los mejoresH6086
+- Eze_31:18¿a quién te has...entre los á del Edén?[[H6086]]
+- Eze_31:18derribado serás con los á del Edén en loH6086
+- Eze_34:27á del campo dará su fruto, y la tierraH6086
+- Eze_36:30multiplicaré asimismo el fruto de los áH6086
+- Eze_47:7en la ribera del río había muchísimos áH6086
+- Eze_47:12crecerá toda clase de á frutales; susH6086
+- Dan_4:10me parecía ver...un á, cuya altura eraH363
+- Dan_4:11crecía este á, y se hacía fuerte, y suH363
+- Dan_4:14decía...Derribad el á, y cortad sus ramasH363
+- Dan_4:20á que viste, que crecía y se hacía fuerteH363
+- Dan_4:23cortad el á y destruidlo; mas la cepa deH363
+- Dan_4:26dejar...la cepa de las raíces del mismo áH363
+- Joe_1:12los á del campo se secaron, por lo cualH6086
+- Joe_1:19y llama abrasó todos los á del campoH6086
+- Joe_2:22los á llevarán su fruto, la higuera y laH6086
+- Hag_2:19ni el á de olivo ha florecido todavíaH6086
+- Zac_11:2porque los á magníficos son derribadosH1265
+- Mat_3:10el hacha está puesta a la raíz de los áG1186
+- Mat_3:10todo á que no da buen fruto es cortadoG1186
+- Mat_7:17así todo buen á da buenos frutos, pero elG1186
+- Mat_7:17frutos, pero el á malo da frutos malosG1186
+- Mat_7:18no puede el buen á dar...ni el á malo darG1186
+- Mat_7:19todo á que no da buen fruto, es cortadoG1186
+- Mat_12:33o haced el á bueno, y...o haced el á maloG1186
+- Mat_12:33malo; porque por el fruto se conoce el áG1186
+- Mat_13:32se hace á, de tal manera que vienen lasG1186
+- Mat_21:8cortaban ramas de los á, y las tendíanG1186
+- Mar_8:24dijo: Veo los hombres como á, pero losG1186
+- Mar_11:8cortaban ramas de los á, y las tendíanG1186
+- Luc_3:9el hacha está puesta a la raíz de los áG1186
+- Luc_3:9todo á que no da buen fruto se corta y seG1186
+- Luc_6:43no es buen á el que da malos frutos, niG1186
+- Luc_6:43no es...ni á malo el que da buen frutoG1186
+- Luc_6:44porque cada á se conoce por su frutoG1186
+- Luc_13:19creció, y se hizo á grande, y las avesG1186
+- Luc_19:4corriendo delante, subió a un á sicómoroG4809
+- Luc_21:29les dijo...Mirad la higuera y todos los áG1186
+- Luc_23:31si en el á verde hacen estas cosas, ¿enG3586
+- Jud_1:12á otoñales, sin fruto, 2 veces muertosG1186
+- Rev_2:7daré a comer del á de la vida, el cualG3586
+- Rev_7:1no soplase viento alguno...sobre ningún áG1186
+- Rev_7:3no hagáis daño a la tierra, ni...ni a los áG1186
+- Rev_8:7la tercera parte de los á se quemó, y seG1186
+- Rev_9:4se les mandó que no dañasen...a ningún áG1186
+- Rev_22:2y en medio de la calle...el á de la vidaG3586
+- Rev_22:2las hojas del á eran para la sanidad deG3586
+- Rev_22:14para tener derecho al á de la vida, yG3586

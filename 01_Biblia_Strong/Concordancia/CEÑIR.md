@@ -1,0 +1,85 @@
+---
+tipo: concordancia
+palabra: CEÑIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CEÑIR
+
+- Éxo_12:11comeréis así: ceñidos vuestros lomosH2296
+- Éxo_27:17las columnas...estarán ceñidas de plataH2836
+- Éxo_29:5a Aarón...ceñirás con el cinto del efodH2805
+- Éxo_29:9les ceñirás el cinto de Aarón y a susH2296
+- Éxo_38:28y cubrió los capiteles de...y las ciñóH2836
+- Lev_8:7puso...túnica, y le ciñó con el cintoH2296
+- Lev_8:7el efod, y lo ciñó con el cinto del efodH2296
+- Lev_8:13les ciñó con cintos, y les ajustó lasH2296
+- Lev_16:4la túnica...se ceñirá el cinto de linoH2296
+- Jue_3:16y se lo ciñó debajo de sus vestidosH2296
+- 1Sa_2:4arcos...los débiles se ciñeron de poderH247
+- 1Sa_17:39ciñó David su espada sobre...vestidosH2296
+- 1Sa_25:13cíñase cada uno su espada. Y se ciñóH2296
+- 1Sa_25:13David se ciñó su espada; y subieronH2296
+- 2Sa_3:31David a...ceñíos de cilicio, y hacedH2296
+- 2Sa_20:8Joab estaba ceñido de su ropa, y sobreH2296
+- 2Sa_21:16Isbi-benob, uno...ceñido con una espadaH2296
+- 2Sa_22:33Dios es el que me ciñe de fuerza, yH4581
+- 2Sa_22:40me ceñiste de fuerzas para la peleaH247
+- 1Re_7:23mar...lo ceñía...un cordón de 30 codosH5696, [[H5439]]
+- 1Re_7:24bolas...que ceñían el mar...en dos filasH5362
+- 1Re_18:46ciñó...lomos, y corrió delante de AcabH8151
+- 1Re_20:11no se alabe tanto el que se ciñe lasH2296
+- 1Re_20:32ciñeron, pues, sus lomos con cilicioH2296
+- 2Re_1:8y ceñía sus lomos con un cinturón deH247
+- 2Re_3:21los que apenas podían ceñir armadura enH2296
+- 2Re_4:29dijo...Ciñe tus lomos, y toma mi báculoH2296
+- 2Re_9:1ciñe tus lomos, y toma esta redoma deH2296
+- 2Cr_4:2un cordón de treinta codos...lo ceñíaH5437
+- Neh_4:18cada uno tenía su espada ceñida aH631
+- Job_30:18me ciñe como el cuello de mi túnicaH247
+- Job_31:36yo lo...me lo ceñiría como una coronaH6029
+- Job_38:3ahora ciñe como varón tus lomos; yo teH247
+- Job_40:7cíñete ahora como varón tus lomos; yoH247
+- Sal_18:32Dios es el que me ciñe de poder, yH247
+- Sal_18:39me ceñiste de fuerzas para la peleaH247
+- Sal_30:11desataste mi...y me ceñiste de alegríaH247
+- Sal_45:3ciñe tu espada sobre el...oh valienteH2296
+- Sal_65:6afirma los montes...ceñido de valentíaH247
+- Sal_65:12y los collados se ciñen de alegría
+- Sal_93:1Jehová se vistió, se ciñó de poderH247
+- Sal_109:19y en lugar de cinto con que se ciñaH2296
+- Pro_30:31el ceñido de lomos...el macho cabríoH2223
+- Pro_31:17ciñe de fuerza sus lomos...sus brazosH2296
+- Isa_8:9reuníos...ceñíos, y seréis quebrantadosH247
+- Isa_15:3se ceñirán de cilicio en sus calles; enH2296
+- Isa_22:21lo ceñiré de tu talabarte, y entregaréH2388
+- Isa_32:11desnudaos, ceñid los lomos con cilicioH2290
+- Isa_45:5yo te ceñiré, aunque tú no me conocisteH247
+- Isa_49:18y de ellos serás ceñida como noviaH7194
+- Jer_1:17tú, pues, ciñe tus lomos, levántateH2296
+- Jer_6:26hija de mi pueblo...cíñete de cilicioH2296
+- Jer_13:1cómprate un cinto...y cíñelo sobre tusH7760
+- Lam_2:10echaron polvo...se ciñeron de cilicioH2296
+- Eze_7:18se ceñirán también de cilicio, y lesH2296
+- Eze_16:10y te...ceñí de lino y te cubrí de sedaH2280
+- Eze_23:15ceñidos por sus lomos con talabartesH2289
+- Eze_27:31ceñirán de Cilicio, y endecharán por tiH2296
+- Eze_44:18no se ceñirán cosa que los haga sudarH2296
+- Dan_10:5y ceñidos sus lomos de UfazH2296
+- Joe_1:13ceñíos y lamentad, sacerdotes; gemidH2296
+- Nah_2:1cíñete los lomos, refuerza...tu poderH2388
+- Luc_12:35ceñidos vuestros lomos, y vuestrosG4024
+- Luc_12:37se ceñirá, y hará que se sienten a laG4024
+- Luc_17:8cena, cíñete, y sírveme hasta que hayaG4024
+- Jua_13:4manto, y tomando una toalla...la ciñóG1241
+- Jua_13:5con la toalla con que estaba ceñidoG1241
+- Jua_21:7oyó que era el Señor, se ciñó la ropaG1241
+- Jua_21:18te ceñías, e ibas a donde querías; masG2224
+- Jua_21:18te ceñirá otro, y te llevará a dondeG2224
+- Hec_12:8dijo...Cíñete, y átate las sandaliasG2224
+- Hec_27:17usaron de refuerzos para ceñir la naveG5269
+- Efe_6:14ceñidos vuestros lomos con la verdadG4024
+- 1Pe_1:13ceñid los lomos de...entendimientoG328
+- Rev_1:13ceñido por el pecho con un cinto deG4024
+- Rev_15:6ceñidos alrededor del pecho con cintosG4024

@@ -1,0 +1,129 @@
+---
+tipo: concordancia
+palabra: LEÓN, LEONA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LEÓN, LEONA
+
+- Gén_49:9cachorro de l...de la presa subisteH738
+- Gén_49:9Judá...se echó como l, así como l viejoH3833
+- Núm_23:24l se levantará, y como l se erguiráH3833
+- Núm_24:9para echarse como l, y como l; ¿quiénH738
+- Deu_33:20como l reposa, y arrebata brazo yH3833
+- Deu_33:22Dan es cachorro de l que salta desdeH738
+- Jue_14:5l joven que venía rugiendo hacia élH738
+- Jue_14:6despedazó al l como quien despedaza un
+- Jue_14:8ver el cuerpo...del l...el cuerpo del lH738
+- Jue_14:9tomado aquella miel del cuerpo del lH738
+- Jue_14:18la miel? ¿Y qué cosa más fuerte que el l?[[H738]]
+- 1Sa_17:34venía un l...y tomaba algún corderoH738
+- 1Sa_17:36fuese l, fuese oso, tu siervo lo matabaH738
+- 1Sa_17:37que me ha librado de las garras del lH738
+- 2Sa_1:23más ligeros eran...más fuertes que lH738
+- 2Sa_17:10aun...cuyo corazón sea como corazón de lH738
+- 2Sa_23:20éste mató a dos l de Moab; y él mismoH739
+- 2Sa_23:20descendió y mató a un l en medio de unH738
+- 1Re_7:29sobre...tableros...había figuras de lH738
+- 1Re_7:29la basa, así encima como debajo de los lH738
+- 1Re_7:36entalladuras...de l y de palmeras, conH738
+- 1Re_10:19junto a los cuales...colocados dos lH738
+- 1Re_10:20l puestos allí sobre las seis gradasH738
+- 1Re_13:24y yéndose, le topó un l en el caminoH738
+- 1Re_13:24el asno...el l también junto al cuerpoH738
+- 1Re_13:25vieron...l que estaba junto al cuerpoH738
+- 1Re_13:26Jehová le ha entregado al l, que leH738
+- 1Re_13:28el asno y el l...el l no había comidoH738
+- 1Re_20:36te herirá un l...le encontró un l, y leH738
+- 2Re_17:25envió Jehová contra ellos l que losH738
+- 2Re_17:26y él ha echado l...que los l los matanH738
+- 1Cr_11:22Benaía...venció a los dos l de MoabH739
+- 1Cr_11:22y mató a un l en medio de un foso, enH738
+- 1Cr_12:8sus rostros eran como rostros de l, yH738
+- 2Cr_9:18dos l que estaban junto a los brazosH738
+- 2Cr_9:19había...doce l sobre las seis gradas, aH738
+- Job_4:10los rugidos del l, y los bramidos delH738
+- Job_4:11el l viejo perece...y los hijos de la lH3918
+- Job_10:16si mi cabeza se alzare, cual l tú meH7826
+- Job_28:8nunca la pisaron...fieros, ni l pasó porH7826
+- Job_38:39¿cazarás...presa para el l? ¿SaciarásH3833
+- Sal_7:2no sea que desgarren mi alma cual lH738
+- Sal_10:9acecha en oculto, como el l desde suH738
+- Sal_17:12como l que desea hacer presa, y comoH738
+- Sal_22:13abrieron sobre mí su boca como l rapazH738
+- Sal_22:21sálvame de la boca del l, y líbrame deH738
+- Sal_35:17rescata mi alma de...mi vida de los lH3715
+- Sal_57:4mi vida está entre l; estoy echado entreH3833
+- Sal_91:13sobre el l y el áspid pisarás; hollarásH7826
+- Sal_91:13hollarás al cachorro del l y al dragónH3715
+- Pro_19:12como rugido de cachorro de l es laH3715
+- Pro_20:2rugido de cachorro de l es el terror delH3715
+- Pro_22:13dice el perezoso: El l está fuera; seréH738
+- Pro_26:13el l está en el camino, el l está enH7826
+- Pro_28:1mas el justo está confiado como un lH3715
+- Pro_28:15l rugiente y oso...es el príncipe impíoH738
+- Pro_30:30el l fuerte entre todos los animalesH3918
+- Ecl_9:4porque mejor...perro vivo que l muertoH738
+- Cnt_4:8mira...desde las guaridas de los lH738
+- Isa_5:29su rugido será como de l; rugirá aH3833
+- Isa_11:6el becerro y el l y la bestia domésticaH3715
+- Isa_11:7juntos; y el l como el buey comerá pajaH738
+- Isa_15:9traeré...l a los que escaparen de MoabH738
+- Isa_21:8gritó como un l...sobre la atalaya estoyH738
+- Isa_30:6de donde salen la l y el l, la víboraH3918
+- Isa_31:4como el l y el cachorro de l ruge sobreH738, [[H3715]]
+- Isa_35:9no habrá allí l, ni fiera subirá por élH738
+- Isa_38:13como un l molió todos mis huesos; deH738
+- Isa_65:25l comerá paja como el buey; y el polvoH738
+- Jer_2:15los cachorros del l rugieron contraH3715
+- Jer_2:30a vuestros profetas como l destrozadorH738
+- Jer_4:7el l sube de la espesura, y el destruidorH738
+- Jer_5:6por tanto, el l de la selva los mataráH738
+- Jer_12:8heredad fue para mí como l en la selvaH738
+- Jer_49:19como l subirá de la espesura del JordánH738
+- Jer_50:17rebaño descarriado es...l lo dispersaronH738
+- Jer_50:44como l subirá de la espesura del JordánH738
+- Jer_51:38rugirán como l...cachorros de l gruñiránH3715
+- Lam_3:10fue para mí como...l en escondrijosH738
+- Eze_1:10y cara de l al lado derecho de los 4H738
+- Eze_10:14la tercera, cara de l; la cuarta, caraH738
+- Eze_19:2¡cómo se echó entre los l tu madre la l![[H738]], [[H3833]]
+- Eze_19:6él andaba entre los l; se hizo leoncilloH3715
+- Eze_22:25como l rugiente que arrebata presaH738
+- Eze_41:19rostro de l hacia la palmera del otroH3715
+- Dan_6:7, Dan_6:12sea echado en el foso de los lH744
+- Dan_6:16Daniel...le echaron en el foso de los lH744
+- Dan_6:19levantó muy de mañana...al foso de los lH744
+- Dan_6:20el Dios...¿te ha podido librar de los l?[[H744]]
+- Dan_6:22cerró la boca de los l, para que no meH744
+- Dan_6:24y fueron echados en el foso de los lH744
+- Dan_6:24cuando los l se apoderaron de ellos yH744
+- Dan_6:27ha librado a Daniel del poder de los lH744
+- Dan_7:4la primera era como l, y tenía alas deH744
+- Ose_5:14como l a Efraín, y como cachorro de lH7826
+- Ose_11:10él rugirá como l; rugirá, y los hijosH738
+- Ose_13:7por tanto, yo seré para ellos como lH7826
+- Ose_13:8y allí los devoraré como l; fiera delH3833
+- Joe_1:6dientes son dientes de l...muelas de lH738, [[H3833]]
+- Amó_3:4¿rugirá el l en la selva sin...presa?[[H738]]
+- Amó_3:8si el l ruge, ¿quién no temerá? Si hablaH738
+- Amó_3:12que el pastor libra...del l dos piernasH738
+- Amó_5:19como el que huye de delante del l, y seH738
+- Miq_5:8será...como el l entre las bestias deH738
+- Miq_5:8como el cachorro del l entre las manadasH3715
+- Nah_2:11¿qué es de la guarida de los l, y deH738
+- Nah_2:11de la majada de los cachorros de los lH3715
+- Nah_2:11el l y la l, y los cachorros del l; y noH3833, [[H738]]
+- Nah_2:12el l arrebataba en abundancia para susH738
+- Sof_3:3sus príncipes en...ella son l rugientesH738
+- Zac_11:3de rugidos de cachorros de l, porqueH3715
+- 2Ti_4:17así fui librado de la boca del lG3023
+- Heb_11:33hicieron justicia...taparon bocas de lG3023
+- 1Pe_5:8adversario el diablo, como l rugienteG3023
+- Rev_4:7el primer ser...era semejante a un l; elG3023
+- Rev_5:5que el l de la tribu de Judá...ha vencidoG3023
+- Rev_9:8tenían cabello...dientes eran como de lG3023
+- Rev_9:17y las cabezas...eran como cabezas de lG3023
+- Rev_10:3y clamó a gran voz, como ruge un l; yG3023
+- Rev_13:2semejante a...y su boca como boca de lG3023

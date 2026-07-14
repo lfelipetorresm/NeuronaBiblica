@@ -1,0 +1,232 @@
+---
+tipo: concordancia
+palabra: AMOR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AMOR
+
+- Gén_18:24no perdonarás al lugar por a a los 50
+- Gén_18:26perdonaré a...este lugar por a a ellosH5668
+- Gén_18:29respondió: ¿No lo haré por a a los 40H5668
+- Gén_18:31-32no la destruiré, respondió, por a aH5668
+- Gén_26:24multiplicaré tu...por a de Abraham miH5668
+- Éxo_18:8Jehová había hecho a...por a de IsraelH3478
+- Deu_32:36por a de sus siervos se arrepentirá
+- Rut_1:13de quedaros sin casar por a a ellos?
+- 2Sa_1:26más maravilloso...fue tu a que el a deH160
+- 2Sa_5:12había engrandecido su reino por a de suH5668
+- 2Sa_7:23por a de tu pueblo que rescataste para
+- 2Sa_9:1haga yo misericordia por a de Jonatán?[[H5668]]
+- 2Sa_9:7misericordia por a de Jonatán tu padreH5668
+- 2Sa_13:15el odio...fue mayor que el a con que laH160
+- 2Sa_15:20te muestre a permanente y fidelidadH2617
+- 2Sa_18:5tratad benignamente por a de mí al joven
+- 1Re_11:2a estas, pues, se juntó Salomón con aH157
+- 1Re_11:12no lo haré en...por a a David tu padreH4616
+- 1Re_11:13, 1Re_11:32por a a David...y por a a JerusalénH4616
+- 1Re_11:34lo retendré...por a a David mi siervoH4616
+- 1Re_15:4por a a David, Jehová...le dio lámpara enH4616
+- 2Re_8:19no quiso destruir...por a a David suH4616
+- 2Re_19:34; 2Re_20:6por a a mí mismo, y por a a DavidH4616
+- 1Cr_16:21por a de ellos castigó a los reyesH5921
+- 1Cr_17:19por a de tu siervo y según tu corazónH3519
+- Sal_23:3guiará por sendas de justicia por aH4616
+- Sal_25:11por a de tu nombre, oh...perdonarás miH4676
+- Sal 45 tít.de los hijos de Coré. Canción de aH3039
+- Sal_69:7porque por a de ti he sufrido afrentaH5921
+- Sal_79:9y perdona nuestros pecados por a de tuH4616
+- Sal_91:14por cuanto en mí ha puesto su a, yoH2836
+- Sal_106:8pero él los salvó por a de su nombreH4616
+- Sal_109:4en pago de mi a me han sido adversariosH160
+- Sal_109:5devuelven mal por bien, y odio por aH160
+- Sal_109:21Señor...favoréceme por a de tu nombreH4616
+- Sal_122:8por a de mis hermanos y mis compañerosH4616
+- Sal_122:9por a a la casa de Jehová nuestro DiosH4616
+- Sal_132:10por a de David tu siervo no vuelvasH5668
+- Pro_5:19satisfagan...en su a recréate siempreH160
+- Pro_7:18embriaguémonos de a...alegrémonos en aH1730, [[H159]]
+- Pro_10:12pero el a cubrirá todas las faltasH160
+- Pro_15:17mejor es la...de legumbres donde hay aH160
+- Pro_27:5es reprensión manifiesta que a ocultoH160
+- Ecl_9:1que sea a o que sea odio, no lo sabenH160
+- Ecl_9:6su a y su odio y su envidia fenecieronH160
+- Cnt_1:2porque mejores son tus a que el VinoH1730
+- Cnt_1:4nos acordaremos de tus a que del vinoH1730
+- Cnt_2:4me llevó a...y su bandera sobre mí fue aH160
+- Cnt_2:5confortadme con manzanas...enferma de aH160
+- Cnt_2:7; Cnt_3:5no despertéis ni hagáis velar al aH160
+- Cnt_3:10interior recamado de a por las doncellasH160
+- Cnt_4:10hermosos son tus a, hermana, esposa míaH1730
+- Cnt_4:10¡cuánto mejores que el vino tus a, y elH1730
+- Cnt_5:8le hagáis saber que estoy enferma de aH160
+- Cnt_7:6hermosa...y cuán suave, oh a deleitoso![[H160]]
+- Cnt_7:12si han florecido los...allí te daré mis aH1730
+- Cnt_8:4ni hagáis velar al a, hasta que quieraH160
+- Cnt_8:6fuerte es como la muerte el a: duros comoH160
+- Cnt_8:7las muchas aguas no podrán apagar el aH160
+- Cnt_8:7todos los bienes de su casa por este aH160
+- Isa_37:35por a de mí mismo, y por a de DavidH4616
+- Isa_42:21se complació por a de su justicia enH4616
+- Isa_43:25el que borro tus rebeliones por a de míH4616
+- Isa_45:4por a de mi siervo Jacob, y de IsraelH4616
+- Isa_48:9por a de mi nombre diferiré mi ira, yH4616
+- Isa_48:11por a de mí mismo lo haré, para que noH4616
+- Isa_62:1por a de Sion no callaré, y por a deH4616
+- Isa_62:4el a de Jehová estará en ti, y tu tierra
+- Isa_63:9en su a y en su clemencia los redimióH160
+- Isa_63:17vuélvete por a de tus siervos, por lasH4616
+- Jer_2:2me he acordado...del a de tu desposorioH160
+- Jer_2:33por qué adornas tu camino para hallar a?[[H160]]
+- Jer_14:7Jehová, actúa por a de tu nombre; porqueH4616
+- Jer_14:21por a de tu nombre no nos deseches, niH4616
+- Jer_15:15sabes que por a de ti sufro afrenta
+- Jer_31:3con a eterno te he amado, por tanto, teH160
+- Eze_16:8he aquí que tu tiempo era tiempo de aH1730
+- Eze_20:44haga con vosotros por a de mi nombreH4616
+- Eze_23:17se llegaron a ella los...en su lecho de aH1730
+- Eze_23:40por a de ellos te lavaste, y pintaste
+- Eze_33:32que tú eres a ellos como cantor de aH5690
+- Dan_9:17Dios...oye la oración...por a del SeñorH4616
+- Dan_9:19no tardes, por a de ti mismo, Dios míoH4616
+- Dan_11:37no hará caso, ni del a de las mujeresH2532
+- Ose_3:1el a de Jehová para con los hijosH160
+- Ose_11:4con cuerdas...los atraje, con cuerdas de aH160
+- Sof_3:17callará de a, se regocijará sobre tiH160
+- Mat_24:12maldad, el a de muchos se enfriaráG26
+- Luc_11:42pasáis por alto la justicia y el a deG26
+- Jua_5:42que no tenéis a de Dios en vosotrosG26
+- Jua_13:35si tuviereis a los unos con los otrosG26
+- Jua_15:9así...yo os he amado; permaneced en mi aG26
+- Jua_15:10si guardareis...permaneceréis en mi aG26
+- Jua_15:10he guardado los...y permanezco en su aG26
+- Jua_15:13nadie tiene mayor a que este, que unoG26
+- Jua_17:26que el a con que me has amado, esté enG26
+- Rom_1:5la obediencia a la fe...a de su nombre
+- Rom_5:5porque el a de Dios ha sido derramado enG26
+- Rom_5:8Dios muestra su a para con nosotros enG26
+- Rom_8:35¿quién nos separará del a de Cristo?[[G26]]
+- Rom_8:39ni lo...nos podrá separar del a de DiosG26
+- Rom_9:3separado de Cristo, por a a mis hermanos
+- Rom_12:9el a sea sin fingimiento. Aborreced loG26
+- Rom_12:10amaos los unos a los...con a fraternalG5360
+- Rom_13:10el a no hace mal al prójimo; así que elG26
+- Rom_13:10que el cumplimiento de la ley es el aG26
+- Rom_14:15la comida...ya no andas conforme al aG26
+- Rom_15:30os ruego...por el a del Espíritu, que meG26
+- 1Co_4:6como ejemplo en mí...por a de vosotros
+- 1Co_4:10somos insensatos por a de Cristo, mas
+- 1Co_4:21¿iré a vosotros con vara, o con a yG26
+- 1Co_8:1conocimiento envanece, pero el a edificaG26
+- 1Co_13:1si yo hablase lenguas...y no tengo aG26
+- 1Co_13:2y si tuviese toda la fe...y no tengo aG26
+- 1Co_13:3quemado, y no tengo a, de nada me sirveG26
+- 1Co_13:4el a es sufrido...el a no tiene envidiaG26
+- 1Co_13:4el a no es jactancioso, no se envaneceG26
+- 1Co_13:8a nunca deja de ser; pero las profecíasG26
+- 1Co_13:13permanecen la fe, la esperanza y el aG26
+- 1Co_13:13tres; pero el mayor de ellos es el aG26
+- 1Co_14:1seguid el a; y procurad los donesG26
+- 1Co_16:14todas vuestras cosas sean hechas con aG26
+- 1Co_16:24mi a en Cristo Jesús esté con todosG26
+- 2Co_2:4supieseis cuán grande es el a que osG26
+- 2Co_2:8os ruego que confirméis el a para con élG26
+- 2Co_4:5a nosotros como...siervos por a de JesúsG1223
+- 2Co_4:15estas cosas padecemos por a a vosotrosG1223
+- 2Co_5:14el a de Cristo nos constriñe, pensandoG26
+- 2Co_6:6bondad, en el Espíritu Santo, en a sinceroG26
+- 2Co_8:7en vuestro a para con nosotros, abundadG26
+- 2Co_8:8poner a prueba...sinceridad del a vuestroG26
+- 2Co_8:9por a a vosotros se hizo pobre, siendoG1223
+- 2Co_8:24mostrad, pues...la prueba de vuestro aG26
+- 2Co_12:10por a a Cristo me gozo en las debilidadesG5228
+- 2Co_12:15me gastaré del todo por a de vuestrasG25
+- 2Co_13:11Dios de paz y de a estará con vosotrosG26
+- 2Co_13:14el a de Dios...sean con todos vosotrosG26
+- Gál_5:6vale algo...sino la fe que obra por el aG26
+- Gál_5:13sino servíos por a los unos a los otrosG26
+- Gál_5:22el fruto del Espíritu es a, gozo, pazG26
+- Efe_1:5en a habiéndonos predestinado para ser
+- Efe_1:15de vuestro a para con todos los santosG26
+- Efe_2:4Dios, que...por su gran a con que nos amóG26
+- Efe_3:17fin de que, arraigados y cimentados en aG26
+- Efe_3:19de conocer el a de Cristo, que excede aG26
+- Efe_4:2soportándoos...los unos a los otros en aG26
+- Efe_4:15que siguiendo la verdad en a, crezcamosG26
+- Efe_4:16crecimiento para ir edificándose en aG26
+- Efe_5:2andad en a, como también Cristo nos amóG26
+- Efe_6:23y a con fe, de Dios Padre y del SeñorG26
+- Efe_6:24que aman a...Jesucristo con a inalterableG25
+- Flp_1:8os amo a todos...con el entrañable aG4698
+- Flp_1:9esto pido en oración, que vuestro a abundeG26
+- Flp_1:17pero los otros por a, sabiendo que estoyG26
+- Flp_2:1si hay...algún consuelo de a, si algunaG26
+- Flp_2:2sintiendo lo mismo, teniendo el mismo aG26
+- Flp_3:7he estimado como pérdida por a de Cristo
+- Flp_3:8por a del cual lo he perdido todo, y lo
+- Col_1:4del a que tenéis a todos los santosG26
+- Col_1:8nos ha declarado vuestro a en el EspírituG26
+- Col_2:2unidos en a, hasta alcanzar todas lasG26
+- Col_3:14y sobre todas estas cosas vestíos de aG26
+- 1Ts_1:3del trabajo de vuestro a y de vuestraG26
+- 1Ts_1:5sabéis cuáles fuimos...por a de vosotrosG1223
+- 1Ts_3:6nos dio buenas noticias de vuestra fe y aG26
+- 1Ts_3:12había...abundar en a unos para con otrosG26
+- 1Ts_4:9del a fraternal no tenéis necesidad de queG5360
+- 1Ts_5:8vestido con la coraza de fe y de a, y conG26
+- 1Ts_5:13que los tengáis en mucha estima y a porG26
+- 2Ts_1:3y el a de todos...abunda para con losG26
+- 2Ts_2:10no recibieron el a de la verdad para serG26
+- 2Ts_3:5encamine vuestros corazones al a de DiosG26
+- 1Ti_1:5propósito de este mandamiento es el aG26
+- 1Ti_1:14fue más abundante con la fe y el a queG26
+- 1Ti_2:15se salvará...si permaneciere en fe, aG26
+- 1Ti_4:12sino sé ejemplo de los creyentes en...aG26
+- 1Ti_6:10raíz de...los males es el a al dineroG5365
+- 1Ti_6:11sigue la justicia...el a, la pacienciaG26
+- 2Ti_1:7espíritu de...a y de dominio propioG26
+- 2Ti_1:13en la fe y a que es en Cristo JesúsG26
+- 2Ti_2:10todo lo soporto por a de los escogidosG1223
+- 2Ti_2:22sigue la justicia, la fe, el a y la pazG26
+- 2Ti_3:10tú has seguido mi doctrina...a, pacienciaG26
+- Tit_2:2en la fe, en el a, en la pacienciaG26
+- Tit_3:4se manifestó...su a para con los hombresG5363
+- Flm_1:5oigo del a...que tienes hacia el SeñorG26
+- Flm_1:7pues tenemos gran gozo y consolación en tu aG26
+- Flm_1:9te ruego por a, siendo como soy, Pablo yaG26
+- Heb_6:10olvidar vuestra obra y el trabajo de aG26
+- Heb_10:24estimularnos al a y a las buenas obrasG26
+- Heb_13:1permanezca el a fraternalG5360
+- 1Pe_1:20manifestado en los...por a de vosotros
+- 1Pe_1:22el a fraternal no fingido, amaos unos aG25
+- 1Pe_4:8tened...a...el a cubrirá multitud de pecadosG26
+- 1Pe_5:14saludaos...con ósculo de a. Paz sea conG26
+- 2Pe_1:7fraternal; y al afecto fraternal, aG26
+- 1Jn_2:5en...el a de Dios se ha perfeccionadoG26
+- 1Jn_2:15al mundo, el a del Padre no está en élG26
+- 1Jn_3:1mirad cuál a nos ha dado el Padre, paraG26
+- 1Jn_3:16en esto hemos conocido el a, en que élG26
+- 1Jn_3:17ve a su...¿cómo mora el a de Dios en él?[[G26]]
+- 1Jn_4:7amémonos unos a otros...el a es de DiosG25
+- 1Jn_4:8no ha conocido a Dios; porque Dios es aG26
+- 1Jn_4:9en esto se mostró el a de Dios para conG26
+- 1Jn_4:10en esto consiste el a: no en que nosotrosG26
+- 1Jn_4:12y su a se ha perfeccionado en nosotrosG26
+- 1Jn_4:16hemos...creído el a que Dios tiene paraG26
+- 1Jn_4:16Dios es a; y el que permanece en aG26
+- 1Jn_4:17en...se ha perfeccionado el a en nosotrosG26
+- 1Jn_4:18en el a no hay temor, sino que elG26
+- 1Jn_4:18que el perfecto a echa fuera el temorG26
+- 1Jn_4:18teme, no ha sido perfeccionado en el aG26
+- 1Jn_5:3este es el a a Dios, que guardemos susG26
+- 2Jn_1:3y paz, de Dios Padre...en verdad y en aG26
+- 2Jn_1:6el a, que andemos según sus mandamientosG26
+- 2Jn_1:6que andéis en a, como vosotros habéis oído
+- 3Jn_1:6los cuales han dado...testimonio de tu aG26
+- 3Jn_1:7ellos salieron por a del nombre de El, sinG5228
+- Jud_1:2misericordia y paz y a...multiplicadosG26
+- Jud_1:21conservaos en el a de Dios, esperando laG26
+- Rev_2:3has trabajado...por a de mi nombre, y noG1223
+- Rev_2:4contra ti, que has dejado tu primer aG26
+- Rev_2:19conozco tus obras, y a, y fe, y servicioG26

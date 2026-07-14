@@ -1,0 +1,80 @@
+---
+tipo: concordancia
+palabra: REPRENDER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REPRENDER
+
+- Gén_31:42pero Dios vio...y te reprendió anocheH3198
+- Gén_37:10su padre le reprendió, y le dijo: ¿QuéH1605
+- Rut_2:16para que lo recoja, y no la reprendáisH1605
+- Neh_5:7reprendí a los nobles y a...oficialesH7378
+- Neh_13:11entonces reprendí a los oficiales, yH7378
+- Neh_13:17y reprendí a los señores de Judá y lesH7378
+- Job_6:25pero ¿qué reprende la censura vuestra?[[H3198]]
+- Sal_6:1Jehová, no me reprendas en tu enojoH3198
+- Sal_9:5reprendiste a las naciones, destruiste alH1605
+- Sal_38:1Jehová, no me reprendas en tu furor, niH3198
+- Sal_50:8no te reprenderé por tus sacrificios, niH3198
+- Sal_50:21te reprenderé, y las pondré delante deH3198
+- Sal_94:10el que castiga a las...¿no reprenderá?[[H3198]]
+- Sal_106:9reprendió al Mar Rojo y lo secó, y lesH1605
+- Sal_119:21reprendiste a los soberbios...malditosH1605
+- Sal_141:5que me reprenda será un...bálsamo que noH3198
+- Pro_9:7que reprende al impío, se atrae manchaH3198
+- Pro_9:8no reprendas al escarnecedor, para que noH3198
+- Pro_15:12escarnecedor no ama al que le reprendeH3198
+- Pro_24:25que lo reprendieren tendrán felicidadH3198
+- Pro_25:12es el que reprende al sabio que tieneH3198
+- Pro_28:23que reprende al hombre, hallará despuésH3198
+- Pro_29:1hombre que reprendido endurece la cervizH8433
+- Pro_30:6no añadas a sus...para que no te reprendaH3198
+- Isa_2:4juzgará...y reprenderá a muchos pueblosH3198
+- Isa_17:13pero Dios los reprenderá, y huirán lejosH1605
+- Isa_29:21que arman lazo al que reprendía en laH3198
+- Jer_29:27no has reprendido ahora a JeremíasH1605
+- Eze_3:26y no serás a ellos varón que reprendeH3198
+- Ose_4:4contienda ni reprenda a hombre, porqueH3198
+- Zac_3:2dijo...Jehová te reprenda, oh SatanásH1605
+- Zac_3:2que ha escogido a Jerusalén te reprendaH1605
+- Mal_3:11reprenderé también...al devorador, yH1605
+- Mat_8:26reprendió a los vientos y al mar; yG2008
+- Mat_17:18y reprendió Jesús al demonio, el cualG2008
+- Mat_18:15ve y repréndele estando tú y el solosG1651
+- Mat_19:13niños, los discípulos les reprendieronG2008
+- Mat_20:31gente les reprendió para que callasenG2008
+- Mar_1:25Jesús le reprendió, diciendo: ¡CállateG2008
+- Mar_3:12mas él les reprendía mucho para que no leG2008
+- Mar_4:39levantándose, reprendió al viento...al marG2008
+- Mar_8:33reprendió a Pedro, diciendo: ¡Quítate deG2008
+- Mar_9:25reprendió al espíritu inmundo, diciendoG2008
+- Mar_10:13y los discípulos reprendían a los queG2008
+- Mar_10:48muchos le reprendían para que callaseG2008
+- Luc_3:19Herodes el...siendo reprendido por JuanG1651
+- Luc_4:35Jesús le reprendió, diciendo: Cállate, yG2008
+- Luc_4:39inclinándose...reprendió a la fiebre; y laG2008
+- Luc_4:41él los reprendía y no les dejaba hablarG2008
+- Luc_8:24él, reprendió al viento y a los olas; yG2008
+- Luc_9:42pero Jesús reprendió al espíritu inmundoG2008
+- Luc_9:55reprendió, diciendo: Vosotros no sabéisG2008
+- Luc_17:3tu hermano pecare contra ti, repréndeleG2008
+- Luc_18:15viendo los discípulos, les reprendieronG2008
+- Luc_18:39te reprendían para que callase; pero élG2008
+- Luc_19:39le...Maestro, reprende a tus discípulosG2008
+- Luc_23:40el otro, le reprendió, diciendo; ¿Ni aunG2008
+- Jua_3:20para que sus obras no sean reprendidasG1651
+- Efe_5:11tinieblas, sino más bien reprendedlasG1651
+- 1Ti_5:1no reprendas al anciano...exhórtaleG1969
+- 1Ti_5:20repréndelos delante de todos, para queG1651
+- 2Ti_4:2reprende, exhorta con toda pacienciaG2008
+- Tit_1:13repréndelos duramente, para que seanG1651
+- Tit_2:15exhorta y reprende con toda autoridadG1651
+- Heb_8:8reprendiéndolos dice: He aquí vienen
+- Heb_12:5ni desmayes cuando eres reprendido porG1651
+- 2Pe_2:16fue reprendido por su iniquidad; puesG1649, [[G2192]]
+- 1Jn_3:20pues sí nuestro corazón nos reprendeG2607
+- 1Jn_3:21si nuestro corazón no nos reprendeG2607
+- Jud_1:9él, sino que dijo: El Señor te reprendaG2008
+- Rev_3:19yo reprendo y castigo a todos los queG1651

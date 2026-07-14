@@ -1,0 +1,114 @@
+---
+tipo: concordancia
+palabra: PRÓJIMO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRÓJIMO
+
+- Éxo_2:13dijo al que...¿Por qué golpeas a tu p?[[H7453]]
+- Éxo_10:23ninguno vio a su p, ni nadie se levantóH251
+- Éxo_20:16no hablarás contra...p falso testimonioH7453
+- Éxo_20:17no codiciarás la casa de tu p...su bueyH7453
+- Éxo_20:17no codiciarás la mujer de tu p, ni suH7453
+- Éxo_20:17no codiciarás...ni cosa alguna de tu pH7453
+- Éxo_21:14ensoberbeciere contra su p y lo matareH7453
+- Éxo_21:18y uno hiriere a su p con piedra o conH7453
+- Éxo_21:35si el buey de...hiriere al buey de su pH7453
+- Éxo_22:7diere a su p plata o alhajas a guardarH7453
+- Éxo_22:8ha metido su mano en los bienes de su pH7453
+- Éxo_22:9jueces condenaren, pagará el doble a...pH7453
+- Éxo_22:10hubiere dado a su p asno, o...a guardarH7453
+- Éxo_22:11no metió su mano a los bienes de su pH7453
+- Éxo_22:14tomado prestada bestia a su p, y fuereH7453
+- Éxo_22:26si tomares en prenda el vestido de tu pH7453
+- Lev_6:2negare a su p lo encomendado o dejadoH5997
+- Lev_6:2una persona...robare o calumniare a su pH5997
+- Lev_18:20no tendrás acto...con la mujer de tu pH5997
+- Lev_19:13no oprimirás a tu p, ni le robarás. NoH7453
+- Lev_19:15el juicio...con justicia juzgarás a tu pH5997
+- Lev_19:16no atentarás contra la vida de tu pH7453
+- Lev_19:17razonarás con tu p...que no participesH5997
+- Lev_19:18no...sino amarás a tu p como a ti mismoH7453
+- Lev_20:10cometiere adulterio con la mujer de...p
+- Lev_24:19que causare lesión en su p, según hizoH5997
+- Lev_25:14cuando vendiereis algo a vuestro p, oH5997
+- Lev_25:14o comprareis de mano de vuestro p, no
+- Lev_25:15conforme al número...comprarás de tu pH5997
+- Lev_25:17no engañe ninguno a su p, sino temed a
+- Deu_4:42que matase a su p sin intención, sinH7453
+- Deu_5:20no dirás falso testimonio contra tu pH7453
+- Deu_5:21la mujer de tu p, ni...la casa de tu p, niH7453
+- Deu_5:21no codiciarás la...ni cosa alguna de tu pH7453
+- Deu_15:2obligó a su p; no lo demandará...a su pH7453
+- Deu_19:4aquel que hiriere a su p sin intenciónH7453
+- Deu_19:5el que fuere con su p al monte a cortarH7453
+- Deu_19:5cabo, y diere contra su p y éste muriere
+- Deu_19:6por cuanto no tenía enemistad con su p
+- Deu_19:11que aborreciere a su p y lo acechare, yH7453
+- Deu_19:14no reducirás los límites de la...de tu p
+- Deu_22:24el hombre...humilló a la mujer de su pH7453
+- Deu_22:26levanta contra su p y le quita la vidaH7453
+- Deu_23:24en la viña de tu p, podrás comer uvasH7453
+- Deu_23:25mies de tu p, podrás arrancar espigasH7453
+- Deu_23:25mas no aplicarás hoz a la mies de tu pH7453
+- Deu_24:10entregares a tu p alguna cosa prestadaH7453
+- Deu_27:17maldito el que redujere el límite de...pH7453
+- Deu_27:24maldito...que hiriere a su p ocultamenteH7453
+- Jos_20:5por cuanto hirió a su p por accidenteH7453
+- 1Sa_15:28lo ha dado a un p tuyo mejor que túH7453
+- 2Sa_12:11tomaré tus mujeres...las daré a tu pH7453
+- 1Re_8:31; 2Cr_6:22alguno pecare contra su pH7453
+- Job_16:21disputar el hombre con...como con su pH7453
+- Job_31:9si estuve acechando a la puerta de mi pH7453
+- Sal_12:2habla mentira cada uno con su pH7453
+- Sal_15:3el que no calumnia...ni hace mal a su pH7453
+- Sal_28:3hablan paz con sus p, pero la maldad estáH7453
+- Sal_101:5al que...infama a su p, yo lo destruiréH7453
+- Pro_3:28no digas a tu p: Anda, y vuelve...daréH7453
+- Pro_3:29no intentes mal contra tu p que habitaH7453
+- Pro_6:3ya que has caído en la mano de tu p; ve
+- Pro_6:29es el que se llega a la mujer de su pH7453
+- Pro_11:9el hipócrita con la boca daña a su p; masH7453
+- Pro_11:12el que carece de...menosprecia a su pH7453
+- Pro_12:26el justo sirve de guía a su p; mas elH7453
+- Pro_14:21peca el que menosprecia a su p; mas elH7453
+- Pro_16:29hombre malo lisonjea a su p, y le haceH7453
+- Pro_21:10el mal; su p no halla favor en sus ojosH7453
+- Pro_24:28no seas sin causa testigo contra tu pH7453
+- Pro_25:8sepas qué hacer al fin, después que tu pH7453
+- Pro_25:18el hombre que habla contra su p falsoH7453
+- Pro_29:5hombre que lisonjea a su p, red tiendeH7453
+- Ecl_4:4despierta la envidia del...contra su pH7453
+- Isa_19:2cada uno peleará contra...contra su pH7453
+- Jer_5:8cual relinchaba tras la mujer de su pH7453
+- Jer_7:5hiciereis justicia entre el hombre y su pH7453
+- Jer_22:13edifica su...sirviéndose de su p de baldeH7453
+- Jer_29:23cometieron adulterio con las...de sus pH7453
+- Jer_31:34y no enseñará más ninguno a su p, niH7453
+- Jer_34:15anunciando cada uno libertad a su pH7453
+- Eze_18:6ídolos...ni violare la mujer de su pH7453
+- Eze_18:11los montes, o violare la mujer de su pH7453
+- Eze_18:15de Israel; la mujer de su p no violareH7453
+- Eze_22:11hizo abominación con la mujer de su pH7453
+- Eze_22:12a tus p defraudaste con violencia; teH7453
+- Eze_33:26contaminasteis cada...la mujer de su pH7453
+- Hab_2:15¡ay del que da de beber a su p! ¡AyH7453
+- Zac_8:16hablad verdad cada cual con su p...pazH7453
+- Zac_8:17ninguno...piense mal en su...contra su pH7453
+- Mat_5:43oísteis que fue dicho: Amarás a tu pG4139
+- Mat_19:19; Mat_22:39; Mar_12:31amarás a tu p como aG4139
+- Mar_12:33amar al p como a uno mismo, es másG4139
+- Luc_10:27amarás al...y a tu p como a ti mismoG4139
+- Luc_10:29pero...dijo a Jesús: ¿Y quién es mi p?[[G4139]]
+- Luc_10:36¿quién, pues...te parece que fue el pG4139
+- Hec_7:27el que maltrataba a su p le rechazoG4139
+- Rom_13:8el que ama al p, ha cumplido la ley
+- Rom_13:9resume: Amarás a tu p como a ti mismoG4139
+- Rom_13:10el amor no hace mal al p; así que elG4139
+- Rom_15:2cada uno de nosotros agrade a su p enG4139
+- Gál_5:14la ley...Amarás a tu p como a ti mismoG4139
+- Efe_4:25hablad verdad cada uno con su p; porqueG4139
+- Heb_8:11ninguno enseñará a su p, ni ningunoG4139
+- Stg_2:8amarás a tu p como a ti mismo, bienG4139

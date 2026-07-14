@@ -1,0 +1,295 @@
+---
+tipo: concordancia
+palabra: CREER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CREER
+
+- Gén_15:6creyó a Jehová, y le fue contado porH539
+- Gén_45:26Jacob se afligió, porque no los creíaH539
+- Éxo_4:1ellos no me creerán, ni oirán mi vozH539
+- Éxo_4:5por esto creerán que se te ha aparecidoH539
+- Éxo_4:8no te creyeren ni obedecieren a la voz deH539
+- Éxo_4:8señal, creerán a la voz de la postreraH539
+- Éxo_4:9y si aún no creyeren a estas dos señalesH539
+- Éxo_4:31Y el pueblo creyó; y oyendo...adoraronH539
+- Éxo_14:31el Pueblo temió...y creyeron a JehováH539
+- Éxo_19:9también para que te crean para siempreH539
+- Núm_14:11¿hasta cuándo no me creerán...señalesH539
+- Núm_20:12no creísteis en mí, para santificarmeH539
+- Deu_1:32y aun con esto no creísteis a JehováH539
+- Deu_9:23no le creísteis, ni obedecisteis a suH539
+- 1Sa_27:12y Aquis creía a David, y decía: ElH539
+- 1Re_10:7yo no lo creía, hasta que he venidoH539
+- 2Re_17:14los cuales no creyeron en Jehová suH539
+- 2Cr_9:6yo no creía...hasta que he venido, yH539
+- 2Cr_20:20creed en Jehová, y...c a sus profetas, yH539
+- 2Cr_32:15no os engañe Ezequías...ni le creáisH539
+- Job_9:16no creeré que haya escuchado mi vozH539
+- Job_15:22él no cree que volverá de las tinieblasH539
+- Job_29:24si me reía con ellos, no lo creían; yH539
+- Job_37:24que cree en su propio corazón ser sabio
+- Sal_27:13si no creyese que veré la bondad deH539
+- Sal_78:22por cuanto no habían creído a Dios, niH539
+- Sal_116:10creí; por...hablé, estando afligido enH539
+- Sal_106:12entonces creyeron a sus palabras yH539
+- Sal_106:24por cuanto...no creyeron a su palabraH539
+- Sal_119:66Porque tus mandamientos he creídoH539
+- Pro_14:15simple todo lo cree; mas el avisadoH539
+- Pro_26:25hablare amigablemente, no le creasH539
+- Isa_7:9si vosotros no creyereis, de cierto noH539
+- Isa_28:16en Sion...el que creyere, no se apresureH539
+- Isa_43:10me conozcáis y creáis, y entendáis queH539
+- Isa_53:1¿quién ha creído a nuestro anuncio?[[H539]]
+- Jer_11:15¿crees...pueden envitarte el castigo?
+- Jer_12:6de ti. No los creas cuando bien te hablenH539
+- Jer_40:14Gedalías hijo de Ahicam no les creyóH539
+- Lam_4:12nunca, creyeron que el enemigo y elH539
+- Jon_3:5los hombres de Nínive creyeron a DiosH539
+- Miq_7:5no creáis en amigo, ni...en príncipe; deH539
+- Hab_1:5cuando se os contare, no la creeréisH539
+- Mat_8:13dijo: Vé, y como creíste, te sea hechoG4100
+- Mat_9:28les dijo: ¿Creéis que puedo hacer esto?[[G4100]]
+- Mat_18:6haga tropezar...pequeños que creen en míG4100
+- Mat_21:22que pidiereis en...creyendo, lo recibiréis
+- Mat_21:25dirá: ¿Por qué, pues, no le creísteis?[[G4100]]
+- Mat_21:32vino a vosotros Juan...no le creísteisG4100
+- Mat_21:32publicanos y las rameras le creyeronG4100
+- Mat_21:32no os arrepentisteis para creerleG4100
+- Mat_24:23dijere...mirad allí está, no lo creáisG4100
+- Mat_24:26está en los aposentos, no lo creáisG4100
+- Mat_27:42descienda...la cruz, y creeremos en élG4100
+- Mar_1:15arrepentíos, y creed en el evangelioG4100, [[G1722]]
+- Mar_5:36Jesús...dijo...No temas, cree solamenteG4100
+- Mar_9:23si puedes creer, al que cree todo le esG4100
+- Mar_9:24y dijo: Creo; ayuda mi incredulidadG4100
+- Mar_9:42uno de estos pequeñitos que creen en míG4100
+- Mar_11:23creyere que será hecho lo que dice, loG4100
+- Mar_11:24creed que lo recibiréis, y os vendráG4100
+- Mar_11:31dirá: ¿Por qué, pues, no le creísteis?[[G4100]]
+- Mar_13:21mirad aquí...allí está, no le creáisG4100
+- Mar_15:32descienda...para que veamos y creamosG4100
+- Mar_16:11oyeron que vivía, y que...no lo creyeronG569
+- Mar_16:13ellos fueron...ni aun a ellos creyeronG4100
+- Mar_16:14no habían creído a los que le habíanG4100
+- Mar_16:16el que creyere...será salvo; mas el queG4100
+- Mar_16:16mas el que no creyere, será condenadoG569
+- Mar_16:17estas señales seguirán a los que creenG4100
+- Luc_1:20por cuanto no creíste mis palabras, lasG4100
+- Luc_1:45bienaventurada la que creyó, porque seG4100
+- Luc_3:23hijo, según se creía, de José, hijo deG3543
+- Luc_8:12quita la...para que no crean y se salvenG4100
+- Luc_8:13creen por algún tiempo, y en...se apartanG4100
+- Luc_8:50no temas; cree solamente, y será salvaG4100
+- Luc_20:5dirá ¿Por qué, pues, no le creísteis?[[G4100]]
+- Luc_22:67les dijo: Si os lo dijere, no creeréisG4100
+- Luc_24:11les parecían locura...y no las creíanG569
+- Luc_24:25tardos de corazón para creer todo lo queG4100
+- Luc_24:41todavía ellos, de gozo, no lo creíanG569
+- Jua_1:7vino...fin de que todos creyesen por élG4100
+- Jua_1:12a los que creen en su nombre, les dioG4100
+- Jua_1:50dije: Te vi debajo de la higuera, crees?[[G4100]]
+- Jua_2:11en Caná...y sus discípulos creyeron en élG4100
+- Jua_2:22y creyeron la Escritura y la palabra queG4100
+- Jua_2:23muchos creyeron en su nombre, viendo lasG4100
+- Jua_3:12he dicho cosas terrenales, y no creéisG4100
+- Jua_3:12cómo creréis si os dijere las celestiales?[[G4100]]
+- Jua_3:15-16aquel que en él cree, no se pierdaG4100
+- Jua_3:18el que en él cree, no es condenado; peroG4100
+- Jua_3:18pero el que no cree, ya ha sido condenadoG4100
+- Jua_3:18no ha creído en el nombre...Hijo de DiosG4100
+- Jua_3:36el que cree en el Hijo tiene vida eternaG4100
+- Jua_3:36que rehúsa creer en el...no verá la vidaG544
+- Jua_4:21créeme, que la hora viene cuando ni enG4100
+- Jua_4:39muchos de los samaritanos de...creyeronG4100
+- Jua_4:41creyeron muchos más Por la palabra de élG4100
+- Jua_4:42ya no creemos solamente por tu dichoG4100
+- Jua_4:48dijo: Si no viereis señales...no creeréisG4100
+- Jua_4:50el hombre creyó la palabra que Jesús leG4100
+- Jua_4:53entendió...y creyó él con toda su casaG4100
+- Jua_5:24cree al que me envió, tiene vida eternaG4100
+- Jua_5:38a quien él envió, vosotros no creéisG4100
+- Jua_5:44¿cómo podéis...creer, pues recibís gloriaG4100
+- Jua_5:46si creyeseis a Moisés...me creeríais a míG4100
+- Jua_5:47pero si no creéis a sus escritos, ¿cómoG4100
+- Jua_5:47si no...¿cómo creeréis a mis palabras?[[G4100]]
+- Jua_6:29obra...que creáis en el que él ha enviadoG4100
+- Jua_6:30señal...para que veamos, y te creamos?[[G4100]]
+- Jua_6:35el que en mí cree, no tendrá sed jamásG4100
+- Jua_6:36que aunque me habéis visto, no creéisG4100
+- Jua_6:40todo aquel que ve al Hijo, y cree en élG4100
+- Jua_6:47el que cree en mí, tiene vida eternaG4100
+- Jua_6:64hay algunos de vosotros que no creenG4100
+- Jua_6:64sabía...quienes eran los que no creíanG4100
+- Jua_6:69nosotros hemos creído y conocemos queG4100
+- Jua_7:5porque ni aun sus hermanos creían en élG4100
+- Jua_7:31muchos de la multitud creyeron en él, yG4100
+- Jua_7:38que cree en mí, como dice la EscrituraG4100
+- Jua_7:39que habían de recibir los que creyesenG4100
+- Jua_7:48¿acaso ha creído en él alguno de losG4100
+- Jua_8:24si no creéis que yo soy, en...moriréisG4100
+- Jua_8:30hablando...cosas, muchos creyeron en élG4100
+- Jua_8:31dijo...a los judíos que habían creído enG4100
+- Jua_8:45mí, porque digo la verdad, no me creéisG4100
+- Jua_8:46verdad, ¿por qué vosotros no me creéis?[[G4100]]
+- Jua_9:18los judíos no creían que él había sidoG4100
+- Jua_9:35le dijo: ¿Crees tú en el Hijo de Dios?[[G4100]]
+- Jua_9:36¿quién es, Señor, para que crea en él?[[G4100]]
+- Jua_9:38y él dijo: Creo, Señor; y le adoróG4100
+- Jua_10:25respondió: Os lo he dicho, y no creéisG4100
+- Jua_10:26vosotros no creéis, porque no sois deG4100
+- Jua_10:37si no hago las obras de...no me creáisG4100
+- Jua_10:38no me creáis a mí, creed a las obrasG4100
+- Jua_10:38creáis que el Padre está en mí, y yo enG4100
+- Jua_10:42y muchos creyeron en él allíG4100
+- Jua_11:15me alegro por vosotros...para que creáisG4100
+- Jua_11:25el que cree en mí...esté muerto, viviráG4100
+- Jua_11:26aquel que vive y cree en mí, no moriráG4100
+- Jua_11:26no morirá eternamente. ¿Crees esto?[[G4100]]
+- Jua_11:27sí...yo he creído que tú eres el CristoG4100
+- Jua_11:40¿no te he dicho que si crees, verás laG4100
+- Jua_11:42para que crean que tú me has enviadoG4100
+- Jua_11:45vieron lo que hizo Jesús, creyeron enG4100
+- Jua_11:48si te dejamos así, todos creerán en élG4100
+- Jua_12:11a causa de él muchos...creían en JesúsG4100
+- Jua_12:36creed en la luz, para que seáis hijos deG4100
+- Jua_12:37hecho tantas señales...no creían en élG4100
+- Jua_12:38¿quién ha creído a nuestro anuncio?[[G4100]]
+- Jua_12:39por esto no podían creer, porque tambiénG4100
+- Jua_12:42aun de los gobernantes...creyeron en élG4100
+- Jua_12:44el que cree en mí, no c en mí, sino enG4100
+- Jua_12:46para que todo aquel que cree en mí noG4100
+- Jua_13:19digo...para que cuando suceda, creáisG4100
+- Jua_14:1creéis en Dios, creed también en míG4100
+- Jua_14:10¿no crees que yo soy en el Padre, y elG4100
+- Jua_14:11creedme que soy en el Padre, y el PadreG4100
+- Jua_14:11manera, creedme por las mismas obrasG4100
+- Jua_14:12que en mí cree, las obras que yo hagoG4100
+- Jua_14:29dicho...para que cuando suceda, creáisG4100
+- Jua_16:9de pecado, por cuanto no creen en míG4100
+- Jua_16:27y habéis creído que yo salí de DiosG4100
+- Jua_16:30por esto creemos que has salido de DiosG4100
+- Jua_16:31Jesús les respondió: ¿Ahora creéis?[[G4100]]
+- Jua_17:8y ellos...han creído que tú me enviasteG4100
+- Jua_17:20que han de creer en mí por la palabraG4100
+- Jua_17:21que el mundo crea que tú me enviasteG4100
+- Jua_19:35dice verdad, para que...también creáisG4100
+- Jua_20:8entró también el otro...y vio, y creyóG4100
+- Jua_20:25metiere mi...en su costado, no creeréG4100
+- Jua_20:29porque me has visto, Tomás, creísteG4100
+- Jua_20:29bienaventurados...no vieron, y creyeronG4100
+- Jua_20:31éstas se han escrito para que creáisG4100
+- Jua_20:31y para que creyendo, tengáis vida en suG4100
+- Hec_2:44los que habían creído estaban juntosG4100
+- Hec_4:4los que habían oído la palabra, creyeronG4100
+- Hec_4:32los que habían creído era de un corazónG4100
+- Hec_5:14y los que creían en el Señor aumentabanG4100
+- Hec_8:12cuando creyeron a Felipe, que anunciabaG4100
+- Hec_8:13creyó Simón mismo...Y viendo las señalesG4100
+- Hec_8:37si crees...Creo que Jesucristo es el HijoG4100
+- Hec_9:26miedo, no creyendo que fuese discípuloG4100
+- Hec_9:42notorio...y muchos creyeron en el SeñorG4100
+- Hec_10:43que en él creyeren, recibirán perdón deG4100
+- Hec_11:17don que a nosotros que hemos creído enG4100
+- Hec_11:21número creyó...y se convirtió al SeñorG4100
+- Hec_13:12el procónsul, viendo lo...sucedido, creyóG4100
+- Hec_13:39en él es justificado...aquel que creeG4100
+- Hec_13:41obra que no creeréis, si alguien os laG4100
+- Hec_13:48creyeron todos...que estaban ordenadosG4100
+- Hec_14:1que creyó una gran multitud de judíosG4100
+- Hec_14:2mas los judíos que no creían excitaronG544
+- Hec_14:23encomendaron al Señor en quien...creídoG4100
+- Hec_15:5de los fariseos, que habían creído, seG4100
+- Hec_15:7gentiles oyesen...la palabra...y creyesenG4100
+- Hec_15:11creemos que por la gracia del SeñorG4100
+- Hec_16:31dijeron: Cree en el Señor Jesucristo, yG4100
+- Hec_16:34se regocijó con...de haber creído a DiosG4100
+- Hec_17:4algunos de ellos creyeron, y se juntaronG3982
+- Hec_17:5los judíos que no creían, teniendo celosG544
+- Hec_17:12que creyeron muchos de ellos, y mujeresG4100
+- Hec_17:34mas algunos creyeron, juntándose con élG4100
+- Hec_18:8Crispo...creyó en el Señor con toda suG4100
+- Hec_18:8muchos...oyendo, creían y eran bautizadosG4100
+- Hec_18:27a los que por la gracia habían creídoG4100
+- Hec_19:2¿recibisteis el Espíritu...cuando creísteis?[[G4100]]
+- Hec_19:4creyesen en aquel que vendría después deG4100
+- Hec_19:9y no creyendo...se apartó Pablo de ellosG544
+- Hec_19:18los que habían creído venían, confesandoG4100
+- Hec_21:20millares de judíos hay que han creídoG4100
+- Hec_21:25en cuanto a los gentiles que han creídoG4100
+- Hec_22:19saben que yo...azotaba...a los que creíanG4100
+- Hec_23:21no les creas; porque más de 40 hombresG3982
+- Hec_24:14creyendo todas las cosas que en la leyG4100
+- Hec_26:9había creído mi deber hacer muchas cosasG1380
+- Hec_26:27¿crees, oh rey Agripa, a...Yo sé que cG4100
+- Hec_28:24algunos asentían a lo...otros no creíanG3982
+- Rom_1:16para salvación a todo aquel que creeG4100
+- Rom_3:22para todos los que creen en él. PorqueG4100
+- Rom_4:3creyó Abraham a Dios, y le fue contadoG4100
+- Rom_4:5al que no obra, sino cree en aquel queG4100
+- Rom_4:17delante de Dios, a quien creyó, el cualG4100
+- Rom_4:18él creyó en esperanza contra esperanzaG4100
+- Rom_4:24los que creemos en el que levantó de losG4100
+- Rom_6:8y si morimos con Cristo, creemos queG4100
+- Rom_9:33el que creyere en él, no será avergonzadoG4100
+- Rom_10:4para justicia a todo aquel que creeG4100
+- Rom_10:9y creyeres en tu corazón que Dios leG4100
+- Rom_10:10con el corazón se cree para justiciaG4100
+- Rom_10:11todo aquel que en él creyere, no seráG4100
+- Rom_10:14¿cómo, pues, invocarán...no han creído?[[G4100]]
+- Rom_10:14¿y cómo creerán en aquel de quien noG4100
+- Rom_10:16¿quién ha creído a nuestro anuncio?[[G4100]]
+- Rom_13:11está más cerca de...que cuando creímosG4100
+- Rom_14:2cree que se ha de comer de todo; otroG4100
+- Rom_15:13llene de todo gozo y paz en el creerG4100
+- 1Co_3:5por medio de los cuales habéis creídoG4100
+- 1Co_3:18si alguno...se cree sabio en este sigloG1380
+- 1Co_11:18que hay...divisiones; y en parte lo creoG4100
+- 1Co_13:7todo lo cree, todo lo espera, todo loG4100
+- 1Co_14:37si alguno se cree profeta, o espiritualG1380
+- 1Co_15:2sois salvos, si no creísteis en vanoG4100
+- 1Co_15:11así predicamos, y así habéis creídoG4100
+- 2Co_4:13creí, por lo cual hablé...creemosG4100
+- Gál_2:16nosotros...hemos creído en JesucristoG4100
+- Gál_3:6Abraham creyó a Dios, y le fue contadoG4100
+- Gál_6:3el que se cree ser algo, no siendo nadaG1380
+- Efe_1:13oído la palabra...y habiendo creído enG4100
+- Efe_1:19poder para con nosotros los que creemosG4100
+- Flp_1:29no sólo que creáis en él...padezcáisG4100
+- 1Ts_1:7ejemplo a todos los...que han creídoG4100
+- 1Ts_4:14si creemos que Jesús murió y resucitóG4100
+- 2Ts_1:10admirado en todos los que creyeronG4100
+- 2Ts_1:10nuestro testimonio ha sido creído entreG4100
+- 2Ts_2:11les envía un...para que crean la mentiraG4100
+- 2Ts_2:12que sean condenados...los que no creyeronG4100
+- 1Ti_1:16ejemplo de los que habrían de creerG4100
+- 1Ti_3:16creído en el mundo, recibido arriba enG4100
+- 1Ti_4:10Salvador...mayormente de los que creenG4103
+- 2Ti_1:12sé a quién he creído, y estoy seguroG4100
+- Tit_3:8que creen en Dios procuren ocuparse enG4100
+- Heb_4:3pero los que hemos creído entramos enG4100
+- Heb_11:6el que se acerca a Dios crea que le hayG4100
+- Heb_11:11creyó que era fiel...lo había prometidoG2233
+- Heb_11:13sino mirándolo de lejos, y creyéndoloG3982
+- Stg_1:26si alguno se cree religioso entreG1380
+- Stg_2:19tú crees que Dios es uno; bien hacesG4100
+- Stg_2:19también los demonios creen, y tiemblanG4100
+- Stg_2:23Abraham creyó a Dios, y le fue contadoG4100
+- 1Pe_1:8en quien creyendo...alegráis con gozoG4100
+- 1Pe_1:21mediante el cual creéis en Dios, quienG4100
+- 1Pe_2:6el que creyere en él no será avergonzadoG4100
+- 1Pe_2:7vosotros los que creéis, él es preciosoG4100
+- 1Pe_3:1para que...los que no creen a la palabraG544
+- 1Jn_3:23que creamos en el nombre de su HijoG4100
+- 1Jn_4:1amados, no creáis a todo espíritu, sinoG4100
+- 1Jn_4:16nosotros hemos...creído el amor que DiosG4100
+- 1Jn_5:1aquel que cree que Jesús es el Cristo, esG4100
+- 1Jn_5:5¿quién es el que vence...sino el que creeG4100
+- 1Jn_5:10el que cree en el Hijo de Dios, tiene elG4100
+- 1Jn_5:10que no cree, a Dios le ha hecho mentirosoG4100
+- 1Jn_5:10porque no ha creído en el testimonio queG4100
+- 1Jn_5:13he escrito a vosotros que creéis en elG4100
+- 1Jn_5:13para que creáis en el nombre del Hijo deG4100
+- Jud_1:5después destruyó a los que no creyeronG4100

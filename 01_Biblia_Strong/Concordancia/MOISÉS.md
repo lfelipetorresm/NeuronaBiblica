@@ -1,0 +1,725 @@
+---
+tipo: concordancia
+palabra: MOISÉS
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MOISÉS
+
+- Éxo_2:10lo prohijó, Y le puso por nombre MH4872
+- Éxo_2:11crecido ya M, salió a sus hermanos, yH4872
+- Éxo_2:14M tuvo miedo, y dijo: Ciertamente estoH4872
+- Éxo_2:15Faraón...procuró matar a M; pero M huyóH4872
+- Éxo_2:17entonces M se levantó y las defendióH4872
+- Éxo_2:21M convino en morar con aquel varón; y élH4872
+- Éxo_2:21y él dio su hija Séfora por mujer a MH4872
+- Éxo_3:1apacentando M...ovejas de Jetro su suegroH4872
+- Éxo_3:3M dijo: Iré yo ahora y veré esta...visiónH4872
+- Éxo_3:4dijo: ¡M, M! Y él respondió: Heme aquíH4872
+- Éxo_3:6M cubrió su rostro, porque tuvo miedo deH4872
+- Éxo_3:11M respondió a Dios: ¿Quién soy yo paraH4872
+- Éxo_3:13dijo M a Dios: He aquí que llego yo aH4872
+- Éxo_3:14respondió Dios a M: Yo soy el que soyH4872
+- Éxo_3:15dijo Dios a M: Así dirás a los hijos deH4872
+- Éxo_4:1M respondió diciendo...no me creerán, niH4872
+- Éxo_4:3y se hizo una culebra; y M huía de ellaH4872
+- Éxo_4:4Jehová a M: Extiende tu mano, y tómalaH4872
+- Éxo_4:10dijo M a Jehová: ¡Ay, Señor! nunca heH4872
+- Éxo_4:14Jehová se enojó contra M, y dijo: ¿NoH4872
+- Éxo_4:18se fue M...Y Jetro dijo a M: Vé en pazH4872
+- Éxo_4:19dijo también Jehová a M en Madián: VéH4872
+- Éxo_4:20entonces M tomó su mujer y sus hijosH4872
+- Éxo_4:20tomó también M la vara de Dios en suH4872
+- Éxo_4:21dijo Jehová a M: Cuando hayas vuelto aH4872
+- Éxo_4:27a Aarón: Vé a recibir a M al desiertoH4872
+- Éxo_4:28contó M a Aarón todas las palabras deH4872
+- Éxo_4:29fueron M y Aarón, y reunieron a todosH4872
+- Éxo_4:30cosas que Jehová había dicho a M, e hizoH4872
+- Éxo_5:1después M y Aarón entraron a...de FaraónH4872
+- Éxo_5:4dijo: M y Aarón, ¿por qué hacéis cesarH4872
+- Éxo_5:20encontrando a M y a Aarón, que estabanH4872
+- Éxo_5:22entonces M se volvió a Jehová, y dijoH4872
+- Éxo_6:1Jehová respondió a M: Ahora verás lo queH4872
+- Éxo_6:2habló todavía Dios a M, y le dijo: Yo soyH4872
+- Éxo_6:9de esta manera habló M a los hijos deH4872
+- Éxo_6:9no escuchaban a M a causa de la congojaH4872
+- Éxo_6:10, Éxo_6:29; Éxo_7:8; Éxo_12:1; Éxo_13:1; Éxo_14:1; Éxo_16:11; Éxo_25:1; Éxo_30:11, Éxo_30:17, Éxo_30:22; Éxo_31:1, Éxo_31:12; Éxo_40:1; Lev_4:1; Lev_5:14; Lev_6:1, Lev_6:8, Lev_6:19, Lev_6:24; Lev_7:22, Lev_7:28; Lev_8:1; Lev_11:1; Lev_12:1; Lev_13:1; Lev_14:1, Lev_14:33; Lev_15:1; Lev_17:1; Lev_18:1; Lev_19:1; Lev_20:1; Lev_21:16; Lev_22:1, Lev_22:17, Lev_22:26; Lev_23:1, Lev_23:9, Lev_23:23, Lev_23:26, Lev_23:33; Lev_24:1, Lev_24:13; Lev_25:1; Lev_27:1; Núm_1:1, Núm_1:48; Núm_2:1; Núm_3:5, Núm_3:11, Núm_3:14, Núm_3:44; Núm_4:1, Núm_4:17, Núm_4:21; Núm_5:1, Núm_5:5, Núm_5:11; Núm_6:1, Núm_6:22; Núm_7:4; Núm_8:1, Núm_8:5, Núm_8:23; Núm_9:1, Núm_9:9; Núm_10:1; Núm_13:1; Núm_14:26; Núm_15:1, Núm_15:17, Núm_15:37; Núm_16:20, Núm_16:23, Núm_16:36, Núm_16:44; Núm_17:1; Núm_18:25; Núm_19:1; Núm_20:7, Núm_20:23; Núm_25:10, Núm_25:16; Núm_26:1, Núm_26:52; Núm_27:6; Núm_28:1; Núm_31:1, Núm_31:25; Núm_33:50; Núm_34:1, Núm_34:16; Núm_35:1, Núm_35:9Jehová habló a M, diciendoH4872
+- Éxo_6:12respondió M delante de Jehová: He aquíH4872
+- Éxo_6:13Jehová habló a M y a Aarón y les dioH4872
+- Éxo_6:20a Jocabed su...dio a luz a Aarón y a MH4872
+- Éxo_6:26es aquel Aarón y aquel M, a los cualesH4872
+- Éxo_6:27estos son los...M y Aarón fueron éstosH4872
+- Éxo_6:28cuando Jehová habló a M en la tierraH4872
+- Éxo_6:30y M respondió delante de Jehová: HeH4872
+- Éxo_7:1dijo a M: Mira, yo te he constituidoH4872
+- Éxo_7:6e hizo M y Aarón como Jehová les mandóH4872
+- Éxo_7:7era M de edad de ochenta años, y AarónH4872
+- Éxo_7:10vinieron, pues, M y Aarón a Faraón, eH4872
+- Éxo_7:14Jehová dijo a M: El corazón de FaraónH4872
+- Éxo_7:19Jehová dijo a M: Di a Aarón: Toma tuH4872
+- Éxo_7:20M y Aarón hicieron...Jehová lo mandóH4872
+- Éxo_8:1Jehová dijo a M: Entra a la presenciaH4872
+- Éxo_8:5Jehová dijo a M: DI a Aarón: ExtiendeH4872
+- Éxo_8:8Faraón llamó a M y a Aarón, y les dijoH4872
+- Éxo_8:9y dijo M a Faraón: Dígnate indicarmeH4872
+- Éxo_8:10y M respondió: Se hará conforme a tuH4872
+- Éxo_8:12salieron M y Aarón de la presencia deH4872
+- Éxo_8:12clamó M a Jehová tocante a las ranasH4872
+- Éxo_8:13hizo Jehová conforme a la palabra de MH4872
+- Éxo_8:16Jehová dijo a M: Di a Aarón: ExtiendeH4872
+- Éxo_8:20Jehová dijo a M: Levántate de mañanaH4872
+- Éxo_8:25Faraón llamó a M y a Aarón, y les dijoH4872
+- Éxo_8:26M respondió: No conviene que hagamosH4872
+- Éxo_8:29respondió M: He aquí, al salir yo de laH4872
+- Éxo_8:30M salió de la presencia de Faraón, y oróH4872
+- Éxo_8:31Jehová hizo conforme a la palabra de MH4872
+- Éxo_9:1Jehová dijo a M: Entra a la presencia deH4872
+- Éxo_9:8Jehová dijo a M y a Aarón: Tomad...cenizaH4872
+- Éxo_9:8y la esparcirá M hacia el cielo delanteH4872
+- Éxo_9:10ceniza...y la esparció M hacia el cieloH4872
+- Éxo_9:11y los hechiceros no podían estar...de MH4872
+- Éxo_9:12no...oyó, como Jehová lo había dicho a MH4872
+- Éxo_9:13Jehová dijo a M: Levántate de mañana, yH4872
+- Éxo_9:22Jehová dijo a M: Extiende tu mano haciaH4872
+- Éxo_9:23y M extendió su vara hacia el cielo, yH4872
+- Éxo_9:27Faraón envió a llamar a M y a Aarón, yH4872
+- Éxo_9:29le respondió M: Tan pronto salga yo deH4872
+- Éxo_9:33y salido M de la presencia de FaraónH4872
+- Éxo_9:35Jehová lo había dicho por medio de MH4872
+- Éxo_10:1Jehová dijo a M: Entra a la presenciaH4872
+- Éxo_10:3entonces vinieron M y Aarón a FaraónH4872
+- Éxo_10:8M y Aarón volvieron a ser llamados anteH4872
+- Éxo_10:9M respondió: Hemos de ir con nuestrosH4872
+- Éxo_10:12entonces Jehová dijo a M: Extiende tuH4872
+- Éxo_10:13extendió M su vara sobre la tierra deH4872
+- Éxo_10:16Faraón se apresuró a llamar a M y aH4872
+- Éxo_10:18salió M de delante de Faraón, y oró aH4872
+- Éxo_10:21a M: Extiende tu mano hacia el cicloH4872
+- Éxo_10:22y extendió M su mano hacia el cielo, yH4872
+- Éxo_10:24hizo llamar a M, y dijo: Id, servid aH4872
+- Éxo_10:25M respondió: Tú...nos darás sacrificiosH4872
+- Éxo_10:29M respondió: Bien has dicho; no veréH4872
+- Éxo_11:1Jehová dijo a M: Una plaga traeré aúnH4872
+- Éxo_11:3M era tenido por gran varón en...EgiptoH4872
+- Éxo_11:4dijo, pues, M: Jehová ha dicho asíH4872
+- Éxo_11:9y Jehová dijo a M: Faraón no os oiráH4872
+- Éxo_11:10y M y Aarón hicieron...estos prodigiosH4872
+- Éxo_12:21y M convocó a...los ancianos de IsraelH4872
+- Éxo_12:28hicieron...Jehová había mandado a M yH4872
+- Éxo_12:31hizo llamar a M y a Aarón de noche, yH4872
+- Éxo_12:35Israel conforme al mandamiento de MH4872
+- Éxo_12:43a M y a Aarón: Esta es la ordenanza deH4872
+- Éxo_12:50así lo hicieron...como mandó Jehová a MH4872
+- Éxo_13:3M dijo al pueblo: Tened memoria de esteH4872
+- Éxo_13:19tomó...consigo M los huesos de JoséH4872
+- Éxo_14:11y dijeron a M: ¿No había sepulcros enH4872
+- Éxo_14:13y M dijo al pueblo: No temáis; estadH4872
+- Éxo_14:15Jehová...a M: ¿Por qué clamas a mí? DíH4872
+- Éxo_14:21y extendió M su mano sobre el mar, eH4872
+- Éxo_14:26dijo a M: Extiende tu mano sobre elH4872
+- Éxo_14:27M extendió su mano sobre el mar, yH4872
+- Éxo_14:31y creyeron a Jehová y a M su siervoH4872
+- Éxo_15:1entonces cantó M y los hijos de IsraelH4872
+- Éxo_15:22e hizo M que partiese Israel del MarH4872
+- Éxo_15:24Pueblo murmuró contra M, y dijo: ¿QuéH4872
+- Éxo_15:25M clamó a Jehová...le mostró un árbolH4872
+- Éxo_16:2de los hijos de Israel murmuró contra MH4872
+- Éxo_16:4Jehová dijo a M...yo os haré llover panH4872
+- Éxo_16:6dijeron M y Aarón a todos los hijos deH4872
+- Éxo_16:8dijo también M: Jehová os dará en laH4872
+- Éxo_16:9dijo M a Aarón: Di a...la congregaciónH4872
+- Éxo_16:15M les dijo: Es el pan que Jehová os daH4872
+- Éxo_16:19les dijo M: Ninguno deje nada de elloH4872
+- Éxo_16:20no obedecieron a M, sino...dejaron deH4872
+- Éxo_16:20dejaron de ello...enojó contra ellos MH4872
+- Éxo_16:22vinieron y se lo hicieron saber a MH4872
+- Éxo_16:24mañana, según lo que U había mandadoH4872
+- Éxo_16:25dijo M: Comedlo hoy, porque hoy es díaH4872
+- Éxo_16:28y Jehová dijo a M: ¿Hasta cuándo noH4872
+- Éxo_16:32dijo M...es lo que Jehová ha mandadoH4872
+- Éxo_16:33dijo M a Aarón: Toma una vasija y ponH4872
+- Éxo_16:34guardarlo, como Jehová lo mandó a MH4872
+- Éxo_17:2y altercó el pueblo con M, y dijeronH4872
+- Éxo_17:2M les dijo: ¿Por qué altercáis conmigo?[[H4872]]
+- Éxo_17:3murmuró contra M, y dijo: ¿Por qué nosH4872
+- Éxo_17:4clamó M a Jehová, diciendo: ¿Qué haréH4872
+- Éxo_17:5Jehová dijo a M: Pasa delante del puebloH4872
+- Éxo_17:6M lo hizo así en presencia de...IsraelH4872
+- Éxo_17:9y dijo M a Josué: Escógenos varones, yH4872
+- Éxo_17:10hizo Josué como le dijo M, peleandoH4872
+- Éxo_17:10M y Aarón y Hur subieron a la cumbreH4872
+- Éxo_17:11alzaba M su mano, Israel prevalecíaH4872
+- Éxo_17:12las manos de M se cansaban; por lo queH4872
+- Éxo_17:14y Jehová dijo a M: Escribe esto paraH4872
+- Éxo_17:15M edificó un altar, y llamó su nombreH4872
+- Éxo_18:1Jetro sacerdote de Madián, suegro de MH4872
+- Éxo_18:1oyó...cosas que Dios había hecho con MH4872
+- Éxo_18:2tomó Jetro suegro de M...la mujer de MH4872
+- Éxo_18:5y Jetro el suegro de M...vino a M en elH4872
+- Éxo_18:6y dijo a M: Yo tu suegro Jetro vengo aH4872
+- Éxo_18:7y M salió a recibir a su suegro, y seH4872
+- Éxo_18:8y M contó a su suegro todas las cosasH4872
+- Éxo_18:12tomó Jetro suegro de M, holocaustos yH4872
+- Éxo_18:12vino Aarón...comer con el suegro de MH4872
+- Éxo_18:13se sentó M a juzgar al pueblo; y elH4872
+- Éxo_18:13y el pueblo estuvo delante de M desdeH4872
+- Éxo_18:14viendo el suegro de M todo lo que élH4872
+- Éxo_18:15y M respondió a su suegro: Porque elH4872
+- Éxo_18:17el suegro de M le dijo: No está bienH4872
+- Éxo_18:24oyó M la voz de su suegro, e hizo todoH4872
+- Éxo_18:25escogió M varones de virtud de entreH4872
+- Éxo_18:26asunto difícil lo traían a M, y ellosH4872
+- Éxo_18:27despidió M a su suegro, y éste se fueH4872
+- Éxo_19:3M subió a Dios; y Jehová lo llamó desdeH4872
+- Éxo_19:7entonces vino M, y llamó a los ancianosH4872
+- Éxo_19:8-9M refirió a Jehová las palabras delH4872
+- Éxo_19:9dijo a M...vengo a ti en una nube espesaH4872
+- Éxo_19:10a M: Vé al pueblo, y santifícalos hoyH4872
+- Éxo_19:14y descendió M del monte al pueblo, yH4872
+- Éxo_19:17M sacó del campamento al pueblo paraH4872
+- Éxo_19:19M hablaba, y Dios le respondía con vozH4872
+- Éxo_19:20llamó Jehová a M a la cumbre...M subióH4872
+- Éxo_19:21Jehová dijo a M: Desciende, ordena alH4872
+- Éxo_19:23M dijo a Jehová: El pueblo no podráH4872
+- Éxo_19:25entonces M descendió y se lo dijo alH4872
+- Éxo_20:19y dijeron a M: Habla tú con nosotrosH4872
+- Éxo_20:20y M respondió al pueblo: No temáisH4872
+- Éxo_20:21M se acercó a la oscuridad en la cualH4872
+- Éxo_20:22Jehová dijo a M: Así dirás a los hijosH4872
+- Éxo_24:1dijo Jehová a M: Sube ante Jehová, túH4872
+- Éxo_24:2M solo se acercará a Jehová; y ellos noH4872
+- Éxo_24:3M vino y contó al pueblo...las palabrasH4872
+- Éxo_24:4M escribió todas las palabras de JehováH4872
+- Éxo_24:6y M tomó la mitad de la sangre, y laH4872
+- Éxo_24:8M tomó la sangre y roció...el pueblo, yH4872
+- Éxo_24:9subieron M y Aarón, Nadab y Abiú, y 70H4872
+- Éxo_24:12Jehová dijo a M: Sube a mí al monteH4872
+- Éxo_24:13se levantó M con Josué...y M subió alH4872
+- Éxo_24:15M subió al monte, y una nube cubrióH4872
+- Éxo_24:16al séptimo día llamó a M...de la nubeH4872
+- Éxo_24:18entró M en medio de la nube, y subióH4872
+- Éxo_24:18y estuvo M en el monte 40 días y 40H4872
+- Éxo_30:34dijo además Jehová a M: Toma especiasH4872
+- Éxo_31:18y dio a M...dos tablas del testimonioH4872
+- Éxo_32:1viendo...que M tardaba en descender delH4872
+- Éxo_32:1a este M, el varón que nos sacó de laH4872
+- Éxo_32:7a M: Anda, desciende, porque tu puebloH4872
+- Éxo_32:9dijo más Jehová a M: Yo he visto a esteH4872
+- Éxo_32:11M oró en presencia de Jehová su DiosH4872
+- Éxo_32:15volvió M y descendió...monte, trayendoH4872
+- Éxo_32:17Josué...dijo a M: Alarido de pelea hayH4872
+- Éxo_32:19ardió la ira de M, y arrojó las tablasH4872
+- Éxo_32:21dijo M a Aarón: ¿Qué te ha hecho esteH4872
+- Éxo_32:23a este M, el...no sabemos qué le hayaH4872
+- Éxo_32:25viendo M...pueblo estaba desenfrenadoH4872
+- Éxo_32:26se puso M a la puerta del campamentoH4872
+- Éxo_32:28lo hicieron conforme al dicho de MH4872
+- Éxo_32:29M dijo: Hoy os habéis consagrado aH4872
+- Éxo_32:30dijo M al pueblo...habéis cometido unH4872
+- Éxo_32:31volvió M a Jehová, y dijo: Te ruegoH4872
+- Éxo_32:33Jehová respondió a M: Al que pecareH4872
+- Éxo_33:1dijo a M: Anda, sube de aquí, tú y elH4872
+- Éxo_33:5Jehová había dicho a M: Di a los hijosH4872
+- Éxo_33:7y M tomó el tabernáculo, y lo levantóH4872
+- Éxo_33:8cuando salía M al tabernáculo, todo elH4872
+- Éxo_33:8y miraban en pos de M, hasta...entrabaH4872
+- Éxo_33:9M entraba en...y Jehová hablaba con MH4872
+- Éxo_33:11hablaba Jehová a M cara a cara, comoH4872
+- Éxo_33:12dijo M a Jehová: Mira, tú me dices aH4872
+- Éxo_33:15M respondió: Si tu presencia no ha deH4872
+- Éxo_33:17y Jehová dijo a M:También haré estoH4872
+- Éxo_34:1Jehová dijo a M: Alísate dos tablas deH4872
+- Éxo_34:4M alisó dos tablas de piedra como lasH4872
+- Éxo_34:8M...bajó la cabeza hacia el suelo y adoróH4872
+- Éxo_34:27dijo a M: Escribe tú estas palabrasH4872
+- Éxo_34:29descendiendo M del monte Sinaí con lasH4872
+- Éxo_34:29no sabía M que la piel de su rostroH4872
+- Éxo_34:30miraron a M, y...era resplandecienteH4872
+- Éxo_34:31entonces M los llamó...y M les hablóH4872
+- Éxo_34:33acabó M de hablar con ellos, puso unH4872
+- Éxo_34:34venía M delante de Jehová para hablarH4872
+- Éxo_34:35al mirar los...de Israel el rostro de MH4872
+- Éxo_34:35y volvía M a poner el velo sobre suH4872
+- Éxo_35:1M convocó a toda la congregación de losH4872
+- Éxo_35:4habló M a toda la congregación de losH4872
+- Éxo_35:20y salió toda...Israel de delante de MH4872
+- Éxo_35:29Jehová había mandado por medio de MH4872
+- Éxo_35:30y dijo M a los hijos de Israel: MiradH4872
+- Éxo_36:2M llamó a Bezaleel y a Aholiab y a todoH4872
+- Éxo_36:3tomaron de delante de M toda la ofrendaH4872
+- Éxo_36:5hablaron a M, diciendo: El pueblo traeH4872
+- Éxo_36:6M mandó pregonar por el campamentoH4872
+- Éxo_38:21se hicieron por orden de M por obra deH4872
+- Éxo_38:22hizo...las cosas que Jehová mandó a MH4872
+- Éxo_39:1, Éxo_39:5, Éxo_39:7, Éxo_39:21, Éxo_39:26, Éxo_39:29, Éxo_39:31-32como Jehová lo había...a MH4872
+- Éxo_39:33trajeron el tabernáculo a M...y todosH4872
+- Éxo_39:42las cosas que Jehová había mandado a MH4872
+- Éxo_39:43vio M toda la obra...habían hecho comoH4872
+- Éxo_40:16y M hizo conforme a...Jehová le mandóH4872
+- Éxo_40:18M hizo levantar el tabernáculo...pusoH4872
+- Éxo_40:19, Éxo_40:21, Éxo_40:23, Éxo_40:25, Éxo_40:27, Éxo_40:29como Jehová había mandado a MH4872
+- Éxo_40:31M y Aarón y sus hijos lavaban en ellaH4872
+- Éxo_40:32altar...como Jehová había mandado a MH4872
+- Éxo_40:33erigió el atrio...Así acabó M la obraH4872
+- Éxo_40:35y no podía M entrar en el tabernáculoH4872
+- Lev_1:1llamó Jehová a M, y habló con él desdeH4872
+- Lev_7:38la cual mandó Jehová a M en el monte deH4872
+- Lev_8:4hizo, pues, M como Jehová le mandó, y seH4872
+- Lev_8:5dijo M a la congregación: Esto es lo queH4872
+- Lev_8:6M hizo acercarse a Aarón y a...y los lavóH4872
+- Lev_8:9, Lev_8:13, Lev_8:17, Lev_8:21, Lev_8:29Jehová había mandado a MH4872
+- Lev_8:10tomó M el aceite de la unción y ungióH4872
+- Lev_8:13M hizo acercarse los hijos de Aarón, yH4872
+- Lev_8:15y M tomó la sangre, y puso con su dedoH4872
+- Lev_8:16tomó...y lo hizo arder M sobre el altarH4872
+- Lev_8:19, Lev_8:24y roció M la sangre sobre el altarH4872
+- Lev_8:20y M hizo arder la cabeza, y los trozosH4872
+- Lev_8:21quemó M todo el carnero sobre el altarH4872
+- Lev_8:23tomó M de la sangre, y la puso sobre elH4872
+- Lev_8:24y puso M de la sangre sobre el lóbuloH4872
+- Lev_8:28tomó aquellas cosas M de las manos deH4872
+- Lev_8:29tomó M el pecho, y lo meció, ofrendaH4872
+- Lev_8:29aquella fue la parte de M, como JehováH4872
+- Lev_8:30luego tomó M del aceite de la unciónH4872
+- Lev_8:31dijo M a Aarón y a sus hijos: Comed laH4872
+- Lev_8:36cosas que mandó Jehová por medio de MH4872
+- Lev_9:1M llamó a Aarón y a sus hijos, y a losH4872
+- Lev_9:5y llevaron lo que mandó M delante delH4872
+- Lev_9:6entonces M dijo: Esto es lo que mandóH4872
+- Lev_9:7dijo M a Aarón: Acércate al altar, y hazH4872
+- Lev_9:10, Lev_9:21como Jehová lo había mandado a MH4872
+- Lev_9:23y entraron M y Aarón en el tabernáculoH4872
+- Lev_10:3M a Aarón: Esto es lo que habló JehováH4872
+- Lev_10:4llamó M a Misael y a...hijos de UzielH4872
+- Lev_10:5se acercaron y los sacaron...como dijo MH4872
+- Lev_10:6M dijo...No descubráis vuestras cabezasH4872
+- Lev_10:7ellos hicieron conforme al dicho de MH4872
+- Lev_10:11que Jehová les ha dicho por medio de MH4872
+- Lev_10:12M dijo a Aarón, y a Eleazar y a ItamarH4872
+- Lev_10:16M preguntó por el macho cabrío de laH4872
+- Lev_10:19respondió Aarón a M: He aquí hoy hanH4872
+- Lev_10:20y cuando M oyó...se dio por satisfechoH4872
+- Lev_16:1Jehová a M después de la muerte de losH4872
+- Lev_16:2dijo a M: Di a Aarón tu hermano, que noH4872
+- Lev_16:34y M lo hizo como Jehová le mandóH4872
+- Lev_21:1Jehová dijo a M: Habla a los sacerdotesH4872
+- Lev_21:24M habló esto a Aarón, y a sus hijosH4872
+- Lev_23:44habló M a los hijos de Israel sobreH4872
+- Lev_24:11blasfemó el Nombre, y...lo llevaron a MH4872
+- Lev_24:23habló M a los hijos de Israel, y ellosH4872
+- Lev_24:23hicieron según Jehová había mandado a MH4872
+- Lev_26:46que estableció Jehová...por mano de MH4872
+- Lev_27:34los mandamientos que ordenó Jehová a MH4872
+- Núm_1:17tomaron...M y Aarón a estos varonesH4872
+- Núm_1:19como Jehová lo había mandado a M, losH4872
+- Núm_1:44contaron M y Aarón, con los príncipesH4872
+- Núm_1:54hicieron...cosas que mandó Jehová a MH4872
+- Núm_2:33los levitas...como Jehová lo mandó a MH4872
+- Núm_2:34todas las cosas que Jehová mandó a MH4872
+- Núm_3:1son los descendientes de Aarón y de MH4872
+- Núm_3:1en el día en que Jehová habló a M en elH4872
+- Núm_3:16M los contó conforme a la palabra deH4872
+- Núm_3:38los que acamparán...serán M y Aarón yH4872
+- Núm_3:39los contados...que M y Aarón...contaronH4872
+- Núm_3:40Jehová dijo a M: Cuenta...primogénitosH4872
+- Núm_3:42contó M, como Jehová le mandó, todosH4872
+- Núm_3:49tomó, pues, M el dinero del rescate deH4872
+- Núm_3:51M dio el dinero...a Aarón y a sus hijosH4872
+- Núm_3:51según lo que Jehová había mandado a MH4872
+- Núm_4:34M, pues...contaron a los hijos de CoatH4872
+- Núm_4:37, Núm_4:41, Núm_4:45los cuales contaron M y AarónH4872
+- Núm_4:37, Núm_4:45, Núm_4:49lo mandó Jehová por medio de MH4872
+- Núm_4:46que M y Aarón...contaron por sus familiasH4872
+- Núm_5:4los echaron fuera...como Jehová dijo a MH4872
+- Núm_7:1que cuando M hubo acabado de levantarH4872
+- Núm_7:6M recibió los carros y los bueyes, y losH4872
+- Núm_7:11Jehová dijo a M: Ofrecerán su ofrendaH4872
+- Núm_7:89entraba M en...oía la voz que le hablabaH4872
+- Núm_8:3Aarón lo hizo...como Jehová lo mandó a MH4872
+- Núm_8:4conforme al modelo que Jehová mostró a MH4872
+- Núm_8:20M...hicieron con los levitas conforme aH4872
+- Núm_8:20, Núm_8:22mandó Jehová a M acerca de...levitasH4872
+- Núm_9:4habló M a los hijos de Israel para queH4872
+- Núm_9:5a todas las cosas que mandó Jehová a MH4872
+- Núm_9:6vinieron delante de M y...Aarón aquel díaH4872
+- Núm_9:8M les respondió: Esperad, y oiré lo queH4872
+- Núm_9:23Jehová lo había dicho por medio de MH4872
+- Núm_10:13al mandato de Jehová por medio de MH4872
+- Núm_10:29M a Hobab, hijo de Ragüel madianitaH4872
+- Núm_10:35el arca se movía, M decía: LevántateH4872
+- Núm_11:2el pueblo clamó a M, y M oró a JehováH4872
+- Núm_11:10y oyó M al pueblo...le pareció mal a MH4872
+- Núm_11:11y dijo M a Jehová: ¿Por qué has hechoH4872
+- Núm_11:16Jehová dijo a M: Reúneme 70 varonesH4872
+- Núm_11:21dijo M: Seiscientos mil de a pie esH4872
+- Núm_11:23respondió a M: ¿Acaso se ha acortadoH4872
+- Núm_11:24salió M y dijo al pueblo las palabrasH4872
+- Núm_11:27y corrió un joven y dio aviso a M, yH4872
+- Núm_11:28respondió Josué hijo...ayudante de MH4872
+- Núm_11:28Josué...dijo: Señor mío M, impídelosH4872
+- Núm_11:29M le respondió: ¿Tienes tú celos porH4872
+- Núm_11:30M volvió al campamento...y los ancianosH4872
+- Núm_12:1hablaron contra M a causa de la mujerH4872
+- Núm_12:2¿solamente por M ha hablado Jehová? ¿NoH4872
+- Núm_12:3aquel varón M era muy manso, más queH4872
+- Núm_12:4Jehová a M, a Aarón y a María: SalidH4872
+- Núm_12:7no así a mi siervo M, que es fiel enH4872
+- Núm_12:8no...temor de hablar contra mi siervo M?[[H4872]]
+- Núm_12:11y dijo Aarón a M: ¡Ah! señor mío, noH4872
+- Núm_12:13M clamó a Jehová, diciendo: Te ruegoH4872
+- Núm_12:14Jehová a M: Pues si su padre hubieraH4872
+- Núm_13:3M los envió desde el desierto de ParánH4872
+- Núm_13:16nombres de los varones que M envió aH4872
+- Núm_13:16a Oseas...le puso M el nombre de JosuéH4872
+- Núm_13:17envió, pues, M a reconocer la tierraH4872
+- Núm_13:26y vinieron a M y a Aarón, y a toda laH4872
+- Núm_13:30hizo callar al pueblo delante de M, yH4872
+- Núm_14:2y se quejaron contra M y contra AarónH4872
+- Núm_14:5entonces M y Aarón se postraron sobreH4872
+- Núm_14:11Jehová dijo a M: ¿Hasta cuando me haH4872
+- Núm_14:13M respondió a Jehová: Lo oirán luegoH4872
+- Núm_14:36y los varones que M envió a reconocerH4872
+- Núm_14:39M dijo estas cosas a...hijos de IsraelH4872
+- Núm_14:41M: ¿Por qué quebrantáis el mandamientoH4872
+- Núm_14:44pero el arca...y M, no se apartaron deH4872
+- Núm_15:22mandamientos que Jehová ha dicho a MH4872
+- Núm_15:23Jehová os ha mandado por medio de MH4872
+- Núm_15:33los que le hallaron...lo trajeron a MH4872
+- Núm_15:35y Jehová dijo a M...muera aquel hombreH4872
+- Núm_15:36lo apedrearon...como Jehová mandó a MH4872
+- Núm_16:2se levantaron contra M con 250 varonesH4872
+- Núm_16:3juntaron contra M y Aarón y les dijeronH4872
+- Núm_16:4cuando oyó esto M, se postró sobre suH4872
+- Núm_16:8dijo más M a Coré: Oíd...hijos de LevíH4872
+- Núm_16:12y envió M a llamar a Datán y AbiramH4872
+- Núm_16:15M se enojó en gran manera, y dijo aH4872
+- Núm_16:16dijo M a Coré: Tú y todo tu séquitoH4872
+- Núm_16:18pusieron a la puerta...con M y AarónH4872
+- Núm_16:25M se levantó y fue a Datán y a AbiramH4872
+- Núm_16:28dijo M: En esto conoceréis que JehováH4872
+- Núm_16:40según se lo dijo Jehová por medio de MH4872
+- Núm_16:41la congregación de...murmuró contra MH4872
+- Núm_16:42que cuando se juntó...contra M y AarónH4872
+- Núm_16:43M y Aarón delante del tabernáculo deH4872
+- Núm_16:46dijo M a Aarón: Toma el incensario, yH4872
+- Núm_16:47tomó Aarón el incensario, como M dijoH4872
+- Núm_16:50después volvió Aarón a M a la puertaH4872
+- Núm_17:6M habló a los hijos de Israel, y todosH4872
+- Núm_17:7y M puso las varas delante de JehováH4872
+- Núm_17:8vino M al tabernáculo del testimonioH4872
+- Núm_17:9sacó M...las varas de delante de JehováH4872
+- Núm_17:10y Jehová dijo a M: Vuelve la vara deH4872
+- Núm_17:11hizo M como le mandó Jehová...lo hizoH4872
+- Núm_17:12los...de Israel hablaron a M, diciendoH4872
+- Núm_20:2no había agua...se juntaron contra M yH4872
+- Núm_20:3y habló el pueblo contra M, diciendoH4872
+- Núm_20:6y se fueron M y Aarón de delante de laH4872
+- Núm_20:9M tomó la vara de delante de JehováH4872
+- Núm_20:10reunieron M y Aarón a la congregaciónH4872
+- Núm_20:11alzó M su mano y golpeó la peña con suH4872
+- Núm_20:12Jehová dijo a M y a Aarón: Por cuantoH4872
+- Núm_20:14envió M embajadores al rey de EdomH4872
+- Núm_20:27M hizo...Jehová le mandó; y subieron alH4872
+- Núm_20:28M desnudó a Aarón de sus vestidurasH4872
+- Núm_20:28y M y Eleazar descendieron del monteH4872
+- Núm_21:5habló el pueblo contra Dios y contra MH4872
+- Núm_21:7el pueblo vino a M y dijo: Hemos pecadoH4872
+- Núm_21:7ruega a Jehová...Y M oró por el puebloH4872
+- Núm_21:8y Jehová dijo a M: Hazte una serpienteH4872
+- Núm_21:9M hizo una serpiente de bronce, y laH4872
+- Núm_21:16es el pozo del cual Jehová dijo a MH4872
+- Núm_21:32también envió M a reconocer a JazerH4872
+- Núm_21:34Jehová dijo a M: No le tengas miedoH4872
+- Núm_25:4Jehová dijo a M: Toma a, los príncipesH4872
+- Núm_25:5entonces M dijo a los jueces de IsraelH4872
+- Núm_25:6trajo una madianita...a ojos de M y deH4872
+- Núm_26:3M y...Eleazar hablaron con ellos en losH4872
+- Núm_26:4contaréis el pueblo...mandó Jehová a MH4872
+- Núm_26:9que se rebelaron contra M y Aarón conH4872
+- Núm_26:59dio a luz...a Aarón y a M, y a MaríaH4872
+- Núm_26:63son los contados por M y el...EleazarH4872
+- Núm_26:64ninguno hubo de los contados por M yH4872
+- Núm_27:2se presentaron delante de M y...EleazarH4872
+- Núm_27:5y M llevó su causa delante de JehováH4872
+- Núm_27:11por estatuto...como Jehová mandó a MH4872
+- Núm_27:12a M: Sube a este monte Abarim, y verásH4872
+- Núm_27:15entonces respondió M a Jehová, diciendoH4872
+- Núm_27:18Jehová dijo a M: Toma a Josué hijo deH4872
+- Núm_27:22M hizo como Jehová le había mandadoH4872
+- Núm_27:23Jehová había mandado por mano de MH4872
+- Núm_29:40M dijo a los hijos de Israel conformeH4872
+- Núm_30:1habló M a los príncipes de las tribusH4872
+- Núm_30:16las ordenanzas que Jehová mandó a MH4872
+- Núm_31:3M habló al pueblo, diciendo: ArmaosH4872
+- Núm_31:6y M los envió a la guerra; mil de cadaH4872
+- Núm_31:7y pelearon...como Jehová lo mandó a MH4872
+- Núm_31:12trajeron a M...los cautivos y el botínH4872
+- Núm_31:13y salieron M...a recibirlos fuera delH4872
+- Núm_31:14se enojó M contra los capitanes delH4872
+- Núm_31:15les dijo M: ¿Por qué habéis dejado conH4872
+- Núm_31:21ordenanza...que Jehová ha mandado a MH4872
+- Núm_31:31e hicieron M y...como Jehová mandó a MH4872
+- Núm_31:41dio M el tributo...Jehová lo mandó a MH4872
+- Núm_31:42apartó M de los...que habían ido a laH4872
+- Núm_31:47de la mitad...tomó M uno de cada 50, asíH4872
+- Núm_31:47dio...como Jehová lo había mandado a MH4872
+- Núm_31:48vinieron a M los jefes de los millaresH4872
+- Núm_31:49y dijeron a M: Tus siervos han tomadoH4872
+- Núm_31:51M y el...Eleazar recibieron el oro deH4872
+- Núm_31:54recibieron...M y...el oro de los jefesH4872
+- Núm_32:2y hablaron a M y al sacerdote EleazarH4872
+- Núm_32:6respondió M...¿Irán vuestros hermanos aH4872
+- Núm_32:16entonces ellos vinieron a M y dijeronH4872
+- Núm_32:20les respondió M: Si lo hacéis así, siH4872
+- Núm_32:25hablaron...a M, diciendo: Tus siervosH4872
+- Núm_32:28les encomendó M al sacerdote EleazarH4872
+- Núm_32:29les dijo M: Si los hijos de Gad y losH4872
+- Núm_32:33M dio a los hijos de Gad, a los hijosH4872
+- Núm_32:40M dio Galaad a Maquir hijo de ManasésH4872
+- Núm_33:1que salieron...bajo el mando de M y AarónH4872
+- Núm_33:2M escribió sus salidas conforme a susH4872
+- Núm_34:13y mandó M a los...de Israel, diciendoH4872
+- Núm_36:1llegaron...y hablaron delante de M y deH4872
+- Núm_36:5entonces M mandó a los hijos de IsraelH4872
+- Núm_36:10como Jehová mandó a M, así hicieronH4872
+- Núm_36:13que mandó Jehová por medio de M a losH4872
+- Deu_1:1las palabras que habló M a todo IsraelH4872
+- Deu_1:3M habló a los hijos de Israel conforme aH4872
+- Deu_1:5resolvió M declarar esta ley, diciendoH4872
+- Deu_4:41apartó M tres ciudades a este lado delH4872
+- Deu_4:44la ley que M puso delante de...de IsraelH4872
+- Deu_4:45habló M a los hijos de Israel cuandoH4872
+- Deu_4:46al cual derrotó M con los...de IsraelH4872
+- Deu_5:1llamó M a todo Israel y les dijo: OyeH4872
+- Deu_27:1ordenó M, con los ancianos...al puebloH4872
+- Deu_27:9M, con...habló a todo Israel, diciendoH4872
+- Deu_27:11mandó M al pueblo en aquel...diciendoH4872
+- Deu_29:1son las palabras...que Jehová mandó a MH4872
+- Deu_29:2M, pues, llamó a todo Israel, y les dijoH4872
+- Deu_31:1fue M y habló estas palabras a...IsraelH4872
+- Deu_31:7llamó M a Josué, y le dijo en presenciaH4872
+- Deu_31:9y escribió M esta ley, y la dio a losH4872
+- Deu_31:10les mandó M, diciendo: Al fin de cadaH4872
+- Deu_31:14dijo a M...se ha acercado el día de tuH4872
+- Deu_31:14fueron...M y Josué, y esperaron en elH4872
+- Deu_31:16y Jehová dijo a M: He aquí, tú vas aH4872
+- Deu_31:22M escribió este cántico aquel día, y loH4872
+- Deu_31:24cuando acabó M de escribir las palabrasH4872
+- Deu_31:25M a los levitas que llevaban el arcaH4872
+- Deu_31:30habló M a oídos de toda la congregaciónH4872
+- Deu_32:44vino M y recitó todas las palabras deH4872
+- Deu_32:45y acabó M de recitar...estas palabrasH4872
+- Deu_32:48y habló Jehová a M aquel mismo díaH4872
+- Deu_33:1es la bendición con la cual bendijo MH4872
+- Deu_33:4M nos ordenó una ley, como heredad a laH4872
+- Deu_34:1subió M de los campos de Moab al monteH4872
+- Deu_34:5y murió allí M...en la tierra de MoabH4872
+- Deu_34:7era M de edad de 120 años cuando murióH4872
+- Deu_34:8y lloraron los hijos de Israel a M enH4872
+- Deu_34:8se cumplieron los días...del luto de MH4872
+- Deu_34:9porque M había puesto sus manos sobre élH4872
+- Deu_34:9le obedecieron...como Jehová mandó a MH4872
+- Deu_34:10nunca más se levantó profeta...como MH4872
+- Deu_34:12los hechos...que M hizo a la vista deH4872
+- Jos_1:1después de la muerte de M siervo deH4872
+- Jos_1:1que Jehová habló a Josué...servidor de MH4872
+- Jos_1:2mi...M ha muerto; ahora, pues, levántateH4872
+- Jos_1:3os he entregado, como lo había dicho a MH4872
+- Jos_1:5como estuve con M, estaré contigo; no teH4872
+- Jos_1:7hacer...la ley que mi siervo M te mandóH4872
+- Jos_1:13acordaos de la palabra que M...os mandóH4872
+- Jos_1:14quedarán en la tierra que M os ha dadoH4872
+- Jos_1:15a la tierra de...la cual M...os ha dadoH4872
+- Jos_1:17de la manera que obedecimos a M...a tiH4872
+- Jos_1:17tu Dios esté contigo, como estuvo con MH4872
+- Jos_3:7que como estuve con M, así estaré contigoH4872
+- Jos_4:10las cosas que M había mandado a JosuéH4872
+- Jos_4:12pasaron armados...según M...había dichoH4872
+- Jos_4:14y le temieron, como habían temido a MH4872
+- Jos_8:31como M...había mandado a los...de IsraelH4872
+- Jos_8:31está escrito en el libro de la ley de MH4872
+- Jos_8:32también escribió...copia de la ley de MH4872
+- Jos_8:33de la manera que M...había mandado antesH4872
+- Jos_8:35que mandó M, que Josué no hiciese leerH4872
+- Jos_9:24Dios había mandado a M su siervo queH4872
+- Jos_11:12los destruyó, como M...había mandadoH4872
+- Jos_11:15mandado a M...así M lo mandó a JosuéH4872
+- Jos_11:15de todo lo que Jehová había mandado a MH4872
+- Jos_11:20destruirlos...Jehová...había mandado a MH4872
+- Jos_11:23a todo lo que Jehová había dicho a MH4872
+- Jos_12:6a estos derrotaron M...y los hijos deH4872
+- Jos_12:6M...dio aquella tierra en posesión a losH4872
+- Jos_13:8su heredad, la cual les dio M al otroH4872
+- Jos_13:8heredad...se la dio M siervo de JehováH4872
+- Jos_13:12los refaítas...M los derrotó, y los echóH4872
+- Jos_13:15dio...M a la tribu de los hijos de RubénH4872
+- Jos_13:21el reino de Sehón...al cual derrotó MH4872
+- Jos_13:24dio...M a la tribu de Gad, a los hijosH4872
+- Jos_13:29también dio M heredad a la media tribuH4872
+- Jos_13:32esto es lo que M repartió en heredadH4872
+- Jos_13:33a la tribu de Leví no dio M heredadH4872
+- Jos_14:2como Jehová había mandado a M...se dieraH4872
+- Jos_14:3les había dado M heredad al otro ladoH4872
+- Jos_14:5manera que Jehová lo había mandado a MH4872
+- Jos_14:6dijo: Tú sabes lo que Jehová dijo a MH4872
+- Jos_14:7cuando M...me envió de Cades-barnea aH4872
+- Jos_14:9M juró diciendo: Ciertamente la tierraH4872
+- Jos_14:10que Jehová habló estas palabras a MH4872
+- Jos_14:11tan fuerte como el día que M me envióH4872
+- Jos_17:4Jehová mandó a M que nos diese heredadH4872
+- Jos_18:7su heredad...les dio M siervo de JehováH4872
+- Jos_20:2las cuales yo os hablé por medio de MH4872
+- Jos_21:2medio de M que nos fuesen dadas ciudadesH4872
+- Jos_21:8había mandado Jehová por conducto de MH4872
+- Jos_22:2habéis guardado todo lo que M siervo deH4872
+- Jos_22:4regresad a...a la tierra...que M...os dioH4872
+- Jos_22:5cumplir...la ley que M siervo de JehováH4872
+- Jos_22:7Manasés habla dado M posesión en BasánH4872
+- Jos_22:9al mandato de Jehová por conducto de MH4872
+- Jos_23:6está escrito en el libro de la ley de MH4872
+- Jos_24:5yo envié a M y a Aarón, y herí a EgiptoH4872
+- Jue_1:16y los hijos del ceneo, suegro de MH4872
+- Jue_1:20y dieron Hebrón a Caleb, como M habíaH4872
+- Jue_3:4él había dado a sus padres por mano de MH4872
+- Jue_4:11Heber ceneo, de los hijos...suegro de MH4872
+- Jue_18:30Jonatán hijo de Gersón, hijo de M, élH4872
+- 1Sa_12:6Jehová que designó a M y a Aarón, yH4872
+- 1Sa_12:8padres clamaron a Jehová...envió a M y aH4872
+- 1Re_2:3está escrito en la ley de M, para queH4872
+- 1Re_8:9las dos tablas...había puesto M en HorebH4872
+- 1Re_8:53como lo dijiste por medio de M tu siervoH4872
+- 1Re_8:56todas sus promesas que expresó por M suH4872
+- 2Re_14:6lo que está escrito en...la ley de MH4872
+- 2Re_18:4serpiente de bronce que había hecho MH4872
+- 2Re_18:6mandamientos que Jehová prescribió a MH4872
+- 2Re_18:12todas las cosas que M...había mandadoH4872
+- 2Re_21:8toda la ley que mi siervo M les mandóH4872
+- 2Re_23:25otro rey...conforme a toda la ley de MH4872
+- 1Cr_6:3los hijos de Amram: Aarón, M y MarfaH4872
+- 1Cr_6:49lo que M siervo de Dios había mandadoH4872
+- 1Cr_15:15arca de Dios...como lo había mandado MH4872
+- 1Cr_21:29el tabernáculo...que M había hecho enH4872
+- 1Cr_22:13y decretos que Jehová mandó a M paraH4872
+- 1Cr_23:13los hijos de Amram: Aarón y M. Y AarónH4872
+- 1Cr_23:14y los hijos de M varón de Dios fueronH4872
+- 1Cr_23:15los hijos de M fueron Gersón y EliezerH4872
+- 1Cr_26:24Sebuel hijo de Gersón, hijo de M, eraH4872
+- 2Cr_1:3el tabernáculo...que M...había hechoH4872
+- 2Cr_5:10dos tablas que M había puesto en HorebH4872
+- 2Cr_8:13su día, conforme al mandamiento de MH4872
+- 2Cr_23:18como está escrito en la ley de M, conH4872
+- 2Cr_24:6ofrenda que M siervo de Jehová impusoH4872
+- 2Cr_24:9que M siervo de Dios había impuesto aH4872
+- 2Cr_25:4lo que está escrito...en el libro de MH4872
+- 2Cr_30:16conforme a la ley de M varón de DiosH4872
+- 2Cr_33:8la ley...y los preceptos, por medio de MH4872
+- 2Cr_34:14libro de la ley...dada por medio de MH4872
+- 2Cr_35:6palabra de Jehová dada por medio de MH4872
+- 2Cr_35:12según está escrito en el libro de MH4872
+- Esd_3:2como está escrito en la ley de M varónH4872
+- Esd_6:18conforme a lo escrito en el libro de MH4873
+- Esd_7:6era escriba diligente en la ley de M, queH4872
+- Neh_1:7y preceptos que diste a M tu siervoH4872
+- Neh_1:8de la palabra que diste a M tu siervoH4872
+- Neh_8:1que trajese el libro de la ley de M, laH4872
+- Neh_8:14que Jehová había mandado por mano de MH4872
+- Neh_9:14por mano de M tu siervo...prescribisteH4872
+- Neh_10:29que fue dada por M siervo de Dios, yH4872
+- Neh_13:1se leyó en el libro de M, oyéndolo elH4872
+- Sal_77:20condujiste a tu pueblo...mano de MH4872
+- Sal 90 tít.oración de M, varón de DiosH4872
+- Sal_99:6M y Aarón entre...sacerdotes, y SamuelH4872
+- Sal_103:7sus caminos notificó a M, y a los hijosH4872
+- Sal_105:26envió a su siervo M, y a Aarón, al cualH4872
+- Sal_106:16tuvieron envidia de M...y contra AarónH4872
+- Sal_106:23no haberse interpuesto M su escogidoH4872
+- Sal_106:32y le fue mal a M por causa de ellosH4872
+- Isa_63:11pero se acordó...de M y de su puebloH4872
+- Isa_63:12que los guio por la diestra de M conH4872
+- Jer_15:1si M y Samuel se pusieran delante deH4872
+- Dan_9:11el juramento que está...en la ley de MH4872
+- Dan_9:13conforme está escrito en la ley de MH4872
+- Miq_6:4envié delante de ti a M, a Aarón y aH4872
+- Mal_4:4acordaos de la ley de M mi siervo, alH4872
+- Mat_8:4presenta la ofrenda que ordenó M, paraG3475
+- Mat_17:3aparecieron M y Elías, hablando con élG3475
+- Mat_17:4tres enramadas: una para ti, otra para MG3475
+- Mat_19:7¿por qué...mandó M dar carta de divorcioG3475
+- Mat_19:8por la...M os permitió repudiar a...mujeresG3475
+- Mat_22:24M dijo: Si alguno muriere sin hijos, suG3475
+- Mat_23:2la cátedra de M se sientan los escribasG3475
+- Mar_1:44por tu purificación lo que M mandóG3475
+- Mar_7:10M dijo: Honra a tu padre y a tu madreG3475
+- Mar_9:4les apareció Elías con M, que hablabanG3475
+- Mar_9:5para ti, otra para M, y otra para ElíasG3475
+- Mar_10:3respondiendo, les dijo: ¿Qué os mandó M?[[G3475]]
+- Mar_10:4ellos...M permitió dar carta de divorcioG3475
+- Mar_12:19M nos escribió que si el hermano deG3475
+- Mar_12:26¿no habéis leído en el libro de M cómoG3475
+- Luc_2:22conforme a la ley de M, le trajeronG3475
+- Luc_5:14según mandó M, para testimonio a ellosG3475
+- Luc_9:30varones que hablaban con él...M y ElíasG3475
+- Luc_9:33tres enramadas, una para ti, una para MG3475
+- Luc_16:29le dijo: A M y a los profetas tienenG3475
+- Luc_16:31dijo: Si no oyen a M y a los profetasG3475
+- Luc_20:28M nos escribió: Si el hermano de algunoG3475
+- Luc_20:37M lo enseñó en el pasaje de la zarzaG3475
+- Luc_24:27y comenzando desde M, y siguiendo porG3475
+- Luc_24:44que está escrito de mí en la ley de MG3475
+- Jua_1:17la ley por medio de M fue dada, peroG3475
+- Jua_1:45a aquel de quien escribió M en la leyG3475
+- Jua_3:14M levantó la serpiente en el desiertoG3475
+- Jua_5:45hay quien os acusa, M, en quien tenéisG3475
+- Jua_5:46porque si creyeseis a M, me creeríais aG3475
+- Jua_6:32no os dio M el pan del cielo, mas miG3475
+- Jua_7:19¿no os dio M la ley, y ninguno...cumpleG3475
+- Jua_7:22por cierto, M os dio la circuncisiónG3475
+- Jua_7:22no porque sea de M, sino de los padresG3475
+- Jua_7:23para que la ley de M no sea quebrantadaG3475
+- Jua_8:5ley nos mandó M apedrear a tales mujeresG3475
+- Jua_9:28tú eres...pero nosotros, discípulos de MG3475
+- Jua_9:29sabemos que Dios ha hablado a M; peroG3475
+- Hec_3:22porque M dijo a los padres: El SeñorG3475
+- Hec_6:11oído hablar palabras blasfemas contra MG3475
+- Hec_6:14y cambiará las costumbres que nos dio MG3475
+- Hec_7:20nació M, y fue agradable a Dios; y fueG3475
+- Hec_7:22fue enseñado M en toda la sabiduría deG3475
+- Hec_7:29al oir...M huyó, y vivió como extranjeroG3475
+- Hec_7:31M, mirando, se maravilló de la visiónG3475
+- Hec_7:32y M, temblando, no se atrevía a mirarG3475
+- Hec_7:35M, a quien habían rechazado, diciendoG3475
+- Hec_7:37M es el que dijo a los hijos de IsraelG3475
+- Hec_7:38aquel M que estuvo en la congregaciónG3475
+- Hec_7:40a...M...no sabemos qué te haya acontecidoG3475
+- Hec_7:44cuando dijo a M que lo hiciese conformeG3475
+- Hec_13:39de que por la ley de M no pudisteis serG3475
+- Hec_15:1os circuncidáis conforme al rito de MG3475
+- Hec_15:5y mandarles que guarden la ley de MG3475
+- Hec_15:21M...tiene en...ciudad quien lo prediqueG3475
+- Hec_21:21enseñas a, los judíos...a apostatar de MG3475
+- Hec_26:22los profetas y M dijeron que habían deG3475
+- Hec_28:23de Jesús, tanto por la ley de M comoG3475
+- Rom_5:14reinó la muerte desde Adán hasta MG3475
+- Rom_9:15pues a M dice: Tendré misericordia delG3475
+- Rom_10:5M escribe así: El hombre que haga estasG3475
+- Rom_10:19M dice: Yo os provocaré a celos con unG3475
+- 1Co_9:9porque en la ley de M está escritoG3475
+- 1Co_10:2todos en M fueron bautizados en la nubeG3475
+- 2Co_3:7no pudieron fijar la vista en...de MG3475
+- 2Co_3:13no como M, que ponía un velo sobre suG3475
+- 2Co_3:15cuando se lee a M, el velo está puestoG3475
+- 2Ti_3:8que Janes y Jambres resistieron a MG3475
+- Heb_3:2como...lo fue M en toda la casa de DiosG3475
+- Heb_3:3de tanto mayor gloria que M es estimadoG3475
+- Heb_3:5M a la...fue fiel en toda la casa de DiosG3475
+- Heb_3:16que salieron de Egipto por mano de M?[[G3475]]
+- Heb_7:14Judá, de la cual nada habló M tocante alG3475
+- Heb_8:5se le advirtió a M cuando iba a erigir elG3475
+- Heb_9:19habiendo anunciado M...los mandamientosG3475
+- Heb_10:28el que viola la ley de M, por...muereG3475
+- Heb_11:23la fe M, cuando nació, fue escondidoG3475
+- Heb_11:24M...rehusé llamarse hijo de la hija deG3475
+- Heb_12:21M dijo: Estoy espantado y temblandoG3475
+- Jud_1:9disputando con él por el cuerpo de MG3475
+- Rev_15:3cantan el cántico de M siervo de DiosG3475

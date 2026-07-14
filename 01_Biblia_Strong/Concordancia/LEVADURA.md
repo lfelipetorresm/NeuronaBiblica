@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: LEVADURA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LEVADURA
+
+- Gén_19:3hizo banquete, y coció panes sin lH4682
+- Éxo_12:8comerán la carne asada...panes sin lH4682
+- Éxo_12:15siete días comeréis panes sin l; y asíH4682
+- Éxo_12:15el primer día haréis que no haya l enH4682
+- Éxo_12:17guardaréis la fiesta de...panes sin lH4682
+- Éxo_12:18mes primero comeréis los panes sin lH4682
+- Éxo_12:19por siete días no se hallará l...casasH4682
+- Éxo_12:20todas vuestras...comeréis panes sin lH4682
+- Éxo_12:39cocieron tortas sin l de la masa queH4682
+- Éxo_13:7siete días se comerán los panes sin lH4682
+- Éxo_13:7no se verá contigo nada leudado, ni lH7603
+- Éxo_23:15la fiesta de los panes sin l guardarásH4682
+- Éxo_23:15siete días comerás los panes sin lH4682
+- Éxo_29:2y panes sin l, y tortas sin l amasadasH4682
+- Éxo_29:2hojaldres sin l untadas con aceite; lasH4682
+- Éxo_29:23una hojaldre del...de los panes sin lH4682
+- Éxo_34:18la fiesta de los panes sin l guardarásH4682
+- Éxo_34:18siete días comerás pan sin l, según teH4682
+- Lev_2:4será de tortas de flor de harina sin lH4682
+- Lev_2:4y hojaldres sin l untadas con aceiteH4682
+- Lev_2:5de sartén, será de flor de harina sin lH4682
+- Lev_2:11ninguna ofrenda...a Jehová será con lH2557
+- Lev_6:16sin l se comerá en lugar santo; en elH4682
+- Lev_6:17no se cocerá con l; la he dado a ellosH2557
+- Lev_7:12gracias, ofrecerá...tortas sin l amasadasH4682
+- Lev_7:12y hojaldres sin l untadas con aceiteH4682
+- Lev_8:2toma...el canastillo de los panes sin lH4682
+- Lev_8:26del canastillo de los panes sin l, queH4682
+- Lev_8:26una torta sin l, y una torta de pan deH4682
+- Lev_10:12ofrenda...comedla sin l junto al altarH4682
+- Lev_23:6la fiesta solemne de los panes sin l aH4682
+- Lev_23:6fiesta...siete días comeréis panes sin lH4682
+- Lev_23:17harina, cocidos con l, como primiciasH2557
+- Núm_6:15además un canastillo de tortas sin lH4682
+- Núm_6:15hojaldres sin l untadas con aceite, y suH4682
+- Núm_6:17con el canastillo de los panes sin lH4682
+- Núm_6:19tomará...una torta sin l del canastilloH4682
+- Núm_6:19una hojaldre sin l, y las pondrá sobreH4682
+- Núm_9:11con panes sin l y hierbas...la comeránH4682
+- Núm_28:17por siete días se comerán panes sin lH4682
+- Deu_16:3no comerás con ella pan con l; sieteH2557
+- Deu_16:3siete días comerás con ella pan sin lH4682
+- Deu_16:4no se verá l contigo en...por siete díasH7603
+- Deu_16:8días comerás pan sin l, y el séptimo díaH4682
+- Deu_16:16la fiesta solemne de los panes sin lH4682
+- Jos_5:11comieron del fruto de...panes sin lH4682
+- Jue_6:19Gedeón, preparó...panes sin l de unH4682
+- Jue_6:20los panes sin l y ponlos sobre esta peñaH4682
+- Jue_6:21tocó...los panes sin l; y subió fuego deH4682
+- Jue_6:21subió fuego...consumió...los panes sin lH4682
+- 1Sa_28:24amasó, y coció de ella panes sin lH4682
+- 2Re_23:9comían panes sin l entre...hermanosH4682
+- 1Cr_23:29de harina...para las hojuelas sin lH4682
+- 2Cr_8:13en la fiesta de los panes sin l, enH4682
+- 2Cr_30:13la fiesta solemne de los panes sin lH4682
+- 2Cr_30:21celebraron la fiesta...los panes sin lH4682
+- 2Cr_35:17la fiesta...de los panes sin l por sieteH4682
+- Esd_6:22la fiesta solemne de los panes sin lH4682
+- Eze_45:21pascua, fiesta...se comerá pan sin lH4682
+- Mat_13:33el reino...cielos es semejante a la lG2219
+- Mat_16:6guardaos de la l de los fariseos y de losG2219
+- Mat_16:11os guardaseis de la l de los fariseosG2219
+- Mat_16:12se guardasen de la l del pan, sino deG2219
+- Mat_26:17día de la fiesta de los panes sin lG106
+- Mar_8:15la l de los fariseos...la l de HerodesG2219
+- Mar_14:1pascua, y la fiesta de los panes sin lG106
+- Mar_14:12la fiesta de los panes sin l, cuandoG106
+- Luc_12:1guardaos de la l de los fariseos, queG2219
+- Luc_13:21semejante a la l, que una mujer tomóG2219
+- Luc_22:1cerca la fiesta de los panes sin l, queG106
+- Luc_22:7llegó el día de los panes sin l, en elG106
+- Hec_12:3entonces los días de los panes sin lG106
+- Hec_20:6los días de los panes sin l, navegamosG106
+- 1Co_5:6que un poco de l leuda toda la masa?[[G2219]]
+- 1Co_5:7limpiaos, pues, de la vieja l, para queG2219
+- 1Co_5:7que seáis nueva masa, sin l como soisG106
+- 1Co_5:8fiesta, no con la vieja l, ni con la lG2219
+- 1Co_5:8sino con panes sin l, de sinceridad yG106
+- Gál_5:9un poco de l leuda toda la masaG2219

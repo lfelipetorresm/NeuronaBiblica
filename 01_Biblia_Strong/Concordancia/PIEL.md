@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: PIEL
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PIEL
+
+- Gén_3:21Dios hizo al hombre y...túnicas de pH5785
+- Gén_27:16y cubrió sus manos...con las p de losH5785
+- Éxo_25:5p de carneros teñidas...p de tejonesH5785
+- Éxo_26:14harás...la tienda una cubierta de p deH5785
+- Éxo_26:14y una cubierta de p de tejones encimaH5785
+- Éxo_29:14pero la carne...y su p y su estiércolH5785
+- Éxo_34:29-30, Éxo_34:35la p de su rostro resplandecíaH5785
+- Éxo_35:7p de carneros teñidas de rojo, p deH5785
+- Éxo_35:23que tenía...p de carneros...p de tejonesH5785
+- Éxo_36:19e hizo...una cubierta de p de carnerosH5785
+- Éxo_36:19otra cubierta de p de tejones encimaH5785
+- Éxo_39:34la cubierta de p de carnero teñidas deH5785
+- Éxo_39:34la cubierta de p de tejones, el veloH5785
+- Lev_4:11la p del becerro, y toda su carne, conH5785
+- Lev_7:8p del holocausto que ofreciere será paraH5785
+- Lev_8:17su p, su carne y su estiércol, lo quemóH5785
+- Lev_9:11la carne y la p las quemó al fuego fueraH5785
+- Lev_11:32sea cosa de madera, vestido, p, sacoH5785
+- Lev_13:2tuviere en la p de su cuerpo hinchazónH5785
+- Lev_13:2hubiere en la p de su cuerpo como llagaH5785
+- Lev_13:3mirará la llaga en la p del cuerpo; siH5785
+- Lev_13:3, Lev_13:20, Lev_13:25, Lev_13:30pareciere...más profunda que la pH5785
+- Lev_13:4si en la p de su cuerpo hubiere manchaH5785
+- Lev_13:4, Lev_13:21, Lev_13:26, Lev_13:31-32, Lev_13:34pareciere más profunda que la pH5785
+- Lev_13:5llaga...no habiéndose extendido en la PH5785
+- Lev_13:6y si parece...que no ha cundido en la PH5785
+- Lev_13:7pero si se extendiere la erupción en la PH5785
+- Lev_13:8que la erupción se ha extendido en la PH5785
+- Lev_13:10si apareciere tumor blanco en la p, elH5785
+- Lev_13:11es lepra crónica en la p de su cuerpoH5785
+- Lev_13:12cundiendo por la p...cubriere toda la pH5785
+- Lev_13:18y cuando en la p...hubiere divieso, y seH5785
+- Lev_13:22se fuere extendiendo por la p, entoncesH5785
+- Lev_13:24en la p del cuerpo quemadura de fuegoH5785
+- Lev_13:27, Lev_13:35se hubiere ido extendiendo por la PH5785
+- Lev_13:28no se hubiere extendido en la p, sinoH5785
+- Lev_13:34si la tiña no hubiere cundido en la pH5785
+- Lev_13:36y si la tiña hubiere cundido en la pH5785
+- Lev_13:38tuviere en la p de su cuerpo manchasH5785
+- Lev_13:39si en la p...aparecieren manchas blancasH5785
+- Lev_13:39empeine que brotó en la p; está limpiaH5785
+- Lev_13:43parecer de la lepra de la p del cuerpoH5785
+- Lev_15:17toda p sobre la cual cayere la emisiónH5785
+- Lev_16:27y quemarán en el fuego su p, su carneH5785
+- Núm_4:6pondrán sobre ella la cubierta de p deH5785
+- Núm_4:8, Núm_4:11lo cubrirán con la cubierta de p deH5785
+- Núm_4:10pondrán...en una cubierta de p de tejonesH5785
+- Núm_4:12y los cubrirán con una cubierta de p deH5785
+- Núm_4:14extenderán...la cubierta de p de tejonesH5785
+- Núm_4:25llevarán...la cubierta de p de tejones que
+- Núm_31:20purificaréis...toda prenda de p, y todaH5785
+- Job_2:4p por p, todo,lo que el hombre tieneH5785
+- Job_7:5mi carne está mi p hendida y abominableH5785
+- Job_10:11me vestiste de p y carne, y me tejisteH5785
+- Job_16:15cilicio sobre mi p, y puse mi cabeza enH1539
+- Job_18:13la enfermedad roerá su p, y...miembrosH5785
+- Job_19:20p y mi carne se pegaron a mis huesosH5785
+- Job_19:20he escapado...con...la p de mis dientesH5785
+- Job_19:26después de deshecha esta mi p, en miH5785
+- Job_30:30mi p se ha ennegrecido y se me cae, yH5785
+- Job_41:7¿cortarás tú con cuchillo su p, o conH5785
+- Jer_13:23¿Mudará el etíope su p, y el leopardo
+- Lam_3:4hizo envejecer mi carne y mi pH5785
+- Lam_4:8su p está pegada a sus huesos, seca comoH5785
+- Lam_5:10nuestra p se ennegreció como un hornoH5785
+- Eze_37:6os cubriré de p, y pondré en vosotrosH5785
+- Eze_37:8y la p cubrió por encima de ellos; peroH5785
+- Miq_3:2les quitáis su p y su carne de sobre losH5785
+- Miq_3:3les desolláis su p de sobre ellos, y lesH5785
+- Heb_11:37cubiertos de p de ovejas y de cabrasG1192

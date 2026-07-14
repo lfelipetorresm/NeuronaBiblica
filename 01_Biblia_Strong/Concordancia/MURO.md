@@ -1,0 +1,173 @@
+---
+tipo: concordancia
+palabra: MURO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MURO
+
+- Gén_49:22cuyos vástagos se extienden sobre el mH7791
+- Éxo_14:22, Éxo_14:29las aguas como m a su derecha yH2346
+- Lev_25:31casas de las aldeas que no tienen mH2346
+- Núm_35:4los ejidos de...mil codos...desde el mH7023
+- Deu_3:5eran ciudades fortificadas con m altosH2346
+- Deu_3:5sin contar otras muchas ciudades sin m
+- Deu_28:52pondrá sitio...hasta que caigan tus mH2346
+- Jos_2:15casa...en el m...y ella vivía en el mH2346
+- Jos_6:5a gran voz, y el m de la ciudad caeráH2346
+- Jos_6:20el pueblo gritó, y...y el m se derrumbóH2346
+- 1Sa_6:18las ciudades...como las aldeas sin m
+- 1Sa_25:16m fueron para nosotros de día y...nocheH2346
+- 1Sa_31:10colgaron su cuerpo en el m de Bet-sánH7023
+- 1Sa_31:12quitaron el cuerpo de Saúl...del m deH2346
+- 2Sa_5:11de Tiro envió...canteros para los m
+- 2Sa_11:20sabeís...que suelen arrojar desde el m?[[H2346]]
+- 2Sa_11:21¿no echó una mujer del m un pedazo deH2346
+- 2Sa_11:21¿por qué os acercasteis tanto al m?[[H2346]]
+- 2Sa_11:24pero los flecheros tiraron...desde el mH2346
+- 2Sa_18:24ido al terrado sobre la puerta en el mH2346
+- 2Sa_20:21su cabeza te será arrojada desde el mH2346
+- 2Sa_22:30ejércitos, y con mi Dios asaltaré mH7791
+- 1Re_3:1acaba de edificar...los m de JerusalénH2346
+- 1Re_4:13sesenta...ciudades con m y cerraduras deH2346
+- 1Re_6:5también junto al m de la casa aposentosH7023
+- 1Re_9:15para edificar la...y el m de JerusalénH2346
+- 1Re_20:30y el m cayó sobre 27.000 hombres queH2346
+- 1Re_21:23los perros comerán a Jezabel en el m deH2426
+- 2Re_3:27sacrificó en holocausto sobre el mH2346
+- 2Re_6:26pasando el rey...por el m, una mujer leH2346
+- 2Re_6:30rasgó sus vestidos, y pasó así por el mH2346
+- 2Re_14:13y vino a...y rompió el m de JerusalénH2346
+- 2Re_18:26oídos del pueblo que está sobre el mH2346
+- 2Re_18:27no a los hombres que estan sobre el mH2346
+- 2Re_25:4abierta ya...brecha en el m de la ciudadH2346
+- 2Re_25:4huyeron...entre los dos m, junto a los
+- 2Re_25:10ejército...derribó los m...de JerusalénH2346
+- 1Cr_11:8edificó la ciudad...Milo hasta el m
+- 2Cr_8:5reedificó...con m, puertas y barrasH2346
+- 2Cr_14:7cerquémoslas de m con torres, puertasH2346
+- 2Cr_25:23Joás rey de...derribó el m de JerusalénH2346
+- 2Cr_26:6salió y peleó contra...rompió el m de GatH2346
+- 2Cr_26:6rompió...el m de Jabni, y el m de AsdodH2346
+- 2Cr_27:3sobre el m de la fortaleza edificó muchoH2346
+- 2Cr_32:5edificó...los m caídos...otro m por fueraH2346
+- 2Cr_32:18al pueblo de...que estaba sobre los mH2346
+- 2Cr_33:14edificó el m...y elevó el m muy altoH2346
+- 2Cr_36:19de Dios, y rompieron el m de JerusalénH2346
+- Esd_4:12edifican...y levantan los m y reparanH7792
+- Esd_4:13si...los m levantados, no pagaránH7792
+- Esd_4:16fuere reedificada, y levantados sus mH7792
+- Esd_5:3, Esd_5:9edificar esta casa y levantar estos m?[[H846]]
+- Neh_1:3y el m de Jerusalén derribado, y susH2346
+- Neh_2:8para el m de la ciudad, y la casa en queH2346
+- Neh_2:13salí...y observé los m de Jerusalén queH2346
+- Neh_2:15de noche...observé el m, y di la vueltaH2346
+- Neh_2:17venid, y edifiquemos el m de JerusalénH2346
+- Neh_3:8reparada a Jerudalén hasta el m anchoH2346
+- Neh_3:13levantaron...mil codos del m, hasta laH2346
+- Neh_3:15y levantó...el m del estanque de SiloéH2346
+- Neh_3:24hasta el ángulo entrante del m, y hasta
+- Neh_3:27restauraron los tecoítas...el m de OfelH2346
+- Neh_4:1cuando oyó Sanbalat...edificábamos el mH2346
+- Neh_4:3lo que ellos edifican del m de piedra, siH2346
+- Neh_4:6edificamos, pues, el m, y toda la murallaH2346
+- Neh_4:7que oyendo...que los m de Jerusalén eranH2346
+- Neh_4:10debilitado...y no podemos edificar el mH2346
+- Neh_4:13detrás del m, y en los sitios abiertosH2346
+- Neh_4:15nos volvimos todos al m, cada uno a suH2346
+- Neh_4:17los que edificaban en el m, los queH2346
+- Neh_4:19estamos apartados en el m, lejos unos deH2346
+- Neh_5:16en la obra de este m restauré mi parteH2346
+- Neh_6:1oyeron...que yo había edificado el m, yH2346
+- Neh_6:6por eso edificas tú el m, con la mira deH2346
+- Neh_6:15fue terminado, pues, el m, el 25 del mesH2346
+- Neh_7:1luego que el m fue edificado, y colocadasH2346
+- Neh_12:27para la dedicación del m de JerusalénH2346
+- Neh_12:30purificaron al...y las puertas, y el mH2346
+- Neh_12:31sobre el m, y puse dos coros grandesH2346
+- Neh_12:31uno a la derecha, sobre el m, hacia laH2346
+- Neh_12:37por la subida del m, desde la casa deH2346
+- Neh_12:38desde la torre de los...hasta el m anchoH2346
+- Neh_13:21¿por qué os quedaís...delante del m?[[H2346]]
+- Est_9:19los...habitan en las villas sin m
+- Sal_18:29contigo...y con mi Dios asaltaré mH7791
+- Sal_51:18bien...a Sion; edifica los m de JerusalénH2346
+- Sal_55:10día y noche la rodean sobre sus m, eH2346
+- Sal_122:7la paz dentro de tus m, y el descansoH2426
+- Pro_18:11y como un m alto en su imaginaciónH2346
+- Pro_25:28como ciudad...sin m es el hombre cuyoH2346
+- Cnt_5:7quitaron mi manto...guardas de los mH2346
+- Cnt_8:9si ella es m, edificaremos sobre él unH2346
+- Cnt_8:10soy m, y mis pechos como torres, desdeH2346
+- Isa_2:15sobre toda torre alta, y sobre todo mH2346
+- Isa_22:5para derribar el m, y clamar al monteH7023
+- Isa_22:10derribasteis casas para fortificar el mH2346
+- Isa_22:11hicisteis foso entre los dos m para lasH2346
+- Isa_25:4el ímpetu...es como turbión contra el mH7023
+- Isa_25:12y abatirá la fortaleza de tus altos mH2346
+- Isa_26:1salvación puso Dios por m y antemuroH2346
+- Isa_36:11lo oye el pueblo que está sobre el mH2346
+- Isa_36:12no a los hombres que están sobre el mH2346
+- Isa_49:16que...delante de mí están siempre tus mH2346
+- Isa_56:5daré lugar en mi casa y dentro de mis mH2346
+- Isa_60:10y extranjreros edificarán tus m, y susH2346
+- Isa_60:18a tus m llamarás salvación, y a tusH2346
+- Isa_62:6sobre tus m...he puesto guardas; todo elH2346
+- Jer_1:15y junto a todos sus m en derredorH2346
+- Jer_1:18que yo te he puesto...como m de bronceH2346
+- Jer_5:10escalad sus m y destruid, pero no delH8284
+- Jer_5:10quitad las almenas de sus m, porque no
+- Jer_15:20te pondré...por m fortificado de bronceH2346
+- Jer_39:2se abrió brecha en el m de la ciudad
+- Jer_39:4por la entre los dos m; y salióH2346
+- Jer_39:8caldeos...derribaron los m de JerusalénH2346
+- Jer_49:27haré encender fuego en el m de DamascoH2346
+- Jer_50:15sus cimientos, derribados son sus mH2346
+- Jer_51:12levantad bandera...los m de BabiloniaH2346
+- Jer_51:44juzgaré a...y el m de Babilonia caeráH2346
+- Jer_51:58el m ancho de Babilonia será derribadoH2346
+- Jer_52:7y fue abierta una brecha en el m de laH2346
+- Jer_52:7dos m que había cerca del jardín del reyH2346
+- Jer_52:14todos los m en derredor de JerusalénH2346
+- Lam_2:7mano del enemigo los m de sus palaciosH2346
+- Lam_2:8determinó destruir...m de la hija de SionH2346
+- Lam_2:8hizpo que se lamentara el antemuro y el mH2346
+- Eze_4:3ponla en lugar de m de hierro entre tiH7023
+- Eze_13:5edificado un m alrededor de la casa deH7023
+- Eze_26:4demolerán los m de Tiro,...y sus torresH2346
+- Eze_26:9pondrá contra ti arietes, contra tus mH2346
+- Eze_26:10con el estruendo de...temblarán tus mH2346
+- Eze_26:12aarruinarán tus m, y...casas preciosasH2346
+- Eze_27:11hijos de Arvad...estuvieron sobre tus mH2346
+- Eze_27:11gamadeos...escudos colgaron sobre tus mH2346
+- Eze_38:11habitan sin m, y no tienen cerrojos niH2346
+- Eze_38:20los vallados...y todo m caerá a tierraH2346
+- Eze_40:5y he aquí un m fuera de la casa; y laH2346
+- Eze_40:5midió el espesor del m, de una caña, yH1146
+- Eze_41:5midió el m de la casa, de seis codosH7023
+- Eze_42:7el m...enfrente de las cámaras, hacia elH1447
+- Eze_42:10lo largo del m del...hacia el orienteH1444
+- Eze_42:12había enfrente del m al lado orientalH1448
+- Eze_42:20un m...de quinientas cañas de longuitudH2346
+- Dan_9:25se volverá a edificar la plaza y el mH2742
+- Joe_2:7como hombres de guerra subirán el mH2346
+- Joe_2:9correrán por el m, subirán por las casasH2346
+- Amó_1:7, Amó_1:10, Amó_1:14prenderé fuego en el m...consumiráH2346
+- Amó_7:7el Señor estaba sobre un m hecho a plomoH2346
+- Miq_5:1rodéate ahora de m, hija de guerreros
+- Miq_7:11viene el día en que se edificarán tus mH1447
+- Nah_2:5sea apresurarán a su m,y la defensaH2346
+- Nah_3:8cuyo baluarte era el mar, y aguas por m?[[H2346]]
+- Hab_2:11porque la piedra clamará desde el mH7023
+- Zac_2:4dijo...Sin m será habitada Jerusalén
+- Zac_2:5seré para ella...m de fuego en derredorH2346
+- Hec_9:25le bajaron por el m, descolgándole enG5038
+- 2Co_11:33fui descolgado del m en un canastoG5038
+- Heb_11:30cayeron los m de Jericó después deG5038
+- Rev_21:12tenía un m grande...con doce puertasG5038
+- Rev_21:14el m de la ciudad tenia doce cimientosG5038
+- Rev_21:15caña de...para medir la ciudada...y su mG5038
+- Rev_21:17y midió su m, 144 codos, de medida deG5038
+- Rev_21:18el material de su m era de jaspe; peroG5038
+- Rev_21:19y los cimientos del m...adornados conG5038

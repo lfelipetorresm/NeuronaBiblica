@@ -1,0 +1,437 @@
+---
+tipo: concordancia
+palabra: FUEGO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FUEGO
+
+- Gén_11:3hagamos ladrillo y cozámoslo con fH8313
+- Gén_15:17una antorcha de f que pasaba por entreH784
+- Gén_19:24hizo llover sobre Sodoma...azufre y fH784
+- Gén_22:6él tomó en su mano el f y el cuchilloH784
+- Gén_22:7Isaac...dijo: He aquí el f y la leña; masH784
+- Éxo_3:2una llama de f...que la zarza ardía en fH784
+- Éxo_9:23tronar...f se descargó sobre la tierraH784
+- Éxo_9:24granizo, y f mezclado con el granizoH784
+- Éxo_12:8comerán la carne asada al f, y panes sinH784
+- Éxo_12:9ni cocida en agua, sino asada al f; suH784
+- Éxo_12:10lo que quedare...lo quemaréis en el fH784
+- Éxo_13:21en una columna de f para alumbrarlosH784
+- Éxo_13:22nunca se apartó...noche la columna de fH784
+- Éxo_14:24Jehová miró...desde la columna de f yH784
+- Éxo_19:18Jehová había descendido sobre él en fH784
+- Éxo_22:6se prendiere f, y al quemar espinosH784
+- Éxo_22:6el que encendió el f pagará lo quemadoH1200
+- Éxo_24:17era como un f abrazador en la cumbreH784
+- Éxo_29:14la carne...los quemarás a f fuera delH784
+- Éxo_29:34quemarás al f lo que hubiere sobradoH784
+- Éxo_32:20y tomó el becerro...y lo quemó en el fH784
+- Éxo_32:24lo eché en el f, y salió este becerroH784
+- Éxo_35:3no encenderéis f en...vuestras moradasH784
+- Éxo_40:38el f estaba de noche sobre él, a vistaH784
+- Lev_1:7pondrán f sobre el altar...sobre el fH784
+- Lev_1:8, Lev_1:12sobre la leña que está sobre el f queH784
+- Lev_1:17la hará arder...sobre la leña...en el fH784
+- Lev_2:14tostarás al f las espigas verdes, y elH784
+- Lev_3:5sobre la leña que habrá encima del f; esH784
+- Lev_4:12becerro...lo quemará al f sobre la leñaH784
+- Lev_6:9el holocausto estará sobre el f encendidoH4169
+- Lev_6:9la mañana el f del altar arderá en élH784
+- Lev_6:10el f hubiere consumido el holocaustoH784
+- Lev_6:12el f encendido...el altar no se apagaráH784
+- Lev_6:13el f arderá continuamente en el altarH784
+- Lev_6:30no se comerá ninguna...al f será quemadaH784
+- Lev_7:17lo que quedare de...será quemado en el fH784
+- Lev_7:19carne...no se comerá; al f será quemadaH784
+- Lev_8:17lo quemó al f fuera del campamento, comoH784
+- Lev_8:32que sobre de la carne...quemaréis al fH784
+- Lev_9:11piel las quemó al f fuera del campamentoH784
+- Lev_9:24salió f de delante de Jehová y consumióH784
+- Lev_10:1pusieron en...f y ofrecieron...f extrañoH784
+- Lev_10:2salió f de delante de Jehová y los quemóH784
+- Lev_13:24quemadura de f...y...en lo sanado del fH4348
+- Lev_13:52lepra maligna es; al f será quemadaH784
+- Lev_13:55plaga...la quemarás al f; es corrosiónH784
+- Lev_13:57quemarás al f aquello en que estuviereH784
+- Lev_16:12un incensario lleno de brasas de f delH784
+- Lev_16:13pondrá el perfume sobre el f delanteH784
+- Lev_16:27y quemarán en el f su piel, su carneH784
+- Lev_18:21no des hijo tuyo para ofrecerlo por f
+- Lev_19:6y lo que quedare...será quemado en el fH784
+- Lev_20:14quemarán con f a él y a ellas, para quéH784
+- Lev_21:9comenzare a fornicar...quemada será al fH784
+- Núm_3:4murieron...cuando ofrecieron f extrañoH784
+- Núm_6:18los pondrá sobre el f que está debajoH784
+- Núm_9:15una apariencia de f, hasta la mañanaH784
+- Núm_9:16de día, y de noche la apariencia de fH784
+- Núm_11:1ira, y se encendió en ellos f de JehováH784
+- Núm_11:2Moisés oró a Jehová...el f se extinguióH784
+- Núm_11:3porque el f de Jehová se encendió enH784
+- Núm_14:14de día ibas...de noche en columna de fH784
+- Núm_16:7y poned f en ellos, y poned...inciensoH784
+- Núm_16:18pusieron en ellos f, y echaron en ellosH784
+- Núm_16:35f de delante de Jehová, y consumió aH784
+- Núm_16:37y derrame más allá el f; porque sonH784
+- Núm_16:46toma el incensario, y pon en él f delH784
+- Núm_18:9de las cosas santas, reservadas del fH784
+- Núm_19:6lo echará en medio del f en que arde laH8316
+- Núm_21:28porque f salió de Hesbón, y llama deH784
+- Núm_26:10cuando consumió el f a 250 varonesH784
+- Núm_26:61murieron cuando ofrecieron f extrañoH784
+- Núm_31:23lo que resiste el f, por f lo haréisH784
+- Núm_31:23por agua todo lo que no resiste el fH784
+- Deu_1:33f de noche para mostraros el caminoH784
+- Deu_4:11el monte ardía en f hasta en medio deH784
+- Deu_4:12habló Jehová...en medio del f; oísteisH784
+- Deu_4:15día que Jehová habló...en medio del fH784
+- Deu_4:24tu Dios es f consumidor, Dios celosoH784
+- Deu_4:33Dios, hablando de en medio del f, comoH784
+- Deu_4:36y sobre la tierra te mostró su gran fH784
+- Deu_4:36has oído sus palabras de en medio del fH784
+- Deu_5:4cara a cara habló Jehová...en medio del fH784
+- Deu_5:5tuvisteis temor del f, y no subisteis alH784
+- Deu_5:22habló Jehová...de en medio del f, de laH784
+- Deu_5:23voz...y visteis al monte que ardía en fH784
+- Deu_5:24y hemos oído su voz de en medio del fH784
+- Deu_5:25este gran f nos consumirá; si oyéremosH784
+- Deu_5:26del Dios...que habla de en medio del fH784
+- Deu_7:5Asera, y quemaréis sus esculturas en el fH784
+- Deu_7:25esculturas de...dioses quemarás en el fH784
+- Deu_9:3tu Dios el que pasa delante de ti como fH784
+- Deu_9:10que os habló Jehová...de en medio del fH784
+- Deu_9:15descendí del monte, el cual ardía en fH784
+- Deu_9:21y tomé...el becerro...y lo quemé en el fH784
+- Deu_10:4Jehová os había hablado...en medio del fH784
+- Deu_12:3sus imágenes de Asera consumiréis con fH784
+- Deu_12:31hijos y a sus hijas quemaban en el fH784
+- Deu_13:16consumirás con f la ciudad y todo suH784
+- Deu_18:10quien haga pasar a su hijo...por el fH784
+- Deu_18:16ni vea yo más este gran f, para que noH784
+- Deu_32:22porque f se ha encendido en mi ira, yH784
+- Deu_33:2vino...con la ley de f a su mano derechaH799
+- Jos_6:24consumieron con f la ciudad, y todoH784
+- Jos_8:8cuando la hayáis tomado le prenderéis fH784
+- Jos_8:19la ciudad...se apresuraron a prenderle fH784
+- 1Re_19:12tras el terremoto un f; pero JehováH784
+- 1Re_19:12Jehová no estaba en el f. Y tras el fH784
+- 2Re_1:10, 2Re_1:12descienda f del cielo...descendió fH784
+- 2Re_1:14ha descendido f...y ha consumido a losH784
+- 2Re_2:11un carro de f con caballos de f apartó aH784
+- 2Re_6:17y de carros de f alrededor de EliseoH784
+- 2Re_8:12sé el mal...a sus fortalezas pegarás fH784
+- 2Re_16:3aun hizo pasar por f a su hijo, segúnH784
+- 2Re_17:17hicieron pasar a sus hijos y a...por fH784
+- 2Re_17:31quemaban sus hijos en el f para adorarH784
+- 2Re_19:18echaron al f a sus dioses, por cuantoH784
+- 2Re_21:6y pasó a su hijo por f, y...fue agoreroH784
+- 2Re_23:10ninguno pasase su hijo...por f a MolocH784
+- 2Re_23:11quitó...y quemó al f los carros del solH784
+- 2Re_23:15polvo, y puso f a la imagen de AseraH8313
+- 2Re_25:9las casas de los príncipes quemó a fH784
+- 1Cr_21:26invocó a Jehová...le respondió por fH784
+- 2Cr_7:1de orar, descendió f de los cielosH784
+- 2Cr_7:3vieron todos...descender el f y la gloriaH784
+- 2Cr_16:14ataúd...e hicieron un gran f en su honorH8316
+- 2Cr_21:19y no encendieron f en su honor, comoH8316
+- 2Cr_28:3hizo pasar a sus hijos por f, conformeH784
+- 2Cr_33:6y pasó sus hijos por f en el valle delH784
+- 2Cr_36:19y consumieron a f todos sus palaciosH784
+- Neh_1:3derribado, y sus puertas quemadas a fH784
+- Neh_2:3ciudad...sus puertas consumidas por el f?[[H784]]
+- Neh_2:13puertas que estaban consumidas por el fH784
+- Neh_2:17sus puertas consumidas por el f; venidH784
+- Neh_9:12los guiaste...con columna de f de nocheH784
+- Neh_9:19no se apartó...de noche la columna de fH784
+- Job_1:16f de Dios cayó del cielo, que quemóH784
+- Job_15:34y f consumirá las tiendas de sobornoH784
+- Job_18:5no resplandecerá la centella de su fH784
+- Job_20:26f no atizado los consumirá; devoraráH784
+- Job_22:20y el f consumió lo que de ellos quedóH784
+- Job_28:5y debajo de ella está...convertida en fH784
+- Job_31:12es f que devoraría hasta el Abadón, yH784
+- Job_41:19salen hachones de f; centellas de fH784
+- Sal_11:6f, azufre...será la porción del cálizH784
+- Sal_18:8humo subió...y de su boca f consumidorH784
+- Sal_18:13dio su voz; granizo y carbones de fH784
+- Sal_21:9pondrás como horno de f en el tiempo deH784
+- Sal_21:9Jehová los deshará en...f los consumiráH784
+- Sal_29:7voz de Jehová que derrama llamas de fH784
+- Sal_78:14guió...toda la noche con resplandor de fH784
+- Sal_78:21encendió el f contra Jacob, y el furorH784
+- Sal_78:63f devoró a sus jóvenes, y sus vírgenesH784
+- Sal_79:5¿hasta cuándo..,.Arderá como f tu celoH784
+- Sal_80:16quemada a f está, asolada; perezcan porH784
+- Sal_83:14f que quema el monte, como llama queH784
+- Sal_89:46esconderá...¿arderá tu ira como el f?[[H784]]
+- Sal_97:3f irá delante de él, y abrasará a susH784
+- Sal_104:4hace a...las flamas de f sus ministrosH784
+- Sal_105:32les dio...y llamas de f en su tierraH784
+- Sal_105:39una nube...y f para alumbrar la nocheH784
+- Sal_106:18se encendió f en su junta; la llamaH784
+- Sal_118:12se enardecieron como f de espinos; masH784
+- Sal_140:10echados en el f, en abismos profundosH784
+- Sal_148:8el f y el granizo, la nieve y el vaporH784
+- Pro_6:27¿tomará el hombre f en su seno sin queH784
+- Pro_16:27y en sus labios hay como llama de fH784
+- Pro_26:20sin leña se apaga el l, y donde no hayH784
+- Pro_26:21carbón para brasas, y la leña para el fH784
+- Pro_30:16el Seol...el f que jamás dice: ¡ Basta![[H784]]
+- Cnt_8:6sus brasas, brasas de f, fuerte llamaH784
+- Isa_1:7vuestras ciudades puestas a f, vuestraH784
+- Isa_4:5de noche resplandor de f que eche llamasH784
+- Isa_5:24la lengua del f consume el rastrojo, yH784
+- Isa_9:5todo manto...serán quemados, pasto del fH784
+- Isa_9:18la maldad se encendió como f, cardos yH784
+- Isa_9:19y será el pueblo como pasto del f; elH784
+- Isa_10:16encenderá una hoguera como ardor de fH784
+- Isa_10:17y la luz de Israel será por f, y suH784
+- Isa_26:11fin...y a tus enemigos f los consumiráH784
+- Isa_29:6visitada con...y llama de f consumidorH784
+- Isa_30:14no se halla tiesto para traer f delH784
+- Isa_30:27su rostro...con llamas de f devoradorH1197
+- Isa_30:27labios...su lengua como f que consumeH784
+- Isa_30:30con furor de rostro y...de f consumidorH784
+- Isa_30:33Tofet...cuya pira es de f, y mucha leñaH784
+- Isa_31:9dice Jehová, cuyo f está en Sión, y suH217
+- Isa_33:11luz, el soplo de vuestro f os consumiráH784
+- Isa_33:12como espinos cortados...quemados con fH784
+- Isa_33:14¿quién de...morará con el f consumidor?[[H784]]
+- Isa_37:19y entregaron los dioses de ellos al fH784
+- Isa_40:16ni el Líbano bastará para el f, niH1197
+- Isa_42:25f por todas partes, pero no entendióH3857
+- Isa_43:2cuando pases por el f no te quemarásH784
+- Isa_44:16del leño quema en el f, con parte deH784
+- Isa_44:16¡oh! me he calentado, he visto el fH217
+- Isa_44:19parte de esto quemé en el f, y sobreH784
+- Isa_47:14f los quemará, no salvarán sus vidasH784
+- Isa_50:11vosotros encendéis f, y os rodeáis deH784
+- Isa_50:11andad a la luz de vuestro f, y de lasH784
+- Isa_54:16al herrero que sopla las ascuas en el fH784
+- Isa_64:2como f abrazador de...f que hace hervirH784
+- Isa_64:11la casa...fue consumida al f; y todasH784
+- Isa_65:5éstos son humo en mi furor, f que ardeH784
+- Isa_66:15que Jehová vendrá con f, y sus carrosH784
+- Isa_66:16juzgará con f y con su espada a todoH784
+- Isa_66:24su...nunca morirá, ni su f se apagaráH784
+- Jer_4:4que mi ira salga como f Y se enciendaH784
+- Jer_5:14yo pongo mis palabras en tu boca por fH784
+- Jer_6:29se quemó el fuelle, por el f...el plomoH784
+- Jer_7:18los padres encienden el f, y las mujeresH784
+- Jer_7:31quemar al f a sus hijos y a sus hijasH784
+- Jer_11:16hizo encender f sobre él, y quebraronH784
+- Jer_15:14porque f se ha encendido en mi furorH784
+- Jer_17:4f habéis encendido en mi furor, que paraH784
+- Jer_17:27yo haré descender f en sus puertas, yH784
+- Jer_19:5a Baal, para quemar con f a sus hijosH784
+- Jer_20:9había en mi corazón como un f ardienteH784
+- Jer_21:10en mano del rey de...y la quemará a fH784
+- Jer_21:12para que mi ira no salga como f, y seH784
+- Jer_21:14encender f en su bosque, y consumiráH784
+- Jer_22:7y cortarán tus cedros...echarán en el fH784
+- Jer_23:29¿no es mi palabra como f, dice JehováH784
+- Jer_29:22a quienes asó al f el rey de BabiloniaH784
+- Jer_32:29caldeos...la pondrán a f y la quemaránH784
+- Jer_32:35hacer pasar por el f sus hijos...a MolocH784
+- Jer_34:2entregaré esta ciudad...la quemará con fH784
+- Jer_34:22ciudad...tomarán, y la quemarán con fH784
+- Jer_36:23echó en el f...se consumió sobre el fH784
+- Jer_36:32que quemó en el f Joacim rey de JudáH784
+- Jer_37:8volverán...la tomarán y la pondrán a fH784
+- Jer_37:10levantará...y pondrán esta ciudad a fH784
+- Jer_38:17ciudad no será puesta a f, y vivirásH784
+- Jer_38:18la pondrán a f, y tu no escaparás deH784
+- Jer_38:23serás apresado...esta ciudad quemará a fH784
+- Jer_39:8los caldeos pusieron a f la casa del reyH784
+- Jer_43:12pondrá f a los templos de los diosesH784
+- Jer_43:13de los dioses de Egipto quemará a fH784
+- Jer_48:45mas salió f de Hesbón, y llama de enH784
+- Jer_49:2sus ciudades serán puestas a f, e IsraelH784
+- Jer_49:27haré encender f en el muro de DamascoH784
+- Jer_50:32encenderé f en sus ciudades...y quemaréH784
+- Jer_51:32tomados, y los baluartes quemados a fH784
+- Jer_51:58sus altas puertas serán quemadas a fH784
+- Jer_51:58y las naciones se cansaron...para el fH784
+- Jer_52:13y destruyó con f fodo edificio grandeH784
+- Lam_1:13lo alto envió f que consume mis huesosH784
+- Lam_2:3y se encendió en Jacob como llama de fH784
+- Lam_2:4en la tienda de...derramó como f su enojoH784
+- Lam_4:11y encendió en Sión f que consumió hastaH784
+- Eze_1:4un f envolvente...y en medio del f algoH784
+- Eze_1:13su aspecto...de carbones de f encendidosH784
+- Eze_1:13el f resplandecía, y del f...relámpagosH784
+- Eze_1:27como apariencia de f dentro de ella enH784
+- Eze_1:27parecía como f, y que tenía resplandorH784
+- Eze_4:12lo cocerás...al f de excremento humanoH5746
+- Eze_5:2parte quemarás a f en medio de la ciudadH217
+- Eze_5:4los echarás en...f...en el f los quemarásH784
+- Eze_5:4de allí saldrá el f a...la casa de IsraelH784
+- Eze_8:2una figura...desde sus lomos para abajo, fH784
+- Eze_10:6toma f de entre las ruedas, de entre losH784
+- Eze_10:7un querubín extendió su mano...al f queH784
+- Eze_15:4es puesta en el f para ser consumidaH784
+- Eze_15:4dos extremos consumió el f, y la parteH784
+- Eze_15:5después que el f la hubiere consumidoH784
+- Eze_15:6la cual di al f para que la consumieseH784
+- Eze_15:7del f se escaparon, f los consumiráH784
+- Eze_16:21mis hijos...ofrenda que el f consumía?[[H784]]
+- Eze_16:41quemarán tus casas a f, y harán en tiH784
+- Eze_19:12sus ramas fuertes...las consumió el fH784
+- Eze_19:14y ha salido f de la vara de sus ramasH784
+- Eze_20:26cuando hacían pasar por el f a todoH784
+- Eze_20:31haciendo pasar vuestros hijos por el fH784
+- Eze_20:47yo enciendo en ti f, el cual consumiráH784
+- Eze_20:47no se apagará la llama del f; y seránH3852
+- Eze_21:31f de mi enojo haré encender sobre tiH784
+- Eze_21:32pasto del f, se empapará la tierra deH784
+- Eze_22:20para encender f en él para fundirlosH784
+- Eze_22:21y soplaré...en el f de mi furor, y enH784
+- Eze_23:25tu remanente será consumido por el fH784
+- Eze_23:37a sus hijos...hicieron pasar por el f
+- Eze_23:47matarán...y sus casas consumirán con fH784
+- Eze_24:10encendiendo el f para consumir la carneH784
+- Eze_24:12sólo en f será su herrumbre consumidoH784
+- Eze_28:14medio de las piedras de f te paseabasH784
+- Eze_28:16te arrojé de entre las piedras del fH784
+- Eze_28:18saqué f de en medio de ti, el cual teH784
+- Eze_30:8sabrán que yo...cuando ponga f a EgiptoH784
+- Eze_30:14y pondré f a Zoán, y haré juicios enH784
+- Eze_30:16pondré f a Egipto; Sin tendrá...dolorH784
+- Eze_36:5he hablado...en el f de mi celo contraH784
+- Eze_38:19he hablado...en el f de mi ira: Que enH784
+- Eze_38:22llover sobre él...granizo, f y azufreH784
+- Eze_39:6enviaré f sobre Magog, y sobre los queH784
+- Eze_39:9y los quemarán en el f por siete añosH784
+- Eze_39:10leña...sino quemarán las armas en el fH5135
+- Dan_3:6, Dan_3:11sea echado dentro de un horno de fH3345
+- Dan_3:15seréis echados en...horno de f ardiendoH3345
+- Dan_3:17puede librarnos del horno de f ardiendoH3345
+- Dan_3:20para echarlos en el horno de f ardiendoH3345
+- Dan_3:21y fueron echados dentro del horno de fH3345
+- Dan_3:22llama del f mató a aquellos que habíanH5135
+- Dan_3:23cayeron atados dentro del horno de fH3345
+- Dan_3:24echaron a tres varones dentro del f?[[H5135]]
+- Dan_3:25cuatro varones...pasean en medio del fH5135
+- Dan_3:26se acercó a la puerta del horno de fH3345
+- Dan_3:26y Abed-nego salieron de en medio del fH5135
+- Dan_3:27cómo el f no había tenido poder algunoH5135
+- Dan_3:27sus ropas...ni siquiera olor de f teníanH5135
+- Dan_7:9su trono llama de f, y las ruedas del...fH7631
+- Dan_7:10un río de f...y salía de delante de él
+- Dan_7:11y entregado para ser quemado en el fH785
+- Dan_10:6y sus ojos como antorchas de f, y susH784
+- Dan_11:33caerán a espada y a f, en cautividadH3852
+- Ose_7:4cesa de avivar el f después que está
+- Ose_7:6a la mañana está encendido como...de fH784
+- Ose_8:14mas yo meteré f en sus ciudades, el cualH784
+- Joe_1:19f consumió los pastos del desiertoH784
+- Joe_1:20y f consumió las praderas del desiertoH784
+- Joe_2:3delante de él consumirá f, tras de élH784
+- Joe_2:5como sonido de llama de f que consumeH784
+- Joe_2:30daré...sangre, y f, y columnas de humoH784
+- Amó_1:4f en la casa de Hazael, y consumirá losH784
+- Amó_1:7prenderé f...el muro de Gaza, y consumiráH784
+- Amó_1:10prenderé f...muro de Tiro, y consumiráH784
+- Amó_1:12prenderé f en Temán, y consumirá...BosraH784
+- Amó_1:14encenderé f...muro de Rabá, y consumiráH784
+- Amó_2:2prenderé f en Moab, y consumirá...QueriotH784
+- Amó_2:5prenderé...f en Judá, el cual consumiráH784
+- Amó_4:11fuisteis como tizón escapado del f; masH8316
+- Amó_5:6sea que acometa como f a la casa de JoséH784
+- Amó_7:4Jehová el Señor llamaba para juzgar con fH784
+- Abd_1:18la casa de Jacob será f, y la casa deH784
+- Miq_1:4se hendirán como la cera delante del fH784
+- Miq_1:7y todos sus dones serán quemados en f, yH784
+- Nah_1:6su ira se derrama como f, y por él seH784
+- Nah_2:3el carro como f de antorchas...el día queH784
+- Nah_3:13las puertas...f consumirá tus cerrojosH784
+- Nah_3:15te consumirá el f, te talará la espadaH784
+- Hab_2:13pueblos, pues, trabajarán para el fH784
+- Sof_1:18la tierra será consumida con el f deH784
+- Sof_3:8por el f de mi celo será consumida todaH784
+- Zac_2:5seré para ella...muro de f en derredorH784
+- Zac_9:4la empobrecerá...ella será consumida de fH784
+- Zac_11:1Líbano, abre...y consuma el f tus cedrosH784
+- Zac_12:6los capitanes de Judá como brasero de fH784
+- Zac_13:9meteré en el f a la tercera parte, y losH784
+- Mal_3:2es como f purificador, y como jabón deH784
+- Mat_3:10todo árbol...cortado y echado en el fG4442
+- Mat_3:11él os bautizará en Espíritu Santo y fG4442
+- Mat_3:12y quemará la paja en f que nunca seG4442
+- Mat_5:22diga: Fatuo...expuesto al infierno de fG4442
+- Mat_7:19no da buen fruto, es cortado y...en el fG4442
+- Mat_13:40arranca la cizaña, y se quema en el fG4442
+- Mat_13:42, Mat_13:50los echarán en el horno de f; allíG4442
+- Mat_17:15muchas veces cae en el f, y muchas,enG4442
+- Mat_18:8teniendo dos manos...ser echado en el fG4442
+- Mat_18:9teniendo dos ojos ser echado en...fG4442
+- Mat_25:41al f eterno preparado para el diablo yG4442
+- Mar_9:22muchas veces le echa en el f y en elG4442
+- Mar_9:43, Mar_9:45al f que no puede ser apagadoG4442
+- Mar_9:44gusano...no muere, y el f nunca se apagaG4442
+- Mar_9:46, Mar_9:48gusano...no muere...f nunca se apagaG4442
+- Mar_9:49porque todos serán salados con f, y todoG4442
+- Mar_14:54estaba sentado con...calentándose al fG5457
+- Luc_3:9todo árbol que no da...se echa en el fG4442
+- Luc_3:16él os bautizará en Espíritu Santo y fG4442
+- Luc_3:17quemará la...en f que nunca se apagaráG4442
+- Luc_9:54que mandemos que descienda f del cieloG4442
+- Luc_12:49f viene a echar en la tierra; ¿y quéG4442
+- Luc_17:29llovió del cielo f y azufre...destruyóG4442
+- Luc_22:55ellos encendido f en medio del patioG4442
+- Luc_22:56al verle sentado al f, se fijó en élG5457
+- Jua_15:6recogen, y los echan en el f, y ardenG4442
+- Jua_18:18alguaciles que habían encendido un fG439
+- Hec_2:3se les aparecieron lenguas...como de fG4442
+- Hec_2:19en la tierra, sangre y f y vapor de humoG4442
+- Hec_7:30apareció...en la llama de f de una zarzaG4442
+- Hec_28:2encendiendo un f, nos recibieron a todosG4443
+- Hec_28:3las echó al f; y una víbora, huyendo delG4443
+- Hec_28:5él, sacudiendo la víbora en el f, ningúnG4442
+- Rom_12:20ascuas de f amontonarás...su cabezaG4442
+- 1Co_3:13por el f será revelada; y la obraG4442
+- 1Co_3:13de cada uno cuál sea, el f la probaráG4442
+- 1Co_3:15el...será salvo, aunque así como por fG4442
+- Efe_6:16todos los dardos de f del malignoG4448
+- 2Ts_1:8en llama de f, para dar retribuciónG4442
+- 2Ti_1:6que avives el f del don de Dios que
+- Heb_1:7que hace...a sus ministros llama de fG4442
+- Heb_10:27f que ha de devorar a los adversarios
+- Heb_11:34apagaron f impetuosos, evitaron filo deG4442
+- Heb_12:18que ardía en f, a la oscuridad, a lasG4442
+- Heb_12:29porque nuestro Dios es f consumidorG4442
+- Stg_3:5¡cuán grande...enciende un pequeño f![[G4442]]
+- Stg_3:6y la lengua es un f, un mundo de maldadG4442
+- Stg_5:3devorará del todo vuestras carnes como fG4442
+- 1Pe_1:7oro...aunque perecedero se prueba con fG4442
+- 1Pe_4:12no os sorprendáis del f de prueba que
+- 2Pe_3:7guardados para el f...día del juicioG4442
+- Jud_1:7por ejemplo, sufriendo el castigo del fG4442
+- Jud_1:23a otros salvad, arrebatándolos del f; yG4442
+- Rev_1:14como nieve; sus ojos como llama de fG4442
+- Rev_2:18que tiene ojos como llama de f, y piesG4442
+- Rev_3:18de mí compres oro refinado en f, paraG4442
+- Rev_4:5delante del trono ardían...lámparas de fG4442
+- Rev_8:5y lo llenó del f del altar, y lo arrojóG4442
+- Rev_8:7tocó la trompeta, y hubo granizo y fG4442
+- Rev_8:8como una gran montaña ardiendo en f fueG4442
+- Rev_9:17cuales tenían corazas de f, de zafiroG4447
+- Rev_9:17y de su boca salían f, humo y azufreG4442
+- Rev_9:18muerta...por el f, el humo y el azufreG4442
+- Rev_10:1otro ángel...sus pies como columnas de fG4442
+- Rev_11:5si alguno quiere dañarlos, sale f de laG4442
+- Rev_13:13hace descender f del cielo a la tierraG4442
+- Rev_14:10atormentado con f y azufre delante deG4442
+- Rev_14:18otro ángel, que tenía poder sobre el fG4442
+- Rev_15:2como un mar de vidrio mezclado con fG4442
+- Rev_16:8el sol, al cual fue dado quemar a...con fG4442
+- Rev_17:16y devorarán sus...y la quemarán con fG4442
+- Rev_18:8será quemada con f; porque poderoso esG4442
+- Rev_19:12sus ojos eran como llama de f, y habíaG4442
+- Rev_19:20lanzados vivos dentro de un lago de fG4442
+- Rev_20:9descendió f del cielo, y los consumióG4442
+- Rev_20:10el diablo...fue lanzado en el lago de fG4442
+- Rev_20:14el Hades fueron lanzados al lago de fG4442
+- Rev_20:15no se halló, fue lanzado al lago de fG4442
+- Rev_21:8el lago que arde con f y azufre, que esG4442

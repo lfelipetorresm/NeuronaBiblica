@@ -1,0 +1,72 @@
+---
+tipo: concordancia
+palabra: FORTIFICAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FORTIFICAR
+
+- Núm_13:19campamentos o plazas fortificadasH4013
+- Núm_13:28ciudades muy grandes y fortificadasH1219
+- Núm_32:17quedarán en ciudades fortificadas aH4013
+- Núm_32:36Bet-nimra y Bet-harán...fortificadasH4013
+- Deu_3:5eran ciudades fortificadas con murosH1219
+- Deu_28:52caigan tus muros altos y fortificadosH1219
+- Jos_10:20se metieron...ciudades fortificadasH4013
+- Jos_14:12hay ciudades grandes y fortificadasH1219
+- Jos_19:29hasta la ciudad fortificada de TiroH4013
+- Jos_19:35las ciudades fortificadas son SidimH4013
+- Jue_6:2se hicieron...y lugares fortificadosH4679
+- Jue_9:51en medio...había una torre fortificadaH5797
+- 1Sa_6:18así las ciudades fortificadas comoH4013
+- 2Sa_20:6halle para sí ciudades fortificadasH1219
+- 2Re_3:19destruiréis toda ciudad fortificadaH4013
+- 2Re_10:2que tienen la ciudad fortificada y lasH4013
+- 2Re_17:9desde...hasta las ciudades fortificadasH4013
+- 2Re_18:8atalayas hasta la ciudad fortificadaH4013
+- 2Re_18:13contra todas las ciudades fortificadasH1219
+- 2Re_19:25para reducir las ciudades fortificadasH1219
+- 2Cr_8:5reedificó...las ciudades fortificadasH4692
+- 2Cr_11:5edificó ciudades...fortificar a JudáH4692
+- 2Cr_11:10eran ciudades fortificadas de Judá yH4694
+- 2Cr_11:12las fortificó pues, en gran maneraH2388
+- 2Cr_11:23y por todas las ciudades fortificadasH4694
+- 2Cr_12:4tomó las ciudades fortificadas de JudáH4694
+- 2Cr_14:6edificó ciudades fortificadas en JudáH4694
+- 2Cr_16:1subió Baasa...y fortificó a Ramá, paraH1129
+- 2Cr_17:2puso ejércitos en...ciudades fortificadasH1219
+- 2Cr_17:19puesto en las ciudades fortificadas enH4013
+- 2Cr_19:5puso jueces en...ciudades fortificadasH1219
+- 2Cr_21:3les había dado...y ciudades fortificadasH4694
+- 2Cr_26:9edificó...Uzías torres...y la fortificóH2388
+- 2Cr_32:1acampó contra las ciudades fortificadasH1219
+- 2Cr_32:5fortificó además a Milo en la ciudad deH2388
+- 2Cr_33:14puso capitanes...ciudades fortificadasH1219
+- Neh_9:25ciudades fortificadas y tierra fértilH1219
+- Sal_31:21misericordia...en ciudad fortificadaH4692
+- Sal_60:9; Sal_108:10¿quién...a la ciudad fortificada?[[H4692]]
+- Sal_147:13fortificó los cerrojos de tus puertasH2388
+- Pro_10:15riquezas...son su ciudad fortificadaH5797
+- Pro_18:11las riquezas...son su ciudad fortificadaH5797
+- Isa_17:9sus ciudades fortificadas serán comoH4581
+- Isa_22:10derribasteis casas para fortificar elH1219
+- Isa_25:2montón, la ciudad fortificada en ruinaH1219
+- Isa_27:10la ciudad fortificada será desoladaH1219
+- Isa_36:1contra todas las ciudades fortificadasH1219
+- Isa_37:26para reducir las ciudades fortificadasH1219
+- Jer_1:18he puesto...como ciudad fortificadaH4013
+- Jer_4:5entrémonos en las ciudades fortificadasH4013
+- Jer_5:17tus ciudades fortificadas en que confíasH4013
+- Jer_8:14entremos en las ciudades fortificadasH4013
+- Jer_10:17la que moras en lugar fortificadoH4693
+- Jer_15:20yo te pondré...por muro fortificado deH1219
+- Jer_34:7de las ciudades fortificadas de JudáH4013
+- Jer_50:44espesura del Jordán a la...fortificadaH386
+- Jer_51:53suba...hasta el cielo, y se fortifiqueH1219
+- Eze_21:20a judá contra Jerusalén...fortificadaH1219
+- Eze_36:35ciudades que eran estan fortificadasH1219
+- Ose_8:14Judá multiplicó ciudades fortificadasH1219
+- Miq_7:12desde Asiria y...ciudades fortificadasH4693
+- Miq_7:12las ciudades fortificadas hasta el ríoH4693
+- Sof_1:16de trompeta...de ciudades fortificadasH1219

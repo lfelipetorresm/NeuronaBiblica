@@ -1,0 +1,83 @@
+---
+tipo: concordancia
+palabra: CIEGO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CIEGO
+
+- Éxo_4:11¿o quien hizo al mudo...que ve y al c?[[H5787]]
+- Lev_19:14y delante del c no pondrás tropiezoH5787
+- Lev_21:18varón c, o cojo, o mutilado, o sobradoH5787
+- Lev_22:22c, perniquebrado, mutilado, verrugosoH5788
+- Deu_15:21si fuere c, o cojo, o hubiere en élH5787
+- Deu_27:18maldito el que hiciere errar al c en elH5787
+- Deu_28:29palparás a mediodía como palpa el c enH5787
+- 2Sa_5:6pues aun los c y los cojos te echaránH5787
+- 2Sa_5:8hiera a...c aborrecidos del alma de DavidH5787
+- 2Sa_5:8se dijo: C ni cojo no entrará en la casaH5787
+- Job_29:15yo era ojos al c, y pies al cojoH5787
+- Sal_146:8Jehová abre los ojos a los c; JehováH5787
+- Isa_29:18ojos de los c verán en...la oscuridadH5787
+- Isa_35:5los ojos de los c serán abiertos, y losH5787
+- Isa_42:7para que abras los ojos de los c, paraH5787
+- Isa_42:16y guiaré a los c por camino que noH5787
+- Isa_42:18sordos, oíd, y vosotros, c, mirad paraH5787
+- Isa_42:19¿quién es c, sino mi siervo? ¿Quién esH5787
+- Isa_42:19c como mi escogido, y c como el siervoH5787
+- Isa_43:8sacad al pueblo c que tiene ojos, y aH5787
+- Isa_56:10atalayas son c, todos ellos ignorantesH5787
+- Isa_59:10palpamos la pared como c, y andamos aH5787
+- Jer_31:8y entre ellos c y cojos, la mujer queH5787
+- Lam_4:14titubearon como c en las calles, fueronH5787
+- Sof_1:17andarán como c, porque pecaron contraH5787
+- Mal_1:8ofrecéis el animal c para el sacrificioH5787
+- Mat_9:27pasando Jesús de...le siguieron dos cG5185
+- Mat_9:28llegado a la casa, vinieron a él los cG5185
+- Mat_11:5los c ven, los cojos andan, los leprososG5185
+- Mat_12:22entonces fue traído a él un...c y mudoG5185
+- Mat_12:22manera que el c y mudo veía y hablabaG5185
+- Mat_15:14dejadlos; son c guías de c; y si elG5185
+- Mat_15:14si el c guiare al c, ambos caerán en elG5185
+- Mat_15:30gente que traía...c, mudos, mancos, yG5185
+- Mat_15:31viendo a...los cojos andar, y a los c verG5185
+- Mat_20:30y dos c que estaban sentados junto alG5185
+- Mat_21:14vinieron a él...c y cojos, y los sanóG5185
+- Mat_23:16¡ ay de vosotros, guías c! que decís: SiG5185
+- Mat_23:17¡insensatos y c!...¿cuál es mayor, elG5185
+- Mat_23:19¡necios y c! porque ¿cuál es mayor, laG5185
+- Mat_23:24c, que coláis el mosquito, y tragáisG5185
+- Mat_23:26¡fariseo c! Limpia primero lo de dentroG5185
+- Mar_8:22vino...a Betsaida; y le trajeron un cG5185
+- Mar_8:23tomando la mano del c, le sacó fuera deG5185
+- Mar_10:46Bartimeo el c...sentado junto al caminoG5185
+- Mar_10:49deteniéndose...llamaron al c, diciéndoleG5185
+- Mar_10:51el c le dijo: Maestro, que recobre laG5185
+- Luc_4:18a pregonar libertad...y vista a los cG5185
+- Luc_6:39¿acaso puede un c guiar a otro c? ¿NoG5185
+- Luc_7:21sanó a...y a muchos c les dio la vistaG5185
+- Luc_7:22los c ven, los cojos andan, los leprososG5185
+- Luc_14:13llama a los pobres...los cojos y los cG5185
+- Luc_14:21y trae acá a los pobres...cojos y los cG5185
+- Luc_18:35un c estaba sentado junto al caminoG5185
+- Jua_5:3en éstos yacía una multitud...c, cojosG5185
+- Jua_9:1Jesús, vio a un hombre c de nacimientoG5185
+- Jua_9:2¿quién pecó...para que haya nacido c?[[G5185]]
+- Jua_9:6lodo...y untó con el dedo los ojos del cG5185
+- Jua_9:8los que antes le habían visto que era cG5185
+- Jua_9:13ante los fariseos al que había sido cG5185
+- Jua_9:18los judíos no creían que él había sido cG5185
+- Jua_9:19que vosotros decís que nació c? ¿CómoG5185
+- Jua_9:20que éste es nuestro hijo, y que nació cG5185
+- Jua_9:24a llamar al hombre que había sido c, yG5185
+- Jua_9:25sé, que habiendo yo sido c, ahora veoG5185
+- Jua_9:32abriese los ojos a uno que nació cG5185
+- Jua_9:40le dijeron: ¿Acaso nosotros somos...c?[[G5185]]
+- Jua_9:41si fuerais c, no tendríais pecado; masG5185
+- Jua_10:21acaso el demonio abrir...ojos de los c?[[G5185]]
+- Jua_11:37¿no podía éste, que abrió los ojos al cG5185
+- Hec_13:11serás c, y no verás el sol por algúnG5185
+- Rom_2:19confías en que eres guía de los c, luzG5185
+- 2Pe_1:9pero el que no tiene estas cosas...es cG5185
+- Rev_3:17y no sabes que tú eres un...c y desnudoG5185

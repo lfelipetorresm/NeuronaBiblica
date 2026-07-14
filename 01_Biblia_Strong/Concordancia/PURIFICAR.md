@@ -1,0 +1,72 @@
+---
+tipo: concordancia
+palabra: PURIFICAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PURIFICAR
+
+- Éxo_29:36y purificarás el altar cuando hagas
+- Lev_8:15purificó el altar; y echó la...sangreH2398
+- Lev_12:4ella permanecerá 33 días purificándoseH2893
+- Lev_12:5días estará purificándose de su sangreH2893
+- Lev_14:4que se tomen para el que se purifica dosH2891
+- Lev_14:7siete veces sobre el que se purifica deH2891
+- Lev_14:8el que se purifica lavará sus vestidosH2891
+- Lev_14:11el sacerdote que le purifica presentaráH2891
+- Lev_14:14, Lev_14:17, Lev_14:25, Lev_14:28el lóbulo de la oreja...que se purificaH2891
+- Lev_14:18sobre la cabeza del que se purificaH2891
+- Lev_14:19, Lev_14:31hará...por el que se ha de purificarH2891
+- Lev_14:52purificará la casa con la sangre de laH2398
+- Lev_15:15el sacerdote le purificará de su flujo3722
+- Lev_15:30la purificará el sacerdote delante deH3722
+- Lev_16:16así purificará el santuario, a causa deH3722
+- Núm_8:7lavarán...vestidos, y serán purificadosH2891
+- Núm_8:15purificados, y los ofrecerás en ofrendaH2891
+- Núm_8:21los levitas se purificaron, y lavaron susH2891
+- Núm_8:21hizo Aarón expiación...para purificarlosH2398
+- Núm_19:12tercer día se purificará con aquella aguaH2398
+- Núm_19:12y si...no se purificare, no será limpioH2398
+- Núm_19:13que tocare cadáver...y no se purificareH2398
+- Núm_19:19cuando lo haya purificado...lavará luegoH2398
+- Núm_19:20que fuere inmundo, y no se purificareH2398
+- Núm_31:19y os purificaréis al tercer día y alH2398
+- Núm_31:20asimismo purificaréis todo vestido, yH2398
+- Núm_31:23en las aguas de...habrá de purificarseH2398
+- 1Sa_20:26dijo...de seguro no está purificadoH2398
+- 2Sa_11:4luego ella se purificó de su inmundiciaH6942
+- 2Cr_30:17por...los que no se habían purificadoH2889
+- 2Cr_30:18no se habían purificado, y comieron laH2891
+- 2Cr_30:19no esté purificado según los ritos del
+- Esd_6:20y los levitas se habían purificado aH2891
+- Neh_12:30se purificaron los sacerdotes y losH2891
+- Neh_12:30y purificaron al pueblo, y las puertasH2891
+- Neh_13:22que se purificasen y viniesen a guardarH2891
+- Job_41:25a causa de su...hacen por purificarseH2398
+- Sal_12:6como plata en...purificada siete vecesH2212
+- Sal_51:7purifícame con hisopo, y seré limpioH2891
+- Pro_20:30malo, y el castigo purifica el corazónH8562
+- Isa_25:6banquete de vinos...vinos purificadosH2212
+- Isa_48:10te he purificado, y no como a plata; teH6884
+- Isa_52:11purificaos los que lleváis...utensiliosH1305
+- Isa_66:17y los que se purifican en los huertosH2891
+- Jer_13:27¿cuánto tardarás tú en purificarte?[[H2891]]
+- Eze_43:20sangre...así lo limpiarás y purificarásH2398
+- Eze_43:22y purificarán el altar...lo purificaronH2398
+- Eze_45:18un becerro...y purificarás el santuarioH2398
+- Dan_8:14H2.300 ...el santuario será purificadoH6663
+- Dan_12:10limpios, y emblanquecidos y purificados
+- Jua_11:55y muchos subieron...para purificarseG48
+- Hec_15:9purificando por la fe sus corazonesG2511
+- Hec_21:24purifícate con ellos, y paga...gastosG48
+- Hec_21:26habiéndose purificado con ellos, entróG48
+- Hec_24:18me hallaron purificado en el templo, noG48
+- Efe_5:26purificado en el lavamiento del aguaG2511
+- Tit_2:14y purificar para sí un pueblo propioG2511
+- Heb_9:22casi todo es purificado, según la leyG2511
+- Heb_9:23las figuras de...fuesen purificadas asíG2511
+- Heb_10:22purificados los...de mala conciencia
+- Stg_4:8limpiad...purificad vuestros corazonesG48
+- 1Pe_1:22habiendo purificado vuestras almasG48
+- 1Jn_3:3se purifica a sí mismo, así como élG48

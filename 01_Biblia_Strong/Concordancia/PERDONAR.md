@@ -1,0 +1,165 @@
+---
+tipo: concordancia
+palabra: PERDONAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PERDONAR
+
+- Gén_18:24y no perdonarás al lugar por amor aH5375
+- Gén_18:26perdonaré a todo este lugar por amor deH5375
+- Gén_50:17te ruego que perdones...p la maldad deH5375
+- Éxo_10:17ruego ahora que perdonéis mi pecadoH5375
+- Éxo_23:21no perdonará vuestra rebelión, porqueH5375
+- Éxo_32:32que perdones ahora su pecado, y si noH5375
+- Éxo_34:7que perdona la iniquidad, la rebelión yH5375
+- Éxo_34:9perdona nuestra iniquidad y...pecado, yH5545
+- Lev_4:31, Lev_4:35; Lev_5:10, Lev_5:13, Lev_5:16, Lev_5:18hará...y será perdonadoH5345
+- Lev_19:22le perdonará su pecado que ha cometidoH5345
+- Núm_14:18que perdona la iniquidad y la rebeliónH5375
+- Núm_14:19perdona...la iniquidad de este puebloH5375
+- Núm_14:19como has perdonado a este pueblo desdeH5375
+- Núm_14:20yo lo he perdonado conforme a tu dichoH5545
+- Núm_15:25y les será perdonado, porque yerro esH5545
+- Núm_15:26será perdonado a toda la congregaciónH5545
+- Núm_15:28la reconciliará, y le será perdonadoH5545
+- Núm_30:5la perdonará, por cuanto su padre se loH5545
+- Núm_30:8voto...será nulo; y Jehová la perdonaráH5545
+- Núm_30:12marido los anuló, y Jehová la perdonaráH5545
+- Deu_7:16no los perdonará tu ojo, ni servirásH2347
+- Deu_15:2perdonará a su deudor...hizo empréstitoH8059
+- Deu_15:3tu hermano tuviere tuyo, lo perdonará tuH8058
+- Deu_21:8perdona...y la sangre les será perdonadoH3722
+- Deu_25:12le cortarás...la mano; no la perdonarásH2347
+- Deu_28:50gente fiera...que no...perdonará al niño
+- Deu_29:20no querrá Jehová perdonarlo, sino queH5545
+- 1Sa_15:9Saúl y el pueblo perdonaron a AgagH2550
+- 1Sa_15:15pueblo perdonó lo mejor de las ovejasH2550
+- 1Sa_15:24Saúl...Perdona, pues, ahora mi pecadoH5375
+- 1Sa_24:10matase, pero te perdoné, porque dijeH2347
+- 1Sa_25:28yo te ruego que perdones a tu siervaH5375
+- 2Sa_21:7y perdonó el rey a Mefi-boset hijoH2550
+- 1Re_8:30cuando oren en...escucha y perdonaH5545
+- 1Re_8:34, 1Re_8:36perdonarás el pecado de tu puebloH5545
+- 1Re_8:39tú oirás en los cielos...y perdonarásH5545
+- 1Re_8:50perdonarás a tu pueblo que había pecadoH5545
+- 2Re_5:18en esto perdone Jehová a tu siervoH5545
+- 2Re_5:18tal, Jehová perdone en esto a tu siervoH5545
+- 2Re_24:4Jehová, por tanto, no quiso perdonarH5545
+- 2Cr_6:21que oigas el ruego de...y perdonesH5545
+- 2Cr_6:25, 2Cr_6:27perdonarás el pecado de tu puebloH5545
+- 2Cr_6:30tú oirás...y perdonarás, y darás a cadaH5545
+- 2Cr_6:39perdonarás a tu pueblo que pecó contraH5545
+- 2Cr_7:14oiré...y perdonaré sus pecados, y sanaréH5545
+- 2Cr_36:17perdonar joven ni doncella, anciano ni
+- Neh_9:17tú eres Dios que perdonas, clementeH5547
+- Neh_13:22acuérdate de mí, Dios mío, y perdónameH2347
+- Job_7:21por qué no...y perdonas mi iniquidad?[[H5375]]
+- Job_16:13partió mis riñones, y no perdonó; miH2550
+- Job_27:22Dios, pues, descargará...y no perdonaráH2550
+- Sal_25:11perdonarás...mi pecado, que es grandeH5545
+- Sal_25:18mi trabajo, y perdona todos mis pecadosH5375
+- Sal_32:1cuya transgresión ha sido perdonada, yH5375
+- Sal_32:5y tú perdonaste la maldad de mi pecadoH5375
+- Sal_65:3nuestras rebeliones tú las perdonarásH3722
+- Sal_78:38perdonaba la maldad, y no los destruíaH3722
+- Sal_79:9perdona nuestros pecados por amor de tuH3722
+- Sal_85:2perdonaste la iniquidad de tu puebloH5375
+- Sal_103:3es quien perdona todas tus iniquidadesH5545
+- Pro_6:34no perdonará en el día de la venganzaH2550
+- Pro_6:35no aceptará...rescate, ni querrá perdonar
+- Isa_2:9humillado; por tanto, no los perdonesH5375
+- Isa_13:18niños...ni su ojo perdonará a los hijosH2357
+- Isa_22:14este pecado no os será perdonado hastaH3722
+- Isa_27:9será perdonada la iniquidad de Jacob, yH3722
+- Isa_33:24al pueblo...será perdonada la iniquidadH5375
+- Isa_40:2que su pecado es perdonado; que doble haH7521
+- Isa_55:7al Dios...el cual será amplio en perdonarH5547
+- Jer_5:1que busque verdad; y yo la perdonaréH5545
+- Jer_5:7¿cómo te he de perdonar por esto? SusH5545
+- Jer_13:14no perdonaré, ni tendré...misericordiaH2550
+- Jer_18:23no perdones su maldad, ni borres suH3722
+- Jer_21:7no los perdonará, ni tendrá compasiónH2347
+- Jer_31:34perdonaré la maldad de ellos, y no meH5545
+- Jer_33:8y perdonaré todos sus pecados con queH5545
+- Jer_36:3y yo perdonaré su maldad y su pecadoH5545
+- Jer_50:20perdonaré a los que yo hubiere dejadoH5545
+- Jer_51:3no perdonéis a sus jóvenes, destruidH2550
+- Lam_2:2destruyó el Señor, y no perdonóH2550
+- Lam_2:17destruyó, y no perdonó; y ha hecho queH2550
+- Lam_2:21en el día de...degollaste, no perdonasteH2550
+- Lam_3:42y fuimos desleales; tú no perdonasteH5545
+- Lam_3:43perseguiste; mataste, y no perdonasteH2550
+- Eze_5:11; Eze_7:4, Eze_7:9; Eze_8:18mi ojo no perdonará, ni tendréH2347
+- Eze_9:5no perdone vuestro ojo, ni...misericordiaH2347
+- Eze_9:10mi ojo no perdonará, ni...misericordiaH2347
+- Eze_16:63cuando yo perdone todo lo que hicisteH3722
+- Eze_20:17los perdonó mi ojo, pues no los matéH2347
+- Dan_9:9de Jehová nuestro Dios es...el perdonarH5547
+- Dan_9:19oye, Señor; oh Señor, perdona; prestaH5545
+- Joe_2:17perdona, oh Jehová, a tu pueblo, y noH2347
+- Joe_2:18Jehová, solícito...perdonará a su puebloH2550
+- Amó_7:2yo dije: Señor Jehová, perdona ahoraH5545
+- Miq_7:18Dios como tú, que perdona la maldadH5375
+- Mal_3:17perdonaré, como...perdona a su hijoH2550
+- Mat_6:12perdónanos...como...perdonamosG863
+- Mat_6:14si perdonáis a...os perdonará también aG863
+- Mat_6:15no perdonáis a los hombres sus ofensasG863
+- Mat_6:15tampoco vuestro Padre os perdonaráG863
+- Mat_9:2ten ánimo...tus pecados te son perdonadosG863
+- Mat_9:5decir: Los pecados te son perdonados, oG863
+- Mat_9:6tiene potestad en...para perdonar pecadosG863
+- Mat_12:31pecado y...será perdonado a los hombresG863
+- Mat_12:31blasfemia contra...no les será perdonadoG863
+- Mat_12:32dijere alguna palabra...será perdonadoG863
+- Mat_12:32contra el Espíritu...no...será perdonadoG863
+- Mat_18:21¿cuántas veces perdonaré a mi hermanoG863
+- Mat_18:27señor...le soltó y le perdonó la deudaG863
+- Mat_18:32malvado, toda aquella deuda te perdonéG863
+- Mat_18:35no perdonáis de todo corazón cada unoG863
+- Mar_2:5hijo, tus pecados te son perdonadosG863
+- Mar_2:7¿quién puede perdonar pecados, sino sóloG863
+- Mar_2:9tus pecados te son perdonados, o decirleG863
+- Mar_2:10tiene potestad en...para perdonar pecadosG863
+- Mar_3:28que todos los pecados serán perdonadosG863
+- Mar_4:12no se conviertan, y les sean perdonadosG863
+- Mar_11:25perdonad, si tenéis algo contra algunoG863
+- Mar_11:25vuestro Padre que está en...os perdoneG863
+- Mar_11:26no perdonáis, tampoco vuestro Padre queG863
+- Mar_11:26tampoco..os perdonará vuestras ofensasG863
+- Luc_5:20hombre, tus pecados te son perdonadosG863
+- Luc_5:21¿quién puede perdonar pecados sino sóloG863
+- Luc_5:23tus pecados te son perdonados, o decirG863
+- Luc_5:24tiene potestad en...para perdonar pecadosG863
+- Luc_6:37juzguéis...perdonad, y seréis perdonadosG630
+- Luc_7:42no teniendo...qué pagar, perdonó a ambosG5483
+- Luc_7:43pienso que aquél a quien perdonó másG5483
+- Luc_7:47que sus muchos pecados le son perdonadosG863
+- Luc_7:47a quien se le perdona poco, poco amaG863
+- Luc_7:48le dijo: Tus pecados te son perdonadosG863
+- Luc_7:49¿quién es éste, que...perdona pecados?[[G863]]
+- Luc_11:4perdónanos..nosotros perdonamosG863
+- Luc_12:10contra el Hijo del...le será perdonadoG863
+- Luc_12:10que blasfemare...no le será perdonadoG863
+- Luc_17:3pecare...si se arrepintiere, perdónaleG863
+- Luc_17:4siete veces...Me arrepiento; perdónaleG863
+- Luc_23:34Padre, perdónalos, porque no saben loG863
+- Hec_8:22sea perdonado el pensamiento de tuG863
+- Hec_20:29rapaces, que no perdonarán al rebañoG5339
+- Rom_4:7aquellos cuyas iniquidades...perdonadasG863
+- Rom_11:21porque si Dios no perdonó a las ramasG5339
+- Rom_11:21naturales, a ti tampoco te perdonaráG5339
+- 2Co_2:7vosotros más bien debéis perdonarteG5483
+- 2Co_2:10y al que vosotros perdonáis, yo tambiénG5483
+- 2Co_2:10yo lo que he perdonado, si algo he p, porG5483
+- 2Co_12:13sido carga? ¡Perdonadme este agravio![[G5483]]
+- Efe_4:32perdonándoos...como Dios...os perdonóG5483
+- Col_2:13vida...perdonándoos todos los pecadosG5483
+- Col_3:13y perdonándoos unos a otros si algunoG5483
+- Col_3:13de la manera que Cristo os perdonó, asíG5483
+- Stg_5:15hubiere cometido...le serán perdonadosG863
+- 2Pe_2:4si Dios no perdonó a los ángeles queG5339
+- 2Pe_2:5y si no perdonó al mundo antiguo, sinoG5339
+- 1Jn_1:9fiel y justo para perdonar...pecadosG863
+- 1Jn_2:12pecados os han sido perdonados por suG863

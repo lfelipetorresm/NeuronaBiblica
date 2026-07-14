@@ -1,0 +1,98 @@
+---
+tipo: concordancia
+palabra: CALLAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CALLAR
+
+- Gén_24:21callando, para saber si Jehová habíaH2790
+- Gén_34:5calló Jacob hasta que ellos viniesenH2790
+- Lev_10:3esto es lo que habló...Y Aarón callóH1826
+- Núm_13:30Caleb hizo callar al pueblo delanteH2013
+- Núm_30:4su padre oyere su voto...callare a elloH2790
+- Núm_30:7oyere, y cuando lo oyere callare a elloH2790
+- Núm_30:11si su marido oyó, y calló a ello y no leH2790
+- Núm_30:14su marido callare a ello de día en díaH2790
+- Núm_30:14los confirmó, por cuanto calló a elloH2790
+- Jue_3:19dijo: Calla. Y salieron de delante deH2013
+- Jue_16:2estuvieron callados toda aquella nocheH2790
+- Jue_18:19calla, pon la mano sobre tu boca, yH2790
+- 1Sa_25:9dijeron...estas palabras...y callaronH5117
+- 2Sa_13:20pues calla ahora, hermana mía; tuH6258
+- 2Sa_19:10¿por qué...estáis callados respecto deH2790
+- 2Re_2:3, 2Re_2:5quitará hoy...Sí yo lo sé; calladH2814
+- 2Re_7:9hoy es día de buena nueva, y...callamosH2814
+- 2Re_18:36el puebio calló, y no le respondióH2790
+- Neh_5:8callaron...no tuvieron qué responderH2790
+- Neh_8:11los levitas, pues, hacían callar a todoH2814
+- Neh_8:11callad, porque es día santo, y no osH2013
+- Est_4:14porque si callas...liberación vendráH2790
+- Est_7:4si para siervos y siervas...me callaríaH2790
+- Job_6:24enseñadme...callaré; hacedme entenderH2790
+- Job_11:3¿harán tus falacias callar a...hombres?[[H2790]]
+- Job_13:5ojalá callarais por completo, porqueH2790
+- Job_13:19porque si ahora yo callara, moriría
+- Job_29:21me oían, y esperaban, y callaban a mi
+- Job_31:34temor...callé, y no salí de mi puerta
+- Job_32:16más bien callaron y no respondieronH5975
+- Job_33:31escucha...y óyeme; calla, y yo hablaréH2790
+- Job_33:33óyeme...calla, y te enseñaré sabiduríaH2790
+- Sal_4:4meditad en vuestro corazón...y calladH1826
+- Sal_8:2hacer callar al enemigo y al vengativoH7673
+- Sal_30:12tanto, a ti cantaré...no estaré calladoH1826
+- Sal_32:3mientras callé, se envejecieron misH2790
+- Sal_35:22no calles; Señor, no te alejes de míH2790
+- Sal_39:2me callé aun respecto de lo buenoH1747
+- Sal_39:12no calles ante mis lágrimas; porqueH2790
+- Sal_50:3vendrá nuestro Dios, y no callará
+- Sal_50:21estas cosas hiciste, y yo he calladoH2790
+- Sal_83:1no calle, oh Dios, ni te estés quietoH2790
+- Sal_109:1oh Dios de mi alabanza, no callesH2790
+- Pro_11:12el que...mas el hombre prudente callaH2790
+- Pro_17:28el necio, cuando calla, es contado porH2790
+- Ecl_3:7tiempo de callar, y tiempo de hablar
+- Isa_23:2callad, moradores de la costa...SidónH1826
+- Isa_36:21ellos callaron, y no le respondieronH2790
+- Isa_42:14desde el siglo he callado, he guardadoH2790
+- Isa_47:5siéntate, calla, y entra en tinieblasH1748
+- Isa_62:1por amor de Sion no callaré, y por amorH2814
+- Isa_62:6día y toda la noche no callarán jamásH2814
+- Isa_64:12¿callarás, y...afligirás sobremanera?[[H2814]]
+- Isa_65:6no callaré, sino que recompensaré, yH2814
+- Jer_4:19callaré; porque sonido de trompetaH2790
+- Lam_2:10callaron los ancianos de la hija deH1826
+- Lam_3:28que se siente solo y calle, porque esH1826
+- Eze_33:22mi boca, y ya no más estuve calladoH481
+- Amó_5:13prudente en tal tiempo calla, porqueH1826
+- Amó_6:10calla, porque no podemos mencionar elH2013
+- Hab_1:13callas cuando destruye el impío alH2790
+- Hab_2:20calle delante de él toda la tierraH2013
+- Sof_1:7calla en la presencia de Jehová elH2013
+- Sof_3:17callará de amor, se regocijará sobreH2790
+- Zac_2:13calle toda carne delante de JehováH2013
+- Mat_20:31la gente les reprendió...que callasenG4623
+- Mat_22:34que había hecho callar a los saduceosG5392
+- Mat_26:63mas Jesús callaba. Entonces el sumoG4623
+- Mar_1:25Jesús...diciendo: ¡Cállate, y sal de él![[G5392]]
+- Mar_3:4les dijo: ¿Es lícito...Pero ellos callabanG4623
+- Mar_4:39dijo al mar: Calla, enmudece. Y cesó elG5392
+- Mar_9:34mas ellos callaron; porque en el caminoG4623
+- Mar_10:48muchos le reprendían para que callaseG4623
+- Mar_14:61mas él callaba, y nada respondíaG4623
+- Luc_4:35Jesús...diciendo: Cállate, y sal de élG5392
+- Luc_9:36y ellos callaron, y por aquellos días
+- Luc_14:4mas ellos callaron. Y él, tomándole, leG2270
+- Luc_18:39le reprendían para que callase; peroG4623
+- Luc_19:40éstos callaran, las piedras clamaríanG4623
+- Luc_20:26maravillados de...respuesta, callaronG1949
+- Hec_11:18entonces, oídas...cosas, callaron, yG2270
+- Hec_12:17que callasen, les contó cómo el SeñorG4601
+- Hec_15:12la multitud calló, y oyeron a Bernabé
+- Hec_15:13cuando ellos callaron, Jacobo respondió
+- Hec_18:9no temas, sino habla, y no callesG4623
+- 1Co_14:28si no hay intérprete, calle en laG4601
+- 1Co_14:30le fuere revelado a...calle el primeroG4601
+- 1Co_14:34mujeres callen en las congregacionesG4601
+- 1Pe_2:15callar la ignorancia de los hombresG5392

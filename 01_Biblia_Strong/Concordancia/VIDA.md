@@ -1,0 +1,538 @@
+---
+tipo: concordancia
+palabra: VIDA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VIDA
+
+- Gén_1:30y a toda bestia de la...en que hay vH2416
+- Gén_2:7Jehová...sopló en su nariz aliento de vH2416
+- Gén_2:9el árbol de v en medio del huerto, y elH2416
+- Gén_3:14y polvo comerás todos los días de tu vH2416
+- Gén_3:17con dolor comerás de...los días de tu vH2416
+- Gén_3:22tome...del árbol de la v, y coma, y vivaH2416
+- Gén_3:24para guardar el camino del árbol de la vH2416
+- Gén_6:17carne en que haya espíritu de v debajoH2416
+- Gén_6:19en el arca, para que tengan v contigoH2421
+- Gén_6:20dos...entrarán contigo, para que tengan vH2421
+- Gén_7:11el año seiscientos de la v de Noé, en elH2416
+- Gén_7:15toda carne en que había espíritu de vH2416
+- Gén_7:22tenía aliento de espíritu de v...murióH2416
+- Gén_9:4carne con su v...su sangre, no comeréisH5315
+- Gén_9:5porque...demandaré la sangre de vuestras vH5315
+- Gén_9:5del varón su...demandaré la v del hombreH5315
+- Gén_12:12me matarán...y a ti te reservarán la vH2421
+- Gén_18:10y según el tiempo de la v, he aquí queH2416
+- Gén_18:14y según el tiempo de la v, Sara tendráH2416
+- Gén_19:17escapa por tu v; no mires tras ti, niH5315
+- Gén_19:19que habéis hecho conmigo dándome la vH5315
+- Gén_19:20dejadme escapar ahora...y salvaré mi vH2421
+- Gén_23:1fue la v de Sara 127 años...la v de SaraH2416
+- Gén_25:17fueron los años de la v de Ismael 137H2416
+- Gén_27:46fastidio tengo de mi v...qué quiero la v?[[H2416]]
+- Gén_38:7Er...fue malo ante...le quitó Jehová la vH4191
+- Gén_38:10desagradó...a él también le quitó la vH4191
+- Gén_44:30si...como su v está ligada a la v de élH5315
+- Gén_45:5porque para preservación de v me envió
+- Gén_45:7daros v por medio de gran liberaciónH2421
+- Gén_47:8¿cuántos son los días...los años de tu v?
+- Gén_47:9pocos y malos han sido...los años de mi vH2416
+- Gén_47:9y no han llegado a...los años de la v deH2416
+- Gén_47:25ellos respondieron: La v nos has dadoH2421
+- Gén_47:28y fueron los días de Jacob, los años de su vidaH3117
+- Gén_50:20Dios...mantener en v a mucho puebloH2421
+- Éxo_1:14amargaron su v con dura servidumbreH2416
+- Éxo_1:17sino que preservaron la v a los niños2421
+- Éxo_1:18que habéis preservado la v a los niños?2421
+- Éxo_1:22nazca, y a toda hija preservad la v2421
+- Éxo_6:16los años de la v de Leví fueron 137 añosH2416
+- Éxo_6:18los años de la v de Coat fueron 133 añosH2416
+- Éxo_6:20años de la v de Amram fueron 137 añosH2416
+- Éxo_21:23mas si hubiere muerte...pagarás v por vH5315
+- Lev_17:11la v de la carne en la sangre estáH5315
+- Lev_17:14porque la v de toda carne es su sangreH5315
+- Lev_18:18descubriendo su desnudez delante de ella en su vH2416
+- Lev_19:16no atentarás contra la v de tu prójimo
+- Núm_14:38Josué hijo...y Caleb...quedaron con vH2421
+- Núm_31:15¿por qué habéis dejado con v...mujeres?[[H2421]]
+- Núm_31:18a todas las niñas...las dejaréis con vH2421
+- Núm_35:31no tomaréis precio por la v...homicidaH5315
+- Deu_4:9ni se aparten...todos los días de tu vH2416
+- Deu_4:42que huyendo a una de estas...salvase su vH2425
+- Deu_6:2sus estatutos y...todos los días de tu vH2416
+- Deu_6:24que nos conserve la v, como hasta hoyH2421
+- Deu_12:23la sangre es la v, y no comerás la vH5315
+- Deu_16:3que todos los días de tu v te acuerdes2416
+- Deu_17:19y leerá en él todos los días de su vH2416
+- Deu_19:21y no le compadecerás; v por v, ojo porH5315
+- Deu_20:16de las...ninguna persona dejarás con vH2421
+- Deu_22:26se levanta contra su...y le quita la v
+- Deu_24:6sería tomar en prenda la v del hombreH5315
+- Deu_24:15pues es pobre, y con él sustenta su v
+- Deu_27:25soborno para quitar la v al inocente
+- Deu_28:66tu v como algo que pende delante de tiH2416
+- Deu_28:66pende...y no tendrás seguridad de tu vH2416
+- Deu_30:15he puesto delante de ti hoy la v y elH2416
+- Deu_30:19escoge, pues, la v para que vivas túH2416
+- Deu_30:20él es v para ti, y prolongación de tusH2416
+- Deu_32:47porque no es cosa vana; es vuestra vH2416
+- Jos_1:5hacer frente en todos los días de tu vH2416
+- Jos_2:13salvaréis la v a mi padre y a mi padreH2421
+- Jos_2:13y que libraréis nuestras v de la muerteH5315
+- Jos_2:14nuestra v responderá por la vuestra, siH5315
+- Jos_4:14y le temieron...todos los días de su vH2416
+- Jos_6:25Josué salvó la v de Rahab la ramera, yH2421
+- Jos_9:15Josué hizo paz con...concediéndoles la vH2421
+- Jos_9:21concediéndoles la v, según les habíanH2421
+- Jos_9:24temimos...nuestras v a causa de vosotrosH5315
+- Jos_10:28, Jos_10:30, Jos_10:32, Jos_10:35, Jos_10:37(2)todo lo que en ella tenía vH5315
+- Jos_10:39destruyeron todo lo que allí...tenía vH5315
+- Jos_10:40lo que tenía v lo mató, como JehováH5397
+- Jos_11:11mataron a...todo cuanto en ella tenía vH5315
+- Jos_11:14destruirlos, sin dejar alguno con vH5397
+- Jue_5:18de Zabulón expuso su v a la muerteH5315
+- Jue_8:19que si les hubierais conservado la v, yoH2416
+- Jue_9:17y expuso su v al peligro para librarosH5315
+- Jue_12:3arriesgué mi v, y pasé contra...de AmónH5315
+- Jue_16:30que los que había matado durante su vH2416
+- Jue_18:25y pierdas también tu v y la v de losH5315
+- 1Sa_1:11dedicaré a Jehová...los días de su vH2416
+- 1Sa_2:6Jehová mata, y él da v...hace descender alH2416
+- 1Sa_15:35nunca...vio Samuel a Saúl en toda su vH2416
+- 1Sa_18:18qué es mi v...que yo sea yerno del rey?[[H2416]]
+- 1Sa_19:5pues él tomó su v en su mano, y mató alH5315
+- 1Sa_19:11si no salvas tu v esta noche, mañana
+- 1Sa_20:1cuál mi pecado...para que busque mi v?[[H5315]]
+- 1Sa_22:23quien buscare mi v, buscará...la tuyaH5315
+- 1Sa_23:15que Saúl había salido en busca de su vH5315
+- 1Sa_24:11sin embargo, tú andas a caza de mi vH5315
+- 1Sa_25:22suyo no he de dejar con v ni un varón
+- 1Sa_25:29atentar contra tu v...la v de mi señorH2416
+- 1Sa_25:29él arrojará la v de tus enemigos comoH2416
+- 1Sa_25:34no le hubiera quedado con v a Nabal ni
+- 1Sa_26:21porque mi v ha sido estimada preciosaH5315
+- 1Sa_26:24tu v ha sido estimada...así sea mi v aH5315
+- 1Sa_27:9David...no dejaba con v hombre ni mujerH2421
+- 1Sa_27:11ni hombre ni mujer dejaba David con vH2421
+- 1Sa_28:2yo te constituiré guarda de...toda mi vH2421
+- 1Sa_28:9¿por qué, pues, pones tropiezo a mi vH5315
+- 1Sa_28:21he aquí...he arriesgado mi v, y he oídoH5315
+- 2Sa_1:9y me mates...mi v está aun toda en míH5315
+- 2Sa_1:23Saúl y...inseparables en su v, tampoco enH2416
+- 2Sa_8:2un cordel entero para preservarles la vH2421
+- 2Sa_11:11por v tuya, y por v de tu alma, que yoH2416
+- 2Sa_14:7para que le hagamos morir por la v deH5317
+- 2Sa_14:14ni Dios quita la v, sino que provee
+- 2Sa_15:21o para muerte o para v, donde mi señorH2416
+- 2Sa_16:11mi hijo que...acecha mi v; ¿cuánto másH5315
+- 2Sa_17:3tú buscas solamente la v de un hombre
+- 2Sa_18:13habría yo hecho traición contra mi vH5315
+- 2Sa_18:18y en v, Absalón había tomado y erigidoH2416
+- 2Sa_19:5han librado tu v, y la v de tus hijos yH5315
+- 2Sa_19:5librado...v de tus mujeres, y la v de tusH5315
+- 2Sa_23:17varones que fueron con peligro de su v?[[H5315]]
+- 1Re_1:12mi consejo, para que conserves tu vH5315
+- 1Re_2:23que contra su v ha hablado Adonías estasH5315
+- 1Re_3:11ni pediste la v de tus enemigos, sinoH5315
+- 1Re_11:34lo retendré por rey...los días de su vH2416
+- 1Re_15:5en todos los días de su v, salvo en loH2416
+- 1Re_15:6hubo guerra entre...todos los días de su vH2416
+- 1Re_15:14corazón de Asa fue perfecto...toda su vH3117
+- 1Re_16:34a precio de la v de Abiram...v de Segub
+- 1Re_18:5que conservemos la v a los caballos y aH2421
+- 1Re_19:3se levantó y se fue para salvar su v, yH5315
+- 1Re_19:4quítame la v, pues no soy yo mejor queH5315
+- 1Re_19:10, 1Re_19:14sólo...y me buscan para quitarme la vH5315
+- 1Re_20:31rey...a ver si por ventura te salva la vH5315
+- 1Re_20:39llegare a huir, tu v será por la suyaH5315
+- 1Re_20:42tu v será por la suya, y tu pueblo porH5315
+- 2Re_1:13sea de valor...mi v, y la v de estosH5315
+- 2Re_1:14sea estimada...mi v delante de tus ojosH5315
+- 2Re_5:7¿soy yo Dios, que mate y dé v, para queH2421
+- 2Re_7:4si ellos nos dieren la v, viviremos; y siH2421
+- 2Re_7:7y así se...habían huido para salvar sus vH5315
+- 2Re_10:24dejare vivo a...v será por la del otroH2421
+- 2Re_25:29y comió...delante de él...días de su vH2416
+- 2Re_25:30fue dada su comida...los días de su vH2416
+- 1Cr_11:19¿había yo de beber...la v de estosH5315
+- 1Cr_11:19que con peligro de sus v la han traído?[[H5315]]
+- 2Cr_1:11y no pediste...ni la v de los que teH5315
+- Esd_6:10oren por la v del rey y por sus hijosH2417
+- Esd_9:8y darnos un...de v en nuestra servidumbreH4241
+- Esd_9:9se nos diese v para levantar la casa deH4241
+- Neh_6:11entraría al templo...salvarse la v?[[H2425]]
+- Est_7:3séame dada mi v por mi petición, y miH5315
+- Est_7:7para suplicarle a la reina Ester por su vH5315
+- Est_8:11que se...estuviesen a la defensa de su vH5315
+- Est_9:16también...se pusieron en defensa de su vH5315
+- Job_2:4lo que el hombre tiene dará por su vH5315
+- Job_2:6aquí, él está en tu mano; mas guarda su vH2416
+- Job_3:20se da luz...y v a los de ánimo amargadoH2416
+- Job_3:23¿por qué se da v al hombre que no sabe
+- Job_7:1¿no es...brega la v del hombre sobre laH6635
+- Job_7:7acuérdate que mi v es un soplo, y que misH2416
+- Job_7:16abomino de mi v; no he de vivir...siempreH2416
+- Job_9:21no haría caso de mí...despreciaría mi vH2416
+- Job_10:1está mi alma hastiada de mi v; daré libreH2416
+- Job_10:12v y misericordia me concediste, y tuH2416
+- Job_11:17la v te será más clara que el mediodíaH2465
+- Job_13:14mis dientes, y tomaré mi v en mi mano?[[H5315]]
+- Job_24:22levante, ninguno está seguro de la vH2416
+- Job_27:8¿cuál es...cuando Dios le quitare la v?[[H5315]]
+- Job_33:4hizo, y el soplo del Omnipotente me dio vH2421
+- Job_33:18su alma...su v de que perezca a espadaH2416
+- Job_33:20que le hace que su v aborrezca el panH2416
+- Job_33:22alma...su v a los que causan la muerteH2416
+- Job_33:28redimirá su alma...su v, se verá en luzH2416
+- Job_36:6no otorgará v al impío, pero a los...daráH2421
+- Job_36:14fallecerá...y su v entre los sodomitasH2416
+- Sal_7:5el enemigo...huelle en tierra mi v, yH2416
+- Sal_16:11me mostrarás la senda de la v; en tuH2416
+- Sal_17:9de la vista de...enemigos que buscan mi vH2416
+- Sal_17:14cuya porción la tienen en esta v, y cuyoH2416
+- Sal_21:4v te demandó, y se la diste; largura deH2416
+- Sal_22:20libra...alma, del poder del perro mi vH5315
+- Sal_22:29que no puede conservar la v a su propiaH5315
+- Sal_23:6me seguirán todos los días de mi v, y enH2416
+- Sal_26:9alma, ni mi v con hombres sanguinariosH2416
+- Sal_27:1temeré? Jehová es la fortaleza de mi vH2416
+- Sal_27:4en la casa de Jehová...los días de mi vH2416
+- Sal_30:3me diste v para que no descendiese aH2416
+- Sal_30:5será su ira, pero su favor dura toda la vH2416
+- Sal_31:10porque mi v se va gastando de dolor, yH2416
+- Sal_31:13consultan juntos...idean quitarme la vH5315
+- Sal_33:19y para darles v en tiempo de hambreH5315
+- Sal_34:12¿quién es el hombre que desea v, queH2416
+- Sal_35:4sean avergonzados...los que buscan mi vH5315
+- Sal_35:17rescata mi alma de...mi v de los leonesH5315
+- Sal_36:9contigo está el manantial de la v; en tuH2416
+- Sal_38:12los que buscan mi v arman lazos, y losH5315
+- Sal_40:14confundidos...los que buscan mi v paraH5315
+- Sal_41:2Jehová lo guardará, y le dará v; seráH5315
+- Sal_42:8conmigo, y mi oración al Dios de mi vH5315
+- Sal_49:8la redención de su v es de gran precioH5315
+- Sal_49:15Dios redimirá mi v del poder del SeolH5315
+- Sal_54:3hombres violentos buscan mi v; no hanH5315
+- Sal_54:4Señor está con los que sostienen mi vH5315
+- Sal_57:4v está entre leones; estoy echado entreH5315
+- Sal_59:3están acechando mi v; se han juntadoH5315
+- Sal_63:3mejor es tu misericordia que la v; misH2416
+- Sal_63:4así te bendeciré en mi v; en tu nombreH2416
+- Sal_64:1queja; guarda mi v del temor del enemigoH2416
+- Sal_66:9es quien preservó la v a nuestra almaH5315
+- Sal_70:2sean...confundidos los que buscan mi vH5315
+- Sal_71:20volverás a darme v...me levantarás de los
+- Sal_72:13tendrá...y salvará la v de los pobresH5315
+- Sal_78:50no eximió la v de ellos de la muerteH2416
+- Sal_78:50sino que entregó su v a la mortandadH5315
+- Sal_80:18v nos darás, e invocaremos tu nombre
+- Sal_85:6¿no volverás a darnos v, para que tuH2421
+- Sal_86:14y conspiración de...ha buscado mi v, yH5315
+- Sal_88:3está hastiada...y mi v cercana al SeolH2416
+- Sal_89:48¿librará su v del poder del Seol?[[H2421]]
+- Sal_91:16lo saciaré de larga v, y le mostrareH3117
+- Sal_94:6matan, y a los huérfanos quitan la v
+- Sal_94:21se juntan contra la v del justo, yH5315
+- Sal_103:4el que rescata del hoyo tu v, el queH2416
+- Sal_104:15el pan que sustenta la v del hombre
+- Sal_104:33a Jehová cantaré en mi v; a mi DiosH2416
+- Sal_119:109mi v está de continuo en peligro, masH5315
+- Sal_128:5veas el bien de...todos los días de tu vH2416
+- Sal_133:3allí envía Jehová bendición, y v eternaH2416
+- Sal_142:4no...refugio, ni hay quien cuide de mi vH5315
+- Sal_143:3el enemigo...ha postrado en tierra mi vH2416
+- Sal_146:2alabaré a Jehová en mi v; cantaré...DiosH2416
+- Pro_1:19la cual quita la v de sus poseedoresH5315
+- Pro_2:19ni seguirán otra vez...senderos de la vH2416
+- Pro_3:2de días y años de v y paz te aumentaránH2416
+- Pro_3:18árbol de v a los que de ella echan manoH2416
+- Pro_3:22serán v a tu alma, y gracia a tu cuelloH2416
+- Pro_4:10hijo mío...se te multiplicarán años de vH2416
+- Pro_4:13retén el consejo...porque eso es tu vH2416
+- Pro_4:22son v a los que las hallan, y medicinaH2416
+- Pro_4:23guarda tu corazón; porque de él...la vH2416
+- Pro_5:6no los...si no considerares el camino de vH2416
+- Pro_6:23y camino de v las reprensiones que teH2416
+- Pro_7:23no sabe que es contra su v hasta queH5315
+- Pro_8:35el que me halle, hallará la v, y...favorH2416
+- Pro_9:11aumentarán...y años de v se te añadiránH2416
+- Pro_10:11manantial de v es la boca del justoH2416
+- Pro_10:16obra del justo es para v; mas el frutoH2416
+- Pro_11:19como la justicia conduce a la v, así elH2416
+- Pro_11:30el fruto del justo es árbol de v; y elH2416
+- Pro_12:10el justo cuida de la v de su bestia; masH5315
+- Pro_12:28en el camino de la justicia está la vH2416
+- Pro_13:8el rescate de la v del hombre está enH5315
+- Pro_13:12pero árbol de v es el deseo cumplidoH2416
+- Pro_13:14la ley del sabio es manantial de v paraH2416
+- Pro_14:27el temor de Jehová es manantial de vH2416
+- Pro_14:30el corazón apacible es v de la carneH2416
+- Pro_15:4la lengua apacible es árbol de v; masH2416
+- Pro_15:24el camino de la v es hacia arriba alH2416
+- Pro_15:31que escucha las amonestaciones de la vH2416
+- Pro_16:15alegría del rostro del rey está la vH2416
+- Pro_16:17su v guarda el que guarda su caminoH5315
+- Pro_16:22manantial de v es el entendimiento alH2416
+- Pro_18:21la muerte y la v están en poder de laH2416
+- Pro_19:23el temor de Jehová es para v, y con élH2416
+- Pro_21:21hallará la v, la justicia y la honraH2416
+- Pro_22:4riqueza, honra y v son la remuneraciónH2416
+- Pro_31:12da ella bien...todos los días de su vH2416
+- Ecl_2:3en el cual se ocuparan...días de su vH2416
+- Ecl_2:17aborrecí, por tanto, la v, porque la obraH2416
+- Ecl_3:12cosa mejor que...y hacer bien en su vH2416
+- Ecl_5:17todos los días de su v comerá en tinieblasH3117
+- Ecl_5:18todos los días de su v que Dios le haH2416
+- Ecl_5:20porque no se acordará...los días de su vH2416
+- Ecl_6:12sabe cuál es el bien del hombre en la vH2416
+- Ecl_6:12todos los días de la v de su vanidad, losH2416
+- Ecl_7:12sabiduría excede...da v a sus poseedoresH2416
+- Ecl_8:15que esto le quede de...los días de su vH2416
+- Ecl_9:3de insensatez en su corazón durante su vH2416
+- Ecl_9:9goza de la v con la mujer que amas, todosH2416
+- Ecl_9:9todos los días de la v de tu vanidad queH2416
+- Ecl_9:9porque esta es tu parte en la v, y en tuH2416
+- Isa_38:12como tejedor corté mi v; me cortaráH2416
+- Isa_38:16en todas ellas está la v de mi espírituH2416
+- Isa_38:17mas a ti agradó librar mi v del hoyoH2421
+- Isa_38:20cánticos...todos los días de nuestra vH2416
+- Isa_43:4daré, pues, hombres...naciones por tu vH5315
+- Isa_47:14no salvarán sus v del poder de la llama
+- Isa_53:10Puesto su v en expiación por el pecadoH5315
+- Isa_53:12cuanto derramó su v hasta la muerte, yH5315
+- Jer_4:30te menospreciarán tus...buscarán tu vH5315
+- Jer_8:3escogerá la muerte antes que la v todo elH2416
+- Jer_11:21los varones de Anatot que buscan tu vH5315
+- Jer_17:21guardaos por...v de llevar carga en el
+- Jer_19:7y en las manos de los que buscan sus vH5315
+- Jer_19:9los estrecharán...los que buscan sus vH5315
+- Jer_21:7en mano de...y de los que buscan sus vH5315
+- Jer_21:8pongo delante de vosotros camino de vH2416
+- Jer_21:9el que...vivirá, y su v le será por despojoH5315
+- Jer_22:25en mano de los que buscan tu v, y enH5315
+- Jer_22:30nada próspero...en todos los días de su vH3117
+- Jer_34:20-21y en mano de los que buscan su vH5315
+- Jer_38:2vivirá...su v le será por botín...viviráH5315
+- Jer_38:16mano de estos varones que buscan tu vH5315
+- Jer_39:18te libraré, y...tu v te será por botínH5315
+- Jer_44:30los que buscan su v...que buscaba su vH5315
+- Jer_45:5a ti te daré tu v por botín en todos losH5315
+- Jer_46:26en mano de los que buscan su v, en manoH5315
+- Jer_48:6salvad vuestra v...y sed como retama enH5315
+- Jer_49:37Elam se intimide delante...buscan su vH5315
+- Jer_51:6huid...y librad cada uno su v, para queH5315
+- Jer_51:45y salvad cada uno su v del ardor de laH5315
+- Jer_52:33comía...mesa del rey...los días de su vH2416
+- Jer_52:34durante todos los días de su v, hastaH2416
+- Lam_1:11dieron...cosas...para entretener la vH5315
+- Lam_1:19buscando comida...con que entretener su vH5315
+- Lam_2:19a él implorando la v de tus pequeñitosH5315
+- Lam_3:53mi v en cisterna, pusieron piedra sobreH2416
+- Lam_3:58abogaste...la causa de...redimiste mi vH5315
+- Lam_4:20el aliento de nuestras v, el ungido deH2421
+- Lam_4:20dicho: A su sombra tendremos v entre lasH2421
+- Lam_5:9con peligro de nuestras v traíamos...panH5315
+- Eze_7:13iniquidad ninguno podrá amparar su vH2416
+- Eze_13:18para mantener así vuestra propia v?[[H2421]]
+- Eze_13:19dando v a...personas que no deben vivirH2421
+- Eze_14:14librarían únicamente sus propias vH5315
+- Eze_14:20ellos...librarían solamente sus propias vH5315
+- Eze_16:5arrojada sobre...con menosprecio de tu vH5315
+- Eze_17:17edifiquen torres para cortar muchas vH5315
+- Eze_33:5mas el que se apercibiere librará su vH5315
+- Eze_33:9él morirá por su...pero tú libraste tu vH5315
+- Eze_33:15caminare en los estatutos de la v, noH2416
+- Dan_5:19y a quien quería daba v; engrandecíaH2418
+- Dan_5:23el Dios en cuya mano está tu v, y cuyosH5396
+- Dan_7:12había sido prolongada la v hasta ciertoH2417
+- Dan_9:26y después de...se quitará la v al Mesías
+- Dan_12:2serán despertados, unos para v eternaH2416
+- Ose_6:2nos dará v después de dos días; en elH2421
+- Amó_2:14el ligero...ni el valiente librará su vH5315
+- Amó_2:15ni el que cabalga en caballo salvará su vH5315
+- Jon_1:14perezcamos nosotros por la v de esteH5315
+- Jon_2:6mas tú sacaste mi v de la sepultura, ohH2416
+- Jon_4:3me quites la v...mejor...muerte que la vH5315
+- Jon_4:8mejor sería para mí la muerte que la vH2416
+- Hab_2:10asolaste...y has pecado contra tu vH5315
+- Mal_2:5mi pacto con él fue de v y de paz, lasH2416
+- Mat_6:25os digo: No os afanéis por vuestra vG5590
+- Mat_6:25¿no es la v más que el alimento, y elG5590
+- Mat_7:14y angosto el camino que lleva a la v, yG2222
+- Mat_10:39que halla su v...pierde su v por causaG5590
+- Mat_16:25el que quiera salvar su v, la perderáG5590
+- Mat_16:25el que pierda su v por causa de mí, laG5590
+- Mat_18:8mejor te es entrar en la v cojo o mancoG2222
+- Mat_18:9mejor...es entrar con un solo ojo en la vG2222
+- Mat_19:16¿qué bien haré para tener la v eterna?[[G2222]]
+- Mat_19:17si quieres entrar en la v, guarda losG2222
+- Mat_19:29cien veces más, y heredará la v eternaG2222
+- Mat_20:28y para dar su v en rescate por muchosG5590
+- Mat_25:46irán éstos...y los justos a la v eternaG2222
+- Mar_3:4¿es lícito en...salvar la v, o quitarla?[[G5590]]
+- Mar_8:35el que quiera salvar su v, la perderá; yG5590
+- Mar_8:35el que pierda su v por causa de mí y delG5590
+- Mar_9:43mejor te es entrar en la v manco, queG2222
+- Mar_9:45córtalo; mejor te es entrar a la v cojoG2222
+- Mar_10:17¿qué haré para heredar la v eterna?[[G2222]]
+- Mar_10:30reciba...en el siglo venidero la v eternaG2222
+- Mar_10:45y para dar su v en rescate por muchosG5590
+- Luc_6:9¿es lícito en...salvar la v, o quitarla?[[G5590]]
+- Luc_8:14son ahogados por los...placeres de la vG979
+- Luc_9:24quiera salvar su v...el que pierda su vG5590
+- Luc_10:25¿haciendo qué cosa heredaré la v eterna?[[G2222]]
+- Luc_12:5aquel que después de haber quitado la v
+- Luc_12:15la v de un hombre no consiste enG5100
+- Luc_12:22os digo: No os afanéis por vuestra vG5590
+- Luc_12:23la v es más que la comida, y el cuerpoG5590
+- Luc_14:26no aborrece...su propia v, no puede serG5590
+- Luc_16:25recibiste tus bienes en tu v, y LázaroG2222
+- Luc_17:33el que procure salvar su v, la perderáG5590
+- Luc_18:18¿qué haré para heredar la v eterna?[[G2222]]
+- Luc_18:30recibir...el siglo venidero la v eternaG2222
+- Luc_21:34no se carguen...de los afanes de esta vG982
+- Jua_1:4en él estaba la v, y la v era la luz deG2222
+- Jua_3:15-16cree, no se pierda, mas tenga v eternaG2222
+- Jua_3:36el que cree en el Hijo tiene v eternaG2222
+- Jua_3:36que rehúsa creer en el Hijo no verá la vG2222
+- Jua_4:14fuente de agua que salte para v eternaG2222
+- Jua_4:36el que siega...recoge fruto para v eternaG2222
+- Jua_5:21levanta a los muertos, y les da v, asíG2227
+- Jua_5:21también el Hijo a los que quiere da vG2227
+- Jua_5:24y cree al que me envió, tiene v eternaG2222
+- Jua_5:24no vendrá...mas ha pasado de muerte a vG2222
+- Jua_5:26como el Padre tiene v en sí mismo, asíG2222
+- Jua_5:26así también ha dado al Hijo el tener vG2222
+- Jua_5:29lo bueno, saldrán a resurrección de vG2222
+- Jua_5:39porque...os parece que en ellas tenéis la vG2222
+- Jua_5:40no queréis venir a mí para que tengáis vG2222
+- Jua_6:27por la comida que a v eterna permaneceG2222
+- Jua_6:33que descendió del cielo y da v al mundoG2222
+- Jua_6:35yo soy el pan de v; el que a mí vieneG2222
+- Jua_6:40al Hijo, y cree en él, tenga v eternaG2222
+- Jua_6:47digo: El que cree en mí, tiene v eternaG2222
+- Jua_6:48yo soy el pan de vG2222
+- Jua_6:51mi carne, la cual yo daré por la v delG2222
+- Jua_6:53carne...y bebéis su sangre, no tenéis vG2222
+- Jua_6:54come mi carne y bebe mi sangre, tiene v eternaG2222
+- Jua_6:63el espíritu es el que da v; la carneG2222
+- Jua_6:63yo os he hablado son espíritu y son vG2222
+- Jua_6:68Señor...Tú tienes palabras de v eternaG2222
+- Jua_8:12el que me sigue...tendrá la luz de la vG2222
+- Jua_10:10yo he venido para que tengan v, y paraG2222
+- Jua_10:11el buen pastor su v da por las ovejasG5590
+- Jua_10:15al Padre; y pongo mi v por las ovejasG5590
+- Jua_10:17ama el Padre, porque yo pongo mi vG5590
+- Jua_10:28y yo les doy v eterna; y no pereceránG2222
+- Jua_11:25yo soy la resurrección y la v; el queG2222
+- Jua_12:25el que ama su v, la perderá; y el queG5590
+- Jua_12:25el que aborrece su v...para v eterna laG5590
+- Jua_12:50sé que su mandamiento es v eterna...AsíG2222
+- Jua_13:37puedo seguir ahora? Mi v pondré por tiG5590
+- Jua_13:38¿tu v pondrás por mí? De cierto...digoG5590
+- Jua_14:6yo soy el camino, y la verdad, y la vG2222
+- Jua_15:13amor...que uno ponga su v por sus amigosG5590
+- Jua_17:2potestad...para que dé v eterna a todosG2222
+- Jua_17:3esta es la v eterna: que te conozcan aG2222
+- Jua_20:31que creyendo...tengáis v en su nombreG2222
+- Hec_2:28hiciste conocer los caminos de la vG2222
+- Hec_3:15y matasteis al Autor de la v, a quienG2222
+- Hec_5:20anunciad, todas las palabras de esta vG2222
+- Hec_7:38y que recibió palabras de v que darnosG2198
+- Hec_8:33porque fue quitada de la tierra su vG2222
+- Hec_11:18ha dado Dios arrepentimiento para v![[G2222]]
+- Hec_13:46y no os juzgáis dignos de la v eternaG2222
+- Hec_13:48los que estaban ordenados para v eternaG2222
+- Hec_15:26que han expuesto su v por el nombre deG5590
+- Hec_17:25él es quien da a todos v y aliento yG2222
+- Hec_20:24caso, ni estimo preciosa mi v para míG5590
+- Hec_26:4mi v, pues...la conocen todos los judíosG981
+- Hec_27:22no habrá ninguna pérdida de v entreG5590
+- Rom_2:7v eterna a los...buscan gloria y honraG2222
+- Rom_4:17de Dios...el cual da v a los muertos, y
+- Rom_5:10reconciliados, seremos salvos por su vG2222
+- Rom_5:17mucho más reinarán en v por uno soloG2222
+- Rom_5:18vino a todos los...la justificación de vG2222
+- Rom_5:21la gracia reine por la justicia para vG2222
+- Rom_6:4así también nosotros andemos en v nuevaG2222
+- Rom_6:22santificación, y como fin, la v eternaG2222
+- Rom_6:23la dádiva de Dios es v eterna en CristoG2222
+- Rom_7:3si en v del marido se uniere a otro varónG2222
+- Rom_7:10el mismo mandamiento que era para v, aG2222
+- Rom_8:2la ley del Espíritu de v en Cristo JesúsG2222
+- Rom_8:6pero el ocuparse del Espíritu es v y pazG2222
+- Rom_8:38ni la v, ni ángeles, ni principados, niG2222
+- Rom_11:15¿qué será su admisión, sino v de entreG2222
+- Rom_16:4expusieron su v por mí; a los cuales noG5590
+- 1Co_3:22la v, sea la muerte, sea lo presenteG2222
+- 1Co_6:3¿o no...¿cuánto más las cosas de esta v?[[G982]]
+- 1Co_6:4si...tenéis juicios sobre cosas de esta vG982
+- 1Co_15:19si en esta v solamente esperamos enG2222
+- 2Co_1:8aun perdimos la esperanza de...la vG2198
+- 2Co_2:16muerte, y a aquéllos olor de v para vG2222
+- 2Co_4:10también la v de Jesús se manifieste enG2222
+- 2Co_4:11la v de Jesús se manifieste en nuestraG2222
+- 2Co_4:12la muerte actúa en...y en vosotros la vG2222
+- 2Co_5:4para que lo mortal sea absorbido por la vG2222
+- Gál_6:8siembra...del Espíritu segará v eternaG2222
+- Efe_2:1y él os dio v...cuando estabais muertos
+- Efe_2:5muertos...nos dio v juntamente con CristoG4806
+- Efe_4:18ajenos de la v de Dios por la ignoranciaG2222
+- Efe_6:3para que te vaya bien, y seas de larga vG2071, [[G3118]]
+- Flp_1:20será magnificado...por v o por muerteG2222
+- Flp_2:16asidos de la palabra de v, para que enG2222
+- Flp_2:30exponiendo su v para suplir lo que faltabaG5590
+- Flp_4:3cuyos nombres están en el libro de la vG2222
+- Col_2:13muertos...os dio v juntamente con élG4806
+- Col_3:3vuestra v está escondida con Cristo enG2222
+- Col_3:4cuando Cristo, vuestra v, se manifiesteG2222
+- 1Ts_2:8no sólo...también nuestras propias vG5590
+- 1Ti_1:16que habrían de creer en él para vG2222
+- 1Ti_4:8pues tiene promesa de esta v presente, yG2222
+- 1Ti_6:12la fe, echa mano de la v eterna, a la cualG2222
+- 1Ti_6:13de Dios, que da v a todas las cosas, y deG2227
+- 1Ti_6:19por venir, que echen mano de la v eternaG2222
+- 2Ti_1:1según la promesa de la v que es enG2222
+- 2Ti_1:10sacó a luz la v y la inmortalidad por elG2222
+- 2Ti_2:4milita se enreda en los negocios de la vG979
+- Tit_1:2en la esperanza de la v eterna, la cualG2222
+- Tit_3:7conforme a la esperanza de...v eternaG2222
+- Heb_2:15estaban durante toda la v sujetos aG2198
+- Heb_7:3ni tiene principio de días, ni fin de vG2222
+- Heb_7:16según el poder de una v indestructibleG2222
+- Stg_1:12recibirá la corona de v, que Dios haG2222
+- Stg_4:14que es vuestra v? Ciertamente es neblinaG2222
+- 1Pe_3:7como a coherederas de la gracia de la vG2222
+- 1Pe_3:10que quiere amar la v y ver días buenosG2222
+- 2Pe_1:3todas las cosas que pertenecen a la vG2222
+- 1Jn_1:1hemos visto...tocante al Verbo de vG2222
+- 1Jn_1:2la v fue manifestada, y la hemos vistoG2222
+- 1Jn_2:16la vanagloria de la v no proviene delG979
+- 1Jn_2:25y esta es la promesa que...la v eternaG2222
+- 1Jn_3:14sabemos que hemos pasado de muerte a vG2222
+- 1Jn_3:16él puso su v...debemos poner nuestras vG5590
+- 1Jn_5:11dado v eterna; y esta v está en su HijoG2222
+- 1Jn_5:12el que tiene al Hijo, tiene la v; el queG2222
+- 1Jn_5:13para que sepáis que tenéis v eterna, yG2222
+- 1Jn_5:16alguno viere...pedirá, y Dios le dará vG2222
+- 1Jn_5:20Este es el verdadero Dios, y la v eternaG2222
+- Jud_1:21misericordia...Jesucristo para v eternaG2222
+- Rev_2:7le daré a comer del árbol de la v, elG2222
+- Rev_2:10sé fiel...y yo te daré la corona de la vG2222
+- Rev_3:5y no borraré su nombre del libro de la vG2222
+- Rev_7:17Cordero...guiará a fuentes de aguas de vG2198
+- Rev_11:11pero...entró en ellos el espíritu de vG2222
+- Rev_12:11y menospreciaron sus v hasta la muerteG5590
+- Rev_13:8no estaban escritos en el libro de la vG2222
+- Rev_17:8no están escritos...en el libro de la vG2222
+- Rev_20:12fue abierto, el cual es el libro de la vG2222
+- Rev_20:15el que no se halló...en el libro de la vG2222
+- Rev_21:6le daré...de la fuente del agua de la vG2222
+- Rev_21:27que están inscritos en el libro de la vG2222
+- Rev_22:1me mostró un río limpio de agua de vG2222
+- Rev_22:2en medio de la calle...el árbol de la vG2222
+- Rev_22:14para tener derecho al árbol de la v, yG2222
+- Rev_22:17tome del agua de la v gratuitamenteG2222
+- Rev_22:19Dios quitará su parte del libro de la vG2222

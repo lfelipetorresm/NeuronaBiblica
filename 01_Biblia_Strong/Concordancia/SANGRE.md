@@ -1,0 +1,409 @@
+---
+tipo: concordancia
+palabra: SANGRE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SANGRE
+
+- Gén_4:10voz de la s de tu hermano clama a míH1818
+- Gén_4:11recibir de tu mano la s de tu hermanoH1818
+- Gén_9:4pero carne con su vida, que es su s, noH1818
+- Gén_9:5demandaré la s de vuestras vidas; de manoH1818
+- Gén_9:6el que derramare s...su s será derramadaH1818
+- Gén_37:22dijo Rubén: No derraméis s; echadlo enH1818
+- Gén_37:31la túnica...tiñeron la túnica con la sH1818
+- Gén_42:22he aquí también se nos demanda su sH1818
+- Gén_49:11lavé, en el...y en la s de uvas su mantoH1818
+- Éxo_4:9cambiarán aquellas aguas...y se harán sH1818
+- Éxo_4:25a la verdad tú me eres un esposo de sH1818
+- Éxo_4:26ella dijo: Esposo de s, a causa de laH1818
+- Éxo_7:17golpearé...el río, y se convertirá en sH1818
+- Éxo_7:19se conviertan en s, y haya s por toda laH1818
+- Éxo_7:20las aguas...el río se convirtieron en sH1818
+- Éxo_7:21y hubo s por toda la tierra de EgiptoH1818
+- Éxo_12:7tomarán de la s, y la pondrán en...postesH1818
+- Éxo_12:13la s os será por señal...y veré la s yH1818
+- Éxo_12:22hisopo, y mojadlo en la s que estará enH1818
+- Éxo_12:22y untad...la s que estará en el lebrilloH1818
+- Éxo_12:23cuando vea la s en el dintel y en losH1818
+- Éxo_23:18no ofrecerás con pan leudo lit s de miH1818
+- Éxo_24:6Moisés tomó la mitad de la s...y la pusoH1818
+- Éxo_24:6esparció...mitad de la s sobre el altarH1818
+- Éxo_24:8Moisés tomó la s y roció sobre el puebloH1818
+- Éxo_24:8la s del pacto que Jehová ha hecho conH1818
+- Éxo_29:12de la s del becerro tomarás y pondrásH1818
+- Éxo_29:12derramarás...la demás s al pie del altarH1818
+- Éxo_29:16con su s rociarás sobre el altar alrededorH1818
+- Éxo_29:20matarás el carnero, y tomarás de su sH1818
+- Éxo_29:20rociarás la s sobre el altar alrededorH1818
+- Éxo_29:21con la s que estará sobre el altar, yH1818
+- Éxo_30:10con la s del sacrificio por el pecadoH1818
+- Éxo_34:25no ofrecerás cosa leudada...con la s deH1818
+- Lev_1:5y los sacerdotes hijos...ofrecerán la sH1818
+- Lev_1:11los...hijos de Aarón rociarán su s sobreH1818
+- Lev_1:15su s será exprimida sobre la pared delH1818
+- Lev_3:2, Lev_3:8, Lev_3:13Aarón rociarán su s sobre el altarH1818
+- Lev_3:17ninguna grosura ni ninguna s comeréisH1818
+- Lev_4:5el sacerdote...tomará de la s del becerroH1818
+- Lev_4:6, Lev_4:17mojará el sacerdote su dedo en la sH1818
+- Lev_4:6rociará de aquella s siete veces delanteH1818
+- Lev_4:7, Lev_4:18, Lev_4:25, Lev_4:30, Lev_4:34s sobre los cuernos del altarH1818
+- Lev_4:7, Lev_4:18, Lev_4:25, Lev_4:30, Lev_4:34de la s...al pie del altarH1818
+- Lev_4:16meterá de la s del...en el tabernáculo deH1818
+- Lev_5:9rociará de la s de la...la pared del altarH1818
+- Lev_5:9Y lo que sobrare de la s lo exprimirá alH1818
+- Lev_6:27salpicare su s sobre el vestido, lavarásH1818
+- Lev_6:30no se comerá ninguna ofrenda de cuya sH1818
+- Lev_7:2y rociará su s alrededor sobre el altarH1818
+- Lev_7:14será del sacerdote que rociare la s deH1818
+- Lev_7:26ninguna s comeréis en ningún lugar enH1818
+- Lev_7:27persona que comiere...s, la tal personaH1818
+- Lev_7:33que...ofreciere la s de los sacrificiosH1818
+- Lev_8:15y Moisés tomó la s, y puso con su dedoH1818
+- Lev_8:15echó la demás s al pie del altar, y loH1818
+- Lev_8:19, Lev_8:24y roció Moisés la s sobre el altarH1818
+- Lev_8:23tomó...de la s, y la puso sobre el lóbuloH1818
+- Lev_8:24puso Moisés de la s sobre el lóbulo deH1818
+- Lev_8:30tomo...de la s que estaba sobre el altarH1818
+- Lev_9:9los hijos de Aarón le trajeron la s; y élH1818
+- Lev_9:9él mojó su dedo en la s, y puso de ellaH1818
+- Lev_9:9derramó el resto de la s al pie del altarH1818
+- Lev_9:12, Lev_9:18los hijos de Aarón le presentaron la sH1818
+- Lev_10:18s no fue llevada dentro del santuarioH1818
+- Lev_12:4ella permanecerá...purificándose de su sH1818
+- Lev_12:5y 66 días estará purificándose de su sH1818
+- Lev_12:7ella, y será limpia del flujo de su sH1818
+- Lev_14:6, Lev_14:51en la s de la avecilla muerta...aguasH1818
+- Lev_14:14, Lev_14:25el sacerdote tomará de la s de laH1818
+- Lev_14:17pondrá el...encima de la s del sacrificioH1818
+- Lev_14:28aceite...en el lugar de la s de la culpaH1818
+- Lev_14:52y purificará la casa con la s de laH1818
+- Lev_15:19cuando la mujer tuviere flujo de s, yH1818
+- Lev_15:25mujer, cuando siguiere el flujo de su sH1818
+- Lev_15:25tuviere flujo de s más de su costumbreH1818
+- Lev_16:14tomará luego de la s del becerro, y laH1818
+- Lev_16:14esparcirá con...siete veces de aquella sH1818
+- Lev_16:15y llevará la s detrás del velo adentroH1818
+- Lev_16:15de la s como hizo con la s del becerroH1818
+- Lev_16:18de la s del becerro y de la s del machoH1818
+- Lev_16:19esparcirá sobre él de la s con su dedoH1818
+- Lev_16:27cuya s fue llevada al santuario paraH1818
+- Lev_17:4culpado de s el tal varón; s derramóH1818
+- Lev_17:6esparcirá la s sobre el altar de JehováH1818
+- Lev_17:10varón...comiere alguna s, yo pondré miH1818
+- Lev_17:10rostro contra la persona que comiere sH1818
+- Lev_17:11la vida de la carne en la s está, y yoH1818
+- Lev_17:11la misma s hará expiación de la personaH1818
+- Lev_17:12ninguna persona de vosotros comerá sH1818
+- Lev_17:12ni el extranjero que mora...comerá sH1818
+- Lev_17:13derramará su s y la cubrirá con tierraH1818
+- Lev_17:14porque la vida de toda carne es su sH1818
+- Lev_17:14no comeréis la s...porque la vida...su sH1818
+- Lev_19:26no comeréis cosa alguna con s...No seréisH1818
+- Lev_20:9a su madre maldijo; su s será sobre élH1818
+- Lev_20:11, Lev_20:13ser muertos; su s será sobre ellosH1818
+- Lev_20:12ambos han de morir...s será sobre ellosH1818
+- Lev_20:16ayuntarse con él...su s será sobre ellosH1818
+- Lev_20:18ella descubrió la fuente de su s; ambosH1818
+- Lev_20:27serán apedreados; su s será sobre ellosH1818
+- Núm_18:17la s de ellos rociarás sobre el altarH1818
+- Núm_19:4el sacerdote tomará de la s con su dedoH1818
+- Núm_19:4y rociará...con la s de ella siete vecesH1818
+- Núm_19:5y su s, con su estiércol, hará quemarH1818
+- Núm_23:24hasta que...y beba la s de los muertosH1818
+- Núm_35:19el vengador de la s, él dará muerte alH1818
+- Núm_35:21el vengador de la s matará al homicidaH1818
+- Núm_35:24juzgará entre el...y el vengador de la sH1818
+- Núm_35:25librará...de mano del vengador de la sH1818
+- Núm_35:27y el vengador de la s le hallare fueraH1818
+- Núm_35:27el vengador de la s matare al homicidaH1818
+- Núm_35:33porque esta s amancillará la tierra, yH1818
+- Núm_35:33no será expiada...s...sino por la s delH1818
+- Deu_12:16solamente que s no comeréis; sobre laH1818
+- Deu_12:23en no comer s; porque la s es la vidaH1818
+- Deu_12:27carne y la s, sobre el altar de JehováH1818
+- Deu_12:27la s...será derramada sobre el altar deH1818
+- Deu_15:23que no comas su s; sobre la tierra laH1818
+- Deu_19:6sea que el vengador de la s, enfurecidoH1818
+- Deu_19:10para que no sea derramada s inocente enH1818
+- Deu_19:10no seas culpado de derramamiento de sH1818
+- Deu_19:12entregarán en mano del vengador de la sH1818
+- Deu_19:13quitarás de Israel la s inocente, y teH1818
+- Deu_21:7nuestras manos no han derramado esta sH1818
+- Deu_21:8y no culpes de s inocente a tu puebloH1818
+- Deu_21:8a tu pueblo...Y la s les será perdonadaH1818
+- Deu_21:9quitarás la culpa de la s inocente de enH1818
+- Deu_22:8no eches culpa de s sobre tu casa, si deH1818
+- Deu_32:14trigo; y de la s de la uva bebiste vinoH1818
+- Deu_32:42embriagaré de s mis saetas, y mi espadaH1818
+- Deu_32:42la s de los muertos y de los cautivosH1818
+- Deu_32:43porque él vengará la s de sus siervosH1818
+- Jos_2:19su s será sobre su cabeza, y nosotrosH1818
+- Jos_2:19s será sobre nuestra cabeza, si mano leH1818
+- Jos_20:3de refugio contra el vengador de la sH1818
+- Jos_20:5si el vengador de la s le siguiere, noH1818
+- Jos_20:9no muriese por mano del vengador de la sH1818
+- Jue_9:24s de ellos, recayera sobre AbimelecH1818
+- 1Sa_14:32ovejas...el pueblo los comió con sH1818
+- 1Sa_14:33comiendo la carne con la s...Y él dijoH1818
+- 1Sa_14:34no pequéis...comiendo la carne con la sH1818
+- 1Sa_19:5¿por qué...pecarás contra la s inocenteH1818
+- 1Sa_25:26te ha impedido el venir a derramar s yH1818
+- 1Sa_25:31por haber derramado s sin causa, o porH1818
+- 1Sa_25:33me has estorbado hoy de ir a derramar sH1818
+- 1Sa_26:20no caiga, pues, ahora mi s en tierraH1818
+- 2Sa_1:16dijo: Tu s sea sobre tu cabeza, puesH1818
+- 2Sa_1:22sin s de los muertos, sin grosura de losH1818
+- 2Sa_3:28inocente soy yo...de la s de Abner hijoH1818
+- 2Sa_4:11ahora, pues, ¿no he de demandar yo su sH1818
+- 2Sa_14:11el vengador de la s no aumente el dañoH1818
+- 2Sa_16:8Jehová te ha dado el pago de toda la sH1818
+- 2Sa_20:12y Amasa yacía revolcándose en su s enH1818
+- 2Sa_21:1causa de Saúl, y por aquella casa de sH1818
+- 2Sa_23:17¿he de beber yo la s de los varones queH1818
+- 1Re_2:5derramando...s de guerra, y poniendo sH1818
+- 1Re_2:9harás descender sus canas con s al SeolH1818
+- 1Re_2:31y quita de mí...s que Joab ha derramadoH1818
+- 1Re_2:32Jehová hará volver su s sobre su cabezaH1818
+- 1Re_2:33la s, pues, de ellos recaerá sobre...JoabH1818
+- 1Re_2:37morirás, y tu s será sobre tu cabezaH1818
+- 1Re_11:14Hadad edomita, de s real, el...en EdomH2333
+- 1Re_18:28y se sajaban con...hasta chorrear la sH1818
+- 1Re_21:19donde lamieron los perros la s de NabotH1818
+- 1Re_21:19los perros lamerán...tu s, tu misma sH1818
+- 1Re_22:35la s de la herida corría por el fondoH1818
+- 1Re_22:38el estanque...los perros lamieron su sH1818
+- 2Re_3:22vieron los de Moab...rojas como sH1818
+- 2Re_3:23dijeron: ¡Esto es s de espada! Los reyesH1818
+- 2Re_9:7vengue la s de mis siervos los profetasH1818
+- 2Re_9:7y la s de todos los siervos de Jehová, deH1818
+- 2Re_9:26ayer la s de Nabot, y la s de sus hijosH1818
+- 2Re_9:33y parte de su s salpicó en la pared, yH1818
+- 2Re_16:13y esparció la s de sus sacrificios deH1818
+- 2Re_16:15sobre él toda la s del holocausto, yH1818
+- 2Re_16:15y esparcirás...toda la s del sacrificioH1818
+- 2Re_21:16esto, derramó Manasés mucha s inocenteH1818
+- 2Re_24:4s inocente que...llenó a Jerusalén de sH1818
+- 1Cr_11:19¿había yo de beber la s y la vidaH1818
+- 1Cr_22:8tú has derramado mucha s, y has hechoH1818
+- 1Cr_22:8tú...has derramado mucha s en la tierraH1818
+- 1Cr_28:3tú no edificarás...has derramado mucha sH1818
+- 2Cr_19:10causas de s, entre ley y preceptoH1818
+- 2Cr_24:25conspiraron contra él...a causa de la sH1818
+- 2Cr_29:22y los sacerdotes recibieron la s, y laH1818
+- 2Cr_29:22(2)y esparcieron la s sobre el altarH1818
+- 2Cr_29:24hicieron ofrenda de expiación con la sH1818
+- 2Cr_30:16esparcían la s que recibían de manos deH1818
+- 2Cr_35:11y esparcían...la s recibida de mano deH1818
+- Job_16:18no cubras mi s, y no haya lugar paraH1818
+- Job_39:30polluelos chupan la s; y donde hubiereH1818
+- Sal_9:12porque el que demanda la s se acordóH1818
+- Sal_16:4no ofreceré yo sus libaciones de s, niH1818
+- Sal_50:13¿he de...de beber s de machos cabríos?[[H1818]]
+- Sal_58:10justo...sus pies lavará en la s del impíoH1818
+- Sal_68:23pie se enrojecerá de s de tus enemigosH1818
+- Sal_72:14y la s de ellos será preciosa ante susH1818
+- Sal_78:44volvió sus ríos en s, y sus corrientesH1818
+- Sal_79:3derramaron su s como agua en...JerusalénH1818
+- Sal_79:10la venganza de la s de tus siervos queH1818
+- Sal_94:21juntan contra...condenan la s inocenteH1818
+- Sal_105:29volvió sus aguas en s, y mato...pecesH1818
+- Sal_106:38y derramaron la s...la s de sus hijosH1818
+- Sal_106:38y la tierra fue contaminada con sH1818
+- Pro_1:11pongamos asechanzas para derramar sH1818
+- Pro_1:16sus pies...van presurosos a derramar sH1818
+- Pro_1:18ellos a su propia s ponen asechanzas, yH1818
+- Pro_6:17las manos derramadoras de s inocenteH1818
+- Pro_12:6son asechanzas para derramar s; mas laH1818
+- Pro_28:17hombre cargado de la s de alguno huiráH1818
+- Pro_30:33y el que recio se suena las...sacará sH1818
+- Isa_1:11no quiero s de bueyes, ni de ovejasH1818
+- Isa_1:15oiré; llenas están de s vuestras manosH1818
+- Isa_4:4limpie la s de Jerusalén de en medio deH1818
+- Isa_9:5todo manto revolcado en s, serán quemadosH1818
+- Isa_15:9y las aguas de Dimón se llenarán de sH1818
+- Isa_26:21y la tierra descubrirá la s derramadaH1818
+- Isa_34:3montes se disolverán por la s de ellosH1818
+- Isa_34:6llena está de s...de s de corderos y deH1818
+- Isa_34:7tierra se embriagará de s...y su polvoH1818
+- Isa_49:26y con su s serán embriagados como conH1818
+- Isa_59:3vuestras manos están contaminadas de sH1818
+- Isa_59:7apresuran para derramar la s inocenteH1818
+- Isa_63:3y su s salpicó mis vestidos, y manchéH1818
+- Isa_63:6los embriagué...derramé en tierra su sH5332
+- Isa_66:3ofrenda, como si ofreciese s de cerdoH1818
+- Jer_2:34en tus faldas se halló la s de losH1818
+- Jer_7:6ni en este lugar derramareis...s inocenteH1818
+- Jer_19:4y llenaron este lugar de s de inocentesH1818
+- Jer_22:3ni derraméis s inocente en este lugarH1818
+- Jer_22:17mas tus ojos...para derramar s inocenteH1818
+- Jer_26:15que si me matáis, s inocente echaréisH1818
+- Jer_46:10espada...se embriagará de la s de ellosH1818
+- Jer_48:10y maldito el que detuviere de la s suH1818
+- Jer_51:35s caiga sobre los moradores de CaldeaH1818
+- Lam_4:13derramaron en medio de ella la s deH1818
+- Lam_4:14fueron contaminados con s, de modo queH1818
+- Eze_3:18, Eze_3:20morirá, su s demandaré de tu manoH1818
+- Eze_5:17pestilencia y s pasarán por en medio deH1818
+- Eze_7:23la tierra está llena de delitos de s, yH1818
+- Eze_9:9pues la tierra está llena de s, y la ciudadH1818
+- Eze_14:19derramare mi ira sobre ella en s, paraH1818
+- Eze_16:6te vi sucia en tus s, y cuando estabasH1818
+- Eze_16:6(2)estabas en tus s te dije: ¡Vive![[H1818]]
+- Eze_16:9y lavé tus s de encima de ti, y te ungíH1818
+- Eze_16:22días...cuando estabas envuelta en tu sH1818
+- Eze_16:36la s de tus hijos, los cuales les disteH1818
+- Eze_16:38por las leyes de...de las que derraman sH1818
+- Eze_16:38y traeré sobre ti s de ira y de celosH1818
+- Eze_18:10si engendrare hijo...o derramador de sH1818
+- Eze_18:13de cierto morirá, su s será sobre élH1818
+- Eze_21:32se empapará la tierra de tu s; no habráH1818
+- Eze_22:2¿no juzgarás...la ciudad derramadora de sH1818
+- Eze_22:3¡ciudad derramadora de s en medio de síH1818
+- Eze_22:4en tu s que derramaste has pecado, y teH1818
+- Eze_22:6príncipes...se esfuerzan en derramar sH1818
+- Eze_22:9calumniadores hubo en...para derramar sH1818
+- Eze_22:12precio recibieron en...para derramar sH1818
+- Eze_22:13causa de la s que derramaste en medioH1818
+- Eze_22:27derramando s, para destruir las almasH1818
+- Eze_23:37y hay s en sus manos, y han fornicadoH1818
+- Eze_23:45por la ley de las que derraman s; porqueH1818
+- Eze_23:45son adúlteras, y s hay en sus manosH1818
+- Eze_24:6, Eze_24:9dicho Jehová...¡Ay de la ciudad de sH1818
+- Eze_24:7porque su s está en medio de ella; sobreH1818
+- Eze_24:8pondré su s sobre la dura piedra, paraH1818
+- Eze_28:23enviaré a ella pestilencia y s en susH1818
+- Eze_32:6y regaré de tu s la tierra donde nadasH1818
+- Eze_33:4lo hiriere, su s será sobre su cabezaH1818
+- Eze_33:5no se apercibió; su s será sobre él; masH1818
+- Eze_33:6pero demandaré su s de mano del atalayaH1818
+- Eze_33:8morirá...su s yo la demandaré de tu manoH1818
+- Eze_33:25¿comeréis con s, y...derramaréis s, yH1818
+- Eze_35:6que a s te destinaré, y s te perseguiráH1818
+- Eze_35:6la s no aborreciste, s te perseguiráH1818
+- Eze_36:18y derramaré mi ira sobre ellos por la sH1818
+- Eze_38:22litigaré contra él con pestilencia y...sH1818
+- Eze_39:17y venid...y comeréis carne y beberéis sH1818
+- Eze_39:18y beberéis s de príncipes de la tierraH1818
+- Eze_39:19beberéis hasta embriagaros de s de lasH1818
+- Eze_43:18holocausto...y para esparcir sobre él sH1818
+- Eze_43:20y tomarás de su s, y pondrás en los 4H1818
+- Eze_44:7de ofrecer mi pan, la grosura y la s, yH1818
+- Eze_44:15para ofrecerme la...y la s, dice JehováH1818
+- Eze_45:19y el sacerdote tomará de la s de laH1818
+- Ose_1:4castigaré a...causa de la s de JezreelH1818
+- Ose_6:8de hacedores de iniquidad, manchada de sH1818
+- Ose_12:14tanto, hará recaer sobre él la s que haH1818
+- Joe_2:30daré...s, y fuego, y columnas de humoH1818
+- Joe_2:31luna en s, antes que venga el día grandeH1818
+- Joe_3:19porque derramaron en...tierra s inocenteH1818
+- Joe_3:21limpiaré la s de...que no había limpiadoH1818
+- Jon_1:14ni pongas sobre nosotros la s inocenteH1818
+- Miq_3:10edificáis a Sion con s, y a JerusalénH1818
+- Miq_7:2todos acechan por s; cada cual arma redH1818
+- Hab_2:8te despojarán, a causa de la s de losH1818
+- Hab_2:12¡ay del que edifica la ciudad con s, yH1818
+- Hab_2:17a causa de la s de los hombres, y delH1818
+- Sof_1:17s de ellos será derramada como polvoH1818
+- Zac_9:7quitaré la s de su boca...sus dientesH1818
+- Zac_9:11y tú...por la s de tu pacto serás salvaH1818
+- Mat_9:20aquí una mujer enferma de flujo de sG131
+- Mat_16:17porque no te lo reveló carne ni s, sinoG129
+- Mat_23:30sus cómplices en la s de los profetasG129
+- Mat_23:35venga sobre vosotros toda la s justaG129
+- Mat_23:35la s de Abel...hasta la s de ZacaríasG129
+- Mat_26:28esto es mi s del nuevo pacto, que porG129
+- Mat_27:4yo he pecado entregando s inocente...MasG129
+- Mat_27:6en el tesoro de...porque es precio de sG129
+- Mat_27:8aquel campo se llama...hoy: Campo de sG129
+- Mat_27:24inocente soy yo de la s de este justoG129
+- Mat_27:25dijo: Su s sea sobre nosotros, y sobreG129
+- Mar_5:25una mujer que...padecía de flujo de sG129
+- Mar_5:29y en seguida la fuente de su s se secóG129
+- Mar_14:24esto es mi s del nuevo pacto, que porG129
+- Luc_8:43que padecía de flujo de s desde hacíaG129
+- Luc_8:44al instante se detuvo el flujo de su sG129
+- Luc_11:50se demande...la s de todos los profetasG129
+- Luc_11:51la s de Abel hasta la s de Zacarías, queG129
+- Luc_13:1galileos cuya s Pilato había mezcladoG129
+- Luc_22:20esta copa es el nuevo pacto en mi sG129
+- Luc_22:44y era su sudor como grandes gotas de sG129
+- Jua_1:13los cuales no son engendrados de s, niG129
+- Jua_6:53si no...bebéis su s, no tenéis vida enG129
+- Jua_6:54el que...bebe mi s, tiene vida eternaG129
+- Jua_6:55mi carne es...mi s es verdadera bebidaG129
+- Jua_6:56bebe mi s, en mí permanece, y yo en élG129
+- Jua_19:34una lanza, y al instante salió s y aguaG129
+- Hec_1:19Acéldama...quiere decir, Campo de sG129
+- Hec_2:19prodigios...s y fuego y vapor de humoG129
+- Hec_2:20y la luna en s, antes que venga el díaG129
+- Hec_5:28y queréis echar sobre nosotros la s deG129
+- Hec_15:20que se aparten de...de ahogado y de sG129
+- Hec_15:29que os abstengáis...de s, de ahogado yG129
+- Hec_17:26y de una s ha hecho todo el linaje deG129
+- Hec_18:6vuestra s...sobre vuestra propia cabezaG129
+- Hec_20:26hoy, que estoy limpio de la s de todosG129
+- Hec_20:28iglesia...cual él ganó por su propia sG129
+- Hec_21:25que se abstengan de...de s, de ahogadoG129
+- Hec_22:20y cuando se derramaba la s de EstebanG129
+- Rom_3:15sus pies se apresuran para derramar sG129
+- Rom_3:25propiciación por medio de la fe en su sG129
+- Rom_5:9estando ya justificados en su s, por élG129
+- Rom_11:14pueda provocar a celos a los de mi sG4561
+- 1Co_10:16¿no es la comunión...s de Cristo?[[G129]]
+- 1Co_11:25esta copa es el nuevo pacto en mi sG129
+- 1Co_11:27será culpado del...y de la s del SeñorG129
+- 1Co_15:50s pueden heredar el reino de DiosG129
+- Gál_1:16no consulté enseguida con carne y sG129
+- Efe_1:7en quien tenemos redención por su s, elG129
+- Efe_2:13habéis sido hechos cercanos por la s deG129
+- Efe_6:12no tenemos lucha contra s y carne, sinoG129
+- Col_1:14en quien tenemos redención por su sG129
+- Col_1:20haciendo la paz mediante la s de su cruzG129
+- Heb_2:14los hijos participaron de carne y sG129
+- Heb_9:7no sin s, la cual ofrece por sí mismo yG129
+- Heb_9:12no por s...sino por su propia s, entróG129
+- Heb_9:13si la s de los toros...santifican paraG129
+- Heb_9:14¿cuánto más la s de Cristo...ofreció a síG129
+- Heb_9:18ni...primer pacto fue instituido sin sG129
+- Heb_9:19tomó la s de los becerros...y roció elG129
+- Heb_9:20esta es la s del pacto que Dios os haG129
+- Heb_9:21roció también con la s el tabernáculoG129
+- Heb_9:22casi todo es purificado...con s; y sinG129
+- Heb_9:22derramamiento de s no se hace remisiónG129
+- Heb_9:25como entra el...sacerdote...con s ajenaG129
+- Heb_10:4la s de los toros...no puede quitar losG129
+- Heb_10:19libertad para entrar en...por la s deG129
+- Heb_10:29y tuviere por inmunda la s del pactoG129
+- Heb_11:28por la fe celebró...aspersión de la sG129
+- Heb_12:4porque...no habéis resistido hasta la sG129
+- Heb_12:24la s rociada que habla mejor que la deG129
+- Heb_13:11cuya s...es introducida en el santuarioG129
+- Heb_13:12para santificar...mediante su propia sG129
+- Heb_13:20gran pastor...por la s del pacto eternoG129
+- 1Pe_1:2para obedecer y ser rociados con la sG129
+- 1Pe_1:19sino con la s preciosa de Cristo, comoG129
+- 1Jn_1:7y la s de Jesucristo...nos limpia deG129
+- 1Jn_5:6Jesucristo, que vino mediante agua y sG129
+- 1Jn_5:6no mediante agua...sino mediante agua y sG129
+- 1Jn_5:8el Espíritu, el agua y la s; y estos tresG129
+- Rev_1:5nos lavó de nuestros pecados con su sG129
+- Rev_5:9con tu s nos has redimido para Dios, deG129
+- Rev_6:10y vengas nuestra s en los que moran enG129
+- Rev_6:12el sol...la luna se volvió toda como sG129
+- Rev_7:14han emblanquecido en la s del CorderoG129
+- Rev_8:7y hubo granizo y fuego mezclados con sG129
+- Rev_8:8tercera parte del mar se convirtió en sG129
+- Rev_11:6sobre las aguas para convertirlas en sG129
+- Rev_12:11vencido por medio de la s del CorderoG129
+- Rev_14:20salió s hasta...frenos de los caballosG129
+- Rev_16:3sobre el mar, y éste se convirtió en sG129
+- Rev_16:4sobre los ríos...y se convirtieron en sG129
+- Rev_16:6derramaron la s de los santos y de losG129
+- Rev_16:6les has dado a beber s; pues lo merecenG129
+- Rev_17:6ebria de la s...de la s de los mártiresG129
+- Rev_18:24en ella se halló la s de los profetasG129
+- Rev_19:2y ha vengado la s de sus siervos de laG129
+- Rev_19:13estaba vestido de una ropa teñida en sG129

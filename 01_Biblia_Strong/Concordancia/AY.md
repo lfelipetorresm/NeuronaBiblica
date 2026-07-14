@@ -1,0 +1,122 @@
+---
+tipo: concordancia
+palabra: AY
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AY
+
+- Gén_43:20dijeron: A, señor nuestro, nosotros
+- Gén_44:18Judá se acercó a él, y dijo: A, señor míoH994
+- Éxo_4:10dijo Moisés a Jehová: ¡A, Señor!
+- Éxo_4:13y él dijo: ¡A, Señor! envía, te ruego
+- Núm_21:29¡a de ti, Moab! Pereciste, pueblo deH188
+- Núm_24:23¡A! ¿quién vivirá cuando hiciere DiosH188
+- Jos_7:8¡A, Señor! ¿qué diré, ya que Israel
+- Jue_11:35diciendo: ¡A, hija mía! en verdadH162
+- 1Sa_4:7¡a de nosotros! pues antes de ahoraH188
+- 1Sa_4:8¡a de nosotros! ¿Quién nos librará de laH188
+- 1Re_13:30le...diciendo: ¡A, hermano mío![[H1945]]
+- 2Re_4:19dijo a su padre: ¡A, mi cabeza
+- Job_10:15si fuere malo, ¡a de mí! Y si fuereH480
+- Sal_120:5¡a de mí, que moro en Mesec, yH190
+- Pro_23:29¿para quién será el a? ¿Para quiénH188
+- Ecl_4:10¡a del solo! que cuando cayere, noH337
+- Ecl_10:16¡a de ti, tierra, cuando tu rey esH337
+- Isa_3:9¡a del alma de ellos!...amontonaron malH188
+- Isa_3:11¡a del impío! Mal le irá, porque segúnH188
+- Isa_5:8¡a de los que juntan casa a casa, yH1945
+- Isa_5:11¡a de los que se levantan de mañanaH1945
+- Isa_5:18¡a de los que traen la iniquidad conH1945
+- Isa_5:20¡a de los que a lo malo dicen bueno, yH1945
+- Isa_5:21¡a de los sabios en sus propios ojosH1945
+- Isa_5:22¡a de los que son valientes para beberH1945
+- Isa_6:5entonces dije: ¡A de mí! que soy muertoH188
+- Isa_10:1¡a de los que dictan leyes injustas, yH1945
+- Isa_17:12¡a! multitud de muchos pueblosH1945
+- Isa_18:1¡a de la tierra que hace sombra con lasH1945
+- Isa_24:16mi desdicha, a de mí! PrevaricadoresH188
+- Isa_28:1¡a de la corona de soberbia de los ebriosH1945
+- Isa_29:1¡a de Ariel, de...donde habitó David![[H1945]]
+- Isa_29:15¡a de los que se esconden de JehováH1945
+- Isa_30:1¡a de los hijos que se apartan, diceH1945
+- Isa_31:1¡a de los que descienden a Egipto porH1945
+- Isa_33:1¡a de ti, que saqueas, y nunca fuisteH1945
+- Isa_45:9¡a del que pleitea con su Hacedor![[H1945]]
+- Isa_45:10¡a del que dice al padre: ¿Por quéH1945
+- Jer_4:10y dije: ¡A, a, Jehová Dios![[H162]]
+- Jer_4:13¡a de nosotros, porque entregados somosH188
+- Jer_4:31¡a ahora de mí! que mi alma desmayaH188
+- Jer_6:4¡a de nosotros! que va cayendo ya el díaH1945
+- Jer_10:19¡a de mí, por mi quebrantamiento![[H188]]
+- Jer_13:27tus abominaciones. ¡A de ti, Jerusalén![[H188]]
+- Jer_15:10¡a de mí, madre mía, que me engendrasteH188
+- Jer_22:13¡a del que edifica su casa sin justiciaH1945
+- Jer_22:18diciendo: ¡A, hermano mío! y ¡A, hermana![[H1945]]
+- Jer_22:18diciendo: ¡A, señor! ¡A, su grandeza![[H1945]]
+- Jer_23:1¡a de los pastores que destruyen yH1945
+- Jer_34:5te endecharán, diciendo, ¡A, señor![[H1945]]
+- Jer_45:3tú dijiste: ¡A de mí ahora! porqueH188
+- Jer_48:1¡a de Nebo! porque fue destruidaH1945
+- Jer_48:46¡a de ti, Moab! pereció el puebloH188
+- Jer_50:27¡a de ellos! pues ha venido su díaH1945
+- Lam_5:16¡a ahora de nosotros! porqueH188
+- Eze_2:10escritas en él...lamentaciones y aH1958
+- Eze_6:11y di: ¡A, por...las grandes abominacionesH253
+- Eze_13:3¡a de los profetas insensatos, queH1945
+- Eze_13:18¡a de aquellas que cosen vendasH1945
+- Eze_16:23(¡a, a de ti! dice Jehová el Señor)[[H188]]
+- Eze_24:6, Eze_24:9¡a de la ciudad de sangresH188
+- Eze_30:2ha dicho...Lamentad: ¡A de aquel día![[H1929]]
+- Eze_34:2ha dicho Jehová el...¡Á de los pastoresH1945
+- Ose_7:13¡a de ellos! porque se apartaron de míH188
+- Ose_9:12¡a de ellos también, cuando de ellos meH188
+- Joe_1:15¡a del día! porque cercano está el díaH162
+- Amó_5:16en todas las calles dirán: ¡A! ¡A![[H1930]]
+- Amó_5:18¡a de los que desean el día de Jehová![[H1945]]
+- Amó_6:1¡a de los reposados en Sion, y de losH1945
+- Miq_2:1¡a de...en sus camas piensan iniquidadH1945
+- Miq_7:1¡a de mí! porque estoy como cuando hanH480
+- Nah_3:1¡a de ti, ciudad sanguinaria, todaH1945
+- Hab_2:6¡a del que multiplicó lo que no eraH1945
+- Hab_2:9¡a del que codicia injusta ganancia paraH1945
+- Hab_2:12¡a del que edifica la ciudad con sangreH1945
+- Hab_2:15¡a del que da de beber a su prójimo![[H1945]]
+- Hab_2:15¡a de ti, que le acercas tu hiel, y leH1945
+- Hab_2:19¡a del que dice al palo: DespiértateH1945
+- Sof_2:5¡a de los que moran en la costa delH1945
+- Sof_3:1¡a de la ciudad rebelde y contaminada yH1945
+- Zac_11:17¡a del pastor inútil que abandona elH1945
+- Mat_11:21¡a de ti, Corazín! ¡a...Betsaida![[G3759]]
+- Mat_18:7¡a del mundo por los tropiezos! porqueG3759
+- Mat_18:7pero ¡a de...por quien viene el tropiezoG3759
+- Mat_23:13-14, Mat_23:15, Mat_23:23, Mat_23:25, Mat_23:27, Mat_23:29¡a de vosotros, escribas y fariseos, hipócritas![[G3759]]
+- Mat_23:16¡a de vosotros, guías ciegos! que decísG3759
+- Mat_24:19¡a de las que estén encintas, y de lasG3759
+- Mat_26:24¡a de aquel hombre por quien el HijoG3759
+- Mar_13:17¡a de las que estén encintas, y deG3759
+- Mar_14:21¡a de aquel hombre por quien el HijoG3759
+- Luc_6:24¡a de vosotros, ricos! porque ya tenéisG3759
+- Luc_6:25¡a de vosotros, los que ahora estáisG3759
+- Luc_6:25¡a de vosotros, los que ahora reís![[G3759]]
+- Luc_6:26¡a de vosotros, cuando...hablen bien deG3759
+- Luc_10:13¡a de ti, Corazín! ¡a de ti, Betsaida![[G3759]]
+- Luc_11:42¡a de vosotros, fariseos! que diezmáisG3759
+- Luc_11:43¡a de vosotros, fariseos! que amáis lasG3759
+- Luc_11:44¡a de vosotros, escribas y fariseosG3759
+- Luc_11:46¡a de vosotros...intérpretes de la ley![[G3759]]
+- Luc_11:47¡a de vosotros, que edificáis losG3759
+- Luc_11:52¡a de vosotros, intérpretes de la leyG3759
+- Luc_17:1mas ¡a de aquel por quien vienen![[G3759]]
+- Luc_21:23¡a de las que estén encintas, y de lasG3759
+- Luc_22:22¡a de aquel...por quien es entregado![[G3759]]
+- 1Co_9:16¡a...si no anunciare el evangelio![[G3759]]
+- Jud_1:11¡a de ellos! porque han seguido elG3759
+- Rev_8:13¡a, a, a, de los que moran en laG3759
+- Rev_9:12el primer a pasó...vienen aún dos aG3759
+- Rev_11:14el segundo a pasó...el tercer a vieneG3759
+- Rev_12:12¡a de los moradores de la tierra y delG3759
+- Rev_18:10¡a, a, de la gran ciudad de BabiloniaG3759
+- Rev_18:16¡a, a, de la gran ciudad, que estabaG3759
+- Rev_18:19¡a, a de la gran ciudad, en la cualG3759

@@ -1,0 +1,86 @@
+---
+tipo: concordancia
+palabra: VESTIDURA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VESTIDURA
+
+- Éxo_28:2y harás v sagradas a Aarón tu hermanoH899
+- Éxo_28:3hablarás...para que hagan las v de AarónH899
+- Éxo_28:4las v que harán son estas: el pectoralH899
+- Éxo_28:4hagan, pues, las v sagradas para AarónH899
+- Éxo_29:5y tomarás las v, y vestirás a Aarón laH899
+- Éxo_29:21sobre Aarón, sobre sus v...v de éstosH899
+- Éxo_29:21y sus v...y las v de sus hijos con élH899
+- Éxo_29:29v santas de Aarón, serán de sus hijosH899
+- Éxo_31:10las v santas para Aarón el sacerdoteH899
+- Éxo_31:10las v de sus hijos para que ejerzan elH899
+- Éxo_35:19las v del servicio para ministrar enH899
+- Éxo_35:19las sagradas v...y las v de sus hijosH899
+- Éxo_35:21con ofrenda para...para las sagradas vH899
+- Éxo_39:1del azul...hicieron las v del ministerioH899
+- Éxo_39:1hicieron las v sagradas para Aarón, comoH899
+- Éxo_39:41las v del servicio para ministrar enH899
+- Éxo_39:41las sagradas v...y las v de sus hijosH899
+- Éxo_40:13harás vestir a Aarón las v sagradas, yH899
+- Lev_6:10el sacerdote se pondrá su v de linoH899
+- Lev_6:11quitará sus v y se pondrá otras ropasH899
+- Lev_8:2toma...las v, el aceite de la unción, elH899
+- Lev_8:30roció...sobre sus v...las v de sus hijosH899
+- Lev_8:30santificó...sus v...y las v de sus hijosH899
+- Lev_15:17v, o toda piel sobre la cual cayere laH899
+- Lev_16:4las santas v; con ellas se ha de vestirH899
+- Lev_16:23vendrá Aarón...se quitará las v de linoH899
+- Lev_16:32vestirá las v de lino, las v sagradasH899
+- Lev_21:10que fue consagrado para llevar las vH899
+- Núm_20:26y desnuda a Aarón de sus v, y visteH899
+- Núm_20:28Moisés desnudó a Aarón de sus v, y seH899
+- Deu_22:17extenderán la v delante de...ancianosH8071
+- Jue_5:30v de colores para Sísara...v bordadasH7998
+- 2Sa_20:12apartó a Amasa...echó sobre él una vH899
+- 2Re_10:22dijo al que tenía el cargo de las vH4458
+- 2Re_10:22v para todos los...de Baal...les sacó vH4403
+- 2Re_22:14mujer de Salum hijo...guarda de las vH899
+- 2Cr_34:22de Harhas, guarda de las v, la cualH899
+- Neh_7:70el gobernador dio...530 v sacerdotalesH3801
+- Neh_7:72el resto del pueblo...67 v sacerdotalesH3801
+- Job_30:18la violencia deforma mi v; me ciñeH3830
+- Job_38:9cuando puse yo nubes por v suya, y porH3830
+- Job_38:14como barro...viene a estar como con vH3830
+- Job_41:13¿quién descubrirá la...de su v? ¿QuiénH3830
+- Sal_102:26como una v se envejecerán, como unH899
+- Sal_104:2el que se cubre de luz como de v, queH8008
+- Sal_133:2Aarón, y baja hasta el borde de sus vH4060
+- Pro_31:25fuerza y honor son su v; y se ríe deH3830
+- Isa_22:21y lo vestiré de tus v, y lo ceñiré deH3847
+- Isa_30:22profanarás la...y la v de tus imágenes
+- Isa_49:18como de v de honra, serás vestida; y deH3847
+- Isa_51:8como a v los comerá polilla, como a lanaH899
+- Isa_59:17ropas de venganza por v, y se cubrió deH8516
+- Isa_61:10me vistió con v de salvación, me rodeóH899
+- Lam_4:14de modo que no pudiesen tocarse sus vH3830
+- Eze_28:13de toda piedra preciosa era tu v; deH4540
+- Eze_42:14allí dejarán sus v con que ministranH899
+- Eze_44:17vestirán v de lino; no llevarán sobreH899
+- Eze_44:19se quitarán las v con que ministraronH899
+- Eze_44:19para no santificar al pueblo con sus vH899
+- Zac_3:3y Josué estaba vestido de v viles, yH899
+- Zac_3:4habló...diciendo: Quitadle esas v vilesH899
+- Mat_11:8¿a un hombre cubierto de v delicadaG2440
+- Mat_11:8que llevan v delicadas, en las casas deG2440
+- Mat_26:65sumo sacerdote rasgó sus v, diciendoG2440
+- Mar_14:63sumo sacerdote, rasgando su v, dijoG5509
+- Luc_7:25¿a un hombre cubierto de v delicadas?[[G2440]]
+- Luc_7:25los que tienen v preciosa y viven enG2441
+- Luc_24:4aquí...dos varones con v resplandecientesG2067
+- Jua_20:12vio a dos ángeles con v blancas, queG2516
+- Hec_1:10junto a...dos varones con v blancasG2066
+- Heb_1:11todos ellos se envejecerán como una vG2440
+- Rev_3:4unas pocas...que no han manchado sus vG2440
+- Rev_3:4andarán conmigo en v blancas, porque sonG1742
+- Rev_3:5el que venciere será vestido de v blancasG2440
+- Rev_3:18de mí compres...v blancas para vestirteG2440
+- Rev_6:11se les dieron v blancas, y se les dijoG4749
+- Rev_19:16y en su v...tiene escrito este nombreG2440

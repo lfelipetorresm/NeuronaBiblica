@@ -1,0 +1,169 @@
+---
+tipo: concordancia
+palabra: RECOGER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RECOGER
+
+- Gén_29:7no es tiempo...de recoger el ganadoH622
+- Gén_31:46recoged piedras...Y tomaron piedras eH3950
+- Gén_35:29fue recogido a su pueblo, viejo y llenoH622
+- Gén_41:35recojan el trigo bajo la mano...FaraónH6908
+- Gén_41:49recogió José trigo como arena del marH6651
+- Gén_47:14recogió José todo el dinero que habíaH3950
+- Éxo_5:7vayan...y recojan por sí mismos la pajaH7197
+- Éxo_5:11id vosotros y recoged la paja donde la
+- Éxo_5:12para recoger rastrojo en lugar de pajaH7197
+- Éxo_9:19envía...recoger tu ganado, y todo lo queH5756
+- Éxo_16:4recogerá...la porción de un día, para queH3950
+- Éxo_16:5doble de lo que suelen recoger cada díaH3950
+- Éxo_16:16recoged de él cada uno según lo...comerH3950
+- Éxo_16:17así; y recogieron unos más, otros menosH3950
+- Éxo_16:18y no sobró al que había recogido mucho
+- Éxo_16:18ni faltó al que había recogido poco; cada
+- Éxo_16:18cada uno recogió conforme a...de comerH3950
+- Éxo_16:21recogian cada mañana, cada uno según loH3950
+- Éxo_16:22el sexto día recogieron doble porciónH3950
+- Éxo_16:26seis días lo recogeréis; mas el séptimoH3950
+- Éxo_16:27salieron en el séptimo día a recogerH3950
+- Éxo_23:10años sembrarás tu tierra, y recogerásH622
+- Éxo_23:16hayas recogido...frutos de tus laboresH622
+- Éxo_27:3harás...calderos para recoger la cenizaH1878
+- Lev_19:10ni recogerás el fruto caído de tu viñaH3950
+- Lev_23:39cuando hayáis recogido el fruto de laH622
+- Lev_25:3podarás tu viña y recogerás sus frutosH622
+- Lev_25:20no...ni hemos de recoger nuestros frutosH622
+- Núm_11:8el pueblo se esparcía y lo recogía, yH3950
+- Núm_11:32y recogieron codornices; el que menosH622
+- Núm_11:32el que menos, recogió diez montonesH622
+- Núm_15:32hallaron a un hombre que recogía leñaH7197
+- Núm_15:33los que le hallaron recogiendo leña, loH7197
+- Núm_19:9un hombre limpio recogerá las cenizas deH3950
+- Núm_19:10el que recogió las cenizas de la vacaH622
+- Núm_31:2haz...después serás recogido a tu puebloH622
+- Deu_11:14y recogerás tu grano, tu vino y tuH622
+- Deu_22:2recogerás en tu casa, y estará contigo
+- Deu_24:19no volverás para recogerla; será paraH3947
+- Deu_28:38sacarás mucha semilla...recogerás pocoH622
+- Deu_28:39y labrarás, pero no...ni recogerás uvasH103
+- Deu_30:3volverá a recogerte de entre todos losH6908
+- Deu_30:4de allí te recogerá Jehová tu Dios, yH6908
+- Jue_1:7setenta reyes, recogían las migajasH3950
+- Rut_2:2ir...y recogeré espigas en pos de aquelH3950
+- Rut_2:7que me dejes recoger...tras los segadoresH3950
+- Rut_2:15que recoja...espigas entre las gavillasH3950
+- Rut_2:16lo dejaréis para que lo recoja, y no laH3950
+- Rut_2:17y desgranó lo que había recogido, y fueH3950
+- Rut_2:18y su suegra vio lo que había recogidoH3950
+- 1Sa_20:38el muchacho de...recogió las saetasH3950
+- 2Sa_14:14aguas...no pueden volver a recogerseH622
+- 2Sa_21:13recogieron...los huesos de los ahorcadosH622
+- 2Sa_23:10volvió el pueblo...para recoger el botín
+- 1Re_17:10una mujer viuda...allí recogiendo leñaH7197
+- 1Re_17:12ahora recogia dos leños, para entrar yH7197
+- 2Re_4:39salió uno...recoger hierbas, y hallóH3950
+- 2Re_22:4sacerdote...y dile que recoja el dineroH622
+- 2Re_22:4el dinero...que han recogido del puebloH622
+- 2Re_22:9tus siervos han recogido el dinero queH5413
+- 2Re_22:20yo te recogeré con tus padres...en pazH622
+- 1Cr_16:35recógenos, y líbranos de...nacionesH6908
+- 2Cr_20:25tres días...recogiendo el botínH962
+- 2Cr_24:5y recoged dinero de todo Israel, paraH6908
+- 2Cr_24:11así lo hacían...y recogían mucho dineroH622
+- 2Cr_28:24recogió Acaz los utensilios de la casaH622
+- 2Cr_34:9los levitas...habían recogido de mano deH622
+- 2Cr_34:28yo te recogeré con tus...y serás recogidoH622
+- Neh_1:9os recogeré, y os traeré al lugar queH6908
+- Neh_12:44para recoger en ellas, de los ejidos deH3664
+- Est_8:2se quitó el rey el anillo que recogióH5674
+- Job_5:26como...trigo que se recoge a su tiempoH5927
+- Job_30:4recogían malvas entre los arbustos, yH6998
+- Job_34:14recogiese así su espíritu y su alientoH622
+- Job_39:12para que recoja tu semilla, y la junteH622
+- Sal_27:10dejaran, con todo, Jehoyá me recogeráH622
+- Sal_39:6riquezas, y no sabe quién las recogeráH622
+- Sal_41:6su corazón recoge para sí iniquidad, yH6908
+- Sal_104:22se recogen, y se echan en sus cuevasH622
+- Sal_104:28les das, recogen; abres tu mano, seH3950
+- Sal_106:47y recógenos de entre las naciones, paraH6908
+- Sal_147:2a los desterrados de Israel recogeráH3664
+- Pro_6:8y recoge en el tiempo de la siega suH103
+- Pro_10:5recoge en el verano es hombre entendidoH103
+- Pro_13:11recoge con mano laboriosa las aumentaH6908
+- Ecl_2:26el pecador da el trabajo de recoger yH622
+- Cnt_5:1he recogido mi mirra y mis aromas; heH717
+- Cnt_6:2descendió a su...para recoger los liriosH3950
+- Isa_10:14se recogen los huevos abandonados, asíH622
+- Isa_17:5como cuando el segador recoge la miesH622
+- Isa_17:5será...como el que recoge espigas en elH3950
+- Isa_22:9recogisteis las aguas del estanque deH6908
+- Isa_33:4despojos serán recogidos...recogen orugasH622
+- Isa_43:5del oriente...del occidente te recogeréH6908
+- Isa_54:7te recogeré con grandes misericordiasH6908
+- Jer_7:18los hijos recogen la leña, los padresH3950
+- Jer_8:2no serán recogidos ni enterrados; seránH622
+- Jer_9:22como manojo...que no hay quien lo recojaH622
+- Jer_10:17recoge de las tierras tus mercaderíasH622
+- Jer_23:3recogeré el remanente de mis ovejas deH6908
+- Jer_25:33yacerán...se endecharán ni se recogeránH622
+- Jer_40:12y recogieron vino y abundantes frutosH622
+- Jer_49:5y no habrá quien recoja a los fugitivosH6908
+- Eze_11:17yo os recogeré de los pueblos, y osH6908
+- Eze_28:25cuando recoja a la casa de Israel de losH6908
+- Eze_29:5te...no serás recogido, ni serás juntadoH6908
+- Eze_29:13recogeré a Egipto de entre los pueblosH6908
+- Eze_29:19y recogerá sus despojos, y arrebataráH962
+- Eze_36:24os recogeré de todas las tierras, y osH6908
+- Eze_37:21y los recogeré de todas partes, y losH6908
+- Eze_38:8vendrás a la...recogida de muchos pueblosH6908
+- Eze_38:12sobre el pueblo recogido de entre lasH622
+- Ose_9:6Egipto los recogerá, Menfis...enterraráH6908
+- Amó_7:14soy boyero, y recojo higos silvestresH1103
+- Miq_2:12recogeré...resto de Israel; lo reuniréH6908
+- Miq_4:6la que cojea, y recogeré la descarriadaH6908
+- Miq_6:14comerás, y no...recogerás, mas no salvarásH5253
+- Miq_7:1como cuando han recogido los frutos delH622
+- Nah_2:11donde se recogía el león y la leona
+- Hab_1:9vendrá...recogerá cautivos como arenaH622
+- Hab_1:15los recogerá con su red, y los juntaráH622
+- Sof_3:19que cojea, y recogeré la descarriadaH6908
+- Hag_1:6sembráis mucho, y recogéis pocoH935
+- Zac_10:10recogeré de Asiria; y los traeré aH6908
+- Mat_3:12y recogerá su trigo en el granero, yG4863
+- Mat_6:26aves...ni siegan, ni recogen en granerosG4863
+- Mat_7:16¿acaso se recogen uvas de los espinos, oG4816
+- Mat_12:30y el que conmigo no recoge, desparramaG4863
+- Mat_13:30recoged primero la cizaña, y atadía enG4816
+- Mat_13:30la cizafía...pero recoged el trigo en miG4863
+- Mat_13:41recogerán...los que sirven de tropiezoG4816
+- Mat_13:47red, que...recoge de toda clase de pecesG4863
+- Mat_13:48recogen lo bueno en cestas, y lo maloG4816
+- Mat_14:20recogieron lo que...doce cestas llenasG142
+- Mat_15:37recogieron lo que sobró...siete canastasG142
+- Mat_16:9os acordáis...cuántas cestas recogisteis?[[G2983]]
+- Mat_16:10panes...cuántas canastas recogisteis?[[G2983]]
+- Mat_25:24siegas...y recoges donde no esparcisteG4823
+- Mat_25:26sabías...y que recojo donde no esparcíG4863
+- Mat_25:35tuve sed...forastero, y me recogisteisG4863
+- Mat_25:38¿y cuándo te...forastero, y te recogimosG4863
+- Mat_25:43forastero, y no me recogisteis; estuveG4863
+- Mar_6:43recogieron de los pedazos doce cestasG142
+- Mar_8:8y recogieron de los pedazos...7 canastasG142
+- Mar_8:19¿cuántas cestas llenas de...recogisteis?[[G142]]
+- Mar_8:20¿cuántas canastas llenas de...recogisteis?[[G142]]
+- Luc_3:17y recogerá el trigo en su granero, yG4863
+- Luc_9:17saciaron; y recogieron lo que les sobróG142
+- Luc_11:23el que conmigo no recoge, desparramaG4863
+- Jua_4:36y recoge fruto para vida eterna, paraG4863
+- Jua_6:12recoged los pedazos que sobraron, paraG4863
+- Jua_6:13recogieron, pues, y llenaron doce cestasG4863
+- Jua_15:6y los recogen, y los echan en el fuegoG4863
+- Hec_7:21hija de Faraón le recogió y le crioG337
+- Hec_10:16aquel lienzo volvió a ser recogido enG353
+- Hec_20:13Asón para recoger allí a Pablo, ya queG353
+- Hec_27:16dificultad pudimos recoger el esquife
+- Hec_28:3habiendo recogido Pablo algunas ramasG4962
+- 1Co_16:2que cuando yo llegue no se recojanG3048
+- 2Co_8:15el que recogió mucho, no tuvo más

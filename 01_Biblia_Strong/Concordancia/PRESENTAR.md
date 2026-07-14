@@ -1,0 +1,148 @@
+---
+tipo: concordancia
+palabra: PRESENTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PRESENTAR
+
+- Gén_41:46fue presentado delante de Faraón rey
+- Gén_43:15Egipto, y se presentaron delante de JoséH4503
+- Gén_47:2tomó...y los presentó delante de FaraónH3322
+- Gén_47:7a Jacob...lo presentó delante de FaraónH5975
+- Éxo_22:8el dueño...será presentado a los juecesH7126
+- Éxo_23:15ninguno se presentará...las manos vacíasH7200
+- Éxo_23:17presentará todo varón delante de JehováH7200
+- Éxo_29:23de los panes sin...presentado a JehováH6440
+- Éxo_32:6ofrecieron...presentaron ofrendas de pazH5066
+- Éxo_34:2preséntate ante mí sobre la cumbre delH5324
+- Éxo_34:20ninguno se presentará...las manos vacíasH7200
+- Éxo_34:23tres veces en el año se presentará todoH7200
+- Éxo_34:24cuando subas para presentarte delanteH7200
+- Éxo_35:22presentaban ofrenda de oro a JehováH5130
+- Lev_1:14presentará su ofrenda de tórtolas, oH7126
+- Lev_2:8y la presentaras al sacerdote, el cual laH7126
+- Lev_2:13sazonarás con sal...ofrenda que presentes
+- Lev_4:23presentará por...ofrenda un macho cabríoH935
+- Lev_7:13con tortas de pan...presentará su ofrendaH7133
+- Lev_7:14de toda la ofrenda presentará una parte
+- Lev_9:12los hijos de...le presentaron la sangreH4672
+- Lev_9:13le presentaron el holocausto pieza porH4672
+- Lev_9:18los hijos de...lo presentaron la sangreH4672
+- Lev_14:11presentará delante de Jehová al que seH5975
+- Lev_16:7dos...cabríos y los presentará delante deH5975
+- Lev_16:10presentará vivo delante de Jehová paraH5975
+- Lev_23:20presentará como ofrenda mecida delante
+- Núm_5:9toda ofrenda...presentaren al sacerdoteH7126
+- Núm_5:30la presentará...delante de Jehová, y elH5975
+- Núm_8:13y presentarás a los levitas delante de
+- Núm_15:4que presente su ofrenda a Jehová traeráH7126
+- Núm_18:9toda expiación...que me han de presentar
+- Núm_18:12las primicias...que presentarán a JehováH6213
+- Núm_18:26presentaréis de ellos en ofrenda mecidaH8641
+- Núm_27:2presentaron delante de Moisés y delanteH5975
+- Núm_28:26presentéis ofrenda nueva a Jehová enH7126
+- Deu_11:32decretos que yo presento hoy delanteH5414
+- Deu_16:16ninguno se presentará...las manos vacíasH7200
+- Deu_19:17dos litigantes se presentarán delanteH5975
+- Deu_26:3te presentarás al sacerdote que hubiere
+- Deu_31:11viniere...Israel a presentarse delanteH7200
+- Jos_20:4presentará a la puerta de la ciudadH5975
+- Jos_24:1llamó...y se presentaron delante de DiosH3320
+- Jue_5:25en tazón de nobles le presentó cremaH7126
+- Jue_6:19se lo presentó debajo de aquella encinaH3318
+- Jue_9:33tú harás, según se presente la ocasiónH4372
+- 1Sa_1:22lo lleve y sea presentado delante deH7200
+- 1Sa_4:2filisteos presentaron la batalla a Israel
+- 1Sa_10:19ahora...presentaos delante de Jehová porH3320
+- 2Sa_10:9viendo...se le presentaba la batalla
+- 2Sa_14:2preséntate como una mujer que...de duelo
+- 1Re_3:15presentó delante del arca del pactoH5975
+- 1Re_3:16rameras, y se presentaron delante de élH5975
+- 1Re_20:33Ben-adad entonces se presentó a AcabH3318
+- 2Cr_1:10presentarme delante de este pueblo
+- 2Cr_20:9nos presentaremos delante de esta casaH5975
+- 2Cr_29:21y presentaron siete novillos...carnerosH5975
+- 2Cr_29:31presentad sacrificios y alabanzas enH935
+- 2Cr_29:31y la multitud presentó sacrificios yH935
+- Job_1:6presentarse delante de Jehová los hijosH3320
+- Job_2:1los hijos de...para presentarse delante deH3320
+- Job_30:20clamo a...me presento, y no me atiendesH5975
+- Job_31:37y como príncipe me presentaría ante él
+- Sal_5:3de mañana me presentaré delante de tiH5186
+- Sal_42:2¿cuándo...me presentaré delante de Dios?[[H7200]]
+- Sal_88:13mi oración se presentará delante de tiH6923
+- Isa_1:12cuando venís a presentaras delante deH7200
+- Isa_41:21presentad vuestras pruebas, dice el ReyH5066
+- Isa_43:9presenten sus testigos, y justifíquense
+- Isa_44:11ellos se juntarán, se presentarán, se
+- Jer_42:9me enviasteis para presentar...ruegosH5307
+- Eze_20:28presentaron ofrendas que me irritanH5414
+- Eze_44:30toda ofrenda de todo lo que se presenteH5975
+- Dan_1:5al fin de ellos se presentasen delanteH5975
+- Dan_2:2a magos...y se presentaron delante del reyH5975
+- Miq_6:6¿con qué me presentaré ante Jehová, yH6924
+- Miq_6:6¿me presentaré ante él con holocaustos
+- Zac_6:5salen después de presentarse delanteH3320
+- Mal_1:8preséntalo, pues, a tu príncipeH5066
+- Mal_1:13trajisteis lo...y presentasteis ofrendaH4503
+- Mat_5:24y entonces ven y presenta tuG4374
+- Mat_8:4presenta la ofrenda que ordenó MoisésG4374
+- Mat_14:11la cabeza...y ella la presentó a su madreG5342
+- Mat_18:24fue presentado uno que le debía 10.000G4374
+- Mat_19:13le fueron presentados unos niños, paraG4374
+- Mat_22:19mostradme la...le presentaron un denarioG4374
+- Mat_26:60muchos testigos falsos se presentabanG4334
+- Mar_10:13y le presentaban niños para que losG4374
+- Mar_10:13reprendían a los que los presentabanG4374
+- Luc_2:9se les presentó un ángel del Señor, yG2186
+- Luc_2:22le trajeron...para presentarle al SeñorG3936
+- Luc_2:38presentándose en...daba gracias a DiosG2186
+- Luc_5:12se presentó un hombre lleno de lepra, elG1189
+- Luc_6:29una mejilla, preséntale también la otraG3930
+- Luc_22:47él aún hablaba, se presentó una turbaG2400
+- Luc_23:14dijo: Me habéis presentado a éste comoG2400
+- Luc_23:36le escarnecían...presentándole vinagreG4374
+- Jua_21:4se presentó Jesús en la playa; mas losG2476
+- Hec_1:3a quienes también...se presentó vivo
+- Hec_5:27trajeron, los presentaron en el concilioG2476
+- Hec_6:6presentaron ante los apóstoles, quienesG2476
+- Hec_7:26se presentó a unos de ellos que reñían
+- Hec_9:41llamando a los santos...la presentó vivaG3936
+- Hec_12:7se presentó un ángel del Señor, y unaG2186
+- Hec_16:20presentándolos a...magistrados, dijeronG4317
+- Hec_19:31recado, rogándole que no se presentaseG1325
+- Hec_21:26presentarse la ofrenda por cada uno deG4374
+- Hec_22:25Pablo dijo al centurión que estaba presenteG2476
+- Hec_22:30sacando a Pablo, le presentó ante ellosG2476
+- Hec_23:11se le presentó el Señor y le dijo: TenG2186
+- Hec_23:33presentaron también a Pablo delante deG3936
+- Hec_24:17a hacer limosnas...y presentar ofrendas
+- Hec_25:2se presentaron ante él contra Pablo, yG3870
+- Hec_25:7presentando contra él muchas y gravesG5342
+- Hec_25:15fui...se me presentaron los principales
+- Hec_25:18ningún cargo presentaron de los que yoG2018
+- Rom_6:13tampoco presentéis vuestros miembrosG3936
+- Rom_6:13presentaos vosotros mismos a Dios comoG3936
+- Rom_6:19así como...presentasteis vuestros miembrosG3936
+- Rom_6:19presentad vuestros miembros para servirG3936
+- Rom_12:1presentéis...cuerpos en sacrificio vivoG3936
+- 1Co_4:6lo he presentado como ejemplo en míG3345
+- 1Co_9:18presente gratuitamente el evangelio de
+- 2Co_4:14presentará juntamente con vosotrosG3936
+- 2Co_11:2para presentaros como una virgen puraG3936
+- Gál_3:1ante cuyos ojos Jesucristo...presentadoG4270
+- Efe_5:27a fin de presentársela a sí mismo, unaG3936
+- Col_1:22para presentaros santos y sin manchaG3936
+- Col_1:28a fin de presentar perfecto en CristoG3936
+- 2Ti_2:15procura...presentarte a Dios aprobadoG3936
+- Tit_2:7presentándote...como ejemplo de buenas
+- Heb_5:1para que presente ofrendas y sacrificiosG4374
+- Heb_8:3presentar ofrendas y sacrificios; por loG4374
+- Heb_8:4aún sacerdotes que presentan las ofrendasG4374
+- Heb_9:9según el cual se presentan ofrendas yG1764
+- Heb_9:24para presentarse...por nosotros ante DiosG1718
+- Heb_9:26se presentó una vez para siempre por elG5319
+- 1Pe_3:15presentar defensa con mansedumbre y
+- Jud_1:24presentaras sin mancha delante de suG2476

@@ -1,0 +1,293 @@
+---
+tipo: concordancia
+palabra: OVEJA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# OVEJA
+
+- Gén_4:2fue pastor de o, y Caín fue labrador deH6629
+- Gén_4:4Abel trajo...de los primogénitos de sus oH6629
+- Gén_12:16tuvo o, vacas, asnos, siervos, criadasH6629
+- Gén_13:5también Lot...tenía o, vacas y tiendasH6629
+- Gén_20:14tomó o y vacas...y se los dio a AbrahamH6629
+- Gén_21:27y tomó Abraham o y...y dio a AbimelecH6629
+- Gén_24:35Jehová...le ha dado o y vacas, plata yH6629
+- Gén_26:14y tuvo hato de o, y hato de vacas, yH6629
+- Gén_29:2aquí tres rebaños de o que yacían cercaH6629
+- Gén_29:3y abrevaban las o, y volvían la piedraH6629
+- Gén_29:6he aquí Raquel su hija viene con las oH6629
+- Gén_29:7dijo...abrevad las o, e id a apacentarlasH6629
+- Gén_29:8y renuevan la piedra...abrevemos las oH6629
+- Gén_29:10Raquel...y las o de Labán el hermano deH6629
+- Gén_30:31si hicieres...volveré a apacentar tus oH6629
+- Gén_30:32poniendo aparte todas las o manchadasH3775
+- Gén_30:32de color, y todas las o de color oscuroH3775
+- Gén_30:33de color oscuro entre mis o, se me haH3775
+- Gén_30:35las de color oscuro entre las o, y lasH3775
+- Gén_30:36y Jacob apacentaba las otras o de LabánH6629
+- Gén_30:38donde venían a beber las o, las cualesH6629
+- Gén_30:39así concebían las o delante de las varasH6629
+- Gén_30:40hato...y no la ponía con las o de LabánH6629
+- Gén_30:41se hallaban en celo las o más fuertesH6629
+- Gén_30:41Jacob ponía las varas delante de las oH6629
+- Gén_30:42pero cuando venían las o más débilesH6629
+- Gén_30:43se enriqueció el varón...y tuvo muchas oH6629
+- Gén_31:4y a Lea al campo donde estaban sus oH6629
+- Gén_31:8las o parían pintados...o parían listadosH6629
+- Gén_31:10que al tiempo que las o estaban en celoH6629
+- Gén_31:19pero Labán había ido a trasquilar sus oH6629
+- Gén_31:38tus o y...ni yo comí carnero de tus oH6629
+- Gén_31:43las o son mis o, y todo lo que tú vesH6629
+- Gén_32:5y tengo vacas...o, y siervos y siervasH6629
+- Gén_32:7las o y las vacas...en dos campamentosH6629
+- Gén_32:14veinte machos cabríos, doscientas o yH7353
+- Gén_33:13que tengo o y vacas paridas; y si lasH6629
+- Gén_33:13fatigan, en un día morirán todas las oH6629
+- Gén_34:28tomaron sus o y vacas y sus asnos, y loH6629
+- Gén_37:2José...apacentaba las o con sus hermanosH6629
+- Gén_37:12fueron sus hermanos a apacentar las oH6629
+- Gén_37:13tus hermanos apacientan las o en Siquem
+- Gén_37:14mira cómo están...y cómo están las o, yH6629
+- Gén_38:12subía a los trasquiladores de sus oH1494, [[H6629]]
+- Gén_38:13tu suegro sube a...a trasquilar sus oH6629
+- Gén_46:32son pastores de o...y han traído sus oH6629
+- Gén_46:34para...es abominación todo pastor de oH7462, [[H6629]]
+- Gén_47:1mi padre y mis...y sus o...han venido deH6629
+- Gén_47:3a Faraón: Pastores de o son tus siervosH7462, [[H6629]]
+- Gén_47:4no hay pasto para las o de tus siervosH6629
+- Gén_47:17y José les dio...por el ganado de las oH6629
+- Gén_50:8dejaron en...de Gosén sus niños, y sus oH6629
+- Éxo_2:16vinieron a...dar de beber a las o de suH6629
+- Éxo_2:17y las defendió, y dio de beber a sus oH6629
+- Éxo_2:19nos sacó el agua, y dio de beber a las oH6629
+- Éxo_3:1apacentando Moisés...o de Jetro su suegroH6629
+- Éxo_3:1o a través del desierto, y llegó hastaH6629
+- Éxo_9:3sobre tus...vacas y o, con plaga gravísimaH6629
+- Éxo_10:9ir...con nuestras o y con nuestras vacasH6629
+- Éxo_10:24queden vuestras o y vuestras vacasH6629
+- Éxo_12:5lo tomaréis de las o o de las cabrasH3532
+- Éxo_12:32tomad también vuestras o y...vacas, comoH6629
+- Éxo_12:38multitud de toda clase de gentes, y oH6629
+- Éxo_20:24y sacrificarás sobre él...tus o y tusH6629
+- Éxo_22:1alguno hurtare buey u o, y lo degollareH7716
+- Éxo_22:1pagará cinco...y por aquella o cuatro oH6629
+- Éxo_22:4el hurto en la mano...sea buey o asno u oH7716
+- Éxo_22:9en toda clase de fraude, sobre buey...oH7716
+- Éxo_22:10si alguno hubiere dado...o,...a guardarH7716
+- Éxo_22:30lo mismo harás...de tu buey y de tu oH6629
+- Éxo_34:3ni o ni bueyes pazcan delante del monteH6629
+- Éxo_34:19mío es...todo primogénito de vaca o deH7716
+- Lev_1:10su ofrenda...fuere del rebaño, de las oH3775
+- Lev_3:6si de o fuere su ofrenda para sacrificioH6629
+- Lev_22:21sea de...o de o, para que sea aceptadoH6629
+- Lev_22:28sea...o, no degollaréis en un mismo díaH7716
+- Lev_27:26el primogénito...buey u o, de Jehová esH7716
+- Lev_27:32y todo diezmo de vacas o de o, de todoH6629
+- Núm_11:22¿se degollarán para ellos o y bueyesH6629
+- Núm_15:3ofrecer en...olor grato...de vacas o de oH6629
+- Núm_15:11así se hará con cada...cordero de las oH7716
+- Núm_18:17primogénito de o y...cabra, no redimirásH3775
+- Núm_22:40Balac hizo matar bueyes y o, y envió aH6629
+- Núm_27:17congregación...no sea como o sin pastorH6629
+- Núm_31:28así de las personas como de...de las oH6629
+- Núm_31:30tomarás...de las o y de todo animal, yH6629
+- Núm_31:32y fue el botín...que tomaron...675.000 oH6629
+- Núm_31:36la mitad...fue el número de 337.500 oH6629
+- Núm_31:37el tributo de las o para Jehová fue 675H6629
+- Núm_31:43mitad para la congregación...o, 337.500H6629
+- Núm_32:24edificaos...majadas para vuestras o, yH6792
+- Núm_32:36Bet-nimra y Bet-arán...majadas para oH6629
+- Deu_7:13bendecirá...los rebaños de tus o, enH6629
+- Deu_8:13vacas y tus o se aumenten, y la plata yH6629
+- Deu_12:6las primicias de...vacas y de vuestras oH6629
+- Deu_12:17ni las primicias de tus...o, ni los votosH6629
+- Deu_12:21podrás matar...o que Jehová te hubiereH6629
+- Deu_14:4podréis comer: El buey, la o, la cabraH3775
+- Deu_14:26darás el dinero...por o, por vino, porH6629
+- Deu_15:14le abastecerás...de tus o, de tu era yH6629
+- Deu_15:19consagrarás...todo primogénito...de tus oH6629
+- Deu_15:19ni trasquilarás el primogénito de tus oH6629
+- Deu_16:2sacrificarás la pascua...de las o y de lasH6629
+- Deu_18:4primicias de la lana de tus o le darásH6629
+- Deu_28:4bendito el fruto...los rebaños de tus oH6629
+- Deu_28:18maldito el fruto de...rebaños de tus oH6629
+- Deu_28:31tus o serán dadas a tus enemigos, y noH6629
+- Deu_28:51no te dejará...ni los rebaños de tus oH6629
+- Deu_32:14mantequilla de vacas y leche de o, conH6629
+- Jos_6:21y destruyeron...los bueyes, las o, yH7716
+- Jos_7:24tomaron a Acán hijo...sus o, su tiendaH6629
+- Jue_6:4no dejaban...ni o, ni bueyes, ni asnosH7716
+- 1Sa_14:32tomaron o y vacas y becerros, y losH6629
+- 1Sa_14:34me traigan cada uno su vaca, y...su oH7716
+- 1Sa_15:3mata a hombres, mujeres...o, camellos yH7716
+- 1Sa_15:9perdonaron a Agag, y a lo mejor de las oH6629
+- 1Sa_15:14¿pues qué balido de o...es este que yoH6629
+- 1Sa_15:15el pueblo perdonó lo mejor de las o yH6629
+- 1Sa_15:21el pueblo tomó del botín o y vacas, lasH6629
+- 1Sa_16:11queda aún el menor, que apacienta las oH6629
+- 1Sa_16:19envíame a David tu,...que está con las oH6629
+- 1Sa_17:15apacentar las o de su padre en BelénH6629
+- 1Sa_17:20dejando las o al cuidado de un guardaH6629
+- 1Sa_17:28¿y a quién has dejado aquellas pocas oH6629
+- 1Sa_17:34siervo era pastor de las o de su padreH5739
+- 1Sa_22:19bueyes, asnos y o, todo lo hirió a filoH7716
+- 1Sa_24:3cuando llegó a...redil de o en el caminoH1448, [[H6629]]
+- 1Sa_25:2muy rico, y tenía tres mil o y mil cabrasH6629
+- 1Sa_25:2aconteció que estaba esquilando sus o enH6629
+- 1Sa_25:4oyó David en...que Nabal esquilaba sus oH6629
+- 1Sa_25:16que hemos estado con...apacentando las oH6629
+- 1Sa_25:18tomó...cinco o guisadas, cinco medidasH6629
+- 1Sa_27:9se llevaba las o, las vacas, los asnosH6629
+- 1Sa_30:20tomó también David...las o y el ganadoH6629
+- 2Sa_7:8te tomé del redil, de detrás de las oH6629
+- 2Sa_12:2el rico tenía numerosas o y vacasH6629
+- 2Sa_12:4no quiso tornar de sus o y de sus vacasH6629
+- 2Sa_12:4sino que tomó la o de aquel hombre pobreH6629
+- 2Sa_17:29miel, manteca, o, y quesos de vaca paraH6629
+- 2Sa_24:17hice la maldad; ¿qué hicieron estas o?[[H6629]]
+- 1Re_1:9matando Adonías o y vacas y animalesH6629
+- 1Re_1:19, 1Re_1:25ha matado...muchas o, y ha convidadoH6629
+- 1Re_4:23bueyes de pasto y cien o; sin los ciervosH6629
+- 1Re_8:5estaban con él...sacrificando o y bueyesH6629
+- 1Re_8:63ofreció...120.000 o...Así dedicaron el reyH6629
+- 1Re_22:17yo vi a todo Israel esparcido...como oH6629
+- 2Re_5:26tomar...o, bueyes, siervos y siervas?[[H6629]]
+- 1Cr_5:21y tomaron...250.000 o y 2.000 asnosH6629
+- 1Cr_12:40trajeron...y bueyes y o en abundanciaH6629
+- 1Cr_17:7te tomé del redil, de detrás de las oH6629
+- 1Cr_21:17el mal; pero estas o, ¿qué han hecho?[[H6629]]
+- 1Cr_27:31y de las o, Jaziz agareno...Todos estosH6629
+- 2Cr_5:6sacrificaron o...que por ser tantos noH6629
+- 2Cr_7:5y ofreció el rey Salomón en...120.000 oH6629
+- 2Cr_14:15y se llevaron muchas o y camellos, yH6629
+- 2Cr_15:11sacrificaron...700 bueyes y siete mil oH6629
+- 2Cr_18:2que Acab mató muchas o y bueyes para élH6629
+- 2Cr_18:16por los montes como o sin pastor; y dijoH6629
+- 2Cr_29:33las ofrendas fueron 600...y tres mil oH6629
+- 2Cr_30:24el rey Ezequías...había dado...siete mil oH6629
+- 2Cr_30:24los príncipes dieron al...y diez mil oH6629
+- 2Cr_31:6dieron...diezmos de las vacas y de las oH6629
+- 2Cr_32:29ciudades, y hatos de o y de vacas enH6629
+- 2Cr_35:7y dio él rey Josías a los del pueblo oH6629
+- 2Cr_35:8para celebrar la pascua, 2.600 o y 300
+- 2Cr_35:9sacrificios...pascua, 5.000 o y 500 bueyes
+- Neh_3:1edificaron la puerta de las O...EllosH6629
+- Neh_3:32entre la sala de...y la puerta de las OH6629
+- Neh_5:18se preparaba...un buey y seis o escogidasH6629
+- Neh_10:36que traeríamos los primogénitos de...oH6629
+- Neh_12:39torre de Hamea, hasta la puerta de...OH6629
+- Job_1:3su hacienda era siete mil o, tres milH6629
+- Job_1:16fuego...que quemó las o y a...los pastoresH6629
+- Job_31:20si...del vellón de mis o se calentaronH3532
+- Job_42:12porque tuvo 14.000 o, 6.000 camellosH6629
+- Sal_8:7o y bueyes, todo ello, y asimismo lasH6792
+- Sal_44:11nos entregas como o al matadero, y nosH6629
+- Sal_44:22somos contados como o para el mataderoH6629
+- Sal_74:1se ha encendido tu furor contra las oH6629
+- Sal_77:20condujiste a tu pueblo como o por manoH6629
+- Sal_78:52hizo salir a su pueblo como o, y losH6629
+- Sal_78:70y lo tomó de las majadas de las o; deH4356, [[H6629]]
+- Sal_79:13nosotros, pueblo tuyo, y o de tu pradoH6629
+- Sal_80:1tú que pastoreas como a o a José, queH6629
+- Sal_95:7el pueblo de su prado, y o de su manoH6629
+- Sal_100:3él...pueblo suyo somos, y o de su pradoH6629
+- Sal_107:41y hace multiplicar...como rebaños de oH6629
+- Sal_119:176yo anduve errante como o extraviadaH7716
+- Pro_27:23sé diligente en conocer el...de tus oH6629
+- Ecl_2:7tuve posesión grande de vacas y de oH4735
+- Cnt_4:2; Cnt_6:6tus dientes como manadas de oH7353
+- Isa_1:11no quiero sangre de bueyes, ni de oH3532
+- Isa_7:21que criará un hombre una vaca y dos oH6629
+- Isa_13:14y como o sin pastor, cada cual miraráH6629
+- Isa_22:13alegría, matando vacas y degollando oH6629
+- Isa_53:6todos nosotros nos descarriamos como oH6629
+- Isa_53:7como o...enmudeció, y no abrió su bocaH7353
+- Isa_61:5extranjeros apacentarán vuestras o, yH6629
+- Isa_65:10será Sarón para habitación de o, y elH6629
+- Isa_66:3el que sacrifica o, como si degollase unH7713
+- Jer_3:24o, sus vacas, sus hijos y sus hijasH6629
+- Jer_5:17comerá tus o y tus vacas, comerá...viñasH6629
+- Jer_12:3arrebátalos como a o para...la matanzaH6629
+- Jer_23:1pastores...dispersan las o de mi rebaño![[H6629]]
+- Jer_23:2dispersasteis mis o, y las espantasteisH6629
+- Jer_23:3yo mismo recogeré el remanente de mis oH6629
+- Jer_31:12y al ganado de las o y de las vacasH6629
+- Jer_50:6o perdidas fueron mi pueblo...pastoresH6629
+- Eze_24:5una o escogida...enciende los huesosH6629
+- Eze_25:5y a los hijos de Amón por majada de oH6629
+- Eze_34:3coméis la grosura...no apacentáis a las oH6629
+- Eze_34:6anduvieron perdidas mis o por todos losH6629
+- Eze_34:6de la tierra fueron esparcidas mis o, yH6629
+- Eze_34:8y mis o fueron para ser presa de todasH6629
+- Eze_34:8ni mis pastores buscaron mis o, sino queH6629
+- Eze_34:8apacentaron a sí...y no apacentaron mis oH6629
+- Eze_34:10demandaré mis o de su mano, y les haréH6629
+- Eze_34:10les haré dejar de apacentar las o; niH6629
+- Eze_34:10yo libraré mis o de sus bocas, y no lesH6629
+- Eze_34:11iré a buscar mis o, y las reconoceréH6629
+- Eze_34:12que está en medio de sus o esparcidasH6629
+- Eze_34:12así reconoceré mis o, y las libraré deH6629
+- Eze_34:15apacentaré mis o, y yo les daré apriscoH6629
+- Eze_34:17vosotras, o mías, así ha dicho JehováH6629
+- Eze_34:17yo juzgo entre o y o, entre carneros yH7716
+- Eze_34:19mis o comen lo hollado de vuestros piesH6629
+- Eze_34:20yo juzgaré entre la o engordada y la oH7716
+- Eze_34:22salvaré a mis o...y juzgaré entre o y oH6629, [[[[H6629]]]]
+- Eze_34:31y vosotras, o mías, o de mi pasto soisH6629
+- Eze_36:38como las o consagradas, como las o deH6629
+- Ose_5:6con sus o...andarán buscando a JehováH6629
+- Joe_1:18fueron asolados los rebaños de las oH6629, [[H5739]]
+- Jon_3:7bueyes y o, no gusten cosa alguna; noH6629
+- Miq_2:12reuniré como o de Bosra, como rebañoH6629
+- Miq_5:8cachorro de...entre las manadas de las oH6629
+- Hab_3:17las o sean quitadas de la majada, yH6629
+- Sof_2:6será la costa del mar...corrales de oH6629
+- Zac_10:2el pueblo vaga como o, y sufre porqueH6629
+- Zac_11:4ha dicho...Apacienta las o de la matanzaH6629
+- Zac_11:7apacenté...las o de la matanza, esto esH6629
+- Zac_11:7para mí,dos cayados...y apacenté las oH6629
+- Zac_13:7hiere al pastor, y serán dispersadas...oH6629
+- Mat_7:15profetas, que vienen...vestidos de oG4263
+- Mat_9:36dispersas como o que no tienen pastorG4263
+- Mat_10:6id antes a las o perdidas de la casa deG4263
+- Mat_10:16yo os envío como a o en medio de lobosG4263
+- Mat_12:11que tenga una o, y si ésta cayere enG4263
+- Mat_12:12¿cuánto más vale un hombre que una o?[[G4263]]
+- Mat_15:24no soy enviado sino a las o...de IsraelG4263
+- Mat_18:12os parece? Si un hombre tiene cien oG4263
+- Mat_25:32como aparta el...las o de los cabritosG4263
+- Mat_25:33pondrá las o a su derecha...cabritos aG4263
+- Mat_26:31y las o del rebaño serán dispersadasG4263
+- Mar_6:34eran como o que no tenían pastor; yG4263
+- Mar_14:27heriré al...y las o serán dispersadasG4263
+- Luc_15:4qué hombre...teniendo cien o, si pierdeG4263
+- Luc_15:6he encontrado mi o que se había perdidoG4263
+- Jua_2:14el templo a los que vendían bueyes, oG4263
+- Jua_2:15echó fuera del templo a...o y los bueyesG4263
+- Jua_5:2cerca de la puerta de las o, un estanqueG4262
+- Jua_10:1que no entra por...en el redil de las oG833, [[G4263]]
+- Jua_10:2que entra por la...el pastor de las o esG4263
+- Jua_10:3las o oyen su voz; y a sus o llama porG4263
+- Jua_10:4las o le siguen, porque conocen su vozG4263
+- Jua_10:7de cierto os...Yo soy la puerta de las oG4263
+- Jua_10:11ladrones son...pero no los oyeron las oG4263
+- Jua_10:11el buen pastor su vida da por las oG4263
+- Jua_10:12de quien no son propias las o, ve venirG4263
+- Jua_10:12deja las o y huye, y el lobo arrebataG4263
+- Jua_10:12el lobo arrebata las o y las dispersaG4263
+- Jua_10:13es asalariado, y no le importan las oG4263
+- Jua_10:14y conozco mis o, y las mías me conocen
+- Jua_10:15yo conozco...y pongo mi vida por las oG4263
+- Jua_10:16tengo otras o que no son de este redilG4263
+- Jua_10:26no creéis, porque no sois de mis o, comoG4263
+- Jua_10:27mis o oyen mi voz, y yo las conozco, yG4263
+- Jua_21:16que te amo...Le dijo: Pastorea mis oG4263
+- Jua_21:17te amo...Jesús le dijo: Apacienta mis oG4263
+- Hec_8:32leía, Como o a la muerte fue llevadoG4263
+- Rom_8:36escrito...contados como o de mataderoG4263
+- Heb_11:37anduvieron...cubiertos de pieles de oG3374
+- Heb_13:20a Jesucristo, el gran pastor de las oG4263
+- 1Pe_2:25vosotros erais como o descarriadasG4263
+- Rev_18:13o, caballos y carros, y esclavosG4263

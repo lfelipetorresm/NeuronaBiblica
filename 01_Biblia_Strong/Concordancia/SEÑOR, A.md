@@ -1,0 +1,1448 @@
+---
+tipo: concordancia
+palabra: SEÑOR, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SEÑOR, A
+
+- Gén_15:2S Jehová, ¿qué me darás, siendo asíH136
+- Gén_15:8S Jehová, ¿en qué conoceré que la he deH136
+- Gén_16:4cuando vio...miraba con desprecio a su sH1404
+- Gén_16:8respondió: Huyo de delante de Sarai mi sH1404
+- Gén_16:9vuélvete a tu s, y ponte sumisa bajo suH1404
+- Gén_18:3dijo: S, si ahora he hallado gracia enH136
+- Gén_18:12tendré deleite, siendo...mi s ya viejo?[[H113]]
+- Gén_18:27he comenzado a hablar a mi S, aunqueH136
+- Gén_18:30, Gén_18:32no se enoje ahora mi S, si hablareH136
+- Gén_18:31he emprendido el hablar a mi S: quizáH136
+- Gén_19:2mis s, os ruego que vengáis a casa deH113
+- Gén_19:18Lot les dijo: No, yo os ruego, s míosH113
+- Gén_20:4dijo: S, ¿matarás también al inocente?[[H136]]
+- Gén_23:6óyenos, s nuestro; eres un príncipe deH113
+- Gén_23:11s mío, óyeme; te doy la heredad, y teH113
+- Gén_23:15s mío, escúchame: la tierra vale 400H113
+- Gén_24:9puso su mano debajo del muslo de...su sH113
+- Gén_24:10tomó diez...de los camellos de su s, yH113
+- Gén_24:10tomando...de regalos escogidos de su sH113
+- Gén_24:12Dios de mi s Abraham, dame, te ruegoH113
+- Gén_24:12y haz misericordia con mi s AbrahamH113
+- Gén_24:14que habrás hecho misericordia con mi sH113
+- Gén_24:18bebe, s mío; y se dio prisa a bajar suH113
+- Gén_24:36dio a luz en su vejez un hijo a mi sH113
+- Gén_24:42Dios de mi s Abraham, si tú prosperasH113
+- Gén_24:44que destinó Jehová para el hijo de mi sH113
+- Gén_24:48y bendije a Jehová Dios de mi s AbrahamH113
+- Gén_24:48para tomar la hija del hermano de mi sH113
+- Gén_24:49hacéis misericordia y verdad con mi sH113
+- Gén_24:51sea mujer del hijo de tu s, como lo haH113
+- Gén_24:54levantándose de...dijo: Enviadme a mi sH113
+- Gén_24:56despachadme para que me vaya a mi sH113
+- Gén_24:65criado había respondido: Este es mi sH113
+- Gén_27:29s de tus hermanos, y se inclinen ante tiH1376
+- Gén_27:37le he puesto por s tuyo, y le he dadoH1376
+- Gén_31:35ella dijo...No se enoje mi s, porque noH113
+- Gén_32:4así diréis a mi s Esaú: Así dice...JacobH113
+- Gén_32:5y envío a decirlo a mi s, para hallarH113
+- Gén_32:18es un presente...que envía a mi s EsaúH113
+- Gén_33:8el hallar gracia en los ojos de mi sH113
+- Gén_33:13mi s sabe que los niños son tiernos, yH113
+- Gén_33:14pase ahora mi s delante de su siervoH113
+- Gén_33:14me iré...hasta que llegue a mi s a SeirH113
+- Gén_33:15halle yo gracia en los ojos de mi sH113
+- Gén_39:8mi s no se preocupa conmigo de lo queH113
+- Gén_39:16la ropa de José, hasta que vino su sH113
+- Gén_40:1y el panadero delinquieron contra su sH113
+- Gén_40:7con él en la prisión de la casa de su sH113
+- Gén_42:6José era el s de la tierra...le vendía aH7989
+- Gén_42:10respondieron: No, s nuestro, sino queH113
+- Gén_42:30s de la tierra, nos habló ásperamenteH113
+- Gén_42:33entonces aquel varón, el s de la tierraH113
+- Gén_43:20ay, s nuestro, nosotros en realidad deH113
+- Gén_44:5¿no es esta en la que bebe mi s, y porH113
+- Gén_44:7¿por qué dice nuestro s tales cosas?[[H113]]
+- Gén_44:8habíamos de hurtar de casa de tu s plataH113
+- Gén_44:9y aun nosotros seremos siervos de mi sH113
+- Gén_44:16dijo Judá: ¿Qué diremos a mi s? ¿QuéH113
+- Gén_44:16aquí, nosotros somos siervos de mi sH113
+- Gén_44:18ay, s mío...una palabra en oídos de mi sH113
+- Gén_44:19s preguntó...¿Tenéis padre o hermano?[[H113]]
+- Gén_44:20respondimos a mi s: Tenemos un padreH113
+- Gén_44:22y nosotros dijimos a mi s: El joven noH113
+- Gén_44:24que...le contamos las palabras de mi sH113
+- Gén_44:33en lugar del joven por siervo de mi sH113
+- Gén_45:8me ha puesto...por s de toda su casa, yH113
+- Gén_45:9Dios me ha puesto por s de todo EgiptoH113
+- Gén_45:26José vive aún; y él es s en...de EgiptoH4910
+- Gén_47:18y dijeron: No encubriremos a nuestro sH113
+- Gén_47:18el ganado es ya de nuestro s; nada haH113
+- Gén_47:18nada ha quedado delante de nuestro sH113
+- Gén_47:25hallemos gracia en ojos de nuestro sH113
+- Éxo_4:10¡ay, S! nunca he sido hombre de fácilH3068
+- Éxo_4:13¡ay, S! envía, te ruego, por medio delH136
+- Éxo_5:22dijo: S, ¿por qué afliges a este pueblo?[[H136]]
+- Éxo_21:5amo a mi s, a mi mujer y a mis hijosH113
+- Éxo_21:8si no agradare a su s, por lo cual noH113
+- Éxo_23:17se presentará todo varón delante del SH3068
+- Éxo_32:22no se enoje mi s; tú conoces al puebloH113
+- Éxo_34:9si ahora, S, he hallado gracia en tusH136
+- Éxo_34:9vaya ahora el S en medio de nosotrosH136
+- Éxo_34:23se presentará...delante de Jehová el SH3068
+- Núm_11:28Josué...dijo: S mío Moisés, impídelosH113
+- Núm_12:11y dijo Aarón a...s mío, no pongas ahoraH113
+- Núm_14:17sea magnificado el poder del S, como loH136
+- Núm_21:18el cual cavaron los s...con sus báculosH5081
+- Núm_21:28a Ar...a los s de las alturas de ArnónH1181
+- Núm_32:25tus siervos harán como mi s ha mandadoH113
+- Núm_32:27la guerra, de la manera que mi s diceH113
+- Núm_36:2a mi s que por sorteo diese la tierra aH3068
+- Núm_36:2también ha mandado Jehová a mi s, queH3068
+- Deu_3:24S Jehová, tú has comenzado a mostrarH136
+- Deu_9:26oh S Jehová, no destruyas a tu puebloH3068
+- Deu_10:17vuestro Dios es...S de s, Dios grandeH113
+- Deu_23:15no entregarás a su s el siervo que seH113
+- Jos_3:11el arca del pacto del S de...la tierraH113
+- Jos_3:13el arca de Jehová, S de toda la tierraH113
+- Jos_5:14y le dijo: ¿Qué dice mi S a su siervo?[[H113]]
+- Jos_7:7¡ah, S Jehová! ¿Por qué hiciste pasar aH136
+- Jos_7:8S! ¿qué diré, ya que Israel ha vuelto laH136
+- Jue_3:25he aquí su s caído en tierra, muertoH113
+- Jue_4:18ven, s mío, ven a mí, no tengas, temorH3068
+- Jue_6:13ah, s mío, si Jehová está con nosotrosH113
+- Jue_6:15ah, s mío, con qué salvaré yo a Israel?[[H136]]
+- Jue_6:22S Jehová...he visto al ángel de JehováH136
+- Jue_8:22sé nuestro s, tú y tu hijo, y tu nietoH4910
+- Jue_8:23mas Gedeón respondió: No seré s sobreH4910
+- Jue_9:51a la cual se retiraron...s de la ciudad
+- Jue_13:8ah, S mío, yo te ruego que aquel varónH3068
+- Jue_16:28dijo: S Jehová, acuérdate ahora de míH136
+- Jue_19:11y dijo el criado a su s: Ven ahora, yH113
+- Jue_19:12su s le respondió: No iremos a ningunaH113
+- Jue_19:26delante de...la casa...donde su s estabaH113
+- Jue_19:27se levantó...su s, y abrió las puertasH113
+- Rut_2:13dijo: S mío, halle yo gracia delanteH3068
+- 1Sa_1:15s mío; yo soy una mujer atribuladaH113
+- 1Sa_1:26¡oh, s mío! Vive tu alma, s mío, yo soyH113
+- 1Sa_16:16diga, pues, nuestro s a tus siervos queH113
+- 1Sa_20:38y el...recogió las saetas, y vino a su sH113
+- 1Sa_22:12oye ahora...Y él dijo: Heme aquí, S mioH113
+- 1Sa_24:6me guarde de hacer tal cosa contra mi sH113
+- 1Sa_24:8David...Mi s el rey! Y cuando Saúl miróH113
+- 1Sa_24:10dije: No extenderé mi mano contra mi sH113
+- 1Sa_25:10muchos siervos hay...que huyen de sus sH113
+- 1Sa_25:24y dijo: S mío, sobre mí sea el pecadoH113
+- 1Sa_25:25no haga caso ahora mi s de ese hombreH113
+- 1Sa_25:26s mío, vive Jehová, y vive tu alma, queH113
+- 1Sa_25:26todos los que procuran mal contra mi sH113
+- 1Sa_25:27presente que tu sierva ha traído a mi sH113
+- 1Sa_25:27dado a los hombres que siguen a mi sH113
+- 1Sa_25:28pues Jehová...hará casa estable a mi sH113
+- 1Sa_25:28mi s pelea las batallas de Jehová, yH113
+- 1Sa_25:29la vida de mi s será ligada en el hazH113
+- 1Sa_25:30haga con mi s conforme a todo el bienH113
+- 1Sa_25:31entonces, s mío, no tendrás motivo deH113
+- 1Sa_25:31guárdese, pues, mi s, y cuando JehováH113
+- 1Sa_25:31pues...cuando Jehová haga bien a mi sH113
+- 1Sa_25:41lavar los pies de los siervos de mi sH113
+- 1Sa_26:15¿por qué...no has guardado al rey tu s?[[H113]]
+- 1Sa_26:15uno...ha entrado a matar a tu s el reyH3068
+- 1Sa_26:16porque no habéis guardado a vuestro sH113
+- 1Sa_26:17David respondió: Mi voz es, rey s míoH113
+- 1Sa_26:18por qué persigue así mi s a su siervo?[[H113]]
+- 1Sa_26:19ruego, pues, que el rey mi s oiga ahoraH113
+- 1Sa_29:4¿con qué cosa volvería...gracia de su sH113
+- 1Sa_29:8y pelee contra los enemigos de mi s elH113
+- 1Sa_29:10levántate...tú y los siervos de tu s queH113
+- 2Sa_1:10tomé la...y las he traído acá a mi sH113
+- 2Sa_2:5habéis hecho...misericordia con vuestro sH113
+- 2Sa_2:7muerto Saúl vuestro s...han ungido por reyH113
+- 2Sa_3:21y juntaré a mi s el rey a todo IsraelH113
+- 2Sa_4:8Jehová ha vengado hoy a mi s el rey, deH3068
+- 2Sa_7:18dijo: S Jehová, ¿quién soy yo, y qué esH136
+- 2Sa_7:19aun te ha parecido poco esto, S JehováH136
+- 2Sa_7:19así como procede el hombre, S Jehová?[[H136]]
+- 2Sa_7:20pues tú conoces a tu siervo, S JehováH136
+- 2Sa_9:9de Saúl...yo lo he dado al hijo de tu sH113
+- 2Sa_9:10que el hijo de tu s tenga pan para comerH113
+- 2Sa_9:10pero Mefi-boset el hijo de tu s comeráH113
+- 2Sa_9:11que ha mandado mi s el rey a su siervoH113
+- 2Sa_10:3los príncipes de...dijeron a Hanún su sH113
+- 2Sa_11:9durmió...con todos los siervos de su sH113
+- 2Sa_11:11mi s Joab, y los siervos de mi s, en elH113
+- 2Sa_11:13a dormir en su...con los siervos de su sH113
+- 2Sa_12:8y te di la casa de tu s, y las mujeresH113
+- 2Sa_12:8y te di...las mujeres de tu s en tu senoH113
+- 2Sa_13:32no diga mi s que han dado muerte a todosH113
+- 2Sa_13:33no ponga mi s el rey en su corazón eseH113
+- 2Sa_14:9dijo...Rey s mío, la maldad sea sobre míH113
+- 2Sa_14:12que tu sierva hable una palabra a mi sH113
+- 2Sa_14:15yo venido...para decir esto al rey mi sH113
+- 2Sa_14:17sea...de consuelo la respuesta de mi sH113
+- 2Sa_14:17mi s el rey es como un ángel de DiosH113
+- 2Sa_14:18y la mujer dijo: Hable mi s el reyH113
+- 2Sa_14:19vive tu alma, rey s mío, que no hay queH113
+- 2Sa_14:19de todo lo que mi s el rey ha habladoH113
+- 2Sa_14:20mi s es sabio conforme a la sabiduríaH113
+- 2Sa_14:22hallado gracia en tus ojos, rey s míoH113
+- 2Sa_15:15a todo lo que nuestro s el rey decidaH113
+- 2Sa_15:21vive mi s el rey, que o para muerte oH113
+- 2Sa_15:21que donde mi s el rey estuviere...estaráH113
+- 2Sa_16:3dijo el rey: ¿Dónde está el hijo de tu s?[[H113]]
+- 2Sa_16:4rey s mío, halle yo gracia delante de tiH113
+- 2Sa_16:9¿por qué maldice este...a mi s el rey?[[H113]]
+- 2Sa_18:28levantado sus manos contra mi s el reyH113
+- 2Sa_18:31y dijo: Reciba nuevas mi s el rey, queH113
+- 2Sa_18:32como aquel...sean los enemigos de mi sH113
+- 2Sa_19:19y dijo...No me culpe mi s de, iniquidadH113
+- 2Sa_19:19en que mi s el rey salió de JerusalénH113
+- 2Sa_19:20he venido hoy...a recibir a mi s el reyH113
+- 2Sa_19:26rey s mío, mi siervo me engañó, pues tuH113
+- 2Sa_19:27ha calumniado...delante de mi s el reyH113
+- 2Sa_19:27mi s el rey es como un ángel de DiosH113
+- 2Sa_19:28digna de muerte delante de mi s el reyH113
+- 2Sa_19:30pues que mi s el rey ha vuelto en pazH113
+- 2Sa_19:35ha de ser...una carga para mi s el rey?[[H113]]
+- 2Sa_19:37pase él con mi s el rey, y haz con élH3068
+- 2Sa_20:6toma...los siervos de tu s, y vé tras élH113
+- 2Sa_24:3añada Jehová...y que lo vea mi s el reyH113
+- 2Sa_24:3¿por qué se complace en esto mi s el reyH113
+- 2Sa_24:21¿por qué viene mi s el rey a su siervo?[[H113]]
+- 2Sa_24:22ofrezca mi s...lo que bien le pareciereH113
+- 1Re_1:2busquen para mi s el rey...joven virgenH113
+- 1Re_1:2abrigue...y entrará en calor mi s el reyH113
+- 1Re_1:11que reina...sin saberlo David nuestro s?[[H113]]
+- 1Re_1:13s mío, ¿no juraste a tu sierva, diciendoH113
+- 1Re_1:17s mío, tú juraste a...por Jehová tu DiosH113
+- 1Re_1:18Adonías reina, y tú, mi s...no lo sabesH113
+- 1Re_1:20rey s mío, los ojos de todo Israel estánH113
+- 1Re_1:20se ha de sentar en el trono de mi s elH113
+- 1Re_1:21que cuando mi s...duerma con sus padresH113
+- 1Re_1:24rey s mío, ¿has dicho tú: Adonías reinaráH113
+- 1Re_1:27¿es este negocio ordenado por mi s, sinH113
+- 1Re_1:31viva mi s el rey David para siempreH113
+- 1Re_1:33dijo: Tomad...los siervos de vuestro sH113
+- 1Re_1:36así lo diga Jehová, Dios de mi s el reyH3068
+- 1Re_1:37la manera que Jehová ha estado con mi sH3068
+- 1Re_1:37haga mayor su trono que el trono de mi sH113
+- 1Re_1:43nuestro s el rey...ha hecho rey a SalomónH113
+- 1Re_1:47han venido a bendecir a nuestros el reyH113
+- 1Re_2:26llevado el arca de Jehová el S delanteH136
+- 1Re_2:38como el rey mi s ha dicho, así lo haráH113
+- 1Re_3:10agradó delante del S que...pidiese estoH136
+- 1Re_3:17¡ah, s mío! Yo y esta mujer morábamosH113
+- 1Re_3:26s mío! dad a ésta el niño vivo, y no loH113
+- 1Re_12:27este pueblo se volverá a su s RoboamH113
+- 1Re_18:7Abdías...dijo: ¿No eres tú mi s Elías?[[H113]]
+- 1Re_18:10adonde mi s no haya enviado a buscarteH113
+- 1Re_18:13¿no ha sido dicho a mi s lo que hiceH113
+- 1Re_20:4como tú dices, rey s mío, yo soy tuyoH113
+- 1Re_20:9al rey mi s: Haré todo lo que mandasteH113
+- 1Re_22:17estos no tienen s; vuélvase cada uno aH113
+- 2Re_2:3, 2Re_2:5que Jehová te quitará hoy a tu s deH113
+- 2Re_2:16siervos...vayan ahora y busquen a tu sH113
+- 2Re_2:19he aquí, el lugar...es bueno, como mi s veH113
+- 2Re_4:16no, s mío, varón de Dios, no hagas burlaH113
+- 2Re_4:28y ella dijo: ¿Pedí yo hijo a mi s? ¿NoH113
+- 2Re_5:1Naamán...era varón grande delante de su sH113
+- 2Re_5:3dijo a su s: Si rogase mi s al profetaH113
+- 2Re_5:4entrando Naamán a su s, le relató...Así yH113
+- 2Re_5:18cuando mi s el rey entrare en el temploH113
+- 2Re_5:20he aquí mi s estorbó a este sitio NaamánH113
+- 2Re_5:22él dijo: Bien...Mi s me envía a decirteH113
+- 2Re_5:25y él entró, y se puso delante de su sH113
+- 2Re_6:5gritó diciendo: ¡Ah, s mío, era prestada![[H113]]
+- 2Re_6:12no...s mío, sino que el profeta ElíseoH113
+- 2Re_6:15criado le dijo: ¡Ah, s mío! ¿qué haremos?[[H113]]
+- 2Re_6:22que coman y beban, y vuelvan a sus sH113
+- 2Re_6:23los envió, y ellos se volvieron a su sH113
+- 2Re_6:26mujer le gritó, y dijo: Salva, rey s míoH113
+- 2Re_8:5rey s mío, esta es la mujer, y este es suH113
+- 2Re_8:12dijo Hazael: ¿Por qué llora mi s? Y élH113
+- 2Re_8:14y Hazael...vino a su s, el cual le dijoH113
+- 2Re_9:7herirás la casa de Acab tu s, para queH113
+- 2Re_9:11salió Jehú a los siervos de su s, y leH113
+- 2Re_9:31¿sucedió bien a Zimri, que mató a su s?[[H113]]
+- 2Re_10:2que tenéis a los hijos de vuestro s, yH113
+- 2Re_10:3al más recto de los hijos de vuestro sH113
+- 2Re_10:3trono...y pelead por la casa de vuestro sH113
+- 2Re_10:6las cabezas de los hijos...de vuestro sH113
+- 2Re_10:9he conspirado contra mi s, y le he dadoH113
+- 2Re_18:23yo te ruego que des rehenes a mi s, elH113
+- 2Re_18:24¿cómo...al menor de los siervos de mi sH113
+- 2Re_18:27¿me ha enviado mi s para decir estasH113
+- 2Re_18:27a ti y a tu s, y no a los hombres queH113
+- 2Re_19:4el rey...su s ha enviado para blasfemarH113
+- 2Re_19:6diréis a vuestro s: Así ha dicho JehováH113
+- 1Cr_12:19con peligro de...pasará a su s SaúlH113
+- 1Cr_21:3añada Jehová a su pueblo cien...rey s míoH113
+- 1Cr_21:3¿no son todos éstos siervos de mi s?[[H113]]
+- 1Cr_21:3¿para qué procura mi s esto, que seráH113
+- 1Cr_21:23haga mi s el rey...que bien le parezcaH113
+- 1Cr_26:6hijos que fueron s sobre la casa de susH4474
+- 2Cr_2:14trabajar...con los de mi s David tuH113
+- 2Cr_2:15envíe mi s...el trigo y cebada, y aceiteH113
+- 2Cr_13:6Jeroboam hijo de...se rebeló contra su sH113
+- 2Cr_18:16no tienen s; vuélvase cada uno en pazH113
+- Esd_10:3consejo de mi s y de los que temen elH136
+- Neh_3:5no se prestaron para...la obra de su SH113
+- Neh_4:14acordaos...S, grande y temible, y peleadH113
+- Neh_8:10porque día santo es a nuestro S; no osH113
+- Neh_10:29cumplirían...y estatutos de...nuestro SH113
+- Neh_13:17y reprendí a los s de Judá y les dijeH2715
+- Est_1:18las s de Persia y de Media que oigaH8282
+- Job_3:19allí están...y el siervo libre de su sH113
+- Job_28:28que el temor del S es la sabiduríaH136
+- Sal_2:4el que mora...el S se burlará de ellosH136
+- Sal_8:1¡oh Jehová, S nuestro, cuán glorioso esH113
+- Sal_8:9¡oh Jehová, S nuestro, cuán grande es tuH113
+- Sal_12:4que han dicho...¿quién es s de nosotros?[[H113]]
+- Sal_16:2eres mi S; no hay para mí bien fuera deH136
+- Sal_30:8a ti, oh Jehová, clamaré...al S suplicaréH3068
+- Sal_35:17S, ¿hasta cuándo verás esto? RescataH136
+- Sal_35:22tú lo has visto...S, no te alejes de míH3068
+- Sal_35:23Dios...y S mío, para defender mi causaH136
+- Sal_37:13el S se reirá de él...que viene su díaH136
+- Sal_38:9S, delante de ti están todos mis deseosH136
+- Sal_38:22apresúrate a ayudarme...S, mi salvaciónH136
+- Sal_39:7y ahora, S, ¿qué esperaré? Mi esperanzaH136
+- Sal_44:23¿por qué duermes, S? Despierta, no teH136
+- Sal_45:11rey...inclínate a él, porque él es tu sH113
+- Sal_51:15S, abre mis labios, y publicará mi bocaH136
+- Sal_54:4el S está con los que sostienen mi vidaH136
+- Sal_55:9destrúyelos, oh S; confunde la lengua deH136
+- Sal_57:9alabaré entre los pueblos oh S; cantaréH136
+- Sal_62:12tuya, oh S, es la misericordia; porqueH136
+- Sal_66:18iniquidad, el S no me habría escuchadoH136
+- Sal_68:11el S daba palabra...grande multitud deH136
+- Sal_68:17el S viene del Sinaí a su santuarioH136
+- Sal_68:19el S; cada día nos colma de beneficiosH136
+- Sal_68:20y de...el S es el librar de la muerteH136
+- Sal_68:22el S dijo: De Basán te haré volver; teH136
+- Sal_68:26bendecid...al S, vosotros de la estirpeH136
+- Sal_68:32reinos de la tierra, cantad a Dios...SH136
+- Sal_69:6no sean avergonzados por...oh S JehováH136
+- Sal_71:5tú, oh S...eres mi esperanza, seguridadH136
+- Sal_71:16vendré a los hechos poderosos de...el SH136
+- Sal_73:20S, cuando despertares, menospreciarásH136
+- Sal_73:28he puesto en Jehová el S mi esperanzaH136
+- Sal_77:2al S busqué en el día de mi angustiaH136
+- Sal_77:7¿desechará el S...siempre, y no volverá aH136
+- Sal_78:65despertó el S como quien duerme, comoH136
+- Sal_86:4alegra el...a ti, oh S, levanto mi almaH136
+- Sal_86:5porque tú, S, eres bueno y perdonadorH136
+- Sal_86:8S, ninguno hay como tú entre los diosesH136
+- Sal_86:9las naciones que hiciste vendrán...ti, SH136
+- Sal_86:15tú, S, Dios misericordioso y clementeH136
+- Sal_89:49S, ¿dónde están tus...misericordias, queH136
+- Sal_89:50S, acuérdate del oprobio...tus siervosH136
+- Sal_90:1S, tú nos has sido refugio de generaciónH136
+- Sal_97:5los montes se derritieron...delante del SH113
+- Sal_105:20s de los pueblos, y le dejó ir libreH4910
+- Sal_105:21lo puso por s de su casa...gobernadorH3050
+- Sal_109:21Jehová, S mío, favoréceme por amor deH136
+- Sal_110:1Jehová dijo a...S: Siéntate a mi diestraH113
+- Sal_110:5el S está a tu diestra; quebrantará aH136
+- Sal_123:2los ojos de...miran a la mano de sus sH3068
+- Sal_123:2los ojos de la sierva a la mano de su sH1404
+- Sal_130:2S, oye mi voz; estén atentos tus oídosH136
+- Sal_130:3JAH...¿quién, oh S, podrá mantenerse?[[H136]]
+- Sal_135:5S nuestro, mayor que todos los diosesH113
+- Sal_136:3al S de los s, porque para siempre esH113
+- Sal_140:7Jehová S...salvador mío, tú pusiste aH136
+- Sal_141:8por tanto, a ti, oh Jehová, S, miranH136
+- Sal_147:5grande...el S nuestro, y de mucho poderH113
+- Pro_6:7no teniendo capitán...gobernador, ni sH4910
+- Pro_19:10¡cuánto menos al siervo ser s de losH4910
+- Pro_23:1cuando te sientes a comer con algún sH4910
+- Pro_25:13pues al alma de su s da refrigerioH113
+- Pro_27:18el que mira por los intereses de su sH113
+- Pro_30:10no acuses al siervo ante su s, no seaH113
+- Pro_30:23y por la sierva cuando hereda a su sH1404
+- Ecl_9:17son mejores que el clamor del s entreH4910
+- Isa_1:3su dueño, y el asno el pesebre de su sH1167
+- Isa_1:24dice el S, Jehová...el Fuerte de IsraelH113
+- Isa_3:1aquí que el S Jehová...quita de JerusalénH113
+- Isa_3:4pondré jóvenes...y muchachos serán sus sH4910
+- Isa_3:15¿qué pensáis vosotros...dice el S, JehováH136
+- Isa_3:17S raerá la cabeza de las hijas de SionH136
+- Isa_3:18quitará el S el atavío del calzado, lasH136
+- Isa_4:4cuando el S lave las inmundicias de lasH136
+- Isa_6:1vi yo al S sentado sobre un trono alto yH136
+- Isa_6:8la voz del S, que decía: ¿A quién enviaréH136
+- Isa_6:11yo dije: ¿Hasta cuándo, S? Y respondióH136
+- Isa_7:7Jehová el S dice así: No subsistirá, niH136
+- Isa_7:14el S mismo os dará señal: He aquí que laH136
+- Isa_7:20el S raerá con navaja alquilada, con losH136
+- Isa_8:7el S hace subir sobre ellos aguas de ríosH136
+- Isa_9:8el S envió palabra de Jacob, y cayó enH3068
+- Isa_9:17tanto, el S no tomará contentamiento enH136
+- Isa_10:12que el S haya acabado toda su obra enH136
+- Isa_10:16el S, Jehová...enviará debilidad sobreH136
+- Isa_10:23el S, Jehová de los...hará consumaciónH136
+- Isa_10:24el S, Jehová de...dice así: Pueblo míoH136
+- Isa_10:33el S...desgajará el ramaje con violenciaH113
+- Isa_14:5quebrantó Jehová el...el cetro de los sH3068
+- Isa_16:1enviad cordero al s de la tierra, desdeH4910
+- Isa_16:8s de naciones pisotearon sus...sarmientosH1167
+- Isa_19:4y entregaré a Egipto en manos de s duroH113
+- Isa_19:4enseñoreará de ellos, dice el S, JehováH113
+- Isa_21:6el S me dijo así: Vé, pon centinela queH136
+- Isa_21:8como un león: S, sobre la atalaya estoyH136
+- Isa_22:5de parte del S, Jehová de los ejércitosH136
+- Isa_22:12el S, Jehová de los...llamó en este díaH136
+- Isa_22:14hasta que muráis, dice el S, Jehová deH136
+- Isa_22:18a rodar...vergüenza de la casa de tu sH113
+- Isa_25:8y enjugará Jehová el S toda lágrima deH136
+- Isa_26:4en Jehová el S está la fortaleza de losH3050
+- Isa_26:13s fuera de ti han enseñoreado...nosotrosH113
+- Isa_28:16Jehová el S dice así: He aquí que yo heH136
+- Isa_28:22destrucción...he oído del S, Jehová deH136
+- Isa_29:13dice, pues, el S: Porque este pueblo seH136
+- Isa_30:15así dijo Jehová el S...En descanso y enH136
+- Isa_30:20os dará el S pan de congoja y agua deH136
+- Isa_30:23dará el S lluvia a tu sementera, cuando
+- Isa_36:8yo te ruego que des rehenes al rey...mi sH113
+- Isa_36:9resistir...menor de los siervos de mi sH113
+- Isa_36:12envió mi s a que dijese...a tu s, y noH113
+- Isa_37:4rey de Asiria su s envió para blasfemarH113
+- Isa_37:6les dijo Isaías: Diréis así a vuestro sH113
+- Isa_37:24has vituperado al S, y dijiste: Con laH136
+- Isa_38:16oh S, por todas estas cosas los hombresH136
+- Isa_40:10he aquí...Jehová el S vendrá con poderH136
+- Isa_47:5porque nunca más...llamarán s de reinosH1404
+- Isa_47:7dijiste: Para siempre seré s; y no hasH1404
+- Isa_48:16me envió Jehová el S, y su EspírituH136
+- Isa_49:14me dejó Jehová, y el S se olvidó de míH136
+- Isa_49:22dijo Jehová el S: He aquí, yo tenderéH136
+- Isa_50:4el S me dio lengua de sabios, para saberH136
+- Isa_50:5Jehová el S me abrió el oído, y yo no fuiH136
+- Isa_50:7Jehová el S me ayudará, por tanto no meH136
+- Isa_50:9Jehová el S me ayudará; ¿quién hay queH136
+- Isa_51:22Jehová tu S, y tu Dios, el cual abogaH3068
+- Isa_52:4dijo Jehová el S: Mi pueblo descendió aH136
+- Isa_56:8dice Jehová el S, el que reúne...IsraelH136
+- Isa_61:1el Espíritu de Jehová el S está sobre míH136
+- Isa_61:11así Jehová el S hará brotar justicia yH136
+- Isa_65:13así dijo Jehová el S: He aquí que misH136
+- Isa_65:15Jehová el S te matará, y a sus siervosH136
+- Jer_1:6¡ah, S Jehová! He aquí, no sé hablarH136
+- Jer_2:19malo...faltar mi temor en ti, dice el SH136
+- Jer_2:22tu pecado permanecerá...dijo Jehová el SH136
+- Jer_7:20ha dicho Jehová el S...mi furor y mi iraH136
+- Jer_10:23el hombre no es s de su camino, ni del
+- Jer_14:13S Jehová: He aquí que los profetas lesH136
+- Jer_22:18lamentarán...¡Ay, s! ¡Ay, su grandeza![[H113]]
+- Jer_27:4les mandarás que digan a sus s: Así haH113
+- Jer_27:4ha dicho...habéis de decir a vuestros sH113
+- Jer_32:17¡oh S Jehová! he aquí que tú hiciste elH136
+- Jer_32:25¡oh S Jehová...me has dicho: Cómprate laH136
+- Jer_33:26no tomar de su descendencia quien sea sH4910
+- Jer_34:5te endecharán, diciendo, ¡Ay, s! PorqueH113
+- Jer_37:20oye, te ruego, oh rey mi s...mi súplicaH113
+- Jer_38:9mi s el rey, mal hicieron estos varonesH113
+- Jer_44:26no será invocado...diciendo: Vive...el SH136
+- Jer_49:5yo traigo sobre ti espanto, dice el SH136
+- Jer_50:31estoy contra ti, oh soberbio, dice el SH136
+- Lam_1:1la s de provincias ha sido...tributariaH8282
+- Lam_1:14me ha entregado el S en manos contra lasH136
+- Lam_1:15el S ha hollado a...mis hombres fuertesH136
+- Lam_1:15ha hollado el S a la virgen hija de JudáH136
+- Lam_2:1¡cómo oscureció el S en...furor a la hijaH136
+- Lam_2:2destruyó el S, y no perdonó; destruyó enH136
+- Lam_2:5el S llegó a ser como enemigo, destruyoH136
+- Lam_2:7desechó el S su altar, menospreció suH136
+- Lam_2:18corazón de ellos clamaba al S; oh hijaH136
+- Lam_2:19derrama como agua tu corazón ante...el SH136
+- Lam_2:20en el santuario del S el sacerdote y elH136
+- Lam_3:31porque el S no desecha para siempreH136
+- Lam_3:36trastornar al hombre...el S no lo apruebaH136
+- Lam_3:37diga que sucedió algo que el S no mandó?[[H136]]
+- Lam_3:58abogaste, S, la causa de mi alma, vidaH136
+- Eze_2:4envío...dirás: Así ha dicho Jehová el SH136
+- Eze_3:11ha dicho Jehová el S; escuchen, o dejenH136
+- Eze_3:27ha dicho Jehová el S: El que oye, oigaH136
+- Eze_4:14¡ah, S Jehová...que mi alma no es inmundaH136
+- Eze_5:5ha dicho Jehová el S: Esta es JerusalénH136
+- Eze_5:8ha dicho Jehová el S...yo estoy contra tiH136
+- Eze_5:11vivo yo, dice Jehová el S...quebrantaréH136
+- Eze_6:3montes...oíd palabra de Jehová el S: AsíH136
+- Eze_6:3ha dicho Jehová el S a los montes y a losH136
+- Eze_6:11ha dicho Jehová el S: Palmotea con tusH136
+- Eze_7:2dicho Jehová el S a la tierra de IsraelH136
+- Eze_7:5dicho Jehová el S: Un mal...viene un malH136
+- Eze_8:1se posó sobre mí la mano de Jehová el SH136
+- Eze_9:8dije: ¡Ah, S Jehová! ¿destruirás a todoH136
+- Eze_11:7ha dicho Jehová el S: Vuestros muertosH136
+- Eze_11:8espada traeré sobre...dice Jehová el SH136
+- Eze_11:13¡ah, S Jehová! ¿Destruirás del todo alH136
+- Eze_11:16así ha dicho Jehová el S: Aunque les heH136
+- Eze_11:17ha dicho Jehová el S: Yo os recogeré deH136
+- Eze_11:21yo traigo su camino...dice Jehová el SH136
+- Eze_12:10ha dicho Jehová el S: Esta profecía seH136
+- Eze_12:19ha dicho Jehová el S sobre...JerusalénH136
+- Eze_12:23ha dicho Jehová el S: Haré cesar esteH136
+- Eze_12:25hablaré palabra y la cumpliré, dice...SH136
+- Eze_12:28dicho Jehová el S: No se tardará másH136
+- Eze_12:28palabra...se cumplirá, dice Jehová el SH136
+- Eze_13:3dicho Jehová el S: ¡Ay de los profetasH136
+- Eze_13:8Jehová el S: Por cuanto vosotros habéisH136
+- Eze_13:8estoy contra vosotros, dice Jehová el SH136
+- Eze_13:9mano...y sabréis que yo soy Jehová el SH136
+- Eze_13:13Jehová el S: Haré que la rompa vientoH136
+- Eze_13:16y ven...visión de paz...dice Jehová el SH136
+- Eze_13:18Jehová el S: ¡Ay de aquellas que cosenH136
+- Eze_13:20ha dicho Jehová el S...vendas mágicasH136
+- Eze_14:4dicho Jehová el S: Cualquier hombre deH136
+- Eze_14:6dice Jehová el S: Convertíos, y volveosH136
+- Eze_14:11yo les sea por Dios, dice Jehová el SH136
+- Eze_14:14si...Noé, Daniel y Job...dice Jehová el SH136
+- Eze_14:16dice Jehová el S, ni a sus hijos ni aH136
+- Eze_14:18, Eze_14:20dice Jehová el S, no librarían aH136
+- Eze_14:21dicho Jehová el S: ¿Cuánto más cuandoH136
+- Eze_14:23que no sin causa hice...dice Jehová el SH136
+- Eze_15:6dicho Jehová el S: Como la madera de laH136
+- Eze_15:8cometieron prevaricación, dice...el SH136
+- Eze_16:3Jehová el S sobre Jerusalén: Tu origenH136
+- Eze_16:8entré en pacto contigo, dice Jehová el SH136
+- Eze_16:14de mi hermosura que yo puse...dice...el SH136
+- Eze_16:19para olor agradable...dice Jehová el SH136
+- Eze_16:23maldad (ay, ay de ti! dice Jehová el SH136
+- Eze_16:30¡cuán inconstante es...dice Jehová el SH136
+- Eze_16:36dicho Jehová el S: Por cuanto han sidoH136
+- Eze_16:43tu camino sobre tu cabeza, dice...el SH136
+- Eze_16:48dice Jehová el S...Sodoma tu hermana yH136
+- Eze_16:59ha dicho Jehová el S: ¿Haré yo contigoH136
+- Eze_16:63cuando yo perdone...dice Jchová el SH136
+- Eze_17:3ha dicho Jehová el S...Una gran águilaH136
+- Eze_17:9ha dicho Jehová el S: ¿Será prosperada?[[H136]]
+- Eze_17:16dice...el S, que morirá en...de BabiloniaH136
+- Eze_17:19ha dicho Jehová el S...Vivo yo, que elH136
+- Eze_17:22ha dicho...el S: Tomaré yo del cogolloH136
+- Eze_18:3vivo yo, dice Jehová el S, que nunca másH136
+- Eze_18:9es justo; éste vivirá, dice Jehová el SH136
+- Eze_18:23la muerte del impío? dice Jehová el SH136
+- Eze_18:25dijereis: No es recto el camino del SH136
+- Eze_18:29dijere la...No es recto el camino del SH136
+- Eze_18:30os juzgaré a cada uno...dice Jehová el SH136
+- Eze_18:32no quiero la muerte...dice Jehová el SH136
+- Eze_20:3dicho Jehová el S: ¿A consultarme venísH136
+- Eze_20:3que no os responderé, dice Jehová el SH136
+- Eze_20:5dicho Jehová el S: El día que escogí aH136
+- Eze_20:27Jehová el S: Aun en esto me afrentaronH136
+- Eze_20:30dicho Jehová el S: ¿No os contamináisH136
+- Eze_20:31dice Jehová el S, que no os responderéH136
+- Eze_20:33dice Jehová el S, que con mano fuerteH136
+- Eze_20:36así litigaré con vosotros, dice...el SH136
+- Eze_20:39dicho Jehová el S: Andad cada uno trasH136
+- Eze_20:40dice Jehová el S, allí me servirá todaH136
+- Eze_20:44sabréis que yo soy...dice Jehová el SH136
+- Eze_20:47ha dicho Jehová el S...yo enciendo en tiH136
+- Eze_20:49dije: ¡Ah, S Jehová! ellos dicen de míH136
+- Eze_21:7que viene, y se hará, dice Jehová el SH136
+- Eze_21:9ha dicho Jehová el S: Di: La espada, laH136
+- Eze_21:13cetro? él no será más, dice Jehová el SH3068
+- Eze_21:24ha dicho Jehová el S: Por cuanto habéisH136
+- Eze_21:26ha dicho Jehová el S: Depón la tiaraH136
+- Eze_21:28dicho Jehová el S acerca de los hijosH136
+- Eze_22:3ha dicho Jehová el S: ¡Ciudad...de sangreH136
+- Eze_22:12interés y...tomaste...dice Jehová el SH136
+- Eze_22:19dicho...el S: Por cuanto todos vosotrosH136
+- Eze_22:28así ha dicho Jehová el S; y Jehová noH136
+- Eze_22:31sobre ellos mi ira...dice Jehová el SH136
+- Eze_23:22Aholiba...así ha dicho Jehová el S: HeH136
+- Eze_23:28ha dicho Jehová el S...entrego en manoH136
+- Eze_23:32dicho Jehová el S: Beberás el hondo yH136
+- Eze_23:34porque yo he hablado, dice Jehová el SH136
+- Eze_23:35ha dicho, el S...cuanto te has olvidadoH136
+- Eze_23:46Jehová el S: Yo haré subir contra ellasH136
+- Eze_23:49idolatría; y sabréis que yo soy...el SH136
+- Eze_24:3así ha dicho Jehová el S: Pon una ollaH136
+- Eze_24:6, Eze_24:9dicho Jehová el S: ¡Ay de la ciudadH136
+- Eze_24:14tus obras te juzgarán, dice Jehová el SH136
+- Eze_24:21dicho Jehová el S: He aquí yo profanoH136
+- Eze_24:24entonces sabréis...yo soy Jehová el SH136
+- Eze_25:3oíd palabra de...el S: Así dice...el SH136
+- Eze_25:6dicho Jehová el S: Por cuanto batisteH136
+- Eze_25:8ha dicho...el S: Por cuanto dijo MoabH136
+- Eze_25:12ha dicho...el S: Por lo que hizo EdomH136
+- Eze_25:13así ha dicho Jehová el S...sobre EdomH136
+- Eze_25:14y conocerán mi venganza, dice...el SH136
+- Eze_25:15ha dicho...el S...hicieron los filisteosH136
+- Eze_26:3ha dicho...el S...estoy contra ti, oh TiroH136
+- Eze_26:5dice Jehová el S; y será saqueada porH136
+- Eze_26:7dicho Jehová el S...traigo contra Tiro aH136
+- Eze_26:14yo Jehová he hablado, dice Jehová el SH136
+- Eze_26:15así ha dicho Jehová el S a Tiro: ¿No seH136
+- Eze_26:19dicho Jehová el S: Yo te convertiré enH136
+- Eze_26:21y nunca más serás hallada, dice...el SH136
+- Eze_27:3ha dicho Jehová el S: Tiro, tú has dichoH136
+- Eze_28:2di al...de Tiro: Así ha dicho Jehová el SH136
+- Eze_28:6dicho Jehová el S: Por cuanto pusiste tuH136
+- Eze_28:10porque yo he hablado, dice Jehová el SH136
+- Eze_28:12dicho Jehová el S: Tú eras el sello deH136
+- Eze_28:22dicho...el S...estoy contra ti, oh SidónH136
+- Eze_28:25ha dicho Jehová el S: Cuando recoja aH136
+- Eze_29:3ha dicho Jehová el S...contra ti, FaraónH136
+- Eze_29:8ha dicho Jehová el S...contra ti espadaH136
+- Eze_29:13ha dicho Jehová el S: Al fin de 40 añosH136
+- Eze_29:16ellos; y sabrán que yo soy Jehová el SH136
+- Eze_29:19ha dicho...el S...yo doy a NabucodonosorH136
+- Eze_29:20trabajaron para mí, dice Jehová el SH136
+- Eze_30:2ha dicho Jehová el S: Lamentad: ¡Ay deH136
+- Eze_30:6caerán en él...espada, dice Jehová el SH136
+- Eze_30:10dicho...el S: Destruiré las riquezas deH136
+- Eze_30:13ha dicho...el S: Destruiré...las imágenesH136
+- Eze_30:22dicho...el S: Heme aquí contra FaraónH136
+- Eze_31:10dijo...el S: Ya que por ser encumbradoH136
+- Eze_31:15ha dicho...el S: El día que descendió alH136
+- Eze_31:18es Faraón y todo su...dice Jehová el SH136
+- Eze_32:3dicho...el S...extenderé sobre ti mi redH136
+- Eze_32:8pondré tinieblas sobre...dice Jehová el SH136
+- Eze_32:11dicho Jehová el S: La espada del rey deH136
+- Eze_32:14sus ríos como aceite, dice Jehová el SH136
+- Eze_32:16endecharán sobre Egipto y...dice...el SH136
+- Eze_32:31Faraón muerto a espada, y...dice...el SH136
+- Eze_32:32su multitud yacerán...dice Jehová el SH136
+- Eze_33:11dice...el S, que no quiero la muerte delH136
+- Eze_33:17dirán los...No es recto el camino del SH136
+- Eze_33:20dijisteis: No es recto el camino del SH136
+- Eze_33:25ha dicho...el S: ¿Comeréis con sangreH136
+- Eze_33:27ha dicho Jehová el S...caerán a espadaH136
+- Eze_34:8dicho Jehová el S...por cuanto mi rebañoH136
+- Eze_34:10dicho...el S...estoy contra los pastoresH136
+- Eze_34:11ha dicho Jehová el S...iré a buscar misH136
+- Eze_34:15yo les daré aprisco, dice Jehová el SH136
+- Eze_34:17ha dicho...el S...yo juzgo entre oveja yH136
+- Eze_34:20les dice Jehová el S...yo juzgaré entreH136
+- Eze_34:30ellos son mi pueblo...dice Jehová el SH136
+- Eze_34:31y yo vuestro Dios, dice Jehová el SH136
+- Eze_35:3dicho...el S: He aquí yo estoy contra tiH136
+- Eze_35:6dice Jehová el S...a sangre te destinaréH136
+- Eze_35:14ha dicho Jehová el S: Para que toda laH136
+- Eze_36:2ha dicho Jehová el S...el enemigo dijo deH136
+- Eze_36:3ha dicho...el S: Por cuanto os asolaronH136
+- Eze_36:4oíd palabra de...el S: Así ha dicho...el SH136
+- Eze_36:5dicho Jehová el S: He hablado...mi celoH136
+- Eze_36:6dicho Jehová el S: He aquí, en mi celoH136
+- Eze_36:7dicho Jehová el S: Yo he alzado mi manoH136
+- Eze_36:13dicho Jehová el S: Por cuanto dicen deH136
+- Eze_36:14nunca más matarás a...dice Jehová el SH136
+- Eze_36:15ni harás más morir...dice Jehová el SH136
+- Eze_36:22Jehová el S: No lo hago por vosotrosH136
+- Eze_36:23sabrán las naciones...dice Jehová el SH136
+- Eze_36:32no lo hago por vosotros, dice...el SH136
+- Eze_36:33ha dicho...el S: El día que os limpie deH136
+- Eze_36:37dicho Jehová el S: Aún seré solicitadoH136
+- Eze_37:3huesos? Y dije: S Jehová, tú lo sabesH136
+- Eze_37:5así ha dicho Jehová el S a estos huesosH136
+- Eze_37:9ha dicho Jehová el S: Espíritu, ven deH136
+- Eze_37:12ha dicho Jehová el S: He aquí yo abroH136
+- Eze_37:19dicho Jehová el S...tomo el palo de JoséH136
+- Eze_37:21dicho Jehová el S...tomo a los hijos deH136
+- Eze_38:3dicho Jehová el S...estoy contra ti, ohH136
+- Eze_38:10ha dicho...el S: En aquel día subiránH136
+- Eze_38:14dicho Jehová el S...¿no lo sabrás tú?[[H136]]
+- Eze_38:17dicho Jehová el S: ¿No eres tú aquelH136
+- Eze_38:18Jehová el S, subirá mi ira y mi enojoH136
+- Eze_38:21contra él la espada, dice Jehová el SH136
+- Eze_39:1ha dicho Jehová el S...contra ti, oh GogH136
+- Eze_39:5caerás...yo he hablado, dice Jehová el SH136
+- Eze_39:8viene, y se cumplirá, dice Jehová el SH136
+- Eze_39:10y robarán a los que...dice Jehová el SH136
+- Eze_39:13célebre el día en que...dice Jehová el SH136
+- Eze_39:17ha dicho Jehová el S: Di a las aves deH136
+- Eze_39:20y os saciaréis sobre...dice Jehová el SH136
+- Eze_39:25ha dicho Jehová el S: Ahora volveré laH136
+- Eze_39:29derramado de mi Espíritu...dice...el SH136
+- Eze_43:18ha dicho Jehová el S...las ordenanzasH136
+- Eze_43:19que se acerquen a mí, dice Jehová el SH136
+- Eze_43:27y me seréis aceptos, dice Jehová el SH136
+- Eze_44:6ha dicho Jehová el S: Basta ya de todasH136
+- Eze_44:9Jehová el S: Ningún hijo de extranjeroH136
+- Eze_44:12he alzado mi mano y...dice Jehová el SH136
+- Eze_44:15para ofrecerme la grosura...dice...el SH136
+- Eze_44:27ofrecerá su expiación, dice Jehová el SH136
+- Eze_45:9ha dicho...el S: ¡Basta ya, oh príncipesH136
+- Eze_45:9dejad la violencia y...dice Jehová el SH136
+- Eze_45:15expiación por ellos, dice Jehová el SH136
+- Eze_45:18ha dicho Jehová el S: El mes primeroH136
+- Eze_46:1así ha dicho Jehová el S: La puerta delH136
+- Eze_46:16dicho Jehová el S: Si el príncipe diereH136
+- Eze_47:13dicho...el S: Estos son los límites enH136
+- Eze_47:23daréis su heredad, ha dicho Jehová el SH136
+- Eze_48:29son sus porciones, ha dicho Jehová el SH136
+- Dan_1:2el S entregó en sus manos a Joacim reyH136
+- Dan_1:10temo a mi s el rey, que señaló vuestraH113
+- Dan_2:10ningún rey, príncipe ni s preguntó cosa semejanteH7990
+- Dan_2:47Dios vuestro es Dios...y S de los reyesH4756
+- Dan_4:19s mío, el sueño sea para tus enemigosH4756
+- Dan_4:24sentencia...ha venido sobre mi s el reyH4756
+- Dan_5:7me muestre...será el tercer s en el reinoH7981
+- Dan_5:16vestido...serás el tercer s en el reinoH7981
+- Dan_5:23sino que contra el S...has ensoberbecidoH4756
+- Dan_5:29mandó...proclamar que él era el tercer sH7990
+- Dan_9:3volví mi rostro a Dios el S, buscándoleH136
+- Dan_9:4S, Dios grande, digno de ser temido, queH136
+- Dan_9:7tuya es, S, la justicia, y nuestra laH136
+- Dan_9:15S Dios nuestro, que sacaste tu pueblo deH136
+- Dan_9:16oh S, conforme a...tus actos de justiciaH136
+- Dan_9:17Dios...oye la oración de...por amor del SH136
+- Dan_9:19oye, S; oh S, perdona; presta oído, SH136
+- Dan_10:16s...con la visión me han sobrevenidoH113
+- Dan_10:17podrá el siervo de...s hablar con mi s?[[H113]]
+- Dan_10:19hable mi s, porque me has fortalecidoH113
+- Dan_12:8s mío, ¿cuál será el fin...estas cosas?[[H113]]
+- Ose_12:14recaer...y su S le pagará su oprobioH113
+- Amó_1:8resto...perecerá, ha dicho Jehová el SH136
+- Amó_3:7no hará nada Jehová el S, sin que reveleH136
+- Amó_3:8habla Jehová el S, ¿quién no profetizará?[[H136]]
+- Amó_3:11Jehová el S ha dicho...Un enemigo vendráH136
+- Amó_4:1decís a vuestros s: Traed, y beberemosH113
+- Amó_4:2Jehová el S juró...He aquí, vienen sobreH136
+- Amó_4:5así lo queréis...Israel, dice Jehová el SH136
+- Amó_5:3ha dicho...el S: La ciudad que salga conH136
+- Amó_6:8Jehová el S juró por sí mismo...AbominoH136
+- Amó_7:1me ha mostrado...el S: He aquí, él criabaH136
+- Amó_7:2, Amó_7:5S Jehová...¿quién levantará a Jacob?[[H136]]
+- Amó_7:4Jehová el S me mostró así...el S llamabaH136
+- Amó_7:6no será esto tampoco, dijo Jehová el SH136
+- Amó_7:7el S estaba sobre un muro hecho a plomoH136
+- Amó_7:8el S dijo: He aquí, yo pongo plomada deH136
+- Amó_8:1me ha mostrado Jehová el S...un canastilloH136
+- Amó_8:3los cantores...gemirán...dice Jehová el SH136
+- Amó_8:9dice...el S, que haré que se ponga el solH136
+- Amó_8:11días, dice Jehová el S...enviaré hambreH136
+- Amó_9:1vi al S que estaba sobre el altar, y dijoH136
+- Amó_9:5el S, Jehová de...es el que toca la tierraH136
+- Amó_9:8los ojos de...el S están contra el reinoH136
+- Abd_1:1el S ha dicho así...Hemos oído el pregónH136
+- Miq_1:2Jehová el S, el S desde...sea testigoH136
+- Miq_4:13consagrarás...sus riquezas al S de todaH113
+- Miq_5:2de ti me saldrá el que será S en IsraelH136
+- Hab_3:19Jehová el S es mi fortaleza, el cualH3068
+- Sof_1:7calla en la presencia de Jehová el SH136
+- Sof_1:9que llenan las casas de sus s de robo yH113
+- Zac_1:9entonces dije: ¿Qué son éstos, s mío?[[H113]]
+- Zac_4:4y hablé, diciendo...¿Qué es esto, s mío?[[H113]]
+- Zac_4:5, Zac_4:13¿no sabes qué es esto? Y dije: No, sH113
+- Zac_4:14dos ungidos que están delante del S deH113
+- Zac_6:4dije al ángel que...S mío, ¿qué es esto?[[H113]]
+- Zac_6:5después de presentarse delante del S deH113
+- Zac_9:4el S la empobrecerá, y herirá en el marH136
+- Zac_9:14y Jehová el S tocará trompeta, e iráH136
+- Mal_1:6el hijo honra al...y el siervo a su sH113
+- Mal_1:6y si soy s, ¿dónde está mi temor? diceH113
+- Mal_3:1y vendrá súbitamente a su templo el S aH113
+- Mat_1:20un ángel del S le apareció en sueñosG2962
+- Mat_1:22para que se cumpliese lo dicho por el SG2962
+- Mat_1:24como el ángel del S le había mandadoG2962
+- Mat_2:13ángel del S apareció en sueños a JoséG2962
+- Mat_2:15lo que dijo el S por medio del profetaG2962
+- Mat_2:19ángel del S apareció en sueños a JoséG2962
+- Mat_3:3preparad el camino del S, enderezad susG2962
+- Mat_4:7escrito está...No tentarás al S tu DiosG2962
+- Mat_4:10escrito está: Al S tu Dios adorarás, yG2962
+- Mat_5:33no...sino cumplirás al S tus juramentosG2962
+- Mat_6:24ninguno puede servir a dos s; porque oG2962
+- Mat_7:21no todo el que me dice: S, S, entrará enG2962
+- Mat_7:22S, S, ¿no profetizamos en tu nombre, yG2962
+- Mat_8:2leproso...S, si quieres, puedes limpiarmeG2962
+- Mat_8:6S, mi criado está postrado en...paralíticoG2962
+- Mat_8:8dijo: S, no soy digno de que entres bajoG2962
+- Mat_8:21S, permíteme que vaya...y entierre a miG2962
+- Mat_8:25diciendo: ¡S, sálvanos, que perecemos![[G2962]]
+- Mat_9:28¿creéis que puedo...Ellos dijeron: Sí, SG2962
+- Mat_9:38al S de la mies, que envíe obreros a suG2962
+- Mat_10:24no es más que...ni el siervo más que su sG2962
+- Mat_10:25como su maestro, y al siervo como su sG2962
+- Mat_11:25dijo: Te alabo, Padre, S del cielo y deG2962
+- Mat_12:8Hijo del Hombre es S del día de reposoG2962
+- Mat_13:27S, ¿no sembraste buena semilla en tuG2962
+- Mat_13:51habéis entendido...respondieron: Sí, SG2962
+- Mat_14:28S, si eres tú, manda que yo vaya a tiG2962
+- Mat_14:30tuvo miedo; y...dio voces...¡S, sálvame![[G2962]]
+- Mat_15:22¡S, Hijo de David, ten misericordia deG2962
+- Mat_15:25y se postró...diciendo: ¡S, socórremeG2962
+- Mat_15:27sí, S; pero aun los perrillos comen deG2962
+- Mat_16:22diciendo: S, ten compasión de ti; enG2962
+- Mat_17:4S, bueno es para nosotros que estemosG2962
+- Mat_17:15S, ten misericordia de mi hijo, que esG2962
+- Mat_18:21le dijo: S, ¿cuántas veces perdonaré aG2962
+- Mat_18:25ordenó su s venderle, y a su mujer eG2962
+- Mat_18:26S, ten paciencia conmigo, y yo te loG2962
+- Mat_18:27el s...movido a misericordia, le soltóG2962
+- Mat_18:31refirieron a su s...lo que había pasadoG2962
+- Mat_18:32llamándole su s...dijo: Siervo malvadoG2962
+- Mat_18:34s, enojado, le entregó a los verdugosG2962
+- Mat_20:8llegó la noche, el s de la viña dijo a suG2962
+- Mat_20:30-31¡S, Hijo de David, ten misericordiaG2962
+- Mat_20:33S, que sean abiertos nuestros ojosG2962
+- Mat_21:3el S los necesita; y luego los enviaráG2962
+- Mat_21:9¡Bendito el que viene en el nombre del S![[G2962]]
+- Mat_21:30respondiendo él, dijo: Sí, s...Y no fueG2962
+- Mat_21:40cuando venga..s de la viña, ¿qué haráG2962
+- Mat_21:42S ha hecho esto, y es cosa maravillosaG2962
+- Mat_22:37amarás al S...Dios con todo tu corazónG2962
+- Mat_22:43cómo David en el Espíritu le llama SG2962
+- Mat_22:44dijo el S a mi S: Siéntate a mi derechaG2962
+- Mat_22:45si David le llama S, ¿cómo es su hijo?[[G2962]]
+- Mat_23:39bendito el que viene en...nombre del SG2962
+- Mat_24:42no...a qué hora ha de venir vuestro SG2962
+- Mat_24:45al cual puso su s sobre su casa paraG2962
+- Mat_24:46cuando su S venga, le halle haciendoG2962
+- Mat_24:48aquel siervo malo dijere...Mi s tardaG2962
+- Mat_24:50vendrá el s de aquel siervo en día queG2962
+- Mat_25:11las otras...diciendo: ¡S, s, ábrenos![[G2962]]
+- Mat_25:18cavó en...y escondió el dinero de su sG2962
+- Mat_25:19vino el s...y arregló cuentas con ellosG2962
+- Mat_25:20s, cinco talentos me entregaste; aquíG2962
+- Mat_25:21, Mat_25:23s le dijo: Bien, buen siervo y fielG2962
+- Mat_25:21, Mat_25:23siervo...entra en el gozo de tu sG2962
+- Mat_25:22s, dos talentos Me entregaste; aquíG2962
+- Mat_25:24s, te conocía que eres hombre duro, queG2962
+- Mat_25:26su s, le dijo: Siervo malo y negligenteG2962
+- Mat_25:37, Mat_25:44S, ¿cuándo te vimos hambriento, yG2962
+- Mat_26:22comenzó cada uno...decirle: ¿Soy yo, S?[[G2962]]
+- Mat_27:10y las dieron para...como me ordenó el SG2962
+- Mat_27:63s, nos acordamos que aquel engañadorG2962
+- Mat_28:2un ángel del S, descendiendo del cieloG2962
+- Mat_28:6venid, ved...lugar donde fue puesto el SG2962
+- Mar_1:3preparad el camino del S; enderezad susG2962
+- Mar_2:28el Hijo del...es S aun del día de reposoG2962
+- Mar_5:19y cuéntales cuán grandes cosas el S haG2962
+- Mar_7:28le dijo: Sí, S; pero aun los perrillosG2962
+- Mar_11:3decid que el S lo necesita, y que luegoG2962
+- Mar_11:9¡bendito el...viene en el nombre del S![[G2962]]
+- Mar_12:9¿qué...hará el s de la viña? Vendrá, yG2962
+- Mar_12:11S ha hecho esto, y es cosa maravillosaG2962
+- Mar_12:29Israel: el S nuestro Dios, el S uno esG2962
+- Mar_12:30amarás al S tu Dios con todo...corazónG2962
+- Mar_12:36dijo el S a mi S: Siéntate a mi diestraG2962
+- Mar_12:37David mismo le llama S; ¿cómo, puesG2962
+- Mar_13:20y si el S no hubiese acortado aquellosG2962
+- Mar_13:35porque no sabéis cuándo vendrá el s deG2962
+- Mar_14:14decid al s de la casa: El Maestro diceG3611
+- Mar_16:19y el S, después que les habló...arribaG2962
+- Mar_16:20ayudándoles el S y confirmando...palabraG2962
+- Luc_1:6los mandamientos y ordenanzas del SG2962
+- Luc_1:9ofrecer...entrando en el santuario del SG2962
+- Luc_1:11apareció un ángel del S puesto en pieG2962
+- Luc_1:16hará que muchos de...se conviertan al SG2962
+- Luc_1:17preparar al S un pueblo bien dispuestoG2962
+- Luc_1:25así ha hecho conmigo el S en los días enG2962
+- Luc_1:28el S es contigo; bendita tú entre lasG2962
+- Luc_1:32el S Dios le dará el trono de David suG2962
+- Luc_1:38he aquí la sierva del S; hágase conmigoG2962
+- Luc_1:43a mí, que la madre de mi S venga a mí?[[G2962]]
+- Luc_1:45se cumplirá...le fue dicho de parte del SG2962
+- Luc_1:46María dijo: Engrandece mi alma al SG2962
+- Luc_1:66¿quién...Y la mano del S estaba con élG2962
+- Luc_1:68el S Dios de Israel, que ha visitado aG2962
+- Luc_1:76tú...irás delante de la presencia del SG2962
+- Luc_2:9he aquí, se les presentó un ángel del SG2962
+- Luc_2:9la gloria del S los rodeó de resplandorG2962
+- Luc_2:11nacido...un Salvador, que es Cristo el SG2962
+- Luc_2:15y veamos esto...el S nos ha manifestadoG2962
+- Luc_2:22trajeron a Jerusalén...presentarle al SG2962
+- Luc_2:23como está escrito en la ley del S: TodoG2962
+- Luc_2:23abriere la matriz...llamado santo al SG2962
+- Luc_2:24conforme...que se dice en la ley del SG2962
+- Luc_2:26muerte antes que viese al Ungido del SG2962
+- Luc_2:29ahora, S, despides a tu siervo en pazG1203
+- Luc_2:39haber cumplido con todo...la ley del SG2962
+- Luc_3:4preparad el camino del S; enderezad susG2962
+- Luc_4:8S tu Dios adorarás, y a él solo servirásG2962
+- Luc_4:12Jesús, le dijo...No tentarás al S tu DiosG2962
+- Luc_4:18el Espíritu del S está sobre mí, porG2962
+- Luc_4:19a predicar el año agradable del SG2962
+- Luc_5:8apártate de mí, S, porque soy...pecadorG2962
+- Luc_5:12le rogó...S, si quieres, puedes limpiarmeG2962
+- Luc_5:17el poder del S estaba con él para sanarG2962
+- Luc_6:5el Hijo del...es S aun del día de reposoG2962
+- Luc_6:46¿por qué me llamáis, S, S, y no hacéisG2962
+- Luc_7:6S, no te molestes, pues no soy digno deG2962
+- Luc_7:13cuando el S la vio, se compadeció de ellaG2962
+- Luc_7:31dijo el S: ¿A qué, pues, compararé losG2962
+- Luc_9:54S, ¿quieres que mandemos que desciendaG2962
+- Luc_9:57S, te seguiré adondequiera que vayasG2962
+- Luc_9:59S...primero vaya y entierre a mi padreG2962
+- Luc_9:61seguiré, S; pero déjame que me despidaG2962
+- Luc_10:1designó el S también a otros setenta, aG2962
+- Luc_10:2rogad al S de la mies que envíe obrerosG2962
+- Luc_10:17S, aun los demonios se nos sujetan enG2962
+- Luc_10:21yo te alabo, oh Padre, S del cielo y deG2962
+- Luc_10:27amarás al S tu Dios con todo...corazónG2962
+- Luc_10:40S, ¿no te da cuidado que mi hermana meG2962
+- Luc_11:1S, enséñanos a orar, como también JuanG2962
+- Luc_11:39el S le dijo: Ahora bien, vosotros losG2962
+- Luc_12:36hombres que aguardan...que su s regreseG2962
+- Luc_12:37a los cuales su s, cuando venga, halleG2962
+- Luc_12:41S, ¿dices esta parábola a nosotros, oG2962
+- Luc_12:42dijo el S: ¿Quién es el mayordomo fielG2962
+- Luc_12:42su s pondrá sobre su casa, para que aG2962
+- Luc_12:43cuando su s venga, le halle haciendo asíG2962
+- Luc_12:45si...Mi s tarda en venir; y comenzare aG2962
+- Luc_12:46vendrá el s de aquel siervo en día queG2962
+- Luc_12:47que conociendo la voluntad de su s, noG2962
+- Luc_13:8s, déjala todavía este año, hasta que yoG2962
+- Luc_13:15el S le respondió...Hipócrita, cada unoG2962
+- Luc_13:23dijo: S, ¿son pocos los que se salvan?[[G2962]]
+- Luc_13:25diciendo: S, s, ábrenos, él...os diráG2962
+- Luc_13:35bendito el que viene en nombre del SG2962
+- Luc_14:21siervo, hizo saber estas cosas a su sG2962
+- Luc_14:22s, se ha hecho como mandaste, y aún hayG2962
+- Luc_14:23dijo el s al siervo: Vé por los caminosG2962
+- Luc_16:13ningún siervo puede servir a dos sG2962
+- Luc_17:5dijeron los apóstoles al S: AuméntanosG2962
+- Luc_17:6el S dijo: Si tuvierais fe como un granoG2962
+- Luc_17:37dijeron: ¿Dónde, S? El les dijo: DondeG2962
+- Luc_18:6el S: Oíd lo que dijo el juez injustoG2962
+- Luc_18:41¿qué...él dijo: S, que reciba la vistaG2962
+- Luc_19:8dijo al S: He aquí, S, la mitad de misG2962
+- Luc_19:16diciendo: S, tu mina ha ganado diezG2962
+- Luc_19:18s, tu mina ha producido cinco minasG2962
+- Luc_19:20s, aquí está tu mina, la cual he tenidoG2962
+- Luc_19:25ellos le dijeron: S, tiene diez minasG2962
+- Luc_19:31responderéis...Porque el S lo necesitaG2962
+- Luc_19:34ellos dijeron: Porque el S lo necesitaG2962
+- Luc_19:38bendito...que viene en el nombre del SG2962
+- Luc_20:13entonces el s de la viña dijo: ¿QuéG2962
+- Luc_20:15¿qué, pues, les hará el s de la viña?[[G2962]]
+- Luc_20:37llama al S, Dios de Abraham, Dios deG2962
+- Luc_20:42dijo el S a mi S: Siéntate a mi diestraG2962
+- Luc_20:44David...le llama S; ¿cómo entonces esG2962
+- Luc_22:31dijo también el S: Simón, Simón, heG2962
+- Luc_22:33S, dispuesto estoy a ir...a la muerteG2962
+- Luc_22:38ellos dijeron: S, aquí hay dos espadasG2962
+- Luc_22:49le dijeron: S, ¿heriremos a espada?[[G2962]]
+- Luc_22:61vuelto el S, miró a Pedro; y Pedro seG2962
+- Luc_22:61y Pedro se acordó de la palabra del SG2962
+- Luc_24:3y entrando, no hallaron el cuerpo del SG2962
+- Luc_24:34ha resucitado el S verdaderamente, yG2962
+- Jua_1:23enderezad el camino del S, como dijoG2962
+- Jua_4:1S entendió que los fariseos habían oídoG2962
+- Jua_4:11S, no tienes con qué sacarla, y el pozoG2962
+- Jua_4:15S, dame de esa agua, para que no tengaG2962
+- Jua_4:19dijo...S, me parece que tú eres profetaG2962
+- Jua_4:49S, desciende antes que mi hijo mueraG2962
+- Jua_5:7S...no tengo quien me meta en el estanqueG2962
+- Jua_6:23pan después de haber dado gracias el SG2962
+- Jua_6:34le dijeron: S, danos siempre este panG2962
+- Jua_6:68respondió...Pedro: S, ¿a quién iremos?[[G2962]]
+- Jua_8:11ella dijo: Ninguno, S...Entonces JesúsG2962
+- Jua_9:36dijo: ¿Quién es, S, para que crea en él?[[G2962]]
+- Jua_9:38y él dijo: Creo, S; y le adoróG2962
+- Jua_11:2María...fue la que ungió al S con perfumeG2962
+- Jua_11:3S, he aquí el que amas está enfermoG2962
+- Jua_11:12los discípulos: S, si duerme, sanaráG2962
+- Jua_11:21, Jua_11:32S, si hubieses estado aquí...hermanoG2962
+- Jua_11:27S; yo he creído que tú eres el CristoG2962
+- Jua_11:34le pusisteis? Le dijeron: S, ven y veG2962
+- Jua_11:39S, hiede ya, porque es de cuatro díasG2962
+- Jua_12:13¡bendito el...viene en el nombre del SG2962
+- Jua_12:21le rogaron...S, quisiéramos ver a JesúsG2962
+- Jua_12:38S, ¿quién ha creído a nuestro anuncio?[[G2962]]
+- Jua_12:38a quién se ha revelado el brazo del S?[[G2962]]
+- Jua_13:6Pedro le dijo: S, ¿tú me lavas los pies?[[G2962]]
+- Jua_13:9S, no sólo mis pies, sino también lasG2962
+- Jua_13:13me llamáis Maestro, y S; y decís bienG2962
+- Jua_13:14si yo, el S y...he lavado vuestros piesG2962
+- Jua_13:16os digo: El siervo no es mayor que su sG2962
+- Jua_13:25cerca del pecho de Jesús...S, ¿quién es?[[G2962]]
+- Jua_13:36le dijo Simón Pedro: S, ¿a dónde vas?[[G2962]]
+- Jua_13:37S, ¿por qué no te puedo seguir ahora?[[G2962]]
+- Jua_14:5dijo Tomás: S, no sabemos a dónde vasG2962
+- Jua_14:8S, muéstranos el Padre, y nos bastaG2962
+- Jua_14:22dijo...S, ¿cómo es que te manifestarásG2962
+- Jua_15:15el siervo no sabe lo que hace su s; peroG2962
+- Jua_15:20dicho: El siervo no es mayor que su sG2962
+- Jua_20:2dijo: Se han llevado del sepulcro al SG2962
+- Jua_20:13se han llevado a mi S, y no sé dónde leG2962
+- Jua_20:15s, si tú lo has llevado, dime dónde loG2962
+- Jua_20:18las nuevas de que había visto al SG2962
+- Jua_20:20discípulos se regocijaron viendo al SG2962
+- Jua_20:25le dijeron...Al S hemos visto...El lesG2962
+- Jua_20:28Tomás respondió y...S mío, y Dios mío![[G2962]]
+- Jua_21:7aquel discípulo...dijo a Pedro: ¡Es el S![[G2962]]
+- Jua_21:7Pedro, cuando oyó que era el S, se ciñóG2962
+- Jua_21:12se atrevía a...sabiendo que era el SG2962
+- Jua_21:15-16Pedro...Sí, S; tú sabes que te amoG2962
+- Jua_21:17le respondió: S, tú lo sabes todo; túG2962
+- Jua_21:20S, ¿quién es el que te ha de entregar?[[G2962]]
+- Jua_21:21vio, dijo a Jesús: S, ¿y qué de éste?[[G2962]]
+- Hec_1:6S, ¿restaurarás el reino a Israel enG2962
+- Hec_1:21el tiempo que el S Jesús entraba y salíaG2962
+- Hec_1:24S, que conoces los corazones de todosG2962
+- Hec_2:20antes que venga el día del S, grande yG2962
+- Hec_2:21todo aquel que invocare el nombre del SG2962
+- Hec_2:25dice...Veía al S siempre delante de míG2962
+- Hec_2:34dijo el S a mi S: Siéntate a mi diestraG2962
+- Hec_2:36este Jesús...Dios le ha hecho S y CristoG2962
+- Hec_2:39para cuantos el S nuestro Dios llamareG2962
+- Hec_2:47el S añadía cada día a la iglesia losG2962
+- Hec_3:19vengan de la presencia del S tiempos deG2962
+- Hec_3:22el S vuestro Dios os levantará profetaG2962
+- Hec_4:24S, tú eres el Dios que hiciste el cieloG2962
+- Hec_4:26se juntaron en uno contra el S, y contraG2962
+- Hec_4:29ahora, S, mira sus amenazas, y concedeG2962
+- Hec_4:33testimonio de la resurrección del SG2962
+- Hec_5:9¿por qué...en tentar al Espíritu del S?[[G2962]]
+- Hec_5:14los que creían en el S aumentaban másG2962
+- Hec_5:19un ángel del S, abriendo de noche lasG2962
+- Hec_6:7crecía la palabra del S, y el número deG2962
+- Hec_7:31y acercándose...vino a él la voz del SG2962
+- Hec_7:33le dijo el S: Quita el calzado de tusG2962
+- Hec_7:37profeta os levantará el S vuestro DiosG2962
+- Hec_7:49¿qué casa me edificaréis? dice el SG2962
+- Hec_7:59y decía: S Jesús, recibe mi espírituG2962
+- Hec_7:60S, no les tomes en cuenta este pecadoG2962
+- Hec_8:24dijo: Rogad vosotros por mí al S, paraG2962
+- Hec_8:26un ángel del S habló a Felipe, diciendoG2962
+- Hec_8:39el Espíritu del S arrebató a FelipeG2962
+- Hec_9:1muerte contra los discípulos del S, vinoG2962
+- Hec_9:5él dijo: ¿Quién eres, S?...YO soy JesúsG2962
+- Hec_9:6él...dijo: S, ¿qué quieres que yo haga?[[G2962]]
+- Hec_9:6y el S le dijo: Levántate y entra en laG2962
+- Hec_9:10a quien el S dijo en visión: AnaníasG2962
+- Hec_9:10Ananías...Y él respondió: Heme aquí, SG2962
+- Hec_9:11S le dijo: Levántate, y vé a la calleG2962
+- Hec_9:13respondió: S, he oído de muchos acercaG2962
+- Hec_9:15el S le dijo: Vé, porque instrumentoG2962
+- Hec_9:17Saulo, el S Jesús, que se te apareció enG2962
+- Hec_9:27Saulo había visto en el camino al S, elG2962
+- Hec_9:29hablaba...el nombre del S, y disputabaG2962
+- Hec_9:31edificadas, andando en el temor del SG2962
+- Hec_9:35Sarón, los cuales se convirtieron al SG2962
+- Hec_9:42fue notorio...y muchos creyeron en el SG2962
+- Hec_10:4y atemorizado, dijo: ¿Qué es, S? Y leG2962
+- Hec_10:14Pedro dijo: S, no; porque ninguna cosaG2962
+- Hec_10:36por medio de Jesucristo; éste es S deG2962
+- Hec_10:48bautizarles en el nombre del S JesúsG2962
+- Hec_11:8dije: S, no; porque ninguna cosa comúnG2962
+- Hec_11:16me acordé de lo dicho por el S, cuandoG2962
+- Hec_11:17que a nosotros que hemos creído en el SG2962
+- Hec_11:20anunciando el evangelio del S JesúsG2962
+- Hec_11:21la mano del S estaba con ellos, y granG2962
+- Hec_11:21gran número creyó y se convirtió al SG2962
+- Hec_11:23a que con...permaneciesen fieles al SG2962
+- Hec_11:24y una gran multitud fue agregada al SG2962
+- Hec_12:7se presentó un ángel del S, y una luzG2962
+- Hec_12:11que el S ha enviado su ángel, y me haG2962
+- Hec_12:17cómo el S le había sacado de la ¿cárcelG2962
+- Hec_12:23al momento un ángel del S le hirió, porG2962
+- Hec_12:24palabra del S crecía y se multiplicabaG2316
+- Hec_13:2ministrando éstos al S, y ayunando, dijoG2962
+- Hec_13:10trastornar los caminos rectos del S?[[G2962]]
+- Hec_13:11la mano del S está contra ti, y serásG2962
+- Hec_13:12creyó, maravillado de la doctrina del SG2962
+- Hec_13:47así nos ha mandado el S, diciendo: TeG2962
+- Hec_13:48oyendo...glorificaban la palabra del SG2962
+- Hec_13:49la palabra del S se difundía por todaG2962
+- Hec_14:3con denuedo, confiados en el S, el cualG2962
+- Hec_14:23los encomendaron al S en quien habíanG2962
+- Hec_15:11que por la gracia del S Jesús...salvosG2962
+- Hec_15:17que el resto de los hombres busque al SG2962
+- Hec_15:18dice el S, que hace conocer todo estoG2316
+- Hec_15:26han expuesto su vida por el nombre...SG2962
+- Hec_15:35Antioquía, enseñando la palabra del SG2962
+- Hec_15:36que hemos anunciado la palabra del SG2962
+- Hec_15:40salió encomendado...a la gracia del SG2962
+- Hec_16:14y el S abrió el corazón de ella paraG2962
+- Hec_16:15si habéis juzgado que yo sea fiel al SG2962
+- Hec_16:30dijo: S, ¿qué debo hacer para ser salvo?[[G2962]]
+- Hec_16:31cree en el S Jesucristo, y serás salvoG2962
+- Hec_16:32le hablaron la palabra del S a él y aG2962
+- Hec_17:24S del cielo y de la tierra, no habitaG2962
+- Hec_18:8Crispo...creyó en el S con toda su casaG2962
+- Hec_18:9el S dijo a Pablo en visión...No temasG2962
+- Hec_18:25había sido instruido en el camino del SG2962
+- Hec_18:25enseñaba...lo concerniente al S, aunqueG2962
+- Hec_19:5fueron bautizados en el nombre del SG2962
+- Hec_19:10judíos y griegos, oyeron la palabra del S JesúsG2962
+- Hec_19:13invocar el nombre del S Jesús sobre losG2962
+- Hec_19:17era magnificado el nombre del S JesúsG2962
+- Hec_19:20crecía...poderosamente la palabra del SG2962
+- Hec_20:19sirviendo al S con toda humildad, y conG2962
+- Hec_20:21arrepentimiento...y de la fe en nuestro SG2962
+- Hec_20:24y el ministerio que recibí del S JesúsG2962
+- Hec_20:28apacentar la iglesia del S, la cual élG2316
+- Hec_20:35recordar las palabras del S Jesús, queG2962
+- Hec_21:13a morir en...por el nombre del S JesúsG2962
+- Hec_21:14diciendo: Hágase la voluntad del SG2962
+- Hec_22:8¿quién eres, S?...soy Jesús de NazaretG2962
+- Hec_22:10y dije: ¿Qué haré, S? Y el S me dijoG2962
+- Hec_22:19dije: S, ellos saben que yo encarcelabaG2962
+- Hec_23:11le presentó el S y le dijo: Ten ánimoG2962
+- Hec_25:26no tengo cosa cierta...escribir a mi sG2962
+- Hec_26:15dije: ¿Quién eres, S? Y el S dijo: YoG2962
+- Hec_28:31y enseñando acerca del S JesucristoG2962
+- Rom_1:3de su Hijo, nuestro S Jesucristo, queG2962
+- Rom_1:7gracia y paz...de Dios...del S JesucristoG2962
+- Rom_4:8varón a quien el S no inculpa de pecadoG2962
+- Rom_4:24en el que levantó...a Jesús, S nuestroG2962
+- Rom_5:1paz...por medio de nuestro S JesucristoG2962
+- Rom_5:11nos gloriamos en Dios por el S nuestroG2962
+- Rom_5:21vida eterna mediante Jesucristo, SG2962
+- Rom_6:11vivos para Dios en Cristo...S nuestroG2962
+- Rom_6:23vida eterna en Cristo Jesús S nuestroG2962
+- Rom_7:25gracias doy...por Jesucristo S nuestroG2962
+- Rom_8:39amor...que es en Cristo Jesús S nuestroG2962
+- Rom_9:28el S ejecutará su sentencia sobre laG2962
+- Rom_9:29S...no nos hubiera dejado descendenciaG2962
+- Rom_10:9si confesares con tu...que Jesús es el SG2962
+- Rom_10:12mismo que es S de todos, es rico paraG2962
+- Rom_10:13invocare el nombre del S, será salvoG2962
+- Rom_10:16S, ¿quién ha creído a nuestro anuncio?[[G2962]]
+- Rom_11:3S, a tus profetas han dado muerte, y tusG2962
+- Rom_11:34porque ¿quién entendió la mente del S?[[G2962]]
+- Rom_12:11fervientes en espíritu, sirviendo al SG2962
+- Rom_12:19mía es la venganza...pagaré, dice el SG2962
+- Rom_13:14vestíos del S Jesucristo, y no proveáisG2962
+- Rom_14:4para su propio s está en pie, o cae; peroG2962
+- Rom_14:4poderoso es el S...hacerle estar firmeG2316
+- Rom_14:6que hace caso del día, lo hace para el SG2962
+- Rom_14:6que no hace caso...para el S no lo haceG2962
+- Rom_14:6el que come, para el S come, porque daG2962
+- Rom_14:6el que no come, para el S no come, y daG2962
+- Rom_14:8pues si vivimos, para el S vivimos; y siG2962
+- Rom_14:8pues...y si morimos, para el S morimosG2962
+- Rom_14:8que vivamos, o que muramos, del S somosG2962
+- Rom_14:9ser S así de los muertos como de los queG2962
+- Rom_14:11yo, dice el S, que ante mí se doblaráG2962
+- Rom_14:14y confío en el S...que nada es inmundoG2962
+- Rom_15:6glorifiquéis al...y Padre de nuestro SG2962
+- Rom_15:11y otra vez: Alabad al S...los gentilesG2962
+- Rom_15:30ruego...por nuestro S Jesucristo y elG2962
+- Rom_16:2que la recibáis en el S, como es dignoG2962
+- Rom_16:8saludad a Amplias, amado mío en el SG2962
+- Rom_16:12a Trifosa, las cuales trabajan en el SG2962
+- Rom_16:12la cual ha trabajado mucho en el SG2962
+- Rom_16:13saludad a Rufo, escogido en el S, y aG2962
+- Rom_16:18tales personas no sirven a nuestro SG2962
+- Rom_16:20la gracia de nuestro S Jesucristo seaG2962
+- Rom_16:22Tercio, que escribí...os saludo en el SG2962
+- Rom_16:24la gracia de nuestro S Jesucristo seaG2962
+- 1Co_1:2lugar invocan el nombre de nuestro SG2962
+- 1Co_1:3y paz a vosotros, de...y del S JesucristoG2962
+- 1Co_1:7la manifestación de nuestro S JesucristoG2962
+- 1Co_1:8irreprensibles en el día de nuestro SG2962
+- 1Co_1:9la comunión con su Hijo Jesucristo...SG2962
+- 1Co_1:10ruego, pues...por el nombre de nuestro SG2962
+- 1Co_1:31que...el que se gloria, gloríese en el SG2962
+- 1Co_2:8nunca habrían crucificado al S de gloriaG2962
+- 1Co_2:16porque ¿quién conoció la mente del S?[[G2962]]
+- 1Co_3:5eso según lo que a cada uno concedió el SG2962
+- 1Co_3:20otra vez: El S conoce los pensamientosG2962
+- 1Co_4:4de nada...pero el que me juzga es el SG2962
+- 1Co_4:5no juzguéis nada...hasta que venga el SG2962
+- 1Co_4:17mi hijo amado y fiel en el S, el cual osG2962
+- 1Co_4:19iré pronto a vosotros, si el S quiereG2962
+- 1Co_5:4en el nombre de...S Jesucristo, reunidosG2962
+- 1Co_5:4con el poder de nuestro S JesucristoG2962
+- 1Co_5:5que el espíritu sea salvo en el día del SG2962
+- 1Co_6:11justificados en el nombre del S JesúsG2962
+- 1Co_6:13cuerpo no...sino para el S, y el S paraG2962
+- 1Co_6:14que levantó al S, también a nosotrosG2962
+- 1Co_6:17que se une al S, un espíritu es con élG2962
+- 1Co_7:10mando, no yo, sino el S: Que la mujerG2962
+- 1Co_7:12a los demás yo digo, no el S: Si algúnG2962
+- 1Co_7:17pero cada uno como el S le repartió, yG2962
+- 1Co_7:22que en el S fue llamado siendo esclavoG2962
+- 1Co_7:22que...siendo esclavo, liberto es del SG2962
+- 1Co_7:25las vírgenes no tengo mandamiento del SG2962
+- 1Co_7:25alcanzado misericordia del S para serG2962
+- 1Co_7:32el soltero tiene cuidado de las...del SG2962
+- 1Co_7:32tiene cuidado...de cómo agradar al SG2962
+- 1Co_7:34la doncella tiene cuidado de las...del SG2962
+- 1Co_7:35que sin impedimento os acerquéis al SG2962
+- 1Co_7:39para casarse...con tal que sea en el SG2962
+- 1Co_8:5haya...como hay muchos dioses y muchos sG2962
+- 1Co_8:6y un S, Jesucristo, por medio del cualG2962
+- 1Co_9:1¿no...¿No he visto a Jesús el S nuestro?[[G2962]]
+- 1Co_9:1soy...¿No sois vosotros mi obra en el S?[[G2962]]
+- 1Co_9:2el sello de mi apostolado sois...en el SG2962
+- 1Co_9:5los otros...los hermanos del S, y Cefas?[[G2962]]
+- 1Co_9:14así...ordenó el S a los que anuncian elG2962
+- 1Co_10:9ni tentemos al S, como algunos de ellosG2962
+- 1Co_10:21no podéis beber la copa del S, y la copaG2962
+- 1Co_10:21no podéis participar de la mesa del SG2962
+- 1Co_10:22¿o provocaremos a celos al S? ¿SomosG2962
+- 1Co_10:26, 1Co_10:28del S es la tierra y su plenitudG2962
+- 1Co_11:11en el S, ni el varón es sin la mujerG2962
+- 1Co_11:20reunís...esto no es comer la cena del SG2962
+- 1Co_11:23yo recibí del S lo que...os he enseñadoG2962
+- 1Co_11:23el S Jesús, la noche que fue entregadoG2962
+- 1Co_11:26la muerte del S anunciáis hasta que élG2962
+- 1Co_11:27o bebiere esta copa del S indignamenteG2962
+- 1Co_11:27será culpado del cuerpo y de la...del SG2962
+- 1Co_11:29sin discernir el cuerpo del S, juicioG2962
+- 1Co_11:32somos castigados por el S, para que noG2962
+- 1Co_12:3nadie puede llamar a Jesús S, sino porG2962
+- 1Co_12:5y hay diversidad de...el S es el mismoG2962
+- 1Co_14:21escrito...ni aun así me oirán, dice el SG2962
+- 1Co_14:37que os escribo son mandamientos del SG2962
+- 1Co_15:31por la gloria que...tengo en nuestro SG2962
+- 1Co_15:47el segundo hombre, que es el S, es delG2962
+- 1Co_15:57da la victoria por medio de nuestro SG2962
+- 1Co_15:58creciendo en la obra del S siempreG2962
+- 1Co_15:58vuestro trabajo en el S no es en vanoG2962
+- 1Co_16:7estar con vosotros...si el S lo permiteG2962
+- 1Co_16:10porque él hace la obra del S así comoG2962
+- 1Co_16:19y Priscila...os saludan mucho en el SG2962
+- 1Co_16:22no amare al S...sea anatemaG2962
+- 1Co_16:22El S vieneG3134
+- 1Co_16:23la gracia del S Jesucristo esté conG2962
+- 2Co_1:2gracia y paz a vosotros, de...y del SG2962
+- 2Co_1:3bendito sea el Dios y Padre de nuestro SG2962
+- 2Co_1:14que somos vuestra gloria...el día del SG2962
+- 2Co_2:12Troas...aunque se me abrió puerta en el SG2962
+- 2Co_3:16cuando se conviertan al S, el velo seG2962
+- 2Co_3:17porque el S es Espíritu; y donde estáG2962
+- 2Co_3:17donde está el Espíritu del S, allí hayG2962
+- 2Co_3:18mirando...en un espejo la gloria del SG2962
+- 2Co_3:18transformados de...por el Espíritu del SG2962
+- 2Co_4:5no...predicamos...sino a Jesucristo como SG2962
+- 2Co_4:14el que resucitó al S Jesús, a nosotrosG2962
+- 2Co_5:6en el cuerpo, estamos ausentes del SG2962
+- 2Co_5:8ausentes del cuerpo, y presentes al SG2962
+- 2Co_5:11conociendo...el temor del S, persuadimosG2962
+- 2Co_6:17salid de...de ellos, apartaos, dice el SG2962
+- 2Co_6:18vosotros me seréis hijos e...dice el SG2962
+- 2Co_8:5se dieron primeramente al S, y luego aG2962
+- 2Co_8:9ya conocéis la gracia de nuestro S, queG2962
+- 2Co_8:19que es administrado...para gloria del SG2962
+- 2Co_8:21honradamente, no sólo delante del S sinoG2962
+- 2Co_10:8nuestra autoridad, la cual el S nos dioG2962
+- 2Co_10:17mas el que se gloría, gloríese en el SG2962
+- 2Co_11:17lo que hablo, no lo hablo según el SG2962
+- 2Co_11:31el Dios y Padre de nuestro S...sabe queG2962
+- 2Co_12:1pero vendré...a las revelaciones del SG2962
+- 2Co_12:8veces he rogado al S, que lo quite deG2962
+- 2Co_13:10la autoridad que el S me ha dado paraG2962
+- 2Co_13:14la gracia del S Jesucristo, el amor deG2962
+- Gál_1:3y paz sean a vosotros, de...nuestro SG2962
+- Gál_1:19no vi...sino a Jacobo el hermano del SG2962
+- Gál_4:1en nada difiere del esclavo, aunque es SG2962
+- Gál_5:10yo confío...de vosotros, en el S que noG2962
+- Gál_6:14gloriarme, sino en la cruz de nuestro SG2962
+- Gál_6:17yo traigo en mi cuerpo las marcas del SG2962
+- Gál_6:18la gracia de nuestro S Jesucristo seaG2962
+- Efe_1:2paz a vosotros, de Dios...Padre y del SG2962
+- Efe_1:3bendito sea el Dios y Padre de nuestro SG2962
+- Efe_1:15yo, habiendo oído de vuestra fe en el SG2962
+- Efe_1:17el Dios de nuestro S Jesucristo...os déG2962
+- Efe_2:21creciendo para...un templo santo en el SG2962
+- Efe_3:11propósito eterno que hizo en...nuestro SG2962
+- Efe_3:14mis rodillas ante el Padre de nuestro SG2962
+- Efe_4:1preso en el S, os ruego que andéis comoG2962
+- Efe_4:5un S, una fe, un bautismoG2962
+- Efe_4:17esto, pues, digo y requiero en el S: queG2962
+- Efe_5:8mas ahora sois luz en el S; andad comoG2962
+- Efe_5:10comprobando lo que es agradable al SG2962
+- Efe_5:17sino entendidos de...la voluntad del SG2962
+- Efe_5:19y alabando al S en vuestros corazonesG2962
+- Efe_5:20gracias por...en el nombre de nuestro SG2962
+- Efe_5:22las casadas estén sujetas a...como al SG2962
+- Efe_6:1hijos, obedeced en el S...padres, porqueG2962
+- Efe_6:4sino criadlos en...y amonestación del SG2962
+- Efe_6:7voluntad, como al S y no a los hombresG2962
+- Efe_6:8recibirá del S, sea siervo o sea libreG2962
+- Efe_6:9sabiendo que el S de...está en los cielosG2962
+- Efe_6:10fortaleceos en el S, y en el poder deG2962
+- Efe_6:21Tíquico...amado y fiel ministro en el SG2962
+- Efe_6:23amor con fe, de Dios...del S JesucristoG2962
+- Efe_6:24gracia sea con...los que aman a nuestro SG2962
+- Flp_1:2paz a vosotros, de...del S JesucristoG2962
+- Flp_1:14cobrando ánimo en el S con...prisionesG2962
+- Flp_2:11lengua confiese que Jesucristo es el SG2962
+- Flp_2:19espero en el S Jesús enviaros pronto aG2962
+- Flp_2:24y confío en el S que yo...iré pronto aG2962
+- Flp_2:29recibidle, pues, en el S, con todo gozoG2962
+- Flp_3:1por lo demás, hermanos, gozaos en el SG2962
+- Flp_3:8del conocimiento de Cristo Jesús, mi SG2962
+- Flp_3:20de donde...esperamos al...al S JesucristoG2962
+- Flp_4:1hermanos míos...estad así firmes en el SG2962
+- Flp_4:2ruego...sean de un mismo sentir en el SG2962
+- Flp_4:4regocijaos en el S siempre...Otra vez digoG2962
+- Flp_4:5gentileza sea conocida...El S está cercaG2962
+- Flp_4:10me gocé en el S de que ya al fin habéisG2962
+- Flp_4:23la gracia de nuestro S...sea con todosG2962
+- Col_1:2gracia y paz sean a vosotros...del SG2962
+- Col_1:3damos gracias a Dios, Padre de nuestro SG2962
+- Col_1:10andéis como es digno del S, agradándoleG2962
+- Col_2:6de la manera que habéis recibido al SG2962
+- Col_3:16cantando con...al S con salmos e himnosG2962
+- Col_3:17hacedlo todo en el nombre del S JesúsG2962
+- Col_3:18estad sujetas a...como conviene en el SG2962
+- Col_3:20obedeced a vuestros padres...agrada al SG2962
+- Col_3:23hacedlo de corazón, como para el S y noG2962
+- Col_3:24que del S recibiréis la recompensa de laG2962
+- Col_3:24la herencia, porque a Cristo el S servísG2962
+- Col_4:3que el S nos abra puerta para la palabraG2316
+- Col_4:7lo hará saber Tíquico...consiervo en el SG2962
+- Col_4:17cumplas el ministerio...recibiste en el SG2962
+- 1Ts_1:1a la iglesia de...en el S JesucristoG2962
+- 1Ts_1:1gracia y paz sean a...y del S JesucristoG2962
+- 1Ts_1:3en la esperanza en nuestro S JesucristoG2962
+- 1Ts_1:6vinisteis a ser imitadores de...y del SG2962
+- 1Ts_1:8divulgada la palabra del S, no sólo enG2962
+- 1Ts_2:15los cuales mataron al S Jesús y a susG2962
+- 1Ts_2:19lo sois vosotros, delante de nuestro SG2962
+- 1Ts_3:8ahora vivimos, si...estáis firmes en el SG2962
+- 1Ts_3:11S Jesucristo, dirijan nuestro camino aG2962
+- 1Ts_3:12y el S os haga crecer y abundar en amorG2962
+- 1Ts_3:13en la venida de nuestro S Jesucristo conG2962
+- 1Ts_4:1rogamos y exhortarnos en el S Jesús, queG2962
+- 1Ts_4:2qué instrucciones os dimos por el S JesúsG2962
+- 1Ts_4:6el S es vengador de todo esto, como yaG2962
+- 1Ts_4:15os decimos esto en palabra del S: queG2962
+- 1Ts_4:15habremos quedado hasta la venida del SG2962
+- 1Ts_4:16el S mismo con voz de mando, con voz deG2962
+- 1Ts_4:17para recibir al S en...siempre con el SG2962
+- 1Ts_5:2que el día del S vendrá así como ladrónG2962
+- 1Ts_5:9para alcanzar salvación por...nuestro SG2962
+- 1Ts_5:12y os presiden en el S, y os amonestanG2962
+- 1Ts_5:23guardado...para la venida de nuestro SG2962
+- 1Ts_5:27os conjuro por el S, que esta carta seaG2962
+- 1Ts_5:28la gracia de nuestro S sea con vosotrosG2962
+- 2Ts_1:1a la iglesia de...en el S JesucristoG2962
+- 2Ts_1:2paz a vosotros, de...y del S JesucristoG2962
+- 2Ts_1:7se manifieste el S Jesús desde el cieloG2962
+- 2Ts_1:8no...ni obedecen al evangelio de nuestro SG2962
+- 2Ts_1:9excluidos de la presencia del S y de laG2962
+- 2Ts_1:12de nuestro S Jesucristo sea glorificadoG2962
+- 2Ts_1:12por la gracia de nuestro Dios y del SG2962
+- 2Ts_2:1con respecto a la venida de nuestro SG2962
+- 2Ts_2:2el sentido de que el día del S está cercaG2962
+- 2Ts_2:8aquel inicuo, a quien el S matará con elG2962
+- 2Ts_2:13hermanos amados por el S, de que DiosG2962
+- 2Ts_2:14para alcanzar la gloria de nuestro SG2962
+- 2Ts_2:16Jesucristo S nuestro...el cual nos amóG2962
+- 2Ts_3:1la palabra del S corra y sea glorificadaG2962
+- 2Ts_3:3fiel es el S, que os afirmará y guardaráG2962
+- 2Ts_3:4tenemos confianza...de vosotros en el SG2962
+- 2Ts_3:5el S encamine vuestros corazones al amorG2962
+- 2Ts_3:6os ordenamos...en el nombre de nuestro SG2962
+- 2Ts_3:12y exhortamos por nuestro S JesucristoG2962
+- 2Ts_3:16el mismo S de paz os dé siempre paz enG2962
+- 2Ts_3:16toda manera...El S sea con todos vosotrosG2962
+- 2Ts_3:18la gracia de nuestro S Jesucristo seaG2962
+- 1Ti_1:1del S Jesucristo nuestra esperanzaG2962
+- 1Ti_1:2y paz, de...y de Cristo Jesús nuestro SG2962
+- 1Ti_1:12doy gracias...a Cristo Jesús nuestro SG2962
+- 1Ti_1:14gracia de nuestro S fue más abundanteG2962
+- 1Ti_5:21te encarezco delante de Dios y del SG2962
+- 1Ti_6:3no se conforma a...sanas palabras de...SG2962
+- 1Ti_6:14la aparición de nuestro S JesucristoG2962
+- 1Ti_6:15solo Soberano, Rey de reyes, y S de sG2962
+- 2Ti_1:2de Dios...y de Jesucristo nuestro SG2962
+- 2Ti_1:8de dar testimonio de nuestro S, ni de míG2962
+- 2Ti_1:16tenga el S misericordia de la casa deG2962
+- 2Ti_1:18concédale el S que halle misericordiaG2962
+- 2Ti_1:18misericordia cerca del S en aquel díaG2962
+- 2Ti_2:7lo que digo, y el S te dé entendimientoG2962
+- 2Ti_2:14esto, exhortándoles delante del S a queG2962
+- 2Ti_2:19sello: Conoce el S a los que son suyosG2962
+- 2Ti_2:21será instrumento para honra...útil al SG2962
+- 2Ti_2:22los que de corazón limpio invocan al SG2962
+- 2Ti_2:24el siervo del S no debe ser contenciosoG2962
+- 2Ti_3:11sufrido, y de todas me ha librado el SG2962
+- 2Ti_4:1te encarezco delante de Dios y del SG2962
+- 2Ti_4:8me dará el S, juez justo, en aquel díaG2962
+- 2Ti_4:14el S le pague conforme a sus hechosG2962
+- 2Ti_4:17el S estuvo a mi lado, y me dio fuerzasG2962
+- 2Ti_4:18el S me librará de toda obra mala, y meG2962
+- 2Ti_4:22el S Jesucristo esté con tu espírituG2962
+- Tit_1:4paz, de Dios Padre y del S JesucristoG2962
+- Flm_1:3gracia y paz a vosotros...S JesucristoG2962
+- Flm_1:5oigo del amor y de...que tienes hacia el SG2962
+- Flm_1:16para ti, tanto en la carne como en el SG2962
+- Flm_1:20sí...tenga yo algún provecho de ti en el SG2962
+- Flm_1:20sí, hermano...conforta mi corazón en el SG2962
+- Flm_1:25la gracia de nuestro S Jesucristo sea conG2962
+- Heb_1:10tú, oh S, en el principio fundaste laG2962
+- Heb_2:3habiendo sido anunciada...por el S, nosG2962
+- Heb_7:14que nuestro S vino de la tribu de JudáG2962
+- Heb_7:21juró el S, y no se arrepentirá: Tú eresG2962
+- Heb_8:2de aquel...tabernáculo que levantó el SG2962
+- Heb_8:8he aquí vienen días, dice el S, en queG2962
+- Heb_8:9y yo me desentendí de ellos, dice el SG2962
+- Heb_8:10dice el S: Pondré mis leyes en la menteG2962
+- Heb_8:11ninguno enseñará...diciendo: Conoce al SG2962
+- Heb_10:16días, dice el S: Pondré mis leyesG2962
+- Heb_10:30venganza, yo daré el pago, dice el SG2962
+- Heb_10:30y otra vez: El S juzgará a su puebloG2962
+- Heb_12:5no menosprecies la disciplina del S, niG2962
+- Heb_12:6El S al que ama, disciplina, y azota aG2962
+- Heb_12:14santidad, sin la cual nadie verá al SG2962
+- Heb_13:6el S es mi ayudador; no temeré lo queG2962
+- Heb_13:20resucitó de los...a nuestro S JesucristoG2962
+- Stg_1:1siervo de Dios y del S Jesucristo, aG2962
+- Stg_1:7no piense...que recibirá cosa alguna del SG2962
+- Stg_2:1fe en nuestro glorioso S Jesucristo seaG2962
+- Stg_4:10humillaos delante del S...el os exaltaráG2962
+- Stg_4:15lo cual deberíais decir: Si el S quiereG2962
+- Stg_5:4clamores...han entrado en los oídos del SG2962
+- Stg_5:7tened paciencia hasta la venida del SG2962
+- Stg_5:8afirmad...porque la venida del S se acercaG2962
+- Stg_5:10profetas que hablaron en nombre del SG2962
+- Stg_5:11habéis visto el fin del S, que el S esG2962
+- Stg_5:14ungiéndole...aceite en el nombre del SG2962
+- Stg_5:15salvará al enfermo, y el S lo levantaráG2962
+- 1Pe_1:3bendito el Dios y Padre de nuestro SG2962
+- 1Pe_1:25la palabra del S permanece para siempreG2962
+- 1Pe_2:3es que habéis gustado la benignidad del SG2962
+- 1Pe_2:13por causa del S someteos a...instituciónG2962
+- 1Pe_3:6Sara obedecía a Abraham, llamándole sG2962
+- 1Pe_3:12los ojos del S están sobre los justosG2962
+- 1Pe_3:12el rostro del S está contra aquellos queG2962
+- 1Pe_3:15sino santificad a Dios el S en vuestrosG2962
+- 2Pe_1:2el conocimiento de...nuestro S JesúsG2962
+- 2Pe_1:8en cuanto al conocimiento de nuestro SG2962
+- 2Pe_1:11entrada en el reino eterno de nuestro SG2962
+- 2Pe_1:14nuestro S Jesucristo me ha declaradoG2962
+- 2Pe_1:16a conocer el...y la venida de nuestro SG2962
+- 2Pe_2:1negarán al S que los rescató, atrayendoG1203
+- 2Pe_2:9el S librar de tentación a los piadososG2962
+- 2Pe_2:11no pronuncian juicio de...delante del SG2962
+- 2Pe_2:20escapado de...por el conocimiento del SG2962
+- 2Pe_3:2tengáis memoria...del mandamiento del SG2962
+- 2Pe_3:8que para con el S un día es como mil añosG2962
+- 2Pe_3:9S no retarda su promesa, según algunos laG2962
+- 2Pe_3:10pero el día del S vendrá como ladrón enG2962
+- 2Pe_3:15que la paciencia de nuestro S es paraG2962
+- 2Pe_3:18creced en...el conocimiento de nuestro SG2962
+- 2Jn_1:1el anciano a la s elegida y a sus hijosG2959
+- 2Jn_1:3gracia...del S Jesucristo, Hijo del PadreG2962
+- 2Jn_1:5te ruego, s...que nos amemos unos a otrosG2959
+- Jud_1:4niegan a Dios...y a nuestro S JesucristoG2962
+- Jud_1:5S, habiendo salvado al pueblo sacándolo deG2962
+- Jud_1:9Miguel contendía...dijo: El S te reprendaG2962
+- Jud_1:14el S con sus santas decenas de millaresG2962
+- Jud_1:17por los apóstoles de nuestro S JesucristoG2962
+- Jud_1:21esperando la misericordia de nuestro SG2962
+- Rev_1:8yo soy el...principio y fin, dice el SG2962
+- Rev_1:10estaba en el Espíritu en el día del SG2960
+- Rev_4:8santo es el S Dios Todopoderoso, el queG2962
+- Rev_4:11S, digno eres de recibir la gloria y laG2962
+- Rev_6:10¿hasta cuándo, S, santo y verdadero, noG1203
+- Rev_7:14le dije: S, tú lo sabes...Y él me dijoG2962
+- Rev_11:8donde también nuestro S fue crucificadoG2962
+- Rev_11:15reinos...han venido a ser de nuestro SG2962
+- Rev_11:17te damos gracias, S Dios TodopoderosoG2962
+- Rev_14:13bienaventurados de...que mueren en el SG2962
+- Rev_15:3grandes y maravillosas son tus obras, SG2962
+- Rev_15:4¿quién no te temerá...S, y glorificaráG2962
+- Rev_16:5justo eres tú, oh S, el que eres y queG2962
+- Rev_16:7S...tus juicios son verdaderos y justosG2962
+- Rev_17:14vencerá, porque él es S de s y Rey deG2962
+- Rev_18:8porque poderoso es Dios el S, que laG2962
+- Rev_19:1gloria y poder son del S Dios nuestroG2962
+- Rev_19:6el S nuestro Dios Todopoderoso reina![[G2962]]
+- Rev_19:16tiene escrito...Rey de Reyes y S de sG2962
+- Rev_21:22el S Dios...es el templo de ella, y elG2962
+- Rev_22:5Dios el S los iluminará; y reinarán porG2962
+- Rev_22:6el S...ha enviado su ángel, para mostrarG2962
+- Rev_22:20vengo en breve...Amén; sí, ven, S JesúsG2962
+- Rev_22:21la gracia de nuestro S...sea con todosG2962

@@ -1,0 +1,72 @@
+---
+tipo: concordancia
+palabra: NEGAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NEGAR
+
+- Gén_18:15Sara negó, diciendo: No me reí; porqueH3584
+- Gén_23:6ninguno de...te negará su sepulcro, ni teH3607
+- Lev_6:2negare a su prójimo lo encomendado oH3584
+- Lev_6:3hallado lo perdido después lo negare, yH3584
+- Núm_14:43os habéis negado a seguir a JehováH7725
+- Deu_22:1extraviado el...no le negarás tu ayudaH5956
+- Deu_22:3mismo harás...no podrás negarle tu ayudaH5956
+- Jos_10:6no niegues ayuda a tus siervos; subeH7503
+- 2Sa_13:13hables al rey, que él no me negaráH4513
+- 1Re_2:16hago una petición; no me la nieguesH7725
+- 1Re_2:17hables al rey Salomón, no te lo negará
+- 1Re_2:20una pequeña petición...no me la nieguesH6440
+- 1Re_2:20pide, madre mía, que yo no te la negaré
+- 1Re_20:7y por mi oro, y yo no se lo he negadoH4513
+- Job_8:18negará entonces, diciendo: Nunca te viH3584
+- Job_31:28porque habría negado al Dios soberanoH3584
+- Sal_21:2no le negaste la petición de...labios
+- Pro_3:27no te niegues a hacer el bien a quienH4513
+- Pro_30:7dos...no me las niegues antes que mueraH4513
+- Pro_30:9no sea que me sacie, y te niegue, y digaH3584
+- Ecl_2:10no negué a mis ojos ninguna cosa que
+- Jer_5:12negaron a Jehová, y dijeron: El no esH3584
+- Mat_10:33que me niegue...le negaré delante deG720
+- Mat_16:24niéguese a sí mismo, y tome su cruz, yG533
+- Mat_26:34que esta noche...me negarás tres vecesG533
+- Mat_26:35me sea necesario morir...no te negaréG533
+- Mat_26:70mas él negó delante de todos, diciendoG720
+- Mat_26:72él negó...con juramento: No conozco alG720
+- Mat_26:75antes que cante...me negarás tres vecesG533
+- Mar_8:34niéguese a sí mismo, y tome su cruzG533
+- Mar_14:30gallo haya cantado...negarás tres vecesG533
+- Mar_14:31necesario morir contigo, no te negaréG533
+- Mar_14:68mas él negó, diciendo: No le conozcoG720
+- Mar_14:70pero él negó otra vez...Y poco despuésG720
+- Mar_14:72gallo cante dos veces, me negarás tresG533
+- Luc_6:29la capa, ni aun la túnica le niegues
+- Luc_8:45y negando todos, dijo Pedro y los queG720
+- Luc_9:23niéguese a sí mismo, tome su cruz cadaG533
+- Luc_12:9el que me negare delante de...será negadoG533
+- Luc_20:27los cuales niegan haber resurrecciónG483
+- Luc_22:34que tú niegues tres veces que me conocesG533
+- Luc_22:57lo negó, diciendo: Mujer, no lo conozcoG720
+- Luc_22:61el gallo cante, me negarás tres vecesG533
+- Jua_1:20confesó, y no negó, sino confesó: YoG720
+- Jua_13:38no...sin que me hayas negado tres vecesG533
+- Jua_18:25¿no eres tú...El negó, y dijo: No lo soyG720
+- Jua_18:27negó Pedro otra vez; y...cantó el galloG720
+- Hec_3:13a quien vosotros...negasteis delanteG720
+- Hec_3:14vosotros negasteis al Santo y al JustoG720
+- Hec_4:16señal manifiesta...y no lo podemos negarG720
+- 1Co_7:5no os neguéis el uno al otro, a no serG650
+- 1Ti_5:8si alguno no provee...ha negado la feG720
+- 2Ti_2:12le negáremos, él también nos negaráG720
+- 2Ti_2:13fiel; él no puede negarse a sí mismoG720
+- 2Ti_3:5pero negarán la eficacia de ella: a éstosG720
+- Tit_1:16Dios, pero con los hechos lo nieganG720
+- 2Pe_2:1aun negarán al Señor que los rescatóG720
+- 1Jn_2:22el que niega que Jesús es el Cristo?[[G720]]
+- 1Jn_2:22este es anticristo, el que niega al PadreG720
+- 1Jn_2:23aquel que niega al Hijo, tampoco tieneG720
+- Jud_1:4y niegan a Dios el único soberano, y aG720
+- Rev_2:13retienes mi nombre, y no has negado miG720
+- Rev_3:8has guardado...y no has negado mi nombreG720

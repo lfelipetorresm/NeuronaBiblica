@@ -1,0 +1,112 @@
+---
+tipo: concordancia
+palabra: ALTURA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ALTURA
+
+- Gén_6:15de 50 codos su anchura, y de 30...su aH6967
+- Éxo_25:10un arca de madera...a de codo y medioH6967
+- Éxo_25:23harás...una mesa...su a de codo y medioH6967
+- Éxo_27:1cuadrado el altar, y su a de tres codosH6967
+- Éxo_27:18longitud del atrio...su a de cinco codosH6967
+- Éxo_30:2será cuadrado, y su a de dos codosH6967
+- Éxo_37:1hizo...el arca...y su a de codo y medioH6967
+- Éxo_37:10la mesa de madera...de codo y medio su aH6967
+- Éxo_37:25el altar...cuadrado, y su a de dos codosH6967
+- Éxo_38:1altar...cuadrado, y de tres codos de aH6967
+- Éxo_38:18anchura, o sea su a, era de cinco codosH6967
+- Núm_21:28a Ar...los señores de las a de ArnónH1181
+- Deu_32:13hizo subir sobre las a de la tierraH1116
+- Deu_33:29humillados, y tú hollarás sobre sus aH1116
+- Jue_5:18Zabulón...y Neftalí en las a del campoH4791
+- 1Sa_17:4y tenía de a seis codos y un palmoH1363
+- 2Sa_1:19ha perecido la gloria de...sobre tus a![[H1116]]
+- 2Sa_1:25han caído...Jonatán, muerto en tus a![[H1116]]
+- 2Sa_22:34pies...me hace estar firme sobre mis aH1116
+- 1Re_6:10el aposento...de a de cinco codos, elH6967
+- 1Re_6:20tenía...veinte de ancho, y veinte de aH6967
+- 1Re_6:23querubín...cada uno de diez codo de aH6967
+- 1Re_6:26la a del uno era de diez codos, y...otraH6967
+- 1Re_7:2tenía...treinta codos de a, sobre cuatroH6967
+- 1Re_7:15columnas...a de cada una era de 18 codosH6967
+- 1Re_7:16la a de un capitel era de cinco codosH6967
+- 1Re_7:23su a era de cinco codos, y lo ceñíaH6967
+- 1Re_7:27anchura de 4 codos, y de 3 codos la aH6967
+- 1Re_7:32la a de cada rueda era...un codo y medioH6967
+- 1Re_7:35una pieza redonda de medio codo de aH6967
+- 2Re_19:23con...he subido a las a de los montesH4791
+- 2Re_25:17la a de una columna era de 18 codosH6967
+- 2Re_25:17a del capitel era de 3 codos, y sobreH6967
+- 2Cr_3:4y su a de 120 codos; y lo cubrió porH1363
+- 2Cr_3:15dos columnas de 35 codos de a cada unaH753
+- 2Cr_4:1hizo además un altar...de 10 codos de aH6967
+- 2Cr_4:2hizo un mar de...su a era de cinco codosH6967
+- 2Cr_6:13había hecho un estrado...a de tres codosH6967
+- Esd_6:3a de 60 codos...60 codos su anchuraH7314
+- Neh_4:6fue terminada hasta la mitad de su a
+- Est_5:14hagan una horca de 50 codos de a, yH1364
+- Est_7:9la horca de 50 codos de a que hizo AmánH1364
+- Job_5:11que pone a los humildes en a, y a losH4791
+- Job_16:19mas he aquí que...mi testimonio en las aH4791
+- Job_22:12¿no está Dios en la a de los cielos?[[H1363]]
+- Job_25:2el señorío y el...él hace paz en sus aH4791
+- Job_31:2me daría...el Omnipotente desde las a?[[H4791]]
+- Sal_18:33me hace estar firme sobre mis aH1116
+- Sal_93:4Jehová en las a es más poderoso que elH4791
+- Sal_95:4tierra, y las a de los montes son suyasH8443
+- Sal_103:11como la a de los cielos sobre la tierraH1361
+- Sal_113:5nuestro Dios, que se sienta en las aH1361
+- Sal_148:1alabad a Jehová...alabadle en las aH4791
+- Pro_8:2en las a junto al camino...encrucijadasH4791
+- Pro_25:3para la a de los cielos, y...profundidadH7312
+- Ecl_10:6la necedad está colocada en grandes aH4791
+- Isa_10:33los árboles de gran a serán cortadosH7312
+- Isa_14:14sobre las a de las nubes subiré, y seréH1116
+- Isa_33:5exaltado Jehová, el cual mora en las aH4791
+- Isa_33:16habitará en las a; fortaleza de rocasH4791
+- Isa_37:24subiré a las a de los montes...laderasH4791
+- Isa_41:18en las a abriré ríos, y fuente en medioH8205
+- Isa_49:9que...en todas las a tendrán sus pastosH4791
+- Isa_57:15yo habito en la a y la santidad, y conH4791
+- Isa_58:14te haré subir sobre las a de la tierraH1116
+- Jer_3:2tus ojos a las a, y ve en qué lugar noH8205
+- Jer_3:21voz fue oída sobre las a, llanto de losH8205
+- Jer_4:11viento seco de las a del desierto vinoH8205
+- Jer_7:29y levanta llanto sobre las a; porqueH8205
+- Jer_12:12las a del desierto vinieron destruidoresH8205
+- Jer_14:6los asnos monteses se ponían en las aH8205
+- Jer_49:16que habitas...que tienes la a del monteH4791
+- Jer_51:53suba Babilonia...se fortifiquen en las aH4791
+- Jer_52:21la a de cada columna era de 18 codosH6967
+- Jer_52:22el capitel...era de una a de cinco codosH6967
+- Eze_17:6y brotó, y se hizo una vid...de poca aH6967
+- Eze_19:11vista por causa de su a y la multitudH6967
+- Eze_31:3cedro...grande a, y su copa estaba entreH1362
+- Eze_31:5se encumbró su a sobre todos los árbolesH6967
+- Eze_31:10encumbrado en a, y haber levantado suH6967
+- Eze_31:10ramas, su corazón elevó con su aH1363
+- Eze_31:14que no se exalten en su a...los árbolesH6967
+- Eze_31:14ni confíen en su a...los que beben aguasH1363
+- Eze_36:2a eternas nos han sido dadas...heredadH1116
+- Eze_40:5midió el espesor...y la a de otra cañaH6967
+- Eze_40:42de un codo de a; sobre éstas pondránH1363
+- Eze_41:8y miré la a de la casa alrededor; losH1363
+- Eze_41:22la a del altar de madera...tres codosH1364
+- Dan_3:1estatua...cuya a era de sesenta codosH7314
+- Dan_4:10parecía ver...un árbol, cuya a era grandeH7314
+- Amó_2:9cuya a era como la de los cedrosH1363
+- Amó_4:13hace...y pasa sobre las a de la tierraH1116
+- Miq_1:3Jehová sale...hollará en las a de la tierraH1116
+- Hab_3:19el cual hace...en mis a me hace andarH1116
+- Mat_21:9bendito el que...¡Hosanna en las a![[G5310]]
+- Mar_11:10bendito el reino...¡Hosanna en las a![[G5310]]
+- Luc_2:14¡gloria a Dios en las a, y en la...pazG5310
+- Luc_19:38paz en el cielo, y gloria en las a![[G5310]]
+- Efe_3:18la longitud, la profundidad y la aG5311
+- Heb_1:3a la diestra de la Majestad en las aG5308
+- Rev_21:16la a y la anchura de ella son igualesG5311
+- [Entrada procedente del Apéndice]
+- Gn 6.15 Éx 25.10, 23; 27.1, 18; 30.2; 37.1, 10, 25; 38.1, 18 1 S 17.4 1 R 6.10, 20, 23, 26; 7.2, 15, 16, 23, 27, 32, 35 2 R 25.17(2) 2 Cr 3.4, 15; 4.1, 2; 6.13 Esd 6.3 Neh 4.6 Est 5.14; 7.9 Job 5.11; 22.12 Sal 103.11 Pr 25.3 Is 10.33; 57.15 Jer 49.16; 52.21, 22 Ez 17.6; 19.11; 31.3, 5, 10(2), 14(2); 40.5, 42; 41.8, 22 Dn 3.1; 4.10 Am 2.9(2) Ef 3.18 Ap 21.16

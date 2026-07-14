@@ -1,0 +1,418 @@
+---
+tipo: concordancia
+palabra: ALMA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ALMA
+
+- Gén_12:13vaya bien...viva mi a por causa de tiH5315
+- Gén_32:30a Dios cara a cara, y fue librada mi aH5315
+- Gén_34:3pero su a se apegó a Dina la hija de LeaH5315
+- Gén_34:8el a de mi hijo Siquem se ha apegado aH5315
+- Gén_35:18que al salírsele el a...llamó su nombreH5315
+- Gén_42:21la angustia de su a cuando nos rogabaH5315
+- Gén_49:6su consejo no entre mi a, ni mi espírituH5315
+- Éxo_15:9mi a se saciará de ellos; sacaré miH5315
+- Éxo_23:9sabéis cómo es el a del extranjero, yaH5315
+- Lev_16:29el mes séptimo afligiréis vuestras aH5315
+- Lev_16:31y afligiréis vuestras a; es estatutoH5315
+- Lev_17:11para hacer expiación...por vuestras aH5315
+- Lev_23:27y afligiréis vuestras a, y ofreceréisH5315
+- Lev_23:32día de reposo...y afligiréis vuestras aH5315
+- Lev_26:11mi morada en...y mi a no os abominaráH5315
+- Lev_26:15vuestra a menospreciare mis estatutosH5315
+- Lev_26:16enviaré sobre vosotros...atormenten el aH5315
+- Lev_26:30vuestros ídolos, y mi a os abominaráH5315
+- Lev_26:43y su a tuvo fastidio de mis estatutosH5315
+- Núm_11:6y ahora nuestra a se seca; pues nadaH5315
+- Núm_16:38de éstos que pesaron contra sus aH5315
+- Núm_21:5a tiene fastidio de este pan tan livianoH5315
+- Núm_29:7diez de este mes...afligiréis vuestras aH5315
+- Núm_30:2juramento ligando su a con obligaciónH5315
+- Núm_30:4oyere...la obligación con que ligó su aH5315
+- Núm_30:4-5, Núm_30:11la obligación con que...ligado su aH5315
+- Núm_30:6pronunciare...cosa con que obligue su aH5315
+- Núm_30:7obligación con que ligó su a, firme seráH5315
+- Núm_30:8el voto que...con que ligó su a, será nuloH5315
+- Núm_30:9todo voto de viuda...con que ligare su aH5315
+- Núm_30:10y hubiera ligado su a con obligación deH5315
+- Núm_30:12votos, y cuanto a la obligación de su aH5315
+- Núm_30:13juramento obligándose a afligir el aH5315
+- Núm_31:50hacer expiación por nuestras a delanteH5315
+- Deu_4:9guárdate, y guarda tu a con diligenciaH5315
+- Deu_4:15guardad, pues, mucho vuestras a, puesH5315
+- Deu_4:29lo hallarás, si lo buscares...de toda tu aH5315
+- Deu_6:5amarás a Jehová tu Dios de...de toda tu aH5315
+- Deu_10:12ames...con todo tu corazón y con...tu aH5315
+- Deu_11:13amando a Jehová...y con toda vuestra aH5315
+- Deu_11:18pondréis...mis palabras en vuestra aH5315
+- Deu_13:3si amáis a Jehová...con toda vuestra aH5315
+- Deu_18:6viniere con...el deseo de su a al lugarH5315
+- Deu_26:16de ponerlos por obra...con toda tu aH5315
+- Deu_28:65pues allí te dará Jehová...tristeza de aH5315
+- Deu_30:2y obedecieres a su voz...y con toda tu aH5315
+- Deu_30:6que ames a Jehová tu Dios...con toda tu aH5315
+- Deu_30:10cuando te convirtieres...con toda tu aH5315
+- Jos_22:5sigáis...le sirváis...de toda vuestra aH5315
+- Jos_23:11guardad...vuestras a...que améis a JehováH5315
+- Jos_23:14reconoced, pues, con toda vuestra a, queH5315
+- Jue_5:21de Cisón. Marcha, oh a mía, con poderH5315
+- Jue_16:16su a fue reducida a mortal angustiaH5315
+- Rut_4:15será restaurador de tu a, y sustentadorH5315
+- 1Sa_1:10ella con amargura de a oró a JehováH5315
+- 1Sa_1:15que he derramado mi a delante de JehováH5315
+- 1Sa_1:26vive tu a, señor...yo soy aquella mujerH5315
+- 1Sa_2:33para consumir tus ojos y llenar tu a deH5315
+- 1Sa_2:35que haga conforme a mi corazón y a mi aH5315
+- 1Sa_17:55vive tu a, oh rey, que no lo sé. Y el reyH5315
+- 1Sa_18:1el a de Jonatán quedó ligada con...DavidH5315
+- 1Sa_20:3vive tu a, que apenas hay un paso entreH5315
+- 1Sa_20:4dijo...Lo que deseare tu a, haré por tiH5315
+- 1Sa_25:26vive tu a, que Jehová te ha impedido elH5315
+- 1Sa_30:6todo el pueblo estaba en amargura de aH5315
+- 2Sa_4:9dijo: Vive Jehová que ha redimido mi aH5315
+- 2Sa_5:8hiera a los cojos...aborrecidos del a deH5315
+- 2Sa_11:11por vida de tu a, que yo no haré tal cosaH5315
+- 2Sa_14:19vive tu a...que no hay que apartarse aH5315
+- 1Re_1:29que ha redimido mi a de toda angustiaH5315
+- 1Re_2:4hijos guardaren mi camino...de toda su aH5315
+- 1Re_8:48si se convirtieren a ti...de toda su aH5315
+- 1Re_11:37reinarás en...las cosas que deseare tu aH5315
+- 1Re_15:29sin dejar a viviente de los de JeroboamH5397
+- 1Re_17:21que hagas volver el a de este niño a élH5315
+- 1Re_17:22oyó la voz...el a del niño volvió a élH5315
+- 1Re_20:32tu siervo...dice: Te ruego que viva mi aH5315
+- 2Re_2:2, 2Re_2:4, 2Re_2:6y vive tu a, que no te dejaréH5315
+- 2Re_4:27déjala, porque su a está en amargura, yH5315
+- 2Re_4:30Jehová, y vive tu a, que no te dejaréH5315
+- 2Re_23:3guardarían...sus estatutos...con toda el aH5315
+- 2Re_23:25que se convirtiese de...toda su a y deH5315
+- 2Cr_6:38si se convirtieren a ti de toda su aH5315
+- 2Cr_15:12que buscaran a Jehová...de toda su aH5315
+- 2Cr_34:31y con toda su a, poniendo por obra lasH5315
+- Job_6:7las cosas que mi a no quería tocar, sonH5315
+- Job_7:11y me quejaré con la amargura de mi aH5315
+- Job_7:15así mi a tuvo por mejor la estrangulaciónH5315
+- Job_10:1está mi a hastiada...con amargura de mi aH5315
+- Job_12:10en su mano está el a de todo vivienteH5315
+- Job_14:22se dolerá, y se entristecerá en él su aH5315
+- Job_16:4si vuestra a estuviera en lugar de la míaH5315
+- Job_19:2¿hasta cuándo angustiarás mi a, y meH5315
+- Job_23:13determina una cosa...su a deseó, e hizoH5315
+- Job_24:12claman las a de los heridos de muerteH5315
+- Job_27:2y el Omnipotente, que amargó el a míaH5315
+- Job_27:3que todo el tiempo que mi a esté en míH5397
+- Job_30:16y ahora mi a está derramada en mí; díasH5315
+- Job_30:25y mi a, ¿no se entristeció sobre elH5315
+- Job_31:30mi lengua, pidiendo maldición para su aH5315
+- Job_31:39si comí su...o afligí el a de sus dueñosH5315
+- Job_33:18detendrá su a del sepulcro, y su vidaH5315
+- Job_33:20aborrezca el pan...su a la comida suaveH5315
+- Job_33:22su a se acerca al sepulcro, y su vida aH5315
+- Job_33:28Dios redimirá su a para que no pase alH5315
+- Job_33:30para apartar su a del sepulcro, y paraH5315
+- Job_36:14fallecerá el a de ellos en su juventudH5315
+- Sal_6:3mi a también está muy turbada; y túH5315
+- Sal_6:4vuélvete, oh Jehová, libra mi a; sálvameH5315
+- Sal_7:2no sea que desgarren mi a cual león, y meH5315
+- Sal_7:5persiga el enemigo mi a, y alcáncelaH5315
+- Sal_10:3porque el malo se jacta del deseo de su aH5315
+- Sal_11:1el ¿cómo decía a mi a que escape al monteH5315
+- Sal_11:5que ama la violencia, su a los aborreceH5315
+- Sal_13:2¿hasta cuándo pondré consejos en mi aH5315
+- Sal_16:2oh a mía, dijiste a Jehová: Tú eres mi
+- Sal_16:9se alegró...mi corazón, y se gozó mi aH3519
+- Sal_16:10porque no dejarás mi a en el Seol, niH5315
+- Sal_17:13libra mi a de los malos con tu espadaH5315
+- Sal_19:7la ley de Jehová es...que convierte el aH5315
+- Sal_22:20libra de la espada mi a, del poder delH5315
+- Sal_22:29que no puede conservar la vida a su...aH5315
+- Sal_23:3confortará mi a; me guiará por sendas deH5315
+- Sal_24:4el que no ha elevado su a a cosas vanasH5315
+- Sal_25:1a ti, oh Jehová, levantaré mi aH5315
+- Sal_25:20guarda mi a, y líbrame...en ti confiéH5315
+- Sal_26:9no arrebates con los pecadores mi a, niH5315
+- Sal_30:3hiciste subir mi a del Seol; me disteH5315
+- Sal_31:7porque...has conocido mi a en las angustiasH5315
+- Sal_31:9han consumido...mi a también y mi cuerpoH5315
+- Sal_33:19para librar sus a de la muerte, y paraH5315
+- Sal_33:20nuestra a espera a Jehová; nuestra ayudaH5315
+- Sal_34:2en Jehová se gloriará mi a; lo oirán losH5315
+- Sal_34:22Jehová redime el a de sus siervos, y noH5315
+- Sal_35:3saca la...di a mi a: Yo soy tu salvaciónH5315
+- Sal_35:7hoyo; sin causa cavaron hoyo para mi aH5315
+- Sal_35:9entonces mi a se alegrará en Jehová; seH5315
+- Sal_35:12me...mal por bien, para afligir a mi aH5315
+- Sal_35:13aflige con ayuno mi a, y mi oración seH5315
+- Sal_35:17rescata mi a de sus destrucciones...vidaH5315
+- Sal_35:25no digan en su corazón: ¡Ea, a nuestra![[H5315]]
+- Sal_41:4sana mi a, porque contra ti he pecadoH5315
+- Sal_42:1así clama por ti, oh Dios, el a míaH5315
+- Sal_42:2mi a tiene sed de Dios, del Dios vivoH5315
+- Sal_42:4me acuerdo...y derramo mi a dentro de míH5315
+- Sal_42:5, Sal_42:11¿por qué te abates, oh a mía, y teH5315
+- Sal_42:6Dios mío, mi a está abatida en mí; meH5315
+- Sal_43:5¿por qué te abates, oh a mía, y por quéH5315
+- Sal_44:25nuestra a está agobiada hasta el polvoH5315
+- Sal_49:18mientras viva, llame dichosa a su aH5315
+- Sal_55:18él redimirá en paz mi a de la guerraH5315
+- Sal_56:6mis pasos, como quienes acechan a mi aH5315
+- Sal_56:13porque has librado mi a de la muerteH5315
+- Sal_57:1porque en ti ha confiado mi a, y en laH5315
+- Sal_57:6se ha abatido mi a; hoyo han cavadoH5315
+- Sal_57:8despierta, a mía; despierta, salterio yH3519
+- Sal_62:1en Dios solamente está acallada mi aH5315
+- Sal_62:5a mía, en Dios solamente reposa, porqueH5315
+- Sal_63:1mi a tiene sed de ti, mi carne te anhelaH5315
+- Sal_63:5como de...y de grosura será saciada mi aH5315
+- Sal_63:8está mi a apegada a ti; tu diestra meH5315
+- Sal_63:9pero los que...buscaron mi a caerán enH5315
+- Sal_66:9él es quien preserva la vida a nuestra aH5315
+- Sal_66:16venid...contaré lo que ha hecho a mi aH5315
+- Sal_69:1porque las aguas han entrado hasta el aH5315
+- Sal_69:10lloré afligiendo con ayuno mi a, y estoH5315
+- Sal_69:18acércate a mi a, redímela; líbrame aH5315
+- Sal_71:10que acechan mi a consultaron juntamenteH5315
+- Sal_71:13perezcan los adversarios de mi a; seanH5315
+- Sal_71:23se alegrarán...y mi a, la cual redimisteH5315
+- Sal_72:14de engaño y de violencia redimirá sus aH5315
+- Sal_73:21se llenó de amargura mi a, y...corazónH3824
+- Sal_74:19no entregues a las fieras el a de tuH5315
+- Sal_77:2sin descanso; mi a rehusaba consueloH5315
+- Sal_84:2anhela mi a...desea los atrios de JehováH5315
+- Sal_86:2guarda mi a, porque soy piadoso; salvaH5315
+- Sal_86:4alegra el a de tu siervo, porque a tiH5315
+- Sal_86:4porque a ti, oh Señor levanto mi aH5315
+- Sal_86:13has librado mi a de las profundidadesH5315
+- Sal_88:3mi a está hastiada de males, y mi vidaH5315
+- Sal_88:14¿por qué, oh Jehová, desechas mi a?[[H5315]]
+- Sal_94:17si...pronto moraría mi a en el silencioH5315
+- Sal_94:19en la...tus consolaciones alegraban mi aH5315
+- Sal_97:10él guarda las a de sus santos; de manoH5315
+- Sal_103:1-2, Sal_103:22; Sal_104:1, Sal_104:35bendice, a mía, a JehováH5315
+- Sal_107:5y sedientos, su a desfallecía en ellosH5315
+- Sal_107:9porque sacia al a menesterosa, y llenaH5315
+- Sal_107:9y llena de bien al a hambrientaH5315
+- Sal_107:18su a abominó todo alimento, y llegaronH5315
+- Sal_107:26descienden...a se derriten con el malH5315
+- Sal_109:31para librar su a de los que le juzganH5315
+- Sal_116:4diciendo: Oh Jehová, libra ahora mi aH5315
+- Sal_116:7vuelve, oh a mía, a tu reposo, porqueH5315
+- Sal_116:8pues tú has librado mi a de la muerteH5315
+- Sal_119:20quebrantada está mi a de desear tusH5315
+- Sal_119:25abatida hasta el polvo está mi aH5315
+- Sal_119:28deshace mi a de ansiedad, susténtameH5315
+- Sal_119:81desfallece mi a por tu salvación, masH5315
+- Sal_119:129son...por tanto, los ha guardado mi aH5315
+- Sal_119:167mi a ha guardado tus testimonios, y losH5315
+- Sal_119:175viva mi a y te alabe, y tus juiciosH5315
+- Sal_120:2libra mi a...del labio mentiroso, y deH5315
+- Sal_120:6ha morado mi a con los que aborrecen laH5315
+- Sal_121:7Jehová te guardará de...él guardará tu aH5315
+- Sal_123:4hastiada está nuestra a del escarnioH5315
+- Sal_124:4nuestra a hubiera pasado el torrenteH5315
+- Sal_124:5sobre nuestra a las aguas impetuosasH5315
+- Sal_124:7nuestra a escapó cual ave del lazo deH5315
+- Sal_130:5esperé yo a Jehová, esperó mi a; en suH5315
+- Sal_130:6a espera a Jehová más que los centinelasH5315
+- Sal_131:2he acallado mi a como un niño destetado
+- Sal_131:2como un niño destetado está mi aH5315
+- Sal_138:3me fortaleciste con vigor en mi aH5315
+- Sal_139:14estoy maravillado, y mi a lo sabe muyH5315
+- Sal_141:8en ti he confiado; no desampares mi aH5315
+- Sal_142:7saca mi a de la cárcel, para que alabeH5315
+- Sal_143:3porque ha perseguido el enemigo mi aH5315
+- Sal_143:6a ti, mi a a ti como la tierra sedientaH5315
+- Sal_143:8hazme oir...porque a ti he elevado mi aH5315
+- Sal_143:11por tu justicia sacarás mi a de angustiaH5315
+- Sal_143:12destruirás a...los adversarios de mi aH5315
+- Sal_146:1alaba, oh a mía, a JehováH5315
+- Pro_1:18ponen asechanzas, y a sus a tienden
+- Pro_2:10cuando...la ciencia fuere grata a tu aH5315
+- Pro_3:22serán vida a tu a, y gracia a tu cuelloH5315
+- Pro_6:16seis cosas...y aun siete abomina su a
+- Pro_6:26la mujer caza la preciosa a del varón
+- Pro_6:32el que comete adulterio...corrompe su aH5315
+- Pro_8:36el que peca contra mí, defrauda su aH5315
+- Pro_11:17a su a hace bien el...misericordiosoH5315
+- Pro_11:25el a generosa será prosperada; y elH5315
+- Pro_11:30árbol de vida; y el que gana a es sabioH5315
+- Pro_13:2el a de los prevaricadores hallará el malH5315
+- Pro_13:3el que guarda su boca guarda su a, mas
+- Pro_13:4el a del perezoso...el a de los diligentesH5315
+- Pro_13:19el deseo cumplido regocija el a; peroH5315
+- Pro_13:25el justo come hasta saciar su a; mas elH5315
+- Pro_14:10el corazón conoce la amargura de su a
+- Pro_15:32el que tiene en poco...menosprecia su aH5315
+- Pro_16:24suavidad al a y medicina para los huesosH5315
+- Pro_16:26el a del que trabaja, trabaja para sí
+- Pro_18:7boca...y sus labios son lazos para su aH5315
+- Pro_19:2el a sin ciencia no es buena, y aquel queH5315
+- Pro_19:8el que posee entendimiento ama su aH5315
+- Pro_19:15sueño, y el a negligente padecerá hambreH5315
+- Pro_19:16que guarda el mandamiento guarda su aH5315
+- Pro_19:18mas no se apresure tu a para destruirloH5315
+- Pro_21:10el a del impío desea el mal; su prójimoH5315
+- Pro_21:23el que guarda...su lengua, su a guardaH5315
+- Pro_22:5el que guarda su a se alejará de ellosH5315
+- Pro_22:23y despojará el a de aquellos que losH5315
+- Pro_22:25sus maneras, y tomes lazo para tu aH5315
+- Pro_23:14lo castigarás...y librarás su a del SeolH5315
+- Pro_24:12el que mira por tu a, él lo conoceráH5315
+- Pro_24:14así será a tu a el...de la sabiduríaH5315
+- Pro_25:13pues al a de su señor da refrigerioH5315
+- Pro_25:25como el agua fría al a sedienta, asíH5315
+- Pro_29:17corrige a tu hijo, y...alegría a tu aH5315
+- Pro_29:24el cómplice del ladrón aborrece su...aH5315
+- Ecl_2:24y que su a se alegre en su trabajoH5315
+- Ecl_4:8defraudo mi a del bien? También esto esH5315
+- Ecl_6:2nada le falta de todo lo que su a deseaH5315
+- Ecl_6:3si su a no se sació del bien, y tambiénH5315
+- Ecl_7:28que aún busca mi a, y no lo encuentraH5315
+- Cnt_1:7hazme saber, oh tú a quien ama mi aH5315
+- Cnt_3:1busqué en mi lecho al que ama mi aH5315
+- Cnt_3:2buscaré al que ama mi a; lo busqué, y noH5315
+- Cnt_3:3les dije: ¿Habéis visto al que ama mi a?[[H5315]]
+- Cnt_3:4hallé luego al que ama mi a; lo así, y noH5315
+- Cnt_5:6y tras su hablar salió mi a. Lo busquéH5315
+- Cnt_6:12antes que lo supiera, mi a me puso entreH5315
+- Isa_1:14fiestas...las tiene aborrecidas mi aH5315
+- Isa_3:9¡ay del a de ellos!...amontonaron mal paraH5315
+- Isa_10:18consumirá totalmente, a y cuerpo, yH5315
+- Isa_15:4lamentará el a de cada uno dentro de él
+- Isa_26:8y tu memoria son el deseo de nuestra aH5315
+- Isa_26:9con mi a te he deseado en la noche, y enH5315
+- Isa_32:6vacía el a hambrienta, y quitando laH5315
+- Isa_38:15a causa de aquella amargura de mi aH5315
+- Isa_42:1en quien mi a tiene contentamiento; heH5315
+- Isa_44:20le desvía, para que no libre su a, niH5315
+- Isa_49:7ha dicho Jehová...al menospreciado de a
+- Isa_51:23tus angustiadores, que dijeron a tu aH5315
+- Isa_53:11verá el fruto de la aflicción de su aH5315
+- Isa_55:2y se deleitará vuestra a con grosuraH5315
+- Isa_55:3venid a mí; oíd, y vivirá vuestra aH5315
+- Isa_57:16decaería ante mí el espíritu, y las aH5397
+- Isa_58:3humillamos nuestras a, y no te diste porH5315
+- Isa_58:5que de día aflija el hombre su a, queH5315
+- Isa_58:10al hambriento, y saciares al a afligidaH5315
+- Isa_58:11saciará tu a, y dará vigor a tus huesosH5315
+- Isa_61:10me gozaré...mi a se alegrará en mi DiosH5315
+- Isa_66:3y su a amó sus propias abominacionesH5315
+- Jer_4:10pues la espada ha venido hasta el aH5315
+- Jer_4:19has oído, oh a mía, pregón de guerraH5315
+- Jer_4:31que mi a desmaya a causa de los asesinosH5315
+- Jer_5:9como esta, ¿no se había de vengar mi a?[[H5315]]
+- Jer_5:29¿no...y de tal gente no se vengará mi a?[[H5315]]
+- Jer_6:8corrígete...que no se aparte mi a de tiH5315
+- Jer_6:16y hallaréis descanso para vuestras aH5315
+- Jer_9:9de tal nación, ¿no se vengará mi a?[[H5315]]
+- Jer_12:7he entregado lo que amaba mi a en manoH5315
+- Jer_13:17en secreto llorará mía a causa deH5315
+- Jer_14:19¿ha aborrecido tu a a Sien? ¿Por quéH5315
+- Jer_15:9se llenó de dolor su a, su sol se puso
+- Jer_18:20para que hayan cavado hoyo a mi a?[[H5315]]
+- Jer_20:13ha librado el a del pobre de mano deH5315
+- Jer_22:27cual ellos con toda el a anhelan volver
+- Jer_26:19pues, tan gran mal contra nuestras a?[[H5315]]
+- Jer_31:12y su a será como huerto de riego, yH5315
+- Jer_31:14y el a del sacerdote satisfaré conH5315
+- Jer_31:25satisfaré al a cansada, y saciaré...aH5315
+- Jer_32:41y los plantaré...corazón y de toda mi aH5315
+- Jer_38:16vive Jehová que nos hizo esta a, que noH5315
+- Jer_38:17tu a vivirá, y esta ciudad no...a fuegoH5315
+- Jer_42:20¿por qué hicisteis errar vuestras a?
+- Jer_50:19en el monte de Efraín...se saciará su aH5315
+- Lam_1:16el consolador que dé reposo a mí aH5315
+- Lam_2:12derramando sus a en el regazo de susH5315
+- Lam_3:17mi a se alejó de la paz, me olvidé delH5315
+- Lam_3:20porque mi a está abatida dentro de míH5315
+- Lam_3:24mi porción es Jehová, dijo mi aH5315
+- Lam_3:25bueno es Jehová a los...al a que le buscaH5315
+- Lam_3:51mis ojos contristaron mi a por todas las
+- Lam_3:58abogaste, Señor, la causa de mi aH5315
+- Eze_3:19él morirá...pero tu habrás librado tu aH5315
+- Eze_3:21cierto vivirá...y tú habrás librado tu aH5315
+- Eze_4:14mi a no es inmunda, ni nunca desde miH5315
+- Eze_7:19saciarán su a, ni llenarán sus entrañasH5315
+- Eze_13:18para cazar las a...las a de mi puebloH5315
+- Eze_13:20como aves las a que vosotras cazáisH5315
+- Eze_13:20vendas...con que cazáis las a al vueloH5315
+- Eze_18:4he aquí que todas las a son mías; comoH5315
+- Eze_18:4el a del padre, así el a del hijo es míaH5315
+- Eze_18:4, Eze_18:20el a que pecare, esa moriráH5315
+- Eze_18:27haciendo...la justicia, hará vivir su aH5315
+- Eze_22:25presa; devoraron a, tomaron haciendasH5315
+- Eze_22:27derramando sangre, para destruir las aH5315
+- Eze_23:17se contaminó...su a se hastió de ellos
+- Eze_23:18por lo cual mi a se hastió de ella
+- Eze_23:18se había ya hastiado mi a de su hermana
+- Eze_23:22amantes, de los cuales se hastió tu a
+- Eze_23:28aquellos de los cuales se hastió tu a
+- Eze_24:21yo profano...el deleite de vuestra aH5315
+- Eze_24:25que yo arrebate...y el anhelo de sus a
+- Eze_25:6batiste tus manos...y te gozaste en el a
+- Eze_27:31endecharán por ti...con amargura del a
+- Eze_47:9toda a viviente que nadare por...vivirá
+- Ose_4:8pecado...y en su maldad levantan su a
+- Jon_2:5aguas me rodearon hasta el a; rodeómeH5315
+- Jon_2:7cuando mi a desfallecía en mí, me acordéH5315
+- Miq_6:7primogénito...por el pecado de mi a?[[H5315]]
+- Miq_7:1comer; mi a deseó los primeros frutosH5315
+- Miq_7:3el grande habla el antojo de su a, y lo
+- Hab_2:4cuya a no es recta, se enorgulleceH5315
+- Hab_2:5ensanchó como el Seol su a, y es como la
+- Zac_11:8mi a se impacientó contra ellos, yH5315
+- Zac_11:8y también el a de ellos me aborrecióH5315
+- Mat_10:28no temáis a...el a no pueden matarG5590
+- Mat_10:28temed...a aquel que puede destruir el aG5590
+- Mat_11:29y hallaréis descanso para vuestras aG5590
+- Mat_12:18mi Amado, en quien se agrada mi aG5590
+- Mat_16:26ganare todo el mundo, y perdiere su a?[[G5590]]
+- Mat_16:26qué recompensa dará el hombre por su a?[[G5590]]
+- Mat_22:37amarás al Señor tu Dios...con toda tu aG5590
+- Mat_26:38Jesús les dijo: Mi a está muy tristeG5590
+- Mar_8:36ganare todo el mundo, y perdiere su a?[[G5590]]
+- Mar_8:37¿o qué recompensa dará el...por su a?[[G5590]]
+- Mar_12:30con toda tu a, y con toda tu mente yG5590
+- Mar_12:33el amarle...con toda el a, y con todasG5590
+- Mar_14:34les dijo: Mi a está muy triste, hastaG5590
+- Luc_1:46María dijo: Engrandece mi a al SeñorG5590
+- Luc_2:35y una espada traspasará tu misma aG5590
+- Luc_9:56no ha venido para perder las a de los
+- Luc_10:27amarás al Señor tu Dios con toda tu aG5590
+- Luc_12:19diré a mi a: A, muchos bienes tienesG5590
+- Luc_12:20necio, esta noche vienen a pedirte tu aG5590
+- Luc_21:19vuestra paciencia ganaréis vuestras aG5590
+- Jua_10:24¿hasta cuándo nos turbarás el a? Si
+- Jua_12:27ahora está turbada mi a; ¿y qué diré?[[G5590]]
+- Hec_2:27porque no dejarás mi a en el HadesG5590
+- Hec_2:31que su a no fue dejada en el Hades, niG5590
+- Hec_3:23toda a que no oiga a aquel profeta, seráG5590
+- Hec_4:32de los que habían creído era de...un aG5590
+- Hec_15:24han inquietado...perturbando vuestras aG5590
+- 1Co_15:45hecho el primer...Adán a vivienteG5590
+- 2Co_1:23invoco a Dios...testigo sobre mi aG5590
+- 2Co_12:15me gastaré del...por amor de vuestras a
+- 1Ts_5:23espíritu, a y cuerpo, sea guardadoG5590
+- Heb_4:12y penetra hasta partir el a y elG5590
+- Heb_6:19tenemos como segura y firme ancla del aG5590
+- Heb_10:38y si retrocediere, no agradará a mi aG5590
+- Heb_10:39que tienen fe para preservación del aG5590
+- Heb_13:17porque ellos velan por vuestras a, comoG5590
+- Stg_1:21la palabra...puede salvar vuestras aG5590
+- Stg_4:4a adúlteras! ¿No sabéis que la amistad
+- Stg_5:20salvará de muerte un a, y cubriráG5590
+- 1Pe_1:9fe, que es la salvación de vuestras aG5590
+- 1Pe_1:22habiendo purificado vuestras a por laG5590
+- 1Pe_2:11los deseos...que batallan contra el aG5590
+- 1Pe_2:25habéis vuelto al...Obispo de vuestras aG5590
+- 1Pe_4:19encomienden sus a al fiel Creador, yG5590
+- 2Pe_2:8afligía cada día su a justa, viendoG5590
+- 2Pe_2:14seducen a las a inconstantes, tienenG5590
+- 3Jn_1:2tengas salud, así como prospera tu aG5590
+- Rev_6:9las a de los que habían sido muertosG5590
+- Rev_18:13caballos y...y esclavos, a de hombresG5590
+- Rev_18:14los frutos codiciados por tu a seG5590
+- Rev_20:4vi las a de los decapitados por causaG5590

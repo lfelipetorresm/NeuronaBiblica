@@ -1,0 +1,145 @@
+---
+tipo: concordancia
+palabra: ESCUCHAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESCUCHAR
+
+- Gén_4:23mujeres de Lamec, escuchad mi dichoH8085
+- Gén_18:10Sara escuchaba a la puerta de la tiendaH8085
+- Gén_23:15escúchame: la tierra vale 400 siclosH8085
+- Gén_39:10y no escuchándola él para acostarse alH8085
+- Gén_42:21nos rogaba, y no le escuchamos; por esoH8085
+- Gén_42:22no pequéis contra...y no escuchasteis?[[H8085]]
+- Gén_49:2oíd...y escuchad a vuestro padre IsraelH8085
+- Éxo_6:9ellos no escuchaban a Moisés a causaH8085
+- Éxo_6:12no me escuchan...me escuchará FaraónH8085
+- Éxo_7:13endureció, y no los escuchó, como JehováH8085
+- Éxo_7:22Faraón se endureció, y no los escuchóH8085
+- Éxo_8:15endureció su corazón y no los escuchóH8085
+- Éxo_8:19Faraón se endureció, y no los escuchóH8085
+- Núm_21:3y Jehová escuchó la voz de Israel, yH8085
+- Núm_23:18oye; escucha mis palabras, hijo de ZiporH238
+- Deu_1:45pero Jehová no escuchó vuestra vozH8085
+- Deu_3:26Jehová se había enojado...no me escuchóH8085
+- Deu_9:19pero Jehová me escuchó aun esta vezH8085
+- Deu_10:10y Jehová también me escuchó esta vezH8085
+- Deu_12:28escucha todas estas palabras que yo teH8085
+- Deu_13:4escucharéis su voz, a él serviréis, y aH8085
+- Deu_15:5si escuchares...la voz de Jehová tu DiosH8085
+- Deu_26:17has declarado...que escucharás su vozH8085
+- Deu_27:9y escucha, oh Israel; hoy has venido aH8085
+- Deu_32:1escuchad, cielos, y hablaré; y oiga laH8085
+- Jos_3:9acercaos, y escuchad las palabras deH8085
+- Jos_24:10yo no quise escuchar a Balaam, por loH8085
+- Jue_5:3escuchad, oh príncipes: yo cantaré aH8085
+- Jue_11:17ruego...el rey de Edom no los escuchóH8085
+- 1Sa_19:6y escuchó Saúl la voz de Jonatán, yH8085
+- 1Sa_25:24y escucha las palabras de tu siervaH8085
+- 1Sa_30:24¿y quién os escuchará en este caso?[[H8085]]
+- 1Re_8:30oren en este lugar...escucha y perdonaH8085
+- 1Re_18:29pero no hubo...voz, ni quien...escuchaseH7182
+- 2Re_14:11pero Amasías no escuchó; por lo cualH8085
+- 2Re_17:40no escucharon; antes hicieron según suH8085
+- 2Re_18:12no las habían escuchado, ni puesto porH8085
+- 2Re_18:31no escuchéis a Ezequías, porque así diceH8085
+- 2Re_21:9mas ellos no escucharon; y Manasés losH8085
+- 2Re_22:13no escucharon las palabras de...libroH8085
+- 2Cr_10:15no escuchó el rey al pueblo; porqueH8085
+- 2Cr_24:19profetas...mas ellos no los escucharonH238
+- 2Cr_33:10habló Jehová...mas ellos no escucharonH7181
+- Neh_9:16y no escucharon tus mandamientosH8085
+- Neh_9:29les amonestaste a que...y no escucharonH8085
+- Neh_9:30les testificaste con...pero no escucharonH238
+- Est_3:4y no escuchándolos él, lo denunciaronH8085
+- Job_9:16no creeré que haya escuchado mi vozH238
+- Job_13:13escuchadme, y hablaré...y que me vengaH2790
+- Job_15:17escúchame; yo te mostraré, y te contaréH8085
+- Job_32:10escuchadme; declararé yo...mi sabiduríaH8085
+- Job_32:11he escuchado vuestros argumentos, enH238
+- Job_33:1oye ahora...y escucha todas mis palabrasH238
+- Job_33:31escucha, Job, y óyeme; calla...hablaréH8085
+- Job_34:16oye...escucha la voz de mis palabrasH8085
+- Job_37:14escucha...Job; detente, y considera laH238
+- Sal_5:1escucha, oh Jehová, mis palabrasH238
+- Sal_17:1escucha mi oración hecha de labios sinH8085
+- Sal_17:6inclina a...tu oído, escucha mi palabraH8085
+- Sal_39:12oye mi...oh Jehová, y escucha mi clamorH8085
+- Sal_49:1escuchad, habitantes todos del mundoH8085
+- Sal_50:7escucha, Israel, y testificaré contraH8085
+- Sal_54:2oh Dios, oye mi oración; escucha lasH8085
+- Sal_55:1escucha, oh Dios, mi oración, y no teH238
+- Sal_64:1escucha, oh Dios, la voz de mi quejaH8085
+- Sal_66:18si en...el Señor no me habría escuchadoH8085
+- Sal_66:19ciertamente me escuchó Dios; atendióH8085
+- Sal_69:13la verdad de tu salvación, escúchameH6030
+- Sal_77:1Dios, a Dios clamé, y él me escucharáH238
+- Sal_78:1escucha, pueblo mío, mi ley; inclinadH238
+- Sal_80:1oh Pastor de Israel, escucha; tú queH238
+- Sal_84:8mi oración; escucha, oh Dios de JacobH238
+- Sal_85:8escucharé lo que hablará Jehová DiosH8085
+- Sal_86:1oído, y escúchame, porque estoy afligidoH6030
+- Sal_86:6escucha, oh Jehová, mi oración, y estáH238
+- Sal_102:1Jehová, escucha mi oración, y llegueH8085
+- Sal_140:6escucha, oh Jehová, la voz de...ruegosH238
+- Sal_141:1a mí; escucha mi voz cuando te invocareH238
+- Sal_142:6escucha mi clamor...estoy muy afligidoH7181
+- Sal_143:1oh Jehová, oye mi...escucha mis ruegosH8085
+- Pro_8:34bienaventurado el hombre...me escuchaH8085
+- Pro_13:1el burlador no escucha las reprensionesH8085
+- Pro_15:31el oído que escucha las amonestacionesH8085
+- Pro_15:32mas el que escucha la corrección tieneH8085
+- Pro_17:4mentiroso escucha la lengua detractoraH238
+- Pro_19:20escucha el consejo, y...la correcciónH8085
+- Ecl_9:16sea...y no sean escuchadas sus palabrasH8085
+- Ecl_9:17palabras del sabio escuchadas en quietudH8085
+- Ecl_12:9e hizo escuchar, e hizo escudriñar, yH239
+- Cnt_8:13compañeros escuchan tu voz; házmelaH7181
+- Isa_1:2oíd, cielos, y escucha tú, tierra; porqueH8085
+- Isa_1:10escuchad la ley de nuestro Dios, puebloH8085
+- Isa_18:3y cuando se toque trompeta, escuchadH8085
+- Isa_32:9oíd...hijas confiadas, escuchad mi razónH8085
+- Isa_34:1y vosotros, pueblos, escuchad. Oiga laH8085
+- Isa_36:16no escuchéis a Ezequías, porque así diceH8085
+- Isa_41:1escuchadme...y esfuércense los pueblosH2790
+- Isa_42:23¿quién atenderá y escuchará respecto alH8085
+- Isa_49:1oídme, costas, y escuchad, pueblosH7181
+- Jer_3:25no hemos escuchado la voz de JehováH8085
+- Jer_6:10son incircuncisos, y no pueden escucharH7181
+- Jer_6:17que dijesen: Escuchad...No escucharemosH7181
+- Jer_6:19porque no escucharon mis palabras, yH8085
+- Jer_7:23escuchad mi voz, y seré a vosotros porH8085
+- Jer_7:28no escuchó la voz de Jehová su Dios, niH8085
+- Jer_8:6escuché y oí; no hablan rectamente, noH7181
+- Jer_11:10no quisieron escuchar mis palabras, yH8085
+- Jer_13:11fuesen...por honra; pero no escucharonH8085
+- Jer_13:15escuchad y oíd; no os envanezcáis, puesH8085
+- Jer_23:16dicho: No escuchéis las palabras de losH8085
+- Jer_25:4ni inclinasteis vuestro oído...escucharH8085
+- Jer_29:19no oyeron mis...y no habéis escuchadoH8085
+- Jer_31:18escuchando, he oído a Efraín que seH8085
+- Jer_32:33no escucharon para recibir correcciónH8085
+- Jer_36:31que les he anunciado y no escucharonH8085
+- Jer_37:14él no lo escuchó, sino prendió IríasH8085
+- Jer_38:15si te diere consejo, no me escucharásH8085
+- Eze_2:5acaso ellos escuchen...si no escucharenH8085
+- Eze_2:7hablarás...escuchen o dejen de escucharH8085
+- Eze_3:11ha dicho...escuchen o dejen de escucharH8085
+- Eze_13:19mintiendo a mi pueblo que escucha laH8085
+- Ose_5:1y casa del rey, escuchad; porque paraH238
+- Joe_1:2y escuchad, todos los moradores de laH8085
+- Amó_5:23quita de...no escucharé las salmodiasH8085
+- Sof_3:2no escuchó...ni recibió la correcciónH8085
+- Zac_1:4no atendieron, ni me escucharon, diceH7181
+- Zac_3:8escucha pues ahora, Josué sumo sacerdoteH8085
+- Zac_7:11no quisieron escuchar, antes volvieronH8085
+- Zac_7:13que así como él clamó, y no escucharonH8085
+- Zac_7:13ellos clamaron, y yo no escuché, diceH8085
+- Mal_3:16Jehová escuchó y oyó, y fue escritoH7181
+- Mar_6:20perplejo...le escuchaba de buena ganaG191
+- Jua_8:43porque no podéis escuchar mi palabraG191
+- Hec_8:6escuchaba atentamente las cosas queG4337
+- Hec_12:13salió a escuchar una muchacha llamadaG5219
+- 1Ti_4:1escuchando a espíritus engañadores yG4337

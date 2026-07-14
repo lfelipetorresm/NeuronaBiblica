@@ -1,0 +1,178 @@
+---
+tipo: concordancia
+palabra: PEDIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PEDIR
+
+- Gén_43:9te respondo...a mí me pedirás cuentaH1245
+- Éxo_3:22pedirá cada mujer a su vecina y a suH7592
+- Éxo_10:11id...esto es lo que vosotros pedisteisH1245
+- Éxo_11:2cada uno pida a su vecino, y cada uno aH7592
+- Éxo_12:35pidiendo de...egipcios alhajas de plataH7592
+- Éxo_12:36dio gracia...y les dieron cuanto pedían
+- Deu_4:7nuestro Dios en todo cuanto le pedimos?)[[H7121]]
+- Deu_10:12¿qué pide Jehová tu Dios de ti, sino queH7592
+- Deu_18:16conforme a...lo que pediste a Jehová tuH7592
+- Deu_18:19no oyere mis palabras...le pediré cuentaH1875
+- Deu_28:12prestarás a...y tú no pedirás prestadoH3867
+- Jos_15:18él la persuadió que pidiese tierrasH7592
+- Jos_19:50la ciudad que él pidió, Timnat-sera, enH7592
+- Jue_1:14la persuadió que pidiese a...un campoH7592
+- Jue_5:25el pidió agua, y ella le dio leche; enH7592
+- Jue_8:26el peso de los zarcillos...que él pidióH7599
+- 1Sa_1:20Samuel...por cuanto lo pedí a JehováH7592
+- 1Sa_1:27oraba, y Jehová me dio lo que le pedíH7592
+- 1Sa_2:20te dé hijos de...en lugar del que pidióH7592
+- 1Sa_8:10Jehová al pueblo que le había pedido reyH7592
+- 1Sa_12:13he aquí el rey que...el cual pedisteisH7592
+- 1Sa_12:17maldad que...pidiendo para vosotros reyH7592
+- 1Sa_12:19hemos añadido este mal de pedir rey paraH7592
+- 1Sa_20:28David me pidió...le dejase ir a BelénH7592
+- 2Sa_3:13te pido: No me vengas a ver sin queH7592
+- 2Sa_12:20después vino...pidió, y le pusieron panH7599
+- 2Sa_19:38lo que tú pidieres de mí, yo lo haréH977
+- 1Re_2:20pide, madre mía...yo no te la negaréH7592
+- 1Re_2:22¿por qué pides a Abisag...para Adonías?[[H7592]]
+- 1Re_3:5y le dijo Dios: Pide lo que quieras queH7592
+- 1Re_3:10agradó...Señor que Salomón pidiese estoH7592
+- 1Re_3:11esto, y no pediste para ti muchos díasH7592
+- 1Re_3:11ni pediste...riquezas, ni p la vida deH7592
+- 1Re_3:13aun te he dado las cosas que no pedisteH7592
+- 1Re_10:13a la reina de Sabá...todo lo que pidióH7592
+- 1Re_12:6Roboam pidió consejo de los ancianos queH3289
+- 1Re_12:8y pidió consejo de los jóvenes que seH3289
+- 1Re_13:6te pido que ruegues ante la presencia deH6293
+- 1Re_20:8no le obedezcas, ni hagas lo que te pide
+- 2Re_2:9pide lo que quieras que haga por tiH7592
+- 2Re_2:10cosa difícil has pedido...Si me vieresH7592
+- 2Re_4:3pide para ti vasijas prestadas de todasH7592
+- 2Re_4:28y ella dijo: ¿Pedí yo hijo a mi señor?[[H7592]]
+- 2Re_19:20lo que me pediste acerca de SenaqueribH6419
+- 1Cr_4:10Jabes...le otorgó Dios lo que pidióH7592
+- 1Cr_17:18David pidiendo de ti para glorificar a
+- 2Cr_1:7pídeme lo que quieras que yo te déH7592
+- 2Cr_1:11no pediste riquezas, bienes o gloria, niH7592
+- 2Cr_1:11ni pediste muchos días, sino que hasH7592
+- 2Cr_1:11sino que has pedido...sabiduría y cienciaH7592
+- 2Cr_2:14sacar toda forma de diseño que se le pida
+- 2Cr_9:12dio a la reina...todo lo que ella...pidióH7592
+- 2Cr_20:4se reunieron...para pedir socorro a Jehová
+- 2Cr_20:4de Judá vinieron a pedir ayuda a JehováH1245
+- 2Cr_28:16envió a pedir el rey Acaz a los reyes
+- Esd_7:6le concedió el rey todo lo que pidióH1246
+- Esd_7:21todo lo que os pida el sacerdote EsdrasH7593
+- Esd_8:22tuve vergüenza de pedir al rey tropa yH7592
+- Esd_8:23pedimos a nuestro Dios sobre esto, y élH1245
+- Neh_2:4el rey: ¿Qué cosa pides? Entonces oréH1245
+- Neh_5:2hemos pedido prestado grano para comer
+- Neh_13:6al cabo de algunos días pedí permiso alH7592
+- Est_2:13todo lo que ella pedía se le daba, paraH559
+- Job_31:30mi lengua, pidiendo maldición paraH7592
+- Sal_2:8pídeme, y te daré por herencia lasH7592
+- Sal_78:18tentaron a Dios...pidiendo comida a suH7592
+- Sal_105:40pidieron, e hizo venir codornices, yH7592
+- Sal_106:15él les dio lo que pidieron; mas envióH7596
+- Sal_122:6pedid por la paz de Jerusalén; seanH7592
+- Sal_137:3pedían que cantásemos, y...nos p alegríaH7592
+- Sal_142:1con mi voz pediré a Jehová misericordiaH2603
+- Pro_20:4pedirá, pues, en la siega, y no hallaráH7592
+- Isa_7:11pide para ti señal de Jehová tu DiosH7592
+- Isa_7:12y respondió Acaz: No pediré...a JehováH7592
+- Isa_40:14¿a quién pidió consejo...ser avisado?
+- Isa_58:2que me buscan...me piden justos juiciosH7592
+- Lam_4:4los pequeñuelos pidieron pan, y no hubo
+- Dan_1:8pidió...al jefe de los eunucos que no seH1245
+- Dan_2:16Daniel entró y pidió al rey que le dieseH1156
+- Dan_2:18que pidiesen misericordias del Dios delH1156
+- Dan_2:23me has revelado lo que te pedimos; puesH1156
+- Dan_6:12pida a cualquier dios u hombre fuera deH1156
+- Miq_6:8qué pide Jehová de ti: solamente hacerH1875
+- Zac_10:1pedid a Jehová lluvia en la estaciónH7592
+- Mat_5:42al que te pida, dale; y al que quieraG1155
+- Mat_6:8Padre sabe...antes que vosotros le pidáisG154
+- Mat_7:7pedid, y se os dará; buscad, y hallaréisG154
+- Mat_7:8porque todo aquel que pide, recibe; y elG154
+- Mat_7:9si su hijo le pide pan, le dará...piedra?[[G154]]
+- Mat_7:10¿o si le pide un pescado, le dará unaG154
+- Mat_7:11dará buenas cosas a los que le pidan?[[G154]]
+- Mat_14:7le prometió...darle todo lo que pidieseG154
+- Mat_16:1le pidieron que les mostrase señal delG1905
+- Mat_18:19acerca de cualquier cosa que pidierenG154
+- Mat_20:20postrándose ante él y pidiéndole algoG154
+- Mat_20:22dijo: No sabéis lo que pedís. ¿PodéisG154
+- Mat_21:22lo que pidiereis en oración, creyendoG154
+- Mat_27:20persuadieron a...que pidiese a BarrabásG154
+- Mat_27:58este fue a Pilato y pidió el cuerpo deG154
+- Mar_6:22pídeme,lo que quieras, y yo te lo daréG154
+- Mar_6:23y le juró: Todo lo que me pidas te daréG154
+- Mar_6:24dijo a su madre: Qué pediré? Y ella leG154
+- Mar_6:25ella entró...y pidió diciendo: Quiero queG154
+- Mar_8:11a discutir...pidiéndole señal del cieloG2212
+- Mar_8:12¿por qué pide señal esta generación? DeG1934
+- Mar_10:35querríamos que...hagas lo que pidiéremosG154
+- Mar_10:38no sabéis lo que pedís. ¿Podéis beberG154
+- Mar_11:24pidiereis orando, creed...y os vendráG154
+- Mar_15:6les soltaba un...cualquiera que pidiesenG154
+- Mar_15:8pedir que hiciese como siempre les habíaG154
+- Mar_15:43José...vino...y pidió el cuerpo de JesúsG154
+- Luc_1:63pidiendo una tablilla, escribió...JuanG154
+- Luc_6:30a cualquiera que te pida, dale; y al queG154
+- Luc_6:30que tome...no pidas que te lo devuelvaG523
+- Luc_11:9yo os digo: Pedid, y se os dará; buscadG154
+- Luc_11:10todo aquel que pide, recibe; y el queG154
+- Luc_11:11¿qué padre de...si su hijo le pide panG154
+- Luc_11:12pide un huevo, le dará un escorpión?[[G154]]
+- Luc_11:13Espíritu Santo a los que se lo pidan?[[G154]]
+- Luc_11:16otros, para tentarle, le pedían señalG154
+- Luc_12:20vienen a pedirte tu alma; y lo que hasG523
+- Luc_12:48se le haya confiado, más se le pediráG2212
+- Luc_14:32le envía...y le pide condiciones de pazG2065
+- Luc_22:31Satanás os ha pedido para zarandearosG1809
+- Luc_23:23voces, pidiendo que fuese crucificadoG154
+- Luc_23:24sentenció...hiciese lo que ellos pedíanG154
+- Luc_23:25soltó a aquel...a quien habían pedidoG154
+- Luc_23:52a Pilato, y pidió el cuerpo de JesúsG154
+- Jua_4:9judío, me pides a mí de beber, que soyG154
+- Jua_4:10tú le pedirías, y él te daría agua vivaG154
+- Jua_11:22sé ahora que todo lo que pidas a DiosG154
+- Jua_14:13lo que pidiereis al Padre en mi nombre
+- Jua_14:14si algo pidiereis en mi nombre, yo loG154
+- Jua_15:7pedid todo lo que queréis, y...será hechoG154
+- Jua_15:16lo que pidiereis al Padre en mi nombreG154
+- Jua_16:23cuanto pidiereis al Padre en mi nombreG154
+- Jua_16:24nada habéis pedido en mi nombre; pedidG154
+- Jua_16:26aquel día pediréis en mi,nombre; y noG154
+- Hec_3:2quien ponían...para que pidiese limosnaG154
+- Hec_3:10era el que se sentaba a pedir limosna a
+- Hec_3:14y pedisteis que se os diese un homicidaG154
+- Hec_7:46pidió proveer tabernáculo para el DiosG154
+- Hec_9:2y le pidió cartas para las sinagogas deG154
+- Hec_12:20pedían paz, porque su territorio eraG154
+- Hec_13:21luego pidieron rey, y Dios les dio aG154
+- Hec_13:28pidieron a Pilato que se le mataseG154
+- Hec_16:29pidiendo luz, se precipitó adentro, yG154
+- Hec_16:39les pidieron que salieran de la ciudadG2065
+- Hec_19:33entonces Alejandro, pedido silencio conG2678
+- Hec_25:3pidiendo contra él, como gracia, que leG154
+- Hec_25:15judíos, pidiendo condenación contra élG154
+- Rom_8:26qué hemos de pedir como conviene, noG4336
+- 1Co_1:22judíos piden señales, y los griegosG154
+- 1Co_14:13pida en oración poder interpretarla
+- 2Co_8:4pidiéndonos...que les concediésemos elG1189
+- Gál_2:10nos pidieron que nos acordásemos de
+- Efe_3:13pido que no desmayéis a causa de misG154
+- Efe_3:20más abundantemente de lo que pedimos oG154
+- Flp_1:9y esto pido en oración, que vuestro
+- Col_1:9pedir que...llenos del conocimiento deG154
+- Stg_1:5si...tiene falta de sabiduría, pídalaG154
+- Stg_1:6pida con fe, no dudando nada; porque elG154
+- Stg_4:2pero no tenéis lo que deseáis...no pedísG154
+- Stg_4:3pedís, y no recibís, porque p mal, paraG154
+- 1Jn_3:22cosa que pidiéremos la recibiremosG154
+- 1Jn_5:14que si pedimos alguna cosa conforme a suG154
+- 1Jn_5:15nos oye en cualquiera cosa que pidamosG154
+- 1Jn_5:16pedirá, y Dios le dará vida; esto es paraG154
+- 1Jn_5:16hay...por el cual yo no digo que se pidaG2065

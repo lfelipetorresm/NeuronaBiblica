@@ -1,0 +1,230 @@
+---
+tipo: concordancia
+palabra: REPOSO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REPOSO
+
+- Éxo_8:15pero viendo Faraón que le habían dado rH7309
+- Éxo_16:23es el santo día de r, el r consagrado aH7677
+- Éxo_16:25comedlo hoy...hoy es día de r para JehováH7676
+- Éxo_16:26el séptimo día es día de r; en él no seH7676
+- Éxo_16:29mitad que Jehová os dio el día de rH7676
+- Éxo_20:8acuérdate del día de r para santificarloH7676
+- Éxo_20:10el séptimo día es r para Jehová tu DiosH7676
+- Éxo_20:11Jehová bendijo el día de r...santificóH7676
+- Éxo_31:13guardaréis...días de r; porque es señalH7676
+- Éxo_31:14guardaréis el día de r, porque santo esH7676
+- Éxo_31:15el día...es día de r consagrado a JehováH7676
+- Éxo_31:15cualquiera que trabaje en el día de rH7676
+- Éxo_31:16guardarán...día de r los hijos de IsraelH7676
+- Éxo_35:2el día séptimo os será santo, día de rH7677
+- Éxo_35:3no encenderéis fuego en...en el día de rH7676
+- Lev_16:31de r es para vosotros, y afligiréisH7677
+- Lev_19:3temerá a su...y mis días de r guardaréisH7676
+- Lev_19:30mis días de r guardaréis, y mi santuarioH7676
+- Lev_23:3trabajará, mas el séptimo día será de rH7677
+- Lev_23:3día de r es de Jehová en dondequieraH7677
+- Lev_23:11el día siguiente del día de r la meceraH7676
+- Lev_23:15el día que sigue al día de r, desde elH7676
+- Lev_23:16el día siguiente del séptimo día de rH7676
+- Lev_23:24primero del mes tendréis día de r, unaH7677
+- Lev_23:32día de r será a vosotros, y afligiréisH7677
+- Lev_23:32de tarde a tarde guardaréis vuestro rH7676
+- Lev_23:38además de los días de r de Jehová, deH7676
+- Lev_23:39siete días; el primer día será de r, y elH7677
+- Lev_23:39y el octavo día será también día de rH7677
+- Lev_24:8día de r lo pondrá...delante de JehováH7676
+- Lev_25:2os doy, la tierra guardará r para JehováH7676
+- Lev_25:4la tierra tendrá descanso, r para JehováH7677
+- Lev_25:5tu viñedo...año de r será para la tierraH7677
+- Lev_26:2mis días de r, y tened en reverencia miH7676
+- Lev_26:34entonces la tierra gozará sus días de rH7673
+- Lev_26:35en los días de r cuando habitabais enH7673
+- Lev_26:43gozará sus días de r, estando desiertaH7676
+- Núm_15:32hombre que recogía leña en día de rH7676
+- Núm_28:9mas el día de r, dos corderos de un añoH7676
+- Núm_28:10el holocausto de cada día de r, ademásH7676
+- Deu_3:20que Jehová dé r a vuestros hermanos, asíH5117
+- Deu_5:12guardarás el día de r para santificarloH7676
+- Deu_5:14mas el séptimo día es r a Jehová tu DiosH5117
+- Deu_5:15te ha mandado que guardes el día de rH7676
+- Deu_12:9no habéis entrado al r y a la heredad queH4496
+- Deu_12:10él os dará r de todos vuestros enemigosH5117
+- Deu_28:65ni la planta de tu pie tendrá r; puesH4494
+- Jos_1:13Jehová vuestro Dios os ha dado r, yH5117
+- Jos_1:15Jehová haya dado r a vuestros hermanosH5117
+- Jos_21:44Jehová les dio r alrededor, conforme aH5117
+- Jos_22:4Dios ha dado r a vuestros hermanos, comoH5117
+- Jos_23:1que Jehová diera r a Israel de todos susH5117
+- 2Sa_7:1le había dado r de todos sus enemigosH5117
+- 2Re_4:23hoy? No es nueva luna, ni día de rH7676
+- 2Re_11:5tendrá la guardia...del rey el día de rH7676
+- 2Re_11:7las dos partes de...que salen el día de rH7676
+- 2Re_11:9los que entraban el día de r y los queH7676
+- 2Re_11:9y los que salían el día de r, vinieron alH7676
+- 2Re_11:20y la ciudad estuvo en r, habiendo sidoH8252
+- 2Re_16:18asimismo el pórtico para los días de rH7676
+- 1Cr_6:31la casa...después que el arca tuvo rH4494
+- 1Cr_9:32panes...ponían por orden cada día de rH7676
+- 1Cr_22:9yo daré paz y r sobre Israel en sus díasH8253
+- 1Cr_23:31los holocaustos a Jehová los días de rH7676
+- 2Cr_2:4y para holocaustos...en los días de rH7676
+- 2Cr_6:41levántate ahora para habitar en tu r, túH5118
+- 2Cr_8:13ofreciesen cada cosa...en los días de rH7676
+- 2Cr_23:4los que entran el día de r, estarán deH7676
+- 2Cr_23:8entraban el día de r...salían el...de rH7676
+- 2Cr_31:3para los holocaustos de los días de rH7676
+- 2Cr_32:22salvó Jehová a...dio r por todos lados
+- 2Cr_36:21hasta que la tierra hubo gozado de rH7673
+- Neh_9:14ordenaste el día de r santo para tiH7676
+- Neh_10:31a vender mercaderías...en día de r, nadaH7676
+- Neh_10:33ofrenda...los días de r, las nuevas lunasH7676
+- Neh_13:15que pisaban en lagares en el día de rH7676
+- Neh_13:15traían a Jerusalén en día de r; y losH7676
+- Neh_13:16pescado...y vendían en día de r a...JudáH7676
+- Neh_13:17qué...hacéis, profanando así el día de r?[[H7676]]
+- Neh_13:18ira sobre Israel profanando el día de r?[[H7676]]
+- Neh_13:19antes del día de r, dije...se cerrasenH7676
+- Neh_13:19hasta después del día de r; y puse a lasH7676
+- Neh_13:19que en día de r no introdujeran cargaH7676
+- Neh_13:21desde entonces no vinieron en día de rH7676
+- Neh_13:22viniesen...para santificar el día del rH7676
+- Job_7:2el jornalero espera el r de su trabajo
+- Job_34:29si él diere r, ¿quién inquietará? SiH8252
+- Sal_22:2clamo...de noche, y no hay para mi rH1747
+- Sal_23:2pastos...junto a aguas de r me pastorearáH4496
+- Sal 92 tít.cántico para el día de rH7676
+- Sal_95:11en mi furor que no entrarían en mi rH4496
+- Sal_116:7vuelve...alma mía, a tu r, porque JehováH4496
+- Sal_132:8levántate, oh Jehová, al lugar de tu rH4496
+- Sal_132:14este es para siempre el lugar de mi rH4496
+- Sal_139:3has escudriñado mi andar y mi r, y todosH7252
+- Pro_6:10cruzar por un poco las manos para rH8142
+- Pro_19:23y con él vivirá lleno de r el hombreH3885
+- Pro_29:9que se enoje o que se ría, no tendrá rH5183
+- Ecl_6:5no ha visto...más r tiene éste que aquélH5183
+- Isa_1:13luna...y día de r...no lo puedo sufrirH7676
+- Isa_14:3el día que Jehová te dé r de tu trabajoH5117
+- Isa_14:7toda la tierra está en r y en paz; seH5117
+- Isa_23:12pasar a Quitim, y aun allí no tendrás rH5117
+- Isa_28:12este es el r; dad r al cansado; y esteH4496
+- Isa_30:15dijo...En descanso y en r seréis salvosH5183
+- Isa_32:17la labor de la justicia, r y seguridadH8252
+- Isa_32:18mi pueblo habitará...y en recreos de rH4496
+- Isa_34:14la lechuza también...hallará para sí rH7180
+- Isa_56:2que guarda el día de r para no profanarloH7676
+- Isa_56:4a los eunucos que guarden mis días de rH7676
+- Isa_56:6todos los que guarden el día de r paraH7676
+- Isa_58:13si retrajeres del día de r tu pie, deH7676
+- Isa_66:1¿dónde está...y dónde el lugar de mi r?[[H4496]]
+- Isa_66:23de día de r en día de r, vendrán todosH7676
+- Jer_14:10deleitaron...no dieron r a sus piesH2820
+- Jer_17:21guardaos...de llevar carga en el día de rH7676
+- Jer_17:22ni saquéis carga de...en el día de r, niH7676
+- Jer_17:22sino santificad el día de r, como mandéH7676
+- Jer_17:24no metiendo carga por...en el día de rH7676
+- Jer_17:24sino que santificareis el día de r, noH7676
+- Jer_17:27no me oyereis...santificar el día de rH7676
+- Jer_17:27no traer carga ni meterla...en día de rH7676
+- Jer_31:2halló gracia...Israel iba en busca de rH7280
+- Lam_1:16alejó...consolador que dé r a mi almaH7725
+- Lam_2:6ha hecho olvidar...los días de r en SionH7676
+- Lam_5:5nos fatigamos, y no hay para nosotros rH5117
+- Eze_20:12les di también mis días de r, paraH7676
+- Eze_20:13mis días de r profanaron en gran maneraH7676
+- Eze_20:16mis días de r profanaron, porque trasH7676
+- Eze_20:20santificad mis días de r, y sean porH7676
+- Eze_20:21se rebelaron...profanaron mis días de rH7676
+- Eze_20:24y profanaron mis días de r, y tras losH7676
+- Eze_22:8santuarios...mis días de r has profanadoH7676
+- Eze_22:26de mis días de r apartaron sus ojos, yH7676
+- Eze_23:38aun esto más...profanaron mis días de rH7676
+- Eze_44:24fiestas...y santificarán mis días de rH7676
+- Eze_45:17dar el holocausto...en los días de r yH7676
+- Eze_46:1el día de r se abrirá; se abrirá tambiénH7676
+- Eze_46:3adorará el pueblo...en los días de r y enH7676
+- Eze_46:4ofrecerá a Jehová en el día de r será 6H7676
+- Eze_46:12su holocausto...como hace en el día de rH7676
+- Ose_2:11haré cesar todo su gozo...sus días de rH7676
+- Miq_2:10porque no es este el lugar de r, puesH4496
+- Nah_1:12aunque r tengan, y...así serán taladosH8003
+- Mat_12:1Jesús por los sembrados en un día de rG4521
+- Mat_12:2lo que no es lícito hacer en el día de rG4521
+- Mat_12:5cómo en el día de r los sacerdotes en elG4521
+- Mat_12:5profanan el día de r, y son sin culpa?[[G4521]]
+- Mat_12:8Hijo del Hombre es Señor del día de rG4521
+- Mat_12:10a Jesús...¿Es lícito sanar en el día de r?[[G4521]]
+- Mat_12:11si ésta cayere en un hoyo en día de rG4521
+- Mat_12:12lícito hacer el bien en los días de rG4521
+- Mat_12:43anda por lugares secos, buscando r, YG372
+- Mat_24:20que vuestra huida no sea...en día de rG4521
+- Mat_28:1pasado el día de r...a ver el sepulcroG4521
+- Mar_1:21los días de r, entrando en la sinagogaG4521
+- Mar_2:23los sembrados un día de r, sus discípulosG4521
+- Mar_2:24¿por qué hacen en el día de r lo que noG4521
+- Mar_2:27día de r fue hecho por causa del hombreG4521
+- Mar_2:27y no el hombre por causa del día de rG4521
+- Mar_2:28el Hijo del...es Señor aun del día de rG4521
+- Mar_3:2ver si en el día de r le sanaría, a finG4521
+- Mar_3:4¿es lícito en los días de r hacer bien, oG4521
+- Mar_6:2llegado el día de r, comenzó a enseñar enG4521
+- Mar_15:42la preparación...la víspera del día de rG4521
+- Mar_16:1pasó el día de r...compraron especiasG4521
+- Luc_4:16y en el día de r entró en la sinagogaG4521
+- Luc_4:31Jesús...y les enseñaba en los días de rG4521
+- Luc_6:1un día de r, que pasando Jesús por losG1207
+- Luc_6:2que no es lícito hacer en los días de r?[[G4521]]
+- Luc_6:5Hijo del Hombre es Señor aun del día de rG4521
+- Luc_6:6en otro día de r...él entró en la sinagogaG4521
+- Luc_6:7para ver si en el día de r lo sanaría, aG4521
+- Luc_6:9¿es lícito en día de r hacer bien, o...mal?[[G4521]]
+- Luc_11:24anda por lugares secos, buscando r; yG4521
+- Luc_13:10enseñaba Jesús en una...en el día de rG4521
+- Luc_13:14que Jesús hubiese sanado en el día de rG4521
+- Luc_13:14en éstos, pues, venid...y no en día de rG4521
+- Luc_13:15¿no desata en el día de r su buey o suG4521
+- Luc_13:16¿no se le debía desatar...el día de r?[[G4521]]
+- Luc_14:1un día de r...habiendo entrado para comerG4521
+- Luc_14:3habló a...¿Es lícito sanar en el día de rG4521
+- Luc_14:5no lo sacará...aunque sea en día de r?[[G4521]]
+- Luc_23:54pascua...estaba para rayar el día de rG4521
+- Luc_23:56y descansaron el día de r, conforme alG4521
+- Jua_5:9tomó su lecho...era día de r aquel díaG4521
+- Jua_5:10día de r; no te es lícito llevar tu lechoG4521
+- Jua_5:16porque hacía estas cosas en el día de rG4521
+- Jua_5:18porque no sólo quebrantaba el día de rG4521
+- Jua_7:22y en el día de r circuncidáis al hombreG4521
+- Jua_7:23si recibe...la circuncisión en el día de rG4521
+- Jua_7:23porque en el día de r sané...un hombre?[[G4521]]
+- Jua_9:14y era día de r cuando Jesús había hechoG4521
+- Jua_9:16no...de Dios, porque no guarda el día de rG4521
+- Jua_19:31no quedasen en la cruz en el día de rG4521
+- Jua_19:31aquel día de r era de gran solemnidadG4521
+- Hec_1:12está cerca de...camino de un día de rG4521
+- Hec_7:49¿qué casa...¿o cuál es el lugar de mi r?[[G4521]]
+- Hec_13:14entraron en la sinagoga un día de r yG4521
+- Hec_13:27profetas que se leen todos los días de rG4521
+- Hec_13:42el siguiente día de r les hablasen deG4521
+- Hec_13:44siguiente día de r se juntó casi todaG4521
+- Hec_15:21Moisés...donde es leído cada día de rG4521
+- Hec_16:13un día de r salimos fuera de la puertaG4521
+- Hec_17:2y por tres días de r discutió con ellosG4521
+- Hec_18:4discutía en la sinagoga...los días de rG4521
+- 2Co_2:13no tuve r en mi espíritu, por...TitoG425
+- 2Co_7:5ningún r tuvo nuestro cuerpo, sino que enG425
+- Col_2:16días de fiesta, luna nueva o días de rG4521
+- 2Ts_1:7y a vosotros, datos r con nosotrosG425
+- Heb_3:11juré en mi ira: No entrarán en mi rG2663
+- Heb_3:18juró que no entrarían en su r, sino aG2663
+- Heb_4:1la promesa de entrar en su r, alguno deG2663
+- Heb_4:3pero los que hemos creído entramos en el rG2663
+- Heb_4:3tanto, juré en mi ira, No entrarán en mi rG2663
+- Heb_4:5y otra vez aquí: No entrarán en mi rG2663
+- Heb_4:8porque si Josué les hubiera dado el r, noG2663
+- Heb_4:9tanto, queda un r para el pueblo de DiosG4520
+- Heb_4:10porque el que ha entrado en su r, tambiénG2663
+- Heb_4:11procuremos, pues, entrar en aquel r, paraG2663
+- Rev_14:11y no tienen r de día ni de noche losG372

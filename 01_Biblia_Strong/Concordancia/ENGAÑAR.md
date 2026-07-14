@@ -1,0 +1,108 @@
+---
+tipo: concordancia
+palabra: ENGAÑAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENGAÑAR
+
+- Gén_3:13dijo la mujer: La serpiente me engañóH5377
+- Gén_29:25¿no...¿Por qué, pues, me has engañado?[[H7411]]
+- Gén_31:7vuestro padre me ha engañado, y me haH2048
+- Gén_31:20Jacob engañó a Labán, no...que se ibaH1589
+- Gén_31:26¿qué has hecho, que me engañaste, y hasH1589
+- Gén_31:27me engañaste, y no me lo hiciste saberH1589
+- Éxo_22:16si alguno engañare a una doncella queH6601
+- Éxo_22:21y al extranjero no engañarás...porqueH3238
+- Lev_19:11no engañaréis ni mentiréis el uno alH3584
+- Lev_25:14cuando vendiereis...no engañe ninguno aH3238
+- Lev_25:17no engañe ninguno a su prójimo, sinoH3238
+- Núm_25:18engañado en lo tocante a Baal-peorH5230
+- Jos_9:22Josué...¿Por qué nos habéis engañadoH7411
+- Jue_16:5engáñale e infórmate en qué consisteH6601
+- Jue_16:10a Sansón: He aquí tú me has engañadoH2048
+- Jue_16:13ahora me engañas, y tratas...con mentirasH2048
+- Jue_16:15ya me has engañado tres veces, y no meH2048
+- 1Sa_19:17a Mical: ¿Por qué me has engañado asíH7411
+- 1Sa_28:13¿por qué me has engañado?...tú eres SaúlH7411
+- 2Sa_3:25no ha venido sino para engañarte, yH6601
+- 2Sa_19:26rey señor mío, mi siervo me engañó; puesH7411
+- 2Re_18:29no os engañe Ezequías...no os podráH5377
+- 2Re_18:32porque os engaña cuando dice: JehováH5496
+- 2Re_19:10a Ezequías rey...no te engañe tu Dios enH5377
+- 2Cr_29:11no os engañéis...porque Jehová os haH7952
+- 2Cr_32:11os engaña Ezequías para entregaros aH5496
+- 2Cr_32:15no os engañe Ezequías, ni os persuadaH5377
+- Job_31:9si fue mi corazón engañado acerca deH6601
+- Job_31:27mi corazón se engañó en secreto, y miH6601
+- Sal_73:15la generación de tus hijos engañaríaH898
+- Pro_1:10si los pecadores te quisieren engañarH6601
+- Pro_26:19el hombre que engaña a su amigo, y diceH7411
+- Isa_3:12los que te guían te engañan, y tuercenH8582
+- Isa_19:13se han engañado los...engañaron a EgiptoH5377, [[H8582]]
+- Isa_36:14os engañe Ezequías, porque no os podráH5377
+- Isa_36:18no os engañe Ezequías diciendo: JehováH5496
+- Isa_37:10te engañe tu Dios en quien tú confíasH5377
+- Isa_44:20su corazón engañado le desvía, para queH2048
+- Isa_47:10sabiduría y tu...ciencia te engañaronH7725
+- Jer_4:10y dije...has engañado a este puebloH5377
+- Jer_9:4porque todo hermano engaña con falaciaH6117
+- Jer_9:5cada uno engaña a su compañero, y ningunoH2048
+- Jer_20:10se engañará, decían, y prevaleceremosH6601
+- Jer_22:3y no engañéis ni robéis al extranjeroH3238
+- Jer_29:8no os engañen vuestros profetas que estánH5377
+- Jer_37:9os engañéis a vosotros mismos, diciendoH5377
+- Jer_38:22han engañado, y han prevalecido contraH5496
+- Jer_49:16tu arrogancia te engañó, y la soberbiaH5377
+- Lam_1:19di voces a...mas ellos me han engañadoH7411
+- Eze_13:10engañaron a mi pueblo, diciendo: PazH2937
+- Eze_14:9profeta fuere engañado y hablare palabraH6601
+- Eze_14:9cuando...yo Jehová engañe al tal profetaH6601
+- Dan_11:23engañará y subirá, y saldrá vencedorH4820
+- Abd_1:3la soberbia de tu corazón te ha engañadoH5377
+- Abd_1:7todos tus aliados te han engañado; hastaH5377
+- Mal_1:14maldito el que engaña...y sacrificaH5320
+- Mat_24:4les dijo: Mirad que nadie os engañeG4105
+- Mat_24:5yo soy el Cristo; y a muchos engañaránG4105
+- Mat_24:11profetas se levantarán, y engañarán aG4105
+- Mat_24:24de tal manera que engañarán, si fuereG4105
+- Mar_13:5a decir: Mirad que nadie os engañeG4105
+- Mar_13:6yo soy el Cristo; y engañarán a muchosG4105
+- Mar_13:22para engañar, si fuese posible, aun aG635
+- Luc_21:8mirad que no seáis engañados; porqueG4105
+- Jua_7:12decían: No, sino que engaña al puebloG4105
+- Jua_7:47¿también vosotros habéis sido engañados?[[G4105]]
+- Hec_8:9había engañado a la gente de SamariaG1839
+- Hec_8:11con sus artes mágicas les había engañadoG1839
+- Rom_3:13es su garganta; con su lengua engañanG1387
+- Rom_7:11el pecado...me engañó, y por él me matóG1818
+- Rom_16:18engañan los corazones de los ingenuoG1818
+- 1Co_3:18nadie...engañe a sí mismo; si algunoG1818
+- 2Co_7:2corrompido, a nadie hemos engañadoG4122
+- 2Co_11:3como la serpiente con su...engañó a EvaG1818
+- 2Co_12:17¿acaso os he engañado por alguno de losG4122
+- 2Co_12:18rogué a Tito...¿Os engañó acaso Tito?[[G4122]]
+- Gál_6:3se cree ser algo, no siendo...se engañaG5422
+- Gál_6:7no os engañéis; Dios no puede ser burladoG4105
+- Efe_4:14que para engañar emplean con astuciaG4106
+- Efe_5:6nadie os engañe con palabras vanas, porqueG538
+- Col_2:4esto lo digo para que nadie os engañeG3884
+- Col_2:8mirad que nadie os engañe por medio deG4812
+- 1Ts_4:6ninguno agravie ni engañe en nadaG4122
+- 2Ts_2:3nadie os engañe en ninguna maneraG1818
+- 1Ti_2:14Adán no fue engañado, sino que laG538
+- 1Ti_2:14la mujer, siendo engañada, incurrió enG538
+- 2Ti_3:13peor, engañando y siendo engañadosG4105
+- Stg_1:22tan solamente oidores, engañándoos aG3884
+- Stg_1:26si...se cree religioso...engaña su corazónG538
+- 1Jn_1:8que no tenemos pecado, nos engañamosG4105
+- 1Jn_2:26os he escrito...sobre los que os engañanG4105
+- 1Jn_3:7nadie os engañe; el que hace justicia esG4105
+- Rev_12:9y Satanás, el cual engaña al mundoG4105
+- Rev_13:14y engaña a los moradores de la tierraG4105
+- Rev_18:23por...fueron engañadas todas las nacionesG4105
+- Rev_19:20había engañado a los que recibieron laG4105
+- Rev_20:3para que no engañase más a las nacionesG4105
+- Rev_20:8y saldrá a engañar a las naciones queG4105
+- Rev_20:10el diablo que los engañaba fue lanzadoG4105

@@ -1,0 +1,979 @@
+---
+tipo: concordancia
+palabra: MUJER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MUJER
+
+- Gén_2:22de la costilla del hombre, hizo una mH802
+- Gén_2:24se unirá a su m, y serán una sola carneH802
+- Gén_2:25y estaban ambos desnudos, Adán y su mH802
+- Gén_3:1la serpiente dijo a la m: ¿Conque DiosH802
+- Gén_3:2la m respondió a la serpiente: Del frutoH802
+- Gén_3:4la serpiente dijo a la m: No moriréisH802
+- Gén_3:6y vio la m que el árbol era bueno paraH802
+- Gén_3:8el hombre y su m se escondieron de DiosH802
+- Gén_3:12la m que me diste por compañera me dioH802
+- Gén_3:13Dios dijo a la m: ¿Qué es...que has hecho?[[H802]]
+- Gén_3:13y dijo la m: La serpiente me engañó, yH802
+- Gén_3:15pondré enemistad entre ti y la m, y entreH802
+- Gén_3:16a la m dijo: Multiplicaré los dolores enH802
+- Gén_3:17por cuanto obedeciste a la voz de tu mH802
+- Gén_3:20llamó Adán el nombre de su m, Eva, porH802
+- Gén_3:21Dios hizo al hombre y a su m túnicas deH802
+- Gén_4:1conoció Adán a su m...y dio a luz a CaínH802
+- Gén_4:17y conoció Caín a su m, la cual concibióH802
+- Gén_4:19Lamec tomó para sí dos m Ada, y...ZilaH802
+- Gén_4:23dijo Lamec a sus m: Ada y Zila, oíd miH802
+- Gén_4:23m de Lamec, escuchad mi dicho: Que unH802
+- Gén_4:25conoció de nuevo Adán a su m, la cual dioH802
+- Gén_6:2los hijos de Dios que...tomaron para si mH802
+- Gén_6:18tus hijos, tu m, y las m de tus hijosH802
+- Gén_7:7entró Noé al...su m, y las m de sus hijosH802
+- Gén_7:13entraron la m de Noé, y las tres m deH802
+- Gén_8:16tu m, y tus hijos, y las m de tus hijosH802
+- Gén_8:18salió Noé, y su m, y las m de sus hijosH802
+- Gén_11:29y tomaron Abram y Nacor para sí m; elH802
+- Gén_11:29el nombre de la m de Abram era SaraiH802
+- Gén_11:29y el nombre de la m de Nacor, MilcaH802
+- Gén_11:31y a Sarai su nuera, m de Abram su hijoH802
+- Gén_12:5tomó, pues, Abram a Sarai su m, y a LotH802
+- Gén_12:11a Sarai su m: He aquí, ahora conozcoH802
+- Gén_12:11conozco que eres m de hermoso aspectoH802
+- Gén_12:12dirán: Su m es; y me matarán a mí, y aH802
+- Gén_12:14los egipcios vieron que la m era hermosaH802
+- Gén_12:15y fue llevada la m a casa de FaraónH802
+- Gén_12:17plagas, por causa de Sarai m de AbramH802
+- Gén_12:18¿por qué no me declaraste que era tu m?[[H802]]
+- Gén_12:19en ocasión de tomarla para mí por m?[[H802]]
+- Gén_12:19ahora he aquí tu m; tómala, y veteH802
+- Gén_12:20le acompañaron, y a su m, con todo loH802
+- Gén_13:1salió, pues, Abram...y su m, con todo loH802
+- Gén_14:16y recobró todos...a las m y demás genteH802
+- Gén_16:1Sarai m de Abram no le daba hijos; y ellaH802
+- Gén_16:3Sarai m de Abram tomó a Agar su siervaH802
+- Gén_16:3Sarai...la dio por m a Abram su maridoH802
+- Gén_16:5di mi sierva por m, y viéndose encintaH2436
+- Gén_17:15a Sarai tu m no la llamarás Sarai, masH802
+- Gén_17:19tu m te dará a luz un hijo, y llamarásH802
+- Gén_18:9y le dijeron: ¿Dónde está Sara tu m?[[H802]]
+- Gén_18:10he aquí que Sara tu m tendrá un hijoH802
+- Gén_18:11habla cesado ya la costumbre de las mH802
+- Gén_19:15levántate, toma tu m, y tus dos hijasH802
+- Gén_19:16la mano de su m y de las manos de susH802
+- Gén_19:26la m de Lot miró atrás, a espaldas deH802
+- Gén_20:2dijo Abraham de Sara su m...mi hermanaH802
+- Gén_20:3a causa de la m que has tomado, la cualH802
+- Gén_20:7devuelve la m a su marido...es profetaH802
+- Gén_20:11lugar, y me matarán por causa de mi mH802
+- Gén_20:12mi hermana, hija de...y la tomé por mH802
+- Gén_20:14a Abraham, y le devolvió a Sara su niH802
+- Gén_20:17y Dios sanó a Abimelec, y a su m, y aH802
+- Gén_20:18casa de Abimelec, a causa de Sara m deH802
+- Gén_21:21y su madre le tomó m de la...de EgiptoH802
+- Gén_23:19sepultó Abraham a Sara su m en la cuevaH802
+- Gén_24:3, Gén_24:37no tomarás para mi hijo m de las hijasH802
+- Gén_24:4irás a...y tomarás m para mi hijo IsaacH802
+- Gén_24:5quizá la m no querrá venir en pos de míH802
+- Gén_24:7y tú traerás de allá m para mi hijoH802
+- Gén_24:8si la m no quisiere venir en pos de tiH802
+- Gén_24:15Milca m de Nacor hermano de AbrahamH802
+- Gén_24:36y Sara, m de in¡ amo, dio a luz en suH802
+- Gén_24:38sino que irás y tomarás m para mi hijoH802
+- Gén_24:39dije: Quizás la m no querrá seguirmeH802
+- Gén_24:40tomarás para mi hijo m de mi familiaH802
+- Gén_24:44sea ésta la m que destinó Jehová paraH802
+- Gén_24:51sea m del hijo de tu señor, como lo haH802
+- Gén_24:67Isaac tomó a Rebeca por m, y la amóH802
+- Gén_25:1Abraham tomó otra m, cuyo nombre eraH802
+- Gén_25:10allí fue sepultado Abraham, y Sara su mH802
+- Gén_25:20cuando tomó por m a Rebeca, hija deH802
+- Gén_25:21oró Isaac a Jehová por su m, que eraH802
+- Gén_25:21aceptó Jehová, y concibió Rebeca su mH802
+- Gén_26:7hombres...le preguntaron acerca de su mH802
+- Gén_26:7tuvo miedo de decir: Es mi m; pensandoH802
+- Gén_26:8vio a Isaac que acariciaba a Rebeca su mH802
+- Gén_26:9y dijo: He aquí ella es de cierto tu mH802
+- Gén_26:10hubiera dormido alguno del...con tu mH802
+- Gén_26:11el que tocare a este hombre o a su mH802
+- Gén_26:34Esaú...de 40 años, tomó por m a JuditH802
+- Gén_27:46si Jacob toma m de las hijas de HetH802
+- Gén_28:1no tomes mujer de las hijas de CanaánH802
+- Gén_28:2vé y toma allí m de las hijas de LabánH802
+- Gén_28:6había enviado a...para tomar para sí mH802
+- Gén_28:6no tomarás m de las hijas de CanaánH802
+- Gén_28:9por m a Mahalat además de sus otras mH802
+- Gén_29:21a Labán: Dame mi m, porque mi tiempoH802
+- Gén_29:28y él le dio a Raquel su hija por mH802
+- Gén_30:4le dio a Bilha su sierva por m; y JacobH802
+- Gén_30:9tomó a Zilpa su...y la dio a Jacob por mH802
+- Gén_30:13dijo Lea...porque las m me dirán dichosaH1323
+- Gén_30:26dame mis m y mis hijos...y déjame irH802
+- Gén_31:17subió sus...y sus m sobre los camellosH802
+- Gén_31:35pues estoy con la costumbre de las mH802
+- Gén_31:50si tomares otras m además de mis hijasH802
+- Gén_32:22tomó sus dos m, y sus dos siervas, y susH802
+- Gén_33:5alzó sus ojos y vio a las m y los niñosH802
+- Gén_34:4habló Siquem. Tómame por m a esta jovenH802
+- Gén_34:8mi hijo...os ruego que se la deis por mH802
+- Gén_34:12dote y dones...y dadme la joven por mH802
+- Gén_34:21nosotros tomaremos sus hijas por m, yH802
+- Gén_34:29llevaron cautivos a...sus niños y sus mH802
+- Gén_36:2Esaú tomó sus m de las hijas de CanaánH802
+- Gén_36:6Esaú tomo sus m, sus hijos y sus hijasH802
+- Gén_36:10hijos de Esaú: Elifaz, hijo de Ada mH802
+- Gén_36:10son...Reuel, hijo de Basemat m de EsaúH802
+- Gén_36:12estos son los hijos de Ada, m de EsaúH802
+- Gén_36:13estos son hijos de Basemat m de EsaúH802
+- Gén_36:14los hijos de Aholibama m de Esaú, hijaH802
+- Gén_36:17estos hijos vienen de Basemat m de EsaúH802
+- Gén_36:18estos son los hijos de Aholibama m deH802
+- Gén_36:18salieron de Aholibama m de Esaú, hija deH802
+- Gén_36:39Hadar...y el nombre de su m, MehetabelH802
+- Gén_37:2hijos de Bilha y Zilpa, m de su padreH802
+- Gén_38:6Judá tomó m para su primogénito Er, laH802
+- Gén_38:8a Onán: Llégate a la m de tu hermano, yH802
+- Gén_38:9cuando se llegaba a la m de su hermanoH802
+- Gén_38:12días, y murió la hija de Súa, m de JudáH802
+- Gén_38:14Sela, y ella no era dada a él por mH802
+- Gén_38:20que éste recibiese la prenda de la mH802
+- Gén_39:7que la m de su amo puso sus ojos en JoséH802
+- Gén_39:8y él no quiso, y dijo a la in de su amoH802
+- Gén_39:9cuanto tú eres su ni; ¿cómo, pues, haríaH802
+- Gén_39:19oyó las palabras que su m le hablabaH802
+- Gén_41:45dio por m a Asenat, hija de PotiferaH802
+- Gén_44:27nos dijo...dos hijos me dio a luz mi mH802
+- Gén_45:19carros para vuestros niños y vuestras mH802
+- Gén_46:5tomaron...y a sus m, en los carros queH802
+- Gén_46:19los hijos de Raquel, m de Jacob: JoséH802
+- Gén_46:26Jacob...sin las m de los hijos de JacobH802
+- Gén_49:31allí sepultaron a Abraham y a Sara su mH802
+- Gén_49:31allí sepultaron a Isaac y a Rebeca su mH802
+- Éxo_1:19porque las m hebreas no son como lasH802
+- Éxo_2:1un varón...tomó por m a una hija de Leví
+- Éxo_2:9lleva a...Y la m tomó al niño y lo crioH802
+- Éxo_2:21y él dio su hija Séfora por m a Moisés
+- Éxo_3:22sino que pedirá cada m a su vecina y aH802
+- Éxo_4:20entonces Moisés tomó su m y sus hijosH802
+- Éxo_6:20Amram tomó por m a Jocabed su tía, laH802
+- Éxo_6:23y tomó Aarón por m a Elisabet hija deH802
+- Éxo_6:25y Eleazar tomó para sí mujer de lasH802
+- Éxo_15:20m salieron en pos de ella con panderosH802
+- Éxo_18:2y tomó Jetro a Séfora la m de MoisésH802
+- Éxo_18:5Jetro el...con los hijos y la m de ésteH802
+- Éxo_18:6vengo a ti, con tu m, y sus dos hijosH802
+- Éxo_19:15dijo. Estad preparados no toquéis mH802
+- Éxo_20:17no codiciarás la m de tu prójimo, niH802
+- Éxo_21:3si...si tenía m, saldrá él y su m con élH802
+- Éxo_21:4si su amo le hubiere dado m, y ella leH802
+- Éxo_21:4la m y sus hijos serán de su amo, y élH802
+- Éxo_21:5yo amo a mi señor, a mi m y a mis hijosH802
+- Éxo_21:10tomare para él otra m, no disminuirá
+- Éxo_21:22si...riñeren, e hirieren a m embarazadaH802
+- Éxo_21:22que les impusiere el marido de la m yH802
+- Éxo_21:28si un buey acorneare a hombre o a m, yH802
+- Éxo_21:29fuere acorneador...matare a hombre o mH802
+- Éxo_22:16ella, deberá dotarla y tomarla por mH802
+- Éxo_22:24y vuestras m serán viudas, y huérfanosH802
+- Éxo_23:26no habrá m que aborte, ni estéril en
+- Éxo_32:2zarcillos...en las orejas de vuestras mH802
+- Éxo_35:22vinieron así hombres como m, todos losH802
+- Éxo_35:25todas las m sabias de corazón hilabanH802
+- Éxo_35:26y todas las m hilaron pelo de cabraH802
+- Éxo_35:29hombres como m que tuvieron corazónH802
+- Éxo_36:6hombre ni m haga más para la ofrenda delH802
+- Éxo_38:8de los espejos de las m que velaban a la
+- Lev_12:2la m cuando conciba y dé a luz varónH802
+- Lev_13:29o m que le saliere llaga en la cabezaH802
+- Lev_13:38o la m tuviere en la piel de su cuerpoH802
+- Lev_15:18y cuando un hombre yaciere con una mH802
+- Lev_15:19cuando la m tuviere flujo de sangreH802
+- Lev_15:25la m, cuando siguiere el flujo de suH802
+- Lev_15:33el que tuviere flujo, sea varón o mH802
+- Lev_15:33y para el hombre que durmiere con mH5347
+- Lev_18:8la desnudez de la m de tu padre noH802
+- Lev_18:11la desnudez de la hija de la m de tuH802
+- Lev_18:14no llegarás a su m; es m del hermanoH802
+- Lev_18:15nuera m es de tu hijo, no descubrirásH802
+- Lev_18:16la desnudez de la m de tu hermano noH802
+- Lev_18:17desnudez de la m y de...no descubrirásH802
+- Lev_18:18no tomarás m juntamente con su hermanaH802
+- Lev_18:19no llegarás a la m mientras esté enH802
+- Lev_18:20no tendrás acto carnal con la m de tuH802
+- Lev_18:22no te echarás con varón como con m; esH802
+- Lev_18:23ni m se pondrá delante de animal paraH802
+- Lev_19:20si...yaciere con una m que fuere siervaH802
+- Lev_20:10adulterio con la m de su prójimo, elH802
+- Lev_20:11que yaciere con la m de su padre, laH802
+- Lev_20:13alguno...ayuntare con varón como con mH802
+- Lev_20:14el que tomare m y a la madre de ellaH802
+- Lev_20:16y si una m se llegare a algún animalH802
+- Lev_20:16a la m y al animal matarás; moriránH802
+- Lev_20:18durmiere con m menstruosa...descubrióH802
+- Lev_20:20que durmiere con la m del hermano deH1733
+- Lev_20:21que tomare la m de su hermano, cometeH802
+- Lev_20:27la m que evocare espíritus de muertosH802
+- Lev_21:7con m ramera o...ni con m repudiada deH802
+- Lev_21:13tomará por esposa a una m virgenH802
+- Lev_21:14tomará de su pueblo una virgen por mH802
+- Lev_24:10el hijo de una m israelita, el cual eraH802
+- Lev_24:11y el hijo de la m blasfemó el NombreH802
+- Lev_26:26cocerán diez m vuestro pan en un hornoH802
+- Lev_27:4y si fuere m, la estimarás en treintaH5347
+- Lev_27:5, Lev_27:7estimarás en...y a la m en diez siclosH5347
+- Lev_27:6estimarás la m en tres siclos de plataH5347
+- Núm_5:3a hombres como a m echaréis; fuera delH5347
+- Núm_5:6o la m que cometiere alguno de...pecadosH802
+- Núm_5:12si la m de alguno se descarriare, y teH802
+- Núm_5:14tuviere celos de su m, habiéndose ellaH802
+- Núm_5:14y tuviere celos de su m, no habiéndoseH802
+- Núm_5:15el marido traerá su m al sacerdote, yH802
+- Núm_5:18estar en pie a la m delante de JehováH802
+- Núm_5:18descubrirá la cabeza de la m, y pondráH802
+- Núm_5:21el sacerdote conjurará...m con juramentoH802
+- Núm_5:21dirá a la m): Jehová te haga maldiciónH802
+- Núm_5:22caer tu muslo. Y la m dirá: Amén, aménH802
+- Núm_5:24dará a beber a la m las aguas amargasH802
+- Núm_5:25tomará de la mano de la m la ofrenda deH802
+- Núm_5:26después dará a beber las aguas a la mH802
+- Núm_5:27m será maldición en medio de su puebloH802
+- Núm_5:28si la m no fuere inmunda, sino limpiaH802
+- Núm_5:29cuando la m cometiere infidelidad contraH802
+- Núm_5:30y tuviere celos de su m; la presentaráH802
+- Núm_5:31será libre de...y la m llevará su pecadoH802
+- Núm_6:2o la m que se apartare haciendo voto deH802
+- Núm_12:1la m cusita...él había tomado m cusitaH802
+- Núm_14:3que nuestras m y niños sean por presa?[[H802]]
+- Núm_16:27se pusieron a las puertas con sus mH802
+- Núm_25:8los alanceó a...y a la m por su vientreH802
+- Núm_25:15el nombre de la m madianita...era CozbiH802
+- Núm_26:59la m de Amram se llamó Jocabed, hijaH802
+- Núm_30:3mas la m, cuando hiciere voto a JehováH802
+- Núm_30:16las ordenanzas...entre el varón y su mH802
+- Núm_31:9cautivas a las m de los madianitas, aH802
+- Núm_31:15habéis dejado con vida a todas las m?[[H5347]]
+- Núm_31:17matad toda m que haya conocido varónH802
+- Núm_31:18a todas las niñas entre las m, que noH802
+- Núm_31:35m que no habían conocido varón, eranH802
+- Núm_32:26nuestras m estarán en las ciudadesH802
+- Deu_2:34destruimos todas...hombres, m y niñosH802
+- Deu_3:6matando en...ciudad a hombres, m y niñosH802
+- Deu_3:19vuestras m quedarán en las ciudades queH802
+- Deu_5:21no codiciarás la m de tu prójimo, niH802
+- Deu_13:6si te incitare...tu m o tu amigo íntimoH802
+- Deu_17:2hombre o m que haya hecho mal ante losH802
+- Deu_17:5sacarás a la m que hubiere hecho estaH802
+- Deu_17:5sea hombre o m, y los apedrearás, y asíH802
+- Deu_17:17ni tomará para sí muchas m, para queH802
+- Deu_20:7¿y quién se ha desposado con m, y no laH802
+- Deu_20:14m y los niños, y los animales, y todoH802
+- Deu_21:11entre los cautivos a alguna m hermosaH802
+- Deu_21:11vieres entre, la tomares para ti por mH802
+- Deu_21:13tú serás su marido, y ella será tu mH802
+- Deu_21:15un hombre tuviere dos m, la una amadaH802
+- Deu_22:5no vestirá la m traje de hombre, ni elH802
+- Deu_22:5ni el hombre vestirá ropa de m; porqueH802
+- Deu_22:13alguno tomare m, y después de haberseH802
+- Deu_22:14dijere: A esta m y no la hallé virgenH802
+- Deu_22:16di mi hija a este hombre por m, y él laH802
+- Deu_22:19y le multarán y la tendrá por m, y noH802
+- Deu_22:22acostado con una m casada con maridoH802
+- Deu_22:22que se acostó con la m, y la m tambiénH802
+- Deu_22:24el hombre porque humilló a la m de suH802
+- Deu_22:29ella será su m, por cuanto la humillóH802
+- Deu_22:30ninguno tomará la m de su padre, niH802
+- Deu_24:1alguno tomare m y se casare con ella, siH802
+- Deu_24:3si hubiere muerto el que la tomó por mH802
+- Deu_24:4no...volverla a tomar para que sea su niH802
+- Deu_24:5por un año, para alegrar a la m que tomóH802
+- Deu_25:5la m del muerto no se casará fuera conH802
+- Deu_25:5su cuñado...la tomará por su m, y haráH802
+- Deu_25:11se acercare la m de uno para librar aH802
+- Deu_27:20que se acostare con la m de su padreH802
+- Deu_28:30te desposarás con m, y otro dormiráH802
+- Deu_28:54con malos ojos...a la m de su seno, yH802
+- Deu_29:11m, y tus extranjeros que habitan enH802
+- Deu_29:18no sea que haya...varón o m, o familiaH802
+- Deu_31:12harás congregar...varones y m y niñosH802
+- Jos_1:14vuestras m...quedarán en la tierra queH802
+- Jos_2:4pero la m había tomado a los dos hombresH802
+- Jos_6:21y destruyeron a...hombres y m, jóvenes yH802
+- Jos_6:22entrad en casa de la m ramera, y hacedH802
+- Jos_6:22haced salir de allí a la m y a todo loH802
+- Jos_8:25los que cayeron aquel día, hombres y mH802
+- Jos_8:35leer delante de...de las m, de los niñosH802
+- Jos_15:16atacare a...le daré mi hija Acsa por mH802
+- Jos_15:17la tomó...y él le dio su hija Acsa por mH802
+- Jue_1:12dijo...yo le daré Acsa mi hija por mH802
+- Jue_1:13de Caleb; y él le dio Acsa su hija por mH802
+- Jue_3:6tomaron de sus hijas por m, y dieron susH802
+- Jue_4:4una m, Débora, profetisa, m de LapidotH802
+- Jue_4:9en mano de m venderá Jehová a SísaraH802
+- Jue_4:17a la tienda de Jael m de Heber ceneoH802
+- Jue_4:21Jael m de Heber tomó una estaca de laH802
+- Jue_5:24sea entre las m Jael, m de Heber ceneoH802
+- Jue_5:24sobre las m bendita sea en la tiendaH802
+- Jue_8:30y tuvo Gedeón setenta hijos...muchas mH802
+- Jue_9:49murieron, como unos mil hombres y mH802
+- Jue_9:51a la cual se retiraron...hombres y las mH802
+- Jue_9:53una m dejó caer un pedazo de una rueda802
+- Jue_9:54para que no se diga de mí: Una m lo matóH802
+- Jue_11:1Jefté...era hijo de una m ramera, y elH802
+- Jue_11:2pero la m de Galaad le dio hijos, losH802
+- Jue_11:2no heredarás en la...eres hijo de otra mH802
+- Jue_13:2su m era estéril, y nunca había tenidoH802
+- Jue_13:3a esta m apareció el ángel de JehováH802
+- Jue_13:6y la m vino y se lo contó a su maridoH802
+- Jue_13:9el ángel de Dios volvió otra vez a la mH802
+- Jue_13:10y la m corrió...a avisarle a su maridoH802
+- Jue_13:11y se levantó Manoa, y siguió a su mH802
+- Jue_13:11¿eres tú aquel varón que habló a la m?[[H802]]
+- Jue_13:13la m se guardará de todas las cosas queH802
+- Jue_13:19-20ante los ojos de Manoa y de su mH802
+- Jue_13:21no volvió a aparecer a Manoa ni a su mH802
+- Jue_13:22Manoa a su ni: Ciertamente moriremosH802
+- Jue_13:23m le respondió: Si...nos quisiera matarH802
+- Jue_13:24la m dio a luz un hijo, y le puso porH802
+- Jue_14:1Sansón...vio...a una m de las hijas de losH802
+- Jue_14:2he visto en Timnat una m de las hijas deH802
+- Jue_14:2he visto...ruego que me la toméis por mH802
+- Jue_14:3¿no hay m...a tomar m de los filisteosH802
+- Jue_14:3tómame ésta por m, porque...me agradaH802
+- Jue_14:7y habló a la ni; y ella agradó a SansónH802
+- Jue_14:10vino, pues, su padre adonde estaba la mH802
+- Jue_14:15al séptimo día dijeron a la m de SansónH802
+- Jue_14:16lloró la m de Sansón en presencia de élH802
+- Jue_14:20la m de Sansón fue dada a su compañeroH802
+- Jue_15:1visitó a su m con un...Entraré a mi m enH802
+- Jue_15:6le quitó su m y la dio a su compañeroH802
+- Jue_16:1fue Sansón a...y vio allí a una m rameraH802
+- Jue_16:4se enamoró de una m en el valle de SorecH802
+- Jue_16:27y la casa estaba llena de hombres y mH802
+- Jue_16:27había como tres mil hombres y m, queH802
+- Jue_19:1el cual había tomado para sí m concubinaH802
+- Jue_19:26vino la m, y cayó delante de la puertaH802
+- Jue_19:27m...estaba tendida delante de la puertaH802
+- Jue_20:4el varón levita, marido de la m muertaH802
+- Jue_21:1dará su hija a los de Benjamín por mH802
+- Jue_21:7cuanto a m para los...no les daremos...mH802
+- Jue_21:10herid a filo de espada a...las m y niñosH802
+- Jue_21:11mataréis a...a toda m que haya conocidoH802
+- Jue_21:14les dieron por m...las m de Jabes-galaadH802
+- Jue_21:16respecto de m para...las m de BenjamínH802
+- Jue_21:18no les podemos dar m de nuestras hijasH802
+- Jue_21:18maldito el que diere m a...benjamitasH802
+- Jue_21:21salid...y arrebatad cada uno m para síH802
+- Jue_21:22en la guerra no tomamos m para todosH802
+- Jue_21:23así; y tomaron m conforme a su númeroH802
+- Rut_1:1fue a morar en los...de Moab, él y su mH802
+- Rut_1:2nombre de...Elimelec, y el de su m, NoemíH802
+- Rut_1:4tomaron para sí m moabitas; el nombre deH802
+- Rut_1:5quedando así la m desamparada de...hijosH802
+- Rut_3:8he aquí, una m estaba acostada a sus piesH802
+- Rut_3:11de mi pueblo sabe que eres m virtuosaH802
+- Rut_3:14él dijo: No se sepa que vino m a la eraH802
+- Rut_4:5debes tomar también a Rut...m del difuntoH802
+- Rut_4:10tomo por mi m a Rut...la moabita, m deH802
+- Rut_4:11Jehová haga a la m que entra en tu casaH802
+- Rut_4:13Booz, pues, tomó a Rut, y ella fue su mH802
+- Rut_4:14las m decían a Noemí: Loado sea JehováH802
+- 1Sa_1:2tenía él dos m; el nombre de una eraH802
+- 1Sa_1:4daba a Penina su m, a todos sus hijos y aH802
+- 1Sa_1:15soy una m atribulada de espíritu; no heH802
+- 1Sa_1:16no tengas a tu sierva por una m impíaH1323
+- 1Sa_1:18se fue la m por su camino, y comió, y noH802
+- 1Sa_1:19Elcana se llegó a Ana su m, y Jehová seH802
+- 1Sa_1:23y se quedó la m, y crio a su hijo hastaH802
+- 1Sa_1:26yo soy aquella m que estuvo aquí junto aH802
+- 1Sa_2:20Elí bendijo a Elcana y a su m, diciendoH802
+- 1Sa_2:20Jehová te dé hijos de esta m en lugarH802
+- 1Sa_2:22cómo dormían con las m que velaban a laH802
+- 1Sa_4:19su nuera la m de Finees...estaba encintaH802
+- 1Sa_14:50el nombre de la m de Saúl era AhinoamH802
+- 1Sa_15:3mata a hombres, m, niños, y aun los deH802
+- 1Sa_15:33las m sin hijos...sin hijo entre las mH802
+- 1Sa_18:6salieron las m de todas las ciudades deH802
+- 1Sa_18:7cantaban las ni que danzaban, y decíanH802
+- 1Sa_18:17yo te daré Merab mi hija mayor por mH802
+- 1Sa_18:19Merab...dada por ni a Adriel meholatitaH802
+- 1Sa_18:27rey. Y Saúl le dio su hija Mical por mH802
+- 1Sa_19:11Mical su m avisó a David, diciendo: SiH802
+- 1Sa_21:4criados se han guardado a lo menos de mH802
+- 1Sa_21:5m han estado lejos de nosotros ayer yH802
+- 1Sa_22:19hirió...así a hombres como a m, niñosH802
+- 1Sa_25:3y su ni, Abigail. Era aquella m de buenH802
+- 1Sa_25:14uno de...dio aviso a Abigail ni de NabalH802
+- 1Sa_25:37a Nabal...le refirió su m estas cosasH802
+- 1Sa_25:39envió David a...para tomarla por su mH802
+- 1Sa_25:40nos ha enviado...para tomarte por su mH802
+- 1Sa_25:42siguió a los mensajeros de...y fue su mH802
+- 1Sa_25:43tomó...a Ahinoam...y ambas fueron sus mH802
+- 1Sa_25:44Saúl había dado a...Mical m de David aH802
+- 1Sa_27:3David con sus dos m, Ahinoam...y AbigailH802
+- 1Sa_27:3y Abigail la que fue m de Nabal el deH802
+- 1Sa_27:9David...no dejaba con vida hombre ni mH802
+- 1Sa_27:11ni hombre ni m dejaba David con vidaH802
+- 1Sa_28:7una m que tenga espíritu de adivinaciónH802
+- 1Sa_28:7hay una m en Endor que tiene espíritu deH802
+- 1Sa_28:8vinieron a aquella m de noche; y él dijoH802
+- 1Sa_28:9m le dijo: He aquí tú sabes lo que SaúlH802
+- 1Sa_28:11la m...dijo: ¿A quién te haré venir?[[H802]]
+- 1Sa_28:12y viendo la m a Samuel, clamó en altaH802
+- 1Sa_28:12voz, y habló aquella m a Saúl, diciendoH802
+- 1Sa_28:13la m respondió a Saúl: He visto diosesH802
+- 1Sa_28:21la m vino a Saúl, y viéndole turbadoH802
+- 1Sa_28:23porfiaron con él...juntamente con la mH802
+- 1Sa_28:24aquella m tenía en su casa un terneroH802
+- 1Sa_30:2se habían llevado cautivas a las m y aH802
+- 1Sa_30:3sus m y...habían sido llevados cautivosH802
+- 1Sa_30:5las dos m de David...también eran cautivasH802
+- 1Sa_30:5y Abigail la que fue m de Nabal el deH802
+- 1Sa_30:18libró David...libertó David a sus dos mH802
+- 1Sa_30:22no les daremos...sino a cada uno su m yH802
+- 2Sa_1:26más maravilloso...que el amor de las mH802
+- 2Sa_2:2subió allá, y con él sus dos m, AhinoamH802
+- 2Sa_2:2y Abigail, la que fue m de Nabal el deH802
+- 2Sa_3:3Quileab, de Abigail la ni de Nabal el deH802
+- 2Sa_3:8me haces hoy cargo del pecado de esta m?[[H802]]
+- 2Sa_3:14restitúyeme mi m Mical, la cual desposéH802
+- 2Sa_5:13tomó David...concubinas y m de JerusalénH802
+- 2Sa_6:19repartió...así a hombres como a m...panH802
+- 2Sa_11:2y vio...a una m que se estaba bañando, laH802
+- 2Sa_11:3envió David a preguntar por aquella miH802
+- 2Sa_11:3aquella es Betsabé...m de Urías heteoH802
+- 2Sa_11:5concibió la m, y envió a hacerlo saberH802
+- 2Sa_11:11entrar en mi casa...a dormir con mi m?[[H802]]
+- 2Sa_11:21¿no echó una m del muro un pedazo deH802
+- 2Sa_11:26oyendo la m de Urías que su maridoH802
+- 2Sa_11:27y la trajo a su casa; y ella fue su mH802
+- 2Sa_12:8te di la...y las m de tu señor en tu senoH802
+- 2Sa_12:9a Urías heteo...y tomaste por m a su mH802
+- 2Sa_12:10tomaste la m de Urías...que fuese tu mH802
+- 2Sa_12:11y tomaré tus m, cual yacerá con tus mH802
+- 2Sa_12:15al niño que la m de Urías había dadoH802
+- 2Sa_12:24consoló...a Betsabé su m, y llegándoseH802
+- 2Sa_14:2y tomó de allá una m astuta, y le dijoH802
+- 2Sa_14:2como una m...de duelo por algún muertoH802
+- 2Sa_14:4entró, pues, aquella m de Tecoa al reyH802
+- 2Sa_14:5a la verdad soy una m viuda y mi maridoH802
+- 2Sa_14:8el rey dijo a la m: Vete a tu casa, y yoH802
+- 2Sa_14:9la m de Tecoa dijo al rey: Rey señor míoH802
+- 2Sa_14:12la m dijo: Te ruego que me permitas queH802
+- 2Sa_14:13la m dijo: ¿Por qué, pues, has pensadoH802
+- 2Sa_14:18David...dijo a la m: Yo te ruego que noH802
+- 2Sa_14:18y la m dijo: Hable mi señor el reyH802
+- 2Sa_14:19m respondió y dijo: Vive tu alma, reyH802
+- 2Sa_14:27se llamó Tamar...m de hermoso semblanteH802
+- 2Sa_15:16dejó el rey diez m concubinas, paraH802
+- 2Sa_17:19tomando la m de la casa una manta, laH802
+- 2Sa_17:20llegando luego...a la casa de la m, leH802
+- 2Sa_17:20m les respondió: Ya han pasado el vadoH802
+- 2Sa_19:5han librado...la vida de tus m, y la vidaH802
+- 2Sa_20:3tomó el rey las diez m concubinas queH802
+- 2Sa_20:16m sabia dio voces en la ciudad, diciendoH802
+- 2Sa_20:17él se acercó...dijo la m: ¿Eres tú Joab?[[H802]]
+- 2Sa_20:21la m dijo a Joab: He aquí su cabeza teH802
+- 2Sa_20:22la m fue luego a todo el pueblo con suH802
+- 1Re_2:17para que me dé Abisag sunamita por mH802
+- 1Re_2:21dijo: Dese Abisag...por m a tu hermanoH802
+- 1Re_3:16tiempo vinieron al rey dos m ramerasH802
+- 1Re_3:17yo y esta m morábamos...una misma casaH802
+- 1Re_3:19y una noche el hijo de esta m murióH802
+- 1Re_3:22la otra m dijo: No; mi hijo es el queH802
+- 1Re_3:26la m de quien era el hijo vivo, hablóH802
+- 1Re_4:11éste tenía por m a Tafat hija de SalomónH802
+- 1Re_4:15tomó...por ni a Basemat hija de SalomónH802
+- 1Re_7:8hija de Faraón, que había tomado por niH1323
+- 1Re_9:16dio en dote a su hija la m de SalomónH802
+- 1Re_11:1Salomón amó...a muchas m extranjeras, aH802
+- 1Re_11:3setecientas m reinas y 300 concubinasH802
+- 1Re_11:3concubinas...sus m desviaron su corazónH802
+- 1Re_11:4sus m inclinaron su corazón tras diosesH802
+- 1Re_11:8así hizo para todas sus m extranjerasH802
+- 1Re_11:19le dio por m la hermana de su esposaH802
+- 1Re_14:2dijo Jeroboam a su m: Levántate ahoraH802
+- 1Re_14:2te conozcan que eres la m de JeroboamH802
+- 1Re_14:4y la m de Jeroboam lo hizo así; y seH802
+- 1Re_14:5la m de Jeroboam vendrá a consultarteH802
+- 1Re_14:6Ahías oyó...dijo: Entra, m de JeroboamH802
+- 1Re_14:17entonces la m de Jeroboam se levantóH802
+- 1Re_16:31por m a Jezabel, hija de Et-baal reyH802
+- 1Re_17:9he dado orden allí a una m viuda que teH802
+- 1Re_17:10he aquí una m viuda...recogiendo leñaH802
+- 1Re_17:24la m dijo a Elías: Ahora conozco queH802
+- 1Re_20:3y tus m y tus hijos hermosos son míosH802
+- 1Re_20:5tu plata...y tus m y tus hijos me darásH802
+- 1Re_20:7ha enviado a mí por mis m y mis hijosH802
+- 1Re_21:5vino a él su m Jezabel, y le dijo: ¿PorH802
+- 1Re_21:7y su m Jezabel le dijo: ¿Eres tú ahoraH802
+- 1Re_21:25hacer lo malo...Jezabel su m lo incitabaH802
+- 2Re_4:1una m, de las m de los hijos de losH802
+- 2Re_4:5se fue la m, y cerró...encerrándose ella
+- 2Re_4:8allí una m importante, que le invitabaH802
+- 2Re_4:17mas la m concibió, y dio a luz un hijoH802
+- 2Re_5:2muchacha, la cual servía a la m de NaamánH802
+- 2Re_6:26pasando el rey...una m le gritó, y dijoH802
+- 2Re_6:28dijo...Esta m me dijo: Da acá tu hijo, yH802
+- 2Re_6:30el rey oyó las palabras de aquella mH802
+- 2Re_8:1habló Eliseo a aquella m a cuyo hijo élH802
+- 2Re_8:2la ni se levantó, e hizo como el...le dijoH802
+- 2Re_8:3m volvió de la tierra de los filisteosH802
+- 2Re_8:5la m...vino para implorar al rey por suH802
+- 2Re_8:5dijo...Rey señor mío, ésta es la m, y esteH802
+- 2Re_8:6preguntando el rey a la m...se lo contóH802
+- 2Re_8:12y abrirás el vientre a sus m que esténH2030
+- 2Re_8:18hija de Acab fue su m; e hizo lo maloH802
+- 2Re_14:9al cedro que...Da tu hija por m a mi hijoH802
+- 2Re_15:16y abrió el vientre a todas sus m queH802
+- 2Re_22:14la profetisa Hulda, m de Salum hijo deH802
+- 2Re_23:7en los cuales tejían las m tiendas paraH802
+- 2Re_24:15llevó cautivos...a las m del rey, a susH802
+- 1Cr_1:50Hadad...el nombre de su m, MehetabelH802
+- 1Cr_2:18Caleb hijo...engendró a Jeriot de su mH802
+- 1Cr_2:19tomó Caleb por m a Efrata, la cual dio
+- 1Cr_2:24Abías m de Hezrón dio a luz a AsurH802
+- 1Cr_2:26tuvo Jerameel otra m llamada Atara, queH802
+- 1Cr_2:29el nombre de la m de Abisur fue AbihailH802
+- 1Cr_2:35a éste Sesán dio su hija por m, y ellaH802
+- 1Cr_3:3quinto...el sexto, Itream, de Egla su mH802
+- 1Cr_4:5Asur padre de Tecoa tuvo dos in, Hela yH802
+- 1Cr_4:18su m Jehudaía dio a luz a Jered padre deH802
+- 1Cr_4:19los hijos de la m de Hodías, hermana deH802
+- 1Cr_7:4en sus linajes...porque tuvieron muchas mH802
+- 1Cr_7:15Maquir tomó m de Hupim, y Supim, cuyaH802
+- 1Cr_7:16Maaca m de Maquir dio a luz un hijo, yH802
+- 1Cr_7:23se llegó a su m, y ella concibió y dioH802
+- 1Cr_8:8después que dejó a Husim...que eran sus mH802
+- 1Cr_8:9engendró, pues, de Hodes su m a JobabH802
+- 1Cr_8:29habitaron Abigabaón, la m del cual seH802
+- 1Cr_9:35Jehiel...el nombre de cuya m era MaacaH802
+- 1Cr_14:3David tomó...m en Jerusalén, y engendróH802
+- 1Cr_16:3así a hombres como a m, a cada uno unaH802
+- 1Cr_23:22y los hijos de Cis...las tomaron por mH1323
+- 2Cr_2:14hijo de una m de las hijas de DanH802
+- 2Cr_8:11mi m no morará en la casa de David reyH802
+- 2Cr_11:18tomó Roboam por m a Mahalat hija deH802
+- 2Cr_11:21amó a Maaca hija...sobre todas sus mH802
+- 2Cr_11:21Roboam...tomó 18 m y 60 concubinasH802
+- 2Cr_11:23y les dio provisiones en...y muchas mH802
+- 2Cr_13:21tomó catorce m, y engendró 22 hijos yH802
+- 2Cr_15:13que no buscase a Jehová...hombre o mH802
+- 2Cr_20:13estaba en pie...con sus niños y sus mH802
+- 2Cr_21:6tenía por m a la hija de Acab, e hizo loH802
+- 2Cr_21:14herirá...tus m, y a todo cuanto tienesH802
+- 2Cr_21:17tomaron...a sus hijos y a sus m; y no leH802
+- 2Cr_22:11lo escondió Josabet...m del sacerdoteH802
+- 2Cr_24:3Joiada tomó para él dos m; y engendróH802
+- 2Cr_25:18diciendo: Da tu hija a mi hijo por mH802
+- 2Cr_28:8tomaron cautivos de sus...a 200.0000, mH802
+- 2Cr_29:9y nuestras m fueron llevados cautivosH802
+- 2Cr_31:18eran inscritos con...sus m, sus hijosH802
+- 2Cr_34:22fueron a Hulda profetisa, m de SalumH802
+- Esd_2:61cual tomó m de las hijas de BarzilaiH802
+- Esd_10:1se juntó a él una...hombres, m y niñosH802
+- Esd_10:2tomamos m extranjeras de los pueblos deH802
+- Esd_10:3despediremos a...las m y los nacidos deH802
+- Esd_10:10tomasteis m extranjeras, añadiendo asíH802
+- Esd_10:11apartaos de los...de las m extranjerasH802
+- Esd_10:14hayan tomado m extranjeras, vengan enH802
+- Esd_10:17todos...que habían tomado m extranjerasH802
+- Esd_10:18de los...que habían tomado m extranjerasH802
+- Esd_10:19en promesa de que despedirían sus mH802
+- Esd_10:44todos estos habían tomado m extranjerasH802
+- Esd_10:44había m...que habían dado a luz hijosH802
+- Neh_4:14pelead por vuestros hermanos...m y porH802
+- Neh_5:1hubo gran clamor del...y de sus m contraH802
+- Neh_6:18Johanán su hijo había tomado por m a laH1323
+- Neh_7:63el cual tomó m de las hijas de BarzilaiH802
+- Neh_8:2congregación, así de hombres como de mH802
+- Neh_8:3leyó...en presencia de hombres y m y deH802
+- Neh_10:28con sus m, sus hijos e hijas, todo elH802
+- Neh_12:43se alegraron también las m y los niñosH802
+- Neh_13:23a judíos que habían tomado m de AsdodH802
+- Neh_13:26él le hicieron pecar las m extranjerasH802
+- Neh_13:27de prevaricar...tomando m extranjeras?[[H802]]
+- Est_1:9reina Vasti hizo banquete para las mH802
+- Est_1:17porque...llegará a oídos de todas las mH802
+- Est_1:20y todas las m darán honra a sus maridosH802
+- Est_2:3las jóvenes vírgenes...a la casa de las mH802
+- Est_2:3, Est_2:8al cuidado de Hegal...guarda de las mH802
+- Est_2:9la llevó...a lo mejor de la casa de las mH802
+- Est_2:11delante del patio de la casa de las mH802
+- Est_2:12conforme a la ley acerca de las m, puesH802
+- Est_2:12seis meses con perfumes...afeites de mH802
+- Est_2:13venir...desde la casa de las m hasta laH802
+- Est_2:14volvía a la casa segunda de las m, alH802
+- Est_2:15sino lo que dijo Hegai...guarda de las mH802
+- Est_2:17el rey amó a Ester más que...las otras mH802
+- Est_3:13de destruir...niños y m, en un mismo díaH802
+- Est_4:11que cualquier...m que entra en el patioH802
+- Est_5:10mandó llamar a...amigos y a Zeres su mH802
+- Est_5:14le dijo Zeres su m y todos sus amigosH802
+- Est_6:13contó...Amán a Zeres su m y...sus amigosH802
+- Est_6:13le dijeron sus sabios, y Zeres su m: SiH802
+- Est_8:11aun sus niños y m, y apoderarse de susH802
+- Job_2:9entonces le dijo su m: ¿Aún retienes tuH802
+- Job_2:10suele hablar cualquiera de las m fatuas
+- Job_14:1el hombre nacido de m, corto de días, yH802
+- Job_15:14para que se justifique el nacido de m?[[H802]]
+- Job_19:17mi aliento vino a ser extraño a mi mH802
+- Job_24:21a la m estéril...afligió, y a la viuda
+- Job_25:4¿Y cómo será limpio el que nace de m?[[H802]]
+- Job_31:9si fue mi corazón engañado acerca de mH802
+- Job_31:10muela para otro mi m, y sobre ella seH802
+- Job_42:15no había m tan hermosas como las hijasH802
+- Sal_48:6tomó...dolor como de m que da a luzH3205
+- Sal_109:9sean sus hijos huérfanos, y su m viudaH802
+- Sal_128:3tu m será como vid que lleva fruto aH802
+- Pro_2:16serás librado de la m extraña, de laH802
+- Pro_5:3los labios de la m extraña destilan mielH2114
+- Pro_5:18sea...y alégrate con la m de tu juventudH802
+- Pro_5:20¿por qué...andarás ciego con la m ajenaH2114
+- Pro_6:24para que te guarden de la mala m, de laH802
+- Pro_6:24blandura de la lengua de la m extrañaH5237
+- Pro_6:26porque a causa de la m ramera el hombreH802
+- Pro_6:26y la m caza la preciosa alma del varónH802
+- Pro_6:29es el que se llega a la m de su prójimoH802
+- Pro_7:5para que te guarden de la m ajena, y deH802
+- Pro_7:10una m le sale al encuentro, con atavíoH802
+- Pro_9:13m insensata es alborotadora; es simpleH802
+- Pro_11:16la m agraciada tendrá honra, y losH802
+- Pro_11:22es la m hermosa y apartada de razónH802
+- Pro_12:4la m virtuosa es corona de su maridoH802
+- Pro_14:1m sabia edifica su casa; mas la neciaH802
+- Pro_19:13gotera continua...contiendas de la mH802
+- Pro_19:14herencia...mas de Jehová la m prudenteH802
+- Pro_21:9; Pro_25:24con m rencillosa en casa espaciosaH802
+- Pro_21:19que con la m rencillosa e iracundaH802
+- Pro_22:14fosa profunda...la boca de la m extrañaH2114
+- Pro_27:15gotera continua en...y la m rencillosaH802
+- Pro_30:20proceder de la m adúltera es así: comeH802
+- Pro_30:23por la m odiada cuando se casa; y por
+- Pro_31:3no des a las m tu fuerza, m tus caminosH802
+- Pro_31:10m virtuosa, ¿quién la hallará? porqueH802
+- Pro_31:29m hicieron el bien; mas tú sobrepasasH1323
+- Pro_31:30m que teme a Jehová, ésa será alabadaH802
+- Ecl_7:26amarga...la m cuyo corazón es lazos yH802
+- Ecl_7:28pero m entre todas éstas nunca halléH802
+- Ecl_9:9goza de la vida con la m que amas, todosH802
+- Ecl_11:5cómo crecen los...en el vientre de la m
+- Cnt_1:8no lo sabes, oh hermosa entre las mH802
+- Cnt_5:9; Cnt_6:1oh la más hermosa de todas las m?[[H802]]
+- Isa_3:12mi pueblo...y m se enseñorearon de élH802
+- Isa_4:1echarán mano de un hombre siete m enH802
+- Isa_13:8ellos; tendrán dolores como m de partoH3205
+- Isa_13:16sus casas...saqueadas, y violadas sus mH802
+- Isa_19:16en aquel día los egipcios serán como mH802
+- Isa_21:3apoderaron de mí, como angustias de mH3205
+- Isa_26:17como la m encinta cuando se acerca elH2030
+- Isa_27:11m vendrán a encenderlas; porque aquelH802
+- Isa_32:9m indolentes, levantaos, oíd mi vozH802
+- Isa_45:10que dice...a la m: ¿Por qué diste a luz?[[H802]]
+- Isa_47:8oye, pues, ahora esto, m voluptuosa, tú
+- Isa_49:15¿se olvidará la m de lo que dio a luzH802
+- Isa_54:6a m abandonada y triste de espíritu teH802
+- Jer_3:1alguno dejare a su m, y yéndose éstaH802
+- Jer_4:31oí una voz como de m que está de partoH2470
+- Jer_5:8cual relinchaba tras la m de su prójimoH802
+- Jer_6:11será preso tanto el marido como la mH802
+- Jer_6:12a otros, sus heredades Y también sus mH802
+- Jer_6:24se apoderó de nosotros...dolor como de mH3205
+- Jer_7:18m amasan la masa, para hacer tortas aH802
+- Jer_8:10a otros sus m, y sus campos a quienesH802
+- Jer_9:20oíd, pues, oh m, palabra de Jehová, yH802
+- Jer_13:21¿no te darán dolores como de m que estáH802
+- Jer_14:16no habrá quien los entierre...a sus mH802
+- Jer_16:2no tomarás para ti m, ni tendrás hijosH802
+- Jer_18:21queden sus m sin hijos, y viudas; y susH802
+- Jer_22:23te...dolor como de m que está de parto![[H3205]]
+- Jer_29:6dad m a vuestros hijos, y dad maridos aH802
+- Jer_29:23cometieron adulterio con las m de susH802
+- Jer_30:6todo hombre...como m que está de partoH3205
+- Jer_31:8m que está encinta y la que dio a luzH3205
+- Jer_31:22una cosa nueva...la m rodeará al varónH5347
+- Jer_35:8no beber vino...nosotros, ni nuestras mH802
+- Jer_38:22m que han quedado en la casa del reyH802
+- Jer_38:23sacarán...todas tus m y tus hijos a losH802
+- Jer_40:7que le había encomendado...m y los niñosH802
+- Jer_41:16hombres de guerra, m, niños y eunucosH802
+- Jer_43:6hombres y m y niños, y a las hijas delH802
+- Jer_44:7para ser destruidos el hombre y la m, elH802
+- Jer_44:9de las maldades de sus m...de vuestras mH802
+- Jer_44:15todos los que sabían que sus m habíanH802
+- Jer_44:15todas las m que estaban presentes, unaH802
+- Jer_44:20habló Jeremías...a los hombres y a las mH802
+- Jer_44:24dijo Jeremías a...y a todas las m: OídH802
+- Jer_44:25vosotros y vuestras m hablasteis conH802
+- Jer_48:41corazón...de Moab como el corazón de mH802
+- Jer_49:22corazón...de Edom como el corazón de mH802
+- Jer_49:24dolores...como de m que está de partoH3205
+- Jer_50:37contra todo el pueblo...serán como mH802
+- Jer_50:43angustia le tomó...como de m de partoH3205
+- Jer_51:22por tu medio quebrantaré hombres y mH802
+- Jer_51:30los valientes de...se volvieron como mH802
+- Lam_2:20comer las m el fruto de sus entrañasH802
+- Lam_4:10las manos de m piadosas cocieron a susH802
+- Lam_5:11violaron a las m en Sion, a las vírgenesH802
+- Eze_8:14m que estaban allí sentadas endechandoH802
+- Eze_9:6matad a viejos...y m, hasta que no quedeH802
+- Eze_16:32sino como m adúltera, que en lugar deH802
+- Eze_16:34sucedido...lo contrario de las demás mH802
+- Eze_16:41y harán en ti juicios en presencia...mH802
+- Eze_18:6que no...ni violare la m de su prójimo, niH802
+- Eze_18:6prójimo, ni se llegare a...m menstruosaH802
+- Eze_18:11montes, o violare la m de su prójimoH802
+- Eze_18:15Israel; la m de su prójimo no violareH802
+- Eze_22:11hizo abominación con la m de su prójimoH802
+- Eze_23:2hombre, hubo dos m, hijas de una madreH802
+- Eze_23:10y vino a ser famosa entre las m, puesH802
+- Eze_23:44venido a...como quien viene a m rameraH802
+- Eze_23:44así vinieron a...Aholiba, m depravadasH802
+- Eze_23:48escarmentarán todas las m, y no haránH802
+- Eze_24:18a la tarde murió mi m; y a la mañanaH802
+- Eze_30:17de Pibeset...las m irán en cautiverio
+- Eze_33:26y contaminasteis...la m de su prójimoH802
+- Eze_44:22viuda ni repudiada tomará por m, sinoH802
+- Dan_5:2bebiesen en ellos...m y sus concubinasH7695
+- Dan_5:3bebieron en ellos el rey y...sus m y susH7695
+- Dan_5:23tú y...tus m y tus concubinas, bebisteisH7695
+- Dan_6:24echados en el foso...sus hijos y sus mH5389
+- Dan_11:17le dará una hija de m para destruirleH802
+- Dan_11:37no hará caso, ni del amor de las m; niH802
+- Ose_1:2vé, tómate una m fornicaria, e hijos deH802
+- Ose_2:2porque ella no es mi m, ni yo su maridoH802
+- Ose_3:1dijo...ama a una m amada de su compañeroH802
+- Ose_4:14y con malas m sacrifican; por tanto, elH1323
+- Ose_12:12para adquirir m, y por...m fue pastorH802
+- Ose_13:13dolores de m que da a luz le vendránH3205
+- Ose_13:16caerán...sus m encintas serán abiertasH2030
+- Amó_1:13abrieron a las m de Galaad...encintasH2030
+- Amó_7:17tu m será ramera en medio de la ciudadH802
+- Miq_2:9a las m...echasteis fuera de las casasH802
+- Miq_4:9te ha tomado dolor como de m de parto?[[H3205]]
+- Miq_4:10gime, hija de Sion, como m que está deH3205
+- Nah_3:13tu pueblo será como m en medio de tiH802
+- Zac_5:7una m estaba sentada en medio de...efaH802
+- Zac_5:9dos m que salían, y traían viento en susH802
+- Zac_12:12la casa de David por sí, y sus m por síH802
+- Zac_12:12las casa de Natán por sí, y sus m por síH802
+- Zac_12:13la casa de Leví por sí, y sus m por síH802
+- Zac_12:13descendientes de Simei...y sus m por síH802
+- Zac_12:14linajes, cada uno por sí...sus m por síH802
+- Zac_14:2saqueadas las casas, y violadas las mH802
+- Mal_2:14ha atestiguado entre ti y la m de tuH802
+- Mal_2:14desleal, siendo ella...la m de tu pactoH802
+- Mal_2:15y no seáis desleales para con la m deH802
+- Mat_1:6engendró a...de la que fue m de Urías
+- Mat_1:20no temas recibir a María tu m, porque loG1135
+- Mat_1:24y despertando José del...recibió a su mG1135
+- Mat_5:28que mira a una m para codiciarla, yaG1135
+- Mat_5:31fue dicho: Cualquiera que repudie a su mG1135
+- Mat_5:32que repudia a su m, a no ser por causaG1135
+- Mat_9:20una m enferma de flujo de sangre desdeG1135
+- Mat_9:22fe...Y la m fue salva desde aquella horaG1135
+- Mat_11:11los que nacen de m no se ha levantadoG1135
+- Mat_13:33la levadura que tomó una m, y escondióG1135
+- Mat_14:3por causa de Herodías, m de Felipe suG1135
+- Mat_14:21como cinco mil hombres, sin contar las mG1135
+- Mat_15:22he aquí una m cananea que había salidoG1135
+- Mat_15:28oh m, grande es tu fe; hágase contigoG1135
+- Mat_15:38cuatro mil hombres, sin contar las mG1135
+- Mat_18:25su señor venderle, y a su m e hijosG1135
+- Mat_19:3¿es lícito al hombre repudiar a su m porG1135
+- Mat_19:5dejará padre y madre, y se unirá a su mG1135
+- Mat_19:8os permitió repudiar a vuestras m; masG1135
+- Mat_19:9cualquiera que repudia a su m, salvo porG1135
+- Mat_19:10así es la condición del hombre con su mG1135
+- Mat_19:29que haya dejado...madre, o m, o hijosG1135
+- Mat_22:24hijos, su hermano se casará con su mG1135
+- Mat_22:25descendencia, dejó su m a su hermanoG1135
+- Mat_22:27después de todos murió también la mG1135
+- Mat_22:28¿de cuál de los siete será ella m, yaG1135
+- Mat_24:41dos m estarán moliendo en un molino; la
+- Mat_26:7a él una m, con un vaso de alabastro deG1135
+- Mat_26:10les dijo: ¿Por qué molestáis a esta m?[[G1135]]
+- Mat_27:19su m le mandó a decir: No tengas nadaG1135
+- Mat_27:55estaban allí muchas m mirando de lejosG1135
+- Mat_28:5ángel...dijo a las m: No temáis vosotrasG1135
+- Mar_5:25una m que...padecía de flujo de sangreG1135
+- Mar_5:33la m...vino y se postró delante de élG1135
+- Mar_6:17por causa de Herodías, m de Felipe suG1135
+- Mar_6:17Herodías...pues la había tomado por mG1135
+- Mar_6:18no...es lícito tener la m de tu hermanoG1135
+- Mar_7:25m, cuya hija tenía un espíritu inmundoG1135
+- Mar_7:26la m era griega, y sirofenicia de naciónG1135
+- Mar_10:2si era lícito al marido repudiar a su mG1135
+- Mar_10:7dejará el hombre a...y se unirá a su mG1135
+- Mar_10:11que repudia a su m y se casa con otraG1135
+- Mar_10:12si la m repudia a su marido y se casaG1135
+- Mar_10:29que haya dejado...madre o m, o hijos, oG1135
+- Mar_12:22después de todos murió también la mG1135
+- Mar_12:23¿de cuál de ellos será ella m, ya queG1135
+- Mar_12:23ya que los siete la tuvieron por m?[[G1135]]
+- Mar_14:3vino una m con un vaso de alabastro deG1135
+- Mar_15:40algunas m mirando de lejos, entre lasG1135
+- Luc_1:5su m era de las hijas de Aarón, y seG1135
+- Luc_1:13tu m Elisabet te dará a luz un hijo, yG1135
+- Luc_1:18soy viejo, y mi m es de edad avanzadaG1135
+- Luc_1:24concibió su m Elisabet, y se recluyó enG1135
+- Luc_1:28el ángel dijo bendita tú entre las mG1135
+- Luc_1:42dijo: Bendita tú entre las m, y benditoG1135
+- Luc_2:5empadronado con María su m, desposadaG1135
+- Luc_3:19Juan a causa de Herodías, m de FelipeG1135
+- Luc_4:26sino a una m viuda en Sarepta de SidónG1135
+- Luc_7:28que entre los nacidos de m, no hay mayorG1135
+- Luc_7:37una m de, la...que era pecadora, al saberG1135
+- Luc_7:39conocería...qué clase de m es la que leG1135
+- Luc_7:44y vuelto a la m, dijo a...¿Ves esta m?[[G1135]]
+- Luc_7:50él dijo a la m: Tu fe te ha salvado, véG1135
+- Luc_8:2y algunas m que habían sido sanadas deG1135
+- Luc_8:3Juana, m de Chuza intendente de HerodesG1135
+- Luc_8:43m que padecía de flujo de sangre desdeG1135
+- Luc_8:47m vio que no había quedado oculta, vinoG1135
+- Luc_10:38m llamada Marta le recibió en su casaG1135
+- Luc_11:27una m de entre...levantó la voz y le dijoG1135
+- Luc_13:11una m que...tenía espíritu de enfermedadG1135
+- Luc_13:12le dijo: m, eres libre de tu enfermedadG1135
+- Luc_13:21es semejante a la levadura, que una mG1135
+- Luc_14:26no aborrece a su padre, y m, e hijosG1135
+- Luc_15:8qué m que tiene diez dracmas, si pierdeG1135
+- Luc_16:18que repudia a su m, y se casa con otraG1135
+- Luc_17:32acordaos de la m de LotG1135
+- Luc_17:35dos m estarán moliendo juntas; la unaG1135
+- Luc_18:29haya dejado...m, o hijos, por el reinoG1135
+- Luc_20:28muriere teniendo m, y no dejare hijosG1135
+- Luc_20:32finalmente murió también la mG1135
+- Luc_20:33¿de cuál de ellos será m, ya que los 7G1135
+- Luc_20:33ya que los siete la tuvieron por m?[[G1135]]
+- Luc_22:57él lo negó, diciendo: m, no lo conozcoG1135
+- Luc_23:27de m que lloraban y hacían lamentaciónG1135
+- Luc_23:49m...estaban lejos mirando estas cosasG1135
+- Luc_23:55y las m que habían venido con él desdeG1135
+- Luc_24:1trayendo...y algunas otras m con ellas
+- Luc_24:22también nos han asombrado unas m deG1135
+- Luc_24:24hallaron así como las m habían dichoG1135
+- Jua_2:4Jesús le dijo: ¿Qué tienes conmigo, m?[[G1135]]
+- Jua_4:7vino una m de Samaria a sacar agua; yG1135
+- Jua_4:9la m samaritana le dijo: ¿Cómo tú, siendoG1135
+- Jua_4:9pides a mí de beber...soy m samaritana?[[G1135]]
+- Jua_4:11la m le dijo: Señor, no tienes con quéG1135
+- Jua_4:15la m le dijo: Señor, dame esa agua, paraG1135
+- Jua_4:17respondió la m y dijo: No tengo maridoG1135
+- Jua_4:19le dijo la m: Señor, me parece que túG1135
+- Jua_4:21m, créeme, que la hora viene cuando noG1135
+- Jua_4:25dijo la m: Sé que ha de venir el MesíasG1135
+- Jua_4:27se maravillaron de que hablaba con una mG1135
+- Jua_4:28la m dejó su cántaro, y fue a la ciudadG1135
+- Jua_4:39creyeron en él por la palabra de la mG1135
+- Jua_4:42y decían a la m: Ya no creemos solamenteG1135
+- Jua_8:3fariseos le trajeron una m...en adulterioG1135
+- Jua_8:4Maestro, esta m ha sido sorprendida en elG1135
+- Jua_8:5ley nos mandó Moisés apedrear a tales mG1135
+- Jua_8:9y quedó solo Jesús, y la m que estaba enG1135
+- Jua_8:10viendo a nadie sino a la m, le dijo: MG1135
+- Jua_16:21m cuando da a luz, tiene dolor, porqueG1135
+- Jua_19:25estaban...María m de Cleofas, y MaríaG1135
+- Jua_19:26vio...dijo a su madre: m, he ahí tu hijoG1135
+- Jua_20:13dijeron: m, ¿por qué lloras? Les dijoG1135
+- Jua_20:15le dijo: m, ¿por qué lloras? ¿A quiénG1135
+- Hec_1:14perseveraban en oración...con las mG1135
+- Hec_5:1llamado Ananías, con Safira su m, vendióG1135
+- Hec_5:2y sustrajo del precio, sabiéndolo...su mG1135
+- Hec_5:7que entró su m, no sabiendo lo que habíaG1135
+- Hec_5:14gran número así de hombres como de mG1135
+- Hec_8:3arrastraba a hombres y a m...en la cárcelG1135
+- Hec_8:12creyeron a...se bautizaban hombres y mG1135
+- Hec_9:2si hallase...hombres o m de este CaminoG1135
+- Hec_13:50pero los judíos instigaron a m piadosasG1135
+- Hec_16:1Timoteo, hijo de una m judía creyenteG1135
+- Hec_16:13hablamos a las m que se habían reunidoG1135
+- Hec_16:14m llamada Lidia, vendedora de púrpuraG1135
+- Hec_17:4griegos piadosos...y m nobles no pocasG1135
+- Hec_17:12que creyeron...m griegas de distinciónG1135
+- Hec_17:34Dionisio...m llamada Dámaris, y otrosG1135
+- Hec_18:2recién venido de Italia con...su m, porG1135
+- Hec_21:5acompañándonos todos, con sus m e hijosG1135
+- Hec_22:4entregando en cárceles a hombres y mG1135
+- Hec_24:24viniendo Félix con Drusila su m, queG1135
+- Rom_1:26sus m cambiaron el uso natural por elG2338
+- Rom_1:27hombres, dejando el uso natural de la mG2338
+- Rom_7:2m casada está sujeta por la ley al maridoG1135
+- 1Co_5:1que alguno tiene la m de su padreG1135
+- 1Co_7:1bueno le sería al hombre no tocar mG1135
+- 1Co_7:2cada uno tenga su propia m, y cada unaG1135
+- 1Co_7:3marido cumpla con la m el deber conyugalG1135
+- 1Co_7:3conyugal, y asimismo la m con el maridoG1135
+- 1Co_7:4la m no tiene potestad sobre su propioG1135
+- 1Co_7:4ni...potestad sobre su...cuerpo, sino la mG1135
+- 1Co_7:10mando...que la m no se separe del maridoG1135
+- 1Co_7:11y que el marido no abandone a su mG1135
+- 1Co_7:12si...hermano tiene m que no sea creyenteG1135
+- 1Co_7:13una m tiene marido que no sea creyenteG1135
+- 1Co_7:14marido...santificado en la m, y la m enG1135
+- 1Co_7:16¿qué sabes tú, oh m, si quizá harásG1135
+- 1Co_7:16sabes tú...si quizá harás salva a tu m?[[G1135]]
+- 1Co_7:27¿estás ligado a m? No procures soltarteG1135
+- 1Co_7:27¿estás libre de m? No procures casarteG1135
+- 1Co_7:33tiene cuidado...de cómo agradar a su mG1135
+- 1Co_7:39m casada está ligada por la ley mientrasG1135
+- 1Co_9:5de traer con nosotros una hermana por mG1135
+- 1Co_11:3el varón es la cabeza de la m, y Dios laG1135
+- 1Co_11:5m que ora o...con la cabeza descubiertaG1135
+- 1Co_11:6la m no se cubre, que se corte tambiénG1135
+- 1Co_11:6si le es vergonzoso a la m cortarse elG1135
+- 1Co_11:7de Dios; pero la m es gloria del varónG1135
+- 1Co_11:8varón no procede de la m, sino la m delG1135
+- 1Co_11:9creado por causa de la m, sino la m porG1135
+- 1Co_11:10m debe tener señal de autoridad sobreG1135
+- 1Co_11:11ni el varón es sin la m, ni la m sin elG1135
+- 1Co_11:12como la m procede del varón, también elG1135
+- 1Co_11:12también el varón nace de la m; pero todoG1135
+- 1Co_11:13¿es propio que la m ore a Dios sinG1135
+- 1Co_11:15la m...crecer el cabello le es honrosoG1135
+- 1Co_14:34m callen en las congregaciones; porqueG1135
+- 1Co_14:35es indecoroso que una m hable en laG1135
+- Gál_3:28libre; no hay varón ni m; porque todosG2338
+- Gál_4:4su Hijo, nacido de m y nacido bajo la leyG1135
+- Gál_4:24pues estas m son los dos pactos; el uno
+- Efe_5:23el marido es cabeza de la m, así comoG1135
+- Efe_5:25maridos, amad a vuestras m, así comoG1135
+- Efe_5:28los maridos deben amar a sus m como aG1135
+- Efe_5:28el que ama a su m, a sí mismo se amaG1135
+- Efe_5:31y se unirá a su m, y los dos serán unaG1135
+- Efe_5:33ame también a su m como a sí mismoG1135
+- Efe_5:33a sí mismo; y la m respete a su maridoG1135
+- Col_3:19amad a vuestras m, y no seáis ásperosG1135
+- 1Ts_5:3destrucción...como los dolores a la mG2192, [[G1064]]
+- 1Ti_2:9que las m se atavíen de ropa decorosaG1135
+- 1Ti_2:10corresponde a m que profesan piedadG1135
+- 1Ti_2:11la m aprenda en silencio, con...sujeciónG1135
+- 1Ti_2:12no permito a la m enseñar, ni ejercerG1135
+- 1Ti_2:14que la m, siendo engañada, incurrió enG1135
+- 1Ti_3:2que el obispo sea...marido de una sola mG1135
+- 1Ti_3:11las m...sean honestas, no calumniadorasG1135
+- 1Ti_3:12diáconos sean maridos de una sola m, yG1135
+- Tit_1:6el que fuere...marido de una sola mG1135
+- Tit_2:4que enseñen a las m jóvenes a amar a susG3501
+- Heb_11:35las m recibieron sus muertos medianteG1135
+- 1Pe_3:1m, estad sujetas a vuestros maridosG1135
+- 1Pe_3:5también se ataviaban...aquellas santas mG1135
+- 1Pe_3:7dando honor a la m como a vaso...frágilG1134
+- Rev_2:20que toleras que esa m Jesabel, que seG1135
+- Rev_9:8cabello como cabello de m; sus dientesG1135
+- Rev_12:1m vestida del sol, con la luna debajo deG1135
+- Rev_12:4y el dragón se paró frente a la m queG1135
+- Rev_12:6m huyó al desierto, donde tiene lugarG1135
+- Rev_12:13persiguió a la m que había dado a luzG1135
+- Rev_12:14se le dieron a la m las dos alas de laG1135
+- Rev_12:15y la serpiente arrojó...tras la m, aguaG1135
+- Rev_12:16la tierra ayudó a la m, pues la tierraG1135
+- Rev_12:17el dragón se llenó de ira contra la mG1135
+- Rev_14:4son los que no se contaminaron con mG1135
+- Rev_17:3una m sentada sobre una bestia escarlataG1135
+- Rev_17:4m estaba vestida de púrpura y escarlataG1135
+- Rev_17:6a la m ebria de la sangre de los santosG1135
+- Rev_17:7yo te diré el misterio de la m, y de laG1135
+- Rev_17:9montes, sobre los cuales se sienta la mG1135
+- Rev_17:18la m...es la gran ciudad que reina sobreG1135

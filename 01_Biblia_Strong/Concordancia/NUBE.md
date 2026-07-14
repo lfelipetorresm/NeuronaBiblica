@@ -1,0 +1,156 @@
+---
+tipo: concordancia
+palabra: NUBE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# NUBE
+
+- Gén_9:13mi arco he puesto en las n...por señalH6051
+- Gén_9:14cuando haga venir n sobre la tierra, seH6051
+- Gén_9:14se dejará ver entonces mi arco en las nH6051
+- Gén_9:16estará el arco en las n, y lo veré, y meH6051
+- Éxo_13:21Jehová iba delante...una columna de nH6051
+- Éxo_13:22la columna de n de día, ni de noche laH6051
+- Éxo_14:19la columna de n que iba delante de ellosH6051
+- Éxo_14:20iba...y era n y tinieblas para aquéllosH6051
+- Éxo_14:24miró el...desde la columna de fuego y nH6051
+- Éxo_16:10la gloria de Jehová apareció en la nH6051
+- Éxo_19:9en una n espesa, para que el pueblo oigaH6051
+- Éxo_19:16vinieron truenos...y espesa n sobre elH6051
+- Éxo_24:15Moisés subió al monte, y una n cubrióH6051
+- Éxo_24:16Sinaí, y la n lo cubrió por seis díasH6051
+- Éxo_24:16día llamó a Moisés de en medio de la nH6051
+- Éxo_24:18entró Moisés en medio de la n, y subióH6051
+- Éxo_33:9la columna de n descendía y se ponía aH6051
+- Éxo_33:10viendo todo el pueblo la columna de nH6051
+- Éxo_34:5Jehová descendió en la n, y estuvo allíH6051
+- Éxo_40:34una n cubrió el tabernáculo de reuniónH6051
+- Éxo_40:35la n estaba sobre él, y la gloria deH6051
+- Éxo_40:36cuando la n se alzaba del tabernáculoH6051
+- Éxo_40:37pero si la n no se alzaba, no se movíanH6051
+- Éxo_40:38la n de Jehová estaba de día sobre elH6051
+- Lev_16:2porque yo apareceré en la n sobre elH6051
+- Lev_16:13n del perfume cubrirá el propiciatorioH6051
+- Lev_21:20o que tenga n en el ojo, o que tengaH2120, [[H8400]]
+- Núm_9:15la n cubrió el tabernáculo sobre laH6051
+- Núm_9:16la n lo cubría de día, y de noche...fuegoH6051
+- Núm_9:17cuando se alzaba la n del tabernáculoH6051
+- Núm_9:17lugar donde la n paraba, allí acampabanH6051
+- Núm_9:18todos los días que la n estaba sobre elH6051
+- Núm_9:19la n se detenía sobre el...muchos díasH6051
+- Núm_9:20n estaba sobre el tabernáculo pocos díasH6051
+- Núm_9:21cuando la n se detenía desde la tardeH6051
+- Núm_9:21o cuando a la mañana la n se levantabaH6051
+- Núm_9:21y a la noche la n se levantaba...partíanH6051
+- Núm_9:22un año, mientras la n se detenía sobreH6051
+- Núm_10:11mes, la n se alzó del tabernáculo delH6051
+- Núm_10:12se detuvo la n en el desierto de ParánH6051
+- Núm_10:34la n de Jehová iba sobre ellos de díaH6051
+- Núm_11:25Jehová descendió en la n, y le hablóH6051
+- Núm_12:5Jehová descendió en la columna de la nH6051
+- Núm_12:10n se apartó del tabernáculo, y he aquíH6051
+- Núm_14:14que tu n estaba sobre ellos, y que deH6051
+- Núm_14:14de día ibas delante de...en columna de nH6051
+- Núm_16:42miraron hacia...la n lo había cubiertoH6051
+- Deu_1:33iba delante de vosotros...con n de díaH6051
+- Deu_4:11el monte ardía en fuego...n y oscuridadH6051
+- Deu_5:22habló Jehová...de la n y de la oscuridadH6051
+- Deu_31:15se apareció Jehová...en la columna de nH6051
+- Deu_31:15la columna de n se puso sobre la puertaH6051
+- Deu_33:26cabalga...sobre las n con su grandezaH7834
+- Jue_5:4los cielos destilaron, y las n gotearonH5645
+- 2Sa_22:12puso...oscuridad de aguas y densas nH5645
+- 2Sa_23:4resplandor del sol en una mañana sin nH5645
+- 1Re_8:10salieron...n llenó la casa de JehováH6051
+- 1Re_8:11no pudieron...por causa de la n; porqueH6051
+- 1Re_18:44veo una pequeña n como la palma de laH6051
+- 1Re_18:45que los cielos se oscurecieron con nH5645
+- 2Cr_5:13entonces la casa se llenó de una nH6051
+- 2Cr_5:14y no podían...ministrar...causa de la nH6051
+- Neh_9:12con columna de n los guiaste de díaH6051
+- Neh_9:19la columna de n no se apartó de ellosH6051
+- Job_7:9como la n se desvanece y se va, así elH6051
+- Job_20:6el cielo, y su cabeza tocare en las nH5645
+- Job_22:14las n le rodearon, y no ve; y por elH5645
+- Job_26:8ata las aguas en sus n, y las n no seH6051
+- Job_26:9de su trono, y sobre él extiende su nH6051
+- Job_30:15mi honor, y mi prosperidad pasó como nH5645
+- Job_35:5y considera que las n son mas altas queH7834
+- Job_36:28la cual destilan las n, goteando enH7834
+- Job_36:29comprender la extensión de las n, y elH5645
+- Job_36:32con las n encubre la luz, y le manda noH3709
+- Job_37:11regando...llega a disipar la densa n, yH5645
+- Job_37:12revuelven las n en derredor, para hacer
+- Job_37:15cómo...hace resplandecer la luz de su n?[[H6051]]
+- Job_37:16has conocido tú las diferencias de las nH5645
+- Job_38:9cuando puse yo n por vestidura suya, yH6051
+- Job_38:34¿alzarás tú a las n tu voz, para que teH5645
+- Sal_18:11oscuridad de aguas, n de los cielosH5645
+- Sal_18:12por el resplandor de su...sus n pasaronH5645
+- Sal_36:5Jehová...tu fidelidad alcanza hasta las nH7834
+- Sal_57:10grande es hasta...hasta las n tu verdadH7834
+- Sal_65:11con tus bienes, y tus n destilan grosuraH7834
+- Sal_77:17las n echaron inundaciones de aguasH5645
+- Sal_78:14les guio de día con n, y toda la nocheH6051
+- Sal_78:23mandó a las n de arriba, y abrió lasH7834
+- Sal_97:2n y oscuridad alrededor de él; justiciaH6051
+- Sal_99:7en columna de n hablaba con ellosH6051
+- Sal_104:3que pone las n por su carroza, el queH5645
+- Sal_105:39extendió una n por cubierta, y fuegoH6051
+- Sal_135:7hace subir las n de los extremos de laH6051
+- Sal_147:8él es quien cubre de n los cielos, elH5645
+- Pro_16:15su benevolencia es como n de lluviaH5645
+- Pro_25:14como n y vientos sin lluvia, así es elH5387
+- Ecl_11:3si las n fueren llenas de agua, sobreH5645
+- Ecl_11:4viento...y el que mira a las n, no segaráH5645
+- Ecl_12:2antes que...vuelvan las n tras la lluviaH5645
+- Isa_4:5y creará Jehová...n y oscuridad de díaH6051
+- Isa_5:6a las n mandaré que no derramen lluviaH5645
+- Isa_14:14sobre las alturas de las n subiré, yH5645
+- Isa_18:4como n de rocío en el calor de la tierraH5645
+- Isa_19:1que Jehová monta sobre una ligera n, yH5645
+- Isa_25:5como calor debajo de n harás marchitarH5645
+- Isa_44:22yo deshice como una n tus rebelionesH5645
+- Isa_45:8de arriba, y las n destilen la justiciaH7834
+- Isa_60:8¿quiénes son éstos que vuelan como n, yH5645
+- Jer_4:13que subirá como n, y su carro comoH6053
+- Jer_10:13hace subir las n de lo postrero de laH8064
+- Jer_51:9su juicio, y se ha alzado hasta las nH8064
+- Jer_51:16subir las n de lo último de la tierraH8064
+- Lam_3:44te cubriste de n para que no pasaseH6051
+- Eze_1:4y una gran n, con un fuego envolventeH6051
+- Eze_1:28el arco iris que está en las n el díaH6051
+- Eze_8:11mano; y subía una n espesa de inciensoH6051
+- Eze_10:3varón entró; y la n llenaba el atrio deH6051
+- Eze_10:4la casa fue llena de la n, y el atrio seH6051
+- Dan_7:13con las n del cielo venía uno como unH6050
+- Ose_6:4piedad vuestra es como n de la mañanaH6051
+- Joe_2:2de n y de sombra, que sobre los montesH6051
+- Nah_1:3marcha...las n son el polvo de sus piesH6051
+- Nah_3:17tus grandes como n de langostas que seH6051
+- Mat_17:5n de luz...he aquí una voz desde la nG3507
+- Mat_24:30al Hijo...viniendo sobre las n del cieloG3507
+- Mat_26:64al Hijo...viniendo en las n del cieloG3507
+- Mar_9:7una n que les hizo sombra, y desde la nG3507
+- Mar_13:26al Hijo...vendrá en las n con gran poderG3507
+- Mar_14:62al Hijo del...viniendo en las n del cieloG3507
+- Luc_9:34decía esto, vino una n que los cubrióG3507
+- Luc_9:34y tuvieron temor al entrar en la nG3507
+- Luc_9:35vino una voz desde la n, que decía: EsteG3507
+- Luc_12:54cuando veis la n que sale del ponienteG3507
+- Luc_21:27al Hijo...que vendrá en una n con poderG3507
+- Hec_1:9le recibió una n que te ocultó de susG3507
+- 1Co_10:1padres todos estuvieron bajo la nG3507
+- 1Co_10:2fueron bautizados en la n y en el marG3507
+- 1Ts_4:17con ellos en las n para recibir alG3507
+- Heb_12:1en derredor tan grande n de testigosG3509
+- 2Pe_2:17estos son...n empujadas por la tormentaG3509
+- Jud_1:12n sin agua, llevadas de acá para alláG3509
+- Rev_1:7que viene con las n, y todo ojo le veráG3509
+- Rev_10:1a otro ángel fuerte, envuelto en una nG3507
+- Rev_11:12subid acá...Y subieron al cielo en una nG3507
+- Rev_14:14una n blanca; y sobre la n uno sentadoG3507
+- Rev_14:15voz al que estaba sentado sobre la nG3507
+- Rev_14:16el que estaba sentado sobre la n metióG3507

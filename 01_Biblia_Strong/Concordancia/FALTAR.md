@@ -1,0 +1,120 @@
+---
+tipo: concordancia
+palabra: FALTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FALTAR
+
+- Gén_18:28quizá faltarán de cincuenta justos 5H2637
+- Gén_21:15le faltó el agua del odre, y echó alH3615
+- Gén_21:23no faltarás a mí, ni a mi hijo ni a miH8266
+- Éxo_8:29que Faraón no falte más, no dejando irH2048
+- Éxo_16:18ni faltó al que había recogido pocoH2637
+- Lev_2:13no harás que falte...la sal del pactoH7673
+- Núm_31:49tomado razón...y ninguno ha faltadoH6845
+- Deu_2:7estos cuarenta años...nada te ha faltadoH2637
+- Deu_8:9no comerás...con escasez, ni te faltaráH2637
+- Deu_15:11no faltarán menesterosos en...la tierraH2308
+- Jos_19:47les faltó territorio a los...de DanH3318
+- Jos_21:45no faltó palabra de todas las buenasH5307
+- Jos_23:14no ha faltado una palabra de todas lasH5307
+- Jos_23:14todas...no ha faltado ninguna de ellasH5307
+- Jue_21:3que falte hoy de Israel una tribu?[[H6485]]
+- Rut_4:14hizo que no te faltase hoy pariente
+- 1Sa_14:17faltaba Jonatán y su paje de armasH369
+- 1Sa_18:8a David...no le falta más que el reino
+- 1Sa_21:15¿acaso me faltan locos...hayáis traídoH2638
+- 1Sa_25:7ni les faltó nada en todo el tiempo queH6485
+- 1Sa_25:15ni nos faltó nada en todo el tiempo queH6485
+- 1Sa_25:21sin que nada le haya faltado de todoH6485
+- 1Sa_30:4que les faltaron las fuerzas para llorarH369
+- 1Sa_30:19y no les faltó cosa alguna, chica niH5737
+- 2Sa_2:30faltaron de los siervos...19 hombresH6485
+- 2Sa_3:29falte de la casa de Joab quien padezcaH3772
+- 2Sa_17:22ni siquiera faltó uno que no pasase elH7537
+- 1Re_2:4jamás, dice, faltará a ti varón en elH3772
+- 1Re_4:27uno un mes, y hacían que nada faltaseH5737
+- 1Re_8:25no te faltará varón delante de mí, queH3772
+- 1Re_8:56ninguna palabra de todas sus...ha faltadoH5307
+- 1Re_9:5no faltará varón...en el trono de IsraelH3772
+- 1Re_11:22¿qué te falta conmigo, que procuras irteH2638
+- 2Re_3:9faltó agua para el ejército, y paraH3808
+- 2Re_10:19los profetas de Baal...que no falte unoH6485
+- 2Re_10:19Baal; cualquiera que faltare no viviráH6485
+- 2Cr_6:16no faltará de ti varón delante deH3772
+- 2Cr_7:18no te faltará varón...gobierne en IsraelH3772
+- Job_5:24sabrás que hay paz...y nada te faltaráH3808
+- Job_6:13¿no es...que todo auxilio me ha faltado?[[H4480]]
+- Job_14:7retoñará aún, y sus renuevos no faltaránH2308
+- Sal_23:1Jehová es mi pastor; nada me faltaráH2637
+- Sal_34:9pues nada falta a los que le temenH4270
+- Sal_38:10y aun la luz de mis ojos me falta yaH369
+- Sal_44:17de ti, y no hemos faltado a tu pactoH8266
+- Sal_139:16fueron luego formadas, sin faltar unaH3808
+- Pro_10:19las muchas palabras no falta pecadoH2308
+- Ecl_6:2hombre a quien Dios da...nada le faltaH2638
+- Ecl_9:8y nunca falte ungüento sobre tu cabezaH2637
+- Ecl_10:3le falta cordura, y va diciendo a todosH2638
+- Cnt_7:2como una taza...que no le falta bebidaH2637
+- Isa_1:30como huerto al que le faltan las aguasH369
+- Isa_19:5y las aguas del mar faltarán, y el ríoH5405
+- Isa_24:11hay clamores por falta de vino en las
+- Isa_32:10la vendimia faltará, y la...no vendráH3615
+- Isa_34:16inquirid en...si faltó alguno de ellosH5737
+- Isa_34:16ninguno faltó con su compañera; porqueH6485
+- Isa_40:26llama por sus nombres; ninguna faltaráH5737
+- Isa_44:12tiene hambre, y le faltan las fuerzasH369
+- Isa_50:2sus peces se pudren por falta de aguaH369
+- Isa_51:14en la mazmorra, ni le faltará su panH2637
+- Isa_57:11faltado a la fe, y no te has acordadoH3576
+- Isa_58:11manantial de...cuyas aguas nunca faltanH3576
+- Isa_59:21no faltarán de tu boca, ni de la bocaH4185
+- Jer_2:19faltar mi temor en ti, dice...JehováH3808
+- Jer_3:3las aguas...detenidas, y faltó la lluviaH3808
+- Jer_10:14se embrutece, y le falta ciencia; se
+- Jer_12:4por la maldad de...faltaron los ganadosH5595
+- Jer_18:14¿faltará la nieve del Líbano...del campoH5800
+- Jer_18:14¿faltarán las aguas frías que corren
+- Jer_18:18porque la ley no faltará al sacerdoteH3808
+- Jer_31:36si faltaren estas leyes delante de míH4185
+- Jer_31:36la descendencia de Israel faltará paraH7673
+- Jer_33:17no faltará a David varón que se sienteH3772
+- Jer_33:18ni a los...y levitas faltará varón queH3772
+- Jer_35:19no faltará de Jonadab hijo de...un varónH3772
+- Jer_44:18nos falta todo, y a espada y de hambreH2637
+- Jer_48:33de los lagares haré que falte el vinoH7673
+- Jer_51:30les faltaron las fuerzas, se volvieronH5405
+- Lam_1:2sus amigos le faltaron, se le volvieronH898
+- Eze_4:17al faltarles el pan...se consuman enH2637
+- Eze_47:12sus hojas nunca caerán, ni faltará suH8552
+- Dan_10:17me faltó la fuerza, y no me quedóH5975, [[H3808]]
+- Ose_4:6fue destruido...le faltó conocimientoH1097
+- Miq_7:2faltó el misericordioso de la tierraH6
+- Hab_3:17aunque falte el producto del olivoH3584
+- Sof_3:5sacará a luz su juicio, nunca faltaráH5737
+- Mat_19:20lo he guardado...¿qué más me falta?[[G5302]]
+- Mat_25:9que no nos falte a nosotras y a vosotrasG714, [[G3756]]
+- Mar_10:21una cosa te falta: anda, vende todoG5302
+- Luc_15:14una gran hambre...comenzó a faltarleG5302
+- Luc_16:9que cuando estas falten, os reciban enG1587
+- Luc_18:22te falta una cosa: vende todo lo queG3007
+- Luc_22:32he rogado por ti, que tu fe no falteG1587
+- Luc_22:35cuando os envié sin bolsa...faltó algo?[[G5302]]
+- Jua_2:3y faltando el vino, la madre de JesúsG5302
+- Jua_4:35faltan cuatro meses para que llegue la
+- 1Co_1:7tal...que nada os falta en ningún donG5302
+- 1Co_12:24más abundante honor al que le faltabaG5302
+- 2Co_9:12lo que a los santos falta, sino queG5303
+- 2Co_11:9pues lo que me faltaba, lo suplieron losG5302
+- Flp_2:30su vida para suplir lo que faltabaG5303
+- Flp_4:10solícitos, pero os faltaba la oportunidadG170
+- Flp_4:19Dios, pues, suplirá todo lo que os faltaG5532
+- Col_1:24lo que falta de las aflicciones deG5303
+- 1Ts_3:10completemos lo que falte a vuestraG5303
+- Tit_3:13encamínales con...que nada les falteG3007
+- Heb_4:6puesto que falta que algunos entren enG620
+- Heb_11:32porque el tiempo me faltaría contandoG1952
+- Stg_1:4cabales, sin que os falte cosa algunaG3007
+- Rev_18:14las cosas exquisitas...te han faltadoG565

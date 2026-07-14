@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: LANZA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LANZA
+
+- Núm_25:7se levantó...y tomó una l en su manoH7420
+- Jos_8:18extiende la l que tienes en tu manoH3591
+- Jos_8:18Josué extendió hacia la ciudad la l queH3591
+- Jos_8:26su mano que había extendido con la lH3591
+- Jue_5:8¿se veía escudo o l entre 40.000 enH7420
+- 1Sa_13:19que los hebreos no hagan espada o lH2595
+- 1Sa_13:22se halló espada ni l en mano de ningunoH2595
+- 1Sa_17:7el asta de su l era como un rodillo deH2595
+- 1Sa_17:7tenía el hierro de su 1600 siclos de lH2595
+- 1Sa_17:45vienes a mí con espada y l y jabalinaH2595
+- 1Sa_17:47sabrá...que Jehová no salva con...con lH2595
+- 1Sa_18:10tocaba...y tenía Saúl la l en la manoH2595
+- 1Sa_18:11y arrojó Saúl la l...lo evadió dos vecesH2595
+- 1Sa_19:9sentado en su casa tenía una l a manoH2595
+- 1Sa_19:10procuró enclavar a David con la l a laH2595
+- 1Sa_19:10Saúl, el cual hirió con la l en la paredH2595
+- 1Sa_20:33Saúl le arrojó una l para herirloH2595
+- 1Sa_21:8¿no tienes aquí a mano l o espada?[[H2595]]
+- 1Sa_22:6Saúl...tenía su l en su mano, y todos susH2595
+- 1Sa_26:7y su l clavada en tierra a su cabeceraH2595
+- 1Sa_26:8ahora...déjame que le hiera con la l, yH2595
+- 1Sa_26:11pero toma...la l que está a su cabeceraH2595
+- 1Sa_26:12se llevó, pues, David la l y la vasijaH2595
+- 1Sa_26:16mira...ahora, dónde está la l del reyH2595
+- 1Sa_26:22he aquí la l del rey; pase acá uno deH2595
+- 2Sa_1:6hallé a Saúl que se apoyaba sobre su lH2595
+- 2Sa_2:23lo hirió Abner con el regatón de la lH2595
+- 2Sa_2:23salió la l por la espalda, y cayó allíH2595
+- 2Sa_21:16uno...cuya l pesaba 300 siclos de bronceH7013
+- 2Sa_21:19el asta de cuya l era como el rodilloH2595
+- 2Sa_23:7se arma de hierro y de asta de l, y sonH2595
+- 2Sa_23:18éste alzó su l contra trescientos, aH2595
+- 2Sa_23:21y tenía el egipcio una l en su manoH2595
+- 2Sa_23:21arrebató...la l...mató con su propia lH2595
+- 2Re_11:10sacerdote dio...las l y los escudosH2595
+- 1Cr_11:11blandió su l...contra trescientosH2595
+- 1Cr_11:20blandió su l contra 300 y los mató, yH2595
+- 1Cr_11:23una l como un rodillo de tejedor, masH2595
+- 1Cr_11:23y arrebató al egipcio la l de la manoH2595
+- 1Cr_11:23al egipcio...y lo mató con su misma lH2595
+- 1Cr_12:24los hijos de Judá que traían escudo y lH7420
+- 1Cr_12:34mil...y con ellos 37.000 con escudo y lH2595
+- 1Cr_20:5el asta de cuya l era como un rodillo deH2595
+- 2Cr_11:12todas las ciudades puso escudos y lH7420
+- 2Cr_14:8tuvo...Asa ejército que traía escudos y lH7420
+- 2Cr_23:9dio...las l, los paveses y los escudosH2595
+- 2Cr_25:5escogidos para...que tenían l y escudoH7420
+- 2Cr_26:14y Uzías preparó...l, yelmos, coseletesH7420
+- Neh_4:13puse al pueblo...con sus l y con susH7420
+- Neh_4:16la otra mitad tenía l, escudos, arcos yH7420
+- Neh_4:21tenían l desde la subida del alba hastaH7420
+- Job_39:23contra él suenan...el hierro de la lH2595
+- Job_41:26ni l, ni dardo, ni coselete duraráH2595
+- Sal_35:3la l, cierra contra mis perseguidoresH2595
+- Sal_46:9quiebra el arco, corta la l, y quema losH2595
+- Sal_57:4sus dientes son l y saetas, y su lenguaH2595
+- Isa_2:4volverán sus espadas...y sus l en hocesH2595
+- Jer_46:4limpiad las l, vestíos las corazasH7420
+- Jer_50:42arco y l manejarán; serán crueles, yH3591
+- Eze_39:9quemarán armas...dardos de mano y lH7420
+- Joe_3:10forjad espadas...l de vuestras hocesH7420
+- Miq_4:3y sus l para hoces; no alzará espadaH2595
+- Nah_3:3y resplandor de...y resplandor de lH2595
+- Hab_3:11luz...y al resplandor de tu fulgente lH2595
+- Jua_19:34uno...le abrió el costado con una lG3057

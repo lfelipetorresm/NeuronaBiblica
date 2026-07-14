@@ -1,0 +1,104 @@
+---
+tipo: concordancia
+palabra: COMETER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# COMETER
+
+- Éxo_20:14no cometerás adulterioH5003
+- Éxo_28:38llevará Aarón las faltas cometidas en
+- Éxo_32:30habéis cometido un gran pecado, peroH2398
+- Éxo_32:31este pueblo ha cometido un gran pecadoH2398
+- Lev_4:3a Jehová, por su pecado que...cometidoH2398
+- Lev_4:14a ser conocido el pecado que cometierenH2398
+- Lev_4:23, Lev_4:28que conociere su pecado que cometióH2398
+- Lev_4:28una cabra sin...por su pecado que cometióH2398
+- Lev_4:35expiación...pecado que habrá cometidoH2398
+- Lev_5:6-7traerá...por su pecado que cometióH2398
+- Lev_5:10por el pecado de aquel que lo cometióH2398
+- Lev_5:13pecado que cometió en alguna de, cosasH2398
+- Lev_5:15cuando alguna persona cometiere faltaH4603
+- Lev_5:18por el yerro que cometió por ignorancia
+- Lev_19:22reconciliará...por su pecado que cometióH2398
+- Lev_19:22le perdonará su pecado que ha cometidoH2398
+- Lev_20:10cometiere adulterio con la mujer de suH5003
+- Lev_20:12cometieron grave perversión su sangreH6213
+- Lev_20:14y a la madre de ella, comete vileza
+- Lev_20:21tomare la mujer de...comete inmundiciaH5079
+- Núm_5:6cometiere alguno de todos los pecadosH6213
+- Núm_5:7persona confesará el pecado que cometióH6213
+- Núm_5:29cometiere infidelidad contra su maridoH7847
+- Deu_5:18no cometerás adulterioH5003
+- Deu_9:18pecado que habíais cometido haciendo elH2398
+- Deu_19:15relación. Cualquier ofensa cometidaH2398
+- Deu_21:22alguno hubiere cometido algún crimenH2399
+- Jos_7:1de Israel cometieron una prevaricaciónH4603
+- Jos_7:15quemado...ha cometido maldad en IsraelH6213
+- Jos_22:20¿no cometió Acán...prevaricación en elH4603
+- Jue_19:23os ruego que no cometáis este malH7489
+- Jue_20:10abominación que ha cometido en IsraelH6213
+- 1Sa_19:4ninguna cosa ha cometido contra tiH2398
+- 1Re_2:44que cometiste contra mi padre DavidH6213
+- 1Re_8:47hecho lo malo, hemos cometido impiedadH7561
+- 1Re_14:22hecho en sus pecados que cometieronH2398
+- 1Re_15:3los pecados que su padre había cometidoH6213
+- 1Re_15:30pecados que Jeroboam había cometidoH2398
+- 1Re_16:19por los pecados que había cometidoH2398
+- 1Re_16:19y en su pecado que cometió, haciendoH6213
+- 2Re_17:21apartó...les hizo cometer gran pecadoH2398
+- 2Re_21:17de Manasés...y el pecado que cometióH2398
+- Esd_9:2ha sido la primera en cometer...pecadoH7223
+- Esd_9:14y a emparentar con pueblos que cometen
+- Neh_1:6los pecados...que hemos cometido contraH2398
+- Neh_9:18y cometieron grandes abominacionesH6213
+- Neh_13:27para cometer todo este mal tan grandeH6213
+- Sal_59:2líbrame de los que cometen iniquidadH6466
+- Pro_6:32el que comete adulterio es falto deH5003
+- Isa_32:6iniquidad, para cometer impiedad yH6213
+- Jer_16:10pecado...que hemos cometido contraH2398
+- Jer_23:14los profetas de...cometían adulteriosH5003
+- Jer_29:23hicieron maldad...cometieron adulterioH6213
+- Jer_44:3la maldad que...cometieron para enojarmeH6213
+- Lam_1:8pecado cometió Jerusalén, por lo cual
+- Eze_15:8por cuanto cometieron prevaricaciónH4603
+- Eze_16:51Samaria no cometió ni la mitad de tusH2398
+- Eze_18:7que no cometiere robo, y que diere deH1497
+- Eze_18:12al pobre...oprimiere, cometiere robosH1497
+- Eze_18:16la prenda no retuviere, ni cometiereH1497
+- Eze_18:22todas las transgresiones que cometióH6213
+- Eze_18:24cometiere maldad, e hiciere conforme aH6213
+- Eze_18:24el pecado que cometió, por ello moriráH6213
+- Eze_18:28sus transgresiones que había cometidoH6213
+- Eze_20:27cuando cometieron rebelión contra míH4603
+- Eze_20:43a causa de...pecados que cometisteisH6213
+- Eze_22:13a causa de tu avaricia que cometisteH6213
+- Eze_22:29el pueblo de la tierra...cometía roboH1497
+- Eze_23:5Ahola cometió fornicación aun estandoH2181
+- Eze_23:43¿todavía cometerán fornicaciones conH2181
+- Eze_33:16sus pecados que había cometido; hizoH2398
+- Dan_9:5hemos cometido iniquidad, hemos hechoH5753
+- Ose_6:9como ladrones...cometieron abominaciónH6213
+- Amó_3:9las violencias cometidas en su medio
+- Mal_2:11en Israel...se ha cometido abominaciónH6213
+- Mat_5:27que fue dicho: No cometerás adulterioG3431
+- Mat_5:32el que se casa con la...comete adulterioG3429
+- Mar_10:11-12y se casa con...comete adulterioG3429
+- Mar_15:7que habían cometido homicidio en unaG4160
+- Rom_1:27otros, cometiendo hechos vergonzososG2716
+- Rom_2:22tú que abominas...¿cometes sacrilegio?[[G2416]]
+- 1Co_5:2quitado...el que cometió tal acción?[[G4160]]
+- 1Co_6:8pero vosotros cometéis el agravio, yG650
+- 1Co_6:18pecado que el hombre cometa, está fueraG4160
+- 2Co_7:12no fue por causa del que cometióG91
+- 2Co_12:21pecado...y lascivia que han cometidoG4238
+- Efe_4:19para cometer...toda clase de impurezaG2039
+- Stg_2:9cometéis pecado, y quedáis convictosG2038
+- Stg_2:11el que dijo: No cometerás adulterioG3431
+- Stg_2:11si no cometes adulterio, pero matasG3431
+- Stg_5:15si hubiere cometido pecados, le seránG4160
+- 1Jn_3:4todo aquel que comete pecado, infringeG4160
+- 1Jn_5:16cometer pecado que no sea de muerteG264
+- 1Jn_5:16esto es para los que cometen pecado queG264
+- Rev_2:14que enseñaba a...a cometer fornicaciónG4203

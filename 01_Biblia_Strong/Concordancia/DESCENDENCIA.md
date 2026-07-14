@@ -1,0 +1,165 @@
+---
+tipo: concordancia
+palabra: DESCENDENCIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DESCENDENCIA
+
+- Gén_10:32familias de hijos de Noé por sus dH8435
+- Gén_13:15ves, la daré a ti y a tu d para siempreH2233
+- Gén_13:16haré tu d como el polvo de la tierraH2233
+- Gén_13:16la tierra, también tu d será contadaH2233
+- Gén_15:5y cuenta las estrellas...Así será tu dH2233
+- Gén_15:13cierto que tu d morará en tierra ajenaH2233
+- Gén_15:18a tu d daré esta tierra, desde el ríoH2233
+- Gén_16:10multiplicaré tanto tu d, que no podráH2233
+- Gén_17:7tu d después de ti en sus generacionesH2233
+- Gén_17:7para ser tu Dios, y el de tu d despuésH2233
+- Gén_17:8daré a ti, y a tu d...la tierra en queH2233
+- Gén_17:9guardarás mi pacto, tú y tu d despuésH2233
+- Gén_17:10guardaréis entre mí...y tu d después deH2233
+- Gén_19:32ven...y conservaremos de nuestro padre dH2233
+- Gén_19:34para que conservemos de nuestro padre dH2233
+- Gén_21:12voz, porque en Isaac te será llamada dH2233
+- Gén_22:17multiplicaré tu d como las estrellasH2233
+- Gén_22:17d poseerá las puertas de sus enemigosH2233
+- Gén_24:7juró, diciendo: A tu d daré esta tierraH2233
+- Gén_26:3a ti y a tu d daré todas estas tierrasH2233
+- Gén_26:4multiplicaré tu d como las estrellas delH2233
+- Gén_26:4cielo, y daré a tu d todas estas tierrasH2233
+- Gén_26:24y te bendeciré, y multiplicaré tu dH2233
+- Gén_28:4te dé la bendición de...y a tu d contigoH2233
+- Gén_28:13la tierra en...te la daré a ti y a tu dH2233
+- Gén_28:14será tu d como el polvo de la tierraH2233
+- Gén_32:12y tu d será como la arena del mar, queH2233
+- Gén_35:12la daré a ti, y a tu d después de tiH2233
+- Gén_38:8y despósate con ella, y levanta d a tuH2233
+- Gén_38:9sabiendo Onán que la d no había de serH2233
+- Gén_38:9vertía en tierra...no dar d a su hermanoH2233
+- Gén_46:6y vinieron a Egipto, Jacob y toda su dH2233
+- Gén_46:7y a toda su d trajo consigo a EgiptoH2233
+- Gén_48:4daré esta tierra a tu d después de tiH2233
+- Gén_48:11Dios me ha hecho ver también a tu dH2233
+- Gén_48:19y su d formará multitud de nacionesH2233
+- Éxo_28:43estatuto perpetuo para él, y...su dH2233
+- Éxo_30:21y lo tendrán por estatuto...él y su dH2233
+- Éxo_32:13multiplicaré vuestra d...las estrellasH2233
+- Éxo_32:13y daré a vuestra d toda esta tierra deH2233
+- Éxo_33:1juré a...Jacob, diciendo: A tu d la daréH2233
+- Lev_21:15que no profane su d en sus pueblosH2233
+- Lev_21:21ningún varón...d del sacerdote AarónH2233
+- Lev_22:3diles: Todo varón de toda vuestra d enH2233
+- Lev_22:4varón de la d de Aarón que fuere leprosoH2233
+- Núm_1:20, Núm_1:22, Núm_1:24, Núm_1:26, Núm_1:28, Núm_1:30, Núm_1:32, Núm_1:34, Núm_1:36, Núm_1:38, Núm_1:40, Núm_1:42por su d, por sus familiasH8435
+- Núm_14:24Caleb...y su d la tendrá en posesiónH2233
+- Núm_16:40extraño que no sea de la d de Aarón seH2233
+- Núm_18:19pacto de sal perpetuo...ti y para tu dH2233
+- Núm_24:7y su d será en muchas aguas; enalteceráH2233
+- Núm_25:13tendrá él, y su d...pacto del sacerdocioH2233
+- Deu_1:8juró...que les daría a ellos y a su dH2233
+- Deu_4:37escogió a su d después de ellos, y teH2233
+- Deu_10:15de tus padres se agradó...escogió su dH2233
+- Deu_11:9juró...había de darla a ellos y a su dH2233
+- Deu_28:46en ti por señal...en tu d para siempreH2233
+- Deu_28:59Jehová aumentará...las plagas de tu dH2233
+- Deu_30:6circuncidará Jehová...el corazón de tu dH2233
+- Deu_30:19escoge...vida, para que vivas tú y tu dH2233
+- Deu_34:4de que juré a...diciendo: A tu d la daréH2233
+- Jos_24:3lo traje...aumenté su d, y le di IsaacH2233
+- Jue_8:30setenta hijos que constituyeron su dH3318
+- Rut_4:12por la d que de esa joven te dé JehováH2233
+- 1Sa_20:42Jehová esté entre tú y...tu d y mi dH2233
+- 1Sa_24:21que no destruirás mi d después de míH2233
+- 2Sa_22:51rey...a David y a su d para siempreH2233
+- 1Re_2:33de Joab, y sobre la cabeza de su dH2233
+- 1Re_2:33mas sobre David y sobre su d...habrá pazH2233
+- 1Re_9:5no faltará varón de tu d en el trono de
+- 1Re_11:39yo afligiré a la d de David a causa deH2233
+- 2Re_5:27la lepra...se te pegará a ti y a tu dH2233
+- 2Re_11:1Atalía...se levantó y destruyó toda la dH2233
+- 2Re_17:20desechó Jehová a toda la d de IsraelH2233
+- 1Cr_1:29estas son sus d: el primogénito deH8435
+- 1Cr_4:33esta fue su habitación, y esta su dH3187
+- 1Cr_5:7contados en sus d, tenían por príncipes aH8435
+- 1Cr_6:19son las familias de Leví, según sus dH1
+- 1Cr_7:7Bela...de cuya d fueron contados 22:034H3187
+- 1Cr_7:9y contados por sus d...20.200 hombres deH3187
+- 1Cr_17:11levantaré d después de ti, a uno...hijosH2233
+- 2Cr_20:7la diste a la d de Abraham tu amigoH2233
+- 2Cr_22:10Atalía...exterminó toda la d real de laH2233
+- Neh_9:2ya se había apartado la d de IsraelH2233
+- Neh_9:8pacto...para darla a su d; y cumpliste tuH2233
+- Est_6:13la d de los judíos es ese MardoqueoH2233
+- Est_9:27tomaron...sobre su d y sobre todos losH2233
+- Est_9:28que su d jamás dejaría de recordarlosH2233
+- Est_9:31según ellos habían tomado sobre...su dH2233
+- Job_5:25echarás de ver que tu d es mucha, yH2233
+- Job_21:8su d se robustece a su vista, y susH2233
+- Sal_18:50a su ungido, a David y a su d, paraH2233
+- Sal_21:10destruirás...su d de entre...los hombresH2233
+- Sal_22:23glorificadle, d toda de Jacob...temedleH2233
+- Sal_22:23y temedle vosotros, d toda de IsraelH2233
+- Sal_25:13gozará él de...su d heredará la tierraH2233
+- Sal_37:25no he visto...ni su d que mendigue panH2233
+- Sal_37:26y presta; y su d es para bendiciónH2233
+- Sal_37:28mas la d de los impíos será destruidaH2233
+- Sal_69:36la d de sus siervos la heredará, y losH2233
+- Sal_89:4para siempre confirmaré tu d...tu tronoH2233
+- Sal_89:29pondré su d para siempre, y su tronoH2233
+- Sal_89:36su d será para siempre, y su trono comoH2233
+- Sal_102:28y su d será establecida delante de tiH2233
+- Sal_105:6vosotros, d de Abraham su siervo, hijosH2233
+- Sal_112:2su d será poderosa en la tierra; laH2233
+- Sal_132:11juró...de tu d pondré sobre tu tronoH6529
+- Pro_11:21mas la d de los justos será libradaH2233
+- Isa_14:20no será nombrada para siempre la dH2233
+- Isa_41:8quien yo escogí, d de Abraham mi amigoH2233
+- Isa_45:19no dije a la d de Jacob: En vano meH2233
+- Isa_45:25en Jehová...gloriará toda la d de IsraelH2233
+- Isa_48:19como la arena tu d, y los renuevos deH2233
+- Isa_54:3tu d heredará naciones, y habitará lasH2233
+- Isa_61:9la d...será conocida entre las nacionesH2233
+- Isa_65:9sacaré d de Jacob, y de Judá herederoH2233
+- Isa_66:22permanecerá vuestra d y vuestro nombreH2233
+- Jer_22:30hombre privado de d, hombre a quienH3381, [[H6185]]
+- Jer_22:30ninguno de su d...sentarse sobre el tronoH3381, [[H2233]]
+- Jer_23:8y trajo la d de la casa de Israel deH3381, [[H2233]]
+- Jer_29:32que yo castigaré a Semaías...y a su dH3381, [[H2233]]
+- Jer_30:10el que te salvo de lejos a ti y a tu dH3381, [[H2233]]
+- Jer_31:36también la d de Israel faltará para noH3381, [[H2233]]
+- Jer_31:37yo desecharé toda la d de Israel porH3381, [[H2233]]
+- Jer_33:22multiplicaré la d de David mi siervoH3381, [[H2233]]
+- Jer_33:26también desecharé la d de Jacob, y deH3381, [[H2233]]
+- Jer_33:26para no tomar de su d quien sea señorH3381, [[H2233]]
+- Jer_36:31castigaré su maldad en él, y en su dH3381, [[H2233]]
+- Jer_41:1que vino Ismael...de la d real, y algunosH3381, [[H2233]]
+- Jer_46:27te salvaré...y a tu d de la tierra de suH3381, [[H2233]]
+- Jer_49:10será destruida su d, sus hermanos y susH3381, [[H2233]]
+- Eze_17:13tomó...uno de la d real e hizo pactoH3381, [[H2233]]
+- Eze_20:5para jurar a la d de la casa de JacobH3381, [[H2233]]
+- Mal_2:15¿y por qué uno?...Porque buscaba una dH3381, [[H2233]]
+- Mat_22:24se casará...levantará d a su hermanoG3381, [[G4690]]
+- Mat_22:25y no teniendo d, dejó su mujer a suG3381, [[G4690]]
+- Mar_12:19su hermano...levante d a su hermanoG3381, [[G4690]]
+- Mar_12:20el primero tomó...y murió sin dejar dG3381, [[G4690]]
+- Mar_12:21el segundo se casó...y tampoco dejó dG3381, [[G4690]]
+- Mar_12:22los siete, y no dejaron d, y despuésG3381, [[G4690]]
+- Luc_1:55para con Abraham y su d para siempreG3381, [[G4690]]
+- Luc_20:28se case con...y levante d a su hermanoG3381, [[G4690]]
+- Luc_20:31así todos los 7, y murieron sin dejar dG3381, [[G5043]]
+- Hec_2:30Dios le había jurado que de su d, enG3381, [[G2590]]
+- Hec_7:5que se la daría, y a su d después de élG3381, [[G4690]]
+- Hec_7:6que su d sería extranjera en tierra ajenaG3381, [[G4690]]
+- Hec_13:23de la d de éste...Dios levantó a JesúsG3381, [[G4690]]
+- Rom_4:13no por la ley fue...a su d la promesaG3381, [[G4690]]
+- Rom_4:16que la promesa sea firme para toda su dG3381, [[G4690]]
+- Rom_4:18lo que se le había dicho: Así será tu dG3381, [[G4690]]
+- Rom_9:7hijos; sino: En Isaac te será llamada dG3381, [[G4690]]
+- Rom_9:29si el Señor...no nos hubiera dejado dG3381, [[G4690]]
+- Rom_11:1yo soy israelita, de la d de AbrahamG3381, [[G4690]]
+- Heb_2:16sino que socorrió a la d de AbrahamG3381, [[G4690]]
+- Heb_7:16a la ley del mandamiento acerca de la dG3381, [[G4559]]
+- Heb_11:18fue dicho: En Isaac te será llamada dG3381, [[G4690]]
+- Rev_12:17a hacer guerra contra...la d de ellaG3381, [[G4690]]

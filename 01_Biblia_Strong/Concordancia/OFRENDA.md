@@ -1,0 +1,443 @@
+---
+tipo: concordancia
+palabra: OFRENDA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# OFRENDA
+
+- Gén_4:3Caín trajo del fruto de la tierra una oH4503
+- Gén_4:4y miró Jehová con agrado a Abel y a su oH4503
+- Gén_4:5no miró con agrado a Caín y a la o suyaH4503
+- Éxo_20:24sacrificarás sobre él...tus o de paz
+- Éxo_25:2los hijos de Israel que tomen para mí oH8641
+- Éxo_25:2la diere de su voluntad...tomaréis mi oH8641
+- Éxo_25:3la o que tomaréis de ellos: oro, plataH8641
+- Éxo_28:38hubieren consagrado en...sus santas oH4979
+- Éxo_29:14los quemarás a fuego...es o por el pecado
+- Éxo_29:18es holocausto de...o quemada a Jehová
+- Éxo_29:24todo...como o mecida delante de Jehová
+- Éxo_29:25harás arder...Es o encendida a Jehová
+- Éxo_29:26y lo mecerás por o mecida delante de
+- Éxo_29:27y apartarás el pecho de la o mecida, yH8641
+- Éxo_29:27la espaldilla de la o elevada, lo queH8641
+- Éxo_29:28es o...o elevada de los hijos de IsraelH8641
+- Éxo_29:28porción de ellos elevada en o a JehováH8641
+- Éxo_29:41haciendo conforme a la o de la mañanaH4503
+- Éxo_29:41en olor grato; o encendida a JehováH4503
+- Éxo_30:9no ofreceréis sobre él...o; ni tampocoH4503
+- Éxo_30:13mitad de un siclo será la o a JehováH8641
+- Éxo_30:14de veinte años arriba, dará la o a JehováH8641
+- Éxo_30:15la o a Jehová para hacer expiación porH8641
+- Éxo_30:20para quemar la o encendida para Jehová
+- Éxo_32:6y presentaron o de paz; y se sentó el
+- Éxo_35:5tomad de entre vosotros o para JehováH8641
+- Éxo_35:21con o a Jehová para...del tabernáculoH8641
+- Éxo_35:22y todos presentaban o de oro a Jehová
+- Éxo_35:24el que ofrecía o...traía a Jehová la oH8641
+- Éxo_35:29todos...trajeron o voluntaria a Jehová
+- Éxo_36:3tomaron de delante de Moisés toda la oH8641
+- Éxo_36:3ellos seguían trayéndole o voluntaria
+- Éxo_36:6hombre ni mujer haga más para la o delH8641
+- Éxo_38:24todo el oro...de la o, fue 29 talentosH8573
+- Éxo_40:29sacrificó sobre él holocausto y o, comoH4503
+- Lev_1:2ofrece o a Jehová, de ganado vacunoH7133
+- Lev_1:2ganado vacuno u ovejuno haréis vuestra oH7133
+- Lev_1:3si su o fuere holocausto vacuno, machoH7133
+- Lev_1:9, Lev_1:13, Lev_1:17o encendida de olor grato para
+- Lev_1:10si su o para holocausto fuere del rebañoH7133
+- Lev_1:14la o para Jehová fuere holocausto de avesH7133
+- Lev_1:14presentará su o de tórtolas...palominosH7133
+- Lev_2:1su o será flor de harina, sobre la cualH7133
+- Lev_2:2o encendida es, de olor grato a Jehová
+- Lev_2:3lo que resta de la o será de Aarón y de
+- Lev_2:3cosa santísima de las o que se queman
+- Lev_2:4cuando ofrecieres o cocida en horno, seráH4503
+- Lev_2:5si ofrecieres o de sartén, será de florH4503
+- Lev_2:6piezas, y echarás sobre ella aceite; es oH4503
+- Lev_2:7ofrecieres o cocida en cazuela, se haráH4503
+- Lev_2:8y traerás a Jehová la o que se hará deH4503
+- Lev_2:9tomará...de aquella o lo que sea para suH4503
+- Lev_2:9altar; o encendida de olor grato a Jehová
+- Lev_2:10y lo que resta de la o será de Aarón yH4503
+- Lev_2:10es cosa santísima de las o que se queman
+- Lev_2:11ninguna o que ofreciereis a Jehová seráH4503
+- Lev_2:11ni de ninguna miel, se ha de quemar o
+- Lev_2:12o de primicias las ofreceréis a JehováH7133
+- Lev_2:13sazonarás con sal toda o que presentesH4503
+- Lev_2:13no harás que falte...de tu o la sal del
+- Lev_2:13del pacto...en toda o tuya ofrecerás salH7133
+- Lev_2:14si ofrecieres a Jehová o de primiciasH4503
+- Lev_2:14el grano desmenuzado ofrecerás como oH4503
+- Lev_2:15y pondrás sobre ella incienso; es oH4503
+- Lev_2:16hará arder...es o encendida para Jehová
+- Lev_3:1si su o fuere sacrificio de paz...vacunoH7133
+- Lev_3:2pondrá su mano sobre la cabeza de su oH7133
+- Lev_3:3ofrecerá del...como o encendida a Jehová
+- Lev_3:5del fuego; es o de olor grato para Jehová
+- Lev_3:6si de ovejas fuere su o para sacrificioH7133
+- Lev_3:7ofreciere cordero por su o, lo ofreceráH7133
+- Lev_3:8pondrá su mano sobre la cabeza de su oH7133
+- Lev_3:9por o encendida a Jehová la grosura, la
+- Lev_3:11vianda es de o encendida para Jehová
+- Lev_3:12fuere cabra su o, la ofrecerá delanteH7133
+- Lev_3:14ofrecerá de...su o encendida a JehováH7133
+- Lev_3:16vianda es de o que se quema...a Jehová
+- Lev_4:23presentará por su o un macho cabrío sinH7123
+- Lev_4:28traerá por su o una cabra...sin defectoH7123
+- Lev_4:29su mano sobre la cabeza de la o de la
+- Lev_4:32por su o por el pecado trajere corderoH7123
+- Lev_4:33pondrá su mano sobre la cabeza de la o
+- Lev_4:35arder en...sobre la o encendida a Jehová
+- Lev_5:6traerá...o una cabra como o de expiaciónH817
+- Lev_5:11traerá como o la décima parte de un efaH7133
+- Lev_5:12y la hará arder en el altar sobre las o
+- Lev_5:13será del sacerdote, como la o de viandaH4503
+- Lev_5:15carnero sin defecto...en o por el pecado
+- Lev_6:14esta es la ley de la o: La ofrecerán losH4503
+- Lev_6:15tomará de ella...flor de harina de la oH4503
+- Lev_6:15tomará...el incienso que está sobre la oH4503
+- Lev_6:17la he dado a...por su porción de mis o
+- Lev_6:18tocante a las o encendidas para Jehová
+- Lev_6:20es la o de Aarón y de sus...o perpetuaH7133
+- Lev_6:21los pedazos cocidos de la o ofrecerás enH4503
+- Lev_6:22sacerdote que...fuere ungido...hará igual o
+- Lev_6:23toda o de sacerdote será...quemada; noH4503
+- Lev_6:25degollada la o por el pecado delante deH0
+- Lev_6:30no se comerá ninguna o de cuya sangre
+- Lev_7:5hará arder...altar, o encendida a Jehová
+- Lev_7:9toda o que se cociere en horno, y todoH4503
+- Lev_7:10toda o amasada con aceite, o seca, seráH4503
+- Lev_7:13con tortas de pan...presentará su o enH7133
+- Lev_7:14de toda la o presentará una parte por oH8641
+- Lev_7:16si el sacrificio de su o fuere voto, oH7133
+- Lev_7:25animal, del cual se ofrece a Jehová o
+- Lev_7:29traerá su o del sacrificio...ante JehováH7133
+- Lev_7:30las o que se han de quemar ante Jehová
+- Lev_7:32al sacerdote para ser elevada en o, laH8641
+- Lev_7:34he tomado de...la espaldilla elevada en o
+- Lev_7:35la porción...de las o encendidas a Jehová
+- Lev_7:37esta es la ley...de la o, del sacrificioH4503
+- Lev_7:38mandó...que ofreciesen sus o a Jehová, enH7133
+- Lev_8:21o encendida para Jehová, como Jehová lo
+- Lev_8:27e hizo mecerlo como o mecida delante de
+- Lev_8:28consagraciones en...o encendida a Jehová
+- Lev_8:29y lo meció, o mecida delante de Jehová
+- Lev_9:4y un carnero...y una o amasada con aceiteH4503
+- Lev_9:7la o del pueblo, y haz la reconciliaciónH7133
+- Lev_9:15ofreció también la o del pueblo, y tomóH7133
+- Lev_9:17ofreció...la o, y llenó de ella su manoH4503
+- Lev_9:21los meció Aarón como o mecida delante deH4503
+- Lev_10:12dijo a...Tomad la o que queda de las oH4503
+- Lev_10:13comeréis...de las o encendidas a Jehová
+- Lev_10:15con las o...traerán la espaldilla que se
+- Lev_10:15el pecho que será mecido como o mecida
+- Lev_10:18debíais comer la o en el lugar santo
+- Lev_14:12y lo mecerá como o mecida delante de
+- Lev_14:20hará subir el...y la o sobre el altarH4503
+- Lev_14:21cordero para ser ofrecido como o mecida
+- Lev_14:21flor de harina amasada con aceite para oH4503
+- Lev_14:24y los mecerá...como o mecida delante de
+- Lev_14:31el otro en holocausto, además de la oH4503
+- Lev_15:15sacerdote hará del uno o por el pecado
+- Lev_15:30el sacerdote hará del uno o por el pecado
+- Lev_17:4no lo trajere...para ofrecer o a JehováH7133
+- Lev_19:5cuando ofreciereis...o de paz a Jehová
+- Lev_21:6las o encendidas para Jehová y el pan de
+- Lev_21:21ningún...se acercará para ofrecer las o
+- Lev_22:12si se casare...no comerá de la o de lasH8641
+- Lev_22:18ofreciere su o en...o como o voluntariasH7133
+- Lev_22:21sacrificio en o de paz a Jehová para
+- Lev_22:21como o voluntaria, sea de vacas o de
+- Lev_22:22ni de ellos pondréis o encendida sobre
+- Lev_22:23podrás ofrecer por o voluntaria; pero
+- Lev_22:27desde el octavo día...será acepto para o
+- Lev_23:8y ofreceréis a...siete días o encendida
+- Lev_23:13o será dos décimas de efa de...harinaH4503
+- Lev_23:13flor de harina...o encendida a Jehová
+- Lev_23:14hasta que hayáis ofrecido la o de...DiosH7133
+- Lev_23:15ofrecisteis la gavilla de la o mecida
+- Lev_23:17traeréis dos panes para o mecida, que
+- Lev_23:18su o y sus libaciones, o encendida de
+- Lev_23:19dos corderos...sacrificio de o de paz
+- Lev_23:20los presentará como o mecida delante
+- Lev_23:25, Lev_23:27, Lev_23:36(2)ofreceréis o encendida a Jehová
+- Lev_23:37convocaréis...para ofrecer o encendida a
+- Lev_23:37o, sacrificio y libaciones, cada cosaH4503
+- Lev_23:38y de todas vuestras o voluntarias que
+- Lev_24:7incienso puro, y...o encendida a Jehová
+- Lev_24:9comerán...de las o encendidas a Jehová
+- Lev_27:9si fuere animal de los que se ofrece oH7133
+- Lev_27:11animal...de que no se ofrece o a JehováH7133
+- Núm_4:16la o continua y el aceite de la unciónH4503
+- Núm_5:9toda o de todas las cosas santas que losH8641
+- Núm_5:15traerá su mujer...con ella traerá su oH7133
+- Núm_5:15es o de celos, o recordativa, que traeH4503
+- Núm_5:18la o recordativa, que es la o de celosH4503
+- Núm_5:25tomará...la o de los celos, y la meceráH4503
+- Núm_5:26un puñado de la o en memoria de ella, yH4503
+- Núm_6:14ofrecerá su o a Jehová, un cordero deH7133
+- Núm_6:14y un carnero sin defecto por o de paz
+- Núm_6:15y hojaldres sin...y su o y sus libacionesH4503
+- Núm_6:17y ofrecerá el carnero en o de...a JehováH2077
+- Núm_6:17ofrecerá asimismo el sacerdote su o yH4503
+- Núm_6:18el fuego que está debajo de la o de paz
+- Núm_6:20sacerdote mecerá aquello como o mecida
+- Núm_6:21que hiciere voto de su o a Jehová porH7133
+- Núm_7:3trajeron sus o...seis carros cubiertos yH7133
+- Núm_7:10trajeron o para la dedicación del altarH7133
+- Núm_7:10ofreciendo los...su o delante del altarH7133
+- Núm_7:11ofrecerán su o, un príncipe un día, yH7133
+- Núm_7:12el que ofreció su o el primer día fueH7133
+- Núm_7:13, Núm_7:19, Núm_7:25, Núm_7:31, Núm_7:37, Núm_7:43, Núm_7:49, Núm_7:55, Núm_7:61, Núm_7:67, Núm_7:73, Núm_7:79o fue un plato de plata de 130 siclosH7133, [[H4503]]
+- Núm_7:13, Núm_7:19, Núm_7:25, Núm_7:31, Núm_7:37, Núm_7:43, Núm_7:49, Núm_7:55, Núm_7:61, Núm_7:67, Núm_7:73, Núm_7:79harina amasada con aceite para oH4503, [[H7133]]
+- Núm_7:17, Núm_7:23, Núm_7:29, Núm_7:35, Núm_7:41, Núm_7:47, Núm_7:53, Núm_7:59, Núm_7:65, Núm_7:71, Núm_7:77, Núm_7:83y para o de paz, dos bueyesH7133
+- Núm_7:17esta fue la o de Naasón hijo de AminadabH7133
+- Núm_7:23esta fue la o de Natanael hijo de ZuarH7133
+- Núm_7:29esta fue la o de Eliab hijo de HelónH7133
+- Núm_7:35esta fue la o de Elisur hijo de SedeurH7133
+- Núm_7:41fue la o de Selumiel hijo de ZurisadaiH7133
+- Núm_7:47esta fue la o de Eliasaf hijo de DeuelH7133
+- Núm_7:53esta fue la o de Elisama hijo de AmiudH7133
+- Núm_7:59esta fue la o de Gamaliel hijo de PedasurH7133
+- Núm_7:65esta fue la o de Abidán hijo de GedeoniH7133
+- Núm_7:71esta fue la o de Ahiezer hijo de AmisadaiH7133
+- Núm_7:77esta fue la o de Pagiel hijo de OcránH7133
+- Núm_7:83esta fue la o de Ahira hijo de EnánH7133
+- Núm_7:84fue la o que los príncipes...ofrecieron
+- Núm_7:87doce los corderos de un año, con su oH4503
+- Núm_7:88los bueyes de la o de paz, 24 novillos
+- Núm_8:8con su o de flor de harina amasada conH4503
+- Núm_8:11y ofrecerá Aarón...en o de los hijos deH8573
+- Núm_8:13levitas...y los ofrecerás en o a JehováH8573
+- Núm_8:15serán purificados, y los ofrecerás en oH8573
+- Núm_8:21ofreció en o delante de Jehová, e hizoH8573
+- Núm_9:7seremos impedidos de ofrecer o a JehováH7133
+- Núm_9:13no ofreció a su tiempo la o de JehováH7133
+- Núm_15:3hagáis o encendida a Jehová, holocaustos
+- Núm_15:4el que presente su o...traerá como o laH7133
+- Núm_15:6por cada carnero harás o de dos décimasH4503
+- Núm_15:9con el novillo una o de tres décimas deH4503
+- Núm_15:10ofrecerás...en o encendida de olor grato
+- Núm_15:13para ofrecer o encendida de olor gratoH7126
+- Núm_15:14si hiciere o encendida de olor grato a
+- Núm_15:19a comer del pan...ofreceréis o a JehováH8641
+- Núm_15:20una torta en o; como la o de la era, asíH8641
+- Núm_15:21las primicias de...masa daréis a Jehová oH8641
+- Núm_15:24con su o y su libación conforme a la leyH4503
+- Núm_15:25traerán sus o, o encendida a Jehová, yH7133
+- Núm_16:15dijo a Jehová: No mires a su o, ni aunH4503
+- Núm_18:8te he dado también el cuidado de mis oH8641
+- Núm_18:9esto será tuyo de la o...toda o de ellos
+- Núm_18:11será tuyo: la o elevada de sus donesH8641
+- Núm_18:11todas las o mecidas de los...de Israel
+- Núm_18:17o encendida en olor grato a Jehová
+- Núm_18:18como el pecho de la o mecida y como la
+- Núm_18:19todas las o elevadas...he dado para tiH8641
+- Núm_18:24diezmos...que ofrecerán a Jehová en oH8641
+- Núm_18:26presentaréis de ellos en o mecida aH8641
+- Núm_18:27se os contará vuestra o como grano deH8641
+- Núm_18:28ofreceréis también vosotros o a JehováH8641
+- Núm_18:28y daréis...la o de Jehová al sacerdoteH8641
+- Núm_18:29de...vuestros dones ofreceréis toda o aH8641
+- Núm_28:2o, mi pan con mis o encendidas en olorH7133
+- Núm_28:3esta es la o...que ofreceréis a Jehová
+- Núm_28:5con un cuarto de hin de aceite de...en oH4503
+- Núm_28:6, Núm_28:13olor grato, o encendida a JehováH4503
+- Núm_28:8la tarde; conforme a la o de la mañanaH4503
+- Núm_28:8, Núm_28:24o encendida en olor grato a JehováH4503
+- Núm_28:9, Núm_28:12(2),13de harina amasada con aceite, como oH4503
+- Núm_28:19ofreceréis como o...dos becerros de la
+- Núm_28:20su o de harina amasada con aceite; tresH4503
+- Núm_28:26cuando presentéis o nueva a Jehová enH4503
+- Núm_28:28la o de ellos, flor de harina amasadaH4503
+- Núm_28:31ofreceréis...con sus o, y sus libacionesH4503
+- Núm_29:3, Núm_29:14y la o de ellos, de flor de harinaH4503
+- Núm_29:6además del holocausto del mes y su o, yH4503
+- Núm_29:6, Núm_29:11, Núm_29:16, Núm_29:19, Núm_29:22, Núm_29:25, Núm_29:28, Núm_29:31, Núm_29:34, Núm_29:38además del...holocausto continuo y su oH4503
+- Núm_29:6, Núm_29:13, Núm_29:36o encendida a Jehová en olor gratoH4503
+- Núm_29:9sus o, flor de harina amasada con aceiteH4503
+- Núm_29:11un macho cabrío...además de la o de lasH4503
+- Núm_29:18, Núm_29:21, Núm_29:24, Núm_29:27, Núm_29:30, Núm_29:33, Núm_29:37o y sus libaciones con los becerrosH4503
+- Núm_29:39ofreceréis...además de...o voluntarias
+- Núm_29:39para vuestras o...para vuestras o de pazH4503
+- Núm_31:29al sacerdote Eleazar la o de JehováH8641
+- Núm_31:41el tributo, para o elevada a Jehová, alH8641
+- Núm_31:50hemos ofrecido a Jehová o, cada uno deH7133
+- Núm_31:52todo el oro de la o que ofrecieron aH8641
+- Deu_12:6llevaréis...la o elevada de vuestras
+- Deu_12:6vuestras o voluntarias, y las primicias
+- Deu_12:11allí llevaréis...las o...de vuestras manosH8641
+- Deu_12:17ni las o voluntarias, ni las o elevadasH8641
+- Deu_16:17cada uno con la o de su mano, conforme
+- Deu_18:1de las o quemadas a Jehová y de...comerán
+- Deu_23:23pagando la o voluntaria que prometiste
+- Deu_27:7sacrificarás o de paz, y comerás allí
+- Jos_8:31altar de piedras...sacrificaron o de
+- Jos_22:23para sacrificar...o, o para...o de pazH4503, [[H2077]]
+- Jos_22:27delante de él con...con nuestras o de paz
+- Jos_22:29altar para holocaustos, para o o paraH4503
+- Jue_6:18saque mi o y la ponga delante de tiH4503
+- Jue_13:19Manoa tomó un cabrito y una o, y losH4503
+- Jue_13:23no aceptaría de...el holocausto y la o
+- Jue_20:26; Jue_21:4ofrecieron holocaustos y o de paz
+- 1Sa_2:17los hombres menospreciaban las o deH4503
+- 1Sa_2:28di...todas las o de los hijos de Israel
+- 1Sa_2:29¿por qué habéis hollado mis...y mis oH4503
+- 1Sa_2:29engordándoos de...de las...o de mi puebloH4503
+- 1Sa_3:14de Elí no será expiada jamás...ni con oH4503
+- 1Sa_6:8las joyas...que le habéis de pagar en o
+- 1Sa_10:8descenderé yo a ti para...sacrificar o
+- 1Sa_11:15y sacrificaron allí o de paz delante
+- 1Sa_13:9dijo Saúl: Traedme holocausto y o de paz
+- 1Sa_26:19si Jehová te incita...acepte él la oH4503
+- 2Sa_1:21ni seáis tierras de o; porque allíH8641
+- 2Sa_6:17sacrificó David...y o de paz delante de
+- 2Sa_6:18había acabado de ofrecer los...y o de pazH5927
+- 2Sa_24:25sacrificó...o de paz; y Jehová oyó las
+- 1Re_8:64ofreció allí...las o y la grosura deH4503
+- 1Re_8:64y no cabían en él...las o y la grosuraH4503
+- 2Re_12:18tomó Joás...las o que habían dedicado
+- 2Re_16:13y encendió su holocausto y su o...de pazH4503
+- 2Re_16:15altar encenderás el...y la o de la tardeH4503
+- 2Re_16:15asimismo el holocausto del rey y su oH4503
+- 2Re_16:15holocausto de todo el pueblo...y su oH4503
+- 1Cr_16:29dad...traed o, y venid delante de élH4503
+- 1Cr_21:23la leña, y trigo para la o, yo lo doyH4503
+- 1Cr_21:26un altar...en el que ofreció...o de paz
+- 1Cr_29:5¿y quién quiere hacer hoy o voluntaria
+- 2Cr_7:7había ofrecido allí...de las o de pazH4503
+- 2Cr_7:7no podían caber los...las o y las grosurasH4503
+- 2Cr_24:6la o que Moisés siervo de...impuso a laH4864
+- 2Cr_24:9la o que...siervo de Dios había impuestoH4864
+- 2Cr_24:10trajeron o, y las echaron en el arca
+- 2Cr_29:24hicieron o de expiación con la sangre
+- 2Cr_29:33las o fueron 600 bueyes y 3.000 ovejas
+- 2Cr_29:35grosura de las o de paz, y libaciones
+- 2Cr_31:2y los levitas para ofrecer el...y las o
+- 2Cr_31:10desde que comenzaron a traer las o aH8641
+- 2Cr_31:14tenía cargo de las o voluntarias paraH8641
+- 2Cr_31:14cargo...y de la distribución de las oH8641
+- 2Cr_32:23muchos trajeron a Jerusalén o a JehováH4503
+- 2Cr_33:16sobre él sacrificios de o de paz y deH2077
+- Esd_1:4además de o voluntarias para la casa
+- Esd_2:68hicieron o voluntarias para la casa de
+- Esd_3:5además de esto...toda o voluntaria a Jehová
+- Esd_7:16con las o voluntarias del pueblo y de
+- Esd_7:17comprarás, pues, sus o y sus libacionesH4503
+- Esd_8:25o que para la casa...habían ofrecido elH8641
+- Esd_8:28o voluntaria a Jehová Dios de nuestros
+- Esd_10:19y ofrecieron como o por su pecado un
+- Neh_7:70algunos de los...dieron o para la obra
+- Neh_10:33para la o continua, para el holocaustoH4503
+- Neh_10:34acerca de la o de la leña, para traerlaH7133
+- Neh_10:37nuestras o, y del fruto de todo árbolH8641
+- Neh_10:39han de llevar...o del grano, del vino yH8641
+- Neh_12:44varones sobre las cámaras de...de las oH8641
+- Neh_13:5guardaban antes las o, el incienso, losH4503
+- Neh_13:5cual guardaban...la o de los sacerdotesH4503
+- Neh_13:9e hice volver allí...las o y el inciensoH4503
+- Neh_13:31y para la o de la leña en los tiemposH7133
+- Sal_20:3memoria de todas tus o, y acepte tuH4503
+- Sal_40:6sacrificio y o no te agrada; has abiertoH4503
+- Sal_51:19te agradarán los...o del todo quemada
+- Sal_76:11están alrededor...traigan o al temibleH7862
+- Sal_96:8a Jehová...traed o, y venid a sus atriosH4503
+- Sal_141:2el don de mis...como la o de la tardeH4503
+- Isa_1:13no me traigáis más vana o; el inciensoH4503
+- Isa_18:7será traída o a Jehová de los ejércitosH7862
+- Isa_43:23no te hice servir con o, ni, inciensoH4503
+- Isa_66:3el que hace o, como si ofreciese sangreH4503
+- Isa_66:20traerán...por o a Jehová, en caballosH4503
+- Isa_66:20al modo que los hijos de...traen la oH4503
+- Jer_7:18para hacer o a dioses ajenos, paraH5262
+- Jer_14:12y cuando ofrezcan...y o no lo aceptaréH4503
+- Jer_17:26trayendo holocausto y sacrificio, y oH4503
+- Jer_33:11voz de los que traigan o de...gracias
+- Jer_33:18ofrezca holocausto y encienda o, y queH4503
+- Jer_41:5traían...o e incienso para llevar a laH4503
+- Eze_16:21y los ofrecieras a...imágenes como o
+- Eze_20:26los contaminé en sus o cuando hacíanH4979
+- Eze_20:28allí presentaron o que me irritan, allíH7133
+- Eze_20:31ofreciendo vuestras o, haciendo pasarH4979
+- Eze_20:39pero no profanéis más...con vuestras oH4979
+- Eze_20:40demandaré vuestras o, y las primiciasH8641
+- Eze_42:13los sacerdotes...comerán las santas oH4503
+- Eze_42:13allí pondrán las o santas, la o y la
+- Eze_43:27sacrificarán...vuestras o de paz; y me
+- Eze_44:29la o y la expiación...comerán, y todaH4503
+- Eze_44:30toda o de todo...será de los sacerdotesH8641
+- Eze_44:30todo lo que se presente de...vuestras oH8641
+- Eze_45:13la o que ofreceréis: la sexta parte deH8641
+- Eze_45:15para o de paz, para expiación por ellosH4503
+- Eze_45:16dar esta o para el príncipe de IsraelH8641
+- Eze_45:17él dispondrá...la o, el holocausto y lasH4503
+- Eze_45:17y las o de paz, para hacer expiaciónH4503
+- Eze_45:24ofrecerá o de un efa, y...carnero un efaH4503
+- Eze_46:2los sacerdotes ofrezcan...y sus o de paz
+- Eze_46:5y por o un efa con cada carnero; y conH4503
+- Eze_46:5con cada cordero una o conforme a susH4503
+- Eze_46:7hará o de un efa con el becerro, y unH4503
+- Eze_46:11las fiestas...será la o un efa con cadaH4503
+- Eze_46:12príncipe libremente hiciere...o de paz
+- Eze_46:12y sus o de paz, como hace en el día de
+- Eze_46:14harás...o de la sexta parte de un efaH4503
+- Eze_46:14o para Jehová continuamente...estatutoH4503
+- Eze_46:15ofrecerán...cordero y la o y el aceiteH4503
+- Eze_46:20donde los sacerdotes cocerán la o porH4503
+- Eze_46:20allí cocerán la o, para no sacarla alH4503
+- Eze_46:24los servidores...cocerán la o del puebloH2077
+- Dan_9:27mitad...hará cesar el sacrificio y la oH4503
+- Ose_8:13los sacrificios de mis o sacrificaronH1890
+- Ose_14:2te ofreceremos la o de nuestros labios
+- Joe_1:9desapareció de la casa de Jehová la oH4503
+- Joe_1:13porque quitada es de la casa de...la oH4503
+- Joe_2:14dejará bendición...esto es, o y libaciónH4503
+- Amó_4:5publicad o voluntarias, pues que así lo
+- Amó_5:22si me ofreciereis...o, no los recibiréH4503
+- Amó_5:22ni miraré a las o de paz de...animales
+- Amó_5:25¿me ofrecisteis sacrificios y o en elH4503
+- Sof_3:10hija de mis esparcidos traerá mi oH4503
+- Mal_1:10dice...ni de vuestra mano aceptaré oH4503
+- Mal_1:11en todo lugar se ofrece a mi nombre...oH4503
+- Mal_1:13trajisteis lo hurtado...presentasteis oH4503
+- Mal_2:12que ofrece o a Jehová de los ejércitosH4503
+- Mal_2:13no miraré más a la o, para aceptarla conH4503
+- Mal_3:3de Leví...traerán a Jehová o en justiciaH4503
+- Mal_3:4y será grata a Jehová la o de Judá y deH4503
+- Mal_3:8¿en qué te hemos robado? En...diezmos y oH8641
+- Mat_5:23si traes tu o al altar, y...te acuerdasG1435
+- Mat_5:24deja allí tu o...reconcíliate primero conG1435
+- Mat_5:24y anda...y entonces ven y presenta tu oG1435
+- Mat_8:4y presenta la o que ordenó Moisés, paraG1435
+- Mat_15:5diga...Es mi o a Dios todo aquello con queG1435
+- Mat_23:18pero si alguno jura por la o que estáG1435
+- Mat_23:19¿cuál es mayor, la o, o el altar queG1435
+- Mat_23:19¿cuál...o el altar que santifica la o?[[G1435]]
+- Mat_27:6lícito echarlas en el tesoro de las o
+- Mar_7:11Corbán (que quiere decir, mi o a Dios)[[G1435]]
+- Mar_12:41Jesús sentado delante del arca de la o
+- Luc_21:1que echaban sus o en el arca de las oG1435
+- Luc_21:4echaron para las o...de lo que les sobraG1435
+- Luc_21:5el templo estaba adornado de...o votivasG334
+- Jua_8:20en el lugar de las o, enseñando en el
+- Hec_21:26había de presentarse la o por cada unoG4376
+- Hec_24:17vine a hacer limosnas a...y presentar oG4376
+- Rom_15:16que los gentiles le sean o agradableG4376
+- Rom_15:26Acaya tuvieron a bien hacer una o paraG2842
+- Rom_15:31que la o de mi servicio a...sea acepta
+- 1Co_16:1cuanto a la o para los santos, hacedG3048
+- 1Co_16:2que cuando yo llegue no se recojan, oG3048
+- 2Co_8:20nadie nos censure en cuanto a esta o
+- Efe_5:2o y sacrificio a Dios en olor fraganteG4376
+- Heb_5:1para que presente o y...por los pecadosG1435
+- Heb_8:3sacerdote...constituido para presentar oG1435
+- Heb_8:4sacerdotes que presentan las o según laG1435
+- Heb_9:9presente, según el cual se presentan o yG1435
+- Heb_10:5dice: Sacrificio y o no quisiste; mas meG4376
+- Heb_10:8y o y holocaustos y expiaciones por elG4376
+- Heb_10:10mediante la o del cuerpo de JesucristoG4376
+- Heb_10:14porque con una sola o hizo perfectosG4376
+- Heb_10:18remisión...no hay más o por el pecadoG4376
+- Heb_11:4fe Abel...dando Dios testimonio de sus oG1435

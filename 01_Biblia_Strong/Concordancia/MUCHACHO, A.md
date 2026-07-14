@@ -1,0 +1,79 @@
+---
+tipo: concordancia
+palabra: MUCHACHO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MUCHACHO, A
+
+- Gén_21:12no te parezca grave a causa del mH5288
+- Gén_21:14a Agar...le entregó el m, y la despidióH3206
+- Gén_21:15odre, y echó al m debajo de un arbustoH3206
+- Gén_21:16fue y...decía: No veré cuando el m mueraH3206
+- Gén_21:16ella se sentó...el m alzó su voz y lloróH3206
+- Gén_21:17oyó Dios la voz del m; y el ángel deH5288
+- Gén_21:17Dios ha oído la voz del m en donde estáH5288
+- Gén_21:18levántate, alza al m, y sostenlo con tuH5288
+- Gén_21:19llenó el odre de...y dio de beber al mH5288
+- Gén_21:20y Dios estaba con el m; y creció, yH5288
+- Gén_22:5esperad...y yo y el m iremos hasta allíH5288
+- Gén_22:12no extiendas tu mano sobre el m, ni leH5288
+- Deu_22:23hubiere una m virgen desposada conH5291
+- Jue_8:20el joven...tenía temor, pues aún era mH5288
+- 1Sa_17:33tú eres m, y él un hombre de guerraH5288
+- 1Sa_17:42era m, y rubio, y de hermoso parecerH5288
+- 1Sa_17:58le dijo Saúl: M, ¿de quién eres hijo?[[H5288]]
+- 1Sa_20:22si yo dijere al m...He allí las saetasH5958
+- 1Sa_20:35salió Jonatán al...y un m pequeño con élH5288
+- 1Sa_20:36y dijo al m: Corre...el m iba corriendoH5288
+- 1Sa_20:37llegando el m adonde estaba la saeta queH5288
+- 1Sa_20:37Jonatán dio voces tras el m, diciendoH5288
+- 1Sa_20:38y volvió a gritar Jonatán tras el mH5288
+- 1Sa_20:38y el m de Jonatán recogió las saetasH5288
+- 1Sa_20:39ninguna cosa entendió el m; solamenteH5288
+- 1Sa_20:40dio Jonatán sus armas a su m, y le dijoH5288
+- 1Sa_20:41el m se había ido, se levantó David delH5288
+- 1Re_11:17huyó...era entonces Hadad m pequeñoH5288
+- 2Re_2:23salieron unos m de la ciudad, y seH5288
+- 2Re_2:24dos osos...despedazaron de ellos a 42 mH3206
+- 2Re_5:2y habían llevado cautiva de la...a una mH5291
+- 2Re_5:4así ha dicho una m que es de la tierraH5291
+- 1Cr_22:5Salomón mi hijo es m...de tierna edadH5288
+- 2Cr_28:8tomaron cautivos a...mujeres, m y mH1121, [[H1323]]
+- 2Cr_34:3siendo aún m, comenzó a buscar al DiosH5288
+- Job_19:18m me menospreciaron; al levantarmeH5759
+- Pro_20:11aun el m es conocido por sus hechosH5288
+- Pro_22:15la necedad...ligada en el corazón del mH5288
+- Pro_23:13no rehúses corregir al m; porque si loH5288
+- Pro_29:15el m consentido avergonzará a su madreH5288
+- Ecl_4:13mejor es el m pobre...que el rey viejoH3206
+- Ecl_4:15caminando con el m sucesor, que estaráH3206
+- Ecl_10:16¡ay de ti...cuando tu rey es m, y tusH5288
+- Isa_3:4pondré jóvenes...y m serán sus señoresH8586
+- Isa_3:12opresores de mi pueblo son m, y mujeresH5768
+- Isa_40:30m se fatigan y se cansan, los jóvenesH5288
+- Jer_44:7ser destruidos...m y el niño de pechoH5768
+- Lam_5:13los m desfallecieron bajo el peso deH5288
+- Dan_1:4m en quienes no hubiese tacha algunaH3206
+- Dan_1:10rostros más pálidos que los de los m queH3206
+- Dan_1:13con los rostros de los m que comen deH3206
+- Dan_1:15mejor y más robusto que el de...otros mH3206
+- Dan_1:17a estos 4 m Dios les dio conocimientoH3206
+- Ose_11:1cuando Israel era m, yo lo amé, y deH5288
+- Zac_8:5las calles...estarán llenas de m y mH3206, [[H3207]]
+- Mat_11:16es semejante a los m que se sientanG3808
+- Mat_14:11y fue traída su cabeza...y dada a la mG2877
+- Mat_17:18el cual salió del m, y éste quedó sanoG3816
+- Mat_21:15los m aclamando en el templo y diciendoG3816
+- Mar_6:22rey dijo a la m: Pídeme lo que quierasG2877
+- Mar_6:28su cabeza...dio a la m, y la m la dio a suG2877
+- Mar_9:20el espíritu...sacudió con violencia al mG846
+- Mar_9:24el padre del m clamó y dijo: Creo; ayudaG3813
+- Luc_7:32semejantes son a los m sentados en laG3813
+- Luc_8:54tomándola...clamó diciendo: M, levántateG3816
+- Luc_9:42mientras se acercaba el m, el demonioG846
+- Luc_9:42sanó al m, y se lo devolvió a su padreG3816
+- Jua_6:9aquí está un m, que tiene cinco panesG3808
+- Hec_12:13salió a escuchar una m llamada RodeG3814
+- Hec_16:16al encuentro una m que tenía espírituG3814

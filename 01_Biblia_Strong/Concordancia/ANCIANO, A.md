@@ -1,0 +1,241 @@
+---
+tipo: concordancia
+palabra: ANCIANO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ANCIANO, A
+
+- Gén_25:8murió Abraham en...a y lleno de añosH2205
+- Gén_43:27¿vuestro padre, el a...lo pasa bien?[[H2205]]
+- Gén_44:20tenemos un padre a, y un hermano jovenH2205
+- Gén_50:7los a de su casa, y todos los a...EgiptoH2205
+- Éxo_3:16vé, y reúne a los a de Israel, y dilesH2205
+- Éxo_3:18e irás tú, y los a de Israel, al rey deH2205
+- Éxo_4:29reunieron a todos los a de los hijos deH2205
+- Éxo_12:21Moisés convocó a todos los a de IsraelH2205
+- Éxo_17:5y toma contigo de los a de Israel y tomaH2205
+- Éxo_17:6Moisés lo hizo así en presencia de los aH2205
+- Éxo_18:12vino Aarón y todos los a de Israel paraH2205
+- Éxo_19:7vino Moisés, y llamó a los a del puebloH2205
+- Éxo_24:1sube...tú...y setenta de los a de IsraelH2205
+- Éxo_24:9y subieron...y setenta de los a de IsraelH2205
+- Éxo_24:14y dijo a los a: Esperadnos aquí hastaH2205
+- Lev_4:15a...pondrán sus manos sobre la cabezaH2205
+- Lev_9:1Moisés llamó a Aarón...y a los a de IsraelH2205
+- Lev_19:32levantarás, y honrarás el rostro del aH2205
+- Núm_11:16reúne setenta varones de...a de IsraelH2205
+- Núm_11:16que tú sabes que son a del pueblo y susH2205
+- Núm_11:24reunió a...los a del pueblo, y los hizoH2205
+- Núm_11:25tomó...lo puso en los setenta varones aH2205
+- Núm_11:30y Moisés volvió...él y los a de IsraelH2205
+- Núm_16:25y los a de Israel fueron en pos de élH2205
+- Núm_22:4y dijo Moab a los a de Madián...lameráH2205
+- Núm_22:7fueron los a de Moab y los a de MadiánH2205
+- Deu_5:23vinisteis a mí...príncipes...y vuestros aH2205
+- Deu_19:12los a de...enviarán y lo sacarán de allíH2205
+- Deu_21:2tus a y...saldrán y medirán la distanciaH2205
+- Deu_21:3, Deu_21:6los a de la ciudad más cercana al lugarH2205
+- Deu_21:4los a de...traerán la becerra a un valleH2205
+- Deu_21:19lo sacarán ante los a de su ciudad, y aH2205
+- Deu_21:20dirán a los a...nuestro hijo es contumazH2205
+- Deu_22:15tomarán y sacarán las señales...a los aH2205
+- Deu_22:16dirá el padre...a los a: Yo di mi hijaH2205
+- Deu_22:17extenderán la vestidura delante...los aH2205
+- Deu_22:18los a...tomarán al hombre y lo castigaránH2205
+- Deu_25:7irá...cuñada a la puerta, a los a, y diráH2205
+- Deu_25:8los a...lo harán venir, y hablarán con élH2205
+- Deu_25:9se acercará...su cuñada delante de los aH2205
+- Deu_27:1ordenó Moisés, con los a de Israel, alH2205
+- Deu_28:50gente fiera...que no tendrá respeto al aH2205
+- Deu_29:10vuestros a y vuestros oficiales, todosH2205
+- Deu_31:9la dio a los...y a todos los a de IsraelH2205
+- Deu_31:28congregad a mí...los a de vuestras tribusH2205
+- Deu_32:7pregunta a tu...a tus a, y ellos te diránH2205
+- Jos_7:6Josué...se postró...él y los a de IsraelH2205
+- Jos_8:10subió él, con los a de Israel, delante delH2205
+- Jos_8:33y todo Israel, con sus a...estaba de pieH2205
+- Jos_9:11nuestros a y todos...nos dijeron: TomadH2205
+- Jos_20:4expondrá sus razones en oídos de los aH2205
+- Jos_23:2llamó a...Israel, a sus a, sus príncipesH2205
+- Jos_24:1y llamó a los a de Israel, sus príncipesH2205
+- Jos_24:31el tiempo de los a que sobrevivieron aH2205
+- Jue_2:7había servido a Jehová...tiempo de los aH2205
+- Jue_8:14le dio...los nombres...de los a de SucotH2205
+- Jue_8:16tomó a los a de la ciudad, y espinos yH2205
+- Jue_11:5los a de Galaad fueron a traer a JeftéH2205
+- Jue_11:7Jefté respondió a los a de Galaad: ¿NoH2205
+- Jue_11:8, Jue_11:10los a de Galaad respondieron a JeftéH2205
+- Jue_11:9Jefté entonces dijo a los a de GalaadH2205
+- Jue_11:11entonces Jefté vino con los a de GalaadH2205
+- Jue_19:20el hombre a dijo: Paz sea contigo; tuH2205
+- Jue_19:22hablaron al a, dueño...diciendo: Saca alH2205
+- Jue_21:16los a...dijeron: ¿Qué haremos respectoH2205
+- Rut_4:2tomó a diez varones de...a de la ciudadH2205
+- Rut_4:4en presencia de los...de los a de mi puebloH2205
+- Rut_4:9y Booz dijo a los a y a todo el puebloH2205
+- Rut_4:11los...que estaban a la puerta con los aH2205
+- 1Sa_2:31padre, de modo que no haya a en tu casaH2205
+- 1Sa_2:32y en ningún tiempo habrá a en tu casaH2205
+- 1Sa_4:3los a de Israel dijeron: ¿Por qué nos haH2205
+- 1Sa_8:4entonces todos...los a de Israel se juntaronH2205
+- 1Sa_11:3a de Jabes le dijeron: Danos siete díasH2205
+- 1Sa_15:30me honres delante de los a de mi puebloH2205
+- 1Sa_16:4los a de la ciudad salieron a recibirleH2205
+- 1Sa_28:14un hombre a viene, cubierto de un mantoH2205
+- 1Sa_30:26envió del botín a los a de Judá, susH2205
+- 2Sa_3:17y habló Abner con los a de IsraelH2205
+- 2Sa_5:3vinieron...todos los a de Israel al rey enH2205
+- 2Sa_12:17levantaron los a de su casa, y fueronH2205
+- 2Sa_17:4consejo pareció bien a...los a de IsraelH2205
+- 2Sa_17:15así aconsejó Ahitofel...a los a de IsraelH2205
+- 2Sa_19:11hablad a los a de Judá, y decidles: ¿PorH2205
+- 2Sa_19:32era Barzilai muy a, de ochenta añosH2204
+- 1Re_8:1Salomón reunió...en Jerusalén a los aH2205
+- 1Re_8:3y vinieron todos los a de Israel, y losH2205
+- 1Re_12:6el rey Roboam pidió consejo de los a queH2205
+- 1Re_12:8él dejó el consejo que los a le habíanH2205
+- 1Re_12:13el rey...dejando el consejo que los a leH2205
+- 1Re_20:7el rey de...llamó a todos los a del paísH2205
+- 1Re_20:8los a...respondieron: No le obedezcas, niH2205
+- 1Re_21:8las envió a los a y a los principales queH2205
+- 1Re_21:11los a...hicieron como Jezabel les mandóH2205
+- 2Re_6:32con él estaban sentados los a; y elH2205
+- 2Re_6:32dijo él a los a: ¿No habéis visto cómoH2205
+- 2Re_10:1cartas...a los a y a los ayos de AcabH2205
+- 2Re_10:5los a y los ayos enviaron a decir a JehúH2205
+- 2Re_19:2y envió a...y a los a de los sacerdotesH2205
+- 2Re_23:1el rey mandó reunir con él a todos los aH2205
+- 1Cr_11:3vinieron todos los a de Israel al reyH2205
+- 1Cr_15:25David...y los a...fueron a traer el arcaH2205
+- 1Cr_21:16David y los a se postraron sobre susH2205
+- 2Cr_5:2Salomón reunió...a los a de Israel yH2205
+- 2Cr_5:4vinieron...los a de Israel, y los levitasH2205
+- 2Cr_10:6el rey Roboam tomó consejo con los a queH2205
+- 2Cr_10:8dejando el consejo que le dieron los aH2205
+- 2Cr_10:13dejó el rey Roboam el consejo de los aH2205
+- 2Cr_34:29el rey envió y reunió a todos los a deH2205
+- 2Cr_36:17que mató a...sin perdonar...a ni decrépitoH2205
+- Esd_3:12a que habían visto la casa primeraH2205
+- Esd_5:5los ojos de Dios estaban sobre los a deH7868
+- Esd_5:9entonces preguntamos a los a, diciéndolesH2205
+- Esd_6:7y sus a reedifiquen esa casa de Dios enH2205
+- Esd_6:8de lo que habéis de hacer con esos a deH2205
+- Esd_6:14a de los judíos edificaban y prosperabanH2205
+- Esd_10:8no viniera...conforme al acuerdo de los...aH2205
+- Esd_10:14con ellos los a de cada ciudad, y losH2205
+- Est_3:13orden de destruir...jóvenes y a, niñosH2205
+- Job_12:12en los a está la ciencia, y en la largaH3453
+- Job_12:20priva del...y quita a los a el consejoH2205
+- Job_15:10cabezas canas y hombres muy a hay entreH3453
+- Job_29:8los a se levantaban, y estaban de pieH3453
+- Job_32:6yo soy joven, y vosotros a; por tanto, heH3453, [[H3117]]
+- Job_32:9no son los...ni los a entienden el derechoH2205
+- Sal_105:22para que...a sus a enseñara sabiduríaH2205
+- Sal_107:32exáltenlo...la reunión de a lo alabenH2205
+- Sal_148:12jóvenes y también...los a y los niñosH2205
+- Pro_20:29y la hermosura de los a es su vejezH2205
+- Pro_31:23cuando se sienta con los a de la tierraH2205
+- Isa_3:2el juez y el profeta, el adivino y el aH2205
+- Isa_3:5el joven se levantará contra el a, y elH2205
+- Isa_3:14Jehová vendrá a juicio contra los a deH2205
+- Isa_9:15el a y venerable de rostro es la cabezaH2205
+- Isa_20:4así llevará...a jóvenes y a a, desnudos yH2205
+- Isa_24:23reine...y delante de sus a sea gloriosoH2205
+- Isa_37:2envió a...a de los sacerdotes, cubiertosH2205
+- Isa_47:6sobre el a agravaste mucho tu yugoH2205
+- Jer_6:11será preso...el viejo como el muy aH2205
+- Jer_19:1llevá...de los a del pueblo, y los a deH2205
+- Jer_26:17se levantaron algunos de los a de laH2205
+- Jer_29:1de la carta que...Jeremías envió...a los aH2205
+- Lam_1:19mis sacerdotes y mis a en la ciudadH2205
+- Lam_2:10tierra, callaron los a de la hija de SionH2205
+- Lam_5:14los a no se ven más en la puerta, losH2205
+- Eze_7:26la ley se alejará...de los a el consejoH2205
+- Eze_8:1los a de Judá estaban sentados delante deH2205
+- Eze_8:11setenta varones de los a de la casa deH2205
+- Eze_8:12cosas que los a de la casa de Israel hacenH2205
+- Eze_9:6comenzaron, pues, desde los varones a queH2205
+- Eze_14:1vinieron a mí algunos de los a de IsraelH2205
+- Eze_20:1vinieron...los a de Israel a consultar aH2205
+- Eze_20:3habla a los a de Israel, y diles: Así haH2205
+- Eze_27:9los a de Gebal...calafateaban tus junturasH2205
+- Dan_7:9un A de días, cuyo vestido era blancoH6268
+- Dan_7:13vino hasta el A de días, y le hicieronH6268
+- Dan_7:22hasta que vino el A de días, y se dio elH6268
+- Joe_1:2oíd esto, a, y escuchad...los moradoresH2205
+- Joe_1:14congregad a los a y a todos los moradoresH2205
+- Joe_2:16juntad a los a, congregad a los niños yH2205
+- Joe_2:28a soñarán sueños, y vuestros jóvenesH2205
+- Zac_8:4aún han de morar a y a en las calles deH2205
+- Mat_15:2tus...quebrantan la tradición de los a?[[G4245]]
+- Mat_16:21ir a Jerusalén y padecer mucho de los aG4245
+- Mat_21:23y los a del pueblo se acercaron a élG4245
+- Mat_26:3a del pueblo se reunieron en el patio deG4245
+- Mat_26:47de parte de los...y de los a del puebloG4245
+- Mat_26:57estaban reunidos los escribas y los aG4245
+- Mat_26:59los a...buscaban falso testimonio contraG4245
+- Mat_27:1y los a del pueblo entraron en consejoG4245
+- Mat_27:3devolvió...las treinta piezas...a los aG4245
+- Mat_27:12y siendo acusado por...a, nada respondióG4245
+- Mat_27:20los a persuadieron a la multitud queG4245
+- Mat_27:41escarneciéndole...los fariseos y los aG4245
+- Mat_28:12reunidos con los a, y habido consejoG4245
+- Mar_7:3aferrándose a la tradición de los a, siG4245
+- Mar_7:5no andan conforme a la tradición de los aG4245
+- Mar_8:31era necesario...ser desechado por los aG4245
+- Mar_11:27vinieron a él los...los escribas y los aG4245
+- Mar_14:43con él mucha gente...de parte...de los aG4245
+- Mar_14:53reunieron todos los...a y los escribasG4245
+- Mar_15:1habiendo tenido consejo los...con los aG4245
+- Luc_7:3le envió unos a de los judíos, rogándoleG4245
+- Luc_9:22padezca...y sea desechado por los a, porG4245
+- Luc_20:1llegaron los...y los escribas con los aG4245
+- Luc_22:52Jesús dijo a...los a, que habían venidoG4245
+- Luc_22:66de día, se juntaron los a del puebloG4244
+- Hec_2:17verán visiones, y...a soñarán sueñosG4245
+- Hec_4:5que se reunieron en...los a y los escribasG4245
+- Hec_4:8les...Gobernantes del pueblo, y a de IsraelG4245
+- Hec_4:23contaron todo lo que...a les habían dichoG4245
+- Hec_5:21convocaron...a todos los a de los hijos deG1087
+- Hec_6:12soliviantaron al pueblo, a los a y a losG4245
+- Hec_11:30enviándolo a los a por mano de...SauloG4245
+- Hec_14:23constituyeron a en cada iglesia...oradoG4245
+- Hec_15:2subiesen a...los a, para tratar...cuestiónG4245
+- Hec_15:4fueron recibidos por la iglesia y...los aG4245
+- Hec_15:6reunieron...a los a para conocer de esteG4245
+- Hec_15:22pareció bien a los apóstoles y a los aG4245
+- Hec_15:23los apóstoles y los a y los hermanos, aG4245
+- Hec_16:4las ordenanzas que habían acordado...los aG4245
+- Hec_20:17hizo llamar a los a de la iglesiaG4245
+- Hec_21:18al día...se hallaban reunidos todos los aG4245
+- Hec_22:5me es testigo, y todos los a, de quienesG4244
+- Hec_23:14los cuales fueron...a los a y dijeronG4245
+- Hec_24:1sacerdote Ananías con algunos de los aG4245
+- Hec_25:15se me presentaron...los a de los judíosG4245
+- 1Ti_5:1no reprendas al a, sino exhórtale comoG4245
+- 1Ti_5:2a las a, como a madres; a las jovencitasG4245
+- 1Ti_5:17los a que gobiernan bien, sean tenidosG4245
+- 1Ti_5:19contra un a no admitas acusación sinoG4245
+- Tit_1:5y establecieses a en cada ciudad, asíG4245
+- Tit_2:2los a sean sobrios, serios, prudentesG4246
+- Tit_2:3a asimismo sean reverentes en su porteG4247
+- Flm_1:9siendo como soy, Pablo ya a, y ahoraG4246
+- Stg_5:14llame a los a de la iglesia, y orenG4245
+- 1Pe_5:1ruego a los a, yo anciano también con ellosG4245
+- 1Pe_5:1ruego a los ancianos, yo a también con ellosG4850
+- 1Pe_5:5jóvenes, estad sujetos a los a; y todosG4245
+- 2Jn_1:1el a a la señora elegida y a sus hijosG4245
+- 3Jn_1:1el a a Gayo, el amado, a quien amo enG4245
+- Rev_4:4y vi sentados en los tronos a 24 aG4245
+- Rev_4:10los 24 a se postraron delante del queG4245
+- Rev_5:5y uno de los a me dijo: No llores. He aquíG4245
+- Rev_5:6medio de los a, estaba en pie un CorderoG4245
+- Rev_5:8, Rev_5:14y los veinticuatro a se postraronG4245
+- Rev_5:11muchos ángeles alrededor del...y de los aG4245
+- Rev_7:11los ángeles...alrededor...de los a y de losG4245
+- Rev_7:13uno de los a habló, diciéndome: Estos queG4245
+- Rev_11:16los 24 a que estaban sentados delante deG4245
+- Rev_14:3cantaban un cántico...delante...de los aG4245
+- Rev_19:4los veinticuatro a...se postraron en tierraG4245

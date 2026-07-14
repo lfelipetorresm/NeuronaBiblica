@@ -1,0 +1,81 @@
+---
+tipo: concordancia
+palabra: SIRIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SIRIA
+
+- Región habitada por los sirios (arameos), principalmente el reino cuya capital era Damasco. Véase también Aram No. 3
+- Jue_3:10entregó...a Cusan-risataim rey de SH763
+- Jue_10:6sirvieron...Astarot, a los dioses de SH758
+- 2Sa_8:6puso luego David guarnición en S deH758
+- 2Sa_15:8hizo voto cuando estaba en Gesur en SH758
+- 1Re_10:29así los adquirían...los reyes de...SH758
+- 1Re_11:25porque aborreció a Israel, y reinó...SH758
+- 1Re_15:18de Tabrimón, hijo de Hezión, rey de SH758
+- 1Re_19:15dijo...y ungirás a Hazael por rey de SH758
+- 1Re_20:1Ben-adad rey de S juntó a...su ejércitoH758
+- 1Re_20:20el rey de S...se escapó en un caballoH758
+- 1Re_20:22un año, el rey de S vendrá contra tiH758
+- 1Re_20:23y los siervos del rey de S le dijeronH758
+- 1Re_22:3nada para tomarla de mano del rey de S?[[H758]]
+- 1Re_22:31mas el rey de S había mandado a sus 32H758
+- 2Re_5:1Naamán...del ejército del rey de S, eraH758
+- 2Re_5:1por...él había dado Jehová salvación a SH758
+- 2Re_5:2y de S habían salido bandas armadas, yH758
+- 2Re_5:5dijo el rey de S: Anda, vé, y yo enviaréH758
+- 2Re_6:8tenía el rey de S guerra contra IsraelH758
+- 2Re_6:11y el corazón del rey de S se turbó porH758
+- 2Re_6:23nunca más vinieron bandas armadas de SH758
+- 2Re_6:24Ben-adad rey de S reunió...su ejércitoH758
+- 2Re_8:7y Ben-adad rey de S estaba enfermo, alH758
+- 2Re_8:9tu hijo Ben-adad rey de S me ha enviadoH758
+- 2Re_8:13me ha mostrado que tú serás rey de SH758
+- 2Re_8:28fue a la guerra...contra Hazael rey de SH758
+- 2Re_8:29rey...cuando peleó contra Hazael rey de SH758
+- 2Re_9:14a Ramot...por causa de Hazael rey de SH758
+- 2Re_9:15hecho, peleando contra Hazael rey de SH758
+- 2Re_12:17subió Hazael rey de S, y peleó contraH758
+- 2Re_12:18todo el oro...lo envió a Hazael rey de SH758
+- 2Re_13:3los entregó en mano de Hazael rey de SH758
+- 2Re_13:4la aflicción, el rey de S los afligíaH758
+- 2Re_13:7el rey de S los había destruido, y losH758
+- 2Re_13:17y saeta de salvación contra S; porqueH758
+- 2Re_13:19o seis golpes, hubieras derrotado a SH758
+- 2Re_13:19ahora sólo tres veces derrotarás a SH758
+- 2Re_13:22Hazael...de S, afligió a Israel todo elH758
+- 2Re_13:24murió Hazael rey de S, y reinó en suH758
+- 2Re_15:37a enviar contra Judá a Rezín rey de SH758
+- 2Re_16:5Rezín rey de S y...subieron a JerusalénH758
+- 2Re_16:7defiéndeme de mano del rey de S, y deH758
+- 1Cr_18:6y puso...guarnición en S de DamascoH758, [[H1834]]
+- 1Cr_19:6carros y gente de a caballo...de S, deH758
+- 2Cr_1:17así compraban...para los reyes de SH758
+- 2Cr_16:2sacó Asa...y envió a Ben-adad rey de SH758
+- 2Cr_16:7te has apoyado en el rey de S, y no teH758
+- 2Cr_16:7el ejército del rey de S ha escapado deH758
+- 2Cr_18:30el rey de S mandado a los capitanes deH758
+- 2Cr_20:2contra ti viene una gran multitud...de SH758
+- 2Cr_22:5la guerra con...contra Hazael rey de SH758
+- 2Cr_22:6Ramot, peleando contra Hazael rey de SH758
+- 2Cr_24:23año subió contra él el ejército de SH758
+- 2Cr_24:24aunque el ejército de S había venidoH758
+- 2Cr_28:23los dioses de los reyes de S les ayudanH758
+- Isa_7:1Rezín rey de S y Peka hijo de RemalíasH758
+- Isa_7:2S se ha confederado con Efraín...Y se leH758
+- Isa_7:4por el ardor de la ira de Rezín y de SH758
+- Isa_7:8la cabeza de S es Damasco, y la cabezaH758
+- Isa_17:3que quede de S será como la gloria deH758
+- Jer_35:11presencia del ejército de los de SH758
+- Eze_16:57llevas tú la afrenta de...hijas de SH758
+- Amó_1:5el pueblo de S será transportado a KirH758
+- Mat_4:24se difundió su fama por toda S; y leG4947
+- Luc_2:2se hizo siendo Cirenio gobernador de SG4947
+- Hec_15:23a los hermanos...que están en...S y enG4947
+- Hec_15:41y pasó por S y Cilicia, confirmandoG4947
+- Hec_18:18después se despidió de...y navegó a SG4947
+- Hec_20:3judíos para cuando se embarcase para SG4947
+- Hec_21:3navegamos a S, y arribamos a Tiro, porqueG4947
+- Gál_1:21después fui a las regiones de S y deG4947

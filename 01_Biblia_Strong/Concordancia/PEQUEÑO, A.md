@@ -1,0 +1,93 @@
+---
+tipo: concordancia
+palabra: PEQUEÑO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PEQUEÑO, A
+
+- Gén_19:20esta ciudad está cerca...la cual es pH4705
+- Gén_19:20dejadme escapar...allá (¿no es ella p?)[[H4705]]
+- Gén_44:20y un hermano joven, p aún, que le nacióH6966
+- Éxo_12:4si la familia fuere tan p que no basteH4591
+- Éxo_18:22grave...y ellos juzgarán todo asunto pH6996
+- Éxo_18:26al pueblo...ellos juzgaban todo asunto pH6996
+- Núm_26:56repartida su...entre el grande y el pH4592
+- Deu_1:17en el juicio...p como al grande oiréisH6996
+- Deu_25:14ni tendrás en tu casa efa grande y...pH6996
+- 1Sa_1:24lo trajo a la casa...y el niño era pH5288
+- 1Sa_2:19le hacía su madre una túnica p y se laH6996
+- 1Sa_9:21de Benjamín, de la más p de las tribusH6996
+- 1Sa_9:21y mi familia ¿no es la más p de todasH6810
+- 1Sa_15:17aunque eras p en tus propios ojos, ¿noH6996
+- 1Sa_20:35salió Jonatán...y un muchacho p con élH6996
+- 2Sa_9:12tenía Mefi-boset un hijo p...MicaíaH6996
+- 2Sa_23:11había un p terreno lleno de lentejasH2513
+- 1Re_2:20dijo: Una p petición pretendo de tiH6996
+- 1Re_8:64el altar de bronce...era p, y no cabíanH6996
+- 1Re_11:17huyó, y...era entonces Hadad muchacho pH6996
+- 1Re_17:13pero hazme a mí primero...una p tortaH6996
+- 1Cr_25:8turnos, entrando el p con el grandeH6996
+- 1Cr_26:13echaron suertes, el p con el grandeH6996
+- 2Cr_10:10mi dedo más p es más grueso que losH6996
+- 2Cr_15:13que no buscase a...muriese, grande o pH6996
+- 2Cr_34:30pueblo, desde el mayor hasta el más pH6996
+- Job_8:7y aunque tu principio haya sido p, tuH4705
+- Job_27:14sus hijos..sus p no se saciarán de panH6631
+- Sal_104:25donde se mueven...seres p y grandesH6996
+- Sal_115:13bendecirá a los que..a p y a grandesH6996
+- Sal_119:141p soy yo, y desechado, mas no me heH6810
+- Pro_30:24cuatro cosas son de las más p de laH6996
+- Ecl_10:1una p locura, al que es estimado comoH4592
+- Cnt_2:15cazadnos...las zorras p, que echan aH6996
+- Cnt_8:8tenemos una p hermana que no tiene pechosH6996
+- Isa_1:9si...no nos hubiese dejado un resto pH4213
+- Isa_16:14y los sobrevivientes serán pocos, p yH4213
+- Isa_60:22el p vendrá a ser mil, el menor, unH6996
+- Jer_8:10desde el más p hasta el más grandeH6996
+- Jer_16:6morirán en esta tierra grandes y p; noH6996
+- Jer_31:34todos me conocerán, desde el más p deH6996
+- Jer_48:4hicieron...se oyese el clamor de sus pH6810
+- Jer_49:15aquí que te haré p entre las nacionesH6996
+- Jer_49:20a los más p de su rebaño...arrastraránH6810
+- Jer_50:45ciertamente a los más p de su rebañoH6810
+- Eze_11:16les seré por un p santuario en lasH4592
+- Dan_7:8cuerno p salía entre ellos, y delanteH2192
+- Dan_8:9de uno de ellos salió un cuerno p, queH4704
+- Amó_7:2, Amó_7:5¿quién levantará a Jacob? porque es pH6996
+- Abd_1:2aquí, p te he hecho entre las nacionesH6996
+- Miq_5:2Belén Efrata, p para estar entre lasH6218
+- Nah_3:10también sus p fueron estrellados en
+- Zac_11:16pastor...ni buscará la p, ni curaráH5288
+- Mat_2:6no eres la más p entre los príncipes de
+- Mat_5:19quebrante uno de estos mandamientos...pG1646
+- Mat_5:19p será llamado en el reino de los cielosG1646
+- Mat_11:11el más p en el reino...mayor es que élG3398
+- Mat_13:32es la más p de todas las semillas; peroG3398
+- Mat_18:6que haga tropezar a alguno de estos pG3398
+- Mat_18:10que no menospreciéis a uno de estos pG3398
+- Mat_18:14la voluntad...se pierda uno de estos pG3398
+- Mat_25:40uno de estos mis hermanos más p, a míG1646
+- Mat_25:45no lo hicisteis a uno de estos más pG1646
+- Mar_4:31es la más p de todas las semillas queG3398
+- Luc_7:28pero el más p en el reino de Dios esG3398
+- Luc_9:48el que es más p entre todos vosotros, éseG3398
+- Luc_12:32manada p...a vuestro Padre le ha placidoG3398
+- Luc_19:3pero no podía...pues era p de estaturaG3398
+- Hec_8:10a éste oían...desde el más p hasta elG3398
+- Hec_15:2tuviesen una discusión...no p con ellosG3641
+- Hec_19:23hubo...disturbio no p acerca del CaminoG3641
+- Hec_26:22dando testimonio a p y a grandes, noG3398
+- Hec_27:16sotavento de una p isla llamada Clauda
+- Hec_27:20y acosados por una tempestad no p, yaG3641
+- 1Co_6:2¿sois indignos de juzgar cosas...p?[[G1646]]
+- 1Co_15:9yo soy el más p de los apóstoles, que ElG1646
+- Efe_3:8soy menos que el más p de todos losG1647
+- Stg_3:4naves...gobernadas con un muy p timónG1646
+- Stg_3:5así también la lengua es un miembro pG3398
+- Stg_3:5¡cuán grande bosque enciende un p fuego![[G3641]]
+- Rev_11:18el galardón...a los p a los grandesG3398
+- Rev_13:16p y grandes...se les pusiese una marcaG3398
+- Rev_19:5alabad a nuestro Dios...p como grandesG3398
+- Rev_19:18comáis carnes de reyes y...p y grandesG3398

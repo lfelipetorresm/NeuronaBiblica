@@ -1,0 +1,84 @@
+---
+tipo: concordancia
+palabra: RUBÉN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# RUBÉN
+
+- Primogénito de Jacob y la tribu que formó su posteridad
+- Gén_29:32a luz un hijo, y llamó su nombre RH7205
+- Gén_30:14fue R!...y halló mandrágoras en el campoH7205
+- Gén_35:22fue R y durmió con Bilba la concubinaH7205
+- Gén_35:23Lea: R el primogénito de Jacob; SimeónH7205
+- Gén_37:21cuando R oyó esto, lo libró de susH7205
+- Gén_37:22dijo R!...No derraméis sangre; echadioH7205
+- Gén_37:29R volvió a la cisterna, y no halló aH7205
+- Gén_42:22entonces R les respondió, diciendoH7205
+- Gén_42:37R habló a su padre, diciendo: HarásH7205
+- Gén_46:8en Egipto...R el primogénito de JacobH7205
+- Gén_46:9los hijos de R: Hanoc, Falú, HezrónH7205
+- Gén_48:5míos son; como R y Simeón, serán míosH7205
+- Gén_49:3R!...eres mi primogénito, mi fortalezaH7205
+- Éxo_1:2R, Simeón, Leví, JudáH7205
+- Éxo_6:14hijos de R, el primogénito de IsraelH7205
+- Éxo_6:14y Carmi; estas son las familias de RH7205
+- Núm_1:5la tribu de R, Elisur hijo de SedeurH7205
+- Núm_1:20los hijos de R, primogénito de IsraelH7205
+- Núm_1:21los contados de la tribu de R fueronH7205
+- Núm_2:10campamento de R estará al sur, por susH7205
+- Núm_2:10el jefe de los hijos de R, Elisur hijoH7205
+- Núm_2:16el campamento de R,Núm_151:450, por susH7205
+- Núm_7:30cuarto día, Elisur..de los hijos de RH7205
+- Núm_10:18luego...la bandera del campamento de RH7205
+- Núm_13:4de la tribu de R, Samúa hijo de ZacurH7205
+- Núm_16:1On...de los hijos de R, tomaron genteH7205
+- Núm_26:5R, primogénito de Israel...hijos de RH7205
+- Núm_32:1los hijos de R!...tenían una muy inmensaH7205
+- Núm_32:2vinieron...los hijos de R, y hablaron aH7205
+- Núm_32:6respondió Moisés a...y a los hijos de RH7205
+- Núm_32:25hablaron los...los hijos de R a MoisésH7205
+- Núm_32:29si...los hijos de R pasan con vosotrosH7205
+- Núm_32:31los hijos de R respondieron diciendoH7205
+- Núm_32:33a los hijos de R, y a la media tribuH7205
+- Núm_32:37hijos de R edificaron Hesbón, ElealeH7205
+- Núm_34:14los hijos de R!...han tomado su heredadH7205
+- Deu_11:6con Datán...hijos de Eliab hijo de RH7205
+- Deu_27:13estos estarán...R, Gad, Aser, ZabulónH7205
+- Deu_29:8y la dimos por heredad a R y a Gad yH7206
+- Deu_33:6viva R, y no muera; y no sean pocosH7205
+- Jos_4:12los hijos de R y...pasaron armadosH7205
+- Jos_13:15Moisés a la tribu de los hijos de RH7205
+- Jos_13:23límite del territorio de...hijos de RH7205
+- Jos_13:23esta fue la heredad de los hijos de RH7205
+- Jos_15:6sube a la piedra de Bohán hijo de RH7205
+- Jos_18:7R!...han recibido su heredad al otro ladoH7205
+- Jos_18:17desciende...piedra de Bohán hijo de RH7205
+- Jos_20:8a Beser...en la llanura de la tribu de RH7205
+- Jos_21:7de la tribu de R, de las doce ciudadesH7205
+- Jos_21:36de la tribu de R, Deser con sus ejidosH7205
+- Jos_22:9los hijos de R y...de Gad...se volvieronH7205
+- Jos_22:10hijos de R!...edificaron allí un altarH7205
+- Jos_22:11que los hijos de R!...habían edificadoH7205
+- Jos_22:13enviaron...a los hijos de R y a...GadH7205
+- Jos_22:15los cuales fueron a los hijos de R yH7205
+- Jos_22:21hijos de R y...respondieron y dijeronH7205
+- Jos_22:25ha puesto por lindero...oh hijos de RH7205
+- Jos_22:30palabras que hablaron los hijos de RH7205
+- Jos_22:31dijo Finees...a los hijos de R, a losH7205
+- Jos_22:32dejaron a los hijos de R!...y regresaronH7205
+- Jos_22:33en que habitaban los hijos de R y losH7205
+- Jos_22:34hijos de R!...pusieron por nombre...EdH7205
+- Jue_5:15-16las familias de R hubo grandesH7205
+- 2Re_10:33la tierra de...Gad, de R y de ManasésH7205
+- 1Cr_2:1son los hijos de Israel: R, SimeónH7205
+- 1Cr_5:1los hijos de R primogénito de IsraelH7205
+- 1Cr_5:3los hijos de R!...Hanoc, Falú, Hezrón yH7205
+- 1Cr_5:18los hijos de R y de...hombres valientesH7205
+- 1Cr_6:63los hijos de Merari...de la tribu de RH7205
+- 1Cr_6:78de la tribu de R, Beser en el desiertoH7205
+- Eze_48:6desde...hasta el lado del mar, R, otraH7205
+- Eze_48:7junto al límite de R, desde el lado delH7205
+- Eze_48:31la puerta de R, una; la puerta de JudáH7205
+- Rev_7:5de la tribu de R, doce mil selladosG4502

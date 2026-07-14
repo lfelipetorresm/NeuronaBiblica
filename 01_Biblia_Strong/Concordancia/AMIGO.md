@@ -1,0 +1,101 @@
+---
+tipo: concordancia
+palabra: AMIGO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AMIGO
+
+- Véase también Amiga
+- Gén_26:26Ahuzat a suyo, y Ficol capitán de suH4828
+- Gén_38:12Judá...subía...a Timnat, él y su a HiraH7453
+- Gén_38:20envió el cabrito de...por medio de su aH7453
+- Éxo_32:27matad cada uno...a, y a su parienteH7453
+- Deu_13:6si te incitare...tu a íntimo, diciendoH7453
+- Jue_14:20al cual él había tratado como su aH7462
+- 1Sa_30:26envió del botín a...sus a, diciendoH7453
+- 2Sa_3:8he hecho hoy misericordia...con sus aH4828
+- 2Sa_13:3tenía un a que se llamaba Jonadab, hijoH7453
+- 2Sa_15:37vino Husai a de David a la ciudad; yH7463
+- 2Sa_16:16que cuando Husai...a de David, vino alH7463
+- 2Sa_16:17¿es...tu agradecimiento para con tu a?[[H7453]]
+- 2Sa_16:17a Husai...¿Por qué no fuiste con tu a?[[H7453]]
+- 1Re_4:5Zabud...ministro principal y a del reyH7463
+- 1Re_16:11mató a...sin dejar en ella varón...ni aH7453
+- 1Cr_27:33Ahitofel...Husai arquita a del reyH7453
+- 2Cr_20:7a la descendencia de Abraham tu aH157
+- 2Cr_26:10viñas...porque era a de la agriculturaH157
+- Est_5:10y mandó llamar a sus a y a Zeres suH157
+- Est_5:14y le dijo Zeres su mujer y todos sus aH157
+- Est_6:13contó luego Amán...a todos sus a, todo loH157
+- Job_2:11tres a de Job...luego que oyeron todoH7453
+- Job_6:27también...caváis un hoyo para vuestro aH7451
+- Job_12:4yo soy uno de quien su a se mofa, queH7453
+- Job_16:20disputadores son mis a; mas ante DiosH7453
+- Job_17:5al que denuncia a sus a como presa, losH7453
+- Job_19:19mis íntimos a me aborrecieron, y losH4962
+- Job_19:21vosotros mis a, tened compasión de miH7453
+- Job_32:3se encendió en ira contra sus tres aH7453
+- Job_42:10de Job, cuando él hubo orado por sus aH7453
+- Sal_38:11a...se mantienen lejos de mi plagaH7453
+- Sal_88:18has alejado de mí al a y al compañeroH7453
+- Pro_6:1hijo mío, si salieres fiador por tu aH7453
+- Pro_6:3hijo...vé, humíllate, y asegúrate de tu aH7453
+- Pro_14:20el pobre es odioso aun a su a; peroH157
+- Pro_16:28y el chismoso aparta a los mejores aH441
+- Pro_17:9falta...el que la divulga, aparta al aH441
+- Pro_17:17en todo tiempo ama el a, y es como unH7453
+- Pro_17:18sale por fiador en presencia de su aH7453
+- Pro_18:24hombre que tiene a ha de mostrarse aH7453
+- Pro_18:24y a hay más unido que un hermanoH157
+- Pro_19:4muchos a...el pobre es apartado de su aH7453
+- Pro_19:6buscan...cada uno es a del hombre que daH7453
+- Pro_19:7¡cuánto más sus a se alejarán de él![[H4828]]
+- Pro_26:19tal es el hombre que engaña a su aH251
+- Pro_27:9y el cordial consejo del a, al hombreH7453
+- Pro_27:10no dejes a tu a, ni al a de tu padreH7453
+- Pro_27:14el que bendice a su a en alta vozH7453
+- Pro_27:17así el hombre aguza el rostro de su aH7453
+- Cnt_5:1comed, a; bebed en abundancia...amadosH7453
+- Cnt_5:16tal es mi a, oh doncellas de JerusalénH7453
+- Isa_41:8Israel...descendencia de Abraham mi aH157
+- Jer_3:1tú, pues, has fornicado con muchos aH7453
+- Jer_9:8con su boca dice paz a su a, y dentro deH7453
+- Jer_13:21a quienes tú enseñaste a ser tus a?[[H441]]
+- Jer_19:9cada uno comerá la carne de su a en elH7543
+- Jer_20:10todos mis a miraban si claudicaríaH582, [[H7965]]
+- Jer_38:22y han prevalecido contra ti tus aH582, [[H7965]]
+- Lam_1:2todos sus a le faltaron, se le volvieronH7453
+- Miq_7:5no creáis en a, ni confiéis en príncipeH7453
+- Zac_3:8tú y tus a que se sientan delante deH7453
+- Zac_13:6con ellas fui herido en casa de mis aH157
+- Mat_11:19un...a de publicanos y de pecadoresG5384
+- Mat_20:13a, no te hago agravio; ¿no convinisteG2083
+- Mat_22:12dijo: A, ¿cómo entraste aquí, sin estarG2083
+- Mat_26:50y Jesús le dijo: A, ¿a qué vienes?[[G2083]]
+- Luc_7:34es un...a de publicanos y de pecadoresG5384
+- Luc_11:5¿quién de vosotros que tenga un a, va aG5384
+- Luc_11:5va...y le dice: A, préstame tres panesG5384
+- Luc_11:6un a mío ha venido a mí de viaje, y noG5384
+- Luc_11:8no se levante a dárselos por ser su aG5384
+- Luc_12:4mas os digo, a míos: No temáis a los queG5384
+- Luc_14:10te diga: A, sube más arriba; entoncesG5384
+- Luc_14:12no llames a tus a, ni a tus hermanosG5384
+- Luc_15:6reúne a sus a y vecinos, diciéndolesG5384
+- Luc_15:29ni un cabrito para gozarme con mis aG5384
+- Luc_16:9a por medio de las riquezas injustasG5384
+- Luc_21:16entregados aun por...parientes, y a; yG5384
+- Luc_23:12se hicieron a Pilato y Herodes aquel díaG5384
+- Jua_3:29el a del esposo, que está a su ladoG5384
+- Jua_11:11nuestro a Lázaro duerme; mas voy paraG5384
+- Jua_15:13este, que uno ponga su vida por sus aG5384
+- Jua_15:14vosotros sois mis a si hacéis lo queG5384
+- Jua_15:15os he llamado a, porque todas las cosasG5384
+- Jua_19:12si a éste sueltas, no eres a de CésarG5384
+- Hec_10:24habiendo convocado a...a más íntimosG5384
+- Hec_19:31las autoridades de Asia, que eran sus aG5384
+- Hec_27:3Julio...le permitió que fuese a los aG5384
+- Stg_2:23creyó a Dios...fue llamado a de DiosG5384
+- Stg_4:4cualquiera...que quiera ser a del mundoG5384
+- 3Jn_1:15los a te saludan. Saluda tú a los aG5384

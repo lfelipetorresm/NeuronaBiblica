@@ -1,0 +1,129 @@
+---
+tipo: concordancia
+palabra: GANADO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GANADO
+
+- Gén_1:25hizo Dios animales de la tierra...y gH929
+- Gén_2:20puso Adán nombre a...todo g del campoH929
+- Gén_4:20Jabal...fue padre de los que...crían gH4735
+- Gén_7:21murió toda carne...de aves como de g yH929
+- Gén_12:5todos sus bienes que habían g y las personasH7408
+- Gén_13:2y Abram era riquísimo en g, en plata yH4735
+- Gén_13:7los pastores del g de Abram...g de LotH4735
+- Gén_27:9vé ahora al g, y tráeme de allí 2 buenosH6629
+- Gén_29:2porque de aquel pozo abrevaban los gH5739
+- Gén_29:7no es tiempo todavía de recoger el gH4735
+- Gén_30:29tú sabes...cómo ha estado tu g conmigoH4735
+- Gén_30:38puso las varas...delante del g, en losH6629
+- Gén_31:9quitó Dios el g de vuestro padre, y me loH4735
+- Gén_31:18en camino todo su g...g de su gananciaH4735
+- Gén_31:41catorce años te serví...6 años por tu gH6629
+- Gén_33:14yo me iré poco a poco al paso del g queH4399
+- Gén_33:17Jacob fue a...e hizo cabañas para su gH4735
+- Gén_34:5estando sus hijos con su g en el campoH4735
+- Gén_34:23g, sus bienes, y todas...serán nuestrosH4735
+- Gén_36:6y Esaú tomó...sus g, y todas sus bestiasH4735
+- Gén_36:7ni...los podía sostener a causa de sus gH4735
+- Gén_38:17yo te enviaré del g un cabrito de lasH6629
+- Gén_45:10la tierra de Gosén...tu g y tus vacasH6629
+- Gén_46:6tomaron sus g, y sus bienes que hablanH4735
+- Gén_47:6capaces, ponlos por mayorales del g míoH4735
+- Gén_47:16dad vuestros g...os daré por vuestros gH4735
+- Gén_47:17ellos trajeron sus g a José, y José lesH4735
+- Gén_47:17por el g de las ovejas...g de las vacasH4735
+- Gén_47:17y les sustento de pan por todos sus gH4735
+- Gén_47:18también el g es ya de nuestro señorH4735, [[H929]]
+- Éxo_9:3la mano de Jehová estará sobre tus gH4735
+- Éxo_9:4los g de Israel y los de Egipto, de modoH4735
+- Éxo_9:6murió...g de Egipto; mas del g de...IsraelH4735
+- Éxo_9:7g de los hijos de Israel no había muertoH4735
+- Éxo_9:19a recoger tu g, y todo lo que tienes enH4735
+- Éxo_9:20hizo huir sus criados y su g a casaH4735
+- Éxo_9:21dejó sus criados y sus g en el campoH4735
+- Éxo_10:26nuestros g irán también con nosotrosH4735
+- Éxo_12:38también subió...ovejas, y muchísimo gH4735
+- Éxo_17:3para matarnos de sed...y a nuestros g?[[H4735]]
+- Éxo_34:19de tu g todo primogénito de vaca o deH4735
+- Lev_1:2de g vacuno u...haréis vuestra ofrendaH929
+- Lev_3:1paz, si hubiere de ofrecerla de g vacunoH1241
+- Lev_19:19no hará ayunar tu g con animales deH929
+- Lev_22:19macho...de entre el g vacuno, de entreH1241
+- Lev_26:22destruyan vuestro g, y os reduzcan enH929
+- Núm_20:19si bebiéremos tus aguas yo y mis gH4735
+- Núm_31:9Israel llevaron cautivas...todos sus gH929
+- Núm_32:1Gad tenían...inmensa muchedumbre de gH4735
+- Núm_32:1vieron...les pareció el país lugar de gH4735
+- Núm_32:4es tierra de g, y tus siervos tienen gH4735
+- Núm_32:16edificaremos...majadas para nuestro gH4735
+- Núm_32:26nuestros g...en las ciudades de GalaadH929
+- Núm_35:3los ejidos de ellas serán para...sus gH929
+- Deu_2:35tomamos para nosotros los g, y losH929
+- Deu_3:7tomamos para nosotros todo el g, y losH929
+- Deu_3:19vuestros g (yo sé que tenéis mucho g)[[H4735]]
+- Deu_7:14no habrá en ti...estéril, ni en tus gH929
+- Deu_11:6los tragó con...todo su g, en medio deH3351
+- Deu_11:15también hierba en tu campo para tus gH929
+- Deu_13:15también matarás sus g a filo de espadaH929
+- Deu_14:23las primicias de tus manadas y de tus gH1241
+- Jos_1:14vuestros g quedarán en la tierra queH4735
+- Jos_14:4ciudades en...con los ejidos...para sus gH4735
+- Jos_21:2dadas ciudades...ejidos para nuestros gH929
+- Jos_22:8volved a...tiendas con mucho g, con plataH4735
+- Jue_6:5subían ellos y sus g, y venían con susH4735
+- Jue_18:21pusieron...el g y el bagaje por delanteH4735
+- 1Sa_15:9perdonaron...lo mejor...del g mayor, deH1241
+- 1Sa_23:5David...se llevó sus g, y les causó unaH4735
+- 1Sa_25:16estuvimos con ellos, apacentando los gH6629
+- 1Sa_30:20ovejas y el g mayor; y trayéndolo todoH1241
+- 2Re_3:4Mesa...era propietario de g...y pagabaH5349
+- 2Re_3:17agua, y beberéis vosotros...y vuestros gH4735
+- 1Cr_4:39valle, buscando pastos para sus gH6629
+- 1Cr_4:41por cuanto había allí pastos para sus gH6629
+- 1Cr_5:9tenía mucho g en la tierra de GalaadH4735
+- 1Cr_5:21y tomaron sus g...y cien mil personasH4735
+- 1Cr_7:21hijos de Gat...vinieron a tomarles sus gH4735
+- 1Cr_27:29del g que pastaba en Sarón, SitraiH1241
+- 1Cr_27:29del g que estaba en los valles, SafatH1241
+- 2Cr_14:15las cabañas de los que tenían gH4735
+- 2Cr_17:11los árabes también le trajeron g, 7.000H6629
+- 2Cr_26:10porque tuvo muchos g, así en la SefelaH4735
+- 2Cr_32:28hizo...establos...y apriscos para los gH5739
+- Esd_1:4con...bienes Y g, además de ofrendasH929
+- Esd_1:6ayudaron con...g, y con cosas preciosasH929
+- Neh_9:37enseñorean sobre...y sobre nuestros gH929
+- Neh_10:36los primogénitos de...y de nuestros gH6629
+- Job_24:2traspasan los linderos, roban los gH5739
+- Job_30:1desdeñara poner con los perros de mi gH6629
+- Sal_78:48al...sus bestias, y sus g a los rayosH4735
+- Sal_107:38se multiplican...y no disminuye su gH929
+- Sal_144:13nuestros g...multipliquen a millaresH6629
+- Isa_7:25que serán...para ser hollados de los gH7716
+- Isa_30:23g en aquel tiempo serán apacentados enH4735
+- Isa_32:14donde descansen asnos...g hagan majadaH5739
+- Isa_60:7todo el g de Cedar será juntado para tiH6629
+- Jer_9:10hasta no quedar...oírse bramido de gH4735
+- Jer_10:21los pastores...y todo su g se esparcióH4830
+- Jer_12:4por la maldad de los...faltaron los g yH929
+- Jer_31:12al pan, al vino, al aceite, y el g deH6629
+- Jer_33:12de pastores que hagan pastar sus gH6629
+- Jer_33:13aún pasarán g por las manos del que losH6629
+- Jer_49:29tiendas y sus g tomarán; sus cortinasH6629
+- Jer_49:32serán...multitud de sus g por despojoH4735
+- Eze_36:11multiplicaré...vosotros hombres y gH929
+- Eze_38:12se hace de g y posesiones, que mora enH4735
+- Eze_38:13para tomar g y posesiones, para tomarH4735
+- Amó_7:15Jehová me tomó de detrás del g, y meH6629
+- Sof_2:14rebaños de g harán en ella majadaH5739
+- Zac_2:4a causa de la multitud de hombres...gH929
+- Zac_11:17del pastor inútil que abandona el g![[H6629]]
+- Mat_18:15si te oyere, has g a tu hermanoG2770
+- Mat_25:20he g otros cinco talentos sobre ellosG2770
+- Mat_25:22he g otros dos talentos sobre ellosG2770
+- Luc_17:7un siervo que ara o apacienta g, alG4165
+- Luc_19:16Señor, tu mina ha g diez minasG4333
+- Jua_4:12cual bebieron él, sus hijos y sus g?[[G2353]]
+- 1Pe_3:1sean g sin palabra por la conducta deG2770

@@ -1,0 +1,124 @@
+---
+tipo: concordancia
+palabra: JONATÁN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JONATÁN
+
+- 1 Sacerdote en la tribu de Dan, Jue_18:30H3129
+- 2 Hijo del rey Saúl
+- 1Sa_13:2y mil...con J en Gabaa de BenjamínH3129
+- 1Sa_13:3J atacó a la guarnición de los filisteosH3129
+- 1Sa_13:16Saúl, pues, y J su hijo, y el puebloH3129
+- 1Sa_13:22que estaba con...con J, excepto Saúl y JH3129
+- 1Sa_14:1que J...dijo a su criado que le traía lasH3129
+- 1Sa_14:3no sabía el pueblo que J se hubiese idoH3129
+- 1Sa_14:4y entre los desfiladeros por donde JH3129
+- 1Sa_14:6dijo, pues, J a su paje...Ven, pasemos aH3083
+- 1Sa_14:8dijo...J: Vamos a pasar a esos hombresH3083
+- 1Sa_14:12respondieron a J y a...J dijo a su pajeH3129
+- 1Sa_14:13subió J trepando...caían delante de JH3129
+- 1Sa_14:14esta primera matanza que hicieron J yH3129
+- 1Sa_14:17aquí que faltaba J y su paje de armasH3129
+- 1Sa_14:21de los israelitas que estaban con...JH3129
+- 1Sa_14:27J no había oído cuando su padre habíaH3129
+- 1Sa_14:29respondió J: Mi padre ha turbado elH3129
+- 1Sa_14:39fuere en J mi hijo, de seguro moriráH3129
+- 1Sa_14:40yo y J mi hijo estaremos al otro ladoH3129
+- 1Sa_14:41y la suerte cayó sobre J y Saúl, y elH3129
+- 1Sa_14:42suertes entre mí y J mi...cayó sobre JH3129
+- 1Sa_14:43dijo a J: Declárame...Y J se lo declaróH3129
+- 1Sa_14:44me haga Dios...que sin duda morirás, JH3129
+- 1Sa_14:45¿ha de morir J, el que ha hecho estaH3129
+- 1Sa_14:45no...Así el pueblo libró de morir a JH3129
+- 1Sa_14:49los hijos de Saúl fueron J...y MalquisúaH3129
+- 1Sa_18:1el alma de J...lo amó J como a si mismoH3083
+- 1Sa_18:3e hicieron pacto J y David, porque élH3083
+- 1Sa_18:4J se quitó el manto que llevaba...lo dioH3083
+- 1Sa_19:1habló Saúl a J...y a todos sus siervosH3129
+- 1Sa_19:1J hijo de...amaba a David en gran maneraH3129
+- 1Sa_19:4J habló bien de David a Saúl su padreH3083
+- 1Sa_19:6escuchó Saúl la voz de J; y juró SaúlH3083
+- 1Sa_19:7y llamó J a David, y le declaróH3083
+- 1Sa_20:1vino delante de J, y dijo: ¿Qué he...yo?[[H3083]]
+- 1Sa_20:3tu padre sabe...y dirá: No sepa esto JH3083
+- 1Sa_20:4J dijo a David: Lo que deseare tu almaH3083
+- 1Sa_20:5David respondió a J...será nueva luna, yH3083
+- 1Sa_20:9J le dijo: Nunca tal te suceda; antesH3083
+- 1Sa_20:10dijo...David a J: ¿Quién me dará avisoH3083
+- 1Sa_20:11J dijo a David: Ven, salgamos al campoH3083
+- 1Sa_20:12dijo J a David: ¡Jehová...sea testigo![[H3083]]
+- 1Sa_20:13Jehová haga así a J, y aun le añada, siH3083
+- 1Sa_20:15no dejes que el nombre de J sea quitado
+- 1Sa_20:16así hizo J pacto con la casa de DavidH3083
+- 1Sa_20:17J hizo jurar a David otra vez, porqueH3083
+- 1Sa_20:18le dijo J: Mañana es nueva luna, y túH3083
+- 1Sa_20:25J se levantó, y se sentó Abner al ladoH3083
+- 1Sa_20:27Saúl dijo a J...¿Por qué no ha venido aH3083
+- 1Sa_20:28y J respondió a Saúl: David me pidióH3083
+- 1Sa_20:30se encendió la ira de Saúl contra JH3083
+- 1Sa_20:32J respondió a su padre Saúl y le dijoH3083
+- 1Sa_20:33entendió J...estaba resuelto a matar aH3083
+- 1Sa_20:34levantó J de la mesa con exaltada iraH3083
+- 1Sa_20:35salió J al campo, al tiempo señaladoH3083
+- 1Sa_20:37saeta que J había tirado, J dio vocesH3083
+- 1Sa_20:38y volvió a gritar J tras el muchachoH3083
+- 1Sa_20:38muchacho de J recogió las saetas, y vinoH3129
+- 1Sa_20:39J y David entendían de...se tratabaH3083
+- 1Sa_20:40dio J sus armas a su muchacho, y le dijoH3083
+- 1Sa_20:42y J dijo a David: Vete en paz, porqueH3083
+- 1Sa_20:42él se levantó...y J entró en la ciudadH3083
+- 1Sa_23:16entonces se levantó J hijo de Saúl yH3083
+- 1Sa_23:18David se quedó en Hores, y J se volvióH3083
+- 1Sa_31:2siguiendo los filisteos a...mataron a JH3083
+- 2Sa_1:4el pueblo...Saúl y J su hijo murieronH3083
+- 2Sa_1:5¿cómo sabes que han muerto Saúl y J suH3083
+- 2Sa_1:12ayunaron...por Saúl y por J su hijo, porH3083
+- 2Sa_1:17endechó David a Saúl y a J su hijo conH3083
+- 2Sa_1:22arco de J no volvía atrás, ni la espadaH3083
+- 2Sa_1:23Saúl y J, amados y...inseparables en suH3083
+- 2Sa_1:25han caído...¡J, muerto en tus alturas![[H3083]]
+- 2Sa_1:26angustia tengo por ti, hermano mío JH3083
+- 2Sa_4:4y J...tenía un hijo lisiado de los piesH3083
+- 2Sa_4:4llegó de...la noticia de la muerte de...JH3083
+- 2Sa_9:1a quien haga yo misericordia...amor de J?[[H3129]]
+- 2Sa_9:3aún ha quedado un hijo de J, lisiado deH3083
+- 2Sa_9:6vino Mefi-boset, hijo de J hijo de SaúlH3083
+- 2Sa_9:7haré contigo misericordia por amor de JH3083
+- 2Sa_21:7perdonó...a Mefi-boset hijo de J, hijoH3083
+- 2Sa_21:7el juramento...que hubo...entre David y JH3083
+- 2Sa_21:12David fue y tomó...los huesos de J suH3083
+- 2Sa_21:13hizo llevar de allí...los huesos de JH3083
+- 2Sa_21:14sepultaron los huesos de...J en tierraH3083
+- 1Cr_8:33engendró a Saúl, y Saúl engendró a JH3083
+- 1Cr_8:34hijo de J fue Merib-baal, y...a MicaíaH3083
+- 1Cr_9:39Saúl engendro a J, Malquisúa...Es-baalH3083
+- 1Cr_9:40hijo de J fue Merib-baal...engendró aH3083
+- 1Cr_10:2mataron los filisteos a J, a AbinadabH3129
+- 3 Hijo del sacerdote Abiatar
+- 2Sa_15:27Ahimaas tu hijo, y J hijo...AbiatarH3083
+- 2Sa_15:36Ahimaas el de Sadoc, y J el de AbiatarH3083
+- 2Sa_17:17J y Ahimaas estaban junto a la fuenteH3083
+- 2Sa_17:20le dijeron: ¿Dónde están Ahimaas y J?[[H3083]]
+- 1Re_1:42vino J hijo del sacerdote Abiatar, alH3083
+- 1Re_1:43J respondió y...ha hecho rey a SalomónH3083
+- 4 Sobrino de David
+- 2Sa_21:21este desafió a Israel, y lo mató JH3083
+- 1Cr_20:7lo mató J, hijo de Simea hermanoH3083
+- 5 Uno de los 30 valientes de David, 2Sa_23:32; 1Cr_11:34H3083, [[H3129]]
+- 6 Descendiente de Jerameel, 1Cr_2:32-33H3129
+- 7 Funcionario del rey David, 1Cr_27:25H3083
+- 8 Tío y consejero del rey David, 1Cr_27:32H3083
+- 9 Levita en tiempo del rey Josafat, 2Cr_17:8H3083
+- 10 Padre de Ebed No. 2, Esd_8:6H3083
+- 11 Uno que se opuso a Esdras, Esd_10:15H3083
+- 12 Sumo sacerdote, hijo de Joíada No. 6 y padre de Jadúa, Neh_12:11H3083
+- 13 Nombre de dos jefes de familia sacerdotales en tiempo de Joiacim, Neh_12:14, Neh_12:18H3083
+- 14 Padre de Zacarías No. 28, Neh_12:35H3083
+- 15 Escriba contemporáneo del profeta Jeremías
+- Jer_37:15en prisión en la casa del escriba JH3083
+- Jer_37:20no me hagas volver a casa del escriba JH3083
+- Jer_38:26que no me hiciese volver a casa de JH3129
+- 16 Capitán que se unió a Gedalías después de la deportación, Jer_40:8H3129

@@ -1,0 +1,571 @@
+---
+tipo: concordancia
+palabra: HALLAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# HALLAR
+
+- Gén_2:20mas para Adán no se halló ayuda idóneaH4672
+- Gén_4:14y cualquiera que me hallare, me mataráH4672
+- Gén_4:15no lo matase cualquiera que le hallaraH4672
+- Gén_6:8Noé halló gracia ante los ojos de JehováH4672
+- Gén_8:9no halló la paloma donde sentar...su pieH4672
+- Gén_11:2hallaron...llanura en la tierra de SinarH4672
+- Gén_16:7la halló el ángel de Jehová junto a laH4672
+- Gén_18:3si ahora he hallado gracia en tus ojosH4672
+- Gén_18:26si hallare en Sodoma cincuenta justosH4672
+- Gén_18:28no la destruiré, si hallare allí 45H4672
+- Gén_18:29quizá se hallarán allí 40 Y respondióH4672
+- Gén_18:30dijo...quizá se hallarán allí treintaH4672
+- Gén_18:30no lo haré si hallare allí treintaH4672
+- Gén_18:31y dijo...quizá se hallarán allí veinteH4672
+- Gén_18:32una vez; quizá se hallarán allí diezH4672
+- Gén_19:15toma...tus dos hijas que se hallan aquíH4672
+- Gén_19:19ha hallado vuestro siervo gracia enH4672
+- Gén_26:19hallaron allí un pozo de aguas vivasH4672
+- Gén_26:32pozo...le dijeron: Hemos hallado aguaH4672
+- Gén_27:20¿cómo es que la hallaste tan prontoH4672
+- Gén_30:14fue Rubén...y halló mandrágoras en elH4672
+- Gén_30:27hallo yo ahora gracia en tus ojos, yH4672
+- Gén_30:41cuantas veces se hallaban en celo las
+- Gén_31:32en cuyo poder hallares tus dioses, noH4672
+- Gén_31:33entró Labán en la tienda...no las hallóH4672
+- Gén_31:34buscó Labán...la tienda, y no los hallóH4672
+- Gén_31:35y él buscó, pero no halló los ídolosH4672
+- Gén_31:37¿qué has hallado de todos los enseresH4672
+- Gén_32:5envío a...para hallar gracia en tus ojosH4672
+- Gén_32:19hablaréis a Esaú, cuando le hallaréisH4672
+- Gén_33:8hallar gracia en los ojos de mi señorH4672
+- Gén_33:10no...si he hallado...gracia en tus ojosH4672
+- Gén_33:15y Jacob dijo...Halle yo gracia en losH4672
+- Gén_34:11halle yo gracia en vuestros ojos, yH4672
+- Gén_37:15lo halló un hombre, andando él erranteH4672
+- Gén_37:17José fue tras de...y los halló en DotánH4672
+- Gén_37:29Rubén volvió...y no halló a José dentro
+- Gén_37:32esto hemos hallado, reconoce ahora siH4672
+- Gén_38:20recibiese la prenda...pero no la hallóH4672
+- Gén_38:22dijo: No la he hallado; y también losH4672
+- Gén_38:23he enviado este...y tú no la hallasteH4672
+- Gén_39:4así halló José gracia en sus ojos, y leH4672
+- Gén_41:38¿acaso hallaremos a otro hombre comoH4672
+- Gén_44:8el dinero que hallamos en la boca deH4672
+- Gén_44:9aquel...en quien fuere hallada la copaH4672
+- Gén_44:10en quien se hallare será mi siervo, yH4672
+- Gén_44:12y la copa fue hallada en el costal deH4672
+- Gén_44:16ha hallado la maldad de tus siervosH4672
+- Gén_44:16-17en cuyo poder fue hallada la copaH4672
+- Gén_47:25hallemos gracia en ojos de nuestroH4672
+- Gén_47:29si he hallado ahora gracia en tus ojosH4672
+- Gén_50:4si he hallado ahora gracia en vuestrosH4672
+- Éxo_5:11id...recoged la paja donde la halléisH4672
+- Éxo_9:19todo...animal que se halle en el campoH4672
+- Éxo_12:19no se hallará levadura...vuestras casasH4672
+- Éxo_15:22anduvieron tres días...sin hallar aguaH4672
+- Éxo_16:25hoy es día de reposo...no hallaréis enH4672
+- Éxo_16:26es día de reposo; en él no se hallará
+- Éxo_16:27salieron en...a recoger, y no hallaronH4672
+- Éxo_21:16si fuere hallada en sus manos, moriréH4672
+- Éxo_22:2ladrón fuere hallado forzando una casaH4672
+- Éxo_22:4fuere hallado con el hurto en la manoH4672
+- Éxo_22:7si el ladrón fuere hallado, pagará elH4672
+- Éxo_22:8si el ladrón no fuere hallado; entoncesH4672
+- Éxo_33:12has hallado también gracia en mis ojosH4672
+- Éxo_33:13si he hallado gracia en tus ojos, teH4672
+- Éxo_33:13te conozca, y halle gracia en tus ojosH4672
+- Éxo_33:16¿y en qué se conocerá...hallado graciaH4672
+- Éxo_33:17cuanto has hallado gracia en mis ojosH4672
+- Éxo_34:9si...he hallado gracia en tus ojos, vayaH4672
+- Lev_6:3habiendo hallado lo perdido...lo negareH4672
+- Lev_6:4depósito que se le encomendó...que hallóH4672
+- Lev_10:16se halló que había sido quemado; y se
+- Núm_11:11¿y por qué no he hallado gracia enH4672
+- Núm_11:15me des muerte, si he hallado gracia enH4672
+- Núm_15:32hallaron a un hombre que recogía leñaH4672
+- Núm_15:33hallaron recogiendo leña, lo trajeronH4672
+- Núm_31:50hemos ofrecido...de lo que ha halladoH4672
+- Núm_32:5si hallamos gracia en tus ojos, deseH4672
+- Núm_35:27y el vengador de la sangre le hallareH4672
+- Deu_4:29si desde allí buscare...lo hallarásH4672
+- Deu_17:2cuando se hallare...hombre o mujer queH4672
+- Deu_18:10no sea hallado en ti quien haga pasarH4672
+- Deu_20:11el pueblo...hallado te será tributarioH4672
+- Deu_21:1fuere hallado alguien muerto, tendidoH4672
+- Deu_21:3, Deu_21:6lugar donde fuere hallado el muerto
+- Deu_22:3cosa...se le perdiere y tú la hallaresH4672
+- Deu_22:14a esta mujer tomé...no la hallé virgenH4672
+- Deu_22:17diciendo: No he hallado virgen a tu hijaH4672
+- Deu_22:20que no se halló virginidad en la jovenH4672
+- Deu_22:23alguno la hallare...se acostare con ellaH4672
+- Deu_22:25si un hombre hallare en el campo a laH4672
+- Deu_22:27él la halló en el campo; dio voces laH4672
+- Deu_22:28hombre hallare a una joven virgen queH4672
+- Deu_24:1si no le agradare por haber hallado enH4672
+- Deu_24:7fuere hallado alguno que hubiere hurtadoH4672
+- Deu_32:10le hallo en tierra de desierto, y enH4672
+- Jos_2:22buscaron por todo...no los hallaronH4672
+- Jos_10:17los cinco reyes habían sido halladosH4672
+- Jue_1:5hallaron a Adoni-bezec en...pelearonH4672
+- Jue_5:30¿no han hallado botín, y...repartiendo?[[H4672]]
+- Jue_6:17que si he hallado gracia delante de tiH4672
+- Jue_15:15y hallando una quijada de asno frescaH4672
+- Jue_20:2los jefes...se hallaron presentes en laH3320
+- Jue_20:48hirieron a...y todo lo que fue halladoH4672
+- Jue_20:48fuego a todas las ciudades que hallabanH4672
+- Jue_21:8y hallaron que ninguno de Jabes-galaad
+- Jue_21:12hallaron...400 doncellas que no habíanH4672
+- Rut_1:9os conceda Jehová que halléis descansoH4672
+- Rut_2:2pos de aquel a cuyos ojos hallare graciaH4672
+- Rut_2:10¿por qué he hallado gracia en tus ojosH4672
+- Rut_2:13mío, halle yo gracia delante de tus ojosH4672
+- 1Sa_1:18halle tu sierva gracia delante de tusH4672
+- 1Sa_9:4él pasó el monte de...y no las hallaronH4672
+- 1Sa_9:8se halla en mi mano la cuarta parte deH4672
+- 1Sa_9:11hallaron unas doncellas que salían porH4672
+- 1Sa_9:13subid, pues...porque ahora le hallaréisH4672
+- 1Sa_9:20pierde cuidado...porque se han halladoH4672
+- 1Sa_10:2hallarás dos hombres junto al sepulcroH4672
+- 1Sa_10:2las asnas...se han hallado; tu padre haH4672
+- 1Sa_10:16declaró...las asnas habían sido halladasH4672
+- 1Sa_10:21Saúl...le buscaron, pero no fue halladoH4672
+- 1Sa_12:5no habéis hallado cosa alguna en mi manoH4672
+- 1Sa_13:15contó la gente que se hallaba con élH4672
+- 1Sa_13:16y el pueblo que con ellos se hallabaH4672
+- 1Sa_13:19en toda...Israel no se hallaba herreroH4672
+- 1Sa_13:22no se halló espada...en mano de ningunoH4672
+- 1Sa_14:2y Saúl se hallaba al extremo de GabaaH3427
+- 1Sa_16:22David...ha hallado gracia en mis ojosH4672
+- 1Sa_20:3tu padre sabe...que yo he hallado graciaH4672
+- 1Sa_20:29si he hallado gracia en tus ojos...irH4672
+- 1Sa_22:2todos lo que se hallaban en amargura de
+- 1Sa_23:17no te hallará la mano de Saúl mi padreH4672
+- 1Sa_24:19porque ¿quién hallará a su enemigo, yH4672
+- 1Sa_25:8hallen...estos jóvenes gracia en tus ojosH4672
+- 1Sa_25:28mal no se ha hallado en ti en tus díasH4672
+- 1Sa_27:5dijo...Si he hallado gracia ante tus ojosH4672
+- 1Sa_29:3no he hallado falta en él desde el díaH4672
+- 1Sa_29:6que ninguna cosa mala he hallado en tiH4672
+- 1Sa_29:8¿qué has hallado en tu siervo desde elH4672
+- 1Sa_30:11hallaron en el campo a...hombre egipcioH4672
+- 1Sa_31:8hallaron a Saúl y...tres hijos tendidosH4672
+- 2Sa_1:6hallé a Saúl que se apoyaba sobre su
+- 2Sa_7:27ha hallado...valor para hacer...súplicaH4672
+- 2Sa_14:22ha entendido...que he hallado gracia enH4672
+- 2Sa_15:25si yo hallare gracia ante...Jehová, élH4672
+- 2Sa_16:4rey señor mío, halle yo gracia delanteH4672
+- 2Sa_17:12le acometeremos...en donde se hallareH4672
+- 2Sa_17:20ellos los buscaron y no los hallaronH4672
+- 2Sa_20:1se hallaba allí un hombre perverso que
+- 2Sa_20:4convócame a...y hállate tú aquí presente
+- 2Sa_20:6que halle para sí ciudades fortificadasH4672
+- 1Re_1:3hallaron a Abisag...la trajeron al reyH4672
+- 1Re_1:52si...mas si se hallare mal en él, moriráH4672
+- 1Re_11:19halló Hadad...favor delante de FaraónH6965
+- 1Re_13:14le halló sentado debajo de una encinaH4672
+- 1Re_13:28él fue, y halló el cuerpo tendido en elH4672
+- 1Re_14:13se ha hallado en él alguna cosa buenaH4672
+- 1Re_18:5a ver si acaso hallaremos hierba con queH4672
+- 1Re_18:10ha hecho jurar que no te han halladoH4672
+- 1Re_18:12a Acab, al no hallarte él, me mataráH4672
+- 1Re_19:19partiendo él de allí, halló a EliseoH4672
+- 1Re_21:20dijo a...¿Me has hallado, enemigo mío?[[H4672]]
+- 2Re_2:17buscaron tres días...no lo hallaronH4672
+- 2Re_4:39halló una como parra montés, y de ellaH4672
+- 2Re_6:20y miraron, y se hallaban en...de Samaria
+- 2Re_9:21al cual hallaron en la heredad de NabotH4672
+- 2Re_9:35no hallaron de ella mas que la calaveraH4672
+- 2Re_10:13y halló allí a los hermanos de OcozíasH4672
+- 2Re_12:5reparen los...dondequiera que se hallenH4672
+- 2Re_12:10contaban el dinero que hallaban en elH4672
+- 2Re_12:18el oro que se halló en los tesoros deH4672
+- 2Re_14:14los utensilios que fueron hallados enH4672
+- 2Re_16:8tomando Acaz...el oro que se halló en laH4672
+- 2Re_18:15dio...toda la plata que fue hallada enH4672
+- 2Re_19:8halló al rey de Asiria combatiendo contraH4672
+- 2Re_22:8hallado el libro de la ley en la casa deH4672
+- 2Re_22:9han recogido el dinero que se halló enH4672
+- 2Re_22:13acerca de...este libro que se ha halladoH4672
+- 2Re_23:2libro del pacto que había sido halladoH4672
+- 2Re_23:24el libro que el...Hilcías había halladoH4672
+- 1Cr_4:40y hallaron gruesos y buenos pastosH4672
+- 1Cr_4:41desbarataron...cabañas que allí hallaronH4672
+- 1Cr_10:8hallaron a Saúl y a sus hijos tendidosH4672
+- 1Cr_17:25ha hallado tu siervo motivo para orarH4672
+- 1Cr_20:2corona...la halló de peso de un talentoH4672
+- 1Cr_26:31hallados entre ellos hombres fuertes yH4672
+- 1Cr_28:9si tú le buscares, lo hallarás, mas siH4672
+- 2Cr_2:17hombres extranjeros...fueron halladosH4672
+- 2Cr_5:11todos los sacerdotes que se hallaronH4672
+- 2Cr_15:2le buscareis, será hallado de vosotrosH4672
+- 2Cr_15:4y le buscaron, él fue hallado de ellosH4672
+- 2Cr_15:15lo buscaban, y fue hallado de ellosH4672
+- 2Cr_19:3pero se han hallado en ti buenas cosasH4672
+- 2Cr_20:16ellos...los hallaréis junto al arroyoH4672
+- 2Cr_20:25hallaron entre los cadáveres...riquezasH4672
+- 2Cr_21:17bienes que hallaron en la casa del reyH4672
+- 2Cr_22:8halló a los príncipes de Judá, y a losH4672
+- 2Cr_22:9lo hallaron y lo trajeron a Jehu, y leH3920
+- 2Cr_25:5fueron hallados 300.000 escogidos paraH4672
+- 2Cr_25:24los utensilios que se hallaron en la casa de DiosH4672
+- 2Cr_29:16sacaron toda la inmundicia que hallaronH4672
+- 2Cr_30:9hallarán misericordia delante de los que
+- 2Cr_32:4¿por qué han de hallar los...muchas aguasH4672
+- 2Cr_34:14Hilcías halló el libro de la ley de laH4672
+- 2Cr_34:15yo he hallado el libro de la ley en laH4672
+- 2Cr_34:17han reunido el dinero que se halló enH4672
+- 2Cr_34:21palabras del libro que se ha halladoH4672
+- 2Cr_34:30del libro...que había sido hallado enH4672
+- 2Cr_34:33todos los que se hallaban en IsraelH4672
+- 2Cr_35:7para todos los que se hallaron presentesH4672
+- 2Cr_35:18celebró pascua tal...los que se hallaronH4672
+- 2Cr_36:8hechos de Joacim...lo que en él se hallóH4672
+- Esd_2:62éstos buscaron su...y no fue halladoH4672
+- Esd_4:15hallarás en el libro de las memoriasH7912
+- Esd_4:19hallaron...se levanta contra los reyesH7912
+- Esd_6:2fue hallado en Acmeta, en el palacio queH7912
+- Esd_7:16el oro que halles en toda la provinciaH7912
+- Esd_8:15reuní...no hallé allí de los hijos de LevíH4672
+- Esd_10:18fueron hallados estos: De los hijos deH4672
+- Neh_2:5tu siervo ha hallado gracia delante deH3190
+- Neh_7:5hallé el libro de la genealogía de losH4672
+- Neh_7:64buscaron su registro de...y no se hallóH4672
+- Neh_8:14hallaron escrito en la ley que JehováH4672
+- Neh_9:8y hallaste fiel su corazón delante de tiH4672
+- Neh_13:1fue hallado escrito...que los amonitasH4672
+- Est_2:9y halló gracia delante de él, por loH5375
+- Est_2:17y hallo ella gracia...delante de él másH5375
+- Est_2:23hizo investigación...fue hallado ciertoH4672
+- Est_4:16reúne a...judíos que se hallan en SusaH4672
+- Est_5:8he hallado gracia ante los ojos del reyH4672
+- Est_6:2entonces hallaron escrito que MardoqueoH4672
+- Est_7:3si he hallado gracia en tus ojos, y si alH4672
+- Est_8:5si he hallado gracia delante de él, y siH4672
+- Job_3:22se gozan cuando hallan el sepulcro?[[H4672]]
+- Job_6:20vinieron hasta...y se hallaron confusos
+- Job_15:9¿qué entiendes tú que no se halle en
+- Job_17:10venid...no hallaré entre vosotros sabiosH4672
+- Job_19:28que la raíz del asunto se halla en míH4672
+- Job_20:8como sueño volará, y no será halladoH4672
+- Job_23:3¡quién me diera...dónde hallar a Dios![[H4672]]
+- Job_23:8iré al oriente, y no lo hallaré; y al
+- Job_28:12mas ¿dónde se hallará la sabiduría?[[H4672]]
+- Job_28:13no conoce su valor...ni se halla en laH4672
+- Job_31:25alegré...de que mi mano hallase muchoH4672
+- Job_31:29si...me regocijé cuando le halló el malH4672
+- Job_32:3tres amigos...no hallaban qué responderH4672
+- Job_32:13nosotros hemos hallado sabiduría; loH4672
+- Job_33:24que lo libró de...que halló redenciónH4672
+- Sal_10:15persigue la...que no halles ningunaH4672
+- Sal_17:3puesto a prueba, y nada inicuo hallasteH4672
+- Sal_32:6en el tiempo en que puedas ser halladoH4672
+- Sal_36:2de que su iniquidad no será hallada yH4672
+- Sal_37:36él pasó, y...lo busqué, y no fue halladoH4672
+- Sal_59:15anden...errantes para hallar qué comer
+- Sal_69:20esperé...consoladores, y ninguno halléH4672
+- Sal_84:3el gorrión halla casa, y la golondrinaH4672
+- Sal_89:20hallé a David mi siervo; lo ungí conH4672
+- Sal_107:4perdidos...sin hallar ciudad en dondeH4672
+- Sal_116:3Seol; angustia y dolor había yo halladoH4672
+- Sal_119:162como el que halla muchos despojosH4672
+- Sal_132:5halle lugar para Jehová, morada paraH4672
+- Sal_132:6lo hallamos en los campos del bosqueH4672
+- Pro_1:13hallaremos riquezas de toda claseH4672
+- Pro_1:28me buscarán de mañana, y no me hallaránH4672
+- Pro_2:5y hallarás el conocimiento de DiosH4672
+- Pro_3:4y hallarás gracia y buena opinión anteH4672
+- Pro_3:13bienaventurado el hombre que halla laH4672
+- Pro_4:22porque son vida a los que las hallanH4672
+- Pro_6:33heridas y vergüenza hallará, y...afrentaH4672
+- Pro_7:15buscando...tu rostro, y te ha halladoH4672
+- Pro_8:9rectas...a los que han hallado sabiduríaH4672
+- Pro_8:12yo, la...hallo la ciencia de los consejosH4672
+- Pro_8:17y me hallan los que temprano me buscanH4672
+- Pro_8:35porque el que me halle, hallará la vidaH4672
+- Pro_10:13en los labios del prudente se hallaH4672
+- Pro_13:2el alma de los prevaricadores hallará
+- Pro_14:6busca...la sabiduría y no la halla; masH4672
+- Pro_14:7en él no hallarás labios de cienciaH3045
+- Pro_16:20el entendido en la palabra hallará elH4672
+- Pro_16:31honra es la vejez que se halla en elH4672
+- Pro_17:8el que lo practica...halla prosperidad
+- Pro_17:20el perverso de...nunca hallará el bienH4672
+- Pro_18:22que halla esposa h el bien, y alcanzaH4672
+- Pro_19:7buscará la palabra, y no la hallaráH3808
+- Pro_19:8guarda la inteligencia hallará el bienH4672
+- Pro_20:4pedirá, pues, en la siega, y no hallará
+- Pro_20:6hombre de verdad, ¿quién lo hallará?[[H4672]]
+- Pro_21:10su prójimo no halla favor en sus ojos
+- Pro_21:21que sigue la justicia...hallará la vidaH4672
+- Pro_24:14si la hallares tendrás recompensa, yH4672
+- Pro_25:16¿hallaste miel? Come lo que te bastaH4672
+- Pro_28:23el que reprende...hallará...mayor graciaH4672
+- Pro_30:6te reprenda, y seas hallado mentirosoH3576
+- Pro_31:10mujer virtuosa, ¿quién la hallará?[[H4672]]
+- Ecl_7:14que el hombre nada halle después de élH4672
+- Ecl_7:24y lo muy profundo, ¿quién lo hallará?[[H4672]]
+- Ecl_7:26he hallado más amarga que la muerte aH4672
+- Ecl_7:27que esto he hallado, dice el PredicadorH4672
+- Ecl_7:27pesando las cosas...para hallar la razónH4672
+- Ecl_7:28hombre...he hallado...mujer...nunca halléH4672
+- Ecl_7:29hallado: que Dios hizo al hombre rectoH4672
+- Ecl_8:17por mucho que trabaje el...no la hallaráH4672
+- Ecl_9:15se halla en ella un hombre pobre, sabioH4672
+- Ecl_11:1aún después de muchos días lo hallarásH4672
+- Ecl_12:10procuró...hallar palabras agradables, yH4672
+- Cnt_3:1-2al que ama...busqué, y no lo halléH4672
+- Cnt_3:3hallaron los guardas que rondan la ciudadH4672
+- Cnt_3:4hallé luego al que ama mi alma; lo asíH4672
+- Cnt_5:6lo busqué, y no lo hallé; lo llamé, y noH4672
+- Cnt_5:7hallaron los guardas que rondan la ciudadH4672
+- Cnt_5:8halléis a mi amado...que le hagáis saberH4672
+- Cnt_8:1entonces, hallándole fuera, te besaríaH4672
+- Cnt_8:10fui en sus ojos como la que halla pazH4672
+- Isa_10:10halló mi mano los reinos de...ídolosH4672
+- Isa_10:14halló mi mano como nido las riquezasH4672
+- Isa_13:15cualquiera que sea hallado...alanceadoH4672
+- Isa_22:3todos los que en ti se hallaron, fueronH4672
+- Isa_29:8cuando despierta, se halla cansado y sediento
+- Isa_30:14entre los pedazos no se halla tiestoH4672
+- Isa_34:14la lechuza...y hallará para sí reposoH4672
+- Isa_35:9ni allí se hallará, para que caminen losH4672
+- Isa_37:8halló al rey de Asiria que combatíaH4672
+- Isa_39:2todo lo que se hallaba en sus tesorosH4672
+- Isa_41:12que tienen contienda...no los hallarásH4672
+- Isa_50:2no hallé a nadie, y cuando llamé, nadie
+- Isa_51:3se hallará en ella alegría y...alabanzaH4672
+- Isa_55:6buscad a Jehová mientras puede...halladoH4672
+- Isa_57:10hallaste nuevo vigor en tu mano, porH4672
+- Isa_65:1fui hallado por los que no me buscabanH4672
+- Isa_65:8si alguno hallase mosto en un racimoH4672
+- Jer_2:5¿qué maldad hallaron en mí vuestrosH4672
+- Jer_2:24en el tiempo de su celo la hallaránH4672
+- Jer_2:33qué adornas tu camino para hallar amor?[[H1245]]
+- Jer_2:34no los hallaste en ningún delito; sinH4672
+- Jer_2:34aun en tus faldas se halló la sangre deH4672
+- Jer_5:1buscad...a ver si halláis hombre, si hayH4672
+- Jer_5:26fueron hallados en mi pueblo impíosH4672
+- Jer_6:16y hallaréis descanso para vuestra almaH4672
+- Jer_11:9conspiración se ha hallado entre...de JudáH4672
+- Jer_14:3no hallaron agua; volvieron con...vacíasH4672
+- Jer_15:16fueron halladas tus palabras...las comíH4672
+- Jer_23:11aun en mi casa hallé su maldad, diceH4672
+- Jer_29:13me buscaréis y me hallaréis, porque meH4672
+- Jer_29:14seré hallado por vosotros, dice JehováH4672
+- Jer_31:2el pueblo...halló gracia en el desiertoH4672
+- Jer_41:8fueron hallados diez hombres que dijeronH4672
+- Jer_41:12lo hallaron junto al gran estanque queH4672
+- Jer_45:3fatigado estoy...no he hallado descansoH4672
+- Jer_50:7los que los hallaban, los devorabanH4672
+- Jer_50:20los pecados de Judá, y no se hallaránH4672
+- Jer_50:24fuiste hallada, y aun presa, porqueH4672
+- Jer_52:25hombres del pueblo...se hallaron dentroH4672
+- Lam_1:3ella habitó entre...y no halló descansoH4672
+- Lam_1:6fueron como ciervos que no hallan pastoH4672
+- Lam_2:9sus profetas tampoco hallaron visión deH4672
+- Lam_2:16día...lo hemos hallado, lo hemos vistoH4672
+- Eze_2:6aunque te hallas entre zarzas y espinos
+- Eze_3:1hijo de hombre, come lo que hallas; comeH4672
+- Eze_22:30busqué entre ellos hombre...no lo halléH4672
+- Eze_26:21serás buscada, y nunca...serás halladaH4672
+- Eze_27:27compañía que en medio de ti se halla
+- Eze_28:15eras...hasta que se halló en ti maldadH4672
+- Dan_1:19no fueron hallados...otros como DanielH4672
+- Dan_1:20los halló diez veces mejores que todosH4672
+- Dan_2:25he hallado un varón de los deportados deH7912
+- Dan_5:11se halló en él luz e inteligencia yH7912
+- Dan_5:12hallado en él mayor espíritu y cienciaH7912
+- Dan_5:14que en ti se halló luz, entendimiento yH7912
+- Dan_5:27pesado has sido...y fuiste hallado faltoH7912
+- Dan_6:4no podían hallar ocasión alguna o faltaH7912
+- Dan_6:4ningún vicio ni falta fue hallado en élH7912
+- Dan_6:5no hallaremos contra este Daniel ocasiónH7912
+- Dan_6:5si no la hallamos...en relación con la leyH7912
+- Dan_6:11y hallaron a Daniel orando y rogando enH7912
+- Dan_6:22porque ante él fui hallado inocenteH7912
+- Dan_6:23ninguna lesión se halló en él, porqueH7912
+- Dan_11:19tropezará y caerá, y no será halladoH4672
+- Dan_12:1los que se hallen escritos en el libroH4672
+- Ose_2:6la cercaré...y no hallará sus caminosH4672
+- Ose_2:7seguirá a sus amantes...y no los hallaráH4672
+- Ose_5:6buscando a Jehová, y no le hallarán; seH4672
+- Ose_9:10como uvas en el desierto hallé a IsraelH4672
+- Ose_10:2ahora serán hallados culpables; JehováH816
+- Ose_12:4en Bet-el le halló, y allí habló conH4672
+- Ose_12:8Efraín dijo...he hallado riquezas para míH4672
+- Ose_12:8nadie hallará iniquidad en mí, ni pecadoH4672
+- Ose_14:8seré a él...de mí será hallado tu frutoH4672
+- Amó_8:12buscando palabra de...no la hallaránH4672
+- Jon_1:3halló una nave que partía para TarsisH4672
+- Miq_1:13se hallaron las rebeliones de IsraelH4672
+- Miq_5:12destruiré...no se hallarán en ti agoreros
+- Sof_3:13ni en boca...hallará lengua engañosaH4672
+- Hag_1:9buscáis...y halláis poco; y encerráis
+- Mal_2:6iniquidad no fue hallada en sus labiosH4672
+- Mat_1:18halló que había concebido del EspírituG2147
+- Mat_2:8cuando le halléis, hacédmelo saber, paraG2147
+- Mat_7:7pedid, y se os dará; buscad, y hallaréisG2147
+- Mat_7:8el que busca, halla; y al que llama, seG2147
+- Mat_7:14la vida, y pocos son los que la hallanG2147
+- Mat_8:10que ni aun en Israel he hallado tanta feG2147
+- Mat_10:39el que halla su vida, la perderá; y elG2147
+- Mat_10:39el que pierde su vida por...la hallaráG2147
+- Mat_11:6bienaventurado el que no halle tropiezo
+- Mat_11:29hallaréis descanso para vuestras almasG2147
+- Mat_12:43anda...buscando reposo, y no lo hallaG2147
+- Mat_12:44y cuando llega, la halla desocupadaG2147
+- Mat_13:44el cual un hombre halla, y lo escondeG2147
+- Mat_13:46que habiendo hallado una perla...fue yG2147
+- Mat_16:25el que pierda su vida por...la hallaráG2147
+- Mat_17:27hallarás un estantero; tómalo, y dáseloG2147
+- Mat_18:28halló a uno de sus consiervos, que leG2147
+- Mat_20:6halló a otros que estaban desocupadosG2147
+- Mat_21:2hallaréis una asna atada, y un pollino oG2147
+- Mat_21:19y no halló nada en ella, sino hojasG2147
+- Mat_22:9id...llamad a las bodas a cuantos halléisG2147
+- Mat_22:10juntaron a todos los que hallaronG2147
+- Mat_24:46su señor venga, le halle haciendo asíG2147
+- Mat_26:40y los halló durmiendo, y dijo a PedroG2147
+- Mat_26:43vino otra vez y los halló durmiendoG2147
+- Mat_26:60no lo hallaron, aunque muchos testigosG2147
+- Mat_27:32hallaron a un hombre de Cirene que seG2147
+- Mar_1:37y hallándole, le dijeron: Todos teG2147
+- Mar_7:30halló que el demonio había salido, y aG2147
+- Mar_11:2hallaréis un pollino atado, en el cualG2147
+- Mar_11:4hallaron el pollino atado afuera a laG2147
+- Mar_11:13a ver si tal vez hallaba en ella algoG2147
+- Mar_11:13cuando llegó a ella, nada halló sinoG2147
+- Mar_13:36que cuando venga...no os halle durmiendoG2147
+- Mar_14:16fueron...hallaron como les había dichoG2147
+- Mar_14:37vino luego y los halló durmiendo; y dijoG2147
+- Mar_14:40los halló durmiendo, porque los ojos deG2147
+- Mar_14:55buscaban testimonio...no lo hallabanG2147
+- Luc_1:30has hallado gracia delante de DiosG2147
+- Luc_2:12hallaréis al niño envuelto en pañalesG2147
+- Luc_2:16vinieron...y hallaron a María y a José, yG429
+- Luc_2:45no le hallaron, volvieron a JerusalénG2147
+- Luc_2:46días después le hallaron en el temploG2147
+- Luc_4:17halló el lugar donde estaba escritoG2147
+- Luc_5:19no hallando cómo hacerlo a causa de laG2147
+- Luc_6:7sanaría, a fin de hallar de que acusarleG2147
+- Luc_7:9que ni aun en Israel he hallado tanta feG2147
+- Luc_7:10hallaron sano al siervo...estado enfermoG2147
+- Luc_7:23es aquel que no halle tropiezo en mí
+- Luc_8:35hallaron al hombre de quien...salido losG2147
+- Luc_9:36cuando cesó la...Jesús fue hallado soloG2147
+- Luc_11:9buscad, y hallaréis; llamad, y se osG2147
+- Luc_11:10y el que busca, halla: y al que llamaG2147
+- Luc_11:24buscando reposo; y no hallándolo, diceG2147
+- Luc_11:25y cuando llega, la halla barrida yG2147
+- Luc_12:37a los cuales su señor...halle velandoG2147
+- Luc_12:38si los hallare así, bienaventuradosG2147
+- Luc_12:43su señor venga, le halle haciendo asíG2147
+- Luc_13:6vino a buscar fruto en...y no lo hallóG2147
+- Luc_13:7que vengo a buscar fruto...no lo halloG2147
+- Luc_15:24hijo...se había perdido, y es halladoG2147
+- Luc_15:32este...se había perdido, y es halladoG2147
+- Luc_18:8cuando venga...¿hallará fe en la tierraG2147
+- Luc_19:30al entrar...hallaréis un pollino atadoG2147
+- Luc_19:32fueron los...y hallaron como les dijoG2147
+- Luc_19:48no hallaban nada que pudieran hacerleG2147
+- Luc_22:13fueron...hallaron como les había dichoG2147
+- Luc_22:45a sus discípulos, los halló durmiendoG2147
+- Luc_23:2a éste hemos hallado que pervierte a laG2147
+- Luc_23:4dijo...Ningún delito hallo en este hombreG2147
+- Luc_23:14no he hallado en este hombre delitoG2147
+- Luc_23:22ningún delito digno...he hallado en élG2147
+- Luc_24:2hallaron removida la piedra del sepulcroG2147
+- Luc_24:3no hallaron el cuerpo del Señor JesúsG2147
+- Luc_24:23como no hallaron su cuerpo, vinieronG2147
+- Luc_24:24hallaron así como las mujeres habíanG2147
+- Luc_24:33hallaron a los once reunidos, y a losG2147
+- Jua_1:41éste halló primero a su hermano SimónG2147
+- Jua_1:41le dijo: Hemos hallado al Mesías (queG2147
+- Jua_1:43y halló a Felipe, y le dijo: SíguemeG2147
+- Jua_1:45Felipe halló a Natanael, y le dijoG2147
+- Jua_1:45hemos hallado a aquel de quien escribióG2147
+- Jua_2:14y halló en el templo a los que vendíanG2147
+- Jua_5:14después le halló Jesús en el templo, yG2147
+- Jua_6:25hallándole...le dijeron: Rabí, ¿cuándoG2147
+- Jua_7:34, Jua_7:36me buscaréis, y no me hallaréis; y aG2147
+- Jua_7:35¿adónde se irá éste...no le hallemos?[[G2147]]
+- Jua_8:37mi palabra no halla cabida en vosotrosG5562
+- Jua_9:35y hallándole, le dijo: ¿Crees tú en elG2147
+- Jua_10:9y entrará, y saldrá, y hallará pastosG2147
+- Jua_11:17y halló que hacía ya cuatro días queG2147
+- Jua_12:14halló Jesús un asnillo, y montó sobreG2147
+- Jua_18:38dijo: Yo no hallo en él ningún delitoG2147
+- Jua_19:4entendáis que ningún delito hallo en élG2147
+- Jua_19:6tomadle...porque yo no hallo delito en élG2147
+- Jua_21:6les dijo: Echad la red a la...y hallaréisG2147
+- Hec_4:21hallando ningún modo de castigarlesG2147
+- Hec_5:10entraron los jóvenes, la hallaron muertaG2147
+- Hec_5:22alguaciles, no los hallaron en la cárcelG2147
+- Hec_5:23la cárcel hemos hallado cerrada con todaG2147
+- Hec_5:23cuando abrimos, a nadie hallamos dentroG2147
+- Hec_5:39no seáis tal vez hallados luchando contra DiosG2147
+- Hec_7:11nuestros padres no hallaban alimentosG2147
+- Hec_7:46halló gracia delante de Dios, y pidióG2147
+- Hec_9:2si hallase algunos hombres o mujeres deG2147
+- Hec_9:33halló allí a uno que se llamaba EneasG2147
+- Hec_10:27halló a muchos que se habían reunidoG2147
+- Hec_11:25y hallándole, le trajo a AntioquíaG2147
+- Hec_12:19mas...habiéndole buscado sin hallarleG2147
+- Hec_13:6hallaron a cierto mago, falso profetaG2147
+- Hec_13:22he hallado a David hijo de Isaí, varónG2147
+- Hec_13:28sin hallar en él causa digna de muerteG2147
+- Hec_17:6pero no hallándolos, trajeron a JasónG2147
+- Hec_17:23hallé...un altar en el cual estaba estaG2147
+- Hec_17:27busquen a...palpando, puedan hallarleG2147
+- Hec_18:2hallo a un judío llamado Aquila...PontoG2147
+- Hec_19:1vino...y hallando a ciertos discípulosG2147
+- Hec_19:19hallaron que era cincuenta mil piezasG2147
+- Hec_21:2hallando un barco que pasaba a FeniciaG2147
+- Hec_21:4hallados los discípulos, nos quedamosG429
+- Hec_21:18y se hallaban reunidos todos los ancianos
+- Hec_23:9ningún mal hallamos en este hombre; queG2147
+- Hec_23:29hallé que le acusaban por cuestiones de
+- Hec_24:5hemos hallado que este hombre es unaG2147
+- Hec_24:12no me hallaron disputando con ningunoG2147
+- Hec_24:18me hallaron purificado en el templo, noG2147
+- Hec_24:20digan...si hallaron en mí alguna cosaG2147
+- Hec_25:25yo, hallando que ninguna cosa digna deG2638
+- Hec_27:6y hallando allí el centurión una naveG2147
+- Hec_27:28hallaron veinte brazas; y...h quinceG2147
+- Hec_28:14habiendo hallado hermanos, nos rogaronG2147
+- Rom_4:1qué diremos que halló Abraham nuestroG2147
+- Rom_7:10hallé que el mismo mandamiento que eraG2147
+- Rom_7:21queriendo yo hacer el bien, hallo estaG2147
+- Rom_10:20fui hallado de los que no me buscabanG2147
+- 1Co_4:2requiere...cada uno sea hallado fielG2147
+- 1Co_15:15y somos hallados falsos testigos deG2147
+- 2Co_2:13por no haber hallado a mi hermanoG2147
+- 2Co_5:3pues así seremos hallados vestidos, y noG2147
+- 2Co_9:4macedonios, y os hallaren desprevenidosG2147
+- 2Co_11:12sean hallados semejantes a nosotrosG2147
+- 2Co_12:20me temo...no os halle tales como quieroG2147
+- 2Co_12:20sea hallado de vosotros cual no queréisG2147
+- Gál_2:17si buscando...somos hallados pecadoresG2147
+- Flp_3:9y ser hallado en él, no teniendo miG2147
+- 2Ti_1:17me buscó solícitamente y me hallóG2147
+- 2Ti_1:18concédale...que halle misericordia cercaG2147
+- Heb_4:16hallar gracia para el oportuno socorroG2147
+- Heb_11:5no fue hallado porque lo traspuso DiosG2147
+- Stg_1:2tened por sumo gozo cuando os halléisG4045
+- 1Pe_1:7vuestra fe...sea hallada en alabanzaG2147
+- 1Pe_2:22pecado, ni se halló engaño en su bocaG2147
+- 2Pe_3:14ser hallados por él sin mancha eG2147
+- 2Jn_1:4hallado a algunos de tus hijos andandoG2147
+- Rev_2:2se dicen...y los has hallado mentirososG2147
+- Rev_3:2porque no he hallado tus obras perfectasG2147
+- Rev_5:4no se había hallado a ninguno digno deG2147
+- Rev_9:6buscarán la muerte, pero no la hallaránG2147
+- Rev_12:8ni se halle ya lugar para ellos en elG2147
+- Rev_14:5y en sus bocas no fue hallada mentiraG2147
+- Rev_16:20huyó, y los montes no fueron halladosG2147
+- Rev_18:14han faltado, y nunca más las hallarásG2147
+- Rev_18:21será derribada...nunca más será halladaG2147
+- Rev_18:22ningún artífice...se hallará más en tiG2147
+- Rev_18:24en ella se halló la sangre de...santosG2147
+- Rev_20:15el que no se halló inscrito en el libroG2147
+- Rev_21:16la ciudad se halla establecida en cuadroG2749

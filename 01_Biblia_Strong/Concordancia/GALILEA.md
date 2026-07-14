@@ -1,0 +1,78 @@
+---
+tipo: concordancia
+palabra: GALILEA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# GALILEA
+
+- Región en el norte de Palestina
+- Jos_20:7señalaron a Cedes en g, en el monteH1551
+- Jos_21:32Cedes en G, con sus ejidos...ciudad deH1551
+- 1Re_9:11dio...veinte ciudades en tierra de GH1551
+- 2Re_15:29tomó a...G,y...la tierra de NeftalíH1551
+- 1Cr_6:76Cedes en G con sus ejidos, Hamón conH1551
+- Isa_9:1llenará de gloria...en G de los gentilesH1551
+- Mat_2:22pero avisado...se fue a la región de GG1056
+- Mat_3:13Jesús vino de G a Juan al Jordán, paraG1056
+- Mat_4:12oyó que Juan estaba preso, volvió a GG1056
+- Mat_4:15camino del mar, al...G de los gentilesG1056
+- Mat_4:18andando Jesús junto al mar de G, vio aG1056
+- Mat_4:23recorrió Jesús toda G, enseñando en lasG1056
+- Mat_4:25y le siguió mucha gente de G, de...JudeaG1056
+- Mat_15:29pasó Jesús...y vino junto al mar de GG1056
+- Mat_17:22estando ellos en G, Jesús les dijo: ElG1056
+- Mat_19:1se alejó de G, y fue a las regiones deG1056
+- Mat_21:11decía: Este es Jesús...de Nazaret de GG1056
+- Mat_26:32después que haya resucitado, iré...a GG1056
+- Mat_27:55cuales habían seguido a Jesús desde GG1056
+- Mat_28:7he aquí va delante de vosotros a G; allíG1056
+- Mat_28:10para que vayan a G, y allí me veránG1056
+- Mat_28:16pero los once discípulos se fueron a GG1056
+- Mar_1:9que Jesús vino de Nazaret de G, y fueG1056
+- Mar_1:14Jesús vino a G predicando el evangelioG1056
+- Mar_1:16andando junto al mar de G, vio a SimónG1056
+- Mar_1:28se difundió su fama por...alrededor de GG1056
+- Mar_1:39y predicaba...en toda G, y echaba fueraG1056
+- Mar_3:7se retiró...y le siguió gran multitud de GG1056
+- Mar_6:21daba una cena a...los principales de GG1056
+- Mar_7:31vino por Sidón al mar de G, pasando porG1056
+- Mar_9:30caminaron por G; y no quería que nadieG1056
+- Mar_14:28después, iré delante de vosotros a GG1056
+- Mar_15:41cuando él estaba en G, le seguían y leG1056
+- Mar_16:7id, decid...él va delante de vosotros a GG1056
+- Luc_1:26Gabriel fue enviado...una ciudad de GG1056
+- Luc_2:4José subió de G...a la ciudad de DavidG1056
+- Luc_2:39volvieron a G, a su ciudad de NazaretG1056
+- Luc_3:1siendo...Herodes tetrarca de G, y...FelipeG1056
+- Luc_4:14volvió en el poder del Espíritu a G, yG1056
+- Luc_4:31descendió...a Capernaum, ciudad de GG1056
+- Luc_4:44y predicaba en las sinagogas de GG1056
+- Luc_5:17habían venido de todas las aldeas de GG1056
+- Luc_8:26los gadarenos...en la ribera opuesta a GG1056
+- Luc_17:11yendo Jesús...pasaba entre Samaria y GG1056
+- Luc_23:5por toda Judea, comenzando desde G hastaG1056
+- Luc_23:6oyendo decir, G, preguntó si el hombreG1056
+- Luc_23:49mujeres que le habían seguido desde GG1056
+- Luc_23:55las mujeres que habían venido...desde GG1056
+- Luc_24:6que os habló, cuando aún estaban en GG1056
+- Jua_1:43el siguiente día quiso Jesús ir a GG1056
+- Jua_2:1día se hicieron unas bodas en Caná de GG1056
+- Jua_2:11de señales hizo Jesús en Caná de G, yG1056
+- Jua_4:3salió de Judea, y se fue otra vez a GG1056
+- Jua_4:43días después, salió de allí y fue a GG1056
+- Jua_4:45vino a G, los galileos le recibieronG1056
+- Jua_4:46vino, pues, Jesús otra vez a Caná de GG1056
+- Jua_4:47oyó que Jesús había llegado de Judea a GG1056
+- Jua_4:54señal hizo Jesús, cuando fue de Judea a GG1056
+- Jua_6:1Jesús fue al otro lado del mar de G, elG1056
+- Jua_7:1andaba Jesús en G; pues no quería andarG1056
+- Jua_7:9habiéndoles dicho esto, se quedó en GG1056
+- Jua_7:41decían: ¿De G ha de venir el Cristo?[[G1056]]
+- Jua_7:52que de G nunca se ha levantado profetaG1056
+- Jua_12:21a Felipe, que era de Betsaida de G, yG1056
+- Jua_21:2estaban...Natanael el de Caná de G, losG1056
+- Hec_9:31las iglesias tenían paz...G y SamariaG1056
+- Hec_10:37divulgó por...Judea, comenzando desde GG1056
+- Hec_13:31a los que habían subido...con él de GG1056

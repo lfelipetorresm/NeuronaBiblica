@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: LONGITUD
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LONGITUD
+
+- Gén_6:15la harás: de 300 codos la l del arcaH753
+- Éxo_25:10un arca...l será de dos codos y medioH753
+- Éxo_25:17propiciatorio...l será de dos codos yH753
+- Éxo_25:23mesa de madera...su l será de dos codosH753
+- Éxo_26:2la l de una cortina de 28 codos, y laH753
+- Éxo_26:8la l de cada cortina será de 30 codosH753
+- Éxo_26:16la l de cada tabla será de diez codosH753
+- Éxo_27:1altar...de cinco codos de l, y de cincoH753
+- Éxo_27:9, Éxo_27:11cortinas de cien codos de lH753
+- Éxo_27:18la l del atrio será de cien codos, y laH753
+- Éxo_30:2su l será de un codo, y su anchura deH753
+- Éxo_36:9la l de una cortina era de 28 codos, yH753
+- Éxo_36:15la l de una cortina era de 30 codos, yH753
+- Éxo_36:21la l de cada tabla era de diez codosH753
+- Éxo_37:1el arca...su l era de dos codos y medioH753
+- Éxo_37:6su l de dos codos y medio, y su anchuraH753
+- Éxo_37:10la mesa...su l de dos codos, su anchuraH753
+- Éxo_37:25el altar...un codo su l, y de otro codoH753
+- Éxo_38:1altar...su l de cinco codos, y su anchuraH753
+- Éxo_38:18era de veinte codos de l, y su anchuraH753
+- Éxo_39:9su l era de un palmo, y de un palmo suH753
+- Deu_3:11la l de ella es de nueve codos, y suH753
+- 1Re_7:2la casa del bosque...cien codos de lH753
+- 1Re_7:27la l de cada basa de cuatro codos, y laH753
+- 2Cr_3:3la casa de Dios...la l, de 60 codosH753
+- 2Cr_3:8lugar santísimo, cuya l era de 20 codosH753
+- 2Cr_3:11l de las alas de los...era de 20 codosH753
+- 2Cr_4:1hizo además un altar...de 20 codos de lH753
+- Eze_40:11y la l del portal, de trece codosH753
+- Eze_40:18en proporción a la l de los portalesH753
+- Eze_40:20de la puerta...midió su l y su anchuraH753
+- Eze_40:21cincuenta codos de l, y veinticinco deH753
+- Eze_40:25la l era de cincuenta codos, y el anchoH753
+- Eze_40:29, Eze_40:33, Eze_40:36la l era de cincuenta codos, y deH753
+- Eze_40:42un codo y medio de l, y codo y medio deH753
+- Eze_40:47midió el atrio, cien codos de l, y cienH753
+- Eze_40:49la l del pórtico, veinte codos, y elH753
+- Eze_41:2y midió su l, de cuarenta codos, y laH753
+- Eze_41:4midió también su l, de veinte codos, yH753
+- Eze_41:13el edificio y sus...de cien codos de lH753
+- Eze_41:15y midió la l del edificio que estabaH753
+- Eze_41:22su l de dos codos; y sus esquinas, suH753
+- Eze_42:2su l era de cien codos, y el ancho deH753
+- Eze_42:8la l de las cámaras...de cincuenta codosH753
+- Eze_42:11tanto su l como su ancho eran lo mismoH753
+- Eze_42:20tenía un muro...de quinientas cañas de lH753
+- Eze_43:17el descanso era de catorce codos de lH753
+- Eze_45:1l de veinticinco mil cañas y diez milH753
+- Eze_45:2para el santuario quinientas cañas de l
+- Eze_45:3medirás en l veinticinco mil cañas, yH753
+- Eze_45:5veinticinco mil cañas de l y diez milH753
+- Eze_45:6de la ciudad señalaréis...y 25.000 de lH753
+- Eze_45:7y la l será desde el límite occidentalH753
+- Eze_46:22había patios...de cuarenta codos de lH753
+- Eze_48:8l como cualquiera de las otras partesH753
+- Eze_48:9de l veinticinco mil cañas, y diez milH753
+- Eze_48:10de veinticinco mil de l al sur; y elH753
+- Eze_48:13será de veinticinco mil cañas de l, yH753
+- Eze_48:13la l de veinticinco mil, y la anchuraH753
+- Eze_48:18y lo que quedare de l delante de laH753
+- Zac_2:2para ver...su anchura, y cuánta su lH753
+- Efe_3:18comprender...la l, la profundidad yG3372
+- Rev_21:16l es igual a su anchura; y él midióG3372
+- Rev_21:16la l, la altura y la anchura de ellaG3372

@@ -1,0 +1,97 @@
+---
+tipo: concordancia
+palabra: VANO,A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VANO,A
+
+- Éxo_20:7no tomarás el...de Jehová tu Dios en vH7723
+- Éxo_20:7inocente...al que tomare su nombre en vH7723
+- Lev_26:16y sembraréis en v vuestra semillaH7385
+- Lev_26:20vuestra fuerza se consumirá en v, porqueH7385
+- Deu_5:11no tomarás el nombre de Jehová...en vH7723
+- Deu_5:11por inocente al que tome su nombre en vH7723
+- Deu_32:47no os es cosa v; es vuestra vida, y porH7386
+- 1Sa_25:21en v he guardado todo lo que ésteH8267
+- 2Re_17:15se hicieron v, y fueron en pos deH1891
+- 2Cr_13:7se juntaron con él...v y perversosH7386
+- Job_9:29soy impío; ¿para qué trabajaré en v?[[H1892]]
+- Job_11:11porque él conoce a los hombres v; veH7723
+- Job_11:12el hombre v se hará entendido, cuandoH5004
+- Job_15:2proferirá el sabio v sabiduría...vientoH7307
+- Job_21:34¿cómo...me consoláis en v...en falacia?[[H1892]]
+- Job_27:12¿por qué, pues, os...tan enteramente v?[[H7385]]
+- Job_39:16no temiendo...su trabajo haya sido en vH7385
+- Sal_2:1¿por qué...los pueblos piensan cosas v?[[H7385]]
+- Sal_24:4el que no ha elevado su alma a cosas vH7723
+- Sal_33:17v para salvarse es el caballo...librarH8267
+- Sal_39:6el hombre; ciertamente en v se afanaH1892
+- Sal_60:11porque v es la ayuda de los hombresH7723
+- Sal_73:13en v he limpiado mi corazón, y lavadoH7385
+- Sal_89:47qué habrás creado en v a todo hombre?[[H7723]]
+- Sal_108:12danos socorro...v es la ayuda del hombreH7723
+- Sal_127:1en v trabajan los...en v vela la guardiaH7723
+- Sal_139:20tus enemigos toman en v tu nombreH7723
+- Pro_1:17en v se tenderá la red ante los ojosH2600
+- Pro_14:23las v palabras de los labios empobrecenH4270
+- Pro_31:30engañosa...la gracia, y v la hermosuraH1892
+- Ecl_5:16¿y de qué le aprovechó trabajar en v?[[H7307]]
+- Ecl_6:4éste en v viene, y a las tinieblas va, yH1892
+- Isa_1:13no me traigáis más v ofrenda...inciensoH7723
+- Isa_30:7Egipto en v e inútilmente dará ayudaH1892
+- Isa_40:23a los que gobiernan...hace como cosa vH8414
+- Isa_45:18que formó la tierra...no la creó en vH8414
+- Isa_45:19no dije a la...En v me buscáis...Yo soyH8414
+- Isa_49:4en v y sin provecho he consumido misH7385
+- Isa_65:23no trabajarán en v, ni...para maldiciónH7385
+- Jer_2:5se fueron tras la vanidad...hicieron v?[[H1891]]
+- Jer_2:30en v he azotado a vuestros hijos; no hanH7723
+- Jer_4:30aunque pintes...ojos, en v te engalanasH7723
+- Jer_6:29v fundió el fundidor, pues la escoriaH7723
+- Jer_10:15vanidad son, obra v; al tiempo de suH1892
+- Jer_18:12y dijeron: Es en v; porque en pos deH2976
+- Jer_23:16os alimentan con v esperanzas; hablanH1891
+- Jer_51:58a fuego; en v trabajaron los pueblosH7385
+- Lam_2:14te predicaron v profecías y extravíosH7723
+- Lam_4:17desfallecido...esperando en v...socorroH1892
+- Eze_6:10no en v dije que les había de hacerH2600
+- Eze_12:24porque no habrá más visión v, ni habráH7723
+- Eze_13:7¿no habéis visto visión v, y no habéisH7723
+- Eze_13:23no veréis más visión v, ni practicaréisH7723
+- Eze_24:12en v se cansó, y no salió de ella suH8383
+- Ose_10:4hablado...jurando en v al hacer pactoH7723
+- Hab_2:13pueblos...naciones se fatigarán en vH7385
+- Zac_10:2los terafines han dado v oráculos, yH1892
+- Zac_10:2han hablado sueños v, y v es su consueloH205
+- Mat_6:7orando, no uséis v repeticiones, como
+- Mat_15:9; Mar_7:7en v me honran, enseñando comoG3155
+- Hec_4:25¿por qué...los pueblos piensan cosas v?[[G2756]]
+- Rom_4:14porque...v resulta la fe, y anulada laG2758
+- Rom_13:4no en v lleva la espada...es servidor deG1500
+- 1Co_1:17que no se haga v la cruz de Cristo
+- 1Co_3:20pensamientos de los sabios, que son vG3152
+- 1Co_15:2por...sois salvos, si no creísteis en vG1500
+- 1Co_15:10y su gracia no ha sido en v para conmigoG2756
+- 1Co_15:14v es...nuestra predicación, v es tambiénG2756
+- 1Co_15:17si Cristo no resucitó, vuestra fe es vG3152
+- 1Co_15:58que vuestro trabajo en el...no es en vG2756
+- 2Co_6:1a que no recibáis en v la gracia deG2756
+- 2Co_9:3que nuestro gloriarnos de...no sea v enG2761
+- Gál_2:2y para no correr o haber corrido en vG2756
+- Gál_3:4cosas habéis padecido en v? si es...en vG1500
+- Gál_4:11temo...haya trabajado en v con vosotrosG1500
+- Efe_5:6nadie os engañe con palabras v; porqueG2756
+- Flp_2:16no he corrido en v, ni en v he trabajadoG2756
+- 1Ts_2:1que nuestra visita a...no resultó vG2756
+- 1Ts_3:5sea que...nuestro trabajo resultase en vG2756
+- 1Ti_1:6algunos, se apartaron a v palabreríaG3150
+- 1Ti_6:20las profanas pláticas sobre cosas v, yG2757
+- 2Ti_2:16mas evita profanas y v palabreríasG2757
+- Tit_3:9cuestiones necias...v y sin provechoG3152
+- Stg_1:26engaña su...la religión del tal es vG3152
+- Stg_2:20quieres saber...hombre v, que la fe sinG2756
+- Stg_4:5¿o pensáis que la Escritura dice en vG2761
+- 1Pe_1:18rescatados de vuestra v manera deG3152
+- 2Pe_2:18palabras infladas y v, seducen conG3153

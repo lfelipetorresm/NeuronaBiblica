@@ -1,0 +1,229 @@
+---
+tipo: concordancia
+palabra: TESTIMONIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TESTIMONIO
+
+- Gén_21:30sirvan de t de que yo cavé este pozoH5713
+- Gén_31:44pacto...y sea por t entre nosotros dosH5707
+- Éxo_16:34y Aarón lo puso delante del T paraH5715
+- Éxo_20:16no hablarás contra tu prójimo falso tH5707
+- Éxo_22:13le traerá t, y no pagará lo arrebatadoH5707
+- Éxo_25:16pondrás en el arca el t que yo te daréH5715
+- Éxo_25:21en el arca pondrás el t que yo te daréH5715
+- Éxo_25:22querubines...están sobre el arca del tH5715
+- Éxo_26:33meterás...del velo adentro, el arca del tH5715
+- Éxo_26:34el propiciatorio sobre el arca del t enH5715
+- Éxo_27:21afuera del velo que está delante del tH5715
+- Éxo_30:6del velo que está junto al arca del t 5715
+- Éxo_30:6sobre el t, donde me encontraré contigoH5715
+- Éxo_30:26ungirás el tabernáculo...el arca del tH5715
+- Éxo_30:36lo pondrás delante del t...tabernáculoH5715
+- Éxo_31:7el arca del t, el propiciatorio que estáH5715
+- Éxo_31:18tablas del t, tablas de piedra escritasH5715
+- Éxo_32:15trayendo en su mano...dos tablas del tH5715
+- Éxo_34:29descendiendo...con las dos tablas del tH5715
+- Éxo_38:21son las cuentas...del tabernáculo del tH5715
+- Éxo_39:35arca del t y sus varas, el propiciatorioH5715
+- Éxo_40:3pondrás en él el arca del t...la cubrirásH5715
+- Éxo_40:5el altar de oro...delante del arca del tH5715
+- Éxo_40:20tomó el t y lo puso dentro del arca, yH5715
+- Éxo_40:21ocultó el arca del t, como Jehová habíaH5715
+- Lev_16:13el propiciatorio que está sobre el tH5715
+- Lev_24:3fuera del velo del t, en el tabernáculoH5715
+- Núm_1:50a los levitas en el tabernáculo del tH5715
+- Núm_1:53alrededor del tabernáculo del t, para queH5715
+- Núm_1:53tendrán la guarda del tabernáculo del tH5715
+- Núm_4:5el velo...y cubrirán con él el arca del tH5715
+- Núm_7:89estaba sobre el arca del t, de entre losH5715
+- Núm_9:15la nube cubrió el...sobre la tienda del tH5715
+- Núm_10:11la nube se alzó del tabernáculo del tH5715
+- Núm_17:4y las pondrás...delante del t, donde yoH5715
+- Núm_17:7puso las varas...en el tabernáculo del tH5715
+- Núm_17:8al día...vino Moisés al tabernáculo del tH5715
+- Núm_17:10vuelve la vara de Aarón delante del tH5715
+- Núm_18:2serviréis delante del tabernáculo del tH5715
+- Deu_4:45estos son los t...que habló Moisés aH5713
+- Deu_5:20no dirás falso t contra tu prójimoH5707
+- Deu_6:17guardad cuidadosamente...y sus t y susH5713
+- Deu_6:20¿qué significan los t...Jehová...mandó?[[H5713]]
+- Deu_19:15por el t de dos o tres...se mantendrá la
+- Jos_4:16sacerdotes que llevan el arca del tH5715
+- Jos_22:27sino para que sea un t entre nosotrosH5707
+- Jos_22:28cual hicieron...para que fuese t entreH5707
+- Jos_22:34t es entre nosotros que Jehová es DiosH5707
+- Rut_1:21ya que Jehová ha dado t contra mí, yH6030
+- Rut_4:7quitaba el zapato...servía de t en IsraelH8584
+- 1Re_2:3guarda los...sus decretos y sus t, deH5715
+- 2Re_11:12la corona y el t, y le hicieron reyH5715
+- 2Re_17:15y los t que él había prescrito a ellosH5715
+- 2Re_23:3y guardarían sus mandamientos, sus t yH5715
+- 1Cr_29:19que guarde...tus t y tus estatutosH5715
+- 2Cr_23:11pusieron la corona y el t, y lo proclamaron reyH5715
+- 2Cr_24:6impuso...para el tabernáculo del t?[[H5715]]
+- 2Cr_34:31de guardar sus...sus t y sus estatutosH5715
+- Neh_9:34ni atendieron a...tus t con que lesH5715
+- Job_16:19está mi testigo, y mi t en las alturasH7717
+- Job_29:11oían...los ojos que me veían me daban tH5749
+- Sal_19:7t de Jehová es fiel, que hace sabioH5715
+- Sal_25:10para los que guardan su pacto y sus tH5713
+- Sal 60,80 títs.al músico principal; sobre...t
+- Sal_78:5él estableció t en Jacob, y puso ley enH5715
+- Sal_78:56ellos tentaron y...y no guardaron sus tH5713
+- Sal_81:5constituyó como t en José cuando salióH5715
+- Sal_93:5t son muy firmes; la santidad convieneH5713
+- Sal_99:7guardaban sus t, y el estatuto que lesH5713
+- Sal_119:2bienaventurados los que guardan sus tH5713
+- Sal_119:14he gozado en el camino de tus t más queH5715
+- Sal_119:22aparta de mí...porque tus t he guardadoH5713
+- Sal_119:24tus t son mis delicias y...consejerosH5713
+- Sal_119:31me he apegado a tus t; oh Jehová, noH5715
+- Sal_119:36inclina mi corazón a tus t, y no a laH5715
+- Sal_119:46hablaré de tus t delante de los reyesH5713
+- Sal_119:59consideré mis...volví mis pies a tus tH5713
+- Sal_119:79vuélvanse a mí los que...conocen tus tH5713
+- Sal_119:88vivifícame...guardaré los t de tu bocaH5715
+- Sal_119:95destruirme; mas yo consideraré tus tH5713
+- Sal_119:99más...porque tus t son mi meditaciónH5715
+- Sal_119:111por heredad he tomado tus t...siempreH5715
+- Sal_119:119tierra; por tanto, yo he amado tus tH5713
+- Sal_119:125dame entendimiento para conocer...tH5713
+- Sal_119:129maravillosos son tus t; por tanto, losH5715
+- Sal_119:138tus t, que...son rectos y muy fielesH5713
+- Sal_119:144justicia eterna son tus t...y viviréH5715
+- Sal_119:146a ti clamé; sálvame, y guardaré tus tH5713
+- Sal_119:152hace ya mucho que he entendido tus tH5713
+- Sal_119:157enemigos...de tus t no me he apartadoH5715
+- Sal_119:167mi alma ha guardado tus t, y los heH5713
+- Sal_119:168he guardado...tus t, porque todos misH5713
+- Sal_122:4las tribus de JAH, conforme al t dado aH5715
+- Sal_132:12tus hijos guardaren mi pacto, y mi tH5713
+- Pro_25:18que habla contra su prójimo falso tH5707
+- Isa_8:16ata el t, sella la ley...mis discípulosH8584
+- Isa_8:20¡a la ley y al t! Si no dijeren conformeH8584
+- Isa_14:13y en el monte del t me sentaré, a losH4150
+- Isa_19:20será por señal y por t a Jehová de losH5707
+- Jer_44:23ni anduvisteis en su ley...en sus tH5715
+- Mat_8:4y presenta la ofrenda...para t a ellosG3142
+- Mat_10:18aun ante...reyes seréis llevados...para tG3142
+- Mat_15:19porque del corazón salen...los falsos tG5577
+- Mat_19:18cuales?...No hurtarás. No dirás falso tG5576
+- Mat_23:31así que dais t contra vosotros mismosG3140
+- Mat_24:14será predicado...t a todas las nacionesG3142
+- Mat_26:59concilio, buscaban falso t contra JesúsG5577
+- Mar_1:44lo que Moisés mandó, para t a ellosG3142
+- Mar_6:11sacudid el polvo que está...para t a ellosG3142
+- Mar_10:19no mates. No hurtes. No digas falso tG5576
+- Mar_13:9delante...de reyes os llevarán...para t aG3142
+- Mar_14:55todo el concilio buscaban t contra JesúsG3141
+- Mar_14:56decían falso t...sus t no concordabanG3141
+- Mar_14:57unos, dieron falso t contra él, diciendoG5576
+- Mar_14:59pero ni aun así concordaban en el tG3141
+- Luc_4:22todos daban buen t de él, y estabanG3140
+- Luc_5:14y ofrece por tu purificación...t a ellosG3142
+- Luc_9:5sacudid el polvo de...en t contra ellosG3142
+- Luc_18:20no dirás falso t; honra a tu padre y aG5576
+- Luc_21:13y esto os será ocasión para dar tG3142
+- Luc_22:71ellos dijeron: ¿Qué más t necesitamos?[[G3141]]
+- Jua_1:7vino por t, para que diese t de la luzG3141, [[G3140]]
+- Jua_1:8la luz, sino para que diese t de la luzG3140
+- Jua_1:15dio t de él, y clamó diciendo: Este esG3140
+- Jua_1:19este es el t de Juan, cuando los judíosG3141
+- Jua_1:32dio Juan t, diciendo: Vi al Espíritu queG3140
+- Jua_1:34vi, y he dado t de que éste es el HijoG3140
+- Jua_2:25tenía necesidad de que nadie le diese tG3140
+- Jua_3:11testificamos; y no recibís nuestro tG3140
+- Jua_3:26de quién tú diste t, bautiza, y todosG3140
+- Jua_3:32oyó, esto testifica; y nadie recibe su tG3141
+- Jua_3:33el que recibe su t, éste atestigua queG3141
+- Jua_4:39daba t diciendo: Me dijo todo lo que heG3140
+- Jua_4:44dio t de que el profeta no tiene honraG3140
+- Jua_5:31si yo doy t acerca de...t no es verdaderoG3140, [[G3141]]
+- Jua_5:32otro es el que da t acerca de mí, y séG3140
+- Jua_5:32y sé que el t que da de mí es verdaderoG3141
+- Jua_5:33vosotros enviasteis...a Juan, y él dio tG3140
+- Jua_5:34no recibo t de hombre alguno; mas digoG3141
+- Jua_5:36yo tengo mayor t que el de Juan; porqueG3141
+- Jua_5:36dan t de mí, que el Padre me ha enviadoG3140
+- Jua_5:37el Padre que me envió ha dado t de míG3140
+- Jua_5:39las Escrituras...son las que dan t de míG3140
+- Jua_8:13dijeron: Tú das t...tu t no es verdaderoG3140, [[G3141]]
+- Jua_8:14aunque yo doy t acerca de mí mismo, mi tG3140, [[G3141]]
+- Jua_8:17que el t de dos hombres es verdaderoG3141
+- Jua_8:18que doy t de mí mismo, y el Padre...da tG3140
+- Jua_10:25las obras que yo hago...ellas dan t de míG3140
+- Jua_12:17y daba t la gente que estaba con élG3140
+- Jua_15:26el Espíritu de...él dará t acerca de míG3140
+- Jua_15:27daréis t también, porque habéis estadoG3140
+- Jua_18:37he venido al mundo...dar t a la verdadG3140
+- Jua_19:35el que lo vio da t, y su t es verdaderoG3140
+- Jua_21:24da t...y sabemos que su t es verdaderoG3140, [[G3141]]
+- Hec_4:33daban t de la resurrección del SeñorG3142
+- Hec_6:3buscad, pues...a siete varones de buen tG3140
+- Hec_7:44tuvieron...padres el tabernáculo del tG3142
+- Hec_10:22que tiene buen t en toda la nación deG3140
+- Hec_10:43de éste dan t todos los profetas, queG3140
+- Hec_13:22de quien dio...t diciendo: He hallado aG3140
+- Hec_14:3el Señor, el cual daba t a la palabra deG3140
+- Hec_14:17si bien no se dejó a sí mismo sin tG267
+- Hec_15:8Dios...dio t, dándoles el Espíritu SantoG3140
+- Hec_16:2y daban buen t de él los hermanos queG3140
+- Hec_20:23salvo que el Espíritu Santo...me da tG1263
+- Hec_20:24para dar t del evangelio de la graciaG1263
+- Hec_22:12que tenía buen t de todos los judíosG3140
+- Hec_22:18porque no recibirán tu t acerca de miG3141
+- Hec_26:22persevero hasta...dando t a pequeños yG3140
+- Rom_2:15sus corazones, dando t su concienciaG4828
+- Rom_8:16el Espíritu...da t a nuestro espíritu, deG4828
+- Rom_9:1conciencia me da t en el Espíritu SantoG4828
+- Rom_10:2yo les doy t de que tienen celo de DiosG3140
+- Rom_13:9porque...no dirás falso t, no codiciarásG5576
+- 1Co_1:6como el t acerca de Cristo ha sidoG3142
+- 1Co_2:1cuando fui...para anunciaros el t de DiosG3142
+- 2Co_1:12el t de nuestra conciencia, que conG3142
+- 2Co_8:3t de que con agrado han dado conforme aG3140
+- Gál_4:15os doy t de que si hubieseis podidoG3140
+- Col_4:13doy t de que tiene gran solicitud porG3140
+- 2Ts_1:10por cuanto nuestro t ha sido creídoG3142
+- 1Ti_2:6lo cual se dio t a su debido tiempoG3142
+- 1Ti_3:7es necesario que tenga buen t de los deG3141
+- 1Ti_5:10que tenga t de buenas obras; si ha criadoG3140
+- 1Ti_6:13y de Jesucristo, que dio t de la buenaG3140
+- 2Ti_1:8no te avergüences de dar t de...SeñorG3142
+- Tit_1:13este t es verdadero; por...repréndelosG3141
+- Heb_3:5fiel...para t de lo que se iba a decirG3142
+- Heb_7:8pero allí, uno de quien da t de que viveG3140
+- Heb_7:17pues se da t de él: Tú eres sacerdoteG3140
+- Heb_10:28por el t de dos o de tres testigos muereG3144
+- Heb_11:2por ella alcanzaron buen t los antiguosG3140
+- Heb_11:4t de que era justo, dando Dios t de susG3140
+- Heb_11:5la fe...tuvo t de haber agradado a DiosG3140
+- Heb_11:39aunque alcanzaron buen t mediante la feG3140
+- 1Jn_5:6y el Espíritu es el que da t; porqueG3140
+- 1Jn_5:7porque tres son los que dan t en el cieloG3140
+- 1Jn_5:8y tres son los que dan t en la tierra: elG3140
+- 1Jn_5:9si recibimos el t de los hombres, mayorG3141
+- 1Jn_5:9es el t de Dios, porque este es el t conG3141
+- 1Jn_5:10el que cree en...tiene el t en sí mismoG3141
+- 1Jn_5:10no ha creído en el t que Dios ha dadoG3141
+- 1Jn_5:11este es el t: que Dios nos ha dado vidaG3141
+- 3Jn_1:3y dieron t de tu verdad, de cómo andasG3140
+- 3Jn_1:6han dado ante la iglesia t de tu amor; yG3140
+- 3Jn_1:12todos dan t de Demetrio, y aun la verdadG3140
+- 3Jn_1:12y también nosotros damos t, y vosotrosG3140
+- 3Jn_1:12y vosotros sabéis...nuestro t es verdaderoG3141
+- Rev_1:2dado t de la palabra de Dios, y del tG3140, [[G3141]]
+- Rev_1:9Patmos, por causa de...el t de JesucristoG3141
+- Rev_6:9habían sido muertos...por el t que teníanG3141
+- Rev_11:7hayan acabado su t, la bestia que subeG3141
+- Rev_12:11vencido por...la palabra del t de ellosG3141
+- Rev_12:17que guardan...y tienen el t de JesucristoG3141
+- Rev_15:5abierto...el templo del tabernáculo del tG3142
+- Rev_19:10tus hermanos que retienen el t de JesúsG3141
+- Rev_19:10porque el t de Jesús es el espíritu deG3141
+- Rev_20:4vi...los decapitados por causa del t deG3141
+- Rev_22:16enviado mi ángel para datos t de estasG3140
+- Rev_22:20el que da t de estas cosas dice...vengoG3140

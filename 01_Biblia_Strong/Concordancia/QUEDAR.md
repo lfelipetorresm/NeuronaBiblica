@@ -1,0 +1,517 @@
+---
+tipo: concordancia
+palabra: QUEDAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# QUEDAR
+
+- Gén_7:23quedó...Noé, y los que con él estabanH4229
+- Gén_11:31vinieron hasta Harán, y se quedaron allíH3427
+- Gén_19:2que en la calle nos quedaremos esta nocheH3885
+- Gén_19:30porque tuvo miedo de quedarse en ZoarH3427
+- Gén_19:31no queda varón en la tierra que entre
+- Gén_23:17quedó la heredad de Efrón que estaba en
+- Gén_23:20quedó la heredad y la cueva que en ella
+- Gén_27:1ojos se oscurecieron quedando sin vista
+- Gén_29:19mejor es que te la dé...quédate conmigoH3427
+- Gén_30:27yo ahora gracia en tus ojos, y quédate
+- Gén_32:24se quedó Jacob solo; y luchó con él unH3498
+- Gén_35:1sube a Bet-el, y quédate allí; y haz allíH3427
+- Gén_38:11quédate viuda en casa de tu padre, hastaH3427
+- Gén_42:16enviad a uno...y vosotros quedad presosH631
+- Gén_42:19quede preso en la casa de...cárcel unoH631
+- Gén_42:38ha muerto, y él solo ha quedado; y siH7604
+- Gén_44:20él solo quedó de los hijos de su madreH3498
+- Gén_44:33que quede ahora tu siervo en lugar del
+- Gén_45:1no quedó nadie con él, al darse a conocerH5975
+- Gén_45:6aún quedan cinco años en los cuales ni
+- Gén_45:11pues aún quedan cinco años de hambre
+- Gén_47:18nada...quedado delante de nuestro señorH7604
+- Éxo_8:9las ranas...solamente queden en el ríoH7604
+- Éxo_8:11las ranas...solamente quedarán en el ríoH7604
+- Éxo_8:31aquellas moscas de...sin que quedara unaH7604
+- Éxo_10:5ella comerá...lo que os quedó del granizoH6413
+- Éxo_10:15no quedó cosa verde en árboles ni enH3498
+- Éxo_10:19ni una langosta quedó en todo el paísH7604
+- Éxo_10:24queden vuestras ovejas y vuestras vacasH3322
+- Éxo_10:26ganados irán...no quedará ni una pezuñaH7604
+- Éxo_12:10lo que quedare...quemaréis en el fuegoH3498
+- Éxo_14:21en seco, y las aguas quedaron divididas
+- Éxo_14:28y cubrieron...no quedó de ellos ni unoH7604
+- Éxo_23:11de lo que quedare comerán las bestiasH3499
+- Éxo_23:18ni la grosura de...quedará de la nocheH3885
+- Éxo_23:29para que no quede la tierra desiertaH8077
+- Éxo_25:15varas quedarán en los anillos del arcaH1961
+- Éxo_36:13enlazó...quedó formado un tabernáculoH259
+- Lev_7:16que de él quedare, lo comerán al díaH3498
+- Lev_7:17que quedare de la carne del sacrificioH3498
+- Lev_10:12a Aarón, y...hijos que habían quedadoH3498
+- Lev_10:12dijo...Tomad la ofrenda que queda de lasH3498
+- Lev_10:16los hijos que habían quedado de AarónH3498
+- Lev_11:32agua, y quedará inmundo hasta la noche
+- Lev_11:32metido en agua...entonces quedará limpio
+- Lev_14:17-18lo que quedare del aceite que tiene enH3499, [[H3498]]
+- Lev_19:6lo que quedare...será quemado en el fuegoH3498
+- Lev_25:27pagará lo que quedare al varón a quienH5736
+- Lev_25:30la casa...quedará...en poder de aquel queH6965
+- Lev_25:52y si quedare poco tiempo hasta el añoH7604
+- Lev_26:36a los que queden...infundiré...cobardíaH7604
+- Lev_26:39los que queden de vosotros decaerán enH7604
+- Lev_27:14casa...según la valorare...así quedaráH6965
+- Lev_27:17y si...conforme a tu estimación quedaráH6965
+- Lev_27:18conforme a los años que quedaren hastaH3498
+- Lev_27:19la quinta parte...se le quedará para élH6965
+- Núm_11:26habían quedado...uno Eldad y el otroH7604
+- Núm_11:35partió el pueblo...se quedó en HazerotH2698
+- Núm_12:12no quede ella...como el que nace muerto
+- Núm_14:38Josué...y Caleb...quedaron con vida, deH2421
+- Núm_21:35hirieron a él...sin que le quedara unoH7604
+- Núm_22:8príncipes de Moab...quedaron con BalaamH3427
+- Núm_24:19destruirá lo que quedare de la ciudadH8300
+- Núm_26:65y no quedó varón de ellos, sino CalebH3498
+- Núm_32:6la guerra, y vosotros os quedaréis aquí?[[H3427]]
+- Núm_32:17y nuestros niños quedarán en ciudadesH3427
+- Núm_36:12la heredad de ellas quedó en la tribuH4294
+- Deu_3:4no quedó ciudad que no les tomásemos
+- Deu_3:11Og rey...había quedado del resto de losH7604
+- Deu_3:19hijos...quedarán en las ciudades que osH3427
+- Deu_4:27quedaréis pocos en...entre las nacionesH7604
+- Deu_5:31tú quédate aquí conmigo, y te diré todoH5975
+- Deu_7:20hasta que perezcan los que quedaren y losH7604
+- Deu_16:4de la carne...no quedará hasta la mañanaH3885
+- Deu_19:20los que quedaren oirán y temerán, y noH7604
+- Deu_21:13se quedará en tu casa; y llorará a suH3427
+- Deu_24:11te quedarás fuera, y el hombre a quienH5975
+- Deu_28:54al resto de sus hijos que le quedaren
+- Deu_28:55no haberle quedado nada, en el asedioH3498
+- Deu_28:62y quedaréis pocos en número, en lugarH7604
+- Deu_32:36viere...que no queda ni siervo ni libreH5800
+- Jos_1:14mujeres...quedarán en la tierra queH3427
+- Jos_2:11ha quedado más aliento en hombre algunoH6965
+- Jos_2:17quedaremos libres de este juramento conH5355
+- Jos_2:20quedaremos libres de este tu juramentoH5355
+- Jos_5:8se quedaron en...lugar en el campamentoH3427
+- Jos_7:7¡ojalá nos hubiéramos quedado al otro ladoH3427
+- Jos_8:9Josué se quedó aquella noche en medio delH3427
+- Jos_8:17no quedó hombre en Hai...que no salieraH7604
+- Jos_8:22no quedó ninguno de ellos que escapaseH8300
+- Jos_10:20los que quedaron de ellos se metieronH8277
+- Jos_10:26quedaron colgados...hasta caer la noche
+- Jos_11:11mataron...sin quedar nada que respiraseH3498
+- Jos_11:22ninguno de...anaceos quedó en la tierraH3498
+- Jos_11:22solamente quedaron en Gaza, en Gat y enH7604
+- Jos_12:4de Og rey de Basán, que había quedado deH3499
+- Jos_13:1viejo...queda aún mucha tierra por poseerH7604
+- Jos_13:2esta es la tierra que queda; todos losH7604
+- Jos_13:12Og...quedado del resto de los refaítasH7604
+- Jos_15:63y ha quedado el jebuseo en JerusalénH3427
+- Jos_16:10quedó el cananeo en medio de EfraínH3427
+- Jos_18:2habían quedado...de Israel siete tribusH3498
+- Jos_18:5y Judá quedará en su territorio al surH5975
+- Jos_18:11el territorio...quedó entre los hijos deH5975
+- Jos_20:6quedará...hasta que comparezca en juicioH3427
+- Jos_21:20los que quedaban de los hijos de CoatH3498
+- Jos_21:34levitas que quedaban, se les dio de laH3498
+- Jos_23:4así las destruidas como las que quedanH7604
+- Jos_23:7naciones que han quedado con vosotrosH7604
+- Jos_23:12os uniereis...naciones que han quedadoH7604
+- Jue_4:16ejército de Sisara...no quedar ni unoH7604
+- Jue_5:6quedaron abandonados los caminos, y los
+- Jue_5:7las aldeas quedaron abandonadas en Israel
+- Jue_5:16¿por qué te quedaste entre los redilesH3427
+- Jue_5:17Galaad se quedó al otro lado del JordánH7931
+- Jue_5:17se mantuvo Aser...se quedó en sus puertosH1481
+- Jue_5:27cayó encorvado entre sus...quedó tendido
+- Jue_6:37el vellón...quedando seca...la otra tierra
+- Jue_6:39que solamente el vellón quede seco, y el
+- Jue_6:40sólo el vellón quedó seco, y...la tierra
+- Jue_7:3se devolvieron de...y quedaron diez milH7604
+- Jue_8:10que habían quedado de todo el ejércitoH3498
+- Jue_9:5quedó Jotam el hijo menor de JerobaalH3498
+- Jue_9:41y Abimelec se quedó en Aroma; y ZebulH3427
+- Jue_11:17se quedó, por tanto, Israel en CadesH3427
+- Jue_17:10quédate en mi casa...levita se quedóH3427
+- Jue_18:24tomasteis...dioses...¿qué más me queda?
+- Jue_19:4le detuvo...quedó en su casa tres díasH3427
+- Jue_19:20tu necesidad toda quede solamente a mi
+- Jue_21:7, Jue_21:16mujeres para los que han quedado?[[H3498]]
+- Rut_1:2llegaron, pues, a...Moab, y se quedaron
+- Rut_1:3y murió...y quedó ella con sus dos hijosH7604
+- Rut_1:5quedando así la mujer desamparada de susH7604
+- Rut_1:13¿habíais de quedaros sin casar por amorH5702
+- Rut_1:14Orfa besó a su suegra, mas Rut se quedóH1692
+- Rut_2:18después de haber quedado saciada
+- 1Sa_1:22lo lleve...se quede allá para siempreH3427
+- 1Sa_1:23quédate hasta que lo destetes; solamenteH3427
+- 1Sa_1:23quedó la mujer, y crió a su hijo hastaH3427
+- 1Sa_2:36el que hubiere quedado en tu casa vendráH3498
+- 1Sa_5:4habiéndole quedado a Dagón el troncoH7604
+- 1Sa_5:7no quede con nosotros el arca del DiosH3427
+- 1Sa_11:11los que quedaron...no q dos de...juntosH7604
+- 1Sa_13:16Saúl...y Jonatán...se quedaron en GabaaH3427
+- 1Sa_16:11él respondió: Queda aún el menor, queH7604
+- 1Sa_17:49la piedra quedó clavada en la frente
+- 1Sa_18:1el alma de Jonatán quedó ligada con laH7194
+- 1Sa_20:25se sentó...lugar de David quedó vacío
+- 1Sa_20:27que el asiento de David quedó vacío
+- 1Sa_22:23quédate conmigo...pues conmigo a salvoH3427
+- 1Sa_23:14David se quedó...en el desierto de ZifH3427
+- 1Sa_23:18David se quedó en Hores, y Jonatán seH3427
+- 1Sa_23:25David...se quedó en el desierto de MaónH3427
+- 1Sa_25:34no le hubiera quedado con vida a NabalH3498
+- 1Sa_25:37su corazón...se quedó como una piedra
+- 1Sa_30:9el torrente...donde se quedaron algunosH3498
+- 1Sa_30:10se quedaron atrás doscientos...cansadosH5975
+- 1Sa_30:21a los 200 hombres que habían quedado
+- 1Sa_30:21hecho quedar en el torrente de BesorH3427
+- 1Sa_30:24así ha de ser la parte del que queda
+- 2Sa_4:4huyó...se le cayó el niño y quedó cojo
+- 2Sa_6:20¡cuán honrado ha quedado hoy el rey de
+- 2Sa_9:1¿ha quedado alguno de la casa de Saúl, aH3498
+- 2Sa_9:3¿no ha quedado nadie de la casa de Saúl
+- 2Sa_9:3ha quedado un hijo de Jonatán, lisiado
+- 2Sa_10:5quedaos en Jericó hasta que os vuelvaH3427
+- 2Sa_11:1Rabá; pero David se quedó en JerusalénH3427
+- 2Sa_11:12quédate aquí aún hoy...se quedó UríasH3427
+- 2Sa_12:28reúne...al pueblo que queda, y acampaH3499
+- 2Sa_13:20y se quedó Tamar desconsolada en casaH3427
+- 2Sa_13:30los hijos...ninguno de ellos ha quedadoH3498
+- 2Sa_14:7así apagarán el ascua que me ha quedadoH7604
+- 2Sa_15:19vuélvete y quédate con el rey; porqueH3427
+- 2Sa_15:29volvieron el arca...y se quedaron alláH3427
+- 2Sa_16:3él se ha quedado en Jerusalén, porqueH3498
+- 2Sa_16:18de aquel seré yo, y con él me quedaréH3427
+- 2Sa_17:16no te quedes esta noche en los vados delH3885
+- 2Sa_18:9Absalón quedó suspendido entre el cieloH5414
+- 2Sa_18:30pasa, y...Y él pasó, y se quedó de pieH5975
+- 2Sa_19:7porque...no quedará ni un hombre contigoH3427
+- 2Sa_20:3quedaron encerradas hasta que murieronH2424
+- 2Sa_20:15y pusieron baluarte...y quedó sitiadaH5975
+- 2Sa_20:23así quedó Joab sobre todo el ejército
+- 2Sa_22:16quedaron al descubierto los cimientos
+- 1Re_7:30venir a quedar debajo de la fuente
+- 1Re_8:8y sacaron las varas...quedaron hasta hoy
+- 1Re_9:20los pueblos que quedaron de los amorreosH3498
+- 1Re_9:21a sus hijos que quedaron en la tierraH3498
+- 1Re_10:5y sus holocaustos...se quedó asombrada
+- 1Re_12:20sin quedar tribu alguna que siguiese
+- 1Re_13:6la mano del rey...quedó como era antes
+- 1Re_15:18tomando Asa...el oro que había quedadoH3498
+- 1Re_15:21dejó de edificar...y se quedó en TirsaH2308
+- 1Re_17:17tan grave que no quedó en él alientoH3498
+- 1Re_18:5hierba...que no nos quedemos sin bestias
+- 1Re_18:22sólo yo he quedado profeta de JehováH3498
+- 1Re_19:5echándose debajo del...se quedó dormido
+- 1Re_19:10, 1Re_19:14sólo yo he quedado, y me buscan paraH3498
+- 1Re_19:18yo haré que queden en Israel siete milH3498
+- 1Re_20:30cayó sobre 27.000...que habían quedadoH3498
+- 1Re_22:46de los sodomitas que había quedado enH7604
+- 2Re_2:2, 2Re_2:4quédate ahora aquí, porque JehováH3427
+- 2Re_2:6y Elías le dijo: Te ruego que te quedesH3427
+- 2Re_2:18volvieron a Eliseo, que se había quedadoH3498
+- 2Re_4:7y tú y tus hijos vivid de lo que quedeH3498
+- 2Re_4:10que cuando él viniere...se quede en él
+- 2Re_4:11vino él...y se quedó en aquel aposentoH3498
+- 2Re_5:14se zambulló siete veces...quedó limpio
+- 2Re_6:31si la cabeza de Eliseo...queda sobre élH5975
+- 2Re_7:4si nos quedamos aquí, también moriremos
+- 2Re_7:13cinco de los caballos que han quedadoH7604
+- 2Re_7:13los que quedan acá también pereceránH7604
+- 2Re_10:11mató...a todos los que habían quedadoH7604
+- 2Re_10:11la casa de Acab...que no quedó ningunoH7604
+- 2Re_10:17todos los que habían quedado de AcabH7604
+- 2Re_13:7no le había quedado gente a Joacaz, sino
+- 2Re_13:19hubieras derrotado a...hasta no quedar
+- 2Re_14:10gloríate pues, mas quédate en tu casaH3427
+- 2Re_17:18y no quedó sino sólo la tribu de JudáH7604
+- 2Re_19:4oración por el remanente que aún quedaH7611
+- 2Re_19:30que hubiere quedado de la casa de JudáH7604
+- 2Re_19:36Senaquerib...volvió a Nínive...se quedóH7604
+- 2Re_20:13ninguna cosa quedó que Ezequías no lesH3498
+- 2Re_20:15nada quedó en mis,...que no les mostraseH3498
+- 2Re_20:17llevando a Babilonia, sin quedar nadaH3498
+- 2Re_24:14no quedó nadie, excepto los pobres delH7604
+- 2Re_25:11que habían quedado en...llevó cautivosH7604
+- 2Re_25:11los que habían quedado de la gente comúnH3499
+- 1Cr_4:43a los que habían quedado de AmalecH3498
+- 1Cr_6:61a los hijos de Coat que quedaron de suH3498
+- 1Cr_6:70de los hijos de Coat que habían quedadoH3498
+- 1Cr_6:77los hijos de Merari que habían quedadoH3498
+- 1Cr_13:2hermanos que han quedado en...de IsraelH7604
+- 1Cr_24:20los hijos de Leví que quedaron: SubaelH3498
+- 2Cr_8:7pueblo que había quedado de los heteosH3498
+- 2Cr_8:8los hijos de los que habían quedado en laH3498
+- 2Cr_9:4a la casa de Jehová, se quedó asombrada
+- 2Cr_14:13y cayeron...no quedar en ellos aliento
+- 2Cr_21:17no le quedó más hijo...Joacaz el menorH7604
+- 2Cr_24:14trajeron al...lo que quedaba del dineroH7605
+- 2Cr_25:19tu corazón se...Quédate ahora en tu casaH3427
+- 2Cr_29:35y quedó restablecido el servicio de laH3559
+- 2Cr_30:6remanente que ha quedado de la mano deH7604
+- 2Cr_31:10comido...y ha quedado esta abundanciaH3498
+- Esd_1:4a todo el que haya quedado...ayúdenleH7604
+- Esd_4:24quedó suspendida hasta el año segundo
+- Esd_9:8hacer que nos quedase un remanente libre
+- Esd_9:14que quedara remanente ni quien escapeH7611
+- Esd_9:15puesto que hemos quedado un remanente
+- Esd_10:14príncipes los que se queden en lugar deH5975
+- Neh_1:2que habían quedado de la cautividadH7604
+- Neh_1:3los que quedaron de la cautividad, allíH7604
+- Neh_6:1y que no quedaba en él portillo (aunqueH3498
+- Neh_13:20y se quedaron fuera de Jerusalén una yH3885
+- Neh_13:21¿por qué os quedáis...delante del muroH3885
+- Est_7:7quedó Amán para suplicarle a la reinaH5975
+- Job_4:16y quedo, oí que decíaH5975
+- Job_14:7si el árbol...aún queda de él esperanza
+- Job_20:21no quedó nada que no comiese; por tantoH8300
+- Job_20:26devorará lo que quede en su tiendaH8300
+- Job_22:20fuego consumió lo que de ellos quedóH3499
+- Job_27:15los que de él quedaren, en muerte seránH8300
+- Job_37:20por más que el hombre razone, quedará
+- Job_39:9¿querrá el búfalo...quedar en tu pesebre?[[H3885]]
+- Sal_9:6han quedado desolados para siempre
+- Sal_18:15quedaron al descubierto los cimientos
+- Sal_37:24el hombre cayere, no quedará postrado
+- Sal_68:12y las que se quedaban en casa repartían
+- Sal_76:8la tierra tuvo temor y quedó suspensaH8252
+- Sal_106:11sus enemigos; no quedó ni uno de ellosH3498
+- Sal_119:116no quede yo avergonzado...esperanza
+- Pro_3:26él preservará tu pie de quedar preso
+- Pro_6:2quedado preso en los dichos de tus labios
+- Pro_6:29no quedará impune ninguno que la tocare
+- Pro_16:5altivo de...ciertamente no quedará impune
+- Pro_17:5el que se alegra de la...no quedará sin
+- Pro_19:5, Pro_19:9testigo falso no quedará sin castigo
+- Ecl_5:14los hijos...nada les queda en la mano
+- Ecl_7:26mas el pecador quedará en ella preso
+- Ecl_8:15que esto le quede de su trabajo los días
+- Ecl_11:3lugar que el árbol cayere, allí quedará
+- Isa_1:8queda la hija de Sion como enramada enH3498
+- Isa_4:3acontecerá que el que quedare en Sion, yH3498
+- Isa_5:6haré que quede desierta; no será podada
+- Isa_5:9las muchas casas han de quedar asoladas
+- Isa_6:13si quedare aún en ella la décima parte
+- Isa_6:13que al ser cortados aún queda el tronco
+- Isa_7:22miel comerá el que quede en medio de laH3498
+- Isa_10:19y los árboles que queden en su bosqueH7605
+- Isa_10:20hayan quedado...q de la casa de JacobH7605
+- Isa_11:11para recobrar...su pueblo que aún quedeH7605
+- Isa_11:16habrá camino para el...el que quedó deH7605
+- Isa_14:30raíz, y destruiré lo que de ti quedareH7605
+- Isa_14:31no quedará uno solo en sus asambleasH7605
+- Isa_17:3lo que quede de Siria será como la gloriaH7605
+- Isa_17:6y quedarán en él rebuscos, como cuandoH7605
+- Isa_17:9frutos que quedan en los renuevos y enH5800
+- Isa_23:1destruida en Tiro hasta no quedar casa
+- Isa_24:12la ciudad quedó desolada, y con ruinaH7604
+- Isa_24:22en prisión quedarán encerrados, y serán
+- Isa_30:8que quede hasta el día postrero...siempre
+- Isa_30:17que quedéis como mástil en la cumbre deH3498
+- Isa_32:14porque los palacios quedarán desiertosH5800
+- Isa_37:4oración tú por el...que aún ha quedadoH7611
+- Isa_37:31que hubiere quedado de la casa de JudáH7604
+- Isa_39:6a Babilonia todo...ninguna cosa quedaráH3498
+- Isa_43:17fenecen, como pábilo quedan apagados
+- Isa_47:8no quedaré viuda, ni conoceré orfandadH3427
+- Isa_47:14no quedará brasa para calentarse, ni
+- Isa_53:11verá el fruto de...su alma, y quedará
+- Isa_65:4quedan en los sepulcros, y en lugaresH3427
+- Jer_4:7tus ciudades quedarán asoladas y sin morador
+- Jer_4:29y no quedó en ellas morador algunoH3427
+- Jer_8:3escogerá la muerte...el resto que quedeH7604
+- Jer_8:3arroje yo a los que queden, dice JehováH7604
+- Jer_8:13no quedarán uvas en la vid, ni higos en
+- Jer_9:10desolados hasta no quedar quien pase, ni
+- Jer_9:11en desolación en que no quede morador
+- Jer_11:23no quedará remanente de ellos, pues yoH7611
+- Jer_15:9lo que de ella quede, lo entregaré a laH7611
+- Jer_18:21queden sus mujeres sin hijos, y viudasH7909
+- Jer_21:7a los que queden de la pestilencia, deH7604
+- Jer_21:9el que quedare en esta ciudad morirá aH3427
+- Jer_24:8al resto de Jerusalén que quedó en estaH7604
+- Jer_25:33como estiércol quedarán sobre la faz
+- Jer_26:9será asolada hasta no quedar morador?
+- Jer_27:18utensilios que han quedado en la casa deH3498
+- Jer_27:19acerca de...los utensilios que quedan enH3498
+- Jer_27:21utensilios que quedaron en la casa deH3498
+- Jer_29:1los ancianos que habían quedado de losH3499
+- Jer_34:7las ciudades de Judá que habían quedadoH7604
+- Jer_34:7ciudades...de Judá estas habían quedadoH7604
+- Jer_34:22y reduciré a...hasta no quedar morador
+- Jer_35:11ocultémonos...en Jerusalén nos quedamosH3427
+- Jer_36:29no queden en ella hombres ni animales?
+- Jer_37:10quedasen de...solamente hombres heridosH7604
+- Jer_37:21quedó Jeremías en el patio de la cárcelH3427
+- Jer_38:2el que se quedare en esta ciudad moriráH3427
+- Jer_38:4las manos de los hombres...han quedadoH7604
+- Jer_38:13, Jer_38:28y quedó Jeremías en el patio de laH3427
+- Jer_38:22las mujeres que han quedado en casa delH7604
+- Jer_39:9el resto del pueblo que había quedadoH7604
+- Jer_39:10quedar en tierra de Judá a los pobresH3427
+- Jer_40:5si prefieres quedarte, vuélvete...con él
+- Jer_40:6en medio del pueblo que había quedadoH7604
+- Jer_40:10quedaos en...ciudades que habéis tomadoH7604
+- Jer_41:10el pueblo que en Mizpa había quedadoH7604
+- Jer_42:2pues de muchos hemos quedado unos pocosH7611
+- Jer_42:10si os quedareis quietos en esta tierraH3427
+- Jer_42:17no habrá de ellos quien quede vivo, niH8300
+- Jer_43:4no obedeció...quedarse en tierra de JudáH3427
+- Jer_44:7destruidos...sin que os quede remanenteH7611
+- Jer_44:14no habrá...quien quede vivo para volverH8300
+- Jer_44:22hasta quedar sin morador, como está hoy
+- Jer_46:19y será asolada hasta no quedar morador
+- Jer_47:4para destruir...todo aliado que les quedaH8300
+- Jer_48:9desiertas sus ciudades hasta no quedarH3427
+- Jer_48:11quedó su sabor en él, y su olor no seH5975
+- Jer_50:26venid...destruidla; que no le quede nadaH7611
+- Jer_51:36mar, y haré que su corriente quede seca
+- Jer_51:62no quedar en él morador, ni hombre niH3427
+- Jer_52:15pueblo que había quedado en la ciudadH7604
+- Lam_1:1¡cómo ha quedado...la ciudad populosa![[H3427]]
+- Lam_2:22no hubo quien escapase ni quedase vivoH8300
+- Eze_5:10esparciré a...vientos...lo que quedareH7611
+- Eze_6:12el que quede y sea asediado morirá deH7604
+- Eze_7:11ninguno quedará de ellos, ni...multitud
+- Eze_7:13no volverá a lo vendido, aunque queden
+- Eze_9:6matad...hasta que no quede ninguno; pero
+- Eze_9:8cuando ellos iban matando y quedé yo soloH7604
+- Eze_12:20ciudades habitadas quedarán desiertas
+- Eze_14:15tierra...quedare desolada de modo que no
+- Eze_14:16ellos solos...la tierra quedaría desolada
+- Eze_14:22quedará en ella un remanente, hijos eH3498
+- Eze_17:21los que queden serán esparcidos a todosH7604
+- Eze_19:14no ha quedado en ella vara fuerte para
+- Eze_23:25y lo que te quedare caerá a espadaH319
+- Eze_25:16y destruiré el resto que queda en laH7611
+- Eze_27:29pilotos del mar se quedarán en tierraH5975
+- Eze_29:18toda cabeza ha quedado calva, y toda
+- Eze_32:15la tierra quede...de todo cuanto en ella hay
+- Eze_34:18holláis...que de vuestros pastos quedaH3499
+- Eze_34:18enturbiáis además con...las que quedan?[[H3498]]
+- Eze_36:36las naciones que queden...sabrán que yoH7604
+- Eze_39:14para enterrar a los que queden sobreH3498
+- Eze_41:9ancho...igual al espacio que quedaba deH3240
+- Eze_41:11puerta...salía al espacio que quedabaH3240
+- Eze_41:11el ancho del espacio que quedaba era deH3240
+- Eze_42:1del espacio abierto que quedaba enfrente
+- Eze_47:11sus pantanos y...quedarán para salinasH5414
+- Eze_48:15las cinco mil cañas...que quedan de lasH3498
+- Eze_48:18lo que quedare de longitud delante deH3498
+- Eze_48:18que será lo que quedará de la porciónH3498
+- Eze_48:21del príncipe será lo que quedare a unoH3498
+- Dan_2:35sin que de ellos quedara rastro
+- Dan_4:19Daniel...quedó atónito casi una hora, y
+- Dan_4:26significa que tu reino te quedará firme
+- Dan_8:27y yo Daniel quedé quebrantado, y estuve
+- Dan_10:8quedé, pues...solo, y vi esta gran visiónH3498
+- Dan_10:8no quedó fuerza en mí, antes mi fuerzaH7604
+- Dan_10:13y quedé allí con los reyes de PersiaH3498
+- Dan_10:16han sobrevenido...y no me queda fuerzaH7604
+- Dan_10:17faltó la fuerza, y no me quedó alientoH5975
+- Ose_9:3no quedarán en la tierra de Jehová, sinoH7604
+- Joe_1:4que quedó de la oruga comió el saltónH3499
+- Joe_1:4que quedó del saltón comió el revoltónH3499
+- Joe_1:4comió lo que del revoltón había quedadoH8300
+- Joe_1:7la desnudó...sus ramas quedaron blancasH3499
+- Amó_6:9si diez hombres quedaren en una casaH3498
+- Abd_1:14haber entregado a los que quedaban enH8300
+- Abd_1:18ni aun resto quedará de la casa de EsaúH8300
+- Miq_7:1cuando...y no queda racimo para comer
+- Nah_1:6quién quedará en pie en el ardor deH6965
+- Nah_1:14no quede ni memoria de tu nombre; de la
+- Sof_3:6desiertas...hasta no quedar quien pase
+- Sof_3:6hasta no quedar hombre...no q habitante
+- Hag_1:6bebéis, y no quedáis satisfechos; os
+- Hag_2:3¿quién ha quedado...que haya visto estaH7604
+- Zac_7:14fue...sin quedar quien fuese ni viniese
+- Zac_9:7quedará...un remanente para nuestro DiosH7604
+- Zac_11:9las que quedaren, que cada una coma laH7604
+- Zac_13:8perderán; mas la tercera quedará en ellaH3498
+- Mat_5:22quedará expuesto al infierno de fuego
+- Mat_14:36todos los que lo tocaron, quedaron sanos
+- Mat_17:18y éste quedó sano desde aquella hora
+- Mat_24:2que no quedará aquí piedra sobre piedraG863
+- Mat_26:38muerte; quedaos aquí, y velad conmigoG3306
+- Mat_28:4los guardas...se quedaron como muertosG1096
+- Mar_1:42lepra se fue de aquél, y quedó limpio
+- Mar_1:45quedaba fuera en los lugares desiertos
+- Mar_3:31quedándose afuera, enviaron a llamarleG2476
+- Mar_5:34hija...ve en paz, y queda sana de tu azote
+- Mar_6:20oyéndole, se quedaba muy perplejo, pero
+- Mar_6:56todos los que le tocaban quedaban sanos
+- Mar_9:26quedó como muerto, de modo que muchos
+- Mar_13:2no quedará piedra sobre piedra, que noG863
+- Mar_14:34está muy triste...quedaos aquí y veladG3306
+- Luc_1:20ahora quedarás mudo...hasta el día en
+- Luc_1:56quedó María con ella como tres mesesG3306
+- Luc_2:43quedó el niño Jesús en Jerusalén, sinG5278
+- Luc_8:47mujer vio que no había quedado oculta
+- Luc_9:4cualquier casa, quedad allí, y de allíG3306
+- Luc_21:6días vendrán en que no quedará piedraG863
+- Luc_24:29quedarse...Quédate con nosotros, porqueG3306
+- Luc_24:29entró, pues, a quedarse con ellosG3306
+- Luc_24:49pero quedaos vosotros en la...JerusalénG3306
+- Jua_1:39se quedaron con él aquel día; porqueG3306
+- Jua_4:40le rogaron que se quedase...y se quedóG3306
+- Jua_5:4quedaba sano de cualquier enfermedad que
+- Jua_7:9y habiéndoles dicho...se quedó en GalileaG3306
+- Jua_8:9quedó solo Jesús, y la mujer que estabaG2641
+- Jua_8:35y el esclavo no queda en la casa paraG3306
+- Jua_10:40otro lado del Jordán...y se quedó allíG3306
+- Jua_11:6se quedó dos días más en...donde estabaG3306
+- Jua_11:20salió a...pero María se quedó en casa
+- Jua_11:54se alejó...quedó allí con sus discípulosG1304
+- Jua_12:24que si el grano de trigo...y muere, queda soloG3306
+- Jua_19:31que los cuerpos no quedasen en la cruzG3306
+- Jua_21:22-23quede hasta que yo venga, ¿qué a ti?[[G3306]]
+- Hec_5:4¿no se te quedaba a ti? y vendida, ¿noG3306
+- Hec_9:43se quedó muchos días en Jope en casa deG3306
+- Hec_10:45quedaron atónitos de que también sobre
+- Hec_10:48rogaron que se quedase por algunos díasG1961
+- Hec_12:16cuando...le vieron, se quedaron atónitos
+- Hec_12:19descendió de...a Cesarea y se quedó allíG1304
+- Hec_14:28se quedaron allí mucho tiempo con losG1304
+- Hec_15:34a Silas le pareció bien el quedarse allíG1961
+- Hec_16:15casa, y posad...Y nos obligó a quedarnosG3306
+- Hec_17:14y Silas y Timoteo se quedaron allíG5278
+- Hec_18:3se quedó con ellos, y trabajaban juntosG3306
+- Hec_18:20le rogaban que se quedase con ellos porG3306
+- Hec_19:22él se quedó por algún tiempo en AsiaG1907
+- Hec_20:6en Troas, donde nos quedamos siete díasG1304
+- Hec_21:4quedamos allí siete días; y ellos decíanG1961
+- Hec_21:7los hermanos, quedamos con ellos un díaG3306
+- Hec_27:17arriaron...velas y quedaron a la deriva
+- Hec_27:41la proa, hincada, quedó inmóvil, y laG3306
+- Hec_28:14rogaron que nos quedásemos con ellosG1961
+- Rom_3:19y todo el mundo quede bajo el juicio de DiosG1096
+- Rom_3:27¿dónde, pues, está la jactancia? Queda excluida
+- Rom_7:2si el marido muere, ella queda libre de
+- Rom_11:3sólo yo he quedado, y procuran matarmeG5275
+- Rom_11:5quedado un remanente escogido por graciaG3062
+- 1Co_7:8que bueno les fuera quedarse como yoG3306
+- 1Co_7:11y si se separa, quédese sin casar, oG3306
+- 1Co_7:18siendo circunciso? Quédese circuncisoG3306
+- 1Co_7:20en el...en que fue llamado, en él se quedeG3306
+- 1Co_7:26que hará bien el hombre en quedarse como
+- 1Co_7:40pero...más dichosa será si se quedare asíG3306
+- 1Co_10:5por lo cual quedaron postrados en el
+- 1Co_14:14pero mi entendimiento queda sin fruto
+- 1Co_16:6podrá ser que me quede con vosotros, oG3887
+- 2Co_3:14queda el mismo velo no descubiertoG3306
+- Flp_1:24quedar en la carne es más necesarioG1961
+- Flp_1:25y confiado en esto, sé que quedaré, queG3306
+- Flp_3:13hago: olvidando...lo que queda atrás, y
+- 1Ts_3:1acordamos quedarnos solos en AtenasG2641
+- 1Ts_4:15que habremos quedado hasta la venida delG4035
+- 1Ts_4:17hayamos quedado, seremos arrebatadosG4035
+- 1Ti_1:3como...rogué que te quedases en EfesoG3306
+- 1Ti_5:5viuda y ha quedado sola, espera en DiosG3443
+- 2Ti_4:20Erasto se quedó en Corinto...TrófimoG3306
+- Heb_4:9queda un reposo para el pueblo de DiosG620
+- Heb_7:18queda, pues, abrogado el mandamiento
+- Heb_10:26no queda más sacrificio por los pecadosG620
+- Heb_12:27remoción...que queden las inconmoviblesG3306
+- Stg_2:9y quedáis convictos por la ley como
+- Rev_17:6cuando la vi, quedé asombrado con gran asombro

@@ -1,0 +1,83 @@
+---
+tipo: concordancia
+palabra: APACENTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# APACENTAR
+
+- Gén_29:7abrevad las ovejas...id a apacentarlasH7462
+- Gén_30:31si...esto, volveré a apacentar tus ovejasH7462
+- Gén_30:36y Jacob apacentaba las otras ovejas deH7462
+- Gén_36:24este Aná...cuando apacentaba los asnosH7462
+- Gén_37:2apacentaba las ovejas con sus hermanosH7462
+- Gén_37:12fueron sus hermanos a apacentar lasH7462
+- Gén_37:13tus hermanos apacientan las ovejas enH7462
+- Gén_37:16que me muestres dónde están apacentandoH7462
+- Éxo_3:1apacentando Moisés las ovejas de JetroH7462
+- 1Sa_16:11queda aun el menor, que apacienta lasH7462
+- 1Sa_17:15para apacentar las ovejas de su padreH7462
+- 1Sa_25:16muro fueron...apacentando las ovejasH7462
+- 2Sa_5:2tú apacentarás a mi pueblo Israel, y túH7462
+- 2Sa_7:7mandado apacentar a mi pueblo de IsraelH7462
+- 1Cr_11:2tú apacentarás a mi pueblo Israel, yH7462
+- 1Cr_17:6a los cuales mandé que apacentasen a miH7462
+- Job_24:2roban los ganados, y los apacientanH7462
+- Sal_37:3confía...y te apacentarás de la verdadH7462
+- Sal_78:71para que apacentase a Jacob su puebloH7462
+- Sal_78:72apacentó conforme a la integridad de suH7462
+- Pro_10:21labios del justo apacientan a muchosH7462
+- Cnt_1:7hazme saber...dónde apacientas, dóndeH7462
+- Cnt_1:8apacienta tus cabritas junto a las cabañasH7462
+- Cnt_2:16mi amado es...él apacienta entre liriosH7462
+- Cnt_4:5de gacela, que se apacientan entre liriosH7462
+- Cnt_6:2para apacentar en los huertos, y...liriosH7462
+- Cnt_6:3mi amado es mío; él apacienta entre losH7462
+- Isa_5:17los corderos serán apacentados segúnH7462
+- Isa_14:30primogénitos de los...serán apacentadosH7462
+- Isa_30:23ganados en aquel tiempo...apacentadosH7462
+- Isa_40:11como pastor apacentará su rebaño; en suH7462
+- Isa_49:9en los caminos serán apacentados, y enH7462
+- Isa_61:5extranjeros apacentarán vuestras ovejasH7462
+- Isa_65:25el lobo y el cordero serán apacentadosH7462
+- Jer_3:15que os apacienten con ciencia y conH7462
+- Jer_6:3junto a...cada uno apacentará en su lugarH7462
+- Jer_23:2a los pastores que apacientan mi puebloH7462
+- Jer_23:4sobre ellas pastores que las apacientenH7462
+- Eze_34:2¡ay...pastores...apacientan a sí mismos![[H7462]]
+- Eze_34:2¿no apacientan los pastores a los rebaños?[[H7462]]
+- Eze_34:3coméis la...mas no apacentáis a las ovejasH7462
+- Eze_34:8se apacentaron a sí...y no a mis ovejasH7462
+- Eze_34:10les haré dejar de apacentar las ovejasH7462
+- Eze_34:10ni los pastores se apacentarán más a síH7462
+- Eze_34:13las apacentaré en los montes de IsraelH7462
+- Eze_34:14en buenos pastos las apacentaré, y enH7462
+- Eze_34:14apacentadas sobre los montes de IsraelH7462
+- Eze_34:15yo apacentaré mis ovejas, y yo les daréH7462
+- Eze_34:16yo buscaré...las apacentaré con justiciaH7462
+- Eze_34:23y él las apacentará...David, él las a, yH7462
+- Dan_4:25te apacentarán como a los bueyes, y conH2939
+- Dan_4:32y como a los bueyes te apacentaránH2939
+- Ose_4:16¿los apacentará ahora Jehová como aH7462
+- Ose_12:1Efraín se apacienta de viento, y sigue alH7462
+- Miq_5:4él...apacentará con poder de Jehová, conH7462
+- Miq_7:14apacienta tu pueblo con tu cayado, elH7462
+- Sof_2:7para el remanente de...allí apacentaránH7462
+- Sof_3:13ellos serán apacentados, y dormirán, y noH7462
+- Zac_11:4apacienta las ovejas de la matanzaH7462
+- Zac_11:7apacenté, pues, las ovejas de la matanzaH7462
+- Zac_11:7tomé...dos cayados...y apacenté las ovejasH7462
+- Zac_11:9y dije: No os apacentaré; la que muriereH7462
+- Mat_2:6un guiador, que apacentará a mi puebloG4165
+- Mat_8:33y los que los apacentaban huyeron, yG1006
+- Mar_5:14los que apacentaban los cerdos huyeronG1006
+- Luc_8:34los que apacentaban...cuando vieron loG1006
+- Luc_15:15le envió a...para que apacentase cerdosG1006
+- Luc_17:7teniendo un siervo que ara o apacientaG4165
+- Jua_21:15él le dijo: Apacienta mis corderosG1006
+- Jua_21:17Jesús le dijo: Apacienta mis ovejasG1006
+- Hec_20:28para apacentar la iglesia del SeñorG4165
+- 1Co_9:7¿o quién apacienta el rebaño y no tomaG4165
+- 1Pe_5:2apacentad la grey de Dios que estáG4165
+- Jud_1:12que comiendo...se apacientan a sí mismosG4165

@@ -1,0 +1,196 @@
+---
+tipo: concordancia
+palabra: JOVEN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JOVEN
+
+- Gén_4:23un varón mataré...y un j por mi golpeH3206
+- Gén_9:24supo lo que le había hecho su hijo más jH6996
+- Gén_14:24solamente lo que comieron los j, y laH5288
+- Gén_19:4los varones de Sodoma...desde el más jH2588
+- Gén_34:3se enamoró de la j, y habló al corazónH5291
+- Gén_34:4diciendo: Tómame por mujer a esta jH3209
+- Gén_34:12dote y dones...y dadme la j por mujerH5288
+- Gén_34:19no tardó el j en hacer aquello, porqueH5288
+- Gén_37:2el j estaba con los hijos de Bilha y conH1121
+- Gén_37:30dijo: El j no parece; y yo, ¿adónde iréH3206
+- Gén_41:12estaba allí...un j hebreo, siervo delH5288
+- Gén_42:22y dije: No pequéis contra el j, y noH3206
+- Gén_43:8a Israel su padre: Envía al j conmigoH5288
+- Gén_44:20tenemos...hermano j, pequeño aún, queH3206
+- Gén_44:22dijimos a...j no puede dejar a su padreH5288
+- Gén_44:30cuando vuelva yo...si el j no va conmigoH5288
+- Gén_44:31que cuando no vea al j, morirá; y tusH5288
+- Gén_44:32tu siervo salió por fiador del j con miH5288
+- Gén_44:33quede ahora tu siervo en lugar del jH5288
+- Gén_44:33quede...y que el j vaya con sus hermanosH5288
+- Gén_44:34¿Cómo volveré yo a mi padre sin el j?[[H5288]]
+- Gén_48:16bendiga a estos j; y sea perpetuado enH5288
+- Éxo_24:5envió j de los hijos de Israel, losH5288
+- Éxo_33:11el j Josué hijo de Nun, su servidorH5288
+- Núm_11:27corrió un j y dio aviso a Moisés, yH5288
+- Núm_11:28respondió Josué hijo de...uno de sus jH979
+- Deu_22:15el padre de la j y su madre tomaránH5291
+- Deu_22:16dirá el padre de la j a los ancianosH5291
+- Deu_22:19las cuales darán al padre de la j, porH5291
+- Deu_22:20mas si...no se halló virginidad en la jH5291
+- Deu_22:24la j porque no dio voces en la ciudadH5291
+- Deu_22:25un hombre hallare en...a la j desposadaH5291
+- Deu_22:26mas a la j no le harás nada; no hay enH5291
+- Deu_22:27dio voces la j...y no hubo...la libraseH5291
+- Deu_22:28hombre hallare a una j virgen que noH5291
+- Deu_22:29al padre de la j 50 piezas de plataH5291
+- Deu_32:25así al j como a la doncella, al niño deH970
+- Jos_6:21destruyeron...j y viejos, hasta losH5288
+- Jue_8:14tomó a un j de los hombres de SucotH5288
+- Jue_8:20y mátalos...el j no desenvainó su espadaH5288
+- Jue_14:5un león j que venía rugiendo hacia élH3715
+- Jue_14:10y Sansón hizo allí...solían hacer los jH970
+- Jue_16:26Sansón dijo al j...le guiaba de la manoH5288
+- Jue_17:7y había un j de Belén de Judá, de laH5288
+- Jue_17:12j le servía de sacerdote, y permanecióH5288
+- Jue_18:3cerca...reconocieron la voz del j levitaH5288
+- Jue_18:15vinieron a la casa del j levita, en casaH5288
+- Jue_19:4y viéndole el padre de la j, salió aH5291
+- Jue_19:4le detuvo su suegro, el padre de la jH5958
+- Jue_19:5padre de la j dijo a su yerno: ConfortaH5291
+- Jue_19:6el padre de la j dijo al varón...Yo teH5291
+- Jue_19:8levantándose...le dijo el padre de la jH5291
+- Jue_19:9su suegro, el padre de la j, le dijoH5291
+- Rut_2:5dijo a su criado...¿De quién es esta j?[[H5291]]
+- Rut_2:6es la j moabita que volvió con Noemí deH5291
+- Rut_3:10no yendo en busca de los j, sean pobresH5291
+- Rut_4:12por la descendencia que de esa j te déH5288
+- 1Sa_2:17era...muy grande...el pecado de los jH5288
+- 1Sa_2:18el j Samuel ministraba en la presenciaH5288
+- 1Sa_2:21y el j Samuel crecía delante de JehováH5288
+- 1Sa_2:26el j Samuel iba creciendo, y era aceptoH5288
+- 1Sa_3:1j Samuel ministraba a Jehová en...de ElíH5288
+- 1Sa_3:8entendió Elí que Jehová llamaba al jH5288
+- 1Sa_8:16tomará...vuestros mejores, y vuestrosH970
+- 1Sa_9:2tenía él un hijo que...Saúl, j y hermosoH970
+- 1Sa_17:55Abner, ¿de quién es hijo ese j? Y AbnerH5288
+- 1Sa_17:56dijo: Pregunta de quién es hijo ese jH5958
+- 1Sa_21:5los vasos de los j eran santos, aunqueH5288
+- 1Sa_25:5envió David diez j y les dijo: Subid aH5288
+- 1Sa_25:8hallen, por tanto, estos j gracia en tusH5288
+- 1Sa_25:9los j...dijeron a Nabal...estas palabrasH5288
+- 1Sa_25:10Nabal respondió a los j enviados porH5650
+- 1Sa_25:12y los j...se volvieron por su caminoH5288
+- 1Sa_25:25mas yo...no vi a los j que tú enviasteH5288
+- 1Sa_30:13respondió el j egipcio: Yo soy siervoH5288
+- 1Sa_30:17sino 400 j que montaron...los camellosH5288
+- 2Sa_1:5dijo David a aquel j...¿Cómo sabes queH5288
+- 2Sa_1:6j...respondió: Casualmente vine al monteH5288
+- 2Sa_1:13y David a aquel j...¿De dónde eres tú?[[H5288]]
+- 2Sa_2:14levántense...los j, y maniobren delanteH5288
+- 2Sa_13:32no diga...que han dado muerte a...los jH5288
+- 2Sa_13:34y alzando sus ojos el j...atalaya, miróH5288
+- 2Sa_14:21dijo a...vé, y haz volver al j AbsalónH5288
+- 2Sa_17:18pero fueron vistos por un j, el cual loH5288
+- 2Sa_18:5tratad benignamente por...al j AbsalónH5288
+- 2Sa_18:12mirad que ninguno toque al j AbsalónH5288
+- 2Sa_18:15diez j escuderos de...hirieron a AbsalónH5288
+- 2Sa_18:29, 2Sa_18:32el rey...¿El j Absalón está bien?[[H5288]]
+- 2Sa_18:32como aquel j sean los enemigos de miH5288
+- 1Re_1:2busquen para mi señor...una j virgenH5291
+- 1Re_1:3buscaron una j...toda la tierra de IsraelH5291
+- 1Re_1:4la j era hermosa; y ella abrigaba al reyH5291
+- 1Re_3:7yo soy j, y no sé cómo entrar ni salirH5288
+- 1Re_11:28viendo...al j que era hombre activo, leH5288
+- 1Re_12:8y pidió consejo de los j que se habíanH3206
+- 1Re_12:10entonces los j...respondieron diciendoH3206
+- 1Re_12:14les habló conforme al consejo de los JH3206
+- 2Re_5:22vinieron a mí...dos j de los hijos deH5288
+- 2Re_8:12sé el mal que...a sus j matarás a espadaH970
+- 2Re_9:4fue, pues, el j, el profeta, a Ramot deH5288
+- 1Cr_12:28Sadoc, j valiente y esforzado, conH5288
+- 1Cr_29:1es j y tierno de edad, y la obra grandeH5288
+- 2Cr_10:8mas él...tomó consejo con los j queH3206
+- 2Cr_10:10j...le contestaron: Así dirás al puebloH3206
+- 2Cr_10:14les habló conforme al consejo de los jH3206
+- 2Cr_13:7porque Roboam era j y pusilánime, y noH5288
+- 2Cr_36:17mató a espada a sus j en la casa de suH970
+- 2Cr_36:17sin perdonar j ni doncella, anciano niH970
+- Neh_4:23ni mis j, ni la gente de guardia queH5288
+- Est_2:2busquen...j vírgenes de buen parecerH5291
+- Est_2:3lleven a todas las j vírgenes de buenH5291
+- Est_2:7y la j era de hermosa figura y de buenH5291
+- Est_3:13orden de destruir...j y ancianos, niñosH5288
+- Job_1:19la cual cayó sobre los j, y murieronH5288
+- Job_29:8los j me veían, y se escondían; y losH5288
+- Job_30:1mas ahora se ríen de mí los más j que yoH3117
+- Job_32:6yo soy j, y vosotros ancianos; por tantoH6810, [[H3117]]
+- Sal_37:25j fui, y he envejecido, y no he vistoH5288
+- Sal_68:27allí estaba el j Benjamín, señoreadorH6810
+- Sal_78:63fuego devoró a sus j, y sus vírgenesH970
+- Sal_119:9¿con qué limpiará el j su camino? ConH5288
+- Sal_148:12los j y también las doncellas, losH970
+- Pro_1:4para dar...los j inteligencia y corduraH5288
+- Pro_7:7consideré entre los j, a un j falto deH5288
+- Pro_20:29la gloria de los j es su fuerza, y laH970
+- Ecl_11:9alégrate, j, en tu juventud, y tomeH970
+- Cnt_2:3manzano...así es mi amado entre los jH1121
+- Isa_3:4les pondré j por príncipes, y muchachosH5288
+- Isa_3:5el j se levantará contra el anciano, y elH5288
+- Isa_9:17no tomará contentamiento en sus j, niH970
+- Isa_20:4así llevará...a j y a ancianos, desnudosH5288
+- Isa_23:4di a luz, ni crié j, ni levanté vírgenesH970
+- Isa_31:8caerá Asiria...y sus j serán tributariosH970
+- Isa_40:30los muchachos...los j flaquean y caenH970
+- Isa_62:5como el j se desposa con la virgen, seH970
+- Jer_6:11sobre la reunión de los j igualmenteH970
+- Jer_9:21para exterminar...a los j de las plazasH970
+- Jer_11:22los j morirán a espada, sus hijos y susH970
+- Jer_18:21y sus j heridos a espada en la guerraH970
+- Jer_31:13se alegrará...j y los viejos juntamenteH970
+- Jer_48:15j escogidos descendieron al degolladeroH970
+- Jer_49:26; Jer_50:30sus j caerán en sus plazas, yH970
+- Jer_51:3no perdonéis a sus j, destruid todo suH970
+- Jer_51:22por medio de ti quebrantaré viejos y jH5288
+- Jer_51:22por tu medio quebrantaré j y vírgenesH970
+- Lam_1:15llamé...compañía para quebrantar a...jH970
+- Lam_1:18mis vírgenes y mis j fueron llevados enH970
+- Lam_2:21mis vírgenes y mis j cayeron a espadaH5288
+- Lam_5:13llevaron a los j a moler, y...muchachosH970
+- Lam_5:14no se ven...los j dejaron sus cancionesH970
+- Eze_9:6matad a viejos, j y vírgenes, niños yH970
+- Eze_23:6j codiciables todos ellos, jinetes queH970
+- Eze_23:12a caballo, todos ellos j codiciablesH970
+- Eze_23:23j codiciables, gobernadores y capitanesH970
+- Eze_30:17los j de Avén...caerán a filo de espadaH970
+- Joe_1:8llora tú como j vestida de cilicio porH5271
+- Joe_2:28ancianos...y vuestros j verán visionesH970
+- Amó_2:7hijo y su padre se llegan a la misma jH5291
+- Amó_2:11de vuestros j para que fuesen nazareosH970
+- Amó_4:10mortandad...maté a espada a vuestros jH970
+- Amó_8:13las doncellas...los j desmayarán de sedH970
+- Zac_2:4habla a este j, diciendo: Sin murosH5288
+- Zac_9:17el trigo alegrará a los j, y el vino aH970
+- Mat_19:20j le dijo: Todo esto lo he guardadoG3495
+- Mat_19:22oyendo el j esta palabra...fue tristeG3495
+- Mar_14:51j le seguía, cubierto el cuerpo conG3495
+- Mar_16:5vieron a un j sentado al lado derechoG3495
+- Luc_7:14y dijo: J, a ti te digo, levántateG3495
+- Luc_22:26sea el mayor...como el más j, y el queG3501
+- Jua_21:18cuando eras más j, te ceñías, e ibasG3501
+- Hec_2:17vuestros j verán visiones, y...sueñosG3495
+- Hec_5:6y levantándose los j, lo envolvieron, yG3501
+- Hec_5:10y cuando entraron los j, la hallaronG3495
+- Hec_7:58pusieron sus ropas a los pies de un jG3494
+- Hec_20:9un j llamado Eutico, que estaba sentadoG3494
+- Hec_20:12y llevaron al j vivo, y...consoladosG3816
+- Hec_23:17lleva a este j ante el tribuno, porqueG3494
+- Hec_23:18me rogó que trajese ante ti a este jG3494
+- Hec_23:22el tribuno despidió al j, mandándoleG3494
+- 1Ti_5:1exhórtale...más j, como a hermanosG3501
+- 1Ti_5:11viudas más j no admitas; porque cuandoG3501
+- 1Ti_5:14que las viudas j se casen, crien hijosG3501
+- Tit_2:4enseñen a las mujeres j a amar a susG3501
+- Tit_2:6asimismo a los j a que sean prudentesG3501
+- 1Pe_5:5j, estad sujetos a los ancianos; yG3501
+- 1Jn_2:13os escribo...j, porque habéis vencidoG3495
+- 1Jn_2:14os he escrito a...j, porque sois fuertesG3495

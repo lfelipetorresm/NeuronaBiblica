@@ -1,0 +1,1527 @@
+---
+tipo: concordancia
+palabra: IR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# IR
+
+- Gén_2:14Hidekel...que va al oriente de AsiriaH1980
+- Gén_8:7cuervo...estuvo yendo y volviendo hastaH3318
+- Gén_8:17y vayan por la tierra, y fructifiquenH8317
+- Gén_11:3vamos, hagamos ladrillo y cozámoslo conH3051
+- Gén_11:4vamos, edifiquémonos una ciudad y unaH3051
+- Gén_11:31salió...para ir a la tierra de CanaánH3212
+- Gén_12:1Jehová había dicho...Vete de tu tierraH1980
+- Gén_12:4fue Abram, como Jehová...y Lot f con élH3212
+- Gén_12:5y salieron para ir a tierra de CanaánH3212
+- Gén_12:9Abram partió...y yendo hacia el NeguevH1980
+- Gén_12:13para que me vaya bien por causa tuyaH3190
+- Gén_12:19pues, he aquí tu mujer; tómala, y veteH3212
+- Gén_13:9si fueres a la mano izquierda, yo iré aH3212
+- Gén_13:9tú a la derecha, yo iré a la izquierdaH3212
+- Gén_13:11escogió...y se fue Lot hacia el orienteH5365
+- Gén_13:17vé por la tierra a lo largo de ella yH1980
+- Gén_14:11y todas sus provisiones, y se fueronH1980
+- Gén_14:12tomaron también a Lot, hijo...se fueronH1980
+- Gén_14:24y la parte de los varones que fueronH1980
+- Gén_16:8¿de dónde vienes tú, y a dónde vas?[[H3212]]
+- Gén_18:6Abraham fue de prisa a la tienda a SaraH4116
+- Gén_18:16Abraham iba con ellos acompañándolosH1980
+- Gén_18:17A Abraham lo que voy a hacerH6213
+- Gén_18:22se apartaron de...y fueron hacia SodomaH3212
+- Gén_18:33y Jehová se fue, luego que acabó deH3212
+- Gén_19:3mas él porfió...mucho, y fueron con élH5493
+- Gén_21:16fue y se sentó enfrente, a distanciaH3212
+- Gén_21:19fue y llenó el odre de agua, y dio deH3212
+- Gén_22:2y vete a tierra de Moriab, y ofréceloH1980
+- Gén_22:3Abraham...fue al lugar que Dios le dijoH3212
+- Gén_22:5y yo y el muchacho iremos hasta allí yH3212
+- Gén_22:6tomó Abraham la...y fueron ambos juntosH3212
+- Gén_22:8respondió Abraham: Dios...E iban juntosH3212
+- Gén_22:13y fue Abraham y tomó el carnero, y loH3212
+- Gén_22:19y se levantaron y se fueron juntos aH3212
+- Gén_24:4que irás a mi tierra y a mi parentelaH3212
+- Gén_24:10se fue, tomando toda clase de regalosH3212
+- Gén_24:38sino que irás a la casa de mi padre yH3212
+- Gén_24:49me iré a la diestra o a la siniestraH6437
+- Gén_24:51he ahí Rebeca...tómala y vete, y seaH3212
+- Gén_24:55espere la doncella con...y después iráH3212
+- Gén_24:56despachadme...que me vaya a mi señorH3212
+- Gén_24:58¿irás tú con este varón? Y ella...iréH3212
+- Gén_24:59dejaron ir a Rebeca su hermana, y a suH7971
+- Gén_24:61y el criado tomó a Rebeca, y se fueH3212
+- Gén_25:22luchaban...y fue a consultar a JehováH3212
+- Gén_25:32he aquí yo me voy a morir
+- Gén_25:34comió y bebió, y se levantó y se fueH3212
+- Gén_26:1se fue Isaac a Abimelec rey...filisteosH3212
+- Gén_26:17Isaac se fue...y acampó en el valle deH1980
+- Gén_27:5fue Esaú al campo para buscar la cazaH3212
+- Gén_27:9vé ahora al ganado, y tráeme de allí dosH3212
+- Gén_27:13hijo...obedece a mi voz y vé y tráemelosH3212
+- Gén_27:14fue y los tomó, y los trajo a su madreH3212
+- Gén_27:18éste fue a su padre y dijo: Padre míoH935
+- Gén_28:2vé a Padam-aram, a casa de Betuel, padreH3212
+- Gén_28:5Jacob...fue a Padam-aram, a Labán hijoH3212
+- Gén_28:7y que Jacob, se había ido a Padam-aramH1980
+- Gén_28:9se fue Esaú a Ismael, y tomó para sí porH3212
+- Gén_28:10salió, pues, Jacob de...y fue a HaránH3318
+- Gén_28:15te guardaré por dondequiera que fueresH1980
+- Gén_28:20me guardaré en este viaje en que voyH3212
+- Gén_29:1Jacob...fue a la tierra de los orientalesH7272
+- Gén_29:7abrevad las ovejas, e id a apacentarlasH3212
+- Gén_30:14fue Rubén en tiempo de la siega de losH3212
+- Gén_30:25envíame, e iré a mi lugar, y a...tierraH3212
+- Gén_31:19pero Labán había ido a trasquilar susH1980
+- Gén_31:20Jacob...no haciéndole saber que se ibaH1272
+- Gén_31:23fue tras Jacob camino de siete días, yH7291
+- Gén_31:30ya que te ibas, porque tenías deseo deH1980
+- Gén_32:17¿y adónde vas? ¿y para quién es esto queH1980
+- Gén_32:19y a todos los que iban tras...manadasH1980
+- Gén_32:20con el presente que va delante de míH1980
+- Gén_33:12dijo: Anda, vamos; y yo iré delante deH3212
+- Gén_33:14iré...al paso del ganado que va delante
+- Gén_33:17Jacob fue a Sucot, y edificó allí casaH5265
+- Gén_34:17tomaremos nuestra hija y nos iremosH1980
+- Gén_34:26tomaron a Dina de casa de...y se fueronH3318
+- Gén_35:13se fue de él Dios, del lugar en dondeH5927
+- Gén_35:22fue Rubén y durmió con...la concubinaH3212
+- Gén_36:6y se fue a otra tierra, separándose deH3212
+- Gén_37:12después fueron sus hermanos a apacentarH3212
+- Gén_37:14vé ahora, mira cómo están tus hermanosH3212
+- Gén_37:17se han ido...les oí decir: Vamos a DotánH5265
+- Gén_37:17entonces José fue tras de sus hermanosH1980
+- Gén_37:30el joven no parece; y yo, ¿a dónde iréH935
+- Gén_38:1Judá se apartó de...y se fue a un varónH3381
+- Gén_38:11se fue Tamar, y estuvo en casa de suH3212
+- Gén_38:19se levantó y se fue, y se quitó el veloH3212
+- Gén_41:55id a José, y haced lo que él os dijereH3212
+- Gén_42:19vosotros id y llevad el alimento paraH3212
+- Gén_42:26pusieron su trigo...y se fueron de allíH1980
+- Gén_42:38desastre en el camino por donde vaisH1980
+- Gén_43:8e iremos, a fin...vivamos y no muramosH3212
+- Gén_44:17vosotros id en paz a vuestro padreH5927
+- Gén_44:26no podemos ir; si...hermano va...iremosH3381
+- Gén_44:30si el joven no va conmigo, como su vida
+- Gén_44:33y que el joven vaya con sus hermanosH5927
+- Gén_45:9id a mi padre y decidle: Así dice tu hijoH5927
+- Gén_45:17e id, volved a la tierra de CanaánH3212
+- Gén_45:24despidió a sus hermanos, y...se fueronH1980
+- Gén_45:28dijo...iré, y le veré antes que yo mueraH3212
+- Gén_49:29yo voy a ser reunido con mi
+- Gén_50:5he aquí que voy a morir, en el
+- Gén_50:5que vaya yo ahora y sepulte a mi padreH5927
+- Gén_50:6dijo: Vé, y sepulta a tu padre, como élH5927
+- Gén_50:24yo voy a morir, mas Dios ciertamente
+- Éxo_1:10pelee contra nosotros, y se vaya de laH5927
+- Éxo_2:7¿iré a llamarte una nodriza de...hebreasH3212
+- Éxo_2:8respondió: Vé. Entonces fue la doncellaH3212
+- Éxo_3:3iré yo ahora y veré esta grande visiónH5493
+- Éxo_3:11¿quién soy yo para que vaya a Faraón, yH3212
+- Éxo_3:12vé, porque yo estaré contigo; y esto te
+- Éxo_3:16vé, y reúne los ancianos de Israel, yH3212
+- Éxo_3:18irás tú, y los ancianos de Israel, alH1980
+- Éxo_3:18iremos ahora camino de tres días por elH1980
+- Éxo_3:19el rey de Egipto no os dejará ir sinoH1980
+- Éxo_3:20heriré a Egipto...entonces os dejará irH7971
+- Éxo_3:21salgáis, no vayáis con las manos vacíasH3212
+- Éxo_4:12ahora pues, vé, y yo estaré con tu bocaH3212
+- Éxo_4:18se fue Moisés, y volviendo a su suegroH3212
+- Éxo_4:18iré ahora, y...Y Jetro dijo...Vé en pazH3212
+- Éxo_4:19dijo...Vé y vuélvete a Egipto, porque hanH3212
+- Éxo_4:21yo...de modo que no dejará ir al puebloH7971
+- Éxo_4:23dejes ir...mas no has querido dejarlo iH7971
+- Éxo_4:23he aquí yo voy a matar a tu hijo
+- Éxo_4:26le dejó luego ir. Y ella dijo: EsposoH7503
+- Éxo_4:27vé a recibir a Moisés al desierto...fueH3212
+- Éxo_4:29fueron Moisés y Aarón, y reunieron aH3212
+- Éxo_5:1deja ir a mi pueblo a celebrarme fiestaH7971
+- Éxo_5:2deje ir a Israel? No...tampoco dejaré i aH7971
+- Éxo_5:3iremos, pues, ahora, camino de tres díasH3212
+- Éxo_5:7vayan...y recojan por sí mismos la pajaH3212
+- Éxo_5:8vamos y ofrezcamos sacrificios a...DiosH3212
+- Éxo_5:11id vosotros y recoged la paja donde laH3212
+- Éxo_5:17decís: Vamos y ofrezcamos sacrificios aH3212
+- Éxo_5:18id pues, ahora, y trabajad. No se os daráH3212
+- Éxo_6:1con mano fuerte los dejará ir, y con manoH7971
+- Éxo_6:11que deje ir de su tierra a los hijos deH935
+- Éxo_7:2para que deje ir de su tierra a...IsraelH7971
+- Éxo_7:15vé por la mañana a Faraón, he aquí queH1980
+- Éxo_7:16deja ir a mi pueblo, para que me sirvaH7971
+- Éxo_7:23Faraón se volvió y fue a su casa, y noH935
+- Éxo_8:1, Éxo_8:20deja ir a...pueblo, para que me sirvaH7971
+- Éxo_8:2si no lo quisieres dejar ir, he aquí yoH7971
+- Éxo_8:8quite las ranas...dejaré ir a tu puebloH7971
+- Éxo_8:11las ranas se irán de ti, y de tus casasH5493
+- Éxo_8:21si no dejas ir a mi pueblo, he aquí yoH7971
+- Éxo_8:27camino de tres días iremos...el desiertoH3212
+- Éxo_8:28dijo...Yo os dejaré ir para que ofrezcáisH7971
+- Éxo_8:28tal que no vayáis más lejos; orad por míH3212
+- Éxo_8:29las...moscas se vayan de Faraón, y de susH3318
+- Éxo_8:29que Faraón no falte más, no dejando irH7971
+- Éxo_8:32Faraón endureció...no dejó ir al puebloH7971
+- Éxo_9:1, Éxo_9:13deja ir a...pueblo, para que me sirvaH7971
+- Éxo_9:2si no lo quieres dejar ir, y lo detienesH7971
+- Éxo_9:7mas...se endureció, y no dejó ir al puebloH7971
+- Éxo_9:17contra mi pueblo, para no dejarlo ir?[[H7971]]
+- Éxo_9:28y yo os dejaré ir, y no os detendréisH7971
+- Éxo_9:35Faraón...no dejó ir a los hijos de IsraelH7971
+- Éxo_10:3deja ir a mi pueblo, para que me sirvaH7971
+- Éxo_10:4si aún rehúsas dejarlo ir, he aquí queH7971
+- Éxo_10:7¿hasta cuándo...Deja ir a estos hombresH7971
+- Éxo_10:8andad...¿Quiénes son los que han de ir?[[H1980]]
+- Éxo_10:9hemos de ir con nuestros niños y conH1980
+- Éxo_10:9con nuestras vacas hemos de ir; porqueH1980
+- Éxo_10:10¿Cómo os voy a dejar ir a vosotros
+- Éxo_10:11id ahora vosotros los varones, y servidH3212
+- Éxo_10:20y éste no dejó ir a los hijos de IsraelH7971
+- Éxo_10:24id, servid a Jehová; solamente quedenH1980
+- Éxo_10:24vayan...vuestros niños con vosotrosH1980
+- Éxo_10:26nuestros ganados irán...con nosotros; noH3212
+- Éxo_10:27el corazón de Faraón, y no...dejarlos irH7971
+- Éxo_11:1después de la cual él os dejará ir deH7971
+- Éxo_11:8dirán: Vete, tú y todo el pueblo que estáH3318
+- Éxo_12:28fueron e hicieron...como Jehová habíaH1980
+- Éxo_12:31id, servid a Jehová, como habéis dichoH3212
+- Éxo_12:32tomad también...vuestras vacas...e idosH1980
+- Éxo_13:15endureciéndose Faraón...no dejarnos irH7971
+- Éxo_13:17Faraón dejó ir al pueblo, Dios no losH7971
+- Éxo_13:21Jehová iba delante de ellos de día enH3212
+- Éxo_14:5haber dejado ir a Israel, para que noH7971
+- Éxo_14:19ángel...que iba delante del campamentoH1980
+- Éxo_14:19el ángel...se apartó e iba en pos de ellosH1980
+- Éxo_14:19la columna de nube que iba delante deH5265
+- Éxo_14:20iba entre el...de los egipcios y...IsraelH935
+- Éxo_14:29los hijos de Israel fueron por en medioH1980
+- Éxo_17:5toma también en tu mano tu vara...y véH1980
+- Éxo_18:23todo este pueblo irá en paz a su lugarH935
+- Éxo_18:27despidió Moisés a su suegro, y...se fueH1980
+- Éxo_19:10vé al pueblo, y santifícalos...y lavenH3212
+- Éxo_19:24vé, desciende, y subirás tú, y AarónH1980
+- Éxo_21:27y si...por su diente le dejará ir libreH7971
+- Éxo_23:23Ángel irá delante de ti, y te llevaráH3212
+- Éxo_32:1, Éxo_32:23haznos dioses que vayan delante deH3212
+- Éxo_32:34vé...lleva a este pueblo a donde te heH3212
+- Éxo_32:34he aquí mi ángel irá delante de ti; peroH3212
+- Éxo_33:14él dijo: Mi presencia irá contigo, y teH3212
+- Éxo_33:15si tu presencia no ha de ir conmigo, noH1980
+- Éxo_34:9vaya ahora el Señor en medio de nosotrosH3212
+- Lev_16:22dejará ir el...cabrío por el desiertoH7971
+- Núm_2:17luego irá el tabernáculo de reuniónH5265
+- Núm_2:24contados...de Efraín...irán los tercerosH5265
+- Núm_2:31el campamento de Dan...irán los últimosH5265
+- Núm_10:30él le respondió: Yo no iré, sino queH3212
+- Núm_10:33arca del pacto...fue delante de ellosH5265
+- Núm_10:34nube de Jehová iba sobre ellos de díaH5265
+- Núm_11:18¡ciertamente mejor nos iba en Egipto!
+- Núm_12:9la ira de Jehová se encendió...y se fueH1980
+- Núm_14:14y que de día ibas delante de ellos enH1980
+- Núm_14:24siervo Caleb...decidió ir en pos de míH935
+- Núm_14:38hombres que habían ido a reconocer laH1980
+- Núm_16:12mas ellos respondieron: No iremos alláH5927
+- Núm_16:25Moisés se levantó y fue a Datán y aH1980
+- Núm_16:25los ancianos de Israel fueron en pos deH1980
+- Núm_16:46y vé pronto a la congregación, y hazH3212
+- Núm_20:6se fueron Moisés y Aarón de delante deH935
+- Núm_20:17el camino real iremos, sin apartarnosH3212
+- Núm_20:19por el camino principal iremos; y siH3212
+- Núm_21:22no nos iremos por los sembrados, ni porH3808
+- Núm_21:22por el camino real iremos, hasta queH1980
+- Núm_22:7fueron los ancianos de Moab y...de MadiánH1980
+- Núm_22:12Dios a Balaam: No vayas con ellos, niH3212
+- Núm_22:13porque Jehová no me quiere dejar ir conH1980
+- Núm_22:20vete con ellos; pero harás lo que yo teH3212
+- Núm_22:21Balaam...fue con los príncipes de MoabH1980
+- Núm_22:22ira de Dios se encendió porque él ibaH1980
+- Núm_22:22iba, pues, él montado sobre su asna, yH1980
+- Núm_22:23se apartó el asna...e iba por el campoH5186
+- Núm_22:35el ángel de...dijo...Vé con esos hombresH1980
+- Núm_22:35Balaam fue con los príncipes de BalacH1980
+- Núm_22:39y fue Balaam con Balac, y vinieron aH1980
+- Núm_23:3yo iré...Y se fue a un monte descubiertoH3212
+- Núm_23:15ponte...yo iré a encontrar a Dios allíH7136
+- Núm_24:1no fue...en busca de agüero, sino queH1980
+- Núm_24:14yo me voy ahora a mi pueblo; por tantoH1980
+- Núm_24:25se levantó Balaam y se fue...Balac se fH1980
+- Núm_31:3armaos...y vayan contra Madián y haganH1961
+- Núm_31:6Finees...fue a la guerra con los vasos
+- Núm_31:42apartó Moisés de los...que habían idoH6633
+- Núm_32:6¿irán vuestros hermanos a la guerra, yH935
+- Núm_32:17iremos...delante de los hijos de IsraelH935
+- Núm_32:20si os disponéis para ir...a la guerraH935
+- Núm_32:39los hijos de Maquir...fueron a GalaadH3212
+- Núm_32:41Jair hijo de...fue y tomó sus aldeasH1980
+- Núm_32:42Noba fue y tomó Kenat y sus aldeas, yH1980
+- Deu_1:7volveos e id al monte del amorreo y aH935
+- Deu_1:30Jehová...el cual va delante de vosotrosH1980
+- Deu_1:33iba delante de vosotros por el caminoH3212
+- Deu_1:40volveos e id al desierto, camino del MarH5265
+- Deu_2:27por el camino iré, sin apartarme ni aH3212
+- Deu_3:18pero iréis armados todos los valientesH5676
+- Deu_4:3todo hombre que fue en pos de Baal-peorH1980
+- Deu_4:22así que yo voy a morir en esta tierra
+- Deu_4:40te vaya bien a ti y a tus hijos despuésH3190
+- Deu_5:16para que te vaya bien sobre la tierraH3190
+- Deu_5:30vé y diles: Volveos a vuestras tiendasH3212
+- Deu_6:24para que nos vaya bien todos los días
+- Deu_11:28para ir en pos de dioses ajenos que noH3212
+- Deu_11:29la tierra a la cual vas para tomarlaH935
+- Deu_11:31pasáis el Jordán para ir a poseer laH935
+- Deu_12:5el lugar que...Dios escogiere...allá iréisH935
+- Deu_12:29destruido...las naciones adonde tú vasH935
+- Deu_12:30que no tropieces yendo en pos de ellasH310
+- Deu_13:2vamos en pos de dioses ajenos, que noH3212
+- Deu_13:6, Deu_13:13vamos y sirvamos a dioses ajenos, queH3212
+- Deu_17:3hubiere ido y servido a dioses ajenosH1980
+- Deu_19:5el que fuere con...al monte a cortar leñaH935
+- Deu_20:4vuestro Dios va con vosotros, para pelearH1980
+- Deu_20:5-6, Deu_20:7-8vaya, y vuélvase a su casa, no seaH3212
+- Deu_22:7dejarás ir a la madre, y tomarás losH7971
+- Deu_23:20que te bendiga...la tierra donde vasH935
+- Deu_24:2casa, podrá ir y casarse con otro hombreH1980
+- Deu_25:7no quisiere...irá entonces su cuñada aH5927
+- Deu_25:18la retaguardia...que iban detrás de tiH2826
+- Deu_26:2irás al lugar que Jehová tu...escogiereH1980
+- Deu_28:14no te apartares...para ir tras diosesH3212
+- Deu_28:41no serán para ti...irán en cautiverioH3212
+- Deu_29:18aparte...para ir a servir a los diosesH3212
+- Deu_30:18no prolongaréis...días...adonde vaisH935
+- Deu_31:6Jehová tu Dios es el que va contigo; noH1980
+- Deu_31:8y Jehová va delante de ti; él estaráH1980
+- Deu_31:13vivieres sobre la tierra adonde vaisH5674
+- Deu_31:14fueron...Moisés y Josué, y esperaron enH1980
+- Deu_31:16dioses ajenos de la tierra adonde vaH2181
+- Deu_32:47sobre la tierra adonde vais, pasandoH5674
+- Jos_1:9Dios...contigo en dondequiera que vayasH1980
+- Jos_1:16e iremos adondequiera que nos mandesH3212
+- Jos_2:1ellos fueron, y entraron en casa de unaH3212
+- Jos_2:5se salieron, y no sé a dónde han idoH1980
+- Jos_2:7y los hombres fueron tras ellos por elH3318
+- Jos_2:16los que fueron tras...no os encuentrenH2247
+- Jos_2:16y después os iréis por vuestro caminoH1980
+- Jos_2:21los despidió, y se fueron; y ella atóH1980
+- Jos_3:4sepáis el camino por donde habéis de irH1980
+- Jos_3:6ellos tomaron el arca del pacto y fueronH1980
+- Jos_5:13Josué, yendo hacia él, le dijo: ¿EresH1980
+- Jos_6:3yendo alrededor de la ciudad una vezH5362
+- Jos_6:9, Jos_6:13los hombres armados iban delante deH1980
+- Jos_6:9, Jos_6:13y la retaguardia iba tras el arcaH1980
+- Jos_6:13sacerdotes...fueron delante del arca deH1980
+- Jos_7:3no fatigues a todo el pueblo yendo allíH5927
+- Jos_8:9se fueron a la emboscada, y se pusieronH1980
+- Jos_9:4pues fueron y se fingieron embajadoresH1980
+- Jos_9:11e id al encuentro de ellos, y decidlesH1980
+- Jos_17:7y va al sur, hasta los que habitan enH1980
+- Jos_18:8levantándose...aquellos varones, fueronH1980
+- Jos_18:8a los que iban para delinear la tierraH1980
+- Jos_18:8id, recorred la tierra y delineadla, yH1980
+- Jos_18:9fueron...aquellos varones y recorrieronH1980
+- Jos_22:9ir a la tierra de Galaad, a la tierraH1980
+- Jos_23:16si...yendo y honrando a dioses ajenosH1980
+- Jue_1:3yo iré contigo al tuyo...y Simeón fueH1980
+- Jue_1:11fue a los que habitaban en Debir, queH3212
+- Jue_1:14cuando ella se iba con él, la persuadióH935
+- Jue_1:16ceneo...fueron y habitaron con el puebloH3212
+- Jue_1:25dejaron ir a aquel hombre con toda suH7971
+- Jue_1:26y se fue el hombre a la tierra de losH3212
+- Jue_2:6y los hijos de Israel se habían ido cadaH7971
+- Jue_2:12dejaron...y se fueron tras otros diosesH1980
+- Jue_2:17sino que fueron tras dioses ajenos, aH2181
+- Jue_3:27descendieron...él iba delante de ellosH3381
+- Jue_4:6vé, junta a tu gente en el monte de TaborH3212
+- Jue_4:8le respondió: Si tú fueres conmigo, yoH1980
+- Jue_4:8iré; pero si no fueres conmigo, no iréH3808, [[H1980]]
+- Jue_4:9iré contigo; mas no será tuya la gloriaH1980
+- Jue_5:15caudillos...de Isacar fueron con Débora
+- Jue_6:14dijo: Vé con esta tu fuerza, y salvarásH1980
+- Jue_6:18ruego que no te vayas de aquí hasta queH5117
+- Jue_7:4te diga: Vaya éste contigo, irá contigoH1980
+- Jue_7:4diga: Este no vaya contigo, el tal no iráH1980
+- Jue_7:7váyase toda la demás gente...a su lugarH3212
+- Jue_8:1no llamándonos cuando ibas a la guerraH1980
+- Jue_8:29Jerobaal hijo...fue y habitó en su casaH3212
+- Jue_8:33a prostituirse yendo tras los baalesH3212
+- Jue_9:1Abimelec...fue a Siquem, a los hermanosH3212
+- Jue_9:6fueron y eligieron a Abimelec por reyH3212
+- Jue_9:7fue y se puso en la cumbre del monte deH3212
+- Jue_9:8fueron una vez los árboles a elegir reyH1980
+- Jue_9:9, Jue_9:11, Jue_9:13ir a ser grande sobre los árbolesH1980
+- Jue_9:21y escapó Jotam y huyó, y se fue a BeerH3212
+- Jue_9:50Abimelec se fue a Tebes, y puso sitio aH3212
+- Jue_9:55vieron muerto a Abimelec, se fueron cadaH1980
+- Jue_11:5los ancianos de, fueron a traer a JeftéH3212
+- Jue_11:18yendo por el desierto, rodeó la...EdomH3212
+- Jue_11:32fue Jefté hacia los hijos de Amón paraH5674
+- Jue_11:37déjame...que vaya y descienda por losH3212
+- Jue_11:38dijo: Vé...ella fue con sus compañerasH3212
+- Jue_11:40fueran...a endechar a la hija de JeftéH3212
+- Jue_12:1¿por qué fuiste a hacer guerra contra losH3212
+- Jue_12:1no nos llamaste...que fuéramos contigo?[[H1980]]
+- Jue_14:3para que vayas tú a tomar mujer de losH1980
+- Jue_14:9tomándolo en...manos, se fue comiéndoloH3212
+- Jue_16:1fue Sansón a Gaza, y vio...a una mujerH3212
+- Jue_16:3las puertas...echó al hombro, y se fueH5265
+- Jue_17:8ciudad de Belén...para ir a vivir dondeH1481
+- Jue_17:9y voy a vivir donde pueda encontrarH1980
+- Jue_18:2les dijeron: Id y reconoced la tierraH3212
+- Jue_18:6respondió: Id en paz; delante de JehováH3212
+- Jue_18:9para ir a tomar posesión de la tierraH3212
+- Jue_18:10cuando vayáis, llegaréis a un puebloH935
+- Jue_18:12fueron y acamparon en Quiriat-jearimH5927
+- Jue_18:14, Jue_18:17que habían ido a reconocer la tierraH1980
+- Jue_18:20tomó el efod...fue en medio del puebloH935
+- Jue_18:24tomasteis mis dioses que yo...y os vaisH1980
+- Jue_19:2su concubina...se fue de él a casa de suH1980
+- Jue_19:5se levantó también el levita para irseH1980
+- Jue_19:5conforta tu corazón...después os iréisH1980
+- Jue_19:7y se levantó el varón para irse, peroH1980
+- Jue_19:8levantándose...para irse, le dijo el padreH1980
+- Jue_19:9luego se levantó el varón para irse, élH1980
+- Jue_19:9os levantaréis temprano...y te irás a tuH1980
+- Jue_19:10levantó y se fue, y llegó hasta...JebúsH1980
+- Jue_19:11vámonos a esta ciudad de los jebuseosH1980
+- Jue_19:12no iremos a...ciudad de extranjeros, queH5493
+- Jue_19:17dijo: ¿A dónde vas, y de dónde vienes?[[H1980]]
+- Jue_19:18había ido a Belén...mas ahora voy a laH1980
+- Jue_19:28le dijo: Levántate, y vámonos; pero ellaH1980
+- Jue_19:28varón...se levantó y se fue a su lugarH1980
+- Jue_20:8ninguno de nosotros irá a su tienda, niH1980
+- Jue_20:10que yendo a Gabaa de Benjamín le haganH935
+- Jue_21:10diciendo: Id y herid a filo de espadaH1980
+- Jue_21:20id, y poned emboscadas en las viñasH1980
+- Jue_21:21arrebatad...idos a tierra de BenjamínH1980
+- Jue_21:23y se fueron, y volvieron a su heredadH1980
+- Jue_21:24los hijos de Israel se fueron tambiénH1980
+- Rut_1:1un varón de Belén de Judá fue a morarH3212
+- Rut_1:10nosotras iremos contigo a tu puebloH7725
+- Rut_1:11hijas...¿para qué habéis de ir conmigo?[[H3212]]
+- Rut_1:12volveos, hijas mías, e idos...soy viejaH3212
+- Rut_1:16a dondequiera que tú fueres, iré yo, yH3212
+- Rut_1:18que estaba tan resuelta a ir con ellaH3212
+- Rut_1:21me fui llena, pero Jehová me ha vueltoH1980
+- Rut_2:2que me dejes ir al campo...Vé, hija míaH3212
+- Rut_2:3fue...y llegando, espigó en el campo enH3212
+- Rut_2:8no vayas a espigar a otro campo, ni pasesH3212
+- Rut_2:9y cuando tengas sed, vé a las vasijasH1980
+- Rut_2:18lo tomó, y se fue...y su suegra vio loH935
+- Rut_3:1hogar para ti, para que te vaya bien?
+- Rut_3:3vistiéndote tus vestidos, irás a la eraH3381
+- Rut_3:4e irás y descubrirás sus pies...acostarásH935
+- Rut_3:10no yendo en busca de los jóvenes, seanH1980
+- Rut_3:15puso encima; y ella se fue a la ciudadH935
+- Rut_3:17a fin de que no vayas a tu suegra conH935
+- 1Sa_1:17dijo: Vé en paz, y el Dios de IsraelH3212
+- 1Sa_1:18se fue la mujer por su camino, y comióH3212
+- 1Sa_1:19y volvieron y fueron a su casa en RamáH935
+- 1Sa_3:9vé y acuéstate; y si te llamare, dirásH1980
+- 1Sa_3:9se fue Samuel, y se acostó en su lugarH1980
+- 1Sa_6:6así, ¿no los dejaron ir, y se fueron?[[H7971]]
+- 1Sa_6:8el arca de Jehová, dejaréis que se vayaH1980
+- 1Sa_6:12los príncipes...fueron tras ellas hastaH1980
+- 1Sa_7:16iba y daba vuelta a Bet-el, a Gilgal yH1980
+- 1Sa_8:22Samuel...idos cada uno a vuestra ciudadH3212
+- 1Sa_9:3y levántate, y vé a buscar las asnasH3212
+- 1Sa_9:6vamos...allá; quizá nos dará algún indicioH3212
+- 1Sa_9:7respondió Saúl...Vamos ahora; pero ¿quéH3212
+- 1Sa_9:9consultar a Dios, decía...vamos al videnteH3212
+- 1Sa_9:10anda, vamos...Y fueron a la ciudad dondeH3212
+- 1Sa_10:2las asnas que habías ido a buscar se hanH1980
+- 1Sa_10:14¿a dónde fuisteis?...fuimos a SamuelH1980
+- 1Sa_10:26y fueron con él los hombres de guerraH3212
+- 1Sa_11:14vamos a...que renovemos allí el reinoH5674
+- 1Sa_11:15fue...el pueblo a Gilgal, e invistieronH3212
+- 1Sa_12:2aquí vuestro rey va delante de vosotrosH1980
+- 1Sa_13:7Saúl...el pueblo iba tras él temblandoH5674
+- 1Sa_14:3no sabía...que Jonatán se hubiese idoH1980
+- 1Sa_14:7vé...aquí estoy contigo a tu voluntadH5186
+- 1Sa_14:8Jonatán: Vamos a pasar a esos hombresH5674
+- 1Sa_14:13su paje...que iba tras él los mataba
+- 1Sa_14:15los que habían ido a merodear, también
+- 1Sa_14:16iba de un lado a otro y era deshechaH3212
+- 1Sa_14:17ved quién se haya ido de los nuestrosH1980
+- 1Sa_14:46y los filisteos se fueron a su lugarH1980
+- 1Sa_15:3vé, pues, y hiere a Amalec, y destruyeH3212
+- 1Sa_15:6dijo Saúl a los ceneos: Idos, apartaosH3212
+- 1Sa_15:12madrugó...para ir a encontrar a Saúl por
+- 1Sa_15:18dijo: Vé, destruye a los pecadores deH3212
+- 1Sa_15:20y fui a la misión que Jehová me envióH1980
+- 1Sa_15:27volviéndose...para irse, él se asió deH3212
+- 1Sa_15:34fue luego Samuel a Ramá, y Saúl subióH1980
+- 1Sa_16:2dijo...¿Cómo iré? Si Saúl lo supiera, meH3212
+- 1Sa_17:7lanza...e iba su escudero delante de élH1980
+- 1Sa_17:13tres hijos mayores de Isaí habían idoH1980
+- 1Sa_17:15pero David había ido y vuelto, dejandoH1980
+- 1Sa_17:20se fue con su carga como Isaí le habíaH1980
+- 1Sa_17:32tu siervo irá y peleará contra esteH3212
+- 1Sa_17:33no podrás tú ir contra aquel filisteoH3212
+- 1Sa_17:37dijo Saúl...Vé, y Jehová esté contigoH3212
+- 1Sa_17:40tomó su honda...se fue hacia el filisteoH5066
+- 1Sa_17:48a andar para ir al encuentro de David
+- 1Sa_18:27se levantó David y se fue con su genteH1980
+- 1Sa_19:12descolgó Mical a David...se fue y huyóH1980
+- 1Sa_19:17dijo: Déjame ir; si no, yo te mataréH7971
+- 1Sa_19:18y él y Samuel se fueron y moraron enH3212
+- 1Sa_19:22fue a Ramá; y llegando al gran pozoH3212
+- 1Sa_19:23y fue a Naiot en Ramá; y también vinoH3212
+- 1Sa_20:6me rogó...lo dejase ir corriendo a BelénH7323
+- 1Sa_20:13y te enviare para que te vayas en pazH1980
+- 1Sa_20:21vé busca las saetas. Y si dijere alH3212
+- 1Sa_20:22si yo dijere...vete, porque Jehová teH3212
+- 1Sa_20:28David me pidió...le dejase ir a BelénH7971
+- 1Sa_20:29ruego que me dejes ir, porque nuestraH7971
+- 1Sa_20:29permíteme ir ahora para visitar a misH4422
+- 1Sa_20:36cuando el muchacho iba corriendo, élH7323
+- 1Sa_20:40y le dijo: Vete y llévalas a la ciudadH1980
+- 1Sa_20:41luego que el muchacho se hubo ido, seH935
+- 1Sa_20:42dijo...Vete en paz, porque ambos hemosH1980
+- 1Sa_20:42él se levantó y se fue; y Jonatán entróH1980
+- 1Sa_21:10David...huyó...se fue a Aquis rey de GatH935
+- 1Sa_22:1yéndose luego David...huyó a la cueva deH1980
+- 1Sa_22:3y se fue David de allí a Mizpa de MoabH1980
+- 1Sa_22:5Gad dijo, anda y vete a tierra de JudáH935
+- 1Sa_22:5David se fue, y vino al bosque de HaretH1980
+- 1Sa_23:2¿iré a atacar a estos filisteos?...VéH1980
+- 1Sa_23:3¿cuánto más si fuéremos a Keila contraH3212
+- 1Sa_23:5fue, pues, David con sus hombres a KeilaH1980
+- 1Sa_23:22id, pues...aseguraos más, conoced y vedH1980
+- 1Sa_23:23iré con vosotros, y si él estuviere enH1980
+- 1Sa_23:24ellos se levantaron, y se fueron a ZifH1980
+- 1Sa_23:25y se fue Saúl con su gente a buscarloH1980
+- 1Sa_23:26Saúl iba por un lado...y David...el otroH1980
+- 1Sa_24:2fue en busca de David y de sus hombresH1980
+- 1Sa_24:19enemigo, y lo dejará ir sano y salvo?[[H7971]]
+- 1Sa_24:22se fue Saúl a su casa, y David y susH1980
+- 1Sa_25:1levantó David...fue al desierto de ParánH3381
+- 1Sa_25:5e id a Nabal, y saludadle en mi nombreH5827
+- 1Sa_25:19dijo a sus criados: Id delante de míH5674
+- 1Sa_25:33estorbado hoy de ir a derramar sangreH935
+- 1Sa_26:7David, pues, y Abisai fueron de nocheH935
+- 1Sa_26:11toma...y la vasija de agua, y vámonosH1980
+- 1Sa_26:12se llevó...David la lanza...y se fueronH1980
+- 1Sa_26:19diciendo: Vé y sirve a dioses ajenosH1980
+- 1Sa_26:25David se fue por su camino, y Saúl seH1980
+- 1Sa_27:8como quien va a Shur hasta...de EgiptoH935
+- 1Sa_28:7vaya a ella y por medio de ella pregunteH1980
+- 1Sa_28:8y se fue con dos hombres, y vinieron aH1980
+- 1Sa_28:25levantaron, y se fueron aquella nocheH1980
+- 1Sa_29:2David y sus...iban en la retaguardia conH5674
+- 1Sa_29:7vete en paz, para no desagradar a losH1980
+- 1Sa_29:8para que yo no vaya y pelee contra losH1980
+- 1Sa_29:11se levantó David de mañana...para irseH5927
+- 1Sa_29:11y los filisteos fueron a JezreelH5927
+- 1Sa_30:22perversos de entre los que habían idoH1980
+- 1Sa_30:22no fueron...no les daremos del botínH1980
+- 1Sa_30:22su mujer y...que los tomen y se vayanH1980
+- 2Sa_1:15vé y mátalo. Y él lo hirió, y murióH5066
+- 2Sa_2:23y no queriendo él irse, lo hirió AbnerH5493
+- 2Sa_3:19y fue...Abner a Hebrón a decir a DavidH1980
+- 2Sa_3:21iré, y juntaré a mi señor...todo IsraelH1980
+- 2Sa_3:22Abner no estaba...él se había ido en pazH1980
+- 2Sa_3:23y él le ha despedido, y se fue en pazH1980
+- 2Sa_3:24¿por qué, pues, le dejaste que se fuese?[[H1980]]
+- 2Sa_3:31y el rey David iba detrás del féretroH310
+- 2Sa_4:5fueron y entraron en el mayor calor delH1980
+- 2Sa_5:19diciendo: ¿Iré contra los filisteos?[[H5927]]
+- 2Sa_5:19vé, porque...entregaré a los filisteos enH5927
+- 2Sa_6:4lo llevaban...Ahío iba delante del arcaH1980
+- 2Sa_6:12David fue, y llevó...el arca de Dios deH1980
+- 2Sa_6:19se fue...el pueblo, cada uno a su casaH1980
+- 2Sa_7:5vé y di a mi siervo David: Así ha dichoH1980
+- 2Sa_8:3al ir éste a recuperar su territorio alH1980
+- 2Sa_8:6, 2Sa_8:14dio la victoria...dondequiera que fueH1980
+- 2Sa_11:22fue el mensajero, y llegando, contó aH1980
+- 2Sa_12:17fueron a él para hacerlo levantar de
+- 2Sa_12:23yo voy a él, mas él no volverá a míH1980
+- 2Sa_12:29fue contra Rabá, y combatió contra ellaH1980
+- 2Sa_13:7vé ahora a casa de Amnón tu hermanoH1980
+- 2Sa_13:8y fue Tamar a casa de su hermano AmnónH1980
+- 2Sa_13:13¿adónde iría yo con mi deshonra? Y aunH1980
+- 2Sa_13:15luego...dijo Amnón: Levántate, y veteH1980
+- 2Sa_13:19mano sobre su cabeza, se fue gritandoH1980
+- 2Sa_13:25no vamos todos...no te seamos gravososH1980
+- 2Sa_13:25y aunque porfió con él, no quiso irH1980
+- 2Sa_13:26respondió: ¿Para qué ha de ir contigo?[[H1980]]
+- 2Sa_13:27dejó ir con él a Amnón y a...los hijosH7971
+- 2Sa_13:37Absalón huyó y se fue a Talmai hijo deH1980
+- 2Sa_13:38así huyó Absalón y se fue a Gesur, yH1980
+- 2Sa_14:8el rey dijo a la mujer: Vete a tu casaH1980
+- 2Sa_14:21esto: vé, y haz volver al joven AbsalónH1980
+- 2Sa_14:23se levantó luego Joab y fue a GesurH1980
+- 2Sa_14:24váyase a su casa, y no vea mi rostroH5437
+- 2Sa_14:30id y prendedle fuego. Y los siervos deH1980
+- 2Sa_15:7te ruego me permitas que vaya a HebrónH1980
+- 2Sa_15:9dijo: Vé en paz. Y él se levantó, y fueH1980
+- 2Sa_15:11fueron con Absalón doscientos hombresH1980
+- 2Sa_15:11los cuales iban en su sencillez, sinH1980
+- 2Sa_15:13diciendo...Israel se va tras AbsalónH1961
+- 2Sa_15:18los geteos, 600 hombres...iban delanteH935
+- 2Sa_15:20que te muevas para ir con nosotros?[[H1980]]
+- 2Sa_15:20yo iré a donde pueda ir; tú vuélveteH1980
+- 2Sa_15:23rey...pasó al camino que va al desiertoH5674
+- 2Sa_15:24iba Sadoc, y con él todos los levitas
+- 2Sa_15:30pueblo...iban llorando mientras subíanH5927
+- 2Sa_16:13David y los suyos iban...Simei iba porH1980
+- 2Sa_16:17dijo...¿por qué no fuiste con tu amigo?[[H1980]]
+- 2Sa_17:11que tú en persona vayas a la batallaH1980
+- 2Sa_17:17y fue una criada y les avisó, porqueH1980
+- 2Sa_17:17fueron y se lo hicieron saber al reyH1980
+- 2Sa_17:21después que se hubieron ido, aquéllosH1980
+- 2Sa_17:21aquéllos salieron del pozo y se fueronH1980
+- 2Sa_17:23Ahitofel...se levantó y se fue a su casaH1980
+- 2Sa_18:9e iba Absalón sobre un mulo, y el muloH7392
+- 2Sa_18:9Absalón quedó...el mulo en que iba pasóH935
+- 2Sa_18:21vé tú, y di al rey lo que has vistoH1980
+- 2Sa_18:24el atalaya había ido al terrado sobreH1980
+- 2Sa_18:33yendo, decía así: ¡Hijo mío AbsalónH1980
+- 2Sa_19:7vé afuera y habla...a tus siervos; porqueH3318
+- 2Sa_19:25le dijo...¿por qué no fuiste conmigo?[[H1980]]
+- 2Sa_19:26un asno, y montaré en él, e iré al reyH1980
+- 2Sa_20:5fue...Amasa para convocar a los de JudáH1980
+- 2Sa_20:6y vé tras él, no sea que halle para síH7291
+- 2Sa_20:7salieron de...para ir tras Seba hijo deH3318
+- 2Sa_20:9dijo a Amasa: ¿Te va bien, hermano mío?
+- 2Sa_20:10fueron en persecución de Seba hijo deH7291
+- 2Sa_20:11que ame a Joab y...vaya en pos de Joab
+- 2Sa_20:13pasaron...ir tras Seba hijo de BicriH7291
+- 2Sa_20:21entregad a ése...y me iré de la ciudadH1980
+- 2Sa_20:22la mujer fue luego a todo el pueblo conH935
+- 2Sa_21:12David fue y tomó los huesos de SaúlH1980
+- 2Sa_24:1vé, haz un censo de Israel y de JudáH1980
+- 2Sa_24:6después fueron a Galaad y a la tierraH935
+- 2Sa_24:7fueron luego a la fortaleza de Tiro, yH935
+- 2Sa_24:12vé y di a David: Así ha dicho JehováH1980
+- 1Re_1:13vé y entra al rey David, y dile: ReyH1980
+- 1Re_1:35iréis vosotros detrás de él, y vendráH5927
+- 1Re_1:49entonces...se fue cada uno por su caminoH1980
+- 1Re_1:50Adonías...levantó y se fue, y se asió deH1980
+- 1Re_1:53vino...y Salomón le dijo: Vete a tu casaH1980
+- 1Re_2:8me maldijo...el día que yo iba a MahanaimH1980
+- 1Re_2:26dijo...Vete a Anatot, a tus heredadesH1980
+- 1Re_2:29envió Salomón...Vé, y arremete contraH1980
+- 1Re_2:40fue a Aquis...f, pues, Simei, y trajoH1980
+- 1Re_2:41dicho...que Simei había ido de JerusalénH1980
+- 1Re_2:42el día que salieres y fueres acá o alláH1980
+- 1Re_3:4iba el rey a Gabaón, porque aquél eraH1980
+- 1Re_8:66ellos...se fueron a sus moradas alegresH1980
+- 1Re_9:28fueron a Ofir y tomaron de allí oro, 420H935
+- 1Re_10:13ella...fue a su tierra con sus criadosH1980
+- 1Re_11:17Hadad huyó, y con él...se fue a EgiptoH935
+- 1Re_11:21dijo a Faraón: Déjame ir a mi tierraH1980
+- 1Re_11:22te falta...procuras irte a tu tierra?[[H1980]]
+- 1Re_11:22nada; con todo, te ruego...me dejes irH1980
+- 1Re_11:24después fueron a Damasco y habitaronH1980
+- 1Re_12:1Roboam fue a Siquem...para hacerle reyH1980
+- 1Re_12:5él les dijo: Idos...Y el pueblo se fueH1980
+- 1Re_12:16entonces Israel se fue a sus tiendasH1980
+- 1Re_12:24no vayáis, ni...y volvieron y se fueronH1980
+- 1Re_12:30el pueblo iba a adorar delante de unoH1980
+- 1Re_13:8me dieras...no iría contigo, ni comeríaH5973
+- 1Re_13:9, 1Re_13:17ni regreses por el camino que fueresH1980
+- 1Re_13:12padre les dijo: ¿Por qué camino se fue?[[H1980]]
+- 1Re_13:14yendo tras el varón de Dios, le hallóH1980
+- 1Re_13:16ni iré contigo, ni tampoco comeré panH935
+- 1Re_13:24yéndose, le topó un león en el caminoH1980
+- 1Re_13:28él fue, y halló el cuerpo tendido enH1980
+- 1Re_14:2dijo Jeroboam...Levántate...y vé a SiloH1980
+- 1Re_14:3y vé a él, para que te declare lo queH935
+- 1Re_14:4la mujer de...se levantó y fue a SiloH1980
+- 1Re_14:7vé y di a Jeroboam: Así dijo JehováH1980
+- 1Re_14:12y tú levántate y vete a tu casa; y alH1980
+- 1Re_15:19vé, y rompe tu pacto con Baasa rey deH1980
+- 1Re_17:5y él fue e hizo conforme a la palabraH1980
+- 1Re_17:5fue y vivió junto al arroyo de QueritH1980
+- 1Re_17:9vete a Sarepta de Sidón, y mora allí; heH1980
+- 1Re_17:10entonces él se levantó...fue a SareptaH1980
+- 1Re_17:11yendo ella para...él la volvió a llamarH1980
+- 1Re_17:13vé, haz como has dicho; pero hazme aH935
+- 1Re_17:15ella fue e hizo como le dijo Elías; yH1980
+- 1Re_18:1vé, muéstrate a Acab, y yo haré lloverH1980
+- 1Re_18:2fue, pues, Elías a mostrarse a AcabH1980
+- 1Re_18:5vé por el país a todas las fuentes deH1980
+- 1Re_18:6Acab fue por un camino, y Abdías f...otroH1980
+- 1Re_18:7yendo Abdías por el camino, se encontróH1961
+- 1Re_18:8, 1Re_18:11, 1Re_18:14vé, di a tu amo: Aquí está ElíasH1980
+- 1Re_18:12luego que yo me haya ido, el EspírituH1980
+- 1Re_18:16Abdías fue a encontrarse con Acab, y leH1980
+- 1Re_18:21si Jehová...y si Baal, id en pos de élH1980
+- 1Re_18:27quizá...o va de camino; tal vez duermeH7873
+- 1Re_18:44dijo: Vé, y di a Acab: Unce tu carroH5927
+- 1Re_19:3se levantó y se fue para salvar su vidaH1980
+- 1Re_19:4se fue por el desierto un día de caminoH1980
+- 1Re_19:15dijo...Vé, vuélvete por tu camino, porH1980
+- 1Re_19:20le dijo: Vé, vuelve; ¿qué te he hechoH1980
+- 1Re_19:21después se levantó y fue tras Elías, yH1980
+- 1Re_20:9los embajadores fueron, y le dieron laH1980
+- 1Re_20:22vé, fortalécete, y considera y mira loH1980
+- 1Re_20:33dijo: Id y traedle. Ben-adad entoncesH935
+- 1Re_20:34hizo, pues, pacto con él, y le dejó irH7971
+- 1Re_20:38y el profeta se fue, y se puso delanteH1980
+- 1Re_20:43rey de Israel se fue a su casa tristeH1980
+- 1Re_22:6dijo: ¿Iré a la guerra contra Ramot deH1980
+- 1Re_22:13el...que había ido a llamar a MicaíasH1980
+- 1Re_22:15Micaías, ¿iremos a pelear contra RamotH1980
+- 1Re_22:22le inducirás, y...vé, pues, y hazlo asíH3318
+- 1Re_22:24¿por dónde se fue de mí el Espíritu deH5674
+- 1Re_22:48habían de ir a Ofir por oro...no fueronH1980
+- 1Re_22:49vayan mis siervos con los tuyos en lasH1980
+- 2Re_1:2id y consultad a Baal-zebub dios deH1980
+- 2Re_1:3que vais a consultar a Baal-zebub dios deH1980
+- 2Re_1:4que ciertamente morirás. Y Elías se fueH1980
+- 2Re_1:6dijo: Id, y volveos al rey que os envióH1980
+- 2Re_2:6que no te dejaré. Fueron, pues, ambosH1980
+- 2Re_2:11que yendo ellos y hablando, he aquí unH1980
+- 2Re_2:16vayan ahora y busquen a tu señor; quizáH1980
+- 2Re_2:18les dijo: ¿No os dije yo que no fueseis?[[H1980]]
+- 2Re_2:25de allí fue al monte Carmelo, y de allíH1980
+- 2Re_3:7¿irás tú conmigo a...guerra contra Moab?[[H1980]]
+- 2Re_3:7iré, porque yo soy como tú; mi puebloH5927
+- 2Re_3:8¿por qué camino iremos? Y él respondióH5927
+- 2Re_3:13vé a los profetas de tu padre, y a losH1980
+- 2Re_4:5y se fue la mujer, y cerró la puertaH1980
+- 2Re_4:7dijo: Vé y vende el aceite, y paga a tusH1980
+- 2Re_4:23dijo: ¿Para qué vas a verle hoy? No esH1980
+- 2Re_4:26que vayas ahora corriendo a recibirlaH7323
+- 2Re_4:26le digas: ¿Te va bien a ti? ¿Le v bien
+- 2Re_4:29ciñe...toma mi báculo en tu mano, y véH1980
+- 2Re_4:31y Giezi había ido delante de ellos, yH7725
+- 2Re_5:5vé, y yo enviaré cartas al rey de IsraelH1980
+- 2Re_5:10vé y lávate siete veces en el Jordán, yH1980
+- 2Re_5:11y Naamán se fue enojado, diciendo: HeH1980
+- 2Re_5:12limpio? Y se volvió, y se fue enojadoH1980
+- 2Re_5:19vé en paz. Se fue, pues, y caminó comoH1980
+- 2Re_5:21bajó del carro...y dijo: ¿Va todo bien?
+- 2Re_5:24luego mandó a los hombres que se fuesenH7971
+- 2Re_5:25él...Tu siervo no ha ido a ninguna parteH935
+- 2Re_6:2vamos ahora al Jordán, y tomemos...vigaH1980
+- 2Re_6:3que vengas con...y él respondió: Yo iréH1980
+- 2Re_6:4fue, pues, con ellos; y cuando llegaronH1980
+- 2Re_6:9no pases por...porque los sirios van allíH5185
+- 2Re_6:13dijo: Id, y mirad dónde está, para queH1980
+- 2Re_7:4vamos, pues...y pasemos al campamento deH1980
+- 2Re_7:5se levantaron...para ir al campamento deH2421
+- 2Re_7:8(2)tomaron...y fueron y lo escondieronH935
+- 2Re_7:9vamos, pues...entremos y demos la nuevaH1980
+- 2Re_7:10fuimos al campamento de los sirios, yH935
+- 2Re_7:14y envió el rey al...diciendo: Id y vedH1980
+- 2Re_7:15ellos fueron, y los siguieron hasta elH1980
+- 2Re_8:1levántate, vete tú...a vivir donde puedasH1980
+- 2Re_8:2se fue ella con su familia, y vivió enH1980
+- 2Re_8:7Eliseo se fue...Damasco; y Ben-adad reyH935
+- 2Re_8:8toma en...y vé a recibir al varón de DiosH1980
+- 2Re_8:9fue a su encuentro, y llegando se pusoH1980
+- 2Re_8:10le dijo: Vé, dile: Seguramente sanarásH1980
+- 2Re_8:14y Hazael se fue, y vino a su señor, elH1980
+- 2Re_8:28fue a la guerra con Joram hijo de AcabH1980
+- 2Re_9:1ciñe tus lomos...y vé a Ramot de GalaadH1980
+- 2Re_9:4fue, pues, el joven...a Ramot de GalaadH1980
+- 2Re_9:15para ir a dar las nuevas en JezreelH1980
+- 2Re_9:16Jehú...fue a Jezreel...Joram estaba allíH1980
+- 2Re_9:17ordena...jinete que vaya a reconocerlosH7971
+- 2Re_9:18fue...el jinete a reconocerlos, y dijoH3212
+- 2Re_9:25tú y yo íbamos...con la gente de AcabH7392
+- 2Re_9:34dijo: Id ahora a ver a aquella malditaH6485
+- 2Re_9:35cuando fueron...no hallaron de ella másH3212
+- 2Re_10:12se levantó de allí para ir a SamariaH1980
+- 2Re_10:15yéndose...se encontró con Jonadab hijoH1980
+- 2Re_10:25fueron hasta el lugar santo...de BaalH3212
+- 2Re_16:10después fue el rey Acaz a encontrar aH3212
+- 2Re_17:15y fueron en pos de las naciones queH3212
+- 2Re_17:27y vaya y habite allí, y les enseñe laH3212
+- 2Re_19:8porque oyó que se había ido de LaquisH5265
+- 2Re_19:36Senaquerib...se fue, y volvió a NíniveH3212
+- 2Re_22:4vé al sumo sacerdote Hilcías, y dile queH5927
+- 2Re_22:13id y preguntad a Jehová por mí, y porH3212
+- 2Re_22:14entonces fueron...a la profetisa HuldaH3212
+- 2Re_23:3pacto...de que irían en pos de JehováH1980
+- 2Re_25:4el rey se fue por el camino del ArabáH3212
+- 2Re_25:24no temáis...servid al rey...os irá bienH3190
+- 2Re_25:26se fueron a Egipto, por temor...caldeosH935
+- 1Cr_11:4fue David con...Israel a JerusalénH3212
+- 1Cr_12:8de Gad...fueron a David, al lugar fuerteH914
+- 1Cr_15:25fueron a traer el arca del pacto deH1980
+- 1Cr_15:27y David iba vestido de lino fino, yH3736
+- 1Cr_16:43todo el pueblo se fue cada uno a su casaH1980
+- 1Cr_17:4vé y di a David mi siervo: Así ha dichoH3212
+- 1Cr_17:11sean cumplidos para irte con tus padresH3212
+- 1Cr_17:21Dios fuese y se redimiese un puebloH1980
+- 1Cr_18:3yendo éste a asegurar su dominio juntoH3212
+- 1Cr_18:6daba la victoria...dondequiera que ibaH3212
+- 1Cr_18:13daba el triunfo...dondequiera que ibaH3212
+- 1Cr_19:5fueron luego, y cuando llegó a DavidH3212
+- 1Cr_21:2dijo David...Id, haced censo de IsraelH3212
+- 1Cr_21:10vé y habla a David, y dile: Así haH3212
+- 1Cr_21:30David no pudo ir allá a consultar aH3318
+- 2Cr_1:3fue Salomón...al lugar alto...GabaónH3212
+- 2Cr_1:5altar...al cual fue a consultar Salomón
+- 2Cr_2:8he aquí, mis siervos irán con los tuyos
+- 2Cr_8:18fueron...los siervos de Salomón a OfirH935
+- 2Cr_9:12la reina de Sabá...se fue a su tierraH3212
+- 2Cr_9:21la flota del rey iba a Tarsis con losH1980
+- 2Cr_10:1Roboam fue a Siquem...se había reunidoH3212
+- 2Cr_10:5dijo: Volved a mí...Y el pueblo se fueH1980
+- 2Cr_10:16así se fue todo Israel a sus tiendasH3212
+- 2Cr_11:4oyeron la...y no fueron contra JeroboamH5927
+- 2Cr_12:11cuando el rey iba a la casa de JehováH1961
+- 2Cr_12:12también en Judá las cosas fueron bienH1961
+- 2Cr_18:2persuadió que fuese con él contra RamotH5927
+- 2Cr_18:3soy como tú...iremos contigo a la guerra
+- 2Cr_18:5el rey...¿Iremos a la guerra contra RamotH3212
+- 2Cr_18:12el...que había ido a llamar a MicaíasH1980
+- 2Cr_18:14¿iremos a pelear contra Ramot de GalaadH3212
+- 2Cr_20:36construir naves que fuesen a Tarsis; yH3212
+- 2Cr_20:37las naves se...y no pudieron ir a TarsisH3212
+- 2Cr_22:5fue a la guerra con Joram hijo de AcabH3212
+- 2Cr_24:25cuando se fueron los sirios...dolenciasH1980
+- 2Cr_25:7no vaya contigo el ejército de IsraelH935
+- 2Cr_25:8si vas así, si lo haces, y te esfuerzasH935
+- 2Cr_25:10apartó...para que se fuesen a sus casasH3212
+- 2Cr_25:13para que no fuesen con él a la guerraH3212
+- 2Cr_30:6fueron...correos con cartas de mano delH3212
+- 2Cr_34:22y los del rey fueron a Hulda profetisaH3212
+- Esd_5:8fuimos a la provincia de Judea, a laH236
+- Esd_5:15vé, y llévalos al templo que está enH236
+- Esd_6:5y vayan a su lugar, al templo que estáH1946
+- Esd_7:13que quiera ir contigo a Jerusalén, vayaH1946
+- Esd_8:31partimos del río...para ir a JerusalénH3212
+- Esd_10:6se fue a la cámara de Johanán hijo deH3212
+- Esd_10:6e ido allá, no comió pan ni bebió aguaH1980
+- Neh_2:14pasase la cabalgadura en que iba
+- Neh_2:16no sabían...dónde yo había ido, ni quéH1980
+- Neh_6:3yo hago una gran obra, y no puedo irH3381
+- Neh_6:3cesaría la obra, dejándola yo para ir aH3381
+- Neh_6:17iban muchas cartas...de Judá a TobíasH935
+- Neh_8:10id, comed grosuras, y bebed vino dulceH3212
+- Neh_8:12el pueblo se fue a comer y a beber, yH3212
+- Neh_9:12para alumbrarles...donde habían de irH3212
+- Neh_9:19guiarlos por el camino...habían de irH3212
+- Neh_12:32iba tras de ellos Osaías con la mitadH8418
+- Neh_12:35de los...sacerdotes iban con trompetas
+- Neh_12:38el segundo coro iba del lado opuestoH1980
+- Neh_13:6en el año 32 de Artajerjes...fui al reyH935
+- Est_2:11para saber cómo le iba a Ester, yH7965
+- Est_4:1fue por la ciudad clamando con...clamorH3318
+- Est_4:8que fuese ante el rey a suplicarle y aH935
+- Est_4:16vé y reúne a todos los judíos que seH935
+- Est_4:17Mardoqueo fue, e hizo...le mandó EsterH5674
+- Est_6:1misma noche se le fue el sueño al rey
+- Est_6:12Amán se dio prisa para irse a su casa
+- Est_7:1fue, pues, el rey con Amán al banqueteH935
+- Est_7:7el rey se levantó...y se fue al huertoH3318
+- Est_9:4y su fama iba por todas las provinciasH3318
+- Job_1:4iban sus hijos y hacían banquete enH1980
+- Job_3:23hombre que no sabe por donde ha de ir
+- Job_7:9como la nube se desvanece y se va, asíH1980
+- Job_10:21que vaya para no volver, a la tierra deH3318
+- Job_12:25van a tientas, como en tinieblas y sinH4959
+- Job_14:11como las aguas se van del mar, y el ríoH235
+- Job_14:20serás más fuerte que él, y él se vaH1980
+- Job_16:22iré por el camino de donde no volveréH1980
+- Job_21:33y antes de él han ido innumerables
+- Job_23:3hallar a Dios! Yo iría hasta su sillaH935
+- Job_23:8yo iré al oriente, y no lo hallaré; y alH1980
+- Job_27:21eleva el solano, y se va; y tempestadH1980
+- Job_31:7si mi corazón se fue tras mis ojos, y siH1980
+- Job_31:26mirado...a la luna cuando iba hermosaH1980
+- Job_32:15más; se les fueron los razonamientosH6275
+- Job_34:8va en compañía con...que hacen iniquidadH732
+- Job_34:23justo, para que vaya con Dios a juicioH1980
+- Job_38:19por dónde va el camino a la habitación
+- Job_38:35los relámpagos, para que ellos vayan?[[H3212]]
+- Job_42:8tomaos...id a mi siervo Job, y ofrecedH3212
+- Job_42:9fueron...Elifaz temanita, Bildad suhitaH1980
+- Sal 34 tít.Abimelec, y él lo echó, y se fueH1980
+- Sal_39:13fuerzas, antes que vaya y perezcaH1980
+- Sal_45:14irán en pos de ella, compañeras suyas310
+- Sal_59:10el Dios...irá delante de mí; Dios hará
+- Sal_68:25los cantores iban delante, los músicosH6923
+- Sal_84:7irán de poder en poder; verán a DiosH3212
+- Sal_85:13la justicia irá delante de él, y susH3212
+- Sal_89:14misericordia y verdad van delante deH6923
+- Sal_94:15en pos de ella irán todos los rectosH310
+- Sal_97:3fuego irá delante de él, y abrasará aH1980
+- Sal_102:11mis días son como sombra que se vaH5186
+- Sal_104:10por los arroyos; van entre los montesH1980
+- Sal_105:20envió el rey, y le...le dejó ir libreH1980
+- Sal_106:9les hizo ir por el abismo como por unH1980
+- Sal_106:32le fue mal a Moisés por causa de ellosH1980
+- Sal_109:23me voy como la sombra cuando declinaH1980
+- Sal_122:1me decían: A la casa de Jehová iremosH3212
+- Sal_126:6irá andando y llorando el que lleva laH1980
+- Sal_127:2demás es que...vayáis tarde a reposar
+- Sal_128:2bienaventurado serás, y te irá bien
+- Sal_139:7¿a dónde me iré de tu Espíritu? ¿Y aH3212
+- Pro_1:16y van presurosos a derramar sangreH7323
+- Pro_4:14no...ni vayas por el camino de los malosH833
+- Pro_4:18que va en aumento hasta que el día esH1980
+- Pro_6:3vé, humíllate, y asegúrate de tu amigoH3212
+- Pro_7:8el cual...iba camino a la casa de ellaH6805
+- Pro_7:19el marido...se ha ido a un largo viajeH1980
+- Pro_7:22marchó...como va el buey al degolladeroH1980
+- Pro_9:15los...que van por sus caminos derechosH3474
+- Pro_14:7vete de delante del...necio, porque enH3212
+- Pro_21:5todo el que se apresura...va a la pobreza
+- Pro_23:30para los que van buscando la misturaH935
+- Pro_27:8cual ave que se va de su nido, tal esH5074
+- Pro_27:8tal es el hombre que se va de su lugarH5074
+- Pro_27:10ni vayas a la casa de tu hermano en elH935
+- Pro_31:18que van bien sus negocios; su lámparaH3808
+- Ecl_1:4generación va, y...viene; mas la tierraH1980
+- Ecl_1:6el viento...va girando de continuo, y a susH1980
+- Ecl_1:7los ríos todos van al mar, y el mar no seH1980
+- Ecl_3:20todo va a un mismo lugar; todo es hechoH1980
+- Ecl_5:1cuando fueres a la casa de Dios, guardaH1980
+- Ecl_5:15yéndose tal como vino; y nada tiene deH3212
+- Ecl_6:4a las tinieblas va, y con tinieblas suH1980
+- Ecl_6:6viviere...¿no van todos al mismo lugar?[[H1980]]
+- Ecl_7:2mejor es ir a la casa del luto que a laH3212
+- Ecl_8:3no te apresures a irte de su presenciaH3212
+- Ecl_8:12que les irá bien a los que a Dios temen
+- Ecl_8:13no le irá bien al impío, ni le serán
+- Ecl_9:3y después de esto se van a los muertosH3212
+- Ecl_9:10porque en el sepulcro, adonde vas, noH1980
+- Ecl_10:3va el necio por el camino...y diciendoH1980
+- Ecl_10:15porque no saben por dónde ir a la ciudadH3212
+- Ecl_12:5el hombre va a su morada eterna, y losH5497
+- Cnt_1:8vé, sigue las huellas del rebaño, yH3318
+- Cnt_2:11porque...se ha mudado, la lluvia se fueH1980
+- Cnt_4:6iré al monte de la mirra, y al colladoH1980
+- Cnt_5:6abrí yo a...pero mi amado se había idoH5674
+- Cnt_6:1¿a dónde se ha ido tu amado, oh la másH1980
+- Isa_1:23todos aman el soborno, van tras lasH7291
+- Isa_3:10decid al justo que le irá bien, porque
+- Isa_3:11mal le irá, porque según las obras de
+- Isa_6:8¿a quién enviaré, y...irá por nosotros?[[H3212]]
+- Isa_7:6vamos contra Judá, y aterroricémosla, yH5927
+- Isa_7:24con saetas y arco irán allá, porque todaH935
+- Isa_20:2vé y quita el cilicio de tus lomos, yH3212
+- Isa_21:6vé, pon centinela que haga saber lo queH3212
+- Isa_22:15vé, entra a este tesorero, a Sebna elH3212
+- Isa_28:13hasta que vayan y caigan de espaldasH3212
+- Isa_30:8vé...y escribe esta visión en una tablaH935
+- Isa_30:29alegría de corazón, como el que va conH1980
+- Isa_37:37Senaquerib...se fue, e hizo su moradaH3212
+- Isa_38:5vé y di a Ezequías: Jehová Dios de...diceH1980
+- Isa_38:10a la mitad de mis días iré a...del SeolH3212
+- Isa_45:2yo iré delante de ti, y enderezaré losH3212
+- Isa_45:14irán en pos de ti, pasarán con grillosH5674
+- Isa_45:16irán con...los fabricadores de imágenesH1980
+- Isa_47:15cada uno irá por su camino, no habráH8582
+- Isa_52:12ni iréis huyendo...Jehová irá delante deH3318
+- Isa_58:8e irá tu justicia delante de ti, y 1H1980
+- Isa_59:8que por ellas fuere, no conocerá pazH1869
+- Jer_1:7porque a todo lo que te envíe irás túH3212
+- Jer_2:5se fueron tras la vanidad y se hicieronH1980
+- Jer_2:25a extraños he...y tras ellos he de irH3212
+- Jer_3:1y yéndose ésta de él se juntare a otroH1980
+- Jer_3:6se va sobre todo monte alto y debajo deH1980
+- Jer_3:8Judá...sino que también fue ella y fornicóH3212
+- Jer_3:12vé y clama...palabras hacia el norte, yH1980
+- Jer_3:18irán de la casa de Judá a la casa deH1980
+- Jer_4:25todas las aves del cielo se habían idoH5074
+- Jer_5:5iré a los grandes, y les hablaré; porqueH1980
+- Jer_5:23este pueblo...se apartaron y se fueronH1980
+- Jer_7:23andad...os mande, para que os vaya bienH1980
+- Jer_7:24fueron hacia atrás y no hacia adelanteH1961
+- Jer_9:10hasta las bestias...huyeron, y se fueronH1980
+- Jer_9:14antes se fueron tras la imaginación deH1980
+- Jer_11:8se fueron cada uno tras la imaginaciónH1980
+- Jer_11:10y se fueron tras dioses ajenos paraH1980
+- Jer_11:12irán las ciudades de Judá...a los diosesH1980
+- Jer_13:1dijo Jehová: Vé y cómprate un cinto deH1980
+- Jer_13:4el cinto...y levántate y vete al ÉufratesH3212
+- Jer_13:5fui pues, y lo escondí junto al ÉufratesH3212
+- Jer_13:6levántate y vete al Éufrates, y toma deH3212
+- Jer_13:7fui al Éufrates, y cavé, y tomé el cintoH3212
+- Jer_13:10y que va en pos de dioses ajenos paraH1980
+- Jer_16:5no entres en casa de luto, ni vayas aH3212
+- Jer_17:16no he ido en pos de ti para incitarteH310
+- Jer_17:19dicho Jehová: Vé y ponte a la puertaH1980
+- Jer_18:2levántate y vete a casa del alfareroH3381
+- Jer_18:12porque en pos de nuestros ídolos iremosH1980
+- Jer_19:1dijo Jehová: Vé y compra una vasija deH1980
+- Jer_19:10ante los ojos de los varones que vanH1980
+- Jer_20:6y todos los...de tu casa iréis cautivosH3212
+- Jer_21:2quizá...aquél se irá de sobre nosotrosH5927
+- Jer_22:10llorad amargamente por el que se vaH1980
+- Jer_22:22y tus enamorados irán en cautiverioH3212
+- Jer_25:6y no vayáis en pos de dioses ajenosH3212
+- Jer_25:32que el mal irá de nación en nación, yH3318
+- Jer_27:18los utensilios...no vayan a BabiloniaH935
+- Jer_28:13vé y habla a Hananías, diciendo: AsíH1980
+- Jer_30:16adversarios, todos irán en cautiverioH3212
+- Jer_31:2cuando Israel iba en busca de reposoH1980
+- Jer_31:9irán con lloro, mas con misericordia losH935
+- Jer_31:21vuélvete...por donde fuiste, virgen deH1980
+- Jer_31:24habitará allí...los que van con rebañoH5265
+- Jer_32:5y si peleareis contra...no os irá bien
+- Jer_32:28he aquí voy a entregar esta ciudad
+- Jer_34:2vé y habla a Sedequías rey de Judá, yH1980
+- Jer_34:21en mano del ejército...ido de vosotrosH5927
+- Jer_35:2vé a casa de los recabitas y habla conH1980
+- Jer_35:13vé y di a los varones de Judá, y a losH1980
+- Jer_35:15y no vayáis tras dioses ajenos paraH3212
+- Jer_36:19Baruc: Vé y escóndete, tu y JeremíasH3212
+- Jer_37:12salía Jeremías...para irse a tierra deH3212
+- Jer_38:20oye...la voz...y te irá bien y vivirásH3190
+- Jer_39:16vé y habla a Ebed-melec etíope...Así haH1980
+- Jer_40:1cautivos...de Judá que iban deportadosH1540
+- Jer_40:4vé a donde...más cómodo te parezca irH3212
+- Jer_40:9servid al rey de Babilonia, y os iráH3190
+- Jer_40:15yo iré ahora y mataré a Ismael hijoH1980
+- Jer_41:10fue para pasarse a los hijos de AmónH5674
+- Jer_41:12fueron a pelear contra Ismael hijo deH3212
+- Jer_41:15escapó...y se fue a los hijos de AmónH3212
+- Jer_41:17fueron y habitaron en...a fin de ir yH1980
+- Jer_42:3enseñe el camino por donde vayamos, yH1980
+- Jer_42:4he aquí que voy a orar a Jehová
+- Jer_42:6obedeciendo a...Jehová...nos vaya bienH3190
+- Jer_42:19no vayáis a Egipto; sabed ciertamenteH935
+- Jer_43:2decir: No vayáis a Egipto para morar allíH935
+- Jer_44:3yendo a ofrecer incienso, honrando aH3212
+- Jer_44:12volvieron sus rostros para ir a tierraH935
+- Jer_45:5te daré tu vida...lugares adonde fueresH1980
+- Jer_48:2serás cortada; espada irá en pos de tiH1980
+- Jer_48:9alas a Moab, para que se vaya volandoH5323
+- Jer_49:30huid, idos muy lejos...oh moradores deH5110
+- Jer_49:36y no habrá nación a donde no vayanH935
+- Jer_50:3hombre ni animal...huyeron, y se fueronH1980
+- Jer_50:8los machos cabríos que van delante delH1961
+- Jer_50:27matad a todos sus novillos; que vayanH3381
+- Jer_51:9dejadla, y vámonos cada uno a su tierraH3212
+- Jer_51:59cuando iba con Sedequías rey de JudáH3212
+- Jer_52:7rey, y se fueron por el camino del ArabáH3318
+- Lam_1:3Judá ha ido en cautiverio a causa deH1540
+- Lam_1:5sus hijos fueron en cautividad delanteH1980
+- Eze_3:1este rollo, y vé y habla a la casa deH3212
+- Eze_3:4vé y entra a la casa de Israel, y hablaH3212
+- Eze_3:11vé y entra a los cautivos, a los hijosH3212
+- Eze_7:14no habrá quien vaya a la batalla; porqueH1980
+- Eze_10:11volvía la primera, en pos de ella ibanH3212
+- Eze_12:22se van prolongando los días, y...visión?[[H748]]
+- Eze_20:16porque tras sus ídolos iba su corazónH1980
+- Eze_20:24tras los ídolos...les fueron los ojosH310
+- Eze_20:29¿qué es ese lugar alto adonde...vais?[[H935]]
+- Eze_21:19señal...que indique la ciudad adonde va
+- Eze_23:6, Eze_23:12todos...jinetes que iban a caballoH7392
+- Eze_30:17Avén...las mujeres irán en cautiverioH3212
+- Eze_30:18los moradores de...irán en cautiverioH3212
+- Eze_31:12se irán de su sombra todos los pueblosH3381
+- Eze_34:11yo, yo mismo iré a buscar mís ovejas, yH1239
+- Eze_35:7y cortaré de él al que vaya y al queH5674
+- Eze_36:20adonde fueron, profanaron mi...nombreH935
+- Eze_36:21profanado por...naciones adonde fueronH935
+- Eze_37:21entre las naciones a las cuales fueronH1980
+- Eze_38:11subiré...iré contra gentes tranquilasH5927
+- Eze_39:14vayan por el país con los que viajanH5674
+- Eze_39:15pasarán los que irán por el país, y elH5674
+- Eze_44:10se apartaron...yéndose tras sus ídolosH8582
+- Dan_2:1tuvo Nabucodonosor...se le fue el sueñoH1961
+- Dan_2:8porque veis que el asunto se me ha idoH230
+- Dan_2:17se fue Daniel a su casa e hizo saber loH236
+- Dan_2:24después de esto fue Daniel a Arioc, alH236
+- Dan_4:14váyanse las bestias que están debajo deH5111
+- Dan_6:12fueron...ante el rey y le hablaron delH5127
+- Dan_6:18luego el rey se fue a su palacio, y seH236
+- Dan_6:18se acostó ayuno...y se le fue el sueñoH5075
+- Dan_6:19el rey...fue apresuradamente al foso deH236
+- Dan_12:13tú irás hasta el fin, y reposarás, yH3212
+- Ose_1:2vé, tómate una mujer fornicaria, eH3212
+- Ose_1:3fue, pues, y tomó a Gomer hija de DiblaimH3212
+- Ose_2:5iré tras mis amantes, que me dan mi panH3212
+- Ose_2:7dirá: Iré y me volveré a mi primer maridoH3212
+- Ose_2:7porque mejor me iba entonces que ahoraH3212
+- Ose_2:13se iba tras sus amantes y se olvidabaH1980
+- Ose_3:1me dijo...Vé, ama a una mujer amada de suH1980
+- Ose_4:14ellos mismos se van con rameras, y conH6504
+- Ose_5:13irá...Efraín a Asiria, y enviará al reyH1980
+- Ose_5:14yo arrebataré, y me iré; tomaré, y noH1980
+- Ose_9:6fueron ellos a causa de la destrucciónH1980
+- Joe_2:8uno irá por su carrera; y aun cayendoH1980
+- Joe_2:9irán por la ciudad, correrán por el muroH8264
+- Amó_1:15su rey irá en cautiverio, él y todosH1980
+- Amó_4:4id a Bet-el, y prevaricad; aumentad enH935
+- Amó_6:2de allí id a la gran Hamat; descendedH1980
+- Amó_6:7ahora irán a la cabeza de los que van aH1540
+- Amó_7:12vidente, vete, huye a tierra de JudáH1980
+- Amó_7:15y me dijo: Vé y profetiza a mi puebloH1980
+- Amó_8:12e irán errantes de mar a mar; desde elH7751
+- Jon_1:2y vé a Nínive, aquella gran ciudadH1980
+- Jon_1:3entró en...Para irse con ellos a TarsisH935
+- Jon_3:2y vé a Nínive, aquella gran ciudad, yH1980
+- Jon_3:3fue a Nínive conforme a la palabra deH1980
+- Miq_1:16porque en cautiverio se fueron de tiH1540
+- Nah_3:17salido el sol se van, y no se conoceH5074
+- Hab_1:9terror va delante de ella, y recogerá
+- Hab_3:5delante de su rostro iba mortandad, y aH1980
+- Zac_2:2dije: ¿A dónde vas? Y él me respondióH1980
+- Zac_6:7se afanaron por ir a recorrer la tierraH1980
+- Zac_6:7id, recorred la tierra. Y recorrieron laH1980
+- Zac_6:10e irás tú...y entrarás en casa de JosíasH935
+- Zac_7:14sin quedar quien fuese ni viniese; puesH5674
+- Zac_8:21dirán: Vamos a implorar...Yo también iréH1980
+- Zac_8:23iremos con vosotros, porque hemos oídoH1980
+- Zac_9:8guarda, para que ninguno vaya ni vengaH5674
+- Zac_9:14trompeta, e irá entre torbellinos delH1980
+- Zac_14:2la mitad de la ciudad irá en cautiverioH3318
+- Mat_2:8id allá y averiguad...acerca del niñoG4198
+- Mat_2:8hacédmelo saber...que yo también vaya yG2064
+- Mat_2:9ellos, habiendo oído al rey, se fueronG4198
+- Mat_2:14tomó de noche al niño...se fue a EgiptoG402
+- Mat_2:20y vete a tierra de Israel, porque hanG4198
+- Mat_2:22tuvo temor de ir allá; pero avisado porG565
+- Mat_2:22avisado...se fue a la región de GalileaG402
+- Mat_4:10vete, Satanás, porque escrito está: AlG5217
+- Mat_5:24y anda, reconcíliate...con tu hermanoG5217
+- Mat_5:41te obligue a llevar carga...vé con él dosG5217
+- Mat_8:4vé, muéstrate al sacerdote, y presentaG5217
+- Mat_8:7y Jesús le dijo: Yo iré y le sanaréG2064
+- Mat_8:9digo a éste: Vé y va; y al otro: Ven, yG4198
+- Mat_8:13dijo...Vé, y como creíste, te sea hechoG5217
+- Mat_8:19dijo...te seguiré adondequiera que vayasG565
+- Mat_8:21que vaya primero y entierre a mi padreG565
+- Mat_8:31si...permítenos ir a aquel hato de cerdosG565
+- Mat_8:32él les dijo: Id. Y ellos salieron, y seG5217
+- Mat_8:32se fueron a aquel hato de cerdos; y heG565
+- Mat_8:34le rogaron que se fuera de sus contornosG3327
+- Mat_9:6levántate, toma tu cama, y vete a tu casaG5217
+- Mat_9:7entonces él se levantó y se fue a su casaG565
+- Mat_9:13id, pues, y aprended lo que significaG4198
+- Mat_10:5por camino de gentiles no vayáis, y enG565
+- Mat_10:6sino id antes a las ovejas perdidas deG4198
+- Mat_10:7y yendo, predicad, diciendo: El reinoG4198
+- Mat_11:1se fue de allí a enseñar y a predicarG3327
+- Mat_11:4id, y haced saber a Juan las cosas queG4198
+- Mat_11:7mientras ellos se iban, comenzó Jesús aG4198
+- Mat_12:1iba Jesús por los sembrados en un díaG4198
+- Mat_12:45va, y toma consigo otros 7 espíritusG4198
+- Mat_13:25vino su enemigo y sembró cizaña...fueG2064
+- Mat_13:28¿quieres...vayamos y la arranquemos?[[G565]]
+- Mat_13:44gozoso...va y vende todo lo que tieneG5217
+- Mat_13:46fue y vendió todo lo que tenía, y laG565
+- Mat_13:53cuando terminó Jesús...se fue de allíG3332
+- Mat_14:12y fueron y dieron las nuevas a JesúsG4334
+- Mat_14:15que vayan por las aldeas y compren deG565
+- Mat_14:16no tienen necesidad de irse; dadlesG565
+- Mat_14:22e ir delante de él a la otra riberaG4254
+- Mat_14:28manda que yo vaya a ti sobre las aguasG2064
+- Mat_14:29andaba sobre las aguas para ir a JesúsG2064
+- Mat_15:17lo que entra en la boca va al vientreG5562
+- Mat_15:21se fue a la región de Tiro y de SidónG1831
+- Mat_16:4no le será dada...Y dejándolos, se fueG565
+- Mat_16:21que le era necesario ir a Jerusalén yG565
+- Mat_17:27vé al mar, y echa el anzuelo, y el...pezG4198
+- Mat_18:12va por los montes a buscar la que seG4198
+- Mat_18:15vé y repréndele estando tú y él solosG5217
+- Mat_18:30fue y le echó en la cárcel, hasta queG565
+- Mat_18:31fueron y refirieron a su señor todo loG2064
+- Mat_19:1y fue a las regiones de Judea al otroG2064
+- Mat_19:15puesto sobre ellos las manos, se fueG4198
+- Mat_19:22oyendo el joven esta palabra, se fueG565
+- Mat_20:4id...vosotros a mi viña...Y ellos fueronG5217
+- Mat_20:7id...vosotros a la viña, y recibiréis loG5217
+- Mat_20:9que habían ido cerca de la hora undécimaG2064
+- Mat_20:14toma lo que es tuyo, y vete...quiero darG5217
+- Mat_21:2id a la aldea que...enfrente de vosotrosG4198
+- Mat_21:6fueron, e hicieron como Jesús les mandóG4198
+- Mat_21:9gente que iba delante y la que i detrásG4254
+- Mat_21:28hijo, vé hoy a trabajar en mi viñaG5217
+- Mat_21:29no quiero...después, arrepentido, fueG565
+- Mat_21:30él, dijo: Sí, señor, voy. Y no fueG565
+- Mat_21:31las rameras van delante de...al reinoG4254
+- Mat_21:33una viña...la arrendó...y se fue lejosG589
+- Mat_22:5ellos, sin hacer caso, se fueron, unoG565
+- Mat_22:9id, pues, a las salidas de los caminosG4198
+- Mat_22:15se fueron los fariseos y consultaronG4198
+- Mat_22:22maravillaron, y dejándole, se fueronG565
+- Mat_24:1cuando Jesús salió del templo y se ibaG1831
+- Mat_25:9id más bien a los que venden, y compradG4198
+- Mat_25:10mientras ellas iban a...vino el esposoG565
+- Mat_25:14es como un hombre que yéndose lejosG589
+- Mat_25:15dio...a cada uno...y luego se fue lejosG589
+- Mat_25:16fue y negoció con ellos, y ganó otrosG4198
+- Mat_25:25fui y escondí tu talento en la tierraG565
+- Mat_25:46e irán éstos al castigo eterno, y losG565
+- Mat_26:14Judas...fue a...principales sacerdotesG4198
+- Mat_26:18dijo: Id a la ciudad a cierto hombreG5217
+- Mat_26:23al que mete la mano...me va a entregar
+- Mat_26:24Hijo del Hombre va, según está escritoG5217
+- Mat_26:32pero...iré delante de vosotros a GalileaG4254
+- Mat_26:36aquí, entre tanto que voy allí y oroG565
+- Mat_26:39yendo...adelante, se postró sobre suG4281
+- Mat_26:42fue, y oró por segunda vez, diciendoG565
+- Mat_26:44fue de nuevo, y oró por tercera vezG565
+- Mat_26:46levantaos, vamos; ved, se acerca el queG71
+- Mat_27:5arrojando las piezas...fue y se ahorcóG565
+- Mat_27:60hacer rodar una gran piedra...se fueG565
+- Mat_27:65les dijo...id, aseguradlo como sabéisG5217
+- Mat_27:66ellos fueron y aseguraron el sepulcroG4198
+- Mat_28:7id pronto y decid a sus discípulos queG4198
+- Mat_28:7aquí va delante de vosotros a GalileaG4254
+- Mat_28:8fueron corriendo a dar las nuevas a susG1831
+- Mat_28:8y mientras iban a dar las nuevas a losG4198
+- Mat_28:10id, dad las nuevas a mis hermanos, paraG5217
+- Mat_28:10que vayan a Galilea, y allí me veránG565
+- Mat_28:11mientras ellas iban, he aquí, unos deG4198
+- Mat_28:11unos de la guardia fueron a la ciudadG2064
+- Mat_28:16los once...fueron a Galilea, al lugarG4198
+- Mat_28:19id, y haced discípulos...las nacionesG4198
+- Mar_1:35fue a un lugar desierto, y allí orabaG565
+- Mar_1:38vamos a los lugares vecinos, para queG71
+- Mar_1:42al instante la lepra se fue de aquél, yG565
+- Mar_1:44vé, muéstrate al sacerdote, y ofrece porG5217
+- Mar_1:45pero ido él, comenzó a publicarlo muchoG1831
+- Mar_2:11digo...toma tu lecho, y vete a tu casaG5217
+- Mar_5:17comenzaron a rogarle que se fuera de susG565
+- Mar_5:19vete a...y cuéntales cuán grandes cosasG5217
+- Mar_5:20fue, y comenzó a publicar en DecápolisG565
+- Mar_5:24fue, pues, con él; y le seguía una granG565
+- Mar_5:26y nada había aprovechado...le iba peorG2064
+- Mar_5:34vé en paz, y queda sana de tu azoteG5217
+- Mar_6:28el guarda fue, le decapitó en la cárcelG565
+- Mar_6:31eran muchos los que iban y venían, deG5217
+- Mar_6:32y se fueron solos...a un lugar desiertoG565
+- Mar_6:33muchos...los vieron ir, y le reconocieronG5217
+- Mar_6:33fueron allá a pie desde las ciudadesG4936
+- Mar_6:36para que vayan a los campos y aldeasG565
+- Mar_6:37vayamos y compremos pan...y les demosG565
+- Mar_6:38dijo: ¿Cuántos panes tenéis? Id y vedloG5217
+- Mar_6:45hizo a sus discípulos...ir delante de élG4254
+- Mar_6:46y después que...se fue al monte a orarG565
+- Mar_7:24se fue a la región de Tiro y de SidónG565
+- Mar_7:29por...vé; el demonio ha salido de tu hijaG5217
+- Mar_8:13y dejándolos...se fue a la otra riberaG565
+- Mar_9:43que teniendo dos manos ir al infiernoG565
+- Mar_10:22él, afligido por esta palabra, se fueG565
+- Mar_10:32iban por el camino...Jesús iba delanteG4254
+- Mar_10:52dijo: Vete, tu fe te ha salvado. Y enG5217
+- Mar_11:2dijo: Id a la aldea que está enfrenteG5217
+- Mar_11:4fueron, y hallaron el pollino atadoG565
+- Mar_11:9los que iban delante y los...daban vocesG4254
+- Mar_11:11Jesús...se fue a Betania con los doceG1831
+- Mar_11:13fue a ver si tal vez hallaba en ellaG2064
+- Mar_12:1la arrendó a unos labradores, y se fueG589
+- Mar_12:12temían a la...y dejándole, se fueronG565
+- Mar_13:34es como el hombre que yéndose lejosG590
+- Mar_14:10fue a los...sacerdotes para entregárseloG565
+- Mar_14:12vayamos a preparar para...la pascua?[[G565]]
+- Mar_14:13id a la ciudad, y os saldrá...un hombreG5217
+- Mar_14:16fueron sus discípulos y entraron en laG1831
+- Mar_14:21la verdad el Hijo del Hombre va, segúnG5217
+- Mar_14:28pero...iré delante de vosotros a GalileaG4254
+- Mar_14:35yéndose un poco adelante, se postróG4281
+- Mar_14:39otra vez fue y oró...las mismas palabrasG565
+- Mar_14:42levantaos, vamos; he aquí, se acercaG71
+- Mar_16:1compraron especias...para ir a ungirleG2064
+- Mar_16:7id, decid a...él va delante de vosotrosG5217
+- Mar_16:8y ellas se fueron huyendo del sepulcroG1831
+- Mar_16:10yendo ella, lo hizo saber a los queG4198
+- Mar_16:12dos...que iban de camino, yendo al campoG4198
+- Mar_16:13fueron y lo hicieron saber a los otrosG565
+- Mar_16:15dijo: Id por todo el mundo y predicadG4198
+- Luc_1:17irá delante de él con el espíritu yG4281
+- Luc_1:23y cumplidos los días...se fue a su casaG565
+- Luc_1:38María...el ángel se fue de su presenciaG565
+- Luc_1:39María, fue de prisa a la montaña, a unaG4198
+- Luc_1:76irás delante de la presencia del SeñorG4313
+- Luc_2:3iban todos para ser empadronados, cadaG4198
+- Luc_2:15cuando los ángeles se fueron de ellosG1330
+- Luc_2:41iban sus padres...los años a JerusalénG4198
+- Luc_3:3él fue por...la región contigua al JordánG2064
+- Luc_4:8vete de mí, Satanás, porque escrito estáG5217
+- Luc_4:30él pasó por en medio de ellos, y se fueG4198
+- Luc_4:42salió y se fue a un lugar desierto; yG4198
+- Luc_4:42detenían para que no se fuera de ellosG4198
+- Luc_5:13sé limpio. Y al instante la lepra se fueG565
+- Luc_5:14vé, le dijo, muéstrate al sacerdote, yG565
+- Luc_5:24digo...toma tu lecho, y vete a tu casaG4198
+- Luc_5:25se fue a su casa, glorificando a DiosG565
+- Luc_6:12él fue al monte a orar, y pasó la nocheG1831
+- Luc_7:6Jesús fue con ellos. Pero cuando ya noG4198
+- Luc_7:8digo a éste: Vé, y va; y al otro: Ven, yG4198
+- Luc_7:11que él iba a la ciudad que se llama NaínG4198
+- Luc_7:11e iban con él muchos de sus discípulosG4848
+- Luc_7:22les dijo: Id, haced saber a Juan lo queG4198
+- Luc_7:24cuando se fueron los mensajeros de JuanG1831
+- Luc_7:50él dijo...Tu fe te ha salvado, vé en pazG4198
+- Luc_8:1que Jesús iba por todas las ciudades yG1353
+- Luc_8:14yéndose, son ahogados por los afanes yG4198
+- Luc_8:31y le rogaban que no los mandase ir alG565
+- Luc_8:34yendo dieron aviso en la ciudad y porG565
+- Luc_8:39se fue, publicando por toda la ciudadG565
+- Luc_8:42y mientras iba, la multitud le oprimíaG5217
+- Luc_8:48hija, tu fe te ha salvado; vé en pazG4198
+- Luc_9:12para que vayan a las aldeas y campos deG565
+- Luc_9:13que vayamos nosotros a comprar alimentosG4198
+- Luc_9:51afirmó su rostro para ir a JerusalénG4198
+- Luc_9:52fueron y entraron en una aldea de losG4198
+- Luc_9:53su aspecto era como de ir a JerusalénG4198
+- Luc_9:56para salvarlas. Y se fueron a otra aldeaG4198
+- Luc_9:57yendo ellos, uno le dijo en el caminoG4198
+- Luc_9:57Señor, te seguiré adondequiera...vayasG565
+- Luc_9:59déjame que...vaya y entierre a mi padreG565
+- Luc_9:60y tú vé, y anuncia el reino de DiosG565
+- Luc_10:1a toda ciudad...adonde él había de irG2064
+- Luc_10:3id; he aquí yo os envío como corderosG4198
+- Luc_10:30hiriéndole, se fueron, dejándole medioG565
+- Luc_10:33pero un samaritano, que iba de caminoG3593
+- Luc_10:37Jesús le dijo: Vé, y haz tú lo mismoG4198
+- Luc_10:38que yendo de camino, entró en una aldeaG4198
+- Luc_11:5va a él a medianoche y le dice: AmigoG4198
+- Luc_11:26va, y toma...siete espíritus peores queG4198
+- Luc_12:58vayas al magistrado con tu adversarioG5217
+- Luc_13:31sal, y vete de aquí, porque Herodes teG4198
+- Luc_13:32id, y decid a aquella zorra: He aquíG4198
+- Luc_14:10vé y siéntate en el último lugar, paraG4198
+- Luc_14:18una hacienda, y necesito ir a verlaG1831
+- Luc_14:19bueyes, y voy a probarlos; te ruego queG4198
+- Luc_14:20acabo de casarme, y por...no puedo irG2064
+- Luc_14:21vé...por las plazas y las calles de laG1831
+- Luc_14:23vé por los caminos...fuérzalos a entrarG1831
+- Luc_14:25iban con él; y volviéndose, les dijoG4848
+- Luc_15:4deja las 99...y va tras la que se perdióG4198
+- Luc_15:13se fue lejos a una provincia apartadaG589
+- Luc_15:18me levantaré e iré a mi padre, y leG4198
+- Luc_16:30si alguno fuere a ellos de entre losG4198
+- Luc_17:11yendo Jesús a Jerusalén, pasaba entreG4198
+- Luc_17:14les dijo: Id, mostraos a los sacerdotesG4198
+- Luc_17:14que mientras iban, fueron limpiadosG5217
+- Luc_17:19levántate, vete; tu fe te ha salvadoG4198
+- Luc_17:23o helo allí. No vayáis, ni los sigáisG565
+- Luc_18:39y los que iban delante le reprendíanG4254
+- Luc_19:1entrado Jesús en Jericó, iba pasando por
+- Luc_19:12hombre noble se fue a un país lejanoG4198
+- Luc_19:28esto, iba delante subiendo a JerusalénG4198
+- Luc_19:30id a la aldea de enfrente, y al entrarG5217
+- Luc_19:32fueron los que habían sido enviados, yG565
+- Luc_21:8vendrán...Mas no vayáis en pos de ellosG4198
+- Luc_21:21y los que en medio de ella, váyanseG1633
+- Luc_22:4y éste fue y habló con los principalesG565
+- Luc_22:8id, preparadnos la pascua para que laG4198
+- Luc_22:13fueron...hallaron como les había dichoG565
+- Luc_22:22Hijo del Hombre va, según lo que estáG4198
+- Luc_22:33dispuesto estoy a ir contigo no sóloG4198
+- Luc_22:39saliendo, se fue...monte de los OlivosG4198
+- Luc_22:47Judas, uno de...iba al frente de ellosG4281
+- Luc_23:52fue a Pilato, y pidió el cuerpo deG4334
+- Luc_24:12y se fue a casa maravillándose de loG565
+- Luc_24:13iban el mismo día a una aldea llamadaG4198
+- Luc_24:14iban hablando...de todas aquellas cosas
+- Luc_24:24y fueron...de los nuestros al sepulcroG565
+- Luc_24:28llegaron a la aldea adonde iban, y élG4198
+- Luc_24:28y él hizo como que iba más lejosG4198
+- Jua_1:39fueron, y vieron donde moraba, y seG2064
+- Jua_1:43siguiente día quiso Jesús ir a GalileaG1831
+- Jua_3:8ni sabes de dónde viene, ni a dónde vaG5217
+- Jua_4:3salió de Judea...fue otra vez a GalileaG565
+- Jua_4:8sus discípulos habían ido a la ciudad aG565
+- Jua_4:16dijo: Vé, llama a tu marido, y ven acáG5217
+- Jua_4:28la mujer...fue a la ciudad, y dijo a losG565
+- Jua_4:43después, salió de allí y fue a GalileaG565
+- Jua_4:45también ellos habían ido a la fiestaG2064
+- Jua_4:50le dijo: Vé, tu hijo vive. Y el hombreG4198
+- Jua_4:50y el hombre creyó la palabra...y se fueG4198
+- Jua_4:54señal hizo Jesús, cuando fue de Judea aG2064
+- Jua_5:7entre tanto que yo voy, otro desciendeG2064
+- Jua_5:15hombre se fue, y dio aviso a los judíosG565
+- Jua_5:45no penséis que yo voy a acusaros
+- Jua_6:1fue al otro lado del mar de Galilea, elG565
+- Jua_6:21la cual llegó...a la tierra adonde ibanG5217
+- Jua_6:22no...sino que éstos se habían ido solosG4897
+- Jua_6:24y fueron a Capernaum, buscando a JesúsG2064
+- Jua_6:67¿queréis acaso íros también vosotros?[[G5217]]
+- Jua_6:68le respondió...Señor, ¿a quién iremos?[[G565]]
+- Jua_6:71éste era el que le iba a entregar, yG3195
+- Jua_7:3y vete a Judea, para que también tusG5217
+- Jua_7:33poco de tiempo...e iré al que me envióG5217
+- Jua_7:35¿adónde se irá éste, que no le hallemos?[[G4198]]
+- Jua_7:35¿irá a los dispersos entre los griegosG4198
+- Jua_7:53cada uno se fue a su casaG4198
+- Jua_8:1y Jesús se fue al monte de los OlivosG4198
+- Jua_8:11ni yo te condeno; vete, y no peques másG4198
+- Jua_8:14sé de dónde he venido y a dónde voy; peroG5217
+- Jua_8:14vosotros no sabéis de...ni a dónde voyG5217
+- Jua_8:21yo me voy...a donde yo v...no podéis venirG5217
+- Jua_8:22donde yo voy, vosotros no podéis venir?[[G5217]]
+- Jua_8:59y atravesando por en medio de...se fueG1831
+- Jua_9:7vé a lavarte en el estanque de SiloéG5217
+- Jua_9:7fue entonces, y se lavó, y regresó viendoG565
+- Jua_9:11y me dijo: Vé al Siloé...fui, y me lavéG5217, [[G565]]
+- Jua_10:4va delante de ellas; y las ovejas leG4198
+- Jua_10:40fue de nuevo al otro lado del JordánG565
+- Jua_11:7los discípulos: Vamos a Judea otra vezG71
+- Jua_11:8los judíos apedrearte, ¿y otra vez vasG5217
+- Jua_11:11Lázaro duerme...voy para despertarleG4198
+- Jua_11:15allí, para que creáis; mas vamos a élG71
+- Jua_11:16dijo...Tomás...Vamos también nosotrosG71
+- Jua_11:28dicho...fue y llamó a María su hermanaG565
+- Jua_11:31diciendo: Va al sepulcro a llorar allíG5217
+- Jua_11:44Jesús les dijo: Desatadle, y dejadle irG5217
+- Jua_11:46algunos de ellos fueron a los fariseosG565
+- Jua_12:19ya veis...Mirad, el mundo se va tras élG565
+- Jua_12:22fue y se lo dijo a Andrés; entoncesG2064
+- Jua_12:35anda en tinieblas, no sabe a dónde vaG5217
+- Jua_12:36estas cosas habló Jesús, y se fue y seG565
+- Jua_13:3que había salido de Dios, y a Dios ibaG5217
+- Jua_13:11porque sabía quien le iba a entregar
+- Jua_13:33a donde yo voy, vosotros no podéis irG5217
+- Jua_13:36dijo Simón Pedro: Señor, ¿a dónde vas?[[G5217]]
+- Jua_13:36donde yo voy, no me puedes seguir ahoraG5217
+- Jua_14:2voy, pues, a preparar lugar para vosotrosG4198
+- Jua_14:3si me fuere y os preparare lugar, vendréG4198
+- Jua_14:4sabéis a dónde voy, y sabéis el caminoG5217
+- Jua_14:5Señor, no sabemos a dónde vas; ¿cómoG5217
+- Jua_14:12mayores hará, porque yo voy al PadreG4198
+- Jua_14:28os he dicho: Voy, y vengo a vosotrosG5217
+- Jua_14:28he dicho que voy al Padre; porque elG4198
+- Jua_14:31mas para que...Levantaos, vamos de aquíG71
+- Jua_15:16puesto para que vayáis y llevéis frutoG5217
+- Jua_16:5ahora voy al que me envió; y ninguno deG5217
+- Jua_16:5de vosotros me pregunta: ¿A dónde vas?[[G5217]]
+- Jua_16:7yo os digo...os conviene que yo me vayaG565
+- Jua_16:7no me fuere, el Consolador no vendría aG565
+- Jua_16:7Consolador...si me fuere, os lo enviaréG565
+- Jua_16:10de justicia, por cuanto voy al PadreG5217
+- Jua_16:16y me veréis; porque yo voy al PadreG5217
+- Jua_16:17me veréis; y, porque yo voy al Padre?[[G5217]]
+- Jua_16:28otra vez dejo el mundo, y voy al PadreG4198
+- Jua_17:11éstos están en el mundo, y yo voy a tiG2064
+- Jua_17:13pero ahora voy a ti; y hablo esto enG2064
+- Jua_18:3fue allí con linternas y antorchas, yG2064
+- Jua_18:8si me buscáis a mí, dejad ir a éstosG5217
+- Jua_20:1María Magdalena fue de mañana, siendoG2064
+- Jua_20:2fue a Simón Pedro y al otro discípuloG2064
+- Jua_20:3salieron Pedro y...y fueron al sepulcroG1831
+- Jua_20:17vé a mis hermanos, y diles: Subo a miG4198
+- Jua_20:18fue...María Magdalena para dar a losG2064
+- Jua_21:3les dijo: Voy a pescar...Vamos...fueronG5217, [[G1831]]
+- Jua_21:18te ceñías, e ibas donde querías; masG4043
+- Hec_1:4mandó que no se fueran de JerusalénG5563
+- Hec_1:10entre tanto que él se iba, he aquí seG4198
+- Hec_1:11vendrá como le habéis visto ir al cieloG4198
+- Hec_1:25cayó Judas...para irse a su propio lugarG4198
+- Hec_3:3y a Juan que iban a entrar en el temploG1524
+- Hec_5:20id, y...en pie en el templo, anunciad alG4198
+- Hec_5:26fue el jefe...y los trajo sin violenciaG565
+- Hec_7:40dioses que vayan delante de nosotrosG4313
+- Hec_8:4fueron esparcidos iban por todas partesG1330
+- Hec_8:26y vé hacia el sur, por el camino queG4198
+- Hec_8:27él se levantó y fue. Y sucedió que unG4198
+- Hec_8:36yendo por el camino, llegaron a...aguaG4198
+- Hec_9:3mas yendo por el camino, aconteció que alG4198
+- Hec_9:7hombres que iban con Saulo se pararonG4922
+- Hec_9:11y vé a la calle que se llama Derecha, yG4198
+- Hec_9:15vé, porque instrumento escogido me esG4198
+- Hec_9:17fue entonces Ananías y entró en la casaG565
+- Hec_9:39levantándose...Pedro, fue con ellos; yG4905
+- Hec_10:7ido el ángel que hablaba con CornelioG565
+- Hec_10:9mientras ellos iban por el camino y seG3596
+- Hec_10:20desciende, y no dudes de ir con ellosG4198
+- Hec_10:23levantándose, se fue con ellos; y leG1831
+- Hec_11:12el Espíritu me dijo que fuese con ellosG4905
+- Hec_11:12fueron...conmigo estos seis hermanosG4905
+- Hec_11:22a Bernabé que fuese hasta AntioquíaG1330
+- Hec_11:25fue Bernabé a Tarso para buscar a SauloG1831
+- Hec_12:17contó...Y salió, y se fue a otro lugarG4198
+- Hec_15:38y no había ido con ellos a la obraG4905
+- Hec_16:3quiso Pablo que éste fuese con él; yG1831
+- Hec_16:7a Misia, intentaron ir a Bitinia, peroG4198
+- Hec_16:16que mientras íbamos a la oración, nosG4198
+- Hec_16:40hermanos, los consolaron, y se fueronG1831
+- Hec_17:2Pablo, como acostumbraba, fue a ellosG1525
+- Hec_17:13fueron allá, y también alborotaron aG2064
+- Hec_17:14enviaron a Pablo...fuese hacia el marG4198
+- Hec_18:1Pablo salió de Atenas y fue a CorintoG2064
+- Hec_18:2los judíos saliesen de Roma. Fue a ellosG4334
+- Hec_18:6yo...desde ahora me iré a los gentilesG4198
+- Hec_18:7se fue a la casa de uno llamado JustoG2064
+- Hec_20:1se despidió y salió para ir a MacedoniaG4198
+- Hec_20:13a Pablo...queriendo él ir por tierraG3978
+- Hec_20:22voy a Jerusalén, sin saber lo que alláG4198
+- Hec_21:1y fuimos con rumbo directo a Cos, y alG2064
+- Hec_21:8saliendo Pablo y los...fuimos a CesareaG2064
+- Hec_22:5y fui a Damasco para traer presos aG4198
+- Hec_22:6yendo yo, al llegar cerca de DamascoG4198
+- Hec_22:10vé a Damasco, y allí se te dirá todoG4198
+- Hec_22:21vé, porque yo te enviaré lejos a losG4198
+- Hec_22:26fue y dio aviso al tribuno, diciendoG4334
+- Hec_23:14fueron a los principales sacerdotes yG4334
+- Hec_23:16la celada, fue y entró en la fortalezaG3854
+- Hec_23:23preparasen...que fuesen hasta CesareaG4198
+- Hec_23:32dejando a los jinetes que fuesen conG4198
+- Hec_24:25Félix se espantó, y dijo: Ahora veteG4198
+- Hec_25:12a César has apelado; a César irásG4198
+- Hec_25:15cuando fui a Jerusalén...me presentaron
+- Hec_25:20le pregunté si quería ir a JerusalénG4198
+- Hec_26:12ocupado en esto, iba yo a Damasco conG4198
+- Hec_26:13yendo por el camino, vi una luz del
+- Hec_26:13me rodeó a mí y a los que iban conmigoG4198
+- Hec_27:3permitió que fuese a los amigos, paraG4198
+- Hec_28:14nos quedásemos...y luego fuimos a RomaG2064
+- Hec_28:26vé a este pueblo, y diles: De oídoG4198
+- Hec_28:29los judíos se fueron, teniendo granG565
+- Rom_1:10un próspero viaje para ir a vosotrosG2064
+- Rom_1:13muchas veces...propuesto ir a vosotrosG2064
+- Rom_9:30gentiles, que no iban tras la justiciaG1377
+- Rom_9:31Israel, que iba tras una ley de justiciaG1377
+- Rom_9:32porque iban tras ella no por fe, sinoG2212
+- Rom_15:22me he visto impedido...de ir a vosotrosG2064
+- Rom_15:23deseando desde hace muchos años ir aG2064
+- Rom_15:24cuando vaya a España, iré a vosotrosG2064
+- Rom_15:25ahora voy a Jerusalén para ministrarG4198
+- Rom_15:29cuando vaya...llegaré con abundancia deG2064
+- 1Co_2:1cuando fui a vosotros para anunciarosG2064
+- 1Co_2:1no fui con excelencia de palabras o deG2064
+- 1Co_4:18si yo nunca hubiese de ir a vosotrosG2064
+- 1Co_4:19pero iré pronto a vosotros, si el SeñorG2064
+- 1Co_4:21¿iré a vosotros con vara, o con amor yG2064
+- 1Co_6:1ir a juicio delante de los injustos, y
+- 1Co_11:34las pondré en orden cuando yo fuereG4905
+- 1Co_14:6yo voy a vosotros hablando en lenguasG2064
+- 1Co_16:4fuere propio que yo también vaya, iránG4198
+- 1Co_16:5iré a vosotros, cuando haya pasado porG2064
+- 1Co_16:6que...me encaminéis a donde haya de irG4198
+- 1Co_16:12Apolos...le rogué que fuese a vosotrosG2064
+- 1Co_16:12de ninguna manera tuvo voluntad de irG2064
+- 1Co_16:12ahora; pero irá cuando tenga oportunidadG2064
+- 2Co_1:15esta confianza quise ir primero aG2064
+- 2Co_2:1no ir otra vez a vosotros con tristezaG2064
+- 2Co_8:17por su propia voluntad partió para irG1831
+- 2Co_12:14tercera vez estoy preparado para ir aG2064
+- 2Co_13:1es la tercera vez que voy a vosotrosG2064
+- 2Co_13:2que si voy otra vez, no seré indulgenteG2064
+- Gál_1:17que fui a Arabia, y volví de nuevo aG565
+- Gál_1:21después fui a las regiones de Siria yG2064
+- Efe_6:3te vaya bien, y seas de larga vida enG1096
+- Flp_1:27para que o sea que vaya a veros, oG2064
+- Flp_2:23luego que yo vea cómo van mis asuntos
+- Flp_2:24confío en el Señor que yo...iré prontoG2064
+- 1Ts_2:18por lo cual quisimos ir a vosotrosG2064
+- 1Ti_1:3te quedases...cuando fui a MacedoniaG4198
+- 1Ti_3:14tengo la esperanza de ir pronto a verteG2064
+- 1Ti_4:13tanto que voy, ocúpate en la lectura, laG2064
+- 2Ti_3:9mas no irán más adelante; porque suG4298
+- 2Ti_3:13y los engañadores irán de mal en peorG4298
+- 2Ti_4:10Demas me ha desamparado...y se ha ido aG4198
+- 2Ti_4:10Crescente fue a Galacia, y...a Dalmacia
+- Heb_6:1vamos...a la perfección; no echandoG5342
+- Heb_11:8salir al...y salió sin saber a dónde ibaG1831
+- Heb_13:23con el cual, si viniere pronto, iré aG2064
+- Stg_1:24él se considera a sí mismo, y se vaG565
+- Stg_2:16les dice: Id en paz, calentaos y saciaosG5217
+- Stg_4:13¡vamos ahora!...que decís: Hoy y mañanaG33
+- Stg_4:13iremos a tal ciudad, y estaremos alláG4198
+- Stg_5:1¡vamos ahora, ricos! Llorad y aullad porG33
+- 1Pe_3:19en el...fue y predicó a los espíritusG4198
+- 1Jn_2:11en tinieblas, y no sabe a donde vaG5217
+- 2Jn_1:12pues espero ir...y hablar cara a caraG2064
+- Jud_1:7ido en pos de vicios contra naturalezaG565
+- Rev_10:8vé y toma el librito que está abiertoG5217
+- Rev_10:9fui al ángel, diciéndole que me dieseG565
+- Rev_13:10lleva en cautividad, va en cautividadG5217
+- Rev_14:4siguen al Cordero...dondequiera que vaG5217
+- Rev_16:1id y derramad sobre la tierra las sieteG5217
+- Rev_16:2fue el primero, y derramó su copa sobreG565
+- Rev_16:14van a los reyes de la tierra en todoG1607
+- Rev_17:8está para subir del...e ir a perdiciónG5217
+- Rev_17:11de entre los siete, y va a la perdiciónG5217

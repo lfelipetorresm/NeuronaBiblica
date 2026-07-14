@@ -1,0 +1,335 @@
+---
+tipo: concordancia
+palabra: SIETE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SIETE
+
+- Gén_4:15matare a Caín, s veces será castigadoH7659
+- Gén_4:24si s veces será vengado Caín, Lamec enH7659
+- Gén_4:24Lamec en verdad setenta veces s lo seráH7659
+- Gén_7:2de todo animal limpio tomarás s parejasH7651
+- Gén_7:3las aves de los cielos, s parejas, machoH7651
+- Gén_7:4pasados aún s días, yo haré llover sobreH7651
+- Gén_8:10aún otros s días, y volvió a enviar laH7651
+- Gén_8:12aún otros s días, y envió la paloma, laH7651
+- Gén_21:28puso Abraham s corderas...rebaño aparteH7651
+- Gén_21:29¿qué significan esas s corderas que hasH7651
+- Gén_21:30estas s corderas tomarás de mi manoH7651
+- Gén_29:18yo te serviré s años por Raquel tu hijaH7651
+- Gén_29:20así sirvió Jacob por Raquel s añosH7651
+- Gén_29:27por el servicio...conmigo otros s añosH7651
+- Gén_29:30Lea; y sirvió a Labán aún otros s añosH7651
+- Gén_31:23Labán...fue tras Jacob camino de s díasH7651
+- Gén_33:3él pasó...y se inclinó a tierra s vecesH7651
+- Gén_41:2y que del río subían s vacas, hermosasH7651
+- Gén_41:3del río otras s vacas de feo aspecto yH7651
+- Gén_41:4devoraban a las s vacas hermosas y muyH7651
+- Gén_41:5que s espigas llenas y hermosas crecíanH7651
+- Gén_41:6después de ellas salían otras s espigasH7651
+- Gén_41:7las s espigas menudas devoraban a las sH7651
+- Gén_41:18que del río subían s vacas de gruesasH7651
+- Gén_41:19otras s vacas subían después de ellasH7651
+- Gén_41:20feas devoraban a las s primeras vacasH7651
+- Gén_41:22vi...soñando, que s espigas crecían enH7651
+- Gén_41:23que otras s espigas menudas, marchitasH7651
+- Gén_41:24devoraban a las s espigas hermosas; y loH7651
+- Gén_41:26s vacas hermosas s años son...son s añosH7651
+- Gén_41:27las s vacas flacas...son s años; y lasH7651
+- Gén_41:27las s espigas...s años serán de hambreH7651
+- Gén_41:29aquí vienen s años de gran abundanciaH7651
+- Gén_41:30y tras ellos seguirán s años de hambreH7651
+- Gén_41:34quinte...en los s años de la abundanciaH7651
+- Gén_41:36en depósito...para los s años de hambreH7651
+- Gén_41:47s años de abundancia la tierra produjoH7651
+- Gén_41:48reunió todo el alimento de los s añosH7651
+- Gén_41:53se cumplieron los s años de abundanciaH7651
+- Gén_41:54comenzaron a venir...s años del hambreH7651
+- Gén_46:25y dio a luz éstos a Jacob; por todas sH7651
+- Gén_50:10José hizo a su padre duelo por s díasH7651
+- Éxo_2:16pozo, s hijas que tenía el sacerdoteH7651
+- Éxo_7:25cumplieron s días después...hirió el ríoH7651
+- Éxo_12:15s días comeréis panes sin levaduraH7651
+- Éxo_12:19s días no se hallará levadura en...casasH7651
+- Éxo_13:6s días comerás pan sin leudar, y...fiestaH7651
+- Éxo_13:7por los s días se comerán los panes sinH7651
+- Éxo_22:30de tu oveja; s días estará con su madreH7651
+- Éxo_23:15s días comerás los panes sin levaduraH7651
+- Éxo_25:37y le harás s lamparillas, las cualesH7651
+- Éxo_29:30por s días las vestirá el que de susH7651
+- Éxo_29:35a Aarón y...por s días los consagrarásH7651
+- Éxo_29:37por s días harás expiación por el altarH7651
+- Éxo_34:18s días comerás pan sin levadura, segúnH7651
+- Éxo_37:23hizo asimismo sus s lamparillas, susH7651
+- Lev_4:6rociará de...s veces delante de JehováH7651
+- Lev_4:17rociará s veces delante de Jehová haciaH7651
+- Lev_8:11y roció de él sobre el altar s veces, yH7651
+- Lev_8:33de la puerta del...no saldréis en s díasH7651
+- Lev_8:33porque por s días seréis consagradosH7651
+- Lev_8:35puerta...estaréis día y noche por s díasH7651
+- Lev_12:2y dé a luz varón, será inmunda s díasH7651
+- Lev_13:4, Lev_13:31encerrará al llagado por s díasH7651
+- Lev_13:5le volverá a encerrar por otros s díasH7651
+- Lev_13:21, Lev_13:26el sacerdote le encerrará por s díasH7651
+- Lev_13:33encerrará...s días al que tiene la tiñaH7651
+- Lev_13:50encerrará la cosa plagada por s díasH7651
+- Lev_13:54laven...lo encerrará otra vez por s díasH7651
+- Lev_14:7rociará s veces sobre el que se purificaH7651
+- Lev_14:8raerá...morará fuera de su tienda s díasH7651
+- Lev_14:16, Lev_14:27aceite...s veces delante de JehováH7651
+- Lev_14:38sacerdote...cerrará la casa por s díasH7651
+- Lev_14:51los mojará...y rociará la casa s vecesH7651
+- Lev_15:13contará s días desde su purificaciónH7651
+- Lev_15:19tuviere flujo...s días estará apartadaH7651
+- Lev_15:24durmiere con ella...inmundo por s díasH7651
+- Lev_15:28contará s días, y después será limpiaH7651
+- Lev_16:14con su dedo s veces de aquella sangreH7651
+- Lev_16:19esparcirá sobre él...la sangre...s vecesH7651
+- Lev_22:27s días estará mamando de su madre; masH7651
+- Lev_23:6mes...s días comeréis panes sin levaduraH7651
+- Lev_23:8y ofreceréis...s días ofrenda encendidaH7651
+- Lev_23:15y contaréis, s semanas cumplidas seránH7651
+- Lev_23:18ofreceréis con el pan s corderos de unH7651
+- Lev_23:34la fiesta solemne...a Jehová por s díasH7651
+- Lev_23:36s días ofreceréis ofrenda encendida aH7651
+- Lev_23:39, Lev_23:41haréis fiesta a Jehová por s díasH7651
+- Lev_23:40tomaréis...y os regocijaréis...por s díasH7651
+- Lev_23:42en tabernáculos habitaréis s días; todoH7651
+- Lev_25:8s semanas de años, s veces s años, deH7651
+- Lev_25:8que los días de las s semanas de añosH7651
+- Lev_26:18, Lev_26:24, Lev_26:28s veces más por vuestros pecadosH7651
+- Lev_26:21yo añadiré...s veces más plagas segúnH7651
+- Núm_8:2s lámparas alumbrarán hacia adelanteH7651
+- Núm_12:14rostro, ¿no se avergonzaría por s días?[[H7651]]
+- Núm_12:14sea echada...del campamento por s díasH7651
+- Núm_12:15María fue echada del campamento s díasH7651
+- Núm_13:22Hebrón fue edificada s años antes deH7651
+- Núm_19:4rociará...con la sangre de ella s vecesH7651
+- Núm_19:11el que tocare cadáver...inmundo s díasH7651
+- Núm_19:14que esté en ella, será inmundo s díasH7651
+- Núm_19:16que tocare...muerto...s días será inmundoH7651
+- Núm_23:1edifícame aquí s altares, y prepárameH7651
+- Núm_23:1prepárame aquí s becerros y s carnerosH7651
+- Núm_23:4s altares he ordenado, y en cada altarH7651
+- Núm_23:14edificó s altares, y ofreció...becerroH7651
+- Núm_23:29Balaam dijo...Edifícame aquí s altaresH7651
+- Núm_23:29prepárame aquí s becerros y s carnerosH7651
+- Núm_28:11, Núm_28:19, Núm_28:27ofreceréis...s corderos de un añoH7651
+- Núm_28:17s días se comerán panes sin levaduraH7651
+- Núm_28:21, Núm_28:29y con cada uno de los s corderosH7651
+- Núm_28:24esto ofreceréis cada uno de los s díasH7651
+- Núm_29:2, Núm_29:8y ofreceréis...s corderos de un añoH7651
+- Núm_29:4, Núm_29:10con cada uno de los s corderos, unaH7651
+- Núm_29:12celebraréis fiesta solemne...por s díasH7651
+- Núm_29:32séptimo día, s becerros, dos carnerosH7651
+- Núm_29:36ofreceréis...s corderos de un año sinH7651
+- Núm_31:19permaneced fuera del campamento s díasH7651
+- Deu_7:1s naciones mayores y más poderosas queH7651
+- Deu_15:1cada s años harás remisiónH7651
+- Deu_16:3s días comerás..pan sin levadura, panH7651
+- Deu_16:4no se verá levadura contigo en...s díasH7651
+- Deu_16:9s semanas contarás desde que comenzareH7651
+- Deu_16:9desde...comenzarás a contar las s semanasH7651
+- Deu_16:13la fiesta solemne de...harás por s díasH7651
+- Deu_16:15s días celebrarás fiesta solemne...DiosH7651
+- Deu_28:7por s caminos huirán de delante de tiH7651
+- Deu_28:25y por s caminos huirás delante de ellosH7651
+- Deu_31:10al fin de cada s años, en el año de laH7651
+- Jos_6:4y s sacerdotes llevarán s bocinas deH7651
+- Jos_6:4y al séptimo día daréis s vueltas a laH7651
+- Jos_6:6s sacerdotes lleven bocinas de cuerno deH7651
+- Jos_6:8, Jos_6:13s sacerdotes, llevando las s bocinasH7651
+- Jos_6:15y dieron vuelta a la ciudad de...s vecesH7651
+- Jos_6:15dieron vuelta alrededor de ella s vecesH7651
+- Jos_18:2habían quedado...s tribus a las cualesH7651
+- Jos_18:5la dividirán en s partes; y Judá quedaráH7651
+- Jos_18:6delinearéis la tierra en s partes, y meH7651
+- Jos_18:9delineándola por...en s partes en un libroH7651
+- Jue_6:1Jehová los entregó...Madián por s añosH7651
+- Jue_6:25toma un toro...el segundo toro de s añosH7651
+- Jue_12:9y juzgó a Israel s añosH7651
+- Jue_14:12y si en los s días del banquete me loH7651
+- Jue_14:17y ella lloró en...los s días...banqueteH7651
+- Jue_16:7si me ataren con s mimbres verdes queH7651
+- Jue_16:8le trajeron s mimbres...le ató con ellosH7651
+- Jue_16:13si tejieres s guedejas de mi cabeza conH7651
+- Jue_16:19le rapó las s guedejas de su cabezaH7651
+- Rut_4:15es de más valor para ti que s hijosH7651
+- 1Sa_2:5hasta la estéril ha dado a luz s, yH7651
+- 1Sa_6:1el arca de Jehová en...filisteos s mesesH7651
+- 1Sa_10:8espera s días, hasta que yo venga a tiH7651
+- 1Sa_11:3danos s días...que enviemos mensajerosH7651
+- 1Sa_13:8y él esperó s días, conforme al plazoH7651
+- 1Sa_16:10hizo pasar Isaí s hijos suyos delanteH7651
+- 1Sa_31:13sepultaron...Jabes, y ayunaron s díasH7651
+- 2Sa_2:11David reinó en Hebrón..s años y seisH7651
+- 2Sa_5:5en Hebrón reinó...s años y seis meses, yH7651
+- 2Sa_21:6dénsenos s varones de sus hijos, paraH7651
+- 2Sa_21:9y así murieron juntos aquellos s, losH7651
+- 2Sa_24:13¿quieres...te vengan s años de hambreH7651
+- 1Re_2:11reinó David...s años reinó en HebrónH7651
+- 1Re_6:6el tercero de s codos de ancho; porqueH7651
+- 1Re_6:38fue acabada...la edificó, pues, en s añosH7651
+- 1Re_7:17y unos cordones a...s para cada capitelH7651
+- 1Re_8:65s días y aun por otros s días, esto esH7651
+- 1Re_16:15reinar Zimri, y reinó s días en TirsaH7651
+- 1Re_18:43él le volvió a decir: Vuelve s vecesH7651
+- 1Re_20:29s días estuvieron acampados los unosH7651
+- 2Re_3:9y como anduvieron...s días de caminoH7651
+- 2Re_4:35el niño estornudó s veces, y abrió susH7651
+- 2Re_5:10vé y lávate s veces en el Jordán, y tuH7651
+- 2Re_5:14descendió, y se zambulló s veces en elH7651
+- 2Re_8:1el hambre, la cual sobre la tierra...s añosH7651
+- 2Re_8:2vivió en tierra de los filisteos s añosH7651
+- 2Re_8:3pasado los s años, la mujer volvió de laH7651
+- 2Re_11:21Joás de s años cuando comenzó a reinarH7651
+- 2Re_25:8a los s días del mes, siendo el año 19H7651
+- 1Cr_3:4en Hebrón, donde reinó s años y seisH7651
+- 1Cr_3:24los hijos de Elioenai fueron estos sH7651
+- 1Cr_5:13sus hermanos...Zía y Heber; por todos sH7651
+- 1Cr_9:25venían cada s días según su turno paraH7651
+- 1Cr_10:12enterraron sus huesos...ayunaron s díasH7651
+- 1Cr_15:26el arca...sacrificaron s novillos y sH7651
+- 1Cr_29:27s años reinó en Hebrón, y 33 reinó enH7651
+- 2Cr_7:8entonces hizo Salomón fiesta s díasH7651
+- 2Cr_7:9hecho la dedicación del altar en s díasH7651
+- 2Cr_7:9habían celebrado la fiesta...por s díasH7651
+- 2Cr_13:9consagrarse con un becerro y s carnerosH7651
+- 2Cr_24:1s años era Joás cuando comenzó a reinarH7651
+- 2Cr_29:21y presentaron s novillos, s carnerosH7651
+- 2Cr_29:21s corderos y s machos cabríos paraH7651
+- 2Cr_30:21celebraron la fiesta...por s días conH7651
+- 2Cr_30:22comieron de lo sacrificado en...s díasH7651
+- 2Cr_30:23celebrasen la fiesta por otros s díasH7651
+- 2Cr_30:23la celebraron otros s días con alegríaH7651
+- 2Cr_35:17allí celebraron la pascua...por s díasH7651
+- Esd_6:22celebraron...fiesta solemne...s díasH7651
+- Esd_7:14rey y de sus s consejeros eres enviadoH7651
+- Neh_8:18e hicieron la fiesta solemne por sH7651
+- Est_1:5hizo el rey otro banquete por s díasH7651
+- Est_1:10mandó a...s eunucos que servían delanteH7651
+- Est_1:14junto a él...s príncipes de Persia y deH7651
+- Est_2:9y le dio también s doncellas especialesH7651
+- Job_1:2y le nacieron s hijos y tres hijasH7651
+- Job_2:13se sentaron con...por s días y s nochesH7651
+- Job_42:8tomaos s becerros y s carneros, e id aH7651
+- Job_42:13y tuvo s hijos y tres hijasH7658
+- Sal_12:6plata refinada...purificada s vecesH7651
+- Sal_79:12devuelve...s tantos de su infamia, conH7651
+- Sal_119:164s veces al día te alabo a causa deH7651
+- Pro_6:16aborrece Jehová, y aun s abomina suH7651
+- Pro_6:31pero si es sorprendido, pagará s vecesH7659
+- Pro_9:1sabiduría edificó...labró sus s columnasH7651
+- Pro_24:16porque s veces cae el justo, y vuelveH7651
+- Pro_26:16es más sabio que s que sepan aconsejarH7651
+- Pro_26:25porque s abominaciones...en su corazónH7651
+- Ecl_11:2reparte a s, y aun a ocho; porque noH7651
+- Isa_4:1echarán mano de un hombre s mujeres enH7651
+- Isa_11:15lo herirá en sus s brazos, y hará queH7651
+- Isa_30:26s veces mayor, como la luz de s díasH7651
+- Jer_15:9languideció la que dio a luz s...dolorH7651
+- Jer_34:14al cabo de s años dejará cada uno a suH7651
+- Jer_52:25a s hombres de los consejeros íntimosH7651
+- Eze_3:15y allí permanecí s días atónito entreH7651
+- Eze_3:16al cabo de los s días vino a mí palabraH7651
+- Eze_30:20s días del mes, que vino a mí palabraH7651
+- Eze_39:9y los quemarán en el fuego por s añosH7651
+- Eze_39:12los estará enterrando por s meses, paraH7651
+- Eze_39:14al cabo de s meses...el reconocimientoH7651
+- Eze_40:22subía a ella por s gradas, y delante deH7651
+- Eze_40:26sus gradas eran de s peldaños, con susH7651
+- Eze_41:3y la anchura de la entrada, de s codosH7651
+- Eze_43:25s días sacrificarán un macho cabrío enH7651
+- Eze_43:26por s días harán expiación por el altarH7651
+- Eze_44:26de su purificación, le contarán s díasH7651
+- Eze_45:21tendréis la pascua, fiesta de s díasH7651
+- Eze_45:23y en los s días de la fiesta...ofreceráH7651
+- Eze_45:23s becerros y s carneros sin defectoH7651
+- Eze_45:23ofrecerá...cada día de los s días; y porH7651
+- Eze_45:25hará como en estos s días en cuanto aH7651
+- Dan_3:19que el horno se calentase s veces másH7655
+- Dan_4:16sea cambiado...pasen sobre él s tiemposH7655
+- Dan_4:23las bestias...pasen sobre él s tiemposH7655
+- Dan_4:25, Dan_4:32s tiempos pasarán sobre ti, hastaH7655
+- Dan_9:25la salida de la orden...habrá s semanasH7655
+- Miq_5:5levantaremos contra él s pastores, yH7651
+- Zac_3:9sobre esta única piedra hay s ojos; heH7651
+- Zac_4:2s lámparas...y s tubos para las lámparasH7651
+- Zac_4:10s son los ojos de Jehová, que recorrenH7651
+- Mat_12:45va y toma...otros s espíritus peoresG2033
+- Mat_15:34ellos dijeron: S, y unos pocos pececillosG2033
+- Mat_15:36tomando los s panes...dio gracias, losG2033
+- Mat_15:37recogieron...de los pedazos, s canastasG2033
+- Mat_16:10¿ni de los s panes entre cuatro mil, yG2033
+- Mat_18:21¿cuántas veces perdonaré a...¿Hasta s?[[G2034]]
+- Mat_18:22no...s, sino aun hasta setenta veces sG2034, [[G2033]]
+- Mat_22:25hubo, pues, entre nosotros s hermanosG2033
+- Mat_22:28¿de cuál de los s será ella mujer, yaG2033
+- Mar_8:5preguntó: ¿Cuántos panes tenéis?...SG2033
+- Mar_8:6tomando...s panes, habiendo dado graciasG2033
+- Mar_8:8y recogieron de los pedazos...s canastasG2033
+- Mar_8:20y cuando los s panes entre cuatro milG2033
+- Mar_8:20¿cuántas canastas...Y ellos dijeron: SG2033
+- Mar_12:20s hermanos; el primero tomó esposa, yG2033
+- Mar_12:22y así los s, y no dejaron descendenciaG2033
+- Mar_12:23ya que los s la tuvieron por mujer?[[G2033]]
+- Mar_16:9María...de quien había echado s demoniosG2033
+- Luc_2:36vivido con su marido s años desde suG2033
+- Luc_8:2María...de la que habían salido s demoniosG2033
+- Luc_11:26toma otros s espíritus peores que élG2033
+- Luc_17:4si s veces al día pecare...y s veces alG2034
+- Luc_20:29hubo, pues, s hermanos; y el primeroG2033
+- Luc_20:31la tomó el tercero, y así todos los sG2033
+- Luc_20:33ya que los s la tuvieron por mujer?[[G2033]]
+- Jua_4:52le dijeron: Ayer a las s le dejó laG1442
+- Hec_6:3buscad...s varones de buen testimonioG2033
+- Hec_13:19y habiendo destruido s naciones en laG2033
+- Hec_19:14había s hijos de un tal Esceva, judíoG2033
+- Hec_20:6con ellos en Troas, donde nos quedamos sG2033
+- Hec_21:4quedamos allí s días; y ellos decían aG2033
+- Hec_21:8y entrando en casa de Felipe...de los sG2033
+- Hec_21:27estaban para cumplirse los s días, unosG2033
+- Hec_28:14que nos quedásemos con ellos s días; yG2033
+- Heb_11:30cayeron...después de rodearlos s díasG2033
+- 2Pe_2:5que guardó a Noé...con otras s personasG2033
+- Rev_1:4Juan, a las s iglesias que están enG2033
+- Rev_1:4de los s espíritus que están delante deG2033
+- Rev_1:11y envíalo a las s iglesias que están enG2033
+- Rev_1:12volví...y vuelto, vi s candeleros de oroG2033
+- Rev_1:13y en medio de los s candeleros, a unoG2033
+- Rev_1:16tenía en su diestra s estrellas; deG2033
+- Rev_1:20el misterio de las s estrellas que hasG2033
+- Rev_1:20el misterio...de los s candeleros de oroG2033
+- Rev_1:20s estrellas...ángeles de las s iglesiasG2033
+- Rev_1:20y los s candeleros...son las s iglesiasG2033
+- Rev_2:1que tiene las s estrellas en su diestraG2033
+- Rev_2:1el que anda en medio de los s candelerosG2033
+- Rev_3:1tiene los s espíritus...y las s estrellasG2033
+- Rev_4:5delante del trono ardían s lámparas deG2033
+- Rev_4:5las cuales son los s espíritus de DiosG2033
+- Rev_5:1vi...un libro escrito...sellado con s sellosG2033
+- Rev_5:5ha vencido para...y desatar sus s sellosG2033
+- Rev_5:6Cordero...que tenía s cuernos, y s ojosG2033
+- Rev_5:6los cuales son los s espíritus de DiosG2033
+- Rev_8:2a los s ángeles...les dieron s trompetasG2033
+- Rev_8:6los s ángeles que tenían las s trompetasG2033
+- Rev_10:3gran voz...s truenos emitieron sus vocesG2033
+- Rev_10:4cuando los s truenos hubieron emitidoG2033
+- Rev_10:4sella las cosas que los s truenos hanG2033
+- Rev_12:3un gran dragón...s cabezas...s diademasG2033
+- Rev_13:1vi subir...una bestia que tenía s cabezasG2033
+- Rev_15:1, Rev_15:6vi...s ángeles que tenían las s plagasG2033
+- Rev_15:7a los s ángeles s copas de oro, llenasG2033
+- Rev_15:8cumplido las s plagas de los s ángelesG2033
+- Rev_16:1una gran voz que decía...a los s ángelesG2033
+- Rev_16:1y derramad sobre la tierra las s copasG2033
+- Rev_17:1de los s ángeles que tenían las s copasG2033
+- Rev_17:3bestia...tenía s cabezas y diez cuernosG2033
+- Rev_17:7la cual tiene las s cabezas y los diezG2033
+- Rev_17:9las s cabezas son s montes, sobre losG2033
+- Rev_17:10son s reyes...Cinco de ellos han caídoG2033
+- Rev_17:11es de entre los s, y va a la perdiciónG2033
+- Rev_21:9vino, uno de los s ángeles que teníanG2033
+- Rev_21:9las s copas...de las s plagas postrerasG2033

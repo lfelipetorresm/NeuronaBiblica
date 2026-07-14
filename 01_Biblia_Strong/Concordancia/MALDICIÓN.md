@@ -1,0 +1,85 @@
+---
+tipo: concordancia
+palabra: MALDICIÓN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MALDICIÓN
+
+- Gén_27:12y traeré sobre mí m y no bendiciónH7045
+- Gén_27:13respondió: Hijo mío, sea sobre mí tu mH7045
+- Núm_5:18mano las aguas amargas que acarrean mH779
+- Núm_5:19libre seas de estas aguas...que traen mH779
+- Núm_5:21conjurará...con juramento de m, y diráH423
+- Núm_5:21Jehová te haga m y execración en medioH423
+- Núm_5:22y estas aguas que dan m entren en tusH779
+- Núm_5:23sacerdote escribirá estas m en un libroH423
+- Núm_5:24dará a...las aguas amargas que traen mH779
+- Núm_5:24, Núm_5:27aguas que obran m entrarán en ellaH779
+- Núm_5:27la mujer será m en medio de su puebloH423
+- Deu_11:26aquí yo pongo hoy...bendición y la mH7045
+- Deu_11:28la m, si no oyereis los mandamientosH7045
+- Deu_11:29pondrás la...la m sobre el monte EbalH7045
+- Deu_23:5tu Dios te convirtió la m en bendiciónH7045
+- Deu_27:13sobre el monte...para pronunciar la mH7045
+- Deu_28:15que vendrán sobre ti todas estas m, yH7045
+- Deu_28:20Jehová enviará contra ti la m...en todoH3994
+- Deu_28:45vendrán sobre ti todas estas m, y teH7045
+- Deu_29:19que al oír...esta m, él se bendiga en suH423
+- Deu_29:20y se asentará sobre él toda m escritaH423
+- Deu_29:21conforme a...las m del pacto escrito enH423
+- Deu_29:27para traer sobre ella...las m escritasH423
+- Deu_30:1la m que he puesto delante de ti, y teH7045
+- Deu_30:7pondrá...estas m sobre tus enemigos, yH423
+- Deu_30:19la bendición y la m; escoge, pues, laH7045
+- Jos_8:34leyó todas...las bendiciones y las mH7045
+- Jue_9:57vino sobre ellos la m de Jotam hijoH7045
+- 2Sa_16:12dará Jehová bien por sus m de hoyH7045
+- 1Re_2:8me maldijo con una m fuerte el día queH7045
+- 2Cr_34:24todas las m que están escritas enH423
+- Neh_13:2mas...Dios volvió la m en bendiciónH7043
+- Job_31:30mi lengua, pidiendo m para su almaH423
+- Sal_10:7llena está su boca de m, y...fraudeH423
+- Sal_59:12sean...por la m y mentira que profierenH423
+- Sal_109:17amó la m, y ésta le sobrevino; y noH7045
+- Sal_109:18se vistió de m como de su vestido, yH7045
+- Pro_3:33m de Jehová está en la casa del impíoH3994
+- Pro_26:2como...así la m nunca vendrá sin causaH7045
+- Pro_27:14el que bendice a...por m se le contaráH7045
+- Pro_28:27el que aparta sus ojos tendrá muchas mH3994
+- Isa_24:6por esta causa la m consumió la tierraH423
+- Isa_65:15y dejaréis vuestro nombre por m a misH7621
+- Isa_65:23no trabajarán...ni darán a luz para mH928
+- Jer_23:10a causa...m la tierra está desiertaH423
+- Jer_24:9y por m a todos los lugares adonde yoH7045
+- Jer_25:18para ponerlos...en burla y en m, comoH7045
+- Jer_26:6esta ciudad la pondré por m a todas lasH7045
+- Jer_29:18los daré...por m y por espanto, y porH423
+- Jer_29:22harán de ellos una m...Póngate JehováH7045
+- Jer_42:18seréis objeto de...de m y de afrentaH7045
+- Jer_44:8seáis por m y por oprobio a todas lasH7045
+- Jer_44:12objeto de execración...m y de oprobioH7045
+- Jer_44:22tierra fue puesta...en espanto y en mH7045
+- Jer_49:13asolamiento, oprobio...y m será BosraH7045
+- Lam_3:65entrégalos al...tu m caiga sobre ellosH8381
+- Dan_9:11lo cual ha caído sobre nosotros la mH423
+- Zac_5:3esta es la m que sale sobre la faz deH423
+- Zac_8:13que como fuisteis m entre las nacionesH7045
+- Zac_14:11y morarán en ella, y no habrá...más mH2764
+- Mal_2:2no oyereis...enviaré m sobre vosotrosH3994
+- Mal_3:9malditos sois con m, porque vosotros, laH3994
+- Mal_4:6sea que yo venga y hiera la tierra con mH2764
+- Hec_23:12juramentaron bajo m, diciendo queG332
+- Hec_23:14juramentado bajo m, a no gustar nadaG332
+- Hec_23:21han juramentado bajo m, a no comerG332
+- Rom_3:14su boca está llena de m y de amarguraG685
+- Gál_3:10bajo m, pues escrito está: MalditoG2671
+- Gál_3:13nos redimió de la m de la ley, hecho...mG2671
+- Stg_3:10misma boca proceden bendición y mG2671
+- 1Pe_2:23le maldecían, no respondía con mG486
+- 1Pe_3:9no devolviendo mal por mal, ni m por mG3059
+- 2Pe_2:11ángeles...no pronuncian juicio de mG989
+- 2Pe_2:14no se sacian de pecar...son hijos de mG2671
+- Jud_1:9no se atrevió a proferir juicio de mG988
+- Rev_22:3y no habrá más m; y el trono de DiosG2652

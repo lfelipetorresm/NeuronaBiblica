@@ -1,0 +1,462 @@
+---
+tipo: concordancia
+palabra: PROFETA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PROFETA
+
+- Véase también Profetisa
+- Gén_20:7porque es p, y orará por ti, y vivirásH5030
+- Éxo_7:1he constituido dios...y Aarón será tu pH5030
+- Núm_11:29ojalá...el pueblo de Jehová fuese pH5030
+- Núm_12:6cuando haya entre vosotros p de JehováH5030
+- Deu_13:1cuando se levantare en medio de ti pH5030
+- Deu_13:3no darás oído a las palabras de tal pH5030
+- Deu_13:5tal p o soñador...ha de ser muerto, porH5030
+- Deu_18:15p de en medio de ti...levantará JehováH5030
+- Deu_18:18p les levantaré de en medio de...como túH5030
+- Deu_18:20p que tuviere la presunción de hablarH5030
+- Deu_18:20hablare en nombre de...el tal p moriráH5030
+- Deu_18:22el p hablare en nombre de Jehová, y noH5030
+- Deu_18:22con presunción la habló el tal p; noH5030
+- Deu_34:10nunca más se levantó p en...como MoisésH5030
+- Jue_6:8envió...un varón p, el cual les dijoH5030
+- 1Sa_3:20Israel...conoció que Samuel era fiel pH5030
+- 1Sa_9:9al que hoy se llama p...llamaba videnteH5030
+- 1Sa_10:5entres...encontrarás una compañía de pH5030
+- 1Sa_10:10aquí la compañía de los p que venía aH5030
+- 1Sa_10:11con los p...¿Saúl también entre los p?[[H5030]]
+- 1Sa_10:12proverbio: ¿También Saúl entre los p?[[H5030]]
+- 1Sa_19:20mensajeros...vieron una compañía de pH5030
+- 1Sa_19:24aquí se dijo: ¿También Saúl entre los p?[[H5030]]
+- 1Sa_22:5pero el p Gad dijo a David: No te estésH5030
+- 1Sa_28:6pero Jehová no le respondió...ni por pH5030
+- 1Sa_28:15Dios...no me responde más, ni por...de pH5030
+- 2Sa_7:2dijo el rey al p Natán: Mira ahora, yoH5030
+- 2Sa_12:25envió un mensaje por medio de Natán pH5030
+- 2Sa_24:11palabra de Jehová al p Gad, vidente deH5030
+- 1Re_1:8y el p Natán, Simei, Rei y todos losH5030
+- 1Re_1:10pero no convidó al p Natán, ni a BenaíaH5030
+- 1Re_1:22mientras aún hablaba...vino el p NatánH5030
+- 1Re_1:23diciendo: He aquí el p Natán; el cualH5030
+- 1Re_1:32llamadme...al p Natán, y a Benaía hijo deH5030
+- 1Re_1:34y allí lo ungirá el...Sadoc y el p NatánH5030
+- 1Re_1:38descendieron...el p Natán, Benaía hijo deH5030
+- 1Re_1:44rey ha enviado...al p Natán, y a BenaíaH5030
+- 1Re_1:45Sadoc y el p Natán lo han ungido por reyH5030
+- 1Re_11:29le encontró en el...el p Ahías silonitaH5030
+- 1Re_13:11moraba entonces en Bet-el un viejo pH5030
+- 1Re_13:18soy p como tú, y un ángel me ha habladoH5030
+- 1Re_13:20vino palabra de Jehová al p que le habíaH5030
+- 1Re_13:25lo dijeron...donde el viejo p habitabaH5030
+- 1Re_13:26oyéndolo el p...dijo: El varón de DiosH5030
+- 1Re_13:29tomó el p el cuerpo del varón de DiosH5030
+- 1Re_13:29el p viejo vino a la ciudad...enterrarleH5030
+- 1Re_14:2allá está el p Ahías, el que me dijo queH5030
+- 1Re_14:18había hablado por su siervo el p AhíasH5030
+- 1Re_16:7la palabra de Jehová por el p Jehú hijoH5030
+- 1Re_16:12proferido contra Baasa por medio del pH5030
+- 1Re_18:4porque cuando Jezabel destruía a los pH5030
+- 1Re_18:4Abdías tomó a cien p y los escondió deH5030
+- 1Re_18:13Jezabel mataba a los p...escondí a...los pH5030
+- 1Re_18:19los 450 p de Baal, y los 400 p de AseraH5030
+- 1Re_18:20y reunió a los p en el monte CarmeloH5030
+- 1Re_18:22sólo yo he quedado p de Jehová; mas deH5030
+- 1Re_18:22mas de los p de Baal hay 450 hombresH5030
+- 1Re_18:25Elías dijo a los p de Baal: Escogeos unH5030
+- 1Re_18:36acercó el p Elías y dijo: Jehová DiosH5030
+- 1Re_18:40dijo: Prended a los p de Baal, para queH5030
+- 1Re_19:1y de cómo había matado a...a todos los pH5030
+- 1Re_19:10, 1Re_19:14matado a espada a tus p; y sólo yoH5030
+- 1Re_19:16a Eliseo...ungirás para que sea p en tuH5030
+- 1Re_20:13p vino a Acab rey de Israel, y le dijoH5030
+- 1Re_20:22vino luego el p al rey de Israel y leH5030
+- 1Re_20:35un varón de los hijos de los p dijo aH5030
+- 1Re_20:38el p se fue, y se puso delante del reyH5030
+- 1Re_20:41rey de Israel conoció que era de los pH5030
+- 1Re_22:6el rey de...reunió a los p...400 hombresH5030
+- 1Re_22:7¿hay aún aquí algún p de Jehová, por elH5030
+- 1Re_22:10y todos los p profetizaban delante deH5030
+- 1Re_22:12los p profetizaban de la misma maneraH5030
+- 1Re_22:13de los p...anuncian al rey cosas buenasH5030
+- 1Re_22:22espíritu de mentira en boca de...sus pH5030
+- 1Re_22:23puesto espíritu de mentira en...tus pH5030
+- 2Re_2:3saliendo a Eliseo los hijos de los pH5030
+- 2Re_2:5se acercaron a Eliseo los hijos de los pH5030
+- 2Re_2:7vinieron 50...de los hijos de los p, y seH5030
+- 2Re_2:15los hijos de los p que estaban en JericóH5030
+- 2Re_3:11dijo: ¿No hay aquí p de Jehová, para queH5030
+- 2Re_3:13vé a los p de tu padre, y a los p de tuH5030
+- 2Re_4:1una...de las mujeres de los hijos de los pH5030
+- 2Re_4:38los hijos de los p estaban con él, porH5030
+- 2Re_4:38y haz potaje para los hijos de los pH5030
+- 2Re_5:3rogase mi señor al p que está en SamariaH5030
+- 2Re_5:8venga ahora a mí, y sabrá que hay p enH5030
+- 2Re_5:13si el p te mandara alguna gran cosa, ¿noH5030
+- 2Re_5:22vinieron...jóvenes de los hijos de los pH5030
+- 2Re_6:1los hijos de los p dijeron a Eliseo: HeH5030
+- 2Re_6:12que el p Eliseo está en Israel, el cualH5030
+- 2Re_9:1el p Eliseo llamó a uno...hijos de los pH5030
+- 2Re_9:4fue...el joven, el p, a Ramot de GalaadH5030
+- 2Re_9:7yo vengue la sangre de mis siervos los pH5030
+- 2Re_10:19llamadme, pues...a todos los p de BaalH5030
+- 2Re_14:25Jonás hijo de Amitai, p...de Gat-heferH5030
+- 2Re_17:13amonestó...por medio de todos los p y deH5030
+- 2Re_17:13que os he enviado por medio de...los pH5030
+- 2Re_17:23lo había dicho por medio de todos los p sus siervosH5030
+- 2Re_19:2y envió a Eliaquim...al p Isaías hijo deH5030
+- 2Re_20:1Ezequías cayó enfermo...vino...el p IsaíasH5030
+- 2Re_20:11p Isaías clamó a Jehová; e hizo volverH5030
+- 2Re_20:14el p Isaías vino al rey Ezequías, y teH5030
+- 2Re_21:10habló...por medio de sus siervos los pH5030
+- 2Re_23:2subió el rey...con los...p y con todo elH5030
+- 2Re_23:18los huesos del p que había venido deH5030
+- 2Re_24:2la palabra...que había hablado por...los pH5030
+- 1Cr_16:22no toquéis...ni hagáis mal a mis pH5030
+- 1Cr_17:1dijo David al p Natán...yo habito en casaH5030
+- 1Cr_29:29en las crónicas del p Natán, y en lasH5030
+- 2Cr_9:29escritos en los libros del p NatánH5030
+- 2Cr_12:5entonces vino el p Semaías a Roboam y aH5030
+- 2Cr_12:15escritas en los libros del p Semaías yH5030
+- 2Cr_13:22están escritos en la historia de Iddo pH5030
+- 2Cr_18:5el rey de Israel reunió a 400 p, y lesH5030
+- 2Cr_18:6¿hay aún aquí algún p de Jehová, paraH5030
+- 2Cr_18:9todos los p profetizaban delante de ellosH5030
+- 2Cr_18:11profetizaban todos los p, diciendo: SubeH5030
+- 2Cr_18:12de los p...anuncian al rey cosas buenasH5030
+- 2Cr_18:21-22espíritu de mentira en la boca de...pH5030
+- 2Cr_20:20creed a sus p, y seréis prosperadosH5030
+- 2Cr_21:12y le llegó una carta del p Elías, queH5030
+- 2Cr_24:19envió p para que los volviesen a JehováH5030
+- 2Cr_25:15envió a él un p, que le dijo: ¿Por quéH5030
+- 2Cr_25:16hablándole el p estas cosas...respondióH5030
+- 2Cr_25:16el p dijo...Yo sé que Dios ha decretadoH5030
+- 2Cr_26:22fueron escritos por el p Isaías, hijoH5030
+- 2Cr_28:9allí un p de Jehová que se llamaba ObedH5030
+- 2Cr_29:25al mandamiento de David...y del p NatánH5030
+- 2Cr_29:25procedía de Jehová por medio de sus pH5030
+- 2Cr_32:20el rey...y el p Isaías...oraron por estoH5030
+- 2Cr_32:32escritos en la profecía del p IsaíasH5030
+- 2Cr_35:18pascua...desde los días de Samuel el pH5030
+- 2Cr_36:12no se humilló delante del p JeremíasH5030
+- 2Cr_36:16hacían escarnio de...burlándose de sus pH5030
+- Esd_5:1profetizaron Hageo y...p, a los judíosH5029
+- Esd_5:2con ellos los p de Dios que les ayudabanH5030
+- Esd_6:14conforme a la profecía del p Hageo y deH5029
+- Esd_9:11por medio de tus siervos los p, diciendoH5030
+- Neh_6:7has puesto p que proclamen acerca deH5030
+- Neh_6:14otros p que procuraban infundirme miedoH5030
+- Neh_9:26mataron a tus p que protestaban contraH5030
+- Neh_9:30y les testificaste...por medio de tus pH5030
+- Neh_9:32todo el sufrimiento que ha alcanzado...pH5030
+- Sal 51 tít.después de...vino a él Natán el pH5030
+- Sal_74:9no vemos ya...señales; no hay más p, niH5030
+- Sal_105:15no toquéis, dijo...ni hagáis mal a mis pH5030
+- Isa_3:2el juez y el p, el adivino y el ancianoH5030
+- Isa_9:15el p que enseña mentira, es la colaH5030
+- Isa_28:7el sacerdote y el p erraron con sidraH5030
+- Isa_29:10cerró los ojos de vuestros p, y pusoH5030
+- Isa_30:10que dicen a...los p: No nos profeticéisH5030
+- Isa_37:2cubiertos de cilicio, p Isaías hijo deH5030
+- Isa_38:1vino a él el p Isaías hijo de Amoz, y leH5030
+- Isa_39:3el p Isaías vino al rey Ezequías, y leH5030
+- Jer_1:5te conocí...te di por p a las nacionesH5030
+- Jer_2:8y los p profetizaron en nombre de BaalH5030
+- Jer_2:26sus príncipes, sus sacerdotes y sus pH5030
+- Jer_2:30espada devoró a vuestros p como leónH5030
+- Jer_4:9en aquél día, dice...maravillarán los pH5030
+- Jer_5:13los p serán como viento, porque no hayH5030
+- Jer_5:31p profetizaron mentira, y...sacerdotesH5030
+- Jer_6:13desde el p hasta el sacerdote, todos sonH5030
+- Jer_7:25envié todos los p mis siervos...sin cesarH5030
+- Jer_8:1sacarán los huesos...los huesos de los pH5030
+- Jer_8:10el p hasta el sacerdote...hacen engañoH5030
+- Jer_13:13lleno de embriaguez a...sacerdotes y pH5030
+- Jer_14:13los p les dicen: No veréis espada, niH5030
+- Jer_14:14Jehová: Falsamente profetizan los p enH5030
+- Jer_14:15tanto, así ha dicho Jehová sobre los pH5030
+- Jer_14:15con espada y...serán consumidos esos pH5030
+- Jer_14:18porque tanto el p como el sacerdoteH5030
+- Jer_18:18la ley no faltará...ni la palabra al pH5030
+- Jer_20:2y azotó Pasur al p Jeremías, y lo pusoH5030
+- Jer_23:9a causa...p mi corazón está quebrantadoH5030
+- Jer_23:11el p como el sacerdote son impíos; aunH5030
+- Jer_23:13en los p de Samaria he visto desatinosH5030
+- Jer_23:14en los p de Jerusalén he visto torpezasH5030
+- Jer_23:15ha dicho...contra aquellos p: He aquíH5030
+- Jer_23:15de los p de Jerusalén...la hipocresíaH5030
+- Jer_23:16no escuchéis las palabras de los p queH5030
+- Jer_23:21no envié yo aquellos p...ellos corríanH5030
+- Jer_23:25yo he oído lo que aquellos p dijeronH5030
+- Jer_23:26en el corazón de los p que profetizanH5030
+- Jer_23:28el p que tuviere un sueño, cuente elH5030
+- Jer_23:30que yo estoy contra los p, dice JehováH5030
+- Jer_23:31contra los p que endulzan sus lenguasH5030
+- Jer_23:33cuando te preguntare...el p...les dirásH5030
+- Jer_23:34y al p, al sacerdote o al pueblo queH5030
+- Jer_23:37dirás al p: ¿Qué te respondió JehováH5030
+- Jer_25:2habló el p Jeremías a todo el pueblo deH5030
+- Jer_25:4envió Jehová...todos sus siervos los pH5030
+- Jer_26:5las palabras de mis siervos los p, queH5030
+- Jer_26:7los sacerdotes, los p y todo el puebloH5030
+- Jer_26:8los p y todo el pueblo le echaron manoH5030
+- Jer_26:11hablaron los sacerdotes y los p a losH5030
+- Jer_26:16a los sacerdotes y p: No ha incurridoH5030
+- Jer_27:9vosotros no prestéis oído a vuestros pH5030
+- Jer_27:14no oigáis las palabras de los p que osH5030
+- Jer_27:15os arroje y perezcáis vosotros y los pH5030
+- Jer_27:16no oigáis las palabras de vuestros pH5030
+- Jer_27:18si ellos son p, y si está con ellos laH5030
+- Jer_28:1Hananías...p que era de Gabaón, me hablóH5030
+- Jer_28:5respondió el p Jeremías al p HananíasH5030
+- Jer_28:6el p Jeremías: Amén, así lo haga JehováH5030
+- Jer_28:8los p que fueron antes de mí y antes deH5030
+- Jer_28:9el p que profetiza de paz, cuando seH5030
+- Jer_28:9cuando se cumpla la palabra del p, seráH5030
+- Jer_28:9conocido como el p que Jehová en...envióH5030
+- Jer_28:10el p Hananías quitó el yugo del...del pH5030
+- Jer_28:12que el p Hananías rompió el yugo...del pH5030
+- Jer_28:15dijo el p Jeremías al p Hananías...oyeH5030
+- Jer_29:1carta que el p Jeremías envió...a los...pH5030
+- Jer_29:8no os engañen vuestros p que están entreH5030
+- Jer_29:15Jehová nos ha levantado p en BabiloniaH5030
+- Jer_29:19no oyeron mis palabras...siervos los pH5030
+- Jer_29:29leído esta carta a oídos del p JeremíasH5030
+- Jer_32:2el p Jeremías estaba preso en el patioH5030
+- Jer_32:32reyes...sus p, y los varones de Judá yH5030
+- Jer_34:6habló el p Jeremías a Sedequías rey deH5030
+- Jer_35:15y envié a vosotros...mis siervos los pH5030
+- Jer_36:8hizo conforme...que le mandó Jeremías pH5030
+- Jer_36:26que prendiesen a Baruc...y al p JeremíasH5030
+- Jer_37:2a las palabras...dijo por el p JeremíasH5030
+- Jer_37:3que dijesen al p Jeremías: Ruega ahoraH5030
+- Jer_37:6vino palabra de Jehová al p JeremíasH5030
+- Jer_37:13Irías...apresó al p Jeremías, diciendoH5030
+- Jer_37:19dónde están vuestros p que...diciendoH5030
+- Jer_38:9mal hicieron estos...con el p JeremíasH5030
+- Jer_38:10haz sacar al p Jeremías de la cisternaH5030
+- Jer_38:14traer al p Jeremías a su presencia, enH5030
+- Jer_42:2al p Jeremías: Acepta...nuestro ruegoH5030
+- Jer_42:4el p Jeremías les dijo: He oído. He aquíH5030
+- Jer_43:6al p Jeremías y a Baruc hijo de NeríasH5030
+- Jer_44:4todos mis siervos los p, desde tempranoH5030
+- Jer_45:1palabra que habló el p Jeremías a BarucH5030
+- Jer_46:1palabra de Jehová que vino al p JeremíasH5030
+- Jer_46:13habló Jehová al p Jeremías acerca de laH5030
+- Jer_47:1; Jer_49:34palabra...que vino al p JeremíasH5030
+- Jer_50:1hablo Jehová...por medio del p JeremíasH5030
+- Jer_51:59palabra...envió el p Jeremías a SeraíasH5030
+- Lam_2:9sus p, tampoco hallaron visión de JehováH5030
+- Lam_2:14tus p vieron para ti vanidad y locuraH5030
+- Lam_2:20¿han de ser muertos...sacerdote y el p?[[H5030]]
+- Lam_4:13por causa de los pecados de sus p, y lasH5030
+- Eze_2:5siempre conocerán que hubo p entre ellosH5030
+- Eze_7:26buscarán respuesta del p, mas la ley seH5030
+- Eze_13:2hijo de hombre, profetiza contra los pH5030
+- Eze_13:3¡ay de los p insensatos, que andan en posH5030
+- Eze_13:4zorras en los desiertos fueron tus p, ohH5030
+- Eze_13:9mi mano contra los p que ven vanidad yH5030
+- Eze_13:16los p de Israel que profetizan acercaH5030
+- Eze_14:4y viniere al p, yo Jehová responderé alH5030
+- Eze_14:7y viniere al p para preguntarle por míH5030
+- Eze_14:9y cuando el p fuere engañado y hablareH5030
+- Eze_14:9yo Jehová engañé al tal p; y extenderéH5030
+- Eze_14:10como la maldad...será la maldad del pH5030
+- Eze_22:25conjuración de sus p en medio de ellaH5030
+- Eze_22:28p recubrían con lodo suelto...vanidadH5030
+- Eze_33:33viniere...sabrán que hubo p entre ellosH5030
+- Eze_38:17de quien hablé yo...por...los p de IsraelH5030
+- Dan_9:2años de que habló Jehová al p JeremíasH5030
+- Dan_9:6no hemos obedecido a tus siervos los pH5030
+- Dan_9:10la voz...por medio de sus siervos los pH5030
+- Ose_4:5v caerá también contigo el p de nocheH5030
+- Ose_6:5los corté por medio de los p, con lasH5030
+- Ose_9:7necio es el p...insensato es el varón deH5030
+- Ose_9:8el p es lazo de cazador en...sus caminosH5030
+- Ose_12:10hablado a los p, y aumenté la profecíaH5030
+- Ose_12:10y por medio de los p usé parábolasH5030
+- Ose_12:13por un p...subir...por un p fue guardadoH5030
+- Amó_2:11levanté de vuestros hijos para p, y deH5030
+- Amó_2:12p mandasteis diciendo: No profeticéisH5030
+- Amó_3:7que revele su secreto a sus siervos los pH5030
+- Amó_7:14no soy p, ni soy hijo de p, sino que soyH5030
+- Miq_2:11si...este tal será el p de este puebloH5197
+- Miq_3:5así ha dicho Jehová acerca de los p queH5030
+- Miq_3:6sobre los p se pondrá el sol, y el díaH5030
+- Miq_3:7y serán avergonzados los p, y...adivinosH2374
+- Miq_3:11por precio, y sus p adivinan por dineroH5030
+- Hab_1:1la profecía que vio el p HabacucH5030
+- Hab_3:1oración del p Habacuc, sobre SigionotH5030
+- Sof_3:4p son livianos, hombres prevaricadoresH5030
+- Hag_1:1, Hag_1:3; Hag_2:1, Hag_2:10vino palabra...por medio del pH5030
+- Hag_1:12oyó...las palabras del p Hageo, como leH5030
+- Zac_1:1vino palabra de Jehová al p ZacaríasH5030
+- Zac_1:4clamaron los primeros p, diciendo: Así haH5030
+- Zac_1:5y los p, ¿han de vivir para siempre?[[H5030]]
+- Zac_1:6ordenanzas que mandé a mis siervos los pH5030
+- Zac_1:7palabra de Jehová al p Zacarías hijo deH5030
+- Zac_7:3a los p, diciendo: ¿Lloraremos en el mesH5030
+- Zac_7:7que proclamó Jehová por medio de los pH5030
+- Zac_7:12enviaba por...por medio de los p primerosH5030
+- Zac_8:9oís...estas palabras de la boca de los pH5030
+- Zac_13:2haré cortar de la tierra a los p y alH5030
+- Zac_13:4los p se avergonzarán de su visión cuandoH5030
+- Zac_13:5y dirá: No soy p; labrador...de la tierraH5030
+- Mal_4:5os envío el p Elías, antes que vengaH5030
+- Mat_1:22lo dicho...por medio del p, cuando dijoG4396
+- Mat_2:5Belén...porque así está escrito por el pG4396
+- Mat_2:15por medio del p, cuando dijo: De EgiptoG4396
+- Mat_2:17lo que fue dicho por el p Jeremías, cuandoG4396
+- Mat_2:23dicho por los p...habría de ser llamadoG4396
+- Mat_3:3éste es aquel de quien habló el p IsaíasG4396
+- Mat_4:14que se cumpliese lo dicho por el p IsaíasG4396
+- Mat_5:12persiguieron a los p que fueron antes deG4396
+- Mat_5:17que he venido para abrogar la ley o los pG4396
+- Mat_7:12haced vosotros...esto es la ley y los pG4396
+- Mat_7:15guardaos de los falsos p, que vienen aG4396
+- Mat_8:17que se cumpliese lo dicho por el p IsaíasG4396
+- Mat_10:41el que recibe a un p, por cuanto es pG4396
+- Mat_10:41que recibe...recompensa de p recibiráG4396
+- Mat_11:9ver? ¿A un p? Sí, os digo, y más que pG4396
+- Mat_11:13los p y la ley profetizaron hasta JuanG4396
+- Mat_12:17se cumpliese lo dicho por el p IsaíasG4396
+- Mat_12:39no le será...sino la señal del p JonásG4396
+- Mat_13:17muchos p...desearon ver lo que veis, yG4396
+- Mat_13:35para que se cumpliese lo dicho por el pG4396
+- Mat_13:57no hay p sin honra, sino en su propiaG4396
+- Mat_14:5pero temía...porque tenían a Juan por pG4396
+- Mat_16:4le será dada, sino la señal del p JonásG4396
+- Mat_16:14y otros, Jeremías, o alguno de los pG4396
+- Mat_21:4para que se cumpliese lo dicho por el pG4396
+- Mat_21:11es Jesús el p, de Nazaret de GalileaG4396
+- Mat_21:26tememos al...todos tienen a Juan por pG4396
+- Mat_21:46temían al pueblo...éste le tenía por pG4396
+- Mat_22:40de estos...depende toda la ley y los pG4396
+- Mat_23:29porque edificáis los sepulcros de los pG4396
+- Mat_23:30no...sus cómplices en la sangre de los pG4396
+- Mat_23:31hijos de aquellos que mataron a los pG4396
+- Mat_23:34yo os envío p y sabios y escribas; y deG4396
+- Mat_23:37matas a los p, y apedreas a los que teG4396
+- Mat_24:11falsos p se levantarán, y engañarán aG5578
+- Mat_24:15abominación...de que habló el p DanielG4396
+- Mat_24:24levantarán falsos Cristos, y falsos pG5578
+- Mat_26:56que se cumplan, las Escrituras de los pG4396
+- Mat_27:9se cumplió lo dicho por el p JeremíasG4396
+- Mat_27:35para que se cumpliese lo dicho por el pG4396
+- Mar_1:2está escrito en Isaías el p: He aquí yoG4396
+- Mar_6:4no hay p sin honra sino en su...tierraG4396
+- Mar_6:15otros decían: Es un p, o alguno de los pG4396
+- Mar_8:28otros, Elías; y otros, alguno de los pG4396
+- Mar_11:32todos tenían a Juan como un verdadero pG4396
+- Mar_13:14abominación...de que habló el p DanielG4396
+- Mar_13:22Cristos y falsos p, y harán señales yG5578
+- Luc_1:70como habló por boca de sus santos pG4396
+- Luc_1:76tú, niño, p del Altísimo serás llamadoG4396
+- Luc_3:4en el libro de las palabras del p IsaíasG4396
+- Luc_4:17y se le dio el libro del p Isaías; yG4396
+- Luc_4:24ningún p es acepto en su propia tierraG4396
+- Luc_4:27muchos leprosos había...en tiempo del pG4396
+- Luc_6:23porque así hacían sus padres con los pG4396
+- Luc_6:26así hacían sus padres con los falsos pG5578
+- Luc_7:16un gran p se ha levantado entre nosotrosG4396
+- Luc_7:26ver? ¿A un p? Sí, os digo, y más que pG4396
+- Luc_7:28no hay mayor p que Juan el BautistaG4396
+- Luc_7:39si fuera p, conocería quién y qué claseG4396
+- Luc_9:8algún p de los antiguos ha resucitadoG4396
+- Luc_9:19otros, Elías; y otros, que algún p deG4396
+- Luc_10:24muchos p y reyes desearon ver lo queG4396
+- Luc_11:47que edificáis los sepulcros de los pG4396
+- Luc_11:49les enviaré p y apóstoles; y de ellosG4396
+- Luc_11:50se demande...la sangre de todos los pG4396
+- Luc_13:28cuando veáis...todos los p en el reinoG4396
+- Luc_13:33no...que un p muera fuera de JerusalénG4396
+- Luc_13:34¡Jerusalén, Jerusalén...matas a los pG4396
+- Luc_16:16la ley y los p eran hasta Juan; desdeG4396
+- Luc_16:29a Moisés y a los p tienen; óiganlosG4396
+- Luc_16:31si no oyen a Moisés y a los p, tampocoG4396
+- Luc_18:31cumplirán...las cosas escritas por los pG4396
+- Luc_20:6porque están persuadidos...que Juan era pG4396
+- Luc_24:19de Jesús nazareno, que fue varón pG4396
+- Luc_24:25para creer todo lo que los p han dicho![[G4396]]
+- Luc_24:27siguiendo por todos los p...declarabaG4396
+- Luc_24:44lo que está escrito de mí...en los p yG4396
+- Jua_1:21no soy...¿Eres tú el p? Y respondió: NoG4396
+- Jua_1:23clama...Enderezad...como dijo el p IsaíasG4396
+- Jua_1:25tú no eres el Cristo, ni Elías, ni el p?[[G4396]]
+- Jua_1:45de quien escribió Moisés...así como los pG4396
+- Jua_4:19le dijo...Señor, me parece que tú eres pG4396
+- Jua_4:44el p no tiene honra en su propia tierraG4396
+- Jua_6:14este...es el p que había de venir al mundoG4396
+- Jua_6:45está en los p: Y serán todos enseñadosG4396
+- Jua_7:40decían: Verdaderamente éste es el pG4396
+- Jua_7:52que de Galilea nunca se ha levantado pG4396
+- Jua_8:52Abraham murió; y los p, y tú dices: ElG4396
+- Jua_8:53¡y los p murieron! ¿Quién te haces a tiG4396
+- Jua_9:17¿qué dices tú del...Y él dijo: Que es pG4396
+- Jua_12:38se cumpliese la palabra del p IsaíasG4396
+- Hec_2:16mas esto es lo dicho por el p JoelG4396
+- Hec_2:30siendo p, y sabiendo que con juramentoG4396
+- Hec_3:18anunciado por boca de todos sus p, queG4396
+- Hec_3:21de que hablo...por boca de sus santos pG4396
+- Hec_3:22Dios os levantará p de entre vuestrosG4396
+- Hec_3:23toda alma que no oiga a aquel p, seráG4396
+- Hec_3:24y todos los p desde Samuel en adelanteG4396
+- Hec_3:25vosotros sois los hijos de los p, y delG4396
+- Hec_7:37p os levantará el Señor vuestro Dios deG4396
+- Hec_7:42como está escrito en el libro de los pG4396
+- Hec_7:48no habita en templos...como dice el pG4396
+- Hec_7:52¿a cuál de los p no persiguieron...padres?[[G4396]]
+- Hec_8:28volvía sentado en...leyendo al p IsaíasG4396
+- Hec_8:30oyó que leía al p Isaías, y dijo: PeroG4396
+- Hec_8:34¿de quién dice el p esto; de sí mismo, oG4396
+- Hec_10:43de éste dan testimonio todos los p, queG4396
+- Hec_11:27días unos p descendieron de JerusalénG4396
+- Hec_13:1en la iglesia...Antioquía, p y maestrosG4396
+- Hec_13:6hallaron a cierto mago, falso p, judíoG5578
+- Hec_13:15después de la lectura de la ley y de...pG4396
+- Hec_13:20años, les dio jueces hasta el p SamuelG4396
+- Hec_13:27palabras de los p que se leen todos losG4396
+- Hec_13:40que no venga...lo que está dicho en los pG4396
+- Hec_15:15esto concuerdan las palabras de los pG4396
+- Hec_15:32y Judas y Silas...ellos también eran pG4396
+- Hec_21:10descendió de Judea un p, llamado AgaboG4396
+- Hec_24:14que en la ley y en los p están escritasG4396
+- Hec_26:22fuera de las cosas que los p y MoisésG4396
+- Hec_26:27¿crees, oh rey Agripa, a los p? Yo séG4396
+- Hec_28:23por la ley de Moisés como por los pG4396
+- Hec_28:25bien habló el Espíritu...por medio del pG4396
+- Rom_1:2él había prometido antes por sus p enG4396
+- Rom_3:21Dios, testificada por la ley y por los pG4396
+- Rom_11:3Señor, a tus p han dado muerte, y tusG4396
+- Rom_16:26por las Escrituras de los p, según elG4397
+- 1Co_12:28unos puso Dios...apóstoles, luego pG4396
+- 1Co_12:29¿son todos apóstoles? ¿son todos p?[[G4396]]
+- 1Co_14:29los p hablen dos o tres, y los demásG4396
+- 1Co_14:32los espíritus de los p...sujetos a los pG4396
+- 1Co_14:37se cree p, o espiritual, reconozca queG4396
+- Efe_2:20edificados sobre el fundamento de...pG4396
+- Efe_3:5como ahora es revelado a sus santos...y pG4396
+- Efe_4:11constituyó a...p: a otros, evangelistasG4396
+- 1Ts_2:15mataron al Señor...y a sus propios pG4396
+- Tit_1:12uno de ellos, su propio p, dijo: LosG4396
+- Heb_1:1habiendo hablado...los padres por los pG4396
+- Heb_11:32de David, así como de Samuel y de los pG4396
+- Stg_5:10como ejemplo de...de paciencia a los pG4396
+- 1Pe_1:10los p que profetizaron de la graciaG4396
+- 2Pe_2:1hubo también falsos p entre el puebloG5578
+- 2Pe_2:16una muda bestia...refrenó la locura del pG4396
+- 2Pe_3:2de las palabras dichas...por los santos pG4396
+- 1Jn_4:1porque muchos falsos p han salido porG5578
+- Rev_10:7como...lo anunció a sus siervos los pG4396
+- Rev_11:10estos dos p habían atormentado a losG4396
+- Rev_11:18de dar el galardón a tus siervos los pG4396
+- Rev_16:6cuando derramaron la sangre...de los pG4396
+- Rev_16:13vi salir...de la boca del falso p, tresG4396
+- Rev_18:10alégrate sobre ella...apóstoles y pG4396
+- Rev_18:24y en ella se hallo la sangre de los p yG4396
+- Rev_19:20fue apresada, y con ella el falso p queG4396
+- Rev_20:10donde estaban la bestia y el falso pG4396
+- Rev_22:6el Dios de los espíritus de los p, haG4396
+- Rev_22:9soy consiervo tuyo, de, los p, y de losG4396

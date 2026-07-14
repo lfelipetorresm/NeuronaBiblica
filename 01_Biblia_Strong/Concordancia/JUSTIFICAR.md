@@ -1,0 +1,71 @@
+---
+tipo: concordancia
+palabra: JUSTIFICAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUSTIFICAR
+
+- Gén_44:16con qué nos justificaremos? Dios haH6663
+- Éxo_23:7no matarás...yo no justificaré al impíoH6663
+- 1Re_8:32y justificando al justo para darleH6662
+- 2Cr_6:23dando la...y justificando al justoH6663
+- Job_9:2¿y cómo se justificará el hombre conH6663
+- Job_9:20si yo me justificare, me condenaría miH6663
+- Job_11:2el hombre que habla...será justificado?[[H6663]]
+- Job_13:18expusiere mi...sé que seré justificadoH6663
+- Job_15:14que se justifique el nacido de mujer?[[H6663]]
+- Job_22:3contentamiento...que tú seas justificadoH6663
+- Job_25:4¿cómo, pues, se justificará el hombreH6663
+- Job_27:5nunca...acontezca que yo os justifiqueH6663
+- Job_32:2justificaba a sí mismo más que a DiosH6663
+- Job_33:32habla, porque yo te quiero justificarH6663
+- Job_40:8¿me condenarás...para justificarte tú?[[H6663]]
+- Sal_143:2se justificará delante de ti ningúnH6663
+- Pro_17:15el que justifica al impío, y el queH6663
+- Isa_5:23justifican al impío mediante cohechoH6663
+- Isa_43:9presenten sus testigos, y justifíquenseH6663
+- Isa_43:26juntamente; habla tú para justificarteH6663
+- Isa_45:25será justificada...la descendencia deH6663
+- Isa_53:11justificará mi siervo justo a muchosH6663
+- Eze_16:51has justificado a tus hermanas conH6663
+- Eze_16:52cuanto has justificado a tus hermanasH6663
+- Mat_11:19la sabiduría es justificada por susG1344
+- Mat_12:37por tus palabras serás justificado, yG1344
+- Luc_7:29justificaron a Dios, bautizándose conG1344
+- Luc_7:35sabiduría es justificada por...sus hijosG1344
+- Luc_10:29él, queriendo justificarse a sí mismoG1344
+- Luc_16:15que os justificáis a vosotros mismosG1344
+- Luc_18:14éste descendió a su casa justificadoG1344
+- Hec_13:39ley...no pudisteis ser justificadosG1344
+- Hec_13:39en él es justificado...aquel que creeG1344
+- Rom_2:13los hacedores de...serán justificadosG1344
+- Rom_3:4que seas justificado en tus palabras, yG1344
+- Rom_3:20ningún...será justificado delante de élG1344
+- Rom_3:24justificados...por su gracia, mediante laG1344
+- Rom_3:26el que justifica al que es de la fe deG1344
+- Rom_3:28el hombre es justificado por fe sin lasG1344
+- Rom_3:30Dios es uno, y él justificará por la feG1344
+- Rom_4:2si Abraham fue justificado por las obrasG1344
+- Rom_4:5cree en aquel que justifica al impío, suG1344
+- Rom_5:1justificados...por la fe, tenemos paz conG1344
+- Rom_5:9más, estando ya justificados en su sangreG1344
+- Rom_6:7el que ha muerto, ha sido justificado delG1344
+- Rom_8:30justificó; y a los que j, a...glorificóG1344
+- Rom_8:33acusará a los...Dios es el que justificaG1344
+- 1Co_4:4porque...no por eso soy justificadoG1344
+- 1Co_6:11habéis sido justificados en el nombreG1344
+- Gál_2:16no es justificado por las obras de laG1344
+- Gál_2:16hemos creído en...para ser justificadosG1344
+- Gál_2:16por las obras...nadie será justificadoG1344
+- Gál_2:17si buscando ser justificados en CristoG1344
+- Gál_3:8que Dios había de justificar por la feG1344
+- Gál_3:11y que por la ley ninguno se justificaG1344
+- Gál_3:24de que fuésemos justificados por la feG1344
+- Gál_5:4los que por la ley os justificáis; de laG1344
+- 1Ti_3:16justificado en el Espíritu, visto deG1344
+- Tit_3:7para que justificados por su graciaG1344
+- Stg_2:21fue justificado por las obras AbrahamG1344
+- Stg_2:24el hombre es justificado por las obrasG1344
+- Stg_2:25Rahab la...¿no fue justificada por obrasG1344

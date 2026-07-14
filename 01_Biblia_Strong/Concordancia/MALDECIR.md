@@ -1,0 +1,122 @@
+---
+tipo: concordancia
+palabra: MALDECIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MALDECIR
+
+- Gén_3:14maldita serás entre todas las bestiasH779
+- Gén_3:17maldita será la tierra por tu causa; conH779
+- Gén_4:11maldito seas tú de la tierra, que abrióH779
+- Gén_5:29a causa de la tierra que Jehová maldijoH779
+- Gén_8:21no volveré más a maldecir la tierra porH7043
+- Gén_9:25maldita sea Canaán; siervo de siervosH779
+- Gén_12:3y a los que te maldijeren maldeciréH779
+- Gén_27:29sírvante...malditos los que te maldijerenH779
+- Gén_49:7maldito su furor, que fue fiero; y suH779
+- Éxo_21:17el que maldijere a su padre o a suH7043
+- Éxo_22:28ni maldecirás al príncipe de tu puebloH779
+- Lev_19:14no maldecirás al sordo, y delante delH7043
+- Lev_20:9todo hombre que maldijere a su padre oH7043
+- Lev_20:9madre maldijo; su sangre será sobre élH7043
+- Lev_24:11el hijo...blasfemó el Nombre, y maldijoH7043
+- Lev_24:15cualquiera que maldijere a su DiosH7043
+- Núm_22:6ven...te ruego, maldíceme este puebloH779
+- Núm_22:6yo sé...el que tú maldigas será malditoH779
+- Núm_22:11ven pues, ahora, y maldícemelo; quizáH6895
+- Núm_22:12no vayas con...ni maldigas al puebloH779
+- Núm_22:17pues, ahora, maldíceme a este puebloH6895
+- Núm_23:7ven, maldíceme a Jacob, y ven, execra aH779
+- Núm_23:8maldeciré yo al que Dios no maldijo?[[H5344]]
+- Núm_23:11he traído...que maldigas a mis enemigosH6895
+- Núm_23:13lugar...y desde allí me los maldecirásH6895
+- Núm_23:25dijo a Balaam: Ya que no lo maldicesH6895
+- Núm_23:27parecerá bien a Dios...me lo maldigasH6895
+- Núm_24:9que...y malditos los que te maldijerenH779
+- Núm_24:10maldecir a mis enemigos te he llamadoH6895
+- Deu_21:23maldito por Dios es el colgado; y noH7045
+- Deu_23:4alquilaron...a Balaam...para maldecirteH7043
+- Deu_27:15maldito el hombre que hiciere esculturaH779
+- Deu_27:16maldito el que deshonrare a su padre oH779
+- Deu_27:17maldito el que redujere el límite de suH779
+- Deu_27:18maldito el que hiciere errar al ciegoH779
+- Deu_27:19maldito el que pervirtiere el derechoH779
+- Deu_27:20maldito...se acostare con la mujer deH779
+- Deu_27:21maldito el que se ayuntare con...bestiaH779
+- Deu_27:22maldito el...se acostare con su hermanaH779
+- Deu_27:23maldito...que se acostare con su suegraH779
+- Deu_27:24maldito el que hiriere a su prójimoH779
+- Deu_27:25maldito el que recibiere soborno paraH779
+- Deu_27:26maldito...que no confirmare las palabrasH779
+- Deu_28:16maldito serás tú en la ciudad, y m enH779
+- Deu_28:17maldita tu canasta, y...artesa de amasarH779
+- Deu_28:18maldito el fruto de tu vientre...tierraH779
+- Deu_28:19maldito serás en tu entrar, y m en tuH779
+- Jos_6:26maldito...reedificare esta ciudad deH779
+- Jos_9:23malditos sois, y no dejará de haber deH779
+- Jos_24:9llamar a Balaam...para que os maldijeseH7043
+- Jue_5:23maldecid a Meroz...m severamente aH779
+- Jue_9:27uva...y bebieron, y maldijeron a AbimelecH7043
+- Jue_17:2acerca de los cuales maldijiste, y deH422
+- Jue_21:18maldito el que diere mujer...benjamitasH779
+- 1Sa_14:24que coma pan antes de...sea malditoH779
+- 1Sa_14:28maldito sea el...que tome hoy alimentoH779
+- 1Sa_17:43el filisteo...maldijo a David por susH7043
+- 1Sa_26:19malditos sean...en presencia de JehováH779
+- 2Sa_16:5llamaba Simei...y salía maldiciendoH7043
+- 2Sa_16:7y decía Simei, maldiciéndole: ¡FueraH7043
+- 2Sa_16:9¿por qué maldice este perro muerto a miH7043
+- 2Sa_16:10maldice...Jehová le ha dicho...maldigaH7043
+- 2Sa_16:11dejadle que maldiga, pues Jehová se loH7043
+- 2Sa_16:13Simei iba por el...andando y maldiciendoH7043
+- 2Sa_19:21Simei...maldijo al ungido de Jehová?[[H7043]]
+- 1Re_2:8me maldijo con una maldición fuerteH7045
+- 2Re_2:24los maldijo en el nombre de JehováH7043
+- 2Re_22:19que vendrán a ser asolados y malditosH7045
+- Neh_13:2dieron dinero a...que los maldijeraH7043
+- Neh_13:25maldije, y herí a algunos de ellos, yH7043
+- Job_2:9su mujer...maldice a Dios, y muéreteH1288
+- Job_3:1abrió Job su boca, y maldijo su díaH7043
+- Job_3:8maldíganla los que maldicen el día, losH5344
+- Job_5:3en la misma hora maldije su habitaciónH5344
+- Job_24:18su porción es maldita en la tierra; noH7043
+- Sal_37:22los malditos de él serán destruidosH7043
+- Sal_62:4bendicen, pero maldicen en su corazónH7043
+- Sal_109:28maldigan ellos, pero bendice túH7043
+- Pro_11:26que acapara...el pueblo lo maldeciráH5344
+- Pro_20:20al que maldice a su padre o a su madreH7043
+- Pro_24:24pueblos lo maldecirán, y le detestaránH5344
+- Pro_30:10no acuses al...no sea que te maldigaH7043
+- Pro_30:11hay generación que maldice a su padreH7043
+- Isa_8:21que...maldecirán a su rey y a su DiosH7043
+- Isa_65:20el pecador de cien años será malditoH7043
+- Jer_11:3maldito el varón que no obedeciereH779
+- Jer_15:10ni tomado en préstamo, y...me maldicenH7043
+- Jer_17:5maldito el...que confía en el hombre, yH779
+- Jer_20:14maldito el día en que nací; el día enH779
+- Jer_20:15maldito el hombre que dio nuevas a miH779
+- Jer_48:10maldito el que hiciere indolentementeH779
+- Jer_48:10maldito el que detuviere de la sangreH779
+- Mal_1:14maldito el que engaña...en su rebañoH779
+- Mal_2:2maldeciré vuestras bendiciones; y aun lasH3994
+- Mal_2:2aun las he maldecido, porque no os habéisH779
+- Mal_3:9malditos...con maldición...me habéis robadoH3994
+- Mat_5:44amad...bendecid a los que os maldicenG2672
+- Mat_15:4que maldiga al padre o a la madre, mueraG2551
+- Mat_26:74él comenzó a maldecir, y a jurar: NoG2653
+- Mar_7:10el que maldiga al padre o a la madreG2551
+- Mar_11:21la higuera que maldijiste se ha secadoG2672
+- Mar_14:71él comenzó a maldecir, y a jurar: NoG332
+- Luc_6:28bendecid a los que os maldicen, y oradG2672
+- Jua_7:49gente que no sabe la ley, maldita esG1944
+- Hec_19:9maldiciendo el Camino delante de laG2551
+- Hec_23:5maldecirás a...príncipe de tu puebloG2046, [[G2560]]
+- Rom_12:14persiguen; bendecid, y no maldigáisG2672
+- 1Co_4:12manos; nos maldicen, y bendecirnosG3058
+- Gál_3:10maldito...aquel que no permaneciere enG1944
+- Gál_3:13maldito...el que es colgado en un maderoG1944
+- Heb_6:8está próxima a ser maldecida, y su finG2671
+- Stg_3:9con ella maldecimos a los hombres, queG2672
+- 1Pe_2:23cuando le maldecían, no respondía conG3058

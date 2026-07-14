@@ -1,0 +1,99 @@
+---
+tipo: concordancia
+palabra: SUMO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SUMO
+
+- Lev_21:10y el s sacerdote entre sus hermanosH1419
+- Núm_35:25hasta que muera el s sacerdote, elH1419
+- Núm_35:28que muera el s sacerdote; y después queH1419
+- Núm_35:28después que haya muerto el s sacerdoteH1419
+- Núm_35:32vuelva...hasta que muera el s sacerdote
+- Jos_20:6la muerte del que fuere s sacerdoteH1419
+- 2Re_12:7llamó...rey Joás al s sacerdote Joiada
+- 2Re_12:9s sacerdote Joiada tomó un arca e hizo
+- 2Re_12:10venía el...y el s sacerdote, y contabanH1419
+- 2Re_22:4vé al s sacerdote Hilcías, y dile queH1419
+- 2Re_22:8dijo el s sacerdote...al escriba SafánH1419
+- 2Re_23:4mandó el rey al s sacerdote Hilcías, aH1419
+- 1Cr_27:5Benaía, hijo del s sacerdote JoiadaH7218
+- 2Cr_24:6el rey llamó al s sacerdote JoiadaH7218
+- 2Cr_24:11que estaba puesto por el s sacerdoteH7218
+- 2Cr_26:20miró el s sacerdote Azarías, y todosH7218
+- 2Cr_31:10y el s sacerdote Azarías...le contestóH7218
+- 2Cr_34:9vinieron éstos al s sacerdote HilcíasH1419
+- Neh_3:1se levantó el s sacerdote Eliasib conH1419
+- Neh_3:20hasta...la casa de Eliasib s sacerdoteH1419
+- Neh_13:28uno de los hijos de Joiada hijo del s sacerdoteH1419
+- Hag_1:1a Josué hijo de Josadac, s sacerdoteH1419
+- Hag_1:12y oyó Zorobabel, y Josué...s sacerdoteH1419
+- Hag_1:14el espíritu de Josué hijo...s sacerdoteH1419
+- Hag_2:2habla ahora...a Josué hijo...s sacerdoteH1419
+- Hag_2:4esfuérzate...Josué hijo de...s sacerdoteH1419
+- Zac_3:1me mostró al s sacerdote JosuéH1419
+- Zac_3:8escucha pues...Josué s sacerdote, túH1419
+- Zac_6:11las pondrás en la cabeza del s sacerdoteH1419
+- Mat_26:3reunieron en el patio del s sacerdoteG749
+- Mat_26:51hiriendo a un siervo del s sacerdoteG749
+- Mat_26:57a Jesús...llevaron al s sacerdote, adondeG749
+- Mat_26:58seguía...hasta el patio del s sacerdoteG749
+- Mat_26:62el s sacerdote, le dijo: ¿No respondesG749
+- Mat_26:63s sacerdote le dijo: Te conjuro por elG749
+- Mat_26:65el s sacerdote rasgó sus vestidurasG749
+- Mar_2:26cómo entró...siendo Abiatar s sacerdoteG749
+- Mar_14:47uno de...hirió al siervo del s sacerdoteG749
+- Mar_14:53trajeron, pues, a Jesús al s sacerdoteG749
+- Mar_14:54de lejos hasta...patio del s sacerdoteG749
+- Mar_14:60el s sacerdote, levantándose en medioG749
+- Mar_14:61el s sacerdote le volvió a preguntarG749
+- Mar_14:63el s sacerdote, rasgando su vestiduraG749
+- Mar_14:66vino una de las criadas del s sacerdoteG749
+- Luc_3:2y siendo s sacerdotes Anás y CaifásG749
+- Luc_22:50uno de ellos hirió a un siervo del sG749
+- Luc_22:54le condujeron a casa del s sacerdoteG749
+- Jua_11:49Caifás...s sacerdote aquel año, lesG749
+- Jua_11:51que como era el s sacerdote aquel añoG749
+- Jua_18:10Pedro...hirió al siervo del s sacerdoteG749
+- Jua_18:13Caifás, que era s sacerdote aquel añoG749
+- Jua_18:15discípulo era conocido del s sacerdoteG749
+- Jua_18:15y entró con Jesús al...del s sacerdoteG749
+- Jua_18:16salió, pues...conocido del s sacerdoteG749
+- Jua_18:19el s sacerdote preguntó a Jesús acercaG749
+- Jua_18:22diciendo: ¿Así respondes...s sacerdote?[[G749]]
+- Jua_18:24le envió atado a Caifás, el s sacerdoteG749
+- Jua_18:26uno de los siervos del s sacerdote...dijoG749
+- Hec_4:6el s sacerdote Anás, y Caifás y JuanG749
+- Hec_4:6eran de la familia de los s sacerdotesG748
+- Hec_5:17levantándose el s sacerdote y todos losG749
+- Hec_5:21vinieron el s sacerdote y...y convocaronG749
+- Hec_5:24oyeron estas palabras el s sacerdote yG2409
+- Hec_5:27trajeron...y el s sacerdote les preguntóG749
+- Hec_7:1s sacerdote dijo entonces: ¿Es esto así?[[G749]]
+- Hec_9:1Saulo, respirando...vino al s sacerdoteG749
+- Hec_22:5el s sacerdote también me es testigo, yG749
+- Hec_23:2el s sacerdote Ananías ordenó entoncesG749
+- Hec_23:4los...¿Al s sacerdote de Dios injurias?[[G749]]
+- Hec_23:5no sabía...que era el s sacerdote; puesG749
+- Hec_24:1después, descendió el s sacerdote AnaníasG749
+- Flp_2:9Dios...le exaltó hasta lo s, y le dioG5251
+- Heb_2:17fiel s sacerdote en lo que a Dios se refiereG749
+- Heb_3:1considerad al apóstol y s sacerdote deG749
+- Heb_4:14gran s sacerdote que traspasó los cielosG749
+- Heb_4:15no tenemos un s sacerdote que no puedaG749
+- Heb_5:1porque todo s sacerdote tomado de entreG749
+- Heb_5:5haciéndose s sacerdote, sino el que leG749
+- Heb_5:10fue declarado por Dios s sacerdote segúnG749
+- Heb_6:20Jesús entró...s sacerdote para siempreG749
+- Heb_7:26porque tal s sacerdote...convenía: santoG749
+- Heb_7:27necesidad...como aquellos s sacerdotesG749
+- Heb_7:28porque la ley constituye s sacerdotes aG749
+- Heb_8:1que tenemos tal s sacerdote, el cual seG749
+- Heb_8:3todo s sacerdote está constituido paraG749
+- Heb_9:7sólo el s sacerdote una vez al año, noG749
+- Heb_9:11ya presente Cristo, s sacerdote de losG749
+- Heb_9:25como entra el s sacerdote en el LugarG749
+- Heb_13:11es introducida en...por el s sacerdoteG749
+- Stg_1:2tened por s gozo cuando os halléis en

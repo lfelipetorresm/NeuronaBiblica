@@ -1,0 +1,108 @@
+---
+tipo: concordancia
+palabra: TRABAJO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TRABAJO
+
+- Gén_5:29aliviará de nuestras obras y del t deH6093
+- Gén_31:42pero Dios vio mi aflicción y el t deH3018
+- Gén_35:16dio a luz Raquel, y hubo t en su partoH3205
+- Gén_35:17como había t en su parto, que le dijoH3205
+- Gén_41:51dijo: Dios me hizo olvidar todo mi tH5999
+- Éxo_5:4por qué hacéis cesar al pueblo de su t?[[H4639]]
+- Éxo_18:8el t que habían pasado en el camino, yH8513
+- Éxo_18:18el t es demasiado pesado para ti; no
+- Éxo_35:2cualquiera que en él hiciere t algunoH4399
+- Lev_23:3ningún t haréis; día de reposo es deH4399
+- Lev_23:7primer día...ningún t de siervos haréisH4399
+- Lev_23:8el séptimo...ningún t de siervo haréisH4399
+- Lev_23:21ningún t de siervos haréis; estatutoH4399
+- Lev_23:25ningún t de siervos haréis...ofreceréisH4399
+- Lev_23:28ningún t haréis en este día; porque esH4399
+- Lev_23:30que hiciere t alguno en este día, yoH4399
+- Lev_23:31ningún t haréis; estatuto perpetuo esH4399
+- Lev_23:35primer día...ningún t de siervos haréisH4399
+- Lev_23:36es fiesta, ningún t de siervos haréisH4399
+- Núm_20:14has sabido...el t que nos ha venido
+- Deu_26:7y vio...nuestro t y nuestra opresiónH5999
+- Deu_28:33y de todo tu t comerá pueblo que noH3018
+- Jue_19:16un hombre viejo que venía de su tH4639
+- 1Re_18:27está meditando, o tiene algún t, o
+- 2Cr_24:12a los que hacían el t del servicioH4399
+- Neh_5:13sacuda Dios...de su t a todo hombreH3018
+- Job_1:10al t de sus manos has dado bendiciónH4639
+- Job_7:2el jornalero espera el reposo de su tH6467
+- Job_7:3así...y noches de t me dieron por cuentaH5999
+- Job_20:18restituirá el t conforme a los bienesH3022
+- Job_39:16no temiendo que su t haya sido en vanoH3018
+- Sal_10:14miras el t y la vejación, para dar
+- Sal_25:18mira mi aflicción y mi t, y perdonaH5999
+- Sal_55:10e iniquidad y t hay en medio de ella
+- Sal_73:5no pasan t como los otros mortales, ni
+- Sal_73:16pensé para saber esto, fue duro t para
+- Sal_90:10con todo, su fortaleza es molestia y tH5999
+- Sal_107:12esto quebrantó con el t sus corazonesH5999
+- Sal_109:11el acreedor...y extraños saqueen su tH3018
+- Sal_128:2cuando comieres el t de tus manosH3018
+- Sal_144:14nuestros bueyes están fuertes para...tH5445
+- Pro_5:10sea...tus t estén en casa del extrañoH6089
+- Pro_18:9que es negligente en su t es hermano delH4399
+- Pro_22:29¿has visto hombre solícito en su t?[[H4399]]
+- Pro_24:10fueres flojo en el día de t, tu fuerza
+- Ecl_1:3¿qué provecho tiene...de todo su t conH5999
+- Ecl_1:13este penoso t dio Dios a los hijos deH6045
+- Ecl_2:10mi corazón gozó de todo mi t; y esta fueH5999
+- Ecl_2:11el t que tomé para hacerlas; y he aquíH5999
+- Ecl_2:18aborrecí...mi t que había hecho debajo delH5999
+- Ecl_2:19el que se enseñoreará de todo mi t en queH5999
+- Ecl_2:20a desesperanzarse...acerca de todo el tH5999
+- Ecl_2:22¿qué tiene el hombre de todo su t, y deH5999
+- Ecl_2:23no son sino dolores, y sus t molestiasH6045
+- Ecl_2:24beba, y que su alma se alegre en su tH5999
+- Ecl_2:26mas al pecador da el t de recoger yH6045
+- Ecl_3:10yo he visto el t que Dios ha dado a losH6045
+- Ecl_3:22cosa mejor para...que alegrarse en su tH4639
+- Ecl_4:4todo t...despierta la envidia del hombreH5999
+- Ecl_4:6que ambos puños llenos con t y aflicciónH5999
+- Ecl_4:8bien? También esto es vanidad, y duro tH6045
+- Ecl_4:9mejores son...tienen mejor paga de su tH5999
+- Ecl_5:15y nada tiene de su t para llevar en suH5999
+- Ecl_5:18gozar uno del bien de todo su t con queH5999
+- Ecl_5:19que...goce de su t, esto es don de DiosH5999
+- Ecl_6:7todo el t del hombre es para su boca, yH5999
+- Ecl_8:15que esto le quede de su t los días de suH5999
+- Ecl_9:9en tu t con que te afanas debajo del solH5999
+- Ecl_9:10en el Seol, adonde vas, no hay obra...tH4639
+- Ecl_10:15el t de los necios los fatiga; porqueH5999
+- Isa_14:3día que Jehová te dé reposo de tu t y
+- Isa_45:14el t de Egipto...pasarán a ti y seránH3018
+- Isa_55:2gastáis...vuestro t en lo que no sacia?[[H3018]]
+- Isa_62:8ni beberán...el vino que es fruto de tu tH3021
+- Jer_3:24confusión consumió el t de...padresH3018
+- Jer_17:22ni hagáis t alguno, sino santificad elH4399
+- Jer_17:24de reposo, no haciendo en él ningún tH4399
+- Jer_20:5entregaré...todo su t y todas sus cosasH3018
+- Jer_20:18¿para ver t y dolor, y que mis días seH5999
+- Jer_22:13casa...no dándole el salario de su t![[H6467]]
+- Jer_31:16salario hay para tu t, dice Jehová, yH6468
+- Lam_3:5edificó...y me rodeó de amargura y de t
+- Eze_29:20por su t con que sirvió contra ellaH6468
+- Eze_46:1estará cerrada los seis días de t, y elH4639
+- Ose_12:8nadie hallará...pecado en todos mis tH3018
+- Hag_1:11sequía sobre...sobre todo t de manosH3018
+- Hec_6:3siete varones...encarguemos de este tG5532
+- 1Co_15:58vuestro t en el Señor no es...vanoG2873
+- 2Co_6:5en tumultos, en t, en desvelos, enG2873
+- 2Co_10:15no nos gloriamos...en t ajenos, sino queG2873
+- 2Co_11:23yo más; en t más abundante; en azotesG2873
+- 2Co_11:27en t y fatiga, en muchos desvelos, enG3449
+- 1Ts_1:3acordándonos...del t de vuestro amorG2873
+- 1Ts_2:9porque os acordáis...de nuestro t y fatigaG2873
+- 1Ts_3:5no sea...que nuestro t resultase en vanoG2873
+- Heb_6:10para olvidar...obra y el t de amor queG2873
+- 2Jn_1:8no perdáis el fruto de vuestro t, sinoG2038
+- Rev_2:2yo conozco tus...tu arduo t y pacienciaG2873
+- Rev_14:13descansarán de sus t, porque sus obrasG2873

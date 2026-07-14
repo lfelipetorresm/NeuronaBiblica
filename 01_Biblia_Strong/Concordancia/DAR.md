@@ -1,0 +1,2567 @@
+---
+tipo: concordancia
+palabra: DAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DAR
+
+- Gén_1:11hierba que dé semilla; árbol...d frutoH6213
+- Gén_1:12produjo...hierba que da semilla según suH2232
+- Gén_1:29os he dado toda planta que da semillaH5414, [[H2232]]
+- Gén_1:29todo árbol...que da semilla...para comerH2232
+- Gén_3:6dio también a su marido, el cual comióH5414
+- Gén_3:12mujer que me diste por compañera me dioH5414
+- Gén_3:16con dolor darás a luz los hijos; y tuH3205
+- Gén_4:1Eva...concibió y dio a luz a Caín, y dijoH3205
+- Gén_4:2después dio a luz a su hermano AbelH3205
+- Gén_4:12la tierra, no te volverá a dar su fuerzaH5414
+- Gén_4:17la cual concibió y dio a luz a EnocH3205
+- Gén_4:20y Ada dio a luz a Jabal, el cual fueH3205
+- Gén_4:22Zila también dio a luz a Tubal-caín, elH3205
+- Gén_4:25dio a luz un hijo, y llamó su nombre SetH3205
+- Gén_9:3legumbres y plantas...os lo he dado todoH5414
+- Gén_12:7dijo: A tu descendencia daré esta tierraH5414
+- Gén_12:20Faraón dio orden a su...acerca de AbramH6680
+- Gén_13:15la tierra que ves, la daré a ti y a tuH5414
+- Gén_13:17vé por la tierra...porque a ti la daréH5414
+- Gén_14:20y le dio Abram los diezmos de todoH5414
+- Gén_14:21dame las personas, y toma para ti losH5414
+- Gén_15:2¿qué me darás, siendo así que ando sinH5414
+- Gén_15:3que no me has dado prole, y...herederoH5414
+- Gén_15:7de Ur...para darte a heredar esta tierraH5414
+- Gén_15:18tu descendencia daré esta tierra, desdeH5414
+- Gén_16:1Sarai mujer de Abram no le daba hijosH3205
+- Gén_16:3y la dio por mujer a Abram su maridoH5414
+- Gén_16:5yo te di mi sierva por mujer, y viéndoseH5414
+- Gén_16:11has concebido, y darás a luz un hijoH3205
+- Gén_16:15y Agar dio a luz un hijo a Abram, yH3205
+- Gén_16:15y llamó...hijo que le dio Agar, IsmaelH3205
+- Gén_16:16años, cuando Agar le dio a luz a IsmaelH3205
+- Gén_17:8y te daré a ti...la tierra en que morasH5414
+- Gén_17:16también te daré de ella hijo; sí, laH5414
+- Gén_17:19Sara tu mujer te dará a luz un hijoH3205
+- Gén_17:21Isaac, el que Sara te dará a luz porH3205
+- Gén_18:7lo dio al criado, y éste se d prisa aH5414
+- Gén_18:13¿será cierto que he de dar a luz siendoH3205
+- Gén_19:15los ángeles daban prisa a Lot, diciendo
+- Gén_19:19habéis hecho...dándome la vida; mas yoH2421
+- Gén_19:22date prisa, escápate allá; porque nada
+- Gén_19:32ven, demos a beber vino a nuestro padre
+- Gén_19:33, Gén_19:35y dieron a beber vino a su padre
+- Gén_19:34démosle a beber...también esta noche, y
+- Gén_19:37dio a luz la mayor un hijo, y llamó suH3205
+- Gén_19:38la menor también dio a luz un hijo, yH3205
+- Gén_20:14se los dio a Abraham, y le devolvió aH5414
+- Gén_20:16he aquí he dado mil monedas de plata aH5414
+- Gén_21:2Sara concibió y dio a Abraham un hijoH3205
+- Gén_21:3su hijo...que le dio a luz Sara, IsaacH3205
+- Gén_21:7que Sara habría de dar de mamar a hijos?
+- Gén_21:7pues le he dado un hijo en su vejezH3205
+- Gén_21:9el hijo de Agar...dado a luz a AbrahamH3205
+- Gén_21:14y lo dio a Agar, poniéndolo sobre suH5414
+- Gén_21:19llenó el odre...dio de beber al muchacho
+- Gén_21:27tomó...ovejas y vacas, y dio a AbimelecH5414
+- Gén_22:11el ángel de Jehová le dio voces desde
+- Gén_22:20fue dada noticia a Abraham, diciendoH5046
+- Gén_22:20Milca ha dado a luz hijos a Nacor tuH3205
+- Gén_22:23son los ocho hijos que dio a luz MilcaH3205
+- Gén_22:24llamaba Reúma, dio a luz también a TebaH3205
+- Gén_23:4dame propiedad para sepultura entreH5414
+- Gén_23:9para que me dé la cueva de Macpela, queH5414
+- Gén_23:9me la dé, para posesión de sepulturaH5414
+- Gén_23:11te doy la heredad, y te d también laH5414
+- Gén_23:11en presencia de...de mi pueblo te la doyH5414
+- Gén_23:13yo daré el precio de la heredad; tómaloH5414
+- Gén_24:7a tu descendencia daré esta tierra; élH5414
+- Gén_24:12dame...tener hoy buen encuentro, y haz
+- Gén_24:14y también daré de beber a tus camellos
+- Gén_24:17te ruego que me des a beber un...de agua
+- Gén_24:18se dio prisa a bajar su...le d a beberH5414
+- Gén_24:19cuando acabó de darle de beber, dijo
+- Gén_24:20se dio prisa, y vació su cántaro en la
+- Gén_24:22le dio el hombre un pendiente de oroH3947
+- Gén_24:24Milca, el cual ella dio a luz a NacorH3205
+- Gén_24:32y les dio paja y forraje, y agua paraH5414
+- Gén_24:35le ha dado ovejas y vacas, plata y oroH5414
+- Gén_24:36Sara...dio a luz en su vejez un hijo aH3205
+- Gén_24:36quien le ha dado a él todo cuanto tieneH5414
+- Gén_24:41si no te la dieren, serás libre de miH5414
+- Gén_24:43dame de beber te ruego, un poco de agua
+- Gén_24:45le dije: Te ruego que me des de beber
+- Gén_24:46y también a tus camellos daré de beber
+- Gén_24:46y dio también de beber a mis camellos
+- Gén_24:47hija de Nacor, que le dio a luz MilcaH3205
+- Gén_24:53sacó el criado alhajas...y dio a RebecaH5414
+- Gén_24:53dio cosas preciosas a su hermano y a suH5414
+- Gén_25:2la cual le dio a luz a Zimram, JocsánH3205
+- Gén_25:5y Abraham dio todo cuanto tenía a IsaacH5414
+- Gén_25:6a los hijos de sus concubinas dio...donesH5414
+- Gén_25:12dio a luz Agar egipcia, sierva de SaraH3205
+- Gén_25:24se cumplieron sus días para dar a luzH3205
+- Gén_25:26de 60 años cuando ella los dio a luzH3205
+- Gén_25:30ruego que me des a comer de ese guiso
+- Gén_25:34Jacob dio a Esaú pan y del guisado deH5414
+- Gén_26:3a ti y a tu...daré todas estas tierrasH5414
+- Gén_26:4y daré a tu descendencia...estas tierrasH5414
+- Gén_26:32le dieron nuevas acerca del pozo queH5046
+- Gén_27:28Dios, pues, te dé del rocío del cieloH5414
+- Gén_27:33trajo caza, y me dio, y comí de todoH935
+- Gén_27:37le he dado por siervos a...sus hermanosH5414
+- Gén_28:4y te dé la bendición de Abraham, y a tuH5414
+- Gén_28:4heredes la tierra...Dios dio a AbrahamH5414
+- Gén_28:13la tierra en que estás...te la daré a tiH5414
+- Gén_28:20si...me diere pan para comer y vestidoH5414
+- Gén_28:22y de todo lo que me dieres, el diezmoH5414
+- Gén_29:12y ella corrió, y dio las nuevas a suH5046
+- Gén_29:19que te la dé a ti, y no que la d a otroH5414
+- Gén_29:21dame mi mujer, porque mi tiempo se haH3051
+- Gén_29:24y dio Labán su sierva Zilpa a su hijaH5414
+- Gén_29:26que se dé la menor antes de la mayorH5414
+- Gén_29:27y se te dará también la otra, por elH5414
+- Gén_29:28él le dio a Raquel su hija por mujerH5414
+- Gén_29:29y dio Labán a Raquel su hija su siervaH5414
+- Gén_29:31Lea era menospreciada, y le dio hijos
+- Gén_29:32y concibió Lea, y dio a luz un hijo, yH3205
+- Gén_29:33-34concibió otra vez, y dio a luz unH3205
+- Gén_29:33oyó Jehová...me ha dado también ésteH5414
+- Gén_29:34porque le he dado a luz tres hijosH3205
+- Gén_29:35dio a luz un hijo...y dejó de dar a luzH3205
+- Gén_30:1viendo Raquel que no daba hijos a JacobH3205
+- Gén_30:1a Jacob: Dame hijos, o si no, me mueroH3051
+- Gén_30:3Bilha...dará a luz sobre mis rodillas, yH3205
+- Gén_30:4así le dio a Bilha su sierva por mujerH5414
+- Gén_30:5concibió...y dio a luz un hijo a JacobH3205
+- Gén_30:6y también oyó mi voz, y me dio un hijoH5414
+- Gén_30:7concibió...y dio a luz un segundo hijoH3205
+- Gén_30:9viendo...que había dejado de dar a luzH3205
+- Gén_30:9Lea...tomó a Zilpa su sierva, y la dio aH5414
+- Gén_30:10Zilpa, sierva...dio, a luz un hijo a JacobH3205
+- Gén_30:12Zilpa...dio a luz otro hijo a JacobH3205
+- Gén_30:14te ruego que me des de las mandrágorasH5414
+- Gén_30:17Lea...dio a luz el quinto hijo a JacobH3205
+- Gén_30:18me ha dado...por cuanto di mi sierva aH5414
+- Gén_30:19Lea...dio a luz el sexto hijo a JacobH3205
+- Gén_30:20Dios me ha dado una buena dote; ahoraH2064
+- Gén_30:20porque le he dado a luz seis hijosH3205
+- Gén_30:21después dio a luz una hija, y llamó suH3205
+- Gén_30:23concibió, y dio a luz un hijo, y dijoH3205
+- Gén_30:25cuándo Raquel hubo dado a luz a JoséH3205
+- Gén_30:26dame mis mujeres y mis hijos, por lasH5414
+- Gén_30:28dijo: Señálame tu salario, y yo lo daréH5414
+- Gén_30:31¿qué te daré? Y respondió Jacob: No meH5414
+- Gén_30:31no me des nada; si hicieres por mí estoH5414
+- Gén_31:9quitó Dios el ganado...y me lo dio a míH5414
+- Gén_31:43a sus hijos que ellas han dado a luzH3205
+- Gén_33:5los niños que Dios ha dado a tu siervoH2603
+- Gén_34:1la cual ésta había dado a luz a JacobH3205
+- Gén_34:8hija; os ruego que se la deis por mujerH5414
+- Gén_34:9y emparentad con...dadnos vuestras hijasH5414
+- Gén_34:11halle yo gracia...daré lo que me dijereisH5414
+- Gén_34:12a cargo mío...yo daré cuanto me dijereisH5414
+- Gén_34:12mucha dote...y dadme la joven por mujerH5414
+- Gén_34:14no podemos...esto de dar nuestra hermanaH5414
+- Gén_34:16entonces os daremos nuestras hijas, yH5414
+- Gén_34:21sus hijas...y les daremos las nuestrasH5414
+- Gén_35:4dieron a Jacob todos los dioses ajenosH5414
+- Gén_35:12tierra que he dado a Abraham y a IsaacH5414
+- Gén_35:12la daré a ti, y a tu descendencia...dH5414
+- Gén_35:16dio a luz Raquel, y hubo trabajo en suH3205
+- Gén_36:4Ada dio a luz a Esaú a Elifaz; y BasematH3205
+- Gén_36:4a Elifaz; y Basemat dio a luz a ReuelH3205
+- Gén_36:5y Aholibama dio a luz a Jeús, a JaalamH3205
+- Gén_36:12Timna fue...ella le dio a luz a AmalecH3205
+- Gén_36:14ella dio a luz a Jeús, Jaalam y CoréH3205
+- Gén_38:3concibió, y dio a luz un hijo, y llamóH3205
+- Gén_38:4concibió otra vez, y dio a luz un hijoH3205
+- Gén_38:5y dio a luz un hijo, y llamó su nombreH3205
+- Gén_38:5y estaba en Quezib cuando lo dio a luzH3205
+- Gén_38:9por no dar descendencia a su hermanoH5414
+- Gén_38:13fue dado aviso a Tamar, diciendo: HeH5046
+- Gén_38:14crecido Sela, y ella no era dada a élH5414
+- Gén_38:16dijo: ¿Qué me darás por llegarte a mí?[[H5414]]
+- Gén_38:17dame una prenda hasta que lo envíesH5414
+- Gén_38:18Judá dijo: ¿Qué prenda te daré? EllaH5414
+- Gén_38:18y él se los dio, y se llegó a ella, yH5414
+- Gén_38:24fue dado aviso a Judá, diciendo: TamarH5046
+- Gén_38:26cuanto no la he dado a Sela mi hijoH5414
+- Gén_38:27que al tiempo de dar a luz, he aquíH3205
+- Gén_38:28sucedió cuando daba a luz, que sacóH3205
+- Gén_39:5cuando le dio el encargo de su casa y deH6485
+- Gén_39:14vino él a mí para...y yo di grandes vocesH7121
+- Gén_39:21le dio gracia en los ojos del jefe deH5414
+- Gén_40:11y daba yo la copa en mano de FaraónH5414
+- Gén_40:13darás la copa a Faraón en su mano, comoH5414
+- Gén_40:21y dio éste la copa en mano de FaraónH5414
+- Gén_41:16Dios será el que dé respuesta...a Faraón
+- Gén_41:45y le dio por mujer a Asenat, hija deH5414
+- Gén_41:50los cuales le dio a luz Asenat, hija deH3205
+- Gén_42:25y les diesen comida para el caminoH5414
+- Gén_42:27su saco para dar de comer a su asno enH5414
+- Gén_42:34yo sepa...así os daré a vuestro hermanoH5414
+- Gén_43:14el Dios Omnipotente os dé misericordiaH5414
+- Gén_43:23vuestro Dios...dio el tesoro...costalesH5414
+- Gén_43:24les dio agua...y d de comer a sus asnosH5414
+- Gén_44:11se dieron prisa, y derribando cada unoH3381
+- Gén_44:27que dos hijos me dio a luz mi mujerH3205
+- Gén_45:1al darse a conocer José a sus hermanosH3045
+- Gén_45:2se dio a llorar a gritos; y oyeron los
+- Gén_45:7y para daros vida por medio de granH2421
+- Gén_45:9daos prisa, id a mi padre y decidle: AsíH4116
+- Gén_45:13y daos prisa, y traed a mi padre acáH4116
+- Gén_45:18os daré lo bueno de la tierra de EgiptoH5414
+- Gén_45:21y les dio José carros conforme a laH5414
+- Gén_45:22a cada uno de...dio mudas de vestidosH5414
+- Gén_45:22y a Benjamín dio trescientas piezas deH5414
+- Gén_45:26dieron las nuevas, diciendo: José viveH5046
+- Gén_46:15hijos de Lea...que dio a luz a Jacob enH3205
+- Gén_46:18Zilpa, la que Labán dio a...y d a luzH5414, [[H3205]]
+- Gén_46:20los que le dio a luz Asenat, hija deH3205
+- Gén_46:25que dio Labán...d a luz éstos a JacobH5414, [[H3205]]
+- Gén_47:11José...les dio posesión en la tierra deH5414
+- Gén_47:15vino todo Egipto...diciendo: Danos panH3051
+- Gén_47:16dad vuestros ganados y yo os daré porH3051
+- Gén_47:17y José les dio alimentos por caballosH5414
+- Gén_47:19y danos semilla para que vivamos y noH5414
+- Gén_47:22comían la ración que Faraón les dabaH5414
+- Gén_47:24de los frutos daréis el quinto a FarónH5414
+- Gén_47:25la vida nos has dado; hallemos graciaH2421
+- Gén_48:4y daré esta tierra a tu descendenciaH5414
+- Gén_48:9son mis hijos, que Dios me ha dado aquíH5414
+- Gén_48:22yo te he dado a ti una parte más que aH5414
+- Gén_49:20el pan de Aser...él dará deleites al reyH5414
+- Gén_49:33acabó Jacob de dar mandamientos a sus
+- Gén_50:15y nos dará el pago de todo el mal queH7725
+- Éxo_1:19dan a luz antes que la partera vengaH3205
+- Éxo_2:2dio a luz un hijo; y viéndole que eraH3205
+- Éxo_2:16y dar de beber a las ovejas de su padre
+- Éxo_2:17las defendió, y dio de beber a sus ovejas
+- Éxo_2:19sacó agua, y dio de beber a las ovejas
+- Éxo_2:21dio su hija Séfora por mujer a MoisésH5414
+- Éxo_2:22ella le dio a luz un hijo; y él le pusoH3205
+- Éxo_3:21daré a este pueblo gracia en los ojos deH5414
+- Éxo_4:11¿quién dio la boca al hombre? ¿o quiénH7760
+- Éxo_4:28y todas las señales que le había dadoH6680
+- Éxo_5:7en adelante no daréis paja al pueblo paraH5414
+- Éxo_5:10así ha dicho Faraón: Yo no os doy pajaH5414
+- Éxo_5:13la tarea de...como cuando se os daba pajaH1961
+- Éxo_5:16no se da paja a tus siervos, y con todoH5414
+- Éxo_5:18trabajad...No se os dará paja, y habéisH5414
+- Éxo_6:3en mi nombre JEHOVÁ no me di a conocer
+- Éxo_6:4mi pacto...de darles la tierra de CanaánH5414
+- Éxo_6:8jurando que la daría a Abraham, a IsaacH5414
+- Éxo_6:8os meteré...y yo os la daré por heredadH5414
+- Éxo_6:20la cual dio a luz a Aarón y a MoisésH3205
+- Éxo_6:23a Elisabet...la cual dio a luz a NadabH3205
+- Éxo_6:25tomó para sí mujer...dio a luz a FineesH3205
+- Éxo_7:23Faraón...no dio atención tampoco a estoH7896
+- Éxo_8:15pero viendo...que le habían dado reposoH7309
+- Éxo_8:29no dejando ir...dar sacrificio a Jehová
+- Éxo_10:25tú...nos darás sacrificios y holocaustosH5414
+- Éxo_11:3Jehová dio gracia al pueblo en los ojosH5414
+- Éxo_12:25entréis en la tierra que Jehová os daráH5414
+- Éxo_12:33dándose prisa a echarlos de la tierra
+- Éxo_12:36y Jehová dio gracia al pueblo delanteH5414
+- Éxo_12:36los egipcios...les dieron cuanto pedíanH7592
+- Éxo_13:5la cual juró a tus padres que te daríaH5414
+- Éxo_13:11en la tierra...cuando te la hubiere dadoH5414
+- Éxo_14:2di a los...de Israel que den la vuelta y
+- Éxo_14:5fue dado aviso al rey de Egipto, que elH5046
+- Éxo_15:25allí les dio estatutos y ordenanzas, yH7760
+- Éxo_15:26si...y dieres oído a sus mandamientosH238
+- Éxo_16:8Jehová os dará en la tarde carne paraH5414
+- Éxo_16:15es el pan que Jehová os da para comerH5414
+- Éxo_16:29Jehová os dio el día de reposo, y porH5414
+- Éxo_16:29en el sexto día os da pan para dos díasH5414
+- Éxo_16:32vean el pan que yo os di a comer en el
+- Éxo_17:2y dijeron: Danos agua para que bebamosH5414
+- Éxo_19:5si diereis oído a mi voz, y guardaréisH8085
+- Éxo_20:7porque no dará por inocente Jehová al que
+- Éxo_20:12en la tierra que Jehová tu Dios te daH5414
+- Éxo_21:4si su amo le hubiere dado mujer, y ellaH5414
+- Éxo_21:4ella le diere hijos o hijas...serán de suH5414
+- Éxo_21:26le dará libertad por razón de su ojoH7971
+- Éxo_21:30si...dará por el rescate de su personaH5414
+- Éxo_22:7diere a su prójimo plata o...a guardar, yH5414
+- Éxo_22:10alguno hubiere dado a su prójimo asnoH5414
+- Éxo_22:17si su padre no quisiere dársela...pesaráH5414
+- Éxo_22:29me darás el primogénito de tus hijosH5414
+- Éxo_22:30con su madre...al octavo día me lo darásH5414
+- Éxo_23:27te daré la cerviz de todos tus enemigosH5414
+- Éxo_24:12y te daré tablas de piedra, y la leyH5414
+- Éxo_25:2todo varón que la diere de su voluntadH5068
+- Éxo_25:16en el arca el testimonio que yo te daréH5414
+- Éxo_25:21pondrás...el testimonio que yo te daréH5414
+- Éxo_30:12cada uno dará a Jehová el rescate de suH5414
+- Éxo_30:13esto dará todo aquel que sea contadoH5414
+- Éxo_30:14el que sea contado...dará la ofrendaH5414
+- Éxo_30:15dieren la ofrenda a Jehová para hacerH5414
+- Éxo_30:16darás para el servicio del tabernáculoH5414
+- Éxo_31:18dio a Moisés...dos tablas del testimonioH5414
+- Éxo_32:4dio forma con buril, e hizo...un becerro
+- Éxo_32:13y daré a vuestra descendencia...tierraH5414
+- Éxo_32:20lo dio a beber a los hijos de Israel
+- Éxo_32:24y me lo dieron, y lo eché en el fuegoH5414
+- Éxo_32:29que él dé bendición hoy sobre vosotrosH5414
+- Éxo_33:1la cual juré...a tu descendencia la daréH5414
+- Éxo_33:14mi presencia irá...y te daré descanso
+- Éxo_35:21a quien su espíritu le dio voluntadH5068
+- Éxo_36:1todo hombre...a quien Jehová dio sabiduríaH5414
+- Lev_5:16lo dará al sacerdote...hará expiaciónH5414
+- Lev_6:6un carnero...y lo dará, al sacerdote para
+- Lev_6:17la he dado a ellos por su porción de misH5414
+- Lev_7:32daréis al sacerdote para...la espaldillaH5414
+- Lev_7:34lo he dado a Aarón el sacerdote y a susH5414
+- Lev_7:36mandó Jehová que les diesen, desde elH5414
+- Lev_10:14dados de los sacrificios de paz de losH5414
+- Lev_10:17es muy santa, y la dio él a vosotrosH5414
+- Lev_10:20Moisés oyó esto, se dio por satisfechoH3190
+- Lev_12:2la mujer cuando conciba y dé a luz varónH3205
+- Lev_12:5y si diere a luz hija, será inmunda dosH3205
+- Lev_12:7esta es la ley para la que diere a luzH3205
+- Lev_14:34Canaán, la cual yo os doy en posesiónH5414
+- Lev_14:35y dará aviso al sacerdote, diciendoH5414
+- Lev_15:14dos palominos...y los dará al sacerdoteH5414
+- Lev_17:11yo os la he dado para hacer expiaciónH5414
+- Lev_18:21no des hijo...para ofrecerlo por fuegoH5414
+- Lev_19:20ni le hubiere sido dada libertad, ambosH5414
+- Lev_20:3dio de sus hijos a Moloc, contaminandoH5414
+- Lev_20:4que hubiere dado de sus hijos a MolocH5414
+- Lev_20:24y yo os la daré para que la poseáis porH5414
+- Lev_22:14dará al sacerdote con la cosa sagradaH5414
+- Lev_23:10entrado en la tierra que yo os doy, yH5414
+- Lev_23:38ofrendas...que acostumbráis dar a JehováH5414
+- Lev_25:2entrado en la tierra que yo os doy, laH5414
+- Lev_25:6el descanso de la...dará para comer a tiH402
+- Lev_25:19y la tierra dará su fruto, y comeréisH5414
+- Lev_25:37no le darás tu dinero a usura, ni tusH5414
+- Lev_25:38saqué...para daros la tierra de CanaánH5414
+- Lev_26:4yo daré vuestra lluvia...dará su frutoH5414
+- Lev_26:6y yo daré paz en la tierra, y dormiréisH5414
+- Lev_26:20vuestra tierra no dará su producto, yH5414
+- Lev_26:20árboles de la tierra no darán su frutoH5414
+- Lev_27:9lo que de los tales se diere a JehováH5414
+- Lev_27:10el dado en cambio de él serán sagrados
+- Lev_27:23aquel día dará tu precio señalado, cosaH5414
+- Lev_27:33tanto él como el que se dio en cambio
+- Núm_3:9darás los levitas a Aarón y a sus hijosH5414
+- Núm_3:9son...dados de entre los hijos de IsraelH5414
+- Núm_3:48darás a Aarón y a sus hijos el dineroH5414
+- Núm_3:51Moisés dio el dinero de los rescates aH5414
+- Núm_5:7parte, y lo dará a aquel contra quien pecóH5414
+- Núm_5:8se dará la indemnización del agravio a
+- Núm_5:10lo que cualquiera diere al sacerdoteH5414
+- Núm_5:22y estas aguas que dan maldición entren
+- Núm_5:24dará a beber a la mujer...aguas amargas
+- Núm_5:26y...dará, a beber las aguas a la mujer
+- Núm_5:27le dará, pues, a beber las aguas; y si
+- Núm_7:5y los darás a los levitas, a cada unoH5414
+- Núm_7:6Moisés recibió...y los dio a los levitasH5414
+- Núm_7:7cuatro bueyes dio a los hijos de GersónH5414
+- Núm_7:8a los hijos de Merari dio cuatro carrosH5414
+- Núm_7:9a los hijos de Coat no les dio, porqueH5414
+- Núm_8:19yo he dado en don los levitas a AarónH5414
+- Núm_10:29cual Jehová ha dicho: Yo os lo daréH5414
+- Núm_11:4dijeron: ¡Quién...diera a comer carne!
+- Núm_11:13¿de dónde conseguiré yo carne para darH5414
+- Núm_11:13mí, diciendo: Danos carne que comamosH5414
+- Núm_11:15si así lo...te ruego que me des muerte
+- Núm_11:18¡quién nos diera...pues, os dará carneH5414
+- Núm_11:21daré carne, y comerán un mes entero![[H5414]]
+- Núm_11:27corrió un joven y dio aviso a MoisésH5046
+- Núm_13:2la cual yo doy a los hijos de IsraelH5414
+- Núm_13:26y vinieron...y dieron la información aH7725
+- Núm_14:1toda la congregación gritó y dio vocesH5414
+- Núm_15:2hayáis entrado en la tierra...yo os doyH5414
+- Núm_15:21las primicias...daréis a Jehová ofrendaH5414
+- Núm_16:14ni nos has dado heredades de tierrasH5414
+- Núm_17:6los príncipes de ellos le dieron varasH5414
+- Núm_18:6dados a vosotros en don de Jehová, paraH5414
+- Núm_18:7os he dado en don el servicio de vuestroH5414
+- Núm_18:8te he dado...el cuidado de mis ofrendasH5414
+- Núm_18:8te he dado por razón de la unción, y aH5414
+- Núm_18:11he dado a ti y...por estatuto perpetuoH5414
+- Núm_18:12las primicias de...para ti las he dadoH5414
+- Núm_18:19todas las ofrendas...las he dado para tiH5414
+- Núm_18:21dado a los hijos de Leví...los diezmosH5414
+- Núm_18:24a los levitas he dado por heredad losH5414
+- Núm_18:26toméis...los diezmos que os he dado deH5414
+- Núm_18:28daréis de ellos la ofrenda de JehováH5414
+- Núm_19:3y la daréis a Eleazar el sacerdote, y élH5414
+- Núm_20:8hablad a la peña...y ella dará su aguaH5414
+- Núm_20:8y darás de beber a la congregación y aH5414
+- Núm_20:12no meteréis...la tierra que les he dadoH5414
+- Núm_20:19si bebiéremos...daré el precio de ellasH5414
+- Núm_20:24pues no entrará en la tierra que yo diH5414
+- Núm_21:16dijo...Reúne al pueblo, y les daré aguaH5414
+- Núm_22:8y yo os daré respuesta según Jehová meH7725
+- Núm_22:18Balac me diese su casa llena de plataH5414
+- Núm_23:20él dio bendición, y no podré revocarla
+- Núm_24:13Balac me diese su casa llena de plataH5414
+- Núm_26:54a los más darás mayor heredad, y a losH7235
+- Núm_26:54y a cada uno se le dará su heredadH5414
+- Núm_26:59dio a luz de Amram a Aarón y a MoisésH3205
+- Núm_26:62no les había de ser dada heredad entreH5414
+- Núm_27:4danos heredad entre los hermanos...padreH5414
+- Núm_27:7darás la posesión de una heredad entreH5414
+- Núm_27:9si no...daréis su herencia a sus hermanosH5414
+- Núm_27:10daréis su herencia a los hermanos de suH5414
+- Núm_27:11daréis su herencia a su pariente másH5414
+- Núm_27:12tierra que he dado a los hijos de IsraelH5414
+- Núm_27:19le darás el cargo en presencia de ellosH6680
+- Núm_27:23y le dio el cargo, como Jehová habíaH6680
+- Núm_31:5fueron dados de los millares de IsraelH4560
+- Núm_31:19que haya dado muerte a persona...tocado
+- Núm_31:29darás al sacerdote Eleazar la ofrendaH5414
+- Núm_31:30tomarás uno...y los darás a los levitasH5414
+- Núm_31:41y dio Moisés el tributo, para ofrendaH5414
+- Núm_31:47y los dio a los levitas, que tenían laH5414
+- Núm_32:5dése esta tierra a tus siervos en heredadH5414
+- Núm_32:7que no pasen a la tierra que les ha dadoH5414
+- Núm_32:9a la tierra que Jehová les había dadoH5414
+- Núm_32:29daréis la tierra de Galaad en posesiónH5414
+- Núm_32:33así Moisés dio...el reino de Sehón reyH5414
+- Núm_32:40y Moisés dio Galaad a Maquir hijo deH5414
+- Núm_33:53yo os lo he dado para que sea vuestraH5414
+- Núm_33:54a los muchos daréis mucho por herenciaH7235
+- Núm_33:54y a los pocos daréis menos por herenciaH4591
+- Núm_34:13mandó Jehová que diese a las 9 tribusH5414
+- Núm_34:18un príncipe, para dar la posesión de laH5157
+- Núm_35:2que den a los levitas, de la posesión deH5414
+- Núm_35:2también daréis a los levitas los ejidosH5414
+- Núm_35:4, Núm_35:6las ciudades que daréis a los levitasH5414
+- Núm_35:6daréis para que el homicida se refugieH5414
+- Núm_35:6seis...además de éstas daréis 42 ciudadesH5414
+- Núm_35:7ciudades que daréis...serán 48 ciudadesH5414
+- Núm_35:8las ciudades que diereis de la heredadH5414
+- Núm_35:8cada uno dará de sus...según la posesiónH5414
+- Núm_35:13de las ciudades...que daréis, tendréisH5414
+- Núm_35:14tres ciudades daréis a este lado delH5414
+- Núm_35:14y tres...daréis en la tierra de CanaánH5414
+- Núm_35:17si con piedra en...que pueda dar muerte
+- Núm_35:18con instrumento...que pueda dar muerte
+- Núm_35:19el vengador...dará muerte al homicida
+- Núm_35:30cualquiera que diere muerte a alguno
+- Núm_36:2por sorteo diese la tierra a los hijosH5414
+- Núm_36:2dé la posesión de Zelofehad...a sus hijasH5414
+- Deu_1:8Jehová juró...que les daría a ellos y aH5414
+- Deu_1:13dadme de...de vuestras tribus, varonesH3051
+- Deu_1:20monte del amorreo...nuestro Dios nos daH5414
+- Deu_1:25nos dieron cuenta, y dijeron: Es buena laH7725
+- Deu_1:25la tierra que Jehová nuestro Dios nos daH5414
+- Deu_1:35buena tierra que juré que había de dar aH5414
+- Deu_1:36y a él daré la tierra que pisó, y a susH5414
+- Deu_1:39y a ellos la daré, y ellos la heredaránH5414
+- Deu_1:43hablé, y no disteis oído; antes fuisteis
+- Deu_2:5porque no os daré de su tierra ni aun loH5414
+- Deu_2:5dado por heredad a Esaú el monte de SeirH5414
+- Deu_2:9porque no te daré posesión de su tierraH5414
+- Deu_2:9he dado a Ar por heredad a los hijos deH5414
+- Deu_2:12como hizo Israel en la tierra que les dioH5414
+- Deu_2:19no te dará posesión de la tierra de losH5414
+- Deu_2:19los hijos de Lot la he dado por heredadH5414
+- Deu_2:28el agua...me darás por dinero, y beberéH5414
+- Deu_2:29cruce el Jordán a la tierra que nos daH5414
+- Deu_3:12esta tierra...la di a los rubenitas y aH5414
+- Deu_3:13resto de Galaad...lo di a la media tribuH5414
+- Deu_3:15y Galaad se lo di a MaquirH5414
+- Deu_3:16les di de Galaad hasta el arroyo de ArnónH5414
+- Deu_3:18Dios os ha dado esta tierra por heredadH5414
+- Deu_3:19quedarán en las ciudades que os he dadoH5414
+- Deu_3:20la tierra que...Dios les da al otro ladoH5414
+- Deu_3:20volveréis...a la heredad que...os he dadoH5414
+- Deu_4:1y poseáis la tierra que Jehová el...os daH5414
+- Deu_4:21la buena tierra que Jehová tu Dios te daH5414
+- Deu_4:38y darte su tierra por heredad, como hoyH5414
+- Deu_4:40sobre la tierra que Jehová tu Dios te daH5414
+- Deu_5:11Jehová no dará por inocente al que tome
+- Deu_5:16sobre la tierra que Jehová tu Dios te daH5414
+- Deu_5:22en dos tablas...las cuales me dio a míH5414
+- Deu_5:29¡ quien diera que tuviesen tal corazónH5414
+- Deu_5:31por obra en la tierra que yo les doyH5414
+- Deu_6:10la tierra que juró a...Jacob que te daríaH5414
+- Deu_6:23y darnos la tierra que juró a nuestrosH5414
+- Deu_7:3no darás tu hija a su hijo, ni tomarás aH5414
+- Deu_7:10y que da el pago en...al que le aborrece
+- Deu_7:10que le odia, en persona le dará el pago
+- Deu_7:13la tierra que juró a tus...que te daríaH5414
+- Deu_7:16consumirás a...pueblos que te da JehováH5414
+- Deu_8:10por la buena tierra que te habrá dadoH5414
+- Deu_8:18te da el poder para hacer las riquezasH5414
+- Deu_9:6Jehová te da...buena tierra para tomarlaH5414
+- Deu_9:10me dio Jehová las dos tablas de piedraH5414
+- Deu_9:11Jehová me dio las dos tablas de piedraH5414
+- Deu_9:23subid y poseed la tierra...yo os he dadoH5414
+- Deu_10:4y escribió en las tablas...y me las dioH5414
+- Deu_10:11la tierra que juré...que les había de darH5414
+- Deu_10:18ama...extranjero dándole pan y vestidoH5414
+- Deu_11:9juró Jehová...que había de darla a ellosH5414
+- Deu_11:14yo daré la lluvia de vuestra tierra aH5414
+- Deu_11:15daré también hierba en tu campo paraH5414
+- Deu_11:17ni la tierra dé su fruto, y perezcáisH5414
+- Deu_11:17de la buena tierra que os da JehováH5414
+- Deu_11:21que Jehová juró...que les había de darH5414
+- Deu_11:31ir a poseer la tierra que os da JehováH5414
+- Deu_12:1la tierra que Jehová el Dios...te ha dadoH5414
+- Deu_12:9la heredad que os da Jehová vuestro DiosH5414
+- Deu_12:10él os dará reposo de...vuestros enemigosH5414
+- Deu_12:15según la bendición...Dios te haya dadoH5414
+- Deu_12:21tus ovejas que Jehová te hubiere dadoH5414
+- Deu_13:3no darás oído a las palabras de...profeta
+- Deu_13:12de tus ciudades que...te da para vivirH5414
+- Deu_14:21al extranjero que...la darás, y él podráH5414
+- Deu_14:26darás el dinero por todo lo que deseasH5414
+- Deu_15:4la tierra que...tu Dios te da por heredadH5414
+- Deu_15:7en la tierra que Jehová tu Dios te daH5414
+- Deu_15:9mires con malos ojos a...para no darleH5414
+- Deu_15:10le darás, y no serás de mezquino corazónH5414
+- Deu_15:10y no serás de mezquino...cuando le desH5414
+- Deu_15:14le darás de aquello en que Jehová teH5414
+- Deu_16:5las ciudades que Jehová tu Dios te daH5414
+- Deu_16:10de la abundancia...será lo que dieresH5414
+- Deu_16:17la bendición que...Dios te hubiere dadoH5414
+- Deu_16:18ciudades que Jehová tu Dios te dará enH5414
+- Deu_16:20y heredes la tierra que...tu Dios te daH5414
+- Deu_17:2de tus ciudades que Jehová tu Dios te daH5414
+- Deu_17:4fuere dado aviso, y después que oyeresH5046
+- Deu_17:14entrado en la tierra que...Dios te daH5414
+- Deu_18:3darán al sacerdote la espaldilla, lasH5414
+- Deu_18:4las primicias de...de tus ovejas le darásH5414
+- Deu_18:9cuando entres a la tierra...tu Dios te daH5414
+- Deu_19:1naciones cuya tierra...tu Dios te da a tiH5414
+- Deu_19:2la tierra que Jehová tu Dios te da paraH5414
+- Deu_19:3la tierra que...Dios te dará en heredad
+- Deu_19:5y al dar su mano el golpe con el hachaH5080
+- Deu_19:5diere contra su prójimo y éste muriereH4672
+- Deu_19:8te diere toda la tierra que prometió darH5414
+- Deu_19:10la tierra que...Dios te da por heredadH5414
+- Deu_19:14en la heredad que...tu Dios te da, noH5414
+- Deu_20:16ciudades...que...Dios te da por heredadH5414
+- Deu_21:1en la tierra que Jehová tu Dios te daH5414
+- Deu_21:15si...le hubieren dado hijos, y el hijoH3205
+- Deu_21:16no podrá dar...primogenitura al hijoH1069
+- Deu_21:17reconocerá...para darle el doble de loH5414
+- Deu_21:23tu tierra que...Dios te da por heredadH5414
+- Deu_22:14atribuyere faltas que den que hablarH7760
+- Deu_22:16yo di mi hija a este hombre por mujerH5414
+- Deu_22:17le atribuye faltas que dan que hablarH7760
+- Deu_22:19las cuales darán al padre de la jovenH5414
+- Deu_22:24la joven...no dio voces en la ciudad
+- Deu_22:27dio voces la joven desposada, y no
+- Deu_22:29el hombre...dará al padre de la jovenH5414
+- Deu_24:4tierra que Jehová...te da por heredadH5414
+- Deu_24:15en su día le darás su jornal, y no seH5414
+- Deu_24:15no se pondrá el sol sin dárselo; pues
+- Deu_25:3se podrá dar cuarenta azotes, no másH5221
+- Deu_25:6que ella diere a luz sucederá en el lugarH3205
+- Deu_25:10se le dará este nombre en Israel: LaH7121
+- Deu_25:15sobre la tierra que Jehová tu...te daH5414
+- Deu_25:19te dé descanso de todos tus enemigosH5414
+- Deu_25:19tierra que Jehová...te da por heredadH5414
+- Deu_26:1-2la tierra que Jehová tu Dios te daH5414
+- Deu_26:3tierra que juró Jehová...que nos daríaH5414
+- Deu_26:9y nos dio esta tierra...que fluye lecheH5414
+- Deu_26:10del fruto de la tierra que me disteH5414
+- Deu_26:11en todo el bien que...Dios te haya dadoH5414
+- Deu_26:12darás también al levita, al extranjeroH5414
+- Deu_26:13lo he dado al levita, al extranjero, alH5414
+- Deu_26:15bendice...a la tierra que nos has dadoH5414
+- Deu_27:2que pases...a la tierra que...tu Dios te daH5414
+- Deu_27:3entrar en la tierra que...tu Dios te daH5414
+- Deu_28:8en la tierra que Jehová tu Dios te daH5414
+- Deu_28:11país que Jehová juró...te había de darH5414
+- Deu_28:24dará Jehová por lluvia...polvo y cenizaH5414
+- Deu_28:31tus ovejas serán dadas a tus enemigosH5414
+- Deu_28:52la tierra que...tu Dios te hubiere dadoH5414
+- Deu_28:53la carne de tus hijos...que...Dios te dioH5414
+- Deu_28:55para no dar...de la carne de sus hijosH5414
+- Deu_28:57hijos que diere a luz; pues los comeráH3205
+- Deu_28:65allí te dará Jehová corazón temerosoH5414
+- Deu_28:67¡quién diera que fuese la tarde! y a laH5414
+- Deu_28:67¡quién diera que fuese la mañana! porH5414
+- Deu_29:4no os ha dado corazón para entender, niH5414
+- Deu_29:8y la dimos por heredad a Rubén y a GadH5414
+- Deu_29:26dioses...ninguna cosa les habían dadoH5414
+- Deu_30:20la tierra que juró...que les había de darH5414
+- Deu_31:7la tierra que juró Jehová...que les daríaH5414
+- Deu_31:9y escribió Moisés esta ley, y la dio aH5414
+- Deu_31:14y esperad, para que yo le dé el cargoH6680
+- Deu_31:21antes que...en la tierra que juré darles
+- Deu_31:23dio orden a Josué hijo de Nun, y dijoH6680
+- Deu_31:25dio órdenes Moisés a los levitas queH6680
+- Deu_32:29se dieran cuenta del fin que les espera!
+- Deu_32:41y daré la retribución a...me aborrecenH7725
+- Deu_32:49de Canaán, que yo doy por heredad a losH5414
+- Deu_32:52la tierra que doy a los hijos de IsraelH5414
+- Deu_34:4juré...diciendo: A tu descendencia la daréH5414
+- Jos_1:2pasa...a la tierra que yo les doy a losH5414
+- Jos_1:6la tierra de la cual juré...que la daría aH5414
+- Jos_1:11la tierra que Jehová...os da en posesiónH5414
+- Jos_1:13ha dado reposo, y os ha dado esta tierraH5414
+- Jos_1:14tierra que Moisés os ha dado a este ladoH5414
+- Jos_1:15que Jehová haya dado reposo a vuestrosH5414
+- Jos_1:15posean la tierra que Jehová...Dios les daH5414
+- Jos_1:15a la tierra...la cual Moisés...os ha dadoH5414
+- Jos_2:2fue dado aviso al rey de Jericó, diciendoH559
+- Jos_2:9sé que Jehová os ha dado esta tierraH5414
+- Jos_2:12de lo cual me daréis una señal seguraH5414
+- Jos_2:14y cuando Jehová nos haya dado la tierraH5414
+- Jos_4:10se pararon...pueblo se dio prisa y pasó
+- Jos_5:6Jehová había jurado a...que nos la daríaH5414
+- Jos_6:4daréis siete vueltas a la ciudad, y los
+- Jos_6:11él hizo que el arca...diera una vuelta
+- Jos_6:14así dieron otra vuelta a la ciudad el
+- Jos_6:15séptimo día...dieron vuelta a la ciudad
+- Jos_6:15dieron vuelta alrededor de...siete veces
+- Jos_7:19da gloria a Jehová...y dale alabanza, yH7760
+- Jos_9:24como fue dado a entender a tus siervosH5046
+- Jos_9:24que os había de dar toda la tierra, yH5414
+- Jos_10:17y fue dado aviso...que los cinco reyesH5046
+- Jos_12:6Moisés...dio aquella tierra en posesiónH5414
+- Jos_12:7Josué dio la tierra...las tribus de IsraelH5414
+- Jos_13:8heredad, la cual les dio Moisés al otroH5414
+- Jos_13:8según se la dio Moisés siervo de JehováH5414
+- Jos_13:14pero a la tribu de Leví no dio heredadH5414
+- Jos_13:15dio, pues, Moisés a la tribu...de RubénH5414
+- Jos_13:24dio...Moisés a la tribu de Gad, a losH5414
+- Jos_13:29dio Moisés heredad a la media tribu deH5414
+- Jos_13:33la tribu de Leví no dio Moisés heredadH5414
+- Jos_14:2por suerte se les dio su heredad, como
+- Jos_14:2como Jehová había mandado...que se diera
+- Jos_14:3había dado Moisés heredad al otro ladoH5414
+- Jos_14:3a los levitas no les dio heredad entreH5414
+- Jos_14:4y no dieron parte a los levitas en laH5414
+- Jos_14:12dame, pues, ahora este monte, del cualH5414
+- Jos_14:13y dio a Caleb hijo...Hebrón por heredadH5414
+- Jos_15:3y subiendo por Adar daba vuelta a Carca
+- Jos_15:13a Caleb...dio su parte entre los hijosH5414
+- Jos_15:16al que atacare a...le daré mi hija AcsaH5414
+- Jos_15:17Caleb...le dio su hija Acsa por mujerH5414
+- Jos_15:19un don...me has dado tierra del NeguevH5414
+- Jos_15:19dame también fuentes...dio las fuentesH5414
+- Jos_16:6el límite...da vuelta...hasta Taanat-silo
+- Jos_17:4mandó...que nos diese heredad...él les dioH5414
+- Jos_17:14¿por qué nos has dado por heredad unaH5414
+- Jos_18:3poseer la tierra que os ha dado JehováH5414
+- Jos_18:7su heredad...la cual les dio Moisés siervoH5414
+- Jos_19:27da vuelta hacia el oriente a Bet-dagón
+- Jos_19:49dieron...heredad a Josué hijo de Nun enH5414
+- Jos_19:50le dieron la ciudad...y habitó en ellaH5414
+- Jos_20:4le darán lugar para que habite con ellosH5414
+- Jos_21:2mandó...nos fuesen dadas ciudades dondeH5414
+- Jos_21:3dieron de su...herencia a los levitasH5414
+- Jos_21:8dieron...estas ciudades con sus ejidosH5414
+- Jos_21:9dieron estas ciudades que...nombradasH5414
+- Jos_21:11dieron Quiriat-arba del padre de AnacH5414
+- Jos_21:12el campo de la ciudad...dieron a CalebH5414
+- Jos_21:13a los hijos del...Aarón dieron HebrónH5414
+- Jos_21:21les dieron Siquem con sus ejidos, enH5414
+- Jos_21:27dieron de la media tribu de Manasés aH5414
+- Jos_21:34dio de la tribu de Zabulón, Jocneam
+- Jos_21:43dio Jehová...tierra...había jurado darH5414
+- Jos_22:4ahora...Dios ha dado reposo a...hermanos
+- Jos_22:4Moisés...os dio al otro lado del JordánH5414
+- Jos_22:7había dado Moisés posesión en BasánH5414
+- Jos_22:7a la otra mitad dio Josué heredad entreH5414
+- Jos_22:32regresaron de la...dieron la respuestaH7725
+- Jos_23:1Jehová diera reposo a Israel de todosH5414
+- Jos_23:13, Jos_23:15la buena tierra que Jehová...ha dadoH5414
+- Jos_23:16de esta buena tierra que él os ha dadoH5414
+- Jos_24:3aumenté su descendencia, y le di IsaacH5414
+- Jos_24:4a Isaac di Jacob y Esaú. Y a Esaú d elH5414
+- Jos_24:13y os di la tierra por la cual nadaH5414
+- Jos_24:25y les dio estatutos y leyes en SiquemH7760
+- Jos_24:33que le fue dado en el monte de EfraínH5414
+- Jue_1:12y la tomare, yo le daré Acsa mi hijaH5414
+- Jue_1:13tomó...él le dio Acsa su hija por mujerH5414
+- Jue_1:15has dado tierra...dame también fuentesH5414
+- Jue_1:15Caleb le dio las fuentes de arriba y lasH5414
+- Jue_1:20y dieron Hebrón a Caleb, como MoisésH5414
+- Jue_3:4mandamientos...que él había dado a susH6680
+- Jue_3:6y dieron sus hijas a los hijos de ellosH5414
+- Jue_4:19ruego me des de beber...Y ella...le dio
+- Jue_5:25él pidió agua, y ella le dio leche; enH5414
+- Jue_6:9los cuales eché de...y os di su tierraH5414
+- Jue_6:17des señal de que tú has hablado conmigoH6213
+- Jue_7:16dio a todos ellos trompetas en sus manosH5414
+- Jue_7:21el ejército echó a correr dando gritos y
+- Jue_8:5ruego que deis a la gente...bocados de panH5414
+- Jue_8:6Zeba...para que demos pan a tu ejército?[[H5414]]
+- Jue_8:14él le dio por escrito los nombres de los
+- Jue_8:15que demos...pan a tus hombres cansados?[[H5414]]
+- Jue_8:24que cada uno me dé los zarcillos de suH5414
+- Jue_8:25de buena gana te...daremos...los zarcillosH5414
+- Jue_8:31su concubina...le dio un hijo, y le pusoH3205
+- Jue_9:4le dieron 70 siclos de plata del templo deH5414
+- Jue_9:25de lo cual fue dado aviso a Abimelec
+- Jue_9:42el pueblo salió...dado aviso a Abimelec
+- Jue_9:47dado aviso a Abimelec, de que estaban
+- Jue_11:2pero la mujer de Galaad le dio hijosH3205
+- Jue_11:20Sehón no se fio de Israel...darle paso
+- Jue_11:35porque le he dado palabra a Jehová, yH6475
+- Jue_11:36si le has dado palabra a Jehová, hazH6475
+- Jue_13:3, Jue_13:5, Jue_13:7concebirás y darás a luz un hijoH3205
+- Jue_13:24la mujer dio a luz un hijo, y le pusoH3205
+- Jue_14:9a su padre y a...les dio también a ellosH5414
+- Jue_14:12yo os daré 30 vestidos de lino, y 30H5414
+- Jue_14:13me daréis a mí los 30 vestidos de linoH5414
+- Jue_14:19dio las mudas de vestidos a los queH5414
+- Jue_14:20la mujer de...fue dada a su compañero
+- Jue_15:2me persuadí de...y la di a tu compañeroH5414
+- Jue_15:6quitó su mujer y la dio a su compañeroH5414
+- Jue_15:18tú has dado esta grande salvación porH5414
+- Jue_16:5cada uno de...te dará mil cien siclos deH5414
+- Jue_16:24el cual había dado muerte a muchos deH2491
+- Jue_17:4tomó...200 siclos...y los dio al fundidorH5414
+- Jue_17:10yo te daré diez siclos de plata por añoH5414
+- Jue_18:23y dando voces a los de Dan...volvieronH7121
+- Jue_18:25no des voces tras nosotros, no sea queH8085
+- Jue_19:21dio de comer a sus asnos...se lavaron
+- Jue_20:7hijos de Israel: dad aquí vuestro parecerH3051
+- Jue_21:1ninguno...dará su hija a los de BenjamínH5414
+- Jue_21:7hemos jurado...no les daremos...mujeresH5414
+- Jue_21:14les dieron por mujeres las que habíanH5414
+- Jue_21:18no les podemos dar mujeres de...hijasH5414
+- Jue_21:18jurado...Maldito el que diere mujer aH5414
+- Jue_21:22no sois vosotros...que se las disteisH5414
+- Rut_1:6Jehová había visitado...para darles panH5414
+- Rut_1:12aunque dijese...y aun diese a luz hijosH3205
+- Rut_1:21que Jehová ha dado testimonio contra míH6030
+- Rut_2:14se sentó...él le dio del potaje, y comióH6642
+- Rut_2:18luego lo que le había sobrado...se lo dioH5414
+- Rut_3:3no te darás a conocer al varón hasta queH3045
+- Rut_3:17seis medidas de cebada me dio, diciendoH5414
+- Rut_4:7uno se quitaba el zapato y lo daba a suH5414
+- Rut_4:12de Fares, el que Tamar dio a luz a JudáH3205
+- Rut_4:12por la descendencia que...te dé JehováH5414
+- Rut_4:13Jehová le dio que...diese a luz un hijoH5414
+- Rut_4:15tu nuera...lo ha dado a luz; y ella esH3205
+- Rut_4:17le dieron nombre las vecinas, diciendoH7121
+- 1Sa_1:4daba a Penina su mujer, a...sus hijosH5414
+- 1Sa_1:5pero a Ana daba una parte escogida; porqueH5414
+- 1Sa_1:11sino...dieres a tu sierva un hijo varónH5414
+- 1Sa_1:20dio a luz un hijo, y le puso por nombreH3205
+- 1Sa_1:27por este niño oraba, y Jehová me dio loH5414
+- 1Sa_2:5hasta la estéril ha dado a luz siete, yH3205
+- 1Sa_2:6Jehová mata, y él da vida...y hace subirH2421
+- 1Sa_2:10dará poder a su Rey, y exaltará...UngidoH5414
+- 1Sa_2:15da carne que asar para el sacerdoteH5414
+- 1Sa_2:16respondía: No, sino dámela ahora mismoH5414
+- 1Sa_2:20te dé hijos de esta mujer en lugar delH7760
+- 1Sa_2:21Ana...dio a luz tres hijos y dos hijasH3205
+- 1Sa_2:28di a...tu padre todas las ofrendas de losH5414
+- 1Sa_4:13dadas las nuevas, toda la ciudad gritóH5046
+- 1Sa_4:14aquel hombre vino...dio las nuevas a ElíH5414
+- 1Sa_4:19su nuera...se inclinó y dio a luz; porqueH3205
+- 1Sa_4:20no tengas temor...has dado a luz un hijoH5414
+- 1Sa_4:20no respondió, ni se dio por entendidaH3820
+- 1Sa_5:10los ecronitas dieron voces, diciendoH2199
+- 1Sa_6:5daréis gloria al Dios de Israel; quizáH5414
+- 1Sa_7:16iba y daba vuelta a Bet-el, a Gilgal yH1980
+- 1Sa_8:6danos un rey que nos juzgue. Y SamuelH5414
+- 1Sa_8:14tomará lo mejor...los dará a sus siervosH5414
+- 1Sa_8:15diezmará, para dar a sus oficiales y aH5414
+- 1Sa_9:6nos dará algún indicio acerca del objetoH5046
+- 1Sa_9:8esto daré al varón de Dios, para que nosH5414
+- 1Sa_9:12date prisa, pues, porque hoy ha venidoH4116
+- 1Sa_9:22introdujo...les dio lugar a la cabeceraH5414
+- 1Sa_9:23trae acá la porción que te di, la cualH5414
+- 1Sa_10:4te darán dos panes, los que tomarás deH5414
+- 1Sa_11:3le dijeron: Danos siete días, para que
+- 1Sa_11:12dadnos esos hombres, y los mataremosH5414
+- 1Sa_11:13hoy Jehová ha dado salvación en IsraelH6213
+- 1Sa_12:17clamaré a Jehová, y él dará truenos yH5414
+- 1Sa_12:18Samuel clamó...y Jehová dio truenos yH5414
+- 1Sa_14:33dieron aviso a Saúl...El pueblo pecaH5046
+- 1Sa_14:37mas Jehová no le dio respuesta aquel díaH5414
+- 1Sa_14:41dijo Saúl a Jehová: Da suerte perfectaH3051
+- 1Sa_15:12dado aviso a Samuel, diciendo: Saúl haH5046
+- 1Sa_15:12Saúl...dio la vuelta, y pasó adelanteH5437
+- 1Sa_15:28lo ha dado a un prójimo tuyo mejor queH5414
+- 1Sa_17:8y dio voces a los escuadrones de IsraelH7121
+- 1Sa_17:10dadme un hombre que pelee conmigoH5414
+- 1Sa_17:20el ejército...daba el grito de combateH7321
+- 1Sa_17:25le dará su hija, y eximirá de tributosH5414
+- 1Sa_17:30y le dio el pueblo la misma respuestaH559
+- 1Sa_17:44ven a mí, y daré tu carne a las avesH5414
+- 1Sa_17:46daré hoy los cuerpos de los filisteosH5414
+- 1Sa_17:48David se dio prisa, y corrió a la líneaH4116
+- 1Sa_18:4se quitó el manto...y se lo dio a DavidH5414
+- 1Sa_18:8a David dieran diez miles, y a mí milesH5414
+- 1Sa_18:17aquí, yo te daré Merab mi hija mayorH5414
+- 1Sa_18:19en que Merab...se había de dar a DavidH5414
+- 1Sa_18:19fue dada por mujer a Adriel meholatitaH5414
+- 1Sa_18:21se la daré, para que le sea por lazoH5414
+- 1Sa_18:24los criados de...le dieron la respuestaH5046
+- 1Sa_18:27y Saúl le dio su hija Mical por mujerH5414
+- 1Sa_19:2y dio aviso a David, diciendo: Saúl miH5046
+- 1Sa_19:5y Jehová dio gran salvación a...IsraelH6213
+- 1Sa_19:19fue dado aviso a Saúl, diciendo: He aquíH5046
+- 1Sa_20:10¿quién me dará aviso si tu padre teH5414
+- 1Sa_20:37Jonatán dio voces tras el muchachoH7121
+- 1Sa_20:38corre, date prisa, no te pares. Y elH4120
+- 1Sa_20:40dio Jonatán sus armas a su muchachoH5414
+- 1Sa_21:3qué...Dame cinco panes, o lo que tengasH5414
+- 1Sa_21:4lo daré si los criados se han guardado
+- 1Sa_21:6así el sacerdote le dio el pan sagradoH5414
+- 1Sa_21:9dijo David: Ninguna como ella; dámelaH5414
+- 1Sa_22:7¿os dará...el hijo de Isaí tierras y viñasH5414
+- 1Sa_22:10le dio provisiones...le d la espada deH5414
+- 1Sa_22:13habéis conspirado...diste pan y espadaH5414
+- 1Sa_22:21dio aviso...cómo Saúl había dado muerteH2026
+- 1Sa_23:1dieron aviso a David, diciendo: He aquíH5046
+- 1Sa_23:7y fue dado aviso a Saúl que David habíaH5046
+- 1Sa_23:25fue dado aviso a David, y descendió a laH5046
+- 1Sa_23:26y se daba prisa David para escapar deH2648
+- 1Sa_24:1le dieron aviso, diciendo: He aquí DavidH5046
+- 1Sa_24:8David se levantó...dio voces detrás deH7121
+- 1Sa_24:18hecho conmigo...no me has dado muerteH2026
+- 1Sa_25:8te ruego que des lo que tuvieres a manoH5414
+- 1Sa_25:11mi pan...y darla a hombres que no sé deH5414
+- 1Sa_25:14uno de los criados dio aviso a AbigailH5046
+- 1Sa_25:27sea dado a los...que siguen a mi señorH5414
+- 1Sa_25:34si no te hubieras dado prisa en venirH4116
+- 1Sa_25:44Saúl había dado a su hija Mica¡ mujerH5414
+- 1Sa_26:8lo enclavaré...y no le daré segundo golpe
+- 1Sa_26:14dio voces David al...y a Abner...diciendoH7121
+- 1Sa_27:5séame dado lugar en alguna de las aldeasH5414
+- 1Sa_27:6y Aquis le dio aquel día a Siclag, porH5414
+- 1Sa_27:11sea que den aviso de nosotros y diganH5046
+- 1Sa_28:17y lo ha dado a tu compañero, DavidH5414
+- 1Sa_30:2a nadie habían dado muerte, sino se lesH4191
+- 1Sa_30:11y le dieron pan...y le d a beber aguaH5414
+- 1Sa_30:12le dieron...un pedazo de masa de higosH5414
+- 1Sa_30:22dijeron...no les daremos del botín queH5414
+- 1Sa_30:23de lo que nos ha dado Jehová, quien nosH5414
+- 2Sa_1:5dijo David a...que le daba las nuevasH5046
+- 2Sa_1:6joven que le daba las nuevas respondióH5046
+- 2Sa_1:20en Gat, ni deis las nuevas en las plazasH1319
+- 2Sa_2:4dieron aviso a David, diciendo: Los deH5046
+- 2Sa_2:5hecho...misericordia...dándole sepulturaH6912
+- 2Sa_2:26Abner dio voces a Joab...¿Consumirá laH7121
+- 2Sa_3:23fue dado aviso a Joab, diciendo: AbnerH5046
+- 2Sa_3:30a Abner...él había dado muerte a AsaelH4191
+- 2Sa_3:39dé el pago al que mal hace, conforme aH7999
+- 2Sa_4:10que cuando uno me dio nuevas, diciendoH5414
+- 2Sa_6:12fue dado aviso al rey David, diciendoH5046
+- 2Sa_7:1Jehová le había dado reposo de todos susH5414
+- 2Sa_7:9he dado nombre grande, como el nombreH6213
+- 2Sa_7:11te daré descanso de todos tus enemigos
+- 2Sa_8:5los sirios...para dar ayuda a Hadad-ezerH5826
+- 2Sa_8:6, 2Sa_8:14Jehová dio la victoria a David porH3467
+- 2Sa_9:9lo que fue de Saúl...lo he dado al hijo deH5414
+- 2Sa_10:11pudieren más que tú, yo te daré ayudaH3467
+- 2Sa_10:17cuando fue dado aviso a David, reunióH5046
+- 2Sa_11:27y le dio a luz un hijo. Mas esto queH3205
+- 2Sa_12:8te di la casa de tu señor, y las mujeresH5414
+- 2Sa_12:8te di la casa de Israel y de Judá; y siH5414
+- 2Sa_12:11tus mujeres...y las daré a tu prójimoH5414
+- 2Sa_12:15la mujer de Urías había dado a DavidH3205
+- 2Sa_12:24ella le dio a luz un hijo, y llamó suH3205
+- 2Sa_13:5venga...Tamar, para que me dé de comerH5414
+- 2Sa_13:28Absalón había dado orden a sus criadosH6680
+- 2Sa_13:30Absalón ha dado muerte a...hijos del reyH5221
+- 2Sa_13:32no diga...que han dado muerte a todosH4191
+- 2Sa_14:8vete...yo daré órdenes con respecto a tiH5414
+- 2Sa_15:14David dijo...daos prisa a partir, no seaH4116
+- 2Sa_15:28que venga respuesta...que me dé avisoH5046
+- 2Sa_15:31y dieron aviso a David...Ahitofel estáH5046
+- 2Sa_16:8Jehová te ha dado el pago de...la sangreH5414
+- 2Sa_16:12dará Jehová bien por sus maldicionesH7725
+- 2Sa_16:20dijo Absalón...Dad vuestro consejo sobreH3051
+- 2Sa_16:23el consejo que daba Ahitofel en...días
+- 2Sa_17:7el consejo que ha dado...no es buenoH3289
+- 2Sa_17:16enviad...y dad aviso a David, diciendoH5046
+- 2Sa_17:18los dos se dieron prisa a caminar, y
+- 2Sa_17:21dieron aviso al rey David, diciéndoleH5046
+- 2Sa_17:21y daos prisa a pasar las aguas, porqueH4120
+- 2Sa_17:21porque Ahitofel ha dado tal consejoH3289
+- 2Sa_18:3que tú nos des ayuda desde la ciudadH5826
+- 2Sa_18:5oyó cuando dio el rey orden acerca de
+- 2Sa_18:11Joab respondió al...que le daba la nuevaH5046
+- 2Sa_18:11me hubiera placido darte diez siclos deH5414
+- 2Sa_18:19¿correré...y daré al rey las nuevas deH1319
+- 2Sa_18:20no darás hoy la nueva, porque el hijoH1309
+- 2Sa_18:25el atalaya dio...voces, y lo hizo saberH7121
+- 2Sa_18:26vio...y dio voces el atalaya al porteroH7121
+- 2Sa_18:33me diera que muriera yo en lugar de tiH4310
+- 2Sa_19:1dieron aviso a Joab...aquí el rey lloraH5046
+- 2Sa_19:8fue dado aviso a...el pueblo, diciendoH5046
+- 2Sa_19:16Simei...se dio prisa y descendió con losH4116
+- 2Sa_19:32Barzilai...había dado provisiones al rey
+- 2Sa_19:36¿por qué me ha de dar el...recompensa?[[H1580]]
+- 2Sa_20:3puso en reclusión, y les dio alimentosH3557
+- 2Sa_20:10cayó muerto sin darle un segundo golpe
+- 2Sa_20:16una mujer sabia dio voces en la ciudadH7121
+- 2Sa_21:3qué satisfacción os daré, para que
+- 2Sa_21:6dénsenos siete varones de...Yo los daréH5414
+- 2Sa_22:14tronó...Jehová...el Altísimo dio su vozH5414
+- 2Sa_22:36me diste...el escudo de tu salvaciónH5414
+- 2Sa_23:10aquel día Jehová dio una gran victoriaH6213
+- 2Sa_23:12mató...y Jehová dio una gran victoriaH6213
+- 2Sa_23:15¡quién me diera a beber del agua delH8248
+- 2Sa_24:9y Joab dio el censo del pueblo al reyH5414
+- 2Sa_24:23todo esto, oh rey, Arauna lo da al reyH5414
+- 1Re_1:23y dieron aviso al rey, diciendo: HeH5046
+- 1Re_1:48ha dado hoy quien se siente en mi tronoH5414
+- 1Re_2:17para que me dé Abisag sunamita por mujerH5414
+- 1Re_2:21dijo: Dése Abisag...a tu hermano AdoníasH5414
+- 1Re_2:32ha dado muerte a dos varones más justos
+- 1Re_2:39y dieron aviso a Simei...están en GatH5046
+- 1Re_3:5dijo...Pide lo que quieras que yo te déH5414
+- 1Re_3:6le diste hijo que se sentase en su tronoH5414
+- 1Re_3:9da, pues, a tu siervo corazón entendidoH5414
+- 1Re_3:12te he dado corazón sabio y entendidoH5414
+- 1Re_3:13aun...te he dado las cosas que no pedisteH5414
+- 1Re_3:17yo di a luz estando con ella en la casaH3205
+- 1Re_3:18día después de dar yo a luz...dio a luzH3205
+- 1Re_3:21me levanté...para dar el pecho a mi hijoH3243
+- 1Re_3:21que no era...el que yo había dado a luzH3205
+- 1Re_3:25dad la mitad a la una, y la otra mitadH5414
+- 1Re_3:26dad a ésta el niño vivo, y no lo matéisH5414
+- 1Re_3:27respondió...Dad a aquélla el hijo vivoH5414
+- 1Re_3:28oyó aquel juicio que había dado el reyH8199
+- 1Re_4:29Dios dio a Salomón sabiduría...grandesH5414
+- 1Re_5:4Jehová...me ha dado paz por todas partesH5414
+- 1Re_5:6y yo te daré...el salario que tú dijeresH5414
+- 1Re_5:7bendito sea...que dio hijo sabio a DavidH5414
+- 1Re_5:9tú cumplirás mi deseo al dar de comer aH5414
+- 1Re_5:10dio...Hiram a Salomón madera de cedroH5414
+- 1Re_5:11Salomón daba a...20.000 coros de trigoH5414
+- 1Re_5:11esto daba Salomón a Hiram cada añoH5414
+- 1Re_5:12Jehová, pues, dio a Salomón sabiduríaH5414
+- 1Re_8:32justificando al justo...darle conforme aH5414
+- 1Re_8:34y los volverás a la tierra que diste aH5414
+- 1Re_8:36y darás lluvias sobre tu tierra, la, cualH5414
+- 1Re_8:36la cual diste a tu pueblo por heredadH5414
+- 1Re_8:39darás a cada uno conforme a sus caminosH5414
+- 1Re_8:40la tierra que tú diste a nuestros padresH5414
+- 1Re_8:48hacia...tierra que tú diste a sus padresH5414
+- 1Re_8:56bendito sea Jehová, que ha dado paz aH5414
+- 1Re_9:11Salomón dio a Hiram veinte ciudades enH5414
+- 1Re_9:12las ciudades que Salomón le había dadoH5414
+- 1Re_9:13¿qué ciudades son estas que me has dadoH5414
+- 1Re_9:16a Gezer...dio muerte a los cananeos queH2026
+- 1Re_9:16y la dio en dote a su hija la mujer deH5414
+- 1Re_10:10dio ella al rey 120 talentos de oroH5414
+- 1Re_10:10la reina de Sabá dio al rey SalomónH5414
+- 1Re_10:13dio a la reina...lo que Salomón le dH5414
+- 1Re_11:13daré una tribu a tu hijo, por amor aH5414
+- 1Re_11:18Faraón...les dio casa y...les d tierraH5414
+- 1Re_11:19Faraón...le dio por mujer la hermanaH5414
+- 1Re_11:20le dio a luz su hijo Genubat, al cualH3205
+- 1Re_11:31yo rompo el reino...te daré diez tribusH5414
+- 1Re_11:35pero quitaré el reino...y lo daré a tiH5414
+- 1Re_11:36y a su hijo daré una tribu, para queH5414
+- 1Re_12:8él dejó el consejo que...le habían dadoH3289
+- 1Re_12:13dejando el consejo que...le habían dadoH3289
+- 1Re_13:3y aquel...día dio una señal, diciendoH5414
+- 1Re_13:5señal que el varón de Dios había dadoH5414
+- 1Re_13:7ven conmigo...y yo te daré un presenteH5414
+- 1Re_13:8aunque me dieras la mitad de tu casa, noH5414
+- 1Re_14:15esta buena tierra que había dado a susH5414
+- 1Re_14:27los dio a los capitanes de...la guardiaH6485
+- 1Re_15:4Jehová su...le dio lámpara en JerusalénH5414
+- 1Re_16:16ha conspirado, y ha dado muerte al reyH5221
+- 1Re_17:4yo he mandado...que te den allí de comerH3557
+- 1Re_17:19él le dijo: Dame acá tu hijo. EntoncesH5414
+- 1Re_17:23lo trajo...lo dio a su madre, y le dijoH5414
+- 1Re_18:12al venir yo y dar las nuevas a AcabH5046
+- 1Re_18:16Abdías fue...y le dio el aviso; y AcabH5046
+- 1Re_18:23dénsenos...dos bueyes, y escojan ellosH5414
+- 1Re_18:26tomaron el buey que les fue dado y loH5414
+- 1Re_18:31cual había sido dada palabra de JehováH559
+- 1Re_19:1Acab dio a Jezabel la nueva de todo loH5046
+- 1Re_19:21y la dio al pueblo para que comiesenH5414
+- 1Re_20:5oro, y tus mujeres y tus hijos me darásH5414
+- 1Re_20:9los embajadores...le dieron la respuestaH7725
+- 1Re_20:17enviado quien le dio aviso, diciendoH5046
+- 1Re_20:25en campo raso...Y él les dio oído, y loH8085
+- 1Re_20:29y al séptimo día se dio la batallaH7126
+- 1Re_20:37el hombre le dio un golpe, y le hizoH5221
+- 1Re_20:39cuando el rey pasaba, él dio voces alH6817
+- 1Re_21:2diciendo: Dame tu viña para un huertoH5414
+- 1Re_21:2y yo te daré por ella otra viña mejorH5414
+- 1Re_21:3guárdeme...que yo te dé a ti la heredadH5414
+- 1Re_21:4no te daré la heredad de mis padresH5414
+- 1Re_21:6que me diera su viña...le daría otra viñaH5414
+- 1Re_21:6y él respondió: Yo no te daré mi viñaH5414
+- 1Re_21:7yo te daré la viña de Nabot de JezreelH5414
+- 1Re_21:15viña...que no te la quiso dar por dineroH5414
+- 1Re_22:34da la vuelta, y sácame del campo, puesH2015
+- 2Re_3:23uno ha dado muerte a su compañeroH5221
+- 2Re_4:17la mujer concibió, y dio a luz un hijoH3205
+- 2Re_4:41da de comer a la gente. Y no hubo más
+- 2Re_4:42y él dijo: Da a la gente para que comaH5414
+- 2Re_4:43da a la gente para que coma, porque asíH5414
+- 2Re_5:1él había dado Jehová salvación a SiriaH5414
+- 2Re_5:7¿soy yo Dios, que mate y dé vida, paraH2421
+- 2Re_5:17no se dará a tu siervo la carga de unH5414
+- 2Re_5:22ruego que les des un talento de plataH5414
+- 2Re_6:28dijo: Da acá tu hijo, y comámoslo hoyH5414
+- 2Re_6:29le dije: Da acá a tu hijo, y comámosloH5414
+- 2Re_7:4si ellos nos dieren la vida, viviremosH2421
+- 2Re_7:4y si nos dieren la muerte, moriremosH4191
+- 2Re_7:9vamos...y demos la nueva en casa del reyH5046
+- 2Re_8:7dieron aviso...El varón de Dios ha venidoH5046
+- 2Re_8:19había prometido darle lámpara a él y aH5414
+- 2Re_9:15para ir a dar las nuevas en JezreelH5221
+- 2Re_9:18el atalaya dio luego aviso, diciendoH5046
+- 2Re_9:26te daré la paga en esta heredad, dijoH7999
+- 2Re_10:8vino un mensajero que le dio las nuevasH5046
+- 2Re_10:9yo he conspirado...y le he dado muerteH2026
+- 2Re_10:9¿quién ha dado muerte a todos éstos?[[H5221]]
+- 2Re_10:15es, dame la mano. Y él le dio la manoH5414
+- 2Re_11:10sacerdote dio a los jefes de centenasH5414
+- 2Re_12:7sino dadlo para reparar las grietas deH5414
+- 2Re_12:11daban el dinero...a los que hacían laH5414
+- 2Re_12:14lo daban a los que hacían la obra, yH5414
+- 2Re_12:15que ellos lo diesen a los que hacíanH5414
+- 2Re_13:5y dio Jehová salvador a Israel, yH5414
+- 2Re_13:17dijo: Abre la ventana que da al orienteH5414
+- 2Re_13:19al dar cinco o seis golpes, hubierasH5221
+- 2Re_14:5mató a...que habían dado muerte al reyH5221
+- 2Re_14:6no mató a...de los que le dieron muerteH5221
+- 2Re_14:9decir...Da tu hija por mujer a mi hijoH5414
+- 2Re_14:26no había...quien diese ayuda a IsraelH5826
+- 2Re_15:19y Manahem dio a Pul mil talentos deH5414
+- 2Re_15:20siclos de...para dar al rey de AsiriaH5414
+- 2Re_17:17y se dieron a adivinaciones y agüerosH7080
+- 2Re_17:37los estatutos...que os dio por escritoH3789
+- 2Re_18:15dio...Ezequías toda la plata...halladaH5414
+- 2Re_18:16quitó el oro...lo dio al rey de AsiriaH5414
+- 2Re_18:23yo te ruego que des rehenes a mi señorH6149
+- 2Re_18:23daré 2.000 caballos, si tú puedes darH5414
+- 2Re_19:3y la que da a luz no tiene fuerzasH3205
+- 2Re_19:29y esto te daré por señal, oh EzequíasH226
+- 2Re_21:6y se dio a observar los tiempos, y fueH6049
+- 2Re_21:8movido de la tierra que di a sus padresH5414
+- 2Re_22:8Hilcías dio el libro a Safán, y lo leyóH5414
+- 2Re_22:9escriba Safán al rey, dio cuenta al reyH7725
+- 2Re_22:10sacerdote Hilcías me ha dado un libroH5414
+- 2Re_22:12el rey dio orden al sacerdote HilcíasH6680
+- 2Re_22:20y ellos dieron al rey la respuestaH7725
+- 2Re_23:35dar el dinero...darla a Faraón NecaoH5414
+- 2Re_25:30le fue dada su comida de parte del reyH5414
+- 1Cr_1:32Cetura...dio a luz a Zimram, JocsánH3205
+- 1Cr_2:4Tamar su nuera dio a luz a Fares y a ZeraH3205
+- 1Cr_2:17Abigail dio a luz a Amasa, cuyo padreH3205
+- 1Cr_2:19por mujer a Efrata, la cual dio a luz aH3205
+- 1Cr_2:21la hija de Maquir...dio a luz a SegubH3205
+- 1Cr_2:24Abías mujer de Hezrón dio a luz a AsurH3205
+- 1Cr_2:29Abihail...dio a luz a Ahbán y a MolidH3205
+- 1Cr_2:35Sesán dio su hija por mujer...dio a luz aH3205
+- 1Cr_2:46dio a luz Harán, a Mosa y a GazezH3205
+- 1Cr_2:48Maaca...dio a luz a Seber y a TirhanaH3205
+- 1Cr_2:49dio a luz a Saaf padre de Madmana, y aH3205
+- 1Cr_4:6Y Naara dio a luz a Ahuzam, Hefer, TemeniH3205
+- 1Cr_4:9madre llamó Jabes...lo di a luz en dolorH3205
+- 1Cr_4:10Jabes...¡Oh, si me dieras bendición, yH1288
+- 1Cr_4:18mujer Jehudaía dio a luz a Jered padreH3205
+- 1Cr_5:1Rubén...sus derechos...fueron dados a losH5414
+- 1Cr_6:55les dieron...Hebrón en tierra de JudáH5414
+- 1Cr_6:56ciudad y sus aldeas se dieron a CalebH5414
+- 1Cr_6:57de Judá dieron a los hijos de Aarón laH5414
+- 1Cr_6:61a los...de Coat...dieron por suerte diez
+- 1Cr_6:62a los...de Gersón...dieron de la tribu de
+- 1Cr_6:63a los...de Merari...dieron por suerte 12
+- 1Cr_6:64los hijos de Israel dieron a los levitasH5414
+- 1Cr_6:65dieron por suerte de la tribu...de JudáH5414
+- 1Cr_6:66a...Coat dieron ciudades con sus ejidos
+- 1Cr_6:67dieron la ciudad de refugio, Siquem conH5414
+- 1Cr_6:71dieron de la media tribu de Manasés
+- 1Cr_6:77a los hijos de Merari...dieron...Rimón
+- 1Cr_6:78dieron de la tribu de Rubén, Beser en
+- 1Cr_7:14Asriel, al cual dio a luz su...la siriaH3205
+- 1Cr_7:14la cual también dio a luz a Maquir padreH3205
+- 1Cr_7:16Maaca...dio a luz un hijo...llamó PeresH3205
+- 1Cr_7:18Hamolequet dio a luz a Isod, AbiezerH3205
+- 1Cr_7:23ella concibió y dio a luz un hijo, alH3205
+- 1Cr_10:9para dar las nuevas a sus ídolos y alH1319
+- 1Cr_11:17¡quién me diera de beber de...de BelénH8248
+- 1Cr_16:8dad a conocer en los pueblos sus obrasH3045
+- 1Cr_16:18daré la tierra de Canaán, porción de tuH5414
+- 1Cr_16:28pueblos, dad a Jehová gloria y poderH3051
+- 1Cr_16:29dad a Jehová la honra debida a...nombreH3051
+- 1Cr_18:6porque Jehová daba la victoria a DavidH3467
+- 1Cr_18:13porque Jehová daba el triunfo a DavidH3467
+- 1Cr_19:17luego que fue dado aviso a David, reunióH5046
+- 1Cr_21:4y dio la cuenta del número del puebloH5414
+- 1Cr_21:22dijo David...Dame este lugar de la eraH5414
+- 1Cr_21:22de la era...dámelo por su cabal precioH5414
+- 1Cr_21:23los bueyes daré para el holocausto, yH5414
+- 1Cr_21:23trigo para la ofrenda; yo lo doy todoH5414
+- 1Cr_21:25dio David...peso de 600 siclos de oroH5414
+- 1Cr_22:9yo le daré paz de...yo daré paz y reposoH5414
+- 1Cr_22:12te dé entendimiento y prudencia, paraH5414
+- 1Cr_22:18Dios...ha dado paz por todas partes?[[H5117]]
+- 1Cr_23:25Jehová...dado paz a su pueblo IsraelH5117
+- 1Cr_23:30para asistir cada mañana...a dar graciasH3034
+- 1Cr_25:5y Dios dio a Hemán 14 hijos y 3 hijasH5414
+- 1Cr_28:5porque Jehová me ha dado muchos hijosH5414
+- 1Cr_28:11David dio a Salomón su hijo el planoH5414
+- 1Cr_28:14dio oro en peso para las cosas de oro
+- 1Cr_28:16dio oro en peso para las mesas de la
+- 1Cr_29:3cosas...he dado para la casa de mi DiosH5414
+- 1Cr_29:7dieron para el servicio de la casa deH5414
+- 1Cr_29:8el que tenía piedras...las dio para elH5414
+- 1Cr_29:12y en tu mano el...el dar poder a todosH2388
+- 1Cr_29:14y de lo recibido de tu mano te damosH5414
+- 1Cr_29:17que tu pueblo, reunido...ha dado para tiH5068
+- 1Cr_29:19da a mi hijo Salomón corazón perfectoH5414
+- 1Cr_29:22dieron...investidura del reino a SalomónH4427
+- 1Cr_29:25y le dio tal gloria en su reino, cualH5414
+- 2Cr_1:7pídeme lo que quieras que yo te déH5414
+- 2Cr_1:9confírmese...tu palabra dada a David miH1697
+- 2Cr_1:10dame ahora sabiduría y ciencia, paraH5414
+- 2Cr_1:12ciencia te son dadas...te daré riquezasH5414
+- 2Cr_2:10he dado 20.000 coros de trigo en granoH5414
+- 2Cr_2:12y que dio al rey David un hijo sabioH5414
+- 2Cr_3:3medidas que dio Salomón...la casa de DiosH3245
+- 2Cr_5:13cantaban...para alabar y dar gracias aH3034
+- 2Cr_6:23a tus siervos, dando la paga al impíoH7725
+- 2Cr_6:23justificando al...al darle conforme a suH5414
+- 2Cr_6:25les harás volver a la tierra que disteH5414
+- 2Cr_6:27daréis lluvia...tu tierra, que diste porH5414
+- 2Cr_6:30daréis a cada uno conforme a sus caminosH5414
+- 2Cr_6:31vivieran sobre...la tierra que tú disteH5414
+- 2Cr_6:38oraren hacia la tierra que tu diste aH5414
+- 2Cr_7:20arrancare de mi tierra que os he dadoH5414
+- 2Cr_8:2las ciudades que Hiram le había dado yH5414
+- 2Cr_9:9dio al rey 120 talentos de oro, y granH5414
+- 2Cr_9:9nunca hubo...como las que dio la reina deH5414
+- 2Cr_9:12Salomón dio a la reina de Sabá todo loH5414
+- 2Cr_9:23la sabiduría que Dios le había dadoH5414
+- 2Cr_10:8dejando el consejo que le dieron losH3289
+- 2Cr_11:19la cual le dio a luz estos hijos: JesúsH3205
+- 2Cr_11:20Maaca...le dio a luz Abías, Atai, ZizaH3205
+- 2Cr_11:23y les dio provisiones en abundanciaH5414
+- 2Cr_13:5Jehová Dios de...dio el reino a DavidH5414
+- 2Cr_14:6edificó...porque Jehová le había dado pazH5117
+- 2Cr_14:7y él nos ha dado paz por todas partesH5117
+- 2Cr_14:11no hay diferencia...en dar ayuda alH5826
+- 2Cr_15:15Jehová les dio paz por todas partesH5117
+- 2Cr_17:5y todo Judá dio a Josafat presentesH5414
+- 2Cr_19:2¿al impío das ayuda, y amas a los queH5826
+- 2Cr_19:4daba vuelta y salía al pueblo, desde
+- 2Cr_20:2dieron aviso a Josafat, diciendo: ContraH5046
+- 2Cr_20:7la diste a la descendencia de AbrahamH5414
+- 2Cr_20:11nos dan el pago viniendo a arrojarnosH1580
+- 2Cr_20:11la heredad que tú nos diste en posesiónH3423
+- 2Cr_20:27Jehová les había dado gozo librándolosH8055
+- 2Cr_20:30su Dios le dio paz por todas partesH5117
+- 2Cr_20:35con Ocozias...era dado a la impiedadH6213
+- 2Cr_21:3su padre les había dado muchos regalosH5414
+- 2Cr_21:3había dado el reino a Joram, porque élH5414
+- 2Cr_21:7le había dicho que le daría lámpara aH5414
+- 2Cr_21:13has dado muerte a tus hermanos, a laH2026
+- 2Cr_22:9y le dieron sepultura, porque dijeronH6912
+- 2Cr_23:8el sacerdote Joiada no dio licencia aH6358
+- 2Cr_23:9dio también el sacerdote...los pavesesH5414
+- 2Cr_24:12lo daban a los que hacían el trabajoH5414
+- 2Cr_25:9cien talentos que he dado al ejércitoH5414
+- 2Cr_25:9Jehová puede darte mucho más que estoH5414
+- 2Cr_25:18cedro...Da tu hija a mi hijo por mujerH5414
+- 2Cr_26:7Dios le dio ayuda contra los filisteosH5826
+- 2Cr_26:8y dieron los amonitas presentes a UzíasH5414
+- 2Cr_26:20él también se dio prisa a salir, porque
+- 2Cr_27:5dieron...aquel año cien talentos de plataH5414
+- 2Cr_27:5esto le dieron los hijos de Amón, y loH7725
+- 2Cr_28:15y les dieron de comer y de beber, losH398, [[H8248]]
+- 2Cr_28:21despojó Acaz...para dar al rey de losH5414
+- 2Cr_30:12darles un solo corazón para cumplir elH5414
+- 2Cr_30:22dando gracias a Jehová el Dios de susH3034
+- 2Cr_30:24Ezequías rey...había dado a la asambleaH7311
+- 2Cr_30:24los príncipes dieron al...mil novillosH7311
+- 2Cr_31:2que diesen gracias y alabasen dentro deH3034
+- 2Cr_31:4que diese la porción correspondiente aH5414
+- 2Cr_31:5Israel dieron...primicias de grano, vinoH7235
+- 2Cr_31:6dieron...los diezmos de las vacas y de lasH935
+- 2Cr_31:12dieron cargo de ello al levita ConaniasH935
+- 2Cr_31:15para dar...a sus hermanos sus porcionesH5414
+- 2Cr_31:19cargo de dar sus porciones a todos losH5414
+- 2Cr_32:22Jehová...les dio reposo por todos lados
+- 2Cr_32:24Jehová...respondió, y le dio una señalH5414
+- 2Cr_32:29Dios le había dado muchas riquezasH6213
+- 2Cr_33:6en agüeros, era dado a adivinaciones
+- 2Cr_34:9dieron el dinero que había sido traídoH5414
+- 2Cr_34:10los cuales lo daban a los que hacían laH5414
+- 2Cr_34:11daban...que comprasen piedra de canteríaH5414
+- 2Cr_34:14ley de Jehová dada por medio de Moisés
+- 2Cr_34:15y dando cuenta...dio...el libro a SafánH5414
+- 2Cr_34:18el sacerdote Hilcías me dio un libroH5414
+- 2Cr_35:6la palabra...dada por medio de Moisés
+- 2Cr_35:7y dio el rey...a los del pueblo ovejasH7311
+- 2Cr_35:8sus príncipes dieron con liberalidad alH7311
+- 2Cr_35:8oficiales de...dieron a los sacerdotesH5414
+- 2Cr_35:9dieron a los levitas para...la pascuaH7311
+- 2Cr_35:12tomaron luego del...para dar conforme aH5414
+- 2Cr_35:22que se disfrazó para darle batalla, yH3898
+- 2Cr_35:22a darle batalla en el campo de MeguidoH3898
+- 2Cr_36:23Jehová...me ha dado todos los reinos deH5414
+- Esd_1:2Dios...me ha dado todos los reinos deH5414
+- Esd_1:8los dio por cuenta a Sesbasar príncipeH5608
+- Esd_2:69según sus fuerzas dieron al tesorero deH5414
+- Esd_3:7dieron dinero a los albañiles y...comidaH5414
+- Esd_3:11y cantaban...dando gracias a Jehová, yH3034
+- Esd_3:12otros daban grandes gritos de alegría
+- Esd_4:19y por mí fue dada orden y buscaronH2942
+- Esd_4:21dad orden que cesen aquellos hombresH7761
+- Esd_4:21hasta que por mí sea dada nueva ordenH7761
+- Esd_5:3¿quién os ha dado orden para edificarH2942
+- Esd_5:9¿quién os dio orden para edificar estaH2942
+- Esd_5:13mismo rey Ciro dio orden para que estaH7761
+- Esd_5:17por el rey Ciro había sido dada la ordenH2942
+- Esd_6:1el rey Darío dio la orden de buscar en laH7761
+- Esd_6:3rey Ciro dio orden acerca de la casa deH7761
+- Esd_6:8y por mí es dada orden de lo que habéisH7761
+- Esd_6:8sean dados...a esos varones los gastosH3052
+- Esd_6:9sea dado día por día sin obstáculo algunoH3052
+- Esd_6:11por mí es dada orden, que cualquiera queH7761
+- Esd_6:12Darío he dado el decreto; sea cumplidoH7761
+- Esd_7:6que Jehová Dios de Israel había dado, yH5414
+- Esd_7:11copia de la carta que dio...ArtajerjesH5414
+- Esd_7:13por mí es dada orden que todo aquel enH7761
+- Esd_7:20que te sea necesario dar, lo darás de laH5415
+- Esd_7:21y por mí, Artajerjes rey, es dada ordenH7761
+- Esd_9:8darnos un lugar seguro en su santuarioH5414
+- Esd_9:8y darnos un poco de vida en nuestraH5414
+- Esd_9:9se nos diese vida para levantar la casaH5414
+- Esd_9:9darnos protección en Judá y en JerusalénH5414
+- Esd_9:12no daréis vuestras hijas a los hijos deH5414
+- Esd_9:13Dios...nos diste un remanente como esteH5414
+- Esd_10:11dad gloria a Jehová Dios de...padresH5414
+- Esd_10:19y dieron su mano en promesa de queH5414
+- Esd_10:44había mujeres...que habían dado a luzH7760
+- Neh_1:7preceptos...diste a Moisés tu siervoH6680
+- Neh_1:8la palabra que diste a Moisés tu siervoH6680
+- Neh_1:11y dale gracia delante de aquel varónH5414
+- Neh_2:7se me den cartas para los gobernadoresH5414
+- Neh_2:8para que me dé madera para enmaderarH5414
+- Neh_2:9vine luego...y les di las cartas del reyH5414
+- Neh_2:15di la vuelta y entré por la puerta delH7725
+- Neh_5:5dimos nuestros hijos...a servidumbre, yH3533
+- Neh_7:70y algunos...dieron ofrendas para la obraH5414
+- Neh_7:70el gobernador dio...mil dracmas de oroH5414
+- Neh_7:71dieron para el tesoro de la obra...oroH5414
+- Neh_7:72del pueblo dio 20.000 dracmas de oroH5414
+- Neh_8:1ley...la cual Jehová había dado a IsraelH6680
+- Neh_9:8hiciste pacto con él para darle la tierraH5414
+- Neh_9:8hiciste pacto...darla a su descendenciaH5414
+- Neh_9:13diste juicios rectos, leyes verdaderasH5414
+- Neh_9:15les diste pan del cielo en su hambreH5414
+- Neh_9:15alzaste tu...y juraste que se la daríasH5414
+- Neh_9:20tu maná...y agua les diste para su sedH5414
+- Neh_9:22y les diste reinos y pueblos, y losH5414
+- Neh_9:35en tu mucho bien que les diste, y en laH5414
+- Neh_9:36somos...siervos en la tierra que disteH5414
+- Neh_10:29ley de Dios, que fue dada por MoisésH5414
+- Neh_10:30que no daríamos nuestras hijas a losH5414
+- Neh_12:24dar gracias, conforme al estatuto deH3034
+- Neh_12:47Israel...daba alimentos a los cantoresH5414
+- Neh_13:2sino que dieron dinero a Baalam para queH7936
+- Neh_13:5que estaba mandado dar a los levitas
+- Neh_13:10porciones...no les habían sido dadasH5414
+- Neh_13:25no daréis vuestras hijas a sus hijosH5414
+- Est_1:7daban a beber en vasos de oro, y vasosH8248
+- Est_1:20las mujeres darán honra a sus maridosH5414
+- Est_2:3de las mujeres, y que les den sus atavíosH5414
+- Est_2:9darle...alimentos, y le dio...7 doncellasH5414
+- Est_2:13todo lo que ella pedía se le daba, paraH5414
+- Est_2:18dio mercedes conforme a la generosidadH5414
+- Est_3:10anillo...Lo dio a Amán hijo de HamedataH5414
+- Est_3:14escrito que se dio por mandamiento enH5414
+- Est_3:15el edicto fue dado en Susa capital delH5414
+- Est_4:7le dio noticia de la plata que Amán habíaH5046
+- Est_4:8le dio también la copia del decreto...dadoH5414
+- Est_5:3hasta la mitad del reino se te daráH5414
+- Est_5:5daos prisa, llamad a Amán, para hacer loH4116
+- Est_6:9y den el vestido y el caballo en mano deH5414
+- Est_6:10a Amán: Date prisa, toma el vestido y elH4116
+- Est_6:12Amán se dio prisa para irse a su casaH1765
+- Est_7:3séame dada mi vida por mi petición, y miH5414
+- Est_8:1Asuero dio a la reina...la casa de AmánH5414
+- Est_8:2quitó...el anillo...y lo dio a MardoqueoH5414
+- Est_8:5se dé orden...para revocar las cartas que
+- Est_8:7he dado a Ester la casa de Amán, y a élH5414
+- Est_8:11que el rey daba facultad a los judíosH5414
+- Est_8:13del edicto que había de darse por decretoH5414
+- Est_8:14el edicto fue dado en Susa capital delH5414
+- Est_9:11el mismo día se le dio cuenta al reyH935
+- Est_9:14se dio la orden...y colgaron a los diezH5414
+- Job_1:10al trabajo de sus...has dado bendiciónH1288
+- Job_1:15-16, Job_1:17, Job_1:19escapé yo para darte la noticiaH5046
+- Job_1:21dijo...Jehová dio, y Jehová quitó; seaH5414
+- Job_2:4lo que el hombre tiene dará por su vidaH5414
+- Job_3:20¿por qué se da luz al trabajado, y vidaH5414
+- Job_3:23¿por qué se da vida al hombre que no
+- Job_5:1da voces; ¿habrá quién te responda? ¿Y aH7121
+- Job_5:10da la lluvia sobre la faz de la tierraH5414
+- Job_6:8¡quién me diera que viniese mi peticiónH5414
+- Job_6:10asaltase con dolor sin dar más tregua
+- Job_7:3y noches de trabajo me dieron por cuentaH4487
+- Job_10:1daré libre curso a mi queja, hablaré conH5800
+- Job_10:9que como a barro me diste forma; ¿y enH6213
+- Job_11:5mas ¡oh, quién diera que Dios hablara
+- Job_11:20su esperanza será dar su último suspiroH4646
+- Job_14:13¡oh, quién me diera que me escondieses
+- Job_14:16pero ahora...no das tregua a mi pecadoH8104
+- Job_15:19a quienes...fue dada la tierra, y no pasóH5414
+- Job_15:35concibieron dolor, dieron a...iniquidadH3205
+- Job_17:3dame fianza, oh Dios; sea mi protección
+- Job_19:7clamaré...daré voces, y no habrá juicioH7768
+- Job_19:23¡quién diese ahora que mis palabras
+- Job_19:23¡quién diese que se escribiesen en un
+- Job_21:2oíd...y sea esto el consuelo que me deis
+- Job_21:19Dios...le dará su pago, para que conozcaH7999
+- Job_21:31que él hizo, ¿quién le dará el pago?[[H7999]]
+- Job_22:7no diste de beber agua al cansado, y
+- Job_23:3quién me diera el saber dónde hallar
+- Job_24:23él les da seguridad y confianza; suH5414
+- Job_28:15no se dará por oro, ni su precio seráH5414
+- Job_28:25dar peso al viento, y poner las aguasH6213
+- Job_28:26cuando él dio ley a la lluvia, y caminoH6213
+- Job_29:13al corazón de la viuda yo daba alegríaH7442
+- Job_30:5todos les daban grita como tras el ladrónH7321
+- Job_31:2qué galardón me daría de arriba Dios
+- Job_31:35¡quién me diera quien me oyese! He aquí
+- Job_33:4y el soplo del Omnipotente me dio vidaH2421
+- Job_33:13no da cuenta de ninguna de sus razonesH6030
+- Job_34:29si él diere reposo ¿quién inquietará?[[H8252]]
+- Job_35:7si fueres justo, ¿qué le darás a él?[[H5414]]
+- Job_35:10mi Hacedor, que da cánticos en la nocheH5414
+- Job_36:6pero a los afligidos dará su derechoH5414
+- Job_36:9él les dará a conocer la obra de ellos
+- Job_36:31pueblos, a la multitud él da sustentoH5414
+- Job_37:10por el soplo de Dios se da el hieloH5414
+- Job_38:36¿o quién dio al espíritu inteligencia?[[H5414]]
+- Job_39:13¿diste tú hermosas alas al pavo real
+- Job_39:17le privó Dios...ello le dio inteligenciaH2505
+- Job_39:19¿diste tú al caballo la fuerza...crinesH5414
+- Job_41:11¿quién me ha dado a mí primero, paraH6923
+- Job_42:11cada uno de...le dio una pieza de dineroH5414
+- Job_42:15y les dio su padre herencia entre susH5414
+- Sal_1:3da su fruto en su tiempo, y su hoja noH5414
+- Sal_2:8pídeme...te daré por herencia las nacionesH5414
+- Sal_4:7tú das alegría a mi corazón mayor queH5414
+- Sal_5:11den voces de júbilo para siempre, porqueH7442
+- Sal_7:4si he dado mal pago al que estaba en pazH1580
+- Sal_7:14el impío concibió...y dio a luz engañoH3205
+- Sal_10:14miras...para dar la recompensa con tuH5414
+- Sal_15:5su dinero no dio a usura, ni contra elH5414
+- Sal_18:13y el Altísimo dio su voz; granizo yH5414
+- Sal_18:35me diste...el escudo de tu salvaciónH5414
+- Sal_18:50grandes triunfos da a su rey, y hace
+- Sal_20:4te dé conforme al deseo de tu corazónH5414
+- Sal_21:4vida te demandó, y se la diste; larguraH5414
+- Sal_28:4dales conforme a su obra, y conforme aH5414
+- Sal_28:4dales su merecido conforme a la obra deH5414
+- Sal_29:1dad a Jehová la gloria y el poderH3051
+- Sal_29:2dad a Jehová...gloria debida a su nombreH3051
+- Sal_30:3me diste vida, para que no descendieseH2421
+- Sal_33:19para darles vida en tiempo de hambreH2421
+- Sal_37:21mas el justo tiene misericordia, y daH5414
+- Sal_39:5he aquí diste a mis días término cortoH5414
+- Sal_41:2Jehová lo guardará, y le dará vidaH2421
+- Sal_41:10y hazme levantar, y les dará el pagoH7999
+- Sal_46:6dio él su voz, se derritió la tierraH5414
+- Sal_48:6tomó...dolor como de mujer que da a luzH3205
+- Sal_49:7al hermano, ni dar a Dios su rescateH5414
+- Sal_49:11serán...dan sus nombres a sus tierrasH7121
+- Sal_51:16no quieres sacrificio, que yo lo daríaH5414
+- Sal 52 tít.vino Doeg edomita y dio cuenta a SaúlH5046
+- Sal_55:6¡quién me diese alas como de paloma![[H5414]]
+- Sal_60:4has dado a los que te temen bandera queH5414
+- Sal_60:11danos socorro contra el enemigo...vanaH3051
+- Sal_61:5me has dado la heredad de los que temenH5414
+- Sal_65:13dan voces de júbilo, y aun cantanH7321
+- Sal_67:6la tierra dará su fruto; nos bendeciráH5414
+- Sal_68:11el Señor daba palabra...grande multitudH5414
+- Sal_68:33que cabalga...dará su voz, poderosa vozH5414
+- Sal_68:35Dios de Israel, él da fuerza y vigor aH5414
+- Sal_69:21y en mi sed me dieron a beber vinagreH5414
+- Sal_71:3tú has dado mandamiento para salvarmeH6680
+- Sal_71:20volverás a darme vida, y de nuevo meH2421
+- Sal_72:1oh Dios, da tus juicios al rey, y tuH5414
+- Sal_72:15vivirá, y se le dará del oro de SabáH5414
+- Sal_74:14lo diste por comida a los moradores delH5414
+- Sal_75:1gracias te damos, oh Dios, gracias te dH3034
+- Sal_78:15les dio a beber como de grandes abismosH8248
+- Sal_78:20¿podrá dar...pan? ¿Dispondrá carneH5414
+- Sal_78:24maná...y les dio trigo de los cielosH5414
+- Sal_78:32y no dieron crédito a sus maravillasH539
+- Sal_78:46dio también a la oruga sus frutos, yH5414
+- Sal_78:66hirió a sus...les dio perpetua afrentaH5414
+- Sal_79:2dieron los cuerpos de tus siervos porH5414
+- Sal_80:5les diste a comer pan de lágrimas, y a
+- Sal_80:18así...vida nos daréis, e invocaremos tuH2421
+- Sal_84:11gracia y gloria dará Jehová; no quitaráH5414
+- Sal_85:6¿no volverás a darnos vida, para queH2421
+- Sal_85:7tu misericordia, y danos tu salvaciónH5414
+- Sal_85:12Jehová dará...bien, y...tierra d su frutoH5414
+- Sal_86:16da tu poder a tu siervo, y guarda alH5414
+- Sal_94:2oh juez de...da el pago a los soberbiosH7725
+- Sal_96:7oh...dad a Jehová la gloria y el poderH3051
+- Sal_96:8dé a Jehová la honra debida a...nombreH3051
+- Sal_99:7guardarán...estatuto que les había dadoH5414
+- Sal_104:11dan de beber a...las bestias del campoH8248
+- Sal_104:27para que les des su comida a su tiempoH5414
+- Sal_104:28les das, recogen; abres tu mano, seH5414
+- Sal_105:1da a conocer sus obras en los pueblosH3034
+- Sal_105:11a ti te daré la tierra de Canaán comoH5414
+- Sal_105:32les dio granizo por lluvia, y llamasH5414
+- Sal_105:42de su santa palabra dada a Abraham su
+- Sal_105:44les dio las tierras de las nacionesH5414
+- Sal_106:15el les dio lo que pidieron; mas envióH5414
+- Sal_108:12danos socorro contra el adversarioH3051
+- Sal_109:16al quebrantado de...para darle muerteH4191
+- Sal_111:5ha dado alimento a los que le temenH5414
+- Sal_111:6dándole la heredad de las nacionesH5414
+- Sal_112:9reparte, da a los pobres; su justiciaH5414
+- Sal_115:16ha dado la tierra a los hijos de losH5414
+- Sal_118:27Jehová es Dios, y nos ha dado luzH215
+- Sal_119:34dame entendimiento, y guardaré tu leyH995
+- Sal_119:42dará por respuesta a mi avergonzador
+- Sal_119:49acuérdate de la palabra dada a tu
+- Sal_119:125tu siervo soy yo, dame entendimientoH995
+- Sal_119:144eterna...dame entendimiento, y viviréH995
+- Sal_119:169dame entendimiento conforme a tuH995
+- Sal_120:3¿qué te dará...oh lengua engañosa?[[H5414]]
+- Sal_121:3no dará tu pie al resbaladero, ni seH5414
+- Sal_122:4conforme al testimonio dado a IsraelH3034
+- Sal_124:6no nos dio por presa a los dientes deH5414
+- Sal_127:2pues que a su amado dará Dios el sueñoH5414
+- Sal_132:4no dará sueño a mis ojos, ni a misH5414
+- Sal_132:16y sus santos darán voces de júbiloH7442
+- Sal_135:12; Sal_136:21y dio la tierra de ellos enH5414
+- Sal_136:25que da alimento a todo ser vivienteH5414
+- Sal_137:8bienaventurado el que te diere el pagoH7999
+- Sal_145:15ti, y tu les das su comida a su tiempoH5414
+- Sal_146:7que hace...que da pan a los hambrientosH5414
+- Sal_147:9él da a la bestia su mantenimiento, y aH5414
+- Sal_147:14da en tu territorio la paz; te haráH7760
+- Sal_147:16da la nieve como lana, y derrama laH5414
+- Pro_1:4para dar sagacidad a los simples, y aH5414
+- Pro_1:19las sendas de todo el que es dado a laH1214
+- Pro_2:3clamares...y a la prudencia dieres tu vozH5414
+- Pro_2:6porque Jehová da la sabiduría, y de suH5414
+- Pro_3:28no digas a tu...vuelve, y mañana; te daréH5414
+- Pro_3:28cuando tienes contigo qué darleH3426
+- Pro_3:34escarnecerá...a los humildes dará graciaH5414
+- Pro_4:2os doy buena enseñanza; no desamparéisH5414
+- Pro_4:9adorno de gracia dará a tu cabeza; coronaH5414
+- Pro_5:9para que no des a los extraños tu honorH5414
+- Pro_6:4no des sueno a tus ojos, ni a tus párpadosH5414
+- Pro_8:1¿no clama...y da su voz la inteligencia?[[H5414]]
+- Pro_8:3a la entrada de las puertas da vocesH7442
+- Pro_9:9da al sabio, y será más sabio; enseña alH5414
+- Pro_10:24los justos les habrá dado lo que desean
+- Pro_12:12mas la raíz de los justos dará frutoH5414
+- Pro_12:16el necio al punto da a conocer su iraH3045
+- Pro_13:15el buen entendimiento da grava; masH5414
+- Pro_17:25necio...amargura a la que lo dio a luzH3205
+- Pro_19:6y cada uno es amigo del hombre que da
+- Pro_19:17a Jehová presta el que da al pobre, yH1576
+- Pro_21:26pero el justo da, y no detiene su manoH5414
+- Pro_21:31mas Jehová es el que da la victoriaH8668
+- Pro_22:9será bendito, porque dio de su pan alH5414
+- Pro_22:16pobre...o que da al rico...se empobreceráH5414
+- Pro_23:25tu madre, y gócese la que te dio a luzH3205
+- Pro_23:26dame, hijo mío, tu corazón, y mirenH5414
+- Pro_23:32fin...morderá, y como áspid dará dolorH6567
+- Pro_24:12el que...dará al hombre según sus obrasH7725
+- Pro_24:29dará el pago al hombre según su obraH7725
+- Pro_25:13pues al alma de su señor da refrigerioH7725
+- Pro_25:21si...tuviere hambre, dale de comer pan
+- Pro_25:21y si tuviere sed, dale de beber agua
+- Pro_26:8liga...así hace el que da honra al necioH5414
+- Pro_27:1porque no sabes qué dará de sí el díaH3205
+- Pro_28:27el que da al pobre no tendrá pobrezaH5414
+- Pro_29:11el necio da rienda suelta a toda su iraH3318
+- Pro_29:15la vara y la corrección dan sabiduríaH5414
+- Pro_29:17corrige a tu hijo, y te dará descansoH5117
+- Pro_29:17corrige a tu...y dará alegría a tu almaH4574
+- Pro_30:8no me des pobreza ni riquezas; manténmeH5414
+- Pro_30:15tiene dos hijas que dicen: ¡Dame! deH3051
+- Pro_31:3no des a las mujeres tu fuerza, ni tusH5414
+- Pro_31:6dad la sidra al desfallecido, y el vinoH5414
+- Pro_31:12da ella bien...todos los días de su vidaH1580
+- Pro_31:15da comida a su familia y ración a susH5414
+- Pro_31:24hace telas...y da cintas al mercaderH5414
+- Pro_31:31dadle del fruto de sus...y alábenla enH5414
+- Ecl_1:13y di mi corazón a inquirir y a buscarH5414
+- Ecl_1:13penoso trabajo dio Dios a los hijos deH5414
+- Ecl_2:21que naya de dar su hacienda a hombre queH5414
+- Ecl_2:26al hombre que le agrada, Dios le daH5414
+- Ecl_2:26al pecador da el trabajo de recoger yH5414
+- Ecl_2:26amontonar...darlo al que agrada a DiosH5414
+- Ecl_3:10el trabajo que Dios ha dado a los hijosH5414
+- Ecl_5:2no te des prisa...tu boca, ni tu corazónH926
+- Ecl_5:18los días de su vida que Dios le ha dadoH5414
+- Ecl_5:19Dios da riquezas...le d también facultadH5414
+- Ecl_6:2quien Dios da riquezas y bienes y honraH5414
+- Ecl_6:2pero Dios no le da facultad de disfrutar
+- Ecl_7:12sabiduría excede, en que da vida a susH2421
+- Ecl_9:1he dado mi corazón a todas estas cosasH5414
+- Ecl_9:9los días...que te son dados debajo del solH5414
+- Ecl_10:1hacen heder y dar mal olor al perfumeH5042
+- Ecl_12:7y el espíritu vuelva a Dios que lo dioH5414
+- Ecl_12:11las palabras de los...dadas por un PastorH5414
+- Cnt_1:12mientras el rey...nardo dio su olorH5414
+- Cnt_2:13vides en cierne dieron olor; levántateH5414
+- Cnt_3:4y en la cámara de la que me dio a luzH2029
+- Cnt_6:9es...la escogida de la que la dio a luzH3205
+- Cnt_7:12han florecido...allí te dará mis ardoresH5414
+- Cnt_7:13las mandrágoras han dado olor, y...frutasH5414
+- Cnt_8:5allí tuvo dolores la que te dio a luzH3205
+- Cnt_8:7si diese el hombre todos los bienes deH5414
+- Isa_5:2que diese uvas, y dio uvas silvestresH6213
+- Isa_5:4esperando yo que diese uvas, ha dadoH6213
+- Isa_6:3uno al otro daba voces, diciendo: SantoH7121
+- Isa_7:14el Señor mismo os dará señal He aquíH5414
+- Isa_7:14virgen concebirá, y dará a luz un hijoH3205
+- Isa_7:22la abundancia de leche que darán, comeráH6213
+- Isa_8:3profetisa, la cual concibió, y dio a luzH3205
+- Isa_8:18yo y los hijos que me dio Jehová somosH5414
+- Isa_9:6hijo nos es dado, y el principado sobreH5414
+- Isa_13:10estrellas...sus luceros no darán su luzH1984
+- Isa_14:3Jehová te dé reposo de tu trabajo y deH5117
+- Isa_14:10todos ellos darán voces, y te diránH6030
+- Isa_15:5mi corazón dará gritos por Moab...huiránH2199
+- Isa_21:11me dan voces de Seir: Guarda, ¿qué deH7121
+- Isa_23:4nunca estuve de parto, ni di a luz, niH3205
+- Isa_24:2como al que da a logro, así al que loH5378
+- Isa_24:14cantarán...desde el mar darán vocesH6670
+- Isa_25:3por esto te dará gloria el pueblo fuereH3513
+- Isa_26:12nos darás paz, porque también hicisteH8239
+- Isa_26:17gime y da gritos en sus dolores, asíH2199
+- Isa_26:18tuvimos dolores de...dimos a luz vientoH3205
+- Isa_26:19vivirán...y la tierra dará sus muertosH5307
+- Isa_28:12este es el reposo; dad reposo al cansadoH5117
+- Isa_29:11el cual si dieron al que sabe leer, yH5414
+- Isa_29:12y si se diere el libro al que no sabeH5414
+- Isa_30:7Egipto en vano e inútilmente dará ayudaH5826
+- Isa_30:7yo le di voces, que su fortaleza seríaH7121
+- Isa_30:20os dará el Señor pan de congoja y aguaH5414
+- Isa_30:23dará; el Señor lluvia...d pan del frutoH5414
+- Isa_33:7que sus embajadores darán voces afuera
+- Isa_33:11hojarascas, rastrojo daréis a luzH3205
+- Isa_33:16se le dará su pan, y sus aguas seránH5414
+- Isa_35:2la gloria del Líbano le será dada, laH5414
+- Isa_36:8des rehenes...yo te daré dos mil caballosH5414
+- Isa_36:8si tú puedes dar jinetes que cabalguenH5414
+- Isa_37:3y la que da a luz no tiene fuerzasH3205
+- Isa_37:31echar raíz abajo, y dará fruto arribaH6213
+- Isa_38:19que vive, éste te dará alabanza, comoH3034
+- Isa_40:6voz que decía: Da voces. Y yo respondíH7121
+- Isa_41:19daré en el desierto cedros, acaciasH7760
+- Isa_41:23dadnos nuevas...que ha de ser despuésH5046
+- Isa_41:27Sion, y a Jerusalén daré un mensajeroH5414
+- Isa_42:5que da aliento al pueblo que mora sobreH5414
+- Isa_42:8a otro no daré mi gloria, ni mi alabanzaH5414
+- Isa_42:11desde la cumbre de...den voces de júbiloH6681
+- Isa_42:12den gloria a Jehová, y anuncien susH7760
+- Isa_42:14daré voces como la que está de partoH6463
+- Isa_42:24¿quién dio a Jacob en botín, y entregóH5414
+- Isa_43:3Egipto he dado por tu rescate, a EtiopíaH5414
+- Isa_43:4daré, pues, hombre por ti, y nacionesH5414
+- Isa_43:6diré al...Da acá; y al sur: No detengasH5414
+- Isa_43:9¿quién de ellos hay que nos dé nuevas de
+- Isa_43:20daré aguas en el desierto, ríos en laH5414
+- Isa_44:12da forma con los martillos, y trabajaH3335
+- Isa_44:13le da figura con el compás, lo hace enH8388
+- Isa_45:3¿te daré los tesoros escondidos y losH5414
+- Isa_45:10y a la mujer: ¿Por qué diste a luz?[[H2342]]
+- Isa_48:11nombre, y mi honra no la daré a otroH5414
+- Isa_48:20dad nuevas de esto con voz de alegría
+- Isa_49:6te di por luz de las naciones, para queH5414
+- Isa_49:8te daré por pacto al pueblo, para queH5414
+- Isa_49:15¿se olvidará la...de lo que dio a luz
+- Isa_50:4Jehová el Señor me dio lengua de sabiosH5414
+- Isa_51:2mirad...a Sara que os dio a luz; porqueH2342
+- Isa_51:18de todos los hijos que dio a luz, noH3205
+- Isa_52:8la voz, juntamente dará voces de júbilo
+- Isa_53:12yo le daré parte con los grandes, y conH2505
+- Isa_54:1regocíjate, oh estéril...que no daba a luzH3205
+- Isa_54:1levanta canción y da voces de júbilo, laH6670
+- Isa_55:4que yo lo di por testigo a los pueblosH5414
+- Isa_55:10la hace...producir, y da semilla al queH5414
+- Isa_55:12los árboles...darán palmadas de aplausoH4222
+- Isa_56:5les daré lugar...nombre perpetuo les dH5414
+- Isa_57:18le pastorearé, y le daré consuelo a él
+- Isa_58:10y si dieres tu pan al hambriento, yH6329
+- Isa_58:11saciará tu...y dará vigor a tus huesosH2502
+- Isa_59:4conciben maldades, y dan a luz iniquidadH3205
+- Isa_59:18dar el pago...el pago dará a los de laH7999
+- Isa_61:3a los afligidos de Sion se les dé gloriaH5414
+- Isa_62:7ni le deis tregua, hasta que restablezcaH5414
+- Isa_62:8jamás daré tu trigo...a tus enemigos, niH5414
+- Isa_63:7conforme a...lo que Jehová nos ha dadoH1580
+- Isa_65:6recompensaré, y daré el pago en su senoH7999
+- Isa_65:23en vano, ni darán a luz para maldiciónH3205
+- Isa_66:6de Jehová que da el pago a sus enemigosH7999
+- Isa_66:7antes que estuviese de parto, dio a luzH3205
+- Isa_66:7antes que le...dolores, dio a luz hijoH4422
+- Isa_66:8cuanto Sion estuvo de parto, dio a luzH3205
+- Isa_66:9yo que hago dar a luz, ¿no haré nacer?[[H7665]]
+- Jer_1:5ante...di por profeta a las nacionesH5414
+- Jer_3:8había despedido y dado carta de repudioH5414
+- Jer_3:15os daré pastores según mi corazón, queH5414
+- Jer_3:19y os daré la tierra deseable, la ricaH5414
+- Jer_5:24que da lluvia temprana y tardía en suH5414
+- Jer_7:7la tierra que di a vuestros padres paraH5414
+- Jer_7:14haré...a este lugar que di a vosotros y aH5414
+- Jer_8:10daré a otros sus mujeres, y sus camposH5414
+- Jer_8:13y lo que les he dado pasará de ellosH5414
+- Jer_8:14nos ha dado a beber aguas de hiel, porque
+- Jer_9:2oh, quién me diese en el desierto unH5414
+- Jer_9:13dejaron mi ley, la cual di delante deH5414
+- Jer_9:15les daré a comer ajenjo, y les d a beber
+- Jer_9:18y dense prisa, y levanten llanto porH4116
+- Jer_11:5que les daría la tierra que fluye lecheH5414
+- Jer_12:2crecieron y dieron fruto; cercano estásH6213
+- Jer_12:6dieron grito en pos de ti...No los creasH7121
+- Jer_12:8mi heredad fue...contra mí dio su rugido
+- Jer_13:16dad gloria a Jehová Dios vuestro, anteH5414
+- Jer_13:20¿dónde está el rebaño que te fue dadoH5414
+- Jer_13:21¿no te darán dolores como de mujer queH270
+- Jer_14:10vagar, y no dieron reposo a sus pies
+- Jer_14:13que en este lugar os daré paz verdaderaH5414
+- Jer_14:22darán los cielos lluvias? ¿No eres túH5414
+- Jer_15:9languideció la que dio a luz sieteH3205
+- Jer_15:10nunca he dado ni tomado en préstamoH5383
+- Jer_16:3de sus madres que los den a luz y de losH3205
+- Jer_16:7les darán a beber vaso de consolaciones
+- Jer_16:15los volveré a su tierra, la cual di aH5414
+- Jer_17:4perderás la heredad que yo te di, y teH5414
+- Jer_17:8no se fatigará, ni dejará de dar frutoH4185
+- Jer_17:10para dar a cada uno según su caminoH5414
+- Jer_18:20¿se da mal por bien, para que hayanH7999
+- Jer_19:7y daré sus cuerpos para comida a lasH5414
+- Jer_20:5y daré todos los tesoros de los reyesH5414
+- Jer_20:8cuantas veces hablo, doy voces, gritoH2199
+- Jer_20:14el día en que mi madre me dio a luzH3205
+- Jer_20:15maldito el hombre que dio nuevas a miH1319
+- Jer_22:13y no dándole el salario de su trabajoH5414
+- Jer_22:20clama, y en Basán da tu voz, y gritaH5414
+- Jer_22:26cautivo a ti y a tu madre que te dio aH3205
+- Jer_23:39de mi presencia...a la ciudad que di aH5414
+- Jer_24:7les daré corazón para que me conozcanH5414
+- Jer_24:9los daré por escarnio y por mal a todosH5414
+- Jer_24:10exterminados de la tierra que les diH5414
+- Jer_25:5moraréis en la tierra que os dio JehováH5414
+- Jer_25:15toma de mi mano la copa...y da a beber
+- Jer_25:17y di de beber a todas las naciones, a
+- Jer_25:30y desde su morada santa dará su vozH5414
+- Jer_27:5hice la tierra...la di a quien yo quiseH5414
+- Jer_27:6las bestias del campo le he dado paraH5414
+- Jer_28:14y aun también le he dado las bestiasH5414
+- Jer_29:6dad mujeres a vuestros...y d maridos aH5414
+- Jer_29:11de paz...para daros el fin que esperáisH5414
+- Jer_29:18daré por escarnio a todos los reinos deH5414
+- Jer_30:3traeré a la tierra que di a sus padresH5414
+- Jer_30:6inquirid...y mirad si el varón da a luzH3205
+- Jer_30:16que hicieron presa de ti daré en presaH5414
+- Jer_31:7dad voces de júbilo a la cabeza de lasH6670
+- Jer_31:8mujer que está encinta y la que dio aH3205
+- Jer_31:33daré mi ley en su mente...en su corazónH5414
+- Jer_31:35Jehová, que da el sol para luz del díaH5414
+- Jer_32:12, Jer_32:16di la carta de venta a Baruc hijo deH5414
+- Jer_32:13y di orden a Baruc delante de ellosH6680
+- Jer_32:19para dar a cada uno según sus caminosH5414
+- Jer_32:22diste esta tierra...juraste...la daríasH5414
+- Jer_32:39les daré un corazón, y un camino, paraH5414
+- Jer_35:2de los recabitas...y dales a beber vino
+- Jer_35:15viviréis en la tierra que di a...padresH5414
+- Jer_35:16el mandamiento que les dio su padreH6680
+- Jer_36:32tomó Jeremías otro rollo y lo dio aH5414
+- Jer_37:21entonces dio orden el rey SedequíasH5414
+- Jer_37:21haciéndole dar una torta de pan al díaH5414
+- Jer_38:15si te diere consejo, no me escucharásH3289
+- Jer_39:10a los pobres...les dio viñas y heredadesH5414
+- Jer_40:5y le dio el capitán de la...un presenteH5414
+- Jer_41:18por haber dado muerte Ismael hijo deH5221
+- Jer_45:5te daré tu vida por botín en todos losH5414
+- Jer_48:9dad alas a Moab...que se vaya volandoH5414
+- Jer_48:34hasta Jahaza dieron su voz; desde ZoarH5414
+- Jer_50:12mucho, se afrentó la que os dio a luzH3205
+- Jer_50:28escapan...para dar en Sion las nuevasH5046
+- Jer_51:6tiempo es de venganza...le dará su pagoH7999
+- Jer_51:56Dios de retribuciones, dará la pagaH7999
+- Jer_52:34y continuamente se le daba una raciónH5414
+- Lam_1:11dieron por la comida todas sus cosasH5414
+- Lam_1:16el consolador que dé reposo a mi almaH7725
+- Lam_1:17Jehová dio mandamiento contra Jacob, queH6680
+- Lam_1:19di voces a mis amantes, mas ellos meH7121
+- Lam_2:19levántate, da voces en la noche, alH7442
+- Lam_3:8cuando clamé y di voces, cerró los oídosH7768
+- Lam_3:30dé la mejilla al que le hiere, y seaH5414
+- Lam_3:52mis enemigos me dieron caza como a aveH6679
+- Lam_3:64dales el pago, oh Jehová, según la obraH7725
+- Lam_4:3aun los chacales dan la teta, y amamantanH2502
+- Eze_2:8abre tu boca, y come lo que yo te doyH5414
+- Eze_3:3llena tus entrañas...rollo que yo te doyH5414
+- Eze_4:5yo te he dado los años de su maldad porH5414
+- Eze_4:6día por año, día por año te lo he dadoH5414
+- Eze_11:2son los hombres que...dan...mal consejoH3289
+- Eze_11:15alejaos...a nosotros es dada la tierraH5414
+- Eze_11:17os recogeré...daré la tierra de IsraelH5414
+- Eze_11:19les daré un corazón, y un espíritu nuevoH5414
+- Eze_11:19quitaré...les daré un corazón de carneH5414
+- Eze_12:6por señal te he dado a la casa de IsraelH5414
+- Eze_13:19dando vida a las personas que no debenH2421
+- Eze_15:6la...di al fuego para que la consumieseH5414
+- Eze_16:8te di juramento y entré en pacto contigoH7650
+- Eze_16:17alhajas de oro...que yo te había dadoH5414
+- Eze_16:19mi pan también, que yo te había dadoH5414
+- Eze_16:20hijos...que habías dado a luz para míH3205
+- Eze_16:33a todas las rameras les dan dones; masH5414
+- Eze_16:33diste tus dones a todos tus enamoradosH5414
+- Eze_16:33les diste presentes, para que de todasH5414
+- Eze_16:34tú das la paga, en lugar de recibirlaH5414
+- Eze_16:36sangre de tus hijos, los cuales les disteH5414
+- Eze_16:61las cuales yo te daré por hijas, mas noH5414
+- Eze_17:8para que hiciese ramas y diese frutoH5375
+- Eze_17:15para que le diese caballos y mucha genteH5414
+- Eze_17:18he aquí que había dado su mano, y haH5414
+- Eze_17:23dará fruto, y se hará magnífico cedroH6213
+- Eze_18:7y que diere de su pan al hambriento yH5414
+- Eze_18:16al hambriento diere...pan, y cubriereH5414
+- Eze_19:10aguas, dando fruto y echando vástagosH6509
+- Eze_20:5me di a conocer a ellos en la tierra deH3045
+- Eze_20:11les di mis estatutos, y les hice conocerH5414
+- Eze_20:12les di también mis días de reposo, paraH5414
+- Eze_20:15no los traería a la...que les había dadoH5414
+- Eze_20:25les di estatutos que no eran buenos, yH5414
+- Eze_20:28la cual...jurando que había de dárselaH5414
+- Eze_20:42jurando que la daría a vuestros padresH5414
+- Eze_21:11y la dio a pulir para tenerla a manoH5414
+- Eze_21:22dar la orden de ataque...d comienzo aH6605
+- Eze_22:4te he dado en oprobio a las nacionesH5414
+- Eze_23:4ser mías, y dieron a luz hijos e hijasH3205
+- Eze_23:37sus hijos que habían dado a luz para míH3205
+- Eze_26:20daré gloria en la tierra de...vivientesH5414
+- Eze_27:10persas y...ellos te dieron tu esplendorH5414
+- Eze_27:15marfil y ébano te dieron por sus pagosH7725
+- Eze_28:24nunca más...ni aguijón que le dé dolorH3510
+- Eze_28:25su tierra, la cual di a mi siervo JacobH5414
+- Eze_29:5y a las aves del...te he dado por comidaH5414
+- Eze_29:19yo doy a Nabucodonosor, rey...la tierraH5414
+- Eze_29:20le he dado la tierra de Egipto; porqueH5414
+- Eze_33:24a nosotros nos es dada la tierra enH5414
+- Eze_34:15y yo les daré aprisco, dice Jehová elH7257
+- Eze_34:26daré bendición a ellas y...alrededoresH5414
+- Eze_34:27el árbol...dará su fruto, y la tierra dH5414
+- Eze_35:12han sido dados para que los devoremosH5414
+- Eze_36:2las alturas eternas nos han sido dadas
+- Eze_36:8vosotros, oh montes de Israel, daréisH5375
+- Eze_36:26piedra, y os daré un corazón de carneH5414
+- Eze_36:26daré corazón nuevo, y pondré espírituH5414
+- Eze_36:28habitaréis...la tierra que di a vuestrosH5414
+- Eze_36:29llamaré al trigo...y no os daré hambreH5414
+- Eze_37:25habitarán en la tierra que di a...JacobH5414
+- Eze_39:4y a las fieras...te he dado por comidaH5414
+- Eze_39:11daré a Gog lugar para sepultura allíH5414
+- Eze_42:4corredor...y sus puertas daban al norte
+- Eze_43:4la vía de la puerta que daba al orienteH1870
+- Eze_43:19darás un becerro de la...expiaciónH5414
+- Eze_44:28pero no les daréis posesión en IsraelH5414
+- Eze_44:30daréis al sacerdote las primicias deH5414
+- Eze_45:8y darán la tierra a la casa de IsraelH5414
+- Eze_45:16estará obligado a dar esta ofrenda paraH8641
+- Eze_45:17mas al príncipe corresponderá el dar el
+- Eze_46:16el príncipe diere parte de su heredadH5414
+- Eze_46:17diere parte a alguno de sus siervosH5414
+- Eze_46:18de lo que él posee dará herencia a sus
+- Eze_47:2me hizo dar la vuelta por el camino deH5437
+- Eze_47:14que la había de dar a vuestros padresH5414
+- Eze_47:23le daréis su heredad, ha dicho JehováH5414
+- Dan_1:12y nos den legumbres a comer, y agua aH5414
+- Dan_1:16así, pues, Melsar...les daba legumbresH5414
+- Dan_1:17estos cuatro...Dios les dio conocimientoH5414
+- Dan_2:9sepa que me podéis dar su interpretaciónH2324
+- Dan_2:16pidió al rey que le diese tiempo, y queH5414
+- Dan_2:21él...da la sabiduría a los sabios, y laH3052
+- Dan_2:23oh Dios de mis padres, te doy gracias yH3029
+- Dan_2:23me has dado sabiduría y fuerza, y ahoraH3052
+- Dan_2:25el cual dará al rey la interpretaciónH3046
+- Dan_2:30sino para que se dé a conocer al rey laH3046
+- Dan_2:37Dios del cielo te ha dado reino, poderH3052
+- Dan_2:38ha dado el dominio sobre todo; tú eresH3052
+- Dan_2:48le dio muchos honores y grandes donesH3052
+- Dan_3:10has dado una ley que todo hombre, al oírH7761
+- Dan_4:16le sea dado corazón de bestia, y pasenH3052
+- Dan_4:17a quien él quiere lo da, y constituyeH5415
+- Dan_4:25, Dan_4:32el Altísimo...lo da a quien él quiereH5415
+- Dan_5:6sus rodillas daban la una contra la otraH5368
+- Dan_5:12llámese...ahora a Daniel, y él te dará laH2324
+- Dan_5:15y me diesen su interpretación; pero noH3046
+- Dan_5:16he oído...que puedes dar interpretacionesH6590
+- Dan_5:16darme su interpretación, serás vestidoH3046
+- Dan_5:17y da tus recompensas a otros. Leeré laH3052
+- Dan_5:17leeré la...y le daré la interpretaciónH3046
+- Dan_5:18Dios...dio a Nabucodonosor...el reino y laH3052
+- Dan_5:19y por la grandeza que le dio, todos losH3052
+- Dan_5:19mataba, y a quien quería daba vidaH2418
+- Dan_5:23diste alabanza a dioses de plata y oroH7624
+- Dan_5:28reino ha sido roto, y dado a los medosH3052
+- Dan_6:2a quienes estos sátrapas diesen cuentaH3052
+- Dan_6:10abiertas las ventanas...que daban haciaH5049
+- Dan_6:10y daba gracias delante de su Dios, comoH3029
+- Dan_6:24y dio orden el rey, y fueron traídosH560
+- Dan_7:4enhiesta...le fue dado corazón de hombreH3052
+- Dan_7:6cuatro cabezas; y le fue dado dominioH3052
+- Dan_7:14y le fue dado dominio, gloria y reinoH3052
+- Dan_7:22vino el...y se dio el juicio a los santosH3052
+- Dan_7:27la majestad...sea dado al pueblo de losH3052
+- Dan_9:22ahora he salido para darte sabiduría yH7919
+- Dan_9:23fue dada la orden, y yo he venido paraH3318
+- Dan_11:17hará...le dará una hija de mujeres paraH5414
+- Dan_11:21al cual no darán la honra del reinoH5414
+- Ose_1:3la cual concibió y le dio a luz un hijoH3205
+- Ose_1:6concibió...otra vez, y dio a luz una hijaH3205
+- Ose_1:8después de...concibió y dio a luz un hijoH3205
+- Ose_2:5la que los dio a luz se deshonró, porqueH3205
+- Ose_2:5iré tras mis amantes, que me dan mi panH5414
+- Ose_2:8no reconoció que yo le daba el trigo, elH5414
+- Ose_2:9y mi lino que había dado para cubrir su
+- Ose_2:12mi salario...que me han dado mis amantesH5414
+- Ose_2:15daré sus viñas desde allí, y el valle deH5414
+- Ose_4:17Efraín es dado a ídolos; déjaloH2266
+- Ose_6:2nos dará vida después de dos días; en elH2421
+- Ose_9:14dales...que les has de dar; dales matrizH5414
+- Ose_9:16su raíz está seca, no dará más frutoH6213
+- Ose_10:1Israel es...que da abundante fruto para síH7737
+- Ose_13:10cuales dijiste: Dame rey y príncipes?[[H5414]]
+- Ose_13:11te di rey en mi furor, y te lo quitéH5414
+- Ose_13:13dolores de...que da a luz le vendránH3205
+- Joe_2:1Sion, y dad alarma en mi santo monteH7321
+- Joe_2:11Jehová dará su orden delante...ejércitoH5414
+- Joe_2:22la higuera y la vid darán sus frutosH5375
+- Joe_2:23os ha dado la primera lluvia a su tiempoH5414
+- Joe_2:30daré prodigios en el cielo y...la tierraH5414
+- Joe_3:3dieron los niños por una ramera, y...niñasH5414
+- Joe_3:16; Amó_1:2dará su voz desde JerusalénH5414
+- Amó_2:12disteis de beber vino a los nazareosH5414
+- Amó_3:4¿dará el leoncillo su rugido desde suH5414
+- Amó_5:9que da esfuerzo al despojador sobre elH1082
+- Amó_9:15arrancados de su tierra que yo les diH5414
+- Jon_3:7no se les dé alimento, ni beban agua
+- Miq_1:14vosotros daréis dones a Moreset-gatH5414
+- Miq_2:4nos quitó...los dio y los repartió a otros
+- Miq_3:5y al que no les da de comer, proclamanH5414
+- Miq_5:3hasta...que dé a luz la que ha de dar a luzH5414
+- Miq_6:7¿daré mi primogénito por mi rebelión, elH5414
+- Miq_6:11¿daré por inocente al que tiene...pesasH2135
+- Hab_1:2daré voces a ti a causa...la violenciaH2199
+- Hab_2:5el que es dado al vino es traicioneroH898
+- Hab_2:15¡ay del que da de beber a su prójimo![[H8248]]
+- Hab_3:10el abismo dio su voz, a lo alto alzó susH5414
+- Hab_3:17los labrados no den mantenimiento, y lasH6213
+- Sof_3:14Sion: da voces de júbilo, oh IsraelH7321
+- Hag_2:9y daré paz en este lugar, dice JehováH5414
+- Zac_3:7entre éstos que...están te daré lugarH5414
+- Zac_8:12la vid dará su fruto, y d su producto laH5414
+- Zac_8:12los cielos darán su rocío; y haré que elH5414
+- Zac_9:9da voces de júbilo, hija de JerusalénH7321
+- Zac_10:1dará lluvia abundante, y hierba verdeH5414
+- Zac_10:2los terafines han dado vanos oráculosH1696
+- Zac_11:12si os parece bien, dadme mi salarioH3051
+- Mal_2:2si no decidís...dar gloria a mi nombreH5414
+- Mal_2:5las cuales...yo le di para que me temieraH5414
+- Mat_1:21y dará a luz un hijo, y llamarás suG5088
+- Mat_1:23virgen concebirá y dará a luz un hijoG5088
+- Mat_1:25pero no la conoció hasta que dio a luzG5088
+- Mat_3:10árbol que no da buen fruto es cortadoG4160
+- Mat_4:9esto te daré, si postrado me adoraresG1325
+- Mat_5:31que repudie a su...dele carta de divorcioG1325
+- Mat_5:42al que te pida, dale; y al que quieraG1325
+- Mat_6:2cuando, pues, des limosna, no hagas tocarG4160
+- Mat_6:3mas cuando tú des limosna, no sepa tuG4160
+- Mat_6:11el pan nuestro de cada día, dánoslo hoyG1325
+- Mat_7:6no deis lo santo a los perros, ni echéisG1325
+- Mat_7:7pedid, y se os dará; buscad, y hallaréisG1325
+- Mat_7:9si su hijo le pide pan, le dará...piedra?[[G1929]]
+- Mat_7:10pide un pescado, le dará una serpiente?[[G1929]]
+- Mat_7:11siendo malos, sabéis dar buenas dádivasG1325
+- Mat_7:11vuestro Padre...dará buenas cosas a losG1325
+- Mat_7:17todo buen árbol da buenos frutos, peroG4160
+- Mat_7:17pero el árbol malo da frutos malosG4160
+- Mat_7:18no puede el buen árbol dar malos, ni elG4160
+- Mat_7:18ni el árbol malo dar frutos buenosG4160
+- Mat_7:19árbol que no da buen fruto, es cortadoG4160
+- Mat_7:27dieron con ímpetu contra aquella casaG4350
+- Mat_9:8había dado tal potestad a los hombresG1325
+- Mat_9:27le siguieron dos ciegos, dando voces yG2896
+- Mat_10:1les dio autoridad sobre los espíritusG1325
+- Mat_10:5y les dio instrucciones, diciendo: PorG3853
+- Mat_10:8de gracia recibisteis, dad de graciaG1325
+- Mat_10:19os será dado lo que habéis de hablarG1325
+- Mat_10:42que dé a uno de estos...un vaso de aguaG4222
+- Mat_11:1cuando...terminó de dar instrucciones aG1299
+- Mat_11:16se sientan...dan voces a sus compañerosG4377
+- Mat_12:36de toda palabra ociosa...darán cuenta enG591
+- Mat_12:39señal no le será dada, sino la señal delG1325
+- Mat_13:8parte cayó en buena tierra, y dio frutoG1325
+- Mat_13:11os es dado saber...a ellos no les es dG1325
+- Mat_13:12a cualquiera que tiene, se le dará, yG1325
+- Mat_13:23oye y entiende la palabra, y da frutoG2592
+- Mat_13:26y cuando salió la hierba y dio frutoG4160
+- Mat_14:7le prometió...darle todo lo que pidieseG1325
+- Mat_14:8dame aquí...la cabeza de Juan el BautistaG1325
+- Mat_14:9se entristeció...mandó que se la diesenG1325
+- Mat_14:11traída su cabeza...y dada a la muchachaG1325
+- Mat_14:12y fueron y dieron las nuevas a JesúsG518
+- Mat_14:16les dijo: No...dadles vosotros de comerG1325
+- Mat_14:19partió y dio los panes a los discípulosG1325
+- Mat_14:26los discípulos...dieron voces de miedoG2896
+- Mat_14:30dio voces, diciendo: ¡Señor, sálvame![[G2896]]
+- Mat_15:23despídela, pues da voces tras nosotrosG2896
+- Mat_15:36tomando los siete panes...dio graciasG1325
+- Mat_15:36los partió y dio a sus discípulos, y losG1325
+- Mat_16:4señal no le será dada, sino la señal delG1325
+- Mat_16:19a ti te daré las llaves del reino de losG1325
+- Mat_16:26¿o qué...dará el hombre por su alma?[[G1325]]
+- Mat_17:27un estatero; tómalo, y dáselo por mí yG1325
+- Mat_19:7mandó Moisés dar carta de divorcio, yG1325
+- Mat_19:11esto, sino aquellos a quienes es dadoG1325
+- Mat_19:21dalo a los pobres, y tendrás tesoro enG1325
+- Mat_20:4id también...y os daré lo que sea justoG1325
+- Mat_20:14quiero dar a este postrero, como a tiG1325
+- Mat_20:23pero el sentaros a mi...no es mío darloG1325
+- Mat_20:28para dar su vida en rescate por muchosG1325
+- Mat_21:23cosas? ¿y quién te dio esta autoridad?[[G1325]]
+- Mat_21:43dado a gente que produzca los frutos deG1325
+- Mat_22:17¿es lícito dar tributo a César, o no?[[G1325]]
+- Mat_22:21dad, pues, a César lo que es de CésarG591
+- Mat_22:30ni se casarán ni se darán en casamientoG1547
+- Mat_23:31dais testimonio contra vosotros mismosG3140
+- Mat_24:29la luna no dará su resplandor, y lasG1325
+- Mat_24:38casándose y dando en casamiento, hastaG1547
+- Mat_24:45para que les dé el alimento a tiempoG1325
+- Mat_25:8dijeron a las...Dadnos de vuestro aceiteG1325
+- Mat_25:15a uno dio cinco talentos, y a otro dosG1325
+- Mat_25:27haber dado mi dinero a los banquerosG906
+- Mat_25:28y dadlo al que tiene diez talentosG1325
+- Mat_25:29al que tiene, le será dado, y tendráG1325
+- Mat_25:35me disteis de comer...y me d de beberG1325
+- Mat_25:37Vimos...sediento, y te dimos de beber?[[G4222]]
+- Mat_25:42y no me disteis de comer...y no me d...deG1325
+- Mat_26:9esto podía...haberse dado a los pobresG1325
+- Mat_26:15¿qué me queréis dar...os lo entregaré?[[G1325]]
+- Mat_26:26y dio a sus discípulos, y dijo: TomadG1325
+- Mat_26:27habiendo dado gracias les dio, diciendoG1325
+- Mat_26:48había dado señal, diciendo: Al que yoG1325
+- Mat_26:53el no me daría más de doce legiones deG3936
+- Mat_26:67y le dieron de puñetazos, y otros leG2852
+- Mat_27:10las dieron para el campo del alfareroG1325
+- Mat_27:34le dieron a beber vinagre...con hielG1325
+- Mat_27:48la empapó de vinagre, y...le dio a beberG4222
+- Mat_27:58Pilato mandó que se le diese el cuerpoG591
+- Mat_28:8fueron corriendo a dar las nuevas a susG518
+- Mat_28:9y mientras iban a dar las nuevas a losG518
+- Mat_28:10dad las nuevas a mis hermanos, para queG518
+- Mat_28:11guardia...dieron aviso a los principalesG518
+- Mat_28:12dieron mucho dinero a los soldadosG1325
+- Mat_28:18toda potestad me es dada en el cieloG1325
+- Mar_1:23un hombre con espíritu...que dio vocesG349
+- Mar_2:26y aun dio a los que con él estaban?[[G1325]]
+- Mar_3:11daban voces, diciendo: Tú eres el HijoG2896
+- Mar_4:7los espinos...la ahogaron, y no dio frutoG1325
+- Mar_4:8parte cayó en buena tierra, y dio frutoG1325
+- Mar_4:11a vosotros es dado saber el misterioG1325
+- Mar_4:20y dan fruto a treinta, a sesenta, y aG2592
+- Mar_4:25al que tiene, se le dará, y al que noG1325
+- Mar_5:5andaba dando voces en los montes y en losG2896
+- Mar_5:13y luego Jesús les dio permiso...entraronG2010
+- Mar_5:14huyeron, y dieron aviso en la ciudad yG312
+- Mar_5:43miró...y dijo que se le diese de comerG1325
+- Mar_6:2que sabiduría es la que le es dada, yG1325
+- Mar_6:7y les dio autoridad sobre los espíritusG1325
+- Mar_6:21Herodes...daba una cena a sus príncipesG4160
+- Mar_6:22pídeme lo que quieras, y yo te lo daréG1325
+- Mar_6:23y le juró: Todo lo que me pidas te daréG1325
+- Mar_6:25me des en un plato la cabeza de Juan elG1325
+- Mar_6:28dio a la muchacha, y...la dio a su madreG1325
+- Mar_6:37él les dijo: Dadles vosotros de comerG1325
+- Mar_6:37compremos pan por...y les demos de comerG1325
+- Mar_6:41bendijo, y partió los panes, y dio a susG1325
+- Mar_8:6habiendo dado gracias, los partió, y dioG2168
+- Mar_8:12que no se dará señal a esta generaciónG1325
+- Mar_8:37¿o qué recompensa dará el...por su almaG1325
+- Mar_9:41cualquiera que os diere un vaso de aguaG4222
+- Mar_10:4Moisés permitió dar carta de divorcioG1125
+- Mar_10:21vende todo lo que tienes, y dalo a losG1325
+- Mar_10:45para dar su vida en rescate por muchosG1325
+- Mar_10:47comenzó a dar voces y a decir: ¡JesúsG2896
+- Mar_11:9iban...daban voces, diciendo: ¡Hosanna![[G2896]]
+- Mar_11:28quién te dio autoridad para hacer estasG1325
+- Mar_12:9destruirá a los...y dará su viña a otrosG1325
+- Mar_12:14es lícito dar tributo...Daremos, o no d?[[G1325]]
+- Mar_12:17dad a César lo que es de César, y a DiosG591
+- Mar_12:25ni se dará en casamiento, sino seránG1061
+- Mar_13:11lo que os fuere dado en aquella horaG1325
+- Mar_13:24el sol...y la luna no dará su resplandorG1325
+- Mar_13:34dio autoridad a sus siervos, y a cadaG1325
+- Mar_14:5vendido por...y haberse dado a los pobresG1325
+- Mar_14:11ellos, al oírlo...prometieron darle dineroG1325
+- Mar_14:22y les dio, diciendo: Tomad, esto es miG1325
+- Mar_14:44había dado señal, diciendo: Al que yoG1325
+- Mar_14:57unos, dieron falso testimonio contra élG5576
+- Mar_14:65y a darle de puñetazos, y a decirleG2852
+- Mar_14:65y los alguaciles le daban de bofetadasG4475
+- Mar_15:13volvieron a dar voces: ¡Crucifícale![[G2896]]
+- Mar_15:23y le dieron a beber vino mezclado conG1325
+- Mar_15:36uno...le dio a beber, diciendo; DejadG4222
+- Mar_15:37a Jesús, dando una gran voz, expiró
+- Mar_15:45informado por el...dio el cuerpo a JoséG1433
+- Luc_1:13mujer Elizabeth te dará a luz un hijoG1080
+- Luc_1:19hablarte y darte estas buenas nuevasG2097
+- Luc_1:31concebirás en tu...y darás a luz un hijoG5088
+- Luc_1:32Dios le dará el trono de David su padreG1325
+- Luc_1:57le cumplió el tiempo...dio a luz un hijoG1080
+- Luc_1:77por dar conocimiento de salvación a suG1325
+- Luc_1:79dar a luz los que habitan en tinieblasG2014
+- Luc_2:7y dio a luz su hijo primogénito, y loG5088
+- Luc_2:10doy nuevas de gran gozo, que será paraG2097
+- Luc_2:17dieron a conocer lo que se...había dichoG1232
+- Luc_2:38daba gracias a Dios, y hablaba del niñoG437
+- Luc_3:9todo árbol que no da buen fruto se cortaG4160
+- Luc_3:11que tiene dos túnicas, dé al que no tieneG3330
+- Luc_4:6toda...potestad...a quien quiero la doyG1325
+- Luc_4:17se le dio el libro del profeta IsaíasG1929
+- Luc_4:18me ha ungido para dar buenas nueva aG2097
+- Luc_4:20enrollando el libro, lo dio al ministroG591
+- Luc_4:22y todos daban buen testimonio de él, yG3140
+- Luc_4:41salían demonios de muchos, dando vocesG2896
+- Luc_6:4comió, y dio...a los que estaban con él?[[G1325]]
+- Luc_6:30a cualquiera que te pida, dale, y al queG1325
+- Luc_6:38dad, y se os dará medida buena...daránG1325
+- Luc_6:43no es buen árbol el que da malos frutosG4160
+- Luc_6:43no es...árbol malo el que da buen frutoG4160
+- Luc_6:48río dio con ímpetu contra aquella casaG4366
+- Luc_6:49contra la cual el río dio con ímpetuG4366
+- Luc_7:15se incorporó el que...Y lo dio a su madreG1325
+- Luc_7:18discípulos de Juan le dieron las nuevasG518
+- Luc_7:21y a muchos ciegos les dio la vistaG5483
+- Luc_7:32dan voces...y dicen: Os tocamos flautaG4377
+- Luc_7:44y no me diste agua para mis pies; masG1325
+- Luc_7:45no me diste beso; mas ésta, desde queG1325
+- Luc_8:10él dijo: A vosotros os es dado conocerG1325
+- Luc_8:15retienen...y dan fruto con perseveranciaG2592
+- Luc_8:18porque a todo el que tiene, se le daráG1325
+- Luc_8:32los dejase entrar en...y le dio permisoG2010
+- Luc_8:34dieron aviso en la ciudad y...los camposG518
+- Luc_8:55y él mandó que se le diese de comerG1325
+- Luc_9:1les dio poder...sobre todos los demoniosG1325
+- Luc_9:13él les dijo: Dadle vosotros de comerG1325
+- Luc_9:16dio a sus discípulos...pusiesen delanteG1325
+- Luc_9:39y de repente da voces, y le sacude conG2896
+- Luc_10:7casa, comiendo y bebiendo lo que os denG3844
+- Luc_10:19os doy potestad de hollar serpientesG1325
+- Luc_10:35dos denarios, y los dio al mesoneroG1325
+- Luc_10:40¿no te da cuidado que mi hermana meG3199
+- Luc_11:3el pan nuestro de cada día, dánoslo hoyG1325
+- Luc_11:7dice...no puedo levantarme, y dártelos?[[G1325]]
+- Luc_11:8aunque no se levante a dárselos por serG1325
+- Luc_11:8os digo...le dará todo lo que necesiteG1325
+- Luc_11:9os digo: Pedid, y se os dará; buscad, yG1325
+- Luc_11:11su hijo le pide pan, le dará una piedra?[[G1929]]
+- Luc_11:11lugar de pescado le dará una serpienteG1929
+- Luc_11:12le pide un huevo, le dará un escorpión?[[G1929]]
+- Luc_11:13dará el Espíritu Santo a los que se loG1325
+- Luc_11:29demanda señal...señal no le será dadaG1325
+- Luc_11:41pero dad limosna de lo que tenéis, yG1325
+- Luc_12:32a...Padre le ha placido daros el reinoG1325
+- Luc_12:33vended...y dad limosna; haceos bolsasG1325
+- Luc_12:42para que a tiempo les dé su raciónG1325
+- Luc_12:48todo aquel a quien se haya dado muchoG1325
+- Luc_12:51que he venido para dar paz en la tierra?[[G1325]]
+- Luc_13:9diere fruto, bien; y si no, la cortarásG4160
+- Luc_14:9da lugar a éste; y entonces comiencesG1325
+- Luc_15:12padre, dame la parte de los bienes queG1325
+- Luc_15:16deseaba llenar su...pero nadie le dabaG1325
+- Luc_15:29y nunca me has dado ni un cabrito paraG1325
+- Luc_16:12si..¿quién os dará lo que es vuestro?[[G1325]]
+- Luc_16:24él, dando voces, dijo: Padre AbrahamG5455
+- Luc_17:9¿acaso da gracias al siervo porque hizo
+- Luc_17:16y se postró rostro...dándole graciasG2168
+- Luc_17:18¿no hubo quien...diese gloria a Dios sinoG1325
+- Luc_17:27se casaban y se daban en casamientoG1547
+- Luc_18:11te doy gracias porque no soy como losG2168
+- Luc_18:12ayuno...doy diezmos de todo lo que ganoG586
+- Luc_18:22vende...y dalo a los pobres, y tendrásG1239
+- Luc_18:38dio voces, diciendo: ¡Jesús, Hijo deG994
+- Luc_18:43todo el pueblo...dio alabanza a DiosG1325
+- Luc_19:5date prisa, desciende, porque hoy esG4692
+- Luc_19:8la mitad de mis bienes doy a los pobresG1325
+- Luc_19:13dio diez minas, y les dijo: NegociadG1325
+- Luc_19:15a los cuales había dado el dinero, paraG1325
+- Luc_19:24y dadla al que tiene las diez minasG1325
+- Luc_19:26que a todo el que tiene, se le daráG1325
+- Luc_20:2¿quién...te ha dado esta autoridad?[[G1325]]
+- Luc_20:10le diesen del fruto de la viña; peroG1325
+- Luc_20:16vendrá y destruirá...y dará su viñaG1325
+- Luc_20:22¿nos es lícito dar tributo a César, oG1325
+- Luc_20:25pues dad a César lo que es de César, y aG591
+- Luc_20:34hijos...se casan, y se dan en casamientoG1548
+- Luc_20:35ni se casa, ni se dan en casamientoG1548
+- Luc_21:13esto os será ocasión para dar testimonioG3142
+- Luc_21:15porque yo os daré palabra y sabiduríaG1325
+- Luc_22:5alegraron, y convinieron en darle dineroG1325
+- Luc_22:17copa, dio gracias, y dijo: Tomad estoG2168
+- Luc_22:19pan y dio gracias, y lo partió y les dG2168
+- Luc_22:19es mi cuerpo, que por vosotros es dadoG1325
+- Luc_23:2prohibe dar tributo a César, diciendoG1325
+- Luc_23:18la multitud dio voces a una, diciendoG349
+- Luc_23:21ellos volvieron a dar voces, diciendoG2019
+- Luc_23:47centurión...dio gloria a Dios, diciendoG1392
+- Luc_24:9dieron nuevas de todas estas cosas a losG518
+- Luc_24:30tomó el pan y lo...lo partió, y le dioG1929
+- Luc_24:42le dieron parte de un pez asado, y unG1929
+- Jua_1:7-8para que diese testimonio de la luzG3140
+- Jua_1:12les dio potestad de ser...hijos de DiosG1325
+- Jua_1:15dio testimonio de él, y clamó diciendoG3140
+- Jua_1:17pues la ley por medio de Moisés fue dadaG1325
+- Jua_1:22para que demos respuesta a los que nosG1325
+- Jua_1:32dio Juan testimonio, diciendo: Vi alG3140
+- Jua_1:34y he dado testimonio de que éste es elG3140
+- Jua_2:25que nadie le diese testimonio de hombreG3140
+- Jua_3:16que ha dado a su Hijo unigénito, para queG1325
+- Jua_3:26de quien tú diste testimonio, bautiza...yG3140
+- Jua_3:27recibir...si no le fuere dado del cieloG1325
+- Jua_3:34pues Dios no da el espíritu por medidaG1325
+- Jua_4:5junto a la heredad que Jacob dio a...JoséG1325
+- Jua_4:7una mujer...y Jesús dijo: Dame de beberG1325
+- Jua_4:10quién es el que te dice: Dame de beberG1325
+- Jua_4:10tú le pedirías y el te daría agua vivaG1325
+- Jua_4:12Jacob, que nos dio este pozo, del cualG1325
+- Jua_4:14el que bebiere del agua que yo le daréG1325
+- Jua_4:14el agua que yo le daré será en él unaG1325
+- Jua_4:15dame esa agua, para que no tenga yo sedG1325
+- Jua_4:39daba testimonio diciendo: Me dijo todoG3140
+- Jua_4:44Jesús...dio testimonio de que el profetaG3140
+- Jua_4:51le dieron nuevas diciendo: tu hijo viveG518
+- Jua_5:15el hombre...dio aviso a los judíos, queG312
+- Jua_5:21levanta a los muertos, y les da vida, asíG2227
+- Jua_5:21también el Hijo a los que quiere da vidaG2227
+- Jua_5:22sino que todo el juicio dio al HijoG1325
+- Jua_5:26dado al Hijo el tener vida en sí mismoG1325
+- Jua_5:27y también le dio autoridad de hacer juicioG1325
+- Jua_5:31Si yo doy testimonio acerca de mí mismoG3140
+- Jua_5:32otro es el que da testimonio acerca de míG3140
+- Jua_5:32y sé que el testimonio que da de mí esG3140
+- Jua_5:33Juan, y él dio testimonio de la verdadG3140
+- Jua_5:36las obras que el Padre me dio para queG1325
+- Jua_5:36dan testimonio de mí, que el Padre meG3140
+- Jua_5:37también el Padre...ha dado testimonio deG3140
+- Jua_5:39ellas son las que dan testimonio de míG3140
+- Jua_6:11y habiendo dado gracias, los repartióG2168
+- Jua_6:23después de haber dado gracias el SeñorG2168
+- Jua_6:27la comida...el Hijo del Hombre os daráG1325
+- Jua_6:31escrito: Pan del cielo les dio a comerG1325
+- Jua_6:32no os dio Moisés el pan del cielo, masG1325
+- Jua_6:32Padre os da el verdadero pan del cieloG1325
+- Jua_6:33descendió del cielo y da vida al mundoG1325
+- Jua_6:34dijeron: Señor, danos siempre este panG1325
+- Jua_6:37todo lo que el Padre me da, vendrá a míG1325
+- Jua_6:39que de todo lo que me diere, no pierda yoG1325
+- Jua_6:51el pan que yo daré es mi carne, la cualG1325
+- Jua_6:51la cual yo daré por la vida del mundoG1325
+- Jua_6:52¿cómo puede...darnos a comer su carne?[[G1325]]
+- Jua_6:63el espíritu es el que da vida: la carneG2227
+- Jua_6:65puede venir a mí, si no le fuere dadoG1325
+- Jua_7:4que procura darse a conocer hace algo enG1511
+- Jua_7:19¿no os dio Moisés la ley, y ninguno deG1325
+- Jua_7:22por cierto, Moisés os dio la circuncisiónG1325
+- Jua_8:14aunque yo doy testimonio acerca de míG3140
+- Jua_8:18yo soy el que doy testimonio acerca de míG3140
+- Jua_8:18el Padre que me envió da testimonio deG3140
+- Jua_9:24da gloria a Dios; nosotros sabemos queG1325
+- Jua_10:11buen pastor su vida da por las ovejasG5087
+- Jua_10:25las obras...ellas dan testimonio de míG3140
+- Jua_10:28yo os doy vida eterna; y no pereceránG1325
+- Jua_10:29mi Padre que me las dio, es mayor queG1325
+- Jua_11:22lo que pidas a Dios, Dios te lo daráG1325
+- Jua_11:41Padre, gracias te doy por haberme oídoG2168
+- Jua_11:57dado orden de que si alguno supieseG1325
+- Jua_12:5perfume vendido por...y dado a los pobres?[[G1325]]
+- Jua_12:10acordaron dar muerte también a LázaroG615
+- Jua_12:17daba testimonio la gente que estaba conG3140
+- Jua_12:33dando a entender de qué muerte iba aG4591
+- Jua_12:49él me dio mandamiento de lo que he deG1325
+- Jua_13:3sabiendo Jesús que...le había dado todasG1325
+- Jua_13:15ejemplo os he dado, para que como yo osG1325
+- Jua_13:26a quien yo diere el pan mojado, aquélG1929
+- Jua_13:29compra...o que diese algo a los pobresG1325
+- Jua_13:34mandamiento nuevo os doy: Que os améisG1325
+- Jua_14:16yo rogaré al...y os dará otro ConsoladorG1325
+- Jua_14:27la paz os dejo; mi paz os doy; yo no osG1325
+- Jua_14:27yo no os la doy como el mundo la daG1325
+- Jua_15:15las cosas que...os las he dado a conocerG1107
+- Jua_15:16todo lo que pidiereis al Padre...lo déG1325
+- Jua_15:26venga...él dará testimonio acerca de míG3140
+- Jua_15:27y vosotros daréis testimonio tambiénG3140
+- Jua_16:21la mujer cuando da a luz, tiene dolorG5088
+- Jua_16:21después que ha dado a luz un niño, yaG1080
+- Jua_16:23cuanto pidiereis al Padre...os lo daráG1325
+- Jua_17:2le has dado potestad sobre toda carneG1325
+- Jua_17:2dé vida eterna a todos los que le disteG1325
+- Jua_17:4acabado la obra que me diste que hicieseG1325
+- Jua_17:6me diste; tuyos eran, y me los d, y hanG1325
+- Jua_17:7las cosas que me has dado, proceden de tiG1325
+- Jua_17:8las palabras que me diste, les he dadoG1325
+- Jua_17:9no ruego por...sino por los que me disteG1325
+- Jua_17:11a los que me has dado, guárdalos en tuG1325
+- Jua_17:12a los que me diste, yo los guardé, yG1325
+- Jua_17:14yo les he dado tu palabra; y el mundoG1325
+- Jua_17:22la gloria que me diste, yo les he dadoG1325
+- Jua_17:24me has dado, quiero que donde yo estoyG1325
+- Jua_17:26les he dado a conocer tu nombre, y loG1107
+- Jua_17:26lo daré a conocer aún, para que el amorG1107
+- Jua_18:9de los que me diste, no perdí ningunoG1325
+- Jua_18:11la copa que el Padre me ha dado, ¿no laG1325
+- Jua_18:14era Caifás el que había dado el consejoG4823
+- Jua_18:22le dio una bofetada, diciendo: ¿AsíG4475
+- Jua_18:31nos está permitido dar muerte a nadieG615
+- Jua_18:32dando a entender de qué muerte iba aG4591
+- Jua_18:37venido...para dar testimonio a la verdadG3140
+- Jua_18:40dieron voces...diciendo: No a éste, sinoG2905
+- Jua_19:3¡salve, Rey de...y le daban de bofetadasG4475
+- Jua_19:6dieron voces, diciendo: ¡Crucifícale![[G2905]]
+- Jua_19:9de dónde...Mas Jesús no le dio respuestaG1325
+- Jua_19:11ninguna...si no te fuese dada de arribaG1325
+- Jua_19:12pero los judíos daban voces, diciendoG2896
+- Jua_20:18para dar a los discípulos las nuevas deG518
+- Jua_21:13tomó el pan y les dio, y...del pescadoG1325
+- Jua_21:19dando a entender con qué muerte habíaG1392
+- Jua_21:24este es el discípulo que da testimonioG3140
+- Hec_1:2después de haber dado mandamientosG1781
+- Hec_2:4según el Espíritu les daba que hablasenG1325
+- Hec_2:19y daré prodigios en el cielo, yG1325
+- Hec_3:3vio a...les rogaba que le diesen limosna
+- Hec_3:6pero lo que tengo te doy; en el nombre deG1325
+- Hec_3:14y pedisteis que se os diese un homicidaG5483
+- Hec_3:16la fe que...ha dado a éste esta completaG1325
+- Hec_4:12dado a los hombres, en que podamos serG1325
+- Hec_4:33poder los apóstoles daban testimonio deG591
+- Hec_5:22los alguaciles...volvieron y dieron avisoG518
+- Hec_5:25viniendo uno, les dio esta noticia: HeG518
+- Hec_5:31dar a Israel arrepentimiento y perdónG1325
+- Hec_5:32cual ha dado Dios a los que le obedecenG1325
+- Hec_6:14y cambiará las costumbres que nos dioG3860
+- Hec_7:5no le dio herencia en ella, ni aun paraG1325
+- Hec_7:5le prometió que se la daría en posesiónG1325
+- Hec_7:8y le dio el pacto de la circuncisiónG1325
+- Hec_7:13José se dio a conocer a sus hermanosG319
+- Hec_7:25Dios les daría libertad por mano suyaG1325, [[G4991]]
+- Hec_7:38que recibió palabras de vida que darnosG1325
+- Hec_7:57cielos, dando grandes voces, se taparonG2896
+- Hec_8:7espíritus...salían...dando grandes vocesG994
+- Hec_8:18se daba el Espíritu Santo, les ofrecióG1325
+- Hec_8:19dadme también a mí este poder, para queG1325
+- Hec_9:5dura cosa te es dar coces contra el aguijónG2979
+- Hec_9:41él, dándole la mano, la levantó; entoncesG1325
+- Hec_10:43de éste dan testimonio los profetasG3140
+- Hec_11:18ha dado Dios arrepentimiento para vida![[G1325]]
+- Hec_11:28daba a entender por el Espíritu, queG4591
+- Hec_12:10puerta de hierro que daba a la ciudadG5342
+- Hec_12:14dio la nueva de que Pedro estaba a laG518
+- Hec_12:23lo hirió...cuanto no dio la gloria a DiosG1325
+- Hec_13:19les dio en herencia su territorioG2624
+- Hec_13:20les dio jueces hasta el profeta SamuelG1325
+- Hec_13:21pidieron rey, y Dios les dio a Saúl hijoG1325
+- Hec_13:22David, de quien dio también testimonioG3140
+- Hec_13:34dará las misericordias fieles de DavidG1325
+- Hec_14:3el cual daba testimonio a la palabra deG3140
+- Hec_14:14se lanzaron entre la...dando vocesG2896
+- Hec_14:17dándonos lluvias del cielo y tiemposG1325
+- Hec_15:8les dio testimonio, dándoles el EspírituG3140
+- Hec_15:24algunos...a los cuales no dimos orden, osG1291
+- Hec_16:2daban buen testimonio de él los hermanosG3140
+- Hec_16:10dando por cierto que Dios nos llamabaG4822
+- Hec_16:16la cual daba gran ganancia a sus amosG3930
+- Hec_16:17daba voces, diciendo: Estos hombres sonG2896
+- Hec_17:25él es quien da a todos vida y alientoG1325
+- Hec_17:31dando fe a todos con haberle levantadoG3930
+- Hec_18:17pero a Galión nada se le daba de elloG3199
+- Hec_19:18confesando y dando cuenta de sus hechosG312
+- Hec_19:24daba no poca ganancia a los artíficesG3930
+- Hec_19:40por la cual podamos dar razón de esteG591
+- Hec_20:23da testimonio, diciendo que me esperanG1263
+- Hec_20:24para dar testimonio del evangelio de laG1263
+- Hec_20:32que tiene poder para...daros herenciaG1325
+- Hec_20:35más bienaventurado es dar que recibirG1325
+- Hec_21:28dando voces: Varones israelitas, ayudadG2896
+- Hec_22:18decía: Date prisa, y sal prontamenteG4692
+- Hec_22:26fue y dio aviso al tribuno, diciendoG518
+- Hec_22:29los que le iban a dar tormento; y aun
+- Hec_23:12hasta que hubiesen dado muerte a PabloG615
+- Hec_23:16fue y entró en la...y dio aviso a PabloG518
+- Hec_23:17porque tiene cierto aviso que darleG518
+- Hec_23:21beber hasta que le hayan dado muerteG337
+- Hec_23:22a nadie dijese que le había dado avisoG1718
+- Hec_23:33llegaron...dieron la carta al gobernadorG325
+- Hec_24:26que Pablo le diera dinero para que leG1325
+- Hec_25:24dando voces que no debe vivir másG1916
+- Hec_26:10y cuando los mataron, yo di mi votoG2702
+- Hec_26:14dura cosa te es dar coces contra elG2979
+- Hec_26:22de hoy, dando testimonio a pequeños y aG3140
+- Hec_27:11pero el centurión daba más crédito alG3982
+- Hec_27:14después dio contra la nave un vientoG906
+- Hec_27:17y teniendo temor de dar en la SirteG1601
+- Hec_27:26es necesario que demos en alguna islaG1601
+- Hec_27:29y temiendo dar en escollos, echaron 4G1601
+- Hec_27:35y dio gracias a Dios en presencia deG2168
+- Hec_27:41pero dando en un lugar de dos aguasG4045
+- Hec_28:15dio gracias a Dios y cobró alientoG3140
+- Rom_1:8primeramente doy gracias a mi DiosG2168
+- Rom_1:21no le glorificaron...ni le dieron graciasG2168
+- Rom_1:25honrando y dando culto a las criaturasG4573
+- Rom_2:15la ley...dando testimonio su concienciaG4828
+- Rom_4:13no por la ley fue dada...la promesa de
+- Rom_4:17de Dios...el cual da vida a los muertosG2227
+- Rom_4:20se fortaleció en fe, dando gloria a DiosG1325
+- Rom_5:5por el Espíritu Santo, que nos fue dadoG1325
+- Rom_7:25gracias doy a Dios, por Jesucristo SeñorG2168
+- Rom_8:16el Espíritu...da testimonio a nuestroG4828
+- Rom_8:32¿cómo no nos dará...él todas las cosas?[[G5483]]
+- Rom_9:1y mi conciencia me da testimonio en elG4828
+- Rom_10:2les doy testimonio de que tienen celo deG3140
+- Rom_11:3Señor, a tus profetas han dado muerteG615
+- Rom_11:8Dios les dio espíritu de estupor, ojosG1325
+- Rom_11:35¿o quién le dio a él primero, para queG4272
+- Rom_12:3digo, pues, por la gracia que me es dadaG1325
+- Rom_12:6dones, según la gracia que nos es dadaG1325
+- Rom_12:20si tu...tuviere hambre, dale de comerG5595
+- Rom_12:20si tuviere sed, dale de beber; puesG4222
+- Rom_14:6para el Señor come, porque da gracias aG2168
+- Rom_14:6para el Señor no come, y da gracias aG2168
+- Rom_14:12cada uno de...dará a Dios cuenta de síG1325
+- Rom_15:5os dé entre vosotros un mismo sentirG1325
+- Rom_15:15por la gracia que de Dios me es dadaG1325
+- Rom_16:4los cuales no sólo yo doy gracias, sinoG2168
+- 1Co_1:4gracias doy a mi Dios...por vosotrosG2168
+- 1Co_1:4por la gracia de Dios que me fue dadaG1325
+- 1Co_1:14doy gracias a Dios de que a ninguno deG2168
+- 1Co_3:2os di a beber leche, y no vianda; porqueG4222
+- 1Co_3:6regué; pero el crecimiento lo ha dado DiosG837
+- 1Co_3:7riega, sino Dios, que da el crecimientoG837
+- 1Co_3:10la gracia de Dios que me ha sido dadaG1325
+- 1Co_7:21esclavo? No te dé cuidado; pero tambiénG3199
+- 1Co_7:25Señor, mas doy mi parecer, como quienG1325
+- 1Co_7:38el que la da en casamiento hace bienG1547
+- 1Co_7:38bien, y el que no la da en...hace mejorG1547
+- 1Co_10:13que dará...con la tentación la salidaG4160
+- 1Co_10:30censurado...aquello de que doy gracias?[[G2168]]
+- 1Co_11:15en lugar de velo le es dado el cabelloG1325
+- 1Co_11:24y habiendo dado gracias, lo partió, yG2168
+- 1Co_12:7a cada uno le es dada la manifestaciónG1325
+- 1Co_12:8a este es dada por el Espíritu palabraG1325
+- 1Co_12:13nos dio a beber de un mismo EspírituG4222
+- 1Co_12:24dando más abundante honor al que leG1325
+- 1Co_13:3bienes para dar de comer a los pobresG3860
+- 1Co_14:7si no dieren distinción de voces, ¿cómoG1325
+- 1Co_14:8y si la trompeta diere sonido inciertoG1325
+- 1Co_14:9si...no dieres palabra bien comprensibleG1325
+- 1Co_14:17a la verdad, bien das gracias, pero elG2168
+- 1Co_14:18doy gracias a Dios que hablo en lenguasG2168
+- 1Co_15:38Dios le da el cuerpo como él quiso, yG1325
+- 1Co_15:57mas gracias sean dadas a Dios, que nosG2168
+- 1Co_15:57que nos da la victoria por medio deG1325
+- 2Co_1:11sean dadas gracias a favor nuestroG2168
+- 2Co_1:22nos ha dado las arras del Espíritu enG1325
+- 2Co_5:5quien nos ha dado las arras del EspírituG1325
+- 2Co_5:12sino os damos ocasión de gloriarnos porG1325
+- 2Co_5:18nos dio el ministerio de la reconciliaciónG1325
+- 2Co_6:3no damos a...ninguna ocasión de tropiezoG1325
+- 2Co_8:1la gracia de Dios que se ha dado a lasG1325
+- 2Co_8:3pues doy testimonio de que con agrado hanG3140
+- 2Co_8:3han dado conforme a sus fuerzas, y aun
+- 2Co_8:5que a sí mismos se dieron...al Señor, yG1325
+- 2Co_8:10en esto doy mi consejo; porque esto osG1325
+- 2Co_9:7cada uno dé como propuso en su corazón
+- 2Co_9:9está escrito: Repartió, dio a los pobresG1325
+- 2Co_9:10el que da semilla al que siembra, y panG2023
+- 2Co_10:8cual el Señor nos dio para edificaciónG1325
+- 2Co_10:13regla que Dios nos ha dado por medidaG3307
+- 2Co_11:20toleráis si alguno os...da de bofetadasG1194
+- 2Co_12:4que no le es dado al hombre expresarG1832
+- 2Co_12:7me fue dado un aguijón en mi carne, unG1325
+- 2Co_13:10la autoridad que el Señor me ha dadoG1325
+- Gál_1:4se dio a sí mismo por nuestros pecadosG1325
+- Gál_2:9reconociendo la gracia que me...sido dadaG1325
+- Gál_2:9nos dieron a mí y a Bernabé la diestraG1325
+- Gál_3:8dio de antemano la buena nueva a AbrahamG4283
+- Gál_3:21porque si la ley dada pudiera vivificarG1325
+- Gál_3:22la promesa...fuese dada a los creyentesG1325
+- Gál_4:15os doy testimonio de que si hubieseisG3140
+- Gál_4:15hubierais sacado...ojos para dármelosG1325
+- Gál_4:24Sinaí, el cual da hijos para esclavitudG1080
+- Gál_4:27regocíjate, oh estéril, tú que no das a luzG5088
+- Efe_1:16no ceso de dar gracias por vosotrosG2168
+- Efe_1:17para que...os dé espíritu de sabiduríaG1325
+- Efe_1:22y lo dio por cabeza sobre...a la iglesiaG1325
+- Efe_2:1os dio vida a vosotros, cuando estabais
+- Efe_2:5nos dio vida juntamente con Cristo porG4806
+- Efe_3:2la gracia de Dios que me fue dada paraG1325
+- Efe_3:5en otras generaciones no se dio a conocerG1107
+- Efe_3:7me ha sido dado según la operación de suG1325
+- Efe_3:8fue dada esta gracia de anunciar entreG1325
+- Efe_3:16que os dé, conforme a la riquezas de suG1325
+- Efe_4:7a cada uno...fue dada la gracia conformeG1325
+- Efe_4:8la cautividad, y dio dones a los hombresG1325
+- Efe_4:27ni deis lugar al diabloG1325
+- Efe_4:29boca...a fin de dar gracias a los oyentesG1325
+- Efe_5:20dando siempre gracias por todo al DiosG2168
+- Efe_6:19me sea dada palabra para dar a conocerG1325
+- Flp_1:3doy gracias a mi Dios siempre de queG2168
+- Flp_2:9dio un nombre que es sobre todo nombreG5483
+- Flp_4:15en razón de dar y recibir, sino vosotrosG1394
+- Col_1:3orando por vosotros, damos graciasG2168
+- Col_1:12dando gracias al Padre que...hizo aptosG2168
+- Col_1:25honrando y dando culto a las criaturasG1325
+- Col_1:27a quienes Dios quiso dar a conocer lasG1107
+- Col_2:13estando muertos en...os dio vida...con élG4806
+- Col_2:19crece con el crecimiento que da Dios
+- Col_3:17dando gracias a Dios Padre por medio deG2168
+- Col_4:3de dar a conocer el misterio de CristoG2980
+- Col_4:13de él doy testimonio de que tiene granG3140
+- 1Ts_1:2damos...gracias a Dios por...vosotrosG2168
+- 1Ts_2:13sin cesar damos gracias a Dios, de queG2168
+- 1Ts_3:6nos dio buenas noticias de vuestra feG2097
+- 1Ts_3:9¿qué acción de gracias podremos dar aG467
+- 1Ts_4:2ya sabéis qué instrucciones os dimos porG1325
+- 1Ts_4:8a Dios, que también nos dio su EspírituG1325
+- 1Ts_5:18dad gracias en todo...esta es la voluntadG2168
+- 2Ts_1:3debemos siempre dar gracias a DiosG2168
+- 2Ts_1:7y a vosotros...daros reposo con nosotrosG1325
+- 2Ts_1:8de fuego, para dar retribución a los queG1325
+- 2Ts_2:13dar siempre gracias a Dios respecto aG2168
+- 2Ts_2:16nos amó y nos dio consolación eternaG1325
+- 2Ts_3:9sino por daros...un ejemplo para queG1325
+- 2Ts_3:16el...Señor de paz os dé siempre paz enG1325
+- 1Ti_1:9que la ley no fue dada para el justoG2749
+- 1Ti_1:12doy gracias al que me fortaleció, aG2192
+- 1Ti_2:6el cual se dio a sí mismo en rescate porG1325
+- 1Ti_2:6de lo cual se dio testimonio a su...tiempoG3142
+- 1Ti_3:3no dado al vino, no pendenciero...no avaroG3943
+- 1Ti_3:8los diáconos...no dados a mucho vino, noG4337
+- 1Ti_4:14el don...en ti, que te fue dado medianteG1325
+- 1Ti_5:14no den al adversario ninguna ocasión deG1325
+- 1Ti_6:13te mando delante de Dios, que da vida aG2227
+- 1Ti_6:13que dio testimonio de la buena profesiónG3140
+- 1Ti_6:17nos da todas las cosas en abundanciaG3930
+- 2Ti_1:3doy gracias a Dios, al cual sirvoG2192
+- 2Ti_1:7porque no nos ha dado Dios espíritu deG1325
+- 2Ti_1:8no te avergüences de dar testimonio deG3142
+- 2Ti_1:9según...gracia que nos fue dada en CristoG1325
+- 2Ti_2:7y el Señor te dé entendimiento en todoG1325
+- 2Ti_4:8la cual me dará el Señor, juez justo, enG591
+- 2Ti_4:17estuvo a mi lado, y me dio fuerzas, paraG1743
+- Tit_1:7no dado al vino, no pendenciero, noG3943
+- Tit_2:14quien se dio a sí mismo por nosotrosG1325
+- Flm_1:4doy gracias a mi Dios...memoria de tiG2168
+- Heb_2:13aquí, yo y los hijos que Dios me dioG1325
+- Heb_4:8si Josué les hubiera dado el reposo, noG2664
+- Heb_4:13de aquel a quien tenemos que dar cuenta
+- Heb_7:2a quien...dio Abraham los diezmos de todoG3307
+- Heb_7:4quien aun Abraham...dio diezmos del botínG1325
+- Heb_7:8de quien nos da testimonio de que viveG3140
+- Heb_7:17da testimonio de él: Tú eres sacerdoteG3140
+- Heb_8:13ha dado por viejo al primero; y lo queG3822
+- Heb_8:13lo que da por viejo...está próximo aG3822
+- Heb_9:8dando el Espíritu Santo a entender conG1213
+- Heb_10:30dijo...yo daré el pago, dice el SeñorG467
+- Heb_11:4dando Dios testimonio de sus ofrendasG3140
+- Heb_11:11y dio a luz aun fuera del tiempo de laG5088
+- Heb_11:22dio mandamiento acerca de sus huesosG1781
+- Heb_12:11después da fruto apacible de justiciaG591
+- Heb_13:17velan...como quienes han de dar cuentaG591
+- Stg_1:5pídala a Dios, el cual da...será dadaG1325
+- Stg_1:15la concupiscencia...da a luz el pecadoG616
+- Stg_2:16pero no les dais las cosas...necesariasG1325
+- Stg_3:12ninguna fuente puede dar agua salada yG4160
+- Stg_4:6pero él da mayor gracia. Por esto diceG1325
+- Stg_4:6Dios resiste...y da gracia a los humildesG1325
+- Stg_5:6habéis condenado y dado muerte al justoG5407
+- Stg_5:18otra vez oró, y el cielo dio lluvia, yG1325
+- 1Pe_1:21le resucitó de...y le ha dado gloriaG1325
+- 1Pe_3:7dando honor a la mujer como a vaso másG632
+- 1Pe_4:5darán cuenta al que está preparado paraG591
+- 1Pe_4:11ministre conforme al poder que Dios daG5524
+- 1Pe_5:5Dios resiste...y da gracia a los humildesG1325
+- 2Pe_1:3nos han sido dadas por su divino poderG1433
+- 2Pe_1:4nos ha dado preciosas...promesas, para queG1433
+- 2Pe_1:16no os hemos dado a conocer el poder yG1107
+- 2Pe_2:21volverse...del santo mandamiento...dadoG3860
+- 2Pe_3:2mandamiento...dado por vuestros apóstoles
+- 2Pe_3:15según la sabiduría que le ha sido dadaG1325
+- 1Jn_3:1mirad cuál amor nos ha dado el PadreG1325
+- 1Jn_3:24sabemos...por el Espíritu que nos ha dadoG1325
+- 1Jn_4:13en que nos ha dado de su EspírituG1325
+- 1Jn_5:6y el Espíritu es el que da testimonioG3140
+- 1Jn_5:7tres son los que dan testimonio en el cieloG3140
+- 1Jn_5:8son los que dan testimonio en la tierraG3140
+- 1Jn_5:10creído en el testimonio que Dios ha dadoG3140
+- 1Jn_5:11que Dios nos ha dado vida eterna; y estaG1325
+- 1Jn_5:16pedirá, y Dios le dará vida; esto es paraG1325
+- 1Jn_5:20nos ha dado entendimiento para conocerG1325
+- 3Jn_1:3dieron testimonio de tu verdad, de cómoG3140
+- 3Jn_1:6los cuales han dado...testimonio de tu amorG3140
+- 3Jn_1:12todos dan testimonio de Demetrio, y aunG3140
+- 3Jn_1:12y también nosotros damos testimonio, yG3140
+- Jud_1:3fe que ha sido una vez dada a los santosG4160
+- Rev_1:1revelación de Jesucristo...Dios le dioG1325
+- Rev_1:2que ha dado testimonio de la palabra deG3140
+- Rev_2:7que venciere, le daré a comer del árbolG1325
+- Rev_2:10fiel...y yo te daré la corona de la vidaG1325
+- Rev_2:17al que venciere, daré a comer del manáG1325
+- Rev_2:17y le daré una piedrecita blanca, y en laG1325
+- Rev_2:21le he dado tiempo para que se arrepientaG1325
+- Rev_2:23os daré a cada uno según vuestras obrasG1325
+- Rev_2:26yo le daré autoridad sobre las nacionesG1325
+- Rev_2:28y le daré la estrella de la mañanaG1325
+- Rev_3:21al que venciere, le daré que se sienteG1325
+- Rev_4:9siempre que...dan gloria y honra y acciónG1325
+- Rev_6:2le fue dada una corona, y salió venciendoG1325
+- Rev_6:4dado poder de quitar de la tierra la pazG1325
+- Rev_6:4se matasen...y se les dio una gran espadaG1325
+- Rev_6:8fue dada potestad sobre la cuarta parteG1325
+- Rev_6:11se les dieron vestiduras blancas, y seG1325
+- Rev_7:2a quienes se les había dado el poder deG1325
+- Rev_8:2ángeles...y se les dieron siete trompetasG1325
+- Rev_8:3y se le dio mucho incienso para añadirloG1325
+- Rev_9:1y se le dio la llave del pozo del abismoG1325
+- Rev_9:3se les dio poder, como...los escorpionesG1325
+- Rev_9:5les fue dado, no que los matasen, sinoG1325
+- Rev_10:9fui...diciéndole que me diese el libritoG1325
+- Rev_11:1fue dada una caña semejante a una varaG1325
+- Rev_11:3daré a mis dos testigos que profeticenG1325
+- Rev_11:13demás...dieron gloria al Dios del cieloG1325
+- Rev_11:17te damos gracias...Dios TodopoderosoG2168
+- Rev_11:18y de dar el galardón a tus siervos losG1325
+- Rev_12:4a la mujer que estaba para dar a luz, aG5088
+- Rev_12:5dio a luz un hijo varón, que regirá conG5088
+- Rev_12:13persiguió a la...que había dado a luzG5088
+- Rev_12:14se le dieron a la mujer las dos alas deG1325
+- Rev_13:2y el dragón le dio su poder y su tronoG1325
+- Rev_13:4adoraron al...que habla dado autoridadG1325
+- Rev_13:5se le dio boca que...y se le d autoridadG1325
+- Rev_13:7dio autoridad sobre toda tribu, puebloG1325
+- Rev_14:7temed a Dios, y dadle gloria, porque laG1325
+- Rev_15:7dio a los siete ángeles siete copas deG1325
+- Rev_16:6tú les has dado a beber sangre; pues loG1325
+- Rev_16:8al cual fue dado quemar a los hombresG1325
+- Rev_16:9no se arrepintieron para darle gloriaG1325
+- Rev_16:19darle el cáliz del vino del ardor deG1325
+- Rev_17:17y dar su reino a la bestia, hasta queG1325
+- Rev_18:6dadle a ella como ella os ha dado, yG591
+- Rev_18:7dadle de tormento y llanto porque diceG1325
+- Rev_18:18dieron voces diciendo: ¿Qué ciudad eraG2896
+- Rev_18:19y dieron voces...diciendo: ¡Ay, ay de laG2896
+- Rev_19:7alegrémonos y démosle gloria porque hanG1325
+- Rev_21:6daré...de la fuente del agua de la vidaG1325
+- Rev_22:2dando cada mes su fruto; y las hojas delG591
+- Rev_22:16enviado mi ángel para daros testimonioG3140

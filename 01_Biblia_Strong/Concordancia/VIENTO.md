@@ -1,0 +1,150 @@
+---
+tipo: concordancia
+palabra: VIENTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VIENTO
+
+- Gén_8:1e hizo pasar Dios un v sobre la tierraH7307
+- Gén_41:6, Gén_41:23siete espigas menudas y abatidas del v
+- Gén_41:27siete espigas...marchitas del v solano
+- Éxo_10:13Jehová trajo un v oriental sobre elH7307
+- Éxo_10:13al venir la mañana el v oriental trajoH7307
+- Éxo_10:19Jehová trajo un fortísimo v occidentalH7307
+- Éxo_14:21el mar se retirase por recio v orientalH7307
+- Éxo_15:10soplaste con tu v; los cubrió el marH7307
+- Núm_11:31vino un v...trajo codornices del marH7307
+- 2Sa_22:11cabalgó...voló sobre las alas del vH7307
+- 1Re_18:45cielos se oscurecieron con nubes y vH7307
+- 1Re_19:11un poderoso v...Jehová no estaba en el vH7307
+- 1Re_19:11y tras el v un terremoto; pero JehováH7307
+- 2Re_3:17no veréis v, ni veréis lluvia; peroH7307
+- Job_1:19un gran v vino del lado del desiertoH7307
+- Job_6:26los discursos de un...que son como el v?[[H7307]]
+- Job_8:2palabras de tu boca...como v impetuoso?[[H7307]]
+- Job_15:2sabio...llenará su vientre de v solano?[[H7307]]
+- Job_21:18como la paja delante del v, y como elH7307
+- Job_28:25al dar paso al v, y poner las aguas porH7307
+- Job_30:15sobre mí; combatieron como v mi honorH7307
+- Job_30:22sobre el v, me hiciste cabalgar en élH7307
+- Job_37:9torbellino, y el frío de los v del norte
+- Job_37:17él sosiega la tierra con el v del sur?
+- Job_37:21luz...luego que pasa el v y los limpiaH7307
+- Job_38:24se esparce el v solano sobre la tierra?
+- Job_41:16se junta con el...v no entra entre ellosH7307
+- Sal_1:4que son como el tamo que arrebata el vH7307
+- Sal_11:6y v abrasador será la porción del cálizH7307
+- Sal_18:10cabalgó...y voló...sobre las alas del vH7307
+- Sal_18:42y los molí como polvo delante del vH7307
+- Sal_35:5sean como el tamo delante del v, y elH7307
+- Sal_48:7con v solano quiebras tú las naves deH7307
+- Sal_55:8apresuraría a escapar del v borrascosoH7307
+- Sal_78:26cielo, y trajo con su poder el v sur
+- Sal_83:13ponlos...como hojarascas delante del vH7307
+- Sal_103:16que pasó el v por ella, y pereció, yH7307
+- Sal_104:3nubes...que anda sobre las alas del vH7307
+- Sal_104:4el que hace a los v sus mensajeros, yH7307
+- Sal_107:25hizo levantar un v tempestuoso, queH7307
+- Sal_135:7hace los...saca de sus depósitos los vH7307
+- Sal_147:18soplará su v, y fluirán las aguasH7307
+- Sal_148:8v de tempestad que ejecuta su palabraH7307
+- Pro_11:29el que turba su casa heredará v; y elH7307
+- Pro_25:14nubes y v sin lluvia, así es el hombreH7307
+- Pro_25:23el v del norte ahuyenta la lluvia, y elH7307
+- Pro_27:16pretender contenerla es...refrenar el vH7307
+- Pro_30:4¿quién encerró los v en sus puños...atóH7307
+- Ecl_1:6v tira hacia el sur, y rodea al norteH7307
+- Ecl_1:6va...y a sus giros vuelve el v de nuevoH7307
+- Ecl_11:4el que al v observa, no sembrará: y elH7307
+- Ecl_11:5tú no sabes cuál es el camino del v, oH7307
+- Isa_7:2como...árboles del monte a causa del vH7307
+- Isa_17:13el tamo de los montes delante del v, yH7307
+- Isa_26:18tuvimos dolores de parto, dimos a luz vH7307
+- Isa_27:8los remueve con su recio v en el día delH7307
+- Isa_32:2escondedero contra el v, y como refugioH7307
+- Isa_40:7flor se marchita...el v de Jehová soplóH7307
+- Isa_41:16y los llevará el v, y los esparcirá elH7307
+- Isa_41:29v y vanidad son sus imágenes fundidasH7307
+- Isa_57:13a todos ellos llevará el v, un soplo losH7307
+- Isa_64:6y nuestras maldades nos llevaron como vH7307
+- Jer_2:24asna montés...en su ardor olfatea el vH7307
+- Jer_4:11v seco de las alturas del desierto vinoH7307
+- Jer_4:12v más vehemente que este vendrá a míH7307
+- Jer_5:13los profetas serán como v porque no hayH7307
+- Jer_10:13la lluvia, y saca el v de sus depósitosH7307
+- Jer_13:24los esparciré al v del desierto, comoH7307
+- Jer_14:6los asnos...aspiraban el v como chacalesH7307
+- Jer_18:17como v solano los esparciré delante delH7307
+- Jer_22:22a todos tus pastores pastoreará el vH7307
+- Jer_49:32y los esparciré por todos los v...ruinaH7307
+- Jer_49:36traeré sobre Elam los cuatro v de losH7307
+- Jer_49:36y los aventaré a todos estos v; y noH7307
+- Jer_51:1levanto un v destruidor contra BabiloniaH7307
+- Jer_51:16él hace relámpagos...y saca el v de susH7307
+- Eze_1:4y miré, y he aquí venía del norte un v
+- Eze_5:2una tercera parte esparcirás al v, y yoH7307
+- Eze_5:10y esparciré a todos los v todo lo queH7307
+- Eze_5:12tercera parte esparciré a todos los vH7307
+- Eze_12:14sus tropas, esparciré a todos los vH7307
+- Eze_13:11hagan caer, y v tempestuoso la romperáH7307
+- Eze_13:13que la rompa v tempestuoso con mi iraH7307
+- Eze_17:10¿no se secará...cuando el v...la toque?[[H7307]]
+- Eze_17:21queden serán esparcidos a todos los vH7307
+- Eze_19:12el v solano secó su fruto; sus ramasH7307
+- Eze_27:26v solano te quebrantó en medio de losH7307
+- Eze_37:9espíritu, ven de los cuatro v, y soplaH7307
+- Dan_2:35los llevó el v sin que de ellos quedaraH7308
+- Dan_7:2que los cuatro v del cielo combatían enH7308
+- Dan_8:8salieron...hacia los cuatro v del cieloH7307
+- Dan_11:4repartido hacia los cuatro v del cieloH7307
+- Ose_4:19el v los ató en sus alas, y de susH7307
+- Ose_8:7porque sembraron v, y torbellino segaranH7307
+- Ose_12:1Efraín...apacienta de v, y sigue al solanoH7307
+- Ose_13:15aunque...vendrá el solano, v de JehováH7307
+- Amó_4:9os herí con v solano y con oruga; laH7307
+- Amó_4:13el que forma los montes, y crea el vH7307
+- Jon_1:4Jehová hizo levantar un gran v en elH7307
+- Jon_4:8preparó Dios un recio v solano, y el solH7307
+- Hag_2:17os herí con v solano, con tizoncilloH7711
+- Zac_2:6por los cuatro v de...cielos os esparcíH7307
+- Zac_5:9traían v en sus alas, y tenían alas comoH7307
+- Zac_6:5son los cuatro v de los cielos, que salenH7307
+- Mat_7:25soplaron v, y golpearon contra...casaG417
+- Mat_7:27soplaron v, y dieron con ímpetu contraG417
+- Mat_8:26levantándose, reprendió a los v y al marG417
+- Mat_8:27éste, que aun los v y el mar le obedecen?[[G417]]
+- Mat_11:7a ver al...¿Una caña sacudida por el v?[[G417]]
+- Mat_14:24por las olas; porque el v era contrarioG417
+- Mat_14:30al ver el...v, tuvo miedo; y comenzandoG417
+- Mat_14:32cuando ellos subieron en...se calmó el vG417
+- Mat_24:31juntarán a...escogidos, de los cuatro vG417
+- Mar_4:37se levantó una gran tempestad de v, yG417
+- Mar_4:39y levantándose, reprendió al v, y dijoG417
+- Mar_4:39y cesó el v, y se hizo grande bonanzaG417
+- Mar_4:41éste, que aun el v y el mar le obedecen?[[G417]]
+- Mar_6:48fatiga, porque el v les era contrarioG417
+- Mar_6:51y se calmó el v; y ellos se asombraronG417
+- Mar_13:27juntará a...escogidos de los cuatro vG417
+- Luc_7:24de Juan...¿Una caña sacudida por el v?[[G417]]
+- Luc_8:23se desencadenó una tempestad de v en elG417
+- Luc_8:24reprendió al v y a las olas; y cesaronG417
+- Luc_8:25que aun a los v y a las aguas manda, yG417
+- Luc_12:55cuando sopla el v del sur, decís: HaráG417
+- Jua_3:8el v sopla de donde quiere, y oyes suG4151
+- Jua_6:18y se levantaba el mar con un gran v queG417
+- Hec_2:2vino...un estruendo como de un v recioG4157
+- Hec_27:4de Chipre, porque los v eran contrariosG417
+- Hec_27:7nos impedía el v, navegamos a sotaventoG417
+- Hec_27:14dio contra la nave un v huracanadoG417
+- Hec_27:15la nave, y no pudiendo poner proa al vG417
+- Hec_27:40izada al v la vela de proa, enfilaronG4154
+- Hec_28:13soplando el v sur, llegamos...a Puteoli
+- Efe_4:14llevados por doquiera de todo v deG417
+- Stg_1:6que es arrastrada por el v y echada deG416
+- Stg_3:4las naves...llevadas de impetuosos v, sonG417
+- Jud_1:12nubes sin agua, llevadas de...por los vG417
+- Rev_6:13la higuera...sacudida por un fuerte vG417
+- Rev_7:1que detenían los cuatro v de la tierraG417
+- Rev_7:1para que no soplase v...sobre la tierraG417

@@ -1,0 +1,94 @@
+---
+tipo: concordancia
+palabra: JOSAFAT
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JOSAFAT
+
+- 1 Cronista de David y Salomón, 2Sa_8:16; 2Sa_20:24; 1Re 4:3; 1Cr_18:15H3092
+- 2 Funcionario del rey Salomón, 1Re_4:17H3092
+- 3 Rey de Judá, hijo y sucesor de Asa
+- 1Re_15:24Asa...y reinó en su lugar J su hijoH3092
+- 1Re_22:2J rey de Judá descendió al...de IsraelH3092
+- 1Re_22:4y dijo a J: ¿Quieres venir conmigo aH3092
+- 1Re_22:4y J respondió al rey...Yo soy como túH3092
+- 1Re_22:5dijo...J al rey de Israel: Yo te ruegoH3092
+- 1Re_22:7y dijo J: ¿Hay aún aquí algún profetaH3092
+- 1Re_22:8rey de Israel respondió a J: Aún hayH3092
+- 1Re_22:8nunca...Y J dijo: No hable el rey asíH3092
+- 1Re_22:10J rey de Judá estaban sentados cadaH3092
+- 1Re_22:18el rey de...dijo a J: ¿No te lo habíaH3092
+- 1Re_22:29subió...el rey de Israel con J rey deH3092
+- 1Re_22:30rey de Israel...a J: Yo me disfrazaréH3092
+- 1Re_22:32los capitanes de...vieron a J, dijeronH3092
+- 1Re_22:32éste es el rey de...mas el rey J gritóH3092
+- 1Re_22:41J hijo de...comenzó a reinar sobre JudáH3092
+- 1Re_22:42J de 35 años cuando comenzó a reinarH3092
+- 1Re_22:44y J hizo paz con el rey de IsraelH3092
+- 1Re_22:45los demás hechos de J, y sus hazañasH3092
+- 1Re_22:48J había hecho naves de Tarsis...a OfirH3092
+- 1Re_22:49Ocozías...dijo a J: Vayan mis siervosH3092
+- 1Re_22:49vayan mis siervos con...Mas J no quisoH3092
+- 1Re_22:50durmió J con sus padres...fue sepultadoH3092
+- 1Re_22:51Ocozías hijo...comenzó...el año 17 de JH3092
+- 2Re_1:17en el segundo año de Joram hijo de JH3092
+- 2Re_3:1Joram...comenzó a reinar...el año 18 de JH3092
+- 2Re_3:7a decir a J rey de Judá: El rey de MoabH3092
+- 2Re_3:11J dijo: ¿No hay aquí profeta de JehováH3092
+- 2Re_3:12J dijo: Este tendrá palabra de JehováH3092
+- 2Re_3:12descendieron a él...J, y el rey de EdomH3092
+- 2Re_3:14que si no tuviese respeto al rostro de JH3092
+- 2Re_8:16siendo J rey de Judá, comenzó a reinarH3092
+- 2Re_8:16comenzó a reinar Joram hijo de J, reyH3092
+- 2Re_12:18las ofrendas que habían dedicado J yH3092
+- 1Cr_3:10cual fue hijo Asa, cuyo hijo fue JH3092
+- 2Cr_17:1y reinó en su lugar J su hijo, elH3092
+- 2Cr_17:3y Jehová estuvo con J, porque anduvo enH3092
+- 2Cr_17:5confirmó...y todo Judá dio a J presentesH3092
+- 2Cr_17:10pavor...y no osaron hacer guerra contra JH3092
+- 2Cr_17:11traían...Presentes a J, y tributos deH3092
+- 2Cr_17:12iba, pues, J engrandeciéndose muchoH3092
+- 2Cr_18:1tenía, pues, J riquezas y gloria enH3092
+- 2Cr_18:3y dijo Acab...a J rey de Judá: ¿QuieresH3092
+- 2Cr_18:4dijo J al rey de Israel: Te ruego queH3092
+- 2Cr_18:6J dijo: ¿Hay aún aquí algún profeta deH3092
+- 2Cr_18:7respondió a J: Aún hay aquí un hombreH3092
+- 2Cr_18:7y respondió J: No hable así el reyH3092
+- 2Cr_18:9y J rey de Judá estaban sentados cadaH3092
+- 2Cr_18:17el rey de...dijo a J: ¿No te había yoH3092
+- 2Cr_18:28subieron...y J rey de Judá, a Ramot deH3092
+- 2Cr_18:29dijo el rey de...a J: Yo me disfrazaréH3092
+- 2Cr_18:31cuando...vieron a J, dijeron: Este esH3092
+- 2Cr_18:31J clamó, y Jehová...y los apartó...de élH3092
+- 2Cr_19:1J rey de Judá volvió en paz a su casaH3092
+- 2Cr_19:2dijo al rey J: ¿Al impío das ayuda, yH3092
+- 2Cr_19:4habitó...J en Jerusalén...salía al puebloH3092
+- 2Cr_19:8puso...J en Jerusalén...de los levitas yH3092
+- 2Cr_20:1de Amón...vinieron contra J a la guerraH3092
+- 2Cr_20:2y dieron aviso a J, diciendo: Contra tiH3092
+- 2Cr_20:3J humilló su rostro para consultar aH3092
+- 2Cr_20:5J se puso en pie en la asamblea de JudáH3092
+- 2Cr_20:15oíd, Judá...y tú, rey J...Jehová os diceH3092
+- 2Cr_20:18entonces J se inclinó rostro a tierraH3092
+- 2Cr_20:20J, estando en pie, dijo: Oídme, JudáH3092
+- 2Cr_20:25entonces J y su pueblo a despojarlosH3092
+- 2Cr_20:27J a la cabeza de ellos, volvieron paraH3092
+- 2Cr_20:30el reino de J tuvo paz, porque su DiosH3092
+- 2Cr_20:31así reinó J sobre Judá; de 35 años eraH3092
+- 2Cr_20:34hechos de J, primeros y postreros, heH3092
+- 2Cr_20:35J rey de...trabó amistad con Ocozías reyH3092
+- 2Cr_20:37Eliezer...profetizó contra J, diciendoH3092
+- 2Cr_21:1durmió J con sus padres, y lo sepultaronH3092
+- 2Cr_21:2quien tuvo por hermanos, hijos de J, aH3092
+- 2Cr_21:2todos éstos fueron hijos de J rey deH3092
+- 2Cr_21:12no has andado en los caminos de J, niH3092
+- 2Cr_22:9es hijo de J, quien de todo su corazónH3092
+- Mat_1:8Asa engendró a J, J a Joram, y JoramG2498
+- 4 Padre de Jehú rey de Israel, 2Re_9:2, 2Re_9:14G3092
+- 5 Uno de los 30 valientes de David, 1Cr_11:43G3146
+- 6 Sacerdote contemporáneo de David, 1Cr_15:24G3046
+- 7 Valle no identificado
+- Joe_3:2y las haré descender al valle de J, yH3092
+- Joe_3:12naciones...suban al valle de J; porqueH3092

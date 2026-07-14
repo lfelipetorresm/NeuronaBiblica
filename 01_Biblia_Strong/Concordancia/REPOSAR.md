@@ -1,0 +1,73 @@
+---
+tipo: concordancia
+palabra: REPOSAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# REPOSAR
+
+- Gén_2:2Dios...reposó el día séptimo de toda laH7673
+- Gén_2:3porque en él reposó de toda la obra queH7673
+- Gén_8:4reposó el arca en el mes séptimo, a losH5117
+- Éxo_16:30así el pueblo reposó el séptimo díaH7673
+- Éxo_20:11reposó en el séptimo día; por tantoH5117
+- Éxo_23:12y al séptimo día reposarás, para queH7673
+- Éxo_24:16gloria de Jehová reposó sobre el monteH7931
+- Éxo_31:17seis...y en el séptimo día cesó y reposóH7673
+- Lev_26:35descansará por lo que no reposó en losH7673
+- Núm_11:26sobre los cuales...reposó el espírituH5117
+- Núm_22:8les dijo: Reposad aquí esta noche, y yoH3885
+- Núm_22:19os ruego...que reposéis aquí esta nocheH3427
+- Deu_33:20como león reposa, y arrebata brazo yH7931
+- Jos_3:1vinieron hasta el Jordán, y reposaronH3885
+- Jue_3:11y reposó la tierra cuarenta añosH8252
+- Jue_3:30Israel; y reposó la tierra ochenta añosH8252
+- Jue_5:31fuerza...Y la tierra reposó cuarenta añosH8252
+- Jue_8:28y reposó la tierra cuarenta años en losH8252
+- 2Re_2:15espíritu de Elías reposó sobre ElíseoH5117
+- 1Cr_28:2la cual reposara el arca del pactoH4496
+- 2Cr_36:21el tiempo de su asolamiento reposóH7676
+- Esd_8:32llegamos...y reposamos allí tres díasH3427
+- Est_9:17reposaron en el día catorce del mismoH5118
+- Est_9:18el 15 del mismo reposaron y lo hicieronH5118
+- Job_3:5repose sobre él nublado que lo hagaH1350
+- Job_3:13ahora estaría yo muerto, y reposaríaH5117
+- Job_3:18también reposan los cautivos; no oyen laH7599
+- Job_30:17y los dolores que me roen no reposanH7901
+- Job_30:27mis entrañas se agitan, y no reposanH1826
+- Sal_16:9carne también reposará confiadamenteH7931
+- Sal_62:5en Dios solamente reposa, porque de élH1826
+- Sal_88:7sobre mí reposa tu ira...me has afligidoH5564
+- Sal_125:3no reposará la vara de la impiedad sobreH5117
+- Sal_127:2por demás es...y vayáis tarde a reposarH3427
+- Pro_14:33el corazón del...reposa la sabiduríaH5117
+- Ecl_2:23de noche su corazón no reposa...Esto
+- Ecl_7:9el enojo reposa en el seno de los neciosH5117
+- Ecl_11:6y a la tarde no dejes reposar tu manoH3240
+- Cnt_1:13de mirra, que reposa entre mis pechosH3885
+- Isa_7:4dile: Guarda, y repósate; no temas, niH8252
+- Isa_10:32aún vendrá día cuando reposará en NobH5975
+- Isa_11:2reposará sobre él el Espíritu de JehováH5117
+- Isa_14:1lo hará reposar en su tierra; y a elloH3240
+- Isa_25:10mano de Jehová reposará en este monteH5117
+- Isa_62:6que os acordáis de Jehová, no reposéisH1824
+- Jer_30:23sobre la cabeza de...impíos reposará
+- Jer_47:6¿hasta cuándo reposarás? Vuelve...reposaH8252
+- Jer_47:7¿cómo reposarás...Jehová te ha enviadoH8252
+- Jer_50:34abogará...para hacer reposar la tierraH7280
+- Eze_21:17y haré reposar mi ira. Yo Jehová heH5117
+- Eze_37:14y os haré reposar sobre vuestra tierra
+- Eze_44:30repose la bendición en vuestras casasH5117
+- Dan_12:13y tú irás hasta el fin, y reposarásH5117
+- Amó_6:4duermen en...reposan sobre sus lechosH5628
+- Nah_3:18reposaron tus valientes; tu puebloH7931
+- Sof_1:12castigaré a los hombres que reposanH7087
+- Zac_6:8mira...hicieron reposar mi Espíritu enH5117
+- Luc_10:6vuestra paz reposará, sobre él; y si noG1879
+- Luc_12:19años; repósate, come, bebe, regocíjateG373
+- Jua_11:13pensaron que hablaba del reposar delG2681
+- 2Co_12:9repose sobre mí el poder de CristoG1981
+- Heb_4:4reposó Dios de todas sus obras en elG2664
+- Heb_4:10ha reposado de sus obras, como Dios deG2663
+- 1Pe_4:14el glorioso Espíritu de Dios reposaG373

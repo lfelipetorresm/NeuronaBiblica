@@ -1,0 +1,108 @@
+---
+tipo: concordancia
+palabra: SEPULTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SEPULTAR
+
+- Gén_15:15paz, y serás sepultado en buena vejezH6912
+- Gén_23:4y sepultaré mi muerta de delante de míH6913
+- Gén_23:6en lo mejor de...sepulcros sepulta a tuH6912
+- Gén_23:8voluntad de que yo sepulte mi muerta deH6912
+- Gén_23:11la cueva...te la doy; sepulta tu muertaH6912
+- Gén_23:13tómalo...y sepultaré en ella mi muertaH6912
+- Gén_23:19sepultó Abraham a Sara su mujer en laH6912
+- Gén_25:9lo sepultaron Isaac e Ismael sus hijosH6912
+- Gén_25:10allí fue sepultado Abraham, y Sara suH6912
+- Gén_35:8murió Débora...y fue sepultada al pie deH6912
+- Gén_35:19y fue sepultada en el camino de EfrataH6912
+- Gén_35:29y lo sepultaron Esaú y Jacob sus hijosH6912
+- Gén_47:30me sepultarás en el sepulcro de ellosH6912
+- Gén_48:7la sepulté allí en el camino de EfrataH6912
+- Gén_49:29sepultadme con mis padres en la cuevaH6912
+- Gén_49:31allí sepultaron a Abraham...s a Isaac yH6912
+- Gén_49:31a Rebeca...allí también sepulté yo a LeaH6912
+- Gén_50:5me sepultarás; ruego, pues, que vaya yoH6912
+- Gén_50:5que vaya yo ahora y sepulte a mi padreH6912
+- Gén_50:6sepulta a tu padre, como él te hizo jurarH6912
+- Gén_50:7José subió para sepultar a su padreH6912
+- Gén_50:13lo sepultaron en la cueva del campo deH6912
+- Gén_50:14los que subieron con él a sepultar a suH6912
+- Gén_50:14volvió...después que lo hubo sepultadoH6912
+- Núm_11:34allí sepultaron al pueblo codiciosoH6912
+- Núm_20:1allí murió María, y allí fue sepultadaH6912
+- Deu_10:6murió Aarón, y allí fue sepultado, yH6912
+- Jos_24:30y le sepultaron en su heredad enH6912
+- Jue_2:9sepultaron en su heredad...Timnat-seraH6912
+- Jue_8:32fue sepultado en el sepulcro de su padreH6912
+- Jue_10:2juzgó...murió, y fue sepultado en SamirH6912
+- Jue_10:5y murió Jair y fue sepultado en CamónH6912
+- Jue_12:7y fue sepultado en una de las ciudadesH6912
+- Jue_12:10murió Ibzán, y fue sepultado en BelénH6912
+- Jue_12:12murió Elón...y fue sepultado en AjalónH6912
+- Jue_12:15murió Abdón...fue sepultado en PiratónH6912
+- Jue_16:31le sepultaron entre Zora y Estaol, enH6912
+- Rut_1:17donde tú murieres...allí seré sepultadaH6912
+- 1Sa_25:1Samuel...lo sepultaron en su casa enH6912
+- 1Sa_28:3le habían sepultado en Ramá, su ciudadH6912
+- 1Sa_31:13sepultaron debajo de un árbol en JabesH6912
+- 2Sa_2:4de Jabes de Galaad...sepultaron a SaúlH6912
+- 2Sa_2:32a Asael, y lo sepultaron en el sepulcroH6912
+- 2Sa_3:32sepultaron a Abner en Hebrón; y...lloróH6912
+- 2Sa_17:23sepultado en el sepulcro de su padreH6912
+- 2Sa_21:14sepultaron los huesos de Saúl y los deH6912
+- 1Re_2:10durmió David con sus...y fue sepultadoH6912
+- 1Re_2:34fue sepultado en su casa en el desiertoH6912
+- 1Re_11:43fue sepultado en la ciudad de su padreH6912
+- 1Re_13:31sepulcro en que está sepultado el varónH6912
+- 1Re_14:13los de Jeroboam, sólo él será sepultadoH6912
+- 1Re_14:31sepultado con sus padres en la ciudadH6912
+- 1Re_15:8y lo sepultaron en la ciudad de DavidH6912
+- 1Re_15:24y fue sepultado...en la ciudad de DavidH6912
+- 1Re_16:6fue sepultado en Tirsa, y reinó en...ElaH6912
+- 1Re_16:28Omri durmió...fue sepultado en SamariaH6912
+- 1Re_22:37murió...y sepultaron al rey en SamariaH6912
+- 1Re_22:50y fue sepultado...en la ciudad de DavidH6912
+- 2Re_8:24fue sepultado...en la ciudad de DavidH6912
+- 2Re_9:10la comerán...y no habrá quien la sepulteH6912
+- 2Re_9:28y allá le sepultaron con sus padres, enH6912
+- 2Re_9:34ahora...sepultadla, pues es hija de reyH6912
+- 2Re_9:35pero cuando fueron para sepultarla, noH6912
+- 2Re_10:35durmió Jehú...lo sepultaron en SamariaH6912
+- 2Re_12:21sepultaron con sus padres en la ciudadH6912
+- 2Re_13:9durmió Joacaz...lo sepultaron en SamariaH6912
+- 2Re_13:13Joás fue sepultado en Samaria con losH6912
+- 2Re_13:20murió Eliseo, y lo sepultaron...EntradoH6912
+- 2Re_13:21que al sepultar unos a un hombre...vieronH6912
+- 2Re_14:16durmió Joás...y fue sepultado en SamariaH6912
+- 2Re_14:20sepultaron en Jerusalén con sus padresH6912
+- 2Re_15:7y lo sepultaron...en la ciudad de DavidH6912
+- 2Re_15:38; 2Re_16:20sepultado...en la ciudad de DavidH6912
+- 2Re_21:18durmió Manasés...y fue sepultado en elH6912
+- 2Re_21:26sepultado en su sepulcro en el huertoH6912
+- 2Re_23:30carro...y lo sepultaron en su sepulcroH6912
+- 2Cr_9:31; 2Cr_21:1, 2Cr_21:20; 2Cr_24:16, 2Cr_24:25; 2Cr_27:9lo sepultaron en la ciudad de DavidH6912
+- 2Cr_12:16; 2Cr_14:1sepultado en la ciudad de DavidH6912
+- 2Cr_16:14y lo sepultaron en los sepulcros que élH6912
+- 2Cr_25:28; 2Cr_26:23y lo sepultaron con sus padresH6912
+- 2Cr_28:27lo sepultaron en la ciudad de JerusalénH6912
+- 2Cr_32:33Ezequías...lo sepultaron en el lugar másH6912
+- 2Cr_33:20durmió Manasés...sepultaron en su casaH6912
+- 2Cr_35:24lo sepultaron en los sepulcros de susH6912
+- Job_27:15quedaren, en muerte serán sepultadosH6912
+- Job_30:24clamarán los sepultados...quebrantaré?
+- Ecl_8:10visto...inicuos sepultados con honraH6912
+- Isa_50:11vendrá...en dolor seréis sepultados
+- Miq_7:19él...sepultará nuestras iniquidades, yH3533
+- Luc_16:22también el rico, y fue sepultadoG2290
+- Jua_19:40costumbre sepultar entre los judíosG1779
+- Hec_2:29murió y fue sepultado, y su sepulcroG2290
+- Hec_5:6envolvieron, y sacándolo, lo sepultaronG2290
+- Hec_5:9los pies de los que han sepultado a tuG2290
+- Hec_5:10la sacaron, y la sepultaron junto a suG2290
+- Rom_6:4sepultados...con él para muerte por elG4916
+- 1Co_15:4que fue sepultado, y que resucitó alG2290
+- Col_2:12sepultados con él en el bautismo, enG2990
+- Rev_11:9y no permitirán que sean sepultadosG3418

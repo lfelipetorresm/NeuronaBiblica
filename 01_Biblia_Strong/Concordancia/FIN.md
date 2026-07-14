@@ -1,0 +1,153 @@
+---
+tipo: concordancia
+palabra: FIN
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# FIN
+
+- Gén_6:13a Noé: He decidido el f de todo serH7093
+- Gén_49:19Gad, ejército lo...mas él acometerá al fH6119
+- Núm_24:20a Amalec...al f perecerá para siempreH319
+- Deu_11:12desde el principio del año hasta el fH319
+- Deu_14:28al f de cada tres años sacarás todo elH7097
+- Deu_17:16a Egipto con el f de aumentar caballosH4616
+- Deu_31:10al f de cada siete años, en el año deH7093
+- Deu_32:20esconderé...rostro, veré cuál será su fH319
+- Deu_32:29se dieran cuenta del f que les esperaH319
+- Deu_33:17acorneará a...hasta los f de la tierraH657
+- 1Sa_3:12yo cumpliré contra Elí...hasta el fH3615
+- 1Sa_27:1al f seré muerto algún día por...de Saúl
+- 2Sa_14:26se cortaba el cabello...f de cada añoH3117
+- Est_9:31para conmemorar el f de los ayunos
+- Job_6:11cuál mi f...que tenga aún paciencia?[[H7093]]
+- Job_16:3¿tendrán f las palabras vacías? ¿0 quéH7093
+- Job_18:2¿cuándo pondréis f a las palabras?[[H7078]]
+- Job_19:25yo sé...al f se levantará sobre el polvoH314
+- Job_22:5tu malicia...y tus maldades no tienen fH7093
+- Job_26:10hasta el f de la luz y las tinieblasH8503
+- Job_28:24él mira hasta los f de la tierra, y veH7098
+- Job_37:3cielos...y su luz hasta los f de la tierraH3671
+- Job_38:13para que ocupe los f de la tierra, yH3671
+- Sal_39:4hazme saber, Jehová, mi f, y cuántaH7093
+- Sal_46:9hace cesar las guerras hasta los f de laH7097
+- Sal_48:10así es tu loor hasta los f de la tierraH7099
+- Sal_59:13gobierna en...hasta los f de la tierraH657
+- Sal_65:8habitantes de los f de la tierra temenH7098
+- Sal_73:17entrando en el...comprendí el f de ellosH319
+- Sal_119:33estatutos, y lo guardaré hasta el fH6118
+- Sal_119:96a toda perfección he visto f; amplioH7093
+- Sal_119:112cumplir tus estatutos...hasta el fH6118
+- Pro_5:4su f es amargo como el ajenjo, agudoH319
+- Pro_14:12; Pro_16:25pero su f es camino de muerteH319
+- Pro_18:18suerte pone f a los pleitos, y decideH7673
+- Pro_23:18hay f, y tu esperanza no será cortadaH319
+- Pro_23:32al f como serpiente morderá, y comoH319
+- Pro_24:14y al f tu esperanza no será cortadaH319
+- Pro_24:20porque para el malo no habrá buen fH319
+- Pro_25:8sea que no sepas qué hacer al f, despuésH319
+- Pro_29:11su ira, mas el sabio al f la sosiegaH268
+- Ecl_3:11a entender la...el principio hasta el fH5490
+- Ecl_4:16no tenía f la muchedumbre del pueblo queH7093
+- Ecl_7:2aquello es el f de todos los hombres, yH5490
+- Ecl_7:8mejor...el f del negocio que su principioH319
+- Ecl_10:13y el f de su charla, nocivo desvaríoH319
+- Ecl_12:12no hay f de hacer muchos libros; y elH7093
+- Ecl_12:13el f de todo el discurso oído es esteH5490
+- Isa_2:7de plata y oro, sus tesoros no tienen fH7097
+- Isa_7:18la mosca que está en el f de los ríos deH7097
+- Isa_9:1pues al f llenará de gloria el camino delH314
+- Isa_16:4el devastador tendrá f, el pisoteadorH656
+- Isa_23:17acontecerá que al f de los setenta añosH7093
+- Isa_26:11verán al f, y se avergonzarán los que
+- Isa_42:10alabanza desde el f de la tierra; losH7097
+- Jer_1:3le vino...hasta el f del año undécimoH8552
+- Jer_5:31¿qué, pues, haréis cuando llegue el f?[[H319]]
+- Jer_12:4porque dijeron: No verá Dios nuestro fH319
+- Jer_25:31llegará el estruendo hasta el f de laH7097
+- Jer_25:32tempestad se levantará de los f de laH3411
+- Jer_29:11de paz...para datos el f que esperáisH319
+- Jer_30:24en el f de los días entenderéis estoH319
+- Jer_31:8y los reuniré de los f de la tierra, yH3411
+- Jer_51:13venido tu f, la medida de tu codiciaH7093
+- Lam_1:9su inmundicia...y no se acordó de su fH319
+- Lam_4:18se acercó nuestro f, se...llegó nuestro fH7093
+- Eze_7:2f, el f viene sobre los...de la tierraH7093
+- Eze_7:3será el f sobre ti, y enviaré sobre tiH7093
+- Eze_7:6viene el f, el f viene; se ha despertadoH7093
+- Eze_26:18las islas...espantarán a causa de tu fH3318
+- Eze_29:13al f de cuarenta años recogeré a EgiptoH7093
+- Dan_5:26contó Dios tu reino, y le ha puesto fH8000
+- Dan_6:26Dios...y su dominio perdurará hasta el fH5491
+- Dan_7:26que sea destruido y arruinado hasta el fH5491
+- Dan_7:28fue el f de sus palabras. En cuanto a míH5491
+- Dan_8:17hijo...la visión es para el tiempo del fH7093
+- Dan_8:19enseñaré lo que ha de venir al f de laH319
+- Dan_8:19ira; porque eso es para el tiempo del fH7093
+- Dan_8:23al f del reinado de éstos, cuando losH319
+- Dan_9:24poner f al pecado, y expiar la iniquidadH2856
+- Dan_9:26el santuario; y su f será con inundaciónH7093
+- Dan_9:26y hasta el f de la guerra durarán lasH7093
+- Dan_11:45llegará a su f, y no tendrá quien leH7093
+- Dan_12:4y sella el libro hasta el tiempo del fH7093
+- Dan_12:6¿cuándo será el f de estas maravillas?[[H7093]]
+- Dan_12:8Señor...¿cuál será el f de estas cosas?[[H319]]
+- Dan_12:9están...selladas hasta el tiempo del fH7093
+- Dan_12:13tú irás hasta el f, y reposarás, y teH7093
+- Dan_12:13te levantarás para...al f de los díasH7093
+- Ose_3:5temerán a Jehová...en el f de los díasH319
+- Joe_2:20y su f al mar occidental; y exhalaráH314
+- Amó_8:2ha venido el f sobre mi pueblo IsraelH7093
+- Miq_5:4engrandecido hasta los f de la tierraH657
+- Nah_2:9no hay f de las riquezas...de efectosH3617
+- Nah_3:3sin f, y en sus cadáveres tropezaránH7097
+- Hab_2:3se apresura hacia el f, y no mentiráH7093
+- Zac_9:6pondré f a la soberbia de...filisteosH3772
+- Zac_9:10desde el río hasta los f de la tierraH3772
+- Mat_10:22el que persevere hasta el f...salvoG5056
+- Mat_12:42ella vino de los f de la tierra paraG4009
+- Mat_13:39el diablo; la siega es el f del sigloG4930
+- Mat_13:40como...así será en el f de este sigloG4930
+- Mat_13:49así será al f del siglo: saldrán losG4930
+- Mat_24:3qué señal habrá de...y del f del siglo?[[G4930]]
+- Mat_24:6que no os turbéis...pero aún no es el fG5056
+- Mat_24:13el que persevere hasta el f, éste seráG5056
+- Mat_24:14será predicado...entonces vendrá el fG5056
+- Mat_26:58entrando, se sentó con...para ver el fG5056
+- Mat_26:60pero al f vinieron dos testigos falsosG5305
+- Mat_28:20yo estoy con vosotros...hasta el f delG4930
+- Mar_3:26no puede permanecer...ha llegado su fG5056
+- Mar_13:7es necesario que suceda...aún no es el fG5056
+- Mar_13:13mas el que persevere hasta el f, ésteG5056
+- Luc_1:33reinará sobre...su reino no tendrá fG5056
+- Luc_11:31vino de los f de la tierra para oír laG4009
+- Luc_21:9cosas...pero el f no será inmediatamenteG5056
+- Jua_13:1como había amado a...los amó hasta el fG5056
+- Rom_1:10que de alguna manera tenga al f...viajeG4218
+- Rom_6:21cosas...Porque el f de ellas es muerteG5056
+- Rom_6:22santificación, y como f, la vida eternaG5056
+- Rom_10:4el f de la ley es Cristo, para justiciaG5056
+- Rom_10:18hasta los f de la tierra sus palabrasG4009
+- 1Co_1:8cual también os confirmará hasta el fG5056
+- 1Co_10:11a quienes han alcanzado los f de losG5056
+- 1Co_15:24luego el f, cuando entregue el reinoG5056
+- 2Co_1:13espero que hasta el f...entenderéisG5056
+- 2Co_2:9este f os escribí, para tener la pruebaG5124
+- 2Co_3:13el f de aquello que había de ser abolidoG5056
+- 2Co_11:15cuyo f será conforme a sus obrasG5056
+- Flp_3:19el f de los cuales será perdiciónG5056
+- Flp_4:10al f habéis revivido vuestro cuidado deG4218
+- Heb_3:6si retenemos...hasta el f la confianzaG5056
+- Heb_3:14con tal que retengamos firme hasta el fG5056
+- Heb_6:8ser maldecida, y su f es el ser quemadaG5056
+- Heb_6:11muestre la misma solicitud hasta el fG5056
+- Heb_6:16f de toda controversia es el juramentoG4009
+- Heb_7:3ni tiene principio de días, ni f de vidaG5056
+- Stg_5:11habéis visto el f del Señor, que elG5056
+- 1Pe_1:9obteniendo el f de vuestra fe, que esG5056
+- 1Pe_4:7el f de todas las cosas se acerca; sedG5056
+- 1Pe_4:17será el f de aquellos que no obedecenG5056
+- Rev_1:8yo soy el...principio y f, dice el SeñorG5056
+- Rev_2:26y guardare mis obras hasta el f, yo leG5056
+- Rev_21:6; Rev_22:13soy el Alfa...el principio y el fG5056

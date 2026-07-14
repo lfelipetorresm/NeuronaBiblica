@@ -1,0 +1,109 @@
+---
+tipo: concordancia
+palabra: ESCRIBA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESCRIBA
+
+- 2Sa_8:17Sadoc hijo de Ahitob...Seraías era eH5608
+- 2Sa_20:25era e, y Sadoc y Abiatar, sacerdotesH5608
+- 2Re_18:18salió a ellos...Sebna e, y Joa hijoH5608
+- 2Re_18:37Sebna e, y Joa hijo de Asaf, cancillerH5608
+- 2Re_19:2envió...a Sebna e y a los ancianos de losH5608
+- 2Re_22:3envió...a Safán hijo de Azalía...e, a laH5608
+- 2Re_22:8dijo el sumo sacerdote...al e Safán: HeH5608
+- 2Re_22:9viniendo luego el e Safán al rey, dioH5608
+- 2Re_22:10el e Safán declaró al rey, diciendo: ElH5608
+- 2Re_22:12luego el rey dio orden...al e Safán y aH5608
+- 2Re_25:19tomó un...y el principal e del ejércitoH5608
+- 1Cr_2:55las familias de los e que moraban enH5608
+- 1Cr_24:6el e Semaías hijo...escribió sus nombresH5608
+- 1Cr_27:32Jonatán tío...era...varón prudente y eH5608
+- 2Cr_24:11que había mucho dinero, venía el eH5608
+- 2Cr_26:11la lista hecha por mano de Jeiel e, yH5608
+- 2Cr_34:13de los levitas había e, gobernadoresH5608
+- 2Cr_34:15al e Safán: Yo he hallado el libro deH5608
+- 2Cr_34:18declaró el e Safán al rey, diciendo: ElH5608
+- 2Cr_34:20y mandó...a Safán e, y a Asaías siervoH5608
+- Esd_7:6era e diligente en la ley de MoisésH5608
+- Esd_7:11la carta...al sacerdote Esdras, e versadoH5608
+- Esd_7:12Esdras, sacerdote y e erudito en la leyH5613
+- Esd_7:21lo que os pida...Esdras, e de la ley delH5613
+- Neh_8:1y dijeron a Esdras el e que trajese elH5608
+- Neh_8:4el e Esdras estaba sobre un púlpito deH5608
+- Neh_8:9el sacerdote Esdras, e, y los levitas queH5608
+- Neh_8:13se reunieron los...levitas, a Esdras el eH5608
+- Neh_12:26los días del...y del sacerdote Esdras, eH5608
+- Neh_12:36sus hermanos...y el e Esdras delante deH5608
+- Neh_13:13puse por mayordomos de...y al e SadocH5608
+- Isa_33:18¿qué es del e? ¿qué del pesador delH5608
+- Isa_36:3salió a él...Sebna, e, y Joa hijo de AsafH5608
+- Isa_36:22Sebna e, y Joa...canciller, vinieron aH5608
+- Isa_37:2y envió a...Sebna e y a los ancianos deH5608
+- Jer_8:8cambiado en mentira la pluma...de los eH5608
+- Jer_36:10aposento de Gemarías hijo de Safán eH5608
+- Jer_36:23rasgó el rey con un cortaplumas de eH5608
+- Jer_36:32rollo...lo dio a Baruc hijo de Nerías eH5608
+- Jer_37:15le pusieron en prisión en la casa del eH5608
+- Jer_37:20oye...y no me hagas volver a casa del eH5608
+- Mat_2:4convocados todos...y los e del puebloG1122
+- Mat_5:20justicia no fuere mayor que la de los eG1122
+- Mat_7:29enseñaba como quien...y no como los eG1122
+- Mat_8:19vino un e y le dijo: Maestro, te seguiréG1122
+- Mat_9:3algunos de los e decían...Este blasfemaG1122
+- Mat_12:38respondieron algunos de los e y de losG1122
+- Mat_13:52todo e docto en el reino de los cielosG1122
+- Mat_15:1acercaron a Jesús ciertos e y fariseosG1122
+- Mat_16:21padecer mucho...de los e; y ser muertoG1122
+- Mat_17:10¿por qué...dicen los e que es necesarioG1122
+- Mat_20:18será entregado a...sacerdotes y a los eG1122
+- Mat_21:15los e, viendo las maravillas que hacíaG1122
+- Mat_23:2en la cátedra de Moisés se sientan los eG1122
+- Mat_23:13-14, Mat_23:15, Mat_23:23, Mat_23:25, Mat_23:27, Mat_23:29¡ay de vosotros, e y fariseos, hipócritas![[G1122]]
+- Mat_23:34envío...e; y de ellos a unos mataréisG1122
+- Mat_26:3los e...ancianos del pueblo se reunieronG1122
+- Mat_26:57llevaron adonde estaban reunidos los eG1122
+- Mat_27:41e y los fariseos y los ancianos, decíanG1122
+- Mar_1:22quien tiene autoridad, y no como los eG1122
+- Mar_2:6estaban allí sentados algunos de los eG1122
+- Mar_2:16los e...viéndole comer con los publicanosG1122
+- Mar_3:22e que habían venido de Jerusalén decíanG1122
+- Mar_7:1se juntaron a Jesús...y algunos de los eG1122
+- Mar_7:5le preguntaron, pues...los e: ¿Por qué tusG1122
+- Mar_8:31ser desechado...por los e, y ser muertoG1122
+- Mar_9:11¿por qué dicen los e que es necesario queG1122
+- Mar_9:14discípulos...y e que disputaban con ellosG1122
+- Mar_10:33el Hijo del...será entregado...a los eG1122
+- Mar_11:18y lo oyeron los e y los principalesG1122
+- Mar_11:27vinieron a él los...los e y los ancianosG1122
+- Mar_12:28acercándose uno de los e...los había oídoG1122
+- Mar_12:32el e le dijo: Bien, Maestro, verdad hasG1122
+- Mar_12:35¿cómo dicen los e que el Cristo es hijoG1122
+- Mar_12:38guardaos de los e, que gustan de andarG1122
+- Mar_14:1buscaban...e cómo prenderle por engañoG1122
+- Mar_14:43Judas...y con él mucha gente...de los eG1122
+- Mar_14:53reunieron todos...los ancianos y los eG1122
+- Mar_15:1habiendo tenido consejo...con los e y conG1122
+- Mar_15:31decían...con los e: A otros salvó, a síG1122
+- Luc_5:21los e...comenzaron a cavilar, diciendoG1122
+- Luc_5:30los e y los fariseos murmuraban contraG1122
+- Luc_6:7le acechaban los e...para ver si en el díaG1122
+- Luc_9:22que padezca...y sea desechado...por los eG1122
+- Luc_11:44de vosotros, e y fariseos, hipócritas![[G1122]]
+- Luc_11:53los e y los...comenzaron a estrecharleG1122
+- Luc_15:2los e murmuraban, diciendo: Este a losG1122
+- Luc_19:47e y los principales...procuraban matarleG1122
+- Luc_20:1llegaron los...y los e, con los ancianosG1122
+- Luc_20:19procuraban los...y los e echarle mano enG1122
+- Luc_20:39los e, dijeron: Maestro, bien has dichoG1122
+- Luc_20:46guardaos de los e, que gustan de andarG1122
+- Luc_22:2sacerdotes y...los e buscaban cómo matarleG1122
+- Luc_22:66se juntaron los...los e, y le trajeronG1122
+- Luc_23:10los e acusándole con gran vehemenciaG1122
+- Jua_8:3los e...trajeron una mujer sorprendidaG1122
+- Hec_4:5que se reunieron en Jerusalén...los eG1122
+- Hec_6:12y soliviantaron al pueblo, a...y a los eG1122
+- Hec_23:9levantándose los e de la parte de losG1122
+- 1Co_1:20¿dónde está el e? ¿Dónde está elG1122

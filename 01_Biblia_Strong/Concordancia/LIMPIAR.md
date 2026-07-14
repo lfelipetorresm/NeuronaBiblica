@@ -1,0 +1,82 @@
+---
+tipo: concordancia
+palabra: LIMPIAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LIMPIAR
+
+- Gén_35:2limpiaos, y mudad vuestros vestidosH2891
+- Lev_14:2ley para el leproso cuando se limpiareH2893
+- Lev_14:11presentará...al que se ha de limpiar, conH2891
+- Lev_14:49tomará para limpiar la casa...avecillasH2398
+- Lev_15:13se hubiere limpiado de su flujo el queH2891
+- Lev_16:19lo limpiará, y lo santificará de lasH2891
+- 2Sa_4:6portera...había estado limpiando trigoH3947
+- 2Re_21:13limpiaré a Jerusalén como se limpiaH4229
+- 2Cr_4:6limpiar en ellas lo que se ofrecíaH7364
+- 2Cr_29:15y entraron...limpiar la casa de JehováH2891
+- 2Cr_29:16entrando los...para limpiarla, sacaronH2891
+- 2Cr_29:18ya hemos limpiado...la casa de JehováH2891
+- 2Cr_34:3comenzó a limpiar a Judá y a JerusalénH2891
+- 2Cr_34:5quemó...limpió a Judá y a JerusalénH2891
+- 2Cr_34:8de haber limpiado la tierra y la casaH2891
+- Neh_13:9y dije que limpiasen las cámaras, eH2891
+- Neh_13:30los limpié, pues, de todo extranjeroH2891
+- Job_9:30y limpie mis manos con la limpiezaH2141
+- Job_37:21luego que pasa el viento y los limpiaH2891
+- Sal_51:2lávame más y...límpiame de mi pecadoH5352
+- Sal_73:13vano he limpiado mi corazón, y lavadoH2135
+- Sal_80:9limpiaste sitio delante de ella...raícesH6437
+- Sal_119:9¿con qué limpiará el joven su camino?[[H2135]]
+- Pro_20:9decir: Yo he limpiado mi corazón, heH2135
+- Pro_30:12bien no se ha limpiado de su inmundiciaH7364
+- Pro_30:20come, y limpia su boca y dice: No heH4229
+- Isa_1:16lavaos y limpiaos; quitad la iniquidadH2135
+- Isa_1:25limpiaré hasta lo más puro tus escoriasH6884
+- Isa_4:4el Señor...limpie la sangre de Jerusalén deH1740
+- Jer_4:11vino...no para aventar, ni para limpiarH1305
+- Jer_33:8los limpiaré de toda su maldad con queH2891
+- Jer_43:12y limpiará...como el pastor limpia suH5844
+- Jer_46:4limpiad las lanzas, vestíos las corazasH4838
+- Jer_51:11limpiad...saetas, embrazad los escudosH1305
+- Eze_16:4ni fuiste lavada con...para limpiarteH4935
+- Eze_24:13te limpié, y tú no te limpiaste de tuH2891
+- Eze_24:13nunca más te limpiarás, hasta que yoH2891
+- Eze_36:25seréis limpiados de todas...inmundiciasH2889
+- Eze_36:25de todos vuestros ídolos os limpiaréH2891
+- Eze_36:33el día que os limpie de...iniquidadesH2891
+- Eze_37:23los salvaré de todas...y los limpiaréH2891
+- Eze_39:12estará enterrando...limpiar la tierraH2891
+- Eze_39:14enterrar...a fin de limpiarla, al caboH2891
+- Eze_39:16será Hamona; y limpiarán la tierraH2891
+- Eze_43:20su sangre...lo limpiarás y purificarásH2398
+- Eze_43:26y lo limpiarán, y así lo consagraránH2891
+- Dan_11:35sabios caerán para ser...y limpiadosH1305
+- Joe_3:21limpiaré...los que no había limpiadoH5352
+- Mal_3:3se sentará para afinar y limpiar laH2891
+- Mal_3:3porque limpiará a los hijos de Leví, losH2891
+- Mat_3:12limpiará su era; y recogerá su trigoG1245
+- Mat_8:2vino...Señor, si quieres, puedes limpiarmeG2511
+- Mat_10:8limpiad leprosos, resucitad muertosG2511
+- Mat_11:5los leprosos son limpiados, los sordosG2511
+- Mat_23:25porque limpiáis lo de fuera del vasoG2511
+- Mat_23:26limpia primero lo de dentro del vasoG2511
+- Mar_1:40le dijo: Si quieres, puedes limpiarmeG2511
+- Luc_3:17limpiará su era, y recogerá el trigoG1245
+- Luc_4:27pero ninguno de ellos fue limpiado, sinoG2511
+- Luc_5:12le rogó...si quieres, puedes limpiarmeG2511
+- Luc_7:22los leprosos son limpiados, los sordosG2511
+- Luc_11:39los fariseos limpiáis lo de fuera delG2511
+- Luc_17:14que mientras iban, fueron limpiadosG2511
+- Luc_17:17¿no son diez los que fueron limpiados?[[G2511]]
+- Jua_15:2lo limpiará, para que lleve más frutoG2508
+- Hec_10:15; Hec_11:9que Dios limpió, no lo llamesG2511
+- 1Co_5:7limpiaos, pues, de la vieja levaduraG1571
+- 2Co_7:1limpiémonos de toda contaminación deG2511
+- 2Ti_2:21si alguno se limpia de estas cosasG1571
+- Heb_9:14limpiará vuestras...de obras muertasG2511
+- Stg_4:8pecadores, limpiad...manos; y vosotrosG2511
+- 1Jn_1:7la sangre...nos limpia de todo pecadoG2511
+- 1Jn_1:9perdonar...y limpiarnos de toda maldadG2511

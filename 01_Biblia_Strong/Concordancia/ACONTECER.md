@@ -1,0 +1,356 @@
+---
+tipo: concordancia
+palabra: ACONTECER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ACONTECER
+
+- Gén_4:3y aconteció...que Caín trajo del
+- Gén_4:8y aconteció...Caín se levantó contra
+- Gén_6:1aconteció que...a multiplicarse sobre
+- Gén_11:2y aconteció que...en la tierra de Sinar
+- Gén_12:11aconteció que cuando...dijo a Sarai
+- Gén_12:14aconteció que...entró Abram en Egipto
+- Gén_14:1aconteció en los días de Amrafel rey de
+- Gén_21:22aconteció en...que habló Abimelec
+- Gén_22:1aconteció...probó Dios a Abraham, y
+- Gén_22:20aconteció...fue dada noticia a Abraham,
+- Gén_24:15aconteció que antes que él acabase de
+- Gén_27:1aconteció que cuando Isaac envejeció
+- Gén_27:30aconteció, luego que Isaac...bendecir a
+- Gén_30:25aconteció cuando Raquel hubo dado a luz
+- Gén_35:17y aconteció...que le dijo la partera
+- Gén_35:18aconteció que al salírsele el alma
+- Gén_35:22aconteció que...durmió con Bilha la
+- Gén_38:1aconteció...que Judá...de sus hermanos, y
+- Gén_38:27aconteció que al tiempo de dar a luz
+- Gén_39:5aconteció que desde cuando le dio el encargo
+- Gén_39:7aconteció después de esto, que la mujer
+- Gén_39:11aconteció que entró...en casa para
+- Gén_40:1aconteció después de...que el copero
+- Gén_41:1aconteció que...tuvo Faraón un sueño
+- Gén_41:13aconteció que...los interpretó, así fue
+- Gén_42:4sea que le acontezca algún desastreH7122
+- Gén_42:29contaron...lo que les había acontecidoH7136
+- Gén_42:35aconteció que vaciando ellos sus sacos
+- Gén_42:38y si le aconteciere algún desastre enH7122
+- Gén_43:2aconteció que cuando acabaron de comer
+- Gén_43:21aconteció que...llegamos al mesón y
+- Gén_44:24aconteció, pues, que cuando llegamos a
+- Gén_44:29a éste...y le acontece algún desastreH7136
+- Gén_49:1declararé lo que os ha de acontecer enH7122
+- Éxo_1:10y acontezca que viniendo guerra, élH1961
+- Éxo_2:4se puso a...para ver lo que aconteceríaH6213
+- Éxo_2:23aconteció que después de muchos días murió
+- Éxo_4:8si aconteciere que no te creyeren niH1961
+- Éxo_4:24aconteció en el camino, que en una posada
+- Éxo_12:29aconteció que a la medianoche Jehová
+- Éxo_14:24aconteció a la vigilia de la mañana
+- Éxo_16:27aconteció que algunos del pueblo salieron
+- Éxo_18:13aconteció que al día siguiente se sentó
+- Éxo_19:16aconteció que al tercer día, cuando
+- Éxo_32:1, Éxo_32:23no sabemos qué le haya acontecidoH1961
+- Éxo_32:19aconteció que cuando él llegó al
+- Éxo_32:30aconteció que al día siguiente dijo
+- Éxo_34:29aconteció que descendiendo Moisés
+- Núm_7:1aconteció que cuando Moisés
+- Núm_11:1aconteció que el pueblo se quejó
+- Núm_16:31aconteció que cuando cesó él de hablar
+- Núm_16:42aconteció que cuando se juntó la
+- Núm_17:8aconteció que el día siguiente vino
+- Núm_26:1aconteció después de la mortandad
+- Deu_1:3aconteció que a los cuarenta años
+- Deu_2:16aconteció que después que murieron
+- Deu_5:23aconteció que cuando vosotros oísteis
+- Deu_18:22no se cumpliere la...ni aconteciereH935
+- Deu_23:10de alguna impureza acontecida de nocheH7137
+- Deu_28:1acontecerá que si oyeres atentamenteH1961
+- Deu_28:15pero acontecerá, si no oyeres la vozH1961
+- Jos_1:1aconteció después de la muerte de
+- Jos_2:23contaron todas las cosas...acontecidoH4672
+- Jos_3:14aconteció cuando partió el pueblo
+- Jos_4:18aconteció que cuando los sacerdotes
+- Jos_6:20y aconteció que...el sonido de la bocina
+- Jos_8:14aconteció que viéndolo el rey de Hai
+- Jos_10:20aconteció que cuando Josué y los hijos
+- Jos_15:18aconteció que cuando la llevaba
+- Jos_22:28dijimos...si aconteciere que tal diganH1961
+- Jos_22:29nunca tal acontezca que nos rebelemosH2486
+- Jos_23:1aconteció, muchos días después
+- Jos_23:14todas os han acontecido, no ha faltadoH935
+- Jos_24:16tal acontezca, que dejemos a JehováH2486
+- Jue_1:1aconteció después de la muerte de
+- Jue_2:19mas acontecía que al morir el juez
+- Jue_6:25aconteció que...le dijo Jehová
+- Jue_6:38y aconteció así...exprimió el vellónH1961
+- Jue_7:9aconteció que aquella noche Jehová le dijo
+- Jue_8:33pero aconteció que cuando murió Gedeón
+- Jue_9:42aconteció el siguiente día, que el pueblo
+- Jue_11:4aconteció andando el...que los hijos
+- Jue_12:5y aconteció que...decían los fugitivos
+- Jue_13:20porque aconteció que...la llama subía
+- Jue_14:11aconteció que cuando ellos le vieron
+- Jue_15:1aconteció después de algún tiempo
+- Jue_16:4después...aconteció que se enamoró de
+- Jue_16:16aconteció que, presionándole ella cada día
+- Jue_16:25aconteció que cuando sintieron alegría
+- Rut_1:1aconteció en los días que gobernaban
+- Rut_1:19y aconteció que habiendo entrado en Belén
+- Rut_2:3y aconteció que aquella parte del campo
+- Rut_3:8y aconteció que a la...se estremeció
+- Rut_3:16le contó ella todo lo que...acontecidoH6213
+- 1Sa_1:20aconteció que al cumplirse el tiempo
+- 1Sa_2:34te será por señal esto que aconteceráH935
+- 1Sa_3:2y aconteció un día...estando Elí acostado
+- 1Sa_4:5aconteció que cuando el arca del pacto
+- 1Sa_4:16Elí dijo: ¿Qué ha acontecido, hijo mío?[[H1697]]
+- 1Sa_4:18y aconteció que cuando él hizo mención
+- 1Sa_5:9y aconteció que cuando la habían pasado
+- 1Sa_7:10y aconteció que mientras Samuel sacrificaba
+- 1Sa_8:1aconteció que habiendo Samuel envejecido
+- 1Sa_9:6todo lo que él dice acontece sin faltaH935
+- 1Sa_10:9estas señales acontecieron...aquel díaH935
+- 1Sa_10:11y aconteció que...los que le conocían
+- 1Sa_11:11aconteció que al día siguiente...Saúl
+- 1Sa_13:22así aconteció que en el día de la batalla
+- 1Sa_14:1aconteció un día...Jonatán hijo de Saúl
+- 1Sa_14:19Pero aconteció que...aún hablaba Saúl
+- 1Sa_16:6y aconteció que cuando ellos vinieron
+- 1Sa_17:48y aconteció que...el filisteo se levantó
+- 1Sa_18:1aconteció que...acabado de hablar con Saúl
+- 1Sa_18:6aconteció que cuando volvían ellos
+- 1Sa_18:10aconteció al otro día...un espíritu malo
+- 1Sa_20:26le habrá acontecido algo, y no estáH4745
+- 1Sa_20:27el segundo día...aconteció también que
+- 1Sa_23:6aconteció que cuando Abiatar hijo de
+- 1Sa_24:16aconteció que cuando David acabó de
+- 1Sa_25:2aconteció...esquilando sus ovejas en Carmel
+- 1Sa_25:30y acontecerá que cuando Jehová haga
+- 1Sa_28:1aconteció en aquellos días...los filisteos
+- 1Sa_31:8aconteció...que viniendo los filisteos
+- 2Sa_1:1aconteció después de la muerte de Saúl
+- 2Sa_1:4David le dijo: ¿Qué ha acontecido?[[H1961]]
+- 2Sa_2:1después de...aconteció que David consultó
+- 2Sa_3:6aconteció que Abner se esforzaba
+- 2Sa_6:16llegó a la ciudad...aconteció que Mical
+- 2Sa_7:1aconteció que cuando ya el rey habitaba
+- 2Sa_7:4aconteció aquella noche, que vino palabra
+- 2Sa_8:1después...aconteció que David derrotó
+- 2Sa_10:1después...aconteció que murió el rey
+- 2Sa_11:1aconteció al año siguiente, en el tiempo
+- 2Sa_13:1aconteció después...que teniendo Absalón
+- 2Sa_13:23aconteció pasados dos años, que Absalón
+- 2Sa_15:1aconteció después...que Absalón se hizo
+- 2Sa_15:5y acontecía...se acercaba para inclinarse
+- 2Sa_15:7al cabo de...aconteció que Absalón dijo
+- 2Sa_16:16aconteció luego...cuando Husai arquita
+- 2Sa_20:20nunca...me acontezca, que yo destruyaH2486
+- 2Sa_20:1aconteció que se...un hombre perverso
+- 1Re_2:39pasados tres años, aconteció
+- 1Re_3:18aconteció al...después de dar yo a luz
+- 1Re_9:10aconteció al cabo de...cuando Salomón
+- 1Re_11:29aconteció, pues, en aquel tiempo
+- 1Re_12:2y aconteció que cuando lo oyó Jeroboam
+- 1Re_12:20y aconteció que oyendo todo Israel que
+- 1Re_13:20y aconteció que estando ellos en la mesa
+- 1Re_17:17después de...aconteció que cayó enfermo
+- 1Re_18:12acontecerá que luego que yo me hayaH1961
+- 1Re_18:27y aconteció al mediodía, que Elías se
+- 1Re_18:45aconteció, estando en esto, que los cielos
+- 1Re_21:1pasadas estas cosas, aconteció que Nabot
+- 1Re_22:2y aconteció al tercer año, que Josafat
+- 2Re_2:1aconteció...cuando quiso Jehová alzar
+- 2Re_2:11y aconteció que yendo ellos...he aquí
+- 2Re_3:20aconteció, pues...la tierra se llenó de
+- 2Re_4:8aconteció que...había allí una mujer
+- 2Re_4:11aconteció que un día...en aquel aposento, y
+- 2Re_4:18el niño creció. Pero aconteció un día
+- 2Re_6:5aconteció que mientras...gritó diciendo
+- 2Re_6:24aconteció que Ben-adad rey de Siria reunió
+- 2Re_7:18aconteció, pues, de la manera que el varón
+- 2Re_13:21aconteció que al sepultar unos a un hombre
+- 2Re_17:25aconteció al principio, cuando comenzaron
+- 2Re_19:35aconteció que aquella misma noche...el ángel
+- 2Re_19:37aconteció que mientras él adoraba en el
+- 2Re_25:1aconteció a los nueve años de su reinado
+- 2Re_25:27aconteció a los treinta y siete años del
+- 1Cr_17:1aconteció que morando David en su
+- 1Cr_18:1aconteció que David derrotó a los filisteos
+- 1Cr_19:1aconteció que murió Nahas rey de los hijos
+- 1Cr_20:1aconteció a la vuelta del año, en el tiempo
+- 1Cr_20:4aconteció que se levantó guerra en Gezer
+- 2Cr_20:1aconteció que los hijos de Moab y
+- 2Cr_21:19aconteció que al pasar muchos días, al fin
+- 2Cr_24:4aconteció que Joás decidió restaurar la casa
+- 2Cr_32:31prodigio que había acontecido en elH1961
+- Neh_1:1aconteció en el mes de Quisleu
+- Neh_4:7aconteció que oyendo Sanbalat y Tobías, y
+- Est_1:1aconteció en los días de Asuero
+- Est_3:4aconteció que hablándole...lo denunciaron
+- Est_4:7le declaró...lo que le había acontecidoH7136
+- Est_5:1aconteció que al tercer día se vistió Ester
+- Job_1:13aconteció que sus hijos e hijas
+- Job_2:1aconteció que otro día vinieron los hijos
+- Job_3:25y me ha acontecido lo que yo temíaH935
+- Job_27:5nunca tal acontezca que yo os justifiqueH2486
+- Job_42:7aconteció que después que habló Jehová
+- Pro_12:21ninguna adversidad acontecerá al justoH579
+- Ecl_2:14mismo suceso acontecerá al uno comoH7136
+- Ecl_8:14hay justos a quienes acontece como siH5060
+- Ecl_9:2todo acontece de la misma manera a todos
+- Ecl_9:3que un mismo suceso acontece a todos, y
+- Ecl_9:11que tiempo y ocasión acontecen a todosH7136
+- Isa_2:2acontecerá...lo postrero de los tiemposH1961
+- Isa_4:3acontecerá que el que quedare en SionH1961
+- Isa_7:1aconteció en los días de Acaz hijo de Jotam
+- Isa_7:18acontecerá que aquel día silbará JehováH1961
+- Isa_7:21acontecerá en aquel tiempo, que criaráH1961
+- Isa_7:23acontecerá...lugar donde había mil videsH1961
+- Isa_8:21y acontecerá que teniendo hambre, seH1961
+- Isa_10:12acontecerá que después que el SeñorH1961
+- Isa_10:20acontecerá en aquel tiempo, que los queH1961
+- Isa_10:27acontecerá...que su carga será quitadaH1961
+- Isa_11:10acontecerá en aquel tiempo que la raízH1961
+- Isa_11:11acontecerá...alzará otra vez su mano paraH1961
+- Isa_23:15acontecerá en aquel día, que Tiro seráH1961
+- Isa_23:17acontecerá que al fin de los 70 añosH1961
+- Isa_24:18acontecerá que el que huyere de la vozH1961
+- Isa_24:21acontecerá...Jehová castigará el ejércitoH1961
+- Isa_27:12acontecerá en aquel día, que trillaráH1961
+- Isa_27:13acontecerá...se tocará con gran trompetaH1961
+- Isa_36:1aconteció en el año...del rey Ezequías
+- Isa_37:1aconteció, pues, que cuando el rey Ezequías
+- Isa_37:38aconteció que mientras adoraba en
+- Isa_51:19dos cosas te han acontecido...hambre yH7122
+- Jer_3:16acontecerá...cuando os multipliquéisH1961
+- Jer_16:10acontecerá que cuando anuncies a esteH1961
+- Jer_28:1aconteció...en el principio del reinado de
+- Jer_36:1aconteció en el cuarto año de Joacim
+- Jer_36:9aconteció en el año quinto de Joacim
+- Jer_37:11aconteció que cuando el ejército de los
+- Jer_41:1aconteció en el mes séptimo que vino Ismael
+- Jer_41:6aconteció que cuando los encontró, les dijo
+- Jer_41:13aconteció que cuando todo el pueblo que
+- Jer_42:7aconteció que al cabo de diez días vino
+- Jer_43:1aconteció que cuando Jeremías acabó de hablar
+- Jer_48:19pregunta a...dile: ¿Qué ha acontecido?[[H1961]]
+- Jer_49:39pero acontecerá en los últimos días, queH1961
+- Jer_52:4aconteció...a los 9 años de su reinadoH1961
+- Eze_1:1aconteció en el año treinta, en el mesH1961
+- Eze_3:16aconteció que al cabo de los siete días
+- Eze_8:1a los cinco días del mes, aconteció que
+- Eze_9:8aconteció que cuando ellos iban matando y
+- Eze_10:6aconteció, pues, que al mandar al varón
+- Eze_11:13y aconteció que mientras yo profetizaba
+- Eze_20:1aconteció en el año séptimo, en el mes
+- Eze_26:1aconteció en el undécimo año, en el día
+- Eze_29:17aconteció en el año...en el mes primero
+- Eze_30:20aconteció en el año...en el mes primero
+- Eze_31:1aconteció en el año...en el mes tercero
+- Eze_32:1aconteció en el año...en el mes duodécimo
+- Eze_32:17aconteció en el año...a los quince días
+- Eze_33:21aconteció en el año...de nuestro cautiverio
+- Dan_2:28ha de acontecer en los postreros díasH1934
+- Dan_2:45Dios ha mostrado al rey...ha de acontecerH1934
+- Dan_8:15aconteció que mientras yo Daniel consideraba
+- Joe_1:2¿ha acontecido eso en vuestros díasH1961
+- Amó_6:9acontecerá que si diez hombres quedarenH1961
+- Amó_7:2aconteció que cuando acabó de comer la hierba
+- Amó_8:9acontecerá en aquel día...se ponga el solH1961
+- Jon_4:5se sentó...hasta ver qué aconteceríaH1961
+- Jon_4:8y aconteció que al salir el sol, preparó
+- Miq_4:1acontecerá en los postreros tiempos queH1961
+- Miq_5:10acontecerá en aquel día, dice Jehová, queH1961
+- Sof_1:12acontecerá...escudriñaré a JerusalénH1961
+- Zac_7:1aconteció que en el año...del rey Darío
+- Zac_7:13aconteció que así como él clamó, y no
+- Zac_8:23acontecerá que diez hombres de las
+- Zac_13:3acontecerá que cuando...profetizare aúnH1961
+- Zac_13:8acontecerá...que las dos terceras partesH1961
+- Zac_14:6acontecerá...en ese día no habrá luz claraH1961
+- Zac_14:8acontecerá...en aquel día que saldrán deH1961
+- Zac_14:13y acontecerá...entre ellos gran pánicoH1961
+- Zac_14:17acontecerá que los de las familias deH1961
+- Mat_1:22esto aconteció para que se cumplieseG1096
+- Mat_2:13acontecerá que Herodes buscará al niñoG1063
+- Mat_9:10aconteció que estando él sentado a la mesaG1096
+- Mat_12:45así...acontecerá a esta mala generaciónG2071
+- Mat_13:53aconteció que cuando terminó Jesús estasG1096
+- Mat_16:22en ninguna manera esto te acontezcaG2071
+- Mat_18:13si acontece que la encuentra...regocijaG1096
+- Mat_19:1aconteció que cuando Jesús terminó estasG1096
+- Mat_21:4esto aconteció para que se cumpliese loG1096
+- Mat_24:6es necesario que todo esto acontezcaG1096
+- Mat_24:34no pasará...hasta que...esto acontezcaG1096
+- Mat_28:11todas las cosas que habían acontecidoG1096
+- Mar_1:9aconteció en aquellos días, que JesúsG1096
+- Mar_2:15aconteció que estando Jesús a la mesaG1096
+- Mar_2:23aconteció que al pasar él por los sembradosG1096
+- Mar_4:4y al sembrar, aconteció que una parteG1096
+- Mar_5:16cómo le había acontecido al que habíaG1096
+- Mar_10:32las cosas que le habían de acontecerG4819
+- Mar_13:30no pasará...hasta que todo...acontezcaG1096
+- Luc_1:8aconteció que ejerciendo...el sacerdocioG4795
+- Luc_1:41aconteció que...oyó Elisabet la salutaciónG1096
+- Luc_1:59aconteció que al octavo día vinieronG1096
+- Luc_2:1aconteció en aquellos días, que se promulgóG1096
+- Luc_2:6y aconteció que estando ellos allíG1096
+- Luc_2:46y aconteció que tres días después le hallaronG1096
+- Luc_3:21aconteció que...todo el pueblo se bautizabaG1096
+- Luc_5:1aconteció que estando Jesús junto al lagoG1096
+- Luc_5:17aconteció un día, que él estaba enseñandoG1096
+- Luc_6:1aconteció en un día de reposo, que pasandoG1096
+- Luc_6:6aconteció también en otro día de reposoG1096
+- Luc_7:11aconteció después, que él iba a la ciudadG1096
+- Luc_8:1aconteció después, que Jesús iba por todasG1096
+- Luc_8:22aconteció un día, que entró en una barcaG1096
+- Luc_8:34cuando vieron lo...acontecido, huyeronG1096
+- Luc_9:18aconteció que mientras Jesús oraba aparteG1096
+- Luc_9:28aconteció como ocho días después deG1096
+- Luc_9:44acontecerá que el Hijo del Hombre seráG3195
+- Luc_10:31aconteció que descendió un sacerdoteG4795
+- Luc_10:38aconteció que yendo de camino, entróG1096
+- Luc_11:1aconteció que...Jesús orando en un lugarG1096
+- Luc_11:14aconteció que salido el demonio, el mudoG1096
+- Luc_14:1aconteció un día de reposo, que habiendoG1096
+- Luc_16:22aconteció que murió el mendigo, y fueG1096
+- Luc_17:14aconteció que mientras iban, fueronG1096
+- Luc_18:35aconteció que acercándose Jesús a JericóG1096
+- Luc_19:15aconteció que vuelto él, después deG1096
+- Luc_19:29aconteció que llegando cerca de Betfagé yG1096
+- Luc_21:9es necesario que estas cosas acontezcanG1096
+- Luc_21:32no pasará...hasta que...esto acontezcaG1096
+- Luc_22:49viendo...lo que había de acontecer, leG2071
+- Luc_23:47centurión vio lo que había acontecidoG1096
+- Luc_23:48viendo lo que había acontecido, seG1096
+- Luc_24:4aconteció que estando ellas perplejas porG1096
+- Luc_24:14aquellas cosas que habían acontecidoG4819
+- Luc_24:18las cosas que en ella han acontecidoG1096
+- Luc_24:21el tercer día que esto ha acontecidoG1096
+- Luc_24:30aconteció que estando sentado con ellosG1096
+- Luc_24:35las cosas que les habían acontecido
+- Luc_24:51aconteció que bendiciéndolos, se separóG1096
+- Hec_4:5aconteció al día siguiente, que seG1096
+- Hec_5:7no sabiendo lo que había acontecidoG1096
+- Hec_7:40este...no sabemos qué le haya acontecidoG1096
+- Hec_9:3yendo por el...aconteció que al llegarG1810
+- Hec_9:32aconteció que Pedro, visitando a todosG1096
+- Hec_9:37y aconteció que en aquellos días enfermóG1096
+- Hec_9:43y aconteció que se quedó muchos díasG1096
+- Hec_14:1aconteció en Iconio que entraron juntosG1096
+- Hec_16:16aconteció que mientras íbamos a laG1096
+- Hec_19:1aconteció que entre tanto que ApolosG1096
+- Hec_20:22saber lo que allá me ha de acontecerG4876
+- Hec_21:35al llegar a las gradas, aconteció queG1096
+- Hec_22:6pero aconteció que yendo yo, al llegarG1096
+- Hec_22:17me aconteció, vuelto a Jerusalén, queG1096
+- Hec_27:44y así aconteció que todos se salvaronG1096
+- Hec_28:8y aconteció que el padre de PublioG1096
+- Hec_28:17aconteció que tres días después, PabloG1096
+- Rom_11:25acontecido a Israel endurecimientoG1096
+- 1Co_10:11estas cosas les acontecieron comoG4819
+- 1Ts_3:4tribulaciones, como ha acontecido yG1096
+- 1Pe_4:12alguna cosa extraña os acontecieseG4819
+- 2Pe_2:22ha acontecido...verdadero proverbioG4819

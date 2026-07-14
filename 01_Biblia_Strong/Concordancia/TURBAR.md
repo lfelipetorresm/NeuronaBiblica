@@ -1,0 +1,71 @@
+---
+tipo: concordancia
+palabra: TURBAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TURBAR
+
+- Gén_34:30dijo...Me habéis turbado con hacermeH5916
+- Gén_45:3porque estaban turbados delante de élH926
+- Éxo_15:15caudillos de Edom se turbarán; a losH926
+- Jos_6:18no sea que hagáis anatema...lo turbéisH5916
+- Jos_7:25qué nos has turbado? Túrbete Jehová enH5916
+- 1Sa_14:16vieron...la multitud estaba turbada
+- 1Sa_14:29Jonatán: Mi padre ha turbado el paísH5916
+- 1Sa_17:11oyendo...turbaron y tuvieron gran miedo
+- 1Sa_24:5turbó el corazón de David, porque habíaH5221
+- 1Sa_28:5y se turbó su corazón en gran manera
+- 1Sa_28:21mujer vino a Saúl, y viéndole turbadoH926
+- 2Sa_18:33el rey se turbó, y subió a la sala
+- 1Re_18:17¿eres tú el que turbas a Israel?[[H5916]]
+- 1Re_18:18yo no he turbado a Israel, sino tu y laH5916
+- 2Re_6:11el corazón del rey de Siria se turbóH5590
+- 2Cr_15:6turbó con toda clase de calamidadesH2000
+- Est_7:6se turbó Amán delante del rey y de la
+- Job_4:5cuando ha llegado hasta ti, te turbasH926
+- Job_9:28me turban todos mis dolores; sé que no
+- Job_15:24tribulación y angustia le turbarán, y
+- Job_22:10por tanto...te turba espanto repentinoH926
+- Job_23:16Dios ha...me ha turbado el OmnipotenteH926
+- Sal_2:5en su furor, y los turbará con su iraH926
+- Sal_6:3mi alma también está muy turbada; y túH926
+- Sal_6:10y se turbarán mucho todos mis enemigosH926
+- Sal_30:7tú...escondiste tu rostro, fui turbadoH926
+- Sal_42:5, Sal_42:11; Sal_43:5alma...te turbas dentro de mí?[[H1993]]
+- Sal_46:3bramen y se turben sus aguas, y tiemblenH2560
+- Sal_48:5así...se turbaron, se apresuraron a huirH926
+- Sal_73:12estos impíos, sin ser turbados del mundo
+- Sal_83:17sean afrentados y turbados para siempreH926
+- Sal_90:7consumidos, y con tu ira somos turbadosH926
+- Sal_104:29escondes tu rostro, se turban; lesH926
+- Sal_144:6disípalos, envía tus saetas y túrbalos
+- Pro_11:29el que turba su casa heredará vientoH5916
+- Isa_7:4ni se turbe tu corazón a causa de estos
+- Isa_20:5se turbarán y avergonzarán de Etiopía su
+- Isa_32:11oh indolentes; turbaos, oh confiadasH7264
+- Jer_50:34turbar a los moradores de BabiloniaH7264
+- Dan_2:3y mi espíritu se ha turbado por saberH6470
+- Dan_4:5vi...y visiones de mi cabeza me turbaronH927
+- Dan_4:19atónito...y sus pensamientos lo turbabanH927
+- Dan_4:19Beltsasar, no te turben ni el sueño niH927
+- Dan_5:6el rey...y sus pensamientos lo turbaronH927
+- Dan_5:9el rey Belsasar se turbó...y palidecióH927
+- Dan_5:10rey...no te turben tus pensamientos, niH927
+- Dan_7:15se me turbó el espíritu a mí, Daniel, enH3735
+- Dan_7:28pensamientos me turbaran y mi rostro seH927
+- Joe_1:18¡cuán turbados anduvieron los hatosH943
+- Mat_2:3oyendo esto, el rey Herodes se turbóG5015
+- Mat_14:26los discípulos, viéndole...se turbaronG5015
+- Mat_24:6y oiréis de guerras...que no os turbéisG2360
+- Mar_6:50todos le veían, y se turbaron. PeroG5015
+- Mar_13:7oigáis de guerras y de...no os turbéisG2360
+- Luc_1:12turbó Zacarías...le sobrecogió temorG5015
+- Luc_1:29mas ella...se turbó por sus palabras, yG1298
+- Luc_10:41Marta...turbada estás con muchas cosasG5182
+- Luc_24:38¿por qué estáis turbados, y vienen aG5015
+- Jua_10:24¿hasta cuándo nos turbarás el alma?
+- Jua_12:27ahora está turbada mi alma...qué diré?[[G5015]]
+- Jua_14:1no se turbe vuestro corazón; creéis enG5015
+- Jua_14:27no se turbe vuestro corazón, ni tengaG5015

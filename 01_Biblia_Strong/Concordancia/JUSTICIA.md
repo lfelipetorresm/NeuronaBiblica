@@ -1,0 +1,377 @@
+---
+tipo: concordancia
+palabra: JUSTICIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# JUSTICIA
+
+- Gén_15:6creyó a Jehová y le fue contado por jH6666
+- Gén_18:19que guarden el camino de...haciendo jH6666
+- Lev_19:15grande; con j juzgarás a tu prójimoH6664
+- Deu_6:25tendremos j cuando cuidemos de ponerH6666
+- Deu_9:4por mi j me ha traído Jehová a poseerH6666
+- Deu_9:5no por tu j...entras a poseer la tierraH6666
+- Deu_9:6no es por tu j que Jehová...te da estaH6666
+- Deu_10:18que hace j al huérfano y a la viudaH4941
+- Deu_16:20la j, la j seguirás, para que vivas yH6664
+- Deu_24:13y te será j delante de Jehová tu DiosH6666
+- Deu_33:19allí sacrificarán sacrificios de j, porH6664
+- 1Sa_26:23pague a cada uno su j y su lealtadH6666
+- 2Sa_8:15y David administraba j y equidad aH6666
+- 2Sa_15:4pleito o negocio, que yo les haría j![[H6663]]
+- 2Sa_22:21Jehová me ha premiado conforme a mi jH6666
+- 2Sa_22:25ha recompensado Jehová conforme a mi jH6666
+- 1Re_3:6anduvo delante de ti en verdad, en jH6666
+- 1Re_8:32al justo para darle conforme a su jH6666
+- 1Re_8:45, 1Re_8:49oirás en los cielos...y les harás jH4941
+- 1Re_10:9puesto por rey...que hagas derecho y jH6662
+- 1Cr_18:14y juzgaba con j a todo su puebloH6666
+- 2Cr_6:23justificando al...conforme a su jH6666
+- 2Cr_9:8te ha puesto...para que hagas juicio y jH6666
+- Job_6:29volved aún a considerar mi j en estoH6664
+- Job_8:3¿acaso...pervertirá el Todopoderoso la j?[[H6664]]
+- Job_8:6por ti, y hará próspera la morada de tu jH6664
+- Job_27:6mi j tengo asida, y no la cederé; no meH6666
+- Job_29:14me vestía de j, y ella me cubría; comoH6664
+- Job_31:6péseme Dios en balanza de j, y conoceráH6664
+- Job_33:26con júbilo; y restaurará al hombre su jH6666
+- Job_35:8y al hijo de hombre aprovechará tu jH6666
+- Job_36:3tomaré mi...y atribuiré j a mi HacedorH6664
+- Job_36:17en vez de sustentar el juicio y la jH4941
+- Job_37:23juicio y en multitud de j no afligiráH6666
+- Sal_4:1respóndeme cuando...oh Dios de mi jH6664
+- Sal_4:5ofreced sacrificios de j, y confiad enH6664
+- Sal_5:8guíame, Jehová, en tu j, a causa de misH6666
+- Sal_7:8júzgame...conforme a mi j, y conforme aH6664
+- Sal_7:17alabaré a Jehová conforme a su j, yH6664
+- Sal_9:4has sentado en el trono juzgando con jH6664
+- Sal_9:8juzgará al mundo con j, y a los pueblosH6664
+- Sal_11:7Jehová es justo, y ama la j; el hombreH6666
+- Sal_15:2el que anda en integridad y hace j, yH6664
+- Sal_17:15en cuanto a mí, veré tu rostro en jH6664
+- Sal_18:20Jehová me ha premiado conforme a mi jH6664
+- Sal_18:24me ha recompensado...conforme a mi jH6664
+- Sal_22:31vendrán, y anunciarán su j; a puebloH6666
+- Sal_23:3me guiará por sendas de j por amor deH6664
+- Sal_24:5él recibirá...y j del Dios de salvaciónH6666
+- Sal_31:1oh Jehová, he confiado...líbrame en tu jH6666
+- Sal_33:5él ama j y juicio; de la misericordia deH6666
+- Sal_35:23y despierta para hacerme j, Dios mío yH4941
+- Sal_35:24júzgame conforme a tu j, Jehová DiosH6664
+- Sal_35:28y mi lengua hablará de tu j y de tuH6664
+- Sal_36:6tu j es como los montes de Dios, tusH6666
+- Sal_36:10extiende...tu j a los rectos de corazónH6666
+- Sal_37:6exhibirá tu j como la luz, y tu derechoH6664
+- Sal_37:30habla sabiduría, y su lengua habla jH4941
+- Sal_40:9he anunciado j en grande congregaciónH6664
+- Sal_40:10no encubrí tu j dentro de mi corazónH6666
+- Sal_45:4cabalga sobre palabra de verdad...de jH6664
+- Sal_45:6trono...cetro de j es el cetro de tu reinoH4334
+- Sal_45:7has amado la j y aborrecido la maldadH6664
+- Sal_48:10oh Dios...de j está llena tu diestraH6664
+- Sal_50:6los cielos declararán su j, porque DiosH6664
+- Sal_51:14oh Dios, Dios...cantará mi lengua tu jH6666
+- Sal_51:19te agradarán los sacrificios de j, elH6664
+- Sal_58:1congregación, ¿pronunciáis en verdad j?[[H6664]]
+- Sal_65:5responderás tú en j, oh Dios de nuestraH6664
+- Sal_69:27por maldad sobre...y no entren en tu jH6666
+- Sal_71:2socórreme y líbrame en tu j; inclina tuH6666
+- Sal_71:15mi boca publicará tu j y tus hechos deH6666
+- Sal_71:16haré memoria de tu j, de la tuya solaH6666
+- Sal_71:19y tu j, oh Dios, hasta lo excelsoH6666
+- Sal_71:24mi lengua hablará también de tu j todoH6666
+- Sal_72:1oh Dios, da...tus j al hijo del rey, yH6666
+- Sal_72:2él juzgará a tu pueblo con j, y a tusH6664
+- Sal_72:3montes llevarán paz...y los collados jH6666
+- Sal_72:7florecerá en sus días j, y...paz, hastaH6662
+- Sal_82:3haced j al afligido y al menesterosoH6663
+- Sal_85:10la verdad y...la j y la paz se besaronH6664
+- Sal_85:11tierra, y la j mirará desde los cielosH6664
+- Sal_85:13la j irá delante de él, y sus pasos nosH6664
+- Sal_88:12serán reconocidas...tu j en la tierraH6666
+- Sal_89:14j y juicio son el cimiento de tu tronoH6664
+- Sal_89:16se alegrará, y en tu j será enaltecidoH6666
+- Sal_94:15sino que el juicio será vuelto a la jH6664
+- Sal_96:10afirmó el...juzgará a los pueblos en jH4339
+- Sal_96:13juzgará al mundo con j...con su verdadH6664
+- Sal_97:2j y juicio son el cimiento de su tronoH6664
+- Sal_97:6los cielos anunciaron su j, y todos losH6664
+- Sal_98:2a vista de...naciones ha descubierto su jH6666
+- Sal_98:9juzgará al mundo con j, y...con rectitudH6664
+- Sal_99:4juicio...has hecho en Jacob juicio y jH6666
+- Sal_103:6Jehová es el que hace j y derecho aH6666
+- Sal_103:17y su j sobre los hijos de los hijosH6666
+- Sal_106:3dichosos...que hacen j en todo tiempoH6666
+- Sal_106:31y le fue contado por j de generaciónH6666
+- Sal_111:3su obra, y su j permanece para siempreH6666
+- Sal_112:3bienes...y su j permanece para siempreH6666
+- Sal_112:9los pobres; su j permanece para siempreH6666
+- Sal_118:19abridme las puertas de la j; entraréH6664
+- Sal_119:40he anhelado tus...vivifícame en tu jH6666
+- Sal_119:121juicio y j he hecho; no me abandonesH6664
+- Sal_119:123salvación, y por la palabra de tu jH6664
+- Sal_119:142tu j es j eterna, y tu ley la verdadH6666
+- Sal_119:144j eterna son tus testimonios; dameH6664
+- Sal_119:160la suma...eterno es todo juicio de tu jH6664
+- Sal_119:172porque todos tus mandamientos son jH6664
+- Sal_132:9tus sacerdotes se vistan de j...santosH6664
+- Sal_143:1respóndeme por tu verdad, por tu jH6666
+- Sal_143:11por tu j sacarás mi alma de angustiaH6666
+- Sal_145:7proclamarán...bondad, y cantarán tu jH6666
+- Sal_146:7que hace j a los agraviados, que da panH4941
+- Pro_1:3para recibir el consejo de...j, juicioH6664
+- Pro_2:9entonces entenderás j, juicio y equidadH6664
+- Pro_8:15por mí reinan...príncipes determinan jH6664
+- Pro_8:18están conmigo; riquezas duraderas, y jH6666
+- Pro_8:20por vereda de j guiaré, por en medio deH6666
+- Pro_10:2los tesoros...mas la j libra de muerteH6666
+- Pro_11:4de la ira; mas la j librará de muerteH6666
+- Pro_11:5la j del perfecto enderezará su caminoH6666
+- Pro_11:6la j de los rectos los librará; mas losH6666
+- Pro_11:18mas el que siembra j tendrá galardónH6666
+- Pro_11:19como la j conduce a la vida, así el queH6666
+- Pro_12:17el que habla verdad declara j; mas elH6664
+- Pro_12:28en el camino de la j está la vida; yH6666
+- Pro_13:6la j guarda al de perfecto camino; masH6666
+- Pro_14:34la j engrandece a la nación; mas elH6666
+- Pro_15:9del impío; mas él ama al que sigue jH6666
+- Pro_16:8mejor es lo poco con j que...de frutosH6666
+- Pro_16:12porque con j será afirmado el tronoH6666
+- Pro_16:31vejez que se halla en el camino de jH6666
+- Pro_17:23soborno...pervertir las sendas de la jH4941
+- Pro_21:3hacer j...es a Jehová más agradable queH6666
+- Pro_21:21que sigue la j...hallará...j y la honraH6666
+- Pro_25:5aparta al...y su trono se afirmará en jH6664
+- Pro_31:9juzga con j, y defiende la causa delH6664
+- Ecl_3:16vi...en lugar de la j, allí iniquidadH6664
+- Ecl_5:8si...perversión de derecho y de j vieresH6664
+- Ecl_7:15justo hay que perece por su j, y hayH6664
+- Isa_1:17haced j al huérfano, amparad a...viudaH4941
+- Isa_1:21llena estuvo de j, en ella habitó laH6664
+- Isa_1:23no hacen j al huérfano, ni...de la viudaH7379
+- Isa_1:26te llamarán Ciudad de j, Ciudad fielH6664
+- Isa_1:27juicio, y los convertidos de ella con jH6666
+- Isa_5:7esperaba juicio, y...j, y he aquí clamorH6666
+- Isa_5:16y el Dios Santo será santificado con jH6666
+- Isa_9:7confirmándolo en juicio y en j...siempreH6666
+- Isa_10:22la destrucción acordada rebosará jH6666
+- Isa_11:4sino que juzgará con j a los pobres, yH6664
+- Isa_11:5la j cinto de sus lomos, y la fidelidadH6664
+- Isa_16:5quien...busque el juicio, y apresure la jH6664
+- Isa_26:9los moradores del mundo aprenden jH6664
+- Isa_26:10se mostrará piedad al...y no aprenderá jH6664
+- Isa_28:17y ajustaré el juicio a...y a nivel la jH6666
+- Isa_32:1que para j reinará un rey, y príncipesH6664
+- Isa_32:16juicio...en el campo fértil morará la jH6666
+- Isa_32:17el efecto de la j será paz; y la laborH6666
+- Isa_32:17y la labor de la j, reposo y seguridadH6666
+- Isa_33:5Jehová...llenó a Sion de juicio y de jH6666
+- Isa_33:15el que camina en j y habla lo recto; elH6666
+- Isa_41:10te sustentaré con la diestra de mi jH6664
+- Isa_42:1mi siervo...él traerá j a las nacionesH4941
+- Isa_42:3humeare; por medio de la verdad traerá jH4941
+- Isa_42:4hasta que establezca en la tierra j; yH4941
+- Isa_42:6te he llamado en j, y te sostendré porH6664
+- Isa_42:21Jehová se complació por amor de su jH6664
+- Isa_45:8nubes destilen la j...la salvación y la jH6664, [[H6666]]
+- Isa_45:13lo desperté en j, y enderezaré todosH6664
+- Isa_45:19yo soy Jehová que hablo j, que anuncioH6664
+- Isa_45:23mi boca salió palabra en j, y no seráH6666
+- Isa_45:24en Jehová está la j y la fuerza; a élH6666
+- Isa_46:12oídme, duros...que estáis lejos de la jH6666
+- Isa_46:13que se acerque mi j; no se alejará, yH6666
+- Isa_48:1juran en el...mas no en verdad ni en jH6666
+- Isa_48:18un río, y tu j como las ondas del marH6666
+- Isa_51:1los que seguís la j, los que buscáis aH6664
+- Isa_51:4de mí saldrá la ley, y mi j para luz deH4941
+- Isa_51:5cercana...mi j, ha salido mi salvaciónH6664
+- Isa_51:6mi salvación será para...mi j no pereceráH6666
+- Isa_51:7oídme, los que conocéis j, pueblo enH6664
+- Isa_51:8pero mi j permanecerá perpetuamente, yH6666
+- Isa_54:14con j serás adornada; estarás lejos deH6666
+- Isa_56:1dijo Jehová: Guardad derecho, y haced jH6666
+- Isa_56:1cercana está...y mi j para manifestarseH6666
+- Isa_57:12yo publicaré tu j y tus obras, que noH6666
+- Isa_58:2como gente que hubiese hecho j, y queH6666
+- Isa_58:8irá tu j delante de ti, y la gloria deH6664
+- Isa_59:4no hay quien clame por la j, ni quienH6664
+- Isa_59:8no conocieron...ni hay j en sus caminosH4941
+- Isa_59:9por esto se alejó de nosotros la j, yH4941
+- Isa_59:11esperamos j, y no la hay; salvación, yH4941
+- Isa_59:14y la j se puso lejos; porque la verdadH6666
+- Isa_59:16lo salvó su brazo, y le afirmó su...jH6666
+- Isa_59:17de j se vistió como de una coraza, conH6666
+- Isa_60:17por tu tributo, y j por tus opresoresH6666
+- Isa_61:3y serán llamados árboles de j, plantíoH6664
+- Isa_61:10me rodeó de manto de j, como a novioH6666
+- Isa_61:11así Jehová el Señor hará brotar j yH6666
+- Isa_62:1hasta que salga como resplandor su j, yH6664
+- Isa_62:2entonces verán las gentes tu j, y todosH6664
+- Isa_63:1el que hablo en j, grande para salvarH6666
+- Isa_64:5al encuentro del que con alegría hacía jH6664
+- Isa_64:6nuestras j como trapo de inmundicia; yH6666
+- Jer_4:2Jehová, en verdad, en juicio y en jH6666
+- Jer_5:1si hay alguno que haga j...busque verdadH4941
+- Jer_7:5si con verdad hiciereis j entre el hombreH4941
+- Jer_9:24yo soy Jehová, que hago...juicio y j enH6666
+- Jer_11:20oh Jehová de los...que juzgas con j, queH6664
+- Jer_22:3haced juicio y j, y librad al oprimidoH6666
+- Jer_22:13j ay del que edifica su casa sin j, yH6664
+- Jer_22:15tu padre...hizo juicio y j, y entoncesH6666
+- Jer_23:5reinará...y hará juicio y j en la tierraH6666
+- Jer_23:6el cual le llamarán: Jehová, j nuestraH6664
+- Jer_30:11te castigaré con j; de ninguna maneraH4941
+- Jer_31:23Jehová te bendiga, oh morada de j, ohH6664
+- Jer_33:15haré brotar a David un Renuevo de jH6666
+- Jer_33:15David...y hará juicio y j en la tierraH6666
+- Jer_33:16y se le llamará: Jehová, j nuestraH6664
+- Jer_46:28te castigaré con j, de ninguna maneraH4941
+- Jer_50:7ellos pecaron contra Jehová morada de jH6664
+- Jer_51:10Jehová sacó a luz nuestras j; venid, yH6666
+- Eze_3:20el justo se apartare de su j e hiciereH6664
+- Eze_3:20y sus j que había hecho no vendrán enH6666
+- Eze_14:14, Eze_14:20por su j librarían...propias vidasH6666
+- Eze_18:5que...hiciere según el derecho y la jH6666
+- Eze_18:19el hijo hizo según el derecho y la jH6666
+- Eze_18:20la j del justo será sobre él, y...impíoH6666
+- Eze_18:21e hiciere según el derecho y la j, deH6666
+- Eze_18:22no...recordadas; en su j que hizo viviráH6666
+- Eze_18:24el justo se apartare de su j...moriráH6666
+- Eze_18:24ninguna de las j...le serán tenidas enH6666
+- Eze_18:26apartándose el justo de su j...moriráH6666
+- Eze_18:27y haciendo según...la j, hará vivir suH6666
+- Eze_33:12la j del justo no lo librará el día queH6666
+- Eze_33:12el justo no podrá vivir por su j el día
+- Eze_33:13él confiado en su j hiciere iniquidadH6666
+- Eze_33:13todas sus j no serán recordadas, sinoH6666
+- Eze_33:14si él...hiciere según el derecho y la jH6666
+- Eze_33:16hizo según el derecho y la j; viviráH6666
+- Eze_33:18cuando el justo se apartare de su j, eH6666
+- Eze_33:19e hiciere según...la j, vivirá por elloH6666
+- Eze_34:16fuerte destruiré; las apacentaré con jH4941
+- Eze_45:9dejad la violencia y...haced juicio y jH6666
+- Dan_4:27rey...tus pecados redime con j, y tus...6665
+- Dan_9:7tuya es...la j, y nuestra la confusión deH6666
+- Dan_9:16conforme a...actos de j, apártase ahoraH6666
+- Dan_9:18no elevamos...confiados en nuestras jH6666
+- Dan_9:24para traer la j perdurable, y sellar laH6664
+- Dan_12:3y los que enseñan la j a la multitud...6663
+- Ose_2:19te desposaré conmigo en j, juicioH6664
+- Ose_10:12sembrad para vosotros en j, segad paraH6666
+- Ose_10:12buscar...hasta que venga y os enseñe jH6664
+- Amó_5:7el juicio, y la j la echáis por tierraH6666
+- Amó_5:15estableced la y en juicio; quizá JehováH4941
+- Amó_5:24pero corra...la j como impetuoso arroyoH6666
+- Amó_6:12convertido el...el fruto de j en ajenjo?[[H6666]]
+- Miq_6:5para que conozcas las j de JehováH6666
+- Miq_6:8qué pide...hacer j, y amar misericordiaH4941
+- Miq_7:9haga mi j; él me sacará a luz; veré su jH6666
+- Hab_1:4ley es debilitada...sale torcida la jH4941
+- Hab_1:7de ella misma procede su j y su dignidadH4941
+- Sof_2:3buscad j, buscad mansedumbre; quizásH6664
+- Zac_8:8seré a ellos por Dios en verdad y en jH6666
+- Mal_2:6labios; en paz y en j anduvo conmigoH4334
+- Mal_2:17en que decís...¿dónde está el Dios de j?[[H4941]]
+- Mal_3:3afinará...traerán a Jehová ofrenda en jH6666
+- Mal_4:2a vosotros los que...nacerá el Sol de jH6666
+- Mat_3:15así conviene que cumplamos toda jG1343
+- Mat_5:6los que tienen hambre y sed de j, porqueG1343
+- Mat_5:10padecen persecución por causa de la jG1343
+- Mat_5:20si vuestra j no fuere mayor que la deG1343
+- Mat_6:1guardaos de hacer vuestra j delante deG1654
+- Mat_6:33mas buscad...el reino de Dios y su j, yG1343
+- Mat_21:32vino a vosotros Juan en camino de jG1343
+- Mat_23:23dejáis...la j, la misericordia y la feG2920
+- Luc_1:75j delante de él, todos nuestros díasG1343
+- Luc_11:42pasáis por alto la j y el amor de DiosG2920
+- Luc_18:3a él, diciendo: Hazme j de mi adversarioG1556
+- Luc_18:5le haré j, no sea...me agote la pacienciaG1556
+- Luc_18:7¿y acaso Dios no hará j a sus escogidosG1557
+- Luc_18:8digo que pronto les hará j. Pero cuandoG1557
+- Jua_16:8convencerá al mundo de pecado, de j yG1343
+- Jua_16:10de j, por cuanto voy al Padre, y no meG1343
+- Hec_8:33en su humillación no se le hizo jG2920
+- Hec_10:35que...se agrada del que le teme y hace jG1343
+- Hec_13:10oh...hijo del diablo, enemigo de toda j![[G1343]]
+- Hec_17:31día en el cual juzgará al mundo con jG1343
+- Hec_24:25al disertar Pablo acerca de la j, delG1343
+- Hec_28:4escapado del mar, la j no deja vivirG1349
+- Rom_1:17el evangelio la j de Dios se revelaG1343
+- Rom_3:5mi injusticia hace resaltar la j de DiosG1343
+- Rom_3:21ahora...se ha manifestado la j de DiosG1343
+- Rom_3:22la j de Dios por medio de la fe enG1343
+- Rom_3:25para manifestar su j, a causa de haberG1343
+- Rom_3:26con la mira de manifestar...su j, a finG1343
+- Rom_4:3creyó Abraham a...y le fue contado por jG1343
+- Rom_4:5no obra, sino cree...le es contada por jG1343
+- Rom_4:6del hombre a quien Dios atribuye j sinG1343
+- Rom_4:9que a Abraham le fue contada la fe por jG1343
+- Rom_4:11sello de la j de la fe que tuvo estandoG1343
+- Rom_4:11a fin de que...fe les sea contada por jG1343
+- Rom_4:13no por la ley...sino por la j de la feG1343
+- Rom_4:22por lo cual...su fe le fue contada por jG1343
+- Rom_5:17reciben la abundancia...del don de la jG1343
+- Rom_5:18por la j de uno vino...la justificaciónG1345
+- Rom_5:21gracia reine por la j para vida eternaG1343
+- Rom_6:13miembros a Dios como instrumentos de jG1343
+- Rom_6:16muerte, o sea de la obediencia para j?[[G1343]]
+- Rom_6:18pecado, vinisteis a ser siervos de la jG1343
+- Rom_6:19presentad...miembros para servir a la jG1343
+- Rom_6:20esclavos...erais libres acerca de la jG1343
+- Rom_8:4la j de la ley se cumpliese en nosotros...1345
+- Rom_8:10mas el espíritu vive a causa de la jG1343
+- Rom_9:28el Señor ejecutará su sentencia...en jG1343
+- Rom_9:30los gentiles, que no iban tras la j, hanG1343
+- Rom_9:30han alcanzado la j, es decir, la j queG1343
+- Rom_9:31Israel, que iba tras una ley de j, no laG1343
+- Rom_10:3ignorando la j de Dios, y procurandoG1343
+- Rom_10:3suya...no se han sujetado a la j de DiosG1343
+- Rom_10:4es Cristo, para j a todo aquel que creeG1343
+- Rom_10:5de la j que es por la ley Moisés escribeG1343
+- Rom_10:6la j que es por la fe dice así: No digasG1343
+- Rom_10:10porque con el corazón se cree para jG1343
+- Rom_14:17no es...sino j, paz y gozo en el EspírituG1343
+- 2Co_5:21nosotros fuésemos hechos j de DiosG1343
+- 2Co_6:7con armas de j a diestra y a siniestraG1343
+- 2Co_6:14¿qué compañerismo tiene la j con laG1343
+- 2Co_9:9repartió...su j permanece para siempreG1343
+- 2Co_9:10y aumentará los frutos de vuestra jG1343
+- 2Co_11:15sus ministros se disfrazan como...de jG1343
+- Gál_2:21si por la ley fuese la j...por demásG1343
+- Gál_3:6así...creyó a Dios, y le fue contado por jG1343
+- Gál_3:21pudiera vivificar, la j fuera...por la leyG1343
+- Gál_5:5aguardamos por fe la esperanza de la jG1343
+- Efe_4:24creado según Dios en la j y santidadG1343
+- Efe_5:9fruto del Espíritu es en toda bondad, jG1343
+- Efe_6:14verdad, y vestidos con la coraza de jG1343
+- Flp_1:11llenos de frutos de j que son porG1343
+- Flp_3:6a la j que es en la ley, irreprensibleG1343
+- Flp_3:9no teniendo mi propia j...sino...la j queG1343
+- 1Ti_6:11y sigue la j, la piedad, la fe, elG1343
+- 2Ti_2:22y sigue la j, la fe, el amor y laG1343
+- 2Ti_3:16útil para enseñar, para instruir en jG1343
+- 2Ti_4:8me está guardada la corona de j, la cualG1343
+- Tit_3:5nos salvó, no por obras de j...sino porG1343
+- Heb_1:9has amado la j, y aborrecido la maldadG1343
+- Heb_5:13es inexperto en la palabra de j, porqueG1343
+- Heb_7:2nombre significa primeramente Rey de jG1343
+- Heb_11:7y fue hecho heredero de la j que vieneG1343
+- Heb_11:33por fe conquistaron reinos, hicieron jG1343
+- Heb_12:11pero después de fruto apacible de j aG1343
+- Stg_1:20ira del hombre no obra la j de DiosG1343
+- Stg_2:23y le fue contado por j, y fue llamadoG1343
+- Stg_3:18el fruto de j se siembra en paz paraG1343
+- 1Pe_2:24muertos a los pecados, vivamos a...jG1343
+- 1Pe_3:14alguna cosa padecéis por causa de la jG1343
+- 2Pe_1:1habéis alcanzado, por la j de nuestroG1343
+- 2Pe_2:5sino que guardó a Noé, pregonero de jG1343
+- 2Pe_2:21no haber conocido el camino de la j, queG1343
+- 2Pe_3:13tierra nueva, en los cuales mora la jG1343
+- 1Jn_2:29todo el que hace j es nacido de élG1343
+- 1Jn_3:7el que hace j es justo, como él es justoG1343
+- 1Jn_3:10aquel que no hace j, y que no ama a suG1343
+- Rev_18:20porque Dios os ha hecho j en ella
+- Rev_19:11se llamaba Fiel...con j juzga y peleaG1343
+- Rev_22:11que es justo, practique la j todavíaG1343

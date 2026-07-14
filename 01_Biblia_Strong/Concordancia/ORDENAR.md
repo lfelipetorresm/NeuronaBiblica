@@ -1,0 +1,106 @@
+---
+tipo: concordancia
+palabra: ORDENAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ORDENAR
+
+- Gén_14:8ordenaron contra ellos batalla en elH6186
+- Éxo_19:21ordena al pueblo que no traspase losH5749
+- Lev_27:34los mandamientos que ordenó JehováH4687
+- Núm_9:8esperad, y oiré lo que ordena JehováH6680
+- Núm_18:3guardarán lo que tú ordenes, y el cargoH4931
+- Núm_23:4siete altares he ordenado, y en cada unoH6186
+- Núm_28:6que fue ordenado en el monte Sinaí paraH6213
+- Deu_3:21ordené también a Josué...diciendo: TusH6680
+- Deu_4:2mandamientos de...Dios que yo os ordenoH6680
+- Deu_8:1por obra...mandamiento que yo os ordenoH6680
+- Deu_8:11cumplir...estatutos que yo te ordeno hoyH6680
+- Deu_11:28apartareis del camino que yo os ordenoH6680
+- Deu_15:5estos mandamientos que yo te ordeno hoyH6680
+- Deu_27:1ordenó...al pueblo, diciendo: GuardaréisH6680
+- Deu_27:10y sus estatutos, que yo te ordeno hoyH6680
+- Deu_28:13; Deu_30:8mandamientos que yo te ordeno hoyH6680
+- Deu_30:11este mandamiento que yo te ordeno hoyH6680
+- Deu_33:4cuando Moisés nos ordenó una ley, comoH6680
+- Jos_22:5cumplir...ley que Moisés...os ordenóH4687
+- Jue_2:20pueblo traspasa mi pacto que ordenéH6680
+- Jue_20:20de Israel ordenaron la batalla contraH6186
+- Jue_20:22Israel volvieron a ordenar la batallaH6186
+- Jue_20:22donde la habían ordenado el primer díaH6186
+- Jue_20:30el tercer día, ordenaron la batallaH6186
+- 1Sa_13:13el mandamiento...te había ordenadoH4687
+- 2Sa_4:12David ordenó...y ellos los mataron, yH6680
+- 2Sa_17:14Jehová había ordenado que...frustraraH6680
+- 2Sa_23:5pacto...ordenado en todas las cosas, yH6186
+- 1Re_1:27este negocio ordenado por mi señor
+- 1Re_2:1David...ordenó a Salomón su hijo, diciendoH6680
+- 1Re_12:32ordenó también en Bet-el sacerdotes paraH6213
+- 1Re_13:9me está ordenado por palabra de JehováH6680
+- 2Re_8:6rey ordenó a un oficial, al cual dijoH5414
+- 2Re_9:17Joram dijo: Ordena a un jinete que vayaH559
+- 2Re_20:1le dijo: Ordena tu casa, porque morirásH6680
+- 1Cr_19:9hijos de Amón...ordenaron la batalla
+- 1Cr_19:10ordenó su ejército contra los sitios
+- 1Cr_19:11ordenó en batalla contra los amonitasH6186
+- 1Cr_19:17a David...y ordenó batalla contra ellosH6186
+- 1Cr_19:17y cuando David hubo ordenado su tropaH6186
+- 1Cr_21:18y el ángel de Jehová ordenó a Gad queH559
+- 1Cr_24:19fue ordenado por Aarón su padre, de laH6680
+- 2Cr_8:14conforme a lo ordenado por David suH4687
+- 2Cr_13:3Abías ordenó batalla con...y Jeroboam oH631
+- 2Cr_14:10salió Asa...y ordenaron la batalla enH6186
+- 2Cr_23:18ordenó Joiada los oficios en la casa deH7760
+- 2Cr_35:4como lo ordenaron David rey de Israel
+- Esd_6:13según el rey Darío había ordenado
+- Neh_9:14les ordenaste el día de reposo santoH6680
+- Neh_13:19puertas...y ordené que no las abriesenH559
+- Est_9:21ordenándoles que celebrasen el díaH6965
+- Est_9:25él ordenó...que el perverso designio queH559
+- Est_9:31les había ordenado Mardoqueo el judío yH6965
+- Job_33:5respóndeme...ordena tus palabras, ponteH6186
+- Job_37:19no podemos ordenar las ideas a causa deH6186
+- Job_38:5¿quién ordenó sus medidas, si lo sabes?
+- Sal_37:23por Jehová son ordenados los pasosH3559
+- Sal_50:23al que ordenare su camino, le mostraréH7760
+- Sal_68:28Dios ha ordenado tu fuerza; confirmaH6680
+- Sal_111:9siempre ha ordenado su pacto; santo yH6680
+- Sal_119:5ojalá fuesen ordenados mis caminos paraH2706
+- Sal_119:133ordena mis pasos con tu palabra, yH3559
+- Pro_8:30con él estaba yo ordenándolo todo, yH525
+- Pro_20:18pensamientos con el consejo se ordenan
+- Pro_21:29impío...mas el recto ordena sus caminosH3559
+- Isa_38:1dice...Ordena tu casa, porque morirásH6680
+- Isa_61:3ordenar que a los afligidos de Sion seH7760
+- Jer_10:23ni del hombre...el ordenar sus pasosH3559
+- Jer_35:6nos ordenó diciendo: No beberéis...vinoH6680
+- Jer_39:11había ordenado a...acerca de JeremíasH6680
+- Dan_3:19ordenó que el horno se calentase sieteH560
+- Mat_8:4presenta la ofrenda que ordenó MoisésG4367
+- Mat_14:10ordenó decapitar a Juan en la cárcel
+- Mat_18:25ordenó su señor venderle, y a su mujerG2753
+- Mat_20:21ordena que en tu reino se sienten estos
+- Mat_27:10y las dieron...como me ordenó el SeñorG4929
+- Mat_28:16al monte donde Jesús les había ordenadoG5021
+- Luc_3:13no exijáis más de lo que os...ordenadoG1299
+- Luc_17:10hecho todo lo que os ha sido ordenadoG1299
+- Hec_4:15ordenaron que saliesen del concilioG2753
+- Hec_7:44como había ordenado Dios cuando dijo aG1299
+- Hec_10:41testigos que Dios había ordenado de antemanoG4401
+- Hec_12:19Herodes...ordenó llevarlos a la muerteG2753
+- Hec_13:48que estaban ordenados para vida eternaG5021
+- Hec_16:22ropas, ordenaron azotarles con varasG2753
+- Hec_22:10se te dirá todo lo que está ordenadoG5021
+- Hec_22:24ordenó que fuese examinado con azotesG2753
+- Hec_23:2Ananías ordenó...le golpeasen en la bocaG2004
+- Hec_23:31tomando a Pablo como se les ordenó, leG1299
+- 1Co_7:17esto ordeno en todas las iglesiasG1299
+- 1Co_9:14ordenó el Señor a los que anuncian elG1299
+- 1Co_12:24pero Dios ordenó el cuerpo, dando másG4786
+- 1Co_16:1haced...de la manera que ordené en lasG1299
+- Gál_3:19fue ordenada por medio de ángeles enG1299
+- 2Ts_3:6pero os ordenamos...que os apartéisG3853
+- 2Ts_3:10ordenábamos esto: Si alguno no quiereG3853
+- Heb_12:20no podían soportar lo que se ordenabaG1291

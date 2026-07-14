@@ -1,0 +1,2025 @@
+---
+tipo: concordancia
+palabra: CASA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CASA
+
+- Gén_7:1Noé: Entra tú y toda tu c en el arcaH1004
+- Gén_12:1vete de tu tierra...de la c de tu padreH1004
+- Gén_12:15y fue llevada la mujer a c de FaraónH1004
+- Gén_12:17a Faraón y a su c con grandes plagasH1004
+- Gén_14:14armó a sus criados, los nacidos en su cH1004
+- Gén_15:2el mayordomo de mi c es ese damascenoH1004
+- Gén_15:3mi heredero un esclavo nacido en mi cH1004
+- Gén_17:12nacido en c, y el comprado por dineroH1004
+- Gén_17:13ser circuncidado el nacido en tu c, yH1004
+- Gén_17:23y a todos los siervos nacidos en su cH1004
+- Gén_17:23todo varón entre...de la c de AbrahamH1004
+- Gén_17:27todos los varones de su c, el siervoH1004
+- Gén_17:27el siervo nacido en c, y el compradoH1004
+- Gén_18:19sé que mandará a sus hijos y a sus cH1004
+- Gén_19:2que vengáis a c de vuestro siervo y osH1004
+- Gén_19:3y fueron con él, y entraron en su cH1004
+- Gén_19:4rodearon la c los hombres de...SodomaH1004
+- Gén_19:10y metieron a Lot en c con ellos, yH1004
+- Gén_19:11a los hombres que...a la puerta de la cH1004
+- Gén_20:13me hizo salir errante de la c de miH1004
+- Gén_20:18había cerrado...toda matriz de la c deH1004
+- Gén_24:2un criado suyo, el más viejo de su cH1004
+- Gén_24:7que me tomó de la c de mi padre y deH1004
+- Gén_24:23me digas: ¿hay en c de tu padre lugarH1004
+- Gén_24:25hay en nuestra c paja y mucho forraje
+- Gén_24:27guiándome...a c de los hermanos de miH1004
+- Gén_24:28e hizo saber en c de su madre estasH1004
+- Gén_24:31he preparado la c, y el lugar para losH1004
+- Gén_24:32el hombre vino a c, y Labán desató losH1004
+- Gén_24:38irás a c de mi padre y a mi parentelaH1004
+- Gén_24:40mujer de mi familia y de la c de miH1004
+- Gén_27:15vestidos de Esaú...que ella tenía en cH1004
+- Gén_27:43hijo...levántate y huye a c de Labán
+- Gén_28:2vé a...a c de Betuel, padre de tu madreH1004
+- Gén_28:17lugar. No es otra cosa que c de DiosH1004
+- Gén_28:21y si volviere en paz a c de mi padreH1004
+- Gén_28:22esta piedra...por señal, será c de DiosH1004
+- Gén_29:13oyó Labán...lo beso, y lo trajo a su cH1004
+- Gén_30:30¿cuándo trabajaré...por mi propia c?[[H1004]]
+- Gén_31:14o heredad en la c de nuestro padre?[[H1004]]
+- Gén_31:30tenías deseo de la c de tu padreH1004
+- Gén_31:37¿qué has hallado de...enseres de tu c?[[H1004]]
+- Gén_31:41veinte años en tu c; catorce años teH1004
+- Gén_33:17Jacob fue a...y edificó allí c para síH1004
+- Gén_34:19era el mas distinguido de toda la c deH1004
+- Gén_34:26tomaron a Dina de c de Siquem, y seH1004
+- Gén_34:29y robaron todo lo que había en cH1004
+- Gén_34:30atacarán, y seré destruido yo y mi cH1004
+- Gén_36:6Esaú tomó...todas las personas de su cH1004
+- Gén_38:11quédate viuda en c de tu padre, hastaH1004
+- Gén_38:11fue Tamar, y estuvo en c de su padreH1004
+- Gén_39:2y estaba en la c de su amo el egipcioH1004
+- Gén_39:4le hizo mayordomo de su c y entregó enH1004
+- Gén_39:5cuando le dio el encargo de su c y deH1004
+- Gén_39:5Jehová bendijo la c del egipcio...JoséH1004
+- Gén_39:5bendijo la...así en c como en el campoH1004
+- Gén_39:8no se preocupa...de lo que hay en c, yH1004
+- Gén_39:9no hay otro mayor que yo en esta c, yH1004
+- Gén_39:11entró él un día en c para hacer suH1004
+- Gén_39:11y no había nadie de los de c allíH1004
+- Gén_39:14llamó a los de c...diciendo: Mirad, nosH1004
+- Gén_39:16José, hasta que vino su señor a su cH1004
+- Gén_40:3en la c del capitán de la guardia, enH1004
+- Gén_40:7él en la prisión de la c de su señorH1004
+- Gén_40:14hagas mención...y me saques de esta cH1004
+- Gén_41:10la prisión de la c del capitán de laH1004
+- Gén_41:40estarás sobre mi c, y por tu palabraH1004
+- Gén_41:51me hizo olvidar...toda la c de mi padreH1004
+- Gén_42:19quede...en la c de vuestra cárcel unoH1004
+- Gén_42:19alimento para el hambre de vuestra cH1004
+- Gén_42:33tomad para el hambre de vuestras cH1004
+- Gén_43:16mayordomo de su c: Lleva a c a estosH1004
+- Gén_43:17y llevó a los hombres a c de JoséH1004
+- Gén_43:18fueron llevados a c de José, y decíanH1004
+- Gén_43:19se acercaron al mayordomo de la c deH1004
+- Gén_43:19y le hablaron a la entrada de la cH1004
+- Gén_43:24y llevó...a los hombres a c de JoséH1004
+- Gén_43:26y vino José a c, y ellos le trajeronH1004
+- Gén_43:26trajeron el presente...dentro de la cH1004
+- Gén_44:1mandó...al mayordomo de su c...Llena deH1004
+- Gén_44:8¿cómo...habíamos de hurtar de c de tuH1004
+- Gén_44:14vino Judá con...hermanos a c de JoséH1004
+- Gén_45:2a llorar...y oyó también la c de FaraónH1004
+- Gén_45:8me ha puesto...por señor de toda su cH1004
+- Gén_45:11que no perezcas de pobreza tú y tu cH1004
+- Gén_45:16y se oyó la noticia en la c de FaraónH1004
+- Gén_46:27todas las personas de la c de JacobH1004
+- Gén_46:31José dijo a sus...y a la c de su padreH1004
+- Gén_46:31y la c de mi padre...han venido a míH1004
+- Gén_47:12alimentaba José a...la c de su padreH1004
+- Gén_47:14metió José el dinero en c de FaraónH1004
+- Gén_47:24y para...los que están en vuestras cH1004
+- Gén_50:4habló José a los de la c de FaraónH1004
+- Gén_50:7subieron con él...los ancianos de su cH1004
+- Gén_50:8toda la c de José...y la c de su padreH1004
+- Gén_50:22habitó José en...él y la c de su padreH1004
+- Éxo_7:23Faraón se volvió y fue a su c, y noH1004
+- Éxo_8:3ranas...en tu c...en las c de tus siervosH1004
+- Éxo_8:9las ranas sean quitadas de ti y de tus cH1004
+- Éxo_8:11y las ranas se irán de ti, y de tus cH1004
+- Éxo_8:13y murieron las ranas de las c, de losH1004
+- Éxo_8:21yo enviaré...tus c toda clase de moscasH1004
+- Éxo_8:21y las c de los egipcios se llenarán deH1004
+- Éxo_8:24moscas...c de Faraón...c de sus siervosH1004
+- Éxo_9:19no sea recogido a c, el granizo caeráH1004
+- Éxo_9:20hizo huir sus criados y su ganado a cH1004
+- Éxo_10:6llenará tus c, y las c de tus siervosH1004
+- Éxo_10:6y llenará...las c de todos los egipciosH1004
+- Éxo_12:4él y su vecino inmediato a su c tomaránH1004
+- Éxo_12:7sangre...pondrán...en el dintel de las cH1004
+- Éxo_12:13la sangre os será por señal en las cH1004
+- Éxo_12:15que no haya levadura en vuestras cH1004
+- Éxo_12:19no se hallará levadura en vuestras cH1004
+- Éxo_12:22ninguno...salga de las puertas de su cH1004
+- Éxo_12:23no dejará entrar al heridor...c paraH1004
+- Éxo_12:27pasó...las c de los hijos de Israel enH1004
+- Éxo_12:27hirió...egipcios, y libró nuestras cH1004
+- Éxo_12:30no había c donde no hubiese un muertoH1004
+- Éxo_12:46comerá en una c, y no llevarás...fueraH1004
+- Éxo_13:3habéis salido...de la c de servidumbreH1004
+- Éxo_13:14Jehová nos sacó...de c de servidumbreH1004
+- Éxo_16:31la c de Israel lo llamó Maná; y eraH1004
+- Éxo_19:3así dirás a la c de Jacob, y anunciarásH1004
+- Éxo_20:2soy...que te saqué...de c de servidumbreH1004
+- Éxo_20:17no codiciarás la c de tu prójimo, noH1004
+- Éxo_22:2el ladrón fuere hallado forzando una c
+- Éxo_22:7fuere hurtado de la c de aquel hombreH1004
+- Éxo_22:8el dueño de la c será presentado a losH1004
+- Éxo_23:19primicias de...traerás a la c de JehováH1004
+- Éxo_34:26los primeros frutos...a la c de JehováH1004
+- Éxo_40:38nube...a vista de toda la c de IsraelH1004
+- Lev_10:6toda la c de Israel, sí lamentaránH1004
+- Lev_14:34pusiere yo plaga de lepra en alguna cH1004
+- Lev_14:35vendrá aquel de quien fuere la c yH1004
+- Lev_14:35algo como plaga ha aparecido en mi cH1004
+- Lev_14:36el sacerdote mandará desocupar la cH1004
+- Lev_14:36no sea contaminado...estuviere en la cH1004
+- Lev_14:37vieren manchas en las paredes de la cH1004
+- Lev_14:38saldrá de la c a la...y cerrará la cH1004
+- Lev_14:39si...extendido en las paredes de la cH1004
+- Lev_14:41hará raspar la c por dentro alrededorH1004
+- Lev_14:42tomarán otro barro y recubrirán la cH1004
+- Lev_14:43plaga volviere a brotar en aquella cH1004
+- Lev_14:43plaga...después que hizo...raspar la cH1004
+- Lev_14:44plaga en la c...lepra maligna en la cH1004
+- Lev_14:45derribará, por tanto, la tal c, susH1004
+- Lev_14:45sus maderos y toda la mezcla de la cH1004
+- Lev_14:46y cualquiera que entrare en aquella cH1004
+- Lev_14:47el que durmiere en aquella c, lavaráH1004
+- Lev_14:47comiere en la c, lavará sus vestidosH1004
+- Lev_14:48que la plaga no se ha extendido en la cH1004
+- Lev_14:48el sacerdote declarará limpia la cH1004
+- Lev_14:49tomará para limpiar la c dos avecillasH1004
+- Lev_14:51los mojará...y rociará la c siete vecesH1004
+- Lev_14:52y purificará la c con la sangre de laH1004
+- Lev_14:53hará expiación por la c, y será limpiaH1004
+- Lev_14:55y de la lepra del vestido, y de la cH1004
+- Lev_16:6, Lev_16:11hará reconciliación por sí y por su cH1004
+- Lev_16:17hecho la expiación por sí, por su c yH1004
+- Lev_17:3varón de la c de Israel que degollareH1004
+- Lev_17:8, Lev_17:10cualquier varón de la c de Israel, oH1004
+- Lev_18:9tu hermana...nacida en c o nacida fueraH1004
+- Lev_19:13no retendrás el salario del...en tu c
+- Lev_22:11también el nacido en su c podrá comerH1004
+- Lev_22:13se hubiere vuelto a la c de su padreH1004
+- Lev_22:18cualquier varón de la c de Israel, oH1004
+- Lev_25:29el varón que vendiere c de habitaciónH1004
+- Lev_25:30fuere rescatada dentro de un año...la cH1004
+- Lev_25:31las c de las aldeas que no tienen muroH1004
+- Lev_25:32podrán rescatar en...c en las ciudadesH1004
+- Lev_25:33saldrá de la c...las c...son la posesiónH1004
+- Lev_25:41saldrá libre de tu c; él y sus hijos
+- Lev_27:14dedicara su c consagrándola a JehováH1004
+- Lev_27:15el que dedicó su c deseare rescatarlaH1004
+- Núm_1:2las c de sus padres, con la cuenta deH1004
+- Núm_1:4cada uno jefe de la c de sus padresH1004
+- Núm_1:18, Núm_1:20, Núm_1:22, Núm_1:24, Núm_1:26, Núm_1:28, Núm_1:30, Núm_1:32, Núm_1:34, Núm_1:36, Núm_1:38, Núm_1:40, Núm_1:42según las c de sus padresH1004
+- Núm_1:44varones, uno por cada c de sus padresH1004
+- Núm_1:45los contados...por las c de sus padresH1004
+- Núm_2:2bajo las enseñas de las c de sus padresH1004
+- Núm_2:32contados de...según las c de sus padresH1004
+- Núm_2:34marcharon...según las c de sus padresH1004
+- Núm_3:15cuenta los hijos de Leví según las cH1004
+- Núm_3:20son las familias de Leví, según las cH1004
+- Núm_3:35el jefe de la c del linaje de MerariH1004
+- Núm_4:2hijos de Coat...según las c de sus padresH1004
+- Núm_4:22el número...hijos de Gersón según las cH1004
+- Núm_4:29de Merari...según las c de sus padresH1004
+- Núm_4:34, Núm_4:38, Núm_4:40, Núm_4:42, Núm_4:46según las c de sus padresH1004
+- Núm_7:2los jefes de las c de sus padres, losH1004
+- Núm_12:7siervo Moisés, que es fiel en toda mi cH1004
+- Núm_16:32los tragó...sus c, a todos los hombresH1004
+- Núm_17:2toma de ellos una vara por cada c deH1004
+- Núm_17:2doce...conforme a las c de sus padresH1004
+- Núm_17:6cada príncipe por las c de sus padresH1004
+- Núm_17:8la vara de Aarón de la c de Leví habíaH1004
+- Núm_18:1y la c de tu padre contigo, llevaréis elH1004
+- Núm_18:11, Núm_18:13todo limpio en tu c comerá de ellasH1004
+- Núm_22:18; Núm_24:13Bala c me diese su c llena deH1004
+- Núm_26:2tomad el censo de...las c de sus padresH1004
+- Núm_30:3y se ligare con obligación en c de suH1004
+- Núm_30:10hubiere hecho voto en c de su maridoH1004
+- Núm_30:16durante su juventud en c de su padreH1004
+- Núm_32:18no volveremos a nuestras c hasta queH1004
+- Núm_34:14(2)la tribu...según las c de sus padresH1004
+- Núm_36:1y hablaron delante de...jefes de las c
+- Deu_5:6Dios, que te saqué...c de servidumbreH1004
+- Deu_5:21ni desearás la c de tu prójimo, ni suH1004
+- Deu_6:7y hablarás de ellas estando en tu c, yH1004
+- Deu_6:9y las escribirás en los postes de tu cH1004
+- Deu_6:11c llenas de...bien, que tú no llenasteH1004
+- Deu_6:12te sacó...de Egipto, de c de servidumbreH1004
+- Deu_6:22Egipto, sobre Faraón y sobre toda su cH1004
+- Deu_7:26y no traerás cosa abominable a tu cH1004
+- Deu_8:12y edifiques buenas c en que habitesH1004
+- Deu_8:14Dios, que te sacó...de c de servidumbreH1004
+- Deu_11:19hablando de...cuando te sientes en tu cH1004
+- Deu_11:20las escribirás en los postes de tu cH1004
+- Deu_13:5sacó...y te rescató de c de servidumbreH1004
+- Deu_13:10Dios, que te sacó...de c de servidumbreH1004
+- Deu_15:16porque te ama a ti y a tu c, y porqueH1004
+- Deu_19:1y habites en sus ciudades, y en sus cH1004
+- Deu_20:5¿quién ha edificado c nueva, y no la haH1004
+- Deu_20:5-6, Deu_20:7-8vaya, y vuélvase a su cH1004
+- Deu_21:12la meterás en tu c; y ella rapará suH1004
+- Deu_21:13y se quedará en tu c; y llorará a suH1004
+- Deu_22:2lo recogerás en tu c, y estará contigoH1004
+- Deu_22:8cuando edifiques c nueva, harás pretilH1004
+- Deu_22:8que no eches culpa de sangre sobre tu cH1004
+- Deu_22:21la sacarán a la puerta de la c de suH1004
+- Deu_22:21vileza...fornicando en c de su padreH1004
+- Deu_23:18no traerás la paga...a la c de JehováH1004
+- Deu_24:1y se la entregará...y la despedirá de su cH1004
+- Deu_24:2salida de su c, podrá ir y casarse conH1004
+- Deu_24:3y la despidiere de su c; o si hubiereH1004
+- Deu_24:5libre estará en su c por un año, paraH1004
+- Deu_24:10no entrarás en su c; tomarle prendaH1004
+- Deu_25:9no quiere edificar la c de su hermanoH1004
+- Deu_25:10dará este nombre...La c del descalzadoH1004
+- Deu_25:14ni tendrás en tu c efa grande y efaH1004
+- Deu_26:11tu Dios te haya dado a ti y a tu cH1004
+- Deu_26:13he sacado lo consagrado de mi c, yH1004
+- Deu_28:30edificarás c, y no habitarás en ellaH1004
+- Jos_2:1y entraron en c de una ramera que seH1004
+- Jos_2:3saca a los hombres...han entrado a tu cH1004
+- Jos_2:12la haréis vosotros con la c de mi padreH1004
+- Jos_2:15su c estaba en el muro de la ciudadH1004
+- Jos_2:18reunirás en tu c a tu padre y...madreH1004
+- Jos_2:19saliere fuera de las puertas de tu cH1004
+- Jos_2:19mas cualquiera que se estuviere en cH1004
+- Jos_6:17vivirá, con todos los que estén en cH1004
+- Jos_6:22dijo...Entrad en c de la mujer rameraH1004
+- Jos_6:24en el tesoro de la c de Jehová la plataH1004
+- Jos_6:25Josué salvó...a Rahab...la c de su padreH1004
+- Jos_7:14por sus c; y la c que Jehová tomare, seH1004
+- Jos_7:18su c por los varones, y fue tomado AcánH1004
+- Jos_9:12pan lo tomamos caliente de nuestras cH1004
+- Jos_9:23y saque el agua para la c de mi DiosH1004
+- Jos_17:17respondió a la c de José, a Efraín yH1004
+- Jos_18:5los de la c de José en el suyo al norteH1004
+- Jos_20:6el homicida podrá volver a su...y a su cH1004
+- Jos_21:45promesas que...había hecho a la c deH1004
+- Jos_22:14príncipe por cada c paterna de todasH1004
+- Jos_22:14cada uno de...era jefe de la c de susH1004
+- Jos_24:15pero yo y mi c serviremos a JehováH1004
+- Jos_24:17Dios...nos sacó...de la c de servidumbreH1004
+- Jue_1:22la c de José subió contra Bet-elH1004
+- Jue_1:23y la c de José puso espías en Bet-elH1004
+- Jue_1:35pero cuando la c de José cobró fuerzasH1004
+- Jue_4:17había paz entre Jabín...y la c de HeberH1004
+- Jue_6:8Egipto, y os saqué de la c de servidumbreH1004
+- Jue_6:15pobre...yo el menor en la c de mi padreH1004
+- Jue_8:27efod...fue tropezadero a Gedeón y a su cH1004
+- Jue_8:29Jerobaal hijo de...fue y habitó en su cH1004
+- Jue_8:35ni se...agradecidos con la c de JerobaalH1004
+- Jue_9:1Abimelec...habló con...la c del padre deH1004
+- Jue_9:5y viniendo a la c de su padre en OfraH1004
+- Jue_9:6se juntaron...con toda la c de Mito, yH1004
+- Jue_9:16actuado bien con Jerobaal y con su cH1004
+- Jue_9:18levantado hoy contra la c de mi padreH1004
+- Jue_9:19si...procedido con Jerobaal y con su cH1004
+- Jue_9:20consuma...la c de Milo, y...la c de MiloH1004
+- Jue_9:55muerto a Abimelec, se fueron...a su cH4725
+- Jue_10:9guerra contra Judá y...la c de EfraínH1004
+- Jue_11:2no heredarás en la c de nuestro padreH1004
+- Jue_11:7¿no me...echasteis de la c de mi padre?[[H1004]]
+- Jue_11:31que saliere de las puertas de mi c aH1004
+- Jue_11:34volvió Jefté a Mizpa, a su c; y he aquíH1004
+- Jue_12:1dijeron a Jefté: ¿Por...quemaremos tu cH1004
+- Jue_14:15te quememos a ti y a la c de tu padreH1004
+- Jue_14:19de enojo se volvió a la c de su padreH1004
+- Jue_16:26columnas sobre las que descansa la cH1004
+- Jue_16:27la c estaba llena de hombres y mujeresH1004
+- Jue_16:29columnas...sobre...que descansaba la cH1004
+- Jue_16:30y cayó la c sobre los principales, yH1004
+- Jue_16:31toda la c de su padre...le sepultaronH1004
+- Jue_17:4la cual fue puesta en la c de MicaíaH1004
+- Jue_17:5Micaía tuvo c de dioses, e hizo efodH1004
+- Jue_17:8este hombre partió...vino a c de MicaíaH1004
+- Jue_17:10Micaía le dijo: Quédate en mi c, y
+- Jue_17:12al levita...permaneció en c de MicaíaH1004
+- Jue_18:2éstos vinieron al...hasta la c de MicaíaH1004
+- Jue_18:3cuando estaban cerca de la c de MicaíaH1004
+- Jue_18:13de allí...vinieron hasta la c de MicaíaH1004
+- Jue_18:14¿no sabéis que en estas c hay efod yH1004
+- Jue_18:15la c del joven levita, en c de MicaíaH1004
+- Jue_18:18entrando...aquéllos en la c de MicaíaH1004
+- Jue_18:19¿es mejor que seas tú sacerdote en cH1004
+- Jue_18:22se habían alejado de la c de MicaíaH1004
+- Jue_18:22en las c cercanas a la c de Micaía seH1004
+- Jue_18:26más fuertes...volvió y regresó a su cH1004
+- Jue_18:31tiempo que la c de Dios estuvo en SiloH1004
+- Jue_19:2se fue de él a c de su padre, a BelénH1004
+- Jue_19:3ella le hizo entrar en la c de su padreH1004
+- Jue_19:4le detuvo su...y quedó en su c tres días
+- Jue_19:9levantaréis temprano...y te irás a tu cH168
+- Jue_19:15no hubo quien los acogiese en c paraH1004
+- Jue_19:18ahora voy a la c de Jehová, y no hayH1004
+- Jue_19:18voy a...y no hay quien me reciba en cH1004
+- Jue_19:21y los trajo a su c, y dio de comer aH1004
+- Jue_19:22rodearon la c, golpeando a la puertaH1004
+- Jue_19:22hablaron al...dueño de la c, diciendoH1004
+- Jue_19:22saca al hombre que ha entrado en tu cH1004
+- Jue_19:23salió a ellos el dueño de la c y lesH1004
+- Jue_19:23ya que este hombre ha entrado en mi cH1004
+- Jue_19:26cayó delante de...la c de aquel hombreH1004
+- Jue_19:27y abrió las puertas de la c, y salióH1004
+- Jue_19:27tendida delante de la puerta de la cH1004
+- Jue_19:29y llegando a su c, tomó un cuchilloH1004
+- Jue_20:5rodearon contra mí la c por la nocheH1004
+- Jue_20:8ni volverá ninguno de nosotros a su cH1004
+- Jue_20:18de Israel, y subieron a la c de DiosH1008
+- Jue_20:26y vinieron a la c de Dios; y lloraronH1008
+- Jue_21:2y vino el pueblo a la c de Dios, y seH1008
+- Rut_1:8volveos cada una a la c de su madreH1004
+- Rut_1:9halléis descanso, cada una en c de su maridoH1004
+- Rut_4:11haga a la mujer que entra en tu c comoH1004
+- Rut_4:11Lea, las cuales edificaron la c de IsraelH1004
+- Rut_4:12y sea tu c como la c de Fares, el queH1004
+- 1Sa_1:7hacía...cuando subía a la c de JehováH1004
+- 1Sa_1:19y volvieron y fueron a su c en RamáH1004
+- 1Sa_1:24destetado...lo trajo a la c de JehováH1004
+- 1Sa_2:11Elcana se volvió a su c en Ramá; y elH1004
+- 1Sa_2:20Elí bendijo a...y se volvieron a su cH4725
+- 1Sa_2:27¿no me manifesté...a la c de tu padreH1004
+- 1Sa_2:27¿no...cuando estaban...en c de Faraón?[[H1004]]
+- 1Sa_2:28a la c de tu padre todas las ofrendasH1004
+- 1Sa_2:30había dicho que tu c y la c de tu padreH1004
+- 1Sa_2:31c de tu padre...no haya anciano en tu cH1004
+- 1Sa_2:32verás tu c humillada, mientras DiosH1004
+- 1Sa_2:32en ningún tiempo habrá anciano en tu cH1004
+- 1Sa_2:33los nacidos en tu c morirán en la edadH1004
+- 1Sa_2:35le edificaré c firme, y andará delanteH1004
+- 1Sa_2:36el que hubiere quedado en tu c vendrá aH1004
+- 1Sa_3:12Elí...las cosas que he dicho sobre su cH1004
+- 1Sa_3:13y le mostraré que yo juzgaré su c paraH1004
+- 1Sa_3:14a la c de Elí que la iniquidad de la cH1004
+- 1Sa_3:15y abrió las puertas de la c de JehováH1004
+- 1Sa_5:2el arca...la metieron en la c de DagónH1004
+- 1Sa_6:7haced volver sus becerros de detrás...a cH1004
+- 1Sa_6:10vacas...y encerraron en c sus becerrosH1004
+- 1Sa_7:1el arca...la pusieron en c de AbinadabH1004
+- 1Sa_7:2c de Israel lamentaba en pos de JehováH1004
+- 1Sa_7:3Samuel a toda la c de Israel, diciendoH1004
+- 1Sa_7:17volvía a Ramá, porque allí estaba su cH1004
+- 1Sa_9:18me enseñes dónde está la c del videnteH1004
+- 1Sa_9:20para ti y para toda la c de tu padre?[[H1004]]
+- 1Sa_10:26cada uno a su c. Saúl...se fue a su cH1004
+- 1Sa_15:34y Saúl subió a su c en Gabaa de SaúlH1004
+- 1Sa_17:25eximirá de tributos a la c de su padreH1004
+- 1Sa_18:2y no le dejó volver a c de su padreH1004
+- 1Sa_18:10Saúl, y él desvariaba en medio de la cH1004
+- 1Sa_19:9sentado en su c tenía una lanza a manoH1004
+- 1Sa_19:11envió luego mensajeros a c de DavidH1004
+- 1Sa_20:15no apartarás tu misericordia de mi cH1004
+- 1Sa_20:15nombre...sea quitado de la c de David
+- 1Sa_20:16hizo Jonatán pacto con la c de DavidH1004
+- 1Sa_21:15loco...¿había de entrar éste en mi c?[[H1004]]
+- 1Sa_22:1cuando...la c de su padre lo supieronH1004
+- 1Sa_22:11envió por...Ahimelec...la c de su padreH1004
+- 1Sa_22:14a tus órdenes y es ilustre en tu c?[[H1004]]
+- 1Sa_22:15no culpe el rey a...ni a toda la c deH1004
+- 1Sa_22:16morirás, Ahimelec, tú y toda la c deH1004
+- 1Sa_22:22ocasionado la muerte a...c de tu padreH1004
+- 1Sa_23:18en Hores, y Jonatán se volvió a su cH1004
+- 1Sa_24:21ni borrarás mi nombre de la c de miH1004
+- 1Sa_24:22y se fue Saúl a su c, y David y susH1004
+- 1Sa_25:1Samuel...lo sepultaron en su c en RamáH1004
+- 1Sa_25:17el mal está ya resuelto contra...su cH1004
+- 1Sa_25:28pues Jehová...hará c estable a mi señorH1004
+- 1Sa_25:35sube en paz a tu c, y...he oído tu vozH1004
+- 1Sa_25:36él tenía banquete en su c como...de reyH1004
+- 1Sa_28:24tenía en su c un ternero engordadoH1004
+- 2Sa_1:12ayunaron hasta...por la c de IsraelH1004
+- 2Sa_2:4allí a David por rey sobre la c de JudáH1004
+- 2Sa_2:7de la c de Judá me han ungido por reyH1004
+- 2Sa_2:10los de la c de Judá siguieron a DavidH1004
+- 2Sa_2:11que David reinó en...sobre la c de JudáH1004
+- 2Sa_3:1larga guerra entre la c de Saúl y la cH1004
+- 2Sa_3:1David...la c de Saúl se iba debilitandoH1004
+- 2Sa_3:6como había guerra entre la c de Saúl yH1004
+- 2Sa_3:6que Abner se esforzaba por la c de SaúlH1004
+- 2Sa_3:8misericordia con la c de Saúl tu padreH1004
+- 2Sa_3:10trasladando el reino de la c de SaúlH1004
+- 2Sa_3:19parecía bien...a toda la c de BenjamínH1004
+- 2Sa_3:29caiga sobre...Joab, y...la c de su padreH1004
+- 2Sa_3:29falte de la c de Joab quien padezcaH1004
+- 2Sa_4:5entraron...calor del día en c de Is-bosetH1004
+- 2Sa_4:6portera de la c había estado limpiandoH1004
+- 2Sa_4:6Recab y Baana...se introdujeron en la cH1004
+- 2Sa_4:7cuando entraron en la c, Is-boset dormíaH1004
+- 2Sa_4:11que mataron a un hombre justo en su cH1004
+- 2Sa_5:8dijo: Ciego ni cojo no entrará en la cH1004
+- 2Sa_5:11los cuales edificaron la c de DavidH1004
+- 2Sa_6:3y la llevaron de la c de Abinadab, queH1004
+- 2Sa_6:4cuando lo llevaban de la c de AbinadabH1004
+- 2Sa_6:5y David y toda la c de Israel danzabanH1004
+- 2Sa_6:10la hizo llevar David a c de Obed-edomH1004
+- 2Sa_6:11y estuvo el arca de...en c de Obed-edomH1004
+- 2Sa_6:11y bendijo...a Obed-edom y a toda su cH1004
+- 2Sa_6:12Jehová ha bendecido la c de Obed-edomH1004
+- 2Sa_6:12el arca...de c de Obed-edom a la ciudadH1004
+- 2Sa_6:15toda la c de Israel conducían el arcaH1004
+- 2Sa_6:19se fue todo el pueblo, cada uno a su cH1004
+- 2Sa_6:20volvió luego David para bendecir su cH1004
+- 2Sa_6:21quien me eligió en preferencia a tu...cH1004
+- 2Sa_7:1que cuando ya el rey habitaba en su cH1004
+- 2Sa_7:2habitó en c de cedro, y el arca de DiosH1004
+- 2Sa_7:5me has de edificar c en que yo more?[[H1004]]
+- 2Sa_7:6no he habitado en c desde el día en queH1004
+- 2Sa_7:7qué no me habéis edificado c de cedro?[[H1004]]
+- 2Sa_7:11Jehová te hace saber que él te hará cH1004
+- 2Sa_7:13edificará c a mi nombre, y yo afirmaréH1004
+- 2Sa_7:16afirmada tu c y tu reino para siempreH1004
+- 2Sa_7:18y qué es mi c, para que tú me hayasH1004
+- 2Sa_7:19has hablado de la c de tu siervo en loH1004
+- 2Sa_7:25la palabra que has hablado sobre...su cH1004
+- 2Sa_7:26que la c de tu siervo David sea firmeH1004
+- 2Sa_7:27diciendo: Yo te edificaré c. Por estoH1004
+- 2Sa_7:29ten...a bien bendecir la c de tu siervoH1004
+- 2Sa_7:29ahora...será bendita la c de tu siervoH1004
+- 2Sa_9:1quedado alguno de la c de Saúl, a quienH1004
+- 2Sa_9:2había un siervo de la c de Saúl...SibaH1004
+- 2Sa_9:3¿no ha quedado nadie de la c de Saúl, aH1004
+- 2Sa_9:4está en c de Maquir hijo de Amiel, enH1004
+- 2Sa_9:5envió...le trajo de la c de Maquir hijoH1004
+- 2Sa_9:9todo lo que fue de Saúl y de toda su cH1004
+- 2Sa_9:12la familia de la c de Siba eran siervosH1004
+- 2Sa_11:2paseaba sobre el terrado de la c realH1004
+- 2Sa_11:4ella se purificó de...y se volvió a su cH1004
+- 2Sa_11:8desciende a tu c, y lava tus piesH1004
+- 2Sa_11:8saliendo Urías de la c del rey, le fueH1004
+- 2Sa_11:9durmió a la puerta de la c del rey conH1004
+- 2Sa_11:9Urías durmió a...y no descendió a su cH1004
+- 2Sa_11:10Urías no ha descendido a su c. Y dijoH1004
+- 2Sa_11:10¿por qué, pues, no descendiste a tu c?[[H1004]]
+- 2Sa_11:11había yo de entrar en mi c para comerH1004
+- 2Sa_11:13y él salió a...mas no descendió a su cH1004
+- 2Sa_11:27envió David y la trajo a su c; y fueH1004
+- 2Sa_12:8te di la c de tu señor...la c de IsraelH1004
+- 2Sa_12:10no se apartará jamás de tu c la espadaH1004
+- 2Sa_12:11haré levantar el mal...de tu misma cH1004
+- 2Sa_12:15Natán se volvió a su c. Y Jehová hirióH1004
+- 2Sa_12:17y se levantaron los ancianos de su cH1004
+- 2Sa_12:20se levantó...y entró a la c de JehováH1004
+- 2Sa_12:20vino a su c, y pidió, y le pusieronH1004
+- 2Sa_13:7a Tamar a su c...vé ahora a c de AmnónH1004
+- 2Sa_13:8fue Tamar a c de su hermano Amnón, elH1004
+- 2Sa_13:20quedó Tamar...c de Absalón su hermanoH1004
+- 2Sa_14:8dijo...Vete a tu c y yo daré órdenesH1004
+- 2Sa_14:9la maldad sea...sobre la c de mi padreH1004
+- 2Sa_14:24rey...Váyase a su c, y no vea mi rostroH1004
+- 2Sa_14:24y volvió Absalón a su c, y no vio elH1004
+- 2Sa_14:31se levantó Joab y vino a c de AbsalónH1004
+- 2Sa_15:16diez mujeres...para que guardasen la cH1004
+- 2Sa_15:35lo que oyeres en la c del rey, se loH1004
+- 2Sa_16:3me devolverá la c de Israel el reinoH1004
+- 2Sa_16:5salía uno...de la c de Saúl, el cual seH1004
+- 2Sa_16:8pago de toda la sangre de la c de SaúlH1004
+- 2Sa_16:21que él dejó para guardar la c; y todoH1004
+- 2Sa_17:18llegaron a c de un hombre en BahurimH1004
+- 2Sa_17:19tomando la mujer de la c una manta, laH1004
+- 2Sa_17:20llegando luego los...a la c de la mujerH1004
+- 2Sa_17:23se fue a su c...su c en orden, se ahorcóH1004
+- 2Sa_19:5Joab vino al rey en la c, y dijo: HoyH1004
+- 2Sa_19:11en hacer volver el rey a su c, cuandoH1004
+- 2Sa_19:11venido al rey...hacerle volver a su c?[[H1004]]
+- 2Sa_19:17venían...Siba, criado de la c de SaúlH1004
+- 2Sa_19:20el primero de toda la c de José, paraH1004
+- 2Sa_19:28la c de mi padre era digna de muerteH1004
+- 2Sa_19:30que...el rey ha vuelto en paz a su cH1004
+- 2Sa_19:39el rey besó a Barzilai...volvió a su cH4725
+- 2Sa_20:3que llegó David a su c en JerusalénH1004
+- 2Sa_20:3que había dejado para guardar la c, yH1004
+- 2Sa_21:1por aquella c de sangre, por cuantoH1004
+- 2Sa_21:4no...querella...con Saúl y con su c; niH1004
+- 2Sa_23:5no es así mi c...con Dios; sin embargoH1004
+- 2Sa_24:17contra mí y contra la c de mi padreH1004
+- 1Re_1:53vino...Salomón le dijo: Vete a tu cH1004
+- 1Re_2:24me ha hecho c, como me había dichoH1004
+- 1Re_2:27había dicho sobre la c de Elí en SiloH1004
+- 1Re_2:31y quita...de la c de mi padre la sangreH1004
+- 1Re_2:33y sobre su c...habrá perpetuamente pazH1004
+- 1Re_2:34fue sepultado en su c en el desiertoH1004
+- 1Re_2:36edifícate una c en Jerusalén y mora ahíH1004
+- 1Re_3:1acababa...su c, y la c de Jehová, y losH1004
+- 1Re_3:2porque no había c edificada al nombre deH1004
+- 1Re_3:17morábamos en una misma c, yo di a luzH1004
+- 1Re_3:17yo di a luz estando con ella en la cH1004
+- 1Re_3:18ninguno...c, sino nosotras dos en la cH1004
+- 1Re_4:7los cuales mantenían al rey y a su cH1004
+- 1Re_5:3no pudo edificar c al nombre de JehováH1004
+- 1Re_5:5he determinado...edificar c al nombre deH1004
+- 1Re_5:5tu hijo, a...él edificará c a mi nombreH1004
+- 1Re_5:14viniendo...a estar...dos meses en sus cH1004
+- 1Re_5:17piedra...para los cimientos de la c deH1004
+- 1Re_5:18madera y la cantería para labrar la cH1004
+- 1Re_6:1comenzó él a edificar la c de JehováH1004
+- 1Re_6:2la c...tenía 60 codos de largo y veinteH1004
+- 1Re_6:3el pórtico...de la c tenía veinte codosH1004
+- 1Re_6:3lo ancho de la c...ancho delante de la cH1004
+- 1Re_6:4hizo a la c ventanas anchas por dentroH1004
+- 1Re_6:5edificó también junto al muro de la cH1004
+- 1Re_6:5contra las paredes de la c alrededor delH1004
+- 1Re_6:6fuera había hecho disminuciones a la cH1004
+- 1Re_6:6para no empotrar las vigas en...de la cH1004
+- 1Re_6:7cuando se edificó la c, la fabricaron deH1004
+- 1Re_6:7ni martillos ni hachas se oyeron en la cH1004
+- 1Re_6:8la puerta del...al lado derecho de la cH1004
+- 1Re_6:9labró...la c, y la terminó; y la cubrióH1004
+- 1Re_6:10edificó...aposento alrededor de...la cH1004
+- 1Re_6:10apoyaba en la c con maderas de cedroH1004
+- 1Re_6:12con relación a esta c que tú edificasH1004
+- 1Re_6:14así...Salomón labró la c y la terminóH1004
+- 1Re_6:15cubrió las paredes de la c con...cedroH1004
+- 1Re_6:15desde el suelo de la c hasta las vigasH1004
+- 1Re_6:16hizo al final de la c un edificio deH1004
+- 1Re_6:16así hizo en la c un aposento que es elH1004
+- 1Re_6:17la c, esto es, el templo de adelanteH1004
+- 1Re_6:18c estaba cubierta de cedro por dentroH1004
+- 1Re_6:19el lugar santísimo...en medio de la cH1004
+- 1Re_6:21Salomón cubrió de oro...la c por dentroH1004
+- 1Re_6:22cubrió...de oro...la c de arriba abajoH1004
+- 1Re_6:27puso estos querubines dentro de la cH1004
+- 1Re_6:27dos alas se tocaban...en medio de la cH1004
+- 1Re_6:29y esculpió todas las paredes de la cH1004
+- 1Re_6:30y cubrió de oro el piso de la c, porH1004
+- 1Re_6:37año...se echaron los cimientos de la cH1004
+- 1Re_6:38en el mes de Bul...fue acabada la c conH1004
+- 1Re_7:1edificó...su propia c en trece años, yH1004
+- 1Re_7:2edificó la c del bosque del Líbano, laH1004
+- 1Re_7:8y la c en que él moraba, en otro atrioH1004
+- 1Re_7:8c de hechura semejante a la del pórticoH1004
+- 1Re_7:12de la c de Jehová, y el atrio de la cH1004
+- 1Re_7:39puso cinco basas a derecha de la c, yH1004
+- 1Re_7:39colocó el mar al lado derecho de la cH1004
+- 1Re_7:40, 1Re_7:51terminó toda la obra...c de JehováH1004
+- 1Re_7:45los utensilios que...para la c de JehováH1004
+- 1Re_7:48los enseres que pertenecían a la c deH1004
+- 1Re_7:50los quiciales de las puertas de la cH1004
+- 1Re_7:51depositó...en las tesorerías de la c deH1004
+- 1Re_8:6arca...su lugar, en el santuario de la cH1004
+- 1Re_8:10salieron...la nube llenó la c de JehováH1004
+- 1Re_8:11la gloria de Jehová había llenado la cH1004
+- 1Re_8:13yo he edificado c por morada para tiH1004
+- 1Re_8:16para edificar c en la cual estuviese miH1004
+- 1Re_8:17y David...tuvo en su corazón edificar cH1004
+- 1Re_8:18haber tenido en tu corazón edificar cH1004
+- 1Re_8:19tú no edificarás la c, sino tu hijo queH1004
+- 1Re_8:19tu hijo que...él edificará c a mi nombreH1004
+- 1Re_8:20he edificado la c al nombre de JehováH1004
+- 1Re_8:27¿cuánto menos...c que yo he edificado?[[H1004]]
+- 1Re_8:29estén tus ojos abiertos...sobre esta cH1004
+- 1Re_8:31juramento delante de tu altar en esta cH1004
+- 1Re_8:33y te rogaren y suplicaren en esta cH1004
+- 1Re_8:38cuando...extendiere sus manos a esta cH1004
+- 1Re_8:42el extranjero...viniere a orar a esta cH1004
+- 1Re_8:43que tu nombre es invocado sobre esta cH1004
+- 1Re_8:44, 1Re_8:48rostro...hacia la c que yo edifiquéH1004
+- 1Re_8:63así dedicaron...Israel la c de JehováH1004
+- 1Re_8:64del atrio...delante de la c de JehováH1004
+- 1Re_9:1acabado la...la c de Jehová, y la c realH1004
+- 1Re_9:3santificado esta c que tú has edificadoH1004
+- 1Re_9:7esta c...yo la echaré de delante de míH1004
+- 1Re_9:8y esta c...cualquiera que pase por ellaH1004
+- 1Re_9:8¿por qué ha hecho así Jehová...a esta c?[[H1004]]
+- 1Re_9:10Salomón ya había edificado las dos cH1004
+- 1Re_9:10edificado...la c de Jehová y la c realH1004
+- 1Re_9:15edificar la c de Jehová, y su propia cH1004
+- 1Re_9:24subió la hija de Faraón de la...a su cH1004
+- 1Re_9:25altar...después que la c fue terminadaH1004
+- 1Re_10:4reina de Sabá vio...c que había edificadoH1004
+- 1Re_10:5sus holocaustos que ofrecía en la c deH1004
+- 1Re_10:12hizo...balaustres para la c de JehováH1004
+- 1Re_10:12hizo...balaustres...para las c realesH1004
+- 1Re_10:17los puso en la c del bosque del LíbanoH1004
+- 1Re_10:21toda la vajilla de la c del bosque delH1004
+- 1Re_11:18Faraón...les dio c y le señaló alimentosH1004
+- 1Re_11:20cual destetó Tahpenes en c de FaraónH1004
+- 1Re_11:20estaba Genubat en c de Faraón entreH1004
+- 1Re_11:28le encomendó...el cargo de la c de JoséH1004
+- 1Re_11:38estaré contigo y...te edificaré c firmeH1004
+- 1Re_12:16Israel...¡Provee ahora en tu c, David![[H1004]]
+- 1Re_12:19así se apartó Israel de la c de DavidH1004
+- 1Re_12:20tribu...que siguiese la c de David, sinoH1004
+- 1Re_12:21Roboam...reunió a toda la c de Judá yH1004
+- 1Re_12:21fin de hacer guerra a la c de IsraelH1004
+- 1Re_12:23habla a Roboam...y a toda la c de JudáH1004
+- 1Re_12:24volveos cada uno a su c, porque estoH1004
+- 1Re_12:26se volverá el reino de la c de DavidH1004
+- 1Re_12:27ofrecer sacrificios en la c de JehováH1004
+- 1Re_12:31hizo también c...lugares altos, e hizoH1004
+- 1Re_13:2a la c de David nacerá un hijo...JosíasH1004
+- 1Re_13:7rey dijo al varón de...Ven conmigo a cH1004
+- 1Re_13:8aunque me dieras la mitad de tu c, noH1004
+- 1Re_13:15le dijo: Ven conmigo a c, y come panH1004
+- 1Re_13:18tráele contigo a tu c, para que comaH1004
+- 1Re_13:19volvió con él, y comió pan en su cH1004
+- 1Re_13:32y contra todas las c de los lugaresH1004
+- 1Re_13:34causa de pecado a la c de JeroboamH1004
+- 1Re_14:4y fue a Silo, y vino a c de AhíasH1004
+- 1Re_14:8rompí el reino de la c de David y te loH1004
+- 1Re_14:10yo traigo mal sobre la c de JeroboamH1004
+- 1Re_14:10y barreré la posteridad de la c deH1004
+- 1Re_14:12levántate y vete a tu c; y al poner tuH1004
+- 1Re_14:13ha hallado en él...en la c de JeroboamH1004
+- 1Re_14:14el cual destruirá la c de Jeroboam enH1004
+- 1Re_14:17y entrando ella por el umbral de la cH1004
+- 1Re_14:26tesoros de la c de Jehová...la c realH1004
+- 1Re_14:27quienes custodiaban la puerta de la cH1004
+- 1Re_14:28cuando el...entraba en la c de JehováH1004
+- 1Re_15:15metió en la c de Jehová lo...dedicadoH1004
+- 1Re_15:18los tesoros de la c de Jehová, y losH1004
+- 1Re_15:18tomando Asa...los tesoros de la c realH1004
+- 1Re_15:27Baasa...el cual era de la c de IsacarH1004
+- 1Re_15:29reino, mató a toda la c de JeroboamH1004
+- 1Re_16:3yo barreré la...y la posteridad de su cH1004
+- 1Re_16:3pondré su c como la c de Jeroboam hijoH1004
+- 1Re_16:7la palabra...contra Baasa...contra su cH1004
+- 1Re_16:7que fuese hecha como la c de JeroboamH1004
+- 1Re_16:9estando el...en c de Arsa su mayordomoH1004
+- 1Re_16:11mató a toda la c de Baasa, sin dejarH1004
+- 1Re_16:12exterminó Zimri a toda la c de BaasaH1004
+- 1Re_16:18se metió en el palacio de la c realH1004
+- 1Re_16:18y prendió fuego a la c...y así murióH1004
+- 1Re_17:15comió él, y ella y su c, muchos díasH1004
+- 1Re_17:17cayó enfermo el hijo del ama de la cH1004
+- 1Re_17:20a la viuda en cuya c estoy hospedado
+- 1Re_17:23lo trajo del aposento a la c, y lo dioH1004
+- 1Re_18:18no he turbado a...sino tú y la c de tuH1004
+- 1Re_20:6registrarán tu c, y las c de...siervosH1004
+- 1Re_20:31oído de los reyes de la c de IsraelH1004
+- 1Re_20:43el rey...se fue a su c triste y enojadoH1004
+- 1Re_21:2dame tu viña para...está cercana a mi cH1004
+- 1Re_21:4y vino Acab a su c triste y enojadoH1004
+- 1Re_21:21hasta el último varón de la c de Acab
+- 1Re_21:22y pondré tu c como la c de JeroboamH1004
+- 1Re_21:22y como la c de Baasa hijo de AhíasH1004
+- 1Re_21:29en los días...traeré el mal sobre su cH1004
+- 1Re_22:17no tienen...vuélvase cada uno a su cH1004
+- 1Re_22:39la c de marfil que construyó, y todasH1004
+- 2Re_1:2cayó por la ventana...de la c que tenía
+- 2Re_4:2declárame qué tienes en c. Y ella dijoH1004
+- 2Re_4:2tu sierva ninguna cosa tiene en c, sinoH1004
+- 2Re_4:8Eliseo...venía a la c de ella a comer
+- 2Re_4:9éste que siempre pasa por nuestra c, es
+- 2Re_4:32y venido Eliseo a la c, he aquí que elH1004
+- 2Re_4:35volviéndose luego, se paseó por la cH1004
+- 2Re_5:9se paró a las puertas de la c de EliseoH1004
+- 2Re_5:24lo tomó...de ellos, y lo guardó en la cH1004
+- 2Re_6:32Eliseo estaba sentado en su c, y con élH1004
+- 2Re_7:9entremos y demos la nueva en c del reyH1004
+- 2Re_8:1vete tú y toda tu c a vivir donde puedasH1004
+- 2Re_8:3, 2Re_8:5para implorar al rey por su c y por susH1004
+- 2Re_8:18, 2Re_8:27anduvo en el camino de...la c de AcabH1004
+- 2Re_8:27como la c de Acab...era yerno de la c deH1004
+- 2Re_9:6el se levantó, y entró en c; y el otroH1004
+- 2Re_9:7herirás la c de Acab tu señor, para queH1004
+- 2Re_9:8perecerá...la c de Acab, y destruiré deH1004
+- 2Re_9:9la c de Acab como la c de Jeroboam hijoH1004
+- 2Re_9:9y como la c de Baasa hijo de AhíasH1004
+- 2Re_9:27huyó por el camino de la c del huertoH1004
+- 2Re_10:3y pelead por la c de vuestro señorH1004
+- 2Re_10:10que Jehová habló sobre la c de AcabH1004
+- 2Re_10:11mató...de la c de Acab en Jezreel, aH1004
+- 2Re_10:12llegó a una c de esquileo de pastoresH1004
+- 2Re_10:14los degollaron junto...la c de esquileoH1004
+- 2Re_10:30e hiciste a la c de Acab conforme aH1004
+- 2Re_11:3escondido en la c de Jehová seis añosH1004
+- 2Re_11:4y los metió consigo en la c de JehováH1004
+- 2Re_11:4juramentándolos en la c de JehováH1004
+- 2Re_11:5tendrá la guardia de la c del rey elH1004
+- 2Re_11:6guardaréis la c...que no sea allanadaH1004
+- 2Re_11:7tendréis la guardia de la c de JehováH1004
+- 2Re_11:10los escudos...estaban en la c de JehováH1004
+- 2Re_11:11desde el lado derecho de la c hasta elH1004
+- 2Re_11:16entran los de a caballo a la c del reyH1004
+- 2Re_11:18puso guarnición sobre la c de JehováH1004
+- 2Re_11:19llevaron al rey desde la c de JehováH1004
+- 2Re_11:19vinieron...a la c del rey; y se sentóH1004
+- 2Re_11:20Atalía muerta...junto a la c del reyH1004
+- 2Re_12:4dinero...se suele traer a la c de JehováH1004
+- 2Re_12:4propia voluntad trae a la c de JehováH1004
+- 2Re_12:9, 2Re_12:13dinero que se traía a la c de JehováH1004
+- 2Re_12:11a los que tenían a su cargo la c deH1004
+- 2Re_12:11pagar a...maestros que reparaban la cH1004
+- 2Re_12:12para reparar las grietas de la c deH1004
+- 2Re_12:12todo lo que se gastaba en la c paraH1004
+- 2Re_12:13aquel dinero que se traía a la c de JehováH1004
+- 2Re_12:14y con él reparaban la c de JehováH1004
+- 2Re_12:16el dinero por el...no se llevaba a la cH1004
+- 2Re_12:18el oro...de la c de Jehová...la c del reyH1004
+- 2Re_12:20conspiraron...y mataron a Joás en la cH1004
+- 2Re_13:6de los pecados de la c de Jeroboam, elH1004
+- 2Re_14:10gloríate pues, mas quédate en tu cH1004
+- 2Re_14:14utensilios...hallados en la c de JehováH1004
+- 2Re_14:14y en los tesoros de la c del rey, y aH1004
+- 2Re_15:5habitó en c separada, y Jotam hijo delH1004
+- 2Re_15:25lo hirió...en el palacio de la c realH1004
+- 2Re_15:35edificó él la puerta más alta de la cH1004
+- 2Re_16:8el oro que se halló en la c de JehováH1004
+- 2Re_16:8y en los tesoros de la c real, envió alH1004
+- 2Re_16:14en la parte delantera de la c, entreH1004
+- 2Re_16:18el pórtico...habían edificado en la cH1004
+- 2Re_17:4rey...le aprisionó en la c de la cárcel
+- 2Re_17:21separó a Israel de la c de David, yH1004
+- 2Re_18:15plata que fue hallada en la c de JehováH1004
+- 2Re_18:15la plata...en los tesoros de la c realH1004
+- 2Re_19:1de cilicio, y entró en la c de JehováH1004
+- 2Re_19:14subió a la c de Jehová, y las extendióH1004
+- 2Re_19:30lo que hubiere quedado de la c de JudáH1004
+- 2Re_20:1dice así: Ordena tu c, porque morirásH1004
+- 2Re_20:5al tercer día subirás a la c de JehováH1004
+- 2Re_20:8subiré a la c de Jehová al tercer día?[[H1004]]
+- 2Re_20:13y les mostró toda la c de sus tesorosH1004
+- 2Re_20:13Ezequías...mostró...la c de sus armasH1004
+- 2Re_20:13así en su c como en todos sus dominiosH1004
+- 2Re_20:15volvió a decir: ¿Qué vieron en tu c?[[H1004]]
+- 2Re_20:15todo lo que había en mi c; nada quedóH1004
+- 2Re_20:17todo lo que está en tu c...a BabiloniaH1004
+- 2Re_21:4edificó altares en la c de Jehová, deH1004
+- 2Re_21:5altares...en los dos atrios de la c deH1004
+- 2Re_21:7y puso una imagen de Asera...en la c deH1004
+- 2Re_21:7yo pondré mi nombre...siempre en esta cH1004
+- 2Re_21:13extenderé...la plomada de la c de AcabH1004
+- 2Re_21:18y fue sepultado en el huerto de su cH1004
+- 2Re_21:23conspiraron...y mataron al rey en su cH1004
+- 2Re_22:3envió el rey a Safán...a la c de JehováH1004
+- 2Re_22:4recoja el dinero que han traído a la cH1004
+- 2Re_22:5tienen a su cargo el arreglo de la cH1004
+- 2Re_22:5la obra de la c...las grietas de la cH1004
+- 2Re_22:6comprar madera y piedra...reparar la cH1004
+- 2Re_22:8he hallado el libro de la ley en la cH1004
+- 2Re_22:9su cargo el arreglo de la c de JehováH1004
+- 2Re_23:2subió el rey a la c de Jehová con todosH1004
+- 2Re_23:2, 2Re_23:24libro...hallado en la c de JehováH1004
+- 2Re_23:6sacar la imagen de...de la c de JehováH1004
+- 2Re_23:7los lugares de prostitución...en la c deH1004
+- 2Re_23:12altares...en los dos atrios de la c deH1004
+- 2Re_23:19las c de los lugares altos que...quitóH1004
+- 2Re_23:27desecharé...c de la cual había yo dichoH1004
+- 2Re_24:13todos los tesoros de la c de JehováH1004
+- 2Re_24:13y los tesoros de la c real, y rompióH1004
+- 2Re_24:13hecho Salomón rey...en la c de JehováH1964
+- 2Re_25:9y quemó la c de Jehová, y la c del reyH1004
+- 2Re_25:9las c de Jerusalén, y todas las c de losH1004
+- 2Re_25:13quebraron...columnas...en la c de JehováH1004
+- 2Re_25:13el mar de bronce...en la c de JehováH1004
+- 2Re_25:16mar, y las basas...para la c de JehováH1004
+- 1Cr_2:55de Hamat padre de la c de RecabH1004
+- 1Cr_4:38c de sus padres fueron multiplicadas enH1004
+- 1Cr_5:15Ahí hijo de...fue principal en la c deH1004
+- 1Cr_5:24(2)jefes de las c de sus padresH1004
+- 1Cr_6:10Azarías, el...tuvo el sacerdocio en la cH1004
+- 1Cr_6:31sobre el servicio de canto en la c deH1004
+- 1Cr_6:32hasta que...edificó la c de Jehová enH1004
+- 1Cr_6:48ministerio del tabernáculo de la c deH1004
+- 1Cr_7:7cinco jefes de c paternas, hombres deH1004
+- 1Cr_7:23cuanto había estado en aflicción en su cH1004
+- 1Cr_8:6estos los jefes de c paternas...en Geba
+- 1Cr_9:9jefes de familia en sus c paternasH1004
+- 1Cr_9:11de Ahitob, príncipe de la c de DiosH1004
+- 1Cr_9:13sus hermanos, jefes de sus c paternasH1004
+- 1Cr_9:13eficaces en la...del ministerio en la cH1004
+- 1Cr_9:19y sus hermanos los...por la c de su padreH1004
+- 1Cr_9:23eran porteros...a las puertas de la c deH1004
+- 1Cr_9:23las puertas...y de la c del tabernáculoH1004
+- 1Cr_9:26a su cargo...los tesoros de la c de DiosH1004
+- 1Cr_9:27alrededor de la c de Dios...guardarlaH1004
+- 1Cr_10:6y toda su c murió juntamente con élH1004
+- 1Cr_12:28Sadoc...con 22 de...de la c de su padreH1004
+- 1Cr_12:29se mantenían fieles a la c de SaúlH1004
+- 1Cr_12:30varones ilustres en las c de...padresH1004
+- 1Cr_13:7y llevaron el arca de Dios de la c deH1004
+- 1Cr_13:12¿cómo he de traer a mi c el arca deH1004
+- 1Cr_13:13no trajo David el arca a su c en laH1004
+- 1Cr_13:13que la llevó a c de Obed-edom geteoH1004
+- 1Cr_13:14y el arca de Dios estuvo con...en su cH1004
+- 1Cr_13:14y bendijo Jehová la c de Obed-edom, yH1004
+- 1Cr_14:1madera de...para que le edificasen una cH1004
+- 1Cr_15:1hizo David...c para sí en la ciudad deH1004
+- 1Cr_15:25traer el arca del...de c de Obed-edomH1004
+- 1Cr_16:43todo el pueblo se fue cada uno a su cH1004
+- 1Cr_16:43y David se volvió para bendecir su cH1004
+- 1Cr_17:1morando David en su c, dijo David alH1004
+- 1Cr_17:1yo habito en c de cedro, y el arca delH1004
+- 1Cr_17:4tú no me edificarás c en que habiteH1004
+- 1Cr_17:5no he habitado en c alguna desde el díaH1004
+- 1Cr_17:6¿por qué no me edificáis...c de cedro?[[H1004]]
+- 1Cr_17:10te hago saber...Jehová te edificará cH1004
+- 1Cr_17:12él me edificará c, y yo confirmaré suH1004
+- 1Cr_17:14lo confirmaré en mi c y en mi reinoH1004
+- 1Cr_17:16yo, y cuál es mi c, para que me hayasH1004
+- 1Cr_17:17que has hablado de la c de tu siervoH1004
+- 1Cr_17:23hablado acerca de tu siervo y de su cH1004
+- 1Cr_17:24y sea la c de tu siervo David firmeH1004
+- 1Cr_17:25a tu siervo que le has de edificar cH1004
+- 1Cr_17:27has querido bendecir la c de tu siervoH1004
+- 1Cr_21:17contra mí, y contra la c de mi padreH1004
+- 1Cr_22:1dijo David: Aquí estará la c de...DiosH1004
+- 1Cr_22:2que labrasen piedras para edificar la cH1004
+- 1Cr_22:5y la c que se ha de edificar a JehováH1004
+- 1Cr_22:6le mandó que edificase c a Jehová DiosH1004
+- 1Cr_22:8no edificarás c a mi nombre, porque hasH1004
+- 1Cr_22:10él edificará c a mi nombre, y él meH1004
+- 1Cr_22:11edifiques c a Jehová tu Dios, como élH1004
+- 1Cr_22:14he preparado para la c de Jehová...oroH1004
+- 1Cr_22:19para traer el arca del pacto...a la cH1004
+- 1Cr_23:4para dirigir la obra de la c de JehováH1004
+- 1Cr_23:24trabajaban en el ministerio de la cH1004
+- 1Cr_23:28para ministrar en la c de Jehová, enH1004
+- 1Cr_23:28obra del ministerio de la c de DiosH1004
+- 1Cr_23:32en el ministerio de la c de JehováH1004
+- 1Cr_24:4de Eleazar, 16 cabezas de c paternasH1004
+- 1Cr_24:4hijos de Itamar, por sus c paternas, 8H1004
+- 1Cr_24:5de Eleazar...príncipes de la c de Dios
+- 1Cr_24:6delante de...los jefes de las c paternas
+- 1Cr_24:6una c paterna para Eleazar, y otra paraH1004
+- 1Cr_24:19para que entrasen en la c de JehováH1004
+- 1Cr_24:30los levitas conforme a sus c paternasH1004
+- 1Cr_24:31de los jefes de las c paternas de losH1004
+- 1Cr_25:6en la música, en la c de Jehová, conH1004
+- 1Cr_26:6fueron señores sobre la c de sus padresH1004
+- 1Cr_26:12los porteros...servir en la c de JehováH1004
+- 1Cr_26:13echaron suertes...según sus c paternasH1004
+- 1Cr_26:15y a sus hijos la c de provisiones delH624
+- 1Cr_26:17a la c de provisiones de dos en dos
+- 1Cr_26:20cargo de los tesoros de la c de DiosH1004
+- 1Cr_26:21los jefes de las c paternas de Laadán
+- 1Cr_26:22cargo de...tesoros de la c de JehováH1004
+- 1Cr_26:26David, y los jefes de las c paternas
+- 1Cr_26:27botines, para reparar la c de JehováH1004
+- 1Cr_28:2yo tenía el propósito de edificar una cH1004
+- 1Cr_28:3tú no edificarás c a mi nombre, porqueH1004
+- 1Cr_28:4Jehová...me eligió de...la c de mi padreH1004
+- 1Cr_28:4y de la c de Judá a la familia de miH1004
+- 1Cr_28:6Salomón...edificará mi c y mis atriosH1004
+- 1Cr_28:10para que edifiques c para el santuarioH1004
+- 1Cr_28:11David dio...plano del templo y sus cH1004
+- 1Cr_28:11sus cámaras y la c del propiciatorioH1004
+- 1Cr_28:12el plano...para los atrios de la c deH1004
+- 1Cr_28:12para las tesorerías de la c de DiosH1004
+- 1Cr_28:13para toda la obra...de la c de JehováH1004
+- 1Cr_28:13los utensilios del...de la c de JehováH1004
+- 1Cr_28:20que acabes toda la obra...de la c deH1004
+- 1Cr_28:21todo el ministerio de la c de DiosH1004
+- 1Cr_29:1c no es para hombre, sino para...DiosH1002
+- 1Cr_29:2he preparado para la c de mi Dios, oroH1004
+- 1Cr_29:3tengo mi afecto en la c de mi Dios, yoH1004
+- 1Cr_29:3para la c del santuario...c de mi DiosH1004
+- 1Cr_29:4de plata...cubrir las paredes de las cH1004
+- 1Cr_29:7y dieron para el servicio de la c deH1004
+- 1Cr_29:8dio para el tesoro de la c de JehováH1004
+- 1Cr_29:16para edificar c a tu santo nombreH1004
+- 1Cr_29:19y te edifique la c para la cual yo heH1004
+- 2Cr_2:1c al nombre de Jehová, y c para suH1004
+- 2Cr_2:3cedros para que edificara para sí c enH1004
+- 2Cr_2:4edificar c al nombre de Jehová mi DiosH1004
+- 2Cr_2:5la c que tengo que edificar, ha de serH1004
+- 2Cr_2:6mas ¿quién será capaz de edificarle cH1004
+- 2Cr_2:6¿quién...soy yo, para que le edifique cH1004
+- 2Cr_2:9la c que tengo que edificar ha de serH1004
+- 2Cr_2:12que edifique c a Jehová, y c para suH1004
+- 2Cr_3:1a edificar la c de Jehová en JerusalénH1004
+- 2Cr_3:3medidas que dio Salomón...la c de DiosH1004
+- 2Cr_3:4el pórtico que...igual al ancho de la cH1004
+- 2Cr_3:6cubrió...la c de piedras preciosas paraH1004
+- 2Cr_3:7así que cubrió la c, sus vigas...con oroH1004
+- 2Cr_3:8según el ancho del frente de la c, y suH1004
+- 2Cr_3:11-12ala...llegaba hasta la pared de la cH1004
+- 2Cr_3:13querubines...con los rostros hacia la cH1004
+- 2Cr_3:15delante de la c hizo dos columnas deH1004
+- 2Cr_4:10colocó el mar...hacia el sureste de la c
+- 2Cr_4:11acabó Hiram la obra...para la c de DiosH1004
+- 2Cr_4:16todos sus enseres...para la c de JehováH1004
+- 2Cr_4:19hizo...los utensilios para la c de DiosH1004
+- 2Cr_4:22oro...la entrada de la c, sus puertasH1004
+- 2Cr_4:22de oro...las puertas de la c del temploH1004
+- 2Cr_5:1acabada toda la obra...la c de JehováH1004
+- 2Cr_5:1puso la...en los tesoros de la c de DiosH1004
+- 2Cr_5:7metieron el arca...el santuario de la cH1004
+- 2Cr_5:13c se llenó de una nube, la c de JehováH1004
+- 2Cr_5:14la gloria...había llenado la c de DiosH1004
+- 2Cr_6:2he edificado una c de morada para ti, yH1004
+- 2Cr_6:5edificar c donde estuviese mi nombreH1004
+- 2Cr_6:7y David...tuvo en su corazón edificar cH1004
+- 2Cr_6:8deseo de edificar c a mi nombre, bienH1004
+- 2Cr_6:9tú no edificarás la c, sino tu hijo queH1004
+- 2Cr_6:9sino tu hijo...él edificará c a mi nombreH1004
+- 2Cr_6:10y he edificado c al nombre de JehováH1004
+- 2Cr_6:18¿cuánto menos esta c que he edificado?[[H1004]]
+- 2Cr_6:20tus ojos estén abiertos sobre esta cH1004
+- 2Cr_6:22viniere a jurar ante tu altar en esta cH1004
+- 2Cr_6:24si tu...rogare delante de ti en esta cH1004
+- 2Cr_6:29si extendiere sus manos hacia esta cH1004
+- 2Cr_6:32al extranjero que...orare hacia esta cH1004
+- 2Cr_6:33que tu nombre es invocado sobre esta cH1004
+- 2Cr_6:34, 2Cr_6:38oraren...hacia la c que he edificadoH1004
+- 2Cr_7:1fuego...y la gloria de Jehová llenó la cH1004
+- 2Cr_7:2no podían entrar los...en la c de JehováH1004
+- 2Cr_7:2la gloria...había llenado la c de JehováH1004
+- 2Cr_7:3vieron...la gloria de Jehová sobre la cH1004
+- 2Cr_7:5así dedicaron la c de Dios el rey yH1004
+- 2Cr_7:7del atrio que estaba delante de la cH1004
+- 2Cr_7:11terminó...la c de Jehová, y la c del reyH1004
+- 2Cr_7:11en la c de Jehová...y en su propia cH1004
+- 2Cr_7:12y he elegido para mí este lugar por cH1004
+- 2Cr_7:16he...santificado esta c, para que estéH1004
+- 2Cr_7:20esta c que he santificado a mi nombreH1004
+- 2Cr_7:21esta c que es tan excelsa, será espantoH1004
+- 2Cr_7:21¿por qué ha hecho así Jehová a...esta c?[[H1004]]
+- 2Cr_8:1edificado la c de Jehová y su propia cH1004
+- 2Cr_8:11la hija de Faraón a...la c que él habíaH1004
+- 2Cr_8:11mi mujer no morará en la c de DavidH1004
+- 2Cr_8:16que se pusieron los cimientos de la cH1004
+- 2Cr_8:16hasta que la c de Jehová fue acabadaH1004
+- 2Cr_9:3viendo la reina...c que había edificadoH1004
+- 2Cr_9:4escalinata por...subía a la c de JehováH1004
+- 2Cr_9:11el rey hizo gradas en la c de JehováH1004
+- 2Cr_9:11hizo gradas...en las c reales, y arpasH1004
+- 2Cr_9:16los puso el rey en la c del bosque delH1004
+- 2Cr_9:20toda la vajilla de la c del...de oro puroH1004
+- 2Cr_10:16¡David, mira ahora por tu c! Así seH1004
+- 2Cr_10:19así se apartó Israel de la c de DavidH1004
+- 2Cr_11:1vino Roboam...reunió de la c de Judá yH1004
+- 2Cr_11:4vuélvase cada uno a su c, porque yo heH1004
+- 2Cr_12:9tomó los tesoros de la c de Jehová, yH1004
+- 2Cr_12:9Sisac...tomó...tesoros de la c del reyH1004
+- 2Cr_12:10custodiaban la entrada de la c del reyH1004
+- 2Cr_12:11cuando el rey iba a la c de JehováH1004
+- 2Cr_15:18trajo a la c de Dios lo que su padreH1004
+- 2Cr_16:2sacó Asa la...tesoros de la c de JehováH1004
+- 2Cr_16:2sacó Asa la plata y el oro...de la c realH1004
+- 2Cr_17:14el número de ellos según sus c paternasH1004
+- 2Cr_18:16éstos...vuélvase cada uno en paz a su cH1004
+- 2Cr_19:1Josafat rey de...volvió en paz a su c enH1004
+- 2Cr_19:11Zebadías...príncipe de la c de Judá, enH1004
+- 2Cr_20:5Josafat se puso en pie...la c de JehováH1004
+- 2Cr_20:9si...nos presentaremos delante de esta cH1004
+- 2Cr_20:9de ti (porque tu nombre está en esta c)[[H1004]]
+- 2Cr_20:28arpas y trompetas, a la c de JehováH1004
+- 2Cr_21:6y anduvo en el...como hizo la c de AcabH1004
+- 2Cr_21:7Jehová no quiso destruir la c de DavidH1004
+- 2Cr_21:13fornicase...como fornicó la c de AcabH1004
+- 2Cr_21:17tomaron todos los bienes...la c del reyH1004
+- 2Cr_22:3anduvo en los caminos de la c de AcabH1004
+- 2Cr_22:4hizo, pues, lo malo...como la c de AcabH1004
+- 2Cr_22:8y haciendo juicio Jehú contra la c deH1004
+- 2Cr_22:9la c de Ocozías no tenía fuerzas paraH1004
+- 2Cr_22:10Atalía...y exterminó...de la c de JudáH1004
+- 2Cr_22:12estuvo con ellos escondido en la c deH1004
+- 2Cr_23:3hizo pacto con el rey en la c de DiosH1004
+- 2Cr_23:5otra tercera parte, a la c del reyH1004
+- 2Cr_23:5el pueblo estará en los patios de la cH1004
+- 2Cr_23:6ninguno entre en la c de Jehová, sinoH1004
+- 2Cr_23:7cualquiera que entre en la c, que mueraH1004
+- 2Cr_23:9escudos...que estaban en la c de DiosH1004
+- 2Cr_23:10hacia el altar y la c, alrededor delH1004
+- 2Cr_23:12Atalía oyó...vino al pueblo a la c deH1004
+- 2Cr_23:14que no la matasen en la c de JehováH1004
+- 2Cr_23:15hubo pasado la entrada...la c del reyH1004
+- 2Cr_23:18ordenó Joiada los oficios en la c deH1004
+- 2Cr_23:18los había distribuido en la c de JehováH1004
+- 2Cr_23:19puso...porteros a las puertas de la cH1004
+- 2Cr_23:20conducir al rey desde la c de JehováH1004
+- 2Cr_23:20de la puerta mayor de la c del reyH1004
+- 2Cr_24:4Joás decidió restaurar la c de JehováH1004
+- 2Cr_24:5año sea reparada la c de vuestro DiosH1004
+- 2Cr_24:7Atalía...habían destruido la c de DiosH1004
+- 2Cr_24:7gastado...las cosas...de la c de JehováH1004
+- 2Cr_24:8un arca...a la puerta de la c de JehováH1004
+- 2Cr_24:12a los que hacían el trabajo...de la cH1004
+- 2Cr_24:12y carpinteros que reparasen la c deH1004
+- 2Cr_24:12y artífices en hierro...componer la cH1004
+- 2Cr_24:13la obra...y restituyeron la c de DiosH1004
+- 2Cr_24:14hicieron de él utensilios para la c deH1004
+- 2Cr_24:14sacrificaban...en la c de Jehová todosH1004
+- 2Cr_24:16cuanto había hecho bien con...y con su cH1004
+- 2Cr_24:18desampararon la c de Jehová el DiosH1004
+- 2Cr_24:21lo apedrearon...en el patio de la c deH1004
+- 2Cr_24:27la restauración de la c de Jehová, heH1004
+- 2Cr_25:10la gente...para que se fuesen a sus cH4725
+- 2Cr_25:10Judá, y volvieron a sus c encolerizadosH1004
+- 2Cr_25:19tu corazón se...Quédate ahora en tu cH1004
+- 2Cr_25:22pero cayó Judá...huyó cada uno a su cH168
+- 2Cr_25:24tomó todo el oro...la c de Dios en c deH1004
+- 2Cr_25:24tomó...los tesoros de la c del rey, yH1004
+- 2Cr_26:19la lepra le brotó...en la c de JehováH1004
+- 2Cr_26:21habitó leproso en una c apartada, porH1004
+- 2Cr_26:21Uzías...fue excluido de la c de JehováH1004
+- 2Cr_26:21Jotam su hijo tuvo cargo de la c realH1004
+- 2Cr_27:3edificó él la puerta mayor de la c deH1004
+- 2Cr_28:21que despojó Acaz la c de Jehová, y laH1004
+- 2Cr_28:21despojó Acaz...la c real, y las de losH1004
+- 2Cr_28:24recogió Acaz los utensilios de la c deH1004
+- 2Cr_28:24y cerró las puertas de la c de JehováH1004
+- 2Cr_29:3abrió las puertas de la c de Jehová, yH1004
+- 2Cr_29:5santificad la c de Jehová el Dios deH1004
+- 2Cr_29:15entraron...para limpiar la c de JehováH1004
+- 2Cr_29:16y entrando...dentro de la c de JehováH1004
+- 2Cr_29:16sacaron...al atrio de la c de JehováH1004
+- 2Cr_29:17santificaron la c de Jehová en 8 díasH1004
+- 2Cr_29:18ya hemos limpiado toda la c de JehováH1004
+- 2Cr_29:20rey Ezequías...subió a la c de JehováH1004
+- 2Cr_29:25levitas en la c de Jehová con címbalosH1004
+- 2Cr_29:31presentad sacrificios...la c de JehováH1004
+- 2Cr_29:35quedó restablecido el servicio de la cH1004
+- 2Cr_30:1viniesen...a la c de Jehová para celebrarH1004
+- 2Cr_30:15y trajeron los holocaustos a la c deH1004
+- 2Cr_31:10Azarías, de la c de Sadoc, le contestóH1004
+- 2Cr_31:10a traer las ofrendas a la c de JehováH1004
+- 2Cr_31:11preparasen cámaras en la c de JehováH1004
+- 2Cr_31:13de Azarías, príncipe de la c de DiosH1004
+- 2Cr_31:16a todos los que entraban en la c deH1004
+- 2Cr_31:17eran contados...según sus c paternasH1004
+- 2Cr_31:21emprendió en el servicio de la c deH1004
+- 2Cr_33:4edificó...altares en la c de Jehová, deH1004
+- 2Cr_33:5edificó...en los dos atrios de la c deH1004
+- 2Cr_33:7una imagen fundida...en la c de Dios, deH1004
+- 2Cr_33:15quitó los...el ídolo de la c de JehováH1004
+- 2Cr_33:15quitó...en el monte de la c de JehováH1004
+- 2Cr_33:20durmió Manasés...lo sepultaron en su cH1004
+- 2Cr_33:24y conspiraron...y lo mataron en su cH1004
+- 2Cr_34:8después de haber limpiado la...y la cH1004
+- 2Cr_34:8que reparasen la c de Jehová su DiosH1004
+- 2Cr_34:9, 2Cr_34:14el dinero...traído a la c de JehováH1004
+- 2Cr_34:10que eran mayordomos en la c de JehováH1004
+- 2Cr_34:10y trabajaban en la c de Jehová, paraH1004
+- 2Cr_34:15el libro de la ley en la c de JehováH1004
+- 2Cr_34:17dinero que se halló en la c de JehováH1004
+- 2Cr_34:30subió el rey a la c de Jehová, y conH1004
+- 2Cr_34:30del libro...hallado en la c de JehováH1004
+- 2Cr_35:2los confirmó en el...de la c de JehováH1004
+- 2Cr_35:3poned el arca santa en la c que edificóH1004
+- 2Cr_35:8y Jehiel, oficiales de la c de DiosH1004
+- 2Cr_35:20luego de haber reparado Josías la cH1004
+- 2Cr_35:21sino contra la c que me hace guerraH1004
+- 2Cr_36:7llevó...los utensilios de la c de JehováH1004
+- 2Cr_36:10objetos preciosos de la c de JehováH1004
+- 2Cr_36:14contaminando la c de Jehová, la cualH1004
+- 2Cr_36:17mató a espada...en la c de su santuarioH1004
+- 2Cr_36:18utensilios de la c de Dios...lo llevó aH1004
+- 2Cr_36:18tesoros de la c de Jehová...c del reyH1004
+- 2Cr_36:19y quemaron la c de Dios, y rompieronH1004
+- 2Cr_36:23me ha mandado que le edifique c enH1004
+- Esd_1:2Jehová...ha mandado que le edifique cH1004
+- Esd_1:3y edifique la c a Jehová Dios de IsraelH1004
+- Esd_1:4además de ofrendas...para la c de DiosH1004
+- Esd_1:5levantaron los jefes de las c...de JudáH1004
+- Esd_1:5subir a edificar la c de Jehová, la cualH1004
+- Esd_1:7sacó los utensilios de la c de JehováH1004
+- Esd_1:7los había puesto en la c de sus diosesH1004
+- Esd_2:36los hijos de Jedaías, de la c de JesúsH1004
+- Esd_2:59que no pudieron demostrar la c de susH1004
+- Esd_2:68los jefes de c paternas, cuando vinieronH1004
+- Esd_2:68la c de Jehová que estaba en JerusalénH1004
+- Esd_2:68ofrendas voluntarias para la c de DiosH1004
+- Esd_3:8su venida a la c de Dios en JerusalénH1004
+- Esd_3:8que activasen la obra de la c de JehováH1004
+- Esd_3:9los que hacían la obra en la c de DiosH1004
+- Esd_3:11porque se echaban los cimientos de la cH1004
+- Esd_3:12de los jefes de c paternas, ancianosH1004
+- Esd_3:12muchos...que habían visto la c primeraH1004
+- Esd_3:12viendo echar los cimientos de esta cH1004
+- Esd_4:2vinieron a...a los jefes de c paternasH1004
+- Esd_4:3jefes de c paternas de Israel dijeronH1004
+- Esd_4:3edificar con vosotros c a nuestro DiosH1004
+- Esd_4:24entonces cesó la obra de la c de DiosH1005
+- Esd_5:2y comenzaron a reedificar la c de DiosH1005
+- Esd_5:3edificar esta c y levantar estos muros?[[H1005]]
+- Esd_5:8fuimos...a la c del gran Dios, la cualH1005
+- Esd_5:9¿quién os dio orden para edificar esta cH1005
+- Esd_5:11y reedificamos la c que ya muchos añosH1005
+- Esd_5:12el cual destruyó esta c y llevó cautivoH1005
+- Esd_5:13que esta c de Dios fuese reedificadaH1005
+- Esd_5:14los utensilios de oro...de la c de DiosH1005
+- Esd_5:15sea reedificada la c de Dios en su lugarH1005
+- Esd_5:16y puso los cimientos de la c de DiosH1005
+- Esd_5:17búsquese en la c de los tesoros del reyH1005
+- Esd_5:17la orden para reedificar esta c de DiosH1005
+- Esd_6:1orden de buscar en la c de los archivosH1005
+- Esd_6:3rey Ciro dio orden acerca de la c de DiosH1005
+- Esd_6:3orden...para que fuese la c reedificadaH1005
+- Esd_6:5los utensilios de oro...de la c de DiosH1005
+- Esd_6:5vayan a...y sean puestos en la c de DiosH1005
+- Esd_6:7dejad que se haga la obra de esa c deH1005
+- Esd_6:7reedifiquen esa c de Dios en su lugarH1005
+- Esd_6:8orden de...para reedificar esa c de DiosH1005
+- Esd_6:11le arranque un madero de su c, y alzadoH1005
+- Esd_6:11sea colgado...y su c sea hecha muladarH1005
+- Esd_6:12su mano para...destruir esa c de DiosH1005
+- Esd_6:15c fue terminada el tercer día del mesH1005
+- Esd_6:16hicieron la dedicación de esta c de DiosH1005
+- Esd_6:17en la dedicación de esta c de Dios cienH1005
+- Esd_6:22fortalecer...en la obra de la c de DiosH1004
+- Esd_7:16ofrecieren para la c de su Dios, la cualH1005
+- Esd_7:17los ofrecerás sobre el altar de la c deH1005
+- Esd_7:19los utensilios...para...la c de tu DiosH1005
+- Esd_7:20y todo lo que se requiere para la c deH1005
+- Esd_7:20lo darás de la c de los tesoros del reyH1005
+- Esd_7:23sea hecho...para la c del Dios del cieloH1005
+- Esd_7:24a todos los...ministros de la c de DiosH1005
+- Esd_7:27honrar la c de...que está en JerusalénH1004
+- Esd_8:1estos son los jefes de c paternas, y la
+- Esd_8:17trajesen ministros para la c de...DiosH1004
+- Esd_8:25ofrenda que para la c de nuestro DiosH1004
+- Esd_8:29los jefes de las c paternas de IsraelH1004
+- Esd_8:29guardadlos...en los aposentos de la c deH1004
+- Esd_8:30para traerlo...a la c de nuestro DiosH1004
+- Esd_8:33pesada la plata...en la c de nuestro DiosH1004
+- Esd_8:36ayudaron al pueblo y a la c de DiosH1004
+- Esd_9:9para levantar la c de...Dios y restaurarH1004
+- Esd_10:1y postrándose delante de la c de DiosH1004
+- Esd_10:6se levantó...Esdras de delante de la cH1004
+- Esd_10:9se sentó...en la plaza de la c de DiosH1004
+- Esd_10:16jefes de c paternas según...c paternasH1004
+- Neh_1:6yo y la c de mi padre hemos pecadoH1004
+- Neh_2:3c de los sepulcros de mis padres, estáH1004
+- Neh_2:8enmaderar...puertas del palacio de la cH1004
+- Neh_2:8para enmaderar...la c en que yo estaréH1004
+- Neh_3:10restauró...frente a su c, Jedaías hijoH1004
+- Neh_3:16restauró...hasta la c de los ValientesH1004
+- Neh_3:20hasta la puerta de la c de Eliasib sumoH1004
+- Neh_3:21desde la entrada de la c de Eliasib hastaH1004
+- Neh_3:21hasta el extremo de la c de EliasibH1004
+- Neh_3:23restauraron Benjamín...frente a su cH1004
+- Neh_3:23restauró Azarías hijo de...cerca de su cH1004
+- Neh_3:24restauró Binúi...desde la c de AzaríasH1004
+- Neh_3:25la torre alta que sale de la c del reyH1004
+- Neh_3:28restauraron...cada uno enfrente de su cH1004
+- Neh_3:29restauró Sado c hijo...enfrente de su cH1004
+- Neh_3:31restauró Malquías...hasta la c de los
+- Neh_4:14no temáis...y pelead por...por vuestras cH1004
+- Neh_4:16estaban los jefes de toda la c de JudáH1004
+- Neh_5:3hemos empeñado...c, para comprar granoH1004
+- Neh_5:11os ruego que les devolváis hoy...sus cH1004
+- Neh_5:13así sacuda Dios de su c y de su trabajoH1004
+- Neh_6:10vine...a c de Semaías hijo de DelaíaH1004
+- Neh_6:10reunámonos en la c de Dios, dentro delH1004
+- Neh_7:3señalé guardas...cada uno delante de su cH1004
+- Neh_7:4poco pueblo...y no había c reedificadas
+- Neh_7:39sacerdotes: los...de la c de Jesúa, 973H1004
+- Neh_7:61no pudieron mostrar la c de sus padresH1004
+- Neh_8:16tabernáculos, en los patios de la c deH1004
+- Neh_9:25heredaron c llenas de todo bien...viñasH1004
+- Neh_10:32para la obra de la c de nuestro DiosH1004
+- Neh_10:33el servicio de la c de nuestro DiosH1004
+- Neh_10:34a la c de nuestro Dios, según las c deH1004
+- Neh_10:35cada año traeríamos a la c de JehováH1004
+- Neh_10:36que traeríamos...a la c de nuestro DiosH1004
+- Neh_10:36a los...que ministran en la c de...DiosH1004
+- Neh_10:37a las cámaras de la c de nuestro DiosH1004
+- Neh_10:38llevarían el diezmo del diezmo a la cH1004
+- Neh_10:38a las cámaras de la c del tesoroH1004
+- Neh_10:39no abandonaremos la c de nuestro DiosH1004
+- Neh_11:11de Ahitob, príncipe de la c de DiosH1004
+- Neh_11:12los que hacían la obra de la c, 822H1004
+- Neh_11:16capataces de la obra exterior de la cH1004
+- Neh_11:22Asaf, cantores, sobre la obra de la cH1004
+- Neh_12:29de la c de Gilgal, y de los campos deH1004
+- Neh_12:37desde la c de David hasta la puerta deH1004
+- Neh_12:40llegaron...los dos coros a la c de DiosH1004
+- Neh_13:4jefe de la cámara de la c de nuestro Dios,[[H1004]]
+- Neh_13:7una cámara en los atrios de la c de DiosH1004
+- Neh_13:8arrojé...los muebles de la c de TobíasH1004
+- Neh_13:9volver...los utensilios de la c de DiosH1004
+- Neh_13:11¿por qué está la c de Dios abandonada?[[H1004]]
+- Neh_13:14misericordias que hice en la c de miH1004
+- Est_1:8mandado el rey a...mayordomos de su cH1004
+- Est_1:9hizo banquete...la c real del rey AsueroH1004
+- Est_1:22hombre afirmase su autoridad en su cH1004
+- Est_2:3c de las mujeres, al cuidado de HegaiH1004
+- Est_2:8Ester también fue llevada a la c del reyH1004
+- Est_2:9le dio...siete doncellas...de la c del reyH1004
+- Est_2:9llevó...lo mejor de la c de las mujeresH1004
+- Est_2:11se paseaba delante del patio de la c deH1004
+- Est_2:13para venir...desde la c de las mujeresH1004
+- Est_2:13ataviada con ello...hasta la c del reyH1004
+- Est_2:14volvía a la c segunda de las mujeresH1004
+- Est_2:16fue...llevada al rey Asuero a su c realH1004
+- Est_4:13que escaparás en la c del rey más queH1004
+- Est_4:14mas tú y la c de tu padre pereceréisH1004
+- Est_5:1en el patio interior de la c del reyH1004
+- Est_5:10pero se refrenó Amán y vino a su c, yH1004
+- Est_6:4Amán había venido al patio...de la c realH1004
+- Est_6:12y Amán se dio prisa para irse a su cH1004
+- Est_7:8también violar a la reina en mi propia c?[[H1004]]
+- Est_7:9he aquí en c de Amán la horca...que hizoH1004
+- Est_8:1el rey Asuero dio a...Ester la c de AmánH1004
+- Est_8:2y Ester puso a Mardoqueo sobre la c deH1004
+- Est_8:7yo he dado a Ester la c de Amán, y a élH1004
+- Est_9:4Mardoqueo era grande en la c del rey, yH1004
+- Job_1:4sus hijos y hacían banquetes en sus cH1004
+- Job_1:10¿no le has cercado...a él y a su c y aH1004
+- Job_1:13que sus hijos...bebían vino en c de suH1004
+- Job_1:18y bebiendo vino en c de su hermano elH1004
+- Job_1:19y azotó las cuatro esquinas de la c, laH1004
+- Job_3:15o con los...que llenaban de plata sus cH1004
+- Job_4:19¡cuánto más en los que habitan en c deH1004
+- Job_7:10no volverá más a su c, ni su lugar leH1004
+- Job_8:15apoyará él en su c, mas no permaneceráH1004
+- Job_11:14y no...que more en tu c la injusticiaH1004
+- Job_15:28habitó...c inhabitadas, que estaban enH1004
+- Job_17:13si yo espero, el Seol es mi c; haré miH1004
+- Job_19:15los moradores de mi c y mis criadas meH1004
+- Job_20:19por cuanto...robó c, y no las edificóH1004
+- Job_20:28renuevos de su c serán transportadosH1004
+- Job_21:9sus c están a salvo de temor, ni vieneH1004
+- Job_21:21¿qué deleite tendrá él de su c despuésH1004
+- Job_21:28decís: ¿Qué hay de la c del príncipeH1004
+- Job_22:18les había colmado de bienes sus c. PeroH1004
+- Job_24:16en las tinieblas minan las c que de díaH1004
+- Job_27:18edificó su c como la polilla, y comoH1004
+- Job_30:23y a la c determinada a todo vivienteH1004
+- Job_38:20para que...entiendas las sendas de su c?[[H1004]]
+- Job_39:6al cual yo puse c en la soledad, y susH1004
+- Job_42:11todos...comieron con él pan en su c, yH1004
+- Sal_5:7por...tu misericordia entraré en tu cH1004
+- Sal_23:6en la c de Jehová moraré por largos díasH1004
+- Sal_26:8Jehová, la habitación de tu c he amadoH1004
+- Sal_27:4que esté yo en la c de Jehová todos losH1004
+- Sal 30 tít.cantado en la dedicación de la C?[[H1004]]
+- Sal_36:8serán...saciados de la grosura de tu cH1004
+- Sal_42:4de cómo...la conduje hasta la c de DiosH1004
+- Sal_45:10olvida tu pueblo, y la c de tu padreH1004
+- Sal_49:11pensamiento es que sus c serán eternasH1004
+- Sal_49:16no...cuando aumenta la gloria de su cH1004
+- Sal_50:9no tomaré de tu c becerros, ni machosH1004
+- Sal 52 tít.David ha venido a c de AhimelecH1004
+- Sal_52:8estoy como olivo verde en la c de DiosH1004
+- Sal_55:14andábamos en amistad en la c de DiosH1004
+- Sal 59 tít.David...vigilaron la c para matarloH1004
+- Sal_65:4seremos saciados del bien de tu c, deH1004
+- Sal_66:13entraré en tu c con holocaustos; teH1004
+- Sal_68:12y las que se quedaban en c repartíanH1004
+- Sal_69:9porque me consumió el celo de tu c, yH1004
+- Sal_84:3gorrión halla c, y la golondrina nidoH1004
+- Sal_84:4bienaventurados los que habitan en tu cH1004
+- Sal_84:10estar a la puerta de la c de mi DiosH1004
+- Sal_92:13plantados en la c de Jehová, en losH1004
+- Sal_93:5la santidad conviene a tu c, oh JehováH1004
+- Sal_98:3misericordia...para con la c de IsraelH1004
+- Sal_101:2integridad...andaré en medio de mi cH1004
+- Sal_101:7no habitará dentro de mi c el...fraudeH1004
+- Sal_104:17en las hayas hace su c la cigüeñaH1004
+- Sal_105:21lo puso por señor de su c...gobernadorH1004
+- Sal_112:3bienes y riquezas hay en su c, y suH1004
+- Sal_114:1cuando salió...la c de Jacob del puebloH1004
+- Sal_115:10c de Aarón, confiad en Jehová; él esH1004
+- Sal_115:12bendecirá...c de Israel...c de AarónH1004
+- Sal_116:19en los atrios de la c de Jehová, enH1004
+- Sal_118:3diga...la c de Aarón, que para siempreH1004
+- Sal_118:26desde la c de Jehová os bendecimosH1004
+- Sal_119:54en la c en donde fui extranjeroH1004
+- Sal_122:1que me decían: A la c de Jehová iremosH1004
+- Sal_122:5allá están...los tronos de la c de DavidH1004
+- Sal_122:9amor a la c de Jehová buscaré tu bienH1004
+- Sal_127:1si Jehová no edificare la c, en vanoH1004
+- Sal_128:3que lleva fruto a los lados de tu cH1004
+- Sal_132:3no entraré en la morada de mi c, niH1004
+- Sal_134:1los que en la c de Jehová estáis porH1004
+- Sal_135:2los que estáis en la c de Jehová, enH1004
+- Sal_135:2en los atrios de la c de nuestro DiosH1004
+- Sal_135:19c de Israel, bendecid a...c de AarónH1004
+- Sal_135:20c de Leví, bendecid a Jehová; los queH1004
+- Pro_1:13llenaremos nuestras c de despojosH1004
+- Pro_2:18su c esta inclinada a la muerte, y susH1004
+- Pro_3:33maldición de Jehová...en la c del impíoH1004
+- Pro_5:8y no te acerques a la puerta de su cH1004
+- Pro_5:10y tus trabajos estén en c del extrañoH1004
+- Pro_6:31veces; entregará todo el haber de su cH1004
+- Pro_7:6mirando yo por la ventana de mi c, porH1004
+- Pro_7:8pasaba por...iba camino a la c de ellaH1004
+- Pro_7:11rencillosa...pies no pueden estar en cH1004
+- Pro_7:19el marido no está en c; se ha ido a unH1004
+- Pro_7:20llevó...el día señalado volverá a su cH1004
+- Pro_7:27camino al Seol es su c, que conduce aH1004
+- Pro_9:1la sabiduría edificó su c, labró sus 7H1004
+- Pro_9:14se sienta...a la puerta de su c, en losH1004
+- Pro_11:29el que turba su c heredará vientoH1004
+- Pro_12:7la c de los justos permanecerá firmeH1004
+- Pro_14:1mujer sabia edifica su c; mas la neciaH1004
+- Pro_14:11la c de los impíos será asolada; peroH1004
+- Pro_15:6en la c del justo hay gran provisiónH1004
+- Pro_15:25Jehová asolará la c de los soberbiosH1004
+- Pro_15:27alborota su c el codicioso; mas el queH1004
+- Pro_17:1que c de contiendas llena de provisionesH1004
+- Pro_17:13da mal...no se apartará el mal de su cH1004
+- Pro_19:14la c y las riquezas son herencia de losH1004
+- Pro_21:9que con mujer rencillosa en c espaciosaH1004
+- Pro_21:12considera el justo la c del impíoH1004
+- Pro_21:20tesoro precioso...hay en la c del sabioH5116
+- Pro_24:3con sabiduría se edificará la c, y conH1004
+- Pro_24:27tus labores...y después edificarás tu cH1004
+- Pro_25:17detén tu pie de la c de tu vecino, noH1004
+- Pro_25:24que con mujer rencillosa en c espaciosaH1004
+- Pro_27:10ni vayas a la c de tu hermano en elH1004
+- Pro_27:27de leche...para mantenimiento de tu cH1004
+- Pro_30:26los conejos...ponen su c en la piedraH1004
+- Pro_31:27considera los caminos de su c, y noH1004
+- Ecl_2:4edifiqué para mí c, planté para míH1004
+- Ecl_2:7tuve siervos nacidos en c; también tuveH1004
+- Ecl_5:1cuando fueres a la c de Dios, guarda tuH1004
+- Ecl_7:2mejor es ir a la c del luto que a la cH1004
+- Ecl_7:4corazón de los sabios está en la c delH1004
+- Ecl_7:4los insensatos, en la c en que...alegríaH1004
+- Ecl_10:18por la flojedad de las...se llueve la cH1004
+- Ecl_12:3cuando temblarán los guardas de la cH1004
+- Cnt_1:17las vigas de nuestra c son de cedroH1004
+- Cnt_2:4llevó a la c del banquete, y su banderaH1004
+- Cnt_3:4hasta que lo metí en c de mi madre, yH1004
+- Cnt_8:2te llevaría, te metería en c de mi madreH1004
+- Cnt_8:7todos los bienes de su c por este amorH1004
+- Isa_2:2que será confirmado el monte de la cH1004
+- Isa_2:3y subamos al...a la c de Dios de JacobH1004
+- Isa_2:5venid, oh c de Jacob, y caminaremos aH1004
+- Isa_2:6tú has dejado tu pueblo, la c de JacobH1004
+- Isa_3:7en mi c ni hay pan, ni qué vestir; no meH1004
+- Isa_3:14el despojo del pobre está en vuestras cH1004
+- Isa_5:7la viña de Jehová de...es la c de IsraelH1004
+- Isa_5:8¡ay de los que juntan c a c, y añadenH1004
+- Isa_5:9que las muchas c han de quedar asoladasH1004
+- Isa_6:4la voz del que clamaba, y la c se llenóH1004
+- Isa_6:11y no haya hombre en las c, y la tierraH1004
+- Isa_7:2vino la nueva a la c de David, diciendoH1004
+- Isa_7:13dijo entonces Isaías: Oíd...c de DavidH1004
+- Isa_7:17hará venir sobre ti...la c de tu padreH1004
+- Isa_8:14a las dos c de Israel, por piedra paraH1004
+- Isa_8:17escondió su rostro de la c de Jacob, yH1004
+- Isa_10:20los que hayan quedado de la c de JacobH1004
+- Isa_13:16sus c serán saqueadas, y violadas susH1004
+- Isa_13:21fieras...y sus c se llenarán de huronesH1004
+- Isa_13:22aullarán hienas...en sus c de deleiteH1964
+- Isa_14:2la c de Israel los poseerá por siervosH1004
+- Isa_22:8y miraste en aquel día hacia la c deH1004
+- Isa_22:10y contasteis las c de Jerusalén, yH1004
+- Isa_22:10derribasteis c para fortificar el muroH1004
+- Isa_22:18rodar...oh vergüenza de la c de tu señorH1004
+- Isa_22:21será padre al morador...a la c de JudáH1004
+- Isa_22:22pondré la llave de la c de David sobreH1004
+- Isa_22:23y será por asiento de honra a la c deH1004
+- Isa_22:24colgarán de él toda la honra de la cH1004
+- Isa_23:1destruida es Tiro hasta no quedar c, niH1004
+- Isa_24:10toda c se ha cerrado, para que no entreH1004
+- Isa_29:22Jehová...dice así a la c de Jacob: NoH1004
+- Isa_31:2levantará...contra la c de los malignosH1004
+- Isa_32:13sobre todas las c en que hay alegríaH1004
+- Isa_33:18que pone en lista las c más insignes?[[H4026]]
+- Isa_37:1el rey Ezequías...vino a la c de JehováH1004
+- Isa_37:14subió a la c de Jehová, y las extendióH1004
+- Isa_37:31lo que hubiere quedado de la c de JudáH1004
+- Isa_38:1dice así: Ordena tu c, porque morirásH1004
+- Isa_38:20cantaremos nuestros cánticos en la cH1004
+- Isa_38:22¿qué señal tendré de que subiré a la cH1004
+- Isa_39:2mostró la c de su tesoro...c de armasH1004
+- Isa_39:2no hubo cosa en su c...que Ezequías noH1004
+- Isa_39:4dijo entonces: ¿Qué han visto en tu c?[[H1004]]
+- Isa_39:4todo lo que hay en mi c han visto, yH1004
+- Isa_39:6será llevado...todo lo que hay en tu cH1004
+- Isa_42:7y de c de prisión a los que moran enH1004
+- Isa_44:13lo hace en forma de...para tenerlo en cH1004
+- Isa_46:3oídme, oh c de Jacob, y...la c de IsraelH1004
+- Isa_48:1oíd esto, c de Jacob, que os llamáisH1004
+- Isa_56:5yo les daré lugar en mi c y dentro deH1004
+- Isa_56:7llevaré...los recrearé en mi c de oraciónH1004
+- Isa_56:7c será llamada c de oración para todosH1004
+- Isa_58:1rebelión, y a la c de Jacob su pecadoH1004
+- Isa_58:7y a los pobres errantes albergues en cH1004
+- Isa_60:7altar, y glorificaré la c de mi gloriaH1004
+- Isa_63:7de sus beneficios hacia la c de IsraelH1004
+- Isa_64:11la c de nuestro santuario y de nuestraH1004
+- Isa_65:21edificarán c, y morarán en...plantaránH1004
+- Isa_66:1¿dónde...la c que me habréis de edificarH1004
+- Isa_66:20ofrenda en utensilios limpios a la c deH1004
+- Jer_2:4oíd...c de Jacob, y...de la c de IsraelH1004
+- Jer_2:26así avergonzará la c de Israel, ellosH1004
+- Jer_3:18irán de la c de Judá a la c de IsraelH1004
+- Jer_3:20así prevaricasteis contra mí, oh c deH1004
+- Jer_5:7en c de rameras se juntaron en compañíasH1004
+- Jer_5:11contra mí la c de Israel y las c de JudáH1004
+- Jer_5:15traigo...gente de lejos, oh c de IsraelH1004
+- Jer_5:20anunciad esto en la c de Jacob...JudáH1004
+- Jer_5:27así están sus c llenas de engaño; asíH1004
+- Jer_6:12y sus c serán traspasadas a otros, susH1004
+- Jer_7:2ponte a la puerta de la c de Jehová, yH1004
+- Jer_7:10en esta c sobre la cual es invocado miH1004
+- Jer_7:11¿es cueva de ladrones...esta c sobre laH1004
+- Jer_7:14haré también a esta c sobre la cual esH1004
+- Jer_7:30pusieron sus abominaciones en la cH1004
+- Jer_9:26toda la c de Israel es incircuncisa deH1004
+- Jer_10:1hablado sobre vosotros, oh c de IsraelH1004
+- Jer_11:10c de Israel y la c de Judá invalidaronH1004
+- Jer_11:15¿qué derecho tiene mi amada en mi cH1004
+- Jer_11:17la maldad que la c de Israel y la c deH1004
+- Jer_12:6aun tus hermanos y la c de tu padreH1004
+- Jer_12:7he dejado mi c, desamparé mi heredadH1004
+- Jer_12:14arrancaré de en medio...a la c de JudáH1004
+- Jer_13:11hice juntar a mí toda la c de IsraelH1004
+- Jer_13:11y toda la c de Judá, dice Jehová, paraH1004
+- Jer_16:5así...No entres en c de luto, ni vayas aH1004
+- Jer_16:8asimismo no entres en c de banqueteH1004
+- Jer_17:22ni saquéis carga de vuestras c en elH1004
+- Jer_17:26trayendo sacrificio...a la c de JehováH1004
+- Jer_18:2vete a c del alfarero, y allí te haréH1004
+- Jer_18:3y descendí a c del alfarero, y he aquíH1004
+- Jer_18:6¿no podré yo hacer de vosotros...oh c deH1004
+- Jer_18:6así sois vosotros en...oh c de IsraelH1004
+- Jer_18:22óigase clamor de sus c, cuando traigasH1004
+- Jer_19:13c de Jerusalén, y las c de los reyesH1004
+- Jer_19:13por todas las c sobre cuyos tejadosH1004
+- Jer_19:14se paró en el atrio de la c de JehováH1004
+- Jer_20:1Pasur...como príncipe en la c de JehováH1004
+- Jer_20:2en la puerta...conducía a la c de JehováH1004
+- Jer_20:6tú, Pasur...los moradores de tu c iréisH1004
+- Jer_21:11y a la c del rey de Judá dirás: OídH1004
+- Jer_21:12c de David, así dijo Jehová: Haced deH1004
+- Jer_22:1desciende a la c del rey...y habla allíH1004
+- Jer_22:4en caballos por las puertas de esta cH1004
+- Jer_22:5dice Jehová, que esta c será desiertaH1004
+- Jer_22:6ha dicho Jehová acerca de la c del reyH1004
+- Jer_22:13¡ay del que edifica su c sin justiciaH1004
+- Jer_22:14dice: Edificaré para mí c espaciosaH1004
+- Jer_23:8trajo la descendencia de la c de IsraelH1004
+- Jer_23:11impíos, aun en mi c hallé su maldadH1004
+- Jer_23:34yo enviaré castigo sobre...y sobre su cH1004
+- Jer_26:2ponte en el atrio de la c de Jehová, yH1004
+- Jer_26:2vienen para adorar en la c de JehováH1004
+- Jer_26:6pondré esta c como Silo, y esta ciudadH1004
+- Jer_26:7oyeron...hablar estas palabras en la cH1004
+- Jer_26:9esta c será como Silo, y esta ciudadH1004
+- Jer_26:9pueblo se juntó contra Jeremías en la cH1004
+- Jer_26:10y subieron de la c del rey a la c deH1004
+- Jer_26:10de la puerta nueva de la c de JehováH1004
+- Jer_26:12me envió a profetizar contra esta cH1004
+- Jer_26:18monte de la c como cumbres de bosqueH1004
+- Jer_27:16utensilios de la c de Jehová volveránH1004
+- Jer_27:18, Jer_27:21en la c de Jehová y en la c del reyH1004
+- Jer_28:1Hananías...me habló en la c de JehováH1004
+- Jer_28:3haré volver...los utensilios de la c deH1004
+- Jer_28:5el pueblo que estaba en la c de JehováH1004
+- Jer_28:6que los utensilios de la c...devueltosH1004
+- Jer_29:5edificad c, y habitadlas; y plantadH1004
+- Jer_29:26que te encargues en la c de Jehová deH1004
+- Jer_29:28largo será el cautiverio: edificad cH1004
+- Jer_31:27en qué sembraré la c de Israel y la cH1004
+- Jer_31:31pacto con la c de Israel y...c de JudáH1004
+- Jer_31:33el pacto que haré con la c de IsraelH1004
+- Jer_32:2el patio de la cárcel...en la c del reyH1004
+- Jer_32:15aún se comprarán c, heredades y viñasH1004
+- Jer_32:29las c sobre cuyas azoteas ofrecieronH1004
+- Jer_32:34pusieron sus abominaciones en la c enH1004
+- Jer_33:4de las c de esta ciudad...c de los reyesH1004
+- Jer_33:11de los que traigan ofrendas...a la c deH1004
+- Jer_33:14he hablado a la c de Israel y a la cH1004
+- Jer_33:17que se siente sobre el trono de la c deH1004
+- Jer_34:13que los saqué de...de c de servidumbreH1004
+- Jer_34:15la c en la cual es invocado mi nombreH1004
+- Jer_35:2vé a c de los recabitas...la c de JehováH1004
+- Jer_35:4los llevé a la c de Jehová, al aposentoH1004
+- Jer_35:7ni edificaréis c, ni sembraréis...viñaH1004
+- Jer_35:9y de no edificar c para nuestra moradaH1004
+- Jer_36:3quizá oiga la c de Judá todo el mal queH1004
+- Jer_36:5ha prohibido entrar en la c de JehováH1004
+- Jer_36:6y lee de este rollo...en la c de JehováH1004
+- Jer_36:8las palabras de Jehová en la c de JehováH1004
+- Jer_36:10Baru c leyó en el...en la c de JehováH1004
+- Jer_36:10leyó...a la entrada...de la c de JehováH1004
+- Jer_36:12descendió a la c del rey, al aposentoH1004
+- Jer_36:22el rey estaba en la c de invierno enH1004
+- Jer_37:15y le pusieron en prisión en la c delH1004
+- Jer_37:16Jeremías en la c de la cisterna, y enH1004
+- Jer_37:17preguntó el rey secretamente en su cH1004
+- Jer_37:20y no me hagas volver a c del escribaH1004
+- Jer_38:7oyendo Ebed-melec...eunuco de la c realH1004
+- Jer_38:8salió de la c del rey y habló al reyH1004
+- Jer_38:11y entró a la c del rey debajo de laH1004
+- Jer_38:14la tercera entrada de la c de JehováH1004
+- Jer_38:17tu alma vivirá...y vivirás tú y tu cH1004
+- Jer_38:22que han quedado en c del rey de JudáH1004
+- Jer_38:26que no me hiciese volver a c de JonatánH1004
+- Jer_39:8pusieron a fuego la c del rey y las cH1004
+- Jer_39:14para que lo sacase a c, y vivió entreH1004
+- Jer_41:5incienso para llevar a la c de JehováH1004
+- Jer_43:9a la puerta de la c de Faraón en TafnesH1004
+- Jer_48:13la c de Israel se avergonzó de Bet-elH1004
+- Jer_49:27fuego...y consumirá las c de Ben-adadH759
+- Jer_51:30incendiadas están sus c, rotos susH4908
+- Jer_51:51vinieron extranjeros...la c de JehováH1004
+- Jer_52:13quemó la c de Jehová, y las c del reyH1004
+- Jer_52:13quemó la...y todas las c de JerusalénH1004
+- Jer_52:17las columnas...que estaban en la c deH1004
+- Jer_52:17el mar de bronce que estaba en la c deH1004
+- Jer_52:20había hecho el rey...en la c de JehováH1004
+- Lam_2:7resonar su voz en la c de Jehová comoH1004
+- Lam_5:2a extranjeros, nuestras c a forasterosH1004
+- Eze_2:5no escucharen, porque son una c rebeldeH1004
+- Eze_2:6ni temas delante de...porque son c rebeldeH1004
+- Eze_2:8no seas rebelde como la c rebelde; abreH1004
+- Eze_3:1come este rollo y habla a la c de IsraelH1004
+- Eze_3:4vé y entra a la c de Israel, y habla aH1004
+- Eze_3:5no eres enviado a...sino a la c de IsraelH1004
+- Eze_3:7la c de Israel no te querrá oír, porqueH1004
+- Eze_3:7toda la c de Israel es dura de frente yH1004
+- Eze_3:9ni tengas miedo...porque son c rebeldeH1004
+- Eze_3:17he puesto por atalaya a la c de IsraelH1004
+- Eze_3:24dijo: Entra, y enciérrate dentro de tu cH1004
+- Eze_3:26estarás mudo, y...porque son c rebeldeH1004
+- Eze_3:27no quiera oír, no oiga...c rebelde sonH1004
+- Eze_4:3y la sitiarás. Es señal a la c de IsraelH1004
+- Eze_4:4y pondrás sobre él la maldad de la c deH1004
+- Eze_4:5llevarás tú la maldad de la c de IsraelH1004
+- Eze_4:6y llevarás la maldad de la c de Judá 40H1004
+- Eze_5:4saldrá el fuego a toda la c de IsraelH1004
+- Eze_6:11grandes abominaciones de la c de IsraelH1004
+- Eze_7:24mas perversos...poseerán las c de ellosH1004
+- Eze_8:1sentado en mi c, y los ancianos de JudáH1004
+- Eze_8:6abominaciones que la c de Israel haceH1004
+- Eze_8:10los ídolos de la c de Israel...pintadosH1004
+- Eze_8:11varones de...ancianos de la c de IsraelH1004
+- Eze_8:12que los ancianos de la c de Israel hacenH1004
+- Eze_8:14a la puerta de la c de Jehová, que estáH1004
+- Eze_8:16y me llevó al atrio...de la c de JehováH1004
+- Eze_8:17es cosa liviana para la c de Judá hacerH1004
+- Eze_9:3la gloria...se elevó...al umbral de la cH1004
+- Eze_9:7contaminad la c, y llenad los atrios deH1004
+- Eze_9:9la maldad de la c de Israel y de Judá esH1004
+- Eze_10:3querubines estaban a...derecha de la cH1004
+- Eze_10:4y la c fue llena de la nube, y el atrioH1004
+- Eze_10:18gloria...se elevó...del umbral de la cH1004
+- Eze_10:19de la puerta oriental de la c de JehováH1004
+- Eze_11:1me llevó por la puerta oriental de la cH1004
+- Eze_11:3dicen: No será...pronto; edifiquemos cH1004
+- Eze_11:5así habéis hablado, oh c de Israel, yH1004
+- Eze_11:15y toda la c de Israel, toda ella sonH1004
+- Eze_12:2tú habitas en medio de c rebelde, losH1004
+- Eze_12:2no ven...y no oyen, porque son c rebeldeH1004
+- Eze_12:3tal vez atienden, porque son c rebeldeH1004
+- Eze_12:6por señal te he dado a la c de IsraelH1004
+- Eze_12:9te ha dicho la c de Israel...c rebeldeH1004
+- Eze_12:10se refiere...a toda la c de Israel queH1004
+- Eze_12:24lisonjeros en medio de la c de IsraelH1004
+- Eze_12:25oh c rebelde, hablaré...y la cumpliréH1004
+- Eze_12:27los de la c de Israel dicen: La visiónH1004
+- Eze_13:5muro alrededor de la c de Israel, paraH1004
+- Eze_13:9ni serán inscritos en el libro de la cH1004
+- Eze_14:4cualquier hombre de la c de Israel queH1004
+- Eze_14:5tomar a la c de Israel por el corazónH1004
+- Eze_14:6a la c de Israel...Convertíos, y volveosH1004
+- Eze_14:7cualquier hombre de la c de Israel, y deH1004
+- Eze_14:11para que la c de Israel no se desvíeH1004
+- Eze_16:41quemarán tus c a fuego, y harán en tiH1004
+- Eze_17:2y compón una parábola a la c de IsraelH1004
+- Eze_17:12di ahora a la c rebelde: ¿No habéisH1004
+- Eze_18:6, Eze_18:15alzare...ojos a los ídolos de la c deH1004
+- Eze_18:25c de Israel: ¿No es recto mi camino?[[H1004]]
+- Eze_18:29dijere la c de Israel: No es recto elH1004
+- Eze_18:29son rectos mis caminos, c de Israel?[[H1004]]
+- Eze_18:30os juzgaré a cada uno...oh c de IsraelH1004
+- Eze_18:31nuevo. ¿Por qué moriréis, c de Israel?[[H1004]]
+- Eze_20:5para jurar a la descendencia de la c deH1004
+- Eze_20:13se rebeló contra mí la c de Israel enH1004
+- Eze_20:27habla a la c de Israel y, diles: AsíH1004
+- Eze_20:30a la c de Israel: Así ha dicho JehováH1004
+- Eze_20:31¿y he de responderos yo, c de Israel?[[H1004]]
+- Eze_20:39y a vosotros, oh c de Israel, así haH1004
+- Eze_20:40allí me servirá toda la c de IsraelH1004
+- Eze_20:44y sabréis que yo soy Jehová...oh c deH1004
+- Eze_22:18la c de Israel se me ha convertido enH1004
+- Eze_23:39he aquí, así hicieron en medio de mi cH1004
+- Eze_23:47matarán...y sus c consumirán con fuegoH1004
+- Eze_24:3y habla por parábola a la c rebelde, yH1004
+- Eze_24:21a la c de Israel: Así ha dicho JehováH1004
+- Eze_25:3y llevada en cautiverio la c de JudáH1004
+- Eze_25:8he aquí la c de Judá es como todas lasH1004
+- Eze_25:12hizo Edom, tomando venganza de la cH1004
+- Eze_26:12tus c preciosas destruirán; y pondránH1004
+- Eze_27:14los de la c de Togarma, con caballosH1004
+- Eze_28:24nunca más será a la c de Israel espinaH1004
+- Eze_28:25cuando recoja a la c de Israel de losH1004
+- Eze_28:26y edificarán c, y plantarán viñas, yH1004
+- Eze_29:6fueron báculo de caña a la c de IsraelH1004
+- Eze_29:16no será ya...para la c de Israel apoyoH1004
+- Eze_29:21haré retoñar el poder de la c de IsraelH1004
+- Eze_33:7he puesto por atalaya a la c de IsraelH1004
+- Eze_33:10di a la c de Israel: Vosotros habéisH1004
+- Eze_33:11¿por qué moriréis, oh c de Israel?[[H1004]]
+- Eze_33:20os juzgaré, oh c de Israel, a cada unoH1004
+- Eze_33:30mofan de ti junto a las paredes...las cH1004
+- Eze_34:30y ellos son mi pueblo, las c de IsraelH1004
+- Eze_35:15te alegraste sobre...de la c de IsraelH1004
+- Eze_36:10haré multiplicar...toda la c de IsraelH1004
+- Eze_36:17mientras la c de Israel moraba en suH1004
+- Eze_36:21nombre profanado por la c de IsraelH1004
+- Eze_36:22a la c de Israel: Así ha dicho JehováH1004
+- Eze_36:22no lo hago por vosotros, oh c de IsraelH1004
+- Eze_36:32cubríos de confusión por...c de IsraelH1004
+- Eze_36:37aún seré solicitado por la c de IsraelH1004
+- Eze_37:11todos estos huesos son la c de IsraelH1004
+- Eze_37:16toda la c de Israel sus compañerosH1004
+- Eze_38:6la c de Togarma, de los confines delH1004
+- Eze_39:12la c de Israel los estará enterrandoH1004
+- Eze_39:22sabrá la c de Israel que yo soy JehováH1004
+- Eze_39:23que la c de Israel fue llevada cautivaH1004
+- Eze_39:25tendré misericordia de...la c de IsraelH1004
+- Eze_39:29derramado de mi Espíritu sobre la cH1004
+- Eze_40:4cuenta todo lo que ves a la c de IsraelH1004
+- Eze_40:5y he aquí un muro fuera de la c, y laH1004
+- Eze_40:47midió...el altar estaba delante de la cH1004
+- Eze_41:5el muro de la c...de en torno de la cH1004
+- Eze_41:6modillones en la pared de la c, sobreH1004
+- Eze_41:6que no estribasen en la pared de la cH1004
+- Eze_41:7la escalera de caracol de la c subíaH1004
+- Eze_41:7muy alto alrededor por dentro de la cH1004
+- Eze_41:7tanto, la c tenía más anchura arribaH1004
+- Eze_41:8miré la altura de la c alrededor; losH1004
+- Eze_41:9al espacio...de las cámaras de la c porH1004
+- Eze_41:10por todos lados alrededor de la cH1004
+- Eze_41:13luego midió la c, cien codos de largoH1004
+- Eze_41:14ancho del frente de la c...cien codosH1004
+- Eze_41:17hasta la c de adentro, y afuera de ellaH1004
+- Eze_41:19un rostro de...por toda la c alrededorH1004
+- Eze_41:26así eran las cámaras de la c y losH1004
+- Eze_42:15y luego que acabó las medidas de la cH1004
+- Eze_43:4la gloria de Jehová entró en la c porH1004
+- Eze_43:5aquí que la gloria de Jehová llenó la cH1004
+- Eze_43:6y oí uno que me hablaba desde la cH1004
+- Eze_43:7nunca más profanará la c de Israel miH1004
+- Eze_43:10hijo...muestra a la c de Israel esta cH1004
+- Eze_43:11hazles entender el diseño de la c, suH1004
+- Eze_43:12(2)esta es la ley de la cH1004
+- Eze_43:21lo quemarás conforme a la ley de la cH1004
+- Eze_44:4me llevó...por delante de la c, y miréH1004
+- Eze_44:4la gloria...había llenado la c de JehováH1004
+- Eze_44:5todas las ordenanzas de la c de JehováH1004
+- Eze_44:5pon atención a las entradas de la c, yH1004
+- Eze_44:6dirás...a la c de Israel: Así ha dichoH1004
+- Eze_44:6basta ya de todas...abominaciones, oh cH1004
+- Eze_44:7traer...incircuncisos...contaminar mi cH1004
+- Eze_44:11porteros...de la c y sirvientes en la cH1004
+- Eze_44:12fueron a la c de Israel...tropezaderoH1004
+- Eze_44:14por guardas encargados...de la c paraH1004
+- Eze_44:17cuando ministren en las...dentro de la c
+- Eze_44:22tomará virgen del linaje...c de IsraelH1004
+- Eze_44:30que repose la bendición en vuestras cH1004
+- Eze_45:4y servirá de lugar para sus c, y comoH1004
+- Eze_45:5será para los levitas ministros de la cH1004
+- Eze_45:6delante...será para toda la c de IsraelH1004
+- Eze_45:8la tierra a la c de Israel conforme aH1004
+- Eze_45:17en todas las fiestas de la c de IsraelH1004
+- Eze_45:17para hacer expiación por la c de IsraelH1004
+- Eze_45:19y pondrá sobre los postes de la c, yH1004
+- Eze_45:20séptimo día...harás expiación por la cH1004
+- Eze_46:24donde los servidores de la c coceránH1004
+- Eze_47:1hizo volver luego a la entrada de la cH1004
+- Eze_47:1aguas que salían de debajo del...de la cH1004
+- Eze_47:1la fachada de la c estaba al orienteH1004
+- Eze_47:1hacia el lado derecho de la c, al surH1004
+- Eze_48:21el santuario de la c estará en medioH1004
+- Dan_1:2y parte de los utensilios de la c deH1004
+- Dan_1:2los trajo...a la c de su dios, y colocóH1004
+- Dan_1:2colocó los utensilios en la c del...diosH1004
+- Dan_2:5y vuestras c...convertidas en muladaresH1005
+- Dan_2:17fue Daniel a su c e hizo saber lo queH1005
+- Dan_3:29su c convertida en muladar; por cuantoH1005
+- Dan_4:4estaba tranquilo en mi c, y florecienteH1005
+- Dan_4:30yo edifiqué para c real con la fuerzaH1005
+- Dan_5:3que habían traído del templo de la c deH1005
+- Dan_5:23traer delante de ti los vasos de su cH1005
+- Dan_6:10entró en su c, y abiertas las ventanasH1005
+- Ose_1:4yo castigaré a la c de Jehú por causaH1004
+- Ose_1:4y haré cesar el reino de la c de IsraelH1004
+- Ose_1:6no me compadeceré más de la c de IsraelH1004
+- Ose_1:7mas de la c de Judá tendré misericordiaH1004
+- Ose_5:1estad atentos, c de Israel, y c del reyH1004
+- Ose_5:12yo...seré como carcoma a la c de JudáH1004
+- Ose_5:14y como cachorro de león a la c de JudáH1004
+- Ose_6:10en la c de Israel he visto inmundiciaH1004
+- Ose_8:1como águila viene contra la c de JehováH1004
+- Ose_9:4ese pan no entrará en la c de JehováH1004
+- Ose_9:8el profeta es...odio en la c de su DiosH1004
+- Ose_9:15por la...de sus obras los echaré de mi cH1004
+- Ose_11:11los haré habitar en sus c, dice JehováH1004
+- Ose_11:12me rodeó...y la c de Israel de engañoH1004
+- Joe_1:9desapareció...c de Jehová la ofrendaH1004
+- Joe_1:13porque quitada es de la c...la ofrendaH1004
+- Joe_1:14congregad a...en la c de Jehová...DiosH1004
+- Joe_1:16y el placer de la c de nuestro Dios?[[H1004]]
+- Joe_2:9subirán por las c, entrarán por lasH1004
+- Joe_3:18saldrá una fuente de la c de Jehová, yH1004
+- Amó_1:4prenderé fuego en la c de Hazael, yH1004
+- Amó_2:8el vino de...beben en la c de sus diosesH1004
+- Amó_3:13oíd y testificad contra la c de JacobH1004
+- Amó_3:15y heriré la c de invierno con la c deH1004
+- Amó_3:15las c de marfil perecerán; y muchas cH1004
+- Amó_5:1esta palabra que yo levanto...c de IsraelH1004
+- Amó_5:3volverá con ciento...en la c de IsraelH1004
+- Amó_5:4dice Jehová a la c de Israel: BuscadmeH1004
+- Amó_5:6que acometa como fuego a la c de JoséH1004
+- Amó_5:11edificasteis c de piedra labrada, mas noH1004
+- Amó_5:19como si entrare en c y apoyare su manoH1004
+- Amó_5:25me ofrecisteis sacrificios...c de Israel?[[H1004]]
+- Amó_6:1¡ay...a los cuales acude la c de Israel![[H1004]]
+- Amó_6:9diez hombres quedaren en una c, moriránH1004
+- Amó_6:10lo quemará para sacar los huesos de cH1004
+- Amó_6:10al que estará en los rincones de la cH1004
+- Amó_6:11la c mayor, y la c menor con aberturasH1004
+- Amó_6:14oh c de Israel, dice Jehová...levantaréH1004
+- Amó_7:9levantaré...espada sobre la c de JeroboamH1004
+- Amó_7:10Amós se ha levantado...en medio de la cH1004
+- Amó_7:16dices...ni hables contra la c de IsaacH1004
+- Amó_9:8mas no destruiré del todo la c de JacobH1004
+- Amó_9:9haré que la c de Israel sea zarandeadaH1004
+- Abd_1:17c de Jacob recuperará sus posesionesH1004
+- Abd_1:18la c de Jacob será fuego, y la c de JoséH1004
+- Abd_1:18y la c de Esaú estopa, y los quemarán yH1004
+- Abd_1:18ni aun resto quedará de la c de EsaúH1004
+- Miq_1:5y por los pecados de la c de IsraelH1004
+- Miq_1:14c de Aczib serán para engaño a...reyesH1004
+- Miq_2:2codician las...c, y las toman; oprimen alH1004
+- Miq_2:2oprimen al hombre y a su c, al hombre yH1004
+- Miq_2:7que te dices c de Jacob, ¿se ha acortadoH1004
+- Miq_2:9a las mujeres...echasteis fuera de las cH1004
+- Miq_3:1Dije: Oíd ahora...jefes de la c de IsraelH1004
+- Miq_3:9oíd ahora esto, jefes de la c de JacobH1004
+- Miq_3:9oíd...capitanes de la c de Israel, queH1004
+- Miq_3:12monte de la c como cumbres de bosqueH1004
+- Miq_4:1el monte de la c de Jehová...establecidoH1004
+- Miq_4:2subamos al monte...c del Dios de JacobH1004
+- Miq_6:4yo te...de la c de servidumbre te redimíH1004
+- Miq_6:10aún en c del impío tesoros de impiedad?[[H1004]]
+- Miq_6:16y toda obra de la c de Acab; y en losH1004
+- Miq_7:6los enemigos del hombre son los de su cH1004
+- Nah_1:14la c de tu dios destruiré esculturaH1004
+- Hab_2:9que codicia injusta ganancia para su cH1004
+- Hab_2:10tomaste consejo vergonzoso para tu cH1004
+- Hab_3:13traspasaste la cabeza de la c del impíoH1004
+- Sof_1:9que llenan las c...de robo y de engañoH1004
+- Sof_1:13saqueados sus bienes, y sus c asoladasH1004
+- Sof_1:13edificarán c, mas no las habitarán, yH1004
+- Sof_2:7lugar para el remanente de la c de JudáH1004
+- Sof_2:7en las c de Ascalón dormirán de nocheH1004
+- Hag_1:2de que la c de Jehová sea reedificadaH1004
+- Hag_1:4en vuestras c...y esta c está desierta?[[H1004]]
+- Hag_1:8subid...traed madera, y reedificad la cH1004
+- Hag_1:9encerráis en c, y yo lo disiparé en unH1004
+- Hag_1:9por cuanto mi c está desierta, y cada unoH1004
+- Hag_1:9cada uno de vosotros corre a su propia cH1004
+- Hag_1:14y trabajaron en la c de Jehová de losH1004
+- Hag_2:3haya visto esta c en su gloria primeraH1004
+- Hag_2:7llenaré de gloria...c, ha dicho JehováH1004
+- Hag_2:9la gloria postrera de esta c será mayorH1004
+- Zac_1:16en ella será edificada mi c, diceH1004
+- Zac_3:7también tú gobernarás mi c...mis atriosH1004
+- Zac_4:9echarán el cimiento de esta c, y susH1004
+- Zac_5:4vendrá a la c del ladrón, y a la c delH1004
+- Zac_5:4y permanecerá en medio de su c y laH1004
+- Zac_5:11le sea edificada c en tierra de SinarH1004
+- Zac_6:10irás...y entrarás en c de Josías hijo deH1004
+- Zac_7:3a los sacerdotes que estaban en la c deH1004
+- Zac_8:9que se echó el cimiento a la c de JehováH1004
+- Zac_8:13fuisteis maldición...oh c de Judá y c deH1004
+- Zac_8:15he pensado hacer bien...a la c de JudáH1004
+- Zac_8:19convertirán para la c de Judá en gozoH1004
+- Zac_9:8alrededor de mi c como un guarda, paraH1004
+- Zac_10:3Jehová...visitará...la c de Judá, y losH1004
+- Zac_10:6fortaleceré la c de Judá, y guardaré laH1004
+- Zac_10:6guardaré la c de José, y...haré volverH1004
+- Zac_11:13las eché en la c de Jehová al tesoroH1004
+- Zac_12:4mas sobre laC c de Judá abriré mis ojosH1004
+- Zac_12:7para que la gloria de la c de David yH1004
+- Zac_12:8la c de David como Dios, como el ángelH1004
+- Zac_12:10derramaré sobre la c de David, y sobreH1004
+- Zac_12:12c de David por sí...c de Natán por síH1004
+- Zac_12:13descendientes de la c de Leví por síH1004
+- Zac_13:1un manantial abierto para la c de DavidH1004
+- Zac_13:6con ellas fui herido en c de mis amigosH1004
+- Zac_14:2serán saqueadas las c, y violadas lasH1004
+- Zac_14:20las ollas de la c de Jehová serán comoH1004
+- Zac_14:21y no habrá...mercader en la c de JehováH1004
+- Mal_3:10los diezmos...haya alimento en mi cH1004
+- Mat_2:11al entrar en la c, vieron al niño conG3614
+- Mat_5:15y alumbra a todos los que están en cG3614
+- Mat_7:24hombre...que edificó su c sobre la rocaG3614
+- Mat_7:25y golpearon contra aquella c; y no cayóG3614
+- Mat_7:26un hombre...edificó su c sobre la arenaG3614
+- Mat_7:27y dieron con ímpetu contra aquella cG3614
+- Mat_8:6mi criado está postrado en c, paralíticoG3614
+- Mat_8:14Jesús a c de Pedro, y vio a la suegraG3614
+- Mat_9:6levántate, toma tu cama, y vete a tu cG3624
+- Mat_9:7entonces él se levantó y se fue a su cG3624
+- Mat_9:10estando él sentado a la mesa en la cG3614
+- Mat_9:23al entrar Jesús en la c del principalG3614
+- Mat_9:28llegado a la c, vinieron a él...ciegosG3614
+- Mat_10:6a las ovejas perdidas de la c de IsraelG3624
+- Mat_10:12y al entrar en la c, saludadlaG3614
+- Mat_10:13si la c fuere digna, vuestra paz vendráG3614
+- Mat_10:14salid de aquella c o ciudad, y sacudidG3614
+- Mat_10:25si al padre...¿cuánto más a los de su c?[[G3615]]
+- Mat_10:36enemigos del hombre serán los de su cG3615
+- Mat_11:8delicadas, en las c de los reyes estánG3624
+- Mat_12:4cómo entró en la c de Dios, y comió losG3624
+- Mat_12:25ciudad o c dividida contra sí mismaG3614
+- Mat_12:29¿cómo puede alguno entrar en la c delG3614
+- Mat_12:29le ata? Y entonces podrá saquear su cG3614
+- Mat_12:44entonces dice: Volveré a mi c de dondeG3624
+- Mat_13:1salió Jesús de la c y se sentó junto alG3614
+- Mat_13:36entró Jesús en la c; y acercándose a élG3614
+- Mat_13:57profeta sin honra, sino en...y en su cG3614
+- Mat_15:24sino a las ovejas perdidas de la c deG3624
+- Mat_17:25y al entrar él en c, Jesús le hablóG3614
+- Mat_19:29cualquiera que haya dejado c...o padreG3614
+- Mat_21:13mi c, c de oración será llamada; masG3624
+- Mat_23:14porque devoráis las c de las viudas, yG3614
+- Mat_23:38aquí vuestra c os es dejada desiertaG3624
+- Mat_24:17no descienda para tomar algo de su cG3614
+- Mat_24:43que...velaría, y no dejaría minar su cG3614
+- Mat_24:45al cual puso su señor sobre su c paraG2322
+- Mat_26:6estando Jesús...en c de Simón el leprosoG3614
+- Mat_26:18en tu c celebraré la pascua con misG3614
+- Mar_1:29vinieron a c de Simón y Andrés, conG3614
+- Mar_2:1entró Jesús...y se oyó que estaba en cG3624
+- Mar_2:11levántate, toma tu lecho, y vete a tu cG3624
+- Mar_2:15que estando Jesús a la mesa en c de élG3614
+- Mar_2:26entró en la c de Dios, siendo AbiatarG3624
+- Mar_3:19Judas Iscariote, el que...Y vinieron a cG3624
+- Mar_3:25c está dividida contra sí misma, tal cG3614
+- Mar_3:27entrar en la c de un hombre fuerte yG3614
+- Mar_3:27le ata, y entonces podrá saquear su cG3614
+- Mar_5:19vete a tu c, a los tuyos, y cuéntalesG3624
+- Mar_5:35vinieron de c del principal de...diciendoG3614
+- Mar_5:38vino a c del principal de la sinagogaG3624
+- Mar_6:4no hay profeta sin honra sino...y en su cG3614
+- Mar_6:10entréis en una c, posad en ella hastaG3614
+- Mar_7:17se alejó...y entró en c, le preguntaronG3624
+- Mar_7:24entrando en una c, no quiso que nadieG3614
+- Mar_7:30llegó ella a su c, halló que el demonioG3624
+- Mar_8:3y si los enviare en ayunas a sus c, seG3624
+- Mar_8:26lo envió a su c, diciendo: No entres enG3624
+- Mar_9:28cuando él entró en c, sus discípulos leG3624
+- Mar_9:33cuando estuvo en c, les preguntó: ¿QuéG3614
+- Mar_10:10en c volvieron los...a preguntarle de loG3614
+- Mar_10:29ninguno que haya dejado c, o hermanosG3614
+- Mar_10:30c, hermanos, hermanas, madres, hijosG3614
+- Mar_11:17c será llamada c de oración para todasG3624
+- Mar_12:40que devoran las c de las viudas, y porG3614
+- Mar_13:15no descienda a la c...tomar algo de su cG3614
+- Mar_13:34el hombre que yéndose lejos, dejó su cG3614
+- Mar_13:35cuándo vendrá el señor de la c; si alG3614
+- Mar_14:3estando él en Betania, en c de Simón elG3614
+- Mar_14:14decid al señor de la c: El Maestro diceG3617
+- Luc_1:23cumplidos los días de...se fue a su cG3624
+- Luc_1:24recluyó en c por cinco meses, diciendoG4032
+- Luc_1:27varón que se llamaba José, de la c de DavidG3624
+- Luc_1:33y reinará sobre la c de Jacob...siempreG3624
+- Luc_1:40y entró en c de Zacarías, y saludó aG3624
+- Luc_1:56tres meses; después se volvió a su cG3624
+- Luc_1:69un poderoso Salvador en la c de DavidG3624
+- Luc_2:4cuanto era de la c y familia de DavidG3624
+- Luc_4:38Jesús...salió de y entró en c de SimónG3614
+- Luc_5:19subieron encima de la c, y...el tejadoG1430
+- Luc_5:24levántate, toma tu lecho, y vete a tu cG3624
+- Luc_5:25se fue a su c, glorificando a DiosG3624
+- Luc_5:29Leví le hizo gran banquete en su cG3614
+- Luc_6:4entró en la c de Dios, y tomó los panesG3624
+- Luc_6:48al hombre que al edificar una c, cavóG3614
+- Luc_6:48el río dio...contra aquella c, pero noG3614
+- Luc_6:49al hombre que edificó su c sobre tierraG3614
+- Luc_6:49y fue grande la ruina de aquella cG3614
+- Luc_7:6pero cuando ya no estaban lejos de la cG3614
+- Luc_7:10y al regresar a c los que habían sidoG3624
+- Luc_7:36habiendo entrado en c del fariseo, seG3614
+- Luc_7:37saber que Jesús estaba...c del fariseoG3614
+- Luc_7:44entré en tu c, y no me diste agua paraG3614
+- Luc_8:27ni moraba en c, sino en los sepulcrosG3614
+- Luc_8:39vuélvete a tu c, y cuenta cuán grandesG3624
+- Luc_8:41Jairo...le rogaba que entrase en su cG3624
+- Luc_8:49cuando vino uno de c del principal deG3844
+- Luc_8:51entrando en la c, no dejó entrar a nadieG3614
+- Luc_9:4y en cualquier c donde entréis, quedadG3614
+- Luc_9:61me despida...de los que están en mi cG3624
+- Luc_10:5en cualquier c...decid: Paz sea a esta cG3614
+- Luc_10:7y posad en...c...No os paséis de c en cG3614
+- Luc_10:38una mujer...Marta le recibió en su cG3624
+- Luc_11:17y una c dividida contra sí misma, caeG3624
+- Luc_11:24dice: Volveré a mi c de donde salíG3624
+- Luc_11:37entrando Jesús en la c, se sentó a la
+- Luc_12:39que si supiese...no dejaría minar su cG3624
+- Luc_12:42su señor pondrá sobre su c, para queG2322
+- Luc_13:35he aquí vuestra c os es dejada desiertaG3624
+- Luc_14:1en c de un gobernante, que era fariseoG3624
+- Luc_14:23fuérzalos a entrar...que se llene mi cG3624
+- Luc_15:6y al llegar a c, reúne a sus amigos yG3624
+- Luc_15:8y barre la c, y busca con diligenciaG3614
+- Luc_15:17¡cuántos jornaleros en c de mi padre
+- Luc_15:25y cuando vino, y llegó cerca de la cG3614
+- Luc_16:4se me quite de la...me reciban en sus cG3624
+- Luc_16:27te ruego...le envíes a la c de mi padreG3624
+- Luc_17:31bienes en c, no descienda a tomarlosG3614
+- Luc_18:14que éste descendió a su c justificadoG3624
+- Luc_18:29nadie que haya dejado c, o padres, oG3614
+- Luc_19:5hoy es necesario que pose yo en tu cG3624
+- Luc_19:9hoy ha venido la salvación a esta cG3624
+- Luc_19:46mi c es c de oración; mas vosotros laG3624
+- Luc_20:47que devoran las c de las viudas, y porG3614
+- Luc_22:10agua; seguidle hasta la c donde entrareG3614
+- Luc_22:11y decid al padre de familia de esa cG3614
+- Luc_22:54y le condujeron a c del sumo sacerdoteG3624
+- Luc_24:12y se fue a c maravillándose de lo que
+- Jua_2:16hagáis...c de mi Padre c de mercadoG3624
+- Jua_2:17que está escrito: El celo de tu c meG3624
+- Jua_4:53tu hijo vive; y creyó él con toda su cG3614
+- Jua_7:53cada uno se fue a su cG3624
+- Jua_8:35el esclavo no queda en la c para siempreG3614
+- Jua_11:20encontrarle; pero María se quedó en cG3624
+- Jua_11:31los judíos que estaban en c con ella yG3614
+- Jua_12:3y la c se llenó del olor del perfumeG3614
+- Jua_14:2en la c de mi Padre muchas moradas hayG3614
+- Jua_18:28llevaron a Jesús de c de Caifás al
+- Jua_19:27hora el discípulo la recibió en su cG2398
+- Hec_2:2el cual llenó toda la c donde estabanG3624
+- Hec_2:36sepa...la c de Israel, que a este JesúsG3624
+- Hec_2:46y partiendo el pan en las c, comíanG3624
+- Hec_4:34todos los que poseían...c, las vendíanG3614
+- Hec_5:42en el templo y por las c, no cesaban deG3624
+- Hec_7:10lo puso por gobernador sobre...toda su cG3624
+- Hec_7:20fue criado tres meses en c de su padreG3624
+- Hec_7:42acaso me of ofrecisteis...c de Israel?[[G3624]]
+- Hec_7:47mas Salomón le edificó cG3624
+- Hec_7:49qué c me edificaréis? dice el SeñorG3624
+- Hec_8:3entrando c por c, arrastraba a hombresG3624
+- Hec_9:11busca en c de Judas a...llamado SauloG3614
+- Hec_9:17entró en la c, y poniendo sobre él lasG3614
+- Hec_9:43que se quedó...en c de un cierto SimónG3844
+- Hec_10:2temeroso de Dios con toda su c, y queG3624
+- Hec_10:6posa en c de...Simón...su c junto al marG3614
+- Hec_10:17cuales, preguntando por la c de SimónG3614
+- Hec_10:22de hacerte venir a su c para oir tusG3624
+- Hec_10:30oraba en mi c, vi que se puso delanteG3624
+- Hec_10:32Pedro, el cual mora en c de Simón, unG3614
+- Hec_11:3¿por qué has entrado en c de hombres
+- Hec_11:11llegaron tres hombres a la c donde yoG3614
+- Hec_11:12fueron...y entramos en c de un varónG3624
+- Hec_11:13contó cómo había visto en su c un ángelG3624
+- Hec_11:14serás salvo tú, y toda tu cG3624
+- Hec_12:12llego a c de María la madre de JuanG3624
+- Hec_16:15entrad en mi c, y posad. Y nos obligóG3624
+- Hec_16:31cree en...y serás salvo, tú y tu cG3624
+- Hec_16:32a él y a todos los que estaban en su cG3614
+- Hec_16:34llevándolos a su c, les puso la mesaG3624
+- Hec_16:34y se regocijó con toda su c de haberG3832
+- Hec_16:40saliendo de la...entraron en c de Lidia
+- Hec_17:5y asaltando la c de Jasón, procurabanG3614
+- Hec_18:7a la c de uno llamado Justo, temerosoG3614
+- Hec_18:8Crispo...creyó en el Señor con toda su cG3624
+- Hec_19:16que huyeron de aquella c desnudos yG3624
+- Hec_20:20de anunciaros y enseñaros...por las cG3624
+- Hec_21:6al barco, y ellos se volvieron a sus cG2398
+- Hec_21:8entrando en c de Felipe...posamos con élG3624
+- Hec_28:30Pablo permaneció...en una c alquiladaG3410
+- Rom_16:5saludad también a la iglesia de su cG3624
+- Rom_16:10saludad a los de la c de Aristóbulo
+- Rom_16:11saludad a los de la c de Narciso los
+- 1Co_11:22no tenéis c en que comáis y bebáisG3614
+- 1Co_11:34si alguno tuviere hambre, coma en su cG3624
+- 1Co_14:35pregunten en c a sus maridos, porqueG3624
+- 1Co_16:19iglesia que esta en su c, os saludanG3624
+- 2Co_5:1tenemos de Dios un edificio, una cG3614
+- Flp_4:22especialmente los de la c de CésarG3614
+- Col_4:15saludad...la iglesia que está en su cG3624
+- 1Ti_3:4que gobierne bien su c, que tenga aG3624
+- 1Ti_3:5que no sabe gobernar su propia c, ¿cómoG3624
+- 1Ti_3:12que gobiernen bien sus hijos y sus cG3624
+- 1Ti_3:15cómo debes conducirte en la c de DiosG3624
+- 1Ti_5:8si alguno no provee para los...de su c?[[G3609]]
+- 1Ti_5:13a ser ociosas, andando de c en c; y noG3614
+- 1Ti_5:14se casen, críen hijos, gobiernen su cG3616
+- 2Ti_1:16tenga el Señor misericordia de la cG3624
+- 2Ti_2:20en una c grande hay utensilios de oro yG3614
+- 2Ti_3:6de éstos son los que se meten en las cG3614
+- 2Ti_4:13trae...el capote que dejé en Troas en cG3844
+- 2Ti_4:19saluda a Prisca...y a la c de OnesíforoG3624
+- Tit_1:11que trastornan c enteras, enseñandoG3624
+- Tit_2:5ser prudentes, castas, cuidadosas de su cG3626
+- Flm_1:2Apia...y a la iglesia que está en tu cG3624
+- Heb_3:2como...fue Moisés en toda la c de DiosG3624
+- Heb_3:3tiene mayor honra que la c el que la hizoG3624
+- Heb_3:4porque toda c es hecha por alguno, peroG3624
+- Heb_3:5y Moisés...fue fiel en toda la c de DiosG3624
+- Heb_3:6como hijo sobre su c, la cual c somosG3624
+- Heb_8:8con la c de Israel y la c de Judá...pactoG3624
+- Heb_8:10es el pacto que haré con la c de IsraelG3624
+- Heb_10:21teniendo un gran sacerdote sobre la cG3624
+- Heb_11:7preparó el arca en que su c se salvaseG3624
+- 1Pe_2:5edificados como c espiritual...santoG3624
+- 1Pe_4:17que el juicio comience por la c de DiosG3624
+- 2Jn_1:10si...no lo recibáis en c, ni le digáisG3614

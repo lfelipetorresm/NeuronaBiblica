@@ -1,0 +1,306 @@
+---
+tipo: concordancia
+palabra: PACTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PACTO
+
+- Gén_6:18estableceré mi p contigo, y entrarásH1285
+- Gén_9:9yo establezco mi p con vosotros, y conH1285
+- Gén_9:11mi p con vosotros, y no exterminaré yaH1285
+- Gén_9:12la señal del p que yo establezco entreH1285
+- Gén_9:13mi arco...será por señal del p entre míH1285
+- Gén_9:15me acordaré del p mío, que hay entre míH1285
+- Gén_9:16lo veré, y me acordaré del p perpetuoH1285
+- Gén_9:17esta es la señal del p que he establecidoH1285
+- Gén_15:18en aquel día hizo Jehová un p con AbramH1285
+- Gén_17:2mi p entre mí y ti, y te multiplicaré enH1285
+- Gén_17:4aquí mi p es contigo, y serás padre deH1285
+- Gén_17:7y estableceré mi p entre...por p perpetuoH1285
+- Gén_17:9en cuanto a ti, guardarás mi p, tú y tuH1285
+- Gén_17:10este es mi p, que guardaréis entre míH1285
+- Gén_17:11por señal del p entre mí y vosotrosH1285
+- Gén_17:13y estará mi p en vuestra carne por pH1285
+- Gén_17:14cortada de su pueblo; ha violado mi pH1285
+- Gén_17:19confirmaré mi p con él como p perpetuoH1285
+- Gén_17:21yo estableceré mi p con Isaac, el queH1285
+- Gén_21:27Abraham...Abimelec...e hicieron ambos pH1285
+- Gén_21:32hicieron p en Beerseba; y se levantóH1285
+- Gén_26:28haya ahora juramento entre...haremos pH1285
+- Gén_31:44ven, pues, ahora, y hagamos p tú y yoH1285
+- Éxo_2:24y se acordó de su p con AbrahamH1285
+- Éxo_6:4establecí mi p con ellos, de darles laH1285
+- Éxo_6:5yo he oído el...y me he acordado de mi pH1285
+- Éxo_19:5y guardareis mi p, vosotros seréis miH1285
+- Éxo_24:7tomó el libro del p y lo leyó a oídos deH1285
+- Éxo_24:8la sangre del p que Jehová ha hecho conH1285
+- Éxo_31:16celebrándolo por sus generaciones por pH1285
+- Éxo_34:10hago p delante de todo tu pueblo; haréH1285
+- Éxo_34:27conforme a estas palabras he hecho pH1285
+- Éxo_34:28escribió en tablas las palabras del pH1285
+- Lev_2:13harás que falte jamás...la sal del pH1285
+- Lev_24:8lo pondrá...en orden...como p perpetuoH1285
+- Lev_26:9haré crecer...afirmaré mi p con vosotrosH1285
+- Lev_26:15no ejecutando todos...invalidando mi pH1285
+- Lev_26:25espada vengadora, en vindicación del pH1285
+- Lev_26:42yo me acordaré de mi p con Jacob, yH1285
+- Lev_26:42de mi p con Isaac...mi p con Abraham meH1285
+- Lev_26:44ni los abominaré...invalidando mi p conH1285
+- Lev_26:45me acordaré de ellos por el p antiguoH1285
+- Núm_10:33el arca del p...fue delante de ellosH1285
+- Núm_14:44el arca del p...no se apartaron de enH1285
+- Núm_18:19p de sal...delante de Jehová para ti yH1285
+- Núm_25:12aquí yo establezco mi p de paz con élH1285
+- Núm_25:13tendrá...el p del sacerdocio perpetuoH1285
+- Deu_4:13él os anunció su p, el cual os mandóH1285
+- Deu_4:23guardaos, no os olvidéis del p de JehováH1285
+- Deu_4:31ni se olvidará del p que les juró a tusH1285
+- Deu_5:2Jehová...Dios hizo p con nosotros en HorebH1285
+- Deu_5:3no con nuestros padres hizo Jehová este pH1285
+- Deu_7:9guarda el p y la misericordia a los queH1285
+- Deu_7:12Jehová tu Dios guardará contigo el p yH1285
+- Deu_8:18a fin de confirmar su p que juró a tusH1285
+- Deu_9:9para recibir...las tablas del p que JehováH1285
+- Deu_9:11Jehová me dio las dos...las tablas del pH1285
+- Deu_9:15con las tablas del p en mis dos manosH1285
+- Deu_10:8de Leví para que llevase el arca del pH1285
+- Deu_17:2haya hecho mal ante...traspasando su pH1285
+- Deu_29:1son las palabras del p que Jehová mandóH1285
+- Deu_29:1además del p que concertó con ellos enH1285
+- Deu_29:9guardaréis, pues, las palabras de este pH1285
+- Deu_29:12que entres en el p de Jehová tu DiosH1285
+- Deu_29:14no solamente con vosotros hago...este pH1285
+- Deu_29:21todas las maldiciones del p escrito enH1285
+- Deu_29:25dejaron el p de Jehová el Dios de susH1285
+- Deu_31:9que llevaban el arca del p de Jehová, yH1285
+- Deu_31:16invalidará mi p que he concertado conH1285
+- Deu_31:20y me enojarán, e invalidarán mi pH1285
+- Deu_31:25levitas que llevaban el arca del p deH1285
+- Deu_31:26la ley, y ponedlo al lado del arca del pH1285
+- Deu_33:9pues ellos guardaron...y cumplieron tu pH1285
+- Jos_3:3cuando veáis el arca del p de JehováH1285
+- Jos_3:6tomad el arca del p, y pasad delante delH1285
+- Jos_3:6tomaron el arca del p y fueron delanteH1285
+- Jos_3:8mandarás a los...que llevan el arca del pH1285
+- Jos_3:11arca del p...pasará delante de vosotrosH1285
+- Jos_3:14los sacerdotes...llevando el arca del pH1285
+- Jos_3:17que llevaban el arca del p...en medio delH1285
+- Jos_4:7fueron divididas delante del arca del pH1285
+- Jos_4:9pies de los...que llevaban el arca del pH1285
+- Jos_4:18que llevaban el arca del p subieron deH1285
+- Jos_6:6llevad el arca del p, y siete sacerdotesH1285
+- Jos_6:8bocinas...arca del p de Jehová los seguíaH1285
+- Jos_7:11Israel ha pecado...han quebrantado mi pH1285
+- Jos_7:15por cuanto ha quebrantado el p de JehováH1285
+- Jos_8:33levitas que llevaban el arca del p deH1285
+- Jos_23:16si traspasareis el p de Jehová...DiosH1285
+- Jos_24:25entonces Josué hizo p con el pueblo elH1285
+- Jue_2:1invalidaré jamás mi p con vosotrosH1285
+- Jue_2:2no hagáis p con los moradores de...tierraH1285
+- Jue_2:20traspasa mi p que ordené a sus padresH1285
+- Jue_20:27pues el arca del p de Dios estaba allíH1285
+- 1Sa_4:3traigamos a...el arca del p de JehováH1285
+- 1Sa_4:4trajeron de allá el arca del p de JehováH1285
+- 1Sa_4:4Ofni y Finees...allí con el arca del p deH1285
+- 1Sa_4:5cuando el arca del p de Jehová llegó alH1285
+- 1Sa_18:3hicieron p Jonatán y David...él le amabaH1285
+- 1Sa_20:8ya que has hecho entrar a tu siervo en pH1285
+- 1Sa_20:16así hizo Jonatán p con la casa de David
+- 1Sa_23:18y ambos hicieron p delante de JehováH1285
+- 2Sa_3:12Abner...a David...haz p conmigoH1285
+- 2Sa_3:13haré p contigo, mas una cosa te pidoH1285
+- 2Sa_3:21para que hagan contigo p, y tú reinesH1285
+- 2Sa_5:3el rey David hizo p con ellos en HebrónH1285
+- 2Sa_15:24levitas que llevaban el arca del p deH1285
+- 2Sa_15:24los levitas...asentaron el arca del pH1285
+- 2Sa_23:5sin embargo, él ha hecho conmigo pH1285
+- 1Re_3:15se presentó delante del arca del pH1285
+- 1Re_5:12y hubo paz entre Hiram y...e hicieron pH1285
+- 1Re_6:19para poner allí el arca del p de JehováH1285
+- 1Re_8:1para traer el arca del p de Jehová de laH1285
+- 1Re_8:6metieron el arca del p...en su lugar, enH1285
+- 1Re_8:9Horeb, donde Jehová hizo p con los hijos
+- 1Re_8:21el arca, en la cual está el p de JehováH1285
+- 1Re_8:23que guardas el p y la misericordia a tusH1285
+- 1Re_11:11y no has guardado mi p...romperé de tiH1285
+- 1Re_15:19y rompe tu p con Baasa rey de IsraelH1285
+- 1Re_19:10, 1Re_19:14los hijos de Israel han dejado tu pH1285
+- 1Re_20:34yo, dijo...te dejaré partir con este pH1285
+- 1Re_20:34hizo, pues, p con él, y le dejó irH1285
+- 2Re_11:17hizo p entre Jehová y el rey y elH1285
+- 2Re_13:23los miró, a causa de su p con AbrahamH1285
+- 2Re_17:15desecharon...y el p que él había hechoH1285
+- 2Re_17:35con los cuales Jehová había hecho pH1285
+- 2Re_17:38no olvidaréis el p qué...con vosotrosH1285
+- 2Re_18:12habían quebrantado su p; y todas lasH1285
+- 2Re_23:2leyó...las palabras del libro del p queH1285
+- 2Re_23:3hizo p delante de Jehová, de que iríanH1285
+- 2Re_23:3y que cumplirían las palabras del p queH1285
+- 2Re_23:3libro. Y todo el pueblo confirmó el pH1285
+- 2Re_23:21que está escrito en el libro de este pH1285
+- 1Cr_11:3David hizo con ellos p delante deH1285
+- 1Cr_15:25fueron a traer el arca del p de JehováH1285
+- 1Cr_15:26levitas que llevaban el arca del p deH1285
+- 1Cr_15:28llevaba todo Israel el arca del p, conH1285
+- 1Cr_15:29arca del p...llegó a la ciudad de DavidH1285
+- 1Cr_16:6trompetas delante del arca del p de DiosH1285
+- 1Cr_16:15él hace memoria de su p perpetuamenteH1285
+- 1Cr_16:16del p que concertó con Abraham, y deH1285
+- 1Cr_16:17cual confirmó...a Israel por p sempiternoH1285
+- 1Cr_16:37allí, delante del arca del p de JehováH1285
+- 1Cr_17:1y el arca del p de...debajo de cortinasH1285
+- 1Cr_22:19para traer el arca del p de Jehová, yH1285
+- 1Cr_28:2casa en la cual reposara el arca del pH1285
+- 1Cr_28:18que con las alas...cubrían el arca del p
+- 2Cr_5:2trajesen el arca del p de Jehová deH1285
+- 2Cr_5:7metieron el arca del p de...en su lugarH1285
+- 2Cr_5:10había hecho p con los hijos de Israel
+- 2Cr_6:11el arca, en la cual está el p de JehováH1285
+- 2Cr_6:14que guardas el p y la...con tus siervosH1285
+- 2Cr_13:5Jehová dio el reino a David...p de sal?[[H1285]]
+- 2Cr_21:7causa del p que había hecho con DavidH1285
+- 2Cr_23:3toda la multitud hizo p con el rey enH1285
+- 2Cr_23:16p entre sí y todo el pueblo y el reyH1285
+- 2Cr_29:10yo he determinado hacer p con JehováH1285
+- 2Cr_34:30y leyó...del libro del p que había sidoH1285
+- 2Cr_34:31hizo...p de caminar en pos de Jehová yH1285
+- 2Cr_34:31poniendo por obra las palabras del pH1285
+- 2Cr_34:32conforme al p de Dios...del Dios de susH1285
+- Esd_10:3p con nuestro Dios, que despediremosH1285
+- Neh_1:5que guarda el p y la misericordia a losH1285
+- Neh_9:8hiciste p con él para darle la tierra deH1285
+- Neh_9:32que guardas el p, y la misericordia, noH1285
+- Neh_13:29los que contaminan...el p del sacerdocioH1285
+- Job_5:23con las piedras del campo tendrás tu pH1285
+- Job_31:1hice p con mis ojos; ¿cómo, pues, habíaH1285
+- Job_41:4¿hará p contigo para que lo tomes porH1285
+- Sal_25:10que guardan su p y sus testimoniosH1285
+- Sal_25:14le temen, y a ellos hará conocer su pH1285
+- Sal_44:17nos ha venido...y no hemos faltado a tu pH1285
+- Sal_50:5mis santos, los que hicieron conmigo pH1285
+- Sal_50:16mis leyes, y que tomar mi p en tu boca?[[H1285]]
+- Sal_55:20extendió el inicuo...manos...violó su pH1285
+- Sal_74:20mira al p...están llenos...de violenciaH1285
+- Sal_78:10no guardaron el p de Dios, ni...su leyH1285
+- Sal_78:37rectos...ni estuvieron firmes en su pH1285
+- Sal_89:3hice p con mi escogido; juré a David miH1285
+- Sal_89:28misericordia, y mi p será firme con élH1285
+- Sal_89:34no olvidaré mi p, ni mudaré lo que haH1285
+- Sal_89:39rompiste el p de tu siervo...su coronaH1285
+- Sal_103:18sobre los que guardan su p, y los queH1285
+- Sal_105:8se acordó para siempre de su p; de laH1285
+- Sal_105:10por decreto, a Israel por p sempiternoH1285
+- Sal_106:45y se acordaba de su p con ellos, y seH1285
+- Sal_111:5temen; para siempre se acordará de su pH1285
+- Sal_111:9para siempre ha ordenado su p; santo yH1285
+- Sal_132:12si tus hijos guardaren mi p, y miH1285
+- Pro_2:17y se olvida del p de su DiosH1285
+- Isa_24:5porque...quebrantaron el p sempiternoH1285
+- Isa_28:15p tenemos hecho con la muerte...el SeolH1285
+- Isa_28:18será anulado vuestro p con la muerteH1285
+- Isa_33:8ha anulado el p, aborreció las ciudadesH1285
+- Isa_42:6te pondré por p al pueblo, por luz deH1285
+- Isa_49:8daré por p al pueblo, para que restauresH1285
+- Isa_54:10ni el p de mi paz se quebrantará, dijoH1285
+- Isa_55:3venid...haré con vosotros p eterno, lasH1285
+- Isa_56:4los eunucos que guarden...y abracen mi pH1285
+- Isa_56:6guarden el día de reposo...y abracen mi pH1285
+- Isa_57:8ensanchaste tu cama...hiciste con ellos p
+- Isa_59:21este será mi p con ellos, dijo JehováH1285
+- Isa_61:8afirmaré...y haré con ellos p perpetuoH1285
+- Jer_3:16no se dirá más: Área del p de JehováH1285
+- Jer_11:2oíd las palabras de este p, y hablad aH1285
+- Jer_11:3maldito el varón que no obedeciere...pH1285
+- Jer_11:6oíd las palabras de este p, y ponedlasH1285
+- Jer_11:8sobre ellos todas las palabras de este pH1285
+- Jer_11:10casa de Judá invalidaron mi p, el cualH1285
+- Jer_14:21no nos deseches...no invalides tu p conH1285
+- Jer_22:9porque dejaron el p de Jehová su Dios, yH1285
+- Jer_31:31en los cuales haré nuevo p con la casaH1285
+- Jer_31:32no como el p que hice con sus padres elH1285
+- Jer_31:32ellos invalidaron mi p, aunque fui yoH1285
+- Jer_31:33pero este es el p que haré con la casaH1285
+- Jer_32:40y haré con ellos p eterno, que no meH1285
+- Jer_33:20invalidar mi p con el día y mi p con laH1285
+- Jer_33:21mi p con...David...mi p con los levitasH1285
+- Jer_33:25si no permanece mi p con el día y laH1285
+- Jer_34:8Sedequías hizo p con todo el pueblo enH1285
+- Jer_34:10había convenido en el p de dejar libreH1285
+- Jer_34:13hice p con vuestros padres el día queH1285
+- Jer_34:15y habíais hecho p en mi presencia, enH1285
+- Jer_34:18traspasaron mi p...las palabras del pH1285
+- Jer_50:5y juntémonos a Jehová con p eterno queH1285
+- Eze_16:8di juramento y entré en p contigoH1285
+- Eze_16:59menospreciaste...para invalidar el p?[[H1285]]
+- Eze_16:60yo tendré memoria de mi p que concertéH1285
+- Eze_16:60y estableceré contigo un p sempiternoH1285
+- Eze_16:61yo te daré por hijas, mas no por tu pH1285
+- Eze_16:62por mi p que yo confirmaré contigo; yH1285
+- Eze_17:13p con él, y le hizo prestar juramentoH1285
+- Eze_17:14que guardando el p, permaneciese en pieH1285
+- Eze_17:15el que rompió el p, ¿podrá escapar?[[H1285]]
+- Eze_17:16el rey que...cuyo p hecho con él rompióH1285
+- Eze_17:18cuanto menospreció el...y quebrantó el pH1285
+- Eze_17:19p que ha quebrantado, lo traeré sobreH1285
+- Eze_20:37y os haré entrar en los vínculos del pH1285
+- Eze_34:25y estableceré con ellos p de paz, yH1285
+- Eze_37:26y haré con ellos p de paz, p perpetuoH1285
+- Eze_44:7y de invalidar mi p con todas vuestrasH1285
+- Dan_9:4guardas el p...con los que te amanH1285
+- Dan_9:27y por otra semana confirmará el p conH1285
+- Dan_11:22del todo destruidos...el príncipe del pH2266
+- Dan_11:23después del p con él, engañará y subiráH1285
+- Dan_11:28y su corazón será contra el p santoH1285
+- Dan_11:30se enojará contra el p santo, y haráH1285
+- Dan_11:30entenderá con los que abandonen el...pH1285
+- Dan_11:32seducirá a los violadores del p; mas elH1285
+- Ose_2:18para ti p con las bestias del campoH1285
+- Ose_6:7mas ellos, cual Adán, traspasaron el pH1285
+- Ose_8:1traspasaron mi p, y se rebelaron contraH1285
+- Ose_10:4jurando en vano al hacer p; por tantoH1285
+- Ose_12:1hicieron p con los asirios, y el aceiteH1285
+- Amó_1:9no se acordaron del p de hermanosH1285
+- Hag_2:5el p que hice con vosotros cuandoH3722
+- Zac_9:11por la sangre de tu p serás salva; yoH1285
+- Zac_11:10romper mi p que concerté con todos losH1285
+- Mal_2:4que fuese mi p con Leví, ha dichoH1285
+- Mal_2:5p con él fue de vida y de paz, las cualesH1285
+- Mal_2:8apartado...habéis corrompido el p de LevíH1285
+- Mal_2:10¿profanando el p de nuestros padres?[[H1285]]
+- Mal_2:14desleal, siendo ella...la mujer de tu pH1285
+- Mal_3:1el ángel del p, a quien deseáis vosotrosH1285
+- Mat_26:28; Mar_14:24es mi sangre del nuevo pG1242
+- Luc_1:72misericordia...acordarse de su santo pG1242
+- Luc_22:20esta copa es el nuevo p en mi sangreG1242
+- Hec_3:25p que Dios hizo con nuestros padresG1242
+- Hec_7:8y le dio el p de la circuncisión; y asíG1242
+- Rom_9:4de los cuales son la adopción...el p, laG1242
+- Rom_11:27y este será mi p con ellos, cuando yoG1242
+- 1Co_11:25esta copa es el nuevo p en mi sangreG1242
+- 2Co_3:6nos hizo ministros...de un nuevo p, noG1242
+- 2Co_3:14cuando leen el antiguo p, les queda elG1242
+- Gál_3:15un p, aunque sea de...nadie lo invalidaG1242
+- Gál_3:17el p previamente ratificado por Dios paraG1242
+- Gál_4:24pues estas mujeres son los dos p; el unoG1242
+- Efe_2:12y ajenos a los p de la promesa, sinG1242
+- Heb_7:22Jesús es hecho fiador de un mejor pG1242
+- Heb_8:6suyo, cuanto es mediador de un mejor pG1242
+- Heb_8:8días...en que estableceré con...un nuevo pG1242
+- Heb_8:9no como el p que hice con sus padres elG1242
+- Heb_8:9ellos no permanecieron en mi p, y yo meG1242
+- Heb_8:10es el p que haré con la casa de IsraelG1242
+- Heb_8:13nuevo p, ha dado por viejo al primero
+- Heb_9:1aun el primer p tenía ordenanzas de culto
+- Heb_9:4tenía...el arca del p cubierta de oro porG1242
+- Heb_9:4que contenía el maná...y las tablas del pG1242
+- Heb_9:15que, por eso es mediador de un nuevo pG1242
+- Heb_9:15de las transgresiones...bajo el primer pG1242
+- Heb_9:18ni aun el primer p fue instituido sinG1242
+- Heb_9:20esta es la sangre del p que Dios os haG1242
+- Heb_10:16es el p que haré con ellos después deG1242
+- Heb_10:29y tuviere por inmunda la sangre del pG1242
+- Heb_12:24a Jesús el Mediador del nuevo p, y aG1242
+- Heb_13:20pastor de...por la sangre del p eternoG1242
+- Rev_11:19el arca de su p se veía en el temploG1248

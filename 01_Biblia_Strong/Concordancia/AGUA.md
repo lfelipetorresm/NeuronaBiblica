@@ -1,0 +1,632 @@
+---
+tipo: concordancia
+palabra: AGUA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# AGUA
+
+- Gén_1:2Espíritu...movía sobre la faz de las aH4325
+- Gén_1:6medio de las a, y separe las a de las aH4325
+- Gén_1:7separó las a...de las a que estaban sobreH4325
+- Gén_1:9júntense las a que están debajo de losH4325
+- Gén_1:10y a la reunión de las a llamó MaresH4325
+- Gén_1:20dijo: Produzcan las a seres vivientesH4325
+- Gén_1:21todo ser...que las a produjeron según suH4325
+- Gén_1:22fructificad...y llenad las a en los maresH4325
+- Gén_6:17he aquí que yo traigo un diluvio de aH4325
+- Gén_7:6el diluvio de las a vino sobre la tierraH4325
+- Gén_7:7causa de las a del diluvio entró Noé alH4325
+- Gén_7:10séptimo día las a del diluvio vinieronH4325
+- Gén_7:17y las a crecieron, y alzaron el arcaH4325
+- Gén_7:18subieron...a y crecieron en gran maneraH4325
+- Gén_7:18flotaba...sobre la superficie de las aH4325
+- Gén_7:19y las a subieron mucho sobre la tierraH4325
+- Gén_7:20quince codos más alto subieron las aH4325
+- Gén_7:24prevalecieron las a sobre la tierra 150H4325
+- Gén_8:1pasar Dios un viento...disminuyeron las aH4325
+- Gén_8:3las a decrecían...y se retiraron las a alH4325
+- Gén_8:5las a fueron decreciendo hasta el mesH4325
+- Gén_8:7y volviendo hasta que las a se secaronH4325
+- Gén_8:8para ver si las a se habían retirado deH4325
+- Gén_8:9las a estaban aún sobre la faz de todaH4325
+- Gén_8:11entendió Noé...las a se habían retiradoH4325
+- Gén_8:13mes, las a se secaron sobre la tierraH4325
+- Gén_9:11no exterminaré ya más toda carne con aH4325
+- Gén_9:15no habrá más diluvio de a para destruirH4325
+- Gén_16:7halló el ángel...junto a una fuente de aH4325
+- Gén_18:4se traiga ahora un poco de a, y lavadH4325
+- Gén_21:14pan, y un odre de a, y lo dio a AgarH4325
+- Gén_21:15y le faltó el a del odre, y echó alH4325
+- Gén_21:19le abrió Dios...y vio una fuente de aH4325
+- Gén_21:19llenó el odre de a, y dio de beber alH4325
+- Gén_21:25reconvino a...a causa de un pozo de aH4325
+- Gén_24:11arrodillar los...junto a un pozo de aH4325
+- Gén_24:11hora en que salen las doncellas por a
+- Gén_24:13aquí yo estoy junto a la fuente de aH4325
+- Gén_24:13las hijas de los varones...salen por aH4325
+- Gén_24:17des a beber un poco de a de tu cántaroH4325
+- Gén_24:19también para tus camellos sacaré aH4325
+- Gén_24:20corrió...otra vez al pozo para sacar aH4325
+- Gén_24:32les dio...a para lavar los pies de élH4325
+- Gén_24:43he aquí yo estoy junto a la fuente de aH4325
+- Gén_24:43doncella que saliere por a, a la cual
+- Gén_24:43dame...ruego, un poco de a de tu cántaroH4325
+- Gén_24:44y también para tus camellos sacaré a
+- Gén_24:45descendió a la fuente, y sacó a; y leH4325
+- Gén_26:18y volvió a abrir Isaac los pozos de aH4325
+- Gén_26:19y hallaron allí un pozo de a vivasH4325
+- Gén_26:20riñeron con...diciendo: El a es nuestraH4325
+- Gén_26:32el pozo...y le dijeron: Hemos hallado aH4325
+- Gén_30:38abrevaderos del a donde venían a beberH4325
+- Gén_37:24la cisterna...vacía; no había en ella aH4325
+- Gén_43:24les dio a, y lavaron sus pies, y dioH4325
+- Gén_49:4impetuoso como las a, no...el principalH4325
+- Éxo_2:10diciendo: Porque de las a lo saquéH4325
+- Éxo_2:16sacar a para llenar las pilas y dar deH4325
+- Éxo_2:19sacó el a, y dio de beber a las ovejas
+- Éxo_4:9tomarás de las a del río y las derramarásH4325
+- Éxo_4:9cambiarán aquellas a que tomarás del ríoH4325
+- Éxo_7:17golpearé con la...el a que está en el ríoH4325
+- Éxo_7:18los egipcios tendrán asco de beber el aH4325
+- Éxo_7:19extiende tu mano sobre las a de EgiptoH4325
+- Éxo_7:19tu vara...sobre todos sus depósitos de aH4325
+- Éxo_7:20vara golpeó las a que había en el ríoH4325
+- Éxo_7:20todas las a...se convirtieron en sangreH4325
+- Éxo_7:24porque no podían beber de las a del ríoH4325
+- Éxo_8:6Aarón extendió su mano sobre las a deH4325
+- Éxo_12:9ni cocida en a, sino asada al fuego, suH4325
+- Éxo_14:21el mar en seco, y...a quedaron divididasH4325
+- Éxo_14:22, Éxo_14:29teniendo las a como muro a su derechaH4325
+- Éxo_14:26extiende tu mano...las a vuelvan sobreH4325
+- Éxo_14:28volvieron las a, y cubrieron los carrosH4325
+- Éxo_15:8soplo de tu aliento se amontonaron las aH4325
+- Éxo_15:10se hundieron como plomo en las...aH4325
+- Éxo_15:19hizo volver las a del mar sobre ellosH4325
+- Éxo_15:22tres días por el desierto sin hallar aH4325
+- Éxo_15:23llegaron a...y no pudieron beber las aH4325
+- Éxo_15:25lo echó en las a, y las a se endulzaronH4325
+- Éxo_15:27y llegaron a...había doce fuentes de aH4325
+- Éxo_15:27a Elim...y acamparon allí junto a las aH4325
+- Éxo_17:1no había a para que el pueblo bebieseH4325
+- Éxo_17:2y dijeron: Danos a para que bebamosH4325
+- Éxo_17:6golpearás la peña, y saldrán de ella aH4325
+- Éxo_20:4de lo que esté arriba en el...ni en las aH4325
+- Éxo_23:25Jehová...y él bendecirá tu pan y tus aH4325
+- Éxo_29:4a Aarón y a sus hijos...los lavarás con aH4325
+- Éxo_30:18fuente de bronce...y pondrás en ella aH4325
+- Éxo_30:20se lavarán con a, para que no mueranH4325
+- Éxo_32:20esparció sobre las a, y lo dio a beberH4325
+- Éxo_34:28no comió pan, ni bebió a; y escribió enH4325
+- Éxo_40:7pondrás la fuente...y pondrás a en ellaH4325
+- Éxo_40:12Aarón y a sus hijos...los lavarás con aH4325
+- Éxo_40:30la fuente...y puso en ella a para lavarH4325
+- Lev_1:9lavará con a los intestinos y...piernasH4325
+- Lev_1:13lavará las entrañas y las piernas con aH4325
+- Lev_6:28de bronce, será fregada y lavada con aH4325
+- Lev_8:6hizo acercarse a Aarón...y los lavó con aH4325
+- Lev_8:21lavó luego con a los intestinos y lasH4325
+- Lev_11:9todos los animales que viven en las aH4325
+- Lev_11:9los que tienen aletas...en las a del marH4325
+- Lev_11:10toda cosa viviente que está en las aH4325
+- Lev_11:12no tuviere aletas y escamas en las aH4325
+- Lev_11:32sea cosa de madera...será metido en aH4325
+- Lev_11:34el cual cayere el a de tales vasijasH4325
+- Lev_11:36la...donde se recogen a serán limpiasH4325
+- Lev_11:38si se hubiere puesto a en la semillaH4325
+- Lev_11:46todo ser viviente que se mueve en las aH4325
+- Lev_14:5matar una avecilla...sobre a corrientesH4325
+- Lev_14:6avecilla muerta sobre las a corrientesH4325
+- Lev_14:8raerá...y se lavará con a y será limpioH4325
+- Lev_14:9y lavará su cuerpo en a, y será limpioH4325
+- Lev_14:50degollará una avecilla...a corrientesH4325
+- Lev_14:51y los mojará en...y en las a corrientesH4325
+- Lev_14:52purificará...con las a corrientes, conH4325
+- Lev_15:5-6, Lev_15:7, Lev_15:11, Lev_15:22, Lev_15:27se lavará...sí mismo con aH4325
+- Lev_15:8y después de haberse lavado con a, seráH4325
+- Lev_15:10, Lev_15:21después de lavarse con a...inmundoH4325
+- Lev_15:11tocare el...y no lavare con a sus manosH4325
+- Lev_15:12toda vasija de madera será lavada con aH4325
+- Lev_15:13y lavará su cuerpo en a corrientes, yH4325
+- Lev_15:16lavará en a todo su cuerpo, y seráH4325
+- Lev_15:17se lavará con a, y será inmunda hastaH4325
+- Lev_15:18lavarán con a, y serán inmundos hastaH4325
+- Lev_16:4vestir después de lavar su cuerpo con aH4325
+- Lev_16:24lavará...su cuerpo con a en el lugar delH4325
+- Lev_16:26, Lev_16:28lavará también su cuerpo con a, yH4325
+- Lev_17:15y a sí mismo se lavará con a, y seráH4325
+- Lev_22:6antes que haya lavado su cuerpo con aH4325
+- Núm_5:17tomará...del a santa...echará en el aH4325
+- Núm_5:18-19, Núm_5:22, Núm_5:24(2),27las a amargas que traen maldiciónH4325
+- Núm_5:23escribirá...las borrará con las a amargasH4325
+- Núm_5:26después dará a beber las a a la mujerH4325
+- Núm_5:27le dará, pues, a beber las a; y si fuereH4325
+- Núm_8:7rocía sobre ellos el a de la expiaciónH4325
+- Núm_19:7-8lavará también su cuerpo con a, yH4325
+- Núm_19:8el que la quemó lavará sus vestidos en aH4325
+- Núm_19:9Ias guardará...para el a de purificaciónH4325
+- Núm_19:12tercer día se purificará con aquella a
+- Núm_19:13cuanto el a de...no fue rociada sobre élH4325
+- Núm_19:17echarán sobre ella a corriente en unH4325
+- Núm_19:18tomará hisopo, y lo mojará en el aH4325
+- Núm_19:19y a sí mismo se lavará con a, y seráH4325
+- Núm_19:20no fue rociada sobre él el a de laH4325
+- Núm_19:21que rociare el a...lavará sus vestidosH4325
+- Núm_19:21que tocare el a de la purificación seráH4325
+- Núm_20:2no había a...se juntaron contra MoisésH4325
+- Núm_20:5no es lugar de...ni aun de a para beberH4325
+- Núm_20:8dará su a, y les sacarás a de la peñaH4325
+- Núm_20:10os hemos de hacer salir a de esta peña?[[H4325]]
+- Núm_20:11y golpeó la peña...y salieron muchas aH4325
+- Núm_20:13estas son las a de la rencilla, por lasH4325
+- Núm_20:17ni por viña, ni beberemos a de pozosH4325
+- Núm_20:19si bebiéremos tus a yo y mis ganadosH4325
+- Núm_20:24rebeldes a mí en las a de la rencillaH4325
+- Núm_21:5no hay pan ni a, y nuestra alma tieneH4325
+- Núm_21:16dijo...Reúne al pueblo, y les daré aH4325
+- Núm_21:22no beberemos las a de los pozos; porH4325
+- Núm_24:6como áloes...como cedros junto a las aH4325
+- Núm_24:7de sus manos destilarán a...en muchas aH4325
+- Núm_27:14no santificándome en las a a ojos deH4325
+- Núm_27:14estas son las a de la rencilla de CadesH4325
+- Núm_31:23que en las a de purificación habrá deH4325
+- Núm_31:23por a todo lo que no resiste el fuegoH4325
+- Núm_33:9a Elim, donde había doce fuentes de aH4325
+- Núm_33:14donde el pueblo no tuvo a para beberH4325
+- Deu_2:6compraréis de ellos el a, y beberéisH4325
+- Deu_2:28a también me darás por dinero, y beberéH4325
+- Deu_4:18figura de pez alguno que haya en el aH4325
+- Deu_5:8de cosa...ni en las a debajo de la tierraH4325
+- Deu_8:7tierra de arroyos, de a, de fuentes y deH4325
+- Deu_8:15no había a, y él te sacó a de la rocaH4325
+- Deu_9:9en el monte...sin comer pan ni beber aH4325
+- Deu_9:18ni bebí a, a causa de...vuestro pecadoH4325
+- Deu_10:7allí a Jotbata, tierra de arroyos de aH4325
+- Deu_11:4cómo precipitó las a del Mar Rojo sobreH4325
+- Deu_11:11que bebe las a de la lluvia del cieloH4325
+- Deu_12:16sobre la tierra la derramaréis como aH4325
+- Deu_12:24no la comerás...la derramarás como aH4325
+- Deu_14:9que está en el a, éstos podréis comerH4325
+- Deu_15:23sobre la tierra la derramarás como aH4325
+- Deu_23:4no os salieron a recibir con pan y aH4325
+- Deu_23:11pero al caer la noche se lavará con aH4325
+- Deu_29:11el que corta...hasta el que saca tu aH4325
+- Deu_32:51pecasteis...en las a de Meriba de CadesH4325
+- Deu_33:8con quien contendiste en las a de MeribaH4325
+- Jos_2:10Jehová hizo secar las a del Mar RojoH4325
+- Jos_3:8entrado hasta el borde del a del JordánH4325
+- Jos_3:13plantas de...pies...se asienten en las aH4325
+- Jos_3:13las a...se dividirán...las a...se detendránH4325
+- Jos_3:15los pies de...mojados a la orilla del aH4325
+- Jos_3:16las a...se detuvieron como en un montónH4325
+- Jos_4:7las a del Jordán fueron divididas delanteH4325
+- Jos_4:7pasó el...las a del Jordán se dividieronH4325
+- Jos_4:18las a del Jordán se volvieron a su lugarH4325
+- Jos_4:23secó...a del Jordán delante de vosotrosH4325
+- Jos_5:1había secado las a del Jordán delante deH4325
+- Jos_7:5el corazón del pueblo...vino a ser como aH4325
+- Jos_9:23y saque el a para la casa de mi DiosH4325
+- Jos_11:5acamparon unidos junto a las a de MeromH4325
+- Jos_11:7vino contra ellos junto a las a de MeromH4325
+- Jos_15:7pasa hasta las a de En-semes y sale aH4325
+- Jos_15:9hasta la fuente de las a de Neftoa, yH4325
+- Jos_15:19dado tierra...dame también fuentes de aH4325
+- Jos_16:1hasta las a de Jericó hacia el orienteH4325
+- Jos_18:15sale...a la fuente de las a de NeftoaH4325
+- Jue_1:15dame...fuentes de a. Entonces CalebH4325
+- Jue_4:19te ruego me des de beber un poco de aH4325
+- Jue_5:4los cielos destilaron...nubes gotearon aH4325
+- Jue_5:19en Taanac, junto a las a de MeguidoH4325
+- Jue_5:25pidió a, y ella le dio leche; en tazónH4325
+- Jue_6:38exprimió...y sacó...un tazón lleno de aH4325
+- Jue_7:4llévalos a las a, y allí te los probaréH4325
+- Jue_7:5llevó el pueblo a las a; y Jehová dijoH4325
+- Jue_7:5lamiere las a con su...como lame el perroH4325
+- Jue_7:6lamieron llevando el a con la mano a su
+- Jue_7:6se dobló sobre...rodillas para beber las aH4325
+- Jue_7:7con estos que lamieron el a os salvaré
+- Jue_15:19salió de allí a, y él bebió, y recobróH4325
+- Rut_2:9vé...y bebe del a que sacan los criados
+- 1Sa_7:6se reunieron en Mizpa, y sacaron aH4325
+- 1Sa_9:11unas doncellas que salían por a, a lasH4325
+- 1Sa_25:11¿he de tomar...mi pan, mi a, y la carneH4325
+- 1Sa_26:11toma ahora...la vasija de a, y vámonosH4325
+- 1Sa_26:12la vasija de a de la cabecera de SaúlH4325
+- 1Sa_26:16donde está la lanza...y la vasija de aH4325
+- 1Sa_30:11le dieron pan...y le dieron a beber aH4325
+- 1Sa_30:12no había...pan ni bebido a en tres díasH4325
+- 2Sa_12:27yo he...he tomado la ciudad de las aH4325
+- 2Sa_14:14morimos, y somos como a derramadas porH4325
+- 2Sa_17:20ya han pasado el vado de las a. Y comoH4325
+- 2Sa_17:21levantaos y daos prisa a pasar las aH4325
+- 2Sa_21:10la siega hasta que llovió sobre ellos aH4325
+- 2Sa_22:12puso...oscuridad de a y densas nubesH4325
+- 2Sa_22:16aparecieron los torrentes de las aH3220
+- 2Sa_22:17alto y me tomó; me sacó de las muchas aH4325
+- 2Sa_23:15¡quién me diera a beber del a del pozoH4325
+- 2Sa_23:16sacaron a del pozo de Belén que habíaH4325
+- 1Re_13:8no iría...ni bebería a en este lugarH4325
+- 1Re_13:9ni bebas a, ni regreses por el caminoH4325
+- 1Re_13:16pan ni beberé a contigo en este lugarH4325
+- 1Re_13:17ha sido dicho: No comas pan ni bebas aH4325
+- 1Re_13:18a tu casa, para que coma pan y beba aH4325
+- 1Re_13:19volvió con él, y comió pan...y bebió aH4325
+- 1Re_13:22bebiste a en el lugar donde Jehová teH4325
+- 1Re_13:22te había dicho que no...ni bebieses aH4325
+- 1Re_14:15al modo que la caña se agita en las aH4325
+- 1Re_17:10te ruego que me traigas un poco de aH4325
+- 1Re_18:4los escondió...y los sustentó con pan y aH4325
+- 1Re_18:5vé por el país a todas las fuentes de aH4325
+- 1Re_18:13a cien varones...mantuve con pan y a?[[H4325]]
+- 1Re_18:34y dijo: Llenad cuatro cántaros de a, yH4325
+- 1Re_18:35que el a corría alrededor del altarH4325
+- 1Re_18:35también se había llenado de a la zanjaH4325
+- 1Re_18:38aun lamió el a que estaba en la zanjaH4325
+- 1Re_19:6aquí...una torta cocida...y una vasija de aH4325
+- 1Re_22:27pan de angustia y con a de aflicciónH4325
+- 2Re_2:8golpeó las a, las cuales se apartaronH4325
+- 2Re_2:14golpeó las a...modo las a, se apartaronH4325
+- 2Re_2:19las a son malas, y la tierra es estérilH4325
+- 2Re_2:21saliendo él a los manantiales de las aH4325
+- 2Re_2:21yo sané estas a, y no habrá más en ellasH4325
+- 2Re_2:22fueron sanas las a hasta hoy, conformeH4325
+- 2Re_3:9les faltó a para el ejército, y para lasH4325
+- 2Re_3:17este valle será lleno de a, y beberéisH4325
+- 2Re_3:19cegaréis...las fuentes de a, y destruiréisH4325
+- 2Re_3:20vinieron a...y la tierra se llenó de aH4325
+- 2Re_3:22cuando se...y brilló el sol sobre las aH4325
+- 2Re_3:25cegaron...todas las fuentes de las a, yH4325
+- 2Re_5:12son mejores que todas las a de Israel?[[H4325]]
+- 2Re_6:5se le cayó el hacha en el a; y gritóH4325
+- 2Re_6:22pon delante de ellos pan y a, para queH4325
+- 2Re_8:15tomó un paño y lo metió en a, y lo pusoH4325
+- 2Re_18:31coma...y beba cada uno las a de su pozoH4325
+- 2Re_19:24he cavado y bebido las a extrañas, yH4325
+- 2Re_20:20Ezequías...y metió las a en la ciudadH4325
+- 1Cr_11:17¡quién me diera...de las a del pozoH4325
+- 1Cr_11:18sacaron a del pozo de Belén, que estáH4325
+- 1Cr_14:11Dios rompió mis...como se rompen las aH4325
+- 2Cr_18:26pan de aflicción y a de angustiaH4325
+- 2Cr_32:3para cegar las fuentes de a que estabanH4325
+- 2Cr_32:4hallar los reyes de...a cuando vengan?[[H4325]]
+- 2Cr_32:30condujo el a hacia el occidente de laH4161, [[H4325]]
+- Esd_10:6ni bebió a, porque se entristeció aH4325
+- Neh_3:26hasta enfrente de la puerta de las AH4325
+- Neh_8:1se juntó...delante de la puerta de las AH4325
+- Neh_8:3la plaza...delante de la puerta de las AH4325
+- Neh_8:16en la plaza de la puerta de las A, y enH4325
+- Neh_9:11echaste...como una piedra en profundas aH4325
+- Neh_9:15en su sed les sacaste a de la peñaH4325
+- Neh_9:20tu maná de su boca, y a les diste...su sedH4325
+- Neh_12:37hasta la puerta de las A, al orienteH4325
+- Neh_13:2no salieron a recibir a los...con pan y aH4325
+- Job_3:24suspiro, y mis gemidos corren como aH4325
+- Job_5:10que da...y envía las a sobre los camposH4325
+- Job_8:11¿crece el junco...¿crece el prado sin a?[[H4325]]
+- Job_9:30aunque me lave con a de nieve, y limpieH4325
+- Job_11:16o te acordarás de ella como de a queH4325
+- Job_12:15si él detiene las a, todo se secaH4325
+- Job_14:9al percibir el a reverdecerá, y haráH4325
+- Job_14:11como las a se van del mar, y el río seH4325
+- Job_14:19las piedras se desgastan con el aH4325
+- Job_15:16el hombre...que bebe la iniquidad como aH4325
+- Job_22:7no diste de beber a al cansado...el panH4325
+- Job_22:11que no veas, y abundancia de a te cubreH4325
+- Job_24:18huyen ligeros como corrientes de aH4325
+- Job_24:19y el calor arrebatan las a de la nieveH4325
+- Job_26:8ata las a en sus nubes, y las nubes noH4325
+- Job_26:10puso límite a la superficie de las aH4325
+- Job_27:20se apoderarán de él terrores como aH4325
+- Job_28:25al dar peso...y poner las a por medidaH4325
+- Job_29:19mi raíz estaba abierta junto a las aH4325
+- Job_34:7como Job, que bebe el escarnio como aH4325
+- Job_36:27él atrae las gotas de las a...en vaporH4325
+- Job_37:10da el hielo, y las anchas a se congelanH4325
+- Job_38:30las a se endurecen a manera de piedraH4325
+- Job_38:34para que te cubra muchedumbre de a?[[H4325]]
+- Sal_1:3árbol plantado junto a corrientes de aH4325
+- Sal_18:11oscuridad de a, nubes de los cielosH4325
+- Sal_18:15aparecieron los abismos de las a, yH4325
+- Sal_18:16alto; me tomó, me sacó de las muchas aH4325
+- Sal_22:14he sido derramado como a, y todos misH4325
+- Sal_23:2junto a a de reposo me pastorearáH4325
+- Sal_29:3voz de Jehová sobre las a; truena elH4325
+- Sal_29:3truena el...Jehová sobre las muchas aH4325
+- Sal_32:6en la inundación de muchas a no llegaránH4325
+- Sal_33:7junta como montón las a del mar; él poneH4325
+- Sal_42:1brama por las corrientes de las a, asíH4325
+- Sal_46:3aunque bramen y se turben sus a, y seH4325
+- Sal_58:7sean disipados como a que corren; cuandoH4325
+- Sal_63:1en la tierra seca y árida donde no hay aH4325
+- Sal_65:9con el río de Dios, lleno de a, preparasH4325
+- Sal_66:12pasamos por el fuego y por el a, yH4325
+- Sal_69:1sálvame, oh Dios, porque...a han entradoH4325
+- Sal_69:2he venido a abismos de a, y la corrienteH4325
+- Sal_69:14libertado...y de lo profundo de las aH4325
+- Sal_69:15no me anegue la corriente de las aH4325
+- Sal_73:10a en abundancia serán extraídas paraH4325
+- Sal_74:13quebrantaste...de monstruos en las aH4325
+- Sal_77:16vieron las a, oh Dios, las a te vieronH4325
+- Sal_77:17las nubes echaron inundaciones de aH4325
+- Sal_77:19camino, y tus sendas en las muchas aH4325
+- Sal_78:13pasar; detuvo las a como en un montónH4325
+- Sal_78:16de la peña...hizo descender a como ríosH4325
+- Sal_78:20aquí ha herido la peña, y brotaron aH4325
+- Sal_79:3derramaron su sangre como a...JerusalénH4325
+- Sal_81:7te libré...probé junto a las a de MeribaH4325
+- Sal_88:17me han rodeado como a continuamenteH4325
+- Sal_90:5los arrebatas como con torrente de aH2229
+- Sal_93:4más poderoso que el estruendo de las...aH2229
+- Sal_104:3establece sus aposentos entre las aH2229
+- Sal_104:6abismo...sobre los montes estaban las aH2229
+- Sal_105:29volvió sus a en sangre, y mató susH2229
+- Sal_105:41abrió la peña, y fluyeron a...un ríoH2229
+- Sal_106:11cubrieron las a a sus enemigosH2229
+- Sal_106:32le irritaron en las a de MeribaH2229
+- Sal_107:23los que...hacen negocio en las muchas aH2229
+- Sal_107:33los manantiales de las a en sequedalesH2229
+- Sal_107:35vuelve el desierto en estanques de aH2229
+- Sal_109:18entró como a en sus entrañas, y comoH2229
+- Sal_114:8estanque de a, y en fuente de a la rocaH2229
+- Sal_119:136ríos de a descendieron de mis ojosH2229
+- Sal_124:4entonces nos habrían inundado las aH2229
+- Sal_124:5pasado sobre nuestra alma...a impetuosasH2229
+- Sal_136:6al que extendió la tierra sobre las aH2229
+- Sal_144:7sácame de las muchas a, de la mano deH2229
+- Sal_147:18soplará su viento, y fluirán las aH2229
+- Sal_148:4alabadle...a que están sobre los cielosH2229
+- Pro_5:15bebe el a de tu misma cisterna, y losH2229
+- Pro_5:16¿se derramarán...tus corrientes de a porH2229
+- Pro_8:24que fuesen las fuentes de las muchas aH2229
+- Pro_8:29que las a no traspasasen su mandamientoH2229
+- Pro_9:17a hurtadas son dulces, y el pan comidoH2229
+- Pro_17:14es como quien suelta las a; deja, puesH2229
+- Pro_18:4a profundas son las palabras de la bocaH2229
+- Pro_20:5a profundas es el consejo en el corazónH2229
+- Pro_21:1como los repartimientos de las a, asíH2229
+- Pro_25:21pan, y si tuviere sed, dale de beber aH2229
+- Pro_25:25como el a fría al alma sedienta, asíH2229
+- Pro_27:19como en el a el rostro corresponde alH2229
+- Pro_30:4¿quién ató las a en un paño? ¿QuiénH2229
+- Pro_30:16la tierra que no se sacia de a, y elH2229
+- Ecl_2:6me hice estanques de a, para regar deH2229
+- Ecl_11:1echa tu pan sobre las a...lo hallarásH2229
+- Ecl_11:3si las nubes fueren llenas de a, sobreH1653
+- Cnt_4:15pozo de a vivas, que corren del LíbanoH4325
+- Cnt_5:12palomas junto a los arroyos de las aH4325
+- Cnt_8:7las muchas a no podrán apagar el amor, niH4325
+- Isa_1:22escorias, tu vino está mezclado con aH4325
+- Isa_1:30y como huerto al que le faltan las aH4325
+- Isa_3:1todo sustento de pan y todo socorro de aH4325
+- Isa_8:6desechó este pueblo las a de Siloé, queH4325
+- Isa_8:7el Señor hace subir sobre ellos a de ríosH4325
+- Isa_11:9será llena del...como las a cubren el marH4325
+- Isa_12:3sacaréis con gozo a de las fuentes de laH4325
+- Isa_14:23y la convertiré en...y en lagunas de aH4325
+- Isa_15:6las a de Nimrim serán consumidas, y seH4325
+- Isa_15:9y las a de Dimón se llenarán de sangreH4325
+- Isa_17:12harán alboroto como bramido de muchas aH4325
+- Isa_17:13estrépito como de ruido de muchas aH4325
+- Isa_18:2que envía...naves de junco sobre las aH4325
+- Isa_19:5y las a del mar faltarán, y el río seH4325
+- Isa_19:8río...los que extienden red sobre las aH4325
+- Isa_21:14llevadle a, moradores de tierra de TemaH4325
+- Isa_22:9recogisteis las a del estanque de abajoH4325
+- Isa_22:11hicisteis foso...las a del estanque viejoH4325
+- Isa_23:3que crecen con las muchas a del NiloH4325
+- Isa_28:2como ímpetu de recias a que inundan, conH4325
+- Isa_28:17granizo...y a arrollarán el escondrijoH4325
+- Isa_30:14no se halla tiesto...sacar a del pozoH4325
+- Isa_30:20os dará el Señor pan de congoja y a deH4325
+- Isa_30:25habrá ríos y corrientes de a el día deH4325
+- Isa_32:2como arroyos de a en tierra de sequedadH4325
+- Isa_32:20dichosos los que sembráis junto a...aH4325
+- Isa_33:16se le dará su pan...sus a serán segurasH4325
+- Isa_35:6porque a serán cavadas en el desiertoH4325
+- Isa_35:7seco se convertirá...en manaderos de aH4325
+- Isa_36:16coma...beba cada cual las a de su pozoH4325
+- Isa_37:25cavé y bebí las a, y con las pisadas deH4325
+- Isa_40:12¿quién midió las a con el hueco de suH4325
+- Isa_40:15las naciones le son como la gota de aH4752
+- Isa_41:17afligidos...buscan las a, y no las hayH4325
+- Isa_41:18estanques de a, y manantiales de a enH4325
+- Isa_43:2cuando pases por...a, yo estaré contigoH4325
+- Isa_43:16el que abre camino en el mar...en las aH4325
+- Isa_43:20porque daré a en el desierto, ríos enH4325
+- Isa_44:3yo derramaré a sobre el sequedal, y ríosH4325
+- Isa_44:4como sauces junto a las riberas de las aH4325
+- Isa_44:12tiene hambre...no bebe a, y se desmayaH4325
+- Isa_48:1los que salieron de las a de Judá, losH4325
+- Isa_48:21hizo brotar a de la...y corrieron las aH4325
+- Isa_49:10que...los conducirá a manantiales de aH4325
+- Isa_50:2sus peces se pudren por falta de a yH4325
+- Isa_51:10¿no eres tú el que secó...las a del granH4325
+- Isa_54:9nunca más las a de Noé pasarían sobre laH4325
+- Isa_55:1a todos los sedientos: Venid a las aH4325
+- Isa_57:20como el mar...sus a arrojan cieno y lodoH4325
+- Isa_58:11y como manantial de a, cuyas a nuncaH4325
+- Isa_63:12el que dividió las a delante de ellosH4325
+- Isa_64:2fuego que hace hervir las a, para queH4325
+- Jer_2:13me dejaron a mí, fuente de a vivaH4325
+- Jer_2:13cisternas rotas que no retienen aH4325
+- Jer_2:18bebas a del Nilo...bebas a del Éufrates?[[H4325]]
+- Jer_3:3a han sido detenidas, y faltó la lluviaH7241
+- Jer_6:7como la fuente nunca cesa de manar sus aH4325
+- Jer_8:14Jehová...nos ha dado a beber a de hielH4325
+- Jer_9:1¡oh, si mi cabeza se hiciese a, y mis ojosH4325
+- Jer_9:15ajenjo, y les daré a beber a de hielH4325
+- Jer_9:18y nuestros párpados se destilen en aH4325
+- Jer_10:13a su voz se produce muchedumbre de aH4325
+- Jer_13:1y cíñelo sobre tus...y no lo metas en aH4325
+- Jer_14:3los nobles enviaron...al a...no hallaron aH4325
+- Jer_15:18¿serás...y como a que no son estables?[[H4325]]
+- Jer_17:8será como el árbol plantado junto a las aH4325
+- Jer_17:13dejaron a Jehová, manantial de a vivasH4325
+- Jer_18:14¿faltarán las a frías que corren deH4325
+- Jer_23:15ajenjos, y les haré beber a de hielH4325
+- Jer_31:9y los haré andar junto a arroyos de aH4325
+- Jer_38:6y en la cisterna no había a, sino cienoH4325
+- Jer_46:7¿quién es éste...cuyas a se mueven comoH4325
+- Jer_46:8se ensancha, y las a se mueven como ríosH4325
+- Jer_47:2suben a del norte, y se harán torrenteH4325
+- Jer_48:34también las a de Nimrim serán destruidasH4325
+- Jer_49:23derritieron en a de desmayo, no puedenH3220
+- Jer_50:38sequedad sobre sus a, y se secaránH4325
+- Jer_51:13tú, la que moras entre muchas a, rica enH4325
+- Jer_51:16a su voz se producen tumultos de a enH4325
+- Jer_51:55como sonido de muchas a será la voz deH4325
+- Lam_1:16mis ojos fluyen a, porque se alejó deH4325
+- Lam_2:19derrama como a tu corazón ante...SeñorH4325
+- Lam_3:48ríos de a echan mis ojos por...mi puebloH4325
+- Lam_3:54a cubrieron mi cabeza; yo dije: MuertoH4325
+- Lam_5:4nuestra a bebemos por dinero; compramosH4325
+- Eze_1:24oí el sonido de sus alas...de muchas aH4325
+- Eze_4:11beberás el a por medida, la sexta parteH4325
+- Eze_4:16y beberán el a por medida y con espantoH4325
+- Eze_4:17que al faltarles el pan y el a, se mirenH4325
+- Eze_7:17toda mano...rodilla será débil como el aH4325
+- Eze_12:18y bebe tu a con estremecimiento y conH4325
+- Eze_12:19y con espanto beberán su a; porque suH4325
+- Eze_16:4ni fuiste lavada con a para limpiarte, niH4325
+- Eze_16:9te lavé con a, y lavé tus sangres...de tiH4325
+- Eze_17:5la plantó junto a a abundantes, la pusoH4325
+- Eze_17:8junto a muchas a, fue plantada, para queH4325
+- Eze_19:10plantada junto a las a...las muchas aH4325
+- Eze_21:7toda mano...rodilla será débil como el aH4325
+- Eze_24:3pon una olla, ponla, y echa...en ella aH4325
+- Eze_26:12y pondrán...tu polvo en medio de las aH4325
+- Eze_26:19te convertiré en...muchas a te cubriránH4325
+- Eze_27:26en muchas a te engolfaron tus remerosH4325
+- Eze_27:34quebrantada...en lo profundo de las aH4325
+- Eze_31:4las a lo hicieron crecer, lo encumbró elH4325
+- Eze_31:5a causa de las...a se alargó su ramajeH4325
+- Eze_31:7porque su raíz estaba junto a muchas aH4325
+- Eze_31:14los árboles que crecen junto a las aH4325
+- Eze_31:14confíen en su...todos los que beben aH4325
+- Eze_31:15ríos, y las muchas a fueron detenidasH4325
+- Eze_31:16los que beben a, fueron consolados enH4325
+- Eze_32:2ríos, y enturbiabas las a con tus piesH4325
+- Eze_32:13sus bestias destruiré de sobre las...aH4325
+- Eze_32:14haré asentarse sus a, y haré correr susH4325
+- Eze_34:18que bebiendo las a claras, enturbiáisH4325
+- Eze_36:25esparciré sobre vosotros a limpia, yH4325
+- Eze_43:2sonido era como el sonido de muchas aH4325
+- Eze_47:1he aquí a que salían de debajo del umbralH4325
+- Eze_47:1y las a descendían de debajo, hacia elH4325
+- Eze_47:2y vi que las a salían del lado derechoH4325
+- Eze_47:3me hizo pasar...las a hasta los tobillosH4325
+- Eze_47:4a hasta las rodillas...a hasta los lomosH4325
+- Eze_47:5porque las a habían crecido de maneraH4325
+- Eze_47:8estas a salen a la región del orienteH4325
+- Eze_47:8entradas en el...recibirán sanidad las aH4325
+- Eze_47:9peces por haber entrado allá estas aH4325
+- Eze_47:12sus a salen del santuario; y su frutoH4325
+- Eze_47:19desde Tamar hasta las a de...rencillasH4325
+- Eze_48:28será el límite...las a de las rencillasH4325
+- Dan_1:12nos den legumbres a comer, y a a beberH4325
+- Dan_11:22serán barridas...como con inundación de aH7858
+- Dan_12:6y dijo uno al...que estaba sobre las aH4325
+- Dan_12:7oí al...que estaba sobre las a del ríoH4325
+- Ose_2:5mis amantes, que me dan mi pan y mi aH4325
+- Ose_5:10derramaré sobre ellos como a mi iraH4325
+- Ose_10:7como espuma sobre la superficie de las aH4325
+- Joe_1:20porque se secaron los arroyos de las aH4325
+- Joe_3:18por todos los arroyos de Judá correrán aH4325
+- Amó_4:8dos o tres...a una ciudad para beber aH4325
+- Amó_5:8que llama a las a del mar, y las derramaH4325
+- Amó_5:24pero corra el juicio como las a, y laH4325
+- Amó_8:11ni sed de a, sino de oír la palabra deH4325
+- Amó_9:6él llama las a del mar, y sobre la faz deH4325
+- Jon_2:5las a me rodearon...rodeóme el abismoH4325
+- Jon_3:7rey...no se les dé alimento, ni beban aH4325
+- Miq_1:4como las a que corren por un precipicioH4325
+- Nah_2:8Nínive de...antiguo como estanque de aH4325
+- Nah_3:8rodeada de a...era el mar, y a por muro?[[H4325]]
+- Nah_3:14provéete de a para el asedio, refuerzaH4325
+- Hab_2:14llena del...como las a cubren el marH4325
+- Hab_3:10pasó la inundación de las a; el abismoH4325
+- Hab_3:15caminaste en la mole de las grandes aH4325
+- Zac_9:11presos de la cisterna en que no hay aH4325
+- Zac_14:8saldrán de Jerusalén a vivas, la mitadH4325
+- Mat_3:11yo a la verdad os bautizo en a paraG5204
+- Mat_3:16Jesús...subió luego del a, y he aquí losG5204
+- Mat_8:32se precipitó en...y perecieron en las aG5204
+- Mat_10:42que dé a uno de estos...un vaso de a
+- Mat_14:28tú, manda que yo vaya a ti sobre las aG5204
+- Mat_14:29andaba sobre las a para ir a JesúsG5204
+- Mat_17:15muchas veces cae en el fuego...en el aG5204
+- Mat_27:24tomó a y se lavó las manos delante delG5204
+- Mar_1:8yo a la verdad os he bautizado con aG5204
+- Mar_1:10y cuando subía del a, vio abrirse losG5204
+- Mar_9:22muchas veces le echa en el...y en el aG5204
+- Mar_9:41que os diere un vaso de a en mi nombreG5204
+- Mar_14:13un hombre que lleva un cántaro de aG5204
+- Luc_3:16yo a la verdad os bautizo en a; peroG5204
+- Luc_7:44no me diste a para mis pies; mas éstaG5204
+- Luc_8:25que aun...a las a manda, y le obedecen?[[G5204]]
+- Luc_12:54luego decís: A viene; y así sucedeG3655
+- Luc_16:24para que moje la punta de su dedo en aG5204
+- Luc_22:10un hombre que lleva un cántaro de aG5204
+- Jua_1:26Juan les respondió...Yo bautizo con aG5204
+- Jua_1:31yo...por esto vine yo bautizando con aG5204
+- Jua_1:33me envió a bautizar con a, aquél me dijoG5204
+- Jua_2:6estaban allí 6 tinajas de piedra para aG5201
+- Jua_2:7Jesús...dijo: Llenad estas tinajas de aG5201
+- Jua_2:9el maestresala probó el a hecha vino, sinG5204
+- Jua_2:9lo sabían los...que habían sacado el aG5204
+- Jua_3:5que el que no naciere de a y del EspírituG5204
+- Jua_3:23en Enón...porque había allí muchas aG5204
+- Jua_4:7vino una mujer de Samaria a sacar a; yG5204
+- Jua_4:10tú le pedirías, y él te daría a vivaG5204
+- Jua_4:11¿de dónde, pues, tienes el a viva?[[G5204]]
+- Jua_4:13dijo: Cualquiera que bebiere de esta aG5204
+- Jua_4:14mas el que bebiere del a que yo le daréG5204
+- Jua_4:14el a...en él una fuente de a que salteG5204
+- Jua_4:15dame de esa a, para que no tenga yo sedG5204
+- Jua_4:46donde había convertido el a en vinoG5204
+- Jua_5:3multitud...esperaban el movimiento del aG5204
+- Jua_5:4porque un ángel descendía...y agitaba el aG5204
+- Jua_5:4después del movimiento...a, quedaba sanoG5204
+- Jua_5:7quien me meta en el...cuando se agita el aG5204
+- Jua_7:38de su interior correrán ríos de a vivaG5204
+- Jua_13:5luego puso a en un lebrillo, y comenzó aG5204
+- Jua_19:34lanza, y al instante salió sangre y aG5204
+- Hec_1:5porque Juan ciertamente bautizó con aG5204
+- Hec_8:36llegaron a cierta a...Aquí hay a; ¿quéG5204
+- Hec_8:38y descendieron ambos al a, Felipe y elG5204
+- Hec_8:39cuando subieron del a, el Espíritu delG5204
+- Hec_10:47alguno impedir el a, para que no seanG5204
+- Hec_11:16dijo: Juan ciertamente bautizó en aG5204
+- Hec_27:41dando en un lugar de dos a, hicieronG1337
+- Efe_5:26purificado en el lavamiento del a porG5204
+- 1Ti_5:23no bebas a, sino usa de un poco deG5202
+- Heb_9:19tomó la sangre...con a, lana escarlataG5204
+- Heb_10:22corazones...y lavados los cuerpos con aG5204
+- Stg_3:12ninguna fuente...dar a salada y dulceG5204
+- 1Pe_3:20es decir, ocho, fueron salvadas por aG5204
+- 2Pe_2:17son fuentes sin a, y nubes empujadasG504
+- 2Pe_3:5que proviene del a y por el a subsisteG5204
+- 2Pe_3:6el mundo de entonces pereció anegado en aG5204
+- 1Jn_5:6vino mediante a y sangre; no medianteG5204
+- 1Jn_5:6no mediante a...sino mediante a y sangreG5204
+- 1Jn_5:8el Espíritu, el a y la sangre; y estos 3G5204
+- Jud_1:12nubes sin a, llevadas de acá para alláG504
+- Rev_1:15y su voz como estruendo de muchas aG5204
+- Rev_7:17los guiará a fuentes de a de vida; y DiosG5204
+- Rev_8:10cayó sobre...sobre las fuentes de las aG5204
+- Rev_8:11parte de las a se convirtió en ajenjoG5204
+- Rev_8:11y muchos...murieron a causa de esas aG5204
+- Rev_11:6poder sobre las a para convertirlas enG5204
+- Rev_12:15serpiente arrojó de su...a como un ríoG5204
+- Rev_14:2oí una voz...como estruendo de muchas aG5204
+- Rev_14:7adorad a aquel que hizo...fuentes de...aG5204
+- Rev_16:4derramó su copa sobre...fuentes de las aG5204
+- Rev_16:5oí al ángel de las a, que decía: JustoG5204
+- Rev_16:12río Eufrates, y el a de éste se secóG5204
+- Rev_17:1contra la...que está sentada sobre muchas aG5204
+- Rev_17:15las a que has visto donde la ramera seG5204
+- Rev_19:6como el estruendo de muchas a, y como laG5204
+- Rev_21:6le daré...de la fuente del a de la vidaG5204
+- Rev_22:1me mostró un río limpio de a de vidaG5204
+- Rev_22:17tome del a de la vida gratuitamenteG5204

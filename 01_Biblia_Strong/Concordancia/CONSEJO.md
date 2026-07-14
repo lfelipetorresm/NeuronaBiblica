@@ -1,0 +1,154 @@
+---
+tipo: concordancia
+palabra: CONSEJO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONSEJO
+
+- Gén_49:6su c no entre mi alma, ni mi espírituH5475
+- Núm_16:2se levantaron...de los del c, varonesH4150
+- Núm_26:9estos Datán y Abiram fueron los del cH7148, [[H7121]]
+- Núm_31:16por c de Balaam ellas fueron causa deH1697
+- Deu_32:28porque son nación privada de c, y noH6098
+- Jue_19:30considerad esto, tomad c, y habladH5779
+- Jue_20:7vosotros...dad aquí vuestro parecer y cH6098
+- 2Sa_15:31entorpece...Jehová, el c de AhitofelH6098
+- 2Sa_15:34entonces...harás nulo el c de AhitofelH6098
+- 2Sa_16:20dad vuestro c sobre lo que debemos hacerH6098
+- 2Sa_16:23el c que daba Ahitofel...era como si seH6098
+- 2Sa_16:23así era todo c de Ahitofel, tanto conH6098
+- 2Sa_17:4c pareció bien a Absalón y a todos losH6098
+- 2Sa_17:6ha dicho...¿seguiremos su c, o no? Di túH1697
+- 2Sa_17:7el c que ha dado...Ahitofel no es buenoH6098
+- 2Sa_17:14c de Husai arquita es mejor que el cH6098
+- 2Sa_17:14el acertado c de Ahitofel se frustraraH6098
+- 2Sa_17:21Ahitofel ha dado tal c contra vosotrosH3289
+- 2Sa_17:23viendo que no se había seguido su cH6098
+- 1Re_1:12toma mi c, para que conserves tu vidaH6098
+- 1Re_12:6el rey Roboam pidió c de los ancianosH3289
+- 1Re_12:8dejó el c...y pidió c de los jóvenes queH6098
+- 1Re_12:13el c que los ancianos le habían dadoH6098
+- 1Re_12:14les habló conforme al c de los jóvenesH6098
+- 1Re_12:28tenido c, hizo el rey dos becerros deH3289
+- 2Re_18:20c tengo y fuerzas para la guerraH6098
+- 1Cr_12:19filisteos, habido c, lo despidieronH6098
+- 1Cr_13:1tomó c con los capitanes de millaresH3289
+- 2Cr_10:6Roboam tomó c con los ancianos queH3289
+- 2Cr_10:8dejando el c de...tomó c con los jóvenesH6098
+- 2Cr_10:13dejó el...Roboam el c de los ancianosH6098
+- 2Cr_10:14les habló conforme al c de los jóvenesH6098
+- 2Cr_20:21habido c...puso a algunos que cantasenH3289
+- 2Cr_22:5él anduvo en los c de ellos, y fue a laH6098
+- 2Cr_25:16has hecho esto, y no obedeciste mi cH3289
+- 2Cr_25:17Amasías...después de tomar c, envió aH3289
+- 2Cr_30:2el rey había tomado c con sus príncipesH3289
+- 2Cr_32:3c con sus príncipes y con sus hombresH3289
+- Esd_10:3según el c de mi señor y de los queH6098
+- Neh_4:15Dios había desbaratado el c de ellosH6098
+- Job_12:13con Dios...es el c y la inteligenciaH6098
+- Job_12:17andar despojados de c a los consejerosH3289
+- Job_12:20priva del...y quita a los ancianos el cH2940
+- Job_18:7acortados, y su mismo c lo precipitaráH6098
+- Job_21:16el c de los impíos lejos esté de míH6098
+- Job_22:18pero sea el c de ellos lejos de míH6098
+- Job_29:21oían, y esperaban, y callaban a mi cH6098
+- Job_33:16revela al oído de...y les señala su cH4561
+- Job_38:2¿quién es ése que oscurece el c conH6098
+- Job_42:3el que oscurece el c sin entendimientoH6098
+- Sal_1:1el varón que no anduvo en c de malosH6098
+- Sal_5:10oh Dios; caigan por sus mismos c; porH4156
+- Sal_13:2¿hasta cuándo pondré c en mi alma, conH6098
+- Sal_14:6del c del pobre c han burlado, peroH6098
+- Sal_20:4te dé conforme al...y cumpla todo tu cH6098
+- Sal_33:10Jehová hace nulo el c de las nacionesH6098
+- Sal_33:11el c de Jehová permanecerá para siempreH6098
+- Sal_64:2escóndeme del c...de los malignos, deH5475
+- Sal_73:24me has guiado según tu c, y después meH6098
+- Sal_81:12los dejé...caminaron en su propios cH4156
+- Sal_83:3han entrado en c contra tus protegidosH3289
+- Sal_106:13pronto olvidaron...no esperaron su cH6098
+- Sal_106:43mas ellos se rebelaron contra su cH6098
+- Sal_107:11y aborrecieron el c del AltísimoH6098
+- Pro_1:3recibir el c de prudencia, justiciaH4148
+- Pro_1:5oirá el sabio...el entendido adquirirá cH8458
+- Pro_1:25sino que desechasteis todo c mío y miH6098
+- Pro_1:30ni quisieron mi c, y menospreciaron todaH6098
+- Pro_1:31y serán hastiado de sus propios cH4156
+- Pro_3:21no se aparten: guarda la ley y el cH4209
+- Pro_4:13retén el c, no lo dejes...es tu vidaH4148
+- Pro_5:2que guardes c, y tus labios conserven laH4209
+- Pro_5:12y digas: ¡Cómo aborrecí el c, y miH4148
+- Pro_8:12la cordura, y hallo la ciencia de los cH4209
+- Pro_8:14conmigo está el c y el buen juicioH6098
+- Pro_8:33atended el c, y sed sabios, y no loH4148
+- Pro_12:5los justos...los c de los impíos, engañoH8458
+- Pro_12:15mas el que obedece al c es sabioH6098
+- Pro_13:1el hijo sabio recibe el c del padreH4148
+- Pro_13:18vergüenza tendrá el...menosprecia el cH4148
+- Pro_15:5el necio menosprecia el c de su padreH4148
+- Pro_15:22son frustrados donde no hay c; mas enH5475
+- Pro_19:20escucha el c, y recibe la correcciónH6098
+- Pro_19:21hombre; mas el c de Jehová permaneceráH6098
+- Pro_20:5aguas profundas es el c en el corazónH6098
+- Pro_20:18los pensamientos con el c se ordenanH6098
+- Pro_21:30no hay sabiduría...ni c, contra JehováH6098
+- Pro_22:20¿no te he escrito tres veces en c y enH4156
+- Pro_24:32lo puse en mi corazón; lo vi, y tomé cH4148
+- Pro_27:9y el cordial c del amigo, al hombreH6098
+- Ecl_4:13el rey viejo y necio que no admite cH2094
+- Isa_5:19venga el c del Santo de Israel, paraH6098
+- Isa_7:5acordado maligno c contra ti el sirioH3289
+- Isa_8:10c, y será anulado proferid palabra, yH6098
+- Isa_11:2espíritu de c y de poder, espíritu deH1847
+- Isa_14:26este c el c que está acordado sobreH6098
+- Isa_16:3reúne c, haz juicio; pon tu sombra enH6098
+- Isa_19:3Egipto se desvanecerá...destruiré su cH6098
+- Isa_19:11el c de los prudentes consejeros deH6098
+- Isa_19:17te será por causa del c que Jehová deH6098
+- Isa_25:1su c antiguos son verdad y firmezaH6098
+- Isa_28:29hacer maravilloso el c y engrandecerH6098
+- Isa_29:15encubriendo el c, y sus obras esténH6098
+- Isa_30:1c apartan...para tomar c y no de míH6098
+- Isa_36:5digo que el c y poderío para la guerraH6098
+- Isa_40:14¿a quién pidió c para ser avisado?[[H3289]]
+- Isa_44:26y cumple el c de sus mensajeros queH6098
+- Isa_46:10mi c permanecerá, y haré todo lo queH6098
+- Isa_46:11y de tierra lejana al varón de mí cH6098
+- Isa_47:13te has fatigado en tus muchos cH6098
+- Jer_7:24caminaron en sus propios c, en laH4156
+- Jer_18:18la ley no faltará al...ni el c al sabioH6098
+- Jer_18:23oh Jehová, conoces todo su c contra míH6098
+- Jer_19:7desvaneceré el c de Judá y...JerusalénH6098
+- Jer_32:19grande en c, y magnifico en hechosH6098
+- Jer_38:15dijo...si te diere c, no me escucharásH3289
+- Jer_49:7¿se ha acabado el c en los sabios? ¿SeH6098
+- Jer_49:20el c que Jehová ha acordado sobre EdomH6098
+- Jer_49:30tomó c contra vosotros NabucodonosorH6098
+- Eze_7:26ley c alejará de...de los ancianos el cH6098
+- Eze_11:2hombres que...dan en esta ciudad mal cH6098
+- Dan_3:24dijo a los de u c: ¿No echaron a tresH1907
+- Dan_4:27oh rey, acepta mi c: tus pecados redimeH4431
+- Dan_6:7acordado por c que promulgues un edictoH1907
+- Ose_10:6aun...Israel se avergonzará de su cH6098
+- Ose_11:6las consumirá a causa de sus propios cH4156
+- Miq_4:12no conocieron...ni entendieron su cH6098
+- Miq_6:16y en los c de ellos anduvisteis, paraH4156
+- Hab_2:10tomaste c vergonzoso para tu casaH3289
+- Zac_6:13lado; y c de paz habrá entre ambosH6098
+- Mat_12:14tuvieron c contra Jesús...destruirleG4824
+- Mat_26:4c para prender con engaño a Jesús, yG4823
+- Mat_27:1ancianos...entraron en c contra JesúsG4824
+- Mat_28:12habido c, dieron mucho dinero a losG4824
+- Mar_3:6tomaron c...contra él para destruirleG4824
+- Mar_15:1tenido c los principales sacerdotesG4824
+- Jua_18:14era Caifás el que había dado el c aG4823
+- Hec_2:23c y anticipado conocimiento de DiosG1012
+- Hec_4:28tu mano y tu c habían antes determinadoG1012
+- Hec_5:38si este c o esta obra es de los hombresG1012
+- Hec_9:23los judíos resolvieron en c matarleG4823
+- Hec_20:27no he rehuido anunciaros todo el c de DiosG1012
+- Hec_25:12habiendo hablado con el c, respondióG4824
+- 2Co_8:10y en esto doy mi c; porque esto osG1106
+- Heb_6:17mostrar más...la inmutabilidad de su cG1012

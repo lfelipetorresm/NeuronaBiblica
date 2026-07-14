@@ -1,0 +1,75 @@
+---
+tipo: concordancia
+palabra: MINISTERIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# MINISTERIO
+
+- Éxo_39:1las vestiduras del m para ministrarH8278
+- Núm_3:7para servir en el m del tabernáculoH5656
+- Núm_4:27será todo el m de los hijos de GersónH5656
+- Núm_4:33todo su m en el tabernáculo de reuniónH5656
+- Núm_7:5los darás...a cada uno conforme a su mH5656
+- Núm_7:7dio a a los...de Gersón, conforme a su mH5656
+- Núm_7:8a los hijos de Merari...conforme a su mH5656
+- Núm_8:11levitas...y servirán en el m de JehováH5656
+- Núm_8:19ejerzan el m de los hijos de Israel enH5656
+- Núm_8:22vinieron...los levitas para ejercer su mH5656
+- Núm_8:24entrarán a ejercer su m en el servicioH5656
+- Núm_8:25desde...50 años cesarán de ejercer su mH5656
+- Núm_8:26pero no servirán en el m. Así harás conH5656
+- Núm_8:26harás con los levitas en cuanto a su mH5656
+- Núm_18:6que sirvan en el m del tabernáculo deH5656
+- Núm_18:21por su m, por cuanto ellos sirven enH5656
+- Núm_18:21ellos sirven en el m del tabernáculoH5656
+- Núm_18:31es vuestra remuneración por vuestro mH5656
+- 1Sa_2:36me agregues a alguno de los m, paraH3550
+- 1Cr_6:32después estuvieron en su m según suH8334
+- 1Cr_6:48levitas fueron puestos sobre todo el mH5656
+- 1Cr_9:13eficaces en la obra del m en la casa deH5656
+- 1Cr_9:19a su cargo la obra del m, guardando lasH5656
+- 1Cr_9:28a su cargo los utensilios para el m, losH5656
+- 1Cr_23:24cuales trabajaban en el m de la casaH5656
+- 1Cr_23:26que llevar...los utensilios para su mH5656
+- 1Cr_23:28la demás obra del m de la casa de DiosH5656
+- 1Cr_23:32guarda del...el m de la casa de JehováH5656
+- 1Cr_24:3los repartió por sus turnos en el mH5656
+- 1Cr_24:19fueron distribuidos para su m, para queH5656
+- 1Cr_25:1apartaron para el m a los hijos de AsafH5656
+- 1Cr_25:1hombres idóneos para la obra de su m, fueH5656
+- 1Cr_25:6la música...para el m del templo de DiosH5656
+- 1Cr_28:13para toda la obra del m de la casa deH5656
+- 1Cr_28:13utensilios del m de la casa de JehováH5656
+- 1Cr_28:21levitas, para todo el m de la casa deH5656
+- 2Cr_7:6y los sacerdotes desempeñaban su mH4931
+- 2Cr_11:14Jeroboam y sus...los excluyeron del mH3547
+- 2Cr_31:16para desempeñar su m según sus oficiosH5656
+- 2Cr_35:2y los confirmó en el m de la casa deH5656
+- 2Cr_35:15no era necesario...se apartasen de su mH5656
+- Esd_8:20David...puso, para el m de los levitasH5656
+- Neh_12:9Bacbuquías y Uni...cada cual en su mH4931
+- Luc_1:23cumplidos los días de su m, se fue aG3009
+- Luc_3:23Jesús mismo al comenzar su m era como de
+- Hec_1:17era contado...y tenía parte en este mG1248
+- Hec_1:25que tome la parte de este m y apostoladoG1248
+- Hec_6:4en la oración y en el m de la palabraG1248
+- Hec_20:24que acabe...el m que recibí del SeñorG1248
+- Hec_21:19cosas que Dios había hecho...por su mG1248
+- Rom_11:13cuanto yo soy apóstol a...honro mi mG1248
+- 1Co_12:5hay diversidad de ni, pero el SeñorG1248
+- 2Co_3:7si el m de muerte grabado con letrasG1248
+- 2Co_3:8más bien con gloria el m del espíritu?[[G1248]]
+- 2Co_3:9si el m de condenación fue con gloriaG1248
+- 2Co_3:9abundará en gloria el m de justificaciónG1248
+- 2Co_4:1por lo cual, teniendo nosotros este mG1248
+- 2Co_5:18Dios...nos dio el m de la reconciliaciónG1248
+- 2Co_6:3no...para que nuestro m no sea vituperadoG1248
+- Efe_4:12perfeccionar a...para la obra del mG1248
+- Col_4:17mira que cumplas el m que recibisteG1248
+- 1Ti_1:12tuvo por fiel, poniéndome en el mG1248
+- 2Ti_4:5tú sé sobrio en todo...cumple tu mG1248
+- 2Ti_4:11toma a Marcos y tráele...útil para elG1248
+- Heb_8:6ahora tanto mejor m es el suyo, cuantoG3009
+- Heb_9:21roció también...y todos los vasos del mG3009

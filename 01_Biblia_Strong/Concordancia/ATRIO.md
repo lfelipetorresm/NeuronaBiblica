@@ -1,0 +1,114 @@
+---
+tipo: concordancia
+palabra: ATRIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ATRIO
+
+- Éxo_27:9asimismo harás el a del tabernáculoH2691
+- Éxo_27:9tendrá el a cortinas de lino torcidoH2691
+- Éxo_27:12el ancho del a, del lado occidentalH2691
+- Éxo_27:13ancho del a por el lado del orienteH2691
+- Éxo_27:16para la puerta del a habrá una cortinaH2691
+- Éxo_27:17las columnas alrededor del a estaránH2691
+- Éxo_27:18la longitud del a será de cien codosH2691
+- Éxo_27:19y todas las estacas del a...de bronceH2691
+- Éxo_35:17las cortinas del a...la puerta del aH2691
+- Éxo_35:18estacas del tabernáculo, y las...del aH2691
+- Éxo_38:9hizo asimismo el a...las cortinas del aH2691
+- Éxo_38:15de uno y otro lado de la puerta del aH2691
+- Éxo_38:16cortinas del a...eran de lino torcidoH2691
+- Éxo_38:17las columnas del a tenían molduras deH2691
+- Éxo_38:18la cortina de la entrada del a era deH2691
+- Éxo_38:18codos, lo mismo que las cortinas del aH2691
+- Éxo_38:20las estacas del tabernáculo y del aH2691
+- Éxo_38:31las basas del a...de la puerta del aH2691
+- Éxo_38:31y todas las estacas del a alrededorH2691
+- Éxo_39:40las cortinas del a...la entrada del aH2691
+- Éxo_40:8finalmente pondrás el a alrededor, y laH2691
+- Éxo_40:8pondrás...La cortina a la entrada del aH2691
+- Éxo_40:33erigió el a...cortina a la entrada del aH2691
+- Lev_6:16en el a del tabernáculo de...lo comeránH2691
+- Lev_6:26será comida, en el a del tabernáculo deH2691
+- Núm_3:26las cortinas del a...de la puerta del aH2691
+- Núm_3:37las columnas alrededor del a, sus basasH2691
+- Núm_4:26las cortinas del a...de la puerta del aH2691
+- Núm_4:32columnas del a...y sus basas, sus estacasH2691
+- 1Re_6:36edificó el a...tres hileras de piedrasH2691
+- 1Re_7:8casa en que él moraba, en otro a dentroH2691
+- 1Re_7:9y asimismo por fuera hasta el gran aH2691
+- 1Re_7:12en el gran a...tres hileras de piedrasH2691
+- 1Re_7:12también el a interior...el a de la casaH2691
+- 1Re_8:64santificó el rey el medio del a, el cualH2691
+- 2Re_21:5; 2Re_23:12altares...los dos a de la casaH2691
+- 1Cr_23:28ministrar en...los a, en las cámarasH2691
+- 1Cr_28:6Salomón...él edificará mi casa y mis aH2691
+- 1Cr_28:12el plano...los a de la casa de JehováH2691
+- 2Cr_4:9también hizo el a de los sacerdotes, yH2691
+- 2Cr_4:9el gran a, y las portadas del a, y cubrióH2691
+- 2Cr_6:13un estrado de bronce...en medio del aH5835
+- 2Cr_7:7Salomón consagró la parte central del aH2691
+- 2Cr_20:5Josafat se puso...delante del a nuevoH2691
+- 2Cr_29:16sacaron toda la inmundicia...al a de laH2691
+- 2Cr_31:2alabasen dentro de las puertas de los a
+- 2Cr_33:5altares...los dos a de la casa de JehováH2691
+- Neh_13:7cámara en los a de la casa de DiosH2691
+- Sal_65:4atrajeras a ti...que habite en tus aH2691
+- Sal_84:2anhela mi alma...desea los a de JehováH2691
+- Sal_84:10mejor es un día en tus a que mil fueraH2691
+- Sal_92:13en los a de nuestro Dios floreceránH2691
+- Sal_96:8dad a...traed ofrendas, y venid a sus aH2691
+- Sal_100:4entrad por sus...por sus a con alabanzaH2691
+- Sal_116:19los a de las casa de Jehová, en medioH2691
+- Sal_135:2en los a de la casa de nuestro DiosH2691
+- Isa_1:12cuando venís a...mí para hollar mis a?[[H2691]]
+- Isa_62:9lo beberán en los a de mi santuarioH2691
+- Jer_19:14se paró en el a de la casa de JehováH2691
+- Jer_26:2ponte en el a de la casa de Jehová, yH2691
+- Jer_36:10en el a de arriba, a la entrada de laH2691
+- Jer_36:20entraron a donde estaba el rey, al aH2691
+- Jer_52:24tomó...a Sofonías...tres guardas del a
+- Eze_8:7y me llevó a la entrada del a, y miréH2691
+- Eze_8:16me llevó al a de adentro de la casa deH2691
+- Eze_9:7contaminad la casa, y llenad los a deH2691
+- Eze_10:3entró; y la nube llenaba el a de adentroH2691
+- Eze_10:4el a se llenó del resplandor de la gloriaH2691
+- Eze_10:5se oía hasta el a de afuera, como la vozH2691
+- Eze_40:14cada poste del a y del portal todo enH2691
+- Eze_40:17me llevó luego al a exterior, y he aquíH2691
+- Eze_40:17treinta cámaras...alrededor en aquel aH2691
+- Eze_40:19el frente del a interior por fuera, deH2691
+- Eze_40:20de la puerta...en el a exterior, midióH2691
+- Eze_40:23la puerta del a interior estaba enfrenteH2691
+- Eze_40:27también puerta...el sur del a interiorH2691
+- Eze_40:28me llevó después en el a de adentro a laH2691
+- Eze_40:31, Eze_40:34, Eze_40:37y sus arcos caían afuera al aH2691
+- Eze_40:32me llevó al a interior hacia el orienteH2691
+- Eze_40:44en el a de adentro que estaba al ladoH2691
+- Eze_40:47y midió el a, cien codos de longitudH2691
+- Eze_41:15templo de dentro, y los portales del aH2691
+- Eze_41:25como los que había en...la fachada del aH197
+- Eze_42:1me trajo luego al a exterior hacia elH2691
+- Eze_42:3veinte codos que había en el a interiorH2691
+- Eze_42:3del enlosado que había en el a exteriorH2691
+- Eze_42:6y no tenían columnas como las...de los aH2691
+- Eze_42:7el muro...hacia el a exterior delante deH2691
+- Eze_42:8longitud de las cámaras del a de afueraH2691
+- Eze_42:9para entrar en él desde el a exteriorH2691
+- Eze_42:10a lo largo del muro del a, hacia elH2691
+- Eze_42:14no saldrán del lugar santo al a exteriorH2691
+- Eze_43:5y me alzó el Espíritu y me llevó al aH2691
+- Eze_44:17entren por las puertas del a interiorH2691
+- Eze_44:17cuando ministren en las puertas del aH2691
+- Eze_44:19salgan al a exterior, al a de afueraH2691
+- Eze_44:21cuando haya de entrar en el a interiorH2691
+- Eze_44:27el día que entre...al a interior, paraH2691
+- Eze_45:19sobre los postes de las puertas del aH2691
+- Eze_46:1puerta del a interior que mira al orienteH2691
+- Eze_46:20allí cocerán la...para no sacarla al aH2691
+- Eze_46:21me sacó al a...los cuatro rincones del aH2691
+- Eze_46:22los cuatro rincones del a había patiosH2691
+- Zac_3:7guardarás mis a, y entre éstos queH2691
+- Mar_15:16los soldados le llevaron dentro del aG833

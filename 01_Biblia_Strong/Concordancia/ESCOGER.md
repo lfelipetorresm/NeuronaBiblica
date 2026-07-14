@@ -1,0 +1,197 @@
+---
+tipo: concordancia
+palabra: ESCOGER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESCOGER
+
+- Gén_6:2tomaron para sí mujeres, escogiendoH977
+- Gén_13:11Lot escogió para sí toda la llanura delH977
+- Éxo_17:9Moisés a Josué: Escógenos varones, yH977
+- Éxo_18:21escoge...de entre todo el pueblo varonesH2372
+- Éxo_18:25escogió Moisés varones de virtud deH977
+- Núm_16:5al que él escogiere, él lo acercará aH977
+- Núm_16:7a quien Jehová escogiere...será el santoH977
+- Núm_17:5y florecerá la vara del...que yo escojaH977
+- Deu_4:37escogió a su descendencia después deH977
+- Deu_7:6Jehová...Dios te ha escogido para serleH977
+- Deu_7:7no por ser vosotros más...os ha escogidoH977
+- Deu_10:15y escogió su descendencia después deH977
+- Deu_12:5, Deu_12:11, Deu_12:21el lugar que Jehová tu...escogiereH977
+- Deu_12:14sino...en el lugar que Jehová escogiereH977
+- Deu_12:18, Deu_12:26lugar que Jehová...hubiere escogidoH977
+- Deu_14:2ha escogido para que le seas un puebloH977
+- Deu_14:23comerás...en el lugar que él escogiereH977
+- Deu_14:24lugar que...Dios hubiere escogido paraH977
+- Deu_14:25vendrás al lugar que...Dios escogiereH977
+- Deu_15:20comerás...el lugar que Jehová escogiereH977
+- Deu_16:2, Deu_16:6, Deu_16:15el lugar que Jehová escogiereH977
+- Deu_16:7, Deu_16:11el lugar que...Dios hubiese escogidoH977
+- Deu_16:16tu Dios en el lugar que él escogiereH977
+- Deu_17:8recurrirás al lugar que...Dios escogiereH977
+- Deu_17:10los del lugar que Jehová escogiere, yH977
+- Deu_17:15rey sobre ti al que Jehová...escogiereH977
+- Deu_18:5ha escogido Jehová de entre todas tusH977
+- Deu_18:6viniere...al lugar que Jehová escogiereH977
+- Deu_21:5a ellos escogió...para que le sirvan, yH977
+- Deu_23:16el lugar que escogiere en alguna de tusH977
+- Deu_26:2al lugar que...Dios escogiere para hacerH977
+- Deu_30:19escoge, pues, la vida, para que vivasH977
+- Deu_31:11delante...en el lugar que él escogiereH977
+- Deu_33:21escoge lo mejor de la tierra para síH7200
+- Jos_8:3escogió Josué 30.000 hombres fuertesH977
+- Jos_24:15si mal os parece servir...escogeos hoyH977
+- Jue_5:8cuando escogían nuevos dioses, laH977
+- Jue_8:33Israel...escogieron por dios a Baal-beritH7760
+- Jue_20:15fueron por cuenta 700 hombres escogidosH970
+- Jue_20:16había 700 hombres escogidos...zurdosH970
+- Jue_20:34vinieron...10.000 hombres escogidos, deH970
+- 1Sa_2:28yo le escogí por mi sacerdote entreH977
+- 1Sa_13:2escogió...a tres mil hombres de IsraelH977
+- 1Sa_16:8dijo: Tampoco a éste ha escogido JehováH977
+- 1Sa_17:8escoged, un hombre que venga contra míH1262
+- 1Sa_17:40escogió cinco piedras lisas del arroyoH977
+- 1Sa_24:2tomando Saúl 3.000 hombres escogidos deH970
+- 1Sa_26:2llevando consigo 3.000 hombres escogidosH970
+- 2Sa_6:1volvió a reunir a todos los escogidosH970
+- 2Sa_10:9Joab, entresacó de todos los escogidosH977
+- 2Sa_17:1yo escogeré ahora doce mil hombres, y meH977
+- 2Sa_21:6en Gabaa de Saúl, el escogido de JehováH972
+- 2Sa_24:12escogerás una de ellas, para que yo laH977
+- 1Re_1:35él he escogido para que sea príncipeH6680
+- 1Re_3:8medio de tu pueblo al cual tú escogisteH977
+- 1Re_8:16no he escogido ciudad de todas las tribusH977
+- 1Re_8:16escogí a David para que presidiese en miH977
+- 1Re_12:21180.000 hombres, guerreros escogidosH970
+- 1Re_18:23pues, dos bueyes, y escojan ellos unoH977
+- 1Re_18:25dijo...Escogeos un buey, y preparadloH977
+- 2Re_10:3escoged al...más recto de los hijosH7200
+- 2Re_21:7Jerusalén, a la cual escogí de...IsraelH977
+- 2Re_23:27desecharé...ciudad que había escogidoH977
+- 1Cr_9:22escogidos para guardas en...eran 200H1305
+- 1Cr_16:13siervo, hijos de Jacob, sus escogidosH972
+- 1Cr_16:41a Hamán, a Jedutún, y...otros escogidosH1305
+- 1Cr_19:10escogió de los más aventajados que habíaH977
+- 1Cr_21:10escoge de ellas una que yo haga contigoH977
+- 1Cr_21:12escoge para ti: o tres años de hambreH6901
+- 1Cr_28:4Judá escogió por caudillo, y de la casaH977
+- 1Cr_28:6éste he escogido por hijo, y yo le seréH977
+- 2Cr_6:5ni he escogido...que fuese príncipeH977
+- 2Cr_11:1reunió...a 180.000 hombres escogidos deH970
+- 2Cr_12:13en Jerusalén, ciudad que escogió JehováH977
+- 2Cr_13:3un ejército de 400.000 hombres escogidosH970
+- 2Cr_13:3Jeroboam...con 800.000 hombres escogidosH970
+- 2Cr_13:17cayeron...de Israel 500.000...escogidosH970
+- 2Cr_25:5fueron hallados 300.000 escogidos paraH977
+- 2Cr_29:11Jehová os ha escogido a vosotros paraH970
+- Neh_1:9y os traeré al lugar que escogí paraH970
+- Neh_5:18día era un buey y seis ovejas escogidasH1305
+- Neh_9:7tú eres...el Dios que escogiste a AbramH977
+- Job_9:14hablaré con él palabras escogidas?[[H977]]
+- Job_15:5has escogido el hablar de los astutosH977
+- Job_34:4escojamos para nosotros el juicio...buenoH977
+- Job_36:21pues ésta escogiste más bien que laH970
+- Sal_4:3Jehová ha escogido al piadoso para síH6395
+- Sal_25:12le enseñará el camino que ha de escogerH977
+- Sal_33:12el pueblo que él escogió como heredadH970
+- Sal_65:4bienaventurado el que tú escogieres yH977
+- Sal_78:31y derribó a los escogidos de IsraelH970
+- Sal_78:67José, y no escogió la tribu de EfraínH977
+- Sal_78:68escogió la tribu de Judá, el monte deH977
+- Sal_84:10escogería antes estar a la puerta deH977
+- Sal_89:3hice pacto con mi escogido; juré a DavidH972
+- Sal_89:19he exaltado a un escogido de mi puebloH970
+- Sal_105:6vosotros...hijos de Jacob, sus escogidosH972
+- Sal_105:26envió a...y a Aarón, al cual escogióH977
+- Sal_105:43sacó a su...con júbilo a sus escogidosH972
+- Sal_106:5para que yo vea el bien de tus escogidosH972
+- Sal_106:23haberse interpuesto Moisés su escogidoH972
+- Sal_119:30escogí el camino de la verdad...juiciosH977
+- Sal_119:173porque tus mandamientos he escogidoH977
+- Sal_135:4porque JAH ha escogido a Jacob para síH977
+- Pro_1:29sabiduría, y no escogieron el temor deH977
+- Pro_3:31no envidies al...ni escojas...sus caminosH977
+- Cnt_6:9única...escogida de la que dio a luzH1249
+- Isa_1:29y os afrentarán los...que escogisteisH977
+- Isa_5:2cercado...y plantado de vides escogidasH8321
+- Isa_7:15miel, hasta que sepa...escoger lo buenoH977
+- Isa_7:16antes que el niño sepa...escoger lo buenoH977
+- Isa_14:1y todavía escogerá a Israel, y lo haráH977
+- Isa_40:20el pobre escoge, para ofrecerle, maderaH977
+- Isa_41:8mío eres; tú, Jacob, a quien yo escogíH977
+- Isa_41:9mi siervo...te escogí, y no te desechéH977
+- Isa_41:24aquí...abominación es el que os escogióH977
+- Isa_42:1mi siervo, mi escogido, en quien mi almaH972
+- Isa_42:19¿quién es ciego como mi escogido...ciegoH7999
+- Isa_43:10y mi siervo que yo escogí, para que meH977
+- Isa_43:20para que beba mi pueblo, mi escogidoH972
+- Isa_44:1Jacob...y tú, Israel, a quien yo escogíH977
+- Isa_44:2no temas...tú, Jesurún, a quien yo escogíH977
+- Isa_45:4por amor...Israel mi escogido, te llaméH972
+- Isa_48:10te he escogido en horno de aflicciónH977
+- Isa_49:7fiel es el Santo de...el cual te escogióH977
+- Isa_56:4guarden mis días de reposo, y escojan loH977
+- Isa_58:5¿es tal el ayuno que yo escogí, que deH977
+- Isa_58:6¿no es más bien el ayuno que yo escogíH977
+- Isa_65:9mis escogidos poseerán por heredad laH972
+- Isa_65:12sino...escogisteis lo que me desagradaH977
+- Isa_65:15nombre por maldición a mis escogidosH972
+- Isa_65:22mis escogidos disfrutarán la obra deH972
+- Isa_66:3porque escogieron sus propios caminosH977
+- Isa_66:4escogeré...escarnios, y traeré sobre ellosH977
+- Isa_66:4ojos, y escogieron lo que me desagradaH977
+- Jer_2:21de vid escogida, simiente verdaderaH8321
+- Jer_8:3y escogerá la muerte antes que la vidaH977
+- Jer_33:24dos familias que Jehová escogiera haH977
+- Jer_49:19y al que fuere escogido la encargaréH970
+- Jer_50:44al que yo escoja la encargaré; porqueH970
+- Eze_20:5el día que escogí a Israel, y que alcéH977
+- Eze_24:4sus piezas...llénala de huesos escogidosH4005
+- Eze_24:5una oveja escogida...enciende los huesosH4005
+- Dan_11:15sostenerse, ni sus tropas escogidasH4005
+- Ose_8:4establecieron reyes, pero no escogidos
+- Hag_2:23porque yo te escogí, dice Jehová deH977
+- Zac_1:17Sion, y escogerá todavía a JerusalénH977
+- Zac_2:12a Judá su...y escogerá aún a JerusalénH977
+- Zac_3:2que ha escogido a Jerusalén te reprendaH977
+- Mat_12:18aquí mi siervo, a quien he escogidoG140
+- Mat_20:16; Mat_22:14son llamados, y pocos escogidosG1588
+- Mat_24:22por causa de los escogidos...acortadosG1588
+- Mat_24:24que engañarán, si...aun a los escogidosG1588
+- Mat_24:31sus ángeles...juntarán a sus escogidosG1588
+- Mar_13:20escogidos que él escogió, acortaráG1586
+- Mar_13:22para engañar, si...aun a los escogidosG1588
+- Mar_13:27sus ángeles, y juntará a sus escogidosG1588
+- Luc_6:13escogió a doce de ellos, a los cualesG1586
+- Luc_10:42y María ha escogido la buena parte, laG1586
+- Luc_14:7como escogían los primeros asientos a laG1586
+- Luc_18:7no hará justicia a sus escogidos, queG1588
+- Luc_23:35si éste es el Cristo, el escogido deG1588
+- Jua_6:70¿no os he escogido yo a vosotros losG1586
+- Hec_1:2a los apóstoles que había escogidoG1586
+- Hec_1:24muestra cuál de estos dos has escogidoG1586
+- Hec_9:15porque instrumento escogido me es ésteG1589
+- Hec_13:17el Dios de...escogió a nuestros padresG1586
+- Hec_15:7escogió que los gentiles oyesen por miG1586
+- Hec_15:40y Pablo, escogiendo a Silas, salióG1951
+- Hec_22:14el Dios de...padres te ha escogido paraG4400
+- Rom_8:33quién acusará a los escogidos de Dios?[[G1588]]
+- Rom_11:5ha quedado un remanente escogido porG1589
+- Rom_11:7pero los escogidos sí lo han alcanzadoG1589
+- Rom_16:13saludad a Rufo, escogido en el SeñorG1588
+- 1Co_1:27que lo necio del mundo escogió DiosG1586
+- 1Co_1:27y lo débil del mundo escogió Dios, paraG1586
+- 1Co_1:28y lo vil del mundo y lo...escogió DiosG1586
+- Efe_1:4nos escogió en él antes de la fundaciónG1586
+- Flp_1:22la obra, no sé entonces qué escogerG138
+- Col_3:12vestíos pues, como escogidos de DiosG1588
+- 2Ts_2:13de que Dios os haya escogido desdeG138
+- 1Ti_5:21delante...de sus ángeles escogidosG1588
+- 2Ti_2:10soporto por amor de los escogidosG1588
+- Tit_1:1conforme a la fe de los escogidos deG1588
+- Heb_11:25escogiendo antes ser maltratado conG138
+- 1Pe_2:4piedra...para Dios escogida y preciosaG1588
+- 1Pe_2:6la principal piedra del ángulo, escogidaG1588
+- 1Pe_2:9sois linaje escogido, real sacerdocioG1588

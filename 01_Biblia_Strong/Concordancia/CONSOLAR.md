@@ -1,0 +1,76 @@
+---
+tipo: concordancia
+palabra: CONSOLAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONSOLAR
+
+- Gén_24:67se consoló...de la muerte de su madreH5162
+- Gén_27:42se consuela acerca de ti con la idea deH5162
+- Gén_37:35para consolarlo...él no quiso recibirH5162
+- Gén_38:12después Judá se consoló, y subía a losH5162
+- Gén_50:21los consoló, y les habló al corazónH5162
+- Rut_2:13porque me has consolado, y...habladoH5162
+- 2Sa_10:2envió...sus siervos para consolarloH5162
+- 2Sa_12:24y consoló David a Betsabé su mujer, yH5162
+- 2Sa_13:39ya estaba consolado acerca de AmnónH5162
+- 1Cr_7:22vinieron sus hermanos a consolarloH5162
+- 1Cr_19:2envió embajadores que lo consolasen deH5162
+- 1Cr_19:2llegaron los...a Hanún, para consolarleH5162
+- Job_2:11venir juntos para...y para consolarleH5165
+- Job_6:14el atribulado es consolado...compañeroH2617
+- Job_7:13cuando digo: Me consolará mi lecho, miH5162
+- Job_10:20déjame, para que me consuele un pocoH1082
+- Job_21:34¿cómo, pues, me consoláis en vanoH5162
+- Job_29:25como el que consuela a los que lloranH5162
+- Job_42:11y le consolaron de todo aquel mal queH5162
+- Sal_71:21grandeza, y volverás a consolarmeH5162
+- Sal_86:17Jehová, me ayudaste y me consolasteH5162
+- Sal_119:52me acordé, oh Jehová...y me consoléH5162
+- Sal_119:76sea...tu misericordia para consolarmeH5162
+- Sal_119:82diciendo: ¿Cuándo me consolarás?[[H5162]]
+- Ecl_4:1los oprimidos, sin...quien los consueleH5162
+- Isa_12:1cantaré...oh Jehová...me has consoladoH5162
+- Isa_22:4lloraré...no os afanéis por consolarme deH5162
+- Isa_40:1consolaos, c, pueblo mío, dice...DiosH5162
+- Isa_49:13Jehová ha consolado a su pueblo, y deH5162
+- Isa_51:3consolará Jehová a Sion; c todas susH5162
+- Isa_51:19se dolerá de ti? ¿Quién te consolará?[[H5162]]
+- Isa_52:9porque Jehová ha consolado a su puebloH5162
+- Isa_61:2año...a consolar a todos los enlutadosH5162
+- Isa_66:13consuela su madre, así os consolaré yoH5162
+- Jer_16:5ni vayas a lamentar, ni los consuelesH5110
+- Jer_16:7ni partirán pan por...para consolarlosH5162
+- Jer_31:13y los consolaré, y los alegraré de suH5162
+- Jer_31:15Raquel que...y no quiso ser consoladaH5162
+- Lam_1:2no tiene quien la consuele de todos susH5162
+- Lam_1:9descendido...no tiene quien la consueleH5162
+- Lam_1:17sus manos; no tiene quien la consueleH5162
+- Lam_2:13¿a quién te compararé para consolarteH5162
+- Eze_14:22seréis consolados del mal que hiceH5162
+- Eze_14:23os consolarán cuando viereis su caminoH5162
+- Eze_31:16consolados en lo profundo de la tierraH5162
+- Eze_32:31se consolará sobre toda su multitudH5162
+- Zac_1:17consolará Jehová a Sion, y escogeráH5162
+- Mat_2:18Raquel que...y no quiso ser consoladaG3870
+- Luc_16:25ahora éste es consolado aquí, y túG3870
+- Jua_11:19judíos habían venido a...consolarlasG3888
+- Jua_11:31los judíos que estaban...la consolabanG3888
+- Hec_15:32Judas y...consolaron...a los hermanosG3870
+- Hec_16:40hermanos, los consolaron, y se fueronG3870
+- Hec_20:12vivo, y fueron grandemente consoladosG3870
+- 2Co_1:4el cual nos consuela...tribulacionesG3870
+- 2Co_1:4podamos...consolar a los que están enG3870
+- 2Co_1:4que nosotros somos consolados por DiosG3874
+- 2Co_1:6si...consolados...para vuestra consolaciónG3870
+- 2Co_2:7debéis perdonarle y consolarle, para queG3870
+- 2Co_7:6pero Dios, que consuela a...nos consolóG3870
+- 2Co_7:7que él había sido consolado en cuanto aG3870
+- 2Co_7:13esto hemos sido consolados en vuestraG3874
+- 2Co_13:11consolaos, sed de un mismo sentir, yG3870
+- Efe_6:22y que consuele vuestros corazonesG3870
+- Col_2:2para que sean consolados sus corazonesG3870
+- 1Ts_2:11qué modo...consolábamos a cada unoG3888
+- 1Ts_3:7consolados de vosotros por...vuestra feG3870

@@ -1,0 +1,77 @@
+---
+tipo: concordancia
+palabra: SINAGOGA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SINAGOGA
+
+- Sal_74:8han quemado todas las s de Dios en laH4150
+- Mat_4:23recorrió...Galilea, enseñando en las sG4864
+- Mat_6:2como hacen los hipócritas en las s y enG4864
+- Mat_6:5ellos aman el orar en pie en las s y enG4864
+- Mat_9:35y aldeas, enseñando en las s de ellos, yG4864
+- Mat_10:17os entregarán...y en sus s os azotaránG4864
+- Mat_12:9pasando de allí, vino a la s de ellosG4864
+- Mat_13:54a su tierra, les enseñaba en la s deG4864
+- Mat_23:6aman los...las primeras sillas en las sG4864
+- Mat_23:34y a otros azotaréis en vuestras s, yG4864
+- Mar_1:21días de reposo, entrando en la sG4864
+- Mar_1:23había en la s...un hombre con espírituG4864
+- Mar_1:29salir de la s, vinieron a casa de SimónG4864
+- Mar_1:39predicaba en las s de...en toda GalileaG4864
+- Mar_3:1vez entró Jesús en la s; y había allí unG4864
+- Mar_5:22y vino uno de los principales de la sG752
+- Mar_5:35vinieron de casa del principal de la sG752
+- Mar_5:36dijo al principal de la s: No temas; creeG752
+- Mar_5:38vino a casa del principal de la s, y vioG752
+- Mar_6:2día de reposo, comenzó a enseñar en la sG4864
+- Mar_12:39y las primeras sillas en las s, y losG4864
+- Mar_13:9os entregarán a...y en las s os azotaránG4864
+- Luc_4:15enseñaba en las s...y era glorificadoG4864
+- Luc_4:16el día de reposo entró en la s, conformeG4864
+- Luc_4:20los ojos de todos en la s estaban fijosG4864
+- Luc_4:28al oír estas cosas, todos en la s seG4864
+- Luc_4:33en la s un hombre que tenía un espírituG4864
+- Luc_4:38Jesús...salió de la s, y entró en casa deG4864
+- Luc_4:44y predicaba en las s de GalileaG4864
+- Luc_6:6entró en la s y enseñaba; y estaba allíG4864
+- Luc_7:5ama a nuestra nación, y...edificó una sG4864
+- Luc_8:41vino...Jairo, que era principal de la sG4864
+- Luc_8:49vino uno de casa del principal de la sG752
+- Luc_11:43amáis las primeras sillas en las s, yG4864
+- Luc_12:11cuando os trajeren a las s, y ante losG4864
+- Luc_13:10enseñaba Jesús en una s en el día deG4864
+- Luc_13:14pero el principal de la s, enojado deG752
+- Luc_20:46y aman...las primeras sillas en las sG4864
+- Luc_21:12os entregarán a las s y a las cárcelesG4864
+- Jua_6:59estas cosas dijo en la s, enseñandoG4864
+- Jua_9:22era el Mesías, fuera expulsado de la sG656
+- Jua_12:42pero...para no ser expulsados de la sG656
+- Jua_16:2os expulsarán de las s; y aun viene laG656
+- Jua_18:20yo...siempre he enseñado en la s y en elG4864
+- Hec_6:9unos de la s llamada de los libertosG4864
+- Hec_9:2y le pidió cartas para las s de DamascoG4864
+- Hec_9:20en seguida predicaba a Cristo en las sG4864
+- Hec_13:5anunciaban la palabra de Dios en las sG4864
+- Hec_13:14y entraron en la s un día de reposo yG4864
+- Hec_13:15principales de la s mandaron a decirlesG752
+- Hec_13:42cuando salieron...de la s de los judíosG4864
+- Hec_14:1entraron juntos en la s de los judíosG4864
+- Hec_15:21cada ciudad quien lo predique en las sG4864
+- Hec_17:1a Tesalónica, donde había una s de losG4864
+- Hec_17:10ellos...entraron en la s de los judíosG4864
+- Hec_17:17que discutía en la s con los judíos yG4864
+- Hec_18:4y discutía en la s...los días de reposoG4864
+- Hec_18:7a la casa...la cual estaba junto a la sG4864
+- Hec_18:8Crispo, el principal de la s, creyó enG752
+- Hec_18:17apoderándose de...principal de la s, leG752
+- Hec_18:19y entrando en la s, discutía con losG4864
+- Hec_18:26comenzó a hablar con denuedo en la sG4864
+- Hec_19:8y entrando Pablo en la s, habló conG4864
+- Hec_22:19saben que yo...azotaba en todas las sG4864
+- Hec_24:12el templo, ni en las s ni en la ciudadG4864
+- Hec_26:11castigándolos en...las s, los forcé aG4864
+- Rev_2:9dicen...y no lo son, sino s de SatanásG4864
+- Rev_3:9yo entrego de la s de Satanás a los queG4864

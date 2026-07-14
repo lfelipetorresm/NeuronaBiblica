@@ -1,0 +1,93 @@
+---
+tipo: concordancia
+palabra: PLANTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PLANTAR
+
+- Gén_2:8Jehová Dios plantó un huerto en EdénH5193
+- Gén_9:20a labrar la tierra, y plantó una viñaH5193
+- Gén_12:8plantó su tienda, teniendo a Bet-el alH5186
+- Gén_21:33plantó Abraham un árbol tamarisco enH5143
+- Gén_26:25plantó allí su tienda; y abrieron allíH5186
+- Gén_33:19compró...campo...donde plantó su tiendaH5186
+- Gén_35:21Israel, y plantó su tienda más allá deH5186
+- Éxo_15:17plantarás en el monte de tu heredadH5193
+- Lev_19:23plantéis...clase de árboles frutalesH5193
+- Núm_24:6río, como áloes plantados por JehováH5193
+- Deu_6:11viñas y olivares que no plantaste, yH5193
+- Deu_16:21no plantarás ningún árbol para AseraH5193
+- Deu_20:6ha plantado viña, y no ha disfrutado deH5193
+- Deu_28:30plantarás viña, y no la disfrutarásH5193
+- Deu_28:39plantarás viñas...pero no beberás vinoH5193
+- Jos_24:13viñas...que no plantasteis, coméisH5193
+- Jue_4:11había plantado...tiendas en el valleH5186
+- 2Sa_7:10lo plantaré, para que habite en suH5193
+- 2Re_19:29y plantaréis viñas, y comeréis elH5193
+- 1Cr_17:9he plantado para que habite en élH5193
+- Sal_1:3árbol plantado junto a corrientes deH5193
+- Sal_44:2echaste las naciones, y los plantasteH5193
+- Sal_80:8echaste las naciones, y la plantasteH5193
+- Sal_80:15la planta que plantó tu diestra, y elH5193
+- Sal_92:13plantados en la casa de Jehová, en losH5193
+- Sal_104:16los cedros del Líbano que él plantóH5193
+- Sal_107:37y plantan viñas, y rinden abundanteH5193
+- Pro_31:16planta viña del fruto de sus manosH5192
+- Ecl_2:4edifiqué...casas, planté para mí viñasH5193
+- Ecl_2:5y planté en ellos árboles de todo frutoH5193
+- Ecl_3:2de plantar, y...de arrancar lo plantadoH5193
+- Isa_5:2la había...plantado de vides escogidasH5193
+- Isa_17:10sembrarás...plantarás sarmiento extrañoH5193
+- Isa_17:11día que las plantes, las harás crecerH5194
+- Isa_37:30plantaréis viñas, y comeréis su frutoH5193
+- Isa_40:24como si nunca hubieran sido plantadosH5193
+- Isa_44:14planta pino, que se críe con la lluviaH5193
+- Isa_65:21plantarán viñas, y comerán el fruto deH5193
+- Isa_65:22ni plantarán para que otro coma; porqueH5193
+- Jer_1:10puesto...para edificar y para plantarH5193
+- Jer_2:21te planté de vid escogida...verdaderaH5193
+- Jer_6:3junto a...plantarán sus tiendas alrededorH8628
+- Jer_11:17Jehová...que te plantó ha pronunciadoH5193
+- Jer_12:2los plantaste, y echaron raíces...frutoH5193
+- Jer_17:8árbol plantado junto a las aguas, queH8362
+- Jer_18:9en un instante hablaré de...para plantarH5193
+- Jer_24:6bien...los plantaré y no los arrancaréH5193
+- Jer_29:5, Jer_29:28plantad huertos, y comed del frutoH5193
+- Jer_31:5aún plantarás viñas en los montes deH5193
+- Jer_31:5plantarán los que plantan, y disfrutaránH5193
+- Jer_31:28tendré cuidado de ellos para...plantarH5193
+- Jer_32:41los plantaré en esta tierra en verdadH5193
+- Jer_35:7ni plantaréis viña, ni la retendréisH5193
+- Jer_42:10si os quedareis quietos...os plantaréH5193
+- Jer_45:4arranco a los que planté, y a toda estaH5193
+- Eze_17:5la plantó junto a aguas abundantes, laH5193
+- Eze_17:8fue plantada, para que hiciese ramas yH8362
+- Eze_17:10aquí está plantada; ¿será prosperada?[[H8362]]
+- Eze_17:22tomaré yo del cogollo...y lo plantaréH8362
+- Eze_17:22plantaré sobre el monte alto y sublimeH8362
+- Eze_17:23en el monte alto de Israel lo plantaréH8362
+- Eze_19:10en medio de la viña, plantada junto aH8362
+- Eze_19:13y ahora está plantada en el desiertoH8362
+- Eze_25:4y plantarán en ti sus tiendas...comeránH8628
+- Eze_28:26habitarán...plantarán viñas, y viviránH5193
+- Eze_36:36que yo...planté lo que estaba desoladoH5193
+- Dan_11:45plantar las tiendas...entre los maresH5193
+- Amó_5:11plantasteis...viñas, mas no beberéis elH5193
+- Amó_9:14plantarán viñas, y beberán el vino deH5193
+- Amó_9:15los plantaré sobre su tierra, y nuncaH5193
+- Miq_1:6de Samaria...tierra para plantar viñasH5193
+- Sof_1:13plantarán viñas...no beberán el vinoH5193
+- Mat_15:13toda planta que no plantó mi PadreG5452
+- Mat_21:33hubo un hombre...el cual plantó una viñaG5452
+- Mar_12:1un hombre plantó una viña, la cercó deG5452
+- Luc_13:6tenía un hombre una higuera plantadaG5452
+- Luc_17:6desarráigate, y plántate en el mar; y osG5452
+- Luc_17:28comían, bebían...plantaban, edificabanG5452
+- Luc_20:9un hombre plantó una viña, la arrendó aG5452
+- Rom_6:5si fuimos plantados juntamente con élG4854
+- 1Co_3:6yo planté, Apolos regó...crecimientoG5452
+- 1Co_3:7así que ni el que planta es algo, ni elG5452
+- 1Co_3:8que planta y el que riega son una mismaG5452
+- 1Co_9:7¿quién planta viña y no come de su fruto?[[G5452]]

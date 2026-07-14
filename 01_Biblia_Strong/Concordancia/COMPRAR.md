@@ -1,0 +1,120 @@
+---
+tipo: concordancia
+palabra: COMPRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# COMPRAR
+
+- Gén_17:12y el comprado por dinero a cualquierH4736
+- Gén_17:13el nacido...y el comprado por tu dineroH4736
+- Gén_17:23y a todos los comprados por su dineroH4736
+- Gén_17:27el comprado por dinero del extranjeroH4736
+- Gén_25:10heredad que compró...de los hijos deH7069
+- Gén_33:19y compró una parte del campo, dondeH7069
+- Gén_39:1Potifar...lo compró de los ismaelitasH7069
+- Gén_41:57venían a Egipto para comprar de JoséH7666
+- Gén_42:2descended allá, y comprad de allí paraH7666
+- Gén_42:3descendieron los diez...a comprar trigoH7666
+- Gén_42:5vinieron los hijos de Israel a comprarH7666
+- Gén_42:7¿de...de Canaán, para comprar alimentosH7666
+- Gén_42:10siervos han venido a comprar alimentosH7666
+- Gén_43:2comprad para nosotros un...de alimentoH7666
+- Gén_43:4descenderemos y...compraremos alimentoH7666
+- Gén_43:20descendimos al...a comprar alimentosH7666
+- Gén_43:22otro dinero para comprar alimentosH7666
+- Gén_44:25volved a comprarnos un...de alimentoH7666
+- Gén_47:14por los alimentos que de él comprabanH7666
+- Gén_47:19cómpranos a nosotros y...tierra por panH7069
+- Gén_47:20compró José toda la tierra de EgiptoH7069
+- Gén_47:22la tierra de los sacerdotes no compróH7069
+- Gén_47:23dijo...os he comprado hoy, a vosotros yH7069
+- Gén_49:30cueva...compró Abraham con el...campoH7069
+- Gén_50:13la cueva...que había comprado AbrahamH7069
+- Éxo_12:44todo siervo humano comprado...comeráH4736
+- Éxo_21:2si comprares siervo hebreo, seis añosH7069
+- Lev_22:11el sacerdote comprare algún esclavoH7069
+- Lev_25:14compraréis de mano de vuestro prójimoH7069
+- Lev_25:15conforme al...comprarás de tu prójimoH7069
+- Lev_25:28en poder del que lo compró hasta el añoH7069
+- Lev_25:30quedará...poder de aquel que la compróH7069
+- Lev_25:33el que comprare de los levitas saldráH1350
+- Lev_25:44de ellos podréis comprar esclavos yH7069
+- Lev_25:45podréis comprar de los hijos de losH7069
+- Lev_25:50hará la cuenta con el que lo compróH7069
+- Lev_27:22si dedicare...la tierra que él compróH4736
+- Lev_27:24a aquel de quien él la compró, cuya esH7069
+- Deu_2:6compraréis...por dinero los alimentosH7666
+- Deu_2:6compraréis de ellos el agua, y beberéisH3739
+- Deu_28:68vendidos a...y no habrá quien os compreH7069
+- Jos_24:32campo que Jacob compró...de HamorH7069
+- Rut_4:4que la compres en presencia de los queH7069
+- Rut_4:5día que compres las tierras de mano deH7069
+- 2Sa_12:3corderita...había comprado y criadoH7069
+- 2Sa_24:21respondió: Para comprar de ti la eraH7069
+- 2Sa_24:24no, sino por precio te lo compraréH7069
+- 2Sa_24:24David compró la era y los bueyes porH7069
+- 1Re_10:28la compañía de...compraba caballosH3947
+- 1Re_16:24compró a Semer el monte de Samaria porH7069
+- 2Re_12:12y en comprar la madera y piedra deH7069
+- 2Re_22:6comprar madera y piedra de canteríaH7069
+- 1Cr_21:24la compraré por su justo precioH7069
+- 2Cr_1:16compraban por contrato caballos yH3947
+- 2Cr_1:17compraban en Egipto un carro por 600H3318
+- 2Cr_1:17así compraban...para todos los reyes deH3118
+- 2Cr_34:11para que comprasen piedra de canteríaH7069
+- Esd_7:17comprarás...con este dinero becerrosH7066
+- Neh_5:3hemos empeñado...para comprar granoH3947
+- Neh_5:16restaure...parte, y no compramos heredadH7069
+- Pro_17:16el precio...para comprar sabiduriaH7069
+- Pro_20:14el que compra dice: Malo es, malo esH7069
+- Pro_23:23compra la verdad, y no la vendasH7069
+- Pro_31:16considera la heredad, y la compra, yH3947
+- Ecl_2:7compré siervos y siervas...y ovejasH7069
+- Isa_24:2como al que compra, al que vendeH7069
+- Isa_43:24no compraste para mi caña aromáticaH7069
+- Isa_55:1que no tienen dinero, venid, compradH7666
+- Isa_55:1venid, comprad sin dinero y sin precioH7666
+- Jer_13:1cómprate un cinto de lino, y cíñeloH7069
+- Jer_13:2compré el cinto conforme a la palabraH7069
+- Jer_13:4toma el cinto que compraste...y vete alH7069
+- Jer_19:1dijo Jehová: Ve y compra una vasija deH7069
+- Jer_32:7cómprame...tienes derecho a...comprarlaH7069
+- Jer_32:8compra...mi heredad...cómprala para tiH7069
+- Jer_32:9compró la heredad de Hanameel, hijo deH7069
+- Jer_32:15se comprarán casas, heredades y viñasH7069
+- Jer_32:25cómprate la heredad por dinero, y porH7069
+- Jer_32:44heredades comprarán por dinero, y haránH7069
+- Lam_5:4agua...compramos nuestra leña por precioH4242
+- Eze_7:12el que compra, no se alegre, y el queH7069
+- Ose_3:2la compré...para mí por quince siclosH3739
+- Amó_8:6para comprar los pobres por dinero, yH7069
+- Mat_13:44y vende todo...y compra aquel campoG59
+- Mat_13:46y vendió todo lo que tenía, y la compróG59
+- Mat_14:15vayan...las aldeas y compren de comerG59
+- Mat_21:12echó fuera a todos los que...comprabanG59
+- Mat_25:9id más bien a...y comprad para vosotrasG59
+- Mat_25:10mientras ellas iban a comprar, vino elG59
+- Mat_27:7compraron...el campo del alfarero, paraG59
+- Mar_6:36vayan...y compren pan, pues no tienenG59
+- Mar_6:37compremos pan por 200 denarios, y lesG59
+- Mar_11:15a echar fuera a los que...compraban enG59
+- Mar_15:46compró una sábana, y...lo envolvió enG59
+- Mar_16:1compraron especias...para ir a ungirloG59
+- Luc_9:13vayamos nosotros a comprar alimentosG59
+- Luc_14:18he comprado una hacienda, y necesitoG59
+- Luc_14:19he comprado cinco yuntas de bueyes, yG59
+- Luc_17:28comían, bebían, compraban, vendíanG59
+- Luc_19:45todos los que vendían y compraban en elG59
+- Luc_22:36no tiene espada venda su capa y compreG59
+- Jua_4:8discípulos...ciudad a comprar de comerG59
+- Jua_6:5de dónde compraremos pan para que comanG59
+- Jua_13:29decía: Compra lo que necesitamos paraG59
+- Hec_7:16que...compró Abraham de los hijos deG5608
+- 1Co_6:20habéis sido comprados por precioG59
+- 1Co_7:23por precio fuisteis comprados no osG59
+- 1Co_7:30los que compran, como si no poseyesenG59
+- Rev_3:18yo te aconsejo que de mí compres oroG59
+- Rev_13:17que ninguno pudiese comprar ni venderG59
+- Rev_18:11ninguno compra más sus mercaderíasG59

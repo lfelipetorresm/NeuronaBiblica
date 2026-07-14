@@ -1,0 +1,99 @@
+---
+tipo: concordancia
+palabra: PARTIR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PARTIR
+
+- Gén_12:9y Abram partió de allí, caminando yH5265
+- Gén_15:10los partió por la mitad...no p las avesH1334
+- Gén_20:1partió Abraham a la tierra del Neguev, yH5265
+- Gén_35:16partieron de Bet-el; y había aún comoH5265
+- Éxo_12:37partieron los...de Israel de RamesésH5265
+- Éxo_13:20partieron de Sucot y acamparon en EtamH5265
+- Éxo_15:22hizo...que partiese Israel del Mar RojoH5265
+- Éxo_16:1partió luego de Elim...la congregaciónH5265
+- Éxo_17:1Israel partió del desierto de Sin por susH5265
+- Éxo_21:35partirán el dinero...p el buey muertoH2673
+- Lev_2:6la cual partirás en piezas, y echarásH6626
+- Núm_9:17cuando se alzaba la nube de...partíanH5265
+- Núm_9:18, Núm_9:20, Núm_9:23al mandato de Jehová...partianH5265
+- Núm_9:19guardaban la ordenanza de...y no partíanH5265
+- Núm_9:21(2)la nube se levantaba...partíanH5265
+- Núm_9:22mas cuando ella se alzaba, ellos partíanH5265
+- Núm_10:12partieron los hijos de Israel...de SinaíH4550
+- Núm_10:13partieron la...vez al mandato de JehováH5265
+- Núm_10:28era el orden de marcha...cuando partíanH4550
+- Núm_10:29dijo...Nosotros partimos para el lugarH5265
+- Núm_10:33partieron del monte de Jehová camino deH5265
+- Núm_11:35de Kibrot-bataava partió el pueblo aH5265
+- Núm_12:16después el pueblo partió de Hazerot, yH5265
+- Núm_20:22partiendo de Cades los hijos de IsraelH5265
+- Núm_21:4partieron del monte de Hor, camino delH5265
+- Núm_21:10después partieron los hijos de IsraelH5265
+- Núm_21:11partiendo de...acamparon en Ije-abarimH5265
+- Núm_21:12partieron de allí, y acamparon en elH5265
+- Núm_21:13de allí partieron, y acamparon al otroH5265
+- Núm_22:1partieron los...de Israel, y acamparon enH5265
+- Núm_31:27y partirás por mitades el botín entreH2673
+- Deu_10:7partieron a Gudgoda, y de Gudgoda aH5265
+- Jos_3:1partieron de Sitim y vinieron hasta elH5265
+- Jos_3:14cuando partió el pueblo de sus tiendasH5265
+- Jue_17:8partió de la ciudad de Belén de JudáH3212
+- Jue_18:21y partieron, y pusieron los niños, elH3212
+- Jue_19:29echó mano de su concubina, y la partióH5408
+- 1Sa_23:28Saúl...y partió contra los filisteosH3212
+- 1Sa_30:9partió...David, él y los 600 hombres queH3212
+- 2Sa_6:2se levantó David y partió de Baala deH3212
+- 2Sa_15:14David dijo...daos prisa a partir, no seaH3212
+- 1Re_3:25dijo: Partid por medio al niño vivoH1504
+- 1Re_3:26la otra dijo: Ni a mí ni a ti; partidloH1504
+- 1Re_19:19partiendo él de allí, halló a Elíseo hijoH3212
+- 1Re_20:34y yo...te dejaré partir con este pactoH7971
+- 2Re_4:25partió, pues, y vino al varón de DiosH3212
+- Esd_8:31partimos del río Ahava el doce del mesH5265
+- Job_16:13partió mis riñones, y no perdonó; miH6398
+- Ecl_10:9el que parte leña, en ello peligraH1234
+- Isa_58:7que partas tu pan con el hambrientoH6536
+- Jer_16:7ni partirán pan por ellos en el lutoH6536
+- Jer_31:35que parte el mar, y braman sus ondasH7280
+- Eze_12:3prepárate enseres de marcha, y parteH1540
+- Eze_12:11partiréis al destierro, en cautividadH5493
+- Jon_1:3halló una nave que partía para TarsisH935
+- Jon_1:4el mar...se pensó que se partiría la naveH7665
+- Zac_14:4y el monte de los Olivos se partirá porH1234
+- Mat_2:13después que partieron ellos...un ángelG402
+- Mat_14:19partió y dio los panes a los discípulosG2806
+- Mat_15:36los partió y dio a sus discípulos, y losG2806
+- Mat_26:26tomó Jesús el pan...y lo partió, y dioG2806
+- Mat_27:35partieron entre sí mis vestidos, y sobreG1266
+- Mat_27:51tierra tembló, y las rocas se partieronG4977
+- Mar_6:41bendijo, y partió los panes, y dio aG2622
+- Mar_8:6los partió, y dio a sus discípulos paraG2806
+- Mar_8:19cuando partí los cinco panes entre 5.000G2806
+- Mar_14:22y lo partió y les dio, diciendo: TomadG2806
+- Luc_8:22que entró en una barca...Y partieronG321
+- Luc_9:16los partió, y dio a sus discípulos paraG2622
+- Luc_10:35otro día al partir, sacó dos denariosG1831
+- Luc_12:13dí a mi hermano que parta conmigo laG3307
+- Luc_22:19lo partió y les dio, diciendo: Esto esG2806
+- Luc_24:30tomó el pan y lo bendijo, lo partió, yG2806
+- Luc_24:35le habían reconocido al partir el panG2800
+- Jua_19:24no la partamos, sino echemos suertesG4977
+- Hec_2:46partiendo el pan en las casas, comíanG2806
+- Hec_16:10procuramos partir para Macedonia, dandoG1831
+- Hec_20:7reunidos...para partir el pan, Pablo lesG2806
+- Hec_20:11después de haber subido...partido el panG2806
+- Hec_25:4en Cesarea, adonde él mismo partiría enG1607
+- Hec_27:35el pan...y partiéndolo, comenzó a comerG2806
+- 1Co_10:16el pan que partimos, ¿no es laG2806
+- 1Co_11:24y habiendo dado gracias, lo partió, yG2806
+- 1Co_11:24mi cuerpo que por vosotros es partidoG2806
+- 2Co_2:13despidiéndome...partí para MacedoniaG1831
+- 2Co_8:17por su propia voluntad partió para ir aG1831
+- Flp_1:23deseo de partir y estar con CristoG360
+- Flp_4:15del evangelio, cuando partí de MacedoniaG1831
+- 1Ts_1:8partiendo de...ha sido divulgada laG575
+- Heb_4:12y penetra hasta partir el alma y elG3311

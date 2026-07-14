@@ -1,0 +1,337 @@
+---
+tipo: concordancia
+palabra: VERDAD
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# VERDAD
+
+- Gén_4:24Lamec en v setenta veces siete lo seráH571
+- Gén_20:12a la v también es mi hermana, hija de mi padreH546
+- Gén_24:27que no apartó de mi amo su...y su vH571
+- Gén_24:48me había guiado por camino de v paraH571
+- Gén_24:49hacéis misericordia y v con mi señorH571
+- Gén_30:16porque a la v te he alquilado por las
+- Gén_32:10menor soy...que toda la v que has usadoH571
+- Gén_42:16serán probadas, si hay v en vosotrosH571
+- Gén_43:20de v descendimos al principio a comprar alimentos
+- Gén_47:29muslo, y harás conmigo misericordia y vH571
+- Éxo_3:16En v os he visitado, y he visto lo que
+- Éxo_4:25En v, tú eres para mí un esposo de sangreH3588
+- Éxo_9:16y a la v yo te he puesto para mostrarH5668
+- Éxo_18:21virtud, temerosos de Dios, varones de vH571
+- Éxo_23:22si en v oyeres...todo lo que yo te dijere
+- Éxo_31:13En v vosotros guardaréis mis días de reposoH389
+- Éxo_34:6tardo para...grande en misericordia y vH571
+- Núm_14:30la v no entraréis en la tierra, porH518
+- Deu_13:14si pareciere v, cosa cierta, que talH571
+- Deu_17:4pareciere de v cierta...tal abominaciónH571
+- Deu_22:20mas si resultare ser v que no se hallóH571
+- Deu_32:4Dios de v, y sin ninguna iniquidad en élH571
+- Jos_2:4es v que unos hombres vinieron a mí
+- Jos_2:14si no...haremos contigo misericordia y vH571
+- Jos_24:14temed...y servidle con integridad y en v queH571
+- Jue_9:15si en v me...por rey sobre vosotrosH571
+- Jue_9:16si con v...habéis procedido en hacer reyH571
+- Jue_9:19si con v y...procedido hoy con JerobaalH571
+- Jue_11:35¡ay, hija mía! en v me has abatido, y
+- Jue_17:3en v he dedicado el dinero a Jehová por
+- 1Sa_12:24servidle de v...todo vuestro corazónH571
+- 1Sa_21:5dijo: En v las mujeres han estado lejosH3588, [[H518]]
+- 2Sa_2:6haga con vosotros misericordia y vH571
+- 2Sa_7:28tus palabras son v, y tú has prometidoH571
+- 2Sa_9:7yo a la v haré contigo misericordia porH3588
+- 2Sa_14:5a la v soy una mujer viuda y mi maridoH61
+- 1Re_2:4andando delante de mí con v, de todoH571
+- 1Re_3:6porque él anduvo delante de ti en v, enH571
+- 1Re_8:27¿es v que Dios morará sobre la tierra?[[H552]]
+- 1Re_10:6v es lo que oí en mi tierra de...cosasH571
+- 1Re_17:24la palabra de Jehová es v en tu bocaH571
+- 1Re_21:25a la v ninguno fue como Acab, que se
+- 1Re_22:16exigirte que no me digas sino la v enH571
+- 2Re_19:17es v, que los reyes de Asiria hanH551
+- 2Re_20:3que he andado delante de ti en v y conH571
+- 2Cr_6:18mas ¿es v que Dios habitará con el
+- 2Cr_9:5dijo al rey: V es lo que había oído en miH571
+- 2Cr_18:15conjuraré...que no me hables sino la v?[[H571]]
+- 2Cr_19:9procederéis...v, y con corazón íntegroH530
+- Neh_7:2éste era varón de v y temeroso de DiosH571
+- Est_9:30cartas a...con palabras de paz y de vH571
+- Job_12:20priva del habla a los que dicen v, yH539
+- Job_19:4aun siendo v que yo haya errado, sobreH551
+- Sal_15:2el que anda...y habla v en su corazónH571
+- Sal_19:9juicios de Jehová son v, todos justosH571
+- Sal_25:5encamíname en tu v, y enséñame, porqueH571
+- Sal_25:10sendas de Jehová son misericordia y vH571
+- Sal_26:3porque tu misericordia...y ando en tu vH571
+- Sal_30:9te alabará el polvo? ¿Anunciará tu v?[[H571]]
+- Sal_31:5me has redimido, oh Jehová, Dios de vH571
+- Sal_37:3habitarás en...y te apacentarás de la vH530
+- Sal_40:10no oculté tu...tu v en grande asambleaH571
+- Sal_40:11tu misericordia...v me guarden siempreH571
+- Sal_43:3envía tu luz y tu v; éstas me guiaránH571
+- Sal_45:4cabalga sobre palabra de v...de justiciaH571
+- Sal_51:6he aquí, tú amas la v en lo íntimo, y enH571
+- Sal_52:3amaste el mal...la mentira más que la vH6664
+- Sal_54:5él devolverá el mal a...córtalos por tu vH571
+- Sal_57:3Dios enviará su misericordia y su vH571
+- Sal_57:10porque grande...y hasta las nubes tu vH571
+- Sal_58:1congregación, ¿pronunciáis en v justicia?[[H552]]
+- Sal_60:4dado...bandera que alcen por causa de la vH7189
+- Sal_61:7misericordia y v para que lo conservenH571
+- Sal_69:13oh...por la v de tu salvación, escúchameH571
+- Sal_71:22tu v cantaré a ti en el arpa, oh SantoH571
+- Sal_85:10la misericordia y la v se encontraronH571
+- Sal_85:11v brotará de la tierra, y la justiciaH571
+- Sal_86:11enséñame...camino; caminaré yo en tu vH571
+- Sal_86:15tú, Señor...grande en misericordia y vH571
+- Sal_88:11¿será contada en...o tu v en el Abadón?[[H530]]
+- Sal_89:2en los cielos mismos afirmarás tu vH530
+- Sal_89:5tu v...en la congregación de los santosH530
+- Sal_89:14juicio...y v van delante de tu rostroH571
+- Sal_89:24mi v y mi misericordia estarán con élH530
+- Sal_89:33no quitaré de él mi...ni falsearé mi vH530
+- Sal_89:49¿dónde...que juraste a David por tu v?[[H530]]
+- Sal_91:4estarás seguro; escudo y adarga es su vH571
+- Sal_96:13juzgará al mundo...pueblos con su vH530
+- Sal_98:3se ha acordado de, y de su v para conH530
+- Sal_100:5bueno...su v por todas las generacionesH530
+- Sal_108:4misericordia, y hasta los cielos tu vH571
+- Sal_111:7las obras de sus manos son v y juicioH539
+- Sal_111:8para siempre, hechos en v y en rectitudH571
+- Sal_115:1sino a tu nombre da gloria...por tu vH530
+- Sal_119:30escogí el camino de la v; he puestoH530
+- Sal_119:43no quites de mi boca...la palabra de vH571
+- Sal_119:86tus mandamientos son v; sin causa meH530
+- Sal_119:142es justicia eterna, y tu ley la vH571
+- Sal_119:151estás...y todos tus mandamientos son vH571
+- Sal_119:160la suma de tu palabra es v, y eternoH571
+- Sal_131:2v que me he comportado y he acalladoH571
+- Sal_132:11en v juró Jehová a David, y no...de elloH571
+- Sal_143:1respóndeme por tu v, por tu justiciaH530
+- Sal_146:6hizo los cielos...guarda v para siempreH571
+- Pro_3:3nunca se aparten de ti...la v; átalas aH571
+- Pro_8:7porque mi boca hablará v, y la impiedadH571
+- Pro_12:17el que habla v declara justicia; mas elH530
+- Pro_12:22los que hacen v son su contentamientoH571
+- Pro_14:22y v alcanzarán los que piensan el bienH571
+- Pro_16:6misericordia y v se corrige el pecadoH571
+- Pro_20:6pero hombre de v, ¿quién lo hallará?[[H529]]
+- Pro_20:28misericordia y v guardan al rey, y conH571
+- Pro_22:21la certidumbre de las palabras de vH571
+- Pro_22:21vuelvas a llevar palabras de v a losH571
+- Pro_23:23compra la v, y no la vendas; laH571
+- Pro_28:20hombre de v tendrá muchas bendicionesH530
+- Pro_29:14del rey que juzga con v a los pobresH571
+- Ecl_12:10y escribir rectamente palabras de vH571
+- Isa_10:20apoyarán con v en Jehová, el SantoH571
+- Isa_25:1tus consejos antiguos son v y firmezaH544
+- Isa_26:2entrará la gente justa, guardadora de vH529
+- Isa_38:3he andado delante de ti en v y...íntegroH571
+- Isa_38:18ni los que descienden...esperarán tu vH571
+- Isa_38:19el padre hará notoria tu v a los hijosH571
+- Isa_42:3caña...por medio de la v traerá justiciaH571
+- Isa_43:9y justifíquense; oigan, y digan: V esH571
+- Isa_48:1hacen memoria del Dios...mas no en v niH571
+- Isa_59:4no hay...quien juzgue por la v; confíanH530
+- Isa_59:14porque la v tropezó en la plaza, y laH571
+- Isa_59:15la v fue detenida, y el que se apartóH571
+- Isa_61:8afirmaré en v su obra, y haré con ellosH571
+- Isa_65:16en el Dios de v se bendecirá...v juraráH543
+- Jer_4:2jurares: Vive Jehová, en v, en juicioH571
+- Jer_5:1alguno que...busque v; y yo la perdonaréH530
+- Jer_5:3¿no miran tus ojos a la v? Los azotasteH530
+- Jer_7:5con v hiciereis justicia entre el hombre
+- Jer_7:28pereció la v, y de la boca de ellos fueH530
+- Jer_9:3y no se fortalecieron para la v en laH530
+- Jer_9:5cada uno engaña a su...y ninguno habla vH571
+- Jer_26:15porque en v Jehová me envió a vosotrosH571
+- Jer_28:9como el profeta que Jehová en v envióH571
+- Jer_32:41y los plantaré en esta tierra en v, deH571
+- Jer_33:6les revelaré abundancia de paz y de vH571
+- Jer_38:15lo declarare, ¿no es v que me matarás?
+- Jer_42:5Jehová sea entre...testigo de la v y deH539
+- Jer_44:25confirmáis a la v vuestros votos, y
+- Dan_3:14¿es v...vosotros no honráis a mi diosH6656
+- Dan_3:24respondieron al rey: Es v, oh reyH2330
+- Dan_6:12v es, conforme a la ley de Media y deH3330
+- Dan_7:16y le pregunté la v acerca de todo estoH3330
+- Dan_7:19saber la v acerca de la cuarta bestiaH3321
+- Dan_8:12y echó por tierra la v, e hizo cuantoH571
+- Dan_9:13para convertirnos de...y entender tu vH571
+- Dan_10:21que está escrito en el libro de la vH571
+- Dan_11:2y ahora yo te mostraré la v...He aquí queH571
+- Ose_4:1porque no hay v, ni misericordia, niH571
+- Ose_5:9las tribus de Israel hice conocer la vH539
+- Miq_7:20cumplirás la v a Jacob, y a AbrahamH571
+- Hab_1:4el juicio no sale según la v; por loH6662
+- Zac_7:9diciendo: Juzgad conforme a la v, yH571
+- Zac_8:3Jerusalén se llamará Ciudad de la V, y elH571
+- Zac_8:8seré a ellos por Dios en v y en justiciaH571
+- Zac_8:16hablad v cada cual...juzgad según la vH571
+- Zac_8:19solemnidades...Amad, pues, la v y la pazH571
+- Mal_2:6la ley de v estuvo en su boca...labiosH571
+- Mat_3:11yo a la v os bautizo en agua...pero elG3303
+- Mat_9:37la v la mies es mucha, mas los obrerosG3303
+- Mat_13:32a la v es la más pequeña de todas lasG3303
+- Mat_17:11les dijo: A la v, Elías viene primeroG3303
+- Mat_20:23a la v, de mi vaso beberéis, y con elG3303
+- Mat_22:8las bodas a la v están preparadas; masG227
+- Mat_22:16sabemos que eres amante de la v, y queG227
+- Mat_22:16y que enseñas con v el camino de DiosG225
+- Mat_23:27por fuera, a la v, se muestran hermososG3303
+- Mat_23:28por fuera, a la v, os mostráis justos
+- Mat_26:24la v el Hijo del Hombre va, según está
+- Mat_26:41el espíritu a la v está dispuesto, peroG3303
+- Mar_1:8a la v os he bautizado con agua; peroG3303
+- Mar_5:33la mujer...vino y...y le dijo toda la vG225
+- Mar_9:12les dijo: Elías a la v vendrá primeroG3303
+- Mar_10:39a la v, del vaso que yo bebo, beberéisG3303
+- Mar_12:14que con v enseñas el camino de DiosG225
+- Mar_12:32v has dicho, que uno es Dios, y no hayG225
+- Mar_14:21la v el Hijo del Hombre va, según estáG3303
+- Mar_14:38el espíritu a la v está dispuesto, peroG3303
+- Luc_1:4que conozcas bien la v de las cosas enG803
+- Luc_3:16yo a la v os bautizo en agua; pero vieneG803
+- Luc_4:25en v os digo que muchas viudas había enG225
+- Luc_9:27en v, que hay algunos de los que estánG230
+- Luc_10:2la mies a la v es mucha, mas los obrerosG3303
+- Luc_11:48a la v ellos los mataron, y vosotrosG686
+- Luc_12:44en v os digo que le pondrá sobre todosG230
+- Luc_20:21que enseñas el camino de Dios con vG1909, [[G225]]
+- Luc_21:3en v os digo, que esta viuda pobre echóG230
+- Luc_22:22a la v el Hijo del Hombre va, según loG3303
+- Luc_23:41nosotros, a la v, justamente padecemosG3303
+- Jua_1:14aquel verbo...lleno de gracia y de vG225
+- Jua_1:17y la v vinieron por medio de JesucristoG225
+- Jua_3:21mas el que practica la v viene a la luzG225
+- Jua_4:18no es tu marido; esto has dicho con vG227
+- Jua_4:23adorarán al Padre en espíritu y en vG225
+- Jua_4:24espíritu y en v es necesario que adorenG225
+- Jua_5:33a Juan, y él dio testimonio de la vG225
+- Jua_7:26reconocido en v...que éste es el Cristo?[[G230]]
+- Jua_8:32conoceréis la v, y la v os hará libresG225
+- Jua_8:40matarme a mí...que os ha hablado la v, laG225
+- Jua_8:44no ha permanecido en la v...no hay v enG225
+- Jua_8:45y a mí, porque digo la v, no me creéisG225
+- Jua_8:46si digo la v, ¿por qué vosotros no meG225
+- Jua_10:41Juan, a la v, ninguna señal hizo; peroG227
+- Jua_10:41todo lo que Juan dijo de éste, era vG227
+- Jua_14:6dijo: Yo soy el camino, y la v, y la vidaG225
+- Jua_14:17el Espíritu de v, al cual el mundo noG225
+- Jua_15:26el Espíritu de v, el cual procede delG225
+- Jua_16:7yo os digo la v: Os conviene que yo meG225
+- Jua_16:13el Espíritu de v...guiará a toda la vG225
+- Jua_17:17santifícalos en tu v; tu palabra es vG225
+- Jua_17:19también ellos sean santificados en la vG225
+- Jua_18:37he venido...para dar testimonio a la vG225
+- Jua_18:37todo aquel que es de la v, oye mi vozG225
+- Jua_18:38le dijo Pilato: ¿Qué es la v? Y cuandoG225
+- Jua_19:35él sabe que dice v, para que vosotrosG227
+- Hec_9:7oyendo a la v la voz, mas sin ver a
+- Hec_10:34v comprendo que Dios no hace acepciónG225
+- Hec_12:9pero no sabía que era v lo que hacía elG227
+- Hec_13:36porque a la v David, habiendo servido a
+- Hec_13:46a vosotros a la v era necesario que se
+- Hec_22:9vieron a la v la luz, y se espantaronG3303
+- Hec_26:25que hablo palabras de v y de corduraG225
+- Rom_1:18hombres...detienen con injusticia la vG225
+- Rom_1:25cambiaron la v de Dios por la mentiraG225
+- Rom_2:2que el juicio de Dios contra...es según vG225
+- Rom_2:8y enojo a los que...y no obedecen a la vG225
+- Rom_2:20la ley la forma de la ciencia y de la vG225
+- Rom_2:25pues en v la circuncisión aprovecha, siG3303
+- Rom_3:7por mi mentira la v de Dios abundó paraG225
+- Rom_7:12de manera que la ley a la v es santa, y
+- Rom_8:10el cuerpo en v está muerto a causa del
+- Rom_9:1v digo en Cristo, no miento, y miG225
+- Rom_14:20todas las cosas a la v son limpias; peroG3303
+- Rom_15:8mostrar la v de Dios, para confirmar lasG225
+- 1Co_5:8sino con panes...de sinceridad y de vG225
+- 1Co_7:7uno a la v de un modo, y otro de otro
+- 1Co_9:24todos a la v corren, pero uno sólo
+- 1Co_9:25ellos, a la v, para recibir una corona
+- 1Co_13:6de la injusticia, mas se goza de la vG225
+- 1Co_14:17tú, a la v, bien das gracias; pero elG3303
+- 1Co_15:15cual no resucitó, si en v los muertos
+- 2Co_4:2sino por la manifestación de la vG225
+- 2Co_6:7en palabra de v, en poder de Dios, conG225
+- 2Co_7:14así como en todo os hemos hablado con vG225
+- 2Co_7:14nuestro gloriarnos con Tito resultó vG225
+- 2Co_8:17pues a la v recibió la exhortación; peroG3303
+- 2Co_10:10a la v, dicen, las cartas son duras y
+- 2Co_11:10por la v de Cristo que está en mí, queG225
+- 2Co_12:6no sería insensato, porque diría la vG225
+- 2Co_13:8nada podemos contra la v, sino por la vG225
+- Gál_2:5que la v del evangelio permaneciese conG225
+- Gál_2:14no andaban rectamente conforme a la vG225
+- Gál_3:1¿quién os fascinó para no obedecer a la vG225
+- Gál_4:16he...vuestro enemigo, por deciros la v?[[G226]]
+- Gál_5:7¿quién os estorbó...no obedecer a la v?[[G25]]
+- Efe_1:13oído la palabra de v, el evangelio deG225
+- Efe_4:15que siguiendo la v en amor, crezcamosG226
+- Efe_4:21si en v le habéis oído, y habéis sido
+- Efe_4:21enseñados, conforme a la v, en JesúsG225
+- Efe_4:24según...la justicia y santidad de la v
+- Efe_4:25desechando la mentira, hablad v cada unoG226
+- Efe_5:9el fruto del Espíritu es en...justicia y vG226
+- Efe_6:14firmes, ceñidos vuestros lomos con la vG226
+- Flp_1:15algunos, a la v, predican a CristoG3303
+- Flp_1:18pretexto o por v, Cristo es anunciadoG226
+- Flp_2:27en v estuvo enfermo, a punto de morirG2532
+- Col_1:6y conocisteis la gracia de Dios en vG226
+- Col_1:23si en v permanecéis fundados y firmes
+- Col_2:23cosas tienen a la v cierta reputaciónG3303
+- 1Ts_2:13recibisteis no...sino según es en vG230
+- 2Ts_2:10no recibieron el amor de la v paraG225
+- 2Ts_2:12condenados...los que no creyeron a la vG225
+- 2Ts_2:13mediante...el Espíritu y la fe en la vG225
+- 1Ti_2:4salvos y vengan al conocimiento...vG225
+- 1Ti_2:7y apóstol (digo v en Cristo, no miento)[[G225]]
+- 1Ti_2:7yo fui...maestro de los gentiles en fe y vG225
+- 1Ti_3:15la iglesia...columna y baluarte de la vG225
+- 1Ti_4:3participasen...los que han conocido la vG225
+- 1Ti_5:3honra a las viudas que en v lo sonG3689
+- 1Ti_5:5la que en v es viuda y ha quedado solaG3689
+- 1Ti_5:16suficiente para las que en v son viudasG3689
+- 1Ti_6:5hombres corruptos de...privados de la vG225
+- 2Ti_2:15aprobado...usa bien la palabra de vG225
+- 2Ti_2:18que se desviaron de la v, diciendo queG225
+- 2Ti_2:25que se arrepientan para conocer la vG225
+- 2Ti_3:7nunca pueden llegar al conocimiento...vG225
+- 2Ti_3:8también éstos resisten a la v; hombresG225
+- 2Ti_4:4apartarán de la v el oído y se volveránG225
+- Tit_1:1el conocimiento de la v que es segúnG225
+- Tit_1:14a mandamientos de...se apartan de la vG225
+- Heb_3:5Moisés a la v fue fiel en toda la casaG4103
+- Heb_6:3y esto haremos, si Dios en v lo permite
+- Heb_10:26haber recibido el conocimiento de la vG225
+- Heb_12:11es v que ninguna disciplina al presente
+- Stg_1:18nos hizo nacer por la palabra de vG225
+- Stg_2:8si en v cumplís la ley real, conforme aG225
+- Stg_3:14no os jactéis, ni mintáis contra la vG225
+- Stg_5:19si alguno de...se ha extraviado de la vG225
+- 1Pe_1:22por la obediencia a la v, medianteG225
+- 1Pe_3:18siendo a la v muerto en la carne, pero
+- 2Pe_1:12estéis confirmados en la v presenteG225
+- 2Pe_2:2cuales el camino de la v será blasfemadoG225
+- 1Jn_1:6si...mentimos, y no practicamos la vG225
+- 1Jn_1:8nos engañamos...y la v no está en nosotrosG225
+- 1Jn_2:4el tal es mentiroso, y la v no está en élG225
+- 1Jn_2:21no...he escrito como si ignoraseis la vG225
+- 1Jn_2:21porque ninguna mentira procede de la vG225
+- 1Jn_3:18no amemos de palabra ni de lengua...en vG225
+- 1Jn_3:19en esto conocemos que somos de la v, yG225
+- 1Jn_4:6en esto conocemos el espíritu de v y elG225
+- 1Jn_5:6es que da testimonio...el Espíritu es la vG225
+- 2Jn_1:1a sus hijos, a quienes yo amo en la vG225
+- 2Jn_1:1también todos los que han conocido la vG225
+- 2Jn_1:2a causa de la v que permanece en nosotrosG225
+- 2Jn_1:3paz, de Dios Padre y del...en v y en amorG225
+- 2Jn_1:4he hallado a algunos de...andando en la vG225
+- 3Jn_1:1el anciano a Gayo...quien amo en la vG225
+- 3Jn_1:3testimonio de tu v, de cómo andas en la vG225
+- 3Jn_1:4gozo...el oír que mis hijos andan en la vG225
+- 3Jn_1:8debemos acoger a...que cooperemos con la vG225
+- 3Jn_1:12todos dan testimonio de...aun la v mismaG225

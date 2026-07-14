@@ -1,0 +1,102 @@
+---
+tipo: concordancia
+palabra: PERDER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# PERDER
+
+- Éxo_22:9en toda clase de fraude...cosa perdidaH9
+- Lev_6:3hallado lo perdido después lo negareH9
+- Lev_6:4restituirá aquello...lo perdido que hallóH9
+- Núm_17:12perdidos somos, todos...somos pH6
+- Deu_22:3harás con toda cosa de...se le perdiereH9
+- Deu_22:9no sea que se pierda todo...la semillaH6942
+- Deu_34:7sus ojos nunca se, ni perdió su vigorH5127
+- Jue_18:25y pierdas...tu vida y la vida de losH622
+- 1Sa_9:3y se habían perdido las asnas de CisH6
+- 1Sa_9:20asnas que...perdieron...pierde cuidado deH6
+- 1Re_20:25otro ejército como el...que perdisteH5307
+- Esd_10:8perdiese toda su hacienda...excluidoH2763
+- Job_4:7¿qué inocente se ha perdido?...¿en dóndeH6
+- Job_4:20se pierden...sin haber quien repare enH6
+- Job_4:21su hermosura, ¿no se pierde con ellos
+- Job_6:18se apartan...van menguando, y se pierdenH6
+- Job_15:33perderá su agraz como la vid, y...flor
+- Job_29:13la bendición del que se iba a perderH6
+- Sal_137:5si me...pierda mi diestra su destrezaH7911
+- Pro_1:32la prosperidad...los echará a perderH6
+- Pro_4:16pierden el sueño si no han hecho caer a
+- Pro_13:23pan, mas se pierde por falta de juicioH5595
+- Pro_23:8vomitarás...perderás tus suaves palabrasH7843
+- Pro_29:3que frecuenta rameras perderá los bienesH6
+- Ecl_3:6tiempo de buscar, y tiempo de perderH6
+- Ecl_5:14cuales se pierden en malas ocupacionesH6
+- Ecl_12:5será una carga, y se perderá el apetitoH6565
+- Cnt_2:15zorras...que echan a perder las viñasH2254
+- Isa_9:16son engañadores...gobernados se pierdenH1104
+- Isa_19:7se secarán, se perderán, y no serán más
+- Isa_22:25y la carga...se echará a perder; porque
+- Isa_24:7perdió el vino, enfermó la vid, gimieronH56
+- Jer_17:4y perderás la heredad que yo te diH8058
+- Jer_18:4la vasija de barro...se echó a perder enH7843
+- Jer_31:28cuidado...trastornar y perder y afligirH6
+- Lam_4:1¡cómo el buen oro ha perdido su brillo!
+- Eze_19:5viendo ella...que se perdía su esperanzaH6
+- Ose_13:8como osa que ha perdido los hijos losH7909
+- Ose_13:9te perdiste, oh...mas en mí está tu ayudaH7843
+- Joe_1:10se secó el mosto, se perdió el aceiteH7703
+- Joe_1:11confundíos...se perdió la mies del campoH6
+- Amó_5:12hacéis perder su causa a los pobres
+- Abd_1:12alegrado...el día en que se perdieronH6
+- Zac_10:11herirá...perderá el cetro de EgiptoH5493
+- Zac_11:9y la que se perdiere, que se pierdaH3582
+- Zac_13:8serán cortadas en ella, y se perderánH3772
+- Mat_5:29mejor te es que se pierda uno de tusG622
+- Mat_5:30que se pierda uno de tus miembros, y noG622
+- Mat_9:17vino se derrama, y los odres se pierdenG622
+- Mat_10:39la perderá; y el que pierde su vida porG622
+- Mat_10:42os digo que no perderá su recompensaG622
+- Mat_16:25que quiere salvar su vida, la perderáG622
+- Mat_16:25el que pierda su vida por causa de míG622
+- Mat_16:26ganare...el mundo, y perdiere su alma?[[G2210]]
+- Mat_18:11para salvar lo que se había perdidoG622
+- Mat_18:14no...que se pierda uno de estos pequeñosG622
+- Mar_2:22el vino se derrama...odres se pierdenG622
+- Mar_8:35perderá; y todo el que pierda su vidaG622
+- Mar_8:36ganare...el mundo, y perdiere su alma?[[G2210]]
+- Mar_9:41os digo que no perderá su recompensaG622
+- Luc_5:37se derramará, y los odres se perderánG622
+- Luc_9:24que quiera salvar su vida, la perderáG622
+- Luc_9:24el que pierda su vida por causa de míG622
+- Luc_9:25y se destruye o se pierde a sí mismo?[[G622]]
+- Luc_9:56no ha venido para perder las almas deG622
+- Luc_15:4teniendo cien ovejas, si pierde una deG622
+- Luc_15:4tras la que se perdió, hasta encontrarla?[[G622]]
+- Luc_15:6he encontrado mi oveja que se...perdidoG622
+- Luc_15:8si pierde una dracma, no enciende laG622
+- Luc_15:9encontrado la dracma que había perdidoG622
+- Luc_15:24, Luc_15:32se había perdido, y es halladoG622
+- Luc_17:33la perderá; y todo el que la pierda, laG622
+- Luc_19:10y a salvar lo que se había perdidoG622
+- Jua_3:15-16no se pierda, mas tenga vida eternaG622
+- Jua_6:12que sobraron, para que no pierda nadaG622
+- Jua_6:39no pierda yo nada, sino que lo resuciteG622
+- Jua_12:25el que ama su vida, la perderá; y elG622
+- Jua_17:12y ninguno de ellos se perdió, sino elG622
+- Jua_18:9de los que me diste, no perdí ningunoG622
+- Hec_27:20habíamos perdido toda esperanza deG4014
+- Hec_27:32del esquife y lo dejaron perderseG1601
+- Rom_14:15pierda aquel por quien Cristo murióG622
+- 1Co_1:18cruz es locura a los que se pierdenG622
+- 1Co_8:11se perderá el hermano débil por quienG622
+- 2Co_1:8perdimos la esperanza de conservarG1820
+- 2Co_2:15olor de Cristo...en los que se pierdenG622
+- 2Co_4:3entre los que se pierden está encubiertoG622
+- Efe_4:19después que perdieron...sensibilidad
+- Flp_3:8por amor del cual lo he perdido todoG2209
+- 2Ts_2:10engaño de...para los que se pierdenG622
+- Heb_10:35no perdáis, pues, vuestra confianza
+- Stg_4:12de la ley, que puede salvar y perderG622
+- 2Jn_1:8no perdáis el fruto de vuestro trabajoG622

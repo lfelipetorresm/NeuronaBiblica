@@ -1,0 +1,289 @@
+---
+tipo: concordancia
+palabra: ROGAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ROGAR
+
+- Gén_13:9yo te ruego que te apartes de mí...SiH4994
+- Gén_16:2ruego, pues, que te llegues a mi siervaH4994
+- Gén_18:3si...te ruego que no pases de tu siervoH4994
+- Gén_19:2os ruego que vengáis a casa de vuestroH4994
+- Gén_19:7ruego, hermanos míos, que no hagáis talH4994
+- Gén_19:18les dijo: No, yo os ruego, señores míosH4994
+- Gén_23:13ruego que me oigas. Yo daré el precioH4994
+- Gén_24:12te ruego, el tener hoy buen encuentroH4994
+- Gén_24:14baja tu cántaro, te ruego, para que yoH4994
+- Gén_24:17te ruego que me des a beber un poco deH4994
+- Gén_24:23te ruego que me digas: ¿hay en casa deH4994
+- Gén_24:43dame...te ruego, un poco de agua de tuH4994
+- Gén_24:45le dije: Te ruego que me des de beberH4994
+- Gén_25:30ruego que me des a comer de ese guisoH4994
+- Gén_30:14te ruego que me des de las mandrágorasH4994
+- Gén_33:10te ruego; si he hallado ahora gracia enH4994
+- Gén_33:11acepta, te ruego, mi presente que te heH4994
+- Gén_34:8hija; os ruego que se la deis por mujerH4994
+- Gén_37:16te ruego que me muestres dónde estánH4994
+- Gén_40:14ruego que uses conmigo de misericordiaH4994
+- Gén_42:21vimos la angustia de...cuando nos rogabaH2603
+- Gén_44:18ruego que permitas que hable tu siervoH4994
+- Gén_44:33te ruego...que quede ahora tu siervo enH4994
+- Gén_47:4rogamos ahora que permitas que habitenH4994
+- Gén_47:29te ruego que pongas tu mano debajo deH4994
+- Gén_47:29te ruego que no me entierres en EgiptoH4994
+- Gén_50:4os ruego que habléis en oídos de FaraónH4994
+- Gén_50:5ruego...que vaya yo ahora y sepulte a miH4994
+- Gén_50:17te ruego que perdones ahora la maldadH4994
+- Gén_50:17te rogamos que perdones la maldad de losH4994
+- Éxo_4:13envía, te ruego, por medio del queH4994
+- Éxo_8:29rogaré a Jehová que las...moscas se vayanH6293
+- Éxo_10:17os ruego ahora que perdonéis mi pecadoH4994
+- Éxo_32:31te ruego, pues este pueblo ha cometido
+- Éxo_33:13ruego que me muestres ahora tu caminoH4994
+- Éxo_33:18te ruego que me muestres tu gloriaH4994
+- Núm_10:31él le dijo: Te ruego que no nos dejesH4994
+- Núm_11:15si así lo...te ruego que pie des muerteH4994
+- Núm_12:13te ruego, oh Dios, que la sanes ahoraH4994
+- Núm_14:17te ruego que sea magnificado el poderH4994
+- Núm_20:17te rogamos que pasemos por tu tierraH4994
+- Núm_21:7ruega a Jehová que quite...estas serpientesH4994
+- Núm_22:6ahora, te ruego, maldíceme este puebloH4994
+- Núm_22:16Balac...Te ruego que no dejes de venir aH4994
+- Núm_22:19os ruego...que reposéis aquí esta nocheH4994
+- Núm_23:13te ruego que vengas conmigo a otro lugarH4994
+- Núm_23:27dijo...Te ruego que vengas, te llevaré aH4994
+- Deu_3:25te ruego, y vea aquella tierra buenaH4994
+- Jos_2:12ruego pues...que me juréis por JehováH4994
+- Jue_4:19ruego me des de beber un poco de aguaH4994
+- Jue_6:17te ruego que si he hallado gracia...de tiH4994
+- Jue_6:18ruego que no te vayas de aquí hasta queH4994
+- Jue_6:39te ruego que...el vellón quede seco, y elH4994
+- Jue_8:5ruego que deis a la gente...bocados de panH4994
+- Jue_9:2os ruego que digáis en oídos de todos losH4994
+- Jue_10:15te rogamos que nos libres en este díaH4994
+- Jue_11:17, Jue_11:19te ruego que me dejes pasar por tuH4994
+- Jue_13:8yo te ruego que aquel varón de Dios queH4994
+- Jue_13:15te ruego nos permitas detenerte, y teH4994
+- Jue_14:2una mujer...os ruego que me la toméis porH4994
+- Jue_16:6te ruego...me declares en qué consiste tuH4994
+- Jue_16:10descúbreme...te ruego, cómo podrás serH4994
+- Jue_16:28fortaléceme...ruego...esta vez, oh DiosH4994
+- Jue_19:6dijo...te ruego que quieras pasar aquí laH4994
+- Jue_19:9ruego que paséis aquí la noche; he aquíH4994
+- Jue_19:23ruego que no cometáis este mal; ya queH4994
+- Rut_1:16respondió Rut: No me ruegues...te dejeH6293
+- Rut_2:2dijo...Te ruego que me dejes ir al campoH4994
+- Rut_2:7ruego que me dejes recoger y juntar trasH4994
+- 1Sa_2:25contra Jehová, ¿quién rogará por él?[[H6293]]
+- 1Sa_2:36te ruego que me agregues a alguno de losH4994
+- 1Sa_3:17Elí dijo...Te ruego que no me la encubrasH4994
+- 1Sa_9:18ruego que me enseñes dónde está la casaH4994
+- 1Sa_10:15te ruego me declares qué os dijo SamuelH4994
+- 1Sa_12:19ruega por tus siervos a Jehová tu DiosH4994
+- 1Sa_12:23peque yo...cesando de rogar por vosotrosH4994
+- 1Sa_15:30te ruego que me honres delante de losH4994
+- 1Sa_16:22yo te ruego que esté David conmigo, puesH4994
+- 1Sa_20:6rogó mucho que lo dejase ir corriendo aH4994
+- 1Sa_20:29ruego que me dejes ir, porque nuestraH4994
+- 1Sa_22:3te ruego que mi padre y mi madre esténH4994
+- 1Sa_23:11te ruego que lo declares a tu siervoH4994
+- 1Sa_25:8ruego que des lo que tuvieres a mano aH4994
+- 1Sa_25:24ruego que permitas que tu sierva hableH4994
+- 1Sa_25:28te ruego que perdones a tu sierva estaH4994
+- 1Sa_26:19ruego...que el rey mi señor oiga ahoraH4994
+- 1Sa_28:8ruego que me adivines por el espíritu deH4994
+- 1Sa_28:22te ruego...que tú también oigas la vozH4994
+- 1Sa_30:7dijo...te ruego que me acerques el efodH4994
+- 2Sa_1:4David le dijo...Te ruego que me lo digasH4994
+- 2Sa_1:9ruego que te pongas sobre mí y me matesH4994
+- 2Sa_12:16David rogó a Dios por el niño; y ayunóH1245
+- 2Sa_13:5-6te ruego que venga mi hermana TamarH4994
+- 2Sa_13:13ruego...que hables al rey, que él no meH4994
+- 2Sa_13:24yo ruego que venga el rey y sus siervosH4994
+- 2Sa_13:26ruego que venga...Amnón mi hermanoH4994
+- 2Sa_13:28os ruego que miréis cuando el corazónH7200
+- 2Sa_14:2te ruego que finjas estar de duelo, y teH4994
+- 2Sa_14:11ella...Te ruego, oh rey, que te acuerdesH4994
+- 2Sa_14:12ruego que permitas que tu sierva hableH4994
+- 2Sa_14:18yo te ruego que no me encubras nada deH4994
+- 2Sa_15:7te ruego me permitas que vaya a HebrónH4994
+- 2Sa_16:9ruego que me dejes pasar, y le quitaréH4994
+- 2Sa_19:37yo te ruego que dejes volver a tu siervoH4994
+- 2Sa_20:16ruego que digáis a Joab que venga acáH4994
+- 2Sa_24:10ruego que quites el pecado de tu siervoH4994
+- 2Sa_24:17te ruego que tu mano se vuelva contra míH4994
+- 1Re_2:17yo te ruego que hables al rey SalomónH4994
+- 1Re_8:33y te rogaren y suplicaren en esta casaH6419
+- 1Re_8:35rogaren en este...y confesaren tu nombreH6419
+- 1Re_11:22nada; con todo, te ruego que me dejes ir
+- 1Re_13:6que ruegues ante la presencia de JehováH6419
+- 1Re_17:10te ruego que me traigas un poco de aguaH4994
+- 1Re_17:11ruego que me traigas...un bocado de panH4994
+- 1Re_17:21ruego que hagas volver el alma de esteH4994
+- 1Re_19:20te ruego que me dejes besar a mi padre yH4994
+- 1Re_20:32Ben-adad dice...ruego que viva mi almaH4994
+- 1Re_22:5te ruego que consultes hoy la palabra deH4994
+- 2Re_1:13le rogó, diciendo: Varón de Dios, teH4994
+- 2Re_1:13te ruego que sea de valor delante de tusH4994
+- 2Re_2:6y Elías le dijo: Te ruego que te quedesH4994
+- 2Re_2:9te ruego...una doble porción de tu espírituH4994
+- 2Re_4:10yo te ruego que hagamos un...aposento deH4994
+- 2Re_4:22ruego que envíes conmigo a alguno de losH4994
+- 2Re_4:26ruego que vayas ahora...a recibirla, y leH4994
+- 2Re_5:3si rogase mi señor al profeta que está en
+- 2Re_5:15te ruego que recibas algún presente de tuH4994
+- 2Re_5:17ruego, pues, ¿de esta tierra no se daráH4994
+- 2Re_5:22te ruego que les des un talento de plataH4994
+- 2Re_5:23dijo...Te ruego que tomes dos talentos
+- 2Re_6:3uno: Te rogamos que vengas con tus siervosH4994
+- 2Re_6:17te ruego, oh Jehová, que abras sus ojosH4994
+- 2Re_6:18te ruego que hieras con ceguera a estaH4994
+- 2Re_8:4ruego que me cuentes todas las maravillasH4994
+- 2Re_18:23yo te ruego que des rehenes a mi señorH4994
+- 2Re_18:26te rogamos que hables a tus siervos enH4994
+- 2Re_19:19sálvanos, te ruego, de su mano, para queH4994
+- 2Re_20:3te ruego...te r que hagas memoria de queH577
+- 1Cr_21:8ruego que quites la iniquidad de tuH4994
+- 1Cr_21:13ruega que...caiga en la mano de Jehová
+- 2Cr_6:24y rogare delante de ti en esta casaH6419
+- 2Cr_6:40te ruego que estén abiertos tus ojos yH4994
+- 2Cr_18:4te ruego que consultes hoy la palabra deH4994
+- 2Cr_18:12te ruego que tu palabra sea como la deH4994
+- Neh_1:5te ruego, oh Jehová, Dios de los cielosH577
+- Neh_1:11te ruego, oh Jehová, esté ahora atentoH4994
+- Neh_5:11ruego que les devolváis hoy sus tierrasH4994
+- Est_8:3rogándole que hiciese nula la maldad deH2603
+- Job_8:5buscares a...y rogares al TodopoderosoH2603
+- Job_9:15fuese...antes habría de rogar a mi juezH2603
+- Job_19:17por los hijos de...entrañas le rogabaH2589
+- Job_42:4oye, te ruego, y hablaré; te preguntaréH4994
+- Sal_118:25sálvanos...te ruego; te r, oh JehováH577
+- Sal_119:108te ruego...que te sean agradables losH4994
+- Isa_36:8ruego que des rehenes al rey de AsiríaH4994
+- Isa_36:11te rogamos que hables a tus siervos enH4994
+- Isa_37:21lo que me rogaste sobre Senaquerib reyH6419
+- Isa_38:3Jehová, te ruego que te acuerdes ahoraH577
+- Isa_44:17lo adora, y le ruega diciendo: LíbrameH6419
+- Isa_45:20los que ruegan a un dios que no salvaH6419
+- Jer_7:16tú...ni me ruegues; porque no te oiréH6419
+- Jer_14:11no ruegues por este pueblo para bienH6419
+- Jer_15:11si no te he rogado por su bien, si no heH6293
+- Jer_29:7y rogad por ella a Jehová; porque en suH6419
+- Jer_36:25rogaron al rey...no quemase aquel rolloH6293
+- Jer_37:3ruega ahora por nosotros a Jehová...DiosH6419
+- Jer_37:20te ruego, oh rey mi señor; caiga ahoraH4944
+- Jer_42:2ruega por nosotros a Jehová tu Dios porH6419
+- Dan_1:12te ruego que hagas la prueba con tusH4994
+- Dan_6:11y hallaron a Daniel orando y rogando enH2604
+- Ose_12:4lloró, y le rogó; en Bet-el le hallóH2603
+- Jon_1:14te rogamos...Jehová, que no perezcamosH577
+- Jon_4:3oh Jehová, te ruego que me quites la vidaH4994
+- Mat_8:5Jesús...vino a él un centurión, rogándoleG3870
+- Mat_8:31y los demonios le rogaron diciendo: SiG3870
+- Mat_8:34le rogaron que se fuera de sus contornosG3870
+- Mat_9:38rogad...al Señor de la mies, que envíeG1189
+- Mat_14:36rogaban que les dejase tocar...su mantoG3870
+- Mat_15:23le rogaron, diciendo: Despídela, puesG2065
+- Mat_18:29rogaba diciendo: Ten paciencia conmigoG3870
+- Mat_18:32toda aquella deuda te perdoné...rogasteG3870
+- Mar_1:40vino a él un leproso, rogándole...dijoG3870
+- Mar_5:10le rogaba...que no los enviase fuera deG3870
+- Mar_5:12le rogaron todos los demonios, diciendoG3870
+- Mar_5:17y comenzaron a rogarle que se fuera deG3870
+- Mar_5:18le rogaba que le dejase estar con élG3870
+- Mar_5:23le rogaba mucho, diciendo: Mi hija estáG3870
+- Mar_6:56rogaban que les dejase tocar siquiera elG3870
+- Mar_7:26rogaba que echase fuera de...al demonioG2065
+- Mar_7:32le rogaron que le pusiera la mano encimaG3870
+- Mar_8:22le trajeron un ciego, y le rogaron que leG3870
+- Luc_4:38una gran fiebre; y le rogaron por ellaG2065
+- Luc_5:3le rogó que la apartase de tierra un pocoG2065
+- Luc_5:12y le rogó, diciendo: Señor, si quieresG1189
+- Luc_7:3le envió...rogándole que viniese y sanaseG2065
+- Luc_7:4y le rogaron con solicitud, diciéndole: EsG3870
+- Luc_7:36uno de...rogó a Jesús que comiese con élG2065
+- Luc_8:28exclamó...Te ruego que no me atormentesG1189
+- Luc_8:31rogaban que no los mandase ir al abismoG3870
+- Luc_8:32le rogaron que los dejase entrar en ellosG3870
+- Luc_8:37toda la multitud...le rogó que se marchaseG2065
+- Luc_8:38hombre...rogaba que le dejase estar con élG1189
+- Luc_8:41Jairo...le rogaba que entrase en su casaG3870
+- Luc_9:38te ruego que veas a mi hijo, pues es elG1189
+- Luc_9:40rogué a tus discípulos que le echasenG1189
+- Luc_10:2rogad al Señor de la mies...envíe obrerosG1189
+- Luc_11:37le rogó un fariseo que comiese con élG2065
+- Luc_14:18necesito ir a...te ruego que me excusesG2065
+- Luc_14:19y voy a probarlos...ruego que me excusesG2065
+- Luc_15:28salió...su padre, y le rogaba que entrase
+- Luc_16:27te ruego...padre, que le envíes a la casaG2065
+- Luc_22:32yo he rogado por ti, que tu fe no falteG1189
+- Jua_4:31discípulos le rogaban, diciendo: RabíG2065
+- Jua_4:40samaritanos...y le rogaron que se quedaseG2065
+- Jua_4:47rogó que descendiese y sanase a su hijoG2065
+- Jua_12:21rogaron...Señor, quisiéramos ver a JesúsG2065
+- Jua_14:16y yo rogaré al Padre, y os dará otroG2065
+- Jua_16:26y no os digo que yo rogaré al Padre porG2065
+- Jua_17:9ruego por ellos; no r por el mundo, sinoG2065
+- Jua_17:15no ruego que los quites del mundo, sinoG2065
+- Jua_17:20mas no ruego solamente por éstos, sinoG2065
+- Jua_19:31rogaron a...se les quebrasen las piernasG2065
+- Jua_19:38José...rogó a Pilato que le permitieseG2065
+- Hec_3:3vio...les rogaba que le diesen limosna
+- Hec_8:22ruega a Dios, si quizás te sea perdonadoG1189
+- Hec_8:24rogad vosotros por mí al Señor, para queG1189
+- Hec_8:31rogó a Felipe que subiese y se sentaraG3870
+- Hec_8:34te ruego que me digas: ¿de quién dice elG1189
+- Hec_9:38rogarle: No tardes en venir a nosotrosG3870
+- Hec_10:48le rogaron que se quedase...algunos díasG2065
+- Hec_13:42gentiles les rogaron que...les hablasenG3870
+- Hec_16:9un varón macedonio...en pie, rogándole yG3870
+- Hec_16:15rogó diciendo: Si habéis juzgado que yoG3870
+- Hec_16:39viniendo, les rogaron; y sacándolos, lesG3870
+- Hec_18:20le rogaban que se quedase con ellos porG2065
+- Hec_19:31recado, rogándole que no se presentaseG3870
+- Hec_21:12le rogamos...que no subiese a JerusalénG3870
+- Hec_21:39pero te ruego que me permitas hablar alG1189
+- Hec_23:18rogó que trajese ante ti a este jovenG2065
+- Hec_23:20rogarte que mañana lleves a Pablo anteG2065
+- Hec_24:4pero...te ruego que nos oigas brevementeG3870
+- Hec_25:2presentaron...contra Pablo, y le rogaronG3870
+- Hec_26:3cual te ruego que me oigas con pacienciaG1189
+- Hec_27:34os ruego que comáis por vuestra saludG3870
+- Hec_28:14nos rogaron que nos quedásemos con ellosG3870
+- Rom_1:10rogando que...tenga...un próspero viajeG1189
+- Rom_12:1os ruego por las misericordias de DiosG3870
+- Rom_15:30os ruego...que me ayudéis orando por míG3870
+- Rom_16:17ruego, hermanos, que os fijéis en losG3870
+- 1Co_1:10ruego..habléis todos una misma cosaG3870
+- 1Co_4:13nos difaman, y rogamos; hemos venido a
+- 1Co_4:16por tanto, os ruego que me imitéisG3870
+- 1Co_16:12le rogué que fuese a vosotros con losG3870
+- 1Co_16:16ruego que os sujetéis a personas como
+- 2Co_2:8os ruego que confirméis el amor paraG3870
+- 2Co_5:20como si Dios rogase...rogamos en nombreG3870
+- 2Co_10:1yo Pablo os ruego por la mansedumbre yG3870
+- 2Co_10:2ruego...que cuando esté presente, no tengaG1189
+- 2Co_12:8tres veces he rogado al Señor, que loG3870
+- 2Co_12:18rogué a Tito, y envié con él al hermanoG3870
+- Gál_4:12ruego, hermanos, que os hagáis como yoG1189
+- Efe_4:1os ruego que andéis como es digno de laG3870
+- Flp_1:4rogando con gozo por todos vosotrosG1162
+- Flp_4:2ruego a Erodia y a...que sean de un mismoG3870
+- Flp_4:3te ruego también a ti, compañero fiel que
+- Col_4:12os saluda Epafras...siempre rogandoG75
+- 1Ts_4:1os rogamos...en el Señor Jesús, que deG2065
+- 1Ts_4:10rogamos...que abundéis en ello más y másG3870
+- 1Ts_5:12os rogamos...que reconozcáis a los queG2065
+- 1Ts_5:14os rogamos...que amonestéis a los ociososG3870
+- 2Ts_2:1con respecto a la venida...os rogamosG2065
+- 1Ti_1:3como te rogué...te quedases en EfesoG3870
+- Flm_1:9más bien te ruego por amor, siendo comoG3870
+- Flm_1:10te ruego por...Onésimo, a quien engendré enG3870
+- Heb_12:19oyeron rogaron que no se les hablase
+- Heb_13:19os ruego que lo hagáis así, para que yoG3870
+- Heb_13:22os ruego, hermanos, que soportéis laG3870
+- 1Pe_2:11amados, yo os ruego como a extranjerosG3870
+- 1Pe_5:1ruego a los ancianos...entre vosotros, yoG3870
+- 2Jn_1:5te ruego, señora...que nos amemos unosG2065

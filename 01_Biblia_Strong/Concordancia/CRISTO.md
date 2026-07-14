@@ -1,0 +1,378 @@
+---
+tipo: concordancia
+palabra: CRISTO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CRISTO
+
+- Mat_1:16María, de la cual nació Jesús...el CG5547
+- Mat_1:17desde la deportación...hasta C, catorceG5547
+- Mat_2:4les preguntó dónde había de nacer el CG5547
+- Mat_11:2al oir Juan...los hechos de C, le envióG5547
+- Mat_16:16tú eres el C, el Hijo del Dios vivienteG5547
+- Mat_16:20a nadie dijesen que él era Jesús el CG5547
+- Mat_22:42¿qué pensáis del C? ¿De quién es hijo?[[G5547]]
+- Mat_23:8, Mat_23:10porque uno es vuestro Maestro, el CG5547
+- Mat_24:5vendrán muchos...diciendo: Yo soy el CG5547
+- Mat_24:23si...os dijere: Mirad, aquí está el CG5547
+- Mat_24:24levantarán falsos C, y falsos profetasG5580
+- Mat_26:63digas si eres tú el C, el Hijo de DiosG5547
+- Mat_26:68profetízanos, C, quién es...te golpeóG5547
+- Mat_27:17a Barrabás, o a Jesús, llamado el CG5547
+- Mat_27:22¿qué, pues, haré de Jesús, llamado el CG5547
+- Mar_8:29¿quién...Pedro, le dijo: Tú eres el CG5547
+- Mar_9:41diere un vaso de agua...porque sois de CG5547
+- Mar_12:35¿cómo dicen...que el C es hijo de David?[[G5547]]
+- Mar_13:6vendrán muchos...diciendo: Yo soy el C
+- Mar_13:21si...os dijere: Mirad, aquí está el CG5547
+- Mar_13:22levantarán falsos C y falsos profetasG5547
+- Mar_14:61¿eres tú el C, el Hijo del Bendito?[[G5547]]
+- Mar_15:32el C, Rey de Israel, descienda ahora deG5547
+- Luc_2:11ha nacido...Salvador, que es C el SeñorG5547
+- Luc_3:15Preguntándose...si acaso Juan sería el CG5547
+- Luc_4:41no los dejaba hablar...que él era el CG5547
+- Luc_9:20respondiendo Pedro, dijo: El C de DiosG5547
+- Luc_20:41¿cómo dicen...que el C es hijo de David?[[G5547]]
+- Luc_21:8vendrán muchos...diciendo: Yo soy el C
+- Luc_22:67¿eres tú el C? Dínoslo. Y les dijo: Si osG5547
+- Luc_23:2diciendo que él mismo es el C, un reyG5547
+- Luc_23:35si éste es el C, el escogido de DiosG5547
+- Luc_23:39si tú eres el C, sálvate a ti mismo y aG5547
+- Luc_24:26¿no era necesario que el C padecieraG5547
+- Luc_24:46así fue necesario que el C padecieseG5547
+- Jua_1:20no negó, sino confesó: Yo no soy el CG5547
+- Jua_1:25¿Por qué...bautizas, si tú no eres el CG5547
+- Jua_1:41al Mesías (que traducido es, el C)[[G5547]]
+- Jua_3:28sois testigos de que dije: Yo no soy el C?[[G5547]]
+- Jua_4:25que ha de venir el Mesías, llamado el CG5547
+- Jua_4:29ved a un hombre...¿No será éste el C?[[G5547]]
+- Jua_4:42éste es el Salvador del mundo, el CG5547
+- Jua_6:69conocemos que tú eres el C, el Hijo deG5547
+- Jua_7:26¿habrán reconocido...que éste es el C?[[G5547]]
+- Jua_7:27cuando venga el C, nadie sabrá de dóndeG5547
+- Jua_7:31el C, cuando venga, ¿hará más señalesG5547
+- Jua_7:41otros decían: Este es el C. Pero algunosG5547
+- Jua_7:41decían: ¿De Galilea ha de venir el C?[[G5547]]
+- Jua_7:42de la aldea de Belén...ha de venir el C?[[G5547]]
+- Jua_10:24si tú eres el C, dínoslo abiertamenteG5547
+- Jua_11:27yo he creído que tú eres el C, el HijoG5547
+- Jua_12:34oído...que el C permanece para siempreG5547
+- Jua_20:31para que creáis que Jesús es el C, elG5547
+- Hec_2:30de su descendencia...levantaría al CG5547
+- Hec_2:31habló de la resurrección de C, que suG5547
+- Hec_2:36este Jesús...Dios le ha hecho Señor y CG5547
+- Hec_3:18sus profetas, que su C había de padecerG5547
+- Hec_4:26juntaron en uno, contra...y contra su CG5547
+- Hec_8:5Felipe, descendiendo a...les predicaba a CG5547
+- Hec_9:20seguida predicaba a C en las sinagogasG5547
+- Hec_9:22Saulo...demostrando que Jesús era el CG5547
+- Hec_17:3que era necesario que el C padeciese, yG5547
+- Hec_17:3Jesús, a quien yo os anuncio...es el CG5547
+- Hec_18:5testificando a los...que Jesús era el CG5547
+- Hec_18:28por las Escrituras que Jesús era el CG5547
+- Hec_19:4al pueblo que creyesen...en Jesús el CG5547
+- Hec_26:23el C había de padecer, y ser el primeroG5547
+- Rom_3:24mediante la redención que es en CG5547
+- Rom_5:6porque C, cuando aún éramos débiles, a suG5547
+- Rom_5:8en que siendo aun pecadores, C murió porG5547
+- Rom_6:3los que hemos sido bautizados en C JesúsG5547
+- Rom_6:4C resucitó de los muertos por la gloriaG5547
+- Rom_6:8si morimos con C, creemos que...viviremosG5547
+- Rom_6:9sabiendo que C, habiendo resucitado de losG5547
+- Rom_6:11pero vivos para Dios en C Jesús, SeñorG5547
+- Rom_6:23es vida eterna en C Jesús Señor nuestroG5547
+- Rom_7:4muerto a la ley mediante el cuerpo de CG5547
+- Rom_8:1ninguna condenación hay para...en CG5547
+- Rom_8:2la ley del Espíritu de vida en C Jesús meG5547
+- Rom_8:9no tiene el Espíritu de C, no es de élG5547
+- Rom_8:10pero si C está en vosotros, el cuerpoG5547
+- Rom_8:11el que levantó de los muertos a C JesúsG5547
+- Rom_8:17herederos de Dios y coherederos con CG5547
+- Rom_8:34C es el que murió; más aun, el queG5547
+- Rom_8:35¿quién nos separará del amor de CG5547
+- Rom_8:39separar del amor de Dios, que es en CG5547
+- Rom_9:1verdad digo en C...y mi conciencia me daG5547
+- Rom_9:3separado de C, por amor a mis hermanosG5547
+- Rom_9:5de los cuales...vino C, el cual es DiosG5547
+- Rom_10:4el fin de la ley es C, para justicia aG5547
+- Rom_10:6cielo? (esto es, para traer abajo a C)[[G5547]]
+- Rom_10:7esto es, para hacer subir a C de entreG5547
+- Rom_12:5así siendo muchos, somos un cuerpo en CG5547
+- Rom_14:9C para esto murió y resucitó, y volvióG5547
+- Rom_14:10compareceremos ante el tribunal de CG5547
+- Rom_14:15tuya se pierda aquel por quien C murióG5547
+- Rom_14:18el que en esto sirve a C, agrada a DiosG5547
+- Rom_15:3porque ni aun C se agradó a sí mismoG5547
+- Rom_15:5os dé...un mismo sentir según C JesúsG5547
+- Rom_15:7también C nos recibió, para gloria deG5547
+- Rom_15:8digo, que C Jesús vino a ser siervo deG5547
+- Rom_15:17tengo...de qué gloriarme en C Jesús enG5547
+- Rom_15:18hablar sino de lo que C ha hecho porG5547
+- Rom_15:19todo lo he llenado del evangelio de CG5547
+- Rom_15:20no donde C ya hubiese sido nombradoG5547
+- Rom_15:29con abundancia de...del evangelio de CG5547
+- Rom_16:3a Aquila, mis colaboradores en C JesúsG5547
+- Rom_16:5a Epeneto...primer fruto de Acaya para CG5547
+- Rom_16:7y que también fueron antes de mí en CG5547
+- Rom_16:9saludad a Urbano...colaborador en C JesúsG5547
+- Rom_16:10a Apeles, aprobado en C. Saludad a losG5547
+- Rom_16:16os saludan todas las iglesias de CG5547
+- 1Co_1:2está en Corinto, los santificados en CG5547
+- 1Co_1:4la gracia de Dios que os fue dada en CG5547
+- 1Co_1:6como el testimonio acerca de C ha sidoG5547
+- 1Co_1:12dice: Yo soy...y yo de Cefas; y yo de CG5547
+- 1Co_1:13está dividido C?...¿Fue crucificado PabloG5547
+- 1Co_1:17pues no me envió C a bautizar, sino aG5547
+- 1Co_1:17para que no se haga vana la cruz de CG5547
+- 1Co_1:23pero nosotros predicamos a C crucificadoG5547
+- 1Co_1:24mas para los llamados...C poder de DiosG5547
+- 1Co_1:30mas por él estáis vosotros en C JesúsG5547
+- 1Co_2:16mas nosotros tenemos la mente de CG5547
+- 1Co_3:1no pude hablaros...sino como...a niños en CG5547
+- 1Co_3:23es vuestro, y vosotros de C, y C de DiosG5547
+- 1Co_4:1téngannos los hombres por servidores de CG5547
+- 1Co_4:10amor de C, mas vosotros prudentes en CG5547
+- 1Co_4:15aunque tengáis diez mil ayos en C, noG5547
+- 1Co_4:15en C Jesús yo os engendré por medio delG5547
+- 1Co_4:17el cual os recordará mi proceder en CG5547
+- 1Co_5:7nuestra pascua...es C, ya fue sacrificadaG5547
+- 1Co_6:15que vuestros cuerpos son miembros de CG5547
+- 1Co_6:15¿quitaré, pues, los miembros de C y losG5547
+- 1Co_7:22llamado siendo libre, esclavo es de CG5547
+- 1Co_8:11se perderá el...débil por quien C murióG5547
+- 1Co_8:12contra los hermanos...contra C pecáisG5547
+- 1Co_9:12poner ningún obstáculo al evangelio de CG5547
+- 1Co_9:18gratuitamente el evangelio de C, paraG5547
+- 1Co_9:21no estando yo sin...sino bajo la ley de CG5547
+- 1Co_10:4la roca...que los seguía, y la roca era CG5547
+- 1Co_10:16¿no es la comunión de la sangre de CG5547
+- 1Co_10:16¿no es la comunión del cuerpo de CG5547
+- 1Co_11:1sed imitadores de mí, así como yo de CG5547
+- 1Co_11:3C es la cabeza...y Dios la cabeza de C?[[G5547]]
+- 1Co_12:12todos...son un solo cuerpo, así también CG5547
+- 1Co_12:27vosotros, pues, sois el cuerpo de CG5547
+- 1Co_15:3C murió por nuestros pecados, conformeG5547
+- 1Co_15:12si se predica de C que resucitó de losG5547
+- 1Co_15:13porque si no hay...tampoco C resucitóG5547
+- 1Co_15:14y si C no resucitó, vana es entoncesG5547
+- 1Co_15:15hemos testificado...que él resucitó a CG5547
+- 1Co_15:16si los...no resucitan, tampoco C resucitóG5547
+- 1Co_15:17y si C no resucitó, vuestra fe es vanaG5547
+- 1Co_15:18también...que durmieron en C perecieronG5547
+- 1Co_15:19en esta vida solamente esperamos en CG5547
+- 1Co_15:20mas ahora C ha resucitado de los muertosG5547
+- 1Co_15:22también en C todos serán vivificadosG5547
+- 1Co_15:23C, las primicias; luego los que...de CG5547
+- 1Co_16:24mi amor en C Jesús esté con...vosotrosG5547
+- 2Co_1:5en nosotros las aflicciones de C, asíG5547
+- 2Co_1:5así abunda...por el mismo C...consolaciónG5547
+- 2Co_1:21y el que nos confirma con vosotros en CG5547
+- 2Co_2:10por vosotros lo he...en presencia de CG5547
+- 2Co_2:12a Troas para predicar el evangelio de CG5547
+- 2Co_2:14nos lleva siempre en triunfo en C JesúsG5547
+- 2Co_2:15para Dios somos grato olor de C en losG5547
+- 2Co_2:17como de parte de Dios, y...hablamos en CG5547
+- 2Co_3:3siendo manifiesto que sois carta de CG5547
+- 2Co_3:4y tal confianza tenemos mediante C paraG5547
+- 2Co_3:14el mismo velo...el cual por C es quitadoG5547
+- 2Co_4:4no les resplandezca la luz...la gloria de CG5547
+- 2Co_5:10comparezcamos ante el tribunal de CG5547
+- 2Co_5:14amor de C nos constriñe, pensando estoG5547
+- 2Co_5:16y aun si a C conocimos según la carneG5547
+- 2Co_5:17si alguno está en C, nueva criatura esG5547
+- 2Co_5:18quien nos reconcilió consigo mismo por CG5547
+- 2Co_5:19Dios estaba en C reconciliando consigoG5547
+- 2Co_5:20somos embajadores en nombre de C, comoG5547
+- 2Co_5:20os rogamos en nombre de C : ReconciliaosG5547
+- 2Co_6:15¿y qué concordia C con Belial? ¿0 quéG5547
+- 2Co_8:23son mensajeros de las...y gloria de CG5547
+- 2Co_9:13por la obediencia que...al evangelio de CG5547
+- 2Co_10:1yo Pablo os ruego por la...ternura de CG5547
+- 2Co_10:5y llevando cautivo...a la obediencia a CG5547
+- 2Co_10:7está persuadido en sí mismo que es de CG5547
+- 2Co_10:7que como él es de C, así...somos de CG5547
+- 2Co_10:14en llegar hasta...con el evangelio de CG5547
+- 2Co_11:2presentaros como una virgen pura a CG5547
+- 2Co_11:3sean...extraviados de la...fidelidad a CG5547
+- 2Co_11:10por la verdad de C que está en mí, queG5547
+- 2Co_11:13que se disfrazan como apóstoles de CG5547
+- 2Co_11:23¿son ministros de C? (Como...loco habloG5547
+- 2Co_12:2conozco a un hombre en C, que hace 14G5547
+- 2Co_12:9para que repose sobre mí el poder de CG5547
+- 2Co_12:10por amor a C me gozo en...debilidadesG5547
+- 2Co_12:19delante de Dios en C hablamos; y todoG5547
+- 2Co_13:3buscáis una prueba de que habla C en míG5547
+- Gál_1:6del que os llamó por la gracia de CG5547
+- Gál_1:7y quieren pervertir el evangelio de CG5547
+- Gál_1:10agradara a...hombres, no sería siervo de CG5547
+- Gál_1:22y no era conocido...a las iglesias...en CG5547
+- Gál_2:4espiar nuestra libertad que tenemos en CG5547
+- Gál_2:16para ser justificados por la fe de C yG5547
+- Gál_2:17y si buscando ser justificados en CG5547
+- Gál_2:17¿es por eso C ministro de pecado? EnG5547
+- Gál_2:20con C estoy juntamente crucificado, y yaG5547
+- Gál_2:20no vivo yo, mas vive C en mí; y lo queG5547
+- Gál_2:21ley fuese la justicia...por demás murió CG5547
+- Gál_3:13C nos redimió de la maldición de la leyG5547
+- Gál_3:14para que en C...la bendición de AbrahamG5547
+- Gál_3:16sino como...a tu simiente, la cual es CG5547
+- Gál_3:17el pacto...ratificado por Dios para con CG5547
+- Gál_3:24la ley ha sido...ayo, para llevarnos a CG5547
+- Gál_3:26todos sois hijos de Dios por la fe en CG5547
+- Gál_3:27bautizados en C, de C estáis revestidosG5547
+- Gál_3:28todos vosotros sois uno en C JesúsG5547
+- Gál_3:29si...sois de C...linaje de Abraham soisG5547
+- Gál_4:7si hijo...heredero de Dios por medio de CG5547
+- Gál_4:14me recibisteis como a...como a C JesúsG5547
+- Gál_4:19hasta que C sea formado en vosotrosG5547
+- Gál_5:1en la libertad con que C nos hizo libresG5547
+- Gál_5:2os circuncidáis, de nada os aprovechará CG5547
+- Gál_5:4de C os desligasteis, los que por la leyG5547
+- Gál_5:6en C Jesús ni la circuncisión vale algoG5547
+- Gál_5:24los que son de C han crucificado la carneG5547
+- Gál_6:2sobrellevad los...y cumplid así la ley de CG5547
+- Gál_6:12para no padecer...a causa de la cruz de CG5547
+- Gál_6:15en C Jesús ni la circuncisión vale nadaG5547
+- Efe_1:1a los santos y fieles en C Jesús queG5547
+- Efe_1:3que nos bendijo con toda bendición...en CG5547
+- Efe_1:10de reunir todas las cosas en C, en laG5547
+- Efe_1:12los que primeramente esperábamos en CG5547
+- Efe_1:20la cual operó en C, resucitándole de losG5547
+- Efe_2:5muertos...nos dio vida juntamente con CG5547
+- Efe_2:6asimismo nos hizo sentar en...con C JesúsG5547
+- Efe_2:7su bondad para con nosotros en C JesúsG5547
+- Efe_2:10creados en C Jesús para buenas obrasG5547
+- Efe_2:12en aquel tiempo estabais sin C, alejadosG5547
+- Efe_2:13ahora en C Jesús...sido hechos cercanosG5547
+- Efe_2:13sido hechos cercanos por la sangre de CG5547
+- Efe_3:1causa yo Pablo, prisionero de C Jesús porG5547
+- Efe_3:4sea mi conocimiento en el misterio de CG5547
+- Efe_3:6y copartícipes de la promesa en C JesúsG5547
+- Efe_3:8esta gracia de anunciar...riquezas de CG5547
+- Efe_3:11al propósito eterno que hizo en C JesúsG5547
+- Efe_3:17habite C por la fe en vuestros corazonesG5547
+- Efe_3:19conocer el amor de C, que excede a todoG5547
+- Efe_3:21a él sea gloria en la iglesia en C JesúsG5547
+- Efe_4:7gracia conforme a la medida del don de CG5547
+- Efe_4:12para la edificación del cuerpo de CG5547
+- Efe_4:13la medida de la estatura...plenitud de CG5547
+- Efe_4:15en aquel que es la cabeza, esto es, CG5547
+- Efe_4:20mas vosotros no habéis aprendido así a CG5547
+- Efe_4:32como Dios también os perdonó a...en CG5547
+- Efe_5:2andad en amor, como también C nos amóG5547
+- Efe_5:5ningún...tiene herencia en el reino de CG5547
+- Efe_5:14despiértate, tú que...y te alumbrará CG5547
+- Efe_5:23así como C es cabeza de la iglesia, laG5547
+- Efe_5:24así que, como la iglesia está sujeta a CG5547
+- Efe_5:25amad a...así como C amó a la iglesia, yG5547
+- Efe_5:29y la cuida, como también C a la iglesiaG2962
+- Efe_5:32digo esto respecto de C y de la iglesiaG5547
+- Efe_6:5siervos, obedeced a vuestros...como a CG5547
+- Efe_6:6como siervos de C, de corazón haciendo laG5547
+- Flp_1:1Pablo...a todos los Santos en C JesúsG5547
+- Flp_1:10que seáis sinceros y...para el día de CG5547
+- Flp_1:13hecho patentes en C en todo el pretorioG5547
+- Flp_1:15predican a C por envidia y contiendaG5547
+- Flp_1:16los unos anuncian a C por contención, noG5547
+- Flp_1:18por pretexto o por verdad, C es anunciadoG5547
+- Flp_1:20será magnificado C en mi cuerpo, o porG5547
+- Flp_1:21porque para mí el vivir es C, y el morirG5547
+- Flp_1:23teniendo deseo de partir y estar con CG5547
+- Flp_1:26que abunde vuestra gloria de mí en CG5547
+- Flp_1:27como es digno del evangelio de C, paraG5547
+- Flp_1:29os es concedido a causa de C, no sóloG5547
+- Flp_2:1por tanto, si hay alguna consolación en CG5547
+- Flp_2:5haya...este sentir que hubo...en C JesúsG5547
+- Flp_2:16que en el día de C yo pueda gloriarmeG5547
+- Flp_2:21todos buscan, no lo que es de C JesúsG5547
+- Flp_2:30por la obra de C estuvo próximo a laG5547
+- Flp_3:3y nos gloriamos en C Jesús, no teniendoG5547
+- Flp_3:7he estimado como pérdida por amor de CG5547
+- Flp_3:8por la excelencia del conocimiento de CG5547
+- Flp_3:8y lo tengo por basura, para ganar a CG5547
+- Flp_3:9sino la que es por la fe de C, la justiciaG5547
+- Flp_3:12para lo cual fui también asido Por CG5547
+- Flp_3:14supremo llamamiento de Dios en C JesúsG5547
+- Flp_3:18digo...que son enemigos de la cruz de CG5547
+- Flp_4:7guardará...y vuestros pensamientos en CG5547
+- Flp_4:13todo lo puedo en C que me fortaleceG5547
+- Flp_4:19conforme a sus riquezas en gloria en CG5547
+- Flp_4:21saludad a todos los santos en C JesúsG5547
+- Col_1:2a los santos y fieles hermanos en CG5547
+- Col_1:4habiendo oído de vuestra fe en C JesúsG5547
+- Col_1:7Epafras...que es un fiel ministro de CG5547
+- Col_1:24de las aflicciones de C por su cuerpoG5547
+- Col_1:27es C en vosotros, la esperanza de gloriaG5547
+- Col_1:28a fin de presentar perfecto en C JesúsG5547
+- Col_2:2el misterio de Dios el Padre, y de CG5547
+- Col_2:5orden y la firmeza de vuestra fe en CG5547
+- Col_2:8los rudimentos del mundo, y no según CG5547
+- Col_2:11circuncidados, en la circuncisión de CG5547
+- Col_2:17es sombra de lo...pero el cuerpo es de CG5547
+- Col_2:20pues si habéis muerto con C en cuanto aG5547
+- Col_3:1si...habéis resucitado con C, buscad lasG5547
+- Col_3:1donde está C sentado a la diestra de DiosG5547
+- Col_3:3vuestra vida está escondida con C en DiosG5547
+- Col_3:4cuando C, vuestra vida, se manifiesteG5547
+- Col_3:11libre, sino que C es el todo, y en todosG5547
+- Col_3:13la manera que C os perdonó, así tambiénG5547
+- Col_3:16la palabra de C more en abundancia enG5547
+- Col_3:24la herencia, porque a C el Señor servísG5547
+- Col_4:3a fin de dar a conocer el misterio de CG5547
+- Col_4:12Epafras...siervo de C, siempre rogandoG5547
+- 1Ts_2:6podíamos seros carga...apóstoles de CG5547
+- 1Ts_2:14a ser imitadores de las iglesias...en CG5547
+- 1Ts_3:2colaborador nuestro en el evangelio de CG5547
+- 1Ts_4:16y los muertos en C resucitarán primeroG5547
+- 1Ts_5:18voluntad de Dios para con vosotros en CG5547
+- 2Ts_3:5Señor encamine...a la paciencia de CG5547
+- 1Ti_1:2y paz, de Dios nuestro Padre y de CG5547
+- 1Ti_1:12doy gracias al...a C Jesús nuestro SeñorG5547
+- 1Ti_1:14con la fe y el amor que es en C JesúsG5547
+- 1Ti_1:15que C Jesús vino al mundo para salvar aG5547
+- 1Ti_2:7y apóstol (digo verdad en C, no miento)[[G5547]]
+- 1Ti_3:13confianza en la fe que es en C JesúsG5547
+- 1Ti_5:11se rebelan contra C, quieren casarseG5547
+- 2Ti_1:1promesa de la vida que es en C JesúsG5547
+- 2Ti_1:9y la gracia que nos fue dada en C JesúsG5547
+- 2Ti_1:13retén...en la fe y amor que es en C JesúsG5547
+- 2Ti_2:1tú...esfuérzate en la gracia que es en CG5547
+- 2Ti_2:10que...obtengan la salvación que es en C?[[G5547]]
+- 2Ti_2:19todo aquel que invoca el nombre de CG5547
+- 2Ti_3:12quieren vivir piadosamente en C JesúsG5547
+- 2Ti_3:15para la salvación por la fe que es en CG5547
+- Flm_1:6el bien que está en vosotros por C JesúsG5547
+- Flm_1:8tengo mucha libertad en C para mandarte loG5547
+- Flm_1:23Epafras, mi compañero de prisiones por CG5547
+- Heb_3:1al apóstol y...de nuestra profesión, CG5547
+- Heb_3:6pero C como hijo sobre su casa, la cualG5547
+- Heb_3:14porque somos hechos participantes de CG5547
+- Heb_5:5así tampoco C se glorificó a sí mismoG5547
+- Heb_5:7y C, en los días de su carne, ofreciendoG5547
+- Heb_6:1dejando...rudimentos de la doctrina de CG5547
+- Heb_9:11estando ya presente C, sumo sacerdote deG5547
+- Heb_9:14¿cuánto más la sangre de C, el cualG5547
+- Heb_9:24no entró C en el santuario hecho de manoG5547
+- Heb_9:28C fue ofrecido una sola vez para llevarG5547
+- Heb_10:12C, habiendo ofrecido una vez...un soloG846
+- Heb_11:26por mayores riquezas el vituperio de CG5547
+- 1Pe_1:11indicaba el Espíritu de C que estabaG5547
+- 1Pe_1:11el cual anunciaba...los sufrimientos de CG5547
+- 1Pe_1:19sino con la sangre preciosa de C, comoG5547
+- 1Pe_2:21porque también C padeció por nosotrosG5547
+- 1Pe_3:16calumnian vuestra buena conducta en CG5547
+- 1Pe_3:18C padeció una sola vez por los pecadosG5547
+- 1Pe_4:1C ha padecido por nosotros en la carneG5547
+- 1Pe_4:13participantes de los padecimientos de CG5547
+- 1Pe_4:14si sois vituperados por el nombre de CG5547
+- 1Pe_5:1y testigo de los padecimientos de C, queG5547
+- 1Jn_2:22sino el que niega que Jesús es el CG5547
+- 1Jn_5:1todo aquel que cree que Jesús es el C...esG5547
+- 2Jn_1:9y no persevera en la doctrina de C, noG5547
+- 2Jn_1:9el que persevera en la doctrina de C, éseG5547
+- Rev_11:15reinos...de nuestro Señor y de su CG5547
+- Rev_12:10ha venido la...y la autoridad de su C?[[G5547]]
+- Rev_20:4y vivieron y reinaron con C mil añosG5547
+- Rev_20:6sino que serán sacerdotes de Dios y de C?[[G5547]]

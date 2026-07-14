@@ -1,0 +1,88 @@
+---
+tipo: concordancia
+palabra: CONFIRMAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CONFIRMAR
+
+- Gén_17:19y confirmaré mi pacto con él comoH6965
+- Gén_26:3y confirmaré el juramento que hice aH6965
+- Núm_30:13su marido lo confirmará, o su maridoH6965
+- Núm_30:14callare...confirmó todos sus votos, yH6965
+- Núm_30:14los confirmó, por cuanto calló a elloH6965
+- Deu_8:18a fin de confirmar su pacto que juróH6965
+- Deu_9:5confirmar la palabra que Jehová juró aH6965
+- Deu_27:26maldito...no confirmare las palabras deH6965
+- Deu_28:9te confirmará Jehová por pueblo santoH6965
+- Deu_29:13para confirmarte hoy como su puebloH6965
+- 1Sa_13:13Jehová hubiera confirmado tu reinoH3559
+- 2Sa_3:10confirmando el trono de David sobreH6965
+- 2Sa_5:12que Jehová le había confirmado por reyH3559
+- 2Sa_7:25confirma para siempre la palabra que hasH6965
+- 1Re_2:4para que confirme Jehová la palabraH6965
+- 1Re_2:24vive Jehová, quien me ha confirmado yH3559
+- 1Re_2:46el reino fue confirmado en la mano deH3559
+- 1Re_12:15para confirmar la palabra que JehováH6965
+- 2Re_15:19le ayudara a confirmarse en el reinoH2388
+- 2Re_23:3y todo el pueblo confirmó el pactoH6965
+- 1Cr_14:2Jehová lo había confirmado como reyH3559
+- 1Cr_16:17el cual confirmó a Jacob por estatutoH5975
+- 1Cr_17:12y yo confirmaré su trono eternamenteH3559
+- 1Cr_17:14sino que lo confirmaré en mi casa yH3559
+- 1Cr_28:7confirmaré su reino para siempre, si élH3559
+- 2Cr_1:9confírmese...Jehová Dios, tu palabraH539
+- 2Cr_7:18yo confirmaré el trono de tu reino, comoH6965
+- 2Cr_11:17confirmaron a Roboam hijo de SalomónH553
+- 2Cr_17:5Jehová...confirmó el reino en su manoH3559
+- 2Cr_25:3y luego que fue confirmado en el reinoH2388
+- 2Cr_35:2y los confirmó en el ministerio de laH2388
+- Est_9:31para confirmar estos días de PurimH6965
+- Est_9:32el mandamiento de Ester confirmó estasH6965
+- Sal_68:28confirma, oh Dios, lo que has hechoH5810
+- Sal_89:4para siempre confirmaré tu descendenciaH3559
+- Sal_90:17(2)la obra de nuestras manos confirmaH3559
+- Sal_99:4tú confirmas la rectitud; tú has hechoH3559
+- Sal_119:38confirma tu palabra a tu siervo, queH6965
+- Isa_2:2será confirmado el monte de la casa deH3559
+- Isa_9:7y confirmándolo en juicio y en justiciaH5582
+- Isa_14:24será confirmado como lo he determinadoH6965
+- Jer_11:5que confirme el juramento que hiceH6965
+- Jer_28:6confirme Jehová tus palabras, con lasH6965
+- Jer_30:20y su congregación...será confirmadaH3559
+- Jer_33:14yo confirmaré la buena palabra que heH6965
+- Jer_44:25confirmáis a la verdad vuestros votosH6965
+- Jer_51:29es confirmado contra Babilonia todo elH6965
+- Eze_13:6esperan que él confirme la palabra deH6965
+- Eze_16:62por mi pacto que yo confirmaré contigoH6965
+- Dan_6:7promulgues un edicto...y lo confirmesH6966
+- Dan_6:8rey, confirma el edicto y fírmalo, paraH6966
+- Dan_6:12¿no has confirmado edicto que cualquieraH7560
+- Dan_6:13no acata el edicto que confirmaste, sinoH7560
+- Dan_6:15que ningún edicto...que el rey confirmeH6966
+- Dan_9:27y por otra semana confirmad el pactoH1396
+- Miq_7:3el grande habla el antojo...lo confirmanH5686
+- Mar_16:20confirmando la palabra con...señalesG950
+- Luc_22:32tú...vuelto, confirma a tus hermanosG4741
+- Hec_3:16le ha confirmado su nombre; y la feG4732
+- Hec_14:22confirmando los ánimos de...discípulosG1991
+- Hec_15:32Judas...confirmaron a los hermanos conG1991
+- Hec_15:41pasó por...confirmando a las iglesiasG1991
+- Hec_16:5las iglesias eran confirmadas en la feG4732
+- Hec_18:23confirmando a todos los discípulosG1991
+- Hec_24:9los judíos...confirmaban, diciendo ser asíG4934
+- Rom_1:11veros...a fin de que seáis confirmadosG4741
+- Rom_3:31en ninguna manera...confirmamos la leyG2476
+- Rom_15:8para confirmar las promesas hechas a losG950
+- Rom_16:25puede confirmaros según mi evangelioG4741
+- 1Co_1:6el testimonio...ha sido confirmado enG950
+- 1Co_1:8el cual...os confirmará hasta el fin, paraG950
+- 2Co_1:21el que nos confirma con vosotros enG950
+- 2Co_2:8ruego que confirméis el amor para con élG2964
+- Col_2:7arraigados y...y confirmados en la feG950
+- 1Ts_3:2confirmaros...respecto a vuestra feG4741
+- 2Ts_2:17y os confirme en toda buena palabraG4741
+- Heb_2:3nos fue confirmada por los que oyeronG950
+- Heb_9:17testamento con la muerte se confirmaG949
+- 2Pe_1:12y estéis confirmados en la verdadG4741

@@ -1,0 +1,265 @@
+---
+tipo: concordancia
+palabra: ENSEÑAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ENSEÑAR
+
+- Gén_3:11¿quién te enseñó que estabas desnudo?[[H5046]]
+- Éxo_4:12y te enseñaré lo que hayas de hablarH3384
+- Éxo_4:15yo...os enseñaré lo que hayáis de hacerH3384
+- Éxo_18:20y enseña a ellos las ordenanzas y lasH2094
+- Éxo_24:12la ley, y mandamientos...para enseñarlesH3384
+- Éxo_35:34ha puesto en su...el que pueda enseñarH3384
+- Lev_10:11enseñar a los hijos de...los estatutosH3384
+- Lev_14:57para enseñar cuándo es inmundo...limpioH3384
+- Deu_4:1Israel, oye los estatutos...os enseñoH3925
+- Deu_4:5yo os he enseñado estatutos y decretosH3925
+- Deu_4:9enseñarás a tus hijos, y a los hijos deH3045
+- Deu_4:10les haga oír...las enseñarán a sus hijosH3925
+- Deu_4:14me mandó...que os enseñase los estatutosH3925
+- Deu_4:36cielos te hizo oír su voz, para enseñarteH3256
+- Deu_5:31les enseñarás, a fin de que los ponganH3925
+- Deu_6:1que Jehová...Dios mandó que os enseñaseH3925
+- Deu_11:19enseñaréis a vuestros hijos, hablandoH3925
+- Deu_17:9y ellos te enseñarán la sentencia delH5046
+- Deu_17:11según la ley que te enseñen, y seguidH3384
+- Deu_20:18para que no os enseñen a hacer segúnH3925
+- Deu_24:8todo lo que os enseñaren los sacerdotesH3384
+- Deu_31:19escribíos este cántico, y enséñalo aH3925
+- Deu_31:22Moisés...enseñó a los hijos de IsraelH3925
+- Deu_33:10enseñarán tus juicios a Jacob, y tu leyH3384
+- Jue_3:2para que la enseñasen a los que antesH3925
+- Jue_13:8nos enseñe lo que hayamos de hacer conH3384
+- 1Sa_9:18que me enseñes dónde está la casa delH5046
+- 1Sa_10:8hasta que yo venga a ti y te enseñe loH3045
+- 1Sa_16:3y yo te enseñaré lo que has de hacerH3045
+- 2Sa_1:18debía enseñarse a los hijos de JudáH3925
+- 1Re_8:36enseñándoles el buen camino en queH3384
+- 2Re_17:27les enseñe la ley del Dios del paísH3384
+- 2Re_17:28enseñó cómo habían de temer a JehováH3384
+- 2Cr_6:27les enseñarás el buen camino paraH3384
+- 2Cr_15:3Israel...sin sacerdote que enseñara, yH3384
+- 2Cr_17:7que enseñasen en las ciudades de JudáH3925
+- 2Cr_17:9enseñaron en Judá...el libro de la leyH3925
+- 2Cr_17:9recorrieron...Judá enseñando al puebloH3925
+- 2Cr_35:3dijo a los levitas que enseñaban a todoH4000
+- Esd_7:10para enseñar en Israel sus estatutosH3925
+- Esd_7:25y al que no las conoce, le enseñarásH3046
+- Neh_8:12las palabras que les habían enseñadoH3045
+- Neh_9:20y enviaste tu Espíritu para enseñarlesH7919
+- Job_4:3enseñabas a muchos, y fortalecías lasH3256
+- Job_6:24enseñadme, y...callaré; hacedme entenderH3384
+- Job_8:10¿no te enseñarán ellos, te hablarán, yH3384
+- Job_12:7pregunta ahora a...y ellas te enseñaranH3384
+- Job_12:8habla a la tierra, y ella te enseñaráH3384
+- Job_21:22¿enseñará alguien a Dios sabiduríaH3925
+- Job_27:11os enseñaré en cuanto a la mano de DiosH3384
+- Job_33:33si no...calla, y te enseñaré sabiduríaH502
+- Job_34:32enséñame tú lo que yo no veo; si hiceH3384
+- Job_35:11nos enseña más que a las bestias de laH502
+- Job_36:2espérame un poco, y te enseñaré; porqueH2331
+- Job_42:4ruego...te preguntaré, y tú me enseñarásH3045
+- Sal_16:7en las noches me enseña mi concienciaH3256
+- Sal_25:4Jehová, tus caminos; enséñame tus sendasH3925
+- Sal_25:5encamíname en tu verdad, y enséñameH3925
+- Sal_25:8él enseñará a los pecadores el caminoH3384
+- Sal_25:9y enseñará a los mansos su carreraH3925
+- Sal_25:12le enseñará el camino que ha de escogerH3384
+- Sal_27:11enséñame, oh Jehová...camino, y guíameH3384
+- Sal_32:8te enseñaré el camino en que debes andarH3384
+- Sal_34:11oidme; el temor de Jehová os enseñaréH3925
+- Sal_45:4tu diestra te enseñará cosas terriblesH3384
+- Sal_51:13entonces enseñaré a los transgresoresH3925
+- Sal 60 tít.Mictam de David, para enseñar, cuandoH3925
+- Sal_71:17Dios, me enseñaste desde mi juventudH3925
+- Sal_86:11enséñame...Jehová, tu camino; caminaréH3384
+- Sal_90:12enséñanos...modo a contar nuestros díasH3045
+- Sal_94:10¿no sabrá el que enseña al hombre laH3925
+- Sal_105:22y a sus ancianos enseñara sabiduría
+- Sal_119:12bendito tú, oh...enséñame tus estatutosH3925
+- Sal_119:26has respondido; enséñame tus estatutosH3925
+- Sal_119:33enséñame...el camino de tus estatutosH3384
+- Sal_119:64misericordia...enséñame tus estatutosH3925
+- Sal_119:66enséñame buen sentido y sabiduríaH3925
+- Sal_119:68bueno eres tú...enséñame tus estatutosH3925
+- Sal_119:102no me aparté de tus...tú me enseñasteH3384
+- Sal_119:108te ruego...y me enseñes tus juiciosH3925
+- Sal_119:124tu siervo...y enséñame tus estatutosH3925
+- Sal_119:135tu rostro...y enséñame tus estatutosH3925
+- Sal_119:171cuando me enseñes tus estatutosH3925
+- Sal_132:12y mi testimonio que yo les enseñaréH3925
+- Sal_143:10enséñame a hacer tu voluntad, porqueH3925
+- Pro_4:4él me enseñaba, y me decía: Retenga tuH3384
+- Pro_5:13los que me enseñaban no incliné mi oídoH3925
+- Pro_9:9enseña al justo, y aumentará su saberH3045
+- Pro_31:1la profecía con que le enseñó su madreH3256
+- Ecl_6:12¿quién enseñará al hombre qué seráH5046
+- Ecl_8:7y el cuándo...ser, ¿quién se lo enseñará?[[H5046]]
+- Ecl_12:9cuanto más sabio...más enseñó sabiduríaH3925
+- Cnt_8:2tú me enseñarías, y yo te haría beberH3925
+- Isa_2:3subamos al...nos enseñará sus caminosH3384
+- Isa_8:11enseñó que no caminase por el camino deH3256
+- Isa_9:15profeta que enseña mentira, es la colaH3384
+- Isa_28:9¿a quién se enseñará ciencia, o a quiénH3384
+- Isa_28:26Dios le instruye, y le enseña lo rectoH3384
+- Isa_29:13mandamiento...que les ha sido enseñadoH3925
+- Isa_40:13quién enseñó...le aconsejó enseñándole?[[H3045]]
+- Isa_40:14¿quién le enseñó el camino...e cienciaH3925
+- Isa_40:21¿no habéis sido enseñados desde que laH5046
+- Isa_41:26cierto, no hay quien anuncie...enseñeH5046
+- Isa_41:27yo soy el primero que he enseñado estas
+- Isa_48:17yo soy Jehová Dios tuyo, que te enseñaH3925
+- Isa_54:13tus hijos serán enseñados por JehováH3928
+- Jer_2:33a las malvadas enseñaste tus caminosH3925
+- Jer_9:14baales, según les enseñaron sus padresH3925
+- Jer_9:20enseñad endechas a vuestras hijas, yH3925
+- Jer_12:16enseñaron a mi pueblo a jurar por BaalH3925
+- Jer_13:21aquellos a quienes tú enseñaste a serH3925
+- Jer_16:21enseñaré esta vez, les haré conocer miH3045
+- Jer_31:34no enseñará más ninguno a su prójimoH3925
+- Jer_32:33cuando los enseñaba desde temprano yH3925
+- Jer_33:3te enseñaré cosas grandes y ocultas queH5046
+- Jer_42:3tu Dios nos enseñe el camino por dondeH5046
+- Jer_42:4y todo lo que...respondiere, os enseñaréH5046
+- Eze_24:19¿no nos enseñarás qué significan paraH5046
+- Eze_37:18nos enseñarás qué te propones con eso?[[H5046]]
+- Eze_44:23enseñarán...a hacer diferencia entre loH3384
+- Eze_44:23y les enseñarán a discernir entre loH3384
+- Dan_1:4enseñados en toda sabiduría, sabios enH3925
+- Dan_1:4que les enseñase las letras y la lenguaH3925
+- Dan_8:16dijo: Gabriel, enseña a éste la visiónH995
+- Dan_8:19te enseñaré lo que ha de venir al fin deH3045
+- Dan_9:23yo he venido para enseñártela, porque túH5046
+- Dan_12:3los que enseñan la justicia a la multitud
+- Ose_7:15yo los enseñé y fortalecí sus brazosH3256
+- Ose_10:12hasta que venga y os enseñe justiciaH3384
+- Ose_11:3yo con...enseñaba a andar al mismo EfraínH8637
+- Amó_7:7me enseñó así: He aquí el Señor estabaH7200
+- Miq_3:11sus sacerdotes enseñan por precio, yH3384
+- Miq_4:2subamos...y nos enseñará en sus caminosH3384
+- Hab_2:18¿la estatua de...que enseña mentiraH3384
+- Hab_2:19¿podrá él enseñar? He aquí está cubiertoH3384
+- Zac_1:9dijo...Yo te enseñaré lo que son estosH7200
+- Mat_3:7os enseñó a huir de la ira venidera?[[G5263]]
+- Mat_4:23enseñando en las sinagogas de ellos, yG1321
+- Mat_5:2abriendo su boca les enseñaba, diciendoG1321
+- Mat_5:19quebrante...y así enseñe a los hombresG1321
+- Mat_5:19mas cualquiera que los haga y los enseñeG1321
+- Mat_7:29enseñaba como quien tiene autoridad, yG2258, [[G1321]]
+- Mat_9:35recorría...enseñando en las sinagogas deG1321
+- Mat_11:1se fue de allí a enseñar y a predicar enG1321
+- Mat_13:54les enseñaba en la sinagoga de ellosG1321
+- Mat_15:9enseñando como doctrinas mandamientosG1321
+- Mat_21:23se acercaron a él mientras enseñabaG1321
+- Mat_22:16enseñas con verdad el camino de DiosG1321
+- Mat_26:55me sentaba...enseñando en el templo, yG1321
+- Mat_28:20enseñándoles...guarden todas las cosasG1321
+- Mar_1:21entrando en la sinagoga, enseñabaG1321
+- Mar_1:22enseñaba como quien tiene autoridad, yG1321
+- Mar_2:13toda la gente venía a él, y les enseñabaG1321
+- Mar_4:1comenzó Jesús a enseñar junto al mar, yG1321
+- Mar_4:2les enseñaba por parábolas muchas cosasG1321
+- Mar_6:2reposo, comenzó a enseñar en la sinagogaG1321
+- Mar_6:6recorría...aldeas de alrededor, enseñandoG1321
+- Mar_6:30contaron todo...y lo que habían enseñadoG1321
+- Mar_6:34vio...y comenzó a enseñarles muchas cosasG1321
+- Mar_7:7enseñando como doctrinas mandamientos deG1321
+- Mar_8:31enseñarles que le era necesario al HijoG1321
+- Mar_9:31enseñaba a sus discípulos, y les decíaG1321
+- Mar_10:1él, y de nuevo les enseñaba como solíaG1321
+- Mar_11:17les enseñaba, diciendo: ¿No está escritoG1321
+- Mar_12:14con verdad enseñas el camino de DiosG1321
+- Mar_12:35enseñando Jesús en el templo, decíaG1321
+- Mar_14:49con vosotros enseñando en el templo, yG1321
+- Luc_1:2como nos lo enseñaron los que desde elG3860
+- Luc_3:7os enseño a huir de la ira venidera?[[G5263]]
+- Luc_4:15enseñaba en las sinagogas de ellos, yG1321
+- Luc_4:31y les enseñaba en los días de reposoG2258, [[G1321]]
+- Luc_5:3enseñaba desde la barca a la multitudG1321
+- Luc_5:17él estaba enseñando, y estaban sentadosG1321
+- Luc_6:6que él entró en la sinagoga y enseñabaG1321
+- Luc_11:1enséñanos a orar, como...Juan enseñó aG1321
+- Luc_12:5pero os enseñaré a quién debéis temerG5263
+- Luc_12:12enseñará en...hora lo que debáis decirG1321
+- Luc_13:10enseñaba Jesús en una sinagoga en elG1321
+- Luc_13:22pasaba Jesús por...y aldeas, enseñandoG1321
+- Luc_13:26bebido, y en nuestras plazas enseñasteG1321
+- Luc_19:47enseñaba cada día en el templo; peroG2258, [[G1321]]
+- Luc_20:1enseñando Jesús al pueblo en el temploG1321
+- Luc_20:21sabemos que dices y enseñas rectamenteG1321
+- Luc_20:21enseñas el camino de Dios con verdadG1321
+- Luc_20:37aun Moisés lo enseñó en el pasaje deG3377
+- Luc_21:37y enseñaba de día en el templo; y deG1321
+- Luc_23:5enseñando por toda Judea, comenzandoG1321
+- Jua_6:45serán todos enseñados por Dios. AsíG1318
+- Jua_6:59cosas dijo en...enseñando en CapernaumG1321
+- Jua_7:14mas...subió Jesús al templo, y enseñabaG1321
+- Jua_7:28enseñando en el templo, alzó la voz yG1321
+- Jua_7:35¿se irá a los...enseñará a los griegos?[[G1321]]
+- Jua_8:2vino a él; y sentado él, les enseñabaG1321
+- Jua_8:20habló Jesús en...enseñando en el temploG1321
+- Jua_8:28que según me enseñó el Padre, así habloG1321
+- Jua_9:34nos enseñas a nosotros? Y le expulsaronG1321
+- Jua_14:26él os enseñará todas las cosas, y osG1321
+- Jua_18:20siempre he enseñado en la sinagoga yG1321
+- Hec_1:1que Jesús comenzó a hacer y a enseñarG1321
+- Hec_4:2resentidos de que enseñasen al pueblo, yG1321
+- Hec_4:18que...ni enseñasen en el nombre de JesúsG1321
+- Hec_5:21entraron de mañana en el...y enseñabanG1321
+- Hec_5:25los varones...en el templo, y enseñanG1321
+- Hec_5:28¿no os mandamos...que no enseñaseis enG1321
+- Hec_5:42casas, no cesaban de enseñar y predicarG1321
+- Hec_7:22enseñado Moisés en toda la sabiduría deG3811
+- Hec_8:31cómo podré, si alguno no me enseñare?[[G3594]]
+- Hec_11:26congregaron...enseñaron a mucha genteG1321
+- Hec_15:1algunos que...enseñaban a los hermanosG1321
+- Hec_15:35Pablo...enseñando la palabra del SeñorG1321
+- Hec_16:21y enseñan costumbres que no...es lícitoG2605
+- Hec_18:11año...enseñándoles la palabra de DiosG1321
+- Hec_18:25y enseñaba...lo concerniente al SeñorG1321
+- Hec_20:7Pablo les enseñaba, habiendo de salirG1256
+- Hec_20:20nada...fuese útil he rehuido...enseñarosG1321
+- Hec_20:35os he enseñado que, trabajando así, seG5263
+- Hec_21:21que enseñas a...a apostatar de MoisésG1321
+- Hec_21:28este es el hombre que...enseña a todosG1321
+- Hec_28:31enseñando acerca del Señor JesucristoG1321
+- Rom_2:21enseñas a otro, ¿no te e a ti mismo?[[G1321]]
+- Rom_12:7o si...o el que enseña, en la enseñanzaG1321
+- 1Co_2:13hablamos, no con palabras enseñadasG1318
+- 1Co_2:13sino con las que enseña el EspírituG1318
+- 1Co_4:17de la manera que enseño en todas partesG1321
+- 1Co_11:14os enseña que al varón le es deshonrosoG1321
+- 1Co_11:23recibí...lo que también os he enseñadoG3860
+- 1Co_14:19cinco palabras...para enseñar...a otrosG2727
+- 1Co_15:3os he enseñado lo que asimismo recibíG3860
+- Gál_6:6el que es enseñado en la palabra, hagaG2727
+- Efe_4:21oído, y habéis sido por él enseñadosG1321
+- Flp_4:12en todo y por todo estoy enseñado asíG3453
+- Col_1:28enseñando a todo hombre en...sabiduríaG1321
+- Col_2:7confirmados...como habéis sido enseñadosG1321
+- Col_3:16enseñándoos...unos a otros en...sabiduríaG1321
+- 1Ti_1:3mandases a...que no enseñen diferenteG2085
+- 1Ti_2:12porque no permito a la mujer enseñar, niG1321
+- 1Ti_3:2decoroso, hospedador, apto para enseñarG1317
+- 1Ti_4:6si esto enseñas a los hermanos, serásG5294
+- 1Ti_4:11esto manda y enseñaG1321
+- 1Ti_5:17los que trabajan en predicar y enseñarG1319
+- 1Ti_6:2su buen servicio. Esto enseña y exhortaG1321
+- 1Ti_6:3si alguno enseña otra cosa, y no seG2085
+- 2Ti_2:2sean idóneos para enseñar...a otrosG1321
+- 2Ti_2:24amable...apto para enseñar, sufridoG1317
+- 2Ti_3:16útil para enseñar, para redargüir, paraG1319
+- Tit_1:9la palabra...tal como ha sido enseñadaG1322
+- Tit_1:11enseñando por ganancia deshonesta lo queG1321
+- Tit_2:4enseñen a las mujeres jóvenes a amar aG4994
+- Tit_2:12enseñándoos...renunciando a la impiedadG3811
+- Heb_5:12os vuelva a enseñar...los rudimentosG1321
+- Heb_8:11y ninguno enseñará a su prójimo, niG1321
+- 1Jn_2:27no tenéis necesidad de...os enseñeG1321
+- 1Jn_2:27unción misma os enseña todas las cosasG1321
+- 1Jn_2:27no es mentira, según ella os ha enseñadoG1321
+- Rev_2:14que enseñaba a Balac a poner tropiezoG1321
+- Rev_2:20esa mujer Jezabel...enseñe y seduzca aG1321

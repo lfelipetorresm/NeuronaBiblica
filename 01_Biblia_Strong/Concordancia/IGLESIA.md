@@ -1,0 +1,111 @@
+---
+tipo: concordancia
+palabra: IGLESIA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# IGLESIA
+
+- Mat_16:18eres...y sobre esta roca edificaré mi iG1577
+- Mat_18:17la i; y si no oyere a la i, tenle porG1577
+- Hec_2:47el Señor añadía cada día a la i losG1577
+- Hec_5:11temor sobre toda la i, y sobre todos losG1577
+- Hec_8:1día hubo una gran persecución contra la IG1577
+- Hec_8:3Saulo asolaba la i, y entrando casa porG1577
+- Hec_9:31las i tenían paz por toda Judea, GalileaG1577
+- Hec_11:22llegó...a oídos de la i que estaba enG1577
+- Hec_11:26se congregaron allí...un año con la iG1577
+- Hec_12:1Herodes echó mano a algunos de la i paraG1577
+- Hec_12:5pero la i hacía sin cesar oración a DiosG1577
+- Hec_13:1había...en la i que estaba en AntioquíaG1577
+- Hec_14:23y constituyeron ancianos en cada i, yG1577
+- Hec_14:27llegado, y reunido a la i, refirieronG1577
+- Hec_15:3ellos...habiendo sido encaminados por la iG1577
+- Hec_15:4llegados a...fueron recibidos por la iG1577
+- Hec_15:22pareció bien a...la i, elegir de entreG1577
+- Hec_15:41pasó por Siria y...confirmando a las iG1577
+- Hec_16:5así que las i eran confirmadas en la feG1577
+- Hec_18:22Cesarea, subió para saludar a la i, yG1577
+- Hec_20:17hizo llamar a los ancianos de la iG1577
+- Hec_20:28para apacentar la i del Señor, la cualG1577
+- Rom_16:1Febe, la cual es diaconisa de la i enG1577
+- Rom_16:4sino también todas las i de los gentilesG1577
+- Rom_16:5saludad también a la i de su casaG1577
+- Rom_16:16os saludan todas las i de CristoG1577
+- Rom_16:23saluda Gayo, hospedador mío y de...la iG1577
+- 1Co_1:2a la i de Dios que está en CorintoG1577
+- 1Co_4:17de la manera que enseño...en todas las iG1577
+- 1Co_6:4a los que son de menor estima en la i?[[G1577]]
+- 1Co_7:17así haga; esto ordeno en todas las iG1577
+- 1Co_10:32no seáis tropiezo ni...ni a la i de DiosG1577
+- 1Co_11:16no tenemos tal costumbre, ni las i deG1577
+- 1Co_11:18cuando os reunís como i, oigo que hayG1577
+- 1Co_11:22pues qué...¿0 menospreciáis la i de DiosG1577
+- 1Co_12:28y a unos puso Dios en la i...apóstolesG1577
+- 1Co_14:4pero el que profetiza, edifica a la iG1577
+- 1Co_14:5que las interprete para que la i recibaG1577
+- 1Co_14:12abundar en...para edificación de la iG1577
+- 1Co_14:19en la i prefiero hablar cinco palabrasG1577
+- 1Co_14:23si...toda la i se reúne en un solo lugarG1577
+- 1Co_14:28y si no hay intérprete, calle en la iG1577
+- 1Co_14:33como en todas las i de los santosG1577
+- 1Co_15:9no soy digno...perseguí a la i de DiosG1577
+- 1Co_16:1la manera que ordené en las i de GalaciaG1577
+- 1Co_16:19las i de Asia os saludan. Aquila yG1577
+- 1Co_16:19Priscila, con la i que está en su casaG1577
+- 2Co_1:1a la i de Dios que está en CorintoG1577
+- 2Co_8:1la gracia de Dios que se ha dado a las iG1577
+- 2Co_8:18cuya alabanza...se oye por todas las iG1577
+- 2Co_8:19designado por las i como compañero deG1577
+- 2Co_8:23son mensajeros de las i, y gloria deG1577
+- 2Co_8:24mostrad, pues...ante las i la prueba deG1577
+- 2Co_11:8despojado a otras i, recibiendo salarioG1577
+- 2Co_11:28día, la preocupación por todas las iG1577
+- 2Co_12:13¿en qué habéis sido menos que las...iG1577
+- Gál_1:2hermanos...conmigo, a las i de GalaciaG1577
+- Gál_1:13perseguía sobremanera a la i de DiosG1577
+- Gál_1:22no era conocido...a las i de Judea, queG1577
+- Efe_1:22cabeza sobre todas las cosas a la iG1577
+- Efe_3:10sea...dada a conocer por medio de la iG1577
+- Efe_3:21él sea gloria en la i en Cristo JesúsG1577
+- Efe_5:23como Cristo es cabeza de la i, la cualG1577
+- Efe_5:24así que, como la i está sujeta a CristoG1577
+- Efe_5:25amad...así como Cristo amó a la i, y seG1577
+- Efe_5:27una i gloriosa, que no tuviese manchaG1577
+- Efe_5:29y la cuida, como también Cristo a la iG1577
+- Efe_5:32digo esto respecto de Cristo y de la iG1577
+- Flp_3:6cuanto a celo, perseguidor de la iG1577
+- Flp_4:15ninguna i participó conmigo en razón deG1577
+- Col_1:18es la cabeza del cuerpo que es la iG1577
+- Col_1:24de las aflicciones...por su cuerpo...la iG1577
+- Col_4:15saludad...a Ninfas y a la i que está enG1577
+- Col_4:16haced que también se lea en la i de losG1577
+- 1Ts_1:1Pablo...a la i de los tesalonicensesG1577
+- 1Ts_2:14imitadores de las i de Dios en CristoG1577
+- 2Ts_1:1Pablo...a la i de los tesalonicensesG1577
+- 2Ts_1:4nos gloriamos de vosotros en las i de DiosG1577
+- 1Ti_3:5casa, ¿cómo cuidará de la i de Dios?[[G1577]]
+- 1Ti_3:15la casa...que es la i del Dios vivienteG1577
+- 1Ti_5:16no sea gravada la i, a fin de que hayaG1577
+- Flm_1:2Arquipo...y a la i que está en tu casaG1577
+- Stg_5:14llame a los ancianos de la i, y orenG1577
+- 1Pe_5:13i que está en Babilonia...os saludanG1577
+- 3Jn_1:6dado ante la i testimonio de tu amorG1577
+- 3Jn_1:9yo he escrito a la i; pero Diótrefes, alG1577
+- 3Jn_1:10se lo prohibe, y los expulsa de la iG1577
+- Rev_1:4Juan, a las siete i que están en AsiaG1577
+- Rev_1:11envíalo a las siete i que están en AsiaG1577
+- Rev_1:20estrellas son los ángeles de las siete iG1577
+- Rev_1:20y los siete candeleros...son las siete iG1577
+- Rev_2:1escribe al ángel de la i en Efeso: El queG1577
+- Rev_2:7, Rev_2:11, Rev_2:17, Rev_2:29lo que el Espíritu dice a las iG1577
+- Rev_2:8escribe al ángel de la i en Esmirna: ElG1577
+- Rev_2:12escribe al ángel de la i en Pérgamo: ElG1577
+- Rev_2:18escribe al ángel de la i en Tiatira: ElG1577
+- Rev_2:23y todas las i sabrán que yo soy el queG1577
+- Rev_3:1escribe al ángel de la i en Sardis: El queG1577
+- Rev_3:6, Rev_3:13, Rev_3:22lo que el Espíritu dice a las iG1577
+- Rev_3:7escribe al ángel de la i en FiladelfiaG1577
+- Rev_3:14y escribe al ángel de la i en LaodiceaG1577
+- Rev_22:16ángel para daros testimonio...en las iG1577

@@ -1,0 +1,98 @@
+---
+tipo: concordancia
+palabra: CERRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# CERRAR
+
+- Gén_2:21tomó una...y cerró la carne en su lugarH5462
+- Gén_7:16vinieron...y Jehová le cerró la puertaH5462
+- Gén_8:2se cerraron las fuentes del abismo y lasH5534
+- Gén_19:6salió a...a la puerta, y cerró la puertaH5462
+- Gén_19:10metieron a Lot en...y cerraron la puertaH5462
+- Gén_20:18Jehová había cerrado...toda matriz de laH6113
+- Gén_46:4y la mano de José cerrará tus ojos
+- Lev_14:38saldrá de...cerrará la casa por 7 díasH5462
+- Lev_14:46entrare en...días en que la mandó cerrarH5462
+- Lev_20:4cerrare sus ojos respecto de aquel varónH5956
+- Deu_11:17y cierre los cielos, y no haya lluviaH6113
+- Deu_15:7ni cerrarás tu mano contra tu hermanoH7092
+- Jos_2:5se iba a cerrar la puerta...se salieronH5462
+- Jos_2:7puerta fue cerrada después que salieronH5462
+- Jos_6:1Jericó estaba cerrada, bien c, a causa deH5462
+- Jue_3:23Aod...cerró tras sí las puertas de laH5462
+- Jue_3:24viendo las puertas de la sala cerradasH5274
+- Jue_9:51cerrando...puertas, se subieron al techoH5462
+- 2Sa_13:17a ésta...y cierra tras ella la puertaH5274
+- 2Sa_13:18echó fuera, y cerró la puerta tras ellaH5274
+- 1Re_6:21y cerró la entrada del santuario conH5674
+- 1Re_8:35si el cielo se cerrare y no lloviereH6113
+- 1Re_11:27a Milo, cerró el portillo de la ciudadH5462
+- 2Re_4:5y se fue la mujer, y cerró la puertaH5462
+- 2Re_4:21la cama...y cerrando la puerta, se salióH5462
+- 2Re_4:33cerró la puerta tras...y oró a JehováH5462
+- 2Re_6:32viniere el mensajero, cerrad la puertaH5462
+- 2Cr_6:26los cielos se cerraren y no...lluviasH6113
+- 2Cr_7:13yo cerrare los cielos para que no hayaH6113
+- 2Cr_28:24cerró las puertas de la casa de JehováH5462
+- 2Cr_29:7y aun cerraron las puertas del pórticoH5462
+- Neh_4:7portillos comenzaban a ser cerradosH5640
+- Neh_6:10casa...y cerremos las puertas del temploH6113
+- Neh_7:3aunque haya gente...cerrad las puertas yH1479
+- Neh_13:19que se cerrasen las puertas, y ordenéH5462
+- Job_3:10no cerró las puertas del vientre dondeH5462
+- Job_5:16esperanza...la iniquidad cerrará su bocaH7092
+- Job_41:15son escudos fuertes, cerrados entre síH5462
+- Sal_35:3cierra contra mis perseguidoresH5462
+- Sal_58:4como el áspid sordo que cierra su oídoH331
+- Sal_63:11la boca...que hablan mentira será cerradaH5534
+- Sal_69:15no...ni el pozo cierre sobre mí su bocaH332
+- Sal_107:42y todos los malos cierren su bocaH7092
+- Pro_16:30cierra sus ojos para...perversidadesH6095
+- Pro_17:28el que cierra sus labios es entendidoH331
+- Pro_21:13que cierra su oído al clamor del pobreH331
+- Ecl_12:4y las puertas de afuera se cerraránH5462
+- Cnt_4:12huerto cerrado eres...mía, fuente cH5274
+- Isa_22:22y nadie cerrará; c, y nadie abriráH5462
+- Isa_24:10casa se ha cerrado, para que no entreH5462
+- Isa_26:20cierra tras ti tus puertas, escóndeteH5462
+- Isa_29:10cerró los ojos de vuestros profetasH6105
+- Isa_33:15cierra sus ojos para no ver cosa malaH331
+- Isa_44:18cerrados están sus ojos para no ver, yH2902
+- Isa_45:1para abrir...las puertas no se cerraránH5462
+- Isa_52:15reyes cerrarán ante él la boca, porqueH7092
+- Isa_60:11puertas...no se cerrarán de día ni deH5462
+- Jer_13:19ciudades del Neguev fueron cerradasH5462
+- Lam_3:8di voces, cerró los oídos a mi oraciónH5640
+- Eze_44:1la puerta exterior...y estaba cerradaH5462
+- Eze_44:2puerta estará cerrada; no se abrirá...cH5462
+- Eze_46:1puerta...estará cerrada los seis días deH5462
+- Eze_46:2no se cerrará la puerta hasta la tardeH5462
+- Eze_46:12cerrarán la puerta después que saliereH5462
+- Dan_6:22el cual cerró la boca de los leonesH5463
+- Dan_12:4tú, Daniel, cierra las palabras y sellaH5640
+- Dan_12:9palabras están cerradas y selladas hastaH5640
+- Amó_9:11cerraré sus portillos y levantaré susH1443
+- Miq_3:7ellos todos cerrarán sus labios, porqueH5844
+- Mal_1:10¿quién...hay...que cierre las puertasH5462
+- Mat_6:6cerrada la puerta, ora a tu Padre queG2808
+- Mat_13:15han cerrado sus ojos; para que no veanG2576
+- Mat_23:13cerráis el reino de los cielos delanteG2808
+- Mat_25:10entraron con él...y se cerró la puertaG2808
+- Luc_4:25cuando el cielo fue cerrado por 3 añosG2808
+- Luc_11:7la puerta ya está cerrada, y mis niñosG2808
+- Luc_13:25se haya levantado y cerrado la puertaG608
+- Jua_20:19estando las puertas cerradas en elG2808
+- Jua_20:26llegó...estando las puertas cerradas, yG2808
+- Hec_5:23la cárcel hemos hallado cerrada conG2808
+- Hec_21:30e inmediatamente cerraron las puertasG2808
+- Hec_28:27sus ojos han cerrado, para que no veanG2576
+- Rom_3:19para que toda boca se cierre y todoG5420
+- 1Co_15:52en un abrir y cerrar de ojos, a laG4493
+- 1Jn_3:17ve a...y cierra contra él su corazónG2808
+- Rev_3:7abre y ninguno cierra, y c y ningunoG2808
+- Rev_3:8una puerta...la cual nadie puede cerrarG2808
+- Rev_11:6éstos tienen poder para cerrar el cieloG2808
+- Rev_21:25puertas nunca serán cerradas de díaG2808

@@ -1,0 +1,2926 @@
+---
+tipo: concordancia
+palabra: TIERRA
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# TIERRA
+
+- Gén_1:1el principio creó Dios los cielos y la tH776
+- Gén_1:2y la t estaba desordenada y vacía, y lasH776
+- Gén_1:10y llamó Dios a lo seco t, y a...las aguasH776
+- Gén_1:11después dijo Dios: Produzca la t hierbaH776
+- Gén_1:11que su semilla esté en él, sobre la tH776
+- Gén_1:12produjo, pues, la t hierba verde que daH776
+- Gén_1:15lumbreras en...para alumbrar sobre la tH776
+- Gén_1:17puso Dios en...para alumbrar sobre la tH776
+- Gén_1:20produzcan...aves que vuelen sobre la tH776
+- Gén_1:22mares, y multiplíquense las aves en la tH776
+- Gén_1:24produzca la t seres vivientes según suH776
+- Gén_1:24serpientes y animales de la t según suH776
+- Gén_1:25hizo Dios animales de la t...sobre la tH776, [[H127]]
+- Gén_1:26señoree en los...en toda la t...sobre la tH776
+- Gén_1:28llenad la t, y sojuzgadla, y señoreadH776
+- Gén_1:28en...las bestias que se mueven sobre la tH776
+- Gén_1:29toda planta...que está sobre toda la tH776
+- Gén_1:30bestia de la t, y...arrastra sobre la tH776
+- Gén_2:1fueron, pues, acabados los cielos y la tH776
+- Gén_2:4estos son los orígenes de los...y de la tH776
+- Gén_2:4el día que Jehová Dios hizo la t y losH776
+- Gén_2:5toda planta del...antes que fuese en la tH776
+- Gén_2:5aún no había hecho llover sobre la t, niH776
+- Gén_2:5ni había hombre para que labrase la tH127
+- Gén_2:6subía de la t un vapor, el cual regabaH794
+- Gén_2:6un vapor, el cual regaba...la faz de la tH127
+- Gén_2:7Dios formó al hombre del polvo de la tH127
+- Gén_2:9y Jehová Dios hizo nacer de la t...árbolH127
+- Gén_2:11el que rodea toda la t de Havila, dondeH776
+- Gén_2:12el oro de aquella t es bueno; hay allíH776
+- Gén_2:13Gibón...es el que rodea toda la t de CusH776
+- Gén_2:19Jehová Dios formó...de la t toda bestiaH127
+- Gén_3:17maldita será la t por tu causa...dolorH127
+- Gén_3:19con el sudor...hasta que vuelvas a la tH127
+- Gén_3:23para que labrase la t de que fue tomadoH127
+- Gén_4:2fue pastor...y Caín fue labrador de la tH127
+- Gén_4:3Caín trajo del fruto de la t una ofrendaH127
+- Gén_4:10la sangre de tu...clama a mí desde la tH127
+- Gén_4:11maldito seas tú de la t, que abrió suH127
+- Gén_4:12cuando labres la t, no te volverá a darH127
+- Gén_4:12errante y extranjéro será,; en la tH776
+- Gén_4:14me echas hoy de la t, y de tu presenciaH127
+- Gén_4:14y seré errante y extranjero en la tH776
+- Gén_4:16Caín...habitó en t de Nod, al oriente deH776
+- Gén_5:29Noé...a causa de la t que Jehová maldijoH127
+- Gén_6:1a multiplicarse sobre la faz de la t, yH127
+- Gén_6:4había gigantes en la t en aquellos díasH776
+- Gén_6:5maldad de los hombres era mucha en la tH776
+- Gén_6:6arrepintió Jehová...hecho hombre en la tH776
+- Gén_6:7raeré de sobre la faz de la t a...hombresH127
+- Gén_6:11se corrompió la t...y estaba la t llenaH776
+- Gén_6:12y miró Dios la t, y...estaba corrompidaH776
+- Gén_6:12había corrompido su camino sobre la tH776
+- Gén_6:13la t está llena de violencia a causa deH776
+- Gén_6:13he aquí que yo los destruiré con la tH776
+- Gén_6:17traigo un diluvio de aguas sobre la tH776
+- Gén_6:17aguas...todo lo que hay en la t moriráH776
+- Gén_6:20de todo reptil de la t según su especieH127
+- Gén_7:3conservar...especie sobre la faz de la tH776
+- Gén_7:4haré llover sobre la t cuarenta días yH776
+- Gén_7:4raeré de sobre la faz de la t a todo serH127
+- Gén_7:6el diluvio de las aguas vino sobre la tH776
+- Gén_7:8y de todo lo que se arrastra sobre la tH127
+- Gén_7:10aguas del diluvio vinieron sobre la tH776
+- Gén_7:12lluvia sobre la t 40 días y 40 nochesH776
+- Gén_7:14todo reptil que se arrastra sobre la tH776
+- Gén_7:17fue el diluvio cuarenta días sobre la tH776
+- Gén_7:17alzaron el arca, y se elevó sobre la tH776
+- Gén_7:18y crecieron en gran manera sobre la tH776
+- Gén_7:19y las aguas subieron mucho sobre la tH776
+- Gén_7:21murió toda carne que...mueve sobre la tH776
+- Gén_7:21todo reptil que se arrastra sobre la tH776
+- Gén_7:22vida...todo lo que había en la t, murió
+- Gén_7:23fue destruido todo ser...la faz de la tH127
+- Gén_7:23raídos de la t, y quedó solamente NoéH776
+- Gén_7:24prevalecieron las aguas sobre la t 150H776
+- Gén_8:1e hizo pasar Dios un viento sobre la tH776
+- Gén_8:3las aguas decrecían...de sobre la t; y seH776
+- Gén_8:7hasta que las aguas se secaron sobre la tH776
+- Gén_8:8habían retirado de sobre la faz de la tH127
+- Gén_8:9aguas estaban aún sobre la faz de...la tH776
+- Gén_8:11aguas se habían retirado de sobre la tH776
+- Gén_8:13del mes, las aguas se secaron sobre la tH776
+- Gén_8:13he aquí que la faz de la t estaba secaH127
+- Gén_8:14veintisiete días del mes, se secó la tH776
+- Gén_8:17todo reptil que se arrastra sobre la tH776
+- Gén_8:17y vayan por la t, y fructifiquen...la tH776
+- Gén_8:19todo lo que se mueve sobre la tH776
+- Gén_8:21dijo Jehová...No volveré a maldecir la tH127
+- Gén_8:22mientras la t permanezca, no cesarán laH776
+- Gén_9:1y les dijo...multiplicaos, y llenad la tH776
+- Gén_9:2sobre todo animal de la t, y sobre todaH776
+- Gén_9:2en todo lo que se mueve sobre la t, y enH127
+- Gén_9:7mas...procread abundantemente en la t, yH776
+- Gén_9:10animales y toda bestia de la t que estáH776
+- Gén_9:10salieron del arca...todo animal de la tH776
+- Gén_9:11ni habrá más diluvio para destruir la tH776
+- Gén_9:13será por señal del pacto entre mí y la tH776
+- Gén_9:14que cuando haga venir nubes sobre la tH776
+- Gén_9:16pacto...con toda carne que hay sobre la tH776
+- Gén_9:17entre mí y toda carne que...sobre la tH776
+- Gén_9:19de Noé, y de ellos fue llena toda la tH776
+- Gén_9:20comenzó Noé a labrar la t, y plantó unaH376, [[H127]]
+- Gén_10:8Nimrod...ser el primer poderoso en la tH776
+- Gén_10:10Erec, Acad y Calne, en la t de SinarH776
+- Gén_10:11de esta t salió para Asiria, y...NíniveH776
+- Gén_10:20, Gén_10:31por sus lenguas, en sus t, en susH776, [[H4186]]
+- Gén_10:25porque en sus días fue repartida la tH776
+- Gén_10:30la t en que habitaron fue desde MesaH4186
+- Gén_10:32de...se esparcieron las naciones en la tH776
+- Gén_11:1tenía...toda la t una sola lengua y unasH776
+- Gén_11:2hallaron una llanura en la t de SinarH776
+- Gén_11:4esparcidos sobre la faz de toda la tH776
+- Gén_11:8-9esparció...sobre la faz de toda la tH776
+- Gén_11:9confundió Jehová el lenguaje de...la tH776
+- Gén_11:28murió Harán...en la t de su nacimientoH776
+- Gén_11:31y salió con...para ir a la t de CanaánH776
+- Gén_12:1vete de tu t y...a la t que te mostraréH776
+- Gén_12:3serán benditas en ti...familias de la tH127
+- Gén_12:5salieron para ir a t de Canaán; y a t deH776
+- Gén_12:6pasó Abram por aquella t hasta el lugarH776
+- Gén_12:6y el cananeo estaba entonces en la tH776
+- Gén_12:7le dijo: A tu descendencia daré esta tH776
+- Gén_12:10hambre en la t, y descendió Abram aH776
+- Gén_12:10porque era grande el hambre en la tH776
+- Gén_13:6la t no era suficiente para que...juntosH776
+- Gén_13:7el cananeo y el ferezeo habitaban...la tH776
+- Gén_13:9¿no está toda la t delante de ti? Yo teH776
+- Gén_13:10como la t de Egipto en la dirección deH776
+- Gén_13:12Abram acampó en la t de Canaán, enH776
+- Gén_13:15toda la t que ves, la daré a ti y a tuH776
+- Gén_13:16tu descendencia como el polvo de la tH776
+- Gén_13:16si alguno puede contar el polvo de la tH776
+- Gén_13:17vé por la t a lo largo de ella y a suH776
+- Gén_14:19, Gén_14:22Dios...creador de los cielos y de la tH776
+- Gén_15:7te saqué...para darte a heredar esta tH776
+- Gén_15:13que tu descendencia morará en t ajenaH776
+- Gén_15:18a tu descendencia daré esta t, desdeH776
+- Gén_15:19la t de los ceneos, los cenezeos, losH776
+- Gén_16:3había habitado Abram en la t de CanaánH776
+- Gén_17:8daré...la t en que moras...la t de CanaánH776
+- Gén_18:2salió...a recibirlos, y se postró en tH776
+- Gén_18:18benditas en él...las naciones de la t?[[H776]]
+- Gén_18:25el Juez de toda la t, ¿no ha de hacerH776
+- Gén_19:23sol salía sobre la t, cuando Lot llegóH776
+- Gén_19:25destruyó...ciudades, y el fruto de la tH127
+- Gén_19:28hacia toda la t de aquella llanura miroH776
+- Gén_19:28el humo subía de la t como el humo deH776
+- Gén_19:31y no queda varón en la t que entre aH776
+- Gén_19:31conforme a la costumbre de toda la tH776
+- Gén_20:1allí partió Abraham a la t del NeguevH776
+- Gén_20:15he aquí mi t está delante de ti; habitaH776
+- Gén_21:21y su madre le tomó mujer de la t deH776
+- Gén_21:23harás tú...con la t en donde has moradoH776
+- Gén_21:32y Ficol...volvieron a t de los filisteosH776
+- Gén_21:34y moró Abraham en t de los filisteosH776
+- Gén_22:2y vete a t de Moriah, y ofrécelo allíH776
+- Gén_22:18serán benditas...las naciones de la tH776
+- Gén_23:2murió Sara...Hebrón, en la t de CanaánH776
+- Gén_23:7se inclinó al pueblo de aquella t, a losH776
+- Gén_23:12se inclinó delante del pueblo de la tH776
+- Gén_23:13Efrón en presencia del pueblo de la tH776
+- Gén_23:15la t vale 400 siclos de plata; ¿qué esH776
+- Gén_23:19de Mamre, que es Hebrón, en la t deH776
+- Gén_24:3Dios de los cielos y Dios de la t, queH776
+- Gén_24:4sino que irás a mi t y a mi parentelaH776
+- Gén_24:5quizá la mujer no querrá venir...esta tH776
+- Gén_24:5¿volveré, pues, tu hijo a la t de dondeH776
+- Gén_24:7me tomó de la...y de la t de mi parentelaH776
+- Gén_24:7me juró...A tu descendencia daré esta tH776
+- Gén_24:37no...de los canancos, en cuya t habitoH776
+- Gén_24:52el criado...se inclinó en t ante JehováH776
+- Gén_25:6los envió...el oriente, a la t orientalH776
+- Gén_26:1después hubo hambre en la t, además deH776
+- Gén_26:2y le dijo...habita en la t que yo te diréH776
+- Gén_26:3habita...en esta t...daré todas estas tH776
+- Gén_26:4y daré a tu descendencia todas estas tH776
+- Gén_26:4las naciones de la t serán benditas enH776
+- Gén_26:12sembró Isaac en aquella t, y cosechóH776
+- Gén_26:15los pozos...habían cegado y llenado de tH6083
+- Gén_26:22prosperado, y fructificaremos en la tH776
+- Gén_27:28Dios...te dé...de las grosuras de la tH776
+- Gén_27:39será tu habitación en grosuras de la tH776
+- Gén_27:46si...toma mujer...de las hijas de esta tH776
+- Gén_28:4heredes la t en que moras, que Dios dioH776
+- Gén_28:12una escalera que estaba apoyada en tH776
+- Gén_28:13la t en que estás acostado te la daréH776
+- Gén_28:14tu descendencia como el polvo de la tH776
+- Gén_28:14las familias de la t serán benditas enH127
+- Gén_28:15traerte a esta t; porque no te dejaréH127
+- Gén_29:1Jacob...y fue a la t de los orientalesH776
+- Gén_30:25envíame, e iré a mi lugar; y a mi tH776
+- Gén_31:3vuélvete a la t de tus padres, y a tuH776
+- Gén_31:13sal de esta t, y vuélvete a la t de tuH776
+- Gén_31:18volverse a...su padre en la t de CanaánH776
+- Gén_32:3a Esaú...a la t de Seir, campo de EdomH776
+- Gén_32:9vuélvete a tu t y a tu parentela, y yoH776
+- Gén_33:3y se inclinó a t siete veces, hasta queH776
+- Gén_33:18de Siquem, que está en la t de CanaánH776
+- Gén_34:2Siquem. príncipe de aquella t...la tomóH776
+- Gén_34:10t estará delante de vosotros; morad yH776
+- Gén_34:21aquí la t es bastante ancha para ellosH776
+- Gén_34:30abominable a los moradores de esta tH776
+- Gén_35:6llegó Jacob a Luz...está en t de CanaánH776
+- Gén_35:12la t que he dado a Abraham y a IsaacH776
+- Gén_35:12a ti, y a tu descendencia...daré la tH776
+- Gén_35:16había aún como media legua de t paraH776
+- Gén_35:22que cuando moraba Israel en aquella tH776
+- Gén_36:5Esaú, que le nacieron en la t de CanaánH776
+- Gén_36:6todo cuanto había adquirido en la t deH776
+- Gén_36:6se fue a otra t, separándose de JacobH776
+- Gén_36:7ni la t...los podía sostener a causa deH776
+- Gén_36:16los jefes de Elifaz en la t de EdomH776
+- Gén_36:17los jefes de...de Reuel en la t de EdomH776
+- Gén_36:20hijos de Seir...moradores de aquella tH776
+- Gén_36:21jefes...hijos de Seir, en la t de EdomH776
+- Gén_36:30los jefes de los horeos...en la t de SeirH776
+- Gén_36:31los reyes que reinaron en la t de EdomH776
+- Gén_36:34en su lugar reinó Husam, de t de TemánH776
+- Gén_36:43los jefes...según sus moradas en la t deH776
+- Gén_37:1habitó Jacob en la t donde...t de CanaánH776
+- Gén_37:10vendremos...a postrarnos en t ante ti?[[H776]]
+- Gén_38:9cuando se llegaba a la mujer...vertía en tH776
+- Gén_40:15porque fui hurtado de la t de...hebreosH776
+- Gén_41:19que no he visto...en toda la t de EgiptoH776
+- Gén_41:29gran abundancia en toda la t de EgiptoH776
+- Gén_41:30la abundancia será olvidada en la t deH776
+- Gén_41:30de Egipto, y el hambre consumirá la tH776
+- Gén_41:33varón...y póngalo sobre la t de EgiptoH776
+- Gén_41:34y quinte la t de Egipto en los sieteH776
+- Gén_41:36de hambre que habrá en la t de EgiptoH776
+- Gén_41:41aquí yo te he puesto sobre toda la tH776
+- Gén_41:43y lo puso sobre toda la t de EgiptoH776
+- Gén_41:44ninguno alzará su mano...en toda la tH776
+- Gén_41:45y salió José por toda la t de EgiptoH776
+- Gén_41:46José...y recorrió toda la t de EgiptoH776
+- Gén_41:47siete años de...la t produjo a montonesH776
+- Gén_41:48años de abundancia que hubo en la t deH776
+- Gén_41:52Dios me hizo fructificar en la t de miH776
+- Gén_41:53años de abundancia que hubo en la t deH776
+- Gén_41:54mas en toda la t de Egipto había panH776
+- Gén_41:55cuando se sintió el hambre en toda la tH776
+- Gén_41:56porque había crecido el hambre en la tH776
+- Gén_41:57y de toda la t venían a Egipto paraH776
+- Gén_41:57por toda la t había crecido el hambreH776
+- Gén_42:5porque había hambre en la t de CanaánH776
+- Gén_42:6y José era el señor de la t, quien leH776
+- Gén_42:6le vendía a todo el pueblo de la tH776
+- Gén_42:6de José, y se inclinaron a él rostro a tH776
+- Gén_42:7ellos respondieron: De la t de CanaanH776
+- Gén_42:13hijos de un varón en la t de CanaánH776
+- Gén_42:29y venidos a Jacob...en t de Canaán, leH776
+- Gén_42:30el señor de la t, nos habló ásperamenteH776
+- Gén_42:30varón...nos trató como a espías de la tH776
+- Gén_42:32hoy con nuestro padre en la t de CanaánH776
+- Gén_42:33aquel varón, el señor de la t, nos dijoH776
+- Gén_42:34vuestro hermano, y negociaréis en la tH776
+- Gén_43:1el hambre era grande en la tH776
+- Gén_43:11tomad de lo mejor de la t...un presenteH776
+- Gén_43:26vino...y se inclinaron ante él hasta la tH776
+- Gén_44:8lo volvimos a traer desde la t de CanaánH776
+- Gén_44:11y derribando cada uno su costal en tH776
+- Gén_44:14José...y se postraron delante de él en tH776
+- Gén_45:6dos años de hambre en medio de la t, yH776
+- Gén_45:7para preservaros posteridad sobre la tH776
+- Gén_45:8por gobernador en toda la t de EgiptoH776
+- Gén_45:10habitarás en la t de Gosén...cerca deH776
+- Gén_45:17cargad...e id, volved a la t de CanaánH776
+- Gén_45:18yo os daré lo bueno de la t de EgiptoH776
+- Gén_45:18y comeréis de la abundancia de la tH776
+- Gén_45:19tomaos de la t de Egipto carros paraH776
+- Gén_45:20porque la riqueza de la t de EgiptoH776
+- Gén_45:25y llegaron a la t de Canaán a Jacob suH776
+- Gén_45:26José...es señor en toda la t de EgiptoH776
+- Gén_46:6que habían adquirido en la t de CanaánH776
+- Gén_46:12Er y Onán murieron en la t de CanaánH776
+- Gén_46:20y nacieron a José en la t de EgiptoH776
+- Gén_46:28envió Jacob...llegaron a la t de GosénH776
+- Gén_46:31padre, que estaban en la t de CanaánH776
+- Gén_46:34a fin de que moréis en la t de GosénH776
+- Gén_47:1mi padre...han venido de la t de CanaánH776
+- Gén_47:1y mis hermanos...están en la t de GosénH776
+- Gén_47:4morar en esta t hemos venido; porque noH776
+- Gén_47:4el hambre es grave en la t de Canaán; porH776
+- Gén_47:4que habiten tus siervos en la t de GosénH776
+- Gén_47:6la t de Egipto...en lo mejor de la t hazH776
+- Gén_47:6habiten en la t de Gosén; y si entiendesH776
+- Gén_47:11les dio posesión en la t de Egipto, enH776
+- Gén_47:11lo mejor de la t, en la t de RamesésH776
+- Gén_47:13no había pan en toda la t...muy graveH776
+- Gén_47:13hambre la t de Egipto y la t de CanaánH776
+- Gén_47:14dinero...t de Egipto y en la t de CanaánH776
+- Gén_47:15dinero de la t de Egipto y de la t deH776
+- Gén_47:18nada...sino nuestros cuerpos y nuestra tH127
+- Gén_47:19moriremos...así nosotros como nuestra tH127
+- Gén_47:19cómpranos a nosotros y a...t por pan, yH127
+- Gén_47:19y seremos nosotros y nuestra t siervosH127
+- Gén_47:19para que vivamos...no sea asolada la tH127
+- Gén_47:20compró José toda la t...t vino a ser deH127
+- Gén_47:20los egipcios vendieron cada uno sus tH7704
+- Gén_47:22la t de los sacerdotes no compró, porH127
+- Gén_47:22sacerdotes...por eso no vendieron su tH127
+- Gén_47:23he aquí os he comprado...y a vuestra tH127
+- Gén_47:23ved aquí semilla, y sembraréis la tH127
+- Gén_47:24serán vuestras para sembrar las t, yH7704
+- Gén_47:26lo puso por ley...sobre la t de EgiptoH127
+- Gén_47:26excepto sólo la t de los sacerdotes, queH127
+- Gén_47:27Israel en la t de Egipto...la t de GosénH776
+- Gén_47:28vivió Jacob en la t de Egipto 17 añosH776
+- Gén_48:3el Dios...me apareció...en la t de CanaánH776
+- Gén_48:4daré esta t a tu descendencia después deH776
+- Gén_48:5tus dos hijos...que te nacieron en la tH776
+- Gén_48:5antes que viniese a ti a la t de EgiptoH776
+- Gén_48:7se me murió Raquel en la t de Canaán, enH776
+- Gén_48:7como media legua de t viniendo a Efrata
+- Gén_48:12José los sacó de entre...se inclinó a tH776
+- Gén_48:16y multiplíquense en...en medio de la tH776
+- Gén_48:21Dios estará...os hará volver a la t deH776
+- Gén_49:15vio...que la t era deleitosa; y bajó suH776
+- Gén_49:30al oriente de Mamre en la t de CanaánH776
+- Gén_50:5el sepulcro que cavé para mí en la t deH776
+- Gén_50:7y todos los ancianos de la t de EgiptoH776
+- Gén_50:8dejaron en la t de Gosén sus niños, yH776
+- Gén_50:11viendo los moradores de la t...el llantoH776
+- Gén_50:13lo llevaron sus hijos a la t de CanaánH776
+- Gén_50:24os hará subir de esta t a la t que juróH776
+- Éxo_1:7hijos de Israel...llenó de ellos la tH776
+- Éxo_1:10pelee contra nosotros, y se vaya de la tH776
+- Éxo_2:15Moisés huyó de...y habitó en t de MadiánH776
+- Éxo_2:22porque dijo: Forastero soy en t ajenaH776
+- Éxo_3:5porque el lugar en que tú estás, t santaH127
+- Éxo_3:8y sacarlos de aquella t a una t buena yH776
+- Éxo_3:8sacarlos de...a t que fluye leche y mielH776
+- Éxo_3:17yo os sacaré de...a la t del cananeo, delH776
+- Éxo_3:17sacaré...a una t que fluye leche y mielH776
+- Éxo_4:3le dijo: Echala en t. Y él la echó en tH776
+- Éxo_4:9derramarás en t...se harán sangre en la t
+- Éxo_4:20tomó su mujer y...y volvió a t de EgiptoH776
+- Éxo_5:5he aquí el pueblo de la t es ahora muchoH776
+- Éxo_5:12el pueblo se esparció por toda la t deH776
+- Éxo_6:1ir, y con mano fuerte los echará de su tH776
+- Éxo_6:4darles la t de Canaán, la t en que fueronH776
+- Éxo_6:8y os meteré en la t por la cual alcé míH776
+- Éxo_6:11deje ir de su t a los hijos de IsraelH776
+- Éxo_6:13sacasen a...de Israel de la t de EgiptoH776
+- Éxo_6:26sacad a los hijos de Israel de la t deH776
+- Éxo_6:28cuando Jehová nabló a Moisés en la t deH776
+- Éxo_7:2que deje ir de su t a los hijos de IsraelH776
+- Éxo_7:3y yo...multiplicaré en la t de Egipto misH776
+- Éxo_7:4sacaré...de la t de Egipto, con grandesH776
+- Éxo_7:21y hubo sangre por toda la t de EgiptoH776
+- Éxo_8:5que haga subir ranas sobre la t de EgiptoH776
+- Éxo_8:6y subieron ranas que cubrieron la t deH776
+- Éxo_8:7e hicieron venir ranas...la t de EgiptoH776
+- Éxo_8:14juntaron en montones, y apestaba la tH776
+- Éxo_8:16y golpea el polvo de la t, para que seH776
+- Éxo_8:17y golpeó el polvo de la t, el cual seH776
+- Éxo_8:17todo el polvo de la t se volvió piojosH776
+- Éxo_8:21de moscas, y asimismo la t donde ellosH127
+- Éxo_8:22y aquel día yo apartaré la t de GosénH776
+- Éxo_8:22sepas que yo soy Jehová en medio de la tH776
+- Éxo_8:24y la t fue corrompida a causa de ellasH776
+- Éxo_8:25andad, ofreced sacrificio...Dios en la tH776
+- Éxo_9:5mañana hará Jehová esta cosa en la tH776
+- Éxo_9:9y vendrá a ser polvo sobre toda la t deH776
+- Éxo_9:14que no hay otro como yo en toda la tH776
+- Éxo_9:15herirte...plaga, y serás quitado de la tH776
+- Éxo_9:16que mi nombre sea anunciado en toda la tH776
+- Éxo_9:22que venga granizo en toda la t de EgiptoH776
+- Éxo_9:23hizo...y el fuego se descargó sobre la tH776
+- Éxo_9:23hizo llover granizo sobre la t de EgiptoH776
+- Éxo_9:24cual nunca hubo en toda la t de EgiptoH776
+- Éxo_9:25granizo hirió en toda la t de Egipto todoH776
+- Éxo_9:26la t de Gosén, donde estaban los hijosH776
+- Éxo_9:29para que sepas que de Jehová es la tH776
+- Éxo_9:33cesaron...la lluvia no cayó más sobre la tH776
+- Éxo_10:5la cual cubrirá la faz de la t, de modoH776
+- Éxo_10:5de modo que no pueda verse la t; y ellaH776
+- Éxo_10:6desde que...fueron sobre la t hasta hoyH127
+- Éxo_10:12extiende tu mano sobre la t de EgiptoH776
+- Éxo_10:13extendió Moisés su vara sobre la t deH776
+- Éxo_10:14subió la langosta sobre...la t de EgiptoH776
+- Éxo_10:15cubrió...todo el país, y oscureció la tH776
+- Éxo_10:15consumió toda la hierba de la t, y todoH776
+- Éxo_10:15no quedó cosa verde en...en toda la t deH776
+- Éxo_10:21que haya tinieblas sobre la t de EgiptoH776
+- Éxo_10:22densas tinieblas sobre...la t de EgiptoH776
+- Éxo_11:3tenido por gran varón en la t de EgiptoH776
+- Éxo_11:5morirá todo primogénito en t de EgiptoH776
+- Éxo_11:6habrá gran clamor por...la t de EgiptoH776
+- Éxo_11:9que mis maravillas se...n la t de EgiptoH776
+- Éxo_12:1Jehová a Moisés y a...en la t de EgiptoH776
+- Éxo_12:12pues yo pasaré aquella noche por la tH776
+- Éxo_12:12y heriré a todo primogénito en la t deH776
+- Éxo_12:13mortandad cuando hiera la t de EgiptoH776
+- Éxo_12:17saqué vuestras huestes de...t de EgiptoH776
+- Éxo_12:25cuando entréis en la t que Jehová osH776
+- Éxo_12:29Jehová hirió a todo primogénito en la tH776
+- Éxo_12:33prisa a echarlos de la t; porque decíanH776
+- Éxo_12:41las huestes de Jehová salieron de la tH776
+- Éxo_12:42por haberlos sacado en ella de la t deH776
+- Éxo_12:51sacó Jehová a...Israel de la t de EgiptoH776
+- Éxo_13:5te hubiere metido en la t del cananeoH776
+- Éxo_13:5que te daría, t que destila leche y mielH776
+- Éxo_13:11haya metido en la t del cananeo, comoH776
+- Éxo_13:15Jehová hizo morir en la t de Egipto aH776
+- Éxo_13:17no los llevó por el camino de la t deH776
+- Éxo_14:3encerrados están en la t, el desiertoH776
+- Éxo_15:12extendiste tu diestra; la t los tragóH776
+- Éxo_15:14apoderará dolor de la t de los filisteosH3427
+- Éxo_16:1después que salieron de la t de EgiptoH776
+- Éxo_16:3hubiéramos muerto por mano de...en la tH776
+- Éxo_16:6Jehová os ha sacado de la t de EgiptoH776
+- Éxo_16:14menuda como una escarcha sobre la tH776
+- Éxo_16:32cuando yo os saqué de la t de EgiptoH776
+- Éxo_16:35hasta que llegaron a t habitada; manáH776
+- Éxo_16:35que llegaron a los límites de la t deH776
+- Éxo_18:3Gersón...Forastero he sido en t ajenaH776
+- Éxo_18:27despidió Moisés a su suegro...fue a su tH776
+- Éxo_19:1la salida de los hijos de Israel de la tH776
+- Éxo_19:5especial tesoro...porque mía es toda la tH776
+- Éxo_20:2Jehová tu Dios, que te saqué de la t deH776
+- Éxo_20:4ni ninguna semejanza...ni abajo en la tH776
+- Éxo_20:4que esté...ni en las aguas debajo de la tH776
+- Éxo_20:11seis días hizo Jehová los cielos y la tH776
+- Éxo_20:12para que tus días se alarguen en la tH127
+- Éxo_20:24altar de t harás...y sacrificarás sobreH127
+- Éxo_22:21; Éxo_23:9extranjeros fuisteis...t de EgiptoH776
+- Éxo_23:10seis años sembrarás tu t, y recogerásH776
+- Éxo_23:19primicias...de tu t traerás a la casaH127
+- Éxo_23:23y te llevará a la t del amorreo, del
+- Éxo_23:26no habrá mujer que...ni estéril en tu tH776
+- Éxo_23:29para que no quede la t desierta, y seH776
+- Éxo_23:30multipliques y tomes posesión de la tH776
+- Éxo_23:31en tus manos a los moradores de la t, yH776
+- Éxo_23:33tu t no habitarán, no sea que te haganH776
+- Éxo_29:46Dios, que los saqué de la t de EgiptoH776
+- Éxo_31:17en seis días hizo Jehová los...y la tH776
+- Éxo_32:1Moisés...que nos sacó de la t de EgiptoH776
+- Éxo_32:4, Éxo_32:8tus dioses, que te sacaron de la t deH776
+- Éxo_32:7tu pueblo que sacaste de la t de EgiptoH776
+- Éxo_32:11que tú sacaste de la t de Egipto conH776
+- Éxo_32:12para raerlos de sobre la faz de la t?[[H127]]
+- Éxo_32:13y daré...toda esta t de que he habladoH776
+- Éxo_32:23varón que nos sacó de la t de EgiptoH776
+- Éxo_33:1el pueblo que sacaste de la t de EgiptoH776
+- Éxo_33:1sube...a la t de la cual juré a AbrahamH776
+- Éxo_33:3(a la t que fluye leche y miel); pero yoH776
+- Éxo_33:16pueblos que están sobre la faz de la t?[[H127]]
+- Éxo_34:10que no han sido hechas en toda la t, niH776
+- Éxo_34:12hacer alianza con los moradores de la tH776
+- Éxo_34:15no harás alianza con los...de aquella tH776
+- Éxo_34:24y ninguno codiciará tu t, cuando subasH776
+- Éxo_34:26los primeros frutos de tu t llevarás aH127
+- Lev_11:2de entre...animales que hay sobre la tH776
+- Lev_11:21patas para saltar con ellas sobre la tH776
+- Lev_11:29estos animales que se mueven sobre la tH776
+- Lev_11:41todo reptil que se arrastra sobre la tH776
+- Lev_11:42, Lev_11:44, Lev_11:46animal que se arrastra sobre la tH776
+- Lev_11:45yo...que os hago subir de la t de EgiptoH776
+- Lev_14:34cuando hayáis entrado en la t de CanaánH776
+- Lev_14:34plaga de lepra en alguna casa de la tH776
+- Lev_16:22llevará...las iniquidades...a t inhabitadaH776
+- Lev_17:13derramará su sangre y la cubrirá con tH6083
+- Lev_18:3lo haréis como hacen en la t de EgiptoH776
+- Lev_18:3como hacen en la t de Canaán, a la cualH776
+- Lev_18:25la t fue contaminada...la t vomitó susH776
+- Lev_18:27hicieron los hombres de aquella t queH776
+- Lev_18:27abominaciones...y la t fue contaminadaH776
+- Lev_18:28la t os vomite por haberla contaminadoH776
+- Lev_19:9siegues la mies de tu t, no segarás hastaH776
+- Lev_19:9rincón de ella, ni espigarás tu t segadaH7704
+- Lev_19:23cuando entréis en la t, y plantéis todaH776
+- Lev_19:29que no se prostituya la t y se llene deH776
+- Lev_19:33el extranjero morare con...en vuestra tH776
+- Lev_19:34extranjeros fuisteis en la t de EgiptoH776
+- Lev_19:35en medida de t, en peso ni en...medidaH4060
+- Lev_19:36Dios, que os saqué de la t de EgiptoH776
+- Lev_20:2morirá; el pueblo de la t lo apedrearáH776
+- Lev_20:4si el pueblo de la t cerrare sus ojosH776
+- Lev_20:22no sea que os vomite la t en la cualH776
+- Lev_20:24vosotros poseeréis la t de ellos, y yoH127
+- Lev_20:24por heredad, t que fluye leche y mielH776
+- Lev_20:25ni con nada que se arrastra sobre la tH127
+- Lev_22:24animal...ni en vuestra t lo ofreceréisH776
+- Lev_22:33os saqué de la t de Egipto para serH776
+- Lev_23:10hayáis entrado en la t que yo os doyH776
+- Lev_23:22cuando segaréis la mies de vuestra tH776
+- Lev_23:39recogido el fruto de la t, haréis fiestaH776
+- Lev_23:43los saqué de la t de Egipto. Yo JehováH776
+- Lev_25:2entrado en la t...la t guardará reposoH776
+- Lev_25:3seis años sembrarás tu t, y seis añosH7704
+- Lev_25:4la t tendrá descanso...no sembrarás tu tH776
+- Lev_25:5lo que de suyo naciere en tu t segadaH7105
+- Lev_25:5tu viñedo...año de reposo será para la tH776
+- Lev_25:6el descanso de la t te dará para comerH776
+- Lev_25:7y a la bestia que hubiere en tu t, seráH776
+- Lev_25:9haréis tocar la trompeta por...vuestra tH776
+- Lev_25:10y pregonaréis libertad en la t a todosH776
+- Lev_25:11ni segaréis lo que naciere de...en la tH5599
+- Lev_25:12jubileo...el producto de la t comeréisH7704
+- Lev_25:18guardad...y habitaréis en la t segurosH776
+- Lev_25:19y la t dará su fruto, y comeréis hastaH776
+- Lev_25:23la t no se venderá...porque la t mía esH776
+- Lev_25:24toda la t...otorgaréis rescate a la tH776
+- Lev_25:34la t del ejido de sus ciudades no seH7704
+- Lev_25:38Dios, que os saqué de la t de EgiptoH776
+- Lev_25:38la t de Canaán, para ser vuestro DiosH776
+- Lev_25:42, Lev_25:55los cuales saqué...de la t de EgiptoH776
+- Lev_25:45de las familias...nacidos en vuestra tH776
+- Lev_26:1ni pondréis en vuestra t piedra pintadaH776
+- Lev_26:4la t rendirá sus productos, y el árbolH776
+- Lev_26:5pan...y habitaréis seguros en vuestra tH776
+- Lev_26:6yo daré paz en la t, y dormiréis, y noH776
+- Lev_26:6quitar de vuestra t las malas bestiasH776
+- Lev_26:13Dios, que os saqué de la t de EgiptoH776
+- Lev_26:19como hierro, y vuestra t como bronceH776
+- Lev_26:20porque vuestra t no dará su productoH776
+- Lev_26:20los árboles de la t no darán su frutoH776
+- Lev_26:32asolaré también la t, y se pasmaránH776
+- Lev_26:33vuestra t estará asolada, y desiertasH776
+- Lev_26:34la t gozará sus días...la t descansaráH776
+- Lev_26:34estéis en la t de vuestros enemigosH776
+- Lev_26:36tal cobardía, en la t de sus enemigosH776
+- Lev_26:38la t de vuestros enemigos os consumiráH776
+- Lev_26:39decaerán en las t de vuestros enemigosH776
+- Lev_26:41hecho entrar en la t de sus enemigosH776
+- Lev_26:42me acordaré, y haré memoria de la tH776
+- Lev_26:43pero la t será abandonada por ellos, yH776
+- Lev_26:44estando ellos en t de sus enemigos, yoH776
+- Lev_26:45cuando los saqué de la t de Egipto aH776
+- Lev_27:16alguno dedicare de la t de su posesiónH7704
+- Lev_27:17dedicare su t desde el año del jubileoH7704
+- Lev_27:18si después del jubileo dedicare su tH7704
+- Lev_27:19el que dedicó la t quisiere redimirlaH7704
+- Lev_27:20no rescatare la t y la t se vendiereH7704
+- Lev_27:21la t será santa para...como t consagradaH7704
+- Lev_27:22la t...que no era de la t de su herenciaH7704
+- Lev_27:24volverá la t a aquel de quien él laH7704
+- Lev_27:24a aquel...cuya es la herencia de la tH776
+- Lev_27:28t de su posesión, todo lo consagradoH7704
+- Lev_27:30diezmo de la t de la simiente de la tH776
+- Núm_1:1el segundo año de su salida de la t deH776
+- Núm_3:13hice morir a...los primogénitos en la, tH776
+- Núm_8:17herí a...primogénito en la t de EgiptoH776
+- Núm_9:1año de su salida de la t de Egipto, en elH776
+- Núm_9:14el extranjero como el natural de la tH776
+- Núm_10:9cuando saliereis a la guerra en vuestra tH776
+- Núm_10:30me marcharé a mi t y a mi parentelaH776
+- Núm_11:12llévalo en tu...a la t de la cual jurasteH127
+- Núm_11:31y casi dos codos sobre la faz de la tH776
+- Núm_12:3más que todos los hombres...sobre la tH127
+- Núm_13:2envía tú hombres que reconozcan la t deH776
+- Núm_13:16los varones que...envió a reconocer la tH776
+- Núm_13:17los envió...a reconocer la t de CanaánH776
+- Núm_13:18observad la t cómo es, y el pueblo queH776
+- Núm_13:19cómo es la t habitada, si es buena oH776
+- Núm_13:21reconocieron la t desde el desierto deH776
+- Núm_13:25volvieron de reconocer la t al fin deH776
+- Núm_13:26dieron...les mostraron el fruto de la tH776
+- Núm_13:27llegamos a la t a la cual nos enviasteH776
+- Núm_13:28pueblo que habita aquella t es fuerteH776
+- Núm_13:32hablaron mal...t que habían reconocidoH776
+- Núm_14:2¡ojalá muriéramos en la t de Egipto; oH776
+- Núm_14:3¿y por qué nos trae...a esta t para caerH776
+- Núm_14:6eran de los que habían reconocido la tH776
+- Núm_14:7la t por donde pasamos para...es t...buenaH776
+- Núm_14:8Jehová...él nos llevará a esta t, y nosH776
+- Núm_14:8la entregará; t que fluye leche y mielH776
+- Núm_14:9ni temáis al pueblo de esta t; porqueH776
+- Núm_14:14y lo dirán a los habitantes de esta tH776
+- Núm_14:16este pueblo en la t de la cual les habíaH776
+- Núm_14:21vivo yo, y mi gloria llena toda la tH776
+- Núm_14:23no verán la t de la cual juré a...padresH776
+- Núm_14:24Caleb...yo le meteré en la t donde entróH776
+- Núm_14:30no entraréis en la t, por la cual alcéH776
+- Núm_14:31ellos conocerán la t que...despreciasteisH776
+- Núm_14:34de los días...en que reconocisteis la tH776
+- Núm_14:36que Moisés envió a reconocer la t, y queH776
+- Núm_14:37habían hablado mal de la t, murieronH776
+- Núm_14:38hombres que habían ido a reconocer la tH776
+- Núm_15:2entrado en la t de vuestra habitaciónH776
+- Núm_15:18entrado en la t a la cual yo os llevoH776
+- Núm_15:19cuando comencéis a comer...pan de la tH776
+- Núm_15:41Dios, que os saqué de la t de EgiptoH776
+- Núm_16:13hecho venir de una t que destila lecheH776
+- Núm_16:14ni...nos has metido tú en t que fluyaH776
+- Núm_16:14ni nos has dado heredades de t y viñasH7704
+- Núm_16:30la t abriere su boca y los tragare conH127
+- Núm_16:31abrió la t que estaba debajo de ellosH127
+- Núm_16:32abrió la t su boca, y los tragó a ellosH776
+- Núm_16:33descendieron vivos...y los cubrió la tH776
+- Núm_16:34decían: No nos trague también la tH776
+- Núm_18:13las primicias de...de la t...serán tuyasH776
+- Núm_18:20de la t de ellos no tendrán heredad, niH776
+- Núm_20:12no meteréis...en la t que les he dadoH776
+- Núm_20:17que pasemos por tu t. No pasaremos porH776
+- Núm_20:23habló...en la frontera de la t de EdomH776
+- Núm_20:24Aarón...no entrará en la t que yo di aH776
+- Núm_21:4después partieron...rodear la t de EdomH776
+- Núm_21:22pasaré por tu t; no nos iremos por losH776
+- Núm_21:24y tomó su t desde Amón hasta JabocH776
+- Núm_21:26y tomado de su poder toda su t hastaH776
+- Núm_21:31así habitó Israel en la t del amorreoH776
+- Núm_21:34porque en tu mano lo he entregado...su tH776
+- Núm_21:35hirieron a él...y se apoderaron de su tH776
+- Núm_22:5está junto al río en la t de los hijosH776
+- Núm_22:5cubre la faz de la t, y habita delanteH776
+- Núm_22:6quizá yo pueda...echarlo de la t; puesH776
+- Núm_22:11este pueblo que...cubre la faz de la tH776
+- Núm_22:13así Balaam...dijo...Volveos a vuestra tH776
+- Núm_26:4los...que habían salido de t de EgiptoH776
+- Núm_26:10la t abrió su boca y los tragó a ellosH776
+- Núm_26:19y Er y Onán murieron en la t de CanaánH776
+- Núm_26:53a estos se repartirá la t en heredadH776
+- Núm_26:55la t será repartida por suerte; y porH776
+- Núm_27:12verás la t que he dado a los hijos deH776
+- Núm_32:1vieron la t de Jazer...y les pareció elH776
+- Núm_32:4la t que Jehová hirió...es t de ganadoH776
+- Núm_32:5dése esta t a tus siervos en heredad, yH776
+- Núm_32:7no pasen a la t que les ha dado Jehová?[[H776]]
+- Núm_32:8cuando los envié...para que viesen la tH776
+- Núm_32:9vieron la t, desalentaron a...de IsraelH776
+- Núm_32:9para que no viniesen a la t que JehováH776
+- Núm_32:11no verán...t que prometí con juramentoH127
+- Núm_32:22esta t será vuestra en heredad delanteH776
+- Núm_32:29les daréis la t de Galaad en posesiónH776
+- Núm_32:30tendrán posesión entre...la t de CanaánH776
+- Núm_32:32pasaremos armados...a la t de CanaánH776
+- Núm_32:33Moisés dio a...la t con sus ciudades yH776
+- Núm_33:1Israel, que salieron de la t de EgiptoH776
+- Núm_33:38la salida de...Israel de la t de EgiptoH776
+- Núm_33:40el cananeo...en la t de Canaán, oyó queH776
+- Núm_33:51pasado el Jordán entrando en la t deH776
+- Núm_33:53y echaréis a los moradores de la t, yH776
+- Núm_33:54heredaréis la t...sorteo por...familiasH776
+- Núm_33:55os afligirán sobre la t en que vosotrosH776
+- Núm_34:2cuando hayáis entrado en la t de CanaánH776
+- Núm_34:2la t que os ha de caer en herencia, laH776
+- Núm_34:2esto...la t de Canaán según sus límitesH776
+- Núm_34:12esta será vuestra t por sus límitesH776
+- Núm_34:13la t que se os repartirá en heredadesH776
+- Núm_34:17de los varones que os repartirán la tH776
+- Núm_34:18príncipe, para dar la posesión de la tH776
+- Núm_34:29répartición de lás...en la t de CanaánH776
+- Núm_35:10cuando hayáis pasado...a la t de CanaánH776
+- Núm_35:14tres ciudades daréis en la t de CanaánH776
+- Núm_35:28homicida volverá a la t de su posesiónH776
+- Núm_35:32para que vuelva a vivir en su t, hastaH776
+- Núm_35:33no contaminaréis la t donde estuviereisH776
+- Núm_35:33porque esta sangre amancillará la tH776
+- Núm_35:33y la t no será expiada de la sangre queH776
+- Núm_35:34no contaminéis...la t donde habitáis, enH776
+- Núm_36:2que por sorteo diese la t a los hijos deH776
+- Deu_1:5en t de Moab, resolvió Moisés declararH776
+- Deu_1:7la t del cananeo, y al Libano, hasta elH776
+- Deu_1:8he entregado la t; entrad, y poseed la tH776
+- Deu_1:21Dios te ha entregado la t; sube y tomaH776
+- Deu_1:22enviemos varones...que nos reconozcan la tH776
+- Deu_1:24el valle de Escol, y reconocieron la tH776
+- Deu_1:25es buena la t que Jehová...Dios nos daH776
+- Deu_1:27aborrece, nos ha sacado de t de EgiptoH776
+- Deu_1:35no verá hombre alguno de...la buena t queH776
+- Deu_1:36a él le daré la t que pisó, y a sus hijosH776
+- Deu_2:5no os daré de su t ni aun lo que cubre laH776
+- Deu_2:9no te daré posesión de su t; porque yo heH776
+- Deu_2:12hizo Israel en la t que les dio JehováH776
+- Deu_2:19no te daré...de la t de los hijos de AmónH776
+- Deu_2:20t de gigantes fue también ella tenidaH776
+- Deu_2:24he entregado...a Sehón rey de...y a su tH776
+- Deu_2:27pasaré por tu t por el camino; por elH776
+- Deu_2:29cruce él...a la t que nos da Jehová...DiosH776
+- Deu_2:31comenzado a entregar...a Sehón y a su tH776
+- Deu_2:37a la t de los hijos de Amón no llegamosH776
+- Deu_3:2he entregado a él y...su pueblo, con su tH776
+- Deu_3:4la t de Argob, del reino de Og en BasánH2256
+- Deu_3:8tomamos...la t desde el arroyo de ArnónH776
+- Deu_3:12y esta t...la di a los rubenitas y a losH776
+- Deu_3:13t de Argob, que se llamaba la t de losH2256, [[H776]]
+- Deu_3:14Jair...tomó toda la t de Argob hasta elH2256
+- Deu_3:18Jehová vuestro Dios os ha dado esta tH776
+- Deu_3:20hereden ellos...la t que Jehová...les daH776
+- Deu_3:24¿qué dios hay...ni en la t que haga obrasH776
+- Deu_3:25pase yo...y vea aquella t buena que estáH776
+- Deu_3:28Josué...les hará heredar la t que verásH776
+- Deu_4:1poseáis la t que Jehová el Dios...os daH776
+- Deu_4:5para que hagáis así en medio de la t enH776
+- Deu_4:10todos los días que vivieren sobre la tH127
+- Deu_4:14los pusieseis por obra en la t a la cualH776
+- Deu_4:17figura de animal alguno que está en la tH776
+- Deu_4:18ningún animal que se arrastre sobre la tH127
+- Deu_4:18pez...que haya en el agua debajo de la tH776
+- Deu_4:21ni entraría en la buena t que Jehová tuH776
+- Deu_4:22yo voy a morir en esta t y no pasaré elH776
+- Deu_4:22pasaréis, y poseeréis aquella buena tH776
+- Deu_4:25cuando hayáis...envejecido en la t, siH776
+- Deu_4:26pongo hoy por testigos al cielo y a la tH776
+- Deu_4:26que pronto pereceréis...de la t hacia laH776
+- Deu_4:32día que creó Dios al hombre sobre la tH776
+- Deu_4:36y sobre la t te mostró su gran fuego, yH776
+- Deu_4:38para...darte su t por heredad, como hoyH776
+- Deu_4:39Jehová es Dios arriba...y abajo en la tH776
+- Deu_4:40y prolongues tus días sobre la t queH127
+- Deu_4:43Beser en...en t de la llanura, para losH776
+- Deu_4:46en la t de Sehón rey de los amorreosH776
+- Deu_4:47y poseyeron su t, y la t de Og rey deH776
+- Deu_5:6soy Jehová...que te saqué de t de EgiptoH776
+- Deu_5:8de cosa que está arriba...abajo en la tH776
+- Deu_5:8de cosa...ni en las aguas debajo de la tH776
+- Deu_5:15acuérdate...fuiste siervo en t de EgiptoH776
+- Deu_5:16vaya bien sobre la t que Jehová tu DiosH776
+- Deu_5:21ni desearás...su t, ni su siervo, ni suH7704
+- Deu_5:31los pongan...obra en la t que yo les doyH776
+- Deu_5:33tengáis largos días en la t que habéisH776
+- Deu_6:1que los pongáis por obra en la t a la cualH776
+- Deu_6:3para que te vaya bien en la t que fluyeH776
+- Deu_6:10te haya introducido en la t que juró aH776
+- Deu_6:12que te sacó de la t de Egipto, de casaH776
+- Deu_6:15el furor de...te destruya de sobre la tH127
+- Deu_6:18entres y poseas la buena t que JehováH776
+- Deu_6:23darnos la t que juró a nuestros padresH776
+- Deu_7:1tu Dios te haya introducido en la t en laH776
+- Deu_7:6más que todos los pueblos que...sobre la tH127
+- Deu_7:13bendecirá...el fruto de tu t, tu granoH127
+- Deu_7:13la t que juró a tus padres que te daríaH127
+- Deu_8:1la t que Jehová prometió con juramentoH776
+- Deu_8:7te introduce en la buena t, t de arroyosH776
+- Deu_8:8t de trigo y cebada...t de olivos...de mielH776
+- Deu_8:9t en la cual no comerás el...con escasezH776
+- Deu_8:9t cuyas piedras son hierro, y de cuyosH776
+- Deu_8:10bendecirás a Jehová tu...por la buena tH776
+- Deu_8:14olvides de...que te sacó de t de EgiptoH776
+- Deu_9:4por mi justicia me ha traído Jehová...tH776
+- Deu_9:5no por tu justicia entras a poseer la tH776
+- Deu_9:6no es por tu...tu Dios te da esta buena tH776
+- Deu_9:7desde el día...saliste de la t de EgiptoH776
+- Deu_9:23subid y poseed la t que yo os he dadoH776
+- Deu_9:28digan los de la t de donde nos sacasteH776
+- Deu_9:28no pudo Jehová introducirlos en la t queH776
+- Deu_10:7allí...a Jotbata, t de arroyos de aguasH776
+- Deu_10:11posean la t que juré a sus padres queH776
+- Deu_10:14de Jehová tu Dios son...la t, y todasH776
+- Deu_10:19extranjeros fuisteis en la t de EgiptoH776
+- Deu_11:3obras que hizo...a Faraón...y a toda su tH776
+- Deu_11:6abrió su boca la t, y los tragó con susH776
+- Deu_11:8entréis y poseáis la t a la cual pasáisH776
+- Deu_11:9os sean prolongados los días sobre la tH127
+- Deu_11:9y a su descendencia, t que fluye lecheH776
+- Deu_11:10t a la cual...no es como la t de EgiptoH776
+- Deu_11:11t...es t de montes y de vegas, que bebeH776
+- Deu_11:12t de la cual Jehová tu Dios cuidaH776
+- Deu_11:14daré la lluvia de vuestra t a su tiempoH776
+- Deu_11:17no haya lluvia, ni la t dé su fruto, yH127
+- Deu_11:17perezcáis pronto de la buena t que osH776
+- Deu_11:21vuestros días...numerosos sobre la t queH127
+- Deu_11:21como los días de los cielos sobre la tH776
+- Deu_11:25miedo y...sobre toda la t que pisaréisH776
+- Deu_11:29haya introducido en la t a la cual vasH776
+- Deu_11:30tras el camino del occidente en la tH776
+- Deu_11:31para ir a poseer la t que os da JehováH776
+- Deu_12:1por obra en la t que Jehová el Dios deH776
+- Deu_12:1días que vosotros viviereis sobre la tH127
+- Deu_12:10habitaréis en la t que...os hace heredarH776
+- Deu_12:16sangre...sobre la t la derramaréis comoH776
+- Deu_12:19cuidado...en todos tus días sobre la tH127
+- Deu_12:24no la comerás; en t la derramarás comoH776
+- Deu_12:29vas...y las heredes, y habités en su tH776
+- Deu_13:5, Deu_13:10Jehová...que te, sacó de t de EgiptoH776
+- Deu_13:7desde un extremo de la t hasta el otroH776
+- Deu_14:2pueblo único de entre...están sobre la tH127
+- Deu_15:4te bendecirá con abundancia en la t queH76
+- Deu_15:7haya...en la t que Jehová tu Dios te daH776
+- Deu_15:11no faltarán menesterosos en...de la tH776
+- Deu_15:11abrirás tu mano...al pobre y al...en tu tH776
+- Deu_15:15acordarás de que fuiste siervo en la tH776
+- Deu_15:23sangre; sobre la t la derramarás comoH776
+- Deu_16:3porque aprisa saliste de t de EgiptoH776
+- Deu_16:3del día en que saliste de la t de EgiptoH776
+- Deu_16:20heredes la t que Jehová tu Dios te daH776
+- Deu_17:14entrado en la t que Jehová tu Dios teH776
+- Deu_18:9cuando entres a la t que Jehová...te daH776
+- Deu_19:1las naciones cuya t Jehová...te da a tiH776
+- Deu_19:2apartarás tres ciudades en medio de la tH776
+- Deu_19:3dividirás en tres partes la t que JehováH776
+- Deu_19:8y te diere toda la t que prometió dar aH776
+- Deu_19:10sangre inocente en medio de la t queH776
+- Deu_19:14heredad que poseas en la t que JehováH776
+- Deu_20:1contigo el cual te sacó de t de EgiptoH776
+- Deu_21:1en la t...fuere hallado alguien muertoH127
+- Deu_21:23y no contaminarás tu t que Jehová tuH776
+- Deu_22:6nido...sobre la t, con pollos o huevosH776
+- Deu_23:7egipcio, porque forastero fuiste en su tH776
+- Deu_23:20te bendiga...obra de tus manos en la tH776
+- Deu_24:4no has de pervertir la t que...te da porH776
+- Deu_24:14de los extranjeros que habitan en tu tH776
+- Deu_24:22y acuérdate que fuiste siervo en t deH776
+- Deu_25:2el juez le hará echar en t, y le hará
+- Deu_25:15tus días sean prolongados sobre la tH127
+- Deu_25:19te dé descanso...en la t que Jehová tuH776
+- Deu_26:1hayas entrado en la t que Jehová...te daH776
+- Deu_26:2de todos los frutos que sacares de la tH776
+- Deu_26:3que he entrado en la t que juró JehováH776
+- Deu_26:9nos dio esta t, t que fluye leche y mielH776
+- Deu_26:10traído las primicias del fruto de la tH127
+- Deu_26:15t que nos has dado...t que fluye lecheH127, [[H776]]
+- Deu_27:2pases...a la t que Jehová tu Dios te daH776
+- Deu_27:3para entrar en la t...t que fluye lecheH776
+- Deu_28:1te exaltará sobre...las naciones de la tH776
+- Deu_28:4bendito...el fruto de tu t, el fruto deH127
+- Deu_28:8te bendecirá en la t que Jehová tu DiosH776
+- Deu_28:10verán...pueblos de la t que el nombreH776
+- Deu_28:11sobreabundar...en el fruto de tu t, enH127
+- Deu_28:12enviar la lluvia a tu t en su tiempoH776
+- Deu_28:18maldito...el fruto de tu t, la cría deH127
+- Deu_28:21hasta que te consuma de la t a la cualH127
+- Deu_28:23la t que está debajo de ti, de hierroH776
+- Deu_28:24dará Jehová por lluvia a tu t polvo yH776
+- Deu_28:25serás vejado...todos los reinos de la tH776
+- Deu_28:26servirán de comida a...y fiera de la tH776
+- Deu_28:33el fruto de tu t...comerá pueblo que noH127
+- Deu_28:42el fruto de tu t serán consumidos porH127
+- Deu_28:49nación de lejos, del extremo de la tH776
+- Deu_28:51comerá...y el fruto de tu t, hasta queH127
+- Deu_28:52caigan tus muros altos...en toda tu tH776
+- Deu_28:52sitiará...toda la t que Jehová tu DiosH776
+- Deu_28:56de su pie intentaría sentar sobre la tH776
+- Deu_28:63y seréis arrancados de sobre la t a laH127
+- Deu_28:64te esparcirá...un extremo de la t hastaH776
+- Deu_29:1celebrase con...Israel en la t de MoabH776
+- Deu_29:2que Jehová ha hecho...en la t de EgiptoH776
+- Deu_29:2Jehová ha hecho...a Faraón...a toda su tH776
+- Deu_29:8tomamos su t, y la dimos por heredad aH776
+- Deu_29:16sabéis cómo habitamos...t de Egipto, yH776
+- Deu_29:22el extranjero que vendrá de lejanas tH776
+- Deu_29:22cuando vieren las plagas de aquella tH776
+- Deu_29:23abrasada toda su t; no será sembradaH776
+- Deu_29:24¿por qué hizo esto Jehová a esta t?[[H776]]
+- Deu_29:25el pacto de...cuando los sacó de la t deH776
+- Deu_29:27encendió la ira de Jehová contra esta tH776
+- Deu_29:28Jehová los desarraigó de su t con iraH127
+- Deu_29:28y los arrojó a otra t, como hoy se veH776
+- Deu_30:5volver...a la t que heredaron tus padresH776
+- Deu_30:9y te hará...abundar...en el fruto de tu tH127
+- Deu_30:16y Jehová...te bendiga en la t a la cualH776
+- Deu_30:18no prolongaréis vuestros...sobre la tH127
+- Deu_30:19cielos y a la t llamo por testigos hoyH776
+- Deu_30:20fin de que habites sobre la t que juróH127
+- Deu_31:4como hizo con Sehón y con Og...con su tH776
+- Deu_31:7tú entrarás con este pueblo a la t queH776
+- Deu_31:13los días que viviereis sobre la t adondeH127
+- Deu_31:16tras los dioses ajenos de la t adondeH776
+- Deu_31:20yo les introduciré en la t que juré aH127
+- Deu_31:21antes que los introduzca en la t queH776
+- Deu_31:23tú introducirás...en la t que les juréH776
+- Deu_31:28llamaré por testigos...cielos y a la tH776
+- Deu_32:1escuchad, cielos...oiga la t los dichosH776
+- Deu_32:10le halló en t de desierto, y en yermoH776
+- Deu_32:13hizo subir sobre las alturas de la tH776
+- Deu_32:22y arderá...devorará la t y sus frutosH776
+- Deu_32:24fieras...veneno de serpientes de la tH6083
+- Deu_32:43y hará expiación por la t de su puebloH127
+- Deu_32:47haréis prolongar vuestros días...la tH127
+- Deu_32:49al monte Nebo, situado en la t de MoabH776
+- Deu_32:49y mira la t de Canaán, que yo doy porH776
+- Deu_32:52verás, por tanto, delante de ti la tH776
+- Deu_32:52no entrarás allá, a la t que doy a losH776
+- Deu_33:13dijo: Bendita de Jehová sea tu t, conH776
+- Deu_33:16con las mejores dádivas de la t y suH776
+- Deu_33:17acorneará a...hasta los fines de la tH776
+- Deu_33:21escoge lo mejor de la t para...porción
+- Deu_33:28habitará sola en t de grano y de vinoH776
+- Deu_34:1y le mostró Jehová toda la t de GalaadH776
+- Deu_34:2t de Efraín...la t de Judá hasta el marH776
+- Deu_34:4dijo...Esta es la t que juré a AbrahamH776
+- Deu_34:5y murió allí Moisés...en la t de MoabH776
+- Deu_34:6lo enterró en el valle, en la t de MoabH776
+- Deu_34:11prodigios...en t de Egipto, a Faraón yH776
+- Deu_34:11y a todos sus siervos y a toda su tH776
+- Jos_1:2pasa este Jordán...a la t que yo lesH776
+- Jos_1:4t de los heteos hasta el gran mar dondeH776
+- Jos_1:6repartirás...la t de la cual juré a susH776
+- Jos_1:11entrar a poseer la t que Jehová vuestroH776
+- Jos_1:13Jehová vuestro Dios...os ha dado esta tH776
+- Jos_1:14vuestros ganados quedarán en la t queH776
+- Jos_1:15que ellos también posean la t que JehováH776
+- Jos_1:15volveréis...a la t de vuestra herenciaH776
+- Jos_2:1diciéndoles: Andad, reconoced la t, y aH776
+- Jos_2:2han venido...esta noche para espiar la tH776
+- Jos_2:3porque han venido para espiar toda la tH776
+- Jos_2:9sé que iehová os ha dado esta t; porqueH776
+- Jos_2:11vuestro Dios es Dios...y abajo en la tH776
+- Jos_2:14nos hava dado la t, nosotros haremosH776
+- Jos_2:18entremos en la t, tú atarás este cordónH776
+- Jos_2:24ha entregado toda la t en nuestras manosH776
+- Jos_3:11el arca del pacto del Señor de toda la tH776
+- Jos_3:13el arca de Jehová, Señor de toda la tH776
+- Jos_4:24todos los pueblos de la t conozcan queH776
+- Jos_5:6les juró que no les dejaría ver la t queH776
+- Jos_5:6nos la daría, t que fluye leche y mielH776
+- Jos_5:11al otro día...comieron del fruto de la tH776
+- Jos_5:12que comenzaron a comer del fruto de la tH776
+- Jos_5:12que comieron de los frutos de la t deH776
+- Jos_5:14Josué, postrándose sobre...t, le adoróH776
+- Jos_6:22dijo a los...que habían reconocido la tH776
+- Jos_6:27y su nombre se divulgó por toda la tH776
+- Jos_7:2habló diciendo: Subid y reconoced la tH776
+- Jos_7:6Josué...y se postró en t sobre su rostroH776
+- Jos_7:9los cananeos...los moradores de la t oiránH776
+- Jos_7:9y borrarán nuestro nombre de sobre la tH776
+- Jos_7:21codicié y tomé...está escondido bajo tH776
+- Jos_8:1yo he entregado...Hai...su ciudad y a su tH776
+- Jos_9:6nosotros venimos de t muy lejana; hacedH776
+- Jos_9:9tus siervos han venido de t muy lejanaH776
+- Jos_9:11los moradores de nuestra t nos dijeronH776
+- Jos_9:24tu Dios...que os había de dar toda la tH776
+- Jos_9:24destruir a todos los moradores de la tH776
+- Jos_10:41hirió...toda la t de Gosén hasta GabaónH776
+- Jos_10:42estos reyes y sus t los tomó Josué deH776
+- Jos_11:3al heveo al pie de Hermón en t de MizpaH776
+- Jos_11:16tomó, pues, Josué toda aquella t, lasH776
+- Jos_11:16tomó...toda la t de Gosén, los llanosH776
+- Jos_11:22ninguno de los anaceos quedó en la t deH776
+- Jos_11:23tomó, pues, Josué toda la t, conformeH776
+- Jos_11:23entregó...y la t descansó de la guerraH776
+- Jos_12:1reyes de la t que los hijos de IsraelH776
+- Jos_12:1reyes...cuya t poseyeron al otro lado deH776
+- Jos_12:6aquella t en posesión a los rubenitas, aH776
+- Jos_12:7los reyes de la t que derrotaron JosuéH776
+- Jos_12:7Josué dio la t...a las tribus de Israel
+- Jos_13:1ya viejo...queda aún mucha t por poseerH776
+- Jos_13:2la t que queda: todos los territorios deH776
+- Jos_13:4sur toda la t de los cananeos, y MeharaH776
+- Jos_13:5la t de los giblitas, y todo el LíbanoH776
+- Jos_13:7reparte, pues, ahora esta t en heredadH776
+- Jos_13:11Galaad, y...la t de Basán hasta Salca
+- Jos_13:21príncipes...que habitaban en aquella tH776
+- Jos_13:25la mitad de la t de los hijos de AmónH776
+- Jos_14:1tomaron por heredad en la t de CanaánH776
+- Jos_14:4no dieron parte a los levitas en la tH776
+- Jos_14:5hicieron...en el repartimiento de la tH776
+- Jos_14:7envió de Cades-barnea a reconocer la tH776
+- Jos_14:9la t que holló tu pie, será para ti, yH776
+- Jos_14:15Hebrón...Y la t descansó de la guerraH776
+- Jos_15:18que pidiese a su padre t para labrarH7704
+- Jos_15:19puesto que me has dado t del NeguevH776
+- Jos_17:5diez partes además de la t de Galaad yH776
+- Jos_17:6la t de Galaad fue de los otros hijos deH776
+- Jos_17:8la t de Tapúa fue de Manasés; pero TapúaH776
+- Jos_17:12y el cananeo persistió en habitar en...tH776
+- Jos_17:15desmontes allí...en la t de los ferezeosH776
+- Jos_17:16todos los cananeos que habitan la t deH776
+- Jos_18:1Silo...después que la t les fue sometidaH776
+- Jos_18:3para venir a poseer la t que os ha dadoH776
+- Jos_18:4recorran la t, y la describan conformeH776
+- Jos_18:6delinearéis la t en siete partes, y meH776
+- Jos_18:8Josué a los que iban para delinear la tH776
+- Jos_18:8recorred la t y delineadla, y volved aH776
+- Jos_18:9y recorrieron la t, delineándola porH776
+- Jos_18:10repartió...la t a los hijos de IsraelH776
+- Jos_19:49después que acabaron de repartir la tH776
+- Jos_19:51Josué hijo...acabaron de repartir la tH776
+- Jos_21:2les hablaron en Silo en la t de CanaánH776
+- Jos_21:43dio Jehová...la t que había jurado dar aH776
+- Jos_22:4regresad...a la t de vuestras posesionesH776
+- Jos_22:9desde Silo, que está en la t de CanaánH776
+- Jos_22:9para ir a la t de Galaad, a la t de susH776
+- Jos_22:10llegando...límites...en la t de CanaánH776
+- Jos_22:11un altar frente a la t de Canaán, enH776
+- Jos_22:13y a la media tribu de...en t de GalaadH776
+- Jos_22:15los cuales fueron a...en la t de GalaadH776
+- Jos_22:19si os parece que la t de...es inmundaH776
+- Jos_22:19pasaos a la t de la posesión de JehováH776
+- Jos_22:32de la t de Galaad a la t de Canaán, aH776
+- Jos_22:33para destruir la t en que habitaban losH776
+- Jos_23:5y vosotros poseereis sus t, como JehováH776
+- Jos_23:13hasta que perezcáis de esta buena t queH127
+- Jos_23:14entrar hoy por el camino de toda la tH776
+- Jos_23:15hasta destruiros de sobre la buena tH127
+- Jos_23:16pereceréis...de esta buena t que él osH776
+- Jos_24:3río, y lo traje por toda la t de CanaánH776
+- Jos_24:8yo os introduje en la t de los amorreosH776
+- Jos_24:8yo los entregué en...y poseísteis su tH776
+- Jos_24:13di la t por la cual nada trabajasteisH776
+- Jos_24:15dioses de...amorreos en cuya t habitáisH776
+- Jos_24:17nos sacó...a nuestros padres de la t deH776
+- Jos_24:18arrojó...al amorreo que habitaba en la tH776
+- Jue_1:2que yo he entregado la t en sus manosH776
+- Jue_1:15me has dado t...dame también fuentes deH776
+- Jue_1:26y se fue el hombre a la t de los heteosH776
+- Jue_1:27y el cananeo persistía en habitar en...tH776
+- Jue_1:32Aser entre los...que habitaban en la tH776
+- Jue_1:33Neftalí...moró entre los cananeos...la tH776
+- Jue_2:1os introduje en la t de la cual...juradoH776
+- Jue_2:2que...no hagáis pacto con los...de esta tH776
+- Jue_2:12que los había sacado de la t de EgiptoH776
+- Jue_3:11y reposó la t 40 años; y murió OtonielH776
+- Jue_3:25y he aquí su señor caído en t, muertoH776
+- Jue_3:30subyugado...y reposó la t ochenta añosH776
+- Jue_4:21metió la estaca...y la enclavó en la tH776
+- Jue_5:4t tembló, y los cielos destilaron, y lasH776
+- Jue_5:31sean como...Y la t reposó cuarenta añosH776
+- Jue_6:4destruían los frutos de la t, hasta...GazaH776
+- Jue_6:5subían...así venían a la t para devastarlaH776
+- Jue_6:9cuales eché de delante de...y os di su tH776
+- Jue_6:10dioses de...amorreos, en cuya t habitáisH776
+- Jue_6:37el vellón...quedando seca toda la otra tH776
+- Jue_6:39el vellón...seco, y el rocío sobre la tH776
+- Jue_6:40vellón...seco, y en toda la t hubo rocíoH776
+- Jue_8:28reposó la t cuarenta años en los días deH776
+- Jue_9:37gente...desciende de en medio de la t, yH776
+- Jue_10:4y tenían treinta ciudades...t de GalaadH776
+- Jue_10:8en la t del amorreo, que está en GalaadH776
+- Jue_11:3huyó, pues, Jefté...y habitó en t de TobH776
+- Jue_11:5fueron a traer a Jefté de la t de TobH776
+- Jue_11:12venido...para hacer guerra contra mi t?[[H776]]
+- Jue_11:13cuanto Israel tomó mi t, cuando subióH776
+- Jue_11:15Israel no tomó t de Moab, ni t...AmónH776
+- Jue_11:17te ruego que me dejes pasar por tu tH776
+- Jue_11:18rodeó la t de Edom y la t de Moab, yH776
+- Jue_11:18lado oriental de la t de Moab, acampóH776
+- Jue_11:19ruego...me dejes pasar por tu t hastaH776
+- Jue_11:21se apoderó Israel de toda la t de losH776
+- Jue_12:12fue sepultado en...en la t de ZabulónH776
+- Jue_12:15fue sepultado en...la t de Efraín, en elH776
+- Jue_13:20Manoa y...su mujer...se postraron en tH776
+- Jue_16:24entregó en...al destruidor de nuestra tH776
+- Jue_18:2que reconociesen y explorasen bien la tH776
+- Jue_18:2les dijeron: Id y reconoced la t. EstosH776
+- Jue_18:9en marcha...ir a tomar posesión de la tH776
+- Jue_18:10llegaréis a un...a una t muy espaciosaH776
+- Jue_18:10falta de cosa alguna que haya en la tH776
+- Jue_18:14, Jue_18:17que habían ido a reconocer la tH776
+- Jue_18:30hasta el día del cautiverio de la tH776
+- Jue_19:30subieron de la t de Egipto hasta hoyH776
+- Jue_20:1se reunió...desde Dan...y la t de GalaadH776
+- Jue_20:21derribaron por t...22.000 hombres de losH776
+- Jue_20:25derribaron por t otros 18.000 hombresH776
+- Jue_21:12en Silo, que está en la t de CanaánH776
+- Jue_21:21arrebatad cada...e idos a t de BenjamínH776
+- Rut_1:1aconteció en...que hubo hambre en la tH776
+- Rut_1:7a caminar para volverse a la t de JudáH776
+- Rut_2:10ella...bajando su rostro se inclinó a tH776
+- Rut_2:11dejando...la t donde naciste, has venidoH776
+- Rut_4:3Noemí...vende una parte de las t que tuvoH7704
+- Rut_4:5día que compres las t de mano de NoemíH7704
+- 1Sa_2:8de Jehová son las columnas de la t, yH776
+- 1Sa_2:10juzgará los confines de la t; dará poderH776
+- 1Sa_3:19no dejó caer a t ninguna de sus palabrasH776
+- 1Sa_4:5Israel gritó con...júbilo que la t temblóH776
+- 1Sa_4:12rotos sus vestidos y t sobre su cabezaH127
+- 1Sa_5:3Dagón postrado en t delante del arca deH776
+- 1Sa_5:4Dagón había caído...en t delante del arcaH776
+- 1Sa_6:1estuvo el arca...en la t de los filisteosH7704
+- 1Sa_6:5de vuestros ratones que destruyen la tH776
+- 1Sa_6:5quizá aliviará su mano...sobre vuestra tH776
+- 1Sa_6:9sube por el camino de su t a Bet-semesH1366
+- 1Sa_8:14asimismo tomará lo mejor de vuestras tH7704
+- 1Sa_9:4de allí a la t de Salisa...la t de SaalimH776
+- 1Sa_9:4la t de Benjamín, y no las encontraronH776
+- 1Sa_9:5cuando vinieron a la t de Zuf, Saúl dijoH776
+- 1Sa_9:16mañana...enviaré a ti un varón de la tH776
+- 1Sa_12:6que...sacó a vuestros padres de la t deH776
+- 1Sa_13:7hebreos pasaron el Jordán a la t de GadH776
+- 1Sa_13:17un escuadrón marchaba por...la t de SualH776
+- 1Sa_13:19la t de Israel no se hallaba herreroH776
+- 1Sa_14:14en el espacio de una media yugada de tH7704
+- 1Sa_14:15la t tembló; hubo...gran consternaciónH776
+- 1Sa_14:45no ha de caer un cabello de su...en tH776
+- 1Sa_17:46los cuerpos de...a las bestias de la tH776
+- 1Sa_17:46toda la t sabrá que hay Dios en IsraelH776
+- 1Sa_17:49al filisteo...cayó sobre su rostro en tH776
+- 1Sa_20:15cortado...los enemigos de David de la tH127
+- 1Sa_20:31que el hijo de Isaí viviere sobre la tH127
+- 1Sa_20:41se inclinó tres...postrándose hasta la tH776
+- 1Sa_21:11¿no es éste David, el rey de la t? ¿noH776
+- 1Sa_22:5dijo a David...anda y vete a t de JudáH776
+- 1Sa_22:7¿Os dará...el hijo de Isaí t y viñas, yH7704
+- 1Sa_23:19¿no está David escondido en nuestra tH2793
+- 1Sa_23:23si él estuviere en la t, yo le buscaréH776
+- 1Sa_24:8Saúl miró...David inclinó su rostro a tH776
+- 1Sa_25:23Abigail vio a David...se inclinó a tH776
+- 1Sa_25:41ella...inclinó su rostro a t, diciendoH776
+- 1Sa_26:7y su lanza clavada en t a su cabeceraH776
+- 1Sa_26:8lo enclavaré en la t de un golpe, y noH776
+- 1Sa_26:20no caiga, pues, ahora mi sangre en tH776
+- 1Sa_27:1fugarme a la t de los filisteos, paraH776
+- 1Sa_27:7David habitó en la t de los filisteosH7704
+- 1Sa_27:8habitaban de largo tiempo la t, desdeH776
+- 1Sa_27:8quien va a Shur hasta la t de EgiptoH776
+- 1Sa_27:11el tiempo que moró en la t...filisteosH7704
+- 1Sa_28:3Saúl había arrojado de la t a...adivinosH776
+- 1Sa_28:9cómo ha cortado de la t a...evocadores yH776
+- 1Sa_28:13Saúl: He visto dioses que suben de la tH776
+- 1Sa_28:14Saúl...humillando el rostro a t, hizoH776
+- 1Sa_28:20Saúl cayó en t cuan grande era, y tuvoH776
+- 1Sa_29:11irse y volver a la t de los filisteosH776
+- 1Sa_30:16estaban desparramados sobre toda...tH776
+- 1Sa_30:16todo aquel gran botín...de la t de JudáH776
+- 1Sa_30:16habían tomado de la t de los filisteosH776
+- 1Sa_31:9mensajeros por toda la t de los filisteosH776
+- 2Sa_1:2sucedió que vino...y t sobre su cabezaH127
+- 2Sa_1:2llegando a David, se postró en t e hizoH776
+- 2Sa_1:21ni lluvia caiga...ni seáis t de ofrendasH7704
+- 2Sa_3:12a David...diciendo: ¿De quién es la t?[[H776]]
+- 2Sa_4:11de demandar yo su...y quitaros de la t?[[H776]]
+- 2Sa_5:6contra...jebuseos que moraban en aquella tH776
+- 2Sa_7:9el nombre de los grandes que hay en la tH776
+- 2Sa_7:23como Israel, nación singular en la t?[[H776]]
+- 2Sa_7:23y obras terribles a , tu t, por amor deH776
+- 2Sa_8:2los midió con...haciéndolos tender por tH776
+- 2Sa_9:7devolveré todas las t de Saúl tu padreH7704
+- 2Sa_9:10le labrarás las t, tú con tus hijos yH127
+- 2Sa_10:2llegados...a la t de los hijos de AmónH776
+- 2Sa_12:16y ayunó...y pasó la noche acostado en tH776
+- 2Sa_12:17para hacerlo levantar de la t; mas élH776
+- 2Sa_12:20David se levantó de la t, y se lavó yH776
+- 2Sa_13:31se echó en t, y todos sus criados queH776
+- 2Sa_14:4y postrándose en t...hizo reverencia, yH776
+- 2Sa_14:7no dejando a mi...ni reliquia sobre la tH127
+- 2Sa_14:11no caerá ni un cabello...de tu hijo en tH776
+- 2Sa_14:14y somos como aguas derramadas por tH776
+- 2Sa_14:20sabio...para conocer lo que hay en la tH776
+- 2Sa_14:22y Joab se postró en t sobre su rostroH776
+- 2Sa_14:33inclinó su rostro a t delante del reyH776
+- 2Sa_15:4¡quién me pusiera por juez en la t, paraH776
+- 2Sa_15:32rasgados sus vestidos, y t sobre suH127
+- 2Sa_17:12como cuando el rocío cae sobre la tH127
+- 2Sa_17:26y acampó Israel con Absalón en t deH776
+- 2Sa_18:9quedó suspendido entre el cielo y la tH776
+- 2Sa_18:11¿por qué no le mataste...echándole a t?[[H776]]
+- 2Sa_18:28se inclinó a t delante del rey, y dijoH776
+- 2Sa_19:29he determinado que...os dividáis las tH7704
+- 2Sa_20:10y derramó sus entrañas por t, y cayóH776
+- 2Sa_21:14sepultaron...en t de Benjamín, en ZelaH776
+- 2Sa_21:14y Dios fue propicio a la t después deH776
+- 2Sa_22:8la t fue conmovida, y tembló...cimientosH776
+- 2Sa_22:43como polvo de la t los molí; como lodoH776
+- 2Sa_23:4lluvia que hace brotar la hierba de la tH776
+- 2Sa_24:6fueron a Galaad y a la t baja de HodsiH776
+- 2Sa_24:8después...hubieron recorrido toda la tH776
+- 2Sa_24:13¿quieres...siete años de hambre en tu t?[[H776]]
+- 2Sa_24:13¿o que tres días haya peste en tu t?[[H776]]
+- 2Sa_24:20se inclinó delante del rey rostro a tH776
+- 2Sa_24:25y Jehová oyó las súplicas de la t, yH776
+- 1Re_1:3buscaron una joven...por toda la t deH1366
+- 1Re_1:23delante del rey inclinando...rostro a tH776
+- 1Re_1:31Betsabé se inclinó...con su rostro a tH776
+- 1Re_1:40que parecía que la t se hundía con elH776
+- 1Re_1:52ni uno de sus cabellos caerá en t; masH776
+- 1Re_2:2yo sigo el camino de todos en la tH776
+- 1Re_4:10éste tenía...Soco y toda la t de HeferH776
+- 1Re_4:19en la t de Galaad, la t de Sehón rey deH776
+- 1Re_4:19era el único gobernador en aquella tH776
+- 1Re_4:21señoreaba...hasta la t de los filisteosH776
+- 1Re_4:34venían de...de todos los reyes de la tH776
+- 1Re_7:46lo hizo fundir el rey en...en t arcillosaH776
+- 1Re_8:9hizo pacto...salieron de la t de EgiptoH776
+- 1Re_8:21está el pacto...cuando los sacó de la tH776
+- 1Re_8:23ni arriba en los cielos ni abajo en la tH776
+- 1Re_8:27¿es verdad que Dios morará sobre la t?[[H776]]
+- 1Re_8:34y los volverás a la t que diste a susH127
+- 1Re_8:36darás lluvias sobre tu t, la cual disteH776
+- 1Re_8:37si en la t hubiere hambre, pestilenciaH776
+- 1Re_8:37los sitiaren en la t en donde habitenH776
+- 1Re_8:40días que vivan sobre la faz de la t queH127
+- 1Re_8:41el extranjero...que viniere de lejanas tH776
+- 1Re_8:43que todos los pueblos de la t conozcanH776
+- 1Re_8:46para que los cautive y lleve a t enemigaH776
+- 1Re_8:47si ellos volvieren en sí en la t dondeH776
+- 1Re_8:47a ti en la t de los que los cautivaronH776
+- 1Re_8:48se convirtieren...en la t de sus enemigosH776
+- 1Re_8:48y oraren a ti con el rostro hacia su tH776
+- 1Re_8:53entre todos los pueblos de la t, comoH776
+- 1Re_8:60los pueblos de la t sepan que Jehová esH776
+- 1Re_9:7cortaré a Israel de...la faz de la t queH127
+- 1Re_9:8¿por qué ha hecho así Jehová a esta t yH776
+- 1Re_9:9había sacado a sus padres de t de EgiptoH776
+- 1Re_9:11dio a Hiram veinte ciudades en t deH776
+- 1Re_9:13y les puso por nombre, la t de CabulH776
+- 1Re_9:18a Baalat, y a Tadmor en t del desiertoH776
+- 1Re_9:19ciudades...y en toda la t de su señoríoH776
+- 1Re_9:21hijos que quedaron en la t después deH776
+- 1Re_9:26que está junto a Elot...en la t de EdomH776
+- 1Re_10:6al rey: Verdad es lo que oí en mi t deH776
+- 1Re_10:13y ella...se fue a su t con sus criadosH776
+- 1Re_10:15y lo de todos los...principales de la tH776
+- 1Re_10:23así excedía...a todos los reyes de la tH776
+- 1Re_10:24la t procuraba ver la cara de SalomónH776
+- 1Re_11:18Faraón rey de Egipto...y aun les dio tH776
+- 1Re_11:21Hadad dijo a Faraón: Déjame ir a mi tH776
+- 1Re_11:22¿qué te falta...procuras irte a tu t?[[H776]]
+- 1Re_12:28tus dioses...te hicieron subir de la tH776
+- 1Re_13:34fue cortada y...de sobre la faz de la tH127
+- 1Re_14:15él arrancará a Israel de esta buena tH776
+- 1Re_14:24también sodomitas en la t, e hicieronH776
+- 1Re_15:20toda Cineret, con toda la t de NefatlíH776
+- 1Re_17:7se secó el...no había llovido sobre la tH776
+- 1Re_17:14que Jehová haga llover...la faz de la tH127
+- 1Re_18:1Y yo haré llover sobre la faz de la tH127
+- 1Re_18:42postrándose en t, puso su rostro entreH776
+- 1Re_20:27de Israel...y los sitios llenaban la tH776
+- 1Re_22:36un pregón...diciendo...cada cual a su t![[H776]]
+- 1Re_22:46de la t el resto de los sodomitas queH776
+- 2Re_2:19las aguas son malas, y la t es estérilH776
+- 2Re_3:19y destruiréis con piedras toda t fértil
+- 2Re_3:20vinieron aguas...la t se llenó de aguasH776
+- 2Re_3:25en todas las t fértiles echó cada uno su
+- 2Re_3:27apartaron de él, y se volvieron a su tH776
+- 2Re_4:37inclinó a t; y después tomó a su hijoH776
+- 2Re_4:38cuando había una grande hambre en la tH776
+- 2Re_5:2habían llevado cautiva de la t de IsraelH776
+- 2Re_5:4ha dicho una muchacha que es de la t deH776
+- 2Re_5:15no hay Dios en toda la t, sino en IsraelH776
+- 2Re_5:17ruego...¿de esta t no se dará a tu siervoH127
+- 2Re_5:19se fue...y caminó como media legua de t
+- 2Re_6:23y nunca más vinieron bandas...a la t deH776
+- 2Re_8:1el hambre...vendrá sobre la t por 7 añosH776
+- 2Re_8:2fue ella...y vivió en t de los filisteosH776
+- 2Re_8:3la mujer volvió de la t de los filisteosH776
+- 2Re_8:3, 2Re_8:5implorar al rey por su casa y...sus tH7704
+- 2Re_8:6hazle devolver...todos los frutos de sus tH776
+- 2Re_9:37Jezabel será como estiércol sobre...la tH7704
+- 2Re_10:10que de la palabra de...nada caerá en tH776
+- 2Re_10:33toda la t de Galaad, de Gad, de RubénH776
+- 2Re_11:18el pueblo de la t entró en el templo deH776
+- 2Re_11:19el pueblo de la t, y llevaron al reyH776
+- 2Re_11:20todo el pueblo de la t se regocijó, yH776
+- 2Re_13:18las hubo tomado, le dijo: Golpea la tH776
+- 2Re_13:20vinieron bandas...de moabitas a la tH776
+- 2Re_15:19y vino Pul rey de Asiria a atacar la tH776
+- 2Re_15:29y tomó a Ijón...y toda la t de NeftalíH776
+- 2Re_16:15holocausto de todo el pueblo de la tH776
+- 2Re_17:7Jehová su...que los sacó de t de EgiptoH776
+- 2Re_17:23e Israel fue llevado cautivo de su tH127
+- 2Re_17:26no conocen la ley del Dios de aquella t, y élH776
+- 2Re_17:26porque no conocen la ley del Dios de la t
+- 2Re_17:36a Jehová, que os sacó de t de EgiptoH776
+- 2Re_18:25ha dicho: Sube a esta t, y destrúyelaH776
+- 2Re_18:32yo...os lleve a una t como la vuestraH776
+- 2Re_18:32t de grano y de vino, t de pan y deH776
+- 2Re_18:32viñas, t de olivas, de aceite, y de mielH776
+- 2Re_18:33ha librado su t de la mano del rey deH776
+- 2Re_18:35¿qué dios...de estas t ha librado su tH776
+- 2Re_19:7volverá a su t...en su t caiga a espadaH776
+- 2Re_19:11has oído lo que han hecho...a todas las tH776
+- 2Re_19:15eres Dios de todos los reinos de la tH776
+- 2Re_19:15sólo tú eres...hiciste el cielo y la tH776
+- 2Re_19:17han destruido las naciones y sus tH776
+- 2Re_19:19sepan...los reinos de la t que sólo túH776
+- 2Re_19:37lo hirieron...y huyeron a t de AraratH776
+- 2Re_20:14de lejanas t han venido, de BabiloniaH776
+- 2Re_21:8pie de Israel sea movido de la t que diH127
+- 2Re_21:24el pueblo de la t mató a todos los queH776
+- 2Re_21:24puso el pueblo de la t...Josías su hijoH776
+- 2Re_23:24barrió...abominaciones...en la t de JudáH776
+- 2Re_23:30pueblo de la t tomó a Joacaz...por reyH776
+- 2Re_23:33Faraón...e impuso sobre la t una multaH776
+- 2Re_23:35hizo avaluar la t para dar...a FaraónH776
+- 2Re_23:35sacando la plata...del pueblo de la tH776
+- 2Re_24:7nunca...el rey de Egipto salió de su tH776
+- 2Re_24:14no quedó...excepto los pobres...de la tH776
+- 2Re_24:15llevó cautivos...a los poderosos de la tH776
+- 2Re_25:3que no hubo pan para el pueblo de la tH776
+- 2Re_25:12de los pobres de la t dejó NabuzaradánH776
+- 2Re_25:12dejó...para que labrasen las viñas y la tH776
+- 2Re_25:19tomó...y 60 varones del pueblo de la tH776
+- 2Re_25:21rey...los hirió y mató...en t de HamatH776
+- 2Re_25:21fue llevado cautivo Judá de sobre su tH127
+- 2Re_25:22al pueblo que...rey...dejó en t de JudáH776
+- 2Re_25:24habitad en la t, y servid al rey deH776
+- 1Cr_1:10éste llegó a ser poderoso en la tH776
+- 1Cr_1:19fue Peleg...en sus días fue dividida la tH776
+- 1Cr_1:43los reyes que reinaron en la t de EdomH776
+- 1Cr_1:45reinó en su lugar Husam, de la t de losH776
+- 1Cr_2:22cual tuvo 23 ciudades en la t de GalaadH776
+- 1Cr_4:40y buenos pastos, y t ancha y espaciosaH776
+- 1Cr_5:9tenía mucho ganado en la t de GalaadH776
+- 1Cr_5:11hijos de Gad habitaron...la t de BasánH776
+- 1Cr_5:23Manasés...habitaron en la t desde BasánH776
+- 1Cr_5:25los dioses de los pueblos de la t, a losH776
+- 1Cr_6:55les dieron, pues, Hebrón en t de JudáH776
+- 1Cr_7:21los hijos de Gat, naturales de aquella tH776
+- 1Cr_10:9enviaron mensajeros por toda la t de losH776
+- 1Cr_11:4y los jebuseos habitaban en aquella tH776
+- 1Cr_11:13allí una parcela de t llena de cebadaH7704
+- 1Cr_13:2enviaremos a...en todas las t de IsraelH776
+- 1Cr_14:17la fama de David...por todas aquellas...tH776
+- 1Cr_16:14Dios; sus juicios están en toda la tH776
+- 1Cr_16:18a ti daré la t de Canaán, porción deH776
+- 1Cr_16:23cantad a Jehová toda la t, proclamadH776
+- 1Cr_16:30temed en su presencia, toda la t; elH776
+- 1Cr_16:31alégrense los cielos, y gócese la t, yH776
+- 1Cr_16:33de Jehová, porque viene a juzgar la tH776
+- 1Cr_17:8como el nombre de los grandes en la tH776
+- 1Cr_17:21¿Y qué pueblo hay en la t como tu pueblo IsraelH776
+- 1Cr_19:2llegaron...a la t de los hijos de AmónH776
+- 1Cr_19:3¿no vienen más bien...y reconocer la t?[[H776]]
+- 1Cr_20:1y destruyó la t de los hijos de Amón, yH776
+- 1Cr_21:12tres días...esto es, la peste en la tH776
+- 1Cr_21:16vio al ángel de...entre el cielo y la tH776
+- 1Cr_21:21miró Ornán...se postró en t ante DavidH776
+- 1Cr_22:2a los extranjeros que había en la t deH776
+- 1Cr_22:5la casa...renombre y honra en todas las tH776
+- 1Cr_22:8tú has derramado mucha sangre...en la tH776
+- 1Cr_22:18en mi mano a los moradores de la t, yH776
+- 1Cr_22:18t ha sido sometida delante de JehováH776
+- 1Cr_27:26de los que trabajaban en la...de las tH127
+- 1Cr_28:8preceptos...para que poseáis la buena tH776
+- 1Cr_29:11las cosas que están...en la t son tuyasH776
+- 1Cr_29:15nuestros días sobre la t, cual sombraH776
+- 1Cr_29:30sobre todos los reinos de aquellas tH776
+- 2Cr_1:9un pueblo numeroso como el polvo...tH776
+- 2Cr_2:12que hizo los cielos y la t, y que dioH776
+- 2Cr_2:17hombres extranjeros que había en la tH776
+- 2Cr_4:17los fundió el rey...en t arcillosa, entreH127
+- 2Cr_6:5el día que saqué a mi pueblo de la t deH776
+- 2Cr_6:14no hay Dios semejante a ti...ni en la tH776
+- 2Cr_6:18que Dios habitará con el hombre en la t?[[H776]]
+- 2Cr_6:25y les harás volver a la t que diste aH127
+- 2Cr_6:27darás lluvia sobre tu t, que diste porH776
+- 2Cr_6:28si hubiere hambre en la t, o...langostaH776
+- 2Cr_6:28o si los sitiaren sus enemigos en la tH776
+- 2Cr_6:31días que vivieren sobre la faz de la tH127
+- 2Cr_6:32al extranjero que...venido de lejanas tH776
+- 2Cr_6:33los pueblos de la t conozcan tu nombreH776
+- 2Cr_6:36lleven cautivos a t de enemigos, lejosH776
+- 2Cr_6:37y ellos volvieren en sí en la t dondeH776
+- 2Cr_6:37y oraren a ti en la t de su cautividadH776
+- 2Cr_6:38convirtieren...en la t de su cautividadH776
+- 2Cr_6:38y oraren hacia la t que tú diste a susH776
+- 2Cr_7:13mandare a la langosta que consuma la tH776
+- 2Cr_7:14y perdonaré sus pecados, y sanaré su tH776
+- 2Cr_7:20yo os arrancaré de mi t que os he dadoH127
+- 2Cr_7:21¿por qué ha hecho así Jehová a esta tH776
+- 2Cr_7:22que los sacó de la t de Egipto, y hanH776
+- 2Cr_8:6edificar en...en toda la t de su dominioH776
+- 2Cr_8:8los hijos...los que habían quedado en la tH776
+- 2Cr_8:17Salomón fue...a Elot...en la t de EdomH776
+- 2Cr_9:5rey: Verdad es lo que había oído en mi tH776
+- 2Cr_9:11nunca en la t de Judá se había vistoH776
+- 2Cr_9:12la reina de Sabá...se fue a su t con susH776
+- 2Cr_9:14los gobernadores de la t traían oro yH776
+- 2Cr_9:22excedió...a todos los reyes de la t enH776
+- 2Cr_9:23todos los reyes de la t procuraban verH776
+- 2Cr_9:26el Eufrates hasta la t de los filisteosH776
+- 2Cr_11:23esparció a...sus hijos por todas las tH776
+- 2Cr_13:9sacerdotes a la manera de...de otras tH776
+- 2Cr_14:6edificó...por cuanto había paz en la tH776
+- 2Cr_14:7estas ciudades...ya que la t es nuestraH776
+- 2Cr_15:5sino muchas aflicciones sobre...de las tH776
+- 2Cr_15:8y quitó los ídolos...de toda la t de JudáH776
+- 2Cr_16:9los ojos de Jehová contemplan toda la tH776
+- 2Cr_17:2colocó gente de guarnición en t de JudáH776
+- 2Cr_17:10el pavor de Jehová...los reinos de las tH776
+- 2Cr_19:3quitado de la t las imágenes de AseraH776
+- 2Cr_20:7¿no echaste tú los moradores de esta tH776
+- 2Cr_20:10a cuya t no quisiste que pasase IsraelH776
+- 2Cr_20:10Israel cuando venía de la t de EgiptoH776
+- 2Cr_20:18entonces Josafat se inclinó rostro a tH776
+- 2Cr_20:24he aquí yacían ellos en t muertos, puesH776
+- 2Cr_20:29pavor...sobre...los reinos de aquella tH776
+- 2Cr_21:17e invadieron la t, y tomaron todos los
+- 2Cr_23:13el pueblo de la t mostraba alegría, yH776
+- 2Cr_23:20llamó...a todo el pueblo de la t, paraH776
+- 2Cr_26:6y edificó...y en la t de los filisteos
+- 2Cr_26:21Jotam su...gobernando al pueblo de la tH776
+- 2Cr_30:9y volverán a esta t...es misericordiosoH776
+- 2Cr_30:10pasaron...correos...por la t de EfraínH776
+- 2Cr_30:25los...que habían venido de la t de IsraelH776
+- 2Cr_31:5primicias de todos los frutos de la tH7704
+- 2Cr_32:13padres hemos hecho a...pueblos de la t?[[H776]]
+- 2Cr_32:13los dioses de...esas t...librar su t deH776
+- 2Cr_32:19como contra los dioses de los...de la tH776
+- 2Cr_32:21volvió, por tanto, avergonzado a su tH776
+- 2Cr_33:8la t que yo entregué a vuestros padresH127
+- 2Cr_33:25el pueblo de la t mató a todos los queH776
+- 2Cr_33:25el pueblo de la t puso por rey en suH776
+- 2Cr_34:7y destruido...los ídolos por toda la tH776
+- 2Cr_34:8después de haber limpiado la t y la casaH776
+- 2Cr_34:33quitó Josías...abominaciones de...la tH776
+- 2Cr_36:1el pueblo de la t tomó a Joacaz hijo deH776
+- 2Cr_36:3y condenó la t a pagar cien talentos deH776
+- 2Cr_36:21hasta que la t hubo gozado de reposoH776
+- 2Cr_36:23; Esd_1:2dado todos los reinos de la tH776
+- Esd_3:3tenían miedo de los pueblos de las tH776
+- Esd_4:4el pueblo de la t intimidó al pueblo deH776
+- Esd_5:11siervos del Dios del cielo y de la t, yH772
+- Esd_6:21de las inmundicias de las gentes de la tH776
+- Esd_9:1no se han separado de los...de las t, deH776
+- Esd_9:2sido mezclado con los pueblos de las tH776
+- Esd_9:7entregados en manos de...reyes de las tH776
+- Esd_9:11la t a la cual entráis...t inmunda es aH776
+- Esd_9:12seáis fuertes y comáis el bien de la tH776
+- Esd_10:2tomamos mujeres...de los pueblos de la tH776
+- Esd_10:11apartaos de los pueblos de las t, y deH776
+- Neh_4:4por despojo en la t de su cautiverioH776
+- Neh_5:3decían: Hemos empeñado nuestras t...viñasH7704
+- Neh_5:4hemos tomado prestado...sobre nuestras tH7704
+- Neh_5:5nuestras t y nuestras viñas son de otrosH7704
+- Neh_5:11ruego que les devolváis hoy sus t, susH7704
+- Neh_5:14que fuese gobernador...en la t de JudáH776
+- Neh_8:6¡amén!...adoraron a Jehová inclinados a tH776
+- Neh_9:1se reunieron los...con cilicio y t sobre síH127
+- Neh_9:6hiciste...la t y todo lo que está en ellaH776
+- Neh_9:8pacto con él para darle la t del cananeoH776
+- Neh_9:10señales y...contra todo el pueblo de su tH776
+- Neh_9:15les dijiste que entrasen a poseer la tH776
+- Neh_9:22y poseyeron la t de Sehón, la t del reyH776
+- Neh_9:22rey de Hesbón, y la t de Og rey de BasánH776
+- Neh_9:23t de la cual habías dicho a sus padresH776
+- Neh_9:24los hijos vinieron y poseyeron la t, yH776
+- Neh_9:24entregaste...los pueblos de la t, paraH776
+- Neh_9:25y tomaron...t fértil, y heredaron casasH127
+- Neh_9:30los entregaste en...los pueblos de la tH776
+- Neh_9:35en la t espaciosa...no te sirvieron, niH776
+- Neh_9:36siervos en la t que diste a...padres paraH776
+- Neh_10:28apartado de los pueblos de las t a laH776
+- Neh_10:30que no daríamos...los pueblos de la tH776
+- Neh_10:31los pueblos de la t trajesen a venderH776
+- Neh_10:31año séptimo dejaríamos descansar la t
+- Neh_10:35traeríamos...las primicias de nuestra tH127
+- Neh_10:37el diezmo de nuestra t para los levitasH127
+- Neh_11:25tocante a las aldeas y sus t, algunosH7704
+- Neh_11:30aldeas, en Laquis y sus t, y en Azeca yH7704
+- Est_8:17muchos de entre los pueblos de la tH776
+- Est_10:1el rey Asuero impuso tributo sobre la tH776
+- Job_1:1hubo en t de Uz un varón llamado JobH776
+- Job_1:7dijo: De rodear la t y de andar por ellaH776
+- Job_1:8que no hay otro como él en la t, varónH776
+- Job_1:10por...sus bienes han aumentado sobre la tH776
+- Job_1:20Job se levantó...se postró en t y adoróH776
+- Job_2:2respondió Satanás...De rodear la t, y deH776
+- Job_2:3que no hay otro como él en la t, varónH776
+- Job_2:13se sentaron con él en t por siete díasH776
+- Job_3:14los consejeros de la t, que reedificanH776
+- Job_5:6aflicción...ni la molestia brota de la tH127
+- Job_5:10que da la lluvia sobre la faz de la tH776
+- Job_5:25de ver...tu prole como la hierba de la tH776
+- Job_7:1¿no es acaso brega la vida...sobre la tH776
+- Job_8:9siendo nuestros días...la t como sombraH776
+- Job_9:6remueve la t de su lugar, y hace temblarH776
+- Job_9:24t es entregada en manos de los impíosH776
+- Job_10:21t de tinieblas y de sombra de muerteH776
+- Job_10:22t de oscuridad, lóbrega, como sombraH776
+- Job_11:9su dimensión es más extensa que la tH776
+- Job_12:8habla a la t, y ella te enseñará; losH776
+- Job_12:15se seca; si las envía, destruyen la tH776
+- Job_12:24quita...a los jefes del pueblo de la tH776
+- Job_14:8si se envejeciere en la t su raíz, y suH776
+- Job_14:19el agua...que se lleva el polvo de la tH776
+- Job_15:19a quienes únicamente fue dada la t, yH776
+- Job_15:29no...ni extenderá por la t su hermosuraH776
+- Job_16:13y no perdonó; mi hiel derramó por tH776
+- Job_16:18¡oh t! no cubras mi sangre, y no hayaH776
+- Job_18:4¿será abandonada la t por tu causa, yH776
+- Job_18:10su cuerda está escondida en la t, y unaH776
+- Job_18:17memoria perecerá de la t, y no tendráH776
+- Job_20:4desde...fue puesto el hombre sobre la tH776
+- Job_20:27cielos...y la t se levantarán contra élH776
+- Job_22:8el hombre pudiente tuvo la t, y habitóH776
+- Job_22:24tendrás más oro que t, y como piedrasH6083
+- Job_24:4y todos los pobres de la t se escondenH776
+- Job_24:18huyen...su porción es maldita en la tH776
+- Job_26:7él extiende el...cuelga la t sobre nadaH776
+- Job_28:5de la t nace el pan, y debajo de ellaH776
+- Job_28:13ni se halla en la t de los vivientesH776
+- Job_28:24él mira hasta los fines de la t, y veH776
+- Job_30:6habitaban...en las cavernas de la t, yH6083
+- Job_30:8sin nombre, más bajos que la misma tH776
+- Job_31:38si mi t clama contra mí, y lloran todosH127
+- Job_34:13¿quién visitó por él la t? ¿Y quiénH776
+- Job_35:11enseña más que a las bestias de la tH776
+- Job_37:3dirige, y su luz hasta los fines de la tH776
+- Job_37:6porque a la nieve dice: Desciende a la tH776
+- Job_37:12para hacer...en la t, lo que él les mandeH776
+- Job_37:13unas veces por azote...por causa de su tH776
+- Job_37:17él sosiega la t con el viento del surH776
+- Job_38:4dónde estabas tú cuando yo fundaba la t?[[H776]]
+- Job_38:13para que ocupe los fines de la t, yH776
+- Job_38:18¿has considerado tú...anchuras de la t?[[H776]]
+- Job_38:24se esparce el viento solano sobre la t?[[H776]]
+- Job_38:26haciendo llover sobre la t deshabitadaH776
+- Job_38:27para saciar la t desierta e inculta, y
+- Job_38:33¿dispondrás tú de su potestad en la t?[[H776]]
+- Job_39:14el cual desampara en la t sus huevosH776
+- Job_39:21escarba la t, se alegra en su fuerzaH6010
+- Job_39:24y él con ímpetu y furor escarba la tH776
+- Job_41:33no hay sobre la t quien se le parezcaH6083
+- Job_42:15como las hijas de Job en toda la t; yH776
+- Sal_2:2se levantarán los reyes de la t, yH776
+- Sal_2:8como posesión tuya los confines de la tH776
+- Sal_2:10admitid amonestación, jueces de la tH776
+- Sal_7:5huelle en t mi vida, y mi honra ponga enH776
+- Sal_8:1cuán glorioso es tu nombre en toda la t![[H776]]
+- Sal_8:9cuán grande es tu nombre en toda la t![[H776]]
+- Sal_10:16Rey...de su t han perecido las nacionesH776
+- Sal_10:18más a hacer violencia el hombre de la tH776
+- Sal_12:6plata refinada en horno de t, purificadaH776
+- Sal_16:3para los santos que están en la t, yH776
+- Sal_17:11puestos sus ojos para echarnos por tH776
+- Sal_18:7la t fue conmovida y tembló...los montesH776
+- Sal_19:4por toda la t salió su voz, y hasta elH776
+- Sal_21:10su fruto destruirás de la t, y suH776
+- Sal_22:27se volverán a Jehová...confines de la tH776
+- Sal_22:29adorarán todos los poderosos de la tH776
+- Sal_24:1de Jehová es la t y su plenitud; elH776
+- Sal_25:13gozará...su descendencia heredará la tH776
+- Sal_27:13que veré la...en la t de los vivientesH776
+- Sal_33:5de la misericordia de...está llena la tH776
+- Sal_33:8tema a Jehová toda la t; teman delanteH776
+- Sal_33:14miró sobre todos los moradores de la tH776
+- Sal_34:16para cortar de la t la memoria de ellosH776
+- Sal_35:20y contra los mansos de la t piensanH776
+- Sal_37:3habitarás en la t, y te apacentarás deH776
+- Sal_37:9que esperan en Jehová...heredarán la tH776
+- Sal_37:11pero los mansos heredarán la t, y seH776
+- Sal_37:22los benditos de él heredarán la t; y losH776
+- Sal_37:29los justos heredarán la t, v viviránH776
+- Sal_37:34te exaltará para heredar la t; cuandoH776
+- Sal_41:2será bienaventurado en la t, y no loH776
+- Sal_42:6me acordaré...de ti desde la t del JordánH776
+- Sal_44:3no se apoderaron de la t por su espadaH776
+- Sal_44:25y nuestro cuerpo...postrado hasta la tH776
+- Sal_45:16quienes harás príncipes en toda la tH776
+- Sal_46:2no temeremos, aunque la t sea removidaH776
+- Sal_46:6bramaron...dio...su voz, se derritió la tH776
+- Sal_46:8ved...que ha puesto asolamientos en la tH776
+- Sal_46:9hace cesar las...hasta los fines de la tH776
+- Sal_46:10seré exaltado...enaltecido seré en la tH776
+- Sal_47:2es temible; Rey grande sobre toda la tH776
+- Sal_47:7Dios es el Rey de toda la t; cantad conH776
+- Sal_47:10de Dios son los escudos de la t; él esH776
+- Sal_48:2gozo de toda la t, es el monte de SionH776
+- Sal_48:4he aquí los reyes de la t se reunieron
+- Sal_48:10así es tu loor hasta los fines de la tH776
+- Sal_49:11serán eternas...dan sus nombres a sus tH127
+- Sal_50:1ha hablado, y convocado la t, desde elH776
+- Sal_50:4convocará a los cielos...y a la t, paraH776
+- Sal_52:5te desarraigará de la t de los vivientesH776
+- Sal 54 tít.¿No está David escondido en nuestra t?
+- Sal_57:5, Sal_57:11Dios; sobre toda la t sea tu gloriaH776
+- Sal_58:2la violencia de vuestras manos en la tH776
+- Sal_58:11ciertamente hay Dios que juzga en la tH776
+- Sal_59:13gobierna en...hasta los fines de la tH776
+- Sal_60:2hiciste temblar la t, la has hendidoH776
+- Sal_61:2desde el cabo de la t clamaré a tiH776
+- Sal_63:1en t seca y árida donde no hay aguasH776
+- Sal_63:9pero...caerán en los sitios bajos de la tH776
+- Sal_65:5esperanza de todos los términos de la tH776
+- Sal_65:8habitantes de los fines de la t temen
+- Sal_65:9visitas la t, y la riegas; en granH776
+- Sal_66:1aclamad a Dios con alegría, toda la tH776
+- Sal_66:4toda la t te adorará, y cantará a tiH776
+- Sal_67:2que sea conocido en la t tu camino, enH776
+- Sal_67:4y pastorearás las naciones en la tH776
+- Sal_67:6la t dará su fruto; nos bendecirá DiosH776
+- Sal_67:7y témanlo todos los términos de la tH776
+- Sal_68:6saca...mas los rebeldes habitan en t seca
+- Sal_68:8t tembló; también destilaron los cielosH776
+- Sal_68:32reinos de la t, cantad a Dios, cantadH776
+- Sal_69:34alábenle los cielos y la t, los maresH776
+- Sal_71:20me levantarás de los abismos de la tH776
+- Sal_72:6como el rocío que destila sobre la tH776
+- Sal_72:8desde el río hasta los confines de la tH776
+- Sal_72:16será echado un puñado de grano en la tH776
+- Sal_72:16los...florecerán como la hierba de la tH776
+- Sal_72:19toda la t sea llena de su gloria. AménH776
+- Sal_73:9ponen su boca...y su lengua pasea la tH776
+- Sal_73:25a ti? Y fuera de ti nada deseo en la tH776
+- Sal_74:7profanado el tabernáculo...echándolo a tH776
+- Sal_74:8quemado...las sinagogas de Dios en la tH776
+- Sal_74:12el que obra salvación en medio de la tH776
+- Sal_74:17tú fijaste todos los términos de la tH776
+- Sal_74:20los lugares tenebrosos de la t estánH776
+- Sal_75:3se arruinaban la t y sus moradores; yoH776
+- Sal_75:8y lo beberán todos los impíos de la tH776
+- Sal_76:8oír...la t tuvo temor y quedó suspensaH776
+- Sal_76:9para salvar a todos los mansos de la tH776
+- Sal_76:12cortará...temible es a...reyes de la tH776
+- Sal_77:18el mundo; se estremeció y tembló la tH776
+- Sal_78:12hizo maravillas en la t de Egipto, enH776
+- Sal_78:20torrentes inundaron la t; ¿podrá dar
+- Sal_78:54trajo...a las fronteras de su t santa
+- Sal_78:55con cuerdas repartió sus t en hereda
+- Sal_78:69como la t que cimentó para siempreH776
+- Sal_79:2carne de tus santos a...bestias de la tH776
+- Sal_80:9e hiciste arraigar...raíces, y llenó la tH776
+- Sal_81:5en José cuando salió por la t de EgiptoH776
+- Sal_81:10yo soy...te hice subir de la t de EgiptoH776
+- Sal_82:5tiemblan todos los cimientos de la tH776
+- Sal_82:8levántate, oh Dios, juzga la t; porqueH776
+- Sal_83:10fueron hechos como estiércol para la tH127
+- Sal_83:18Jehová...solo Altísimo sobre toda la tH776
+- Sal_85:1fuiste propicio a tu t, oh JehováH776
+- Sal_85:9para que habite la gloria en nuestra tH776
+- Sal_85:11verdad brotará de la t, y la justiciaH776
+- Sal_85:12el bien, y nuestra t dará su frutoH776
+- Sal_88:12y tu justicia en la t del olvido?[[H776]]
+- Sal_89:11tuyos son los cielos...la t; el mundoH776
+- Sal_89:27el más excelso de los reyes de la tH776
+- Sal_89:39has profanado su corona hasta la tH776
+- Sal_89:44hiciste cesar...echaste su trono por tH776
+- Sal_90:2antes que...y formases la t y el mundoH776
+- Sal_94:2engrandécete, oh Juez de la t, da elH776
+- Sal_95:4en su mano...las profundidades de la tH776
+- Sal_95:5lo hizo; y sus manos formaron la t seca
+- Sal_96:1cantad a Jehová cántico nuevo...toda la tH776
+- Sal_96:9adorad...temed delante de él, toda la tH776
+- Sal_96:11alégrense los cielos, y gócese la tH776
+- Sal_96:13porque vino a juzgar la t. Juzgará alH776
+- Sal_97:1Jehová reina; regocíjese la t...costasH776
+- Sal_97:4relámpagos...la t vio y se estremecióH776
+- Sal_97:5montes...delante del Señor de toda la tH776
+- Sal_97:9tú Jehová, eres excelso sobre toda la tH776
+- Sal_98:3todos los términos de la t han visto laH776
+- Sal_98:4cantad...a Jehová, toda la t; levantad laH776
+- Sal_98:9de Jehová, porque vino a juzgar la tH776
+- Sal_99:1él está sentado sobre...se conmoverá la tH776
+- Sal_100:1cantad alegres a...habitantes de...la tH776
+- Sal_101:6mis ojos pondré en los fieles de la tH776
+- Sal_101:8destruiré a todos los impíos de la tH776
+- Sal_102:15y todos los reyes de la t tu gloriaH776
+- Sal_102:19Jehová miró desde los cielos a la tH776
+- Sal_102:25desde el principio tú fundaste la tH776
+- Sal_103:11porque como...de los cielos sobre la tH776
+- Sal_104:5él fundó la t sobre sus cimientos; noH776
+- Sal_104:9traspasarán, ni volverán a cubrir la tH776
+- Sal_104:13del fruto de sus obras se sacia la tH776
+- Sal_104:14la hierba para...sacando el pan de la tH776
+- Sal_104:24la t está llena de tus beneficiosH776
+- Sal_104:30son creados, y renuevas la faz de la tH127
+- Sal_104:32él mira a la t, y ella tiembla; tocaH776
+- Sal_104:35sean consumidos de la t los pecadoresH776
+- Sal_105:7Dios; en toda la t están sus juiciosH776
+- Sal_105:11diciendo: A ti te daré la t de CanaánH776
+- Sal_105:16trajo hambre sobre la t, y quebrantóH776
+- Sal_105:23Egipto, y Jacob moró en la t de CamH776
+- Sal_105:27puso en...sus prodigios en la t de CamH776
+- Sal_105:30t produjo ranas hasta en las cámarasH776
+- Sal_105:32dio granizo...llamas de fuego en su tH776
+- Sal_105:35su país, y devoraron el fruto de su tH776
+- Sal_105:36hirió...los primogénitos en su t, lasH776
+- Sal_105:44les dio las t de las naciones, y lasH776
+- Sal_106:17abrió la t y tragó a Datán, y cubrióH776
+- Sal_106:22maravillas en la t de Cam...formidablesH776
+- Sal_106:24pero aborrecieron la t deseable; noH776
+- Sal_106:27humillar su...y esparcirlos por las tH776
+- Sal_106:38y la t fue contaminada con sangreH776
+- Sal_107:3los ha congregado de las t, del orienteH776
+- Sal_107:34t fructífera en estéril, por la maldadH776
+- Sal_107:35desierto...y la t seca en manantialesH127
+- Sal_108:5sobre...la t sea enaltecida tu gloriaH776
+- Sal_109:15Jehová, y él corte de la t su memoriaH776
+- Sal_110:6quebrantará las cabezas en muchas tH776
+- Sal_112:2su descendencia será poderosa en la tH776
+- Sal_113:6que se burnilla a mirar en...y en la t?[[H776]]
+- Sal_114:7a la presencia de Jehová tiembla la tH776
+- Sal_115:15de Jehová, que hizo los cielos y la tH776
+- Sal_115:16dado la t a los hijos de los hombresH776
+- Sal_116:9andaré delante de Jehová en la t de losH776
+- Sal_119:19forastero soy yo en la t; no encubrasH776
+- Sal_119:64de tu misericordia...está llena la tH776
+- Sal_119:87casi me han echado por t, pero no heH776
+- Sal_119:90fidelidad...afirmaste la t, y subsisteH776
+- Sal_119:119consumir a todos los impíos de la tH776
+- Sal_121:2de Jehová, que hizo los cielos y la tH776
+- Sal_124:8de Jehová, que hizo el cielo y la tH776
+- Sal_134:3el cual ha hecho los cielos y la tH776
+- Sal_135:6en los cielos y en la t, en los maresH776
+- Sal_135:7subir las nubes de los extremos de la tH776
+- Sal_135:12y dio la t de ellos en heredad, enH776
+- Sal_136:6al que extendió la t sobre las aguasH776
+- Sal_136:21dio la t de ellos en heredad, porqueH776
+- Sal_137:4¿cómo cantaremos...en t de extraños?[[H127]]
+- Sal_138:4te alabarán...todos los reyes de la tH776
+- Sal_139:15entretejido en lo...profundo de la tH776
+- Sal_140:11el...deslenguado no será firme en la tH776
+- Sal_141:7como quien hiende y rompe la t, sonH776
+- Sal_142:5y mi porción en la t de los vivientesH776
+- Sal_143:3ha postrado en t mi vida; me ha hechoH776
+- Sal_143:6a ti, mi alma a ti como la t sedientaH776
+- Sal_143:10buen espíritu me guíe a t de rectitudH776
+- Sal_146:4pues sale su aliento, y vuelve a la tH127
+- Sal_146:6el cual hizo los cielos y la t, el marH776
+- Sal_147:6Jehová...humilla a los impíos hasta la tH776
+- Sal_147:8el que prepara la lluvia para la t, elH776
+- Sal_147:15envía su palabra a la t; velozmenteH776
+- Sal_148:7alabad a Jehová desde la t...abisnosH776
+- Sal_148:11los reyes de la t y todos los pueblosH776
+- Sal_148:11príncipes y todos los jueces de la tH776
+- Sal_148:13porque...su gloria, es sobre t y cielosH776
+- Pro_2:21porque los rectos habitarán la t, yH776
+- Pro_2:22mas los impíos serán cortados de la tH776
+- Pro_3:19Jehová con sabiduría fundó la t; afirmóH776
+- Pro_8:16y todos los gobernadores juzgan la tH776
+- Pro_8:23tuve el principado, desde...antes de la tH776
+- Pro_8:26no había aún hecho la t, ni los camposH776
+- Pro_8:29cuando establecía...fundamentos de la tH776
+- Pro_8:31regocijo en la parte habitable de su tH776
+- Pro_10:30el justo...los impíos no habitarán la tH776
+- Pro_11:31el justo será recompensado en la tH776
+- Pro_12:11; Pro_28:19el que labra su t se saciará de panH776
+- Pro_17:24ojos del necio vagan...extremo de la tH776
+- Pro_21:19mejor es morar en t desierta que con
+- Pro_25:3para la profundidad de la t, y para elH776
+- Pro_25:25así son las buenas nuevas de lejanas tH776
+- Pro_28:2por la rebelión de la t sus príncipesH776
+- Pro_28:19El que labra su t se saciará de panH127
+- Pro_29:4el rey con el juicio afirma la t; masH776
+- Pro_30:4¿quién afirmó...los términos de la t?[[H776]]
+- Pro_30:14para devorar a los pobres de la t, yH776
+- Pro_30:16t que no se sacia de aguas, y el fuegoH776
+- Pro_30:21por tres cosas se alborota la t, y laH776
+- Pro_30:24cuatro cosas son de...pequeñas de la tH776
+- Pro_31:23se sienta con los ancianos de la tH776
+- Ecl_1:4generación va...la t siempre permaneceH776
+- Ecl_3:21el...del animal desciende abajo a la t?[[H776]]
+- Ecl_5:2Dios está en el cielo, y tú sobre la tH776
+- Ecl_5:9provecho de la t es para todos; el reyH776
+- Ecl_7:20no hay hombre justo en la t, que hagaH776
+- Ecl_8:14hay vanidad que se hace sobre la t: queH776
+- Ecl_8:16a ver la faena que se hace sobre la tH776
+- Ecl_10:7vi...príncipes que andaban...sobre la tH776
+- Ecl_10:16¡ay de ti, t, cuando...rey es muchachoH776
+- Ecl_10:17bienaventurada tú, t, cuando tu rey esH776
+- Ecl_11:2no sabes el mal que vendrá sobre la tH776
+- Ecl_11:3sobre la t la derramarán; y si el árbolH776
+- Ecl_12:7y el polvo vuelva a la t, como era, yH776
+- Cnt_2:12se han mostrado las flores en la tH776
+- Isa_1:2y escucha tú, t; porque habla JehováH76
+- Isa_1:7vuestra t...destruida, vuestras ciudadesH776
+- Isa_1:7t delante de...comida por extranjeros, yH127
+- Isa_1:19si quisiereis...comeréis el bien de la tH776
+- Isa_2:7t está llena de plata y oro, sus tesorosH776
+- Isa_2:7también está su t llena de caballos, yH776
+- Isa_2:8además su t está llena de ídolos, y seH776
+- Isa_2:19y se meterán...en las aberturas de la tH6083
+- Isa_2:19, Isa_2:21él se levante para castigar la tH776
+- Isa_3:26y ella, desamparada, se sentará en tH776
+- Isa_4:2el fruto de la t para grandeza y honraH776
+- Isa_5:8¿habitaréis vosotros solos en medio...t?[[H776]]
+- Isa_5:26al que está en el extremo de la t; y heH776
+- Isa_5:30mirará hacia la t, y he aquí tinieblasH776
+- Isa_6:3santo...toda la t está llena de su gloriaH776
+- Isa_6:11hasta que...la t esté hecha un desiertoH127
+- Isa_6:12lugares abandonados en medio de la tH776
+- Isa_7:16la t de los dos reyes que tú temes seráH127
+- Isa_7:18a la abeja que está en la t de AsiriaH776
+- Isa_7:22comerá el que quede en medio de la tH776
+- Isa_7:24porque toda la t será espinos y cardosH776
+- Isa_8:8llenará la anchura de tu t, oh EmanuelH776
+- Isa_8:9todos los que sois de lejanas t; ceñíosH776
+- Isa_8:21pasarán...la t fatigados y hambrientos
+- Isa_8:22y mirarán a la t, y he aquí tribulaciónH776
+- Isa_9:1vez a la t de Zabulón y a la t de NeftalíH776
+- Isa_9:2los que moraban en t de sombra de muerteH776
+- Isa_9:19por la ira de Jehová...se oscureció la tH776
+- Isa_10:14así me apoderé yo de toda la t; y noH776
+- Isa_10:23hará consumación ya...en medio de la tH776
+- Isa_11:4y argüirá con...por los mansos de la tH776
+- Isa_11:4y herirá la t con la vara de su boca, yH776
+- Isa_11:9t será llena del conocimiento de JehováH776
+- Isa_11:12reunirá los esparcidos de Judá...la tH776
+- Isa_11:16el día que subió de la t de EgiptoH776
+- Isa_12:5ha hecho...sea sabido esto por toda la tH776
+- Isa_13:5vienen de lejana t, de lo postrero deH776
+- Isa_13:5Jehová y los...para destruir toda la tH776
+- Isa_13:9para convertir la t en soledad, y raerH776
+- Isa_13:13cielos, y la t se moverá de su lugarH776
+- Isa_13:14y como gacela...cada uno huirá a su tH776
+- Isa_14:1escogerá a...y lo hará reposar en su tH127
+- Isa_14:2poseerá por siervos...en la t de JehováH127
+- Isa_14:7toda la t está en reposo y en paz; seH776
+- Isa_14:9levantar...todos los príncipes de la tH776
+- Isa_14:12cortado fuiste por t...que debilitabasH776
+- Isa_14:16aquel varón que hacía temblar la t, queH776
+- Isa_14:20destruiste tu t, mataste a tu puebloH776
+- Isa_14:21ni posean la t, ni llenen de ciudadesH776
+- Isa_14:25que quebrantaré al asirio en mi t, yH776
+- Isa_14:26está acordado sobre toda la t, y estaH776
+- Isa_15:9sobre Dimón...los sobrevivientes de la tH127
+- Isa_16:1enviad cordero al señor de la t, desdeH776
+- Isa_16:4pisoteador será consumido de sobre la tH776
+- Isa_18:1¡ay de la t que hace sombra con las alasH776
+- Isa_18:2, Isa_18:7gente fuerte y...t es surcada por ríosH776
+- Isa_18:3todos los...y habitantes de la t...miradH776
+- Isa_18:4como nube de rocío en el calor de la t
+- Isa_18:6serán dejados...para las bestias de la tH776
+- Isa_18:6e invernarán todas las bestias de la tH776
+- Isa_19:17la t de Judá será de espanto a EgiptoH127
+- Isa_19:18habrá cinco ciudades en la t de EgiptoH776
+- Isa_19:19habrá altar...en medio de la t de EgiptoH776
+- Isa_19:20y será por señal y...en la t de EgiptoH776
+- Isa_19:24Asiria para bendición en medio de la tH776
+- Isa_21:1así viene del desierto, de la t horrendaH776
+- Isa_21:9los ídolos de sus dioses quebrantó en tH776
+- Isa_21:14moradores de t de Tema, socorred conH776
+- Isa_22:18a rodar con ímpetu, como a bola por tH776
+- Isa_23:1desde la t de Quitim les es reveladoH776
+- Isa_23:8cuyos mercaderes...los nobles de la t?[[H776]]
+- Isa_23:9para abatir a todos los ilustres de la tH776
+- Isa_23:10pasa cual río de tu t...hija de TarsisH776
+- Isa_23:13mira la t de los caldeos. Este puebloH776
+- Isa_23:17Tiro...fornicará...sobre la faz de la tH127
+- Isa_24:1aquí que Jehová vacía la t y la desnudaH776
+- Isa_24:3la t será enteramente vaciada...saqueadaH776
+- Isa_24:4se destruyó, cayó la t; enfermó, cayóH776
+- Isa_24:4enfermaron los altos pueblos de la tH776
+- Isa_24:5y la t se contaminó bajo sus moradoresH776
+- Isa_24:6esta causa la maldición consumió la tH776
+- Isa_24:6fueron consumidos...habitantes de la tH776
+- Isa_24:11gozo...se desterró la alegría de la tH776
+- Isa_24:13así será en medio de la t, en medioH776
+- Isa_24:16de lo postrero de la t oímos cánticosH776
+- Isa_24:17terror...sobre ti, oh morador de la tH776
+- Isa_24:18red...y temblarán los cimientos de la tH776
+- Isa_24:19será quebrantada del todo la t...seráH776
+- Isa_24:19enteramente desmenuzada será la t, enH776
+- Isa_24:19en gran manera será la t conmovidaH776
+- Isa_24:20temblará la t como un ebrio, y seráH776
+- Isa_24:21castigará...los reyes de la t sobre la tH127
+- Isa_25:8y quitará la afrenta de su pueblo de...tH776
+- Isa_25:12la humillará y la echará a t, hastaH776
+- Isa_26:1día cantarán este cántico en t de JudáH776
+- Isa_26:5la humilló hasta la t, la derribó hastaH776
+- Isa_26:9luego que hay juicios tuyos en la t, losH776
+- Isa_26:10en t de rectitud hará iniquidad, y noH776
+- Isa_26:15ensanchaste todos los confines de la tH776
+- Isa_26:18ninguna liberación hicimos en la t, niH776
+- Isa_26:19muertos vivirán...la t dará sus muertosH776
+- Isa_26:21sale...para castigar al morador de la tH776
+- Isa_26:21y la t descubrirá la sangre derramadaH776
+- Isa_27:13que habían sido esparcidos en la t deH776
+- Isa_28:2como turbión de granizo y...derriba a tH776
+- Isa_28:22destrucción ya determinida sobre...la tH776
+- Isa_28:24¿romperá y quebrará...terrones de la t?[[H127]]
+- Isa_29:4hablarás desde la t...y tu habla saldráH776
+- Isa_29:4tu voz de la t como la de un fantasmaH776
+- Isa_30:6por t de tribulación y de angustia, deH776
+- Isa_30:23dará el Señor lluvia a...siembres la tH127
+- Isa_30:23y dará pan del fruto de la t, y seráH127
+- Isa_30:24asnos que labran la t comerán granoH127
+- Isa_32:2como arroyos, de aguas en t de sequedad
+- Isa_32:2como sombra de...peñasco en t calurosa
+- Isa_32:13la t de mi pueblo subirán espinos yH127
+- Isa_33:9enfermó la t; el Líbano se avergonzó, yH776
+- Isa_33:17hermosura; verán la t que está lejosH776
+- Isa_34:1oiga la t y cuanto hay en ella...y todoH776
+- Isa_34:6en Bosra, y grande matanza en t de EdomH776
+- Isa_34:7t se embriagará de sangre, y su polvoH776
+- Isa_34:9convertirán...en azufre, y su t en breaH776
+- Isa_36:10vine yo ahora a esta t para destruirlaH776
+- Isa_36:10me dijo: Sube a esta t y destrúyelaH776
+- Isa_36:17yo...os lleve a una t como la vuestraH776
+- Isa_36:17t de grano y de vino, t de pan y deH776
+- Isa_36:18libraron los dioses...su t de la manoH776
+- Isa_36:20¿qué dios hay entre...dioses de estas tH776
+- Isa_36:20¿qué dios hay...que haya librado su tH776
+- Isa_37:7y oirá un rumor, y volverá a su tH776
+- Isa_37:7y haré que en su t perezca a espadaH776
+- Isa_37:11han hecho los reyes de...a todas las tH776
+- Isa_37:16eres Dios de todos los reinos de la tH776
+- Isa_37:16eres Dios...hiciste los cielos y la tH776
+- Isa_37:18destruyeron todas las t y sus comarcasH776
+- Isa_37:20que todos los reinos de la t conozcanH776
+- Isa_37:38le mataron...y huyeron a la t de AraratH776
+- Isa_38:11no veré a JAH...la t de los vivientesH776
+- Isa_39:3de t muy lejana han venido...BabiloniaH776
+- Isa_40:12con tres dedos juntó el polvo de la tH776
+- Isa_40:21¿no habéis sido enseñados...t se fundó?[[H776]]
+- Isa_40:22está sentado sobre el círculo de la tH776
+- Isa_40:23que gobiernan la t hace como cosa vanaH776
+- Isa_40:24su tronco hubiera tenido raíz en la tH776
+- Isa_40:28el cual creó los confines de la t? NoH776
+- Isa_41:5los confines de la t se espantaron; seH776
+- Isa_41:9de los confines de la t, y de t lejanasH776
+- Isa_41:18y manantiales de aguas en la t secaH776
+- Isa_42:4hasta que establezca en la t justiciaH776
+- Isa_42:5el que extiende la t y sus productosH776
+- Isa_42:10su alabanza desde el fin de la t losH776
+- Isa_43:6trae...mis hijas de los confines de laH776
+- Isa_44:3derramaré aguas...ríos sobre la t árida
+- Isa_44:23gritad...júbilo, profundidades de la tH776
+- Isa_44:24cielos, que extiendo la t por mí mismoH776
+- Isa_45:8ábrase la t, y prodúzcanse la salvacionH776
+- Isa_45:9tiesto con los tiestos de la t! ¿DiráH127
+- Isa_45:12yo hice la t, y...sobre ella al hombreH776
+- Isa_45:18él es Dios, el que formó la t, el queH776
+- Isa_45:19no hablé...en un lugar oscuro de la tH776
+- Isa_45:22sed salvos, todos los términos de la tH776
+- Isa_46:11que llamo...de t lejana al varón de miH776
+- Isa_47:1siéntate en la t, sin trono, hija de losH776
+- Isa_48:13mi mano fundó también la t, y mi manoH776
+- Isa_48:20llevadlo hasta lo postrero de la tH776
+- Isa_49:6mi salvación hasta lo postrero de la tH776
+- Isa_49:8te daré...para que restaures la t, paraH776
+- Isa_49:12del occidente, y éstos de la t de SinimH776
+- Isa_49:13cantad...y alégrate, t; y prorrumpid enH776
+- Isa_49:19tu t devastada, arruinada y desierta
+- Isa_49:23con el rostro inclinado a t te adoraránH776
+- Isa_51:6alzad...vuestros ojos, y mirad...a la tH776
+- Isa_51:6la t se envejecerá como ropa de vestirH776
+- Isa_51:13que extendió los cielos y fundó, la tH776
+- Isa_51:16cielos y echando los cimientos de la tH776
+- Isa_51:23y tú pusiste tu cuerpo como t, y comoH776
+- Isa_52:10los confines de la t verán la salvaciónH776
+- Isa_53:2y como raíz de t seca; no hay parecer en él
+- Isa_53:8fue cortado de la t de los vivientes, yH776
+- Isa_54:5Hacedor...Dios de toda la t será llamadoH776
+- Isa_54:9nunca más las aguas de Noé...sobre la tH776
+- Isa_55:9como son más altos los cielos que la tH776
+- Isa_55:10que riega la t, y la hace germinar yH776
+- Isa_57:13en mí confía tendrá la t por heredadH776
+- Isa_58:14te haré subir sobre las alturas de la tH776
+- Isa_60:2he aquí que tinieblas cubrirán la t, yH776
+- Isa_60:18nunca más se oirá en tu t violenciaH776
+- Isa_60:21tu pueblo...para siempre heredarán la tH776
+- Isa_61:7lo cual en sus t poseerán doble honraH776
+- Isa_61:11como la t produce su renuevo, y comoH776
+- Isa_62:4Desamparada, ni tu t se dirá...DesoladaH776
+- Isa_62:4serás llamada Hefzi-bá, y tu t, BeulaH776
+- Isa_62:4estará en ti, y tu t será desposadaH776
+- Isa_62:7hasta que...ponga por alabanza en la tH776
+- Isa_62:11hizo oír hasta lo último de la t: DecidH776
+- Isa_63:6los embriagué...derramé en t su sangreH776
+- Isa_65:9escogidos poseerán por heredad la t, y
+- Isa_65:16que se bendijere en la t, en el DiosH776
+- Isa_65:16y el que jurare en la t, por el DiosH776
+- Isa_65:17que yo crearé nuevos cielos y nueva tH776
+- Isa_66:1es mi trono, y la t estrado de mis piesH776
+- Isa_66:8¿concebirá la t en un día? ¿Nacerá unaH776
+- Isa_66:22cielos nuevos y la nueva t que yo hagoH776
+- Jer_1:1palabras de Jeremías...t de BenjamínH776
+- Jer_1:14soltará el mal sobre todos...de esta tH776
+- Jer_1:18como muro de bronce contra toda esta tH776
+- Jer_1:18contra los reyes...y el pueblo de la tH776
+- Jer_2:2andabas en pos de mí...en t no sembradaH776
+- Jer_2:6que nos hizo subir de la t de Egipto, queH776
+- Jer_2:6nos condujo...por tina t desierta...t secaH776
+- Jer_2:6por una t por la cual no pasó varón, niH776
+- Jer_2:7y os introduje en t de abundancia, paraH776
+- Jer_2:7pero entrasteis y contaminasteis mi t, eH776
+- Jer_2:15león...alzaron su voz, y asolaron su tH776
+- Jer_2:31¿he sido...desierto para Israel, o t deH776
+- Jer_3:1si...¿no será tal t del todo amancillada?[[H776]]
+- Jer_3:2y con tu maldad has contaminado la tH776
+- Jer_3:9la t fue contaminada, y adultero con laH776
+- Jer_3:16os multipliquéis y crezcáis en la t, enH776
+- Jer_3:18y vendrán...de la t del norte a la t queH776
+- Jer_3:19os daré la t deseable, la rica heredadH776
+- Jer_4:5decid: Tocad trompeta en la t; pregonadH776
+- Jer_4:7poner tu t en desolación: tus ciudadesH776
+- Jer_4:16guardas vienen de t lejana, y lanzaránH776
+- Jer_4:20toda la t es destruida; de repente sonH776
+- Jer_4:23miré a la t, y...estaba asolada y vacíaH776
+- Jer_4:27la t será asolada; pero no la destruiréH776
+- Jer_4:28por esto se enlutará la t, y los cielosH776
+- Jer_5:19servisteis a dioses...en vuestra t, asíH776
+- Jer_5:19manera...serviréis a extraños en t ajenaH776
+- Jer_5:30cosa espantosa y fea es hecha en la tH776
+- Jer_6:8para que no te convierta...t inhabitadaH776
+- Jer_6:12mano sobre los moradores de la t, diceH776
+- Jer_6:19oye, t: He aquí yo traigo mal sobre esteH776
+- Jer_6:20a mí...la buena caña olorosa de t lejana?[[H776]]
+- Jer_6:22viene pueblo de la t del norte, y unaH776
+- Jer_6:22se levantará de los confines de la tH776
+- Jer_7:7y os haré ¡llorar en este lugar, en la tH776
+- Jer_7:20se derramarán...sobre los frutos de la tH127
+- Jer_7:22el día que los saqué de la t de EgiptoH776
+- Jer_7:25el día que...salieron de la t de EgiptoH776
+- Jer_7:33para comida de...de las bestias de la tH776
+- Jer_7:34y haré cesar...porque la t será desoladaH776
+- Jer_8:2serán como estiércol sobre...faz de la tH127
+- Jer_8:16al sonido de...corceles tembló toda la tH776
+- Jer_8:16y devoraron la t y su abundancia, a laH776
+- Jer_8:19voz del clamor de...viene de la t lejanaH776
+- Jer_9:3y no se fortalecieron...la verdad en la tH776
+- Jer_9:10hasta las bestias de la t huyeron, y se
+- Jer_9:12por qué causa la t ha perecido, ha sidoH776
+- Jer_9:19abandonamos la t, porque han destruidoH776
+- Jer_9:24soy Jehová, que hago...justicia en la tH776
+- Jer_10:10a su ira tiembla la t, y las nacionesH776
+- Jer_10:11los dioses que no hicieron los...ni la tH778
+- Jer_10:11desaparezcan de la t y de debajo de losH772
+- Jer_10:12el que hizo la t con su poder, el queH776
+- Jer_10:13subir las nubes de lo postrero de la tH776
+- Jer_10:17recoge de las t tus mercaderías, la queH776
+- Jer_10:18arrojaré con honda...moradores de la tH776
+- Jer_10:22rumor viene, y alboroto grande de la tH776
+- Jer_11:4el día que los saqué de la t de EgiptoH776
+- Jer_11:5les daría la t que fluye leche y mielH776
+- Jer_11:7día que les hice subir de la t de EgiptoH776
+- Jer_11:19y cortémoslo de la t de los vivientesH776
+- Jer_12:4¿hasta cuándo estará desierta la t, yH776
+- Jer_12:5y si en la t de paz no estabas seguroH776
+- Jer_12:11fue asolada toda la t, porque no huboH776
+- Jer_12:12desde un extremo de la t hasta el otroH776
+- Jer_12:14yo los arrancaré de su t, y arrancaréH127
+- Jer_12:15y los haré volver...y cada cual a su tH776
+- Jer_13:13a todos los moradores de esta t, y aH776
+- Jer_13:18dí al rey y...Humillaos, sentaos en t
+- Jer_14:2se enlutó Judá...se sentaron tristes en tH776
+- Jer_14:4resquebrajó la t por no haber llovidoH127
+- Jer_14:8qué te has hecho como forastero en la tH776
+- Jer_14:15dicen: Ni espada ni hambre...en esta tH776
+- Jer_14:18el profeta...sacerdote...vagando en la tH776
+- Jer_15:3aves del cielo y bestias de la t paraH776
+- Jer_15:4para terror a todos los reinos de la tH776
+- Jer_15:7los aventé...hasta las puertas de la tH776
+- Jer_15:10y hombre de discordia para toda la t![[H776]]
+- Jer_15:14te haré servir a...en t que no conocesH776
+- Jer_16:3los padres que los engendren en esta tH776
+- Jer_16:4serán como estiércol sobre...faz de la tH127
+- Jer_16:4servirán de comida a...bestias de la tH776
+- Jer_16:6morirán en esta t grandes y pequeñosH776
+- Jer_16:13yo os arrojaré de esta t a una t queH776
+- Jer_16:14que hizo subir...Israel de t de EgiptoH776
+- Jer_16:15de la t del norte, y de todas las tH776
+- Jer_16:15los volveré a su t, la cual di a susH127
+- Jer_16:18contaminaron mi t con los cadáveres deH776
+- Jer_16:19naciones desde los extremos de la tH776
+- Jer_17:4te haré servir a tus enemigos en t queH776
+- Jer_17:6morará...en t despoblada y deshabitadaH776
+- Jer_17:26vendrán...t de Benjamín, de la SefelaH776
+- Jer_18:14aguas frías que corren de lejanas t?
+- Jer_18:16para poner su t en desolación, objetoH776
+- Jer_19:7daré sus cuerpos...a las bestias de la tH776
+- Jer_22:10no volverá, ni verá la t donde nacióH776
+- Jer_22:12sino que morirá. y no verá más esta tH776
+- Jer_22:26haré llevar cautiva...a t ajena en queH776
+- Jer_22:27la t a la cual ellos con toda el almaH776
+- Jer_22:28y echados a t que no habían conocido?[[H776]]
+- Jer_22:29¡T, t, t! oye palabra de JehováH776
+- Jer_23:3recogeré el remanente...de todas las tH776
+- Jer_23:5será dichoso, y hará juicio y...en la tH776
+- Jer_23:7hizo subir a...Israel de la t de EgiptoH776
+- Jer_23:8trajo...la casa de Israel de t del norteH776
+- Jer_23:8todas las t adonde yo los había echadoH776
+- Jer_23:8que hizo subir a...y habitarán en su tH127
+- Jer_23:10la t está llena de adúlteros; a causaH776
+- Jer_23:10a causa de la maldición la t...desiertaH776
+- Jer_23:15salió la hipocresía sobre toda la tH776
+- Jer_23:24¿no lleno yo, dice...el cielo y la t?[[H776]]
+- Jer_24:5a los cuales eché de este lugar a la tH776
+- Jer_24:6los volveré a esta t, y los edificaréH776
+- Jer_24:8en esta t, y a los que moran en la t deH776
+- Jer_24:9daré...por mal a todos los reinos de la tH776
+- Jer_24:10sean exterminados de la t que les di aH127
+- Jer_25:5y moraréis en la t que os dio Jehová aH127
+- Jer_25:9los traeré contra esta t y contra susH776
+- Jer_25:11toda esta t será puesta en ruinas y enH776
+- Jer_25:12castigaré...la t de los caldeos; y laH776
+- Jer_25:13sobre aquella t todas mis palabras queH776
+- Jer_25:20reyes de t de Uz...de la t de FilisteaH776
+- Jer_25:26los reinos del...sobre la faz de la tH127
+- Jer_25:29espada traigo...Jos moradores de la tH776
+- Jer_25:30cantará contra...los moradores de la tH776
+- Jer_25:31llegará el estruendo hasta el fin...tH776
+- Jer_25:32tempestad se levantará...fines de la tH776
+- Jer_25:33los muertos...desde un extremo de la tH776
+- Jer_25:33como estiércol...sobre la faz de la tH127
+- Jer_25:38asolada fue la t de ellos por la iraH776
+- Jer_26:6maldición a todas las naciones de la tH776
+- Jer_26:17se levantaron...de los ancianos de la tH776
+- Jer_26:20Urías hijo...profetizó...contra esta tH776
+- Jer_27:5yo hice la t...las bestias...sobre...la tH776
+- Jer_27:6yo he puesto todas estas t en mano deH776
+- Jer_27:7venga también el tiempo de su misma tH776
+- Jer_27:10os...para haceros alejar de vuestra tH127
+- Jer_27:11mas a la nación que...la dejaré en su tH127
+- Jer_28:8profetizaron...contra muchas t y contraH776
+- Jer_28:16que yo te quito de sobre la faz de la tH127
+- Jer_29:18por escarnio a todos los reinos de la tH776
+- Jer_30:3los traeré a la t que di a sus padresH776
+- Jer_30:10el que te salvo...de la t de cautividadH776
+- Jer_31:8los hago volver de la t del norte, y losH776
+- Jer_31:8y los reuniré de los fines de la t, yH776
+- Jer_31:16salario hay para tu...volverán de la tH776
+- Jer_31:17dice...los hijos volverán a su propia tH1366
+- Jer_31:22Jehová creará una cosa nueva sobre la tH776
+- Jer_31:23aún dirán esta palabra en la t de JudáH776
+- Jer_31:32tomé su mano para sacarlos de la t deH776
+- Jer_31:37y explorarse...los fundamentos de la tH776
+- Jer_32:8compra ahora mi heredad...t de BenjamínH776
+- Jer_32:15comprarán casas, heredades...en esta tH776
+- Jer_32:17tú hiciste el cielo y la t con tu granH776
+- Jer_32:20hiciste señales...en t de Egipto hastaH776
+- Jer_32:21y sacaste a...Israel de la t de EgiptoH776
+- Jer_32:22les diste esta t...t que fluye leche yH776
+- Jer_32:37que yo los reuniré de todas las t a lasH776
+- Jer_32:41los plantaré en esta t en verdad, deH776
+- Jer_32:43poseerán heredad en esta t de la cualH776
+- Jer_32:44y pondrán testigos, en t de BenjamínH776
+- Jer_33:2ha dicho Jehová, que hizo la t, Jehová
+- Jer_33:9las naciones de la t, que habrán oídoH776
+- Jer_33:11volveré a traer los cautivos de la tH776
+- Jer_33:13en la t de Benjamín, y alrededor deH776
+- Jer_33:15un Renuevo...juicio y justicia en la tH776
+- Jer_33:25si yo no he puesto las leyes...y la tH776
+- Jer_34:1los reinos de la t bajo el señorío de suH776
+- Jer_34:13pacto...día que los saqué de t de EgiptoH776
+- Jer_34:17afrenta ante todos los reinos de la tH776
+- Jer_34:19a todo el pueblo de la t, que pasaronH776
+- Jer_34:20serán comida...de las bestias de la tH776
+- Jer_35:7viváis muchos días sobre la faz de la tH127
+- Jer_35:11Nabucodonosor...subió a la t, dijimosH776
+- Jer_35:15viviréis en la t que di a vosotros y aH127
+- Jer_36:29cierto vendrá el rey...destruirá esta tH776
+- Jer_37:1rey...constituyó por rey en la t de JudáH776
+- Jer_37:2pero no obedeció...ni el pueblo de la tH776
+- Jer_37:7el ejército...se volvió a su t en EgiptoH776
+- Jer_37:12a t de Benjamín, para apartarse de enH776
+- Jer_37:19diciendo: No vendrá el...contra esta t?[[H776]]
+- Jer_39:5le hicieron subir a Ribla en t de HamatH776
+- Jer_39:10hizo quedar en t de Judá a los pobresH776
+- Jer_40:4mira, toda la t está delante de ti; véH776
+- Jer_40:6en medio del pueblo que había...en la tH776
+- Jer_40:7había puesto a Gedalías...gobernar la tH776
+- Jer_40:7pobres de la t que no...transportados aH776
+- Jer_40:9habitad en la t, y servid...os irá bienH776
+- Jer_40:11los judíos...que estaban en todas las tH776
+- Jer_40:12y vinieron a t de Judá, a Gedalías enH776
+- Jer_41:2, Jer_41:18rey...había puesto para gobernar la tH776
+- Jer_42:10si os quedareis quietos en esta t, osH776
+- Jer_42:12misericordia...y os hará regresar a...tH127
+- Jer_42:13no moraremos en esta t, no obedeciendoH776
+- Jer_42:14sino que entraremos en la t de EgiptoH776
+- Jer_42:16os alcanzará allí en la t de Egipto, yH776
+- Jer_43:4no obedeció...para quedarse en t de JudáH776
+- Jer_43:5había vuelto...para morar en t de JudáH776
+- Jer_43:7y entraron en t de Egipto, porque noH776
+- Jer_43:11vendrá y asolará la t de Egipto; losH776
+- Jer_43:12limpiará la t de Egipto, como el pastorH776
+- Jer_43:13las estatuas...que está en t de EgiptoH776
+- Jer_44:1moraban en la t de Egipto...t de PatrosH776
+- Jer_44:8dioses ajenos en la t de Egipto, adondeH776
+- Jer_44:8por maldición y por oprobio a...de la t?[[H776]]
+- Jer_44:9maldades...que hicieron en la t de JudáH776
+- Jer_44:12ir a t de Egipto...en t de Egipto seránH776
+- Jer_44:13castigaré a...que moran en t de EgiptoH776
+- Jer_44:14de Judá que entraron en la t de EgiptoH776
+- Jer_44:14quede vivo para volver a la t de JudáH776
+- Jer_44:15que habitaba en t de Egipto, en PatrosH776
+- Jer_44:21vuestros príncipes y el pueblo de la t?[[H776]]
+- Jer_44:22vuestra t fue puesta en asolamiento, enH776
+- Jer_44:24los de Judá que estáis en t de EgiptoH776
+- Jer_44:26todo Judá que habitáis en t de EgiptoH776
+- Jer_44:26no será invocado más en...t de EgiptoH776
+- Jer_44:27los hombres...que están en t de EgiptoH776
+- Jer_44:28volverán...t de Egipto a la t de JudáH776
+- Jer_45:4yo destruyo...y arranco...a toda esta tH776
+- Jer_46:8cubriré la t, destruiré a la ciudad yH776
+- Jer_46:10sacrificio será...en t del norte juntoH776
+- Jer_46:12oyeron tu afrenta...clamor llenó la tH776
+- Jer_46:13venida de...para asolar la t de EgiptoH776
+- Jer_46:16volvámonos a...t de nuestro nacimientoH776
+- Jer_46:27salvaré...a tu descendencia de la t deH776
+- Jer_47:2inundarán la t y su plenitud, la ciudadH776
+- Jer_47:2norte...lamentará todo morador de la tH776
+- Jer_48:18siéntate en t seca, moradora hija de
+- Jer_48:21vino juicio sobre la t de la llanuraH776
+- Jer_48:24sobre todas las ciudades de t de MoabH776
+- Jer_48:33los campos fértiles, de la t de MoabH776
+- Jer_49:21de la caída de ellos la t temblará, yH776
+- Jer_50:1habló Jehová contra...t de los caldeosH776
+- Jer_50:3una nación...pondrá su t en asolamientoH776
+- Jer_50:8huid de...salid de la t de los caldeosH776
+- Jer_50:9reunión de grandes pueblos de la t delH776
+- Jer_50:16cada uno volverá el...huirá hacia su tH776
+- Jer_50:18yo castigo al rey de Babilonia y a su tH776
+- Jer_50:21sube contra la t de Merataim, contraH776
+- Jer_50:22estruendo de guerra en la t, y...grandeH776
+- Jer_50:23fue...quebrado el martillo de toda la t![[H776]]
+- Jer_50:25obra de Jehová...en la t de los caldeosH776
+- Jer_50:26contra ella desde el extremo de la tH7093
+- Jer_50:28los que...escapan de la t de BabiloniaH776
+- Jer_50:34la causa de...para hacer reposar la tH776
+- Jer_50:38es t de ídolos, y se entontecen conH776
+- Jer_50:41reyes se levantarán...extremos de la tH776
+- Jer_50:45ha formado contra la t de los caldeosH776
+- Jer_50:46la t tembló, y el clamor se oyó entreH776
+- Jer_51:2enviaré...aventadores...y vaciarán su tH776
+- Jer_51:4caerán muertos en la t de los caldeosH776
+- Jer_51:5aunque su t fue llena de pecado contraH776
+- Jer_51:7copa de oro...que embriagó a toda la tH776
+- Jer_51:9y vámonos cada uno a su t; porque haH776
+- Jer_51:15él es el que hizo la t con su poderH776
+- Jer_51:16subir las nubes de lo último de la tH776
+- Jer_51:25contra ti...que destruiste toda la tH776
+- Jer_51:27alzad bandera en la t, tocad trompetaH776
+- Jer_51:29temblará la t, y se afligirá; porqueH776
+- Jer_51:29para poner la t de Babilonla en soledadH776
+- Jer_51:41tomada la que...alabada por toda la t![[H776]]
+- Jer_51:43t seca y desierta, t en que no moraráH776
+- Jer_51:46causa del rumor que se oirá por la tH776
+- Jer_51:46y habrá violencia en la t, dominadorH776
+- Jer_51:47y toda su t será avergonzada, y todosH776
+- Jer_51:48los cielos y la t y...cantarán de gozoH776
+- Jer_51:49por Babilonia cayeron...muertos de...tH776
+- Jer_51:52y en toda su t gemirán los heridosH776
+- Jer_51:54y gran quebrantamiento de la t de losH776
+- Jer_52:9a Ribla en t de Hamat, donde pronuncióH776
+- Jer_52:25pasaba revista al pueblo de la t paraH776
+- Jer_52:27rey...los mató en Ribla en t de HamatH127
+- Jer_52:27así Judá fue transportada de su tH776
+- Lam_2:1derribó del cielo a la t la hermosuraH776
+- Lam_2:2echó por t las fortalezas de la hija deH776
+- Lam_2:9puertas fueron echadas por t, destruyóH776
+- Lam_2:10se sentaron en t, callaron los ancianosH776
+- Lam_2:10las vírgenes...bajaron sus cabezas a tH776
+- Lam_2:11mi hígado se derramó por t a causa delH776
+- Lam_2:15¿es esta la ciudad...gozo de toda la t?[[H776]]
+- Lam_2:21niños y viejos yacían por t en...callesH776
+- Lam_3:34bajo los pies...los encarcelados de la tH776
+- Lam_4:9murieron...por falta de los frutos de la tH7704
+- Lam_4:12nunca los reyes de la t, ni todos losH776
+- Lam_4:21hija de Edom, la que habitas en t de UzH776
+- Eze_1:3t de los caldeos, junto al río QuebarH776
+- Eze_1:15una rueda sobre la t junto a los seresH776
+- Eze_1:19seres vivientes se levantaban de la tH776
+- Eze_1:21cuando se levantaban de la t, las ruedasH776
+- Eze_5:5puse en medio de las naciones y de las tH776
+- Eze_5:6más que las t que están alrededor de ellaH776
+- Eze_6:8resto...cuando seáis esparcidos por las tH776
+- Eze_6:14haré la t más asolada y devastada queH776
+- Eze_7:2ha dicho Jehová...a la t de Israel: El finH127
+- Eze_7:2viene sobre los cuatro extremos de la tH776
+- Eze_7:7mañana viene para ti, oh morador de la tH776
+- Eze_7:21será presa de los impíos de la t, y laH776
+- Eze_7:23la t está llena de delitos de sangre, yH776
+- Eze_7:27las manos del pueblo de la t temblaránH776
+- Eze_8:3alzó entre el cielo y la t, y me llevóH776
+- Eze_8:12no nos ve...Jehová ha abandonado la tH776
+- Eze_8:17después que han llenado de maldad la tH776
+- Eze_9:9la t está llena de sangre, y la ciudadH776
+- Eze_9:9abandonado Jehová la t, y Jehová no veH776
+- Eze_10:16alzaban...alas para levantarse de la tH776
+- Eze_10:19se levantaron de la t delante de misH776
+- Eze_11:13me postré rostro a t y clamé con gran
+- Eze_11:15a nosotros es dada la t en posesiónH776
+- Eze_11:16y les he esparcido por las t, con todoH776
+- Eze_11:16seré por un pequeño santuario en las tH776
+- Eze_11:17os congregaré de las t...y os daré la tH776, [[H127]]
+- Eze_11:24volvió a llevar...a la t de los caldeos
+- Eze_12:6cubrirás tu rostro, y no mirarás la tH776
+- Eze_12:12cubrirá...para no ver con sus ojos la tH776
+- Eze_12:13y haré llevarlo...a t de caldeos, peroH776
+- Eze_12:15esparciere...y los dispersare por la tH776
+- Eze_12:19y di al pueblo de la t...la t de IsraelH776
+- Eze_12:19t será despojada de su plenitud, por laH776
+- Eze_12:20y la t será asolada; y sabréis que yoH776
+- Eze_12:22refrán...que tenéis...en la t de IsraelH127
+- Eze_13:9ni a la t de Israel volverán; y sabréisH127
+- Eze_13:14y la echaré a t, y será descubierto suH776
+- Eze_14:13hijo de hombre, cuando la t pecareH776
+- Eze_14:15hiciere pasar bestias feroces por la tH776
+- Eze_14:16solos serían librados, y la t quedaríaH776
+- Eze_14:17yo trajere espada sobre la t, y dijereH776
+- Eze_14:17o si yo...dijere: Espada, pasa por la tH776
+- Eze_14:19o si enviare pestilencia sobre esa t yH776
+- Eze_15:8convertiré la t en asolamiento, por cuanto cometieronH776
+- Eze_16:3origen...es de la t de Canaán; tu padreH776
+- Eze_16:29tu fornicación en la t de Canaán y deH776
+- Eze_17:4lo llevó a t de mercaderes, y lo pusoH776
+- Eze_17:5tomó también de la simiente de la t, yH776
+- Eze_17:13llevó consigo a los poderosos de la tH776
+- Eze_18:2los que usáis este refrán sobre la t deH127
+- Eze_19:4lo llevaron con grillos a la t de EgiptoH776
+- Eze_19:7y la t fue desolada, y cuanto había enH776
+- Eze_19:12pero fue...derribada en t, y el vientoH776
+- Eze_19:13ahora está plantada...en t de sequedadH776
+- Eze_20:5cuando me di a conocer a ellos en la tH776
+- Eze_20:6que los sacaría de la t de Egipto a laH776
+- Eze_20:6sacaría...a la t que les había provistoH776
+- Eze_20:6, Eze_20:15cual es la más hermosa de todas las tH776
+- Eze_20:8mi enojo en ellos en medio de la t deH776
+- Eze_20:9actué para sacarlos de la t de EgiptoH776
+- Eze_20:10saqué de la t de Egipto, y los trajeH776
+- Eze_20:15que no los traería a la t que les habíaH776
+- Eze_20:23jurando...que los dispersaría por las tH776
+- Eze_20:28los traje a la t sobre la cual habíaH776
+- Eze_20:32seamos como...las demás familias de la tH776
+- Eze_20:34y os reuniré de las t en que estáisH776
+- Eze_20:36como litigué...en el desierto de la tH776
+- Eze_20:38la t de sus peregrinaciones los sacaréH776
+- Eze_20:38la t de Israel no entrarán; y sabréisH127
+- Eze_20:40toda ella en la t; allí los aceptaréH776
+- Eze_20:41os haya congregado de entre las t enH776
+- Eze_20:42cuando os haya traído a la t de IsraelH127
+- Eze_20:42la t por la cual alcé mi mano jurandoH776
+- Eze_21:2hijo...profetiza contra la t de IsraelH127
+- Eze_21:3a la t de Israel: Así ha dicho JehováH127
+- Eze_21:19caminos...de una misma t salgan ambosH776
+- Eze_21:30en la t donde has vivido, te juzgaréH776
+- Eze_21:32fuego, se empapará la t de tu sangreH776
+- Eze_22:4te he dado...en escarnio a todas las tH776
+- Eze_22:15te esparciré por las t; y haré fenecerH776
+- Eze_22:24di a...Tú no eres t limpia, ni rociadaH776
+- Eze_22:29el pueblo de la t usaba de opresión yH776
+- Eze_22:30que se pusiese en la...a favor de la tH776
+- Eze_23:15manera de...Caldea, t de su nacimientoH776
+- Eze_23:16envió mensajeros a la t de los caldeos
+- Eze_23:19días...había fornicado en la t de EgiptoH776
+- Eze_23:27cesar...tu fornicación de la t de EgiptoH776
+- Eze_23:48y haré cesar la lujuria de la t, yH776
+- Eze_24:7no la derramó sobre la t para que fueseH776
+- Eze_25:3y la t de Israel era asolada, y llevadaH127
+- Eze_25:6todo tu menosprecio para la t de IsraelH127
+- Eze_25:7cortaré...y te destruiré de entre las tH776
+- Eze_25:9t deseables de Bet-jesimot, Baal-meónH776
+- Eze_26:11todas...tus fuertes columnas caerán a tH776
+- Eze_26:16se sentarán sobre la t, y temblarán aH776
+- Eze_26:20te pondré en las profundidades de la tH776
+- Eze_26:20y daré gloria en la t de los vivientesH776
+- Eze_27:17y la t de Israel comerciaban contigoH776
+- Eze_27:29y todos los pilotos...se quedarán en tH776
+- Eze_27:33los reyes de la t enriqueciste con laH776
+- Eze_28:17yo te arrojaré por t; delante de losH776
+- Eze_28:18puse en ceniza sobre la t a los ojosH776
+- Eze_28:25y habitarán en su t, la cual di a miH127
+- Eze_29:5a las fieras de la t y...te he dado porH776
+- Eze_29:9la t de Egipto será asolada y desiertaH776
+- Eze_29:10y pondré la t de Egipto en desolaciónH776
+- Eze_29:12y pondré a la t de Egipto en soledadH776
+- Eze_29:12Egipto en soledad entre las t asoladasH776
+- Eze_29:12Egipto entre...lo dispersaré por las tH776
+- Eze_29:14llevaré a la t de Patros, a la t de suH776
+- Eze_29:19yo doy a Nabucodonosor...la t de EgiptoH776
+- Eze_29:20por su trabajo...he dado la t de EgiptoH776
+- Eze_30:5los hijos de las t aliadas, caerán conH776
+- Eze_30:7serán asolados entre las t asoladas, yH776
+- Eze_30:11él, y...serán traídos para destruir la tH776
+- Eze_30:11destruir...y llenarán de muertos la tH776
+- Eze_30:12y entregaré la t en manos de malos, yH776
+- Eze_30:12destruiré la t y cuanto en ella hayH776
+- Eze_30:13no habrá...príncipe de la t de EgiptoH776
+- Eze_30:13ídolos...en la t de Egipto pondré temorH776
+- Eze_30:23a los egipcios...dispersaré por las tH776
+- Eze_30:25él la extienda contra la t de EgiptoH776
+- Eze_30:26los dispersaré por las t; y sabrán queH776
+- Eze_31:12por...los arroyos de la t será quebradoH776
+- Eze_31:12irán de su sombra...les pueblos de la tH776
+- Eze_31:14están destinados...lo profundo de la tH776
+- Eze_31:16fueron consolados en lo profundo...la tH776
+- Eze_31:18derribado serás...en lo profundo de la tH776
+- Eze_32:4te dejaré en t, te echaré sobre la fazH776
+- Eze_32:4saciaré de ti a las fieras de toda la tH776
+- Eze_32:6y regaré de tu sangre la t donde nadasH776
+- Eze_32:8por ti, y pondré tinieblas sobre tu tH776
+- Eze_32:9cautiverio...por las t que no conocisteH776
+- Eze_32:15asuele la t de Egipto, y la t quedeH776
+- Eze_32:18despéñalo a él...a lo profundo de la tH776
+- Eze_32:23-24, Eze_32:26, Eze_32:32terror en la t de...vivientesH776
+- Eze_32:24descendieron...lo más profundo de la tH776
+- Eze_32:25su espanto en la t de los vivientesH776
+- Eze_32:27fueron terror de fuertes en la t de losH776
+- Eze_33:2cuando trajere yo espada sobre la t, yH776
+- Eze_33:2y el pueblo de la t tomare un hombre deH776
+- Eze_33:3él viere la espada sobre la t, y tocareH776
+- Eze_33:24que habitan...lugares asolados en la tH127
+- Eze_33:24Abraham era uno, y poseyó la t; puesH776
+- Eze_33:24nosotros nos es dada la t en posesiónH776
+- Eze_33:25comeréis...y poseeréis vosotros la t?[[H776]]
+- Eze_33:26hicisteis...¿y habréis de poseer la t?[[H776]]
+- Eze_33:28convertiré la t en desierto y...soledadH776
+- Eze_33:29convierta la t en soledad y desiertoH776
+- Eze_34:6toda la faz de la t fueron esparcidasH776
+- Eze_34:13las juntaré de las t; las traeré a suH776
+- Eze_34:13traeré a su propia t , y las apacentaréH127
+- Eze_34:25de paz, y quitaré de la t las fierasH776
+- Eze_34:27árbol del campo...y la t dará su frutoH776
+- Eze_34:27sobre su t con seguridad; y sabrán queH127
+- Eze_34:28no...ni las fieras de la t las devoraránH776
+- Eze_34:29no serán...consumidos de hambre en la tH776
+- Eze_35:10las dos t serán mías, y tomaré posesiónH776
+- Eze_35:14para que toda la t se regocije, yo teH776
+- Eze_36:5se disputaron mi t por heredad con alegría
+- Eze_36:6profetiza sobre la t de Israel, y di aH127
+- Eze_36:17mientras la...de Israel moraba en su tH127
+- Eze_36:18por la sangre que derramaron sobre la tH776
+- Eze_36:19esparcí...fueron dispersados por las tH776
+- Eze_36:20son pueblo de Jehová, y de la t de élH776
+- Eze_36:24recogeré de todas las t, y os traeré aH776
+- Eze_36:28habitaréis en la t que di a vuestrosH776
+- Eze_36:34la t asolada será labrada, en lugar deH776
+- Eze_36:35esta t que era asolada ha venido a serH776
+- Eze_37:12os haré...y os traeré a la t de IsraelH127
+- Eze_37:14y os haré reposar sobre vuestra t; yH127
+- Eze_37:21los recogeré de...y los traeré a su tH127
+- Eze_37:22y los haré una nación en la t, en losH776
+- Eze_37:25habitarán en la t que di a mi siervoH776
+- Eze_38:2pon tu rostro contra Gog en t de MagogH776
+- Eze_38:8años vendrás a la t salvada de la espadaH776
+- Eze_38:9como nublado para cubrir la t serás túH776
+- Eze_38:11y dirás: Subiré contra una t indefensaH776
+- Eze_38:12poner tus manos sobre las t desiertas
+- Eze_38:12que mora en la parte central de la tH776
+- Eze_38:16contra...como nublado para cubrirla tH776
+- Eze_38:16y te traeré sobre mi t, para que lasH776
+- Eze_38:18cuando venga Gog contra la t de IsraelH127
+- Eze_38:19habrá gran temblor sobre la t del IsraelH127
+- Eze_38:20serpiente que se arrastra sobre la tH127
+- Eze_38:20los hombres que...sobre la faz de la tH127
+- Eze_38:20y los vallados...y todo muro caerá a tH776
+- Eze_39:12estará enterrando...para limpiar la tH776
+- Eze_39:13los enterrará todo el pueblo de la tH776
+- Eze_39:14a los que queden sobre la faz de la tH776
+- Eze_39:16la ciudad será Hamona; y limpiarán la tH776
+- Eze_39:18y beberéis sangre de príncipes de la tH776
+- Eze_39:26cuando habiten en su t con seguridadH127
+- Eze_39:27y los reúna de la t de sus enemigos, yH776
+- Eze_39:28los reúna sobre su t, sin dejar allí aH127
+- Eze_40:2llevó a la t de Israel, y me puso sobreH776
+- Eze_43:2la t resplandecía a causa de su gloriaH776
+- Eze_45:1repartáis por suertes la t en heredadH776
+- Eze_45:1la porción...que le consagraréis en la tH776
+- Eze_45:4lo consagrado de esta t será para losH776
+- Eze_45:8esta t tendrá por posesión en Israel, yH776
+- Eze_45:8darán la t a la casa de Israel conformeH776
+- Eze_45:16pueblo de la t estará obligado a darH776
+- Eze_45:22sacrificará por sí...el pueblo de la tH776
+- Eze_46:3adorará el pueblo de la t delante deH776
+- Eze_46:9mas cuando el pueblo de la t entrareH776
+- Eze_47:13repartiréis la t por heredad entre lasH776
+- Eze_47:14por tanto, esta será la t de vuestraH776
+- Eze_47:15este será el límite de la t hacia elH776
+- Eze_47:18medio... de Galaad y de la t de IsraelH776
+- Eze_47:21repartiréis...t entre vosotros según lasH776
+- Eze_48:12tendrán...la porción de la t reservadaH776
+- Eze_48:14ni traspasarán las primicias de la tH776
+- Eze_48:29es la t que repartiréis por suertesH776
+- Dan_1:2los trajo a t de Sinar, a la casa deH776
+- Dan_2:10dijeron: No hay hombre sobre la t queH3007
+- Dan_2:35hecha un gran monte que llenó toda la tH772
+- Dan_2:39reino...el cual dominará sobre toda la tH772
+- Dan_4:1a todos...que moran en toda la t: Paz osH772
+- Dan_4:10me parecía ver en medio de la t un árbolH772
+- Dan_4:11, Dan_4:20desde todos los confines de la tH772
+- Dan_4:15, Dan_4:23cepa de sus raíces dejaréis en la tH772
+- Dan_4:15sea su parte entre la hierba de la tH772
+- Dan_4:22tu dominio hasta los confines de la tH772
+- Dan_4:26de dejar en la t la cepa de las raíces
+- Dan_4:35todos los habitantes de la t...como nadaH772
+- Dan_4:35su voluntad...en los habitantes de la tH772
+- Dan_6:25escribió a todos...que habitan en...la tH772
+- Dan_6:27hace...maravillas en el cielo y en la tH772
+- Dan_7:17cuatro reyes que se levantarán en la tH772
+- Dan_7:23será un cuarto reino en la t, el cualH772
+- Dan_7:23reino...y a toda la t devorará, trillaráH772
+- Dan_8:5sobre la faz de toda la t, sin tocar tH776
+- Dan_8:7lo derribó, por tanto, en t, y lo pisoteóH776
+- Dan_8:9creció mucho al sur...hacia la t gloriosa
+- Dan_8:10parte del ejército y de las...echó por tH776
+- Dan_8:11lugar de su santuario fue echado por t
+- Dan_8:12y echó por t la verdad, e hizo cuantoH776
+- Dan_8:18caí dormido en t sobre mi rostro; y élH776
+- Dan_9:6que hablaron...y a todo el pueblo de la tH776
+- Dan_9:7las t adonde los has echado a causa de suH776
+- Dan_9:15sacaste tu pueblo de la t de Egipto conH776
+- Dan_10:9caí sobre mi rostro...con mi rostro en tH776
+- Dan_10:15estaba yo con los ojos puestos en t, yH776
+- Dan_11:9así entrará en el reino...volverá a su tH127
+- Dan_11:16estará en la t gloriosa, la cual seraH776
+- Dan_11:19volverá su...a las fortalezas de su tH776
+- Dan_11:28volverá a su t con gran riqueza y suH776
+- Dan_11:28hará su voluntad, y volverá a su tH776
+- Dan_11:39honores...y por precio repartirá la tH127
+- Dan_11:40el rey...entrará por las t, e inundaráH776
+- Dan_11:41entrará a la t gloriosa, y...provinciasH776
+- Dan_11:42extenderá su mano contra las t, y noH776
+- Dan_12:2de los que duermen en el polvo de la tH127
+- Ose_1:2la t fornica apartándose de JehováH776
+- Ose_1:11un solo jefe, y subirán de la t; porqueH776
+- Ose_2:3la deje como t seca, y la mate de sedH776
+- Ose_2:15el día de su subida de la t de EgiptoH776
+- Ose_2:18pacto con...con las serpientes de la tH127
+- Ose_2:18quitaré de la t arco y espada y guerraH776
+- Ose_2:21responderé...y ellos responderán a la tH776
+- Ose_2:22la t responderá al trigo, al vino y alH776
+- Ose_2:23la sembraré para mí en la t, y tendréH776
+- Ose_4:1Jehová contiende con...moradores de la tH776
+- Ose_4:1no hay...ni conocimiento de Dios en la tH776
+- Ose_4:3se enlutará la t, y se extenuará...moradorH776
+- Ose_6:3como la lluvia tardía y temprana a la tH776
+- Ose_7:16esto será su escarnio en la t de EgiptoH776
+- Ose_9:3no quedarán en la t de Jehová, sino queH776
+- Ose_10:1a la bondad de su t aumentaron...ídolosH776
+- Ose_11:5no volverá a t de Egipto, sino que elH776
+- Ose_11:11y de la t de Asiria como paloma: y losH776
+- Ose_12:9soy Jehová tu Dios desde la t de EgiptoH776
+- Ose_12:12Jacob huyó a t de Aram, Israel sirvióH7704
+- Ose_13:4mas yo soy Jehová tu Dios desde la t deH776
+- Ose_13:5yo te conocí en el desierto, en t secaH776
+- Joe_1:2escuchad, todos los moradores de la tH776
+- Joe_1:6porque pueblo fuerte...subió a mi t; susH776
+- Joe_1:10se enlutó la t...el trigo fue destruidoH127
+- Joe_1:14congregad a los...moradores de la t enH776
+- Joe_2:1tiemblen...los moradores de la t, porqueH776
+- Joe_2:3huerto del Edén será la t delante de élH776
+- Joe_2:10delante de él temblará la t...los cielosH776
+- Joe_2:18Jehová, solícito por su t, perdonará aH776
+- Joe_2:20lo echaré en t seca y desierta; su fazH776
+- Joe_2:21t, no temas; alégrate y gózate, porqueH127
+- Joe_2:30y daré prodigios en el cielo y en la tH776
+- Joe_3:2esparcieron entre las...y repartieron mi tH776
+- Joe_3:6vendisteis los...para alejarlos de su tH1366
+- Joe_3:16su voz...y temblarán los cielos y la tH776
+- Joe_3:19derramaron en su t sangre inocenteH776
+- Amó_1:13para ensanchar sus t abrieron a lasH1366
+- Amó_2:7pisotean en el polvo de la t las cabezasH776
+- Amó_2:10os hice subir de la t de Egipto, y osH776
+- Amó_2:10para que entraseis en posesión de la tH776
+- Amó_3:1familia que hice subir de la t de EgiptoH776
+- Amó_3:2conocido de todas las familias de la tH127
+- Amó_3:5¿caerá el ave en lazo sobre la t, sinH776
+- Amó_3:5¿se levantará el lazo de la t, si no haH127
+- Amó_3:9proclamad en...en los palacios de la t deH776
+- Amó_3:11enemigo vendrá por todos lados de la tH776
+- Amó_3:14serán cortados los cuernos...caerán a tH776
+- Amó_4:13hace...y pasa sobre las alturas de la tH776
+- Amó_5:2fue dejada sobre su t, no hay quien laH127
+- Amó_5:7el juicio, y la justicia la echáis por tH776
+- Amó_5:8aguas...las derrama sobre la faz de la tH776
+- Amó_7:2cuando acabó de comer la hierba de la tH776
+- Amó_7:4con fuego...y consumió una parte de la t
+- Amó_7:10la t no puede sufrir todas sus palabrasH776
+- Amó_7:11Israel será llevado de su t...cautiverioH127
+- Amó_7:12huye a t de Judá, y come allá tu pan, yH776
+- Amó_7:17tu t será repartida por suertes; y túH127
+- Amó_7:17tú morirás en t inmunda, e Israel seráH127
+- Amó_7:17e Israel será llevado cautivo...de su tH127
+- Amó_8:4los que...arruináis a los pobres de la tH776
+- Amó_8:8¿no se estremecerá la t sobre esto? ¿NoH776
+- Amó_8:9cubriré de tinieblas la t en el día claroH776
+- Amó_8:11en los cuales enviaré hambre a la t, noH776
+- Amó_9:5el Señor, Jehová de...es el que toca la tH776
+- Amó_9:6ha establecido su expansión obre la tH776
+- Amó_9:6aguas...sobre la faz de la t las derramaH776
+- Amó_9:7¿no hice yo subir a Israel de la t deH776
+- Amó_9:8el reino...lo asolaré de la faz de la tH127
+- Amó_9:9se zarandea...y no cae un granito en la tH776
+- Amó_9:15pues los plantaré sobre su t, y nuncaH127
+- Amó_9:15nunca más serán arrancados de su t queH127
+- Abd_1:3que dices en...¿Quién me derribará a t?[[H776]]
+- Jon_1:8¿cuál es tu t, y de que pueblo eres?[[H776]]
+- Jon_1:9y temo a Jehová...que hizo el mar y la t
+- Jon_1:13para hacer volver la nave a t; mas noH3004
+- Jon_2:6la t echó sus cerrojos sobre mí...siempreH776
+- Jon_2:10y mandó Jehová...y vomitó a Jonás en t
+- Jon_4:2es...lo que yo decía estando aún en mi t?[[H127]]
+- Miq_1:2está atenta, t, y cuanto hay en ti; yH776
+- Miq_1:3Jehová sale...hollará las alturas de la tH776
+- Miq_1:6haré...de Samaria...t para plantar viñas
+- Miq_4:13y sus riquezas al Señor de toda la tH776
+- Miq_5:4será engrandecido hasta los fines de la tH776
+- Miq_5:5cuando el asirio viniere a nuestra t, yH776
+- Miq_5:6y devastarán la t de Asiria a espada, yH776
+- Miq_5:6y con sus espadas la t de Nimrod; y nosH776
+- Miq_5:6asirio, cuando viniere contra nuestra tH776
+- Miq_5:11haré...destruir las ciudades de tu t, yH776
+- Miq_6:2oíd...fuertes cimientos de la t...pleitoH776
+- Miq_6:4yo te hice subir de la t de Egipto, y deH776
+- Miq_7:2faltó el misericordioso de la t...rectoH776
+- Miq_7:13asolada la t a causa de sus moradoresH776
+- Miq_7:17como las serpientes de la t, temblaránH776
+- Nah_1:5la t se conmueve a su presencia, y elH776
+- Nah_2:13y cortaré de la t tu robo, y nunca másH776
+- Nah_3:13las puertas de tu t se abrirán de par aH776
+- Hab_1:6que camina por la anchura de la t paraH776
+- Hab_2:8a causa de...de los robos de la t, de lasH776
+- Hab_2:14la t será llena...de la gloria de JehováH776
+- Hab_2:17del robo de la t, de las ciudades y deH776
+- Hab_2:20templo: calle delante de él toda la tH776
+- Hab_3:3cielos, y la t se llenó de su alabanzaH776
+- Hab_3:6se levantó, y midió la t; miró, e hizoH776
+- Hab_3:7las tiendas de la t de Madián temblaronH776
+- Hab_3:9palabra segura. Hendiste la t con ríosH776
+- Hab_3:12con ira hollaste la t, con furor trillasteH776
+- Sof_1:2destruiré...sobre la faz de la t, diceH127
+- Sof_1:3y raeré a los hombres de sobre la...la tH127
+- Sof_1:18la t será consumida con el fuego de suH776
+- Sof_1:18hará de todos los habitantes de la tH776
+- Sof_2:3buscad a J ehová...los humildes de la tH776
+- Sof_2:5es contra vosotros, oh...t de los filisteosH776
+- Sof_2:11destruirá a todos los dioses de la t, yH776
+- Sof_2:11se inclinarán a él todas las t de lasH776
+- Sof_3:8por el fuego...será consumida toda la tH776
+- Sof_3:19os pondré por alabanza y...en toda la tH776
+- Sof_3:20y para alabanza entre...pueblos de la tH776
+- Hag_1:10la lluvia, y la t detuvo sus frutosH776
+- Hag_1:11llamé la sequía sobre esta t, y sobreH776
+- Hag_1:11sobre todo lo que la t produce, sobreH127
+- Hag_2:4cobrad ánimo, pueblo todo de la t, diceH776
+- Hag_2:6a poco yo haré temblar los cielos y la tH776
+- Hag_2:6temblar los cielos...el mar y la t seca
+- Hag_2:21habla...haré temblar los cielos y la tH776
+- Zac_1:10los que...ha enviado a recorrer la tH776
+- Zac_1:11y dijeron: Hemos recorrido la t, y heH776
+- Zac_1:11he aquí toda la t está reposada y quietaH776
+- Zac_1:21que alzaron el cuerno sobre la t de JudáH776
+- Zac_2:6eh, huid de la t del norte, dice JehováH776
+- Zac_2:12poseerá a Judá su heredad en la t santaH127
+- Zac_3:9y quitaré el pecado de la t en un díaH776
+- Zac_4:10ojos de Jehová, que recorren toda la tH776
+- Zac_4:14están delante del Señor de toda la tH776
+- Zac_5:3es la maldición que sale sobre la...la tH776
+- Zac_5:6esta es la iniquidad de ellos en toda la tH776
+- Zac_5:9y alzaron el efa entre la t y los cielosH776
+- Zac_5:11que le sea edificada casa en t de SinarH776
+- Zac_6:5de presentarse delante del Señor de...la tH776
+- Zac_6:6el carro con...salía hacia la t del norteH776
+- Zac_6:6y los overos salieron hacia la t del surH776
+- Zac_6:7afanaron por ir a recorrer la t. Y dijoH776
+- Zac_6:7id, recorred la t. Y recorrieron la tH776
+- Zac_6:8los que salieron hacia la t del norteH776
+- Zac_6:8hicieron reposar mi Espíritu en la t delH776
+- Zac_7:14t fue desolada tras ellos, sin quedarH776
+- Zac_7:14convirtieron en desierto la t deseableH776
+- Zac_8:7yo salvo a mi pueblo de la t del orienteH776
+- Zac_8:7yo salvo...de la t donde se pone el solH776
+- Zac_8:12y dará su producto la t, y los cielosH776
+- Zac_9:1la profecía...está contra la t de HadracH776
+- Zac_9:10y desde el río hasta los fines de la tH776
+- Zac_9:16los salvará...serán enaltecidos en su tH127
+- Zac_10:10porque yo los traeré de la t de EgiptoH776
+- Zac_10:10traeré a la t de Galaad y del LíbanoH776
+- Zac_11:6no tendré...piedad de...moradores de la tH776
+- Zac_11:6asolarán la t, y yo no los libraré deH776
+- Zac_11:16yo levanto en la t a un pastor que noH776
+- Zac_12:1Jehová, que extiende los...y funda la tH776
+- Zac_12:3todas las naciones de la t se juntaránH776
+- Zac_12:12y la t lamentará, cada linaje aparteH776
+- Zac_13:2quitaré de la t...nombres de...imágenesH776
+- Zac_13:2haré cortar de la t a los profetas y alH776
+- Zac_13:5no soy profeta; labrador soy de la t
+- Zac_13:8y acontecerá en toda la t...que las dosH776
+- Zac_14:9y Jehová será rey sobre toda la tH776
+- Zac_14:10la t se volverá como llanura desde GebaH776
+- Zac_14:17las familias de la t que no subieren aH776
+- Mal_3:11y no os destruirá el fruto de la tH127
+- Mal_3:12porque seréis t deseable, dice JehováH776
+- Mal_4:6no sea que yo...hiera la t con maldiciónH776
+- Mat_2:6y tú, Belén, de la t de Judá, no eresG1093
+- Mat_2:12pero...regresaron a su t por otro caminoG5561
+- Mat_2:20vete a t de Israel, porque han muertoG1093
+- Mat_2:21tomó al niño y a...vino a t de IsraelG1093
+- Mat_4:15t de Zabulón y t de Neftalí, camino delG1093
+- Mat_5:5porque ellos recibirán la t por heredadG1093
+- Mat_5:13vosotros sois la sal de la t; pero siG1093
+- Mat_5:18que pasen el cielo y la t, ni una jotaG1093
+- Mat_5:35ni por la t...es el estrado de sus piesG1093
+- Mat_6:10tu voluntad, como en el cielo, así también en la tG1093
+- Mat_6:19no os hagáis tesoros en la t, donde laG1093
+- Mat_8:28cuando llegó...a la t de los gadarenosG5561
+- Mat_9:6Hijo del Hombre tiene potestad en la tG1093
+- Mat_9:26se difundió la fama...por toda aquella tG1093
+- Mat_9:31divulgaron la fama de él por...aquella tG1093
+- Mat_10:15más tolerable el...para la t de SodomaG1093
+- Mat_10:29ni uno de...cae a t sin vuestro PadreG1093
+- Mat_10:34que he venido para traer paz a la t; noG1093
+- Mat_11:24más tolerable el...para la t de SodomaG1093
+- Mat_11:25te alabo...Señor del cielo y de la tG1093
+- Mat_12:40estará el Hijo...en el corazón de la tG1093
+- Mat_12:42porque ella vino de los fines de la tG1093
+- Mat_13:5cayó...donde no había mucha t, y brotóG1093
+- Mat_13:5brotó pronto...no tenía profundidad de tG1093
+- Mat_13:8Pero parte cayó en buena t, y dio frutoG1093
+- Mat_13:23el que fue sembrado en buena t, éste esG1093
+- Mat_13:54y venido a su t, les enseñaba en laG3968
+- Mat_13:57profeta sin honra, sino en su propia tG3968
+- Mat_14:34terminada la travesía...a t de GenesaretG1093
+- Mat_14:35noticia por toda aquella t alrededor, yG4066
+- Mat_15:35y mandó a la multitud...recostase en tG1093
+- Mat_16:19todo lo que atares en la t será atadoG1093
+- Mat_16:19lo que desatares en la t será desatadoG1093
+- Mat_17:25los reyes de la t, ¿de quiénes cobranG1093
+- Mat_18:18todo lo que atéis en la t, será atadoG1093
+- Mat_18:18y todo lo que desatéis en la t, seráG1093
+- Mat_18:19se pusieren de acuerdo en la t acercaG1093
+- Mat_19:29haya dejado casas...o t, por mi nombreG68
+- Mat_23:9llaméis padre vuestro a nadie en la tG1093
+- Mat_23:15recorréis...t para hacer un prosélitoG3584
+- Mat_23:35sangre justa que se ha derramado...la tG1093
+- Mat_24:30lamentarán todas las tribus de la t, yG1093
+- Mat_24:35y la t pasarán, pero mis palabras noG1093
+- Mat_25:18cavó en la t y escondió el dinero deG1093
+- Mat_25:25fui y escondí tu talento en la t; aquíG1093
+- Mat_27:45hubo tinieblas sobre toda la t hastaG1093
+- Mat_27:51la t tembló, y las rocas se partieronG1093
+- Mat_28:18toda potestad me es dada en...y en la tG1093
+- Mar_2:10tiene potestad en la t para perdonarG1093
+- Mar_4:1toda la gente estaba en t junto al marG1093
+- Mar_4:5cayó en...donde no tenía mucha t; y brotóG1093
+- Mar_4:5brotó...porque no tenía profundidad de tG1093
+- Mar_4:8otra parte cayó en buena t, y dio frutoG1093
+- Mar_4:20y éstos son los...sembrados en buena tG1093
+- Mar_4:26cuando un hombre echa semilla en la tG1093
+- Mar_4:28porque de suyo lleva fruto la t...granoG1093
+- Mar_4:31de mostaza, que cuando se siembra en tG1093
+- Mar_4:31más pequeña de todas...que hay en la tG1093
+- Mar_6:1salió Jesús de allí y vino a su t, y leG3968
+- Mar_6:4no hay profeta sin honra sino en su...tG3968
+- Mar_6:47al venir la noche...estaba...él solo en tG1093
+- Mar_6:53vinieron a t de Genesaret, y arribaronG1093
+- Mar_6:55y recorriendo toda la t de alrededorG4066
+- Mar_8:6mandó...que se recostase en t; y tomandoG1093
+- Mar_9:3ningún lavador en la t los puede hacerG1093
+- Mar_9:20al muchacho...cayendo en t se revolcabaG1093
+- Mar_10:29dejado casa, o...t, por causa de mí yG68
+- Mar_10:30y t, con persecuciones; y en el sigloG68
+- Mar_13:27desde el extremo de la t hasta...cieloG68
+- Mar_13:31y la t pasarán, pero mis palabras noG68
+- Mar_14:35postró en t, y oró que si fuese posibleG68
+- Mar_15:33hubo tinieblas sobre toda la t hasta laG68
+- Luc_2:14en la t paz, buena voluntad para conG68
+- Luc_4:5en un momento todos los reinos de la tG3625
+- Luc_4:14y se difundió su fama por toda la t deG4066
+- Luc_4:23tantas cosas...haz también aquí en tu tG3968
+- Luc_4:24ningún profeta es acepto en su propia tG3968
+- Luc_4:25y hubo una gran hambre en toda la tG1093
+- Luc_5:3le rogó que la apartase de t un poco; yG1093
+- Luc_5:11trajeron a t las barcas, dejándolo todoG1093
+- Luc_5:12se postró con el rostro en t y le rogó
+- Luc_5:24potestad en la t para perdonar pecadosG1093
+- Luc_6:49hombre que edificó su casa sobre tG1093
+- Luc_8:8y otra parte cayó en buena t, y nació yG1093
+- Luc_8:15mas la que cayó en buena t, éstos sonG1093
+- Luc_8:26arribaron a la t de los gadarenos, queG5561
+- Luc_8:27al llegar él a t, vino a su encuentroG1093
+- Luc_10:21oh Padre, Señor del cielo y de la tG1093
+- Luc_11:2como en el cielo, así también en la tG1093
+- Luc_11:31vino de los fines de la t para oír laG1093
+- Luc_12:49fuego vine a echar en la t; ¿y quéG1093
+- Luc_12:51venido para dar paz en la t? Os digoG1093
+- Luc_12:56sabéis distinguir el aspecto de...la tG1093
+- Luc_13:7córtala; ¿para qué inutiliza...la t?[[G1093]]
+- Luc_14:35ni para la t ni para el muladar es útilG1093
+- Luc_15:15se arrimó a uno de los...de aquella tG5561
+- Luc_16:17más fácil es que pasen el cielo y la tG1093
+- Luc_17:16y se postró rostro en t a sus pies
+- Luc_18:8cuando venga el...¿hallará fe en la t?[[G1093]]
+- Luc_19:44te derribarán a t, y a tus hijos dentroG1474
+- Luc_21:23habrá gran calamidad en la t, e iraG1093
+- Luc_21:25habrá...en la t angustia de las gentesG1093
+- Luc_21:26de las cosas que sobrevendrán en la tG3625
+- Luc_21:33cielo y la t pasarán, pero mis palabrasG1093
+- Luc_21:35que habitan sobre la faz de toda la tG1093
+- Luc_22:44gotas de sangre que caían hasta la tG1093
+- Luc_23:44hubo tinieblas sobre toda la t hasta laG1093
+- Luc_24:5tuvieron temor, y bajaron el rostro a tG1093
+- Jua_3:22vino...a la t de Judea, y estuvo allíG1093
+- Jua_3:31el que es de la t, es terrenal, y cosasG1093
+- Jua_4:44el profeta no tiene honra en su propia tG3968
+- Jua_6:21barca, la cual llegó...a la t adonde ibanG1093
+- Jua_8:6pero Jesús...escribía en t con el dedoG1093
+- Jua_8:8e inclinándose...siguió escribiendo en tG1093
+- Jua_9:6escupió en t, e hizo lodo con la salivaG5476
+- Jua_12:24grano de trigo no cae en la t y muereG1093
+- Jua_12:32yo, si fuere levantado de la t, a todosG1093
+- Jua_17:4te he glorificado en la t; he acabado laG1093
+- Jua_18:6cuando les dijo: Yo soy...y cayeron a tG5476
+- Jua_21:8no distaban de t sino como doscientosG1093
+- Jua_21:9al descender a t, vieron brasas puestasG1093
+- Jua_21:11sacó la red a t, llena de grandes pecesG1093
+- Hec_1:8testigos en...hasta lo último de la tG1093
+- Hec_2:19daré prodigios...señales abajo en la tG1093
+- Hec_3:25serán benditas todas...familias de la tG1093
+- Hec_4:24el Dios que hiciste el cielo y la t, elG1093
+- Hec_4:26se reunieron los reyes de la t, y losG1093
+- Hec_7:3le dijo: Sal de tu t...y ven a la t queG1093
+- Hec_7:4salió de la t de los caldeos y habitó enG1093
+- Hec_7:4Dios le trasladó a esta t, en la cualG1093
+- Hec_7:6descendencia sería extranjera en t ajenaG1093
+- Hec_7:11vino...hambre en toda la t de Egipto yG1093
+- Hec_7:29y vivió como extranjero en t de MadiánG1093
+- Hec_7:33porque el lugar en que estás es t santaG1093
+- Hec_7:36habiendo hecho prodigios y señales en tG1093
+- Hec_7:40Moisés, que nos sacó de la t de EgiptoG1093
+- Hec_7:45tomar posesión de la t de los gentiles
+- Hec_7:49mi trono, y la t el estrado de mis piesG1093
+- Hec_8:1fueron esparcidos por las t de Judea yG5561
+- Hec_8:33mas...porque fue quitada de la t su vidaG1093
+- Hec_9:4cayendo en t, oyó una voz que le decíaG1093
+- Hec_9:8Saulo se levantó de t, y abriendo...ojosG1093
+- Hec_10:11atado de las...puntas era bajado a la tG1093
+- Hec_10:39cosas que Jesús hizo en la t de JudeaG5561
+- Hec_11:28vendría una gran hambre en toda la tG3625
+- Hec_13:17pueblo, siendo ellos extranjeros en tG1093
+- Hec_13:19destruido siete naciones en la t deG1093
+- Hec_13:47para salvación hasta lo último de la tG1093
+- Hec_14:15al Dios vivo, que hizo el cielo y la tG1093
+- Hec_17:24siendo Señor del cielo y de la t, noG1093
+- Hec_17:26que habiten sobre toda la faz de la tG1093
+- Hec_20:13Pablo, ya que...queriendo él ir por t
+- Hec_22:22quita de la t a tal hombre, porque noG1093
+- Hec_26:14caído todos nosotros en t, oí una vozG1093
+- Hec_26:20anuncié...por toda la t de Judea, y aG5561
+- Hec_27:27sospecharon que estaban cerca de tG5561
+- Hec_27:39de día, no reconocían la t, pero veíanG1093
+- Hec_27:43echasen los primeros, y saliesen a tG1093
+- Hec_27:44y así...todos se salvaron saliendo a tG1093
+- Rom_9:17mi nombre sea anunciado por toda la tG1093
+- Rom_9:28Señor ejecutará su sentencia sobre la tG1093
+- Rom_10:18por toda la t ha salido la voz de ellosG1093
+- Rom_10:18y hasta los fines de la t sus palabrasG3625
+- 1Co_8:5dioses, sea en el cielo, o en la tG1093
+- 1Co_10:26, 1Co_10:28del Señor es la t y su plenitudG1093
+- 1Co_15:47el primer hombre es de la t, terrenalG1093
+- Efe_1:10así las...como las que están en la tG1093
+- Efe_3:15toma nombre toda familia en...y en la tG1093
+- Efe_4:9primero a las partes más bajas de la t?[[G1093]]
+- Efe_6:3bien, y seas de larga vida sobre la tG1093
+- Flp_2:10que están...en la t, y debajo de la tG1919, [[G2709]]
+- Col_1:16en los cielos y las que hay en la tG1093
+- Col_1:20así las que están en la t como las queG1093
+- Col_3:2poned la mira...arriba, no en las de la tG1093
+- Heb_1:10Señor, en el principio fundaste la tG1093
+- Heb_6:7la t que bebe la lluvia...cae sobre ellaG1093
+- Heb_8:4estuviese sobre la t, ni siquiera seríaG1093
+- Heb_8:9tomé de...para sacarlos de la t de EgiptoG1093
+- Heb_11:9en la t prometida como en t ajena, morandoG1093
+- Heb_11:13extranjeros y peregrinos sobre la tG1093
+- Heb_11:29fe pasaron el Mar Rojo como por t seca
+- Heb_11:38errando por...cuevas...cavernas de la tG1093
+- Heb_12:25si no...al que los amonestaba en la tG1093
+- Heb_12:26la voz del cual conmovió entonces la tG1093
+- Heb_12:26conmoveré no solamente la t...el cieloG1093
+- Stg_5:4obreros que han cosechado vuestras tG5561
+- Stg_5:5habéis vivido en deleites sobre la t, yG1093
+- Stg_5:7cómo el labrador espera...fruto de la tG1093
+- Stg_5:12hermanos míos, no juréis...ni por la tG1093
+- Stg_5:17y no llovió sobre la t por tres años yG1093
+- Stg_5:18el cielo dio lluvia, y la t produjo suG1093
+- 2Pe_3:5fueron hechos por...los cielos y...la tG1093
+- 2Pe_3:7pero los cielos y la t que existen ahoraG1093
+- 2Pe_3:10la t y las obras...en ella serán quemadasG1093
+- 2Pe_3:13esperamos...cielos nuevos y t nueva, enG1093
+- 1Jn_5:8son los que dan testimonio en la tG1093
+- Rev_1:5y el soberano de los reyes de la tG1093
+- Rev_1:7linajes de la t harán lamentación por élG1093
+- Rev_3:10para probar a los que moran sobre la tG1093
+- Rev_5:3en la t ni debajo de la t, podía abrirG1093
+- Rev_5:6espíritus de Dios enviados por toda la tG1093
+- Rev_5:10nos has hecho...y reinaremos sobre la tG1093
+- Rev_5:13y sobre la t, y debajo de la t, y en elG1093
+- Rev_6:4fue dado poder de quitar de la t la pazG1093
+- Rev_6:8potestad sobre la cuarta parte de la tG1093
+- Rev_6:8potestad...para matar con...fieras de la tG1093
+- Rev_6:10no juzgas y...en los que moran en la t?[[G1093]]
+- Rev_6:13las estrellas del...cayeron sobre la tG1093
+- Rev_6:15y los reyes de la t...se escondieron enG1093
+- Rev_7:1ángeles en pie sobre los...ángulos de la tG1093
+- Rev_7:1que detenían los cuatro vientos de la tG1093
+- Rev_7:1para que no soplase viento...sobre la tG1093
+- Rev_7:2el poder de hacer daño a la t y al marG1093
+- Rev_7:3no hagáis daño a la t, ni al mar, ni aG1093
+- Rev_8:5lo llenó del fuego...y lo arrojó a la tG1093
+- Rev_8:7granizo...que fueron lanzados sobre la tG1093
+- Rev_8:13¡ay...de los que moran en la t, a causaG1093
+- Rev_9:1una estrella que cayó del cielo a la tG1093
+- Rev_9:3del humo salieron langostas sobre la tG1093
+- Rev_9:3como tienen poder...escorpiones de la tG1093
+- Rev_9:4que no dañasen a la hierba de la t, niG1093
+- Rev_10:2puso su pie...y el izquierdo sobre la tG1093
+- Rev_10:5ángel que vi en pie sobre...sobre la tG1093
+- Rev_10:6la t y las cosas que están en ella, y elG1093
+- Rev_10:8del ángel que está en pie sobre...la tG1093
+- Rev_11:4están en pie delante del Dios de la tG1093
+- Rev_11:6poder...para herir la t con toda plagaG1093
+- Rev_11:10los moradores de la t se regocijaránG1093
+- Rev_11:10atormentado a los moradores de la tG1093
+- Rev_11:18de destruir a los que destruyen la tG1093
+- Rev_12:4las estrellas...y las arrojó sobre la tG1093
+- Rev_12:9arrojado a la t, y sus ángeles fueronG1093
+- Rev_12:12¡ay de los moradores de la t y del mar![[G1093]]
+- Rev_12:13cuando vio...había sido arrojado a la tG1093
+- Rev_12:16la t ayudó a la mujer, pues la t abrióG1093
+- Rev_13:3maravilló toda la t en pos de la bestiaG1093
+- Rev_13:8la adoraron todos los moradores de la tG1093
+- Rev_13:11otra bestia que subía de la t; y teníaG1093
+- Rev_13:12hace que la t y...adoren a la primeraG1093
+- Rev_13:13hace descender fuego del cielo a la tG1093
+- Rev_13:14engaña a los moradores de la t con lasG1093
+- Rev_13:14mandando a los moradores de la t queG1093
+- Rev_14:3fueron redimidos de entre los de la tG1093
+- Rev_14:6predicarlo a los moradores de la t, aG1093
+- Rev_14:7adorad a aquel que hizo el cielo y la tG1093
+- Rev_14:15y siega...la mies de la t está maduraG1093
+- Rev_14:16metió su hoz en la t, y la t fue segadaG1093
+- Rev_14:18y vendimia los racimos de la t, porqueG1093
+- Rev_14:19arrojó su hoz en la t, y vendimió laG1093
+- Rev_14:19y vendimió la viña de la t, y echó lasG1093
+- Rev_16:1derramad sobre la t las siete copas deG1093
+- Rev_16:2el primero, y derramó su copa sobre la tG1093
+- Rev_16:14y van a los reyes de la t en todo elG1093
+- Rev_16:18hubo...truenos, un gran temblor de tG1093
+- Rev_16:18jamás desde que...han estado sobre la tG1093
+- Rev_17:2la cual han fornicado los reyes de la tG1093
+- Rev_17:2los moradores de la t se han embriagadoG1093
+- Rev_17:5la madre...de las abominaciones de la tG1093
+- Rev_17:8moradores de la t...se asombrarán viendoG1093
+- Rev_17:18ciudad que reina sobre...reyes de la tG1093
+- Rev_18:1gran poder, y la t fue alumbrada con suG1093
+- Rev_18:3los reyes de la t han fornicado con ellaG1093
+- Rev_18:3mercaderes de la t se han enriquecido deG1093
+- Rev_18:9los reyes de la t que han fornicado conG1093
+- Rev_18:11los mercaderes de la t lloran y hacenG1093
+- Rev_18:23tus mercaderes eran los grandes de la tG1093
+- Rev_18:24todos los que han sido muertos en la tG1093
+- Rev_19:2ha corrompido a la t con su fornicaciónG1093
+- Rev_19:4se postraron en t y adoraron a Dios, que
+- Rev_19:19y vi a la bestia, a los reyes de la tG1093
+- Rev_20:8engañar...en los cuatro ángulos de la tG1093
+- Rev_20:9y subieron sobre la anchura de la t, yG1093
+- Rev_20:11de delante del cual huyeron la t y elG1093
+- Rev_21:1vi...una t nueva...y la primera t pasaronG1093
+- Rev_21:24los reyes de la t traerán su gloria yG1093

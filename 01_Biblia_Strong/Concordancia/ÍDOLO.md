@@ -1,0 +1,141 @@
+---
+tipo: concordancia
+palabra: ÍDOLO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ÍDOLO
+
+- Gén_31:19ido...y Raquel hurtó los í de su padreH8655
+- Gén_31:34tomó Raquel los í y los puso en unaH8655
+- Gén_31:35dijo...Y él buscó, pero no halló los íH8655
+- Lev_19:4no os volveréis a los í, ni haréisH457
+- Lev_26:1no haréis para vosotros í, ni esculturaH457
+- Lev_26:30sobre...cuerpos muertos de vuestros íH1544
+- Núm_33:52y destruiréis todos sus í de piedraH4906
+- Deu_29:17habéis visto...í de madera y piedraH1544
+- Deu_32:21ellos...me provocaron a ira con sus íH1892
+- Jue_3:19él se volvió desde los í que estánH6456
+- Jue_3:26Aod...y pasando los í, se puso a salvoH6456
+- 1Sa_15:23como í e idolatría la obstinaciónH205
+- 1Sa_31:9llevaran las...nuevas al templo de sus íH6091
+- 2Sa_5:21dejaron allí sus í, y...los quemaronH6440
+- 1Re_11:5siguió...Milcom, í...de los amonitasH8251
+- 1Re_11:7alto a Quemos, í abominable de MoabH8251
+- 1Re_11:7y a Moloc, í abominable de los...de AmónH8251
+- 1Re_15:12quitó todos los í que sus padres habíanH1544
+- 1Re_15:13había hecho un í...deshizo Asa el í deH4656
+- 1Re_16:26provocando a ira a Jehová...con sus íH1892
+- 1Re_21:26abominable, caminando en pos de los íH1544
+- 2Re_17:12y servían a los í, de los cualesH1544
+- 2Re_17:41y al mismo tiempo sirvieron a sus íH6456
+- 2Re_21:11Manasés...hecho pecar a Judá con sus íH1544
+- 2Re_21:21y sirvió a los í a los cuales habíaH1544
+- 2Re_23:13a Astoret í...a Quemos í...y a Milcom íH8251
+- 1Cr_10:9dar las nuevas a sus í y al puebloH6091
+- 1Cr_16:26los dioses de los pueblos son í, masH457
+- 2Cr_24:7habían gastado en los í todas lasH1168
+- 2Cr_33:15quitó los...y el í de la casa de JehováH5566
+- 2Cr_33:19lugares...e í, antes que se humillaseH6456
+- 2Cr_33:22y sirvió a todos los í que su padreH6456
+- 2Cr_34:7destruidos...los í...volvió a JerusalénH2553
+- Sal_96:5todos los dioses de...pueblos son íH457
+- Sal_97:7de talla, los que se glorían en los íH457
+- Sal_106:36sirvieron a sus í, los cuales fueronH6091
+- Sal_106:38que ofrecieron...a los í de Canaán, yH6091
+- Sal_115:4los í de ellos son plata y oro, obraH6091
+- Sal_135:15los í de las naciones son plata y oroH6091
+- Isa_2:8además su tierra está llena de í, y seH457
+- Isa_2:18y quitará totalmente los íH457
+- Isa_2:20arrojará...sus í de plata y sus í de oroH457
+- Isa_10:10como halló mi mano los reinos de los íH457
+- Isa_10:11como hice a Samaria y a sus í, ¿no haréH457
+- Isa_10:11haré también así a Jerusalén y a sus í?[[H6091]]
+- Isa_19:1los í de Egipto temblarán delante de élH457
+- Isa_21:9todos los í de sus dioses quebrantó enH6456
+- Isa_31:7arrojará...sus í de plata y sus í de oroH457
+- Isa_42:17serán...confundidos los que confían en íH6459
+- Isa_44:9testigos...que los í no ven ni entiendenH6459
+- Isa_44:15fabrica un í, y se arrodilla delanteH410
+- Isa_44:17hace del sobrante un dios, un í suyoH6459
+- Isa_45:20aquellos que erigen el madero de su íH6459
+- Isa_48:5no dijeras: Mi í lo hizo, mis imágenesH6090
+- Isa_57:5que os enfervorizáis con los í debajo deH410
+- Isa_57:13cuando clames, que te libren tus íH6899
+- Isa_66:3quema incienso, como si bendijese a un íH205
+- Jer_10:14se avergüenza de su í todo fundidorH6459
+- Jer_14:22í de las naciones quien haga llover?[[H1892]]
+- Jer_16:18con los cadáveres de sus í, y de susH8251
+- Jer_18:12en pos de nuestros í iremos, y haremosH4284
+- Jer_50:2destruidas son sus...quebrados son sus íH6091
+- Jer_50:38es tierra de í, y se entontecen conH6456
+- Jer_51:17mentira es su í, no tiene espírituH5262
+- Jer_51:47destruiré los í de Babilonia, y toda suH6456
+- Jer_51:52yo destruiré sus í, y en toda su tierraH6456
+- Eze_6:4caigan...muertos delante de vuestros íH1544
+- Eze_6:5pondré los...muertos...delante de sus íH1544
+- Eze_6:6y vuestros í serán quebrados y acabaránH1544
+- Eze_6:9de sus ojos que fornicaron tras sus íH1544
+- Eze_6:13sus muertos estén en medio de sus í, enH1544
+- Eze_6:13donde ofrecieron incienso a todos sus íH1544
+- Eze_7:20hicieron de ello las imágenes de sus...íH8441
+- Eze_8:10y todos los í de la casa de Israel, queH1544
+- Eze_14:3hombres han puesto sus í en su corazónH1544
+- Eze_14:4, Eze_14:7hubiere puesto sus í en su corazónH1544
+- Eze_14:4responderé...conforme a la multitud de...íH1544
+- Eze_14:5ya que se han apartado de mí...por sus íH1544
+- Eze_14:6volveos de...í, y apartad vuestro rostroH1544
+- Eze_16:36y a los í de tus abominaciones, y enH1544
+- Eze_18:6, Eze_18:12, Eze_18:15alzare sus ojos a los íH1544
+- Eze_20:7no os contaminéis con los í de EgiptoH1544
+- Eze_20:8ni dejaron los í de Egipto; y dije queH1544
+- Eze_20:16profanaron...tras sus í iba su corazónH1544
+- Eze_20:18no andéis...ni os contaminéis con sus íH1544
+- Eze_20:24y tras los í...se les fueron los ojosH1544
+- Eze_20:31os habéis contaminado con...vuestros íH1544
+- Eze_20:39andad cada uno tras sus í, y servidlesH1544
+- Eze_20:39pero no profanéis más...con vuestros íH1544
+- Eze_21:21rey...consultó a sus í, miró el hígadoH8655
+- Eze_22:3que hizo í contra sí...para contaminarse![[H1544]]
+- Eze_22:4te has contaminado en tus í que hicisteH1544
+- Eze_23:7se contaminó con todos los í de ellosH1544
+- Eze_23:30con las cuales te contaminaste en sus íH1544
+- Eze_23:37han fornicado con sus í; y aun a susH1544
+- Eze_23:39habiendo sacrificado sus hijos a sus íH1544
+- Eze_30:13destruiré los í de Menfis; y no habráH1544
+- Eze_33:25y a vuestros í alzaréis vuestros ojosH1544
+- Eze_36:18ira...porque con sus í la contaminaronH1544
+- Eze_36:25agua...de todos vuestros í os limpiaréH1544
+- Eze_37:23ni se contaminarán ya más con sus íH1544
+- Eze_44:10que se apartaron...yéndose tras sus IH1544
+- Eze_44:12cuanto les sirvieron delante de sus íH1544
+- Ose_4:12mi pueblo a su í de madera preguntaH6086
+- Ose_4:17Efraín es dado a í; déjaloH6091
+- Ose_8:4de su plata y de su oro hicieron í paraH6091
+- Ose_10:1conforme a la bondad...aumentaron sus íH4676
+- Ose_10:2demolerá sus altares, destruirá sus íH4676
+- Ose_11:2los baales...a los í ofrecían sahumeriosH6456
+- Ose_13:2se han hecho...í, toda obra de artíficesH6091
+- Ose_14:8dirá: ¿Qué más tendré ya con los í? YoH6091
+- Amó_5:26el tabernáculo de...Moloc...í vuestrosH6754
+- Miq_1:7quemados en fuego, y asolaré...sus íH6091
+- Hec_7:41le ofrecieron sacrificio al í, y enG1497
+- Hec_15:20que se aparten...de los í...y de sangreG1497
+- Hec_15:29que os abstengáis de lo sacrificado a íG1494
+- Hec_21:25de lo sacrificado a los í, de sangreG1494
+- Rom_2:22¿adulteras? Tú que abominas de los íG1497
+- 1Co_8:1lo sacrificado a los í, sabemos queG1494
+- 1Co_8:4que se sacrifican a los í...un í nada esG1494
+- 1Co_8:7algunos, habituados hasta aquí a los íG1497
+- 1Co_8:7algunos...comen como sacrificado a í y suG1494
+- 1Co_8:10ve...sentado a la mesa en un lugar de íG1493
+- 1Co_8:10¿no...a comer de lo sacrificado a los í?[[G1494]]
+- 1Co_10:19¿qué digo pues? ¿Que el í es algo, oG1497
+- 1Co_10:19que sea algo lo que se sacrifica a los í?[[G1494]]
+- 1Co_10:28os dijere: Esto fue sacrificado a los íG1494
+- 1Co_12:2llevándoos, como se os llevaba, a los íG1497
+- 2Co_6:16entre el templo de Dios y los í?[[G1497]]
+- 1Ts_1:9cómo os convertisteis de los í a DiosG1497
+- 1Jn_5:21hijitos, guardaos de los í. AménG1497
+- Rev_2:14, Rev_2:20comer...cosas sacrificadas a los íG1497

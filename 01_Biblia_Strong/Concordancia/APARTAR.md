@@ -1,0 +1,400 @@
+---
+tipo: concordancia
+palabra: APARTAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# APARTAR
+
+- Gén_13:9ruego que te apartes de mí. Si fueresH6504
+- Gén_13:11fue Lot...y se apartaron el uno del otroH6504
+- Gén_13:14a Abram, después que Lot se apartó deH6504
+- Gén_18:22apartaron de allí los varones, y fueronH6437
+- Gén_24:27que no apartó de mi amo su misericordiaH5800
+- Gén_26:16apártate de nosotros, porque mucho másH1980
+- Gén_26:22y se apartó de allí, y abrió otro pozoH6275
+- Gén_28:22de todo lo...el diezmo apartaré para ti
+- Gén_30:35Labán apartó aquel día...machos cabríosH5493
+- Gén_30:40y apartaba Jacob los corderos, y poníaH6504
+- Gén_31:49cuando nos apartemos el uno del otroH5641
+- Gén_38:1Judá se apartó de sus hermanos, y se fueH3381
+- Gén_38:16se apartó del camino hacia ella, y leH5186
+- Gén_42:24y se apartó José de ellos, y lloróH5437
+- Gén_49:7los apartaré en Jacob, y los...en IsraelH2505
+- Gén_49:26sobre la frente del que fue apartado deH5139
+- Éxo_8:22apartaré la tierra de Gosén, en la cualH6395
+- Éxo_13:22nunca se apartó de delante del puebloH4185
+- Éxo_14:19el ángel...se apartó e iba en pos de ellosH5265
+- Éxo_14:19nube...se apartó y se puso a sus espaldasH5265
+- Éxo_29:27apartarás el pecho de la ofrenda mecidaH6942
+- Éxo_32:2apartad los zarcillos de oro que están enH6561
+- Éxo_32:3apartó los zarcillos de oro que tenían enH6561
+- Éxo_32:8pronto se han apartado del camino que yoH5493
+- Éxo_32:24apartadlo. Y me lo dieron, y lo eché enH6561
+- Éxo_33:11Josué...nunca se apartaba de en medio delH4185
+- Éxo_33:16y que yo y tu pueblo seamos apartados deH6395
+- Éxo_33:23apartaré mi mano, y verás mis espaldasH5493
+- Lev_6:10apartará él las cenizas de...el altarH7311
+- Lev_15:19la mujer tuviere...7 días estará apartadaH5079
+- Lev_15:31apartaréis de sus impurezas a...IsraelH5144
+- Lev_20:24yo...que os he apartado de los pueblosH914
+- Lev_20:25los cuales os he apartado por inmundosH914
+- Lev_20:26os he apartado de los pueblos para queH914
+- Lev_22:15las cosas...las cuales apartan para JehováH7311
+- Núm_5:19y si no te has apartado de tu marido aH7847
+- Núm_6:2que se apartare haciendo voto de nazareoH6381
+- Núm_6:6todo el tiempo que se aparte para JehováH5144
+- Núm_8:14así apartarás a los levitas de entre losH914
+- Núm_12:10la nube se apartó del tabernáculo, y heH5493
+- Núm_14:9su amparo se ha apartado de ellos, y conH5493
+- Núm_14:44el arca...no se apartaron de en medio delH4185
+- Núm_16:9que el Dios de Israel os haya apartado deH914
+- Núm_16:21apartaos de entre esta...y los consumiréH914
+- Núm_16:24apartaos de en derredor de la tienda deH5927
+- Núm_16:26apartaos ahora de las tiendas de estosH5493
+- Núm_16:27y se apartaron de las tiendas de CoréH5927
+- Núm_16:45apartaos de...esta congregación, y losH7426
+- Núm_20:17sin apartarnos a diestra ni a siniestraH5186
+- Núm_22:23y se apartó el asna del camino, e ibaH5186
+- Núm_22:26camino para apartarse ni a derecha ni aH5186
+- Núm_22:33el asna...se ha apartado luego de...de míH5186
+- Núm_22:33y si de mí no se hubiera apartado, yoH5186
+- Núm_25:4la ira de Jehová se apartará de IsraelH7725
+- Núm_25:11Finees...ha hecho apartar mi furor de losH7725
+- Núm_31:28y apartarás para Jehová el tributo deH7311
+- Núm_31:42de la mitad...que apartó Moisés de losH2673
+- Deu_2:27iré, sin apartarme ni a diestra ni aH5493
+- Deu_4:9ni se aparten de tu corazón todos los díasH5493
+- Deu_4:41apartó Moisés tres ciudades a este ladoH914
+- Deu_5:32no os apartéis a diestra ni a siniestraH5493
+- Deu_9:12pronto se han apartado del camino que yoH5493
+- Deu_9:16apartándoos...camino que Jehová os habíaH5493
+- Deu_10:8apartó Jehová la tribu de Leví para queH914
+- Deu_11:16y os apartéis y sirváis a dioses ajenosH5493
+- Deu_11:28si...os apartareis del camino que yo osH5493
+- Deu_13:5trató de apartarte del camino por el cualH5627
+- Deu_13:10le apedrearás...cuanto procuró apartarteH5080
+- Deu_13:17Jehová se aparte del ardor de su iraH7725
+- Deu_17:11no te apartarás ni a diestra ni a siniestraH5493
+- Deu_17:20ni se aparte del mandamiento a diestraH5493
+- Deu_19:2te apartarás tres ciudades en medio de laH914
+- Deu_22:4si vieres el asno...no te apartarás de élH5956
+- Deu_28:14si no te apartares de todas las palabrasH5493
+- Deu_29:18cuyo corazón se aparte hoy de JehováH6437
+- Deu_29:21lo apartará Jehová de todas las tribusH914
+- Deu_30:17si tu corazón se apartare y no oyeresH6437
+- Deu_31:29apartaréis del camino que os he mandadoH5493
+- Jos_1:7no te apartes de ella ni a diestra ni aH5493
+- Jos_1:8nunca se apartará de tu boca este libro deH4185
+- Jos_16:9ciudades que se apartaron para los hijosH3995
+- Jos_21:42ciudades estaban apartadas la una de
+- Jos_22:16para apartaros hoy de seguir a JehováH7725
+- Jos_22:18que...os apartéis hoy de seguir a Jehová?[[H7725]]
+- Jos_22:29nunca...que nos apartemos hoy de seguirH7725
+- Jos_23:6sin apartaros de ello ni a diestra ni aH5493
+- Jos_23:12si os apartareis, y os uniereis a lo queH7725
+- Jue_2:17se apartaron pronto del camino en queH5493
+- Jue_2:19no se apartaban de sus obras, ni de suH5307
+- Jue_4:11Heber...se había apartado de los ceneosH6504
+- Jue_5:6y los...se apartaban por senderos torcidos
+- Jue_14:8se apartó del camino para ver el...leónH5493
+- Jue_16:17si...rapado, mi fuerza se apartará de míH5493
+- Jue_16:19le rapó...pues su fuerza se apartó de élH5493
+- Jue_16:20que Jehová ya se había apartado de élH5493
+- Jue_19:15y se apartaron del camino para entrar aH5493
+- Rut_1:16no me ruegues que te deje, y me aparteH7725
+- 1Sa_6:3por qué no se apartó de vosotros suH5493
+- 1Sa_6:12sin apartarse...a derecha ni a izquierdaH5493
+- 1Sa_10:2hoy, después que te hayas apartado de míH1980
+- 1Sa_10:9al volver él la...para apartarse de SamuelH1980
+- 1Sa_12:20no os apartéis de en pos de Jehová, sinoH5493
+- 1Sa_12:21no os apartéis en pos de vanidades queH5493
+- 1Sa_15:6apartaos y salid...se apartaron los ceneosH5493
+- 1Sa_16:14el Espíritu de Jehová se apartó de SaúlH5493
+- 1Sa_16:23y el espíritu malo se apartaba de élH5493
+- 1Sa_17:30y apartándose de él...preguntó de igualH5437
+- 1Sa_18:12cuanto Jehová...se había apartado de SaúlH5493
+- 1Sa_19:10él se apartó de delante de Saúl, el cualH6362
+- 1Sa_20:15no apartarás tu misericordia de mi casaH3772
+- 1Sa_28:15filisteos...y Dios se ha apartado de míH5493
+- 1Sa_28:16si Jehová se ha apartado de ti y es tuH5493
+- 2Sa_2:19Asael tras de Abner, sin apartarse niH5186
+- 2Sa_2:21apártate a la derecha o a la izquierdaH5186
+- 2Sa_2:21Asael no quiso apartarse de en pos de élH5493
+- 2Sa_2:22y Abner volvió a decir a Asael: ApártateH5493
+- 2Sa_7:15pero mi misericordia no se apartará de élH5493
+- 2Sa_7:15como la aparté de Saúl, al cual quité deH5493
+- 2Sa_12:10se apartará jamás de tu casa la espadaH5493
+- 2Sa_14:19que no hay que apartarse a derecha ni a
+- 2Sa_20:12apartó a Amasa del camino al campo, yH5437
+- 2Sa_20:13que fue apartado del camino, pasaronH3014
+- 2Sa_22:22y no me aparté impíamente de mi Dios
+- 2Sa_22:23y no me he apartado de sus estatutosH5493
+- 1Re_8:53tú los apartaste para ti como heredadH914
+- 1Re_9:6os apartareis de mí...no guardareis misH7725
+- 1Re_11:9su corazón se había apartado de JehováH5186
+- 1Re_12:19así se apartó Israel de la casa de DavidH6586
+- 1Re_13:33con todo esto, no se apartó Jeroboam deH7725
+- 1Re_15:5y de ninguna cosa...se había apartado enH5493
+- 1Re_15:19tu pacto con Baasa...que se aparte de míH5927
+- 1Re_17:3apártate de aquí...el arroyo de QueritH1980
+- 1Re_20:36cuando te apartes...te herirá un leónH1980
+- 1Re_20:36cuando se apartó...le encontró un leónH1980
+- 1Re_22:33que no era el rey...se apartaron de élH7725
+- 2Re_2:8golpeó las aguas...se apartaron a uno yH2673
+- 2Re_2:11un carro de fuego con...apartó a los dosH6504
+- 2Re_2:14las aguas, se apartaron...y pasó EliseoH2673
+- 2Re_3:3que hizo pecar a...y no se apartó de ellosH5493
+- 2Re_3:27y se apartaron de él, y se volvieron aH5265
+- 2Re_10:29Jehú no se apartó de los pecados deH5493
+- 2Re_10:31ni se apartó de los pecados de JeroboamH5493
+- 2Re_13:2siguió en los pecados de...y no se apartóH5493
+- 2Re_13:6no se apartaron de los pecados de la casaH5493
+- 2Re_13:11; 2Re_14:24; 2Re_15:9, 2Re_15:18, 2Re_15:24, 2Re_15:28no se apartó de los pecados de JeroboamH5493
+- 2Re_17:21Jeroboam apartó a Israel de...de JehováH7167
+- 2Re_17:22anduvieron en...sin apartarse de ellosH5493
+- 2Re_18:6siguió a Jehová, y no se apartó de élH5493
+- 2Re_18:14apártate de mí, y haré todo lo que meH7725
+- 2Re_22:2anduvo en...sin apartarse a derecha ni aH5493
+- 1Cr_23:13Aarón fue apartado...dedicado a lasH914
+- 1Cr_25:1apartaron para el...a los hijos de AsafH914
+- 2Cr_8:15no se apartaron del mandamiento delH5493
+- 2Cr_10:19así se apartó Israel de la casa de DavidH6586
+- 2Cr_12:12la ira de Jehová se apartó de él, paraH7725
+- 2Cr_18:31Jehová lo ayudó, y los apartó Dios de
+- 2Cr_20:10se apartase de ellos, y no los destruyeseH5493
+- 2Cr_20:32el camino de Asa su padre, sin apartarseH5493
+- 2Cr_25:10apartó el ejército de la gente que habíaH914
+- 2Cr_25:27desde...que Amasías se apartó de JehováH5493
+- 2Cr_29:6apartaron sus rostros del tabernáculo deH5437
+- 2Cr_29:10aparte de nosotros el ardor de su iraH7725
+- 2Cr_30:8ardor de su ira se apartará de vosotrosH7725
+- 2Cr_30:9y no apartará de vosotros su rostro, siH7725
+- 2Cr_34:2apartarse a la derecha ni a la izquierdaH5493
+- 2Cr_34:33no se apartaron de en pos de Jehová suH5493
+- 2Cr_35:15no era necesario que se apartasen de suH5493
+- Esd_6:21se habían apartado de las inmundiciasH914
+- Esd_8:24aparté luego a doce de los principalesH914
+- Esd_10:11apartaos de los pueblos de las tierrasH914
+- Esd_10:14hasta que apartemos...el ardor de la iraH7725
+- Esd_10:16y fueron apartados el sacerdote EsdrasH914
+- Neh_4:19estamos apartados en el muro, lejosH6504
+- Neh_9:2ya se había apartado...Israel de todos losH914
+- Neh_9:19la columna de nube no se apartó de ellosH5493
+- Neh_10:28los que se habían apartado de los pueblosH914
+- Job_1:1, Job_1:8; Job_2:3temeroso de Dios y apartado delH5493
+- Job_6:18se apartan de la senda de su rumbo, vanH3943
+- Job_7:19¿hasta cuándo no apartarás...tu miradaH8159
+- Job_13:21aparta de mí tu mano, y no me asombreH7368
+- Job_16:6y si dejo de hablar, no se aparta de míH1980
+- Job_19:13mis conocidos como...se apartaron de míH2114
+- Job_21:14; Job_22:17a Dios: Apártate de nosotrosH5493
+- Job_23:11pies...guardé su camino, y no me apartéH5186
+- Job_24:4apartar del camino a los menesterososH5186
+- Job_28:28y el apartarse del mal, la inteligenciaH5493
+- Job_31:7si mis pasos se apartaron del camino, siH5186
+- Job_33:17quitar...apartar del varón la soberbiaH5493
+- Job_33:30para apartar su alma del sepulcro, y paraH7725
+- Job_34:27así se apartaron de él, y no consideraronH5493
+- Job_36:7no apartará de los justos sus ojos; antesH1639
+- Job_36:16te apartará de la boca de la angustiaH5496
+- Job_36:18no puedas apartar de ti con gran rescateH5496
+- Job_41:17están trabados...que no se pueden apartarH6504
+- Sal_6:8apartaos de mí, todos los hacedores deH5493
+- Sal_18:21y no me aparté impíamente de mi DiosH7561
+- Sal_18:22y no me he apartado de sus estatutosH5493
+- Sal_27:9no apartes con tu ira a tu siervo...ayudaH5186
+- Sal_34:14; Sal_37:27apártate del mal, y haz el bienH5493
+- Sal_44:18ni se han apartado de...nuestros pasosH5186
+- Sal_55:11y el engaño no se apartan de sus plazasH4185
+- Sal_58:3se apartaron los impíos desde la matrizH2114
+- Sal_73:27destruirás a todo aquel que...se apartaH2181
+- Sal_78:38apartó muchas veces su ira, y...su enojoH7725
+- Sal_80:18no nos apartaremos de ti; vida...darásH5472
+- Sal_81:6aparté su hombro de debajo de la cargaH5493
+- Sal_85:3enojo; te apartaste del ardor de tu iraH7725
+- Sal_101:4corazón perverso se apartará de mí; noH5493
+- Sal_106:23a fin de apartar su indignación paraH7725
+- Sal_119:22aparta...el oprobio y el menosprecioH1556
+- Sal_119:29aparta de mí el camino de la mentiraH5493
+- Sal_119:37aparta mis ojos...que no vean la vanidadH5674
+- Sal_119:51de mí, mas no me he apartado de tu leyH5186
+- Sal_119:102no me aparté de tus juicios, porqueH5493
+- Sal_119:115apartaos de mí, malignos, pues yoH5493
+- Sal_119:157de tus testimonios no me he apartadoH5186
+- Sal_125:5a los que se apartan tras...Jehová losH5186
+- Sal_139:19apartaos, pues...hombres sanguinariosH5493
+- Pro_1:15no andes...aparta tu pie de sus veredasH4513
+- Pro_3:3nunca se aparten de ti la misericordia yH5800
+- Pro_3:7no seas...teme a Jehová, y apártate del malH5493
+- Pro_3:21no se aparten estas cosas de tus ojosH3868
+- Pro_4:5ni te apartes de las razones de mi bocaH5186
+- Pro_4:15déjala, no pases por ellas, apártate deH7847
+- Pro_4:21no se aparten de tus ojos, guárdalas enH3868
+- Pro_4:24aparta de ti la perversidad de la bocaH5493
+- Pro_4:27no te desvíes a...aparta tu pie del malH5493
+- Pro_5:7no os apartéis de las razones de mi bocaH5493
+- Pro_7:25no se aparte tu corazón a sus caminosH7847
+- Pro_11:22es la mujer hermosa y apartada de razónH5493
+- Pro_13:14para apartarse de los lazos de la muerteH5493
+- Pro_13:19apartarse del mal es abominación a losH5493
+- Pro_14:16el sabio teme y se aparta del mal; masH5493
+- Pro_14:27para apartarse de los lazos de la muerteH5493
+- Pro_15:24hacia arriba...apartarse del Seol abajoH5493
+- Pro_16:6el temor de Jehová...se apartan del malH5493
+- Pro_16:17camino de los rectos se aparta del malH5493
+- Pro_16:28el chismoso aparta a los mejores amigosH6504
+- Pro_17:9mas el que la divulga, aparta al amigoH6504
+- Pro_17:13da mal por bien, no se apartará el malH4185
+- Pro_19:4mas el pobre es apartado de su amigoH6504
+- Pro_20:14dice: Malo...cuando se aparta, se alabaH235
+- Pro_21:16el hombre que se aparta del camino deH8582
+- Pro_22:6instruye al niño...no se apartará de élH5493
+- Pro_24:18que Jehová...aparte de sobre él su enojoH7725
+- Pro_25:5aparta al impío de la presencia del reyH1898
+- Pro_27:22necio...no se apartará de él su necedadH5493
+- Pro_28:9el que aparta su oído para no oír la leyH5493
+- Pro_28:13que los confiesa y se aparta alcanzaráH5800
+- Pro_28:27que aparta sus ojos tendrá...maldicionesH5956
+- Pro_29:8en llamas, mas los sabios apartan la iraH7725
+- Pro_30:8vanidad y palabra mentirosa aparta de míH7368
+- Ecl_2:10ni aparté mi corazón de placer algunoH680
+- Ecl_7:18también de aquello no apartes tu manoH5117
+- Ecl_11:10el enojo, y aparta de tu carne el malH5493
+- Cnt_6:1¿a dónde...a dónde se apartó tu amadoH6437
+- Cnt_6:5aparta tus ojos...de mí...ellos me vencieronH5437
+- Isa_7:17desde el día que Efraín se apartó deH5493
+- Isa_10:2para apartar del juicio a los pobres, yH5186
+- Isa_12:1contra mi, tu indignación se apartó, yH7725
+- Isa_14:25su yugo será apartado de ellos, y suH5493
+- Isa_30:1¡ay de los hijos que se apartan, diceH5637
+- Isa_30:2que se apartan para descender a EgiptoH1980
+- Isa_30:11dejad el camino, apartaos de la sendaH5186
+- Isa_30:22las apartarás como trapo asqueroso; ¡ SalH2219
+- Isa_37:8ya...oído que se había apartado de LaquisH5265
+- Isa_49:19tus destruidores serán apartados lejosH7368
+- Isa_49:20estrecho es...apártate, para que yo moreH5066
+- Isa_52:11apartaos, a, salid de ahí, no toquéisH5127
+- Isa_53:6cada cual se apartó por su camino; masH6437
+- Isa_54:10no se apartará de ti mi misericordiaH4185
+- Isa_56:3hable diciendo: Me apartará...de su puebloH914
+- Isa_59:13el apartarse de en pos de nuestro DiosH5253
+- Isa_59:15y el que se apartó del mal fue puestoH5493
+- Jer_2:35soy...de cierto su ira se apartó de míH7725
+- Jer_3:19y no os apartaréis de en pos de míH7725
+- Jer_4:8porque la ira de Jehová no se ha apartadoH7725
+- Jer_5:23este pueblo...se apartaron y se fueronH5493
+- Jer_5:25pecados apartaron de vosotros el bienH5186
+- Jer_6:8corrígete, Jerusalén...que no se aparteH3363
+- Jer_9:2dejase a mi pueblo, y de...me apartase![[H1980]]
+- Jer_17:5brazo, y su corazón se aparta de JehováH5493
+- Jer_17:13que se apartan de mi serán escritos enH3249
+- Jer_18:20que me puse...para apartar de ellos tu iraH7725
+- Jer_23:20no se apartará el furor de Jehová hastaH7725
+- Jer_31:19después que me aparté...arrepentimientoH7725
+- Jer_32:40de ellos, para que no se aparten de míH7725
+- Jer_37:9sin duda...caldeos se apartarán...no se aH1980
+- Jer_37:12para apartarse de en medio del puebloH2505
+- Lam_4:15¡apartaos!...les gritaban; ¡a, a, noH5493
+- Lam_4:16ira de Jehová los apartó, no los miraráH2505
+- Eze_3:20si el justo se apartare de su justiciaH7725
+- Eze_6:9su corazón fornicario que se apartó de míH5493
+- Eze_7:22y apartaré de ellos mi rostro, y seráH5437
+- Eze_10:16las ruedas tampoco se apartaban de ellosH5437
+- Eze_13:22para que no se apartase de su mal caminoH7725
+- Eze_14:5han apartado de mi todos...por sus ídolosH2114
+- Eze_14:6apartad vuestro rostro de...abominacionesH2114
+- Eze_14:7se hubiere apartado de andar en pos de míH5144
+- Eze_16:42ira sobre ti, y se apartará de ti mi celoH5493
+- Eze_18:17apartare su mano del pobre, interés yH7725
+- Eze_18:21apartare de todos sus pecados que hizoH7725
+- Eze_18:23impío...¿No vivirá, si se apartare de susH7725
+- Eze_18:24si el justo se apartare de su justiciaH7725
+- Eze_18:26apartándose el justo de su justicia, yH7725
+- Eze_18:27apartándose el impío de su impiedad queH7725
+- Eze_18:28y se apartó de todas sus transgresionesH7725
+- Eze_18:30y apartaos de...vuestras transgresionesH7725
+- Eze_20:38apartaré de entre vosotros a...rebeldesH1305
+- Eze_22:26y de mis días de reposo apartaron susH5956
+- Eze_33:9si tú avisares al...para que se aparte deH7725
+- Eze_33:9él no se apartare de su camino, él moriráH7725
+- Eze_33:18el justo se apartare de su justicia, eH7725
+- Eze_33:19el impío se apartare de su impiedad, eH7725
+- Eze_44:10y los levitas que se apartaron de míH7368
+- Eze_44:15cuando los hijos de Israel se apartaronH8582
+- Eze_45:1apartaréis una porción para Jehová, queH5307
+- Eze_45:6-7(2)lo que se apartó para el santuario
+- Dan_9:5nos hemos apartado de tus mandamientosH5493
+- Dan_9:11ley apartándose para no obedecer tu vozH5493
+- Dan_9:16apártese ahora tu ira y tu furor de sobreH7725
+- Ose_1:2la tierra fornica apartándose de Jehová
+- Ose_2:2aparte...sus fornicaciones de su rostroH5493
+- Ose_4:16como novilla indómita se apartó IsraelH5637
+- Ose_5:6a Jehová, y no le hallarán; se apartó deH2502
+- Ose_7:13¡ay de ellos! porque se apartaron de míH5074
+- Ose_9:1pues has fornicado apartándote de tu DiosH5921
+- Ose_9:10ellos...se apartaron para vergüenza, y seH5144
+- Ose_9:12¡ay de ellos...cuando de ellos me aparte![[H5493]]
+- Ose_14:4los amaré de...mi ira se apartó de ellosH7725
+- Jon_3:9se apartará del ardor de su ira, y noH7725
+- Nah_3:1¡ ay de ti...sin apartarte del pillaje![[H4185]]
+- Nah_3:7todos los que te vieren se apartarán de tiH5074
+- Sof_1:6los que se apartan de en pos de JehováH5472
+- Sof_3:15Jehová ha apartado tus juicios...es ReyH6437
+- Zac_14:4la mitad...se apartará hacia el norteH4185
+- Mal_2:6a muchos hizo apartar de la iniquidadH7725
+- Mal_2:8mas vosotros os habéis apartado del caminoH5493
+- Mal_3:7os habéis apartado de mis leyes y no lasH5493
+- Mat_7:23apartaos de mí, hacedores de maldadG672
+- Mat_9:24apartaos, porque la niña no está muertaG402
+- Mat_12:15sabiendo esto Jesús, se apartó de allíG402
+- Mat_13:49apartarán a los malos de...los justosG873
+- Mat_14:13Jesús, se apartó de allí en una barcaG402
+- Mat_25:32apartará los...como aparta el pastor lasG873
+- Mat_25:41dirá...a los de la izquierda: ApartaosG4198
+- Mar_14:36aparta de mí esta copa; mas no lo queG3911
+- Luc_2:37era viuda...y no se apartaba del temploG868
+- Luc_4:13el diablo...se apartó de él por un tiempoG868
+- Luc_5:3le rogó que la apartase de tierra un pocoG1877
+- Luc_5:8apártate de mí...porque soy hombre pecadorG1831
+- Luc_5:16mas él se apartaba a lugares desiertosG5298
+- Luc_6:22cuando os aparten de sí, y os vituperenG873
+- Luc_8:13y en el tiempo de la prueba se apartanG868
+- Luc_9:33apartándose ellos de...Pedro dijo a JesúsG1316
+- Luc_9:39le toma, y...a duras penas se aparta de élG672
+- Luc_13:27apartaos de mí...vosotros, hacedores deG868
+- Luc_22:41él se apartó de ellos a distancia comoG645
+- Jua_5:13Jesús se había apartado de la genteG1593
+- Jua_12:11los judíos se apartaban y creían en JesúsG5217
+- Hec_5:38apartaos de estos hombres, y dejadlosG868
+- Hec_7:42y Dios se apartó, y los entregó a queG4762
+- Hec_12:10calle, y luego el ángel se apartó de élG868
+- Hec_13:2apartadme a Bernabé y a Saulo para laG873
+- Hec_13:8procurando apartar de la fe al procónsulG1294
+- Hec_13:13pero Juan, apartándose de ellos, volvióG672
+- Hec_15:20que se aparten de...ídolos...y de sangreG567
+- Hec_15:38al que se había apartado de ellos desdeG868
+- Hec_19:9se apartó Pablo de ellos y separó a losG868
+- Hec_19:26toda Asia, ha apartado a muchas gentesG868
+- Hec_22:29se apartaron de él los que le iban aG868
+- Rom_1:1siervo de...apartado para el evangelioG873
+- Rom_11:26vendrá...apartará de Jacob la impiedadG654
+- Rom_16:17os fijéis en...y que os apartéis de ellosG1578
+- 2Co_6:17salid de...y apartaos, dice el SeñorG873
+- Gál_1:5Dios, que me apartó desde el vientre deG873
+- Gál_2:12pero después...se retraía y se apartabaG873
+- Gál_4:17quieren apartaros de nosotros para queG1576
+- 1Ts_4:3voluntad...os apartéis de fornicaciónG567
+- 2Ts_3:6os apartéis de todo hermano que andeG4724
+- 1Ti_1:6de las...se apartaron a vana palabreríaG1624
+- 1Ti_5:15algunas se han apartado en pos de SatanásG1624
+- 1Ti_6:5hombres corruptos...apártate de los talesG868
+- 2Ti_2:19apártese de iniquidad todo aquel queG868
+- 2Ti_4:4y apartarán de la verdad el oído y seG654
+- Tit_1:14ni a mandamientos de...que se apartanG654
+- Flm_1:15porque quizás para esto se apartó de tiG5563
+- Heb_3:12corazón malo...apartarse del Dios vivoG868
+- Heb_7:26apartado de los pecadores, y hecho másG5563
+- 1Pe_3:11apártese del mal, y haga el bien...pazG1578
+- Rev_18:14frutos codiciados...se apartaron de tiG565

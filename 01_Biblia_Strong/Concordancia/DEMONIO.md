@@ -1,0 +1,74 @@
+---
+tipo: concordancia
+palabra: DEMONIO
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# DEMONIO
+
+- Lev_17:7nunca más sacrificarán sus...a los dH8163
+- Deu_32:17sacrificaron a los d, y no a DiosH7700
+- 2Cr_11:15sacerdotes para los...y para los dH8163
+- Sal_106:37sacrificaron sus hijos y...a los dH7700
+- Mat_7:22dirán...en tu nombre echamos fuera dG1140
+- Mat_8:16y con la palabra echó fuera a los d, yG1139
+- Mat_8:31los d le rogaron diciendo: Si nos echasG1142
+- Mat_9:33echado fuera el d, el mudo habló; y laG1140
+- Mat_9:34por el príncipe de los d echa fuera...dG1140
+- Mat_10:8echad fuera d; de gracia recibisteis, dadG1140
+- Mat_11:18Juan, que ni comía...y dicen: D tieneG1140
+- Mat_12:24echa fuera los d...el príncipe de los dG1140
+- Mat_12:27y si yo echo fuera los d por BeelzebúG1140
+- Mat_12:28yo por el Espíritu de Dios echo...los dG1140
+- Mat_15:22hija es gravemente atormentada por un dG1139
+- Mat_17:18reprendió Jesús al d, el cual salió delG1140
+- Mar_1:34echó...d; y no dejaba hablar a los dG1140
+- Mar_1:39predicaba en las...y echaba fuera los dG1140
+- Mar_3:15tuviesen autoridad...para echar fuera dG1140
+- Mar_3:22el príncipe de los d echaba fuera los dG1140
+- Mar_5:12le rogaron...los d, diciendo: EnvíanosG1142
+- Mar_5:15ven al que había sido atormentado del dG1139
+- Mar_5:16acontecido al que había tenido el d, yG1139
+- Mar_6:13y echaban fuera muchos d, y ungían conG1140
+- Mar_7:26y le rogaba que echase...de su hija al dG1140
+- Mar_7:29le dijo...vé; el d ha salido de tu hijaG1140
+- Mar_7:30halló que el d había salido, y a la hijaG1140
+- Mar_9:38a uno que en tu nombre echaba fuera dG1140
+- Mar_16:9a María...de quien había echado siete dG1140
+- Mar_16:17señales...En mi nombre echarán fuera dG1140
+- Luc_4:33un hombre que tenía un espíritu de dG1140
+- Luc_4:35d, derribándole en medio de ellos, salióG1140
+- Luc_4:41también salían d de muchos, dando vocesG1140
+- Luc_7:33vino Juan...ni comía...y decís: D tieneG1140
+- Luc_8:2María...de la que habían salido siete dG1140
+- Luc_8:29era impelido por el d a los desiertosG1142
+- Luc_8:30porque muchos d habían entrado en élG1140
+- Luc_8:33los d, salidos del hombre, entraron enG1140
+- Luc_8:35, Luc_8:38hombre de quien habían salido los dG1140
+- Luc_9:1dio poder y autoridad sobre todos los dG1140
+- Luc_9:42d le derribó y le sacudió con violenciaG1140
+- Luc_9:49a uno que echaba fuera d en tu nombreG1140
+- Luc_10:17aun los d se nos sujetan en tu nombreG1140
+- Luc_11:14estaba Jesús echando fuera un d, queG1140
+- Luc_11:14salido el d, el mudo habló; y la genteG1140
+- Luc_11:15príncipe de los d, echa fuera los dG1140
+- Luc_11:18que por Beelzebú echo yo fuera los dG1140
+- Luc_11:19pues si yo echo fuera los d por BeelzebúG1140
+- Luc_11:20si por el dedo de Dios echo yo...los dG1140
+- Luc_13:32echo fuera d y hago curaciones hoy yG1140
+- Jua_7:20dijo: D tienes; ¿quién procura matarte?[[G1140]]
+- Jua_8:48que tú eres samaritano, y que tienes d?[[G1140]]
+- Jua_8:49yo no tengo d, antes honro a mi PadreG1140
+- Jua_8:52le dijeron: Ahora conocemos que tienes dG1140
+- Jua_10:20decían: D tiene, y está fuera de síG1140
+- Jua_10:21¿puede acaso el d abrir los ojos de losG1140
+- 1Co_10:20a los d los sacrifican, y no a DiosG1140
+- 1Co_10:20no...que os hagáis partícipes con los dG1140
+- 1Co_10:21no podéis beber la...y la copa de los dG1140
+- 1Co_10:21mesa del Señor, y de la mesa de los dG1140
+- 1Ti_4:1escuchando a...y a doctrinas de dG1140
+- Stg_2:19tú crees que...los d creen, y tiemblanG1140
+- Rev_9:20ni dejaron de adorar a los d, y a lasG1140
+- Rev_16:14son espíritus de d, que hacen señalesG1142
+- Rev_18:2se ha hecho habitación de d y guaridaG1142

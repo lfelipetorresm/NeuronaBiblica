@@ -1,0 +1,347 @@
+---
+tipo: concordancia
+palabra: BEBER
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# BEBER
+
+- Gén_9:21y bebió del vino, y se embriagó, yH7937
+- Gén_19:32demos a beber vino...y durmamos con élH8248
+- Gén_19:33, Gén_19:35y dieron a beber vino a su padreH8248
+- Gén_19:34démosle a beber vino también esta nocheH8248
+- Gén_21:19llenó el...y dio de beber al muchachoH8248
+- Gén_24:14baja tu cántaro...para que yo bebaH8354
+- Gén_24:14bebe, y también daré de beber a tusH8248
+- Gén_24:17le ruego me des a beber un...de aguaH1572
+- Gén_24:18bebe, señor mío, y...le dio a beberH8248
+- Gén_24:19cuando acabó de darle de beber, dijoH8248
+- Gén_24:19sacaré agua, hasta que acaben de beberH8354
+- Gén_24:22cuando los camellos acabaron de beberH8354
+- Gén_24:43dame de beber un poco de agua de tuH8248
+- Gén_24:44bebe tú, y también para tus camellosH8354
+- Gén_24:45le dije: Te ruego que me des de beberH8248
+- Gén_24:46bebe, y a tus camellos daré de beberH8248
+- Gén_24:46bebí, y dio...de beber a mis camellosH8354
+- Gén_24:54comieron y bebieron él y los varonesH8354
+- Gén_25:34comió y bebió, y se levantó y se fueH8354
+- Gén_26:30hizo banquete, y comieron y bebieronH8354
+- Gén_27:25comió; le trajo también vino, y bebióH8354
+- Gén_30:38agua donde venían a beber las ovejasH8354
+- Gén_30:38cuales procreaban cuando venían a beberH8354
+- Gén_43:34y bebieron, y se alegraron con élH8354
+- Gén_44:5¿no es ésta en la que bebe mi señorH8354
+- Éxo_2:16dar de beber a las ovejas de su padreH8248
+- Éxo_2:17defendió, y dio de beber a sus ovejasH8248
+- Éxo_2:19y también...dio de beber a las ovejasH8248
+- Éxo_7:18egipcios tendrán asco de beber el aguaH8354
+- Éxo_7:21el río...egipcios no podían beber de élH8354
+- Éxo_7:24pozos...para beber no podían b del ríoH8354
+- Éxo_15:23llegaron a Mara, y no pudieron beberH8354
+- Éxo_15:24pueblo murmuró...¿Qué hemos de beber?[[H8354]]
+- Éxo_17:1no había agua...que el pueblo bebieseH8354
+- Éxo_17:2dijeron: Danos agua para que bebamosH8354
+- Éxo_17:6saldrán de...aguas, y beberá el puebloH8354
+- Éxo_24:11vieron a Dios, y comieron y bebieronH8354
+- Éxo_32:6se sentó el pueblo a comer y a beberH8354
+- Éxo_32:20lo dio a beber a los hijos de IsraelH8248
+- Éxo_34:28no comió pan, ni bebió agua; y escribióH8354
+- Lev_10:9tú, y tus hijos...no beberéis vino niH8354
+- Núm_5:24a beber a la mujer las aguas amargasH8248
+- Núm_5:26dará a beber las aguas a la mujerH8248
+- Núm_5:27le dará pues, a beber las aguas; y siH8248
+- Núm_6:3no beberá vinagre de vino, ni vinagreH8354
+- Núm_6:3ni beberá...licor de uvas, ni tampocoH8354
+- Núm_6:20después el nazareo podrá beber vinoH8354
+- Núm_20:5no es lugar...ni aun de agua para beberH8354
+- Núm_20:8sacarás aguas de la...y darás de beberH8248
+- Núm_20:11bebió la congregación, y sus bestiasH8354
+- Núm_20:17por viña, ni beberemos agua de pozosH8354
+- Núm_20:19bebiéramos tus aguas...daré el precioH8354
+- Núm_21:22no beberemos las aguas de los pozosH8354
+- Núm_23:24no se echará hasta que...beba la sangreH8354
+- Núm_33:14el pueblo no tuvo aguas para beberH8354
+- Deu_2:6compraréis de ellos el agua, y beberéisH8354
+- Deu_2:28el agua...me darás por dinero, y beberéH8354
+- Deu_9:9en el monte...sin comer pan ni beber aguaH8354
+- Deu_9:18no comí pan ni bebí agua, a causa deH8354
+- Deu_11:11que bebe las aguas de la lluvia del cieloH8354
+- Deu_28:39plantarás viñas...pero no beberás vinoH8354
+- Deu_29:6no habéis comido pan, ni bebisteis vinoH8354
+- Deu_32:14y de la sangre de la uva bebiste vinoH8354
+- Deu_32:38y bebían el vino de sus libaciones?[[H8354]]
+- Jue_4:19me des de beber y ella...dio de bH8248
+- Jue_7:5doblare sobre sus rodillas para beberH8354
+- Jue_7:6pueblo se dobló...para beberH8354
+- Jue_9:27en el templo de sus dioses...y bebieronH8354
+- Jue_13:4, Jue_13:7no bebas vino ni sidra, ni comas cosaH8354
+- Jue_13:14no beberá vino ni sidra, y no comeráH8354
+- Jue_15:19abrió Dios la cuenca que...y él bebióH8354
+- Jue_19:4quedó en su casa...comiendo y bebiendoH8354
+- Jue_19:6y se sentaron...y comieron y bebieronH8354
+- Jue_19:21y se lavaron...y comieron y bebieronH8354
+- Rut_2:9bebe del agua que sacan los criadosH8354
+- Rut_3:3hasta que él haya acabado de...y de beberH8354
+- Rut_3:7cuando Booz hubo...bebido, y su corazónH8354
+- 1Sa_1:9levantó Ana después que hubo...bebidoH8354
+- 1Sa_1:15no he bebido vino ni sidra, sino queH8354
+- 1Sa_30:11le dieron pan...y le dieron a beber aguaH8248
+- 1Sa_30:12no había...bebido agua en tres días yH8354
+- 1Sa_30:16desparramados...comiendo y bebiendoH8354
+- 2Sa_11:11entrar en mi casa...comer y beberH8354
+- 2Sa_11:13y David lo convidó a comer y a beberH8354
+- 2Sa_12:3bebiendo de su vaso, y durmiendo en suH8354
+- 2Sa_16:2vino para que beban los que se cansenH8354
+- 2Sa_19:35¿tomará gusto...en lo que coma o bebasH8354
+- 2Sa_23:15¡quién me diera a beber del agua delH8248
+- 2Sa_23:16no la quiso beber, sino que la derramóH8354
+- 2Sa_23:17¿he de beber la...Y no quiso beberlaH8354
+- 1Re_1:25comiendo y bebiendo delante de élH8354
+- 1Re_4:20Judá...comiendo, bebiendo y alegrándoseH8354
+- 1Re_10:21todos los vasos de beber...eran de oroH4945
+- 1Re_13:8no iría...ni bebería agua en este lugarH8354
+- 1Re_13:9, 1Re_13:17no comas pan ni bebas aguaH8354
+- 1Re_13:16ni beberé agua contigo en este lugarH8354
+- 1Re_13:18tráele...para que coma pan y beba aguaH8354
+- 1Re_13:19volvió con él, y comió...y bebió aguaH8354
+- 1Re_13:22comiste...bebiste agua en el lugar dondeH8354
+- 1Re_13:22te había dicho que no...bebieses aguaH8354
+- 1Re_13:23cuando había comido el pan y bebidoH8354
+- 1Re_16:9estando él en Tirsa, bebiendo...en casaH8354
+- 1Re_17:4beberás del arroyo; y yo he mandado aH8354
+- 1Re_17:6los cuervos le traían...y bebía del arroyoH8354
+- 1Re_17:10que me traigas...agua...para que bebaH8354
+- 1Re_18:41come y bebe; porque una lluvia grandeH8354
+- 1Re_18:42Acab subió a comer y a beber. Y ElíasH8354
+- 1Re_19:6y comió y bebió, y volvió a dormirseH8354
+- 1Re_19:8se levantó, pues, y comió y bebióH8354
+- 1Re_20:12bebiendo con los reyes en las tiendasH8354
+- 1Re_20:16Ben-adad bebiendo y embriagándose enH8354
+- 2Re_3:17lleno de agua, y beberéis vosotrosH8354
+- 2Re_6:22pan y agua, para que coman y beban yH8354
+- 2Re_6:23habían comido y bebido, los envió, yH8354
+- 2Re_7:8leprosos llegaron...comieron y bebieronH8354
+- 2Re_9:34y después que comió y bebió, dijo: IdH8354
+- 2Re_18:27expuestos a...y beber su propia orinaH8354
+- 2Re_18:31y beba cada uno las aguas de su pozoH8354
+- 2Re_19:24he cavado y bebido las aguas extrañasH8354
+- 1Cr_11:17quién me diera de beber...de BelénH8248
+- 1Cr_11:18no la quiso beber, sino que la derramóH8354
+- 1Cr_11:19¿había yo de beber la...Y no la quiso bH8354
+- 1Cr_12:39allí con David tres días...bebiendoH8354
+- 1Cr_29:22bebieron delante de Jehová aquel díaH8354
+- 2Cr_28:15les dieron de comer y de beberH8248
+- Esd_10:6ni bebió agua, porque se entristecióH8354
+- Neh_8:10comed grosuras, y bebed vino dulceH8354
+- Neh_8:12el pueblo se fue a comer y a beber, yH8354
+- Est_1:7daban a beber en vasos de oro, y vasosH8248
+- Est_1:8nadie fuese obligado a beber; porque así
+- Est_3:15el rey y Amán se sentaron a beber; peroH8354
+- Est_4:16no comáis ni bebáis en tres días, nocheH8354
+- Est_5:6el rey a Ester en...mientras bebían vinoH4960
+- Est_7:2mientras bebían vino, dijo el rey a EsterH4960
+- Job_1:4para que comiesen y bebiesen con ellosH8354
+- Job_1:13sus hijos comían y bebían vino en casaH8354
+- Job_1:18tus hijos...estaban comiendo y bebiendoH8354
+- Job_5:5su mies...sedientos beberán su haciendaH7602
+- Job_6:4las saetas...cuyo veneno bebe mi espírituH8354
+- Job_15:16vil que bebe la iniquidad como agua?[[H8354]]
+- Job_21:20y beberá de la ira del TodopoderosoH8354
+- Job_22:7no diste de beber agua al cansado, yH8248
+- Job_34:7Job, que bebe el escarnio como aguaH8354
+- Sal_50:13de beber sangre de machos cabríos?[[H8354]]
+- Sal_60:3nos hiciste beber vino de aturdimientoH8248
+- Sal_69:21y en mi sed me dieron a beber vinagreH8248
+- Sal_75:8beberán todos los impíos de la tierraH8354
+- Sal_78:15dio a beber como de grandes abismosH8248
+- Sal_78:44ríos en sangre...para que no bebiesenH8354
+- Sal_80:5y a beber lágrimas en gran abundanciaH8248
+- Sal_104:11dan de beber a...las bestias del campoH8248
+- Sal_110:7del arroyo bebieron en el camino, por loH8354
+- Pro_4:17pan de maldad, y beben vino de robosH8354
+- Pro_5:15bebe el agua de tu misma cisterna, yH8354
+- Pro_9:5pan, y bebed del vino que yo he mezcladoH8354
+- Pro_23:7come y bebe, te dirá, mas su corazónH8354
+- Pro_25:21si tuviere sed, dale de beber aguaH8248
+- Pro_26:6como el que se corta los pies y bebeH8354
+- Pro_31:4no es de los reyes beber vino, ni deH8354
+- Pro_31:5no sea que bebiendo olviden la ley, yH8354
+- Pro_31:7beban, y olvídense de su necesidadH8354
+- Ecl_2:24no hay cosa mejor...que coma y bebaH8354
+- Ecl_3:13que todo hombre coma y beba, y goce elH8354
+- Ecl_5:18que lo bueno es comer y beber, y gozarH8354
+- Ecl_8:15sol, sino que coma y beba y se alegreH8354
+- Ecl_9:7gozo, y bebe tu vino con alegre corazónH8354
+- Ecl_10:17reponer sus fuerzas y no para beber![[H8358]]
+- Cnt_5:1mi miel, mi vino y mi leche he bebidoH8354
+- Cnt_5:1comed...bebed en abundancia, oh amadosH8354
+- Cnt_8:2tú me enseñarías, y yo te haría beberH8248
+- Isa_5:22¡ay de los...valientes para beber vinoH8248
+- Isa_21:5mesa, extienden tapises; comen, bebenH8354
+- Isa_22:13gozo...comiendo carne y bebiendo vinoH8354
+- Isa_22:13bebamos, porque mañana moriremosH8354
+- Isa_24:9no beberán vino con cantar; la sidra lesH8354
+- Isa_24:9les será amarga a los que la bebieranH8354
+- Isa_29:8parece que bebe, pero cuando despiertaH8354
+- Isa_36:12expuestos a comer su...y beber su orinaH8354
+- Isa_36:16y beba cada cual las aguas de su pozoH8354
+- Isa_37:25yo cavé, y bebí las aguas, y...secaréH8354
+- Isa_43:20para que beba mi pueblo, mi escogidoH8248
+- Isa_44:12las fuerzas; no bebe agua, y se desmayaH8354
+- Isa_51:17bebiste de la mano de Jehová el cálizH8354
+- Isa_51:17el cáliz de aturdimiento bebiste hastaH8354
+- Isa_51:22cáliz de mi ira; nunca más lo beberásH8354
+- Isa_62:8ni beberán los extraños el vino que esH8354
+- Isa_62:9beberán en los atrios de mi santuarioH8354
+- Isa_65:13mis siervos beberán, y vosotros...sedH8354
+- Isa_66:11para que bebáis, y os deleitéis conH4711
+- Jer_2:18que bebas agua del Nilo...b agua delH8354
+- Jer_8:14ha dado a beber aguas de hiel, porqueH8248
+- Jer_9:15a comer ajenjo, y...beber aguas de hielH8248
+- Jer_16:7les darán a beber vaso de consolacionesH8248
+- Jer_16:8no entres en casa de banquete...a beberH8354
+- Jer_22:15comió y bebió tu padre, e hizo juicioH8354
+- Jer_23:15y les hará beber agua de hiel; porqueH8248
+- Jer_25:15da a beber de él a todas las nacionesH8248
+- Jer_25:16y beberán, y temblarán y enloqueceránH8354
+- Jer_25:17y di de beber a todas las naciones, aH8248
+- Jer_25:26y el rey de Babilonia beberá despuésH8354
+- Jer_25:27bebed, y embriagaos, y vomitad, y caedH8354
+- Jer_25:28y si no quieren...beber...Tenéis que bH8354
+- Jer_35:2de los recabitas...y dales a beber vinoH8248
+- Jer_35:5llenas de vino, y les dije: Bebed vinoH8354
+- Jer_35:6mas ellos dijeron: No beberemos vinoH8354
+- Jer_35:6no beberás jamás vino vosotros niH8354
+- Jer_35:8no beber vino en todos nuestros díasH8354
+- Jer_35:14no bebiesen vino, y no lo han bebidoH8354
+- Jer_49:12los que no estaban condenados a beberH8354
+- Jer_49:12beberán...no serás absuelto...beberásH8354
+- Jer_51:7de su vino bebieron los pueblosH8354
+- Lam_5:4agua bebemos por dinero; compramosH8354
+- Eze_4:11beberás...de tiempo en tiempo la bH8354
+- Eze_4:16beberán el agua por medida y con espantoH8354
+- Eze_12:18bebe tu agua con estremecimiento y conH8354
+- Eze_12:19y con espanto beberán su agua; porqueH8354
+- Eze_23:32beberás el hondo y ancho cáliz de tuH8354
+- Eze_23:34lo beberás...y lo agotarás, y quebrarásH8354
+- Eze_25:4comerán tus sementeras, y beberán tuH8354
+- Eze_31:14ni confíen...todos los que beben aguasH8354
+- Eze_31:16los que beben aguas, fueron consoladosH8354
+- Eze_34:18bebiendo las aguas claras, enturbiáisH8354
+- Eze_34:19beben lo que con vuestros pies habéisH8354
+- Eze_39:17y comeréis carne y beberéis sangreH8354
+- Eze_39:18y beberéis sangre de príncipes de laH8354
+- Eze_39:19beberéis hasta embriagaros de sangreH8354
+- Eze_44:21ninguno de los sacerdotes beberá vinoH8354
+- Dan_1:5la comida del rey, y del...que él bebíaH4960
+- Dan_1:8contaminarse...con el vino que él bebíaH4960
+- Dan_1:12y nos den legumbres a...y agua a beberH8354
+- Dan_1:16se llevaba...el vino que habían de beberH4960
+- Dan_5:1Belsasar...en presencia de los mil bebíaH8355
+- Dan_5:2para que bebiesen en ellos el rey y susH8355
+- Dan_5:3bebieron en ellos el rey y sus príncipesH8355
+- Dan_5:4bebieron vino, y alabaron a los dioses deH8355
+- Dan_5:23y tus grandes...bebisteis vino en ellosH8355
+- Joe_1:5llorad: gemid, todos los que bebéis vinoH8354
+- Joe_3:3vendieron las nimias por vino para beberH8354
+- Amó_2:8el vino...beben en la casa de sus diosesH8354
+- Amó_2:12disteis de beber vino a los nazareosH8248
+- Amó_4:1a vuestros señores: Traed, y beberemosH8354
+- Amó_4:8venían dos o tres ciudades...para beberH8354
+- Amó_5:11viñas, mas no beberéis el vino de ellasH8354
+- Amó_6:6beben vino en tazones, y se ungen conH8354
+- Amó_9:14plantarán viñas, y beberán el vino deH8354
+- Abd_1:16de la manera que vosotros bebisteisH8354
+- Abd_1:16beberán continuamente...b, y engulliránH8354
+- Jon_3:7no se les dé alimento, ni beban aguaH8354
+- Miq_6:15el aceite; y mosto, mas no beberás elH8354
+- Hab_2:15ay del que da de beber a su prójimo![[H8248]]
+- Hab_2:16bebe tú también, y serás descubiertoH8354
+- Sof_1:13plantarán viñas, mas no beberánH8354
+- Hag_1:6bebéis, y no quedáis satisfechosH8354
+- Zac_7:6coméis y bebéis, ¿no coméis y b paraH8354
+- Zac_9:15beberán, y harán estrépito como tomadosH8354
+- Mat_6:25no os afanéis por...qué habéis de beberG4095
+- Mat_6:31¿qué comeremos, o qué beberemos, o quéG4095
+- Mat_11:18vino Juan, que ni comía ni bebía, yG4095
+- Mat_11:19vino el Hijo...que come y bebe, y dicenG4095
+- Mat_20:22¿podéis beber del vaso que yo he de bG4095
+- Mat_20:23a la verdad, de mi vaso beberéis, y conG4095
+- Mat_24:38del diluvio estaban comiendo y bebiendoG4095
+- Mat_24:49a comer y a beber con los borrachosG4095
+- Mat_25:35tuve sed, y me disteis de beber; fuiG4222
+- Mat_25:37vimos...sediento, y te dimos de beber?[[G4222]]
+- Mat_25:42tuve sed, y no me disteis de beberG4222
+- Mat_26:27les dio, diciendo: Bebed de ella todosG4095
+- Mat_26:29no beberé más de este fruto de la vidG4095
+- Mat_26:29hasta...que lo beba nuevo con vosotrosG4095
+- Mat_26:42si no puede pasar...sin que yo la bebaG4095
+- Mat_27:34le dieron a beber vinagre...con hielG4095
+- Mat_27:34después de...probado, no quiso beberloG4095
+- Mat_27:48la empapó de vinagre...y le dio a beberG4222
+- Mar_2:16que él come y bebe con los publicanosG4095
+- Mar_7:4los lavamientos de los vasos de beberG4221
+- Mar_10:38¿podéis beber del vaso que yo beboG4095
+- Mar_10:39del vaso que yo bebo beberéis, y conG4095
+- Mar_14:23les dio, y bebieron de ella todosG4095
+- Mar_14:25que no beberé más del fruto de la vidG4095
+- Mar_14:25día en que lo beba nuevo en el reinoG4095
+- Mar_15:23y le dieron a beber vino mezclado conG4095
+- Mar_15:36uno...le dio de beber, diciendo: DejadG4222
+- Mar_16:18bebieren cosa mortífera, no les haráG4095
+- Luc_1:15no beberá vino ni sidra, y será llenoG4095
+- Luc_5:30¿por qué coméis y bebéis con publicanos?[[G4095]]
+- Luc_5:33ayuna...pero los tuyos comen y beben?[[G4095]]
+- Luc_5:39y ninguno que beba del ajenjo, quiereG4095
+- Luc_7:33vino Juan que ni bebía vino, y decísG4095
+- Luc_7:34vino el Hijo que come y bebe, y decísG4095
+- Luc_10:7casa comiendo y bebiendo lo que os denG4095
+- Luc_12:19diré a mi alma come, bebeG4095
+- Luc_12:29no os preocupéis...qué habéis de beberG4095
+- Luc_12:45comenzara a...y a beber y embriagarseG4095
+- Luc_13:15desata...su buey y lo lleva a beber?[[G4222]]
+- Luc_13:26delante de ti hemos comido y bebidoG4095
+- Luc_17:8sírvame hasta que haya comido y bebidoG4095
+- Luc_17:8y después de esto, come y bebe tú?[[G4095]]
+- Luc_17:27comían, bebían, se casaban y se dabanG4095
+- Luc_17:28comían:, bebían, compraban, vendíanG4095
+- Luc_22:18que no beberé más del fruto de la vidG4095
+- Luc_22:30comáis y bebáis a mi mesa en mi reinoG4095
+- Jua_2:10cuando ya han bebido mucho...inferiorG3184
+- Jua_4:7una mujer...y Jesús le dijo: Dame de beberG4095
+- Jua_4:9me pides a mi de beber, que soy mujerG4095
+- Jua_4:10quién es el que te dice: Dame de beberG4095
+- Jua_4:12del cual bebieron él, sus hijos y susG4095
+- Jua_4:13cualquiera que bebiere de esta aguaG4095
+- Jua_4:14el que bebiere del agua que yo le daréG4095
+- Jua_6:53y bebéis su sangre, no tenéis vida enG4095
+- Jua_6:54, Jua_6:56que come mi carne y bebe mi sangreG4095
+- Jua_7:37si alguno tiene sed, venga a mí y bebaG4095
+- Jua_18:11la copa...ha dado, ¿no la he de beber?[[G4095]]
+- Hec_9:9tres días sin ver, y no comió ni bebióG4095
+- Hec_10:41nosotros que comimos y bebimos con élG4844
+- Hec_23:12ni beberían hasta que...muerte a PabloG4095
+- Hec_23:21no comer ni beber hasta que le hayanG4095
+- Rom_12:20enemigo...tuviere sed, dale de beberG4222
+- Rom_14:21bueno es no comer carne, ni beber vinoG4095
+- 1Co_3:2os di a beber leche, y no viandaG4222
+- 1Co_9:4no tenemos derecho de comer y beber?[[G4095]]
+- 1Co_10:4bebieron la...porque bebían de la rocaG4095
+- 1Co_10:7se sentó el pueblo a comer y a beberG4095
+- 1Co_10:21no podéis beber la copa del Señor, yG4095
+- 1Co_10:31si, pues, coméis o bebéis, o hacéisG4095
+- 1Co_11:22¿no tenéis casas en que...o bebáis?[[G4095]]
+- 1Co_11:25todas las veces que la bebiereis, enG4095
+- 1Co_11:26y bebiereis esta copa, la muerte delG4095
+- 1Co_11:27comiere este pan o bebiera esta copaG4095
+- 1Co_11:28coma así del pan, y beba de la copaG4095
+- 1Co_11:29come...y bebe...juicio come y b para síG4095
+- 1Co_12:13nos dio a beber de un mismo EspírituG4222
+- 1Co_15:32y bebamos, porque mañana moriremosG4095
+- 1Ti_5:23ya no bebas agua, sino usa de un pocoG5202
+- Heb_6:7la tierra que bebe la lluvia que...caeG4095
+- Rev_14:8ha hecho beber a todas las nacionesG4222
+- Rev_14:10beberá del vino de la ira de Dios, queG4095
+- Rev_16:6tú les has dado a beber sangre; pues loG4095
+- Rev_18:3todas las naciones han bebido del vinoG4095

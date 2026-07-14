@@ -1,0 +1,116 @@
+---
+tipo: concordancia
+palabra: ESCAPAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ESCAPAR
+
+- Gén_14:13vino uno de los que escaparon, y loH6412
+- Gén_19:17escapa por tu vida...e al monte, no seaH4422
+- Gén_19:19no podré escapar al monte, no sea queH4422
+- Gén_19:20es pequeña...dejadme escapar ahora alláH4422
+- Gén_19:22date prisa, escápate allá; porque nadaH4422
+- Gén_32:8y lo ataca, el otro campamento escaparáH6413
+- Éxo_10:5comerá lo que escapó, lo que os quedóH6413
+- Deu_2:36no hubo ciudad que escapase de...poderH7682
+- Jos_8:22no quedó ninguno de ellos...escapaseH6412
+- Jue_3:26Aod escapó, y pasando los ídolos, seH4422
+- Jue_3:29mataron...moabitas...no escapó ningunoH4422
+- Jue_9:21y escapó Jotam y huyó, y se fue a BeerH1272
+- Jue_16:20dijo: Esta vez saldré...y me escaparéH5287
+- Jue_21:17tenga Benjamín herencia...han escapadoH6413
+- 1Sa_4:16vengo...he escapado hoy del combateH5127
+- 1Sa_19:10y David huyó, y escapó aquella nocheH4422
+- 1Sa_19:12descolgó...y él se fue y huyó, y escapóH4422
+- 1Sa_19:17y has dejado escapar a mi enemigo?[[H4422]]
+- 1Sa_19:18huyó...escapó, y vino a Samuel en RamáH4422
+- 1Sa_22:20Abiatar, escapó, y huyó tras DavidH4422
+- 1Sa_23:13que David se había escapado de KeilaH4422
+- 1Sa_23:26daba prisa David para escapar de SaúlH1980
+- 1Sa_27:1que fugarme...y así escaparé de su manoH4422
+- 1Sa_30:17no escapó de ellos ninguno, sino 400H4422
+- 2Sa_1:3he escapado del campamento de IsraelH4422
+- 2Sa_15:14no podremos escapar...de Absalón; daosH6413
+- 1Re_18:40prended a los...que no escape ningunoH4422
+- 1Re_19:17el que escapare de la espada de HazaelH4422
+- 1Re_19:17el que escapare de la espada de JehúH4422
+- 1Re_20:20rey de Siria...se escapó en un caballoH4422
+- 2Re_9:15ninguno escape de la ciudad, para irH6412
+- 2Re_10:25entrad, y matadlos...no escape ningunoH4422
+- 2Re_19:11has oído lo que han...¿y escaparás tú?[[H5337]]
+- 2Re_19:30hubiere escapado...de la casa de JudáH6413
+- 2Cr_16:7de Siria ha escapado de tus manosH4422
+- 2Cr_20:24muertos, pues ninguno había escapadoH6413
+- 2Cr_36:20los que escaparon de...fueron llevadosH7611
+- Esd_9:14sin que quedara...ni quien escape?[[H6413]]
+- Esd_9:15un remanente que ha escapado...este díaH6413
+- Neh_1:2por los judíos que habían escapadoH6413
+- Est_4:13no pienses que escaparás en la casaH4422
+- Job_1:15-16, Job_1:17, Job_1:19escapé yo...darte la noticiaH4422
+- Job_15:30no escapará de las tinieblas; la llamaH5493
+- Job_19:20he escapado con...la piel de mis dientesH4422
+- Job_23:7y yo escaparía para siempre de mi juezH6403
+- Sal_11:1decís...que escape al monte cual ave?[[H5110]]
+- Sal_33:16escapa el valiente por la mucha fuerzaH5337
+- Sal_55:8me apresuraría a escapar del vientoH4655
+- Sal_124:7nuestra alma escapó cual ave del lazoH4422
+- Sal_124:7rompió el lazo, y escapamos nosotrosH4422
+- Pro_6:5escápate como gacela de...del cazadorH5337
+- Pro_19:5y el que habla mentiras no escaparáH4422
+- Ecl_7:26el que agrada a Dios escapará de ellaH4422
+- Isa_15:9traeré...leones a los que escaparen deH6413
+- Isa_20:6Asiria; ¿y cómo escaparemos nosotros?[[H4422]]
+- Isa_37:11que las destruyeron; ¿y escaparás tú?[[H5337]]
+- Isa_37:31que hubiere escapado, volverá a echarH6413
+- Isa_46:2no pudieron escaparse de la carga, sinoH4422
+- Isa_66:19enviaré de los escapados de ellos a lasH6412
+- Jer_31:2pueblo que escapó de la espada hallóH8300
+- Jer_32:4y Sedequías...no escapará de la mano deH4422
+- Jer_34:3y no escaparás tú de su mano, sino queH4422
+- Jer_38:18, Jer_38:23y tú no escaparás de sus manosH4422
+- Jer_41:15Ismael...escapó delante de Johanán conH4422
+- Jer_42:17no habrá...ni quien escape delante delH6412
+- Jer_44:14no habrá quien escape, ni quien quedeH6412
+- Jer_44:28los que escapen de la espada volveránH6412
+- Jer_46:6huya el ligero, ni el valiente escapeH4422
+- Jer_48:8destruidor...y ninguna ciudad escaparáH4422
+- Jer_48:19pregunta...a la que escapó; dile: ¿QuéH4422
+- Jer_50:28voz de los que...escapan de la tierraH6412
+- Jer_50:29contra ella...no escape de ella ningunoH6413
+- Jer_51:50los que escapasteis de la espada, andadH6412
+- Lam_2:22no hubo quien escapase ni quedase vivoH6412
+- Eze_6:8que tengáis...que escapen de la espadaH6412
+- Eze_6:9y los que...escaparen se acordarán de míH6412
+- Eze_7:16que escapen de ellos huirán y estaránH6403
+- Eze_12:16haré que unos pocos de ellos escapenH3498
+- Eze_15:7aunque del fuego se escaparon, fuego losH3318
+- Eze_17:15escapará el que estas cosas hizo? ElH4422
+- Eze_17:15el que rompió el pacto, ¿podrá escapar?[[H4422]]
+- Eze_17:18ha hecho todas estas cosas, no escaparáH4422
+- Eze_24:26vendrá a ti uno que haya escapado paraH6412
+- Dan_8:4ni había quien escapase de su poderH5337
+- Dan_11:41mas estas escaparán de su mano: EdomH4422
+- Dan_11:42su mano...no escapará el país de EgiptoH6413
+- Joe_2:3ni tampoco habrá quien de él escapeH6413
+- Amó_2:15ni escapará el ligero de pies, ni elH4422
+- Amó_3:12así escaparán los hijos de Israel queH5337
+- Amó_4:11fuisteis como tizón escapado del fuegoH5337
+- Amó_9:1no habrá de ellos quien huya, ni...escapeH6412
+- Abd_1:14para matar a los que de ellos escapasenH6412
+- Miq_5:8el cual...arrebatare, no hay quien escapeH5337
+- Hab_2:9nido, para escaparse del poder del mal![[H5337]]
+- Zac_2:7oh Sion, la que moras con...escápateH4422
+- Mal_3:15sino que tentaron a Dios y escaparonH4422
+- Mat_23:33¿cómo escaparéis de la condenaciónG5343
+- Luc_21:36por dignos de escapar de todas estasG1628
+- Jua_10:39prenderle, pero él se escapó de susG1831
+- Hec_28:4quien, escapado del mar, la justiciaG1295
+- Rom_2:3que tú escaparás del juicio de Dios?[[G1628]]
+- 2Co_11:33descolgado...y escapé de sus manosG1628
+- 1Ts_5:3como los dolores a la...y no escaparánG1628
+- 2Ti_2:26escapen del lazo del diablo, en queG366
+- Heb_2:3¿cómo escaparemos...si descuidamos unaG1628
+- Heb_12:25si no escaparon aquellos que desecharonG5343
+- 2Pe_2:20si habiéndose ellos escapado de lasG668

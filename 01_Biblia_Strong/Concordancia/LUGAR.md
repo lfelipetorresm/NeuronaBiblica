@@ -1,0 +1,878 @@
+---
+tipo: concordancia
+palabra: LUGAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LUGAR
+
+- Gén_1:9júntense las aguas que están...en un lH4725
+- Gén_2:21tomó una de sus costillas, y...en su l
+- Gén_4:25me ha sustituido otro hijo en l de AbelH8478
+- Gén_11:3les sirvió el ladrillo en l de piedra
+- Gén_12:6pasó Abram por...hasta el l de SiquemH4725
+- Gén_13:3hasta el l donde había estado antes suH4725
+- Gén_13:4l del altar que había hecho allí antesH4725
+- Gén_13:6tierra...no podían morar en un mismo l
+- Gén_13:14mira desde el l donde estás hacia elH4725
+- Gén_18:24no perdonarás al l por amor de los 50H4725
+- Gén_18:26perdonaré a...este l por amor a ellosH4725
+- Gén_18:33Jehová se fue...y Abraham volvió a su lH4725
+- Gén_19:12todo lo que tienes...sácalo de este lH4725
+- Gén_19:13vamos a destruir este l, por cuanto elH4725
+- Gén_19:14salid de este l; porque Jehová va aH4725
+- Gén_19:27subió Abraham...al l donde había estadoH4725
+- Gén_20:11no hay temor de Dios en este l, y meH4725
+- Gén_20:13en todos los l adonde lleguemos, digasH4725
+- Gén_21:31llamó a aquel l Beerseba; porque allíH4725
+- Gén_22:3Abraham se...y fue al l que Dios le dijoH4725
+- Gén_22:4alzó Abraham sus ojos, y vio el l deH4725
+- Gén_22:9llegaron al l que Dios le había dichoH4725
+- Gén_22:13y lo ofreció en holocausto en l de su hijoH8478
+- Gén_22:14llamó...de aquel l, Jehová proveeráH4725
+- Gén_24:23en casa de tu padre l donde posemos?[[H4725]]
+- Gén_24:25hay en nuestra casa...y l para posarH4725
+- Gén_24:31he preparado...el l para los camellosH4725
+- Gén_26:7los hombres de aquel l le preguntaronH4725
+- Gén_26:7pensando que tal vez los hombres del lH4725
+- Gén_28:11a un cierto l...y se acostó en aquel lH4725
+- Gén_28:16ciertamente Jehová está en este l, yH4725
+- Gén_28:17¡cuán terrible es este l! No es otraH4725
+- Gén_28:19y llamó el nombre de aquel l Bet-elH4725
+- Gén_29:3volvían la piedra sobre...pozo a su lH4725
+- Gén_29:22juntó a todos los varones de aquel lH4725
+- Gén_29:26no se hace así en nuestro l, que se déH4725
+- Gén_30:25envíame, e iré a mi l, y a mi tierraH4725
+- Gén_31:55y se levantó Labán...y se volvió a su lH4725
+- Gén_32:2llamó el nombre de aquel l MahanaimH4725
+- Gén_32:30llamó Jacob...aquel l, Peniel; porqueH4725
+- Gén_33:17fue...llamó el nombre de aquel l SucotH4725
+- Gén_35:7y llamó al l El-bet-el, porque allí leH4725
+- Gén_35:13fue...del l en donde había hablado con élH4725
+- Gén_35:14Jacob erigió una señal en el l dondeH4725
+- Gén_35:15y llamó Jacob el nombre de aquel lH4725
+- Gén_36:33murió Bela, y reinó en su l Jobab hijo de ZeraH8478
+- Gén_36:34murió Jobab, y en su l reinó HusamH8478
+- Gén_36:35murió Husam, y reinó en su l Hadad hijo de BedadH8478
+- Gén_36:36murió Hadad, y en su l reinó Samla de MasrecaH8478
+- Gén_36:37murió Samla, y reinó en su l Saúl de RehobotH8478
+- Gén_36:38Murió Saúl, y en l suyo reinó Baal-hanánH8478
+- Gén_36:39y murió Baal-hanán...y reinó Hadar en l suyoH8478
+- Gén_36:40por sus l, y sus nombres: Timna, AlvaH4725
+- Gén_38:21y preguntó a los hombres de aquel lH4725
+- Gén_38:22y también los hombres del l dijeronH4725
+- Gén_44:33que quede ahora tu siervo en l del jovenH8478
+- Gén_50:19¿acaso estoy yo en l de Dios?
+- Éxo_3:5el l en que tú estás, tierra santa esH4725
+- Éxo_3:8l del cananeo, del heteo, del amorreoH4725
+- Éxo_4:16él te será a ti en l de boca, y
+- Éxo_5:12para recoger rastrojo en l de paja
+- Éxo_10:23nadie se levantó de su l en tres díasH8478
+- Éxo_15:17l de tu morada, que tú has preparadoH4349
+- Éxo_16:29cada uno en su l, y nadie salga de élH8478
+- Éxo_17:7y llamó el nombre de aquel l Masah yH4725
+- Éxo_18:23todo este pueblo irá en paz a su lH4725
+- Éxo_20:24en todo l donde yo hiciere que esté laH4725
+- Éxo_21:13yo te señalaré l al cual ha de huirH4725
+- Éxo_23:20introduzca en el l que yo he preparadoH4725
+- Éxo_25:27para l de las varas para llevar la mesaH1004
+- Éxo_26:33hará separación entre el l santo y el
+- Éxo_26:34el propiciatorio...en el l santísimo
+- Éxo_29:30de sus hijos tome su l como sacerdote
+- Éxo_29:31carnero...cocerás su carne en l santoH4725
+- Éxo_29:43y el l será santificado con mi gloria
+- Éxo_33:21he aquí un l junto a mí, y tú estarásH4725
+- Lev_1:16junto al altar...el l de las cenizasH4725
+- Lev_4:12todo el becerro sacará...a un l limpioH4725
+- Lev_4:24, Lev_4:33degollará en el l donde se degúellaH4725
+- Lev_4:29y la degollará en el l del holocaustoH4725
+- Lev_6:11sacará las cenizas fuera...un l limpioH4725
+- Lev_6:16sin levadura se comerá en l santo; enH4725
+- Lev_6:22el sacerdote que en l de Aarón fuere ungidoH8478
+- Lev_6:25en el l donde se degüella el holocaustoH4725
+- Lev_6:26en l santo será comida, en el atrio delH4725
+- Lev_6:27lavarás...sobre que cayere, en l santoH4725
+- Lev_7:2en el l donde degüellan el holocaustoH4725
+- Lev_7:6será comida en l santo; es cosa muy santaH4725
+- Lev_7:26ninguna sangre comeréis en ningún l en dondeH4186
+- Lev_10:13la comeréis, pues, en l santo; porqueH4725
+- Lev_10:14comeréis...en l limpio, tú y tus hijosH4725
+- Lev_10:17no comisteis la expiación en l santo?[[H4725]]
+- Lev_10:18debíais comer la ofrenda en el l santo
+- Lev_13:19en el l del divieso hubiere...manchaH4725
+- Lev_13:23, Lev_13:28si la mancha...estuviere en su l, yH8478
+- Lev_13:33pero no rasurará el l afectado; y elH5424
+- Lev_14:13degollará...en el l donde se degüellaH4725
+- Lev_14:13en el l del santuario; porque como laH4725
+- Lev_14:28aceite...el l de la sangre de la culpaH4725
+- Lev_14:40las echarán fuera de la...en l inmundoH4725
+- Lev_14:41fuera de la ciudad, en l inmundo, elH4725
+- Lev_14:42las pondrán en l de las piedras quitadasH8478
+- Lev_14:45todo fuera de la ciudad a l inmundoH4725
+- Lev_16:24lavará...su cuerpo con agua en el l delH4725
+- Lev_16:32para ser sacerdote en l de su padreH8478
+- Lev_24:9lo comerán en l santo; porque es cosaH4725
+- Lev_26:30destruiré vuestros l altos...derribaréH1004
+- Núm_3:12en l de todos los primogénitosH8478
+- Núm_3:38la guarda del santuario en l...de Israel
+- Núm_3:41en l de todos...los hijos de IsraelH8478
+- Núm_3:45en l de todos los primogénitos...de IsraelH8478
+- Núm_4:4oficio de...en el l santísimo, será
+- Núm_4:19que cuando se acerquen al l santísimo
+- Núm_8:16en l de todo primer nacidoH8478
+- Núm_8:18he tomado a los levitas en l de todos
+- Núm_9:17l donde la nube paraba, allí acampabanH4725
+- Núm_10:29partimos para el l del cual Jehová haH4725
+- Núm_10:31tú conoces los l donde hemos de acampar
+- Núm_10:33el arca del...buscándoles l de descansoH4496
+- Núm_11:3llamó a aquel l Tabera, porque el fuegoH4725
+- Núm_11:34el nombre de aquel l Kibrot-hataavaH4725
+- Núm_13:24y se llamó aquel l el Valle de EscolH4725
+- Núm_14:40subir al l del cual ha hablado JehováH4725
+- Núm_18:31lo comeréis en cualquier l, vosotrosH4725
+- Núm_19:9pondrá...en l limpio, y las guardará laH4725
+- Núm_20:5subir de...para traernos a este mal l?[[H4725]]
+- Núm_20:5no es l de sementera, de higueras, deH4725
+- Núm_21:3destruyó...y llamó el nombre de...l HormaH4725
+- Núm_23:13te ruego que vengas conmigo a otro lH4725
+- Núm_23:27ruego que vengas, te llevaré a otro lH4725
+- Núm_24:11huye a tu l; yo dije que te honraríaH4725
+- Núm_24:25se levantó Balaam y...y volvió a su lH4725
+- Núm_32:1y les pareció el país l de ganadoH4725
+- Núm_32:14habéis sucedido en l de vuestros padresH8478
+- Núm_32:17iremos...hasta que los metamos en su lH4725
+- Núm_33:52país...y destruiréis todos sus l altosH1116
+- Deu_1:31el camino que...hasta llegar a este lH4725
+- Deu_1:33para reconoceros el l donde...de acamparH4725
+- Deu_2:12y habitaron en l de ellos, como hizo IsraelH8478
+- Deu_2:21sucedieron a aquéllos, y habitaron en su lH8478
+- Deu_2:22y habitaron en su l hasta hoyH8478
+- Deu_2:23los destruyeron, y habitaron en su lH8478
+- Deu_2:37a l alguno que Jehová...había prohibidoH3027
+- Deu_9:7hasta que entrasteis en este l, habéisH4725
+- Deu_10:6en l suyo tuvo el sacerdocio su hijo EleazarH8478
+- Deu_11:5hecho...hasta que habéis llegado a este lH4725
+- Deu_11:24l que pisare...vuestro pie será vuestroH4725
+- Deu_12:2destruiréis...los l donde las nacionesH4725
+- Deu_12:3imágenes...raeréis su nombre de aquel lH4725
+- Deu_12:5, Deu_12:11, Deu_12:14, Deu_12:18, Deu_12:21, Deu_12:26; Deu_16:2, Deu_16:6-7, Deu_16:11, Deu_16:15-16el l que Jehová vuestro Dios escogiereH4725
+- Deu_12:13no ofrecer...en cualquier l que vieresH4725
+- Deu_14:23comerás...en el l que él escogiere paraH4725
+- Deu_14:24por estar lejos de ti el l que JehováH4725
+- Deu_14:25vendrás al l que Jehová tu...escogiereH4725
+- Deu_15:20comerás...en el l que Jehová escogiereH4725
+- Deu_17:8recurrirás al l que Jehová...escogiereH4725
+- Deu_17:10harás según...te indiquen los del l queH4725
+- Deu_18:6viniere con...al l que Jehová escogiereH4725
+- Deu_21:3, Deu_21:6más cercana al l donde fuere hallado
+- Deu_21:19sacarán...a la puerta del l donde vivaH4725
+- Deu_23:12tendrás un l fuera del...adonde salgasH4725
+- Deu_23:16morará contigo...en el l que escogiereH4725
+- Deu_26:2irás al l que Jehová tu Dios escogiereH4725
+- Deu_26:9trajo a este l, y nos dio esta tierraH4725
+- Deu_28:62en l de haber sido como las estrellas delH834
+- Deu_29:7llegasteis a este l, y salieron SehónH4725
+- Deu_31:11presentarse...en el l que él escogiereH4725
+- Deu_34:6y ninguno conoce el l de su sepultura
+- Jos_1:3l que pisare la planta de vuestro pieH4725
+- Jos_3:3saldréis de vuestro l y marcharéis en posH4725
+- Jos_4:3tomad...del l donde están firmes los piesH4673
+- Jos_4:3en el l donde habéis de pasar la nocheH4411
+- Jos_4:8las pasaron al l donde acamparon, y lasH4411
+- Jos_4:9en el l donde estuvieron los pies de losH8478
+- Jos_4:18los pies de los sacerdotes...en l secoH2724
+- Jos_4:18las aguas del Jordán se volvieron a su lH4725
+- Jos_5:7que él había hecho suceder en su lH8478
+- Jos_5:8la gente, se quedaron en el mismo l enH8478
+- Jos_5:9el nombre de aquel l fue llamado GilgalH4725
+- Jos_5:15el calzado...el l donde estás es santoH4725
+- Jos_7:26l se llama el Valle de Acor, hasta hoyH4725
+- Jos_8:19levantándose...de su l...en la emboscadaH4725
+- Jos_9:27aguadores...en el l que Jehová eligieseH4725
+- Jos_20:4y le darán l para que habite con ellosH4725
+- Jos_21:10para ellos fue la suerte en primer l
+- Jue_2:5llamaron el nombre de aquel l BoquimH4725
+- Jue_6:2se hicieron...cavernas, y l fortificadosH4679
+- Jue_6:26edifica altar a Jehová...l convenienteH4634
+- Jue_7:7váyase...la demás gente cada uno a su lH4725
+- Jue_8:27Israel se prostituyó tras...en aquel l
+- Jue_11:19ruego que me dejes pasar...hasta mi lH4725
+- Jue_15:2tómala, pues, en su lH8478
+- Jue_15:17quijada, y llamó a aquel l Ramat-lehiH4725
+- Jue_15:19llamó el nombre de aquel l, En-hacoreH4725
+- Jue_17:8para ir a vivir donde pudiera encontrar lH4725
+- Jue_17:9y voy a vivir donde pueda encontrar lH4725
+- Jue_18:10l donde no hay falta de cosa alguna queH4725
+- Jue_18:12llamaron a aquel l el campamento de DanH4725
+- Jue_19:13ven, sigamos hasta uno de esos l, paraH4725
+- Jue_19:16los moradores de aquel l eran hijos deH4725
+- Jue_19:28el varón...se levantó y se fue a su lH4725
+- Jue_20:22ordenar la batalla en el mismo l dondeH4725
+- Jue_20:33se levantaron...los de Israel de su lH4725
+- Jue_20:33emboscadas de Israel salieron de su lH4725
+- Rut_1:7salió, pues, del l donde había estadoH4725
+- Rut_3:4notarás el l donde se acuesta, e irás yH4725
+- Rut_4:10nombre del muerto no se borre...de su lH4725
+- 1Sa_2:20Jehová te dé hijos de esta mujer en l
+- 1Sa_3:9así se fue Samuel, y se acostó en su lH4725
+- 1Sa_5:3y tomaron a Dagón y lo volvieron a su lH4725
+- 1Sa_5:11enviad el arca del...y vuélvase a su lH4725
+- 1Sa_6:2el arca...hemos de volver a enviar a su lH4725
+- 1Sa_7:16y juzgaba a Israel en todos estos lH4725
+- 1Sa_9:11dijeron: ¿Está en este l el vidente?
+- 1Sa_9:12tiene hoy un sacrificio en el l altoH1116
+- 1Sa_9:13antes que suba al l alto a comer; puesH1116
+- 1Sa_9:14venía hacia ellos para subir al l altoH1116
+- 1Sa_9:19sube delante de mí al l alto, y comeH1116
+- 1Sa_9:22los introdujo...les dio l a la cabeceraH4725
+- 1Sa_9:25cuando hubieron descendido del l altoH1116
+- 1Sa_10:5de profetas que descienden del l altoH1116
+- 1Sa_10:13cesó de profetizar, y llegó al l altoH1116
+- 1Sa_12:8padres...los hicieron habitar en este lH4725
+- 1Sa_14:9entonces nos estaremos en nuestro l, yH8478
+- 1Sa_14:20llegaron hasta el l de la batalla; y
+- 1Sa_14:46dejó...los filisteos se fueron a su lH4725
+- 1Sa_19:2David...estate en l oculto y escóndete
+- 1Sa_20:19vendrás al l donde estabas escondidoH4725
+- 1Sa_20:25se sentó...y el l de David quedó vacíoH4725
+- 1Sa_21:2yo les señalé a los criados un cierto lH4725
+- 1Sa_22:4tiempo que David estuvo en el l fuerteH4686
+- 1Sa_22:5Gad dijo...No te estés en este l fuerteH4686
+- 1Sa_23:13salieron...y anduvieron de un l a otroH834
+- 1Sa_23:14se quedó en el desierto en l fuertesH4679
+- 1Sa_23:22conoced y ved el l de su escondite, yH4725
+- 1Sa_23:28pusieron a aquel l por...Sela-hama-lecotH4725
+- 1Sa_23:29y habitó en los l fuertes de En-gadiH4679
+- 1Sa_24:22David y...hombres subieron al l fuerteH4686
+- 1Sa_26:5miró David el l donde dormían Saúl yH4725
+- 1Sa_26:25David se fue...y Saúl se volvió a su lH4725
+- 1Sa_27:5séame dado l en alguna de las aldeasH4725
+- 1Sa_29:4se vuelva al l que le señalaste, y noH4725
+- 1Sa_30:31todos los l donde David había estadoH4725
+- 2Sa_2:16fue llamado aquel l, Helcat-hazurimH4725
+- 2Sa_2:23los que venían por aquel l donde AsaelH8478
+- 2Sa_5:20llamó el nombre de aquel l Baal-perazimH4725
+- 2Sa_6:8fue llamado aquel l Pérez-uza, hasta hoyH4725
+- 2Sa_6:17la pusieron en su l en...de una tiendaH4725
+- 2Sa_7:10fijaré l a mi...para que habite en su lH4725, [[H8478]]
+- 2Sa_10:1y reinó en l suyo Hanún su hijoH8478
+- 2Sa_11:16puso a Urías en el l donde sabía queH4725
+- 2Sa_15:17salió...el rey...se detuvieron en un lH1004
+- 2Sa_15:19tú eres...y desterrado también de tu lH4725
+- 2Sa_16:8la casa de Saúl, en l del cual tú has reinadoH8478
+- 2Sa_17:9escondido en alguna cueva o en otro lH4725
+- 2Sa_17:12acometeremos en cualquier l en dondeH4725
+- 2Sa_17:25a Amasa jefe del ejército en l de JoabH8478
+- 2Sa_18:33¡quién me diera que muriera yo en l de ti
+- 2Sa_19:13no fueres general del...en el l de JoabH8478
+- 2Sa_22:20me sacó a l espacioso; me libró, porqueH4800
+- 2Sa_23:7lanza, y son del todo quemados en su lH7675
+- 2Sa_23:14David...estaba en el l fuerte, y habíaH4686
+- 1Re_1:30él se sentará en mi trono en l míoH8478
+- 1Re_2:35el rey puso en su l a Benaía hijo de JoiadaH8478
+- 1Re_2:35y a Sadoc...en l de AbiatarH8478
+- 1Re_3:2el pueblo sacrificaba en los l altosH1116
+- 1Re_3:3Salomón...quemaba incienso en los l altosH1116
+- 1Re_3:4a Gabaón...aquél era el l alto principalH1116
+- 1Re_3:7tú me has...por rey en l de David mi padreH8478
+- 1Re_4:28traer cebada y paja...l donde él estabaH4725
+- 1Re_5:1lo habían ungido por rey en l de su padreH8478
+- 1Re_5:5tu hijo, a quien yo pondré en l tuyo en tu tronoH8478
+- 1Re_5:9la enviaré...hasta el l que tú me señalesH4725
+- 1Re_6:5contra las paredes de...del l santísimo
+- 1Re_6:16hizo...un aposento que es el l santísimoH6944
+- 1Re_6:19y adornó el l santísimo por dentro en
+- 1Re_6:20el l santísimo estaba...parte de adentro
+- 1Re_6:22todo el altar que...frente al l santísimo
+- 1Re_6:23hizo...en el l santísimo dos querubines
+- 1Re_6:27puso estos querubines...en el l santísimo
+- 1Re_7:49otros cinco a la...frente al l santísimo
+- 1Re_7:50de oro los quiciales...del l santísimoH6944
+- 1Re_8:6metieron el arca del pacto...en su l, enH4725
+- 1Re_8:6en el l santísimo, debajo de las alas deH6944
+- 1Re_8:7tenían extendidas las alas sobre el l delH4725
+- 1Re_8:8el l santo...está delante del l santísimoH6944
+- 1Re_8:20me he levantado en l de David mi padre
+- 1Re_8:21y he puesto en ella l para el arca, enH4725
+- 1Re_8:29estén tus ojos abiertos...sobre este lH4725
+- 1Re_8:29la oración que tu siervo haga en este lH4725
+- 1Re_8:30cuando oren en este l...tú lo oirás enH4725
+- 1Re_8:30lo oirás en el l de tu morada, en losH4725
+- 1Re_8:35y te rogaren en este l y confesaren tuH4725
+- 1Re_8:39, 1Re_8:43, 1Re_8:49oirás en los cielos, en el l deH4349
+- 1Re_11:7un l alto a Quemos, ídolo abominable deH1116
+- 1Re_11:43y reinó en su l Roboam su hijoH8478
+- 1Re_12:31hizo también casas sobre los l altosH1116
+- 1Re_12:32ordenó...sacerdotes para los l altos queH1116
+- 1Re_13:2sacrificará...a los sacerdotes de los lH1116
+- 1Re_13:8comería pan ni bebería agua en este lH4725
+- 1Re_13:16no...ni beberé agua contigo en este lH4725
+- 1Re_13:22bebiste agua en el l donde Jehová teH4725
+- 1Re_13:32contra...las casas de los l altos queH1116
+- 1Re_13:33a hacer sacerdotes de los l altos deH1116
+- 1Re_13:33que fuese...sacerdotes de los l altosH1116
+- 1Re_14:20reinó en su l Nadab su hijoH8478
+- 1Re_14:23ellos también se edificaron l altosH1116
+- 1Re_14:27y en l de ellos hizo...escudos de bronceH8478
+- 1Re_14:31y reinó en su l Abiam su hijoH8478
+- 1Re_15:8y reinó Asa su hijo en su lH8478
+- 1Re_15:14sin embargo, los l altos no se quitaronH1116
+- 1Re_15:24y reinó en su l Josafat su hijoH8478
+- 1Re_15:28lo mató...y reinó en l suyoH8478
+- 1Re_16:6y reinó en su l Ela su hijoH8478
+- 1Re_16:10vino Zimri y lo hirió...y reinó en l suyoH8478
+- 1Re_16:28y reinó en l suyo Acab su hijoH8478
+- 1Re_19:16ungirás para que sea profeta en tu lH8478
+- 1Re_20:24y pon capitanes en l de ellosH4725
+- 1Re_21:19l donde lamieron los perros la sangreH4725
+- 1Re_22:40y reinó en su l Ocozías su hijoH8478
+- 1Re_22:43con todo...l altos no fueron quitadosH1116
+- 1Re_22:47había gobernador en l de rey
+- 1Re_22:50y en su l reinó Joram su hijoH8478
+- 2Re_1:17reinó en su l JoramH8478
+- 2Re_2:19el l en donde está...ciudad es buenoH4186
+- 2Re_3:27arrebató...que había de reinar en su lH8478
+- 2Re_5:11saldrá...tocará el l, y sanará la lepraH4725
+- 2Re_5:24y así que llegó a un l secreto, él loH6076
+- 2Re_6:1en que moramos contigo nos es estrechoH4725
+- 2Re_6:2viga, y hagamos allí l en que habitemosH4725
+- 2Re_6:6él le mostró el l. Entonces cortó él unH4725
+- 2Re_6:8dijo...tal y tal l estará mi campamentoH4725
+- 2Re_6:9que no pases por tal l, porque los siriosH4725
+- 2Re_6:10envió a aquel l que el varón de DiosH4725
+- 2Re_8:15y murió; y reinó Hazael en su lH8478
+- 2Re_8:24y reinó en l suyo Ocozías, su hijoH8478
+- 2Re_10:25hasta el l santo del templo de Baal
+- 2Re_10:35y reinó en su l Joacaz su hijoH8478
+- 2Re_12:3; 2Re_14:4; 2Re_15:4, 2Re_15:35l altos no se quitaronH1116
+- 2Re_12:3; 2Re_14:4; 2Re_15:4, 2Re_15:35el pueblo...sacrificaba...en los l altosH1116
+- 2Re_12:21y reinó en su l Amasías su hijoH8478
+- 2Re_13:9y reinó en su l Joás su hijoH8478
+- 2Re_13:24y reinó en su l Ben-adad su hijoH8478
+- 2Re_14:16y reinó en su l Jeroboam su hijoH8478
+- 2Re_14:21lo hicieron rey en l de Amasías su padreH8478
+- 2Re_14:29y reinó en su l Zacarías su hijoH8478
+- 2Re_15:7y reinó en su l Jotam su hijoH8478
+- 2Re_15:10y lo mató, y reinó en su lH8478
+- 2Re_15:14y lo mató, y reinó en su lH8478
+- 2Re_15:22y reinó en su l Pekaía su hijoH8478
+- 2Re_15:25y lo mató, y reinó en su lH8478
+- 2Re_15:30y lo hirió y lo mató, y reinó en su lH8478
+- 2Re_15:38y reinó en su l Acaz su hijoH8478
+- 2Re_16:4quemó incienso en los l altos, y sobreH1116
+- 2Re_16:20y reinó en su l su hijo EzequíasH8478
+- 2Re_17:9edificándose l altos en...sus ciudadesH1116
+- 2Re_17:11quemaron allí incienso en...los l altosH1116
+- 2Re_17:24en l de los hijos de IsraelH8478
+- 2Re_17:29los pusieron en los templos de los lH1116
+- 2Re_17:32e hicieron...sacerdotes de los l altosH1116
+- 2Re_17:32sacrificaban para ellos en...los l altosH1116
+- 2Re_18:4quitó los l altos, y quebró...imágenesH1116
+- 2Re_18:22¿no es...aquel cuyos l altos y altaresH1116
+- 2Re_18:25¿acaso he venido...sin Jehová a este lH4725
+- 2Re_19:23me alojaré en sus más remotos l, en
+- 2Re_19:37y reinó en su l Esar-hadón su hijoH8478
+- 2Re_20:21y reinó en su l Manasés su hijoH8478
+- 2Re_21:3porque volvió a edificar los l altosH1116
+- 2Re_21:18durmió Manasés...y reinó en su l AmónH8478
+- 2Re_21:24puso el...por rey en su l a Josías su hijoH8478
+- 2Re_21:26y reinó en su l Josías su hijoH8478
+- 2Re_22:16yo traigo sobre este l...todo el malH4725
+- 2Re_22:17mi ira se ha encendido contra este lH4725
+- 2Re_22:19que yo he pronunciado contra este lH4725
+- 2Re_22:20todo el mal que traigo sobre este lH4725
+- 2Re_23:5que quemasen incienso en los l altos enH1116
+- 2Re_23:7derribó los l de prostitución idolátricaH1004
+- 2Re_23:8y profanó los l altos donde...quemabanH1116
+- 2Re_23:9sacerdotes de los l altos no subían alH1116
+- 2Re_23:13profanó el rey los l altos...JerusalénH1116
+- 2Re_23:14y llenó el l de...de huesos de hombresH4725
+- 2Re_23:15y el l alto que había hecho JeroboamH1116
+- 2Re_23:15aquel altar y el l alto destruyó, y loH1116
+- 2Re_23:19todas las casas de los l altos...quitóH1116
+- 2Re_23:20mató además...sacerdotes de los l altosH1116
+- 2Re_23:30y lo pusieron por rey en l de su padreH8478
+- 2Re_23:34en l de Josías su padre, y le cambió
+- 2Re_24:6y reinó en su l Joaquín su hijoH8478
+- 2Re_24:17por rey en l de Joaquín a Matanías su tíoH8478
+- 1Cr_1:44reinó en su l Jobab hijo de ZeraH8478
+- 1Cr_1:45reinó en su l Husam, de la tierra de losH8478
+- 1Cr_1:46reinó en su l Hadad hijo de BedadH8478
+- 1Cr_1:47reinó en su l Samla de MasrecaH8478
+- 1Cr_1:48reinó en su l Saúl de RehobotH8478
+- 1Cr_1:49reinó en su l Baal-hanán hijo de AcborH8478
+- 1Cr_1:50reinó en su l HadadH8478
+- 1Cr_2:23y Aram tomaron de ellos las...60 lH5892
+- 1Cr_4:41y habitaron allí en l de ellos
+- 1Cr_5:22y habitaron en sus l hasta el cautiverio
+- 1Cr_6:49Aarón...en toda la obra del l santísimo
+- 1Cr_7:29en estos l habitaron los hijos de José
+- 1Cr_12:8de Gad huyeron...a David, al l fuerte enH4679
+- 1Cr_12:16de Judá vinieron a David al l fuerteH4679
+- 1Cr_13:11lo que llamó aquel l Pérez-uza, hastaH4725
+- 1Cr_14:11llamaron el nombre de...l Baal-perazimH4725
+- 1Cr_15:1arregló un l para el arca de Dios, y leH4725
+- 1Cr_15:3que pasasen el arca de Jehová a su l, elH4725
+- 1Cr_15:12pasad el arca...l que le he preparado
+- 1Cr_16:39Sadoc...el l alto que estaba en GabaónH1116
+- 1Cr_17:9he dispuesto l para mi pueblo IsraelH4725
+- 1Cr_17:16para que me hayas traído hasta este l?[[H1988]]
+- 1Cr_21:22dijo David a Ornán: Dame este l de laH4725
+- 1Cr_21:25dio David...aquel l...600 siclos de oroH4725
+- 1Cr_21:29el altar del...en el l alto de GabaónH1116
+- 1Cr_29:23en l de David su padre, y fue prosperadoH8478
+- 1Cr_29:28y reinó en su l Salomón su hijoH8478
+- 2Cr_1:3fue Salomón...al l alto que había enH1116
+- 2Cr_1:4David había traído el arca...al l que él
+- 2Cr_1:8y a mí me has puesto por rey en l suyoH8478
+- 2Cr_1:13y desde el l alto que estaba en GabaónH1116
+- 2Cr_3:1en el l que David había preparado en laH4725
+- 2Cr_3:8hizo...el l santísimo, cuya longitud eraH1004
+- 2Cr_3:10del l santísimo hizo dos querubines deH1004
+- 2Cr_4:20lámparas...las encendiesen delante del l
+- 2Cr_4:22de oro...sus puertas...para el l santísimo
+- 2Cr_5:7el arca...en su l, en...en el l santísimoH4725
+- 2Cr_5:7metieron el arca del pacto de...en su lH4725
+- 2Cr_5:8extendían las alas sobre el l del arcaH4725
+- 2Cr_5:9barras del arca delante del l santísimo
+- 2Cr_6:10me levanté yo en l de David mi padreH4725
+- 2Cr_6:20el l del cual dijiste: Mi nombre estaráH4725
+- 2Cr_6:20oigas la...que tu siervo ora en este lH4725
+- 2Cr_6:21cuando en este l hicieren oración, queH4725
+- 2Cr_6:21oirás...desde el l de tu moradaH4725
+- 2Cr_6:26haber pecado...oraren a ti hacia este lH4725
+- 2Cr_6:30, 2Cr_6:33, 2Cr_6:39oirás...desde el l de tu moradaH4349
+- 2Cr_6:40atentos...oídos a la oración en este lH4725
+- 2Cr_7:12he elegido para mí este l por casa deH4725
+- 2Cr_7:15atentos...oídos a la oración en este lH4725
+- 2Cr_9:31y reinó en su l Roboam su hijo
+- 2Cr_11:13juntaron a él desde todos los l dondeH1366
+- 2Cr_11:15propios sacerdotes para los l altos, yH1116
+- 2Cr_12:10en l de ellos hizo...escudos de bronce
+- 2Cr_12:16y reinó en su l Abías su hijo
+- 2Cr_14:1y reinó en su l su hijo AsaH8478
+- 2Cr_14:3porque quitó los altares...y los l altosH1116
+- 2Cr_14:5quitó...Judá los l altos y las imágenesH1116
+- 2Cr_15:17con todo...l altos no eran quitados deH1116
+- 2Cr_17:1reinó en su l Josafat su hijo, el cualH8478
+- 2Cr_17:6y quitó los l altos y las imágenes deH1116
+- 2Cr_19:5puso jueces en...Judá, por todos los lH5892
+- 2Cr_19:6porque no juzgáis en l de hombre
+- 2Cr_20:33los l altos no fueron quitados; puesH1116
+- 2Cr_21:1y reinó en su l Joram su hijoH8478
+- 2Cr_21:11hizo l altos en los montes de Judá, eH1116
+- 2Cr_22:1hicieron rey en l de Joram a OcozíasH8478
+- 2Cr_24:11arca...la vaciaban, y la volvían a su lH4725
+- 2Cr_24:27y reinó en su l Amasías su hijoH8478
+- 2Cr_26:1lo pusieron por rey en l de Amasías su padre
+- 2Cr_26:20y le hicieron salir...de aquel l; y élH8033
+- 2Cr_26:23y reinó Jotam su hijo en l suyoH8478
+- 2Cr_27:9y reinó en su l Acaz su hijoH8478
+- 2Cr_28:4quemó incienso en los l altos, en losH1116
+- 2Cr_28:25l altos en todas las ciudades de JudáH1116
+- 2Cr_28:27y reinó en su l Ezequías su hijoH8478
+- 2Cr_30:16tomaron su l en los turnos de costumbre
+- 2Cr_31:1derribaron los l altos y los altares porH1116
+- 2Cr_32:12ha quitado sus l altos y sus altaresH1116
+- 2Cr_32:33lo sepultaron en el l más prominenteH8478
+- 2Cr_33:3él reedificó los l altos que EzequíasH1116
+- 2Cr_33:17sacrificaba en los l altos, aunque loH1116
+- 2Cr_33:19edificó l altos y erigió imágenes deH4725
+- 2Cr_33:20y reinó en su l Amón su hijoH8478
+- 2Cr_33:25puso por rey en su l a Josías su hijoH8478
+- 2Cr_34:3a limpiar a Judá y a Jerusalén de los lH1116
+- 2Cr_34:6lo mismo hizo en...y en los l asoladosH5439
+- 2Cr_34:24traigo mal sobre este l, y sobre losH4725
+- 2Cr_34:25se derramará mi ira sobre este l, y noH4725
+- 2Cr_34:27oír sus palabras sobre este l y sobreH4725
+- 2Cr_34:28todo el mal que yo traigo sobre este lH4725
+- 2Cr_36:1y lo hizo rey en l de su padre en JerusalénH8478
+- 2Cr_36:8y reinó en su l Joaquín su hijoH8478
+- Esd_1:4el que haya quedado, en cualquier lH4725
+- Esd_1:4ayúdenle los hombres de su l con plataH4725
+- Esd_5:15sea reedificada la casa de Dios en su lH870
+- Esd_6:3casa...como l para ofrecer sacrificiosH870
+- Esd_6:5y vayan a su l, al templo que está enH870
+- Esd_6:7reedifiquen esa casa de Dios en su lH870
+- Esd_8:17a Iddo, jefe en el l llamado CasifiaH4725
+- Esd_8:17hablar a Iddo...en el l llamado CasifiaH4725
+- Esd_9:8para darnos un l seguro en su santuarioH4725
+- Esd_10:14que se queden en l de toda la congregación
+- Neh_1:9os traeré al l que escogí para hacerH4725
+- Neh_2:14pero no había l por donde pasase laH4725
+- Neh_4:12todos los l de donde volviereis, ellosH4725
+- Neh_4:13por las partes bajas del l, detrás delH4725
+- Neh_4:20en el l donde oyereis el sonido de laH4725
+- Neh_8:7ley; y el pueblo estaba atento en su lH5977
+- Neh_9:3puestos de pie en su l, leyeron el libroH5977
+- Neh_12:27buscaron a los levitas de todos sus lH4725
+- Est_2:4reine en l de VastiH8478
+- Est_2:17y la hizo reina en l de VastiH8478
+- Est_4:3cada provincia y l donde el mandamiento
+- Est_5:9no se levantaba ni se movía de su l
+- Job_2:11tres amigos de Job...cada uno de su lH4725
+- Job_6:17y al calentarse, desaparecen de su lH4725
+- Job_7:10no volverá más...su l le conocerá másH4725
+- Job_8:4pecaron...los echó en el l de su pecadoH3027
+- Job_8:17van...enlazándose hasta un l pedregosoH1004
+- Job_8:18le arrancaren de su l, éste le negaráH4725
+- Job_9:6él remueve la tierra de su l, y haceH4725
+- Job_9:9él hizo la Osa...y los l secretos del surH2315
+- Job_14:18cae...y las peñas son removidas de su lH4725
+- Job_16:4si vuestra alma estuviera en lugar de la míaH8478
+- Job_16:18no cubras...y no haya l para mi clamorH4725
+- Job_18:4y serán removidas de su l las peñas?[[H4725]]
+- Job_18:21será el l del que no conoció a DiosH4725
+- Job_20:9nunca más le verá, ni su l le conoceráH4725
+- Job_27:21va; y tempestad lo arrebatará de su lH4725
+- Job_27:23batirán las...y desde su l le silbaránH4725
+- Job_28:1ciertamente...el oro l donde se refinaH4725
+- Job_28:4abren minas...en l olvidados, donde el
+- Job_28:6l hay cuyas piedras son zafiro, y susH4725
+- Job_28:12, Job_28:20¿dónde está el l de la inteligencia?[[H4725]]
+- Job_28:23Dios entiende el camino...conoce su lH4725
+- Job_30:3huían a la...a l tenebroso, asolado y
+- Job_31:40y espinos en l de cebadaH8478
+- Job_33:6heme aquí a mí en l de Dios
+- Job_34:24y hará estar a otros en su lH8478
+- Job_34:26como a...herirá en l donde sean vistos
+- Job_36:16te apartará...a l espacioso, libre deH7338
+- Job_36:20en que los pueblos desaparecen de su lH8478
+- Job_37:1estremece mi corazón, y salta de su lH4725
+- Job_38:12¿has mandado tú...mostrado al alba su lH4725
+- Job_38:19luz, y dónde está el l de las tinieblasH4725
+- Job_39:6soledad, y sus moradas en l estériles
+- Job_40:21se echará...en lo oculto...los l húmedos
+- Sal_16:6cuerdas me cayeron en l deleitosos
+- Sal_18:19sacó a l espacioso; me libró, porqueH4800
+- Sal_23:2en l de delicados pastos me...descansar
+- Sal_24:3¿quién...y quién estará en su l santo?[[H4725]]
+- Sal_26:8casa...el l de la morada de tu gloriaH4725
+- Sal_31:8pusiste mis pies en l espaciosoH4800
+- Sal_33:14desde el l de su morada miró sobreH4349
+- Sal_37:10malo; observarás su l, y no estará allíH4725
+- Sal_44:19nos quebrantases en el l de chacalesH4725
+- Sal_45:16en l de tus padres serán tus hijosH8478
+- Sal_74:20los l tenebrosos...llenos de...violenciaH4285
+- Sal_78:58le enojaron con sus l altos...a celo conH1116
+- Sal_88:6me has puesto en el hoyo...l profundosH4688
+- Sal_103:16y pereció, y su l no la conocerá másH4725
+- Sal_103:22obras, en todos los l de su señoríoH4725
+- Sal_104:8descendieron los valles, al l que túH4725
+- Sal_109:19en l de cinto con que se ciña siempre
+- Sal_118:5respondió...poniéndome en l espaciosoH4800
+- Sal_132:5hasta que halle l para Jehová, moradaH4725
+- Sal_132:8levántate...Jehová, al l de tu reposo
+- Sal_132:14este es para siempre el l de mi reposo
+- Pro_1:21clama en los principales l de reuniónH1993
+- Pro_8:3en el l de las puertas, a la entrada de
+- Pro_9:14se sienta...en los l altos de la ciudadH4791
+- Pro_11:8mas el impío entra en l suyoH8478
+- Pro_15:3ojos de Jehová están en todo l, mirandoH4725
+- Pro_25:6no te...ni estés en el l de los grandesH4725
+- Pro_27:8cual ave...el hombre que se va de su lH4725
+- Ecl_1:5se apresura a volver al l de donde seH4725
+- Ecl_1:7al l de donde los ríos vinieron...vuelvenH4725
+- Ecl_3:16en l del juicio, allí impiedad; yH4725
+- Ecl_3:20todo va a un mismo l; todo es hecho delH4725
+- Ecl_4:15que estará en l de aquélH8478
+- Ecl_6:6aquél viviere...¿no van todos al mismo l?[[H4725]]
+- Ecl_8:10los que frecuentaban el l santo fueronH4725
+- Ecl_10:4no dejes tu l; porque la mansedumbreH4725
+- Ecl_10:6y los ricos están sentados en l bajoH8216
+- Ecl_11:3el l que el árbol cayere, allí quedaráH4725
+- Isa_3:24en l de los perfumes aromáticosH8478
+- Isa_4:5sobre los l de sus convocaciones, nube
+- Isa_6:12haya...multiplicado los l abandonados en
+- Isa_7:23el l donde había mil vides que valíanH4725
+- Isa_9:10pero en su l pondremos cedros
+- Isa_13:13y la tierra se moverá de su l, en laH4725
+- Isa_14:2los tornarán los...y los traerán a su lH4725
+- Isa_15:2a Bayit y a Dibón, l altos, a llorarH1116
+- Isa_16:12apareciere Moab cansado sobre los lH4725
+- Isa_18:7será traída...al l del nombre de JehováH4725
+- Isa_22:16el que en l alto labra su sepultura
+- Isa_22:19te arrojaré de tu l, y de tu puesto teH4673
+- Isa_22:23y lo hincaré como clavo en l firme; yH4725
+- Isa_22:25clavo hincado en l firme será quitadoH4725
+- Isa_25:5como el calor en l seco, así humillarásH6724
+- Isa_26:5derribó a los que moraban en l sublime
+- Isa_26:21que Jehová sale de su l para castigarH4725
+- Isa_28:8vómito y suciedad, hasta no...l limpioH4725
+- Isa_28:25pone el...y la cebada en el l señaladoH1367
+- Isa_33:16fortaleza de rocas será...l de refugioH4869
+- Isa_33:21allí será Jehová...l de ríos, de arroyosH4725
+- Isa_35:7el l seco se convertirá en estanque, yH8273
+- Isa_35:7en su guarida, será l de cañas y juncosH2682
+- Isa_36:7¿no es éste aquel cuyos l altos y cuyosH1116
+- Isa_37:38le mataron...y reinó en su l Esar-hadónH8478
+- Isa_45:2iré delante...enderezaré los l torcidosH1921
+- Isa_45:19no hablé...en un l oscuro de la tierraH4725
+- Isa_46:7llevan, y lo colocan en su l; allí seH8478
+- Isa_49:20estrecho es para mí este l; apártateH4725
+- Isa_55:13en l de la zarza crecerá ciprés, y en l deH8478
+- Isa_56:5les daré l en mi casa y dentro de misH3027
+- Isa_59:10estamos en l oscuros como muertosH820
+- Isa_60:13para decorar el l de mi santuario, yH4725
+- Isa_60:13gloria...y yo honraré el l de mis piesH4725
+- Isa_60:17y en l de piedras hierro
+- Isa_61:3se les dé gloria en l de ceniza
+- Isa_65:4y en l escondidos pasan la noche
+- Isa_65:5dicen: Estate en tu l, no te acerques
+- Isa_66:1dónde está la casa...el l de mi reposo?[[H4725]]
+- Jer_3:2ve en qué l no te hayas prostituidoH375
+- Jer_4:7y el destruidor...ha salido de su l paraH4725
+- Jer_6:3alrededor; cada uno apacentará en su lH3027
+- Jer_7:3mejorad...obras, y os haré morar en este lH4725
+- Jer_7:6en este l derramareis la sangre inocenteH4725
+- Jer_7:7os haré morar en este l, en la tierra queH4725
+- Jer_7:12andad ahora a mi l en Silo, donde hiceH4725
+- Jer_7:14a este l que di a vosotros y a vuestrosH4725
+- Jer_7:20ira se derramarán sobre este l, sobreH4725
+- Jer_7:31han edificado los l altos de Tofet, queH1116
+- Jer_7:32serán enterrados en Tofet...no haber lH4725
+- Jer_8:3los l adonde arroje yo a los que quedenH4725
+- Jer_10:17recoge...la que moras en l fortificadoH4693
+- Jer_13:7fui al Eufrates...y tomé el cinto del lH4725
+- Jer_14:13que en este l os daré paz verdaderaH4725
+- Jer_16:2no...ni tendrás hijos ni hijas en este lH4725
+- Jer_16:3dicho...de las hijas que nazcan en este lH4725
+- Jer_16:9haré cesar en este l...toda voz de gozoH4725
+- Jer_17:3por el pecado de tus l altos en todo tuH1116
+- Jer_17:12trono de gloria, excelso...es el l deH4725
+- Jer_19:3que yo traigo mal sobre este l, tal queH4725
+- Jer_19:4porque me dejaron, y enajenaron este lH4725
+- Jer_19:4llenaron este l de sangre de inocentesH4725
+- Jer_19:5edificaron l altos a Baal, para quemarH1116
+- Jer_19:6vienen días, dice Jehová, que este l noH4725
+- Jer_19:7y desvaneceré el consejo de...en este lH4725
+- Jer_19:11porque no habrá otro l para enterrarH4725
+- Jer_19:12así haré a este l, dice Jehová, y a susH4725
+- Jer_19:13las casas de...serán como el l de TofetH4725
+- Jer_22:3ni derraméis sangre inocente en este lH4725
+- Jer_22:4en l de David se sientan sobre su trono
+- Jer_22:11acerca de Salum...reinó en l de JosíasH8478
+- Jer_22:11salió de este l: No volverá más aquíH4725
+- Jer_22:12que morirá en el l adonde lo llevaronH4725
+- Jer_24:5los cuales eché de este l a la tierraH4725
+- Jer_24:9por maldición a todos los l adonde yoH4725
+- Jer_27:22los traeré y los restauraré a este lH4725
+- Jer_28:3dentro de dos años haré volver a este lH4725
+- Jer_28:3Nabucodonosor rey...tomó de este l paraH4725
+- Jer_28:4haré volver a este l a Jeconías hijo deH4725
+- Jer_28:6de ser devueltos de Babilonia a este lH4725
+- Jer_29:10palabra, para haceros volver a este lH4725
+- Jer_29:14y de todos los l...os haré volver al lH4725
+- Jer_29:26puesto por sacerdote en l del sacerdoteH8478
+- Jer_32:35edificaron l altos a Baal, los cualesH1116
+- Jer_32:37los haré volver a este l, y los haréH4725
+- Jer_33:10l, del cual decís que está desierto yH4725
+- Jer_33:12en este l desierto, sin hombre y sinH4725
+- Jer_37:1en l de Conías...el rey Sedequías hijo deH8478
+- Jer_40:2tu Dios habló este mal contra este lH4725
+- Jer_40:12judíos regresaron...todos los l adondeH4725
+- Jer_42:18seréis objeto...y no veréis más este lH4725
+- Jer_42:22moriréis en el l...deseasteis entrarH4725
+- Jer_44:29en este l os castigo, para que sepáisH4725
+- Jer_45:5daré tu vida por botín en todos los lH4725
+- Jer_48:35a quien sacrifique sobre los l altosH1116
+- Jer_49:8, Jer_49:30habitad en l profundos...moradoresH6009
+- Jer_51:62oh Jehová, tú has dicho contra este lH4725
+- Lam_2:6destruyó el l en donde se congregabanH4150
+- Eze_3:12bendita...gloria de Jehová desde su lH4725
+- Eze_4:3ponla en l de muro de hierro entre ti y la ciudad
+- Eze_4:3y será en l de cerco, y la sitiarás
+- Eze_4:15estiércol de bueyes en l de excremento humano
+- Eze_6:3haré venir...y destruiré vuestros l altosH1116
+- Eze_6:6l altos serán asolados, para que seanH1116
+- Eze_6:13l donde ofrecieron incienso a...ídolosH4725
+- Eze_7:22apartaré...y será violado mi l secreto
+- Eze_10:11que al l adonde se volvía la primeraH4725
+- Eze_12:3te pasarás de tu l a otro l a vista deH4725
+- Eze_16:16hiciste diversos l altos, y fornicasteH1116
+- Eze_16:24edificaste l altos, y te hiciste altarH7413
+- Eze_16:25cabeza de camino edificaste l alto, eH7413
+- Eze_16:31edificando tus l altos en toda cabezaH1354
+- Eze_16:32que en l de su marido recibe a ajenosH8478
+- Eze_16:34y tú das la paga, en l de recibirla
+- Eze_16:39destruirán tus l altos, y derribaránH1354
+- Eze_17:16el l donde habita el rey que le hizoH4725
+- Eze_20:29qué es ese l alto adonde vosotros vais?[[H1116]]
+- Eze_21:30en el l donde te criaste, en la tierraH4725
+- Eze_33:24los que habitan aquellos l asolados en
+- Eze_33:27están en aquellos l asolados caerán a
+- Eze_34:12libraré de todos los l en que fueronH4725
+- Eze_34:13las apacentaré...en todos los l habitadosH4186
+- Eze_36:34en l de haber permanecido asolada a ojos
+- Eze_38:15vendrás de tu l, de las regiones delH4725
+- Eze_39:11yo daré a Gog l para sepultura allí enH4725
+- Eze_41:4midió...me dijo: Este es el l santísimo
+- Eze_42:13allí pondrán las ofrendas...el l es santoH4725
+- Eze_42:14no saldrán...l santo al atrio exterior
+- Eze_42:20separación entre el santuario y el lH2455
+- Eze_43:7es el l de mi trono, el l donde posaréH4725
+- Eze_43:7los cuerpos muertos de...en sus l altosH4725
+- Eze_43:14hasta el l de abajo, dos codos, y laH5835
+- Eze_45:3estará el santuario y el l santísimo
+- Eze_45:4y servirá de l para sus casas, y comoH4725
+- Eze_46:19un l en el fondo del lado de occidenteH4725
+- Eze_46:20es el l donde los sacerdotes coceránH4725
+- Dan_8:8y en su l salieron otros cuatro cuernos
+- Dan_8:11el l de su santuario fue echado porH4349
+- Dan_8:22y sucedieron cuatro en su l
+- Dan_11:20en su l uno que hará pasar un cobradorH3653
+- Dan_11:21le sucederá en su l un hombre despreciableH3653
+- Dan_11:38honrará en su l al dios de las fortalezasH3653
+- Ose_1:10el l en donde les fue dicho...no soisH4725
+- Ose_4:16Jehová como a corderos en l espacioso?[[H4800]]
+- Ose_5:15y volveré a mi l, hasta que reconozcanH4725
+- Ose_9:13es semejante a...situado en l deliciosoH5116
+- Ose_10:8y los l altos de Avén serán destruidosH1116
+- Joe_3:7levantaré del l donde los vendisteisH4725
+- Amó_2:13yo os apretaré en vuestro l, como se
+- Amó_7:9los l altos de Isaac serán destruidos, yH1116
+- Amó_8:3en todo l los echarán fuera en silencioH4725
+- Miq_1:3aquí, Jehová sale de su l, y descenderáH4725
+- Miq_1:5cuáles son los l altos de Judá? ¿No esH1116
+- Miq_2:10porque no es este el l de reposo, pues
+- Nah_3:17van, y no se conoce el l donde estánH4725
+- Hab_3:11el sol y la luna se pararon en su lH2073
+- Sof_1:4exterminaré de este l...restos de BaalH4725
+- Sof_2:7aquel l para el remanente de la casa deH2256
+- Sof_2:11desde sus l se inclinarán a él todas lasH4725
+- Hag_2:9y daré paz en este l, dice Jehová deH4725
+- Zac_3:7entre éstos que aquí están te daré lH4108
+- Zac_12:6y Jerusalén será...habitada en su l, enH8478
+- Zac_14:10será...habitada en su l desde la puertaH8478
+- Zac_14:10hasta el l de la puerta primera, hastaH4725
+- Mal_1:11y en todo l se ofrece a mi nombreH4725
+- Mat_2:22Arquelao reinaba en Judea en l de HerodesG473
+- Mat_12:41y he aquí más que Jonás en este lG5602
+- Mat_12:42y he aquí más que Salomón en este lG5602
+- Mat_12:43anda por l secos, buscando reposo, yG5117
+- Mat_14:13se apartó...a un l desierto y apartadoG5117
+- Mat_14:15el l es desierto, y la hora ya pasadaG5117
+- Mat_14:35le conocieron los hombres de aquel lG5117
+- Mat_24:7habrá pestes y hambres...en diferentes lG5117
+- Mat_24:15el l santo la abominación desoladoraG5117
+- Mat_26:36llegó Jesús con ellos a un l que seG5564
+- Mat_26:52Jesús le dijo: Vuelve tu espada a su lG5117
+- Mat_27:33llegaron a un l llamado Gólgota, queG5117
+- Mat_27:33Gólgota...significa: L de la CalaveraG5117
+- Mat_28:6venid, ved el l donde fue puesto el SeñorG5117
+- Mar_1:35se fue a un l desierto, y allí orabaG5117
+- Mar_1:38vamos a...l vecinos, para que prediqueG2969
+- Mar_1:45que se quedaba fuera en los l desiertosG5117
+- Mar_6:10posad en...hasta que salgáis de aquel lG3699
+- Mar_6:11si en algún l no os recibieren ni os
+- Mar_6:31dijo: Venid vosotros...a un l desiertoG5117
+- Mar_6:32y se fueron solos en una barca a un lG5117
+- Mar_6:35el l es desierto, y la hora...avanzadaG5117
+- Mar_13:8habrá terremotos en muchos l, y habráG5117
+- Mar_14:32vinieron...un l que se llama GetsemaníG5564
+- Mar_15:22y le llevaron a un l llamado GólgotaG5117
+- Mar_15:22que traducido es: L de la CalaveraG5117
+- Mar_16:6aquí; mirad el l en donde le pusieronG5117
+- Luc_1:80y estuvo en l desiertos hasta el día
+- Luc_2:7porque no había l para ellos en el mesónG5117
+- Luc_4:17libro, halló el l donde estaba escritoG5117
+- Luc_4:37su fama se difundía por todos los l deG5117
+- Luc_4:42de día, salió y se fue a un l desiertoG5117
+- Luc_5:16él se apartaba a l desiertos, y oraba
+- Luc_6:17se detuvo en un l llano, en compañíaG5117
+- Luc_9:10se retiró aparte, a un l desierto deG5117
+- Luc_9:12que vayan...aquí estamos en l desiertoG5117
+- Luc_10:1toda ciudad y l adonde él había de irG5117
+- Luc_10:32llegando cerca de aquel l, y viéndoleG5117
+- Luc_11:1estaba Jesús orando en un l, y cuandoG5117
+- Luc_11:11l de pescado, le dará una serpiente?[[G473]]
+- Luc_11:24anda por l secos, buscando reposo; yG5117
+- Luc_11:31y he aquí más que Salomón en este lG5602
+- Luc_11:32y he aquí más que Jonás en este lG5602
+- Luc_14:8no te sientes en el primer l, no seaG4411
+- Luc_14:9da l a éste; y...a ocupar el último lG5117
+- Luc_14:10y siéntate en el último l, para queG5117
+- Luc_14:22ha hecho como mandaste, y aún hay lG5117
+- Luc_16:28que no vengan...a este l de tormentoG5117
+- Luc_19:5cuando Jesús llegó a aquel l, mirandoG5117
+- Luc_21:11diferentes l hambres y pestilenciasG5117
+- Luc_22:40llegó a aquel l, les dijo: Orad queG5117
+- Luc_23:33llegaron al l llamado de la CalaveraG5117
+- Jua_4:20decís que en Jerusalén es el l dondeG5117
+- Jua_5:13se había apartado de la gente...aquel lG5117
+- Jua_6:10y había mucha hierba en aquel l, y seG5117
+- Jua_6:23junto al l donde habían comido el panG5117
+- Jua_8:20habló Jesús en el l de las ofrendas
+- Jua_10:40al l donde...había estado bautizandoG5117
+- Jua_11:6quedó dos días más en el l donde estabaG5117
+- Jua_11:30que estaba en el l donde Marta le habíaG5117
+- Jua_11:48destruirán nuestro l santo y nuestraG5117
+- Jua_14:2voy, pues, a preparar l para vosotrosG5117
+- Jua_14:3y os preparare l, vendré otra vez, y osG5117
+- Jua_18:2Judas...que le entregaba, conocía aquel lG5117
+- Jua_19:13se sentó...en el l llamado el EnlosadoG5117
+- Jua_19:17salió al l llamado de la Calavera, y enG5117
+- Jua_19:20el l donde Jesús fue crucificado estabaG5117
+- Jua_19:41y en el l donde había sido crucificadoG5117
+- Jua_20:7lienzos, sino enrollado en un l aparteG5117
+- Jua_20:19estando las puertas cerradas en el lG3699
+- Jua_20:25metiere mi dedo en el l de los clavosG5179
+- Hec_1:25cayó Judas...para irse a su propio lG5117
+- Hec_4:31el l en que estaban congregados temblóG5117
+- Hec_6:13hablar palabras...contra este l santo yG5117
+- Hec_6:14decir que ese Jesús...destruirá este lG5117
+- Hec_7:7de esto saldrán y me servirán en este lG5117
+- Hec_7:33quita...l en que estás es tierra santaG5117
+- Hec_7:49qué casa...¿o cuál es el l de mi reposo?[[G5117]]
+- Hec_12:17les contó...Y salió, y se fue a otro lG5117
+- Hec_16:3por causa de los judíos...en aquellos lG5117
+- Hec_17:30manda a todos los hombres en todo lG3837
+- Hec_21:12le rogamos nosotros y los de aquel lG1786
+- Hec_21:28enseña a todos contra...ley y este lG5117
+- Hec_21:28además de...ha profanado este santo lG5117
+- Hec_24:3recibimos...en todo l con toda gratitudG3837
+- Hec_27:8un l que llaman Buenos Puertos, cercaG5117
+- Hec_27:41dando en un l de dos aguas, hicieronG5117
+- Hec_28:7en aquellos l había propiedades delG5117
+- Rom_9:26en el l donde se les dijo: VosotrosG5117
+- Rom_11:17has sido injertado en l de ellas
+- Rom_12:19os venguéis...dejad l a la ira de DiosG5117
+- 1Co_1:2que en cualquier l invocan el nombreG5117
+- 1Co_8:10ve...sentado a la mesa en un l de ídolosG1493
+- 1Co_11:15en l de velo le es dado el cabello
+- 1Co_11:18pues en primer l, cuando os reunís comoG4412
+- 1Co_14:16el que ocupa l de simple oyente, ¿cómoG5117
+- 1Co_14:23si...la iglesia se reúne en un solo lG846
+- 2Co_2:14manifiesta en todo l el olor de suG5117
+- 2Co_10:16anunciaremos el...en los l más allá de
+- Efe_1:3que nos bendijo...en los l celestiales
+- Efe_1:20sentándole a su...en los l celestiales
+- Efe_2:6nos hizo sentar en los l celestiales con
+- Efe_3:10dada a conocer por...en los l celestiales
+- Efe_4:27ni deis l al diabloG5117
+- 1Ts_1:8en todo l vuestra fe en Dios se haG5117
+- 1Ti_2:8pues, que los hombres oren en todo lG5117
+- Flm_1:13para que en l tuyo me sirviese en misG5228
+- Heb_2:6alguien testificó en cierto l, diciendoG4225
+- Heb_4:4en cierto l dijo así del séptimo día: YG4225
+- Heb_5:6dice en otro l: Tú eres sacerdote para
+- Heb_8:7no se hubiera procurado l para el segundoG5117
+- Heb_9:2en la primera parte, llamada el L SantoG39
+- Heb_9:3del tabernáculo llamada el L SantísimoG39
+- Heb_9:8no...manifestado el camino al L SantísimoG39
+- Heb_9:12una vez para siempre en el L SantísimoG39
+- Heb_9:25como entra...en el L Santísimo cada añoG39
+- Heb_10:19libertad para entrar en el L SantísimoG39
+- Heb_11:8obedeció para salir al l que había deG5117
+- Stg_2:3siéntate tú aquí en buen l; y decísG2573
+- Stg_4:15en l de lo cual deberíais decir...viviremos, y
+- 2Pe_1:19una antorcha que alumbra en l oscuroG5117
+- 3Jn_1:9gusta tener el primer l...no nos recibe
+- Rev_2:5y quitaré tu candelero de su l, si noG5117
+- Rev_6:14todo monte y toda isla...removió de su lG5117
+- Rev_12:6donde tiene l preparado por Dios, paraG5117
+- Rev_12:8ni se halló ya l para ellos en el cieloG5117
+- Rev_12:14para que volase de delante de...a su lG5117
+- Rev_16:16reunió en el l que en hebreo se llamaG5117
+- Rev_20:11huyeron...y ningún l se encontró paraG5117

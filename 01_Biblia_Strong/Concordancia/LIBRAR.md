@@ -1,0 +1,297 @@
+---
+tipo: concordancia
+palabra: LIBRAR
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# LIBRAR
+
+- Gén_32:11líbrame...de la mano de mi hermanoH5337
+- Gén_32:30dijo: Vi a Dios...fue librada mi almaH5337
+- Gén_37:21Rubén...lo libró de sus manos, y dijoH5337
+- Gén_37:22por librarlos así de sus manos, paraH5337
+- Éxo_3:8librarlos de mano de los egipcios, yH5337
+- Éxo_5:23porque...tú no has librado a tu puebloH5337
+- Éxo_6:6os sacaré...os libraré de su servidumbreH5337
+- Éxo_12:27hirió a los egipcios, y libró nuestrasH5337
+- Éxo_18:4Dios de mi padre me ayudó, y me libróH5337
+- Éxo_18:8contó a...cómo los había librado JehováH5337
+- Éxo_18:9haberlo librado de mano de los egipciosH5337
+- Éxo_18:10os libró de...los egipcios...l al puebloH5337
+- Núm_35:25la congregación librará al homicidaH5337
+- Deu_22:27dio voces...no hubo quien la libraseH3467
+- Deu_23:14para librarte y para entregar a tusH5337
+- Deu_25:11se acercare...para librar a su maridoH5337
+- Deu_32:39no hay quien pueda librar de mi manoH5337
+- Jos_2:13que libraréis nuestras vidas de laH5337
+- Jos_9:26los libró de la mano de los...de IsraelH5337
+- Jos_22:31habéis librado a los hijos de IsraelH5337
+- Jos_24:10os bendijo...y os libré de sus manosH5337
+- Jue_2:16jueces que los librasen de mano deH3467
+- Jue_2:18y los libraba de mano de los enemigosH3467
+- Jue_3:9levantó un libertador a los...los libróH3467
+- Jue_6:9os libré de mano de los egipcios, y deH5337
+- Jue_8:22que nos has librado de mano de MadiánH3467
+- Jue_8:34que los había librado de...sus enemigosH5337
+- Jue_9:17expuso su vida...para libraros de manoH5337
+- Jue_10:1levantó para librar a Israel Tola hijoH3467
+- Jue_10:12clamando a...no os libré de sus manos?[[H3467]]
+- Jue_10:13me habéis dejado, y...no os libraré másH3467
+- Jue_10:14a los dioses...que os libren ellos en elH3467
+- Jue_10:15te rogamos que nos libres en este díaH5337
+- 1Sa_4:8¿quién nos librará de la mano de estosH5337
+- 1Sa_7:3y os librará de la mano de los filisteosH5337
+- 1Sa_7:14Israel libró su territorio de...filisteosH5337
+- 1Sa_10:18os libré de mano de los egipcios, y deH5337
+- 1Sa_11:9mañana al calentar el...seréis libradosH8668
+- 1Sa_12:10líbranos...de mano de nuestros enemigosH5337
+- 1Sa_12:11os libró de mano de vuestros enemigosH5337
+- 1Sa_12:21vanidades que no aprovechan ni libranH5337
+- 1Sa_14:45así el pueblo libró de morir a JonatánH6299
+- 1Sa_14:48y libró a Israel de mano de los que loH5337
+- 1Sa_17:35yo...lo hería, y lo libraba de su bocaH5337
+- 1Sa_17:37Jehová...me ha librado de las garras deH5337
+- 1Sa_17:37me librará de la mano de este filisteoH5337
+- 1Sa_23:2ataca a los filisteos, y libra a KeilaH3467
+- 1Sa_23:5fue...David...libró David a los de KeilaH3467
+- 1Sa_26:24Jehová, y me libre de toda aflicciónH5337
+- 1Sa_30:8le dijo...cierto librarás a los cautivosH5337
+- 1Sa_30:18libró David...amalecitas habían tomadoH5337
+- 2Sa_3:18por mano...David libraré a mi puebloH3467
+- 2Sa_12:7te ungí...y te libré de la mano de SaúlH5337
+- 2Sa_14:16el rey oirá, para librar a su siervaH5337
+- 2Sa_18:6y se libró la batalla en el bosque de
+- 2Sa_19:5que hoy han librado tu vida, y la vidaH4422
+- 2Sa_19:9el rey nos ha librado de...enemigos, yH4422
+- 2Sa_22:1Jehová le había librado de...sus enemigosH5337
+- 2Sa_22:3salvador mío; de violencia me librasteH3467
+- 2Sa_22:18me libró de poderoso enemigo, y de losH5337
+- 2Sa_22:20sacó...me libró, porque se agradó de míH2502
+- 2Sa_22:44me has librado de las contiendas delH6403
+- 2Sa_22:49el que me libra de enemigos, y aun meH3318
+- 2Sa_22:49aun...me libraste del varón violentoH5337
+- 2Re_17:39él os librará de mano de...enemigosH5337
+- 2Re_18:29engañe...no os podrá librar de mi manoH5337
+- 2Re_18:30nos librará Jehová, y esta ciudad noH5337
+- 2Re_18:32engaña cuando dice: Jehová...libraráH5337
+- 2Re_18:33de los dioses...ha librado su tierra deH5337
+- 2Re_18:34¿pudieron éstos librar a Samaria de miH5337
+- 2Re_18:35¿qué dios...ha librado su tierra de miH5337
+- 2Re_18:35Jehová libre de mi mano a Jerusalén?[[H5337]]
+- 2Re_19:12¿acaso libraron sus dioses...nacionesH5337
+- 2Re_20:6y te libraré a ti y a esta ciudad deH5337
+- 1Cr_4:10y me libraras de mal, para que noH6213
+- 1Cr_16:35recógenos, y líbranos de las nacionesH5337
+- 2Cr_20:27gozo librándolos de sus enemigos
+- 2Cr_25:15dioses de...que no libraron a su puebloH5337
+- 2Cr_32:11Dios nos librará de la mano del rey deH5337
+- 2Cr_32:13¿pudieron los dioses de las...librar suH5337
+- 2Cr_32:14¿cómo podrá vuestro Dios libraros deH5337
+- 2Cr_32:15si ningún dios...pudo librar a su puebloH5337
+- 2Cr_32:15¿cuánto menos...Dios os podrá librar deH5337
+- 2Cr_32:17como los dioses...no pudieron librar aH5337
+- 2Cr_32:17tampoco el Dios de...librará al suyo deH5337
+- Esd_8:31nos libró de mano del enemigo y delH5337
+- Neh_9:28los oías...muchas veces los librasteH5337
+- Job_5:4sus hijos...y no habrá quien los libreH5337
+- Job_5:15así libra de la espada al pobre, de laH3467
+- Job_5:19en seis tribulaciones te librará, y enH5337
+- Job_6:23dicho...libradme de la mano del opresorH4422
+- Job_10:7que no hay quien de tu mano me libre?[[H5337]]
+- Job_22:30por la limpieza de tus manos...libradoH4422
+- Job_29:12yo libraba al pobre que clamaba, y alH4422
+- Job_33:24que lo libró de descender al sepulcroH6308
+- Job_36:15al pobre librará de su pobreza, y enH2502
+- Sal_6:4vuélvete, oh Jehová, libra mi almaH2502
+- Sal_7:1sálvame de...que me persiguen, y líbrameH5337
+- Sal_7:2me destrocen sin que haya quien me libreH5337
+- Sal_17:13libra mi alma de...malos con tu espadaH6403
+- Sal 18 tít.el día que le libró Jehová de manoH5337
+- Sal_18:17me libró de mi poderoso enemigo, y deH5337
+- Sal_18:19sacó...me libró, porque se agradó de míH2502
+- Sal_18:43me has librado de las contiendas delH6403
+- Sal_18:48que me libra de mis enemigos, y aunH6403
+- Sal_18:48eleva...me libraste de varón violentoH5337
+- Sal_19:12líbrame de los que me son ocultosH5352
+- Sal_22:4esperaron nuestros padres...los librasteH6403
+- Sal_22:5clamaron...fueron librados; confiaron enH4422
+- Sal_22:8encomendó a Jehová; líbrele él; sálvaleH6403
+- Sal_22:20libra de la espada mi alma, del poderH5337
+- Sal_22:21líbrame de los cuernos de los búfalosH6030
+- Sal_25:20guarda mi alma, y líbrame; no sea yoH5337
+- Sal_31:1en ti...confiado...líbrame en tu justiciaH6403
+- Sal_31:2inclina a mí tu oído, líbrame pronto; séH5337
+- Sal_31:15líbrame de la mano de mis enemigos yH5337
+- Sal_33:17vano...su fuerza a nadie podrá librarH4422
+- Sal_33:19para librar sus almas de la muerte; yH5337
+- Sal_34:4oyó, y me libró de todos mis temoresH5337
+- Sal_34:6oyó...y lo libró de todas sus angustiasH3467
+- Sal_34:17oye, y los libra de todas sus angustiasH5337
+- Sal_34:19pero de todas ellas le librará JehováH5337
+- Sal_35:10que libras al afligido del más fuerteH5337
+- Sal_37:40Jehová los ayudará y los librará; losH6403
+- Sal_39:8líbrame de todas mis transgresiones; noH5337
+- Sal_40:13quieras, oh Jehová, librarmeH5337
+- Sal_41:1pobre; en el día malo lo librará JehováH4422
+- Sal_43:1líbrame de gente impía, y del hombreH6403
+- Sal_44:3ni su brazo los libró; sino tu diestraH3467
+- Sal_50:15invócame...te libraré, y tú me honrarásH2502
+- Sal_50:22os despedace, y no haya quien os libreH5337
+- Sal_51:14líbrame de homicidios, oh Dios, DiosH5337
+- Sal_54:7me ha librado de toda angustia, y misH5337
+- Sal_56:13has librado mi alma de la muerte, yH5337
+- Sal_59:1líbrame de mis enemigos, oh Dios míoH5337
+- Sal_59:2líbrame de los que cometen iniquidadH5337
+- Sal_60:5para que se libren tus amados, salvaH2502
+- Sal_68:20y de Jehová...el librar de la muerteH8444
+- Sal_69:18alma...líbrame a causa de mis enemigosH6299
+- Sal_70:1oh Dios, acude a librarme; apresúrateH5337
+- Sal_71:2socórreme y líbrame en tu justiciaH5337
+- Sal_71:4Dios mío, líbrame de la mano del impíoH6403
+- Sal_71:11perseguidle y...no hay quien le libreH5337
+- Sal_72:12él librará al menesteroso que clamareH5337
+- Sal_79:9y líbranos, y perdona nuestros pecadosH5337
+- Sal_81:7clamaste, y yo te libré; te respondí enH2502
+- Sal_82:4librad...libradlo de mano de los impíosH6403
+- Sal_86:13has librado mi alma de las...del SeolH5337
+- Sal_89:48¿librarás su vida del poder del Seol?[[H4422]]
+- Sal_91:3el te librará del lazo del cazador, deH5337
+- Sal_91:14también lo libraré; le pondré en altoH6409
+- Sal_91:15invocará...lo libraré y le glorificaréH2502
+- Sal_97:10alma...de mano de los impíos los libraH5337
+- Sal_106:43muchas veces los libró; mas ellos seH5337
+- Sal_107:6, Sal_107:13, Sal_107:19y los libró de sus afliccionesH5337
+- Sal_107:20y los sanó, y los libró de su ruinaH4422
+- Sal_107:28claman...los libra de sus afliccionesH3318
+- Sal_108:6sean librados tus amados, salva con tuH2502
+- Sal_109:21líbrame, porque tu misericordia esH5337
+- Sal_109:31librar su alma de los que le juzganH3467
+- Sal_116:4diciendo: Oh Jehová, libra ahora miH4422
+- Sal_116:8tu has librado mi alma de la muerteH2502
+- Sal_119:134líbrame de la violencia de...hombresH6299
+- Sal_119:153mira mi aflicción, y líbrame, porqueH2502
+- Sal_119:170de ti; líbrame conforme a tu dichoH5337
+- Sal_120:2libra mi alma, oh...del labio mentirosoH5337
+- Sal_140:1líbrame, oh Jehová, del hombre maloH2502
+- Sal_140:4líbrame de hombres injuriosos, que hanH5341
+- Sal_142:6líbrame de los que me persiguen, porqueH5337
+- Sal_143:9líbrame de mis enemigos, oh Jehová; enH5337
+- Sal_144:11y líbrame de la mano de los hombresH5337
+- Pro_2:12para librarte del mal camino, de losH5337
+- Pro_2:16serás librado de la mujer extraña, deH5337
+- Pro_6:3líbrate, ya que has caído en la mano deH5337
+- Pro_10:2maldad...mas la justicia libra de muerteH5337
+- Pro_11:4ira; mas la justicia librará de muerteH5337
+- Pro_11:6la justicia de los rectos los libraráH5337
+- Pro_11:8el justo es librado de la tribulaciónH2502
+- Pro_11:9los justos son librados con la sabiduríaH2502
+- Pro_11:21la descendencia de los...será libradaH4422
+- Pro_12:6mas la boca de los rectos los libraráH5337
+- Pro_14:25el testigo verdadero libra las almasH5337
+- Pro_23:14con vara, y librarás su alma del SeolH5337
+- Pro_24:11libra a los que...llevados a la muerteH5337
+- Pro_28:26que camina en sabiduría será libradoH4422
+- Ecl_8:8ni la impiedad librará el que la poseeH4422
+- Ecl_9:15libra a la ciudad con su sabiduría; yH4422
+- Isa_19:20les enviará salvador...que los libreH5337
+- Isa_31:5amparará Jehová...librando, preservandoH5337
+- Isa_36:14os engañe...porque no os podrá librarH5337
+- Isa_36:15, Isa_36:18diciendo...Jehová nos libraráH5337
+- Isa_36:18¿acaso libraron...dioses de las nacionesH5337
+- Isa_36:19dios...¿Libraron a Samaria de mi mano?[[H5337]]
+- Isa_36:20¿qué dios...que haya librado su tierraH5337
+- Isa_36:20Jehová libre de mi mano a Jerusalén?[[H5337]]
+- Isa_37:12¿acaso libraron...dioses a las nacionesH5337
+- Isa_37:20Jehová Dios nuestro, líbranos de suH3467
+- Isa_38:6te libraré a ti y a...del rey de AsiriaH5337
+- Isa_38:17a ti agradó librar mi vida del hoyo
+- Isa_42:22son...para despojo, y no hay quien libreH5337
+- Isa_43:13era; y no hay quien de mi mano libreH5337
+- Isa_44:17le ruega...líbrame, porque mi dios eresH5337
+- Isa_44:20le desvía, para que no libre su almaH5337
+- Isa_46:7le gritan, y tampoco responde, ni libraH3467
+- Isa_47:3deshonra...no se librará hombre algunoH6293
+- Isa_50:2¿acaso...¿No hay en mí poder para librar?[[H5337]]
+- Isa_57:13cuando clames, que te libren tus ídolosH5337
+- Jer_1:8porque contigo estoy para librarteH5337
+- Jer_1:19estoy contigo, dice Jehová, para librarteH5337
+- Jer_2:27calamidad dicen: Levántate, y líbranosH3467
+- Jer_2:28a ver si te podrán librar en...aflicciónH3467
+- Jer_7:10librados somos; para seguir haciendoH5337
+- Jer_14:9¿por qué eres como...no puede librar?[[H3467]]
+- Jer_15:21te libraré de la mano de los malos, yH5337
+- Jer_20:13cantad a Jehová...ha librado el almaH5337
+- Jer_21:12; Jer_22:3librad al oprimido...del opresorH5337
+- Jer_30:7angustia para Jacob; pero...será libradoH3467
+- Jer_39:17yo te libraré...de aquellos...tú temesH5337
+- Jer_39:18ciertamente te libraré, y no caerás aH4422
+- Jer_42:11estoy yo para salvaros y libraros deH5337
+- Jer_51:6librad cada uno su vida, para que noH4422
+- Lam_5:8no hubo quien nos librase de su manoH6561
+- Eze_3:19él morirá...tú habrás librado tu almaH5337
+- Eze_3:21vivirá...y tú habrás librado tu almaH5337
+- Eze_7:19ni su oro podrá librarlos en el día delH5337
+- Eze_13:20libraré de vuestras manos, y soltaréH7167
+- Eze_13:21, Eze_13:23libraré mi pueblo de vuestra manoH5337
+- Eze_14:14librarían únicamente sus propias vidasH5337
+- Eze_14:16a sus hijos ni a sus hijas libraríanH5337
+- Eze_14:16, Eze_14:18ni a sus...ellos solos serían libradosH5337
+- Eze_14:18no librarían a sus hijos ni a sus hijasH5337
+- Eze_14:20no librarían a hijo ni a hija; ellosH5337
+- Eze_14:20librarían solamente sus propias vidasH5337
+- Eze_33:5el que se apercibiere librará su vidaH4422
+- Eze_33:9morirá por su...pero tú libraste tu vidaH5337
+- Eze_33:12la justicia del justo no lo librará elH5337
+- Eze_34:10libraré mis ovejas de sus bocas, y noH5337
+- Eze_34:12y las libraré de todos los lugares enH5337
+- Eze_34:27los libre de mano de los que se sirvenH5337
+- Dan_3:15¿y qué dios será aquel que os libreH7804
+- Dan_3:17nuestro Dios...puede librarnos...libraráH7804
+- Dan_3:28libró a sus siervos que confiaron en élH7804
+- Dan_3:29no hay dios que pueda librar como ésteH5338
+- Dan_6:14le pesó en...y resolvió librar a DanielH7804
+- Dan_6:14la puesta del sol trabajó para librarleH5338
+- Dan_6:16el Dios tuyo, a quien tú...él te libreH7804
+- Dan_6:20¿te ha podido librar de los leones?[[H7804]]
+- Dan_6:27y libra, y hace señales y maravillas enH7804
+- Dan_6:27él ha librado a Daniel del poder de losH7804
+- Dan_8:7no hubo quien librase al carnero de suH5337
+- Ose_2:10y ahora...nadie la librará de mi manoH5337
+- Ose_13:14los redimiré, los libraré de la muerteH1350
+- Ose_14:3no os librará el asirio; no montaremosH3467
+- Amó_2:14huir...ni el valiente librará su vidaH4422
+- Amó_3:12que el pastor libra de la boca del leónH5337
+- Jon_4:6y le librase de su malestar; y JonásH5337
+- Miq_4:10allí serás librada...redimirá JehováH5337
+- Miq_5:6nos librará del asirio, cuando viniereH5337
+- Sof_1:18ni su oro podrá librarlos en el díaH5337
+- Zac_11:6asolarán...yo no los libraré de susH4672
+- Zac_12:7y librará Jehová las tiendas de JudáH3467
+- Mat_6:13líbranos del mal; porque tuyo es elG4506
+- Mat_27:43líbrele ahora si le quiere; porque haG4506
+- Mat_27:49deja, veamos si viene Elías a librarleG4982
+- Luc_1:74librados de...enemigos, sin temor leG4506
+- Luc_11:4no nos metas en...mas líbranos del malG4506
+- Luc_20:16oyeron esto, dijeron: ¡Dios nos libre![[G1096]], [[G3361]]
+- Hec_7:10le libró de todas sus tribulacionesG1807
+- Hec_7:34he oído...he descendido para librarlosG1807
+- Hec_12:11el Señor...me ha librado de la mano deG1807
+- Hec_23:27lo libré yo acudiendo con la tropaG1807
+- Hec_26:17librándote de tu pueblo, y...gentilesG1807
+- Rom_7:24me librará de este cuerpo de muerte?[[G4506]]
+- Rom_8:2me ha librado de la ley del pecado y deG1659
+- Rom_15:31para que sea librado de los rebeldesG4506
+- 2Co_1:10el cual nos libró, y nos libra, yG4506
+- 2Co_1:10en quien esperamos que aún nos libraráG4506
+- Gál_1:4para librarnos del presente siglo maloG1807
+- Col_1:13nos ha librado de la potestad de lasG4506
+- 1Ts_1:10a Jesús, quien nos libra de la iraG4506
+- 2Ts_3:2seamos librados de hombres perversosG4506
+- 2Ti_3:11y de todas me ha librado el SeñorG4506
+- 2Ti_4:17así fui librado de la boca del leónG4506
+- 2Ti_4:18el Señor me librará de toda obra malaG4506
+- Heb_2:15librar a todos los que por el temorG525
+- Heb_5:7al que le podía librar de la muerte, fueG4982
+- 2Pe_2:7libró al justo Lot, abrumado por laG4506
+- 2Pe_2:9sabe el Señor librar de tentación a losG4506

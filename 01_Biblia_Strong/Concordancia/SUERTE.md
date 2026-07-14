@@ -1,0 +1,101 @@
+---
+tipo: concordancia
+palabra: SUERTE
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# SUERTE
+
+- Éxo_26:25de s que serán ocho tablas, con sus basas
+- Lev_16:8echará s Aarón sobre los dos machosH1486
+- Lev_16:8una s por Jehová, y otra s por AzazelH1486
+- Lev_16:9macho cabrío sobre el cual cayere la sH1486
+- Lev_16:10cayere la s por Azazel, lo presentaráH1486
+- Núm_16:29si...siguen la s de todos los hombres
+- Núm_26:55la tierra será repartida por s; y porH1486
+- Núm_26:56conforme...s será repartida su heredadH1486
+- Núm_33:54donde le cayere la s...tendrá cada unoH1486
+- Jos_13:6solamente repartirás tú por s el país
+- Jos_14:2por s...les dio su heredad, como JehováH1486
+- Jos_15:1tocó en s a la tribu de los hijos de JudáH1486
+- Jos_16:1tocó en s a los hijos de José desde elH1486
+- Jos_17:1se echaron...s para la tribu de ManasésH1486
+- Jos_17:2echaron también s para los otros hijos
+- Jos_17:14¿por qué nos has dado por...una sola sH1486
+- Jos_18:6yo os echaré s aquí delante de JehováH1486
+- Jos_18:8volved a mí, para que yo os eche s aquíH1486
+- Jos_18:10Josué les echó s delante de Jehová enH1486
+- Jos_18:11se sacó la s de la tribu de...BenjamínH1486
+- Jos_19:1segunda s tocó a Simeón, para la tribuH1486
+- Jos_19:9de la s de los hijos de Judá fue sacadaH256
+- Jos_19:10tercera s tocó a los hijos de ZabulónH1486
+- Jos_19:17la cuarta s correspondió a Isacar, aH1486
+- Jos_19:24la quinta s correspondió...hijos de AserH1486
+- Jos_19:32la sexta s correspondió a...de NeftalíH1486
+- Jos_19:40la séptima s correspondió...hijos de DanH1486
+- Jos_19:51las heredades que...entregaron por s enH1486
+- Jos_21:4la s cayó sobre las familias...coatitasH1486
+- Jos_21:4obtuvieron por s de la tribu de Judá, deH1486
+- Jos_21:5obtuvieron por s de las familias de laH1486
+- Jos_21:6de Gersón obtuvieron por s...13 ciudadesH1486
+- Jos_21:8dieron, pues...por s, como había mandadoH1486
+- Jos_21:10para ellos fue la s en primer lugarH1486
+- Jos_21:20recibieron por s ciudades de...EfraínH1486
+- Jos_21:40Merari...fueron por sus s doce ciudadesH1486
+- Jos_23:4os he repartido por s, en herencia para
+- 1Sa_14:41da s...la s cayó sobre Jonatán y Saúl
+- 1Sa_14:42echad s entre...Y la s cayó sobre Jonatán
+- 1Cr_6:54los coatitas...a ellos les tocó en sH1486
+- 1Cr_6:61los hijos de Coat...por s diez ciudadesH1486
+- 1Cr_6:63los hijos de Merari...por s doce ciudadesH1486
+- 1Cr_6:65por s de la tribu de los hijos de JudáH1486
+- 1Cr_24:5los repartieron...por s los unos con losH1486
+- 1Cr_24:6designando por s una casa paterna para
+- 1Cr_24:7la primera s tocó a Joiarib, la segundaH1486
+- 1Cr_24:31también echaron s, como sus hermanosH1486
+- 1Cr_25:8s para servir por turnos, entrando elH1486
+- 1Cr_25:9la primera s salió por Asaf, para JoséH1486
+- 1Cr_26:13echaron s, el pequeño con el grandeH1486
+- 1Cr_26:14s para la de oriente cayó a SelemíasH1486
+- 1Cr_26:14metieron en las s a Zacarías su hijoH1486
+- 1Cr_26:14y salió la s suya para la del norteH1486
+- Neh_10:34echamos...s los sacerdotes, los levitasH1486
+- Neh_11:1s para traer uno de cada diez para queH1486
+- Neh_13:15y cargaban asnos con...toda s de carga
+- Est_3:7s...delante de Amán, s para cada día yH1486
+- Est_9:24y había echado Pur, que quiere decir sH1486
+- Sal_16:5es la porción de...tú sustentas mi sH1486
+- Sal_22:18repartieron...sobre mi ropa echaron sH1486
+- Sal_52:4has amado toda s de palabras perniciosas
+- Sal_144:13graneros llenos, provistos de toda sH2177
+- Pro_1:14echa tu s entre nosotros; tengamosH1486
+- Pro_16:33s se echa en el regazo; mas de JehováH1486
+- Pro_18:18la s pone fin a los pleitos...y decideH1486
+- Cnt_7:13nuestras puertas hay toda s...frutas
+- Isa_17:14la parte...la s de los que nos saqueanH1486
+- Isa_34:17les echó s, y su mano les repartió conH1486
+- Isa_57:6las piedras lisas del valle...son tu sH1486
+- Jer_13:25esta es tu s, la porción que yo heH1486
+- Jer_44:8s que os acabéis, y seáis por maldición y
+- Eze_24:6sus piezas sácala, sin echar s sobreH1486
+- Eze_45:1repartáis por s la tierra en heredad
+- Eze_47:22echaréis sobre ella s por heredad para
+- Eze_47:22echarán s...para tener heredad entre las
+- Eze_48:29es la tierra que repartiréis por s en
+- Joe_3:3y echaron s sobre mi pueblo, y dieronH1486
+- Amó_7:17tu tierra será repartida por s; y túH2256
+- Abd_1:11echaban s sobre Jerusalén, tú tambiénH1486
+- Jon_1:7echemos s...sepamos por causa de quiénH1486
+- Jon_1:7y, echaron s, y la s cayó sobre JonásH1486
+- Miq_2:5no habrá quien a s reparta heredadesH1486
+- Nah_3:10sobre sus varones echaron s, y todosH1486
+- Mat_27:35echando s, para que se cumpliese loG2819
+- Mat_27:35partieron, y sobre m ropa echaron sG2819
+- Mar_15:24echando s sobre ellos para ver quéG2819
+- Luc_1:9tocó en s ofrecer el incienso entrandoG2975
+- Luc_23:34repartieron...sus vestidos, echando sG2819
+- Jua_19:24echemos s sobre ella, a ver de quiénG2819
+- Jua_19:24mis vestidos, y sobre mi ropa echaron sG2819
+- Hec_1:26echaron s, y la s cayó sobre MatíasG2819
+- Hec_8:21no tienes tú parte ni s en este asuntoG2819

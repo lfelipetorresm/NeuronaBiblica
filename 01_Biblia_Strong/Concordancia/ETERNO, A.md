@@ -1,0 +1,116 @@
+---
+tipo: concordancia
+palabra: ETERNO, A
+estado: Procesado
+etiquetas: ["#Concordancia"]
+---
+
+# ETERNO, A
+
+- Gén_21:33e invocó allí el nombre de...Dios eH5769
+- Gén_49:26hasta el término de los collados eH5769
+- Deu_33:15con la abundancia de los collados eH5769
+- Deu_33:27el e Dios es tu refugio, y...brazos eH6924
+- 1Cr_16:34bueno; porque su misericordia es eH5769
+- 1Cr_16:41a Jehová, porque es e su misericordiaH5769
+- Sal_24:7, Sal_24:9alzad...alzaos vosotras, puertas eH5769
+- Sal_45:6tu trono, oh Dios, es e y para siempreH5769
+- Sal_49:11su pensamiento es que sus casas serán eH5769
+- Sal_74:3dirige tus pasos a los asolamientos eH5331
+- Sal_112:6no resbalará...memoria e será el justoH5769
+- Sal_119:142tu justicia es justicia e, y tu leyH5769
+- Sal_119:144justicia e son tus testimonios; dameH5769
+- Sal_119:160y e es todo juicio de tu justiciaH5769
+- Sal_133:3allí envía Jehová bendición, y vida eH5704, [[H5769]]
+- Sal_135:13oh Jehová, e es tu nombre; tu memoriaH5769
+- Sal_139:24si hay en mí...y guíame en el camino eH5769
+- Ecl_12:5porque el hombre va a su morada e, yH5769
+- Isa_9:6se llamará su nombre...Padre e, PríncipeH5703
+- Isa_33:14¿quién de...habitará con las llamas e?[[H5769]]
+- Isa_40:28no has oído que el Dios e es JehováH5769
+- Isa_45:17será salvo en Jehová con salvación eH5769
+- Isa_54:8con misericordia e tendrá compasión deH5769
+- Isa_55:3venid a mí...haré con vosotros pacto eH5769
+- Isa_55:13será a Jehová por nombre, por señal eH5769
+- Isa_60:15haré que seas una gloria e, el gozo deH5769
+- Jer_5:22ordenación e la cual no quebrantará?[[H5769]]
+- Jer_10:10mas Jehová es...él es Dios vivo y Rey eH5769
+- Jer_23:40pondré...e confusión que nunca borraráH5769
+- Jer_31:3con amor e te he amado; por tanto, teH5769
+- Jer_32:40y haré con ellos pacto e, que no meH5769
+- Jer_50:5con pacto e que jamás se ponga en olvidoH5769
+- Jer_51:39duerman e sueño y no despierten, diceH5769
+- Jer_51:57y dormirán sueño e y no despertaránH5769
+- Eze_36:2las alturas e nos han sido dadas porH5769
+- Dan_7:14su dominio es...e, que nunca pasaráH5957
+- Dan_7:27del Altísimo, cuyo reino es reino e, yH5957
+- Dan_12:2despertados, unos para vida e, y otrosH5769
+- Hab_3:6se levantó, y midió...sus caminos son eH5703
+- Mat_18:8teniendo dos...ser echado en el fuego eG166
+- Mat_19:16¿qué bien haré para tener la vida e?[[G166]]
+- Mat_19:29cien veces más, y heredará la vida eG166
+- Mat_25:41al fuego e preparado para el diablo yG166
+- Mat_25:46al castigo e, y los justos a la vida eG166
+- Mar_3:29perdón, sino que es reo de juicio eG166
+- Mar_10:17bueno, ¿que haré para heredar la vida e?[[G166]]
+- Mar_10:30reciba...en el siglo venidero la vida eG166
+- Luc_10:25¿haciendo qué...heredaré la vida e?[[G166]]
+- Luc_16:9éstas falten, os reciban en las moradas eG166
+- Luc_18:18bueno, ¿qué haré para heredar la vida e?[[G166]]
+- Luc_18:30más...y en el siglo venidero la vida eG166
+- Jua_3:15-16no se pierda, mas tenga vida eG166
+- Jua_3:36el que cree en el Hijo tiene vida e; peroG166
+- Jua_4:14una fuente de agua que salte para vida eG166
+- Jua_4:36y recoge fruto para vida e, para que elG166
+- Jua_5:24y cree al que me envió, tiene vida eG166
+- Jua_5:39os parece que en ellas tenéis la vida eG166
+- Jua_6:27sino por la comida que a vida e permaneceG166
+- Jua_6:40ve al Hijo, y cree en él, tenga vida eG166
+- Jua_6:47os digo: El que cree en mí, tiene vida eG166
+- Jua_6:54come mi carne y bebe mi...tiene vida eG166
+- Jua_6:68iremos? Tú tienes palabras de vida eG166
+- Jua_10:28yo les doy vida e; y no perecerán jamásG166
+- Jua_12:25aborrece su vida...vida e la guardaráG166
+- Jua_12:50y sé que su mandamiento es vida e. AsíG166
+- Jua_17:2que dé vida e a todos los que le disteG166
+- Jua_17:3esta es la vida e: que te conozcan a tiG166
+- Hec_13:46y no os juzgáis dignos de la vida eG166
+- Hec_13:48los que estaban ordenados para vida eG166
+- Rom_1:20cosas invisibles de él, su e poder yG126
+- Rom_2:7vida e a los que, perseverando en bienG126
+- Rom_5:21gracia reine por la justicia para vida eG166
+- Rom_6:22la santificación, y como fin, la vida eG166
+- Rom_6:23la dádiva de Dios es vida e en CristoG166
+- Rom_16:25del misterio...oculto desde tiempos eG166
+- Rom_16:26según el mandamiento del Dios e, se haG166
+- 2Co_4:17cada vez más excelente y e peso deG166
+- 2Co_4:18son temporales...las que no se ven son eG166
+- 2Co_5:1un edificio, una casa...e, en los cielosG166
+- Gál_6:8el Espíritu, del Espíritu segará vida eG166
+- Efe_3:11propósito e que hizo en Cristo JesúsG165
+- 2Ts_1:9cuales sufrirán pena de e perdiciónG166
+- 2Ts_2:16nos dio consolación e y buena esperanzaG166
+- 1Ti_1:16habrían de creer en él para vida eG166
+- 1Ti_6:12la fe, echa mano de la vida e, a la cualG166
+- 1Ti_6:19por venir, que echen mano de la vida eG166
+- 2Ti_2:10obtengan la salvación...con gloria eG166
+- Tit_1:2en la esperanza de la vida e, la cualG166
+- Tit_3:7conforme a la esperanza de la vida eG166
+- Heb_5:9vino a ser autor de e salvación paraG166
+- Heb_6:2de la resurrección de los...y del juicio eG166
+- Heb_9:12una vez...habiendo obtenido e redenciónG166
+- Heb_9:14mediante el Espíritu e se ofreció a síG166
+- Heb_9:15reciban la promesa de la herencia eG166
+- Heb_13:20las ovejas, por la sangre del pacto eG166
+- 1Pe_5:10el Dios...que nos llamó a su gloria eG166
+- 2Pe_1:11otorgada amplia...entrada en el reino eG166
+- 1Jn_1:2anunciamos la vida e, la cual estabaG166
+- 1Jn_2:25es la promesa que él nos hizo, la vida eG166
+- 1Jn_3:15que ningún homicida tiene vida e...en élG166
+- 1Jn_5:11que Dios nos ha dado vida e; y esta vidaG166
+- 1Jn_5:13que sepáis que tenéis vida e, y para queG166
+- 1Jn_5:20éste es el verdadero Dios, y la vida eG166
+- Jud_1:6guardado bajo oscuridad, en prisiones eG126
+- Jud_1:7ejemplo, sufriendo el castigo del fuego eG166
+- Jud_1:21esperando la misericordia de...para vida eG166
+- Rev_14:6otro ángel; que tenía el evangelio eG166
